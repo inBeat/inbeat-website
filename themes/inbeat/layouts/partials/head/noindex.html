@@ -1,0 +1,5 @@
+{{- if .Site.Data.settings.removefromexternalsearch -}}
+	<meta name="robots" content="noindex">
+{{- else if .Params.noindex }}
+	<meta name="robots" content="noindex">
+{{- end -}}

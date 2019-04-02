@@ -1,0 +1,277 @@
+{{ define "main" }}
+<!-- Section -- intro -->
+{{ with .Params.section1 }}
+<!-- Section intro -->
+<section class="section section--intro" id="intro">
+    <div class="section__content section__content--fluid-width section__content--intro">
+      <div class="intro">    
+        <div class="intro__content">
+          <div class="intro__subtitle">{{- .subtitle | markdownify -}}</div>
+          <div class="intro__title">{{- .title | markdownify -}}</div>
+          <div class="intro__description">{{- .description | markdownify -}}</div>
+          <div class="intro__form form-demo">
+            <form id="DemoForm" method="post" action="index.html">
+              <input type="text" class="form-demo__input" name="demourl" value="" placeholder="your email" />
+              <input type="submit" name="submit" class="form-demo__submit" id="submit" value="SEND" />
+            </form>
+          </div>
+        </div>  
+      </div>
+    </div>
+    <div class="intro-animation">
+      <img src="{{- .image -}}" alt="" title=""/>
+    </div>
+    <svg class="svg-intro-bottom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
+    <defs> <linearGradient id="linear" x1="0" y1="0%" x2="100%" y2="20%" spreadMethod="pad"> <stop offset="0%" stop-color="#64b13d"/> <stop offset="100%" stop-color="#088957"/> </linearGradient> </defs>
+      <path d="M30,0 L56,80 Q57.5,84.4 60,82 L100,40 100,0 Z" fill="url(#linear)" fill-opacity="0.8"/>
+    </svg>
+</section>
+{{ end }}
+
+{{ with .Params.section2 }}
+<!-- Section features -->
+<section class="section section--features" id="features">
+  <div class="section__content section__content--fluid-width">
+    <div class="grid grid--4col grid--features">
+      {{ range $i, $e := .points }}
+      <div class="grid__item{{ if eq $i 0 }} grid__item--featured{{ end }}">
+        <h3 class="grid__title">{{- .title | markdownify -}}</h3>
+        <p class="grid__text">{{- .description | markdownify -}}</p>
+        <div class="grid__icon"><img src="{{- .icon -}}" alt="" title="{{- .title }}"/></div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- Section -- about -->
+{{ with .Params.section3 }}
+<section class="section section--about" id="about">
+    <div class="section__content section__content--fluid-width section__content--about">
+      <div class="grid grid--5col grid--about">
+        <div class="grid__item grid__item--x2">
+          <h3 class="grid__title">{{- .title | markdownify -}}</span></h3>
+          <p class="grid__text">{{ .description | markdownify }}</p>
+          <ul class="grid__list">
+            {{- range .points -}}
+            <li>{{ .text }}</li> 
+            {{- end -}}
+          </ul>
+        </div>
+        <div class="grid__item grid__item--x3">
+          <div class="grid__image grid__image--right" data-paroller-factor="0.2" data-paroller-type="foreground" data-paroller-direction="vertical"><img src="{{- .image -}}" alt="" title=""/></div>
+        </div>
+      </div>
+    </div>
+</section>
+{{ end }}
+
+{{ with .Params.section4 }}
+<!-- Section about -->
+<section class="section section--about">
+    <div class="section__content section__content--fluid-width section__content--about">
+      <div class="grid grid--5col grid--about">
+        <div class="grid__item grid__item--x2 grid__item--floated-right">
+          <h3 class="grid__title">{{- .title | markdownify -}}</span></h3>
+          <p class="grid__text">{{ .description | markdownify }}</p>
+          <ul class="grid__list">
+            {{- range .points -}}
+            <li>{{ .text }}</li> 
+            {{- end -}}
+          </ul>
+        </div>
+        <div class="grid__item grid__item--x3">
+          <div class="grid__image grid__image--left" data-paroller-factor="0.2" data-paroller-type="foreground" data-paroller-direction="vertical"><img src="{{- .image -}}" alt="" title=""/></div>
+        </div>
+      </div>
+    </div>
+</section>
+{{ end }}
+
+{{ with .Params.section5 }}
+<section class="section section--about">
+    <div class="section__content section__content--fluid-width section__content--about">
+      <div class="grid grid--5col grid--about">
+        <div class="grid__item grid__item--x2">
+          <h3 class="grid__title">{{- .title | markdownify -}}</span></h3>
+          <p class="grid__text">{{ .description | markdownify }}</p>
+          <ul class="grid__list">
+            {{- range .points -}}
+            <li>{{ .text }}</li> 
+            {{- end -}}
+          </ul>
+        </div>
+        <div class="grid__item grid__item--x3">
+          <div class="grid__image grid__image--right" data-paroller-factor="0.2" data-paroller-type="foreground" data-paroller-direction="vertical"><img src="{{- .image -}}" alt="" title=""/></div>
+        </div>
+      </div>
+    </div>
+</section>
+{{ end }}
+
+{{ with .Params.section6 }}
+<!-- Section features -->
+<section class="section section--more-features" id="morefeatures">
+    <div class="section__content section__content--fluid-width">
+      <h2 class="section__title section__title--centered">{{- .title | markdownify -}}</h2>
+      <div class="section__description section__description--centered">
+        {{- .description | markdownify -}}
+      </div>
+      <div class="grid grid--5col grid--more-features">
+        {{- range first 5 .points -}}
+        <div class="grid__item">
+          <div class="grid__icon"><img src="{{- .icon -}}" alt="{{- .title -}}" title=""/></div>
+          <h3 class="grid__title"><span>{{- .title | markdownify -}}</h3>
+        </div>
+        {{- end -}}
+      </div>
+      <div class="grid grid--5col grid--more-features">
+        {{- range last 5 .points -}}
+        <div class="grid__item">
+          <div class="grid__icon"><img src="{{- .icon -}}" alt="{{- .title -}}" title=""/></div>
+          <h3 class="grid__title">{{- .title | markdownify -}}</h3>
+        </div>
+        {{- end -}}
+      </div>
+    </div>
+</section>
+{{ end }}
+
+<!-- Section -- pricing -->
+{{- with .Params.skip -}}
+<!-- Section testimonials -->
+<section class="section section--testimonials" id="testimonials">
+
+    <div class="section__content section__content--full-width section__content--padding">
+            <h2 class="section__title section__title--centered">Success stories</h2>
+          <div class="testimonials">
+          <div class="testimonials__content swiper-wrapper">
+              <div class="testimonials__slide swiper-slide">
+                    
+              <div class="testimonials__thumb"><img src="images/avatar-1.jpg" alt="" title=""/></div>
+              <div class="testimonials__source">Lason Duvan <a href="#">New York Business Center</a></div>
+              <div class="testimonials__text"><p>"Business is all about the customer: what the customer wants and what they get. "</p></div>
+              
+              </div>
+              <div class="testimonials__slide swiper-slide">
+              <div class="testimonials__thumb"><img src="images/avatar-2.jpg" alt="" title=""/></div>
+              <div class="testimonials__source">Jada Sacks <a href="#">Paris Tehnics</a></div>
+              <div class="testimonials__text"><p>" I've internalized it to the point of understanding that the success of my actions and/or endeavors"</p></div>
+              
+              </div>
+              <div class="testimonials__slide swiper-slide">
+              <div class="testimonials__thumb"><img src="images/avatar-3.jpg" alt="" title=""/></div>
+              <div class="testimonials__source">Lason Duvan <a href="#">Music Software</a></div>
+              <div class="testimonials__text"><p>"The American Dream is that any man or woman, despite of his or her background circumstances"</p></div>
+              
+              </div>
+              <div class="testimonials__slide swiper-slide">
+              <div class="testimonials__thumb"><img src="images/avatar-4.jpg" alt="" title=""/></div>
+              <div class="testimonials__source">Duran Jackson <a href="#">New York Business Center</a></div>
+              <div class="testimonials__text"><p>"Generally, every customer wants a product or service that solves their problem, worth their money"</p></div>
+              
+              </div>
+              <div class="testimonials__slide swiper-slide">
+              <div class="testimonials__thumb"><img src="images/avatar-5.jpg" alt="" title=""/></div>
+              <div class="testimonials__source">Maria Allesi <a href="#">Italy Solutions</a></div>
+              <div class="testimonials__text"><p>"No one can make you successful; the will to success comes from within.' I've made this my motto."</p></div>
+              
+              </div>
+              <div class="testimonials__slide swiper-slide">
+              <div class="testimonials__thumb"><img src="images/avatar-6.jpg" alt="" title=""/></div>
+              <div class="testimonials__source">Jenifer Patrison<a href="#">App Dating</a></div>
+              <div class="testimonials__text"><p>"Can change their circumstances and rise as high as they are willing to work"</p></div>
+              
+              </div>  
+          </div>
+          
+          <div class="testimonials__pagination swiper-pagination"></div>
+
+        </div>
+      <div class="clear"></div>
+    </div>
+  
+</section>
+{{- end -}}
+
+<!-- Section -- testimonials -->
+{{- with .Params.section7 -}}
+<!-- Section pricing -->
+<section class="section" id="pricing">
+  <div class="section__content section__content--fluid-width section__content--padding">
+    <h2 class="section__title section__title--centered">{{- .title -}}</h2>
+    <div class="section__description section__description--centered">
+      {{- .description | markdownify -}}
+    </div>
+      <div class="pricing">
+        <div class="pricing__switcher switcher">
+          <div class="switcher__buttons">
+            <div class="switcher__button switcher__button--enabled">Monthly</div> 
+            <div class="switcher__button">Yearly</div>
+            <div class="switcher__border"></div>
+          </div>
+        </div>
+        {{- range .plans -}}
+        <div class="pricing__plan{{ if .popular }} pricing__plan--popular{{ end }}">
+          {{- if .popular }}
+          <div class="pricing__badge-bg"></div>
+          <div class="pricing__badge-text">POPULAR</div>
+          {{- end -}}
+          <h3 class="pricing__title">{{ .title | upper -}}</h3>   
+          <div class="pricing__values">
+            <div class="pricing__value pricing__value--show"><span>$</span>{{ .monthly }} <b>/ month</b></div>
+            <div class="pricing__value pricing__value--hide pricing__value--hidden"><span>$</span>{{ .yearly }} <b>/ yearly</b></div>
+          </div>  
+          <ul class="pricing__list">
+            {{- range .features -}}
+            <li class="{{- if .disabled -}}disabled{{- end -}}">{{ .text | markdownify }}</li>
+            {{- end -}}    
+          </ul> 
+          <a class="pricing__signup" href="#">Sign up</a>
+        </div>
+        {{ end }}
+      </div>
+    <div class="clear"></div>
+  </div>
+</section>
+{{ end }} 
+
+
+<!-- Section -->
+{{ with .Params.section8 }}
+<section class="section section--clients" id="clients">
+    <div class="section__content section__content--fluid-width">        
+      <div class="grid grid--5col">
+        {{- range .clients -}}
+        <div class="grid__item">
+          <div class="grid__client-logo">
+            <a href="{{- .link -}}" target="_blank"><img src="{{- .logo -}}" alt="" title=""/></a>
+          </div>
+        </div>
+        {{- end -}}
+    </div>
+</section>
+{{ end }}
+
+<!-- Section -->
+{{ with .Params.section9 }}
+<section class="section section--support" id="support">
+  <div class="section__content section__content--fluid-width section__content--support">  
+    <div class="grid grid--2col grid--support">
+      <div class="grid__item grid__item--padding">
+        <h3 class="grid__title">{{- .title -}}</h3>
+        <p class="grid__text">{{- .description -}}</p>
+      </div>
+      <div class="grid__item grid__item--padding">
+        <a href="#" class="grid__more">REQUEST A FREE DEMO</a>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <svg class="svg-support-bottom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
+    <path d="M0,50 L100,50 100,100 0,100 Z" fill="#f7f8f9"/>
+  </svg>
+</section>
+{{ end }}
+{{ end }}

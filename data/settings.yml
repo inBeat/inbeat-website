@@ -1,0 +1,21 @@
+socials:
+  facebookurl: ""
+  linkedinurl: ""
+  twitterurl: ""
+  youtubeurl: ""
+  instagramurl: ""
+address:
+  road:
+  app:
+  city:
+  province:
+  postal:
+  country:
+phone: 
+mphone: ""
+email: 
+sitedescription: "Plusieurs de vos abonnements/services vous offrent des rabais chez des partenaires. Notre plateforme les centralise pour vous permettre de les utiliser plus facilement."
+sitetitle: "Dealfinder | Accédez aux économies auxquels vous avez droit"
+defaultsocialimage: ""
+animation: images/intro-animation.gif
+removefromexternalsearch: true

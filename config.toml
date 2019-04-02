@@ -1,0 +1,51 @@
+baseURL = "https://www.inbeat.co/"
+DefaultContentLanguage = "en"
+title = ""
+theme = "inbeat"
+description = ""
+
+# Pointing to this file
+config = "config.toml"
+contentdir = "content"
+disableKinds = ["RSS"]
+# Create an array of files you don't want hugo to build
+ignoreFiles = []
+# Enable Logging
+log = false
+preserveTaxonomyNames = true
+pygmentsUseClasses = true
+relativeURLs = true
+languageCode = "en-us"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir = false
+
+#CUSTOM PARAMS
+[params]
+  ## Include google maps, with API Key
+  googleapikey = ""
+  ## This is used when the BaseURL does not need to modified (eg, in share links)
+  siteaddress = ""
+  siteaddressno = ""
+  ## FB share info
+  fbpagename = ""
+  fbappid = ""
+  ## Business name in Schema.org
+  schemabiz = ""
+  ## Google Tag Manager tracking ID
+  gtmid = ""
+
+# MARKDOWN
+## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+  angledQuotes = false
+  latexDashes = true
+
+[permalinks]
+  singles = "/:slug/"
+
+# [Languages.fr]
+# [Languages.fr.Taxonomies]
+# category = "categories"
+# createur = "createurs"

@@ -1,0 +1,9 @@
+<link rel="dns-prefetch" href="{{ .Site.Params.siteaddress }}">
+<!-- Preconnect API. For browser compatibility, check http://caniuse.com/#feat=link-rel-preconnect -->
+<link rel="preconnect" href="{{ .Site.BaseURL }}">
+{{ if .Params.notcanonical }}
+<link rel="canonical" href="{{ .Params.canonicalurl }}">
+{{ else }}
+<link rel="canonical" href="{{ .Permalink }}">
+{{ end }}
+<link rel="alternate" href="{{ .Permalink }}" hreflang="fr-ca" />

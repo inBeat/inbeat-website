@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <title>Documentation pour </title>
+</head>
+<body>
+  <div id="catalog" />
+  <script src="docs/catalog.min.js"></script>
+  <script>
+    Catalog.render({
+      title: 'Documentation',
+      logoSrc: '/assets/images/logo.png',
+      pages: [
+        {
+          path: '/',             // The path where the page can be accessed
+          title: 'Introduction', // The page title
+          src: 'docs/intro.md'   // Path to the Markdown document
+        },
+        {
+          path: '/authentification',             // The path where the page can be accessed
+          title: 'Authentification', // The page title
+          src: 'docs/authentification.md'   // Path to the Markdown document
+        },
+        {
+          path: '/interface',             // The path where the page can be accessed
+          title: 'Interface', // The page title
+          src: 'docs/interface.md'   // Path to the Markdown document
+        },
+        {
+          path: '/markdown',             // The path where the page can be accessed
+          title: 'Markdown', // The page title
+          src: 'docs/markdown.md'   // Path to the Markdown document
+        },
+        {
+          path: '/referencement',             // The path where the page can be accessed
+          title: 'Référencement', // The page title
+          src: 'docs/referencement.md'   // Path to the Markdown document
+        },
+        {
+          title: 'Modification',
+          pages: [
+            {
+              path: '/pages',
+              title: 'Pages',
+              src: 'docs/pages.md'
+            },
+            {
+              path: '/ressources',
+              title: 'Sujets à mieux comprendre',
+              src: 'docs/ressources.md'
+            },
+            {
+              path: '/formations',
+              title: 'Formations',
+              src: 'docs/formations.md'
+            },
+            {
+              path: '/services',
+              title: 'Services',
+              src: 'docs/services.md'
+            },
+            {
+              path: '/membres',
+              title: "Membres de l'équipe",
+              src: 'docs/membres.md'
+            },
+            {
+              path: '/informations',
+              title: 'Informations sur l\'entreprise',
+              src: 'docs/informations.md'
+            }
+          ]
+        },
+        {
+          path: '/problemes',             // The path where the page can be accessed
+          title: 'Problèmes', // The page title
+          src: 'docs/problemes.md'   // Path to the Markdown document
+        }
+      ]
+    }, document.getElementById('catalog'));
+  </script>
+</body>
+</html>

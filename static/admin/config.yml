@@ -1,0 +1,191 @@
+backend:
+  name: git-gateway
+  accept_roles: #optional - accepts all users if left out
+    - admin
+  branch: master # Branch to update (master by default)
+
+media_folder: "themes/inbeat/source-images" # Folder where user uploaded files should go
+public_folder: "/img" # The src attribute for uploaded media will begin with
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    editor:
+      preview: false
+    files:
+      - name: "accueil"
+        label: "Page d'accueil"
+        file: "content/_index.md"
+        description: "Texte de votre page d'accueil"
+        fields:
+          - name: section1
+            label: Section 1
+            widget: object
+            fields:
+              - {label: "Petit Titre", name: "subtitle", widget: "string"}
+              - {label: "Titre", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "text"}
+              - {label: "Image", name: "image", widget: "image", hint: "Utilisez une image de 1200px par 550px."}
+          - name: section2
+            label: Section 2
+            widget: object
+            fields:
+              - name: points
+                label: "Features"
+                widget: list
+                allow_add: false
+                fields:
+                  - {label: "Icône", name: "icon", widget: "string", hint: "Utilisez un icône en png de taille 96px par 96px, avec fond transparent. Le premier icône doit être blanc."}
+                  - {label: "Titre", name: "title", widget: "string"}
+                  - {label: "Description", name: "description", widget: "text"}
+          - name: section3
+            label: Section 3
+            widget: object
+            fields:
+              - {label: "Titre", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "text"}
+              - name: points
+                label: Points notables
+                widget: list
+                allow_add: true
+                fields:
+                  - {label: "Texte", name: "text", widget: "string"}
+              - {label: "Image", name: "image", widget: "image", hint: "Utilisez une image de 700px par 500px."}
+          - name: section4
+            label: Section 4
+            widget: object
+            fields:
+              - {label: "Titre", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "text"}
+              - name: points
+                label: Points notables
+                widget: list
+                allow_add: true
+                fields:
+                  - {label: "Texte", name: "text", widget: "string"}
+              - {label: "Image", name: "image", widget: "image", hint: "Utilisez une image de 700px par 500px."}
+          - name: section5
+            label: Section 5
+            widget: object
+            fields:
+              - {label: "Titre", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "text"}
+              - name: points
+                label: Points notables
+                widget: list
+                allow_add: true
+                fields:
+                  - {label: "Texte", name: "text", widget: "string"}
+              - {label: "Image", name: "image", widget: "image", hint: "Utilisez une image de 700px par 500px."}
+          - name: section6
+            label: Section 6
+            widget: object
+            fields:
+              - {label: "Titre", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "text"}
+              - name: points
+                label: "Fonctionnalités"
+                widget: list
+                allow_add: false
+                fields:
+                  - {label: "Icône", name: "icon", widget: "string", hint: "Utilisez un icône en png de taille 64px par 64px, avec fond transparent."}
+                  - {label: "Titre", name: "title", widget: "string"}
+          - name: section7
+            label: Section 7
+            widget: object
+            fields:
+              - {label: "Titre", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "text"}
+              - name: plans
+                label: "Plans"
+                widget: list
+                allow_add: false
+                fields:
+                  - {label: "Titre", name: "title", widget: "string"}
+                  - {label: "Populaire?", name: "popular", widget: "boolean", required: false, default: false}
+                  - {label: "Prix mensuel", name: "monthly", widget: "number"}
+                  - {label: "Prix annuel", name: "yearly", widget: "number"}
+                  - name: features
+                    label: "Fonctionnalités"
+                    widget: list
+                    allow_add: true
+                    fields:
+                      - {label: "Texte", name: "text", widget: "string"}
+                      - {label: "Rayé?", name: "disabled", widget: "boolean", required: false, default: false}
+          - name: section8
+            label: Section 8
+            widget: object
+            fields:
+              - name: clients
+                label: "Logos de clients"
+                widget: list
+                allow_add: false
+                fields:
+                  - {label: "Lien vers leur site", name: "link", widget: "string"}
+                  - {label: "Logo", name: "logo", widget: "image", hint: "Utilisez un PNG de 150px de large, avec fond transparent."}
+          - name: section9
+            label: Section 9
+            widget: object
+            fields:
+              - {label: "Texte", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "text"}
+##### SETTINGS
+  - name: "autres"
+    label: "Autres"
+    editor:
+      preview: false
+    files:
+      - name: "menu"
+        label: "Menu"
+        file: "data/menu.yml"
+        description: "Menu"
+        fields:
+          - name: main
+            label: Menu principal
+            widget: list
+            allow_add: false
+            fields:
+              - {label: "Texte", name: "fr", widget: "string"}
+              - {label: "Lien", name: "link", widget: "hidden"}
+              - {label: "Sous-menu", name: "submenu", widget: "boolean"}
+              - name: links
+                label: Liens
+                widget: list
+                allow_add: false
+                fields:
+                  - {label: "Texte", name: "fr", widget: "string"}
+                  - {label: "Lien", name: "link", widget: "hidden"}
+      - name: "settings"
+        label: "Généralités"
+        file: "data/settings.yml"
+        description: "Généralités"
+        fields:
+          - name: socials
+            label: Réseaux sociaux
+            widget: object
+            fields:
+              - {label: "Facebook", name: "facebookurl", widget: "string"}
+              - {label: "Linkedin", name: "linkedinurl", widget: "string", required: false}
+              - {label: "Twitter", name: "twitterurl", widget: "string", required: false}
+              - {label: "Youtube", name: "youtubeurl", widget: "string", required: false}
+              - {label: "Instagram", name: "instagramurl", widget: "string", required: false}
+          - name: address
+            label: Adresse
+            widget: object
+            fields:
+              - {label: "Rue", name: "road", widget: "string"}
+              - {label: "Appartement", name: "app", widget: "string", required: false}
+              - {label: "Ville", name: "city", widget: "string"}
+              - {label: "Province", name: "province", widget: "string"}
+              - {label: "Code postal", name: "postal", widget: "string"}
+              - {label: "Pays", name: "country", widget: "string"}
+          - {label: "Téléphone", name: "phone", widget: "string"}
+          - {label: "Téléphone (condensé)", name: "mphone", widget: "string"}
+          - {label: "Courriel", name: "email", widget: "string"}
+          - {name: sitedescription, label: "Description SEO par défaut", widget: "text", hint: "Ceci est la valeur pour la page d'accueil et la valeur par défaut pour toutes les pages."}
+          - {name: sitetitle, label: "Titre SEO par défaut", widget: "string", hint: "Ceci est la valeur pour la page d'accueil et la valeur par défaut pour toutes les pages."}
+          - {label: "Image de partage par défaut", name: "defaultsocialimage", widget: "image", hint: "Ceci est la valeur pour la page d'accueil et la valeur par défaut pour toutes les pages.", required: false}
+          - {label: "Animation pour le pop-up comment ça fonctionne", name: "animation", widget: "image"}
+          - {label: "Enlever des moteurs de recherche", name: "removefromexternalsearch", widget: "hidden", default: false, required: false}

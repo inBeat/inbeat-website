@@ -1,0 +1,23 @@
+<script type="application/ld+json"> { 
+"@context" : "http://schema.org",
+"@type" : "ProfessionalService", 
+"address" : {
+"@type": "PostalAddress",
+"addressLocality": "{{.Site.Data.settings.address.city}}", 
+"addressRegion": "{{.Site.Data.settings.address.province}}", 
+"postalCode": "{{.Site.Data.settings.address.postal}}", 
+"streetAddress": "{{.Site.Data.settings.address.road}}{{ with .Site.Data.settings.address.app}}, {{.}}{{end}}" }, 
+"name":"{{.Site.Params.schemabiz}}",
+"url":"{{.Site.Params.siteaddress}}",
+"email":"{{.Site.Data.settings.email}}",
+"telephone":"{{.Site.Data.settings.phone}}",
+"image":"{{.Site.Params.siteaddressno}}{{ .Site.Data.settings.defaultsocialimage }}",
+"openingHours": [ 
+"Mo-Fri 8:00-17:00"], 
+"aggregateRating":{
+"@type":"AggregateRating",
+"ratingValue":"5",
+"reviewCount":"12"},
+"priceRange":"1",
+"paymentAccepted":"Visa, Master Card"
+} </script>

@@ -1,0 +1,15 @@
+<head>
+  {{ partial "head/metadata-standard.html" . }}
+  {{ partial "head/noindex.html" . }}
+  {{ partial "head/tagmanager.html" . }}
+  {{ partial "head/metadata-opengraph.html" . }}
+  {{ partial "head/metadata-prefetch.html" . }}
+  {{ partial "head/metadata-schemaorg.html" . }}
+  {{ partial "head/metadata-favicons.html" . }}
+  {{ partial "head/site-style.html" . }}
+  <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {{ `<!--[if lt IE 9]>
+  		<script src="/js/vendor/html5shiv.js"></script>
+  		<script src="/js/vendor/jquery-1.12.0.min.js"></script>
+  	<![endif]--> ` | safeHTML }}
+</head>

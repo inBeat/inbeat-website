@@ -1,0 +1,34 @@
+<header class="header">
+  <div class="header__content header__content--fluid-width">
+    <div class="header__logo-title">INBEAT</div>
+    <nav class="header__menu">                                                                   
+      <ul>
+        <!-- {{- range $i, $e := $.Site.Data.menu.main -}}
+        <li class="{{- if .submenu -}}menu-item-has-children{{- end -}}"><a class="{{ if eq $i 0 }}selected {{ end }}header-link" href="#{{- .link -}}">{{- .fr -}}</a>
+          {{- if .submenu -}}
+          <ul class="sub-menu">
+            {{- range .links -}}
+            <li><a href="#{{- .link -}}" class="header-link">{{- .fr -}}</a></li>
+            {{- end -}}
+          </ul>
+          {{- end -}}
+        </li>
+        {{ end }} -->
+        <li><a class="selected header-link" href="#intro">HOME</a></li>
+        <li class="menu-item-has-children"><a href="#features" class="header-link">FEATURES</a>
+          <ul class="sub-menu">
+            <li><a href="#about" class="header-link">OUR PRODUCTS</a></li>
+            <li><a href="#morefeatures" class="header-link">HOW IT WORKS</a></li>
+            <li><a href="#clients" class="header-link">OUR CLIENTS</a></li>
+            <li><a href="#testimonials" class="header-link">TESTIMONIALS</a></li>
+            <li><a href="#support" class="header-link">SUPPORT</a></li>
+          </ul>
+        </li>
+        <li><a href="#pricing" class="header-link">PRICING</a></li>
+        <li><a href="#support" class="header-link">CONTACT</a></li>
+        <li class="header__btn header__btn--login modal-toggle" data-openpopup="signuplogin" data-popup="login"><a href="#">LOGIN</a></li>
+        <li class="header__btn header__btn--signup modal-toggle" data-openpopup="signuplogin" data-popup="signup"><a href="#">GET STARTED</a></li>      
+      </ul>
+    </nav> 
+  </div>    
+</header>

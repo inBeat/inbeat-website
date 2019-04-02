@@ -1,0 +1,15 @@
+main:
+  - fr: ACCUEIL
+    link: intro
+  - fr: FONCTIONNALITÉS
+    link: features
+    submenu: true
+    links:
+      - fr: À PROPOS
+        link: about
+      - fr: COMMENT ÇA MARCHE
+        link: hiw
+      - fr: PARTENAIRES
+        link: partenaires
+  - fr: CONTACT
+    link: contact
