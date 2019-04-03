@@ -1,0 +1,26 @@
+@mixin breakpoint($value) {
+  @if $value == 'phone' {
+
+    @media screen and (max-width : $phone) { @content; }
+
+  } @else if $value == 'bigphone' {
+
+    @media screen and (max-width : $bigphone)  { @content; }
+
+  } @else if $value == 'tablet' {
+
+    @media screen and (max-width : $tablet) { @content; }
+
+  } @else if $value == 'laptop' {
+
+    @media screen and (max-width : $laptop) { @content; }
+
+  } @else if $value == 'desktop-lg' {
+
+    @media screen and (min-width : 1401px) { @content; }        
+
+  } @else {
+
+    @media screen and(max-width : $value) { @content; }
+  }
+}

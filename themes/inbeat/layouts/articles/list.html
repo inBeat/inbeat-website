@@ -1,0 +1,15 @@
+{{ define "main" }}
+<section class="section section--page-top section--articles">
+  <div class="section__content section__content--fix-width section__content--padding">
+    <h1 class="section__title section__title--centered">{{ .Params.titre }}</h1>
+    <div class="section__description section__description--centered">
+    	{{ .Content }}
+      <ul>
+      {{ range $i, $e := sort .Pages ".Params.ordre" "asce" }}
+        <li><a href="{{- .Permalink -}}">{{ .Title }}</a></li>
+      {{ end }}
+      </ul>
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -18,7 +18,7 @@ const imagexl = 2620;
 const imagefull = 2000;
 const imagehalf = 1024;
 const imagequart = 600;
-const imagethumb = 80;
+const imagemobile = 400;
 const imageload = 30;
 const jsFiles = [
   'themes/inbeat/assets/js/theme/jquery-2.1.4.min.js',
@@ -33,7 +33,7 @@ const jsDest = 'themes/inbeat/static/js';
 gulp.task("image-resize", () => {
   return gulp.src("themes/inbeat/source-images/*.{jpg,png,jpeg,JPG}")
     .pipe(newer("themes/inbeat/static/img"))
-    .pipe(imagemin())
+    // .pipe(imagemin())
     .pipe(imageresize({ width: imagexl}))
     .pipe(gulp.dest("themes/inbeat/static/xl/img"))
     .pipe(imageresize({ width: imagefull }))
@@ -42,8 +42,8 @@ gulp.task("image-resize", () => {
     .pipe(gulp.dest("themes/inbeat/static/half/img"))
     .pipe(imageresize({ width: imagequart }))
     .pipe(gulp.dest("themes/inbeat/static/quart/img"))
-    .pipe(imageresize({ width: imagethumb }))
-    .pipe(gulp.dest("themes/inbeat/static/thumb/img"))
+    .pipe(imageresize({ width: imagemobile }))
+    .pipe(gulp.dest("themes/inbeat/static/mobile/img"))
     .pipe(imageresize({ width: imageload }))
     .pipe(gulp.dest("themes/inbeat/static/load/img"));
 });

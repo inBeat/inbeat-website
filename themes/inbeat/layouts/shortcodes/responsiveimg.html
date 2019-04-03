@@ -1,0 +1,2 @@
+{{ $image := .Get "src" }}
+<img srcset="/mobile/img/{{ $image }} 400w, /quart/img/{{ $image }} 600w, /half/img/{{ $image }} 1024w" sizes="(max-width: 420px) 400px, (max-width: 640px) 600px, 800px" src="/half/img/{{- $image -}}" alt='{{- .Get "alt"}}'>

@@ -1,0 +1,138 @@
+.section__content--article-width {
+  width: 100%;
+  max-width: 800px;
+  margin:auto;
+  clear:both;
+  @include breakpoint(tablet) {
+    width: 80%;
+  }
+  @include breakpoint(bigphone) {
+    width: 90%;
+  }
+}
+
+.section__content--article-image-width {
+  width: 80%;
+  margin:auto;
+  clear:both;
+}
+
+/* Header */
+.section--article-header {
+  text-align: center;
+  .section__content--padding {
+    padding: 80px 0 60px;
+  }
+  .article__tags {
+    display: inline-block;
+    text-decoration: none;
+    color: #666;
+    font-size: 14px; 
+    margin: 0 10px;
+    text-transform: uppercase;
+  }
+  .section__title {
+    max-width: 500px; 
+    margin: 15px auto 25px; 
+    font-size: 40px;
+    line-height: 1em;
+    font-weight: 500;
+    color: #333;
+    padding-bottom: 0px;
+    &:after {
+      content: none;
+    }
+  }
+  .article__info {
+    color: #666;
+    font-size: 14px;
+  }
+}
+
+.section--article-image {
+  background-size: 0 0;
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  @include breakpoint(phone) {
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    .section__content {
+      display: none;
+    }
+  }
+}
+
+.section--article-content {
+  p {
+    line-height: 1.9em;
+    padding-bottom: 1em;
+    font-size: 18px;
+    &:last-of-type {
+        padding-bottom: 0;
+    }
+
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 2em;
+    padding-top: 1em;
+    &:last-child {
+      padding-top: 2em;
+    }
+  }
+  .pro-tip {
+    padding: 30px 40px 32px 30px;
+    margin-bottom: 1em;
+    background: #eff7ff;
+    h3 {
+      padding-bottom: 10px;
+      color: #333;
+      font-size: 22px;
+      line-height: 1em;
+      font-weight: 500;
+    }
+    @include breakpoint(bigphone) {
+      margin: 0 -5% 1em;
+      padding-left: 5%;
+      padding-right: 5%;
+    }
+  }
+  blockquote {
+    margin: 20px 0 30px;
+    padding-left: 20px;
+    border-left: 5px solid;
+    border-color: #4cca87;
+    &:after {
+      content: none;
+    }
+  }
+  blockquote.twitter-tweet {
+    opacity: 0;
+  }
+  .twitter-tweet {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em !important;
+  }
+}
+
+/******** RESPONSIVE ********/
+@include breakpoint(laptop) {
+
+}
+
+@include breakpoint(tablet) {
+  
+}
+
+@include breakpoint(bigphone) {
+  
+}
+
+@include breakpoint(phone) {
+  
+}

@@ -1,15 +1,13 @@
 main:
-  - fr: ACCUEIL
+  - fr: HOME
     link: intro
-  - fr: FONCTIONNALITÉS
+  - fr: FEATURES
     link: features
     submenu: true
     links:
-      - fr: À PROPOS
+      - fr: OUR PRODUCTS
         link: about
-      - fr: COMMENT ÇA MARCHE
-        link: hiw
-      - fr: PARTENAIRES
-        link: partenaires
-  - fr: CONTACT
-    link: contact
+      - fr: OUR CLIENTS
+        link: clients
+  - fr: PRICING
+    link: pricing

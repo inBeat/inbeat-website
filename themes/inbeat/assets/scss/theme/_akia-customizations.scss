@@ -1,0 +1,28 @@
+body {
+  font-family: $pfont;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $hfont;
+}
+
+/********** CTA **********/
+
+/********** HEADER **********/
+
+.header--page .header__menu > ul > li.header__btn--login > a {
+  color: #000;
+  border-color: #000;
+}
+
+.header--page .menu-button {
+  border-bottom: 1px solid #000;
+  &:before {
+    border-bottom: 1px solid #000;
+    border-top: 1px double #000;
+  }
+}
+
+/********* FOOTER *********/
+
+/********* HOME **********/

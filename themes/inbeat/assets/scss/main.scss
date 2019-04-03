@@ -1,4 +1,10 @@
 @import "_variables.scss";
+@import "_responsive.scss";
 
-/* Custom Akia CSS */
-@import "_custom.scss";
+@import "theme/_reset.scss";
+@import "theme/_swiper.scss";
+@import "theme/_style.scss";
+@import "theme/_akia-customizations.scss";
+
+@import "custom/_utils.scss";
+@import "custom/_articles.scss";

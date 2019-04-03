@@ -10,6 +10,35 @@ public_folder: "/img" # The src attribute for uploaded media will begin with
 publish_mode: editorial_workflow
 
 collections:
+### ARTICLES
+  - name: "articles" # Used in routes, e.g. /admin/collections/blog
+    label: "Articles" # Used in the UI
+    folder: "content/articles" # The path to the folder where the documents are stored
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    extension: "md"
+    format: "yaml-frontmatter"
+    editor:
+      preview: true
+    create: true # Allow users to create new documents in this collection
+    filter: 
+      field: "i18nlanguage"
+      value: "en"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "SEO Description", name: "description", widget: "text", required: false}
+      - {label: "Slug/Link (if link is https://www.inbeat.co/articles/test-article, value is test-article)", name: "slug", widget: "string", default: "this-is-an-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
+      - {label: "Share image", name: "image", widget: "image" , required: false, hint: "Recommended size is 1200px x 630px"}
+      - {label: "Banner image", name: "headerimage", widget: "image" , required: false, hint: "Recommended size is 1600px x 350px"}
+      - {label: "Publication date", name: "date", widget: "datetime", format: "YYYY-MM-DD"}
+      - label: "Categories" 
+        name: "categories"
+        widget: "select"
+        multiple: true
+        options: [ "General", "Tips" ]
+      - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "en"}
+      - {label: "Text", name: "body", widget: "markdown"}
+      - {label: "Hide from website?", name: "draft", widget: "boolean", required: false, default: false}
+      - {label: "Remove from search engine?", name: "noindex", widget: "boolean", required: false, default: false}
   - name: "pages"
     label: "Pages"
     editor:

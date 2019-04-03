@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{$.Lang}}">
+	{{- $.Scratch.Add "homePage" ("/" | absLangURL) -}}
+	{{- $.Scratch.Add "articlesPage" ("articles/" | absLangURL) -}}
 	{{ partial "site-head.html" . }}
 	<body>
 		{{ `<!--[if lt IE 9]>
@@ -11,7 +13,7 @@
 		{{end}}
 		{{ partial "site-footer.html" . }}
 		{{ partial "site/modal-login-signup.html" . }}
-		{{ partial "site/modal-animation.html" . }}
+		<!-- {{ partial "site/modal-animation.html" . }} -->
 		{{ partial "footer/site-scripts.html" . }}
 	</body>
 </html>
