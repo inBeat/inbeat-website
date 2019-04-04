@@ -54,7 +54,7 @@ $(document).ready(function () {
 	function onScroll(event){
 
 	var scrollPos = $(document).scrollTop();
-	$('.header__menu ul li a').each(function () {
+	$('.header__menu ul li a.header-link').each(function () {
 		var currLink = $(this);
 	  var refElement = $(currLink.attr("href"));
 	 	if (refElement.length) {

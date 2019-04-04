@@ -5,6 +5,7 @@ image: ""
 titre: Find qualified influencers in seconds
 headerimage: /img/test-2-inbeat.jpg
 author: david
+i18nlanguage: en
 date: 2019-03-09
 categories:
   - General

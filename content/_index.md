@@ -1,7 +1,7 @@
 ---
 title: "inBeat | Find qualified influencers in seconds"
 description: >-
-  We have built the strongest influencer search engine on the market
+  Discover the strongest influencer search engine on the market.
 image: 
 section1:
   subtitle: Searching influencers made easy

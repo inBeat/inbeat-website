@@ -312,10 +312,10 @@ h6{
   cursor:pointer;
 }
 .header__menu > ul > li.menu-item-has-children > a{
-  background:url(images/drop-down-white.png) no-repeat 90% 50%;
+  background:url(/images/drop-down-white.png) no-repeat 90% 50%;
 }
 .header--sticky .header__menu > ul > li.menu-item-has-children > a{
-  background:url(images/drop-down.png) no-repeat 90% 50%;
+  background:url(/images/drop-down.png) no-repeat 90% 50%;
 }
 .header__menu ul ul {
   position: absolute;
@@ -751,7 +751,7 @@ h6{
   color:#82c064;
 }
 .btn--play{
-  background-image:url(images/btn-play.png);
+  background-image:url(/images/btn-play.png);
   background-position:90% 50%;
   background-repeat:no-repeat;
   padding-right:60px;
@@ -1008,7 +1008,7 @@ svg.svg-intro-bottom {
   padding:20px 0 0 0;
 }
 .grid--about .grid__list li{
-  background:url(images/checked.png) no-repeat 0 50%;
+  background:url(/images/checked.png) no-repeat 0 50%;
   font-size:18px;
   padding:10px 0 10px 40px;
 }
@@ -1434,10 +1434,10 @@ svg.svg-intro-bottom {
   padding:3px 0 3px 12%;
   text-align:left;
   line-height:24px;
-  background:url(images/checked-pricing.png) no-repeat 0 50%;
+  background:url(/images/checked-pricing.png) no-repeat 0 50%;
 }
 .pricing__plan--popular .pricing__list li {
-  background:url(images/checked-pricing-white.png) no-repeat 0 50%;
+  background:url(/images/checked-pricing-white.png) no-repeat 0 50%;
 }
 .pricing__list li.disabled {
   padding:3px 0 3px 12%;
@@ -1714,7 +1714,7 @@ svg.svg-intro-bottom {
   padding:10px 0;
   display:block;
   border-bottom:1px #a8a8a8 solid;
-  background:url(images/drop-down.png) no-repeat 98% 50%;
+  background:url(/images/drop-down.png) no-repeat 98% 50%;
 }
 select.select__field{
   width:100%;
@@ -1897,7 +1897,7 @@ select.select__field{
 .form__file .file__label {
   display: inline-block;
   border: none;
-  background-image: url(images/upload_file.png);
+  background-image: url(/images/upload_file.png);
   background-color: #a8a8a8;
   background-repeat: no-repeat;
   background-position: 85% 50%;
@@ -2080,7 +2080,7 @@ transition: all 0.3s 0.12s;
   list-style:none;
 }
 .modal__list li{
-  background:url(images/checked-pricing-white.png) no-repeat 0% 70%;
+  background:url(/images/checked-pricing-white.png) no-repeat 0% 70%;
   padding:0 0 0 25px;
   margin:4px 0;
   line-height:22px;

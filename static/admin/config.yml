@@ -74,8 +74,8 @@ collections:
                 widget: list
                 allow_add: false
                 fields:
-                  - {label: "Icône", name: "icon", widget: "string", hint: "Utilisez un icône en png de taille 96px par 96px, avec fond transparent. Le premier icône doit être blanc."}
                   - {label: "Titre", name: "title", widget: "string"}
+                  - {label: "Icône", name: "icon", widget: "string", hint: "Utilisez un icône en png de taille 96px par 96px, avec fond transparent. Le premier icône doit être blanc."}
                   - {label: "Description", name: "description", widget: "text"}
           - name: section3
             label: Section 3
@@ -127,8 +127,8 @@ collections:
                 widget: list
                 allow_add: false
                 fields:
-                  - {label: "Icône", name: "icon", widget: "string", hint: "Utilisez un icône en png de taille 64px par 64px, avec fond transparent."}
                   - {label: "Titre", name: "title", widget: "string"}
+                  - {label: "Icône", name: "icon", widget: "string", hint: "Utilisez un icône en png de taille 64px par 64px, avec fond transparent."}
           - name: section7
             label: Section 7
             widget: object
