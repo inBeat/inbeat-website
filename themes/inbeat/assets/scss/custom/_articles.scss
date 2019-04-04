@@ -73,7 +73,14 @@
     &:last-of-type {
         padding-bottom: 0;
     }
-
+    &.sidenote {
+      color: #919191;
+      font-size: 15px;
+      span {
+        font-size: 17px;
+        font-weight: 500;
+      }
+    }
   }
   img {
     max-width: 100%;

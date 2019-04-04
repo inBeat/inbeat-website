@@ -1,9 +1,12 @@
 {{ define "main" }}
 <section class="section section--page-top section--article-header">
   <div class="section__content section__content--article-width section__content--padding">
-    <a href="#" class="article__tags">GENERAL</a><a href="#" class="article__tags">GENERAL</a>
+    {{- range .Params.categories -}}
+    <a href="{{ $.Site.BaseURL }}categories/{{ . | urlize }}" class="article__tags">{{ . }}</a>
+    {{- end -}}
     <h1 class="section__title section__title--centered">{{ .Params.titre }}</h1>
-    <span class="article__info">David Morneau – March 3, 2019 – 253 shares – 12 comments</span>
+    {{- $author := index .Site.Data.authors .Params.author -}}
+    <span class="article__info">{{ $author.name }} – {{ .Date.Month }} {{ .Date.Day }}, {{.Date.Year}} – {{ .Params.shares }} shares – {{ .Params.comments }} comment{{- if and (not (eq .Params.comments 0)) (not (eq .Params.comments 1)) -}}s{{- end -}}</span>
   </div>
 </section>
 <section class="section section--article-image" style="background-image: url(/quart{{- .Params.headerimage -}});">

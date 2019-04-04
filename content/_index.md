@@ -1,12 +1,12 @@
 ---
-title: "Dealfinder | Accédez aux économies auxquels vous avez droit"
+title: "inBeat | Find qualified influencers in seconds"
 description: >-
-  Plusieurs de vos abonnements/services vous offrent des rabais chez des partenaires. Notre plateforme les centralise pour vous permettre de les utiliser plus facilement.
+  We have built the strongest influencer search engine on the market
 image: 
 section1:
-  subtitle: Sit back and relax
-  title: <span>Something Great</span> will happen for your clients.
-  description: Request a free demo <span>today</span>
+  subtitle: Searching influencers made easy
+  title: Find qualified influencers <span>in seconds</span>
+  description: Get your beta access <span>now</span>
   image: images/intro-animation.png
 section2:
   points:

@@ -89,9 +89,9 @@ gulp.task('scripts', ['scripts-normal', 'scripts-ui']);
 // watching
 gulp.task("watch", function() {
 
-  browserSync.init({
-      proxy: "http://localhost:1313/"
-  });
+  // browserSync.init({
+  //     proxy: "http://localhost:1313/"
+  // });
 
   gulp.watch('themes/inbeat/source-images/*.{jpg,png,jpeg,gif}', ['image-resize'] );
   gulp.watch('themes/inbeat/assets/scss/**/*.scss', ['sass']);
