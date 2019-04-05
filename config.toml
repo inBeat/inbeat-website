@@ -1,4 +1,4 @@
-baseURL = "https://suspicious-noyce-e8aa8d.netlify.com/"
+baseURL = "https://www.inbeat.co/"
 DefaultContentLanguage = "en"
 title = ""
 theme = "inbeat"
@@ -24,8 +24,8 @@ defaultContentLanguageInSubdir = false
   ## Include google maps, with API Key
   googleapikey = ""
   ## This is used when the BaseURL does not need to modified (eg, in share links)
-  siteaddress = "https://suspicious-noyce-e8aa8d.netlify.com/"
-  siteaddressno = "https://suspicious-noyce-e8aa8d.netlify.com"
+  siteaddress = "https://www.inbeat.co/"
+  siteaddressno = "https://www.inbeat.co"
   ## FB share info
   fbpagename = ""
   fbappid = ""

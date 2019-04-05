@@ -7,8 +7,6 @@ backend:
 media_folder: "themes/inbeat/source-images" # Folder where user uploaded files should go
 public_folder: "/img" # The src attribute for uploaded media will begin with
 
-publish_mode: editorial_workflow
-
 collections:
 ### ARTICLES
   - name: "articles" # Used in routes, e.g. /admin/collections/blog
@@ -75,7 +73,7 @@ collections:
                 allow_add: false
                 fields:
                   - {label: "Titre", name: "title", widget: "string"}
-                  - {label: "Icône", name: "icon", widget: "string", hint: "Utilisez un icône en png de taille 96px par 96px, avec fond transparent. Le premier icône doit être blanc."}
+                  - {label: "Icône", name: "icon", widget: "image", hint: "Utilisez un icône en png de taille 96px par 96px, avec fond transparent. Le premier icône doit être blanc."}
                   - {label: "Description", name: "description", widget: "text"}
           - name: section3
             label: Section 3
@@ -128,7 +126,7 @@ collections:
                 allow_add: false
                 fields:
                   - {label: "Titre", name: "title", widget: "string"}
-                  - {label: "Icône", name: "icon", widget: "string", hint: "Utilisez un icône en png de taille 64px par 64px, avec fond transparent."}
+                  - {label: "Icône", name: "icon", widget: "image", hint: "Utilisez un icône en png de taille 64px par 64px, avec fond transparent."}
           - name: section7
             label: Section 7
             widget: object
