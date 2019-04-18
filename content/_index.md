@@ -45,43 +45,15 @@ section4:
   title: <span>Introducing Pulse</span><br>Avoid paying for fraudulent influencers
 section5:
   description: >-
-    Blocks, Elements and Modifiers. A smart HTML/CSS structure that can easely
-    be reused. Layout driven by the purpose of modularity.
+    To power our deep learning model, we hand-pick thousands of influencers.
+    Access these and gain a head start on your competitors
   image: images/desktop-frame-about-3.png
-  points:
-    - text: Simple and Smart HTML code
-    - text: Works reintegrated in any part of the layout
-    - text: Reuse the elements from one design to another
-  title: >-
-    Build your SAAS landing page using the <span>intelligent BEM
-    interface</span>
+  points: []
+  title: '<span>Curated results, just for you</span>'
 section6:
-  description: >-
-    We believe we have created the most efficient SaaS landing page for your
-    users. Landing page with features that will convince you to use it for your
-    SaaS business.
-  points:
-    - icon: images/icons/icons/security.png
-      title: Reliable </span>and secure
-    - icon: images/icons/icons/payment.png
-      title: Secure <span>payment</span>
-    - icon: images/icons/icons/location.png
-      title: Location <span>detection</span>
-    - icon: images/icons/icons/users.png
-      title: User <span>friendly</span>
-    - icon: images/icons/icons/calendar.png
-      title: Calendar <span>widget</span>
-    - icon: images/icons/icons/security.png
-      title: Reliable </span>and secure
-    - icon: images/icons/icons/payment.png
-      title: Secure <span>payment</span>
-    - icon: images/icons/icons/location.png
-      title: Location <span>detection</span>
-    - icon: images/icons/icons/users.png
-      title: User <span>friendly</span>
-    - icon: images/icons/icons/calendar.png
-      title: Calendar <span>widget</span>
-  title: More features
+  description: '&nbsp;'
+  points: []
+  title: '&nbsp;'
 section7:
   description: >-
     We believe we have created the most efficient SaaS landing page for your
