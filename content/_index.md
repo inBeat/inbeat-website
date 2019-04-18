@@ -28,16 +28,15 @@ section2:
       title: Create and Export your Influencer List
 section3:
   description: >-
-    Blocks, Elements and Modifiers. A smart HTML/CSS structure that can easely
-    be reused. Layout driven by the purpose of modularity.
+    Our data model pulls and validates data from multiple sources, providing you
+    with accurate information. <span>Maintain your high open rate and keep your
+    bounce rate low with quality contact information.</span>
   image: images/desktop-frame-about.png
   points:
     - text: Simple and Smart HTML code
     - text: Works reintegrated in any part of the layout
     - text: Reuse the elements from one design to another
-  title: >-
-    Build your SAAS landing page using the <span>intelligent BEM
-    interface</span>
+  title: Get the right <span>influencers</span> with the right contact information
 section4:
   description: >-
     Blocks, Elements and Modifiers. A smart HTML/CSS structure that can easely
