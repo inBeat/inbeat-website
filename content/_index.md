@@ -36,16 +36,16 @@ section3:
   title: Get the right <span>influencers</span> with the right contact information
 section4:
   description: >-
-    Blocks, Elements and Modifiers. A smart HTML/CSS structure that can easely
-    be reused. Layout driven by the purpose of modularity.
+    Pulse flags engagement fraud across our entire database. We use a series of
+    filters to detect engagement groups, power likes and purchased followers.
+    <span>This data analysis is presented to you under one simple metric:
+    Pulse.</span>
   image: images/desktop-frame-about-2.png
   points:
     - text: Simple and Smart HTML code
     - text: Works reintegrated in any part of the layout
     - text: Reuse the elements from one design to another
-  title: >-
-    Build your SAAS landing page using the <span>intelligent BEM
-    interface</span>
+  title: <span>Introducing Pulse</span><br>Avoid paying for fraudulent influencers
 section5:
   description: >-
     Blocks, Elements and Modifiers. A smart HTML/CSS structure that can easely
