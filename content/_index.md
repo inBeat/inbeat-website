@@ -1,6 +1,6 @@
 ---
 section1:
-  description: Get your beta access <span>now</span>
+  description: Request your beta access and <span>get 20% off for life.</span>
   image: images/intro-animation.png
   subtitle: Searching influencers made easy
   title: Find qualified influencers <span>in seconds</span>
