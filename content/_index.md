@@ -10,22 +10,22 @@ section2:
         Find and filter your potential influencers by location, niche or
         platform.
       icon: images/icons/icons/responsive.png
-      title: Find <span>Influencers</span>
+      title: <span>Find </span>Influencers
     - description: >-
         Check for organic and sponsored content metrics to evaluate your
         potential reach.
       icon: images/icons/icons/analysis.png
-      title: Check <span>Engegement</span> Metrics
+      title: <span>Check </span>Engagement<span> Metrics</span>
     - description: >-
         Use our health score to detect engagement groups, fake followers and
         unauthentic profiles
       icon: images/icons/icons/grid.png
-      title: Detect and Avoid <span>Spam</span>
+      title: <span>Detect and Avoid</span> Spam
     - description: >-
         Export your influencers and their contact info to import them in your
         favorite CRM tool.
       icon: images/icons/icons/target.png
-      title: Create and Export your Influencer List
+      title: <span>Create and Export Your</span> Influencer List
 section3:
   description: >-
     Our data model pulls and validates data from multiple sources, providing you
