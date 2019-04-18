@@ -7,25 +7,25 @@ section1:
 section2:
   points:
     - description: >-
-        Responsive code that makes your landing page look good on all devices
-        (desktops, tablets, and phones). Created with mobile specialists.
+        Find and filter your potential influencers by location, niche or
+        platform.
       icon: images/icons/icons/responsive.png
-      title: <span>Responsive</span> Layout
+      title: Find <span>Influencers</span>
     - description: >-
-        A perfect structure created after we analized trends in SaaS landing
-        page designs. Analysis made to the most popular SaaS businesses.
+        Check for organic and sponsored content metrics to evaluate your
+        potential reach.
       icon: images/icons/icons/analysis.png
-      title: SaaS <span>Analysis</span>
+      title: Check <span>Engegement</span> Metrics
     - description: >-
-        Blocks, Elements and Modifiers. A smart HTML/CSS structure that can
-        easely be reused. Layout driven by the purpose of modularity.
+        Use our health score to detect engagement groups, fake followers and
+        unauthentic profiles
       icon: images/icons/icons/grid.png
-      title: Smart <span>BEM</span> Grid
+      title: Detect and Avoid <span>Spam</span>
     - description: >-
-        Blocks, Elements and Modifiers. A smart HTML/CSS structure that can
-        easely be reused. Layout driven by the purpose of modularity.
+        Export your influencers and their contact info to import them in your
+        favorite CRM tool.
       icon: images/icons/icons/target.png
-      title: Target <span>audience</span>
+      title: Create and Export your Influencer List
 section3:
   description: >-
     Blocks, Elements and Modifiers. A smart HTML/CSS structure that can easely
