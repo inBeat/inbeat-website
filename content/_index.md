@@ -55,10 +55,7 @@ section6:
   points: []
   title: '&nbsp;'
 section7:
-  description: >-
-    We believe we have created the most efficient SaaS landing page for your
-    users. Landing page with features that will convince you to use it for your
-    SaaS business.
+  description: 'Your own influencer database with no contract, setup or hidden fees'
   plans:
     - features:
         - text: <b>1</b> User Account
