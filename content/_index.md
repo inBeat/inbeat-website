@@ -101,9 +101,9 @@ section7:
 section8:
   clients:
     - link: 'http://visionmg.ca'
-      logo: images/clients/clients-logo1.png
-    - link: 'http://visionmg.ca'
-      logo: images/clients/clients-logo2.png
+      logo: /img/visionmg_logo_grey.png
+    - link: 'http://akiamarketing.ca'
+      logo: /img/logo-akia-couleur-sm.png
 section9:
   description: Find out what <span>INBEAT</span> can do for your business
   title: Ready to get started?
