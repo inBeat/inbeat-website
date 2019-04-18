@@ -32,10 +32,7 @@ section3:
     with accurate information. <span>Maintain your high open rate and keep your
     bounce rate low with quality contact information.</span>
   image: images/desktop-frame-about.png
-  points:
-    - text: Simple and Smart HTML code
-    - text: Works reintegrated in any part of the layout
-    - text: Reuse the elements from one design to another
+  points: []
   title: Get the right <span>influencers</span> with the right contact information
 section4:
   description: >-
