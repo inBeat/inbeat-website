@@ -105,7 +105,7 @@ section8:
     - link: 'http://akiamarketing.ca'
       logo: /img/logo-akia-couleur-sm.png
 section9:
-  description: Find out what <span>INBEAT</span> can do for your business
+  description: Find out what <b>INBEAT</b> can do for your business
   title: Ready to get started?
 ---
 
