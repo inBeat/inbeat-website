@@ -41,10 +41,7 @@ section4:
     <span>This data analysis is presented to you under one simple metric:
     Pulse.</span>
   image: images/desktop-frame-about-2.png
-  points:
-    - text: Simple and Smart HTML code
-    - text: Works reintegrated in any part of the layout
-    - text: Reuse the elements from one design to another
+  points: []
   title: <span>Introducing Pulse</span><br>Avoid paying for fraudulent influencers
 section5:
   description: >-
