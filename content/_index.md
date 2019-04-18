@@ -104,14 +104,8 @@ section8:
       logo: images/clients/clients-logo1.png
     - link: 'http://visionmg.ca'
       logo: images/clients/clients-logo2.png
-    - link: 'http://visionmg.ca'
-      logo: images/clients/clients-logo3.png
-    - link: 'http://visionmg.ca'
-      logo: images/clients/clients-logo4.png
-    - link: 'http://visionmg.ca'
-      logo: images/clients/clients-logo5.png
 section9:
-  description: Find out what INBEAT can do for your business
+  description: Find out what <span>INBEAT</span> can do for your business
   title: Ready to get started?
 ---
 
