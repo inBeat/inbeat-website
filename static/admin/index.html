@@ -14,9 +14,29 @@
   <meta name="robots" content="noindex,nofollow">
   <title>Gestionnaire de contenu</title>
   <link rel="stylesheet" href="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.css" />
-  <link rel="stylesheet" href="/admin/admin.css" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Work+Sans:400,500,700" rel="stylesheet">
 </head>
 <body>
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script>
+    // Register Preview CSS
+    CMS.registerPreviewStyle("/css/admin.min.css");
+
+    // Change articles preview template
+    var PostPreview = createClass({
+      render: function() {
+        var entry = this.props.entry;
+        var image = entry.getIn(['data', 'headerimage']);
+        var bg = this.props.getAsset(image);
+        return h('div', {},
+          h('h1', {}, this.props.widgetFor('titre')),
+          h('img', {src: bg.toString()}),
+          h('div', {"className": "section--article-content"}, this.props.widgetFor('body'))
+        );
+      }
+    });
+    CMS.registerPreviewTemplate("articles", PostPreview);
+
+  </script>
 </body>
 </html>

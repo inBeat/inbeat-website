@@ -66,6 +66,15 @@ gulp.task('sass', function () {
     .pipe(gulp.dest('themes/inbeat/static/css'));
 });
 
+gulp.task('sass-admin', function () {
+  return gulp.src('themes/inbeat/assets/scss/admin.scss')
+    .pipe(sourcemaps.init())
+    .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+    .pipe(rename('admin.min.css'))
+    .pipe(sourcemaps.write('maps'))
+    .pipe(gulp.dest('themes/inbeat/static/css'));
+});
+
 gulp.task('scripts-normal', function() {
     return gulp.src(jsFiles)
         .pipe(sourcemaps.init())

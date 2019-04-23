@@ -349,9 +349,7 @@ There are two ways to do this:
 2. Alter the data directly in Google Sheets using formulas. This method allows you to remove accents from letters such as é or change the user’s input to a product id. Using formulas is fairly simple, but if you want to dive deep into the concepts, you can go here: https://codingisforlosers.com/google-sheets/
 3. **Manually vet the Youtuber and automagically create the PO**
 
-Zapier allows you to create a listener. It follows this logic: IF String "Yes" is found in column X, send PO to e-commerce platform. This allows you to quickly glance and approve all of the influencers you’ll be shipping to. I recommend this final checkup, especially when you have multiple people running the operation. It acts as a safety 
-
-net for your brand (and your wallet).
+Zapier allows you to create a listener. It follows this logic: IF String "Yes" is found in column X, send PO to e-commerce platform. This allows you to quickly glance and approve all of the influencers you’ll be shipping to. I recommend this final checkup, especially when you have multiple people running the operation. It acts as a safety net for your brand (and your wallet).
 
 It is an out-of-the box integration that shouldn’t take you more than 30 minutes:
 

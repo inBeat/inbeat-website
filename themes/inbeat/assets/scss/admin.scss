@@ -1,0 +1,14 @@
+@import "_variables.scss";
+@import "_responsive.scss";
+
+.section--article-content {
+  font-family: 'Source Sans Pro', sans-serif;
+  padding:0;
+  font-size:16px;
+  margin:0 auto;
+  color:#1d1d1d;
+  background-color:#fff;
+  font-weight:300;
+}
+
+@import "custom/_articles.scss";
