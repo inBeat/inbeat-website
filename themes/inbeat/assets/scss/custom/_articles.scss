@@ -82,11 +82,32 @@
       }
     }
   }
+  h2 {
+    font-size: 32px;
+    line-height: 40px;
+    margin: 45px 0 15px;
+    padding: 0;
+  }
+  h3 {
+    font-size: 28px;
+    line-height: 36px;
+    margin: 35px 0 15px;
+    padding: 0;
+  }
+  h4 {
+    font-size: 24px;
+    line-height: 30px;
+    margin: 35px 0 15px;
+    padding: 0;
+  }
   img {
     max-width: 100%;
     height: auto;
+    max-height: 600px;
     padding-bottom: 2em;
     padding-top: 1em;
+    margin: auto;
+    display: block;
     &:last-child {
       padding-top: 2em;
     }
@@ -101,6 +122,7 @@
       font-size: 22px;
       line-height: 1em;
       font-weight: 500;
+      margin: 0;
     }
     @include breakpoint(bigphone) {
       margin: 0 -5% 1em;
@@ -124,6 +146,66 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 2em !important;
+  }
+  li {
+    line-height: 1.9em;
+    font-size: 18px;
+  }
+  ul {
+    text-align: left;
+    margin: -7px 0 18px;
+    overflow: hidden;
+    padding: 0 0 0 30px;
+    @include breakpoint(bigphone) {
+      padding: 0 0 0 7px;
+    }
+    li {
+      padding: 0 0 0 20px;
+      margin: 0;
+      list-style-type: none;
+      vertical-align: top;
+      position: relative;
+      &:before {
+        content: "";
+        display: block;
+        position: absolute;
+        top: 13px;
+        left: 0;
+        width: 6px;
+        height: 6px;
+        background: #333;
+        border-radius: 100%;  
+      }
+    }
+  }
+  ol {
+    counter-reset: li;
+    padding: 0;
+    list-style-type: none;
+    margin: -7px 0 18px 50px;
+    @include breakpoint(bigphone) {
+      margin: -7px 0 18px 27px;
+    }
+    li {
+      margin: 0;
+      position: relative;
+      &:before {
+        content: counter(li)'. ';
+        counter-increment: li;
+        font-size: 16px;
+        font-family: 'PT Sans',sans-serif;
+        font-weight: 400;
+        text-align: right;
+        position: absolute;
+        width: 40px;
+        left: -52px;
+        top: 1px;
+        @include breakpoint(bigphone) {
+          width: 20px;
+          left: -27px;
+        }
+      }
+    }
   }
 }
 

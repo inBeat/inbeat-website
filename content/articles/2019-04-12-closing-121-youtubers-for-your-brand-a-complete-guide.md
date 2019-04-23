@@ -11,9 +11,9 @@ categories:
   - Tips
 author: david
 comments: 0
-likes: 0
+shares: 0
 i18nlanguage: en
-draft: true
+draft: false
 noindex: false
 ---
 In this article, I’ll be showing you how to acquire as many influencers as you want for your brand.
@@ -32,14 +32,10 @@ You have to break this problem down to simple parts. First, you need to break th
 
 Before diving, let’s do some goal setting. Before diving in, let’s do some goal setting:
 
-<table>
-  <tr>
-    <td>Step 1: Set goals
-Step 2: Find influencers and vet them
-Step 3: Manage orders, approve content and track results
-Step 4: Optimize your system continuously</td>
-  </tr>
-</table>
+- Step 1: Set goals
+- Step 2: Find influencers and vet them
+- Step 3: Manage orders, approve content and track results
+- Step 4: Optimize your system continuously</td>
 
 ## Step 1: Setting Goals
 
@@ -142,7 +138,7 @@ We’ve done this internally to save our team from burnout and preserve our Glas
 * Selecting influencers based on your base standards 
 * Organizing the data in Sheets (you can use Excel if you’re that type of person ;))
 
-1. **Building a keyword list**
+**1. Building a keyword list**
 
 Using tools to build your seed list
 
@@ -154,7 +150,7 @@ Here is a list of tools you can use:
 * Keyword.io
 * Lsigraph.com
 
-\*\*	\*\*There are as many ways to build as there are atoms in the universe .
+**There are as many ways to build as there are atoms in the universe.**
 
 https://gph.is/2qdbm88
 
@@ -164,17 +160,13 @@ We use [this keyword tool](https://keywordtool.io/youtube) to start off our rese
 
 ![image alt text](image_2.jpg)
 
-<table>
-  <tr>
-    <td>PRO TIP
+{{% protip %}}
 The best possible outcome is finding queries that will pull up multiple Youtubers. Select your keywords accordingly. 
 
 If you are unsure about the quality of a keyword, punch it into Youtube and see if it brings relevant results.
 
 The more relevant results a keyword pulls, the less work you have to do.</td>
-
-  </tr>
-</table>
+{{% /protip %}}
 
 Using Youtube Suggest to augment your keyword list
 
@@ -182,12 +174,9 @@ Youtube suggest will allow you to find highly relevant keywords
 
 ![image alt text](image_3.jpg)
 
-<table>
-  <tr>
-    <td>PRO TIP
-I like using the Keywords Everywhere Chrome extension to speed up keyword picking. Generally speaking, a keyword with a higher volume will pull more influencers.</td>
-  </tr>
-</table>
+{{% protip %}}
+I like using the Keywords Everywhere Chrome extension to speed up keyword picking. Generally speaking, a keyword with a higher volume will pull more influencers.
+{{% /protip %}}
 
 Add all your queries to a Google Sheets
 
@@ -199,7 +188,7 @@ Run down the list and gather influencers with their relevant information.
 
 **Let’s dive in this part of the process!**
 
-1. **Finding influencers**
+**1. Finding influencers**
 
 Before you or a virtual assistant go through your list of keywords and find tons of influencers, make sure you establish clear guidelines. This limits human input (aka fewer errors).
 
@@ -215,9 +204,8 @@ After you have set this, go to Upwork and hire a virtual assistant to accomplish
 
 ![image alt text](image_5.jpg)
 
-<table>
-  <tr>
-    <td>Automating the process
+**Automating the process**
+
 This workflow is time intensive, to say the least. It generates us 25 qualified influencers for every 60 minutes of work.
 
 So, let’s say you would want to close 100 influencers. Taking into consideration a closing rate of 15%, you would need to prospect 667 Youtubers.
@@ -225,12 +213,6 @@ So, let’s say you would want to close 100 influencers. Taking into considerati
 You would roughly need 27 hours (667 / 25) of work to get this result, excluding the relation management work.
 
 We have built our own internal scraper to reduce this workload. We are currently working on a usable version of the tool. If that’s of interest to you, you can contact me here :)!</td>
-
-  </tr>
-</table>
-
-\*\*
-\*\*
 
 ## Pitching and Negotiating Influencers
 
@@ -271,14 +253,11 @@ Here is one piece of advice that will always serve you well:
 
 They ask for 40, you offer 20. They ask for 1000, you offer 300. This is a reflex that will significantly impact your bottom line.
 
-_A small note_
-
+{{< sidenote >}}
 The niche you are pitching is to be considered when considering the price you should pay. I like to gather 40-50 responses before I set my quantitative benchmarks on the price we’re willing to pay.
 
-I recommend you set your price using the following metrics:
-
-* Average video view (exclude viral videos that can inflate drastically this metric)
-* Average engagement ( (likes + dislikes + comments) / views)
+I recommend you set your price using the following metrics: average video view (exclude viral videos that can inflate drastically this metric) and average engagement ( (likes + dislikes + comments) / views)
+{{< /sidenote >}}
 
 **What about subscribers?**
 
@@ -342,7 +321,7 @@ Here is what your standard process will look like:
 
 Youtuber accepts negotiation > send form > Form is filled out > Google Sheets > Youtuber is vetted  > Zapier > PO > Email
 
-1. **Sending the form**
+**1. Sending the form**
 
 When a Youtuber accepts our negotiation, our outreach manager will send the form. This form will ask questions such as:
 
@@ -352,19 +331,15 @@ When a Youtuber accepts our negotiation, our outreach manager will send the form
 4. What is your Youtube channel?
 5. What is your Instagram?
 6. Which product do you want (visual selection)?
-7. …
-   Make sure to format your shipping fields to match your e-comm platform
+7. Make sure to format your shipping fields to match your e-comm platform
 
-
-```
 **Here is an example:**
 
 ![image alt text](image_6.jpg)
 
 This allows us to have the data properly formatted when it enters our Google Sheets
-```
 
-2. **Converting your form info to PO friendly data in Google Sheets**
+**2. Converting your form info to PO friendly data in Google Sheets**
 
 You want to convert your data to a format your e-commerce platform will understand. This allows your Sheets and your e-comm platform to communicate via Zapier. 
 
@@ -382,11 +357,11 @@ It is an out-of-the box integration that shouldn’t take you more than 30 minut
 
 ![image alt text](image_7.jpg)
 
-1. **Send a follow-up email telling the Youtuber his order has been shipped**
+**1. Send a follow-up email telling the Youtuber his order has been shipped**
 
 You can do this by setting an email tool on top of your Zapier (i.e. Mailgun) or you can just plug it into your existing system, without routing through Zapier. This is a decision you will take based on your current setup.
 
-1. **Approving content and tracking results**
+**1. Approving content and tracking results**
 
 We always ask our influencers to send us the content before they publish it. It is a key part to protect your brand identity. 
 

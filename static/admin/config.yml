@@ -7,6 +7,13 @@ backend:
 media_folder: "themes/inbeat/source-images" # Folder where user uploaded files should go
 public_folder: "/img" # The src attribute for uploaded media will begin with
 
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
+publish_mode: editorial_workflow
+
 collections:
 ### ARTICLES
   - name: "articles" # Used in routes, e.g. /admin/collections/blog
@@ -40,7 +47,7 @@ collections:
         options:
           - { label: "David Morneau", value: "david" }
       - {label: "Comments", name: "comments", widget: "number", default: 0}
-      - {label: "Likes", name: "likes", widget: "number", default: 0}
+      - {label: "Shares", name: "shares", widget: "number", default: 0}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "en"}
       - {label: "Text", name: "body", widget: "markdown"}
       - {label: "Hide from website?", name: "draft", widget: "boolean", default: false}
@@ -114,19 +121,19 @@ collections:
                 fields:
                   - {label: "Texte", name: "text", widget: "string"}
               - {label: "Image", name: "image", widget: "image", hint: "Utilisez une image de 700px par 500px."}
-          - name: section6
-            label: Section 6
-            widget: object
-            fields:
-              - {label: "Titre", name: "title", widget: "string"}
-              - {label: "Description", name: "description", widget: "text"}
-              - name: points
-                label: "Fonctionnalités"
-                widget: list
-                allow_add: false
-                fields:
-                  - {label: "Titre", name: "title", widget: "string"}
-                  - {label: "Icône", name: "icon", widget: "image", hint: "Utilisez un icône en png de taille 64px par 64px, avec fond transparent."}
+          # - name: section6
+          #   label: Section 6
+          #   widget: object
+          #   fields:
+          #     - {label: "Titre", name: "title", widget: "string"}
+          #     - {label: "Description", name: "description", widget: "text"}
+          #     - name: points
+          #       label: "Fonctionnalités"
+          #       widget: list
+          #       allow_add: false
+          #       fields:
+          #         - {label: "Titre", name: "title", widget: "string"}
+          #         - {label: "Icône", name: "icon", widget: "image", hint: "Utilisez un icône en png de taille 64px par 64px, avec fond transparent."}
           - name: section7
             label: Section 7
             widget: object
