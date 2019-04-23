@@ -13,7 +13,7 @@ author: david
 comments: 0
 shares: 0
 i18nlanguage: en
-draft: false
+draft: true
 noindex: false
 ---
 In this article, I’ll be showing you how to acquire as many influencers as you want for your brand.
@@ -361,7 +361,7 @@ It is an out-of-the box integration that shouldn’t take you more than 30 minut
 
 You can do this by setting an email tool on top of your Zapier (i.e. Mailgun) or you can just plug it into your existing system, without routing through Zapier. This is a decision you will take based on your current setup.
 
-**1. Approving content and tracking results**
+**2. Approving content and tracking results**
 
 We always ask our influencers to send us the content before they publish it. It is a key part to protect your brand identity. 
 
