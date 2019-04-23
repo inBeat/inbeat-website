@@ -28,8 +28,9 @@
         var entry = this.props.entry;
         var image = entry.getIn(['data', 'headerimage']);
         var bg = this.props.getAsset(image);
+        var title = entry.getIn(['data', 'titre']);
         return h('div', {},
-          h('h1', {}, this.props.widgetFor('titre')),
+          h('h1', {}, title,
           h('img', {src: bg.toString()}),
           h('div', {"className": "section--article-content"}, this.props.widgetFor('body'))
         );
