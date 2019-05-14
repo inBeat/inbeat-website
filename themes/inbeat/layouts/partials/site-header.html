@@ -1,6 +1,8 @@
 <header class="header{{ if not .IsHome }} header--page{{ end }}">
   <div class="header__content header__content--fluid-width">
-    <div class="header__logo-title">INBEAT</div>
+    <div class="header__logo-title">
+      <img src="/img/inbeat-logo-horizontal.png" alt="inBeat logo"/>
+    </div>
     <nav class="header__menu">                                                                   
       <ul>
         {{- range $i, $e := $.Site.Data.menu.main -}}

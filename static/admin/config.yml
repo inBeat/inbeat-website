@@ -18,12 +18,13 @@ logo_url: https://www.inbeat.co/img/logo.png
 
 collections:
 ### ARTICLES
-  - name: "articles" # Used in routes, e.g. /admin/collections/blog
-    label: "Articles" # Used in the UI
-    folder: "content/articles" # The path to the folder where the documents are stored
+  - name: articles # Used in routes, e.g. /admin/collections/blog
+    label: Articles # Used in the UI
+    label_singular: Article
+    folder: content/articles # The path to the folder where the documents are stored
     slug: "{{fields.slug}}"
-    extension: "md"
-    format: "yaml-frontmatter"
+    extension: md
+    format: yaml-frontmatter
     preview_path: articles/{{slug}}
     editor:
       preview: true
@@ -72,7 +73,6 @@ collections:
               - {label: "Petit Titre", name: "subtitle", widget: "string"}
               - {label: "Titre", name: "title", widget: "string"}
               - {label: "Description", name: "description", widget: "text"}
-              - {label: "Image", name: "image", widget: "image", hint: "Utilisez une image de 1200px par 550px."}
           - name: section2
             label: Section 2
             widget: object
@@ -83,7 +83,7 @@ collections:
                 allow_add: false
                 fields:
                   - {label: "Titre", name: "title", widget: "string"}
-                  - {label: "Icône", name: "icon", widget: "image", hint: "Utilisez un icône en png de taille 96px par 96px, avec fond transparent. Le premier icône doit être blanc."}
+                  - {label: "Icône", name: "icon", widget: "image"}
                   - {label: "Description", name: "description", widget: "text"}
           - name: section3
             label: Section 3
@@ -91,12 +91,6 @@ collections:
             fields:
               - {label: "Titre", name: "title", widget: "string"}
               - {label: "Description", name: "description", widget: "text"}
-              - name: points
-                label: Points notables
-                widget: list
-                allow_add: true
-                fields:
-                  - {label: "Texte", name: "text", widget: "string"}
               - {label: "Image", name: "image", widget: "image", hint: "Utilisez une image de 700px par 500px."}
           - name: section4
             label: Section 4
@@ -104,12 +98,6 @@ collections:
             fields:
               - {label: "Titre", name: "title", widget: "string"}
               - {label: "Description", name: "description", widget: "text"}
-              - name: points
-                label: Points notables
-                widget: list
-                allow_add: true
-                fields:
-                  - {label: "Texte", name: "text", widget: "string"}
               - {label: "Image", name: "image", widget: "image", hint: "Utilisez une image de 700px par 500px."}
           - name: section5
             label: Section 5
@@ -117,26 +105,7 @@ collections:
             fields:
               - {label: "Titre", name: "title", widget: "string"}
               - {label: "Description", name: "description", widget: "text"}
-              - name: points
-                label: Points notables
-                widget: list
-                allow_add: true
-                fields:
-                  - {label: "Texte", name: "text", widget: "string"}
               - {label: "Image", name: "image", widget: "image", hint: "Utilisez une image de 700px par 500px."}
-          # - name: section6
-          #   label: Section 6
-          #   widget: object
-          #   fields:
-          #     - {label: "Titre", name: "title", widget: "string"}
-          #     - {label: "Description", name: "description", widget: "text"}
-          #     - name: points
-          #       label: "Fonctionnalités"
-          #       widget: list
-          #       allow_add: false
-          #       fields:
-          #         - {label: "Titre", name: "title", widget: "string"}
-          #         - {label: "Icône", name: "icon", widget: "image", hint: "Utilisez un icône en png de taille 64px par 64px, avec fond transparent."}
           - name: section7
             label: Section 7
             widget: object

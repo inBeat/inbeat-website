@@ -8,23 +8,17 @@
         <div class="intro__content">
           <div class="intro__subtitle">{{- .subtitle | markdownify -}}</div>
           <h1 class="intro__title">{{- .title | markdownify -}}</h1>
-          <div class="intro__description">{{- .description | markdownify -}}</div>
           <div class="intro__form form-demo">
             <form id="DemoForm" method="post" action="index.html">
-              <input type="text" class="form-demo__input" name="demourl" value="" placeholder="your email" />
-              <input type="submit" name="submit" class="form-demo__submit" id="submit" value="SEND" />
+              <input type="text" class="form-demo__input" name="demourl" value="" placeholder="E-mail" />
+              <input type="submit" name="submit" class="form-demo__submit" id="submit" value="Send" />
             </form>
           </div>
+          <div class="intro__description">{{- .description | markdownify -}}</div>
         </div>  
       </div>
     </div>
-    <div class="intro-animation">
-      <img src="{{- .image -}}" alt="" title=""/>
-    </div>
-    <svg class="svg-intro-bottom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
-    <defs> <linearGradient id="linear" x1="0" y1="0%" x2="100%" y2="20%" spreadMethod="pad"> <stop offset="0%" stop-color="#4cca87"/> <stop offset="100%" stop-color="#001dff"/> </linearGradient> </defs>
-      <path d="M30,0 L56,80 Q57.5,84.4 60,82 L100,40 100,0 Z" fill="url(#linear)" fill-opacity="0.8"/>
-    </svg>
+    <img class="svg-intro-bottom" src="/img/test-gif-inbeat.gif" alt="inBeat influencer animation" />
 </section>
 {{ end }}
 
@@ -32,12 +26,13 @@
 <!-- Section features -->
 <section class="section section--features" id="features">
   <div class="section__content section__content--fluid-width">
-    <div class="grid grid--4col grid--features">
+    <div class="grid grid--4col grid--features-akia">
       {{ range $i, $e := .points }}
-      <div class="grid__item{{ if eq $i 0 }} grid__item--featured{{ end }}">
+      <div class="grid__item">
+        <img src="{{- .icon -}}" alt="{{- .title -}}" />
+        {{- if not (eq $i 3) -}}<hr>{{- end -}}
         <h3 class="grid__title">{{- .title | markdownify -}}</h3>
         <p class="grid__text">{{- .description | markdownify -}}</p>
-        <div class="grid__icon"><img src="{{- .icon -}}" alt="" title="{{- .title }}"/></div>
       </div>
       {{ end }}
     </div>
@@ -53,11 +48,7 @@
         <div class="grid__item grid__item--x2">
           <h3 class="grid__title">{{- .title | markdownify -}}</span></h3>
           <p class="grid__text">{{ .description | markdownify }}</p>
-          <ul class="grid__list">
-            {{- range .points -}}
-            <li>{{ .text }}</li> 
-            {{- end -}}
-          </ul>
+
         </div>
         <div class="grid__item grid__item--x3">
           <div class="grid__image grid__image--right" data-paroller-factor="0.2" data-paroller-type="foreground" data-paroller-direction="vertical"><img src="{{- .image -}}" alt="" title=""/></div>
@@ -75,11 +66,6 @@
         <div class="grid__item grid__item--x2 grid__item--floated-right">
           <h3 class="grid__title">{{- .title | markdownify -}}</span></h3>
           <p class="grid__text">{{ .description | markdownify }}</p>
-          <ul class="grid__list">
-            {{- range .points -}}
-            <li>{{ .text }}</li> 
-            {{- end -}}
-          </ul>
         </div>
         <div class="grid__item grid__item--x3">
           <div class="grid__image grid__image--left" data-paroller-factor="0.2" data-paroller-type="foreground" data-paroller-direction="vertical"><img src="{{- .image -}}" alt="" title=""/></div>
@@ -90,17 +76,12 @@
 {{ end }}
 
 {{ with .Params.section5 }}
-<section class="section section--about">
+<section class="section section--about with--border">
     <div class="section__content section__content--fluid-width section__content--about">
       <div class="grid grid--5col grid--about">
         <div class="grid__item grid__item--x2">
           <h3 class="grid__title">{{- .title | markdownify -}}</span></h3>
           <p class="grid__text">{{ .description | markdownify }}</p>
-          <ul class="grid__list">
-            {{- range .points -}}
-            <li>{{ .text }}</li> 
-            {{- end -}}
-          </ul>
         </div>
         <div class="grid__item grid__item--x3">
           <div class="grid__image grid__image--right" data-paroller-factor="0.2" data-paroller-type="foreground" data-paroller-direction="vertical"><img src="{{- .image -}}" alt="" title=""/></div>
@@ -199,7 +180,7 @@
 <!-- Section pricing -->
 <section class="section" id="pricing">
   <div class="section__content section__content--fluid-width section__content--padding">
-    <h2 class="section__title section__title--centered">{{- .title -}}</h2>
+    <h3 class="section__title section__title--centered">{{- .title -}}</h3>
     <div class="section__description section__description--centered">
       {{- .description | markdownify -}}
     </div>
@@ -212,12 +193,12 @@
           </div>
         </div>
         {{- range .plans -}}
-        <div class="pricing__plan{{ if .popular }} pricing__plan--popular{{ end }}">
+        <div class="pricing__plan">
           {{- if .popular }}
           <div class="pricing__badge-bg"></div>
           <div class="pricing__badge-text">POPULAR</div>
           {{- end -}}
-          <h3 class="pricing__title">{{ .title | upper -}}</h3>   
+          <h3 class="pricing__title">{{ .title -}}</h3>   
           <div class="pricing__values">
             <div class="pricing__value pricing__value--show"><span>$</span>{{ .monthly }} <b>/ month</b></div>
             <div class="pricing__value pricing__value--hide pricing__value--hidden"><span>$</span>{{ .yearly }} <b>/ yearly</b></div>
