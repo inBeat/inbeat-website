@@ -11,14 +11,18 @@
           <div class="intro__form form-demo">
             <form id="DemoForm" method="post" action="index.html">
               <input type="text" class="form-demo__input" name="demourl" value="" placeholder="E-mail" />
-              <input type="submit" name="submit" class="form-demo__submit" id="submit" value="Send" />
+              <button type="submit" name="submit" class="form-demo__submit" id="submit">Send</button>
             </form>
           </div>
           <div class="intro__description">{{- .description | markdownify -}}</div>
         </div>  
       </div>
     </div>
-    <img class="svg-intro-bottom" src="/img/test-gif-inbeat.gif" alt="inBeat influencer animation" />
+    <video autoplay loop muted playsinline class="svg-intro-bottom">
+      <!-- <source src="oneDoesNotSimply.webm" type="video/webm"> -->
+      <source src="/img/inbeat-video.mp4" type="video/mp4">
+    </video>
+    <!-- <img class="svg-intro-bottom" src="/img/test-gif-inbeat.gif" alt="inBeat influencer animation" /> -->
 </section>
 {{ end }}
 

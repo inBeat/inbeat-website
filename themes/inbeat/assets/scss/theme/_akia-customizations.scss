@@ -13,6 +13,15 @@ h1, h2, h3, h4, h5, h6 {
 .header {
   .header__menu {
     display: none;
+    @include breakpoint(bigphone) {
+      display: block;
+      .menu-button {
+        border-color: $darkgray;
+        &:before {
+          border-color: $darkgray;
+        }
+      }
+    }
   }
   &.header--sticky {
     .header__menu {
@@ -37,6 +46,12 @@ h1, h2, h3, h4, h5, h6 {
   img {
     max-height: 45px;
     width: auto;
+    @include breakpoint(bigphone) {
+      max-height: 35px;
+    }
+    @include breakpoint(phone) {
+      max-height: 30px;
+    }
   }
 }
 
@@ -86,6 +101,9 @@ h1, h2, h3, h4, h5, h6 {
   @include breakpoint(desktop-lg) {
     padding-top: 16%;
   }
+  @include breakpoint(bigphone) {
+    height: 100%;
+  }
 }
 
 .intro__title {
@@ -98,15 +116,15 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 68px;
     line-height: 84px;
   }
-  @include breakpoint(phone) {
+  @include breakpoint(bigphone) {
     font-size: 30px;
     line-height: 34px;
-    padding: 40px 0 20px 0;
+    padding-top: 60px;
   }
   @include breakpoint(phone) {
     font-size: 30px;
     line-height: 34px;
-    padding: 40px 0 20px 0;
+    padding-top: 100px;
   }
   span {
     font-weight: 500;
@@ -129,17 +147,20 @@ h1, h2, h3, h4, h5, h6 {
   color: #707070;
   font-size: 18px;
   font-weight: 400;
-  @include breakpoint(bigphone) {
-    padding: 0 0 20px 0;
-  }
-}
-
-.intro-animation {
   @include breakpoint(tablet) {
-    bottom: 20px;
-    img {
-      max-height: 100%;
-    }
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+  @include breakpoint(bigphone) {
+    position: absolute;
+    bottom: 120px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  @include breakpoint(phone) {
+    bottom: 30px;
   }
 }
 
@@ -148,6 +169,25 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-border-radius: $br;
   -moz-border-radius: $br;
   border-radius: $br;
+  @include breakpoint(tablet) {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    clear: none;
+  }
+  @include breakpoint(bigphone) {
+    position: absolute;
+    bottom: 200px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  @include breakpoint(phone) {
+    bottom: 130px;
+  }
+  #DemoForm {
+    height: 41px;
+  }
 }
 
 .form-demo__input {
@@ -170,7 +210,11 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   width: auto;
   height: 100%;
-  z-index:111;
+  z-index: 111;
+  @include breakpoint(bigphone) {
+    top: 50px;
+    height: 70%;
+  }
 }
 
 .section--intro {
