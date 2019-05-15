@@ -9,8 +9,9 @@
           <div class="intro__subtitle">{{- .subtitle | markdownify -}}</div>
           <h1 class="intro__title">{{- .title | markdownify -}}</h1>
           <div class="intro__form form-demo">
-            <form id="DemoForm" name="early-bird-form" method="post" netlify action="/thank-you">
-              <input type="text" class="form-demo__input" name="demourl" value="" placeholder="E-mail" />
+            <form id="DemoForm" name="early-bird-form" method="post" netlify action="/thank-you" netlify-honeypot="bot-field">
+              <input type="email" class="form-demo__input" name="early-email" value="" placeholder="E-mail" required />
+              <input name="bot-field" style="display: none !important" />
               <button type="submit" name="submit" class="form-demo__submit" id="submit">Send</button>
             </form>
           </div>

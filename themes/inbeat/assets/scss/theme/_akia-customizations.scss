@@ -195,7 +195,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .form-demo__input {
   font-size: 14px;
-  color: rgba(46,56,77,0.22);
+  color: $darkgray;
+  &:placeholder {
+    color: rgba(46,56,77,0.22);
+  }
 }
 
 .form-demo__submit {
