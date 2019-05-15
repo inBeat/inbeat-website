@@ -30,7 +30,7 @@ section3:
     Our data model pulls and validates data from multiple sources, providing you
     with accurate information. <span>Maintain your high open rate and keep your
     bounce rate low with quality contact information.</span>
-  image: images/desktop-frame-about.png
+  image: /img/list-1.png
   title: Get the right <span>influencers</span> with the right contact information
 section4:
   description: >-
@@ -38,13 +38,13 @@ section4:
     filters to detect engagement groups, power likes and purchased followers.
     <span>This data analysis is presented to you under one simple metric:
     Pulse.</span>
-  image: images/desktop-frame-about-2.png
+  image: /img/list-2.png
   title: Avoid paying for <span>fraudulent</span> influencers
 section5:
   description: >-
     To power our deep learning model, we hand-pick thousands of influencers.
     Access these and gain a head start on your competitors
-  image: images/desktop-frame-about-3.png
+  image: /img/list-3.png
   title: Curated results, just for you
 section7:
   description: 'Your own influencer database with no contract, setup or hidden fees'

@@ -51,7 +51,9 @@
 
         </div>
         <div class="grid__item grid__item--x3">
-          <div class="grid__image grid__image--right" data-paroller-factor="0.2" data-paroller-type="foreground" data-paroller-direction="vertical"><img src="{{- .image -}}" alt="" title=""/></div>
+          <div class="grid__image grid__image--right">
+            <img src="{{- .image -}}" alt="" title=""/>
+          </div>
         </div>
       </div>
     </div>
@@ -68,7 +70,9 @@
           <p class="grid__text">{{ .description | markdownify }}</p>
         </div>
         <div class="grid__item grid__item--x3">
-          <div class="grid__image grid__image--left" data-paroller-factor="0.2" data-paroller-type="foreground" data-paroller-direction="vertical"><img src="{{- .image -}}" alt="" title=""/></div>
+          <div class="grid__image grid__image--left grid__vertical--line">
+            <img src="{{- .image -}}" alt="" title=""/>
+          </div>
         </div>
       </div>
     </div>
@@ -84,7 +88,9 @@
           <p class="grid__text">{{ .description | markdownify }}</p>
         </div>
         <div class="grid__item grid__item--x3">
-          <div class="grid__image grid__image--right" data-paroller-factor="0.2" data-paroller-type="foreground" data-paroller-direction="vertical"><img src="{{- .image -}}" alt="" title=""/></div>
+          <div class="grid__image grid__image--right grid__vertical--line">
+            <img src="{{- .image -}}" alt="" title=""/>
+          </div>
         </div>
       </div>
     </div>
@@ -188,7 +194,7 @@
         <div class="pricing__switcher switcher">
           <div class="switcher__buttons">
             <div class="switcher__button switcher__button--enabled">Monthly</div> 
-            <div class="switcher__button">Yearly</div>
+            <div class="switcher__button">Annually</div>
             <div class="switcher__border"></div>
           </div>
         </div>
@@ -196,7 +202,7 @@
         <div class="pricing__plan">
           {{- if .popular }}
           <div class="pricing__badge-bg"></div>
-          <div class="pricing__badge-text">POPULAR</div>
+          <div class="pricing__badge-text">popular</div>
           {{- end -}}
           <h3 class="pricing__title">{{ .title -}}</h3>   
           <div class="pricing__values">

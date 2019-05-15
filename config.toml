@@ -30,9 +30,9 @@ defaultContentLanguageInSubdir = false
   fbpagename = ""
   fbappid = ""
   ## Business name in Schema.org
-  schemabiz = ""
+  schemabiz = "inBeat"
   ## Google Tag Manager tracking ID
-  gtmid = ""
+  gtmid = "GTM-W2MQ972"
 
 # MARKDOWN
 ## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
