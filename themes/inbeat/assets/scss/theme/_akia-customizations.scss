@@ -63,21 +63,21 @@ h1, h2, h3, h4, h5, h6 {
 #intro {
   @include breakpoint(tablet) {
     height: 120%;
+    &:after {
+      content: " ";
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(255,255,255,0.8);
+      z-index: 125;
+    }
   }
   @include breakpoint(bigphone) {
     height: 100%;
-  }
-  &:after {
-    content: " ";
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(255,255,255,0.8);
-    z-index: 125;
   }
 }
 
