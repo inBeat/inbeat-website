@@ -56,7 +56,7 @@ $(document).ready(function () {
 	var scrollPos = $(document).scrollTop();
 	$('.header__menu ul li a.header-link').each(function () {
 		var currLink = $(this);
-	  var refElement = $(currLink.attr("href"));
+	  var refElement = $(currLink.attr("href").split("#")[1]);
 	 	if (refElement.length) {
 			if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
 				$('.header__menu ul li a').removeClass("selected");

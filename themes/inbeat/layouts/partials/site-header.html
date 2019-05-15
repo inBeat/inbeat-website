@@ -1,24 +1,24 @@
 <header class="header{{ if not .IsHome }} header--page{{ end }}">
   <div class="header__content header__content--fluid-width">
     <div class="header__logo-title">
-      <img src="/img/inbeat-logo-horizontal.png" alt="inBeat logo"/>
+      <a href="{{- $.Site.BaseURL -}}" title="Home"><img src="/img/inbeat-logo-horizontal.png" alt="inBeat logo"/></a>
     </div>
     <nav class="header__menu">                                                                   
       <ul>
         {{- range $i, $e := $.Site.Data.menu.main -}}
-        <li class="{{- if .submenu -}}menu-item-has-children{{- end -}}"><a class="{{ if eq $i 0 }}selected {{ end }}header-link" href="#{{- .link -}}">{{- .fr -}}</a>
+        <li class="{{- if .submenu -}}menu-item-has-children{{- end -}}"><a class="{{ if eq $i 0 }}selected {{ end }}header-link" href="{{- $.Site.BaseURL -}}#{{- .link -}}">{{- .fr -}}</a>
           {{- if .submenu -}}
           <ul class="sub-menu">
             {{- range .links -}}
-            <li><a href="#{{- .link -}}" class="header-link">{{- .fr -}}</a></li>
+            <li><a href="{{- $.Site.BaseURL -}}#{{- .link -}}" class="header-link">{{- .fr -}}</a></li>
             {{- end -}}
           </ul>
           {{- end -}}
         </li>
         {{ end }}
-        <li><a href='{{ $.Scratch.Get "articlesPage" }}' title="Influencer Campaigns Tips">BLOG</a></li>
-        <li class="header__btn header__btn--login modal-toggle" data-openpopup="signuplogin" data-popup="login"><a href="#">LOGIN</a></li>
-        <li class="header__btn header__btn--signup modal-toggle" data-openpopup="signuplogin" data-popup="signup"><a href="#">GET STARTED</a></li>      
+        <!-- <li><a href='{{ $.Scratch.Get "articlesPage" }}' title="Influencer Campaigns Tips">BLOG</a></li> -->
+        <!-- <li class="header__btn header__btn--login modal-toggle" data-openpopup="signuplogin" data-popup="login"><a href="#">LOGIN</a></li>
+        <li class="header__btn header__btn--signup modal-toggle" data-openpopup="signuplogin" data-popup="signup"><a href="#">GET STARTED</a></li>   -->    
       </ul>
     </nav> 
   </div>    

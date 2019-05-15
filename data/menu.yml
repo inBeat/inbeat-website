@@ -3,11 +3,11 @@ main:
     link: intro
   - fr: FEATURES
     link: features
-    submenu: true
-    links:
-      - fr: OUR PRODUCTS
-        link: about
-      - fr: OUR CLIENTS
-        link: clients
+    # submenu: true
+    # links:
+    #   - fr: OUR PRODUCT
+    #     link: about
+    #   - fr: OUR CLIENTS
+    #     link: clients
   - fr: PRICING
     link: pricing
