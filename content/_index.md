@@ -45,28 +45,29 @@ section5:
     To power our deep learning model, we hand-pick thousands of influencers.
     Access these and gain a head start on your competitors
   image: /img/list-3.png
-  title: Curated results, just for you
+  title: 'Curated results, just for you'
 section7:
   description: 'Your own influencer database with no contract, setup or hidden fees'
   plans:
     - features:
         - text: <b>1</b> User Account
-        - text: <b>10</b> Team Members
-        - text: <b>Unlimited</b> Emails Accounts
-        - text: Set And Manage Permissions
+        - text: <b>0</b> Contact Exports
+        - text: <b>Filters</b> Limited
         - disabled: true
-          text: API &amp; extension support
+          text: Pulse
         - disabled: true
-          text: Developer support
+          text: Campaign Creation
         - disabled: true
-          text: A / B Testing
+          text: Campaign Reporting
+        - disabled: false
+          text: Email Support
       monthly: 0
       popular: false
       title: Free
       yearly: 0
     - features:
-        - text: <b>50</b> User Account
-        - text: <b>500</b> Team Members
+        - text: <b>1</b> User Account
+        - text: <b>0</b> Contact Exports
         - text: <b>Unlimited</b> Emails Accounts
         - text: Set And Manage Permissions
         - text: API &amp; extension support
@@ -76,7 +77,7 @@ section7:
       monthly: 49
       popular: true
       title: Pro
-      yearly: 529
+      yearly: 488
     - features:
         - text: <b>Unlimited</b> User Account
         - text: <b>Unlimited</b> Team Members
