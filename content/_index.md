@@ -100,6 +100,12 @@ section8:
       logo: /img/loops.png
     - link: 'https://moosebicycle.com/'
       logo: /img/moose.png
+    - link: 'https://www.deuxpardeux.com/ca_en/'
+      logo: '/img/deuxpardeux.png'
+    - link: 'https://www.dormaninissan.ca/en'
+      logo: '/img/dormaninissan.png'
+    - link: 'https://visionmg.ca/'
+      logo: '/img/vision-mg-square.png'
 section9:
   description: Request your beta access
   title: Ready to get started?

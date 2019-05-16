@@ -278,6 +278,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .grid--about {
   padding-top: 100px;
+  @include breakpoint(bigphone) {
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
   .grid__title {
     font-size: 43px;
     line-height: 61px;
@@ -285,6 +290,10 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
     span {
       font-weight: 600;
+    }
+    @include breakpoint(bigphone) {
+      font-size: 30px;
+      line-height: 44px;
     }
   }
   .grid__text {
