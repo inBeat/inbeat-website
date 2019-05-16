@@ -52,9 +52,9 @@ section7:
     - features:
         - text: <b>1</b> User Account
         - text: <b>0</b> Contact Exports
-        - text: <b>Filters</b> Limited
+        - text: <b>Limited</b> Filters
         - disabled: true
-          text: Pulse
+          text: Pulse Spam Detection
         - disabled: true
           text: Campaign Creation
         - disabled: true
@@ -68,37 +68,40 @@ section7:
     - features:
         - text: <b>1</b> User Account
         - text: <b>0</b> Contact Exports
-        - text: <b>Unlimited</b> Emails Accounts
-        - text: Set And Manage Permissions
-        - text: API &amp; extension support
-        - text: Developer support
+        - text: <b>All</b> Filters
         - disabled: true
-          text: A / B Testing
+          text: Pulse Spam Detection
+        - text: Campaign Creation
+        - disabled: true
+          text: Campaign Reporting
+        - disabled: false
+          text: Email Support
       monthly: 49
       popular: true
       title: Pro
-      yearly: 488
+      yearly: 487
     - features:
-        - text: <b>Unlimited</b> User Account
-        - text: <b>Unlimited</b> Team Members
-        - text: <b>Unlimited</b> Emails Accounts
-        - text: Set And Manage Permissions
-        - text: API &amp; extension support
-        - text: Developer support
-        - text: A / B Testing
+        - text: <b>3</b> User Account
+        - text: <b>All</b> Filters
+        - text: <b>500</b> Contact Exports
+        - text: Pulse Spam Detection
+        - disabled: false
+          text: Campaign Creation
+        - text: Campaign Reporting
+        - text: Live Phone Support
       monthly: 99
       popular: false
       title: Ultra
-      yearly: 900
+      yearly: 987
   title: Our Plans
 section8:
   clients:
-    - link: 'http://visionmg.ca'
-      logo: /img/visionmg_logo_grey.png
-    - link: 'http://akiamarketing.ca'
-      logo: /img/logo-akia-couleur-sm.png
+    - link: 'https://phoneloops.com'
+      logo: /img/loops.png
+    - link: 'https://moosebicycle.com/'
+      logo: /img/moose.png
 section9:
-  description: Find out what INBEAT can do for your business
+  description: Request your beta access
   title: Ready to get started?
 ---
 
