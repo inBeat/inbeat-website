@@ -82,8 +82,8 @@ section7:
       yearly: 487
     - features:
         - text: <b>3</b> User Account
-        - text: <b>All</b> Filters
         - text: <b>500</b> Contact Exports
+        - text: <b>All</b> Filters
         - text: Pulse Spam Detection
         - disabled: false
           text: Campaign Creation
