@@ -69,7 +69,7 @@ section7:
         - text: <b>1</b> User Account
         - text: <b>0</b> Contact Exports
         - text: <b>All</b> Filters
-        - disabled: true
+        - disabled: false
           text: Pulse Spam Detection
         - text: Campaign Creation
         - disabled: true
