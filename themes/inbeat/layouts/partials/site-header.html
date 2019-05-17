@@ -3,7 +3,7 @@
     <div class="header__logo-title">
       <a href="{{- $.Site.BaseURL -}}" title="Home"><img src="/img/inbeat-logo-horizontal.png" alt="inBeat logo"/></a>
     </div>
-    <nav class="header__menu">                                                                   
+    <nav class="header__menu {{ if .IsHome }}header-home{{ end }}">                                                                   
       <ul>
         {{- range $i, $e := $.Site.Data.menu.main -}}
         <li class="{{- if .submenu -}}menu-item-has-children{{- end -}}"><a class="{{ if eq $i 0 }}selected {{ end }}header-link" href="{{- $.Site.BaseURL -}}#{{- .link -}}">{{- .fr -}}</a>

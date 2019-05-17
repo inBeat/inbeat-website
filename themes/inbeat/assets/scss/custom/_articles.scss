@@ -20,6 +20,7 @@
 /* Header */
 .section--article-header {
   text-align: center;
+  font-family: 'Source Serif Pro', serif;
   .section__content--padding {
     padding: 80px 0 60px;
   }
@@ -39,6 +40,7 @@
     font-weight: 500;
     color: #333;
     padding-bottom: 0px;
+    font-family: 'Source Serif Pro', serif;
     &:after {
       content: none;
     }
@@ -66,6 +68,9 @@
 }
 
 .section--article-content {
+  h1,h2,h3,h4,h5,h6,p,li,a,span,blockquote {
+    font-family: 'Source Serif Pro', serif;
+  }
   p {
     line-height: 1.9em;
     padding-bottom: 1em;

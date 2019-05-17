@@ -12,9 +12,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .header {
   .header__menu {
-    display: none;
+    &.header-home {
+      display: none;
+      @include breakpoint(bigphone) {
+        display: block;
+      }
+    }
     @include breakpoint(bigphone) {
-      display: block;
       .menu-button {
         border-color: $darkgray;
         &:before {
