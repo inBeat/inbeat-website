@@ -45,11 +45,11 @@ Let’s face it, diving in without planning is a sure way to drop the ball. When
 
 ### Determine the scope
 
-**Which countries do I want to target?**
+#### **Which countries do I want to target?**
 
 You have to ask yourself which regions you want to target. For instance, if you only ship to the USA and Canada, you can eliminate any influencers located in other countries.
 
-**Which platforms do I want to target?**
+#### **Which platforms do I want to target?**
 
 Where do you want to focus your efforts? Is your brand more Instagram or Youtube worthy? In most cases, you would pitch influencers on both platforms.
 
@@ -63,11 +63,19 @@ There are many other platforms where you can find influencers:
 * Quora (Why not?)
 * Etc. (Use your imagination)
 
+{{% protip %}}
+
+I recommend using [Similar Web's free Chrome extension](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) for broader evaluation and [ahrefs ](https://ahrefs.com/) for organic reach. These tools will help you gage the quality of a Quora thread, a blogger or even a subreddit's reach.
+
+{{% /protip %}}
+
+
+
 **Let’s face it,**
 
 Influencers are simply people who receive attention from other people. What we’re buying from them is the attention. Treat them as humans (of course), but remember that you are purchasing media.
 
-**What is the cost of your product and how much does it cost to ship?**
+#### **What is the cost of your product and how much does it cost to ship?**
 
 Always add the cost of your product and your shipping to your cost per influencer. This is common sense.
 
