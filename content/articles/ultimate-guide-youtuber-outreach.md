@@ -1,11 +1,11 @@
 ---
-title: 'Closing 121 Youtubers for your Brand [A COMPLETE GUIDE]'
+title: 'Closing 181 Youtubers for your Brand [A COMPLETE GUIDE]'
 description: >-
   This is a guide that shows you how to find, pitch and manage 100s of Youtube
   influencers. 
-titre: 'Closing 121 Youtubers for your Brand [A COMPLETE GUIDE]'
+titre: 'Closing 181 Youtubers for your Brand [A COMPLETE GUIDE]'
 slug: ultimate-guide-youtuber-outreach
-headerimage: /img/image_10.jpg
+headerimage: /img/download.png
 date: '2019-04-12'
 categories:
   - Tips
@@ -20,7 +20,7 @@ In this article, I’ll be showing you how to acquire as many influencers as you
 
 (Step-by-step)
 
-In fact, we’ve recently closed 121 influencers for one of our clients (Youtubers and Instagrammers combined) in one month.
+In fact, we’ve recently closed 181 influencers for one of our clients (Youtubers and Instagrammers combined) in one month.
 
 Here’s a quick sample (I’ve hidden the names of the influencers to preserve our clients work, but you get the point).
 
