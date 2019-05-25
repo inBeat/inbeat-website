@@ -45,11 +45,11 @@ Let’s face it, diving in without planning is a sure way to drop the ball. When
 
 ### Determine the scope
 
-**Which countries do I want to target?**
+#### **Which countries do I want to target?**
 
 You have to ask yourself which regions you want to target. For instance, if you only ship to the USA and Canada, you can eliminate any influencers located in other countries.
 
-**Which platforms do I want to target?**
+#### **Which platforms do I want to target?**
 
 Where do you want to focus your efforts? Is your brand more Instagram or Youtube worthy? In most cases, you would pitch influencers on both platforms.
 
@@ -63,11 +63,19 @@ There are many other platforms where you can find influencers:
 * Quora (Why not?)
 * Etc. (Use your imagination)
 
+{{% protip %}}
+
+I recommend using [Similar Web's free Chrome extension](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) for broader evaluation and [ahrefs ](https://ahrefs.com/) for organic reach. These tools will help you gage the quality of a Quora thread, a blogger or even a subreddit's reach.
+
+{{% /protip %}}
+
+
+
 **Let’s face it,**
 
 Influencers are simply people who receive attention from other people. What we’re buying from them is the attention. Treat them as humans (of course), but remember that you are purchasing media.
 
-**What is the cost of your product and how much does it cost to ship?**
+#### **What is the cost of your product and how much does it cost to ship?**
 
 Always add the cost of your product and your shipping to your cost per influencer. This is common sense.
 
@@ -154,15 +162,13 @@ Here is a list of tools you can use:
 * Keyword.io
 * Lsigraph.com
 
-**There are as many ways to build as there are atoms in the universe.**
-
-https://gph.is/2qdbm88
+**There are as many ways to build a keyword list as there are atoms in the universe.**
 
 Ok, maybe not…
 
 We use [this keyword tool](https://keywordtool.io/youtube) to start off our research. You will be fine with the free version of the tool. This is simply to get your list flowing.	
 
-![image alt text](image_2.jpg)
+![keyword-tool](/img/keyword-tool-influencer-detection.png)
 
 {{% protip %}}
 The best possible outcome is finding queries that will pull up multiple Youtubers. Select your keywords accordingly. 
@@ -176,7 +182,7 @@ Using Youtube Suggest to augment your keyword list
 
 Youtube suggest will allow you to find highly relevant keywords 
 
-![image alt text](image_3.jpg)
+![image alt text](/img/using-youtube-to-find-keywords.png)
 
 {{% protip %}}
 I like using the Keywords Everywhere Chrome extension to speed up keyword picking. Generally speaking, a keyword with a higher volume will pull more influencers.
@@ -186,7 +192,7 @@ Add all your queries to a Google Sheets
 
 Now you have a relevant list! 
 
-![image alt text](image_4.jpg)
+![image alt text](/img/influencer-outreach-organization.png)
 
 You can start finding and vetting influencers. We use a mix of Virtual Assistants and our own scraping software to make this process efficient. 
 
@@ -208,7 +214,7 @@ Here is a list of guidelines that have worked pretty well for us:
 
 After you have set this, go to Upwork and hire a virtual assistant to accomplish this task or do it yourself. _Make sure to build an easy to understand workflow and get your team rolling._
 
-![image alt text](image_5.jpg)
+![image alt text](/img/vetting-youtubers.jpg)
 
 **Automating the process**
 
@@ -247,11 +253,9 @@ Cons:
 
 * You will need to set up other parts of your workflow. This tool is not an all-in-one solution. If this is not an issue for you, then this tool will be perfect.
 
-Negotiating Influencers
+**Negotiating Influencers**
 
 Some influencers will be lowballing while others will be highballing. That’s just how humans are.
-
-<https://gph.is/28Uqf3N>
 
 Here is one piece of advice that will always serve you well:
 
@@ -315,7 +319,7 @@ We now have all these non-dev friendly tools that make us feel like geniuses (I�
 
 You can automate your entire influencer fulfillment process, Even if you can’t write a line of code
 
-<https://gph.is/1sFRFnK>
+![automagically](/img/automagic.webp)
 
 This part of the process will require a combination of 3 tools:
 
@@ -341,7 +345,7 @@ When a Youtuber accepts our negotiation, our outreach manager will send the form
 
 **Here is an example:**
 
-![image alt text](image_6.jpg)
+![image alt text](/img/google-form-inbeat.jpg)
 
 This allows us to have the data properly formatted when it enters our Google Sheets
 
@@ -359,7 +363,7 @@ Zapier allows you to create a listener. It follows this logic: IF String "Yes" i
 
 It is an out-of-the box integration that shouldn’t take you more than 30 minutes:
 
-![image alt text](image_7.jpg)
+![image alt text](/img/shopify-zapier-integration.jpg)
 
 **1. Send a follow-up email telling the Youtuber his order has been shipped**
 
@@ -435,11 +439,11 @@ Out-of-the-box thinking pays here.
 
 Here is an example of our 4th email sequence:
 
-![image alt text](image_8.jpg)
+![image alt text](/img/image_8.jpg)
 
 It has increased our closing rate drastically. Of course you will get messages such as this:
 
-![image alt text](image_9.jpg)
+![image alt text](/img/image_9.jpg)
 
 But you will also get messages such as:
 
@@ -468,7 +472,7 @@ The key to any successful system is to measure the output and improve on the rig
 4. You advertise using their audiences
 5. Keep innovating!
 
-https://gph.is/2jk6dV5
+![image alt text](/img/image_9.jpg)
 
 This allows you to drive constant sales from influencer marketing.
 
