@@ -65,13 +65,13 @@ There are many other platforms where you can find influencers:
 
 {{% protip %}}
 
-I recommend using [Similar Web's free Chrome extension](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) for broader evaluation and [ahrefs ](https://ahrefs.com/) for organic reach. These tools will help you gage the quality of a Quora thread, a blogger or even a subreddit's reach.
+I recommend using [Similar Web's free Chrome extension](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) and [ahrefs ](https://ahrefs.com/) to evaluate the quality of an influencer outside of Instagram and Youtube.
 
 {{% /protip %}}
 
 **Let’s face it,**
 
-Influencers are simply people who receive attention from other people. What we’re buying from them is the attention. Treat them as humans (of course), but remember that you are purchasing media.
+Influencers are simply people who receive attention from other people. What we’re buying from them is that attention. Treat them as humans (of course), but remember that you are purchasing media.
 
 #### **What is the cost of your product and how much does it cost to ship?**
 
@@ -79,9 +79,12 @@ Always add the cost of your product and your shipping to your cost per influence
 
 Here is some simple math to show my point and how it will affect your strategy:
 
-Cost of your product + shipping + influencer cost = cost per influencer
 
-On one hand, if your **product + shipping cost** is low (let’s say you’re a t-shirt brand), your cost per influencer will be controlled by the influencers fee.
+**Cost of your product + shipping + influencer cost = cost per influencer**
+
+
+On one hand, if your **product + shipping cost** is low (let’s say you’re a t-shirt brand), your cost per influencer will be determined by the influencers fee.
+
 
 **Cost of product + Shipping cost + Influencer fee = Influencer cost**
 
@@ -93,9 +96,9 @@ On the other hand, if your product is a mountain bike, it would completely chang
 
 600$ (bike cost) + 300$ (shipping cost) + 200$ (influencer fee) = 1100$
 
-This is simply something to think about--let’s move on!
+This is something to think about--let’s move on!
 
-**What niches are relevant to your product**?
+#### **What niches are relevant to your product**?
 
 If your product is a yoga mat, don’t complicate things; target the yoga niche.
 
@@ -103,7 +106,7 @@ On the other hand, if your product is a cell phone accessory, the world is yours
 
 You can change these parameters as you test different markets and see which ones are better for you.
 
-**How many influencers do you want to close?**
+#### **How many influencers do you want to close?**
 
 When we look at our numbers, we start a negotiation with roughly 25% of the influencers we pitch.
 
@@ -113,7 +116,7 @@ Let’s look at a segment of a campaign we ran:
 
 ![image alt text](/img/image_1.jpg)
 
-_Let me explain what you see_
+_Let me explain what you see_:
 
 * We’ve pitched 180 influencers in this batch.
 * We negotiated with 44 leads. 5 of them were autoresponders (we probably had the wrong email addresses). 
@@ -121,7 +124,7 @@ _Let me explain what you see_
 
 So, if you want 100+ influencers with these numbers, you would pitch 1000 influencers.
 
-The more you pitch, the better your rates will become and the more accurate your data will be. This is because you will constantly tweak your process and pitches.
+The more you pitch, the better your closing rate will become and the more accurate your data will be.
 
 _Always remember,_
 
