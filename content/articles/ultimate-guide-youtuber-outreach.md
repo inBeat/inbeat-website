@@ -24,22 +24,22 @@ In fact, we’ve recently closed 121 influencers for one of our clients (Youtube
 
 Here’s a quick sample (I’ve hidden the names of the influencers to preserve our clients work, but you get the point).
 
-![image alt text](/img/image_0.jpg)
+![influencers-closed](/img/inbeat-influencer-campaign.png)
 
 **So, how did we do it?**
 
-You have to break this problem down to simple parts. First, you need to break the problem down to simpler parts.
+First, you need to break the problem down to simpler parts.
 
-Before diving, let’s do some goal setting. Before diving in, let’s do some goal setting:
+Before diving in, let’s do some planning:
 
-- Step 1: Set goals
-- Step 2: Find influencers and vet them
-- Step 3: Manage orders, approve content and track results
-- Step 4: Optimize your system continuously</td>
+* Step 1: Set goals
+* Step 2: Find influencers and vet them
+* Step 3: Manage orders, approve content and track results
+* Step 4: Optimize your system continuously</td>
 
 ## Step 1: Setting Goals
 
-Let’s face it, diving in without planning is a sure way to drop the ball. When managing any operation, the last thing you want happening is losing to lose your flow.
+Let’s face it, diving in without planning is a sure way to drop the ball. When managing any operation, the last thing you want happening is to lose your flow.
 
 **Keep reading, I’ll explain how to break down your goal setting.**
 
@@ -67,8 +67,6 @@ There are many other platforms where you can find influencers:
 
 Influencers are simply people who receive attention from other people. What we’re buying from them is the attention. Treat them as humans (of course), but remember that you are purchasing media.
 
-https://media.giphy.com/media/4N1BrUBPYlpYFUAmVI/giphy.gif
-
 **What is the cost of your product and how much does it cost to ship?**
 
 Always add the cost of your product and your shipping to your cost per influencer. This is common sense.
@@ -83,7 +81,7 @@ On one hand, if your **product + shipping cost** is low (let’s say you’re a 
 
 3$ (t-shirt cost) + 5$ (shipping cost) + 200$ (influencer fee) = 208$
 
-On the other hand, if your product is a mountain bike, it would change completely the dynamic of your strategy.
+On the other hand, if your product is a mountain bike, it would completely change the dynamic of your strategy.
 
 **Cost of product + Shipping cost + Influencer fee = Influencer cost**
 
@@ -101,9 +99,9 @@ You can change these parameters as you test different markets and see which ones
 
 **How many influencers do you want to close?**
 
-When we look at our numbers, we start a negotiation with roughly 25% of the influencers we pitch
+When we look at our numbers, we start a negotiation with roughly 25% of the influencers we pitch.
 
-After, our closing rate depends on our client’s budget restrictions. We always aim for a 10% closing rate (this is the threshold we guarantee our clients). 
+Ultimately, our closing rate depends on our client’s budget restrictions. We always aim for a 10% closing rate (this is the threshold we guarantee our clients when offering agency services). 
 
 Let’s look at a segment of a campaign we ran:
 
@@ -127,9 +125,15 @@ These numbers are dependent on 1) the niche you’re targeting, 2) the budget yo
 
 I will show you the manual way to do this.
 
-Feel free to set up your own system using imacros (if you’re a non-developer) or create your own Python script to automate this part of the process. 
+Feel free to set up your own system using imacros (if you’re a non-developer) or create your own Python script to automate this part of the process.
 
-We’ve done this internally to save our team from burnout and preserve our Glassdoor rating (Psst: we are beta testing our database. If you’d like to have early access, just hit me up).
+We’ve done this internally to save our team from burnout and preserve our Glassdoor rating. 
+
+{{% protip %}}
+
+We are beta testing our database. If you’d like to have early access, just [signup here](https://www.inbeat.co)).
+
+{{% /protip %}}
 
 **So, let’s breakdown the steps:**
 
@@ -180,13 +184,15 @@ I like using the Keywords Everywhere Chrome extension to speed up keyword pickin
 
 Add all your queries to a Google Sheets
 
-Now you have a relevant list! ![image alt text](image_4.jpg)
+Now you have a relevant list! 
+
+![image alt text](image_4.jpg)
 
 You can start finding and vetting influencers. We use a mix of Virtual Assistants and our own scraping software to make this process efficient. 
 
 Run down the list and gather influencers with their relevant information.
 
-**Let’s dive in this part of the process!**
+**Let’s dive into this part of the process!**
 
 **1. Finding influencers**
 
@@ -414,7 +420,7 @@ Why?
 
 Because gaming your email subject line by adding "RE:" at the beginning will increase the metric’s performance, but will drastically decrease your email answer rate. This is why we use this metric by playing with two parameters:
 
-1. **Deliverability**. If you’re getting an open rate of 8%, I commend you test your email deliverability using [this tool](https://www.mail-tester.com/). It is free and will give you actionable insights on how to improve your deliverability.
+1. **Deliverability**. If you’re getting an open rate of 8%, I recommend you test your email deliverability using [this tool](https://www.mail-tester.com/). It is free and will give you actionable insights on how to improve your deliverability.
 2. **Attention Grabbing.** We alter our headlines to grab your attention, without deceiving our end user. You [can read this article](https://www.yesware.com/blog/best-email-subject-lines/) if you want more info on converting headlines.
 
 If you’re using Mailshake, you will have mountains of data on which headlines are performing best for your niche. You will also be able to A/B test headlines, which will provide you fascinating insights.
@@ -450,7 +456,7 @@ This system is built on 4 key components:
 * Finding influencers and vet them
 * Managing orders and approving content
 * Tracking results
-* Improving continuously the output
+* Continuously improving the output
 
 The key to any successful system is to measure the output and improve on the right metrics. If you keep going in that direction, you will have an influencer marketing machine that performs like a source of paid traffic.
 
@@ -464,6 +470,6 @@ The key to any successful system is to measure the output and improve on the rig
 
 https://gph.is/2jk6dV5
 
-This allows you to drive constant sales from influencer marketing
+This allows you to drive constant sales from influencer marketing.
 
 If you have any questions regarding influencer marketing, drop it in the comments below.
