@@ -65,13 +65,13 @@ There are many other platforms where you can find influencers:
 
 {{% protip %}}
 
-I recommend using [Similar Web's free Chrome extension](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) and [ahrefs ](https://ahrefs.com/) to evaluate the quality of an influencer outside of Instagram and Youtube.
+I recommend using [Similar Web's free Chrome extension](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) for broader evaluation and [ahrefs ](https://ahrefs.com/) for organic reach. These tools will help you gage the quality of a Quora thread, a blogger or even a subreddit's reach.
 
 {{% /protip %}}
 
 **Let’s face it,**
 
-Influencers are simply people who receive attention from other people. What we’re buying from them is that attention. Treat them as humans (of course), but remember that you are purchasing media.
+Influencers are simply people who receive attention from other people. What we’re buying from them is the attention. Treat them as humans (of course), but remember that you are purchasing media.
 
 #### **What is the cost of your product and how much does it cost to ship?**
 
@@ -79,12 +79,9 @@ Always add the cost of your product and your shipping to your cost per influence
 
 Here is some simple math to show my point and how it will affect your strategy:
 
+Cost of your product + shipping + influencer cost = cost per influencer
 
-**Cost of your product + shipping + influencer cost = cost per influencer**
-
-
-On one hand, if your **product + shipping cost** is low (let’s say you’re a t-shirt brand), your cost per influencer will be determined by the influencers fee.
-
+On one hand, if your **product + shipping cost** is low (let’s say you’re a t-shirt brand), your cost per influencer will be controlled by the influencers fee.
 
 **Cost of product + Shipping cost + Influencer fee = Influencer cost**
 
@@ -96,9 +93,9 @@ On the other hand, if your product is a mountain bike, it would completely chang
 
 600$ (bike cost) + 300$ (shipping cost) + 200$ (influencer fee) = 1100$
 
-This is something to think about--let’s move on!
+This is simply something to think about--let’s move on!
 
-#### **What niches are relevant to your product**?
+**What niches are relevant to your product**?
 
 If your product is a yoga mat, don’t complicate things; target the yoga niche.
 
@@ -106,7 +103,7 @@ On the other hand, if your product is a cell phone accessory, the world is yours
 
 You can change these parameters as you test different markets and see which ones are better for you.
 
-#### **How many influencers do you want to close?**
+**How many influencers do you want to close?**
 
 When we look at our numbers, we start a negotiation with roughly 25% of the influencers we pitch.
 
@@ -116,7 +113,7 @@ Let’s look at a segment of a campaign we ran:
 
 ![image alt text](/img/image_1.jpg)
 
-_Let me explain what you see_:
+_Let me explain what you see_
 
 * We’ve pitched 180 influencers in this batch.
 * We negotiated with 44 leads. 5 of them were autoresponders (we probably had the wrong email addresses). 
@@ -124,7 +121,7 @@ _Let me explain what you see_:
 
 So, if you want 100+ influencers with these numbers, you would pitch 1000 influencers.
 
-The more you pitch, the better your closing rate will become and the more accurate your data will be.
+The more you pitch, the better your rates will become and the more accurate your data will be. This is because you will constantly tweak your process and pitches.
 
 _Always remember,_
 
@@ -153,7 +150,7 @@ We are beta testing our database. If you’d like to have early access, just [si
 
 #### **1. Building a keyword list**
 
-Using tools to build your seed list
+**Using tools to build your seed list**
 
 There are a lot of tools out there to help you find keywords for your list.
 
@@ -179,17 +176,17 @@ If you are unsure about the quality of a keyword, punch it into Youtube and see 
 The more relevant results a keyword pulls, the less work you have to do.</td>
 {{% /protip %}}
 
-Using Youtube Suggest to augment your keyword list
+**Using Youtube Suggest to augment your keyword list**
 
-Youtube suggest will allow you to find highly relevant keywords 
+Youtube suggest will allow you to find highly relevant keywords. 
 
 ![image alt text](/img/using-youtube-to-find-keywords.png)
 
 {{% protip %}}
-I like using the Keywords Everywhere Chrome extension to speed up keyword picking. Generally speaking, a keyword with a higher volume will pull more influencers.
+I like using the Keywords Everywhere Chrome extension to speed up keyword picking (it's free, [you can get it here](https://keywordseverywhere.com/)). Generally speaking, a keyword with a higher volume will pull more influencers.
 {{% /protip %}}
 
-Add all your queries to a Google Sheets
+**Adding all your queries to a Google Sheets**
 
 Now you have a relevant list! 
 
@@ -225,7 +222,7 @@ So, let’s say you would want to close 100 influencers. Taking into considerati
 
 You would roughly need 27 hours (667 / 25) of work to get this result, excluding the relation management work.
 
-We have built our own internal scraper to reduce this workload. We are currently working on a usable version of the tool. If that’s of interest to you, you can contact me here :)!</td>
+We have built our own internal scraper to reduce this workload. We are currently working on a usable version of the tool. If that’s of interest to you, [you can signup here](https://www.inbeat.co) :)!</td>
 
 ## Pitching and Negotiating Influencers
 
@@ -319,8 +316,6 @@ Welcome to the future!
 We now have all these non-dev friendly tools that make us feel like geniuses (I’m looking at you [Zapier](https://zapier.com/)).
 
 You can automate your entire influencer fulfillment process, Even if you can’t write a line of code
-
-![automagically](/img/automagic.webp)
 
 This part of the process will require a combination of 3 tools:
 
@@ -447,7 +442,7 @@ It has increased our closing rate drastically. Of course you will get messages s
 
 But you will also get messages such as:
 
-![image alt text](image_10.jpg)
+![image alt text](/img/image_10.jpg)
 
 Playing around with your templates will influence the number of influencers you close substantially. This step heavily impacts your bottom line of influencers closed (given that all your emails are not going to the spam box).
 
@@ -464,15 +459,13 @@ This system is built on 4 key components:
 
 The key to any successful system is to measure the output and improve on the right metrics. If you keep going in that direction, you will have an influencer marketing machine that performs like a source of paid traffic.
 
-### **How you can leverage this to the maximum?** 
+### **How you can leverage this to the maximum?**
 
 1. You identify your top performing influencers
 2. You create a long-term partnership with them
 3. You send them your new product releases
 4. You advertise using their audiences
 5. Keep innovating!
-
-![image alt text](/img/image_9.jpg)
 
 This allows you to drive constant sales from influencer marketing.
 
