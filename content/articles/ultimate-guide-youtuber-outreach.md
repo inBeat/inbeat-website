@@ -69,8 +69,6 @@ I recommend using [Similar Web's free Chrome extension](https://chrome.google.co
 
 {{% /protip %}}
 
-
-
 **Let’s face it,**
 
 Influencers are simply people who receive attention from other people. What we’re buying from them is the attention. Treat them as humans (of course), but remember that you are purchasing media.
@@ -143,14 +141,14 @@ We are beta testing our database. If you’d like to have early access, just [si
 
 {{% /protip %}}
 
-**So, let’s breakdown the steps:**
+### **So, let’s breakdown the steps:**
 
 * Finding keywords relevant to the influencers we’re targeting
 * Searching Youtube for influencers using our targeted keywords
 * Selecting influencers based on your base standards 
 * Organizing the data in Sheets (you can use Excel if you’re that type of person ;))
 
-**1. Building a keyword list**
+#### **1. Building a keyword list**
 
 Using tools to build your seed list
 
@@ -200,7 +198,7 @@ Run down the list and gather influencers with their relevant information.
 
 **Let’s dive into this part of the process!**
 
-**1. Finding influencers**
+#### **2. Finding influencers**
 
 Before you or a virtual assistant go through your list of keywords and find tons of influencers, make sure you establish clear guidelines. This limits human input (aka fewer errors).
 
@@ -216,7 +214,7 @@ After you have set this, go to Upwork and hire a virtual assistant to accomplish
 
 ![image alt text](/img/vetting-youtubers.jpg)
 
-**Automating the process**
+#### **3. Automating the process**
 
 This workflow is time intensive, to say the least. It generates us 25 qualified influencers for every 60 minutes of work.
 
@@ -228,7 +226,7 @@ We have built our own internal scraper to reduce this workload. We are currently
 
 ## Pitching and Negotiating Influencers
 
-Pitching influencers in bulk
+### Pitching influencers in bulk
 
 The best way to approach this problem is treating it like a sales problem. You will find all the dynamics of a typical sales process. 
 
@@ -240,7 +238,7 @@ We use [Mailshake](https://mailshake.com/) to manage list cleaning, bulk outreac
 
 Mailshake is a robust tool that allows you to manage relations at scale. On top of that, they manage unsubscribes and list cleaning for you. This means that you will not be pitching bad email addresses, thus reducing your bounce rate and your spam score.
 
-Pros:
+**Pros:**
 
 * Very easy to setup and use.
 * It is very light-weight and does its job very well
@@ -249,11 +247,11 @@ Pros:
 * Integrates with Zapier, which allows you to efficiently automate this part of the process
 * Cost friendly
 
-Cons:
+**Cons:**
 
 * You will need to set up other parts of your workflow. This tool is not an all-in-one solution. If this is not an issue for you, then this tool will be perfect.
 
-**Negotiating Influencers**
+### **Negotiating Influencers**
 
 Some influencers will be lowballing while others will be highballing. That’s just how humans are.
 
@@ -273,7 +271,7 @@ I recommend you set your price using the following metrics: average video view (
 
 Subscribers are a filtering metric, but we never use it to measure the price we’re willing to pay. After all, we’re after visibility and endorsement. These two goals are directly reflected in the two metrics mentioned previously.
 
-**Things to take into consideration**
+#### **Things to take into consideration**
 
 This is not an exact science and will require you to make some judgment calls. Questions you will come across are:
 
@@ -281,7 +279,7 @@ This is not an exact science and will require you to make some judgment calls. Q
 * Can I reuse the content in my other campaigns?
 * Will the Youtuber share my content on other social media channels?
 
-**How to manage these considerations**
+#### **How to manage these considerations**
 
 We look for influencers that have the potential to become ambassadors of our brands. So if a Youtuber is charging 500USD and we judge that there is potential for future collaboration and their metrics are close to what we’re willing to pay, we will usually take the risk.
 
@@ -295,7 +293,7 @@ You will close some bad deals and you can’t hide from that.
 
 When an influencer is closed, you ship the product. There are two ways to do this: manually or automatically.
 
-**Doing it manually**
+### **Doing it manually**
 
 This implies that you create a PO through your e-commerce platform each time an influencer agrees to your conditions.
 
@@ -311,11 +309,11 @@ Seems straight forward, I know. But, when you grind it 100 times, it gets to you
 
 I would not recommend this way of doing things, unless you are playing around with influencer marketing. It has a high potential for error, and it will generate hair pulling amongst your team!
 
-**Doing it automagically**
+### **Doing it automagically**
 
 Welcome to the future!
 
-We now have all these non-dev friendly tools that make us feel like geniuses (I’m looking at you Zapier).
+We now have all these non-dev friendly tools that make us feel like geniuses (I’m looking at you [Zapier](https://zapier.com/)).
 
 You can automate your entire influencer fulfillment process, Even if you can’t write a line of code
 
@@ -331,7 +329,7 @@ Here is what your standard process will look like:
 
 Youtuber accepts negotiation > send form > Form is filled out > Google Sheets > Youtuber is vetted  > Zapier > PO > Email
 
-**1. Sending the form**
+#### **1. Send the form**
 
 When a Youtuber accepts our negotiation, our outreach manager will send the form. This form will ask questions such as:
 
@@ -349,7 +347,7 @@ When a Youtuber accepts our negotiation, our outreach manager will send the form
 
 This allows us to have the data properly formatted when it enters our Google Sheets
 
-**2. Converting your form info to PO friendly data in Google Sheets**
+#### **2. Convert your form info to PO friendly data in Google Sheets**
 
 You want to convert your data to a format your e-commerce platform will understand. This allows your Sheets and your e-comm platform to communicate via Zapier. 
 
@@ -357,19 +355,18 @@ There are two ways to do this:
 
 1. Pass the data in the proper format from the form to Sheets. This will not always be possible, depending on your form tool and the user’s inputs.
 2. Alter the data directly in Google Sheets using formulas. This method allows you to remove accents from letters such as é or change the user’s input to a product id. Using formulas is fairly simple, but if you want to dive deep into the concepts, you can go here: https://codingisforlosers.com/google-sheets/
-3. **Manually vet the Youtuber and automagically create the PO**
 
 Zapier allows you to create a listener. It follows this logic: IF String "Yes" is found in column X, send PO to e-commerce platform. This allows you to quickly glance and approve all of the influencers you’ll be shipping to. I recommend this final checkup, especially when you have multiple people running the operation. It acts as a safety net for your brand (and your wallet).
 
-It is an out-of-the box integration that shouldn’t take you more than 30 minutes:
+It is an out-of-the box integration that shouldn’t take you more than 30 minutes.
 
 ![image alt text](/img/shopify-zapier-integration.jpg)
 
-**1. Send a follow-up email telling the Youtuber his order has been shipped**
+#### **3. Send a follow-up email telling the Youtuber his order has been shipped**
 
 You can do this by setting an email tool on top of your Zapier (i.e. Mailgun) or you can just plug it into your existing system, without routing through Zapier. This is a decision you will take based on your current setup.
 
-**1. Approving content and tracking results**
+#### **2. Approve the content and track the results**
 
 We always ask our influencers to send us the content before they publish it. It is a key part to protect your brand identity. 
 
@@ -383,9 +380,9 @@ We also require the Youtuber to send us a live link when the content goes live. 
 
 Constantly hacking your influencer factory is a key component to achieving disproportionate success.
 
-**Here are a couple tips to keep rocking it:**
+### Determine your benchmark metrics and improve upon those.
 
-Determine your benchmark metrics and improve upon those.
+Make it a mission to improve on your key campaign metrics. It will drive continous improvement across your team.
 
 Here are some of ours:
 
@@ -398,17 +395,17 @@ The best way to improve on these metrics is to run continuous testing.
 
 Let me breakdown how we continuously improve on each of these components:
 
-Vetted influencers per hour
+#### Vetted influencers per hour
 
 This is one we’ve tackled head on by building our own Youtube parser. Our hypothesis was that having a parser would kill our vetting time considerably (which is quite obvious).
 
-Of course, we realized that there are A LOT of terrible Youtube channels. Our parser was returning a lot of _junk._ This forced us to manually vet the list of results we received. 
+We realized that there are A LOT of terrible Youtube channels. Our parser was returning a lot of _junk._ This forced us to manually vet the list of results we received. 
 
 **What happened next?**
 
 It actually turned out to be wayyyy faster (roughly 200 per hour). Our production time to 12.5% of our original run rate. Not too bad of an ROI, I can tell you that.
 
-We also decided to build a database with all the Youtubers we found. We now run a continuous channel scrape to keep our data up to date (subscribers, views, comments, etc.) and voilà! We’ve developed an edge that allows us to pitch new influencers efficiently for any new client. 
+We then decided to build a database with all the Youtubers we found. We now run a continuous channel scrape to keep our data up to date (subscribers, views, comments, etc.) and voilà! We’ve developed an edge that allows us to pitch new influencers efficiently for any new client (in case you missed it, we're opening up our database for beta. You can [signup here](https://inbeat.co)). 
 
 **The Flywheel Effect**
 
@@ -416,7 +413,7 @@ Keeping a database of Youtubers allows us build a flywheel. In other words, the 
 
 _if you want access to our scraper data, you can email me here_
 
-Email Open Rate
+#### Email Open Rate
 
 This metric is quite tricky.
 
@@ -429,9 +426,9 @@ Because gaming your email subject line by adding "RE:" at the beginning will inc
 
 If you’re using Mailshake, you will have mountains of data on which headlines are performing best for your niche. You will also be able to A/B test headlines, which will provide you fascinating insights.
 
-Email answer rate
+#### Email answer rate
 
-Your answer rate can be impacted by 1) tweaking the body of your email and 2) your follow-up sequences. Of course, your headline can play on this too, which is why I recommend testing one variable in one niche at a time.
+Your answer rate can be impacted by 1) tweaking the body of your email and 2) your follow-up sequences. Of course, your headline can play on this too, which is why I recommend isolating one variable in one niche at a time.
 
 **Our secret sauce?**
 
@@ -457,14 +454,14 @@ We went through a complete system to pitch and manage hundreds of influencers.
 
 This system is built on 4 key components:
 
-* Finding influencers and vet them
+* Finding influencers and vetting them
 * Managing orders and approving content
 * Tracking results
 * Continuously improving the output
 
 The key to any successful system is to measure the output and improve on the right metrics. If you keep going in that direction, you will have an influencer marketing machine that performs like a source of paid traffic.
 
-**How to leverage this to the maximum?** 
+### **How you can leverage this to the maximum?** 
 
 1. You identify your top performing influencers
 2. You create a long-term partnership with them
