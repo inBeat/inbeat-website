@@ -154,15 +154,13 @@ Here is a list of tools you can use:
 * Keyword.io
 * Lsigraph.com
 
-**There are as many ways to build as there are atoms in the universe.**
-
-https://gph.is/2qdbm88
+**There are as many ways to build a keyword list as there are atoms in the universe.**
 
 Ok, maybe not…
 
 We use [this keyword tool](https://keywordtool.io/youtube) to start off our research. You will be fine with the free version of the tool. This is simply to get your list flowing.	
 
-![image alt text](image_2.jpg)
+![keyword-tool](/img/keyword-tool-influencer-detection.png)
 
 {{% protip %}}
 The best possible outcome is finding queries that will pull up multiple Youtubers. Select your keywords accordingly. 
@@ -176,7 +174,7 @@ Using Youtube Suggest to augment your keyword list
 
 Youtube suggest will allow you to find highly relevant keywords 
 
-![image alt text](image_3.jpg)
+![image alt text](/img/using-youtube-to-find-keywords.png)
 
 {{% protip %}}
 I like using the Keywords Everywhere Chrome extension to speed up keyword picking. Generally speaking, a keyword with a higher volume will pull more influencers.
@@ -186,7 +184,7 @@ Add all your queries to a Google Sheets
 
 Now you have a relevant list! 
 
-![image alt text](image_4.jpg)
+![image alt text](/img/influencer-outreach-organization.png)
 
 You can start finding and vetting influencers. We use a mix of Virtual Assistants and our own scraping software to make this process efficient. 
 
@@ -208,7 +206,7 @@ Here is a list of guidelines that have worked pretty well for us:
 
 After you have set this, go to Upwork and hire a virtual assistant to accomplish this task or do it yourself. _Make sure to build an easy to understand workflow and get your team rolling._
 
-![image alt text](image_5.jpg)
+![image alt text](/img/vetting-youtubers.jpg)
 
 **Automating the process**
 
@@ -247,11 +245,9 @@ Cons:
 
 * You will need to set up other parts of your workflow. This tool is not an all-in-one solution. If this is not an issue for you, then this tool will be perfect.
 
-Negotiating Influencers
+**Negotiating Influencers**
 
 Some influencers will be lowballing while others will be highballing. That’s just how humans are.
-
-<https://gph.is/28Uqf3N>
 
 Here is one piece of advice that will always serve you well:
 
@@ -315,7 +311,7 @@ We now have all these non-dev friendly tools that make us feel like geniuses (I�
 
 You can automate your entire influencer fulfillment process, Even if you can’t write a line of code
 
-<https://gph.is/1sFRFnK>
+![automagically](/img/automagic.webp)
 
 This part of the process will require a combination of 3 tools:
 
@@ -341,7 +337,7 @@ When a Youtuber accepts our negotiation, our outreach manager will send the form
 
 **Here is an example:**
 
-![image alt text](image_6.jpg)
+![image alt text](/img/google-form-inbeat.jpg)
 
 This allows us to have the data properly formatted when it enters our Google Sheets
 
@@ -359,7 +355,7 @@ Zapier allows you to create a listener. It follows this logic: IF String "Yes" i
 
 It is an out-of-the box integration that shouldn’t take you more than 30 minutes:
 
-![image alt text](image_7.jpg)
+![image alt text](/img/shopify-zapier-integration.jpg)
 
 **1. Send a follow-up email telling the Youtuber his order has been shipped**
 
@@ -435,11 +431,11 @@ Out-of-the-box thinking pays here.
 
 Here is an example of our 4th email sequence:
 
-![image alt text](image_8.jpg)
+![image alt text](/img/image_8.jpg)
 
 It has increased our closing rate drastically. Of course you will get messages such as this:
 
-![image alt text](image_9.jpg)
+![image alt text](/img/image_9.jpg)
 
 But you will also get messages such as:
 
@@ -468,7 +464,7 @@ The key to any successful system is to measure the output and improve on the rig
 4. You advertise using their audiences
 5. Keep innovating!
 
-https://gph.is/2jk6dV5
+![image alt text](/img/image_9.jpg)
 
 This allows you to drive constant sales from influencer marketing.
 
