@@ -317,8 +317,6 @@ We now have all these non-dev friendly tools that make us feel like geniuses (Iâ
 
 You can automate your entire influencer fulfillment process, Even if you canâ€™t write a line of code
 
-![automagically](/img/automagic.webp)
-
 This part of the process will require a combination of 3 tools:
 
 * Google Forms (or any other form tool)
@@ -468,8 +466,6 @@ The key to any successful system is to measure the output and improve on the rig
 3. You send them your new product releases
 4. You advertise using their audiences
 5. Keep innovating!
-
-![image alt text](/img/image_9.jpg)
 
 This allows you to drive constant sales from influencer marketing.
 
