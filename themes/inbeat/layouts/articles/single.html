@@ -6,7 +6,7 @@
     {{- end -}}
     <h1 class="section__title section__title--centered">{{ .Params.titre }}</h1>
     {{- $author := index .Site.Data.authors .Params.author -}}
-    <span class="article__info">{{ $author.name }} – {{ .Date.Month }} {{ .Date.Day }}, {{.Date.Year}} – {{ .Params.shares }} share{{ if and (not (eq .Params.shares 0)) (not (eq .Params.shares 1)) }}s{{ end }} – {{ .Params.comments }} comment{{- if and (not (eq .Params.comments 0)) (not (eq .Params.comments 1)) -}}s{{- end -}}</span>
+    <span class="article__info">{{ $author.name }} – {{ .Date.Month }} {{ .Date.Day }}, {{.Date.Year}}<!--  – {{ .Params.shares }} share{{ if and (not (eq .Params.shares 0)) (not (eq .Params.shares 1)) }}s{{ end }} – {{ .Params.comments }} comment{{- if and (not (eq .Params.comments 0)) (not (eq .Params.comments 1)) -}}s{{- end -}} --></span>
   </div>
 </section>
 <section class="section section--article-image" style="background-image: url(/quart{{- .Params.headerimage -}});">
