@@ -79,6 +79,9 @@ h1, h2, h3, h4, h5, h6 {
 /********* FOOTER *********/
 
 /********* HOME **********/
+.section {
+  overflow-x: hidden;
+}
 #intro {
   @include breakpoint(tablet) {
     height: 120%;
@@ -195,6 +198,41 @@ h1, h2, h3, h4, h5, h6 {
   }
   #DemoForm {
     height: 41px;
+  }
+}
+
+@media screen and (max-height: 500px) {
+  .intro {
+    padding-top: 10%;
+  }
+  .intro__title {
+    padding-top: 60px;
+  }
+  .intro__description {
+    bottom: 40px;
+  }
+  .intro__form {
+    bottom: 140px;
+  }
+}
+
+@media screen and (max-height: 350px) {
+  .intro {
+    padding-top: 0%;
+  }
+  .intro__title {
+    font-size: 35px;
+    line-height: 45px;
+    padding-top: 60px;
+    br {
+      display: none;
+    }
+  }
+  .intro__description {
+    bottom: 0px;
+  }
+  .intro__form {
+    bottom: 100px;
   }
 }
 
