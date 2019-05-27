@@ -14,9 +14,10 @@
     <img src="{{- .Params.headerimage -}}" alt="">
   </div>
 </section>
-<section class="section section--article-content" >
+<section class="section section--article-content">
   <div class="section__content section__content--article-width section__content--padding">
     {{ .Content }}
   </div>
 </section>
+{{ partial "site/article-share.html" $ . }}
 {{ end }}

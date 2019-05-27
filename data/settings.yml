@@ -16,6 +16,5 @@ mphone: ""
 email: 
 sitedescription: "Discover the strongest influencer search engine on the market."
 sitetitle: "inBeat | Find qualified influencers in seconds"
-defaultsocialimage: ""
-animation: images/intro-animation.gif
+defaultsocialimage: "/img/inbeat-logo.png"
 removefromexternalsearch: true

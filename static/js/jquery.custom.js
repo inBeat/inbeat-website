@@ -33,5 +33,48 @@ $(document).ready(function () {
 	  $('.modal__content').removeClass('modal__content--visible');
 	});
 
+	var $shareButtonsTop,
+			$shareButtonsBottom;
+
+	function defineElementSize() {
+    if (jQuery('.section--article-content').length) {
+        $shareButtonsTop = jQuery('.section--article-content').offset().top;
+    } else {
+        $shareButtonsTop = 0;
+    }
+    jQuery('.share-post').css('top', $shareButtonsTop);
+    if (jQuery('.footer').length) {
+        $shareButtonsBottom = jQuery('.footer').offset().top - 800;
+    } else {
+        $shareButtonsBottom = 0;
+    }
+  }
+
+  defineElementSize();
+
+	function showShareBox() {
+    jQuery(window).scroll(function() {
+      if (jQuery(this).scrollTop() > $shareButtonsTop) {
+        jQuery('.share-post').addClass('stick');
+      } else {
+        jQuery('.share-post').removeClass('stick');
+      }
+      if (jQuery(this).scrollTop() > $shareButtonsTop + 200) {
+        jQuery('.share-post').addClass('show');
+      } else {
+        jQuery('.share-post').removeClass('show');
+      }
+      if (jQuery(this).scrollTop() > $shareButtonsBottom) {
+        jQuery('.share-post').addClass('invisible');
+      } else {
+        jQuery('.share-post').removeClass('invisible');
+      }
+    });
+  }
+  showShareBox();
+  jQuery(window).bind('resize', function() {
+     showShareBox();
+     defineElementSize();
+  });
 	
 });
