@@ -32,10 +32,11 @@ First, you need to break the problem down to simpler parts.
 
 Before diving in, let’s do some planning:
 
-* Step 1: Set goals
-* Step 2: Find influencers and vet them
-* Step 3: Manage orders, approve content and track results
-* Step 4: Optimize your system continuously</td>
+* Step 1: Setting goals
+* Step 2: Finding influencers and vetting them
+* Step 3: Pitching and negotiating influencers
+* Step 4: Shipping product and track
+* Step 5: Making your system better</td>
 
 ## Step 1: Setting Goals
 
@@ -79,19 +80,21 @@ Always add the cost of your product and your shipping to your cost per influence
 
 Here is some simple math to show my point and how it will affect your strategy:
 
-Cost of your product + shipping + influencer cost = cost per influencer
+##### **Cost of your product + shipping + influencer fee = Cost per influencer**
+
+- - -
 
 On one hand, if your **product + shipping cost** is low (let’s say you’re a t-shirt brand), your cost per influencer will be controlled by the influencers fee.
 
-**Cost of product + Shipping cost + Influencer fee = Influencer cost**
+**Cost of product + Shipping cost + Influencer fee = Cost per influencer**
 
 3$ (t-shirt cost) + 5$ (shipping cost) + 200$ (influencer fee) = 208$
 
 On the other hand, if your product is a mountain bike, it would completely change the dynamic of your strategy.
 
-**Cost of product + Shipping cost + Influencer fee = Influencer cost**
+**Cost of product + Shipping cost + Influencer fee = Cost per influencer**
 
-600$ (bike cost) + 300$ (shipping cost) + 200$ (influencer fee) = 1100$
+600$ (bike cost) + 300$ (shipping cost) + 200$ (influencer fee) = 1100$  
 
 This is simply something to think about--let’s move on!
 
@@ -224,7 +227,7 @@ You would roughly need 27 hours (667 / 25) of work to get this result, excluding
 
 We have built our own internal scraper to reduce this workload. We are currently working on a usable version of the tool. If that’s of interest to you, [you can signup here](https://www.inbeat.co) :)!</td>
 
-## Pitching and Negotiating Influencers
+## Step 3: Pitching and Negotiating Influencers
 
 ### Pitching influencers in bulk
 
@@ -289,7 +292,7 @@ This part of our system requires human input. As your knowledge of a niche deepe
 
 You will close some bad deals and you can’t hide from that.
 
-## Shipping Product and tracking results
+## Step 4: Shipping Product and tracking results
 
 When an influencer is closed, you ship the product. There are two ways to do this: manually or automatically.
 
@@ -374,7 +377,7 @@ When you are dealing with bigger Youtube accounts, I suggest you implement a con
 
 We also require the Youtuber to send us a live link when the content goes live. Add this link to your Google Sheets and track your results from there.
 
-## Constantly Hacking Your System
+## Step 5: Constantly Hacking Your System
 
 Constantly hacking your influencer factory is a key component to achieving disproportionate success.
 
