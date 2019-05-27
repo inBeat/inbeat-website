@@ -79,7 +79,7 @@ Always add the cost of your product and your shipping to your cost per influence
 
 Here is some simple math to show my point and how it will affect your strategy:
 
-**\##### Cost of your product + shipping + influencer fee = Cost per influencer**
+##### **Cost of your product + shipping + influencer fee = Cost per influencer**
 
 - - -  
 <br /> 
