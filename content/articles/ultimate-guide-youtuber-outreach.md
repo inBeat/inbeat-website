@@ -83,17 +83,10 @@ Here is some simple math to show my point and how it will affect your strategy:
 
 - - -
 
-<br /> 
-
 On one hand, if your **product + shipping cost** is low (let’s say you’re a t-shirt brand), your cost per influencer will be controlled by the influencers fee.
 
 **Cost of product + Shipping cost + Influencer fee = Cost per influencer**
 
-
-
-- - -
-
-<br /> 
 
 3$ (t-shirt cost) + 5$ (shipping cost) + 200$ (influencer fee) = 208$
 
@@ -103,7 +96,6 @@ On the other hand, if your product is a mountain bike, it would completely chang
 
 600$ (bike cost) + 300$ (shipping cost) + 200$ (influencer fee) = 1100$  
 
-- - -
 
 This is simply something to think about--let’s move on!
 
