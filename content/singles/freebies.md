@@ -8,4 +8,6 @@ titre: "Freebie"
 image: 
 noindex: true
 ---
-#### Stay tuned, your freebie is on its way. It should be in your inbox in a minute. [Back home](/).
+#### Your freebie is on its way. It should be in your inbox in a wink. Enjoy!
+
+[Back home →](/)

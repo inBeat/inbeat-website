@@ -8,4 +8,6 @@ titre: "Thanks"
 image: 
 noindex: true
 ---
-#### You've been added to our beta access list. Thanks for your interest in our product! A member of our team will get back to you soon. [Back home](/).
+#### You've been added to our beta access list. Thanks for your interest in our product! A member of our team will get back to you soon. 
+
+[Back home →](/)
