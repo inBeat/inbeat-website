@@ -13,6 +13,7 @@ author: david
 comments: 0
 shares: 0
 i18nlanguage: en
+popupstyle1: true
 draft: false
 noindex: false
 ---
@@ -73,6 +74,12 @@ I recommend using [Similar Web's free Chrome extension](https://chrome.google.co
 **Let’s face it,**
 
 Influencers are simply people who receive attention from other people. What we’re buying from them is the attention. Treat them as humans (of course), but remember that you are purchasing media.
+
+{{% capturewidget smalltitle="FREE DOWNLOADABLE LIST" title="Download our list of 700+ micro-influencers with their emails" linktext="Download All Influencers Now →" popupid="bite-style-1" %}}
+
+If you're looking to play around with influencer outreach, download our list of qualified influencers right now and get your pitch ready.
+
+{{% /capturewidget %}}
 
 #### **What is the cost of your product and how much does it cost to ship?**
 
