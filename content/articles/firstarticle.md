@@ -12,13 +12,18 @@ categories:
   - Tips
 comments: 0
 shares: 0
+popupstyle1: true
+noindex: true
+draft: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia nesciunt rem odit, iste aperiam libero. Quasi repudiandae velit animi quia, quod enim ipsa, expedita, perferendis tenetur nesciunt blanditiis quisquam numquam.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia nesciunt rem odit, iste aperiam libero. Quasi repudiandae velit animi quia, quod enim ipsa, expedita, perferendis tenetur nesciunt blanditiis quisquam numquam.
+{{% capturewidget smalltitle="FREE DOWNLOADABLE BONUS" title="Want More Email Marketing Inspiration" linktext="Download All Ressources Now →" popupid="bite-style-1" %}}
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat nostrum dolorem sit adipisci quae quasi aliquam maiores id obcaecati sapiente assumenda, alias dolore earum, dignissimos eligendi voluptatem quaerat sed et.
+{{% /capturewidget %}}
 
-{{< tweet 1111327309640990721 >}}
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia nesciunt rem odit, iste aperiam libero. Quasi repudiandae velit animi quia, quod enim ipsa, expedita, perferendis tenetur nesciunt blanditiis quisquam numquam.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia nesciunt rem odit, iste aperiam libero. Quasi repudiandae velit animi quia, quod enim ipsa, expedita, perferendis tenetur nesciunt blanditiis quisquam numquam.
 

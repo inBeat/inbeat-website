@@ -1,2 +1,7 @@
 <link rel="stylesheet" href="{{- $.Site.BaseURL -}}css/main.min.css">
+{{- if and (eq .Type "articles") .IsPage -}}
+<!-- For Bites -->
+<link rel="stylesheet" type="text/css" href="{{- $.Site.BaseURL -}}bites/css/animate.css" />
+<link rel="stylesheet" type="text/css" href="{{- $.Site.BaseURL -}}bites/css/bites-theme.css" />
+{{- end -}}
 <link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700|Work+Sans:300,400,500,700" rel="stylesheet">

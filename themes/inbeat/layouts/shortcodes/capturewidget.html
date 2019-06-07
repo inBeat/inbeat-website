@@ -1,0 +1,16 @@
+{{- $smalltitle := .Get "smalltitle" -}}
+{{- $title := .Get "title" -}}
+{{- $linktext := .Get "linktext" -}}
+{{- $popupid := .Get "popupid" -}}
+
+<div class="capture-widget grid grid--3col">
+  <div class="grid__item grid__item--x2">
+    <span class="capure-widget-small">{{- $smalltitle -}}</span>
+    <h4 class="capture-widget-title">{{- $title -}}</h4>
+    <p>{{- .Inner | markdownify -}}</p>
+    <button type="button" class="capture-widget-popup-link" data-toggle="modal" data-target="#{{- $popupid -}}">{{- $linktext -}}</button>
+  </div>
+  <div class="grid__item">
+    <img src="/img/capture-icon.png" alt="capture">
+  </div>
+</div>

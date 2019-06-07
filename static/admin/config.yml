@@ -53,6 +53,7 @@ collections:
       - {label: "Comments", name: "comments", widget: "number", default: 0}
       - {label: "Shares", name: "shares", widget: "number", default: 0}
       - {label: "Langue", name: "i18nlanguage", widget: "hidden", default: "en"}
+      - {label: "Include popup style 1", name: "popupstyle1", widget: "boolean", default: false}
       - {label: "Text", name: "body", widget: "markdown"}
       - {label: "Hide from website?", name: "draft", widget: "boolean", default: false}
       - {label: "Remove from search engine?", name: "noindex", widget: "boolean", default: false}
@@ -202,3 +203,18 @@ collections:
           - {name: sitetitle, label: "Titre SEO par défaut", widget: "string", hint: "Ceci est la valeur pour la page d'accueil et la valeur par défaut pour toutes les pages."}
           - {label: "Image de partage par défaut", name: "defaultsocialimage", widget: "image", hint: "Ceci est la valeur pour la page d'accueil et la valeur par défaut pour toutes les pages."}
           - {label: "Enlever des moteurs de recherche", name: "removefromexternalsearch", widget: "hidden", default: false}
+      - name: "popup"
+        label: "Popup"
+        file: "data/popup.yml"
+        description: "Popup"
+        fields:
+          - name: popups
+            label: Popups
+            widget: object
+            fields:
+              - name: style1
+                label: Popup style 1
+                widget: object
+                fields:
+                  - {label: "Title", name: "title", widget: "string"}
+                  - {label: "Description", name: "description", widget: "text"}

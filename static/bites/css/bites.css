@@ -1,0 +1,1979 @@
+#bite-1 .modal-content {
+    padding: 85px 80px;
+    background: rgba(41,54,246,1);
+    background: -moz-linear-gradient(left, rgba(41,54,246,1) 0%, rgba(112,122,255,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(41,54,246,1)), color-stop(100%, rgba(112,122,255,1)));
+    background: -webkit-linear-gradient(left, rgba(41,54,246,1) 0%, rgba(112,122,255,1) 100%);
+    background: -o-linear-gradient(left, rgba(41,54,246,1) 0%, rgba(112,122,255,1) 100%);
+    background: -ms-linear-gradient(left, rgba(41,54,246,1) 0%, rgba(112,122,255,1) 100%);
+    background: linear-gradient(to right, rgba(41,54,246,1) 0%, rgba(112,122,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2936f6', endColorstr='#707aff', GradientType=1 );
+}
+#bite-1 .popup-title {
+    font-size: 35px;
+    line-height: 1.25;
+    margin-bottom: 14px;
+}
+#bite-1 .popup-text {
+    font-size: 18px;
+    line-height: 1.4;
+    letter-spacing: 0.1px;
+    margin-bottom: 39px;
+}
+#bite-1 .form-control {
+    width: 260px;
+    height: 50px;
+    padding: 6px 21px;
+}
+#bite-1 .form-control::-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-1 .form-control:-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-1 .btn {
+    width: 62px;
+    height: 50px;
+    background-color: #1625f2;
+}
+#bite-1 .btn:hover {
+    background-color: #ffff;
+}
+#bite-1 .btn:hover i {
+    color: #1625f2;
+}
+#bite-1 .btn:active {
+    -moz-transform: translateY(1px);
+    -webkit-transform: translateY(1px);
+    -o-transform: translateY(1px);
+    -ms-transform: translateY(1px);
+    transform: translateY(1px);
+}
+#bite-2 .modal-content {
+    background: rgba(52, 65, 246, 1);
+}
+#bite-2 .popup-inner {
+    padding: 38px 37px 25px;
+}
+#bite-2 .popup-image-inner img {
+    border-top-left-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+}
+#bite-2 .popup-title {
+    font-size: 27px;
+    line-height: 1.41;
+    letter-spacing: -0.4px;
+}
+#bite-2 .popup-text {
+    opacity: 0.7;
+    font-size: 16px;
+    line-height: 1.63;
+    letter-spacing: 0.1px;
+    margin-bottom: 30px;
+}
+#bite-2 .form-control {
+    background-color: rgba(255,255,255,0.15);
+    height: 43px;
+    color: rgba(255,255,255,.6);
+    padding-left: 17px;
+    padding-right: 17px;
+}
+#bite-2 .form-control::placeholder {
+    color: rgba(255,255,255,.6) !important;
+}
+#bite-2 .form-control::-ms-input-placeholder {
+    color: rgba(255,255,255,.6) !important;
+}
+#bite-2 .form-control::-webkit-input-placeholder {
+    color: rgba(255,255,255,.6) !important;
+}
+#bite-2 .form-control::-moz-placeholder {
+    line-height: 2.1;
+    color: rgba(255,255,255,.6) !important;
+}
+#bite-2 .form-control:-moz-placeholder {
+    line-height: 2.1;
+    color: rgba(255,255,255,.6) !important;
+}
+#bite-2 .btn-subscribe {
+    background-color: #ffffff;
+    height: 43px;
+    color: #3441f6 !important;
+    font-size: 14px;
+    line-height: 1.71;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-2 .btn-subscribe:hover {
+    -moz-transform: translateY(-2px);
+    -webkit-transform: translateY(-2px);
+    -o-transform: translateY(-2px);
+    -ms-transform: translateY(-2px);
+    transform: translateY(-2px);
+}
+#bite-3 .modal-content {
+    padding: 13px 16px;
+}
+#bite-3 .modal-header .close {
+    top: 17.5px;
+    right: 7px;
+}
+#bite-3 .popup-title {
+    font-size: 16px;
+    line-height: 1.07;
+    margin-bottom: 9px;
+}
+#bite-3 .popup-text {
+    font-size: 14px;
+    line-height: 1;
+}
+#bite-3 .btn {
+    width: 120px;
+    height: 36px;
+    background-color: #fe4f4f;
+    font-size: 14px;
+    line-height: 1;
+}
+#bite-3 .btn:hover {
+    background-color: #fe8282;
+}
+#bite-3 .btn:active {
+    background-color: #fe1c1c;
+}
+#bite-4 .modal-content {
+    padding: 45px 42px;
+}
+#bite-4 .popup-title {
+    font-size: 27px;
+    line-height: 1.43;
+    letter-spacing: -0.4px;
+    color: #0f0f0f;
+}
+#bite-4 .popup-text {
+    font-size: 16px;
+    line-height: 1.63;
+}
+#bite-4 .form-control {
+    height: 43px;
+}
+#bite-4 .btn {
+    height: 43px;
+    font-size: 14px;
+    background-color: #1565c0;
+}
+#bite-4 .btn:hover {
+    background-color: #217ee7;
+}
+#bite-4 .btn:active {
+    background-color: #104d92;
+}
+#bite-5 .modal-content {
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+    background-color: rgba(0,0,0,0.4);
+    background-blend-mode: multiply;
+    padding: 107px 87px;
+}
+#bite-5 .popup-title {
+    font-size: 27px;
+    line-height: 1.53;
+    letter-spacing: -0.1px;
+}
+#bite-5 .popup-text {
+    font-size: 18px;
+    line-height: 1.44;
+    letter-spacing: .1px;
+    margin-bottom: 36px;
+}
+#bite-5 .form-control {
+    width: 315px;
+    height: 51px;
+    padding-right: 55px;
+    padding-left: 21px;
+}
+#bite-5 .form-control::-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-5 .form-control:-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-5 .btn {
+    right: 55px;
+    height: auto;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-5 .btn:hover {
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+#bite-5 .btn i {
+    font-size: 15px;
+    color: #727272;
+    opacity: .55;
+}
+#bite-6 .modal-content {
+    background-image: url(../images/bubbles.png);
+    background-size: cover;
+    background-position: center;
+    background-color: #262626;
+    padding: 72px 100px;
+}
+#bite-6 .popup-text {
+    font-size: 16px;
+    line-height: 1.6;
+}
+#bite-6 .popup-title {
+    font-size: 33px;
+    line-height: 1.3;
+}
+#bite-6 .form-control {
+    width: 270px;
+    height: 50px;
+    background-color: rgba(255,255,255,0.1);
+    padding-right: 55px;
+    padding-left: 16px;
+}
+#bite-6 .form-control::-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-6 .form-control:-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-6 .btn {
+    right: 4px;
+    bottom: 9px;
+    height: 36px;
+    background-color: transparent;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-6 .btn:hover {
+    -moz-transform: translateX(2px);
+    -webkit-transform: translateX(2px);
+    -o-transform: translateX(2px);
+    -ms-transform: translateX(2px);
+    transform: translateX(2px);
+}
+#bite-7 .modal-content {
+    padding: 62px 60px 67px;
+}
+#bite-7 .popup-title {
+    font-size: 27px;
+    line-height: 1.63;
+    letter-spacing: -0.4px;
+    margin-bottom: 11px;
+    color: #0f0f0f;
+}
+#bite-7 .popup-text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+#bite-8 .modal-content {
+    padding: 22px;
+    background-color: #fbe471;
+}
+#bite-8 .popup-logo {
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    padding: 6px 7px;
+    border-radius: 4px;
+    font-size: 14px;
+    height: 28px;
+    background-color: #3441f6;
+    line-height: 1.2;
+}
+#bite-8 .time {
+    opacity: 0.8;
+    font-size: 16px;
+    line-height: 28px;
+    color: #1d1d1d;
+}
+#bite-8 .popup-title {
+    font-size: 20px;
+    line-height: 1.3;
+    color: #212121;
+}
+#bite-8 .popup-text {
+    font-size: 14px;
+    line-height: 1.71;
+    color: #1d1d1d;
+    margin-bottom: 34px;
+}
+#bite-8 .btn {
+    width: 258.1px;
+    height: 48px;
+    background-color: rgba(15, 15, 15, 0.18);
+    font-size: 16px;
+    line-height: 1.5;
+    color: #3e3e3e;
+}
+#bite-8 .btn:hover {
+    background-color: rgba(15, 15, 15, 0.1);
+}
+#bite-8 .btn:active {
+    background-color: rgba(15, 15, 15, 0.3);
+}
+#bite-9 .popup-image {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+#bite-9 .popup-inner {
+    padding: 35px 38px;
+}
+#bite-9 .popup-logo {
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    padding: 6px 17px;
+    border-radius: 4px;
+    height: 28px;
+    background-color: #e1f2fa;
+    font-size: 12px;
+    line-height: 1.6;
+    letter-spacing: 1px;
+    color: #3441f6;
+}
+#bite-9 .popup-title {
+    font-size: 27px;
+    line-height: 1.47;
+    color: #0f0f0f;
+    letter-spacing: 0.3px;
+    margin-bottom: 10px;
+}
+#bite-9 .popup-text {
+    font-size: 14px;
+    line-height: 1.71;
+}
+#bite-9 .btn-sing-up {
+    height: 42px;
+    padding-left: 22px;
+    padding-right: 22px;
+    background-color: #3441f6;
+    line-height: 1.88;
+    font-size: 16px;
+}
+#bite-9 .btn-sing-up:hover {
+    background-color: #656ff8;
+}
+#bite-9 .btn-sing-up:active {
+    background-color: #0a1aed;
+}
+#bite-9 .btn-sing-in {
+    font-size: 16px;
+    line-height: 1;
+    color: #3441f6;
+    height: 28px;
+}
+#bite-9 .btn-sing-in:hover {
+    color: #656ff8;
+}
+#bite-9 .btn-sing-in:active {
+    color: #0a1aed;
+}
+#bite-10 .modal-content {
+    background-color: #2633e6;
+}
+#bite-10 .modal-header .close {
+    top: 12px;
+    right: 9px;
+}
+#bite-10 .popup-image-inner {
+    padding-top: 13px;
+    width: 320px;
+    overflow: hidden;
+}
+#bite-10 .popup-image {
+    left: -29px;
+}
+#bite-10 .popup-inner {
+    padding: 70px 37px 79px 10px;
+}
+#bite-10 .popup-title {
+    font-size: 31px;
+    line-height: 1.4;
+    margin-bottom: 10px;
+}
+#bite-10 .popup-text {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 29px;
+}
+#bite-10 .btn-sing-up {
+    width: 100px;
+    height: 42px;
+    line-height: 2.1;
+    font-size: 14px;
+    color: #1625f2;
+}
+#bite-10 .btn-sing-in {
+    width: 100px;
+    height: 42px;
+    background-color: rgba(255, 255, 255, 0.14);
+    line-height: 2.1;
+    font-size: 14px;
+}
+#bite-10 .btn {
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-10 .btn:hover {
+    -moz-transform: translateY(-2px);
+    -webkit-transform: translateY(-2px);
+    -o-transform: translateY(-2px);
+    -ms-transform: translateY(-2px);
+    transform: translateY(-2px);
+}
+#bite-11 .modal-content {
+    padding: 53px;
+}
+#bite-11 .popup-title {
+    font-size: 27px;
+    line-height: 1.63;
+    letter-spacing: -0.4px;
+    color: #0f0f0f;
+    margin-bottom: 6px;
+}
+#bite-11 .popup-text {
+    font-size: 14px;
+    line-height: 1.6;
+}
+#bite-12 .modal-content {
+    background-image: url(../images/bg-2.jpg);
+    background-color: rgba(254,79,79,0.75);
+    background-size: cover;
+    background-blend-mode: lighten;
+    padding: 76px 53px 62px;
+}
+#bite-12 .popup-title strong {
+    font-size: 20px;
+    line-height: 1.25;
+    letter-spacing: -0.3px;
+}
+#bite-12 .btn-link {
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-12 .btn-link:hover {
+    -moz-transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+}
+#bite-13 .modal-content {
+    background-image: url(../images/bg-3.jpg);
+    background-color: rgba(0,0,0,0.3);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding: 58px 68px;
+}
+#bite-13 .popup-title {
+    font-size: 38px;
+    line-height: 1.26;
+    letter-spacing: .1px;
+    margin-bottom: 43px;
+}
+#bite-13 .form-control {
+    width: 212px;
+    height: 50px;
+    padding: 6px 21px;
+    background-color: rgba(255,255,255,0.18);
+}
+#bite-13 .form-control::-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-13 .form-control:-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-13 .form-inline .btn {
+    padding-left: 22px;
+    padding-right: 22px;
+    height: 50px;
+    color: #3441f6;
+    font-size: 14px;
+    line-height: 1.21;
+}
+#bite-13 .form-inline .btn:hover {
+    background-color: #3441f6 !important;
+    color: #fff !important;
+}
+#bite-14 .modal-content {
+    padding: 44px 44px 185px;
+    background: rgba(49,49,49,1);
+    background: -moz-linear-gradient(235deg, rgba(49,49,49,1) 0%, rgba(33,33,33,1) 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(49,49,49,1)), color-stop(100%, rgba(33,33,33,1)));
+    background: -webkit-linear-gradient(235deg, rgba(49,49,49,1) 0%, rgba(33,33,33,1) 100%);
+    background: -o-linear-gradient(235deg, rgba(49,49,49,1) 0%, rgba(33,33,33,1) 100%);
+    background: -ms-linear-gradient(235deg, rgba(49,49,49,1) 0%, rgba(33,33,33,1) 100%);
+    background: linear-gradient(235deg, rgba(49,49,49,1) 0%, rgba(33,33,33,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#313131', endColorstr='#212121', GradientType=1 );
+    overflow: hidden;
+}
+#bite-14 .modal-body {
+    z-index: 2;
+}
+#bite-14 .popup-title {
+    font-size: 36px;
+    line-height: 1.28;
+    letter-spacing: 0.2px;
+}
+#bite-14 .btn {
+    padding-left: 26px;
+    padding-right: 26px;
+    height: 50px;
+    background-color: #3441f6;
+    font-size: 18px;
+    line-height: 2;
+}
+#bite-14 .btn:hover{
+    background-color: #656ff8;
+}
+#bite-14 .btn:active {
+    background-color: #0a1aed;
+}
+#bite-14 .image-popup  {
+    width: 670px;
+    top: 47px;
+    right: -220px;
+}
+#bite-15 .modal-content {
+    background-color: #1625f2;
+    padding: 54px 52px 51px;
+}
+#bite-15 .popup-image {
+    margin-bottom: 35px;
+}
+#bite-15 .popup-title {
+    font-size: 28px;
+    line-height: 1.35;
+    letter-spacing: -0.4px;
+}
+#bite-15 .btn {
+    padding-left: 28px;
+    padding-right: 28px;
+    height: 49px;
+    font-size: 16px;
+    line-height: 2.4;
+    color: #1625f2;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-15 .btn:hover {
+    -moz-transform: translateY(-2px);
+    -webkit-transform: translateY(-2px);
+    -o-transform: translateY(-2px);
+    -ms-transform: translateY(-2px);
+    transform: translateY(-2px);
+}
+#bite-16 .modal-content {
+    padding: 32px;
+    background-color: #292929;
+}
+#bite-16 .modal-header .close {
+    top: 54px;
+    right: 14px;
+}
+#bite-16 .popup-title {
+    font-size: 20px;
+    line-height: 1.4;
+    letter-spacing: 0.2px;
+}
+#bite-16 .popup-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.1px;
+}
+#bite-16 .btn {
+    padding-left: 32px;
+    padding-right: 32px;
+    height: 50px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #0f0f0f;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+    opacity: 1;
+    float: none;
+    text-shadow: none;
+}
+#bite-16 .btn:hover {
+    -moz-transform: scale(1.03);
+    -webkit-transform: scale(1.03);
+    -o-transform: scale(1.03);
+    -ms-transform: scale(1.03);
+    transform: scale(1.03);
+}
+#bite-17 .modal-content {
+    padding: 36px 54px 0;
+    background-color: #1625f2;
+    overflow: hidden;
+}
+#bite-17 .popup-title {
+    font-size: 27px;
+    line-height: 1.41;
+    letter-spacing: -0.1px;
+    margin-bottom: 33px;
+}
+#bite-17 .popup-image-inner {
+    height: 280px;
+}
+#bite-17 .popup-image {
+    left: 50%;
+    margin-left: -112.25px;
+}
+#bite-18 .modal-content {
+    padding: 30px;
+}
+#bite-18 img {
+    width: 64px;
+}
+#bite-18 .popup-title {
+    font-size: 24px;
+    line-height: 1.25;
+    color: #da552f;
+}
+#bite-18 .btn {
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 40px;
+    font-size: 16px;
+    line-height: 1.75;
+    background-color: #dc5425;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-18 .btn:hover {
+    -moz-transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+}
+#bite-19 .modal-content {
+    padding: 78px 94px 83px;
+    background-image: url(../images/bubbles-1.png);
+    background: url(../images/bubbles-1.png), rgba(245,245,245,1);
+    background: url(../images/bubbles-1.png), -moz-linear-gradient(64deg, rgba(245,245,245,1) 0%, rgba(246,246,246,1) 0%, rgba(197,197,197,1) 100%);
+    background: url(../images/bubbles-1.png), -webkit-gradient(left bottom, right top, color-stop(0%, rgba(245,245,245,1)), color-stop(0%, rgba(246,246,246,1)), color-stop(100%, rgba(197,197,197,1)));
+    background: url(../images/bubbles-1.png), -webkit-linear-gradient(64deg, rgba(245,245,245,1) 0%, rgba(246,246,246,1) 0%, rgba(197,197,197,1) 100%);
+    background: url(../images/bubbles-1.png), -o-linear-gradient(64deg, rgba(245,245,245,1) 0%, rgba(246,246,246,1) 0%, rgba(197,197,197,1) 100%);
+    background: url(../images/bubbles-1.png), -ms-linear-gradient(64deg, rgba(245,245,245,1) 0%, rgba(246,246,246,1) 0%, rgba(197,197,197,1) 100%);
+    background: url(../images/bubbles-1.png), linear-gradient(64deg, rgba(245,245,245,1) 0%, rgba(246,246,246,1) 0%, rgba(197,197,197,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f5f5', endColorstr='#c5c5c5', GradientType=1 );
+    background-size: cover;
+    background-position: center;
+}
+#bite-19 .modal-content:after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 10px;
+    background: rgba(245,245,245,1);
+    background: -moz-linear-gradient(64deg, rgba(245,245,245,1) 0%, rgba(246,246,246,1) 0%, rgba(197,197,197,1) 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(245,245,245,1)), color-stop(0%, rgba(246,246,246,1)), color-stop(100%, rgba(197,197,197,1)));
+    background: -webkit-linear-gradient(64deg, rgba(245,245,245,1) 0%, rgba(246,246,246,1) 0%, rgba(197,197,197,1) 100%);
+    background: -o-linear-gradient(64deg, rgba(245,245,245,1) 0%, rgba(246,246,246,1) 0%, rgba(197,197,197,1) 100%);
+    background: -ms-linear-gradient(64deg, rgba(245,245,245,1) 0%, rgba(246,246,246,1) 0%, rgba(197,197,197,1) 100%);
+    background: linear-gradient(64deg, rgba(245,245,245,1) 0%, rgba(246,246,246,1) 0%, rgba(197,197,197,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f5f5', endColorstr='#c5c5c5', GradientType=1 );
+}
+#bite-19 .modal-body {
+    z-index: 2;
+}
+#bite-19 .popup-title {
+    font-size: 27px;
+    line-height: 1.63;
+    letter-spacing: -0.5px;
+    color: #0f0f0f;
+}
+#bite-19 .popup-text {
+    font-size: 18px;
+    line-height: 1.44;
+}
+#bite-19 .form-control {
+    width: 212px;
+    height: 50px;
+    background-color: rgb(15, 15, 15, 0.1);
+    padding-left: 21px;
+    padding-right: 21px;
+}
+#bite-19 .form-control::-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-19 .form-control:-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-19 .btn {
+    width: 108px;
+    height: 50px;
+    background-color: #3441f6;
+    font-size: 14px;
+    line-height: 1.07;
+}
+#bite-19 .btn:hover {
+    background-color: #656ff8;
+}
+#bite-19 .btn:active {
+    background-color: #0a1aed;
+}
+#bite-20 .modal-content {
+    background-color: #6eb957;
+    padding: 22px 0 0;
+}
+#bite-20 .modal-body {
+    padding: 0 21px 22px;
+}
+#bite-20 .popup-text {
+    font-size: 16px;
+    line-height: 1.38;
+}
+#bite-20 .modal-footer {
+    border-top: 1px solid rgba(101, 165, 81, 0.7);
+}
+#bite-20 .btn-link {
+    padding: 12px 0;
+    font-size: 16px;
+    line-height: 1.5;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+#bite-20 .btn-link:hover {
+    background-color: #8dc87b;
+}
+#bite-20 .btn-link:active {
+    background-color: #569c41;
+}
+#bite-21 .modal-content {
+    padding: 62px 42px;
+    background-color: #6f41cc;
+    overflow: hidden;
+}
+#bite-21 .popup-title {
+    font-size: 28px;
+    line-height: 1.36;
+    letter-spacing: 0.2px;
+}
+#bite-21 .popup-text {
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.1px;
+}
+#bite-21 .popup-image-inner {
+    height: 235px;
+}
+#bite-21 .popup-image {
+    right: 0;
+}
+#bite-21 .form-control {
+    width: 228px;
+    height: 50px;
+    background-color: rgba(255,255,255,0.1);
+    padding-right: 55px;
+    padding-left: 16px;
+}
+#bite-21 .form-control::-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-21 .form-control:-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-21 .btn {
+    right: 45px;
+    bottom: 9px;
+    height: 36px;
+    background-color: transparent;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-21 .btn:hover {
+    -moz-transform: translateX(2px);
+    -webkit-transform: translateX(2px);
+    -o-transform: translateX(2px);
+    -ms-transform: translateX(2px);
+    transform: translateX(2px);
+}
+#bite-22 .modal-content {
+    background: rgba(239,203,126,1);
+    background: -moz-linear-gradient(40deg, rgba(239,203,126,1) 0%, rgba(232,180,67,1) 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(239,203,126,1)), color-stop(100%, rgba(232,180,67,1)));
+    background: -webkit-linear-gradient(40deg, rgba(239,203,126,1) 0%, rgba(232,180,67,1) 100%);
+    background: -o-linear-gradient(40deg, rgba(239,203,126,1) 0%, rgba(232,180,67,1) 100%);
+    background: -ms-linear-gradient(40deg, rgba(239,203,126,1) 0%, rgba(232,180,67,1) 100%);
+    background: linear-gradient(40deg, rgba(239,203,126,1) 0%, rgba(232,180,67,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#efcb7e', endColorstr='#e8b443', GradientType=1 );
+    padding: 35px 60px;
+}
+#bite-22 .popup-title {
+    font-size: 27px;
+    line-height: 1.35;
+    letter-spacing: -0.3px;
+    color: #0f0f0f;
+}
+#bite-22 .popup-text {
+    font-size: 14px;
+    line-height: 1.71;
+    color: #000000;
+}
+#bite-22 .btn {
+    padding-left: 29px;
+    padding-right: 29px;
+    height: 40px;
+    font-size: 14px;
+    line-height: 2;
+    letter-spacing: 1px;
+    background-color: #3441f6;
+}
+#bite-22 .btn:hover {
+    background-color: #656ff8;
+}
+#bite-22 .btn:active {
+    background-color: #0a1aed;
+}
+#bite-23 .modal-content  {
+    background-image: url(../images/bg-4.jpg);
+    background-color: rgba(0,0,0,0.3);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding: 34px 48px;
+}
+#bite-23 .modal-header .close {
+    top: 52px;
+    right: 15px;
+}
+#bite-23 .popup-title {
+    font-size: 28px;
+    line-height: 1.36;
+    letter-spacing: 0.2px;
+}
+#bite-23 .form-control {
+    width: 260px;
+    height: 50px;
+    padding: 6px 21px;
+}
+#bite-23 .form-control::-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-23 .form-control:-moz-placeholder {
+    line-height: 2.6;
+}
+#bite-23 .btn {
+    width: 62px;
+    height: 50px;
+    background-color: #3441f6;
+}
+#bite-23 .btn:hover {
+    background-color: #656ff8;
+}
+#bite-23 .btn:active {
+    background-color: #0a1aed;
+}
+#bite-24 .modal-content {
+    padding: 26px 27px 47px;
+}
+#bite-24 .popup-title {
+    font-size: 26px;
+    line-height: 1.36;
+    letter-spacing: 0.1px;
+    color: #0f0f0f;
+    margin-bottom: 24px;
+}
+#bite-24 .form-control {
+    height: 45px;
+    margin-bottom: 12px;
+}
+#bite-24 .btn {
+    height: 45px;
+    font-size: 14px;
+    background-color: #1625f2;
+}
+#bite-24 .btn:hover {
+    background-color: #4652f5;
+}
+#bite-24 .btn:active {
+    background-color: #0b18ca;
+}
+#bite-25 .modal-content {
+    padding: 60px;
+    background-image: url(../images/bg-5.png);
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+#bite-25 .popup-title {
+    font-size: 36px;
+    line-height: 1.3;
+    margin-bottom: 13px;
+}
+#bite-25 .popup-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.1px;
+    margin-bottom: 35px;
+}
+#bite-25 .popup-image-inner {
+    height: 240px;
+}
+#bite-25 .popup-image {
+    right: -35px;
+    top: -337px;
+}
+#bite-25 .btn {
+    padding-left: 24px;
+    padding-right: 24px;
+    height: 50px;
+    font-size: 16px;
+    line-height: 38px;
+    color: #ef3a3a;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-25 .btn:hover {
+    -moz-transform: translateY(-2px);
+    -webkit-transform: translateY(-2px);
+    -o-transform: translateY(-2px);
+    -ms-transform: translateY(-2px);
+    transform: translateY(-2px);
+}
+#bite-26 .modal-content {
+    background-image: url(../images/bg-6.jpg);
+    background-color: rgba(22, 37, 242, 0.76);
+    background-size: cover;
+    background-blend-mode: overlay;
+    padding: 66px 79px;
+}
+#bite-26 .popup-title {
+    font-size: 32px;
+    line-height: 1.38;
+    letter-spacing: -0.3px;
+    margin-bottom: 30px;
+}
+#bite-26 .btn {
+    padding-left: 28px;
+    padding-right: 28px;
+    height: 50px;
+    font-size: 14px;
+    line-height: 2.6;
+    color: #1625f2;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-26 .btn:hover {
+    -moz-transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+}
+#bite-27 .modal-content {
+    padding: 36px 24px;
+}
+#bite-27 .popup-text {
+    font-size: 14px;
+    line-height: 1.6;
+    letter-spacing: 0.1px;
+}
+#bite-27 .btn {
+    padding-left: 33px;
+    padding-right: 33px;
+    height: 44px;
+    border: solid 2px #1565c0;
+    font-size: 16px;
+    line-height: 1.8;
+    color: #1565c0;
+}
+#bite-27 .btn:hover {
+    background-color: #1565c0 !important;
+    color: #fff;
+}
+#bite-27 .btn:active {
+    background-color: #104d92 !important;
+    border-color: #104d92;
+    color: #fff;
+}
+#bite-28 .modal-content {
+    background-color: #de6944;
+}
+#bite-28 .modal-header {
+    padding: 26px 31px;
+}
+#bite-28 .modal-body {
+    border-top: 1px solid rgba(255,255,255,0.2);
+    padding: 23px 31px 27px;
+}
+#bite-28 .popup-title {
+    font-size: 16px;
+    line-height: 1.7;
+    margin-bottom: -1px;
+    letter-spacing: 0.1px;
+}
+#bite-28 .modal-header p {
+    font-size: 14px;
+    line-height: 1.86;
+}
+#bite-28 .modal-body p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+#bite-28 .form-control {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+#bite-28 input.form-control {
+    height: 43px;
+}
+#bite-28 textarea.form-control {
+    padding: 12px;
+    height: 76px;
+}
+#bite-28 .btn {
+    background-color: #1565c0;
+    font-size: 16px;
+    line-height: 1.5;
+    height: 43px;
+}
+#bite-28 .btn:hover {
+    background-color: #217ee7;
+}
+#bite-28 .btn:active {
+    background-color: #104d92;
+}
+#bite-29 .popup-inner {
+    padding: 34px 42px 32px;
+}
+#bite-29 .popup-image-inner:after {
+    content: '';
+    background-color: rgba(254, 79, 79, 0.48);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+}
+#bite-29 .popup-image-inner img {
+    border-top-left-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+}
+#bite-29 .popup-title {
+    font-size: 27px;
+    line-height: 1.41;
+    letter-spacing: -0.2px;
+    color: #242424;
+}
+#bite-29 .popup-text {
+    font-size: 16px;
+    line-height: 1.63;
+    letter-spacing: 0.1px;
+    margin-bottom: 28px;
+    opacity: 1;
+}
+#bite-29 .input-group {
+    height: 44px;
+}
+#bite-29 .form-control {
+    height: 44px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-color: rgba(0,0,0,0.05);
+    background-color: rgba(0,0,0,0.05);
+}
+#bite-29 form .btn {
+    padding-left: 14px;
+    padding-right: 14px;
+    height: 42px;
+    background-color: #f54141;
+    font-size: 14px;
+    line-height: 2;
+    margin-left: 16px;
+}
+#bite-29 form .btn:hover {
+    background-color: #f87171;
+}
+#bite-29 form .btn:active {
+    background-color: #f21111;
+}
+#bite-29 form a {
+    font-size: 14px;
+    line-height: 1.14;
+    color: #3441f6;
+}
+#bite-29 form a:hover {
+    color: #656ff8;
+}
+#bite-29 form a:active {
+    color: #0a1aed;
+}
+#bite-30 .modal-content {
+    padding: 53px;
+    background-color: #e1f2fa;
+}
+#bite-30 .popup-title {
+    font-size: 27px;
+    line-height: 1.44;
+    letter-spacing: -0.1px;
+    color: #0f0f0f;
+}
+#bite-30 .popup-text {
+    font-size: 16px;
+    line-height: 1.63;
+    letter-spacing: 0.2px;
+}
+#bite-31 .modal-content {
+    padding: 18px 14px 18px 34px;
+    background-color: #fe4f4f;
+}
+#bite-31 .modal-header .close {
+    top: 1px;
+    right: 2px;
+}
+#bite-31 .popup-title {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: -0.1px;
+    padding-left: 31px;
+}
+#bite-31 .popup-text {
+    font-size: 14px;
+    line-height: 1.86;
+    letter-spacing: 0.1px;
+    padding-left: 31px;
+}
+#bite-32 .modal-content {
+    padding: 18px 14px 18px 34px;
+    background-color: #7eae3e;
+}
+#bite-32 .modal-header .close {
+    top: 1px;
+    right: 2px;
+}
+#bite-32 .popup-title {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: -0.1px;
+    padding-left: 30px;
+}
+#bite-32 .popup-text {
+    font-size: 14px;
+    line-height: 1.86;
+    letter-spacing: 0.1px;
+    padding-left: 30px;
+}
+#bite-33 .modal-content {
+    background: rgba(68,68,68,1);
+    background: -moz-linear-gradient(219deg, rgba(68,68,68,1) 0%, rgba(43,43,43,1) 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(68,68,68,1)), color-stop(100%, rgba(43,43,43,1)));
+    background: -webkit-linear-gradient(219deg, rgba(68,68,68,1) 0%, rgba(43,43,43,1) 100%);
+    background: -o-linear-gradient(219deg, rgba(68,68,68,1) 0%, rgba(43,43,43,1) 100%);
+    background: -ms-linear-gradient(219deg, rgba(68,68,68,1) 0%, rgba(43,43,43,1) 100%);
+    background: linear-gradient(219deg, rgba(68,68,68,1) 0%, rgba(43,43,43,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#444444', endColorstr='#2b2b2b', GradientType=1 );
+}
+#bite-33 .popup-inner {
+    padding: 38px 37px 25px;
+}
+#bite-33 .popup-image-inner:after {
+    content: '';
+    background-color: rgba(254, 79, 79, 0.4);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+}
+#bite-33 .popup-image-inner img {
+    border-top-left-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+}
+#bite-33 .popup-title {
+    font-size: 27px;
+    line-height: 1.41;
+    letter-spacing: -0.4px;
+}
+#bite-33 .popup-text {
+    opacity: 0.5;
+    font-size: 16px;
+    line-height: 1.63;
+    letter-spacing: 0.1px;
+    margin-bottom: 30px;
+}
+#bite-33 .form-control {
+    background-color: rgba(255,255,255,0.1);
+    height: 43px;
+    padding-left: 17px;
+    padding-right: 17px;
+}
+#bite-33 .form-control::-moz-placeholder {
+    line-height: 2.1;
+}
+#bite-33 .form-control:-moz-placeholder {
+    line-height: 2.1;
+}
+#bite-33 .btn-subscribe {
+    background-color: #1565c0;
+    height: 43px;
+    font-size: 14px;
+    line-height: 1.71;
+}
+#bite-33 .btn-subscribe:hover {
+    background-color: #217ee7;
+}
+#bite-33 .btn-subscribe:active {
+    background-color: #104d92;
+}
+#bite-33 .btn-link {
+    opacity: 0.5;
+    font-size: 14px;
+    line-height: 1.86;
+    -webkit-transition: opacity .15s ease-in-out;
+    -moz-transition: opacity .15s ease-in-out;
+    -ms-transition: opacity .15s ease-in-out;
+    -o-transition: opacity .15s ease-in-out;
+    transition: opacity .15s ease-in-out;
+}
+#bite-33 .btn-link:hover {
+    text-decoration: none;
+    opacity: 1;
+}
+#bite-34 .modal-content {
+    padding: 10px 23.5px 33px;
+    background: rgba(220,83,37,1);
+    background: -moz-linear-gradient(top, rgba(220,83,37,1) 0%, rgba(158,57,23,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(220,83,37,1)), color-stop(100%, rgba(158,57,23,1)));
+    background: -webkit-linear-gradient(top, rgba(220,83,37,1) 0%, rgba(158,57,23,1) 100%);
+    background: -o-linear-gradient(top, rgba(220,83,37,1) 0%, rgba(158,57,23,1) 100%);
+    background: -ms-linear-gradient(top, rgba(220,83,37,1) 0%, rgba(158,57,23,1) 100%);
+    background: linear-gradient(to bottom, rgba(220,83,37,1) 0%, rgba(158,57,23,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dc5325', endColorstr='#9e3917', GradientType=0 );
+}
+#bite-34 .popup-image-inner {
+    height: 207px;
+}
+#bite-34 .popup-image {
+    left: 50%;
+    margin-left: -160px;
+    top: -32px;
+}
+#bite-34 .popup-title {
+    font-size: 26px;
+    line-height: 1.35;
+    letter-spacing: -0.4px;
+}
+#bite-34 .popup-text {
+    font-size: 14px;
+    line-height: 1.57;
+}
+#bite-34 .btn {
+    padding-right: 18px;
+    padding-left: 18px;
+    height: 50px;
+    font-size: 14px;
+    line-height: 2.7;
+    color: #dc5425;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-34 .btn:hover {
+    -moz-transform: translateY(-2px);
+    -webkit-transform: translateY(-2px);
+    -o-transform: translateY(-2px);
+    -ms-transform: translateY(-2px);
+    transform: translateY(-2px);
+}
+#bite-35 .modal-content {
+    padding: 27px 22px;
+    background-color: #f9db62;
+}
+#bite-35 .popup-title {
+    font-size: 22px;
+    line-height: 1.5;
+    letter-spacing: 0.1px;
+    color: #0f0f0f;
+}
+#bite-35 .popup-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.1px;
+    margin-bottom: 20px;
+}
+#bite-35 .btn {
+    padding-left: 24px;
+    padding-right: 24px;
+    height: 42px;
+    background-color: #3441f6;
+    font-size: 14px;
+    line-height: 2.1;
+    opacity: 1;
+    float: none;
+    text-shadow: none;
+}
+#bite-35 .btn:hover {
+    background-color: #656ff8;
+}
+#bite-35 .btn:active {
+    background-color: #0a1aed;
+}
+#bite-36 .modal-content {
+    padding: 28px 0 0 52px;
+    overflow: hidden;
+    background: rgba(113,8,183,1);
+    background: -moz-linear-gradient(239deg, rgba(113,8,183,1) 0%, rgba(68,0,114,1) 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(113,8,183,1)), color-stop(100%, rgba(68,0,114,1)));
+    background: -webkit-linear-gradient(239deg, rgba(113,8,183,1) 0%, rgba(68,0,114,1) 100%);
+    background: -o-linear-gradient(239deg, rgba(113,8,183,1) 0%, rgba(68,0,114,1) 100%);
+    background: -ms-linear-gradient(239deg, rgba(113,8,183,1) 0%, rgba(68,0,114,1) 100%);
+    background: linear-gradient(239deg, rgba(113,8,183,1) 0%, rgba(68,0,114,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7108b7', endColorstr='#440072', GradientType=1 );
+}
+#bite-36 .popup-inner {
+    padding: 15px 0;
+}
+#bite-36 .popup-title {
+    font-size: 22px;
+    line-height: 1.45;
+    letter-spacing: -0.2px;
+    margin-bottom: 12px;
+}
+#bite-36 .popup-text {
+    font-size: 14px;
+    line-height: 1.57;
+    letter-spacing: 0.1px;
+    margin-bottom: 33px;
+}
+#bite-36 .popup-image-inner {
+    height: 252px;
+}
+#bite-36 .btn {
+    padding-left: 21px;
+    padding-right: 21px;
+    height: 42px;
+    font-size: 14px;
+    line-height: 2.1;
+    background-color: #fe4f4f;
+}
+#bite-36 .btn:hover {
+    background-color: #fe8282;
+}
+#bite-36 .btn:active {
+    background-color: #fe1c1c;
+}
+#bite-37 .modal-content {
+    padding-right: 18px;
+    overflow: hidden;
+}
+#bite-37 .popup-image-inner {
+    height: 80px;
+    width: 102px;
+}
+#bite-37 .popup-image {
+    left: -50px;
+    top: -45px;
+}
+#bite-37 .popup-title {
+    font-size: 16px;
+    line-height: 2.13;
+    letter-spacing: -0.1px;
+    color: #0f0f0f;
+    padding-left: 40px;
+}
+#bite-37 .btn {
+    padding-left: 21px;
+    padding-right: 21px;
+    height: 40px;
+    font-size: 14px;
+    line-height: 2;
+    background-color: #1565c0;
+}
+#bite-37 .btn:hover {
+    background-color: #217ee7;
+}
+#bite-37 .btn:active {
+    background-color: #104d92;
+}
+#bite-38 .modal-header:after {
+    content: '';
+    display: block;
+    background-color: rgba(88, 88, 88, 0.62);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+}
+#bite-38 .modal-header img {
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+}
+#bite-38 .modal-body {
+    padding: 24px 25px 20px;
+}
+#bite-38 strong {
+    font-size: 14px;
+    line-height: 1;
+    color: #1625f2;
+    margin-bottom: 7px;
+}
+#bite-38 .popup-title {
+    font-size: 24px;
+    line-height: 1.42;
+    letter-spacing: -0.2px;
+    color: #0f0f0f;
+    margin-bottom: 13px;
+}
+#bite-38 .popup-text {
+    font-size: 14px;
+    line-height: 1.58;
+}
+#bite-38 .popup-footer {
+    border-top: solid 1px rgba(112, 112, 112, 0.23);
+    padding: 17px 25px;
+}
+#bite-38 .read-later {
+    opacity: 0.45;
+    font-size: 14px;
+    line-height: 1;
+    color: #0f0f0f;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-38 .read-later:hover {
+    -moz-transform: translateX(2px);
+    -webkit-transform: translateX(2px);
+    -o-transform: translateX(2px);
+    -ms-transform: translateX(2px);
+    transform: translateX(2px);
+}
+#bite-38 .read-later:active {
+    opacity: 1;
+}
+#bite-38 .read-more {
+    font-size: 14px;
+    line-height: 1;
+    color: #dc5425;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-38 .read-more:hover {
+    -moz-transform: translateX(-2px);
+    -webkit-transform: translateX(-2px);
+    -o-transform: translateX(-2px);
+    -ms-transform: translateX(-2px);
+    transform: translateX(-2px);
+}
+#bite-38 .read-more:active {
+    color: #b2431c;
+}
+#bite-39 .modal-content {
+    padding: 0 30px 9px 0;
+    background: rgba(183,61,20,1);
+    background: -moz-linear-gradient(248deg, rgba(183,61,20,1) 0%, rgba(214,91,50,1) 100%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(183,61,20,1)), color-stop(100%, rgba(214,91,50,1)));
+    background: -webkit-linear-gradient(248deg, rgba(183,61,20,1) 0%, rgba(214,91,50,1) 100%);
+    background: -o-linear-gradient(248deg, rgba(183,61,20,1) 0%, rgba(214,91,50,1) 100%);
+    background: -ms-linear-gradient(248deg, rgba(183,61,20,1) 0%, rgba(214,91,50,1) 100%);
+    background: linear-gradient(248deg, rgba(183,61,20,1) 0%, rgba(214,91,50,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b73d14', endColorstr='#d65b32', GradientType=1 );
+}
+#bite-39 .popup-image-inner {
+    width: 201px;
+    height: 195px;
+}
+#bite-39 .popup-image {
+    width: 100%;
+    top: 15px;
+}
+#bite-39 .popup-inner {
+    padding: 25px 0;
+}
+#bite-39 .popup-title {
+    font-size: 20px;
+    line-height: 1.6;
+    letter-spacing: -0.2px;
+}
+#bite-39 .popup-text {
+    font-size: 14px;
+    line-height: 1.86;
+    letter-spacing: 0.1px;
+    margin-bottom: 15px;
+}
+#bite-39 .btn {
+    padding-left: 14px;
+    padding-right: 14px;
+    height: 42px;
+    font-size: 14px;
+    line-height: 2.1;
+    color: #dc5425;
+    -webkit-transition: all .15s ease-in-out;
+    -moz-transition: all .15s ease-in-out;
+    -ms-transition: all .15s ease-in-out;
+    -o-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+#bite-39 .btn:hover {
+    -moz-transform: translateY(-2px);
+    -webkit-transform: translateY(-2px);
+    -o-transform: translateY(-2px);
+    -ms-transform: translateY(-2px);
+    transform: translateY(-2px);
+}
+#bite-40 .modal-content  {
+    background-image: url(../images/bg-7.jpg);
+    background-color: rgba(0,0,0,0.3);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding: 19px 28px;
+}
+#bite-40 .modal-header .close {
+    top: 30px;
+    right: 15px;
+}
+#bite-40 .popup-title {
+    font-size: 22px;
+    line-height: 1.45;
+    letter-spacing: -0.1px;
+}
+#bite-40 .form-control {
+    width: 219px;
+    height: 43px;
+    padding: 6px 21px;
+}
+#bite-40 .btn {
+    width: 43px;
+    height: 43px;
+    background-color: #fe4f4f;
+}
+#bite-40 .btn:hover {
+    background-color: #fe8282;
+}
+#bite-40 .btn:active {
+    background-color: #fe1c1c;
+}
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    #bite-5 .modal-content {
+        background-image: url(../images/bg@2x.jpg);
+    }
+    #bite-6 .modal-content {
+        background-image: url(../images/bubbles@2x.png);
+    }
+    #bite-12 .modal-content {
+        background-image: url(../images/bg-2@2x.jpg);
+    }
+    #bite-13 .modal-content {
+        background-image: url(../images/bg-3@2x.jpg);
+    }
+    #bite-19 .modal-content {
+        background-image: url(../images/bubbles-1@2x.png);
+    }
+    #bite-23 .modal-content {
+        background-image: url(../images/bg-4@2x.jpg);
+    }
+    #bite-25 .modal-content {
+        background-image: url(../images/bg-5@2x.png);
+    }
+    #bite-26 .modal-content {
+        background-image: url(../images/bg-6@2x.jpg);
+    }
+    #bite-40 .modal-content {
+        background-image: url(../images/bg-7@2x.jpg);
+    }
+}
+@media only screen and (max-width: 991px) {
+    #bite-23 .form-control {
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 767px) {
+    #bite-9 .popup-title {
+        font-size: 20px;
+    }
+    #bite-16 .modal-content {
+        text-align: center;
+    }
+    #bite-16 .modal-header .close {
+        top: 5px;
+        right: 5px;
+    }
+    #bite-16 .col-md-8 {
+        margin-bottom: 20px;
+    }
+    #bite-18 div[class*=col] {
+        text-align: center !important;
+    }
+    #bite-18 .col-md-auto {
+        margin-bottom: 20px;
+    }
+    #bite-20 .modal-content {
+        text-align: center;
+    }
+    #bite-20 .col-md-auto {
+        margin-bottom: 20px;
+    }
+    #bite-23 .modal-content {
+        text-align: center;
+        background-position: right;
+    }
+    #bite-23 .modal-header .close {
+        top: 5px;
+        right: 5px;
+    }
+    #bite-23 .col-md-6 {
+        margin-bottom: 20px;
+    }
+    #bite-25 .modal-content {
+        padding: 30px;
+    }
+    #bite-25 .popup-title {
+        font-size: 30px;
+    }
+    #bite-28 .modal-content {
+        text-align: center;
+    }
+    #bite-28 .col-md-auto {
+        margin-bottom: 20px;
+    }
+    #bite-29 .modal-header .close:before {
+        top: 8.5px;
+        right: 5.5px;
+    }
+    #bite-29 .col-md-auto {
+        display: none;
+    }
+    #bite-29 .popup-inner {
+        padding: 25px 28px 29px;
+    }
+    #bite-30 .modal-content {
+        text-align: center;
+    }
+    #bite-30 .col-md-auto {
+        margin-bottom: 20px;
+    }
+    #bite-30 .col {
+        padding-left: 0 !important;
+    }
+    #bite-31 .modal-content {
+        text-align: center;
+        padding: 30px;
+    }
+    #bite-31 .col-md-auto {
+        margin-bottom: 20px;
+    }
+    #bite-31 .popup-title,
+    #bite-31 .popup-text {
+        padding-left: 0;
+    }
+    #bite-32 .modal-content {
+        text-align: center;
+        padding: 30px;
+    }
+    #bite-32 .col-md-auto {
+        margin-bottom: 20px;
+    }
+    #bite-32 .popup-title,
+    #bite-32 .popup-text {
+        padding-left: 0;
+    }
+    #bite-33 .col-md-auto {
+        display: none;
+    }
+    #bite-37 .modal-content {
+        text-align: center;
+        padding: 15px 15px 24px;
+    }
+    #bite-37 .popup-title {
+        margin-bottom: 10px !important;
+        padding-left: 0;
+    }
+    #bite-37 .popup-image-inner {
+        width: auto;
+        height: auto;
+    }
+    #bite-37 .popup-image {
+        left: -70px;
+        top: -50px;
+    }
+    #bite-39 .modal-content {
+        padding: 20px 70px;
+        text-align: center;
+    }
+    #bite-39 .popup-image-inner {
+        margin: 0 auto;
+    }
+    #bite-39 .popup-image {
+        width: auto;
+        top: 0;
+        left: 50%;
+        margin-left: -126.5px;
+    }
+    #bite-40 .modal-content {
+        text-align: center;
+    }
+    #bite-40 .modal-header .close {
+        top: 5px;
+        right: 5px;
+    }
+    #bite-40 .col-md-4 {
+        margin-bottom: 20px;
+    }
+}
+@media only screen and (max-width: 602px) {
+    #bite-10 .btn {
+        display: block;
+        width: 100%;
+        margin-bottom: 16px;
+    }
+    #bite-10 .btn.btn-sing-in {
+        margin-bottom: 0;
+    }
+}
+@media only screen and (max-width: 575px) {
+    #bite-1 .form-inline {
+        display: block !important;
+    }
+    #bite-1 .form-control,
+    #bite-1 .btn {
+        width: 100%;
+        text-align: center;
+    }
+    #bite-1 .modal-content {
+        padding: 40px;
+    }
+    #bite-3 .modal-content {
+        text-align: center;
+        padding: 40px;
+    }
+    bite-3 .modal-header .close {
+        top: 5px;
+        right: 5px;
+    }
+    #bite-3 .col-md-auto {
+        margin-bottom: 30px;
+    }
+    #bite-3 .btn {
+        margin-left: 0 !important;
+    }
+    #bite-5 .modal-content {
+        padding: 30px;
+    }
+    #bite-5 .form-inline {
+        display: block !important;
+        position: relative;
+    }
+    #bite-5 .form-group {
+        margin-bottom: 0;
+    }
+    #bite-5 .form-control {
+        width: 100%;
+    }
+    #bite-5 .btn {
+        right: 15px;
+        top: 7px;
+    }
+    #bite-6 .modal-content {
+        padding: 30px;
+    }
+    #bite-6 .form-inline {
+        display: block !important;
+        position: relative;
+    }
+    #bite-6 .form-group {
+        margin-bottom: 0;
+    }
+    #bite-6 .form-control {
+        width: 100%;
+    }
+    #bite-8 .btn-block {
+        width: 100%;
+    }
+    #bite-9 .modal-content {
+        text-align: center;
+    }
+    #bite-9 .modal-header .close:before {
+        top: 8.5px;
+        right: 5.5px;
+    }
+    #bite-9 .col-md-auto {
+        margin-top: 40px;
+    }
+    #bite-10 .modal-content {
+        text-align: center;
+    }
+    #bite-10 .popup-inner {
+        padding: 30px 70px 20px;
+        -webkit-box-ordinal-group: 0;
+        -ms-flex-order: -1;
+        order: -1;
+    }
+    #bite-10 .popup-title {
+        font-size: 26px;
+    }
+    #bite-10 .popup-image-inner {
+        width: 100%;
+        height: 200px;
+        -webkit-box-ordinal-group: 14;
+        -ms-flex-order: 13;
+        order: 13;
+    }
+    #bite-10 .popup-image {
+        position: static !important;
+    }
+    #bite-13 .form-inline {
+        display: block !important;
+    }
+    #bite-13 .form-control,
+    #bite-13 .btn {
+        width: 100%;
+        text-align: center;
+    }
+    #bite-13 .modal-content {
+        padding: 40px;
+    }
+    #bite-14 .popup-title {
+        font-size: 30px;
+    }
+    #bite-19 .form-inline {
+        display: block !important;
+    }
+    #bite-19 .form-control,
+    #bite-19 .btn {
+        width: 100%;
+        text-align: center;
+    }
+    #bite-19 .modal-content {
+        padding: 40px;
+    }
+    #bite-21 .modal-content {
+        text-align: center;
+        padding: 40px;
+    }
+    #bite-21 .popup-image {
+        position: static !important;
+    }
+    #bite-21 .col-sm-7 {
+        padding-right: 0 !important;
+    }
+    #bite-21 .form-inline {
+        display: block !important;
+    }
+    #bite-21 .form-group {
+        margin-bottom: 30px;
+    }
+    #bite-21 .form-control {
+        width: 100%;
+    }
+    #bite-21 .btn {
+        right: 15px;
+    }
+    #bite-23 .modal-content {
+        padding: 40px;
+    }
+    #bite-23 .col-md-auto {
+        padding-left: 0 !important;
+    }
+    #bite-23 .form-inline {
+        display: block !important;
+    }
+    #bite-23 .form-control,
+    #bite-23 .btn {
+        width: 100%;
+        text-align: center;
+    }
+    #bite-26 .modal-content {
+        padding: 40px;
+    }
+    #bite-30 .modal-content {
+        padding: 40px;
+    }
+    #bite-33 .popup-inner {
+        padding: 38px 45px 25px;
+    }
+    #bite-36 .modal-content {
+        padding: 28px 0 28px 38px;
+    }
+    #bite-37 .modal-content {
+        text-align: right;
+    }
+    #bite-38 img {
+        width: 100%;
+    }
+    #bite-40 .modal-content {
+        padding: 40px;
+    }
+    #bite-40 .col-md-auto {
+        padding-left: 0 !important;
+    }
+    #bite-40 .form-inline {
+        display: block !important;
+    }
+    #bite-40 .form-control,
+    #bite-40 .btn {
+        width: 100%;
+        text-align: center;
+    }
+}

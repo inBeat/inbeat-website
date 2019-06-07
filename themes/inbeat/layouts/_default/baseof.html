@@ -9,10 +9,11 @@
 	<![endif]-->` | safeHTML }}
 		{{ partial "header/google-tag-manager.html" . }}
 		{{ partial "site-header.html" . }}
-		{{block "main" . }}
-		{{end}}
+		{{ block "main" . }}
+		{{ end }}
 		{{ partial "site-footer.html" . }}
-		{{ partial "site/modal-login-signup.html" . }}
+		{{ partial "site/popup.html" . }}
+		<!-- {{ partial "site/modal-login-signup.html" . }} -->
 		<!-- {{ partial "site/modal-animation.html" . }} -->
 		{{ partial "footer/site-scripts.html" . }}
 	</body>

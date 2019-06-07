@@ -54,6 +54,7 @@
 
 .section--article-image {
   background-size: 0 0;
+  overflow: hidden;
   img {
     max-width: 100%;
     height: auto;
@@ -229,6 +230,68 @@
           left: -27px;
         }
       }
+    }
+  }
+  .capture-widget {
+    padding: 50px 80px;
+    margin: 3em -50px 3em -50px;
+    background: $royalblue;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    color: white;
+    width: initial;
+    .grid__item {
+      margin-bottom: 0;
+    }
+    span {
+      font-size: 12px;
+      line-height: 20px;
+      letter-spacing: 1.9px;
+    }
+    h4 {
+      margin: 15px 0;
+      color: white;
+      font-size: 30px;
+      line-height: 40px;
+      font-weight: 700;
+    }
+    p {
+      font-size: 18px;
+      line-height: 30px;
+    }
+    button {
+      border: none !important;
+      background: none !important;
+      padding: 0 !important;
+      font-family: $articlefont;
+      color: white;
+      margin-top: 30px;
+      display: block;
+      font-size: 18px;
+      line-height: 30px;
+      cursor: pointer;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+    img {
+      padding: 0;
+      @include breakpoint(tablet) {
+        padding-top: 1em;
+      }
+      @include breakpoint(bigphone) {
+        padding-top: 1.5em;
+      }
+    }
+    @include breakpoint(tablet) {
+      margin-left: 0;
+      margin-right: 0;
+    }
+    @include breakpoint(bigphone) {
+      margin: 2em -6% 2em;
+      padding-left: 6%;
+      padding-right: 6%;
     }
   }
 }
