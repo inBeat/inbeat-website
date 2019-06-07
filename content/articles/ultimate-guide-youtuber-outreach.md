@@ -39,6 +39,12 @@ Before diving in, let’s do some planning:
 * Step 4: Shipping product and track
 * Step 5: Making your system better</td>
 
+{{% capturewidget smalltitle="FREE DOWNLOADABLE LIST" title="Download our list of 700+ micro-influencers with their emails" linktext="Download All Influencers Now →" popupid="bite-style-1" %}}
+
+If you're looking to play around with influencer outreach, download our list of qualified influencers right now and get your pitch ready.
+
+{{% /capturewidget %}}
+
 ## Step 1: Setting Goals
 
 Let’s face it, diving in without planning is a sure way to drop the ball. When managing any operation, the last thing you want happening is to lose your flow.
@@ -75,11 +81,7 @@ I recommend using [Similar Web's free Chrome extension](https://chrome.google.co
 
 Influencers are simply people who receive attention from other people. What we’re buying from them is the attention. Treat them as humans (of course), but remember that you are purchasing media.
 
-{{% capturewidget smalltitle="FREE DOWNLOADABLE LIST" title="Download our list of 700+ micro-influencers with their emails" linktext="Download All Influencers Now →" popupid="bite-style-1" %}}
 
-If you're looking to play around with influencer outreach, download our list of qualified influencers right now and get your pitch ready.
-
-{{% /capturewidget %}}
 
 #### **What is the cost of your product and how much does it cost to ship?**
 
