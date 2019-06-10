@@ -34,7 +34,9 @@ There are some shortcodes built for the blog.
 
 #### Capture Widget
 
-Please don't forget to add the popup to the page. The option is in the admin, on the article's page and is named "Include popup style 1". For now, please keep the popupid as in the example, e.g "bite-style-1". You can also control the text of the popup itself in the Autres > Popup in the admin.
+Please don't forget to add the popup to the page. The option is in the admin, on the article's page and is named "Include popup style 1". For now, please keep the popupid as in the example, e.g "bite-style-1". 
+
+**You can also control the text of the popup itself in the Autres > Popup in the admin.**
 
 ```
 {{% capturewidget smalltitle="FREE DOWNLOADABLE LIST" title="Want More Influencer Marketing Inspiration" linktext="Download All Influencers Now →" popupid="bite-style-1" %}}
