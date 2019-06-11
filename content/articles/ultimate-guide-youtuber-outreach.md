@@ -82,8 +82,6 @@ I recommend using [Similar Web's free Chrome extension](https://chrome.google.co
 
 Influencers are simply people who receive attention from other people. What we’re buying from them is the attention. Treat them as humans (of course), but remember that you are purchasing media.
 
-
-
 #### **What is the cost of your product and how much does it cost to ship?**
 
 Always add the cost of your product and your shipping to your cost per influencer. This is common sense.
@@ -94,7 +92,7 @@ Here is some simple math to show my point and how it will affect your strategy:
 
 - - -
 
-On one hand, if your **product + shipping cost** is low (let’s say you’re a t-shirt brand), your cost per influencer will be controlled by the influencers fee.
+On one hand, if your **product + shipping cost** is low (let’s say you’re a t-shirt brand), your cost per influencer will be controlled by the influencer's fee.
 
 **Cost of product + Shipping cost + Influencer fee = Cost per influencer**
 
@@ -377,7 +375,7 @@ It is an out-of-the box integration that shouldn’t take you more than 30 minut
 
 You can do this by setting an email tool on top of your Zapier (i.e. Mailgun) or you can just plug it into your existing system, without routing through Zapier. This is a decision you will take based on your current setup.
 
-#### **2. Approve the content and track the results**
+#### **4. Approve the content and track the results**
 
 We always ask our influencers to send us the content before they publish it. It is a key part to protect your brand identity. 
 
@@ -393,7 +391,7 @@ Constantly hacking your influencer factory is a key component to achieving dispr
 
 ### Determine your benchmark metrics and improve upon those.
 
-Make it a mission to improve on your key campaign metrics. It will drive continous improvement across your team.
+Make it a mission to improve on your key campaign metrics. It will drive continuous improvement across your team.
 
 Here are some of ours:
 
@@ -408,7 +406,7 @@ Let me breakdown how we continuously improve on each of these components:
 
 #### Vetted influencers per hour
 
-This is one we’ve tackled head on by building our own Youtube parser. Our hypothesis was that having a parser would kill our vetting time considerably (which is quite obvious).
+This is one we’ve tackled head-on by building our own Youtube parser. Our hypothesis was that having a parser would kill our vetting time considerably (which is quite obvious).
 
 We realized that there are A LOT of terrible Youtube channels. Our parser was returning a lot of _junk._ This forced us to manually vet the list of results we received. 
 
@@ -422,7 +420,7 @@ We then decided to build a database with all the Youtubers we found. We now run 
 
 Keeping a database of Youtubers allows us build a flywheel. In other words, the more clients we onboard, the better our data is, and the easier our service is to fulfill.
 
-_if you want access to our scraper data, you can email me here_
+_if you want access to our scraper data, you can email me here: david@inbeat.co_
 
 #### Email Open Rate
 
@@ -449,7 +447,7 @@ Here is an example of our 4th email sequence:
 
 ![image alt text](/img/image_8.jpg)
 
-It has increased our closing rate drastically. Of course you will get messages such as this:
+It has increased our closing rate drastically. Of course, you will get messages such as this:
 
 ![image alt text](/img/image_9.jpg)
 
