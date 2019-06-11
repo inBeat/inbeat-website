@@ -5,6 +5,7 @@ description: >-
   influencers. 
 titre: 'Closing 181 Youtubers for your Brand [A COMPLETE GUIDE]'
 slug: ultimate-guide-youtuber-outreach
+image: /img/download.png
 headerimage: /img/download.png
 date: '2019-04-12'
 categories:
