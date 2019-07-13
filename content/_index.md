@@ -1,4 +1,6 @@
 ---
+title: "inBeat | Find Influencers on Instagram and Youtube"
+description: "Find qualified influencers that meet your standards on Instagram and Youtube. Use our influencer database to step up your influencer marketing."
 section1:
   description: Request your beta access and get 20% off for life.
   subtitle: Searching influencers made easy
