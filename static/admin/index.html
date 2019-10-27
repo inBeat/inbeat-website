@@ -31,7 +31,7 @@
         var title = entry.getIn(['data', 'titre']);
         return h('div', {},
           h('h1', {}, title,
-          h('img', {src: bg.toString()}),
+          h('img', {src: bg ? bg.toString() : ''}),
           h('div', {"className": "section--article-content"}, this.props.widgetFor('body'))
         ));
       }
