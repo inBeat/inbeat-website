@@ -273,16 +273,24 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.svg-intro-bottom {
+div.intro-video {
   position: absolute;
   top: 0;
   right: 0;
-  width: auto;
+  width: 100%;
   height: 100%;
-  z-index: 111;
+  overflow-y: hidden;
   @include breakpoint(bigphone) {
     top: 50px;
     height: 70%;
+  }
+  .svg-intro-bottom {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: auto;
+    height: calc(100% + 30px);
+    z-index: 111;
   }
 }
 
@@ -558,6 +566,33 @@ ul.grid__list--fmenu li a {
 
 p {
   font-family: "Work Sans", Helvetica;
+}
+
+/********** NORMAL PAGE ************/
+.section--page-normal {
+  @include breakpoint(bigphone) {
+    width: 80%;
+    padding-left: 10%;
+  }
+  h3 {
+    font-weight: 500;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    margin-top: 30px;
+  }
+  a {
+    font-weight: 500;
+  }
+  p {
+    margin-bottom: 10px;
+  }
+  ul {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    list-style: disc;
+    padding-left: 20px;
+    font-family: $hfont;
+  }
 }
 
 /********** OTHER *************/
