@@ -156,7 +156,20 @@ collections:
         fields:
           - {label: "SEO Title", name: "title", widget: "string"}
           - {label: "SEO Description", name: "description", widget: "text"}
-          - {label: "Slug/Link (if link is https://www.inbeat.co/articles/test-article, value is test-article)", name: "slug", widget: "string", default: "this-is-an-example", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
+          - {label: "Slug/Link (if link is https://www.inbeat.co/this-is-cool, value is this-is-cool)", name: "slug", widget: "hidden", default: "terms-and-conditions", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
+          - {label: "Share image", name: "image", widget: "image" , required: false, hint: "Recommended size is 1200px x 630px"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
+          - {label: "Text", name: "body", widget: "markdown"}
+          - {label: "Hide from website?", name: "draft", widget: "boolean", default: false}
+          - {label: "Remove from search engine?", name: "noindex", widget: "boolean", default: false}
+      - name: "privacy-policy"
+        label: "Privacy Policy"
+        file: "content/singles/privacy-policy.md"
+        description: "Text for Privacy Policy"
+        fields:
+          - {label: "SEO Title", name: "title", widget: "string"}
+          - {label: "SEO Description", name: "description", widget: "text"}
+          - {label: "Slug/Link (if link is https://www.inbeat.co/privacy-policy, value is privacy-policy)", name: "slug", widget: "hidden", default: "privacy-policy", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
           - {label: "Share image", name: "image", widget: "image" , required: false, hint: "Recommended size is 1200px x 630px"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
           - {label: "Text", name: "body", widget: "markdown"}
