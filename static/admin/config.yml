@@ -138,8 +138,8 @@ collections:
           - {label: "Share image", name: "image", widget: "image" , required: false, hint: "Recommended size is 1200px x 630px"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
           - {label: "Text", name: "body", widget: "markdown"}
-          - {label: "Hide from website?", name: "draft", widget: "boolean", default: false}
-          - {label: "Remove from search engine?", name: "noindex", widget: "boolean", default: false}
+          - {label: "Hide from website?", name: "draft", widget: "boolean", required: false, default: false}
+          - {label: "Remove from search engine?", name: "noindex", widget: "boolean", required: false, default: false}
       - name: "privacy-policy"
         label: "Privacy Policy"
         file: "content/singles/privacy-policy.md"
@@ -151,8 +151,8 @@ collections:
           - {label: "Share image", name: "image", widget: "image" , required: false, hint: "Recommended size is 1200px x 630px"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
           - {label: "Text", name: "body", widget: "markdown"}
-          - {label: "Hide from website?", name: "draft", widget: "boolean", default: false}
-          - {label: "Remove from search engine?", name: "noindex", widget: "boolean", default: false}
+          - {label: "Hide from website?", name: "draft", widget: "boolean", required: false, default: false}
+          - {label: "Remove from search engine?", name: "noindex", widget: "boolean", required: false, default: false}
       - name: "pricing"
         label: "Pricing"
         file: "content/singles/pricing.md"
@@ -163,8 +163,8 @@ collections:
           - {label: "Slug/Link (if link is https://www.inbeat.co/pricing, value is pricing)", name: "slug", widget: "hidden", default: "pricing", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
           - {label: "Share image", name: "image", widget: "image" , required: false, hint: "Recommended size is 1200px x 630px"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "pricing"}
-          - {label: "Hide from website?", name: "draft", widget: "boolean", default: false}
-          - {label: "Remove from search engine?", name: "noindex", widget: "boolean", default: false}
+          - {label: "Hide from website?", name: "draft", widget: "boolean", required: false, default: false}
+          - {label: "Remove from search engine?", name: "noindex", widget: "boolean", required: false, default: false}
           - name: pricing
             label: Pricing
             widget: object

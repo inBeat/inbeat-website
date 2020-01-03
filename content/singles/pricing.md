@@ -3,7 +3,7 @@ title: Pricing Plans | inBeat
 description: Pricing Plans
 slug: pricing
 layout: pricing
-draft: true
+draft: false
 noindex: true
 pricing:
   title: Our Plans
