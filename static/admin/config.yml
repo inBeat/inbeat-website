@@ -110,28 +110,6 @@ collections:
               - {label: "Titre", name: "title", widget: "string"}
               - {label: "Description", name: "description", widget: "text"}
               - {label: "Image", name: "image", widget: "image", hint: "Utilisez une image de 700px par 500px."}
-          - name: section7
-            label: Section 7
-            widget: object
-            fields:
-              - {label: "Titre", name: "title", widget: "string"}
-              - {label: "Description", name: "description", widget: "text"}
-              - name: plans
-                label: "Plans"
-                widget: list
-                allow_add: false
-                fields:
-                  - {label: "Titre", name: "title", widget: "string"}
-                  - {label: "Populaire?", name: "popular", widget: "boolean", required: false, default: false}
-                  - {label: "Prix mensuel", name: "monthly", widget: "number"}
-                  - {label: "Prix annuel", name: "yearly", widget: "number"}
-                  - name: features
-                    label: "Fonctionnalités"
-                    widget: list
-                    allow_add: true
-                    fields:
-                      - {label: "Texte", name: "text", widget: "string"}
-                      - {label: "Rayé?", name: "disabled", widget: "boolean", required: false, default: false}
           - name: section8
             label: Section 8
             widget: object
@@ -175,6 +153,54 @@ collections:
           - {label: "Text", name: "body", widget: "markdown"}
           - {label: "Hide from website?", name: "draft", widget: "boolean", default: false}
           - {label: "Remove from search engine?", name: "noindex", widget: "boolean", default: false}
+      - name: "pricing"
+        label: "Pricing"
+        file: "content/singles/pricing.md"
+        description: "Text for Pricing"
+        fields:
+          - {label: "SEO Title", name: "title", widget: "string"}
+          - {label: "SEO Description", name: "description", widget: "text"}
+          - {label: "Slug/Link (if link is https://www.inbeat.co/pricing, value is pricing)", name: "slug", widget: "hidden", default: "pricing", pattern: ["^[a-z0-9]+(?:-[a-z0-9/]+)*$", "Svp utilisez le format ceci-est-un-test"]}
+          - {label: "Share image", name: "image", widget: "image" , required: false, hint: "Recommended size is 1200px x 630px"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "pricing"}
+          - {label: "Hide from website?", name: "draft", widget: "boolean", default: false}
+          - {label: "Remove from search engine?", name: "noindex", widget: "boolean", default: false}
+          - name: pricing
+            label: Pricing
+            widget: object
+            fields:
+              - {label: "Titre", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "text"}
+              - name: plans
+                label: "Plans"
+                widget: list
+                allow_add: false
+                fields:
+                  - {label: "Titre", name: "title", widget: "string"}
+                  - {label: "Populaire?", name: "popular", widget: "boolean", required: false, default: false}
+                  - {label: "Prix mensuel", name: "monthly", widget: "number"}
+                  - {label: "Prix annuel", name: "yearly", widget: "number"}
+                  - name: features
+                    label: "Fonctionnalités"
+                    widget: list
+                    allow_add: true
+                    fields:
+                      - {label: "Texte", name: "text", widget: "string"}
+                      - {label: "Rayé?", name: "disabled", widget: "boolean", required: false, default: false}
+                  - {label: "Contact Only?", name: "contactBtn", widget: "boolean", required: false, default: false}
+          - name: faq
+            label: FAQ
+            widget: object
+            fields:
+              - {label: "Titre", name: "title", widget: "string"}
+              - name: questions
+                label: "Questions"
+                widget: list
+                allow_add: true
+                fields:
+                  - {label: "Question", name: "question", widget: "string"}
+                  - {label: "Answer", name: "answer", widget: "markdown"}
+
 ##### SETTINGS
   - name: "autres"
     label: "Autres"

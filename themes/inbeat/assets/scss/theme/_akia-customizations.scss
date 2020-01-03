@@ -404,16 +404,16 @@ div.intro-video {
   position: relative;
   padding-bottom: 100px;
   margin-bottom: 50px;
-  &:after {
-    content: " ";
-    border-bottom: 1px solid rgba(112, 112, 122, 0.44);
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 50%;
-    max-width: 400px;
-  }
+  // &:after {
+  //   content: " ";
+  //   border-bottom: 1px solid rgba(112, 112, 122, 0.44);
+  //   position: absolute;
+  //   bottom: 0;
+  //   left: 50%;
+  //   transform: translateX(-50%);
+  //   width: 50%;
+  //   max-width: 400px;
+  // }
 }
 
 #pricing {
@@ -422,6 +422,7 @@ div.intro-video {
     line-height: 61px;
     font-weight: 400;
     color: $darkgray;
+    padding-bottom: 20px;
     &:after {
       display: none;
     }
@@ -430,14 +431,33 @@ div.intro-video {
     font-size: 16px;
     line-height: 33px;
     font-weight: 300;
-    max-width: 300px;
+    padding-bottom: 30px;
     color: $darkgray;
+  }
+  .pricing__switcher {
+    margin-bottom: 50px;
+    width: 350px;
+  }
+  .switcher__button {
+    &.monthly {
+      width: 40%;
+    }
+    &.yearly {
+      width: 60%;
+    }
+  }
+  .switcher__border {
+    width: 40%;
+  }
+  .switcher__button:nth-child(2).switcher__button--enabled ~ .switcher__border {
+    left: 40%;
+    width: 60%;
   }
 }
 
 .pricing__plan {
-  width: 30%;
-  margin-right: 5%;
+  width: 23%;
+  margin-right: 2%;
   -webkit-border-radius: 28px;
   -moz-border-radius: 28px;
   border-radius: 28px;
@@ -451,7 +471,7 @@ div.intro-video {
     margin-right: 0;
   }
   &:hover .pricing__title {
-    color: $purple;
+    color: $royalblue;
     &:after {
       width: 50px;
     }
@@ -473,6 +493,7 @@ div.intro-video {
 }
 
 .pricing__badge-text {
+  top: 10px;
   background-color: $royalblue;
   border-top-left-radius: 13px;
   border-bottom-left-radius: 13px;
@@ -507,11 +528,11 @@ div.intro-video {
 
 .pricing__list li {
   font-size: 16px;
-  line-height: 51px;
+  line-height: 26px;
   font-family: "Work Sans", Helvetica;
   background-image: url(/images/checked-pricing-green.png);
   &.disabled {
-    line-height: 51px;
+    line-height: 26px;
     background: url(/images/not-checked-pricing.png) no-repeat 0 50%
   }
 }
@@ -530,6 +551,35 @@ div.intro-video {
       max-width: 150px;
     }
   }
+}
+
+/*********** FAQ *************/
+section#faq {
+    border-top: 2px solid #e6e6e6;
+    background-color: #fff;
+    color: #191919;
+}
+
+section#faq h2 {
+    color: #333;
+    font-size: 28px;
+    text-align: left;
+    font-weight: 400;
+    padding-bottom: 50px;
+}
+
+section#faq h3 {
+    font-weight: 500;
+    font-size: 18px;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+
+section#faq .faq-reply {
+    padding-left: 25px;
+    line-height: 26px;
+    border-left: 3px solid #e6e6e6;
+    margin-bottom: 40px;
 }
 
 /*********** THANK YOU **************/

@@ -3,13 +3,13 @@
   <div class="section__content section__content--fix-width section__content--padding">
     <div class="grid grid--2col grid--articles">
       <div class="grid__item grid__item--padding grid__item--illustration">
-        <img src="/img/articles-illustration.svg" />
+        <img src="/img/articles-illustration.png" class="responsive_image" />
       </div>
       <div class="grid__item grid__item--padding">
         <div class="page-title">
           <p class="subtitle">inBeat</p>
           <h1>{{ .Params.titre }}</h1>
-          <img src="/img/articles-illustration.svg" />
+          <img src="/img/articles-illustration.png" class="responsive_image" />
         </div>
         {{ range $i, $e := sort .Pages ".Params.ordre" "asce" }}
           <div class="item--article">

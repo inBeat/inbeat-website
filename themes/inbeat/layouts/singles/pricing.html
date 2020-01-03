@@ -1,0 +1,65 @@
+{{ define "main" }}
+<!-- Section -- testimonials -->
+{{- with .Params.pricing -}}
+<!-- Section pricing -->
+<section class="section" id="pricing">
+  <div class="section__content section__content--fluid-width section__content--padding">
+    <h3 class="section__title section__title--centered">{{- .title -}}</h3>
+    <div class="section__description section__description--centered">
+      {{- .description | markdownify -}}
+    </div>
+    <div class="pricing">
+      <div class="pricing__switcher switcher">
+        <div class="switcher__buttons">
+          <div class="switcher__button monthly switcher__button--enabled">Monthly</div>
+          <div class="switcher__button yearly">Yearly (2 months free)</div>
+          <div class="switcher__border"></div>
+        </div>
+      </div>
+      {{- range .plans -}}
+      <div class="pricing__plan">
+        {{- if .popular }}
+        <div class="pricing__badge-bg"></div>
+        <div class="pricing__badge-text">popular</div>
+        {{- end -}}
+        <h3 class="pricing__title">{{ .title -}}</h3>
+        <div class="pricing__values">
+          <div class="pricing__value pricing__value--show"><span>$</span>{{ .monthly }} <b>/ month</b></div>
+          <div class="pricing__value pricing__value--hide pricing__value--hidden"><span>$</span>{{ .yearly }} <b>/
+              yearly</b></div>
+        </div>
+        <ul class="pricing__list">
+          {{- range .features -}}
+          <li class="{{- if .disabled -}}disabled{{- end -}}">{{ .text | markdownify }}</li>
+          {{- end -}}
+        </ul>
+        {{- if .contactBtn -}}
+        <a class="pricing__signup" href="mailto:david@inbeat.co">Contact us</a>
+        {{- else -}}
+        <a class="pricing__signup" href="#">Sign up</a>
+        {{- end -}}
+      </div>
+      {{ end }}
+    </div>
+    <div class="clear"></div>
+  </div>
+</section>
+{{- end -}}
+
+{{- with .Params.faq -}}
+<section class="section" id="faq">
+  <div class="section__content section__content--fluid-width section__content--padding">
+    <h2>{{- .title -}}</h2>
+    {{- range .questions -}}
+    <h3>{{- .question }}</h3>
+    <div class="faq-reply">
+      <p>{{- .answer | markdownify -}}</p>
+    </div>
+    {{- end -}}
+    <br>
+    <br>
+    <strong class="black">If you have more questions about the pricing, please contact us at <a href="mailto:david@inbeat.co">david@inbeat.co</a>.</strong>
+  </div>
+</section>
+{{ end }}
+{{ end }}

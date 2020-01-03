@@ -1,5 +1,5 @@
 ---
-title: "InBeat | Thanks for your interest"
+title: "inBeat | Thanks for your interest"
 description: >-
   Thanks for your interest
 slug: freebies

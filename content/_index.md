@@ -50,54 +50,6 @@ section5:
     To power our deep learning model, we hand-pick thousands of influencers.
     Access these and gain a head start on your competitors
   image: /img/list-3.png
-section7:
-  title: Our Plans
-  description: 'Your own influencer database with no contract, setup or hidden fees'
-  plans:
-    - features:
-        - text: <b>1</b> User Account
-        - text: <b>0</b> Contact Exports
-        - text: <b>Limited</b> Filters
-        - disabled: true
-          text: Pulse Spam Detection
-        - disabled: true
-          text: Campaign Creation
-        - disabled: true
-          text: Campaign Reporting
-        - disabled: false
-          text: Email Support
-      monthly: 0
-      popular: false
-      title: Free
-      yearly: 0
-    - features:
-        - text: <b>1</b> User Account
-        - text: <b>0</b> Contact Exports
-        - text: <b>All</b> Filters
-        - disabled: true
-          text: Pulse Spam Detection
-        - text: Campaign Creation
-        - disabled: true
-          text: Campaign Reporting
-        - disabled: false
-          text: Email Support
-      monthly: 49
-      popular: true
-      title: Pro
-      yearly: 487
-    - features:
-        - text: <b>3</b> User Account
-        - text: <b>500</b> Contact Exports
-        - text: <b>All</b> Filters
-        - text: Pulse Spam Detection
-        - disabled: false
-          text: Campaign Creation
-        - text: Campaign Reporting
-        - text: Live Phone Support
-      monthly: 99
-      popular: false
-      title: Ultra
-      yearly: 987
 section8:
   clients:
     - link: 'https://phoneloops.com'
