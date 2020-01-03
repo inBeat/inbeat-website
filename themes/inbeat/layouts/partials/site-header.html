@@ -3,19 +3,17 @@
     <div class="header__logo-title">
       <a href="{{- $.Site.BaseURL -}}" title="Home"><img src="/img/inbeat-logo-horizontal.png" alt="inBeat logo"/></a>
     </div>
-    <nav class="header__menu {{ if .IsHome }}header-home{{ end }}">                                                                   
+    <nav class="header__menu {{ if .IsHome }}header-home{{ end }}">
       <ul>
-        {{- range $i, $e := $.Site.Data.menu.main -}}
-        <li class="{{- if .submenu -}}menu-item-has-children{{- end -}}"><a class="{{ if eq $i 0 }}selected {{ end }}header-link" href="{{- $.Site.BaseURL -}}#{{- .link -}}">{{- .fr -}}</a>
-          {{- if .submenu -}}
+        <!-- Add the 'selected' class for color -->
+        <li><a class="header-link" href="{{- $.Site.BaseURL -}}">HOME</a></li>
+        <!-- <li class="menu-item-has-children">
+          <a class="header-link" href="{{- $.Site.BaseURL -}}#features">PRODUCT</a>
           <ul class="sub-menu">
-            {{- range .links -}}
-            <li><a href="{{- $.Site.BaseURL -}}#{{- .link -}}" class="header-link">{{- .fr -}}</a></li>
-            {{- end -}}
+            <li><a href="{{- $.Site.BaseURL -}}#pulse" class="header-link">PULSE</a></li>
           </ul>
-          {{- end -}}
-        </li>
-        {{ end }}   
+        </li> -->
+        <li><a class="header-link" href="{{- $.Site.BaseURL -}}articles">ARTICLES</a></li>  
       </ul>
     </nav> 
   </div>    

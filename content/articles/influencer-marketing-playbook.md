@@ -1,8 +1,8 @@
 ---
-title: Test
-description: Test
-titre: Test
-slug: testing
+title: Influencer Marketing Playbook
+description: Influencer Marketing Playbook
+titre: Influencer Marketing Playbook
+slug: influencer-marketing-playbook
 headerimage: /img/download.png
 date: '2019-10-29'
 categories:
@@ -12,8 +12,8 @@ comments: 0
 shares: 0
 i18nlanguage: en
 popupstyle1: false
-draft: false
-noindex: false
+draft: true
+noindex: true
 ---
 
 # Influencer Marketing Playbook

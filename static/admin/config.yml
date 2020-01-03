@@ -181,26 +181,26 @@ collections:
     editor:
       preview: false
     files:
-      - name: "menu"
-        label: "Menu"
-        file: "data/menu.yml"
-        description: "Menu"
-        fields:
-          - name: main
-            label: Menu principal
-            widget: list
-            allow_add: false
-            fields:
-              - {label: "Texte", name: "fr", widget: "string"}
-              - {label: "Lien", name: "link", widget: "hidden"}
-              - {label: "Sous-menu", name: "submenu", widget: "boolean"}
-              - name: links
-                label: Liens
-                widget: list
-                allow_add: false
-                fields:
-                  - {label: "Texte", name: "fr", widget: "string"}
-                  - {label: "Lien", name: "link", widget: "hidden"}
+      # - name: "menu"
+      #   label: "Menu"
+      #   file: "data/menu.yml"
+      #   description: "Menu"
+      #   fields:
+      #     - name: main
+      #       label: Menu principal
+      #       widget: list
+      #       allow_add: false
+      #       fields:
+      #         - {label: "Texte", name: "fr", widget: "string"}
+      #         - {label: "Lien", name: "link", widget: "hidden"}
+      #         - {label: "Sous-menu", name: "submenu", widget: "boolean"}
+      #         - name: links
+      #           label: Liens
+      #           widget: list
+      #           allow_add: false
+      #           fields:
+      #             - {label: "Texte", name: "fr", widget: "string"}
+      #             - {label: "Lien", name: "link", widget: "hidden"}
       - name: "settings"
         label: "Généralités"
         file: "data/settings.yml"

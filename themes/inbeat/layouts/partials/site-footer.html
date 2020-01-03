@@ -5,12 +5,12 @@
       <div class="grid grid--5col">
         <div class="grid__item grid__item--x2">
           <h3 class="grid__title grid__title--footer-logo">INBEAT</h3>
-          <p class="grid__text grid__text--copyright">Copyright &copy; 2019 INBEAT.  <br />All Rights Reserved. Proudly made in Montréal. </p>
-          <!-- <ul class="grid__list grid__list--sicons">
-              <li><a href="#"><img src="{{- $.Site.BaseURL -}}images/social/black/twitter.png" alt="" title=""/></a></li>
-              <li><a href="#"><img src="{{- $.Site.BaseURL -}}images/social/black/facebook.png" alt="" title=""/></a></li>
-              <li><a href="#"><img src="{{- $.Site.BaseURL -}}images/social/black/linkedin.png" alt="" title=""/></a></li>
-          </ul> -->
+          <p class="grid__text grid__text--copyright">Copyright &copy; {{ dateFormat "2006" now }} INBEAT.  <br />All Rights Reserved. Proudly made in Montreal. </p>
+          <ul class="grid__list grid__list--sicons">
+              <li>
+                <a href="https://www.linkedin.com/company/inbeat/" title="inBeat LinkedIn"><img src="{{- $.Site.BaseURL -}}images/social/black/linkedin.png" alt="LinkedIn logo" title=""/></a>
+              </li>
+          </ul>
         </div>
         <div class="grid__item"></div>
         <div class="grid__item">
@@ -25,6 +25,7 @@
           <h3 class="grid__title grid__title--footer">Support</h3>
           <ul class="grid__list grid__list--fmenu">
               <li><a href="mailto:david@inbeat.co">Contact</a></li>
+              <li><a href="{{- $.Site.BaseURL -}}articles">Articles</a></li>
               <li><a title="Privacy Policy" href="{{- $.Site.BaseURL -}}privacy-policy">Privacy Policy</a></li>
               <li><a title="Terms and Conditions" href="{{- $.Site.BaseURL -}}terms-and-conditions">Terms & Conditions</a></li>
           </ul>
