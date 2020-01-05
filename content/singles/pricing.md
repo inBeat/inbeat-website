@@ -113,6 +113,14 @@ faq:
 
         - Topics
       question: What Counts as a Contact Export?
+    - answer: >-
+        We sure do! Contact us directly at support@inbeat.co and we will unlock
+        our charity plan for you.
+      question: 'We are a Charity, Do You Have Any Special Discounts?'
+    - answer: >-
+        Our system will warn you if you exceed your plan limit. You will be able
+        to uprade your plan at this stage.
+      question: Can I Exceed My Plan Limit?
   title: Common Questions
 ---
 
