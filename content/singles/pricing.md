@@ -95,6 +95,23 @@ faq:
         Our platform is built around a usage model. For each influencer you
         export, you will be charged 1 credit. If the influencer does not have an
         email linked to it, you will not be charged.
+
+
+        When exporting a list, you will receive the following information:
+
+        - Handle
+
+        - Email
+
+        - Profile URL
+
+        - Language
+
+        - Followers
+
+        - Engagement
+
+        - Topics
       question: What Counts as a Contact Export?
   title: Common Questions
 ---
