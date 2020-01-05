@@ -77,14 +77,25 @@ faq:
   questions:
     - answer: >-
         Yes, you can change or cancel your plan at any time in your settings.
-        Once you have canceled, you'll still have access to your premium plan
-        until the end of your subscription cycle, and will then be moved to our
-        free plan.
+        Once you have canceled your plan, you will retain access to your premium
+        plan until the end of your subscription cycle. At this point, you will
+        be moved to our free plan.
       question: Can I cancel my subscription whenever I want?
     - answer: >-
         We currently support most major credit cards (Visa, Mastercard, and
         American Express).
       question: What forms of payment do you accept?
-  title: Common questions about our pricing
+    - answer: >-
+        This depends on the scale at which you want to do influencer marketing.
+        Think about how many influencers you want to work with and how many you
+        will need to contact. Each influencer with an email that is exported
+        will cost 1 credit.
+      question: How Many Credits Do I need?
+    - answer: >-
+        Our platform is built around a usage model. For each influencer you
+        export, you will be charged 1 credit. If the influencer does not have an
+        email linked to it, you will not be charged.
+      question: What Counts as a Contact Export?
+  title: Common Questions
 ---
 
