@@ -14,7 +14,7 @@ comments: 0
 shares: 0
 i18nlanguage: en
 popupstyle1: false
-draft: false
+draft: true
 noindex: false
 ---
 If you’re interested in working with Instagram influencers, there are many ways to find them. Before beginning your search, define your ideal influencer. You can ask yourself the following questions:
@@ -91,4 +91,4 @@ As you find influencers, make sure you add their information to a list (profile 
 
 I prefer contacting influencers by email, as the response rate is much higher. From my experience, DMs don’t get as much attention as emails do.
 
-You can use a tool such as Mailshake or Gmass to manage cold email at scale. These tools will make your life easier
+You can use a tool such as Mailshake or Gmass to manage cold email at scale. These tools will make your life easier.
