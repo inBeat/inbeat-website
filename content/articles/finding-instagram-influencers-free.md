@@ -67,8 +67,6 @@ Don’t forget to view the following of each profile you discover. **Relevant in
 
 ![](/img/instagram-followers.png)
 
-
-
 ## 2. Browsing Influencer Marketplaces
 
 There are multiple influencer marketplaces out there (FameBit, for example). These marketplaces are directories for influencers.	
