@@ -60,19 +60,22 @@ pricing:
       title: Growth
       yearly: 34
 agency:
-  features:
-    - text: <b>3</b> User Account
-    - text: <b>2000</b> Contact Exports
+  title: Agency Plan
+  basic:
+    - text: <b>Multiple</b> User Accounts
+    - text: <b>Variable</b> Contact Exports
     - text: <b>Unlimited</b> Pages
     - text: <b>Unlimited</b> Campaigns
-    - text: Live Support
-    - text: Multiple clients
-    - text: Campaign Tracking
-    - text: Campaign Reporting
-  monthly: 199
-  popular: false
-  title: Agency
-  yearly: 1990
+    - text: <b>Live</b> Support
+  premium:
+    - title: <b>Multiple</b> Clients
+      text: Connect & manage multiple client accounts.
+    - title: <b>Campaign</b> Tracking
+      text: Actively track influencer generated content.
+    - title: <b>Campaign</b> Reporting
+      text: Export a detailed report of all campaign content & results.
+    - title: <b>Priority</b> Support
+      text: Get an account representative.
 faq:
   questions:
     - answer: >-
@@ -90,37 +93,20 @@ faq:
         Think about how many influencers you want to work with and how many you
         will need to contact. Each influencer with an email that is exported
         will cost 1 credit.
-      question: How Many Credits Do I need?
+      question: How many credits do I need?
     - answer: >-
         Our platform is built around a usage model. For each influencer you
         export, you will be charged 1 credit. If the influencer does not have an
-        email linked to it, you will not be charged.
-
-
-        When exporting a list, you will receive the following information:
-
-        - Handle
-
-        - Email
-
-        - Profile URL
-
-        - Language
-
-        - Followers
-
-        - Engagement
-
-        - Topics
-      question: What Counts as a Contact Export?
+        email linked to it, you will not be charged. When exporting a list, you will receive the following information: Handle, Email, Profile URL, Language, Followers, Engagement, Topics, Website
+      question: What counts as a contact export?
     - answer: >-
         We sure do! Contact us directly at support@inbeat.co and we will unlock
         our charity plan for you.
-      question: 'We are a Charity, Do You Have Any Special Discounts?'
+      question: 'We are a charity, do you have any special discounts?'
     - answer: >-
         Our system will warn you if you exceed your plan limit. You will be able
         to uprade your plan at this stage.
-      question: Can I Exceed My Plan Limit?
+      question: Can I exceed my plan's credit?
   title: Common Questions
 ---
 

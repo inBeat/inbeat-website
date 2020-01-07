@@ -179,7 +179,7 @@ collections:
                   - {label: "Titre", name: "title", widget: "string"}
                   - {label: "Populaire?", name: "popular", widget: "boolean", required: false, default: false}
                   - {label: "Prix mensuel", name: "monthly", widget: "number"}
-                  - {label: "Prix annuel", name: "yearly", widget: "number"}
+                  - {label: "Prix annuel (mais converti par mois)", name: "yearly", widget: "number"}
                   - name: features
                     label: "Fonctionnalités"
                     widget: list
@@ -187,7 +187,24 @@ collections:
                     fields:
                       - {label: "Texte", name: "text", widget: "string"}
                       - {label: "Rayé?", name: "disabled", widget: "boolean", required: false, default: false}
-                  - {label: "Contact Only?", name: "contactBtn", widget: "boolean", required: false, default: false}
+          - name: agency
+            label: Agency Plan
+            widget: object
+            fields:
+              - {label: "Titre", name: "title", widget: "string"}
+              - name: basic
+                label: "Basic Features"
+                widget: list
+                allow_add: true
+                fields:
+                  - {label: "Text", name: "text", widget: "string"}
+              - name: premium
+                label: "Premium Features"
+                widget: list
+                allow_add: true
+                fields:
+                  - {label: "Title", name: "title", widget: "string"}
+                  - {label: "Text", name: "text", widget: "string"}
           - name: faq
             label: FAQ
             widget: object
@@ -199,7 +216,7 @@ collections:
                 allow_add: true
                 fields:
                   - {label: "Question", name: "question", widget: "string"}
-                  - {label: "Answer", name: "answer", widget: "markdown"}
+                  - {label: "Answer", name: "answer", widget: "text"}
 
 ##### SETTINGS
   - name: "autres"

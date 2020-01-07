@@ -426,15 +426,29 @@ div.intro-video {
 }
 
 #pricing {
+  @include breakpoint(tablet) {
+    .section__content--padding {
+      padding-top: 90px;
+    }
+  }
+  @include breakpoint(bigphone) {
+    .section__content--padding {
+      padding-top: 75px;
+    }
+  }
   .section__title {
     font-size: 43px;
     line-height: 61px;
     font-weight: 400;
-    color: $darkgray;
+    color: #000000;
     padding-bottom: 20px;
     &:after {
       display: none;
     }
+  }
+  .pricing {
+    width: calc(100% - 40px);
+    max-width: $max-width;
   }
   .section__description {
     font-size: 16px;
@@ -488,16 +502,10 @@ div.intro-video {
     border: 1px solid #B3B3B3;
     background-color: white;
   }
-  @include breakpoint(tablet) {
-    width: 47.5%;
-    margin-bottom: 40px;
-    &:nth-child(2n+1) {
-      margin-right: 0;
-    }
-  }
-  @include breakpoint(phone) {
+  @media screen and (max-width: 921px) {
     width: 100%;
     margin-right: 0;
+    margin-bottom: 40px;
   }
   &:last-of-type {
     margin-right: 0;
@@ -535,7 +543,7 @@ div.intro-video {
   font-size: initial;
   text-align: left;
   span.non-beta {
-    color: #2E5BFF;
+    color: $royalblue;
     font-size: 20px;
     line-height: 26px;
     padding: 0px 4px;
@@ -548,7 +556,7 @@ div.intro-video {
       left: 0;
       top: calc(50%);
       height: 1px;
-      background: #2E5BFF;
+      background: $royalblue;
     }
   }
   div.empty-beta {
@@ -610,6 +618,7 @@ div.intro-video {
 
 .pricing__list li {
   font-size: 16px;
+  padding-left: 20px;
   line-height: 30px;
   font-family: $hfont;
   font-weight: 400;
@@ -644,31 +653,182 @@ div.intro-video {
 
 /*********** FAQ *************/
 section#faq {
-    border-top: 2px solid #e6e6e6;
-    background-color: #fff;
-    color: #191919;
-}
-
-section#faq h2 {
-    color: #333;
-    font-size: 28px;
-    text-align: left;
+  border-top: 2px solid #e6e6e6;
+  background-color: #fff;
+  color: #191919;
+  h2 {
+    text-align: center;
+    font-size: 43px;
+    line-height: 61px;
     font-weight: 400;
+    color: #000000;
     padding-bottom: 50px;
-}
-
-section#faq h3 {
+  }
+  h3 {
     font-weight: 500;
     font-size: 18px;
-    padding-bottom: 20px;
+    padding-bottom: 24px;
     display: inline-block;
+    color: $royalblue;
+  }
+  .sections {
+    width: calc(100% - 40px);
+    max-width: $max-width;
+    margin: 40px auto 0;
+    .col {
+      flex-basis: 30%;
+      max-width: 30%;
+      margin-bottom: 30px;
+      @media screen and (max-width: 921px) {
+        flex-basis: 100%;
+        max-width: 100%;
+      }
+    }
+  }
+  .faq-reply {
+    font-size: 16px;
+    line-height: 21px;
+  }
+  .more-question {
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 700;
+    color: #241C15;
+    text-align: center;
+    margin-top: 100px;
+  }
+  a.btn {
+    color: white;
+    background-color: $royalblue !important;
+    border-color: $royalblue !important;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    padding: 8px 30px;
+    font-size: 16px;
+    box-sizing: border-box;
+    font-family: $hfont;
+  }
 }
 
-section#faq .faq-reply {
-    padding-left: 25px;
-    line-height: 26px;
-    border-left: 3px solid #e6e6e6;
-    margin-bottom: 40px;
+/*********** FLEX UTILS ************/
+.flex-row {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  & > div {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+  }
+}
+
+/*********** AGENCY *************/
+
+section#agency {
+  background: #E8EDFF;
+  text-align: center;
+  h2 {
+    font-size: 43px;
+    line-height: 61px;
+    font-weight: 400;
+    color: #000000;
+    padding-bottom: 40px;
+  }
+  a.btn {
+    color: white;
+    background-color: $royalblue !important;
+    border-color: $royalblue !important;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    padding: 8px 30px;
+    margin-top: 30px;
+    font-size: 16px;
+    box-sizing: border-box;
+    font-family: $hfont;
+  }
+  .sections {
+    width: calc(100% - 40px);
+    max-width: $max-width;
+    margin: 80px auto 0;
+    & > div {
+      border: 1px solid #B3B3B3;
+      background: white;
+      padding: 20px;
+      text-align: left;
+      h3 {
+        font-size: 28px;
+        line-height: 36px;
+        font-weight: 400;
+        position: relative;
+        padding-bottom: 20px;
+        margin-bottom: 30px;
+        &:after {
+          content:'';
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          width: 50px;
+          height: 1px;
+          background: rgb(81,81,81);
+        }
+      }
+    }
+  }
+  div.basic {
+    flex-basis: 30%;
+    max-width: 30%;
+    @media screen and (max-width: 921px) {
+      flex-basis: 100%;
+      max-width: 100%;
+      margin-bottom: 40px;
+    }
+    ul {
+      li {
+        font-size: 16px;
+        padding: 3px 0 3px 20px;
+        line-height: 30px;
+        font-family: $hfont;
+        font-weight: 400;
+        background: url(/img/check.svg) no-repeat 0 50%;
+        color: #241C15;
+        text-align: left;
+      }
+    }
+  }
+  div.premium {
+    flex-basis: 65%;
+    max-width: 65%;
+    @media screen and (max-width: 921px) {
+      flex-basis: 100%;
+      max-width: 100%;
+    }
+    .col {
+      flex-basis: 48%;
+      max-width: 48%;
+      margin-bottom: 30px;
+      padding-left: 20px;
+      background: url(/img/check.svg) no-repeat 0 3px;
+      @media screen and (max-width: 921px) {
+        flex-basis: 100%;
+        max-width: 100%;
+      }
+      h4 {
+        font-size: 20px;
+        line-height: 26px;
+        padding-bottom: 2px;
+        font-weight: 400;
+      }
+      p {
+        font-size: 16px;
+        line-height: 21px;
+        color: #9CA9BA;
+      }
+    }
+  }
 }
 
 /*********** THANK YOU **************/

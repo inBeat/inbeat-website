@@ -57,19 +57,49 @@
 </section>
 {{- end -}}
 
+{{- with .Params.agency -}}
+<section class="section" id="agency">
+  <div class="section__content section__content--fluid-width section__content--padding">
+    <h2>{{- .title -}}</h2>
+    <a class="btn" href="mailto:david@inbeat.co" title="Agency price">Contact us for pricing</a>
+    <div class="sections flex-row">
+      <div class="basic">
+        <h3><b>Basic</b> Features</h3>
+        <ul>
+          {{- range .basic -}}
+            <li>{{ .text | markdownify }}</li>
+          {{- end -}}
+        </ul>
+      </div>
+      <div class="premium">
+        <h3><b>Premium</b> Features</h3>
+        <div class="flex-row">
+          {{- range .premium -}}
+          <div class="col">
+            <h4>{{- .title | markdownify -}}</h4>
+            <p>{{- .text -}}</p>
+          </div>
+          {{- end -}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{- end -}}
+
 {{- with .Params.faq -}}
 <section class="section" id="faq">
   <div class="section__content section__content--fluid-width section__content--padding">
     <h2>{{- .title -}}</h2>
-    {{- range .questions -}}
-    <h3>{{- .question }}</h3>
-    <div class="faq-reply">
-      <p>{{- .answer | markdownify -}}</p>
+    <div class="sections flex-row">
+      {{- range .questions -}}
+      <div class="col">
+        <h3>{{- .question }}</h3>
+        <p class="faq-reply">{{- .answer | markdownify -}}</p>
+      </div>
+      {{- end -}}
     </div>
-    {{- end -}}
-    <br>
-    <br>
-    <strong class="black">If you have more questions about the pricing, please contact us at <a href="mailto:david@inbeat.co">david@inbeat.co</a>.</strong>
+    <p class="more-question">If you have more questions about the pricing, please contact us.<br><br><a class="btn" href="mailto:david@inbeat.co">david@inbeat.co</a></p>
   </div>
 </section>
 {{ end }}
