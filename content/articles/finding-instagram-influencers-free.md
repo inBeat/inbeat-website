@@ -5,7 +5,7 @@ description: >-
   engine to find influencers at scale. Try our free plan.
 titre: How to Find Instagram Influencers for Free
 slug: finding-instagram-influencers-free
-headerimage: /img/download.png
+headerimage: /img/a2.png
 date: '2020-01-06'
 categories:
   - Tips
