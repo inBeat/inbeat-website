@@ -23,7 +23,7 @@
 /* Header */
 .section--article-header {
   text-align: center;
-  font-family: 'Source Serif Pro', serif;
+  font-family: $hfont;
   .section__content--padding {
     padding: 80px 0 60px;
   }
@@ -43,7 +43,7 @@
     font-weight: 500;
     color: #333;
     padding-bottom: 0px;
-    font-family: 'Source Serif Pro', serif;
+    font-family: $hfont;
     &:after {
       content: none;
     }
@@ -72,8 +72,11 @@
 }
 
 .section--article-content {
-  h1,h2,h3,h4,h5,h6,p,li,a,span,blockquote {
-    font-family: 'Source Serif Pro', serif;
+  h1,h2,h3,h4,h5,h6 {
+    font-family: $hfont;
+  }
+  p,li,a,span,blockquote {
+    font-family: $pfont;
   }
   p {
     line-height: 35px;
@@ -250,6 +253,7 @@
       font-size: 12px;
       line-height: 20px;
       letter-spacing: 1.9px;
+      font-family: $hfont;
     }
     h4 {
       margin: 15px 0;
@@ -266,7 +270,7 @@
       border: none !important;
       background: none !important;
       padding: 0 !important;
-      font-family: $articlefont;
+      font-family: $hfont;
       color: white;
       margin-top: 30px;
       display: block;

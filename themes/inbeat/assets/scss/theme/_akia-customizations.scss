@@ -27,6 +27,10 @@ h1, h2, h3, h4, h5, h6 {
         }
       }
     }
+    li a {
+      font-family: $hfont;
+      font-size: 16px;
+    }
   }
   &.header--sticky {
     .header__menu {
@@ -144,6 +148,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 21px;
   color: $gray;
   font-weight: 400;
+  font-family: $hfont;
   @include breakpoint(tablet) {
     color: $darkgray;
   }
@@ -158,6 +163,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #707070;
   font-size: 18px;
   font-weight: 400;
+  font-family: $hfont;
   @include breakpoint(tablet) {
     float: none;
     margin-left: auto;
@@ -181,6 +187,7 @@ h1, h2, h3, h4, h5, h6 {
   -moz-border-radius: $br;
   border-radius: $br;
   border: 1px solid $royalblue;
+  font-family: $hfont;
   @include breakpoint(tablet) {
     width: 80%;
     margin-left: auto;
@@ -368,7 +375,7 @@ div.intro-video {
     line-height: 33px;
     font-weight: 300;
     color: $darkgray;
-    font-family: "Work Sans", Helvetica;
+    font-family: $pfont;
     span {
       font-weight: 400;
     }
@@ -500,7 +507,7 @@ div.intro-video {
   padding-right: 40px;
   left: -15px;
   box-shadow: -6px 3px 6px rgba(0,0,0,0.16);
-  font-family: "Work Sans", Helvetica;
+  font-family: $pfont;
   font-weight: 300;
   &:after {
     content: "";
@@ -529,7 +536,7 @@ div.intro-video {
 .pricing__list li {
   font-size: 16px;
   line-height: 26px;
-  font-family: "Work Sans", Helvetica;
+  font-family: $pfont;
   background-image: url(/images/checked-pricing-green.png);
   &.disabled {
     line-height: 26px;
@@ -615,7 +622,7 @@ ul.grid__list--fmenu li a {
 }
 
 p {
-  font-family: "Work Sans", Helvetica;
+  font-family: $pfont;
 }
 
 /********** NORMAL PAGE ************/

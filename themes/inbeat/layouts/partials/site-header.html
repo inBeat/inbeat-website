@@ -6,14 +6,15 @@
     <nav class="header__menu {{ if .IsHome }}header-home{{ end }}">
       <ul>
         <!-- Add the 'selected' class for color -->
-        <li><a class="header-link" href="{{- $.Site.BaseURL -}}">HOME</a></li>
+        <li><a class="header-link" href="{{- $.Site.BaseURL -}}">Home</a></li>
+        <li><a class="header-link" href="{{- $.Site.BaseURL -}}pricing">Pricing</a></li>
         <!-- <li class="menu-item-has-children">
           <a class="header-link" href="{{- $.Site.BaseURL -}}#features">PRODUCT</a>
           <ul class="sub-menu">
             <li><a href="{{- $.Site.BaseURL -}}#pulse" class="header-link">PULSE</a></li>
           </ul>
         </li> -->
-        <li><a class="header-link" href="{{- $.Site.BaseURL -}}articles">ARTICLES</a></li>  
+        <li><a class="header-link" href="{{- $.Site.BaseURL -}}articles">Articles</a></li>  
       </ul>
     </nav> 
   </div>    

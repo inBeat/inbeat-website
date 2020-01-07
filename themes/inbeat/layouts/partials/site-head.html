@@ -10,6 +10,17 @@
   {{- if getenv "IS_PROD" -}}
   <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <script type="text/javascript">(function(o){var b="https://briskpelican.io/anywhere/",t="70966eb402a84893b3943cebb29eb552433c38fcb0684a7d89ce2bf839df10de",a=window.AutopilotAnywhere={_runQueue:[],run:function(){this._runQueue.push(arguments);}},c=encodeURIComponent,s="SCRIPT",d=document,l=d.getElementsByTagName(s)[0],p="t="+c(d.title||"")+"&u="+c(d.location.href||"")+"&r="+c(d.referrer||""),j="text/javascript",z,y;if(!window.Autopilot) window.Autopilot=a;if(o.app) p="devmode=true&"+p;z=function(src,asy){var e=d.createElement(s);e.src=src;e.type=j;e.async=asy;l.parentNode.insertBefore(e,l);};y=function(){z(b+t+'?'+p,true);};if(window.attachEvent){window.attachEvent("onload",y);}else{window.addEventListener("load",y,false);}})({});</script>
+  <!-- MailerLite Universal -->
+  <!-- <script>
+    (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+    var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+    f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
+    var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
+    _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+
+    var ml_account = ml('accounts', '1733628', 'i1f2t3r5b3', 'load');
+  </script> -->
+  <!-- End MailerLite Universal -->
   {{- end -}}
   {{ `<!--[if lt IE 9]>
   		<script src="/js/vendor/html5shiv.js"></script>

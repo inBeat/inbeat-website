@@ -148,7 +148,7 @@ We’ve done this internally to save our team from burnout and preserve our Glas
 
 {{% protip %}}
 
-We are beta testing our database. If you’d like to have early access, just [signup here](https://www.inbeat.co)).
+We are beta testing our database. If you’d like to have early access, just [signup here](https://www.inbeat.co).
 
 {{% /protip %}}
 
@@ -233,7 +233,7 @@ So, let’s say you would want to close 100 influencers. Taking into considerati
 
 You would roughly need 27 hours (667 / 25) of work to get this result, excluding the relation management work.
 
-We have built our internal scraper to reduce this workload. We are currently working on a usable version of the tool. If that’s of interest to you, [you can signup here](https://www.inbeat.co) :)!</td>
+We have built our internal scraper to reduce this workload. We are currently working on a usable version of the tool. If that’s of interest to you, [you can signup here](https://www.inbeat.co)! :)</td>
 
 ## Step 3: Pitching and Negotiating Influencers
 
