@@ -12,32 +12,43 @@
       <div class="pricing__switcher switcher">
         <div class="switcher__buttons">
           <div class="switcher__button monthly switcher__button--enabled">Monthly</div>
-          <div class="switcher__button yearly">Yearly (2 months free)</div>
+          <div class="switcher__button yearly">Yearly <span>(2 months free)</span></div>
           <div class="switcher__border"></div>
         </div>
       </div>
       {{- range .plans -}}
-      <div class="pricing__plan">
-        {{- if .popular }}
-        <div class="pricing__badge-bg"></div>
-        <div class="pricing__badge-text">popular</div>
-        {{- end -}}
-        <h3 class="pricing__title">{{ .title -}}</h3>
-        <div class="pricing__values">
-          <div class="pricing__value pricing__value--show"><span>$</span>{{ .monthly }} <b>/ month</b></div>
-          <div class="pricing__value pricing__value--hide pricing__value--hidden"><span>$</span>{{ .yearly }} <b>/
-              yearly</b></div>
+      <div class="pricing__plan{{ if .popular }} popular{{ end }}">
+        <div class="ctn">
+          <h3 class="pricing__title">{{ .title -}}</h3>
+          <div class="pricing__details">
+            <div class="pricing__values">
+              {{- if not (eq .monthly 0) -}}
+              <span class="non-beta">{{ mul .monthly 2 }} USD</span>
+              {{- else -}}
+              <div class="empty-beta"></div>
+              {{- end -}}
+              <div class="pricing__value pricing__value--show">
+                <span class="price">{{ .monthly }} USD</span>
+                <span class="interval">billed monthly</span>
+              </div>
+              <div class="pricing__value pricing__value--hide pricing__value--hidden">
+                <span class="price">{{ .yearly }} USD</span>
+                <span class="interval">billed yearly</span>
+              </div>
+              <span class="per {{ if eq .monthly 0 }} closer{{ end }}">/ mo</span>
+            </div>
+            <ul class="pricing__list">
+              {{- range .features -}}
+              <li class="{{- if .disabled -}}disabled{{- end -}}">{{ .text | markdownify }}</li>
+              {{- end -}}
+            </ul>
+            {{- if .contactBtn -}}
+            <a class="pricing__signup" href="mailto:david@inbeat.co">Contact us</a>
+            {{- else -}}
+            <a class="pricing__signup" href="#">Sign up</a>
+            {{- end -}}
+          </div>
         </div>
-        <ul class="pricing__list">
-          {{- range .features -}}
-          <li class="{{- if .disabled -}}disabled{{- end -}}">{{ .text | markdownify }}</li>
-          {{- end -}}
-        </ul>
-        {{- if .contactBtn -}}
-        <a class="pricing__signup" href="mailto:david@inbeat.co">Contact us</a>
-        {{- else -}}
-        <a class="pricing__signup" href="#">Sign up</a>
-        {{- end -}}
       </div>
       {{ end }}
     </div>

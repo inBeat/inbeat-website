@@ -1260,80 +1260,6 @@ svg.svg-intro-bottom {
   float: left;
   position: relative;
 }
-.pricing__plan:nth-child(2){ 
-  border-top-left-radius: 15px;
-  -webkit-border-top-left-radius: 15px;
-  border-bottom-left-radius: 15px;
-    -webkit-border-bottom-left-radius: 15px;
-}
-.pricing__plan:nth-child(4){ 
-  border-bottom-right-radius: 15px;
-  -webkit-border-bottom-right-radius: 15px;
-  border-top-right-radius: 15px;
-  -webkit-border-top-right-radius: 15px;
-}
-.pricing__plan--popular {
-  z-index: 2;
-  top: -30px;
-  padding:50px 0 70px 0;
-  border-radius: 15px;
-  -webkit-border-radius: 15px;
-  background-color: #82c064;
-  background: -webkit-linear-gradient(60deg, #64b13d, #088957);
-  background: linear-gradient(60deg, #64b13d, #088957);
-  color:#fff;
-  -moz-box-shadow: 10px 0 15px -10px rgba(0, 0, 0, .45), -10px 0 15px -10px rgba(0, 0, 0, .45);
-  -webkit-box-shadow: 10px 0 15px -10px rgba(0, 0, 0, .45), -10px 0 15px -10px rgba(0, 0, 0, .45);
-  box-shadow: 10px 0 15px -10px rgba(0, 0, 0, .45), -10px 0 15px -10px rgba(0, 0, 0, .45);    
-}
-.pricing__badge-text{
-  position:absolute;
-  top:25px;
-  left:-5px;
-  z-index:444;
-  color:#fff;
-  font-size:14px;
-  font-weight:700;
-  background-color:#ff8d12;
-  padding:8px 20px;
-}
-.pricing__title{
-  width:100%;
-  text-align:center;
-  position:relative;
-  font-size:24px;
-  font-weight:700;
-  padding:0px 0 40px 0;
-  margin:0px;
-}
-.pricing__title:after {
-    content:'';
-    position:absolute;
-    left:0;right:0;
-    top:60%;
-    margin:auto;
-    width:50px;
-    height:1px;
-    background:#454545;
-  -webkit-transition: all .5s ease-out;
-  -moz-transition: all .5s ease-out;
-  -o-transition: all .5s ease-out;
-  transition: all .5s ease-out;
-}
-.pricing__plan--popular .pricing__title{
-  font-size:44px;
-  color:#fff;
-  font-weight:900;
-  letter-spacing:-1px;
-  padding:0px 0 40px 0;
-} 
-.pricing__plan--popular .pricing__title:after {
-    background:#fff;
-  top:70%;
-}
-.pricing__plan:hover .pricing__title:after {
-    width:80%;
-} 
 .pricing__values{
   font-size:58px;
   font-weight:700;
@@ -1364,64 +1290,14 @@ svg.svg-intro-bottom {
   display:none;
 }
 .pricing__value--show{
-  -webkit-animation: showToY 0.6s forwards;
-  animation: showToY 0.6s forwards;
+  opacity: 1;
 }
 .pricing__value--hide{
-  -webkit-animation: fadeToY 0.6s forwards;
-  animation: fadeToY 0.6s forwards;
-}
-@keyframes fadeToY {
-  0% {
-    opacity: 1;
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-  }
-  100% {
-    opacity: 0;
-    -webkit-transform: translateY(80%);
-    transform: translateY(80%);
-  }
-}
-@-webkit-keyframes fadeToY {
-  0% {
-    opacity: 1;
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-  }
-  100% {
-    opacity: 0;
-    -webkit-transform: translateY(80%);
-    transform: translateY(80%);
-  }
-}
-@keyframes showToY {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateY(-80%);
-    transform: translateY(-80%);
-  }
-  100% {
-    opacity:1;
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-  }
-}
-@-webkit-keyframes showToY {
-  0% {
-    opacity: 0;
-    -webkit-transform: translateY(-80%);
-    transform: translateY(-80%);
-  }
-  100% {
-    opacity:1;
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-  }
+  display: none;
 }
 .pricing__list {
-  width:80%;
-  margin:20px 0 0 10%;
+  width: 100%;
+  margin:20px 0 0;
   padding: 0;
   list-style: none;
 }
@@ -1433,14 +1309,6 @@ svg.svg-intro-bottom {
 }
 .pricing__plan--popular .pricing__list li {
   background:url(/images/checked-pricing-white.png) no-repeat 0 50%;
-}
-.pricing__list li.disabled {
-  padding:3px 0 3px 12%;
-  text-align:left;
-  line-height:24px;
-  background:none;
-  text-decoration: line-through;
-  opacity:0.6;
 }
 .pricing__signup{
   display:inline-block;
@@ -1464,17 +1332,6 @@ svg.svg-intro-bottom {
   background-color:#82c064;
   border:2px #82c064 solid;
  }
-.pricing__plan--popular .pricing__signup{
-  color:#fff;
-  background-color:#ff8d12;
-  border:2px #ff8d12 solid;
- }
-.pricing__plan--popular .pricing__signup:hover{
-  color:#fff;
-  background:none;
-  border:2px #fff solid;
- }
-
 
  /*===============================================*/
 /*  7.7 CUSTOM SECTION - HOW IT WORKS (HIW)        */

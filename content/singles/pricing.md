@@ -6,16 +6,16 @@ layout: pricing
 draft: false
 noindex: true
 pricing:
-  title: Our Plans
+  title: Pay half for beta
   description: >-
-    Your own influencer database with no contract, setup or hidden
-    fees.<br>Enjoy our beta pricing while it lasts!
+    Secure 50% OFF on your plan for life.<br>No contract, setup or hidden fees.
   plans:
     - features:
         - text: <b>1</b> User Account
-        - text: <b>0</b> Contact Exports
-        - text: <b>50</b> Pages
-        - text: <b>3</b> Campaigns
+        - text: Contact Exports
+          disabled: true
+        - text: <b>50</b> Pages <span>/mo</span>
+        - text: <b>3</b> Campaigns <span>/mo</span>
         - text: Email Support
         - disabled: true
           text: Multiple clients
@@ -29,7 +29,7 @@ pricing:
       yearly: 0
     - features:
         - text: <b>1</b> User Account
-        - text: <b>200</b> Contact Exports
+        - text: <b>200</b> Contact Exports <span>/mo</span>
         - text: <b>Unlimited</b> Pages
         - text: <b>Unlimited</b> Campaigns
         - text: Live Support
@@ -39,13 +39,13 @@ pricing:
           text: Campaign Tracking
         - disabled: true
           text: Campaign Reporting
-      monthly: 19
-      popular: false
+      monthly: 20
+      popular: true
       title: Startup
-      yearly: 190
+      yearly: 17
     - features:
         - text: <b>1</b> User Account
-        - text: <b>500</b> Contact Exports
+        - text: <b>500</b> Contact Exports <span>/mo</span>
         - text: <b>Unlimited</b> Pages
         - text: <b>Unlimited</b> Campaigns
         - text: Live Support
@@ -55,24 +55,24 @@ pricing:
           text: Campaign Tracking
         - disabled: true
           text: Campaign Reporting
-      monthly: 49
-      popular: true
-      title: Growth
-      yearly: 490
-    - contactBtn: true
-      features:
-        - text: <b>3</b> User Account
-        - text: <b>2000</b> Contact Exports
-        - text: <b>Unlimited</b> Pages
-        - text: <b>Unlimited</b> Campaigns
-        - text: Live Support
-        - text: Multiple clients
-        - text: Campaign Tracking
-        - text: Campaign Reporting
-      monthly: 199
+      monthly: 40
       popular: false
-      title: Agency
-      yearly: 1990
+      title: Growth
+      yearly: 34
+agency:
+  features:
+    - text: <b>3</b> User Account
+    - text: <b>2000</b> Contact Exports
+    - text: <b>Unlimited</b> Pages
+    - text: <b>Unlimited</b> Campaigns
+    - text: Live Support
+    - text: Multiple clients
+    - text: Campaign Tracking
+    - text: Campaign Reporting
+  monthly: 199
+  popular: false
+  title: Agency
+  yearly: 1990
 faq:
   questions:
     - answer: >-

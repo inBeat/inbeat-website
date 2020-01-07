@@ -55,6 +55,8 @@ h1, h2, h3, h4, h5, h6 {
   img {
     max-height: 45px;
     width: auto;
+    display: inline-block;
+    vertical-align: middle;
     @include breakpoint(bigphone) {
       max-height: 35px;
     }
@@ -436,7 +438,7 @@ div.intro-video {
   }
   .section__description {
     font-size: 16px;
-    line-height: 33px;
+    line-height: 20px;
     font-weight: 300;
     padding-bottom: 30px;
     color: $darkgray;
@@ -444,6 +446,8 @@ div.intro-video {
   .pricing__switcher {
     margin-bottom: 50px;
     width: 350px;
+    font-family: $hfont;
+    font-size: 16px;
   }
   .switcher__button {
     &.monthly {
@@ -455,6 +459,13 @@ div.intro-video {
   }
   .switcher__border {
     width: 40%;
+    background-color: black;
+  }
+  .switcher__button.switcher__button--enabled {
+    font-weight: 700;
+    span {
+      font-weight: 400;
+    }
   }
   .switcher__button:nth-child(2).switcher__button--enabled ~ .switcher__border {
     left: 40%;
@@ -463,62 +474,122 @@ div.intro-video {
 }
 
 .pricing__plan {
-  width: 23%;
-  margin-right: 2%;
-  -webkit-border-radius: 28px;
-  -moz-border-radius: 28px;
-  border-radius: 28px;
-  background-color: white;
-  box-shadow: 0px 3px 6px rgba(0,0,0,0.16);
+  width: 30%;
+  margin-right: 5%;
+  box-sizing: border-box;
+  position: relative;
+  padding: 0;
+  .ctn {
+    z-index: 1;
+    position: relative;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: 1px solid #B3B3B3;
+    background-color: white;
+  }
   @include breakpoint(tablet) {
-    width: 100%;
+    width: 47.5%;
     margin-bottom: 40px;
+    &:nth-child(2n+1) {
+      margin-right: 0;
+    }
+  }
+  @include breakpoint(phone) {
+    width: 100%;
+    margin-right: 0;
   }
   &:last-of-type {
     margin-right: 0;
   }
-  &:hover .pricing__title {
-    color: $royalblue;
-    &:after {
-      width: 50px;
+  &.popular {
+    &:before {
+      z-index: 0;
+      position: absolute;
+      left: -20px;
+      top: -20px;
+      content: '';
+      width: calc(100% + 40px);
+      height: calc(100% + 40px);
+      border-radius: 4px;
+      background: #E8EDFF;
     }
   }
   .pricing__title {
-    -webkit-transition: 0.4s color;
-    -moz-transition: 0.4s color;
-    -ms-transition: 0.4s color;
-    -o-transition: 0.4s color;
-    transition: 0.4s color;
-    font-size: 43px;
-    line-height: 61px;
-    font-weight: 500;
-    color: $darkgray;
-    &:after {
-      top: 80%;
-    }
+    font-size: 28px;
+    line-height: 36px;
+    color: $darkgray !important;
+    padding: 15px 25px;
+    text-align: left;
+    font-weight: 400;
+    border-bottom: 1px solid #E0E0E0;
+  }
+  .pricing__details {
+    padding: 25px;
   }
 }
 
-.pricing__badge-text {
-  top: 10px;
-  background-color: $royalblue;
-  border-top-left-radius: 13px;
-  border-bottom-left-radius: 13px;
-  padding-right: 40px;
-  left: -15px;
-  box-shadow: -6px 3px 6px rgba(0,0,0,0.16);
-  font-family: $pfont;
-  font-weight: 300;
-  &:after {
-    content: "";
+.pricing__values { 
+  height: 132px;
+  line-height: initial;
+  font-size: initial;
+  text-align: left;
+  span.non-beta {
+    color: #2E5BFF;
+    font-size: 20px;
+    line-height: 26px;
+    padding: 0px 4px;
+    position: relative;
+    font-weight: 400;
+    &:after {
+      content: '';
+      position: absolute;
+      width: 100%;
+      left: 0;
+      top: calc(50%);
+      height: 1px;
+      background: #2E5BFF;
+    }
+  }
+  div.empty-beta {
+    height: 25px;
+  }
+  .pricing__value {
+    text-align: left;
+    .price {
+      font-size: 50px;
+      line-height: 65px;
+      font-weight: 400;
+      font-family: $hfont;
+      display: block;
+    }
+  }
+  span.interval {
+    font-size: 16px;
+    line-height: 21px;
+    color: #828385;
+    font-weight: 400;
+  }
+  span.per {
     position: absolute;
-    right: 0px;
-    bottom: 0;
-    width: 0;
-    height: 0;
-    border-right: 15px solid white;
-    border-top: 15px solid transparent;
-    border-bottom: 15px solid transparent;
+    left: 190px;
+    bottom: 53px;
+    font-size: 16px;
+    line-height: 21px;
+    font-family: $hfont;
+    font-weight: 400;
+    &.closer {
+      left: 162px;
+    }
+  }
+  &:after {
+      content:'';
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      width: 50px;
+      height: 1px;
+      background: rgba(81,81,81,0.5);
   }
 }
 
@@ -529,18 +600,29 @@ div.intro-video {
   -webkit-border-radius: $br;
   -moz-border-radius: $br;
   border-radius: $br;
-  padding: 12px 30px;
-  margin-top: 50px;
+  padding: 8px 0px;
+  margin-top: 30px;
+  font-size: 16px;
+  width: 100%;
+  box-sizing: border-box;
+  font-family: $hfont;
 }
 
 .pricing__list li {
   font-size: 16px;
-  line-height: 26px;
-  font-family: $pfont;
-  background-image: url(/images/checked-pricing-green.png);
+  line-height: 30px;
+  font-family: $hfont;
+  font-weight: 400;
+  background-image: url(/img/check.svg);
+  color: #241C15;
+  text-align: left;
   &.disabled {
-    line-height: 26px;
-    background: url(/images/not-checked-pricing.png) no-repeat 0 50%
+    line-height: 30px;
+    color: #828385;
+    background: url(/img/close.svg) no-repeat 0 50%
+  }
+  span {
+    color: #828385;
   }
 }
 
