@@ -117,12 +117,12 @@ faq:
         Irrespective of your signup date, the weekly searches count is reset
         every Sunday, at 11:59PM EST.
       question: When do you reset the weekly searches count?
+    - answer: That
+      question: This
     - answer: >-
         We sure do! Contact us directly at david@inbeat.co and we will unlock
         our charity plan for you.
       question: 'We are a charity, do you have any special discounts?'
-    - answer: That
-      question: This
   title: Common Questions
 ---
 
