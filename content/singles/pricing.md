@@ -13,7 +13,7 @@ pricing:
         - text: <b>1</b> User Account
         - disabled: true
           text: Contact Exports
-        - text: <b>100</b> Pages <span>/mo</span>
+        - text: <b>75</b> Pages <span>/week</span>
         - text: <b>3</b> Campaigns
         - text: Email Support
         - disabled: true
@@ -88,26 +88,25 @@ faq:
         American Express).
       question: What forms of payment do you accept?
     - answer: >-
-        This depends on the scale at which you want to do influencer marketing.
-        Think about how many influencers you want to work with and how many you
-        will need to contact. Each influencer with an email that is exported
-        will cost 1 credit.
+        This depends on the scale at which you want to do influencer marketing. Think about how many influencers you want to work with and how many you will need to contact. Our experience is that 200 credits is enough for 1 campaign per month.
       question: How many credits do I need?
+    - question: What do I get when I export my campaign?
+      answer: "You will receive the following information, if available: Handle, Email, Profile URL, Language, Followers, Engagement, Topics, Website."
     - answer: >-
-        Our platform is built around a usage model. For each influencer you
-        export, you will be charged 1 credit. If the influencer does not have an
-        email linked to it, you will not be charged. When exporting a list, you
-        will receive the following information: Handle, Email, Profile URL,
-        Language, Followers, Engagement, Topics, Website
-      question: What counts as a contact export?
-    - answer: >-
-        We sure do! Contact us directly at support@inbeat.co and we will unlock
-        our charity plan for you.
-      question: 'We are a charity, do you have any special discounts?'
+        For each influencer you export in a campaign, you will be charged 1 credit. If the influencer does not have an email linked to it, you will not be charged. If you export the same influencer in multiple campaigns, you will only be charged once. If you're on the Free Plan, you still can't export contacts without email.
+      question: What counts as a monthly credit?
+    - question: When do I receive my monthly credits?
+      answer: "You receive your credits every month on the date you signed up for your paid plan. If you upgrade your plan, you immediately receive the number of credits of the new plan."
     - answer: >-
         Our system will warn you if you exceed your plan limit. You will be able
         to uprade your plan at this stage.
       question: Can I exceed my plan's credit?
+    - question: When do you reset the weekly searches count?
+      answer: "Irrespective of your signup date, the weekly searches count is reset every Sunday, at 11:59PM EST."
+    - answer: >-
+        We sure do! Contact us directly at david@inbeat.co and we will unlock
+        our charity plan for you.
+      question: 'We are a charity, do you have any special discounts?'
   title: Common Questions
 ---
 
