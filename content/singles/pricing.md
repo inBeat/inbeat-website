@@ -13,7 +13,7 @@ pricing:
         - text: <b>1</b> User Account
         - disabled: true
           text: Contact Exports
-        - text: <b>100</b> Pages <span>/mo</span>
+        - text: <b>75</b> Pages <span>/week</span>
         - text: <b>3</b> Campaigns
         - text: Email Support
         - disabled: true
