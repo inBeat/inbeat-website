@@ -7,18 +7,17 @@ draft: false
 noindex: true
 pricing:
   title: Pay half for beta
-  description: >-
-    Secure 50% OFF on your plan for life.<br>No contract, setup or hidden fees.
+  description: 'Secure 50% OFF on your plan for life.<br>No contract, setup or hidden fees.'
   plans:
     - features:
         - text: <b>1</b> User Account
-        - text: Contact Exports
-          disabled: true
-        - text: <b>50</b> Pages <span>/mo</span>
-        - text: <b>3</b> Campaigns <span>/mo</span>
+        - disabled: true
+          text: Contact Exports
+        - text: <b>100</b> Pages <span>/mo</span>
+        - text: <b>3</b> Campaigns
         - text: Email Support
         - disabled: true
-          text: Multiple clients
+          text: Multiple Clients
         - disabled: true
           text: Campaign Tracking
         - disabled: true
@@ -34,7 +33,7 @@ pricing:
         - text: <b>Unlimited</b> Campaigns
         - text: Live Support
         - disabled: true
-          text: Multiple clients
+          text: Multiple Clients
         - disabled: true
           text: Campaign Tracking
         - disabled: true
@@ -50,7 +49,7 @@ pricing:
         - text: <b>Unlimited</b> Campaigns
         - text: Live Support
         - disabled: true
-          text: Multiple clients
+          text: Multiple Clients
         - disabled: true
           text: Campaign Tracking
         - disabled: true
@@ -60,7 +59,6 @@ pricing:
       title: Growth
       yearly: 34
 agency:
-  title: Agency Plan
   basic:
     - text: <b>Multiple</b> User Accounts
     - text: <b>Variable</b> Contact Exports
@@ -68,14 +66,15 @@ agency:
     - text: <b>Unlimited</b> Campaigns
     - text: <b>Live</b> Support
   premium:
-    - title: <b>Multiple</b> Clients
-      text: Connect & manage multiple client accounts.
-    - title: <b>Campaign</b> Tracking
-      text: Actively track influencer generated content.
-    - title: <b>Campaign</b> Reporting
-      text: Export a detailed report of all campaign content & results.
-    - title: <b>Priority</b> Support
-      text: Get an account representative.
+    - text: Connect & manage multiple client accounts.
+      title: <b>Multiple</b> Clients
+    - text: Actively track influencer generated content.
+      title: <b>Campaign</b> Tracking
+    - text: Export a detailed report of all campaign content & results.
+      title: <b>Campaign</b> Reporting
+    - text: Get an account representative.
+      title: <b>Priority</b> Support
+  title: Agency Plan
 faq:
   questions:
     - answer: >-
@@ -97,7 +96,9 @@ faq:
     - answer: >-
         Our platform is built around a usage model. For each influencer you
         export, you will be charged 1 credit. If the influencer does not have an
-        email linked to it, you will not be charged. When exporting a list, you will receive the following information: Handle, Email, Profile URL, Language, Followers, Engagement, Topics, Website
+        email linked to it, you will not be charged. When exporting a list, you
+        will receive the following information: Handle, Email, Profile URL,
+        Language, Followers, Engagement, Topics, Website
       question: What counts as a contact export?
     - answer: >-
         We sure do! Contact us directly at support@inbeat.co and we will unlock
