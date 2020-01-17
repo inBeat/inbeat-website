@@ -76,7 +76,6 @@ collections:
             fields:
               - {label: "Petit Titre", name: "subtitle", widget: "string"}
               - {label: "Titre", name: "title", widget: "string"}
-              - {label: "Description", name: "description", widget: "text"}
           - name: section2
             label: Section 2
             widget: object

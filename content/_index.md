@@ -4,9 +4,8 @@ description: >-
   Find qualified influencers that meet your standards on Instagram and Youtube.
   Use our influencer database to step up your influencer marketing.
 section1:
-  subtitle: Searching influencers made easy
+  subtitle: Influencer campaigns made easy
   title: Find quality<br /> influencers in <br /><span>seconds</span>
-  description: Request your beta access and get 20% off for life.
 section2:
   points:
     - description: >-
@@ -64,6 +63,6 @@ section8:
       logo: /img/vision-mg-square.png
 section9:
   title: Ready to get started?
-  description: Request your beta access
+  description: Secure 50% OFF on your plan for life during our beta launch
 ---
 
