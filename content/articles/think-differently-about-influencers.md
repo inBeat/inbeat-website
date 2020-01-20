@@ -1,5 +1,5 @@
 ---
-title: Thinking differently about Influencer Marketing
+title: Thinking Differently About Influencer Marketing
 description: >-
   Behind every influencer lies a creator: When we think of influencer marketing,
   we tend to think of a marketing channel; a means of distribution. How many
