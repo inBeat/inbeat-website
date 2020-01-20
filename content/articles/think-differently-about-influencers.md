@@ -77,3 +77,31 @@ Treating our process as such is a sure way to fail. We are dealing with people, 
 #### High-level Guidelines
 
 Within our agency, we give guidelines on the format and the elements of the product we want to be displayed (unique selling proposition, packaging, etc.). It is easy to be too restrictive and drag your fresh-minded creator into your tunnel-visioned worldview. **We want outside the box content, not more of the same.**
+
+#### Creative freedom
+
+The niche creator usually bears a specific style and/or craft he’s perfected over time. You want to leverage that. Let them surprise you. The Big Picture Share the bigger picture with your creators. Make them feel as if they are part of the team. Their input should matter to you. Let them know. 
+
+Is there a theme to your campaign? Is there a feel you want to create? Don’t hesitate to put together a Pinterest board with your fresh ideas. Ping your internal team and make this a collaborative effort. As mentioned earlier, be careful of restraining your creator’s imagination. Give them high-level guidance, without undermining their art. 
+
+#### Creative Insights
+
+As a bi-product of your content creation system, you now have a set of diversified people with unique worldviews engaging with your brand. **You should gather feedback.**
+
+Prompt creators to give you their ideas about your product or your marketing. The insight is outside-the-box by default; these creators are not rooted in the everyday grind of your business. 
+
+Think of this as a way to crowd-source your brainstorming to an army of creative consultants. Send a form and even call the ones who surprised you. Think of it as an idea generator. Share these insights with your team to build on top of them.
+
+Original ideas from new people will spark your team’s creativity. Who knows, you might find the next thing to implement to marketing or the next product release. A considerable share of the value is hidden in the feedback these creators provide. Make it worth your time!
+
+## What’s Next? 
+
+By default, influencers tend to be artistic and creative, which is the assumption on which I wrote this article. You can still use influencers as a distribution channel. You can also leverage their reach, while having a creative focus. Remember that a considerable chunk of the value is in content creation. 
+
+Harness the relationships you build. You will rapidly have a small group of selected creators to enable your future content creation. **This is powerful.** 
+
+The novelty in your content will empower your paid media, mitigating ad blindness and fatigue. All of your marketing channels will have a fresh relatable feel to it.
+
+Here is a question worth pondering on: What are marketing know-hows we could rethink? We get caught up in marketing best practices, but much of the outsized potential is hidden in plain sight. Best practices are meant to be broken, but breaking them requires thinking differently. 
+
+If you have any disruptive marketing ideas or you want to geek out about or you want to work with our network of creators, drop me a line at david@inbeat.co.
