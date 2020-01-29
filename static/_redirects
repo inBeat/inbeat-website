@@ -1,6 +1,7 @@
-# Redirect with a 200
+https://mg.inbeat.co/* https://www.inbeat.co/:splat 301!
 
-/this /that 301
+# Redirect default Netlify subdomain to primary domain
+https://mystifying-allen-be5d31.netlify.com/* https://www.inbeat.co/:splat 301!
 
 
 
