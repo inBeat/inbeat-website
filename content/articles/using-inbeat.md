@@ -45,8 +45,6 @@ The first thing to do is to create a campaign:
 
 Within a campaign, you will be able to add, manage and export your influencers.
 
-
-
 ### 3. Select all relevant search filters
 
 Within the campaign creation process, you will be asked to specify your search:
@@ -59,7 +57,7 @@ You can narrow your search to find the ideal influencers for your campaign. **Yo
 
 The campaign structure makes influencer marketing easier. You can access your selected influencers at any time by clicking on “Manage Selected”.
 
-Click on the bookmark button available on each influencer card to add a profile to your campaign.
+Click on the bookmark button available on each influencer card to add a profile to your campaign:
 
 ![](/img/Screenshot_020320_015923_PM.jpg)
 
