@@ -33,9 +33,9 @@ I will be going through:
 
 ### 1. Create an Account
 
-If you already have an account, you can skip this step.
+*If you already have an account, you can skip this step.*
 
-Go to inbeat.co and clickTry inBeat for Free.Once you have signed up, confirm your email and login to the platform.
+Go to [inbeat.co](https://inbeat.co) and click "Try inBeat for Free". Once you have signed up, confirm your email and login to the platform.
 
 ### 2. Create a campaign
 
@@ -45,30 +45,36 @@ The first thing to do is to create a campaign:
 
 ### 3. Select all relevant search filters
 
+Within the campaign creation process, you will be asked to specify your search:
+
 ![](https://lh4.googleusercontent.com/njH5v-Bkla5ZC5PSQvLwcEB0i2VCTVGUN5btIx77jghRiq0sEhihUDnj7yJb9Cb4gK8tRmYZn-rDXj4D7enpP26WHpO9Dggoc6NRtgbrcSB2-qDkZ0V7PRjaNcrumgnnXmnf6MTh)
 
-In this section, you can narrow your search to find the ideal influencers for your campaign.You can modify your search filters later to narrow or broaden your search.
+You can narrow your search to find the ideal influencers for your campaign. **You can modify your search filters later to narrow or broaden your search.**
 
 ### 4. Add influencers to your campaign
 
-inBeat allows you to add influencers to a campaign by clicking on the bookmark button located on each card.
+The campaign structure makes influencer marketing easier. You can access your selected influencers at any time by clicking on “Manage Selected”.
+
+Click on the bookmark button available on each influencer card to add a profile to your campaign.
+
+
+
+![](/img/adding-influencer-to-campaign.gif)
+
+Click on the bookmark button available on each influencer card to add a profile to your campaign.
 
 The campaign structure makes influencer marketing easier. You can access your selected influencers at any time by clicking on “Manage Selected”.
 
-![Click on the bookmark button available on each influencer card to add an influencer to your campaign.](/img/Screenshot_020320_015923_PM.jpg)
+### 4. Exporting your influencers
 
-inBeat allows you to add influencers to a campaign by clicking on the bookmark button located on each card.
-
-The campaign structure makes influencer marketing easier. You can access your selected influencers at any time by clicking on “Manage Selected”.
-
-4. ### Exporting your influencers
+Once you are done adding influencers to a campaign, you can click on the “export list” button. This allows you to export all influencers with their relevant contact information.
 
 ![](https://lh3.googleusercontent.com/wn8NyMhLR7IDitwGc_cDyaXCZuxav3-ZiJgHaynqWZHWy6c2i6gXZ1peFTWvE1_GakNFj350vO1Ukqf2oRryxzZwR2Ey20rArBPo0QhXEPt1R4oNSEA61sVYSuHiSs2yWHDfW3sT)
 
-Once you are done adding influencers to a campaign, you can click on the “export list” button.This allows you to export all influencers with their relevant contact information.
+### 5. Pitching your influencers
 
-5. ### Pitching your influencers
+Congratulations, you know have a list of influencers to work with.
 
-Once you have exported your influencers, you will receive a CSV file, which you can add to your favorite CRM tool. We propose using[Mailshake](https://mailshake.com/)or[Gmass](https://www.gmass.co/), but you can use any tool you wish. These tools make pitching influencers much easier to manage.
+When you export your campaign, you will receive a CSV file, which you can add to your favorite CRM tool. We propose using [Mailshake](https://mailshake.com/) or [Gmass](https://www.gmass.co/), but you can use any tool you wish. These tools make pitching influencers much easier to manage.
 
 <!--EndFragment-->
