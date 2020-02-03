@@ -43,6 +43,10 @@ The first thing to do is to create a campaign:
 
 ![](https://lh5.googleusercontent.com/Fw0LfZo1-ldMDwOeLOOmqEoab7NN4XGw-t23-75hXzzhqIeYruEL5Dbp-8Xs74jHTBgPsDhwWFVWCtm4HIMEBvyb_QByQ4iQZpPBGDgA7t1YA4Ul7ShOsEInXWhU-jl1CmNj_PNI)
 
+Within a campaign, you will be able to add, manage and export your influencers.
+
+
+
 ### 3. Select all relevant search filters
 
 Within the campaign creation process, you will be asked to specify your search:
