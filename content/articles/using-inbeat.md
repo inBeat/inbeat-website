@@ -19,11 +19,13 @@ noindex: false
 ---
 <!--StartFragment-->
 
+# How to Use inBeat to Find Influencers
+
 In this guide, you will learn how to create and run an influencer marketing campaign from A to Z using inBeat.
 
 
 
-**I will be going through:**
+I will be going through:
 
 1. Creating an account
 2. Creating a campaign
@@ -35,23 +37,23 @@ In this guide, you will learn how to create and run an influencer marketing camp
 
 ## Steps to Using inBeat
 
-### 1. Create an account
+1. ### Create an Account
 
 If you already have an account, you can skip this step.
 
-Go to [inbeat.co](https://inbeat.co) and click "Try inBeat for Free".Once you have signed up, confirm your email and login to  the platform.
+Go to inbeat.co and clickTry inBeat for Free.Once you have signed up, confirm your email and login to the platform
 
-
-
-### 2. Create a campaign
+2. ### Create a campaign
 
 The first thing to do is to create a campaign:
 
-### 3. Adjust relevant search filters
+![](https://lh5.googleusercontent.com/Fw0LfZo1-ldMDwOeLOOmqEoab7NN4XGw-t23-75hXzzhqIeYruEL5Dbp-8Xs74jHTBgPsDhwWFVWCtm4HIMEBvyb_QByQ4iQZpPBGDgA7t1YA4Ul7ShOsEInXWhU-jl1CmNj_PNI)
 
-On this screen you can select all relevant filters to your campaign:
+2. ### Select all relevant search filters
 
-In this section, you can narrow your search to find the ideal influencers for your campaign. **You can modify your search filters later to narrow or broaden your search.**
+![](https://lh4.googleusercontent.com/njH5v-Bkla5ZC5PSQvLwcEB0i2VCTVGUN5btIx77jghRiq0sEhihUDnj7yJb9Cb4gK8tRmYZn-rDXj4D7enpP26WHpO9Dggoc6NRtgbrcSB2-qDkZ0V7PRjaNcrumgnnXmnf6MTh)
+
+In this section, you can narrow your search to find the ideal influencers for your campaign.You can modify your search filters later to narrow or broaden your search.
 
 
 
