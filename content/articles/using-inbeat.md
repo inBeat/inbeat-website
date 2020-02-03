@@ -57,9 +57,7 @@ The campaign structure makes influencer marketing easier. You can access your se
 
 Click on the bookmark button available on each influencer card to add a profile to your campaign.
 
-
-
-![](/img/adding-influencer-to-campaign.gif)
+![](/img/Screenshot_020320_015923_PM.jpg)
 
 Click on the bookmark button available on each influencer card to add a profile to your campaign.
 
