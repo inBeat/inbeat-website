@@ -59,10 +59,6 @@ Click on the bookmark button available on each influencer card to add a profile 
 
 ![](/img/Screenshot_020320_015923_PM.jpg)
 
-Click on the bookmark button available on each influencer card to add a profile to your campaign.
-
-The campaign structure makes influencer marketing easier. You can access your selected influencers at any time by clicking on “Manage Selected”.
-
 ### 4. Exporting your influencers
 
 Once you are done adding influencers to a campaign, you can click on the “export list” button. This allows you to export all influencers with their relevant contact information.
