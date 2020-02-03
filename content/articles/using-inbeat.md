@@ -49,7 +49,13 @@ The first thing to do is to create a campaign:
 
 In this section, you can narrow your search to find the ideal influencers for your campaign.You can modify your search filters later to narrow or broaden your search.
 
-### Add influencers to your campaign![](https://lh6.googleusercontent.com/L6MtUDNbQ7xusvbN5SB1uEJjmQd1r-BsBWHuhy2FEK1Bt6LnpYjSEvfELsPfNugmtnAwyNdNTrx2Wu7NbnojDTZ6UYcV73NdMZp7P3L3pUiZMysyrZsrTFfKBHB2duRNM9h7xFXD)
+### 4. Add influencers to your campaign
+
+inBeat allows you to add influencers to a campaign by clicking on the bookmark button located on each card.
+
+The campaign structure makes influencer marketing easier. You can access your selected influencers at any time by clicking on “Manage Selected”.
+
+![Click on the bookmark button available on each influencer card to add an influencer to your campaign.](/img/Screenshot_020320_015923_PM.jpg)
 
 inBeat allows you to add influencers to a campaign by clicking on the bookmark button located on each card.
 
