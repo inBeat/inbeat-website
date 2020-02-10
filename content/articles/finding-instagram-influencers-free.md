@@ -89,7 +89,7 @@ Let’s give this a try: site:www.instagram.com  “mom”
 
 As you find relevant influencers, you can look at who they are following as we did in the previous step.
 
-## Managing and Pitching Influencers
+## 5. Managing and Pitching Influencers
 
 As you find influencers, make sure you add their information to a list (profile URL, name, email, etc.). Instagramers usually provide an email in their biography. If they don’t, you can access their email through the Instagram app if the influencer is a business profile. 
 
