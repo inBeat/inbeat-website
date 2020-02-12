@@ -41,7 +41,7 @@ Go to [inbeat.co](https://inbeat.co) and click "Try inBeat for Free". Once you h
 
 The first thing to do is to create a campaign:
 
-![](https://lh5.googleusercontent.com/Fw0LfZo1-ldMDwOeLOOmqEoab7NN4XGw-t23-75hXzzhqIeYruEL5Dbp-8Xs74jHTBgPsDhwWFVWCtm4HIMEBvyb_QByQ4iQZpPBGDgA7t1YA4Ul7ShOsEInXWhU-jl1CmNj_PNI)
+![](/img/1.jpg)
 
 Within a campaign, you will be able to add, manage and export your influencers.
 
@@ -49,7 +49,7 @@ Within a campaign, you will be able to add, manage and export your influencers.
 
 Within the campaign creation process, you will be asked to specify your search:
 
-![](https://lh4.googleusercontent.com/njH5v-Bkla5ZC5PSQvLwcEB0i2VCTVGUN5btIx77jghRiq0sEhihUDnj7yJb9Cb4gK8tRmYZn-rDXj4D7enpP26WHpO9Dggoc6NRtgbrcSB2-qDkZ0V7PRjaNcrumgnnXmnf6MTh)
+![](/img/2.jpg)
 
 You can narrow your search to find the ideal influencers for your campaign. **You can modify your search filters later to narrow or broaden your search.**
 
@@ -59,13 +59,13 @@ The campaign structure makes influencer marketing easier. You can access your se
 
 Click on the bookmark button available on each influencer card to add a profile to your campaign:
 
-![](/img/Screenshot_020320_015923_PM.jpg)
+![](/img/3.jpg)
 
 ### 4. Exporting your influencers
 
 Once you are done adding influencers to a campaign, you can click on the “export list” button. This allows you to export all influencers with their relevant contact information.
 
-![](https://lh3.googleusercontent.com/wn8NyMhLR7IDitwGc_cDyaXCZuxav3-ZiJgHaynqWZHWy6c2i6gXZ1peFTWvE1_GakNFj350vO1Ukqf2oRryxzZwR2Ey20rArBPo0QhXEPt1R4oNSEA61sVYSuHiSs2yWHDfW3sT)
+![](/img/4.jpg)
 
 ### 5. Pitching your influencers
 
