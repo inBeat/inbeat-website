@@ -43,7 +43,7 @@ If you are an online brand and want to learn how to leverage influencers to crea
 2. Pitch and onboard
 3. Track
 
-![](/img/A1.png)
+![](/img/Correction.png)
 
 ### Step 1: Create a brief
 
@@ -204,7 +204,7 @@ Influencers are creators. They have an innate creativity, which you can leverage
 
 To make the process seamless, create a Typeform (or any other form tool, it doesn’t matter much) with questions about their experience, thoughts, and insights about your brand. Send it to them once you have completed your first collaboration.
 
-## Conclusion 
+## Conclusion
 
 Work with as many influencers as you can.
 
