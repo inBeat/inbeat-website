@@ -64,17 +64,15 @@ The brief is a document you will give to any influencer you work with. It covers
 
 ##### **Writing up your brief**
 
-The ideal brief covers aesthetics, format, and messaging. You want to give your influence sales know-how while allowing them to express their creativity. 
+The ideal brief covers aesthetics, format, and messaging. You want to provide your influencer with sales know-how while allowing them to express their creativity. 
 
-1. **Aesthetics :** Communicate your visual guidelines with the influencers. Include content from past collaborations that match your brand’s ethos. If you don’t have such content, create a mood board with content you appreciate from other brands on Instagram. Dig into their collaborations and find content you endorse. You can use Pinterest to organize this.  *Find brands you endorse on Instagram and search their feed for collaborations.*
-2. **Format :** Look at your Facebook ads, as well as your competitors’. You want to know which ad format drives results. Carousel, Stories, GIF, etc. *Add your format restrictions to the brief.*
+1. **Aesthetics :** Communicate your visual guidelines with the influencers. Include content from past collaborations that match your brand’s ethos. If you don’t have such content, create a mood board with content you appreciate from other brands on Instagram. Dig into their collaborations and find content you endorse. You can use Pinterest to organize this.  *Find brands you like on Instagram and search their feed for collaborations.*
+2. **Format :** Look at your Facebook ads, as well as your competitors’. You want to know which ad format drives results. Carousel, Stories, GIF, etc. *Add your format restrictions to the brief.* 
 3. **Messaging :** What is the goal of the content you are creating? Is there a specific Unique-Selling Proposition of your product you want to put forward? Give your influencers an overview of your product and the selling points you want to convey. Remember, you will use these visuals in your paid media - think of them in that context.
 
 ### Step 2: Discover relevant influencers
 
-After you have defined your brief, you want to discover influencers. Use your client persona to take an educated guess at what influencers would be relevant to your brand. 
-
-You want to build a list of influencers with their contact information. 
+After you have created your brief, you want to discover influencers. Use your client persona to take an educated guess at what influencers are relevant to your brand. 
 
 > I prefer contacting influencers by email than by DM, as the response rate is better. Email also makes it easier to use a CRM tool. Thus, I skip any influencer for which I can’t find an email.
 
@@ -94,27 +92,29 @@ If you want to know more about manual discovery, read [this article](https://www
 
 ### Step 3: Pitch and onboard
 
- Once you have your list of influencers to pitch, select a CRM tool that allows for mass email. I love Mailshake, but there are countless others. Make a pick and roll with it.
+ Once you have your list of influencers to pitch, select a CRM tool that allows for mass email or setup your DM workflow. I love Mailshake, but there are countless others. Make a pick and roll with it.
 
-Craft your pitch, contact, negotiate, and onboard your new influencers. It is at this stage that you want to share your brief from step 1 with them.
+Craft your pitch, contact, negotiate, and onboard your new influencers. It is at the onboarding stage that you share your brief from step 1 with them.
 
-I have written a 4000+ word guide on pitching and onboarding influencers, which you can read here.
+I have written a 4000+ word guide on pitching and onboarding influencers, which you can [read here](#).
 
 ### Step 4: Track your Campaigns
 
 You can track your campaigns manually or use a tool such as inBeat to track your campaigns (this feature is in beta, you can contact me at david@inbeat.co to gain access). 
 
-If you track influencers by hand, make it part of your deal with your collaborators to receive a link to the post when it goes live. It will make your job that much easier.
+If you track influencers by hand, make it part of your deal with your collaborators to send you a link to the post when it goes live. It will make your job that much easier.
 
 You can hire a virtual assistant to update your campaign metrics two days after a post went live in Google Sheets:
 
 ![](/img/x2.jpg)
 
-You can also track the cost per engagement and sales for each influencer. To track sales, set up a unique promo code for each collaborator to share with their audience.
+You can also track the cost per engagement and sales for each influencer. To track sales, set up a unique promo code for each collaborator that they can share with their audience.
 
-### What’s Next?
 
-If you have reached this point, you went through the tedious work. You can now think of how to use your content across your marketing mix. 
+
+### What’s Next
+
+If you have reached this point, you went did your share of heavy lifting. You can now think of how to use your content across your marketing mix. 
 
 In the following section, **I will show you what we have learned from implementing IGC within a paid media strategy.** 
 
@@ -128,23 +128,25 @@ You are receiving multiple content pieces from your creators. You now want to re
 
 ![](/img/PhoneLoops_Casestudy_4.png)
 
-> By applying these tips, you can reduce your cost per conversion 5x.
+
+
+By applying the following tips to your content creation, you can reduce your cost per conversion 5x.
 
 ##### Tip 1: Optimize your Content for Conversion
 
-Different platforms and placements hold specific optimization tricks. Always make the content you create as best as it can be for a given format.
+Different platforms and placements hold specific optimization tricks.
 
 If you display your content in a carousel ad, design it to be carousel-friendly.
 
 If you want to format a video as a Story ad, redesign it with a clear CTA to swipe-up. 
 
-Always tweak your visual to make it feel native to the channel you’re using. 
+Always tweak your visual to make it feel native to the channel you’re using. Use Facebook ads Library to see how competitors are displaying their ads across different channels. Read this [in-depth guide on how to spy on your competitors](https://medium.com/swlh/the-ultimate-guide-to-spying-on-your-competitors-2ba0e2b607dd) if you want to know more.
 
 ##### Tip 2: Display Your Social Proofing
 
 When doing paid advertising with Influencer-Generated Content, try to include an influencer’s or a customer’s statement in the description. **Social proofing is vital to conversion, especially when expressed by relatable people.**
 
-##### Tip 3: The Optimal Ad Structure
+##### Tip 3: Follow the Optimal Ad Structure
 
 From my experience, here is the optimal ad format:
 
@@ -153,9 +155,9 @@ From my experience, here is the optimal ad format:
 
 ![](/img/x3.jpg)
 
-> Test these ads with as many variations as you wish. Different audiences respond to different creatives and taglines.
+Test these ads with as many variations as you wish. Different audiences respond to different creatives and taglines.
 
-##### Tip 4: Ask Your Creators for Their Analytics
+##### Tip 4: Ask Your Creators for Their Audience Insights
 
 You should always ask for an influencer’s Instagram Analytics, as it will make your targeting more granular. **Here is what I mean:**
 
@@ -175,9 +177,11 @@ You now have a working influencer content and distribution strategy. It is time 
 
 ##### Hire Your Influencers
 
-Hiring your influencers to be brand ambassadors is a great way to generate IGC regularly. These ambassadors will also build more trust for your brand, considering the ongoing access you get to their audiences.
+Hiring your influencers to be long-term ambassadors is a great way to generate IGC regularly. These ambassadors will also build more trust for your brand, considering the ongoing access you get to their audiences.
 
-**Make it fun for your creators to be part of your ambassador program.** Pay a fixed sum each month, share exclusive offers, make them part of your product decisions, and give the brand swag they need to rock across their social media. Proper equipment will incentivize your network to share their belonging to your brand. 
+**Make it fun for your creators to be part of your ambassador program.** 
+
+Pay a fixed sum each month, share exclusive offers, make them part of your product decisions, and give the brand swag they need to rock across their social media. Proper equipment will incentivize your network to share their belonging to your brand. 
 
 ##### Share Their Audience
 
@@ -187,15 +191,15 @@ Ask them to create an audience of people who have interacted with their page in 
 
 ![](/img/x5.jpg)
 
-Afterwards, you can create custom and lookalike audiences by using your influencer’s engagement audience. 
-
 **Benefits:** 
 
 * Multiple brand touchpoints with your influencer’s audience
 * Strong social proofing by being in the hands of a recognizable face
 * Give Facebook’s distribution algorithm a head-start and multiply the number of winning campaigns you run
 
-This strategy requires extra work, but the payback can be disproportionate.
+*This strategy requires extra work, but the payback can be disproportionate.*
+
+
 
 ##### Crowdsource Their Insights
 
@@ -213,7 +217,7 @@ Onboard the ones that are good and responsive as long-term ambassadors.
 
 Create hundreds of paid media variations, if you can, and distribute them across your marketing channels. 
 
-I have talked more about Facebook ads in this article, but all of your channels can enjoy an Influencer-Generated Content lift. 
+I have talked mostly about Facebook ads in this article, but all of your channels can enjoy an Influencer-Generated Content lift. 
 
 Make the content accessible to your designers, marketers, and management so they can build on top of it.
 
