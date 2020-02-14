@@ -39,27 +39,28 @@ If you are an online brand and want to learn how to leverage influencers to crea
 
 > I have broken down the process in four steps to make it easy to understand:
 
-1. Create a brief Discover relevant influencers
-2. Pitch and onboard
-3. Track
+1. Create a brief 
+2. Discover relevant influencers
+3. Pitch and onboard
+4. Track and optimize
 
 ![](/img/Correction.png)
 
 ### Step 1: Create a brief
 
-You will give a document explaining your guidelines to the influencers you contact. Your creator needs to understand what you are seeking.
+The brief is a document you will give to any influencer you work with. It covers guidelines, selling points, and moodboards. Your creator needs to understand what you are seeking.
 
-> **Side note :** *Define Your Ideal Client*
+> **Side note :** *Defining your ideal client as the starting point*
 >
-> Before diving into finding influencers, define who your end customer is. If you don’t have a persona built for your brand’s ideal client, make that now.
-
-You must know who your client is. How old are they? Who do they follow on Instagram? Where do they live?
-
-This part of the task is natural for e-commerce brands; you have the data and insider know-how to understand who your customer is. Agencies servicing e-commerce brands should attribute more thought to this part of the process by picking their client’s brains and analytics. 
-
-Needless to say, anyone can discover surprising insights by looking at your Instagram Analytics, Google Analytics Audience Metrics, and Facebook Audience Insights.
-
-**Knowing your end client makes the rest much smoother.**
+> Before diving into any work, define your end customer. If you don’t have a persona built for your brand’s ideal client, make that now.
+>
+> You must know who your client is. How old are they? Who do they follow on Instagram? Where do they live?
+>
+> This part of the task is natural for e-commerce brands; you have the data and insider know-how to understand who your customer is. Agencies servicing e-commerce brands should attribute more thought to this part of the process by picking their client’s brains and analytics. 
+>
+> Needless to say, anyone can discover surprising insights by looking at their Instagram Analytics, Google Analytics Audience Metrics, and Facebook Audience Insights.
+>
+> **Knowing your end client makes the rest much smoother.**
 
 ##### **Writing up your brief**
 
