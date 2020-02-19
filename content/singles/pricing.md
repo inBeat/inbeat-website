@@ -6,8 +6,8 @@ layout: pricing
 draft: false
 noindex: true
 pricing:
-  title: Pay half for beta
-  description: 'Secure 50% OFF on your plan for life.<br>No contract, setup or hidden fees.'
+  title: Pay As You Go
+  description: 'No contract, setup or hidden fees.'
   plans:
     - features:
         - text: <b>1</b> User Account
@@ -39,10 +39,10 @@ pricing:
           text: Campaign Tracking
         - disabled: true
           text: Campaign Reporting
-      monthly: 20
+      monthly: 40
       popular: true
       title: Startup
-      yearly: 17
+      yearly: 33
     - features:
         - text: <b>1</b> User Account
         - text: <b>500</b> Contact Exports <span>/mo</span>
@@ -55,10 +55,10 @@ pricing:
           text: Campaign Tracking
         - disabled: true
           text: Campaign Reporting
-      monthly: 40
+      monthly: 80
       popular: false
       title: Growth
-      yearly: 34
+      yearly: 67
 agency:
   basic:
     - text: <b>Multiple</b> User Accounts

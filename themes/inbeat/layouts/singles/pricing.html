@@ -22,11 +22,11 @@
           <h3 class="pricing__title">{{ .title -}}</h3>
           <div class="pricing__details">
             <div class="pricing__values">
-              {{- if not (eq .monthly 0) -}}
+              <!-- {{- if not (eq .monthly 0) -}}
               <span class="non-beta">{{ mul .monthly 2 }} USD</span>
               {{- else -}}
               <div class="empty-beta"></div>
-              {{- end -}}
+              {{- end -}} -->
               <div class="pricing__value pricing__value--show">
                 <span class="price">{{ .monthly }} USD</span>
                 <span class="interval">billed monthly</span>
