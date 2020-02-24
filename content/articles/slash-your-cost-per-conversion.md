@@ -10,7 +10,7 @@ titre: >-
   How To Slash your Cost per Conversion by 80% Using Influencer-Generated
   Content
 slug: slash-your-cost-per-conversion
-image: /img/b.png
+image: /img/Banner2.png
 headerimage: /img/a.png
 date: '2020-02-12'
 categories:
