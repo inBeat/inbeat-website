@@ -23,11 +23,9 @@ In this guide, I will go through the process of **discovering**, **pitching**, a
 
 We have worked with 10 000+ micro-influencers across Instagram and Youtube throughout the life of our agency, and this is how we do things. 
 
-> **Our process is simple:** 
->
-> 1. Discover influencers
-> 2. Pitch and negotiate
-> 3. Onboard and manage
+**Our process is simple:** 
+
+![](/img/steps.png)
 
 From my experience, working with micro-influencers is **scalable** and a **powerful** marketing channel. With the right systems in place, you can make it easy for your team to manage 100s of influencers at any given time.
 
@@ -75,7 +73,7 @@ inBeat allows you to filter influencers by keyword and engagement. Here is what 
 
 Within the agency, we like working with influencers through email. It makes managing the relationship more straightforward, which is why we filter for accounts with an email address.
 
-![](/img/D.png)
+![](/img/5.jpg)
 
 Once you have selected your filters, find influencers relevant, and add them to your campaign. When you finish, export your list. 
 
@@ -127,7 +125,7 @@ Negotiate as much as you can and set your base price where you feel the resistan
 
 If you are using Mailshake, use the Lead Catcher feature to make negotiating easy.
 
-![](/img/I.png)
+![](/img/H.png)
 
 #### Onboarding Influencers
 
@@ -216,21 +214,17 @@ Asking your influencers for feedback is a great way to generate new ideas for yo
 > * How was our support? 
 > * Any ideas on how we can make our marketing better?
 
-
-
 ##### 10. Optimize and Repeat
 
 You want to make your process better. This means finding better ways to do things. Think of your email templates, influencer targeting, incentive structure, etc. 
 
 By keeping at it, you will build a robust process that will help you scale influencer marketing, without much effort.
 
-### What’s Next? 
+### What’s Next?
 
 Keep on rocking influencer marketing, try different channels, and optimize your process all the time. It’s a powerful marketing channel, and it synergizes well with all of your other channels. 
 
-
 ##### Is There a Single Tool to Do it All?
-
 
 There are enterprise tools out there that allow you to manage a campaign from A to Z within the software. I don’t advocate for such tools. I believe that building apps through integrations is a powerful way to adapt a business process to your unique needs.  
 
