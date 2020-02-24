@@ -61,7 +61,7 @@ Click on the bookmark button available on each influencer card to add a profile 
 
 ![](/img/3.jpg)
 
-### 4. Exporting your influencers
+### 5. Exporting your influencers
 
 Once you are done adding influencers to a campaign, you can click on the “export list” button. This allows you to export all influencers with their relevant contact information.
 
