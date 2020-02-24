@@ -51,11 +51,11 @@ Here is the best way to find influencers on instagram:
 
 ##### 2. Find influencers in the hashtag feed
 
-![](/img/Capture.PNG)
+![](/img/ImageFeedNew.PNG)
 
 ##### 3. Explore the influencers’ following
 
-![](/img/b.png)
+![](/img/ImageNew2.png)
 
 Add all the influencers you find to a Google Sheets or an Excel file. Make sure to include relevant information such as handle, email and follower count.
 
@@ -69,7 +69,7 @@ I cover more methods here if you’re interested.
 
 inBeat allows you to filter influencers by keyword and engagement. Here is what it looks like:
 
-![](/img/GIF.gif)
+[GIF.gif](https://postimg.cc/NLR8bbFG)
 
 Within the agency, we like working with influencers through email. It makes managing the relationship more straightforward, which is why we filter for accounts with an email address.
 
