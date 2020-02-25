@@ -4,7 +4,7 @@ description: >-
   With the right systems in place, you can make it easy for your team to manage
   100s of influencers at any given time. In this guide, I will go through the
   process of discovering, pitching, and managing micro-influencers at scale.
-titre: Easily scale your influencer marketing campaigns
+titre: How to Work With 100s of Influencers on Instagram
 slug: easily-scale-your-influencer-marketing-campaigns
 image: /img/Banner3.png
 headerimage: /img/BannerArtcicle.png
