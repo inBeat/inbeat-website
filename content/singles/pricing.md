@@ -11,28 +11,11 @@ pricing:
   plans:
     - features:
         - text: <b>1</b> User Account
-        - disabled: true
-          text: Contact Exports
-        - text: <b>Restricted</b> Database Access
-        - text: <b>1</b> Campaign
-        - text: Email Support
-        - disabled: true
-          text: Multiple Clients
-        - disabled: true
-          text: Campaign Tracking
-        - disabled: true
-          text: Campaign Reporting
-      monthly: 0
-      popular: false
-      title: Free
-      yearly: 0
-    - features:
-        - text: <b>1</b> User Account
-        - disabled: true
-          text: Contact Exports
+        - disabled: false
+          text: <b>50</b> Contact Exports <span>/mo</span>
         - text: <b>Full</b> Database Access
         - text: <b>Unlimited</b> Campaigns
-        - text: Live Support
+        - text: <b>Live</b> Support
         - disabled: true
           text: Multiple Clients
         - disabled: true
@@ -40,7 +23,7 @@ pricing:
         - disabled: true
           text: Campaign Reporting
       monthly: 25
-      popular: true
+      popular: false
       title: Startup
       yearly: 21
     - features:
@@ -48,7 +31,7 @@ pricing:
         - text: <b>500</b> Contact Exports <span>/mo</span>
         - text: <b>Full</b> Database Access
         - text: <b>Unlimited</b> Campaigns
-        - text: Live Support
+        - text: <b>Live</b> Support
         - disabled: true
           text: Multiple Clients
         - disabled: true
@@ -56,9 +39,26 @@ pricing:
         - disabled: true
           text: Campaign Reporting
       monthly: 80
-      popular: false
+      popular: true
       title: Growth
       yearly: 67
+    - features:
+        - text: <b>1</b> User Account
+        - disabled: true
+          text: <b>2000</b> Contact Exports <span>/mo</span>
+        - text: <b>Full</b> Database Access
+        - text: <b>Unlimited</b> Campaigns
+        - text: <b>Live</b> Support
+        - disabled: true
+          text: Multiple Clients
+        - disabled: true
+          text: Campaign Tracking
+        - disabled: true
+          text: Campaign Reporting
+      monthly: 200
+      popular: false
+      title: Business
+      yearly: 167
 agency:
   basic:
     - text: <b>Multiple</b> User Accounts
