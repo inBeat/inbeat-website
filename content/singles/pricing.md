@@ -14,7 +14,7 @@ pricing:
         - disabled: true
           text: Contact Exports
         - text: <b>Restricted</b> Database Access
-        - text: <b>3</b> Campaigns
+        - text: <b>1</b> Campaign
         - text: Email Support
         - disabled: true
           text: Multiple Clients
@@ -39,10 +39,10 @@ pricing:
           text: Campaign Tracking
         - disabled: true
           text: Campaign Reporting
-      monthly: 40
+      monthly: 25
       popular: true
       title: Startup
-      yearly: 33
+      yearly: 21
     - features:
         - text: <b>1</b> User Account
         - text: <b>500</b> Contact Exports <span>/mo</span>
@@ -89,18 +89,33 @@ faq:
         American Express).
       question: What forms of payment do you accept?
     - answer: >-
-        This depends on the scale at which you want to do influencer marketing. Think about how many influencers you want to work with and how many you will need to contact. Our experience is that 200 credits is enough for 1 campaign per month.
+        This depends on the scale at which you want to do influencer marketing.
+        Think about how many influencers you want to work with and how many you
+        will need to contact. Our experience is that 200 credits is enough for 1
+        campaign per month.
       question: How many credits do I need?
     - question: What is a campaign?
       answer: >-
-        An influencer marketing campaign usually represents a specific outreach effort. For example, you want to outreach 100 potential influencers for a back-to-school campaign. It is an easy way to manage the lifecycle of your influencer marketing.
+        An influencer marketing campaign usually represents a specific outreach
+        effort. For example, you want to outreach 100 potential influencers for
+        a back-to-school campaign. It is an easy way to manage the lifecycle of
+        your influencer marketing.
     - question: What do I get when I export my campaign?
-      answer: "You will receive the following information, if available: Handle, Email, Profile URL, Language, Followers, Engagement, Topics, Website."
+      answer: >-
+        You will receive the following information, if available: Handle, Email,
+        Profile URL, Language, Followers, Engagement, Topics, Website.
     - answer: >-
-        For each influencer you export in a campaign, you will be charged 1 credit. If the influencer does not have an email linked to it, you will not be charged. If you export the same influencer in multiple campaigns, you will only be charged once. If you're on the Free Plan, you still can't export contacts without email.
+        For each influencer you export in a campaign, you will be charged 1
+        credit. If the influencer does not have an email linked to it, you will
+        not be charged. If you export the same influencer in multiple campaigns,
+        you will only be charged once. If you're on the Free Plan, you still
+        can't export contacts without email.
       question: What counts as a monthly credit?
     - question: When do I receive my monthly credits?
-      answer: "You receive your credits every month on the date you signed up for your paid plan. If you upgrade your plan, you immediately receive the number of credits of the new plan."
+      answer: >-
+        You receive your credits every month on the date you signed up for your
+        paid plan. If you upgrade your plan, you immediately receive the number
+        of credits of the new plan.
     - answer: >-
         Our system will warn you if you exceed your plan limit. You will be able
         to upgrade your plan at this stage.
@@ -111,4 +126,3 @@ faq:
       question: 'We are a charity, do you have any special discounts?'
   title: Common Questions
 ---
-
