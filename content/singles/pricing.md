@@ -44,8 +44,7 @@ pricing:
       yearly: 67
     - features:
         - text: <b>1</b> User Account
-        - disabled: true
-          text: <b>2000</b> Contact Exports <span>/mo</span>
+        - text: <b>2000</b> Contact Exports <span>/mo</span>
         - text: <b>Full</b> Database Access
         - text: <b>Unlimited</b> Campaigns
         - text: <b>Live</b> Support
