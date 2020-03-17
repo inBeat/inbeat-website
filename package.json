@@ -5,7 +5,8 @@
   "main": "no",
   "scripts": {
     "test": "none",
-    "prod": "gulp prod"
+    "prod": "gulp prod",
+    "watch": "gulp watch"
   },
   "repository": {
     "type": "git",

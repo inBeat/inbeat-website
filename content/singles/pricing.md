@@ -8,6 +8,7 @@ noindex: true
 pricing:
   title: Pay As You Go
   description: 'No contract, setup or hidden fees.'
+  free: 1 user account, restricted search, 1 campaign and email support
   plans:
     - features:
         - text: <b>1</b> User Account

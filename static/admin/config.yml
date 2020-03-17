@@ -170,6 +170,7 @@ collections:
             fields:
               - {label: "Titre", name: "title", widget: "string"}
               - {label: "Description", name: "description", widget: "text"}
+              - {label: "Free plan text", name: "free", widget: "text"}
               - name: plans
                 label: "Plans"
                 widget: list

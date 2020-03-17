@@ -42,13 +42,18 @@
               <li class="{{- if .disabled -}}disabled{{- end -}}">{{ .text | markdownify }}</li>
               {{- end -}}
             </ul>
-            <a class="pricing__signup" href="https://app.inbeat.co/get-started">Sign up</a>
+            <a class="pricing__signup" href="https://app.inbeat.co/get-started">Sign up for free</a>
           </div>
         </div>
       </div>
       {{ end }}
     </div>
     <div class="clear"></div>
+    <div class="pricing__free--plan">
+      <h3 class="pricing__title">Free</h3>
+      <span>{{- .free -}}</span>
+      <a class="pricing__signup" href="https://app.inbeat.co/get-started">Sign up for free</a>
+    </div>
   </div>
 </section>
 {{- end -}}
