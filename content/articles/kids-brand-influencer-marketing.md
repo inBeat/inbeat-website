@@ -6,7 +6,8 @@ description: >-
   micro-influencers. Here's how they did it.
 titre: How a Kid’s Brand Used inBeat to Work with Micro-Influencers
 slug: kids-brand-influencer-marketing
-headerimage: /img/Banner3.png
+image: /img/bannerbig.png
+headerimage: /img/banner1.png
 date: '2020-03-26'
 categories:
   - General
@@ -63,17 +64,13 @@ They filtered their search:
 * Located in the USA or Canada
 * Has email
 
-
-
-![alt_text](/img/image4.jpg "image_tooltip")
+![alt_text](/img/2p2_4.png "image_tooltip")
 
 They needed each influencer to have an email because they wanted to contact them in bulk through Mailshake, a cold emailing tool.
 
 They used three search terms: (1) *mother,*(2) *mom*, and (3) *newborn*, independently. The reason they ran a search with the keyword newborn is that they wanted roughly 10 influencers with a newborn child to promote their baby collection.
 
-
-
-![alt_text](/img/image6.jpg "image_tooltip")
+![alt_text](/img/2p2_6.png "image_tooltip")
 
 \[Show a GIF navigating and adding influencers]
 
@@ -85,13 +82,11 @@ Once they finished selecting the influencers, they exported their campaign to a 
 
 They then wrote their pitch and follow-up sequences (3 follow-ups), and they kicked-off the campaign. 
 
-![alt_text](/img/image1.jpg "image_tooltip")
+![alt_text](/img/2p2_1.png "image_tooltip")
 
 Following up is the key to a winning campaign.
 
-
-
-![alt_text](/img/image3.jpg "image_tooltip")
+![alt_text](/img/2p2_3.png "image_tooltip")
 
 * 29 responded at the first follow-up
 * 7 responded at the second follow-up
@@ -109,9 +104,7 @@ A simple Google Form to capture all of the information you need (email, address,
 
 Integrate the form to Google Sheets, and you have a database of influencers, as well as an influencer CRM.
 
-
-
-![alt_text](/img/image2.jpg "image_tooltip")
+![alt_text](/img/2p2_2.png "image_tooltip")
 
 You can track anything you want from this spreadsheet:
 
@@ -125,8 +118,6 @@ You can track anything you want from this spreadsheet:
 * Deux par Deux adds 5 new clients per micro-influencer, on average. Given their vertical, the lifetime value of a client is significant
 * Deux par Deux has 150+ pieces of original content in many formats (videos, stories, and images), which they can add to their marketing mix
 
-
-
-![alt_text](/img/image5.jpg "image_tooltip")
+![alt_text](/img/2p2_5.png "image_tooltip")
 
 <!-- Docs to Markdown version 1.0β20 -->
