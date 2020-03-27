@@ -1,5 +1,5 @@
 ---
-title: How a Kid’s Brand Used inBeat to Work with Micro-Influencers
+title: How a Kid’s Fashion Brand Used inBeat to Work with Micro-Influencers
 description: >-
   Deux par Deux is a kid's fashion brand which used inBeat to find relevant
   influencers for their marketing efforts. They were seeking mother
@@ -36,26 +36,28 @@ In this article, I will cover how they did so using inBeat.
 
 Deux par Deux wanted 50-60 collaborations and 100+ unique creative assets. 
 
-This means that we should pitch anywhere from 400 to 500 micro-influencers at a 10% to 15% collaboration rate. If more influencers agree to work with us, we will have the ability to choose which influencers we want to work with.
+We can expect to close 10% to 15% of the influencers we contact. This means that we need to pitch anywhere from 400 to 500 micro-influencers.
+
+In the case where more influencers agree to work with us, we will have the leverage to choose which influencers we want to work with.
 
 ### Who’s the Right Influencer
 
-In Deux par Deux’s case, finding the right influencer is straight forward:
+Deux par Deux decided to work with micro-influencers for multiple reasons:
+
+1. They wanted each collaboration to cost 150$ in-store credits on average, with each amount varying between 100$ and 200$. In exchange, we require 1 or 2 posts and 1 story, depending on the negotiation.
+2. They wanted more content assets to reuse across our marketing.
+3. Micro-influencers generate more sales at a lower cost per sale (based on past campaigns we have done).
+
+In Deux par Deux’s case, finding the right influencer persona is straight forward:
 
 * Mother or/and children
 * In North America
 * With 10 000 to 25 000 followers
 * Engagement rate > 3%
 
-There are multiple reasons we decided to work with micro-influencers: \
-
-1. We wanted each collaboration to cost 150$ in-store credits on average, with each amount varying between 100$ and 200$. In exchange, we require 1 or 2 posts and 1 story, depending on the negotiation.
-2. We wanted more content assets to reuse across our marketing.
-3. Micro-influencers generate more sales at a lower cost per sale (based on past campaigns we have done).
-
 ## 2 - Finding Influencers
 
-Deux par Deux found influencers by using [inBeat](https://inbeat.co), an influencer discovery tool, given the number of influencers they were seeking to work with. Finding 500 influencers by hand is a daunting task they didn’t want to go through.
+Deux par Deux found influencers by using [inBeat](https://inbeat.co), an influencer discovery tool because of the number of potential collaborators they needed to contact. Finding 500 influencers by hand is a daunting task they didn’t want to go through (if you want to see how you can find influencers by hand, I recommend [this article](https://www.inbeat.co/articles/finding-instagram-influencers-free/)).
 
 They filtered their search:
 
@@ -72,41 +74,37 @@ They used three search terms: (1) *mother,*(2) *mom*, and (3) *newborn*, indepen
 
 ![alt_text](/img/2p2_6.png "image_tooltip")
 
-\[Show a GIF navigating and adding influencers]
-
 ## 3 - Pitching the Influencers
 
-Once they finished selecting the influencers, they exported their campaign to a CSV format, which they imported to Mailshake.
-
-\[CSV format export GIF]
+Once they finished selecting the influencers for their campaign, they exported their campaign to a CSV format, which they imported to Mailshake.
 
 They then wrote their pitch and follow-up sequences (3 follow-ups), and they kicked-off the campaign. 
 
 ![alt_text](/img/2p2_1.png "image_tooltip")
 
-Following up is the key to a winning campaign.
+With this sequence, they got 70 collaborators:
 
-![alt_text](/img/2p2_3.png "image_tooltip")
+![](/img/screenshot_032720_092252_am.jpg)
 
-* 29 responded at the first follow-up
-* 7 responded at the second follow-up
-* 5 replied at the third follow-up
-
-As you can see, the campaign is still running, which means they will get more responses in the days to come.
-
-At this point, Deux par Deux negotiating influencers.
+At this point, Deux par Deux has negotiated with 90 influencers, 70 have accepted their offer, and they selected their top 60 from those 70.
 
 ## Managing Influencers
 
-Once an influencer has accepted the negotiation, it is time to onboard them. 
+Once the influencers are chosen, it is now time to onboard them, which means getting the right information, sharing the right information, and giving them the product.
 
-A simple Google Form to capture all of the information you need (email, address, name of their children, etc.) will be more than enough. 
+They used a simple Google Form to capture all of the information they needed (email, address, name of their children, etc.) will be more than enough. 
 
-Integrate the form to Google Sheets, and you have a database of influencers, as well as an influencer CRM.
+They then setup an autoresponder that triggered when the form was filled out. This message gave the influencer all of the relevant guidelines:
+
+* Content format
+* Product Positoning
+* How to prepare the image (adding #sponsored to the hashtag, tagging Deux par Deux's Instagram page in the image, etc.)
+
+They then integrated the form to Google Sheets to create their lightweight influencer CRM.
 
 ![alt_text](/img/2p2_2.png "image_tooltip")
 
-You can track anything you want from this spreadsheet:
+They used this sheet to track:
 
 * Promo codes
 * Sales
@@ -115,9 +113,7 @@ You can track anything you want from this spreadsheet:
 
 ## The Results
 
-* Deux par Deux adds 5 new clients per micro-influencer, on average. Given their vertical, the lifetime value of a client is significant
-* Deux par Deux has 150+ pieces of original content in many formats (videos, stories, and images), which they can add to their marketing mix
+* Deux par Deux adds 5 new clients per micro-influencer, on average. Given their vertical, the lifetime value of a client is significant.
+* Deux par Deux received 150+ pieces of original content in many formats (videos, stories, and images), which they can add to their marketing mix
 
 ![alt_text](/img/2p2_5.png "image_tooltip")
-
-<!-- Docs to Markdown version 1.0β20 -->
