@@ -4,7 +4,7 @@ description: >-
   Deux par Deux is a kid's fashion brand which used inBeat to find relevant
   influencers for their marketing efforts. They were seeking mother
   micro-influencers. Here's how they did it.
-titre: How a Kid’s Brand Used inBeat to Work with Micro-Influencers
+titre: How a Kid’s Fashion Brand Used inBeat to Work with Micro-Influencers
 slug: kids-brand-influencer-marketing
 image: /img/bannerbig.png
 headerimage: /img/banner1.png
