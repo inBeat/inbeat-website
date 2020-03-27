@@ -88,13 +88,11 @@ With this sequence, **they got 70 collaborators**:
 
 ![](/img/screenshot_032720_092252_am.jpg)
 
-At this point, Deux par Deux has negotiated with 90 influencers, 20 declined, 70 accepted, from which they chose 60.
+At this point, Deux par Deux negotiated with 90 influencers, 20 declined, and 70 accepted, from which they chose 60.
 
+## 4 - Managing Influencers
 
-
-## Managing Influencers
-
-Once the influencers are chosen, it is now time to onboard them, which means getting and sharing the right information.
+Once Deux par Deux chose their influencers, they need to onboard their new ambassadors. This means getting and sharing the right information.
 
 They used a simple Google Form to capture all of the information they needed from the influencer (email, address, name of their children, etc.) will be more than enough. 
 
@@ -113,7 +111,7 @@ They used this sheet to track:
 * Promo codes
 * Sales
 * Post URLs
-* Etc.
+* Influencer related information (address, handle, kid's name, etc.)
 
 ## The Results
 
