@@ -131,9 +131,9 @@ This tactic is especially useful for mobile app games because themed pages will 
 
 A themed page is not an influencer in the typical sense of the term, because they don’t create their content. They are reposting content from other pages. They are curators.
 
-![alt_text](/img/meme.png "image_tooltip")
+![alt_text](/img/apps_7.png "image_tooltip")
 
-![alt_text](/img/mother.png "image_tooltip")
+![alt_text]( "image_tooltip")
 
 The opportunity lies in the fact that these profiles are not solicited like influencers are. This means you can collaborate with them for 10% of the typical cost for an influencer. You must consider that these profiles will not create content for you; **This is a traffic play**.
 
