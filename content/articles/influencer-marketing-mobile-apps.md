@@ -6,7 +6,8 @@ description: >-
   to help you skyrocket your influencer marketing
 titre: Micro-Influencer Marketing for Mobile Apps
 slug: influencer-marketing-mobile-apps
-headerimage: /img/Banner2.png
+image: /img/apps_2.png
+headerimage: /img/apps_1.png
 date: '2020-03-30'
 categories:
   - Tips
