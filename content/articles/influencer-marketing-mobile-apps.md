@@ -6,7 +6,8 @@ description: >-
   to help you skyrocket your influencer marketing
 titre: Micro-Influencer Marketing for Mobile Apps
 slug: influencer-marketing-mobile-apps
-headerimage: /img/Banner2.png
+image: /img/apps_2.png
+headerimage: /img/apps_1.png
 date: '2020-03-30'
 categories:
   - Tips
@@ -38,7 +39,7 @@ A referral or affiliate program will allow you to identify your top-performing m
 
 For example, [Aaptiv](https://aaptiv.com/), a mobile fitness app, pays out its partners for every sales:
 
-![alt_text](/img/aaptiv-affiliate-program.jpg "image_tooltip")
+![alt_text](/img/apps_3.png "image_tooltip")
 
 Additionally, you should consider incentivizing your downloads. Give discounts or exclusive in-game content that can only be accessed through your network of influencers.
 
@@ -52,25 +53,25 @@ For instance, Headspace, the meditation app, is offering free access to their ap
 
 Their Covid-19 specific page received over **30,000 shares on social media**:
 
-![Headspace is free for health professionals, driving a lot of influencers to share the content.](/img/buzzsumo.png "image_tooltip")
+![Headspace is free for health professionals, driving a lot of influencers to share the content.](/img/apps_5.png "image_tooltip")
 
 It also has received **396 referring domains**  in the same period:
 
-![Backlinks from 396 domains for Headspace mobile app](/img/ahrefs.png)
+![Backlinks from 396 domains for Headspace mobile app](/img/apps_4.png)
 
 With mentions from some authoritative sites, to say the least:
 
-![Backlinks from multiple high authority sources, which is good for the app's SEO](/img/reffering-domains.png "image_tooltip")
+![Backlinks from multiple high authority sources, which is good for the app's SEO](/img/app_8.png "image_tooltip")
 
 Needless to say that this *love and compassion* marketing play has paid off in every sense for them.
 
 The consumer goods segment has also caught on to this, and many brands are leveraging it, such as Popsockets and their #poptivism movement:
 
-![Becky G sharing Popsockets for an influencer, charitybacked campaign.](/img/poptivism.png "image_tooltip")
+![Becky G sharing Popsockets for an influencer, charitybacked campaign.](/img/apps_8.png "image_tooltip")
 
 Becky G has 24,500,000 followers on Instagram and gets upward of 750,000 likes per post. 
 
-![iambeckyg is a big influencer on Instagram.](/img/screenshot_032620_105829_am.jpg "image_tooltip")
+![iambeckyg is a big influencer on Instagram.](/img/apps_6.png "image_tooltip")
 
 How did Popsocket connect with her? Well, she has an autistic brother, which probably made this collaboration a no-brainer. 
 
@@ -130,13 +131,9 @@ This tactic is especially useful for mobile app games because themed pages will 
 
 A themed page is not an influencer in the typical sense of the term, because they don’t create their content. They are reposting content from other pages. They are curators.
 
+![alt_text](/img/apps_7.png "image_tooltip")
 
-
-![alt_text](/img/meme.png "image_tooltip")
-
-
-
-![alt_text](/img/mother.png "image_tooltip")
+![alt_text]( "image_tooltip")
 
 The opportunity lies in the fact that these profiles are not solicited like influencers are. This means you can collaborate with them for 10% of the typical cost for an influencer. You must consider that these profiles will not create content for you; **This is a traffic play**.
 
