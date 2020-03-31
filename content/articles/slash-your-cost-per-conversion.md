@@ -11,7 +11,7 @@ titre: >-
   Content
 slug: slash-your-cost-per-conversion
 image: /img/Banner2.png
-headerimage: /img/a.png
+headerimage: /img/a2.png
 date: '2020-02-12'
 categories:
   - Tips
