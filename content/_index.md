@@ -1,11 +1,11 @@
 ---
-title: inBeat | Find Influencers on Instagram and Youtube
+title: inBeat | Find Influencers on Instagram and TikTok
 description: >-
-  Find qualified influencers that meet your standards on Instagram and Youtube.
+  Find qualified influencers that meet your standards on Instagram and TikTok.
   Use our influencer database to step up your influencer marketing.
 section1:
   subtitle: Influencer campaigns made easy
-  title: Find quality<br /> influencers in <br /><span>seconds</span>
+  title: Find quality<br />influencers in<br /><span>seconds</span>
 section2:
   points:
     - description: >-
@@ -63,6 +63,5 @@ section8:
       logo: /img/vision-mg-square.png
 section9:
   title: Ready to get started?
-  description: Secure 50% OFF on your plan for life during our beta launch
+  description: 'No contract, setup or hidden fees'
 ---
-
