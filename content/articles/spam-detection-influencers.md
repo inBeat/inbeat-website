@@ -104,7 +104,7 @@ If a profile has an engagement rate above 15%, I advise you double check their a
 
 A high engagement is not necessarily a sign of spam, but it is definitely a warning. Take it into consideration.
 
-*{{% protip %}}
+\*{{% protip %}}
 
 Before working with an influencer, ask them to share with you a screenshot of their audience insights:
 
@@ -112,8 +112,7 @@ Before working with an influencer, ask them to share with you a screenshot of th
 
 Source: falcon.io
 
-Fraudulent profiles will have an uneven location distribution in their audience insights (i.e. 80% of profiles in India or Russia).
-{{% /protip %}}
+Fraudulent profiles will have an uneven location distribution in their audience insights (i.e. 80% of profiles in India or Russia). {{% /protip %}}
 
 ## 3. Fake Comments
 
@@ -143,9 +142,7 @@ The audience of these influencers is *burnt out*, meaning they lose trust in the
 
 For instance, this mother has 4 paid partnerships with 3 different brands (Goli, Suzy J, and Little Tikes) in her last 6 posts.
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Avoid-These4.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/Avoid-These4.jpg "image_tooltip")
+![alt_text](/img/mother-over-load.png "image_tooltip")
 
 If you’re following her profile, you would quickly come to the conclusion that she is always promoting content, which makes her less trustworthy.
 
@@ -159,9 +156,7 @@ Some influencers don’t have a relevant creative direction for your product.
 
 Here is an example:  
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Avoid-These5.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/Avoid-These5.jpg "image_tooltip")
+![alt_text](/img/screenshot_032820_124507_pm.jpg "image_tooltip")
 
 “The reason why I love this anti-ageing serum is because my skin looks much more radiant and glowy after using it.”
 
