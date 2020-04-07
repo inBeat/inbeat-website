@@ -4,7 +4,7 @@ description: >-
   This article covers tips and tricks to detect fraudulent influencers. We go
   through fake engagement to unethical automation to help you understand what a
   good influencer is.
-titre: 'Avoid These 5 Things at All Costs When Working With Influencers [Cheatsheet]'
+titre: Avoid These 5 Things at All Costs When Working With Influencers
 slug: what-to-avoid-with-influencers
 headerimage: /img/Banner3.png
 date: '2020-04-07'
