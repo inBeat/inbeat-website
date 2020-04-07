@@ -4,8 +4,8 @@ description: >-
   This article covers tips and tricks to detect fraudulent influencers. We go
   through fake engagement to unethical automation to help you understand what a
   good influencer is.
-titre: 'Avoid These 4 Things at All Costs When Working With Influencers [Cheatsheet]'
-slug: spam-detection-influencers
+titre: 'Avoid These 5 Things at All Costs When Working With Influencers [Cheatsheet]'
+slug: what-to-avoid-with-influencers
 headerimage: /img/Banner3.png
 date: '2020-04-07'
 categories:
@@ -18,15 +18,13 @@ popupstyle1: false
 draft: false
 noindex: false
 ---
-# Avoid These 4 Things at All Costs When Working With Influencers \[Cheatsheet]
+# Avoid These 5 Things at All Costs When Working With Influencers
 
 Influencer marketing is still discovering itself, and best practices are yet to be found. 
 
 The industry has garnered a bad rep for multiple reasons, many of which you probably know; outsized egos, spam, and FTC intervention.
 
 Of course, *influencers* with deep entitlement make the news, giving influencer marketing that bitter taste we might associate with it.
-
-\[Trump speaking, influencer meme I have 10 000 followers]
 
 You most likely read an article of a journalist or an agency creating a fake profile on Instagram, only to receive messages from brands and agencies (managing their client’s money) who want to collaborate for outrageous sums of money ([here](https://nymag.com/intelligencer/2017/08/fake-instagram-account-earns-sponsored-influencer-money.html), or [here](https://www.boredpanda.com/fake-instagram-influencer-followers-bots-mediakix/?utm_source=google&utm_medium=organic&utm_campaign=organic) if you want to go down the rabbit hole).
 
