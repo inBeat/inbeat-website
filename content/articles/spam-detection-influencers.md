@@ -64,7 +64,7 @@ There are many automation tools which are built on the promise of more followers
 
 Luckily, you can flag profiles using these behaviors by looking at their follow/unfollow curve. To do so, head over to [Social Blade](https://socialblade.com/), and enter a profile you want to analyze.
 
-![alt_text](images/Avoid-These0.png "image_tooltip")
+![alt_text](/img/following-gained-weekly-curve.png "image_tooltip")
 
 The oscillation in the graph displays this behavior.
 
@@ -76,9 +76,7 @@ A lot of websites specialize in *buying real followers for cheap*.
 
 Here is what those *followers* might look like:
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Avoid-These1.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/Avoid-These1.jpg "image_tooltip")
+![alt_text](/img/inside-chinas-click-farm-which-boasts-over-10000-phones-designed-to-boost-facebook-likes-1-.jpg "image_tooltip")
 
 Credits: <https://www.mirror.co.uk/news/world-news/bizarre-click-farm-10000-phones-10419403>
 
@@ -86,9 +84,7 @@ Crazy, isn’t it? This _bot farm_counts over 10,000 phones.
 
 Again, you can use Social Blade to detect purchased followers.You will typically see a spike like this one:
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Avoid-These2.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/Avoid-These2.jpg "image_tooltip")
+![alt_text](/img/curve.png "image_tooltip")
 
 This influencer has gained 160,326 followers in December 2019, which is a red flag.
 
@@ -108,17 +104,16 @@ If a profile has an engagement rate above 15%, I advise you double check their a
 
 A high engagement is not necessarily a sign of spam, but it is definitely a warning. Take it into consideration.
 
-**Pro tip:**
+*{{% protip %}}
 
 Before working with an influencer, ask them to share with you a screenshot of their audience insights:
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Avoid-These3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/Avoid-These3.png "image_tooltip")
+![alt_text](/img/instagram-insights-followers-900x506.png "image_tooltip")
 
 Source: falcon.io
 
 Fraudulent profiles will have an uneven location distribution in their audience insights (i.e. 80% of profiles in India or Russia).
+{{% /protip %}}
 
 ## 3. Fake Comments
 
