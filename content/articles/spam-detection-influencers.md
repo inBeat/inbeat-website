@@ -18,8 +18,6 @@ popupstyle1: false
 draft: false
 noindex: false
 ---
-# Avoid These 5 Things at All Costs When Working With Influencers
-
 Influencer marketing is still discovering itself, and best practices are yet to be found. 
 
 The industry has garnered a bad rep for multiple reasons, many of which you probably know; outsized egos, spam, and FTC intervention.
