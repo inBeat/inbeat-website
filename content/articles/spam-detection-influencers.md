@@ -7,7 +7,7 @@ titre: Avoid These 5 Things at All Costs When Working With Influencers
 slug: what-to-avoid-with-influencers
 image: /img/avoidbanner2.png
 headerimage: /img/avoidbanner1.png
-date: 2020-04-07
+date: 2020-04-07T00:00:00.000Z
 categories:
   - Tips
 author: david
@@ -32,7 +32,7 @@ You most likely read an article of a journalist or an agency creating a fake pro
 
 A lot of *influencers* use the same tactics. However, their purpose is not to write a clickbaiting media piece by *exposing the hidden side of the industry*, but rather to be paid by brands to collaborate (arguably fraud, I would agree).
 
-A study by Ghost Data shows that 9,5% of the profiles on Instagram are fake accounts (95 million and counting as of 2018)
+A study by [Ghost Data](https://ghostdata.io/report/Instagram_Counterfeiting_GD.pdf) shows that 9,5% of the profiles on Instagram are fake accounts (95 million and counting as of 2018)
 
 **It’s a problem.**
 
@@ -78,7 +78,7 @@ Here is what those *followers* might look like:
 
 Credits: <https://www.mirror.co.uk/news/world-news/bizarre-click-farm-10000-phones-10419403>
 
-Crazy, isn’t it? This _bot farm_counts over 10,000 phones.
+Crazy, isn’t it? This bot farm counts over 10,000 phones.
 
 Again, you can use Social Blade to detect purchased followers.You will typically see a spike like this one:
 
