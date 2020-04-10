@@ -1,13 +1,13 @@
 ---
 title: Things to Avoid When Working With Influencers
-description: >-
-  This article covers tips and tricks to detect fraudulent influencers. We go
-  through fake engagement to unethical automation to help you understand what a
-  good influencer is.
+description: This article covers tips and tricks to detect fraudulent
+  influencers. We go through fake engagement to unethical automation to help you
+  understand what a good influencer is.
 titre: Avoid These 5 Things at All Costs When Working With Influencers
 slug: what-to-avoid-with-influencers
-headerimage: /img/Banner3.png
-date: '2020-04-07'
+image: /img/avoidbanner2.png
+headerimage: /img/avoidbanner1.png
+date: 2020-04-07
 categories:
   - Tips
 author: david
@@ -62,7 +62,7 @@ There are many automation tools which are built on the promise of more followers
 
 Luckily, you can flag profiles using these behaviors by looking at their follow/unfollow curve. To do so, head over to [Social Blade](https://socialblade.com/), and enter a profile you want to analyze.
 
-![alt_text](/img/following-gained-weekly-curve.png "image_tooltip")
+![alt_text](/img/avoid6.png "image_tooltip")
 
 The oscillation in the graph displays this behavior.
 
@@ -74,7 +74,7 @@ A lot of websites specialize in *buying real followers for cheap*.
 
 Here is what those *followers* might look like:
 
-![alt_text](/img/inside-chinas-click-farm-which-boasts-over-10000-phones-designed-to-boost-facebook-likes-1-.jpg "image_tooltip")
+![alt_text](/img/avoid4.png "image_tooltip")
 
 Credits: <https://www.mirror.co.uk/news/world-news/bizarre-click-farm-10000-phones-10419403>
 
@@ -82,7 +82,7 @@ Crazy, isn’t it? This _bot farm_counts over 10,000 phones.
 
 Again, you can use Social Blade to detect purchased followers.You will typically see a spike like this one:
 
-![alt_text](/img/curve.png "image_tooltip")
+![alt_text](/img/avoid8.png "image_tooltip")
 
 This influencer has gained 160,326 followers in December 2019, which is a red flag.
 
@@ -106,7 +106,7 @@ A high engagement is not necessarily a sign of spam, but it is definitely a warn
 
 Before working with an influencer, ask them to share with you a screenshot of their audience insights:
 
-![alt_text](/img/instagram-insights-followers-900x506.png "image_tooltip")
+![alt_text](/img/avoid3.png "image_tooltip")
 
 Source: falcon.io
 
@@ -140,7 +140,7 @@ The audience of these influencers is *burnt out*, meaning they lose trust in the
 
 For instance, this mother has 4 paid partnerships with 3 different brands (Goli, Suzy J, and Little Tikes) in her last 6 posts.
 
-![alt_text](/img/mother-over-load.png "image_tooltip")
+![alt_text](/img/avoid2.png "image_tooltip")
 
 If you’re following her profile, you would quickly come to the conclusion that she is always promoting content, which makes her less trustworthy.
 
@@ -154,7 +154,7 @@ Some influencers don’t have a relevant creative direction for your product.
 
 Here is an example:  
 
-![alt_text](/img/screenshot_032820_124507_pm.jpg "image_tooltip")
+![alt_text](/img/avoid1.png "image_tooltip")
 
 “The reason why I love this anti-ageing serum is because my skin looks much more radiant and glowy after using it.”
 
