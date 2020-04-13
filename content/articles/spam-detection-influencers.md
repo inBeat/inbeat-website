@@ -18,8 +18,6 @@ popupstyle1: false
 draft: false
 noindex: false
 ---
-# Avoid These 5 Things at All Costs When Working With Influencers
-
 Influencer marketing is still discovering itself, and best practices are yet to be found. 
 
 The industry has garnered a bad rep for multiple reasons, many of which you probably know; outsized egos, spam, and FTC intervention.
@@ -102,7 +100,7 @@ If a profile has an engagement rate above 15%, I advise you double check their a
 
 A high engagement is not necessarily a sign of spam, but it is definitely a warning. Take it into consideration.
 
-\*{{% protip %}}
+{{% protip %}}
 
 Before working with an influencer, ask them to share with you a screenshot of their audience insights:
 
