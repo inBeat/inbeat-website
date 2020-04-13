@@ -100,7 +100,7 @@ If a profile has an engagement rate above 15%, I advise you double check their a
 
 A high engagement is not necessarily a sign of spam, but it is definitely a warning. Take it into consideration.
 
-\*{{% protip %}}
+{{% protip %}}
 
 Before working with an influencer, ask them to share with you a screenshot of their audience insights:
 
