@@ -3,7 +3,6 @@
     margin-top: 60px;
     h1 {
         padding-bottom: 10px;
-        max-width: 90%;
         margin: auto;
     }
     p {
@@ -11,7 +10,6 @@
         font-size: 20px;
         line-height: 24px;
         margin: 0px auto 40px;
-        max-width: 90%;
     }
     a.btn {
         border: 1px solid $royalblue;
@@ -37,6 +35,7 @@
     margin-right: auto;
     margin-left: auto;
     max-width: 960px;
+    box-sizing: border-box;
     @include breakpoint(tablet) {
         max-width: 720px;
     }
@@ -57,6 +56,9 @@
             border-bottom: 1px solid #ebebeb;
             padding-top: 20px;
             padding-bottom: 20px;
+            &:last-of-type {
+                border: none;
+            }
         };
    }
    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6 {
