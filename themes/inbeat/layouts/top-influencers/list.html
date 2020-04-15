@@ -41,6 +41,11 @@
                     <p>{{- div (float (int (mul $e.commentsToLikes 10000))) 10 -}}</p>
                     <span>comments per 1000 likes</span>
                 </div>
+                {{- if not (eq $e.hashtags "") -}}
+                <div class="col-6">
+                    <span><strong>Most used hashtags:</strong>{{- $e.hashtags -}}</span>
+                </div>
+                {{- end -}}
             </div>
         </div>
     </div>
