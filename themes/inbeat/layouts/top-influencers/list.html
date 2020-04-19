@@ -6,7 +6,7 @@
 </section>
 <section class="profiles-top profiles-container">
     {{- range $i, $e := .Params.profiles -}}
-    <div class="row ctn">
+    <div class="top-row ctn">
         <div class="col-1">
             <span>{{- add $i 1 -}}</span>
         </div>
@@ -14,7 +14,7 @@
             <img src="{{- $e.avatar -}}" alt="{{- $e.username -}}">
         </div>
         <div class="col-3">
-            <div class="row">
+            <div class="top-row">
                 <div class="col-4">
                     <h6>@{{- $e.username -}}</h6>
                     <span>{{- $e.fullname -}}</span>
@@ -51,4 +51,21 @@
     </div>
     {{- end -}}
 </section>
+{{- if isset .Params "countries" -}}
+{{- if gt (len .Params.countries) 0 -}}
+<section class="play-top-list profiles-container">
+    <h3>Discover Influencers by Countries</h3>
+    {{- partial "site/toplist.html" (dict "context" . "items" .Params.countries) -}}
+</section>
+{{- end -}}
+{{- end -}}
+
+{{- if isset .Params "cities" -}}
+{{- if gt (len .Params.cities) 0 -}}
+<section class="play-top-list profiles-container">
+    <h3>Discover Influencers by Cities</h3>
+    {{- partial "site/toplist.html" (dict "context" . "items" .Params.cities) -}}
+</section>
+{{- end -}}
+{{- end -}}
 {{ end }}

@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "charlotttelacey"
-    fullname: "Binks"
+    fullname: >-
+      Binks
     location: "Australia"
     followers: 7685
     engagement: 991
@@ -13,7 +14,8 @@ profiles:
     verified: false
     hashtags: "#letan, #uberdark, #uberstay, #backwards"
   - username: "hxodu"
-    fullname: "hd | Australia"
+    fullname: >-
+      hd | Australia
     location: "Australia"
     followers: 5210
     engagement: 1154
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#visitqueensland, #puregoldcoast, #droneglobe, #lifewelltravelled"
   - username: "brisbane"
-    fullname: "@BRISBANE"
+    fullname: >-
+      @BRISBANE
     location: "Australia"
     followers: 103462
     engagement: 251
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#mybrisbane"
   - username: "lakotaajohnson"
-    fullname: "Lakota 🐒"
+    fullname: >-
+      Lakota 🐒
     location: "Australia"
     followers: 239751
     engagement: 1477
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#pumaau, #ad, #outfit, #suspiciousantwerppartner"
   - username: "isabella_fiori"
-    fullname: "BELLA"
+    fullname: >-
+      BELLA
     location: "Australia"
     followers: 654455
     engagement: 940
@@ -49,7 +54,8 @@ profiles:
     verified: false
     hashtags: "#easybreezybeautiful, #covergirlau, #covergirlcrueltyfree, #easybreezybeautiful"
   - username: "saltysaif"
-    fullname: "SAIF PHOTOGRAPHY"
+    fullname: >-
+      SAIF PHOTOGRAPHY
     location: "Australia"
     followers: 5290
     engagement: 1125
@@ -58,7 +64,8 @@ profiles:
     verified: false
     hashtags: ""
   - username: "lindsayxlinay"
-    fullname: ""
+    fullname: >-
+      
     location: "Australia"
     followers: 8383
     engagement: 921
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: "#wildlands, #oscarwylee, #selfisolating"
   - username: "miss_gemma_fied"
-    fullname: "💥 GEMMA KARSTEN 💥"
+    fullname: >-
+      💥 GEMMA KARSTEN 💥
     location: "Australia"
     followers: 76688
     engagement: 367
@@ -76,7 +84,8 @@ profiles:
     verified: false
     hashtags: "#sisters, #reunited, #thoseeyes, #hmua"
   - username: "jade.syrett"
-    fullname: "JADE"
+    fullname: >-
+      JADE
     location: "Australia"
     followers: 50814
     engagement: 333
@@ -85,7 +94,8 @@ profiles:
     verified: false
     hashtags: "#brisbanemodel, #portraitmood, #nightout, #sport"
   - username: "charlotte.thompson"
-    fullname: "char ♡"
+    fullname: >-
+      char ♡
     location: "Australia"
     followers: 26535
     engagement: 368

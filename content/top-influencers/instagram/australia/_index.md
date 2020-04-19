@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "keenan.te"
-    fullname: "Keenan Te"
+    fullname: >-
+      Keenan Te
     location: "Australia"
     followers: 27359
     engagement: 824
@@ -13,7 +14,8 @@ profiles:
     verified: false
     hashtags: "#brunomars, #chrisbrown, #victorious, #sidehustle"
   - username: "savannah.clarke"
-    fullname: "S A V A N N A H  ➕ C L A R K E"
+    fullname: >-
+      S A V A N N A H  ➕ C L A R K E
     location: "Australia"
     followers: 1156230
     engagement: 1563
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#fashionicon, #loveuniters, #lurv, #nowunitedwakeup"
   - username: "julianjoseduarte"
-    fullname: "JULIAN JOSE DUARTE 🇨🇱🇵🇹"
+    fullname: >-
+      JULIAN JOSE DUARTE 🇨🇱🇵🇹
     location: "Australia"
     followers: 5090
     engagement: 3475
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#duet, #xyzbca, #xybca, #helpme"
   - username: "fashng"
-    fullname: "fashng"
+    fullname: >-
+      fashng
     location: "Australia"
     followers: 32660
     engagement: 2765
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#dating, #myaesthetic, #australia, #selfie"
   - username: "ljubica_bonnie"
-    fullname: "LJUBICA JAKIMOVSKI"
+    fullname: >-
+      LJUBICA JAKIMOVSKI
     location: "Australia"
     followers: 3459
     engagement: 3475
@@ -49,7 +54,8 @@ profiles:
     verified: false
     hashtags: ""
   - username: "e.milyjanee"
-    fullname: "E M I L Y🦋 || fashion"
+    fullname: >-
+      E M I L Y🦋 || fashion
     location: "Australia"
     followers: 2539
     engagement: 2720
@@ -58,7 +64,8 @@ profiles:
     verified: false
     hashtags: "#collab, #gifted, #vintage"
   - username: "olivia.lawecki"
-    fullname: "L I V   L A W E C K I ⚡️"
+    fullname: >-
+      L I V   L A W E C K I ⚡️
     location: "Australia"
     followers: 2435
     engagement: 2688
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: ""
   - username: "ajsecic"
-    fullname: "Alisha"
+    fullname: >-
+      Alisha
     location: "Australia"
     followers: 3075
     engagement: 3571
@@ -76,7 +84,8 @@ profiles:
     verified: false
     hashtags: "#undiscovered, #jeffreestar, #thelist, #hoodedeyesmakeup"
   - username: "mikky_kitty"
-    fullname: "Alternative Model"
+    fullname: >-
+      Alternative Model
     location: "Australia"
     followers: 6697
     engagement: 1833
@@ -85,7 +94,8 @@ profiles:
     verified: false
     hashtags: "#fireemblemcosplay, #dollskill, #boudoirmodel, #gothicstyleandmusic"
   - username: "whyntervanravenstein"
-    fullname: "Whynter Van Ravenstein ⚡️"
+    fullname: >-
+      Whynter Van Ravenstein ⚡️
     location: "Australia"
     followers: 25332
     engagement: 842
@@ -93,4 +103,11 @@ profiles:
     avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/74935161_274659190110153_5871926820047159296_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=8XhjEDE9_mMAX9MHmhl&oh=54578271ad20e52540790000222fbc47&oe=5EB964F0"
     verified: false
     hashtags: "#fun, #model, #greatlabeldesign, #lovethelook"
+cities:
+  - name: Sydney
+    link: /instagram/australia/sydney
+  - name: Brisbane
+    link: /instagram/australia/brisbane
+  - name: Melbourne
+    link: /instagram/australia/melbourne
 ---

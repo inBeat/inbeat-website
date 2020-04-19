@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "melamed_matan"
-    fullname: "MATAN MELAMED 🦍🌏"
+    fullname: >-
+      MATAN MELAMED 🦍🌏
     location: "Austria"
     followers: 3016
     engagement: 2401
@@ -13,7 +14,8 @@ profiles:
     verified: false
     hashtags: "#calisthenics, #gymnastics, #gym, #gornation"
   - username: "ayrukantv"
-    fullname: "ayrukantv"
+    fullname: >-
+      ayrukantv
     location: "Austria"
     followers: 155295
     engagement: 961
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#sonntag12uhr, #2020, #ayrukantvfamily, #2k19"
   - username: "jetvdwaals"
-    fullname: "Jet Willemijn Davida"
+    fullname: >-
+      Jet Willemijn Davida
     location: "Austria"
     followers: 2434
     engagement: 3453
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#bohobeachnl, #sweet16, #strongersweden, #subdued"
   - username: "lisasusan__"
-    fullname: "✨INSPO ◦ TRAVEL ◦ FASHION✨"
+    fullname: >-
+      ✨INSPO ◦ TRAVEL ◦ FASHION✨
     location: "Austria"
     followers: 5972
     engagement: 2160
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#giveaway, #passionpassport, #goodlife, #phonecase"
   - username: "jelenatdcx"
-    fullname: "! J E L E N A"
+    fullname: >-
+      ! J E L E N A
     location: "Austria"
     followers: 146426
     engagement: 1253
@@ -49,7 +54,8 @@ profiles:
     verified: false
     hashtags: ""
   - username: "panzi__"
-    fullname: "MARCO   ( PANZI )"
+    fullname: >-
+      MARCO   ( PANZI )
     location: "Austria"
     followers: 49384
     engagement: 700
@@ -58,7 +64,8 @@ profiles:
     verified: false
     hashtags: "#goforit, #camougang"
   - username: "lau13raa"
-    fullname: "CURVES • TRAVEL • FASHION"
+    fullname: >-
+      CURVES • TRAVEL • FASHION
     location: "Austria"
     followers: 18269
     engagement: 1510
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: "#outfitgoals, #curvygirl, #outfit, #curvyfashion"
   - username: "yoga_lanie"
-    fullname: "Yoga - Lanie"
+    fullname: >-
+      Yoga - Lanie
     location: "Austria"
     followers: 3077
     engagement: 4848
@@ -76,7 +84,8 @@ profiles:
     verified: false
     hashtags: "#yogamitmady, #forsthofalm, #split, #yogagirl"
   - username: "zarmonious"
-    fullname: ""
+    fullname: >-
+      
     location: "Austria"
     followers: 5631
     engagement: 1467
@@ -85,7 +94,8 @@ profiles:
     verified: false
     hashtags: "#raspberrypi, #raspberrypi3, #raspberrypiprojects, #floppydrive"
   - username: "evanhara7"
-    fullname: "Evan Hara"
+    fullname: >-
+      Evan Hara
     location: "Austria"
     followers: 66218
     engagement: 950

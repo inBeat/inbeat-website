@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "aliceroberts_"
-    fullname: "|ALICE PAOLI ROBERTS|"
+    fullname: >-
+      |ALICE PAOLI ROBERTS|
     location: "Australia"
     followers: 488089
     engagement: 268
@@ -13,7 +14,8 @@ profiles:
     verified: false
     hashtags: "#return2lurline, #whitefoxoasis"
   - username: "janbreckwoldt_photography"
-    fullname: "Jan Breckwoldt"
+    fullname: >-
+      Jan Breckwoldt
     location: "Australia"
     followers: 6611
     engagement: 1252
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#sydneystravel, #sigmaphoto, #igerssouthcoastnsw, #unearthcentralnsw"
   - username: "brisvegasdad"
-    fullname: "BrisVegas Dad"
+    fullname: >-
+      BrisVegas Dad
     location: "Australia"
     followers: 13122
     engagement: 767
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#milleniumfalcon, #champagnepool, #wearetravelgays, #callofthewild"
   - username: "__k__i__a__h__"
-    fullname: "K I A H"
+    fullname: >-
+      K I A H
     location: "Australia"
     followers: 22537
     engagement: 892
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#bondspride, #wfh, #wfm, #outnow"
   - username: "uma.jeyaseelan"
-    fullname: "By Uma ©"
+    fullname: >-
+      By Uma ©
     location: "Australia"
     followers: 18129
     engagement: 232
@@ -49,7 +54,8 @@ profiles:
     verified: false
     hashtags: "#tree, #valentinesiscoming, #linkinbio, #photoshop"
   - username: "johngollings"
-    fullname: "John Gollings"
+    fullname: >-
+      John Gollings
     location: "Australia"
     followers: 21248
     engagement: 281
@@ -58,7 +64,8 @@ profiles:
     verified: false
     hashtags: "#dentoncorkermarshall, #abstractphotography, #victoriaarchitecture, #visitsydney"
   - username: "megalithicmarvels"
-    fullname: "Megalithic Marvels"
+    fullname: >-
+      Megalithic Marvels
     location: "Australia"
     followers: 77875
     engagement: 687
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: "#dronevideo, #ancientworld, #cornwallcoast, #bolivia"
   - username: "modernister"
-    fullname: "Tim Ross."
+    fullname: >-
+      Tim Ross.
     location: "Australia"
     followers: 68817
     engagement: 165
@@ -76,7 +84,8 @@ profiles:
     verified: true
     hashtags: "#lifebeinit, #30daylegochallenge"
   - username: "stephentraversart"
-    fullname: "Stephen Travers"
+    fullname: >-
+      Stephen Travers
     location: "Australia"
     followers: 54217
     engagement: 445
@@ -85,7 +94,8 @@ profiles:
     verified: false
     hashtags: "#draws, #sketchy, #sketchinglesson, #sketching"
   - username: "adamkanearchitects"
-    fullname: "Adam Kane Architects"
+    fullname: >-
+      Adam Kane Architects
     location: "Australia"
     followers: 23611
     engagement: 302

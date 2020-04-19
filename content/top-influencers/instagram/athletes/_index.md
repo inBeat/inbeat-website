@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "michicampa93"
-    fullname: "Michele Campagnaro"
+    fullname: >-
+      Michele Campagnaro
     location: "United Kingdom"
     followers: 16994
     engagement: 1239
@@ -13,7 +14,8 @@ profiles:
     verified: true
     hashtags: "#cappadocia, #lakedistrict, #paddleboarding, #waspsfamily"
   - username: "sarkar.shaina"
-    fullname: "Shaina Sarkar"
+    fullname: >-
+      Shaina Sarkar
     location: ""
     followers: 51336
     engagement: 258
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#indiangirl, #legsday, #confidence, #ready"
   - username: "stanleynormansurfer"
-    fullname: "Stan Norman"
+    fullname: >-
+      Stan Norman
     location: "Australia"
     followers: 5753
     engagement: 797
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#cushqarantine, #surfing, #air, #coldwater"
   - username: "melamed_matan"
-    fullname: "MATAN MELAMED 🦍🌏"
+    fullname: >-
+      MATAN MELAMED 🦍🌏
     location: "Austria"
     followers: 3016
     engagement: 2401
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#calisthenics, #gymnastics, #gym, #gornation"
   - username: "yulimarrojas45"
-    fullname: "Yulimar Rojas🌈"
+    fullname: >-
+      Yulimar Rojas🌈
     location: "Venezuela"
     followers: 257402
     engagement: 800
@@ -49,7 +54,8 @@ profiles:
     verified: true
     hashtags: ""
   - username: "eamon_zayed12"
-    fullname: "Eamon Zayed"
+    fullname: >-
+      Eamon Zayed
     location: "United States"
     followers: 543985
     engagement: 837
@@ -58,7 +64,8 @@ profiles:
     verified: true
     hashtags: "#time, #bodysculpting, #dontlookbackinanger, #football"
   - username: "barismrtyagci"
-    fullname: "Barış Murat Yağcı"
+    fullname: >-
+      Barış Murat Yağcı
     location: "Turkey"
     followers: 747312
     engagement: 744
@@ -67,7 +74,8 @@ profiles:
     verified: true
     hashtags: "#spor, #sa, #menswear, #2020"
   - username: "krapivnikov11"
-    fullname: "ᴅᴀɴɪɪʟ ᴋʀᴀᴘɪᴠɴɪᴋᴏᴠ"
+    fullname: >-
+      ᴅᴀɴɪɪʟ ᴋʀᴀᴘɪᴠɴɪᴋᴏᴠ
     location: "Russia"
     followers: 453368
     engagement: 1091
@@ -76,7 +84,8 @@ profiles:
     verified: false
     hashtags: "#goal, #magic, #scream, #unreal"
   - username: "carolcolling"
-    fullname: "Carolina Colling"
+    fullname: >-
+      Carolina Colling
     location: "Mexico"
     followers: 15672
     engagement: 930
@@ -85,7 +94,8 @@ profiles:
     verified: false
     hashtags: "#sololosmejores, #landerfitpy, #tbt"
   - username: "yasnizetich"
-    fullname: "Yas Nizetich"
+    fullname: >-
+      Yas Nizetich
     location: "Italy"
     followers: 68454
     engagement: 742

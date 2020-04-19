@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "stanleynormansurfer"
-    fullname: "Stan Norman"
+    fullname: >-
+      Stan Norman
     location: "Australia"
     followers: 5753
     engagement: 797
@@ -13,7 +14,8 @@ profiles:
     verified: false
     hashtags: "#cushqarantine, #surfing, #air, #coldwater"
   - username: "sarah.mayan"
-    fullname: "SARAH MAYAN"
+    fullname: >-
+      SARAH MAYAN
     location: "Australia"
     followers: 22422
     engagement: 921
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#newcastleshow, #teamryderwear"
   - username: "marciacoronado4"
-    fullname: "• Fitness | Running | Sports •"
+    fullname: >-
+      • Fitness | Running | Sports •
     location: "Australia"
     followers: 92814
     engagement: 964
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#staysafe, #holidays, #swimmingaustralia, #openwaterswimming"
   - username: "taylavvilson"
-    fullname: "Tayla Wilson"
+    fullname: >-
+      Tayla Wilson
     location: "Australia"
     followers: 21438
     engagement: 898
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#australiaday, #happylittlevegemite"
   - username: "allywilsonnn"
-    fullname: "Ally Wilson"
+    fullname: >-
+      Ally Wilson
     location: "Australia"
     followers: 7619
     engagement: 1459
@@ -49,7 +54,8 @@ profiles:
     verified: false
     hashtags: ""
   - username: "georgia_brant"
-    fullname: "Georgia Rose ❁"
+    fullname: >-
+      Georgia Rose ❁
     location: "Australia"
     followers: 28099
     engagement: 389
@@ -58,7 +64,8 @@ profiles:
     verified: false
     hashtags: "#socialdistancing"
   - username: "nicktopel"
-    fullname: "nick topel"
+    fullname: >-
+      nick topel
     location: "Australia"
     followers: 114983
     engagement: 875
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: "#itsmonday, #flexfriday, #throwback, #6ftaway"
   - username: "maddyjoybockett"
-    fullname: "MADDY BOCKETT💫"
+    fullname: >-
+      MADDY BOCKETT💫
     location: "Australia"
     followers: 42899
     engagement: 567
@@ -76,7 +84,8 @@ profiles:
     verified: false
     hashtags: "#myboobsmybody, #bondiboost, #boostyourroots, #chasethevibe"
   - username: "sarah_compston"
-    fullname: "Sarah Compston⚡️"
+    fullname: >-
+      Sarah Compston⚡️
     location: "Australia"
     followers: 23123
     engagement: 918
@@ -85,7 +94,8 @@ profiles:
     verified: false
     hashtags: "#supportlocal, #tbt, #21, #leaveyourmark"
   - username: "taylortarnawskyj"
-    fullname: "Taylor Tarnawskyj"
+    fullname: >-
+      Taylor Tarnawskyj
     location: "Australia"
     followers: 6097
     engagement: 731

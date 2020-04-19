@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "ludwiggodefroy"
-    fullname: "Ludwig Godefroy"
+    fullname: >-
+      Ludwig Godefroy
     location: ""
     followers: 12498
     engagement: 538
@@ -13,7 +14,8 @@ profiles:
     verified: false
     hashtags: "#mexico, #architecture, #concrete, #elliestathaki"
   - username: "archepidemic26"
-    fullname: "🏨"
+    fullname: >-
+      🏨
     location: "Italy"
     followers: 4576
     engagement: 798
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#aestheticphotography, #aestheticedits, #aesthetictumblr, #aestheticphotos"
   - username: "beata_walczynska"
-    fullname: ""
+    fullname: >-
+      
     location: "Poland"
     followers: 12343
     engagement: 1479
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#sunnyday, #autumn, #autumnstyle, #lovelyplace"
   - username: "ashish_joshiii"
-    fullname: "🐾🐾 ASHISH JOSHI"
+    fullname: >-
+      🐾🐾 ASHISH JOSHI
     location: ""
     followers: 7549
     engagement: 3327
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#lovely, #indian, #photography, #dogsofinstagram"
   - username: "sally_altaji"
-    fullname: "سالي التاجي"
+    fullname: >-
+      سالي التاجي
     location: "United States"
     followers: 9414
     engagement: 977
@@ -49,7 +54,8 @@ profiles:
     verified: false
     hashtags: "#saturdaynight, #quarantine, #bloggers, #fashionista"
   - username: "romullo.castro"
-    fullname: "Rômullo Castro™"
+    fullname: >-
+      Rômullo Castro™
     location: "Brazil"
     followers: 23859
     engagement: 540
@@ -58,7 +64,8 @@ profiles:
     verified: false
     hashtags: ""
   - username: "niklaskamp_"
-    fullname: "NIKLAS ©"
+    fullname: >-
+      NIKLAS ©
     location: "Germany"
     followers: 3781
     engagement: 2648
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: "#visual, #street, #allshooterz, #edgygrams"
   - username: "tofje_"
-    fullname: "T o f j e"
+    fullname: >-
+      T o f j e
     location: "Poland"
     followers: 281390
     engagement: 1071
@@ -76,7 +84,8 @@ profiles:
     verified: false
     hashtags: "#womensday, #christmastree, #mystyle, #shorts"
   - username: "laracvic"
-    fullname: "𝐋𝐀𝐑𝐀 Č𝐎𝐕𝐈Ć"
+    fullname: >-
+      𝐋𝐀𝐑𝐀 Č𝐎𝐕𝐈Ć
     location: "Germany"
     followers: 3225
     engagement: 4343
@@ -85,7 +94,8 @@ profiles:
     verified: false
     hashtags: ""
   - username: "marcplam"
-    fullname: "MARC PLÀ"
+    fullname: >-
+      MARC PLÀ
     location: "Spain"
     followers: 5413
     engagement: 2402

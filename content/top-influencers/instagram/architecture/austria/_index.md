@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "stani_film"
-    fullname: "Photography • Travel • Urban"
+    fullname: >-
+      Photography • Travel • Urban
     location: "Austria"
     followers: 5694
     engagement: 1368
@@ -13,7 +14,8 @@ profiles:
     verified: false
     hashtags: "#milliondollarvisuals, #urbanandstreet, #moodygram, #agameof10k"
   - username: "o.w.photography"
-    fullname: "Oli Wallner"
+    fullname: >-
+      Oli Wallner
     location: "Austria"
     followers: 1608
     engagement: 3490
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#milliondollarvisuals, #moodyports, #travelgram, #supremeshutter"
   - username: "robz_shotz"
-    fullname: "Robert Nitsch"
+    fullname: >-
+      Robert Nitsch
     location: "Austria"
     followers: 3355
     engagement: 2106
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#bokehkillers, #streetmood, #igersaustria, #meistershotz"
   - username: "zuphrin"
-    fullname: "Koki 。劉東華 。Vienna"
+    fullname: >-
+      Koki 。劉東華 。Vienna
     location: "Austria"
     followers: 2268
     engagement: 2064
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#gramslayers, #viennagram, #wonderlustvienna, #austria"
   - username: "gregorschlierenzauer"
-    fullname: "GREGOR SCHLIERENZAUER"
+    fullname: >-
+      GREGOR SCHLIERENZAUER
     location: "Austria"
     followers: 102161
     engagement: 980
@@ -49,7 +54,8 @@ profiles:
     verified: true
     hashtags: "#healthyfirst, #stayhome, #4hills, #view"
   - username: "austrianpixelstory"
-    fullname: "Mike"
+    fullname: >-
+      Mike
     location: "Austria"
     followers: 7832
     engagement: 680
@@ -58,7 +64,8 @@ profiles:
     verified: false
     hashtags: "#symmetry, #virgil, #highsnobiety, #swooshlove"
   - username: "marte.martearchitects"
-    fullname: "Marte.Marte Architects"
+    fullname: >-
+      Marte.Marte Architects
     location: "Austria"
     followers: 7759
     engagement: 432
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: "#germany, #dafins, #kunstgalerie, #art"
   - username: "adi.hasic"
-    fullname: "Adi Hasic"
+    fullname: >-
+      Adi Hasic
     location: "Austria"
     followers: 8932
     engagement: 621
@@ -76,7 +84,8 @@ profiles:
     verified: false
     hashtags: "#sunset, #style, #pink, #wien"
   - username: "boliviannomad"
-    fullname: "MAURO 🇧🇴🇦🇹"
+    fullname: >-
+      MAURO 🇧🇴🇦🇹
     location: "Austria"
     followers: 10651
     engagement: 511
@@ -85,7 +94,8 @@ profiles:
     verified: false
     hashtags: "#traveltheworld, #summer, #friends, #amazon"
   - username: "twenty.three.pictures"
-    fullname: "23 Pictures"
+    fullname: >-
+      23 Pictures
     location: "Austria"
     followers: 3501
     engagement: 2474

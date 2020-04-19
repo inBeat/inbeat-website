@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "djoher_draws"
-    fullname: "• Djoher Art •"
+    fullname: >-
+      • Djoher Art •
     location: "Algeria"
     followers: 2935
     engagement: 2652
@@ -13,7 +14,8 @@ profiles:
     verified: false
     hashtags: "#drawanime, #drawings, #pencil, #pencilart"
   - username: "yousra.hr"
-    fullname: "YOUSRA"
+    fullname: >-
+      YOUSRA
     location: "Algeria"
     followers: 124227
     engagement: 319
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#jijel, #blida, #photodeprofil, #algeriennes"
   - username: "black23f"
-    fullname: "BLAK 🇩🇿"
+    fullname: >-
+      BLAK 🇩🇿
     location: "Algeria"
     followers: 64049
     engagement: 1205
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#firas, #stayathome, #corona, #staysafe"
   - username: "ycc_r"
-    fullname: "⚡🇩🇿𝐇𝐀𝐈𝐁𝐀𝐎𝐔𝐎𝐈 𝐎𝐌𝐀𝐑 🇩🇿⚡"
+    fullname: >-
+      ⚡🇩🇿𝐇𝐀𝐈𝐁𝐀𝐎𝐔𝐎𝐈 𝐎𝐌𝐀𝐑 🇩🇿⚡
     location: "Algeria"
     followers: 20762
     engagement: 335
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: ""
   - username: "rym.amari"
-    fullname: "الريم ✨ Rym Amari"
+    fullname: >-
+      الريم ✨ Rym Amari
     location: "Algeria"
     followers: 226024
     engagement: 495
@@ -49,7 +54,8 @@ profiles:
     verified: false
     hashtags: "#londonlife, #londontime, #doubletrouble, #awarnessmonth"
   - username: "souhilaofficial"
-    fullname: "Souhila Ben Lachhab 🦋 سهيلة"
+    fullname: >-
+      Souhila Ben Lachhab 🦋 سهيلة
     location: "Algeria"
     followers: 1612725
     engagement: 184
@@ -58,7 +64,8 @@ profiles:
     verified: true
     hashtags: "#egypt, #mbc5, #grini, #10"
   - username: "firdouss_kb"
-    fullname: "Firdouss_akb"
+    fullname: >-
+      Firdouss_akb
     location: "Algeria"
     followers: 160509
     engagement: 189
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: "#djlife, #dahka, #folw, #photographer"
   - username: "by_rubina"
-    fullname: "𝐿𝑎 𝑝𝑜𝑠𝑖𝑡𝑖𝑣𝑖𝑡𝑒́ 𝑒𝑠𝑡 𝑢𝑛𝑒 𝑓𝑒𝑚𝑚𝑒 🌝"
+    fullname: >-
+      𝐿𝑎 𝑝𝑜𝑠𝑖𝑡𝑖𝑣𝑖𝑡𝑒́ 𝑒𝑠𝑡 𝑢𝑛𝑒 𝑓𝑒𝑚𝑚𝑒 🌝
     location: "Algeria"
     followers: 247170
     engagement: 349
@@ -76,7 +84,8 @@ profiles:
     verified: false
     hashtags: "#rubisvibe"
   - username: "amani_mehsas_officiel"
-    fullname: "Aman mehsass 05 🇩🇿 💪"
+    fullname: >-
+      Aman mehsass 05 🇩🇿 💪
     location: "Algeria"
     followers: 109918
     engagement: 603
@@ -85,7 +94,8 @@ profiles:
     verified: false
     hashtags: "#jijel, #dzpower, #dahk, #algerie"
   - username: "nourhane_zghid"
-    fullname: "Nourhane Zghid Officiel"
+    fullname: >-
+      Nourhane Zghid Officiel
     location: "Algeria"
     followers: 1418112
     engagement: 368

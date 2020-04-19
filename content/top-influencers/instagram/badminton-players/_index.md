@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "fajaralfian95"
-    fullname: "Fajar Alfian"
+    fullname: >-
+      Fajar Alfian
     location: "Indonesia"
     followers: 456808
     engagement: 1161
@@ -13,7 +14,8 @@ profiles:
     verified: true
     hashtags: "#juaradeui, #jabarjuara, #kudumeunang, #giveaway7maret"
   - username: "seidelmarvin"
-    fullname: "Marvin Seidel"
+    fullname: >-
+      Marvin Seidel
     location: "India"
     followers: 10136
     engagement: 1264
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#bulutangkisindonesia, #sbtfoftheweek, #teamvictor, #health"
   - username: "chiragshetty"
-    fullname: "Chirag Shetty"
+    fullname: >-
+      Chirag Shetty
     location: "India"
     followers: 13405
     engagement: 1645
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#teamworkmakesthedreamwork, #chinaopensuper750, #iostalent, #hardwork"
   - username: "satwik_rankireddy"
-    fullname: "Satwiksai Raj Rankireddy"
+    fullname: >-
+      Satwiksai Raj Rankireddy
     location: "India"
     followers: 15895
     engagement: 1744
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#thailandopensuper500, #minigoogle, #love, #youngstar"
   - username: "mariana_ugaldec"
-    fullname: "Mariana U"
+    fullname: >-
+      Mariana U
     location: "Mexico"
     followers: 108126
     engagement: 897
@@ -49,7 +54,8 @@ profiles:
     verified: false
     hashtags: "#internationalsportsday, #linoriana, #mequedoencasa, #masperraquehumana"
   - username: "sanyo_gitaa"
-    fullname: "sanyogita Ghorpade"
+    fullname: >-
+      sanyogita Ghorpade
     location: "India"
     followers: 11767
     engagement: 893
@@ -58,7 +64,8 @@ profiles:
     verified: false
     hashtags: "#fingersaddict, #stylish, #shoot, #redisthenewblack"
   - username: "shevonlai"
-    fullname: "🌹 Jemie 🌹"
+    fullname: >-
+      🌹 Jemie 🌹
     location: "France"
     followers: 19967
     engagement: 713
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: "#timefliestooquickly, #circlednastory, #funnymoment, #badmintonstring"
   - username: "lino_789"
-    fullname: "Lino Munoz"
+    fullname: >-
+      Lino Munoz
     location: "Mexico"
     followers: 112446
     engagement: 191
@@ -76,7 +84,8 @@ profiles:
     verified: true
     hashtags: "#yosoysportico, #quedat, #dollypartonchallenge, #vamos"
   - username: "prannoy_hs_"
-    fullname: "Prannoy H S"
+    fullname: >-
+      Prannoy H S
     location: "India"
     followers: 38146
     engagement: 673
@@ -85,7 +94,8 @@ profiles:
     verified: true
     hashtags: "#indonesiamasterssuper500, #pattseheadshot, #jaguar, #bringiton"
   - username: "lohkeanyew"
-    fullname: "Loh Kean Yew"
+    fullname: >-
+      Loh Kean Yew
     location: ""
     followers: 17778
     engagement: 1444

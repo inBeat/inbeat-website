@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "markpoulierart"
-    fullname: "Architecture in pen & ink"
+    fullname: >-
+      Architecture in pen & ink
     location: "Australia"
     followers: 209518
     engagement: 343
@@ -13,7 +14,8 @@ profiles:
     verified: false
     hashtags: "#1990, #quiz, #melfi, #sketching"
   - username: "trias.studio"
-    fullname: "T R I A S"
+    fullname: >-
+      T R I A S
     location: "Australia"
     followers: 20904
     engagement: 349
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#architecturematerials, #crosslaminatedtimber, #australiandesign, #architecturemodel"
   - username: "george_hall_art"
-    fullname: "George Hall"
+    fullname: >-
+      George Hall
     location: "Australia"
     followers: 35607
     engagement: 167
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#abstractseascape, #expressionism, #new, #artnow"
   - username: "robmillsarchitects"
-    fullname: "Rob Mills Architects"
+    fullname: >-
+      Rob Mills Architects
     location: "Australia"
     followers: 55140
     engagement: 99
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#career, #architecture, #robmills, #naturallight"
   - username: "peterbbennetts"
-    fullname: "Peter Bennetts"
+    fullname: >-
+      Peter Bennetts
     location: "Australia"
     followers: 14016
     engagement: 291
@@ -49,7 +54,8 @@ profiles:
     verified: false
     hashtags: "#redwood, #sydneyharbour, #hassellstudio, #oma"
   - username: "darkchest"
-    fullname: "🅹🅾🅴 🅳🅰🆁🅺🅲🅷🅴🆂🆃 🅿🅷🅾🆃🅾🅶🆁🅰🅿🅷🆈🇪🇸📷🇦🇺"
+    fullname: >-
+      🅹🅾🅴 🅳🅰🆁🅺🅲🅷🅴🆂🆃 🅿🅷🅾🆃🅾🅶🆁🅰🅿🅷🆈🇪🇸📷🇦🇺
     location: "Australia"
     followers: 14367
     engagement: 704
@@ -58,7 +64,8 @@ profiles:
     verified: false
     hashtags: "#cntraveler, #kings, #urbexchampions, #abandonedplane"
   - username: "alexander_andco"
-    fullname: "Alexander &CO."
+    fullname: >-
+      Alexander &CO.
     location: "Australia"
     followers: 41654
     engagement: 135
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: "#visitgoldcoast, #bedroomstyle, #artworks, #bondibeach"
   - username: "foraggiophotographic"
-    fullname: "Foraggio Photographic"
+    fullname: >-
+      Foraggio Photographic
     location: "Australia"
     followers: 33310
     engagement: 101
@@ -76,7 +84,8 @@ profiles:
     verified: false
     hashtags: "#architecturelovers, #sydneylocal, #bushfires, #commute"
   - username: "nearmap"
-    fullname: "Nearmap"
+    fullname: >-
+      Nearmap
     location: "Australia"
     followers: 32897
     engagement: 254
@@ -85,7 +94,8 @@ profiles:
     verified: false
     hashtags: "#aerial, #california, #patterns, #orange"
   - username: "aliceroberts_"
-    fullname: "|ALICE PAOLI ROBERTS|"
+    fullname: >-
+      |ALICE PAOLI ROBERTS|
     location: "Australia"
     followers: 488089
     engagement: 268

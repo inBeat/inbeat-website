@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "manhund"
-    fullname: "Manuel Gil | Valencia"
+    fullname: >-
+      Manuel Gil | Valencia
     location: "Argentina"
     followers: 3573
     engagement: 1962
@@ -13,7 +14,8 @@ profiles:
     verified: false
     hashtags: ""
   - username: "mikael_azvdo"
-    fullname: "Mikael Azevedo"
+    fullname: >-
+      Mikael Azevedo
     location: "Argentina"
     followers: 120763
     engagement: 124
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#photooftheday, #turistando, #turistasbrasileiros, #veraovaipraonde"
   - username: "andregrevex"
-    fullname: "A N D R E A"
+    fullname: >-
+      A N D R E A
     location: "Argentina"
     followers: 23934
     engagement: 452
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#buenosaires, #argentina, #superluna"
   - username: "maxibuono"
-    fullname: "Maxi Buono"
+    fullname: >-
+      Maxi Buono
     location: "Argentina"
     followers: 10133
     engagement: 1109
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#palaciosalvo, #centrocultural, #palanti, #cordobeses"
   - username: "philmusical"
-    fullname: "òscar dalmau"
+    fullname: >-
+      òscar dalmau
     location: "Argentina"
     followers: 66128
     engagement: 267
@@ -49,7 +54,8 @@ profiles:
     verified: false
     hashtags: "#calendari, #lorca, #mural, #jordiaguad"
   - username: "lagg.art"
-    fullname: "🏯🐊🏙️"
+    fullname: >-
+      🏯🐊🏙️
     location: "Argentina"
     followers: 8757
     engagement: 1126
@@ -58,7 +64,8 @@ profiles:
     verified: false
     hashtags: "#brutalism, #laplata, #cassandraplein, #showitbetter"
   - username: "cremedelacremeba"
-    fullname: "Vanessa Bell"
+    fullname: >-
+      Vanessa Bell
     location: "Argentina"
     followers: 25647
     engagement: 214
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: "#spotify, #porteroelectrico, #modernism, #eduardocosta"
   - username: "esquinasdetuciudad"
-    fullname: "esquinasdetuciudad"
+    fullname: >-
+      esquinasdetuciudad
     location: "Argentina"
     followers: 27825
     engagement: 199
@@ -76,7 +84,8 @@ profiles:
     verified: false
     hashtags: "#esquinasdetuciudad, #instachile, #lahabanacuba, #mardelplata"
   - username: "estudio_montevideo"
-    fullname: "Estudio Montevideo"
+    fullname: >-
+      Estudio Montevideo
     location: "Argentina"
     followers: 20508
     engagement: 158
@@ -85,7 +94,8 @@ profiles:
     verified: false
     hashtags: "#restaurantdesigner, #cervezapatagonia, #bestpicture, #render"
   - username: "m_crismanich"
-    fullname: "𝗠𝗮𝘂𝗿𝗼 𝗖𝗿𝗶𝘀𝗺𝗮𝗻𝗶𝗰𝗵"
+    fullname: >-
+      𝗠𝗮𝘂𝗿𝗼 𝗖𝗿𝗶𝘀𝗺𝗮𝗻𝗶𝗰𝗵
     location: "Argentina"
     followers: 21242
     engagement: 300

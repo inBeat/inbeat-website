@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "jk_727"
-    fullname: ""
+    fullname: >-
+      
     location: "Australia"
     followers: 9375
     engagement: 1669
@@ -13,7 +14,8 @@ profiles:
     verified: false
     hashtags: ""
   - username: "ariggers"
-    fullname: "Andrew Rigby"
+    fullname: >-
+      Andrew Rigby
     location: "Australia"
     followers: 8700
     engagement: 1320
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#queensland, #realestate, #becodobatman, #streetart"
   - username: "jacobwoodhouse"
-    fullname: "Jacob woodhouse"
+    fullname: >-
+      Jacob woodhouse
     location: "Australia"
     followers: 7931
     engagement: 776
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#baywatch, #yep"
   - username: "jessrubyjames"
-    fullname: "Jess James"
+    fullname: >-
+      Jess James
     location: "Australia"
     followers: 7187
     engagement: 449
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: ""
   - username: "_jackogrady"
-    fullname: "Jack O'Grady"
+    fullname: >-
+      Jack O'Grady
     location: "Australia"
     followers: 26516
     engagement: 1355
@@ -49,7 +54,8 @@ profiles:
     verified: false
     hashtags: "#mercuaryplaza, #playfortheworld, #playinside"
   - username: "dearnessie"
-    fullname: "nessie"
+    fullname: >-
+      nessie
     location: "Australia"
     followers: 48255
     engagement: 1408
@@ -58,7 +64,8 @@ profiles:
     verified: false
     hashtags: "#dysonpurehotcool, #dysonhair, #workingwithdyson, #cherrykoko"
   - username: "kellympreston"
-    fullname: "Kelly Preston"
+    fullname: >-
+      Kelly Preston
     location: "Australia"
     followers: 136567
     engagement: 683
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: "#fitness, #freshface, #blueeyes, #styleinspo"
   - username: "alex_ruygrok"
-    fullname: "ALEX RUYGROK"
+    fullname: >-
+      ALEX RUYGROK
     location: "Australia"
     followers: 167195
     engagement: 1086
@@ -76,7 +84,8 @@ profiles:
     verified: false
     hashtags: "#stayathome, #staystrong, #teenrebel, #sydneylife"
   - username: "cooper_terry"
-    fullname: "Cooper Terry 💎"
+    fullname: >-
+      Cooper Terry 💎
     location: "Australia"
     followers: 5918
     engagement: 1173
@@ -85,7 +94,8 @@ profiles:
     verified: false
     hashtags: "#fundraiser, #sunrise, #curlyboy, #ad"
   - username: "rebeccaportugall"
-    fullname: "Rebecca Portugall"
+    fullname: >-
+      Rebecca Portugall
     location: "Australia"
     followers: 49237
     engagement: 559

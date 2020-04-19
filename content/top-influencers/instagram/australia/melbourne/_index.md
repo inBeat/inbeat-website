@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "thomas_bellchambers"
-    fullname: "Thomas Bellchambers"
+    fullname: >-
+      Thomas Bellchambers
     location: "Australia"
     followers: 30385
     engagement: 730
@@ -13,7 +14,8 @@ profiles:
     verified: true
     hashtags: "#summerofracing, #politixmenswear, #tiwiminis, #caufield"
   - username: "visualsbydf"
-    fullname: "df"
+    fullname: >-
+      df
     location: "Australia"
     followers: 4228
     engagement: 2542
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: ""
   - username: "keenan.te"
-    fullname: "Keenan Te"
+    fullname: >-
+      Keenan Te
     location: "Australia"
     followers: 27359
     engagement: 824
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#brunomars, #chrisbrown, #victorious, #sidehustle"
   - username: "julianjoseduarte"
-    fullname: "JULIAN JOSE DUARTE 🇨🇱🇵🇹"
+    fullname: >-
+      JULIAN JOSE DUARTE 🇨🇱🇵🇹
     location: "Australia"
     followers: 5090
     engagement: 3475
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#duet, #xyzbca, #xybca, #helpme"
   - username: "ajsecic"
-    fullname: "Alisha"
+    fullname: >-
+      Alisha
     location: "Australia"
     followers: 3075
     engagement: 3571
@@ -49,7 +54,8 @@ profiles:
     verified: false
     hashtags: "#undiscovered, #jeffreestar, #thelist, #hoodedeyesmakeup"
   - username: "keep.calm.and.mommy.on"
-    fullname: "Nadine"
+    fullname: >-
+      Nadine
     location: "Australia"
     followers: 68400
     engagement: 1185
@@ -58,7 +64,8 @@ profiles:
     verified: false
     hashtags: "#classygirl, #styleoftheday, #lookoftheday, #whowhatwearing"
   - username: "tshadelrosario"
-    fullname: "𝐓𝐈𝐒𝐇 💓 𝐋𝐈𝐅𝐄 / 𝐒𝐓𝐘𝐋𝐄 & 𝐁𝐄𝐀𝐔𝐓𝐘"
+    fullname: >-
+      𝐓𝐈𝐒𝐇 💓 𝐋𝐈𝐅𝐄 / 𝐒𝐓𝐘𝐋𝐄 & 𝐁𝐄𝐀𝐔𝐓𝐘
     location: "Australia"
     followers: 26340
     engagement: 1621
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: "#oscarwylee, #hapakristin, #myeotd, #tbt"
   - username: "parisbishop__"
-    fullname: "Paris Bishop 👼🏼🦋"
+    fullname: >-
+      Paris Bishop 👼🏼🦋
     location: "Australia"
     followers: 140847
     engagement: 513
@@ -76,7 +84,8 @@ profiles:
     verified: false
     hashtags: "#wbpromotion, #moombafestival2020, #nationalinstituteofdramaticarts, #nidaopen"
   - username: "mackhorton"
-    fullname: "uoʇɹoɥ ʞɔɐɯ"
+    fullname: >-
+      uoʇɹoɥ ʞɔɐɯ
     location: "Australia"
     followers: 75269
     engagement: 521
@@ -85,7 +94,8 @@ profiles:
     verified: true
     hashtags: "#olympicsunleashed, #tokyo2020, #seinfeld, #topgun"
   - username: "mikayla_stevens.06"
-    fullname: "MIKAYLA STEVENS"
+    fullname: >-
+      MIKAYLA STEVENS
     location: "Australia"
     followers: 40986
     engagement: 778

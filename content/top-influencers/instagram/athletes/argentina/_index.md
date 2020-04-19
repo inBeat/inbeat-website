@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "agusalbertario"
-    fullname: "Agus Albertario"
+    fullname: >-
+      Agus Albertario
     location: "Argentina"
     followers: 258700
     engagement: 800
@@ -13,7 +14,8 @@ profiles:
     verified: true
     hashtags: "#atreveteam, #isdinargentina, #yomequedoencasa, #prevenci"
   - username: "luchogonzalez.1"
-    fullname: "Luciano Gonzalez Rizzoni"
+    fullname: >-
+      Luciano Gonzalez Rizzoni
     location: "Argentina"
     followers: 14139
     engagement: 2237
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#justdoit"
   - username: "rusha.life"
-    fullname: "𝓡 𝓤 𝓢 𝓗 𝓐"
+    fullname: >-
+      𝓡 𝓤 𝓢 𝓗 𝓐
     location: "Argentina"
     followers: 96879
     engagement: 381
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#vegan, #glutenfree, #stayathome, #crueltyfree"
   - username: "melrodriguezth"
-    fullname: "MEL RODRIGUEZ 🇦🇷"
+    fullname: >-
+      MEL RODRIGUEZ 🇦🇷
     location: "Argentina"
     followers: 44574
     engagement: 931
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#tbt, #reebokargentina, #fitfoodbuenossaires, #rhinoutfit"
   - username: "julijankunas"
-    fullname: "JULIJANKU"
+    fullname: >-
+      JULIJANKU
     location: "Argentina"
     followers: 222754
     engagement: 1490
@@ -49,7 +54,8 @@ profiles:
     verified: true
     hashtags: "#clubciudaddebuenosaires, #adidasrdy, #hac, #sent"
   - username: "juanchimallia"
-    fullname: "Juanchi Mallia"
+    fullname: >-
+      Juanchi Mallia
     location: "Argentina"
     followers: 21687
     engagement: 2102
@@ -58,7 +64,8 @@ profiles:
     verified: true
     hashtags: "#creadoconadidas, #vamospumas, #masrapidoque, #sl20"
   - username: "jeronimodlf"
-    fullname: "Jero De La Fuente"
+    fullname: >-
+      Jero De La Fuente
     location: "Argentina"
     followers: 42161
     engagement: 832
@@ -67,7 +74,8 @@ profiles:
     verified: true
     hashtags: "#casajaguares, #justdoit"
   - username: "tomaslezana"
-    fullname: "Tomas Lezana"
+    fullname: >-
+      Tomas Lezana
     location: "Argentina"
     followers: 40446
     engagement: 1113
@@ -76,7 +84,8 @@ profiles:
     verified: true
     hashtags: "#rwc2019, #moyaa"
   - username: "poytoccalino"
-    fullname: "Poy Toccalino"
+    fullname: >-
+      Poy Toccalino
     location: "Argentina"
     followers: 45356
     engagement: 746
@@ -85,7 +94,8 @@ profiles:
     verified: false
     hashtags: "#yomequedoencasa, #playfortheworld"
   - username: "conicerundolo"
-    fullname: "Maria Constanza ✨"
+    fullname: >-
+      Maria Constanza ✨
     location: "Argentina"
     followers: 22028
     engagement: 1815

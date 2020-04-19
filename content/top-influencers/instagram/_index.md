@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "mauu.otero"
-    fullname: "Mau Otero"
+    fullname: >-
+      Mau Otero
     location: "Mexico"
     followers: 28732
     engagement: 1838
@@ -13,7 +14,8 @@ profiles:
     verified: false
     hashtags: "#foryoupage, #trend, #vibes, #mexico"
   - username: "amoureuxdumonde"
-    fullname: "Yann ♡ Aurélie - Blog Voyage"
+    fullname: >-
+      Yann ♡ Aurélie - Blog Voyage
     location: "France"
     followers: 111925
     engagement: 688
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#puglia, #voyageuse, #philippines, #travelgirls"
   - username: "charlie.ma.vie"
-    fullname: "Raphaëlle"
+    fullname: >-
+      Raphaëlle
     location: "France"
     followers: 36453
     engagement: 972
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#lifestylephotography, #mondayvibes, #springishere, #slowlife"
   - username: "igna.ferriol"
-    fullname: "Igna & Hanna"
+    fullname: >-
+      Igna & Hanna
     location: "Spain"
     followers: 20666
     engagement: 1228
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#mothernaturesbeauty, #canarydog, #travel, #dogdailyfeaturesss"
   - username: "evierupp"
-    fullname: "Evelyn Grace ♡ LA Biz Educator"
+    fullname: >-
+      Evelyn Grace ♡ LA Biz Educator
     location: "United States"
     followers: 23976
     engagement: 1026
@@ -49,7 +54,8 @@ profiles:
     verified: false
     hashtags: "#evelyngracepresets"
   - username: "silvio_tova"
-    fullname: "S I L V I O  T O V A G L I A"
+    fullname: >-
+      S I L V I O  T O V A G L I A
     location: "United States"
     followers: 16181
     engagement: 995
@@ -58,7 +64,8 @@ profiles:
     verified: false
     hashtags: "#supreme, #streetphotography, #toureiffel, #gifted"
   - username: "travelwithkwen"
-    fullname: "Kwen - Travel & Lifestyle"
+    fullname: >-
+      Kwen - Travel & Lifestyle
     location: "United Kingdom"
     followers: 11021
     engagement: 1597
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: "#vacationmode, #tastelondon, #momentsofchic, #inspiredtravels"
   - username: "angelika_rysz"
-    fullname: "Angelika"
+    fullname: >-
+      Angelika
     location: "Poland"
     followers: 2708
     engagement: 2110
@@ -76,7 +84,8 @@ profiles:
     verified: false
     hashtags: "#evelinecosmetics, #mood, #mojewszystko, #naturalbeauties"
   - username: "wandabadwal"
-    fullname: "WANDA BADWAL"
+    fullname: >-
+      WANDA BADWAL
     location: "Indonesia"
     followers: 28617
     engagement: 362
@@ -85,7 +94,8 @@ profiles:
     verified: false
     hashtags: "#beyondasana, #rememberwhoyouare, #zeitf, #personaldevelopment"
   - username: "lissiloveslife"
-    fullname: "INSPO •  FASHION • LIFESTYLE"
+    fullname: >-
+      INSPO •  FASHION • LIFESTYLE
     location: "Germany"
     followers: 6520
     engagement: 1300
@@ -93,4 +103,65 @@ profiles:
     avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/93245318_529909107900410_7048696293773803520_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=LGNMSwh14WgAX8o4z4f&oh=488cc916643ab163ae6fde90ce108889&oe=5EBD696A"
     verified: false
     hashtags: "#springlook2020, #sunsetlover, #anajohnson, #yvonnedilauro"
+countries:
+  - name: Algeria
+    link: /instagram/algeria
+  - name: Argentina
+    link: /instagram/argentina
+  - name: Australia
+    link: /instagram/australia
+  - name: Austria
+    link: /instagram/austria
+  - name: Bangladesh
+    link: /instagram/bangladesh
+  - name: Belarus
+    link: /instagram/belarus
+  - name: Belgium
+    link: /instagram/belgium
+  - name: Brazil
+    link: /instagram/brazil
+  - name: Canada
+    link: /instagram/canada
+  - name: Chile
+    link: /instagram/chile
+  - name: Colombia
+    link: /instagram/colombia
+  - name: Croatia
+    link: /instagram/croatia
+  - name: Ecuador
+    link: /instagram/ecuador
+  - name: Ethiopia
+    link: /instagram/ethiopia
+  - name: Finlan
+    link: /instagram/finlan
+  - name: France
+    link: /instagram/france
+  - name: Germany
+    link: /instagram/germany
+  - name: Greece
+    link: /instagram/greece
+  - name: Hong Kong
+    link: /instagram/hong-kong
+  - name: Hungary
+    link: /instagram/hungary
+  - name: India
+    link: /instagram/india
+  - name: Indonesia
+    link: /instagram/indonesia
+  - name: Ireland
+    link: /instagram/ireland
+  - name: Israel
+    link: /instagram/israel
+  - name: Italy
+    link: /instagram/italy
+  - name: Japan
+    link: /instagram/japan
+  - name: Kuwait
+    link: /instagram/kuwait
+  - name: Malaysia
+    link: /instagram/malaysia
+  - name: Mali
+    link: /instagram/mali
+  - name: Moroco
+    link: /instagram/moroco
 ---

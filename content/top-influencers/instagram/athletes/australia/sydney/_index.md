@@ -4,7 +4,8 @@ description: Identify the most popular Instagram accounts on inBeat.
 platform: Instagram
 profiles:
   - username: "alannakennedy"
-    fullname: "Alanna Kennedy"
+    fullname: >-
+      Alanna Kennedy
     location: "Australia"
     followers: 63250
     engagement: 711
@@ -13,7 +14,8 @@ profiles:
     verified: true
     hashtags: "#maxwellscottuk, #maxwellscottaus"
   - username: "maddyjoybockett"
-    fullname: "MADDY BOCKETT💫"
+    fullname: >-
+      MADDY BOCKETT💫
     location: "Australia"
     followers: 42899
     engagement: 567
@@ -22,7 +24,8 @@ profiles:
     verified: false
     hashtags: "#myboobsmybody, #bondiboost, #boostyourroots, #chasethevibe"
   - username: "jessi_than"
-    fullname: "Jess Than"
+    fullname: >-
+      Jess Than
     location: "Australia"
     followers: 221291
     engagement: 183
@@ -31,7 +34,8 @@ profiles:
     verified: false
     hashtags: "#oxyshred, #pltstyle, #novababe, #femalefamily"
   - username: "khedoori"
-    fullname: "Michael Khedoori | Parkour"
+    fullname: >-
+      Michael Khedoori | Parkour
     location: "Australia"
     followers: 33765
     engagement: 1030
@@ -40,7 +44,8 @@ profiles:
     verified: false
     hashtags: "#whileyouwerebusy, #animalsoftiktok, #hahaha, #extremesport"
   - username: "_matt_noel_"
-    fullname: "Matt Noël"
+    fullname: >-
+      Matt Noël
     location: "Australia"
     followers: 2025
     engagement: 1060
@@ -49,7 +54,8 @@ profiles:
     verified: false
     hashtags: "#ropeclimb, #bondibeach"
   - username: "naedicicco"
-    fullname: "Shanae DiCicco IFBB BIKINI PRO"
+    fullname: >-
+      Shanae DiCicco IFBB BIKINI PRO
     location: "Australia"
     followers: 11367
     engagement: 769
@@ -58,7 +64,8 @@ profiles:
     verified: false
     hashtags: "#integrityiseverything"
   - username: "sofiamareewhittaker"
-    fullname: "Sofia Whittaker | MRS REAPER"
+    fullname: >-
+      Sofia Whittaker | MRS REAPER
     location: "Australia"
     followers: 11976
     engagement: 715
@@ -67,7 +74,8 @@ profiles:
     verified: false
     hashtags: "#alwaysgetbackup, #unitedinspiritonly, #isocrazy, #onemanpunchchallenge"
   - username: "dani___stevens"
-    fullname: "Dani Stevens (nee Samuels)"
+    fullname: >-
+      Dani Stevens (nee Samuels)
     location: "Australia"
     followers: 5289
     engagement: 1247
@@ -76,7 +84,8 @@ profiles:
     verified: true
     hashtags: "#howardsmithwharves, #tokyotogether, #tokyo, #queensland"
   - username: "sonnywebstergb"
-    fullname: "Sonny Webster"
+    fullname: >-
+      Sonny Webster
     location: "Australia"
     followers: 247112
     engagement: 144
@@ -85,7 +94,8 @@ profiles:
     verified: true
     hashtags: "#community, #mrstealyourbins, #fyp, #mobility"
   - username: "alicia.parr_"
-    fullname: "Alicia ❃"
+    fullname: >-
+      Alicia ❃
     location: "Australia"
     followers: 399860
     engagement: 351
