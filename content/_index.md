@@ -3,6 +3,8 @@ title: inBeat | Find Influencers on Instagram and TikTok
 description: >-
   Find qualified influencers that meet your standards on Instagram and TikTok.
   Use our influencer database to step up your influencer marketing.
+hero:
+  title: Discover influencers
 clients:
   - img: /images/leadlabs.png
     name: Leadlabs
