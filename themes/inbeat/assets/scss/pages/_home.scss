@@ -1,0 +1,33 @@
+#hero {
+    padding-top: calc(50vh - 16rem);
+    padding-bottom: calc(50vh - 16rem);
+    text-align: center;
+    p {
+        font-size: 1.625rem;
+        line-height: 2.375rem;
+        max-width: 550px;
+        margin: auto;
+        margin-bottom: 85px;
+        span {
+            font-weight: bold;
+        }
+    }
+    .cta {
+        a {
+            &:first-child {
+                margin-right: 20px;
+            }
+            span {
+                font-weight: bold;
+            }
+        }
+    }
+}
+#clients {
+    .row {
+        margin: 0;
+    }
+    img {
+        height: auto;
+    }
+}

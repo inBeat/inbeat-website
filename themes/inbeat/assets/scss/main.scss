@@ -1,6 +1,12 @@
-@import "_variables";
+@import "variables";
 @import "normalize/import-now";
-@import "_flexboxgrid";
-@import "_responsive";
+@import "flexboxgrid";
+@import "responsive";
 
-@import "_base";
+@import "base";
+
+@import "partials/header";
+
+@import "pages/home";
+
+@import "hamburgers";

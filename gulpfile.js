@@ -1,14 +1,15 @@
 const gulp = require('gulp');
-var exec = require('child_process').exec;
-var sass = require('gulp-sass');
-var sourcemaps = require('gulp-sourcemaps');
-var concat = require('gulp-concat');
-var rename = require('gulp-rename');
-var uglify = require('gulp-uglify');
-var browserSync = require('browser-sync').create();
+const exec = require('child_process').exec;
+const sass = require('gulp-sass');
+const sourcemaps = require('gulp-sourcemaps');
+const concat = require('gulp-concat');
+const rename = require('gulp-rename');
+const uglify = require('gulp-uglify');
+const browserSync = require('browser-sync').create();
+const autoprefixer = require('gulp-autoprefixer');
 
 const jsFiles = [
-  // 'themes/inbeat/assets/js/theme/jquery-2.1.4.min.js',
+  'themes/inbeat/assets/js/main.js',
 ];
 
 // hugo production call
@@ -20,13 +21,17 @@ gulp.task("hugo", (cb) => {
   });
 });
 
-gulp.task('sass', () => gulp.src('themes/inbeat/assets/scss/main.scss')
-  .pipe(sourcemaps.init())
-  .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
-  .pipe(rename('main.min.css'))
-  .pipe(sourcemaps.write('maps'))
-  .pipe(gulp.dest('themes/inbeat/static/css'))
-);
+gulp.task('sass', () => (
+  gulp.src('themes/inbeat/assets/scss/main.scss')
+    .pipe(sourcemaps.init())
+    .pipe(autoprefixer({
+      cascade: false
+    }))
+    .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+    .pipe(rename('main.min.css'))
+    .pipe(sourcemaps.write('maps'))
+    .pipe(gulp.dest('themes/inbeat/static/css'))
+));
 
 gulp.task('scripts', () => gulp.src(jsFiles)
   .pipe(sourcemaps.init())

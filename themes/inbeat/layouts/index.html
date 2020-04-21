@@ -1,2 +1,21 @@
 {{- define "main" -}}
+<section class="container" id="hero">
+    <h1>Discover influencers</h1>
+    <p>A search engine to find <span>Instagram & TikTok</span> Micro-Nano influencers in seconds</p>
+    <div class="cta">
+        <a href="https://app.inbeat.co/get-started" class="btn btn-lg" title="Sign up">
+            <span>Try it out</span> &#8212 it's free
+        </a>
+        <a href="#features" title="How it works" class="btn btn-lg btn-white">
+            See how it works
+        </a>
+    </div>
+</section>
+<section class="container p-tb-80" id="clients">
+    <div class="row between-xs middle-xs">
+        {{- range .Params.clients -}}
+        <img src="{{- .img -}}" alt="{{- .name -}}">
+        {{- end -}}
+    </div>
+</section>
 {{- end -}}
