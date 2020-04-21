@@ -1,23 +1,13 @@
-<header class="header {{ if .IsHome }}header--sticky{{ else }}header--page{{ end }}">
-  <div class="header__content header__content--fluid-width">
-    <div class="header__logo-title">
-      <a href="{{- $.Site.BaseURL -}}" title="Home"><img src="/img/inbeat-logo.svg" alt="inBeat logo"/></a>
+<div class="container" id="header">
+    <div class="row">
+        <div class="col-md-1">
+            <a href="{{- $.Site.BaseURL -}}" title="inBeat">
+                <img src="/icons/inbeat-logo.svg" alt="inBeat logo">
+            </a>
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-1"></div>
+        <div class="col-md-1"></div>
+        <div class="col-md-6"></div>
     </div>
-    <nav class="header__menu {{ if .IsHome }}header-home{{ end }}">
-      <ul>
-        <!-- Add the 'selected' class for color -->
-        <li><a class="header-link" href="{{- $.Site.BaseURL -}}">Home</a></li>
-        <li><a class="header-link" href="{{- $.Site.BaseURL -}}pricing">Pricing</a></li>
-        <!-- <li class="menu-item-has-children">
-          <a class="header-link" href="{{- $.Site.BaseURL -}}#features">PRODUCT</a>
-          <ul class="sub-menu">
-            <li><a href="{{- $.Site.BaseURL -}}#pulse" class="header-link">PULSE</a></li>
-          </ul>
-        </li> -->
-        <li><a class="header-link" href="{{- $.Site.BaseURL -}}articles">Articles</a></li>
-        <li><a class="header-link btn" href="https://app.inbeat.co">Log in</a></li>
-        <li><a class="header-link btn signup" href="https://app.inbeat.co/get-started">Try inBeat for Free</a></li>
-      </ul>
-    </nav> 
-  </div>    
-</header>
+</div>

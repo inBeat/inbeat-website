@@ -1,11 +1,6 @@
-@import "_variables.scss";
-@import "_responsive.scss";
+@import "_variables";
+@import "normalize/import-now";
+@import "_flexboxgrid";
+@import "_responsive";
 
-@import "theme/_reset.scss";
-@import "theme/_swiper.scss";
-@import "theme/_style.scss";
-@import "theme/_akia-customizations.scss";
-
-@import "custom/_utils.scss";
-@import "custom/_articles.scss";
-@import "custom/_popup.scss";
+@import "_base";

@@ -1,0 +1,56 @@
+h1 {
+    font-weight: 600;
+    @include breakpoint(lg) {
+        font-size: 5rem;
+        line-height: 5.625rem;
+    }
+}
+
+h2 {
+    font-weight: 500;
+    @include breakpoint(lg) {
+        font-size: 3.5rem;
+        line-height: 3.875rem;
+    }
+}
+
+h3 {
+    font-weight: 500;
+    @include breakpoint(lg) {
+        font-size: 1.875rem;
+        line-height: 2.5rem;
+    }
+}
+
+h4 {
+    font-weight: 500;
+    @include breakpoint(lg) {
+        font-size: 1.25rem;
+        line-height: 1.75rem;
+    }
+}
+
+p {
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    &.small {
+        font-size: 1rem;
+        line-height: 1.625rem;
+    }
+}
+
+a {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.625rem;
+    &.small {
+        font-size: 0.9375rem;
+    }
+}
+
+ul, ol, li {
+    font-weight: 400;
+    font-size: 0.9375rem;
+    line-height: 1.625rem;
+}
