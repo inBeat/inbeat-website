@@ -1,7 +1,7 @@
 ---
 title: inBeat | Find Influencers on Instagram and TikTok
-description: Find qualified influencers that meet your standards on Instagram and
-  TikTok. Use our influencer database to step up your influencer marketing.
+description: >-
+  Find qualified influencers that meet your standards on Instagram and TikTok. Use our influencer database to step up your influencer marketing.
 section1:
   subtitle: Influencer campaigns made easy
   title: Find Instagram<br />and TikTok<br />influencers
