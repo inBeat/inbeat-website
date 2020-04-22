@@ -34,7 +34,7 @@ features:
     question:
       text: Database vs marketplace?
       link: '#'
-    animation:
+    animation: search-animation
   - id: pick
     title: Pick out the bestest
     text: >-
@@ -43,7 +43,7 @@ features:
     question:
       text: Do we pre-vet the influencers?
       link: '#'
-    animation:
+    animation: pick-animation
   - id: export
     title: Export for outreach
     text: >-
@@ -52,7 +52,7 @@ features:
     question:
       text: What can I do with the exports?
       link: '#'
-    animation:
+    animation: export-animation
 extras:
   - title: Unlimited Searches
     text: Export the influencers you selected and contact them directly.
