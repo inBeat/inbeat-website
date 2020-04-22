@@ -1,9 +1,11 @@
 // HTML elements
 body {
     overflow-x: hidden;
+    color: $dark;
 }
 h1 {
     font-weight: 600;
+    margin-top: 0;
     @include breakpoint(lg) {
         font-size: 5rem;
         line-height: 5.625rem;
@@ -12,6 +14,7 @@ h1 {
 
 h2 {
     font-weight: 500;
+    margin-top: 0;
     @include breakpoint(lg) {
         font-size: 3.5rem;
         line-height: 3.875rem;
@@ -20,6 +23,7 @@ h2 {
 
 h3 {
     font-weight: 500;
+    margin-top: 0;
     @include breakpoint(lg) {
         font-size: 1.875rem;
         line-height: 2.5rem;
@@ -48,11 +52,13 @@ a {
     font-weight: 400;
     font-size: 1rem;
     line-height: 1.625rem;
+    color: $dark;
+    text-decoration: none;
     &.small {
         font-size: 0.9375rem;
     }
     &:visited {
-        color: initial;
+        color: $dark;
     }
     &:hover {
         text-decoration: none;
@@ -78,9 +84,9 @@ ul, ol, li {
 }
 
 a.btn {
-    background-color: black;
-    background: black;
-    border: 0.125rem solid black;
+    background-color: $dark;
+    background: $dark;
+    border: 0.125rem solid $dark;
     color: white;
     border-radius: 1px;
     padding-left: 1.5rem;
@@ -106,10 +112,10 @@ a.btn {
         padding-right: 3.125rem;
     }
     &.btn-white {
-        color: black;
+        color: $dark;
         background: white;
         background-color: white;
-        border-color: black;
+        border-color: $dark;
     }
 }
 
@@ -117,12 +123,50 @@ a.btn {
 .container {
     max-width: calc(100% - 1rem);
 }
+
+.row.large-gutter {
+    @include breakpoint(md) {
+        margin-right: -1.5rem;
+        margin-left: -1.5rem;
+        .col-md,
+        .col-md-1,
+        .col-md-2,
+        .col-md-3,
+        .col-md-4,
+        .col-md-5,
+        .col-md-6,
+        .col-md-7,
+        .col-md-8,
+        .col-md-9,
+        .col-md-10,
+        .col-md-11,
+        .col-md-12, 
+        .col-lg,
+        .col-lg-1,
+        .col-lg-2,
+        .col-lg-3,
+        .col-lg-4,
+        .col-lg-5,
+        .col-lg-6,
+        .col-lg-7,
+        .col-lg-8,
+        .col-lg-9,
+        .col-lg-10,
+        .col-lg-11,
+        .col-lg-12 {
+            padding-right: 1.5rem;
+            padding-left: 1.5rem;
+        }
+    }
+}
+
 .hide-xs {
     display: none !important;
     @include breakpoint(sm) {
         display: block !important;
     }
 }
+
 .hide-sm-up {
     @include breakpoint(sm) {
         display: none !important;
@@ -139,4 +183,19 @@ a.btn {
 .p-tb-80 {
     padding-top: 40px;
     padding-bottom: 40px;
+}
+
+.m-tb-40 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.m-tb-80 {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.m-tb-160 {
+    margin-top: 160px;
+    margin-bottom: 160px;
 }

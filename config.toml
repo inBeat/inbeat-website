@@ -42,6 +42,9 @@ defaultContentLanguageInSubdir = false
   angledQuotes = false
   latexDashes = true
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [permalinks]
   singles = "/:slug/"
 
