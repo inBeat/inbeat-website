@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Turin In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Turin in 2020. Most popular hashtags: #turin #torino #smile #fashion.
 platform: Instagram
 profiles:
   - username: "andre_wave"

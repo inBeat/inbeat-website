@@ -1,6 +1,7 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Austria In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top athletes Instagram influencers in Austria in 2020. Most popular hashtags: #grtcrew #kata #karate #motivation.
 platform: Instagram
 profiles:
   - username: "melamed_matan"

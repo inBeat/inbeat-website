@@ -1,6 +1,7 @@
 ---
 title: Top 10 Climbers Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top climbers Instagram influencers in 2020. Most popular hashtags: #rockclimbing #climbing #hiking #climber.
 platform: Instagram
 profiles:
   - username: "bethrodden"

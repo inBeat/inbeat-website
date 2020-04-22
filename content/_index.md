@@ -5,7 +5,7 @@ description: >-
   Use our influencer database to step up your influencer marketing.
 section1:
   subtitle: Influencer campaigns made easy
-  title: Find quality<br />influencers in<br /><span>seconds</span>
+  title: Find Instagram<br />and TikTok<br />influencers
 section2:
   points:
     - description: >-

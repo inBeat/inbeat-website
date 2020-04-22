@@ -1,6 +1,7 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Canada In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top chefs Instagram influencers in Canada in 2020. Most popular hashtags: #fitfood #vancouver #canada #sponsored.
 platform: Instagram
 profiles:
   - username: "andrewjscheer"

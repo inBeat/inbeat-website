@@ -1,6 +1,7 @@
 ---
 title: Top 10 Boxers Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top boxers Instagram influencers in 2020. Most popular hashtags: #rgba #boxing #riakporhemassey #matchroomboxing.
 platform: Instagram
 profiles:
   - username: "davidadeleye1"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Bali In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Bali in 2020. Most popular hashtags: #bali #travel #nature #sunset.
 platform: Instagram
 profiles:
   - username: "engelhardtlund"

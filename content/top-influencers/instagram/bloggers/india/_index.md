@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In India In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bloggers Instagram influencers in India in 2020. Most popular hashtags: #delhiblogger #blogger #fashionblogger #lifestyleblogger.
 platform: Instagram
 profiles:
   - username: "taukeer_editz"

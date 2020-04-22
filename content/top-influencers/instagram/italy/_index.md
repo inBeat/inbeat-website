@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Italy In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Italy in 2020. Most popular hashtags: #makeitbetter #elites #iorestoacasa #iostoacasa.
 platform: Instagram
 profiles:
   - username: "mattiapolibio"

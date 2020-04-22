@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Mumbai In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Mumbai in 2020. Most popular hashtags: #fashion #portrait #style #love.
 platform: Instagram
 profiles:
   - username: "dark_visionn"

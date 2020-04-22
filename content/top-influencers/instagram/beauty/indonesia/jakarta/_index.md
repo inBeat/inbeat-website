@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Jakarta In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Jakarta in 2020. Most popular hashtags: #dirumahaja #beauty #jakarta #photographer.
 platform: Instagram
 profiles:
   - username: "lucintaluna"

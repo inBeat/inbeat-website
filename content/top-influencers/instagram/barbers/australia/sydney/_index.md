@@ -1,6 +1,7 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Sydney In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top barbers Instagram influencers in Sydney in 2020. Most popular hashtags: #barber #barbershop #gaybear #beachbody.
 platform: Instagram
 profiles:
   - username: "fitzyandwippa"

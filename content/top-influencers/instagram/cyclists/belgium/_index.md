@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Belgium In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cyclists Instagram influencers in Belgium in 2020. Most popular hashtags: #procycling #cycling #trainingcamp #looneytheuns.
 platform: Instagram
 profiles:
   - username: "sterre__vervloet"

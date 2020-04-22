@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Bali In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Bali in 2020. Most popular hashtags: #bali #architecture #indonesia #travel.
 platform: Instagram
 profiles:
   - username: "ren.fonseca"

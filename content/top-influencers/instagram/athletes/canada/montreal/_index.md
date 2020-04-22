@@ -1,6 +1,7 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Montreal In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top athletes Instagram influencers in Montreal in 2020. Most popular hashtags: #athlete #montreal #fitness #diving.
 platform: Instagram
 profiles:
   - username: "ksfitness1"

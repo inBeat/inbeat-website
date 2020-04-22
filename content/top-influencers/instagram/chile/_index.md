@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Chile In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Chile in 2020. Most popular hashtags: #instagramers #instagood #outfitoftheday #picoftheday.
 platform: Instagram
 profiles:
   - username: "romiiventura"

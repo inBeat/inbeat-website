@@ -1,6 +1,7 @@
 ---
 title: Top 10 Christian Instagram Influencers In France In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top christian Instagram influencers in France in 2020. Most popular hashtags: #ig #france #amazing #bns.
 platform: Instagram
 profiles:
   - username: "officielledesbodins"

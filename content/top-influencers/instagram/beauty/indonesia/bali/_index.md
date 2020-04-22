@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Bali In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Bali in 2020. Most popular hashtags: #bali #beauty #balilife #explorebali.
 platform: Instagram
 profiles:
   - username: "oskarmunar"

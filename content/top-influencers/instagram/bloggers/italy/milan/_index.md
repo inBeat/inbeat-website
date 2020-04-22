@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Milan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bloggers Instagram influencers in Milan in 2020. Most popular hashtags: #milano #iorestoacasa #blogger #mood.
 platform: Instagram
 profiles:
   - username: "anna_pernice"

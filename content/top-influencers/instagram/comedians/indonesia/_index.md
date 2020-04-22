@@ -1,6 +1,7 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Indonesia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top comedians Instagram influencers in Indonesia in 2020. Most popular hashtags: #tiktok #dirumahaja #viral #corona.
 platform: Instagram
 profiles:
   - username: "kikysaputrii"

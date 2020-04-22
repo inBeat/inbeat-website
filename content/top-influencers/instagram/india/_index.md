@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In India In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in India in 2020. Most popular hashtags: #stayhome #handwashchallenge #sidnaaz #staysafe.
 platform: Instagram
 profiles:
   - username: "andreitalevin"

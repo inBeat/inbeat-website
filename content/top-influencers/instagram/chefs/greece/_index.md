@@ -1,6 +1,7 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Greece In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top chefs Instagram influencers in Greece in 2020. Most popular hashtags: #cooking #menoumespiti #stayhome #instafood.
 platform: Instagram
 profiles:
   - username: "georgepapakostas"

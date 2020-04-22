@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Colombia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cyclists Instagram influencers in Colombia in 2020. Most popular hashtags: #cyclinglife #cycling #cyclist #cyclingphotos.
 platform: Instagram
 profiles:
   - username: "caroamayac"

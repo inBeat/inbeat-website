@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Colombia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in Colombia in 2020. Most popular hashtags: #makeup #makeuplover #beauty #colombia.
 platform: Instagram
 profiles:
   - username: "pauenboga"

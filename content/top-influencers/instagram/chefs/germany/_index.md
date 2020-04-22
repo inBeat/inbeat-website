@@ -1,6 +1,7 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Germany In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top chefs Instagram influencers in Germany in 2020. Most popular hashtags: #streetcornerkitchen #foodporn #chefmoebetta #foodphotography.
 platform: Instagram
 profiles:
   - username: "kaktuspoooo"

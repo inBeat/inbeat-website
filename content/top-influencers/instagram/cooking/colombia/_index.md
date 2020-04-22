@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Colombia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cooking Instagram influencers in Colombia in 2020. Most popular hashtags: #yomequedoencasa #love #cooking #cuarentena.
 platform: Instagram
 profiles:
   - username: "zuzana_klingrova"

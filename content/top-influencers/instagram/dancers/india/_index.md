@@ -1,6 +1,7 @@
 ---
 title: Top 10 Dancers Instagram Influencers In India In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top dancers Instagram influencers in India in 2020. Most popular hashtags: #photoshoot #smile #tiktok #love.
 platform: Instagram
 profiles:
   - username: "theakashthapa"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Argentina In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Argentina in 2020. Most popular hashtags: #leaguepartner #lpp #sorteo #socioslol.
 platform: Instagram
 profiles:
   - username: "lucas_nardella05"

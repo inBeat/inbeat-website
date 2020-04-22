@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in 2020. Most popular hashtags: #makeuprevolution #zosta #makeup #colourpop.
 platform: Instagram
 profiles:
   - username: "jewska.makeup"

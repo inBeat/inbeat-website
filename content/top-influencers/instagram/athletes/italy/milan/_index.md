@@ -1,6 +1,7 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Milan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top athletes Instagram influencers in Milan in 2020. Most popular hashtags: #fitnessgirl #fitnessmodel #fitness #athlete.
 platform: Instagram
 profiles:
   - username: "romelulukaku"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Colombia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bodybuilding Instagram influencers in Colombia in 2020. Most popular hashtags: #fitness #gym #bodybuilding #fitnessmotivation.
 platform: Instagram
 profiles:
   - username: "atleticoguyoficial"

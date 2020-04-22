@@ -1,6 +1,7 @@
 ---
 title: Top 10 Boxers Instagram Influencers In Canada In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top boxers Instagram influencers in Canada in 2020. Most popular hashtags: #boxing #canada #montreal #fight.
 platform: Instagram
 profiles:
   - username: "neeraj_goyat"

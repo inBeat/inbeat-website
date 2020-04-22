@@ -1,6 +1,7 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Australia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top comedians Instagram influencers in Australia in 2020. Most popular hashtags: #sexeducation #netflix #gayfit #internationalwomensday.
 platform: Instagram
 profiles:
   - username: "joelcreasey"

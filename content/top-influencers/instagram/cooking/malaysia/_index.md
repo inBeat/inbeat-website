@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Malaysia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cooking Instagram influencers in Malaysia in 2020. Most popular hashtags: #stayhome #stayathome #tiktok #staysafe.
 platform: Instagram
 profiles:
   - username: "khalishan.alias"

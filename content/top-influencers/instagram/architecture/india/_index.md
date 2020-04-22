@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In India In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in India in 2020. Most popular hashtags: #india #incredibleindia #nikon #kerala.
 platform: Instagram
 profiles:
   - username: "richaphotos"

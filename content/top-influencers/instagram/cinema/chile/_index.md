@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Chile In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cinema Instagram influencers in Chile in 2020. Most popular hashtags: #chile #actorchileno #day #color.
 platform: Instagram
 profiles:
   - username: "xiochin"

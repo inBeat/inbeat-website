@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Montreal In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Montreal in 2020. Most popular hashtags: #montreal #architecture #mtlmoments #explorecanada.
 platform: Instagram
 profiles:
   - username: "lashedarchitecture"

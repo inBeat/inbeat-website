@@ -1,6 +1,7 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Australia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top crossfit Instagram influencers in Australia in 2020. Most popular hashtags: #crossfit #fitness #forwardtogether #weightlifting.
 platform: Instagram
 profiles:
   - username: "davedriskell"

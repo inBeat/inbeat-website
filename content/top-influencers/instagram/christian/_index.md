@@ -1,6 +1,7 @@
 ---
 title: Top 10 Christian Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top christian Instagram influencers in 2020. Most popular hashtags: #makeupoftheday #colourpop #anastasiabeverlyhills #love.
 platform: Instagram
 profiles:
   - username: "christiana.gabriele"

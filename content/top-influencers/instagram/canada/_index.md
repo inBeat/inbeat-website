@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Canada In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Canada in 2020. Most popular hashtags: #discoverunder5k #model #prettylittleiiinspo #vancouver.
 platform: Instagram
 profiles:
   - username: "aliciahillturner"

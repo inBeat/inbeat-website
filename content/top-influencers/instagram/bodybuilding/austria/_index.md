@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Austria In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bodybuilding Instagram influencers in Austria in 2020. Most popular hashtags: #fitness #bodybuilding #workout #fitnessmotivation.
 platform: Instagram
 profiles:
   - username: "katharina_fitglam"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Colombia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cinema Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #cuarentena #medellin #actor.
 platform: Instagram
 profiles:
   - username: "juanesramirezg"

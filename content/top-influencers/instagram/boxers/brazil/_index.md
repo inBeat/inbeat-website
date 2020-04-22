@@ -1,6 +1,7 @@
 ---
 title: Top 10 Boxers Instagram Influencers In Brazil In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top boxers Instagram influencers in Brazil in 2020. Most popular hashtags: #fitness #boxing #jiujitsu #mma.
 platform: Instagram
 profiles:
   - username: "diariodeumtrio"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Montreal In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top comedians Instagram influencers in Montreal in 2020. Most popular hashtags: #montreal #standup #standupcomedy #comedy.
 platform: Instagram
 profiles:
   - username: "nickandy1"

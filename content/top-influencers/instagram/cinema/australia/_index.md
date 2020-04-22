@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Australia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cinema Instagram influencers in Australia in 2020. Most popular hashtags: #sonyalpha #australia #gta5mods #ig.
 platform: Instagram
 profiles:
   - username: "zoewhite"

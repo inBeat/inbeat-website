@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Australia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bakers Instagram influencers in Australia in 2020. Most popular hashtags: #sydney #sourdough #madewithkitchenaid #baking.
 platform: Instagram
 profiles:
   - username: "dabakerboy"

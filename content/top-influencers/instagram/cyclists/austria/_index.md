@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Austria In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cyclists Instagram influencers in Austria in 2020. Most popular hashtags: #lifebehindbars #cyclist #fromwhereiride #mountains.
 platform: Instagram
 profiles:
   - username: "kate.cycling"

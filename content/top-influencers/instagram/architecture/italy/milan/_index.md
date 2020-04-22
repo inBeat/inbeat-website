@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Milan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Milan in 2020. Most popular hashtags: #milano #igersitalia #milan #architecture.
 platform: Instagram
 profiles:
   - username: "filippofiora"

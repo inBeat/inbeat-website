@@ -1,6 +1,7 @@
 ---
 title: Top 10 Christian Instagram Influencers In Colombia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top christian Instagram influencers in Colombia in 2020. Most popular hashtags: #jessiuribe #fashion #nodal #colombia.
 platform: Instagram
 profiles:
   - username: "egleyda16"

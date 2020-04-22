@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Greece In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Greece in 2020. Most popular hashtags: #greece #wu #architecture #ig.
 platform: Instagram
 profiles:
   - username: "georgefakaros"

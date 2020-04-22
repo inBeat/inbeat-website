@@ -1,6 +1,7 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Chile In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top barbers Instagram influencers in Chile in 2020. Most popular hashtags: #chile #quedateencasa #barber #happy.
 platform: Instagram
 profiles:
   - username: "jesuson.n"

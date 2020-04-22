@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Rio De Janeiro In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #quarentena #beauty #makeup #model.
 platform: Instagram
 profiles:
   - username: "josyramos"

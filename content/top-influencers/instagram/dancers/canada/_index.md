@@ -1,6 +1,7 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Canada In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top dancers Instagram influencers in Canada in 2020. Most popular hashtags: #overwatch #dance #loveliveschoolidolproject #cosplay.
 platform: Instagram
 profiles:
   - username: "helia_jalilnezhad"

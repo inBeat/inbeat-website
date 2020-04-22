@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Brazil In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cyclists Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #cycling #mtbgirls #amopedalar.
 platform: Instagram
 profiles:
   - username: "ami.redd"

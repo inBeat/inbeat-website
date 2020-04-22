@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Malaysia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Malaysia in 2020. Most popular hashtags: #jer #portraitphotography #photooftheday #100flavoursuk.
 platform: Instagram
 profiles:
   - username: "sushalove"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bloggers Instagram influencers in 2020. Most popular hashtags: #travelcouple #travelcouples #travelblogger #fashionblogger.
 platform: Instagram
 profiles:
   - username: "therealkatiewaldow"

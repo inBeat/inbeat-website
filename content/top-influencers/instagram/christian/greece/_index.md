@@ -1,6 +1,7 @@
 ---
 title: Top 10 Christian Instagram Influencers In Greece In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top christian Instagram influencers in Greece in 2020. Most popular hashtags: #greece #coronavirus #menoumespiti #ig.
 platform: Instagram
 profiles:
   - username: "animado_official"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bakers Instagram Influencers In France In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bakers Instagram influencers in France in 2020. Most popular hashtags: #baking #pastry #recette #paris.
 platform: Instagram
 profiles:
   - username: "anna_wierzbinska"

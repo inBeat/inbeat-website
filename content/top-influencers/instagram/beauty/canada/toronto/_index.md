@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Toronto In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #makeup #beauty #photography.
 platform: Instagram
 profiles:
   - username: "reneemleblanc"

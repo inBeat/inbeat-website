@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Chile In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cooking Instagram influencers in Chile in 2020. Most popular hashtags: #cooking #yomequedoencasa #happy #stayathome.
 platform: Instagram
 profiles:
   - username: "mmarocchino"

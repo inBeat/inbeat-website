@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Toronto In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bloggers Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #blogger #ad #torontofashion.
 platform: Instagram
 profiles:
   - username: "theeverydayfoodie"

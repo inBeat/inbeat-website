@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Canada In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Canada in 2020. Most popular hashtags: #dailyhivestyle #casualstyle #vancouverblogger #jamaica.
 platform: Instagram
 profiles:
   - username: "vanora.lo"

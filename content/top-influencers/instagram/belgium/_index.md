@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Belgium In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Belgium in 2020. Most popular hashtags: #discoverunder10k #springiscoming #outfitinspiration #spring.
 platform: Instagram
 profiles:
   - username: "tatiana.sassoye"

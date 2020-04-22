@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Malaysia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Malaysia in 2020. Most popular hashtags: #stayhome #dudukrumah #dwmalaysia #onlyatwatsons.
 platform: Instagram
 profiles:
   - username: "sushalove"

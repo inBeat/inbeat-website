@@ -1,6 +1,7 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Canada In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top barbers Instagram influencers in Canada in 2020. Most popular hashtags: #barber #barbershop #barberlife #toronto.
 platform: Instagram
 profiles:
   - username: "jon_roth_"

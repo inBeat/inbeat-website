@@ -1,6 +1,7 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Colombia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top athletes Instagram influencers in Colombia in 2020. Most popular hashtags: #yomequedoencasa #stayhome #cuarentena #staysafe.
 platform: Instagram
 profiles:
   - username: "osiris_martinezm"

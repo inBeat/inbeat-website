@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In France In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bodybuilding Instagram influencers in France in 2020. Most popular hashtags: #bodybuilding #fitness #body #fitfam.
 platform: Instagram
 profiles:
   - username: "petitpatapon_nunchaku"

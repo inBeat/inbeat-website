@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Japan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cinema Instagram influencers in Japan in 2020. Most popular hashtags: #japan #abalpha #daily #ig.
 platform: Instagram
 profiles:
   - username: "zen.visuals"

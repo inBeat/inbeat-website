@@ -1,6 +1,7 @@
 ---
 title: Top 10 Camping Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top camping Instagram influencers in 2020. Most popular hashtags: #wanderlust #blackforest #ig #thegreatoutdoors.
 platform: Instagram
 profiles:
   - username: "camping"

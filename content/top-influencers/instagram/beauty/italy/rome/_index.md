@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Rome In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Rome in 2020. Most popular hashtags: #roma #italia #italy #travel.
 platform: Instagram
 profiles:
   - username: "fabianabritto_"

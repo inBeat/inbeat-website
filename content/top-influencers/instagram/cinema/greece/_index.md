@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Greece In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cinema Instagram influencers in Greece in 2020. Most popular hashtags: #stayhome #instalike #greece #actorslife.
 platform: Instagram
 profiles:
   - username: "petros_lagoutis_official"

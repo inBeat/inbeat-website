@@ -1,6 +1,7 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Toronto In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top athletes Instagram influencers in Toronto in 2020. Most popular hashtags: #fitness #toronto #athlete #workout.
 platform: Instagram
 profiles:
   - username: "samanthayounger_"

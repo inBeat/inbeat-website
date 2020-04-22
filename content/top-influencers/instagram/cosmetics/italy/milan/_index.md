@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Milan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in Milan in 2020. Most popular hashtags: #makeup #anastasiabeverlyhills #makeuplook #nablacosmetics.
 platform: Instagram
 profiles:
   - username: "mynakedskiin"

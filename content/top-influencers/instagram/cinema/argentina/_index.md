@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Argentina In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cinema Instagram influencers in Argentina in 2020. Most popular hashtags: #cuarentena #cine #photography #photo.
 platform: Instagram
 profiles:
   - username: "fiosargenti"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Comedians Instagram Influencers In India In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top comedians Instagram influencers in India in 2020. Most popular hashtags: #tiktok #comedy #coronavirus #travelphotography.
 platform: Instagram
 profiles:
   - username: "wrennwoods"

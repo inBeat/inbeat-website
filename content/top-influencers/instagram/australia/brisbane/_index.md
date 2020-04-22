@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Brisbane In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Brisbane in 2020. Most popular hashtags: #mybrisbane #australia #modellife #queensland.
 platform: Instagram
 profiles:
   - username: "charlotttelacey"

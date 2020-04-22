@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Berlin In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #architecture #thattoweragain #ig.
 platform: Instagram
 profiles:
   - username: "mart.lindner"

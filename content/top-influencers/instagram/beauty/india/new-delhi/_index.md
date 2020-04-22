@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In New Delhi In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in New Delhi in 2020. Most popular hashtags: #delhiblogger #love #fashionblogger #delhidiaries.
 platform: Instagram
 profiles:
   - username: "newdelhi"

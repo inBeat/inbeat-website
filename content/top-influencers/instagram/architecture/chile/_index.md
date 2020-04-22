@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Chile In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Chile in 2020. Most popular hashtags: #chile #architecture #art #travel.
 platform: Instagram
 profiles:
   - username: "cronicasdeunargonauta"

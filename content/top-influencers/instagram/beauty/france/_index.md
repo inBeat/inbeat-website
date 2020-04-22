@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In France In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in France in 2020. Most popular hashtags: #ootd #parisianblogger #octolyfamily #outfit.
 platform: Instagram
 profiles:
   - username: "babicatarine"

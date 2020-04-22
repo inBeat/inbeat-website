@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Argentina In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in Argentina in 2020. Most popular hashtags: #argentina #makeup #hypebeast #beauty.
 platform: Instagram
 profiles:
   - username: "daiok"

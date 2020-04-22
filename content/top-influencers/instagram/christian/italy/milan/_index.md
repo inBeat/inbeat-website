@@ -1,6 +1,7 @@
 ---
 title: Top 10 Christian Instagram Influencers In Milan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top christian Instagram influencers in Milan in 2020. Most popular hashtags: #milano #curvasudmilano #italy #iorestoacasa.
 platform: Instagram
 profiles:
   - username: "eijakkinn"

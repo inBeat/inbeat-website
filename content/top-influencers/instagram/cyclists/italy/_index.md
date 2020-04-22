@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Italy In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cyclists Instagram influencers in Italy in 2020. Most popular hashtags: #cyclinglife #iorestoacasa #cycling #bike.
 platform: Instagram
 profiles:
   - username: "leti_galva"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Germany In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top crossfit Instagram influencers in Germany in 2020. Most popular hashtags: #fitness #stayhome #crossfit #rocknroll.
 platform: Instagram
 profiles:
   - username: "malenas.blog"

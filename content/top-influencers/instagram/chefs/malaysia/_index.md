@@ -1,6 +1,7 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Malaysia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top chefs Instagram influencers in Malaysia in 2020. Most popular hashtags: #staysafe #stayathome #malaysia #stayhome.
 platform: Instagram
 profiles:
   - username: "melvinegar"

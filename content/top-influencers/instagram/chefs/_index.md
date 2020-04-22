@@ -1,6 +1,7 @@
 ---
 title: Top 10 Chefs Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top chefs Instagram influencers in 2020. Most popular hashtags: #thankful #cheflife #michelin #hautecuisines.
 platform: Instagram
 profiles:
   - username: "thodoris_papanikolaou"

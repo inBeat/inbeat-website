@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In France In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in France in 2020. Most popular hashtags: #paris #parismaville #ig #igersfrance.
 platform: Instagram
 profiles:
   - username: "viva_a_viva"

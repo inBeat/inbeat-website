@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cyclists Instagram influencers in 2020. Most popular hashtags: #cycling #cyclingwomen #women #cyclinglife.
 platform: Instagram
 profiles:
   - username: "tommeeusen"

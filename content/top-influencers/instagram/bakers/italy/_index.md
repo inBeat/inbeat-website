@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Italy In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bakers Instagram influencers in Italy in 2020. Most popular hashtags: #foodfluffer #thebakefeed #foodphotography #onthetable.
 platform: Instagram
 profiles:
   - username: "bestobaker"

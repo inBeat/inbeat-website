@@ -1,6 +1,7 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Sydney In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top comedians Instagram influencers in Sydney in 2020. Most popular hashtags: #netflix #sydney #melbourne #sexeducation.
 platform: Instagram
 profiles:
   - username: "cougarmorrison"

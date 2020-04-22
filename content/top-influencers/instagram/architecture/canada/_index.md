@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Canada In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Canada in 2020. Most popular hashtags: #architecture #minimal #beautiful #archilovers.
 platform: Instagram
 profiles:
   - username: "noellegoulding"

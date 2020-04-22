@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Osaka In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Osaka in 2020. Most popular hashtags: #pr #ootd #fashion #code.
 platform: Instagram
 profiles:
   - username: "yana_yz"

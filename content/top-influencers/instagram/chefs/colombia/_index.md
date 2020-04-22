@@ -1,6 +1,7 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Colombia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top chefs Instagram influencers in Colombia in 2020. Most popular hashtags: #chef #fitness #colombia #cheflife.
 platform: Instagram
 profiles:
   - username: "danielvz2"

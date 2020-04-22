@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Sao Paulo In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #makeup #beauty #tbt #challenge.
 platform: Instagram
 profiles:
   - username: "natimts"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Indonesia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top barbers Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #rhinosquad #rhinoflex #thinkquality.
 platform: Instagram
 profiles:
   - username: "planecm"

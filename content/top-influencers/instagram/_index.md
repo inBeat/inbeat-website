@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in 2020. Most popular hashtags: #nature #ig #fashionblogger #streetstyle.
 platform: Instagram
 profiles:
   - username: "mauu.otero"
@@ -112,8 +113,6 @@ countries:
     link: /instagram/australia
   - name: Austria
     link: /instagram/austria
-  - name: Bangladesh
-    link: /instagram/bangladesh
   - name: Belarus
     link: /instagram/belarus
   - name: Belgium
@@ -130,18 +129,16 @@ countries:
     link: /instagram/croatia
   - name: Ecuador
     link: /instagram/ecuador
-  - name: Ethiopia
-    link: /instagram/ethiopia
-  - name: Finlan
-    link: /instagram/finlan
+  - name: Finland
+    link: /instagram/finland
   - name: France
     link: /instagram/france
   - name: Germany
     link: /instagram/germany
   - name: Greece
     link: /instagram/greece
-  - name: Hong Kong
-    link: /instagram/hong-kong
+  - name: Hong Kong SAR China
+    link: /instagram/hong-kong-sar-china
   - name: Hungary
     link: /instagram/hungary
   - name: India
@@ -160,8 +157,54 @@ countries:
     link: /instagram/kuwait
   - name: Malaysia
     link: /instagram/malaysia
-  - name: Mali
-    link: /instagram/mali
-  - name: Moroco
-    link: /instagram/moroco
+  - name: Morocco
+    link: /instagram/morocco
+  - name: Nigeria
+    link: /instagram/nigeria
+  - name: Norway
+    link: /instagram/norway
+  - name: Pakistan
+    link: /instagram/pakistan
+  - name: Peru
+    link: /instagram/peru
+  - name: Poland
+    link: /instagram/poland
+  - name: Portugal
+    link: /instagram/portugal
+  - name: Russia
+    link: /instagram/russia
+  - name: Saudi Arabia
+    link: /instagram/saudi-arabia
+  - name: Serbia
+    link: /instagram/serbia
+  - name: Singapore
+    link: /instagram/singapore
+  - name: Slovakia
+    link: /instagram/slovakia
+  - name: South Africa
+    link: /instagram/south-africa
+  - name: South Korea
+    link: /instagram/south-korea
+  - name: Spain
+    link: /instagram/spain
+  - name: Switzerland
+    link: /instagram/switzerland
+  - name: Taiwan
+    link: /instagram/taiwan
+  - name: Thailand
+    link: /instagram/thailand
+  - name: Turkey
+    link: /instagram/turkey
+  - name: Ukraine
+    link: /instagram/ukraine
+  - name: United Arab Emirates
+    link: /instagram/united-arab-emirates
+  - name: United Kingdom
+    link: /instagram/united-kingdom
+  - name: United States
+    link: /instagram/united-states
+  - name: Venezuela
+    link: /instagram/venezuela
+  - name: Vietnam
+    link: /instagram/vietnam
 ---

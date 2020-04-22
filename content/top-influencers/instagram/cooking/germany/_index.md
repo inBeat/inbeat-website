@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Germany In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cooking Instagram influencers in Germany in 2020. Most popular hashtags: #stayathome #kikiskitchen #deutschlandistvegan #bestofvegan.
 platform: Instagram
 profiles:
   - username: "jan_stuehmer"

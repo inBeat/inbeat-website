@@ -1,6 +1,7 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Germany In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top dancers Instagram influencers in Germany in 2020. Most popular hashtags: #love #picoftheday #dance #stayhome.
 platform: Instagram
 profiles:
   - username: "xhayleyfoster"

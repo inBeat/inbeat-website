@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Turin In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Turin in 2020. Most popular hashtags: #beauty #turin #fashion #makeup.
 platform: Instagram
 profiles:
   - username: "marddix"

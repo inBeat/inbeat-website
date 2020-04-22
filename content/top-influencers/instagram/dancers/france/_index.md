@@ -1,6 +1,7 @@
 ---
 title: Top 10 Dancers Instagram Influencers In France In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top dancers Instagram influencers in France in 2020. Most popular hashtags: #dance #dancer #paris #fashion.
 platform: Instagram
 profiles:
   - username: "siennadanse"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Toronto In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top comedians Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #funny #actor #comedy.
 platform: Instagram
 profiles:
   - username: "the6atsix"

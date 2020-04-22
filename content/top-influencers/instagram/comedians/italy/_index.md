@@ -1,6 +1,7 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Italy In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top comedians Instagram influencers in Italy in 2020. Most popular hashtags: #milano #leiene #iorestoacasa #germanolanzoni.
 platform: Instagram
 profiles:
   - username: "cristianopasca"

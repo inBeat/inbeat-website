@@ -1,6 +1,7 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Indonesia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top athletes Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #nature #bali #model.
 platform: Instagram
 profiles:
   - username: "zachhartman1"

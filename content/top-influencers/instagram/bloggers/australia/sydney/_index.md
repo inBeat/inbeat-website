@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Sydney In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bloggers Instagram influencers in Sydney in 2020. Most popular hashtags: #sydney #blogger #travel #sydneyfoodie.
 platform: Instagram
 profiles:
   - username: "itd_be_rude_not_to"

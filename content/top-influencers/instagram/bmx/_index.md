@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bmx Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bmx Instagram influencers in 2020. Most popular hashtags: #bmx #bmxstreet #ourbmx #bmxlife.
 platform: Instagram
 profiles:
   - username: "domsimoncini"

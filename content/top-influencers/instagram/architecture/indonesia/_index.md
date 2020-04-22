@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Indonesia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Indonesia in 2020. Most popular hashtags: #architecture #instagood #architecturelovers #jakarta.
 platform: Instagram
 profiles:
   - username: "vassionate"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Boxers Instagram Influencers In Australia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top boxers Instagram influencers in Australia in 2020. Most popular hashtags: #boxersofinstagram #boxergram #boxerplanet #boxing.
 platform: Instagram
 profiles:
   - username: "avrilmathie"

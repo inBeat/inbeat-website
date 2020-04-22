@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Austria In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cinema Instagram influencers in Austria in 2020. Most popular hashtags: #austria #stayathome #visitaustria #vienna.
 platform: Instagram
 profiles:
   - username: "richardladkani"

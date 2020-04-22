@@ -1,6 +1,7 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Brazil In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top dancers Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #salvador #dance #danca.
 platform: Instagram
 profiles:
   - username: "tonza_batedeira"

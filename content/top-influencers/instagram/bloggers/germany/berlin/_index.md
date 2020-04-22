@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Berlin In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bloggers Instagram influencers in Berlin in 2020. Most popular hashtags: #blogger #berlin #style #germany.
 platform: Instagram
 profiles:
   - username: "thiabrownsugar"

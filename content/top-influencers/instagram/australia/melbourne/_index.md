@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Melbourne In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Melbourne in 2020. Most popular hashtags: #fyp #naturalmakeup #portraitaus #idealportrait.
 platform: Instagram
 profiles:
   - username: "thomas_bellchambers"

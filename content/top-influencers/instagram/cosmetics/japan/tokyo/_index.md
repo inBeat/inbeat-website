@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Tokyo In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in Tokyo in 2020. Most popular hashtags: #pr #fashion #ootd #cosmetics.
 platform: Instagram
 profiles:
   - username: "lattice_lessignes_y_m_g_c_"

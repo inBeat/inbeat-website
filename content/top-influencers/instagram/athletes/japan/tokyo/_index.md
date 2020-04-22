@@ -1,6 +1,7 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Tokyo In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top athletes Instagram influencers in Tokyo in 2020. Most popular hashtags: #tokyo #japan #tokyo2020 #workout.
 platform: Instagram
 profiles:
   - username: "parasapo"

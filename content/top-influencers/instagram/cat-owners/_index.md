@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cat Owners Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cat owners Instagram influencers in 2020. Most popular hashtags: #catsofinstagram #cats #tuesdaythoughts #quarantine.
 platform: Instagram
 profiles:
   - username: "mister_linio"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Colombia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #travel #sunset #architecture.
 platform: Instagram
 profiles:
   - username: "omar_portela"

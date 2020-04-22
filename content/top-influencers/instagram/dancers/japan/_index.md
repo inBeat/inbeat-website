@@ -1,6 +1,7 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Japan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top dancers Instagram influencers in Japan in 2020. Most popular hashtags: #cyberjapan #dancer #newhair #love.
 platform: Instagram
 profiles:
   - username: "alan_shirahama_official"

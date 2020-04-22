@@ -1,6 +1,7 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Japan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top chefs Instagram influencers in Japan in 2020. Most popular hashtags: #repost #japan #chefgino #wonk.
 platform: Instagram
 profiles:
   - username: "feodor_kiselev"

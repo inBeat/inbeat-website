@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Hungary In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Hungary in 2020. Most popular hashtags: #budapest #hungary #modellife #beautiful.
 platform: Instagram
 profiles:
   - username: "leonettatarcsa"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Greece In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top barbers Instagram influencers in Greece in 2020. Most popular hashtags: #barber #barbershop #sharpfade #barberlife.
 platform: Instagram
 profiles:
   - username: "kathie_black_rose"

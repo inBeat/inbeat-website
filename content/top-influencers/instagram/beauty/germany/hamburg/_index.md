@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Hamburg In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Hamburg in 2020. Most popular hashtags: #hamburg #fashion #beauty #stayhome.
 platform: Instagram
 profiles:
   - username: "braveheart_timba"

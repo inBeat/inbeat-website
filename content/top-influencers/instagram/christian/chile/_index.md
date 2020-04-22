@@ -1,6 +1,7 @@
 ---
 title: Top 10 Christian Instagram Influencers In Chile In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top christian Instagram influencers in Chile in 2020. Most popular hashtags: #chile #bmx #monsterenergycl #music.
 platform: Instagram
 profiles:
   - username: "christianzapata.cl"

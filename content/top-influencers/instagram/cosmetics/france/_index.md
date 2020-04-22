@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In France In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in France in 2020. Most popular hashtags: #concours #confinement #makeup #stayhome.
 platform: Instagram
 profiles:
   - username: "ines.curly"

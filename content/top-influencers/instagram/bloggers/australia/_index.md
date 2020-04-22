@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Australia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bloggers Instagram influencers in Australia in 2020. Most popular hashtags: #stayhome #sydney #sheisnotlost #dametraveler.
 platform: Instagram
 profiles:
   - username: "hitherebrooke"

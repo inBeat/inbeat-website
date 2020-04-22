@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Montreal In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bloggers Instagram influencers in Montreal in 2020. Most popular hashtags: #montreal #blogger #stayhome #ad.
 platform: Instagram
 profiles:
   - username: "cristinamonti"

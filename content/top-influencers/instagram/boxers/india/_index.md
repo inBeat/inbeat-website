@@ -1,6 +1,7 @@
 ---
 title: Top 10 Boxers Instagram Influencers In India In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top boxers Instagram influencers in India in 2020. Most popular hashtags: #stayhome #boxing #staysafe #love.
 platform: Instagram
 profiles:
   - username: "zareennikhat"

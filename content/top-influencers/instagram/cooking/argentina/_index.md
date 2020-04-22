@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Argentina In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cooking Instagram influencers in Argentina in 2020. Most popular hashtags: #yomequedoencasa #quedateencasa #cooking #instafood.
 platform: Instagram
 profiles:
   - username: "agusshilton"

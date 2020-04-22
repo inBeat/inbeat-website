@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Germany In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Germany in 2020. Most popular hashtags: #spring #flowers #springvibes #nature.
 platform: Instagram
 profiles:
   - username: "niklaskamp_"

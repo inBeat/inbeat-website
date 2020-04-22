@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Malaysia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Malaysia in 2020. Most popular hashtags: #architecture #kualalumpur #djimalaysia #stayathome.
 platform: Instagram
 profiles:
   - username: "harrisannuar"

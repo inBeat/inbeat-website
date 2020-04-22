@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Milan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Milan in 2020. Most popular hashtags: #love #loveyou #gift #stayhome.
 platform: Instagram
 profiles:
   - username: "irenecorridori"

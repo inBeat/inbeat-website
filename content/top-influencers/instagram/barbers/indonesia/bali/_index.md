@@ -1,6 +1,7 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Bali In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top barbers Instagram influencers in Bali in 2020. Most popular hashtags: #bali #dirumahaja #indonesia #stayathome.
 platform: Instagram
 profiles:
   - username: "enzo_laconi55"

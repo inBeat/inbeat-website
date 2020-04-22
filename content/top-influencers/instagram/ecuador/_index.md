@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Ecuador In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Ecuador in 2020. Most popular hashtags: #ecuador #photography #instagood #quito.
 platform: Instagram
 profiles:
   - username: "jordan.alvarez"

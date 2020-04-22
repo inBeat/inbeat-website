@@ -1,6 +1,7 @@
 ---
 title: Top 10 Christian Instagram Influencers In Germany In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top christian Instagram influencers in Germany in 2020. Most popular hashtags: #stayathome #ootd #portraitphotography #germany.
 platform: Instagram
 profiles:
   - username: "goethes_welt"

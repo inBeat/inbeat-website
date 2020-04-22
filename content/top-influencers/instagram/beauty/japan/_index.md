@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Japan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Japan in 2020. Most popular hashtags: #pr #coordinate #fashion #instagood.
 platform: Instagram
 profiles:
   - username: "kiyomi_food"

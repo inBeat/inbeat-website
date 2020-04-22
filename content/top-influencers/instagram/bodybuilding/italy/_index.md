@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Italy In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bodybuilding Instagram influencers in Italy in 2020. Most popular hashtags: #bodybuilding #workout #fitness #fitgirl.
 platform: Instagram
 profiles:
   - username: "valentina.fitmum"

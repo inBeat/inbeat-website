@@ -1,6 +1,7 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In India In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top crossfit Instagram influencers in India in 2020. Most popular hashtags: #fitnessmotivation #fitnessmodel #instagram #instagood.
 platform: Instagram
 profiles:
   - username: "vashu_jain_"

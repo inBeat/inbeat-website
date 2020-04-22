@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Sydney In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Sydney in 2020. Most popular hashtags: #architecture #australianarchitecture #sydney #interiordesign.
 platform: Instagram
 profiles:
   - username: "markpoulierart"

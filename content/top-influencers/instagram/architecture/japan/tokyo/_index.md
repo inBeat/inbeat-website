@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Tokyo In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Tokyo in 2020. Most popular hashtags: #tokyo #japan #way2ill #tokyocameraclub.
 platform: Instagram
 profiles:
   - username: "bobtakespics"

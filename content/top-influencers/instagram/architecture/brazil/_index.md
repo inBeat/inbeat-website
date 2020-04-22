@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Brazil In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Brazil in 2020. Most popular hashtags: #sky #ig #brasil #amazing.
 platform: Instagram
 profiles:
   - username: "romullo.castro"

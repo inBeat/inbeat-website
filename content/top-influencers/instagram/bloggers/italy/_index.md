@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Italy In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bloggers Instagram influencers in Italy in 2020. Most popular hashtags: #iorestoacasa #ootd #fashion #photooftheday.
 platform: Instagram
 profiles:
   - username: "greta.avanzini"

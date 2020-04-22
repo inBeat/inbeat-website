@@ -1,6 +1,7 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Malaysia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top dancers Instagram influencers in Malaysia in 2020. Most popular hashtags: #stayhome #stayathome #dudukrumah #dancer.
 platform: Instagram
 profiles:
   - username: "jolynnnz_"

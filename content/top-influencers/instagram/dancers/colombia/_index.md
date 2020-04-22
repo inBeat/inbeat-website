@@ -1,6 +1,7 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Colombia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top dancers Instagram influencers in Colombia in 2020. Most popular hashtags: #dancer #blessed #dance #realhastalamuerte.
 platform: Instagram
 profiles:
   - username: "yamirootz__"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Indonesia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in Indonesia in 2020. Most popular hashtags: #yenjiimakeup #dirumahaja #makeuplook #newzealand.
 platform: Instagram
 profiles:
   - username: "huangwesley"

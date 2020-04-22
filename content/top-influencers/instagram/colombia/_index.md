@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Colombia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Colombia in 2020. Most popular hashtags: #fyp #zen #comedia #coronavirus.
 platform: Instagram
 profiles:
   - username: "andresitoow"
@@ -104,10 +105,10 @@ profiles:
     verified: false
     hashtags: "#selfietime, #tb, #tbt, #polastime"
 cities:
-  - name: Bogotà
-    link: /instagram/colombia/bogotà
+  - name: Bogotá
+    link: /instagram/colombia/bogota
   - name: Cali
     link: /instagram/colombia/cali
-  - name: Medelin
-    link: /instagram/colombia/medelin
+  - name: Medellín
+    link: /instagram/colombia/medellin
 ---

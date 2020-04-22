@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Australia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Australia in 2020. Most popular hashtags: #italy #australianarchitecture #tree #architecture.
 platform: Instagram
 profiles:
   - username: "aliceroberts_"

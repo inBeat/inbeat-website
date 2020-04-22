@@ -1,6 +1,7 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Chile In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top chefs Instagram influencers in Chile in 2020. Most popular hashtags: #cuarentena #yomequedoencasa #santiago #quedateencasa.
 platform: Instagram
 profiles:
   - username: "virginiademariaoficial"

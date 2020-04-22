@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Canada In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cooking Instagram influencers in Canada in 2020. Most popular hashtags: #eeeeeats #pasta #getinmybelly #eattheworld.
 platform: Instagram
 profiles:
   - username: "marieelysenantel"

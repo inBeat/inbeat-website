@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Indonesia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Indonesia in 2020. Most popular hashtags: #meditation #wandabadwalyoga #foryou #mindfulness.
 platform: Instagram
 profiles:
   - username: "wandabadwal"

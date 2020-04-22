@@ -1,6 +1,7 @@
 ---
 title: Top 10 Dancers Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top dancers Instagram influencers in 2020. Most popular hashtags: #dance #dancer #kidsofinstagram #dancers.
 platform: Instagram
 profiles:
   - username: "young_cho_i"

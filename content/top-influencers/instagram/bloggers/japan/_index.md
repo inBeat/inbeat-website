@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Japan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bloggers Instagram influencers in Japan in 2020. Most popular hashtags: #coordinate #pangeadreams #fashion #outfit.
 platform: Instagram
 profiles:
   - username: "yuniqueyuni"

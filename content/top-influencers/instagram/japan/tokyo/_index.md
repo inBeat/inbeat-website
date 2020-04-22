@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Tokyo In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Tokyo in 2020. Most popular hashtags: #japan #tokyo #trip #travel.
 platform: Instagram
 profiles:
   - username: "chihiro.kodama"

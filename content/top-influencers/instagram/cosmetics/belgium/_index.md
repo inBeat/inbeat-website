@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Belgium In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in Belgium in 2020. Most popular hashtags: #belgianblogger #belgium #beauty #discoverunder100k.
 platform: Instagram
 profiles:
   - username: "shaunycuypers"

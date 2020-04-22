@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Montreal In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Montreal in 2020. Most popular hashtags: #montreal #cigarlifestyle #beardeddaddy #cigars.
 platform: Instagram
 profiles:
   - username: "izzyright"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Rome In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Rome in 2020. Most popular hashtags: #iorestoacasa #picoftheday #rome #model.
 platform: Instagram
 profiles:
   - username: "camillafalsini"

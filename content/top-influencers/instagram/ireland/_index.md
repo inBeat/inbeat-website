@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Ireland In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Ireland in 2020. Most popular hashtags: #ireland #soul #2020 #taekwondo.
 platform: Instagram
 profiles:
   - username: "laura_ogrady"

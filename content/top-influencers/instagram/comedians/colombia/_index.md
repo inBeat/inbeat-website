@@ -1,6 +1,7 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Colombia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top comedians Instagram influencers in Colombia in 2020. Most popular hashtags: #comedia #cuarentena #colombia #tbt.
 platform: Instagram
 profiles:
   - username: "pedroruminot"

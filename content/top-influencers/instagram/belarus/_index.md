@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Belarus In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Belarus in 2020. Most popular hashtags: #style #model #girls #dress.
 platform: Instagram
 profiles:
   - username: "aliaksandrasasnovich"

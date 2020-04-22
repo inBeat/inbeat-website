@@ -1,6 +1,7 @@
 ---
 title: Top 10 Barbers Instagram Influencers In India In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top barbers Instagram influencers in India in 2020. Most popular hashtags: #love #photography #style #fashion.
 platform: Instagram
 profiles:
   - username: "fede__thebarber"

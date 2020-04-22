@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bmx Instagram Influencers In Colombia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bmx Instagram influencers in Colombia in 2020. Most popular hashtags: #bmx #colombia #tbt #bmxstreet.
 platform: Instagram
 profiles:
   - username: "okendobmx"

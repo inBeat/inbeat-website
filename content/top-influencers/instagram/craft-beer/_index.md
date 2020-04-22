@@ -1,6 +1,7 @@
 ---
 title: Top 10 Craft Beer Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top craft beer Instagram influencers in 2020. Most popular hashtags: #beer #craftbeergirl #craftbeer #beerselfie.
 platform: Instagram
 profiles:
   - username: "kara_bo_beer_a"

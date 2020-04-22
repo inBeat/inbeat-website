@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Berlin In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #fashion #girl #beauty.
 platform: Instagram
 profiles:
   - username: "gabbysinsta"

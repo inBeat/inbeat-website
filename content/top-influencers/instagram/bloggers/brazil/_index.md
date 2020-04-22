@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Brazil In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bloggers Instagram influencers in Brazil in 2020. Most popular hashtags: #lookdodia #fashionista #moda #publi.
 platform: Instagram
 profiles:
   - username: "driellydrudi"

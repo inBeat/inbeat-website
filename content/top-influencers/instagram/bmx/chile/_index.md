@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bmx Instagram Influencers In Chile In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bmx Instagram influencers in Chile in 2020. Most popular hashtags: #bmx #monsterenergycl #bmxchile #chile.
 platform: Instagram
 profiles:
   - username: "cocozurita"

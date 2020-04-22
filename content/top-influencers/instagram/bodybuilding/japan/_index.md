@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Japan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bodybuilding Instagram influencers in Japan in 2020. Most popular hashtags: #bodybuilding #fitness #physique #motivation.
 platform: Instagram
 profiles:
   - username: "yuhki_abs"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Canada In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top crossfit Instagram influencers in Canada in 2020. Most popular hashtags: #crossfit #fitness #crossfitgames #workout.
 platform: Instagram
 profiles:
   - username: "aaparker1"

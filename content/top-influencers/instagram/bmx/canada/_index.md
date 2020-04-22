@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bmx Instagram Influencers In Canada In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bmx Instagram influencers in Canada in 2020. Most popular hashtags: #bmx #canadianbmx #digbmx #ridaz.
 platform: Instagram
 profiles:
   - username: "alextougas122"

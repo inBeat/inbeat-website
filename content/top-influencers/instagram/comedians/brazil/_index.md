@@ -1,6 +1,7 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Brazil In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top comedians Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #humor #comedia #carnaval.
 platform: Instagram
 profiles:
   - username: "dilsonespindola"

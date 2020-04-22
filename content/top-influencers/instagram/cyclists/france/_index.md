@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In France In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cyclists Instagram influencers in France in 2020. Most popular hashtags: #rideformore #2020 #cycling #nevergiveup.
 platform: Instagram
 profiles:
   - username: "yoyo.offredo"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Canada In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cinema Instagram influencers in Canada in 2020. Most popular hashtags: #cinematography #canada #tamilwedding #cinematographer.
 platform: Instagram
 profiles:
   - username: "benleclair"

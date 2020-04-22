@@ -1,6 +1,7 @@
 ---
 title: Top 10 Christian Instagram Influencers In Italy In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top christian Instagram influencers in Italy in 2020. Most popular hashtags: #italy #fashion #iorestoacasa #life.
 platform: Instagram
 profiles:
   - username: "laracaprotti"

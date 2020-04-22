@@ -1,6 +1,7 @@
 ---
 title: Top 10 Basketball Players Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top basketball players Instagram influencers in 2020. Most popular hashtags: #probasketball #overseasbasketball #africanizeoficial #family1st.
 platform: Instagram
 profiles:
   - username: "nickemery04"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bmx Instagram Influencers In Australia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bmx Instagram influencers in Australia in 2020. Most popular hashtags: #bmx #bmxlife #australia #bikes.
 platform: Instagram
 profiles:
   - username: "noellanix"

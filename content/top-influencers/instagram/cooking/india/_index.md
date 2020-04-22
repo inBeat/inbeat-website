@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cooking Instagram Influencers In India In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cooking Instagram influencers in India in 2020. Most popular hashtags: #indianfood #foodphotography #indianfoodbloggers #foodtalkindia.
 platform: Instagram
 profiles:
   - username: "_shireen_tabassum_"

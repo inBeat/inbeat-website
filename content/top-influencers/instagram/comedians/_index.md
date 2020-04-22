@@ -1,6 +1,7 @@
 ---
 title: Top 10 Comedians Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top comedians Instagram influencers in 2020. Most popular hashtags: #younesjones #machkeinauge #withgalaxy #hatdaysunday.
 platform: Instagram
 profiles:
   - username: "mantaskatleris"

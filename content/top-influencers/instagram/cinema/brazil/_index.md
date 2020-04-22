@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Brazil In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cinema Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #quarentena #anapaulasantosrep #photo.
 platform: Instagram
 profiles:
   - username: "tainabastosphoto"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bmx Instagram Influencers In Argentina In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bmx Instagram influencers in Argentina in 2020. Most popular hashtags: #bmx #bikelife #quedateencasa #et143.
 platform: Instagram
 profiles:
   - username: "pitu_presser100"

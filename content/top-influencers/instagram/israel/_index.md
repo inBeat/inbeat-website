@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Israel In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Israel in 2020. Most popular hashtags: #brows #gbod #telavivcity #urban.
 platform: Instagram
 profiles:
   - username: "karingreenberg27"

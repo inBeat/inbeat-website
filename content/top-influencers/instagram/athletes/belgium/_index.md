@@ -1,6 +1,7 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Belgium In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top athletes Instagram influencers in Belgium in 2020. Most popular hashtags: #teambelgium #smile #happy #fitness.
 platform: Instagram
 profiles:
   - username: "liefde.smkr"

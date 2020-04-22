@@ -1,6 +1,7 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Australia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top athletes Instagram influencers in Australia in 2020. Most popular hashtags: #tbt #boostyourroots #surflover #stayhome.
 platform: Instagram
 profiles:
   - username: "stanleynormansurfer"

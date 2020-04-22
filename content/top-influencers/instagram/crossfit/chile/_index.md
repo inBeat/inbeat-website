@@ -1,6 +1,7 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Chile In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top crossfit Instagram influencers in Chile in 2020. Most popular hashtags: #crossfit #chile #love #fitness.
 platform: Instagram
 profiles:
   - username: "anahi.ve"

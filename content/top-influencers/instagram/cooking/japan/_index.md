@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Japan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cooking Instagram influencers in Japan in 2020. Most popular hashtags: #fishing #iegohanphoto #wp #fishinglife.
 platform: Instagram
 profiles:
   - username: "mii_raja"

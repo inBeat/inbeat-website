@@ -1,6 +1,7 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Argentina In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top crossfit Instagram influencers in Argentina in 2020. Most popular hashtags: #crossfit #tbt #quedateencasa #tv.
 platform: Instagram
 profiles:
   - username: "felixgomezactor"

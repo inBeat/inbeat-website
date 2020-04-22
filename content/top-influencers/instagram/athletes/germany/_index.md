@@ -1,6 +1,7 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Germany In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top athletes Instagram influencers in Germany in 2020. Most popular hashtags: #fit #motivation #fitness #training.
 platform: Instagram
 profiles:
   - username: "sharo.45"

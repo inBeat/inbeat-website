@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Malaysia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in Malaysia in 2020. Most popular hashtags: #stayhome #skincare #sephoramy #love.
 platform: Instagram
 profiles:
   - username: "jessiekmy"

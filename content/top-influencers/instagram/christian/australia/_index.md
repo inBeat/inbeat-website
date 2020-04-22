@@ -1,6 +1,7 @@
 ---
 title: Top 10 Christian Instagram Influencers In Australia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top christian Instagram influencers in Australia in 2020. Most popular hashtags: #stayhome #cosplaygirl #cosplayfun #cosplay.
 platform: Instagram
 profiles:
   - username: "christianpillirone"

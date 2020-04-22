@@ -1,6 +1,7 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Austria In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top chefs Instagram influencers in Austria in 2020. Most popular hashtags: #chefstalk #chef #picoftheday #chefsofinstagram.
 platform: Instagram
 profiles:
   - username: "kathikara"

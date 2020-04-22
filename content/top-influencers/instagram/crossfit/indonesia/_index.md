@@ -1,6 +1,7 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Indonesia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top crossfit Instagram influencers in Indonesia in 2020. Most popular hashtags: #crossfit #bali #fitness #workout.
 platform: Instagram
 profiles:
   - username: "annesivaasen"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Milan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Milan in 2020. Most popular hashtags: #iorestoacasa #suppliedby #fashion #beauty.
 platform: Instagram
 profiles:
   - username: "erikanicolosi_"

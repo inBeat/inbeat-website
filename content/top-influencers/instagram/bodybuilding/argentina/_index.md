@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Argentina In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bodybuilding Instagram influencers in Argentina in 2020. Most popular hashtags: #bodybuilding #training #workout #fitness.
 platform: Instagram
 profiles:
   - username: "pablo_staffolarini_ifbbpro"

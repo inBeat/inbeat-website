@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Chile In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in Chile in 2020. Most popular hashtags: #makeup #makeuptutorial #urbandecaychile #nyxcosmeticschile.
 platform: Instagram
 profiles:
   - username: "morenauno"

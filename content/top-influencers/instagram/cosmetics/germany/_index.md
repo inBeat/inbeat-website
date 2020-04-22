@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Germany In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in Germany in 2020. Most popular hashtags: #blogger #vegan #love #stayathome.
 platform: Instagram
 profiles:
   - username: "individuallylivingover50"

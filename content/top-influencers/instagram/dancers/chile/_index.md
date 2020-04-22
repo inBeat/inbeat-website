@@ -1,6 +1,7 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Chile In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top dancers Instagram influencers in Chile in 2020. Most popular hashtags: #chile #dance #dancer #cuarentena.
 platform: Instagram
 profiles:
   - username: "s3lrojas"

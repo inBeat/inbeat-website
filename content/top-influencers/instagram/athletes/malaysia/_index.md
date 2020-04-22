@@ -1,6 +1,7 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Malaysia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top athletes Instagram influencers in Malaysia in 2020. Most popular hashtags: #athlete #workout #stayathome #stayhome.
 platform: Instagram
 profiles:
   - username: "theebaan_g"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top crossfit Instagram influencers in 2020. Most popular hashtags: #crossfit #fitness #enjoylife #tbt.
 platform: Instagram
 profiles:
   - username: "merouane_khelil"

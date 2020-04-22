@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In India In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in India in 2020. Most popular hashtags: #fashionblogger #shein #indianblogger #delhiblogger.
 platform: Instagram
 profiles:
   - username: "feelingfashioninside"

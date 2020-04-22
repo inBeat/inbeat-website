@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Jakarta In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Jakarta in 2020. Most popular hashtags: #dirumahaja #ootd #harianesia #x100vurbanlife.
 platform: Instagram
 profiles:
   - username: "aryaberkharisma"

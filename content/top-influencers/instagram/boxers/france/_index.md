@@ -1,6 +1,7 @@
 ---
 title: Top 10 Boxers Instagram Influencers In France In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top boxers Instagram influencers in France in 2020. Most popular hashtags: #teamcissokho #boxer #boxing #sport.
 platform: Instagram
 profiles:
   - username: "ahmedelmousaoui"

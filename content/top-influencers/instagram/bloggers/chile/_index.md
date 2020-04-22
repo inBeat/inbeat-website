@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Chile In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bloggers Instagram influencers in Chile in 2020. Most popular hashtags: #chile #nyxcosmeticschile #molaviajeros #blogger.
 platform: Instagram
 profiles:
   - username: "wedont_like"

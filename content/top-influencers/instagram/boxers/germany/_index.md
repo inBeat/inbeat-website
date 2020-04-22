@@ -1,6 +1,7 @@
 ---
 title: Top 10 Boxers Instagram Influencers In Germany In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top boxers Instagram influencers in Germany in 2020. Most popular hashtags: #boxing #hamburg #fitness #boxer.
 platform: Instagram
 profiles:
   - username: "yannickbandora"

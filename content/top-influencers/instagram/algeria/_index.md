@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Algeria In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Algeria in 2020. Most popular hashtags: #algerie #dz #stayathome #oran.
 platform: Instagram
 profiles:
   - username: "djoher_draws"

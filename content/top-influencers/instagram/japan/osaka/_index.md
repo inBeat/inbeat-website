@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Osaka In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Osaka in 2020. Most popular hashtags: #japan #ootd #fashion #code.
 platform: Instagram
 profiles:
   - username: "erina____n"

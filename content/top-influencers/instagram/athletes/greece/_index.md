@@ -1,6 +1,7 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Greece In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top athletes Instagram influencers in Greece in 2020. Most popular hashtags: #greece #training #athlete #fitnessmotivation.
 platform: Instagram
 profiles:
   - username: "sashi1991"

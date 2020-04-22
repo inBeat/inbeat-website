@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bmx Instagram Influencers In Germany In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bmx Instagram influencers in Germany in 2020. Most popular hashtags: #bmx #bmxlife #ridebmx #socialdistancing.
 platform: Instagram
 profiles:
   - username: "nadja.pries"

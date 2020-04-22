@@ -1,6 +1,7 @@
 ---
 title: Top 10 Athletes Instagram Influencers In France In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top athletes Instagram influencers in France in 2020. Most popular hashtags: #fitfrenchies #ad #fitfrench #ootdnl.
 platform: Instagram
 profiles:
   - username: "mehran_beirami"

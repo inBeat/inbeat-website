@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Kyoto In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Kyoto in 2020. Most popular hashtags: #ootd #japan #pr #daily.
 platform: Instagram
 profiles:
   - username: "buritei"

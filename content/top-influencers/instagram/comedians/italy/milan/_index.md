@@ -1,6 +1,7 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Milan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top comedians Instagram influencers in Milan in 2020. Most popular hashtags: #leiene #milano #iorestoacasa #germanolanzoni.
 platform: Instagram
 profiles:
   - username: "lanzonigermano"

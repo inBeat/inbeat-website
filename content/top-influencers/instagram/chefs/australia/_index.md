@@ -1,6 +1,7 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Australia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top chefs Instagram influencers in Australia in 2020. Most popular hashtags: #chef #australia #brisbane #newzealand.
 platform: Instagram
 profiles:
   - username: "tomaszpachura"

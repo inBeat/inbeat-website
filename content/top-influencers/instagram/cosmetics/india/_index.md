@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In India In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in India in 2020. Most popular hashtags: #lockedupwithsunny #love #mumbaifashionblogger #shein.
 platform: Instagram
 profiles:
   - username: "shaffafsp"

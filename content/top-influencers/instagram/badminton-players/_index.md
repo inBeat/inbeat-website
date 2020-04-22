@@ -1,6 +1,7 @@
 ---
 title: Top 10 Badminton Players Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top badminton players Instagram influencers in 2020. Most popular hashtags: #badminton #badmintonlovers #repost #teamindia.
 platform: Instagram
 profiles:
   - username: "fajaralfian95"

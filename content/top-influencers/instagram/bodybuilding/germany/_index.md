@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Germany In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bodybuilding Instagram influencers in Germany in 2020. Most popular hashtags: #bodybuilding #fitness #workout #girlswholift.
 platform: Instagram
 profiles:
   - username: "kukla_lina"

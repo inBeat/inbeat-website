@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Canada In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bodybuilding Instagram influencers in Canada in 2020. Most popular hashtags: #bodybuilding #muscle #fitnessmotivation #fitnessmodel.
 platform: Instagram
 profiles:
   - username: "kevjbradley"

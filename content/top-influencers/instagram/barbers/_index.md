@@ -1,6 +1,7 @@
 ---
 title: Top 10 Barbers Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top barbers Instagram influencers in 2020. Most popular hashtags: #barberlife #barbershop #thebarberpost #barber.
 platform: Instagram
 profiles:
   - username: "mani.rad46"

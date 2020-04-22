@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Brazil In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cooking Instagram influencers in Brazil in 2020. Most popular hashtags: #quarentena #ficaemcasa #beauty #fiqueemcasa.
 platform: Instagram
 profiles:
   - username: "gabymenotti"

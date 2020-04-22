@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Australia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cyclists Instagram influencers in Australia in 2020. Most popular hashtags: #tourdownunder #thewolfpack #cycling #ridetogether.
 platform: Instagram
 profiles:
   - username: "jasperphilipsen"

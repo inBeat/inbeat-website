@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Australia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in Australia in 2020. Most popular hashtags: #selfie #smile #voguedentalstudios #makeup.
 platform: Instagram
 profiles:
   - username: "misszedd"

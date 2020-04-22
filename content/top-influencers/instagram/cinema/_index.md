@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cinema Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cinema Instagram influencers in 2020. Most popular hashtags: #sidnaaz #stayhome #cinematographer #staysafe.
 platform: Instagram
 profiles:
   - username: "nimbus_independent"

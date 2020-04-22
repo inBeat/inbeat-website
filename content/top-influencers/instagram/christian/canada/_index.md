@@ -1,6 +1,7 @@
 ---
 title: Top 10 Christian Instagram Influencers In Canada In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top christian Instagram influencers in Canada in 2020. Most popular hashtags: #hamilton #reflectionjunkiez #stayhome #love.
 platform: Instagram
 profiles:
   - username: "curtismason"

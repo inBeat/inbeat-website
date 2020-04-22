@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cooking Instagram Influencers In France In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cooking Instagram influencers in France in 2020. Most popular hashtags: #cuisinonsencouleurschallenge #france #vegan #bread.
 platform: Instagram
 profiles:
   - username: "paula_roide"

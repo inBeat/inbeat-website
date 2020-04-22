@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Italy In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Italy in 2020. Most popular hashtags: #italy #sunset #architecture #nature.
 platform: Instagram
 profiles:
   - username: "archepidemic26"

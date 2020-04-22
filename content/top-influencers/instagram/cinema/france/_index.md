@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cinema Instagram Influencers In France In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cinema Instagram influencers in France in 2020. Most popular hashtags: #paris #love #actor #cinema.
 platform: Instagram
 profiles:
   - username: "soufiane_guerrab"

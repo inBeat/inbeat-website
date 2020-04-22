@@ -1,6 +1,7 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Chile In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top comedians Instagram influencers in Chile in 2020. Most popular hashtags: #cuarentena #quedateencasa #chile #tbt.
 platform: Instagram
 profiles:
   - username: "gloriabenavides_oficial"

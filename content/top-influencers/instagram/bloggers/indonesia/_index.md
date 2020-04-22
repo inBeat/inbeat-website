@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Indonesia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bloggers Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #bali #indonesia #oni.
 platform: Instagram
 profiles:
   - username: "thewayfaress"

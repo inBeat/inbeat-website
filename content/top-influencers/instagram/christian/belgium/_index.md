@@ -1,6 +1,7 @@
 ---
 title: Top 10 Christian Instagram Influencers In Belgium In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top christian Instagram influencers in Belgium in 2020. Most popular hashtags: #happy #nature #photooftheday #instagood.
 platform: Instagram
 profiles:
   - username: "instafraghead"

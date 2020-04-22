@@ -1,6 +1,7 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Greece In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top crossfit Instagram influencers in Greece in 2020. Most popular hashtags: #greece #athens #fitness #training.
 platform: Instagram
 profiles:
   - username: "ismini_fab"

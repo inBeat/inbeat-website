@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Croatia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Croatia in 2020. Most popular hashtags: #croatia #hrvatska #love #osijek.
 platform: Instagram
 profiles:
   - username: "hrvoje_milic19"

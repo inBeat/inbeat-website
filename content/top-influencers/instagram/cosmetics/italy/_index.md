@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Italy In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in Italy in 2020. Most popular hashtags: #makeup #beauty #maccosmeticsitalia #maccosmetics.
 platform: Instagram
 profiles:
   - username: "andreabzzz"

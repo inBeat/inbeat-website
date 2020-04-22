@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Japan In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cyclists Instagram influencers in Japan in 2020. Most popular hashtags: #cyclist #roadbike #cycling #cherryblossom.
 platform: Instagram
 profiles:
   - username: "riyuponpon"

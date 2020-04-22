@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Austria In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in Austria in 2020. Most popular hashtags: #makeup #stayhome #cosmetics #fashion.
 platform: Instagram
 profiles:
   - username: "terezabudkova"

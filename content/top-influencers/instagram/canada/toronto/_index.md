@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Toronto In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Toronto in 2020. Most popular hashtags: #ad #toronto #blogto #moodygrams.
 platform: Instagram
 profiles:
   - username: "tiannavera"

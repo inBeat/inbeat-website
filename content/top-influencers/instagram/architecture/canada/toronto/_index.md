@@ -1,6 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Toronto In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top architecture Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #blogto #architecture #torontoclx.
 platform: Instagram
 profiles:
   - username: "irisy_8"

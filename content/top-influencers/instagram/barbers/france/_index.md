@@ -1,6 +1,7 @@
 ---
 title: Top 10 Barbers Instagram Influencers In France In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top barbers Instagram influencers in France in 2020. Most popular hashtags: #barber #barbershop #paris #barberlife.
 platform: Instagram
 profiles:
   - username: "simo_off___"

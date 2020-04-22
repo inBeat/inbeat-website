@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Sydney In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Sydney in 2020. Most popular hashtags: #sydney #australia #beauty #hudabeauty.
 platform: Instagram
 profiles:
   - username: "fatoscelikmakeup"

@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Kuwait In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Kuwait in 2020. Most popular hashtags: #hudabeauty # #kkwbeauty #bellacontactlenses.
 platform: Instagram
 profiles:
   - username: "mohamad1hadi"

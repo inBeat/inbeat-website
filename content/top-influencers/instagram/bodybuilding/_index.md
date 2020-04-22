@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bodybuilding Instagram influencers in 2020. Most popular hashtags: #training #motivation #workout #bodybuilding.
 platform: Instagram
 profiles:
   - username: "misscharlyyy"

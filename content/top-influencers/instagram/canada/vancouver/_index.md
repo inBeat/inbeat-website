@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Vancouver In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Vancouver in 2020. Most popular hashtags: #vancouver #canada #dailyhivestyle #discoverunder5k.
 platform: Instagram
 profiles:
   - username: "h.yojeong"

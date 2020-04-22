@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Italy In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Italy in 2020. Most popular hashtags: #makeuptutorial #nablacosmetics #prayforitaly #makeupideas.
 platform: Instagram
 profiles:
   - username: "siledona"

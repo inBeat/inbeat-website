@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Melbourne In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Melbourne in 2020. Most popular hashtags: #stayhome #melbourne #australia #meccamoment.
 platform: Instagram
 profiles:
   - username: "elleray_"

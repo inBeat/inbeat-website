@@ -1,6 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Sydney In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top cosmetics Instagram influencers in Sydney in 2020. Most popular hashtags: #makeup #love #makeupartist #fashion.
 platform: Instagram
 profiles:
   - username: "barbara_nogo"

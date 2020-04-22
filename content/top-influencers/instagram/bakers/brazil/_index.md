@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Brazil In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bakers Instagram influencers in Brazil in 2020. Most popular hashtags: #cake #chocolate #baker #bakery.
 platform: Instagram
 profiles:
   - username: "gilklan"

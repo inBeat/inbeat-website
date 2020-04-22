@@ -1,6 +1,7 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Indonesia In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top bakers Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #oppakuliner #dessert #bakmi.
 platform: Instagram
 profiles:
   - username: "ameliamci6"

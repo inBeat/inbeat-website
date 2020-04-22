@@ -1,6 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Greece In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top Instagram influencers in Greece in 2020. Most popular hashtags: #giveaway #photooftheday #diagonismos #giveaways.
 platform: Instagram
 profiles:
   - username: "ster_eleni"

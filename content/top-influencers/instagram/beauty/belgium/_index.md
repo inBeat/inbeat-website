@@ -1,6 +1,7 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Belgium In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top beauty Instagram influencers in Belgium in 2020. Most popular hashtags: #antwerp #ootd #belgianblogger #antwerpen.
 platform: Instagram
 profiles:
   - username: "tatiana.sassoye"

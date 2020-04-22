@@ -1,6 +1,7 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Germany In 2020
-description: Identify the most popular Instagram accounts on inBeat.
+description: >-
+  Find top comedians Instagram influencers in Germany in 2020. Most popular hashtags: #comedy #standup #berlin #standupcomedy.
 platform: Instagram
 profiles:
   - username: "younes_jones"
