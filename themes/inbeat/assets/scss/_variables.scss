@@ -1,19 +1,24 @@
-$laptop: 1400px;
-$tablet: 1024px;
-$bigphone: 800px;
-$phone: 680px;
-$max-width: 1024px;
+// Colors
+$dark: #141514;
+$dark_sub: rgba(0, 0, 0, 0.5);
+$secondary: #EE3465;
+$neutral: #DFE4EA;
+$placeholder: #EFF2F6;
+$white: #FFFFFF;
+$red_sub: #FFE9F0;
+$yellow_sub: #FAECDB;
+$green_sub: #D6EBE4;
 
-$pfont: 'Lato', Helvetica, sans-serif;
-$hfont: 'DM Sans', Helvetica, sans-serif;
-$articlefont: 'Lato', Helvetica, sans-serif;
+// Widths
+$xl: 100em; // equivalent to 1600px with default font-size of 16px
+$lg: 75em; // equivalent to 1200px. From Flexboxgrid.
+$md: 64em; // equivalent to 1024px. From Flexboxgrid.
+$sm: 48em; // equivalent to 768px. From Flexboxgrid.
+$xs: 25em; // equivalent to 400px
 
-$purple: #6969F2;
-$royalblue: #2E5BFF;
-$blue: #011285;
-$darkblue: #000E4A;
-$gray: #CBCBD9;
-$darkgray: #444444;
-$green: #37CA8E;
+// Fonts
+$font: "neue-haas-unica", sans-serif;
+$weight_bold: 600;
 
+// Utils
 $br: 4px;

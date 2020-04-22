@@ -1,20 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{$.Lang}}">
-	{{- $.Scratch.Add "homePage" ("/" | absLangURL) -}}
-	{{- $.Scratch.Add "articlesPage" ("articles/" | absLangURL) -}}
+<html lang="{{- $.Lang -}}">
 	{{ partial "site-head.html" . }}
 	<body>
 		{{ `<!--[if lt IE 9]>
 		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
 	<![endif]-->` | safeHTML }}
-		{{ partial "header/google-tag-manager.html" . }}
+		{{ partial "header/gtm.html" . }}
 		{{ partial "site-header.html" . }}
 		{{ block "main" . }}
 		{{ end }}
 		{{ partial "site-footer.html" . }}
-		{{ partial "site/popup.html" . }}
-		<!-- {{ partial "site/modal-login-signup.html" . }} -->
-		<!-- {{ partial "site/modal-animation.html" . }} -->
-		{{ partial "footer/site-scripts.html" . }}
+		{{ partial "footer/scripts.html" . }}
 	</body>
 </html>
