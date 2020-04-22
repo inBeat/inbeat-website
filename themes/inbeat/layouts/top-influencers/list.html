@@ -1,0 +1,71 @@
+{{ define "main" }}
+<section class="section--page-top play-top profiles-container">
+    <h1>{{ .Params.Title }}</h1>
+    <p>Identify the most popular {{ .Params.platform }} accounts on inBeat.</p>
+    <a href="https://app.inbeat.co/get-started" class="btn" target="_blank">Find more influencers</a>
+</section>
+<section class="profiles-top profiles-container">
+    {{- range $i, $e := .Params.profiles -}}
+    <div class="top-row ctn">
+        <div class="col-1">
+            <span>{{- add $i 1 -}}</span>
+        </div>
+        <div class="col-2">
+            <img src="{{- $e.avatar -}}" alt="{{- $e.username -}}">
+        </div>
+        <div class="col-3">
+            <div class="top-row">
+                <div class="col-4">
+                    <h6>@{{- $e.username -}}</h6>
+                    <span>{{- $e.fullname -}}</span>
+                    {{- if not (eq $e.location "") -}}
+                    <p><img src="/img/location.svg" alt="location pin">{{- $e.location -}}</p>
+                    {{- end -}}
+                </div>
+                <div class="col-5 stats">
+                    {{- $followers := $e.followers -}}
+                    {{- if ge $followers 1000000 -}}
+                    <p>{{- div (float (div $followers 100000)) 10 -}}M</p>
+                    {{- else if ge $followers 1000 -}}
+                    <p>{{- div (float (div $followers 100)) 10 -}}K</p>
+                    {{- else -}}
+                    <p>{{- $followers -}}</p>
+                    {{- end -}}
+                    <span>followers</span>
+                </div>
+                <div class="col-5 stats">
+                    <p>{{- div (float (div $e.engagement 10)) 10 -}} %</p>
+                    <span>engagement</span>
+                </div>
+                <div class="col-5 stats">
+                    <p>{{- div (float (int (mul $e.commentsToLikes 10000))) 10 -}}</p>
+                    <span>comments per 1000 likes</span>
+                </div>
+                {{- if not (eq $e.hashtags "") -}}
+                <div class="col-6">
+                    <span><strong>Most used hashtags:</strong>{{- $e.hashtags -}}</span>
+                </div>
+                {{- end -}}
+            </div>
+        </div>
+    </div>
+    {{- end -}}
+</section>
+{{- if isset .Params "countries" -}}
+{{- if gt (len .Params.countries) 0 -}}
+<section class="play-top-list profiles-container">
+    <h3>Discover Influencers by Countries</h3>
+    {{- partial "site/toplist.html" (dict "context" . "items" .Params.countries) -}}
+</section>
+{{- end -}}
+{{- end -}}
+
+{{- if isset .Params "cities" -}}
+{{- if gt (len .Params.cities) 0 -}}
+<section class="play-top-list profiles-container">
+    <h3>Discover Influencers by Cities</h3>
+    {{- partial "site/toplist.html" (dict "context" . "items" .Params.cities) -}}
+</section>
+{{- end -}}
+{{- end -}}
+{{ end }}

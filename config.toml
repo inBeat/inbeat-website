@@ -9,7 +9,7 @@ config = "config.toml"
 contentdir = "content"
 disableKinds = ["RSS"]
 # Create an array of files you don't want hugo to build
-ignoreFiles = []
+ignoreFiles = [".+/assets/scss/.+"]
 # Enable Logging
 log = false
 preserveTaxonomyNames = true

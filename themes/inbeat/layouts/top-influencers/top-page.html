@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section class="section--page-top play-top-list profiles-container">
+    {{- range .Params.platforms -}}
+    {{- $platform := .name -}}
+    <h3>Discover {{ $platform }} Influencers by Niche</h3>
+    {{- partial "site/toplist.html" (dict "context" . "items" .niches) -}}
+    <h3>Discover {{ $platform }} Influencers by Country</h3>
+    {{- partial "site/toplist.html" (dict "context" . "items" .countries) -}}
+    <h3>Discover {{ $platform }} Influencers by City</h3>
+    {{- partial "site/toplist.html" (dict "context" . "items" .cities) -}}
+    {{- end -}}
+</section>
+{{ end }}
