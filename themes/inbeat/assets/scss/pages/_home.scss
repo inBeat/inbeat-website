@@ -14,6 +14,7 @@
     }
     .cta {
         a {
+            width: 13.75rem;
             &:first-child {
                 margin-right: 20px;
             }
@@ -36,6 +37,7 @@
 .home-features {
     padding: 58px 51px;
     box-sizing: border-box;
+    outline: none !important;
     &#search {
         background-color: $yellow_sub;
     }
@@ -83,6 +85,60 @@
         width: 4.6875rem;
         height: 4.6875rem;
         margin-bottom: 20px;
+    }
+}
+
+#what-we-do {
+    .col1 {
+        position: relative;
+        .bottom-text {
+            position: absolute;
+            left: 1.5rem;
+            right: 1.5rem;
+            bottom: 0;
+            p {
+                color: $dark_sub;
+                &:last-child {
+                    margin: 0;
+                }
+            }
+        }
+    }
+    .col2 {
+        .color-col {
+            background-color: $green_sub;
+        }
+    }
+    .col3 {
+        .color-col {
+            background-color: $red_sub;
+        }
+    }
+    .color-col {
+        padding: 45px;
+        height: 100%;
+        box-sizing: border-box;
+        h3 {
+            position: relative;
+            margin-bottom: 6rem;
+            &:after {
+                content: '';
+                width: 60px;
+                position: absolute;
+                bottom: -3rem;
+                left: 0;
+                border: 1px solid black;
+            }
+        }
+        p {
+            margin-left: 20px;
+            position: relative;
+            svg {
+                position: absolute;
+                left: -22px;
+                top: 0.5rem;
+            }
+        }
     }
 }
 

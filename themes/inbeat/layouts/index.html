@@ -4,10 +4,10 @@
     <h1>{{- .title -}}</h1>
     <p>{{- .subtitle | markdownify -}}</p>
     <div class="cta">
-        <a href="{{- .cta.link -}}" class="btn btn-lg" title="Sign up">
+        <a href="{{- .cta.link -}}" class="btn btn-lg btn-crazy-hover" title="Sign up">
             {{- htmlUnescape .cta.text | markdownify -}}
         </a>
-        <a href="#features" title="How it works" class="btn btn-lg btn-white">
+        <a href="#search" title="How it works" class="btn btn-lg btn-white scroll">
             See how it works
         </a>
     </div>
@@ -54,4 +54,45 @@
         {{- end -}}
     </div>
 </section>
+
+{{- with .Params.whatwedo -}}
+<section class="container m-tb-160" id="what-we-do">
+    <div class="row large-gutter">
+        <div class="col-lg-4 col1">
+            <h2>{{- .col1.title | markdownify -}}</h2>
+            <div class="bottom-text">
+                <p>{{- .col1.text1 | markdownify -}}</p>
+                <p>{{- .col1.text2 | markdownify -}}</p>
+            </div>
+        </div>
+        <div class="col-lg-4 col2">
+            <div class="color-col">
+                <h3>{{- .col2.title -}}</h3>
+                {{- range .col2.features -}}
+                <p>
+                    <svg width="13" height="14" viewBox="0 0 13 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 7.5L5 11.5L12 1" stroke="black" stroke-width="2"/>
+                    </svg>
+                    {{- .text | markdownify -}}
+                </p>
+                {{- end -}}
+            </div>
+        </div>
+        <div class="col-lg-4 col3">
+            <div class="color-col">
+                <h3>{{- .col3.title -}}</h3>  
+                {{- range .col3.features -}}
+                <p>
+                    <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 1L12 12" stroke="black" stroke-width="2"/>
+                        <path d="M1 12L12 1" stroke="black" stroke-width="2"/>
+                    </svg>
+                    {{- .text | markdownify -}}
+                </p>
+                {{- end -}}
+            </div>
+        </div>
+    </div>
+</section>
+{{- end -}}
 {{- end -}}

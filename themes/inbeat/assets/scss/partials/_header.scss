@@ -35,12 +35,14 @@
             float: right;
         }
     }
-    
     li {
         float: left;
         padding-right: 3rem;
         &:last-child {
             padding-right: 0;
+        }
+        &.cta {
+            line-height: 2.375rem;
         }
         a:not(.btn) {
             display: block;
@@ -80,6 +82,12 @@
 }
 
 #header-container {
+    // position: fixed;
+    // left: 50%;
+    // transform: translateX(-50%);
+    // top: 0;
+    // background: white;
+    // z-index: 10;
     &.with-menu {
         #menu-overlay {
             display: block;
