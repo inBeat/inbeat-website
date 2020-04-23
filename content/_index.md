@@ -4,9 +4,9 @@ description: >-
   Find qualified influencers that meet your standards on Instagram and TikTok.
   Use our influencer database to step up your influencer marketing.
 hero:
-  title: Discover influencers
+  title: Discover TikTok & Instagram influencers
   subtitle: >-
-    A search engine to find <span>Instagram & TikTok</span> Micro-Nano influencers in seconds
+    A search engine to find Micro-Nano influencers in seconds
   cta:
     text: >-
       <span>Try it out</span> &#8212 it's free

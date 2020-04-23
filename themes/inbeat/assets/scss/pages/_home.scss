@@ -3,21 +3,20 @@
     padding-bottom: 0.5rem;
     text-align: center;
     @include breakpoint(sm) {
+        padding-top: 10rem;
+        padding-bottom: 5rem;
+    }
+    @include breakpoint(md) {
         padding-top: calc(50vh - 13rem);
         padding-bottom: calc(50vh - 16rem);
     }
-    p {
+    h4 {
         width: 100%;
         margin-bottom: 4rem;
         @include breakpoint(sm) {
-            font-size: 1.625rem;
-            line-height: 2.375rem;
             max-width: 34rem;
             margin: auto;
             margin-bottom: 5rem;
-        }
-        span {
-            font-weight: bold;
         }
     }
     .cta {
@@ -36,7 +35,7 @@
                 }
             }
             &#hero-cta {
-                @include breakpoint(sm-only) {
+                @include breakpoint(sm-down) {
                     color: black;
                     border: none;
                     animation: crazy 2s infinite;
@@ -53,8 +52,11 @@
     .row {
         margin: 0;
     }
+    @include breakpoint(md-down) {
+        max-width: 34rem;
+    }
     .icons {
-        @include breakpoint(sm-only) {
+        @include breakpoint(md-down) {
             flex-basis:33.33333%;
             &:nth-child(3n + 2) {
                 text-align: center;
@@ -63,9 +65,13 @@
                 text-align: right;
             }
             svg {
+                margin-bottom: 1rem;
+            }
+        }
+        @include breakpoint(sm-down) {
+            svg {
                 max-width: 70%;
                 max-height: 2.5rem;
-                margin-bottom: 1rem;
             }
         }
     }
@@ -84,7 +90,7 @@
     @include breakpoint(sm) {
         padding: 58px 51px;
     }
-    @include breakpoint(sm-only) {
+    @include breakpoint(sm-down) {
         margin: 0 !important;
     }
     &#search {
@@ -233,18 +239,15 @@
         padding-top: 2rem;
         padding-bottom: 2rem;
     }
-    p.description {
-        margin-bottom: 5rem;
+    h4 {
+        margin-bottom: 3rem;
         @include breakpoint(md) {
             margin-bottom: 3.5rem;
         }
     }
     p.signin {
-        margin-top: 3rem;
+        margin-top: 2.5rem;
         font-size: 0.6875rem;
-        @include breakpoint(md) {
-            margin-top: 2rem;
-        }
         a {
             font-size: inherit;
             text-decoration: underline;

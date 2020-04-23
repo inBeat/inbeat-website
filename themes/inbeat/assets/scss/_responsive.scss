@@ -9,9 +9,11 @@
         @media screen and (min-width: $lg) { @content; }
     } @else if $value == 'xl' {
         @media screen and (min-width: $xl) { @content; }        
-    } @else if $value == 'sm-only' {
+    } @else if $value == 'sm-down' {
         @media screen and (max-width: ($sm - 0.067em)) { @content; }        
-    } @else {
+    } @else if $value == 'md-down' {
+        @media screen and (max-width: ($md - 0.067em)) { @content; }        
+    }@else {
         @media screen and (min-width: $value) { @content; }
     }
 }

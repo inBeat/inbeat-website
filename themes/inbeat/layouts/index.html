@@ -2,7 +2,7 @@
 {{- with .Params.hero -}}
 <section class="container mobile-adjusted" id="hero">
     <h1>{{- .title -}}</h1>
-    <p>{{- .subtitle | markdownify -}}</p>
+    <h4>{{- .subtitle | markdownify -}}</h4>
     <div class="cta">
         <a href="{{- .cta.link -}}" class="btn btn-lg btn-crazy-hover" title="Sign up" id="hero-cta">
             {{- htmlUnescape .cta.text | markdownify -}}
@@ -106,7 +106,7 @@
     <div class="row large-gutter">
         <div class="col-xs-12 col-md-4 col1">
             <h2>{{- .title -}}</h2>
-            <p class="description">{{- .description -}}</p>
+            <h4>{{- .description -}}</h4>
             <a href="https://app.inbeat.co/get-started" title="Sign up" class="btn btn-crazy btn-md">
                 <span>Try it for free</span> &#8212 No credit card
             </a>
