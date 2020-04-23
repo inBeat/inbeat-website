@@ -1,10 +1,10 @@
 {{- define "main" -}}
 {{- with .Params.hero -}}
-<section class="container" id="hero">
+<section class="container mobile-adjusted" id="hero">
     <h1>{{- .title -}}</h1>
     <p>{{- .subtitle | markdownify -}}</p>
     <div class="cta">
-        <a href="{{- .cta.link -}}" class="btn btn-lg btn-crazy-hover" title="Sign up">
+        <a href="{{- .cta.link -}}" class="btn btn-lg btn-crazy-hover" title="Sign up" id="hero-cta">
             {{- htmlUnescape .cta.text | markdownify -}}
         </a>
         <a href="#search" title="How it works" class="btn btn-lg btn-white scroll">
@@ -14,39 +14,43 @@
 </section>
 {{- end -}}
 
-<section class="container m-tb-80" id="clients">
+<section class="container m-tb-80 mobile-adjusted" id="clients">
     <div class="row between-xs middle-xs">
-        {{- partial "icons/leadlabs.html" -}}
-        {{- partial "icons/moose.html" -}}
-        {{- partial "icons/billygoat.html" -}}
-        {{- partial "icons/loop.html" -}}
-        {{- partial "icons/nissan.html" -}}
-        {{- partial "icons/bedtime.html" -}}
+        <div class="icons">{{- partial "icons/billygoat.html" -}}</div>
+        <div class="icons">{{- partial "icons/moose.html" -}}</div>
+        <div class="icons">{{- partial "icons/leadlabs.html" -}}</div>
+        <div class="icons">{{- partial "icons/nissan.html" -}}</div>
+        <div class="icons">{{- partial "icons/loop.html" -}}</div>
+        <div class="icons">{{- partial "icons/bedtime.html" -}}</div>
     </div>
 </section>
 
 {{- range .Params.features -}}
 <section class="container m-tb-80 home-features" id="{{- .id -}}">
     <div class="row">
-        <div class="col-lg-4 left-col">
+        <div class="col-xs-12 col-md-4 left-col">
             <h2>{{- .title -}}</h2>
             <p>{{- .text | markdownify -}}</p>
-            <a href="{{- .link -}}" title="Learn More" class="learn-more">Learn more &#8594;</a>
+            <a href="{{- .link -}}" title="Learn More" class="learn-more hide-md">Learn more &#8594;</a>
             {{- with .question -}}
-            <a href="{{- .link -}}" title="{{- .text -}}" class="question">{{- .text -}}</a>
+            <a href="{{- .link -}}" title="{{- .text -}}" class="question hide-md">{{- .text -}}</a>
             {{- end -}}
         </div>
-        <div class="col-lg-7 col-lg-offset-1">
+        <div class="col-xs-12 col-md-7 col-md-offset-1">
             <div class="icon-ctn" id="{{- .animation -}}"></div>
+            <a href="{{- .link -}}" title="Learn More" class="learn-more hide-md-up">Learn more &#8594;</a>
+            {{- with .question -}}
+            <a href="{{- .link -}}" title="{{- .text -}}" class="question hide-md-up">{{- .text -}}</a>
+            {{- end -}}
         </div>
     </div>
 </section>
 {{- end -}}
 
-<section class="container m-tb-160" id="extras">
+<section class="container m-tb-160 mobile-adjusted" id="extras">
     <div class="row large-gutter">
         {{- range .Params.extras -}}
-        <div class="col-lg-4">
+        <div class="col-xs-12 col-lg-4">
             <div class="icon-ctn" id="{{- .icon -}}"></div>
             <h3>{{- .title -}}</h3>
             <p>{{- .text -}}</p>
@@ -58,18 +62,19 @@
 {{- with .Params.whatwedo -}}
 <section class="container m-tb-160" id="what-we-do">
     <div class="row large-gutter">
-        <div class="col-lg-4 col1">
+        <div class="col-xs-12 col-lg-4 col1 hide-md">
             <h2>{{- .col1.title | markdownify -}}</h2>
             <div class="bottom-text">
                 <p>{{- .col1.text1 | markdownify -}}</p>
                 <p>{{- .col1.text2 | markdownify -}}</p>
             </div>
         </div>
-        <div class="col-lg-4 col2">
+        <div class="col-xs-12 col-sm-6 col-lg-4 col2">
             <div class="color-col">
+                <p class="small hide-md-up">Too long; didn't read</p>
                 <h3>{{- .col2.title -}}</h3>
                 {{- range .col2.features -}}
-                <p>
+                <p class="features">
                     <svg width="13" height="14" viewBox="0 0 13 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M1 7.5L5 11.5L12 1" stroke="black" stroke-width="2"/>
                     </svg>
@@ -78,11 +83,11 @@
                 {{- end -}}
             </div>
         </div>
-        <div class="col-lg-4 col3">
+        <div class="col-xs-12 col-sm-6 col-lg-4 col3">
             <div class="color-col">
                 <h3>{{- .col3.title -}}</h3>  
                 {{- range .col3.features -}}
-                <p>
+                <p class="features">
                     <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M1 1L12 12" stroke="black" stroke-width="2"/>
                         <path d="M1 12L12 1" stroke="black" stroke-width="2"/>

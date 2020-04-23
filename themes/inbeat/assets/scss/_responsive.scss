@@ -1,15 +1,17 @@
 @mixin breakpoint($value) {
     @if $value == 'xs' {
-        @media screen and (min-width : $xs) { @content; }
+        @media screen and (min-width: $xs) { @content; }
     } @else if $value == 'sm' {
-        @media screen and (min-width : $sm) { @content; }
+        @media screen and (min-width: $sm) { @content; }
     } @else if $value == 'md' {
-        @media screen and (min-width : $md) { @content; }
+        @media screen and (min-width: $md) { @content; }
     } @else if $value == 'lg' {
-        @media screen and (min-width : $lg) { @content; }
+        @media screen and (min-width: $lg) { @content; }
     } @else if $value == 'xl' {
-        @media screen and (min-width : $xl) { @content; }        
+        @media screen and (min-width: $xl) { @content; }        
+    } @else if $value == 'sm-only' {
+        @media screen and (max-width: ($sm - 0.067em)) { @content; }        
     } @else {
-        @media screen and (min-width : $value) { @content; }
+        @media screen and (min-width: $value) { @content; }
     }
 }

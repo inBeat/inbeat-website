@@ -2,11 +2,16 @@
 body {
     overflow-x: hidden;
     color: $dark;
+    margin: 0;
 }
 h1 {
-    font-weight: 600;
+    font-weight: 500;
     margin-top: 0;
-    @include breakpoint(lg) {
+    font-size: 3.5rem;
+    line-height: 3.875rem;
+    letter-spacing: -0.09rem;
+    @include breakpoint(sm) {
+        font-weight: 600;
         font-size: 5rem;
         line-height: 5.625rem;
     }
@@ -15,7 +20,10 @@ h1 {
 h2 {
     font-weight: 500;
     margin-top: 0;
-    @include breakpoint(lg) {
+    font-size: 3rem;
+    line-height: 3.3rem;
+    letter-spacing: -0.09rem;
+    @include breakpoint(sm) {
         font-size: 3.5rem;
         line-height: 3.875rem;
     }
@@ -24,18 +32,14 @@ h2 {
 h3 {
     font-weight: 500;
     margin-top: 0;
-    @include breakpoint(lg) {
-        font-size: 1.875rem;
-        line-height: 2.5rem;
-    }
+    font-size: 1.875rem;
+    line-height: 2.5rem;
 }
 
 h4 {
     font-weight: 500;
-    @include breakpoint(lg) {
-        font-size: 1.25rem;
-        line-height: 1.75rem;
-    }
+    font-size: 1.25rem;
+    line-height: 1.75rem;
 }
 
 p {
@@ -147,10 +151,14 @@ a.btn {
 }
 
 // Layout
-.container {
-    max-width: calc(100% - 1rem);
+.container.mobile-adjusted {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    @include breakpoint(sm) {
+        padding-left: 0;
+        padding-right: 0;
+    }
 }
-
 .row.large-gutter {
     @include breakpoint(md) {
         margin-right: -1.5rem;
@@ -187,7 +195,7 @@ a.btn {
     }
 }
 
-.hide-xs {
+.hide-sm {
     display: none !important;
     @include breakpoint(sm) {
         display: block !important;
@@ -196,6 +204,19 @@ a.btn {
 
 .hide-sm-up {
     @include breakpoint(sm) {
+        display: none !important;
+    }
+}
+
+.hide-md {
+    display: none !important;
+    @include breakpoint(md) {
+        display: block !important;
+    }
+}
+
+.hide-md-up {
+    @include breakpoint(md) {
         display: none !important;
     }
 }
@@ -218,11 +239,19 @@ a.btn {
 }
 
 .m-tb-80 {
-    margin-top: 80px;
-    margin-bottom: 80px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    @include breakpoint(lg) {
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
 }
 
 .m-tb-160 {
-    margin-top: 160px;
-    margin-bottom: 160px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    @include breakpoint(lg) {
+        margin-top: 160px;
+        margin-bottom: 160px;
+    }
 }

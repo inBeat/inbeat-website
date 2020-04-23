@@ -7,14 +7,14 @@
                 </svg>
             </a>
         </div>
-        <div class="col-sm-7 hide-xs">
+        <div class="col-xs-7 hide-sm">
             <ul>
                 <li><a href="{{- $.Site.BaseURL -}}/features" title="Features">Features</a></li>
                 <li><a href="{{- $.Site.BaseURL -}}/pricing" title="Pricing">Pricing</a></li>
                 <li><a href="{{- $.Site.BaseURL -}}/ressources" title="Ressources">Ressources</a></li>
             </ul>
         </div>
-        <div class="col-sm-4 hide-xs">
+        <div class="col-xs-4 hide-sm">
             <ul class="right">
                 <li><a href="https://app.inbeat.co" title="Sign in">Sign in</a></li>
                 <li class="cta">
@@ -30,12 +30,26 @@
             </button>
         </div>
     </div>
-    <div id="menu-overlay">
-        <ul>
-            <li><a href="{{- $.Site.BaseURL -}}" title="Home">Home</a></li>
-            <li><a href="{{- $.Site.BaseURL -}}/features" title="Features">Features</a></li>
-            <li><a href="{{- $.Site.BaseURL -}}/pricing" title="Pricing">Pricing</a></li>
-            <li><a href="{{- $.Site.BaseURL -}}/ressources" title="Ressources">Ressources</a></li>
-        </ul>
+</div>
+<div id="menu-overlay">
+    <ul>
+        <li><a href="{{- $.Site.BaseURL -}}" title="Home">Home</a></li>
+        <li class="has-submenu">
+            <a href="{{- $.Site.BaseURL -}}/features" title="Features">Features</a>
+        </li>
+        <li class="is-submenu">
+            <a href="{{- $.Site.BaseURL -}}/search" title="Search">Search</a>
+        </li>
+        <li class="is-submenu">
+            <a href="{{- $.Site.BaseURL -}}/export" title="Export">Export</a>
+        </li>
+        <li><a href="{{- $.Site.BaseURL -}}/pricing" title="Pricing">Pricing</a></li>
+        <li><a href="{{- $.Site.BaseURL -}}/ressources" title="Ressources">Ressources</a></li>
+    </ul>
+    <div class="cta">
+        <a class="btn btn-crazy btn-md" href="https://app.inbeat.co/get-started">
+            <span>Try it out</span> &#8212 it's free
+        </a>
+        <a class="btn btn-md" href="https://app.inbeat.co"><span>Sign in</span></a>
     </div>
 </div>

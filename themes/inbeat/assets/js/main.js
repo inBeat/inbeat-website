@@ -1,25 +1,27 @@
 // Open the menu overlay on click
 var menuBtn = document.getElementById('menu-icon');
-var headerContainer = document.getElementById('header-container');
 menuBtn.addEventListener('click', function(e) {
     if (!menuBtn.classList.contains('is-active')) {
         menuBtn.classList.add('is-active');
-        headerContainer.classList.add('with-menu');
+        document.body.classList.add('with-menu');
     } else {
         menuBtn.classList.remove('is-active');
-        headerContainer.classList.remove('with-menu');
+        document.body.classList.remove('with-menu');
     }
 });
 
-// Icons in the features section
-var searchAnim = document.getElementById('search-animation');
-var anim = bodymovin.loadAnimation({
-    container: searchAnim, // Required
-    path: '/animations/placeholder.json', // Required
-    renderer: 'svg', // Required
-    loop: true, // Optional
-    autoplay: true, // Optional
-    name: 'Search', // Name for future reference. Optional.
+// Animations in the features section
+var homeAnimations = ['search-animation', 'pick-animation', 'export-animation'];
+homeAnimations.forEach(function(iconName) {
+    var ctn = document.getElementById(iconName);
+    bodymovin.loadAnimation({
+        container: ctn, // Required
+        path: '/animations/placeholder.json', // Required
+        renderer: 'svg', // Required
+        loop: true, // Optional
+        autoplay: true, // Optional
+        name: iconName, // Name for future reference. Optional.
+    });
 }); 
 
 // Icons in the extras section
