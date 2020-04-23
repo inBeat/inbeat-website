@@ -1,0 +1,32 @@
+footer {
+    background: $dark;
+    padding-top: 40px;
+    padding-bottom: 25px;
+    .row:first-child {
+        margin-bottom: 60px;
+    }
+    p {
+        color: white;
+        margin-bottom: 2rem;
+        font-weight: bold;
+    }
+    ul {
+        margin: 0;
+        padding: 0;
+    }
+    a {
+        color: rgba(255, 255, 255, 0.5) !important;
+    }
+    .row.bottom {
+        a, span {
+            font-size: 0.6875rem;
+            color: rgba(255, 255, 255, 0.5);
+        }
+        a {
+            text-decoration: underline;
+        }
+        span.made {
+            color: white;
+        }
+    }
+}

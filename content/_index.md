@@ -87,6 +87,9 @@ whatwedo:
           <strong>Marketplace:</strong>  We’re not a marketplace. Looking for one?
       - text: >-
           <strong>Suck</strong>
+startnow:
+  title: Get crackin'
+  description: Start your influencer campaign today, with inBeat.
 # section1:
 #   subtitle: Influencer campaigns made easy
 #   title: Find quality<br />influencers in<br /><span>seconds</span>

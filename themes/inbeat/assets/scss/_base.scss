@@ -72,7 +72,7 @@ a {
 ul, ol, li {
     font-weight: 400;
     font-size: 0.9375rem;
-    line-height: 1.625rem;
+    line-height: 2.375rem;
 }
 
 .align-left {
@@ -101,6 +101,7 @@ a.btn {
     box-sizing: border-box;
     letter-spacing: -0.5px;
     transition: background-color 0.3s;
+    white-space: nowrap;
     &.btn-sm {
         padding-top: 0.3rem;
         padding-bottom: 0.4rem;
@@ -152,8 +153,8 @@ a.btn {
 
 // Layout
 .container.mobile-adjusted {
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
     @include breakpoint(sm) {
         padding-left: 0;
         padding-right: 0;

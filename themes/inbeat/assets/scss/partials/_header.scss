@@ -41,6 +41,7 @@
     li {
         float: left;
         padding-right: 3rem;
+        cursor: pointer;
         &:last-child {
             padding-right: 0;
         }
@@ -48,13 +49,44 @@
             line-height: 2.375rem;
         }
         a:not(.btn) {
-            display: block;
             text-align: left;
             font-size: 1rem;
             line-height: 2.375rem;;
             color: black;
             text-decoration: none;
         }
+        &.has-submenu {
+            ul {
+                display: none;
+                position: absolute;
+                top: 80%;
+                border: 1px solid #DFDFDF;
+                box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
+                padding: 0px 20px;
+                width: 14rem;
+                z-index: 5;
+                background: white;
+            }
+            li {
+                float: none;
+                padding-left: 0.625rem;
+                border-bottom: 1px solid #DFDFDF;
+                a {
+                    line-height: 3.5rem;
+                }
+                &:last-child {
+                    border: none;
+                }
+            }
+            &:hover {
+                ul {
+                    display: block;
+                }
+            }
+        }
+    }
+    .col-xs-7 li {
+        line-height: 3.125rem;
     }
 }
 
@@ -65,7 +97,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: black;
+    background-color: $dark;
     display: none;
     opacity: 0;
     transition: opacity 0.2s;
@@ -102,6 +134,7 @@
         margin: auto;
         a {
             display: block;
+            border-color: $dark;
             span {
                 font-weight: bold;
             }
@@ -130,15 +163,9 @@
 }
 #header-container {
     position: fixed;
-    min-width: 100%;
+    width: 100%;
     left: 0;
     top: 0;
     background: white;
     z-index: 10;
-    @include breakpoint(sm) {
-        min-width: initial;
-        left: 50%;
-        transform: translateX(-50%);
-        max-width: calc(100% - 1rem);
-    }
 }

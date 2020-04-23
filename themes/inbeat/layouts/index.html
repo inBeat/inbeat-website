@@ -62,14 +62,14 @@
 {{- with .Params.whatwedo -}}
 <section class="container m-tb-160" id="what-we-do">
     <div class="row large-gutter">
-        <div class="col-xs-12 col-lg-4 col1 hide-md">
+        <div class="col-xs-12 col-md-4 col1 hide-md">
             <h2>{{- .col1.title | markdownify -}}</h2>
             <div class="bottom-text">
                 <p>{{- .col1.text1 | markdownify -}}</p>
                 <p>{{- .col1.text2 | markdownify -}}</p>
             </div>
         </div>
-        <div class="col-xs-12 col-sm-6 col-lg-4 col2">
+        <div class="col-xs-12 col-sm-6 col-md-4 col2">
             <div class="color-col">
                 <p class="small hide-md-up">Too long; didn't read</p>
                 <h3>{{- .col2.title -}}</h3>
@@ -83,7 +83,7 @@
                 {{- end -}}
             </div>
         </div>
-        <div class="col-xs-12 col-sm-6 col-lg-4 col3">
+        <div class="col-xs-12 col-sm-6 col-md-4 col3">
             <div class="color-col">
                 <h3>{{- .col3.title -}}</h3>  
                 {{- range .col3.features -}}
@@ -96,6 +96,27 @@
                 </p>
                 {{- end -}}
             </div>
+        </div>
+    </div>
+</section>
+{{- end -}}
+
+{{- with .Params.startnow -}}
+<section class="container m-tb-160 mobile-adjusted" id="start-now">
+    <div class="row large-gutter">
+        <div class="col-xs-12 col-md-4 col1">
+            <h2>{{- .title -}}</h2>
+            <p class="description">{{- .description -}}</p>
+            <a href="https://app.inbeat.co/get-started" title="Sign up" class="btn btn-crazy btn-md">
+                <span>Try it for free</span> &#8212 No credit card
+            </a>
+            <p class="signin">
+                Already in the family?
+                <a href="https://app.inbeat.co" title="Sign in">Sign in</a>.
+            </p>
+        </div>
+        <div class="col-xs-12 col-md-8 hide-md">
+            <div class="icon-ctn"></div>
         </div>
     </div>
 </section>
