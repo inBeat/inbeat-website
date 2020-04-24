@@ -1,12 +1,11 @@
 ---
-title: How to Find Instagram Influencers for Free
-description: >-
-  Find Instagram influencers for your next influencer campaign. Use our search
-  engine to find influencers at scale. Try our free plan.
+title: How to Find Influencers on Instagram
+description: Find Instagram influencers for your next influencer campaign. Use
+  our search engine to find influencers at scale. Try our free plan.
 titre: How to Find Instagram Influencers for Free
 slug: finding-instagram-influencers-free
 headerimage: /img/a2.png
-date: '2020-01-06'
+date: 2020-01-06
 categories:
   - Tips
 author: david
