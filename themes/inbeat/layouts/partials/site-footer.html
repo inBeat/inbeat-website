@@ -4,18 +4,21 @@
             <div class="col-xs-6 col-md-3">
                 <p class="small">inBeat</p>
                 <ul>
-                    <li><a href="{{- $.Site.BaseURL -}}pricing" title="">Pricing</a></li>
-                    <li><a href="#" title="">Search</a></li>
-                    <li><a href="#" title="">Export</a></li>
+                    {{- range .Site.Data.footer.col1 -}}
+                    <li>
+                        <a href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                    </li>
+                    {{- end -}}
                 </ul>
             </div>
             <div class="col-xs-6 col-md-3">
                 <p class="small">Ressources</p>
                 <ul>
-                    <li><a href="#" title="">Articles</a></li>
-                    <li><a href="#" title="">Affiliate</a></li>
-                    <li><a href="#" title="">Privacy Policy</a></li>
-                    <li><a href="#" title="">Terms & Conditions</a></li>
+                    {{- range .Site.Data.footer.col2 -}}
+                    <li>
+                        <a href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                    </li>
+                    {{- end -}}
                 </ul>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3">

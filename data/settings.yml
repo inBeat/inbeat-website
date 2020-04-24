@@ -1,20 +1,6 @@
-socials:
-  facebookurl: ""
-  linkedinurl: ""
-  twitterurl: ""
-  youtubeurl: ""
-  instagramurl: ""
-address:
-  road:
-  app:
-  city:
-  province:
-  postal:
-  country:
-phone: 
-mphone: ""
-email: 
-sitedescription: "Find qualified influencers that meet your standards on Instagram and Youtube. Use our influencer database to step up your influencer marketing."
-sitetitle: "inBeat | Find Influencers on Instagram and Youtube"
-defaultsocialimage: "/img/inbeat-logo.png"
+email: "david@inbeat.co"
+bookcall: "#"
+sitedescription: "Find qualified influencers that meet your standards on Instagram and TikTok. Use our influencer database to step up your influencer marketing."
+sitetitle: "inBeat | Find Influencers on Instagram and TikTok"
+defaultsocialimage: "/images/inbeat-logo@3x.png"
 removefromexternalsearch: true

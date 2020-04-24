@@ -1,0 +1,16 @@
+col1:
+  - anchor: Pricing
+    link: pricing
+  - anchor: Search
+    link: search
+  - anchor: Export
+    link: Export
+col2:
+  - anchor: Articles
+    link: Articles
+  - anchor: Affiliate
+    link: affiliate
+  - anchor: Privacy Policy
+    link: privacy-policy
+  - anchor: Terms & Conditions
+    link: terms-and-conditions 
