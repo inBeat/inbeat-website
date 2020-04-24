@@ -5,7 +5,7 @@ description: Find Instagram influencers for your next influencer campaign. Use
 titre: How to Find Instagram Influencers for Free
 slug: finding-instagram-influencers-free
 headerimage: /img/a2.png
-date: 2020-01-06
+date: 2020-01-06T00:00:00.000Z
 categories:
   - Tips
 author: david
@@ -18,7 +18,7 @@ noindex: false
 ---
 **If you’re interested in working with Instagram influencers, there are many ways to find them**. 
 
-Before beginning your search, define your ideal influencer. You can ask yourself the following questions:
+Before beginning your search, define your ideal influencer by asking yourself these questions:
 
 1. How many followers do they have?
 2. What niche do they cover?
@@ -26,15 +26,13 @@ Before beginning your search, define your ideal influencer. You can ask yourself
 
 **Knowing who to find makes your job easier.**
 
-In order to find influencers you can use a software, you could search on Instagram manually or use custom Google searches.
+There are many ways to find influencers on Instagram. You can use a software, you can search Instagram manually or you can use custom Google searches.
 
-Throughout this guide, I will outline ways you can use to find Instagramers who match your requirements.
+We have [built a tool](https://inbeat.co) to make this part of the process easier (if you want to run a small scale campaign, our free plan should do). Our tool allows a user to find influencers based on their following, engagement, location, language and engagement rate.
 
-We have built a tool to make this part of the process easier (if you want to run a small scale campaign, our free plan should do). Our tool allows a user to find influencers based on their following, engagement, location, language and engagement rate.
+## 1. Searching Instagram
 
-## 1. Searching on Instagram
-
-There are multiple ways to find influencers on Instagram. Here are some questions you should ask yourself to get started:
+Here are some questions you should ask yourself to get started:
 
 * What hashtags does my brand’s audience explore?
 * What hashtags does my ideal influencer use?
@@ -56,7 +54,7 @@ Start by building a list of relevant hashtags. With a few of these, you can buil
 
 If you’re looking for locally relevant Instagramers, you can use https://displaypurposes.com/map tool to find location relevant hashtags. You should be able to find top locations for a region within these hashtags.
 
-As with the earlier section, view the Instagramers following. Influencers from a location cluster and follow each other.
+Make sure to check the Instagramer's following as we did earlier. Influencers from a location cluster and follow each other.
 
 ### Browsing their following
 
