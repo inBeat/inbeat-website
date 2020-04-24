@@ -5,6 +5,26 @@ slug: pricing
 layout: pricing
 draft: false
 noindex: true
+teasertrial:
+  title: Take it for a spin
+  description: Get a feel for the platform with our Teaser Trial. No credit card required. No trial period.
+  cta:
+    text: >-
+      <span>Try it out</span> &#8212 it's free
+    link: https://app.inbeat.co/get-started
+  features:
+    - has: true
+      text: <span>Free</span> Forever
+    - has: false
+      text: <span>No</span> Contact Exports
+    - has: false
+      text: <span>Limited</span> Database Access
+    - has: true
+      text: <span>Single</span> campaign
+    - has: true
+      text: <span>E-mail</span> Support
+    - has: false
+      text: <span>Restricted</span> Search 
 pricing:
   title: Pay As You Go
   description: 'No contract, setup or hidden fees.'

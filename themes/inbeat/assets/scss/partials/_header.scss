@@ -1,10 +1,10 @@
 #header {
-    height: 3.125rem;
+    height: $mobilenavheight;
     padding-left: 0.5rem;
     padding-right: 1rem;
     margin: 0;
     @include breakpoint(sm) {
-        height: 5.25rem;
+        height: $navheight;
         padding-left: 0;
         padding-right: 0;
         margin-left: -0.5rem;

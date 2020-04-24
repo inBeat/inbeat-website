@@ -14,6 +14,9 @@ menuBtn.addEventListener('click', function(e) {
 var homeAnimations = ['search-animation', 'pick-animation', 'export-animation'];
 homeAnimations.forEach(function(iconName) {
     var ctn = document.getElementById(iconName);
+    if (!ctn) {
+        return;
+    }
     bodymovin.loadAnimation({
         container: ctn, // Required
         path: '/animations/placeholder.json', // Required
@@ -28,6 +31,9 @@ homeAnimations.forEach(function(iconName) {
 var homeIcons = ['unlimited-searches', 'blazingly-fast'];
 homeIcons.forEach(function(iconName) {
     var icon = document.getElementById(iconName);
+    if (!icon) {
+        return;
+    }
     var anim = bodymovin.loadAnimation({
         container: icon, // Required
         path: '/animations/' + iconName + '.json', // Required

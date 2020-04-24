@@ -1,0 +1,55 @@
+{{- define "main" -}}
+{{- with .Params.teasertrial -}}
+<section id="teaser-trial">
+    <div class="container mobile-adjusted">
+        <div class="row middle-xs">
+            <div class="col-xs-12 col-md-4">
+                <h2>{{- .title -}}</h2>
+                <p class="description">{{- .description -}}</p>
+                <a href="{{- .cta.link -}}" class="btn btn-lg" title="Sign up">
+                    {{- htmlUnescape .cta.text | markdownify -}}
+                </a>
+            </div>
+            <div class="col-xs-12 col-md-offset-2 col-md-6">
+                <div class="row">
+                    <div class="col-xs-6">
+                        {{- range first 3 .features -}}
+                        <p class="features">
+                            {{- if .has -}}
+                            <svg width="13" height="14" viewBox="0 0 13 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M1 7.5L5 11.5L12 1" stroke="black" stroke-width="2"/>
+                            </svg>
+                            {{- else -}}
+                            <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M1 1L12 12" stroke="black" stroke-width="2"/>
+                                <path d="M1 12L12 1" stroke="black" stroke-width="2"/>
+                            </svg>
+                            {{- end -}}
+                            {{- .text | markdownify -}}
+                        </p>
+                        {{- end -}}
+                    </div>
+                    <div class="col-xs-6">
+                        {{- range last 3 .features -}}
+                        <p class="features">
+                            {{- if .has -}}
+                            <svg width="13" height="14" viewBox="0 0 13 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M1 7.5L5 11.5L12 1" stroke="black" stroke-width="2"/>
+                            </svg>
+                            {{- else -}}
+                            <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M1 1L12 12" stroke="black" stroke-width="2"/>
+                                <path d="M1 12L12 1" stroke="black" stroke-width="2"/>
+                            </svg>
+                            {{- end -}}
+                            {{- .text | markdownify -}}
+                        </p>
+                        {{- end -}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{- end -}}
+{{- end -}}

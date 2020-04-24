@@ -1,0 +1,24 @@
+#teaser-trial {
+    margin-top: $mobilenavheight;
+    padding-top: 6.75rem;
+    padding-bottom: 6.75rem;
+    background: $yellow_sub;
+    @include breakpoint(sm) {
+        margin-top: $navheight;
+    }
+    p.description {
+        margin-bottom: 4rem;
+    }
+    p.features {
+        margin-left: 30px;
+        position: relative;
+        svg {
+            position: absolute;
+            left: -32px;
+            top: 0.5rem;
+        }
+        span {
+            font-weight:bold;
+        }
+    }
+}
