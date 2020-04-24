@@ -22,3 +22,155 @@
         }
     }
 }
+
+#pricing {
+    .pricing-schedule {
+        margin-bottom: 100px;
+        & > span {
+            display: inline-block;
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            cursor: pointer;
+            vertical-align: middle;
+            &:first-child {
+                margin-right: 2rem;
+            }
+            span {
+                vertical-align: middle;
+                &.deal {
+                    margin-left: 5px;
+                    font-size: 0.6875rem;
+                    line-height: 1rem;
+                    color: $dark;
+                    animation: crazy 2s infinite;
+                    border-radius: 10px;
+                    padding: 0.1rem 0.3rem;
+                }
+            }
+        }
+    }
+    #pricing-row {
+        &.monthly {
+            #monthly-schedule {
+                font-weight: bold;
+                text-decoration: underline;
+            }
+            .plan .monthly-price {
+                display: inline-block;
+            }
+        }
+        &.yearly {
+            #yearly-schedule span:not(.deal) {
+                font-weight: bold;
+                text-decoration: underline;
+            }
+            .plan .yearly-price {
+                display: inline-block;
+            }
+        }
+    }
+    .plan {
+        padding: 2.5rem;
+        height: 100%;
+        box-sizing: border-box;
+        position: relative;
+        &#startup {
+            background: $yellow_sub;
+        }
+        &#growth {
+            background: $green_sub;
+        }
+        &#business {
+            background: $red_sub;
+        }
+        h2 {
+            font-weight: 400;
+        }
+        .monthly-price, .yearly-price {
+            font-weight: 500    ;
+            display: none;
+        }
+        p.title {
+            margin: 0;
+        }
+        p.description {
+            color: $dark_sub;
+            margin-bottom: 12rem;
+            span {
+                font-weight: bold;
+            }
+        }
+        div.features {
+            border-top: 1px solid $dark;
+            padding-top: 1rem;
+            position: absolute;
+            bottom: 2.5rem;
+            left: 2.5rem;
+            right: 2.5rem;
+            p {
+                margin-left: 30px;
+                position: relative;
+                cursor: pointer;
+                svg.icon--check, svg.icon--close {
+                    position: absolute;
+                    left: -32px;
+                    top: 0.5rem;
+                }
+                svg.icon--info {
+                    position: absolute;
+                    right: 0;
+                    top: 0.5rem;
+                    opacity: 0.25;
+                    transition: opacity 0.2s;
+                }
+                span {
+                    font-weight:bold;
+                }
+                &.not {
+                    color: rgba(0, 0, 0, 0.25);
+                }
+                &:last-child {
+                    margin-bottom: 0;
+                }
+                &:hover {
+                    svg.icon--info {
+                        opacity: 1;
+                    }
+                }
+            }
+        }
+    }
+}
+
+#included {
+    h4 {
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: 1rem;
+    }
+    p {
+        max-width: 17.5rem;
+        margin-top: 0.7rem;
+        &.title {
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+        &.small {
+            margin-bottom: 3rem;
+            &.subtitle {
+                color: $dark_sub;
+                a {
+                    color: $dark_sub;
+                    text-decoration: underline;
+                }
+            }
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}

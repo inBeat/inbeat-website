@@ -132,13 +132,13 @@ a.btn {
     }
     &.btn-crazy-hover {
         &:hover {
-            color: black;
+            color: $dark;
             border-color: white;
             animation: crazy 2s infinite;
         }
     }
     &.btn-crazy {
-        color: black;
+        color: $dark;
         border-color: white;
         animation: crazy 2s infinite;
     };

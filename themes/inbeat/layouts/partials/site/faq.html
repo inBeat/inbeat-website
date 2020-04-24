@@ -1,0 +1,13 @@
+<section class="container m-tb-160 mobile-adjusted" id="faq">
+    <div class="row large-gutter">
+        <div class="col-xs-12 col-md-12">
+            <h2>Fairly asked questions</h2>
+        </div>
+        {{- range .Site.Data.faq.faq -}}
+        <div class="col-xs-12 col-sm-6 col-md-6">
+            <p class="question">{{- .question -}}</p>
+            <p class="small">{{- .answer -}}</p>
+        </div>
+        {{- end -}}
+    </div>
+</section>

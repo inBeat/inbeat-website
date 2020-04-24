@@ -16,14 +16,9 @@
                         {{- range first 3 .features -}}
                         <p class="features">
                             {{- if .has -}}
-                            <svg width="13" height="14" viewBox="0 0 13 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 7.5L5 11.5L12 1" stroke="black" stroke-width="2"/>
-                            </svg>
+                            {{- partial "icons/check.html" -}}
                             {{- else -}}
-                            <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 1L12 12" stroke="black" stroke-width="2"/>
-                                <path d="M1 12L12 1" stroke="black" stroke-width="2"/>
-                            </svg>
+                            {{- partial "icons/close.html" -}}
                             {{- end -}}
                             {{- .text | markdownify -}}
                         </p>
@@ -33,14 +28,9 @@
                         {{- range last 3 .features -}}
                         <p class="features">
                             {{- if .has -}}
-                            <svg width="13" height="14" viewBox="0 0 13 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 7.5L5 11.5L12 1" stroke="black" stroke-width="2"/>
-                            </svg>
+                            {{- partial "icons/check.html" -}}
                             {{- else -}}
-                            <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1 1L12 12" stroke="black" stroke-width="2"/>
-                                <path d="M1 12L12 1" stroke="black" stroke-width="2"/>
-                            </svg>
+                            {{- partial "icons/close.html" -}}
                             {{- end -}}
                             {{- .text | markdownify -}}
                         </p>
@@ -52,4 +42,77 @@
     </div>
 </section>
 {{- end -}}
+
+<section class="container mobile-adjusted m-tb-80" id="pricing">
+    <div class="row monthly" id="pricing-row">
+        <div class="col-xs-12 align-center">
+            <h1>Monthly Pricing</h1>
+            <p class="pricing-schedule">
+                <span id="monthly-schedule">Billed Monthly</span>
+                <span id="yearly-schedule">
+                    <span>Billed Yearly</span><span class="deal">4 Months Free</span>
+                </span> 
+            </p>
+        </div>
+        {{- range .Params.plans -}}
+        <div class="col-xs-12 col-md-4">
+            <div class="plan" id="{{- lower .title -}}">
+                <p class="title">{{- .title -}}</p>
+                <h2>
+                    <span class="monthly-price">{{- .monthly -}}</span>
+                    <span class="yearly-price">{{- .yearly -}}</span>
+                    USD
+                </h2>
+                <p class="description">
+                    {{- .description | markdownify -}}
+                </p>
+                <div class="features">
+                    <p>
+                        {{- partial "icons/check.html" -}}
+                        <span>{{- .contacts -}}</span> Contact Exports /mo
+                        {{- partial "icons/info.html" -}}
+                    </p>
+                    <p class="{{- if not .bulk -}}not{{- end -}}">
+                        {{- if .bulk -}}
+                        {{- partial "icons/check.html" -}}
+                        {{- else -}}
+                        {{- partial "icons/close.html" -}}
+                        {{- end -}}
+                        Bulk Selection
+                        {{- partial "icons/info.html" -}}
+                    </p>
+                </div>
+            </div>
+        </div>
+        {{- end -}}
+    </div>
+</section>
+
+<section class="container mobile-adjusted m-tb-160" id="included">
+    <div class="row">
+        <div class="col-xs-12 col-md-4">
+            <h4>All paid plans include  →</h4>
+            <p class="small subtitle">
+                Unsure about anything?
+                <a href="#" title="Book a call">Book a call</a> or
+                <a href="mailto:david@inbeat.co" title="Send an E-mail">send an E-mail</a>.
+            </p>
+        </div>
+        <div class="col-xs-12 col-md-4">
+            {{- range first 2 .Params.included -}}
+            <p class="title">{{- .title -}}</p>
+            <p class="small">{{- .description -}}</p>
+            {{- end -}}
+        </div>
+        <div class="col-xs-12 col-md-4">
+            {{- range last 2 .Params.included -}}
+            <p class="title">{{- .title -}}</p>
+            <p class="small">{{- .description -}}</p>
+            {{- end -}}
+        </div>
+    </div>
+</section>
+
+{{- partial "site/faq.html" . -}}
+
 {{- end -}}
