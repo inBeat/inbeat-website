@@ -4,10 +4,10 @@ col1:
   - anchor: Search
     link: search
   - anchor: Export
-    link: Export
+    link: export
 col2:
   - anchor: Articles
-    link: Articles
+    link: articles
   - anchor: Affiliate
     link: affiliate
   - anchor: Privacy Policy

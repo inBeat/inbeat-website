@@ -30,6 +30,7 @@
         display: block;
         @include breakpoint(md) {
             margin-bottom: 0;
+            display: inline;
         }
         span {
             font-weight: bold;
