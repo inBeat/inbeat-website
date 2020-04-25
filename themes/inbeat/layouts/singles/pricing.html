@@ -45,7 +45,7 @@
 
 <section class="container mobile-adjusted m-tb-80" id="pricing">
     <div class="row monthly" id="pricing-row">
-        <div class="col-xs-12 align-center">
+        <div class="col-xs-12 pricing-header">
             <h1>Monthly Pricing</h1>
             <p class="pricing-schedule">
                 <span id="monthly-schedule">Billed Monthly</span>
@@ -98,13 +98,13 @@
                 <a href="mailto:david@inbeat.co" title="Send an E-mail">send an E-mail</a>.
             </p>
         </div>
-        <div class="col-xs-12 col-md-4">
+        <div class="col-xs-6 col-md-4">
             {{- range first 2 .Params.included -}}
             <p class="title">{{- .title -}}</p>
             <p class="small">{{- .description -}}</p>
             {{- end -}}
         </div>
-        <div class="col-xs-12 col-md-4">
+        <div class="col-xs-6 col-md-4">
             {{- range last 2 .Params.included -}}
             <p class="title">{{- .title -}}</p>
             <p class="small">{{- .description -}}</p>

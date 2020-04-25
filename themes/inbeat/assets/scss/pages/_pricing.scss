@@ -1,10 +1,14 @@
 #teaser-trial {
     margin-top: $mobilenavheight;
-    padding-top: 6.75rem;
-    padding-bottom: 6.75rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
     background: $yellow_sub;
     @include breakpoint(sm) {
         margin-top: $navheight;
+    }
+    @include breakpoint(md) {
+        padding-top: 6.75rem;
+        padding-bottom: 6.75rem;
     }
     p.description {
         margin-bottom: 4rem;
@@ -21,11 +25,30 @@
             font-weight:bold;
         }
     }
+    .btn {
+        margin-bottom: 3rem;
+        display: block;
+        @include breakpoint(md) {
+            margin-bottom: 0;
+        }
+        span {
+            font-weight: bold;
+        }
+    }
 }
 
 #pricing {
+    .pricing-header {
+        text-align: left;
+        margin-bottom: 20px;
+        margin-top: 30px;
+        @include breakpoint(md) {
+            margin-top: 0;
+            text-align: center;
+            margin-bottom: 100px;
+        }
+    }
     .pricing-schedule {
-        margin-bottom: 100px;
         & > span {
             display: inline-block;
             -webkit-touch-callout: none;
@@ -73,11 +96,20 @@
             }
         }
     }
+    .col-md-4 {
+        margin-bottom: 1rem;
+        @include breakpoint(md) {
+            margin-bottom: 0;
+        }
+    }
     .plan {
-        padding: 2.5rem;
+        padding: 2rem 1.6rem;
         height: 100%;
         box-sizing: border-box;
         position: relative;
+        @include breakpoint(md) {
+            padding: 2.5rem;
+        }
         &#startup {
             background: $yellow_sub;
         }
@@ -99,7 +131,10 @@
         }
         p.description {
             color: $dark_sub;
-            margin-bottom: 12rem;
+            margin-bottom: 10rem;
+            @include breakpoint(md) {
+                margin-bottom: 12rem;
+            }
             span {
                 font-weight: bold;
             }
@@ -108,9 +143,14 @@
             border-top: 1px solid $dark;
             padding-top: 1rem;
             position: absolute;
-            bottom: 2.5rem;
-            left: 2.5rem;
-            right: 2.5rem;
+            bottom: 2rem;
+            left: 1.6rem;
+            right: 1.6rem;
+            @include breakpoint(md) {
+                bottom: 2.5rem;
+                left: 2.5rem;
+                right: 2.5rem;
+            }
             p {
                 margin-left: 30px;
                 position: relative;
@@ -161,15 +201,16 @@
         }
         &.small {
             margin-bottom: 3rem;
+            &:last-child {
+                margin-bottom: 0;
+            }
             &.subtitle {
                 color: $dark_sub;
+                margin-bottom: 2rem;
                 a {
                     color: $dark_sub;
                     text-decoration: underline;
                 }
-            }
-            &:last-child {
-                margin-bottom: 0;
             }
         }
     }

@@ -4,13 +4,13 @@ description: Pricing Plans
 slug: pricing
 layout: pricing
 draft: false
-noindex: true
+noindex: false
 teasertrial:
   title: Take it for a spin
   description: Get a feel for the platform with our Teaser Trial. No credit card required. No trial period.
   cta:
     text: >-
-      <span>Try it out</span> &#8212 it's free
+      <span>Try it for free</span> &#8212 No credit card
     link: https://app.inbeat.co/get-started
   features:
     - has: true
