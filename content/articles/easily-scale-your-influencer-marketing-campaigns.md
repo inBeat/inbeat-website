@@ -7,17 +7,12 @@ description: >-
 titre: Easily scale your influencer marketing campaigns
 slug: easily-scale-your-influencer-marketing-campaigns
 image: /img/Banner3.png
-headerimage: /img/BannerArtcicle.png
+headerimage: /img/Easily-scale-your-influencer-marketing-campaigns.png
 date: '2020-02-24'
 categories:
   - Tips
 author: david
-comments: 0
-shares: 0
 i18nlanguage: en
-popupstyle1: false
-draft: false
-noindex: false
 summary: >-
   In this guide, I will go through the process of discovering, pitching, and managing micro-influencers at scale.
 ---

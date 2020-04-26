@@ -33,6 +33,18 @@ gulp.task('sass', () => (
     .pipe(gulp.dest('themes/inbeat/static/css'))
 ));
 
+gulp.task('sass-article', () => (
+  gulp.src('themes/inbeat/assets/scss/article-main.scss')
+    .pipe(sourcemaps.init())
+    .pipe(autoprefixer({
+      cascade: false
+    }))
+    .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+    .pipe(rename('article-main.min.css'))
+    .pipe(sourcemaps.write('maps'))
+    .pipe(gulp.dest('themes/inbeat/static/css'))
+));
+
 gulp.task('scripts', () => gulp.src(jsFiles)
   .pipe(sourcemaps.init())
   .pipe(concat('main.min.js'))
@@ -44,6 +56,12 @@ gulp.task('scripts', () => gulp.src(jsFiles)
 // Watch for changes and rebuild the assets
 gulp.task("watch", (done) => {
   gulp.watch('themes/inbeat/assets/scss/**/*.scss', gulp.series('sass'));
+  gulp.watch('themes/inbeat/assets/js/**/*.js', gulp.series('scripts'));
+  done();
+});
+
+gulp.task("watch-article", (done) => {
+  gulp.watch('themes/inbeat/assets/scss/**/*.scss', gulp.series('sass-article'));
   gulp.watch('themes/inbeat/assets/js/**/*.js', gulp.series('scripts'));
   done();
 });

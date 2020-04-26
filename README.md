@@ -55,8 +55,8 @@ This will output a pale blue box with a Protip title.
 #### Quote
 
 ```
-{{% quote %}}
-This will output a cool and styled text in blockquote
+{{% quote author="Jon Howard" position="Head of Influencer Relations at Flaregames" %}}
+Over the last 2 years, we’ve experienced cases of influencer-driven UA ads performing twice as well (in terms of click-through rate %) as other creatives in our video networks at the time.
 {{% /quote %}}
 ```
 

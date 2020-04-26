@@ -6,12 +6,9 @@ slug: influencer-marketing-playbook
 headerimage: /img/download.png
 date: '2019-10-29'
 categories:
-  - General
-author: david
-comments: 0
-shares: 0
+  - Tutorials
 i18nlanguage: en
-popupstyle1: false
+author: david
 draft: true
 noindex: true
 summary: >-

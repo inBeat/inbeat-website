@@ -5,17 +5,12 @@ description: >-
   organize influencers for your next influencer marketing campaign.
 titre: How to Use inBeat to Find Influencers
 slug: using-inbeat
-headerimage: /img/benner.png
+headerimage: /img/How-to-Use-inBeat-to-Find-Influencers.png
 date: '2020-02-03'
 categories:
-  - Tips
+  - Tutorials
 author: david
-comments: 0
-shares: 0
 i18nlanguage: en
-popupstyle1: false
-draft: false
-noindex: false
 summary: >-
   In this guide, you will learn how to create and run an influencer marketing campaign from A to Z using inBeat.
 ---

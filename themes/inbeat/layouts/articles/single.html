@@ -1,7 +1,50 @@
 {{- define "main" -}}
-<section class="container mobile-adjusted" id="article-body">
+{{- $category := "" -}}
+{{- $hasCategory := false -}}
+{{- if gt (len .Params.categories) 0 -}}
+{{- $category = lower (index .Params.categories 0) -}}
+{{- $hasCategory = true -}}
+{{- end -}}
+<section class="container mobile-adjusted page-top" id="article-ctn">
     <div class="row">
-        <div class="col-xs-12"></div>
+        <div class="col-xs-12{{ if $hasCategory }} {{ $category }}{{ end }}" id="article-header">
+            {{- if $hasCategory -}}
+            <a href="{{ $.Site.BaseURL }}categories/{{ $category | urlize }}" class="category">
+                {{- $category | upper -}}
+            </a>
+            {{- end -}}
+            <h1>{{.Params.titre}}</h1>
+            {{- $author := index .Site.Data.authors .Params.author -}}
+            <div class="meta-box">
+                <img src="{{ $author.image }}" alt="{{ $author.name }}">
+                <p class="author">
+                    <span>By {{ $author.name }}</span><br>
+                    <span class="infos">{{ .ReadingTime }} min read | {{.Date.Format "Jan 2 2006"}}</span>
+                </p>
+            </div>
+            <img src="{{- .Params.headerimage -}}" alt="{{- .Params.titre -}}">
+        </div>
+        <div class="col-xs-12{{ if $hasCategory }} {{ $category }}{{ end }}" id="article-body">
+            {{ .Content }}
+        </div>
+    </div>
+    <div class="row" id="article-cta">
+        <div class="col-xs-12{{ if $hasCategory }} {{ $category }}{{ end }}">
+            <h2>inBeat, for free</h2>
+            <h3>Get your Influencer campaign started.</h3>
+            <a href="https://app.inbeat.co/get-started" title="Sign up" class="btn btn-lg">
+                <span>Sign up</span> &#8212 No credit card
+            </a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12{{ if $hasCategory }} {{ $category }}{{ end }}" id="article-help">
+            <h2>Questions?</h2>
+            <h3>Send us an E-mail, we’d love to answer.</h3>
+            <a href="mailto:david@inbeat.co" title="Question" class="btn btn-crazy btn-lg">
+                Send us a message
+            </a>
+        </div>
     </div>
 </section>
 {{- end -}}

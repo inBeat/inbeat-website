@@ -1,13 +1,13 @@
 {
-  "name": "hugo-base-theme",
+  "name": "inbeat-website",
   "version": "1.0.0",
-  "description": "Basic gulp file to process images in hugo",
+  "description": "Find qualified influencers that meet your standards on Instagram and TikTok.",
   "main": "no",
   "scripts": {
     "test": "none",
     "prod": "gulp prod",
     "watch": "gulp watch",
-    "sync": "gulp sync"
+    "watch-article": "gulp watch-article"
   },
   "repository": {
     "type": "git",

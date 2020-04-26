@@ -1,0 +1,306 @@
+// Single
+h1 {
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 2.75rem;    
+    letter-spacing: -1.4px; 
+    @include breakpoint(sm) {
+        font-size: 3.125rem;
+        line-height: 3.875rem;
+    }
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 1.875rem;
+    line-height: 2.75rem;    
+    letter-spacing: -1.4px;
+    margin-top: 3.5rem;
+    @include breakpoint(sm) {
+        font-size: 2.5rem;
+        line-height: 3.875rem; 
+    }
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 1.75rem;
+    line-height: 2.375rem;    
+    letter-spacing: -1.4px; 
+}
+
+h4 {
+    font-weight: bold;
+    font-size: 1.375rem;
+    line-height: 2.125rem;    
+}
+
+h5 {
+    font-weight: 500;
+    font-size: 1.375rem;
+    line-height: 2rem;
+    letter-spacing: -0.3px;
+    margin-bottom: -3rem;
+}
+
+#article-ctn {
+    max-width: 42.5rem !important;
+}
+
+#article-header {
+    margin-bottom: 0;
+    p {
+        font-weight: 400;
+        font-size: 0.825rem;
+        line-height: 1.25rem;
+        letter-spacing: -0.3px;
+        @include breakpoint(sm) {
+            font-size: 1rem;
+            line-height: 1.625rem;
+        }
+    }
+    img {
+        max-width: 100%;
+    }
+    .category {
+        display: inline-block;
+        border-radius: 10px;
+        padding: 0.125rem 0.375rem;
+        font-size: 0.6875rem;
+        line-height: 1rem;
+    }
+    .meta-box {
+        margin: 1.5rem 0 2rem;
+        @include breakpoint(sm) {
+            margin: 2.5rem 0 3rem;
+        }
+        img {
+            display: inline-block;
+            width: 2.5rem;
+            height: auto;
+            margin-right: 1rem;
+            vertical-align: middle;
+            @include breakpoint(sm) {
+                width: 3.25rem;
+            }
+        }
+        p {
+            display: inline-block;
+            margin: 0;
+            vertical-align: middle;
+        }
+    }
+    &.tips {
+        .category { background-color: $red_sub; }
+        .infos { color: $red !important; }
+    }
+    &.studies {
+        .category { background-color: $green_sub; }
+        .infos { color: $green !important; }
+    }
+    &.tutorials {
+        .category { background-color: $yellow_sub; }
+        .infos { color: $yellow !important; }
+    }
+}
+
+#article-body {
+    ul, ol, li {
+        font-family: $blogfont;
+        font-weight: 300;
+        font-size: 1.0625rem;
+        line-height: 1.6875rem;
+        @include breakpoint(sm) {
+            font-size: 1.1875rem;
+            line-height: 1.75rem;
+        }
+    }
+    a {
+        font-family: inherit;
+        font-size: inherit;
+        line-height: inherit;
+        font-weight: inherit;
+    }
+    p {
+        font-family: $blogfont;
+        font-weight: 300;
+        font-size: 1.0625rem;
+        line-height: 1.6875rem;
+        @include breakpoint(sm) {
+            font-size: 1.1875rem;
+            line-height: 2.0625rem;
+        }
+    }
+    ul {
+        list-style: none;
+        padding-left: 35px;
+        li {
+            position: relative;
+            margin: 1rem 0;
+            &:before {
+                content: '';
+                position: absolute;
+                left: -35px;
+                top: 0.5rem;
+                height: 0.75rem;
+                width: 0.75rem;
+                border-radius: 50%;
+                border: 1px solid black;
+                box-sizing: border-box;
+            }
+        }
+    }
+    ol {
+        list-style: none;
+        counter-reset: custom-counter;
+        padding-left: 35px;
+        li {
+            counter-increment: custom-counter;
+            position: relative;
+            margin: 1rem 0;
+            &:before {
+                position: absolute;
+                left: -35px;
+                top: 0;
+                content: counter(custom-counter);
+            }
+        }
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+        max-height: 31.25rem;
+        margin: 1rem auto;
+    }
+    .sidenote {
+        color: $dark_sub;
+        span {
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+    }
+    .pro-tip {
+        margin: 0 -5% 1em;
+        padding-left: 5%;
+        padding-right: 5%;
+        box-sizing: border-box;
+        @include breakpoint(sm) {
+            padding: 30px 40px 50px;
+            margin: 0 0 2em;
+        }
+        p {
+            margin: 0;
+        }
+    }
+    blockquote {
+        margin: 20px 0 30px;
+        padding-left: 30px;
+        border-left: 5px solid;
+        &:after {
+            content: none;
+        }
+        .quote {
+            font-style: italic;
+        }
+        .author {
+            font-size: 1rem;
+            .name {
+                font-weight: bold;
+            }
+        }
+    }
+    blockquote.twitter-tweet {
+        opacity: 0;
+    }
+    .twitter-tweet {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 2em !important;
+    }
+    &.tips {
+        ul li::before, blockquote { border-color: $red; }
+        ol li::before { color: $red; }
+        .pro-tip {
+            background: $red_sub;
+            span { color: $red; }
+        }
+        h5 { color: $red; }
+    }
+    &.studies {
+        ul li::before, blockquote { border-color: $green; }
+        ol li::before { color: $green; }
+        .pro-tip {
+            background: $green_sub;
+            span { color: $green; }
+        }
+        h5 { color: $green; }
+    }
+    &.tutorials {
+        ul li::before, blockquote { border-color: $yellow; }
+        ol li::before { color: $yellow; }
+        .pro-tip {
+            background: $yellow_sub;
+            span { color: $yellow; }
+        }
+        h5 { color: $yellow; }
+    }
+}
+
+#article-cta {
+    width: 52rem;
+    max-width: 100%;
+    margin: 2rem 0 5rem;
+    @include breakpoint(52rem) {
+        margin-left: -4.75rem;
+        max-width: initial;
+    }
+    span {
+        font-weight: bold;;
+    }
+    .col-xs-12 {
+        padding: 1.5rem 1.5rem 2.5rem;
+        @include breakpoint(sm) {
+            padding: 5rem;
+        }
+    }
+    .tips {
+        background-color: $red_sub;
+    }
+    .studies {
+        background-color: $green_sub;
+    }
+    .tutorials {
+        background-color: $yellow_sub;
+    }
+}
+
+#article-cta, #article-help {
+    text-align: center;
+    h2 {
+        margin-top: 0;
+        margin-bottom: 1rem;
+    }
+    h3 {
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        font-weight: 400;
+    }
+    .btn {
+        display: inline-block;
+    }
+}
+
+#article-help {
+    border-top: 1px solid;
+    padding: 4rem;
+    margin-bottom: 1rem;
+    &.tips {
+        border-color: $red !important;
+    }
+    &.studies {
+        border-color: $green !important;
+    }
+    &.tutorials {
+        border-color: $yellow !important;
+    }
+}

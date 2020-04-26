@@ -8,18 +8,13 @@ description: >-
   potential. 
 titre: Thinking differently about Influencer Marketing
 slug: think-differently-about-influencers
-image: /img/inbeat_articles.png
+image: /img/Thinking-differently-about-Influencer-Marketing.png
 headerimage: /img/benner.png
 date: '2020-01-20'
 categories:
   - Tips
 author: david
-comments: 0
-shares: 0
 i18nlanguage: en
-popupstyle1: false
-draft: false
-noindex: false
 summary: >-
   Behind every influencer lies a creator: When we think of influencer marketing,
   we tend to think of a marketing channel; a means of distribution. How many

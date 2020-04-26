@@ -11,17 +11,12 @@ titre: >-
   Content
 slug: slash-your-cost-per-conversion
 image: /img/Banner2.png
-headerimage: /img/a2.png
+headerimage: /img/How-To-Slash-your-Cost-per-Conversion-by-80-Using-Influencer-Generated-Content.png
 date: '2020-02-12'
 categories:
   - Tips
 author: david
-comments: 0
-shares: 0
 i18nlanguage: en
-popupstyle1: false
-draft: false
-noindex: false
 summary: >-
   Influencer-generated content (IGC) or user-generated content (UGC) outperforms studio/stock content by a factor of 5 to 1 on conversions. If you are an online brand and want to learn how to leverage influencers to create content in your paid advertising, this is the article for you.
 ---

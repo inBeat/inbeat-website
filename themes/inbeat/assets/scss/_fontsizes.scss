@@ -1,0 +1,45 @@
+h1 {
+    font-weight: 500;
+    margin-top: 0;
+    font-size: 2.5rem;
+    line-height: 3rem;
+    letter-spacing: -0.09rem;
+    @include breakpoint(sm) {
+        font-weight: 600;
+        font-size: 4rem;
+        line-height: 4.5rem;
+    }
+    @include breakpoint(md) {
+        font-size: 5rem;
+        line-height: 5.625rem;
+    }
+}
+
+h2 {
+    font-weight: 500;
+    margin-top: 0;
+    font-size: 2.2rem;
+    line-height: 2.4rem;
+    letter-spacing: -0.09rem;
+    @include breakpoint(sm) {
+        font-size: 3.0rem;
+        line-height: 3.3rem;
+    }
+    @include breakpoint(sm) {
+        font-size: 3.5rem;
+        line-height: 3.875rem;
+    }
+}
+
+h3 {
+    font-weight: 500;
+    margin-top: 0;
+    font-size: 1.875rem;
+    line-height: 2.5rem;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 1.625rem;
+    line-height: 2.375rem;
+}

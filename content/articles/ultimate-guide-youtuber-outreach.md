@@ -6,17 +6,12 @@ description: >-
 titre: 'Closing 181 Youtubers for your Brand [A COMPLETE GUIDE]'
 slug: ultimate-guide-youtuber-outreach
 image: /img/download.png
-headerimage: /img/download.png
+headerimage: /img/Closing-181-Youtubers-for-your-Brand.png
 date: '2019-04-12'
 categories:
-  - Tips
+  - Tutorials
 author: david
-comments: 0
-shares: 0
 i18nlanguage: en
-popupstyle1: true
-draft: false
-noindex: false
 summary: >-
   In this article, I’ll be showing you how to acquire as many influencers as you want for your brand.
 ---

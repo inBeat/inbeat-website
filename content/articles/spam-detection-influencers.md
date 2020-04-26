@@ -6,17 +6,12 @@ description: This article covers tips and tricks to detect fraudulent
 titre: Avoid These 5 Things at All Costs When Working With Influencers
 slug: what-to-avoid-with-influencers
 image: /img/avoidbanner2.png
-headerimage: https://ghost.inbeat.co/content/images/2020/04/find-influencers-for-free.jpg
+headerimage: /img/Avoid-These-5-Things-at-All-Costs-When-Working-With-Influencers.png
 date: 2020-04-07T00:00:00.000Z
 categories:
   - Tips
 author: david
-comments: 0
-shares: 0
 i18nlanguage: en
-popupstyle1: false
-draft: false
-noindex: false
 summary: >-
   This article covers tips and tricks to detect fraudulent influencers. We go through fake engagement to unethical automation to help you understand what a good influencer is.
 ---
