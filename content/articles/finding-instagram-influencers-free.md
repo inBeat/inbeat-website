@@ -5,10 +5,10 @@ description: >-
   engine to find influencers at scale. Try our free plan.
 titre: How to Find Instagram Influencers for Free
 slug: finding-instagram-influencers-free
-headerimage: /img/a2.png
+headerimage: https://ghost.inbeat.co/content/images/2020/04/find-influencers-for-free.jpg
 date: '2020-01-06'
 categories:
-  - Tips
+  - Studies
 author: david
 comments: 0
 shares: 0
@@ -16,6 +16,9 @@ i18nlanguage: en
 popupstyle1: false
 draft: false
 noindex: false
+weight: 1
+summary: >-
+  In order to find influencers you can use a software, you could search on Instagram manually or use custom Google searches. Throughout this guide, I will outline ways you can use to find Instagramers who match your requirements.
 ---
 **If you’re interested in working with Instagram influencers, there are many ways to find them**. 
 

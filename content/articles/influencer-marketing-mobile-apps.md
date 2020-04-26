@@ -7,7 +7,7 @@ description: >-
 titre: Micro-Influencer Marketing for Mobile Apps
 slug: influencer-marketing-mobile-apps
 image: /img/apps_2.png
-headerimage: /img/apps_1.png
+headerimage: /images/apps_1.png
 date: '2020-03-30'
 categories:
   - Tips
@@ -18,6 +18,8 @@ i18nlanguage: en
 popupstyle1: false
 draft: false
 noindex: false
+summary: >-
+  Micro-influencer marketing is a powerful strategy for mobile apps. It acts as a user acquisition channel, a content creation pipeline, and a top of the funnel awareness for your brand.
 ---
 Micro-influencer marketing is a powerful strategy for mobile apps. It acts as a user acquisition channel, a content creation pipeline, and a top of the funnel awareness for your brand.
 

@@ -7,10 +7,10 @@ description: >-
 titre: How a Kid’s Fashion Brand Used inBeat to Work with Micro-Influencers
 slug: kids-brand-influencer-marketing
 image: /img/bannerbig.png
-headerimage: /img/banner1.png
+headerimage: https://ghost.inbeat.co/content/images/2020/04/find-influencers-for-free.jpg
 date: '2020-03-26'
 categories:
-  - General
+  - Tutorials
 author: david
 comments: 0
 shares: 0
@@ -18,6 +18,9 @@ i18nlanguage: en
 popupstyle1: false
 draft: false
 noindex: false
+weight: 1
+summary: >-
+  Deux par Deux, like most fashion retailers, releases collections two times a year. During those collection launches, things are messy and tend to go fast - the marketing department is juggling with multiple deadlines, and the operations team is catching breaking plates.
 ---
 Deux par Deux, like most fashion retailers, releases collections two times a year. During those collection launches, things are messy and tend to go fast - the marketing department is juggling with multiple deadlines, and the operations team is catching breaking plates.
 

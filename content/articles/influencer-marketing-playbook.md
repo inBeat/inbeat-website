@@ -14,6 +14,8 @@ i18nlanguage: en
 popupstyle1: false
 draft: true
 noindex: true
+summary: >-
+  Having pitched hundreds of thousands of influencers on various platforms, I have seen many businesses struggling with influencer marketing. How do some brands make it work seamlessly, while others flirt with it with no return?
 ---
 
 # Influencer Marketing Playbook
@@ -22,7 +24,7 @@ noindex: true
 ## 1. Influencer marketing made simple
 
 
- Having pitched hundreds of thousands of influencers on various platforms, I have seen many businesses struggling with influencer marketing. How do some brands make it work seamlessly, while others flirt with it with no return?
+Having pitched hundreds of thousands of influencers on various platforms, I have seen many businesses struggling with influencer marketing. How do some brands make it work seamlessly, while others flirt with it with no return?
 
 
 In this guide, I will break down our learnings from working with over 10 000 influencers. If our philosophy or strategy is not what you’re seeking, you can skip right to [How to close influencers at scale](https://docs.google.com/document/d/1dk_nxxNUM4PGv6p1BMyk0FRkGN3tGt6e54fGMEgLJAc/edit#).

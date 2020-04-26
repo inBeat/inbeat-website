@@ -20,6 +20,12 @@ i18nlanguage: en
 popupstyle1: false
 draft: false
 noindex: false
+summary: >-
+  Behind every influencer lies a creator: When we think of influencer marketing,
+  we tend to think of a marketing channel; a means of distribution. How many
+  people will our collaboration reach? How many sales will it generate?Although
+  there is logic to such thinking, it does not fully utilize the influencer’s
+  potential.
 ---
 ##### Behind every influencer lies a creator
 

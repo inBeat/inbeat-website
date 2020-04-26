@@ -7,7 +7,7 @@ description = ""
 # Pointing to this file
 config = "config.toml"
 contentdir = "content"
-disableKinds = ["RSS"]
+disableKinds = ["RSS", "tags"]
 # Create an array of files you don't want hugo to build
 ignoreFiles = [".+/assets/scss/.+"]
 # Enable Logging
@@ -21,16 +21,9 @@ defaultContentLanguageInSubdir = false
 
 #CUSTOM PARAMS
 [params]
-  ## Include google maps, with API Key
-  googleapikey = ""
   ## This is used when the BaseURL does not need to modified (eg, in share links)
   siteaddress = "https://www.inbeat.co/"
   siteaddressno = "https://www.inbeat.co"
-  ## FB share info
-  fbpagename = ""
-  fbappid = ""
-  ## Business name in Schema.org
-  schemabiz = "inBeat"
   ## Google Tag Manager tracking ID
   gtmid = "GTM-W2MQ972"
 

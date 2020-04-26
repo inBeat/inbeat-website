@@ -16,9 +16,9 @@ i18nlanguage: en
 popupstyle1: false
 draft: false
 noindex: false
+summary: >-
+  In this guide, you will learn how to create and run an influencer marketing campaign from A to Z using inBeat.
 ---
-<!--StartFragment-->
-
 In this guide, you will learn how to create and run an influencer marketing campaign from A to Z using inBeat.
 
 I will be going through:

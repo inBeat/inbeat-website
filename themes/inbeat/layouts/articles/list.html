@@ -1,0 +1,91 @@
+{{- define "main" -}}
+<section class="container mobile-adjusted page-top" id="featured-posts">
+    <div class="row">
+        <div class="col-xs-12">
+            <h1>Articles</h1>
+        </div>
+        <div class="col-xs-12 posts-list-title">
+            <p>Featured</p>
+        </div>
+        {{- range first 3 .Pages -}}
+        {{- $category := "" -}}
+        {{- $hasCategory := false -}}
+        {{- if gt (len .Params.categories) 0 -}}
+        {{- $category = lower (index .Params.categories 0) -}}
+        {{- $hasCategory = true -}}
+        {{- end -}}
+        <div class="col-md-4 col-xs-12 post{{ if $hasCategory }} {{ $category }}{{ end }}">
+            <img src="{{- .Params.headerimage -}}" alt="{{- .Params.titre -}}">
+            {{- if $hasCategory -}}
+            <a href="{{ $.Site.BaseURL }}categories/{{ $category | urlize }}" class="category">
+                {{- $category | upper -}}
+            </a>
+            {{- end -}}
+            <h4>
+                <a href="{{.Permalink}}" title="{{.Params.titre}}">{{.Params.titre}}</a>
+            </h4>
+            <p class="small">{{- .Summary -}}</p>
+            {{- $author := index .Site.Data.authors .Params.author -}}
+            <p class="author">By <span>{{ $author.name }}</span> | {{ .ReadingTime }} MIN READ</np>
+        </div>
+        {{- end -}}
+    </div>
+</section>
+
+<section class="container mobile-adjusted post-list tips">
+    <div class="row">
+        <div class="col-xs-12 posts-list-title">
+            <p>Tips</p>
+        </div>
+        {{- range first 4 .Site.Taxonomies.categories.tips -}}
+        <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="post">
+                <p class="title">
+                    <a href="{{.Permalink}}" title="{{.Params.titre}}">{{.Params.titre}}</a>
+                </p>
+                {{- $author := index .Site.Data.authors .Params.author -}}
+                <p class="author">By <span>{{ $author.name }}</span> | {{ .ReadingTime }} MIN READ</np>
+            </div>
+        </div>
+        {{- end -}}
+    </div>
+</section>
+
+<section class="container mobile-adjusted post-list tutorials">
+    <div class="row">
+        <div class="col-xs-12 posts-list-title">
+            <p>Tutorials</p>
+        </div>
+        {{- range first 4 .Site.Taxonomies.categories.tutorials -}}
+        <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="post">
+                <p class="title">
+                    <a href="{{.Permalink}}" title="{{.Params.titre}}">{{.Params.titre}}</a>
+                </p>
+                {{- $author := index .Site.Data.authors .Params.author -}}
+                <p class="author">By <span>{{ $author.name }}</span> | {{ .ReadingTime }} MIN READ</np>
+            </div>
+        </div>
+        {{- end -}}
+    </div>
+</section>
+
+<section class="container mobile-adjusted post-list studies">
+    <div class="row">
+        <div class="col-xs-12 posts-list-title">
+            <p>Studies</p>
+        </div>
+        {{- range first 4 .Site.Taxonomies.categories.studies -}}
+        <div class="col-md-3 col-sm-6 col-xs-12">
+            <div class="post">
+                <p class="title">
+                    <a href="{{.Permalink}}" title="{{.Params.titre}}">{{.Params.titre}}</a>
+                </p>
+                {{- $author := index .Site.Data.authors .Params.author -}}
+                <p class="author">By <span>{{ $author.name }}</span> | {{ .ReadingTime }} MIN READ</np>
+            </div>
+        </div>
+        {{- end -}}
+    </div>
+</section>
+{{- end -}}

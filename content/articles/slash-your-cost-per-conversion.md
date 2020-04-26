@@ -22,6 +22,8 @@ i18nlanguage: en
 popupstyle1: false
 draft: false
 noindex: false
+summary: >-
+  Influencer-generated content (IGC) or user-generated content (UGC) outperforms studio/stock content by a factor of 5 to 1 on conversions. If you are an online brand and want to learn how to leverage influencers to create content in your paid advertising, this is the article for you.
 ---
 Influencer-generated content (IGC) or user-generated content (UGC) outperforms studio/stock content by a factor of [5 to 1 on conversions](https://hi.photoslurp.com/blog/user-generated-content-statistics/). We have witnessed this first hand across multiple clients we work with on the agency side.
 

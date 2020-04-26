@@ -17,6 +17,8 @@ i18nlanguage: en
 popupstyle1: true
 draft: false
 noindex: false
+summary: >-
+  In this article, I’ll be showing you how to acquire as many influencers as you want for your brand.
 ---
 In this article, I’ll be showing you how to acquire as many influencers as you want for your brand.
 

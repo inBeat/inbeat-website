@@ -1,13 +1,11 @@
 ---
-title: Pricing Plans | inBeat
-description: Pricing Plans
+title: Plans & Pricing | inBeat
+description: Flexible plans for different needs. No contracts and no hidden fees.
 slug: pricing
 layout: pricing
-draft: false
-noindex: false
 teasertrial:
   title: Take it for a spin
-  description: Get a feel for the platform with our Teaser Trial. No credit card required. No trial period.
+  description: Get a feel for the platform with our Teaser Plan. No credit card required. No trial period.
   cta:
     text: >-
       <span>Try it for free</span> &#8212 No credit card

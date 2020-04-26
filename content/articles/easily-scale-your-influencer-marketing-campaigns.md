@@ -18,6 +18,8 @@ i18nlanguage: en
 popupstyle1: false
 draft: false
 noindex: false
+summary: >-
+  In this guide, I will go through the process of discovering, pitching, and managing micro-influencers at scale.
 ---
 In this guide, I will go through the process of **discovering**, **pitching**, and **managing** micro-influencers at scale.
 

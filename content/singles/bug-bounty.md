@@ -5,7 +5,6 @@ description: >-
 slug: bug-bounty
 layout: normal
 image: 
-noindex: false
 ---
 
 ## Security Bounty Program
