@@ -122,6 +122,6 @@
 </section>
 {{- end -}}
 
-{{- partial "site/faq.html" . -}}
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.home) -}}
 
 {{- end -}}

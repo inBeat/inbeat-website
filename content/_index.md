@@ -28,8 +28,8 @@ features:
   - id: search
     title: Search with flexibility
     text: >-
-      Explore our <span>categorized database</span> using precise metrics & categories
-      to find as many profiles as you need. 
+      Explore our <span>spam-checked database</span> of influencers using metrics and
+      keywords to find the profiles you need.
     link: '#'
     question:
       text: Database vs marketplace?
@@ -38,7 +38,7 @@ features:
   - id: pick
     title: Pick out the bestest
     text: >-
-      <span>Quickly</span> go through results & pin them to your influencer lists. 
+      <span>Quickly</span> go through results and add the fitting influencers to your list. 
     link: '#'
     question:
       text: Do we pre-vet the influencers?
@@ -55,13 +55,13 @@ features:
     animation: export-animation
 extras:
   - title: Unlimited Searches
-    text: Export the influencers you selected and contact them directly.
+    text: Search as much as you want, using our powerful search filters.
     icon: unlimited-searches
   - title: Blazingly Fast
     text: You might not care, but we do. Our search engine returns results in milliseconds. We take pride in that.
     icon: blazingly-fast
   - title: Affordable pricing
-    text: We wanted to build a tool with big bells but no whistles at an affordable price.
+    text: Keepin' it simple. We offer transparent fluffless pricing.
     icon: unlimited-searches-2
 whatwedo:
   col1:

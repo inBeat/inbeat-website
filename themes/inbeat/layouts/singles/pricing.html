@@ -71,6 +71,11 @@
                         {{- partial "icons/check.html" -}}
                         <span>{{- .contacts -}}</span> Contact Exports /mo
                         {{- partial "icons/info.html" -}}
+                        <span class="tooltip">
+                            Export all available info (E-mail, handle, URL, etc.).
+                            Profiles without E-mail don’t use up an export.
+                            Unused exports won't rollover to the following month.
+                        </span>
                     </p>
                     <p class="{{- if not .bulk -}}not{{- end -}}">
                         {{- if .bulk -}}
@@ -80,7 +85,13 @@
                         {{- end -}}
                         Bulk Selection
                         {{- partial "icons/info.html" -}}
+                        <span class="tooltip">
+                            Select and export up to 1000 filtered profiles in a single click.
+                        </span>
                     </p>
+                    <a class="btn btn-md" href="https://app.inbeat.co/get-started">
+                        Create a free account
+                    </a>
                 </div>
             </div>
         </div>
@@ -113,6 +124,6 @@
     </div>
 </section>
 
-{{- partial "site/faq.html" . -}}
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.pricing) -}}
 
 {{- end -}}

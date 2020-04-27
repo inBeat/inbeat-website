@@ -1,5 +1,7 @@
 #section-normal {
   margin-bottom: 3rem;
+  min-height: calc(100vh - 34rem);
+  box-sizing: border-box;
   h3 {
     margin-bottom: 20px;
     margin-top: 30px;

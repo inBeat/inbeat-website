@@ -30,7 +30,7 @@ I will be going through:
 
 *If you already have an account, you can skip this step.*
 
-Go to [inbeat.co](https://inbeat.co) and click "Try inBeat for Free". Once you have signed up, confirm your email and login to the platform.
+Go to [our website](https://www.inbeat.co) and click "Sign up". Once you have signed up, **confirm your email** and login to the platform.
 
 ### 2. Create a campaign
 
@@ -67,5 +67,3 @@ Once you are done adding influencers to a campaign, you can click on the “expo
 Congratulations, you know have a list of influencers to work with.
 
 When you export your campaign, you will receive a CSV file, which you can add to your favorite CRM tool. We propose using [Mailshake](https://mailshake.com/) or [Gmass](https://www.gmass.co/), but you can use any tool you wish. These tools make pitching influencers much easier to manage.
-
-<!--EndFragment-->

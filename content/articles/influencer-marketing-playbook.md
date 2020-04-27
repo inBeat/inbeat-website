@@ -14,63 +14,40 @@ noindex: true
 summary: >-
   Having pitched hundreds of thousands of influencers on various platforms, I have seen many businesses struggling with influencer marketing. How do some brands make it work seamlessly, while others flirt with it with no return?
 ---
-
-# Influencer Marketing Playbook
-
-
-## 1. Influencer marketing made simple
-
+## Influencer marketing made simple
 
 Having pitched hundreds of thousands of influencers on various platforms, I have seen many businesses struggling with influencer marketing. How do some brands make it work seamlessly, while others flirt with it with no return?
 
-
 In this guide, I will break down our learnings from working with over 10 000 influencers. If our philosophy or strategy is not what you’re seeking, you can skip right to [How to close influencers at scale](https://docs.google.com/document/d/1dk_nxxNUM4PGv6p1BMyk0FRkGN3tGt6e54fGMEgLJAc/edit#).
-
 
 ### Encompassing Philosophy
 
-**Lean operations**. Automate anything that is automatable, and that doesn’t undermine our service. We consistently automate big chunks of our work through a mix of software development, Zapier and Google Sheets.
+**Lean operations**: Automate anything that is automatable, and that doesn’t undermine our service. We consistently automate big chunks of our work through a mix of software development, Zapier and Google Sheets.
 
-**Scalability**. Scalability is at the core of every decision we make. <span style="text-decoration:underline;">We treat our influencer marketing process as a product</span>. A product requires continuous improvement and does not fall prey to a _set and forget it mentality_.
+**Scalability**: Scalability is at the core of every decision we make. We treat our influencer marketing process as a product. A product requires continuous improvement and does not fall prey to a _set and forget it mentality_.
 
-**Sustainability**. We create our campaigns with the end-game in mind. We create a reusable and sustainable channel by building long-term relationships with our best performing influencers. 
+**Sustainability**: We create our campaigns with the end-game in mind. We create a reusable and sustainable channel by building long-term relationships with our best performing influencers. 
 
-**<span style="text-decoration:underline;">Optimizing output and lowering costs. It’s the best way we found to future proof our business.</span>**
+**Optimizing output and lowering costs. It’s the best way we found to future proof our business.**
 
-
-## 1. How to get influencer marketing working for your business?
+## How to get influencer marketing working for your business?
 
 Thinking before executing improves your chance of success. I recommend you to go through this exercise with your marketing department or any person in charge of marketing. Don’t overcomplicate the strategy. Go through the list of questions and openly discuss each one. At the end, you should have a good idea of how to make influencer marketing work.
 
 Remember that the initial strategy is open to change. Iteration of your influencer marketing guarantees long-term success.
 
-
-### a. What part does influencer marketing play in your business?
+### What part does influencer marketing play in your business?
 
 At this stage, you want to define what you are looking to achieve through influencer marketing. 
 
 Here are ideas to help you think this through:
 
+1. **Content creation**: Decentralizing your content creation to influencers is a great way to 100x your creative pipeline. Leverage this by testing 100s of Facebook ads variation. It will also cut your professional content production costs.
+2. **Explainer content (how-tos, tutorials)**: If your product or service is complex, this can be a great way to create video explainers for it.
+3. **Expanding your affiliate network**
+4. **Brand awareness**: Be careful when defining this term. It is consistently used by marketers to justify a poor campaign investment).
 
-
-*   Content creation
-
-            _Decentralizing your content creation to influencers is a great way to 100x your creative pipeline. Leverage this by testing 100s of Facebook ads variation. It will also cut your professional content production costs_
-
-*   Explainer content (how-tos, tutorials)
-
-            _If your product or service is complex, this can be a great way to create video explainers for it._
-
-*   Expanding your affiliate network.
-*   Brand awareness (be careful when defining this term. It is consistently used by marketers to justify a poor campaign investment).
-
-            .		
-
-
-	
-
-
-#### i. Two examples IRL (In Real Life)
+## Two examples IRL (In Real Life)
 
 **You sell a DIY alarm system company.**
 
@@ -95,6 +72,3 @@ We would also identify our top influencers by post-performance to send them our 
 Our endgame is an army of micro-influencers that can promote any new product we launch while creating a catalog of content for any new release for a low cost.
 
 All you need to know at this stage is what you want to achieve through influencer marketing. Once you have established this, you can move on to discovering your ideal influencer.
-
-
-<!-- Docs to Markdown version 1.0β17 -->

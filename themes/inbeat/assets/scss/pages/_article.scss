@@ -24,23 +24,34 @@ h2 {
 
 h3 {
     font-weight: 500;
-    font-size: 1.75rem;
-    line-height: 2.375rem;    
-    letter-spacing: -1.4px; 
+    font-size: 1.5625rem;
+    line-height: 2.125rem;    
+    letter-spacing: -1.4px;
+    @include breakpoint(sm) {
+        font-size: 1.75rem;
+        line-height: 2.375rem;
+    }
 }
 
 h4 {
     font-weight: bold;
-    font-size: 1.375rem;
-    line-height: 2.125rem;    
+    font-size: 1.0625rem;
+    line-height: 1.6875rem;
+    @include breakpoint(sm) {
+        font-size: 1.375rem;
+        line-height: 2.125rem; 
+    }   
 }
 
 h5 {
     font-weight: 500;
-    font-size: 1.375rem;
-    line-height: 2rem;
+    font-size: 1.0625rem;
+    line-height: 1.6875rem;
     letter-spacing: -0.3px;
-    margin-bottom: -3rem;
+    @include breakpoint(sm) {
+        font-size: 1.375rem;
+        line-height: 2rem;
+    }  
 }
 
 #article-ctn {
@@ -120,6 +131,7 @@ h5 {
         font-size: inherit;
         line-height: inherit;
         font-weight: inherit;
+        text-decoration: underline;
     }
     p {
         font-family: $blogfont;
@@ -172,13 +184,6 @@ h5 {
         max-height: 31.25rem;
         margin: 1rem auto;
     }
-    .sidenote {
-        color: $dark_sub;
-        span {
-            font-size: 1.2em;
-            font-weight: bold;
-        }
-    }
     .pro-tip {
         margin: 0 -5% 1em;
         padding-left: 5%;
@@ -187,6 +192,9 @@ h5 {
         @include breakpoint(sm) {
             padding: 30px 40px 50px;
             margin: 0 0 2em;
+        }
+        h4 {
+            margin-top: 0;
         }
         p {
             margin: 0;
@@ -254,6 +262,19 @@ h5 {
         margin-left: -4.75rem;
         max-width: initial;
     }
+    text-align: center;
+    h2 {
+        margin-top: 0;
+        margin-bottom: 1rem;
+    }
+    h3 {
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        font-weight: 400;
+    }
+    .btn {
+        display: inline-block;
+    }
     span {
         font-weight: bold;;
     }
@@ -271,36 +292,5 @@ h5 {
     }
     .tutorials {
         background-color: $yellow_sub;
-    }
-}
-
-#article-cta, #article-help {
-    text-align: center;
-    h2 {
-        margin-top: 0;
-        margin-bottom: 1rem;
-    }
-    h3 {
-        margin-top: 1rem;
-        margin-bottom: 2rem;
-        font-weight: 400;
-    }
-    .btn {
-        display: inline-block;
-    }
-}
-
-#article-help {
-    border-top: 1px solid;
-    padding: 4rem;
-    margin-bottom: 1rem;
-    &.tips {
-        border-color: $red !important;
-    }
-    &.studies {
-        border-color: $green !important;
-    }
-    &.tutorials {
-        border-color: $yellow !important;
     }
 }

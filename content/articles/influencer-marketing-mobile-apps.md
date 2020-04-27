@@ -18,9 +18,9 @@ summary: >-
 ---
 Micro-influencer marketing is a powerful strategy for mobile apps. It acts as a user acquisition channel, a content creation pipeline, and a top of the funnel awareness for your brand.
 
-> “Over the last 2 years, we’ve experienced cases of influencer-driven UA ads performing twice as well (in terms of click-through rate %) as other creatives in our video networks at the time.”
->
-> \- **Jon Howard, Head of Influencer Relations at Flaregames**
+{{% quote author="Jon Howard" position="Head of Influencer Relations at Flaregames" %}}
+Over the last 2 years, we’ve experienced cases of influencer-driven UA ads performing twice as well (in terms of click-through rate %) as other creatives in our video networks at the time.
+{{% /quote %}}
 
 There are many levers you can pull to make influencer marketing work.
 
@@ -52,7 +52,7 @@ Their Covid-19 specific page received over **30,000 shares on social media**:
 
 ![Headspace is free for health professionals, driving a lot of influencers to share the content.](/img/apps_5.png "image_tooltip")
 
-It also has received **396 referring domains**  in the same period:
+It also has received **396 referring domains** in the same period:
 
 ![Backlinks from 396 domains for Headspace mobile app](/img/apps_4.png)
 
@@ -76,9 +76,9 @@ By caring, Popsockets is opening the door for sizeable collaborations at a disco
 
 **Caring for anything always makes it easier to connect with people.**
 
-> **Side note:**
->
-> If you’re doing marketing for a mobile game, this can be trickier, as the vertical gets a bad rep. Having said that, I recommend you think about incentivizing your influencers by giving a fixed amount to charity for each download they generate. Ironically, this will reduce your collaboration costs while improving your influencer’s sentiment about your game. If you segment your micro-influencer marketing efforts (i.e., targeting mothers), you can select a charity that aligns with their values. Use a website like [Charity Watch](https://www.charitywatch.org/) to explore the most efficient charities.
+{{% protip title="Side note" %}}
+If you’re doing marketing for a mobile game, this can be trickier, as the vertical gets a bad rep. Having said that, I recommend you think about incentivizing your influencers by giving a fixed amount to charity for each download they generate. Ironically, this will reduce your collaboration costs while improving your influencer’s sentiment about your game. If you segment your micro-influencer marketing efforts (i.e., targeting mothers), you can select a charity that aligns with their values. Use a website like [Charity Watch](https://www.charitywatch.org/) to explore the most efficient charities.
+{{% /protip %}}
 
 TLDR; Caring is a door-opener. It will reduce your media costs, increase your retention, and empower your network effect.
 
@@ -86,9 +86,9 @@ TLDR; Caring is a door-opener. It will reduce your media costs, increase your re
 
 If you choose to work with micro-influencers, you will have to manage exponentially more relationships than if you collaborated with macro-influencers or celebrities. We work and manage 500+ influencers a month on some campaigns.
 
-> **Side note:**
->
-> I consider a micro-influencer as someone with anywhere from 5000 to 25,000 followers on Instagram or Tik Tok. 
+{{% protip title="Author's note" %}}
+I consider a micro-influencer as someone with anywhere from 5000 to 25,000 followers on Instagram or Tik Tok. 
+{{% /protip %}}
 
 To succeed, treat micro-influencer marketing as a lead-intensive short sales cycle. You should use a robust CRM, such as [Pipedrive](https://pipedrive.com) to manage relationships, and software like [inBeat](https://inbeat.co) to find influencers (full disclosure, our team has developed the tool).
 
@@ -130,8 +130,6 @@ A themed page is not an influencer in the typical sense of the term, because the
 
 ![alt_text](/img/apps_7.png "image_tooltip")
 
-![alt_text]( "image_tooltip")
-
 The opportunity lies in the fact that these profiles are not solicited like influencers are. This means you can collaborate with them for 10% of the typical cost for an influencer. You must consider that these profiles will not create content for you; **This is a traffic play**.
 
 Theme your content to the topic of the profiles you are targeting. For instance, if you pitch memes pages, it is relevant for you to create memes around your brand, which will expand your engagement and relatability.
@@ -157,5 +155,3 @@ Here is a list of questions to help you guide your influencer marketing efforts:
 * Do you prefer working with micro-influencers or macro-influencers / celebrities?
 
 Some of these questions require that you *get your hands dirty* in order to answer them in a meaningful way. They are, however, an excellent way to define your direction.
-
-<!-- Docs to Markdown version 1.0β20 -->

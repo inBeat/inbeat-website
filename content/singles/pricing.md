@@ -47,11 +47,11 @@ plans:
       Ideal for agencies or big brands <span>launching</span> continuous campaigns.
 included:
   - title: Full Database Access
-    description: Export the influencers you selected and contact them directly.
+    description: Use all of our search features to find the right influencers.
   - title: Live Support
-    description: Export the influencers you selected and contact them directly.
+    description: Access to our support team at any time of the day (waking).
   - title: Instagram & TikTok
     description: Export the influencers you selected and contact them directly.
   - title: Unlimited Campaigns
-    description: Export the influencers you selected and contact them directly.
+    description: Organize your influencer marketing efforts in individual campaigns.
 ---

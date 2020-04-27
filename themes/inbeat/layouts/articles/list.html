@@ -8,26 +8,7 @@
             <p>Featured</p>
         </div>
         {{- range first 3 .Pages -}}
-        {{- $category := "" -}}
-        {{- $hasCategory := false -}}
-        {{- if gt (len .Params.categories) 0 -}}
-        {{- $category = lower (index .Params.categories 0) -}}
-        {{- $hasCategory = true -}}
-        {{- end -}}
-        <div class="col-md-4 col-xs-12 post{{ if $hasCategory }} {{ $category }}{{ end }}">
-            <img src="{{- .Params.headerimage -}}" alt="{{- .Params.titre -}}">
-            {{- if $hasCategory -}}
-            <a href="{{ $.Site.BaseURL }}categories/{{ $category | urlize }}" class="category">
-                {{- $category | upper -}}
-            </a>
-            {{- end -}}
-            <h4>
-                <a href="{{.Permalink}}" title="{{.Params.titre}}">{{.Params.titre}}</a>
-            </h4>
-            <p class="small">{{- .Summary -}}</p>
-            {{- $author := index .Site.Data.authors .Params.author -}}
-            <p class="author">By <span>{{ $author.name }}</span> | {{ .ReadingTime }} MIN READ</np>
-        </div>
+        {{- partial "site/post.html" . $ -}}
         {{- end -}}
     </div>
 </section>

@@ -47,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat nostrum dolorem
 #### Protip
 
 ```
-{{% protip %}}
+{{% protip title="Pro Tip" %}}
 This will output a pale blue box with a Protip title.
 {{% /protip %}}
 ```
@@ -74,12 +74,4 @@ This will make usage of automatically size images to output a responsive srcset 
 
 ```
 {{< responsiveimg src="test-2-inbeat.jpg" alt="Test" >}}
-```
-
-#### Sidenote
-
-```
-{{< sidenote >}}
-This will output a smaller note in the next, a bit like quick note.
-{{< /sidenote >}}
 ```

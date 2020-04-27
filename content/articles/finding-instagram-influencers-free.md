@@ -8,7 +8,7 @@ slug: finding-instagram-influencers-free
 headerimage: /img/How-to-Find-Instagram-Influencers-for-Free.png
 date: '2020-01-06'
 categories:
-  - Tips
+  - Tutorials
 author: david
 i18nlanguage: en
 summary: >-

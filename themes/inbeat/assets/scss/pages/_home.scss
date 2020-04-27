@@ -24,7 +24,7 @@
             display: block;
             margin: 0 auto 20px;
             width: 100%;
-            @include breakpoint(xs) {
+            @include breakpoint(31.25rem) {
                 width: 14.75rem;
             }
             @include breakpoint(sm) {

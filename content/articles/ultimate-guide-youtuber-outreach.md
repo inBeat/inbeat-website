@@ -37,12 +37,6 @@ Before diving in, let’s do some planning:
 * Step 4: Shipping product and track
 * Step 5: Making your system better</td>
 
-{{% capturewidget smalltitle="FREE DOWNLOADABLE LIST" title="Download our list of 700+ micro-influencers with their emails" linktext="Download All Influencers Now →" popupid="bite-style-1" %}}
-
-If you're looking to play around with influencer outreach, download our list of qualified influencers right now and get your pitch ready.
-
-{{% /capturewidget %}}
-
 ## Step 1: Setting Goals
 
 Let’s face it, diving in without planning is a sure way to drop the ball. When managing any operation, the last thing you want happening is to lose your flow.
@@ -51,11 +45,11 @@ Let’s face it, diving in without planning is a sure way to drop the ball. When
 
 ### Determine the scope
 
-#### **Which countries do I want to target?**
+#### Which countries do I want to target?
 
 You have to ask yourself which regions you want to target. For instance, if you only ship to the USA and Canada, you can eliminate any influencers located in other countries.
 
-#### **Which platforms do I want to target?**
+#### Which platforms do I want to target?
 
 Where do you want to focus your efforts? Is your brand more Instagram or Youtube worthy? In most cases, you would pitch influencers on both platforms.
 
@@ -69,25 +63,21 @@ There are many other platforms where you can find influencers:
 * Quora (Why not?)
 * Etc. (Use your imagination)
 
-{{% protip %}}
-
+{{% protip title="Pro Tip" %}}
 I recommend using [Similar Web's free Chrome extension](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en) for broader evaluation and [ahrefs ](https://ahrefs.com/) for organic reach. These tools will help you gauge the quality of a Quora thread, a blogger, or even a subreddit's reach.
-
 {{% /protip %}}
 
 **Let’s face it,**
 
 Influencers are simply people who receive attention from other people. What we’re buying from them is the attention. Treat them as humans (of course), but remember that you are purchasing media.
 
-#### **What is the cost of your product and how much does it cost to ship?**
+#### What is the cost of your product and how much does it cost to ship?
 
 Always add the cost of your product and your shipping to your cost per influencer. This is common sense.
 
 Here is some simple math to show my point and how it will affect your strategy:
 
-##### **Cost of your product + shipping + influencer fee = Cost per influencer**
-
-- - -
+##### Cost of your product + shipping + influencer fee = Cost per influencer
 
 On the one hand, if your **product + shipping cost** is low (let’s say you’re a t-shirt brand), your cost per influencer will be controlled by the influencer's fee.
 
@@ -143,20 +133,18 @@ Feel free to set up your system using imacros (if you’re a non-developer) or c
 
 We’ve done this internally to save our team from burnout and preserve our Glassdoor rating. 
 
-{{% protip %}}
-
-We are beta testing our database. If you’d like to have early access, just [signup here](https://www.inbeat.co).
-
+{{% protip title="Pro Tip" %}}
+We are beta testing our database. If you’d like to have early access, just [signup here](https://app.inbeat.co/get-started) and drop us a line.
 {{% /protip %}}
 
-### **So, let’s breakdown the steps:**
+### So, let’s breakdown the steps:
 
 * Finding keywords relevant to the influencers we’re targeting
 * Searching Youtube for influencers using our targeted keywords
 * Selecting influencers based on your base standards 
 * Organizing the data in Sheets (you can use Excel if you’re that type of person ;))
 
-#### **1. Building a keyword list**
+#### 1. Building a keyword list
 
 **Using tools to create your seed list**
 
@@ -176,13 +164,11 @@ We use [this keyword tool](https://keywordtool.io/youtube) to start our research
 
 ![keyword-tool](/img/keyword-tool-influencer-detection.png)
 
-{{% protip %}}
 The best possible outcome is finding queries that will pull up multiple Youtubers. Select your keywords accordingly. 
 
 If you are unsure about the quality of a keyword, punch it into Youtube and see if it brings relevant results.
 
 The more relevant results a keyword pulls, the less work you have to do.</td>
-{{% /protip %}}
 
 **Using Youtube Suggest to augment your keyword list**
 
@@ -190,7 +176,7 @@ Youtube Suggest will allow you to find highly relevant keywords.
 
 ![image alt text](/img/using-youtube-to-find-keywords.png)
 
-{{% protip %}}
+{{% protip title="Pro Tip" %}}
 I like using the Keywords Everywhere Chrome extension to speed up keyword picking (it's free, [you can get it here](https://keywordseverywhere.com/)). Generally speaking, a keyword with a higher volume will pull more influencers.
 {{% /protip %}}
 
@@ -206,7 +192,7 @@ Run down the list and gather influencers with their relevant information.
 
 **Let’s dive into this part of the process!**
 
-#### **2. Finding influencers**
+#### 2. Finding influencers
 
 Before you or a virtual assistant go through your list of keywords and find tons of influencers, make sure you establish clear guidelines. This limits human input (aka fewer errors).
 
@@ -222,7 +208,7 @@ After you have set this, go to Upwork and hire a virtual assistant to accomplish
 
 ![image alt text](/img/vetting-youtubers.jpg)
 
-#### **3. Automating the process**
+#### 3. Automating the process
 
 This workflow is time intensive, to say the least. It generates us 25 qualified influencers for every 60 minutes of work.
 
@@ -230,7 +216,7 @@ So, let’s say you would want to close 100 influencers. Taking into considerati
 
 You would roughly need 27 hours (667 / 25) of work to get this result, excluding the relation management work.
 
-We have built our internal scraper to reduce this workload. We are currently working on a usable version of the tool. If that’s of interest to you, [you can signup here](https://www.inbeat.co)! :)</td>
+We have built our internal scraper to reduce this workload. We are currently working on a usable version of the tool. If that’s of interest to you, [you can signup here](https://app.inbeat.co/get-started) and drop us a line!
 
 ## Step 3: Pitching and Negotiating Influencers
 
@@ -258,7 +244,7 @@ Mailshake is a robust tool that allows you to manage relations at scale. On top 
 
 * You will need to set up other parts of your workflow. This tool is not an all-in-one solution. If this is not an issue for you, then this tool will be perfect.
 
-### **Negotiating Influencers**
+### Negotiating Influencers
 
 Some influencers will be lowballing while others will be highballing. That’s how humans are.
 
@@ -268,17 +254,17 @@ Here is one piece of advice that will always serve you well:
 
 They ask for 40, you offer 20. They ask for 1000, you offer 300. This is a reflex that will significantly impact your bottom line.
 
-{{< sidenote >}}
+{{% protip title="Pro Tip" %}}
 The niche you are pitching is to be considered when considering the price you should pay. I like to gather 40-50 responses before I set my quantitative benchmarks on the rate we’re willing to pay.
 
 I recommend you set your price using the following metrics: average video view (exclude viral videos that can inflate drastically this metric) and average engagement ( (likes + dislikes + comments) / views)
-{{< /sidenote >}}
+{{% /protip %}}
 
 **What about subscribers?**
 
 Subscribers are a filtering metric, but we never use it to measure the price we’re willing to pay. After all, we’re after visibility and endorsement. These two goals are directly reflected in the two metrics mentioned previously.
 
-#### **Things to take into consideration**
+#### Things to take into consideration
 
 This is not an exact science and will require you to make some judgment calls. Questions you will come across are:
 
@@ -286,7 +272,7 @@ This is not an exact science and will require you to make some judgment calls. Q
 * Can I reuse the content in my other campaigns?
 * Will the Youtuber share my content on other social media channels?
 
-#### **How to manage these considerations**
+#### How to manage these considerations
 
 We look for influencers that have the potential to become ambassadors of our brands. So if a Youtuber is charging 500USD and we judge that there is potential for future collaboration and their metrics are close to what we’re willing to pay, we will usually take the risk.
 
@@ -300,7 +286,7 @@ You will close some bad deals, and you can’t hide from that.
 
 When an influencer is closed, you ship the product. There are two ways to do this: manually or automatically.
 
-### **Doing it manually**
+### Doing it manually
 
 This implies that you create a PO through your e-commerce platform each time an influencer agrees to your conditions.
 
@@ -316,7 +302,7 @@ Seems straight forward, I know. But, when you grind it 100 times, it gets to you
 
 I would not recommend this way of doing, unless you are playing around with influencer marketing. It has a high potential for error, and it will create hair pulling amongst your team!
 
-### **Doing it automagically**
+### Doing it automagically
 
 Welcome to the future!
 
@@ -334,7 +320,7 @@ Here is what your standard process will look like:
 
 Youtuber accepts negotiation > send form > Form is filled out > Google Sheets > Youtuber is vetted  > Zapier > PO > Email
 
-#### **1. Send the form**
+#### 1. Send the form
 
 When a Youtuber accepts our negotiation, our outreach manager will send the form. This form will ask questions such as:
 
@@ -352,7 +338,7 @@ When a Youtuber accepts our negotiation, our outreach manager will send the form
 
 This allows us to have the data properly formatted when it enters our Google Sheets.
 
-#### **2. Convert your form info to PO friendly data in Google Sheets**
+#### 2. Convert your form info to PO friendly data in Google Sheets
 
 You want to convert your data to a format your e-commerce platform will understand. This allows your Sheets and your e-comm platform to communicate via Zapier. 
 
@@ -367,11 +353,11 @@ It is an out-of-the-box integration that shouldn’t take you more than 30 minut
 
 ![image alt text](/img/shopify-zapier-integration.jpg)
 
-#### **3. Send a follow-up email telling the Youtuber his order has been shipped**
+#### 3. Send a follow-up email telling the Youtuber his order has been shipped
 
 You can do this by setting an email tool on top of your Zapier (i.e. Mailgun) or you can plug it into your existing system, without routing through Zapier. This is a decision you will take based on your current setup.
 
-#### **4. Approve the content and track the results**
+#### 4. Approve the content and track the results
 
 We always ask our influencers to send us the content before they publish it. It is a crucial part to protect your brand identity. 
 
@@ -410,13 +396,11 @@ We realized that there are A LOT of terrible Youtube channels. Our parser was re
 
 It actually turned out to be extremely efficient (roughly 200 per hour) — Our production time to 12.5% of our original run rate. Not too bad of an ROI, I can tell you that.
 
-We then decided to build a database with all the Youtubers we found. We now run a continuous channel scrape to keep our data up to date (subscribers, views, comments, etc.) and voilà! We’ve developed an edge that allows us to pitch new influencers efficiently for any new client (in case you missed it, we're opening up our database for beta. You can [signup here](https://inbeat.co)). 
+We then decided to build a database with all the Youtubers we found. We now run a continuous channel scrape to keep our data up to date (subscribers, views, comments, etc.) and voilà! We’ve developed an edge that allows us to pitch new influencers efficiently for any new client (in case you missed it, we're opening up our database for beta. You can [signup here](https://app.inbeat.co/get-started) and drop us a line). 
 
 **The Flywheel Effect**
 
 Keeping a database of Youtubers allows us to build a flywheel. In other words, the more clients we onboard, the better our data is, and the easier our service is to fulfill.
-
-_if you want access to our scraper data, you can email me here: david@inbeat.co_
 
 #### Email Open Rate
 
@@ -466,7 +450,7 @@ This system is built on four key components:
 
 The key to any successful operation is to measure the output and improve on the right metrics. If you keep going in that direction, you will have an influencer marketing machine that performs like a source of paid traffic.
 
-### **How can you leverage this to the maximum?**
+### How can you leverage this to the maximum?
 
 1. You identify your top performing influencers
 2. You create a long-term partnership with them

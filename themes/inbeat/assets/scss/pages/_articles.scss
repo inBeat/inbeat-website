@@ -4,6 +4,11 @@
     @include breakpoint(md) {
         margin-bottom: 8rem;
     }
+    &.categories {
+        h1 {
+            margin-bottom: 2.5rem;
+        }
+    }
     h1 {
         // Copying style from h2
         font-weight: 500;
@@ -22,8 +27,8 @@
     }
     .post {
         margin-bottom: 2rem;
-        @include breakpoint(md) {
-            margin-bottom: 0;
+        .img-link {
+            display: block;
         }
         img {
             max-width: 100%;

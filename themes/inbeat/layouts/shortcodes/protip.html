@@ -1,7 +1,5 @@
+{{- $title := .Get "title" -}}
 <div class="pro-tip">
-  <p>
-    <span>Pro Tip</span>
-    <br><br>
-    {{- .Inner | markdownify -}}
-  </p>
+  <h4>{{$title}}</h4>
+  <p>{{- .Inner | markdownify -}}</p>
 </div>

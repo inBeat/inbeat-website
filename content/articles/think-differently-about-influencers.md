@@ -8,11 +8,11 @@ description: >-
   potential. 
 titre: Thinking differently about Influencer Marketing
 slug: think-differently-about-influencers
-image: /img/Thinking-differently-about-Influencer-Marketing.png
-headerimage: /img/benner.png
+image: /img/benner.png
+headerimage: /img/Thinking-differently-about-Influencer-Marketing.png
 date: '2020-01-20'
 categories:
-  - Tips
+  - Studies
 author: david
 i18nlanguage: en
 summary: >-
@@ -22,7 +22,7 @@ summary: >-
   there is logic to such thinking, it does not fully utilize the influencer’s
   potential.
 ---
-##### Behind every influencer lies a creator
+**Behind every influencer lies a creator**
 
 When we think of influencer marketing,  we tend to think of a marketing channel; a means of distribution. How many people will our collaboration reach? How many sales will it generate? Although there is logic to such thinking, it does not fully utilize the influencer’s potential. 
 
@@ -65,27 +65,29 @@ In a nutshell, we want to find “outside-the-box thinking” creators, contact 
 1. Find influencers from different **sub-niches**. Diversity breeds novelty (a parachute junky will have a different take on your product than a yoga master).
 2. **Focus on micro-influencers**. Multiple niche creators use social media to share their craft with a small group of like-minded people. Don’t attribute importance to the size of the audience, as it has little relevance in our use-case. Aesthetics and creativity are our guiding light.
 
-> **Side Note** : By framing influencer marketing as a way to crowdsource a part of your creative process, you will need to invest more time on relationships than a typical influencer campaign. A traditional influencer marketing campaign is usually transactional and requires less handling. 
-
-**How should you communicate with your creators?**
+{{% protip title="Side Note" %}}
+By framing influencer marketing as a way to crowdsource a part of your creative process, you will need to invest more time on relationships than a typical influencer campaign. A traditional influencer marketing campaign is usually transactional and requires less handling. 
+{{% /protip %}}
 
 ## Getting The Best Out Of Your Influencers
+
+### How should you communicate with your creators?
 
 As marketers, we love Adwords and Facebook ads; what’s better than a plug and play system which gives you instant feedback on your performance? 
 
 Treating our process as such is a sure way to fail. We are dealing with people, and like with any relationship, we need to think beyond the transaction. It is your job to empower your army of creative consultants. The more thoughtful you are about this, the better your output.
 
-#### High-level Guidelines
+### High-level Guidelines
 
 Within our agency, we give guidelines on the format and the elements of the product we want to be displayed (unique selling proposition, packaging, etc.). It is easy to be too restrictive and drag your fresh-minded creator into your tunnel-visioned worldview. **We want outside the box content, not more of the same.**
 
-#### Creative freedom
+### Creative freedom
 
 The niche creator usually bears a specific style and/or craft he’s perfected over time. You want to leverage that. Let them surprise you. The Big Picture Share the bigger picture with your creators. Make them feel as if they are part of the team. Their input should matter to you. Let them know. 
 
 Is there a theme to your campaign? Is there a feel you want to create? Don’t hesitate to put together a Pinterest board with your fresh ideas. Ping your internal team and make this a collaborative effort. As mentioned earlier, be careful of restraining your creator’s imagination. Give them high-level guidance, without undermining their art. 
 
-#### Creative Insights
+### Creative Insights
 
 As a bi-product of your content creation system, you now have a set of diversified people with unique worldviews engaging with your brand. **You should gather feedback.**
 

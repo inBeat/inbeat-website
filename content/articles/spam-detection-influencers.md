@@ -45,13 +45,13 @@ Unnatural follower and/or following growth typically come in two flavors: automa
 
 ### a. Automation
 
-There are many automation tools which are built on the promise of more followers. Here is how these software automate your account’s behavior: \
+There are many automation tools which are built on the promise of more followers. Here is how these software automate your account’s behavior:
 
 1. You follow a new profile
 2. You like their last picture
 3. You wait for 5 days
 4. You unfollow them
-5. <span style="text-decoration:underline;"><span style="text-decoration:underline;">Repeat 200 times a day</span>
+5. Repeat 200 times a day
 
 **Bait n’ switch at its best.**
 
@@ -97,15 +97,15 @@ If a profile has an engagement rate above 15%, I advise you double check their a
 
 A high engagement is not necessarily a sign of spam, but it is definitely a warning. Take it into consideration.
 
-{{% protip %}}
-
+{{% protip title="Pro Tip" %}}
 Before working with an influencer, ask them to share with you a screenshot of their audience insights:
 
 ![alt_text](/img/avoid3.png "image_tooltip")
 
 Source: falcon.io
 
-Fraudulent profiles will have an uneven location distribution in their audience insights (i.e. 80% of profiles in India or Russia). {{% /protip %}}
+Fraudulent profiles will have an uneven location distribution in their audience insights (i.e. 80% of profiles in India or Russia).
+{{% /protip %}}
 
 ## 3. Fake Comments
 
@@ -139,7 +139,7 @@ For instance, this mother has 4 paid partnerships with 3 different brands (Goli,
 
 If you’re following her profile, you would quickly come to the conclusion that she is always promoting content, which makes her less trustworthy.
 
-# 5. Lack of Creative Direction
+## 5. Lack of Creative Direction
 
 This isn’t spam related either, but keeping an eye for this will affect your results across the board.
 
@@ -151,10 +151,8 @@ Here is an example:
 
 ![alt_text](/img/avoid1.png "image_tooltip")
 
-“The reason why I love this anti-ageing serum is because my skin looks much more radiant and glowy after using it.”
+*The reason why I love this anti-ageing serum is because my skin looks much more radiant and glowy after using it.*
 
 This is impersonal, and lacks what we seek from an influencer: personality. Dior might be behind this pre-chewed post write-up, but this kind of writing is pale, and carries no weight for your brand.
 
 **Stay away from poor creativity.**
-
-<!-- Docs to Markdown version 1.0β21 -->
