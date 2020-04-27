@@ -6,7 +6,7 @@
 {{- end -}}
 <div class="col-md-4 col-xs-12 post{{ if $hasCategory }} {{ $category }}{{ end }}">
     <a href="{{.Permalink}}" title="{{.Params.titre}}" class="img-link">
-        <img src="{{- .Params.headerimage -}}" alt="{{- .Params.titre -}}">
+        <img src="{{- .Params.feature_image -}}" alt="{{- .Params.titre -}}">
     </a>
     {{- if $hasCategory -}}
     <a href="{{ $.Site.BaseURL }}categories/{{ $category | urlize }}" class="category">
@@ -17,6 +17,6 @@
         <a href="{{.Permalink}}" title="{{.Params.titre}}">{{.Params.titre}}</a>
     </h4>
     <p class="small">{{- .Summary -}}</p>
-    {{- $author := index $.Site.Data.authors .Params.author -}}
+    {{- $author := index .Params.authors 0 -}}
     <p class="author">By <span>{{ $author.name }}</span> | {{ .ReadingTime }} MIN READ</np>
 </div>

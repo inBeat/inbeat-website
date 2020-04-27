@@ -184,6 +184,13 @@ h5 {
         max-height: 31.25rem;
         margin: 1rem auto;
     }
+    figcaption {
+        color: $dark_sub;
+        font-size: 0.6875rem;
+        line-height: 1rem;
+        margin-top: -0.5rem;
+        text-align: center;
+    }
     .pro-tip {
         margin: 0 -5% 1em;
         padding-left: 5%;

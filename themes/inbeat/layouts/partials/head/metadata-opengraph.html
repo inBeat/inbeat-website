@@ -2,7 +2,7 @@
 {{ if eq .Type "articles" }}
 <meta property="og:type"   content="article" />
 <meta property="og:article:published_time" content='{{.PublishDate.Format "2006-01-02T15:04:05Z07:00"}}' />
-<meta property="og:article:modified_time" content="{{.Params.updated}}" />
+<meta property="og:article:modified_time" content='{{.Lastmod.Format "2006-01-02T15:04:05Z07:00"}}' />
 {{- with .Params.tags -}}
 		{{- range . -}}
 		<meta property="og:article:tag" content="{{.}}" />
@@ -14,11 +14,11 @@
 
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:locale" content="{{ .Lang }}">
-<meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+<meta property="og:title" content="{{ if .Params.og_title }}{{ .Params.og_title }}{{ else }}{{ .Title }}{{ end }}">
 <meta property="og:image" content="{{ .Site.Params.siteaddressno }}{{.Params.image | default .Site.Data.settings.defaultsocialimage }}">
 <meta property="og:image:secure_url" content="{{ .Site.Params.siteaddressno }}{{.Params.image | default .Site.Data.settings.defaultsocialimage }}"/>
 <meta property="og:image:type" content="image/jpeg" />
-<meta property="og:description" content="{{ if .IsHome }}{{ .Site.Data.settings.sitedescription }}{{ else if .Description }}{{ .Description }}{{ else }}{{ .Site.Data.settings.sitedescription }}{{ end }}"/>
+<meta property="og:description" content="{{ if .Params.og_description }}{{ .Params.og_description }}{{ else }}{{ .Description }}{{ end }}"/>
 <meta property="og:site_name" content="{{ .Site.Title }}">
 
 

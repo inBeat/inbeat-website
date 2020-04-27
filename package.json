@@ -5,6 +5,7 @@
   "main": "no",
   "scripts": {
     "test": "none",
+    "generate": "node createMdFilesFromGhost.js",
     "prod": "gulp prod",
     "watch": "gulp watch",
     "watch-article": "gulp watch-article"
@@ -21,7 +22,9 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
+    "@tryghost/content-api": "^1.4.1",
     "browser-sync": "^2.26.7",
+    "fs-extra": "^9.0.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-concat": "^2.6.1",
@@ -29,6 +32,7 @@
     "gulp-sass": "^4.0.1",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
+    "js-yaml": "^3.13.1",
     "node-sass": "^4.13.1"
   },
   "browserslist": {
