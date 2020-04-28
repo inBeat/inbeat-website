@@ -5,6 +5,11 @@ home:
       Once you have canceled your plan, you will retain access to your premium
       plan until the end of your subscription cycle. At this point, you will be
       moved to our free plan.
+  - question: Which search filters are you offering?
+    answer: >-
+      Using inBeat, you can filter your search by: Followers, Location, Language,
+      Engagement, Is Verified, Has Email, Has Website. Both the location and the
+      language filters are not available on the Teaser Plan.
   - question: What is a campaign?
     answer: >-
       An influencer marketing campaign usually represents a specific outreach effort.
@@ -14,6 +19,15 @@ home:
     answer: >-
       You will receive the following information, if available: Handle, Email, Profile URL, Language,
       Followers, Engagement, Topics, Website.
+  - question: How do I contact influencers when I am done searching?
+    answer: >-
+      When you export your campaign, you will receive a CSV file, which you can add to your favorite
+      CRM tool. We propose using Mailshake or Gmass, but you can use any tool you wish. These tools
+      make pitching influencers much easier to manage.
+  - question: Do you have a partnership with the influencers on your platform?
+    answer: >-
+      We don't have any relationship with the influencers displayed on inBeat. They were chosen and added
+      to our platform based on their content authenticity and their metrics.
   - question: We are a charity, do you have any special discounts?
     answer: >-
       Absolutely. Contact us and we will unlock our charity plan for you.

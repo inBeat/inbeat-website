@@ -13,25 +13,8 @@ function header() {
 }
 
 function home() {
-    // Animations in the features section
-    var homeAnimations = ['search-animation', 'pick-animation', 'export-animation'];
-    homeAnimations.forEach(function(iconName) {
-        var ctn = document.getElementById(iconName);
-        if (!ctn) {
-            return;
-        }
-        bodymovin.loadAnimation({
-            container: ctn, // Required
-            path: '/animations/placeholder.json', // Required
-            renderer: 'svg', // Required
-            loop: true, // Optional
-            autoplay: true, // Optional
-            name: iconName, // Name for future reference. Optional.
-        });
-    }); 
-
     // Icons in the extras section
-    var homeIcons = ['unlimited-searches', 'blazingly-fast'];
+    var homeIcons = ['unlimited-searches', 'blazingly-fast', 'affordable-pricing'];
     homeIcons.forEach(function(iconName) {
         var icon = document.getElementById(iconName);
         if (!icon) {

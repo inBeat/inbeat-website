@@ -30,29 +30,36 @@ features:
     text: >-
       Explore our <span>spam-checked database</span> of influencers using metrics and
       keywords to find the profiles you need.
-    link: '#'
+    link:
+      text: View all our Search Filters &#8594;
+      link: '#home-faq'
     question:
-      text: Database vs marketplace?
-      link: '#'
-    animation: search-animation
+      text: How do you spam-check your influencers?
+      link: '#home-faq'
+    video: search-with-flexibility
   - id: pick
     title: Pick out the bestest
     text: >-
       <span>Quickly</span> go through results and add the fitting influencers to your list. 
-    link: '#'
+    link:
+      text: Learn more &#8594;
+      link: '#home-faq'
     question:
-      text: Do we pre-vet the influencers?
-      link: '#'
-    animation: pick-animation
+      text: Database vs marketplace?
+      link: '#home-faq'
+    video: pick-out-the-bestest
   - id: export
     title: Export for outreach
     text: >-
       Once your list is ready, you can export all <span>contact information</span> in a click. 
-    link: '#'
+    link:
+      text: CSV Export Example &#8594;
+      link: https://docs.google.com/spreadsheets/d/1b0GX1aPT7152YJ8LNzSFd-mGHzvvUT0319TOjrNEn5M/edit?usp=sharing
+      external: true
     question:
       text: What can I do with the exports?
-      link: '#'
-    animation: export-animation
+      link: '#home-faq'
+    video: export-for-outreach
 extras:
   - title: Unlimited Searches
     text: Search as much as you want, using our powerful search filters.
@@ -62,7 +69,7 @@ extras:
     icon: blazingly-fast
   - title: Affordable pricing
     text: Keepin' it simple. We offer transparent fluffless pricing.
-    icon: unlimited-searches-2
+    icon: affordable-pricing
 whatwedo:
   col1:
     title: Too long;<br>didn't read
@@ -87,7 +94,7 @@ whatwedo:
           <strong>Marketplace:</strong>  We’re not a marketplace. Looking for one?
       - text: >-
           <strong>Suck</strong>
-startnow:
-  title: Get crackin'
-  description: Start your influencer campaign today, with inBeat.
+# startnow:
+#   title: Get crackin'
+#   description: Start your influencer campaign today, with inBeat.
 ---

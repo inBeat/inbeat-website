@@ -142,6 +142,10 @@
         @include breakpoint(md) {
             margin-bottom: 0;
         }
+        video {
+            width: 100%    !important;
+            height: auto   !important;
+        }
     }
 }
 
