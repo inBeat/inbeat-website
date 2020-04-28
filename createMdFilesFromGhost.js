@@ -3,9 +3,15 @@ const yaml = require('js-yaml');
 const fs = require('fs-extra');
 const path = require('path');
 
+if (process.env.NODE_ENV !== 'production') {
+    require('dotenv').config();
+}
+
+const ghostURL = process.env.GHOST_URL;
+const ghostKey = process.env.GHOST_KEY;
 const api = new GhostContentAPI({
-    url: 'https://ghost.inbeat.co', // replace with your Ghost API URL
-    key: 'ca9f5fd6fb342409d56eea20d4', // replace with your API key
+    url: ghostURL, // replace with your Ghost API URL
+    key: ghostKey, // replace with your API key
     version: "v3"
 });
 
