@@ -2,22 +2,22 @@
 {{- if not (eq (mod (len .items) 3) 0) -}}
 {{- $nb = add $nb 1 -}}
 {{- end -}}
-<div class="top-row">
-    <div>
+<div class="row">
+    <div class="col-xs-6 col-md-4">
         <ul>
         {{- range $i, $e := first $nb .items -}}
         <li><a href="{{- $.Site.BaseURL -}}/top-influencers{{- $e.link }}">{{- $e.name -}}</a></li>
         {{- end -}}
         </ul>
     </div>
-    <div>
+    <div class="col-xs-6 col-md-4">
         <ul>
         {{- range $i, $e := first $nb (after $nb .items) -}}
         <li><a href="{{- $.Site.BaseURL -}}/top-influencers{{- $e.link }}">{{- $e.name -}}</a></li>
         {{- end -}}
         </ul>
     </div>
-    <div>
+    <div class="col-xs-6 col-md-4">
         <ul>
         {{- range $i, $e := after $nb (after $nb .items) -}}
         <li><a href="{{- $.Site.BaseURL -}}/top-influencers{{- $e.link }}">{{- $e.name -}}</a></li>

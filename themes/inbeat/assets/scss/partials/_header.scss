@@ -1,0 +1,171 @@
+#header {
+    height: $mobilenavheight;
+    padding-left: 0.5rem;
+    padding-right: 1rem;
+    margin: 0;
+    @include breakpoint(sm) {
+        height: $navheight;
+        padding-left: 0;
+        padding-right: 0;
+        margin-left: -0.5rem;
+        margin-right: -0.5rem;
+    }
+    .logo {
+        display: block;
+        svg {
+            width: 1.25rem;
+            height: 1.25rem;
+            z-index: 12;
+            fill: $dark;
+            position: relative;
+            display: block;
+        }
+    }
+    button {
+        outline: none !important;
+        z-index: 12;
+        position: relative;
+        display: block;
+        margin-left: auto;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: transparent;
+        &.right {
+            float: right;
+        }
+    }
+    li {
+        float: left;
+        padding-right: 3rem;
+        cursor: pointer;
+        &:last-child {
+            padding-right: 0;
+        }
+        &.cta {
+            line-height: 2.375rem;
+        }
+        a:not(.btn) {
+            text-align: left;
+            font-size: 1rem;
+            line-height: 2.375rem;;
+            color: $dark;
+            text-decoration: none;
+        }
+        &.has-submenu {
+            ul {
+                display: none;
+                position: absolute;
+                top: 80%;
+                border: 1px solid #DFDFDF;
+                box-shadow: 0px 4px 11px rgba(0, 0, 0, 0.1);
+                padding: 0px 20px;
+                width: 14rem;
+                z-index: 5;
+                background: white;
+            }
+            li {
+                float: none;
+                padding-left: 0.625rem;
+                border-bottom: 1px solid #DFDFDF;
+                a {
+                    line-height: 4.5rem;
+                }
+                &:last-child {
+                    border: none;
+                }
+            }
+            &:hover {
+                ul {
+                    display: block;
+                }
+            }
+        }
+    }
+    .col-xs-7 li {
+        line-height: 3.125rem;
+    }
+}
+
+#menu-overlay {
+    position: fixed;
+    z-index: 11;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: $dark;
+    display: none;
+    opacity: 0;
+    transition: opacity 0.2s;
+    ul {
+        margin-top: 100px;
+        padding-left: 30px;
+        list-style: none;
+        li {
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+            a {
+                color: white !important;
+                text-decoration: none;
+                font-size: 1.625rem;
+                line-height: 2.375rem;
+            }
+            &.has-submenu {
+                margin-bottom: 0;
+                a {
+                    font-weight: bold;
+                }
+            }
+            &.is-submenu {
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+        }
+    }
+    div.cta {
+        position: absolute;
+        bottom: 10px;
+        left: 30px;
+        width: calc(100% - 60px);
+        margin: auto;
+        a {
+            display: block;
+            border-color: $dark;
+            span {
+                font-weight: bold;
+            }
+        }
+    }
+}
+
+.with-menu {
+    overflow-y: hidden;
+    #menu-overlay {
+        display: block;
+        opacity: 1;
+    }
+    #header {
+        .logo svg {
+            fill: white;
+        }
+        .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+            background-color: white;
+        }
+    }
+    #header-container {
+        z-index: 12;
+        background: $dark;
+    }
+}
+#header-container {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    background: white;
+    z-index: 10;
+}

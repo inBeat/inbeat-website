@@ -1,12 +1,13 @@
-{{ define "main" }}
-<section class="section--page-top play-top profiles-container">
+{{- define "main" -}}
+<section class="container mobile-adjusted page-top" id="top-profiles-header">
     <h1>{{ .Params.Title }}</h1>
     <p>Identify the most popular {{ .Params.platform }} accounts on inBeat.</p>
-    <a href="https://app.inbeat.co/get-started" class="btn" target="_blank">Find more influencers</a>
+    <a href="https://app.inbeat.co/get-started" class="btn btn-md" target="_blank">Find more influencers</a>
 </section>
-<section class="profiles-top profiles-container">
+
+<section class="container mobile-adjusted" id="top-profiles-list">
     {{- range $i, $e := .Params.profiles -}}
-    <div class="top-row ctn">
+    <div class="row ctn">
         <div class="col-1">
             <span>{{- add $i 1 -}}</span>
         </div>
@@ -14,12 +15,15 @@
             <img src="{{- $e.avatar -}}" alt="{{- $e.username -}}">
         </div>
         <div class="col-3">
-            <div class="top-row">
+            <div class="row">
                 <div class="col-4">
-                    <h6>@{{- $e.username -}}</h6>
-                    <span>{{- $e.fullname -}}</span>
+                    <h4>@{{- $e.username -}}</h4>
+                    <span class="name">{{- $e.fullname -}}</span>
                     {{- if not (eq $e.location "") -}}
-                    <p><img src="/img/location.svg" alt="location pin">{{- $e.location -}}</p>
+                    <p>
+                        {{- partial "icons/location.html" -}}
+                        {{- $e.location -}}
+                    </p>
                     {{- end -}}
                 </div>
                 <div class="col-5 stats">
@@ -42,8 +46,8 @@
                     <span>comments per 1000 likes</span>
                 </div>
                 {{- if not (eq $e.hashtags "") -}}
-                <div class="col-6">
-                    <span><strong>Most used hashtags:</strong>{{- $e.hashtags -}}</span>
+                <div class="col-xs-12">
+                    <p class="small"><strong>Most used hashtags:</strong>{{- $e.hashtags -}}</p>
                 </div>
                 {{- end -}}
             </div>
@@ -51,9 +55,10 @@
     </div>
     {{- end -}}
 </section>
+
 {{- if isset .Params "countries" -}}
 {{- if gt (len .Params.countries) 0 -}}
-<section class="play-top-list profiles-container">
+<section class="container mobile-adjusted top-link-list">
     <h3>Discover Influencers by Countries</h3>
     {{- partial "site/toplist.html" (dict "context" . "items" .Params.countries) -}}
 </section>
@@ -62,10 +67,10 @@
 
 {{- if isset .Params "cities" -}}
 {{- if gt (len .Params.cities) 0 -}}
-<section class="play-top-list profiles-container">
+<section class="container mobile-adjusted top-link-list">
     <h3>Discover Influencers by Cities</h3>
     {{- partial "site/toplist.html" (dict "context" . "items" .Params.cities) -}}
 </section>
 {{- end -}}
 {{- end -}}
-{{ end }}
+{{- end -}}

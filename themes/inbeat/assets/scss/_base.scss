@@ -1,0 +1,228 @@
+// HTML elements
+body {
+    overflow-x: hidden;
+    color: $dark;
+    margin: 0;
+}
+
+p {
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    &.small {
+        font-size: 1rem;
+        line-height: 1.625rem;
+    }
+}
+
+a {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.625rem;
+    color: $dark;
+    text-decoration: none;
+    &.small {
+        font-size: 0.9375rem;
+    }
+    &:visited {
+        color: $dark;
+    }
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+ul, ol, li {
+    font-weight: 400;
+    font-size: 0.9375rem;
+    line-height: 2.375rem;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.align-right {
+    text-align: right;
+}
+
+a.btn {
+    background-color: $dark;
+    background: $dark;
+    border: 0.125rem solid $dark;
+    color: white;
+    border-radius: 1px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    text-decoration: none;
+    text-align: center;
+    display: inline;
+    box-sizing: border-box;
+    letter-spacing: -0.5px;
+    transition: background-color 0.3s;
+    white-space: nowrap;
+    &.btn-sm {
+        padding-top: 0.3rem;
+        padding-bottom: 0.4rem;
+    }
+    &.btn-md {
+        padding-top: 1.025rem;
+        padding-bottom: 1.1rem;
+    }
+    &.btn-lg {
+        padding-top: 1.35rem;
+        padding-bottom: 1.4rem;
+        padding-left: 3.125rem;
+        padding-right: 3.125rem;
+    }
+    &.btn-white {
+        color: $dark;
+        background: white;
+        background-color: white;
+        border-color: $dark;
+    }
+    &.btn-crazy-hover {
+        &:hover {
+            color: $dark;
+            border-color: white;
+            animation: crazy 2s infinite;
+        }
+    }
+    &.btn-crazy {
+        color: $dark;
+        border-color: white;
+        animation: crazy 2s infinite;
+    };
+}
+
+@keyframes crazy {
+    0% {
+        background-color: $yellow_sub;
+    }
+    30% {
+        background-color: $red_sub;
+    }
+    70% {
+        background-color: $green_sub;
+    }
+    100% {
+        background-color: $yellow_sub;
+    }
+}
+
+// Layout
+.container.mobile-adjusted {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    @include breakpoint(sm) {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+.container.page-top {
+    margin-top: $mobilenavheight + 3rem;
+    @include breakpoint(sm) {
+        margin-top: $navheight + 4rem;
+    }
+}
+.row.large-gutter {
+    @include breakpoint(md) {
+        margin-right: -1.5rem;
+        margin-left: -1.5rem;
+        .col-md,
+        .col-md-1,
+        .col-md-2,
+        .col-md-3,
+        .col-md-4,
+        .col-md-5,
+        .col-md-6,
+        .col-md-7,
+        .col-md-8,
+        .col-md-9,
+        .col-md-10,
+        .col-md-11,
+        .col-md-12, 
+        .col-lg,
+        .col-lg-1,
+        .col-lg-2,
+        .col-lg-3,
+        .col-lg-4,
+        .col-lg-5,
+        .col-lg-6,
+        .col-lg-7,
+        .col-lg-8,
+        .col-lg-9,
+        .col-lg-10,
+        .col-lg-11,
+        .col-lg-12 {
+            padding-right: 1.5rem;
+            padding-left: 1.5rem;
+        }
+    }
+}
+
+.hide-sm {
+    display: none !important;
+    @include breakpoint(sm) {
+        display: block !important;
+    }
+}
+
+.hide-sm-up {
+    @include breakpoint(sm) {
+        display: none !important;
+    }
+}
+
+.hide-md {
+    display: none !important;
+    @include breakpoint(md) {
+        display: block !important;
+    }
+}
+
+.hide-md-up {
+    @include breakpoint(md) {
+        display: none !important;
+    }
+}
+
+// Utils
+
+.p-tb-40 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.p-tb-80 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.m-tb-40 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.m-tb-80 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    @include breakpoint(lg) {
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+}
+
+.m-tb-160 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    @include breakpoint(lg) {
+        margin-top: 160px;
+        margin-bottom: 160px;
+    }
+}

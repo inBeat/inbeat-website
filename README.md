@@ -47,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat nostrum dolorem
 #### Protip
 
 ```
-{{% protip %}}
+{{% protip title="Pro Tip" %}}
 This will output a pale blue box with a Protip title.
 {{% /protip %}}
 ```
@@ -55,8 +55,8 @@ This will output a pale blue box with a Protip title.
 #### Quote
 
 ```
-{{% quote %}}
-This will output a cool and styled text in blockquote
+{{% quote author="Jon Howard" position="Head of Influencer Relations at Flaregames" %}}
+Over the last 2 years, we’ve experienced cases of influencer-driven UA ads performing twice as well (in terms of click-through rate %) as other creatives in our video networks at the time.
 {{% /quote %}}
 ```
 
@@ -74,12 +74,4 @@ This will make usage of automatically size images to output a responsive srcset 
 
 ```
 {{< responsiveimg src="test-2-inbeat.jpg" alt="Test" >}}
-```
-
-#### Sidenote
-
-```
-{{< sidenote >}}
-This will output a smaller note in the next, a bit like quick note.
-{{< /sidenote >}}
 ```

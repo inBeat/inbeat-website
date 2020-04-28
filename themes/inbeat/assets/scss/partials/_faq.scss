@@ -1,0 +1,17 @@
+#home-faq, #pricing-faq {
+    h2 {
+        padding-bottom: 2rem;
+        border-bottom: 1px solid $dark;
+        box-sizing: border-box;
+    }
+    .question {
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+        max-width: 25rem;
+    }
+    .small {
+        color: $dark_sub;
+        margin-top: 1rem;
+        max-width: 25rem;
+    }
+}

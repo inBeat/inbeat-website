@@ -2,240 +2,48 @@
 title: How to Work With 100s of Influencers on Instagram
 description: >-
   With the right systems in place, you can make it easy for your team to manage
-  100s of influencers at any given time. In this guide, I will go through the
-  process of discovering, pitching, and managing micro-influencers at scale.
+  100s of influencers at any given time.
 titre: Easily scale your influencer marketing campaigns
 slug: easily-scale-your-influencer-marketing-campaigns
-image: /img/Banner3.png
-headerimage: /img/BannerArtcicle.png
-date: '2020-02-24'
+feature_image: >-
+  https://ghost.inbeat.co/content/images/2020/04/easily-scale-your-influencer-marketing-campaigns.png
+lastmod: '2020-04-27T19:02:36.000-04:00'
+date: '2020-02-24T15:22:00.000-05:00'
+summary: >-
+  In this guide, I will go through the process of discovering, pitching, and
+  managing micro-influencers at scale.
+i18nlanguage: en
+weight: 0
+draft: false
 categories:
   - Tips
-author: david
-comments: 0
-shares: 0
-i18nlanguage: en
-popupstyle1: false
-draft: false
-noindex: false
+authors:
+  - id: 5ea720001387ab066ce8fbdf
+    name: David Morneau
+    slug: david
+    profile_image: 'https://ghost.inbeat.co/content/images/size/w100/2020/04/david-avatar.jpg'
+    cover_image: null
+    bio: null
+    website: null
+    location: null
+    facebook: null
+    twitter: null
+    meta_title: null
+    meta_description: null
+    url: 'https://ghost.inbeat.co/author/david/'
+
 ---
-In this guide, I will go through the process of **discovering**, **pitching**, and **managing** micro-influencers at scale.
-
-We have worked with 10 000+ micro-influencers across Instagram and Youtube throughout the life of our agency, and this is how we do things. 
-
-**Our process is simple:** 
-
-![](/img/steps.png)
-
-From my experience, working with micro-influencers is **scalable** and a **powerful** marketing channel. With the right systems in place, you can make it easy for your team to manage 100s of influencers at any given time.
-
-This article covers **Instagram** specifically, but you can apply the same systems thinking to any channel (looking at you, Tik Tok).
-
-*Let’s get into it.*
-
-## Discover influencers
-
-There are multiple ways to discover influencers. For the sake of this article, I will show you how we do our research using **inBeat** (full disclosure: I am a co-founder, and we use this tool internally within our agency). There is a free plan, which you can use to toy around with influencer marketing. If you’re looking to do this seriously, you would benefit from a paid version.
-
-You could also hire a virtual assistant (VA) to find influencers manually, or you could use another tool.
-
-### Manually Finding Influencers
-
-Here is the best way to find influencers on instagram:
-
-##### 1. Find relevant hashtags to your product
-
- *I recommend you use [Display Purposes](https://displaypurposes.com/) to simplify your research*
-
-![](/img/A.png)
-
-##### 2. Find influencers in the hashtag feed
-
-![](/img/FeedIMageAadaa.png)
-
-##### 3. Explore the influencers’ following
-
-![](/img/FeedImageSoMotehr.png)
-
-Add all the influencers you find to a Google Sheets or an Excel file. Make sure to include relevant information such as handle, email and follower count.
-
-![](/img/c.png)
-
-I cover more methods here if you’re interested. 
-
-> Typically, you want to create a workflow describing this task and outsource it to a VA. 
-
-### Using inBeat to Find Influencers
-
-inBeat allows you to filter influencers by keyword and engagement. Here is what it looks like:
-
-<a href='https://postimg.cc/pygjNj9G' target='_blank'><img src='https://i.postimg.cc/DyzPXd7T/PLatform-Preview.gif' border='0' alt='PLatform-Preview'/></a>
-
-Within the agency, we like working with influencers through email. It makes managing the relationship more straightforward, which is why we filter for accounts with an email address.
-
-![](/img/D.png)
-
-Once you have selected your filters, find influencers relevant, and add them to your campaign. When you finish, export your list. 
-
-![](/img/E.png)
-
-We will be adding this list to our CRM tool in the next step.
-
-### Pitching and negotiating Influencers
-
-You now have a list of influencers to contact. You will import these influencers into your favorite CRM. We use Mailshake internally, but any tool you like to do mass outreach will do.
-
-##### Using Mailshake to Pitch Influencers
-
-Mailshake is a paid tool, which allows you to send cold emails at scale. 
-
-If you’re just playing around with influencer marketing, you should manually send emails. There aren’t any free options from what I know.
-
-Let’s go through a brief walkthrough of how to use Mailshake.
-
-**1 - Create a campaign and import your list**
-
-![](/img/F.png)
-
-**2 - Create your pitches and follow-ups**
-
-![](/img/G.png)
-
-> Pro-tip: Import their handle as a custom field; it allows you to personalize your subject line, which drives open rates up.
-
-**3 - Schedule your outreach**
-
-Let it run! Check regularly your open rates and response rates to make sure everything is running smoothly.
-
-#### Negotiating Your Influencers
-
-Influencers are replying to you. One is asking for $2 000; the other is seeking $50. 
-
-> ##### **How much should I pay?**
-
-This is a typical question. The answer is just as typical: it depends.
-
-Rates will vary depending on the type of influencer and the size of their audience. You will use your first batch of influencers to set a benchmark.
-
-Once you have insights from your first round of outreach, the answer will come.	
-
-Negotiate as much as you can and set your base price where you feel the resistance.
-
-> ##### Managing negotiations
-
-If you are using Mailshake, use the Lead Catcher feature to make negotiating easy.
-
-![](/img/H.png)
-
-#### Onboarding Influencers
-
-*Influencer onboarding looks something like this:*
-
-1. **Negotiation**: You both accept the negotiation.
-2. **Onboarding**: An introduction email is sent, including an onboarding form that captures all relevant influencers from your influencer.
-3. **Quality Control**: You review the influencer’s profile and details. If you don’t select the influencer for any reason, you must send them an email advising them they weren’t retained.
-4. **Agreement**: An email is sent with the agreement, and the influencer signs this contract..
-5. **Shipping**: Product is shipped.
-6. **Confirmation** and Guidelines: An email is sent to confirm that the product has been shipped. The email also includes a mood board and guidelines relevant to product sharing. 
-7. **Content**: Image is posted to Instagram.
-8. **Payment**: Influencer is paid, if you agreed on a collaboration fee
-9. **Feedback**: Email is sent to ask for feedback
-
-Let’s walk through each step. 
-
-##### 1. Negotiation is accepted
-
-You have settled on a price. Mark the lead as won in your CRM, and move on to onboarding the influencer. If you need a second approval (another department, for example), make sure to let your ambassador know. The feeling of being told “You’re in,” just to be denied a couple of days later, is bad for your brand.
-
-![](/img/J.png)
-
-##### 2. Onboarding
-
-An introduction email is sent with an onboarding form to capture all the relevant information from your influencer: **Address, Name, Email, Phone Number, Etc.**
-
-When asking for the address, I advise you retrieve the information in the right format A.K.A how it feeds into your e-commerce platform.
-
-![](/img/K.png)
-
-You might want to trigger automatic order, which makes it crucial for you to have the proper format.
-
-You will want to port your form responses to Google Sheets. All decent form builders have a smooth integration to help you do this. If they don’t, look into Zapier. If they don’t integrate with Zapier as well, change tool. We use Typerforms most of the time.
-
-##### 3. Quality Control
-
-We always plan for a quality checkup, before sending the product. This checkpoint allows our clients to refuse influencers that don’t match their guidelines, while allowing us to verify their contact details.
-
-We set this up in Google Sheets with a Zapier trigger.
-
-* If you approve the influencer, Zapier triggers Hello Sign, and the influencer will receive the agreement. 
-* If you reject the influencer, we send them an email to let them know they weren’t selected
-
-![](/img/L.png)
-
-##### 4. Agreement
-
-The influencer receives and signs the agreement, and Zapier sends a PO to our e-commerce platform. *The automatic creation of a PO or a coupon is optional and will depend on your e-commerce platform limitations.*
-
-##### 5. Shipping
-
-The product is shipped to the influencer. Nothing out of the ordinary here; the process just falls into your regular e-commerce operations.
-
-##### 6. Confirmation and Guidelines
-
-An email is sent to confirm that the product has been shipped. The email also includes a mood board and guidelines relevant to product sharing. 
-
-![](/img/Mood.png)
-
-You also want to share a promo code the influencer can share with their audience, allowing you to track sales.
-
-##### 7. Content is Posted to Instagram
-
-The influencer informs you that the content was published on Instagram.
-
-At this stage, you can require a review of the content before it goes live. This is up to you and becomes relevant if you have strict FDA or FTC guidelines surrounding your product.
-
-Add a post URL to your Sheets and track the final results (sales, likes, comments). 
-
-We use an in-house tool to do this, but you can use a virtual assistant as well (we are adding a tracker to the inbeat platform, you can message me at david@inbeat.co if you want beta access).
-
-##### 8. Influencer is Paid
-
-Some people pay influencers earlier in the process, but we choose to pay them at the end. This has been working well for our agency, but you might consider that paying upfront is a better option. 
-
-*Paypal is our favorite tool to get this job done.*
-
-##### 9. Asking for Feedback
-
-Asking your influencers for feedback is a great way to generate new ideas for your brand. These gals and guys are a creative bunch, and receiving their critics will help you build a stronger brand.
-
-> Send out an email with specific questions such as:
->
-> * How was the unpackaging experience?  How was the product? 
-> * How was our support? 
-> * Any ideas on how we can make our marketing better?
-
-##### 10. Optimize and Repeat
-
-You want to make your process better. This means finding better ways to do things. Think of your email templates, influencer targeting, incentive structure, etc. 
-
-By keeping at it, you will build a robust process that will help you scale influencer marketing, without much effort.
-
-### What’s Next?
-
-Keep on rocking influencer marketing, try different channels, and optimize your process all the time. It’s a powerful marketing channel, and it synergizes well with all of your other channels. 
-
-##### Is There a Single Tool to Do it All?
-
-There are enterprise tools out there that allow you to manage a campaign from A to Z within the software. I don’t advocate for such tools. I believe that building apps through integrations is a powerful way to adapt a business process to your unique needs.  
-
-Enterprise tooling is sold at a much higher price point ($2000+ / month), locks you in, and will rarely fit your specific use case.
-
-**Google Sheets**, **Typeform**, **Mailshake**, **Zapier**, and **inBeat** will cost you **$150 to $200 a month** and allow you to get 100s of influencers.
-
-Each of these apps is built with a single purpose in mind, such as cold emailing, finding influencers, or sending forms. No enterprise tool can be best on all of these features, which makes for a clunky and rigid experience. Trying to do everything is a road to disaster.
-
-In my sense, bringing a bunch of self-serve SAAS tools together is always a better solution. Businesses just don’t don’t believe they can execute properly on these “complex problems”. It’s not hard to plug Google Sheets with Zapier and Mailshake and then use inBeat to find your influencers.
-
-*That’s it for my rant.* 
-
-Let me know how you’re using influencer marketing in the comments, and thanks for reading through.
+<p>In this guide, I will go through the process of <strong>discovering</strong>, <strong>pitching</strong>, and <strong>managing</strong> micro-influencers at scale.</p><p>We have worked with 10 000+ micro-influencers across Instagram and Youtube throughout the life of our agency, and this is how we do things.</p><p><strong>Our process is simple:</strong></p><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/steps.png" class="kg-image"></figure><p>From my experience, working with micro-influencers is <strong>scalable</strong> and a <strong>powerful</strong> marketing channel. With the right systems in place, you can make it easy for your team to manage 100s of influencers at any given time.</p><p>This article covers <strong>Instagram</strong> specifically, but you can apply the same systems thinking to any channel (looking at you, Tik Tok).</p><p><em>Let’s get into it.</em></p><h2 id="discover-influencers"><strong>Discover influencers</strong></h2><p>There are multiple ways to discover influencers. For the sake of this article, I will show you how we do our research using <strong>inBeat</strong> (full disclosure: I am a co-founder, and we use this tool internally within our agency). There is a free plan, which you can use to toy around with influencer marketing. If you’re looking to do this seriously, you would benefit from a paid version.</p><p>You could also hire a virtual assistant (VA) to find influencers manually, or you could use another tool.</p><h3 id="manually-finding-influencers"><strong>Manually Finding Influencers</strong></h3><p>Here is the best way to find influencers on instagram:</p><!--kg-card-begin: markdown--><h4 id="1findrelevanthashtagstoyourproduct">1. Find relevant hashtags to your product</h4>
+<!--kg-card-end: markdown--><p><em>I recommend you use <a href="https://displaypurposes.com/">Display Purposes</a> to simplify your research</em></p><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/A.png" class="kg-image"></figure><!--kg-card-begin: markdown--><h4 id="2findinfluencersinthehashtagfeed">2. Find influencers in the hashtag feed</h4>
+<!--kg-card-end: markdown--><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/FeedIMageAadaa.png" class="kg-image"></figure><!--kg-card-begin: markdown--><h4 id="3exploretheinfluencersfollowing">3. Explore the influencers’ following</h4>
+<!--kg-card-end: markdown--><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/FeedImageSoMotehr.png" class="kg-image"></figure><p>Add all the influencers you find to a Google Sheets or an Excel file. Make sure to include relevant information such as handle, email and follower count.</p><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/c.png" class="kg-image"></figure><p>I cover more methods here if you’re interested.</p><p>Typically, you want to create a workflow describing this task and outsource it to a VA.</p><h3 id="using-inbeat-to-find-influencers"><strong>Using inBeat to Find Influencers</strong></h3><p>inBeat allows you to filter influencers by keyword and engagement. Here is what it looks like:</p><figure class="kg-card kg-image-card"><img src="https://i.postimg.cc/DyzPXd7T/PLatform-Preview.gif" class="kg-image" alt="PLatform-Preview"></figure><p>Within the agency, we like working with influencers through email. It makes managing the relationship more straightforward, which is why we filter for accounts with an email address.</p><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/D.png" class="kg-image"></figure><p>Once you have selected your filters, find influencers relevant, and add them to your campaign. When you finish, export your list.</p><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/E.png" class="kg-image"></figure><p>We will be adding this list to our CRM tool in the next step.</p><h2 id="pitching-and-negotiating-influencers">Pitching and negotiating Influencers</h2><p>You now have a list of influencers to contact. You will import these influencers into your favorite CRM. We use Mailshake internally, but any tool you like to do mass outreach will do.</p><h3 id="using-mailshake-to-pitch-influencers">Using Mailshake to Pitch Influencers</h3><p>Mailshake is a paid tool, which allows you to send cold emails at scale.</p><p>If you’re just playing around with influencer marketing, you should manually send emails. There aren’t any free options from what I know.</p><p>Let’s go through a brief walkthrough of how to use Mailshake.</p><p><strong>1 - Create a campaign and import your list</strong></p><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/F.png" class="kg-image"></figure><p><strong>2 - Create your pitches and follow-ups</strong></p><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/G.png" class="kg-image"></figure><!--kg-card-begin: html-->{{% protip title="Author's note" %}}
+Import their handle as a custom field; it allows you to personalize your subject line, which drives open rates up.
+{{% /protip %}}<!--kg-card-end: html--><p><strong>3 - Schedule your outreach</strong></p><p>Let it run! Check regularly your open rates and response rates to make sure everything is running smoothly.</p><h3 id="negotiating-your-influencers">Negotiating Your Influencers</h3><p>Influencers are replying to you. One is asking for $2 000; the other is seeking $50.</p><!--kg-card-begin: markdown--><h4 id="howmuchshouldipay">How much should I pay?</h4>
+<!--kg-card-end: markdown--><p>This is a typical question. The answer is just as typical: it depends.</p><p>Rates will vary depending on the type of influencer and the size of their audience. You will use your first batch of influencers to set a benchmark.</p><p>Once you have insights from your first round of outreach, the answer will come.</p><p>Negotiate as much as you can and set your base price where you feel the resistance.</p><!--kg-card-begin: markdown--><h4 id="managingnegotiations">Managing negotiations</h4>
+<!--kg-card-end: markdown--><p>If you are using Mailshake, use the Lead Catcher feature to make negotiating easy.</p><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/H.png" class="kg-image"></figure><h2 id="onboarding-influencers">Onboarding Influencers</h2><p><em>Influencer onboarding looks something like this:</em></p><ol><li><strong>Negotiation</strong>: You both accept the negotiation.</li><li><strong>Onboarding</strong>: An introduction email is sent, including an onboarding form that captures all relevant influencers from your influencer.</li><li><strong>Quality Control</strong>: You review the influencer’s profile and details. If you don’t select the influencer for any reason, you must send them an email advising them they weren’t retained.</li><li><strong>Agreement</strong>: An email is sent with the agreement, and the influencer signs this contract..</li><li><strong>Shipping</strong>: Product is shipped.</li><li><strong>Confirmation</strong> and Guidelines: An email is sent to confirm that the product has been shipped. The email also includes a mood board and guidelines relevant to product sharing.</li><li><strong>Content</strong>: Image is posted to Instagram.</li><li><strong>Payment</strong>: Influencer is paid, if you agreed on a collaboration fee</li><li><strong>Feedback</strong>: Email is sent to ask for feedback</li></ol><p>Let’s walk through each step.</p><h3 id="1-negotiation-is-accepted">1. Negotiation is accepted</h3><p>You have settled on a price. Mark the lead as won in your CRM, and move on to onboarding the influencer. If you need a second approval (another department, for example), make sure to let your ambassador know. The feeling of being told “You’re in,” just to be denied a couple of days later, is bad for your brand.</p><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/J.png" class="kg-image"></figure><h3 id="2-onboarding">2. Onboarding</h3><p>An introduction email is sent with an onboarding form to capture all the relevant information from your influencer: <strong>Address, Name, Email, Phone Number, Etc.</strong></p><p>When asking for the address, I advise you retrieve the information in the right format A.K.A how it feeds into your e-commerce platform.</p><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/K.png" class="kg-image"></figure><p>You might want to trigger automatic order, which makes it crucial for you to have the proper format.</p><p>You will want to port your form responses to Google Sheets. All decent form builders have a smooth integration to help you do this. If they don’t, look into Zapier. If they don’t integrate with Zapier as well, change tool. We use Typerforms most of the time.</p><h3 id="3-quality-control">3. Quality Control</h3><p>We always plan for a quality checkup, before sending the product. This checkpoint allows our clients to refuse influencers that don’t match their guidelines, while allowing us to verify their contact details.</p><p>We set this up in Google Sheets with a Zapier trigger.</p><ul><li>If you approve the influencer, Zapier triggers Hello Sign, and the influencer will receive the agreement.</li><li>If you reject the influencer, we send them an email to let them know they weren’t selected</li></ul><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/L.png" class="kg-image"></figure><h3 id="4-agreement">4. Agreement</h3><p>The influencer receives and signs the agreement, and Zapier sends a PO to our e-commerce platform. <em>The automatic creation of a PO or a coupon is optional and will depend on your e-commerce platform limitations.</em></p><h3 id="5-shipping">5. Shipping</h3><p>The product is shipped to the influencer. Nothing out of the ordinary here; the process just falls into your regular e-commerce operations.</p><h3 id="6-confirmation-and-guidelines">6. Confirmation and Guidelines</h3><p>An email is sent to confirm that the product has been shipped. The email also includes a mood board and guidelines relevant to product sharing.</p><figure class="kg-card kg-image-card"><img src="https://www.inbeat.co/img/Mood.png" class="kg-image"></figure><p>You also want to share a promo code the influencer can share with their audience, allowing you to track sales.</p><h3 id="7-content-is-posted-to-instagram">7. Content is Posted to Instagram</h3><p>The influencer informs you that the content was published on Instagram.</p><p>At this stage, you can require a review of the content before it goes live. This is up to you and becomes relevant if you have strict FDA or FTC guidelines surrounding your product.</p><p>Add a post URL to your Sheets and track the final results (sales, likes, comments).</p><p>We use an in-house tool to do this, but you can use a virtual assistant as well (we are adding a tracker to the inbeat platform, you can message me at <a href="mailto:david@inbeat.co">david@inbeat.co</a> if you want beta access).</p><h3 id="8-influencer-is-paid">8. Influencer is Paid</h3><p>Some people pay influencers earlier in the process, but we choose to pay them at the end. This has been working well for our agency, but you might consider that paying upfront is a better option.</p><p><em>Paypal is our favorite tool to get this job done.</em></p><h3 id="9-asking-for-feedback">9. Asking for Feedback</h3><p>Asking your influencers for feedback is a great way to generate new ideas for your brand. These gals and guys are a creative bunch, and receiving their critics will help you build a stronger brand.</p><!--kg-card-begin: html-->{{% protip title="Author's note" %}}
+Send out an email with specific questions such as:
+
+- How was the unpackaging experience? How was the product?
+- How was our support?
+- Any ideas on how we can make our marketing better?
+{{% /protip %}}<!--kg-card-end: html--><h3 id="10-optimize-and-repeat">10. Optimize and Repeat</h3><p>You want to make your process better. This means finding better ways to do things. Think of your email templates, influencer targeting, incentive structure, etc.</p><p>By keeping at it, you will build a robust process that will help you scale influencer marketing, without much effort.</p><h2 id="what-s-next">What’s Next?</h2><p>Keep on rocking influencer marketing, try different channels, and optimize your process all the time. It’s a powerful marketing channel, and it synergizes well with all of your other channels.</p><h3 id="is-there-a-single-tool-to-do-it-all">Is There a Single Tool to Do it All?</h3><p>There are enterprise tools out there that allow you to manage a campaign from A to Z within the software. I don’t advocate for such tools. I believe that building apps through integrations is a powerful way to adapt a business process to your unique needs.</p><p>Enterprise tooling is sold at a much higher price point ($2000+ / month), locks you in, and will rarely fit your specific use case.</p><p><strong>Google Sheets</strong>, <strong>Typeform</strong>, <strong>Mailshake</strong>, <strong>Zapier</strong>, and <strong>inBeat</strong> will cost you <strong>$150 to $200 a month</strong> and allow you to get 100s of influencers.</p><p>Each of these apps is built with a single purpose in mind, such as cold emailing, finding influencers, or sending forms. No enterprise tool can be best on all of these features, which makes for a clunky and rigid experience. Trying to do everything is a road to disaster.</p><p>In my sense, bringing a bunch of self-serve SAAS tools together is always a better solution. Businesses just don’t don’t believe they can execute properly on these “complex problems”. It’s not hard to plug Google Sheets with Zapier and Mailshake and then use inBeat to find your influencers.</p><p><em>That’s it for my rant.</em></p><p>Let me know how you’re using influencer marketing in the comments, and thanks for reading through.</p>

@@ -1,36 +1,88 @@
-{{- $mymonths := $.Site.Data.mois.mois -}}
-{{- $mydays := $.Site.Data.jour.jour -}}
-<footer class="footer" id="footer">
-    <div class="footer__content footer__content--fluid-width footer__content--svg">
-      <div class="grid grid--5col">
-        <div class="grid__item grid__item--x2">
-          <h3 class="grid__title grid__title--footer-logo">INBEAT</h3>
-          <p class="grid__text grid__text--copyright">Copyright &copy; {{ dateFormat "2006" now }} INBEAT.  <br />All Rights Reserved. Proudly made in Montreal. </p>
-          <ul class="grid__list grid__list--sicons">
-              <li>
-                <a href="https://www.linkedin.com/company/inbeat/" title="inBeat LinkedIn"><img src="{{- $.Site.BaseURL -}}images/social/black/linkedin.png" alt="LinkedIn logo" title=""/></a>
-              </li>
-          </ul>
+<footer>
+    <div class="container mobile-adjusted">
+        <div class="row">
+            <div class="col-xs-6 col-md-3">
+                <p class="small">inBeat</p>
+                <ul>
+                    {{- range .Site.Data.footer.col1 -}}
+                    <li>
+                        <a href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                    </li>
+                    {{- end -}}
+                    <li>
+                        <a href="https://app.inbeat.co/get-started" title="Sign up">Sign up</a>
+                    </li>
+                    <li>
+                        <a href="https://app.inbeat.co" title="Sign in">Sign in</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-xs-6 col-md-3">
+                <p class="small">Ressources</p>
+                <ul>
+                    {{- range .Site.Data.footer.col2 -}}
+                    <li>
+                        <a href="{{- $.Site.BaseURL -}}{{- .link -}}" title="{{- .anchor }}">{{- .anchor }}</a>
+                    </li>
+                    {{- end -}}
+                </ul>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <p class="small">Support</p>
+                <ul>
+                    <li><a href="{{- $.Site.Data.settings.bookcall -}}" title="Book a call">Book a call</a></li>
+                    <li><a href="mailto:david@inbeat.co" title="Send an e-mail">Send us an e-mail</a></li>
+                    <li>
+                        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Fax" target="_blank">Fax</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+                <p class="small">Social</p>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <ul>
+                            <li>
+                                <a href="https://www.facebook.com/inBeat.co/" title="Facebook" target="_blank">
+                                    Facebook
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/inbeat.co/" title="Instagram" target="_blank">
+                                    Instagram
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.tiktok.com/@inbeat/" title="TikTok" target="_blank">
+                                    TikTok
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-6">
+                        <ul>
+                            <li>
+                                <a href="https://www.youtube.com/channel/UC1ur6zPPCD03vIjVbU-yZTg" title="Youtube" target="_blank">
+                                    Youtube
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.linkedin.com/company/inbeat/" title="Linkedin" target="_blank">
+                                    Linkedin
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="grid__item"></div>
-        <div class="grid__item">
-          <h3 class="grid__title grid__title--footer">Product</h3>
-          <ul class="grid__list grid__list--fmenu">
-              <li><a href="{{- $.Site.BaseURL -}}">About</a></li>
-              <li><a href="{{- $.Site.BaseURL -}}pricing">Pricing</a></li>
-              <li><a href="https://app.inbeat.co">Log in</a></li>
-              <li><a href="https://app.inbeat.co/get-started">Sign up</a></li>
-          </ul>
+        <div class="row bottom middle-xs">
+            <div class="col-xs-6 col-md-9">
+                <span>inBeat. <a href="{{- $.Site.BaseURL -}}bug-bounty" title="Bug Bounty">Found a bug?</a></span>
+            </div>
+            <div class="col-xs-6 col-md-3">
+                <span class="made">Made with love in Montreal</span>
+            </div>
         </div>
-        <div class="grid__item">
-          <h3 class="grid__title grid__title--footer">Support</h3>
-          <ul class="grid__list grid__list--fmenu">
-              <li><a href="mailto:david@inbeat.co">Contact</a></li>
-              <li><a href="{{- $.Site.BaseURL -}}articles">Articles</a></li>
-              <li><a title="Privacy Policy" href="{{- $.Site.BaseURL -}}privacy-policy">Privacy Policy</a></li>
-              <li><a title="Terms and Conditions" href="{{- $.Site.BaseURL -}}terms-and-conditions">Terms & Conditions</a></li>
-          </ul>
-        </div>
-      </div>
     </div>
 </footer>

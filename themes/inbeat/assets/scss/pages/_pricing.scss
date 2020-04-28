@@ -1,0 +1,266 @@
+#teaser-trial {
+    margin-top: $mobilenavheight;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    background: $yellow_sub;
+    @include breakpoint(sm) {
+        margin-top: $navheight;
+    }
+    @include breakpoint(md) {
+        padding-top: 6.75rem;
+        padding-bottom: 6.75rem;
+    }
+    p.description {
+        margin-bottom: 4rem;
+    }
+    p.features {
+        margin-left: 30px;
+        position: relative;
+        svg {
+            position: absolute;
+            left: -32px;
+            top: 0.5rem;
+        }
+        span {
+            font-weight:bold;
+        }
+    }
+    .btn {
+        margin-bottom: 3rem;
+        display: block;
+        @include breakpoint(md) {
+            margin-bottom: 0;
+            display: inline;
+        }
+        span {
+            font-weight: bold;
+        }
+    }
+}
+
+#pricing {
+    .pricing-header {
+        text-align: left;
+        margin-bottom: 20px;
+        margin-top: 30px;
+        @include breakpoint(md) {
+            margin-top: 0;
+            text-align: center;
+            margin-bottom: 100px;
+        }
+    }
+    .pricing-schedule {
+        & > span {
+            display: inline-block;
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            cursor: pointer;
+            vertical-align: middle;
+            &:first-child {
+                margin-right: 2rem;
+            }
+            span {
+                vertical-align: middle;
+                &.deal {
+                    margin-left: 5px;
+                    font-size: 0.6875rem;
+                    line-height: 1rem;
+                    color: $dark;
+                    animation: crazy 2s infinite;
+                    border-radius: 10px;
+                    padding: 0.1rem 0.3rem;
+                }
+            }
+        }
+    }
+    #pricing-row {
+        &.monthly {
+            #monthly-schedule {
+                font-weight: bold;
+                text-decoration: underline;
+            }
+            .plan .monthly-price {
+                display: inline-block;
+            }
+        }
+        &.yearly {
+            #yearly-schedule span:not(.deal) {
+                font-weight: bold;
+                text-decoration: underline;
+            }
+            .plan .yearly-price {
+                display: inline-block;
+            }
+        }
+    }
+    .col-md-4 {
+        margin-bottom: 1rem;
+        @include breakpoint(md) {
+            margin-bottom: 0;
+        }
+    }
+    .plan {
+        padding: 2rem 1.6rem;
+        height: 100%;
+        box-sizing: border-box;
+        position: relative;
+        @include breakpoint(md) {
+            padding: 2.5rem;
+        }
+        &#startup {
+            background: $yellow_sub;
+            a.btn {
+                background: $yellow;
+                background-color: $yellow;
+                border-color: $yellow;
+            }
+        }
+        &#growth {
+            background: $green_sub;
+            a.btn {
+                background: $green;
+                background-color: $green;
+                border-color: $green;
+            }
+        }
+        &#business {
+            background: $red_sub;
+            a.btn {
+                background: $red;
+                background-color: $red;
+                border-color: $red;
+            }
+        }
+        h2 {
+            font-weight: 400;
+        }
+        .monthly-price, .yearly-price {
+            font-weight: 500    ;
+            display: none;
+        }
+        p.title {
+            margin: 0;
+        }
+        p.description {
+            color: $dark_sub;
+            margin-bottom: 15rem;
+            @include breakpoint(md) {
+                margin-bottom: 17rem;
+            }
+            span {
+                font-weight: bold;
+            }
+        }
+        a.btn {
+            display: block;
+            margin-top: 3rem;
+            font-weight: bold;
+        }
+        div.features {
+            border-top: 1px solid $dark;
+            padding-top: 1rem;
+            position: absolute;
+            bottom: 2rem;
+            left: 1.6rem;
+            right: 1.6rem;
+            @include breakpoint(md) {
+                bottom: 2.5rem;
+                left: 2.5rem;
+                right: 2.5rem;
+            }
+            p {
+                margin-left: 30px;
+                position: relative;
+                cursor: pointer;
+                svg.icon--check, svg.icon--close {
+                    position: absolute;
+                    left: -32px;
+                    top: 0.5rem;
+                }
+                svg.icon--info {
+                    position: absolute;
+                    right: 0;
+                    top: 0.5rem;
+                    opacity: 0.25;
+                    transition: opacity 0.2s;
+                }
+                span {
+                    font-weight:bold;
+                }
+                .tooltip {
+                    position: absolute;
+                    top: calc(100% + 0.5rem);
+                    right: 0;
+                    background: $dark;
+                    color: white;
+                    padding: 1rem;
+                    display: none;
+                    font-size: 0.7em;
+                    line-height: 1.2;
+                    font-weight: 400;
+                    z-index: 1;
+                    &:before {
+                        content: '';
+                        width: 5px;
+                        height: 5px;
+                        position: absolute;
+                        top: -5px;
+                        left: 6rem;
+                        border-style: solid;
+                        border-width: 0 5px 5px 5px;
+                        border-color: transparent transparent black transparent;
+                        box-sizing: border-box;
+                    }
+                }
+                &.not {
+                    color: rgba(0, 0, 0, 0.25);
+                }
+                &:last-child {
+                    margin-bottom: 0;
+                }
+                &:hover:not(.not) {
+                    svg.icon--info {
+                        opacity: 1;
+                    }
+                    .tooltip {
+                        display: block;
+                    }
+                }
+            }
+        }
+    }
+}
+
+#included {
+    h4 {
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: 1rem;
+    }
+    p {
+        max-width: 17.5rem;
+        margin-top: 0.7rem;
+        &.title {
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+        &.small {
+            margin-bottom: 3rem;
+            &:last-child {
+                margin-bottom: 0;
+            }
+            &.subtitle {
+                color: $dark_sub;
+                margin-bottom: 2rem;
+                a {
+                    color: $dark_sub;
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}

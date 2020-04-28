@@ -1,0 +1,133 @@
+// List
+#featured-posts {
+    margin-bottom: 3rem;
+    @include breakpoint(md) {
+        margin-bottom: 8rem;
+    }
+    &.categories {
+        h1 {
+            margin-bottom: 2.5rem;
+        }
+    }
+    h1 {
+        // Copying style from h2
+        font-weight: 500;
+        margin-top: 0;
+        font-size: 2.2rem;
+        line-height: 2.4rem;
+        letter-spacing: -0.09rem;
+        @include breakpoint(sm) {
+            font-size: 3.0rem;
+            line-height: 3.3rem;
+        }
+        @include breakpoint(sm) {
+            font-size: 3.5rem;
+            line-height: 3.875rem;
+        }
+    }
+    .post {
+        margin-bottom: 2rem;
+        .img-link {
+            display: block;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 1rem;
+            display: block;
+        }
+        h4 {
+            font-weight: bold;
+            margin-top: 1rem;
+            a {
+                font-size: inherit;
+                line-height: inherit;
+                font-weight: inherit;
+            }
+        }
+        p {
+            margin: 1rem 0;
+        }
+        .author {
+            font-size: 0.6875rem;
+            line-height: 1rem;
+            color: $dark_sub;
+            span {
+                font-weight: bold;
+            }
+        }
+        .category {
+            display: inline-block;
+            border-radius: 10px;
+            padding: 0.125rem 0.375rem;
+            font-size: 0.6875rem;
+            line-height: 1rem;
+        }
+        &.tips {
+            .category { background-color: $red_sub; }
+        }
+        &.studies {
+            .category { background-color: $green_sub; }
+        }
+        &.tutorials {
+            .category { background-color: $yellow_sub; }
+        }
+    }
+}
+
+.posts-list-title p {
+    width: 100%;
+    text-align: left;
+    border-bottom: 1px solid #CDCDCD;
+    padding-bottom: 1rem;
+}
+
+.post-list {
+    margin-bottom: 2.5rem;
+    @include breakpoint(md) {
+        margin-bottom: 5rem;
+    }
+    .col-sm-6 {
+        margin-bottom: 1rem;
+        @include breakpoint(md) {
+            margin-bottom: 0;
+        }
+    }
+    .post {
+        padding: 1rem;
+        position: relative;
+        height: 100%;
+        box-sizing: border-box;
+        .title {
+            margin-top: 0;
+            margin-bottom: 3rem;
+            font-weight: bold;
+            a {
+                font-size: inherit;
+                line-height: inherit;
+                font-weight: inherit;
+            }
+        }
+        .author {
+            margin: 0;
+            font-size: 0.6875rem;
+            line-height: 1rem;
+            color: $dark_sub;
+            position: absolute;
+            bottom: 1rem;
+            left: 1rem;
+            span {
+                font-weight: bold;
+            }
+        }
+    }
+    &.tips {
+        .post { background-color: $red_sub; }
+    }
+    &.studies {
+        .post { background-color: $green_sub; }
+    }
+    &.tutorials {
+        .post { background-color: $yellow_sub; }
+    }
+}

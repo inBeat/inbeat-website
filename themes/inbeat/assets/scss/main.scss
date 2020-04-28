@@ -1,12 +1,19 @@
-@import "_variables.scss";
-@import "_responsive.scss";
+@import "variables";
+@import "normalize/import-now";
+@import "flexboxgrid";
+@import "responsive";
 
-@import "theme/_reset.scss";
-@import "theme/_swiper.scss";
-@import "theme/_style.scss";
-@import "theme/_akia-customizations.scss";
+@import "fontsizes";
+@import "base";
 
-@import "custom/_utils.scss";
-@import "custom/_articles.scss";
-@import "custom/_popup.scss";
-@import "custom/_top.scss";
+@import "partials/header";
+@import "partials/footer";
+@import "partials/faq";
+
+@import "pages/home";
+@import "pages/top";
+@import "pages/pricing";
+@import "pages/normal";
+@import "pages/articles";
+
+@import "hamburgers";

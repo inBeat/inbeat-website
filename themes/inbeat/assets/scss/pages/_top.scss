@@ -1,0 +1,214 @@
+// Contains a list of links to top pages
+.top-link-list {
+    text-align: center;
+    a {
+        text-transform: capitalize;
+        color: $dark_sub;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+    ul {
+        margin: 0 0 0 20px;
+        padding-left: 0;
+        list-style: none;
+        @include breakpoint(xs) {
+            list-style: disc;
+        }
+    }
+    li {
+        text-align: center;
+        @include breakpoint(xs) {
+            text-align: left;
+        }
+    }
+    .row {
+        margin-bottom: 50px;
+        & > div {
+            @include breakpoint(md-down) {
+                &:nth-child(2) {
+                    order: 3;
+                }
+                &:nth-child(3) {
+                    order: 2;
+                }
+            }
+            @include breakpoint(xs-down) {
+                flex: 0 0 100%;
+                max-width: 100%;
+                &:nth-child(2) {
+                    order: 2;
+                }
+                &:nth-child(3) {
+                    order: 3;
+                }
+            }
+        }
+    }
+}
+
+// Profile top page
+#top-profiles-header {
+    text-align: center;
+    h1 {
+        font-size: 2.2rem;
+        line-height: 2.4rem;
+    }
+    p {
+        text-align: center;
+        margin: 0 auto 4rem;
+    }
+}
+
+#top-profiles-list {
+    margin-top: 80px;
+    padding-bottom: 60px;
+    .row {
+        & > div {
+            position: relative;
+            width: 100%;
+            padding-right: 15px;
+            padding-left: 15px;
+            box-sizing: border-box;
+        }
+        &.ctn {
+            border-bottom: 1px solid #ebebeb;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            &:last-of-type {
+                border: none;
+            }
+        }
+    }
+    .col-1 {
+        flex: 0 0 10%;
+        max-width: 10%;
+        @include breakpoint(sm) {
+            flex: 0 0 8.33333%;
+            max-width: 8.33333%;
+        }
+        span {
+            font-size: 20px;
+            line-height: 24px;
+            font-weight: 700;
+        }
+    }
+    .col-2 {
+        flex: 0 0 90%;
+        max-width: 90%;
+        @include breakpoint(sm) {
+            flex: 0 0 20%;
+            max-width: 20%;
+        }
+        img {
+            width: 100px;
+            height: auto;
+            border-radius: 50%;
+            margin-left: calc(40% - 35px);
+            padding-bottom: 20px;
+            @include breakpoint(sm) {
+                margin-left: 0;
+                padding-bottom: 0;
+            }
+        }
+    }
+    .col-3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+        @include breakpoint(sm) {
+            flex: 0 0 71.66667%;
+            max-width: 71.66667%;
+            text-align: left;
+        }
+        h4 {
+            font-weight: bold;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 100%;
+            margin-top: 0;
+            margin-bottom: 0.5rem;
+            font-size: 1.3rem;
+            line-height: 1.1;
+        }
+        span {
+            color: $dark_sub;
+            &.name {
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                max-width: 100%;
+                display: block;
+            }
+        }
+        p {
+            margin-top: 0.5rem;
+            text-align: center;
+            svg {
+                margin-right: 0.5rem;
+            }
+            @include breakpoint(sm) {
+                text-align: left;
+            }
+        }
+    }
+    .col-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding-bottom: 20px;
+        @include breakpoint(sm) {
+            flex: 0 0 34%;
+            max-width: 34%;
+            padding-bottom: 0;
+        }
+    }
+    .col-5 {
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+        @include breakpoint(sm) {
+            flex: 0 0 22%;
+            max-width: 22%;
+        }
+        &.stats {
+            margin-top: 0.1rem;
+            @include breakpoint(xs-down) {
+                line-height: 1.2;
+            }
+            p {
+                font-size: 1.25rem;
+                font-weight: bold;
+                margin: 0;
+            }
+            span {
+                @include breakpoint(xs-down) {
+                    font-size: 0.75rem;
+                }
+            }
+        }
+    }
+    .col-xs-12 {
+        p {
+            color: $dark_sub;
+            margin: 1rem 0 0 0;
+            @include breakpoint(sm) {
+                margin-top: 0;
+            }
+        }
+        strong {
+            margin-right: 5px;
+        }
+    }
+}
+
+.container.top-link-list,
+.container#top-profiles-list,
+.container#top-profiles-header {
+    max-width: 960px;
+    @include breakpoint(tablet) {
+        max-width: 720px;
+    }
+    @include breakpoint(phone) {
+        max-width: 540px;
+    }
+}

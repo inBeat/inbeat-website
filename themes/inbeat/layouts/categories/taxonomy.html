@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="container mobile-adjusted page-top categories" id="featured-posts">
+    <div class="row">
+        <div class="col-xs-12">
+            <h1>{{.Title}}</h1>
+        </div>
+        {{- range .Pages -}}
+        {{- partial "site/post.html" . $ -}}
+        {{- end -}}
+    </div>
+</section>
+{{ end }}

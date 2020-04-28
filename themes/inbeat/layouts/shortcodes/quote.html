@@ -1,3 +1,9 @@
+{{ $author := .Get "author" }}
+{{ $position := .Get "position" }}
 <blockquote>
-  {{- .Inner -}}
+  <p>
+    <span class="quote">“{{.Inner}}”</span>
+    <br><br>
+    <span class="author">- <span class="name">{{$author}}</span>, {{$position}}</span>
+  </p>
 </blockquote>

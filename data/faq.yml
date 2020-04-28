@@ -1,0 +1,76 @@
+home:
+  - question: Can I cancel my subscription whenever I want?
+    answer: >-
+      Yes, you can change or cancel your plan at any time in your settings.
+      Once you have canceled your plan, you will retain access to your premium
+      plan until the end of your subscription cycle. At this point, you will be
+      moved to our free plan.
+  - question: Which search filters are you offering?
+    answer: >-
+      Using inBeat, you can filter your search by: Followers, Location, Language,
+      Engagement, Is Verified, Has Email, Has Website. Both the location and the
+      language filters are not available on the Teaser Plan.
+  - question: What is a campaign?
+    answer: >-
+      An influencer marketing campaign usually represents a specific outreach effort.
+      For example, you want to outreach 100 potential influencers for a back-to-school campaign.
+      It is an easy way to manage the lifecycle of your influencer marketing.
+  - question: What do I get when I export my campaign?
+    answer: >-
+      You will receive the following information, if available: Handle, Email, Profile URL, Language,
+      Followers, Engagement, Topics, Website.
+  - question: How do I contact influencers when I am done searching?
+    answer: >-
+      When you export your campaign, you will receive a CSV file, which you can add to your favorite
+      CRM tool. We propose using Mailshake or Gmass, but you can use any tool you wish. These tools
+      make pitching influencers much easier to manage.
+  - question: Do you have a partnership with the influencers on your platform?
+    answer: >-
+      We don't have any relationship with the influencers displayed on inBeat. They were chosen and added
+      to our platform based on their content authenticity and their metrics.
+  - question: We are a charity, do you have any special discounts?
+    answer: >-
+      Absolutely. Contact us and we will unlock our charity plan for you.
+  - question: How do you spam-check your influencers?
+    answer: >-
+      We pre-vet all of our profiles by checking content authenticity, engagement metrics, and fraudulent behaviors.
+  - question: How many influencers do you have in your database?
+    answer: >-
+      We add influencers everyday to our database. As we're writing these lines, we have 550k
+      Instagram profiles and 55k TikTok profiles that are discoverable in our database.
+pricing:
+  - question: Can I cancel my subscription whenever I want?
+    answer: >-
+      Yes, you can change or cancel your plan at any time in your settings.
+      Once you have canceled your plan, you will retain access to your premium
+      plan until the end of your subscription cycle. At this point, you will be
+      moved to our free plan.
+  - question: How many credits do I need?
+    answer: >-
+      This depends on the scale at which you want to do influencer marketing.
+      Think about how many influencers you want to work with and how many you will
+      need to contact. Our experience is that 200 credits is enough for 1 campaign per month.
+  - question: What do I get when I export my campaign?
+    answer: >-
+      You will receive the following information, if available: Handle, Email, Profile URL, Language,
+      Followers, Engagement, Topics, Website.
+  - question: We are a charity, do you have any special discounts?
+    answer: >-
+      Absolutely. Contact us and we will unlock our charity plan for you.
+  - question: What counts as a monthly credit?
+    answer: >-
+      For each influencer you export in a campaign, you will be charged 1 credit.
+      If the influencer does not have an email linked to it, you will not be charged.
+      If you export the same influencer in multiple campaigns, you will only be charged once.
+      If you’re on the Free Plan, you still can’t export contacts without email.
+  - question: Can I exceed my plan's credit?
+    answer: >-
+      Our system will warn you if you exceed your plan limit. You will be able to upgrade
+      your plan at this stage.
+  - question: When do I receive my monthly credits?
+    answer: >-
+      You receive your credits every month on the date you signed up for your paid plan.
+      If you upgrade your plan, you immediately receive the number of credits of the new plan.
+  - question: How do you spam-check your influencers?
+    answer: >-
+      We pre-vet all of our profiles by checking content authenticity, engagement metrics, and fraudulent behaviors.

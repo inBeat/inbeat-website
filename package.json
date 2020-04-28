@@ -1,12 +1,14 @@
 {
-  "name": "hugo-base-theme",
+  "name": "inbeat-website",
   "version": "1.0.0",
-  "description": "Basic gulp file to process images in hugo",
+  "description": "Find qualified influencers that meet your standards on Instagram and TikTok.",
   "main": "no",
   "scripts": {
     "test": "none",
+    "generate": "node createMdFilesFromGhost.js",
     "prod": "gulp prod",
-    "watch": "gulp watch"
+    "watch": "gulp watch",
+    "watch-article": "gulp watch-article"
   },
   "repository": {
     "type": "git",
@@ -20,16 +22,30 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
+    "@tryghost/content-api": "^1.4.1",
     "browser-sync": "^2.26.7",
+    "fs-extra": "^9.0.0",
     "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
     "gulp-concat": "^2.6.1",
-    "gulp-image-resize": "^0.13.1",
-    "gulp-newer": "^1.4.0",
     "gulp-rename": "^1.2.3",
     "gulp-sass": "^4.0.1",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
-    "node-sass": "^4.13.1",
-    "run-sequence": "^2.2.1"
+    "js-yaml": "^3.13.1",
+    "node-sass": "^4.13.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version",
+      "last 1 ie version"
+    ]
   }
 }

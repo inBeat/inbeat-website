@@ -1,26 +1,21 @@
 @mixin breakpoint($value) {
-  @if $value == 'phone' {
-
-    @media screen and (max-width : $phone) { @content; }
-
-  } @else if $value == 'bigphone' {
-
-    @media screen and (max-width : $bigphone)  { @content; }
-
-  } @else if $value == 'tablet' {
-
-    @media screen and (max-width : $tablet) { @content; }
-
-  } @else if $value == 'laptop' {
-
-    @media screen and (max-width : $laptop) { @content; }
-
-  } @else if $value == 'desktop-lg' {
-
-    @media screen and (min-width : 1601px) { @content; }        
-
-  } @else {
-
-    @media screen and(max-width : $value) { @content; }
-  }
+    @if $value == 'xs' {
+        @media screen and (min-width: $xs) { @content; }
+    } @else if $value == 'sm' {
+        @media screen and (min-width: $sm) { @content; }
+    } @else if $value == 'md' {
+        @media screen and (min-width: $md) { @content; }
+    } @else if $value == 'lg' {
+        @media screen and (min-width: $lg) { @content; }
+    } @else if $value == 'xl' {
+        @media screen and (min-width: $xl) { @content; }        
+    } @else if $value == 'xs-down' {
+        @media screen and (max-width: ($xs - 0.067em)) { @content; }        
+    }@else if $value == 'sm-down' {
+        @media screen and (max-width: ($sm - 0.067em)) { @content; }        
+    } @else if $value == 'md-down' {
+        @media screen and (max-width: ($md - 0.067em)) { @content; }        
+    }@else {
+        @media screen and (min-width: $value) { @content; }
+    }
 }
