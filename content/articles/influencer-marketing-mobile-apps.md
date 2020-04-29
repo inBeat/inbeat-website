@@ -8,6 +8,8 @@ titre: Micro-Influencer Marketing for Mobile Apps
 slug: influencer-marketing-mobile-apps
 feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/micro-influencer-marketing-for-mobile-apps.png
+og_image: >-
+  https://ghost.inbeat.co/content/images/2020/04/micro-influencer-marketing-for-mobile-apps.png
 lastmod: '2020-04-27T18:19:03.000-04:00'
 date: '2020-03-30T18:13:00.000-04:00'
 summary: >-

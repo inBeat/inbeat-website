@@ -4,7 +4,6 @@ description: >-
   This is an Agreement between you and inBeat
 slug: terms-and-conditions
 layout: normal
-image: 
 noindex: true
 ---
 

@@ -7,6 +7,8 @@ titre: Thinking differently about Influencer Marketing
 slug: think-differently-about-influencers
 feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/thinking-differently-about-influencer-marketing-1.png
+og_image: >-
+  https://ghost.inbeat.co/content/images/2020/04/thinking-differently-about-influencer-marketing-1.png
 lastmod: '2020-04-27T19:11:47.000-04:00'
 date: '2020-01-20T18:49:00.000-05:00'
 summary: >-

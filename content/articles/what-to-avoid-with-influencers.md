@@ -8,6 +8,8 @@ titre: Avoid These 5 Things at All Costs When Working With Influencers
 slug: what-to-avoid-with-influencers
 feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/avoid-these-5-things-at-all-costs-when-working-with-influencers.png
+og_image: >-
+  https://ghost.inbeat.co/content/images/2020/04/avoid-these-5-things-at-all-costs-when-working-with-influencers.png
 lastmod: '2020-04-27T19:17:39.000-04:00'
 date: '2020-04-07T17:52:00.000-04:00'
 summary: >-

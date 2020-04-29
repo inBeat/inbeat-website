@@ -5,7 +5,6 @@ description: >-
 slug: thank-you
 layout: thank-you
 titre: "Thanks"
-image: 
 noindex: true
 draft: true
 ---

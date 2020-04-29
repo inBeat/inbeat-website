@@ -7,6 +7,8 @@ titre: How to Use inBeat to Find Influencers
 slug: using-inbeat
 feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/how-to-use-inBeat-to-find-influencers.png
+og_image: >-
+  https://ghost.inbeat.co/content/images/2020/04/how-to-use-inBeat-to-find-influencers.png
 lastmod: '2020-04-28T01:20:00.000-04:00'
 date: '2020-02-03T18:46:00.000-05:00'
 summary: >-

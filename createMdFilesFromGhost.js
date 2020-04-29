@@ -25,6 +25,7 @@ const createMdFilesFromGhost = async () => {
             limit: 'all',
             include: 'tags,authors',
             formats: ['html'],
+            filter: ['tag:studies', 'tag:tips', 'tag:tutorials'],
         });
 
         await Promise.all(posts.map(async (post) => {
@@ -36,13 +37,14 @@ const createMdFilesFromGhost = async () => {
             // content = content.replace(/<p>{{% protip title=&quot;/gi, '{{% protip title="');
             // content = content.replace(/&quot; %}}<\/p>/gi, '" %}}');
             // content = content.replace('<p>{{% /protip %}}</p>', '{{% /protip %}}');
-
+            
             const frontmatter = {
                 title: post.meta_title || post.title,
                 description: post.meta_description || post.excerpt,
                 titre: post.title,
                 slug: post.slug,
                 feature_image: post.feature_image,
+                og_image: post.og_image || post.feature_image,
                 lastmod: post.updated_at,
                 date: post.published_at,
                 summary: post.excerpt,
@@ -58,6 +60,14 @@ const createMdFilesFromGhost = async () => {
             if (post.og_description) {
                 frontmatter.og_description = post.og_description
             }
+
+            // The format of og_image is /content/images/2020/04/easily-scale-your-influencer-marketing-campaigns-social.png
+            // without the root of the URL. Prepend if necessary.
+            let ogImage = post.og_image || post.feature_image;
+            if (!ogImage.includes('https://ghost.inbeat.co')) {
+                ogImage = 'https://ghost.inbeat.co' + ogImage
+            }
+            frontmatter.og_image = ogImage;
 
             // There should be at least tag on the post.
             if (!post.tags || !post.tags.length) {

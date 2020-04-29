@@ -7,6 +7,8 @@ titre: 'Closing 181 Youtubers for your Brand [A COMPLETE GUIDE]'
 slug: ultimate-guide-youtuber-outreach
 feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/closing-181-youtubers-for-your-brand.png
+og_image: >-
+  https://ghost.inbeat.co/content/images/2020/04/closing-181-youtubers-for-your-brand.png
 lastmod: '2020-04-27T19:09:49.000-04:00'
 date: '2019-04-12T18:37:00.000-04:00'
 summary: >-

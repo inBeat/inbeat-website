@@ -113,6 +113,8 @@
                 text-decoration: none;
                 font-size: 1.625rem;
                 line-height: 2.375rem;
+                display: block;
+                box-sizing: border-box;
             }
             &.has-submenu {
                 margin-bottom: 0;

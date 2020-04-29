@@ -7,6 +7,8 @@ titre: Easily scale your influencer marketing campaigns
 slug: easily-scale-your-influencer-marketing-campaigns
 feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/easily-scale-your-influencer-marketing-campaigns.png
+og_image: >-
+  https://ghost.inbeat.co/content/images/2020/04/easily-scale-your-influencer-marketing-campaigns-social.png
 lastmod: '2020-04-27T19:02:36.000-04:00'
 date: '2020-02-24T15:22:00.000-05:00'
 summary: >-

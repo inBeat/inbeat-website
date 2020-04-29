@@ -1,0 +1,33 @@
+{{- define "main" -}}
+<section class="container mobile-adjusted page-top" id="article-ctn">
+    <div class="row">
+        <div class="col-xs-12 podcast" id="article-header">
+            <a href="{{ $.Site.BaseURL }}podcasts" class="category">
+                PODCASTS
+            </a>
+            <h1>{{.Params.titre}}</h1>
+            {{- $author := index .Params.authors 0 -}}
+            <div class="meta-box">
+                <img src="{{ $author.profile_image }}" alt="{{ $author.name }}">
+                <p class="author">
+                    <span>By {{ $author.name }}</span><br>
+                    <span class="infos">{{ .ReadingTime }} min read | {{.Date.Format "Jan 2 2006"}}</span>
+                </p>
+            </div>
+            <img src="{{- .Params.feature_image -}}" alt="{{- .Params.titre -}}">
+        </div>
+        <div class="col-xs-12{{ if $hasCategory }} {{ $category }}{{ end }}" id="article-body">
+            {{ .Content }}
+        </div>
+    </div>
+    <div class="row" id="article-cta">
+        <div class="col-xs-12{{ if $hasCategory }} {{ $category }}{{ end }}">
+            <h2>inBeat, for free</h2>
+            <h3>Get your Influencer campaign started.</h3>
+            <a href="https://app.inbeat.co/get-started" title="Sign up" class="btn btn-lg">
+                <span>Sign up</span> &#8212 No credit card
+            </a>
+        </div>
+    </div>
+</section>
+{{- end -}}

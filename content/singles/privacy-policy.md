@@ -4,7 +4,6 @@ description: >-
   inBeat is committed to protecting your privacy and ensuring that your visit to our website is completely secure.
 slug: privacy-policy
 layout: normal
-image: 
 noindex: true
 ---
 

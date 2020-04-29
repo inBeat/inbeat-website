@@ -7,6 +7,8 @@ titre: How to Find Tik Tok Influencers for Free
 slug: finding-tik-tok-influencers
 feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/how-to-find-tik-tok-Influencers-for-free.png
+og_image: >-
+  https://ghost.inbeat.co/content/images/2020/04/how-to-find-tik-tok-Influencers-for-free.png
 lastmod: '2020-04-27T17:50:22.000-04:00'
 date: '2020-04-24T17:48:00.000-04:00'
 summary: >-

@@ -7,6 +7,8 @@ titre: How to Find Instagram Influencers for Free
 slug: finding-instagram-influencers-free
 feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/how-to-find-instagram-influencers-for-free.png
+og_image: >-
+  https://ghost.inbeat.co/content/images/2020/04/how-to-find-instagram-influencers-for-free.png
 lastmod: '2020-04-27T17:42:14.000-04:00'
 date: '2020-01-06T13:46:00.000-05:00'
 summary: >-

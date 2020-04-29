@@ -12,6 +12,8 @@ titre: >-
 slug: slash-your-cost-per-conversion
 feature_image: >-
   https://ghost.inbeat.co/content/images/2020/04/how-to-slash-your-cost-per-conversion-by-80-using-influencer-generated-content.png
+og_image: >-
+  https://ghost.inbeat.co/content/images/2020/04/how-to-slash-your-cost-per-conversion-by-80-using-influencer-generated-content.png
 lastmod: '2020-04-27T19:07:32.000-04:00'
 date: '2020-02-12T18:23:00.000-05:00'
 summary: >-
