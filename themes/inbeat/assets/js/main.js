@@ -80,9 +80,32 @@ function pricing() {
     }
 }
 
+function affiliate() {
+    var slider = document.getElementById('customer-range');
+    if (slider) {
+        var earnings = document.getElementById('earnings');
+        var customerNb = document.getElementById('customer-nb');
+        slider.addEventListener('change', function(e) {
+            earnings.textContent = e.target.valueAsNumber * 20;
+        });
+        slider.addEventListener('input', function(e) {
+            customerNb.textContent = e.target.value;
+            var v = e.target.valueAsNumber;
+            var adj = 1;
+            if (v >= 10 && v < 100) {
+                adj = 0;
+            } else if (v >= 100) {
+                adj = -3.5
+            }
+            customerNb.style.left = ((e.target.valueAsNumber / 500) * 100 + adj + 2) + '%';
+        });
+    }
+}
+
 (function() {
     scrollTo();
     header();
     home();
     pricing();
+    affiliate();
 })();

@@ -1,0 +1,204 @@
+#top-affiliate {
+    margin-top: $mobilenavheight;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    background: $green_sub;
+    @include breakpoint(sm) {
+        margin-top: $navheight;
+    }
+    @include breakpoint(md) {
+        padding-top: 6.75rem;
+        padding-bottom: 6.75rem;
+    }
+    p.description {
+        margin-bottom: 4rem;
+        span {
+            font-weight: bold;
+        }
+    }
+    .features {
+        margin-top: 2rem;
+        span {
+            margin-left: 0.75rem;
+            margin-right: 2rem;
+            position: relative;
+            display: inline-block;
+            font-size: 0.6875rem;
+            line-height: 1rem;
+            svg {
+                position: absolute;
+                left: -0.75rem;
+                top: 0.3rem;
+                width: 0.5rem;
+                height: 0.4375rem;
+            }
+        }
+    }
+    .btn {
+        margin-bottom: 3rem;
+        display: block;
+        font-weight: bold;
+        @include breakpoint(md) {
+            margin-bottom: 0;
+            display: inline;
+        }
+    }
+}
+
+#calculator {
+    background-color: $dark;
+    height: 100%;
+    padding: 1.5rem 2rem;
+    color: white;
+    position: relative;
+    box-sizing: border-box;
+    p {
+        max-width: 18rem;
+        margin-bottom: 2rem;
+    }
+    .slider-ctn {
+        position: relative;
+        margin-bottom: 2rem;
+        width: calc(100% - 1rem);
+        margin-left: 0.5rem;
+        padding-top: 0.75rem;
+        #customer-nb {
+            position: absolute;
+            top: 0;
+            left: 2.5%;
+            font-size: 0.6875rem;
+            line-height: 1rem;
+            // transition: 0.3s;
+        }
+    }
+    .placed {
+        position: absolute;
+        font-size: 1rem;
+        line-height: 1.625rem;
+        color: rgba(255, 255, 255, 0.5);
+        &.top {
+            top: 1.5rem;
+            right: 2rem;
+        }
+        &.bottom {
+            bottom: 1.5rem;
+            left: 2rem;
+        }
+    }
+    // Taken from https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/
+    input[type=range] {
+        -webkit-appearance: none;
+        margin: 18px 0;
+        width: 100%;
+    }
+
+    input[type=range]:focus {
+        outline: none;
+    }
+
+    input[type=range]::-webkit-slider-runnable-track {
+        width: 100%;
+        height: 2px;
+        cursor: pointer;
+        animate: 0.2s;
+        box-shadow: 1px 1px 1px $dark, 0px 0px 1px $dark;
+        background: white;
+        border-radius: 1.3px;
+        border: 0.2px solid $dark;
+    }
+
+    input[type=range]::-webkit-slider-thumb {
+        box-shadow: 1px 1px 1px $dark, 0px 0px 1px $dark;
+        border: 1px solid $dark;
+        height: 18px;
+        width: 18px;
+        border-radius: 50%;
+        background: #ffffff;
+        cursor: pointer;
+        -webkit-appearance: none;
+        margin-top: -8px;
+    }
+
+    input[type=range]:focus::-webkit-slider-runnable-track {
+        background: white;
+    }
+
+    input[type=range]::-moz-range-track {
+        width: 100%;
+        height: 2px;
+        cursor: pointer;
+        animate: 0.2s;
+        box-shadow: 1px 1px 1px $dark, 0px 0px 1px $dark;
+        background: white;
+        border-radius: 1.3px;
+        border: 0.2px solid $dark;
+    }
+
+    input[type=range]::-moz-range-thumb {
+        box-shadow: 1px 1px 1px $dark, 0px 0px 1px $dark;
+        border: 1px solid $dark;
+        height: 18px;
+        width: 18px;
+        border-radius: 50%;
+        background: #ffffff;
+        cursor: pointer;
+    }
+
+    input[type=range]::-ms-track {
+        width: 100%;
+        height: 2px;
+        cursor: pointer;
+        animate: 0.2s;
+        background: transparent;
+        border-color: transparent;
+        border-width: 16px 0;
+        color: transparent;
+    }
+
+    input[type=range]::-ms-fill-lower {
+        background: #2a6495;
+        border: 0.2px solid $dark;
+        border-radius: 2.6px;
+        box-shadow: 1px 1px 1px $dark, 0px 0px 1px $dark;
+    }
+
+    input[type=range]::-ms-fill-upper {
+        background: white;
+        border: 0.2px solid $dark;
+        border-radius: 2.6px;
+        box-shadow: 1px 1px 1px $dark, 0px 0px 1px $dark;
+    }
+
+    input[type=range]::-ms-thumb {
+        box-shadow: 1px 1px 1px $dark, 0px 0px 1px $dark;
+        border: 1px solid $dark;
+        height: 18px;
+        width: 18px;
+        border-radius: 50%;
+        background: #ffffff;
+        cursor: pointer;
+    }
+
+    input[type=range]:focus::-ms-fill-lower {
+        background: white;
+    }
+
+    input[type=range]:focus::-ms-fill-upper {
+        background: white;
+    }
+}
+
+#cta-affiliate {
+    position: relative;
+    &:before {
+        content: '';
+        width: 100%;
+        height: 1px;
+        position: absolute;
+        background-color:#CDCDCD;
+        top: -30px;
+        @include breakpoint(lg) {
+            top: -80px;
+        }
+    }
+}

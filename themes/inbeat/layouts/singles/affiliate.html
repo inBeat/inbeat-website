@@ -1,0 +1,69 @@
+{{- define "main" -}}
+{{- with .Params.top -}}
+<section id="top-affiliate">
+    <div class="container mobile-adjusted">
+        <div class="row">
+            <div class="col-xs-12 col-md-5">
+                <h2>{{- .title -}}</h2>
+                <p class="description">{{- .description | markdownify -}}</p>
+                <a href="{{- .cta.link -}}" class="btn btn-md" title="{{- .cta.text -}}">
+                    {{- .cta.text -}}
+                </a>
+                <div class="features">
+                    {{- range .features -}}
+                    <span>{{ partial "icons/check.html" }}{{ . }}</span>
+                    {{- end -}}
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-offset-1 col-md-6">
+                <div id="calculator">
+                    <h2><span id="earnings">200</span>$/mo</h2>
+                    <p class="small">Calculated on our most popular plan (Growth), which is 80$ a month.</p>
+                    <div class="slider-ctn">
+                        <span id="customer-nb">10</span>
+                        <input type="range" id="customer-range" name="points" min="0" max="500" value="10">
+                    </div>
+                    <span class="placed top">Revenue Calculator</span>
+                    <span class="placed bottom">Users referred</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{- end -}}
+
+<section class="container mobile-adjusted m-tb-160" id="how-it-works-affiliate">
+    <div class="row large-gutter">
+        <div class="col-xs-6 col-md-3">
+            <h4>How it works  →</h4>
+            <p class="small subtitle">
+                If you're a natural promoter, and you’re on top of new marketing tactics,
+                then we might be the affiliate partner you need.
+            </p>
+        </div>
+        {{- range .Params.howitworks -}}
+        <div class="col-xs-6 col-md-3">
+            <p class="title">{{- .title -}}</p>
+            <p class="small">{{- .description | markdownify -}}</p>
+        </div>
+        {{- end -}}
+    </div>
+</section>
+
+{{- with .Params.cta -}}
+<section class="container m-tb-160 mobile-adjusted" id="cta-affiliate">
+    <div class="row large-gutter">
+        <div class="col-xs-12 col-md-12 col1 align-center">
+            <h2>{{- .title -}}</h2>
+            <h4>{{- .description -}}</h4>
+            <a href="{{ .cta.link }}" title="Start Earning" class="btn btn-crazy btn-md">
+                {{ htmlUnescape .cta.text | markdownify }}
+            </a>
+        </div>
+        <!-- <div class="col-xs-12 col-md-8 hide-md">
+            <div class="icon-ctn"></div>
+        </div> -->
+    </div>
+</section>
+{{- end -}}
+{{- end -}}
