@@ -82,23 +82,26 @@ function pricing() {
 
 function affiliate() {
     var slider = document.getElementById('customer-range');
+    var width = slider.clientWidth;
     if (slider) {
         var earnings = document.getElementById('earnings');
         var customerNb = document.getElementById('customer-nb');
-        slider.addEventListener('change', function(e) {
-            earnings.textContent = e.target.valueAsNumber * 20;
-        });
         slider.addEventListener('input', function(e) {
-            customerNb.textContent = e.target.value;
             var v = e.target.valueAsNumber;
-            var adj = 1;
-            if (v >= 10 && v < 100) {
-                adj = 0;
-            } else if (v >= 100) {
-                adj = -3.5
+            customerNb.textContent = e.target.value;
+            earnings.textContent = v * 20;
+
+            // position the customer nb
+            var pos = v / 500;
+            var thumbCorrect = 18 * (pos - 0.5) * -1;
+            var nbLengthCorrect = 1;
+            if (v >= 100) {
+                nbLengthCorrect = -5;
+            } else if (v >= 10) {
+                nbLengthCorrect = -2;
             }
-            customerNb.style.left = ((e.target.valueAsNumber / 500) * 100 + adj + 2) + '%';
-        });
+            customerNb.style.left = (pos * width - 4.5 + thumbCorrect + nbLengthCorrect) + 'px';
+        })
     }
 }
 

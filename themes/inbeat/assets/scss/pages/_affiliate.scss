@@ -1,10 +1,11 @@
 #top-affiliate {
     margin-top: $mobilenavheight;
     padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-bottom: 3.2rem;
     background: $green_sub;
     @include breakpoint(sm) {
         margin-top: $navheight;
+        padding-bottom: 4rem;
     }
     @include breakpoint(md) {
         padding-top: 6.75rem;
@@ -36,7 +37,6 @@
     }
     .btn {
         margin-bottom: 3rem;
-        display: block;
         font-weight: bold;
         @include breakpoint(md) {
             margin-bottom: 0;
@@ -52,6 +52,10 @@
     color: white;
     position: relative;
     box-sizing: border-box;
+    margin-top: 2rem;
+    @include breakpoint(md) {
+        margin-top: 0;
+    }
     p {
         max-width: 18rem;
         margin-bottom: 2rem;
@@ -196,7 +200,7 @@
         height: 1px;
         position: absolute;
         background-color:#CDCDCD;
-        top: -30px;
+        top: calc(-30px + 1rem);
         @include breakpoint(lg) {
             top: -80px;
         }
