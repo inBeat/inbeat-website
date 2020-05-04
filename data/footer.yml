@@ -1,6 +1,8 @@
 col1:
   - anchor: Pricing
     link: pricing
+  - anchor: Top Instagram Influencers
+    link: top-influencers/instagram
   # - anchor: Search
   #   link: search
   # - anchor: Export
@@ -8,6 +10,8 @@ col1:
 col2:
   - anchor: Articles
     link: articles
+  # - anchor: Affiliate
+  #   link: affiliate
   - anchor: Privacy Policy
     link: privacy-policy
   - anchor: Terms & Conditions

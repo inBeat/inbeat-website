@@ -25,9 +25,9 @@ h2 {
         font-size: 3.0rem;
         line-height: 3.3rem;
     }
-    @include breakpoint(sm) {
+    @include breakpoint(md) {
         font-size: 3.5rem;
-        line-height: 3.875rem;
+        line-height: 4.125rem;
     }
 }
 
@@ -41,5 +41,5 @@ h3 {
 h4 {
     font-weight: 400;
     font-size: 1.625rem;
-    line-height: 2.375rem;
+    line-height: 2.25rem;
 }

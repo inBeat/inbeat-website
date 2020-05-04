@@ -1,23 +1,23 @@
-<script type="application/ld+json"> 
-{ 
-    "@context" : "http://schema.org",
-    "@type" : "ProfessionalService", 
-    "address" : {
-        "@type": "PostalAddress",
-        "addressLocality": "{{.Site.Data.settings.address.city}}", 
-        "addressRegion": "Quebec", 
-        "postalCode": "H2X 1X2", 
-        "streetAddress": "51 Rue Sherbrooke Ouest #204"
-    }, 
-    "name":"inBeat",
-    "url":"{{.Site.Params.siteaddress}}",
-    "email":"{{.Site.Data.settings.email}}",
-    "telephone":"(819) 349-4074",
-    "image":"{{.Site.Params.siteaddressno}}{{ .Site.Data.settings.defaultsocialimage }}",
-    "openingHours": [ 
-        "Mo-Fri 8:00-17:00"
-    ],
-    "priceRange":"1",
-    "paymentAccepted":"Visa, Master Card"
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "inBeat",
+    "alternateName": "inBeat.co",
+    "url": "https://www.inbeat.co",
+    "logo": "https://www.inbeat.co/images/inbeat-logo@3x.png",
+    "image": "{{ .Site.Data.settings.defaultsocialimage }}"
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "8193494074",
+        "contactType": "Customer Service",
+        "availableLanguage": "en"
+    },
+    "sameAs": [
+        "https://www.facebook.com/inBeat.co/",
+        "https://www.youtube.com/channel/UC1ur6zPPCD03vIjVbU-yZTg",
+        "https://www.linkedin.com/company/inbeat/",
+        "https://www.producthunt.com/posts/inbeat"
+    ]
 }
 </script>
