@@ -11,7 +11,7 @@ top:
     month, for as long as the client is with us.
   cta:
     text: Become a partner today
-    link: "#no-link"
+    link: "https://inbeat.getrewardful.com/signup"
   features:
     - No commitments
     - No requirements
@@ -27,6 +27,6 @@ cta:
   description: Dive into your influencer campaign today, with inBeat. 
   cta:
     text: <span>Start Earning</span> &#8212 Today
-    link: "#no-link"
+    link: "https://inbeat.getrewardful.com/signup"
 noindex: true
 ---

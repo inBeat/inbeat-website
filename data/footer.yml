@@ -10,8 +10,8 @@ col1:
 col2:
   - anchor: Articles
     link: articles
-  # - anchor: Affiliate
-  #   link: affiliate
+  - anchor: Affiliate
+    link: affiliate
   - anchor: Privacy Policy
     link: privacy-policy
   - anchor: Terms & Conditions

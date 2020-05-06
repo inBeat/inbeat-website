@@ -6,7 +6,7 @@
             <div class="col-xs-12 col-md-5">
                 <h2>{{- .title -}}</h2>
                 <p class="description">{{- .description | markdownify -}}</p>
-                <a href="{{- .cta.link -}}" class="btn btn-md" title="{{- .cta.text -}}">
+                <a href="{{- .cta.link -}}" class="btn btn-md" title="{{- .cta.text -}}" target="_blank">
                     {{- .cta.text -}}
                 </a>
                 <div class="features">
@@ -56,7 +56,7 @@
         <div class="col-xs-12 col-md-12 col1 align-center">
             <h2>{{- .title -}}</h2>
             <h4>{{- .description -}}</h4>
-            <a href="{{ .cta.link }}" title="Start Earning" class="btn btn-crazy btn-md">
+            <a href="{{ .cta.link }}" title="Start Earning" class="btn btn-crazy btn-md" target="_blank">
                 {{ htmlUnescape .cta.text | markdownify }}
             </a>
         </div>
