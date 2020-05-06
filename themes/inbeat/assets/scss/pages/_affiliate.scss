@@ -83,6 +83,10 @@
         &.top {
             top: 1.5rem;
             right: 2rem;
+            display: none;
+            @include breakpoint(sm) {
+                display: block;
+            }
         }
         &.bottom {
             bottom: 1.5rem;

@@ -1,3 +1,23 @@
+// Utils
+// Returns a function, that, as long as it continues to be invoked, will not
+// be triggered. The function will be called after it stops being called for
+// N milliseconds. If `immediate` is passed, trigger the function on the
+// leading edge, instead of the trailing.
+function debounce(func, wait, immediate) {
+	var timeout;
+	return function() {
+		var context = this, args = arguments;
+		var later = function() {
+			timeout = null;
+			if (!immediate) func.apply(context, args);
+		};
+		var callNow = immediate && !timeout;
+		clearTimeout(timeout);
+		timeout = setTimeout(later, wait);
+		if (callNow) func.apply(context, args);
+	};
+};
+
 // Open the menu overlay on click
 function header() {
     var menuBtn = document.getElementById('menu-icon');
@@ -82,13 +102,18 @@ function pricing() {
 
 function affiliate() {
     var slider = document.getElementById('customer-range');
-    var width = slider.clientWidth;
     if (slider) {
+        var width = slider.clientWidth;
         var earnings = document.getElementById('earnings');
         var customerNb = document.getElementById('customer-nb');
-        slider.addEventListener('input', function(e) {
-            var v = e.target.valueAsNumber;
-            customerNb.textContent = e.target.value;
+        var calcPosition = function(e) {
+            var v;
+            if (e) {
+                v = e.target.valueAsNumber;
+            } else {
+                v = slider.valueAsNumber;
+            }
+            customerNb.textContent = v;
             earnings.textContent = v * 20;
 
             // position the customer nb
@@ -101,7 +126,12 @@ function affiliate() {
                 nbLengthCorrect = -2;
             }
             customerNb.style.left = (pos * width - 4.5 + thumbCorrect + nbLengthCorrect) + 'px';
-        })
+        }
+        window.addEventListener("resize", debounce(function() {
+            width = slider.clientWidth;
+            calcPosition();
+        }, 150));
+        slider.addEventListener('input', calcPosition)
     }
 }
 
