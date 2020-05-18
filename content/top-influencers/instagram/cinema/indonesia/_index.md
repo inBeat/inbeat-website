@@ -1,7 +1,7 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top cinema Instagram influencers in Indonesia in 2020. Most popular hashtags: #photooftheday #exploreindonesia #folkindonesia #folkgreen.
+  Find top cinema Instagram influencers in Indonesia in 2020. Most popular hashtags: #exploreindonesia #photooftheday #folkscenery #folkgreen.
 platform: Instagram
 profiles:
   - username: "yudidatau"
@@ -11,7 +11,7 @@ profiles:
     followers: 2686
     engagement: 2176
     commentsToLikes: 0.043587
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/91245562_165512467896851_1869419094365700096_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=ZTIaSnXMsYEAX-2W2Hq&oh=0249e01731631d0ca96064408147ed77&oe=5EB1CF47"
+    id: ck6u0q3vbh5390j71093bbncg
     verified: false
     hashtags: "#ikanatassa, #arrialexa, #beckketendgame, #nextfilm"
   - username: "teamrrq"
@@ -21,7 +21,7 @@ profiles:
     followers: 1564434
     engagement: 201
     commentsToLikes: 0.030406
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/91378868_1558971624259778_7799272383147147264_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=XIZx5WNJq_0AX_8Cp-t&oh=e7b9864a424b2285c8df95d2ba457148&oe=5EBC9270"
+    id: ck134brkivo320i191mvpf6yg
     verified: true
     hashtags: "#esports, #teamrrq, #rrqgopaympl, #pmpl2020"
   - username: "ridhoalwanfahri"
@@ -31,7 +31,7 @@ profiles:
     followers: 19996
     engagement: 695
     commentsToLikes: 0.064834
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/91124592_2785271601562672_2686627718686048256_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Uf7K08kaAMkAX-bmOPw&oh=f232df31a16af287db1a6e87d986d4a3&oe=5EBAB10F"
+    id: ck15rxgkaa6sx0i19s3ej4bhj
     verified: false
     hashtags: "#photooftheday, #smileairport, #sultansyarifkasim2, #kabutasap"
   - username: "marvbrownfilms"
@@ -41,7 +41,7 @@ profiles:
     followers: 38422
     engagement: 1722
     commentsToLikes: 0.039282
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/22344406_476723912697122_3473705377898430464_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=cq6vAxI3B4cAX8xmJlF&oh=8589c56f1ea3a2b941663424ba413ddc&oe=5EBAF763"
+    id: ck0tzzj1ns53e0i1941paqmbr
     verified: false
     hashtags: "#theatteres19, #dapaahent, #bigdealfilms, #ivetrulywon"
   - username: "mfm_ihsan"
@@ -51,7 +51,7 @@ profiles:
     followers: 2976
     engagement: 1134
     commentsToLikes: 0.217502
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/92614018_644707152759477_676255408347676672_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=_ApmjLZaQDkAX8NsUTn&oh=4a2bd68d43d06d7303829ad8ef28178d&oe=5EBA3140"
+    id: ck15sz332fjgw0i19rijp5ayq
     verified: false
     hashtags: "#santuy, #explore, #folkgood, #jalanmalam"
   - username: "anglurselurr_"
@@ -61,7 +61,7 @@ profiles:
     followers: 7805
     engagement: 1327
     commentsToLikes: 0.134842
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/91230304_204920727451971_1472667010746810368_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=R4x-6zTzoIgAX-sKshK&oh=7eea12e662630160c6426512bc15c047&oe=5EBB9497"
+    id: ck0w285ayn2bs0i1990ilig3l
     verified: false
     hashtags: "#salam"
   - username: "hasaya"
@@ -71,7 +71,7 @@ profiles:
     followers: 12329
     engagement: 934
     commentsToLikes: 0.012374
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/11875328_400878913443438_240074112_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=2ABr7hcGP-oAX9kTN1E&oh=2f5f8e3f1be67edeb59921d6c3767ef9&oe=5EBC9EA3"
+    id: ck0tt9xph1se50i19izdw7x1j
     verified: false
     hashtags: "#contaxt3, #kodak16mm"
   - username: "dipqi"
@@ -81,7 +81,7 @@ profiles:
     followers: 12403
     engagement: 738
     commentsToLikes: 0.024032
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/90321071_2741428352637560_2451619439100035072_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=0aCisia2f2gAX_9W1x8&oh=7efd2439752b00e28d72239777674823&oe=5EBBE682"
+    id: ck5zikfxqfvke0i14u3x82mxj
     verified: false
     hashtags: "#photooftheday, #gamer, #photocinematica, #dirumahaja"
   - username: "suakdi_official"
@@ -91,7 +91,7 @@ profiles:
     followers: 116904
     engagement: 222
     commentsToLikes: 0.015314
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/78789215_563967737727044_3968450121082863616_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=j653OdjWUl4AX8Scx7a&oh=8412194fa17d47cbf7637fbdd11ef3ae&oe=5EBC347F"
+    id: ck15tegl6hogh0i19b1i7ytr0
     verified: false
     hashtags: "#ekonations, #editorkeren15, #rockstareditor, #seditors"
   - username: "senjaalam_"
@@ -101,7 +101,7 @@ profiles:
     followers: 39916
     engagement: 2800
     commentsToLikes: 0.008710
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/81615773_1269930873192304_7494085059498999808_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=EZDYKL0JZQUAX_mAl3e&oh=60561d69ef0a68b03c3c6519d62dcb7a&oe=5EB71704"
+    id: ck5qa0geldxeg0i112m48zb6f
     verified: false
     hashtags: "#exploresenja, #panorama, #instagram, #exploreindonesia"
 ---

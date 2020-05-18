@@ -1,7 +1,7 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top rappers Instagram influencers in Tokyo in 2020. Most popular hashtags: #japan #tokyo #visualkei #eboy.
+  Find top rappers Instagram influencers in Tokyo in 2020. Most popular hashtags: #japan #tokyo #tomboy #ink.
 platform: Instagram
 profiles:
   - username: "djgo_730"
@@ -11,7 +11,7 @@ profiles:
     followers: 23885
     engagement: 394
     commentsToLikes: 0.009152
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/88290622_617798222334876_1007422095816130560_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=Eh9R_osqupMAX8aTlcv&oh=3f188819eba89b14482c787fcdab1cf9&oe=5EB1CC3F"
+    id: ck13ack6uppna0i19taqv02to
     verified: false
     hashtags: "#bosshogg, #flyinggoddess, #gaya, #5series"
   - username: "rareirurero"
@@ -21,7 +21,7 @@ profiles:
     followers: 51764
     engagement: 2316
     commentsToLikes: 0.004374
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/73385906_449707249232943_7483242951431159808_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=sWT_XTpDniMAX_x9jZG&oh=114878fe6d51145284e47146b61fc5c8&oe=5EB59FBD"
+    id: ck14lpg8uvtvx0i19qt4l4lmy
     verified: false
     hashtags: "#demonslayercosplay, #nier, #eboy, #harajukufashion"
   - username: "peli4649"
@@ -31,7 +31,7 @@ profiles:
     followers: 15705
     engagement: 247
     commentsToLikes: 0.011158
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/15043733_579663078892728_8775501815119609856_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=VNFXnkilZa8AX_xMsFn&oh=415d4217bad561da6c0cdceb033018ae&oe=5EA7AEDF"
+    id: ck0w75ndpbvov0i196y4n11uz
     verified: false
     hashtags: "#wasabi, #oiranmusic, #saisonrouge, #minuetcat"
   - username: "kooooyaaaa"
@@ -41,7 +41,7 @@ profiles:
     followers: 7521
     engagement: 842
     commentsToLikes: 0.005369
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/38467926_1086289928193776_2403552342671622144_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=WLXIrucMY-cAX9sFvUM&oh=9c37f29c0b55bf596687693d8fdf1791&oe=5EB93032"
+    id: ck5c5x2le4awy0i11udf00cqd
     verified: false
     hashtags: "#tokyo, #lifestash, #harlem, #tokyojapan"
   - username: "letso.m"
@@ -51,7 +51,7 @@ profiles:
     followers: 3608
     engagement: 2978
     commentsToLikes: 0.057198
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/90141546_298229067821379_8224591445302968320_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=u8sdiD7duK4AX8l7PrS&oh=892f5afbf92b9e68c7abd9ae12ffc7fb&oe=5EB7CE03"
+    id: ck5hlmnsskhgy0i116rq0hgat
     verified: false
     hashtags: "#redbattechkick"
   - username: "diegoshin"
@@ -61,7 +61,7 @@ profiles:
     followers: 6916
     engagement: 1127
     commentsToLikes: 0.029591
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/11875490_1478961345737840_937998698_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=MJ6M8kNC_JsAX8Sd6t_&oh=65ee5b43a96f931d3160c1c01330d6a3&oe=5EBC1058"
+    id: ck0vzchhe8f3q0i196pgutwl5
     verified: false
     hashtags: "#moet, #flex, #backtotheoldskool, #gfriend"
   - username: "gashima"
@@ -71,7 +71,7 @@ profiles:
     followers: 23288
     engagement: 1030
     commentsToLikes: 0.028168
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/87301728_167686618017405_569747568095920128_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=2_cVt7YFp7YAX9cMUdd&oh=97f40787323fbd6105f3d0ce66891eaa&oe=5EB76D58"
+    id: ck0w4n52szejb0i19rkzd4a61
     verified: false
     hashtags: "#gashima, #whitejam, #ninja, #kawasaki"
   - username: "rareirurero"
@@ -81,7 +81,7 @@ profiles:
     followers: 51764
     engagement: 2316
     commentsToLikes: 0.004374
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/73385906_449707249232943_7483242951431159808_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=sWT_XTpDniMAX_x9jZG&oh=114878fe6d51145284e47146b61fc5c8&oe=5EB59FBD"
+    id: ck14lpg8uvtvx0i19qt4l4lmy
     verified: false
     hashtags: "#demonslayercosplay, #nier, #eboy, #harajukufashion"
   - username: "dancer_karen.k"
@@ -91,7 +91,7 @@ profiles:
     followers: 181104
     engagement: 283
     commentsToLikes: 0.007092
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/82586794_603663497132854_4309218216531460096_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=f2KrBZhr-r4AX_XADjL&oh=e8cb583d530b8f0a690acf8fe9a92c4b&oe=5EBAE90F"
+    id: ck5pw96z9lpmb0i11stawnjs5
     verified: false
     hashtags: "#queenb, #tiffanyxcatstreet, #newnails, #2018"
   - username: "yutodabeast"
@@ -101,7 +101,7 @@ profiles:
     followers: 10246
     engagement: 727
     commentsToLikes: 0.003310
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/72279306_402331417367683_8145819258308263936_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=Z0z7PBkBBQ0AX_JDuee&oh=2085899687c51895e6d375ef0370dbcc&oe=5EB23CFF"
+    id: ck13coabo1cgs0i19t6jgio3g
     verified: false
     hashtags: "#pentagon, #adachiyuto, #yutopentagon, #comeback"
 ---

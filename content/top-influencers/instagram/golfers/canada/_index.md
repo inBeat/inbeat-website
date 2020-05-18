@@ -1,7 +1,7 @@
 ---
 title: Top 10 Golfers Instagram Influencers In Canada In 2020
 description: >-
-  Find top golfers Instagram influencers in Canada in 2020. Most popular hashtags: #golf #golflife #canada #golfchannel.
+  Find top golfers Instagram influencers in Canada in 2020. Most popular hashtags: #golf #golflife #golfswing #golfing.
 platform: Instagram
 profiles:
   - username: "brontemaylaw"
@@ -11,7 +11,7 @@ profiles:
     followers: 12515
     engagement: 885
     commentsToLikes: 0.051924
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s150x150/72474184_744169102698359_230991213853933568_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Dv6PNi_POTUAX9sc6bS&oh=8dc782a4c3459a82ba4bd89b6228e733&oe=5EB9EA47"
+    id: ck15pvl0szulp0i19sd9ztfj0
     verified: true
     hashtags: "#racetocmeglobe"
   - username: "nicoleautriquegolf"
@@ -21,7 +21,7 @@ profiles:
     followers: 4010
     engagement: 1664
     commentsToLikes: 0.059235
-    avatar: "https://scontent-dus1-1.cdninstagram.com/v/t51.2885-19/s320x320/51609163_1116174395255773_4933273326802960384_n.jpg?_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_ohc=2RlyS2JjZKEAX_-17oh&oh=a195bb008b8fe52f575f12ec5cdd4c7e&oe=5EA7328E"
+    id: ck6tutfecib9k0j7103d8tq0f
     verified: false
     hashtags: "#worldtraveler, #christmas, #fore, #pro"
   - username: "markuscooper"
@@ -31,7 +31,7 @@ profiles:
     followers: 4886
     engagement: 1029
     commentsToLikes: 0.078166
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/91933098_219057479318220_1825929939153584128_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=qr6f1Cn1vo0AX_PIgWe&oh=42eb15cebb0a3e7a6abe9c5ea6243500&oe=5EBB0F88"
+    id: ck8wdihjbdvuy0j78lvk8r9gd
     verified: false
     hashtags: "#nosepainting, #coronavirus, #makeadrink, #wishmeluck"
   - username: "dazedddd"
@@ -41,7 +41,7 @@ profiles:
     followers: 7929
     engagement: 607
     commentsToLikes: 0.030410
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/87608456_479453776061465_6281923534834892800_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=p3dw6B7A8_kAX-VcIlr&oh=9a0588cc3ff5fa21f22baeec8158cae2&oe=5EB852A2"
+    id: ck6ucbiz5emun0j71kiey809b
     verified: false
     hashtags: "#golfstagram, #pga, #golffitness, #golfballs"
   - username: "tnyhaug49"
@@ -51,7 +51,7 @@ profiles:
     followers: 37875
     engagement: 446
     commentsToLikes: 0.037303
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/30593548_365909967248558_3907705458017697792_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=-OZD_aX4OXkAX9PcF8g&oh=5282f3e0f5665514f5aadf194cad39d1&oe=5EBB181E"
+    id: ck6tp5hw6hy7n0j71e209hjz2
     verified: true
     hashtags: "#coupleshoots, #bmxtrack, #tacomatrdpro, #bmxrider"
   - username: "kyle_mckiernan"
@@ -61,7 +61,7 @@ profiles:
     followers: 7314
     engagement: 704
     commentsToLikes: 0.011522
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/68726137_713912715701340_5274847755116740608_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=o9b6pocJ7pEAX_hIr2l&oh=50bfe645792860d184072b3fd3a22585&oe=5EAF7CF2"
+    id: ck0w3369wrdgj0i19sumxay20
     verified: false
     hashtags: "#civic, #koenigsegg, #zondasroadster, #importfest"
   - username: "sethwescott"
@@ -71,7 +71,7 @@ profiles:
     followers: 11090
     engagement: 573
     commentsToLikes: 0.034377
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/89116685_657052718441733_6550181149124067328_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=JRaNWFqR05MAX8cE1-R&oh=c12997f82b1428042d3494623b755415&oe=5EBBFD03"
+    id: ck6ub0ypl6u1a0j71yj231oi6
     verified: false
     hashtags: "#splitboardingistheanswer, #wintersticking, #methodmonday, #rideonjake"
   - username: "andrewneethling"
@@ -81,7 +81,7 @@ profiles:
     followers: 25538
     engagement: 240
     commentsToLikes: 0.013856
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/62231157_343591709653233_2018110793433743360_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=FmtpTmhQQZEAX89nacT&oh=2de3d41308f74b3a216a1eb8447c8259&oe=5EB6C204"
+    id: ck5hs4h5evz2g0i11g0cqcghg
     verified: false
     hashtags: "#content, #covid, #holeinone, #lucky"
   - username: "cabotlinks"
@@ -91,7 +91,7 @@ profiles:
     followers: 28020
     engagement: 355
     commentsToLikes: 0.018298
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/61907765_833831630329572_8570742397493837824_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=AynQa_GF-ikAX9mAZNx&oh=883734eb96ee8bdfe89c9435b617ff85&oe=5EB26B7C"
+    id: ck0tz6i4up86q0i19wykygtxc
     verified: false
     hashtags: "#brianoarweek, #golfswag, #cabotcliffs, #niceplaying"
   - username: "jeffhassler"
@@ -101,7 +101,7 @@ profiles:
     followers: 5311
     engagement: 1537
     commentsToLikes: 0.029904
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/65051884_461377987754561_15909744275357696_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=WE-2_0qzVPwAX9OwnMo&oh=6757fc9e91b19a505853000775490d09&oe=5EB931BB"
+    id: ck5he81derj1z0i111lh99h9x
     verified: true
     hashtags: "#lagoon42, #canadarugby, #springboks, #rugbycanada"
 ---

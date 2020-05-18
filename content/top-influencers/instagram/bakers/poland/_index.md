@@ -1,7 +1,7 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Poland In 2020
 description: >-
-  Find top bakers Instagram influencers in Poland in 2020. Most popular hashtags: #zosta #cake #wielkanoc #foodphotography.
+  Find top bakers Instagram influencers in Poland in 2020. Most popular hashtags: #zosta #cake #wielkanoc #ciasto.
 platform: Instagram
 profiles:
   - username: "anastazja.siminska"
@@ -11,7 +11,7 @@ profiles:
     followers: 2425
     engagement: 1780
     commentsToLikes: 0.028093
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/84092768_2382117248745267_7528382495071404032_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=ZX21MC5Cu6wAX9VIwFW&oh=03671a7c878fc5335310517f4f091d03&oe=5EB98330"
+    id: ck5hh1hqf5whq0i110tdj4y16
     verified: false
     hashtags: "#2020, #jeszczesi, #viva, #actress"
   - username: "lydianna91"
@@ -21,7 +21,7 @@ profiles:
     followers: 9185
     engagement: 1060
     commentsToLikes: 0.314014
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/90635294_491647051504905_8786236712213807104_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=9RhHWU9sWnkAX_NWZOO&oh=e587a4415540ae5479050f1eafd76b17&oe=5EBBE4C0"
+    id: ck15qirgi31no0i19aim26s0l
     verified: false
     hashtags: "#interiorstyling, #cosmetics, #springvibes, #sweetmoments"
   - username: "ostatnie_podrygi_50plus"
@@ -31,7 +31,7 @@ profiles:
     followers: 7515
     engagement: 1068
     commentsToLikes: 0.135011
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/72482967_2299705453471891_4938994060032475136_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=ubUkTovptIsAX_sFCyJ&oh=7e1197a513843c2d107a568b45e5c05e&oe=5EBAC86C"
+    id: ck0w482nux9a10i19r0ij8ek9
     verified: false
     hashtags: "#myhome, #stret, #50andfabulos, #kwiatys"
   - username: "land_mal"
@@ -41,7 +41,7 @@ profiles:
     followers: 39642
     engagement: 339
     commentsToLikes: 0.258890
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/46644003_1321092404699487_5382226485887107072_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=rIPnIGxbQfoAX-58X-Q&oh=9757d0053be1327a26d58dc42363a251&oe=5EBB2A38"
+    id: ck5zt7u38zwez0i14n5kq4p4q
     verified: false
     hashtags: "#feedfeed, #thebakefeed, #fromscratch, #yummy"
   - username: "rozkoszny"
@@ -51,7 +51,7 @@ profiles:
     followers: 33037
     engagement: 535
     commentsToLikes: 0.041105
-    avatar: "https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-19/s320x320/50256947_249087939361008_8971378690621440000_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_ohc=-uqfa6TAEjMAX-7xkk_&oh=ce3fe550c9a2fe74277994b7bdef3956&oe=5EA214E6"
+    id: ck8t7f7f9gkv10j78898mov3v
     verified: true
     hashtags: "#tidalpolska, #applepie, #pasta, #homecooked"
   - username: "obiaddlataty"
@@ -61,7 +61,7 @@ profiles:
     followers: 140744
     engagement: 337
     commentsToLikes: 0.035083
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/26180419_556643244673565_3527509640101232640_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=xIg2zuAsgDoAX9xCy9v&oh=be4a0b4edec3d2631619ce7590440a90&oe=5EBAA79A"
+    id: ck137r30ocyib0i19jk2kyc7v
     verified: false
     hashtags: "#kapustka, #na, #twarozek, #gotowanie"
   - username: "s_w_e_e_t_empire"
@@ -71,7 +71,7 @@ profiles:
     followers: 2004
     engagement: 2409
     commentsToLikes: 0.060451
-    avatar: "https://scontent-sin6-1.cdninstagram.com/v/t51.2885-19/s320x320/80698156_777782052718261_3507428971480350720_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_ohc=ZGXi44d0QrwAX-MMTwG&oh=403df770737a33e2c17276989011ef37&oe=5EA581BC"
+    id: ck8t9iuuco9ao0j78ia4ts45y
     verified: false
     hashtags: "#spring, #topcake, #cakedecorater, #sweetart"
   - username: "nakarmiona"
@@ -81,7 +81,7 @@ profiles:
     followers: 17249
     engagement: 277
     commentsToLikes: 0.067770
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/10724601_695775593852690_655600180_a.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=fjyEyYVVWBoAX_IggOc&oh=40721e2e5663a9aa5bbc97ad0d5fcd07&oe=5EB9EEF0"
+    id: ck5hq3ks2sfpk0i11buconyvo
     verified: false
     hashtags: "#warsztaty, #holly, #fasolazpomidorami, #meetthewedgies"
   - username: "nietylkopastapl"
@@ -91,7 +91,7 @@ profiles:
     followers: 34787
     engagement: 315
     commentsToLikes: 0.035365
-    avatar: "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.2885-19/s320x320/66841890_1365518996938888_7170245203985432576_n.jpg?_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_ohc=lX61xZr-xgcAX-DNFJW&oh=5d6967bafcca10d180d79bb87ce58e96&oe=5EA38B49"
+    id: ck8t7dwzegg670j78dckz797s
     verified: false
     hashtags: "#chlebnazakwasie, #dro, #ilovefood, #ad"
   - username: "paulina_kolondra"
@@ -101,7 +101,7 @@ profiles:
     followers: 68864
     engagement: 340
     commentsToLikes: 0.019286
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/11262652_1688016128151617_729728857_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=8dYtZFkcmiQAX9TYj4E&oh=eac9e45412fc9ca006e4c5b9949cef2f&oe=5EBC5AC6"
+    id: ck14ghyak5bc40i19htv4r2jg
     verified: false
     hashtags: "#swietazapasem, #porridgelover, #dessertaddict, #piatnica"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Performing Artists Instagram Influencers In United States In 2020
 description: >-
-  Find top performing artists Instagram influencers in United States in 2020. Most popular hashtags: #persianmusic #rastin #rastinmusic #asheghamkon.
+  Find top performing artists Instagram influencers in United States in 2020. Most popular hashtags: #persianmusic #rastinmusic #rastin #worldpremiere.
 platform: Instagram
 profiles:
   - username: "swat_mtoto_wa_eunice"
@@ -11,7 +11,7 @@ profiles:
     followers: 88584
     engagement: 1144
     commentsToLikes: 0.020446
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/53360230_395258121031252_8046194055903707136_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=pKps10uczP0AX_LHfIQ&oh=a716a24e6dc354a7d99a5f64011c0a3a&oe=5EBC3A1A"
+    id: ck5cd8o11iqak0i111z67x3ti
     verified: false
     hashtags: "#https, #mbogi"
   - username: "romanademeneges"
@@ -21,7 +21,7 @@ profiles:
     followers: 8045
     engagement: 951
     commentsToLikes: 0.052354
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/90085961_1466436640204218_8481332736148111360_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=5VR2tS8GQS4AX_3cei9&oh=d6122a7f52d3157084251f4f62f85a71&oe=5EB97229"
+    id: ck5q1e4uoak4c0i114049sbcw
     verified: false
     hashtags: "#worldwide, #black, #beach, #texas"
   - username: "chris.p.hernandez"
@@ -31,7 +31,7 @@ profiles:
     followers: 4250
     engagement: 1711
     commentsToLikes: 0.114283
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/68693039_2311720659091307_304271821304233984_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=M7pCvNd_PcsAX-4Aic4&oh=20908de378bfcdf588fc3e5f4d22929e&oe=5EB86BAD"
+    id: ck5q982tz9u1n0i11kcu3njxn
     verified: false
     hashtags: "#onetimeforthe305, #superbowlhalftimeshow, #coronavirus, #intheheights"
   - username: "kyrrobinson"
@@ -41,7 +41,7 @@ profiles:
     followers: 18553
     engagement: 372
     commentsToLikes: 0.025214
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/67488680_754932271594795_1993272847237120000_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=TgyheRR6RY4AX-84Izr&oh=7e1b60af3093e08c72eeb9556df67a6c&oe=5EB878D2"
+    id: ck6ugahk11v330j71zk3q50ok
     verified: false
     hashtags: "#thewrongman, #staypositive, #thewrongmanmcc, #sailorjerry"
   - username: "gloriajessicaid"
@@ -51,7 +51,7 @@ profiles:
     followers: 90769
     engagement: 292
     commentsToLikes: 0.019286
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/73181178_540024340123283_7153027551974129664_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=vkHqTZi--w8AX8Gju19&oh=d17cae1790742fc66f51314544a4c2a2&oe=5EBB7B60"
+    id: ck5hpdcj1r67m0i11o0iz7lwq
     verified: true
     hashtags: "#gloriayangbelingantrisetengahjamjauhjauhdixingfutangserpong, #galaxya51, #awesomelive, #jangankeluyurankalogaperluperluamat"
   - username: "amber_van_wijk"
@@ -61,7 +61,7 @@ profiles:
     followers: 7237
     engagement: 731
     commentsToLikes: 0.019745
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/71141069_886372815077554_431288839063994368_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=FD2kHVe3eNsAX8Ek_zZ&oh=577133478f64bc8fd73e47068013f70c&oe=5EB8FF24"
+    id: ck0uc60cyg5w30i19wqr7jrdq
     verified: false
     hashtags: "#mainamain, #rainyshoot, #trapeze, #handstandhandstand"
   - username: "suro_music"
@@ -71,7 +71,7 @@ profiles:
     followers: 26238
     engagement: 240
     commentsToLikes: 0.022239
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/75341360_2673015419418272_5860211493588434944_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=uKeN6OcdGv4AX8A5qoC&oh=a65d400567f6efe45270ca406b3067d0&oe=5EB1E2AC"
+    id: ck55p01xc9ip00i11o0wirsk2
     verified: false
     hashtags: "#goodenergy, #armenianwedding, #armenianartist, #persianmusicvideo"
   - username: "rastinmusic"
@@ -81,7 +81,7 @@ profiles:
     followers: 22147
     engagement: 387
     commentsToLikes: 0.071810
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/92823349_532066221054187_8673149772338561024_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=eoO16LlRofYAX9qqGBz&oh=480516c192742d98292850c4ce7aee27&oe=5EBAC2EF"
+    id: ck5cjur4hvjla0i11p3do0qop
     verified: false
     hashtags: "#hayedeh, #worldpremiere, #buddhabarmusic, #happynewyear"
   - username: "minakorea"
@@ -91,7 +91,7 @@ profiles:
     followers: 15965
     engagement: 205
     commentsToLikes: 0.075401
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/52367749_2200755140013268_5035710955397316608_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=xnPqbVnn3bgAX-vCD5J&oh=8597256d91105a28263b358336b3156e&oe=5EBC29F0"
+    id: ck6toa18bcxoi0j71new7r6fa
     verified: false
     hashtags: "#tictok, #losecontrol, #selfie, #selstargram"
   - username: "kikilayne"
@@ -101,7 +101,7 @@ profiles:
     followers: 54467
     engagement: 616
     commentsToLikes: 0.015127
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/75225464_531935770694436_8603263894154117120_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=n67gWFw8GHYAX8wB7HV&oh=d91c86f99ab3b49711f8337a16a08633&oe=5EBC5AD5"
+    id: ck5hfhwjoxk0z0i11hyji15ld
     verified: true
     hashtags: "#princessofzamunda, #springsummer20, #trophy, #gucci"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top cinema Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #zurich #swiss #visitswitzerland.
+  Find top cinema Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #zurich #swiss #ig.
 platform: Instagram
 profiles:
   - username: "ligiabaleeiro"
@@ -11,7 +11,7 @@ profiles:
     followers: 17347
     engagement: 382
     commentsToLikes: 0.054926
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/92105592_145528926876511_7468608589104414720_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=mxKw2pGrZKwAX-AZPQp&oh=f6188fe8a589b6315a72273f848347a7&oe=5EBA374C"
+    id: ck1391e21j1ut0i190z1hu3n3
     verified: false
     hashtags: "#bern, #ficaemcasa, #pinterest, #myswitzerland"
   - username: "ian_hanninen"
@@ -21,7 +21,7 @@ profiles:
     followers: 6820
     engagement: 2219
     commentsToLikes: 0.037547
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/74605137_433661933992437_4037039361525547008_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=7GtP5PIN7F8AX9R-pHD&oh=5a78140ee35b64e9ef8770c4660ba728&oe=5EB93889"
+    id: ck5hge77a2bcx0i11rpphrjol
     verified: false
     hashtags: "#audilove, #bmwlove, #turbo, #bmwinsta"
   - username: "nicopinacalvin"
@@ -31,7 +31,7 @@ profiles:
     followers: 5339
     engagement: 785
     commentsToLikes: 0.037538
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/73385882_1482219251929064_3096621018974781440_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=4FbyksPvNRgAX8HfsVN&oh=acbd01bf6f9846da76facfbf88c96939&oe=5EBB8BF7"
+    id: ck6u9d12pwuk00j7118o8dobg
     verified: false
     hashtags: "#desert, #surfing, #surfer, #rbi19wac"
   - username: "pandafpv"
@@ -41,7 +41,7 @@ profiles:
     followers: 3218
     engagement: 1003
     commentsToLikes: 0.086934
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/60419606_354093395242386_6120495904819511296_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=wShGN1LXtMwAX-OZAOr&oh=9d076053dc24f3bd9dc2dff1923abfa6&oe=5EA6DE34"
+    id: ck8swxpqafl350j78hisds5rj
     verified: false
     hashtags: ""
   - username: "blumepictures"
@@ -51,7 +51,7 @@ profiles:
     followers: 2448
     engagement: 1352
     commentsToLikes: 0.049373
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/14574150_592491127610630_3692865846637494272_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=bxrAO8wzFgQAX8YNjQK&oh=c200c1b4ace52842e4870069da57762c&oe=5EAFD234"
+    id: ck6ua3h3f19j90j71vzgohqf9
     verified: false
     hashtags: "#panasonic, #thecrapshowlaax, #thecrapshow, #decade"
   - username: "carole_dechantre"
@@ -61,7 +61,7 @@ profiles:
     followers: 32739
     engagement: 783
     commentsToLikes: 0.073259
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/17334019_353633445030442_1313979866219020288_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=DhxFiv1Jr6kAX9JV1aQ&oh=567e0dc35507d485b1469da113633d15&oe=5EBA42C8"
+    id: ck137x86kdi120i19ymim9u6n
     verified: false
     hashtags: "#switzerland, #actrice, #altmannsports, #neige"
   - username: "iamdario__"
@@ -71,7 +71,7 @@ profiles:
     followers: 5878
     engagement: 1754
     commentsToLikes: 0.234708
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/72851977_801992720249426_8356076062274224128_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=xZqkpIDPNIsAX9fLEIk&oh=a0aaf6f37dc030ae01ee8b9e1ce8fc7a&oe=5EBA9B13"
+    id: ck600uhypeamm0i14y8imlgv4
     verified: false
     hashtags: "#trip, #jordan1club, #visuals, #sicko"
   - username: "___c.a.r.i.n.a.___"
@@ -81,7 +81,7 @@ profiles:
     followers: 5586
     engagement: 1246
     commentsToLikes: 0.238969
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/87205123_129800171735688_538573832173125632_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=vB0Q_Vob1TEAX-j_gK4&oh=7f7c34e4b22238158c9d3862e67bf33f&oe=5E8A291B"
+    id: ck8szi5obojbq0j78q1yetewc
     verified: false
     hashtags: "#makeup, #confiserie, #flatlaytoday, #woman"
   - username: "leafreundleafreund"
@@ -91,7 +91,7 @@ profiles:
     followers: 2173
     engagement: 1453
     commentsToLikes: 0.035072
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/68693627_1486523884837720_7062463987534790656_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=skANj6U0XAwAX8BWKzv&oh=c131b52eac29104dbefe42bd6feb5c5b&oe=5EB69993"
+    id: ck6ubwgmec3ne0j71g0edmy0s
     verified: false
     hashtags: "#natur, #weihnachten, #featurefilm, #losangeles"
   - username: "cemerk85"
@@ -101,7 +101,7 @@ profiles:
     followers: 10143
     engagement: 1322
     commentsToLikes: 0.040841
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/37202577_1590023861120133_978664674134327296_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=kQh4NDdfHQEAX_rSAb6&oh=4fb953e8a3aa5d10bc3c97b364aaae60&oe=5EBBA309"
+    id: ck5c7lixe7r5u0i11d03yb8ud
     verified: false
     hashtags: "#hellozurich, #exclusive, #carnival, #church"
 ---

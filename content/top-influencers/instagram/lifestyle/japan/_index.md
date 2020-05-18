@@ -1,7 +1,7 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Japan In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Japan in 2020. Most popular hashtags: #pr #photooftheday #chesca #instagood.
+  Find top lifestyle Instagram influencers in Japan in 2020. Most popular hashtags: #pr #photooftheday #instagood #japan.
 platform: Instagram
 profiles:
   - username: "iamdennisfresh"
@@ -11,7 +11,7 @@ profiles:
     followers: 110906
     engagement: 810
     commentsToLikes: 0.012636
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/20688024_1571009769636170_8694877745601052672_a.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=uERdwoE-fn8AX9BlA6W&oh=f38f3ba6ef596317a8c48f31740e740c&oe=5EBA0F63"
+    id: ck0vvqnj6qbve0i19ejtoh2t2
     verified: false
     hashtags: "#familiachula, #ad, #tictacxspotify, #hustlefresh"
   - username: "rinachesca"
@@ -21,7 +21,7 @@ profiles:
     followers: 61739
     engagement: 456
     commentsToLikes: 0.032017
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/88163469_152546852490054_1062400241300406272_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=KpkwxaDoxX8AX9plUPQ&oh=c39af786c9160db0fd4b0828f667c455&oe=5EBC7EBA"
+    id: ck5q2gu43fy9j0i11lds0ysg6
     verified: false
     hashtags: "#stradivarius, #osaka, #tokyotrip2020, #thanks"
   - username: "savnhxoxo"
@@ -31,7 +31,7 @@ profiles:
     followers: 35486
     engagement: 282
     commentsToLikes: 0.041242
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/84214621_800303003812656_3360238677014872064_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=dHtiDCy-D7QAX94HjSg&oh=e07dbc845fecd44e6d7b4e1baff963a7&oe=5EBB6EED"
+    id: ck6udeb4bklmp0j71w3lpiv97
     verified: false
     hashtags: "#fhmshoot, #boxing, #gymshark, #bellamodels"
   - username: "paris.eyes"
@@ -41,7 +41,7 @@ profiles:
     followers: 184045
     engagement: 274
     commentsToLikes: 0.011458
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/52482137_2639983662682887_5648767324438659072_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=4MzdbJ1w3xEAX86MhBO&oh=fcd8312800d258e7b132812e321c838c&oe=5EB94592"
+    id: ck14i05lzd00b0i19xr1m4f30
     verified: false
     hashtags: "#gintonictime, #trianonpalace, #venusetfleur, #fairy"
   - username: "kellyaliandra"
@@ -51,7 +51,7 @@ profiles:
     followers: 40443
     engagement: 207
     commentsToLikes: 0.021537
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/91526727_223455178996889_2047008759330373632_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=w2C4SPh_9j0AX_MnsBP&oh=e5bd3e8f86956757d0a39312a937ea2e&oe=5EB36BE2"
+    id: ck6u0qxwfh9ug0j71t0gucf4p
     verified: false
     hashtags: "#renegadechallenge, #tiktokindonesia, #tiktokchallenge, #eminabeautybestie"
   - username: "baby__lion"
@@ -61,7 +61,7 @@ profiles:
     followers: 22357
     engagement: 484
     commentsToLikes: 0.006598
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/66647946_390726318467710_7251366510457782272_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=pEAZkVqdJjMAX8XBhib&oh=7953630caf32dc51fcf29e2651de3624&oe=5EBA1AC7"
+    id: ck5hdd3b6mrhz0i11ts4pz387
     verified: false
     hashtags: "#bikikilife, #feelbetter, #smilemore, #catchthelight"
   - username: "tsubasa_h0215"
@@ -71,7 +71,7 @@ profiles:
     followers: 39532
     engagement: 92
     commentsToLikes: 0.013036
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/81040963_760896421071267_8371463611540832256_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=HhWCaHOjr0cAX9ORpiA&oh=d7314d2c10c92f9bfe381c57a5c37faf&oe=5E790BFD"
+    id: ck8sy2k4yjicz0j78c9zq12h8
     verified: false
     hashtags: "#anap, #jewelry, #rnail, #rollen"
   - username: "noorin__shereef__fc.kerala"
@@ -81,7 +81,7 @@ profiles:
     followers: 40000
     engagement: 344
     commentsToLikes: 0.006624
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/83920583_478490133039837_7245184261517475840_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=fMoKkon0-jMAX8-KFe7&oh=a17fa81dbe2cf8d05f14886e02bd7292&oe=5EB8804A"
+    id: ck0vvivm0pc820i19xjqldsq9
     verified: false
     hashtags: "#keralaattraction, #vfx, #keralaturisam, #arshadbinalthaf"
   - username: "sonyapan"
@@ -91,7 +91,7 @@ profiles:
     followers: 231199
     engagement: 323
     commentsToLikes: 0.004001
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/82753027_537443320205008_6758922010023165952_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=D1P0aKdjnaAAX9QfUdg&oh=4df6426b4e877a5b19ed0ba5c7e73438&oe=5EB3B50F"
+    id: ck0vz1jsn6ts10i19ncfnwp5x
     verified: true
     hashtags: "#prayforeveryone, #noedit, #mood, #beranialami"
   - username: "eatingwithchristina"
@@ -101,7 +101,7 @@ profiles:
     followers: 3581
     engagement: 1208
     commentsToLikes: 0.132639
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/41933564_2520709964620931_1487932905064759296_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=b4UCElOxmSMAX8-iOEL&oh=78e2188c4fdaa9c0ba797501aec25a13&oe=5EB77EB1"
+    id: ck5zxxrno8uxs0i14qt8ptqsb
     verified: false
     hashtags: "#shamrockshakeszn"
 ---

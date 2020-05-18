@@ -1,7 +1,7 @@
 ---
 title: Top 10 Bmx Instagram Influencers In Japan In 2020
 description: >-
-  Find top bmx Instagram influencers in Japan in 2020. Most popular hashtags: #bmx #bmxstreet #bmxlife #bmxforever.
+  Find top bmx Instagram influencers in Japan in 2020. Most popular hashtags: #bmx #bmxstreet #bmx4life #bmxlife.
 platform: Instagram
 profiles:
   - username: "mikiiibata77"
@@ -11,7 +11,7 @@ profiles:
     followers: 7319
     engagement: 1078
     commentsToLikes: 0.015522
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/84326486_618499562269601_6999445805006323712_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=sJqpBlEm_LMAX__OM9Q&oh=635e9082ddbb17729101dd2c02418c8f&oe=5EBAB6D8"
+    id: ck5cfir1fn1it0i11l273l7qa
     verified: false
     hashtags: "#workoutstyle, #hellomarch, #bikelife, #fitnesslife"
   - username: "shoa_bmx"
@@ -21,7 +21,7 @@ profiles:
     followers: 5478
     engagement: 1923
     commentsToLikes: 0.025147
-    avatar: "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s320x320/15623680_442483875875799_3199682006237577216_a.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=mICARd4ZBW0AX9iNDWT&oh=a82635b1becd13337f2489fc074e8f13&oe=5EA53A8C"
+    id: ck8t9l7wnoi7z0j78nssjbz3t
     verified: false
     hashtags: "#bmx4life, #profileracing, #etnies, #bmxisfun"
   - username: "zarigani0518yuto"
@@ -31,7 +31,7 @@ profiles:
     followers: 6784
     engagement: 3979
     commentsToLikes: 0.008233
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/67654478_2439135456144090_2838329279295520768_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=NVIS5WivtaIAX9gr2KS&oh=218a397418c610e3d2dcac9898d48e10&oe=5EB9E68C"
+    id: ck0w26tc4mvs20i19p7az48od
     verified: false
     hashtags: "#kids, #bmx4life, #bmxforlife, #bmxlife"
   - username: "rimbmx"
@@ -41,7 +41,7 @@ profiles:
     followers: 34226
     engagement: 696
     commentsToLikes: 0.014081
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/51083608_2245674775754707_9202458793118531584_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=MHh5Tpv_U6AAX-c7AS0&oh=3dcb22fe752b3e0fc67d929f72b72fa4&oe=5EB5E958"
+    id: ck0w26udsmvwk0i19i7p9msnw
     verified: true
     hashtags: "#battleofhastings, #sourcebmx, #fise, #oneobsession"
   - username: "tristanaarts"
@@ -51,7 +51,7 @@ profiles:
     followers: 7522
     engagement: 761
     commentsToLikes: 0.018733
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/79378207_501430677181644_6313649964329205760_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=0HB5ojN6-6QAX8YtU1x&oh=7fab2565f55d80b2ad532aee522f837e&oe=5EB7FF10"
+    id: ck6tmkwyx81170j71wdvagc06
     verified: false
     hashtags: "#fresh, #blackedout, #thevillage, #bikes"
   - username: "keiryo_bmx"
@@ -61,7 +61,7 @@ profiles:
     followers: 5745
     engagement: 1658
     commentsToLikes: 0.026530
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/60690254_868498133492809_6762158907830829056_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=EK_2aKo11vsAX8QpdLH&oh=e0881dc94451be6b1e59984958363ebd&oe=5EBC0456"
+    id: ck5cb82i1ewzf0i11kxahehxv
     verified: false
     hashtags: "#bmxstreet, #daystate, #bmxforever, #newtrick"
   - username: "danielyoneta"
@@ -71,7 +71,7 @@ profiles:
     followers: 10658
     engagement: 537
     commentsToLikes: 0.008695
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/49854663_401163583789656_2260695154811731968_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=MH462bBbtqYAX_d2hwK&oh=3231d68b4c313b586499c76f5ac0a8aa&oe=5EB0E621"
+    id: ck5pxcaa0r3kw0i11l1g0evj7
     verified: false
     hashtags: "#minamichitatown, #animaltattoo, #audisline, #a6avant"
   - username: "tokushima_erika"
@@ -81,7 +81,7 @@ profiles:
     followers: 90767
     engagement: 928
     commentsToLikes: 0.006048
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/71140331_545433809541406_1679427749988532224_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=b3ZXa4mgDoQAX97vHRs&oh=64c62ce7f2c39223698d6853a2ec7dcc&oe=5EB8CE6D"
+    id: ck15qdixv2c6l0i1956liha3l
     verified: true
     hashtags: "#150daystogo, #zip, #bmx, #exit"
   - username: "yamamoto_hiroyuki.ntv"
@@ -91,7 +91,7 @@ profiles:
     followers: 13804
     engagement: 802
     commentsToLikes: 0.006343
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/73456009_435927993952475_4818175500419596288_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=xyYXGOFJZeoAX9-gbmJ&oh=902fa56fd2a70ffe122c1ef43f7d964b&oe=5EB82FE5"
+    id: ck6ucc93teqwv0j71qrpp373o
     verified: true
     hashtags: "#totti, #going, #pk, #newszero"
   - username: "idolpunchracco"
@@ -101,7 +101,7 @@ profiles:
     followers: 20736
     engagement: 522
     commentsToLikes: 0.003507
-    avatar: "https://scontent-bos3-1.cdninstagram.com/v/t51.2885-19/s320x320/69800774_544785036258868_4568624976965402624_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_ohc=YWpcxJ_IZhkAX-S-i0y&oh=5cbd158537525791639d766ce8b04ab7&oe=5EB90BFF"
+    id: ck5hm1ambl7jx0i11xkhr0ap1
     verified: false
     hashtags: "#bmx, #street, #gshock, #emerica"
 ---

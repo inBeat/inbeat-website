@@ -1,7 +1,7 @@
 ---
 title: Top 10 Travel Instagram Influencers In Chiang Mai In 2020
 description: >-
-  Find top travel Instagram influencers in Chiang Mai in 2020. Most popular hashtags: #travel #travelthailand #thailand #thailandtravel.
+  Find top travel Instagram influencers in Chiang Mai in 2020. Most popular hashtags: #travel #travelthailand #thailandtravel #thailand.
 platform: Instagram
 profiles:
   - username: "allan_around_the_world"
@@ -11,7 +11,7 @@ profiles:
     followers: 2779
     engagement: 913
     commentsToLikes: 0.151183
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/37125477_2120085578247462_287676338255429632_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=kIHGg_oQk6cAX-C9cqU&oh=a3b0e6c6503e1869ac56db9ec8898cdd&oe=5EB6BD58"
+    id: ck5qc8fyupcgg0i11cf2thut7
     verified: false
     hashtags: "#bahiadebanderas, #buddhism, #bangkokcityvibes, #exploremexico"
   - username: "totay168"
@@ -21,7 +21,7 @@ profiles:
     followers: 65144
     engagement: 591
     commentsToLikes: 0.015327
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/27891231_403942456713012_262423438088470528_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=NeY1JcciBksAX8nGpgq&oh=bb178fec3c4efa14f5e4f5acb511e074&oe=5EBCFCAD"
+    id: ck13a0fvco07m0i19tcbsjk2v
     verified: false
     hashtags: "#fujifilm, #travedeeper, #travelbloggerlife, #galaxynote10th"
   - username: "yuvalohayonn"
@@ -31,7 +31,7 @@ profiles:
     followers: 12802
     engagement: 1965
     commentsToLikes: 0.088391
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/75244479_476834936377123_3339651575915216896_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=9yAkP8sFkEUAX-EoNvo&oh=752693a8d028606ce4f4d66d48a9988f&oe=5EBC3D54"
+    id: ck14lovy8vqz90i192uov048r
     verified: false
     hashtags: "#nikeswim, #relaxmode, #seaporn, #keemala"
   - username: "tomas.pejsa"
@@ -41,7 +41,7 @@ profiles:
     followers: 10071
     engagement: 523
     commentsToLikes: 0.008293
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/67981421_2384731771620342_3789787534632943616_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=Tz_qIF3h2ogAX_B-21v&oh=b522123d20b5ecc30097731d1b686ec3&oe=5EB3359A"
+    id: ck5hl57jyjldc0i113fxg2g3i
     verified: false
     hashtags: "#outdoortones, #mountainworld, #aroundtheglobe, #germanytourism"
   - username: "yuvalohayonn"
@@ -51,7 +51,7 @@ profiles:
     followers: 12802
     engagement: 1965
     commentsToLikes: 0.088391
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/75244479_476834936377123_3339651575915216896_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=9yAkP8sFkEUAX-EoNvo&oh=752693a8d028606ce4f4d66d48a9988f&oe=5EBC3D54"
+    id: ck14lovy8vqz90i192uov048r
     verified: false
     hashtags: "#nikeswim, #relaxmode, #seaporn, #keemala"
   - username: "journeytojunipero"
@@ -61,7 +61,7 @@ profiles:
     followers: 12588
     engagement: 415
     commentsToLikes: 0.132454
-    avatar: "https://scontent-bos3-1.cdninstagram.com/v/t51.2885-19/s320x320/72901420_3094989807196935_3708643417589284864_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_ohc=lE1A1ZO1piEAX-5yfZ-&oh=f1e223021909608c20bfcd7d71af5a8f&oe=5EB3BD2C"
+    id: ck6tlnucq6b0z0j71568uu1dq
     verified: false
     hashtags: "#moodlighting, #siraogarden, #bangkokthailand, #bangkoklife"
   - username: "pigkaploy"
@@ -71,7 +71,7 @@ profiles:
     followers: 329193
     engagement: 1376
     commentsToLikes: 0.004661
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/90776808_232066051319724_3576021682256609280_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=7htCi68kVIgAX_YBjMh&oh=b62d8336f322e03a1a0c2963d3d1ca83&oe=5EB940FD"
+    id: ck136eqf264qy0i19b5a1v4mf
     verified: false
     hashtags: "#yaris, #ohmypro, #uniqlowomenfashion, #hbdpigkaploy"
   - username: "aumthanwa"
@@ -81,7 +81,7 @@ profiles:
     followers: 48841
     engagement: 277
     commentsToLikes: 0.018407
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/28151399_522346608165094_1888929369854836736_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=gpvrKFMqZ9EAX-A_7O4&oh=866251197b46d2892c1a2d99a59804ab&oe=5EBD109E"
+    id: ck5btr0ymgg0w0i11fd83fcyo
     verified: true
     hashtags: "#pilot, #bangkokairways, #hairstyle, #huahin"
   - username: "newzysan"
@@ -91,7 +91,7 @@ profiles:
     followers: 30866
     engagement: 425
     commentsToLikes: 0.060886
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/83889489_1258668974522561_2798999297398407168_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=OGXnn_XeYeEAX945yO6&oh=4498734e0f03283089ccee18195569ab&oe=5EBC5741"
+    id: ck0tvkdymbr450i19qlsfqrgh
     verified: false
     hashtags: "#fitspo, #traveller, #classy, #tanskin"
   - username: "blowithand"
@@ -101,7 +101,7 @@ profiles:
     followers: 56904
     engagement: 836
     commentsToLikes: 0.063998
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/41994222_325149031552877_3595522732155994112_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=c_ybM4V5QGcAX8FoIvb&oh=024ed34810efae623c1708cbee4a8220&oe=5EBAB125"
+    id: ck0uefy7yla4d0i19dem0f7w9
     verified: false
     hashtags: "#jordhammondffa"
 ---

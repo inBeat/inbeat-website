@@ -1,7 +1,7 @@
 ---
 title: Top 10 Music Instagram Influencers In Morocco In 2020
 description: >-
-  Find top music Instagram influencers in Morocco in 2020. Most popular hashtags: #home #morocco #love #assala.
+  Find top music Instagram influencers in Morocco in 2020. Most popular hashtags: #assala #morocco #love #home.
 platform: Instagram
 profiles:
   - username: "rhitanattah"
@@ -11,7 +11,7 @@ profiles:
     followers: 28677
     engagement: 569
     commentsToLikes: 0.027820
-    avatar: "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/90706189_196544501796869_2760475459387916288_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=U7246VpKaB8AX9MqIf7&oh=772ddaf385fddeec792eda6bdf1932eb&oe=5EB763A6"
+    id: ck0w3f9fct3vo0i19fmgzptbx
     verified: false
     hashtags: "#spotify, #rhitanattah, #notthesame, #friendsfromfez"
   - username: "assala_official"
@@ -21,7 +21,7 @@ profiles:
     followers: 7797623
     engagement: 95
     commentsToLikes: 0.021108
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/82568636_605072026733699_2148211511812685824_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=fOZuusEULtAAX-hiHas&oh=64b24f83ceee7721753e9699674e4401&oe=5EBCF652"
+    id: ck55jgwe7x0bl0i11tjrxwftn
     verified: true
     hashtags: "#kobebryant, #assala, #almasacapital, #voguearabiaturns3"
   - username: "priince.polo"
@@ -31,7 +31,7 @@ profiles:
     followers: 41142
     engagement: 682
     commentsToLikes: 0.008845
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/85046253_186804655919227_6345117978526220288_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=3wdDJwGMTFQAX8820vF&oh=871b188b6115c78b44bd8d30f735715f&oe=5EB9B0AB"
+    id: ck6tm5i4a77u70j7159hpw31c
     verified: false
     hashtags: "#amg, #princepolo, #annaba, #pablo"
   - username: "marouwa"
@@ -41,7 +41,7 @@ profiles:
     followers: 4259
     engagement: 1455
     commentsToLikes: 0.040743
-    avatar: "https://instagram.fbel1-1.fna.fbcdn.net/v/t51.2885-19/s320x320/73287452_2679379905623972_9100953116592832512_n.jpg?_nc_ht=instagram.fbel1-1.fna.fbcdn.net&_nc_ohc=1IoHJC7LAsIAX_ku_Rb&oh=1d126eb815a7bc8e9895cc737059cfd3&oe=5EB80C21"
+    id: ck8tdcl8s2tce0j78ce1q5198
     verified: false
     hashtags: "#beforecorona, #detoxwater, #doglife, #photooftheday"
   - username: "najirazzy"
@@ -51,7 +51,7 @@ profiles:
     followers: 16969
     engagement: 806
     commentsToLikes: 0.039496
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/92324353_655157188597128_2023285863953203200_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=jENea32lVqkAX9g-l5P&oh=d9d34e8b559e61f6c314d6d1c5ae0a2d&oe=5EBB3CB2"
+    id: ck5hefd6psm8x0i11fj8qozwv
     verified: false
     hashtags: "#beats, #ongoing, #studio, #music"
   - username: "zouhairbahaoui"
@@ -61,7 +61,7 @@ profiles:
     followers: 5604512
     engagement: 240
     commentsToLikes: 0.012606
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/83315000_2711571502265564_8827061944025350144_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=vwTE9ohmLfEAX81oCdz&oh=16294f712b1b78cafc9a61ed41e254f4&oe=5EBBE8D5"
+    id: ck0ub9a0we32j0i194b33lfmj
     verified: true
     hashtags: "#bruxelles, #newlook, #happybirthday, #lazem"
   - username: "rifimohamed.officiel"
@@ -71,7 +71,7 @@ profiles:
     followers: 97963
     engagement: 122
     commentsToLikes: 0.042460
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/92414062_214835822947474_3898800229876498432_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=XtlpnnuLEkwAX9zt1Wq&oh=a6fb2b9c0e0e487785d291dfe5c4e61a&oe=5EB9DEB3"
+    id: ck15sk7osdfah0i19l90go1pq
     verified: false
     hashtags: ""
   - username: "theloukili"
@@ -81,7 +81,7 @@ profiles:
     followers: 9238
     engagement: 1107
     commentsToLikes: 0.017385
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/91819373_223393542231967_2123790637005275136_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=LHuBDCmw9oEAX9VMNao&oh=3cbcde99f63d05d589d2346e52b7a339&oe=5EB976C1"
+    id: ck6u3u3sfzvxm0j71m61jhk73
     verified: false
     hashtags: "#2019"
   - username: "hindziadi"
@@ -91,7 +91,7 @@ profiles:
     followers: 398710
     engagement: 1064
     commentsToLikes: 0.008200
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/89596242_1487926781365830_9039694564985667584_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=7-sEbtMB-wIAX9HeNQm&oh=c4a9186a45680c23d320ca9feefe457b&oe=5EB9118C"
+    id: ck55jf5okwwkf0i11m9z6qiil
     verified: false
     hashtags: "#music, #arab, #majnouna, #srekni"
   - username: "redouanakalay"
@@ -101,7 +101,7 @@ profiles:
     followers: 25220
     engagement: 249
     commentsToLikes: 0.023448
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/91943971_874561336301172_6273255002341376000_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=0DUBjCgMJ3IAX-DyJGn&oh=b578e3a55ce0107550dffbd221385dd3&oe=5EB65D40"
+    id: ck5cibivkscmk0i11fo7y89qg
     verified: false
     hashtags: "#reddragon, #filmmaking, #stayhome, #n1"
 ---

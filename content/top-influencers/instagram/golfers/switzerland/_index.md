@@ -1,7 +1,7 @@
 ---
 title: Top 10 Golfers Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top golfers Instagram influencers in Switzerland in 2020. Most popular hashtags: #volkswagen #vw #switzerland #golf.
+  Find top golfers Instagram influencers in Switzerland in 2020. Most popular hashtags: #volkswagen #switzerland #vw #golf.
 platform: Instagram
 profiles:
   - username: "tatsolbe"
@@ -11,7 +11,7 @@ profiles:
     followers: 42153
     engagement: 496
     commentsToLikes: 0.208572
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/25005706_1543590259012198_9025592744243888128_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=delfFmqbVbsAX9CjQyi&oh=ee6426eac7e2997278dd46c010fc0279&oe=5EBC09C2"
+    id: ck0u1i51uwzjo0i19fzvu7zy2
     verified: false
     hashtags: "#mexicotravel, #mexicotravels, #view, #infinity"
   - username: "focus_on_cars"
@@ -21,7 +21,7 @@ profiles:
     followers: 42301
     engagement: 137
     commentsToLikes: 0.016446
-    avatar: "https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/57232505_1484893204981579_745535777747763200_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=3WGyvQgT7z0AX-w-6_S&oh=dee1c90a357df01a7bba8c363c548e50&oe=5EB667F7"
+    id: ck5bvluz0jx470i11yvcu39rb
     verified: false
     hashtags: "#fiatandferrari, #italiangarage, #superleichtsport, #lacl"
   - username: "daaliaxxo"
@@ -31,7 +31,7 @@ profiles:
     followers: 57792
     engagement: 1127
     commentsToLikes: 0.007651
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/22582717_540479656284123_5563816569290620928_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=z9dRnS7DCf4AX_LUCSR&oh=dd9e37f584236658e2661cae316ef4d1&oe=5EBBB1E3"
+    id: ck6u58vxi88fd0j71yh34iy7t
     verified: false
     hashtags: "#mk7r, #rs6, #volkswagenperformance, #mk5git"
   - username: "mk7r_couple"
@@ -41,7 +41,7 @@ profiles:
     followers: 5486
     engagement: 1430
     commentsToLikes: 0.105899
-    avatar: "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s320x320/79132291_436942800557663_8145975423319146496_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=qAhqWgkm4rAAX8DDaf0&oh=aad628c9f34239a99e0949c01af38113&oe=5EA441EF"
+    id: ck8t8o7mul3zo0j78vso071yx
     verified: false
     hashtags: "#lowcars, #milltek, #seibonequipped, #pregados"
   - username: "sabrinamk7r"
@@ -51,7 +51,7 @@ profiles:
     followers: 8896
     engagement: 1544
     commentsToLikes: 0.005808
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/90023294_827625164416214_2070782515710263296_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=wSFbzIGmQggAX_YTF1G&oh=acbd56382b8733760dba650c1f71dc3d&oe=5EBA8E0B"
+    id: ck0tzcz06pv3d0i192qgfiem3
     verified: false
     hashtags: "#car, #tuning, #recaropoleposition, #happy"
   - username: "ivisglanzfabrik"
@@ -61,7 +61,7 @@ profiles:
     followers: 6611
     engagement: 1261
     commentsToLikes: 0.023447
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/60237899_2446841965348098_7662395821282820096_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=8vnRsEPeb4UAX-kvquc&oh=facf8c1761718e2a3e41eca77a9fa146&oe=5EB50A5A"
+    id: ck601lwknfqgm0i14xr1938pg
     verified: false
     hashtags: "#r32, #streetstyle, #airlift, #nanoversiegelung"
   - username: "swiss_tiguan"
@@ -71,7 +71,7 @@ profiles:
     followers: 22282
     engagement: 452
     commentsToLikes: 0.016908
-    avatar: "https://scontent-bos3-1.cdninstagram.com/v/t51.2885-19/s320x320/75388526_450425155671306_7495916506568458240_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_ohc=oOaPcAjUGaQAX-Z5kgg&oh=01cfe9a5984c393e99d5fac0500c2439&oe=5EB6C210"
+    id: ck6uec2suq1mt0j718r7exhvk
     verified: false
     hashtags: "#vwtiguanfanclub, #tuning, #low, #coilovers"
   - username: "sky_trotter"
@@ -81,7 +81,7 @@ profiles:
     followers: 97862
     engagement: 282
     commentsToLikes: 0.008916
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/81060083_673825016482884_7329865863949975552_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=7y1XdQaQHBwAX_qpWLl&oh=38fe2c1c72ea0ca31964cb72c97481c8&oe=5EB38486"
+    id: ck0twnn79g22u0i192vubsz6g
     verified: true
     hashtags: "#inlovewithswitzerland, #sunset, #glacier, #world"
 ---

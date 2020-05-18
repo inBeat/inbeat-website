@@ -1,7 +1,7 @@
 ---
 title: Top 10 Food Instagram Influencers In Chicago In 2020
 description: >-
-  Find top food Instagram influencers in Chicago in 2020. Most popular hashtags: #foodie #foodporn #food #dinner.
+  Find top food Instagram influencers in Chicago in 2020. Most popular hashtags: #foodie #dinner #foodporn #food.
 platform: Instagram
 profiles:
   - username: "blackfoodlife"
@@ -11,7 +11,7 @@ profiles:
     followers: 81548
     engagement: 175
     commentsToLikes: 0.048821
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/92106035_652083265348632_5564886248075558912_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=BXeNHfeqE3MAX8_mzSS&oh=7c67bb89a88a35764dd605034602d05b&oe=5EBA9DC1"
+    id: ck15toc0rj33w0i19ocks1117
     verified: false
     hashtags: "#neworleansfoodie, #foodgasms, #blackwomenrun, #columbusfood"
   - username: "rick_bayless"
@@ -21,7 +21,7 @@ profiles:
     followers: 122926
     engagement: 114
     commentsToLikes: 0.023421
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/10959204_1411215099174344_1495293647_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=nSiWqDTzzMQAX-4JfQ1&oh=7e71540df2712954d8c283d5f300a457&oe=5EB97591"
+    id: ck138nc19h2n30i1917vyb295
     verified: false
     hashtags: "#toosmalltofail, #saveamericasrestaurants, #saverestaurants, #bigmacorsmallfry"
   - username: "fromuyenwithlove"
@@ -31,7 +31,7 @@ profiles:
     followers: 16792
     engagement: 206
     commentsToLikes: 0.090272
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/57426315_411688692742741_756967172508483584_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=_CRS6rGFngQAX9D2Gc9&oh=c79555d07f4b548a1bb0a8bac9845369&oe=5EBB5BF4"
+    id: ck14kh6nypi0t0i19e83bp870
     verified: false
     hashtags: "#happybirthdaychicago, #handsinframe, #comfortfoods, #jenisicecream"
   - username: "fabsoopark"
@@ -41,7 +41,7 @@ profiles:
     followers: 36662
     engagement: 88
     commentsToLikes: 0.048763
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/47694817_1143078022532537_7733279557809078272_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=GHoklY8q540AX-IN2HQ&oh=2b9ca361bc0f9bf4ed2428750ad84bb3&oe=5EB9D956"
+    id: ck0w3iuzbtn160i199zlvm9qx
     verified: false
     hashtags: "#dollypartonchallange, #evanstoneats, #fabfoodbaby, #chicagonorthshore"
   - username: "312food"
@@ -51,7 +51,7 @@ profiles:
     followers: 107728
     engagement: 118
     commentsToLikes: 0.074325
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/41490351_1566964623404204_4043791385122308096_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=PsJs6E-wNF0AX_OGChg&oh=203b9e27475ecfaf3527e8297b9082ef&oe=5EB524B9"
+    id: ck5zjfr9thicd0i14509zhc7z
     verified: false
     hashtags: "#restaurantrecovery, #shamrockmcflurry, #contest, #sponsored"
   - username: "chef.edtinoco"
@@ -61,7 +61,7 @@ profiles:
     followers: 21052
     engagement: 360
     commentsToLikes: 0.028556
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/83810668_1566565326836961_7664710821540265984_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=ILqW_n09uHYAX9x00ZE&oh=313b550627b0f2147083ca1e98b18d34&oe=5EBD1C9B"
+    id: ck14iu9m2h7990i19tpi1feim
     verified: false
     hashtags: "#pistachio, #chefsofinstagram, #chefstable, #restaurant"
   - username: "grbestbites"
@@ -71,7 +71,7 @@ profiles:
     followers: 12222
     engagement: 621
     commentsToLikes: 0.072502
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/67287148_347945269424905_8569091072762839040_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=fxn39uhHGG4AX94mphz&oh=90b6613b63abb77d8586cc9ef89b1f24&oe=5EB9F98B"
+    id: ck6ueqhmpshw90j71i1ykkfu6
     verified: false
     hashtags: "#foodinfluencer, #tocino, #tonkatsu, #dailyfoodfeed"
   - username: "halesyeahchi"
@@ -81,7 +81,7 @@ profiles:
     followers: 7747
     engagement: 716
     commentsToLikes: 0.174962
-    avatar: "https://scontent-bos3-1.cdninstagram.com/v/t51.2885-19/s320x320/91186182_2812362948846979_2256484441889177600_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_ohc=syVDBT3busAAX8iKhUM&oh=f8b49f69f681692cabb08bcc09085ef2&oe=5EB8B0C9"
+    id: ck8tdramq4ho60j78a7ipxz59
     verified: false
     hashtags: "#itsthelittlethings"
   - username: "brownskinbeautiful_"
@@ -91,7 +91,7 @@ profiles:
     followers: 43941
     engagement: 209
     commentsToLikes: 0.095748
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/42574485_862620454079456_9041598279174848512_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=CMzEV2II-8oAX9pGDSp&oh=99cbea667d0a1739358913eff2ed0637&oe=5EBB36A2"
+    id: ck134d76gvved0i19q7zcgydr
     verified: false
     hashtags: "#protectivestyles, #blackgirlmagic, #everevepartner, #headwrap"
   - username: "emmierosenblum"
@@ -101,7 +101,7 @@ profiles:
     followers: 17703
     engagement: 361
     commentsToLikes: 0.048044
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/64869929_450894115528176_5334542023800127488_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=3q6yP4-LKjEAX9gxbi_&oh=9563fdcbe818f0f98d32f169372ce237&oe=5EBA3D20"
+    id: ck5cishuntaci0i117n2a9el5
     verified: false
     hashtags: "#daylightphotography, #didierfarms, #winterbreak, #hanukkah"
 ---

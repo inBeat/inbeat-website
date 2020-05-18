@@ -1,7 +1,7 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Jakarta In 2020
 description: >-
-  Find top photographers Instagram influencers in Jakarta in 2020. Most popular hashtags: #dirumahaja #photography #fujifilm #infojakarta.
+  Find top photographers Instagram influencers in Jakarta in 2020. Most popular hashtags: #photography #dirumahaja #fujifilm #infojakarta.
 platform: Instagram
 profiles:
   - username: "jakarta"
@@ -11,7 +11,7 @@ profiles:
     followers: 66906
     engagement: 328
     commentsToLikes: 0.027891
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/10467884_819260171425177_1798721345_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=rwe6vkFXoIMAX8-hgEc&oh=759727d200f19de5efc932af39de9f05&oe=5EB1D2B3"
+    id: ck6txln6dyiej0j71z1orgy6x
     verified: false
     hashtags: "#jakartaindonesia, #citylandscape, #metropole, #jakartatimur"
   - username: "galaindiga"
@@ -21,7 +21,7 @@ profiles:
     followers: 6155
     engagement: 641
     commentsToLikes: 0.073184
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/46378401_571936966563536_5875714740684062720_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=1AIvdcmJpiEAX8W4CGc&oh=d8a49c10652262d2d2751441f9ede3ab&oe=5EBC1237"
+    id: ck6u7lsmhm9zw0j71jdqush49
     verified: false
     hashtags: "#fireman, #client, #citilink, #brandconsultant"
   - username: "gathoe18"
@@ -31,7 +31,7 @@ profiles:
     followers: 23395
     engagement: 188
     commentsToLikes: 0.024276
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/83625977_2489685984585777_2086773967443460096_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=C8MsSd1d4L0AX8ClG9I&oh=f5bcf18b695d69bc58b1f2dd251ef62d&oe=5EB79F01"
+    id: ck0vy6kyb2h720i19m2xkwp0o
     verified: false
     hashtags: "#sublimestreet, #classicnegative, #1000kata, #tamanismailmarzuki"
   - username: "rezki.drg"
@@ -41,7 +41,7 @@ profiles:
     followers: 25475
     engagement: 395
     commentsToLikes: 0.013512
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/82009598_2257995001161142_6290390848110592000_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=hpmoersmWtUAX_vHls4&oh=e65c5adf49f7f57849d8acb98635c259&oe=5EB0C57A"
+    id: ck13a4hkwol3u0i19h1ahyxo7
     verified: false
     hashtags: "#dentalphotography, #doktergigiindonesia, #speaker, #indirectrestoration"
   - username: "rheza.dkv"
@@ -51,7 +51,7 @@ profiles:
     followers: 2395
     engagement: 1070
     commentsToLikes: 0.031027
-    avatar: "https://instagram.fgyd4-2.fna.fbcdn.net/v/t51.2885-19/s320x320/88303487_190324738863629_7394690535492943872_n.jpg?_nc_ht=instagram.fgyd4-2.fna.fbcdn.net&_nc_ohc=-8gMRe4XAFUAX_5TJj0&oh=83c5a66aa283957bc317e031ffa01e81&oe=5EA8B3FD"
+    id: ck8ta8oijqupk0j78q2v6lc04
     verified: false
     hashtags: "#workfromhome, #bandai, #yukmulaimotret, #mafexindo"
   - username: "abdillahhw"
@@ -61,7 +61,7 @@ profiles:
     followers: 12662
     engagement: 653
     commentsToLikes: 0.070862
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/89485503_547474555880036_7245240259301081088_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=FXtbfWGkkPQAX8sAX_l&oh=a0e6af200099193f9da553c760925756&oe=5EBB24F6"
+    id: ck6uadian2y320j71t0xbf3k4
     verified: false
     hashtags: "#stayhome, #workfromhome, #upifightcovid19, #dirumahaja"
   - username: "imamturmudzi02"
@@ -71,7 +71,7 @@ profiles:
     followers: 21819
     engagement: 261
     commentsToLikes: 0.170182
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/85092709_490299438316370_7521331219628294144_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=dW9BLf99NYQAX9NEiIM&oh=4f0f6bacf06420b5f5f2f39acab436b8&oe=5EBCB205"
+    id: ck15sbv6xc82h0i19xe3wbmrt
     verified: false
     hashtags: "#healty, #nusantarafit, #minimalist, #aplikasieditvideo"
   - username: "rajaregar"
@@ -81,7 +81,7 @@ profiles:
     followers: 22498
     engagement: 418
     commentsToLikes: 0.025078
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/66807429_405107797031043_1584152340137508864_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=kVYymCTTP8MAX_LWodp&oh=549ff522994684ab4023cd2819bb6bf7&oe=5EBBAB13"
+    id: ck0vz1ety6t3a0i19xlrdxyie
     verified: false
     hashtags: "#staycations, #hiddengems, #bookingyuk, #labuanbajo"
   - username: "nicknock_28"
@@ -91,7 +91,7 @@ profiles:
     followers: 18793
     engagement: 215
     commentsToLikes: 0.021206
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/79334477_446613909346577_2079422800203874304_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=52RLJvn71RMAX-gZeOW&oh=d72bd02754fac07d589e1cb8d5f7fae6&oe=5EB310F0"
+    id: ck14j0ssoi2140i19qbp10pul
     verified: false
     hashtags: "#bvlgari, #malemodel, #thefolio, #titikamal"
   - username: "luminousdreamsphotoworks"
@@ -101,7 +101,7 @@ profiles:
     followers: 20954
     engagement: 313
     commentsToLikes: 0.056456
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/69661902_1140466763008695_3411814014399807488_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=De3b67MwN_EAX_owr3a&oh=81fb2fb9f035918f9016b0add6150966&oe=5EBCC4BD"
+    id: ck5zj65d4h0hy0i148ptafesh
     verified: false
     hashtags: "#fashionphotography, #femalemodel, #male, #dominican"
 ---

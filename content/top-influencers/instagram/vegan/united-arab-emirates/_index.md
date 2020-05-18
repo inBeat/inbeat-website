@@ -1,7 +1,7 @@
 ---
 title: Top 10 Vegan Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top vegan Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #mydubai #vegan #dubai #love.
+  Find top vegan Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #mydubai #vegan #dubai #stayhome.
 platform: Instagram
 profiles:
   - username: "dina_mariam"
@@ -11,7 +11,7 @@ profiles:
     followers: 18412
     engagement: 220
     commentsToLikes: 0.102973
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/71009471_2622341171158342_2754780745070280704_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=HRfSaHHlcxsAX8kHhoU&oh=6bcf649f7f6cc812368f8dcb78490e82&oe=5EBAEED3"
+    id: ck6tpublmn15v0j71l4aaxopx
     verified: false
     hashtags: "#dubai, #nailart, #dubailife, #fashion"
   - username: "miss_alexaa"
@@ -21,7 +21,7 @@ profiles:
     followers: 14680
     engagement: 828
     commentsToLikes: 0.061875
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/41557314_1048476868654608_5963828356993515520_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=OG7F_h_HHGAAX_iC29w&oh=a4ab8af92b3ab230f9a2e1b84b0832bd&oe=5EBC0734"
+    id: ck0udvxu3jyv60i194mm79fvj
     verified: false
     hashtags: "#thepinklemonade, #pinkaesthetic, #zen, #whitetiger"
   - username: "rinkipamnani3"
@@ -31,7 +31,7 @@ profiles:
     followers: 54131
     engagement: 190
     commentsToLikes: 0.132353
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/83093889_595656350983876_6696911907858677760_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=avM1A_haezUAX8Q0qjm&oh=ce46cd31288cbe3d5167c17db55d7b39&oe=5EB8FB78"
+    id: ck5zoa9uxq3vu0i14jaioszy6
     verified: false
     hashtags: "#repost, #style, #watersports, #adventure"
   - username: "chefsilvena"
@@ -41,7 +41,7 @@ profiles:
     followers: 119990
     engagement: 236
     commentsToLikes: 0.013883
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/56213893_427301701369583_6788982228429832192_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=LXYzoOFX9cMAX-bq5_P&oh=c081da124f6224395db60008192ebfb4&oe=5EB48149"
+    id: ck15pjdkay6c70i19788fp4in
     verified: false
     hashtags: "#vegan, #happiness, #uaefitnessmovement, #vitaminc"
   - username: "dominicnowellbarnes"
@@ -51,7 +51,7 @@ profiles:
     followers: 450522
     engagement: 106
     commentsToLikes: 0.013640
-    avatar: "https://scontent-bos3-1.cdninstagram.com/v/t51.2885-19/s150x150/91048748_2703307153238348_4579573651761790976_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_ohc=lL628gJZE14AX_0cduu&oh=9f423d0060acedf3612c3b2db046911d&oe=5EB6C84D"
+    id: ck6u9iybbxtz10j710k0w71z5
     verified: false
     hashtags: ""
   - username: "medinamaste"
@@ -61,7 +61,7 @@ profiles:
     followers: 30889
     engagement: 226
     commentsToLikes: 0.104584
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/65471474_597565194067873_4649229650411651072_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=vxdZ7hHMNegAX-meqrK&oh=39726ac99876387300bbf66e867dfe4a&oe=5EB8FBC4"
+    id: ck0u9m4w2a2nt0i19h677hjcr
     verified: false
     hashtags: "#representreality, #heart, #covid19, #ashtanga"
   - username: "myglamgypsy"
@@ -71,7 +71,7 @@ profiles:
     followers: 25135
     engagement: 184
     commentsToLikes: 0.080610
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/31492137_2038262563055916_8715573187250749440_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=18qiF3EOOD0AX-eFYsv&oh=969e8c52c4ceaa1799648c99db163372&oe=5EBBA7F4"
+    id: ck0w5yzr8641j0i193jsgznso
     verified: false
     hashtags: "#seetheworld, #wonderwomanmakeup, #huaweiarabia, #igtravel"
   - username: "ritupamnani"
@@ -81,7 +81,7 @@ profiles:
     followers: 42521
     engagement: 284
     commentsToLikes: 0.120472
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/90088657_536405527066007_3410443477450752000_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=DGcK0YolZx0AX9OFC3L&oh=a18aa9396dea265ff7d3519eff965c08&oe=5EBACD13"
+    id: ck0w1oxxgkex90i19i7ufsj63
     verified: false
     hashtags: "#staycation, #inabudhabi, #instabeauty, #food"
   - username: "zainalkitchen"
@@ -91,7 +91,7 @@ profiles:
     followers: 373761
     engagement: 426
     commentsToLikes: 0.037275
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/49557321_383988505721116_4603925377595736064_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=KzM4P-ZFsw8AX9hDnjf&oh=61155cd555364dd93a0dd6518e63205b&oe=5EBC02C9"
+    id: ck6txl6nryg3z0j71uezfl4fb
     verified: false
     hashtags: "#foodporn, #cheesesauce, #mozarella, #meat"
   - username: "a1izey"
@@ -101,7 +101,7 @@ profiles:
     followers: 125174
     engagement: 338
     commentsToLikes: 0.058278
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/91115762_1641302846010490_1150998226841632768_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=e506PHBAeYcAX_eWqQQ&oh=8009661b648d3bd8bb07f6bfd34205fa&oe=5EBAE5CF"
+    id: ck0tymv2mnbf20i19p97crjk7
     verified: false
     hashtags: "#ootd, #harveynichols, #fashion, #stayhome"
 ---

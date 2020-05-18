@@ -1,7 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Rome In 2020
 description: >-
-  Find top Instagram influencers in Rome in 2020. Most popular hashtags: #iorestoacasa #picoftheday #rome #model.
+  Find top Instagram influencers in Rome in 2020. Most popular hashtags: #iorestoacasa #picoftheday #makeup #model.
 platform: Instagram
 profiles:
   - username: "camillafalsini"
@@ -11,7 +11,7 @@ profiles:
     followers: 19564
     engagement: 422
     commentsToLikes: 0.013000
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/84265154_213262386525689_2751132857547096064_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=sGNEMrPJKB4AX_lKFZm&oh=b2d72fa1d71e89aa65522680a7401b9d&oe=5EB07186"
+    id: ck0w0hwchea7c0i19tutwwcc5
     verified: false
     hashtags: "#collaboration, #arte, #mural, #thisisnotazoo"
   - username: "anna.targa"
@@ -21,7 +21,7 @@ profiles:
     followers: 27402
     engagement: 757
     commentsToLikes: 0.096262
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/58423664_814608138924427_8985677268110016512_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=hY-JqeZzxvwAX-Z3mWn&oh=296dad0e1227a2c5634ce40ef47578fe&oe=5EB7FAFE"
+    id: ck5bve8lyjhgf0i11sr9hcw8q
     verified: false
     hashtags: "#myself, #portraits, #portraitartist, #cityports"
   - username: "angelicaceci95"
@@ -31,7 +31,7 @@ profiles:
     followers: 3037
     engagement: 3177
     commentsToLikes: 0.115896
-    avatar: "https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-19/s320x320/47581445_535079433677501_6580833699355426816_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_ohc=mVvdyGJzOSQAX-rPpOx&oh=f6d151694e91ffa450d326611145195c&oe=5E9DBB36"
+    id: ck8t5wrudbi500j78diegkd83
     verified: false
     hashtags: "#fititalia, #style, #beauty, #health"
   - username: "gianmarco_rottaro"
@@ -41,7 +41,7 @@ profiles:
     followers: 784325
     engagement: 2574
     commentsToLikes: 0.019808
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/91176964_2409549199336488_3743031876403593216_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=tAWxPeP88jIAX-98oj0&oh=ca7352d0df7dfb79b970ab82516dcbcb&oe=5EBD165E"
+    id: ck8weinxje3tv0j787v4ljm72
     verified: false
     hashtags: "#dgmillennialskin, #adv, #dgtiktok, #dgfattoamano"
   - username: "annarunny"
@@ -51,7 +51,7 @@ profiles:
     followers: 4352
     engagement: 1761
     commentsToLikes: 0.139162
-    avatar: "https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-19/s320x320/16230080_1670672043225878_5926567814893666304_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_ohc=A-160OZVMg4AX87qqTw&oh=a500ffa4b763ad0fc61445dbbd2f2e91&oe=5EB77B42"
+    id: ck8tdnhdr41um0j78t0igsput
     verified: false
     hashtags: "#videogelso, #enertoritalia, #lung8, #asicseurope"
   - username: "valentina.fitmum"
@@ -61,7 +61,7 @@ profiles:
     followers: 5243
     engagement: 1897
     commentsToLikes: 0.205335
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/74854777_537982233712752_8227555539672891392_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=0AAPkmODSyAAX85rNtY&oh=636f0e053ddb7e5b1fb35f27c0ae2f24&oe=5EBB1384"
+    id: ck5zshjxzyibf0i14l9nnc87z
     verified: false
     hashtags: "#fitnesslifestyle, #instaworkout, #instamoment, #instamakeup"
   - username: "federipalermo"
@@ -71,7 +71,7 @@ profiles:
     followers: 9733
     engagement: 1314
     commentsToLikes: 0.067556
-    avatar: "https://instagram.fhan2-4.fna.fbcdn.net/v/t51.2885-19/s320x320/90068010_3566576240080891_3434168395757518848_n.jpg?_nc_ht=instagram.fhan2-4.fna.fbcdn.net&_nc_ohc=uG7YD0yfO0EAX_1LrXV&oh=6526be012f83db7f1f851c2a75c01429&oe=5EAF4CA7"
+    id: ck8tb515oub0w0j78v2iq6sq0
     verified: false
     hashtags: "#poser, #hype, #longhair, #purple"
   - username: "maxman80_"
@@ -81,7 +81,7 @@ profiles:
     followers: 602
     engagement: 1950
     commentsToLikes: 0.115249
-    avatar: "https://scontent-lax3-1.cdninstagram.com/vp/a52f656e73813ad76c5b0197dae785ed/5DDA9C0A/t51.2885-19/s320x320/65409026_637846466726973_4586961480842215424_n.jpg?_nc_ht=scontent-lax3-1.cdninstagram.com"
+    id: ck8t3uifh4jmm0j78mycbipab
     verified: false
     hashtags: "#vintageportrait, #vintageoutfit, #redblue, #classicstyles"
   - username: "tatianafarnese"
@@ -91,7 +91,7 @@ profiles:
     followers: 100926
     engagement: 720
     commentsToLikes: 0.024993
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/90637356_2809752365780716_7178689384567275520_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=ECTAfzgk6I0AX9Gb36X&oh=de8c9516e29c9a941087e547a15e1ea3&oe=5EB7F74F"
+    id: ck6uav7a85uuz0j713111dnv0
     verified: false
     hashtags: "#sofa, #modaslow, #florence, #athens"
   - username: "davide.264"
@@ -101,7 +101,7 @@ profiles:
     followers: 35746
     engagement: 392
     commentsToLikes: 0.140436
-    avatar: "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s320x320/80549903_490089905219615_3320188192879017984_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=F6Oyj-J2J5cAX8ZPaKA&oh=dc3870615fbea1e74c39a3703f5bb147&oe=5EA4F066"
+    id: ck8ta4h3wqfxz0j78u8yly655
     verified: false
     hashtags: "#animals, #vivalavida, #winner, #iorestoacasa"
 ---

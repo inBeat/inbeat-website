@@ -1,7 +1,7 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top fitness Instagram influencers in Malaysia in 2020. Most popular hashtags: #fitness #staysafe #gym #stayathome.
+  Find top fitness Instagram influencers in Malaysia in 2020. Most popular hashtags: #fitness #malaysia #gym #stayathome.
 platform: Instagram
 profiles:
   - username: "bibbideg"
@@ -11,7 +11,7 @@ profiles:
     followers: 592956
     engagement: 169
     commentsToLikes: 0.039491
-    avatar: "https://scontent-bos3-1.cdninstagram.com/v/t51.2885-19/s320x320/82969309_607657593388825_274002296256331776_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_ohc=5TdLsT8LEVQAX--q212&oh=3b0773f89905596fc65be0ea7ca70bd2&oe=5EB9D78D"
+    id: ck8wf2p49f12y0j78ew0wb5o2
     verified: false
     hashtags: "#portrait, #ultrainstinct, #candy, #lgbtq"
   - username: "drkaylateh"
@@ -21,7 +21,7 @@ profiles:
     followers: 26652
     engagement: 517
     commentsToLikes: 0.025908
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/42132175_268464310456833_8101425432659755008_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=7XDhV4wXQWYAX_xw0fd&oh=00c8d82e176a1c59e5e1b8f573cdf636&oe=5EBBA171"
+    id: ck15t2goag0fj0i19vfi3ldr6
     verified: false
     hashtags: "#sudio, #untiltomorrow, #memelord, #streettalk"
   - username: "khalishan.alias"
@@ -31,7 +31,7 @@ profiles:
     followers: 21603
     engagement: 716
     commentsToLikes: 0.034730
-    avatar: "https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-19/s320x320/84664443_1598489056975549_2095289405827710976_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_ohc=_CZr0hGelGEAX9fNzt8&oh=e03384fcd70269c4680189cc80d3be08&oe=5EA47CB5"
+    id: ck8t8fdtok96j0j78skxz4v9y
     verified: false
     hashtags: "#istayathome, #trasformationtuesday, #cooking, #staystrong"
   - username: "sohitkathuria"
@@ -41,7 +41,7 @@ profiles:
     followers: 167415
     engagement: 306
     commentsToLikes: 0.008741
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/92356877_3295268380501278_1841210174367334400_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=wuTfe3O92okAX8ZZ4DC&oh=3c7394fb51992142e5c6f116cc264755&oe=5EB63AF4"
+    id: ck5zuhkg62de70i1474beqki6
     verified: false
     hashtags: "#thankgod, #black, #loveyourself, #beautiful"
   - username: "adreannajoyce"
@@ -51,7 +51,7 @@ profiles:
     followers: 7917
     engagement: 522
     commentsToLikes: 0.026811
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/37976999_2143004519301915_9084994744697749504_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=iHAsrmjIhm0AX_SYaz3&oh=8778915f64b3a393cff9d96535f91df4&oe=5EB9096C"
+    id: ck5ztzdwr1ect0i142xi1e0yr
     verified: false
     hashtags: "#gathering, #seeyousoon, #physique, #vitaminsea"
   - username: "hernandotaniko"
@@ -61,7 +61,7 @@ profiles:
     followers: 60806
     engagement: 343
     commentsToLikes: 0.016279
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/59732679_386799328589113_1605675628143575040_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=H33xyFr1IioAX8j-Oqo&oh=e789b9270926b42cdcbeb7715a55eb72&oe=5EBD7D14"
+    id: ck5hk18ckhlzy0i11en2q478l
     verified: false
     hashtags: "#jjmalibu, #chest, #gameofthrones, #hanoi"
   - username: "rotan.photo"
@@ -71,7 +71,7 @@ profiles:
     followers: 33815
     engagement: 145
     commentsToLikes: 0.002479
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/71755338_547574916000056_8246542129799626752_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=WJtoVGJEa9sAX-SgOXz&oh=b5b75b027b1887b9718a20a3acb252bb&oe=5EB42715"
+    id: ck6u7whpqo20h0j719cs23ocf
     verified: false
     hashtags: "#sports, #gymlife, #malaysiamuscle, #middlemuscle"
   - username: "say_shazril"
@@ -81,7 +81,7 @@ profiles:
     followers: 263296
     engagement: 227
     commentsToLikes: 0.021062
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/90826665_850332045444577_474579141585272832_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=FtSEXRXEtfcAX-1dZ9k&oh=7a08657a0b1a7b8ea5ec2d217e9ee9ec&oe=5EB7B1E5"
+    id: ck0w05qxycif70i19ljie6dya
     verified: false
     hashtags: "#cleanhandschallenge, #floralfragrance, #myacer, #proacnesolution"
   - username: "hanlibubu"
@@ -91,7 +91,7 @@ profiles:
     followers: 53481
     engagement: 205
     commentsToLikes: 0.068737
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/92240805_258789245279625_3428562454118924288_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=si13bQN_qgIAX--MAzf&oh=f59d21cd3110c711eb4c7032213cc2d3&oe=5EBCBA96"
+    id: ck0vy58c32am90i192780f20n
     verified: false
     hashtags: "#successdiaries, #lovelife, #netflixparty, #sunday"
   - username: "kuihkapit"
@@ -101,7 +101,7 @@ profiles:
     followers: 7479
     engagement: 248
     commentsToLikes: 0.033802
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/20482658_287008338373047_2280081361580589056_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=PphnYCVC5BcAX8yEOMk&oh=d89eb307a43d6e69017b87b8abaf209b&oe=5EBB5A4F"
+    id: ck0u9m5c0a2rk0i19wiyt9x2s
     verified: false
     hashtags: "#flattenthecurve, #igyogacommunity, #yogajourney, #yogaclass"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Food Instagram Influencers In New York In 2020
 description: >-
-  Find top food Instagram influencers in New York in 2020. Most popular hashtags: #newyork #love #food #streetwear.
+  Find top food Instagram influencers in New York in 2020. Most popular hashtags: #newyork #love #instagood #streetwear.
 platform: Instagram
 profiles:
   - username: "family_newyork"
@@ -11,7 +11,7 @@ profiles:
     followers: 9732
     engagement: 594
     commentsToLikes: 0.027798
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/10848447_381492722019721_1666303316_a.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=1zsFm_gr1TAAX8TUeLR&oh=63535b0f95d6fcf20fc34a1ac0abcbcc&oe=5EB5AE64"
+    id: ck6tiuhym1ge10j71g6435xqc
     verified: false
     hashtags: ""
   - username: "aurelien_dufour"
@@ -21,7 +21,7 @@ profiles:
     followers: 7181
     engagement: 529
     commentsToLikes: 0.029080
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/13724563_294845110872309_67446123_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=A-w0OTCNh-8AX9-bRka&oh=0f4274b9432592736f638f66ced32f49&oe=5EB271A3"
+    id: ck5c47pls0ruo0i11jgpngto3
     verified: false
     hashtags: "#jeanfrancoisbruel, #artisanal, #repost, #mountains"
   - username: "ladyrahxx"
@@ -31,7 +31,7 @@ profiles:
     followers: 5605
     engagement: 2116
     commentsToLikes: 0.047422
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/71919253_706790676500026_215857939536150528_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=AR0-_A0W1LkAX_lgGwu&oh=54773b599b849156e45264ab59afa99d&oe=5EB9BB7B"
+    id: ck5cjd836uhii0i11g4nulchy
     verified: false
     hashtags: "#gohardorgohome, #free, #spellmancollege, #newyork"
   - username: "angel.goh"
@@ -41,7 +41,7 @@ profiles:
     followers: 6250
     engagement: 641
     commentsToLikes: 0.106580
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/15258782_220287405080152_6276083715047161856_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=GPqAt_q2cFkAX-PQIGb&oh=6b6d49e481ce96f0a8cd4172f77f76a3&oe=5EBC65E8"
+    id: ck0vwj2bpu1pj0i19jfp7hccm
     verified: false
     hashtags: "#foodblogger, #kariikan, #ilovemysilkyterriers, #taiwanramen"
   - username: "gabrielledidato"
@@ -51,7 +51,7 @@ profiles:
     followers: 32227
     engagement: 153
     commentsToLikes: 0.057821
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/92017587_656494925085523_752183266135506944_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=LG_GW2fHPegAX9W3orW&oh=ada05432e8c1ab017272cdc159703b6c&oe=5EBBDD2E"
+    id: ck6009gqrd6lq0i14r0zy0eul
     verified: false
     hashtags: "#style, #frenchstyle, #traveller, #traveladdict"
   - username: "maidomo"
@@ -61,7 +61,7 @@ profiles:
     followers: 10833
     engagement: 909
     commentsToLikes: 0.031179
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/13402181_1151873214833547_128180298_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Vo0pnl-9MoYAX88byWV&oh=e0a53d4bc9e4efd2c909df20514371fb&oe=5EBB7085"
+    id: ck15u3ilsl9100i19m3x9rnp5
     verified: false
     hashtags: "#rings, #football, #nonno, #amazing"
   - username: "acausi"
@@ -71,7 +71,7 @@ profiles:
     followers: 9705
     engagement: 842
     commentsToLikes: 0.050947
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/21910785_119184005467100_6408273114676854784_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=ALKWsPCBja8AX9qp12C&oh=a1b488c24a1d79396f80d0cfac0ceb97&oe=5EB9E503"
+    id: ck5qcqwt8rwo00i11jqj2kaoa
     verified: false
     hashtags: "#kobebryant, #remember, #superbowl, #alcs"
   - username: "colorsofyu"
@@ -81,7 +81,7 @@ profiles:
     followers: 5078
     engagement: 413
     commentsToLikes: 0.106814
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/16583796_683834255122332_5406962392250712064_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=DV6AfAscgSAAX8v4iE0&oh=0b8ae49b614a6b5f7668da89041084fb&oe=5EB9F753"
+    id: ck14jhz1zkfw20i19xks529cr
     verified: false
     hashtags: "#newborn, #dubailife, #hamper, #hilton"
   - username: "5boroughfoodie"
@@ -91,7 +91,7 @@ profiles:
     followers: 207353
     engagement: 890
     commentsToLikes: 0.008528
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/26072449_530588427324546_4100630582885613568_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=skewyjvCqO8AX_PPL5h&oh=06d304af85fce99722cc67c728fda35c&oe=5EB9A6E5"
+    id: ck0twfg1gf4qr0i19wtvtjxdo
     verified: false
     hashtags: "#friday, #saturday, #fryday, #tacotuesday"
   - username: "nessathecavalier"
@@ -101,7 +101,7 @@ profiles:
     followers: 212325
     engagement: 1613
     commentsToLikes: 0.007753
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/40012648_1813023548818034_1400081264580493312_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=nUTofjni5PUAX9SdDzW&oh=0c3948e06fd1b5b77f829f37a11ac37c&oe=5EBA5373"
+    id: ck0u697hc1c220i19srl3l1f2
     verified: false
     hashtags: "#postchristmasblues, #tigerking"
 ---

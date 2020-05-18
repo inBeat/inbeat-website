@@ -11,7 +11,7 @@ profiles:
     followers: 40592
     engagement: 257
     commentsToLikes: 0.035219
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/29092971_2089809624638007_8260714250566107136_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=TeISXnuBQV0AX8IATWn&oh=c579e6f1bba01f921ad26115b0dcb061&oe=5EBB38FB"
+    id: ck5hqwyr7tvdb0i11vshkqezb
     verified: false
     hashtags: "#newyork, #love, #lasvegas, #seguimos"
   - username: "josemicarmonaoficial"
@@ -21,7 +21,7 @@ profiles:
     followers: 8004
     engagement: 549
     commentsToLikes: 0.063159
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/62350523_407981463395884_3922520423719239680_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=bPEi4XAEgUEAX84if73&oh=a8667132e33be5d63c35094b156ba444&oe=5EBA4645"
+    id: ck5hmnnypmafc0i11cwf7hwz6
     verified: false
     hashtags: "#luchadegigantes, #ketama, #yomequedoencasa, #luchadegigantes"
   - username: "jheras_"
@@ -31,7 +31,7 @@ profiles:
     followers: 3389
     engagement: 1926
     commentsToLikes: 0.029888
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/89688900_793889691093962_4984010114773024768_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=PgyU9Ui93PAAX8tqnYG&oh=f9ab1580c9351be4cc17f53957301985&oe=5EB8D480"
+    id: ck5ce7s9yki650i1189lsbvvm
     verified: false
     hashtags: ""
   - username: "greendreei"
@@ -41,7 +41,7 @@ profiles:
     followers: 4189
     engagement: 1963
     commentsToLikes: 0.040427
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/90026623_230868971648091_8663889758423875584_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=tHNJW2cUpIUAX_QJeG8&oh=70f1dd52de625f43e00375b575cc9b49&oe=5EBAC0FA"
+    id: ck13bu5rpx6e10i19nseib1tp
     verified: false
     hashtags: "#segundaspartesentresuicidas, #guitar, #mrkilombo, #cover"
   - username: "josemalasia"
@@ -51,7 +51,7 @@ profiles:
     followers: 8293
     engagement: 1089
     commentsToLikes: 0.068448
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/17818382_1531300266888925_9115566223126429696_a.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=Vkey1D-LqlcAX_BN_Aa&oh=7c09e12cab6852a3d67f1d273661102d&oe=5EBB3155"
+    id: ck0tzx425rtbp0i19lriesikv
     verified: false
     hashtags: "#tlmqhem"
   - username: "taylor_riff"
@@ -61,7 +61,7 @@ profiles:
     followers: 47575
     engagement: 678
     commentsToLikes: 0.041604
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/79371390_545200982994163_1096834578955370496_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Ch_w2MoHge8AX8lZSKl&oh=e5f19a9a2a696397750f9c1803902932&oe=5EBA3DBF"
+    id: ck13c30u8ydld0i1990pujoo8
     verified: false
     hashtags: "#emgpickups, #vinniepaul, #cowboysfromhell, #lambofgod"
   - username: "elias._.maro"
@@ -71,7 +71,7 @@ profiles:
     followers: 2822
     engagement: 993
     commentsToLikes: 0.071335
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/84208742_3134146110144889_4421779332150591488_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=pshX2pUnN1UAX8GayEN&oh=b67622265c93b9fe31ce607e4edcd94f&oe=5EB7A42A"
+    id: ck15pomv7yw5t0i1908went0j
     verified: false
     hashtags: "#2019, #guitarrista, #germanets, #concert"
   - username: "paohermosin"
@@ -81,7 +81,7 @@ profiles:
     followers: 50704
     engagement: 498
     commentsToLikes: 0.033675
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/42003357_155249272088899_1060509914524286976_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=UwguKVvGJScAX9Yxlla&oh=f4cc090de6acdc8753f478e618ea4869&oe=5EBBF119"
+    id: ck0u8tl1g8c3f0i1994xwhpr2
     verified: false
     hashtags: "#guitarsarebetter, #guitarskills, #giuseppeverdi, #semanasantaparaguitarra"
   - username: "juanmamontoya_"
@@ -91,7 +91,7 @@ profiles:
     followers: 5272
     engagement: 658
     commentsToLikes: 0.117418
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/58410147_383290842264206_5050018483597737984_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=L2cPukF8axMAX_eufyu&oh=f269db06d06aafc3e03741e1c96719ba&oe=5EB9BD09"
+    id: ck5hmno2mmagl0i11vybm6epf
     verified: false
     hashtags: "#riffwarsacoustic, #guitarrascamps, #michaeljackson, #pickup"
   - username: "chus.santana"
@@ -101,7 +101,7 @@ profiles:
     followers: 10978
     engagement: 572
     commentsToLikes: 0.090632
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/91913963_570066840273266_7378937390020165632_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=byPi1_FakLMAX8JnsqN&oh=204988c2e5872c0ebbfd2eaff1cf6c66&oe=5EBC5DCB"
+    id: ck5q1gbgdaucx0i11d61aohdh
     verified: false
     hashtags: "#prendio, #larubiaremix, #alocao, #billboards"
 ---

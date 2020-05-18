@@ -1,7 +1,7 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Phoenix In 2020
 description: >-
-  Find top nutrition Instagram influencers in Phoenix in 2020. Most popular hashtags: #fitness #health #fitnessmotivation #workout.
+  Find top nutrition Instagram influencers in Phoenix in 2020. Most popular hashtags: #fitness #health #workout #fitnessmotivation.
 platform: Instagram
 profiles:
   - username: "rikkivarney"
@@ -11,7 +11,7 @@ profiles:
     followers: 2613
     engagement: 424
     commentsToLikes: 0.047362
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/69013048_971938903144085_8441610795535564800_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=2iW1uD2NHtQAX_kjzlx&oh=563650f5e2e13cef8a1370dfbc5a9969&oe=5EB3672A"
+    id: ck0uccvpagnl70i198enqi3vo
     verified: false
     hashtags: "#motivationmonday, #repost, #throwbackthursday"
   - username: "dawsonmofficial"
@@ -21,7 +21,7 @@ profiles:
     followers: 94657
     engagement: 580
     commentsToLikes: 0.061832
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/82415971_203965357353781_9009603766411853824_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=950c1YTWp8QAX-XT-Pz&oh=850d30d35d615eb4638a159a10fe9024&oe=5EB90C6C"
+    id: ck5q6rz32ym0z0i11fubgsdr2
     verified: false
     hashtags: "#zyzz, #blackandwhite, #treyphotostudio, #dedication"
   - username: "brandonfitfoodie"
@@ -31,7 +31,7 @@ profiles:
     followers: 117015
     engagement: 49
     commentsToLikes: 0.213372
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/44827303_334598100663784_184330418567249920_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=PVBUTSqZtDsAX8GyWe-&oh=bf03df6d47a1c2f32e784151f36f4153&oe=5EBA5123"
+    id: ck0vxs4wa0fwv0i19dl6uy3mc
     verified: false
     hashtags: "#brownie, #authenticmexicanfood, #fitfoodie, #notasandwich"
   - username: "flexingphoebs"
@@ -41,7 +41,7 @@ profiles:
     followers: 12320
     engagement: 692
     commentsToLikes: 0.058310
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/80807267_1008415782861189_7101277478139723776_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=GWavnif4bwQAX9V3Ndg&oh=21e8812144a11aa31bc8962fc099fc3b&oe=5EBA315E"
+    id: ck5hf94ruwe260i11tp16qd5o
     verified: false
     hashtags: "#teamryderwear, #activewear, #throwbackthursday, #sandiegofitness"
   - username: "marisajofficial"
@@ -51,7 +51,7 @@ profiles:
     followers: 26059
     engagement: 169
     commentsToLikes: 0.056933
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/54247253_282119462682394_7702815380548354048_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=YkWGyIiqIC4AX9F_7Cf&oh=f4591a0d346daaf145da16b1111697cb&oe=5EBA7C47"
+    id: ck5qa5rg0eooi0i11h6lymr6l
     verified: false
     hashtags: "#notacloudinthesky, #forehand, #footworkchallenge, #20minuteworkout"
   - username: "elligirlfit"
@@ -61,7 +61,7 @@ profiles:
     followers: 8378
     engagement: 451
     commentsToLikes: 0.030081
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/87703517_668443757235973_4423861708389351424_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=-2pMf4GjaGkAX8odHci&oh=e539079e29345ce6aa503c5020bcc18a&oe=5EAEC64C"
+    id: ck6tswsk079p20j71397x45cc
     verified: false
     hashtags: "#bodyconfidence, #weightlosstips, #mondaymorning, #fitquote"
   - username: "podiumdreams"
@@ -71,7 +71,7 @@ profiles:
     followers: 2522
     engagement: 961
     commentsToLikes: 0.043886
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/26864122_193700331365839_710003448883445760_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=ubJMirf19rIAX944_i4&oh=6f7338fb20076cf4f3714d54d4c6c6cc&oe=5EBC4628"
+    id: ck6ue3mjsona90j71q63m47t2
     verified: false
     hashtags: "#abs, #workhardplayhard, #isthatathing, #spartanrace"
   - username: "jeremyscottfitness"
@@ -81,7 +81,7 @@ profiles:
     followers: 323672
     engagement: 160
     commentsToLikes: 0.028406
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/83585367_494486608129053_2544040254772346880_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=_73XEmTdRRcAX-PfN2j&oh=afbecb0da31de1137eb5a7f7fe7ee2f5&oe=5EBD0E51"
+    id: ck6twxp4rup550j71p9n2bvpz
     verified: false
     hashtags: "#footwork, #mobilityexercises, #fitnessgirl, #legworkout"
   - username: "amymillar"
@@ -91,7 +91,7 @@ profiles:
     followers: 24379
     engagement: 191
     commentsToLikes: 0.046725
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/71286209_425276628371865_708399416037343232_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=mNACJeOXZxYAX9BY9ai&oh=72f2ba2fcf7571c441ece4700924262d&oe=5EBC45D6"
+    id: ck0w0lghwesve0i195xca6hab
     verified: false
     hashtags: "#vegansofig, #oneness, #calisthenics, #vortex"
   - username: "fit.full.life"
@@ -101,7 +101,7 @@ profiles:
     followers: 7327
     engagement: 2415
     commentsToLikes: 0.559087
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/93302081_1182398872099929_7853799191993122816_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=yNd4Q9PG3FoAX8gWrbS&oh=7901a0e8985c06f8e4afabe4446f5882&oe=5EBBD899"
+    id: ck6tukukugwtw0j718rwi641a
     verified: false
     hashtags: "#homegym, #stayhealthy, #rangeofmotion, #acaibowl"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Food Instagram Influencers In Turkey In 2020
 description: >-
-  Find top food Instagram influencers in Turkey in 2020. Most popular hashtags: #istanbul #travelphotography #instagood #travel.
+  Find top food Instagram influencers in Turkey in 2020. Most popular hashtags: #istanbul #travelphotography #travel #instagood.
 platform: Instagram
 profiles:
   - username: "wemovedabroad"
@@ -11,7 +11,7 @@ profiles:
     followers: 15157
     engagement: 1254
     commentsToLikes: 0.070355
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/73372144_571375907024169_8845337120064143360_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=WsnfC9PAVQoAX_ic_4J&oh=6fb5e897dce4d49de8a568dc1ebd7f71&oe=5EBD5581"
+    id: ck0tuu3be8o460i19gfmksiv9
     verified: false
     hashtags: "#backpackersintheworld, #beautifulindonesia, #egypttravel, #globecouples"
   - username: "gezginonerisi"
@@ -21,7 +21,7 @@ profiles:
     followers: 72004
     engagement: 206
     commentsToLikes: 0.045478
-    avatar: "https://scontent-sin6-1.cdninstagram.com/v/t51.2885-19/s320x320/72439687_935823253447404_4634842665316253696_n.jpg?_nc_ht=scontent-sin6-1.cdninstagram.com&_nc_ohc=fSOAI1-mqnsAX8WrVAB&oh=3a4ca7107a39120baff0a3050d09cc40&oe=5EB08FDC"
+    id: ck8tbfw6yvi1w0j785lowufpc
     verified: false
     hashtags: "#nane, #tuzdatand, #esarp, #giyim"
   - username: "hulyaakcaofficial"
@@ -31,7 +31,7 @@ profiles:
     followers: 34541
     engagement: 166
     commentsToLikes: 0.054599
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/91965061_832420133908363_8032090435570630656_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=qryUO2GzeNcAX8tlZUe&oh=9a701dd087a4d0be92cae3bd5498ea31&oe=5EB9CD7F"
+    id: ck0u6kg2q25fc0i19cbyqg9vm
     verified: false
     hashtags: "#micellarwater, #yvesrocherturkiye, #mayacikolata, #yougogirl"
   - username: "ucan_muhendis"
@@ -41,7 +41,7 @@ profiles:
     followers: 7577
     engagement: 2731
     commentsToLikes: 0.015917
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/55764829_2265106520270364_5420891185940004864_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=pRak-IQbnrMAX-myAor&oh=e28436e1f72243d097bf368b7123bd00&oe=5EA8775F"
+    id: ck14kee85p46c0i1955tckvw0
     verified: false
     hashtags: "#edremit, #mthology, #italya, #salsadancing"
   - username: "1ibrahimgulec"
@@ -51,7 +51,7 @@ profiles:
     followers: 106440
     engagement: 161
     commentsToLikes: 0.046837
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/91065867_2547828608766436_280082874730807296_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=Z4XH2Oma6GQAX9oUI4i&oh=51f055142a634518b0ceb7a7887fb63c&oe=5EBB2FE4"
+    id: ck6tyc3i72v6g0j71nnf638yb
     verified: false
     hashtags: "#danielwellington, #tb, #shein, #sheinmen"
   - username: "tripntreatsuk"
@@ -61,7 +61,7 @@ profiles:
     followers: 43653
     engagement: 668
     commentsToLikes: 0.335757
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/66466395_2349066962030695_4847709800080867328_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=pE6Ho0ItstgAX8Ms9vr&oh=b5b7e0b1602e89fc94bdaf85783ac4c3&oe=5EB90DDA"
+    id: ck5bv8t13j6sq0i11e9fsykv8
     verified: false
     hashtags: "#giveaway, #goreme, #istanbul, #turkey"
   - username: "marcusgreerfitness"
@@ -71,7 +71,7 @@ profiles:
     followers: 152930
     engagement: 359
     commentsToLikes: 0.189326
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/85123162_2720957327973411_8037820527533883392_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=4SPMFXrurrQAX-UyViQ&oh=443d3057b31fc8808a1c30b14d687e80&oe=5EBA5B1E"
+    id: ck15ts25ujlsa0i192157xh77
     verified: true
     hashtags: "#degisim, #posing, #bulk, #workout"
   - username: "selcukgngc"
@@ -81,7 +81,7 @@ profiles:
     followers: 10122
     engagement: 546
     commentsToLikes: 0.032164
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/44726686_2216545565258675_4385645690684964864_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=uMDjhOaNKsAAX8FjJjd&oh=1673cbc8b9d95084ac2381fabe1c1817&oe=5EB93BD0"
+    id: ck5ce3qv2ka5g0i11fkpsurdh
     verified: false
     hashtags: "#fk, #cookshop, #tbt, #london"
   - username: "jemappelleyonca"
@@ -91,7 +91,7 @@ profiles:
     followers: 10597
     engagement: 601
     commentsToLikes: 0.023566
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/65663361_2208164729438921_7322785571707813888_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=poAg3EkFuVcAX_rs8LK&oh=e4b24dd2ab478565b99c7907d858a346&oe=5EBA8C15"
+    id: ck15pcsosx8m70i19bxlhjtnq
     verified: false
     hashtags: "#africanart, #africanstyle, #interraciallove, #senegal"
   - username: "oglakkiziofficial"
@@ -101,7 +101,7 @@ profiles:
     followers: 27839
     engagement: 446
     commentsToLikes: 0.024808
-    avatar: "https://scontent-frx5-1.cdninstagram.com/v/t51.2885-19/s320x320/75341360_1053767728295036_8423861765875433472_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com&_nc_ohc=GBSb_YuPILMAX-kfBvq&oh=c3433d4c2ff16bba41bb827065dfee5c&oe=5EA41396"
+    id: ck8t9357amsqf0j781t2ajfbr
     verified: false
     hashtags: "#balay, #followback, #commentback, #commentbelow"
 ---

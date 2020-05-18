@@ -335,120 +335,120 @@ platforms:
       - name: Vietnam
         link: /instagram/vietnam
     cities:
-      - name: Chiang mai
-        link: /instagram/thailand/chiang-mai
-      - name: Porto
-        link: /instagram/portugal/porto
-      - name: Seoul
-        link: /instagram/south-korea/seoul
       - name: Bali
         link: /instagram/indonesia/bali
-      - name: Los Angeles
-        link: /instagram/united-states/los-angeles
-      - name: Cali
-        link: /instagram/colombia/cali
-      - name: Las Vegas
-        link: /instagram/united-states/las-vegas
-      - name: Sao Paulo
-        link: /instagram/brazil/sao-paulo
-      - name: Montreal
-        link: /instagram/canada/montreal
-      - name: Osaka
-        link: /instagram/japan/osaka
-      - name: Konya
-        link: /instagram/turkey/konya
-      - name: New York
-        link: /instagram/united-states/new-york
-      - name: Sydney
-        link: /instagram/australia/sydney
-      - name: Rio de Janeiro
-        link: /instagram/brazil/rio-de-janeiro
-      - name: Bangkok
-        link: /instagram/thailand/bangkok
-      - name: Seattle
-        link: /instagram/united-states/seattle
-      - name: Jakarta
-        link: /instagram/indonesia/jakarta
-      - name: Tokyo
-        link: /instagram/japan/tokyo
-      - name: Durban
-        link: /instagram/south-africa/durban
-      - name: Madrid
-        link: /instagram/spain/madrid
-      - name: Izmir
-        link: /instagram/turkey/izmir
-      - name: London
-        link: /instagram/united-kingdom/london
-      - name: Manchester
-        link: /instagram/united-kingdom/manchester
+      - name: Philadelphia
+        link: /instagram/united-states/philadelphia
       - name: Chicago
         link: /instagram/united-states/chicago
-      - name: Brisbane
-        link: /instagram/australia/brisbane
-      - name: Vancouver
-        link: /instagram/canada/vancouver
-      - name: San Antonio
-        link: /instagram/united-states/san-antonio
       - name: Atlanta
         link: /instagram/united-states/atlanta
-      - name: Boston
-        link: /instagram/united-states/boston
+      - name: Brisbane
+        link: /instagram/australia/brisbane
+      - name: Jakarta
+        link: /instagram/indonesia/jakarta
+      - name: Berlin
+        link: /instagram/germany/berlin
       - name: Mumbai
         link: /instagram/india/mumbai
+      - name: Busan
+        link: /instagram/south-korea/busan
+      - name: Toronto
+        link: /instagram/canada/toronto
+      - name: Medellín
+        link: /instagram/colombia/medellin
+      - name: Rome
+        link: /instagram/italy/rome
+      - name: Kyoto
+        link: /instagram/japan/kyoto
+      - name: Izmir
+        link: /instagram/turkey/izmir
+      - name: Seattle
+        link: /instagram/united-states/seattle
+      - name: Las Vegas
+        link: /instagram/united-states/las-vegas
+      - name: Los Angeles
+        link: /instagram/united-states/los-angeles
+      - name: Melbourne
+        link: /instagram/australia/melbourne
+      - name: Sao Paulo
+        link: /instagram/brazil/sao-paulo
+      - name: San Antonio
+        link: /instagram/united-states/san-antonio
+      - name: London
+        link: /instagram/united-kingdom/london
+      - name: Phoenix
+        link: /instagram/united-states/phoenix
+      - name: Austin
+        link: /instagram/united-states/austin
+      - name: Barcelona
+        link: /instagram/spain/barcelona
+      - name: Chiang mai
+        link: /instagram/thailand/chiang-mai
+      - name: Konya
+        link: /instagram/turkey/konya
+      - name: Bogotá
+        link: /instagram/colombia/bogota
+      - name: Durban
+        link: /instagram/south-africa/durban
+      - name: Birmingham
+        link: /instagram/united-kingdom/birmingham
+      - name: Porto
+        link: /instagram/portugal/porto
+      - name: Ankara
+        link: /instagram/turkey/ankara
+      - name: Sydney
+        link: /instagram/australia/sydney
+      - name: Boston
+        link: /instagram/united-states/boston
+      - name: Madrid
+        link: /instagram/spain/madrid
+      - name: New York
+        link: /instagram/united-states/new-york
+      - name: Denver
+        link: /instagram/united-states/denver
+      - name: Miami
+        link: /instagram/united-states/miami
+      - name: Houston
+        link: /instagram/united-states/houston
+      - name: Incheon
+        link: /instagram/south-korea/incheon
       - name: Dallas
         link: /instagram/united-states/dallas
       - name: Milan
         link: /instagram/italy/milan
-      - name: Miami
-        link: /instagram/united-states/miami
-      - name: Medellín
-        link: /instagram/colombia/medellin
-      - name: Hamburg
-        link: /instagram/germany/hamburg
       - name: Lisbon
         link: /instagram/portugal/lisbon
-      - name: Busan
-        link: /instagram/south-korea/busan
-      - name: Berlin
-        link: /instagram/germany/berlin
-      - name: Kyoto
-        link: /instagram/japan/kyoto
-      - name: Capetown
-        link: /instagram/south-africa/capetown
-      - name: San Francisco
-        link: /instagram/united-states/san-francisco
-      - name: Houston
-        link: /instagram/united-states/houston
-      - name: Philadelphia
-        link: /instagram/united-states/philadelphia
-      - name: Austin
-        link: /instagram/united-states/austin
-      - name: Denver
-        link: /instagram/united-states/denver
-      - name: Toronto
-        link: /instagram/canada/toronto
-      - name: Rome
-        link: /instagram/italy/rome
-      - name: Barcelona
-        link: /instagram/spain/barcelona
-      - name: Ankara
-        link: /instagram/turkey/ankara
-      - name: Birmingham
-        link: /instagram/united-kingdom/birmingham
-      - name: San Diego
-        link: /instagram/united-states/san-diego
-      - name: Melbourne
-        link: /instagram/australia/melbourne
-      - name: Turin
-        link: /instagram/italy/turin
-      - name: Incheon
-        link: /instagram/south-korea/incheon
-      - name: Bogotá
-        link: /instagram/colombia/bogota
-      - name: New Delhi
-        link: /instagram/india/new-delhi
       - name: Istanbul
         link: /instagram/turkey/istanbul
-      - name: Phoenix
-        link: /instagram/united-states/phoenix
+      - name: Vancouver
+        link: /instagram/canada/vancouver
+      - name: Hamburg
+        link: /instagram/germany/hamburg
+      - name: Capetown
+        link: /instagram/south-africa/capetown
+      - name: Seoul
+        link: /instagram/south-korea/seoul
+      - name: Manchester
+        link: /instagram/united-kingdom/manchester
+      - name: San Francisco
+        link: /instagram/united-states/san-francisco
+      - name: Cali
+        link: /instagram/colombia/cali
+      - name: Osaka
+        link: /instagram/japan/osaka
+      - name: New Delhi
+        link: /instagram/india/new-delhi
+      - name: Tokyo
+        link: /instagram/japan/tokyo
+      - name: Rio de Janeiro
+        link: /instagram/brazil/rio-de-janeiro
+      - name: Montreal
+        link: /instagram/canada/montreal
+      - name: Bangkok
+        link: /instagram/thailand/bangkok
+      - name: Turin
+        link: /instagram/italy/turin
+      - name: San Diego
+        link: /instagram/united-states/san-diego
 ---

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Skincare Instagram Influencers In New York In 2020
 description: >-
-  Find top skincare Instagram influencers in New York in 2020. Most popular hashtags: #newyork #skincare #beauty #nyfw.
+  Find top skincare Instagram influencers in New York in 2020. Most popular hashtags: #newyork #skincare #nyfw #beauty.
 platform: Instagram
 profiles:
   - username: "eccentric_beauty_"
@@ -11,7 +11,7 @@ profiles:
     followers: 10147
     engagement: 647
     commentsToLikes: 0.157244
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/66640730_2295361060559614_243735829225144320_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=n1jMzuQjVDAAX_d2B0S&oh=454b7cdfd02edbcf965d2e31104cead7&oe=5EB92628"
+    id: ck5zvww0i52550i143w9lk9ci
     verified: false
     hashtags: "#mealprep, #lesbianvids, #valentines, #cheers"
   - username: "marie.louwes"
@@ -21,7 +21,7 @@ profiles:
     followers: 2156
     engagement: 1850
     commentsToLikes: 0.028880
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/71555197_2493672677534926_3259098558040637440_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=PVcEYcTxM0cAX8pzoMS&oh=0a1c6eb2348b95d770769984949e2f80&oe=5EB9F1B5"
+    id: ck6ubh0o89is70j71qsxe8wp2
     verified: false
     hashtags: "#westcoast, #streetart, #festival, #beautyshooting"
   - username: "honeylb"
@@ -31,7 +31,7 @@ profiles:
     followers: 22529
     engagement: 390
     commentsToLikes: 0.056678
-    avatar: "https://scontent-bos3-1.cdninstagram.com/v/t51.2885-19/s320x320/89925642_684210778985091_1345411806985715712_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_ohc=_iPXFriZ3NYAX9WFiRk&oh=11559b6e4d2ce400c30e7b6dba82c84d&oe=5EB67BC1"
+    id: ck6uhweijbmp00j711iy95pbc
     verified: false
     hashtags: "#la, #endalzheimers, #mindset, #life"
   - username: "pink4passions"
@@ -41,7 +41,7 @@ profiles:
     followers: 52468
     engagement: 154
     commentsToLikes: 0.058325
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/50938209_403904803712384_8769292830007885824_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=9ZZqfwYdQwIAX_Vb4fv&oh=63ab2fa7977eee1f3998e33501835c68&oe=5EBB0F72"
+    id: ck0tva9gbajlh0i19u3s5onlf
     verified: false
     hashtags: "#fenty, #abhpalette, #glittereyemakeup, #firstaidbeautyadore"
   - username: "thegloccult"
@@ -51,7 +51,7 @@ profiles:
     followers: 16107
     engagement: 321
     commentsToLikes: 0.130302
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/70238217_1089639494707320_1032590930588205056_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=VdjZPBhqo-UAX-tTvwf&oh=310f3f21d943cf85706c1eb58d1b2c76&oe=5EB7758E"
+    id: ck6u1bjhqkr8b0j71fhp4bjii
     verified: false
     hashtags: "#hopefragrances, #giveaway, #vichyampoules, #vichypartner"
   - username: "diangriesel"
@@ -61,7 +61,7 @@ profiles:
     followers: 28097
     engagement: 500
     commentsToLikes: 0.123819
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/21107255_336517763485117_4730957397676261376_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=dOYvo2AH9m0AX-BCHRe&oh=5c41b5148b36dad99b901ffe0d13746e&oe=5EBB39C7"
+    id: ck5c2jkqfxdgt0i114a31he7w
     verified: false
     hashtags: "#naturallightphotography, #behindthescenes, #believeit, #streetfashion"
   - username: "_vanessaosorio"
@@ -71,7 +71,7 @@ profiles:
     followers: 2119
     engagement: 1165
     commentsToLikes: 0.092647
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/80721630_609786719785474_1304137463328931840_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=XEAjNggnLacAX9QjIlO&oh=e9920f2dc36f84e2fb99bb30d5130a9a&oe=5EBA3D96"
+    id: ck6tw7pf7qghl0j71uyhjxgf1
     verified: false
     hashtags: "#skincare101, #travelphotography, #zaradaily, #fffemales"
   - username: "lindsayluv"
@@ -81,7 +81,7 @@ profiles:
     followers: 104711
     engagement: 195
     commentsToLikes: 0.065921
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/80889137_456302055259866_870815549955768320_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=h_fQBlMw8FMAX9tGYUh&oh=5277ce201e6dc80e4778f4ece3a4cce7&oe=5EBA7168"
+    id: ck0udq2h9jndz0i19szwuo4wa
     verified: true
     hashtags: "#babygirl, #californialove, #mommyandme, #plantbased"
   - username: "fashionbymichele"
@@ -91,7 +91,7 @@ profiles:
     followers: 163352
     engagement: 147
     commentsToLikes: 0.020382
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/83594343_633874847444699_5347410548977827840_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=ZDbXk669KTcAX9Q9g1Q&oh=6133161c84120fd013730defa634f35b&oe=5EB99E31"
+    id: ck5zjdc3thdrr0i14a2faimp3
     verified: false
     hashtags: "#timessquare, #fbmdiaries, #fashionbymichele, #samsungevent"
   - username: "shotsbystoney"
@@ -101,7 +101,7 @@ profiles:
     followers: 2503
     engagement: 1239
     commentsToLikes: 0.094406
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/74950202_451696552362840_1134440346231504896_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=f4FtjIhOL7kAX_lneir&oh=da7a69efc7067fc3290f37c281e71db8&oe=5EBCDB05"
+    id: ck14j9ipfj8il0i192q4opkfr
     verified: false
     hashtags: "#austinmua, #blackandwhite, #mensskincare, #houstonphotographer"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Health Instagram Influencers In Berlin In 2020
 description: >-
-  Find top health Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #workout #love #health.
+  Find top health Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #workout #health #love.
 platform: Instagram
 profiles:
   - username: "sarah_schiller_"
@@ -11,7 +11,7 @@ profiles:
     followers: 8364
     engagement: 1018
     commentsToLikes: 0.024031
-    avatar: "https://scontent-hkg3-1.cdninstagram.com/v/t51.2885-19/s320x320/90342463_214751056259443_1298305533396123648_n.jpg?_nc_ht=scontent-hkg3-1.cdninstagram.com&_nc_ohc=PnkTQlsXWsAAX-slAqG&oh=2e7edd632eae6bbc6d4661882427367c&oe=5EA4491B"
+    id: ck8t9m43qol4j0j78e1w5umtl
     verified: false
     hashtags: "#leggings, #fabletics, #fitnesswear, #staypositive"
   - username: "marco_hoeger"
@@ -21,7 +21,7 @@ profiles:
     followers: 58812
     engagement: 417
     commentsToLikes: 0.006010
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/19984681_516610502003594_9182792313963806720_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=lX_GIxBeFZoAX9C0DHN&oh=d9476cb21e26ad6ffc7dc3781765538a&oe=5EBB25BB"
+    id: ck14gyraz7oog0i19xovhrrg1
     verified: true
     hashtags: "#week, #aktion, #time, #newyear"
   - username: "enrico_hoffmann_ifbbpro"
@@ -31,7 +31,7 @@ profiles:
     followers: 21458
     engagement: 328
     commentsToLikes: 0.036106
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/90206555_782739162255363_8075457772625330176_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=EaX9xkmcGwcAX8z-8dv&oh=171dafab08be9edc73abe799d0d149b7&oe=5EBC8B54"
+    id: ck5hq18tbsbm00i117j2nsptd
     verified: false
     hashtags: "#backworkout, #vacation, #likeafather, #deliciousfood"
   - username: "davidataylor24"
@@ -41,7 +41,7 @@ profiles:
     followers: 32626
     engagement: 717
     commentsToLikes: 0.017144
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/28156255_777798515752572_7618903350355951616_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=_SajzalQ_WwAX91EcSH&oh=435208ec119c1bb90ff09a3b0f6bc4fd&oe=5EBA4F38"
+    id: ck14irfklgupd0i19zkwd1twu
     verified: true
     hashtags: "#storm, #hanging, #sit, #meditate"
   - username: "loredana_p_"
@@ -51,7 +51,7 @@ profiles:
     followers: 3416
     engagement: 2288
     commentsToLikes: 0.089824
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/79596585_487087248829375_9077042861857308672_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=KycTjJbEDvwAX-2dLfT&oh=b9e8622cedfc7affcf70f6108d6fc512&oe=5EB8149D"
+    id: ck0w5d2j731wc0i191h0duvkm
     verified: false
     hashtags: "#bloggerstyle, #streetphotography, #fitfam, #gymgirl"
   - username: "timdraxl"
@@ -61,7 +61,7 @@ profiles:
     followers: 28975
     engagement: 475
     commentsToLikes: 0.013519
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/49847796_733920863674914_8075407830745612288_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=4ehaOzBX-bIAX8QpmY9&oh=51240fac5dcd54e61fe589263939ff3e&oe=5EBA258B"
+    id: ck6uer6m8sm880j71d7o3b9fj
     verified: false
     hashtags: "#beard, #ontheroad, #home, #tyrol"
   - username: "stellasstern.official"
@@ -71,7 +71,7 @@ profiles:
     followers: 227880
     engagement: 355
     commentsToLikes: 0.099953
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/84825157_522385481798416_1574978590640963584_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=1g41gidxXIMAX_YW448&oh=185967ac8c365d09e0892c8954ba9892&oe=5EB464CF"
+    id: ck15uwkxtousu0i19bnqa4bxo
     verified: false
     hashtags: "#lockenkopf, #olaf, #karnevalskost, #stellasstory"
   - username: "javajune_selflovequeen"
@@ -81,7 +81,7 @@ profiles:
     followers: 35140
     engagement: 291
     commentsToLikes: 0.038560
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/91865543_221013672580140_611878207972442112_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=svMOKJWFH3kAX8RSLEC&oh=f1e1350b67b00699a234075055498481&oe=5EB9E468"
+    id: ck6tu0nlgdmyq0j71x2c5320u
     verified: false
     hashtags: "#bikinibabe, #cute, #foodblogger, #schwarzkopf"
   - username: "yann_brown12"
@@ -91,7 +91,7 @@ profiles:
     followers: 19771
     engagement: 469
     commentsToLikes: 0.045786
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/92316467_155919555726632_7310084314031456256_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=JkGov6hYHPIAX8i3BmO&oh=1103e8898d175460408d6750b9c2a961&oe=5EBC3161"
+    id: ck0w1xgiflm8g0i19oy5ujroz
     verified: false
     hashtags: "#rehab, #changeofdirectiondrills, #fitnesszuhause, #strengthandconditioning"
   - username: "dany.michalski.official"
@@ -101,7 +101,7 @@ profiles:
     followers: 90145
     engagement: 211
     commentsToLikes: 0.054901
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/35934426_220256125250752_7311192660406960128_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=_pPPiw3b7-wAX_VXb2m&oh=e84ef6aaef7df91b69c3a778dbf7e306&oe=5EB9B4A5"
+    id: ck5hog4m2pi300i11ctok4pf2
     verified: true
     hashtags: "#partypix, #raceweekend, #aquarian, #energiespeicher"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Greece In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Greece in 2020. Most popular hashtags: #beauty #stayhome #giveaway #greece.
+  Find top cosmetics Instagram influencers in Greece in 2020. Most popular hashtags: #beauty #stayhome #giveaway #menoumespiti.
 platform: Instagram
 profiles:
   - username: "dimitris__stamatiou"
@@ -11,7 +11,7 @@ profiles:
     followers: 34179
     engagement: 184
     commentsToLikes: 0.057695
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/70503693_748274645598018_856401755674509312_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=2r5qbWTmk2MAX8WFSoM&oh=29646943f70ff2fcb5993361ad9b5478&oe=5EAE373C"
+    id: ck13599w50cbh0i19zcyvju31
     verified: false
     hashtags: "#home, #bridalhair, #seminars, #lip"
   - username: "rania_bountouri_"
@@ -21,7 +21,7 @@ profiles:
     followers: 37010
     engagement: 200
     commentsToLikes: 0.011562
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/23347759_1916561608663573_4721821130359308288_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=eCH3uJvBbB4AX--G4Au&oh=130b53bb3440ec131249bc0015f37c1e&oe=5EB3B201"
+    id: ck5qel5qr10gh0i11rp3bdn16
     verified: false
     hashtags: "#stayhome"
   - username: "avgerinoscosmetics"
@@ -31,7 +31,7 @@ profiles:
     followers: 71456
     engagement: 161
     commentsToLikes: 0.087578
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/15101784_330713967305031_4747035212611846144_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=OfmX5T4ZCewAX-Q-7oI&oh=a05e15ad1c818a8b74f29f652fab38e3&oe=5EB46076"
+    id: ck5c6cetv55fu0i11adn71zpn
     verified: false
     hashtags: "#cosmetics, #katerinakainourgiou, #lovebox, #staysafe"
   - username: "elinatheos"
@@ -41,7 +41,7 @@ profiles:
     followers: 5251
     engagement: 1979
     commentsToLikes: 0.014306
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/47316775_1239246549546479_2522872568583553024_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=KdvamKHPykAAX8cYYzc&oh=8461a5330716b98759c61c78b70742bc&oe=5EB404F9"
+    id: ck5pzbhlz060b0i11ert403i6
     verified: false
     hashtags: "#cool, #miami, #powpow, #alicesmith"
   - username: "goldenrosegreece"
@@ -51,7 +51,7 @@ profiles:
     followers: 41660
     engagement: 118
     commentsToLikes: 0.005491
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/66475418_1791096184370119_2346244791609589760_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=cRxqCl3JIf8AX9Dq9FZ&oh=0d802d847f1251fc567c696482a695eb&oe=5EB35DCD"
+    id: ck5pvdwn1he8q0i1183at24jh
     verified: false
     hashtags: "#lips, #march2020, #makeupby, #shimmerandshine"
   - username: "sia_boo_"
@@ -61,7 +61,7 @@ profiles:
     followers: 72017
     engagement: 901
     commentsToLikes: 0.943643
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/89276833_560914031221891_6968155499376148480_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=26bQ4FJGy6cAX-WyR-L&oh=306110376389f05135712c3903b9d218&oe=5EBA52A5"
+    id: ck5hkexreiay20i11swhlbyc6
     verified: false
     hashtags: "#fashion, #vang, #homesweethome, #kids"
   - username: "maria_ki_"
@@ -71,7 +71,7 @@ profiles:
     followers: 16594
     engagement: 725
     commentsToLikes: 0.572221
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/93381980_1108737249480429_7741913339722203136_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=sfvDEFsmDtkAX--2jw2&oh=754e5f619add91c26a5a0387149dcb0d&oe=5EB9A3FC"
+    id: ck5znqpuhoza20i14z5p36rsl
     verified: false
     hashtags: "#oriflamegreece, #flowers, #makeuplife, #girl"
   - username: "dinaathns"
@@ -81,7 +81,7 @@ profiles:
     followers: 46573
     engagement: 701
     commentsToLikes: 1.346316
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/87580361_2494654337450028_1383118235410366464_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=LNlA7EnniOgAX_4zgfI&oh=eaaf3ee74482807a8f17821ed64ff85b&oe=5EBA1168"
+    id: ck5hrvg7bvjps0i117h5xqbkp
     verified: false
     hashtags: "#gallery, #travelphotography, #instagram, #lifestyle"
   - username: "nenatsim"
@@ -91,7 +91,7 @@ profiles:
     followers: 11340
     engagement: 729
     commentsToLikes: 0.275245
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/79174203_633315610739939_4680833587438682112_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=CXDIkdlCYq0AX-8BU0S&oh=536858cba61a2b9b6f93c44bb5c6f261&oe=5EAFCC71"
+    id: ck6tl04uh5qdv0j71w4hreb2m
     verified: false
     hashtags: "#streetstyleinspo, #sunday, #flatlayinspiration, #morocco"
   - username: "kitavina_mua"
@@ -101,7 +101,7 @@ profiles:
     followers: 9696
     engagement: 1274
     commentsToLikes: 0.122399
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/83881807_206339683758292_484549354112155648_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=JcpjZhU7HFsAX8lI3y5&oh=e5a06c3237b5e5878d6f936712e3c4d0&oe=5EB68920"
+    id: ck5hdmzplob710i11eewj7d0w
     verified: false
     hashtags: "#fentybeautyhighlighter, #highquality, #liketime, #makeuptrends2020"
 ---

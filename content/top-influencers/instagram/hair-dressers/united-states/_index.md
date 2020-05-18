@@ -1,7 +1,7 @@
 ---
 title: Top 10 Hair Dressers Instagram Influencers In United States In 2020
 description: >-
-  Find top hair dressers Instagram influencers in United States in 2020. Most popular hashtags: #americansalon #modernsalon #behindthechair #hair.
+  Find top hair dressers Instagram influencers in United States in 2020. Most popular hashtags: #modernsalon #americansalon #behindthechair #hair.
 platform: Instagram
 profiles:
   - username: "elieraadelie"
@@ -11,7 +11,7 @@ profiles:
     followers: 33389
     engagement: 363
     commentsToLikes: 0.034388
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/26306945_321799488321550_1122437196834406400_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=7EfkoDOP_JUAX-3U3B5&oh=316a6933fc23fe34e7b70a8a7a7bd375&oe=5EBA64EB"
+    id: ck6tq3cf8p5e40j710w4f5hg2
     verified: false
     hashtags: "#cateyemakeup, #losangeles, #michaelcostello, #model"
   - username: "latinblonde_ny"
@@ -21,7 +21,7 @@ profiles:
     followers: 67506
     engagement: 86
     commentsToLikes: 0.027646
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/91048393_149653346374536_5953107302578913280_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=D3CsiqIPZ5MAX_4QZgd&oh=4e881fd21e0a8a4ffafa8cff10c66858&oe=5EB0D5DD"
+    id: ck5zynpxpa7dx0i14h1silhee
     verified: false
     hashtags: "#hairstyle, #hairforsale, #nordico, #play"
   - username: "behindthechair_stylist"
@@ -31,7 +31,7 @@ profiles:
     followers: 38573
     engagement: 135
     commentsToLikes: 0.031526
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s150x150/12407549_450126288503899_2082928111_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=UI28tdlxjPkAX8MWth1&oh=d2b3508db70a2bdd89683d409c6036ef&oe=5EBC3F2C"
+    id: ck5hqzfqftzzd0i11o5p51aau
     verified: false
     hashtags: ""
   - username: "world.hairdressers"
@@ -41,7 +41,7 @@ profiles:
     followers: 131130
     engagement: 123
     commentsToLikes: 0.005043
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/55837768_375475459961462_8844407573177171968_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=z3594hClMccAX8EM44x&oh=01d5c0688e0facb0326f084286308710&oe=5EA43B33"
+    id: ck0vyvobe607f0i19nqdt1xjs
     verified: false
     hashtags: "#trending, #style, #wakeupandmakeup, #tattoogirls"
   - username: "square360.pl"
@@ -51,7 +51,7 @@ profiles:
     followers: 10140
     engagement: 517
     commentsToLikes: 0.074008
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/65242292_432601990912615_3645968527501819904_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=9dn_355AbuUAX_VuQmT&oh=a10ef6a985bbe2941c068fd415a41759&oe=5EBCD5E5"
+    id: ck6u2o54nsxzt0j71cw8i2je6
     verified: false
     hashtags: "#hairtrends, #amazinghair, #hairstory, #bunhairstyle"
   - username: "ianmichaelblack"
@@ -61,7 +61,7 @@ profiles:
     followers: 72723
     engagement: 138
     commentsToLikes: 0.046351
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/11325147_1612340159024067_327128871_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=IgLW6AXuXREAX9pevgB&oh=132ed1352191b53721dc22186905bd6e&oe=5EBA1120"
+    id: ck14l0o6esa0d0i19pih1if5q
     verified: false
     hashtags: "#candyhair, #tbt, #chartreusehair, #crueltyfreehair"
   - username: "tatimakeupstudio"
@@ -71,7 +71,7 @@ profiles:
     followers: 110656
     engagement: 342
     commentsToLikes: 0.019886
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/20065569_348843022211169_1474301825623523328_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=vK35DBiTvfUAX9lslg6&oh=88c5ee8670756cc3aee4dc94c6524791&oe=5EBBAA96"
+    id: ck5ccbnvvh2nx0i11u62wh5wo
     verified: false
     hashtags: "#coronavirus, #cuarentenavoluntaria, #hairdressersbelike, #hairdressersinquarantine"
   - username: "hairbyelisa"
@@ -81,7 +81,7 @@ profiles:
     followers: 7092
     engagement: 561
     commentsToLikes: 0.053611
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/58423713_2305221516360979_4272077473954398208_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=VZ5-P4fNbCMAX-_IWKj&oh=912eb6d2b36e197b7a3076434162b7e3&oe=5EB9958E"
+    id: ck5hfm511y4r00i11zxupw3j2
     verified: false
     hashtags: "#blondespecialist, #icyblonde, #braids, #pastelblonde"
   - username: "susanfordhair"
@@ -91,7 +91,7 @@ profiles:
     followers: 8451
     engagement: 479
     commentsToLikes: 0.105729
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/88251604_3246045182075539_3638335795091210240_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=-lY8EGr3lo8AX-XJtop&oh=b9e9b15627b01e32bbbbd1e111a96b48&oe=5EBA7C37"
+    id: ck5c3teu500ub0i11ei1jh5m7
     verified: false
     hashtags: "#instagood, #tigerking, #hairinspiration, #redhead"
   - username: "maria_ubi"
@@ -101,7 +101,7 @@ profiles:
     followers: 10559
     engagement: 550
     commentsToLikes: 0.291573
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/66718158_3334902509869107_193312762846248960_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Fkn-bq3f4EsAX8hlK8Z&oh=a0fd182a0cb89c54616d2e46c7410c2a&oe=5EBB051C"
+    id: ck55lynen2rrr0i11nhw7ycyq
     verified: false
     hashtags: "#christmastime, #walks, #howtodohair, #selfies"
 ---

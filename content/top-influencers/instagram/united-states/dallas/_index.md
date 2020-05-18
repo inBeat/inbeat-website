@@ -1,7 +1,7 @@
 ---
 title: Top 10 Instagram Influencers In Dallas In 2020
 description: >-
-  Find top Instagram influencers in Dallas in 2020. Most popular hashtags: #mandown #motivation #strapseason #ltkstyletip.
+  Find top Instagram influencers in Dallas in 2020. Most popular hashtags: #mandown #motivation #ltkstyletip #stayhomewithltk.
 platform: Instagram
 profiles:
   - username: "zblomberg"
@@ -11,7 +11,7 @@ profiles:
     followers: 2249
     engagement: 1828
     commentsToLikes: 0.028949
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/60500568_296876297887658_4439571101030285312_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=7Gw58sizvRgAX86o1N7&oh=3d6d2439521ec3f5aae35458e010d8de&oe=5EBB05CF"
+    id: ck5hodesxpd9j0i11gl8e5331
     verified: false
     hashtags: ""
   - username: "crystalxdanielle"
@@ -21,7 +21,7 @@ profiles:
     followers: 10084
     engagement: 1408
     commentsToLikes: 0.098673
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/49906748_306458533330988_4578922650683834368_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=WoXReqoGvQgAX8O8ap9&oh=0fcd9f819c163565ebead07943fd7473&oe=5EB8435A"
+    id: ck0w3ee5jszeh0i19408zbd0a
     verified: false
     hashtags: "#pregnancyannouncment, #stonyfieldorganic, #avalon, #hotmomsummer"
   - username: "karissfarris"
@@ -31,7 +31,7 @@ profiles:
     followers: 22852
     engagement: 1210
     commentsToLikes: 0.060307
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/79749512_753071171865735_8627924561280630784_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=MZGySpQtQXIAX81Qw_q&oh=4353374e75b187325c0a93959070a814&oe=5EB78323"
+    id: ck14kx1crrqww0i19kp90ipy7
     verified: false
     hashtags: "#lingokids, #wikstenhaori, #handmadewardrobe, #evereden"
   - username: "jayciekathleen"
@@ -41,7 +41,7 @@ profiles:
     followers: 12614
     engagement: 1352
     commentsToLikes: 0.058730
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/78713429_636702250401681_5050759618859368448_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Mqz_IDHHLv4AX_kI3gE&oh=b9987c0f2b9552c83625b82befb0ac5d&oe=5EB907CC"
+    id: ck5znzg0wpgap0i144tf10w7i
     verified: false
     hashtags: "#ootdfashion, #boredinthehouse, #marykateandashley, #spicypickle"
   - username: "kaiforbath"
@@ -51,7 +51,7 @@ profiles:
     followers: 35328
     engagement: 1306
     commentsToLikes: 0.055061
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/75523248_440729003496888_6483303294235049984_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=MHFRL8G0P2QAX_-UsSy&oh=5aa098c0a60f619160ecfbaf3fa49fe6&oe=5EBA0B22"
+    id: ck5c38qeoyt740i11r07kwl3r
     verified: true
     hashtags: "#skol, #bringithome"
   - username: "errolspencejr"
@@ -61,7 +61,7 @@ profiles:
     followers: 640673
     engagement: 870
     commentsToLikes: 0.026406
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/51899657_300916257267809_8732083428083630080_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=IGvrt5J4wh4AX-5cip5&oh=7fbca46b66ca2c6b26c16fd3cb8824fd&oe=5EBA1562"
+    id: ck13be8d6v04w0i19u7zgbtvz
     verified: true
     hashtags: "#raisinngblackqueens, #mambamentality, #mandownpromotions, #jamamerican"
   - username: "ameirylife"
@@ -71,7 +71,7 @@ profiles:
     followers: 3810
     engagement: 2096
     commentsToLikes: 0.543038
-    avatar: "https://scontent-bos3-1.cdninstagram.com/v/t51.2885-19/s320x320/53357870_336018193930908_5830767585808875520_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_ohc=8JgrrKkfqr0AX9g0pB2&oh=8835afd40db01a9a13f90aa934fcc238&oe=5EBB95D9"
+    id: ck6tupha0hnqg0j71mfjiqy9c
     verified: false
     hashtags: "#ltkhome, #mvmtambassador, #liketkit, #ltkspring"
   - username: "kerry.linney"
@@ -81,7 +81,7 @@ profiles:
     followers: 2111
     engagement: 2378
     commentsToLikes: 0.162525
-    avatar: "https://scontent-ort2-2.cdninstagram.com/v/t51.2885-19/s320x320/89853348_569404673920807_3085605011976093696_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_ohc=pEW4hyTm3KMAX96s7nn&oh=55ee8775c6999ce50324e6e7f2c0c50d&oe=5EB38337"
+    id: ck8tc6g6hygba0j78fi5io2ey
     verified: false
     hashtags: "#justdoit, #personalgrowth, #onlinebusiness, #grateful"
   - username: "chandidayle"
@@ -91,7 +91,7 @@ profiles:
     followers: 11645
     engagement: 1332
     commentsToLikes: 0.051689
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/83013664_2481443528736946_3788369838942978048_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=W3Zd3L1hnqIAX9KRKoA&oh=692bdf9abb6f9df8fb063c21b16c8c77&oe=5EB93815"
+    id: ck13bj2tcvnc50i19fb2i85mk
     verified: false
     hashtags: "#gameday, #dalvsne, #yummy, #glutenfree"
   - username: "ashleyfaithnewman"
@@ -101,7 +101,7 @@ profiles:
     followers: 205368
     engagement: 1862
     commentsToLikes: 0.024181
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/75098631_671545976704561_4513198621579018240_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=f08QGP2uOOYAX8MTVCG&oh=1c4a1a99a78498e349253293266b0dfe&oe=5EBA2ED9"
+    id: ck134ehhkw1zi0i19gpqyustj
     verified: false
     hashtags: "#pov, #duet, #greenscreen"
 ---

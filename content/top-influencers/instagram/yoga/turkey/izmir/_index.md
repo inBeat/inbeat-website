@@ -1,7 +1,7 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Izmir In 2020
 description: >-
-  Find top yoga Instagram influencers in Izmir in 2020. Most popular hashtags: #yoga #tbt #ki #istanbul.
+  Find top yoga Instagram influencers in Izmir in 2020. Most popular hashtags: #yoga #tbt #istanbul #handstand.
 platform: Instagram
 profiles:
   - username: "anilcanofficial"
@@ -11,7 +11,7 @@ profiles:
     followers: 166856
     engagement: 1297
     commentsToLikes: 1.010945
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/83690754_243446303327183_6469315586479357952_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=GQYtDUwX_goAX8meCPa&oh=643a7eded721ce24b62fe11e08363363&oe=5EB83235"
+    id: ck15t42q5g8wr0i19u38ralei
     verified: false
     hashtags: "#dolunay, #astroloji, #startv, #ankara"
   - username: "cetincetintas"
@@ -21,7 +21,7 @@ profiles:
     followers: 265484
     engagement: 125
     commentsToLikes: 0.059360
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/69032810_969730923377007_7583960368314056704_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=I2jTkLJGHSUAX_ddPwW&oh=9d2e7ec8fa7a8181ee381dfee4417a5b&oe=5EBB4E6B"
+    id: ck0u6qx1l2ncd0i19hp9sphks
     verified: false
     hashtags: "#tornado, #manipura, #ate, #yogakioofamily"
   - username: "pozitif.ol.mutlu.ol"
@@ -31,7 +31,7 @@ profiles:
     followers: 97961
     engagement: 129
     commentsToLikes: 0.019979
-    avatar: "https://scontent-ams4-1.cdninstagram.com/vp/0abd99c1fa6ffcd9a84b2abb6031c52c/5E80D27E/t51.2885-19/s320x320/69236483_379009112778749_8135176608521650176_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com"
+    id: ck14ie3f7eyts0i197x2cbptf
     verified: false
     hashtags: "#mevlana, #pozitif, #pozitifya, #iyiak"
   - username: "aydanuysal"
@@ -41,7 +41,7 @@ profiles:
     followers: 13093
     engagement: 810
     commentsToLikes: 0.046426
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/11821945_169883663344077_780909612_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=_pWQvOfdil0AX9vkj3i&oh=8d1a5b56f2002764835919d86ae4cf7c&oe=5EBB16C4"
+    id: ck5catl9ke3sx0i11bdwh9b39
     verified: false
     hashtags: "#gezgin, #brooklyn, #theredqueen, #redbullbcone"
   - username: "sirinkilavuzsevinc"
@@ -51,7 +51,7 @@ profiles:
     followers: 27718
     engagement: 695
     commentsToLikes: 0.019687
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/35616622_162075517996954_541173206510206976_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Sn3QjoAfqkUAX8kA6yJ&oh=cfe30b4f2de9ada4a5b51b1586016da5&oe=5EB9FA8E"
+    id: ck0w1g76jj6p90i19v57rvrq0
     verified: false
     hashtags: "#fark, #kedilera, #2020, #elelesnowyogaweekend"
   - username: "gulcinergul"
@@ -61,7 +61,7 @@ profiles:
     followers: 119741
     engagement: 312
     commentsToLikes: 0.026996
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/79224712_549896915600613_6789673709574553600_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=Glk_3A2eY3UAX-3jXDE&oh=7f508dea03dffb6298167ac5a3c8211d&oe=5EB8507A"
+    id: ck5c9w8zfc8tt0i1172i623s7
     verified: true
     hashtags: "#2yearsago, #lizzo, #stayhome, #dancerpose"
   - username: "chrischavezyoga"
@@ -71,7 +71,7 @@ profiles:
     followers: 18392
     engagement: 358
     commentsToLikes: 0.035448
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/65033099_2355074264762522_4973086690089369600_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=PB1sw4SJeSQAX-_bny4&oh=098a307554848bfbffeb74a13a53df00&oe=5EBC0741"
+    id: ck14hs24fbucv0i1936c7z32v
     verified: false
     hashtags: "#teamwork, #happynewyear2020, #loveyou, #evdehareket"
   - username: "tugceinam"
@@ -81,7 +81,7 @@ profiles:
     followers: 14848
     engagement: 607
     commentsToLikes: 0.055480
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/52002824_291232881546543_8275561832249294848_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=wyfwail9VBYAX_QFe5i&oh=0fd2e70dc002d45146689c11370e18f2&oe=5EB88571"
+    id: ck135h0bs1dfb0i1961jxkwc4
     verified: false
     hashtags: "#huzursuzlu, #livrododesassossego, #fernandopessoa, #yoga"
   - username: "tunaapari"
@@ -91,7 +91,7 @@ profiles:
     followers: 89531
     engagement: 542
     commentsToLikes: 0.033568
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/82104254_600113530721688_7044272675027419136_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=nBYuFT2hN98AX9vWA06&oh=748208780eb8d0854c020199a7e0a3f6&oe=5EB71105"
+    id: ck6tu5311ecnw0j71qcz84e5i
     verified: false
     hashtags: "#beautifulnature, #lifequotes, #fold, #backbending"
   - username: "ebru_kcr"
@@ -101,7 +101,7 @@ profiles:
     followers: 3640
     engagement: 2033
     commentsToLikes: 0.121480
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/54447122_2851321125093336_5123807224333860864_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=mc8oY9Fk4sQAX-BcK7p&oh=1a0f56919c0f82d0f87aa990fa8e8edc&oe=5EB9DC03"
+    id: ck6u706d6iplg0j71m18fkds2
     verified: false
     hashtags: "#streetizm, #silhouette, #arelkalender, #lightstain"
 ---

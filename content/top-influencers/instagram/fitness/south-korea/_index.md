@@ -1,7 +1,7 @@
 ---
 title: Top 10 Fitness Instagram Influencers In South Korea In 2020
 description: >-
-  Find top fitness Instagram influencers in South Korea in 2020. Most popular hashtags: #repost #zumba #zumbakorea #fitness.
+  Find top fitness Instagram influencers in South Korea in 2020. Most popular hashtags: #repost #zumba #zumbakorea #dailylook.
 platform: Instagram
 profiles:
   - username: "dailydana_fit"
@@ -11,7 +11,7 @@ profiles:
     followers: 32062
     engagement: 482
     commentsToLikes: 0.029423
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/91288159_655375175245709_5117900235552587776_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=y8PU_sY3L3cAX-W_6g9&oh=82f183ecead9de75b9218d9413e003cf&oe=5EB9A9D2"
+    id: ck6uiejgjemip0j71e2w2sfil
     verified: false
     hashtags: "#repost, #teamdoggodie, #gn, #mlbkorea"
   - username: "dalssim_lee"
@@ -21,7 +21,7 @@ profiles:
     followers: 12043
     engagement: 701
     commentsToLikes: 0.038332
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/53083495_2296969480534497_4372319828799651840_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=D-Wm7kvOY14AX9t6fNL&oh=9cbb653d20ff17e948e5d7bc21bf7aa0&oe=5EBC2D0D"
+    id: ck5zyc47i9m3u0i1406j133ke
     verified: false
     hashtags: "#2xu, #tnf50k, #cepkorea, #430"
   - username: "hyehwa_elin"
@@ -31,7 +31,7 @@ profiles:
     followers: 69545
     engagement: 295
     commentsToLikes: 0.019284
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/91253627_344619006497863_3442806962264211456_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Gvbv_4RO9MkAX8MugD4&oh=1baa2d578cef8bee1765189b9c00ae36&oe=5EBCE36C"
+    id: ck13ayw3bsuzp0i198i43shxn
     verified: false
     hashtags: "#dotout, #freediving, #giftfromcenovis, #lakecycling"
   - username: "h2hyh"
@@ -41,7 +41,7 @@ profiles:
     followers: 22215
     engagement: 360
     commentsToLikes: 0.024297
-    avatar: "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s320x320/89388418_878277449326055_1634583785997598720_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=7Kpjbcs6j7wAX8TEm-K&oh=84ea10830dcdda3b78acf58bbea2a9a2&oe=5E9872F4"
+    id: ck8t1mdrtw8sw0j787mzcqlqv
     verified: false
     hashtags: ""
   - username: "maybeeejin"
@@ -51,7 +51,7 @@ profiles:
     followers: 59123
     engagement: 206
     commentsToLikes: 0.022498
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/81223311_2641541472627348_3231699750478675968_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=ocuSsyhR4CEAX_YooW-&oh=5f0d735260d92211c2496b296e0220ec&oe=5EBA80E0"
+    id: ck0u674dk12gb0i19x5i0rn8o
     verified: false
     hashtags: "#plankchallenge, #mcmstyle, #mcmunderwear, #ad"
   - username: "himkong.jamiet"
@@ -61,7 +61,7 @@ profiles:
     followers: 123582
     engagement: 109
     commentsToLikes: 0.014848
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/11934900_1606445389606949_1099684642_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=FRWV9Qhel2IAX_GZipN&oh=9d1712b76b6905bc2c8694db8d949239&oe=5EB85241"
+    id: ck5hlvjyokxy90i11u2zxn29k
     verified: false
     hashtags: ""
   - username: "jinyfit_true"
@@ -71,7 +71,7 @@ profiles:
     followers: 61329
     engagement: 75
     commentsToLikes: 0.022132
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/70288710_449362132329338_3804064950817652736_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=aSgBzliaKbIAX-SggHH&oh=db224d198fdf6523bcac457c67a73ef9&oe=5EBB8165"
+    id: ck14gy8nw7lw20i19zcm2kmqt
     verified: false
     hashtags: ""
   - username: "nana_koreazes"
@@ -81,7 +81,7 @@ profiles:
     followers: 6854
     engagement: 547
     commentsToLikes: 0.039926
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/49701246_612228315902499_1239101960431337472_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=0lJtH_FH06UAX8cZwx0&oh=f7fbd732f2210433669e35746cc43145&oe=5EBBBA33"
+    id: ck5zn5i1cntme0i147x5b00wz
     verified: false
     hashtags: "#groupexercise, #zumbawear, #betozumba, #zumbarussia"
   - username: "hyo___o"
@@ -91,7 +91,7 @@ profiles:
     followers: 59228
     engagement: 87
     commentsToLikes: 0.029669
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/14482059_822437051193257_6807053037039779840_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=rNLh4UpkEcQAX8uKgNy&oh=0e4f692adbda09e1869267918f186d84&oe=5EB4F066"
+    id: ck0vydlsx3gl70i19gpi9uj3n
     verified: false
     hashtags: "#phychical, #livefit, #fitness, #self"
   - username: "xu.li9hts"
@@ -101,7 +101,7 @@ profiles:
     followers: 111283
     engagement: 305
     commentsToLikes: 0.059530
-    avatar: "https://instagram.fbom19-1.fna.fbcdn.net/v/t51.2885-19/s320x320/78846941_690159628055170_348780653292027904_n.jpg?_nc_ht=instagram.fbom19-1.fna.fbcdn.net&_nc_ohc=1KtKQ3iDnqAAX_LLEg5&oh=7b0ef2e6598c67165921465f03d5632e&oe=5EB5BDBD"
+    id: ck8tcv4c20svb0j787jb5ghqe
     verified: false
     hashtags: "#seoul, #dailylook, #nike, #supreme"
 ---

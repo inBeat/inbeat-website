@@ -1,7 +1,7 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Turkey In 2020
 description: >-
-  Find top home decor Instagram influencers in Turkey in 2020. Most popular hashtags: #instagram #evdekal #homedecor #likeforlikes.
+  Find top home decor Instagram influencers in Turkey in 2020. Most popular hashtags: #instagram #homedecor #like4likes #evdekal.
 platform: Instagram
 profiles:
   - username: "sed_myhome"
@@ -11,7 +11,7 @@ profiles:
     followers: 7024
     engagement: 1402
     commentsToLikes: 0.175192
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/91909494_263642871462491_2435279270382141440_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=tFhoTgHAxHEAX_Lg9q_&oh=471df5becb0929ba77fecfcc08e814b7&oe=5EBB8DDA"
+    id: ck6u377c7w4pp0j71egfwib09
     verified: false
     hashtags: "#kahvekeyfi, #aksesuar, #bahar, #likeforlikes"
   - username: "girlafikir"
@@ -21,7 +21,7 @@ profiles:
     followers: 16254
     engagement: 402
     commentsToLikes: 0.047910
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/75362596_537909340396750_1548183337653239808_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=_vO5NU4OHLoAX_LW4_P&oh=f742576d4e46854fe49ee8fcc25afcee&oe=5EBAF442"
+    id: ck139k8nylpyw0i19znaiosrh
     verified: false
     hashtags: "#tv, #annewithane, #defnemucyasinda, #babasininelemegi"
   - username: "kaktusistan"
@@ -31,7 +31,7 @@ profiles:
     followers: 5473
     engagement: 1042
     commentsToLikes: 0.024511
-    avatar: "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/s320x320/75602147_2396948577282809_8556127237965873152_n.jpg?_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_ohc=I1kNd9Ndhf0AX8AV_UT&oh=8ec4da290f92d99d4a33ad4c397b4bae&oe=5EB60DCA"
+    id: ck8tdcum42uge0j78fl581750
     verified: false
     hashtags: "#cactilover, #book, #succulent, #cactus"
   - username: "zeybahar"
@@ -41,7 +41,7 @@ profiles:
     followers: 43299
     engagement: 661
     commentsToLikes: 0.340003
-    avatar: "https://scontent-bos3-1.cdninstagram.com/v/t51.2885-19/s320x320/68916344_2115935901851418_404067014219399168_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_ohc=WGKGgVjIdjQAX-1oTw9&oh=3b57babd87ac71d16f650e75569ac81e&oe=5EBE14FB"
+    id: ck0u00deus99e0i199oy52vsz
     verified: false
     hashtags: "#sundayvibes, #wishlist, #fashion, #monsteralove"
   - username: "silannekk"
@@ -51,7 +51,7 @@ profiles:
     followers: 4557
     engagement: 2982
     commentsToLikes: 0.421163
-    avatar: "https://scontent-gmp1-1.cdninstagram.com/v/t51.2885-19/s320x320/83318227_476261736400931_2269591376406511616_n.jpg?_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_ohc=TEY9-PuZ1NcAX_UMaTX&oh=27709969f8f0f8261e9fe8260edd7e16&oe=5EA4AF70"
+    id: ck8t56vuo8zsi0j78nvieeypn
     verified: false
     hashtags: "#mardin, #look, #ombre, #fashion"
   - username: "dunyayigezenkiz"
@@ -61,7 +61,7 @@ profiles:
     followers: 10298
     engagement: 663
     commentsToLikes: 0.228603
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/52491532_1199733960187025_2309140762412974080_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=ZilO3A6KOhoAX_rQdKl&oh=ac543ffbec3a45492fd174b3ea962498&oe=5EB8D993"
+    id: ck0w5c75o2xop0i19ty31txma
     verified: false
     hashtags: "#beautifuldestinations, #trendyol, #discoveryplanet, #evdekal"
   - username: "gezgin_ogretmen09"
@@ -71,7 +71,7 @@ profiles:
     followers: 21080
     engagement: 704
     commentsToLikes: 0.193407
-    avatar: "https://instagram.fbki2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/72159217_548261659353830_7550765777264050176_n.jpg?_nc_ht=instagram.fbki2-1.fna.fbcdn.net&_nc_ohc=B-F24A4A_8sAX8-7sOp&oh=651540d1efdb742fc83853efd4b03465&oe=5EB72DB1"
+    id: ck8tdlx1e3uys0j78k7lm76vv
     verified: false
     hashtags: "#ke, #dekorasyon, #mother, #ma"
   - username: "ipek.inn"
@@ -81,7 +81,7 @@ profiles:
     followers: 15885
     engagement: 677
     commentsToLikes: 0.665759
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s150x150/12677728_717857825018032_2087424175_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=7vZa0RV1vOAAX_DYumk&oh=90c3ec610155c8624e1a6cb87080786b&oe=5EBB4D8F"
+    id: ck0w61k4z6gz50i19eakoh4xu
     verified: false
     hashtags: "#like4likes, #yeniyilkonsepti, #carioca, #family"
   - username: "burcinburakcan"
@@ -91,7 +91,7 @@ profiles:
     followers: 24298
     engagement: 601
     commentsToLikes: 0.032059
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/91488788_2265681513740384_3011202005017296896_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=LxXQqhycBKMAX9OPvbe&oh=1fe1ecb9155fb0f88c04b2f676d1e8ba&oe=5EBB239D"
+    id: ck1347q9xv4lg0i198rdk8vxt
     verified: false
     hashtags: "#mom, #temizlik, #babyboy, #cocukgiyim"
   - username: "selmanigar"
@@ -101,7 +101,7 @@ profiles:
     followers: 10518
     engagement: 515
     commentsToLikes: 0.047574
-    avatar: "https://scontent-itm1-1.cdninstagram.com/v/t51.2885-19/s320x320/80630679_319765312250018_2213475017344155648_n.jpg?_nc_ht=scontent-itm1-1.cdninstagram.com&_nc_ohc=JmUdpLfgO5kAX-2TUnW&oh=03d13024ad159cdd94e11c29cf1293d1&oe=5EA678A5"
+    id: ck8t9dr5onpsg0j78r4tafufy
     verified: false
     hashtags: "#interiordesign, #amsterdam, #quarantinelife, #best"
 ---

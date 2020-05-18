@@ -1,7 +1,7 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Japan In 2020
 description: >-
-  Find top wellness Instagram influencers in Japan in 2020. Most popular hashtags: #nike #explorejapan #explorekyoto #running.
+  Find top wellness Instagram influencers in Japan in 2020. Most popular hashtags: #nike #running #explorekyoto #explorejapan.
 platform: Instagram
 profiles:
   - username: "learningtolovesarah"
@@ -11,7 +11,7 @@ profiles:
     followers: 9829
     engagement: 508
     commentsToLikes: 0.080516
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/67892180_2426056114149996_1154825034112434176_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=HFoDXJMT7A8AX_r83Fd&oh=696fe27fc18876806891e11dccbd5f8a&oe=5EBBE2D4"
+    id: ck55l0mdj0hyg0i11y0nqx39e
     verified: false
     hashtags: "#antidietculture, #edrecovery, #nakedcurve, #womanempowerment"
   - username: "moekofukuda"
@@ -21,7 +21,7 @@ profiles:
     followers: 35305
     engagement: 377
     commentsToLikes: 0.013677
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/36712084_277621002994270_8733200892674703360_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=D2TpoDVgu5gAX-NpPQl&oh=2f2ed0f13c04c0aa7de29ff00fe3388a&oe=5EB3ACAC"
+    id: ck15uws26ovo20i190kg7w2ep
     verified: false
     hashtags: "#feelbeautiful, #takanawagatewaystation, #ultraboost, #hometeam"
   - username: "haa_co85"
@@ -31,7 +31,7 @@ profiles:
     followers: 14272
     engagement: 583
     commentsToLikes: 0.023441
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/59800409_1225041981011700_9193331257470091264_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=cmFEPtGU1nsAX8BQJJp&oh=0ae7fac28fb846807a1958974264276c&oe=5EB934B1"
+    id: ck0tw16vtdktg0i19r7t64y70
     verified: false
     hashtags: "#2019bestnine, #yimsstylemassage, #chiropractic, #ignite"
   - username: "grace.oura"
@@ -41,7 +41,7 @@ profiles:
     followers: 5752
     engagement: 523
     commentsToLikes: 0.033145
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/90090467_203729990910387_5753971264158957568_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=Aq9QWHNSHJkAX-5LrC8&oh=ad17b86287733081465333c038252505&oe=5EBB456A"
+    id: ck5ck0enlvv830i113h52vefc
     verified: false
     hashtags: "#summeroutfit, #travelvibes, #enoshima, #faithfulness"
   - username: "galina_kerimova_jp"
@@ -51,7 +51,7 @@ profiles:
     followers: 7284
     engagement: 263
     commentsToLikes: 0.061176
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/75572946_526644231289438_3167169309965287424_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=hVUPN3o7DdEAX8KhqU6&oh=7d780250ad5736dd6ea34915e47e9188&oe=5EB050F2"
+    id: ck0w3sk59v1vk0i191bl9wczf
     verified: false
     hashtags: "#japanesegarden, #japanexpat, #wellness, #japanlover"
   - username: "be_story_official"
@@ -61,7 +61,7 @@ profiles:
     followers: 37812
     engagement: 156
     commentsToLikes: 0.004617
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/90087613_1312583552465791_5911275025490509824_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=2vdI7Wdf-gkAX_I6Sko&oh=55e12a482f72e89e5b68d6350d037c86&oe=5EB51FAA"
+    id: ck13akirpqtmi0i197yida15e
     verified: false
     hashtags: "#cosme, #cosmedecorte, #snowman, #beautyfood"
   - username: "eriomochi3"
@@ -71,7 +71,7 @@ profiles:
     followers: 4547
     engagement: 2931
     commentsToLikes: 0.060475
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/62424352_2588028827883721_8784575320079466496_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=6XalQWshvQgAX9OP12D&oh=1807735b58b1fc75a63a913dfb2f5c88&oe=5EBB02FB"
+    id: ck135nyh72ct30i19ydk397bb
     verified: false
     hashtags: "#foreathlete45s, #ig, #runonclouds, #pegasusturbo"
   - username: "cho_so_"
@@ -81,7 +81,7 @@ profiles:
     followers: 55325
     engagement: 299
     commentsToLikes: 0.015290
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/10957383_1545062059096167_1765518326_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=8Xbjo_UqdukAX_eB3Zk&oh=00e3adc03aae1084b900cd6d297de1e9&oe=5EB8A375"
+    id: ck55q8xdnc95z0i114k8sbsu0
     verified: false
     hashtags: "#hamee, #rubychocolate, #buzzlightyear, #tokyodisneyresort"
 ---

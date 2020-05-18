@@ -1,7 +1,7 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Brazil In 2020
 description: >-
-  Find top cooking Instagram influencers in Brazil in 2020. Most popular hashtags: #quarentena #ficaemcasa #beauty #fiqueemcasa.
+  Find top cooking Instagram influencers in Brazil in 2020. Most popular hashtags: #quarentena #beauty #ficaemcasa #fiqueemcasa.
 platform: Instagram
 profiles:
   - username: "gabymenotti"
@@ -11,7 +11,7 @@ profiles:
     followers: 105248
     engagement: 239
     commentsToLikes: 0.292555
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/44915704_2259361687643905_8462832529592811520_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=JnnmgVcms0AAX_GUncn&oh=1fda73f378e5833bb91d97b761c5fbb1&oe=5EBAE0D8"
+    id: ck5c70l5h6knv0i11xvc4low1
     verified: false
     hashtags: "#bomdia, #veraofit, #liveosmenotti, #fazerobemfazbem"
   - username: "matranchesi"
@@ -21,7 +21,7 @@ profiles:
     followers: 484576
     engagement: 184
     commentsToLikes: 0.029972
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/89090275_314307882862213_3841681687440261120_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=-ox2q1PZvysAX-00eUA&oh=813d2ad0a8d004f13aacc447d751fc94&oe=5EB9582C"
+    id: ck0ttitq22wob0i19hx9areqk
     verified: true
     hashtags: "#fiqueemcasa, #dia7, #dia12, #soleahdecora"
   - username: "catvonseehausen"
@@ -31,7 +31,7 @@ profiles:
     followers: 42485
     engagement: 145
     commentsToLikes: 0.075983
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/91233586_145170566919488_7155653705432301568_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=2z2K82PLZ1UAX-frtIR&oh=2b6dd08e996217f341a5a7e575a6886b&oe=5EBADE3C"
+    id: ck6ugevaw2ma70j71angosfvh
     verified: false
     hashtags: "#bahia, #publi, #publicidade, #bdaygirl"
   - username: "figosefunghis"
@@ -41,7 +41,7 @@ profiles:
     followers: 25612
     engagement: 153
     commentsToLikes: 0.089834
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/37883768_1655091887952393_8716292740301717504_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=lwCXlPzkA24AX9BeME5&oh=843778f84f5d6d07278f9f1b171ffb52&oe=5EBB7A15"
+    id: ck5caxmhiebth0i11tin8xl1l
     verified: false
     hashtags: "#baixascalorias, #decor, #biblioteca, #truekombucha"
   - username: "fernandacolomboreal"
@@ -51,7 +51,7 @@ profiles:
     followers: 631578
     engagement: 197
     commentsToLikes: 0.017686
-    avatar: "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/53803913_444775539396790_3173126360885362688_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=ZQ19VJx2O0sAX_yvhr2&oh=9ed0d9a1d6eeb92e30e0c07b977422c5&oe=5E9F30E9"
+    id: ck8t5t0wub56n0j78at9cwjgt
     verified: true
     hashtags: "#treino, #fitness, #catioro, #yoga"
   - username: "raf.ael_frasson"
@@ -61,7 +61,7 @@ profiles:
     followers: 2332
     engagement: 1733
     commentsToLikes: 0.046535
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/60189750_2051223701848183_7809297743054110720_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=Kr5qQAc2IOgAX-PqwWE&oh=95b9a8e889b84f9fd9afe701af9e02e1&oe=5EB9A4F1"
+    id: ck6u09f09edhn0j71iax7xjhu
     verified: false
     hashtags: "#saopauloofficial, #mgbelezas, #visitbrasil, #discovercalifornia"
   - username: "toshiakuta"
@@ -71,7 +71,7 @@ profiles:
     followers: 5703
     engagement: 509
     commentsToLikes: 0.027237
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/12783959_821094188036453_2111909742_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=6SbkdlfDlS0AX88bpYX&oh=af3d7cdb3169ce911586000c792bce87&oe=5EA3B3E8"
+    id: ck8svt5k3cljm0j78ulaw6ix5
     verified: false
     hashtags: ""
   - username: "felipepileggi"
@@ -81,7 +81,7 @@ profiles:
     followers: 212229
     engagement: 648
     commentsToLikes: 0.078412
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/91984980_214603236622314_383851036948824064_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=dJdHjiKOMAoAX-r8Zkk&oh=45d0d8b2cf936a8dd1c2d34c5b4c9ccc&oe=5EB993C6"
+    id: ck6ty7aae229y0j716xavalp6
     verified: false
     hashtags: "#viral, #foryoupag, #cooking, #telaverde"
   - username: "about_minoo"
@@ -91,7 +91,7 @@ profiles:
     followers: 94977
     engagement: 853
     commentsToLikes: 0.050117
-    avatar: "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/s320x320/92320984_2909725729125876_134617791318720512_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ohc=-X56gbhsgLkAX-cp4Id&oh=c637c851c7900171d235d7950a2b29cb&oe=5EBB9269"
+    id: ck6u4yqrh6ki40j714o0b6qsq
     verified: false
     hashtags: "#voguemagazine, #flowers, #windday, #yellow"
   - username: "mickatv"
@@ -101,7 +101,7 @@ profiles:
     followers: 50540
     engagement: 371
     commentsToLikes: 0.042914
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/90991292_897558544047856_1607233335472422912_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=HOGq5GR8AXQAX8eArv8&oh=2830c884b3d416ab5b42f624f47915e5&oe=5EB8F881"
+    id: ck0w6xgxqaq4n0i19okx2c1vd
     verified: false
     hashtags: "#fasion, #cozinhando, #styleoftheday, #2defevereiro"
 ---

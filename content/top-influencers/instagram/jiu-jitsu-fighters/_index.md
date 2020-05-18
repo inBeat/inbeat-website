@@ -1,7 +1,7 @@
 ---
 title: Top 10 Jiu-Jitsu Fighters Instagram Influencers In 2020
 description: >-
-  Find top jiu-jitsu fighters Instagram influencers in 2020. Most popular hashtags: #jiujitsu #bjj #lefairplayestunsport #jiujitsulifestyle.
+  Find top jiu-jitsu fighters Instagram influencers in 2020. Most popular hashtags: #jiujitsu #bjj #ibjjf #jiujitsu4life.
 platform: Instagram
 profiles:
   - username: "ju_amaral_bjj"
@@ -11,7 +11,7 @@ profiles:
     followers: 31646
     engagement: 887
     commentsToLikes: 0.057292
-    avatar: "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s320x320/71526813_458252588367582_6850218970193068032_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=tGG6Laquy2YAX-sytiq&oh=1b1831ddf25cf616e43daf4fadc6e135&oe=5EA4CE31"
+    id: ck8t3srub4col0j78jxdz24b9
     verified: false
     hashtags: "#jiujitsu, #bjj, #flamengo"
   - username: "yodchatri"
@@ -21,7 +21,7 @@ profiles:
     followers: 63288
     engagement: 853
     commentsToLikes: 0.268064
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/87339849_751890012001539_1941180915480788992_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=4VlMErqP2zgAX_7Peyj&oh=9e634b137cad12eb23cafee55a5b84c7&oe=5EB85310"
+    id: ck5bzyyfos3xs0i11rcvxr9t9
     verified: true
     hashtags: "#weareone, #apprenticeone, #gratitude"
   - username: "pedromachadooo"
@@ -31,7 +31,7 @@ profiles:
     followers: 10395
     engagement: 978
     commentsToLikes: 0.070931
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/90031305_1906076079517566_8983164514673360896_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=r3eAQaFgMdoAX-BTHNS&oh=2bbb47c06909ea695bc4205a38a8e4a2&oe=5EB9E80F"
+    id: ck1392rejj87a0i19jwg811ms
     verified: false
     hashtags: "#repost, #ibjjflasvegasopen, #repost, #ibjjfeuropean2020"
   - username: "claracardoso.bjj"
@@ -41,7 +41,7 @@ profiles:
     followers: 2951
     engagement: 2528
     commentsToLikes: 0.089948
-    avatar: "https://scontent-hkt1-1.cdninstagram.com/v/t51.2885-19/s320x320/90182592_220986005941325_8748687913383886848_n.jpg?_nc_ht=scontent-hkt1-1.cdninstagram.com&_nc_ohc=cmSDd9TApnIAX-EEjs3&oh=7cf4a0f3b7bc7d0bbadabd7219dce6ef&oe=5EA2DC4F"
+    id: ck8t7pdi2hjvd0j78818bi0u9
     verified: false
     hashtags: "#jiujitsuforlife, #jiujitsubrasil, #jiujitsuraiz, #jiujitsuvideos"
   - username: "mika.cristina_"
@@ -51,7 +51,7 @@ profiles:
     followers: 6332
     engagement: 1340
     commentsToLikes: 0.052796
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/91767939_534722713868271_855692008033878016_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=VEu6IhXE-q4AX9hvMvo&oh=c91f516b9577430cd1451aa3c3038a68&oe=5EB90148"
+    id: ck5znucqtp63w0i146jvt7t0e
     verified: false
     hashtags: "#fightergirl, #luta, #sundayfunday, #bjjgirls"
   - username: "ron_.levi"
@@ -61,7 +61,7 @@ profiles:
     followers: 218575
     engagement: 1224
     commentsToLikes: 0.018072
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/65305405_422598271674294_5752216924637364224_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=lr6-gkiEnmsAX8cs4Hj&oh=2f09a3f5da9bd0e041ce4cdfafcde4a2&oe=5EB92C4D"
+    id: ck5hgspdp4jz00i11xbfssplu
     verified: false
     hashtags: ""
   - username: "sdotb"
@@ -71,7 +71,7 @@ profiles:
     followers: 18264
     engagement: 442
     commentsToLikes: 0.073304
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/57331500_588766781608628_2018094987954094080_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=l15ROwyNphEAX9UPGXA&oh=23eb1b0339d019c9f6df2bd2705c5f1a&oe=5EB9C677"
+    id: ck0vyttvr5qqi0i19mib3epen
     verified: false
     hashtags: "#muaythai, #dreamville, #martialarts, #muaythaitraining"
   - username: "amalamjahid"
@@ -81,7 +81,7 @@ profiles:
     followers: 13724
     engagement: 2082
     commentsToLikes: 0.025011
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/26863771_173696326728266_1069079774439145472_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=U0lO7QYJOFsAX-GToM2&oh=23379137c8551bfeca4f1cac77051e3c&oe=5EBC1525"
+    id: ck6tr0au5vzz30j718ezhptg2
     verified: false
     hashtags: "#restezchezvous, #mfwb, #beactive, #merrychristmas"
   - username: "mestrearmandowriedt"
@@ -91,7 +91,7 @@ profiles:
     followers: 19894
     engagement: 1244
     commentsToLikes: 0.025305
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/26336680_895217920646565_133129069754580992_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=P15E-Rt7FDEAX8nvv_0&oh=4318cb71c0869fcfe1c4b3a5141b8b5e&oe=5EB978A4"
+    id: ck5c7c5ni79140i11xzdhqkmp
     verified: false
     hashtags: "#acrediteemvoce, #fighterwomen, #lembrancas, #judoka"
   - username: "fabioarboleda"
@@ -101,7 +101,7 @@ profiles:
     followers: 34254
     engagement: 463
     commentsToLikes: 0.051378
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/66675655_459775994857233_6958161737543581696_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=fQ-9mHJcteIAX96P78-&oh=302af81c077b0cb4c55a655f4102b2ca&oe=5EB8A7CF"
+    id: ck6tuwi1jithm0j71puf9ijn1
     verified: false
     hashtags: "#jiujitsu, #superregioneschallenge, #quedateencasa, #man"
 ---

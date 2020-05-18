@@ -1,7 +1,7 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Greece In 2020
 description: >-
-  Find top architecture Instagram influencers in Greece in 2020. Most popular hashtags: #greece #wu #architecture #ig.
+  Find top architecture Instagram influencers in Greece in 2020. Most popular hashtags: #greece #wu #ig #architecture.
 platform: Instagram
 profiles:
   - username: "georgefakaros"
@@ -11,7 +11,7 @@ profiles:
     followers: 10315
     engagement: 682
     commentsToLikes: 0.005906
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/60486776_724959501253810_8029871101414735872_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=Vi_l_-ilnv4AX8wcX0w&oh=c56f1f1df0337bfe507a6c58877e18ae&oe=5EB5491E"
+    id: ck6u101z7irau0j71vtydr1qr
     verified: false
     hashtags: "#mykonosgreece, #kohsamui, #dronephotography, #coconuttree"
   - username: "k_studio_gr"
@@ -21,7 +21,7 @@ profiles:
     followers: 29141
     engagement: 493
     commentsToLikes: 0.016445
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/40072605_2072903812722109_1648872905968189440_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=7W9rgsURQr0AX8gr7Wu&oh=4bff406afab2e725640256a74b67a8cc&oe=5EB36EAF"
+    id: ck0uc9znmg9s30i19vm4uigsf
     verified: false
     hashtags: "#costanavarino, #barbouni, #skiathos, #kaplankaya"
   - username: "ntar_ina"
@@ -31,7 +31,7 @@ profiles:
     followers: 14567
     engagement: 1090
     commentsToLikes: 0.010855
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/82873506_191198338783467_4074032314277953536_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=bmwDoT_kYdUAX_yAhS_&oh=7559683903fbb1a4e0408e557bedfdf0&oe=5EBA284A"
+    id: ck5qed10gzvvy0i11mjx0rg7e
     verified: false
     hashtags: "#imissparis, #tastyfood, #yumyum, #girlsnight"
   - username: "kostasboukou"
@@ -41,7 +41,7 @@ profiles:
     followers: 17070
     engagement: 1013
     commentsToLikes: 0.111249
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/13706805_574335016071912_1258117110_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=j_k73ZX2zPgAX8Y83eu&oh=d93c6fc7272fce979c03e2bfa3e13838&oe=5EB7A923"
+    id: ck138hc7jg8h00i19jtyh130l
     verified: false
     hashtags: "#staysafe, #prodromos, #hello, #lefkes"
   - username: "aba_tziz"
@@ -51,7 +51,7 @@ profiles:
     followers: 5461
     engagement: 1984
     commentsToLikes: 0.167632
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/47582625_536054396870290_8924110071563026432_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=gpZ1UFW-RX8AX8P5TWx&oh=29d653cb721db88249f525c00abe6ee8&oe=5EBBE122"
+    id: ck0w1nwm6k9mh0i19u9pme0sr
     verified: false
     hashtags: "#tlpicks, #thisisathens, #minimaldotcom, #ladadika"
   - username: "nikosgkanosofficial"
@@ -61,7 +61,7 @@ profiles:
     followers: 58040
     engagement: 393
     commentsToLikes: 0.019068
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/88187927_541635389799255_1953042030309408768_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=rglBJxIF1K8AX8E6TSE&oh=58f4a68d1e2ffd20b400fa5691d0de33&oe=5EB8FD38"
+    id: ck13722w19drn0i19w883cmw8
     verified: true
     hashtags: "#kiamos, #performance, #city, #chocolate"
   - username: "milena_spanou"
@@ -71,7 +71,7 @@ profiles:
     followers: 9015
     engagement: 1905
     commentsToLikes: 0.059512
-    avatar: "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s320x320/89710541_206437987370275_3312130035367804928_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=8avqTY9e5aQAX-FHO61&oh=227ad087fff624c4db97fe7da2d05e06&oe=5EA2BC38"
+    id: ck8t6zr4df71z0j78rontqauf
     verified: false
     hashtags: "#zonestreet, #cityofathens, #oldathens, #hikaricreative"
   - username: "minogiannisvalantis"
@@ -81,7 +81,7 @@ profiles:
     followers: 84890
     engagement: 653
     commentsToLikes: 0.049780
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/42128585_249727132384122_8209327281856839680_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=1gNZV8f-TdwAX_7Tfs2&oh=c1d81a0e2977d54cb1325fbbe7aabd7f&oe=5EB9E1B5"
+    id: ck0ty3kv9lh660i19i6yj40o6
     verified: false
     hashtags: "#art, #kings, #pink, #architecturelovers"
   - username: "merm1gas"
@@ -91,7 +91,7 @@ profiles:
     followers: 6478
     engagement: 1684
     commentsToLikes: 0.046770
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/89847681_135750771209221_9199607982806007808_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=ds4EsAkYQ24AX-9QkON&oh=a72547450eb03dc5881ae25b831292bc&oe=5EBB8419"
+    id: ck5zsfjk8yeaq0i14ns6ezz64
     verified: false
     hashtags: "#serialshooters, #bokehcity, #way2ill, #streetsineurope"
   - username: "john.th.karageorgos"
@@ -101,7 +101,7 @@ profiles:
     followers: 3549
     engagement: 1780
     commentsToLikes: 0.116116
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/84240930_124963415617447_4271700006458621952_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=kO2xU16UTtEAX_3zdBY&oh=da671d9cac47819ca0afb3ad79a02928&oe=5EB9BB45"
+    id: ck5cc4jy6gpmu0i11zddhugu5
     verified: false
     hashtags: "#savethedecay, #grime, #beautifuldestinations, #greeceunlimited"
 ---

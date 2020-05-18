@@ -1,7 +1,7 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top fashion Instagram influencers in Brisbane in 2020. Most popular hashtags: #brisbane #love #fashion #ootd.
+  Find top fashion Instagram influencers in Brisbane in 2020. Most popular hashtags: #brisbane #fashion #love #ootd.
 platform: Instagram
 profiles:
   - username: "melgreen_x"
@@ -11,7 +11,7 @@ profiles:
     followers: 49622
     engagement: 107
     commentsToLikes: 0.149294
-    avatar: "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/s320x320/92365143_1140509049629206_5964913033804251136_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ohc=119IYEjj_oAAX9ZmobZ&oh=71e1017ba9aebe79a354a025f040d95b&oe=5EBC3BB4"
+    id: ck6tykp8j4at90j71h28e8yqi
     verified: false
     hashtags: "#classycasual, #oxygenmagazine, #sunshine, #macros"
   - username: "tessandluke"
@@ -21,7 +21,7 @@ profiles:
     followers: 53424
     engagement: 503
     commentsToLikes: 0.015628
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/83328797_1458051907708990_8692250642955108352_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=cV1Uj_8M9YsAX_AXSP9&oh=6183a66d7afb61c8da366d35df4c6305&oe=5EB95706"
+    id: ck0u1aintwayr0i19yl41xoe7
     verified: false
     hashtags: "#bathroomstyling, #staycation, #stayhome, #dogsofinstagram"
   - username: "isabella.grace.model"
@@ -31,7 +31,7 @@ profiles:
     followers: 44605
     engagement: 197
     commentsToLikes: 0.058716
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/64717712_1651576564977529_1885306174098636800_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=7TE-3dteXWEAX9g88ZQ&oh=b3ab9d4f03640974efcad5e9ffa5f642&oe=5EBB399D"
+    id: ck5qc0i9yo9ke0i1190j31smr
     verified: false
     hashtags: "#rustic, #wushilandboba, #vscouting, #veganhair"
   - username: "alarnataylor_hair_mua"
@@ -41,7 +41,7 @@ profiles:
     followers: 17861
     engagement: 291
     commentsToLikes: 0.019967
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/88279160_679492872802199_5274868323715121152_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=gqjZavh_UeIAX-vGMnH&oh=385f98cf8e602ca84b6e38ddf14a75cf&oe=5EA083A8"
+    id: ck5c6636c4sss0i117sv699dj
     verified: false
     hashtags: "#closeup, #armanibeauty, #thatglow, #sunkissed"
   - username: "liz.amaya.style"
@@ -51,7 +51,7 @@ profiles:
     followers: 63131
     engagement: 94
     commentsToLikes: 0.160028
-    avatar: "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s320x320/70149156_428772491178891_1439597914346225664_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=lFAvUvuyJZwAX8n-9PS&oh=fa60a9afff9a5680876c30583d9ba15e&oe=5EB2987D"
+    id: ck0vxe68myght0i19j3z1lyj9
     verified: false
     hashtags: "#sale, #denim, #sofa, #coronavirus"
   - username: "what_brooke_wore"
@@ -61,7 +61,7 @@ profiles:
     followers: 32739
     engagement: 117
     commentsToLikes: 0.072708
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/22709255_214332052439810_278336047107014656_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=wTt15sXXVTAAX8yUAy1&oh=c12d6d099028d89d8c7c3116dc27273f&oe=5EB997F5"
+    id: ck5cgl5owp2a50i11j6s9mo5j
     verified: false
     hashtags: "#uonsunday, #selfcare, #brisbaneblogger, #whatimwearing"
   - username: "lauren.higgs"
@@ -71,7 +71,7 @@ profiles:
     followers: 27097
     engagement: 157
     commentsToLikes: 0.151547
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/72405394_571338043432527_6735570272834813952_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=PcPwvMlSUCoAX8fT285&oh=e329ce50fb88321c5c19a5501055163a&oe=5EB6028D"
+    id: ck5hmhdjalyda0i117v7rfm9a
     verified: false
     hashtags: "#boyfriendintheback, #matching, #highwaisted, #isolationcreation"
   - username: "masphoto.official"
@@ -81,7 +81,7 @@ profiles:
     followers: 5329
     engagement: 535
     commentsToLikes: 0.104884
-    avatar: "https://scontent-bos3-1.cdninstagram.com/v/t51.2885-19/s320x320/71522126_356532908563997_7082759400225505280_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_ohc=SEU0IPkv8MwAX_2Qkpv&oh=b7ee5214ce049954ee854f217c897ec8&oe=5EB9270A"
+    id: ck6u339dyvfx90j71bhrei5ev
     verified: false
     hashtags: "#fitnesslife, #selflove, #vibes, #model"
   - username: "jennybeeen"
@@ -91,7 +91,7 @@ profiles:
     followers: 4246
     engagement: 930
     commentsToLikes: 0.233495
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/54513907_331901587682492_193753293346832384_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=nF_hsDhucJwAX9ZSVLA&oh=1af21fd55af839e9f4f2fc11aa530d1e&oe=5EB92BB5"
+    id: ck5honakipv940i114q4oggvy
     verified: false
     hashtags: "#ashblonde, #balayageathome, #idealcase, #haircurler"
   - username: "themagicalozfamily"
@@ -101,7 +101,7 @@ profiles:
     followers: 21256
     engagement: 256
     commentsToLikes: 0.129164
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/91440141_213291169784475_969617982655299584_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=DZ5j9bA2k9MAX8iHdTl&oh=ecd599771ff6a6db569f88a08df36119&oe=5EAB1FB0"
+    id: ck5heb7fms0k80i11budywgdn
     verified: false
     hashtags: "#onlineweightlossprogram, #perthmums, #familylifeaustralia, #socialmedia"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Food Instagram Influencers In Boston In 2020
 description: >-
-  Find top food Instagram influencers in Boston in 2020. Most popular hashtags: #boston #bostonblogger #newengland #bostonma.
+  Find top food Instagram influencers in Boston in 2020. Most popular hashtags: #boston #bostonblogger #bostonma #newengland.
 platform: Instagram
 profiles:
   - username: "hungrysavory"
@@ -11,7 +11,7 @@ profiles:
     followers: 6983
     engagement: 1349
     commentsToLikes: 0.002877
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/47689715_2135578086757074_8694829805176094720_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=z67exV8wHYgAX9HK7Fw&oh=cbb243d8268755512d78df3b931312fa&oe=5EBA5AB1"
+    id: ck138pxhxhfi10i19yodmy90d
     verified: false
     hashtags: "#hawaiilife, #hawaii, #tbt, #drinks"
   - username: "alyssakstevens"
@@ -21,7 +21,7 @@ profiles:
     followers: 6955
     engagement: 553
     commentsToLikes: 0.092185
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/21827301_482541652122552_8374775435052974080_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=RJ6kzRfdezkAX_JYVKX&oh=6678df32ba134cd6442ec1a1d2428a09&oe=5EBCE142"
+    id: ck0vy42r3253f0i198ybfafo9
     verified: false
     hashtags: "#longweekendvibes, #citystreets, #hermes, #floridasun"
   - username: "beantownbitez"
@@ -31,7 +31,7 @@ profiles:
     followers: 3501
     engagement: 1760
     commentsToLikes: 0.126146
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/66145127_1251125935061529_7526877164868730880_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=gKr0a9AlWxkAX-UCxUe&oh=a7fd00d0cb6889acd84a9e6024cc82ea&oe=5EBC01CE"
+    id: ck6uebqx2pznn0j71hgb3f5gv
     verified: false
     hashtags: "#buyagiftcard"
   - username: "whatsemeating"
@@ -41,7 +41,7 @@ profiles:
     followers: 11976
     engagement: 1400
     commentsToLikes: 0.065341
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/68662509_2358244534273079_8472354987484119040_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=UlFV6bYRd1sAX9k8RsG&oh=a81f48494bcaaf7f2b721b25e6f094f8&oe=5EBB0CCE"
+    id: ck5c0d3taswkb0i118hjyc2k3
     verified: false
     hashtags: "#wholefoods, #arcticchar, #balance, #justaddcollagen"
   - username: "nomnom_boston"
@@ -51,7 +51,7 @@ profiles:
     followers: 70755
     engagement: 306
     commentsToLikes: 0.022510
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/66607111_511877786234368_3313158916258398208_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=P5RvsV8BPmgAX83d7qw&oh=6255324cbb3f736e5d4fc53ed616d431&oe=5EBB42E9"
+    id: ck0w0wng8ge790i194ry83yg5
     verified: false
     hashtags: "#ritzfriedchicken, #cartagena, #experiencewindsor, #supportlocal"
   - username: "ninak.eats"
@@ -61,7 +61,7 @@ profiles:
     followers: 7504
     engagement: 493
     commentsToLikes: 0.132115
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/57619140_507844093083040_5827957594865532928_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=mhy8FMx7-aEAX8uuew-&oh=cd90a17774830295ec276335c8b15ea2&oe=5EAB0EC7"
+    id: ck5hgyv045iaa0i11q8ynthkj
     verified: false
     hashtags: "#robatayaki, #getfat, #dessertgram, #eatingnola"
   - username: "ashley15c"
@@ -71,7 +71,7 @@ profiles:
     followers: 23406
     engagement: 415
     commentsToLikes: 0.033512
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/92354111_1032208157174843_1832968162191081472_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=9OvqIfQiyowAX9xlxeh&oh=a0abe053a207380ba0ad23c24677d7ff&oe=5EBB20B1"
+    id: ck5zo02w4phkj0i14ngq5281w
     verified: false
     hashtags: "#bostonma, #instadaily, #confidentlybeautiful, #boston"
   - username: "azulenaroyer"
@@ -81,7 +81,7 @@ profiles:
     followers: 41521
     engagement: 184
     commentsToLikes: 0.140584
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/80037958_651273895615699_4691464533439414272_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=BLzgIBWlOwgAX_9A3eS&oh=596b7f85e0cfecc3bb8dcfc860390234&oe=5EBB5A1F"
+    id: ck5zk426wirz80i14l8ygzwn5
     verified: false
     hashtags: "#ltkunder50, #ltkspring, #pinklilyboutique, #ltkfit"
   - username: "whatzoeeeats"
@@ -91,7 +91,7 @@ profiles:
     followers: 15290
     engagement: 1030
     commentsToLikes: 0.136260
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/75231146_428973297770770_2620693188939087872_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=XBv6HdYJm5QAX9Qi9BX&oh=8b37e8800aca12e10d4c3d733aa308e4&oe=5EBB9BF8"
+    id: ck5bu9012hd5g0i11c04m42iu
     verified: false
     hashtags: "#toasttuesday, #rallyforrestaurants"
   - username: "amyytran"
@@ -101,7 +101,7 @@ profiles:
     followers: 103829
     engagement: 323
     commentsToLikes: 0.014751
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/74676927_2594634283962483_9021078226809651200_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=poJlTYOzxkgAX-FOk6w&oh=e3de3069cf0af0e964d12210ad98cb0d&oe=5EB72B1B"
+    id: ck13ashm8rykk0i19ait92n39
     verified: false
     hashtags: "#cnd, #cnynails, #dancepartytealdawn, #essieflyingsolo"
 ---

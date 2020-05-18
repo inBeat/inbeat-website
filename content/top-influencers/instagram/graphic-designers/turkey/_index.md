@@ -1,7 +1,7 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Turkey In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Turkey in 2020. Most popular hashtags: #photography #evdekal #turkey #design.
+  Find top graphic-designers Instagram influencers in Turkey in 2020. Most popular hashtags: #photography #evdekal #turkey #style.
 platform: Instagram
 profiles:
   - username: "ahmettahabilgin"
@@ -11,7 +11,7 @@ profiles:
     followers: 21704
     engagement: 399
     commentsToLikes: 0.060380
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/73712504_2721826651214102_8272918254108803072_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=9ciecxjUJwQAX-E9cAw&oh=60e72310f275e3083cbffbe67b89cfa9&oe=5EBBC3F9"
+    id: ck14h6b168r3u0i19xivql2fc
     verified: false
     hashtags: "#galata, #autumn, #window, #winter"
   - username: "ysnyaman"
@@ -21,7 +21,7 @@ profiles:
     followers: 33418
     engagement: 1473
     commentsToLikes: 0.062234
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/40108076_530645364050959_4607507878536806400_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=OLry0stGz9kAX8rifMt&oh=39745731b73cff1d8c7649ad414f5f03&oe=5EB93B3C"
+    id: ck14jdfewjsbf0i19ngmw3x21
     verified: false
     hashtags: "#ysnyaman, #robin, #createyourstory, #cat"
   - username: "esgimira"
@@ -31,7 +31,7 @@ profiles:
     followers: 315236
     engagement: 124
     commentsToLikes: 0.094211
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/84352735_817115745466983_2949483277729136640_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=9AdMf4P1EboAX9EOfRi&oh=0ac1a2f0048060b7531814db9ef40d5b&oe=5EB8E2F9"
+    id: ck602w26wjljd0i140cropqz6
     verified: false
     hashtags: "#sondakika, #covid19, #fasist, #alevid"
   - username: "magn0liaa"
@@ -41,7 +41,7 @@ profiles:
     followers: 12355
     engagement: 1035
     commentsToLikes: 0.024351
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/81935040_1771604069630970_5775372673878065152_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=tVmgiIL8xacAX9iUwNo&oh=d47aa47d1977407c229626ec5b14256c&oe=5EBB136F"
+    id: ck0vyo1nm4y450i1935qip8mo
     verified: false
     hashtags: "#repost, #flight752, #saveplanet, #internationalwomensday"
   - username: "girlafikir"
@@ -51,7 +51,7 @@ profiles:
     followers: 16254
     engagement: 402
     commentsToLikes: 0.047910
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/75362596_537909340396750_1548183337653239808_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=_vO5NU4OHLoAX_LW4_P&oh=f742576d4e46854fe49ee8fcc25afcee&oe=5EBAF442"
+    id: ck139k8nylpyw0i19znaiosrh
     verified: false
     hashtags: "#tv, #annewithane, #defnemucyasinda, #babasininelemegi"
   - username: "efas"
@@ -61,7 +61,7 @@ profiles:
     followers: 2284
     engagement: 1082
     commentsToLikes: 0.072109
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/85184023_1569805959825557_2345895546343915520_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=W8uMZd_Fh5wAX-1wgSP&oh=c1fea925e43982aa0ab5a52d664e065e&oe=5EBB8EB9"
+    id: ck0udw7uck07h0i19b9uxa6tm
     verified: false
     hashtags: "#shortfilm, #matte, #design, #panorama"
   - username: "deniz_ozgenc"
@@ -71,7 +71,7 @@ profiles:
     followers: 27851
     engagement: 297
     commentsToLikes: 0.038209
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/66684281_1206787706186389_5089023542628974592_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=R2R0rOH1Tu4AX9xcH8i&oh=cf106be91ad6b5e57a668601a5cc41c5&oe=5EB8F2C6"
+    id: ck0vvmkwapsbh0i19s0y8gly4
     verified: false
     hashtags: "#zara, #freehandnailart, #grannysquare, #crafts"
   - username: "emrecanfree"
@@ -81,7 +81,7 @@ profiles:
     followers: 9944
     engagement: 656
     commentsToLikes: 0.004067
-    avatar: "https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-19/s320x320/90088972_519773185607442_3188834005474607104_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_ohc=N5r6QICX23YAX99q-52&oh=aca573785d78a1fe6b21f67e8de0cc82&oe=5EA60646"
+    id: ck8t8x7p2m6830j78x58sidtr
     verified: false
     hashtags: "#motorcycle, #motors, #nice, #bloggermom"
   - username: "73x5"
@@ -91,7 +91,7 @@ profiles:
     followers: 23427
     engagement: 266
     commentsToLikes: 0.007502
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/53430137_2248717458699777_2504455903437127680_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=uLhob3HB1EQAX86hyyY&oh=f2860f14b53b55c60d9c89a2961e7f59&oe=5EB56C93"
+    id: ck6uhr50ear7v0j71fp54detu
     verified: false
     hashtags: "#corona, #mural, #stf459, #cinematic"
 ---

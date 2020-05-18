@@ -1,7 +1,7 @@
 ---
 title: Top 10 Golfers Instagram Influencers In South Korea In 2020
 description: >-
-  Find top golfers Instagram influencers in South Korea in 2020. Most popular hashtags: #golf #golffashion #golfswing #lpgatour.
+  Find top golfers Instagram influencers in South Korea in 2020. Most popular hashtags: #golf #golffashion #golfswing #golflessons.
 platform: Instagram
 profiles:
   - username: "hyang2golf"
@@ -11,7 +11,7 @@ profiles:
     followers: 12819
     engagement: 752
     commentsToLikes: 0.036999
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/87689851_1082522832107641_8311987295267848192_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=h7zyBpR8gT0AX-c3ewD&oh=bdfda19efbb491547986d828b59e2d2f&oe=5EB9B925"
+    id: ck5c4llgd1ln00i11wzmk5g7z
     verified: true
     hashtags: "#15, #lasttournamentoftheyear, #lpga, #eat4earth"
   - username: "heeyounglpga"
@@ -21,7 +21,7 @@ profiles:
     followers: 17513
     engagement: 413
     commentsToLikes: 0.044658
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/91256105_225730848483157_2965377474222882816_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=G-I7T2pioRkAX_JZHa3&oh=8db4aa07090da5094aa44eaa03cbb6da&oe=5EB8FA19"
+    id: ck6ucbykwep6v0j7106d4gmwp
     verified: true
     hashtags: "#timetobeyourself, #vicopen, #lpgatour, #jessicagomes"
   - username: "kyohee_pro"
@@ -31,7 +31,7 @@ profiles:
     followers: 46194
     engagement: 393
     commentsToLikes: 0.025863
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/91859064_2630186227108555_5100472709964365824_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=ZTxytU_bXVYAX-R7g1U&oh=a6d83df3a47dc2f571822c81caafca87&oe=5EBC0E49"
+    id: ck0w3kqebtwj40i19vy5m6ff1
     verified: false
     hashtags: "#sports, #sportlife, #sportsgirl, #korea"
   - username: "jin_starrr"
@@ -41,7 +41,7 @@ profiles:
     followers: 36896
     engagement: 306
     commentsToLikes: 0.036009
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/92345599_227770278281158_3466444825878855680_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=X0SSS8MrFekAX_NbbLs&oh=514278b9354134c8bb781ee2e5abb86b&oe=5EBAE1D3"
+    id: ck14gzow17thx0i19lcuisciy
     verified: false
     hashtags: "#hookorslice, #gv80, #genesis, #genesisgv80"
   - username: "jjua._.ibeauty"
@@ -51,7 +51,7 @@ profiles:
     followers: 28890
     engagement: 246
     commentsToLikes: 0.047656
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/73527666_2644841755562744_9040419014299353088_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=A_xFQJbWWNcAX9bAhlN&oh=8965e09114f0dda0733f8eee623bc996&oe=5EBB5492"
+    id: ck6uidakgeeuh0j71p43y695e
     verified: false
     hashtags: "#hbd, #genesisgv80, #gv80, #footjoygolf"
   - username: "jineee_1"
@@ -61,7 +61,7 @@ profiles:
     followers: 24775
     engagement: 348
     commentsToLikes: 0.024083
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/69776704_417986028922278_8767966934948904960_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=YNp8KnvqvWAAX82fWQC&oh=3d509eaadd2991106b66a2f8d511dd6b&oe=5EBA76C5"
+    id: ck5c4lsyt1m3k0i118kfawtby
     verified: false
     hashtags: "#adidasgolf, #pinggolfwear, #sbs, #pinggolf"
   - username: "her8105"
@@ -71,7 +71,7 @@ profiles:
     followers: 56015
     engagement: 196
     commentsToLikes: 0.021211
-    avatar: "https://scontent-hkt1-1.cdninstagram.com/v/t51.2885-19/s320x320/83799118_212583506770785_8293084066161360896_n.jpg?_nc_ht=scontent-hkt1-1.cdninstagram.com&_nc_ohc=veF43KOH3d0AX9xEyPE&oh=17a3f839b2516bf148186e09edd7490b&oe=5EA2EDF1"
+    id: ck8t7i5tigw700j788hl62rnk
     verified: false
     hashtags: "#golfswag, #goodmorning, #golflife, #instagolf"
   - username: "imjidong"
@@ -81,7 +81,7 @@ profiles:
     followers: 43759
     engagement: 230
     commentsToLikes: 0.016608
-    avatar: "https://scontent-bru2-1.cdninstagram.com/v/t51.2885-19/s320x320/61343936_2180894945363767_8035689218732720128_n.jpg?_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_ohc=9rHjyTnLGOEAX8laCZh&oh=f392dc7f836971f02bd104fbc925be76&oe=5EA47C20"
+    id: ck8t8znqymeyj0j78cbxmbsf8
     verified: false
     hashtags: "#vaiodex, #selmo, #epon, #golfswing"
   - username: "kimi_goon"
@@ -91,7 +91,7 @@ profiles:
     followers: 8269
     engagement: 452
     commentsToLikes: 0.022406
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/84348208_727772747755055_7666761775798288384_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=pMCm0hvnRAwAX_BjDg5&oh=920bedb788a6754b7047d7751d80d48a&oe=5EB29CD9"
+    id: ck6uid9eeeemp0j71kkr51jok
     verified: false
     hashtags: "#golf, #golfstagram, #pinggolf, #volvik"
   - username: "a_yeonkim"
@@ -101,7 +101,7 @@ profiles:
     followers: 8057
     engagement: 509
     commentsToLikes: 0.020579
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/66675655_377710289600570_1930954963421233152_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=19Vu1bLes2cAX8DsxbH&oh=2b692ae636c507ec699871cb642fc543&oe=5EBD907C"
+    id: ck6uid8wdeekj0j715v0amsyb
     verified: false
     hashtags: "#golffashion, #youtube, #yellow, #klga"
 ---

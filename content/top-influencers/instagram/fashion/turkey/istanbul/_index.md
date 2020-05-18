@@ -1,7 +1,7 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Istanbul In 2020
 description: >-
-  Find top fashion Instagram influencers in Istanbul in 2020. Most popular hashtags: #istanbul #fashion #turkey #instagram.
+  Find top fashion Instagram influencers in Istanbul in 2020. Most popular hashtags: #istanbul #fashion #photography #turkey.
 platform: Instagram
 profiles:
   - username: "najmmohammadi"
@@ -11,7 +11,7 @@ profiles:
     followers: 9811
     engagement: 1571
     commentsToLikes: 0.055070
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/83500270_230663167954082_6709229143919165440_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=cqfRhNmQ4qwAX9gprgg&oh=421903f5a84c052cc99f8b8bb0ba886f&oe=5EBA2BE7"
+    id: ck5c8dp0m99fe0i11etkdgpg0
     verified: false
     hashtags: "#frenchbulldog, #lifecoach, #fashiontv, #fashionista"
   - username: "kambizakhbari"
@@ -21,7 +21,7 @@ profiles:
     followers: 65267
     engagement: 444
     commentsToLikes: 0.040203
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/79278093_583574262431267_3340435871303204864_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=CDNtcw-9x34AX9fwbZI&oh=ea1cfdd58c1987406c437f8e375b499c&oe=5EBB8134"
+    id: ck5hj3gf4fxnd0i11acvcmce4
     verified: false
     hashtags: "#artworks, #fashion, #istanbul, #style"
   - username: "mihriban.demirr"
@@ -31,7 +31,7 @@ profiles:
     followers: 2163
     engagement: 2424
     commentsToLikes: 0.033373
-    avatar: "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s320x320/44607846_706007733131605_6548861224069627904_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=pngpoJsYoBwAX9GQYbV&oh=0a914ecb70c41bba8017cc5d33ea6a37&oe=5EB444C4"
+    id: ck8tc8xz8ypid0j78byc5tqa1
     verified: false
     hashtags: "#turkey, #sunny, #blackandwhite, #actress"
   - username: "gelindamatdergisi"
@@ -41,7 +41,7 @@ profiles:
     followers: 34403
     engagement: 273
     commentsToLikes: 0.001976
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/71072489_2416329498693215_8695844998005915648_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=Dggd9mRYWI0AX_IqtTt&oh=0c5d0b77a319fa9265580971daffeac9&oe=5EB561D2"
+    id: ck5q9xpbhdj9b0i115adijzhl
     verified: false
     hashtags: "#damatlik, #51modaci, #prensesindusleri, #gelinlik"
   - username: "pehlivan.mesut"
@@ -51,7 +51,7 @@ profiles:
     followers: 5014
     engagement: 1180
     commentsToLikes: 0.011081
-    avatar: "https://instagram.fpkr1-1.fna.fbcdn.net/v/t51.2885-19/s320x320/62158696_856191064762096_5813462569867804672_n.jpg?_nc_ht=instagram.fpkr1-1.fna.fbcdn.net&_nc_ohc=2azdivUvMUsAX-3G-fS&oh=f0167d5ff5ce972e3d551f2808256728&oe=5EA5F4FC"
+    id: ck8ta1cytq3cp0j78uwa7nq0a
     verified: false
     hashtags: "#ispanya, #instagood, #ingiltere, #russia"
   - username: "gezgin_kareler"
@@ -61,7 +61,7 @@ profiles:
     followers: 4824
     engagement: 1483
     commentsToLikes: 0.066708
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/69425725_2247422668717925_5471532140304793600_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=rrrR5VNtlXgAX_4ivJb&oh=604f170e71c347e9356bd6b4a823fde9&oe=5EB635E9"
+    id: ck15s45vqb4rt0i194pnbcc11
     verified: false
     hashtags: "#bestoftheday, #fashion, #istanbul, #whansnotags"
   - username: "p_i__x__e_l"
@@ -71,7 +71,7 @@ profiles:
     followers: 49805
     engagement: 398
     commentsToLikes: 0.246318
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/92177804_776083259592621_7084952311742595072_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=B5MGaDHQf3wAX9rBqd9&oh=b6b1109d1e45296b40afee1b02391342&oe=5EBA1054"
+    id: ck5qcr1xerxfk0i11bi2zcetv
     verified: false
     hashtags: "#acervofotografico, #brportraits, #samyang, #portraitphotography"
   - username: "dunyayigezenkiz"
@@ -81,7 +81,7 @@ profiles:
     followers: 10298
     engagement: 663
     commentsToLikes: 0.228603
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/52491532_1199733960187025_2309140762412974080_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=ZilO3A6KOhoAX_rQdKl&oh=ac543ffbec3a45492fd174b3ea962498&oe=5EB8D993"
+    id: ck0w5c75o2xop0i19ty31txma
     verified: false
     hashtags: "#beautifuldestinations, #trendyol, #discoveryplanet, #evdekal"
   - username: "kubrakiliiccc"
@@ -91,7 +91,7 @@ profiles:
     followers: 6977
     engagement: 1022
     commentsToLikes: 0.061091
-    avatar: "https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-19/s320x320/89264839_270544890610040_5224634373336203264_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_ohc=kDxL27cB2_cAX9AhzIf&oh=9685b9c8277bef073b8ccba66aaa09cd&oe=5E9DA05B"
+    id: ck8t35pum1z7g0j784bnm91ir
     verified: false
     hashtags: "#tbt, #uhneysj, #taksim, #tiyatroiyidir"
   - username: "yasminn__simsek"
@@ -101,7 +101,7 @@ profiles:
     followers: 27415
     engagement: 321
     commentsToLikes: 0.053526
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/81172002_225967781733749_8684144394695081984_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=qzjQNmbflwsAX-4ABTj&oh=23bcdb3a0d328c68004f2fe7c7438100&oe=5EB2FB3F"
+    id: ck0txr893k8gv0i19m05wkxk7
     verified: false
     hashtags: "#bahargelsnartk, #wordpressper, #streetstyle, #dedication"
 ---

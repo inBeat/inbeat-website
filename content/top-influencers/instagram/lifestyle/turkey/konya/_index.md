@@ -1,7 +1,7 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Konya In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Konya in 2020. Most popular hashtags: #evdekal #travel #travelblogger #konya.
+  Find top lifestyle Instagram influencers in Konya in 2020. Most popular hashtags: #evdekal #travel #konya #travelblogger.
 platform: Instagram
 profiles:
   - username: "paylastikcaguzel_"
@@ -11,7 +11,7 @@ profiles:
     followers: 48501
     engagement: 215
     commentsToLikes: 0.080309
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/69235718_2479914785431343_116811187621986304_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=bNcntkoOcUsAX8rnzWi&oh=d1b1d8ac9943f9317ce48b98036b405e&oe=5EBBE86D"
+    id: ck14i28nxda050i19ylg2zy3c
     verified: false
     hashtags: "#stayinside, #tealove, #teaoftheday, #kartoffelsalat"
   - username: "pembedunyammm"
@@ -21,7 +21,7 @@ profiles:
     followers: 28410
     engagement: 113
     commentsToLikes: 0.106780
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/81914455_2590566137834765_2677066442880319488_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=u1eIS6fWRCgAX8o71a9&oh=b819c5efdfc4169c02005d44a2f7586d&oe=5EBD1B37"
+    id: ck5c9v3qfc6cg0i11rul1fj44
     verified: false
     hashtags: "#makyajblogger, #mart, #evdekalt, #avonparf"
   - username: "bifeyza"
@@ -31,7 +31,7 @@ profiles:
     followers: 93134
     engagement: 82
     commentsToLikes: 0.012040
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/93254872_1570354086450374_8265641132105400320_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=5l8FQx0tTT4AX-yTMTy&oh=95fcf7f158ff9f85db2cb863a17a5a18&oe=5EB97266"
+    id: ck6tmbt927jx30j71dza2nkql
     verified: false
     hashtags: "#minimalizm, #cekili, #homeoffice, #saat"
   - username: "gezipduruzzz"
@@ -41,7 +41,7 @@ profiles:
     followers: 8414
     engagement: 2073
     commentsToLikes: 0.015087
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/61590094_459701051507831_3450567332512923648_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=fo9hBLba9csAX_F5HFU&oh=a0cafc049b3f6dae52138a26fe1a12f3&oe=5EB898A0"
+    id: ck0tv1ff39ipz0i19bvqpezsl
     verified: false
     hashtags: "#ulabelediyesi, #istanbul, #bafag, #bisiklet"
   - username: "tekbasinadaolur"
@@ -51,7 +51,7 @@ profiles:
     followers: 63009
     engagement: 519
     commentsToLikes: 0.127733
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/14272052_1767834753494575_781882423_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=vazaeCVnIDIAX_8IaNA&oh=ba0c02e713549e9e0c521eb512a55acc&oe=5EBAB95F"
+    id: ck0w5jsvb3zjq0i19iggs1ok9
     verified: false
     hashtags: "#camprail, #ulubeykanyonu, #mountainlife, #corona"
   - username: "pelinburcin"
@@ -61,7 +61,7 @@ profiles:
     followers: 10064
     engagement: 1490
     commentsToLikes: 0.123092
-    avatar: "https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-19/s320x320/82333679_616747592456223_636879891207290880_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_ohc=-05x17Y1KAAAX-J65Ks&oh=1f6c6c34ebdc9565d9ed9c67fa811d86&oe=5EA3D7EF"
+    id: ck8t93qizmuvv0j78i1orvfgh
     verified: false
     hashtags: "#roamersclublife, #wellness, #provence, #shetravels"
   - username: "yesene_catering"
@@ -71,7 +71,7 @@ profiles:
     followers: 3597
     engagement: 967
     commentsToLikes: 0.288170
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/71711140_2577547958977334_1698816967529463808_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=ulfcrWcv4aIAX-puoNv&oh=9d08984f21568483fba8e3566d41ba21&oe=5EBA9682"
+    id: ck5q4ijthp56n0i114o1hsbcv
     verified: false
     hashtags: "#drinks, #tasty, #artin, #sunum"
   - username: "onewaythreetickets"
@@ -81,7 +81,7 @@ profiles:
     followers: 6177
     engagement: 1583
     commentsToLikes: 0.102114
-    avatar: "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/s320x320/69378720_471846060080501_1501099621231886336_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_ohc=ohiewYhw65kAX9OfhfT&oh=1d08fd3296a68dd0b4ef4d4c5acc1cb3&oe=5EA38800"
+    id: ck8t941jcmw040j78xqjh4bm7
     verified: false
     hashtags: "#onewayitaly, #omewayfrance, #kap, #schengencountry"
   - username: "simlipullu"
@@ -91,7 +91,7 @@ profiles:
     followers: 5120
     engagement: 2198
     commentsToLikes: 0.131060
-    avatar: "https://instagram.fhrk3-1.fna.fbcdn.net/v/t51.2885-19/s320x320/83934911_804170870073576_1547752539548549120_n.jpg?_nc_ht=instagram.fhrk3-1.fna.fbcdn.net&_nc_ohc=f_j8K8ky79wAX_C5UVa&oh=9af19e01e38eb220ebafc5cddec51af0&oe=5E9C40B6"
+    id: ck8t3cgo62qsy0j78b6gwj87u
     verified: false
     hashtags: "#geziyorum, #pazarkeyfi, #traveling, #stayhome"
   - username: "pilotasoglu"
@@ -101,7 +101,7 @@ profiles:
     followers: 47847
     engagement: 1253
     commentsToLikes: 0.068879
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/91495084_2534369576879027_704137528579457024_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=kbWUGlm909oAX9xhOyS&oh=f0757f927d9de12a9c93c07e95454f3f&oe=5EBB2F5C"
+    id: ck5hh6x0e6oze0i11qh60msgv
     verified: false
     hashtags: "#insta360go"
 ---

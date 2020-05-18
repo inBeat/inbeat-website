@@ -1,7 +1,7 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Seattle In 2020
 description: >-
-  Find top nutrition Instagram influencers in Seattle in 2020. Most popular hashtags: #seattle #fitness #love #nutrition.
+  Find top nutrition Instagram influencers in Seattle in 2020. Most popular hashtags: #seattle #love #fitness #nutrition.
 platform: Instagram
 profiles:
   - username: "thelittleblondeyogi"
@@ -11,7 +11,7 @@ profiles:
     followers: 8816
     engagement: 425
     commentsToLikes: 0.180767
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/56610518_275052690041093_1030971126622191616_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=ctlJ5EpX7P0AX_nx6zx&oh=29481fbc21b528f4082faf496a9fd119&oe=5EB919E3"
+    id: ck5q4y7vqqofm0i115ej9iqmi
     verified: false
     hashtags: "#wherethewildthingsare, #yogasurfer, #yogaeveryday, #girlgoesbig"
   - username: "iwillgetlean"
@@ -21,7 +21,7 @@ profiles:
     followers: 126393
     engagement: 235
     commentsToLikes: 0.030999
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/91568541_661847314569417_8653325783848189952_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=CwJww84tN4UAX9yBW9s&oh=a8032ec11a0e13859e2e4540cd570c76&oe=5EB9B640"
+    id: ck1376q5wa2bx0i19o38g40m1
     verified: false
     hashtags: "#selflove, #vlog, #fitspiration, #dumbbellworkout"
   - username: "happy.healthy.hayley"
@@ -31,7 +31,7 @@ profiles:
     followers: 3691
     engagement: 1745
     commentsToLikes: 0.247967
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/50277099_371999486924824_7416642104752865280_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=_lAN8vdj7-4AX9QOUWs&oh=e98ba415aafec5ccda271f4fa2436d25&oe=5EBA591F"
+    id: ck5ce58sokcfy0i118ytqatxw
     verified: false
     hashtags: "#mentalhealthsupport, #condiments, #soups, #instafoods"
   - username: "getupwithhannah"
@@ -41,7 +41,7 @@ profiles:
     followers: 17536
     engagement: 341
     commentsToLikes: 0.126652
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/24838652_197876677440964_1614292883022544896_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=3TEYE_4IGj8AX9Cd2EL&oh=cd641ba272ac13337183d17dd43fee2b&oe=5EAED4D5"
+    id: ck5bzqw3vro9k0i11wstixlkk
     verified: false
     hashtags: "#kettlebellstrength, #onlinepersonaltrainer, #onlinepersonaltraining, #circuittraining"
   - username: "deannaminich"
@@ -51,7 +51,7 @@ profiles:
     followers: 32771
     engagement: 142
     commentsToLikes: 0.063012
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/55928058_2210707895715832_5854201374052450304_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=MF2OWFsTmHkAX_enlr2&oh=74ac49a3faa2ce5a0bc29219ef48ce89&oe=5EB08D6B"
+    id: ck15t4h2mgayg0i19cev665u1
     verified: false
     hashtags: "#ayurvedicmedicine, #relationshiplove, #traditionalmedicine, #ajna"
   - username: "realstephaniebillings"
@@ -61,7 +61,7 @@ profiles:
     followers: 30355
     engagement: 93
     commentsToLikes: 0.080821
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/82218925_456686708540987_7670658363402747904_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=LkIMnpz5PxAAX9HdJAT&oh=01ba560cab4d2c42889cdf62e90cfbed&oe=5EADF24D"
+    id: ck5cj2eeutuan0i11x4mo6l80
     verified: false
     hashtags: "#bossbabe, #wewin, #gotogether, #peachretreat"
   - username: "thepunjabilion"
@@ -71,7 +71,7 @@ profiles:
     followers: 17891
     engagement: 718
     commentsToLikes: 0.024699
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/20393923_327103374367068_8689938202498170880_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=jGSgsfRBSfQAX-4SkCo&oh=3a8221dfbba9a4a0b106e962a3943c34&oe=5EB9402D"
+    id: ck0u0d52rte9o0i199aero61o
     verified: false
     hashtags: "#singh, #team, #tseries, #fitnessmodel"
   - username: "mattsydal"
@@ -81,7 +81,7 @@ profiles:
     followers: 168461
     engagement: 172
     commentsToLikes: 0.014209
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/31920753_2049308575337187_6987975523611705344_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=iCHy9X4LTWwAX_P-yIw&oh=8f7ee2556aa87872de44990a2d5790be&oe=5EBA930E"
+    id: ck0txw3nxkp8z0i19myk5cbey
     verified: true
     hashtags: "#fitness, #love, #njpw, #evolve"
   - username: "jamiejoyce2"
@@ -91,7 +91,7 @@ profiles:
     followers: 117906
     engagement: 139
     commentsToLikes: 0.032430
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/13658695_804138106390122_1710474309_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=T6coFCbBtjcAX_1hKMg&oh=69817739b27e56d8c27dcc0818b4e1ec&oe=5EBB4C62"
+    id: ck5qdnvlqwhn00i11qgqjmtjw
     verified: false
     hashtags: "#supportingyourlocalbusinesses, #bakingchampionshiphereicome, #howmanyminutes, #overit"
   - username: "marv.active"
@@ -101,7 +101,7 @@ profiles:
     followers: 28457
     engagement: 424
     commentsToLikes: 0.034007
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/61118386_744509382613648_1208838302308761600_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Qc4L8ueK6d0AX_2V78c&oh=cadf6240adc29e596102bc6c0aa89e56&oe=5EBBA17C"
+    id: ck0vznl3b9znb0i19y0ko4qsm
     verified: false
     hashtags: "#active, #endurance, #laterallunge, #vibes"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Fashion Instagram Influencers In San Diego In 2020
 description: >-
-  Find top fashion Instagram influencers in San Diego in 2020. Most popular hashtags: #sandiego #ootd #sandiegolife #losangeles.
+  Find top fashion Instagram influencers in San Diego in 2020. Most popular hashtags: #ootd #sandiego #losangeles #socal.
 platform: Instagram
 profiles:
   - username: "marandalunaa"
@@ -11,7 +11,7 @@ profiles:
     followers: 16821
     engagement: 893
     commentsToLikes: 0.031413
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/80853526_180438499730698_7563562533538234368_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=m1ZtrMkd81YAX-b_BP-&oh=2b4a3a682b492f7810f4666a97b2872f&oe=5EBB812F"
+    id: ck5zkz9s3kfny0i14dv8rksjo
     verified: false
     hashtags: "#portrait, #muse, #unicornhair, #myprotein"
   - username: "polsantos"
@@ -21,7 +21,7 @@ profiles:
     followers: 2251
     engagement: 1231
     commentsToLikes: 0.059747
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/60499033_302320707347052_9186168948532445184_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=z_ME8QSIKEUAX8v-SXO&oh=75fb119b6e84a5f6a1ffa63feb80d71d&oe=5EB231F2"
+    id: ck5q88qpz4zin0i11xcp89v14
     verified: false
     hashtags: "#hike, #sandiegomusic, #puuohulu, #elevation"
   - username: "whytrbbt"
@@ -31,7 +31,7 @@ profiles:
     followers: 19809
     engagement: 391
     commentsToLikes: 0.089724
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/61617225_2452363778116777_8805135551863717888_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=qrSZGwWfkysAX-Jh9Xv&oh=1190ac841ed4bb8794a11b6aa14572ab&oe=5EB779E7"
+    id: ck0w3rtmvuy720i1919184ywq
     verified: false
     hashtags: "#womensempowerment, #independentartists, #darkfashion, #sacredfeminine"
   - username: "sandiego.city"
@@ -41,7 +41,7 @@ profiles:
     followers: 133316
     engagement: 215
     commentsToLikes: 0.017232
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/59737176_2192406697495773_2341325224399601664_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=s1_rZGMgUwAAX_mHSEZ&oh=a5cfe1e772a98235130b203ef9153f8a&oe=5EAF76D6"
+    id: ck5pvukg1jpio0i11o1rgzzx5
     verified: false
     hashtags: "#seniorportraits, #oceanside, #carlsbad, #artofvisuals"
   - username: "jasmin_soroush"
@@ -51,7 +51,7 @@ profiles:
     followers: 22003
     engagement: 176
     commentsToLikes: 0.079108
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/84354334_534630640592556_2017080331995185152_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=6eKiPWGhIAoAX9D6CCR&oh=e58b0c116530434fd9558bd19e726f83&oe=5EB9207E"
+    id: ck0w0n60kf1wk0i198t4hkf2h
     verified: false
     hashtags: "#meandotherstories, #revolveme, #liketkit, #vicidolls"
   - username: "officialmattkirk"
@@ -61,7 +61,7 @@ profiles:
     followers: 7481
     engagement: 576
     commentsToLikes: 0.087220
-    avatar: "https://scontent-hkt1-1.cdninstagram.com/v/t51.2885-19/s320x320/89059760_624302124797151_7337551196825059328_n.jpg?_nc_ht=scontent-hkt1-1.cdninstagram.com&_nc_ohc=yOg4dKRnER4AX902rG3&oh=e70479770eda1992be40e7746854027e&oe=5E9EDCC3"
+    id: ck8t5hg91a6740j781ss379oz
     verified: false
     hashtags: "#viralvideo, #smile, #weekend, #sunmertime"
   - username: "slimshayedy"
@@ -71,7 +71,7 @@ profiles:
     followers: 15921
     engagement: 528
     commentsToLikes: 0.053020
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/65463504_369290983775257_6333623490695921664_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=smULWcpdr80AX9oNPRq&oh=69de33db261f13910e37b02c416669ae&oe=5EBBABAD"
+    id: ck0u9burd9iyu0i19wogbwlxa
     verified: false
     hashtags: ""
   - username: "thestylishbisou"
@@ -81,7 +81,7 @@ profiles:
     followers: 31772
     engagement: 147
     commentsToLikes: 0.051921
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/81397837_848665148898434_179538205727522816_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=z-SDNs_iqsoAX-WH7IM&oh=116e6164fc201876053bf9d131004e9e&oe=5EBAB819"
+    id: ck6u5lv72adrd0j71so3rmgme
     verified: false
     hashtags: "#sheletme, #pugprom, #alwayshungry, #selfcare"
   - username: "kotineru"
@@ -91,7 +91,7 @@ profiles:
     followers: 40685
     engagement: 167
     commentsToLikes: 0.074999
-    avatar: "https://scontent-atl3-1.cdninstagram.com/vp/08dee73d890a7c0d75937f1ca4338d78/5E3723F3/t51.2885-19/s320x320/45823859_202169413994881_5172840233137340416_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com"
+    id: ck8t456045jlr0j78rlejdhe7
     verified: false
     hashtags: "#comfystyle, #ootd, #ltkshoecrush, #socialdistancing"
   - username: "simplytandya"
@@ -101,7 +101,7 @@ profiles:
     followers: 80440
     engagement: 159
     commentsToLikes: 0.030625
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/72786480_424516301595326_4364818573927907328_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=ZXGThIRCfSYAX94zbcs&oh=92d8e9d937303db85cee10e4edf4642a&oe=5EB31931"
+    id: ck5c84rso8rqb0i11s255ood2
     verified: false
     hashtags: "#nudelife, #theparisguru, #youtuber, #ss20"
 ---

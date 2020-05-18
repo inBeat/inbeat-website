@@ -1,7 +1,7 @@
 ---
 title: Top 10 Boxers Instagram Influencers In Italy In 2020
 description: >-
-  Find top boxers Instagram influencers in Italy in 2020. Most popular hashtags: #love #boxing #iorestoacasa #boxer.
+  Find top boxers Instagram influencers in Italy in 2020. Most popular hashtags: #boxing #love #iorestoacasa #boxer.
 platform: Instagram
 profiles:
   - username: "guidovianello"
@@ -11,7 +11,7 @@ profiles:
     followers: 39122
     engagement: 664
     commentsToLikes: 0.024738
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/69511185_523705721735547_4766142263686332416_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=-UdCBMne8lQAX-mvPyb&oh=be947198bfd5501828f2a3f074e708ca&oe=5EBA4C9B"
+    id: ck1379hhdafun0i19vlc1qbv2
     verified: true
     hashtags: "#nextmatch, #6ko, #boxing, #life"
   - username: "aresfavati"
@@ -21,7 +21,7 @@ profiles:
     followers: 20502
     engagement: 210
     commentsToLikes: 0.018956
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/67715495_355148005405225_4738325886518951936_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=ZGybbhX06iYAX90nZhj&oh=acecdc8c2a92e09fa517189bc793c47b&oe=5EABEA34"
+    id: ck6u1h9vhlpyr0j715xf96qgt
     verified: false
     hashtags: "#forza"
   - username: "paterafrancesco23"
@@ -31,7 +31,7 @@ profiles:
     followers: 2149
     engagement: 1509
     commentsToLikes: 0.051672
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/89948986_1041440452924039_3172402611651346432_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=o_QwN32qw4cAX_0ASLr&oh=637c2caa1f9208c32dc01bf24a78b5a5&oe=5EBCB520"
+    id: ck5hq93txspwc0i11mvyl44kk
     verified: false
     hashtags: "#andstill, #blessed, #andthenew, #wba"
   - username: "ldgentleman"
@@ -41,7 +41,7 @@ profiles:
     followers: 7048
     engagement: 673
     commentsToLikes: 0.017651
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/74600063_663700024157312_2198734161303306240_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=jLop-t3pb5UAX8tUFEH&oh=19de1f6cbe59b40ed361eab5f6f611d8&oe=5EB7D110"
+    id: ck6u3ldxbygch0j715hibits9
     verified: false
     hashtags: "#ufcfightnight, #picsart, #gervontadavis, #lovesport"
   - username: "griffonismylove"
@@ -51,7 +51,7 @@ profiles:
     followers: 2926
     engagement: 1264
     commentsToLikes: 0.049705
-    avatar: "https://instagram.fpen1-1.fna.fbcdn.net/v/t51.2885-19/s320x320/84246354_487615945462770_4544889566053531648_n.jpg?_nc_ht=instagram.fpen1-1.fna.fbcdn.net&_nc_ohc=Evdgm74Om7oAX_STepe&oh=eadd0eb5b31570e7b487cc988ca0d8ee&oe=5EAFEBE9"
+    id: ck8t6uxg6es0p0j78jxemf3bu
     verified: false
     hashtags: "#griffongram, #griffonlove, #stayhealthy, #beardeddogsofinstagram"
   - username: "giorgiopetrosyan"
@@ -61,7 +61,7 @@ profiles:
     followers: 215493
     engagement: 407
     commentsToLikes: 0.009782
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/72482968_2563480057206698_3015111928495210496_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=JMUMqiAEx1MAX90X0aI&oh=ed0b176b74aad52b47dd67e2aec8d8d9&oe=5EB96F40"
+    id: ck0ubxn0ofimh0i195cp6x9iv
     verified: true
     hashtags: "#yamamotonutrition, #milano, #iorestoacasa, #miallenoacasa"
   - username: "andreapreti88"
@@ -71,7 +71,7 @@ profiles:
     followers: 143003
     engagement: 733
     commentsToLikes: 0.003677
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/74800928_719112975261260_6904571858633359360_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=SrLbnkRETSYAX8H6AIh&oh=8c209ec0341e7cdccd0dea0aad8a09cc&oe=5EBCED61"
+    id: ck0vvy5fsrasn0i19mafpincr
     verified: true
     hashtags: "#relax, #violenzasulledonne, #detectivepercaso, #workout"
   - username: "erikakirpu"
@@ -81,7 +81,7 @@ profiles:
     followers: 9425
     engagement: 999
     commentsToLikes: 0.019270
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/74959888_767859463687190_7656470531645898752_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=9KHjKMrmRaEAX_26LGE&oh=dd2ad70299df7acbe8bd12f4d2d8210b&oe=5EBC7EAC"
+    id: ck5zx2yfa78uk0i14p892d7uo
     verified: false
     hashtags: "#fencer, #havana, #fechten, #estonia"
   - username: "willjchalker"
@@ -91,7 +91,7 @@ profiles:
     followers: 15970
     engagement: 703
     commentsToLikes: 0.027534
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/80450466_475760013134313_8996287581087858688_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=BTRuFJFDcA0AX_tVeuF&oh=6d7926e8455ad94d99c7b8365f614ecd&oe=5EB8BD4C"
+    id: ck15tnetwiy500i19x0vxt6ad
     verified: false
     hashtags: "#ardeche, #wrappedup, #magazine, #thankyou"
   - username: "passionemotori"
@@ -101,7 +101,7 @@ profiles:
     followers: 125288
     engagement: 947
     commentsToLikes: 0.005467
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/84334248_590501911543107_6308997995056594944_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=_OVsEhaUg50AX86zTE_&oh=d6efde8cd7e0ee5f80e582f8b66ac39a&oe=5EBA31FD"
+    id: ck5q5zssdvanp0i11wnd21vqg
     verified: false
     hashtags: "#supra, #vtec, #rocketbunny, #renaultsport"
 ---

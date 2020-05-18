@@ -1,7 +1,7 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Peru In 2020
 description: >-
-  Find top cooking Instagram influencers in Peru in 2020. Most popular hashtags: #peru #yomequedoencasa #quedateencasa #love.
+  Find top cooking Instagram influencers in Peru in 2020. Most popular hashtags: #yomequedoencasa #peru #quedateencasa #cuarentena.
 platform: Instagram
 profiles:
   - username: "alonso_martinezvivanco"
@@ -11,7 +11,7 @@ profiles:
     followers: 15899
     engagement: 845
     commentsToLikes: 0.028936
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/90038679_687101175161894_617420004274470912_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=g0y9tarvaCIAX8Gmg2n&oh=fb4047706f01893790c41650e77886ab&oe=5EB77648"
+    id: ck55li2rz1mf90i112qvme7w2
     verified: false
     hashtags: "#prayfortheworld, #heaven, #elegant, #gentleman"
   - username: "the_running_cuy"
@@ -21,7 +21,7 @@ profiles:
     followers: 10607
     engagement: 445
     commentsToLikes: 0.139888
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/14504908_1662376050758663_8747800779298963456_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=441dTydoSjsAX_wU-aS&oh=088c057123b068990243ed95f0c99495&oe=5EB8781A"
+    id: ck5zumgo92n7v0i147ooprfty
     verified: false
     hashtags: "#manuelantonio, #waterfall, #seconsciente, #speedup"
   - username: "giulliana.barrios"
@@ -31,7 +31,7 @@ profiles:
     followers: 91458
     engagement: 416
     commentsToLikes: 0.055624
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/73154782_2389493921266801_5032851142833340416_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=w_ApEUXlJwUAX-qvkWH&oh=692529a1702016c34e59e3d4dfe923b9&oe=5EBB0892"
+    id: ck5zxgmtb7z960i14dqs4q0t8
     verified: true
     hashtags: "#brunella, #mathias, #burnergirls, #siempreregeasnuncainregeas"
   - username: "jamesberckemeyer"
@@ -41,7 +41,7 @@ profiles:
     followers: 27209
     engagement: 215
     commentsToLikes: 0.058001
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/47481701_612552142509800_3250924642570862592_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=ZJ56fDP8p70AX9fkLIJ&oh=418ec704259d5eeddcb4165de2efc495&oe=5EBCA684"
+    id: ck0vwlmixuemm0i19q4pyf21k
     verified: false
     hashtags: "#latinamerica, #cooking, #lechedetigre, #equipoalado"
   - username: "laespatulaverde"
@@ -51,7 +51,7 @@ profiles:
     followers: 77543
     engagement: 155
     commentsToLikes: 0.063013
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/11386436_849377161814092_1883911473_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=LKfzqRw4V18AX_qRRFq&oh=033c2eb963e13a0f910ecaf1c552f056&oe=5EBB32DB"
+    id: ck13cqhvt1o2l0i19xu2swugr
     verified: false
     hashtags: "#reposteriacasera, #torta, #ishopteam, #guisoscaseros"
   - username: "fernandamarsano"
@@ -61,7 +61,7 @@ profiles:
     followers: 25279
     engagement: 253
     commentsToLikes: 0.025392
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/79027335_1298310827037510_730106215111065600_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=UnsbBpDgTmAAX92zvrL&oh=540a34c16b56ab140b548dd99c8c262e&oe=5EB2BAED"
+    id: ck6ucvulyhr0m0j7186ra4e96
     verified: false
     hashtags: "#outfits, #peruviangirl, #mujer, #water"
   - username: "papisporprimeravez"
@@ -71,7 +71,7 @@ profiles:
     followers: 33035
     engagement: 62
     commentsToLikes: 0.181654
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/70794635_2395839353991474_6361249755430912000_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=lPx4U9XNuiEAX8knUo5&oh=9bcd74c1db59ad07271f6d206eff091d&oe=5EB9D127"
+    id: ck136ua0v8ane0i19lcnqr1yl
     verified: false
     hashtags: "#educaci, #pucallpa, #yomequedoencasa, #visitperu"
   - username: "gianna.velarde"
@@ -81,7 +81,7 @@ profiles:
     followers: 42346
     engagement: 398
     commentsToLikes: 0.025395
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/73315281_681100252379789_7404013599527534592_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=UxEUS_ZBXh0AX92H2R9&oh=cba8553869c621f5eded11dd8bebf65e&oe=5EBB1C29"
+    id: ck0uelbu7ll3k0i19xosxoq4v
     verified: false
     hashtags: "#giannathewolf, #bioderma, #peronocomproporlashuevas, #yoentrenoencasa"
 ---

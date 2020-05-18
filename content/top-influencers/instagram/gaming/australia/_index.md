@@ -1,7 +1,7 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Australia In 2020
 description: >-
-  Find top gaming Instagram influencers in Australia in 2020. Most popular hashtags: #gaming #gamer #gamingcommunity #pokemon.
+  Find top gaming Instagram influencers in Australia in 2020. Most popular hashtags: #gaming #gamer #pokemon #gamingcommunity.
 platform: Instagram
 profiles:
   - username: "sammyfosgaming"
@@ -11,7 +11,7 @@ profiles:
     followers: 2355
     engagement: 3064
     commentsToLikes: 0.117046
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/54731704_1127037850799187_3517567138703343616_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=zvzOMTyOJagAX-tfX_1&oh=487f76a35feb7d0618dfbca1ece57e1a&oe=5E9EC5C9"
+    id: ck8t46gub5o270j78zp7r42um
     verified: false
     hashtags: "#nintendogirl, #playstation4, #selfisolation, #australiaisolation"
   - username: "zoetwodots"
@@ -21,7 +21,7 @@ profiles:
     followers: 34145
     engagement: 904
     commentsToLikes: 0.017539
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/42398698_326204137943739_5179454980989386752_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=gfvhFcOgrUoAX_jSrTH&oh=d25385df0d60b0190fa5eb6a7358b230&oe=5EB9C6DC"
+    id: ck0u0y1zxv9kv0i19k4j5c58z
     verified: false
     hashtags: "#newyorkcity, #festival, #animalcrossingnewhorizons, #binginbeach"
   - username: "bookswithchloe"
@@ -31,7 +31,7 @@ profiles:
     followers: 28852
     engagement: 1267
     commentsToLikes: 0.015479
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/80811360_179563023441852_5320036312923766784_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=oXtlzS7-49UAX9H8bnA&oh=dda001d7efa1f00cd18ba5f3b8c66dec&oe=5EBA13E5"
+    id: ck0u23bv9yt5h0i19m0n3zrb5
     verified: false
     hashtags: "#animalcrossing, #shelfie, #gifted, #giftoriginal"
   - username: "2busygamers"
@@ -41,7 +41,7 @@ profiles:
     followers: 6645
     engagement: 518
     commentsToLikes: 0.087161
-    avatar: "https://scontent-lhr3-1.cdninstagram.com/vp/0c86bb524eca89315e8147c39794dafc/5E1A80F3/t51.2885-19/s320x320/13731205_420167991486735_1833900771_a.jpg?_nc_ht=scontent-lhr3-1.cdninstagram.com"
+    id: ck8tctwzw0nzb0j78qrqwm5w3
     verified: false
     hashtags: "#gamingposts, #residentevil, #gamecollector, #persona"
   - username: "cassiedakota"
@@ -51,7 +51,7 @@ profiles:
     followers: 15623
     engagement: 612
     commentsToLikes: 0.059813
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/85191252_3490790084328977_4541082567171899392_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=A9TEds5xKVMAX-FwFQX&oh=cd374a506228c32cf49dfa962e302c98&oe=5EB93F2E"
+    id: ck0tuax826du40i19ys29g0d7
     verified: false
     hashtags: "#nanoleafandchill, #nailsxcontrol, #gifted, #oscarwylee"
   - username: "super_nindando"
@@ -61,7 +61,7 @@ profiles:
     followers: 1063
     engagement: 2090
     commentsToLikes: 0.013525
-    avatar: "https://scontent-lax3-1.cdninstagram.com/vp/58097e4dba1da0d2e5bafbfd7970fbae/5DD5F21B/t51.2885-19/s320x320/44210035_438649156665331_5006717709946191872_n.jpg?_nc_ht=scontent-lax3-1.cdninstagram.com"
+    id: ck8t43daj5d5z0j78t6wmkbsx
     verified: false
     hashtags: "#pokemonswordshield, #nintendolife, #isolation, #aussiegamer"
   - username: "misscandiceelizabeth_"
@@ -71,7 +71,7 @@ profiles:
     followers: 24926
     engagement: 506
     commentsToLikes: 0.086256
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/49858723_337898533727433_216762137526140928_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=o0ZBYKZXACYAX9sxaOD&oh=6b1a3160d94d700f4bc044dc5aa393bc&oe=5EB824DE"
+    id: ck0vyuaib5t1n0i19plrklfwn
     verified: false
     hashtags: "#lesmills, #princessmera, #ruivas, #mera"
   - username: "lauragbert"
@@ -81,7 +81,7 @@ profiles:
     followers: 91403
     engagement: 535
     commentsToLikes: 0.012530
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/67881385_3039920259383158_5953748219073658880_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=q8t7onLrCFcAX_twCwx&oh=366678eb07361ba6ee465db02a827bf7&oe=5EBC6D86"
+    id: ck6tohu7ee6700j71dimkha62
     verified: true
     hashtags: "#wreckitralph, #lifeadmin, #doggo, #santiagodechile"
   - username: "cwodrex"
@@ -91,7 +91,7 @@ profiles:
     followers: 54312
     engagement: 855
     commentsToLikes: 0.017775
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/91470211_1487607781413042_6436890460295266304_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Le2FleP9THMAX-aGePV&oh=495c45be7810d8b123e9f7138cf62801&oe=5EBCCD1A"
+    id: ck0u9hmb69vn10i19kj6yd9ap
     verified: false
     hashtags: "#games, #fortnitexoverwatch, #skyefortnite, #classy"
   - username: "twanvangendt"
@@ -101,7 +101,7 @@ profiles:
     followers: 33560
     engagement: 772
     commentsToLikes: 0.009242
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/83082608_174873617070961_3467331143919992832_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=3QO96tmr6P8AX-dtDZ1&oh=33756d6f4390fc94bb33ac6ed76f7abf&oe=5EBA1B67"
+    id: ck0tz0r1pooup0i1964fjvcp0
     verified: true
     hashtags: "#pointing, #sweat, #weightlifting, #takeonefortheteam"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Chile In 2020
 description: >-
-  Find top stylists Instagram influencers in Chile in 2020. Most popular hashtags: #quedateencasa #fashion #coronavirus #cuarentena.
+  Find top stylists Instagram influencers in Chile in 2020. Most popular hashtags: #quedateencasa #stayhome #fashion #chile.
 platform: Instagram
 profiles:
   - username: "charliecuevas"
@@ -11,7 +11,7 @@ profiles:
     followers: 33181
     engagement: 162
     commentsToLikes: 0.076946
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/11848839_674209762710390_1157342997_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=FBYCsk3dBF4AX9vKTla&oh=4a5819843d4d8d38776fed90e23c6627&oe=5EB988E2"
+    id: ck55p6i549wzp0i11ciqpp4he
     verified: false
     hashtags: "#performance, #hairdresser, #lamejorcompa, #virus"
   - username: "wainreddo.ph"
@@ -21,7 +21,7 @@ profiles:
     followers: 15270
     engagement: 723
     commentsToLikes: 0.009005
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/61572750_2335805473304959_4663075521167360000_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=1xAGuTdOL4AAX98jtYy&oh=a1d1b2d07eea5872ba1c6e1b904a3953&oe=5EBA56B1"
+    id: ck5ho8719p40c0i11gsscs040
     verified: false
     hashtags: "#lipsphotography, #shower, #porcelainskin, #goldmakeup"
   - username: "consultoradeimagen"
@@ -31,7 +31,7 @@ profiles:
     followers: 41914
     engagement: 144
     commentsToLikes: 0.204980
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/80383760_1080544265611412_2022898105715785728_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=JpWyY6whknkAX8wZMG3&oh=7c71da63daf249d2e28a6046eebb8f53&oe=5EB028C2"
+    id: ck6u5bqap8pid0j71653siqbh
     verified: false
     hashtags: "#summer, #styletips, #8m2020, #instagramvsreallife"
   - username: "powertefi"
@@ -41,7 +41,7 @@ profiles:
     followers: 32840
     engagement: 374
     commentsToLikes: 0.066076
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/93232664_596543101070606_1431924448465780736_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=LybvJRqgj5IAX-WmpLX&oh=e90720fcad3c74c9ede1b588ea29a14f&oe=5EB908E6"
+    id: ck5c6q83o5yt30i11ep1s67rj
     verified: false
     hashtags: "#ricoysaludable, #comidafacil, #grungeaesthetic, #nauticalstyle"
   - username: "javicorreamedina"
@@ -51,7 +51,7 @@ profiles:
     followers: 17985
     engagement: 332
     commentsToLikes: 0.067051
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/85176283_191434232212166_2485265319543701504_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=OLOPw1w-qYMAX9cNHfP&oh=e7f2c599fc8fb672d8024db5d5428ed9&oe=5EB9BB0F"
+    id: ck6u9mkx1ye4q0j71efs2htzd
     verified: false
     hashtags: "#hmxjohannaortiz, #dog, #asesoriadeimagen, #cuarentena"
   - username: "rodlabstudio"
@@ -61,7 +61,7 @@ profiles:
     followers: 20760
     engagement: 125
     commentsToLikes: 0.037081
-    avatar: "https://scontent-ort2-1.cdninstagram.com/v/t51.2885-19/s320x320/87340495_1763735163763176_8506241068268781568_n.jpg?_nc_ht=scontent-ort2-1.cdninstagram.com&_nc_ohc=FdxOZj49E2IAX8BRtDw&oh=1a2d601bb328f6c55fe3108845bd3aa1&oe=5EB42EC9"
+    id: ck0vyw4ub62q30i19m4iblxj9
     verified: false
     hashtags: "#stayhome, #shoplocal, #ss20, #cosmos"
   - username: "mariacarrasco"
@@ -71,7 +71,7 @@ profiles:
     followers: 40191
     engagement: 104
     commentsToLikes: 0.042997
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/78838327_628977654309042_3143434736572039168_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=zUu-vrd8ZA0AX9BnKwE&oh=9baac33e48b85f686ea1a07150339c82&oe=5EB61C53"
+    id: ck5bx7xogn6ic0i119vm0v6yd
     verified: false
     hashtags: "#fitzroy, #yarravalley, #momlife, #globalvictoria"
   - username: "camiverdugo"
@@ -81,7 +81,7 @@ profiles:
     followers: 16388
     engagement: 893
     commentsToLikes: 0.016879
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/90895179_561636571127571_2868768726134554624_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=TyhUgKpbq-MAX8D-I1d&oh=1d35e159e38497aa6febf73f6fbebfb1&oe=5EB98E85"
+    id: ck5q5jx7jt8nx0i11amep8d5v
     verified: false
     hashtags: "#dollypartonchallenge, #pandoravalentines, #nyxcosmeticschile, #8m"
 ---

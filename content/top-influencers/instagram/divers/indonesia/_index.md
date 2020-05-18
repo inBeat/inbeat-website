@@ -1,7 +1,7 @@
 ---
 title: Top 10 Divers Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top divers Instagram influencers in Indonesia in 2020. Most popular hashtags: #diving #dirumahaja #underwaterphotography #slankingforever.
+  Find top divers Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #diving #slankingforever #underwaterphotography.
 platform: Instagram
 profiles:
   - username: "jovankalexndra"
@@ -11,7 +11,7 @@ profiles:
     followers: 39833
     engagement: 786
     commentsToLikes: 0.015371
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/79626786_728258881001588_407741633619034112_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=adnNmE6IzWIAX_rBCb7&oh=9fbc3d3fac35774f13ba401a098c3ddf&oe=5EB8D47C"
+    id: ck14i7k21e1920i19ebi6p017
     verified: false
     hashtags: "#exsportxshanetortilla, #campinaicecream, #campinaconcerto, #instaxgives"
   - username: "agus_syach"
@@ -21,7 +21,7 @@ profiles:
     followers: 5669
     engagement: 600
     commentsToLikes: 0.074308
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/72776469_920344738349639_495698011175780352_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=BAgvvCeBmn0AX8iW4dj&oh=527653991e10b9b93e14ed648b28e143&oe=5EB8DDA7"
+    id: ck5ci2sbcrwqy0i11tnxi57dl
     verified: false
     hashtags: "#stayathome, #kecamatanbogortengah, #pajakkitauntukkita, #donasimaskerkain"
   - username: "clarestaufan"
@@ -31,7 +31,7 @@ profiles:
     followers: 81962
     engagement: 646
     commentsToLikes: 0.009581
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/90034773_556853508287354_5056303292062105600_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=dRclrSBzNOIAX_XSM3G&oh=056e9f44d024c8ce6470ba3f811c6607&oe=5EBBF122"
+    id: ck13477xtv1v40i19bl0ij8nt
     verified: false
     hashtags: "#nikeathlete, #clarestakick, #skincare, #playinside"
   - username: "revyandhita"
@@ -41,7 +41,7 @@ profiles:
     followers: 10761
     engagement: 766
     commentsToLikes: 0.016995
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/66646552_2252799431483220_735909093885083648_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=2Syk7en5T3sAX9QyEbq&oh=8cca388756e40632b0dee704481463b1&oe=5EB922E5"
+    id: ck0u1p0usxl1n0i19vn5do5c3
     verified: false
     hashtags: "#hijabtravellers, #hijabtravelers, #dailyhijabstory, #hijabtraveller"
   - username: "yotiefish"
@@ -51,7 +51,7 @@ profiles:
     followers: 13116
     engagement: 978
     commentsToLikes: 0.018387
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/75214682_460866361234552_5877476574923587584_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=WOBp4XgU28AAX816wSv&oh=aced32656a4515ace61cc04252793e04&oe=5EB96DE5"
+    id: ck6tmfu5t7rs60j717dihzwmu
     verified: false
     hashtags: "#freediving, #girlsthatfreedive, #oceanerwetsuits, #oceaner"
   - username: "claraalverin"
@@ -61,7 +61,7 @@ profiles:
     followers: 20883
     engagement: 268
     commentsToLikes: 0.024999
-    avatar: "https://scontent-dus1-1.cdninstagram.com/v/t51.2885-19/s320x320/75602199_997248203974942_8023969446982844416_n.jpg?_nc_ht=scontent-dus1-1.cdninstagram.com&_nc_ohc=G8oMqXVYwKcAX_kNyl7&oh=33760b56742a5e204328d63b00f581c0&oe=5E86A1DC"
+    id: ck8sz9etynkna0j78zbduqwyp
     verified: false
     hashtags: "#explorebanda, #wonderfulindonesia, #giveaway, #hippopowerbank"
   - username: "finn.snow"
@@ -71,7 +71,7 @@ profiles:
     followers: 86588
     engagement: 548
     commentsToLikes: 0.022866
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/43597810_328887131244319_7805928972570591232_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=KR21CStQ_poAX-Xo4cG&oh=f5ae6798b2199b60db8b40552964a26b&oe=5EBBE749"
+    id: ck14kxu3qrv4r0i198olzb5pr
     verified: false
     hashtags: "#scubadiving, #earth, #keldan, #conservation"
   - username: "kathrin_underwater"
@@ -81,7 +81,7 @@ profiles:
     followers: 17624
     engagement: 481
     commentsToLikes: 0.039771
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/46577248_269703373746842_2761715433626140672_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=_Rb-ehYtagAAX-Ti_4N&oh=1f2cccf3a03912f4e4e43f58664e5ed4&oe=5EBAB535"
+    id: ck1393i8bjc210i195yvr2s61
     verified: false
     hashtags: "#underwaterphotos, #scubadiver, #shrimp, #divelife"
   - username: "fishgod"
@@ -91,7 +91,7 @@ profiles:
     followers: 446419
     engagement: 346
     commentsToLikes: 0.015527
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/11887104_1045999862107100_1015636168_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=zVVOIhet06QAX8bkYZP&oh=09a94e6e744f16dd613791a104760987&oe=5EBC29B7"
+    id: ck0vwd246t5gy0i19d8l7erm4
     verified: true
     hashtags: "#slankgakadamatinya, #jadwalslank, #pandulaut, #mahakaryafestival2019"
   - username: "iavnt"
@@ -101,7 +101,7 @@ profiles:
     followers: 10384
     engagement: 1054
     commentsToLikes: 0.019606
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/92553152_1904973419638470_5315857077816524800_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=8p5jl9e5DaAAX8p1pin&oh=b4494b5ff53ffc871eaeca9c128ce9c3&oe=5EBA6F23"
+    id: ck0tzyv0fs1yw0i193y0fpb57
     verified: false
     hashtags: "#film, #optoutside, #35mm"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Nigeria in 2020. Most popular hashtags: #beauty #lagos #cosmetics #fashion.
+  Find top cosmetics Instagram influencers in Nigeria in 2020. Most popular hashtags: #beauty #cosmetics #lagos #makeup.
 platform: Instagram
 profiles:
   - username: "kobinadapaah"
@@ -11,7 +11,7 @@ profiles:
     followers: 70860
     engagement: 137
     commentsToLikes: 0.063541
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/90676306_2874950655928681_4637400666233372672_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=bAxAA-ryaqcAX_hz8AD&oh=3fb58334db292a7a341b300b58c24754&oe=5EB10117"
+    id: ck5c0t57rtsrd0i11lnvkerww
     verified: false
     hashtags: "#nigeria, #lagos, #health, #food"
   - username: "lash_guru555"
@@ -21,7 +21,7 @@ profiles:
     followers: 37373
     engagement: 20
     commentsToLikes: 0.055845
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/87296574_154546905552576_5348051121875189760_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=572KpeX-kZgAX-kfd8x&oh=5ac9a8cc1ce345e774a0949aefc9a8d1&oe=5EB1CF48"
+    id: ck15s8fjwbr350i19za3lowgt
     verified: false
     hashtags: "#lashguru, #humanhair, #fashion, #longlashes"
   - username: "awele.a"
@@ -31,7 +31,7 @@ profiles:
     followers: 3245
     engagement: 2984
     commentsToLikes: 0.077114
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/88882165_659487788151637_1112642992067313664_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=G7FpwmOOU_IAX8iVa4N&oh=a6850307064aa99d13cdd2e665e28bbb&oe=5EBB3822"
+    id: ck5c9qg9bbx0w0i11f4wnenj9
     verified: false
     hashtags: "#dontrushchallenge, #brushchallange"
   - username: "monldn"
@@ -41,7 +41,7 @@ profiles:
     followers: 146956
     engagement: 902
     commentsToLikes: 0.010689
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/58626675_400960680756836_2017649565485760512_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=wnrAZs5x2ngAX9IJ5dK&oh=0a820262cbb1246b13b6485c126c1ce4&oe=5EBB3168"
+    id: ck0vw8kejsl430i19e9vlunsa
     verified: false
     hashtags: "#clubllondon, #stayhome"
   - username: "abbahmargaret"
@@ -51,7 +51,7 @@ profiles:
     followers: 2133
     engagement: 1593
     commentsToLikes: 0.104204
-    avatar: "https://instagram.fkul13-1.fna.fbcdn.net/v/t51.2885-19/s320x320/74360022_548431065715791_3508363028082982912_n.jpg?_nc_ht=instagram.fkul13-1.fna.fbcdn.net&_nc_ohc=vhxKXnqvCa8AX-P7Mg2&oh=1c7bccb47678c835e2a611469d6645ee&oe=5E9C443D"
+    id: ck8t4vuos81vg0j78ch60133c
     verified: false
     hashtags: "#idomainternationalcarnival, #poise, #gold, #glowup"
   - username: "franxxes"
@@ -61,7 +61,7 @@ profiles:
     followers: 21977
     engagement: 717
     commentsToLikes: 0.045236
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/91032836_2693949964220566_192788480483393536_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=BeQM31UJk_MAX-sCxHe&oh=8caecd63eebcfdf477fba4711a53cec0&oe=5EB97E66"
+    id: ck0tuscrz8ie20i19yrl9u82h
     verified: false
     hashtags: "#socialmediachallenge, #goodmorningpost, #sundaymotivation, #happybirthday"
   - username: "sonialareinaa_official"
@@ -71,7 +71,7 @@ profiles:
     followers: 289917
     engagement: 171
     commentsToLikes: 0.016703
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/71785938_2524259710961580_6425304957812998144_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=cEf_xowM7vEAX9n4PH6&oh=1a3c78cca5334724910c1057050479bb&oe=5EB841A8"
+    id: ck6tilawn0xnm0j71qq3nogpg
     verified: true
     hashtags: "#okkkbooo, #iseeyou, #moneyme, #quarantineselfie"
   - username: "nnennao"
@@ -81,7 +81,7 @@ profiles:
     followers: 40692
     engagement: 204
     commentsToLikes: 0.031526
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/40589232_2033571756934328_3023088387138519040_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=SPfX4ftnLnoAX_S9Dps&oh=38cc142fb186cc9493b0ca006782c7eb&oe=5EB8D9C3"
+    id: ck5hri6t7ux5l0i11ai9ggtcs
     verified: false
     hashtags: "#meettheadetonas, #thatbeautychic, #highlyfavoured, #dettydecember"
   - username: "lhidhiastanley"
@@ -91,7 +91,7 @@ profiles:
     followers: 63367
     engagement: 330
     commentsToLikes: 0.076175
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/90094184_826913474458111_5813910788359847936_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=C1IpHG_qfBgAX-8-7o4&oh=0c863de449547ac59a1682e512eb94ec&oe=5EB979D0"
+    id: ck15ptj6rzjut0i19mt8joqe2
     verified: false
     hashtags: "#underratedmuas, #valentines, #nigerianwedding, #humour"
   - username: "hnangula"
@@ -101,7 +101,7 @@ profiles:
     followers: 59876
     engagement: 73
     commentsToLikes: 0.023240
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/61473610_315781312670588_779855959466967040_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=uMTlMo9yuMkAX8r1f-Y&oh=94c4d86d9ba74360612a401630f2a328&oe=5EA98C23"
+    id: ck5q3jq7tl2cz0i119x2lyjh4
     verified: false
     hashtags: "#hotdrops, #makeupverse, #africanmakeupartist, #bestmakeupinspiration"
 ---

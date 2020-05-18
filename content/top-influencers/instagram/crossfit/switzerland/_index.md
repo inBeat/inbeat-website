@@ -1,7 +1,7 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top crossfit Instagram influencers in Switzerland in 2020. Most popular hashtags: #crossfit #fitness #lifestyle #motivation.
+  Find top crossfit Instagram influencers in Switzerland in 2020. Most popular hashtags: #crossfit #fitness #fitfam #lifestyle.
 platform: Instagram
 profiles:
   - username: "pamthorburn"
@@ -11,7 +11,7 @@ profiles:
     followers: 6284
     engagement: 727
     commentsToLikes: 0.041946
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/10354321_1421253368144269_1425580332_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=ExFNicm6raUAX_USZ1o&oh=2f13fec7c7521b12e91882092ab99a50&oe=5EBB444E"
+    id: ck5hf6be5w02h0i11fqlrgth2
     verified: false
     hashtags: "#korew, #learningtofly, #ink, #iamasweatybetty"
   - username: "jonnekoski"
@@ -21,7 +21,7 @@ profiles:
     followers: 60707
     engagement: 303
     commentsToLikes: 0.007707
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/88177328_208322320530147_8612087878693945344_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=fobIpwRxbK0AX-NISXI&oh=cc3ef066e0e1175cf06e4485273260ed&oe=5EB8FF9D"
+    id: ck5hd308el8tg0i11sceleqfb
     verified: true
     hashtags: "#backtowork, #gotime, #canyoudoit, #livingroomcup"
   - username: "by_dreia"
@@ -31,7 +31,7 @@ profiles:
     followers: 19693
     engagement: 322
     commentsToLikes: 0.025305
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/88149474_250621072617246_7061743141698666496_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=gmYePnZcSFAAX9JDvKj&oh=c9ddf97190ea609670c711c8f02ac910&oe=5EB36384"
+    id: ck6u7q12umzw60j71z2rwwnte
     verified: false
     hashtags: "#sneakerslovers, #homeparty, #homefood, #couchtime"
   - username: "rabina17"
@@ -41,7 +41,7 @@ profiles:
     followers: 8068
     engagement: 1072
     commentsToLikes: 0.010630
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/18252536_1863432847015606_563920654684913664_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=xZQL-_ZGme8AX_kJ3Aa&oh=fad4137b03fdad4a8b98099719a658c9&oe=5EBB91D5"
+    id: ck0u9g1me9obw0i197dl4ob56
     verified: false
     hashtags: ""
   - username: "helen_giovanna"
@@ -51,7 +51,7 @@ profiles:
     followers: 5435
     engagement: 746
     commentsToLikes: 0.028109
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/17332776_212663102548951_8060392633668730880_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=x4pd7OT2SS8AX_-ITG1&oh=3cebcde9e5e06d229df1f82cca340573&oe=5EB9D363"
+    id: ck0w37vbes0y70i19akhzjzkm
     verified: false
     hashtags: "#kite, #surflife, #denmark, #rideengine"
   - username: "fabiohayoz"
@@ -61,7 +61,7 @@ profiles:
     followers: 9682
     engagement: 344
     commentsToLikes: 0.047416
-    avatar: "https://scontent-lhr3-1.cdninstagram.com/vp/c92188fc4de3540ccbeee05a4f5c141f/5E1ED64A/t51.2885-19/s320x320/51604294_2224445704462520_6621100941900775424_n.jpg?_nc_ht=scontent-lhr3-1.cdninstagram.com"
+    id: ck8svr3moce3r0j78a3lf79cp
     verified: false
     hashtags: "#workoutmotivation, #fitnesscamp, #beachbody, #ronniecoleman"
   - username: "cyril_henry"
@@ -71,7 +71,7 @@ profiles:
     followers: 112016
     engagement: 97
     commentsToLikes: 0.146698
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/51895379_377257816162400_8836270147749543936_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=pxaeX87-Q_IAX9hsS9T&oh=732d7b41037882743c7f1ad0094d7891&oe=5EB8EA31"
+    id: ck5hnp10ro5bx0i11tf3z0otq
     verified: false
     hashtags: "#kettlebell, #dreams, #london, #good"
   - username: "seven_or_eleven"
@@ -81,7 +81,7 @@ profiles:
     followers: 27068
     engagement: 171
     commentsToLikes: 0.035251
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/18581039_231353137363899_376852044142608384_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=xD3JNQFbAioAX_VV3E1&oh=7a0cf94d3d72a9c79e1138615ce3ab41&oe=5EAFBC8E"
+    id: ck15tyyyaklip0i19sgf0b1k1
     verified: false
     hashtags: "#vive, #motivacion, #estadoalarma, #encasa"
   - username: "kevinxtm"
@@ -91,7 +91,7 @@ profiles:
     followers: 5294
     engagement: 471
     commentsToLikes: 0.060183
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/83812111_183848956333520_6638408358728564736_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=Pzc2ZtxHe6AAX-Yywk4&oh=b1b8d1c04770f30c9561c95b1f2a8b2c&oe=5EB8877D"
+    id: ck5hctkuyjwis0i118o9g71zy
     verified: false
     hashtags: "#travelgram, #staypositive, #focuswater, #mylausanne"
   - username: "esslingerlukas"
@@ -101,7 +101,7 @@ profiles:
     followers: 29797
     engagement: 279
     commentsToLikes: 0.010000
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/44925570_325207921645620_2182713946174128128_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=fVcwj1tRYi8AX-y4qnp&oh=4157871272c0c3a33bb345171cc07f35&oe=5EBBE97A"
+    id: ck5c6jlxl5ko90i11hjdcjecs
     verified: false
     hashtags: "#nutriathletic, #crossfitgames, #trashtalkthursday, #givesyouwings"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Finland In 2020
 description: >-
-  Find top fashion Instagram influencers in Finland in 2020. Most popular hashtags: #arvonta #instablogitfinland #giveaway #kilpailu.
+  Find top fashion Instagram influencers in Finland in 2020. Most popular hashtags: #arvonta #instablogit #kilpailu #instablogitfinland.
 platform: Instagram
 profiles:
   - username: "sinimalist"
@@ -11,7 +11,7 @@ profiles:
     followers: 6068
     engagement: 2086
     commentsToLikes: 0.264886
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/92081956_707775289762767_1539039541258616832_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=n2j70FnJK5gAX8O-bk6&oh=fa109e7ccf98bb6998a20cb08e1c1abf&oe=5EB76B1C"
+    id: ck5c0w74qtyn00i11wrwzpguy
     verified: false
     hashtags: "#dirtybootsandmessyhair, #kilpailu, #revealyourinnerswanqueen, #palkinto"
   - username: "viivivalokainen"
@@ -21,7 +21,7 @@ profiles:
     followers: 7922
     engagement: 1312
     commentsToLikes: 0.627674
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/91769765_2635669500041072_7561742481017012224_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=zGxd3_64cxAAX8AFjKL&oh=ef857a54feb409c46f69982bbfcc24fc&oe=5EBA4F7E"
+    id: ck6tzivyg9ym50j71u8cq50gx
     verified: false
     hashtags: "#inspirationforflickor, #taaperonel, #instafashion, #roominspiration"
   - username: "lindseybeljaars"
@@ -31,7 +31,7 @@ profiles:
     followers: 11302
     engagement: 888
     commentsToLikes: 0.221605
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/66276803_738567833268334_5214352509392388096_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=5NuYkBS5k68AX9d-Sz8&oh=fab4d6d8783f2b1b5f6a79d444d6b0c5&oe=5EBBDE11"
+    id: ck6trcmtwy8560j71u3lnjmju
     verified: false
     hashtags: "#pandoragarden, #fitnesslife, #bodyandbeastplan, #shotforpandora"
   - username: "petrapatriciaa"
@@ -41,7 +41,7 @@ profiles:
     followers: 2987
     engagement: 1360
     commentsToLikes: 0.731607
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/72777561_2471916463075075_7758332553018212352_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=gxGU3twy5r4AX9EJNgY&oh=5140effce358f224ff6f5a1024106bc5&oe=5EB9AA3C"
+    id: ck5hfmkdvy6xk0i11fxpmof2m
     verified: false
     hashtags: "#oppijailo, #metsola, #ponodesign, #turuntuomiokirkko"
   - username: "jannixo"
@@ -51,7 +51,7 @@ profiles:
     followers: 15342
     engagement: 532
     commentsToLikes: 0.059772
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/87420424_638089640288263_7400484953181388800_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=KyFOfumy0NEAX-kxEU-&oh=fce3e04d4a4304f5bb23506bdb404b66&oe=5EBA6660"
+    id: ck6uhhvx697fw0j71cqqnh961
     verified: false
     hashtags: "#lahjoita, #travelbook, #finnishgirl, #koronteeni"
   - username: "lifestyle_by_nicole"
@@ -61,7 +61,7 @@ profiles:
     followers: 5292
     engagement: 625
     commentsToLikes: 0.192789
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/70299931_2355341204778062_1608786769308811264_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=JcnO3oBMggMAX-id3FJ&oh=63a252b5f32a720039d53f9774a5ac12&oe=5EB9DC27"
+    id: ck15r78wh6hos0i19xri1t1z4
     verified: false
     hashtags: "#collaboration, #scandinavianfashion, #kukkia, #modeblogg"
   - username: "ellinanoronen"
@@ -71,7 +71,7 @@ profiles:
     followers: 4261
     engagement: 1823
     commentsToLikes: 0.060072
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/29095188_160380408003922_8031124926922489856_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=Q_QarpHmbfQAX_4M5-h&oh=c822f10151d15f3cd1f2e2bc83756359&oe=5EB96CF2"
+    id: ck5zymc5wa4sb0i14eaii2tm5
     verified: false
     hashtags: "#postswiki, #photorycka, #valokuvaajanokia, #winterphotki"
   - username: "snybe"
@@ -81,7 +81,7 @@ profiles:
     followers: 17277
     engagement: 238
     commentsToLikes: 0.130396
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/89466968_568317483770830_7658513089242857472_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=dBPwtNAmHK4AX-2LyQV&oh=0b2e1a1fc9c4178bf29ffc3235ccedac&oe=5EBAB20D"
+    id: ck0w0cnxpdir00i191vk69jda
     verified: false
     hashtags: "#blackandwhitephotography, #livelovelaugh, #washyourhands, #messukeskus"
   - username: "janniehari"
@@ -91,7 +91,7 @@ profiles:
     followers: 14693
     engagement: 1326
     commentsToLikes: 0.008553
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/71089011_1939057132907813_3126569194569596928_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=ComFZUXkZosAX8vgHL2&oh=05bcc88798b02227d0c2b1999ef7f920&oe=5E81F6A7"
+    id: ck8szpvh2pa3a0j78ybk8gl9w
     verified: false
     hashtags: "#marchbaby2020, #maaliskuiset2020, #oneweekold, #marchbaby"
   - username: "imthalyaa"
@@ -101,7 +101,7 @@ profiles:
     followers: 5842
     engagement: 711
     commentsToLikes: 0.318993
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/90094726_676739709737544_7300177722855129088_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=sDr--jJwIZQAX-PUziW&oh=69a47044b20364e0d028b3a25fb0cb67&oe=5EB7E823"
+    id: ck5hjk35qgrop0i11v3j3ro3o
     verified: false
     hashtags: "#fashion, #dubaijbr, #ilovememessut, #iloveme"
 ---

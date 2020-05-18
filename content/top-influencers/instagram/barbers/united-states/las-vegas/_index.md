@@ -11,7 +11,7 @@ profiles:
     followers: 10823
     engagement: 563
     commentsToLikes: 0.045529
-    avatar: "https://scontent-bos3-1.cdninstagram.com/v/t51.2885-19/s320x320/81969184_808388523008622_7755512305692966912_n.jpg?_nc_ht=scontent-bos3-1.cdninstagram.com&_nc_ohc=sZTCARLxiDAAX9i57xR&oh=3999c4473c14966e74269ca5f277d6c2&oe=5EB90F4E"
+    id: ck5qe55xgyrvo0i11xl6a4q9b
     verified: false
     hashtags: ""
   - username: "globalcuts"
@@ -21,7 +21,7 @@ profiles:
     followers: 79319
     engagement: 260
     commentsToLikes: 0.021904
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/82851092_2481655125480104_5468004357247074304_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=C4fU4NsnRkAAX9wwuyd&oh=eae9b522814a865663f15fedb50f9c76&oe=5EA89DDC"
+    id: ck6uh554o723y0j71w8g8jjcy
     verified: false
     hashtags: "#thankful, #godisgood, #celebritybarber, #hair"
   - username: "leigh.gill"
@@ -31,7 +31,7 @@ profiles:
     followers: 10557
     engagement: 1075
     commentsToLikes: 0.024289
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/87710726_487252548879587_2868407772788031488_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=OMu1rcadvA4AX8wSfcg&oh=1a6ff2dec7e2623bbc6631f6447e88ee&oe=5EBBC2FE"
+    id: ck5qb0mvaj88c0i11yylpr004
     verified: false
     hashtags: "#oneday, #movies, #itv2, #coronavirus"
   - username: "jsbarbershop805"
@@ -41,7 +41,7 @@ profiles:
     followers: 48900
     engagement: 97
     commentsToLikes: 0.033845
-    avatar: "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/s320x320/50284249_260690278166713_7760225014393077760_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_ohc=eFUn44TgbScAX_TI84l&oh=858c4f179db7c68bbef25e08116387fd&oe=5EB29AAF"
+    id: ck5zr6zhaw1290i14i32u05ba
     verified: false
     hashtags: "#la, #bikelife, #barbershop, #805"
   - username: "therealtrippy"
@@ -51,7 +51,7 @@ profiles:
     followers: 43077
     engagement: 79
     commentsToLikes: 0.068551
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/49491334_305822199959264_29393983079710720_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=nW5xBvu_dM4AX9pzb8v&oh=bd873084e42d7a6f202985ca9e05a208&oe=5EB3554A"
+    id: ck13bx9zkxl3g0i19a4z2u3y4
     verified: false
     hashtags: "#teamblacksolutions, #santaanabarber, #irvinebarber, #vegasbarber"
   - username: "yayosnaps"
@@ -61,7 +61,7 @@ profiles:
     followers: 157759
     engagement: 114
     commentsToLikes: 0.015542
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/75440959_2600432520230159_555513647045017600_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=DDuTP-LzF4kAX9MC1vz&oh=5a9a479dc94eb0d8f470f4becbffde57&oe=5EBB263C"
+    id: ck5q3saq7m7i70i11egsxvxul
     verified: false
     hashtags: "#vegasbaby, #lasvegasstrip, #quarantine, #managedbyyayo"
   - username: "reidstefan"
@@ -71,7 +71,7 @@ profiles:
     followers: 25488
     engagement: 587
     commentsToLikes: 0.096604
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/33964940_1873260949637805_3952528926424694784_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=jvYLcQ2aQK4AX8ohgY1&oh=4edf3650e118bd16a99ca79aae591e8a&oe=5EBAB39E"
+    id: ck5hlr3qukpab0i11y6a4f9u5
     verified: true
     hashtags: "#ableton, #producer, #producerlife, #namm"
   - username: "izadi"
@@ -81,7 +81,7 @@ profiles:
     followers: 1102091
     engagement: 99
     commentsToLikes: 0.059426
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s150x150/80866855_549926799069096_3415501140744208384_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Mf3ljznIxPwAX9uRTEu&oh=ca51a6c9c34cff97ea8d982c6d7edf89&oe=5EB9A9B5"
+    id: ck0w1017jgvq70i19jdsc7fl6
     verified: true
     hashtags: "#life, #doritos, #graffitimaserati, #coronavirusisrael"
   - username: "tailorfade"
@@ -91,7 +91,7 @@ profiles:
     followers: 43992
     engagement: 270
     commentsToLikes: 0.117789
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/84792597_1075260792821395_6984097829568380928_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=yLYr0z8gwUAAX8yM2Hx&oh=8c55daed435308da884d28bf40fec4be&oe=5EB95B64"
+    id: ck5q1yu0cdg400i11wej4vfov
     verified: false
     hashtags: "#sharpfade, #licensedtocreate, #hairstyles, #reflection"
   - username: "mannyortiz"
@@ -101,7 +101,7 @@ profiles:
     followers: 180705
     engagement: 560
     commentsToLikes: 0.020433
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/66473710_797342087326553_7907346555022082048_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=pbCDb_FpCsAAX-7Q7VM&oh=7192519126aa8ae2a8157a54b637f51f&oe=5EB9BF0D"
+    id: ck14k4hexnodj0i19y7733lx3
     verified: false
     hashtags: "#imagingusa2020, #ourppa, #ppaambassador, #valleyoffire"
 ---

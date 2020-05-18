@@ -1,7 +1,7 @@
 ---
 title: Top 10 Travel Instagram Influencers In Japan In 2020
 description: >-
-  Find top travel Instagram influencers in Japan in 2020. Most popular hashtags: #japan #tokyo #travel #pr.
+  Find top travel Instagram influencers in Japan in 2020. Most popular hashtags: #japan #tokyo #travel #mindy.
 platform: Instagram
 profiles:
   - username: "yuki.linuma"
@@ -11,7 +11,7 @@ profiles:
     followers: 11230
     engagement: 1475
     commentsToLikes: 0.093994
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/73185595_962705314108456_7369048945080664064_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=TOK56mw-P2cAX-gAu3B&oh=ebe9cec2a5b99c28ad7c3259bb7f4383&oe=5EB882FB"
+    id: ck0w1byh4ikxz0i1989vkx98w
     verified: false
     hashtags: "#lunarnewyear, #crew, #hokkaido, #favoritecake"
   - username: "madhuri.chavan7"
@@ -21,7 +21,7 @@ profiles:
     followers: 7702
     engagement: 993
     commentsToLikes: 0.078565
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/80474107_2752023104876000_5996124320626114560_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=8jKvaH1BDZ8AX-v24SU&oh=c11e22d067ecdc9cf6af0b9ef39c5907&oe=5EB9DDB0"
+    id: ck15q0f1p0hzj0i197nafgoir
     verified: false
     hashtags: "#bollywooddanceroutine, #universalstudiosjapanosaka, #sesamestreetbollywood, #usj"
   - username: "mindythelife"
@@ -31,7 +31,7 @@ profiles:
     followers: 8291
     engagement: 836
     commentsToLikes: 0.306383
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/66060512_482900829177655_3246807474036015104_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=9MEE9i1snUoAX-daLW-&oh=f1c52a897cc119e8413fc7cffdf843ab&oe=5EBA436A"
+    id: ck5pzlck51jiq0i11yrki0kr9
     verified: false
     hashtags: "#miaolitravel, #8more, #winterootd, #ski6"
   - username: "aclaireytale"
@@ -41,7 +41,7 @@ profiles:
     followers: 7383
     engagement: 743
     commentsToLikes: 0.144772
-    avatar: "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/s320x320/30604066_597672980594930_73129493320957952_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=L6Szo3zZw_kAX8B1ksk&oh=fccd9ae19c486e550b359b5b0ea9525d&oe=5E918472"
+    id: ck8t28rypykbk0j78tmug0qyc
     verified: false
     hashtags: "#disneytokyo, #disney, #birthday, #travel"
   - username: "sundailove"
@@ -51,7 +51,7 @@ profiles:
     followers: 41623
     engagement: 720
     commentsToLikes: 0.020283
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/50019894_210376363159964_6034619197672128512_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=iLe7MV92raIAX-OWHwp&oh=6fcbd23208465c9a668f51d5388163c8&oe=5EBCEBC3"
+    id: ck5c0qylitogn0i110hr7582q
     verified: false
     hashtags: "#iseehair, #haul, #traveljapan, #travelkyoto"
   - username: "_icyphoto_"
@@ -61,7 +61,7 @@ profiles:
     followers: 18019
     engagement: 1054
     commentsToLikes: 0.023330
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/26070465_208406123059794_3529325672533065728_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=Cr_YeJBumzwAX_emVdV&oh=0b11d12e40ead6d35c0df913f34f7aa7&oe=5EB95742"
+    id: ck5c1kyiive4i0i11svbdfe22
     verified: false
     hashtags: "#bwportrait, #sigmalenses, #sonyalpha, #portraitphotography"
   - username: "r_trip_x"
@@ -71,7 +71,7 @@ profiles:
     followers: 73894
     engagement: 217
     commentsToLikes: 0.044188
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/20902178_1920890468236365_7692851704961695744_a.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=XcWla9WaoZ0AX8KG7W-&oh=8c855eef40bff9ec3c891cdd150926a0&oe=5EBCEAE5"
+    id: ck8wgpa4ghsyt0j78tfwr5x3s
     verified: false
     hashtags: "#disneyland, #onsen, #instahawaii, #thisisjapan"
   - username: "iamdennisfresh"
@@ -81,7 +81,7 @@ profiles:
     followers: 110906
     engagement: 810
     commentsToLikes: 0.012636
-    avatar: "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/s320x320/20688024_1571009769636170_8694877745601052672_a.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=uERdwoE-fn8AX9BlA6W&oh=f38f3ba6ef596317a8c48f31740e740c&oe=5EBA0F63"
+    id: ck0vvqnj6qbve0i19ejtoh2t2
     verified: false
     hashtags: "#familiachula, #ad, #tictacxspotify, #hustlefresh"
   - username: "eri_t28"
@@ -91,7 +91,7 @@ profiles:
     followers: 153026
     engagement: 189
     commentsToLikes: 0.036790
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/91124593_516035859333324_3309629054436507648_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=IecwOfnPXckAX8dWrxg&oh=d35abfc9b787bf9d1de162e69c81cd2d&oe=5EBAF3D0"
+    id: ck6ugl5kf3obs0j71ffwwh3t3
     verified: false
     hashtags: "#massage, #foodtime, #walkwithdog, #travelawsome"
   - username: "elliebearescapades"
@@ -101,7 +101,7 @@ profiles:
     followers: 2820
     engagement: 1166
     commentsToLikes: 0.339353
-    avatar: "https://instagram.fbkk5-8.fna.fbcdn.net/v/t51.2885-19/s320x320/81355431_792976954514419_8835743687838269440_n.jpg?_nc_ht=instagram.fbkk5-8.fna.fbcdn.net&_nc_ohc=ua4Dfu1SSqAAX9sDZeM&oh=3ca9e3ce7a0a1a6b76021df34b9e0759&oe=5EA4F4AD"
+    id: ck8t9392xmt5u0j78wy0r08t8
     verified: false
     hashtags: "#wanderlusters, #discovernewplaces, #embracingtheseasons, #chattycaptioncommunity"
 ---

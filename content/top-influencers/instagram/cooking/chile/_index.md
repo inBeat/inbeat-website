@@ -1,7 +1,7 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Chile In 2020
 description: >-
-  Find top cooking Instagram influencers in Chile in 2020. Most popular hashtags: #cooking #yomequedoencasa #happy #stayathome.
+  Find top cooking Instagram influencers in Chile in 2020. Most popular hashtags: #cooking #yomequedoencasa #happy #cuarentena.
 platform: Instagram
 profiles:
   - username: "mmarocchino"
@@ -11,7 +11,7 @@ profiles:
     followers: 317449
     engagement: 233
     commentsToLikes: 0.027073
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/92242772_504292447115932_7575870711512694784_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=nxOGwgxvVeIAX_cDQ3V&oh=6a5bef30ea48bc060e398bcdee04ca88&oe=5EB9A5EF"
+    id: ck13bt0bax0tu0i19y0uylaz5
     verified: true
     hashtags: "#travel, #famiglia, #love, #men"
   - username: "antojista"
@@ -21,7 +21,7 @@ profiles:
     followers: 33657
     engagement: 164
     commentsToLikes: 0.057980
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/75472298_2452382114975114_1035815355810840576_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=dOW-UcfvCCgAX-Fz2qF&oh=03558f1363e54efd3248dbaefe4c6825&oe=5EBC2A9E"
+    id: ck5cc3h5mgn7p0i11pi9qvbxr
     verified: false
     hashtags: "#zerowaste, #vegan, #cooking, #home"
   - username: "max_cabezon"
@@ -31,7 +31,7 @@ profiles:
     followers: 119776
     engagement: 312
     commentsToLikes: 0.023704
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/68781848_403401027030103_7280642682584563712_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=P6NKFzbM4h8AX8ZpdaA&oh=2b53dab9de3e53819675662e6e0317c9&oe=5EBC0906"
+    id: ck13cqbby1n7c0i19x2gdvams
     verified: true
     hashtags: "#givesyouwings, #pizzatime, #berlin, #pizzaday"
   - username: "franceshardyb"
@@ -41,7 +41,7 @@ profiles:
     followers: 3165
     engagement: 1363
     commentsToLikes: 0.066684
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/67519311_348611609414013_9038348565184774144_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=auHqdc8RfsEAX9jiQ3d&oh=a54590ae4d555c4e6bd15a071e2c27e6&oe=5EB9A01E"
+    id: ck5zzt75ecdt70i14qwvv3mbp
     verified: false
     hashtags: "#family, #incondicional, #happy, #graduacion"
   - username: "iamsusanagarcia"
@@ -51,7 +51,7 @@ profiles:
     followers: 38689
     engagement: 275
     commentsToLikes: 0.022282
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/76808267_757421344762625_1533546376871280640_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=B3-KutPlebwAX-0h0vT&oh=b23eeca96eced07bd499b3833a302b80&oe=5EBA500F"
+    id: ck5c7bnuu77ys0i11ceq54uyg
     verified: false
     hashtags: "#dunasdeconcon, #brownie, #italia, #covid"
   - username: "jmgfontaine"
@@ -61,7 +61,7 @@ profiles:
     followers: 34112
     engagement: 307
     commentsToLikes: 0.033241
-    avatar: "https://scontent-amt2-1.cdninstagram.com/v/t51.2885-19/s320x320/66684282_2441951449422297_3686706923664572416_n.jpg?_nc_ht=scontent-amt2-1.cdninstagram.com&_nc_ohc=04etGlV3JbMAX_DA95x&oh=0b85d8590c1f43f381828b4559846027&oe=5EB3F21A"
+    id: ck5zmpc3mmz4v0i14fw9pur14
     verified: true
     hashtags: "#cooking, #vegan, #besafe, #pasarelavalparaiso"
   - username: "maisacocina"
@@ -71,7 +71,7 @@ profiles:
     followers: 16605
     engagement: 496
     commentsToLikes: 0.033029
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/66395121_459839174747128_6849382194599690240_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=6FAGPOyHnfwAX_V00Yi&oh=97a5da9799e87b49a24cc51bf53eec87&oe=5EB4765D"
+    id: ck15rzgcqah2n0i190e4s9kbw
     verified: false
     hashtags: "#tarta, #lovefood, #eating, #arrozdecoliflor"
   - username: "raulgardilcic"
@@ -81,7 +81,7 @@ profiles:
     followers: 21429
     engagement: 782
     commentsToLikes: 0.032757
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/92469245_227450775032504_6672660108733841408_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=tNTfaVcuQ0oAX982KRu&oh=6da9b939d5e1ac37664eb210805c59fd&oe=5EBAEDE1"
+    id: ck5zxgk8d7z570i144yj73b0m
     verified: false
     hashtags: "#downtofilm, #inspirat, #film, #chile"
   - username: "pastrychefmile"
@@ -91,7 +91,7 @@ profiles:
     followers: 22004
     engagement: 260
     commentsToLikes: 0.045460
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/66504672_911475275878893_2839483272583446528_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=SvMIjq1WjmUAX_TJqvy&oh=26e93075d05a4808885e1c9334c778a6&oe=5EBAE270"
+    id: ck5q1goqxawb30i118nqkw2vy
     verified: false
     hashtags: "#vacaciones, #chocolatelife, #contodosinopaque, #inspiracion"
   - username: "bernardo_y_horacio"
@@ -101,7 +101,7 @@ profiles:
     followers: 9872
     engagement: 778
     commentsToLikes: 0.136682
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/83618494_272042237100895_754558619273396224_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=vjQnyM23B8EAX_EYl0f&oh=5dad1c9f91d5a6d22e864f87dfa85ef9&oe=5EBC362D"
+    id: ck6ti7oec070q0j71etxozgqz
     verified: false
     hashtags: "#followforfollowback, #bestwoof, #perroinfluencer, #summerdog"
 ---

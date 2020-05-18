@@ -1,7 +1,7 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Italy In 2020
 description: >-
-  Find top nutrition Instagram influencers in Italy in 2020. Most popular hashtags: #fitness #motivation #model #gym.
+  Find top nutrition Instagram influencers in Italy in 2020. Most popular hashtags: #fitness #motivation #model #smile.
 platform: Instagram
 profiles:
   - username: "lahilary__"
@@ -11,7 +11,7 @@ profiles:
     followers: 7291
     engagement: 914
     commentsToLikes: 0.083972
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/83320386_473983963491056_2109068906453794816_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=A11MzNs5A6EAX-x29uM&oh=9b65b11e89b91c526c1141d666c01674&oe=5EBB13F6"
+    id: ck5c0s71dtr490i11ku0zhjsc
     verified: false
     hashtags: "#bershka, #week, #cucinare, #pizzalover"
   - username: "s17ne"
@@ -21,7 +21,7 @@ profiles:
     followers: 145179
     engagement: 669
     commentsToLikes: 0.016710
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/88471512_3139927326019638_615803503138308096_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=bIhmWDFInKkAX_K-JtR&oh=8203637bc2c5446acb719cb7f0aa6243&oe=5EBA8005"
+    id: ck5hg9mtw1ncy0i11xawef1ne
     verified: false
     hashtags: "#hometraining, #iorestoacasa, #covid, #stayhome"
   - username: "arymax"
@@ -31,7 +31,7 @@ profiles:
     followers: 17050
     engagement: 678
     commentsToLikes: 0.042819
-    avatar: "https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-19/s320x320/91225419_600709747186646_4107021532876767232_n.jpg?_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_ohc=tBtKE_cPOOIAX-a-Y1e&oh=e1f0316f21e719a8fdf8b66fda1154e8&oe=5EAEC67D"
+    id: ck8tauwqnt5wl0j784aa0j35k
     verified: false
     hashtags: "#travelgram, #fitness, #fitnessbody, #modeling"
   - username: "ema.bruni"
@@ -41,7 +41,7 @@ profiles:
     followers: 13807
     engagement: 890
     commentsToLikes: 0.199586
-    avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s320x320/20686602_162495644298063_2055049217281359872_a.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=rifw4773vPAAX84n2yH&oh=a1d5afa6ef266c4b18db5e8556f79d4d&oe=5EB6FD25"
+    id: ck6tzfjmm9e8q0j71b99ftwpp
     verified: false
     hashtags: "#cyclingkit, #domenicheecologiche, #cyclestyle, #gambemassacrate"
   - username: "gloriaperitore"
@@ -51,7 +51,7 @@ profiles:
     followers: 25566
     engagement: 474
     commentsToLikes: 0.022670
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/14676617_1144769142273516_8255956972990365696_a.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=6W9-5jb-_9MAX8Tc3QB&oh=5565e4e1563a4584dda9a9d048a0931f&oe=5EBA2684"
+    id: ck134kkdawvhf0i19fucv61tc
     verified: true
     hashtags: "#tokyo, #neverbackdown, #enjoyyourself, #olimpathlete"
   - username: "tania_chanel22"
@@ -61,7 +61,7 @@ profiles:
     followers: 3690
     engagement: 1146
     commentsToLikes: 0.089888
-    avatar: "https://scontent-lht6-1.cdninstagram.com/vp/b70740cd21d68786de6e8f161fc8c002/5E1E747C/t51.2885-19/s320x320/44545019_2104292073219330_2217658311195492352_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com"
+    id: ck8t8mlspl09m0j78dzt13925
     verified: false
     hashtags: "#outfit, #training, #viaveneto, #bikini"
   - username: "patriziotombolini_"
@@ -71,7 +71,7 @@ profiles:
     followers: 11706
     engagement: 839
     commentsToLikes: 0.010514
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/53026511_1826096067496585_1606148740266065920_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=2uBYVd3-u9MAX_u7N6g&oh=d389c5f3ea5911e676158daa44d42f2c&oe=5EB655B5"
+    id: ck5c0sj5ytrpo0i11nz4nqtz4
     verified: false
     hashtags: "#romanphoto, #manphysique, #fitness, #gym"
   - username: "adilayvaz"
@@ -81,7 +81,7 @@ profiles:
     followers: 18414
     engagement: 306
     commentsToLikes: 0.023142
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/66006371_2295265667217667_51241343548129280_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=T5Tm5047vWQAX8c0I9X&oh=9d95f04c944c6108e5da7a2b936f136d&oe=5EB5398E"
+    id: ck5c1vjmfw0g10i11mplelds7
     verified: false
     hashtags: "#hmman, #namaste, #yogapractice, #morningyoga"
   - username: "kelechi_kicks_kinesiology"
@@ -91,7 +91,7 @@ profiles:
     followers: 2922
     engagement: 1308
     commentsToLikes: 0.046855
-    avatar: "https://scontent-ams4-1.cdninstagram.com/v/t51.2885-19/s320x320/68743739_2688780567812746_6734879569079173120_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_ohc=Je5502gVVeYAX-MNWNp&oh=ab19da64bd69f3b626297adea3a2bbe7&oe=5EB763D4"
+    id: ck5qap8ejhka10i11ttdkueh9
     verified: false
     hashtags: ""
   - username: "elecasi"
@@ -101,7 +101,7 @@ profiles:
     followers: 10910
     engagement: 556
     commentsToLikes: 0.025505
-    avatar: "https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-19/s320x320/50840540_143882786559087_7610010268382265344_n.jpg?_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=KfixXaRq79QAX9lFw1t&oh=bd382cfa8dd48dd824af2f7c9d7a4684&oe=5EBBDC0A"
+    id: ck55j2gznw3qh0i11a2endour
     verified: false
     hashtags: "#direttalive, #runhappyathome, #bdnf, #healthyfood"
 ---
