@@ -31,7 +31,7 @@
         <div class="col-xs-12 col-md-4 left-col">
             <h2>{{- .title -}}</h2>
             <p>{{- .text | markdownify -}}</p>
-            <a href="{{- .link.link -}}" class="learn-more hide-md" {{ if .link.external }}target="_blank"{{ end}}>
+            <a href="{{ $.Site.BaseURL -}}{{- .link.link -}}" class="learn-more hide-md">
                 {{- htmlUnescape .link.text -}}
             </a>
             {{- with .question -}}
@@ -46,7 +46,7 @@
                     <source src="../static/video/10s.ogv" type='video/ogg; codecs="theora, vorbis"' /> -->
                 </video>    
             </div>
-            <a href="{{- .link.link -}}" class="learn-more hide-md-up" {{ if .link.external }}target="_blank"{{ end}}>
+            <a href="{{ $.Site.BaseURL -}}{{- .link.link -}}" class="learn-more hide-md-up">
                 {{- htmlUnescape .link.text -}}
             </a>
             {{- with .question -}}

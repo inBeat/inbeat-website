@@ -196,17 +196,28 @@
     }
 }
 
-#cta-affiliate {
+#cta-affiliate, #cta-features {
     position: relative;
-    &:before {
-        content: '';
-        width: 100%;
-        height: 1px;
-        position: absolute;
-        background-color:#CDCDCD;
-        top: calc(-30px + 1rem);
-        @include breakpoint(lg) {
-            top: -80px;
+    @include breakpoint(lg) {
+        &:before {
+            content: '';
+            width: 100%;
+            height: 1px;
+            position: absolute;
+            background-color:#CDCDCD;
+            top: calc(-30px + 1rem);
+            @include breakpoint(lg) {
+                top: -80px;
+            }
         }
+    }
+    br {
+        display: none;
+        @include breakpoint(md) {
+            display: block;
+        }
+    }
+    h4 {
+        margin-bottom: 3rem;
     }
 }

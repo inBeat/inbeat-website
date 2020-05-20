@@ -10,15 +10,15 @@
             </div>
             <div class="col-xs-7 hide-sm">
                 <ul>
-                    <li>
-                        <a href="{{- $.Site.BaseURL -}}" title="Home">Home</a>
-                        <!-- <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <li  class="has-submenu">
+                        <a href="{{- $.Site.BaseURL -}}" title="Features">Features</a>
+                        <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M1 1L5.4698 5L10 1" stroke="black"/>
                         </svg>
                         <ul class="submenu">
-                            <li><a href="{{- $.Site.BaseURL -}}features/search" title="Search">Search</a></li>
+                            <li><a href="{{- $.Site.BaseURL -}}features/discover" title="Discover">Discover</a></li>
                             <li><a href="{{- $.Site.BaseURL -}}features/export" title="Export">Export</a></li>
-                        </ul> -->
+                        </ul>
                     </li>
                     <li><a href="{{- $.Site.BaseURL -}}pricing" title="Pricing">Pricing</a></li>
                     <li><a href="{{- $.Site.BaseURL -}}articles" title="Blog">Blog</a></li>
@@ -48,12 +48,12 @@
         <!-- <li>
             <a href="{{- $.Site.BaseURL -}}" title="Features">Features</a>
         </li> -->
-        <!-- <li class="is-submenu">
-            <a href="{{- $.Site.BaseURL -}}features/search" title="Search">Search</a>
+        <li>
+            <a href="{{- $.Site.BaseURL -}}features/discover" title="Discover">Discover</a>
         </li>
-        <li class="is-submenu">
+        <li>
             <a href="{{- $.Site.BaseURL -}}features/export" title="Export">Export</a>
-        </li> -->
+        </li>
         <li><a href="{{- $.Site.BaseURL -}}pricing" title="Pricing">Pricing</a></li>
         <li><a href="{{- $.Site.BaseURL -}}articles" title="Blog">Blog</a></li>
     </ul>

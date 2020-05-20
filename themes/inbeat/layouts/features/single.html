@@ -1,0 +1,54 @@
+{{- define "main" -}}
+<section class="container mobile-adjusted page-top">
+    <h1>{{ .Params.pagetitle }}</h1>
+</section>
+
+<div class="container" id="features-body">
+    {{- range .Params.sections -}}
+    <section class="m-tb-80 features-section">
+        <div class="row">
+            <div class="col-xs-12 col-md-4 left-col">
+                {{- partial (printf "icons/%s.html" .icon) -}}
+                <h2>{{- .title -}}</h2>
+                <p class="description">{{- .description | markdownify -}}</p>
+                <a href="{{- .link.url -}}" class="learn-more hide-md" {{ if .link.external }}target="_blank"{{ end }}>
+                    {{- htmlUnescape .link.text -}}
+                </a>
+            </div>
+            <div class="col-xs-12 col-md-7 col-md-offset-1">
+                <img src="{{ .image }}" alt="{{ .title }}">
+                <div class="row">
+                    {{- range .points -}}
+                    <div class="col-xs-12 col-sm-4">
+                        {{- with .title -}}
+                        <p class="points-title">{{ . }}</p>
+                        {{- end -}}
+                        {{- with .description -}}
+                        <p class="small">{{ . }}</p>
+                        {{- end -}}
+                        {{- with .lines -}}
+                        {{- range . -}}
+                        <p class="small">{{- partial "icons/check.html" -}}{{ .text }}</p>
+                        {{- end -}}
+                        {{- end -}}
+                    </div>
+                    {{- end -}}
+                </div>
+            </div>
+        </div>
+    </section>
+    {{- end -}}
+</div>
+
+<section class="container m-tb-160 mobile-adjusted" id="cta-features">
+    <div class="row large-gutter">
+        <div class="col-xs-12 col-md-12 col1 align-center">
+            <h2>Get Crackin'</h2>
+            <h4>Dive into your influencer campaign <br>today, with inBeat.</h4>
+            <a href="https://app.inbeat.co/get-started" title="Try it for free" class="btn btn-crazy btn-md" target="_blank">
+                <span>Try it for free</span> &#8212 No credit card
+            </a>
+        </div>
+    </div>
+</section>
+{{- end -}}

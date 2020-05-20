@@ -32,7 +32,7 @@ features:
       keywords to find the profiles you need.
     link:
       text: View all our Search Filters &#8594;
-      link: '#home-faq'
+      link: 'features/discover'
     question:
       text: How do you spam-check your influencers?
       link: '#home-faq'
@@ -43,7 +43,7 @@ features:
       <span>Quickly</span> go through results and add the fitting influencers to your list. 
     link:
       text: Learn more &#8594;
-      link: '#home-faq'
+      link: 'features/discover'
     question:
       text: Database vs marketplace?
       link: '#home-faq'
@@ -53,9 +53,9 @@ features:
     text: >-
       Once your list is ready, you can export all <span>contact information</span> in a click. 
     link:
-      text: CSV Export Example &#8594;
-      link: https://docs.google.com/spreadsheets/d/1b0GX1aPT7152YJ8LNzSFd-mGHzvvUT0319TOjrNEn5M/edit?usp=sharing
-      external: true
+      text: Learn more &#8594;
+      link: 'features/export'
+      external: false
     question:
       text: What can I do with the exports?
       link: '#home-faq'
