@@ -5,7 +5,7 @@ description: >-
   hours browsing through Instagram.
 pagetitle: Export
 sections:
-  - title: Export
+  - title: CSV Sheet
     description: >-
       Once you’re influencer list is done, we make it simple for you to export contact information.
     icon: features-export-icon
