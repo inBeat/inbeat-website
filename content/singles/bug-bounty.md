@@ -4,6 +4,7 @@ description: >-
   Our user's data is something we take seriously. You are welcome to put our security to test. We will gladly reward your work for any security exploit.
 slug: bug-bounty
 layout: normal
+noindex: true
 ---
 
 ## Security Bounty Program
