@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top rappers Instagram influencers in Los Angeles in 2020. Most popular hashtags: #rap #losangeles #hiphop #newmusic.
+  Find top rappers Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #rapper #2020 #singer.
 platform: Instagram
 profiles:
-  - username: "youngfrenchy808"
+  - username: "jayreeves7"
     fullname: >-
-      Youngfrenchy808
+      Jay Reeves 🖖🏾
     location: "United States"
-    followers: 39186
-    engagement: 356
-    commentsToLikes: 0.000000
-    id: ck6tkxrzc5m260j71arl1lrbr
-    verified: true
-    hashtags: "#hiphopart, #fashionlovers, #unsignedhype, #hitrecord"
-  - username: "rawwblue"
-    fullname: >-
-      DA BLUPRINT 😎🤙™️
-    location: "United States"
-    followers: 61535
-    engagement: 123
-    commentsToLikes: 0.215965
-    id: ck5q9nnznc1iy0i11r74k02f2
-    verified: true
-    hashtags: "#music, #blue, #explorepage, #tidal"
-  - username: "mancavetv.lowriders"
-    fullname: >-
-      ManCaveTV
-    location: "United States"
-    followers: 6534
-    engagement: 349
-    commentsToLikes: 0.033796
-    id: ck5hgylyk5guu0i11yfr5kln6
+    followers: 60988
+    engagement: 606
+    commentsToLikes: 0.020790
+    id: ck15s2k1fax530i19429rlzl4
     verified: false
-    hashtags: "#anniversary, #abcnews, #lowrider, #lowridervideos"
+    hashtags: "#knowyourworth, #godisgood, #savagemode, #instagood"
+  - username: "mikeloco"
+    fullname: >-
+      MLM Entertainment
+    location: "United States"
+    followers: 3711
+    engagement: 1130
+    commentsToLikes: 0.229297
+    id: ck55l628f0uee0i11wepjzmt6
+    verified: false
+    hashtags: "#migs718, #explore, #wethebest, #6ix9ine"
   - username: "nekosavvymusic"
     fullname: >-
       NEKO SAVVY
     location: "United States"
-    followers: 7417
-    engagement: 564
-    commentsToLikes: 0.234686
+    followers: 7260
+    engagement: 579
+    commentsToLikes: 0.235368
     id: ck6u4351j1eve0j719epk40ml
     verified: false
     hashtags: "#rileyried, #nowayoutoftexas"
-  - username: "andreadesmond.music"
+  - username: "dmacthedon"
     fullname: >-
-      Andrea Desmond
+      𝔻𝕖𝕣𝕣𝕚𝕔𝕜 𝕄𝕒𝕝𝕝𝕖𝕥
     location: "United States"
-    followers: 221863
-    engagement: 29
-    commentsToLikes: 0.058674
-    id: ck134o1toxcxw0i19hsaass50
+    followers: 43830
+    engagement: 778
+    commentsToLikes: 0.010951
+    id: ck8t9jxxuodjm0j78arvlzrf1
     verified: false
-    hashtags: "#sundayfunday, #puppyloverz, #cute, #fashion"
-  - username: "eazy.legacy"
+    hashtags: "#familyties, #brees, #graduates, #jrhigh"
+  - username: "stassipryce"
     fullname: >-
-      𝐎𝐥𝐝 𝐒𝐜𝐡𝐨𝐨𝐥 𝐄𝐝𝐢𝐭𝐬
+      Stassi Pryce
     location: "United States"
-    followers: 10323
-    engagement: 2588
-    commentsToLikes: 0.010311
-    id: ck8t8ino6kmdw0j789h9c1xd1
+    followers: 67007
+    engagement: 541
+    commentsToLikes: 0.045474
+    id: ck55oc6w782x60i11uxlxaxjf
     verified: false
-    hashtags: "#doggystyles, #cluelessedit, #deathrow, #michellepfeiffer"
-  - username: "ace.trizz"
+    hashtags: "#leopardprint, #passiontwists, #happybirthdaytome, #ripkobe"
+  - username: "awolone"
     fullname: >-
-      A-Trizz
+      AWOL ONE
     location: "United States"
-    followers: 7258
-    engagement: 893
-    commentsToLikes: 0.013823
-    id: ck6012j0peq1j0i14krm483h7
+    followers: 18072
+    engagement: 150
+    commentsToLikes: 0.039028
+    id: ck5hsditawf1e0i11p2cv4nt3
     verified: false
-    hashtags: "#jewelry, #newmusic, #friends, #vibes"
-  - username: "jejuansmith"
+    hashtags: "#actionfigure, #starwarsday, #maythe4thbewithyou, #sundayvibes"
+  - username: "davedscissorhands"
     fullname: >-
-      Jay
+      DAVED MUNOZ
     location: "United States"
-    followers: 26226
-    engagement: 159
-    commentsToLikes: 0.098795
-    id: ck13am5nxr1vb0i19ihyjybt4
+    followers: 73101
+    engagement: 137
+    commentsToLikes: 0.056727
+    id: ck13bjx7qvrrs0i1983gr4hmz
     verified: false
-    hashtags: "#betnetwork, #goodvibes, #walklikeaballplaya, #jaycustomtees"
-  - username: "miss_dodge"
+    hashtags: "#team10, #rufskin, #2020, #lavendar"
+  - username: "iamkrayziebone"
     fullname: >-
-      Miss/Dodge - Rap & Twerk
+      Krayzie Bone Page 💯
     location: "United States"
-    followers: 18607
-    engagement: 465
-    commentsToLikes: 0.186428
-    id: ck5q9lqj3bqyf0i11c1fqmr5p
+    followers: 95166
+    engagement: 103
+    commentsToLikes: 0.041444
+    id: ck6ugjesv3dil0j71c27x0crk
     verified: false
-    hashtags: "#tictac, #spotify, #fabiomusta, #missdodge"
-  - username: "j.bless1127"
+    hashtags: "#wutangclan, #songwriter, #ericbandrakim, #oldskoolrap"
+  - username: "durandbernarr"
     fullname: >-
-      J.BLESS
+      Durand Bernarr™️
     location: "United States"
-    followers: 14153
-    engagement: 542
-    commentsToLikes: 0.095650
-    id: ck14k40ygnmqw0i19k83fiwbx
+    followers: 182411
+    engagement: 225
+    commentsToLikes: 0.043258
+    id: ck0vw2jyzrta90i19onpmlojh
+    verified: true
+    hashtags: "#losangeles, #richmondva, #nyc, #singer"
+  - username: "pancakerr"
+    fullname: >-
+      Keene Williams
+    location: "United States"
+    followers: 59770
+    engagement: 627
+    commentsToLikes: 0.020908
+    id: ck14gz7au7r1f0i19elnfhvdb
     verified: false
-    hashtags: "#kobebryant, #picounion, #holymoly, #coronavirus"
+    hashtags: "#puertorico, #staticandbenel, #otheezycreatedit, #ragaeton"
 ---

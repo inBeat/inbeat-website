@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top bloggers Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #yomequedoencasa #photooftheday #travel.
+  Find top bloggers Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #santjordi #covid19 #blogger.
 platform: Instagram
 profiles:
+  - username: "viviendodeviaje"
+    fullname: >-
+      TANIA & DAVID
+    location: "Spain"
+    followers: 99223
+    engagement: 436
+    commentsToLikes: 0.036351
+    id: ck0uch48bgs9s0i197tio8vby
+    verified: false
+    hashtags: "#yomequedoencasa, #loves, #sintra, #sunset"
   - username: "thegoldlipstick"
     fullname: >-
       Mireia from The Gold Lipstick
     location: "Spain"
-    followers: 3130
-    engagement: 999
-    commentsToLikes: 0.345760
+    followers: 3133
+    engagement: 1216
+    commentsToLikes: 0.357116
     id: ck0tyj2kvn1ds0i19upv4nd49
     verified: false
-    hashtags: "#dior, #girlsinloavies, #desenio, #partneringwithdior"
+    hashtags: "#diorbeautylovers, #skin, #igtv, #hmhome"
   - username: "nicarodriguez_"
     fullname: >-
       Nica Rodríguez
     location: "Spain"
-    followers: 104389
-    engagement: 86
-    commentsToLikes: 0.048724
+    followers: 104006
+    engagement: 103
+    commentsToLikes: 0.033984
     id: ck6tuzkkajbte0j716lvqfkur
     verified: false
-    hashtags: "#newpost, #ootd, #joemquedoacasa, #istayathome"
+    hashtags: "#qued, #tuesday, #cuarentenatime, #confinamiento"
   - username: "irenecocinaparati"
     fullname: >-
       Irene Requena
     location: "Spain"
-    followers: 32755
-    engagement: 505
-    commentsToLikes: 0.262129
+    followers: 37904
+    engagement: 444
+    commentsToLikes: 0.277354
     id: ck5hhqgrr9l7o0i116joeraph
     verified: false
-    hashtags: "#anis, #frambuesas, #chocolate, #seafood"
+    hashtags: "#meat, #nutella, #vasos, #somgastronomia"
   - username: "carles_castillejo"
     fullname: >-
       Carles
     location: "Spain"
-    followers: 32067
-    engagement: 400
-    commentsToLikes: 0.019302
+    followers: 32513
+    engagement: 393
+    commentsToLikes: 0.029431
     id: ck5c0gpdut3pg0i11sc9upqfg
     verified: true
-    hashtags: "#castinosepara, #castitraining, #athletics, #correr"
-  - username: "barcelonainspira"
+    hashtags: "#casticoach, #hamstring, #trainning, #trail"
+  - username: "luciasday"
     fullname: >-
-      By Anita Jiménez
+      LUCIA
     location: "Spain"
-    followers: 43335
-    engagement: 76
-    commentsToLikes: 0.108820
-    id: ck0vwawmhsvps0i197wwotb5a
+    followers: 12889
+    engagement: 534
+    commentsToLikes: 0.071927
+    id: ck6uc6313dqmy0j71imo0n3ab
     verified: false
-    hashtags: "#coronavirusespa, #stayhome, #home, #cocktails"
+    hashtags: "#sunglasses, #rome, #cluse, #aimnsportswear"
   - username: "peinetapintxos"
     fullname: >-
       Peineta & Pintxos ⚡💃Nerea💃⚡
     location: "Spain"
-    followers: 16057
-    engagement: 272
-    commentsToLikes: 0.144486
+    followers: 19375
+    engagement: 898
+    commentsToLikes: 0.784081
     id: ck5zoqsh3r4t60i14rrxs6bqw
     verified: false
-    hashtags: "#digitalmom, #conmiradademadre, #neskatillapower, #women"
+    hashtags: "#celebracion, #puericultura, #summertoys, #fundasiphone"
   - username: "dontworrybecamper"
     fullname: >-
       Eric & Mari ✱ Travel Couple
     location: "Spain"
-    followers: 23158
-    engagement: 609
-    commentsToLikes: 0.039251
+    followers: 23445
+    engagement: 586
+    commentsToLikes: 0.048723
     id: ck5qegsce0evv0i11xl9jepwu
     verified: false
-    hashtags: "#girona, #vacations, #lightroompresets, #viajar"
-  - username: "tulipwonderland_"
+    hashtags: "#cityscape, #vacationmode, #travelbloggers, #santjordi"
+  - username: "mylifesatravelmovie"
     fullname: >-
-      TulipWonderland
+      Alyssa Ramos 🌎 Travel + Life
     location: "Spain"
-    followers: 11194
-    engagement: 555
-    commentsToLikes: 0.241666
-    id: ck8tcw34e0wpn0j78ji9gl0e9
-    verified: false
-    hashtags: "#birras, #photoshoot, #love, #catalunya"
-  - username: "nof_travel"
+    followers: 213859
+    engagement: 109
+    commentsToLikes: 0.067459
+    id: ck0tx8b4si7jf0i19swozu03e
+    verified: true
+    hashtags: "#hanggliding, #amazonjungle, #goldenhour, #mothersday2020"
+  - username: "angelroman98"
     fullname: >-
-      Nofit  | Travel blogger
+      Angel Roman🔥
     location: "Spain"
-    followers: 6391
-    engagement: 1074
-    commentsToLikes: 0.366391
-    id: ck13cnh24180y0i1931zzvoki
+    followers: 3775
+    engagement: 1324
+    commentsToLikes: 0.025788
+    id: ck5cbvsc2g98c0i11hz0frqjp
     verified: false
-    hashtags: "#bloggertips, #maldivesislands, #londonveganguide, #londontravelblogger"
-  - username: "gibfashion"
-    fullname: >-
-      Gibelis Finol
-    location: "Spain"
-    followers: 102452
-    engagement: 138
-    commentsToLikes: 0.069663
-    id: ck5py0kf3tr3w0i112f9qw427
-    verified: false
-    hashtags: "#basicstyle, #pensamientos, #barcelonagirl, #montjuic"
+    hashtags: "#burberry, #menmodel, #dark, #fashionstyle"
 ---

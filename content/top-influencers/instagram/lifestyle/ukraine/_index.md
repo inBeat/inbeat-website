@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Ukraine in 2020. Most popular hashtags: #fyp #foryoupage #onetickettoisrael #quarantinepillowchallenge.
+  Find top lifestyle Instagram influencers in Ukraine in 2020. Most popular hashtags: # #pillowchallenge #airforce1shadow #lutskgirl.
 platform: Instagram
 profiles:
-  - username: "_verbaaa_"
+  - username: "nastiaminiailo"
     fullname: >-
-      YULIA VERBYNETS
+      𝙸𝙽𝚂𝚃𝙰𝙶𝙸𝚁𝙻 🥀
     location: "Ukraine"
-    followers: 1642962
-    engagement: 1603
-    commentsToLikes: 0.016939
-    id: ck6tv30k2jvue0j71kj73mbne
+    followers: 11049
+    engagement: 882
+    commentsToLikes: 0.094804
+    id: ck9hbr5aii4ji0j78hy5zibns
     verified: false
-    hashtags: "#quarantinepillowchallenge"
+    hashtags: ""
   - username: "dima_bychick"
     fullname: >-
       DIMA BYCHICK
     location: "Ukraine"
-    followers: 115802
-    engagement: 693
-    commentsToLikes: 0.019044
+    followers: 120610
+    engagement: 765
+    commentsToLikes: 0.019591
     id: ck14i5o7ydrgl0i19l2nf573k
     verified: false
-    hashtags: "#nclgallery, #vintageclothes, #minimalfashion, #jadon"
-  - username: "yermnko"
+    hashtags: "#latrika, #massnoun, #marshallheadphones, #otheruk"
+  - username: "mariana_oleksik"
     fullname: >-
-      Фотограф Roman Yeremenko
+      Mariana Oleksik
     location: "Ukraine"
-    followers: 16125
-    engagement: 684
-    commentsToLikes: 0.044954
-    id: ck15t1q6nfwpn0i19s9kca63v
+    followers: 9080
+    engagement: 798
+    commentsToLikes: 0.109645
+    id: ckap27uy6xr8r0i78ntml2otv
     verified: false
-    hashtags: "#srilanka, #ella, #winefestival, #foodphotography"
+    hashtags: ""
+  - username: "verbaaa"
+    fullname: >-
+      YULIA VERBYNETS
+    location: "Ukraine"
+    followers: 1517548
+    engagement: 1215
+    commentsToLikes: 0.010268
+    id: ck6tv30k2jvue0j71kj73mbne
+    verified: false
+    hashtags: ""
   - username: "marie_latte"
     fullname: >-
-      Мария
+      Marie Latte
     location: "Ukraine"
-    followers: 88316
-    engagement: 182
-    commentsToLikes: 0.097496
+    followers: 89493
+    engagement: 214
+    commentsToLikes: 0.073043
     id: ck0w5yfa8618m0i19px7020ml
     verified: false
-    hashtags: "#pillowchallenge, #quarantinepillowchallenge, #onetickettoisrael, #nailsstory"
+    hashtags: "#workout, #pillowchallenge, #quarantinepillowchallenge, #morethanclothes"
+  - username: "yuliya_kaminska_"
+    fullname: >-
+      Yuliya
+    location: "Ukraine"
+    followers: 31320
+    engagement: 231
+    commentsToLikes: 0.077744
+    id: ckaowv0h5akhg0i78lmq3d3cx
+    verified: false
+    hashtags: "#sunbbv57, #mothersday, #quarantinelife, #dubai"
   - username: "olgazadorozhnaa"
     fullname: >-
       olya
     location: "Ukraine"
-    followers: 27352
-    engagement: 904
-    commentsToLikes: 0.014689
+    followers: 26440
+    engagement: 912
+    commentsToLikes: 0.016377
     id: ck5q3y9a3mx0d0i11bp1gwrhc
     verified: false
-    hashtags: "#guzemajewelry, #thewedgiedance, #shuffledance, #1msportru"
-  - username: "anna_prytulaaa"
+    hashtags: "#nomakeup, #guzemajewelry, #lightmyfirecollection"
+  - username: "anastasiiia.kos"
     fullname: >-
-      🥀𝓐𝓷𝓷𝓪 𝓟𝓻𝔂𝓽𝓾𝓵𝓪𝓪𝓪 🥀
+      𝒜𝓃𝒶𝓈𝓉𝒶𝓈𝒾𝒶 𝒦𝑜𝓈𝓉𝓎𝓊𝓀
     location: "Ukraine"
-    followers: 618972
-    engagement: 1149
-    commentsToLikes: 0.007373
-    id: ck55k0xlby7mz0i11qhnwcftk
+    followers: 44882
+    engagement: 443
+    commentsToLikes: 0.035160
+    id: ck0w1eh5yixs70i19slug998e
     verified: false
-    hashtags: "#quarantinepillowchallenge, #pillow, #mini, #hallsminimints"
-  - username: "dushnaandriana"
-    fullname: >-
-      Andriana Dushna
-    location: "Ukraine"
-    followers: 59197
-    engagement: 248
-    commentsToLikes: 0.042908
-    id: ck0w1vkw7lcge0i19tkg05ex0
-    verified: false
-    hashtags: "#liketime, #dushnaandriana"
-  - username: "recklesstonight"
-    fullname: >-
-      Danil Burdyliak
-    location: "Ukraine"
-    followers: 145325
-    engagement: 117
-    commentsToLikes: 0.102107
-    id: ck8t10qlfu1i40j78l075elwb
-    verified: false
-    hashtags: ""
-  - username: "tim_masha"
-    fullname: >-
-      𝗠𝗔𝗦𝗛𝗔  𝗧𝗜𝗠𝗢𝗦𝗛𝗘𝗡𝗞𝗢
-    location: "Ukraine"
-    followers: 677642
-    engagement: 659
-    commentsToLikes: 0.005370
-    id: ck13c3hiryfuo0i19tq10dvhf
-    verified: false
-    hashtags: ""
+    hashtags: "#2months, #pillowchallenge, #actbeautiful"
   - username: "ekaterinadronnikova"
     fullname: >-
       K A T Y A
     location: "Ukraine"
-    followers: 30370
-    engagement: 523
-    commentsToLikes: 0.019358
+    followers: 30605
+    engagement: 474
+    commentsToLikes: 0.029768
     id: ck55lpryl24gt0i11nwf4xax2
     verified: false
-    hashtags: "#giraffe, #miami, #bagamas, #beachlife"
+    hashtags: "#facetimephotoshoot, #facetimeshooting, #facetimephotochallenge, #pillowchallenge"
+  - username: "recklesstonight"
+    fullname: >-
+      𝒟𝒶𝓃𝒾𝑒l 𝐵𝓊𝓇𝒹𝓎𝓁𝒾𝒶𝓀
+    location: "Ukraine"
+    followers: 140774
+    engagement: 126
+    commentsToLikes: 0.092764
+    id: ck8t10qlfu1i40j78l075elwb
+    verified: false
+    hashtags: "#liketime"
 ---

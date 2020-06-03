@@ -1,107 +1,107 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Colombia In 2020
 description: >-
-  Find top barbers Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #humor #barber #cartagena.
+  Find top barbers Instagram influencers in Colombia in 2020. Most popular hashtags: #bogota #barber #motivation #argentina.
 platform: Instagram
 profiles:
-  - username: "alebarber.18"
-    fullname: >-
-      Alєхαηdєr Acσsтα ✪ |📍UY🌎
-    location: "Colombia"
-    followers: 4204
-    engagement: 1293
-    commentsToLikes: 0.060625
-    id: ck5zn1d9tnlbv0i14fy6dmd98
-    verified: false
-    hashtags: "#makeup, #sickestbarbers, #barber4life, #barberos"
   - username: "barberjuantattoo"
     fullname: >-
       🚨ⓉⒶⓉⓉⓄⓄ ⒷⒶⓇⒷⒺⓇ🚨
     location: "Colombia"
-    followers: 46160
-    engagement: 648
-    commentsToLikes: 0.061757
+    followers: 50205
+    engagement: 568
+    commentsToLikes: 0.090494
     id: ck5pw2nqbkt3m0i11nf33totz
     verified: false
-    hashtags: "#guccigang, #esskeetit, #detalles, #realista"
+    hashtags: "#esskeetit, #fuckcovid19, #quieriomicombodebarberia, #siempremellama"
+  - username: "iamdavidfalla"
+    fullname: >-
+      David Falla
+    location: "Colombia"
+    followers: 59762
+    engagement: 176
+    commentsToLikes: 0.038215
+    id: ck5hjwtjmhdyo0i11b5192zky
+    verified: false
+    hashtags: "#babyhulk, #mensfashion, #headsheets, #wahlpro"
   - username: "bryanromerog"
     fullname: >-
       Bryan Romero
     location: "Colombia"
-    followers: 9507
-    engagement: 781
-    commentsToLikes: 0.075108
+    followers: 9365
+    engagement: 780
+    commentsToLikes: 0.069723
     id: ck5pziv9a16y70i110jfnb26s
     verified: false
-    hashtags: "#christmas2019, #brasil, #argentina, #fitness"
+    hashtags: "#velez, #hairstyle, #korn, #workout"
   - username: "maicolbarber"
     fullname: >-
       𝐌𝐀𝐈𝐊𝐈𝐋𝐋𝐄𝐑 🤴🏻
     location: "Colombia"
-    followers: 45630
-    engagement: 828
-    commentsToLikes: 0.044612
+    followers: 52292
+    engagement: 764
+    commentsToLikes: 0.066446
     id: ck6tl19tr5sdr0j715somc7n2
     verified: false
-    hashtags: "#tbt, #fuckcovid19, #quedateencasa, #colombia"
+    hashtags: "#otronivel, #maikiller, #lunes, #desdecasa"
+  - username: "redonewaxofficial"
+    fullname: >-
+      Redone USA
+    location: "Colombia"
+    followers: 37459
+    engagement: 297
+    commentsToLikes: 1.835839
+    id: ck5bziwc5r8f70i11o24w94qt
+    verified: false
+    hashtags: "#freestyle, #braids, #fresh, #miami"
   - username: "fade.uy"
     fullname: >-
-      👑 CAMBIANDO LA MONOTONIA 👑
+      👹 ＴＨΞ ＧΛＭΞ ＣＨΛＮＧΞＲ  👹
     location: "Colombia"
-    followers: 4911
-    engagement: 648
-    commentsToLikes: 0.027900
+    followers: 18604
+    engagement: 395
+    commentsToLikes: 0.030550
     id: ck8t3j1133f570j78edh2ta7l
     verified: false
-    hashtags: "#barbersworldwide, #barberpromote, #barbers, #worldofbarbers"
-  - username: "dimelovillaaa"
+    hashtags: "#brasilbarbers, #barbervideos, #fadeuy, #barbersinctv"
+  - username: "losbroscol"
     fullname: >-
-      PequeñoCalvin👶🏽⚽️Ñau 🔥
+      LosBrosCol 🇨🇴
     location: "Colombia"
-    followers: 6059
-    engagement: 996
-    commentsToLikes: 0.124643
-    id: ck6tk6mbj43nl0j71jligbng5
+    followers: 63098
+    engagement: 427
+    commentsToLikes: 0.071075
+    id: ck5pw28mgkqw40i11vrypnn61
     verified: false
-    hashtags: "#armenia, #asison, #mujeres, #mejoresamigas"
+    hashtags: "#challenge, #covid19, #latinos, #calvos"
   - username: "luismatfv"
     fullname: >-
       LUISMA
     location: "Colombia"
-    followers: 7700
-    engagement: 493
-    commentsToLikes: 0.071314
+    followers: 7705
+    engagement: 519
+    commentsToLikes: 0.079484
     id: ck602xwibjx820i14clzds4w6
     verified: false
-    hashtags: ""
-  - username: "albert_robles__"
+    hashtags: "#musica"
+  - username: "michelleborreromb"
     fullname: >-
-      Albert Robles
+      🖤𝓜𝓑🖤
     location: "Colombia"
-    followers: 25929
-    engagement: 392
-    commentsToLikes: 0.027567
-    id: ck55q9uttcmrq0i11fpqg5jiz
+    followers: 31489
+    engagement: 280
+    commentsToLikes: 0.017271
+    id: ck8sxu1i6inum0j78jcedares
     verified: false
-    hashtags: "#botanicalgardens, #snow, #holidays, #3years"
-  - username: "luva_23"
+    hashtags: "#yomequedoencasa, #amorpropio, #tbt, #recordaresvivir"
+  - username: "djchocobeats"
     fullname: >-
-      🌎🌎🌎LUVA🌎🌎🌎
+      Dj Choco Beats
     location: "Colombia"
-    followers: 3040
-    engagement: 887
-    commentsToLikes: 0.080106
-    id: ck5pw38zykvx10i11o9xo47ru
+    followers: 5448
+    engagement: 410
+    commentsToLikes: 0.107242
+    id: ck14lpz4pvwn70i192wbei7la
     verified: false
-    hashtags: "#ripkobebryant, #trabajando, #medellin, #colombia"
-  - username: "arruestebananaya"
-    fullname: >-
-      Esteban Anaya
-    location: "Colombia"
-    followers: 36011
-    engagement: 345
-    commentsToLikes: 0.049922
-    id: ck0u0kfieu3fv0i19xca5fqc1
-    verified: false
-    hashtags: "#chepefortuna, #parodia, #colombia, #santamarta"
+    hashtags: "#viral, #realdj, #bands, #real"
 ---

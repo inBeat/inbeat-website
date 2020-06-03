@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Argentina In 2020
 description: >-
-  Find top gaming Instagram influencers in Argentina in 2020. Most popular hashtags: #gaming #gamer #nintendo #nintendoswitch.
+  Find top gaming Instagram influencers in Argentina in 2020. Most popular hashtags: #gaming #gamer #cuarentena #coronavirus.
 platform: Instagram
 profiles:
+  - username: "santisneux"
+    fullname: >-
+      Sneux
+    location: "Argentina"
+    followers: 47541
+    engagement: 1417
+    commentsToLikes: 0.025705
+    id: ck8t2vi2e0upo0j78yb8yj82f
+    verified: false
+    hashtags: "#caawards"
+  - username: "papisosa0"
+    fullname: >-
+      PapiSosa
+    location: "Argentina"
+    followers: 18431
+    engagement: 597
+    commentsToLikes: 0.059194
+    id: ck5c5rl3p40rq0i11rrvycey4
+    verified: false
+    hashtags: "#lppexperience, #photooftheday, #leagueoflegends, #picoftheday"
   - username: "trustgaminglatam"
     fullname: >-
       Trust Gaming Latin America
     location: "Argentina"
-    followers: 47827
-    engagement: 530
-    commentsToLikes: 0.353620
+    followers: 83421
+    engagement: 870
+    commentsToLikes: 0.289606
     id: ck5c48f5u0tcs0i11501oub35
     verified: false
-    hashtags: "#sorteo, #hotelmario, #especial, #mouses"
-  - username: "sheissoheavy"
+    hashtags: "#playstation, #nintendo64, #misi, #residentevil"
+  - username: "karimjuega"
     fullname: >-
-      мєℓιѕѕα exx 🖤🔪
+      Karim Juega ⭐
     location: "Argentina"
-    followers: 20056
-    engagement: 546
-    commentsToLikes: 0.129482
-    id: ck5q7qxm72q4n0i110ij541gr
+    followers: 54469
+    engagement: 681
+    commentsToLikes: 0.093024
+    id: ck14lcuxwu10v0i195ky8zqir
     verified: false
-    hashtags: "#summer, #spa, #playstation, #verano"
-  - username: "lailabarbara_"
+    hashtags: "#cuarentena, #youtubemexico, #gracias, #instagtam"
+  - username: "alfredito_lcda"
     fullname: >-
-      𝕷𝖆𝖎 🌙
+      Alfredito / Thaiel
     location: "Argentina"
-    followers: 12282
-    engagement: 1766
-    commentsToLikes: 0.021981
-    id: ck5pwnl6onokn0i11ukxzzx4v
+    followers: 79040
+    engagement: 833
+    commentsToLikes: 0.014883
+    id: ck5cazy2gegb80i112cp8h8h4
     verified: false
-    hashtags: "#leagueoflegends, #thebeatles, #raices, #hairstyle"
-  - username: "nintenduo"
+    hashtags: "#playstation, #cuarentonas, #respect, #sega"
+  - username: "shiro.mx"
     fullname: >-
-      NintenDúo
+      𝐒𝐡𝐢𝐫𝐨 𝐦𝐱
     location: "Argentina"
-    followers: 30520
-    engagement: 865
-    commentsToLikes: 0.061716
-    id: ck5pvag8mgx3h0i1113l9r498
+    followers: 54843
+    engagement: 872
+    commentsToLikes: 0.073241
+    id: ck8td4z761wc70j78rfpnj0ve
     verified: false
-    hashtags: "#fireemblemmemes, #cute, #mario64, #sorteonintendoswitch"
-  - username: "carlosnadera"
+    hashtags: "#freefireparody, #freefirebooyah, #garenaaovid, #gaming"
+  - username: "aaronkoenigs"
     fullname: >-
-      Carlos Nader Argumedo
+      Aaron Koenigs
     location: "Argentina"
-    followers: 161524
-    engagement: 442
-    commentsToLikes: 0.229733
-    id: ck5hs40b6vy9d0i11bueuq2fd
-    verified: false
-    hashtags: "#team, #catstagrami, #fortniteesp, #humor"
-  - username: "yanina.chiesa"
-    fullname: >-
-      Yanina Chiesa
-    location: "Argentina"
-    followers: 96407
-    engagement: 306
-    commentsToLikes: 0.029093
-    id: ck13cn3gx160c0i19eki9n4xe
+    followers: 47260
+    engagement: 1182
+    commentsToLikes: 0.018522
+    id: ck5zqt9kav9360i14x1gegk4n
     verified: true
-    hashtags: "#lanadelrey, #pudin, #huespedrockyou, #shameless"
-  - username: "retro.fantasy"
+    hashtags: "#newtomorrow, #takemeback, #colours, #blond"
+  - username: "carowiza"
     fullname: >-
-      Retro Fantasy
+      ❄️ Ｃａｒｏｗｉｚａ❄️
     location: "Argentina"
-    followers: 11525
-    engagement: 429
-    commentsToLikes: 0.037598
-    id: ck8t3d0jh2sw20j78jc98lisv
+    followers: 10572
+    engagement: 680
+    commentsToLikes: 0.036700
+    id: ckaovu41c66bx0i78ifq3swts
     verified: false
-    hashtags: "#manga, #retrogames, #instagames, #persona"
-  - username: "yet.tattoo"
+    hashtags: "#calendario, #esports, #green, #setup"
+  - username: "byantofazio"
     fullname: >-
-      Francisco ✨
+      Antonella Fazio
     location: "Argentina"
-    followers: 9932
-    engagement: 411
-    commentsToLikes: 0.037381
-    id: ck5hp6fp2qtxn0i119wzzkal4
+    followers: 22690
+    engagement: 1067
+    commentsToLikes: 0.777851
+    id: ckapcgeid3pg70i78dc8prm2g
     verified: false
-    hashtags: "#pantera, #athenas, #bodyart, #tigertattoo"
-  - username: "nintenderosweb"
+    hashtags: "#streamer, #hydrating, #makeupoftheday, #outdoor"
+  - username: "kori.yt"
     fullname: >-
-      Nintenderos.com
+      Kori
     location: "Argentina"
-    followers: 39710
-    engagement: 533
-    commentsToLikes: 0.127218
-    id: ck8t3cyfo2sm20j78146shhnx
-    verified: true
-    hashtags: "#pokemoncoco, #legendofzelda, #remake, #fecha"
-  - username: "cafemaguana"
-    fullname: >-
-      Café Maguana
-    location: "Argentina"
-    followers: 29883
-    engagement: 327
-    commentsToLikes: 0.098979
-    id: ck6u8lj43sanr0j71242vnsjd
+    followers: 44794
+    engagement: 578
+    commentsToLikes: 0.070745
+    id: ck14lcuxlu10d0i19o1hslkpt
     verified: false
-    hashtags: "#coffeememes, #wedotheyfollow, #recetas, #coffeechamps"
+    hashtags: "#bodas2020, #novios, #suscriptores, #gaming"
 ---

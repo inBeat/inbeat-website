@@ -1,16 +1,16 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top fitness Instagram influencers in Brisbane in 2020. Most popular hashtags: #brisbane #fitness #goldcoast #fashion.
+  Find top fitness Instagram influencers in Brisbane in 2020. Most popular hashtags: #fitness #style #brisbane #coffee.
 platform: Instagram
 profiles:
   - username: "tiahli.poelingoer"
     fullname: >-
       T
     location: "Australia"
-    followers: 2922
-    engagement: 899
-    commentsToLikes: 0.076572
+    followers: 2966
+    engagement: 898
+    commentsToLikes: 0.082812
     id: ck5bzhffnr5e90i1143hy6wua
     verified: false
     hashtags: ""
@@ -18,90 +18,90 @@ profiles:
     fullname: >-
       Rachel Thaiday
     location: "Australia"
-    followers: 16316
-    engagement: 183
-    commentsToLikes: 0.045590
+    followers: 16317
+    engagement: 185
+    commentsToLikes: 0.038158
     id: ck5c5mwgv3s0y0i11ad78wen6
     verified: false
-    hashtags: "#bekind, #inkgin, #smoothietime, #saturdayfun"
-  - username: "jackreed3"
+    hashtags: "#throwbackthaiday, #dailyroutine, #cantwait, #goodhairday"
+  - username: "fitbae__"
     fullname: >-
-      Reedy
+      fitbae • Shea
     location: "Australia"
-    followers: 28941
-    engagement: 173
-    commentsToLikes: 0.013769
-    id: ck5c9uaagc4ze0i11dubniiu3
+    followers: 2602
+    engagement: 900
+    commentsToLikes: 0.167076
+    id: ck5zsabm9y4640i142ygm2qdd
     verified: false
-    hashtags: "#oldboys, #dipper, #unitycollege, #dadjokes"
-  - username: "trainedbylany"
+    hashtags: "#lilybod, #lilybodbabe"
+  - username: "raimeeleigh.fitfood"
     fullname: >-
-      LANY HERMAN
+      Raimee Leigh Brook
     location: "Australia"
-    followers: 4090
-    engagement: 898
-    commentsToLikes: 0.119010
-    id: ck5hlkjzkkdsh0i117aoayc3q
+    followers: 15716
+    engagement: 695
+    commentsToLikes: 0.698724
+    id: ck13cn5e616ac0i19f96d4uj9
     verified: false
-    hashtags: "#teamfaster, #internationalwomensday, #consistency, #change"
-  - username: "melgreen_x"
+    hashtags: "#auntbettys, #plantlifefoodco, #glutenfree, #magimix"
+  - username: "chelseamitchell_99x"
     fullname: >-
-      BIKINI PRO 👙 PEScience Athlete
+      CHELSEA MITCHELL
     location: "Australia"
-    followers: 49622
-    engagement: 107
-    commentsToLikes: 0.149294
-    id: ck6tykp8j4at90j71h28e8yqi
+    followers: 32226
+    engagement: 177
+    commentsToLikes: 0.014226
+    id: ckaorou2no5zz0i789yvi2i6f
     verified: false
-    hashtags: "#classycasual, #oxygenmagazine, #sunshine, #macros"
-  - username: "themagicalozfamily"
+    hashtags: "#latte, #personalstyle, #minimalismo, #homestyling"
+  - username: "scottprince7"
     fullname: >-
-      🌟🇦🇺 𝗧𝗵𝗲 𝗠𝗮𝗴𝗶𝗰𝗮𝗹 𝗢𝘇 𝗙𝗮𝗺𝗶𝗹𝘆 🇦🇺 🌟
+      scottprince7
     location: "Australia"
-    followers: 21256
-    engagement: 256
-    commentsToLikes: 0.129164
-    id: ck5heb7fms0k80i11budywgdn
-    verified: false
-    hashtags: "#onlineweightlossprogram, #perthmums, #familylifeaustralia, #socialmedia"
-  - username: "nicola.crisa"
+    followers: 42470
+    engagement: 126
+    commentsToLikes: 0.019474
+    id: ck55n9n3l5r5e0i1192990dps
+    verified: true
+    hashtags: "#rugbyleague, #2007, #supersaturdaysession, #rebelrunning"
+  - username: "morgsfit"
     fullname: >-
-      Dancer / Model / Actor
+      Morgan Dor | Fitness Model
     location: "Australia"
-    followers: 226213
-    engagement: 203
-    commentsToLikes: 0.038912
-    id: ck0vw7sizshir0i19f5zzfy9f
+    followers: 5749
+    engagement: 1852
+    commentsToLikes: 0.086208
+    id: ck9haszqte0200j78nmeaj38h
     verified: false
-    hashtags: "#croptop, #flourphotoshoot, #photoshootready, #tennis"
+    hashtags: ""
   - username: "jade.syrett"
     fullname: >-
       JADE
     location: "Australia"
-    followers: 50814
-    engagement: 333
-    commentsToLikes: 0.059239
+    followers: 56325
+    engagement: 259
+    commentsToLikes: 0.061708
     id: ck13a1y82o8060i19gci5msnb
     verified: false
-    hashtags: "#brisbanemodel, #portraitmood, #nightout, #sport"
-  - username: "laurine_ncra"
+    hashtags: "#surf, #portraitpage, #aussiegirls, #selfietime"
+  - username: "islarosesinclair"
     fullname: >-
-      Laurine 🇫🇷 🇮🇹
+      Isla Rose Sinclair
     location: "Australia"
-    followers: 3269
-    engagement: 2319
-    commentsToLikes: 0.035924
-    id: ck15s78ikbkro0i19olmw68j9
+    followers: 21519
+    engagement: 487
+    commentsToLikes: 0.123222
+    id: ck6tmpuu88aql0j71a7h5ru4u
     verified: false
-    hashtags: "#longhair, #cosmetics, #french, #girl"
-  - username: "jade.tarrant"
+    hashtags: "#longhairstyles, #autumnfashion, #skates, #models"
+  - username: "lachlanfort"
     fullname: >-
-      J A D E  T A R R A N T
+      LOCKY ZEE
     location: "Australia"
-    followers: 12479
-    engagement: 1098
-    commentsToLikes: 0.048804
-    id: ck5hqnz3ktf3e0i11q9smmfzr
+    followers: 2209
+    engagement: 1541
+    commentsToLikes: 0.080169
+    id: ckaoqq89njuy10i78l3a9soeh
     verified: false
-    hashtags: "#fashion, #beachshoot, #boating, #mensfashion"
+    hashtags: "#flight, #wakeupcall, #breakfast, #energy"
 ---

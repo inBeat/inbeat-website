@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top photographers Instagram influencers in Indonesia in 2020. Most popular hashtags: #fujifilm #pursuitofportraits #travel #dirumahaja.
+  Find top photographers Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #facetimephotoshoot #stayathome #caferacer.
 platform: Instagram
 profiles:
-  - username: "galantnyy"
+  - username: "gelgasairlangga"
     fullname: >-
-      Grisha Galantnyy
+      Photographer Bali
     location: "Indonesia"
-    followers: 5369
-    engagement: 881
-    commentsToLikes: 0.039155
-    id: ck134el0nw2i60i19t2bpe1ox
+    followers: 10771
+    engagement: 1744
+    commentsToLikes: 0.056694
+    id: ck8t2nmyw03vt0j78xas8qnk1
     verified: false
-    hashtags: "#manhattan, #italy, #vacation, #myanmar"
-  - username: "samuelyonireceivaa"
+    hashtags: "#tiktokindonesia, #tumblrlove, #creativemakeup, #photoshoot"
+  - username: "thewayfaress"
     fullname: >-
-      Samuel Yoni Receiva Amarthani
+      Alexandra Saper | Travel&Life
     location: "Indonesia"
-    followers: 10938
-    engagement: 2917
-    commentsToLikes: 0.065931
-    id: ck5hq9woksr7v0i11b8rvfq1l
+    followers: 107000
+    engagement: 495
+    commentsToLikes: 0.049017
+    id: ck0w1lom8jyqe0i198rkg3j0p
     verified: false
-    hashtags: "#jadidirisendiri, #hidupyangberdampak, #uripkuduurupyenurupmestiurip, #2020"
-  - username: "fntgrphy"
+    hashtags: "#ad, #indoorsurvivalguide, #likewiseapp"
+  - username: "juliatreg"
     fullname: >-
-      Fiant Sinatra 🇲🇨
+      Julia Tregubova
     location: "Indonesia"
-    followers: 17549
-    engagement: 1322
-    commentsToLikes: 0.064743
-    id: ck138o8w8h7620i196q4ilhr5
+    followers: 89886
+    engagement: 419
+    commentsToLikes: 0.046881
+    id: ck5bypabxpkt50i11zg55mm8q
     verified: false
-    hashtags: "#fujifilm, #xf23mmf14, #xf56mmf12, #dirtybootsandmessyhair"
-  - username: "laelypassions"
-    fullname: >-
-      Laely Indah Lestari d.f
-    location: "Indonesia"
-    followers: 4594
-    engagement: 1446
-    commentsToLikes: 0.159340
-    id: ck5c9byuzb5s90i11nsa7sok7
-    verified: false
-    hashtags: "#palembanginsta, #tongkonantoraja, #sumbaisland, #tariankabokang"
-  - username: "sofyansap"
-    fullname: >-
-      Sofyan Pratama
-    location: "Indonesia"
-    followers: 18356
-    engagement: 928
-    commentsToLikes: 0.027458
-    id: ck0w5regw52b60i1940ang9d1
-    verified: false
-    hashtags: "#postthepeople, #ootd, #kolaborasi, #lokalbrand"
+    hashtags: "#facetimephotoshoot, #facetimephotochallenge, #webphotography"
   - username: "raygene_coco"
     fullname: >-
       
     location: "Indonesia"
-    followers: 5215
-    engagement: 1596
-    commentsToLikes: 0.037615
+    followers: 5627
+    engagement: 1717
+    commentsToLikes: 0.041958
     id: ck55k6euuyl180i1166eqdlq2
     verified: false
-    hashtags: "#caferacergirls, #ridemotorcycleshavefun, #w175indonesia, #canon7dmark2"
-  - username: "haighani"
+    hashtags: "#motolifestyle, #kawasakiw175, #customgirls, #caferacer"
+  - username: "riandianp_"
     fullname: >-
-      Abdul Ghani
+      Riandi Angga Permana
     location: "Indonesia"
-    followers: 60034
-    engagement: 573
-    commentsToLikes: 0.033309
-    id: ck0vwlhg9udyz0i19p58pbxjd
+    followers: 2801
+    engagement: 1590
+    commentsToLikes: 0.250857
+    id: ck5zyu86majco0i14zhw2rrrw
     verified: false
-    hashtags: "#staywithme, #gofujifilm, #xt30, #fujifilm"
-  - username: "nicknaida"
+    hashtags: "#marhabanyaramadhan, #dirumahaja, #happyeidmubarak, #idulfitri1441h"
+  - username: "lalisakim"
     fullname: >-
-      Nikita Naida
+      Lalisa 🤍
     location: "Indonesia"
-    followers: 38626
-    engagement: 707
-    commentsToLikes: 0.022192
-    id: ck0txq0d3k39m0i198c3ymi32
+    followers: 8395
+    engagement: 792
+    commentsToLikes: 0.077070
+    id: ck9wdvcqrhfih0j78076a3uj5
     verified: false
-    hashtags: "#parisfashionweek, #ukrainefashion, #fashionweek, #shithappens"
+    hashtags: "#sudio, #sudiomoments"
+  - username: "qesahmed"
+    fullname: >-
+      q e s
+    location: "Indonesia"
+    followers: 32744
+    engagement: 936
+    commentsToLikes: 0.024550
+    id: ck1392fb5j6hr0i19hv5tejaw
+    verified: false
+    hashtags: "#colourgrade, #canonphotography, #cigarette, #wanderlust"
   - username: "abdillahhw"
     fullname: >-
       Abdillahhw | Travel Enthusiast
     location: "Indonesia"
-    followers: 12662
-    engagement: 653
-    commentsToLikes: 0.070862
+    followers: 13347
+    engagement: 741
+    commentsToLikes: 0.071472
     id: ck6uadian2y320j71t0xbf3k4
     verified: false
-    hashtags: "#stayhome, #workfromhome, #upifightcovid19, #dirumahaja"
-  - username: "photographbyleon"
+    hashtags: "#ramadhan, #secretclean, #ramadandirumahaja, #lebarandirumahaja"
+  - username: "haighani"
     fullname: >-
-      Léon Wodtke Photography 📸
+      Abdul Ghani
     location: "Indonesia"
-    followers: 2745
-    engagement: 1370
-    commentsToLikes: 0.311899
-    id: ck6ts2hjf2dt30j71y45cnmgj
+    followers: 58948
+    engagement: 619
+    commentsToLikes: 0.032767
+    id: ck0vwlhg9udyz0i19p58pbxjd
     verified: false
-    hashtags: "#leonwodtkephotography, #photographbyleon"
+    hashtags: "#lawancovid19, #untiltomorrow, #dirumahaja, #stayhome"
+  - username: "wisnuandreson"
+    fullname: >-
+      W I S N U
+    location: "Indonesia"
+    followers: 101903
+    engagement: 214
+    commentsToLikes: 0.120910
+    id: ckaoslrlks0h70i78ac4666hr
+    verified: false
+    hashtags: "#cherisyourmemories, #stayathome, #happyfastingeveryone, #sehatdirumah"
 ---

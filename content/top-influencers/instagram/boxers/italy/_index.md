@@ -1,26 +1,36 @@
 ---
 title: Top 10 Boxers Instagram Influencers In Italy In 2020
 description: >-
-  Find top boxers Instagram influencers in Italy in 2020. Most popular hashtags: #boxing #love #iorestoacasa #boxer.
+  Find top boxers Instagram influencers in Italy in 2020. Most popular hashtags: #boxer #iorestoacasa #sport #italy.
 platform: Instagram
 profiles:
-  - username: "guidovianello"
+  - username: "monique_bovino"
     fullname: >-
-      Guido Vianello
+      MONIQUE BOVINO
     location: "Italy"
-    followers: 39122
-    engagement: 664
-    commentsToLikes: 0.024738
-    id: ck1379hhdafun0i19vlc1qbv2
-    verified: true
-    hashtags: "#nextmatch, #6ko, #boxing, #life"
+    followers: 8545
+    engagement: 558
+    commentsToLikes: 0.027381
+    id: ckap83wd3mpvh0i78y5ingpzg
+    verified: false
+    hashtags: "#dogsofinstagram, #covid19, #boxing, #bulliesofinstagram"
+  - username: "ldgentleman"
+    fullname: >-
+      Luca “gentleman”D’ortenzi
+    location: "Italy"
+    followers: 7021
+    engagement: 644
+    commentsToLikes: 0.018705
+    id: ck6u3ldxbygch0j715hibits9
+    verified: false
+    hashtags: "#sparringday, #palombarasabina, #loveboxe, #21dicembre"
   - username: "aresfavati"
     fullname: >-
       Ares Favati
     location: "Italy"
-    followers: 20502
-    engagement: 210
-    commentsToLikes: 0.018956
+    followers: 20070
+    engagement: 212
+    commentsToLikes: 0.022990
     id: ck6u1h9vhlpyr0j715xf96qgt
     verified: false
     hashtags: "#forza"
@@ -28,80 +38,70 @@ profiles:
     fullname: >-
       Francesco Patera
     location: "Italy"
-    followers: 2149
-    engagement: 1509
-    commentsToLikes: 0.051672
+    followers: 2147
+    engagement: 1520
+    commentsToLikes: 0.051887
     id: ck5hq93txspwc0i11mvyl44kk
     verified: false
-    hashtags: "#andstill, #blessed, #andthenew, #wba"
-  - username: "ldgentleman"
-    fullname: >-
-      Luca “gentleman”D’ortenzi
-    location: "Italy"
-    followers: 7048
-    engagement: 673
-    commentsToLikes: 0.017651
-    id: ck6u3ldxbygch0j715hibits9
-    verified: false
-    hashtags: "#ufcfightnight, #picsart, #gervontadavis, #lovesport"
-  - username: "griffonismylove"
-    fullname: >-
-      Griffon Family “Royal Griff”
-    location: "Italy"
-    followers: 2926
-    engagement: 1264
-    commentsToLikes: 0.049705
-    id: ck8t6uxg6es0p0j78jxemf3bu
-    verified: false
-    hashtags: "#griffongram, #griffonlove, #stayhealthy, #beardeddogsofinstagram"
+    hashtags: "#wba, #2020, #london, #andstill"
   - username: "giorgiopetrosyan"
     fullname: >-
       Giorgio Petrosyan
     location: "Italy"
-    followers: 215493
-    engagement: 407
-    commentsToLikes: 0.009782
+    followers: 222117
+    engagement: 341
+    commentsToLikes: 0.014848
     id: ck0ubxn0ofimh0i195cp6x9iv
     verified: true
-    hashtags: "#yamamotonutrition, #milano, #iorestoacasa, #miallenoacasa"
-  - username: "andreapreti88"
+    hashtags: "#next, #24april, #match, #stoneisland"
+  - username: "bibbideg"
     fullname: >-
-      Andrea Preti
+      Bibbi Deg
     location: "Italy"
-    followers: 143003
-    engagement: 733
-    commentsToLikes: 0.003677
-    id: ck0vvy5fsrasn0i19mafpincr
-    verified: true
-    hashtags: "#relax, #violenzasulledonne, #detectivepercaso, #workout"
-  - username: "erikakirpu"
-    fullname: >-
-      Erika Kirpu
-    location: "Italy"
-    followers: 9425
-    engagement: 999
-    commentsToLikes: 0.019270
-    id: ck5zx2yfa78uk0i14p892d7uo
+    followers: 589047
+    engagement: 170
+    commentsToLikes: 0.037467
+    id: ck8wf2p49f12y0j78ew0wb5o2
     verified: false
-    hashtags: "#fencer, #havana, #fechten, #estonia"
-  - username: "willjchalker"
+    hashtags: "#gymmotivation, #sphynx, #beautytime, #langkawi"
+  - username: "giadafolcia"
     fullname: >-
-      Will Chalker
+      𝓖𝓲𝓪𝓭𝓪 𝓕𝓸𝓵𝓬𝓲𝓪
     location: "Italy"
-    followers: 15970
-    engagement: 703
-    commentsToLikes: 0.027534
-    id: ck15tnetwiy500i19x0vxt6ad
+    followers: 18414
+    engagement: 450
+    commentsToLikes: 0.062322
+    id: ck5ztybfh1cea0i14iosip5pd
     verified: false
-    hashtags: "#ardeche, #wrappedup, #magazine, #thankyou"
-  - username: "passionemotori"
+    hashtags: "#prozis, #legs, #boxing, #milan"
+  - username: "bevilacqua.giorgia10"
     fullname: >-
-      PassioneMotori
+      ⓖⓘⓞⓡⓖⓘ ♥︎
     location: "Italy"
-    followers: 125288
-    engagement: 947
-    commentsToLikes: 0.005467
-    id: ck5q5zssdvanp0i11wnd21vqg
+    followers: 11307
+    engagement: 564
+    commentsToLikes: 0.017137
+    id: ckap7g4pjjx980i781ilxqipg
     verified: false
-    hashtags: "#supra, #vtec, #rocketbunny, #renaultsport"
+    hashtags: "#marketer, #sunset, #fotodelgiorno, #curlyhair"
+  - username: "babilacap"
+    fullname: >-
+      Babila
+    location: "Italy"
+    followers: 17353
+    engagement: 323
+    commentsToLikes: 0.014134
+    id: ck15rzyf5ajoo0i1932o23way
+    verified: false
+    hashtags: "#stillrockin, #mums, #mytime, #dream"
+  - username: "diego89_ph"
+    fullname: >-
+      𝗦𝘁𝗮 𝘀𝗰𝗮𝘁𝘁𝗮𝗻𝗱𝗼... 📸
+    location: "Italy"
+    followers: 5310
+    engagement: 2554
+    commentsToLikes: 0.022058
+    id: ck15qcrrp28f80i198mgpddls
+    verified: false
+    hashtags: "#lunanuova, #chieseitaliane, #fotoritratto, #vinorosso"
 ---

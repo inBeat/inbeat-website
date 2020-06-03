@@ -1,87 +1,87 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Singapore In 2020
 description: >-
-  Find top nutrition Instagram influencers in Singapore in 2020. Most popular hashtags: #singapore #sp #stayhome #covid.
+  Find top nutrition Instagram influencers in Singapore in 2020. Most popular hashtags: #throwback #detox #giveawaysg #diethelper.
 platform: Instagram
 profiles:
   - username: "fruityemz"
     fullname: >-
       E M I L Y 👱🏻‍♀️
     location: "Singapore"
-    followers: 20799
-    engagement: 246
-    commentsToLikes: 0.185389
+    followers: 19993
+    engagement: 265
+    commentsToLikes: 0.173837
     id: ck5zjmmm0huxf0i14lwm3s26w
     verified: false
     hashtags: ""
-  - username: "qinlovesmacaronsss"
+  - username: "coolmommy_konnect"
     fullname: >-
-      мαʏα ʜᴀᴢᴇʟ ǫɪɴ マヤ • sɪɴɢᴀᴘᴏʀᴇ
+      Namita Sinha
     location: "Singapore"
-    followers: 24385
-    engagement: 512
-    commentsToLikes: 0.147471
-    id: ck6ugweze5kk90j71irog1i1v
+    followers: 6793
+    engagement: 1042
+    commentsToLikes: 0.109385
+    id: ck8syei3fkle90j78fr5e1273
     verified: false
-    hashtags: "#sgfoodie, #2019ncov, #makeuptalk, #sgeats"
+    hashtags: "#cleaningsilver, #mommybloggers, #superspicemix, #kp9850"
   - username: "lyzpopz"
     fullname: >-
       Sherly Devonne Ng 黄艺萱
     location: "Singapore"
-    followers: 43122
-    engagement: 1178
-    commentsToLikes: 0.008989
+    followers: 48334
+    engagement: 1014
+    commentsToLikes: 0.009045
     id: ck5qapi5ohlpj0i11ku22z7uk
     verified: false
-    hashtags: "#happynewyear2020, #cny2020, #nomnomnomnom, #goodbyesushiface"
+    hashtags: "#spicybae, #nutritionhelper, #throwingitback, #staystrong"
   - username: "ssydneyho"
     fullname: >-
-      Sydney Ho
+      Sydney
     location: "Singapore"
-    followers: 33894
-    engagement: 131
-    commentsToLikes: 0.048691
+    followers: 33725
+    engagement: 134
+    commentsToLikes: 0.050664
     id: ck5zpshext9f10i14tqs20kir
     verified: false
-    hashtags: "#prettyfitshoes, #clearbluesg, #babycare, #babyfair2020"
-  - username: "xclarieacaciateo"
-    fullname: >-
-      CLARIE ACACIA TEO
-    location: "Singapore"
-    followers: 26591
-    engagement: 267
-    commentsToLikes: 0.021190
-    id: ck6tyneqa4qz20j71gkh0a3sn
-    verified: false
-    hashtags: "#dailypromise, #yawnyourway, #tips, #sweetescapelangkawi"
-  - username: "amirkhanmma"
-    fullname: >-
-      Amir Khan Ansari
-    location: "Singapore"
-    followers: 36707
-    engagement: 323
-    commentsToLikes: 0.013178
-    id: ck6tyi3hu3uv50j71v18a07zz
-    verified: true
-    hashtags: "#trecnutrition, #lean, #calesthenics, #bodyweight"
+    hashtags: "#dailypromise, #sgkodomo, #babycare, #decorfansingapore"
   - username: "clairejedrek"
     fullname: >-
-      CLAIRE JEDREK
+      Presenter Sport / Lifestyle
     location: "Singapore"
-    followers: 24724
-    engagement: 192
-    commentsToLikes: 0.027212
+    followers: 25176
+    engagement: 253
+    commentsToLikes: 0.118168
     id: ck6tynwvm4ty70j71132n77iy
     verified: false
-    hashtags: "#bookemout, #bikini, #photography, #friyay"
-  - username: "blackivory"
+    hashtags: "#covid, #mumssg, #sgkids, #breastfeeding"
+  - username: "upalina_gupta"
     fullname: >-
-      Jennifer 📷 Travel+Fashion
+      Upalina Gupta
     location: "Singapore"
-    followers: 17802
-    engagement: 233
-    commentsToLikes: 0.122259
-    id: ck0ubxdvbfhfz0i19ynye4jvd
+    followers: 70928
+    engagement: 650
+    commentsToLikes: 0.009221
+    id: ck8t04cylqsio0j78azdxeu8w
     verified: false
-    hashtags: "#ootd, #nutritionhelper, #singapore, #everydaytaiwan"
+    hashtags: "#energydiet, #health, #naturalprotein, #nutrillitexme"
+  - username: "applehong"
+    fullname: >-
+      Apple Hong 洪乙心
+    location: "Singapore"
+    followers: 54159
+    engagement: 117
+    commentsToLikes: 0.030998
+    id: ck5qd6r84u34r0i11u9fsig2r
+    verified: true
+    hashtags: "#massivewine, #furryfriends, #2005, #avocado"
+  - username: "killgwen"
+    fullname: >-
+      Gwen Lim | Brand Nutritionist
+    location: "Singapore"
+    followers: 18493
+    engagement: 159
+    commentsToLikes: 0.105169
+    id: ck5cl5y6uyb590i1148owta5c
+    verified: false
+    hashtags: "#circuitbreakersg, #swingbyattp, #pandanow, #citysquaremallsg"
 ---

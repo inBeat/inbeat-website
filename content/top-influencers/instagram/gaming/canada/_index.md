@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Canada In 2020
 description: >-
-  Find top gaming Instagram influencers in Canada in 2020. Most popular hashtags: #fyp #boredathome #foryou #happyathome.
+  Find top gaming Instagram influencers in Canada in 2020. Most popular hashtags: #anti #tifa #igers #leagueoflegends.
 platform: Instagram
 profiles:
-  - username: "sachietv"
-    fullname: >-
-      🌺 𝖘𝖆𝖈𝖍𝖎𝖊
-    location: "Canada"
-    followers: 22183
-    engagement: 919
-    commentsToLikes: 0.014516
-    id: ck8wes80cejb60j78r57lk9vl
-    verified: false
-    hashtags: "#britishshorthairkitten, #wasian, #fyp, #foryoupage"
   - username: "stella.luna.cos"
     fullname: >-
       ☆Hi Stella Luna☆
     location: "Canada"
-    followers: 19062
-    engagement: 677
-    commentsToLikes: 0.026597
+    followers: 18906
+    engagement: 691
+    commentsToLikes: 0.028180
     id: ck15tya74khyu0i19wqztut8b
     verified: false
-    hashtags: "#schoolwatch, #shoto, #poolside, #ahricosplay"
+    hashtags: "#model, #icyhot, #playboy, #shototodoroki"
+  - username: "sachietv"
+    fullname: >-
+      🌺 𝖘𝖆𝖈𝖍𝖎𝖊
+    location: "Canada"
+    followers: 23963
+    engagement: 868
+    commentsToLikes: 0.015201
+    id: ck8wes80cejb60j78r57lk9vl
+    verified: false
+    hashtags: "#quarantinepillowchallenge"
   - username: "setup_shortcut"
     fullname: >-
       Gaming Setups | Gaming PCs 🎮
     location: "Canada"
-    followers: 13268
-    engagement: 1164
-    commentsToLikes: 0.043710
+    followers: 20183
+    engagement: 1334
+    commentsToLikes: 0.032477
     id: ck8t63qdfc5g60j78krx3d2rr
     verified: false
-    hashtags: "#pcmasterrace, #customroom, #gamestation, #gamingpc"
+    hashtags: "#giveawayiphone, #freeiphone, #setupwednesday, #setupwar"
   - username: "cahlaflour"
     fullname: >-
       cahlaflour
     location: "Canada"
-    followers: 10289
-    engagement: 1266
-    commentsToLikes: 0.021404
+    followers: 10345
+    engagement: 1313
+    commentsToLikes: 0.021922
     id: ck1344gfyunl10i19mlj6bmxh
     verified: false
-    hashtags: "#travel, #innout, #sfxmakeup, #childsplay"
+    hashtags: "#fancy, #makeuptime, #bestnine, #bbyoda"
   - username: "anthonycioffi31"
     fullname: >-
       Anthony Cioffi
     location: "Canada"
-    followers: 9486
-    engagement: 1033
-    commentsToLikes: 0.040290
+    followers: 9440
+    engagement: 972
+    commentsToLikes: 0.039125
     id: ck0tw321sdt4e0i19j93ytv1m
     verified: true
-    hashtags: "#antioxidants, #glutenfree, #tartcherryjuice, #musclerecovery"
+    hashtags: "#rnation, #tartcherryjuice, #health, #nutrition"
   - username: "seejayare"
     fullname: >-
       SeeJayAre
     location: "Canada"
-    followers: 22107
-    engagement: 294
-    commentsToLikes: 0.036218
+    followers: 21966
+    engagement: 266
+    commentsToLikes: 0.056743
     id: ck8syd4wekher0j78hnnst6z5
     verified: false
-    hashtags: "#arrmanotorious, #oldschoolgamer, #gamingsetup, #retrocollectivena"
+    hashtags: "#ebikelife, #lego, #segasaturday, #radpowerbikes"
   - username: "annemunition"
     fullname: >-
       Anne Munition
     location: "Canada"
-    followers: 86952
-    engagement: 629
-    commentsToLikes: 0.008758
+    followers: 87675
+    engagement: 640
+    commentsToLikes: 0.008592
     id: ck13b5ay0tqyi0i19spvewrrw
     verified: true
-    hashtags: "#nvidia, #widowmaker, #annemunition, #siege"
-  - username: "knock.nockwhosthere"
+    hashtags: "#apexlegends, #hanzo, #valorant, #overwatch"
+  - username: "wakey5.2"
     fullname: >-
-      Natasha
+      Christian
     location: "Canada"
-    followers: 12165
-    engagement: 2492
-    commentsToLikes: 0.047079
-    id: ck8wgbcluh1qn0j78zc9phehy
+    followers: 23019
+    engagement: 678
+    commentsToLikes: 0.027050
+    id: ck6u58muo86x90j7168v0c82y
     verified: false
-    hashtags: "#italiana, #italiano, #neiperte, #nbamoments"
-  - username: "aileenchristineee"
+    hashtags: "#twitch, #corona, #notacarpost, #imdoingme"
+  - username: "jamesdiato"
     fullname: >-
-      Aileen Christine
+      🐍
     location: "Canada"
-    followers: 6687
-    engagement: 1749
-    commentsToLikes: 0.034884
-    id: ck8wg1n4fglje0j789aq2rn92
+    followers: 10361
+    engagement: 1185
+    commentsToLikes: 0.010309
+    id: ck5c8imgu9keh0i118e95d8l7
     verified: false
-    hashtags: "#tiktokcanada, #justboredathome, #couplegoals, #viral"
-  - username: "sadiealdis"
+    hashtags: "#theoc, #batista, #joker, #captainfalcon"
+  - username: "midnababy"
     fullname: >-
-      sadie😽
+      Midna | Final Fantasy Streamer
     location: "Canada"
-    followers: 150860
-    engagement: 2192
-    commentsToLikes: 0.015258
-    id: ck5c1hv1cv7td0i11jy4zqq4e
+    followers: 6703
+    engagement: 1929
+    commentsToLikes: 0.038761
+    id: ck13cdzzjzw770i19zsdb0ppi
     verified: false
-    hashtags: "#aesthetic, #quaratinelife, #mmyea, #reallifeathome"
+    hashtags: "#outfitoftheday, #animelovers, #gamingposts, #nintendo"
 ---

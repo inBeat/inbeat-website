@@ -1,107 +1,107 @@
 ---
 title: Top 10 Runners Instagram Influencers In Japan In 2020
 description: >-
-  Find top runners Instagram influencers in Japan in 2020. Most popular hashtags: #nike #running #runner #run.
+  Find top runners Instagram influencers in Japan in 2020. Most popular hashtags: #2020 #stayathome #stayhome #tokyomarathon.
 platform: Instagram
 profiles:
+  - username: "ryu.t218"
+    fullname: >-
+      髙久 龍
+    location: "Japan"
+    followers: 8273
+    engagement: 1993
+    commentsToLikes: 0.027848
+    id: ck0w26ew9mts70i193c3srm0a
+    verified: false
+    hashtags: "#2019, #0218, #teamnike, #finalist"
   - username: "leexuaaaan"
     fullname: >-
       Lee Xuan 丽璇
     location: "Japan"
-    followers: 60673
-    engagement: 1371
-    commentsToLikes: 0.010581
+    followers: 63359
+    engagement: 1325
+    commentsToLikes: 0.011387
     id: ck5c5iwk93k6n0i1197ub90oc
     verified: false
-    hashtags: "#instafluencermalaysia, #galaxynote10, #samsungmalaysia, #dressdelightbikini"
+    hashtags: "#beautydevices, #2020, #thegirls, #newprogram"
   - username: "jennammchugh"
     fullname: >-
       Jenna McHugh
     location: "Japan"
-    followers: 28216
-    engagement: 255
-    commentsToLikes: 0.038009
+    followers: 27927
+    engagement: 275
+    commentsToLikes: 0.039122
     id: ck135149mz6060i1942flh8a0
     verified: false
     hashtags: "#3weeksuntiltokyo, #earthproof"
-  - username: "daichi_0913"
+  - username: "reikanozawa"
     fullname: >-
-      Daichi Kamino 神野 大地
+      Reika Nozawa
     location: "Japan"
-    followers: 60717
-    engagement: 1144
-    commentsToLikes: 0.007691
-    id: ck0ucot19hdj70i19w424nwjg
-    verified: true
-    hashtags: "#ultrapure, #fuelcell, #wegotnow, #newbalance"
-  - username: "yuki_sato310"
-    fullname: >-
-      悠基 佐藤
-    location: "Japan"
-    followers: 18430
-    engagement: 1399
-    commentsToLikes: 0.007902
-    id: ck13c0p8xy2qc0i195fc5ksop
+    followers: 11225
+    engagement: 948
+    commentsToLikes: 0.009393
+    id: ckap3ev9a2s8y0i78fo12f26w
     verified: false
-    hashtags: "#saint, #kagawa, #2xu, #hokkaido"
-  - username: "contrecarre"
-    fullname: >-
-      Isaac Belmont
-    location: "Japan"
-    followers: 8043
-    engagement: 1674
-    commentsToLikes: 0.003597
-    id: ck139rib3ms7l0i1971ws3z1c
-    verified: false
-    hashtags: ""
-  - username: "eeeriko.k"
-    fullname: >-
-      栗崎 恵理子 / Eriko Kurisaki
-    location: "Japan"
-    followers: 8643
-    engagement: 1037
-    commentsToLikes: 0.011146
-    id: ck5hi9xkhceu20i11qhf4agj9
-    verified: false
-    hashtags: "#redrunclubtokyo, #tnfrun, #tokyodome, #glidic"
+    hashtags: "#homeworkout, #stayhome, #pilates, #vietnam"
   - username: "yuukimeehaa"
     fullname: >-
       三 原 勇 希    ＹＵＵＫＩ  ＭＩＨＡＲＡ
     location: "Japan"
-    followers: 46092
-    engagement: 483
-    commentsToLikes: 0.008845
+    followers: 47364
+    engagement: 512
+    commentsToLikes: 0.009140
     id: ck5byeg9qoztz0i1187eiaxra
     verified: true
-    hashtags: "#stayathome, #fmcocolo, #propo, #miharainminakami"
-  - username: "nyan___san"
+    hashtags: "#run, #rpp813, #suunto, #suunto3"
+  - username: "daichi_0913"
     fullname: >-
-      ゆき
+      Daichi Kamino 神野 大地
     location: "Japan"
-    followers: 6807
-    engagement: 1365
-    commentsToLikes: 0.018192
-    id: ck5hi9ywscf020i112k54j1ke
-    verified: false
-    hashtags: "#runner, #kagoshima, #dewycelholic, #cafestagram"
-  - username: "koennaert"
+    followers: 61342
+    engagement: 1175
+    commentsToLikes: 0.007838
+    id: ck0ucot19hdj70i19w424nwjg
+    verified: true
+    hashtags: "#ultrapure, #stayhealthy, #stayathome, #exerciseathome"
+  - username: "yuki_sato310"
     fullname: >-
-      Koen Naert
+      悠基 佐藤
     location: "Japan"
-    followers: 12010
-    engagement: 937
-    commentsToLikes: 0.020360
-    id: ck5hp90spqye80i11717hlbhs
+    followers: 18621
+    engagement: 1382
+    commentsToLikes: 0.007767
+    id: ck13c0p8xy2qc0i195fc5ksop
     verified: false
-    hashtags: "#moretocome, #asicseurope, #nature, #basecamp"
-  - username: "eriomochi3"
+    hashtags: "#suguruosako, #mizuno, #spike, #hokkaido"
+  - username: "contrecarre"
     fullname: >-
-      🅴̤̬ 🆁࿆ 🅸⃞̤̬☕︎
+      Isaac Belmont
     location: "Japan"
-    followers: 4547
-    engagement: 2931
-    commentsToLikes: 0.060475
-    id: ck135nyh72ct30i19ydk397bb
+    followers: 8096
+    engagement: 1674
+    commentsToLikes: 0.003438
+    id: ck139rib3ms7l0i1971ws3z1c
     verified: false
-    hashtags: "#foreathlete45s, #ig, #runonclouds, #pegasusturbo"
+    hashtags: ""
+  - username: "dirtytrailrunner"
+    fullname: >-
+      Hiroki Ishikawa
+    location: "Japan"
+    followers: 9883
+    engagement: 1134
+    commentsToLikes: 0.003709
+    id: ck14j3clfif930i19kq4p66sd
+    verified: false
+    hashtags: "#happyhale, #everest, #trailrunner, #snowboarding"
+  - username: "kiley.nico_run"
+    fullname: >-
+      𓏲𓏲𓏲𝕂𝕚𝕝𝕖𝕪 𓃚𓇢 𝕚𝕟𝕋𝕆𝕐𝔸𝕄𝔸𓏲𓏲𓏲
+    location: "Japan"
+    followers: 3844
+    engagement: 2418
+    commentsToLikes: 0.038877
+    id: ck9hbmiachi1z0j78aunac0db
+    verified: false
+    hashtags: "#rodebike, #merida, #scultura700, #meridabikes"
 ---

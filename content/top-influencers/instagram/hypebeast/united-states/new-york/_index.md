@@ -1,39 +1,49 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In New York In 2020
 description: >-
-  Find top hypebeast Instagram influencers in New York in 2020. Most popular hashtags: #newyork #ig #portrait #hypebeast.
+  Find top hypebeast Instagram influencers in New York in 2020. Most popular hashtags: #hypebeast #newyork #newyorkcity #nycgo.
 platform: Instagram
 profiles:
+  - username: "yorksgram"
+    fullname: >-
+      New York 🗽 |Travel 🛩|Visual 📸
+    location: "United States"
+    followers: 44282
+    engagement: 293
+    commentsToLikes: 0.016739
+    id: ck0vypn3w569k0i19pswgod5e
+    verified: false
+    hashtags: "#dream, #igersofnyc, #mayday, #street"
   - username: "tomer_telias"
     fullname: >-
       Tomer Telias
     location: "United States"
-    followers: 49275
-    engagement: 359
-    commentsToLikes: 0.014526
+    followers: 49317
+    engagement: 420
+    commentsToLikes: 0.015265
     id: ck5btaijefm770i11622o6ncj
     verified: false
-    hashtags: "#hypebeast, #newyork, #predator, #daretocreate"
-  - username: "evan_nowak_"
+    hashtags: "#boom, #hypebeast, #newyork, #predator"
+  - username: "deviate_fashion"
     fullname: >-
-      TRAVEL 🌎 EVAN  NOWAK
+      Deviate
     location: "United States"
-    followers: 4277
-    engagement: 1669
-    commentsToLikes: 0.053662
-    id: ck0u9ga9b9pfh0i19kk5bucoy
+    followers: 24631
+    engagement: 357
+    commentsToLikes: 0.033085
+    id: ck5zsmrroysv00i14zrnq73ud
     verified: false
-    hashtags: "#coastline, #waterfallwednesday, #amongthewild, #longexposureshots"
-  - username: "pierofederico__"
+    hashtags: "#sustainablefashion, #detroithighfashion, #artistsoninstagram, #fashionkorea"
+  - username: "chasestash"
     fullname: >-
-      𝐏𝐈𝐄𝐑𝐎 𝐅.
+      CHA$E
     location: "United States"
-    followers: 6226
-    engagement: 1553
-    commentsToLikes: 0.106977
-    id: ck0tvn1lkbyvu0i19l5s2tv0a
-    verified: false
-    hashtags: "#blacksea, #traveltheworld, #photogirl, #thisisnewyorkcity"
+    followers: 23315
+    engagement: 445
+    commentsToLikes: 0.027427
+    id: ck5zxy1z38vgr0i14qa5ohtb2
+    verified: true
+    hashtags: "#moneymakingchase, #mensfashion, #newyorkcity, #nike"
   - username: "thecravingscurator"
     fullname: >-
       The Cravings Curator
@@ -44,64 +54,54 @@ profiles:
     id: ck14hla8aavvi0i192ff9ymm1
     verified: false
     hashtags: "#passportready, #vsco, #beautifuldestinations, #foodblogger"
-  - username: "portsbyady"
+  - username: "larsontalenthawaii"
     fullname: >-
-      ＡＤＹ
+      Larson Talent Hawaii
     location: "United States"
-    followers: 77257
-    engagement: 203
-    commentsToLikes: 0.031578
-    id: ck5cabqxxd48z0i11zqtzwfgg
+    followers: 21965
+    engagement: 156
+    commentsToLikes: 0.011309
+    id: ck6u2l97bsg6z0j71ref7bqq4
     verified: false
-    hashtags: "#exklusive, #newyorkigers, #nikonffa, #hypebeast"
+    hashtags: "#intelligence, #modelsearch, #loudawg, #taleajosephine"
+  - username: "evan_nowak_"
+    fullname: >-
+      TRAVEL 🌎 EVAN  NOWAK
+    location: "United States"
+    followers: 4196
+    engagement: 1704
+    commentsToLikes: 0.053571
+    id: ck0u9ga9b9pfh0i19kk5bucoy
+    verified: false
+    hashtags: "#sunset, #summertime, #city, #naturalohio"
   - username: "andrewmvson"
     fullname: >-
       Andrew Mason | Photographer
     location: "United States"
-    followers: 21043
-    engagement: 352
-    commentsToLikes: 0.060635
+    followers: 20744
+    engagement: 358
+    commentsToLikes: 0.062457
     id: ck5q3ss6dm9o70i118o7ce9kr
     verified: false
-    hashtags: "#newyorknewyork, #meistershotz, #90210, #unknownperspectives"
-  - username: "chasestash"
+    hashtags: "#likenewyorkcity, #streetdreamsmag, #street, #killyourcity"
+  - username: "byflore"
     fullname: >-
-      CHA$E
+      Christopher Florentino "Flore"
     location: "United States"
-    followers: 22808
-    engagement: 445
-    commentsToLikes: 0.028937
-    id: ck5zxy1z38vgr0i14qa5ohtb2
-    verified: true
-    hashtags: "#balenciagatriples, #outfitinspiration, #outfits, #stussy"
-  - username: "one12community"
-    fullname: >-
-      The 1:12 Scale Community
-    location: "United States"
-    followers: 18626
-    engagement: 314
-    commentsToLikes: 0.021260
-    id: ck6tprly0m5xb0j71v28cd0m9
+    followers: 36589
+    engagement: 93
+    commentsToLikes: 0.019507
+    id: ck5c8gqq89g4q0i11uxpe40a5
     verified: false
-    hashtags: "#toyphoto, #hottoys, #batmantoys, #xmen"
-  - username: "kea.iu"
+    hashtags: "#artistshit, #class, #abstractpainting, #tokyo"
+  - username: "ig__newyork"
     fullname: >-
-      
+      New York City
     location: "United States"
-    followers: 3301
-    engagement: 1845
-    commentsToLikes: 0.115077
-    id: ck0u7cq6w4f4a0i19sh97qzqw
+    followers: 74145
+    engagement: 336
+    commentsToLikes: 0.017130
+    id: ck0tyaclcm58c0i19ht3jox94
     verified: false
-    hashtags: "#slander, #edmfest, #extreme, #cancun"
-  - username: "ricp2206"
-    fullname: >-
-      Ricardo
-    location: "United States"
-    followers: 20573
-    engagement: 369
-    commentsToLikes: 0.021858
-    id: ck5c41qnt0gsm0i11ed88e80f
-    verified: false
-    hashtags: "#shotaward, #global, #chiarchitecture, #urbanosaires"
+    hashtags: "#newyorkster, #dream, #newyorktogether, #lovenyc"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top fitness Instagram influencers in Malaysia in 2020. Most popular hashtags: #fitness #malaysia #gym #stayathome.
+  Find top fitness Instagram influencers in Malaysia in 2020. Most popular hashtags: #stayhealthy #covid19 #throwback #dontrushchallenge.
 platform: Instagram
 profiles:
-  - username: "bibbideg"
+  - username: "a.helmiy"
     fullname: >-
-      Bibbi Deg
+      
     location: "Malaysia"
-    followers: 592956
-    engagement: 169
-    commentsToLikes: 0.039491
-    id: ck8wf2p49f12y0j78ew0wb5o2
+    followers: 15467
+    engagement: 829
+    commentsToLikes: 0.036267
+    id: ck0w5h7td3muv0i19xmzsjf0d
     verified: false
-    hashtags: "#portrait, #ultrainstinct, #candy, #lgbtq"
+    hashtags: "#dashu, #japan, #coffee, #2020yummysalad"
   - username: "drkaylateh"
     fullname: >-
       Dr. Kayla Teh
     location: "Malaysia"
-    followers: 26652
-    engagement: 517
-    commentsToLikes: 0.025908
+    followers: 31695
+    engagement: 512
+    commentsToLikes: 0.031854
     id: ck15t2goag0fj0i19vfi3ldr6
     verified: false
-    hashtags: "#sudio, #untiltomorrow, #memelord, #streettalk"
-  - username: "khalishan.alias"
-    fullname: >-
-      T A R Z A N
-    location: "Malaysia"
-    followers: 21603
-    engagement: 716
-    commentsToLikes: 0.034730
-    id: ck8t8fdtok96j0j78skxz4v9y
-    verified: false
-    hashtags: "#istayathome, #trasformationtuesday, #cooking, #staystrong"
-  - username: "sohitkathuria"
-    fullname: >-
-      Sohit Kathuria
-    location: "Malaysia"
-    followers: 167415
-    engagement: 306
-    commentsToLikes: 0.008741
-    id: ck5zuhkg62de70i1474beqki6
-    verified: false
-    hashtags: "#thankgod, #black, #loveyourself, #beautiful"
-  - username: "adreannajoyce"
-    fullname: >-
-      𝐀𝐃𝐑𝐄𝐀𝐍𝐍𝐀 𝐉𝐎𝐘𝐂𝐄 | 𝙁𝙞𝙩𝙣𝙚𝙨𝙨 𝘾𝙤𝙖𝙘𝙝
-    location: "Malaysia"
-    followers: 7917
-    engagement: 522
-    commentsToLikes: 0.026811
-    id: ck5ztzdwr1ect0i142xi1e0yr
-    verified: false
-    hashtags: "#gathering, #seeyousoon, #physique, #vitaminsea"
+    hashtags: "#giantlifeisthuglife, #dentists, #kitajagakita, #selamathariraya"
   - username: "hernandotaniko"
     fullname: >-
       
     location: "Malaysia"
-    followers: 60806
-    engagement: 343
-    commentsToLikes: 0.016279
+    followers: 61522
+    engagement: 387
+    commentsToLikes: 0.019691
     id: ck5hk18ckhlzy0i11en2q478l
     verified: false
-    hashtags: "#jjmalibu, #chest, #gameofthrones, #hanoi"
-  - username: "rotan.photo"
+    hashtags: "#stepup2, #hotguys, #videoediting, #chestday"
+  - username: "angel.nggg"
     fullname: >-
-      Event Photographer.
+      A N G E L 慧慧 🦄
     location: "Malaysia"
-    followers: 33815
-    engagement: 145
-    commentsToLikes: 0.002479
-    id: ck6u7whpqo20h0j719cs23ocf
+    followers: 125391
+    engagement: 442
+    commentsToLikes: 0.008639
+    id: ck8sy1ay6jdxc0j78i93iv46o
     verified: false
-    hashtags: "#sports, #gymlife, #malaysiamuscle, #middlemuscle"
-  - username: "say_shazril"
+    hashtags: "#mugshot, #beepit, #stonedstayhomeclub, #tiktokmalaysia"
+  - username: "sohitkathuria"
     fullname: >-
-      Dr Shazril Shaharuddin
+      Sohit Kathuria
     location: "Malaysia"
-    followers: 263296
-    engagement: 227
-    commentsToLikes: 0.021062
-    id: ck0w05qxycif70i19ljie6dya
+    followers: 164402
+    engagement: 278
+    commentsToLikes: 0.008851
+    id: ck5zuhkg62de70i1474beqki6
     verified: false
-    hashtags: "#cleanhandschallenge, #floralfragrance, #myacer, #proacnesolution"
-  - username: "hanlibubu"
+    hashtags: "#happyholi, #delhicurfew, #hurryup, #coffeelover"
+  - username: "grace_jorest"
     fullname: >-
-      Hanlibubu | 𝑀𝒾𝒸𝓇𝑜-𝒾𝓃𝒻𝓁𝓊𝑒𝓃𝒸𝑒𝓇
+      Grace Jorest 🇲🇾
     location: "Malaysia"
-    followers: 53481
-    engagement: 205
-    commentsToLikes: 0.068737
-    id: ck0vy58c32am90i192780f20n
+    followers: 27304
+    engagement: 353
+    commentsToLikes: 0.014832
+    id: ck9wej12ykhm90j78ndebf5pb
     verified: false
-    hashtags: "#successdiaries, #lovelife, #netflixparty, #sunday"
-  - username: "kuihkapit"
+    hashtags: "#stretchingisimportant, #fitnessenthusiast, #yogadailypractice, #womensupportingwomen"
+  - username: "may8572fit"
     fullname: >-
-      Charmaine
+      May Liu
     location: "Malaysia"
-    followers: 7479
-    engagement: 248
-    commentsToLikes: 0.033802
-    id: ck0u9m5c0a2rk0i19wiyt9x2s
+    followers: 215708
+    engagement: 308
+    commentsToLikes: 0.015873
+    id: ck5pzlzzo1mw90i113hejzlsc
     verified: false
-    hashtags: "#flattenthecurve, #igyogacommunity, #yogajourney, #yogaclass"
+    hashtags: "#gymaddict, #chocoholic, #workoutanytime, #bootyworkout"
+  - username: "khalishan.alias"
+    fullname: >-
+      T A R Z A N
+    location: "Malaysia"
+    followers: 25673
+    engagement: 548
+    commentsToLikes: 0.034417
+    id: ck8t8fdtok96j0j78skxz4v9y
+    verified: false
+    hashtags: "#stayhealthy, #alone, #anakmak, #foodlovers"
+  - username: "alex_cyk"
+    fullname: >-
+      Alex Chee
+    location: "Malaysia"
+    followers: 269630
+    engagement: 268
+    commentsToLikes: 0.008735
+    id: ck6u83ckbp74o0j7100vvenh2
+    verified: false
+    hashtags: "#transformation, #loveyoubrother, #socialiseresponsibly, #malaysian"
+  - username: "hansyungfitness"
+    fullname: >-
+      Hans Yung
+    location: "Malaysia"
+    followers: 77317
+    engagement: 330
+    commentsToLikes: 0.014171
+    id: ck8sy1gt8jehm0j78pvyihckd
+    verified: false
+    hashtags: "#am3685x1, #fuelyourambition, #toplesschef, #underarmourmy"
 ---

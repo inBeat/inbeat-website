@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top christian Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #music #repost #indonesia.
+  Find top christian Instagram influencers in Indonesia in 2020. Most popular hashtags: #passthebrushchallenge #staysafe #tiktok #.
 platform: Instagram
 profiles:
   - username: "tiffofili"
     fullname: >-
       Tiffany Porter
     location: "Indonesia"
-    followers: 25317
-    engagement: 172
-    commentsToLikes: 0.056136
+    followers: 25274
+    engagement: 176
+    commentsToLikes: 0.060052
     id: ck5qeiv2b0ph90i115lq1vpx7
     verified: true
-    hashtags: "#sleepislife, #hometeam, #chibaby, #twinning"
+    hashtags: "#motownmuseum, #weareinthistogether, #firstmothersday, #teamporter"
+  - username: "hi.selinahalim"
+    fullname: >-
+      Baby Selina Halim 💖
+    location: "Indonesia"
+    followers: 60197
+    engagement: 148
+    commentsToLikes: 0.390802
+    id: ck9we48hoiih50j78moqixxft
+    verified: false
+    hashtags: "#bagibagiuang, #uanggratis, #anticoronaspray, #blushchallenge"
+  - username: "ckoh_official"
+    fullname: >-
+      
+    location: "Indonesia"
+    followers: 8933
+    engagement: 552
+    commentsToLikes: 0.042925
+    id: ck5hhfudp804v0i117cua5kr8
+    verified: false
+    hashtags: "#jkjustmysister, #2018, #onemoremonthtilltheendoflockdown, #sudiomoments"
   - username: "fenny_fennyyy"
     fullname: >-
       Fenny
     location: "Indonesia"
-    followers: 45208
-    engagement: 465
-    commentsToLikes: 0.015727
+    followers: 57770
+    engagement: 565
+    commentsToLikes: 0.020129
     id: ck0vv9xgzo72s0i194zgmp5yj
     verified: false
-    hashtags: "#peloporgoyangdimulut, #biargakgabut, #tiktok, #morellorewardpoint"
+    hashtags: "#ngemilgoldslices, #hypesocksid, #passthebrushchallenge, #beneranbedabanget"
+  - username: "central_rbdd"
+    fullname: >-
+      💗𝑹𝒆𝒃𝒆𝒍𝒅𝒆💗
+    location: "Indonesia"
+    followers: 18383
+    engagement: 355
+    commentsToLikes: 0.005921
+    id: ckaoubdtezmmp0i786lf4eonr
+    verified: false
+    hashtags: ""
+  - username: "indomusikteam"
+    fullname: >-
+      INDOMUSIK TEAM
+    location: "Indonesia"
+    followers: 11244
+    engagement: 538
+    commentsToLikes: 0.024317
+    id: ck9haglv2cggc0j78z17lpmbi
+    verified: false
+    hashtags: "#collabjauhamyra, #eclat, #altosaxophone, #selfiebentar"
+  - username: "katakataiman"
+    fullname: >-
+      KATA KATA IMAN KRISTEN
+    location: "Indonesia"
+    followers: 44154
+    engagement: 447
+    commentsToLikes: 0.013575
+    id: ckap1msifv8260i787eqcytbt
+    verified: false
+    hashtags: ""
   - username: "gme_id"
     fullname: >-
       GOOD MORNING EVERYONE
     location: "Indonesia"
-    followers: 14268
-    engagement: 646
-    commentsToLikes: 0.020226
+    followers: 14754
+    engagement: 507
+    commentsToLikes: 0.020471
     id: ck0vxu12x0q9o0i19y253zdza
     verified: false
-    hashtags: "#bukanbegitucaramucorona, #creativemultiplepost, #selamatpagi, #lovepottedmezzanine"
+    hashtags: "#kitajagakita, #wehealasone, #asisten, #spotifyplaylists"
   - username: "evoleneofficial"
     fullname: >-
       Evolene - PROVEN FITNESS SUPPS
     location: "Indonesia"
-    followers: 62943
-    engagement: 112
-    commentsToLikes: 0.063485
+    followers: 76933
+    engagement: 93
+    commentsToLikes: 0.033775
     id: ck0vvg15eoz4k0i19c6rpxboj
     verified: false
-    hashtags: "#dirumahaja, #jagakesehatanbersamaevolene, #dirumahaja, #workoutfromhome"
-  - username: "dheojonathan"
+    hashtags: "#dirumahaja, #teamsurpluskalori, #timsurpluskalori"
+  - username: "anne.tattoo"
     fullname: >-
-      Rian DJ
+      Anneke Fitrianti 🏴‍☠️
     location: "Indonesia"
-    followers: 6033
-    engagement: 4645
-    commentsToLikes: 0.041837
-    id: ck5cdqou7jmar0i11ho5b4wjc
+    followers: 27245
+    engagement: 362
+    commentsToLikes: 0.014333
+    id: ck6tppz5ulnse0j71s8wy7d3j
     verified: false
-    hashtags: "#sekolah, #acoustic, #pearldrum, #tanyahati"
-  - username: "christianlalama"
-    fullname: >-
-      𝙲𝚑𝚛𝚒𝚜𝚝𝚒𝚊𝚗 𝙻𝚊𝚕𝚊𝚖𝚊
-    location: "Indonesia"
-    followers: 559951
-    engagement: 440
-    commentsToLikes: 0.023660
-    id: ck14kfpogparx0i198yg5ihq7
-    verified: true
-    hashtags: "#whatsyourstuf, #pink2020, #goodbye2019, #lawnmowing"
-  - username: "melianisitisumartini"
-    fullname: >-
-      🐏 𝖙𝖍𝖊 𝖙𝖗𝖛𝖊 𝖈𝖛𝖙𝖊 🐏
-    location: "Indonesia"
-    followers: 74540
-    engagement: 604
-    commentsToLikes: 0.028632
-    id: ck0w0hlw3e8qe0i19s46zfj69
-    verified: true
-    hashtags: "#lookmomicanslapnow, #blackmetal, #giveaway, #cybergoth"
-  - username: "michaelpanjaitan"
-    fullname: >-
-      Michael Panjaitan
-    location: "Indonesia"
-    followers: 58662
-    engagement: 623
-    commentsToLikes: 0.012561
-    id: ck15q20l50pvs0i19d0g8fp66
-    verified: false
-    hashtags: "#album, #repost, #kutaubapakupeduli, #beproudofyourfaith"
-  - username: "katolik101"
-    fullname: >-
-      ✝️ Kristen Katolik 101 ☦️
-    location: "Indonesia"
-    followers: 12321
-    engagement: 724
-    commentsToLikes: 0.006702
-    id: ck6u4g7s03jdm0j71tslt8s6o
-    verified: false
-    hashtags: "#catholic, #catholicism, #stpeter, #mothermary"
-  - username: "rioricardo"
-    fullname: >-
-      Rio Ricardo
-    location: "Indonesia"
-    followers: 48152
-    engagement: 672
-    commentsToLikes: 0.019444
-    id: ck5cdqf9kjls60i11dl2w3f46
-    verified: false
-    hashtags: "#anginmalamtutti, #drum, #classicalmusic, #hhmmods"
+    hashtags: "#garuda, #parangrusak, #inmemoriam, #familyisforever"
 ---

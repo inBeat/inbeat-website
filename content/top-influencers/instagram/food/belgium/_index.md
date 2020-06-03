@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Belgium In 2020
 description: >-
-  Find top food Instagram influencers in Belgium in 2020. Most popular hashtags: #belgianblogger #foodie #blogger #love.
+  Find top food Instagram influencers in Belgium in 2020. Most popular hashtags: #stayhome #staysafe #vegan #lockdown.
 platform: Instagram
 profiles:
+  - username: "veggiewayfarer"
+    fullname: >-
+      Caro • Travelnut & Food Fiend
+    location: "Belgium"
+    followers: 39089
+    engagement: 604
+    commentsToLikes: 0.130216
+    id: ck0twaa3yelpz0i19qnfb6voo
+    verified: false
+    hashtags: "#wanderlove, #welovebrussels, #womenwhoexplore, #myanmartourism"
+  - username: "celinemaufor"
+    fullname: >-
+      Céline Maufor
+    location: "Belgium"
+    followers: 13162
+    engagement: 885
+    commentsToLikes: 0.179380
+    id: ck14gsa5r6rv10i198hq8u1pl
+    verified: false
+    hashtags: "#concours, #signenature, #liptonbe, #paulhewitt"
   - username: "nathaliemeskensofficial"
     fullname: >-
       Nathalie Meskens
     location: "Belgium"
-    followers: 201164
-    engagement: 983
-    commentsToLikes: 0.019378
+    followers: 213658
+    engagement: 1139
+    commentsToLikes: 0.018728
     id: ck15q8ikm1ls10i1929c6dm67
     verified: false
-    hashtags: "#samentegencorona, #cybex, #alcoholvrij, #relax"
-  - username: "katiadellafaille"
-    fullname: >-
-      Katia della Faille
-    location: "Belgium"
-    followers: 7400
-    engagement: 1169
-    commentsToLikes: 0.056756
-    id: ck5hde0gvmwvf0i11kruz2zq5
-    verified: false
-    hashtags: "#cyclinglife, #inspiration2020, #sundayrunday, #paris"
+    hashtags: "#deeplove, #tourneeminerale, #blijmetmijnkot, #floradixijzer"
   - username: "ruxandraioana"
     fullname: >-
       ♥ RUX ♥ 🦂
     location: "Belgium"
-    followers: 42248
-    engagement: 330
-    commentsToLikes: 0.095709
+    followers: 43197
+    engagement: 355
+    commentsToLikes: 0.097816
     id: ck0w5g7i43hq00i19uzu7oqse
     verified: false
-    hashtags: "#todaysoutfit, #swimmingpool, #offshoulder, #confinementcreatif"
-  - username: "tinepriem"
+    hashtags: "#belgianblog, #brusselsblogger, #underwaterlove, #shopping"
+  - username: "katiadellafaille"
     fullname: >-
-      Tine Priem
+      Katia della Faille
     location: "Belgium"
-    followers: 42095
-    engagement: 429
-    commentsToLikes: 0.015603
-    id: ck15r39qz5xbr0i19n3jmhjsc
+    followers: 7375
+    engagement: 1173
+    commentsToLikes: 0.058388
+    id: ck5hde0gvmwvf0i11kruz2zq5
     verified: false
-    hashtags: "#fitness, #extensions, #newprojectcomingup, #lovemyjob"
+    hashtags: "#cyclingaddict, #2020, #ineededthis, #springmood"
+  - username: "ceylinalvarado"
+    fullname: >-
+      C E Y L I N  C A R M E N 🇩🇴🇳🇱
+    location: "Belgium"
+    followers: 57334
+    engagement: 1651
+    commentsToLikes: 0.012297
+    id: ck55l7klr0xnl0i11nqtne1ka
+    verified: false
+    hashtags: "#sorrynotsorryforthespam, #mondayfeels, #livingadream, #happyeaster"
   - username: "loic_vanlang"
     fullname: >-
       Loic Van Lang
     location: "Belgium"
-    followers: 32917
-    engagement: 211
-    commentsToLikes: 0.076454
+    followers: 32369
+    engagement: 208
+    commentsToLikes: 0.081389
     id: ck6txv4o6013a0j71cdbx4z2e
     verified: false
-    hashtags: "#casalinda, #meugalo, #keepinghealthy, #ipanemabeach"
-  - username: "lafilleagateaux"
+    hashtags: "#saopaulo, #bodygoals, #jacuzzi, #ootdmens"
+  - username: "emiliegharbi"
     fullname: >-
-      Kristel - Travel Blogger
+      Emilie Gharbi
     location: "Belgium"
-    followers: 33522
-    engagement: 164
-    commentsToLikes: 0.057149
-    id: ck13anyz9rbif0i198idr8gqq
+    followers: 8842
+    engagement: 559
+    commentsToLikes: 0.301839
+    id: ckaov7dfq3dlu0i78uiybyvgx
     verified: false
-    hashtags: "#igersbrussels, #kikolips, #uccle, #collab"
-  - username: "chlovdw"
+    hashtags: "#pretaporterespiegle, #girlgoneloavies, #loavies, #liveuniqlo"
+  - username: "coleenaupresent"
     fullname: >-
-      Chloë Van de Walle
+      COLEEN ♥
     location: "Belgium"
-    followers: 4950
-    engagement: 865
-    commentsToLikes: 0.061197
-    id: ck0vvf3s5ouu00i19aeaq98gh
+    followers: 9187
+    engagement: 513
+    commentsToLikes: 0.112122
+    id: ckaotohaawsbv0i78eba8dnm6
     verified: false
-    hashtags: "#eatyourgreens, #mondayvibes, #neon, #armcandy"
-  - username: "doeatwithlove"
+    hashtags: "#mangerequilibre, #naturopathie, #stayathome, #girlinbath"
+  - username: "pomshine"
     fullname: >-
-      Kathleen 🍋
+      Pom
     location: "Belgium"
-    followers: 16780
-    engagement: 560
-    commentsToLikes: 0.083921
-    id: ck5zsee30yc7r0i14c99qkvsf
+    followers: 27114
+    engagement: 368
+    commentsToLikes: 0.038326
+    id: ck5zs3x8gxrz90i14v0t1uq4w
     verified: false
-    hashtags: "#basilic, #recettesaine, #tropbon, #reequilibrage"
-  - username: "anna_s_table"
-    fullname: >-
-      Anna Chwistek
-    location: "Belgium"
-    followers: 7820
-    engagement: 723
-    commentsToLikes: 0.168806
-    id: ck5c3ql8pzuye0i117ed7ndfc
-    verified: false
-    hashtags: "#happynewyear, #bubbles, #myopenkitchen, #foodwinewomen"
-  - username: "healthyfoodmakesyoufeelgood"
-    fullname: >-
-      Foodblog Sin
-    location: "Belgium"
-    followers: 3646
-    engagement: 1368
-    commentsToLikes: 0.499712
-    id: ck5ho75oap27p0i118v7gt28f
-    verified: false
-    hashtags: "#5months, #ilsevphotography, #albertheijn, #veggies"
+    hashtags: "#veal, #introvert, #rabbits, #milk"
 ---

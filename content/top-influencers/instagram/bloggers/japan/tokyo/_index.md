@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top bloggers Instagram influencers in Tokyo in 2020. Most popular hashtags: #japan #pr #tokyo #instafashion.
+  Find top bloggers Instagram influencers in Tokyo in 2020. Most popular hashtags: #youtube #travelgram #tokyo #youtuber.
 platform: Instagram
 profiles:
+  - username: "sakura.007"
+    fullname: >-
+      foodie_travevler_sakura
+    location: "Japan"
+    followers: 6975
+    engagement: 1401
+    commentsToLikes: 0.011731
+    id: ckaorram4oe7x0i78xbnkyrzp
+    verified: false
+    hashtags: "#tortelli, #dessest, #wagyu, #sugalabo"
+  - username: "melikesandesu"
+    fullname: >-
+      メリケ　ウイサル
+    location: "Japan"
+    followers: 12593
+    engagement: 771
+    commentsToLikes: 0.038670
+    id: ck14j3zcaiin60i19en7aoaf2
+    verified: false
+    hashtags: "#sokaksimidi, #bizimmahalle, #selfie, #sushitime"
   - username: "dearruigallery"
     fullname: >-
       小貓 Rui /
     location: "Japan"
-    followers: 91775
-    engagement: 332
-    commentsToLikes: 0.005436
+    followers: 93953
+    engagement: 249
+    commentsToLikes: 0.006335
     id: ck55oh5ex8cdl0i116bl3ru37
     verified: false
-    hashtags: "#mitsubishielectric, #mit, #fendi, #pandora"
-  - username: "exploringjapan"
-    fullname: >-
-      
-    location: "Japan"
-    followers: 116982
-    engagement: 265
-    commentsToLikes: 0.006065
-    id: ck0w0bc5udc910i19st0sijp9
-    verified: false
-    hashtags: "#jp, #supermario, #totoro, #torii"
+    hashtags: "#moschinokids, #coachny, #lovefromcoach, #miumiu"
   - username: "hitton28"
     fullname: >-
       Hitomi Fukui ◉ 福井仁美
     location: "Japan"
-    followers: 38604
-    engagement: 148
-    commentsToLikes: 0.007908
+    followers: 45153
+    engagement: 167
+    commentsToLikes: 0.010225
     id: ck6tqrz5uto5i0j71sb165qjp
     verified: true
-    hashtags: "#waxyyy, #snowboarding, #louisvuitton, #diet"
-  - username: "newniji"
+    hashtags: "#tuktuk, #hair, #converse, #me"
+  - username: "hernaninjapan"
     fullname: >-
-      にゅん✩
+      Hernán Darío ~ Guía en Japón
     location: "Japan"
-    followers: 12803
-    engagement: 479
-    commentsToLikes: 0.009470
-    id: ck0vzuwoab0oa0i190ls6rkto
+    followers: 14851
+    engagement: 912
+    commentsToLikes: 0.035666
+    id: ck0w41cj5wawc0i19vsrbach1
     verified: false
-    hashtags: "#pastelrainbow, #nileperch, #pasha, #cottoncandyboy"
-  - username: "guava.chang"
+    hashtags: "#viajar, #youtuber, #turismo, #tokyo"
+  - username: "shamovdmitry"
     fullname: >-
-      🌼拔辣🌸
+      Шамов Дмитрий
     location: "Japan"
-    followers: 109078
-    engagement: 438
-    commentsToLikes: 0.018165
-    id: ck5q41jkknc0d0i110iylum48
+    followers: 83656
+    engagement: 613
+    commentsToLikes: 0.017259
+    id: ckap2qc3kzuzx0i78hhljiwbm
     verified: false
-    hashtags: "#panasonic, #guitar, #travel, #photo"
+    hashtags: "#shinjuku, #yakiniku, #night, #taipeiwowtrip"
   - username: "ruri_ikeda"
     fullname: >-
       ruriikeda
     location: "Japan"
-    followers: 55096
-    engagement: 268
-    commentsToLikes: 0.031372
+    followers: 55789
+    engagement: 275
+    commentsToLikes: 0.031684
     id: ck14kn1fbqbp90i19h8hx2dhb
     verified: false
-    hashtags: "#hawaii, #shampoo, #australiawine, #pr"
-  - username: "yurikotiger"
-    fullname: >-
-      ユリコタイガー YURIKO TIGER
-    location: "Japan"
-    followers: 117209
-    engagement: 543
-    commentsToLikes: 0.013361
-    id: ck5hn0tuzmzr90i11p12fkl6v
-    verified: true
-    hashtags: "#cosplayconvention, #ereonora, #cuocafallita, #hairsalonmodel"
-  - username: "not_your_typical_disney"
-    fullname: >-
-      Cara 🌎World Disney Traveler🌏
-    location: "Japan"
-    followers: 26252
-    engagement: 322
-    commentsToLikes: 0.024532
-    id: ck0tunxwe7xxq0i19kery7r7i
-    verified: false
-    hashtags: "#disneyperformer, #duffyandfriends, #mickeywaffle, #marie"
+    hashtags: "#fauchoncheese, #fujimi, #denimjacket, #dessert"
   - username: "kellymoritasan"
     fullname: >-
       Kelly Morita
     location: "Japan"
-    followers: 18897
-    engagement: 415
-    commentsToLikes: 0.022865
+    followers: 19715
+    engagement: 387
+    commentsToLikes: 0.020371
     id: ck8t28rbqyk8y0j787b9ej7ax
     verified: false
-    hashtags: "#riseup, #kellymoritasan, #springinjapan, #toughtimes"
-  - username: "macoto.kamimoto"
+    hashtags: "#happiness, #japanculture, #mindsetiseverything, #japanwisdom"
+  - username: "wanderluluu"
     fullname: >-
-      紙本 真琴
+      Lauren Pelkey☼Travel
     location: "Japan"
-    followers: 93185
-    engagement: 184
-    commentsToLikes: 0.021226
-    id: ck0w0q64lfhuo0i19wgygrvjr
+    followers: 13063
+    engagement: 360
+    commentsToLikes: 0.075219
+    id: ck0ubmzjxezfk0i19lymujqff
     verified: false
-    hashtags: "#web, #serina, #palio, #party"
+    hashtags: "#batalladeflores, #kimonoforest, #palmsprings, #bnaaltermuseum"
+  - username: "martin.santos.353"
+    fullname: >-
+      Martin Santos
+    location: "Japan"
+    followers: 11008
+    engagement: 804
+    commentsToLikes: 0.001901
+    id: ckaoxqhnyeda90i78t3kkj9gp
+    verified: false
+    hashtags: "#trekker, #trees, #modernculture, #shanghaistyle"
 ---

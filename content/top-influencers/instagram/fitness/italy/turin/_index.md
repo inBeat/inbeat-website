@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Turin In 2020
 description: >-
-  Find top fitness Instagram influencers in Turin in 2020. Most popular hashtags: #fitness #style #fashion #torino.
+  Find top fitness Instagram influencers in Turin in 2020. Most popular hashtags: #love #beautiful #home #fitness.
 platform: Instagram
 profiles:
-  - username: "sonia_dedo"
+  - username: "daniele.gaiti"
     fullname: >-
-      Sonia Barreca💎👑
+      Daniele Gaiti
     location: "Italy"
-    followers: 15564
-    engagement: 996
-    commentsToLikes: 0.035677
-    id: ck8wd0kj4d8xs0j78f76looq7
+    followers: 7808
+    engagement: 1278
+    commentsToLikes: 0.173640
+    id: ck8t50bq08fhu0j78ttv20nhq
     verified: false
-    hashtags: "#biomeccanica, #getmoving, #picoftheday, #6secondi"
-  - username: "fabio.fi"
+    hashtags: "#fashiondiaries, #dapper, #instafashion, #andr"
+  - username: "miriammigliaccio"
     fullname: >-
-      F A B I O ®
+      Miriam
     location: "Italy"
-    followers: 20154
-    engagement: 598
-    commentsToLikes: 0.056506
-    id: ck15r7zzl6lpm0i19s1e95m9l
+    followers: 11486
+    engagement: 1271
+    commentsToLikes: 0.026279
+    id: ck9wezrpcmmkf0j789f1w9gn0
     verified: false
-    hashtags: "#menwhitclass, #menfashion, #guywhitstyle, #creta"
-  - username: "noemi_trm"
+    hashtags: "#gymmodel, #kissmypeach, #magariio, #body"
+  - username: "egolifeofficial"
     fullname: >-
-      Noemi Trombetta
+      Eghosa Edayi
     location: "Italy"
-    followers: 16440
-    engagement: 317
-    commentsToLikes: 0.055818
-    id: ck6uejrxrrc400j715q3z6stj
+    followers: 16824
+    engagement: 485
+    commentsToLikes: 0.158790
+    id: ckap7pf3rkzn50i7827zusl3r
     verified: false
-    hashtags: "#colors, #healtyfood, #makeawish, #cicciopancake"
-  - username: "nicodsn"
-    fullname: >-
-      Nico Schneider Ruatta
-    location: "Italy"
-    followers: 35138
-    engagement: 38
-    commentsToLikes: 0.009997
-    id: ck6txe9cbxc040j71kf61g862
-    verified: false
-    hashtags: "#lordandberry, #woman, #thisismywhy, #trainingathletic"
+    hashtags: "#fashionblogger, #life, #model, #summer2k19"
   - username: "giuse_joseph"
     fullname: >-
       © Giuse Joseph - Videomaker
     location: "Italy"
-    followers: 14721
-    engagement: 97
-    commentsToLikes: 0.054034
+    followers: 14349
+    engagement: 101
+    commentsToLikes: 0.052259
     id: ck14guqwz74lt0i192gmg5z09
     verified: false
-    hashtags: "#style, #blondemodels, #lumix, #nexbuds"
-  - username: "art___of___food"
+    hashtags: "#lumix, #massage, #nexiomi, #videooftheday"
+  - username: "miguel.zj"
     fullname: >-
-      Roberta || Food Blogger
+      Juan Miguel
     location: "Italy"
-    followers: 16126
-    engagement: 629
-    commentsToLikes: 0.117473
-    id: ck8tdtj3g4ppo0j78bqfi7f1h
+    followers: 8208
+    engagement: 495
+    commentsToLikes: 0.046831
+    id: ck13bz29gxue60i19od32zr3p
     verified: false
-    hashtags: "#healthylifestyle, #relaxing, #healthyfood, #foodies"
-  - username: "riccardochina"
+    hashtags: "#tshirt, #zumbalove, #unitedstates, #girls"
+  - username: "lovefit_girl"
     fullname: >-
-      𝐆 𝐑 𝐈 𝐆 𝐈 𝐎
+      fitness
     location: "Italy"
-    followers: 81045
-    engagement: 489
-    commentsToLikes: 0.049999
-    id: ck5ho24fboso60i11i13hnnz0
+    followers: 8271
+    engagement: 1394
+    commentsToLikes: 0.152030
+    id: ck0vv6j7hnrfu0i19g45powzl
     verified: false
-    hashtags: "#body, #coffee, #fyp, #duetto"
-  - username: "giada__f_"
+    hashtags: "#tortasacher, #chocomuffin, #dessertrecipes, #almond"
+  - username: "angelicaceci95"
     fullname: >-
-      Giada
+      Angelica 💙
     location: "Italy"
-    followers: 24143
-    engagement: 443
-    commentsToLikes: 0.037604
-    id: ck6tpirr3k3se0j71tgxtwdq3
+    followers: 3574
+    engagement: 3013
+    commentsToLikes: 0.137509
+    id: ck8t5wrudbi500j78diegkd83
     verified: false
-    hashtags: "#travelgram, #boudoirphotography, #fashion, #glamourportraits"
-  - username: "danielacarusomodel"
+    hashtags: "#beautiful, #exercise, #love, #prozisitalia"
+  - username: "nerinafrancesca"
     fullname: >-
-      Daniela Caruso model 🇮🇹
+      Francesca Nerina 💎
     location: "Italy"
-    followers: 41076
-    engagement: 216
-    commentsToLikes: 0.033019
-    id: ck5hejk54t8pn0i113zjyk30g
+    followers: 249928
+    engagement: 710
+    commentsToLikes: 0.037159
+    id: ck8t5753n90v00j78mkte5hhx
     verified: false
-    hashtags: "#strong, #covid19, #modelos, #artsy"
-  - username: "_milk_and_cookies__"
+    hashtags: "#nature, #moon, #cute, #sexy"
+  - username: "_sara.grossi_"
     fullname: >-
-      Giulia Premutati
+      Sara Grossi
     location: "Italy"
-    followers: 15461
-    engagement: 426
-    commentsToLikes: 0.083691
-    id: ck5cayt58edwr0i11ojapqpyy
+    followers: 3326
+    engagement: 2557
+    commentsToLikes: 0.120389
+    id: ck8tb53ltubc50j782zij5rdn
     verified: false
-    hashtags: "#turin, #transformation, #mandorle, #foodporn"
+    hashtags: "#nature, #verdenatura, #sperlonga, #lovophotography"
+  - username: "serefitfun"
+    fullname: >-
+      Serena 🇮🇹28 FITMOM
+    location: "Italy"
+    followers: 33033
+    engagement: 877
+    commentsToLikes: 0.052904
+    id: ck5q1b5moa5fh0i11gd1fbr2z
+    verified: false
+    hashtags: "#papa, #koalababycare, #38weekspregnant, #premamanlook"
 ---

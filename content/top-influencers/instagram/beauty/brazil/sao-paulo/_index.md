@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Sao Paulo In 2020
 description: >-
-  Find top beauty Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #makeup #challenge #love #beauty.
+  Find top beauty Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #saopaulo #beauty #tutorial #stayhome.
 platform: Instagram
 profiles:
-  - username: "natimts"
+  - username: "rodineysantiago"
     fullname: >-
-      Natalia Martins
+      Ródiney Santiago
     location: "Brazil"
-    followers: 69352
-    engagement: 169
-    commentsToLikes: 0.042549
-    id: ck14ihauhfean0i197603onll
+    followers: 413165
+    engagement: 230
+    commentsToLikes: 0.017935
+    id: ck55q9v2vcmtt0i11nu9ey56p
     verified: true
-    hashtags: "#beauty, #saopaulo, #milao, #madrid"
-  - username: "gabecardoso"
+    hashtags: "#green, #oldsoul, #nature, #loved"
+  - username: "justdoce"
     fullname: >-
-      Gabrielle Cardoso
+      Doce Pic
     location: "Brazil"
-    followers: 371976
-    engagement: 154
-    commentsToLikes: 0.015422
-    id: ck14gwz407g2r0i19fezq52q4
-    verified: true
-    hashtags: "#ideiascriativas, #phiphiisland, #phuket, #paradise"
+    followers: 41378
+    engagement: 176
+    commentsToLikes: 0.030464
+    id: ck6u94hx7vg9w0j71k5ekaxd4
+    verified: false
+    hashtags: "#altmodels, #model, #retrato, #balaclavagirls"
+  - username: "ricardolimafotografo"
+    fullname: >-
+      Ricardo Lima
+    location: "Brazil"
+    followers: 31681
+    engagement: 47
+    commentsToLikes: 0.034369
+    id: ck14icucqes500i19d492j2iz
+    verified: false
+    hashtags: "#canon, #firegirl, #noiva, #prewedding"
   - username: "ramonamorimoficial"
     fullname: >-
       Ramon Amorim
     location: "Brazil"
-    followers: 563391
-    engagement: 59
-    commentsToLikes: 0.079133
+    followers: 557934
+    engagement: 53
+    commentsToLikes: 0.072932
     id: ck5bxkh3mnwjg0i11hdb23t3h
     verified: false
-    hashtags: "#saomigueldosmilagres, #makingof, #colormakeup, #caracteriza"
+    hashtags: "#maquiagenteen, #caracteriza, #sardas, #makefresh"
   - username: "brigittecalegari"
     fullname: >-
       B R I G I TT E C A L E G A R I
     location: "Brazil"
-    followers: 280731
-    engagement: 133
-    commentsToLikes: 0.020794
+    followers: 280894
+    engagement: 157
+    commentsToLikes: 0.038585
     id: ck15tj7fiicnl0i19ggu6shsd
     verified: true
-    hashtags: "#beautynews, #helpme, #dropsdebeleza, #beautybox"
-  - username: "yasminlsilva"
+    hashtags: "#marisaad, #beautydrops, #eyeliner, #jardindetuileries"
+  - username: "miiablog"
     fullname: >-
-      YASMIN SILVA
+      MIA
     location: "Brazil"
-    followers: 56080
-    engagement: 882
-    commentsToLikes: 0.272536
-    id: ck6u8dc5sqwsj0j714efl18hg
+    followers: 5267
+    engagement: 917
+    commentsToLikes: 0.152979
+    id: ckaosap38qvnc0i78w489dpwj
     verified: false
-    hashtags: "#tudosobcontrole, #filmesonline, #rel, #bbb20"
+    hashtags: "#tiaraperolas, #tecnicafoxeyes, #pos, #tecnicademake"
+  - username: "tiagoprado_"
+    fullname: >-
+      TIAGO PRADO
+    location: "Brazil"
+    followers: 10404
+    engagement: 589
+    commentsToLikes: 0.045993
+    id: ck601dqvhfb3d0i14jj2d4790
+    verified: false
+    hashtags: "#prima, #artist, #aotronivelco, #record"
   - username: "maahway"
     fullname: >-
       Matheus
     location: "Brazil"
-    followers: 2192
-    engagement: 2844
-    commentsToLikes: 0.482765
+    followers: 2845
+    engagement: 2709
+    commentsToLikes: 0.373165
     id: ck8t7jvsbh2wu0j78v69rjxuv
     verified: false
-    hashtags: "#queen, #drag, #chromatica, #fashion"
-  - username: "danibonelli"
+    hashtags: "#frontlacewig, #sorteio, #graphiceyeliner, #arianagrande"
+  - username: "yasminlsilva"
     fullname: >-
-      Dani Bonelli
+      YASMIN SILVA
     location: "Brazil"
-    followers: 90101
-    engagement: 1625
-    commentsToLikes: 0.014413
-    id: ck0ttwayx4lbo0i19nn8u12kx
+    followers: 55529
+    engagement: 701
+    commentsToLikes: 0.254202
+    id: ck6u8dc5sqwsj0j714efl18hg
     verified: false
-    hashtags: "#superpoderosaschallenge, #challenges, #challengerstreets, #colorchallenge"
-  - username: "marco_diniz"
+    hashtags: "#ficaadica, #tumblrgirl, #thelmacampe, #lovecosmetics"
+  - username: "lemassaferri"
     fullname: >-
-      Marco Diniz
+      LEANDRO MASSAFERRI
     location: "Brazil"
-    followers: 26757
-    engagement: 110
-    commentsToLikes: 0.035127
-    id: ck5bxqc9uo7sy0i118tzuyg8p
+    followers: 14449
+    engagement: 734
+    commentsToLikes: 0.032767
+    id: ckaosb8vjqy0z0i78eg3r6521
     verified: false
-    hashtags: "#internationalwomensday, #hair, #marcodiniz, #batmizvah"
-  - username: "carlosfranco_"
-    fullname: >-
-      Carlos Franco
-    location: "Brazil"
-    followers: 44365
-    engagement: 384
-    commentsToLikes: 0.048440
-    id: ck5hpobrzrp950i11w7yoi7of
-    verified: true
-    hashtags: "#sp, #philippines, #cbb2020, #mrworldbrazil"
-  - username: "mayara.goedert"
-    fullname: >-
-      MAYARA GOEDERT
-    location: "Brazil"
-    followers: 45312
-    engagement: 199
-    commentsToLikes: 0.178655
-    id: ck6tsb2rm3rh80j71mvx4r0tf
-    verified: false
-    hashtags: "#stayhome"
+    hashtags: "#cacheados, #curlyhairmen, #curlymen, #isolamentosocial"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top skincare Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #skincare #beauty #yomequedoencasa.
+  Find top skincare Instagram influencers in Barcelona in 2020. Most popular hashtags: #skincare #barcelona #beauty #love.
 platform: Instagram
 profiles:
-  - username: "olgaupinthesky"
+  - username: "thegoldlipstick"
     fullname: >-
-      Olga G. Fernández
+      Mireia from The Gold Lipstick
     location: "Spain"
-    followers: 17117
-    engagement: 406
-    commentsToLikes: 0.155464
-    id: ck6tloxl16d0a0j71e8my3j5k
+    followers: 3133
+    engagement: 1216
+    commentsToLikes: 0.357116
+    id: ck0tyj2kvn1ds0i19upv4nd49
     verified: false
-    hashtags: "#sorteosespa, #vacationrentals, #skincare, #doublewear"
-  - username: "sinmkp"
-    fullname: >-
-      sinmkp y con mascarilla
-    location: "Spain"
-    followers: 3007
-    engagement: 1659
-    commentsToLikes: 0.256724
-    id: ck5ci9cufs8m90i11d6bp2nsa
-    verified: false
-    hashtags: "#mascarillasfaciales, #irohanature, #twilly, #elemis"
-  - username: "mire_si"
-    fullname: >-
-      mire_si
-    location: "Spain"
-    followers: 10007
-    engagement: 891
-    commentsToLikes: 0.098567
-    id: ck6u71zp3j0c40j719ic37vah
-    verified: false
-    hashtags: "#theregeneratingserum, #lamerinfluencer, #mylooktoday, #fashion"
-  - username: "gabbyrucci"
-    fullname: >-
-      𝑮𝒂𝒃𝒃𝒚 𝑹𝒖𝒄𝒄𝒊 🌵𝑶𝒖𝒓𝒈𝒍𝒂𝒎.𝒄𝒐𝒎
-    location: "Spain"
-    followers: 17539
-    engagement: 409
-    commentsToLikes: 0.183904
-    id: ck5ztj8yx0ioi0i14y42m29t7
-    verified: false
-    hashtags: "#lips, #beautiful, #quotesenespa, #positive"
-  - username: "theworldofsisters"
-    fullname: >-
-      Cindy
-    location: "Spain"
-    followers: 119972
-    engagement: 559
-    commentsToLikes: 0.013705
-    id: ck5zx248i77710i14nqe5m86p
-    verified: false
-    hashtags: "#venicebeach, #artlatte, #breakfast, #confin"
-  - username: "alicewonderbear"
-    fullname: >-
-      Alice Miller | CURVYMODEL
-    location: "Spain"
-    followers: 10641
-    engagement: 556
-    commentsToLikes: 0.155213
-    id: ck5qedb58zxld0i11ihyb8pp9
-    verified: false
-    hashtags: "#feliznavidad, #editorial, #sheincurve, #louvre"
-  - username: "dr.alejandro.segarra"
-    fullname: >-
-      Dr. Alejandro Segarra
-    location: "Spain"
-    followers: 30717
-    engagement: 309
-    commentsToLikes: 0.110707
-    id: ck55kbo51yxte0i11zato21js
-    verified: false
-    hashtags: "#skincare, #beforeandafter, #beautybarcelona, #madrid"
+    hashtags: "#diorbeautylovers, #skin, #igtv, #hmhome"
   - username: "davidbulky"
     fullname: >-
       D A V I D  B U L K Y 🚓
     location: "Spain"
-    followers: 12329
-    engagement: 869
-    commentsToLikes: 0.022097
+    followers: 12356
+    engagement: 829
+    commentsToLikes: 0.025085
     id: ck5hix9t0fmqv0i11s4ccfci6
     verified: false
-    hashtags: "#ejercicio, #hombres, #sport, #findea"
-  - username: "danirull.official"
+    hashtags: "#lucesdenavidad, #summer, #eyesblue, #home"
+  - username: "elisabethcavas"
     fullname: >-
-      danielrull
+      🌿Diario de una inconformista🌿
     location: "Spain"
-    followers: 17457
-    engagement: 338
-    commentsToLikes: 0.103131
-    id: ck0w0ii8tedh20i19eb5soii8
+    followers: 12042
+    engagement: 624
+    commentsToLikes: 0.552109
+    id: ck5hgnriv3sb00i11c1may16t
     verified: false
-    hashtags: "#stylist, #dioraddict, #art, #model"
+    hashtags: "#diadelamadre, #sorteosbebes, #partocesarea, #fashionblogger"
+  - username: "goodgoodgorgeous"
+    fullname: >-
+      Haya Tetruashvili ✨ חיה 🇮🇱/🇬🇪
+    location: "Spain"
+    followers: 29904
+    engagement: 184
+    commentsToLikes: 0.062379
+    id: ck8syiblwkwh50j784m48o88v
+    verified: false
+    hashtags: "#barcelona, #selflove, #life, #dcblogger"
+  - username: "german__hernandez"
+    fullname: >-
+      Germán  Hernández
+    location: "Spain"
+    followers: 5746
+    engagement: 517
+    commentsToLikes: 0.015124
+    id: ck13a2vxjod200i19etboffoj
+    verified: false
+    hashtags: "#pinuphair, #photograph, #photoshooting, #skincare"
+  - username: "mire_si"
+    fullname: >-
+      mire_si
+    location: "Spain"
+    followers: 10037
+    engagement: 922
+    commentsToLikes: 0.099151
+    id: ck6u71zp3j0c40j719ic37vah
+    verified: false
+    hashtags: "#skincare, #skintreatment, #gelatto, #tiedye"
+  - username: "sinmkp"
+    fullname: >-
+      Sinmkp y con mascarilla
+    location: "Spain"
+    followers: 3056
+    engagement: 1620
+    commentsToLikes: 0.254254
+    id: ck5ci9cufs8m90i11d6bp2nsa
+    verified: false
+    hashtags: "#suscripci, #skincareadvice, #gold, #fragrancelover"
   - username: "diariodeestilo"
     fullname: >-
       Mariona Planas
     location: "Spain"
-    followers: 35427
-    engagement: 110
-    commentsToLikes: 0.102938
+    followers: 35088
+    engagement: 107
+    commentsToLikes: 0.068724
     id: ck14ktbger7qk0i19ljokz1z6
     verified: false
-    hashtags: "#equipment, #new, #sneakers, #potenciatubelleza"
+    hashtags: "#stayhome, #hair, #beautycare, #lacomercialbcn"
+  - username: "tulipwonderland_"
+    fullname: >-
+      TulipWonderland
+    location: "Spain"
+    followers: 12993
+    engagement: 584
+    commentsToLikes: 0.137394
+    id: ck8tcw34e0wpn0j78ji9gl0e9
+    verified: false
+    hashtags: "#pulsera, #cuidadodelapiel, #birra, #retrato"
+  - username: "srtajennie"
+    fullname: >-
+      Jennie Carrizo
+    location: "Spain"
+    followers: 11462
+    engagement: 627
+    commentsToLikes: 0.055244
+    id: ck5hskt7xwr3y0i11ynqmruwt
+    verified: false
+    hashtags: "#dreadlife, #collioure, #clarins, #grafomotricidad"
 ---

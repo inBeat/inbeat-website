@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Belgium In 2020
 description: >-
-  Find top fitness Instagram influencers in Belgium in 2020. Most popular hashtags: #fitness #motivation #belgium #stayhome.
+  Find top fitness Instagram influencers in Belgium in 2020. Most popular hashtags: #smile #fitnessgirl #style #workout.
 platform: Instagram
 profiles:
+  - username: "lifestyle_fashion68"
+    fullname: >-
+      Carpe Diem🇧🇪
+    location: "Belgium"
+    followers: 22455
+    engagement: 992
+    commentsToLikes: 0.269231
+    id: ck15uaov9m8sn0i194u5jq4h2
+    verified: false
+    hashtags: "#outdoor, #ageless, #fashioninta, #eyewearstyle"
+  - username: "assya.grs"
+    fullname: >-
+      Superpaco6  ✨🐨🎮
+    location: "Belgium"
+    followers: 10104
+    engagement: 1604
+    commentsToLikes: 0.067022
+    id: ck9hb93x3fv9q0j78ykmv4qoi
+    verified: false
+    hashtags: "#game, #strength, #malibu, #staystrong"
+  - username: "mazzeijoyce"
+    fullname: >-
+      𝐉𝐨𝐲𝐜𝐞 𝐌𝐚𝐳𝐳𝐞𝐢 ☽
+    location: "Belgium"
+    followers: 6239
+    engagement: 1742
+    commentsToLikes: 0.042540
+    id: ck8t4hap26tgc0j7804p0d62a
+    verified: false
+    hashtags: "#girly, #inspiration, #mirrorpic, #curvygirl"
+  - username: "girbe.thys"
+    fullname: >-
+      Girbe Thys
+    location: "Belgium"
+    followers: 5242
+    engagement: 3449
+    commentsToLikes: 0.036564
+    id: ck8t4hbve6tlc0j78yo7qvpeg
+    verified: false
+    hashtags: "#bandana, #longhair, #legday, #stronger"
   - username: "fabian.fcs"
     fullname: >-
       Fabian
     location: "Belgium"
-    followers: 5305
-    engagement: 714
-    commentsToLikes: 0.117201
+    followers: 5235
+    engagement: 731
+    commentsToLikes: 0.116412
     id: ck0w3reeduvs60i19vfw0rnd0
     verified: false
-    hashtags: "#shooting, #photoshoot, #ootdmen, #streetwear"
-  - username: "laura.oliveiragranja"
-    fullname: >-
-      𝐿𝑎𝑢𝑟𝑎 𝑂𝑙𝑖𝑣𝑒𝑖𝑟𝑎 𝐺𝑟𝑎𝑛𝑗𝑎
-    location: "Belgium"
-    followers: 13065
-    engagement: 401
-    commentsToLikes: 0.112796
-    id: ck6txv5tn019a0j71dktpndhx
-    verified: false
-    hashtags: "#vintage, #glamchallenge, #helpeachother, #motivation"
-  - username: "magzzfit"
-    fullname: >-
-      🌸 MAGALI 🌸
-    location: "Belgium"
-    followers: 6982
-    engagement: 1466
-    commentsToLikes: 0.059810
-    id: ck15t7ms7gq4z0i19nr9yidau
-    verified: false
-    hashtags: "#women, #motivation, #fitnessjourney, #igfitfam"
+    hashtags: "#labo, #forsanclothing, #snow, #finalclub"
   - username: "loic_vanlang"
     fullname: >-
       Loic Van Lang
     location: "Belgium"
-    followers: 32917
-    engagement: 211
-    commentsToLikes: 0.076454
+    followers: 32369
+    engagement: 208
+    commentsToLikes: 0.081389
     id: ck6txv4o6013a0j71cdbx4z2e
     verified: false
-    hashtags: "#casalinda, #meugalo, #keepinghealthy, #ipanemabeach"
-  - username: "lexharlee"
+    hashtags: "#saopaulo, #bodygoals, #jacuzzi, #ootdmens"
+  - username: "coleenaupresent"
     fullname: >-
-      alexis
+      COLEEN ♥
     location: "Belgium"
-    followers: 45809
-    engagement: 480
-    commentsToLikes: 0.018369
-    id: ck5hf8yliwd0b0i118glo6s22
+    followers: 9187
+    engagement: 513
+    commentsToLikes: 0.112122
+    id: ckaotohaawsbv0i78eba8dnm6
     verified: false
-    hashtags: "#vegan"
-  - username: "hennyseroeyen"
+    hashtags: "#mangerequilibre, #naturopathie, #stayathome, #girlinbath"
+  - username: "somewherewithxiao"
     fullname: >-
-      WBFF PRO Fitness Model
+      𝐓𝐑𝐀𝐕𝐄𝐋 ╳ 𝐋𝐈𝐅𝐄 𝐒𝐓𝐘𝐋𝐄 🐚
     location: "Belgium"
-    followers: 171183
-    engagement: 537
-    commentsToLikes: 0.020108
-    id: ck6trfi5nyorg0j7144qgzj2o
-    verified: true
-    hashtags: "#plantbased, #stayhome, #thisishowwestayathome, #fitinuwkot"
-  - username: "esseveemedical"
-    fullname: >-
-      Esseveemedical
-    location: "Belgium"
-    followers: 22354
-    engagement: 596
-    commentsToLikes: 0.010840
-    id: ck5hm2mfql9nn0i113rp55mcq
+    followers: 9639
+    engagement: 497
+    commentsToLikes: 0.081644
+    id: ckaoz5ltdkh340i784r454hyh
     verified: false
-    hashtags: "#strength, #brain, #challenges, #injury"
-  - username: "steveboedt"
+    hashtags: "#sunday, #tanlife, #travel, #contentcreator"
+  - username: "magzzfit"
     fullname: >-
-      Steve Boedt
+      Miauw miauw
     location: "Belgium"
-    followers: 143845
-    engagement: 117
-    commentsToLikes: 0.040574
-    id: ck135zw7b42gg0i19d2bkhv29
-    verified: true
-    hashtags: "#mindset, #believe, #like, #author"
-  - username: "rkperformance_"
-    fullname: >-
-      RK#️⃣
-    location: "Belgium"
-    followers: 11700
-    engagement: 835
-    commentsToLikes: 0.012384
-    id: ck8szvjcipvdp0j78z6ijwz4l
+    followers: 7068
+    engagement: 1500
+    commentsToLikes: 0.058296
+    id: ck15t7ms7gq4z0i19nr9yidau
     verified: false
-    hashtags: "#football, #explosive, #performance, #trainer"
-  - username: "paulienmullaertx"
+    hashtags: "#iphone, #pretty, #caseiphone, #girly"
+  - username: "justinevandermeersch"
     fullname: >-
-      Paulien 🌸
+      JUSTINE VAN DER MEERSCH
     location: "Belgium"
-    followers: 4282
-    engagement: 2214
-    commentsToLikes: 0.307153
-    id: ck6ug78751blj0j71o6k140kl
+    followers: 13333
+    engagement: 714
+    commentsToLikes: 0.017332
+    id: ck5hmpp55me7b0i11zsn18amm
     verified: false
-    hashtags: "#fitgram, #wiwtoday, #instabruges, #leapyearbirthday"
+    hashtags: "#pillowchallenge"
 ---

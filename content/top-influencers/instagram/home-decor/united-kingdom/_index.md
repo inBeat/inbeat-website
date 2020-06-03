@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top home decor Instagram influencers in United Kingdom in 2020. Most popular hashtags: #homedecor #love #interiordesign #ootd.
+  Find top home decor Instagram influencers in United Kingdom in 2020. Most popular hashtags: #homedecor #homesweethome #homedesign #relax.
 platform: Instagram
 profiles:
-  - username: "janki.home"
-    fullname: >-
-      𝑀𝑎𝑟𝑡𝑦𝑛𝑎
-    location: "United Kingdom"
-    followers: 80923
-    engagement: 337
-    commentsToLikes: 0.098113
-    id: ck5cc4dicgp6g0i11v00rdyzy
-    verified: false
-    hashtags: "#pillowchallenge, #rattanlovers, #whiteinterior, #girlsroominspo"
   - username: "homewithboys_x"
     fullname: >-
-      𝑯𝒂𝒏𝒏𝒂𝒉
+      Homewithboys_x
     location: "United Kingdom"
-    followers: 15643
-    engagement: 388
-    commentsToLikes: 0.222253
+    followers: 16880
+    engagement: 426
+    commentsToLikes: 0.199398
     id: ck6u70sf8it030j71xmwoiqkx
     verified: false
-    hashtags: "#interior4inspo, #boysroom, #entrancehall, #bathroom"
-  - username: "athomewiththedenslows"
+    hashtags: "#bathroomgoals, #homesense, #positivevibes, #entrancedecor"
+  - username: "bandarahome"
     fullname: >-
-      LIFESTYLE | DECOR
+      Maggie
     location: "United Kingdom"
-    followers: 8164
-    engagement: 510
-    commentsToLikes: 0.489392
-    id: ck6u5vex5bz1k0j714fm313wq
+    followers: 2644
+    engagement: 1336
+    commentsToLikes: 0.137845
+    id: ck8tbuzlvx99d0j78u1s3th1j
     verified: false
-    hashtags: "#trip, #homesweethome, #lovely, #dressingroom"
+    hashtags: "#romantown, #jadalnia, #dailywalk, #dzieci"
+  - username: "the_scruff_house"
+    fullname: >-
+      The Scruff House
+    location: "United Kingdom"
+    followers: 2879
+    engagement: 1395
+    commentsToLikes: 0.053512
+    id: ckaowjdnd96ln0i78yubmi8jd
+    verified: false
+    hashtags: "#interior, #periodproperty, #myhomedecor, #hallwayinspo"
   - username: "monika_d98"
     fullname: >-
       M O N I K A ☁️ Fashion Blogger
     location: "United Kingdom"
-    followers: 3491
-    engagement: 2602
-    commentsToLikes: 0.218251
+    followers: 3923
+    engagement: 2479
+    commentsToLikes: 0.179666
     id: ck55mwudw500g0i11vdnvq72o
     verified: false
-    hashtags: "#abbottlyon, #bluemarine, #theoutfitscrapbook, #mirrorselfie"
-  - username: "mammy.mon"
+    hashtags: "#fashionideas, #realoutfitgram, #wallart, #oceancollection"
+  - username: "rach_mummy2_hugo_sofia"
     fullname: >-
-      Monika
+      Rachael
     location: "United Kingdom"
-    followers: 2689
-    engagement: 2417
-    commentsToLikes: 0.122664
-    id: ck8t3qc1z43820j78ino2x3z1
+    followers: 24120
+    engagement: 580
+    commentsToLikes: 0.450969
+    id: ck0w0nzrkf6ax0i19ckejfxv8
     verified: false
-    hashtags: "#dziecko, #fashionstyleblogs, #instadziewczyna, #kidsstyling"
-  - username: "mels_anatomy"
+    hashtags: "#bookworm, #throwback, #homesweethome, #toddlerfoods"
+  - username: "mrsvmummyto3"
     fullname: >-
-      Melanie Navarro 🥀
+      Lydia Venus 🇬🇧 Solihull, UK
     location: "United Kingdom"
-    followers: 41042
-    engagement: 330
-    commentsToLikes: 0.075924
-    id: ck5zv0tmn3dvp0i14b12bjbkf
+    followers: 25469
+    engagement: 453
+    commentsToLikes: 0.147082
+    id: ck15qqdg945330i1960tr6x8g
     verified: false
-    hashtags: "#welltravelled, #rings, #canon, #sunnyday"
-  - username: "virginiepilotte"
+    hashtags: "#takumiforgood, #trollscostume, #trollstoys, #bookblogger"
+  - username: "lippers01"
     fullname: >-
-      VIRGINIE 🌻
+      𝐑𝐨𝐬𝐢𝐞 𝐋𝐢𝐩𝐩𝐦𝐚𝐧𝐧 🖤
     location: "United Kingdom"
-    followers: 19137
-    engagement: 404
-    commentsToLikes: 0.093933
-    id: ck55ppopob3mx0i11k0dp0cdv
+    followers: 11673
+    engagement: 854
+    commentsToLikes: 0.584154
+    id: ck6tlsytd6l160j71fswhqfjb
     verified: false
-    hashtags: "#slowsunday, #gifted, #essentielsco, #cozyhome"
-  - username: "reginalondonblog"
+    hashtags: "#earthday, #covid19, #alcohol, #missing"
+  - username: "heidiherkes"
     fullname: >-
-      Carol Regina
+      Heidi Herkes
     location: "United Kingdom"
-    followers: 5636
-    engagement: 711
-    commentsToLikes: 0.096808
-    id: ck8wdgxc3dtmm0j78jyrf1vjm
+    followers: 10176
+    engagement: 794
+    commentsToLikes: 0.080499
+    id: ck55lqf5826030i11jiv1g9gh
     verified: false
-    hashtags: "#babydance, #girls, #love, #brotherlove"
-  - username: "nylahdoughty"
+    hashtags: "#lifeisgood, #glamourous, #awareness, #moment"
+  - username: "ladyofthemanor77"
     fullname: >-
-      Nylah Doughty  👑💕
+      Hayley Karseras
     location: "United Kingdom"
-    followers: 27688
-    engagement: 214
-    commentsToLikes: 0.155194
-    id: ck5hdu476pdw40i11k9fx1fkc
+    followers: 42650
+    engagement: 303
+    commentsToLikes: 0.238387
+    id: ck6tp1olnhc6x0j71r72ce86g
     verified: false
-    hashtags: "#babygirl, #momlife, #parentingskills, #babyannouncement"
-  - username: "cheripavitt"
+    hashtags: "#lilacseason, #myworld, #entertowin, #bunchofflowers"
+  - username: "ickle_na"
     fullname: >-
-      ➕ Cheri Pavitt ➕
+      N a o m i 🇬🇧 #ickleootd
     location: "United Kingdom"
-    followers: 41522
-    engagement: 199
-    commentsToLikes: 0.173237
-    id: ck6u8nk9fsm0y0j71uc9noi4t
+    followers: 21726
+    engagement: 406
+    commentsToLikes: 0.070133
+    id: ck0u9hlhc9vja0i19a2ekpnos
     verified: false
-    hashtags: "#bloggeruk, #mymblogger, #decor, #motheranddaughter"
+    hashtags: "#crafts, #mumsofinstagram, #dental, #homeschool"
 ---

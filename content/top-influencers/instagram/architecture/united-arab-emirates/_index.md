@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top architecture Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubai #uae #photography #travel.
+  Find top architecture Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #architecture #dubaimarina #abudhabi #photooftheday.
 platform: Instagram
 profiles:
+  - username: "khd_uae"
+    fullname: >-
+      Khalid Al Hammadi خالد الحمادي
+    location: "United Arab Emirates"
+    followers: 41562
+    engagement: 1640
+    commentsToLikes: 0.079759
+    id: ck14i2t3ydcwo0i191vfqfrae
+    verified: false
+    hashtags: "#natgeoyourshot, #lazyshutters, #longexposures, #hipacontest"
+  - username: "dubaiangle"
+    fullname: >-
+      Shailender Sharma
+    location: "United Arab Emirates"
+    followers: 12278
+    engagement: 459
+    commentsToLikes: 0.085439
+    id: ckaor7g87m1mj0i783nv55zm3
+    verified: false
+    hashtags: "#desi, #india, #igbest, #bestcitypics"
   - username: "ahmad_kaddourah"
     fullname: >-
-      AHMAD KADDOURAH | أحمد قدوره
+      AHMAD KADDOURAH | أحمد قدوره
     location: "United Arab Emirates"
-    followers: 3333
-    engagement: 462
-    commentsToLikes: 0.107385
+    followers: 3117
+    engagement: 627
+    commentsToLikes: 0.093401
     id: ck8t9ctxznmkh0j7853p79zan
     verified: false
-    hashtags: "#architecturalphotography, #buildingphotography, #lookingup, #artphoto"
+    hashtags: "#arabpx, #perspective, #love, #california"
   - username: "_mustafasyed_"
     fullname: >-
       Mustafa Syed | MSP
     location: "United Arab Emirates"
-    followers: 17109
-    engagement: 380
-    commentsToLikes: 0.052358
+    followers: 17571
+    engagement: 393
+    commentsToLikes: 0.051588
     id: ck136y40v8twu0i19kaauuqz2
     verified: false
-    hashtags: "#dubaitag, #instalike, #auto, #champagne"
+    hashtags: "#theimaged, #picsdubai, #dailycaptures, #horsepower"
   - username: "danyeidphotography"
     fullname: >-
       Dany Eid
     location: "United Arab Emirates"
-    followers: 62430
-    engagement: 181
-    commentsToLikes: 0.020475
+    followers: 62367
+    engagement: 149
+    commentsToLikes: 0.019970
     id: ck13d4bwv3m550i1926wsydhh
     verified: false
-    hashtags: "#epicsunset, #dronelife, #deathvalley, #cracks"
-  - username: "safi_shadman"
+    hashtags: "#difc, #greenenergy, #worldplaces, #mountain"
+  - username: "thehauteinteriors"
     fullname: >-
-      S H A D M A N   (شادماں صفی)
+      T.H.I. INTERIORS
     location: "United Arab Emirates"
-    followers: 8296
-    engagement: 835
-    commentsToLikes: 0.027449
-    id: ck136ixr36pq90i19ea3ezt0k
+    followers: 176406
+    engagement: 118
+    commentsToLikes: 0.009215
+    id: ck6uidmn7egv80j71bqjpqh21
     verified: false
-    hashtags: "#newyear, #cathedral, #beautifuldestinations, #vessel"
-  - username: "ra.visual"
+    hashtags: "#riyadhlife"
+  - username: "_alex_dxb_"
     fullname: >-
-      R.Azmi
+      Λ L E X
     location: "United Arab Emirates"
-    followers: 8059
-    engagement: 1520
-    commentsToLikes: 0.157198
-    id: ck138nbm3h2jq0i19xwdicxmi
+    followers: 10266
+    engagement: 853
+    commentsToLikes: 0.063394
+    id: ck15ugdx7n23h0i196qtosxdh
     verified: false
-    hashtags: "#longexposure, #desert, #eclectric, #igcolor"
-  - username: "motaz_assi"
-    fullname: >-
-      Assi ~ Dubai📍~ Photographer 📸
-    location: "United Arab Emirates"
-    followers: 9767
-    engagement: 1547
-    commentsToLikes: 0.066957
-    id: ck8tatfd7szdy0j78xu3qeple
-    verified: false
-    hashtags: "#dream, #explore, #sunset, #burjkhalifa"
+    hashtags: "#dubainight, #pinkwallla, #magicalplace, #wanchaidistrict"
   - username: "rifle_psg1"
     fullname: >-
       
     location: "United Arab Emirates"
-    followers: 2073
-    engagement: 1633
-    commentsToLikes: 0.100514
+    followers: 2092
+    engagement: 1828
+    commentsToLikes: 0.087153
     id: ck5calupndnr70i11y2juvajt
     verified: false
-    hashtags: "#ajman, #uae, #bahrain, #egypt"
-  - username: "steviekahn"
+    hashtags: "#alain, #sniper, #architecture, #deadsea"
+  - username: "pablo.paka"
     fullname: >-
-      Stevie Kahn - Dubai
+      Pablo
     location: "United Arab Emirates"
-    followers: 36685
-    engagement: 501
-    commentsToLikes: 0.100063
-    id: ck13cjqzu0oxj0i19l0et9gb1
+    followers: 34487
+    engagement: 353
+    commentsToLikes: 0.007157
+    id: ck13cfv0p04w70i19wdpdyztm
     verified: false
-    hashtags: "#london, #bestvacations, #colors, #cityscape"
-  - username: "fafihelou"
+    hashtags: "#tropicalbeach, #morningswim, #lekeleke, #emirates"
+  - username: "cealla__"
     fullname: >-
-      Fafi Helou
+      ҡeʟʟeʏ 🌼
     location: "United Arab Emirates"
-    followers: 9967
-    engagement: 1334
-    commentsToLikes: 0.042283
-    id: ck6tyenky3a3x0j7125gqyki8
+    followers: 7183
+    engagement: 1294
+    commentsToLikes: 0.230715
+    id: ck9hcjuellqqx0j78m5n2gegw
     verified: false
-    hashtags: "#dubaiinstagram, #sunshine, #town, #photographyart"
-  - username: "rawadrh"
-    fullname: >-
-      Rawad
-    location: "United Arab Emirates"
-    followers: 2449
-    engagement: 2774
-    commentsToLikes: 0.116593
-    id: ck5hsqf6sx0ph0i116uosj8x4
-    verified: false
-    hashtags: "#beautifuldestinations, #amsterdamtrip, #likes, #aindubai"
+    hashtags: "#sheikzayedmosque, #longdistancerelationship, #travelmemories, #design"
 ---

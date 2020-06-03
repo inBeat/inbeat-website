@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Berlin In 2020
 description: >-
-  Find top skincare Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #germany #beauty #fashion.
+  Find top skincare Instagram influencers in Berlin in 2020. Most popular hashtags: #skincare #beauty #berlin #giveaway.
 platform: Instagram
 profiles:
-  - username: "annarichardso"
+  - username: "alert.anna"
     fullname: >-
-      Anna Richardson
+      Anna's Beautyblog 🇷🇺🇩🇪
     location: "Germany"
-    followers: 25808
-    engagement: 281
-    commentsToLikes: 0.061202
-    id: ck5bwkq26lw440i11qtnhfc23
+    followers: 7360
+    engagement: 607
+    commentsToLikes: 0.368634
+    id: ckap4glir7afe0i7832y9drfq
     verified: false
-    hashtags: "#oldphotos, #londontown, #media, #stress"
-  - username: "ausryy"
+    hashtags: "#newin, #drogeriebeauty, #biotin, #perfume"
+  - username: "ann_fitness_love"
     fullname: >-
-      Blogger • AUŠRINĖ KUJELYTĖ
+      🌸𝒜𝒩𝒯𝒥𝐸  🌸
     location: "Germany"
-    followers: 5282
-    engagement: 1015
-    commentsToLikes: 0.007821
-    id: ck1364w7r4rfl0i19lknpppc5
+    followers: 12924
+    engagement: 528
+    commentsToLikes: 0.127233
+    id: ck8t1phjowjm20j78602egao5
     verified: false
-    hashtags: "#lithuanian, #artistrysettingpowder, #beautiful, #dress"
-  - username: "_johanna_kl_"
+    hashtags: "#fitnessquote, #deutschland, #statfit, #sportygirl"
+  - username: "_laura_hwe"
     fullname: >-
-      Johanna
+      Laura  🥀☕️
     location: "Germany"
-    followers: 18694
-    engagement: 754
-    commentsToLikes: 0.039142
-    id: ck5hls5bvkrbe0i11x8t6d3ts
+    followers: 6223
+    engagement: 1251
+    commentsToLikes: 0.064037
+    id: ck9wozp6r76fr0j78nwzqbbqv
     verified: false
-    hashtags: "#hair, #sunset, #goodlife, #berlin"
-  - username: "aline.kaplan"
+    hashtags: "#stayhealthy, #prismaprotect, #beauty, #inspoblogger"
+  - username: "rinabinness"
     fullname: >-
-      Λ L I N E
+      rina binness
     location: "Germany"
-    followers: 115418
-    engagement: 85
-    commentsToLikes: 0.054267
-    id: ck0txp6knjzem0i19klc4cpuu
+    followers: 38518
+    engagement: 441
+    commentsToLikes: 0.286865
+    id: ck6ud9nj7jubj0j71y03r4j5p
     verified: false
-    hashtags: "#safiraxhannaschonberg, #girlslovetravel, #galaxyzflip, #90slovers"
-  - username: "evaimhof"
+    hashtags: "#darlingescapes, #holocaust, #sunrise, #telavivbeach"
+  - username: "terezapodesvova"
     fullname: >-
-      Eva Imhof
+      Tereza Podešvová
     location: "Germany"
-    followers: 84139
-    engagement: 239
-    commentsToLikes: 0.040910
-    id: ck55nh4qz67dr0i11k9yoo5xv
-    verified: true
-    hashtags: "#rosenmontag, #weekendmood, #interiordesign, #sundaymood"
-  - username: "xamirabeauty"
-    fullname: >-
-      🛍BEAUTY | FASHION | SALE🛍
-    location: "Germany"
-    followers: 54710
-    engagement: 594
-    commentsToLikes: 0.118508
-    id: ck55kildezdtg0i119bk24m7q
+    followers: 22106
+    engagement: 270
+    commentsToLikes: 0.011647
+    id: ck6022ok0gmkr0i14yrv0nctp
     verified: false
-    hashtags: "#eyebrows, #voneuch, #hudabeauty, #sale"
-  - username: "jenny__berlin"
+    hashtags: "#gifted, #gift, #repost, #foodporn"
+  - username: "josephine.krk"
     fullname: >-
-      🅙🅔🅝🅝🅘🅕🅔🅡
+      FITNESS · FASHION · LIFE
     location: "Germany"
-    followers: 67408
-    engagement: 1462
-    commentsToLikes: 0.036822
-    id: ck0ue3sqekjpb0i19w4kp39q6
+    followers: 9053
+    engagement: 1110
+    commentsToLikes: 0.235265
+    id: ck8t3pvbp41d10j78j3duk3wb
     verified: false
-    hashtags: "#straighthair, #sundayvibes, #foodpornhimmel, #sunday"
+    hashtags: "#serum, #fashionblog, #holiday, #selfietime"
+  - username: "blonde.heart"
+    fullname: >-
+      majena 🌸
+    location: "Germany"
+    followers: 10585
+    engagement: 977
+    commentsToLikes: 0.153530
+    id: ck8t5wudgbial0j78r2w9e7ks
+    verified: false
+    hashtags: "#trainingday, #sizezerogym, #verlosen, #special"
+  - username: "maximgiacomo"
+    fullname: >-
+      MAXIM GIACOMO
+    location: "Germany"
+    followers: 34578
+    engagement: 743
+    commentsToLikes: 0.163297
+    id: ck5c18z24uomo0i11ism1tg34
+    verified: false
+    hashtags: "#facepaint, #bookerellas, #fentybronzer, #interior"
   - username: "casa_lollipop_by_nadine"
     fullname: >-
       Casa Lollipop by Nadine 🎀🍭🎀
     location: "Germany"
-    followers: 15590
-    engagement: 487
-    commentsToLikes: 0.237505
+    followers: 16533
+    engagement: 510
+    commentsToLikes: 0.217789
     id: ck15uz728p6go0i1901ials5m
     verified: false
-    hashtags: "#plisseerock, #summerdress, #duesseldorfhelau, #schwesterschwester"
+    hashtags: "#lashoe, #skincare, #shutdown, #oldenburg"
   - username: "fraugehlhaar"
     fullname: >-
       Laura Gehlhaar
     location: "Germany"
-    followers: 15176
-    engagement: 1332
-    commentsToLikes: 0.023236
+    followers: 15606
+    engagement: 1161
+    commentsToLikes: 0.021032
     id: ck8t8j6pokoe10j78binpgy5j
     verified: false
-    hashtags: "#privilege, #liebe, #train, #portraitphotography"
-  - username: "jolinasofie"
-    fullname: >-
-      Joliηα Peppiηα Shαlуη Sofie
-    location: "Germany"
-    followers: 18348
-    engagement: 294
-    commentsToLikes: 0.062370
-    id: ck5c34wytylti0i11w42a14he
-    verified: false
-    hashtags: "#smile, #pool, #drama, #newwork"
+    hashtags: "#christmas, #xmastree, #happy, #bittersweet"
 ---

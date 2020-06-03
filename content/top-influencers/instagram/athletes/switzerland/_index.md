@@ -1,26 +1,36 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top athletes Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #fit #justdoit #workout.
+  Find top athletes Instagram influencers in Switzerland in 2020. Most popular hashtags: #stayhome #justdoit #nature #health.
 platform: Instagram
 profiles:
-  - username: "notanotherbasicbitch__"
+  - username: "lisamarilynh"
     fullname: >-
-      FRANZISKA MEULI
+      LISA
     location: "Switzerland"
-    followers: 22553
-    engagement: 808
-    commentsToLikes: 0.057972
-    id: ck0vyq7oo59440i19c6n7vt8y
+    followers: 7330
+    engagement: 1805
+    commentsToLikes: 0.051291
+    id: ckapbsp9h17a20i78knwkytik
     verified: false
-    hashtags: "#teethbleaching, #berlin, #foreheadkisses, #beautyadressesoftheday"
+    hashtags: "#brainfood, #treatyourselfwell, #hairgrowth, #beauty"
+  - username: "tyronejunior18"
+    fullname: >-
+      Stefan Tyrone Abomo 18
+    location: "Switzerland"
+    followers: 2607
+    engagement: 2026
+    commentsToLikes: 0.077834
+    id: ckapcfrhl3mk70i784ixtbe9f
+    verified: false
+    hashtags: "#splusswiss, #schweizernationalmannschaft, #2020, #ym28"
   - username: "liawaelti"
     fullname: >-
-      Lia Wälti
+      Lia Wälti
     location: "Switzerland"
-    followers: 45177
-    engagement: 1181
-    commentsToLikes: 0.009546
+    followers: 48850
+    engagement: 1140
+    commentsToLikes: 0.009270
     id: ck6turqhwi0z00j71dlft84fz
     verified: true
     hashtags: "#eachforequal"
@@ -28,80 +38,70 @@ profiles:
     fullname: >-
       Ajla Del Ponte
     location: "Switzerland"
-    followers: 10078
-    engagement: 1526
-    commentsToLikes: 0.013827
+    followers: 10193
+    engagement: 1425
+    commentsToLikes: 0.012570
     id: ck6tu0dp3dlc70j71nxamwmbp
     verified: false
-    hashtags: "#missionhouseoftherisingsun, #veryusefulhastags, #eastistheway, #norushchallenge"
-  - username: "julian_pagel_sw"
+    hashtags: "#norushchallenge, #onceateamalwaysateam, #missionhouseoftherisingsun, #veryusefulhastags"
+  - username: "nicolas_arnoux"
     fullname: >-
-      Julian Pagel
+      Nicolas Arnoux
     location: "Switzerland"
-    followers: 6026
-    engagement: 1468
-    commentsToLikes: 0.043118
-    id: ck5zq94lbu62w0i144159kd5h
+    followers: 15746
+    engagement: 521
+    commentsToLikes: 0.108319
+    id: ck0w55vmp21hb0i19allpfrn1
     verified: false
-    hashtags: "#baristiworkout, #mundocalist, #planche, #workout"
+    hashtags: "#prozisfrance, #bodypositive, #dogsledding, #travel"
   - username: "pamthorburn"
     fullname: >-
       Pam Thorburn
     location: "Switzerland"
-    followers: 6284
-    engagement: 727
-    commentsToLikes: 0.041946
+    followers: 6240
+    engagement: 720
+    commentsToLikes: 0.049653
     id: ck5hf6be5w02h0i11fqlrgth2
     verified: false
-    hashtags: "#korew, #learningtofly, #ink, #iamasweatybetty"
+    hashtags: "#badjokes, #ink, #learningtofly, #nofilter"
+  - username: "julian_pagel_sw"
+    fullname: >-
+      Julian Pagel
+    location: "Switzerland"
+    followers: 6933
+    engagement: 1493
+    commentsToLikes: 0.041978
+    id: ck5zq94lbu62w0i144159kd5h
+    verified: false
+    hashtags: "#workoutflow, #health, #gornation, #workoutexercise"
   - username: "_lucas20alves"
     fullname: >-
       Lucas Alves
     location: "Switzerland"
-    followers: 74859
-    engagement: 285
-    commentsToLikes: 0.018437
+    followers: 73713
+    engagement: 292
+    commentsToLikes: 0.017741
     id: ck6tsij5i4yf40j716imkj4f2
     verified: true
-    hashtags: "#100, #hometeam, #predator, #cratedwithadidas"
+    hashtags: "#predator, #cratedwithadidas, #100, #hometeam"
+  - username: "fassnacht16"
+    fullname: >-
+      Christian Fassnacht
+    location: "Switzerland"
+    followers: 14402
+    engagement: 1566
+    commentsToLikes: 0.013690
+    id: ckaozyydxo1cp0i782l9v3si3
+    verified: true
+    hashtags: "#stayhome, #team, #protectyourselfandothers, #dankef"
   - username: "selina_buechel"
     fullname: >-
       Selina Büchel
     location: "Switzerland"
-    followers: 8470
-    engagement: 1237
-    commentsToLikes: 0.003279
+    followers: 8445
+    engagement: 1216
+    commentsToLikes: 0.003941
     id: ck5hea0l7ru7u0i11rtd1yw8l
     verified: false
-    hashtags: "#montegordo, #goodcompany, #paradise, #lovethisgame"
-  - username: "joanaheidrich"
-    fullname: >-
-      Joana Heidrich
-    location: "Switzerland"
-    followers: 29371
-    engagement: 468
-    commentsToLikes: 0.007545
-    id: ck0twpnrhgbl80i19rkhyeq74
-    verified: true
-    hashtags: "#feeltlikeaprincess, #fight, #nonstop, #workhard"
-  - username: "jonnekoski"
-    fullname: >-
-      Jonne Koski
-    location: "Switzerland"
-    followers: 60707
-    engagement: 303
-    commentsToLikes: 0.007707
-    id: ck5hd308el8tg0i11sceleqfb
-    verified: true
-    hashtags: "#backtowork, #gotime, #canyoudoit, #livingroomcup"
-  - username: "paulianef"
-    fullname: >-
-      Pauliane
-    location: "Switzerland"
-    followers: 391103
-    engagement: 561
-    commentsToLikes: 0.006799
-    id: ck0vxecpsyhdz0i19gme5yccf
-    verified: false
-    hashtags: "#moto, #body, #paulianef, #world"
+    hashtags: "#paradise, #olympicspostponed, #babyshark, #bakingchallenge"
 ---

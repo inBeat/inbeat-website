@@ -1,9 +1,29 @@
 ---
 title: Top 10 Yoga Instagram Influencers In San Diego In 2020
 description: >-
-  Find top yoga Instagram influencers in San Diego in 2020. Most popular hashtags: #sandiego #fitness #yoga #love.
+  Find top yoga Instagram influencers in San Diego in 2020. Most popular hashtags: #sandiego #yoga #napavalley #sponsored.
 platform: Instagram
 profiles:
+  - username: "krista_kimberly"
+    fullname: >-
+      Krista DeBono
+    location: "United States"
+    followers: 157649
+    engagement: 299
+    commentsToLikes: 0.068300
+    id: ck0tuvigz8uyf0i19rkbgx08y
+    verified: true
+    hashtags: "#aesthetics, #wellness, #dogsofinsta, #lovely"
+  - username: "clodi.yogini"
+    fullname: >-
+      Claudine R.M.
+    location: "United States"
+    followers: 32070
+    engagement: 404
+    commentsToLikes: 0.026006
+    id: ck6u9arncwgn80j7105zcnylb
+    verified: false
+    hashtags: "#mexicanmodel, #quarantine, #vegan, #bodyart"
   - username: "vineliving"
     fullname: >-
       Mallory McEligot
@@ -14,94 +34,74 @@ profiles:
     id: ck5cfhekdmyiq0i11x09ctc4e
     verified: false
     hashtags: "#yountville, #coronafree, #winecountry, #cheesy"
+  - username: "dr.jess.md"
+    fullname: >-
+      Dr Jessica Peatross MD
+    location: "United States"
+    followers: 72222
+    engagement: 491
+    commentsToLikes: 0.096625
+    id: ck0vvu9laqss20i19rxw74y9h
+    verified: false
+    hashtags: "#virus, #iamforthepeople, #politics, #gluten"
+  - username: "annabr8nnan"
+    fullname: >-
+      𝐴𝑁𝑁𝐴 𝐵𝑅𝐸𝑁𝑁𝐴𝑁
+    location: "United States"
+    followers: 2666
+    engagement: 1126
+    commentsToLikes: 0.072440
+    id: ck8svyb0sd5go0j784v3n4qrf
+    verified: false
+    hashtags: "#ridgeydidge, #covid19, #tomhanks, #sheila"
   - username: "ericjunker"
     fullname: >-
       Eric Junker
     location: "United States"
-    followers: 7488
-    engagement: 474
-    commentsToLikes: 0.040028
+    followers: 9679
+    engagement: 415
+    commentsToLikes: 0.041227
     id: ck0w3r8b1uuxb0i19uq6ep3z3
     verified: false
-    hashtags: "#safeplaceforyouth, #poster, #virgilvillage, #yeahfieldtrip"
-  - username: "robertsturman"
+    hashtags: "#tent, #stayhomestaysafe, #kpcc, #rockclimbing"
+  - username: "kayla_gotfit"
     fullname: >-
-      Robert Sturman
+      Kayla Calderwood
     location: "United States"
-    followers: 61243
-    engagement: 120
-    commentsToLikes: 0.030539
-    id: ck6tknppz52dz0j716bblr37i
-    verified: true
-    hashtags: "#ojas, #influencer, #solitude, #humanesociety"
-  - username: "holistic_hart"
-    fullname: >-
-      𝗖𝗔𝗥𝗜𝗡𝗔 𝒥𝒶𝒹𝑒 𝗛𝗔𝗥𝗧 ♡ctnc,ihp,nlp
-    location: "United States"
-    followers: 39715
-    engagement: 223
-    commentsToLikes: 0.053366
-    id: ck5ckc2tiwkdt0i11irm5rik2
+    followers: 88654
+    engagement: 280
+    commentsToLikes: 0.018162
+    id: ckap0a9o3pg0p0i7849c13iwp
     verified: false
-    hashtags: "#spiritualpath, #choosewisely, #healingyourself, #inspiration"
-  - username: "taradise_95"
+    hashtags: "#sandiego, #bikinigirl, #motivation, #yoga"
+  - username: "runwithvictoria"
     fullname: >-
-      Tara Nicole~™️
+      Victoria
     location: "United States"
-    followers: 10419
-    engagement: 899
-    commentsToLikes: 0.128567
-    id: ck8sxcjgkgw8e0j789zegb03o
+    followers: 2331
+    engagement: 1253
+    commentsToLikes: 0.072244
+    id: ck8tajcgfs0ab0j78rcmjin7y
     verified: false
-    hashtags: "#love, #heroes, #optimistic, #motocross"
-  - username: "lotsoftotss"
-    fullname: >-
-      Tatiana Koval | Fitness
-    location: "United States"
-    followers: 23580
-    engagement: 218
-    commentsToLikes: 0.092269
-    id: ck6u9c8l1wpj10j71qvj9ymub
-    verified: false
-    hashtags: "#mixed, #gratitude, #howtohandstand, #purify"
+    hashtags: "#askingforafriend, #nikewomen, #explore, #rollerblading"
   - username: "thisisdavidlee"
     fullname: >-
       David Lee
     location: "United States"
-    followers: 23083
-    engagement: 182
-    commentsToLikes: 0.030084
+    followers: 22944
+    engagement: 202
+    commentsToLikes: 0.032957
     id: ck5hdsrlnp6uo0i113e4e1ap1
     verified: false
-    hashtags: "#artsy, #strong, #back, #countrygirl"
-  - username: "seeleyfoto"
-    fullname: >-
-      Brett Seeley
-    location: "United States"
-    followers: 66009
-    engagement: 182
-    commentsToLikes: 0.095108
-    id: ck15rtou49nii0i195wxku78x
-    verified: false
-    hashtags: "#mykonos, #lockdown2020, #beyourvalentine, #yoga"
-  - username: "omconnection"
-    fullname: >-
-      ॐॐॐ
-    location: "United States"
-    followers: 122028
-    engagement: 506
-    commentsToLikes: 0.006710
-    id: ck14jhml5ke5g0i1957nlog1b
-    verified: false
-    hashtags: "#luminokaya"
+    hashtags: "#azliving, #sunset, #pretty, #boudoir"
   - username: "itskarakay"
     fullname: >-
       Kara Kay
     location: "United States"
-    followers: 25912
-    engagement: 528
-    commentsToLikes: 0.020477
+    followers: 25971
+    engagement: 545
+    commentsToLikes: 0.023808
     id: ck5hiau8kcjnb0i112aizr64l
     verified: false
-    hashtags: "#ellie, #flashback, #microsofttwins, #sandiego"
+    hashtags: "#cozy, #charming, #dotd, #ranchosantafe"
 ---

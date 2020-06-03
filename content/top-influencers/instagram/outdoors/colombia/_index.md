@@ -1,107 +1,107 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In Colombia In 2020
 description: >-
-  Find top outdoors Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #travel #yomequedoencasa #nature.
+  Find top outdoors Instagram influencers in Colombia in 2020. Most popular hashtags: #outdoors #bogota #cuarentena #animals.
 platform: Instagram
 profiles:
   - username: "locombia"
     fullname: >-
       Locombia
     location: "Colombia"
-    followers: 23257
-    engagement: 307
-    commentsToLikes: 0.183419
+    followers: 23195
+    engagement: 296
+    commentsToLikes: 0.234017
     id: ck5zw15bi5a3m0i148n3du114
     verified: false
-    hashtags: "#eachforequal, #organic, #sheadventures, #beautifuldestinations"
-  - username: "pobeaudoin"
-    fullname: >-
-      𝐏.𝐎 𝐁𝐄𝐀𝐔𝐃𝐎𝐈𝐍
-    location: "Colombia"
-    followers: 55556
-    engagement: 923
-    commentsToLikes: 0.022026
-    id: ck5hj5t1sg2120i11knh9zf5t
-    verified: true
-    hashtags: "#seriequarantaine, #environnement, #dog, #outdoors"
-  - username: "andreitamtb"
-    fullname: >-
-      🚵ANDREITA💣
-    location: "Colombia"
-    followers: 48941
-    engagement: 465
-    commentsToLikes: 0.026923
-    id: ck138u2fli0r60i19nx75j4z0
-    verified: false
-    hashtags: "#amoelbarro, #energytime, #powergirl, #training"
+    hashtags: "#vanlifediaries, #earthdayathome, #travelawesome, #borntotravel"
   - username: "marigomezp"
     fullname: >-
       Mariana Gómez P
     location: "Colombia"
-    followers: 62655
-    engagement: 371
-    commentsToLikes: 0.025257
+    followers: 63821
+    engagement: 323
+    commentsToLikes: 0.030044
     id: ck5zpo1not0h00i142550week
     verified: false
-    hashtags: "#wahooligan, #encasa, #quedateencasa, #cyclinglifestyle"
-  - username: "thomycast"
+    hashtags: "#granola, #foodblogger, #podcasts, #doglove"
+  - username: "paulaellisfit"
     fullname: >-
-      T  H O M Y   C A S T A Ñ O
+      PAULA ELLIS
     location: "Colombia"
-    followers: 16102
-    engagement: 255
-    commentsToLikes: 0.105315
-    id: ck6txc6k7x0910j71y4itmjut
+    followers: 33537
+    engagement: 347
+    commentsToLikes: 0.073325
+    id: ck5hcfoq0hu560i11nl5nt23b
     verified: false
-    hashtags: "#outfit, #aesthetics, #moda, #denim"
-  - username: "alejocalderon"
+    hashtags: "#diet, #happybirthday, #family, #legday"
+  - username: "alitaclimbing"
     fullname: >-
-      alejo Calderón
+      alita climbing
     location: "Colombia"
-    followers: 28234
-    engagement: 177
-    commentsToLikes: 0.009675
-    id: ck5c5ikeu3jef0i11r56ppbzo
+    followers: 28409
+    engagement: 263
+    commentsToLikes: 0.052228
+    id: ck6u2l2hcsfge0j71ufj1bcx3
     verified: false
-    hashtags: "#igcolombia, #desdemiventana, #idcolombia, #igerscolombia"
-  - username: "sebastiandido"
+    hashtags: "#coordination, #instalive, #ejercicios, #adventuregirl"
+  - username: "eli.paz"
     fullname: >-
-      Sebastian Di Domenico
+      Elizabeth Paz
     location: "Colombia"
-    followers: 9447
-    engagement: 1330
-    commentsToLikes: 0.013335
-    id: ck55p6rkf9xhr0i11xppogh26
+    followers: 4909
+    engagement: 1206
+    commentsToLikes: 0.059669
+    id: ckap0kntcqq5d0i78ibkynj55
     verified: false
-    hashtags: "#bogota, #natgeo, #endemic, #herps"
+    hashtags: "#portraitfeed, #photoportrait, #beachvibes, #holidaystyle"
+  - username: "juliaticaofficial"
+    fullname: >-
+      J U L I A
+    location: "Colombia"
+    followers: 1630805
+    engagement: 257
+    commentsToLikes: 0.015465
+    id: ck8t73mkhfjb10j78urlv9xhu
+    verified: false
+    hashtags: "#soft, #focus, #34h, #jeans"
+  - username: "valentinelewis"
+    fullname: >-
+      Beauty & Lifestyle Influencer💋
+    location: "Colombia"
+    followers: 84541
+    engagement: 140
+    commentsToLikes: 0.099580
+    id: ck8wgetc3h7un0j78zv2mq1jb
+    verified: false
+    hashtags: "#discounted, #discounttire, #beautyyoutuber, #nailpop"
+  - username: "davebogota"
+    fullname: >-
+      David Becerra 🇨🇴🏳️‍🌈🇵🇱
+    location: "Colombia"
+    followers: 6231
+    engagement: 432
+    commentsToLikes: 0.031192
+    id: ck5q6az0fwo1h0i11dl5yissk
+    verified: false
+    hashtags: "#orange, #desk, #venecia, #projects"
   - username: "natalia_arbelaez_"
     fullname: >-
       Natalia Arbelaez
     location: "Colombia"
-    followers: 6952
-    engagement: 1070
-    commentsToLikes: 0.034175
+    followers: 6982
+    engagement: 1046
+    commentsToLikes: 0.031359
     id: ck5hkhs4jig060i11p7ook9me
     verified: false
-    hashtags: "#terracotta, #performance, #passingthebaton, #handbuilding"
-  - username: "martinme5a"
+    hashtags: "#passingthebaton, #coil, #mondaymotivation, #earthenware"
+  - username: "sebastiandido"
     fullname: >-
-      Martin Mesa
+      Sebastian Di Domenico
     location: "Colombia"
-    followers: 68962
-    engagement: 406
-    commentsToLikes: 0.014597
-    id: ck0tuq0ux87b80i19pcc86mjq
+    followers: 10392
+    engagement: 1164
+    commentsToLikes: 0.014598
+    id: ck55p6rkf9xhr0i11xppogh26
     verified: false
-    hashtags: "#wrangler, #gratitud, #mypartnerincrime, #troylee"
-  - username: "sacostamen"
-    fullname: >-
-      SANTIAGO ACOSTA MENDOZA
-    location: "Colombia"
-    followers: 40652
-    engagement: 151
-    commentsToLikes: 0.016061
-    id: ck8svreu0cf850j78ppu4394m
-    verified: false
-    hashtags: "#thisisliving, #canyoumakeit2020, #cumbre, #bulldoglife"
+    hashtags: "#eagle, #bear, #salamander, #mindo"
 ---

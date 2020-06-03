@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top yoga Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #yoga #handstand #handbalancing.
+  Find top yoga Instagram influencers in Las Vegas in 2020. Most popular hashtags: #yoga #summervibes #lasvegas #flowers.
 platform: Instagram
 profiles:
   - username: "anna_ivaseva"
     fullname: >-
       Anna Ivaseva
     location: "United States"
-    followers: 27066
-    engagement: 526
-    commentsToLikes: 0.011869
+    followers: 27511
+    engagement: 555
+    commentsToLikes: 0.015144
     id: ck8t0g926ryl50j78e5dubucd
     verified: false
-    hashtags: "#handbalancing, #grounded, #handstand, #lasvegasphotographer"
-  - username: "roxyfighter"
+    hashtags: "#youandme, #headspace, #tourlife, #fineart"
+  - username: "soulmatesbroadcast"
     fullname: >-
-      Roxanne Modafferi
+      Claudia & Abbey | Travel
     location: "United States"
-    followers: 79143
-    engagement: 104
-    commentsToLikes: 0.032282
-    id: ck6u5w2r1c3130j71fhjk3nvv
-    verified: true
-    hashtags: "#team, #getstronger, #zombieland, #dragonball"
-  - username: "aisha_crna"
-    fullname: >-
-      Capt Aisha Allen DNP, CRNA
-    location: "United States"
-    followers: 22041
-    engagement: 373
-    commentsToLikes: 0.062790
-    id: ck5ztalt401sb0i143nfjwnqn
+    followers: 6148
+    engagement: 551
+    commentsToLikes: 0.049565
+    id: ckaorh6s5n77o0i78bywz4px0
     verified: false
-    hashtags: "#nurseanesthetist, #idbemadtoo, #business, #nursesofig"
-  - username: "kenzi4u"
+    hashtags: "#jaspernationalpark, #canadianbloggers, #rockiemountains, #mauiphotographer"
+  - username: "alfonsoherrero"
     fullname: >-
-      Mackenzie ~ K.I.N.D.
+      Alfonso Herrero
     location: "United States"
-    followers: 3576
-    engagement: 994
-    commentsToLikes: 0.051665
-    id: ck5hnig88nu3b0i111yk077ji
+    followers: 158225
+    engagement: 430
+    commentsToLikes: 0.015159
+    id: ck5pz1cfeys8s0i1126a11b1s
     verified: false
-    hashtags: "#marchmadness, #bestself, #grandmasgravy, #greenhouseyogastudio"
+    hashtags: "#huaweiappjourney, #cake, #springvibes, #brownie"
+  - username: "thejordansoto"
+    fullname: >-
+      Jordan Soto 🔵
+    location: "United States"
+    followers: 15699
+    engagement: 315
+    commentsToLikes: 0.098722
+    id: ck8t8q5zklcmf0j78mn6ikgpr
+    verified: false
+    hashtags: "#farmlife, #wildlife, #wipes, #country"
+  - username: "sunnylanelive"
+    fullname: >-
+      Sunny Lane
+    location: "United States"
+    followers: 182989
+    engagement: 162
+    commentsToLikes: 0.023860
+    id: ck8t0ksa8sedg0j788udjbcra
+    verified: false
+    hashtags: "#letsgo, #superheroday, #memorialdayweeken, #lovers"
   - username: "nourishednatasha"
     fullname: >-
       The Nourishment Coach ✨
     location: "United States"
-    followers: 73659
-    engagement: 225
-    commentsToLikes: 0.031940
+    followers: 74062
+    engagement: 238
+    commentsToLikes: 0.031479
     id: ck5ccf8xqh91d0i11uty4w4o0
     verified: false
-    hashtags: "#athomeworkout, #workoutmodifications, #hersuccess, #griefsupport"
-  - username: "harmonyswank"
+    hashtags: "#breatheitin, #cyrvyblogger, #flexible, #fullmoonvibes"
+  - username: "rantnv"
     fullname: >-
-      𝓗𝓪𝓻𝓶𝓸𝓷𝔂 𝓢𝔀𝓪𝓷𝓴
+      Rick Anthony
     location: "United States"
-    followers: 81524
-    engagement: 163
-    commentsToLikes: 0.037368
-    id: ck5q76fi205wz0i11rw8zsvjz
+    followers: 12737
+    engagement: 910
+    commentsToLikes: 0.045723
+    id: ck8syq6f2lkxr0j78vrsbassh
     verified: false
-    hashtags: "#zurimeadow, #wwdmagic, #healinghippies, #converse"
-  - username: "jaaymieelee"
+    hashtags: "#milkyway, #longexposure, #sincity, #vegasnightlife"
+  - username: "keytoyoga"
     fullname: >-
-      Jaymie Hajewski
+      Key to Yoga🔑
     location: "United States"
-    followers: 9893
-    engagement: 645
-    commentsToLikes: 0.017303
-    id: ck5zzx3r9ckkq0i14sx2550xn
+    followers: 39348
+    engagement: 205
+    commentsToLikes: 0.012539
+    id: ck6u7yq8zofn40j717glh77vz
     verified: false
-    hashtags: "#vegasgirls, #makethebestouttait, #healthiswealth, #custompainted"
-  - username: "erika_yoga_and_unicorns"
+    hashtags: "#yogagirls, #lockdowndiaries, #worldofyoga, #athomeyoga"
+  - username: "theblondetravelsx0"
     fullname: >-
-      Erika Nicole ॐ | Yoga Teacher
+      JAMIE RIVERO  | Philly Blogger
     location: "United States"
-    followers: 24226
-    engagement: 178
-    commentsToLikes: 0.111148
-    id: ck5c44ccr0ln00i117je9bx9w
+    followers: 20192
+    engagement: 308
+    commentsToLikes: 0.158448
+    id: ck6tvd4a1ljt30j71pwjlidnd
     verified: false
-    hashtags: "#yogapose, #yogashapes, #handbalance, #zoommeeting"
-  - username: "stop_hamnertime"
+    hashtags: "#briogeo, #yoga, #alpinebabes, #travelinspo"
+  - username: "haareozawa"
     fullname: >-
-      JoJo Hamner
+      Krystal Ozawa💖小澤 晴☀️
     location: "United States"
-    followers: 5262
-    engagement: 738
-    commentsToLikes: 0.074498
-    id: ck6uh92im7qky0j71kc1hk8jc
+    followers: 2383
+    engagement: 864
+    commentsToLikes: 0.081809
+    id: ck8ta89qrqtfb0j780xtji2ye
     verified: false
-    hashtags: "#photography, #booty, #bestfriends, #nature"
-  - username: "denystolstov"
-    fullname: >-
-      DENYS TOLSTOV
-    location: "United States"
-    followers: 6010
-    engagement: 565
-    commentsToLikes: 0.031672
-    id: ck5zragyqw7qh0i14w05lmhzc
-    verified: false
-    hashtags: "#onearmhandstand, #circo, #circusaroundtheworld, #fitness"
+    hashtags: "#goodvibes, #pink, #flowers, #beautyblog"
 ---

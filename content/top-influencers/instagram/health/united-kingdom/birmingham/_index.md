@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Birmingham In 2020
 description: >-
-  Find top health Instagram influencers in Birmingham in 2020. Most popular hashtags: #birmingham #health #love #motivation.
+  Find top health Instagram influencers in Birmingham in 2020. Most popular hashtags: #health #birmingham #healthy #photos.
 platform: Instagram
 profiles:
-  - username: "independentbirmingham"
+  - username: "nxvelouise"
     fullname: >-
-      Independent Birmingham
+      N e v e y ♡
     location: "United Kingdom"
-    followers: 29072
-    engagement: 133
-    commentsToLikes: 0.040289
-    id: ck6tpw3ypnlud0j71cgoyqkk5
+    followers: 9876
+    engagement: 1088
+    commentsToLikes: 0.226005
+    id: ck9hbsqxeia6e0j78tsjyzpp3
     verified: false
-    hashtags: "#streetfood, #indianfood, #bonehead, #museum"
-  - username: "tabslifts"
+    hashtags: "#gymsharkleggings, #gettoknowme, #10factsaboutme, #femmeluxefinery"
+  - username: "juannafitness"
     fullname: >-
-      🌻TABS LOFTS🌻
+      JUANNA 🤍
     location: "United Kingdom"
-    followers: 10751
-    engagement: 1333
-    commentsToLikes: 0.090203
-    id: ck8takzw3s7990j78ziiid6f7
+    followers: 3773
+    engagement: 2370
+    commentsToLikes: 0.269731
+    id: ckap0okftr6tw0i78m4w9nmto
     verified: false
-    hashtags: "#isolationadvice, #motivation, #fitnessmotivation, #crossfit"
-  - username: "youraverageguystyle"
+    hashtags: "#doyou, #mentalhealth, #health, #kitten"
+  - username: "pennyfroreal"
     fullname: >-
-      Adam York
+      PENNYFROREAL
     location: "United Kingdom"
-    followers: 74192
-    engagement: 155
-    commentsToLikes: 0.119891
-    id: ck15sohpoe15c0i19fu5td510
+    followers: 18391
+    engagement: 394
+    commentsToLikes: 0.080976
+    id: ck8tcg07bzc950j78s6xdignn
     verified: false
-    hashtags: "#blogpost, #summerfashion, #fashionmen, #bloggerstyle"
-  - username: "peaky.blinders_shelby"
-    fullname: >-
-      Peaky Blinders
-    location: "United Kingdom"
-    followers: 10467
-    engagement: 4049
-    commentsToLikes: 0.003110
-    id: ck14l40hosqla0i19qzxozxhv
-    verified: false
-    hashtags: "#peakyblindersitalia, #quotes, #food, #love"
+    hashtags: "#boxbraids, #jimandhenry, #curlsuk, #mixedhair"
   - username: "steflikesplants"
     fullname: >-
-      stefanie
+      Stef | Health + Lifestyle ✨🌈
     location: "United Kingdom"
-    followers: 13331
-    engagement: 475
-    commentsToLikes: 0.054473
+    followers: 14126
+    engagement: 417
+    commentsToLikes: 0.092426
     id: ck5zua8o31za70i14zxd2ptpe
     verified: false
-    hashtags: ""
-  - username: "liveuptohername"
+    hashtags: "#health, #ad, #gifted, #takefive"
+  - username: "jokostyle"
     fullname: >-
-      Lexi 🎀
+      Joanna Elmo-Kowalska
     location: "United Kingdom"
-    followers: 16298
-    engagement: 727
-    commentsToLikes: 0.001623
-    id: ck5cik16gsslf0i11w5ovnhua
+    followers: 22249
+    engagement: 385
+    commentsToLikes: 0.035559
+    id: ck14i361sdeq50i19ryrd7xq9
     verified: false
-    hashtags: "#mustdo, #cappuccino, #birthdaycake, #caribbean"
+    hashtags: "#fitnesslovers, #bikini, #squadgoals, #worldtraveler"
   - username: "randomforestrunner"
     fullname: >-
       John Kelly
     location: "United Kingdom"
-    followers: 17148
-    engagement: 768
-    commentsToLikes: 0.021171
+    followers: 17502
+    engagement: 757
+    commentsToLikes: 0.018891
     id: ck5cfvkd9np5n0i11apt19wwc
     verified: false
-    hashtags: "#running, #relief, #edinburghcastle, #tennesee"
-  - username: "simplysamiyaa"
+    hashtags: "#christmas, #ultracommunity, #sportiviathome, #silverlining"
+  - username: "cobi95"
     fullname: >-
-      🌸 S A M I Y A 🌸
+      Cobi Thomas Ellis
     location: "United Kingdom"
-    followers: 15877
-    engagement: 448
-    commentsToLikes: 0.395425
-    id: ck5q5h769sv0i0i11jnxflkic
+    followers: 2265
+    engagement: 3384
+    commentsToLikes: 0.023276
+    id: ckaowl4xc9ef50i7829mfv2h9
     verified: false
-    hashtags: "#palestine, #aestheticallypleasing, #sparkhill, #mindfulness"
-  - username: "shaun_pelayo"
+    hashtags: "#cloud, #health, #getoutside, #motivate"
+  - username: "priyankaroy_pia"
     fullname: >-
-      The DreamChaser 🐼
+      Priyanka Roy 🌟
     location: "United Kingdom"
-    followers: 24410
-    engagement: 228
-    commentsToLikes: 0.145566
-    id: ck6uhsxx7b26i0j71nvgni4gu
+    followers: 32127
+    engagement: 223
+    commentsToLikes: 0.046928
+    id: ck6ubjk409ydm0j71xiaxeaxx
     verified: false
-    hashtags: "#afrobeat, #actor, #tattoos, #inkedmen"
-  - username: "sabphotos69"
+    hashtags: "#ram, #mumbaiactors, #compassion, #lightworkers"
+  - username: "helenjtea"
     fullname: >-
-      SAB Photography
+      Helen
     location: "United Kingdom"
-    followers: 5195
-    engagement: 512
-    commentsToLikes: 0.052301
-    id: ck6u9c76jwp8y0j71dovyx4pi
+    followers: 86748
+    engagement: 211
+    commentsToLikes: 0.132594
+    id: ck0u0v7z7uwvt0i19tsjkoem1
     verified: false
-    hashtags: "#lights, #landscape, #kidderminster, #hospital"
+    hashtags: "#sweetgains, #cakebar, #reeses, #giveaways"
+  - username: "sams_eats_"
+    fullname: >-
+      Sam Brown
+    location: "United Kingdom"
+    followers: 4482
+    engagement: 1351
+    commentsToLikes: 0.113800
+    id: ck9weyhuumfqs0j785ey2zolz
+    verified: false
+    hashtags: "#coriander, #plantbasedmeals, #marinatedtofu, #veganrecipe"
 ---

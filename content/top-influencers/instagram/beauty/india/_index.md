@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In India In 2020
 description: >-
-  Find top beauty Instagram influencers in India in 2020. Most popular hashtags: #fashionblogger #shein #indianblogger #delhiblogger.
+  Find top beauty Instagram influencers in India in 2020. Most popular hashtags: #fashionista #happyholi #bloggerstyle #blog.
 platform: Instagram
 profiles:
-  - username: "feelingfashioninside"
+  - username: "colorfulbonvoyage"
     fullname: >-
-      Personal Blog
+      miyuki4ever
     location: "India"
-    followers: 5110
-    engagement: 1870
-    commentsToLikes: 0.369683
-    id: ck8t8az4cjr370j786zot9dwa
+    followers: 10703
+    engagement: 1797
+    commentsToLikes: 0.150003
+    id: ck8tdqiwh4eko0j78af03rqic
     verified: false
-    hashtags: "#naturalskincareproducts, #hairgoals, #stayhomesavelives, #planforvacation"
-  - username: "sheoran_ani"
-    fullname: >-
-      Anita Sheoran
-    location: "India"
-    followers: 7221
-    engagement: 1611
-    commentsToLikes: 0.129720
-    id: ck134t2i8y27n0i19bylzcuf5
-    verified: false
-    hashtags: "#allskintypes, #happyskin, #crueltyfree, #aromatherapeutic"
-  - username: "biryanioverpeople"
-    fullname: >-
-      Naveli Khatri
-    location: "India"
-    followers: 7088
-    engagement: 1562
-    commentsToLikes: 0.092981
-    id: ck8t9tgvmpas00j784evhr9on
-    verified: false
-    hashtags: "#mineyhiestdekhzzz, #stayhomekarona, #safetgthr15, #apgtqr"
+    hashtags: "#cactuslovers, #sidewalkerdaily, #chooselovely, #athensgreece"
   - username: "thebeautycape"
     fullname: >-
       Anjali Soni | Jaipur Blogger
     location: "India"
-    followers: 8450
-    engagement: 1536
-    commentsToLikes: 0.134917
+    followers: 9313
+    engagement: 1510
+    commentsToLikes: 0.105464
     id: ck8t7j0sqgzle0j78l7n9t8w2
     verified: false
-    hashtags: "#fashioninspo, #bulbulshoplive, #paysafeindia, #fashiontrends"
+    hashtags: "#staysafe20mch, #worldsleepday, #digitalfoody, #fashioninspo"
   - username: "sushma_pappya_gaikwad"
     fullname: >-
       👑Sony PapPya Gaikwad👑
     location: "India"
-    followers: 310091
-    engagement: 836
-    commentsToLikes: 0.035201
+    followers: 317924
+    engagement: 922
+    commentsToLikes: 0.039474
     id: ck14h9f98978q0i19ezacqkwe
     verified: false
     hashtags: "#shein, #sheingirlpower"
-  - username: "majestic_mum"
+  - username: "thatnomadicdesigirl"
     fullname: >-
-      Riya Mitra | Kolkata Blogger
+      Sithara Nagaraj
     location: "India"
-    followers: 3108
-    engagement: 2172
-    commentsToLikes: 0.124170
-    id: ck8t73p31fjin0j78bzz43v9g
+    followers: 12765
+    engagement: 1275
+    commentsToLikes: 0.156356
+    id: ckaoxkmpsdod60i78qc848ny5
     verified: false
-    hashtags: "#coronagoaway, #chalubhaluz, #onemoment, #stayhealthy"
-  - username: "miss_preet__"
+    hashtags: "#tamilactress, #mumbaifood, #keralagram, #carefit"
+  - username: "sheoran_ani"
     fullname: >-
-      Preet Kaur | Blogger
+      Anita Sheoran
     location: "India"
-    followers: 3255
-    engagement: 2179
-    commentsToLikes: 0.115197
-    id: ck8tc5kzcycwv0j78m6t6krq8
+    followers: 8242
+    engagement: 1218
+    commentsToLikes: 0.167926
+    id: ck134t2i8y27n0i19bylzcuf5
     verified: false
-    hashtags: "#indianblog, #indianwear, #voguemagazine, #giveaway"
-  - username: "komalvermaofficial"
-    fullname: >-
-      @KomalVerma
-    location: "India"
-    followers: 18116
-    engagement: 858
-    commentsToLikes: 0.068874
-    id: ck136dy8e60n70i19deinga64
-    verified: false
-    hashtags: "#oldsong, #fashiongirl, #delhigram, #sareeinspiration"
-  - username: "snehasachdeva26"
-    fullname: >-
-      SNEHA SACHDEVA 👑
-    location: "India"
-    followers: 89229
-    engagement: 1328
-    commentsToLikes: 0.031232
-    id: ck13alidkqyqk0i19x5df7122
-    verified: false
-    hashtags: "#happylife, #fashionnova, #loveyoufans, #youtubesubscribers"
+    hashtags: "#madeinindia, #leisure, #selfportrait, #shotononeplus"
   - username: "yogita__gupta__"
     fullname: >-
       Yogita Gupta
     location: "India"
-    followers: 502820
-    engagement: 453
-    commentsToLikes: 0.103017
+    followers: 516734
+    engagement: 554
+    commentsToLikes: 0.120339
     id: ck0ty0x1ql52l0i198adlw0fk
     verified: false
-    hashtags: "#plixxoinfluencer, #1more, #stylishtws, #tee"
+    hashtags: "#skincareroutine, #jumpsuit, #oneplus8pro, #iqoo3"
+  - username: "komalvermaofficial"
+    fullname: >-
+      @KomalVerma
+    location: "India"
+    followers: 18796
+    engagement: 795
+    commentsToLikes: 0.073450
+    id: ck136dy8e60n70i19deinga64
+    verified: false
+    hashtags: "#newmommy, #fabuloussong, #fishingaddict, #fashiongirl"
+  - username: "snehasachdeva26"
+    fullname: >-
+      SNEHA SACHDEVA 👑
+    location: "India"
+    followers: 102559
+    engagement: 1274
+    commentsToLikes: 0.033154
+    id: ck13alidkqyqk0i19x5df7122
+    verified: false
+    hashtags: "#loveyou, #hairs, #beauty, #collabration"
+  - username: "raashiii__"
+    fullname: >-
+      R A A S H I 🌻
+    location: "India"
+    followers: 113633
+    engagement: 1439
+    commentsToLikes: 0.029967
+    id: ck13cw0172fup0i19tv3kz9ge
+    verified: false
+    hashtags: "#igexplore, #musicpage, #fashion, #tuesdaymood"
+  - username: "unnuuuuuuu"
+    fullname: >-
+      UNNATI JAIN | Fashion & Beauty
+    location: "India"
+    followers: 30841
+    engagement: 1061
+    commentsToLikes: 0.045306
+    id: ckaozkxyemby70i78h2hpcx04
+    verified: false
+    hashtags: "#photo, #picsart, #instantglow, #detanscrub"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Singapore In 2020
 description: >-
-  Find top yoga Instagram influencers in Singapore in 2020. Most popular hashtags: #yoga #yogaeverydamnday #singapore #yogateacher.
+  Find top yoga Instagram influencers in Singapore in 2020. Most popular hashtags: #yogaathome #sgunited #throwback #plankchallenge.
 platform: Instagram
 profiles:
   - username: "angeliqueteo"
     fullname: >-
       Angelique Nicolette Teo
     location: "Singapore"
-    followers: 18285
-    engagement: 634
-    commentsToLikes: 0.123427
+    followers: 18140
+    engagement: 659
+    commentsToLikes: 0.119655
     id: ck5hnkcnnnxiw0i11iok283vh
     verified: false
-    hashtags: "#baubles, #december, #yearoftherat, #vegan"
+    hashtags: "#workhard, #celebrateyou, #earthhour2020, #solitude"
   - username: "1.228"
     fullname: >-
       Leong.Jerry
     location: "Singapore"
-    followers: 6822
-    engagement: 717
-    commentsToLikes: 0.026104
+    followers: 6842
+    engagement: 691
+    commentsToLikes: 0.030618
     id: ck6uc6pbmdu6g0j71tmpykdfw
     verified: false
-    hashtags: "#purefitness, #pinchamayurasana, #rajakapotasana, #backbending"
-  - username: "agalyah_maniam"
+    hashtags: "#balancing, #humbleflamingo, #kingdancer, #trikonasana"
+  - username: "roxannegan_"
     fullname: >-
-      Agalyah Maniam
+      ROXANNE GAN
     location: "Singapore"
-    followers: 81864
-    engagement: 763
-    commentsToLikes: 0.005969
-    id: ck0w3gh02t9zj0i19y6o7mvdf
+    followers: 124928
+    engagement: 134
+    commentsToLikes: 0.011821
+    id: ck0vxnqw9zteb0i190sr9gudl
     verified: false
-    hashtags: "#familytime, #tomato, #smillesformiles, #bffbigday"
+    hashtags: "#plankchallenge, #yogaeveryday, #hiit, #couplethings"
   - username: "denisekellerofficial"
     fullname: >-
       Denise Keller
     location: "Singapore"
-    followers: 45720
-    engagement: 277
-    commentsToLikes: 0.015002
+    followers: 46111
+    engagement: 257
+    commentsToLikes: 0.019218
     id: ck0w5so1j58yz0i190lkimec3
     verified: true
-    hashtags: "#throwbackedition, #yogadaily, #fitnessbody, #fitnesssingapore"
+    hashtags: "#travelawesome, #travelmore, #yogapants, #manduka"
   - username: "yennychristine"
     fullname: >-
       Yenny Christine
     location: "Singapore"
-    followers: 108887
-    engagement: 158
-    commentsToLikes: 0.027637
+    followers: 109909
+    engagement: 133
+    commentsToLikes: 0.037339
     id: ck6tijjbg0u4w0j710mucx8ie
     verified: false
-    hashtags: "#downdogtodandasana, #yogabloopers, #cheststand, #windmillhandstand"
-  - username: "sadhguru"
+    hashtags: "#locustpose, #archerarms, #lemur, #hollowback"
+  - username: "agalyah_maniam"
     fullname: >-
-      Sadhguru
+      Agalyah Maniam
     location: "Singapore"
-    followers: 2972988
-    engagement: 230
-    commentsToLikes: 0.006605
-    id: ck5bwelm6ljs30i11qrdisn9n
-    verified: true
-    hashtags: "#coronavirus, #wellbeing, #sadhguru, #seek"
-  - username: "laura_patricia_c"
-    fullname: >-
-      Laura Patricia
-    location: "Singapore"
-    followers: 47164
-    engagement: 470
-    commentsToLikes: 0.015152
-    id: ck6tww7tfugai0j713o36dbnu
+    followers: 96374
+    engagement: 861
+    commentsToLikes: 0.008993
+    id: ck0w3gh02t9zj0i19y6o7mvdf
     verified: false
-    hashtags: "#orderonline, #newarrivals, #saturday, #hoodiecollection"
-  - username: "branstands"
+    hashtags: "#tamilnewyear, #gratitude, #foodisbae, #ootd"
+  - username: "naomi.huth"
     fullname: >-
-      Brandon
+      Naomi Huth ✩
     location: "Singapore"
-    followers: 60156
-    engagement: 134
-    commentsToLikes: 0.023166
-    id: ck5zmz57enh2p0i14e11i5eru
+    followers: 10516
+    engagement: 423
+    commentsToLikes: 0.042000
+    id: ck0tt519d16pv0i19cjse8vrv
     verified: false
-    hashtags: "#evisujeans, #rawdenim, #guinnesssg, #socialdistancing"
-  - username: "zippyzipeng"
+    hashtags: "#lululemonsg, #citigems, #herbalpharm, #beautyqueen"
+  - username: "coolmommy_konnect"
     fullname: >-
-      子鵬 lee
+      Namita Sinha
     location: "Singapore"
-    followers: 82841
-    engagement: 190
-    commentsToLikes: 0.084593
-    id: ck0twgrbefb200i197vu7r3eu
+    followers: 6793
+    engagement: 1042
+    commentsToLikes: 0.109385
+    id: ck8syei3fkle90j78fr5e1273
     verified: false
-    hashtags: "#wonderfulworld, #travelphotography, #iseetaiwan, #sonysingapore"
-  - username: "amandagriffin_j"
+    hashtags: "#cleaningsilver, #mommybloggers, #superspicemix, #kp9850"
+  - username: "ztudioasia"
     fullname: >-
-      Amanda Griffin Jacob
+      Monica TW
     location: "Singapore"
-    followers: 69736
-    engagement: 86
-    commentsToLikes: 0.023305
-    id: ck0vwsc3wvd200i19xcnuaxmk
-    verified: true
-    hashtags: "#momof4, #myboys, #powdercapitaloftheworld, #mybestfriend"
+    followers: 4300
+    engagement: 1785
+    commentsToLikes: 0.261204
+    id: ckap4if0s7ipc0i78iycng6e7
+    verified: false
+    hashtags: "#pearljewelry, #home, #midlifestyle, #flatback2nd"
+  - username: "michellechiaofficial"
+    fullname: >-
+      【仪日行】michelle chia
+    location: "Singapore"
+    followers: 60682
+    engagement: 199
+    commentsToLikes: 0.018483
+    id: ck14ihx4cfhhc0i19upogt7c4
+    verified: false
+    hashtags: "#yoga, #bighair, #notastraw, #reservewarriorpose"
 ---

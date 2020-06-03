@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In France In 2020
 description: >-
-  Find top wellness Instagram influencers in France in 2020. Most popular hashtags: #trovesummerbootcamp #healthylifestyle #healthyfood #salad.
+  Find top wellness Instagram influencers in France in 2020. Most popular hashtags: #weekend #live #livetraining #lifestyle.
 platform: Instagram
 profiles:
   - username: "christellejavelier"
     fullname: >-
       CHRISTELLE JAVELIER
     location: "France"
-    followers: 32916
-    engagement: 186
-    commentsToLikes: 0.087249
+    followers: 34461
+    engagement: 250
+    commentsToLikes: 0.107992
     id: ck14ky62lrwvd0i19005noapy
     verified: false
-    hashtags: "#partenariat, #intersport, #prepactivre, #restezchezvous"
-  - username: "viveka_b"
+    hashtags: "#livetraining, #entrainement, #abdominaux, #fessiers"
+  - username: "karoline.ro"
     fullname: >-
-      The_blond_matcha
+      Karoline
     location: "France"
-    followers: 47964
-    engagement: 235
-    commentsToLikes: 0.026747
-    id: ck5zodibxqbgx0i14unqta2pt
+    followers: 143215
+    engagement: 321
+    commentsToLikes: 0.032538
+    id: ck8t9tlzupbb30j781tqxnzqy
     verified: false
-    hashtags: "#food, #mariage, #2years, #beldicountryclub"
-  - username: "racheloveee"
-    fullname: >-
-      Rachel Love
-    location: "France"
-    followers: 20363
-    engagement: 348
-    commentsToLikes: 0.030523
-    id: ck0vw0h5nrk0j0i19ox400o6i
-    verified: false
-    hashtags: "#instabfoftheyear, #quarantinelife, #sweatslifeisthebestlife"
+    hashtags: "#homeworkout, #beyoga, #beaware, #deadlift"
   - username: "kikachicaboom"
     fullname: >-
       Christelle Fourzali AJ
     location: "France"
-    followers: 73502
-    engagement: 163
-    commentsToLikes: 0.069930
+    followers: 82460
+    engagement: 127
+    commentsToLikes: 0.067045
     id: ck6u4u8tn5ti80j71fqegw2ms
     verified: false
-    hashtags: "#tb, #labour, #endofpregnancy, #positiveemotions"
-  - username: "taziines"
+    hashtags: "#motherhood, #secondskin, #mellowyellow, #springinquarantine"
+  - username: "racheloveee"
     fullname: >-
-      Ines Camilia Tazi
+      Rachel Love
     location: "France"
-    followers: 44892
-    engagement: 269
-    commentsToLikes: 0.006994
-    id: ck5zr1o6nvq3x0i14hfj9tc8f
+    followers: 21241
+    engagement: 355
+    commentsToLikes: 0.034025
+    id: ck0vw0h5nrk0j0i19ox400o6i
     verified: false
-    hashtags: "#hardchilling, #sweatinglikeabiche, #sometimes, #smartbuy"
+    hashtags: "#missedutho"
+  - username: "dcopperman"
+    fullname: >-
+      ☼ Danielle Copperman ☾
+    location: "France"
+    followers: 51735
+    engagement: 164
+    commentsToLikes: 0.038762
+    id: ck13aolsjrewx0i19omerueq9
+    verified: false
+    hashtags: "#happyearthday, #ad, #styledayfriday"
+  - username: "viveka_b"
+    fullname: >-
+      The_blond_matcha
+    location: "France"
+    followers: 46851
+    engagement: 245
+    commentsToLikes: 0.023182
+    id: ck5zodibxqbgx0i14unqta2pt
+    verified: false
+    hashtags: "#mindbodysoul, #food, #mybirthday, #digitaldetox"
+  - username: "nora.elisa_"
+    fullname: >-
+      💟 Nora Elisa
+    location: "France"
+    followers: 5906
+    engagement: 1146
+    commentsToLikes: 0.014336
+    id: ck9hb4xvzfewm0j78v6ftl0zs
+    verified: false
+    hashtags: "#france, #business, #success, #shapeonfire"
+  - username: "maximegruson_"
+    fullname: >-
+      MG Personal Trainer | Workouts
+    location: "France"
+    followers: 20776
+    engagement: 380
+    commentsToLikes: 0.128158
+    id: ck6ty5sju1uh90j7110pwp7fd
+    verified: false
+    hashtags: "#fitmodel, #nikeathlete, #sneakerhead, #poolparty"
+  - username: "elylemieux"
+    fullname: >-
+      ELY
+    location: "France"
+    followers: 39710
+    engagement: 425
+    commentsToLikes: 0.367445
+    id: ck5cakff4dktk0i112gh1l5x9
+    verified: false
+    hashtags: "#sundaythoughts, #mystructubecollab, #maisaussiachete, #encouragerlocal"
   - username: "juakhumalo"
     fullname: >-
       Juanita K. Khumalo
     location: "France"
-    followers: 28641
-    engagement: 287
-    commentsToLikes: 0.109679
+    followers: 33506
+    engagement: 309
+    commentsToLikes: 0.106235
     id: ck5zt85bxzwz70i14g08qav66
     verified: false
-    hashtags: "#coronavirusoutbreak, #fitgirls, #fitnesslife, #wellness"
-  - username: "meandmytravelbugs"
-    fullname: >-
-      Bella Lindemann
-    location: "France"
-    followers: 52820
-    engagement: 188
-    commentsToLikes: 0.069647
-    id: ck13c9urjzb1e0i1990hgaade
-    verified: false
-    hashtags: "#parisjetaime, #experienceegypt, #topparisphoto, #pariscartepostale"
-  - username: "dubiodansmonbento"
-    fullname: >-
-      Florence Brun-Pelagalli
-    location: "France"
-    followers: 11638
-    engagement: 493
-    commentsToLikes: 0.079334
-    id: ck135m21522wf0i19f62e8p6o
-    verified: false
-    hashtags: "#foodblog, #teatime, #homemadecake, #foodies"
-  - username: "melaniehuynh1"
-    fullname: >-
-      Melanie Huynh Utzmann
-    location: "France"
-    followers: 92367
-    engagement: 159
-    commentsToLikes: 0.008812
-    id: ck0twhcmhfdwm0i19qgvqxkas
-    verified: true
-    hashtags: "#skpmagazine, #styledbymelaniehunyh, #powerandsolidarity, #takecareofyourself"
-  - username: "aimerose"
-    fullname: >-
-      aimerose ☾
-    location: "France"
-    followers: 85712
-    engagement: 153
-    commentsToLikes: 0.039389
-    id: ck5cfggwrmwk50i119cj8k0nd
-    verified: false
-    hashtags: "#mygreenchef, #patchology, #aimerosewellness, #essentialoil"
+    hashtags: "#healthliving, #beproactive, #wellness, #foodies"
 ---

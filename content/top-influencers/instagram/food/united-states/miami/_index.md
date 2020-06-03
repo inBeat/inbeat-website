@@ -1,59 +1,99 @@
 ---
 title: Top 10 Food Instagram Influencers In Miami In 2020
 description: >-
-  Find top food Instagram influencers in Miami in 2020. Most popular hashtags: #miami #stayhome #supportlocal #miamibeach.
+  Find top food Instagram influencers in Miami in 2020. Most popular hashtags: #food #miami #miamibeach #lifestyle.
 platform: Instagram
 profiles:
-  - username: "emilianaguerral"
+  - username: "never_not_eating_"
     fullname: >-
-      𝑬𝒎𝒊𝒍𝒊𝒂𝒏𝒂 𝑮𝒖𝒆𝒓𝒓𝒂 𝑳𝒂𝒕𝒐𝒖𝒄𝒉𝒆
+      Ariella | South Florida Foodie
     location: "United States"
-    followers: 31800
-    engagement: 767
-    commentsToLikes: 0.010731
-    id: ck0w5j60e3w4z0i19ot75n9uv
+    followers: 8387
+    engagement: 531
+    commentsToLikes: 0.182122
+    id: ck0twablhelvf0i19j5vjzqdi
     verified: false
-    hashtags: "#gainzbox, #crossfitters, #gymnastics, #volveremejorquenunca"
-  - username: "leisure_life_cuisine"
+    hashtags: "#sweet, #instayum, #coronavirus, #northmiamibeach"
+  - username: "cmmagic"
     fullname: >-
-      
+      Carl Michael
     location: "United States"
-    followers: 6566
-    engagement: 694
-    commentsToLikes: 0.020548
-    id: ck6txypul0mlt0j71ytfuwzqf
+    followers: 16910
+    engagement: 492
+    commentsToLikes: 0.032814
+    id: ck0tun45r7u090i1993050n95
     verified: false
-    hashtags: "#pretzelsticks, #baking, #stayandwander, #pacificpalisades"
-  - username: "alinakozyrka"
+    hashtags: "#ohio, #gocubsgo, #chaseyoung, #weroween"
+  - username: "sarahh_ashleyy__"
     fullname: >-
-      Alina Kozyrka
+      Sarah Crebbin
     location: "United States"
-    followers: 32033
-    engagement: 326
-    commentsToLikes: 0.018362
-    id: ck0vz6who7m1t0i19d5sp8fgr
+    followers: 4872
+    engagement: 744
+    commentsToLikes: 0.193006
+    id: ck5q1aiyfa2e70i11vjnvga6x
     verified: false
-    hashtags: "#armani, #kids, #ferrari458, #magazinecover"
-  - username: "missplanetguyana"
+    hashtags: "#kytebaby, #birthdaygirl, #events, #17weekspregnant"
+  - username: "judithacuna1"
     fullname: >-
-      Miss San Antonio US 2020
+      Judith Acuña
     location: "United States"
-    followers: 6014
-    engagement: 592
-    commentsToLikes: 0.069526
-    id: ck6u4j0sy3ztk0j710is8q2s2
+    followers: 5762
+    engagement: 1637
+    commentsToLikes: 0.048921
+    id: ck5zp7dz5s4ql0i14ug8q3kpe
     verified: false
-    hashtags: "#devon, #artists, #marketingtip, #fashionmodel"
-  - username: "mr.eats305"
+    hashtags: "#donjulio1942, #favorite, #black, #happywomenday"
+  - username: "patiolefromage"
     fullname: >-
-      George Arango | MIAMI FOOD🍴
+      •Patio Le Fromage•
     location: "United States"
-    followers: 74727
-    engagement: 117
-    commentsToLikes: 0.206645
-    id: ck0txc4agiopo0i19oofqzvbr
+    followers: 34329
+    engagement: 103
+    commentsToLikes: 0.039580
+    id: ck6uh2kjq6m5s0j71zjug5pwg
     verified: false
-    hashtags: "#finkatableandtap, #oldgregspizza, #coyotaco, #sobewff"
+    hashtags: "#eventplannermiami, #luxurymiami, #catering, #miamibeach"
+  - username: "michelle_vanessaa_"
+    fullname: >-
+      Michelle Vanessa
+    location: "United States"
+    followers: 24712
+    engagement: 772
+    commentsToLikes: 0.063881
+    id: ck6tqe91vqy2q0j71tv5jm53n
+    verified: false
+    hashtags: "#godblesseveryone, #norona, #fitness, #miami"
+  - username: "andressgarcia1"
+    fullname: >-
+      Andres Garcia
+    location: "United States"
+    followers: 17556
+    engagement: 549
+    commentsToLikes: 0.051662
+    id: ck6u1yp0moohb0j71sbzdr9iq
+    verified: false
+    hashtags: "#ipanema, #cheatmeal, #foodporn, #instafood"
+  - username: "smallfeetbigeats"
+    fullname: >-
+      Erin B - South FL Foodie
+    location: "United States"
+    followers: 4083
+    engagement: 1505
+    commentsToLikes: 0.502105
+    id: ck5ceoq95lejt0i11wbsosx7d
+    verified: false
+    hashtags: "#happyhourmiami, #paleo, #vegansnacks, #meatless"
+  - username: "adamgoldbergphotography"
+    fullname: >-
+      Adam Goldberg
+    location: "United States"
+    followers: 95714
+    engagement: 109
+    commentsToLikes: 0.047303
+    id: ck0u9bagx9g830i19f5t8k866
+    verified: false
+    hashtags: "#moderninteriors, #luxurytraveller, #food, #nightscape"
   - username: "lifestyleby_olgui"
     fullname: >-
       Olga Del Barrio
@@ -64,44 +104,4 @@ profiles:
     id: ck14jw2dsmh990i19ag7csek8
     verified: false
     hashtags: "#frasedeldia, #instafood, #legsworkout, #recetassaludables"
-  - username: "patiolefromage"
-    fullname: >-
-      • PatioLeFromage •
-    location: "United States"
-    followers: 32517
-    engagement: 160
-    commentsToLikes: 0.033913
-    id: ck6uh2kjq6m5s0j71zjug5pwg
-    verified: false
-    hashtags: "#patiolefromage, #cheeseboard, #cheeseplatter, #doral"
-  - username: "jennaheller"
-    fullname: >-
-      👩🏻‍🍳Chef Jenna
-    location: "United States"
-    followers: 18185
-    engagement: 323
-    commentsToLikes: 0.040329
-    id: ck5zv4nyo3kyy0i14ngvkeqxz
-    verified: false
-    hashtags: "#christmaspuns, #newairpartner, #tgif, #boardsthatsleigh"
-  - username: "stickaforkinme"
-    fullname: >-
-      Rachel Samson - Food & Travel
-    location: "United States"
-    followers: 206860
-    engagement: 1240
-    commentsToLikes: 0.022055
-    id: ck0vw5up5s8r40i19yq70rgid
-    verified: false
-    hashtags: "#honeybun, #miamieats, #pizzalove, #disney"
-  - username: "ftlauderdalefoodies"
-    fullname: >-
-      alejandra | foodie lifestyle ✨
-    location: "United States"
-    followers: 16368
-    engagement: 190
-    commentsToLikes: 0.168163
-    id: ck5c05zlxsif80i114v53r23s
-    verified: false
-    hashtags: "#flattenthecurve, #miami, #funfacts, #iloveithere"
 ---

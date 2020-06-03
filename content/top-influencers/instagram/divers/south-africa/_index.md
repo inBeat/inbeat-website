@@ -1,107 +1,107 @@
 ---
 title: Top 10 Divers Instagram Influencers In South Africa In 2020
 description: >-
-  Find top divers Instagram influencers in South Africa in 2020. Most popular hashtags: #nature #southafrica #art #capetown.
+  Find top divers Instagram influencers in South Africa in 2020. Most popular hashtags: #southafrica #beauty #diversity #capetown.
 platform: Instagram
 profiles:
-  - username: "harrystone_photo"
-    fullname: >-
-      Harry Stone
-    location: "South Africa"
-    followers: 7625
-    engagement: 705
-    commentsToLikes: 0.021937
-    id: ck5q5hwy8syhp0i11vzksk2ba
-    verified: false
-    hashtags: "#tigerbeach, #uwphoto, #blueshark, #marinebiologist"
   - username: "mark_fitzy"
     fullname: >-
       Mark Fitzgibbon
     location: "South Africa"
-    followers: 22041
-    engagement: 256
-    commentsToLikes: 0.035464
+    followers: 23206
+    engagement: 367
+    commentsToLikes: 0.052775
     id: ck0vxg8n2yqq00i19dgqty16n
     verified: false
-    hashtags: "#heels, #pride2020, #lockdown, #lgbtq"
+    hashtags: "#southafrica, #biologist, #stayathome, #capetown"
+  - username: "jeensnidvongs"
+    fullname: >-
+      Jeen Snidvongs 🇹🇭
+    location: "South Africa"
+    followers: 25437
+    engagement: 248
+    commentsToLikes: 0.019406
+    id: ck0tzyuobs1we0i19dxfhnhfh
+    verified: false
+    hashtags: "#birding, #mexico, #amazingthailand, #phuket"
   - username: "afrostylemagz"
     fullname: >-
       AfroStyleMagz
     location: "South Africa"
-    followers: 79280
-    engagement: 100
-    commentsToLikes: 0.009096
+    followers: 89323
+    engagement: 118
+    commentsToLikes: 0.013973
     id: ck15spqgue7ev0i19anr0ma2h
     verified: false
-    hashtags: "#me, #style, #photo, #followme"
-  - username: "maysasantoro"
+    hashtags: ""
+  - username: "moyoafrika"
     fullname: >-
-      Maysa Santoro | Brazil
+      MoyoAfrika
     location: "South Africa"
-    followers: 28227
-    engagement: 224
-    commentsToLikes: 0.046023
-    id: ck0vxfg6gymwm0i19g4w8a9z0
+    followers: 27736
+    engagement: 262
+    commentsToLikes: 0.036701
+    id: ck5cl1souy2st0i11cbko2uhs
     verified: false
-    hashtags: "#quarantine, #emcasa, #experiencedifferent, #gopro"
+    hashtags: "#haiti, #ethiopiancoffee, #blackgirlskillingit, #colombia"
   - username: "nkjewellery_"
     fullname: >-
       N A W A R  K A M A L
     location: "South Africa"
-    followers: 25110
-    engagement: 76
-    commentsToLikes: 0.011191
+    followers: 25997
+    engagement: 149
+    commentsToLikes: 0.020323
     id: ck13cqxhp1q9a0i19nx03jidj
     verified: false
-    hashtags: "#sudan, #photography, #silverearrings, #brass"
+    hashtags: "#ghana, #habdmadebrass, #makeuptutorial, #stayhome"
   - username: "justin_dingwall"
     fullname: >-
       Justin Dingwall
     location: "South Africa"
-    followers: 27005
-    engagement: 353
-    commentsToLikes: 0.023613
+    followers: 26924
+    engagement: 346
+    commentsToLikes: 0.022962
     id: ck15sppc4e78m0i19mdfo23vc
     verified: false
-    hashtags: "#berlinfashion, #aseatatthetable, #newperceptions, #shadowphotography"
+    hashtags: "#southafrica, #style, #makeupartist, #lockdown"
   - username: "karimcmiller"
     fullname: >-
       Kari Miller
     location: "South Africa"
-    followers: 10657
-    engagement: 529
-    commentsToLikes: 0.050173
+    followers: 10655
+    engagement: 580
+    commentsToLikes: 0.050097
     id: ck0ua5q00bfzt0i19z5urfu9y
     verified: false
-    hashtags: "#diversity, #frohawk, #naturalhairdreams, #painfree"
-  - username: "princehenry._"
+    hashtags: "#lifestyle, #islandgirls, #noextensions, #heights"
+  - username: "lebohangmasango"
     fullname: >-
-      Prince Henry 🇬🇭🇬🇧
+      Lebohang Masango
     location: "South Africa"
-    followers: 10099
-    engagement: 259
-    commentsToLikes: 0.017923
-    id: ck5q7ui9t34yg0i110uyykbpq
+    followers: 10859
+    engagement: 578
+    commentsToLikes: 0.040894
+    id: ck5hkod4oishs0i11nhb7imds
     verified: false
-    hashtags: "#culture, #africa, #pureart, #scoutingmodels"
-  - username: "candashian_cpt"
+    hashtags: "#shebrags, #lynnmthomas, #afrohair, #miguelmunozlaboy"
+  - username: "aaron.borrill"
     fullname: >-
-      CANDICE MANUEL
+      Aaron Borrill
     location: "South Africa"
-    followers: 11237
-    engagement: 358
-    commentsToLikes: 0.118030
-    id: ck5zlsvbqlbix0i1417dqvbnt
+    followers: 20376
+    engagement: 234
+    commentsToLikes: 0.030798
+    id: ck5hryftwvp1e0i11ym85rap4
     verified: false
-    hashtags: "#radicalselflovecampaign, #allbodiesaregoodbodies, #notinstamodel, #imnoangel"
-  - username: "martinmachaj"
+    hashtags: "#sworks, #trail, #invani, #goprocycling"
+  - username: "jeff_panella"
     fullname: >-
-      Martin Machaj
+      JEFF PANELLA | Underwater ⚓️
     location: "South Africa"
-    followers: 31688
-    engagement: 335
-    commentsToLikes: 0.011434
-    id: ck5q0rw3w7gl10i11en4bqig2
+    followers: 6249
+    engagement: 1565
+    commentsToLikes: 0.032354
+    id: ck5zj2wk6gukh0i14nb2d3ztl
     verified: false
-    hashtags: "#mountain, #body, #book, #beach"
+    hashtags: "#coldwaterreef, #natureismetal, #coronavirus, #epic"
 ---

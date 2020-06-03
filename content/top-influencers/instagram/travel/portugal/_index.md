@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Portugal In 2020
 description: >-
-  Find top travel Instagram influencers in Portugal in 2020. Most popular hashtags: #travelblogger #portugal #streetstyle #stayhome.
+  Find top travel Instagram influencers in Portugal in 2020. Most popular hashtags: #quarantine #stayhome #sunnyday #beachlife.
 platform: Instagram
 profiles:
+  - username: "last_lostcouple"
+    fullname: >-
+      𝓟𝓪𝓽𝓻𝓲𝓬𝓲𝓪 ♥ 𝓔𝓶𝓪𝓷𝓾𝓮𝓵®
+    location: "Portugal"
+    followers: 10102
+    engagement: 1470
+    commentsToLikes: 0.104907
+    id: ck0w5yxue63si0i19taqdsp0f
+    verified: false
+    hashtags: "#follow, #dream, #free, #goodtimes"
   - username: "olmakasia"
     fullname: >-
       Kasia Olma
     location: "Portugal"
-    followers: 23587
-    engagement: 905
-    commentsToLikes: 0.156734
+    followers: 23034
+    engagement: 883
+    commentsToLikes: 0.160914
     id: ck5cei4z0l1xe0i11ctu0lvm9
     verified: false
-    hashtags: "#portonoinsta, #zaragozaturismo, #girlswithgypsysouls, #agueda"
+    hashtags: "#naturelifestyle, #ficaemcasa, #wildheartslab, #beautifulsea"
+  - username: "lorys.story"
+    fullname: >-
+      Loredana Gavrila🇹🇩
+    location: "Portugal"
+    followers: 23074
+    engagement: 844
+    commentsToLikes: 0.410605
+    id: ck6tymwtr4ohc0j715m2bykgj
+    verified: false
+    hashtags: "#travelasia, #beachvibes, #nomadgirls, #giurgiu"
+  - username: "florindalopes"
+    fullname: >-
+      FLO | LIFESTYLE BLOGGER
+    location: "Portugal"
+    followers: 6651
+    engagement: 1104
+    commentsToLikes: 0.080495
+    id: ck0u8yved8msd0i19xe8fbdjx
+    verified: false
+    hashtags: "#tumblrvibes, #tezzaapp, #vscofilters, #balitravel"
   - username: "suzy.antunes"
     fullname: >-
       SUSANNA ANTUNES
     location: "Portugal"
-    followers: 3249
-    engagement: 1821
-    commentsToLikes: 0.184391
+    followers: 3382
+    engagement: 1851
+    commentsToLikes: 0.176496
     id: ck14lcy8wu1hv0i19jzzwtke4
     verified: false
-    hashtags: "#nellydress, #fashionbloggers, #couplesofinstagram, #outfitinspiration"
-  - username: "pedeaopai"
+    hashtags: "#redlips, #babyblue, #ladyinred, #cyclades"
+  - username: "flywithmauro"
     fullname: >-
-      Inês Ribolhos
+      Mauro De Jesus | Pilot ✈️
     location: "Portugal"
-    followers: 9894
-    engagement: 959
-    commentsToLikes: 0.118691
-    id: ck5c2h1bsx8wd0i11libm8yze
+    followers: 8121
+    engagement: 1575
+    commentsToLikes: 0.110996
+    id: ckaot97jpuv950i78x7z8icf0
     verified: false
-    hashtags: "#blackboard, #mamabear, #33meses, #irmaos"
+    hashtags: "#bike, #folga, #navigations, #bikelifestyle"
+  - username: "marianacardia"
+    fullname: >-
+      Mαяιαηα 🌹
+    location: "Portugal"
+    followers: 15273
+    engagement: 653
+    commentsToLikes: 0.131552
+    id: ck8t6uh2eeqch0j78kg2sj6w0
+    verified: false
+    hashtags: "#gillette, #pink, #lipgloss, #pinkroom"
   - username: "miss_tet"
     fullname: >-
       Teresa Lemos
     location: "Portugal"
-    followers: 15156
-    engagement: 1241
-    commentsToLikes: 0.034370
+    followers: 16974
+    engagement: 1266
+    commentsToLikes: 0.031082
     id: ck55oexap88090i11kxq4k55q
     verified: false
-    hashtags: "#makeup, #amocozinhar, #norteshopping, #gato"
-  - username: "mariasilva12.11"
+    hashtags: "#doglover, #diasdechuva, #norteshopping, #dailycristina"
+  - username: "hungrymoey"
     fullname: >-
-      Maria de Almeida A. da Silva
+      Ｈｕｎｇｒｙ Ｍｏｅｙ🔆
     location: "Portugal"
-    followers: 3246
-    engagement: 2459
-    commentsToLikes: 0.066820
-    id: ck8t8u5gsltzw0j78dkljb69m
+    followers: 19354
+    engagement: 418
+    commentsToLikes: 0.079897
+    id: ck5cammu1dp6j0i11miv13rw6
     verified: false
-    hashtags: "#baciperugina, #tabletesperugina, #chocolatesperugina, #styleyourselfatsportzone"
-  - username: "ritacduro"
-    fullname: >-
-      Rita Duro
-    location: "Portugal"
-    followers: 3280
-    engagement: 1497
-    commentsToLikes: 0.714083
-    id: ck5c6onu25via0i11pzhlgkuy
-    verified: false
-    hashtags: "#photooftheday, #hawkerscampus, #selfcare, #foodlover"
-  - username: "socorroamor_estouperdida"
-    fullname: >-
-      TRAVEL BLOG ✈️🌍💙
-    location: "Portugal"
-    followers: 6623
-    engagement: 819
-    commentsToLikes: 0.096932
-    id: ck5c82qmw8nmp0i11zp77ycgy
-    verified: false
-    hashtags: "#naturezalinda, #travel, #monumentos, #cathedralmilano"
-  - username: "ajoanamaiaa"
-    fullname: >-
-      TRAVEL✨| FASHION✨|LIFESTYLE ✨
-    location: "Portugal"
-    followers: 5541
-    engagement: 781
-    commentsToLikes: 0.177645
-    id: ck14hflt0a2vq0i19iwbux8so
-    verified: false
-    hashtags: "#letsgoeverywhere, #daicaroltica, #marinasandsbay, #femmetravel"
-  - username: "odysseus.our"
-    fullname: >-
-      JOÃO & ALEXANDRA✈TRAVEL COUPLE
-    location: "Portugal"
-    followers: 8303
-    engagement: 689
-    commentsToLikes: 0.178763
-    id: ck14k3dsjnj840i192dkxsrre
-    verified: false
-    hashtags: "#earthpix, #travelwithlove, #travelpics, #travelingpost"
+    hashtags: "#marseille, #zomatolb, #dessert, #rome"
   - username: "nunoantunes_"
     fullname: >-
       Nuno Antunes
     location: "Portugal"
-    followers: 82333
-    engagement: 490
-    commentsToLikes: 0.034802
+    followers: 86050
+    engagement: 521
+    commentsToLikes: 0.036486
     id: ck0w70geub53e0i19ba3o3vus
     verified: false
-    hashtags: "#ootdmen, #braga, #fashioncouple, #fashionman"
+    hashtags: "#coupleshoot, #casuallook, #classicstyle, #menstrend"
 ---

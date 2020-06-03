@@ -1,86 +1,86 @@
 ---
 title: Top 10 Travel Instagram Influencers In Peru In 2020
 description: >-
-  Find top travel Instagram influencers in Peru in 2020. Most popular hashtags: #peru #travelblogger #travel #wanderlust.
+  Find top travel Instagram influencers in Peru in 2020. Most popular hashtags: #earthfocus #colombia #traveling #traveladdict.
 platform: Instagram
 profiles:
-  - username: "stphygf"
-    fullname: >-
-      Stephy G 🌸 Travel & Edit
-    location: "Peru"
-    followers: 5874
-    engagement: 1580
-    commentsToLikes: 0.089015
-    id: ck137rsbxd2dk0i19zj50a1bt
-    verified: false
-    hashtags: "#igtravel, #collage, #bolivia, #sheisnotlost"
   - username: "elmelling"
     fullname: >-
-      E m m a  M e l l i n g  🌍
+      Emma Melling | Travel
     location: "Peru"
-    followers: 4754
-    engagement: 1805
-    commentsToLikes: 0.124946
+    followers: 5381
+    engagement: 2173
+    commentsToLikes: 0.172946
     id: ck5ztevmf09w70i14vq4lap6o
     verified: false
-    hashtags: "#exploreperu, #sunsetphotography, #igerscolombia, #cascadaselchiflon"
+    hashtags: "#travelspain, #salento, #sunsetoftheday, #under10k"
+  - username: "livewithoutshoes"
+    fullname: >-
+      Deborah&Ceghez | Travel Couple
+    location: "Peru"
+    followers: 24071
+    engagement: 826
+    commentsToLikes: 0.086820
+    id: ck5zw154g5a2d0i14j1br6hmn
+    verified: false
+    hashtags: "#thatothersmaylive"
   - username: "oliviaheintz"
     fullname: >-
       ✰ O L I V I A  ✰
     location: "Peru"
-    followers: 17411
-    engagement: 1252
-    commentsToLikes: 0.041613
+    followers: 16503
+    engagement: 1304
+    commentsToLikes: 0.041102
     id: ck0w5ynr862h10i19djczzy64
     verified: false
-    hashtags: "#yellow, #farm, #christmastree, #hairstyles"
+    hashtags: "#sprinkles, #pink, #special, #positive"
+  - username: "traveloveroma"
+    fullname: >-
+      Sandra℠
+    location: "Peru"
+    followers: 66462
+    engagement: 242
+    commentsToLikes: 0.054374
+    id: ck0u6gva120ht0i19m2dnegse
+    verified: false
+    hashtags: "#perutravel, #miraflores, #newyorknewyork, #cahuita"
   - username: "antonellaleguab"
     fullname: >-
       Anto Legua B
     location: "Peru"
-    followers: 84773
-    engagement: 140
-    commentsToLikes: 0.080616
+    followers: 85116
+    engagement: 103
+    commentsToLikes: 0.094163
     id: ck6u904yrupf20j711z5lc25b
     verified: false
-    hashtags: "#tgif, #14veranosjuntos, #girlpower, #thailand"
+    hashtags: "#8m, #rainbowcake, #quedateencasa, #bffs"
   - username: "elenaborsch"
     fullname: >-
       Elena | Peru & Latin America
     location: "Peru"
-    followers: 42601
-    engagement: 371
-    commentsToLikes: 0.022722
+    followers: 42660
+    engagement: 391
+    commentsToLikes: 0.021463
     id: ck0uelblcll120i196rdrw4gq
     verified: false
-    hashtags: "#cartagenadindias, #tarapoto, #netherlands, #riodojaneiro"
-  - username: "takeshionophoto"
+    hashtags: "#netherlands, #riodojaneiro, #barranco, #sanmartin"
+  - username: "alessandra.salazar"
     fullname: >-
-      Takeshi Ono
+      Alessandra Salazar
     location: "Peru"
-    followers: 31843
-    engagement: 245
-    commentsToLikes: 0.036929
-    id: ck14hu4g9c5h20i19cy2eba33
+    followers: 6640
+    engagement: 659
+    commentsToLikes: 0.052772
+    id: ck8t1m991w8eu0j78q7w267lq
     verified: false
-    hashtags: "#pumacali"
-  - username: "tj_tracy_"
-    fullname: >-
-      TJ Tracy
-    location: "Peru"
-    followers: 7882
-    engagement: 748
-    commentsToLikes: 0.020431
-    id: ck0w38wqus6bc0i19t1bvq0sp
-    verified: false
-    hashtags: "#solotraveler, #travelbloggers, #kohtao, #adventurephotography"
+    hashtags: "#bffs"
   - username: "mariepier.bastien"
     fullname: >-
       M A R I E P I E R
     location: "Peru"
-    followers: 7674
-    engagement: 592
-    commentsToLikes: 0.021574
+    followers: 7939
+    engagement: 645
+    commentsToLikes: 0.024682
     id: ck0vz6sy87lhf0i196i6r3ez9
     verified: false
     hashtags: ""
@@ -88,20 +88,20 @@ profiles:
     fullname: >-
       ᴢᴜʟᴍᴀ ♧ ʟᴏᴠᴇ ᴛʀᴀᴠᴇʟ ʟɪғᴇsᴛʏʟᴇ
     location: "Peru"
-    followers: 9373
-    engagement: 1147
-    commentsToLikes: 0.160466
+    followers: 10326
+    engagement: 1115
+    commentsToLikes: 0.142886
     id: ck6txpbgez3ar0j715oa7qsqo
     verified: false
-    hashtags: "#peruen360, #madeinperu, #trekking, #landscape"
-  - username: "nicolaspacheco94"
+    hashtags: "#travelawesome, #traveler, #bbctravel, #bakpacker"
+  - username: "takeshionophoto"
     fullname: >-
-      Nicolas Pacheco OLY
+      Takeshi Ono
     location: "Peru"
-    followers: 9014
-    engagement: 581
-    commentsToLikes: 0.045065
-    id: ck137d3ojay3p0i198x77jrt2
+    followers: 31132
+    engagement: 229
+    commentsToLikes: 0.015246
+    id: ck14hu4g9c5h20i19cy2eba33
     verified: false
-    hashtags: "#lovethis, #travelphotography, #travelling, #like"
+    hashtags: "#pumacali, #tbt"
 ---

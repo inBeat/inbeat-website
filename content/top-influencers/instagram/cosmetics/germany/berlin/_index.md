@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Berlin In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #fashion #girl #beauty.
+  Find top cosmetics Instagram influencers in Berlin in 2020. Most popular hashtags: #beauty #sunday #spring #stayhome.
 platform: Instagram
 profiles:
-  - username: "gabbysinsta"
+  - username: "beautypalmira"
     fullname: >-
-      Gabriella Christina De Almeida
+      Palmira Ruben Makeup Artist
     location: "Germany"
-    followers: 17952
-    engagement: 263
-    commentsToLikes: 0.137907
-    id: ck5zxqafp8gs10i147g50i4n7
+    followers: 36895
+    engagement: 131
+    commentsToLikes: 0.049265
+    id: ck5q3lqg8lcfr0i11ku117ia8
     verified: false
-    hashtags: "#artist, #darklonghair, #latinagirl, #beauty"
-  - username: "nadaivanovic23"
+    hashtags: "#shimycatsmua, #depotting, #niloofarirani, #declutter"
+  - username: "lorii_lein"
     fullname: >-
-      Nada Ivanovic
+      Lorena
     location: "Germany"
-    followers: 23322
-    engagement: 201
-    commentsToLikes: 0.046265
-    id: ck602rktgirqy0i14qxzeblfk
+    followers: 2637
+    engagement: 2884
+    commentsToLikes: 0.099570
+    id: ck5heqn4kuadc0i1115pbbsmj
     verified: false
-    hashtags: "#onlinecoaching, #loveit, #wirhabentrotzdemspa, #sonntagsmodus"
+    hashtags: "#parfum, #lookofthenight, #nurgesundef, #healing"
+  - username: "tanja.hoe"
+    fullname: >-
+      Tanja Hööö aus Köln
+    location: "Germany"
+    followers: 18973
+    engagement: 476
+    commentsToLikes: 0.120441
+    id: ck0w2jz42or4m0i1921cmmrcx
+    verified: false
+    hashtags: "#kinderleicht, #maske, #beautyblogger, #skincare"
+  - username: "mademoiselle_pixie"
+    fullname: >-
+      ᴾᴵˣᴵᴱᶜᵁᵀ| ˁᴴᴼᴿᵀᴴᴬᴵᴿ | 𝙿𝚒𝚗𝚔ᴴᴬᴵᴿ
+    location: "Germany"
+    followers: 41434
+    engagement: 145
+    commentsToLikes: 0.029955
+    id: ck6u8r1aet6260j717ipx0jb9
+    verified: false
+    hashtags: "#coffee, #lionshead, #beauty, #transforming"
   - username: "pialorenaa"
     fullname: >-
       BEAUTY | TRAVEL | FASHION
     location: "Germany"
-    followers: 106958
-    engagement: 429
-    commentsToLikes: 0.059661
+    followers: 106140
+    engagement: 419
+    commentsToLikes: 0.055259
     id: ck13cdguyzte80i19v54jfuzi
     verified: false
-    hashtags: "#nikkibeach, #hamburg, #hairstyles, #dyson"
-  - username: "olali1987"
+    hashtags: "#douglasgeschenk, #festival, #sommer, #premiere"
+  - username: "liizley_"
     fullname: >-
-      O L A 🌿
+      FASHION•LIFESTYLE•BEAUTY
     location: "Germany"
-    followers: 117415
-    engagement: 791
-    commentsToLikes: 0.040760
-    id: ck6tu0prbdnbv0j714et8wphu
+    followers: 44075
+    engagement: 251
+    commentsToLikes: 0.049863
+    id: ck8t99xicncjn0j781uv04zwb
     verified: false
-    hashtags: "#hair, #instagood, #styles, #handmadeturban"
-  - username: "loulanie1"
+    hashtags: "#parfum, #couplefashion, #vatertag, #nakdfashion"
+  - username: "what_petra_lovesandlikes"
     fullname: >-
-      Janine
+      Petra Bosch
     location: "Germany"
-    followers: 19573
-    engagement: 226
-    commentsToLikes: 0.029480
-    id: ck14lbqrntuzh0i19spuaph6y
+    followers: 7588
+    engagement: 617
+    commentsToLikes: 0.073616
+    id: ck9haga0ecf8s0j788vukmf2u
     verified: false
-    hashtags: "#museumsinsel, #mexicanfood, #fashionblogger, #outfitinspiration"
-  - username: "_isabella.luna_"
+    hashtags: "#streetstyle, #vitaminc, #artwork, #reinigungs"
+  - username: "julianejuliie"
     fullname: >-
-      Isabella Luna
+      👑 Miss Grand Germany 2017 🇩🇪
     location: "Germany"
-    followers: 105081
-    engagement: 539
-    commentsToLikes: 0.033410
-    id: ck6ucxccphydu0j7162tr1pj6
+    followers: 66574
+    engagement: 347
+    commentsToLikes: 0.046702
+    id: ck6u721w9j0rl0j71th3ddgy7
     verified: false
-    hashtags: "#dior2001, #netflixandchill, #food, #mountains"
-  - username: "marie_amiere"
-    fullname: >-
-      Marie Amière
-    location: "Germany"
-    followers: 44015
-    engagement: 282
-    commentsToLikes: 0.085805
-    id: ck5q89gcd52uz0i11rma458lb
-    verified: true
-    hashtags: "#happyweekend, #keepyourglow, #tympacur, #charitygala"
-  - username: "thefemalecompany"
-    fullname: >-
-      The Female Company
-    location: "Germany"
-    followers: 47716
-    engagement: 371
-    commentsToLikes: 0.024073
-    id: ck15se3e5cjjp0i19bklwec7w
-    verified: false
-    hashtags: "#lassunsabh, #obenohne, #menstruationmatters, #thefemalecompany"
+    hashtags: "#dress, #springbreak, #fashionblogger, #papayaplaya"
   - username: "mo.ciftci"
     fullname: >-
       Mo
     location: "Germany"
-    followers: 2235
-    engagement: 1376
-    commentsToLikes: 0.080758
+    followers: 2239
+    engagement: 1313
+    commentsToLikes: 0.071436
     id: ck5c196shup3d0i1107dd0vz0
     verified: false
-    hashtags: "#catricecosmetics, #beautycare, #face, #portrait"
-  - username: "josily"
+    hashtags: "#life, #natural, #likeforlikes, #beautyful"
+  - username: "mxs.cavallero"
     fullname: >-
-      Josi💗
+      ❥  𝐆𝐈𝐑𝐋, 𝐂𝐀𝐋𝐋𝐄𝐃 𝓚𝐢𝐭𝐭𝐲𝐃𝐎𝐋𝐋 . 🇮🇹
     location: "Germany"
-    followers: 202709
-    engagement: 219
-    commentsToLikes: 0.009775
-    id: ck6u18vywkata0j71trh5p8o2
+    followers: 3475
+    engagement: 1833
+    commentsToLikes: 0.200863
+    id: ckaorf8gcmxyr0i783x46p6gn
     verified: false
-    hashtags: "#essencecosmetics, #cute, #gucci, #loredana"
+    hashtags: "#proud, #trap, #girls, #2000s"
 ---

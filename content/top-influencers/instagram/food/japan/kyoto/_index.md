@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Kyoto In 2020
 description: >-
-  Find top food Instagram influencers in Kyoto in 2020. Most popular hashtags: #japan #kyoto #wonderful #ig.
+  Find top food Instagram influencers in Kyoto in 2020. Most popular hashtags: #kyoto #travel #cute #architecture.
 platform: Instagram
 profiles:
-  - username: "wowynguyen"
+  - username: "chie.m0306"
     fullname: >-
-      Wowy Nguyễn
+      chie
     location: "Japan"
-    followers: 40829
-    engagement: 145
-    commentsToLikes: 0.003394
-    id: ck5cd9ml6iryz0i11th1sixex
+    followers: 22015
+    engagement: 703
+    commentsToLikes: 0.024796
+    id: ck15plqiiyiew0i19rsfuaymc
     verified: false
-    hashtags: "#wowy, #cogangthanhcong, #valentine, #vietnamese"
-  - username: "xshizzyx"
+    hashtags: "#urgreen, #food, #kyoto, #instasweets"
+  - username: "nao1738"
     fullname: >-
-      Shizuka Anderson | アンダーソン静香✨
+      fraise フレーズ
     location: "Japan"
-    followers: 51661
-    engagement: 947
-    commentsToLikes: 0.021870
-    id: ck13741jw9o240i198fwx7yt4
+    followers: 55214
+    engagement: 362
+    commentsToLikes: 0.009378
+    id: ckap03181ohxr0i7841lz05nh
     verified: false
-    hashtags: "#stancenationjapan, #exploring, #2020, #rainbowcottoncandy"
+    hashtags: "#summer, #instagramjapan, #instafood, #bread"
+  - username: "nanafuj"
+    fullname: >-
+      奈々(Nana)
+    location: "Japan"
+    followers: 26723
+    engagement: 452
+    commentsToLikes: 0.093223
+    id: ck5zsd79iya5z0i14o6h05q1q
+    verified: false
+    hashtags: "#travel, #trip, #nomonday, #cosmetics"
+  - username: "galina_kerimova_jp"
+    fullname: >-
+      Food Art Photography 📍Kyoto
+    location: "Japan"
+    followers: 7145
+    engagement: 267
+    commentsToLikes: 0.052946
+    id: ck0w3sk59v1vk0i191bl9wczf
+    verified: false
+    hashtags: "#vinyasaflow, #foodstylist, #foodsketching, #raku"
   - username: "222roseeee"
     fullname: >-
       
     location: "Japan"
-    followers: 7371
-    engagement: 977
+    followers: 7292
+    engagement: 988
     commentsToLikes: 0.039484
     id: ck138uvrai5800i19l1yn1nd3
     verified: false
-    hashtags: "#kobe, #yummyfood, #hotel, #yoga"
-  - username: "supernoodlerach"
+    hashtags: "#fittness, #lunch, #restaurant, #hotel"
+  - username: "xshizzyx"
     fullname: >-
-      Rachel @foodandlycra
+      Shizuka Anderson | アンダーソン静香✨
     location: "Japan"
-    followers: 5187
-    engagement: 539
-    commentsToLikes: 0.074639
-    id: ck6tqe2ixqwzr0j71x07p7dny
+    followers: 54945
+    engagement: 951
+    commentsToLikes: 0.020092
+    id: ck13741jw9o240i198fwx7yt4
     verified: false
-    hashtags: "#bougieboss, #dunthedeal, #sisters, #japantravelphoto"
-  - username: "rikkyyucoco"
-    fullname: >-
-      Nao💜
-    location: "Japan"
-    followers: 63119
-    engagement: 154
-    commentsToLikes: 0.022136
-    id: ck5hmifc2m0b50i11553vmqu4
-    verified: false
-    hashtags: "#chao, #trip, #happyday, #fashion"
+    hashtags: "#tokyocowboys, #summerintokyo, #valentinesday, #hotchocolate"
   - username: "hiromitravel"
     fullname: >-
       Hiromi ひろみ
     location: "Japan"
-    followers: 12387
-    engagement: 1553
-    commentsToLikes: 0.019801
+    followers: 12917
+    engagement: 1673
+    commentsToLikes: 0.023009
     id: ck5qa44f8eg410i11bzspsv0x
     verified: false
-    hashtags: "#instagram, #lovers, #cafe, #osaka"
+    hashtags: "#panda, #cotswolds, #dogsofinstagram, #england"
+  - username: "eliseaki"
+    fullname: >-
+      Erina❤️
+    location: "Japan"
+    followers: 46837
+    engagement: 222
+    commentsToLikes: 0.061582
+    id: ck14gnwnm65x80i191m1khzme
+    verified: false
+    hashtags: "#socialdistance, #throwback, #japan, #spon"
+  - username: "aytystyle"
+    fullname: >-
+      Ay&Ty Style
+    location: "Japan"
+    followers: 28367
+    engagement: 454
+    commentsToLikes: 0.095009
+    id: ck13958r0jldt0i195llnjno7
+    verified: false
+    hashtags: "#chottopeutetre, #mascarponecream, #leflaive, #gattinaranervi"
   - username: "elsa_cyril"
     fullname: >-
       ELSA & CYRIL ✧ 🇫🇷 FR
     location: "Japan"
-    followers: 29365
-    engagement: 67
-    commentsToLikes: 0.157938
+    followers: 37965
+    engagement: 63
+    commentsToLikes: 0.197806
     id: ck1374an99pdz0i19jndllzed
     verified: false
-    hashtags: "#globelletravels, #explorehk, #luxuryworldtraveler, #osakatrip"
-  - username: "akichamxxx"
-    fullname: >-
-      aki
-    location: "Japan"
-    followers: 16478
-    engagement: 674
-    commentsToLikes: 0.001043
-    id: ck5bz8ttzqo0q0i11vvg9f9af
-    verified: false
-    hashtags: "#orina, #dashicup, #tasteofitaly, #okawarikun88"
-  - username: "erika520anko"
-    fullname: >-
-      ERIKA
-    location: "Japan"
-    followers: 13937
-    engagement: 800
-    commentsToLikes: 0.018433
-    id: ck14j8wshj55c0i19ph3j9qbz
-    verified: false
-    hashtags: "#earthpix, #theta, #japan, #team"
-  - username: "yukico_twingram"
-    fullname: >-
-      𝓨𝒖𝒌𝒊𝒄𝒐 ♥︎
-    location: "Japan"
-    followers: 40545
-    engagement: 133
-    commentsToLikes: 0.005154
-    id: ck0w6lg5c950l0i19ivtszcm3
-    verified: false
-    hashtags: "#architecture, #gatheringslikethese, #afteroontea, #beautifulcuisines"
+    hashtags: "#instavoyage, #tourbali, #beachhotel, #earth"
 ---

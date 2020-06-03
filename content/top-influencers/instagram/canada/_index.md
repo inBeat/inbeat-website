@@ -1,109 +1,109 @@
 ---
 title: Top 10 Instagram Influencers In Canada In 2020
 description: >-
-  Find top Instagram influencers in Canada in 2020. Most popular hashtags: #model #discoverunder5k #prettylittleiiinspo #photography.
+  Find top Instagram influencers in Canada in 2020. Most popular hashtags: # #torontoliving #torontofreebies #foodpornography.
 platform: Instagram
 profiles:
-  - username: "aliciahillturner"
+  - username: "ritaamorgan"
     fullname: >-
-      hey i’m alicia 💗🎀🌸
+      Rita Morgan
     location: "Canada"
-    followers: 6061
-    engagement: 1580
-    commentsToLikes: 0.180559
-    id: ck8tblyesw6cg0j78eyojme0h
+    followers: 2225
+    engagement: 3986
+    commentsToLikes: 0.118164
+    id: ckap6ezicfmdo0i784kx6ktuc
     verified: false
-    hashtags: "#coronavirus"
-  - username: "nicolepwhui"
+    hashtags: ""
+  - username: "harryjowsey"
     fullname: >-
-      Nicole H ✈ Travel | Fashion
+      Too Hot To Handle - Harry ⚡️
     location: "Canada"
-    followers: 5005
-    engagement: 2403
-    commentsToLikes: 0.362044
-    id: ck8t931t5msba0j78kdphtdaz
-    verified: false
-    hashtags: "#traveladdict, #roamingwomen, #hongkonginsta, #girlvsglobe"
-  - username: "vanora.lo"
+    followers: 3916090
+    engagement: 3258
+    commentsToLikes: 0.029277
+    id: ck9wdhi0hfnl00j7865qv73wl
+    verified: true
+    hashtags: "#toohottohandle"
+  - username: "ricardoperez99"
     fullname: >-
-      VANORA LO | Vancouver
+      Ricardo
     location: "Canada"
-    followers: 2211
-    engagement: 2644
-    commentsToLikes: 0.148548
-    id: ck6u7woqbo3bo0j71tq5w83f0
+    followers: 2143
+    engagement: 3116
+    commentsToLikes: 0.121893
+    id: ck5ci5s8ps2p80i11c7710epu
     verified: false
-    hashtags: "#vintagevibes, #fendivintage, #fashionbruh, #verre"
-  - username: "erin22xoxo"
+    hashtags: "#intermoda, #im72"
+  - username: "simransaahni"
     fullname: >-
-      ⚓ Erin ⚓ | Toronto Lifestyle
+      Simran Sahni | Travel Blogger
     location: "Canada"
-    followers: 7147
-    engagement: 1749
-    commentsToLikes: 0.466965
-    id: ck6u1vid2o4vq0j716kndrri8
+    followers: 2802
+    engagement: 3007
+    commentsToLikes: 0.129672
+    id: ckaou8f6nz9nq0i7829wbd8cr
     verified: false
-    hashtags: "#hydrasplash, #strongertogether, #tuesdaythoughts, #tmithursday"
+    hashtags: "#happymothersday"
+  - username: "selinamilanese"
+    fullname: >-
+      Selina Milanese
+    location: "Canada"
+    followers: 3404
+    engagement: 2786
+    commentsToLikes: 0.190986
+    id: ck9h9mzq294lm0j787qsv3ewp
+    verified: false
+    hashtags: "#ardenebabe, #cloveandhallow, #collab, #ad"
+  - username: "mamazimanam"
+    fullname: >-
+      Mamazi 🧿
+    location: "Canada"
+    followers: 9230
+    engagement: 2737
+    commentsToLikes: 0.130059
+    id: ckaosxlzoth9s0i788qle8xui
+    verified: false
+    hashtags: "#asaprocky, #mamazi, #louisvuitton, #cornerstore"
   - username: "tangerinca"
     fullname: >-
       AVE MARIA
     location: "Canada"
-    followers: 2728
-    engagement: 2706
-    commentsToLikes: 0.159722
+    followers: 2693
+    engagement: 2712
+    commentsToLikes: 0.159699
     id: ck6tibd6x0e9x0j7134j8cmq6
     verified: false
     hashtags: ""
-  - username: "danieladibfitness"
+  - username: "maeva.trottier"
     fullname: >-
-      Daniela Dib Fitness
+      Maeva ☁️
     location: "Canada"
-    followers: 16257
-    engagement: 970
-    commentsToLikes: 0.090375
-    id: ck5zns6e5p1xk0i14t0t4wygf
+    followers: 13067
+    engagement: 2607
+    commentsToLikes: 0.272372
+    id: ck5cfo5n2nbq60i118y4ovfh2
     verified: false
-    hashtags: "#health, #photographer, #kingstreet, #onesie"
-  - username: "velow1k"
+    hashtags: "#fuckcorona"
+  - username: "mandilicous"
     fullname: >-
-      VELOW🥱
+      Mandy | Food | Lifestyle
     location: "Canada"
-    followers: 2171
-    engagement: 2458
-    commentsToLikes: 0.114290
-    id: ck5q9ejwkapv10i11i7bzm4sa
+    followers: 6133
+    engagement: 2561
+    commentsToLikes: 0.203917
+    id: ck15pdxixxeob0i199dnoaf03
     verified: false
-    hashtags: "#happybirthday, #birdbox, #freestyle, #freeda"
-  - username: "elly.mayday"
+    hashtags: "#panntea, #icecreamporn, #pizzaholic, #drinkspecial"
+  - username: "dt_416"
     fullname: >-
-      Elly Mayday
+      David Tadros
     location: "Canada"
-    followers: 99095
-    engagement: 1087
-    commentsToLikes: 0.061228
-    id: ck5q403fpn5dc0i11cuifrlbq
-    verified: true
-    hashtags: "#inspire, #baldgirls, #cancer, #alopecia"
-  - username: "trayrush"
-    fullname: >-
-      Tray Rush
-    location: "Canada"
-    followers: 188137
-    engagement: 663
-    commentsToLikes: 0.038791
-    id: ck5hrf2jvurmf0i11ffforn0h
+    followers: 6282
+    engagement: 2472
+    commentsToLikes: 0.085249
+    id: ck0vvnwfepylf0i195xfgsp4q
     verified: false
-    hashtags: "#birthdayvibes, #31, #agingbackwards"
-  - username: "helia_jalilnezhad"
-    fullname: >-
-      Helia
-    location: "Canada"
-    followers: 597608
-    engagement: 1457
-    commentsToLikes: 0.040757
-    id: ck5hr8h4aug2v0i118wyzkfvb
-    verified: false
-    hashtags: "#artist, #fashion, #afghansong, #bath"
+    hashtags: "#film, #portra400"
 cities:
   - name: Toronto
     link: /instagram/canada/toronto

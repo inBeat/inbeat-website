@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In United States In 2020
 description: >-
-  Find top skincare Instagram influencers in United States in 2020. Most popular hashtags: #skincare #selfcare #skincareroutine #stayhome.
+  Find top skincare Instagram influencers in United States in 2020. Most popular hashtags: #nature #love #ltksalealert #liketoknowit.
 platform: Instagram
 profiles:
-  - username: "jean_marienp"
+  - username: "mary.bears"
     fullname: >-
-      Jean FNP-BC
+      🌙 Mary | Fashion | Beauty
     location: "United States"
-    followers: 6441
-    engagement: 1360
-    commentsToLikes: 0.290456
-    id: ck5ckxlx4xtd80i11cgcvjm0r
+    followers: 3590
+    engagement: 2955
+    commentsToLikes: 0.576349
+    id: ck6u1cwlakzjb0j71hkxp3o2r
     verified: false
-    hashtags: "#blogger, #loving, #grig040720, #sprinklesfordays"
-  - username: "nicolewells.co"
+    hashtags: "#eyelovewaterdrench, #peterthomasroth, #ptrcult, #waterdrench"
+  - username: "storybookblonde"
     fullname: >-
-      Nicole Wells | Lifestyle
+      Tami 💖
     location: "United States"
-    followers: 2177
-    engagement: 2164
-    commentsToLikes: 0.537097
-    id: ck6ua4fjo1f9p0j710r5gsx4s
+    followers: 2911
+    engagement: 2360
+    commentsToLikes: 0.426801
+    id: ckapa1tiwudeg0i785m77hceh
     verified: false
-    hashtags: "#onenonlyarganoil, #healthyhairgoals, #freemancbd, #veganserum"
+    hashtags: "#chocolates, #rayban, #beachhair, #beachlife"
+  - username: "iamaprilelle"
+    fullname: >-
+      April Elle 🔹
+    location: "United States"
+    followers: 59372
+    engagement: 544
+    commentsToLikes: 0.095459
+    id: ck9haq9ildmsm0j78464qplgz
+    verified: false
+    hashtags: "#shamelessselfie, #makeupover40, #softglam, #brunettebeauty"
+  - username: "tylerpinderhudson"
+    fullname: >-
+      H U D S O N
+    location: "United States"
+    followers: 2542
+    engagement: 3220
+    commentsToLikes: 0.087860
+    id: ckapb2yu7ydqv0i78jwu1nrl6
+    verified: false
+    hashtags: "#iputmyhandinthere"
   - username: "skincarebyhyram"
     fullname: >-
       Hyram
     location: "United States"
-    followers: 144697
-    engagement: 928
-    commentsToLikes: 0.084592
+    followers: 291485
+    engagement: 747
+    commentsToLikes: 0.054814
     id: ck5cb6oyseue50i11d8tlae7n
     verified: false
-    hashtags: "#giveaway, #luckywelivehawaii, #zitsticka, #puppy"
-  - username: "cloutierkim"
+    hashtags: "#thehoesarealive, #iunik, #winter, #aforceforgood"
+  - username: "greyandsparkled"
     fullname: >-
-      Kim Cloutier
+      Grey
     location: "United States"
-    followers: 26612
-    engagement: 435
-    commentsToLikes: 0.060179
-    id: ck5znp09povr70i149solitui
+    followers: 6854
+    engagement: 1649
+    commentsToLikes: 0.320440
+    id: ck5bxb9k5ne4g0i1128gvn2cl
     verified: false
-    hashtags: "#kimcloutier, #bodylogic, #vitamins, #happymonday"
-  - username: "ashleighrtrent"
+    hashtags: "#instamakeup, #nyxcosmetics, #norvinasviolets, #peachyqueenblog"
+  - username: "jean_marienp"
     fullname: >-
-      Ashleigh Trent
+      Jean FNP-BC
     location: "United States"
-    followers: 8195
-    engagement: 783
-    commentsToLikes: 0.087535
-    id: ck8t1pcfjwj3b0j78w8ojkaye
+    followers: 9863
+    engagement: 975
+    commentsToLikes: 0.317697
+    id: ck5ckxlx4xtd80i11cgcvjm0r
     verified: false
-    hashtags: ""
-  - username: "omg_itsizzyb"
+    hashtags: "#spreadthelove, #glycolicacid, #summer, #tuesdaythoughts"
+  - username: "abseidon"
     fullname: >-
-      Isabelle Harrison
+      Sincerely Aby 🇯🇲
     location: "United States"
-    followers: 22776
-    engagement: 781
-    commentsToLikes: 0.043419
-    id: ck5hoqikjq1iu0i11utx27epu
-    verified: true
-    hashtags: "#sportsegafredo, #adv, #skingoals, #morningrountine"
-  - username: "laurengiraldo"
-    fullname: >-
-      lauren giraldo
-    location: "United States"
-    followers: 826195
-    engagement: 686
-    commentsToLikes: 0.011582
-    id: ck0twc8lzeum20i19att4eb7s
-    verified: true
-    hashtags: "#fitglowbeauty, #veganskincare, #birdsofprey, #wbsponsored"
+    followers: 8197
+    engagement: 3094
+    commentsToLikes: 0.038365
+    id: ck8t8sl78ln6k0j78ke3te33g
+    verified: false
+    hashtags: "#locgrowth, #locaversary, #starterlocheadz, #loctopianqueens"
   - username: "theegreatgabs"
     fullname: >-
       G A B Y 💃🏼
     location: "United States"
-    followers: 56160
-    engagement: 294
-    commentsToLikes: 0.124038
+    followers: 57126
+    engagement: 369
+    commentsToLikes: 0.122704
     id: ck0ttqye63xkd0i19s86ds8fz
     verified: false
-    hashtags: "#stayingin, #greenjuice, #shoes, #lovelulus"
-  - username: "trishreneebeauty"
+    hashtags: "#bts, #lolababe, #mirrorpics, #quarantinelife"
+  - username: "honeysweetpetite"
     fullname: >-
-      Trish Renee
+      Rachel | Petite Blogger
     location: "United States"
-    followers: 6410
-    engagement: 742
-    commentsToLikes: 0.117274
-    id: ck8szzm8cqc8t0j781n57u05l
+    followers: 5183
+    engagement: 1044
+    commentsToLikes: 0.218200
+    id: ck9wfontjpsvb0j78lofnmcw0
     verified: false
-    hashtags: ""
-  - username: "dearciera"
-    fullname: >-
-      C I E R A  H O K E
-    location: "United States"
-    followers: 15959
-    engagement: 996
-    commentsToLikes: 0.026522
-    id: ck5hg59dy0zm30i11yj2t9jef
-    verified: false
-    hashtags: "#inspire, #austin, #mydearfamily, #trip"
+    hashtags: "#womenwithstyle, #athleisurewear, #leggingslove, #shopmylook"
 ---

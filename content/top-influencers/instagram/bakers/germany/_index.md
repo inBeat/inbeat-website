@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Germany In 2020
 description: >-
-  Find top bakers Instagram influencers in Germany in 2020. Most popular hashtags: #feedfeed #foodphotography #lifeandthyme #foodfluffer.
+  Find top bakers Instagram influencers in Germany in 2020. Most popular hashtags: #easter #breakfastideas #baker #stayhome.
 platform: Instagram
 profiles:
   - username: "lifeisbetterwithbuttercream"
     fullname: >-
       Vanessa - Vegan Cake Artist
     location: "Germany"
-    followers: 7982
-    engagement: 1017
-    commentsToLikes: 0.030427
+    followers: 8261
+    engagement: 994
+    commentsToLikes: 0.039083
     id: ck6u72zzij6d70j71qx3wtbyj
     verified: false
-    hashtags: "#eatarainbow, #buntmalanders, #nohate, #veganstart"
+    hashtags: "#cupcakes, #vegankarlsruhe, #buntmalanders, #staytuned"
   - username: "anywayani"
     fullname: >-
       Ani
     location: "Germany"
-    followers: 2540
-    engagement: 1063
-    commentsToLikes: 0.332618
+    followers: 2530
+    engagement: 1020
+    commentsToLikes: 0.327919
     id: ck5c75o5j6v5n0i11bl2b7bn0
     verified: false
-    hashtags: "#quarkkn, #cookiesandcream, #quarkrecipes, #snackideas"
+    hashtags: "#quarkkn, #sundaymood, #donutlover, #snackideas"
+  - username: "katjas_tortenfabrik"
+    fullname: >-
+      
+    location: "Germany"
+    followers: 2435
+    engagement: 1323
+    commentsToLikes: 0.092652
+    id: ck6tt9vjt9fjh0j71j6dhc6wa
+    verified: false
+    hashtags: "#macaronsshell, #chocolate, #cookies, #erdbeertorte"
   - username: "rice.isnice"
     fullname: >-
       Kat Boytsova
     location: "Germany"
-    followers: 6257
-    engagement: 628
-    commentsToLikes: 0.025953
+    followers: 6615
+    engagement: 687
+    commentsToLikes: 0.028642
     id: ck5c48tvb0uae0i11m3jdn4qb
     verified: false
     hashtags: "#beans, #noms, #tomatoes, #summerproduce"
+  - username: "dianakaloev"
+    fullname: >-
+      Diana Kaloev🐒
+    location: "Germany"
+    followers: 147911
+    engagement: 1365
+    commentsToLikes: 0.010362
+    id: ck5zz2we1azb90i14x6jvnu43
+    verified: false
+    hashtags: "#cuddle, #spring, #mentalbreakdown, #mothersday"
   - username: "cloedis_sweet_corner"
     fullname: >-
       Claudia
     location: "Germany"
-    followers: 2620
-    engagement: 2794
-    commentsToLikes: 0.113399
+    followers: 2915
+    engagement: 2681
+    commentsToLikes: 0.129002
     id: ck55mjmn844420i1194i1932l
     verified: false
-    hashtags: "#myfoodpics, #bakersgonnabake, #gutenacht, #schlafgut"
-  - username: "my_good_life_love"
+    hashtags: "#kaffeeeis, #thyme, #moonmilk, #coffeelover"
+  - username: "tomasbabek"
     fullname: >-
-      Sylwia🌱
+      Tomas Babek
     location: "Germany"
-    followers: 5822
-    engagement: 812
-    commentsToLikes: 0.079955
-    id: ck55mjomt44af0i11sz64cs91
+    followers: 5478
+    engagement: 879
+    commentsToLikes: 0.016664
+    id: ck6tmk9kl7zt40j71pzx5e4b9
     verified: false
-    hashtags: "#eatclean, #diy, #christmasdecorations, #creative"
-  - username: "nicestthingscom"
+    hashtags: "#stayhome, #familytime, #prada, #kilo"
+  - username: "diejungskochenundbacken"
     fullname: >-
-      Vera Wohlleben | Nicest Things
+      Foodblog | Travelbog 📍Köln
     location: "Germany"
-    followers: 33012
-    engagement: 282
-    commentsToLikes: 0.083617
-    id: ck0vv9ct7o4ji0i19agn6md17
+    followers: 21888
+    engagement: 331
+    commentsToLikes: 0.062926
+    id: ck0vw610bs9kd0i19jwr7ff48
     verified: false
-    hashtags: "#foodstyling, #tastemade, #foodblogfeed, #mohn"
-  - username: "maraswunderland"
+    hashtags: "#grillen, #grillenmachtgl, #healthybrownies, #wanderlust"
+  - username: "loxchatterbox"
     fullname: >-
-      Maras Wunderland
+      Lox Chatterbox
     location: "Germany"
-    followers: 41816
-    engagement: 296
-    commentsToLikes: 0.053524
-    id: ck0u8sgr3876l0i19nvxynj6x
+    followers: 12367
+    engagement: 833
+    commentsToLikes: 0.084525
+    id: ck8sxzy5wj9b50j78n8moczrx
     verified: false
-    hashtags: "#bananenkuchen, #eastercake, #newyorkcheesecake, #karottenkuchen"
-  - username: "homenherbs"
+    hashtags: "#tribaltrap, #rapcity, #fishnet, #bakersfieldshit"
+  - username: "mit_liebe_gemacht_by_kerstin"
     fullname: >-
-      Home and Herbs
+      Kerstin Seifert
     location: "Germany"
-    followers: 6905
-    engagement: 693
-    commentsToLikes: 0.199758
-    id: ck13550yvzqpb0i19pwgs9vyu
+    followers: 3136
+    engagement: 963
+    commentsToLikes: 0.160486
+    id: ckaoy7waigdbq0i78omkoz3hu
     verified: false
-    hashtags: "#bessergleichbeschriften, #fondue, #coffee, #zerowaste"
-  - username: "ducathi1"
-    fullname: >-
-      DUCATHI
-    location: "Germany"
-    followers: 9636
-    engagement: 1052
-    commentsToLikes: 0.097082
-    id: ck6tju4n43fd50j71mq9xtllx
-    verified: false
-    hashtags: "#alleskacke, #neueanleitung, #nevernotknitting, #familie"
-  - username: "zuckerzimtundliebe"
-    fullname: >-
-      Zuckerzimtundliebe
-    location: "Germany"
-    followers: 111816
-    engagement: 344
-    commentsToLikes: 0.033365
-    id: ck134cgm1vrpr0i19stvzztwd
-    verified: false
-    hashtags: "#baristacremablonde, #bakingbread, #wisteria, #visitlana"
+    hashtags: "#supper, #krautsalat, #sefmade, #asia"
 ---

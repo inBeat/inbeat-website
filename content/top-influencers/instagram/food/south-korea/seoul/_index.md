@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Seoul In 2020
 description: >-
-  Find top food Instagram influencers in Seoul in 2020. Most popular hashtags: #food #seoul #korea #ad.
+  Find top food Instagram influencers in Seoul in 2020. Most popular hashtags: #instagram #food #camping #foodporn.
 platform: Instagram
 profiles:
-  - username: "thekoreandreamfr"
+  - username: "khumor.a"
     fullname: >-
-      Thekoreandreamfr 🇰🇷🎎
+      𝗥𝘂𝘇𝗺𝗮𝘁𝗼𝘃𝗮 𝗞𝗵𝘂𝗺𝗼𝗿𝗮 🇰🇷🇺🇿
     location: "South Korea"
-    followers: 18404
-    engagement: 842
-    commentsToLikes: 0.020507
-    id: ck5zlu4i0ldzz0i148y6he8i6
+    followers: 2123
+    engagement: 1800
+    commentsToLikes: 0.087522
+    id: ck9halnuxczvk0j78q8td5rul
     verified: false
-    hashtags: "#insadong, #cerisiers, #shooting, #bouffecoreennes"
-  - username: "suyeon71318"
-    fullname: >-
-      T걸
-    location: "South Korea"
-    followers: 36580
-    engagement: 251
-    commentsToLikes: 0.008974
-    id: ck14gob1q681q0i190pc8vzg5
-    verified: false
-    hashtags: "#romance, #sbsplus, #1000, #monsterrepublic"
+    hashtags: "#starbucks, #coffeetime, #jimin, #coffeelife"
   - username: "bubminji"
     fullname: >-
       Minji’s foodstagram
     location: "South Korea"
-    followers: 3283
-    engagement: 1322
-    commentsToLikes: 0.272500
+    followers: 3417
+    engagement: 1363
+    commentsToLikes: 0.255938
     id: ck0w5k8nm41vj0i19r3tvzvp3
+    verified: false
+    hashtags: "#selfie, #meshcoffee"
+  - username: "ddweji"
+    fullname: >-
+      뙈지뙈윤ಣ🐽ഒ
+    location: "South Korea"
+    followers: 20701
+    engagement: 200
+    commentsToLikes: 0.043150
+    id: ckap1b86jtu1m0i788m2hrgxd
     verified: false
     hashtags: ""
   - username: "stephaniekimchi"
     fullname: >-
-      스테파니킴치 ♡ ⋆⁺₊⋆ ☾
+      스테파니킴치 ♡ ⋆⁺₊⋆ ☾
     location: "South Korea"
-    followers: 21435
-    engagement: 560
-    commentsToLikes: 0.031864
+    followers: 23347
+    engagement: 398
+    commentsToLikes: 0.040865
     id: ck6uienqfen9q0j71q3ypfu1q
     verified: false
-    hashtags: "#shrimpoverload"
+    hashtags: "#dive"
   - username: "dj_dd_"
     fullname: >-
       DJ DD
     location: "South Korea"
-    followers: 18060
-    engagement: 386
-    commentsToLikes: 0.037735
+    followers: 17953
+    engagement: 362
+    commentsToLikes: 0.035001
     id: ck5hk4lpyhs0x0i11p2nk5lrx
     verified: false
-    hashtags: "#hightechseoul, #halloween, #happynewyear, #bodyfunk"
-  - username: "ssoyoung_mukbang"
+    hashtags: "#halloween, #happynewyear, #bodyfunk, #vdvr"
+  - username: "2silverrainn"
     fullname: >-
-      Ssoyoung 먹방🍖
+      Eunbi Lee / 이은비
     location: "South Korea"
-    followers: 76047
-    engagement: 606
-    commentsToLikes: 0.086734
-    id: ck8t3m7243pg90j78anwfycvz
+    followers: 79851
+    engagement: 261
+    commentsToLikes: 0.034184
+    id: ck5zonunjqxya0i14b78mapns
+    verified: true
+    hashtags: "#vibes, #shot, #bali, #food"
+  - username: "moon_stargram"
+    fullname: >-
+      Moonstar Life Studio 대표 문희정
+    location: "South Korea"
+    followers: 46029
+    engagement: 147
+    commentsToLikes: 0.051944
+    id: ck8szlqudoxgg0j781co1yyct
     verified: false
-    hashtags: "#asmr, #eat, #eating, #mukbangvideo"
+    hashtags: "#picnic, #latergram, #fritzhansen, #earthday2020"
+  - username: "eid.halal.korea"
+    fullname: >-
+      EID Halal 🇰🇷 Food
+    location: "South Korea"
+    followers: 29505
+    engagement: 466
+    commentsToLikes: 0.011540
+    id: ck55o92gp7vtz0i11uyycy1ax
+    verified: false
+    hashtags: "#unic, #halalkoreanfood, #itaewon"
   - username: "bingleytheboston"
     fullname: >-
       Bingley
     location: "South Korea"
-    followers: 8108
-    engagement: 703
-    commentsToLikes: 0.023376
+    followers: 8077
+    engagement: 682
+    commentsToLikes: 0.022656
     id: ck15thj8zi3uo0i19w6m9novq
     verified: false
-    hashtags: "#bandana, #easter, #couplegoals, #canadiangirl"
-  - username: "soultossol"
+    hashtags: "#makeuplooks, #happynewyear, #dogmomlife, #picnic"
+  - username: "alistmary_"
     fullname: >-
-      HS Park
+      Mary
     location: "South Korea"
-    followers: 23371
-    engagement: 390
-    commentsToLikes: 0.004653
-    id: ck14jdav3jrlu0i19ypw5gxyq
+    followers: 117577
+    engagement: 446
+    commentsToLikes: 0.032908
+    id: ck6uielizemwh0j71zaoj0p1i
     verified: false
-    hashtags: "#vosneromanee, #kojima, #michelinguide, #meursault"
-  - username: "welcometothepanoptico"
-    fullname: >-
-      세바 ~ (SHIPPO-YO) 🍶
-    location: "South Korea"
-    followers: 58804
-    engagement: 1903
-    commentsToLikes: 0.013068
-    id: ck5pw4bzyl1bn0i11a94fpj2o
-    verified: false
-    hashtags: "#namjoon, #season, #vsco, #lifestyle"
-  - username: "sssuerose"
-    fullname: >-
-      로즈의 진지한 카페투어
-    location: "South Korea"
-    followers: 99455
-    engagement: 386
-    commentsToLikes: 0.015088
-    id: ck0vx73i5xh0b0i19lz3cof5o
-    verified: false
-    hashtags: "#sandwich, #table, #seoulfood, #foodie"
+    hashtags: "#jmtgr, #yeezy700, #sponsoredby"
 ---

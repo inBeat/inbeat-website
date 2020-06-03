@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top travel Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #dancer #travel #dance.
+  Find top travel Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #travel #sponsored #sunset.
 platform: Instagram
 profiles:
   - username: "melissasandora"
     fullname: >-
       melissa sandora
     location: "United States"
-    followers: 2430
-    engagement: 1127
-    commentsToLikes: 0.108571
+    followers: 2542
+    engagement: 1093
+    commentsToLikes: 0.107374
     id: ck5zmintsmn730i141cc8a5d6
     verified: false
-    hashtags: "#babybowie, #makeupartist, #ithinkmyniecelovesmyboyfriendmorethanme, #mf"
-  - username: "anishakula"
+    hashtags: "#paris, #muahawards2020, #modernfamilymakeupandhair, #local706"
+  - username: "iamdavid_alexander"
     fullname: >-
-      Anisha Kurukulasuriya DDS
+      David Alexander
     location: "United States"
-    followers: 19670
-    engagement: 614
-    commentsToLikes: 0.039209
-    id: ck137g60kbd830i19y9r5itw0
-    verified: false
-    hashtags: "#southasianmodels, #mehendioutfit, #coronavirus, #2020pickuplines"
-  - username: "marristea"
-    fullname: >-
-      Maris Milk Tea
-    location: "United States"
-    followers: 102027
-    engagement: 94
-    commentsToLikes: 0.007557
-    id: ck55nol486mzl0i11fuj1sh8s
-    verified: false
-    hashtags: "#style, #me, #outfit, #party"
-  - username: "gizguz"
-    fullname: >-
-      Gizem Guzelsoy | NYC + Travel
-    location: "United States"
-    followers: 2736
-    engagement: 1263
-    commentsToLikes: 0.061625
-    id: ck6ue6xphp64s0j71dbc53b54
-    verified: false
-    hashtags: "#lasvegaslife, #islamujeresmexico, #artistsoninstagram, #travellosangeles"
+    followers: 39451
+    engagement: 521
+    commentsToLikes: 0.018267
+    id: ck14jni4jl8rl0i193bkg53rj
+    verified: true
+    hashtags: "#tacotuesday, #packagedeal, #cbsbigbrother, #lovinglife"
   - username: "zachmanske_"
     fullname: >-
       Zach Manske
     location: "United States"
-    followers: 5511
-    engagement: 1660
-    commentsToLikes: 0.028884
+    followers: 5485
+    engagement: 1645
+    commentsToLikes: 0.028457
     id: ck5ztns700s8j0i14mbf62u8t
     verified: false
-    hashtags: "#dancemodel, #ballerinaonpointes, #malechoreographer, #oneyear"
-  - username: "sarahkjelleren"
+    hashtags: "#recovery, #vogue, #choreographer, #usckaufman"
+  - username: "caylacalamia_"
     fullname: >-
-      SARAH  KJELLEREN
+      cayla✞
     location: "United States"
-    followers: 17991
-    engagement: 199
-    commentsToLikes: 0.091763
-    id: ck6tjo5je33hz0j71d3lt3011
+    followers: 5036
+    engagement: 764
+    commentsToLikes: 0.024788
+    id: ckap1eys1ub970i78th0594j2
     verified: false
-    hashtags: "#nature, #love, #paris, #isolation"
-  - username: "danyoswitzer"
+    hashtags: "#drake, #staysafe, #louisiana, #bestinblack"
+  - username: "alanitaylorco"
     fullname: >-
-      Daniel Switzer
+      Alani Taylor
     location: "United States"
-    followers: 4214
-    engagement: 891
-    commentsToLikes: 0.036546
-    id: ck5hp67vqqtnb0i110r48wz8m
+    followers: 18970
+    engagement: 209
+    commentsToLikes: 0.056489
+    id: ck14leysnublv0i191zsoqpf6
     verified: false
-    hashtags: "#thriller, #amazing, #frozenontour, #meangirlsbroadway"
-  - username: "aripratama_putu"
+    hashtags: "#twentiesonbet, #stylish, #jewelry, #fashionable"
+  - username: "gizguz"
     fullname: >-
-      I Putu Ari Ratna Pratama
+      Gizem Guzelsoy | NYC + Travel
     location: "United States"
-    followers: 3218
-    engagement: 2877
-    commentsToLikes: 0.103410
-    id: ck5hkwizdj5m90i11ehb01mu1
+    followers: 4127
+    engagement: 1103
+    commentsToLikes: 0.073256
+    id: ck6ue6xphp64s0j71dbc53b54
     verified: false
-    hashtags: "#jordhammondffa, #italytravel, #californiaadventure, #earthfocus"
-  - username: "chantellenicolemrowka"
+    hashtags: "#nycthroughmywindow, #grandcenote, #cuba, #museumart"
+  - username: "_yvetters"
     fullname: >-
-      Chantelle Mrowka
+      𝐘 𝐕 𝐄 𝐓 𝐓 𝐄 . 𝐕
     location: "United States"
-    followers: 40843
-    engagement: 1685
-    commentsToLikes: 0.028589
-    id: ck14hii82ah9h0i19dfqi5z86
+    followers: 3472
+    engagement: 2374
+    commentsToLikes: 0.142747
+    id: ck0w0jslsek5c0i194gi6yfo5
     verified: false
-    hashtags: "#handstands, #lafitness, #dancer, #create"
-  - username: "daytodaychase"
+    hashtags: "#lulusambassador, #lovelulus, #lolababe, #ymijeans"
+  - username: "macmatheus"
     fullname: >-
-      Chase
+      macmatheus
     location: "United States"
-    followers: 7005
-    engagement: 651
-    commentsToLikes: 0.084018
-    id: ck0w4rksd022r0i19vkqt8lhl
+    followers: 32509
+    engagement: 306
+    commentsToLikes: 0.042971
+    id: ck0vuy2yymoo60i19wv38n694
     verified: false
-    hashtags: "#alwaysexploring, #portraitstyles, #travelerlife, #envywearco"
+    hashtags: "#hydranthype, #nanox, #inmyscrubs, #healthysoul"
+  - username: "vinowithcristal"
+    fullname: >-
+      CRISTAL
+    location: "United States"
+    followers: 3942
+    engagement: 1292
+    commentsToLikes: 0.104867
+    id: ck0tyuwlao5og0i19kwl2bgrr
+    verified: false
+    hashtags: "#sauvignonblancseason, #thanksdad, #tb, #yamon"
+  - username: "megan.costley"
+    fullname: >-
+      Megan Costley
+    location: "United States"
+    followers: 33047
+    engagement: 188
+    commentsToLikes: 0.034106
+    id: ck0uapntzcsx30i194ldnavh4
+    verified: false
+    hashtags: "#pandalny, #igkpartner, #ad, #igkhair"
 ---

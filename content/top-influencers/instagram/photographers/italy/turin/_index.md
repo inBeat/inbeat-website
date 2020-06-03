@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Turin In 2020
 description: >-
-  Find top photographers Instagram influencers in Turin in 2020. Most popular hashtags: #torino #photooftheday #iorestoacasa #ig.
+  Find top photographers Instagram influencers in Turin in 2020. Most popular hashtags: #turin #travelgram #italian #torino.
 platform: Instagram
 profiles:
   - username: "aluttoluca"
     fullname: >-
       Luca
     location: "Italy"
-    followers: 35551
+    followers: 35132
     engagement: 290
-    commentsToLikes: 0.051215
+    commentsToLikes: 0.051877
     id: ck5hhig5b8e7g0i11tx6xulbw
     verified: false
-    hashtags: "#folk, #bnw, #portraitphotographer, #portraitsmag"
+    hashtags: ""
+  - username: "steor_it"
+    fullname: >-
+      Stefano Rubino
+    location: "Italy"
+    followers: 2681
+    engagement: 1732
+    commentsToLikes: 0.097373
+    id: ck5bzxisus0zf0i11n16w0kcr
+    verified: false
+    hashtags: "#ftmedd, #life, #l0tsabraids, #ftwotw"
   - username: "nasario_giubergia"
     fullname: >-
       Nasario Giubergia
     location: "Italy"
-    followers: 82949
-    engagement: 187
-    commentsToLikes: 0.081232
+    followers: 83834
+    engagement: 220
+    commentsToLikes: 0.074254
     id: ck8tb07qctteo0j78q8bz879f
     verified: false
-    hashtags: "#igers, #peakyblinders, #pittiuomo, #iorestoacasa"
-  - username: "danielacarusomodel"
+    hashtags: "#besafe, #fashionweek, #redcoral, #smile"
+  - username: "biancodavide_"
     fullname: >-
-      Daniela Caruso model 🇮🇹
+      Davide Bianco
     location: "Italy"
-    followers: 41076
-    engagement: 216
-    commentsToLikes: 0.033019
-    id: ck5hejk54t8pn0i113zjyk30g
+    followers: 9845
+    engagement: 1680
+    commentsToLikes: 0.017291
+    id: ck8t34x871vof0j7862jmo2zx
     verified: false
-    hashtags: "#strong, #covid19, #modelos, #artsy"
-  - username: "giulia_kefalas"
+    hashtags: "#gaudi, #igerstorino, #felicit, #portoconte"
+  - username: "f_a_b_i_e_t_t_o_76"
     fullname: >-
-      Giulia Kefalas Model
+      Fabio Romagnolo
     location: "Italy"
-    followers: 5544
-    engagement: 1178
-    commentsToLikes: 0.074144
-    id: ck8t89arejjrx0j78cpga4up7
+    followers: 7556
+    engagement: 1702
+    commentsToLikes: 0.098188
+    id: ck5cim7dpswuv0i11s6y2m9zy
     verified: false
-    hashtags: "#happiness, #stateacasa, #completo, #occhialidavista"
-  - username: "fabio.fi"
-    fullname: >-
-      F A B I O ®
-    location: "Italy"
-    followers: 20154
-    engagement: 598
-    commentsToLikes: 0.056506
-    id: ck15r7zzl6lpm0i19s1e95m9l
-    verified: false
-    hashtags: "#menwhitclass, #menfashion, #guywhitstyle, #creta"
-  - username: "lucamagaz"
-    fullname: >-
-      Luca Magazzù
-    location: "Italy"
-    followers: 7593
-    engagement: 900
-    commentsToLikes: 0.025988
-    id: ck6ugs1q54tqy0j715sg3pkcd
-    verified: false
-    hashtags: "#surfsafari"
+    hashtags: "#berna, #kings, #montagne, #valdaosta"
   - username: "lorebackpacker"
     fullname: >-
       Lorenzo
     location: "Italy"
-    followers: 13182
-    engagement: 1268
-    commentsToLikes: 0.027685
+    followers: 12965
+    engagement: 1297
+    commentsToLikes: 0.027627
     id: ck15rzltfahu30i19uoo2d9ew
     verified: false
-    hashtags: "#folkgood, #mountainvibes, #mountaintop, #passportready"
+    hashtags: "#instanorway, #visitlofoten, #rawmates, #nightscape"
   - username: "nicodsn"
     fullname: >-
       Nico Schneider Ruatta
     location: "Italy"
-    followers: 35138
-    engagement: 38
-    commentsToLikes: 0.009997
+    followers: 34668
+    engagement: 42
+    commentsToLikes: 0.011127
     id: ck6txe9cbxc040j71kf61g862
     verified: false
-    hashtags: "#lordandberry, #woman, #thisismywhy, #trainingathletic"
+    hashtags: "#party, #training, #social, #centralinoclub"
   - username: "giuse_joseph"
     fullname: >-
       © Giuse Joseph - Videomaker
     location: "Italy"
-    followers: 14721
-    engagement: 97
-    commentsToLikes: 0.054034
+    followers: 14349
+    engagement: 101
+    commentsToLikes: 0.052259
     id: ck14guqwz74lt0i192gmg5z09
     verified: false
-    hashtags: "#style, #blondemodels, #lumix, #nexbuds"
-  - username: "andrea.casalenuovo"
+    hashtags: "#lumix, #massage, #nexiomi, #videooftheday"
+  - username: "navid.nasri"
     fullname: >-
-      Andrea Casalenuovo
+      Navid Nasri | Photographer
     location: "Italy"
-    followers: 2544
-    engagement: 1209
-    commentsToLikes: 0.069134
-    id: ck5hpw210s2dk0i11634l3knj
+    followers: 3541
+    engagement: 1875
+    commentsToLikes: 0.053847
+    id: ck6ubfw5q9bx10j71fmh0g8ff
     verified: false
-    hashtags: "#torinodigitale, #stupinigi, #grattacielosanpaolo, #corsofrancia"
+    hashtags: "#paris, #italianfoto, #bestplace, #pullover"
+  - username: "gabrielegalimbertiphoto"
+    fullname: >-
+      Gabriele Galimberti
+    location: "Italy"
+    followers: 213126
+    engagement: 315
+    commentsToLikes: 0.013135
+    id: ck0ucadumgbod0i19ffkc9mx0
+    verified: true
+    hashtags: "#greengrocer, #mothersday, #zanzibar, #bergamo"
 ---

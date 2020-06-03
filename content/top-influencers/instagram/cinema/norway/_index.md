@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Norway In 2020
 description: >-
-  Find top cinema Instagram influencers in Norway in 2020. Most popular hashtags: #norway #oslo #norge #nature.
+  Find top cinema Instagram influencers in Norway in 2020. Most popular hashtags: #cinematography #norway #artwork #motivation.
 platform: Instagram
 profiles:
   - username: "adriankrog1"
     fullname: >-
       ＡＤＲＩＡＮ ＫＲＯＧ🇳🇴
     location: "Norway"
-    followers: 116253
-    engagement: 585
-    commentsToLikes: 0.019597
+    followers: 111395
+    engagement: 561
+    commentsToLikes: 0.018030
     id: ck136e64w61r70i19wjm8b3uo
     verified: false
-    hashtags: "#norwegian, #batucaves, #teliaung, #shopping"
+    hashtags: "#thailand, #telianorge, #kualalumpur, #exploretheworld"
   - username: "kimsorens1"
     fullname: >-
       Kim Sørensen | TravelPhoto
     location: "Norway"
-    followers: 60183
-    engagement: 156
-    commentsToLikes: 0.058960
+    followers: 59402
+    engagement: 167
+    commentsToLikes: 0.057037
     id: ck5zrk8pbwql80i14aof1nc9l
     verified: false
-    hashtags: "#goodcompany, #change, #travelfilm, #reisetips"
+    hashtags: "#throwback, #dreams, #tools, #smiling"
   - username: "leoplaketti"
     fullname: >-
       LEO PLAKETTI🗺VIDEO CREATOR©
     location: "Norway"
-    followers: 5557
-    engagement: 939
-    commentsToLikes: 0.035110
+    followers: 5487
+    engagement: 956
+    commentsToLikes: 0.033655
     id: ck5zrxf7hxfhr0i14m17pc4e9
     verified: false
-    hashtags: "#entrepreneur, #bmwi8, #norway, #foto"
+    hashtags: "#corona, #bmwi8, #mensfashion, #photo"
   - username: "jasperpaakkonen"
     fullname: >-
       Jasper Pääkkönen
     location: "Norway"
-    followers: 273116
-    engagement: 612
-    commentsToLikes: 0.008047
+    followers: 277761
+    engagement: 604
+    commentsToLikes: 0.008273
     id: ck0ua0u8rb7b40i198oqzqc90
     verified: true
-    hashtags: "#savetherhino, #torresdelpaine, #patagonia, #estanciacristina"
-  - username: "felicitysaxophonist"
+    hashtags: "#rifflinghitch, #dambusters, #rokkenroll, #krugernationalpark"
+  - username: "sigurd.vedal"
     fullname: >-
-      F ｅｌｉｃｉｔｙ
+      S i g u r d   V e d a l
     location: "Norway"
-    followers: 11798
-    engagement: 377
-    commentsToLikes: 0.036452
-    id: ck55k7o1pyofz0i11q77woac0
-    verified: false
-    hashtags: "#celebration, #norway, #needmusic, #sequins"
+    followers: 1018628
+    engagement: 156
+    commentsToLikes: 0.040364
+    id: ck0vw3qgwrys00i197kombffa
+    verified: true
+    hashtags: "#setyourgoals, #failure, #hustlemode, #dreamchasers"
   - username: "andre_larsen"
     fullname: >-
-      🪐ANDRÉxLARSEN
+      🪐ANDRÉxLARSEN
     location: "Norway"
-    followers: 5175
-    engagement: 1270
-    commentsToLikes: 0.052001
+    followers: 7301
+    engagement: 1251
+    commentsToLikes: 0.048508
     id: ck55pn1pmax6q0i1149176t5h
     verified: false
-    hashtags: "#drones, #dronephotography, #norway, #norge"
+    hashtags: "#360camera, #cars, #driftcar, #impulserc"
   - username: "redhoot_"
     fullname: >-
       Redhoot (oboemonger)
     location: "Norway"
-    followers: 34650
-    engagement: 647
-    commentsToLikes: 0.018484
+    followers: 33825
+    engagement: 677
+    commentsToLikes: 0.019352
     id: ck15pgwywxtjz0i19ont8fwc9
     verified: false
-    hashtags: "#motiongraphics, #ihumanmovie, #breakcore, #creature"
+    hashtags: "#motionmate, #agisoft, #cinematography, #physics"
   - username: "domenicosolazzo"
     fullname: >-
       Domenico Solazzo ✪
     location: "Norway"
-    followers: 20378
-    engagement: 231
-    commentsToLikes: 0.052960
+    followers: 20564
+    engagement: 218
+    commentsToLikes: 0.044466
     id: ck139a9rlkazd0i19cu9uc7qh
     verified: false
-    hashtags: "#programmerrepublic, #together, #business, #sketchdesign"
-  - username: "yoacim7"
+    hashtags: "#photoshop, #slack, #youtubersbelike, #500subs"
+  - username: "jennyhval"
     fullname: >-
-      Joachim
+      
     location: "Norway"
-    followers: 39491
-    engagement: 359
-    commentsToLikes: 0.033510
-    id: ck136e76x61w70i194ioi5ppf
-    verified: false
-    hashtags: "#skiller, #snapback, #norway, #etna"
-  - username: "triplit"
-    fullname: >-
-      triplit
-    location: "Norway"
-    followers: 6261
-    engagement: 856
-    commentsToLikes: 0.015417
-    id: ck6ueex82qika0j71l7q2hp0d
+    followers: 15153
+    engagement: 790
+    commentsToLikes: 0.028796
+    id: ck0ubs897f7r70i19ry19dqgi
     verified: false
     hashtags: ""
+  - username: "jamesbondmagasinet"
+    fullname: >-
+      James Bond Norway
+    location: "Norway"
+    followers: 33127
+    engagement: 90
+    commentsToLikes: 0.024364
+    id: ck14go6qd67ez0i194nog56vr
+    verified: false
+    hashtags: "#johnbarry, #movies, #visitsoelden, #007store"
 ---

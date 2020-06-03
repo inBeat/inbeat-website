@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Konya In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Konya in 2020. Most popular hashtags: #evdekal #travel #konya #travelblogger.
+  Find top lifestyle Instagram influencers in Konya in 2020. Most popular hashtags: #23nisan #konya #staysafe #makeup.
 platform: Instagram
 profiles:
-  - username: "paylastikcaguzel_"
+  - username: "storyofjourneys"
     fullname: >-
-      PaylaştıkçaGüzel • Begüm Tekin
+      Story Of Journeys
     location: "Turkey"
-    followers: 48501
-    engagement: 215
-    commentsToLikes: 0.080309
-    id: ck14i28nxda050i19ylg2zy3c
+    followers: 2835
+    engagement: 1897
+    commentsToLikes: 0.155712
+    id: ck5qcromos0dh0i11d80w8qa6
     verified: false
-    hashtags: "#stayinside, #tealove, #teaoftheday, #kartoffelsalat"
+    hashtags: "#konya, #amsterdam, #corona"
   - username: "pembedunyammm"
     fullname: >-
       Ümran
     location: "Turkey"
-    followers: 28410
-    engagement: 113
-    commentsToLikes: 0.106780
+    followers: 28900
+    engagement: 121
+    commentsToLikes: 0.117577
     id: ck5c9v3qfc6cg0i11rul1fj44
     verified: false
-    hashtags: "#makyajblogger, #mart, #evdekalt, #avonparf"
-  - username: "bifeyza"
+    hashtags: "#23nisan, #izindeyizatam, #temizlikbenimi, #summertime"
+  - username: "paylastikcaguzel_"
+    fullname: >-
+      PaylaştıkçaGüzel • Begüm Tekin
+    location: "Turkey"
+    followers: 48085
+    engagement: 207
+    commentsToLikes: 0.078210
+    id: ck14i28nxda050i19ylg2zy3c
+    verified: false
+    hashtags: "#cheesecake, #yummy, #smokedbbq, #butikkahvalt"
+  - username: "elisi.bohcasi"
     fullname: >-
       
     location: "Turkey"
-    followers: 93134
-    engagement: 82
-    commentsToLikes: 0.012040
-    id: ck6tmbt927jx30j71dza2nkql
+    followers: 18005
+    engagement: 194
+    commentsToLikes: 0.047059
+    id: ck8t55fku8u8a0j78ivw0olo2
     verified: false
-    hashtags: "#minimalizm, #cekili, #homeoffice, #saat"
-  - username: "gezipduruzzz"
+    hashtags: "#ht8990emoji, #namaz, #reklamht40, #guitar"
+  - username: "hasankabzee"
     fullname: >-
-      Şeyda 🧿 Recep
+      HASAN KABZE
     location: "Turkey"
-    followers: 8414
-    engagement: 2073
-    commentsToLikes: 0.015087
-    id: ck0tv1ff39ipz0i19bvqpezsl
-    verified: false
-    hashtags: "#ulabelediyesi, #istanbul, #bafag, #bisiklet"
-  - username: "tekbasinadaolur"
+    followers: 56230
+    engagement: 525
+    commentsToLikes: 0.034939
+    id: ck5hso4s7wwza0i119zk153cf
+    verified: true
+    hashtags: "#goal, #albania, #earthquake, #walk"
+  - username: "izgisimal"
     fullname: >-
-      Gökhan Konaş - Blogger
+      Şimal İzgi 🍒
     location: "Turkey"
-    followers: 63009
-    engagement: 519
-    commentsToLikes: 0.127733
-    id: ck0w5jsvb3zjq0i19iggs1ok9
+    followers: 2764
+    engagement: 2747
+    commentsToLikes: 0.133969
+    id: ckaot27amu1im0i78imlj088h
     verified: false
-    hashtags: "#camprail, #ulubeykanyonu, #mountainlife, #corona"
-  - username: "pelinburcin"
+    hashtags: "#purple, #lilacmakeup, #makeuplook, #quarantine"
+  - username: "eceetuncel"
     fullname: >-
-      𝐏𝐞𝐥𝐢𝐧 ༗ 𝐓𝐫𝐚𝐯𝐞𝐥 ༗ 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞
+      Ece Tuncel
     location: "Turkey"
-    followers: 10064
-    engagement: 1490
-    commentsToLikes: 0.123092
-    id: ck8t93qizmuvv0j78i1orvfgh
+    followers: 186838
+    engagement: 1773
+    commentsToLikes: 0.605199
+    id: ck5ca19fwcin50i11te28n4nr
     verified: false
-    hashtags: "#roamersclublife, #wellness, #provence, #shetravels"
-  - username: "yesene_catering"
-    fullname: >-
-      Dilek Pfeiffer
-    location: "Turkey"
-    followers: 3597
-    engagement: 967
-    commentsToLikes: 0.288170
-    id: ck5q4ijthp56n0i114o1hsbcv
-    verified: false
-    hashtags: "#drinks, #tasty, #artin, #sunum"
+    hashtags: "#ootd, #tbt, #yast, #stayhome"
   - username: "onewaythreetickets"
     fullname: >-
-      AYLİN▪️Travel Blog
+      AYLİN▪️Travel Blogger
     location: "Turkey"
-    followers: 6177
-    engagement: 1583
-    commentsToLikes: 0.102114
+    followers: 6688
+    engagement: 1638
+    commentsToLikes: 0.104908
     id: ck8t941jcmw040j78xqjh4bm7
     verified: false
-    hashtags: "#onewayitaly, #omewayfrance, #kap, #schengencountry"
-  - username: "simlipullu"
+    hashtags: "#yunanistanturu, #museedelouvre, #kavala, #worldtraveler"
+  - username: "__mervesii__"
     fullname: >-
-      Simay Çetinkaya Pullu
+      Merve Layık Yıldır
     location: "Turkey"
-    followers: 5120
-    engagement: 2198
-    commentsToLikes: 0.131060
-    id: ck8t3cgo62qsy0j78b6gwj87u
+    followers: 8671
+    engagement: 1488
+    commentsToLikes: 0.133556
+    id: ckap3hq5u31p50i7891fhmupa
     verified: false
-    hashtags: "#geziyorum, #pazarkeyfi, #traveling, #stayhome"
-  - username: "pilotasoglu"
+    hashtags: "#9weekspregnant, #kpbakewith12, #arifeo, #ucak9mokkam"
+  - username: "cerenkulahli"
     fullname: >-
-      Ahmet Asoğlu | Cadet Pilot
+      Ceren Külahlı
     location: "Turkey"
-    followers: 47847
-    engagement: 1253
-    commentsToLikes: 0.068879
-    id: ck5hh6x0e6oze0i11qh60msgv
+    followers: 73044
+    engagement: 1438
+    commentsToLikes: 0.762949
+    id: ck8t09eaxra4i0j78w6hhxucx
     verified: false
-    hashtags: "#insta360go"
+    hashtags: "#cekilis, #makyaj, #makyajmalzemesi, #makeup"
 ---

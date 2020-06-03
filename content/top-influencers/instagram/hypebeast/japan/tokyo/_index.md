@@ -1,59 +1,29 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Tokyo in 2020. Most popular hashtags: #streets #moodygrams #citykillerz #beautifuldestinations.
+  Find top hypebeast Instagram influencers in Tokyo in 2020. Most popular hashtags: #shotzdelight #hypebeast #streets #theimaged.
 platform: Instagram
 profiles:
-  - username: "fuse_jp"
+  - username: "nickelpack"
     fullname: >-
-      Fuse
+      Kenta Hayashi
     location: "Japan"
-    followers: 17790
-    engagement: 751
-    commentsToLikes: 0.012223
-    id: ck0u8120z65ds0i19jf7fms7j
+    followers: 6165
+    engagement: 2003
+    commentsToLikes: 0.029116
+    id: ck5zuzfzq3bcb0i14uzzoytr6
     verified: false
-    hashtags: "#eclectic, #discovertokyo, #fatalframes, #hellofrom"
-  - username: "k319w"
-    fullname: >-
-      Kazumi Watanabe
-    location: "Japan"
-    followers: 25994
-    engagement: 367
-    commentsToLikes: 0.016032
-    id: ck0txuny8kiah0i191837fdf7
-    verified: false
-    hashtags: "#tokyocameraclub, #rawurbanshots, #urbanandstreet, #electricforest"
+    hashtags: "#visualgrams, #bokehkillers, #impressive, #streetmobs"
   - username: "_kevin.douglas_"
     fullname: >-
       KD
     location: "Japan"
-    followers: 3149
-    engagement: 1549
-    commentsToLikes: 0.086164
+    followers: 3830
+    engagement: 1477
+    commentsToLikes: 0.078361
     id: ck5ciona6t26y0i11vd1zm6ky
     verified: false
-    hashtags: "#depthobsessed, #pursuitofportraits, #streetleaks, #thecreatorclass"
-  - username: "ssym.ry"
-    fullname: >-
-      SHIMO.®
-    location: "Japan"
-    followers: 15150
-    engagement: 461
-    commentsToLikes: 0.026664
-    id: ck8tdknt63pao0j78ct3jbv0m
-    verified: false
-    hashtags: "#fpar, #wdywt, #sweater, #fashiongram"
-  - username: "tokyo.ig"
-    fullname: >-
-      TOKYO.IG
-    location: "Japan"
-    followers: 104678
-    engagement: 541
-    commentsToLikes: 0.008559
-    id: ck0ublv6beui20i19gfpx7ba2
-    verified: false
-    hashtags: "#earth, #streetmagazine, #depthobsessed, #tokyocameraclub"
+    hashtags: "#shoot2kill, #bestvacations, #streetxstory, #main"
   - username: "u_mikisuke"
     fullname: >-
       Mikisuke Umeda
@@ -64,44 +34,74 @@ profiles:
     id: ck6ubtq5pbniw0j71gxuxnmu2
     verified: false
     hashtags: "#citykillerz, #streetactivity, #reco, #aestheticsjapan"
-  - username: "ldn2hk"
+  - username: "rkrkrk"
     fullname: >-
-      LDN2HK
+      R̸K̸
     location: "Japan"
-    followers: 121560
-    engagement: 87
-    commentsToLikes: 0.023156
-    id: ck0vy6arf2fmn0i1921qggb7t
-    verified: false
-    hashtags: "#hypedstreets, #nikeundercover, #omega, #bogo"
+    followers: 521992
+    engagement: 502
+    commentsToLikes: 0.006941
+    id: ck0tuyuux99u60i19r3wkkqhn
+    verified: true
+    hashtags: "#fromwhereidrone, #livingoneart, #hbouthere"
   - username: "amatou_0429"
     fullname: >-
       Amatou
     location: "Japan"
-    followers: 43164
-    engagement: 503
-    commentsToLikes: 0.008613
+    followers: 43265
+    engagement: 514
+    commentsToLikes: 0.009000
     id: ck0w0w41egbge0i195aw1fncf
     verified: false
-    hashtags: "#reflectiongram, #japantrip, #highsnobiety, #moodygrams"
-  - username: "kyohei_w516"
+    hashtags: "#streetmagazine, #hypebeast, #citykillerz, #amazing"
+  - username: "_deepsky"
     fullname: >-
-      KYOHEI
+      Tat  | Tokyo 🇯🇵
     location: "Japan"
-    followers: 11213
-    engagement: 428
-    commentsToLikes: 0.006720
-    id: ck13cy0hy2pzy0i19oznccdti
-    verified: false
-    hashtags: "#christmas, #japan, #earth, #moodyfilm"
-  - username: "jerometraveller"
+    followers: 223887
+    engagement: 489
+    commentsToLikes: 0.014699
+    id: ck0tza8jhpq030i19kkr449jl
+    verified: true
+    hashtags: "#supermoon, #galaxys20, #pinkmoon, #hypebeast"
+  - username: "66_juna"
     fullname: >-
-      JÉRÔME • NYC • Spiderman 🕷
+      J U N A
     location: "Japan"
-    followers: 23940
-    engagement: 690
-    commentsToLikes: 0.080040
-    id: ck0w2ijneojfo0i1994eoyr3c
+    followers: 9241
+    engagement: 888
+    commentsToLikes: 0.005320
+    id: ck135n5vc28qb0i19u3r64npb
     verified: false
-    hashtags: "#renaissancestpancras, #beautifuldestinations, #nyc, #stpaulcathedral"
+    hashtags: "#mountainlightjacket, #am95, #camera, #photography"
+  - username: "perksandmini"
+    fullname: >-
+      P.A.M. (Perks and Mini)
+    location: "Japan"
+    followers: 64478
+    engagement: 82
+    commentsToLikes: 0.005898
+    id: ck0vzvw06b5hx0i19v4ykowzo
+    verified: true
+    hashtags: "#hypebeaststyle, #ausfires, #18, #ecstacy"
+  - username: "35mmfullsize"
+    fullname: >-
+      AKIRA
+    location: "Japan"
+    followers: 29739
+    engagement: 599
+    commentsToLikes: 0.018116
+    id: ck0twxcx3h5fw0i191ddnu8cz
+    verified: false
+    hashtags: "#mtfuji, #lightroom, #discoverjapan, #weekly"
+  - username: "japan"
+    fullname: >-
+      @japan
+    location: "Japan"
+    followers: 129995
+    engagement: 339
+    commentsToLikes: 0.008321
+    id: ck55om9dr8n6p0i119vwb7hdp
+    verified: false
+    hashtags: "#universaltokyo, #instagood, #inspirationcultmag, #myjapanstory"
 ---

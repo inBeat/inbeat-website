@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Seattle In 2020
 description: >-
-  Find top vegan Instagram influencers in Seattle in 2020. Most popular hashtags: #vegan #seattle #vegansofig #dairyisscary.
+  Find top vegan Instagram influencers in Seattle in 2020. Most popular hashtags: #vegan #veganlife #seattle #christmas.
 platform: Instagram
 profiles:
-  - username: "hungrycleo"
+  - username: "theallvegan"
     fullname: >-
-      cleo
+      🌿 The All Vegan
     location: "United States"
-    followers: 2397
-    engagement: 1234
-    commentsToLikes: 0.078943
-    id: ck0vy9jsl2wbb0i19cd3pc9bq
+    followers: 35435
+    engagement: 225
+    commentsToLikes: 0.027008
+    id: ck136ir976oqj0i19dpmu6crx
     verified: false
-    hashtags: "#consitency, #2020, #missmyfriends, #healthyhaircare"
-  - username: "aetherbeautyco"
+    hashtags: "#vegansofny, #veganpastry, #veganman, #vegansnack"
+  - username: "naturalveganguy"
     fullname: >-
-      Āether Beauty
+      NATURAL VEGAN GUY
     location: "United States"
-    followers: 34040
-    engagement: 149
-    commentsToLikes: 0.080822
-    id: ck136by0z5qez0i191trt901w
+    followers: 29946
+    engagement: 73
+    commentsToLikes: 0.035274
+    id: ck135f8s314dk0i19wrv9y7om
     verified: false
-    hashtags: "#letsmakeup, #standwithsmall, #indiebeautybrand, #rosequartzmakeup"
-  - username: "parisalexamusic"
+    hashtags: "#vegansweets, #nicecreambowl, #veganuary, #vegancookiedough"
+  - username: "janina_reimann23"
     fullname: >-
-      BIG P🏆
+      Janina Reimann
     location: "United States"
-    followers: 17271
-    engagement: 524
-    commentsToLikes: 0.048998
-    id: ck138ertvfvx90i19sv28h63c
-    verified: true
-    hashtags: "#bts, #explore, #singers, #voice"
-  - username: "erinjanus_"
-    fullname: >-
-      Erin Janus
-    location: "United States"
-    followers: 36602
-    engagement: 1237
-    commentsToLikes: 0.048628
-    id: ck0tt4ek313xe0i19n6zmxuni
+    followers: 44924
+    engagement: 1033
+    commentsToLikes: 0.033137
+    id: ck15ttispjtmo0i19xr5qpwom
     verified: false
-    hashtags: "#vegansofig, #govegan, #lavegans, #turkeys"
-  - username: "jswainphoto"
+    hashtags: "#weekend, #happyhalloween, #playdate, #snow"
+  - username: "sweetnattydee"
     fullname: >-
-      J|Swain
+      Sweet Natty Yoga
     location: "United States"
-    followers: 75895
-    engagement: 166
-    commentsToLikes: 0.021060
-    id: ck5zv2cms3gqc0i142kp1omvf
+    followers: 18294
+    engagement: 181
+    commentsToLikes: 0.121255
+    id: ck0txbw10innl0i1994iohz7e
     verified: false
-    hashtags: "#uncensored, #mariemadore, #seattlephotographer, #tattoos"
-  - username: "veganreyna"
+    hashtags: "#denver, #sharingiscaring, #puppycheck, #transformations"
+  - username: "indi.willi"
     fullname: >-
-      Reyna
+      I N D I
     location: "United States"
-    followers: 66225
-    engagement: 106
-    commentsToLikes: 0.020579
-    id: ck5hlepddk33b0i11rtnxkrg1
+    followers: 15134
+    engagement: 684
+    commentsToLikes: 0.053354
+    id: ck0uequjilw370i19xx000rh1
     verified: false
-    hashtags: "#veganeggs, #pointdumewedding, #rockandroll, #smallbusiness"
-  - username: "ranjitharprabhu"
-    fullname: >-
-      Ranjitha R Prabhu
-    location: "United States"
-    followers: 3193
-    engagement: 1930
-    commentsToLikes: 0.206382
-    id: ck8t7sfh7hu7a0j78536q0igm
-    verified: false
-    hashtags: "#vegetarianrecipes, #delhistreetfood, #breakfastofchampions, #birthdaygirl"
+    hashtags: "#westworld, #maythe4th, #padme, #selfportrait"
   - username: "styledictatornw"
     fullname: >-
       Beauty & Lifestyle
     location: "United States"
-    followers: 7522
-    engagement: 871
-    commentsToLikes: 0.188850
+    followers: 7751
+    engagement: 939
+    commentsToLikes: 0.362394
     id: ck14ib7jfejn30i19okzlf7ud
     verified: false
-    hashtags: "#skincare, #tula, #cobigelowgiftedme, #trendingatsephora"
-  - username: "seattlefoodieadventure"
+    hashtags: "#feuilleteskincaregiftedme, #diptyqueparis, #makeupgiveaway, #bringbackthelight"
+  - username: "erinjanus_"
     fullname: >-
-      Seattle Food 🍔🍲🍕 | Donuts 🍩
+      Erin Janus
     location: "United States"
-    followers: 79927
-    engagement: 555
-    commentsToLikes: 0.040046
-    id: ck14glyy15vih0i19nxwspfqr
+    followers: 36505
+    engagement: 1254
+    commentsToLikes: 0.048565
+    id: ck0tt4ek313xe0i19n6zmxuni
     verified: false
-    hashtags: "#seattlestaple, #seattlefoodieadventure, #mantou, #teriyaki"
-  - username: "lauramakfitness"
+    hashtags: "#vegansofig, #dairyfree4ever, #dynamiceyestudios, #veganthanksgiving"
+  - username: "hungrycleo"
     fullname: >-
-      Laura Mak Quist, MS //
+      CLEO | MINDSET | MENTOR
     location: "United States"
-    followers: 16337
-    engagement: 272
-    commentsToLikes: 0.080060
-    id: ck5hqgm9ht2ua0i11goaocwa8
+    followers: 2640
+    engagement: 1136
+    commentsToLikes: 0.080910
+    id: ck0vy9jsl2wbb0i19cd3pc9bq
     verified: false
-    hashtags: "#lifestyleyoga, #coronavirus, #kirkland, #yogaonline"
+    hashtags: "#vintagestyle, #naturalmakeup, #candid, #filmphotography"
+  - username: "f00dprints"
+    fullname: >-
+      Suchita Kalele
+    location: "United States"
+    followers: 2458
+    engagement: 1626
+    commentsToLikes: 0.282799
+    id: ck55mwo3t4zpj0i11d23i9xmc
+    verified: false
+    hashtags: "#simplepleasures, #quarantinelife, #pastamaking, #asianfoodlovers"
+  - username: "cameliakatoozian"
+    fullname: >-
+      Camelia Katoozian
+    location: "United States"
+    followers: 689153
+    engagement: 391
+    commentsToLikes: 0.017562
+    id: ck135dfks0wez0i19whher5wv
+    verified: true
+    hashtags: "#winterfashion, #braid, #vintagefashion, #tiktokvideo"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In France In 2020
 description: >-
-  Find top gardening Instagram influencers in France in 2020. Most popular hashtags: #confinement #gardening #nature #garden.
+  Find top gardening Instagram influencers in France in 2020. Most popular hashtags: #gardening #garden #flowerstagram #green.
 platform: Instagram
 profiles:
   - username: "belles_decos"
     fullname: >-
       🌸🐰🌿🌸🐰🌿🌸🐰🌿🌸🐰🌿🌸
     location: "France"
-    followers: 87383
-    engagement: 246
-    commentsToLikes: 0.006032
+    followers: 87288
+    engagement: 259
+    commentsToLikes: 0.006400
     id: ck15u2dhml3200i19nems3vqd
     verified: false
-    hashtags: "#france, #winterfell, #bougies, #parisien"
-  - username: "misslegs.fr"
+    hashtags: "#gardenstyle, #beautifulgardens, #gardenlove, #visitlondon"
+  - username: "doctomax"
     fullname: >-
-      MissLegs 👠
+      Doctomax
     location: "France"
-    followers: 53651
-    engagement: 402
-    commentsToLikes: 0.034709
-    id: ck55opn4a8uxc0i115m6ame0x
+    followers: 4996
+    engagement: 2192
+    commentsToLikes: 0.044366
+    id: ck9hc83kgk6p00j78gv562vt8
     verified: false
-    hashtags: "#legsday, #girlspower, #cosyhome, #dreamer"
+    hashtags: "#animals, #coronavirus, #freckles, #sunday"
+  - username: "its.baptiste"
+    fullname: >-
+      BAPTISTE GARON 🙏🏼
+    location: "France"
+    followers: 8753
+    engagement: 1029
+    commentsToLikes: 0.070262
+    id: ck5zmozibmyea0i14rta6zpm3
+    verified: false
+    hashtags: "#cluseclub, #collab, #gardening, #confinement"
+  - username: "lapetiteblesoise"
+    fullname: >-
+      La petite Blésoise
+    location: "France"
+    followers: 8659
+    engagement: 611
+    commentsToLikes: 0.529252
+    id: ckap4ynnr9ea70i78bzr83jio
+    verified: false
+    hashtags: "#interiordesign, #streetstyle, #confinement, #concoursdeco"
   - username: "thomasroguet"
     fullname: >-
       To
     location: "France"
-    followers: 5698
-    engagement: 1662
-    commentsToLikes: 0.022006
+    followers: 7001
+    engagement: 2542
+    commentsToLikes: 0.018324
     id: ck8tcwis10ycm0j78nnefo2sv
     verified: false
-    hashtags: "#gaybordeaux, #summeruniform, #weekend, #sautenparachute"
-  - username: "flowers_are_coming"
+    hashtags: "#soiree, #gaycute, #exchangeoficial, #passthebrush"
+  - username: "morgan.grigoris"
     fullname: >-
-      Yann Lelièvre
+      Krash Doll🤙
     location: "France"
-    followers: 9692
-    engagement: 2027
-    commentsToLikes: 0.089992
-    id: ck0w5w93r5qfj0i199k319l63
+    followers: 7483
+    engagement: 878
+    commentsToLikes: 0.050777
+    id: ck5zkfy0yjepy0i14n3q8uyo8
     verified: false
-    hashtags: "#nature, #beautiful, #photooftheday, #plants"
-  - username: "marine__jj"
+    hashtags: "#riding, #theshowmustgoon, #lemmykilmister, #sunnywinter"
+  - username: "ga.hia"
     fullname: >-
-      Marine - Travel & photo 🌍📸🌱
+      
     location: "France"
-    followers: 6497
-    engagement: 1568
-    commentsToLikes: 0.085349
-    id: ck6uduq7an8x50j71r3k8gca2
+    followers: 15384
+    engagement: 379
+    commentsToLikes: 0.194488
+    id: ck0vyoyme52ul0i195ma587n6
     verified: false
-    hashtags: "#atlasmountains, #hautatlas, #fes, #landscape"
-  - username: "maison.du.bonheur29"
+    hashtags: "#fitness, #bougie, #homestayhome, #fleursdeschamps"
+  - username: "traumer_music"
     fullname: >-
-      Maison_du_bonheur_29
+      Traumer
     location: "France"
-    followers: 30920
-    engagement: 664
-    commentsToLikes: 0.086893
-    id: ck6tkkm9i4w580j71z2uznbya
+    followers: 27838
+    engagement: 431
+    commentsToLikes: 0.031676
+    id: ck0vw17p3rnc40i19uo2ikwrh
     verified: false
-    hashtags: "#cuisineblanche, #decor, #remember, #kitchen"
-  - username: "chateau.leg0"
+    hashtags: "#release, #adakaleh, #spotify, #yesorno"
+  - username: "alexebriand"
     fullname: >-
-      Blog déco
+      A L E X A N D R A
     location: "France"
-    followers: 26829
-    engagement: 579
-    commentsToLikes: 0.111095
-    id: ck0vuzrg9mvxe0i1964pjsrg5
+    followers: 7394
+    engagement: 532
+    commentsToLikes: 0.038926
+    id: ck5zx0og8744m0i1455li9c65
     verified: false
-    hashtags: "#travauxmaison, #coronavirusfrance, #garderner, #douchealitalienne"
-  - username: "nikollah"
+    hashtags: "#explore, #23monthsold, #mother, #familytravel"
+  - username: "maptiotte"
     fullname: >-
-      Nikollah
+      ✨Sylvie✨
     location: "France"
-    followers: 9036
-    engagement: 681
-    commentsToLikes: 0.013028
-    id: ck5bwkhjylvk00i11gnb4em1e
+    followers: 10365
+    engagement: 1215
+    commentsToLikes: 0.172975
+    id: ck9wec1erjma60j78n41l3dpg
     verified: false
-    hashtags: "#friyay, #chest, #artistic, #maleart"
-  - username: "filledelautomne"
-    fullname: >-
-      W ☾ Majelys 🍂
-    location: "France"
-    followers: 5919
-    engagement: 1766
-    commentsToLikes: 0.060447
-    id: ck0vx6i5zxdta0i19upun5y59
-    verified: false
-    hashtags: "#unairdeprintemps, #pumkin, #lechardonetletartan, #autel"
-  - username: "hellarken"
-    fullname: >-
-      Hell Arken . Boudoir du Chaman
-    location: "France"
-    followers: 10216
-    engagement: 892
-    commentsToLikes: 0.072907
-    id: ck0w6s3v0a14s0i19dm7kfe33
-    verified: false
-    hashtags: "#classicalmusic, #essentialoils, #romanticstyle, #cosy"
+    hashtags: "#gardening, #spring, #detox, #champagne"
 ---

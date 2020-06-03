@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In 2020
 description: >-
-  Find top nutrition Instagram influencers in 2020. Most popular hashtags: #fitness #smile #bodybuilding #motivation.
+  Find top nutrition Instagram influencers in 2020. Most popular hashtags: #homeworkout #staystrong #selfcare #smoothiebowl.
 platform: Instagram
 profiles:
+  - username: "anni_aesthetic"
+    fullname: >-
+      Annika Wagner | Bikini Fitness
+    location: "Germany"
+    followers: 5639
+    engagement: 1573
+    commentsToLikes: 0.113954
+    id: ckaoywuqhjdke0i78pdzgrsyj
+    verified: false
+    hashtags: "#athlete, #summer, #vibing, #pflanzen"
+  - username: "lucynukesfit"
+    fullname: >-
+      Lucy Newcombe😈
+    location: "United Kingdom"
+    followers: 13088
+    engagement: 1550
+    commentsToLikes: 0.106753
+    id: ck8tdf6a734ey0j781wbv2fqi
+    verified: false
+    hashtags: "#homeworkout, #fitfam, #ohpolly, #gifted"
+  - username: "mariiisa_hofi"
+    fullname: >-
+      HEALTHY FOOD I LIFESTYLE
+    location: "Germany"
+    followers: 27554
+    engagement: 978
+    commentsToLikes: 0.067217
+    id: ck0txg2zcizdk0i19ulv1zs53
+    verified: false
+    hashtags: "#animalprint, #bikinishoot, #mundpflege, #abschiednehmen"
   - username: "fit.full.life"
     fullname: >-
       Julie
     location: "United States"
-    followers: 7327
-    engagement: 2415
-    commentsToLikes: 0.559087
+    followers: 7589
+    engagement: 2381
+    commentsToLikes: 0.520398
     id: ck6tukukugwtw0j718rwi641a
     verified: false
-    hashtags: "#homegym, #stayhealthy, #rangeofmotion, #acaibowl"
-  - username: "tabslifts"
+    hashtags: "#covi, #baree, #fitlife, #vacationmode"
+  - username: "yazdan_rahmatabadi"
     fullname: >-
-      🌻TABS LOFTS🌻
-    location: "United Kingdom"
-    followers: 10751
-    engagement: 1333
-    commentsToLikes: 0.090203
-    id: ck8takzw3s7990j78ziiid6f7
+      Yazdan
+    location: "Iran"
+    followers: 19248
+    engagement: 1692
+    commentsToLikes: 0.071868
+    id: ck9wp9d218cqs0j78zdx3h57f
     verified: false
-    hashtags: "#isolationadvice, #motivation, #fitnessmotivation, #crossfit"
-  - username: "dominika_wisniewska2"
-    fullname: >-
-      Dominika Wiśniewska
-    location: "Poland"
-    followers: 108705
-    engagement: 619
-    commentsToLikes: 0.055724
-    id: ck8t1rewdwqkv0j78cj59oftk
-    verified: false
-    hashtags: "#carpatree, #gymtime, #shoot, #video"
-  - username: "ruthmagave"
-    fullname: >-
-      Ruth Magallón🌺
-    location: "Mexico"
-    followers: 41023
-    engagement: 741
-    commentsToLikes: 0.052134
-    id: ck0w68djn7csj0i19zcst07p0
-    verified: false
-    hashtags: "#nosalgasdecasa, #justinbieber, #espa, #mexico"
+    hashtags: "#mrolmpia, #iranian, #gold, #goodfriday"
   - username: "farshad_nahas"
     fullname: >-
       Farshad Nahas
     location: "Iran"
-    followers: 18541
-    engagement: 1502
-    commentsToLikes: 0.071297
+    followers: 18885
+    engagement: 1539
+    commentsToLikes: 0.068574
     id: ck0vwme04uikq0i19sciqxabd
     verified: false
-    hashtags: "#scitecnutrition, #ironmaxx, #trecnutrition, #qimianutrition"
-  - username: "_tiffanyvictoria_"
+    hashtags: "#ironmaxx, #trecnutrition, #qimianutrition, #qimiasupplement"
+  - username: "hannah_hussein13"
     fullname: >-
-      𝒯𝒾𝒻𝒻𝒶𝓃𝓎
+      Hannah Hussein
     location: "United States"
-    followers: 16028
-    engagement: 1003
-    commentsToLikes: 0.054801
-    id: ck6013mugeruo0i14yimyms53
+    followers: 20690
+    engagement: 924
+    commentsToLikes: 0.064458
+    id: ckap1bjpptvj70i78055lxwck
     verified: false
-    hashtags: "#confidence, #friendship, #beatiful, #couplesgoals"
-  - username: "giannafae"
+    hashtags: "#fitnessphotos, #offseasongains, #flexingvideo, #throwback"
+  - username: "zsofiakelemen"
     fullname: >-
-      Gianna Vassilakos
-    location: "United States"
-    followers: 11892
-    engagement: 1125
-    commentsToLikes: 0.108088
-    id: ck5zp1w7frtwm0i149rjeefd1
+      Zsófia Kelemen
+    location: ""
+    followers: 45964
+    engagement: 711
+    commentsToLikes: 0.107647
+    id: ckap3w3t34qwh0i78g09ki6d0
     verified: false
-    hashtags: "#hairwellness, #mindset, #holidays, #wellnesswednesday"
-  - username: "mandyhmeehan"
+    hashtags: "#nutriversum, #nyereme, #nyeremenyjatek, #utols"
+  - username: "giuljana.wolf"
     fullname: >-
-      Mandy Meehan, FNTP
-    location: "United States"
-    followers: 23134
-    engagement: 705
-    commentsToLikes: 0.079248
-    id: ck0u9mi6qa4gt0i19dwlr0zux
+      GIULJANA 🌸
+    location: "Germany"
+    followers: 5777
+    engagement: 1442
+    commentsToLikes: 0.087915
+    id: ckaoycklggxwq0i78x5l695ni
     verified: false
-    hashtags: "#affiliate"
-  - username: "ashleymarietta"
+    hashtags: ""
+  - username: "model_over50"
     fullname: >-
-      M A R I E T T A  🧿
-    location: "United States"
-    followers: 15760
-    engagement: 948
-    commentsToLikes: 0.047219
-    id: ck8taku1ps6n70j785k0psopa
+      Donna Anna
+    location: "Australia"
+    followers: 32847
+    engagement: 762
+    commentsToLikes: 0.052948
+    id: ck8tctjty0mgv0j78fjqn2tyd
     verified: false
-    hashtags: "#curlytostraight, #ootd, #blackgirljoy, #handshake"
-  - username: "tiff._._"
-    fullname: >-
-      Tiffany Nance
-    location: "United States"
-    followers: 25702
-    engagement: 535
-    commentsToLikes: 0.079100
-    id: ck5hg8ijf1hki0i1197z0bk7v
-    verified: false
-    hashtags: "#onelife, #mebeingme, #success, #transformation"
+    hashtags: "#plantbasedcoach, #whenthisisover, #athome, #50pluswomenrock"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Colombia In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Colombia in 2020. Most popular hashtags: #makeup #makeuplover #beauty #colombia.
+  Find top cosmetics Instagram influencers in Colombia in 2020. Most popular hashtags: #cosmetics #cuarentena #makeupaddict #sorteo.
 platform: Instagram
 profiles:
   - username: "pauenboga"
     fullname: >-
-      M a r í a P a u l a 🌻
+      Pau en boga.
     location: "Colombia"
-    followers: 12008
-    engagement: 732
-    commentsToLikes: 0.070184
+    followers: 12643
+    engagement: 560
+    commentsToLikes: 0.159980
     id: ck6tuwarmisby0j71ulmausm1
     verified: false
-    hashtags: "#skincareproducts, #makeupclass, #girl, #ootdfashion"
-  - username: "_nekita_"
-    fullname: >-
-      𝕹𝖊𝖐𝖎𝖙𝖆 ƎA
-    location: "Colombia"
-    followers: 7954
-    engagement: 676
-    commentsToLikes: 0.106359
-    id: ck55m09pb2w3f0i11ywg17up9
-    verified: false
-    hashtags: "#100daysofmakeupchallenge, #valentinesday, #sakuracardcaptor, #instamakeup"
-  - username: "johannagodoymakeup"
-    fullname: >-
-      Johanna Godoy
-    location: "Colombia"
-    followers: 63668
-    engagement: 84
-    commentsToLikes: 0.210089
-    id: ck6uelmn7rns00j71kxo1dnsn
-    verified: false
-    hashtags: "#noviasdiferentes, #11, #mexico, #noviasmexico"
+    hashtags: "#outfitoftheday, #colombianas, #ibagu, #makeuplook"
   - username: "marianelamodel"
     fullname: >-
       Marianela💋Ramos
     location: "Colombia"
-    followers: 44684
-    engagement: 657
-    commentsToLikes: 0.021936
+    followers: 46488
+    engagement: 712
+    commentsToLikes: 0.048889
     id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
-    hashtags: "#argentina, #tendencia, #miss, #blondehair"
-  - username: "laujap"
+    hashtags: "#gymtime, #fitnesswomen, #nice, #topmodel"
+  - username: "johannagodoymakeup"
     fullname: >-
-      🔹L a u C a s t e l l a n o s🔹
+      Johanna Godoy
     location: "Colombia"
-    followers: 29321
-    engagement: 204
-    commentsToLikes: 0.085243
-    id: ck0vxhwwtyz4e0i19h847ocum
+    followers: 62928
+    engagement: 114
+    commentsToLikes: 0.121361
+    id: ck6uelmn7rns00j71kxo1dnsn
     verified: false
-    hashtags: "#picasfamily, #laujapys, #videostutoriales, #familia"
+    hashtags: "#godoychallenge, #johannagodoymakeup, #lipsgloss, #eyesnude"
+  - username: "ag0nzphoto"
+    fullname: >-
+      A L B E R T O  G O N Z Á L E Z
+    location: "Colombia"
+    followers: 25291
+    engagement: 111
+    commentsToLikes: 0.093234
+    id: ck5cg1y6fo0xi0i11vy49gikn
+    verified: false
+    hashtags: "#ttswtrs, #fendi, #cabello, #ellebulgaria"
+  - username: "estelamaca"
+    fullname: >-
+      Estela
+    location: "Colombia"
+    followers: 27447
+    engagement: 733
+    commentsToLikes: 0.065038
+    id: ck6tsa9ns3mn20j71tjzqg63y
+    verified: false
+    hashtags: "#estiloraw, #decorations, #cosmetics, #skincare"
   - username: "lauritafitness"
     fullname: >-
       Lau Tamayo 🎀
     location: "Colombia"
-    followers: 4014
-    engagement: 1023
-    commentsToLikes: 0.117094
+    followers: 4189
+    engagement: 1063
+    commentsToLikes: 0.115666
     id: ck8szo35bp3ov0j789prcl2ok
     verified: false
-    hashtags: "#portrait, #motivacionales, #model, #fashion"
-  - username: "thisismakeupholic_"
-    fullname: >-
-      Makeupholic
-    location: "Colombia"
-    followers: 18161
-    engagement: 159
-    commentsToLikes: 0.018386
-    id: ck5qbpqsjmsg70i116wraar1u
-    verified: false
-    hashtags: "#morphexjamescharles, #nikkietutorials, #unleashyourinnerartist, #makeupideas"
-  - username: "londono_smiles"
-    fullname: >-
-      PORCELAIN VENEERS Dr. LONDONO
-    location: "Colombia"
-    followers: 52691
-    engagement: 113
-    commentsToLikes: 0.016182
-    id: ck6ttx4j7d2lp0j71mxuyrarn
-    verified: false
-    hashtags: "#medicaltourism, #louisvuitton, #dallas, #esteticadental"
-  - username: "folliedolliebeaute"
-    fullname: >-
-      #FollieDollieTips 🌿
-    location: "Colombia"
-    followers: 53284
-    engagement: 895
-    commentsToLikes: 0.122599
-    id: ck15qy8xd58i10i199uk0b5pn
-    verified: false
-    hashtags: "#folliedollietips, #sundaywisdom, #nofilter, #panama"
+    hashtags: "#tbt, #classy, #fashion, #photography"
   - username: "kevincardona115"
     fullname: >-
       kevin cardona ♥️
     location: "Colombia"
-    followers: 16271
-    engagement: 1151
-    commentsToLikes: 0.234865
+    followers: 21837
+    engagement: 1366
+    commentsToLikes: 0.141747
     id: ck6uchr04fo8x0j71dfgwscxy
     verified: false
-    hashtags: "#naturalmakeup, #pandorasboxcosmetics, #sanvalentinesday, #sanvalentin"
+    hashtags: "#jamescharlespalette, #nikitutorials, #makeupartis, #cosmoywanda"
+  - username: "mortianamakeup"
+    fullname: >-
+      𝕿 𝖆 𝖙 𝖎 𝖆 𝖓 𝖆 🍒
+    location: "Colombia"
+    followers: 13515
+    engagement: 828
+    commentsToLikes: 0.087110
+    id: ck6uapbio4v3x0j71591o9clh
+    verified: false
+    hashtags: "#curlygirl, #smokeyglitter, #sorteo, #spotlightmakeup"
+  - username: "_nekita_"
+    fullname: >-
+      𝕹𝖊𝖐𝖎𝖙𝖆 ƎA
+    location: "Colombia"
+    followers: 8459
+    engagement: 866
+    commentsToLikes: 0.090610
+    id: ck55m09pb2w3f0i11ywg17up9
+    verified: false
+    hashtags: "#blue, #pinknails, #lions, #photography"
+  - username: "catart.bycatu"
+    fullname: >-
+      • C a t u   M o r a •
+    location: "Colombia"
+    followers: 6506
+    engagement: 796
+    commentsToLikes: 0.435711
+    id: ck5ztwkkp19290i144vctu9ak
+    verified: false
+    hashtags: "#graphiceyeliner, #disney, #cutelips, #haircare"
 ---

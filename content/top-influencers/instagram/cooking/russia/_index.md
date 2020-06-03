@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Russia In 2020
 description: >-
-  Find top cooking Instagram influencers in Russia in 2020. Most popular hashtags: #exklusive #stonehouse #glambox #drpierrericaud.
+  Find top cooking Instagram influencers in Russia in 2020. Most popular hashtags: #cookies #chocolate # #maileg.
 platform: Instagram
 profiles:
-  - username: "wostok1712"
-    fullname: >-
-      Elena Zueva. Sochi, Russia.🌊⚓⛵
-    location: "Russia"
-    followers: 4247
-    engagement: 540
-    commentsToLikes: 0.180370
-    id: ck6u404wp0wgj0j71km1e0yka
-    verified: false
-    hashtags: "#food, #12factsaboutme, #mylafe, #myfavorite"
-  - username: "voronkofa"
-    fullname: >-
-      Hakuna Matata 🐾
-    location: "Russia"
-    followers: 27762
-    engagement: 254
-    commentsToLikes: 0.023575
-    id: ck6udcijqkbeg0j71kdfou2m5
-    verified: false
-    hashtags: "#quarantinelife, #stayhome, #stayhomestaycreative, #pillowchallenge"
   - username: "best_manicure.ideas"
     fullname: >-
       Маникюр, дизайн ногтей, идеи
     location: "Russia"
-    followers: 263135
-    engagement: 84
-    commentsToLikes: 0.017146
+    followers: 265350
+    engagement: 77
+    commentsToLikes: 0.071018
     id: ck0txuqe5kilq0i19wl1szyis
     verified: false
-    hashtags: "#161, #repost"
-  - username: "oldfashionedbaker"
-    fullname: >-
-      
-    location: "Russia"
-    followers: 4665
-    engagement: 2034
-    commentsToLikes: 0.244077
-    id: ck13bqcdrwo680i19ru4lyt55
-    verified: false
-    hashtags: "#maleficenta, #piroshky, #challah, #potpie"
-  - username: "algrashkina"
-    fullname: >-
-      ДОМ•  УЮТ• РЕЦЕПТЫ
-    location: "Russia"
-    followers: 50429
-    engagement: 388
-    commentsToLikes: 0.065025
-    id: ck5ckdhnewnc10i11g3955798
-    verified: false
-    hashtags: "#stayhome, #algr"
+    hashtags: "#161"
   - username: "lissakiri"
     fullname: >-
       Elizaveta Kirichenko
     location: "Russia"
-    followers: 21789
-    engagement: 731
-    commentsToLikes: 0.056455
+    followers: 22662
+    engagement: 742
+    commentsToLikes: 0.067894
     id: ck6tylnll4gpx0j717onm16cq
     verified: false
-    hashtags: "#canonrussia, #foodstyle, #homecooking, #merrychristmas"
-  - username: "katy_at_the_manor"
+    hashtags: "#germany, #foodblogger, #liveforthestory, #theartofslowliving"
+  - username: "oldfashionedbaker"
     fullname: >-
-      Katy
+      
     location: "Russia"
-    followers: 15045
-    engagement: 604
-    commentsToLikes: 0.092803
-    id: ck5hhcba27hwv0i115qvnrkug
+    followers: 4702
+    engagement: 2008
+    commentsToLikes: 0.235477
+    id: ck13bqcdrwo680i19ru4lyt55
     verified: false
-    hashtags: "#kremlin, #countrylife, #countryhouse, #homebar"
+    hashtags: "#pogaca, #halloween, #santabread, #merrychristmas"
+  - username: "katsaprykina"
+    fullname: >-
+      Katya Saprykina
+    location: "Russia"
+    followers: 3810
+    engagement: 2001
+    commentsToLikes: 0.261360
+    id: ckap8g7l5o6740i781d0viepi
+    verified: false
+    hashtags: ""
+  - username: "algrashkina"
+    fullname: >-
+      ДОМ•  УЮТ• РЕЦЕПТЫ
+    location: "Russia"
+    followers: 47030
+    engagement: 407
+    commentsToLikes: 0.057601
+    id: ck5ckdhnewnc10i11g3955798
+    verified: false
+    hashtags: "#algr, #tefal, #fairypure"
+  - username: "ludmilabukina"
+    fullname: >-
+      Людмила Букина
+    location: "Russia"
+    followers: 66178
+    engagement: 261
+    commentsToLikes: 0.046814
+    id: ck0w6ensh87if0i19kpxjz3uh
+    verified: false
+    hashtags: "#agrimontana, #decor, #easter2020, #caramel"
   - username: "zaika_rublevka"
     fullname: >-
       🥇РЕСТОРАТОР | CHEF 👩🏼‍🍳
     location: "Russia"
-    followers: 33708
-    engagement: 338
-    commentsToLikes: 0.044144
+    followers: 51609
+    engagement: 250
+    commentsToLikes: 0.094528
     id: ck6u3z3jv0q450j719dyurpk1
     verified: false
     hashtags: ""
+  - username: "julcavalli"
+    fullname: >-
+      Julia Kudryavtseva
+    location: "Russia"
+    followers: 10017
+    engagement: 524
+    commentsToLikes: 0.079827
+    id: ck13bt36mx16o0i19m3icmi2n
+    verified: false
+    hashtags: "#maileg"
   - username: "legendary_colocolo"
     fullname: >-
       
     location: "Russia"
-    followers: 7051
-    engagement: 876
-    commentsToLikes: 0.047738
+    followers: 7074
+    engagement: 859
+    commentsToLikes: 0.046835
     id: ck5zsrr35z2ew0i140kc2lvgp
     verified: false
-    hashtags: "#findit, #colocolo, #stuckie, #gq"
-  - username: "yanychka07"
+    hashtags: "#russia, #legend, #rumram, #alldemdeh"
+  - username: "luigimagni_"
     fullname: >-
-      My personal beauty blog💄❤
+      Luigi Magni
     location: "Russia"
-    followers: 93013
-    engagement: 81
-    commentsToLikes: 0.060236
-    id: ck5c9sypuc29e0i11ofryiqvu
+    followers: 9594
+    engagement: 730
+    commentsToLikes: 0.049102
+    id: ckap9pb5ut3hy0i78uvs7aevd
     verified: false
-    hashtags: "#sokolovjewelry, #bakerhouseofficial, #normadermphytosolution, #larocheposayrussia"
+    hashtags: "#italianstyle, #foodporn, #photooftheday, #italianrecipes"
 ---

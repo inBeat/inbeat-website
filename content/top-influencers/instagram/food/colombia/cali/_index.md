@@ -1,39 +1,29 @@
 ---
 title: Top 10 Food Instagram Influencers In Cali In 2020
 description: >-
-  Find top food Instagram influencers in Cali in 2020. Most popular hashtags: #bogota #love #food #stayhome.
+  Find top food Instagram influencers in Cali in 2020. Most popular hashtags: #covid #food #sunday #cali.
 platform: Instagram
 profiles:
-  - username: "gatoderisa"
+  - username: "juanpatetrae"
     fullname: >-
-      Jonathan Gato
+      Juanpatetrae 🔪
     location: "Colombia"
-    followers: 41979
-    engagement: 470
-    commentsToLikes: 0.042335
-    id: ck0vy0lyt1neh0i19kgpjrjvx
+    followers: 6226
+    engagement: 988
+    commentsToLikes: 0.045434
+    id: ck9wd786vedof0j78c7w5bgia
     verified: false
-    hashtags: "#gato, #freddiemercury, #world, #colours"
-  - username: "calicolfit"
-    fullname: >-
-      LUZ MARINA GARCIA A 🐼🦄
-    location: "Colombia"
-    followers: 33801
-    engagement: 78
-    commentsToLikes: 0.084970
-    id: ck5zufszw2a0r0i14z8wpyi8c
-    verified: false
-    hashtags: "#gluteos, #chocolate, #banano, #lifestyle"
+    hashtags: "#room, #chilitaco, #mexitaco, #sunday"
   - username: "foodfromtheheart"
     fullname: >-
       Lauren Arboleda
     location: "Colombia"
-    followers: 82975
-    engagement: 127
-    commentsToLikes: 0.031613
+    followers: 101887
+    engagement: 155
+    commentsToLikes: 0.040215
     id: ck0typeagnnfk0i19tbu4o2t8
     verified: false
-    hashtags: "#fruits, #receta, #tostadafrancesa, #mclatinotv"
+    hashtags: "#beans, #remolacha, #hongos, #kidsnutrition"
   - username: "alett.frias"
     fullname: >-
       Alett
@@ -44,64 +34,74 @@ profiles:
     id: ck5c8qd8qa0ve0i11cfl20hpt
     verified: false
     hashtags: "#thankyoulord, #delacabezaalospies, #urshancollege, #tuamorpormi"
-  - username: "ianvalenciab"
+  - username: "calicolfit"
     fullname: >-
-      I A N   V A L E N C I A  B.
+      LUZ MARINA GARCIA A 🐼🦄
     location: "Colombia"
-    followers: 144928
-    engagement: 502
-    commentsToLikes: 0.130644
-    id: ck14ltn57wfbj0i19jo5lroxp
+    followers: 35443
+    engagement: 96
+    commentsToLikes: 0.054930
+    id: ck5zufszw2a0r0i14z8wpyi8c
     verified: false
-    hashtags: "#colombia, #like, #malbec, #actor"
-  - username: "manurayxor"
+    hashtags: "#facil, #glutes, #gluteo, #fresas"
+  - username: "mell_lazala_"
     fullname: >-
-      Manuela Ortiz
+      Mell Lazala
     location: "Colombia"
-    followers: 35671
-    engagement: 162
-    commentsToLikes: 0.017919
-    id: ck5zvrrwl4t210i14gyde7727
+    followers: 38996
+    engagement: 888
+    commentsToLikes: 0.137206
+    id: ck15sfxlrctg70i19pbo3nmq8
     verified: false
-    hashtags: "#ootd, #cats, #heart, #cuarentena"
-  - username: "danielabohor"
+    hashtags: "#tiktok, #colombia, #santamarta, #sanandres"
+  - username: "gatoderisa"
     fullname: >-
-      Daniela Bohórquez
+      Jonathan Gato
     location: "Colombia"
-    followers: 53069
-    engagement: 480
-    commentsToLikes: 0.029582
-    id: ck5q540fgra840i11cnw458ni
+    followers: 41686
+    engagement: 488
+    commentsToLikes: 0.044156
+    id: ck0vy0lyt1neh0i19kgpjrjvx
     verified: false
-    hashtags: "#outfitinspiration, #lookoftheday, #stayhome, #ootdanibohor"
-  - username: "mikevsfood_oficial"
+    hashtags: "#halloween, #queen, #marcha, #beach"
+  - username: "chico_videos"
     fullname: >-
-      MikeVsFood
+      chico videos⚡️
     location: "Colombia"
-    followers: 22650
-    engagement: 309
-    commentsToLikes: 0.163737
-    id: ck0w4u3pm0ffj0i19xnl72mes
+    followers: 6716
+    engagement: 678
+    commentsToLikes: 0.153182
+    id: ck5zknnuljt8r0i14em8bsfna
     verified: false
-    hashtags: "#nutella, #elmejorregaloesllegarbienacasa, #precaution, #love"
-  - username: "juandaimond"
+    hashtags: "#20likes, #food, #style, #friends"
+  - username: "kodachiphotos"
     fullname: >-
-      JUANDAIMOND
+      KODACHI 🕶️
     location: "Colombia"
-    followers: 47003
-    engagement: 516
-    commentsToLikes: 0.026475
-    id: ck6u91mx3uyoz0j71kuvli029
+    followers: 16457
+    engagement: 179
+    commentsToLikes: 0.048740
+    id: ck5zuf1y828nk0i143w6tpouj
     verified: false
-    hashtags: "#stayhome, #mequedoencasa, #stayhappy, #stayathome"
-  - username: "giulioiannelli"
+    hashtags: "#palms, #gorgeous, #espa, #covergirl"
+  - username: "guillodeviaje"
     fullname: >-
-      Giulio Iannelli
+      Guillo Enciso | Travel & Food
     location: "Colombia"
-    followers: 20463
-    engagement: 593
-    commentsToLikes: 0.026516
-    id: ck5qbbludkry10i11pevsb0ia
+    followers: 18638
+    engagement: 179
+    commentsToLikes: 0.113565
+    id: ck5hrs59jvdwb0i11i0ys8ta4
     verified: false
-    hashtags: "#40anni, #navidad, #restaurant, #sanvalentino"
+    hashtags: "#butterfly, #modocuarentena, #medioambiente, #graffiti"
+  - username: "juanseayala"
+    fullname: >-
+      Juan Sebastián Ayala
+    location: "Colombia"
+    followers: 57400
+    engagement: 88
+    commentsToLikes: 0.052126
+    id: ck6u3hplkxujx0j71bhhxaa90
+    verified: false
+    hashtags: "#quinua, #apio, #entrenaencasa, #macros"
 ---

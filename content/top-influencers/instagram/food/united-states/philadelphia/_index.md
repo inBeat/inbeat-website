@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Philadelphia In 2020
 description: >-
-  Find top food Instagram influencers in Philadelphia in 2020. Most popular hashtags: #philadelphia #foodstagram #philly #ootd.
+  Find top food Instagram influencers in Philadelphia in 2020. Most popular hashtags: #mealprep #stayhome #comfortfood #tacos.
 platform: Instagram
 profiles:
-  - username: "amand12j"
+  - username: "eatswithjb"
     fullname: >-
-      A M A N D A  J O H N S O N
+      Philadelphia Food Blogger
     location: "United States"
-    followers: 13756
-    engagement: 312
-    commentsToLikes: 0.023698
-    id: ck0u7qys35krq0i19sfz11hg8
+    followers: 3445
+    engagement: 1283
+    commentsToLikes: 0.283555
+    id: ckaor94k0m9060i78suz39gzn
     verified: false
-    hashtags: "#lulusbridalcontest, #holistic, #saltyair, #beautiful"
+    hashtags: "#eatswithjb, #quarentinebeard, #cheers, #monstrosityshakes"
+  - username: "josheatsphilly"
+    fullname: >-
+      Philadelphia Food & Lifestyle
+    location: "United States"
+    followers: 22043
+    engagement: 318
+    commentsToLikes: 0.101981
+    id: ck0tyekujmhfy0i196kndu1er
+    verified: false
+    hashtags: "#sushisunday, #bubblewaffle, #speculoos, #lovertm"
+  - username: "phlfoodstagram"
+    fullname: >-
+      Philadelphia Food & Lifestyle
+    location: "United States"
+    followers: 16671
+    engagement: 476
+    commentsToLikes: 0.265088
+    id: ck0w5u9pk5gyy0i19fczmow3h
+    verified: false
+    hashtags: "#panchospartner, #bestdipontheplanet, #phillynightin, #brunchinphilly"
   - username: "phillyinsider"
     fullname: >-
       Michael Klein
     location: "United States"
-    followers: 14391
-    engagement: 261
-    commentsToLikes: 0.034449
+    followers: 17422
+    engagement: 191
+    commentsToLikes: 0.027001
     id: ck8swn6hgelk70j788vy49p2o
     verified: false
-    hashtags: "#quarantine, #quarantinelife, #coronapocalypse, #bbq"
-  - username: "realdonshea"
+    hashtags: "#fishtown, #wings, #bakedgoods, #cake"
+  - username: "philadelphiapulse"
     fullname: >-
-      Donshea Hopkins 👸🏽
+      Philadelphia Pulse
     location: "United States"
-    followers: 141601
-    engagement: 121
-    commentsToLikes: 0.048992
-    id: ck5cd851pipgh0i1169pd4eee
-    verified: true
-    hashtags: "#foodvlog, #entertainment, #shopping, #target"
+    followers: 52391
+    engagement: 201
+    commentsToLikes: 0.012510
+    id: ckap7rr5yl9t50i78ljhoy4sd
+    verified: false
+    hashtags: "#phillypulse"
+  - username: "food_ilysm"
+    fullname: >-
+      Devon Rushton • Philly based
+    location: "United States"
+    followers: 241953
+    engagement: 137
+    commentsToLikes: 0.013816
+    id: ck9h9tfwa9wf10j78e8z219jt
+    verified: false
+    hashtags: ""
   - username: "mad_about_food"
     fullname: >-
       Madeline | Mad About Food
     location: "United States"
-    followers: 132574
-    engagement: 101
-    commentsToLikes: 0.026868
+    followers: 135040
+    engagement: 124
+    commentsToLikes: 0.060032
     id: ck13ax33islpb0i195b9q8ags
     verified: false
-    hashtags: "#paleorecipes, #foodbloggersstayinghome, #healthyish, #jonesdairyfarm"
-  - username: "abbysteinour"
+    hashtags: "#mothersday, #mealprepsunday, #giveaway, #avocado"
+  - username: "clint_lucas"
     fullname: >-
-      abby
+      Clint Lucas
     location: "United States"
-    followers: 5793
-    engagement: 859
-    commentsToLikes: 0.006529
-    id: ck0tywx7soew20i198ciz021f
+    followers: 54302
+    engagement: 470
+    commentsToLikes: 0.110626
+    id: ck0w55wwu21o40i19vqqljp9g
     verified: false
-    hashtags: "#asianblogger, #coffee, #bikini, #foodlover"
-  - username: "uptoclaudia"
-    fullname: >-
-      CLAUDIA CAMINERO
-    location: "United States"
-    followers: 70991
-    engagement: 245
-    commentsToLikes: 0.084861
-    id: ck0u81smg68rg0i19vefgcs1x
-    verified: false
-    hashtags: "#foodiesofinstagram, #eshakti, #modclothsquad, #magnolia"
-  - username: "erinliveswhole"
-    fullname: >-
-      Erin Lives Whole
-    location: "United States"
-    followers: 144278
-    engagement: 336
-    commentsToLikes: 0.053979
-    id: ck0tve9u4b2fy0i1934is6wpx
-    verified: false
-    hashtags: "#glutenfreefood, #glutenfreefoodie, #healthylifestyles, #paleodessert"
-  - username: "the_adam_joseph6"
-    fullname: >-
-      Adam Joseph
-    location: "United States"
-    followers: 57880
-    engagement: 511
-    commentsToLikes: 0.036783
-    id: ck0udep0ej0aa0i19rfgw74re
-    verified: true
-    hashtags: "#hair, #siblings, #batman, #spirit"
+    hashtags: "#mensfashionph, #armoredge, #bullstrap, #fashionnova"
   - username: "langernutrition"
     fullname: >-
       Abby Langer RD
     location: "United States"
-    followers: 26878
-    engagement: 199
-    commentsToLikes: 0.069329
+    followers: 27196
+    engagement: 196
+    commentsToLikes: 0.080548
     id: ck5hjrxjvh5bj0i11g9pjcrf4
     verified: false
-    hashtags: "#gatheringslikethese, #eathappy, #imsomartha, #highprotein"
-  - username: "janelleburrell"
+    hashtags: "#lemon, #foodpics, #foodforthought, #ketofriendly"
+  - username: "erinliveswhole"
     fullname: >-
-      Janelle Burrell
+      Erin Lives Whole
     location: "United States"
-    followers: 6206
-    engagement: 529
-    commentsToLikes: 0.087501
-    id: ck55kfik7z6sz0i11fm0oh3fy
-    verified: true
-    hashtags: "#blackhistorymonth, #staysafe, #tv, #workfromhome"
+    followers: 154658
+    engagement: 335
+    commentsToLikes: 0.054032
+    id: ck0tve9u4b2fy0i1934is6wpx
+    verified: false
+    hashtags: "#chickenpotpie, #comfortfoods, #teamself, #granolabars"
 ---

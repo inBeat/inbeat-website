@@ -1,107 +1,107 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Austin In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Austin in 2020. Most popular hashtags: #graphicdesign #graphicdesigner #digitalart #funny.
+  Find top graphic-designers Instagram influencers in Austin in 2020. Most popular hashtags: #graphicdesigner #sketch #graphicdesign #graphics.
 platform: Instagram
 profiles:
+  - username: "daphnasebbane"
+    fullname: >-
+      Daphna Sebbane
+    location: "United States"
+    followers: 26445
+    engagement: 398
+    commentsToLikes: 0.015769
+    id: ck14kgqf4pfuz0i19xoixa5p8
+    verified: false
+    hashtags: "#tattoolinework, #tattostyle, #cellestialart, #posterdesign"
   - username: "volac"
     fullname: >-
       Camilo
     location: "United States"
-    followers: 7406
-    engagement: 1448
-    commentsToLikes: 0.022468
+    followers: 8183
+    engagement: 1331
+    commentsToLikes: 0.019797
     id: ck134oqt0xgi70i19yqauwimx
     verified: false
-    hashtags: "#ultimateklasse, #boardgames, #tesla, #l320"
+    hashtags: "#garagewelt, #z3, #porsche, #6series"
   - username: "hawkedits_"
     fullname: >-
       JH
     location: "United States"
-    followers: 6532
-    engagement: 1417
-    commentsToLikes: 0.023014
+    followers: 6497
+    engagement: 1358
+    commentsToLikes: 0.024629
     id: ck14i3jeudgpd0i19x5n4pl7z
     verified: false
-    hashtags: "#bron, #bucks, #warriord, #photography"
+    hashtags: "#diakite, #braxtonkey, #nuggets, #brooklynnets"
   - username: "derekjelliott"
     fullname: >-
       Derek Elliott
     location: "United States"
-    followers: 10415
-    engagement: 845
-    commentsToLikes: 0.032758
+    followers: 11881
+    engagement: 843
+    commentsToLikes: 0.032037
     id: ck5q6ipjsxjey0i11f1n6yi08
     verified: false
-    hashtags: "#animation, #neocon2020, #tiktok, #funny"
+    hashtags: "#cooking, #pingpong, #environment, #road"
   - username: "undeadequipped"
     fullname: >-
       Wes Brooks
     location: "United States"
-    followers: 7954
-    engagement: 604
-    commentsToLikes: 0.053246
+    followers: 7992
+    engagement: 532
+    commentsToLikes: 0.074072
     id: ck5hol986prff0i11fgillqmm
     verified: false
-    hashtags: "#saturndevouringhisson, #lowbrowartist, #suspiciousmerchandise, #monday"
-  - username: "manchildmanor"
+    hashtags: "#colonycollapse, #catsofinstagram, #dislocatedjaw, #arthistory"
+  - username: "madmax_fluffyroad"
     fullname: >-
-      ManchildManor.com
+      🐶 Maxine the Fluffy Corgi
     location: "United States"
-    followers: 15603
-    engagement: 1410
-    commentsToLikes: 0.007356
-    id: ck0w33u3nrgxn0i19ndq61hbc
+    followers: 482776
+    engagement: 790
+    commentsToLikes: 0.006867
+    id: ck0w57uhd2bu50i19jalczay1
+    verified: true
+    hashtags: "#clueless, #cuteanimals, #drseuss, #scarface"
+  - username: "elfusernwv"
+    fullname: >-
+      EL-Fuser
+    location: "United States"
+    followers: 23435
+    engagement: 243
+    commentsToLikes: 0.026070
+    id: ck6uhze5ic58u0j71fzx45bas
     verified: false
-    hashtags: "#kitchen, #chemicalreaction, #noir, #cake"
+    hashtags: "#rocklanone, #fearless, #tekashi69, #austin"
   - username: "alakijastudios"
     fullname: >-
       Jide Alakija - ALAKIJA STUDIOS
     location: "United States"
-    followers: 62032
-    engagement: 98
-    commentsToLikes: 0.057403
+    followers: 61760
+    engagement: 83
+    commentsToLikes: 0.044915
     id: ck15pkmomycjp0i19gajoqi8f
     verified: false
-    hashtags: "#postthepeople, #engagement, #maternityphoto, #dica"
-  - username: "anyasiberia"
+    hashtags: "#traveltheworld, #photographylovers, #retrato, #teachersofinstagram"
+  - username: "_designbytes_"
     fullname: >-
-      ANYA SIBERIA
+      Helen T 🤖 DesignBytes
     location: "United States"
-    followers: 11980
-    engagement: 1488
-    commentsToLikes: 0.027440
-    id: ck5hjzcyhhin00i113idjhk3h
+    followers: 17846
+    engagement: 234
+    commentsToLikes: 0.135091
+    id: ck6u53v3x7fx90j71tbhrnue2
     verified: false
-    hashtags: "#anyatakeone, #siberiaaboutacting"
-  - username: "bayareadesigns"
+    hashtags: "#socialdistancing, #instagramstrategy, #floraldrawings, #illustrationhowl"
+  - username: "jason_martinelli"
     fullname: >-
-      Jeremy Jae Aguinaldo
+      jason_martinelli
     location: "United States"
-    followers: 14749
-    engagement: 907
-    commentsToLikes: 0.045531
-    id: ck14lqe3tvys80i19o3vklwl6
+    followers: 5755
+    engagement: 264
+    commentsToLikes: 0.034053
+    id: ck5zs3w12xrvi0i14t3or1k3m
     verified: false
-    hashtags: ""
-  - username: "enriqueproduction"
-    fullname: >-
-      Enrique Castellano
-    location: "United States"
-    followers: 30969
-    engagement: 2749
-    commentsToLikes: 0.016062
-    id: ck14l7pzpta5i0i196duytp3d
-    verified: false
-    hashtags: "#superbowl, #posterizes, #ripjuicewrld, #pick6artwork"
-  - username: "lifebyelliejune"
-    fullname: >-
-      Ellie June ✨
-    location: "United States"
-    followers: 17792
-    engagement: 1904
-    commentsToLikes: 0.014466
-    id: ck5c6raap61260i11yll0eh8d
-    verified: false
-    hashtags: ""
+    hashtags: "#cows, #blood, #orchid, #crane"
 ---

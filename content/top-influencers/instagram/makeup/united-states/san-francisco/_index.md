@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top makeup Instagram influencers in San Francisco in 2020. Most popular hashtags: #makeup #fashion #travel #sanfrancisco.
+  Find top makeup Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #makeup #birthday #selfcare.
 platform: Instagram
 profiles:
-  - username: "keolamaikalani23"
+  - username: "melu103"
     fullname: >-
-      Kendra Sakumoto
+      𝘔𝘦𝘭𝘪𝘯𝘢 ❥
     location: "United States"
-    followers: 3157
-    engagement: 1147
-    commentsToLikes: 0.064626
-    id: ck6011rcveour0i14nd024i9n
+    followers: 10003
+    engagement: 545
+    commentsToLikes: 0.166779
+    id: ck6ua4ehe1f2h0j719d0ie3wx
     verified: false
-    hashtags: "#mob, #halloweenmakeup, #jungle, #maximo"
-  - username: "staticboston"
+    hashtags: "#sport, #acne, #fitfam, #papasteves"
+  - username: "candicexx_"
     fullname: >-
-      STATIC
+      🦋 Miss Ocean USA 2018, PhD 🎓
     location: "United States"
-    followers: 6681
-    engagement: 468
-    commentsToLikes: 0.165399
-    id: ck5cd36jyighb0i1137e4hiib
+    followers: 25071
+    engagement: 316
+    commentsToLikes: 0.029774
+    id: ck6tt5bxc8oxk0j716vaknc6v
     verified: false
-    hashtags: "#outerspace, #rats, #seafood, #nasty"
+    hashtags: "#lifeisgood, #loveyourself, #funnymemes, #blackandwhite"
   - username: "sarahjeangirl"
     fullname: >-
       Sarahjeangirl
     location: "United States"
-    followers: 17087
-    engagement: 324
-    commentsToLikes: 0.247660
+    followers: 17664
+    engagement: 347
+    commentsToLikes: 0.245120
     id: ck13c6zd4yww10i19grm8jaba
     verified: false
-    hashtags: "#lipbalmaddict, #antiacne, #beautylish, #breakouts"
-  - username: "afra.lu"
+    hashtags: "#beautyjunkies, #makeupbrushes, #balayage, #dewymakeup"
+  - username: "alleyesonmax"
     fullname: >-
-      Afra Lu
+      Max Showalter
     location: "United States"
-    followers: 15296
-    engagement: 229
-    commentsToLikes: 0.056677
-    id: ck6to2k6qbqzy0j7188ip6jz6
+    followers: 6616
+    engagement: 889
+    commentsToLikes: 0.091201
+    id: ck14iq1zrgnr10i195eyvrknp
     verified: false
-    hashtags: "#cooltone, #hairstyle, #beautyshots, #profotob1x"
-  - username: "findmyrey"
+    hashtags: "#pridemonth, #morphe35b, #inspired, #trip"
+  - username: "jazlmao"
     fullname: >-
-      R⃣e⃣y⃣• Lifestyle • Travel
+      Jazzi 🌻 Manalo Sullivan
     location: "United States"
-    followers: 12403
-    engagement: 634
-    commentsToLikes: 0.059742
-    id: ck6tirvg61az90j71qlcp9kvx
+    followers: 16571
+    engagement: 484
+    commentsToLikes: 0.031934
+    id: ck6tq4pgipdja0j71ch1q3vus
     verified: false
-    hashtags: "#flightattendant, #drone, #djiglobal, #amazondeals"
-  - username: "berenabas"
+    hashtags: "#acneskincare, #cutcrease, #digitalillustration, #makeupvideo"
+  - username: "nishpan"
     fullname: >-
-      Berenabas Lukas 🇪🇹
+      Nisha Panjabi
     location: "United States"
-    followers: 5235
-    engagement: 505
-    commentsToLikes: 0.084748
-    id: ck8wgd2j8h4oh0j78mmmpmrgx
+    followers: 5427
+    engagement: 1745
+    commentsToLikes: 0.109471
+    id: ck8t491cm5x080j78qaep3fnb
     verified: false
-    hashtags: "#explore, #sanfrancisco, #fyp, #makeup"
-  - username: "misshamino"
+    hashtags: "#quarantinelife, #makeupvideox, #sneakerheads, #fashionaddict"
+  - username: "makeupby.karishma"
     fullname: >-
-      Miki Hamano 🇯🇵
+      Karishma | MUA | Hair Stylist
     location: "United States"
-    followers: 171254
-    engagement: 554
-    commentsToLikes: 0.014923
-    id: ck0tyozkxnli30i1941de18p7
+    followers: 3008
+    engagement: 1391
+    commentsToLikes: 0.130758
+    id: ck6tksisz5bmg0j71rdk2mfse
     verified: false
-    hashtags: "#miamibeach, #beachvibes, #2014, #eatlessmeat"
-  - username: "jyo_shankar"
+    hashtags: "#makeupbrushchallenge, #sanfrancisco, #yslbeautyrouge, #beautyblogger"
+  - username: "salcincotta"
     fullname: >-
-      Jyo | Travel & Style
+      Sal Cincotta
     location: "United States"
-    followers: 113558
-    engagement: 125
-    commentsToLikes: 0.050973
-    id: ck0typ95jnmrt0i19wgqsewjd
+    followers: 32535
+    engagement: 303
+    commentsToLikes: 0.025178
+    id: ck5c19dy4uphb0i1198ay687k
     verified: false
-    hashtags: "#hairtutorials, #springbeauty, #fy, #greece"
-  - username: "gabrielarec"
-    fullname: >-
-      Gabriela Recalde
-    location: "United States"
-    followers: 45734
-    engagement: 167
-    commentsToLikes: 0.030391
-    id: ck8wdel80dq5p0j78fxbk0pu2
-    verified: false
-    hashtags: "#corona, #quarantinelife, #posestips, #instagramphotos"
+    hashtags: "#hssenior, #teenstyle, #canon4life, #headshot"
   - username: "tinasbeautytips"
     fullname: >-
       Tina Le
     location: "United States"
-    followers: 84186
-    engagement: 308
-    commentsToLikes: 0.012457
+    followers: 84196
+    engagement: 273
+    commentsToLikes: 0.006931
     id: ck0udcymuis9j0i19ysnl52ii
     verified: false
-    hashtags: "#tb, #staystrong, #tinadishes, #h2oplushydration"
+    hashtags: "#misssaigon, #staystrong, #tinabeautytips, #refa"
+  - username: "zee.ohhh.mu"
+    fullname: >-
+      Xio ( Zee-ohhh )
+    location: "United States"
+    followers: 24056
+    engagement: 321
+    commentsToLikes: 0.053163
+    id: ck9ha7xbobivf0j782kmzrwkf
+    verified: false
+    hashtags: "#cowmakeup, #cowprintmakeup, #shootingstar"
 ---

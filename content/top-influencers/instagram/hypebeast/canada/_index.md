@@ -1,107 +1,107 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Canada In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Canada in 2020. Most popular hashtags: #hypebeast #fashion #ig #streetwear.
+  Find top hypebeast Instagram influencers in Canada in 2020. Most popular hashtags: #hypebeast #aesthetic #supreme #quarantine.
 platform: Instagram
 profiles:
   - username: "yvngrice"
     fullname: >-
       🍚 romulus 🍚
     location: "Canada"
-    followers: 10085
-    engagement: 2533
-    commentsToLikes: 0.048282
+    followers: 11872
+    engagement: 2270
+    commentsToLikes: 0.046188
     id: ck8wfx1ecge400j78177l4upr
     verified: false
-    hashtags: "#yyc, #hypebeast, #fortheflame, #reseller"
+    hashtags: "#supreme, #offwhite, #abathingape, #jordan1"
   - username: "ggclx"
     fullname: >-
       Gaby
     location: "Canada"
-    followers: 13073
-    engagement: 597
-    commentsToLikes: 0.071743
+    followers: 13459
+    engagement: 603
+    commentsToLikes: 0.065943
     id: ck0uesx3nm5a00i19do5i46n4
     verified: false
     hashtags: "#happyvalentinesday, #valentinesday2020, #stayhome, #staysafe"
-  - username: "rudygay"
+  - username: "lazysnorlax"
     fullname: >-
-      Rudy Gay
+      Adham
     location: "Canada"
-    followers: 773719
-    engagement: 171
-    commentsToLikes: 0.008534
-    id: ck134b2n5vkjf0i19a4miqysx
-    verified: true
-    hashtags: "#internationalwomensday, #stayhome, #mexicocity, #memphis"
-  - username: "sai.jung"
-    fullname: >-
-      
-    location: "Canada"
-    followers: 43029
-    engagement: 275
-    commentsToLikes: 0.131915
-    id: ck6tkum4c5fll0j710pm74jdn
+    followers: 5845
+    engagement: 985
+    commentsToLikes: 0.290988
+    id: ck5hofv6hphmf0i11k1ihx5dp
     verified: false
-    hashtags: "#wearetothe9s, #lamborghinihuracan, #porsche, #cargram"
+    hashtags: "#snkrsapp, #ronniefieg, #fitcheck, #pacsun"
   - username: "cor_kashif"
     fullname: >-
       Corey Kashif
     location: "Canada"
-    followers: 6544
-    engagement: 1652
-    commentsToLikes: 0.026617
+    followers: 6898
+    engagement: 1634
+    commentsToLikes: 0.026141
     id: ck55kp7bfzsuo0i11pkveqewo
     verified: false
-    hashtags: "#shredded, #richardscountry, #fitman, #liberty"
-  - username: "zacharyvague"
-    fullname: >-
-      zacharyvague
-    location: "Canada"
-    followers: 10380
-    engagement: 1004
-    commentsToLikes: 0.035847
-    id: ck5hpbpufr3fc0i11qkw1ql3b
-    verified: false
-    hashtags: "#debnever, #gameoftones, #kodak, #youngfriend"
-  - username: "vishakha_sodha"
-    fullname: >-
-      Vishakha Sodha Khakhar
-    location: "Canada"
-    followers: 45363
-    engagement: 298
-    commentsToLikes: 0.085296
-    id: ck5q4xd6uqlz90i11knuentpj
-    verified: false
-    hashtags: "#coffeeaddict, #sheisnotlost, #discoverportrait, #livefitfoods"
+    hashtags: "#miami, #served, #tueaday, #motivation"
   - username: "seniorkeke"
     fullname: >-
       Kelvin | YEG Photographer
     location: "Canada"
-    followers: 4127
-    engagement: 1632
-    commentsToLikes: 0.052346
+    followers: 5420
+    engagement: 1287
+    commentsToLikes: 0.050942
     id: ck0vxl6clzfy60i19fpeblg1k
     verified: false
-    hashtags: "#traveldestination, #beautifuldestinations, #vapenation, #f150"
-  - username: "carlymarie_._"
+    hashtags: "#portraitstream, #bridge, #milkyway, #glow"
+  - username: "amanda.szee"
     fullname: >-
-      Carly Murray
+      Amanda
     location: "Canada"
-    followers: 58279
-    engagement: 396
-    commentsToLikes: 0.031903
-    id: ck6u2h8y0rtes0j71y1usia9v
+    followers: 2680
+    engagement: 2304
+    commentsToLikes: 0.059093
+    id: ck8wga14wgzh80j7875flfrl8
     verified: false
-    hashtags: "#goodmorning, #change, #nomakeup, #foodie"
-  - username: "iamxdremonn"
+    hashtags: "#fashion, #supremenewyork, #aesthetic, #winners"
+  - username: "vishakha_sodha"
     fullname: >-
-      Dre S-H. Ashmeade
+      Vishakha Sodha Khakhar
     location: "Canada"
-    followers: 3195
-    engagement: 2753
-    commentsToLikes: 0.139496
-    id: ck5pxadoqqumi0i11jr54d513
+    followers: 46280
+    engagement: 290
+    commentsToLikes: 0.078275
+    id: ck5q4xd6uqlz90i11knuentpj
     verified: false
-    hashtags: "#highendhype, #zara, #outfitplace, #backyardfit"
+    hashtags: "#beautyobsessed, #bedroom, #indialove, #moodyports"
+  - username: "jessimabz_"
+    fullname: >-
+      Jessmabayo
+    location: "Canada"
+    followers: 3969
+    engagement: 1476
+    commentsToLikes: 0.138653
+    id: ck9hctwdvmyf50j78dln3kwll
+    verified: false
+    hashtags: "#anime, #trending, #manga, #pictureoftheday"
+  - username: "zacharyvague"
+    fullname: >-
+      zacharyvague
+    location: "Canada"
+    followers: 10171
+    engagement: 910
+    commentsToLikes: 0.048850
+    id: ck5hpbpufr3fc0i11qkw1ql3b
+    verified: false
+    hashtags: "#gameoftones, #kodakfilm, #visualambassadors, #dreamermagazine"
+  - username: "wizardof32oz"
+    fullname: >-
+      Wiz
+    location: "Canada"
+    followers: 5654
+    engagement: 542
+    commentsToLikes: 0.054049
+    id: ck15t8gecgudp0i19kxc66k4k
+    verified: false
+    hashtags: "#goodyearwelt, #combs, #locojacket, #akubra"
 ---

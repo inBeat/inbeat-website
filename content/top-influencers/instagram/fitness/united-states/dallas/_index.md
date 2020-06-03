@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Dallas In 2020
 description: >-
-  Find top fitness Instagram influencers in Dallas in 2020. Most popular hashtags: #dallas #liketkit #fitness #thelukeforce.
+  Find top fitness Instagram influencers in Dallas in 2020. Most popular hashtags: #fitness #dallas #quarantine #workout.
 platform: Instagram
 profiles:
-  - username: "fashionablylateboymom"
+  - username: "corlife.style"
     fullname: >-
-      Letty Long | DFW Influencer
+      Corrinne
     location: "United States"
-    followers: 17541
-    engagement: 149
-    commentsToLikes: 0.538369
-    id: ck5qaykpxixhm0i11xg3o2xkk
+    followers: 20681
+    engagement: 49
+    commentsToLikes: 0.061240
+    id: ck0tviwiibk0x0i19idqb4zjp
     verified: false
-    hashtags: "#stayathome, #stayin, #jeans, #dailywear"
-  - username: "thelukeforce"
+    hashtags: "#shopbop, #amazonfashion, #paigejeans, #comehomesoon"
+  - username: "alandiseharris"
     fullname: >-
-      Luke Gervais
+      Alandise Harris
     location: "United States"
-    followers: 30386
-    engagement: 157
-    commentsToLikes: 0.075042
-    id: ck6u32t6kvddn0j710b8u1jbz
-    verified: false
-    hashtags: "#letsgrow, #commercial, #life, #alwaysbringtheenergy"
-  - username: "darrenwoodson28"
-    fullname: >-
-      Darren Woodson
-    location: "United States"
-    followers: 32502
-    engagement: 191
-    commentsToLikes: 0.045292
-    id: ck5byyu98q4bo0i11s0n503qj
+    followers: 66880
+    engagement: 195
+    commentsToLikes: 0.082624
+    id: ck8tcw15n0wjd0j782rd9b9m5
     verified: true
-    hashtags: "#40under40, #interiordesigner, #podcastsofinstagram, #jerryjones"
+    hashtags: "#recruitment, #quickworkout, #insta, #hoopmixtape"
+  - username: "nemakatt"
+    fullname: >-
+      Nema “The Trifecta” Katt
+    location: "United States"
+    followers: 24312
+    engagement: 239
+    commentsToLikes: 0.167271
+    id: ck6ub3x4t7bes0j717pnirn7t
+    verified: false
+    hashtags: "#cardib, #selflove, #longdreads, #alldat"
+  - username: "go__ryy"
+    fullname: >-
+      Fitness
+    location: "United States"
+    followers: 29189
+    engagement: 271
+    commentsToLikes: 0.037487
+    id: ckap8821ln8i80i78nje64c3f
+    verified: false
+    hashtags: "#dallasinfluencer, #sisters, #slim, #thick"
   - username: "aleahstander"
     fullname: >-
       Aleah Stander | Fitness Expert
     location: "United States"
-    followers: 17464
-    engagement: 316
-    commentsToLikes: 0.089319
+    followers: 17303
+    engagement: 336
+    commentsToLikes: 0.079805
     id: ck8t1vdgkx6np0j7827hnknnp
     verified: false
-    hashtags: "#liketkit, #ltkfit, #ad, #ltkunder50"
+    hashtags: "#stayhomewithltk, #workoutideas, #fitspo, #betterwithglg"
   - username: "itsjessicaacy"
     fullname: >-
       Jessica Acy
     location: "United States"
-    followers: 8807
-    engagement: 1211
-    commentsToLikes: 0.048273
+    followers: 8956
+    engagement: 1362
+    commentsToLikes: 0.050722
     id: ck0uavdfyd4pm0i198imw6xgh
     verified: false
-    hashtags: "#therona, #travel, #ad, #volitionbeauty"
+    hashtags: "#ponds, #pregnantlife, #pregnantandperfect, #stayhome"
   - username: "justbrandi_"
     fullname: >-
       Brandi🌿JustBrandi
     location: "United States"
-    followers: 100334
-    engagement: 174
-    commentsToLikes: 0.046195
+    followers: 100431
+    engagement: 225
+    commentsToLikes: 0.057369
     id: ck6u7ol9ymr5t0j71r28wnvt7
     verified: false
-    hashtags: "#psyourteachercussesalittle, #aussiesofinstagram, #aussiesdoingthings, #miniatureaustralianshepherd"
-  - username: "vkbelikovaa"
+    hashtags: "#obvs, #allthesweat, #maximizingnaptime, #socialdistancing"
+  - username: "kfoshotya"
     fullname: >-
-      Vkbelikova_
+      KFos Photography
     location: "United States"
-    followers: 214870
-    engagement: 147
-    commentsToLikes: 0.050260
-    id: ck6udek0zkn3i0j715lt4nmdp
+    followers: 21565
+    engagement: 605
+    commentsToLikes: 0.031140
+    id: ck5zpp05et2ej0i140tf2ousw
     verified: false
-    hashtags: ""
-  - username: "antoine_howard"
+    hashtags: "#atlmodels, #bald, #milk, #ebonyfeetfetish"
+  - username: "tmpstacademy"
     fullname: >-
-      Antoine Howard
+      Tempest Freerunning Academy
     location: "United States"
-    followers: 5983
-    engagement: 511
-    commentsToLikes: 0.068479
-    id: ck6tzcjuy8wp70j71vc0z7kvv
+    followers: 9080
+    engagement: 471
+    commentsToLikes: 0.010133
+    id: ck0tv2a4m9mmt0i194esg9trv
     verified: false
-    hashtags: "#justavessel, #lift, #liketkit, #ltkmens"
-  - username: "thedessisykes"
+    hashtags: "#tfahighlights, #southlake, #springfloor, #academy"
+  - username: "dallas.lynn.fitness"
     fullname: >-
-      Dessi Sykes 🌹 🧿
+      DALLAS CUMMINGS
     location: "United States"
-    followers: 10306
-    engagement: 1223
-    commentsToLikes: 0.044953
-    id: ck5cihxupsoa50i11z1utc1yv
+    followers: 7507
+    engagement: 542
+    commentsToLikes: 0.153588
+    id: ckap621nne4ox0i782ao272t6
     verified: false
-    hashtags: "#headshots, #melaninpoppin, #fitnessmotivation, #yesiknowmynailisbroken"
-  - username: "thefitdapperneur"
-    fullname: >-
-      KFudge
-    location: "United States"
-    followers: 22020
-    engagement: 602
-    commentsToLikes: 0.029950
-    id: ck14iqj2fgq4c0i193gyv9kq0
-    verified: false
-    hashtags: "#sharkclubusaplanotx, #blackmenwithstyle, #theinfluencer, #seemonterey"
+    hashtags: "#trustme, #isweatalot, #fancyredneck, #likealot"
 ---

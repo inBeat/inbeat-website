@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Singapore In 2020
 description: >-
-  Find top Instagram influencers in Singapore in 2020. Most popular hashtags: #singapore #sgmoms #sgmotherhood #sgig.
+  Find top Instagram influencers in Singapore in 2020. Most popular hashtags: #singapore # #igsg #lifeasmama.
 platform: Instagram
 profiles:
-  - username: "_tinc"
-    fullname: >-
-      T I N C 。婷🇸🇬
-    location: "Singapore"
-    followers: 20173
-    engagement: 839
-    commentsToLikes: 0.082146
-    id: ck8sx62wega9v0j784y1sfsg1
-    verified: false
-    hashtags: "#firsttimemom, #stayhomeclub, #sgig, #greenlenses"
   - username: "kshepp21"
     fullname: >-
       Karl Sheppard
     location: "Singapore"
-    followers: 19530
-    engagement: 2015
-    commentsToLikes: 0.070838
+    followers: 18808
+    engagement: 2095
+    commentsToLikes: 0.070897
     id: ck5c1ggbnv56m0i11cdpziap5
     verified: false
-    hashtags: "#verycheesy, #welcometojurassicpark, #singapore"
+    hashtags: "#singapore, #verycheesy, #welcometojurassicpark"
+  - username: "lydiajasminee"
+    fullname: >-
+      
+    location: "Singapore"
+    followers: 120403
+    engagement: 668
+    commentsToLikes: 0.049891
+    id: ck5zqwdb9vf9i0i14x6vrnqoj
+    verified: false
+    hashtags: ""
+  - username: "avivaxsk"
+    fullname: >-
+      aviva
+    location: "Singapore"
+    followers: 2465
+    engagement: 2559
+    commentsToLikes: 0.111084
+    id: ckap6uaf1hdrx0i78s59igoft
+    verified: false
+    hashtags: ""
+  - username: "_tinc"
+    fullname: >-
+      T I N C 。婷🇸🇬
+    location: "Singapore"
+    followers: 19019
+    engagement: 789
+    commentsToLikes: 0.073654
+    id: ck8sx62wega9v0j784y1sfsg1
+    verified: false
+    hashtags: "#stayhomeclub, #covid, #staycalm, #contacts"
+  - username: "artsbysean"
+    fullname: >-
+      sean gabriel
+    location: "Singapore"
+    followers: 28751
+    engagement: 2001
+    commentsToLikes: 0.047149
+    id: ck9hbv9k2ilt70j78cy26o0mi
+    verified: false
+    hashtags: "#notearslefttocry"
   - username: "zhenxml"
     fullname: >-
       ZX
     location: "Singapore"
-    followers: 689514
-    engagement: 750
-    commentsToLikes: 0.020001
+    followers: 687136
+    engagement: 728
+    commentsToLikes: 0.022360
     id: ck5cb13r0eipr0i11rq3daoes
     verified: true
     hashtags: "#weownthegame, #rogphone2, #asusrogid, #thechosengearforgamers"
-  - username: "kylamchang"
+  - username: "ohohlawrence"
     fullname: >-
-      Kyla Chang
+      Lawrence Wong 王冠逸
     location: "Singapore"
-    followers: 6207
-    engagement: 1862
-    commentsToLikes: 0.048130
-    id: ck6tu1l4cds6a0j71crwpjfu1
+    followers: 346240
+    engagement: 655
+    commentsToLikes: 0.023859
+    id: ck13d5ze63u8c0i19qkm6553k
+    verified: true
+    hashtags: "#disneylandshanghai, #truestory"
+  - username: "chhloekim"
+    fullname: >-
+      CK
+    location: "Singapore"
+    followers: 4489
+    engagement: 2898
+    commentsToLikes: 0.086580
+    id: ck9hcx72snc2e0j78juoymxjo
     verified: false
     hashtags: ""
-  - username: "d_willionaireee"
+  - username: "coolmommy_konnect"
     fullname: >-
-      ∂σησvαηη ωιℓℓιαмs
+      Namita Sinha
     location: "Singapore"
-    followers: 12982
-    engagement: 2203
-    commentsToLikes: 0.028653
-    id: ck6ud7v4kjk5w0j71exi1hpha
+    followers: 6793
+    engagement: 1042
+    commentsToLikes: 0.109385
+    id: ck8syei3fkle90j78fr5e1273
     verified: false
-    hashtags: "#top3, #50ball, #gregworld, #h4h"
-  - username: "rekt_gustian"
+    hashtags: "#cleaningsilver, #mommybloggers, #superspicemix, #kp9850"
+  - username: "lihuijapanlove"
     fullname: >-
-      R E K T
+      Lihui利慧| Singapore新加坡🇸🇬
     location: "Singapore"
-    followers: 153577
-    engagement: 1675
-    commentsToLikes: 0.017227
-    id: ck5hlu9bnkvib0i118elgtmk0
+    followers: 31672
+    engagement: 462
+    commentsToLikes: 0.083305
+    id: ckaotr1v0x4230i78w5diw0tm
     verified: false
-    hashtags: ""
-  - username: "adventuresofwander"
-    fullname: >-
-      Jennifer ✈️🌍 Color chaser
-    location: "Singapore"
-    followers: 7125
-    engagement: 800
-    commentsToLikes: 0.160989
-    id: ck15tigs7i8q10i198yrszwfk
-    verified: false
-    hashtags: "#southkoreatravel, #traveljunkie, #speechlessplaces, #womenwhoexplore"
-  - username: "admjeo"
-    fullname: >-
-      AdamJ
-    location: "Singapore"
-    followers: 5522
-    engagement: 2321
-    commentsToLikes: 0.034261
-    id: ck8wg4g84gpxa0j78jgi1egp2
-    verified: false
-    hashtags: "#hair, #snickersfixtheworld, #korean, #menstrualcycle"
-  - username: "iamshahrulnizam"
-    fullname: >-
-      Shahrul Nizam.
-    location: "Singapore"
-    followers: 11456
-    engagement: 1486
-    commentsToLikes: 0.026442
-    id: ck0u138ravnkf0i19kf48ppxy
-    verified: false
-    hashtags: "#modernvision, #barganuzz, #turtle, #nogravityworkout"
-  - username: "_mrschia_"
-    fullname: >-
-      Cynthia Tee
-    location: "Singapore"
-    followers: 7050
-    engagement: 754
-    commentsToLikes: 0.930020
-    id: ck5zlpshzl5qy0i14ewhorinm
-    verified: false
-    hashtags: "#breastfeedingmom, #momstyle, #marriedcouple, #bepresent"
+    hashtags: "#getskinhappy, #aveenobody, #cityhotpot, #choosehealthy"
 ---

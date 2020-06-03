@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Poland In 2020
 description: >-
-  Find top makeup Instagram influencers in Poland in 2020. Most popular hashtags: #makeup #makeuplover #makija #makeupartist.
+  Find top makeup Instagram influencers in Poland in 2020. Most popular hashtags: #rozdanie #konkurs #giveaway #makeupgiveaway.
 platform: Instagram
 profiles:
   - username: "jewska.makeup"
     fullname: >-
-      Jewska | Makeup
+      Jewska Makeup
     location: "Poland"
-    followers: 2592
-    engagement: 2907
-    commentsToLikes: 0.111271
+    followers: 4096
+    engagement: 3129
+    commentsToLikes: 0.183269
     id: ck5qdwruaxnx10i113sbecb9m
     verified: false
-    hashtags: "#selfietime, #polishgirl, #carnival, #colourpopgoodsport"
+    hashtags: "#flatlaypoland, #wibo, #zmalowyzwanie, #makeuppoland"
   - username: "wielzi"
     fullname: >-
-      Oktawia | MUA (7k)
+      Oktawia (7,4k) • MUA • beauty
     location: "Poland"
-    followers: 7045
-    engagement: 1777
-    commentsToLikes: 0.203145
+    followers: 7450
+    engagement: 1824
+    commentsToLikes: 0.164795
     id: ck5hhe13t7qpr0i11v5n8o27k
     verified: false
-    hashtags: "#flawlesssdolls, #makeupfanatic, #makeuptrend, #rozdanie"
+    hashtags: "#makeupaddict, #norvinapalette, #makeup, #eyelineronpoint"
   - username: "aanaabeyy"
     fullname: >-
       Iza Michalik
     location: "Poland"
-    followers: 41620
-    engagement: 1504
-    commentsToLikes: 0.129303
+    followers: 42217
+    engagement: 1534
+    commentsToLikes: 0.135769
     id: ck15pra41z9g50i197tnpuuwr
     verified: false
-    hashtags: "#xlprocarnivalpalette, #anastasiabrows, #miya, #hudabeautylips"
+    hashtags: "#heancosmetics, #nakdxpolska, #eyestokill, #skincareroutine"
   - username: "makeup_by_miish"
     fullname: >-
       Dominika Mierzwa
     location: "Poland"
-    followers: 6063
-    engagement: 1638
-    commentsToLikes: 0.141402
+    followers: 8964
+    engagement: 1451
+    commentsToLikes: 0.178465
     id: ck14ji76mkh520i199ms0ec8h
     verified: false
-    hashtags: "#makeuplover, #wearebrows, #makeupclips, #makegirlz"
-  - username: "brxxe"
+    hashtags: "#abhprsearch, #allmodernmakeup, #meltcosmetics, #carnivalpalette"
+  - username: "slaybyestell"
     fullname: >-
-      Martyna 💫
+      Pati (16.2k)
     location: "Poland"
-    followers: 29088
-    engagement: 709
-    commentsToLikes: 0.074969
-    id: ck0txx8plkuet0i1935ckoi4y
+    followers: 17255
+    engagement: 1433
+    commentsToLikes: 0.099077
+    id: ck5bxe2lpnjon0i1192ub978d
     verified: false
-    hashtags: "#makeuplook, #abh, #anastasiasoare, #canrnival"
-  - username: "_kolorowykwiat_"
+    hashtags: "#pixibeauty, #lancome, #guerlain, #instabeauty"
+  - username: "sylwiasadochmua"
     fullname: >-
-      Małgorzata Kwiatkowska(Opara)
+      MAKEUP • BEAUTY • TUTORIALS
     location: "Poland"
-    followers: 5652
-    engagement: 1400
-    commentsToLikes: 0.085690
-    id: ck8t8f0p1k7p90j78p36x4mbv
+    followers: 17127
+    engagement: 1218
+    commentsToLikes: 0.363944
+    id: ck5cbzvtlggir0i11800nbea7
     verified: false
-    hashtags: "#bedziedobrze, #piatekpiateczekpiatunio, #wardrobe, #tastebuds"
-  - username: "marika_photomodel"
+    hashtags: "#flexitarian, #poshfluencer, #nyxspellbook, #abhnorvina"
+  - username: "ala.galysa"
     fullname: >-
-      Marika Pela✨
+      Alina | Makeup | Nails
     location: "Poland"
-    followers: 14447
-    engagement: 1129
-    commentsToLikes: 0.166986
-    id: ck8t22obzxzu90j78arp03gad
+    followers: 22188
+    engagement: 1150
+    commentsToLikes: 0.135637
+    id: ckaottcpoxfif0i78i4idcanq
     verified: false
-    hashtags: "#selfietime, #poland, #hellospring, #curlygirl"
-  - username: "adriana.kamper"
+    hashtags: "#slush2palette, #hihybrid, #lipstickjafra, #monakattan"
+  - username: "siostry_adihd"
     fullname: >-
-      makeup | beauty | lipswatches
+      Ilona i Milena Krawczyńskie👯🎥
     location: "Poland"
-    followers: 7286
-    engagement: 1224
-    commentsToLikes: 0.080031
-    id: ck136f3bs66jz0i19no85g9o9
+    followers: 181571
+    engagement: 1062
+    commentsToLikes: 0.099491
+    id: ck0u0xampv6360i19rgjvx070
     verified: false
-    hashtags: "#bookstagrampl, #lipartoftheday, #highlighter, #greenmakeup"
-  - username: "walendziakkova_"
+    hashtags: "#joannako, #czujelato, #noworodek, #pepkowe"
+  - username: "justyna_socha"
     fullname: >-
-      MAKE-UP ARTIST
+      🎀 Justyna Make-up 🎀
     location: "Poland"
-    followers: 9185
-    engagement: 1176
-    commentsToLikes: 0.198554
-    id: ck136f3b166jb0i19jymf8gw0
+    followers: 2529
+    engagement: 2488
+    commentsToLikes: 0.158960
+    id: ckapamvk6wqv70i7866u2u5t9
     verified: false
-    hashtags: "#flawlesssdolls, #glossylips, #kosmetyki, #blogerkakosmetyczna"
-  - username: "kajaleksandra"
+    hashtags: "#morphebabe, #weddingmakeup, #qualitymakeup, #eyelook"
+  - username: "lakierowerewolucje"
     fullname: >-
-      Aleksandra Kaj Make Up Artist
+      Lakierowe rewolucje
     location: "Poland"
-    followers: 26692
-    engagement: 614
-    commentsToLikes: 0.063973
-    id: ck14ji9gakhit0i192wu1yqdg
+    followers: 2652
+    engagement: 2466
+    commentsToLikes: 0.357709
+    id: ckaorukr1otka0i7875hhbgb4
     verified: false
-    hashtags: "#makeupglow, #pary, #parisdisneyland, #bytom"
+    hashtags: "#nailfie, #yellownails, #darkrednails, #ignails"
 ---

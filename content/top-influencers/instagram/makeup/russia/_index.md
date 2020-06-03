@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Russia In 2020
 description: >-
-  Find top makeup Instagram influencers in Russia in 2020. Most popular hashtags: #makeup #colourpopme #mood #photography.
+  Find top makeup Instagram influencers in Russia in 2020. Most popular hashtags: #limecrimerussia # #pillowchallenge #egirlmakeup.
 platform: Instagram
 profiles:
-  - username: "_.sibekki._"
-    fullname: >-
-      Профессиональный Визажист666
-    location: "Russia"
-    followers: 19563
-    engagement: 439
-    commentsToLikes: 0.041534
-    id: ck0w1bdmpihtm0i19phg3a7l6
-    verified: false
-    hashtags: "#makeup"
   - username: "kaufmanmk"
     fullname: >-
       Mark Kaufman
     location: "Russia"
-    followers: 84950
-    engagement: 999
-    commentsToLikes: 0.169686
+    followers: 85300
+    engagement: 952
+    commentsToLikes: 0.190882
     id: ck6uif8gseqnb0j717uwbwoqx
     verified: false
     hashtags: ""
-  - username: "lunar.felicityy"
+  - username: "natalinamua"
     fullname: >-
-      Визажист Санкт-Петербург
+      Наталина Всея Руси
     location: "Russia"
-    followers: 17527
-    engagement: 1630
-    commentsToLikes: 0.056269
-    id: ck5hfy4gzzxpm0i11u5a9r38h
+    followers: 379929
+    engagement: 564
+    commentsToLikes: 0.080001
+    id: ck0w4b05zxoji0i195nvnw6yl
     verified: false
-    hashtags: "#tumblergirl, #creativemakeup, #cosplaylover, #kawaiifashion"
-  - username: "alexandra_meltsaeva"
+    hashtags: "#anastasiabeverlyhills, #limecrimerussia, #maccosmeticsrussia, #revolutionscincare"
+  - username: "platinovaya_victoria"
     fullname: >-
-      Александра Мельцаева
+      Victoria | Fashion & Travel
     location: "Russia"
-    followers: 9317
-    engagement: 852
-    commentsToLikes: 0.264262
-    id: ck15s9n1tbwds0i19d4nfpua1
+    followers: 8883
+    engagement: 1960
+    commentsToLikes: 0.054259
+    id: ckap83tl7mpin0i78hngt0gon
     verified: false
-    hashtags: "#friend, #beautyblog, #cosplay, #concept"
-  - username: "_semenova_elina_"
-    fullname: >-
-      Макияж |Прически |Обучение
-    location: "Russia"
-    followers: 6156
-    engagement: 836
-    commentsToLikes: 0.084027
-    id: ck6tr2pjuwlax0j715wh83cuo
-    verified: false
-    hashtags: "#40"
-  - username: "tomtomvelikaya"
-    fullname: >-
-      tomtomvelikaya
-    location: "Russia"
-    followers: 12932
-    engagement: 775
-    commentsToLikes: 0.319826
-    id: ck5zmegcymf2u0i14mnt7uqft
-    verified: false
-    hashtags: "#flipchallenge, #covid"
-  - username: "olga__serbina"
-    fullname: >-
-      Lashmaker ॐ Makeup Artist
-    location: "Russia"
-    followers: 13407
-    engagement: 1541
-    commentsToLikes: 0.028893
-    id: ck5q22v8te0660i11q67jmt05
-    verified: false
-    hashtags: "#modeltravel, #deauty, #dubaimodelagency, #model"
+    hashtags: "#10"
   - username: "yana_panfilovskaya"
     fullname: >-
       YANA PANFILOVSKAYA
     location: "Russia"
-    followers: 337059
-    engagement: 307
-    commentsToLikes: 0.298783
+    followers: 353118
+    engagement: 445
+    commentsToLikes: 0.364239
     id: ck5hg1lg60g8x0i11tqsneblq
     verified: false
-    hashtags: "#cateyes"
+    hashtags: "#dontrushchallenge, #makeuptravel, #namkrasivo, #namkrasivotravel"
+  - username: "_semenova_elina_"
+    fullname: >-
+      Макияж |Прически |Обучение
+    location: "Russia"
+    followers: 6003
+    engagement: 963
+    commentsToLikes: 0.086307
+    id: ck6tr2pjuwlax0j715wh83cuo
+    verified: false
+    hashtags: "#40, #pillowchallenge, #3week"
+  - username: "sasha_nikolina"
+    fullname: >-
+      MAKEUP ARTIST FROM RUSSIA
+    location: "Russia"
+    followers: 100906
+    engagement: 376
+    commentsToLikes: 0.162536
+    id: ck5hggwff2pa70i11rn7cfdcu
+    verified: false
+    hashtags: ""
+  - username: "elyana_lu"
+    fullname: >-
+      beauty & makeup
+    location: "Russia"
+    followers: 3657
+    engagement: 1625
+    commentsToLikes: 0.194829
+    id: ck8tbxe9jxk2f0j7868o4qou7
+    verified: false
+    hashtags: "#floralmakeup, #meltmuerte, #wildmakeup, #birdmakeup"
   - username: "sanyababygirl"
     fullname: >-
       Sasha Koss 🧼
     location: "Russia"
-    followers: 9684
-    engagement: 1661
-    commentsToLikes: 0.029895
+    followers: 9724
+    engagement: 1575
+    commentsToLikes: 0.029859
     id: ck5hr45o1u8fh0i11raf6kauz
     verified: false
-    hashtags: "#danessamyricksbeauty, #kryginacosmetics, #esteelauder, #esteelauderrussia"
-  - username: "olgadann"
+    hashtags: "#limecrimerussia, #letoile, #modelmalay, #theartistedit"
+  - username: "marykovaleva"
     fullname: >-
-      Content Creator
+      Maria Kovaleva
     location: "Russia"
-    followers: 207321
-    engagement: 819
-    commentsToLikes: 0.014061
-    id: ck0tu610e5smm0i19pf6c5vh3
+    followers: 27994
+    engagement: 348
+    commentsToLikes: 0.069495
+    id: ck8swlc6zeh400j78wb5q9if9
     verified: false
-    hashtags: "#muaawesome, #editorialmakeup, #bodylava, #makeupfeed"
+    hashtags: "#girlshavefun, #cocoa, #norushchallenge, #urania"
+  - username: "kulleshov"
+    fullname: >-
+      Ann Kuleshova
+    location: "Russia"
+    followers: 54100
+    engagement: 578
+    commentsToLikes: 0.040235
+    id: ck0w6izal8s8g0i19ots33j4d
+    verified: false
+    hashtags: "#bellrussia, #bellhypoallergenic, #kulleshov, #kiehlsrussia"
 ---

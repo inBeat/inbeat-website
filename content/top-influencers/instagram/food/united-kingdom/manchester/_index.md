@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Manchester In 2020
 description: >-
-  Find top food Instagram influencers in Manchester in 2020. Most popular hashtags: #food #manchester #makeup #mcrfinest.
+  Find top food Instagram influencers in Manchester in 2020. Most popular hashtags: #manchester #gifted #food #england.
 platform: Instagram
 profiles:
+  - username: "nictaylorphoto"
+    fullname: >-
+      Nic Taylor - Photographer
+    location: "United Kingdom"
+    followers: 6227
+    engagement: 522
+    commentsToLikes: 0.027548
+    id: ck5q5lsgvth1o0i11x0wp686p
+    verified: false
+    hashtags: "#foodlovers, #bayhorsetavern, #driedpasta, #breakfastclub"
   - username: "foodshak"
     fullname: >-
       FoodShak
     location: "United Kingdom"
-    followers: 19435
-    engagement: 493
-    commentsToLikes: 0.041281
+    followers: 19942
+    engagement: 558
+    commentsToLikes: 0.036378
     id: ck0w73pqvblox0i19p6gqevvw
     verified: false
-    hashtags: "#foodshak, #foodstagram, #burger, #foodgram"
+    hashtags: "#caligraphy, #tofu, #cheese, #homewares"
   - username: "poweredplantfully"
     fullname: >-
       Rebecca ☾
     location: "United Kingdom"
-    followers: 15983
-    engagement: 224
-    commentsToLikes: 0.030004
+    followers: 15844
+    engagement: 225
+    commentsToLikes: 0.030073
     id: ck8t0oj7jspp20j78n5fybz4d
     verified: false
-    hashtags: "#vegansofig, #photography, #weightloss, #veganinspiration"
+    hashtags: "#stokevegan, #breakfast, #cauliflower, #tofu"
   - username: "mcrfinest"
     fullname: >-
       Manchester's Finest
     location: "United Kingdom"
-    followers: 69000
-    engagement: 59
-    commentsToLikes: 0.035615
+    followers: 72687
+    engagement: 97
+    commentsToLikes: 0.025790
     id: ck6ubnpjoanld0j71eqoihokj
     verified: false
-    hashtags: "#mcrfinest, #feedourheroes, #mcrfinest"
-  - username: "hetaljpandit"
-    fullname: >-
-      Hetal Pandit ✈ travel & food
-    location: "United Kingdom"
-    followers: 7701
-    engagement: 552
-    commentsToLikes: 0.036510
-    id: ck8tcan39yv4w0j783nl2o3w8
-    verified: false
-    hashtags: "#wander, #coast, #cascaisportugal, #wanderlust"
-  - username: "chef_exose"
-    fullname: >-
-      Exose
-    location: "United Kingdom"
-    followers: 17815
-    engagement: 506
-    commentsToLikes: 0.036192
-    id: ck5cjjrzluv990i116tt511d2
-    verified: false
-    hashtags: "#piping, #oranges, #ginger, #food"
+    hashtags: "#feedourheroesmcr, #chicken, #recipes, #mcrfinest"
   - username: "akeemojuko"
     fullname: >-
       Akeem Ojuko | Cheekysport Ak
     location: "United Kingdom"
-    followers: 19849
-    engagement: 648
-    commentsToLikes: 0.022763
+    followers: 19859
+    engagement: 607
+    commentsToLikes: 0.024017
     id: ck6turtwli1hp0j71m6ho28cs
     verified: false
-    hashtags: "#vday, #ifyouknowyouknow, #athletes, #hackney"
+    hashtags: "#couplegoals, #vday, #presenters, #mufc"
+  - username: "hetaljpandit"
+    fullname: >-
+      Hetal Pandit
+    location: "United Kingdom"
+    followers: 8021
+    engagement: 654
+    commentsToLikes: 0.066220
+    id: ck8tcan39yv4w0j783nl2o3w8
+    verified: false
+    hashtags: "#deliciousfood, #friyay, #travelcommunity, #rooftopvibes"
+  - username: "cupofteaplusme"
+    fullname: >-
+      Mental Health Chronic Illness
+    location: "United Kingdom"
+    followers: 4630
+    engagement: 1221
+    commentsToLikes: 0.155264
+    id: ck9wexa7hm9fd0j785t70qlii
+    verified: false
+    hashtags: "#mebeforemetookme"
   - username: "leahgracefitness"
     fullname: >-
       Leah Grace | Fitness & Food
     location: "United Kingdom"
-    followers: 49833
-    engagement: 466
-    commentsToLikes: 0.134392
+    followers: 94346
+    engagement: 429
+    commentsToLikes: 0.081773
     id: ck8t21z5cxxd80j786z7q5dpk
     verified: false
-    hashtags: "#teamdye, #leaveyourmark, #doyoueven"
-  - username: "dannythompso"
+    hashtags: "#weightlifting, #mentalhealth, #fitnessfun, #gymfashion"
+  - username: "lovegreatbritain"
     fullname: >-
-      Dannythompso
+      Love Great Britain 🇬🇧
     location: "United Kingdom"
-    followers: 34019
-    engagement: 310
-    commentsToLikes: 0.547896
-    id: ck5zv7jsa3q5n0i14r2ro0g69
-    verified: false
-    hashtags: "#beautybay, #mua, #makeupartistsworldwide, #jeffreestarmysteryboxes"
-  - username: "aliyahussain__"
+    followers: 397215
+    engagement: 182
+    commentsToLikes: 0.007910
+    id: ck0u0y0pvv9fw0i19vyapagpj
+    verified: true
+    hashtags: "#royalpavilion, #lakedistrict, #visitliverpool, #visitlondon"
+  - username: "fat.sam.eats"
     fullname: >-
-      
+      samuel bradbury
     location: "United Kingdom"
-    followers: 55331
-    engagement: 1934
-    commentsToLikes: 0.023586
-    id: ck0w4a16bxjeb0i19w5ws7nle
+    followers: 18070
+    engagement: 443
+    commentsToLikes: 0.135681
+    id: ckaoqv6sikjyw0i78vsmd3yu7
     verified: false
-    hashtags: "#birthdaygirl, #hkkc, #femmeluxe, #bloggerstyle"
-  - username: "sophiedanvers"
-    fullname: >-
-      Sophie Danvers
-    location: "United Kingdom"
-    followers: 85548
-    engagement: 134
-    commentsToLikes: 0.040202
-    id: ck0vy68fh2fab0i19727arbb3
-    verified: false
-    hashtags: "#ootd, #healthyliving, #glam, #manchester"
+    hashtags: "#fatfriday, #ad, #stayathomeburgerbattle"
 ---

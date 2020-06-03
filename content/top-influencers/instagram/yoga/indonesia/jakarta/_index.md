@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Jakarta In 2020
 description: >-
-  Find top yoga Instagram influencers in Jakarta in 2020. Most popular hashtags: #dirumahaja #jakarta #staysafe #yoga.
+  Find top yoga Instagram influencers in Jakarta in 2020. Most popular hashtags: #jakarta #yoga #sehat #basket.
 platform: Instagram
 profiles:
-  - username: "aw_lucu"
+  - username: "yoben_baper"
     fullname: >-
-      Video, Shitpost, Viral
+      yobenbaper
     location: "Indonesia"
-    followers: 27278
-    engagement: 2329
-    commentsToLikes: 0.027867
-    id: ck6tue3paft580j712gbld92f
+    followers: 54286
+    engagement: 425
+    commentsToLikes: 0.008946
+    id: ck5c7wsmv8c740i11qrtw0042
     verified: false
-    hashtags: "#voli, #dagelan, #tiktokindo, #funny"
-  - username: "ayukhadijahazhari"
+    hashtags: "#olahraga, #tinggibadan, #jogging, #promil"
+  - username: "rahmatshield_721"
     fullname: >-
-      Ayu Azhari
+      ʀᴀʜᴍᴀᴛ_ᴀɴɢɢᴀʀᴀᴏꜰꜰɪᴄɪᴀʟ✨
     location: "Indonesia"
-    followers: 104405
-    engagement: 124
-    commentsToLikes: 0.029534
-    id: ck14j7bwpiwz80i19f997njfj
+    followers: 20197
+    engagement: 618
+    commentsToLikes: 0.199700
+    id: ck9whbb5jx4y30j78bcsguicr
     verified: false
-    hashtags: "#aktorindonesia, #toast, #enjoydinner, #fightcovid19"
-  - username: "willywinarko"
+    hashtags: "#senam, #tiktokers, #diet, #followorfollow"
+  - username: "hendritake"
     fullname: >-
-      WILLY WINARKO
+      Hendri Take
     location: "Indonesia"
-    followers: 63659
-    engagement: 1405
-    commentsToLikes: 0.015660
-    id: ck5c809qh8ivd0i114268iv01
+    followers: 124932
+    engagement: 273
+    commentsToLikes: 0.024693
+    id: ck13cwnnv2j0g0i19ddixmb1j
     verified: false
-    hashtags: "#metrotv, #love, #viruscorona, #untiltomorrow"
-  - username: "enzystoria"
+    hashtags: "#virtualyoga, #stayfit, #ijolovers, #repost"
+  - username: "cinta.fisabilillah"
     fullname: >-
-      Enzy Storia Leovarisa
+      HIJRAHNYA CINTA MUSLIMAH
     location: "Indonesia"
-    followers: 2480290
-    engagement: 314
-    commentsToLikes: 0.005700
-    id: ck0u0vyf0v09w0i19phqt3rjp
-    verified: true
-    hashtags: "#teamzombie, #eurotrip, #perfectingthejourney, #hbdlazada"
-  - username: "andreadianbimo"
-    fullname: >-
-      AndreaDian
-    location: "Indonesia"
-    followers: 1498678
-    engagement: 929
-    commentsToLikes: 0.008022
-    id: ck5zxuop58p5b0i14twrzgaos
-    verified: true
-    hashtags: "#ballyss2020, #staypositive, #selflove, #bmwmotorrad"
-  - username: "morethetic"
-    fullname: >-
-      ᴳⁱʳˡˢ ? ᵏˡⁱᵏ ᶠᵒˡˡᵒʷ 🌻
-    location: "Indonesia"
-    followers: 57779
-    engagement: 1127
-    commentsToLikes: 0.022437
-    id: ck8t9meqaom540j78umdju4l1
+    followers: 48029
+    engagement: 352
+    commentsToLikes: 0.004441
+    id: ck8t5fvija18p0j785yvbu706
     verified: false
-    hashtags: "#data, #bisnisonline, #peninggibadan, #tumblrindonesia"
-  - username: "agustinramli"
+    hashtags: "#basket, #hijabkekinian, #info, #peninggibadan"
+  - username: "ahhjahat"
     fullname: >-
-      Agustin Ramli
+      KORBAN PERASAAN
     location: "Indonesia"
-    followers: 37887
-    engagement: 222
-    commentsToLikes: 0.023590
-    id: ck13d286q3aq70i19ks0chrbf
+    followers: 156984
+    engagement: 369
+    commentsToLikes: 0.010546
+    id: ck6toxjk8gnoc0j7174f5jm2e
     verified: false
-    hashtags: "#excercise, #liveig, #goodpeople, #latihandirumah"
-  - username: "pitutur_jawi"
+    hashtags: "#acehbesar, #peninggi, #indovidgram, #pasuruan"
+  - username: "jakartacityscape"
     fullname: >-
-      Pitutur Jawi ( ꦥꦶꦠꦸꦠꦸꦂ​ꦗꦮꦶ )
+      Jakartacityscape
     location: "Indonesia"
-    followers: 51233
-    engagement: 128
-    commentsToLikes: 0.011270
-    id: ck14j6ktaitwv0i19q48y8dqo
+    followers: 48054
+    engagement: 505
+    commentsToLikes: 0.007117
+    id: ck0ueeozel4540i19exfn9w8z
     verified: false
-    hashtags: "#mindfulness, #bijak, #perbamida, #inspiration"
-  - username: "kode.ig"
+    hashtags: ""
+  - username: "kata.emakku"
     fullname: >-
-      Kode Instagram | Kodein
+      ANAK EMAK
     location: "Indonesia"
-    followers: 319946
-    engagement: 396
-    commentsToLikes: 0.013422
-    id: ck0w32dcira060i190mg3yyvc
+    followers: 47251
+    engagement: 966
+    commentsToLikes: 0.016568
+    id: ck6uc4dl5dfuu0j71l9vji586
     verified: false
-    hashtags: "#quotescinta, #inspirasi, #terbaik, #fokusmodus"
-  - username: "bloraupdates"
+    hashtags: "#programkesehatan, #jogging, #tinggibadan, #karir"
+  - username: "fennywijaya08"
     fullname: >-
-      BLORA UPDATES
+      Neng
     location: "Indonesia"
-    followers: 50538
-    engagement: 245
-    commentsToLikes: 0.067387
-    id: ck15te30thmnw0i19hunex33g
+    followers: 23220
+    engagement: 188
+    commentsToLikes: 0.049699
+    id: ck13aoww4rgjn0i19rsap1omu
     verified: false
-    hashtags: "#kridosono, #ngawi, #bojonegoro, #bandung"
+    hashtags: "#skyebar, #cruising, #fourseasonparis, #stalker"
+  - username: "jktnewss"
+    fullname: >-
+      JAKARTA NEWS
+    location: "Indonesia"
+    followers: 55646
+    engagement: 130
+    commentsToLikes: 0.044446
+    id: ck8t5o8xfaohc0j7856cpyjrc
+    verified: false
+    hashtags: "#jagajakarta, #persija, #damkardki, #malamjumaat"
+  - username: "baperstory_ig"
+    fullname: >-
+      SEMUA TENTANG KAMU~ HELP 150K🔥
+    location: "Indonesia"
+    followers: 123456
+    engagement: 473
+    commentsToLikes: 0.032836
+    id: ck9haa1jfbqps0j78c27y139x
+    verified: false
+    hashtags: "#jualanku, #tkwmalaysia, #makassar, #lombok"
 ---

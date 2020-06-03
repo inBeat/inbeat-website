@@ -1,107 +1,107 @@
 ---
 title: Top 10 Environmental Instagram Influencers In 2020
 description: >-
-  Find top environmental Instagram influencers in 2020. Most popular hashtags: #india #covid #naturalhair #travel.
+  Find top environmental Instagram influencers in 2020. Most popular hashtags: #fashionblogger #makeup #quarantine #skincareroutine.
 platform: Instagram
 profiles:
+  - username: "thelukemullen"
+    fullname: >-
+      Luke Mullen
+    location: "United States"
+    followers: 381264
+    engagement: 1297
+    commentsToLikes: 0.008569
+    id: ck0uae11uc3bo0i19zbrgszhw
+    verified: false
+    hashtags: "#supertuesday, #worldisinourhands, #unga, #actforaustralia"
+  - username: "ramlagram"
+    fullname: >-
+      RAMLA | Fashion & Lifestyle
+    location: ""
+    followers: 6366
+    engagement: 1538
+    commentsToLikes: 0.652584
+    id: ck9wgiujqtm9v0j7898921fah
+    verified: false
+    hashtags: "#ootdlook, #lockdownlife, #outfitideas, #fashionistas"
+  - username: "anapaulajunqueirabr"
+    fullname: >-
+      Ana Paula Junqueira
+    location: "United Kingdom"
+    followers: 81178
+    engagement: 329
+    commentsToLikes: 0.090904
+    id: ck0w4s7r105kz0i1923vgd8ij
+    verified: true
+    hashtags: "#riodejaneiro, #rip, #euapoioamodanacional, #quarentine"
   - username: "poppie_seedie"
     fullname: >-
       Rifune Mafune
     location: "South Africa"
-    followers: 6163
-    engagement: 923
-    commentsToLikes: 0.103951
+    followers: 6166
+    engagement: 947
+    commentsToLikes: 0.109102
     id: ck15ul0r3np840i19qy7gc2x0
     verified: false
-    hashtags: "#suncitylittlevacay, #birthdayweekend, #biggirl, #birthdaybabes"
+    hashtags: "#amapiano, #jobe, #babymurunwa, #babyaza"
+  - username: "toria_oa"
+    fullname: >-
+      Victoria
+    location: ""
+    followers: 3323
+    engagement: 5330
+    commentsToLikes: 0.058976
+    id: ckapas7l6x9hx0i78hhwdtjnq
+    verified: false
+    hashtags: "#naturalgirlchallenge, #twiststyles, #skin, #glowingskin"
   - username: "creeative91"
     fullname: >-
       ♡ Cree ♡
     location: "United States"
-    followers: 14906
-    engagement: 1539
-    commentsToLikes: 0.024597
+    followers: 16384
+    engagement: 1485
+    commentsToLikes: 0.025610
     id: ck5hhe8if7rov0i11xo5q5790
     verified: false
-    hashtags: "#naturalhair, #naturallycurly, #naturalqueen, #afroliciouswomen"
+    hashtags: "#twistout, #shoeaddict, #naturalsoap, #skincare"
   - username: "deric_tv_"
     fullname: >-
       Deric O' hArtagáin📺🇮🇪☘
     location: ""
-    followers: 26091
-    engagement: 277
-    commentsToLikes: 0.075874
+    followers: 26803
+    engagement: 256
+    commentsToLikes: 0.074372
     id: ck5zva9gu3uq70i14z01l6azt
     verified: false
-    hashtags: "#actsofkindness, #positivevibes, #physicaldistancing, #covid19"
+    hashtags: "#simplelife, #doerayme, #tagastag, #positivevibes"
   - username: "mantraraj.paliwal"
     fullname: >-
       Mantraraj Paliwal
-    location: "India"
-    followers: 24604
-    engagement: 951
-    commentsToLikes: 0.017369
+    location: "United States"
+    followers: 24939
+    engagement: 953
+    commentsToLikes: 0.019046
     id: ck135ybln3tu40i19v65aeel6
     verified: true
-    hashtags: "#rangosaayejahaa, #mantrarajpaliwal, #photography, #keepgoing"
-  - username: "gunhild_stordalen"
+    hashtags: "#mantraraj, #fashionblogger, #thoughtoftheday, #ticktock"
+  - username: "tejaswiniattrey"
     fullname: >-
-      Gunhild A. Stordalen
-    location: "Norway"
-    followers: 181942
-    engagement: 371
-    commentsToLikes: 0.026351
-    id: ck5zmq1uzn0kg0i147yvuqe2w
-    verified: true
-    hashtags: "#greatdanesofinstagram, #nextgeneration, #gobigorgohome, #teamworkmakesthedreamwork"
+      Tejaswini
+    location: "United States"
+    followers: 6479
+    engagement: 901
+    commentsToLikes: 0.078604
+    id: ckap7geocjyn80i78pblaluyr
+    verified: false
+    hashtags: "#guccibeautynetwork, #la, #sheingals, #ukraine"
   - username: "nicolepeachyst"
     fullname: >-
       Nicole 🍑🐱
     location: "France"
-    followers: 39963
-    engagement: 923
-    commentsToLikes: 0.015211
+    followers: 41190
+    engagement: 890
+    commentsToLikes: 0.015629
     id: ck8t64yy4c81i0j78np490owt
     verified: false
-    hashtags: "#twitchgirls, #timetoexeed, #nerdygirl, #smile"
-  - username: "theemaniijovan"
-    fullname: >-
-      Emanii Jovan 🇪🇹🇪🇷👑
-    location: "United States"
-    followers: 14860
-    engagement: 616
-    commentsToLikes: 0.052694
-    id: ck6tpofnil60e0j71a9beetb6
-    verified: false
-    hashtags: "#botswana, #ethiopia, #eritrea, #usa"
-  - username: "marinagodward"
-    fullname: >-
-      M I M A 🌻
-    location: "Brazil"
-    followers: 21478
-    engagement: 515
-    commentsToLikes: 0.036008
-    id: ck13afeqwq4t10i192qtiaz5r
-    verified: false
-    hashtags: "#mic, #ecochatacommuitoorgulho, #quepeladoguate, #instaguate"
-  - username: "teresamooremoore"
-    fullname: >-
-      T E R E S A    M O O R E
-    location: "United States"
-    followers: 47067
-    engagement: 120
-    commentsToLikes: 0.061614
-    id: ck5pwzbj9pc7p0i117q7a9xxr
-    verified: true
-    hashtags: "#blackblazer, #scarfblouse, #flattenthecurve, #covid"
-  - username: "shastainable"
-    fullname: >-
-      𝒮𝒽𝒶𝓈𝓉𝒶 𝑀𝒶𝓇𝒾𝓃𝒶
-    location: "United States"
-    followers: 39321
-    engagement: 453
-    commentsToLikes: 0.020905
-    id: ck5c2k9dmxez50i11j111fxg2
-    verified: false
-    hashtags: "#shastainable, #ecochic, #itsalifestyle, #makesustainabilitysexy"
+    hashtags: "#strong, #twitchitalia, #girls, #travel"
 ---

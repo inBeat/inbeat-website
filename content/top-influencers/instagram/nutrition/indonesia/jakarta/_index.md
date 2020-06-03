@@ -1,19 +1,39 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Jakarta In 2020
 description: >-
-  Find top nutrition Instagram influencers in Jakarta in 2020. Most popular hashtags: #herbalife #shakeherbalife #herbalifeindonesia #jakarta.
+  Find top nutrition Instagram influencers in Jakarta in 2020. Most popular hashtags: #nutrition #dietplan #jakarta #nutrisibaik.
 platform: Instagram
 profiles:
-  - username: "natashawiilloona_12"
+  - username: "adityazoniofc_"
     fullname: >-
-      Natasha wilona
+      Aditya Zoni
     location: "Indonesia"
-    followers: 56276
-    engagement: 244
-    commentsToLikes: 0.008035
-    id: ck8t836muixty0j782k1sj3j1
+    followers: 393867
+    engagement: 38
+    commentsToLikes: 0.002646
+    id: ck14jbp9sjj2l0i19bdot5ii3
     verified: false
-    hashtags: "#tkwarab, #lunamaya, #gempi, #shakeherbalife"
+    hashtags: "#bandung, #trending, #dietplan, #infokesehatan"
+  - username: "ibunegara_ri"
+    fullname: >-
+      Fans Ibu Negara RI 🇮🇩
+    location: "Indonesia"
+    followers: 174983
+    engagement: 78
+    commentsToLikes: 0.038564
+    id: ck8ta3q1sqcq40j78fnt0d3zz
+    verified: false
+    hashtags: "#herbalife, #autoimun, #grosirjilbab, #bisnisonlineterbaik"
+  - username: "nissa_sabyan._gambus"
+    fullname: >-
+      PP PAKET MURAH 3 AKUN
+    location: "Indonesia"
+    followers: 93034
+    engagement: 102
+    commentsToLikes: 0.012078
+    id: ck8t7292nfe3k0j78o6qt6fx7
+    verified: false
+    hashtags: "#anakpanah, #jawabarat, #infojakarta, #sulawesi"
   - username: "zoeabbassjackson"
     fullname: >-
       Zoe Abbas Jackson
@@ -23,85 +43,65 @@ profiles:
     commentsToLikes: 0.008569
     id: ck14jbqg0jj8x0i19utbx10bf
     verified: false
-    hashtags: "#pelangsingherbal, #igmalaysia, #diet, #ibumenyusui"
-  - username: "fansdjkatty"
+    hashtags: "#sulawesi, #gelmatapanda, #pemutihkulit, #nutrition"
+  - username: "basuki.ahok_"
     fullname: >-
-      dj katty butterfly fansbase
+      Basuki AHOK
     location: "Indonesia"
-    followers: 6305
-    engagement: 868
-    commentsToLikes: 0.007763
-    id: ck8t8qjdyle9a0j78qqahnk7b
+    followers: 85331
+    engagement: 217
+    commentsToLikes: 0.034658
+    id: ck8t2n17601l20j78wvh02iig
     verified: false
-    hashtags: "#nutrisibaik, #bubeindonesia, #restinpeace, #djkattybutterfly36"
-  - username: "febyrasttanty"
+    hashtags: "#riau, #kulit, #lokerkalsel, #basukitjahajapurnama"
+  - username: "kaesangfelicia"
     fullname: >-
-      Febby Rastanti
+      Kaesang Pangarep ➕ Felicia T
     location: "Indonesia"
-    followers: 87981
-    engagement: 210
-    commentsToLikes: 0.007576
-    id: ck8tbdfwtv82k0j7851wjiiqd
+    followers: 60037
+    engagement: 197
+    commentsToLikes: 0.016950
+    id: ck0u8y18g8ipv0i19xdfzq10r
     verified: false
-    hashtags: "#herbalifeshake, #dietmayoh, #butterfly36, #nutrition"
-  - username: "bryan.domanifc_"
+    hashtags: "#cantikabussinnes, #lampung, #herbalifemurah, #bali"
+  - username: "bighitlyrics_"
     fullname: >-
-      Bryan Domani
+      OPEN PP MURAH✨
     location: "Indonesia"
-    followers: 349005
-    engagement: 34
-    commentsToLikes: 0.001925
-    id: ck15sx7yof9ey0i19rcz5qbjh
+    followers: 22783
+    engagement: 512
+    commentsToLikes: 0.005889
+    id: ck135fx9j17zl0i19x3c5fesp
     verified: false
-    hashtags: "#marcelladaryanani, #djkatty, #pelangsingherbal, #bandung"
-  - username: "mrsveronicatan"
+    hashtags: "#shakeherbalife, #putihalami, #maskerspirulina, #kpop"
+  - username: "catatan_sedu"
     fullname: >-
-      VeronicaTan
+      Catatan Sedu
     location: "Indonesia"
-    followers: 58685
-    engagement: 343
-    commentsToLikes: 0.046053
-    id: ck0u8y1u48itm0i192qw2ms3t
+    followers: 89622
+    engagement: 262
+    commentsToLikes: 0.006376
+    id: ck8ta1r4rq4u90j78i77ura05
     verified: false
-    hashtags: "#cantik, #bandung, #tkwsingapura, #lampung"
-  - username: "eka_frasetty"
+    hashtags: "#makasar, #maskersensimurah, #febbyrastanty, #herbalifesurabaya"
+  - username: "sulekersss"
     fullname: >-
-      eka frasetty
+      Sule Prikitiw fans 🇮🇩
     location: "Indonesia"
-    followers: 30064
-    engagement: 121
-    commentsToLikes: 0.493518
-    id: ck5hnvid1ogq80i11ihq5wws7
+    followers: 276862
+    engagement: 107
+    commentsToLikes: 0.020448
+    id: ck14go6ae67dp0i19ka3di4ks
     verified: false
-    hashtags: "#inspiration, #covid19, #untuksemua, #madewell"
-  - username: "godaandiet_"
+    hashtags: "#herbalifepurwakarta, #lokerdenpasar, #ularsanca, #healthyeating"
+  - username: "nagita_slavinaaa1717"
     fullname: >-
-      PAID PROMOTE MURAH
+      PP MURAH ➡️ DM 📩
     location: "Indonesia"
-    followers: 50861
-    engagement: 659
-    commentsToLikes: 0.034540
-    id: ck6u8rydxtbhx0j713p4yndnp
+    followers: 127593
+    engagement: 81
+    commentsToLikes: 0.023646
+    id: ck15rxezla6jp0i19d30ndzwu
     verified: false
-    hashtags: "#videomakan, #saladbuahmurah, #dietmayoh, #hobbymasak"
-  - username: "caessarhito_"
-    fullname: >-
-      Immanuel Caesar Hito
-    location: "Indonesia"
-    followers: 252234
-    engagement: 82
-    commentsToLikes: 0.007937
-    id: ck15sx7gnf9b70i193f8qm87p
-    verified: false
-    hashtags: "#satuataptigacinta, #seleb, #pemutihkulit, #herbalifebandung"
-  - username: "adityazoniofc_"
-    fullname: >-
-      Aditya Zoni
-    location: "Indonesia"
-    followers: 348146
-    engagement: 68
-    commentsToLikes: 0.007626
-    id: ck14jbp9sjj2l0i19bdot5ii3
-    verified: false
-    hashtags: "#trending, #susudiet, #depok, #raffigigi"
+    hashtags: "#kalbar, #literasi15detik, #tkwsingapore, #lubuklinggau"
 ---

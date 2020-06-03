@@ -1,107 +1,107 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Toronto In 2020
 description: >-
-  Find top barbers Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #barber #canada #quarantine.
+  Find top barbers Instagram influencers in Toronto in 2020. Most popular hashtags: #oldschool #quarantine #salon #barber.
 platform: Instagram
 profiles:
-  - username: "officialfameholiday"
-    fullname: >-
-      Fame Holiday
-    location: "Canada"
-    followers: 17530
-    engagement: 374
-    commentsToLikes: 0.150400
-    id: ck5c1w1v3w1ke0i11v0rey58c
-    verified: false
-    hashtags: "#confusing, #worldwide, #torontorapper, #barbershop"
   - username: "shawn_barbz"
     fullname: >-
       🏆ShawnBarbz🏆10xAward Winning ✪
     location: "Canada"
-    followers: 26999
-    engagement: 89
-    commentsToLikes: 0.144036
+    followers: 26553
+    engagement: 85
+    commentsToLikes: 0.135407
     id: ck8swu8yqf9bv0j78w9stmizb
     verified: false
-    hashtags: "#nastybarbers, #wahl, #hairstyling, #figureitout"
-  - username: "mc_woke"
+    hashtags: "#published, #barbereducation, #kingstwest, #blackmamba"
+  - username: "waseemyouans"
     fullname: >-
-      Alexa Joy
+      Waseem Youans
     location: "Canada"
-    followers: 2260
-    engagement: 1153
-    commentsToLikes: 0.105478
-    id: ck8sxts2mimts0j78lwuozzu1
+    followers: 136875
+    engagement: 219
+    commentsToLikes: 0.022404
+    id: ck5hk4s5dhsdj0i11zul9cms7
     verified: false
-    hashtags: "#blackvoicesonthehill, #podcasting, #podcastaddict, #toronto"
+    hashtags: "#repost, #beardthreading, #grateful, #barbers"
+  - username: "carlo.colaiacovo"
+    fullname: >-
+      Carlo Colaiacovo
+    location: "Canada"
+    followers: 10028
+    engagement: 525
+    commentsToLikes: 0.079714
+    id: ck5cjb85budbb0i11xhbtw61c
+    verified: true
+    hashtags: "#buffalosabres, #quarantinelife, #greatness, #ronburgundy"
+  - username: "seniorgumboy"
+    fullname: >-
+      SGB
+    location: "Canada"
+    followers: 55811
+    engagement: 334
+    commentsToLikes: 0.127801
+    id: ck0w3jsxyts5u0i19lb8ij5r0
+    verified: false
+    hashtags: "#imoverthisshit, #influncer, #mood, #bereshammond"
+  - username: "iamsinaamirii"
+    fullname: >-
+      sina amiri
+    location: "Canada"
+    followers: 27859
+    engagement: 833
+    commentsToLikes: 0.042427
+    id: ck602gm06hcn60i14kurkmaub
+    verified: false
+    hashtags: "#menshair, #babyliss, #stylist, #torontobarbers"
   - username: "theniteowlbarbershop"
     fullname: >-
       ○ THE NITE OWL BARBER SHOP ○
     location: "Canada"
-    followers: 21247
-    engagement: 148
-    commentsToLikes: 0.018761
+    followers: 21272
+    engagement: 172
+    commentsToLikes: 0.019597
     id: ck5cf9abamide0i119ywauaht
     verified: false
-    hashtags: "#womenintrades, #covid, #35mm, #blackandwhitephotography"
-  - username: "julianosnuts"
+    hashtags: "#solidarity, #haircut, #emergency, #filmphotography"
+  - username: "sammibarber"
     fullname: >-
-      🧿
+      Sammi Barber
     location: "Canada"
-    followers: 25331
-    engagement: 344
-    commentsToLikes: 0.067851
-    id: ck8wdei9edq1y0j78t7il5b2d
+    followers: 24035
+    engagement: 302
+    commentsToLikes: 0.100589
+    id: ck5c8ww8iacz20i11dfma8gt6
     verified: false
-    hashtags: "#richboycheck, #onlineclass, #callofduty, #fy"
-  - username: "rafi_adel"
+    hashtags: "#coldpressedjuice, #unboxing, #herballifeexpress, #canadianvodka"
+  - username: "cabincalligraphy"
     fullname: >-
-      Rafi Makush
+      Jesi | Toronto Lettering
     location: "Canada"
-    followers: 9673
-    engagement: 730
-    commentsToLikes: 0.061078
-    id: ck5q2yixaie720i11823mlyok
+    followers: 17074
+    engagement: 218
+    commentsToLikes: 0.037127
+    id: ck6u232mepfc10j71yk5kcpfl
     verified: false
-    hashtags: "#mountains, #canada, #likesforlike, #instagram"
-  - username: "gurdeepa"
+    hashtags: "#glassmural, #personalgift, #letteringvideo, #instorechalkboard"
+  - username: "jon_roth_"
     fullname: >-
-      G U R D E E P
+      Jon Roth
     location: "Canada"
-    followers: 14208
-    engagement: 903
-    commentsToLikes: 0.149551
-    id: ck5c2vs06y35n0i1183mby5k5
+    followers: 3394
+    engagement: 1963
+    commentsToLikes: 0.136306
+    id: ck5heflwhsnj80i116apm38ik
+    verified: false
+    hashtags: "#collingwoodbarbershop, #crowsnestbarbershop, #myhomiewithanextrachromie, #themysticalbeast"
+  - username: "lolobe4"
+    fullname: >-
+      Laurence Bédard
+    location: "Canada"
+    followers: 2855180
+    engagement: 299
+    commentsToLikes: 0.010112
+    id: ck15tc8exhdqh0i19xj2znpgh
     verified: true
-    hashtags: "#thecongregation, #levity, #doglife, #southampton"
-  - username: "sinaamiriart"
-    fullname: >-
-      sina amiri
-    location: "Canada"
-    followers: 28213
-    engagement: 824
-    commentsToLikes: 0.041437
-    id: ck602gm06hcn60i14kurkmaub
-    verified: false
-    hashtags: "#mensfashion, #skin, #fashion, #sinaamiri"
-  - username: "the__stash"
-    fullname: >-
-      Daniel Dunlop
-    location: "Canada"
-    followers: 9754
-    engagement: 1244
-    commentsToLikes: 0.056297
-    id: ck0vw72klsej40i19xjo40j0o
-    verified: false
-    hashtags: "#visualpoetry, #nowheremagazine, #eyeshotmag, #insidephotos"
-  - username: "pharmathlete"
-    fullname: >-
-      Dr.CK💊Pharmacist💊Mtl📍🇨🇦🇭🇹
-    location: "Canada"
-    followers: 1096532
-    engagement: 196
-    commentsToLikes: 0.043840
-    id: ck5byy6h4q33q0i113ddg2yib
-    verified: false
-    hashtags: "#bicepsday, #workout, #improvement, #viral"
+    hashtags: ""
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Bali In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Bali in 2020. Most popular hashtags: #bali #beauty #makeup #fashion.
+  Find top cosmetics Instagram influencers in Bali in 2020. Most popular hashtags: #tiktok #dirumahaja #fashion #cosmetics.
 platform: Instagram
 profiles:
-  - username: "wirda_mansur"
+  - username: "nadiaaryntnztblla"
     fullname: >-
-      𝐖 𝐢 𝐫 𝐝 𝐚 𝐌 𝐚 𝐧 𝐬 𝐮 𝐫
+      𝓝𝓪𝓭𝓲𝓪 𝓐𝓻𝔂𝓪𝓷𝓽𝓲𝓷𝓪 𝓩𝓲𝓷𝓽𝓱𝓲𝓪 𝓑𝓮𝓵𝓵𝓪🌹
     location: "Indonesia"
-    followers: 2535499
-    engagement: 829
-    commentsToLikes: 0.007830
-    id: ck0twciutevv20i19polyszmw
-    verified: true
-    hashtags: "#visitindonesia, #bali, #dreamday2019, #beauty"
-  - username: "pipitdjatma"
-    fullname: >-
-      P.Money🤍
-    location: "Indonesia"
-    followers: 59316
-    engagement: 160
-    commentsToLikes: 0.013130
-    id: ck5qa03epdvri0i11jg3gwd6a
+    followers: 48498
+    engagement: 356
+    commentsToLikes: 0.028508
+    id: ck9wdmc9kgbua0j78r15nuybn
     verified: false
-    hashtags: "#pssb, #indonesiafashionindustry, #wonderfulindonesia, #internationalwomensday"
-  - username: "e11a.02"
-    fullname: >-
-      ella
-    location: "Indonesia"
-    followers: 2540
-    engagement: 2023
-    commentsToLikes: 0.118341
-    id: ck6uaq9ei50f60j717e5ztv6t
-    verified: false
-    hashtags: "#teen, #love, #fashion, #teenmodelaustralia"
-  - username: "ameleaik"
-    fullname: >-
-      𝓜𝓮𝓵𝓵𝓮𝓪//𝙊𝙋𝙀𝙉 𝙀𝙉𝘿𝙊𝙍𝙎𝙀𝙈𝙀𝙉𝙏💌
-    location: "Indonesia"
-    followers: 6180
-    engagement: 1063
-    commentsToLikes: 0.433864
-    id: ck55obtir81tv0i11pnmgotjj
-    verified: false
-    hashtags: "#followfollow, #brighteningserum, #koreacosmetic, #dessert"
-  - username: "vridhidhamija"
-    fullname: >-
-      𝐕 𝐑 𝐈 𝐃 𝐇 𝐈   𝐃 𝐇 𝐀 𝐌 𝐈 𝐉 𝐀
-    location: "Indonesia"
-    followers: 122347
-    engagement: 135
-    commentsToLikes: 0.061758
-    id: ck600c25tdbho0i14w2vy2yul
-    verified: false
-    hashtags: "#maquiagem, #givebacktopplonlist, #makeupbyme, #holifestivalcolors"
-  - username: "laviim"
-    fullname: >-
-      Lavinia Mitel
-    location: "Indonesia"
-    followers: 6864
-    engagement: 542
-    commentsToLikes: 0.069744
-    id: ck5hdmd4so7q10i11zf8mq8t8
-    verified: false
-    hashtags: "#heaven, #inthejungle, #makeupgiveaway, #glossylips"
+    hashtags: "#mahasiswa, #remajabalihits, #barmagic, #asianbeauty"
   - username: "pavel_tl"
     fullname: >-
       👑 PAVEL 👑
     location: "Indonesia"
-    followers: 62768
-    engagement: 513
-    commentsToLikes: 0.027746
+    followers: 63067
+    engagement: 495
+    commentsToLikes: 0.028881
     id: ck0u9stviajqr0i19editvkyy
     verified: false
-    hashtags: "#fashionmen, #beautifuldestinations, #skincare, #gaymodel"
-  - username: "soft_muse"
+    hashtags: "#photoshooting, #photo, #asia, #heaven"
+  - username: "wirda_mansur"
     fullname: >-
-      Лана Маркина • Акварелист
+      𝐖 𝐢 𝐫 𝐝 𝐚 𝐌 𝐚 𝐧 𝐬 𝐮 𝐫
     location: "Indonesia"
-    followers: 6231
-    engagement: 183
-    commentsToLikes: 0.162015
-    id: ck14ipkn3gl6e0i191vc6imxe
-    verified: false
-    hashtags: "#tv, #waves, #freshbouquet, #blossom"
-  - username: "mrsveronicatan"
+    followers: 2574310
+    engagement: 810
+    commentsToLikes: 0.007251
+    id: ck0twciutevv20i19polyszmw
+    verified: true
+    hashtags: "#eventjkt, #fashion, #beauty, #wakeupmakeupxmustikaputeri"
+  - username: "felicianathalie_"
     fullname: >-
-      VeronicaTan
+      펠리시아🍑felicia nathalie
     location: "Indonesia"
-    followers: 58685
-    engagement: 343
-    commentsToLikes: 0.046053
-    id: ck0u8y1u48itm0i192qw2ms3t
+    followers: 11636
+    engagement: 1075
+    commentsToLikes: 0.419823
+    id: ck9wgk3pjts0e0j78vcntnir1
     verified: false
-    hashtags: "#cantik, #bandung, #tkwsingapura, #lampung"
-  - username: "caessarhito_"
+    hashtags: "#beautymask, #essusukekinian, #tasdisney, #balilife"
+  - username: "danellailene"
     fullname: >-
-      Immanuel Caesar Hito
+      ILENE | BALI MODEL | MUA BALI
     location: "Indonesia"
-    followers: 252234
-    engagement: 82
-    commentsToLikes: 0.007937
-    id: ck15sx7gnf9b70i193f8qm87p
+    followers: 18863
+    engagement: 323
+    commentsToLikes: 0.017708
+    id: ck5hkl5ihimdu0i11injipbmy
     verified: false
-    hashtags: "#satuataptigacinta, #seleb, #pemutihkulit, #herbalifebandung"
+    hashtags: "#makeupinspiration, #tbt, #noneditedphotos, #awch"
+  - username: "rinandinii"
+    fullname: >-
+      R. Andini S.M
+    location: "Indonesia"
+    followers: 3669
+    engagement: 786
+    commentsToLikes: 0.028707
+    id: ck14jb2fsjfry0i19gkgk4a7u
+    verified: false
+    hashtags: "#makeupideas, #makeupaddict, #makeupoftheday, #potd"
+  - username: "pipitdjatma"
+    fullname: >-
+      Pipit Djatma 🤍
+    location: "Indonesia"
+    followers: 58358
+    engagement: 111
+    commentsToLikes: 0.015408
+    id: ck5qa03epdvri0i11jg3gwd6a
+    verified: false
+    hashtags: "#womenswords, #stayathome, #australia, #gratefulheart"
+  - username: "e11a.02"
+    fullname: >-
+      ella
+    location: "Indonesia"
+    followers: 2568
+    engagement: 2068
+    commentsToLikes: 0.120520
+    id: ck6uaq9ei50f60j717e5ztv6t
+    verified: false
+    hashtags: "#isolation, #tamblynmodel, #runwayfashion, #dresses"
+  - username: "ameleaik"
+    fullname: >-
+      𝓜𝓮𝓵𝓵𝓮𝓪//𝙊𝙋𝙀𝙉 𝙀𝙉𝘿𝙊𝙍𝙎𝙀𝙈𝙀𝙉𝙏💌
+    location: "Indonesia"
+    followers: 6122
+    engagement: 1042
+    commentsToLikes: 0.395490
+    id: ck55obtir81tv0i11pnmgotjj
+    verified: false
+    hashtags: "#tiktokers, #somebymiracle, #endorseskincare, #sikatgigimalam"
+  - username: "devirstt"
+    fullname: >-
+      rustiantidevi
+    location: "Indonesia"
+    followers: 2675
+    engagement: 1443
+    commentsToLikes: 0.108411
+    id: ck9wh7em4wlpm0j78vk8b07pr
+    verified: false
+    hashtags: "#beach, #welashangrengkene, #makeup, #quarantine"
 ---

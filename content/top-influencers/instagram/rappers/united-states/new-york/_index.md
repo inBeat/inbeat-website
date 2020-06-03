@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In New York In 2020
 description: >-
-  Find top rappers Instagram influencers in New York in 2020. Most popular hashtags: #hiphop #music #rap #rapper.
+  Find top rappers Instagram influencers in New York in 2020. Most popular hashtags: #newyork #rapper #hiphop #music.
 platform: Instagram
 profiles:
-  - username: "cactus.kish"
+  - username: "lilcrawfishxoxo"
     fullname: >-
-      Kish
+      Lil Craw
     location: "United States"
-    followers: 7090
-    engagement: 2683
-    commentsToLikes: 0.052341
-    id: ck8wgke8xhixj0j78rbuudmwv
+    followers: 18020
+    engagement: 1846
+    commentsToLikes: 0.016688
+    id: ck8t2ejizz6me0j78mtyx6j7i
     verified: false
-    hashtags: "#xyzbca, #concertphotography, #asapmob, #badandboujee"
-  - username: "javierstarks"
+    hashtags: "#music, #musician, #musicproducer, #upcomingartist"
+  - username: "andrewmvson"
     fullname: >-
-      Javier Starks
+      Andrew Mason | Photographer
     location: "United States"
-    followers: 10579
-    engagement: 456
-    commentsToLikes: 0.033174
-    id: ck0u22qutyqiz0i19kobw1n81
+    followers: 20744
+    engagement: 358
+    commentsToLikes: 0.062457
+    id: ck5q3ss6dm9o70i118o7ce9kr
     verified: false
-    hashtags: "#pandemic, #covid19, #jeffbezos, #soulful"
-  - username: "lilmac_gs9"
+    hashtags: "#likenewyorkcity, #streetdreamsmag, #street, #killyourcity"
+  - username: "l0rdju"
     fullname: >-
-      🏚️THE GHETTO CHILD🏚️
+      Ju SAMA Music
     location: "United States"
-    followers: 19094
-    engagement: 327
-    commentsToLikes: 0.072608
-    id: ck6tmss328gp70j71xfj7n3xy
+    followers: 53877
+    engagement: 153
+    commentsToLikes: 0.092491
+    id: ck5zujtcv2hw70i14ugtr489h
     verified: false
-    hashtags: "#pain, #restinpeace, #nyc, #photography"
-  - username: "chasebenji__"
+    hashtags: "#postanddelete, #lasvegas, #rapper, #raptv"
+  - username: "urbanjungles"
     fullname: >-
-      Chase BenJi
+      Danny Mendez
     location: "United States"
-    followers: 143393
+    followers: 12470
     engagement: 307
-    commentsToLikes: 0.038805
-    id: ck14iy7ruhpkx0i19mo98cc5h
+    commentsToLikes: 0.025262
+    id: ck0tvhkr7bdsi0i19ur47kab9
     verified: false
-    hashtags: "#valentinesday"
-  - username: "bigtwinsqb"
+    hashtags: "#cobra, #beastmaster, #backtobeingme, #music"
+  - username: "skysoprano"
     fullname: >-
-      Jamal Abdulraheem Big Twins
+      Yᴏᴜ Kɴᴏᴡ  🗣
     location: "United States"
-    followers: 34999
-    engagement: 410
-    commentsToLikes: 0.089597
-    id: ck55lh4ne1ju50i11v4i9fxlt
+    followers: 16238
+    engagement: 187
+    commentsToLikes: 0.148493
+    id: ck8t0fm4hrwn80j7856t671ir
     verified: false
-    hashtags: "#chinkyqb, #im3, #ralphlauren, #shade45"
-  - username: "migs718"
+    hashtags: "#tagafriend, #whogivesafuck, #godblessme, #thankyou"
+  - username: "iam_mansha1"
     fullname: >-
-      Migs718
+      Μαƞσհα Ʃυλταƞ🔥🖤
     location: "United States"
-    followers: 8207
-    engagement: 735
-    commentsToLikes: 0.160280
-    id: ck8syrtw4lrgv0j78vd82hrs1
+    followers: 5199
+    engagement: 706
+    commentsToLikes: 0.083910
+    id: ck8wf1svxezfa0j78npu1ljph
     verified: false
-    hashtags: "#artist, #paris, #chicago, #statenisland"
-  - username: "iamrapaport"
+    hashtags: "#manshaholic, #worklife, #arabic, #respect"
+  - username: "amber_grand"
     fullname: >-
-      I AM RAPAPORT: STEREO PODCAST
+      E M P R E S S  A M B E R
     location: "United States"
-    followers: 172010
-    engagement: 70
-    commentsToLikes: 0.038081
-    id: ck0u18z2sw3qp0i19rdp0olx0
-    verified: true
-    hashtags: ""
-  - username: "mixedbyrican"
-    fullname: >-
-      🏚MiXEDBYRiCAN🔊🇵🇷
-    location: "United States"
-    followers: 27879
-    engagement: 397
-    commentsToLikes: 0.112278
-    id: ck6tj6d8d23hi0j71d55v4kqv
+    followers: 53085
+    engagement: 107
+    commentsToLikes: 0.060840
+    id: ck8szkrtiotu90j782qs1kei4
     verified: false
-    hashtags: "#mixedbyrican, #recordingstudio, #brrrrrrrrr, #bars"
-  - username: "mrmisterharris"
+    hashtags: "#bartender, #nj, #newyork, #rap"
+  - username: "alivla"
     fullname: >-
-      Mister Harris
+      ᴀʟɪɴᴀ ᴠʟᴀsᴏᴠᴀ
     location: "United States"
-    followers: 2438
-    engagement: 515
-    commentsToLikes: 0.389618
-    id: ck1389lmyf6250i19owkv1yar
+    followers: 21610
+    engagement: 457
+    commentsToLikes: 0.017540
+    id: ck0w5lvoz4afd0i19hqwdfop2
     verified: false
-    hashtags: "#upandcomingartists, #singerlife, #newmusicalert, #rapsongs"
-  - username: "iamcardib.bii"
+    hashtags: "#scent, #eudetoilette, #friends, #newyork"
+  - username: "joe5tarr"
     fullname: >-
-      Cardi B
+      Joe$tarr🌟
     location: "United States"
-    followers: 105825
-    engagement: 238
-    commentsToLikes: 0.016658
-    id: ck5hhwnmiag0y0i11nrsy01hf
+    followers: 4865
+    engagement: 624
+    commentsToLikes: 0.185039
+    id: ckap529399v1x0i78j1fxrw4n
     verified: false
-    hashtags: "#cardiandoffet, #money, #spicy, #iamcardib"
+    hashtags: "#photoedits, #viralvideos, #ownstyle, #creation"
+  - username: "arronrawtattoo"
+    fullname: >-
+      ARRON RAW TATTOO
+    location: "United States"
+    followers: 75545
+    engagement: 102
+    commentsToLikes: 0.083428
+    id: ck55plcp1at040i11twaw0vdw
+    verified: false
+    hashtags: "#thebayarea, #sullenbadge, #tattooing, #inkeeze"
 ---

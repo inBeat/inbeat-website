@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Austin In 2020
 description: >-
-  Find top fitness Instagram influencers in Austin in 2020. Most popular hashtags: #fitness #austintexas #atx #austin.
+  Find top fitness Instagram influencers in Austin in 2020. Most popular hashtags: #fitness #austin #austintexas #nutrition.
 platform: Instagram
 profiles:
-  - username: "johnnyy_2.1"
-    fullname: >-
-      John Rutherford Jr
-    location: "United States"
-    followers: 3713
-    engagement: 1561
-    commentsToLikes: 0.065540
-    id: ck6tv588hk93t0j71xb4s4i3c
-    verified: false
-    hashtags: "#mommasboy, #fitness, #austin, #mambaout"
   - username: "clarkjjay"
     fullname: >-
       Jay
     location: "United States"
-    followers: 4896
-    engagement: 2545
-    commentsToLikes: 0.044618
+    followers: 5026
+    engagement: 2392
+    commentsToLikes: 0.041702
     id: ck8tanfkfseil0j78cgl5k2b9
     verified: false
-    hashtags: "#gaysingle, #gayselfie, #gaytwink, #gaymers"
+    hashtags: "#gayguys, #beard, #keepaustinweird, #byewinter"
+  - username: "_juliarene"
+    fullname: >-
+      JULIA RENE »ONLINE TRAINER
+    location: "United States"
+    followers: 16863
+    engagement: 948
+    commentsToLikes: 0.134939
+    id: ck15sidzmd5o70i19wz8m4rhy
+    verified: false
+    hashtags: "#girlbosslife, #nutritionclub, #hiitcircuit, #npcwellness"
   - username: "leomanzano"
     fullname: >-
       Leo Manzano
     location: "United States"
-    followers: 29443
-    engagement: 171
-    commentsToLikes: 0.022704
+    followers: 29245
+    engagement: 168
+    commentsToLikes: 0.020758
     id: ck0vv3rqeneqm0i198qiwqyw0
     verified: true
-    hashtags: "#fitness, #marathontrails20, #olympictrails, #meditation"
-  - username: "livindandie"
+    hashtags: "#sue, #meditacion, #marathon, #runningcommunity"
+  - username: "newjohnnysins"
     fullname: >-
-      Danae & Mandie Kaii 🌈 LGBTQ
+      Johnny Sins
     location: "United States"
-    followers: 15830
-    engagement: 1545
-    commentsToLikes: 0.022338
-    id: ck5hrm8wsv3n00i11j2dbnman
+    followers: 37700
+    engagement: 1184
+    commentsToLikes: 0.021081
+    id: ck8wdh3nadtx10j78bng8sq4e
     verified: false
-    hashtags: "#lgbtqcommunity, #theknot, #bridetobe, #lesbiancouplegoals"
-  - username: "dan_coller"
+    hashtags: "#lasvegas, #covid19, #hopeoutdoorgallery, #vr"
+  - username: "orie_wellness"
     fullname: >-
-      Dan Coller
+      Orie 🌿Cert. Aromatherapist
     location: "United States"
-    followers: 20525
-    engagement: 532
-    commentsToLikes: 0.025205
-    id: ck0ttewl62f4g0i19hzqbmc0s
+    followers: 18369
+    engagement: 623
+    commentsToLikes: 0.184431
+    id: ck6tsvht772e40j71uz9wczzw
     verified: false
-    hashtags: "#staysafe, #winter, #contender, #toyotatriplechallenge"
-  - username: "andressgarcia1"
+    hashtags: "#austinblogger, #fitness, #dogmomproblems, #instafit"
+  - username: "spinsyddy"
     fullname: >-
-      Andres Garcia
+      SYDNEY TORABI | HOME WORKOUTS
     location: "United States"
-    followers: 17882
-    engagement: 533
-    commentsToLikes: 0.051959
-    id: ck6u1yp0moohb0j71sbzdr9iq
+    followers: 21029
+    engagement: 263
+    commentsToLikes: 0.054269
+    id: ck5zol62tqsnv0i14z9zbvmzh
     verified: false
-    hashtags: "#shreddedlife, #cariocasungaco, #riodejaneiro, #furelisecover"
+    hashtags: "#austinfit, #nutrition, #fitnessmodel, #swimmer"
+  - username: "nickthebullsfan"
+    fullname: >-
+      NickTheBullsFan
+    location: "United States"
+    followers: 15916
+    engagement: 345
+    commentsToLikes: 0.037811
+    id: ck0w3wiafvn2p0i19zlrd3rgw
+    verified: false
+    hashtags: "#foodig, #vibes, #corona, #cute"
+  - username: "whoisaaronaustin"
+    fullname: >-
+      Aaron Austin - Fitness Coach
+    location: "United States"
+    followers: 21883
+    engagement: 572
+    commentsToLikes: 0.113072
+    id: ck5qa7x77f0e30i11zasztdic
+    verified: false
+    hashtags: "#getyourlullon, #onlinenutritioncoach, #legworkouts, #chestworkout"
   - username: "marga.marie"
     fullname: >-
       Liv Love Style Blog
     location: "United States"
-    followers: 9792
-    engagement: 657
-    commentsToLikes: 0.149651
+    followers: 10510
+    engagement: 782
+    commentsToLikes: 0.140883
     id: ck13bvmfexcpm0i19mg1plr2u
     verified: false
-    hashtags: "#liketkit, #gifted, #founditonamazon, #futurelonghorn"
-  - username: "yourtrendytherapist"
+    hashtags: "#ltkitbag, #ltkhome, #ltkswim, #ltkunder100"
+  - username: "megankovach"
     fullname: >-
-      Mary
+      MEGAN KOVACH
     location: "United States"
-    followers: 57385
-    engagement: 134
-    commentsToLikes: 0.082696
-    id: ck6tnjjdz9z120j71dwhdvc3c
+    followers: 34700
+    engagement: 813
+    commentsToLikes: 0.032488
+    id: ck6tvpbbmni5f0j719gtwx5t0
     verified: false
-    hashtags: "#adventure, #fableticspartner, #coronavirus, #atx"
-  - username: "palmvisuals"
-    fullname: >-
-      A Cinematic Film Co.
-    location: "United States"
-    followers: 6437
-    engagement: 759
-    commentsToLikes: 0.021647
-    id: ck5zvnkh34kna0i14d7njvut6
-    verified: false
-    hashtags: "#houston, #luxurylife, #alllivesmatter, #videos"
-  - username: "mindofmystikal_"
-    fullname: >-
-      Mystikal
-    location: "United States"
-    followers: 58163
-    engagement: 147
-    commentsToLikes: 0.047234
-    id: ck0w35xjarqz50i19fe7bvypt
-    verified: false
-    hashtags: "#nolimitforever, #hustle, #igotthehookup2, #omaha"
+    hashtags: "#rumours, #tiedye"
 ---

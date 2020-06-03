@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Australia In 2020
 description: >-
-  Find top beauty Instagram influencers in Australia in 2020. Most popular hashtags: #makeup #gifted #beauty #collab.
+  Find top beauty Instagram influencers in Australia in 2020. Most popular hashtags: #isolation #summer #fashionstyle #makeuptutorial.
 platform: Instagram
 profiles:
-  - username: "e.milyjanee"
+  - username: "thesilverlining_70"
     fullname: >-
-      E M I L Y🦋 || fashion
+      L U I S A   D U N N
     location: "Australia"
-    followers: 2539
-    engagement: 2720
-    commentsToLikes: 0.257348
-    id: ck8tbsrgbwzkr0j78bg9s7ytg
+    followers: 21593
+    engagement: 1075
+    commentsToLikes: 0.072465
+    id: ck9hboj9fhrl00j7868rq2imh
     verified: false
-    hashtags: "#collab, #gifted, #vintage"
+    hashtags: "#saltandpepper, #gogrombre, #aginggracefully, #growsilver"
+  - username: "kellympreston"
+    fullname: >-
+      Kelly Preston
+    location: "Australia"
+    followers: 139619
+    engagement: 582
+    commentsToLikes: 0.049889
+    id: ck0u1bzaxwhw00i199j4biujl
+    verified: false
+    hashtags: "#humour, #makeuplooks, #girlgoals, #fashionideas"
   - username: "love.christina.xo"
     fullname: >-
       ✨Christina✨
     location: "Australia"
-    followers: 155448
-    engagement: 412
-    commentsToLikes: 0.092206
+    followers: 160200
+    engagement: 351
+    commentsToLikes: 0.113460
     id: ck13c84lqz1y50i192xk9bkvq
     verified: false
-    hashtags: "#sydneyblogger, #mcaaustralia, #bondiboost, #biodegradable"
-  - username: "karimamckimmie"
-    fullname: >-
-      Karima Mckimmie
-    location: "Australia"
-    followers: 73066
-    engagement: 317
-    commentsToLikes: 0.179730
-    id: ck15qdnp32cuc0i199jk1lgiz
-    verified: true
-    hashtags: "#lashextensions, #artisanclinics, #ad, #spon"
+    hashtags: "#shellybeach, #celsiuscoffeeco, #manlybeach, #milkbath"
   - username: "amypapadatos__"
     fullname: >-
       Amy
     location: "Australia"
-    followers: 31783
-    engagement: 329
-    commentsToLikes: 0.245630
+    followers: 31158
+    engagement: 362
+    commentsToLikes: 0.291126
     id: ck0w0n5ovf1ul0i19gwdrag4c
     verified: false
-    hashtags: "#comparethemarketpartner, #vitamineoil, #rejuvenating, #coronapocalypse"
-  - username: "anarebeli"
+    hashtags: "#australianowned, #organicskincare, #unichi, #teaaddict"
+  - username: "_stephanielange_"
     fullname: >-
-      ANA REBELI
+      Stephanie Lange
     location: "Australia"
-    followers: 10183
-    engagement: 710
-    commentsToLikes: 0.090218
-    id: ck6ubf46a974w0j719ht24htl
-    verified: false
-    hashtags: "#bonprixbloggers, #marionnaudromania, #marionnaudro, #visitnoosa"
-  - username: "sarahjaneroza"
-    fullname: >-
-      SARAH ROZA
-    location: "Australia"
-    followers: 337287
-    engagement: 220
-    commentsToLikes: 0.042483
-    id: ck5cl1ocoy2jm0i112ylzgnqh
+    followers: 204661
+    engagement: 314
+    commentsToLikes: 0.075445
+    id: ck15t6quzgmgz0i19t2xc4f5o
     verified: true
-    hashtags: "#lovers, #day1, #support, #luncheon"
-  - username: "kaysey_taylorfx"
+    hashtags: "#shophudabeauty, #adoptdontshop, #af, #eyeko"
+  - username: "ali.baxter"
     fullname: >-
-      Kaysey Fairbrother
+      ALI BAXTER
     location: "Australia"
-    followers: 5934
-    engagement: 1197
-    commentsToLikes: 0.193415
-    id: ck5q3zlpzn2oe0i11iqu8za9s
+    followers: 163901
+    engagement: 243
+    commentsToLikes: 0.054199
+    id: ck55p98zta30w0i1149zym1du
     verified: false
-    hashtags: "#happynewyear, #elfmakeup, #makeupgiveaway, #bodypainter"
+    hashtags: "#sunbaking, #zalaponytail, #isolife, #freestyle"
+  - username: "karimamckimmie"
+    fullname: >-
+      Karima Mckimmie
+    location: "Australia"
+    followers: 72694
+    engagement: 234
+    commentsToLikes: 0.123563
+    id: ck15qdnp32cuc0i199jk1lgiz
+    verified: true
+    hashtags: "#smokeyeye, #nudebynature, #fentybeauty, #boostyourroots"
   - username: "georgefavios"
     fullname: >-
       George Favios
     location: "Australia"
-    followers: 48667
-    engagement: 233
-    commentsToLikes: 0.056360
+    followers: 48213
+    engagement: 236
+    commentsToLikes: 0.056171
     id: ck0w2qgrtpod20i19sz8eyjeg
     verified: false
-    hashtags: "#beauty, #makeupartist, #portugal, #beautiful"
-  - username: "irismaystyle"
+    hashtags: "#stunning, #legendary, #summer2018, #losangeles"
+  - username: "therealsimonemarie"
     fullname: >-
-      BEV | IRIS MAY STYLE
+      𝒮𝒾𝓂𝑜𝓃𝑒 𝑀𝒶𝓇𝒾𝑒 ♡You Do You✨Perth
     location: "Australia"
-    followers: 36157
-    engagement: 199
-    commentsToLikes: 0.153038
-    id: ck14l2xqcskzf0i1901qfiema
+    followers: 42299
+    engagement: 221
+    commentsToLikes: 0.243178
+    id: ck0u2jonl00iw0i19ia56t699
     verified: false
-    hashtags: "#imssponsoredcontent, #repeatoffender, #aveneau, #dermabsolu"
-  - username: "ankita_fashion"
+    hashtags: "#bargainbuy, #wannaplayagame, #smiletoday, #notmyreality"
+  - username: "kaysey_taylorfx"
     fullname: >-
-      Ankita | Makeup💄Fashion👗
+      Kaysey Taylor Artistry
     location: "Australia"
-    followers: 11180
-    engagement: 587
-    commentsToLikes: 0.086725
-    id: ck135va4x3elo0i19a924vmbu
+    followers: 6527
+    engagement: 1062
+    commentsToLikes: 0.460173
+    id: ck5q3zlpzn2oe0i11iqu8za9s
     verified: false
-    hashtags: "#fashionlookbook, #mvmtforher, #jointhemvmt, #gifted"
+    hashtags: "#bareskin, #goddessmakeup, #love, #seagoddess"
 ---

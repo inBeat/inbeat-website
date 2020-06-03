@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Italy In 2020
 description: >-
-  Find top health Instagram influencers in Italy in 2020. Most popular hashtags: #iorestoacasa #stayhome #model #style.
+  Find top health Instagram influencers in Italy in 2020. Most popular hashtags: #flowerstagram #springvibes #mirrorselfie #lisbona.
 platform: Instagram
 profiles:
-  - username: "anej_sosic"
+  - username: "nerinafrancesca"
     fullname: >-
-      Anej Sosic
+      Francesca Nerina 💎
     location: "Italy"
-    followers: 44446
-    engagement: 766
-    commentsToLikes: 0.116799
-    id: ck6ufp29jyboh0j71ap3j3rvu
+    followers: 249928
+    engagement: 710
+    commentsToLikes: 0.037159
+    id: ck8t5753n90v00j78mkte5hhx
     verified: false
-    hashtags: "#venice, #pose, #repost, #comingsoon"
+    hashtags: "#nature, #moon, #cute, #sexy"
   - username: "remalda"
     fullname: >-
       Travel/Fashion/motherhood🇦🇱🇮🇹
     location: "Italy"
-    followers: 11201
-    engagement: 954
-    commentsToLikes: 0.149894
+    followers: 11086
+    engagement: 1129
+    commentsToLikes: 0.127762
     id: ck5zmzotkni710i1426xyuqcp
     verified: false
-    hashtags: "#winteroutfits, #thinkingpositive, #cutemixedgirls, #lisbonportugal"
+    hashtags: "#girlswhohike, #pursuebeauty, #scopriumbria, #maced"
+  - username: "anej_sosic"
+    fullname: >-
+      Anej Sosic
+    location: "Italy"
+    followers: 53043
+    engagement: 619
+    commentsToLikes: 0.096188
+    id: ck6ufp29jyboh0j71ap3j3rvu
+    verified: false
+    hashtags: "#venice, #pose, #repost, #comingsoon"
+  - username: "aurilion_"
+    fullname: >-
+      𝓐𝓾𝓻𝓸𝓻𝓪 🐆
+    location: "Italy"
+    followers: 14308
+    engagement: 899
+    commentsToLikes: 0.168785
+    id: ckap5am87awas0i786flt3d6h
+    verified: false
+    hashtags: "#quarantena, #nomakeupdays, #fashionweek, #sanktmoritz"
+  - username: "sammcclendon"
+    fullname: >-
+      Sam | The Blonde Scout
+    location: "Italy"
+    followers: 55160
+    engagement: 388
+    commentsToLikes: 0.161279
+    id: ck15tfwcnhvqt0i191nw1im9e
+    verified: false
+    hashtags: "#backyardgarden, #lisbonlovers, #besthotels, #beautytip"
+  - username: "andreapetagna"
+    fullname: >-
+      ANDREA PETAGNA
+    location: "Italy"
+    followers: 461844
+    engagement: 819
+    commentsToLikes: 0.014165
+    id: ck137on0icla00i19ej2aukdx
+    verified: true
+    hashtags: "#bulldozzer, #pushup, #keepfighting, #2020"
+  - username: "giorgialuchini"
+    fullname: >-
+      Giorgia Luchini 🦋
+    location: "Italy"
+    followers: 6539
+    engagement: 807
+    commentsToLikes: 0.098624
+    id: ckap6a58bf1d70i78xvtau1rd
+    verified: false
+    hashtags: "#lacasadepapel"
   - username: "kilianlenox"
     fullname: >-
       KiLiaN LeNoX
     location: "Italy"
-    followers: 5243
-    engagement: 1691
-    commentsToLikes: 0.034899
+    followers: 5631
+    engagement: 1831
+    commentsToLikes: 0.032792
     id: ck8ta70sxqosb0j785547l56p
     verified: false
-    hashtags: "#pride, #muscle, #milancity, #loveyourself"
-  - username: "julia_bel_la"
+    hashtags: "#dreadslife, #trans, #transworld, #motivation"
+  - username: "oliviajarviss"
     fullname: >-
-      Girl in glasses👓🔥🔥🔥
+      OLIVIA | Fitness & Health 🦋
     location: "Italy"
-    followers: 60597
-    engagement: 450
-    commentsToLikes: 0.034085
-    id: ck6uhkd849mi00j7106iu8l7k
+    followers: 97089
+    engagement: 1010
+    commentsToLikes: 0.015536
+    id: ck9wosjjs6fow0j789h9znusq
     verified: false
-    hashtags: "#modelstravel, #glass, #travelblog, #taormina"
-  - username: "azzurrapiccardi"
-    fullname: >-
-      Azzurra Piccardi Photographer
-    location: "Italy"
-    followers: 30408
-    engagement: 204
-    commentsToLikes: 0.078646
-    id: ck5bx8u0kn8cy0i11d84cg2fm
-    verified: false
-    hashtags: "#mettiamoloallaporta, #accademiadifotografia, #fashionimagery, #weareallinthistoghether"
-  - username: "anastasiaferla"
-    fullname: >-
-      Aɴαѕтαѕια Ŧ.
-    location: "Italy"
-    followers: 19589
-    engagement: 632
-    commentsToLikes: 0.036351
-    id: ck15sxkdxfb8i0i199uyko5w8
-    verified: false
-    hashtags: "#mozzarelline, #lovepizza, #tiffanynecklace, #whowhatwear"
+    hashtags: "#fitcouple, #fitcouples"
   - username: "vivi.marcucci"
     fullname: >-
       vivi marcucci
     location: "Italy"
-    followers: 101925
-    engagement: 1868
-    commentsToLikes: 0.011664
+    followers: 100971
+    engagement: 1975
+    commentsToLikes: 0.013470
     id: ck138zergirms0i196eveiaz5
     verified: false
-    hashtags: "#adv, #keepitvigorsol, #lottorunner, #vigorsol"
-  - username: "eylmbc"
-    fullname: >-
-      Eylem Abacı
-    location: "Italy"
-    followers: 158587
-    engagement: 169
-    commentsToLikes: 0.180634
-    id: ck0u9o1p0abgw0i19ghjtaxcb
-    verified: false
-    hashtags: "#mood, #coffee, #brownies, #tarif"
-  - username: "rosybelleofficial"
-    fullname: >-
-      𝓡𝓸𝓼𝔂 𝓑𝓮𝓵𝓵𝓮 🥀
-    location: "Italy"
-    followers: 15352
-    engagement: 901
-    commentsToLikes: 0.028008
-    id: ck6tvp7k4nhik0j719d6xxoyh
-    verified: false
-    hashtags: "#instagram, #blonde, #october, #film"
-  - username: "_valentinagalassi"
-    fullname: >-
-      
-    location: "Italy"
-    followers: 31908
-    engagement: 352
-    commentsToLikes: 0.031524
-    id: ck5choiw1r60z0i11snlj9ig6
-    verified: false
-    hashtags: "#ilingerielab, #ilabday, #ilabgirls"
+    hashtags: "#equality, #adv, #keepitvigorsol, #lottosport"
 ---

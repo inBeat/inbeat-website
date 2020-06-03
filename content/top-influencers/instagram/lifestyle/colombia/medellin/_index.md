@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Medellín In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Medellín in 2020. Most popular hashtags: #colombia #medellin #lifestyle #photooftheday.
+  Find top lifestyle Instagram influencers in Medellín in 2020. Most popular hashtags: #lifestyle #medellin #bogota #quedateencasa.
 platform: Instagram
 profiles:
-  - username: "angela_bonilla_"
+  - username: "angelicaalmanzara"
     fullname: >-
-      Angel Bonilla💫
+      Angélica Almánzar A
     location: "Colombia"
-    followers: 15313
-    engagement: 908
-    commentsToLikes: 0.032445
-    id: ck5pvbheuh2lh0i11cxmrdv0u
+    followers: 47581
+    engagement: 412
+    commentsToLikes: 0.030357
+    id: ckap4srbu8pcd0i78wb4ipbmq
     verified: false
-    hashtags: "#colors, #orange, #latina, #grungefeed"
-  - username: "frangutierrez_cf"
+    hashtags: "#locurachallenge, #quedateentuputacasa, #hazteuncambiodelook, #sinmiedo"
+  - username: "fabrilemus"
     fullname: >-
-      Francisco G.
+      Fabri Lemus
     location: "Colombia"
-    followers: 30106
-    engagement: 44
-    commentsToLikes: 0.046426
-    id: ck15ul7npnq9m0i19uqfva6ao
-    verified: false
-    hashtags: "#macronurientes, #nutriton, #carbohidratosimples, #homeworkouts"
-  - username: "lucius.ph"
+    followers: 1576362
+    engagement: 168
+    commentsToLikes: 0.005609
+    id: ck15rz5n6afh80i199v3g2rl7
+    verified: true
+    hashtags: "#volar, #vivirviajando, #palenqueras, #beso"
+  - username: "carolinalgg"
     fullname: >-
-      ・ＬＵＣＩＵＳ • ＰＨ・
+      C A R O L I N A    G Ó M E Z ☆
     location: "Colombia"
-    followers: 2176
-    engagement: 1502
-    commentsToLikes: 0.049186
-    id: ck5zknppsjtci0i149c4cckq6
+    followers: 39953
+    engagement: 344
+    commentsToLikes: 0.112828
+    id: ck8tcvfbv0u3j0j78355yt6t5
     verified: false
-    hashtags: "#lifestyle, #thinkverylittle, #colombia, #medellin"
+    hashtags: "#pereira, #beautytips, #esperando, #collage"
   - username: "dr.tonni"
     fullname: >-
       GORDO PERO CHIMBA MI AMOR
     location: "Colombia"
-    followers: 251028
-    engagement: 537
-    commentsToLikes: 0.024576
+    followers: 1734108
+    engagement: 999
+    commentsToLikes: 0.018024
     id: ck8wg6z05gu3j0j78mcrw9qau
     verified: false
-    hashtags: "#comedia, #fyp, #blondehair, #fryp"
-  - username: "manumontoz"
-    fullname: >-
-      MANU MONTOYA🦋
-    location: "Colombia"
-    followers: 436880
-    engagement: 185
-    commentsToLikes: 0.029507
-    id: ck5zutgbp30cx0i14hmrkznmq
-    verified: false
-    hashtags: "#abh, #instagirls, #makeupmoodboards, #lipicing"
+    hashtags: "#cuarentena, #cuidateencasa, #covid, #quarantine"
   - username: "alejalopezmusic"
     fullname: >-
       ALEJA LOPEZ
     location: "Colombia"
-    followers: 41113
-    engagement: 329
-    commentsToLikes: 0.042218
+    followers: 43009
+    engagement: 338
+    commentsToLikes: 0.052504
     id: ck5ztq3p30x210i146rehofxe
     verified: false
-    hashtags: "#bauty, #lifestyle, #comingsoon, #violinist"
-  - username: "danielrestrepogarcia"
+    hashtags: "#fridaymood, #newsong, #colombianartist, #thursdaymood"
+  - username: "raulmejia320"
     fullname: >-
-      Daniel Restrepo Garcia
+      Raul Mejia
     location: "Colombia"
-    followers: 8829
-    engagement: 1259
-    commentsToLikes: 0.010171
-    id: ck8sxy4w6j33z0j78bo5e1iqo
+    followers: 18108
+    engagement: 216
+    commentsToLikes: 0.337615
+    id: ck8sxh8y2hdyv0j787web52ew
     verified: false
-    hashtags: "#motivation, #lifestyle, #coomevamp, #life"
-  - username: "mariapaulamorenoc"
+    hashtags: "#beauty, #angel, #glory, #selfie"
+  - username: "tatianalizarazo"
     fullname: >-
-      Maria Paula Moreno Con
+      Tati ♡ Lizarazo
     location: "Colombia"
-    followers: 23073
-    engagement: 264
-    commentsToLikes: 0.053806
-    id: ck6ufpfq7ydyb0j718ltxu87e
+    followers: 91069
+    engagement: 252
+    commentsToLikes: 0.017254
+    id: ckap8dquenvqz0i78t3e6nm4o
     verified: false
-    hashtags: "#girlaroundtheworld, #portraitphotography, #hairfit, #cuarentena"
-  - username: "steffyofficial"
+    hashtags: "#stayhome, #cincuentenamood"
+  - username: "hqpola"
     fullname: >-
-      Steffy Moreno
+      ✖️•🌻 ραυℓα αndreα αrιαѕ 🌻•✖️
     location: "Colombia"
-    followers: 347626
-    engagement: 274
-    commentsToLikes: 0.032093
-    id: ck6udohjom9rk0j71tlc3a4qe
+    followers: 14037
+    engagement: 1047
+    commentsToLikes: 0.026008
+    id: ck8tcfdqpza0x0j78xunol1az
     verified: false
-    hashtags: "#elgrupaso, #colombia, #editorachicomambo, #music"
-  - username: "camicartagena6"
+    hashtags: "#aestetic, #homephotoshoot, #girlstattoos, #kidsfashion"
+  - username: "jacobofranco"
     fullname: >-
-      Maria Camila Cartagena Tejada
+      Jacobo Franco | Lifestyle
     location: "Colombia"
-    followers: 115675
-    engagement: 337
-    commentsToLikes: 0.007552
-    id: ck6tn8if39cd20j71zhwra4mo
+    followers: 18069
+    engagement: 238
+    commentsToLikes: 0.169579
+    id: ck55klcw4zkxq0i11389cxfwv
     verified: false
-    hashtags: "#powergirl, #sefeliz, #relaxtime, #motivacion"
+    hashtags: "#electronicmusic, #insomnio, #medellincolombia, #gammer"
+  - username: "carlosmarcanoficial"
+    fullname: >-
+      Carlos Marcano Oficial
+    location: "Colombia"
+    followers: 15512
+    engagement: 513
+    commentsToLikes: 0.083952
+    id: ck5cazmy6efqt0i119h1ygu88
+    verified: false
+    hashtags: "#sailorjupiter, #love, #sailormars, #reinaberyl"
 ---

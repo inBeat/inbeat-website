@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Miami In 2020
 description: >-
-  Find top gardening Instagram influencers in Miami in 2020. Most popular hashtags: #gardening #love #beautiful #miami.
+  Find top gardening Instagram influencers in Miami in 2020. Most popular hashtags: #gardening #miami #love #gardenlife.
 platform: Instagram
 profiles:
   - username: "delectable.day"
     fullname: >-
       TIEN + RUBEN
     location: "United States"
-    followers: 27938
-    engagement: 133
-    commentsToLikes: 0.041056
+    followers: 30350
+    engagement: 184
+    commentsToLikes: 0.045576
     id: ck8t277meye5v0j78lv704r8r
     verified: false
-    hashtags: "#lovemygarden, #fennel, #floridagardener, #gardenharvest"
+    hashtags: "#medicinalplants, #inbloom, #frommygarden, #crazyplantlady"
+  - username: "stephanie_seban"
+    fullname: >-
+      S T E P H A N I E
+    location: "United States"
+    followers: 11203
+    engagement: 678
+    commentsToLikes: 0.127068
+    id: ck13cz2pu2ujc0i19h2le65sw
+    verified: false
+    hashtags: "#blessed, #40thbirthday, #turksandcaicosislands, #love"
   - username: "samchampion"
     fullname: >-
       Sam Champion
     location: "United States"
-    followers: 135403
-    engagement: 352
-    commentsToLikes: 0.060009
+    followers: 136712
+    engagement: 357
+    commentsToLikes: 0.061497
     id: ck15uvkbmopnw0i19grc22bdg
     verified: true
-    hashtags: "#france, #steelmagnolia, #rooftopgarden, #cleaneverything"
-  - username: "garden_passion.love"
+    hashtags: "#dayoff, #keepourdistance, #rose, #englishroses"
+  - username: "lizacode"
     fullname: >-
-      Garden
+      Liza
     location: "United States"
-    followers: 24978
-    engagement: 98
-    commentsToLikes: 0.011259
-    id: ck0w027isc0su0i192hd9ebne
+    followers: 9526
+    engagement: 955
+    commentsToLikes: 0.035311
+    id: ck8tdfe9u35gl0j78k6f7ebua
     verified: false
-    hashtags: "#gardeningtips, #gardeningaustralia, #gardeningclass, #mygarden"
-  - username: "kellieisthebest"
+    hashtags: "#artforsale, #techfuture, #programmerslife, #miami"
+  - username: "gillesmarini"
     fullname: >-
-      KΣᄂᄂZ
+      Gilles Marini
     location: "United States"
-    followers: 15461
-    engagement: 260
-    commentsToLikes: 0.095576
-    id: ck6tnnx60a7zo0j71ighgxrzv
-    verified: false
-    hashtags: "#fullbasket, #beautiful, #modelingagency, #strongmomma"
-  - username: "sarahamandabray"
+    followers: 120415
+    engagement: 222
+    commentsToLikes: 0.035895
+    id: ck5hk11dqhlm70i111cjbq0df
+    verified: true
+    hashtags: "#hairstyles, #borabora, #gardening, #offgrid"
+  - username: "mbdonahoe"
     fullname: >-
-      Sarah Bray
+      Mary Beth Donahoe || MBD
     location: "United States"
-    followers: 30715
-    engagement: 209
-    commentsToLikes: 0.034857
-    id: ck0vwfq2gtgy30i19tglnb18m
+    followers: 3548
+    engagement: 1906
+    commentsToLikes: 0.034602
+    id: ck5c5y7954d9p0i11zgu08ua0
     verified: false
-    hashtags: "#englishgardens, #englishcountryside, #greenhouses, #hazenco"
-  - username: "prestigetree"
+    hashtags: "#yoafrica, #batb1516, #bighairdontcare, #weliveinahouse"
+  - username: "theawkwardbloggers"
     fullname: >-
-      Ty
+      Miami Living
     location: "United States"
-    followers: 183068
-    engagement: 55
-    commentsToLikes: 0.001352
-    id: ck14j2dqfia8c0i19i6xf8k6v
+    followers: 2736
+    engagement: 1168
+    commentsToLikes: 0.188219
+    id: ckapcpnw84p4u0i78e8rendom
     verified: false
-    hashtags: "#mexico, #plant, #spirits, #hula"
-  - username: "tim_easton"
+    hashtags: "#disneyworld, #craftcocktails, #cheesecake, #sweettooth"
+  - username: "dayanarapr"
     fullname: >-
-      Tim Easton
+      Dayanara Torres
     location: "United States"
-    followers: 3078
-    engagement: 981
-    commentsToLikes: 0.088787
-    id: ck0vwzcfnwcds0i1944hqnhh8
-    verified: false
-    hashtags: "#legend, #herindoors, #thefavourites, #polaroid"
-  - username: "abodi_official_"
+    followers: 1470148
+    engagement: 84
+    commentsToLikes: 0.031711
+    id: ck0ty8q62lxuf0i19i3ckonl3
+    verified: true
+    hashtags: "#losamo, #hope, #support, #despuesdelamisa"
+  - username: "hmrdesigns"
     fullname: >-
-      ABODI
+      HMR Designs
     location: "United States"
-    followers: 20388
-    engagement: 443
-    commentsToLikes: 0.002986
-    id: ck6tzutqec07u0j71ru743zwq
+    followers: 48837
+    engagement: 148
+    commentsToLikes: 0.020249
+    id: ck0vz2eaj6y0u0i19l7cfn675
     verified: false
-    hashtags: "#stayhome, #glamour, #miamivibes, #stanlee"
-  - username: "theatomicranch"
+    hashtags: "#wood, #home, #scentedcandles, #ballroom"
+  - username: "tarametblog"
     fullname: >-
-      Atomic Ranch
+      Tara Settembre | BLOGGER 👩🏼‍💻
     location: "United States"
-    followers: 107240
-    engagement: 166
-    commentsToLikes: 0.006571
-    id: ck137c0dxasdr0i1977z432yb
+    followers: 34247
+    engagement: 226
+    commentsToLikes: 0.081080
+    id: ck6u3jyu4y87a0j712pl1zimc
     verified: false
-    hashtags: "#stayhome, #midmod, #armiratia, #retrohome"
-  - username: "theladywholunches"
-    fullname: >-
-      Jenna Ingalls
-    location: "United States"
-    followers: 3503
-    engagement: 1228
-    commentsToLikes: 0.110915
-    id: ck5zobjeqq6wu0i146qvnwtx8
-    verified: false
-    hashtags: "#knittingforolive, #sizeinclusive, #westknits, #knitfastdiewarm"
+    hashtags: "#huffposttaste, #abmstyle, #suckit, #booklover"
 ---

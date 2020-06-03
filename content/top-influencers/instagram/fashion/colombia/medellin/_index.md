@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Medellín In 2020
 description: >-
-  Find top fashion Instagram influencers in Medellín in 2020. Most popular hashtags: #fashion #makeup #medellin #photooftheday.
+  Find top fashion Instagram influencers in Medellín in 2020. Most popular hashtags: #fashion #medellin #tbt #happy.
 platform: Instagram
 profiles:
-  - username: "camiavellam"
+  - username: "estefigomez11"
     fullname: >-
-      Camila Avella M 🦀
+      Estefania Gomez Actriz
     location: "Colombia"
-    followers: 354815
-    engagement: 220
-    commentsToLikes: 0.009240
-    id: ck5c0pucztm3s0i11gxfqsu1r
+    followers: 1291321
+    engagement: 216
+    commentsToLikes: 0.007074
+    id: ck6ub5afg7jsm0j71nm0m1zrp
     verified: true
-    hashtags: "#mondayvibes, #quarantine, #desafiosuperhumanos2018, #medellin"
-  - username: "iamsebasquintero"
+    hashtags: "#healthylifestyle, #medelli, #mujer, #like4like"
+  - username: "beatrizguerrerot"
     fullname: >-
-      Sebas Quintero 🇨🇴
+      Beatriz Guerrero
     location: "Colombia"
-    followers: 33678
-    engagement: 134
-    commentsToLikes: 0.011482
-    id: ck5ceserplmbt0i114va3kt1a
+    followers: 2513
+    engagement: 1293
+    commentsToLikes: 0.036670
+    id: ck139h3zul9n40i19tmlhygv8
     verified: false
-    hashtags: "#jewerly, #colombia, #gold, #madeinmedellin"
-  - username: "ferriveraruiz"
+    hashtags: "#mompoxjazzfestival, #colombiatex, #colombiamoda2019, #memoriasdeltropico"
+  - username: "fabianarenare"
     fullname: >-
-      Fernando Rivera
+      Fabiana Arenare
     location: "Colombia"
-    followers: 41552
-    engagement: 80
-    commentsToLikes: 0.036316
-    id: ck14k0520n1tm0i19mw92y2yp
+    followers: 10209
+    engagement: 521
+    commentsToLikes: 0.034483
+    id: ck6tnsws2aic60j717tws3fj3
     verified: false
-    hashtags: "#actoral, #fashionista, #makeupideas, #cediel"
-  - username: "dignerys_24"
+    hashtags: "#getinmybelly, #stayhome, #yomequedoencasa, #covid19"
+  - username: "hqpola"
     fullname: >-
-      Dignerys Díaz
+      ✖️•🌻 ραυℓα αndreα αrιαѕ 🌻•✖️
     location: "Colombia"
-    followers: 8063
-    engagement: 641
-    commentsToLikes: 0.151367
-    id: ck6u83a16p6s20j710ftjd1b7
+    followers: 14037
+    engagement: 1047
+    commentsToLikes: 0.026008
+    id: ck8tcfdqpza0x0j78xunol1az
     verified: false
-    hashtags: "#cute, #inspitacion, #instahair, #cuarentena"
+    hashtags: "#aestetic, #homephotoshoot, #girlstattoos, #kidsfashion"
+  - username: "sandraposa"
+    fullname: >-
+      sandraposa
+    location: "Colombia"
+    followers: 203256
+    engagement: 145
+    commentsToLikes: 0.032032
+    id: ck14lnztdvm9f0i191w4gizym
+    verified: false
+    hashtags: "#julieta, #energia, #mamaehijos, #vicente"
+  - username: "danicalo19"
+    fullname: >-
+      Fitfitfit
+    location: "Colombia"
+    followers: 200802
+    engagement: 141
+    commentsToLikes: 0.025997
+    id: ck5qck0ebqyis0i11qv5ut1pj
+    verified: false
+    hashtags: "#monday, #sabado, #picoftheday, #food"
+  - username: "senor.viajero"
+    fullname: >-
+      Señor Viajero
+    location: "Colombia"
+    followers: 16342
+    engagement: 956
+    commentsToLikes: 0.117252
+    id: ck5hrs6icvdyt0i1172mzn954
+    verified: false
+    hashtags: "#charala, #jurassicpark, #lagoon, #neon"
+  - username: "ourdailylivesg"
+    fullname: >-
+      JOSE Y CAMI
+    location: "Colombia"
+    followers: 92422
+    engagement: 784
+    commentsToLikes: 0.039095
+    id: ck5qadgslfto80i11itf10evo
+    verified: false
+    hashtags: "#spadayathome, #mothersday, #pranks, #customized"
+  - username: "mercycollazos"
+    fullname: >-
+      𝐌𝐄𝐑𝐂𝐘 𝐂𝐎𝐋𝐋𝐀𝐙𝐎𝐒
+    location: "Colombia"
+    followers: 334641
+    engagement: 304
+    commentsToLikes: 0.047635
+    id: ck5zwywji70s00i145ywx3tbh
+    verified: false
+    hashtags: "#playa, #bikini, #glamping, #star"
   - username: "davsierra"
     fullname: >-
       David Sierra
     location: "Colombia"
-    followers: 2735
-    engagement: 1185
-    commentsToLikes: 0.046833
+    followers: 2863
+    engagement: 1295
+    commentsToLikes: 0.043535
     id: ck5zo0eo2pi9t0i142fscpnon
     verified: false
-    hashtags: "#tbt, #photooftheday, #dancevideo, #happynewyear"
-  - username: "makerandy"
-    fullname: >-
-      Fotografia Bogotá
-    location: "Colombia"
-    followers: 70062
-    engagement: 445
-    commentsToLikes: 0.009597
-    id: ck139x61mnkec0i190vq1alv5
-    verified: false
-    hashtags: "#modafemenina, #izmir, #pose, #rubioscoastalgrill"
-  - username: "ilmio_of"
-    fullname: >-
-      𝐀𝐍𝐀 𝐌𝐀𝐑𝐈𝐀 𝐁𝐎𝐍𝐈𝐋𝐋𝐀
-    location: "Colombia"
-    followers: 43222
-    engagement: 362
-    commentsToLikes: 0.059355
-    id: ck6ub58fr7jg10j71j2v6lxuh
-    verified: false
-    hashtags: "#throwbackthursday, #blackhair, #december, #mybody"
-  - username: "manumontoz"
-    fullname: >-
-      MANU MONTOYA🦋
-    location: "Colombia"
-    followers: 436880
-    engagement: 185
-    commentsToLikes: 0.029507
-    id: ck5zutgbp30cx0i14hmrkznmq
-    verified: false
-    hashtags: "#abh, #instagirls, #makeupmoodboards, #lipicing"
-  - username: "mariapaulamorenoc"
-    fullname: >-
-      Maria Paula Moreno Con
-    location: "Colombia"
-    followers: 23073
-    engagement: 264
-    commentsToLikes: 0.053806
-    id: ck6ufpfq7ydyb0j718ltxu87e
-    verified: false
-    hashtags: "#girlaroundtheworld, #portraitphotography, #hairfit, #cuarentena"
-  - username: "brigituks"
-    fullname: >-
-      ☆ Brigita Maldutytė ☆ ♊️
-    location: "Colombia"
-    followers: 10240
-    engagement: 411
-    commentsToLikes: 0.025969
-    id: ck0ude8giiy7a0i19zhg7dm27
-    verified: false
-    hashtags: "#curls, #lunes, #natural, #medellin"
+    hashtags: "#choreography, #fotografia, #pose, #nadiemequitalobailao"
 ---

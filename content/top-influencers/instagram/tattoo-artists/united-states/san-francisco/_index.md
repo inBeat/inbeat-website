@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in San Francisco in 2020. Most popular hashtags: #tattoo #tattooartist #bayareatattooartist #tattoos.
+  Find top tattoo-artists Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #artist #tattoos #stayhome.
 platform: Instagram
 profiles:
-  - username: "oliver_kenton"
+  - username: "flipshades"
     fullname: >-
-      Oliver Kenton
+      Ol’ Snake Face
     location: "United States"
-    followers: 38149
-    engagement: 161
-    commentsToLikes: 0.019058
-    id: ck6ts9uiz3jys0j71wayrxxxy
+    followers: 24603
+    engagement: 296
+    commentsToLikes: 0.044910
+    id: ck5hk216whnh00i11l1vhnk12
     verified: false
-    hashtags: "#cheyenne, #blackclaw, #blackouttattoo, #finelinetattoo"
+    hashtags: "#sanfrancisco, #microdose, #texas, #quarantine"
+  - username: "bakon_one"
+    fullname: >-
+      Joey
+    location: "United States"
+    followers: 33668
+    engagement: 371
+    commentsToLikes: 0.018282
+    id: ck0tvqnhacfq80i192gemsjtg
+    verified: false
+    hashtags: "#tattoos, #puttininwork, #sanfrancisco49ers, #ninergang"
   - username: "_brucius_"
     fullname: >-
       𝕭𝖗𝖚̈𝖈𝖎𝖚𝖘
     location: "United States"
-    followers: 34565
-    engagement: 203
-    commentsToLikes: 0.018803
+    followers: 34430
+    engagement: 202
+    commentsToLikes: 0.022134
     id: ck13b3lagti470i197yhqp2n0
     verified: false
-    hashtags: "#flowertattoo, #tattooartist, #bayareatattooartist, #bayareatattoo"
-  - username: "gabe_weis"
-    fullname: >-
-      Bay Area Artist
-    location: "United States"
-    followers: 44232
-    engagement: 563
-    commentsToLikes: 0.020787
-    id: ck0udowowji280i19j5ac09ra
-    verified: false
-    hashtags: "#bayareaartist, #blackandwhite, #bayareart, #artagent"
-  - username: "inked.exclusives"
-    fullname: >-
-      
-    location: "United States"
-    followers: 30762
-    engagement: 70
-    commentsToLikes: 0.003824
-    id: ck5cffuv2mvc10i116l0bvdiq
-    verified: false
-    hashtags: "#inkedbabe, #pretty, #dmade, #inkedmodels"
-  - username: "joetattcruz"
-    fullname: >-
-      Owner @giftofdesign
-    location: "United States"
-    followers: 43000
-    engagement: 142
-    commentsToLikes: 0.011598
-    id: ck601p3lnfwot0i14s3kez0ub
-    verified: false
-    hashtags: "#ie, #ragnarlothbrok, #bishop, #yayarea"
-  - username: "figabomba_waikiki_erika"
-    fullname: >-
-      Erika Figabomba
-    location: "United States"
-    followers: 65896
-    engagement: 131
-    commentsToLikes: 0.010248
-    id: ck5hdui8ipfwo0i11zgv54azn
-    verified: false
-    hashtags: "#rolemodel, #transfarmer, #afropunk, #abandonedtrain"
-  - username: "jakabtattoo"
-    fullname: >-
-      Dezső Jakab
-    location: "United States"
-    followers: 21018
-    engagement: 601
-    commentsToLikes: 0.011666
-    id: ck6ts9w5x3k9q0j71aw8sred2
-    verified: false
-    hashtags: "#geometrip, #blackworkerssubmission, #tattooing, #dotworktattoos"
-  - username: "kumbia_ink"
-    fullname: >-
-      Kumbia Cortes 🇲🇽
-    location: "United States"
-    followers: 44540
-    engagement: 270
-    commentsToLikes: 0.054075
-    id: ck5bys5y1pqpw0i11lx6hh8x5
-    verified: false
-    hashtags: "#phoenixtattoo, #utahtattooartist, #beautiful, #albuquerque"
+    hashtags: "#tattooartist, #bayareatattooartist, #lineworktattoo, #tattrx"
   - username: "whotattooedyou"
     fullname: >-
       🤡WHO TATTOO🤡 SAN FRANCISCO, CA
     location: "United States"
-    followers: 14904
-    engagement: 845
-    commentsToLikes: 0.011562
+    followers: 18453
+    engagement: 1038
+    commentsToLikes: 0.008307
     id: ck6u3x9oa0exh0j7130mkwc2z
     verified: false
-    hashtags: "#spacetattoo, #clown, #bubblegum, #risograph"
-  - username: "gareth.egan"
+    hashtags: "#texastattoo, #kawaiitattoo, #weirdmakeup, #cutetattoos"
+  - username: "jessicasorentang"
     fullname: >-
-      Gareth Egan
+      Jessica So Ren Tang
     location: "United States"
-    followers: 98216
-    engagement: 101
-    commentsToLikes: 0.019453
-    id: ck134z303yw880i19xu1y8287
+    followers: 49011
+    engagement: 218
+    commentsToLikes: 0.011582
+    id: ck5zmskzen5ab0i14eahlzvoa
     verified: false
-    hashtags: "#quotes4you, #bookstore, #paperback, #truebeauty"
+    hashtags: "#pictureframe, #femme, #dmcembroidery, #photo"
+  - username: "ianreynold"
+    fullname: >-
+      Ian Reynold
+    location: "United States"
+    followers: 27873
+    engagement: 195
+    commentsToLikes: 0.012176
+    id: ck0w0edr7drx50i19iyu1qy3r
+    verified: false
+    hashtags: "#covid, #booksopen, #hibiscus, #mountaintattoo"
+  - username: "leofortexxx"
+    fullname: >-
+      Leo Forte: Videographer Model
+    location: "United States"
+    followers: 25998
+    engagement: 122
+    commentsToLikes: 0.027233
+    id: ck0u2f27ozqny0i19usy7h8jy
+    verified: false
+    hashtags: "#thirsty, #dogdinner, #booty, #homothug"
+  - username: "hexhillstudiosfx"
+    fullname: >-
+      HEXHILL STUDIOS
+    location: "United States"
+    followers: 20880
+    engagement: 340
+    commentsToLikes: 0.010485
+    id: ck15rzcgwaghe0i19fdy519zr
+    verified: false
+    hashtags: "#summer, #prague, #artist, #tattoos"
+  - username: "jermie_jerms"
+    fullname: >-
+      💎 Jeremy (𝕵𝖊𝖗𝖒) Co
+    location: "United States"
+    followers: 11886
+    engagement: 1052
+    commentsToLikes: 0.023491
+    id: ck14htklvc2hb0i198p9yir8y
+    verified: false
+    hashtags: "#bandmerch, #tattooed, #design, #gundam"
+  - username: "akb_future"
+    fullname: >-
+      Angelo| Tattoo Booking Manager
+    location: "United States"
+    followers: 29253
+    engagement: 210
+    commentsToLikes: 0.006730
+    id: ck9h9t0g99um30j78l13zyywz
+    verified: false
+    hashtags: "#igtattoos, #tattedup, #tattooed, #womenwithtattoos"
 ---

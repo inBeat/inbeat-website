@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Milan In 2020
 description: >-
-  Find top christian Instagram influencers in Milan in 2020. Most popular hashtags: #milano #curvasudmilano #italy #iorestoacasa.
+  Find top christian Instagram influencers in Milan in 2020. Most popular hashtags: #quarantine #smile #portrait #streetwear.
 platform: Instagram
 profiles:
+  - username: "steghiso"
+    fullname: >-
+      Stefano Ghisolfi
+    location: "Italy"
+    followers: 142601
+    engagement: 313
+    commentsToLikes: 0.005588
+    id: ck13axytrsqg50i193fucv9ff
+    verified: true
+    hashtags: "#xc40, #volvoxc40, #volvo, #getalifeindoor"
   - username: "eijakkinn"
     fullname: >-
       
     location: "Italy"
-    followers: 4413
-    engagement: 1845
-    commentsToLikes: 0.029733
+    followers: 5123
+    engagement: 1579
+    commentsToLikes: 0.029089
     id: ck6tpin5zk31j0j71qvuaxd9r
     verified: false
     hashtags: ""
-  - username: "laccioland"
-    fullname: >-
-      laccioland
-    location: "Italy"
-    followers: 27768
-    engagement: 197
-    commentsToLikes: 0.043552
-    id: ck6tnnknja79b0j71iiah1pqv
-    verified: false
-    hashtags: "#wife, #chireographer, #privato, #mantova"
-  - username: "nico__white_"
-    fullname: >-
-      NICO WHITE
-    location: "Italy"
-    followers: 46828
-    engagement: 1858
-    commentsToLikes: 3.176755
-    id: ck55o44qj7lha0i11yfbl1dic
-    verified: false
-    hashtags: "#supremenewyork, #boxlogo, #london"
   - username: "alexcologno"
     fullname: >-
       Alex Cologno
     location: "Italy"
-    followers: 17924
-    engagement: 466
-    commentsToLikes: 0.009838
+    followers: 17925
+    engagement: 459
+    commentsToLikes: 0.009543
     id: ck15q1snt0oty0i19u64wtx80
     verified: false
-    hashtags: "#happynewyear, #happybirthday, #totalblack, #troppogigietta"
+    hashtags: "#mylife, #armatarossonera, #maisaremoamici, #tiodio"
+  - username: "danieldagrezio"
+    fullname: >-
+      Daniel Dagrezio
+    location: "Italy"
+    followers: 5536
+    engagement: 559
+    commentsToLikes: 0.037642
+    id: ck8t422sn58az0j78050poz6f
+    verified: false
+    hashtags: "#pianoplaying, #casadicarta, #milanoeventi, #memomusicclub"
   - username: "mxrlsricky"
     fullname: >-
       R I C C A R D O  R U G G E R I
     location: "Italy"
-    followers: 19331
-    engagement: 891
-    commentsToLikes: 1.897803
+    followers: 21893
+    engagement: 773
+    commentsToLikes: 2.750174
     id: ck1357ljm03lh0i19dpa23b34
     verified: false
-    hashtags: "#futurerider, #streetwearbrand, #streetbeast, #offwhite"
-  - username: "aigscream"
+    hashtags: "#airmaxday, #halloweenmakeup, #supreme, #airmax90"
+  - username: "nico__white_"
     fullname: >-
-      Lorenzo Pinciroli
+      NICO WHITE
     location: "Italy"
-    followers: 64512
-    engagement: 292
-    commentsToLikes: 0.015912
-    id: ck0vxroad0dic0i19yikwn8wd
+    followers: 52457
+    engagement: 1514
+    commentsToLikes: 3.434473
+    id: ck55o44qj7lha0i11yfbl1dic
     verified: false
-    hashtags: "#noexplanationneeded, #world, #risingstars, #summer"
-  - username: "lookatsascha"
+    hashtags: "#sneakrskickcheck"
+  - username: "christianfagetti"
     fullname: >-
-      Sascha Burci - Anima
+      CHRISTIAN FAGETTI
     location: "Italy"
-    followers: 2323077
-    engagement: 584
-    commentsToLikes: 0.005880
-    id: ck6011f43eo6a0i147ovtfis0
-    verified: true
-    hashtags: "#adv, #duomo, #stunts, #viral"
-  - username: "pizza_napoletana_stg"
-    fullname: >-
-      Pizza napoletana
-    location: "Italy"
-    followers: 33421
-    engagement: 521
-    commentsToLikes: 0.010537
-    id: ck0vx3xbjx0or0i1941letnll
+    followers: 6875
+    engagement: 819
+    commentsToLikes: 0.023710
+    id: ckap1p5e0viac0i78m7d71qkx
     verified: false
-    hashtags: "#napolinelmondo, #stg, #firenze, #sweden"
-  - username: "volgolombardia"
+    hashtags: "#grato, #balletclass, #tiktok, #festadellamamma"
+  - username: "nood_real"
     fullname: >-
-      Volgo Lombardia
+      Nood
     location: "Italy"
-    followers: 29810
-    engagement: 208
-    commentsToLikes: 0.011788
-    id: ck0tszvhc0jnv0i19nmadmp08
+    followers: 15409
+    engagement: 407
+    commentsToLikes: 0.035889
+    id: ck15psczuzere0i19yehow74d
     verified: false
-    hashtags: "#volgopavia, #bergamo, #monza, #yallerslombardia"
-  - username: "laracaprotti"
+    hashtags: "#psicologi, #trapmusic, #videoitaliani, #joker"
+  - username: "tobymartinus"
     fullname: >-
-      L A R A   C A P R O T T I
+      Toby
     location: "Italy"
-    followers: 25279
-    engagement: 377
-    commentsToLikes: 0.094059
-    id: ck5cg4sa8o5tc0i11wxxe5gyl
+    followers: 10094
+    engagement: 4994
+    commentsToLikes: 0.007585
+    id: ckap56grlae0i0i78rm6xhxib
     verified: false
-    hashtags: "#enjoy, #singer, #chillin, #nofear"
+    hashtags: "#smile, #newwayoflife, #newjob, #green"
+  - username: "christianpizzinini"
+    fullname: >-
+      Christian Pizzinini
+    location: "Italy"
+    followers: 17617
+    engagement: 430
+    commentsToLikes: 0.031618
+    id: ck6totnmqg1sp0j71or8oanzo
+    verified: false
+    hashtags: "#greek, #spettacolo, #pedalo, #flowermagic"
 ---

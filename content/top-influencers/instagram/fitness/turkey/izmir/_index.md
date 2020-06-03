@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Izmir In 2020
 description: >-
-  Find top fitness Instagram influencers in Izmir in 2020. Most popular hashtags: #fitness #izmir #love #evdekal.
+  Find top fitness Instagram influencers in Izmir in 2020. Most popular hashtags: #fitness #izmir #like #bodybuilding.
 platform: Instagram
 profiles:
-  - username: "ecemliblog"
+  - username: "derya___kaya___"
     fullname: >-
-      Ecem
+      𝓓𝓮𝓻𝔂𝓪 𝓴𝓪𝔂𝓪 ✨
     location: "Turkey"
-    followers: 53201
-    engagement: 586
-    commentsToLikes: 0.027425
-    id: ck5q9yjjvdno50i11z48b5sxq
+    followers: 43088
+    engagement: 227
+    commentsToLikes: 0.002881
+    id: ckap3ajh728lr0i78dydv2zrz
     verified: false
-    hashtags: "#evyap, #eatright, #diyetteyim, #saglikliyasam"
-  - username: "canatessacan"
+    hashtags: "#model, #mycaudaliebox, #love, #homemade"
+  - username: "dszgn"
     fullname: >-
-      C A N  A T E Ş S A Ç A N
+      Deniz Sezgin
     location: "Turkey"
-    followers: 40099
-    engagement: 127
-    commentsToLikes: 0.123807
-    id: ck5q04pku48ho0i11x6vhthjk
+    followers: 6371
+    engagement: 1140
+    commentsToLikes: 0.139959
+    id: ck9hbt3usibwo0j78r1etvy9n
     verified: false
-    hashtags: "#minox, #gzone, #fjallravenkanken, #deutschland"
-  - username: "mmehmmety"
+    hashtags: "#yeni, #visit, #haircolor, #girl"
+  - username: "zjgulen"
     fullname: >-
-      Mehmet YÜKSEL | ONLINE COACH
+      Gülen Arzuman
     location: "Turkey"
-    followers: 14088
-    engagement: 1066
-    commentsToLikes: 0.008652
-    id: ck6u8r10mt5zj0j714t8jkod9
+    followers: 22157
+    engagement: 554
+    commentsToLikes: 0.064006
+    id: ck5hp1iycqlia0i11bt4xln7y
     verified: false
-    hashtags: "#humatrope, #commentsforcomments, #comment, #bulk"
-  - username: "filizaydinc"
-    fullname: >-
-      Filiz Aydinc
-    location: "Turkey"
-    followers: 142166
-    engagement: 91
-    commentsToLikes: 0.042985
-    id: ck8tcx2q310ih0j78uv4lrp1k
-    verified: false
-    hashtags: "#explore, #sea, #tabiat, #goodthoughts"
+    hashtags: "#izmir, #muchacha, #cute, #dogslover"
   - username: "zeynepseenell"
     fullname: >-
-      Zeynep Şenel
+      
     location: "Turkey"
-    followers: 5741
-    engagement: 1685
-    commentsToLikes: 0.017491
+    followers: 5673
+    engagement: 1614
+    commentsToLikes: 0.020053
     id: ck8t38n942c2g0j78nnsp53l2
     verified: false
-    hashtags: "#edin, #ruzgar, #cnzburak, #karpuz"
-  - username: "fthcyln._"
+    hashtags: "#efsanelerveger, #sehidimizvar, #pembe, #komikvideolar"
+  - username: "ssemaakbulut"
     fullname: >-
-      Fth CYLN
+      Sema akbulut
     location: "Turkey"
-    followers: 5459
-    engagement: 937
-    commentsToLikes: 0.162932
-    id: ck8td8g6m2br90j78v99cz6pp
+    followers: 6451
+    engagement: 1002
+    commentsToLikes: 0.018554
+    id: ck8t5erco9wkq0j7871hkqo84
     verified: false
-    hashtags: "#darkchantinggoshawk, #instafoto, #birds, #19"
-  - username: "bloemen_catering"
+    hashtags: "#smilemore, #hound, #selfies, #reminisce"
+  - username: "zayiflama_perisii"
     fullname: >-
-      BLOEMEN_CATERING
+      BİTKİSEL ZAYIFLAMA
     location: "Turkey"
-    followers: 15755
-    engagement: 307
-    commentsToLikes: 0.159550
-    id: ck8t9f1ounumi0j78vcl7s2bk
+    followers: 36502
+    engagement: 332
+    commentsToLikes: 0.025105
+    id: ck8tbm0sxw6mg0j78lxza6h5b
     verified: false
-    hashtags: "#sarma, #antepf, #turkishfood, #ankara"
-  - username: "iremcesblog"
+    hashtags: "#kafaa, #fitness, #yazgeldihosgeldi00, #ksftblueorf"
+  - username: "erim_karayel"
     fullname: >-
-      İ R E M C E ‘ S   B L O G
+      Erim Karayel
     location: "Turkey"
-    followers: 70553
-    engagement: 263
-    commentsToLikes: 0.042635
-    id: ck15rpxpx93rb0i19pm3ypxw8
+    followers: 8035
+    engagement: 717
+    commentsToLikes: 0.019167
+    id: ck8tbgcjsvjy00j78ej98t6uc
     verified: false
-    hashtags: "#coronaturkiye, #karantinag, #salondekorasyonu, #mutfakdekorasyon"
-  - username: "tufansagnak"
+    hashtags: "#1000gezgin, #ajans, #eyeshadow, #sahne"
+  - username: "tintedtakes"
     fullname: >-
-      Tufan Sağnak
+      Nihal
     location: "Turkey"
-    followers: 5619
-    engagement: 733
-    commentsToLikes: 0.021311
-    id: ck14k5gitntiw0i19es189yvz
+    followers: 11801
+    engagement: 662
+    commentsToLikes: 0.033018
+    id: ck6tqpby1sxw10j71sizukhs3
     verified: false
-    hashtags: "#cyclingclub, #cycling, #masters, #ride"
-  - username: "zumba_duygu"
+    hashtags: "#moody, #lamborghinihuracan, #carporn, #writetotravel"
+  - username: "laura.charlie.elise.verloop"
     fullname: >-
-      Zumba® Duygu Oğan Zin™
+      𝓛𝓪𝓾𝓻𝓪 𝓒𝓱𝓪𝓻𝓵𝓲𝓮 𝓔𝓵𝓲𝓼𝓮 𝓥𝓮𝓻𝓵𝓸𝓸𝓹
     location: "Turkey"
-    followers: 2528
-    engagement: 1378
-    commentsToLikes: 0.068900
-    id: ck5zjemuvhgaf0i14qxjppli3
+    followers: 14290
+    engagement: 275
+    commentsToLikes: 0.037449
+    id: ck5q9xl2hdilf0i11affqpz2g
     verified: false
-    hashtags: "#valentinesday, #happybirthday, #star, #sendromsuzpazartesi"
+    hashtags: "#instagram, #roos, #smell, #hike"
+  - username: "runtheislandbozcaada"
+    fullname: >-
+      Run The Island Bozcaada
+    location: "Turkey"
+    followers: 4612
+    engagement: 155
+    commentsToLikes: 0.015890
+    id: ck0tyhqhcmvhs0i19tfnltnu4
+    verified: false
+    hashtags: "#fitness, #meydanoku, #summeriscoming, #byciclerace"
 ---

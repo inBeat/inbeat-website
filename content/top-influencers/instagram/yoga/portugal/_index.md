@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Portugal In 2020
 description: >-
-  Find top yoga Instagram influencers in Portugal in 2020. Most popular hashtags: #yoga #selflove #portugal #stayhome.
+  Find top yoga Instagram influencers in Portugal in 2020. Most popular hashtags: #yoga #sunday #work #algarve.
 platform: Instagram
 profiles:
   - username: "sarahuactive"
     fullname: >-
       Sara Hu | Fisio, Yoga, Pilates
     location: "Portugal"
-    followers: 9456
-    engagement: 333
-    commentsToLikes: 0.066656
+    followers: 11238
+    engagement: 431
+    commentsToLikes: 0.182179
     id: ck15pm1tayjwr0i19janvpahi
     verified: false
-    hashtags: "#samadhi, #yoga, #wanderlusters, #moonchild"
-  - username: "akeilaamorim"
+    hashtags: "#groundingpose, #treepose, #yogavideos, #giveawaytime"
+  - username: "olmakasia"
     fullname: >-
-      Keila Amorim 🌸
+      Kasia Olma
     location: "Portugal"
-    followers: 20067
-    engagement: 218
-    commentsToLikes: 0.103987
-    id: ck0txfdzaiwel0i19vkfveac1
+    followers: 23034
+    engagement: 883
+    commentsToLikes: 0.160914
+    id: ck5cei4z0l1xe0i11ctu0lvm9
     verified: false
-    hashtags: "#24weeks, #sorrisowells, #pregnant, #24weekspregnant"
-  - username: "aerial.janine"
+    hashtags: "#naturelifestyle, #ficaemcasa, #wildheartslab, #beautifulsea"
+  - username: "idireito"
     fullname: >-
-      Janine
+      Inês Gomes Direito
     location: "Portugal"
-    followers: 17235
-    engagement: 427
-    commentsToLikes: 0.032379
-    id: ck6u3s8xpzkyb0j71ww8rjof7
+    followers: 21689
+    engagement: 335
+    commentsToLikes: 0.144293
+    id: ck9we42r0ihoi0j78g69ssdlt
     verified: false
-    hashtags: "#flying, #iamcommitted, #home, #bake"
+    hashtags: "#gymgirl, #science, #oatmeal, #tulips"
+  - username: "happybrunette"
+    fullname: >-
+      CatarinaLoureiro HappyBrunette
+    location: "Portugal"
+    followers: 26585
+    engagement: 219
+    commentsToLikes: 0.168657
+    id: ck5hdsumgp7bx0i11fmq3uq0s
+    verified: false
+    hashtags: "#pinaple, #needmorewine, #dadandkids, #nala"
+  - username: "lilianasantos"
+    fullname: >-
+      Liliana Santos ♍︎
+    location: "Portugal"
+    followers: 274968
+    engagement: 267
+    commentsToLikes: 0.017579
+    id: ck5zzgtj3bpoe0i14zwqs2f4y
+    verified: true
+    hashtags: "#25abril, #liberdade, #nightnight, #diadamae"
   - username: "lunalene_"
     fullname: >-
-      LENE🌛| MINDFULNESS & VANLIFE
+      LENE🌙| ACHTSAMKEIT & VANLIFE
     location: "Portugal"
-    followers: 18623
-    engagement: 1420
-    commentsToLikes: 0.055113
+    followers: 31383
+    engagement: 1634
+    commentsToLikes: 0.048573
     id: ck5ckbnu2wjjy0i11a2ywc5e4
     verified: false
-    hashtags: "#vanlifers, #wirbleibenzuhause, #couplegoals, #bullireise"
-  - username: "oliviagama1"
+    hashtags: "#yogapractice, #vanlifeeurope, #couplestyle, #vanlifecaptain"
+  - username: "m4ryc4ke"
     fullname: >-
-      Olivia Gama
+      Maria Duarte
     location: "Portugal"
-    followers: 197424
-    engagement: 247
-    commentsToLikes: 0.030299
-    id: ck6twp9g1tb5y0j71tm7r0ryy
+    followers: 12765
+    engagement: 734
+    commentsToLikes: 0.022421
+    id: ck6tnsv2uai8f0j71x7vm60xu
     verified: false
-    hashtags: "#dresstoimpress, #milano, #puglialovers, #festadelladonna"
-  - username: "martinhocferreira"
-    fullname: >-
-      Martinho
-    location: "Portugal"
-    followers: 5349
-    engagement: 2628
-    commentsToLikes: 0.069161
-    id: ck8t8t3n6lpet0j78j29iy7ga
-    verified: false
-    hashtags: "#beardlife, #quarentenaasquatro, #radioobservador, #sofa"
-  - username: "cindyalvarezgarcia989"
-    fullname: >-
-      CINDY ALVAREZ GARCIA
-    location: "Portugal"
-    followers: 358611
-    engagement: 216
-    commentsToLikes: 0.001995
-    id: ck8t01n7hqj1n0j78zzwvapaz
-    verified: true
-    hashtags: "#outfits, #yoga, #yogalife"
-  - username: "isabelacardinali_oficial"
-    fullname: >-
-      𝙄𝙎𝘼𝘽𝙀𝙇𝘼 𝘾𝘼𝙍𝘿𝙄𝙉𝘼𝙇𝙄  ♡
-    location: "Portugal"
-    followers: 143595
-    engagement: 485
-    commentsToLikes: 0.015285
-    id: ck5znus5xp6wz0i14t2ajz7dy
-    verified: true
-    hashtags: "#yogacouple, #tenisfeminino, #fiqueemcasacovid19, #youtube"
+    hashtags: "#barcelona, #needthesea, #kawasaki, #aboutyesterday"
   - username: "tjwellness"
     fullname: >-
       Tine Johansen
     location: "Portugal"
-    followers: 24155
+    followers: 23916
     engagement: 220
-    commentsToLikes: 0.253903
+    commentsToLikes: 0.257602
     id: ck55j3pm1w6vr0i118gtnv0po
     verified: false
-    hashtags: "#selflove, #kidsyoga, #dancervariation, #aloyogachallenge"
-  - username: "zmfreespirit"
+    hashtags: "#ineedsleep, #beachlove, #kiragraceyoga, #floating"
+  - username: "martinhocferreira"
     fullname: >-
-      Manon Z’
+      Martinho
     location: "Portugal"
-    followers: 58212
-    engagement: 673
-    commentsToLikes: 0.024589
-    id: ck13bltgfw1ez0i194yb26kbl
+    followers: 6172
+    engagement: 2374
+    commentsToLikes: 0.044219
+    id: ck8t8t3n6lpet0j78j29iy7ga
     verified: false
-    hashtags: "#holistictattoo, #arttherapy, #ariesgirl, #shining"
+    hashtags: "#freedom, #stock, #earthday, #sociologa"
+  - username: "evelynverraszto"
+    fullname: >-
+      Evelyn Verraszto
+    location: "Portugal"
+    followers: 22811
+    engagement: 305
+    commentsToLikes: 0.003078
+    id: ck5cik1z9ssmo0i11k2b0mu9o
+    verified: false
+    hashtags: "#limitededition, #flatwhite, #granola, #morningsession"
 ---

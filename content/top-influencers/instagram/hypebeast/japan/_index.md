@@ -1,107 +1,107 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Japan In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Japan in 2020. Most popular hashtags: #hypebeast #artofvisuals #way2ill #moodygrams.
+  Find top hypebeast Instagram influencers in Japan in 2020. Most popular hashtags: #hypebeast #agameoftones #visualmobs #sneakerhead.
 platform: Instagram
 profiles:
-  - username: "metron_city"
+  - username: "_pokot_niccur"
     fullname: >-
-      メトロンブログ
+      MARCREY STEEPH
     location: "Japan"
-    followers: 64274
-    engagement: 787
-    commentsToLikes: 0.006579
-    id: ck6tpku4rkfk30j71n2yhd61f
+    followers: 91438
+    engagement: 270
+    commentsToLikes: 0.262071
+    id: ck8td2alq1kdg0j780kbnmrqw
     verified: false
-    hashtags: "#quarantinelife, #tshirtchallenge, #redbull, #abdominales"
+    hashtags: "#igersdaily, #hairtutorial, #igersnairobi, #gainwithhakeem"
+  - username: "offset_cray"
+    fullname: >-
+      AESTHETIC STREETWEAR™
+    location: "Japan"
+    followers: 55336
+    engagement: 318
+    commentsToLikes: 0.047166
+    id: ck6ucmibgggz30j71kiy3cm10
+    verified: false
+    hashtags: "#nairobifashion, #heronpreston, #balenciaga, #publicity254"
   - username: "dj_imanishi"
     fullname: >-
       DJImanishi
     location: "Japan"
-    followers: 3717
-    engagement: 2040
-    commentsToLikes: 0.042518
+    followers: 3630
+    engagement: 2043
+    commentsToLikes: 0.040339
     id: ck0tz39mqp0e10i195uk9vlpx
     verified: false
-    hashtags: "#outfitmen, #supreme, #outfitoftheday, #airmax95"
-  - username: "ssym.ry"
+    hashtags: "#offwhite, #airmax95, #ootd, #freshstreetfits"
+  - username: "timothyrandy"
     fullname: >-
-      SHIMO.®
+      TIMOTHY RANDY
     location: "Japan"
-    followers: 15150
-    engagement: 461
-    commentsToLikes: 0.026664
-    id: ck8tdknt63pao0j78ct3jbv0m
-    verified: false
-    hashtags: "#fpar, #wdywt, #sweater, #fashiongram"
+    followers: 92198
+    engagement: 669
+    commentsToLikes: 0.048282
+    id: ck0w2jl79op2i0i19dh3ep8ma
+    verified: true
+    hashtags: "#sneakercollection, #sneakerhead, #netflixshows, #hypebeast"
   - username: "yy_syokora228"
     fullname: >-
-      YUYA
+      𝓨𝓤𝓨𝓐
     location: "Japan"
-    followers: 15798
-    engagement: 725
-    commentsToLikes: 0.004220
+    followers: 15913
+    engagement: 596
+    commentsToLikes: 0.003883
     id: ck5zq26hotslv0i14q3v5rfhq
     verified: false
-    hashtags: "#force1, #sneakercustoms, #adidas, #jesusking"
+    hashtags: "#calabasas, #offwhitetshirts, #nikesb, #streetweardaily"
   - username: "akiraharigae"
     fullname: >-
-      KIRA 👹
+      AKIRA 👹
     location: "Japan"
-    followers: 27356
-    engagement: 619
-    commentsToLikes: 0.023428
+    followers: 28210
+    engagement: 600
+    commentsToLikes: 0.022407
     id: ck0ua5dj5beeb0i195tnh9v77
     verified: false
-    hashtags: "#visualauthority, #makeportraitsmag, #postthepeople, #visualgang"
-  - username: "hiro_kym"
+    hashtags: "#vscogood, #bealpha, #citykillerz, #theimaged"
+  - username: "jhon_indon"
     fullname: >-
-      Hiro Kym
+      JHONO
     location: "Japan"
-    followers: 5128
-    engagement: 562
-    commentsToLikes: 0.008912
-    id: ck601wywmgbpc0i14fihvjxra
+    followers: 2313
+    engagement: 2303
+    commentsToLikes: 0.099512
+    id: ck8ta7vlqqs5r0j78y3lmzi5s
     verified: false
-    hashtags: "#streetwearcathedral, #snobshots, #airjordan, #bape"
-  - username: "kyohei_w516"
+    hashtags: "#streetshared5k, #symmetryhunters, #streetsvision, #streetbeast"
+  - username: "x_x_x_1004x_x_x_"
     fullname: >-
-      KYOHEI
+      ♎️@i
     location: "Japan"
-    followers: 11213
-    engagement: 428
-    commentsToLikes: 0.006720
-    id: ck13cy0hy2pzy0i19oznccdti
+    followers: 2355
+    engagement: 2553
+    commentsToLikes: 0.059183
+    id: ckap88p9gnb880i788mzbig5b
     verified: false
-    hashtags: "#christmas, #japan, #earth, #moodyfilm"
+    hashtags: "#kicksgram, #sneaker, #kickslove, #sneakerlove"
+  - username: "nickelpack"
+    fullname: >-
+      Kenta Hayashi
+    location: "Japan"
+    followers: 6165
+    engagement: 2003
+    commentsToLikes: 0.029116
+    id: ck5zuzfzq3bcb0i14uzzoytr6
+    verified: false
+    hashtags: "#visualgrams, #bokehkillers, #impressive, #streetmobs"
   - username: "jerometraveller"
     fullname: >-
       JÉRÔME • NYC • Spiderman 🕷
     location: "Japan"
-    followers: 23940
-    engagement: 690
-    commentsToLikes: 0.080040
+    followers: 24931
+    engagement: 666
+    commentsToLikes: 0.073594
     id: ck0w2ijneojfo0i1994eoyr3c
     verified: false
-    hashtags: "#renaissancestpancras, #beautifuldestinations, #nyc, #stpaulcathedral"
-  - username: "_kevin.douglas_"
-    fullname: >-
-      KD
-    location: "Japan"
-    followers: 3149
-    engagement: 1549
-    commentsToLikes: 0.086164
-    id: ck5ciona6t26y0i11vd1zm6ky
-    verified: false
-    hashtags: "#depthobsessed, #pursuitofportraits, #streetleaks, #thecreatorclass"
-  - username: "zen.visuals"
-    fullname: >-
-      ©ZEN
-    location: "Japan"
-    followers: 14485
-    engagement: 861
-    commentsToLikes: 0.032575
-    id: ck14jxv9emppo0i19g7rqe8nq
-    verified: false
-    hashtags: "#adobe, #everyday, #graphicdesign, #storyofthestreet"
+    hashtags: "#glow, #discovertokyo, #hotel, #torreeiffel"
 ---

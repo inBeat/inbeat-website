@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Japan In 2020
 description: >-
-  Find top gardening Instagram influencers in Japan in 2020. Most popular hashtags: #gardening #mygarden #garden #flowers.
+  Find top gardening Instagram influencers in Japan in 2020. Most popular hashtags: #gardening #garden #gardeninglife #selfie.
 platform: Instagram
 profiles:
   - username: "amiagram"
     fullname: >-
       minmin
     location: "Japan"
-    followers: 71763
-    engagement: 223
-    commentsToLikes: 0.018489
+    followers: 71795
+    engagement: 230
+    commentsToLikes: 0.017694
     id: ck6tnvg7hanp70j71fog99dt4
     verified: false
-    hashtags: "#housedesign, #teine, #jef, #garden"
+    hashtags: "#ami, #diningchair, #bose, #kitchen"
   - username: "filer.koharu"
     fullname: >-
       koharu
     location: "Japan"
-    followers: 5994
-    engagement: 511
-    commentsToLikes: 0.026081
+    followers: 6001
+    engagement: 556
+    commentsToLikes: 0.033810
     id: ck0w06s8ico0t0i19nt2459df
     verified: false
-    hashtags: "#koharugarden2, #shabbychic, #2ndstory, #mimosa"
-  - username: "lemon_leaf_27"
+    hashtags: "#livingroom, #filer, #atelier, #gardening"
+  - username: "melikesandesu"
     fullname: >-
-      この葉🌿
+      メリケ　ウイサル
     location: "Japan"
-    followers: 13828
-    engagement: 2032
-    commentsToLikes: 0.033496
-    id: ck8t3509v1w000j788tyzyw0e
+    followers: 12593
+    engagement: 771
+    commentsToLikes: 0.038670
+    id: ck14j3zcaiin60i19en7aoaf2
     verified: false
-    hashtags: "#flowerlove, #cutedisplay, #antiquebasket, #frenchantiques"
-  - username: "bonzodog423"
+    hashtags: "#sokaksimidi, #bizimmahalle, #selfie, #sushitime"
+  - username: "haruna_h_mori"
     fullname: >-
-      shiba
+      haruna
     location: "Japan"
-    followers: 8593
-    engagement: 1451
-    commentsToLikes: 0.040684
-    id: ck14hfg0ea21q0i19gvu7gcrq
+    followers: 22462
+    engagement: 372
+    commentsToLikes: 0.018987
+    id: ck14jpwnxllnd0i19p7cfpx2y
     verified: false
-    hashtags: "#purpureaplenaelegans, #fritillaria, #rose, #wesselton"
-  - username: "0613_miko"
-    fullname: >-
-      Miko
-    location: "Japan"
-    followers: 19570
-    engagement: 1099
-    commentsToLikes: 0.035941
-    id: ck136o5za7gaq0i19j53f3jkp
-    verified: false
-    hashtags: "#echeveria, #gardening, #succulentlove, #succulentlover"
-  - username: "meron1109"
-    fullname: >-
-      
-    location: "Japan"
-    followers: 15780
-    engagement: 1611
-    commentsToLikes: 0.025566
-    id: ck8t3501e1vy50j78lk7bw2rv
-    verified: false
-    hashtags: "#inmygarden, #gardenlover, #garden, #flowerstagram"
-  - username: "masakazu.kawata"
-    fullname: >-
-      kawata Rose  Tochigi  Japan
-    location: "Japan"
-    followers: 15291
-    engagement: 1146
-    commentsToLikes: 0.023011
-    id: ck0u8my1l7udj0i19n6gee4pu
-    verified: false
-    hashtags: "#rosen, #myrosegarden, #garden, #gardenrose"
-  - username: "sakura_sister_"
-    fullname: >-
-      Natalie Leon
-    location: "Japan"
-    followers: 2509
-    engagement: 1273
-    commentsToLikes: 0.193625
-    id: ck6tmkanp7zuz0j71fwkrc99a
-    verified: false
-    hashtags: "#gardeningtherapy, #allkindsofmagic, #smallmomentsofcalm, #calm"
-  - username: "ratemama2"
-    fullname: >-
-      Latte’s Mom
-    location: "Japan"
-    followers: 5839
-    engagement: 1120
-    commentsToLikes: 0.042361
-    id: ck5cenh2wlc6c0i11o63u7tgg
-    verified: false
-    hashtags: "#animal, #mygardentoday, #flowerlover, #afternoontea"
+    hashtags: "#bathroomselfie, #tbt, #esprique, #mikaninagawa"
   - username: "shoko_garden"
     fullname: >-
       ＊shoko＊
     location: "Japan"
-    followers: 13669
-    engagement: 895
-    commentsToLikes: 0.024554
+    followers: 16024
+    engagement: 1230
+    commentsToLikes: 0.023805
     id: ck8tbcj1tv4oi0j78ak26k8j2
     verified: false
-    hashtags: "#birdhouse, #gardendecor, #verometal, #succulentplant"
+    hashtags: "#springgarden, #verometal, #roomshoes, #birdhouse"
+  - username: "atelier_wabbit_garden_"
+    fullname: >-
+      miyuki sasaki
+    location: "Japan"
+    followers: 8766
+    engagement: 1868
+    commentsToLikes: 0.016957
+    id: ck9wejl4okk2g0j78y81vngyx
+    verified: false
+    hashtags: "#mydog, #dryflower, #dandelionfluff, #rain"
+  - username: "newniji"
+    fullname: >-
+      にゅん✩
+    location: "Japan"
+    followers: 12798
+    engagement: 549
+    commentsToLikes: 0.012344
+    id: ck0vzuwoab0oa0i190ls6rkto
+    verified: false
+    hashtags: "#wintermakeup, #pinkplants, #amethyst, #lgbtq"
+  - username: "kodakumi_official"
+    fullname: >-
+      倖田來未
+    location: "Japan"
+    followers: 402779
+    engagement: 571
+    commentsToLikes: 0.010656
+    id: ck0w205o5lzqo0i19v7mvs646
+    verified: true
+    hashtags: "#relivetour2019, #stayhomewithme, #ecstsy, #hotstuff"
+  - username: "rosegarden_flowers"
+    fullname: >-
+      wood-chips / tomota kato
+    location: "Japan"
+    followers: 7630
+    engagement: 1109
+    commentsToLikes: 0.029511
+    id: ck8t9vxqzpjcu0j788u5qoqvb
+    verified: false
+    hashtags: "#frenchrose, #mailbox, #deckgarden, #delbard"
+  - username: "kunimitsuomori"
+    fullname: >-
+      kunimitsuomori
+    location: "Japan"
+    followers: 2204
+    engagement: 3798
+    commentsToLikes: 0.027776
+    id: ckap0fyecq3rm0i789iuhe01d
+    verified: false
+    hashtags: "#traingallery, #lavandula, #chamomile, #superb"
 ---

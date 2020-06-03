@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Cali In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Cali in 2020. Most popular hashtags: #lifestyle #colombia #cali #style.
+  Find top lifestyle Instagram influencers in Cali in 2020. Most popular hashtags: #lifestyle #quedateencasa #cuarentena #yomequedoencasa.
 platform: Instagram
 profiles:
-  - username: "cisstian"
+  - username: "julimejiaseidel"
     fullname: >-
-      Cristian Y. Ceron Diaz
+      J U L I A N A ✨
     location: "Colombia"
-    followers: 11572
-    engagement: 743
-    commentsToLikes: 0.034844
-    id: ck6uci6l3fqy50j71dblfy9ux
+    followers: 9621
+    engagement: 647
+    commentsToLikes: 0.010935
+    id: ck5pw3sa2kyeu0i11brcihy7z
     verified: false
-    hashtags: "#streetfashion, #photograpy, #calico, #fashionformen"
-  - username: "lauritafitness"
+    hashtags: "#editorialgirl, #glam, #cute, #street"
+  - username: "melanieliz1"
     fullname: >-
-      Lau Tamayo 🎀
+      Melanie Liz
     location: "Colombia"
-    followers: 4014
-    engagement: 1023
-    commentsToLikes: 0.117094
-    id: ck8szo35bp3ov0j789prcl2ok
+    followers: 65787
+    engagement: 408
+    commentsToLikes: 0.008897
+    id: ck6u3phesz4ie0j71e0swh4ad
     verified: false
-    hashtags: "#portrait, #motivacionales, #model, #fashion"
-  - username: "juank_mt09"
+    hashtags: "#elpoderdesertu, #quedateencasa, #yomequedoencasa, #amoinfinitek"
+  - username: "michelleh.lly"
     fullname: >-
-      Juank ✖️ MT-09
+      Michelle Herrera.
     location: "Colombia"
-    followers: 10572
-    engagement: 582
-    commentsToLikes: 0.009317
-    id: ck6u8zmcuumh20j717loeinkr
+    followers: 80807
+    engagement: 1130
+    commentsToLikes: 0.011341
+    id: ck5ch3tm2q27j0i11ygxpgho3
     verified: false
-    hashtags: "#bike, #valentinorossi, #yamahamt10, #salento"
-  - username: "deyana_mounira"
+    hashtags: "#cuarentena, #beautygirl, #bestoftheday, #baile"
+  - username: "annyriveraduque"
     fullname: >-
-      Deyana Mounira
+      ANNY RIVERA
     location: "Colombia"
-    followers: 565973
-    engagement: 135
-    commentsToLikes: 0.010158
-    id: ck138lpidgufv0i19kc9wrfem
+    followers: 50798
+    engagement: 218
+    commentsToLikes: 0.171230
+    id: ck5q2qrfnhcc50i11qd0qax73
+    verified: false
+    hashtags: "#home, #ootd, #todayfood, #easyrecipes"
+  - username: "angelicaalmanzara"
+    fullname: >-
+      Angélica Almánzar A
+    location: "Colombia"
+    followers: 47581
+    engagement: 412
+    commentsToLikes: 0.030357
+    id: ckap4srbu8pcd0i78wb4ipbmq
+    verified: false
+    hashtags: "#locurachallenge, #quedateentuputacasa, #hazteuncambiodelook, #sinmiedo"
+  - username: "calicolfit"
+    fullname: >-
+      LUZ MARINA GARCIA A 🐼🦄
+    location: "Colombia"
+    followers: 35443
+    engagement: 96
+    commentsToLikes: 0.054930
+    id: ck5zufszw2a0r0i14z8wpyi8c
+    verified: false
+    hashtags: "#facil, #glutes, #gluteo, #fresas"
+  - username: "stefanigamboatv"
+    fullname: >-
+      StefaniGamboa
+    location: "Colombia"
+    followers: 123621
+    engagement: 202
+    commentsToLikes: 0.025970
+    id: ck6uap5su4u5d0j713b8qkdt2
+    verified: false
+    hashtags: "#losangeles, #automotivation, #thedancingmom, #maritefarfan"
+  - username: "tatianaugirardi"
+    fullname: >-
+      Tatiana USSA GIRARDI
+    location: "Colombia"
+    followers: 1727380
+    engagement: 160
+    commentsToLikes: 0.011152
+    id: ck5znbvv9o5x70i143pee9whu
     verified: true
-    hashtags: "#goodtimes, #teatime"
-  - username: "jonamontoyazumba"
+    hashtags: "#honesty, #dots, #lifestyle, #barcelona"
+  - username: "la.sra.celin"
     fullname: >-
-      Jonathan Montoya
+      Celin Giraldo
     location: "Colombia"
-    followers: 11005
-    engagement: 559
-    commentsToLikes: 0.040557
-    id: ck1396johjs550i19eksedc0q
-    verified: false
-    hashtags: "#salsodromo, #pasion, #delamanodedios, #changeyourlife"
-  - username: "jarlinsonpantano"
-    fullname: >-
-      Jarlinson Pantano
-    location: "Colombia"
-    followers: 139427
-    engagement: 107
-    commentsToLikes: 0.013540
-    id: ck6tk5qru41xk0j71iswxeuzd
+    followers: 74759
+    engagement: 114
+    commentsToLikes: 0.049828
+    id: ck5c0phsqtlbp0i113o732qkp
     verified: true
-    hashtags: "#manzurcolombia, #quedateencasa, #pantanotraining, #bici"
-  - username: "carolinalgg"
+    hashtags: "#stayathome, #malafama, #dannapaola, #estrias"
+  - username: "grego_fit"
     fullname: >-
-      C A R O L I N A    G Ó M E Z ☆
+      Gregory Sanchez
     location: "Colombia"
-    followers: 37974
-    engagement: 315
-    commentsToLikes: 0.122444
-    id: ck8tcvfbv0u3j0j78355yt6t5
+    followers: 8448
+    engagement: 364
+    commentsToLikes: 0.155582
+    id: ck15s338yaz3f0i19uarhjcpz
     verified: false
-    hashtags: "#jueves, #sinmaquillaje, #cali, #time"
-  - username: "reneurrea"
-    fullname: >-
-      René Urrea
-    location: "Colombia"
-    followers: 24921
-    engagement: 591
-    commentsToLikes: 0.013138
-    id: ck5c0pgwltl970i1197n1mwfo
-    verified: false
-    hashtags: "#wegotnow, #manlyweek, #newbalanceco, #theposhstyle"
-  - username: "thomycast"
-    fullname: >-
-      T  H O M Y   C A S T A Ñ O
-    location: "Colombia"
-    followers: 16102
-    engagement: 255
-    commentsToLikes: 0.105315
-    id: ck6txc6k7x0910j71y4itmjut
-    verified: false
-    hashtags: "#outfit, #aesthetics, #moda, #denim"
-  - username: "lucius.ph"
-    fullname: >-
-      ・ＬＵＣＩＵＳ • ＰＨ・
-    location: "Colombia"
-    followers: 2176
-    engagement: 1502
-    commentsToLikes: 0.049186
-    id: ck5zknppsjtci0i149c4cckq6
-    verified: false
-    hashtags: "#lifestyle, #thinkverylittle, #colombia, #medellin"
+    hashtags: "#rutinasgym, #body, #pubertad, #cali"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In New York In 2020
 description: >-
-  Find top lifestyle Instagram influencers in New York in 2020. Most popular hashtags: #fashion #newyork #love #christmas.
+  Find top lifestyle Instagram influencers in New York in 2020. Most popular hashtags: #lifestyle #newyorkcity #newyork #fashion.
 platform: Instagram
 profiles:
+  - username: "mariavalensilva"
+    fullname: >-
+      MARIA VALENTINA | NY Blogger ✨
+    location: "United States"
+    followers: 2337
+    engagement: 2114
+    commentsToLikes: 0.135283
+    id: ckap1gsnbuj590i787sw3dqyt
+    verified: false
+    hashtags: "#vicidolls, #latinabirthday, #instastyle, #picsartedit"
   - username: "george.shian"
     fullname: >-
       George Sargashian PA-S
     location: "United States"
-    followers: 8850
-    engagement: 708
-    commentsToLikes: 0.079708
+    followers: 9867
+    engagement: 768
+    commentsToLikes: 0.086056
     id: ck5c4ad2d0xo90i119dfnh19y
     verified: false
-    hashtags: "#nycbloggers, #workingoutathome, #dermatology, #thankyounurses"
+    hashtags: "#iheartny, #earthday, #mentalhealth, #psychiatrist"
+  - username: "kat_style_look"
+    fullname: >-
+      Kat_style_look
+    location: "United States"
+    followers: 42660
+    engagement: 364
+    commentsToLikes: 0.113430
+    id: ck0w2l362owgk0i19763c690d
+    verified: false
+    hashtags: "#fabfitfunpartner, #vintaminc, #turmeric, #sundayriley"
   - username: "hilltopliving"
     fullname: >-
       
     location: "United States"
-    followers: 12899
-    engagement: 1065
-    commentsToLikes: 0.071773
+    followers: 14330
+    engagement: 952
+    commentsToLikes: 0.086364
     id: ck55mc6zq3n2b0i11bcxv5u5o
     verified: false
-    hashtags: "#instadesign, #farmhousedesign, #countryliving, #farmhousetable"
-  - username: "naturalnew_york"
+    hashtags: "#office, #nursery, #brezzamoment, #livingroominspo"
+  - username: "traveleen_gurl"
     fullname: >-
-      New York 🌲 Natural United
+      Gurleen 🐹
     location: "United States"
-    followers: 42263
-    engagement: 169
-    commentsToLikes: 0.011371
-    id: ck8t68p03co9o0j78flgew9lo
+    followers: 9110
+    engagement: 1250
+    commentsToLikes: 0.178873
+    id: ck8svwdsjcyai0j78c1gd4d7r
     verified: false
-    hashtags: "#hiking, #newyorkstatephotos, #adirondacks, #iloveny"
-  - username: "mvcaldera"
+    hashtags: "#hightea, #italy, #oceanlover, #kuthodawpagoda"
+  - username: "hadi_mak_"
     fullname: >-
-      MV Caldera🇻🇪
+      HᴀᴅɪL Abdulrahman
     location: "United States"
-    followers: 64846
-    engagement: 199
-    commentsToLikes: 0.084632
-    id: ck14it56nh1i40i19aw9fp4dl
-    verified: true
-    hashtags: "#tourmitierra, #quarentine, #diadelgaitero, #vapues"
-  - username: "unknownsmoove"
-    fullname: >-
-      Mr. Bam
-    location: "United States"
-    followers: 7195
-    engagement: 881
-    commentsToLikes: 0.067581
-    id: ck6ubttbibo200j71hkhmojgz
+    followers: 19316
+    engagement: 920
+    commentsToLikes: 0.045347
+    id: ck0vw628cs9qm0i19bscec02h
     verified: false
-    hashtags: "#menswear, #trench, #outfit, #bronx"
-  - username: "walibel"
+    hashtags: "#lifestyle, #newyork, #womensfashion, #malemodel"
+  - username: "mir_random"
     fullname: >-
-      Walibel
+      MIRANDA PERRY
     location: "United States"
-    followers: 22781
-    engagement: 344
-    commentsToLikes: 0.167410
-    id: ck6tkf16l4kna0j71z92re3qy
+    followers: 11335
+    engagement: 691
+    commentsToLikes: 0.055651
+    id: ckapa88x5v4nt0i783j1lg75q
     verified: false
-    hashtags: "#jointhemvmt, #mvmtambassador, #jluxbabe, #ad"
-  - username: "joladys_art"
+    hashtags: "#business, #appreciate, #weddingszn, #happy"
+  - username: "angelaryan03"
     fullname: >-
-      Jolady Nunez
+      Angela
     location: "United States"
-    followers: 6006
-    engagement: 997
-    commentsToLikes: 0.159614
-    id: ck0vz5qct7fw50i1932j5he86
+    followers: 16125
+    engagement: 504
+    commentsToLikes: 0.062355
+    id: ck6uda76ujxlw0j71b9ajhca3
     verified: false
-    hashtags: "#topoftheworld, #functionofbeautyreview, #curlyhead, #christmaslooks"
-  - username: "madelineyanni"
+    hashtags: "#siblinglove, #positiveenergy, #hopeful, #summer"
+  - username: "g_u_eye"
     fullname: >-
-      Madeline Yanni
+      Mbargou Gueye | Photographer
     location: "United States"
-    followers: 24518
-    engagement: 275
-    commentsToLikes: 0.056349
-    id: ck15rm3y78l8m0i19238qlu8p
+    followers: 40367
+    engagement: 276
+    commentsToLikes: 0.038628
+    id: ck5c249wjwihq0i11kx7f3r9g
     verified: false
-    hashtags: "#revolvepartner, #suitably, #revolve"
-  - username: "escape_brooklyn"
+    hashtags: "#blackdesigners, #mycreation, #blvckfashion, #african"
+  - username: "ramirezanavil"
     fullname: >-
-      Escape Brooklyn
+      Anavil Ramirez 🎙
     location: "United States"
-    followers: 77221
-    engagement: 168
-    commentsToLikes: 0.052057
-    id: ck0uawkxld9ya0i19lwgg4mjm
+    followers: 29426
+    engagement: 503
+    commentsToLikes: 0.030961
+    id: ck5q5gdm7srjs0i11ymyozwk0
     verified: false
-    hashtags: "#escapebrooklyn, #socialdistancing"
-  - username: "leacouture"
-    fullname: >-
-      Lea Romero-Barczak
-    location: "United States"
-    followers: 6734
-    engagement: 767
-    commentsToLikes: 0.079401
-    id: ck6u86c6apoqt0j71uzrqj390
-    verified: false
-    hashtags: "#movedin, #bossbabetribe, #staysafe, #vibes"
+    hashtags: "#elsue, #fashiondesigner, #manhattannyc, #boysclothes"
 ---

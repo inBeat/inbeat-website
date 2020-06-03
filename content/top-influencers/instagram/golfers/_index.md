@@ -1,107 +1,107 @@
 ---
 title: Top 10 Golfers Instagram Influencers In 2020
 description: >-
-  Find top golfers Instagram influencers in 2020. Most popular hashtags: #golf #golfer #golfing #golfgirls.
+  Find top golfers Instagram influencers in 2020. Most popular hashtags: #stayhome #throwback #home #callawaygolf.
 platform: Instagram
 profiles:
-  - username: "rose135z"
+  - username: "samburns66"
     fullname: >-
-      Rose Zhang
+      Sam Burns
     location: "United States"
-    followers: 2129
-    engagement: 3508
-    commentsToLikes: 0.144432
-    id: ck5zxq8728go60i14volk08cc
-    verified: false
-    hashtags: "#t3, #4layersweaterweather, #usgirlsjr, #rolextoc"
-  - username: "annechen_1"
-    fullname: >-
-      Anne Chen
-    location: "United States"
-    followers: 2664
-    engagement: 2751
-    commentsToLikes: 0.127877
-    id: ck5zvh5ag48760i14s6f4qhru
-    verified: false
-    hashtags: "#48, #lfg, #anajrinspiration, #caliwknd"
-  - username: "_paige.renee"
-    fullname: >-
-      Paige Spiranac
-    location: "United States"
-    followers: 2415493
-    engagement: 525
-    commentsToLikes: 0.025807
-    id: ck134j4bswojb0i19iyn450m5
+    followers: 9804
+    engagement: 1630
+    commentsToLikes: 0.164204
+    id: ck6tq6euppngv0j7147bxaoil
     verified: true
-    hashtags: "#genesisinvitational, #seriousgolfer, #messyhairdontcare, #genesisjugglechallenge"
-  - username: "kookyken"
-    fullname: >-
-      Kooky Ken
-    location: "United States"
-    followers: 85781
-    engagement: 406
-    commentsToLikes: 0.053606
-    id: ck6ubxbk1c8hz0j71gbplbgd9
-    verified: false
-    hashtags: "#tigerwoods, #beanieseason, #luxurytravel, #asiangirls"
+    hashtags: "#lehgeaux, #adidasgolf, #sentinelone, #startsomethingpriceless"
   - username: "paris_griffith"
     fullname: >-
       Paris Griffith
     location: "United States"
-    followers: 24946
-    engagement: 893
-    commentsToLikes: 0.030460
+    followers: 25622
+    engagement: 857
+    commentsToLikes: 0.030411
     id: ck15t5oqdgh0b0i198g35mzlt
     verified: false
-    hashtags: "#golfvlog, #coreworkout, #arizonagolf, #mgmgrand"
-  - username: "marceloguedesfilho"
+    hashtags: "#sandiegogolf, #golfviews, #tiktok, #ranchomirage"
+  - username: "dornans.girl"
     fullname: >-
-      Marcelo Guedes
-    location: "France"
-    followers: 292109
-    engagement: 346
-    commentsToLikes: 0.037452
-    id: ck5bv0ucrisbf0i112p9ejmv0
+      Dornan's Girl ~Naz ☘️
+    location: "Turkey"
+    followers: 15419
+    engagement: 1231
+    commentsToLikes: 0.024464
+    id: ck5c4kv0p1kbr0i113f2ghx4s
+    verified: false
+    hashtags: "#peakyblinders, #istanbul, #suitup, #cillianmurphy"
+  - username: "hannahdaviesgolf"
+    fullname: >-
+      Hannah Davies
+    location: "United States"
+    followers: 64873
+    engagement: 362
+    commentsToLikes: 0.040132
+    id: ck15pz9i00dap0i19f1d0o0t6
+    verified: false
+    hashtags: "#white, #trickshot, #masters, #cheerleader"
+  - username: "tanyawadhwa1"
+    fullname: >-
+      Tanya Wadhwa
+    location: "United States"
+    followers: 8343
+    engagement: 854
+    commentsToLikes: 0.063820
+    id: ck15piebry1dr0i19gg5xbl8l
+    verified: false
+    hashtags: "#swinglikeagirl, #goodvibes, #ruetformullins, #bestieverhad"
+  - username: "annicahansen"
+    fullname: >-
+      OFFICIAL PAGE • ANNICA HANSEN
+    location: "Germany"
+    followers: 131052
+    engagement: 811
+    commentsToLikes: 0.009973
+    id: ck5c4ssjd20yn0i11wu6vamgl
     verified: true
-    hashtags: "#silksilk, #brasil, #ol, #derby"
-  - username: "jordan__cornelius"
+    hashtags: "#mercedesbenz, #shopping, #lifestyle, #star"
+  - username: "haotong66"
     fullname: >-
-      ✯ Jordan Cornelius ✯
+      HaoTong Li   李昊桐
+    location: "Australia"
+    followers: 27466
+    engagement: 600
+    commentsToLikes: 0.032321
+    id: ck5cfi88yn0a30i11178sxw61
+    verified: true
+    hashtags: "#staysafe, #socialdistancing, #golflife, #selfquarantine"
+  - username: "brontemaylaw"
+    fullname: >-
+      Bronte Law
+    location: "Canada"
+    followers: 12637
+    engagement: 871
+    commentsToLikes: 0.048556
+    id: ck15pvl0szulp0i19sd9ztfj0
+    verified: true
+    hashtags: "#racetocmeglobe"
+  - username: "tiffanynichols"
+    fullname: >-
+      TIFFANY NICHOLS
     location: "United States"
-    followers: 38142
-    engagement: 956
-    commentsToLikes: 0.025268
-    id: ck6ucbwnoeox30j71swxkqmxp
+    followers: 31953
+    engagement: 408
+    commentsToLikes: 0.049172
+    id: ck14jwtgeml6b0i19gf28d2xr
     verified: false
-    hashtags: "#autumn, #fall, #commentbelow, #halloween"
-  - username: "sergiyknyazev"
+    hashtags: "#lockdownchallenge, #stayhome, #donotdisturb, #throwback"
+  - username: "thaisforbes_"
     fullname: >-
-      🔻КНЯЗЄВ. Найдобріший блогер
-    location: "Ukraine"
-    followers: 10526
-    engagement: 787
-    commentsToLikes: 0.104413
-    id: ck5zu4eh21o010i14ivnza78c
-    verified: false
-    hashtags: "#nature, #beforeafter, #theprofessorandthemadman, #fivefeetapart"
-  - username: "blairwheeler"
-    fullname: >-
-      Blair Wheeler 🇺🇸
+      ThaiThai🐘
     location: "United States"
-    followers: 26430
-    engagement: 311
-    commentsToLikes: 0.075537
-    id: ck5zrpx3rx1lr0i14qtq7bren
+    followers: 9589
+    engagement: 2058
+    commentsToLikes: 0.016380
+    id: ckapb2qpgycy30i78lsxjtp00
     verified: false
-    hashtags: "#lifehacks, #nashvilletn, #golffit, #vlog"
-  - username: "gabiruffels"
-    fullname: >-
-      Gabi Ruffels
-    location: "United States"
-    followers: 8843
-    engagement: 1831
-    commentsToLikes: 0.024625
-    id: ck5q1ekx6ama10i116gt5thw2
-    verified: false
-    hashtags: "#ifykyk, #windycity, #merryxmas, #amiright"
+    hashtags: ""
 ---

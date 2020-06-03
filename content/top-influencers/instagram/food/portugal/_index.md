@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Portugal In 2020
 description: >-
-  Find top food Instagram influencers in Portugal in 2020. Most popular hashtags: #travel #stayhome #lebanese #beirut.
+  Find top food Instagram influencers in Portugal in 2020. Most popular hashtags: #giveaway #quarantine #chocolate #homedecor.
 platform: Instagram
 profiles:
+  - username: "lorys.story"
+    fullname: >-
+      Loredana Gavrila🇹🇩
+    location: "Portugal"
+    followers: 23074
+    engagement: 844
+    commentsToLikes: 0.410605
+    id: ck6tymwtr4ohc0j715m2bykgj
+    verified: false
+    hashtags: "#travelasia, #beachvibes, #nomadgirls, #giurgiu"
   - username: "thetolerantcook"
     fullname: >-
       Kristína Suchánková
     location: "Portugal"
-    followers: 11752
-    engagement: 989
-    commentsToLikes: 0.115992
+    followers: 12265
+    engagement: 944
+    commentsToLikes: 0.111573
     id: ck15texg7hqu50i19oxcr63nh
     verified: false
-    hashtags: "#tolerantnarestauracia, #thestoryofacake, #glutenfee, #summervibesonly"
-  - username: "miss_tet"
-    fullname: >-
-      Teresa Lemos
-    location: "Portugal"
-    followers: 15156
-    engagement: 1241
-    commentsToLikes: 0.034370
-    id: ck55oexap88090i11kxq4k55q
-    verified: false
-    hashtags: "#makeup, #amocozinhar, #norteshopping, #gato"
-  - username: "jmigsimoes"
-    fullname: >-
-      João Miguel Simões
-    location: "Portugal"
-    followers: 88840
-    engagement: 203
-    commentsToLikes: 0.054430
-    id: ck5zzn4bvc1rj0i1453awqb62
-    verified: false
-    hashtags: "#euficoemcasa, #isolamento, #not, #iorestoacasa"
-  - username: "hungrymoey"
-    fullname: >-
-      Ｈｕｎｇｒｙ Ｍｏｅｙ🔆
-    location: "Portugal"
-    followers: 18133
-    engagement: 494
-    commentsToLikes: 0.058006
-    id: ck5cammu1dp6j0i11miv13rw6
-    verified: false
-    hashtags: "#nationaldestination, #tlpicks, #hungrymoeyrome, #instatravel"
-  - username: "denise.de.assis"
-    fullname: >-
-      Denise de Assis
-    location: "Portugal"
-    followers: 35803
-    engagement: 103
-    commentsToLikes: 0.152620
-    id: ck55pejv6aecj0i11hofgff1q
-    verified: false
-    hashtags: "#whowhatwearing, #skyview, #blondehair, #euficoemcasa"
-  - username: "son.carneiro"
-    fullname: >-
-      Sonia Carneiro
-    location: "Portugal"
-    followers: 13981
-    engagement: 792
-    commentsToLikes: 0.023783
-    id: ck136wr1t8msl0i19tlmr1ooc
-    verified: false
-    hashtags: "#happynewyear, #europaleague, #avignon, #birthday"
+    hashtags: "#family, #dnesjem, #spolupraca, #toothless"
   - username: "golden.nico"
     fullname: >-
       𝓝𝓲𝓬𝓸𝓵𝓵𝓮  𝓣𝓪𝓫𝓮𝓻𝓪
     location: "Portugal"
-    followers: 11200
-    engagement: 591
-    commentsToLikes: 0.042380
+    followers: 12783
+    engagement: 854
+    commentsToLikes: 0.137646
     id: ck6ucvcowhold0j71e8oo86f3
     verified: false
-    hashtags: "#yanbalneon, #tb, #quedateencasa, #amorpropio"
-  - username: "gabriellaspbrooks"
+    hashtags: "#24aartistpasspalette, #giveaway, #throwback, #p30pro"
+  - username: "miss_tet"
     fullname: >-
-      Gabriella Brooks
+      Teresa Lemos
     location: "Portugal"
-    followers: 10824
-    engagement: 496
-    commentsToLikes: 0.043814
-    id: ck5c38a9hys8a0i11wx17zhik
+    followers: 16974
+    engagement: 1266
+    commentsToLikes: 0.031082
+    id: ck55oexap88090i11kxq4k55q
     verified: false
-    hashtags: "#diydessert, #veganrecipes, #vegan, #foodie"
-  - username: "magsneiva"
+    hashtags: "#doglover, #diasdechuva, #norteshopping, #dailycristina"
+  - username: "hungrymoey"
     fullname: >-
-      Margarida Neiva
+      Ｈｕｎｇｒｙ Ｍｏｅｙ🔆
     location: "Portugal"
-    followers: 18107
-    engagement: 347
-    commentsToLikes: 0.146582
-    id: ck5q4iiywp52p0i113idsdv24
+    followers: 19354
+    engagement: 418
+    commentsToLikes: 0.079897
+    id: ck5cammu1dp6j0i11miv13rw6
     verified: false
-    hashtags: "#orgulhosamentesumol, #noponto, #cocreatorbysumol, #cocreatorsbysumol"
-  - username: "thehealthysins"
+    hashtags: "#marseille, #zomatolb, #dessert, #rome"
+  - username: "catarinaadeoliveira"
     fullname: >-
-      The Healthy Sins
+      Catarina Oliveira
     location: "Portugal"
-    followers: 5667
-    engagement: 1193
-    commentsToLikes: 0.114652
-    id: ck0ueb4m1l2c30i19g80ev9ux
+    followers: 3264
+    engagement: 1329
+    commentsToLikes: 0.251350
+    id: ck8ta8l7oqufk0j786xnzevvc
     verified: false
-    hashtags: "#carnivalday, #stayhome, #barleyporridge, #cookingtime"
+    hashtags: "#topinfluencer, #sobachapt, #rouen, #influencerpt"
+  - username: "jmigsimoes"
+    fullname: >-
+      João Miguel Simões
+    location: "Portugal"
+    followers: 90433
+    engagement: 202
+    commentsToLikes: 0.102114
+    id: ck5zzn4bvc1rj0i1453awqb62
+    verified: false
+    hashtags: "#addressbookbyjms, #badhairday, #quarantine, #earthdayeveryday"
+  - username: "jessiekass"
+    fullname: >-
+      Jessie Chanes |Seamsforadesire
+    location: "Portugal"
+    followers: 312810
+    engagement: 150
+    commentsToLikes: 0.033716
+    id: ck0w3pzk6uoe50i19q2ga0st1
+    verified: true
+    hashtags: "#pinkmood, #denim, #tavira, #vichyprint"
+  - username: "claudiadias.oficial"
+    fullname: >-
+      𝙲𝚕𝚊𝚞𝚍𝚒𝚊 𝙳𝚒𝚊𝚜
+    location: "Portugal"
+    followers: 34298
+    engagement: 1428
+    commentsToLikes: 0.002823
+    id: ck13bn882w8ri0i19lsl0rjse
+    verified: false
+    hashtags: ""
+  - username: "guga_blog"
+    fullname: >-
+      Guga || Lifestyle
+    location: "Portugal"
+    followers: 13935
+    engagement: 420
+    commentsToLikes: 0.060462
+    id: ck55k2pjsybg90i11yg0tqwzh
+    verified: false
+    hashtags: "#comamor, #artefloral, #bomdia, #chiuaualovers"
 ---

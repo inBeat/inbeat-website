@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In India In 2020
 description: >-
-  Find top health Instagram influencers in India in 2020. Most popular hashtags: #stayhome #quarantine #love #india.
+  Find top health Instagram influencers in India in 2020. Most popular hashtags: #positivity #indian #staysafe #throwback.
 platform: Instagram
 profiles:
-  - username: "i.am.pragati"
+  - username: "tamarawebb_"
     fullname: >-
-      👑 PRAGATI 👑
+      TAMARA WEBB 💫
     location: "India"
-    followers: 178164
-    engagement: 1017
-    commentsToLikes: 0.019167
-    id: ck13861fgenhm0i19wg4k5hsm
+    followers: 48725
+    engagement: 753
+    commentsToLikes: 0.036356
+    id: ck8tavj66t8pm0j7872g8sxdw
     verified: false
-    hashtags: "#punjabilook, #tukallahisohnani, #fashionnova, #tiktokindo"
+    hashtags: "#healthycarrotcake, #healthybrownie, #lifestyle, #love"
   - username: "alphayash"
     fullname: >-
       Yash Sharma
     location: "India"
-    followers: 29826
-    engagement: 1422
-    commentsToLikes: 0.024825
+    followers: 34774
+    engagement: 1192
+    commentsToLikes: 0.030653
     id: ck8t0ziamtwq00j78vh1sdk7d
     verified: false
-    hashtags: ""
-  - username: "matyldab8"
+    hashtags: "#staystrong, #togetherathome"
+  - username: "_hailelujah"
     fullname: >-
-      ✨MATYLDA✨
+      Hailey Dickson ✺ India Travel
     location: "India"
-    followers: 233787
-    engagement: 961
-    commentsToLikes: 0.020926
-    id: ck6tsfq794iev0j71jc16br62
+    followers: 6829
+    engagement: 1279
+    commentsToLikes: 0.047362
+    id: ck8tcdgjqz3uh0j78nb5sy82v
     verified: false
-    hashtags: "#poolside, #portrait, #swimwear, #fitnessmodel"
-  - username: "manishayadavsuresh"
-    fullname: >-
-      Manisha Yadav
-    location: "India"
-    followers: 35394
-    engagement: 703
-    commentsToLikes: 0.011502
-    id: ck15qawzx1yjz0i19pxexsg91
-    verified: false
-    hashtags: "#justletgo, #womansdaywishes, #candlelight, #teatotaler"
+    hashtags: "#selfreflection, #35mmportrait, #natgeohumanity, #bodypositive"
   - username: "simrn_singh_dhillon"
     fullname: >-
       Sim Dhillon
     location: "India"
-    followers: 21768
-    engagement: 1389
-    commentsToLikes: 0.013342
+    followers: 21333
+    engagement: 1142
+    commentsToLikes: 0.015240
     id: ck15q475c10ls0i19ct2hj1f2
     verified: false
-    hashtags: ""
-  - username: "viraj_sheth"
+    hashtags: "#bloopers, #besafe, #march2020"
+  - username: "komalpreet_96"
     fullname: >-
-      Viraj Sheth
+      HANDLE WITH CARE
     location: "India"
-    followers: 41072
-    engagement: 2854
-    commentsToLikes: 0.007198
-    id: ck13blrqew1780i199cxrl3uu
+    followers: 7624
+    engagement: 2341
+    commentsToLikes: 0.285747
+    id: ckap4aqu56iip0i7807yb880q
     verified: false
-    hashtags: "#nobeardgrowthnoproblem, #cleanshavenpositivityformen, #worldmentalhealthday, #30yearsofcomedy"
-  - username: "sadiebellydance"
+    hashtags: "#khadiproducts, #khadihaircare, #skincare, #khadinaturals"
+  - username: "glamadventuress"
     fullname: >-
-      Sadie Marquardt
+      Navneet|Travel & Lifestyle
     location: "India"
-    followers: 94645
-    engagement: 290
-    commentsToLikes: 0.043413
-    id: ck0w5lnw649bo0i19dv5hrm4t
+    followers: 41233
+    engagement: 369
+    commentsToLikes: 0.067402
+    id: ck139dzxykug00i19eoq1az5z
+    verified: false
+    hashtags: "#selfisolation, #goexplore, #picoftheday, #exploringindia"
+  - username: "haveenarochlani"
+    fullname: >-
+      Haveena Rochlani
+    location: "India"
+    followers: 61508
+    engagement: 153
+    commentsToLikes: 0.166113
+    id: ck0w1aoxrie6s0i199c4kuaj2
+    verified: false
+    hashtags: "#lovelovelove, #smile, #fashionova, #girl"
+  - username: "peppytravelgirl"
+    fullname: >-
+      Preethi 🇮🇳🌏
+    location: "India"
+    followers: 23426
+    engagement: 905
+    commentsToLikes: 0.032138
+    id: ck0u6lp902b5f0i19eo2w2d5f
+    verified: false
+    hashtags: "#agenobarrier, #breasthealth, #moibynykaa, #travelsize"
+  - username: "saba_ka_jahaan"
+    fullname: >-
+      SABA IBRAHIM (صباء)
+    location: "India"
+    followers: 154360
+    engagement: 992
+    commentsToLikes: 0.019198
+    id: ck9wgfocut7mb0j78fusfrb63
     verified: true
-    hashtags: "#bellydanceclass, #daliyadance, #statuesque, #kansascity"
-  - username: "byronherrera.ec"
+    hashtags: "#photooftheday, #inshaallah, #jummahkareem, #skincareblogger"
+  - username: "komalchhikara1"
     fullname: >-
-      B Y R O N  H E R R E R A
+      Dr. Komal Chhikara
     location: "India"
-    followers: 4209
-    engagement: 1711
-    commentsToLikes: 0.061021
-    id: ck5qcki5rr0vx0i11a2k0pg9c
+    followers: 76322
+    engagement: 702
+    commentsToLikes: 0.020992
+    id: ck9hb43p6fbsm0j78er6ip0aq
     verified: false
-    hashtags: "#love, #awake, #image, #nepal"
-  - username: "nicolehuber90"
-    fullname: >-
-      Nicole Huber
-    location: "India"
-    followers: 103834
-    engagement: 188
-    commentsToLikes: 0.024327
-    id: ck0u9t977altr0i191ky8lq95
-    verified: true
-    hashtags: "#sanvalentin, #amorincondicional, #oh, #poderosamentehumana"
-  - username: "ayushee.ghoshal"
-    fullname: >-
-      Ayushee Ghoshal
-    location: "India"
-    followers: 5178
-    engagement: 621
-    commentsToLikes: 0.049250
-    id: ck8t6m6tbe3h70j78kavwvehr
-    verified: false
-    hashtags: "#travelbug, #picoftheday, #poetscommunity, #queentheband"
+    hashtags: "#nomakeup, #promisetoself, #whitesuit, #music"
 ---

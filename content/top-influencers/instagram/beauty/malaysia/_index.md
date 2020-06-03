@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top beauty Instagram influencers in Malaysia in 2020. Most popular hashtags: #stayhome #dudukrumah #dwmalaysia #stayathome.
+  Find top beauty Instagram influencers in Malaysia in 2020. Most popular hashtags: #stayhome #dudukrumah #smile #wannabe.
 platform: Instagram
 profiles:
   - username: "sushalove"
     fullname: >-
       Sharen 🦋
     location: "Malaysia"
-    followers: 17028
-    engagement: 737
-    commentsToLikes: 0.238608
+    followers: 18112
+    engagement: 972
+    commentsToLikes: 0.283140
     id: ck14ju3t3m7220i190pvjobxv
     verified: false
-    hashtags: "#pakistanstreetstyle, #brunettehair, #stayhome, #portraitsquad"
-  - username: "duduannann"
+    hashtags: "#kyliecosmetics, #desistyle, #quarantinelife"
+  - username: "papaicici"
     fullname: >-
-      Dudu Ann 📍🇲🇾
+      QueenPapai
     location: "Malaysia"
-    followers: 100647
-    engagement: 136
-    commentsToLikes: 0.041118
-    id: ck8sy0ugzjcb70j78ufpgpj4t
+    followers: 43739
+    engagement: 449
+    commentsToLikes: 0.048284
+    id: ckap78r0dj1h20i78lhlrrgr3
     verified: false
-    hashtags: "#bhbhealth, #balance, #moisturizing, #jb"
+    hashtags: "#teamrayakl, #wearesumandaksabah, #maidhouse, #maluapabossku"
+  - username: "nikitamenonv"
+    fullname: >-
+      nikita ☀️
+    location: "Malaysia"
+    followers: 26237
+    engagement: 1005
+    commentsToLikes: 0.016862
+    id: ck15sqjuxebls0i1990xy9eaw
+    verified: false
+    hashtags: "#day55, #downsyndrome, #culturalchallenge, #desi"
+  - username: "lucaseelau"
+    fullname: >-
+      LUCAS LAU 🐝
+    location: "Malaysia"
+    followers: 70700
+    engagement: 346
+    commentsToLikes: 0.036281
+    id: ck0vx427zx1ip0i19drfybimk
+    verified: false
+    hashtags: "#pringlesmy, #rayainishopeedisisimu, #stayin, #shopeemy"
+  - username: "ohmykaylagirl_k"
+    fullname: >-
+      K A Y L A💋
+    location: "Malaysia"
+    followers: 36235
+    engagement: 398
+    commentsToLikes: 0.033379
+    id: ck9ha754wbfqe0j781ij27o2e
+    verified: false
+    hashtags: "#inthistogether, #airbus, #stillfly, #style"
+  - username: "sharifahwanii"
+    fullname: >-
+      °✧° °✧°
+    location: "Malaysia"
+    followers: 9588
+    engagement: 1112
+    commentsToLikes: 0.025345
+    id: ckap5hz2abrkz0i78056wttpx
+    verified: false
+    hashtags: ""
+  - username: "isabelleman2"
+    fullname: >-
+      Isabelle Man
+    location: "Malaysia"
+    followers: 9704
+    engagement: 421
+    commentsToLikes: 0.092717
+    id: ck0tyggo2mpog0i191owr96k3
+    verified: false
+    hashtags: "#video, #morning, #luck, #sweating"
   - username: "snenbdm"
     fullname: >-
       Emaleen Minhad (Official)
     location: "Malaysia"
-    followers: 192806
-    engagement: 701
-    commentsToLikes: 0.002956
+    followers: 190135
+    engagement: 716
+    commentsToLikes: 0.002938
     id: ck0tv5rdba1ze0i19oxnzc84b
     verified: false
-    hashtags: "#datenight, #datelook, #date, #makeup"
-  - username: "ohfishiee"
+    hashtags: "#skincare, #azam2020, #meletop, #stayhome"
+  - username: "zoe_aw"
     fullname: >-
-      °· F I S H ·°
+      Zoe Aw淑怡
     location: "Malaysia"
-    followers: 19658
-    engagement: 515
-    commentsToLikes: 0.023609
-    id: ck0w5haxf3n6e0i19rr26hnc7
+    followers: 22624
+    engagement: 539
+    commentsToLikes: 0.022703
+    id: ckap50a5z9lz60i78pcgymlkj
     verified: false
-    hashtags: "#dwinmy, #ohfishieequotes, #ohfishieeinhongkong, #ohfishieequotes"
+    hashtags: "#skincaretips, #asianbeauty, #pillowchallenge, #corona"
   - username: "joycebii"
     fullname: >-
       yangyang
     location: "Malaysia"
-    followers: 41504
-    engagement: 543
-    commentsToLikes: 0.008364
+    followers: 41921
+    engagement: 557
+    commentsToLikes: 0.010474
     id: ck5zvth3p4vn00i14uxdu939n
     verified: false
-    hashtags: "#model, #curly, #stayathome, #black"
-  - username: "gy_leeeee"
-    fullname: >-
-      gy_leeeee
-    location: "Malaysia"
-    followers: 17010
-    engagement: 656
-    commentsToLikes: 0.010038
-    id: ck5c5jv1q3lze0i11zy6ot1sy
-    verified: false
-    hashtags: "#lunar20bydnc, #haveabreak, #thegiftofkindness, #mycostacoffee"
-  - username: "irin.ezleen"
-    fullname: >-
-      Irinezleen
-    location: "Malaysia"
-    followers: 24884
-    engagement: 492
-    commentsToLikes: 0.011028
-    id: ck6tj248v1uzd0j7114drcwib
-    verified: false
-    hashtags: "#mybintisbuddy, #onlyatwatsons, #watsonsmy, #onlyatwatsons"
-  - username: "doreenlivetotravel"
-    fullname: >-
-      Doreen Low
-    location: "Malaysia"
-    followers: 37178
-    engagement: 411
-    commentsToLikes: 0.215860
-    id: ck0tv1lkn9jjz0i19kxi9u72x
-    verified: false
-    hashtags: "#shetravels, #kualalumpur, #beautifuldestination, #speechlessplaces"
-  - username: "shinilola"
-    fullname: >-
-      SHINI LOLA
-    location: "Malaysia"
-    followers: 51607
-    engagement: 216
-    commentsToLikes: 0.015520
-    id: ck0w2k7ikos880i19ectv4aem
-    verified: false
-    hashtags: "#mydalkomm, #hiruzenkogenjoyfullpark, #kenshiprewedding, #eatwithshini"
-  - username: "stephyyiwen"
-    fullname: >-
-      !         STEPHY YIWEN
-    location: "Malaysia"
-    followers: 452663
-    engagement: 451
-    commentsToLikes: 0.002261
-    id: ck0vz393x72lz0i190xw0ysei
-    verified: false
-    hashtags: "#simplemaskmy, #drcink, #proacnesolution, #swift5"
+    hashtags: "#dance, #nattacosmemy, #tiktokhot, #wannabe"
 ---

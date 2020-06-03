@@ -1,89 +1,89 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Belgium In 2020
 description: >-
-  Find top gaming Instagram influencers in Belgium in 2020. Most popular hashtags: #gaming #gamer #game #snes.
+  Find top gaming Instagram influencers in Belgium in 2020. Most popular hashtags: #gaming #nintendo #happiness #style.
 platform: Instagram
 profiles:
+  - username: "assya.grs"
+    fullname: >-
+      Superpaco6  ✨🐨🎮
+    location: "Belgium"
+    followers: 10104
+    engagement: 1604
+    commentsToLikes: 0.067022
+    id: ck9hb93x3fv9q0j78ykmv4qoi
+    verified: false
+    hashtags: "#game, #strength, #malibu, #staystrong"
+  - username: "terry_4wag"
+    fullname: >-
+      Terry 4WAG 🎮
+    location: "Belgium"
+    followers: 5238
+    engagement: 4144
+    commentsToLikes: 0.030955
+    id: ck9wda3c4es1p0j787oon27f1
+    verified: false
+    hashtags: "#fromsoftware, #japan, #doometernal, #hottoys"
   - username: "exlucalibur"
     fullname: >-
       Exlucalibur
     location: "Belgium"
-    followers: 21604
-    engagement: 435
-    commentsToLikes: 0.022755
+    followers: 21243
+    engagement: 321
+    commentsToLikes: 0.025008
     id: ck0w4hqs8ymp10i193co4kxgp
     verified: false
     hashtags: ""
-  - username: "wass_rzk"
+  - username: "mioou_ytb"
     fullname: >-
-      Im Wass
+      MIOOU 🇧🇪
     location: "Belgium"
-    followers: 91426
-    engagement: 285
-    commentsToLikes: 0.073290
-    id: ck0w3rdq5uvql0i19fvou5f8m
+    followers: 3096
+    engagement: 1015
+    commentsToLikes: 0.189514
+    id: ckaowk5vf9a2r0i78wfjmtjkf
     verified: false
-    hashtags: "#menstyle, #vintagestyle, #mensweardaily, #belgianblogger"
-  - username: "pom_fresh"
-    fullname: >-
-      𝕀𝕔𝕖 𝔽𝕣𝕖𝕤𝕙 & 𝔹𝕦𝕞𝕓𝕝𝕖𝕓𝕖𝕖
-    location: "Belgium"
-    followers: 11561
-    engagement: 668
-    commentsToLikes: 0.087009
-    id: ck5zt7crazvdd0i14h2zb9x6c
-    verified: false
-    hashtags: "#agilitytraining, #smoofl, #thedailypomeranian, #happiness"
-  - username: "acrozzz"
-    fullname: >-
-      Quality Gaming Content🔥
-    location: "Belgium"
-    followers: 29142
-    engagement: 1182
-    commentsToLikes: 0.034669
-    id: ck5zw57335i620i143qbhp8ws
-    verified: false
-    hashtags: "#gta5, #gameplay, #callofdutymodernwarfare, #hollister"
+    hashtags: "#instadaily, #nature, #mood, #smile"
   - username: "adam_ch09"
     fullname: >-
       A D A M  C H
     location: "Belgium"
-    followers: 5698
-    engagement: 1144
-    commentsToLikes: 0.033450
+    followers: 5559
+    engagement: 1200
+    commentsToLikes: 0.033861
     id: ck5qax0l0iou00i11gm8nv8v0
     verified: false
-    hashtags: "#sixthjune, #picoftheday, #music, #dangerous"
-  - username: "nintendoswitch_guy"
+    hashtags: "#bopchallenge, #dababy, #bruxelles, #shopping"
+  - username: "shadowzone187"
     fullname: >-
-      𝔹𝕣𝕒𝕞ℙ𝕝𝕒𝕪𝕤𝔾𝕒𝕞𝕖𝕤 👾 - 𝕃𝕖𝕧𝕖𝕝 𝟚𝟠
+      Shadowzone187
     location: "Belgium"
-    followers: 18391
-    engagement: 364
-    commentsToLikes: 0.032363
-    id: ck55nh9l167qk0i1109zw07oo
+    followers: 4299
+    engagement: 1244
+    commentsToLikes: 0.101430
+    id: ck0vuvzblmevq0i19d09pffjh
     verified: false
-    hashtags: "#xbox, #gameboy, #nerd, #n64"
-  - username: "ktechzone"
+    hashtags: "#gamingposts, #nerdymerch, #gamingforever, #goingdark"
+  - username: "rvh_creations"
     fullname: >-
-      🇰 🇹 🇪 🇨 🇭 🇿 🇴 🇳 🇪
+      Raphael Vanhomwegen
     location: "Belgium"
-    followers: 61191
-    engagement: 249
-    commentsToLikes: 0.016703
-    id: ck0w2d5jhnrcf0i19249xgbc4
+    followers: 19140
+    engagement: 411
+    commentsToLikes: 0.024667
+    id: ck8t9pcqdour90j785t7kaliw
     verified: false
-    hashtags: "#galaxyzflip, #ipadpro2020, #opticalillusion, #punchhole"
-  - username: "mrs.anniemation"
+    hashtags: "#animalart, #concept, #patreon, #illustration"
+  - username: "kevin_dc96"
     fullname: >-
-      Mrs. Annie Mation
+      Kevin De Clercq ®
     location: "Belgium"
-    followers: 14264
-    engagement: 476
-    commentsToLikes: 0.019207
-    id: ck6uhcp708cur0j71u2hx4qe3
+    followers: 77077
+    engagement: 106
+    commentsToLikes: 0.076871
+    id: ck5hnud6uoepu0i11rhku72qo
     verified: false
-    hashtags: "#eleven, #booty, #marvelfanart, #playstationdreams"
+    hashtags: "#quote, #meal, #anniversary, #doediskalm"
   - username: "timmy_the_collector"
     fullname: >-
       Timmy De Craene 🏳️‍🌈
@@ -93,15 +93,15 @@ profiles:
     commentsToLikes: 0.017121
     id: ck5q7j1501t010i11k5cpcarh
     verified: false
-    hashtags: "#pokemonswordshield, #ps1classic, #instagaming, #retrocollectiveeurope"
-  - username: "super_mario_faker"
+    hashtags: "#gamecollecting, #granturismo, #funkopops, #gamerlife"
+  - username: "chopper_chi"
     fullname: >-
-      Super Mario Faker🏳️‍🌈
+      C h o p p e r  Chi Lewis-Parry
     location: "Belgium"
-    followers: 54496
-    engagement: 432
-    commentsToLikes: 0.022581
-    id: ck0u0q55vujz20i19g6lutjnu
-    verified: false
-    hashtags: "#bloodbornecommunity, #merchandise, #animalcrossingmemes, #zavvi"
+    followers: 66385
+    engagement: 67
+    commentsToLikes: 0.062094
+    id: ck0w4ywka134y0i19ies6t79q
+    verified: true
+    hashtags: "#strong, #strength, #flashbackfriday, #coronavirus"
 ---

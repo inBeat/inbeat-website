@@ -1,107 +1,107 @@
 ---
 title: Top 10 Music Instagram Influencers In India In 2020
 description: >-
-  Find top music Instagram influencers in India in 2020. Most popular hashtags: #love #kerala #picoftheday #smile.
+  Find top music Instagram influencers in India in 2020. Most popular hashtags: #throwback #nature #instagood #happynewyear.
 platform: Instagram
 profiles:
-  - username: "shehnaazgill"
+  - username: "aprilia_maniac"
     fullname: >-
-      Shehnaaz Gill
+      SidHarth A S
     location: "India"
-    followers: 4400483
-    engagement: 1494
-    commentsToLikes: 0.037055
-    id: ck5hcar4ph2m70i114br6nvdy
-    verified: true
-    hashtags: "#sharrymaan, #veham, #happybirthday, #sidnaazians"
+    followers: 4540
+    engagement: 2500
+    commentsToLikes: 0.299462
+    id: ck9whx132zv8s0j78644hu0g2
+    verified: false
+    hashtags: "#vishupic, #axor, #green, #greeny"
+  - username: "_vi_sh_nu_astrix____"
+    fullname: >-
+      ☬ M2 | Vishnu Crz📍
+    location: "India"
+    followers: 5469
+    engagement: 3923
+    commentsToLikes: 0.260885
+    id: ckaougn2d06mh0i78jwbo2brp
+    verified: false
+    hashtags: ""
+  - username: "msbilal4498"
+    fullname: >-
+      Bilal Muhammed
+    location: "India"
+    followers: 19870
+    engagement: 1334
+    commentsToLikes: 0.181598
+    id: ck9wgnxtqu7et0j78nhspf54v
+    verified: false
+    hashtags: "#instagood, #keralaweddina, #twostrandtwist, #duke"
   - username: "realkrsna"
     fullname: >-
       KR$NA
     location: "India"
-    followers: 127625
-    engagement: 2813
-    commentsToLikes: 0.040509
+    followers: 154545
+    engagement: 2679
+    commentsToLikes: 0.036010
     id: ck0w1s6xpkvcm0i19korjl6a4
     verified: true
-    hashtags: "#desirap, #teeranbaazchoregalaash, #streetwear, #newmusicontheway"
-  - username: "monalisabagal"
+    hashtags: "#loveyouguys, #firmauthai, #struggle, #kuchdinaur"
+  - username: "prakharnarayandubey"
     fullname: >-
-      Monalisa Bagal official
+      Dr.Prakhar 🇮🇳
     location: "India"
-    followers: 70836
-    engagement: 823
-    commentsToLikes: 0.038864
-    id: ck6uasy1u5gsz0j71da5uhowy
+    followers: 22931
+    engagement: 1234
+    commentsToLikes: 0.057836
+    id: ckap1zlypwqrc0i7871ff3g5o
+    verified: false
+    hashtags: "#lucknowblogger, #fitnessmodel, #blackandwhite, #memes"
+  - username: "vastavikmuhfaad"
+    fullname: >-
+      Muhfaad👑
+    location: "India"
+    followers: 101646
+    engagement: 1909
+    commentsToLikes: 0.034963
+    id: ck9wgufwsv1he0j78h4of3soa
     verified: true
-    hashtags: "#mood, #monalisabagal, #pink, #women"
-  - username: "_smile.killer__"
+    hashtags: "#stayhome, #staysafe, #kartavyamusic, #fixedmatch"
+  - username: "nair_b_arjun"
     fullname: >-
-      gagul_⏺
+      Arjun B Nair
     location: "India"
-    followers: 9896
-    engagement: 1142
-    commentsToLikes: 0.141502
-    id: ck8wf6mqrf7ru0j78ud58gtqd
+    followers: 2320
+    engagement: 2678
+    commentsToLikes: 0.101725
+    id: ck9wp1ca87ddg0j78ngdevvbl
     verified: false
-    hashtags: "#costume, #tiktokindia, #tiktok, #fashionculture"
-  - username: "ajmalnafi"
+    hashtags: "#manoharam, #coversong, #meesapulimala, #instamood"
+  - username: "wolferqueen"
     fullname: >-
-      Ajmalnafi Bin Hazainar
+      😈 bmw gurl 😈
     location: "India"
-    followers: 2264
-    engagement: 1839
-    commentsToLikes: 0.174832
-    id: ck0w3hlrbtgbp0i190ok0bb5h
+    followers: 6922
+    engagement: 1686
+    commentsToLikes: 0.053722
+    id: ck9wiovuz39i40j783tnzz38p
     verified: false
-    hashtags: "#friends, #nature, #kerala, #keralite"
-  - username: "the_white__machine"
+    hashtags: "#bmwmotorrad, #bmwadvriders, #bmwalpina, #motowolf"
+  - username: "_dream_boy_________"
     fullname: >-
-      the_white_machine KTM BIKER🏍️
+      S u j i t h✨
     location: "India"
-    followers: 3477
-    engagement: 2919
-    commentsToLikes: 0.146573
-    id: ck6u2czior3gg0j714fzop7if
+    followers: 2244
+    engagement: 2984
+    commentsToLikes: 0.120683
+    id: ck9whxvzezynp0j784zhb0zi1
     verified: false
-    hashtags: "#rideventure, #kawasakier6, #ktmindia, #happy"
-  - username: "j.ankit123"
+    hashtags: "#happynewyear, #green, #inayat, #christmastree"
+  - username: "s___h___a___r___u"
     fullname: >-
-      🔹Â/\/|<!T J@!/\/🔹🇮🇳
+      شار🔘
     location: "India"
-    followers: 24167
-    engagement: 515
-    commentsToLikes: 0.230931
-    id: ck8t8arv4jq8g0j787sycw58u
+    followers: 5304
+    engagement: 2105
+    commentsToLikes: 0.139025
+    id: ck9whsperzba50j78zp1hw94k
     verified: false
-    hashtags: "#dbunglkz, #farlacious000004, #mumbai, #lovephotography"
-  - username: "nishabhatt.official"
-    fullname: >-
-      Nisha Bhatt ( Sherni 🦁 )
-    location: "India"
-    followers: 269674
-    engagement: 1192
-    commentsToLikes: 0.015015
-    id: ck137fzx3bc930i19crq16ep3
-    verified: false
-    hashtags: "#tibeyandaputt, #tibbeyandaputt, #nobodygoeshungry, #feedmycity"
-  - username: "sanhita_mondal"
-    fullname: >-
-      Juhi❣️
-    location: "India"
-    followers: 10777
-    engagement: 2857
-    commentsToLikes: 0.029786
-    id: ck0tuml5e7rnw0i198acm3blh
-    verified: false
-    hashtags: "#otheryouphotography, #gujjurocks, #delhigirls, #hydrabadgirls"
-  - username: "praveena_madhavan"
-    fullname: >-
-      Praveena madhavan
-    location: "India"
-    followers: 30308
-    engagement: 2104
-    commentsToLikes: 0.022238
-    id: ck13c6c00ytvx0i19l97786pz
-    verified: false
-    hashtags: "#graduationday, #vanithaofficial, #balconyfashion, #madhurya"
+    hashtags: "#instagood, #post, #malluvideos, #mallucomedy"
 ---

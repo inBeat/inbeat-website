@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In New York In 2020
 description: >-
-  Find top beauty Instagram influencers in New York in 2020. Most popular hashtags: #beauty #newyork #fashion #model.
+  Find top beauty Instagram influencers in New York in 2020. Most popular hashtags: #beauty #newyorkcity #newyork #artist.
 platform: Instagram
 profiles:
-  - username: "michaelwoloszynowicz"
+  - username: "blue.poca"
     fullname: >-
-      Michael Woloszynowicz
+      🇵🇷 εɾίɕα ƒαίϯհ
     location: "United States"
-    followers: 105631
-    engagement: 278
-    commentsToLikes: 0.018413
-    id: ck0w0upoig4mf0i19y6euodrk
+    followers: 10328
+    engagement: 598
+    commentsToLikes: 0.122311
+    id: ckap41khn5fsi0i78synhra0z
     verified: false
-    hashtags: "#beauty, #newyorkmodels, #malibu, #girlsswimwear"
-  - username: "amwstyled"
+    hashtags: "#lightmakeup, #latina, #swiperight, #longislandmodel"
+  - username: "biladejavu"
     fullname: >-
-      Amanda M | Atlanta Blogger
+      Bila B
     location: "United States"
-    followers: 14336
-    engagement: 891
-    commentsToLikes: 0.113285
-    id: ck5c6p0dc5w970i11y85p7cfr
+    followers: 5759
+    engagement: 842
+    commentsToLikes: 0.030717
+    id: ckaoqpdh8jqvm0i783855xr28
     verified: false
-    hashtags: "#9to5, #amwstyled, #boutiqueshopping, #chicworkchic"
-  - username: "goldlabelco"
+    hashtags: "#torontofashion, #laphotographers, #documentinglife, #blackmetalgirl"
+  - username: "flexiejaybird"
     fullname: >-
-      GoldLabelCo.com
+      Jessica McCann Nakano (ジェシカ)
     location: "United States"
-    followers: 28205
-    engagement: 282
-    commentsToLikes: 0.034347
-    id: ck8t4bqul66tl0j781uo9qrw1
+    followers: 5158
+    engagement: 902
+    commentsToLikes: 0.029316
+    id: ck9h9trsz9xw10j782ck59026
     verified: false
-    hashtags: "#thinlace, #wigstoragebag, #fulllacewigs, #laceclosuresewin"
-  - username: "lina_hoss"
+    hashtags: "#actionshot, #seethelight, #flashbackfriday, #japanese"
+  - username: "kimfieldsofficial"
     fullname: >-
-      Lina Hoss
+      Kim Fields
     location: "United States"
-    followers: 30348
-    engagement: 162
-    commentsToLikes: 0.020177
-    id: ck5hobcabp9p60i114dwrzvtl
+    followers: 990008
+    engagement: 89
+    commentsToLikes: 0.041942
+    id: ck14l4cbhssbs0i19glcdbsm5
     verified: true
-    hashtags: "#modernart, #naturelover, #life, #winteriscoming"
-  - username: "annaiiix"
-    fullname: >-
-      •𝙰𝙽𝙽𝙰 𝚈𝚄𝚁𝙺𝙾𝚅𝙰•
-    location: "United States"
-    followers: 4519
-    engagement: 1141
-    commentsToLikes: 0.076975
-    id: ck5bwn8bcm0wd0i11qg4ylxi9
-    verified: false
-    hashtags: "#skinny, #color, #pier59, #fashionweek"
+    hashtags: "#praise, #coffeelife, #lovelyday, #fanout"
   - username: "thevanillaplum"
     fullname: >-
       Michaell➡️LA Lifestyle Blogger
     location: "United States"
-    followers: 82740
-    engagement: 169
-    commentsToLikes: 0.082503
+    followers: 81156
+    engagement: 177
+    commentsToLikes: 0.085381
     id: ck5zmrljon3hc0i148om2pm2j
     verified: false
-    hashtags: "#postitfortheaesthetic, #womeninbusiness, #homeinspo, #inspiringwomen"
+    hashtags: "#styleoftheday, #bloggerlife, #girlswhotravel, #seventies"
+  - username: "mariavalensilva"
+    fullname: >-
+      MARIA VALENTINA | NY Blogger ✨
+    location: "United States"
+    followers: 2337
+    engagement: 2114
+    commentsToLikes: 0.135283
+    id: ckap1gsnbuj590i787sw3dqyt
+    verified: false
+    hashtags: "#vicidolls, #latinabirthday, #instastyle, #picsartedit"
+  - username: "tall.tay"
+    fullname: >-
+      𝐓 𝐀 𝐘 𝐋 𝐎 𝐑   𝐌 𝐀 𝐑 𝐈 𝐄
+    location: "United States"
+    followers: 16404
+    engagement: 364
+    commentsToLikes: 0.063377
+    id: ck5cjiahburxu0i11pg5kfjwb
+    verified: false
+    hashtags: "#naturalhair, #longlegs, #brandambassador, #positivevibes"
   - username: "nyclivesnyc"
     fullname: >-
       New York City 📸 🌃❤️
     location: "United States"
-    followers: 35888
-    engagement: 614
-    commentsToLikes: 0.007620
+    followers: 37192
+    engagement: 716
+    commentsToLikes: 0.007397
     id: ck15r9pg06unm0i19evjtobo9
     verified: false
-    hashtags: "#oneworldtradecenter, #yellowtaxi, #newyorknights, #empirestateofmind"
-  - username: "caro.valero"
+    hashtags: "#goodmorning, #rooseveltisland, #queens, #longislandcity"
+  - username: "kitareign"
     fullname: >-
-      CAROLINA VALERO
+      K I T A R E I G N 👑 🇬🇾
     location: "United States"
-    followers: 63360
-    engagement: 343
-    commentsToLikes: 0.047304
-    id: ck5c9alkvb3aq0i115ajxzm4x
+    followers: 867724
+    engagement: 121
+    commentsToLikes: 0.016324
+    id: ck14lr4m2w2ph0i19ob43g8uk
     verified: false
-    hashtags: "#goodnight, #timewiththelovedones, #averymerrychristmasall, #sportfashion"
-  - username: "nathan_yakobovitch"
+    hashtags: "#curvy, #losangeles, #dmv, #neworleans"
+  - username: "hadyouatsalaam"
     fullname: >-
-      Nathan Yakobovitch
+      Shahd Khidir
     location: "United States"
-    followers: 2141
-    engagement: 1163
-    commentsToLikes: 0.095418
-    id: ck6ug7wm21fn90j7165s485gc
+    followers: 82340
+    engagement: 138
+    commentsToLikes: 0.048544
+    id: ck6tn380z91m80j71nakv1xp6
     verified: false
-    hashtags: "#fitnessjourney, #israelinstagram, #blond, #passion"
-  - username: "ffzok"
-    fullname: >-
-      Federico Fernández
-    location: "United States"
-    followers: 15851
-    engagement: 535
-    commentsToLikes: 0.009759
-    id: ck15qwm5b4zvu0i193ymg4sul
-    verified: false
-    hashtags: "#girly, #vtmag, #newyork, #menswear"
+    hashtags: "#covid19, #coveid2020, #quaranteid, #blackouteid"
 ---

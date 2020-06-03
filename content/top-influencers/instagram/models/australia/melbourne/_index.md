@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Melbourne In 2020
 description: >-
-  Find top models Instagram influencers in Melbourne in 2020. Most popular hashtags: #melbourne #model #love #fashion.
+  Find top models Instagram influencers in Melbourne in 2020. Most popular hashtags: #style #fashion #staysafe #beauty.
 platform: Instagram
 profiles:
   - username: "akiramorrow_"
     fullname: >-
       ᗩKIᖇᗩ ᗰOᖇᖇOᗯ
     location: "Australia"
-    followers: 25416
-    engagement: 257
-    commentsToLikes: 0.116365
+    followers: 26268
+    engagement: 311
+    commentsToLikes: 0.111106
     id: ck14hu3ync5c20i198pb22c61
     verified: false
-    hashtags: "#tiktokaustralia, #quarantine, #suitcase, #longhair"
-  - username: "theageaustralia"
-    fullname: >-
-      The Age
-    location: "Australia"
-    followers: 65594
-    engagement: 47
-    commentsToLikes: 0.042306
-    id: ck5c1871jumzh0i11qfa09aet
-    verified: true
-    hashtags: "#rail, #socialisolation, #theatre, #melbourne"
-  - username: "ella._model"
-    fullname: >-
-      Ella Kate💗
-    location: "Australia"
-    followers: 6575
-    engagement: 764
-    commentsToLikes: 0.340688
-    id: ck6u3rqn5zi120j71engjvmhm
-    verified: false
-    hashtags: "#adventure, #hoilday, #dancermodel, #teenfashion"
+    hashtags: "#lostinthought, #staysafe, #tiktok, #thinking"
   - username: "kristyleedenovan"
     fullname: >-
       KRISTY LEE  DENOVAN
     location: "Australia"
-    followers: 6387
-    engagement: 1342
-    commentsToLikes: 0.042049
+    followers: 6308
+    engagement: 1369
+    commentsToLikes: 0.041532
     id: ck6ua2t5a15km0j71pd1u5tzx
     verified: false
-    hashtags: "#instapic, #fierce, #picoftheday, #pointeshoes"
-  - username: "poppy_the_frenchie_pup"
+    hashtags: "#projectiondance, #enpointe, #exquisite, #artistry"
+  - username: "gradywulff"
     fullname: >-
-      Poppy The Puppy
+      Grady Wulff
     location: "Australia"
-    followers: 3677
-    engagement: 930
-    commentsToLikes: 0.546758
-    id: ck15sol9ze1p50i19arl26csr
+    followers: 24512
+    engagement: 230
+    commentsToLikes: 0.045708
+    id: ck6tqag14qb800j71my3p5arb
     verified: false
-    hashtags: "#frenchbulldogsofinsta, #pawtytime, #frenchiesofmelbourne, #happyhumpday"
-  - username: "kam_eraa"
+    hashtags: "#hardworkpaysoff, #nye, #southwest, #foxsportsnews"
+  - username: "vitoriakauer"
     fullname: >-
-      KERRI MCAULEY PHOTOGRAPHY
+      VITÓRIA KAUER
     location: "Australia"
-    followers: 17270
-    engagement: 490
-    commentsToLikes: 0.019039
-    id: ck0tt2ld30vyq0i19z7jxtf1e
+    followers: 5318
+    engagement: 971
+    commentsToLikes: 0.037690
+    id: ck6u59gvm8bvy0j712l71uhgk
     verified: false
-    hashtags: "#marriage, #photographicstudio, #portraits, #beautyphotography"
+    hashtags: "#carnaval2020, #diamondbeach, #deixaela, #bondi"
+  - username: "lozpicartistry"
+    fullname: >-
+      Perth Makeup Artist
+    location: "Australia"
+    followers: 26218
+    engagement: 220
+    commentsToLikes: 0.144796
+    id: ck0tyg0almnpw0i19y02jd9zk
+    verified: false
+    hashtags: "#mafs, #fluffybrow, #brisbanemua, #pertheveryday"
   - username: "mikayla_stevens.06"
     fullname: >-
       MIKAYLA STEVENS
     location: "Australia"
-    followers: 40986
-    engagement: 778
-    commentsToLikes: 0.038972
+    followers: 43713
+    engagement: 491
+    commentsToLikes: 0.067036
     id: ck6u71fqeiww80j712x08dvh3
     verified: false
-    hashtags: "#modelling, #groupshoot, #picturesnme, #ajcophotography"
+    hashtags: "#whiteonwhite, #summerdays, #bardot, #iphonepics"
+  - username: "jewelthealternative"
+    fullname: >-
+      JEWEL 🇫🇷🇲🇦 ヅ
+    location: "Australia"
+    followers: 5524
+    engagement: 1165
+    commentsToLikes: 0.040241
+    id: ck5c7ed4j7dly0i11n5xapfou
+    verified: false
+    hashtags: "#pumaau"
   - username: "natkalinowski"
     fullname: >-
       Natalia Kalinowski
     location: "Australia"
-    followers: 111763
-    engagement: 314
-    commentsToLikes: 0.025633
+    followers: 110740
+    engagement: 346
+    commentsToLikes: 0.018590
     id: ck6trxfdr1mj30j71xddclqcz
     verified: false
-    hashtags: "#staypostive, #selfisolation, #supportlocalbusiness, #lockdownforlove"
-  - username: "jewelthealternative"
-    fullname: >-
-      JEWEL 🇫🇷🇲🇦 ヅ
-    location: "Australia"
-    followers: 5591
-    engagement: 1101
-    commentsToLikes: 0.037287
-    id: ck5c7ed4j7dly0i11n5xapfou
-    verified: false
-    hashtags: "#pumaau"
+    hashtags: ""
   - username: "emilyelizabethmay"
     fullname: >-
-      emily🌙 outfit inspo
+      e m i l y 🌙
     location: "Australia"
-    followers: 26133
-    engagement: 99
-    commentsToLikes: 0.075727
+    followers: 26234
+    engagement: 85
+    commentsToLikes: 0.043012
     id: ck0ue9uogkw8d0i195wheor9l
     verified: false
-    hashtags: "#blackandwhiteblazer, #savingmoney, #islandlife, #holidayootd"
+    hashtags: "#blogpost"
+  - username: "sharonjohal"
+    fullname: >-
+      SHARON JOHAL
+    location: "Australia"
+    followers: 45555
+    engagement: 154
+    commentsToLikes: 0.065712
+    id: ck0tvnxf4c3140i1908x3na5h
+    verified: true
+    hashtags: "#bluestaffy, #blueeyes, #truth, #walk"
 ---

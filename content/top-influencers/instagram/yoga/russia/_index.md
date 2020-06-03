@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Russia In 2020
 description: >-
-  Find top yoga Instagram influencers in Russia in 2020. Most popular hashtags: #yoga #sportmedicalgroup #art #editorial.
+  Find top yoga Instagram influencers in Russia in 2020. Most popular hashtags: #stayhome # #summertime #chennai.
 platform: Instagram
 profiles:
   - username: "anikoyoga"
     fullname: >-
       ★ ЧЕРЕЗ ЙОГУ К МЕЧТЕ
     location: "Russia"
-    followers: 279516
-    engagement: 168
-    commentsToLikes: 0.035730
+    followers: 282238
+    engagement: 211
+    commentsToLikes: 0.047279
     id: ck15ucgt2mh9w0i19n08lkd1m
     verified: false
     hashtags: ""
-  - username: "tayanayarkaya"
+  - username: "maximbusel"
     fullname: >-
-      ⋆ T A Y A N A ⋆ Bali Muse
+      Максим Бусел / MAKSIMS BUSELS
     location: "Russia"
-    followers: 109806
-    engagement: 261
-    commentsToLikes: 0.019444
-    id: ck0vz6tjz7ljc0i19ccgtmxs1
+    followers: 10707
+    engagement: 1151
+    commentsToLikes: 0.041025
+    id: ck138d4a0fnn00i19ev0ajgwf
     verified: false
-    hashtags: "#trianglswim, #tropicalvibes, #thenoisetier, #staynatural"
+    hashtags: "#gentlemoonband, #gentlemoon, #internationaldanceday, #yamahapiano"
+  - username: "igorfresh"
+    fullname: >-
+      Игорь Фреш Ковалёв🦍 Всё Огонь🔥
+    location: "Russia"
+    followers: 112670
+    engagement: 148
+    commentsToLikes: 0.069696
+    id: ckap2suhv063n0i78dgc2n5tt
+    verified: false
+    hashtags: "#fjcruiser"
+  - username: "annazvizh"
+    fullname: >-
+      АНЯ ЗВИЖИНСКАЯ/ANIA ZVIZH
+    location: "Russia"
+    followers: 104833
+    engagement: 112
+    commentsToLikes: 0.096560
+    id: ck5hgjl1c34730i119gtvc44q
+    verified: false
+    hashtags: "#soulmate, #abrahamlincoln, #powerful, #moodoftheday"
+  - username: "vera_pshenichnikova_"
+    fullname: >-
+      ! Вера Пшеничникова
+    location: "Russia"
+    followers: 6941
+    engagement: 1389
+    commentsToLikes: 0.022240
+    id: ckap0pfohrasz0i78jfypxtc3
+    verified: false
+    hashtags: "#covid19"
   - username: "rashevskaya_anastasia"
     fullname: >-
-      Адекватная йога 🧠
+      Адекватная йога 🧠
     location: "Russia"
-    followers: 13811
-    engagement: 500
-    commentsToLikes: 0.047842
+    followers: 15144
+    engagement: 504
+    commentsToLikes: 0.044068
     id: ck6tyn8364pt70j71glpbkm4l
     verified: false
-    hashtags: "#rashevskaya, #lowercorebalance, #yantastart"
-  - username: "piroggi6e"
+    hashtags: "#rashevskaya"
+  - username: "_lucky_ladybird"
     fullname: >-
-      Ира-Тренер/Растяжка/Йога/Дзэн👻
+      Yoga💫Stretching💫Fitness
     location: "Russia"
-    followers: 35911
-    engagement: 148
-    commentsToLikes: 0.032703
-    id: ck5hocjqrpbr80i11plofujat
+    followers: 10060
+    engagement: 874
+    commentsToLikes: 0.150023
+    id: ck9hbedrjgghq0j788n47p5uy
     verified: false
-    hashtags: ""
-  - username: "amar_atma_kaur"
-    fullname: >-
-      KUNDALINI YOGA•AMAR ATMA KAUR
-    location: "Russia"
-    followers: 18049
-    engagement: 233
-    commentsToLikes: 0.036895
-    id: ck13b6anxtvw80i19dhdywkv0
-    verified: false
-    hashtags: "#love, #merrychristmas, #lifeisgood, #thoughts"
+    hashtags: "#handstand, #calm, #beautiful, #yogawheelpose"
   - username: "viktoriya_lisova"
     fullname: >-
       V I K T O R I Y A
     location: "Russia"
-    followers: 17587
-    engagement: 430
-    commentsToLikes: 0.015916
+    followers: 17488
+    engagement: 455
+    commentsToLikes: 0.015968
     id: ck6u2vmt4u6oj0j71kn2sd360
     verified: false
-    hashtags: "#painting, #sunset, #dancer, #life"
-  - username: "yanastryeltsova"
+    hashtags: "#lifeisbeautiful, #sand, #sunset, #life"
+  - username: "piroggi6e"
     fullname: >-
-      Яна Стрельцова
+      Ира-Тренер💃🏼Растяжка и йога
     location: "Russia"
-    followers: 24640
-    engagement: 545
-    commentsToLikes: 0.036196
-    id: ck6u5imlu9upg0j71hlzqm3mb
+    followers: 39208
+    engagement: 143
+    commentsToLikes: 0.026631
+    id: ck5hocjqrpbr80i11plofujat
     verified: false
-    hashtags: "#yanastryeltsova"
-  - username: "nedogovorova"
+    hashtags: ""
+  - username: "conzayc"
     fullname: >-
-      Alisa Nedogovorova
+      Kostia Zaits
     location: "Russia"
-    followers: 26203
-    engagement: 283
-    commentsToLikes: 0.029476
-    id: ck5pyw21vy2rc0i11sjl2y4xp
+    followers: 34004
+    engagement: 324
+    commentsToLikes: 0.003927
+    id: ck5zuwp0u36cf0i14beoltvqj
     verified: false
-    hashtags: "#yogapractice, #ardhachandrasana"
-  - username: "tsyganovaclimb"
-    fullname: >-
-      Anna Tsyganova
-    location: "Russia"
-    followers: 5644
-    engagement: 671
-    commentsToLikes: 0.013827
-    id: ck5q7cn8c0wiw0i11x7ov4bjg
-    verified: false
-    hashtags: "#cfr, #climbing, #outdoorlife, #2020"
-  - username: "nastyatoledo"
-    fullname: >-
-      Анастасия Степина
-    location: "Russia"
-    followers: 22867
-    engagement: 250
-    commentsToLikes: 0.059805
-    id: ck5pv9r12gtnq0i118l272lpc
-    verified: false
-    hashtags: "#handstand, #yoga, #yogafun, #yogatogether"
+    hashtags: "#son, #stayhome, #ekapadagalavasana, #mulabandhasana"
 ---

@@ -1,76 +1,36 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Toronto In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #tattooartist #tattoo #torontotattoo.
+  Find top tattoo-artists Instagram influencers in Toronto in 2020. Most popular hashtags: #tattooartist #illustration #dotworktattoo #blacktattoo.
 platform: Instagram
 profiles:
-  - username: "camachotattoo"
-    fullname: >-
-      CAMACHO
-    location: "Canada"
-    followers: 63615
-    engagement: 332
-    commentsToLikes: 0.034145
-    id: ck0tzl3v2qq000i19fjw8tvj9
-    verified: false
-    hashtags: "#instaart, #tattooing, #tattoos, #mythology"
-  - username: "lu_lorammartin_tattoos"
-    fullname: >-
-      Lu • Floral Tattoo Artist
-    location: "Canada"
-    followers: 37959
-    engagement: 326
-    commentsToLikes: 0.010955
-    id: ck0w15sichpcz0i19tz02i1xl
-    verified: false
-    hashtags: "#blacktattooart, #lineworktattoo, #botanicaltattoo, #coveruptattoo"
   - username: "tris10_chronicink"
     fullname: >-
       TRISTEN ZHANG
     location: "Canada"
-    followers: 105433
-    engagement: 277
-    commentsToLikes: 0.010770
+    followers: 105164
+    engagement: 262
+    commentsToLikes: 0.011469
     id: ck6u74rtvjh7j0j71d52usznb
     verified: false
-    hashtags: "#covid19"
-  - username: "wildfirepunch"
+    hashtags: "#canadiangunnutz, #monkeyking, #inkjecta, #mask"
+  - username: "sam.daveena"
     fullname: >-
-      🅟🅐🅜 🔥
+      Eighth House 88
     location: "Canada"
-    followers: 10369
-    engagement: 332
-    commentsToLikes: 0.012654
-    id: ck14knss1qfs40i19guuel8ew
+    followers: 2108
+    engagement: 1075
+    commentsToLikes: 0.081566
+    id: ck8t8vilalzuk0j787tdy8mpq
     verified: false
-    hashtags: "#dogsofinstagram, #tattoo, #animetattoo, #blackandgreytattoo"
-  - username: "ivamarcina"
-    fullname: >-
-      I   V   A   N   A
-    location: "Canada"
-    followers: 17325
-    engagement: 342
-    commentsToLikes: 0.038626
-    id: ck8sz2vlvmyqh0j78stz019nm
-    verified: false
-    hashtags: "#tattoo, #inkedmag, #sanidermaftercare, #bnginksociety"
-  - username: "blacksnakeroot"
-    fullname: >-
-      🥀 𝕷 𝖎 𝖘 .
-    location: "Canada"
-    followers: 6402
-    engagement: 460
-    commentsToLikes: 0.018362
-    id: ck6tz1mub74ul0j717vx9nc07
-    verified: false
-    hashtags: "#blacktraditionals, #ttt, #blxink, #blacktattoos"
+    hashtags: "#consciousart, #earthelement, #tattootalisman, #marrakeshstyle"
   - username: "cindy_chronicink"
     fullname: >-
       Cindy Liu
     location: "Canada"
-    followers: 9778
-    engagement: 615
-    commentsToLikes: 0.017214
+    followers: 10327
+    engagement: 702
+    commentsToLikes: 0.016425
     id: ck8t7l3uhh7mw0j783p8g7tkp
     verified: false
     hashtags: ""
@@ -78,30 +38,70 @@ profiles:
     fullname: >-
       Amanda Martin
     location: "Canada"
-    followers: 27210
-    engagement: 469
-    commentsToLikes: 0.009065
+    followers: 26620
+    engagement: 434
+    commentsToLikes: 0.028486
     id: ck8t0bxvwrjqh0j782ij2nrwm
     verified: false
-    hashtags: "#sharpiepen, #traditionalart, #inktober, #blackwingpencil"
-  - username: "ninadinh"
+    hashtags: "#flowers, #cintiq, #latenightsketch, #tattooflasg"
+  - username: "blacksnakeroot"
     fullname: >-
-      NINA DINH TATTOOS
+      🥀 𝕷 𝖎 𝖘 .
     location: "Canada"
-    followers: 34062
-    engagement: 389
-    commentsToLikes: 0.036523
-    id: ck5qef60r06jc0i118ru86w1q
+    followers: 6361
+    engagement: 468
+    commentsToLikes: 0.020857
+    id: ck6tz1mub74ul0j717vx9nc07
     verified: false
-    hashtags: "#bnginksociety, #skinartmag, #tattoosociety, #heartbreaker"
-  - username: "queenie_tattoo_ist"
+    hashtags: "#ballpointpen, #bicpen, #dotworktattoo, #knife"
+  - username: "isvy_hontattoo"
     fullname: >-
-      Queenie Yang
+      Isvinthan Rajakumaran
     location: "Canada"
-    followers: 6093
-    engagement: 989
-    commentsToLikes: 0.006430
-    id: ck0vz476277uz0i19th0sk4yg
+    followers: 5894
+    engagement: 618
+    commentsToLikes: 0.060545
+    id: ckap8flzso3oi0i78lpc3hs2j
     verified: false
-    hashtags: "#animals, #mapleleaf, #ship, #funtattoo"
+    hashtags: "#tattoos, #rainnwilson, #healedtattoo, #poseidon"
+  - username: "lukalajoie"
+    fullname: >-
+      Luka lajoie
+    location: "Canada"
+    followers: 273821
+    engagement: 152
+    commentsToLikes: 0.010986
+    id: ck5buaythhgrf0i11wozlkgzk
+    verified: false
+    hashtags: "#stayhome"
+  - username: "frankcarrilho"
+    fullname: >-
+      Frank Carrilho
+    location: "Canada"
+    followers: 167007
+    engagement: 452
+    commentsToLikes: 0.013416
+    id: ck6u2gxjsrrbu0j71ijo41afm
+    verified: false
+    hashtags: "#inked, #dotwork, #dragon, #owltattoo"
+  - username: "lu_lorammartin_tattoos"
+    fullname: >-
+      Lu • Floral Tattoo Artist
+    location: "Canada"
+    followers: 38449
+    engagement: 395
+    commentsToLikes: 0.011370
+    id: ck0w15sichpcz0i19tz02i1xl
+    verified: false
+    hashtags: "#floraldrawing, #ladytattooers, #floralartwork, #drawing"
+  - username: "jieminart"
+    fullname: >-
+      Jiemin Lin
+    location: "Canada"
+    followers: 5273
+    engagement: 476
+    commentsToLikes: 0.054237
+    id: ck8t7l4tsh7qn0j784jrqeurb
+    verified: false
+    hashtags: "#disneytattoo, #tattooartist, #snailtattoo, #tiger"
 ---

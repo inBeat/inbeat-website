@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top beauty Instagram influencers in Brisbane in 2020. Most popular hashtags: #beauty #makeup #model #brisbane.
+  Find top beauty Instagram influencers in Brisbane in 2020. Most popular hashtags: #beauty #model #sunnydays #brisbanebeauty.
 platform: Instagram
 profiles:
-  - username: "masphoto.official"
+  - username: "brisbanefamilyexplorers"
     fullname: >-
-      Masterpiece Art Studio 📸🌴👙
+      Brisbane Family Explorers 🇦🇺
     location: "Australia"
-    followers: 5329
-    engagement: 535
-    commentsToLikes: 0.104884
-    id: ck6u339dyvfx90j71bhrei5ev
+    followers: 22963
+    engagement: 437
+    commentsToLikes: 0.431528
+    id: ck138lejigswn0i19p477v8bv
     verified: false
-    hashtags: "#fitnesslife, #selflove, #vibes, #model"
-  - username: "taylahhoney_05"
+    hashtags: "#brisbanechef, #kidscooking, #woorimbeach, #disneymovie"
+  - username: "brookespriiggs"
     fullname: >-
-      Taylah Honey
+      BROOKE
     location: "Australia"
-    followers: 35045
-    engagement: 199
-    commentsToLikes: 0.054225
-    id: ck14i7q4ze24z0i19t5aqrju3
+    followers: 10910
+    engagement: 913
+    commentsToLikes: 0.033829
+    id: ckap7dvcojn9k0i78vkuwv4fm
     verified: false
-    hashtags: "#lovisa, #studiophotography, #graffitiart, #smilesformiles"
-  - username: "polina.ziuzina_"
+    hashtags: "#ocean, #photographygoals, #sunkissed, #lashlovinyou"
+  - username: "caashacreations"
     fullname: >-
-      ⓅⓄⓁⒾⓃⒶ🌸
+      CaashaCreations
     location: "Australia"
-    followers: 14944
-    engagement: 326
-    commentsToLikes: 0.060712
-    id: ck14j055yhym30i19b0phjmwl
+    followers: 47717
+    engagement: 146
+    commentsToLikes: 0.149424
+    id: ck14hao799e0c0i193npmtyzk
     verified: false
-    hashtags: "#photographer, #model, #beautifulplaces, #beachstyle"
-  - username: "jade.syrett"
+    hashtags: "#moody, #modeling, #ketodiet, #bootseason"
+  - username: "shanigrimmond"
     fullname: >-
-      JADE
+      SHANI GRIMMOND
     location: "Australia"
-    followers: 50814
-    engagement: 333
-    commentsToLikes: 0.059239
-    id: ck13a1y82o8060i19gci5msnb
-    verified: false
-    hashtags: "#brisbanemodel, #portraitmood, #nightout, #sport"
+    followers: 1457419
+    engagement: 341
+    commentsToLikes: 0.004108
+    id: ck14lcplpu08v0i190vpnxefr
+    verified: true
+    hashtags: "#camillawithlove, #danielwellington"
   - username: "caake.face"
     fullname: >-
       S T A C E Y 💁🏼‍♀️
     location: "Australia"
-    followers: 16876
-    engagement: 154
-    commentsToLikes: 0.045641
+    followers: 16614
+    engagement: 140
+    commentsToLikes: 0.047488
     id: ck15ukv0enodc0i19qncm06fr
     verified: false
-    hashtags: "#cutcrease, #beautyjunkie, #beautylover, #beautyaddict"
+    hashtags: "#macjunkies, #jeffreestar, #meccamaxima, #igbeauty"
+  - username: "temmii_jaydee8"
+    fullname: >-
+      TEMMII JAYDEE ✨
+    location: "Australia"
+    followers: 23570
+    engagement: 286
+    commentsToLikes: 0.102782
+    id: ckaos8vfdqmqp0i78mynsc6v0
+    verified: false
+    hashtags: "#fashion, #clotheshire, #beauty, #model"
   - username: "julietaroldann"
     fullname: >-
       Julieta Roldan 🇦🇺 🇦🇷
     location: "Australia"
-    followers: 79914
-    engagement: 153
-    commentsToLikes: 0.040072
+    followers: 79181
+    engagement: 134
+    commentsToLikes: 0.041640
     id: ck0ud6ywjigcn0i19d8n00v30
     verified: false
-    hashtags: "#lowfatdiet, #doggifts, #christmaspresents, #bestdonuts"
-  - username: "alarnataylor_hair_mua"
+    hashtags: "#uncertaintimes, #mangojuice, #glowinskin, #caffeineaddict"
+  - username: "reanin.glah"
     fullname: >-
-      Alarna Taylor Hair Stylist/MUA
+      Makeup Hair & Brow Artist
     location: "Australia"
-    followers: 17861
-    engagement: 291
-    commentsToLikes: 0.019967
-    id: ck5c6636c4sss0i117sv699dj
+    followers: 18918
+    engagement: 140
+    commentsToLikes: 0.032223
+    id: ck6uey2xytpuk0j71vt9axw6q
     verified: false
-    hashtags: "#closeup, #armanibeauty, #thatglow, #sunkissed"
-  - username: "sarahjaneroza"
+    hashtags: "#billyj, #nikkimakeup, #iconiclondon, #fashioneditorial"
+  - username: "thesilverlining_70"
     fullname: >-
-      SARAH ROZA
+      L U I S A   D U N N
     location: "Australia"
-    followers: 337287
-    engagement: 220
-    commentsToLikes: 0.042483
-    id: ck5cl1ocoy2jm0i112ylzgnqh
-    verified: true
-    hashtags: "#lovers, #day1, #support, #luncheon"
+    followers: 21593
+    engagement: 1075
+    commentsToLikes: 0.072465
+    id: ck9hboj9fhrl00j7868rq2imh
+    verified: false
+    hashtags: "#saltandpepper, #gogrombre, #aginggracefully, #growsilver"
   - username: "georgefavios"
     fullname: >-
       George Favios
     location: "Australia"
-    followers: 48667
-    engagement: 233
-    commentsToLikes: 0.056360
+    followers: 48213
+    engagement: 236
+    commentsToLikes: 0.056171
     id: ck0w2qgrtpod20i19sz8eyjeg
     verified: false
-    hashtags: "#beauty, #makeupartist, #portugal, #beautiful"
-  - username: "centainelatham"
-    fullname: >-
-      CENTAINE LATHAM 🌴
-    location: "Australia"
-    followers: 28777
-    engagement: 198
-    commentsToLikes: 0.118071
-    id: ck5cfdcjjmqb20i1184udyf1d
-    verified: false
-    hashtags: "#smilemakeover, #cosmetics, #beautiful, #whitersmile"
+    hashtags: "#stunning, #legendary, #summer2018, #losangeles"
 ---

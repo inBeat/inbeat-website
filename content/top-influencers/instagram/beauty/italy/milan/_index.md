@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Milan In 2020
 description: >-
-  Find top beauty Instagram influencers in Milan in 2020. Most popular hashtags: #iorestoacasa #suppliedby #fashion #beautyroutine.
+  Find top beauty Instagram influencers in Milan in 2020. Most popular hashtags: #beauty #milano #life #model.
 platform: Instagram
 profiles:
-  - username: "erikanicolosi_"
+  - username: "letwins__"
     fullname: >-
-      Erika Nicolosi👩🏼🌻
+      LeTwins-Ylenia e Nicole Burato
     location: "Italy"
-    followers: 19103
-    engagement: 415
-    commentsToLikes: 0.019969
-    id: ck8t7bbavg74s0j78gd2v5tfx
+    followers: 128116
+    engagement: 234
+    commentsToLikes: 0.207570
+    id: ck5zp8rxas7l30i14g29ntwrh
     verified: false
-    hashtags: "#ootd, #travelblogger, #theparisguru, #details"
-  - username: "maria_angela_galizia"
+    hashtags: "#aestheticoutfit, #90svintage, #longcurlyhair, #revival"
+  - username: "alenareysh"
     fullname: >-
-      Maria Angela Galizia
+      Reysh Alena
     location: "Italy"
-    followers: 28183
-    engagement: 284
-    commentsToLikes: 0.339055
-    id: ck15s4cpvb5ta0i193jimbkgl
+    followers: 8983
+    engagement: 835
+    commentsToLikes: 0.074889
+    id: ck0vw2h07rsxi0i19igz2hdda
     verified: false
-    hashtags: "#giveaway, #desenio, #leggere, #plussize"
-  - username: "irenardella"
-    fullname: >-
-      🦄 theblondeunicorn®
-    location: "Italy"
-    followers: 17549
-    engagement: 259
-    commentsToLikes: 0.190543
-    id: ck5zzdhfmbj6y0i14xq8scwl0
-    verified: false
-    hashtags: "#lunchideas, #snowardcandle, #women, #passenger"
+    hashtags: "#coolkidsbrands, #ceremony, #elegance, #backstagephoto"
   - username: "salvettisonia"
     fullname: >-
       𝓢𝓪𝓵𝓿𝓮𝓽𝓽𝓲 𝓢𝓸𝓷𝓲𝓪
     location: "Italy"
-    followers: 60932
-    engagement: 141
-    commentsToLikes: 0.136507
+    followers: 60385
+    engagement: 146
+    commentsToLikes: 0.134325
     id: ck14k97y6odsf0i1936ga7fqe
     verified: false
-    hashtags: "#lagodibraies, #queenieke, #pixibeauty, #merribeleu"
+    hashtags: "#nomoney, #sanpellegrinoinlove2020, #restaurant, #italianmood"
+  - username: "maria_angela_galizia"
+    fullname: >-
+      Maria Angela Galizia
+    location: "Italy"
+    followers: 29990
+    engagement: 268
+    commentsToLikes: 0.341334
+    id: ck15s4cpvb5ta0i193jimbkgl
+    verified: false
+    hashtags: "#cremavisogiorno, #cremavisonotte, #poster, #styles"
+  - username: "irenardella"
+    fullname: >-
+      🦄 theblondeunicorn®
+    location: "Italy"
+    followers: 17532
+    engagement: 262
+    commentsToLikes: 0.191858
+    id: ck5zzdhfmbj6y0i14xq8scwl0
+    verified: false
+    hashtags: "#jewelry, #watch, #voogue, #experiences"
   - username: "napoletanopasquale79"
     fullname: >-
       ∞ ᑭαᔕɊμα⍳ξ  ᑎα⍴㋡⍳ξ☂α⋒⍟  ♔☈ξα⍳
     location: "Italy"
-    followers: 56829
-    engagement: 450
-    commentsToLikes: 0.212061
+    followers: 62610
+    engagement: 291
+    commentsToLikes: 0.254638
     id: ck6u6mbb1gfl50j714wpriydh
     verified: false
-    hashtags: "#iosonolamiacitta, #isometrics, #argento, #mgaddicted"
-  - username: "_emy_bernardi"
-    fullname: >-
-      ℰℳᎽ 👑♥️
-    location: "Italy"
-    followers: 60219
-    engagement: 217
-    commentsToLikes: 0.132119
-    id: ck14gt4606w3l0i19ogr7mq5s
-    verified: false
-    hashtags: "#winteroutfit, #organic, #handcreams, #cedro"
-  - username: "ameliefleur_"
-    fullname: >-
-      Roberta Geraci
-    location: "Italy"
-    followers: 106677
-    engagement: 170
-    commentsToLikes: 0.121185
-    id: ck0ue3e94khzg0i19rkoq7dr2
-    verified: false
-    hashtags: "#ootdgoals, #phonecase, #safiracollection, #todayiamwearing"
-  - username: "liquorsbeauty"
-    fullname: >-
-      Luca 🐆🇮🇹
-    location: "Italy"
-    followers: 24010
-    engagement: 953
-    commentsToLikes: 0.114863
-    id: ck138czq8fn0e0i19kkek2r3r
-    verified: false
-    hashtags: "#lipsswatches, #smokeyeyes, #fullface, #jeffreestar"
-  - username: "gianmariasainato"
-    fullname: >-
-      Gian Maria Sainato
-    location: "Italy"
-    followers: 599657
-    engagement: 108
-    commentsToLikes: 0.033068
-    id: ck0vxng79zrua0i19lyb65x8t
-    verified: true
-    hashtags: "#meethendricks, #tods, #harmontblainefw20, #suppliedby"
+    hashtags: "#igers, #quarantine, #giveawaytime, #iosononapoli"
   - username: "veronicafalco"
     fullname: >-
       Veronica | Fashion & Lifestyle
     location: "Italy"
-    followers: 99275
-    engagement: 102
-    commentsToLikes: 0.018071
+    followers: 97894
+    engagement: 87
+    commentsToLikes: 0.046982
     id: ck0vz610q7hfy0i19h5e05dlt
     verified: false
-    hashtags: "#workcorner, #ootd, #ghddeepscarlet, #mondaymood"
+    hashtags: "#mondaymood, #girlsgoneloavies, #stoacasa, #stateacasa"
+  - username: "nata_a_luglio"
+    fullname: >-
+      Giusy Loddo
+    location: "Italy"
+    followers: 6571
+    engagement: 819
+    commentsToLikes: 0.054162
+    id: ck8sw0nbnde9t0j78ffyq61bx
+    verified: false
+    hashtags: "#photodark, #beachlover, #style, #sardegnapics"
+  - username: "noi_siamo_trash"
+    fullname: >-
+      NOI SIAMO TRASH
+    location: "Italy"
+    followers: 12491
+    engagement: 1687
+    commentsToLikes: 0.084961
+    id: ck8t9rscep3yv0j78qqskzwn7
+    verified: false
+    hashtags: "#celafaremo, #influencer, #paolacaruso, #andreazelletta"
+  - username: "tg1_rai_official"
+    fullname: >-
+      Tg1 Rai
+    location: "Italy"
+    followers: 89270
+    engagement: 191
+    commentsToLikes: 0.020934
+    id: ck8szoyn2p6wc0j78744rk0m3
+    verified: false
+    hashtags: "#soul, #africa, #falconeeborsellino, #china"
 ---

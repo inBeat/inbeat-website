@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Melbourne In 2020
 description: >-
-  Find top food Instagram influencers in Melbourne in 2020. Most popular hashtags: #melbourne #food #foodie #foodporn.
+  Find top food Instagram influencers in Melbourne in 2020. Most popular hashtags: #foodie #food #melbourne #fashion.
 platform: Instagram
 profiles:
-  - username: "junclarekim"
+  - username: "clairebonaccorso_ifbbpro"
     fullname: >-
-      JUN KIM
+      C B
     location: "Australia"
-    followers: 2529
-    engagement: 1175
-    commentsToLikes: 0.153273
-    id: ck8t85l9wj6tf0j7827j65yse
+    followers: 88312
+    engagement: 99
+    commentsToLikes: 0.019097
+    id: ck6tuchc4fjqg0j718hfdyg42
     verified: false
-    hashtags: "#boxytshirt, #stayathome, #melbournebreakfastdiary, #lionessdenim"
-  - username: "mr.andylim"
+    hashtags: "#homeworkout, #coaching, #roadtoo, #happyhumpday"
+  - username: "unbeleafablefood"
     fullname: >-
-      Andy Lim |  Content Creator
+      Jess - Vegan Food Melbourne
     location: "Australia"
-    followers: 5251
-    engagement: 291
-    commentsToLikes: 0.563825
-    id: ck5hlm7s4kgp40i11rmv1y5ej
+    followers: 7112
+    engagement: 531
+    commentsToLikes: 0.475509
+    id: ck5c6i25y5hac0i1100fgq43o
     verified: false
-    hashtags: "#fashionsonthefield, #foodies, #coffeebeans, #coffeedaily"
-  - username: "shanedelia"
-    fullname: >-
-      Shane Delia
-    location: "Australia"
-    followers: 24197
-    engagement: 264
-    commentsToLikes: 0.082008
-    id: ck5cfg4hvmvvh0i11k3g323rk
-    verified: true
-    hashtags: "#pride, #melbourneeats, #melbournetodo, #billyslater"
+    hashtags: "#melbournerestaurant, #nativeplants, #takeawaycoffee, #pizza"
   - username: "patnourse"
     fullname: >-
       Pat Nourse
     location: "Australia"
-    followers: 33031
-    engagement: 170
-    commentsToLikes: 0.045947
+    followers: 33191
+    engagement: 154
+    commentsToLikes: 0.044911
     id: ck0tugxz9740v0i19acr8hfny
     verified: false
-    hashtags: "#savehospo, #staythefuckhome"
-  - username: "vivu.food"
+    hashtags: "#yasskouign, #mapotofu, #mfwfonline"
+  - username: "mr.andylim"
     fullname: >-
-      Vi Vu
+      Andy Lim |  Content Creator
     location: "Australia"
-    followers: 14037
-    engagement: 2001
-    commentsToLikes: 0.092546
-    id: ck5zwkd7969z80i14eiibpfiy
+    followers: 5285
+    engagement: 476
+    commentsToLikes: 1.045058
+    id: ck5hlm7s4kgp40i11rmv1y5ej
     verified: false
-    hashtags: "#afternoontea, #lychee, #local, #souffle"
-  - username: "our.fam.in.squares"
+    hashtags: "#samsungau, #personalstyleblogger, #melbournefoodie, #melbournebreakfast"
+  - username: "melgreen_x"
     fullname: >-
-      Jo & Chris
+      BIKINI PRO 👙 PEScience Athlete
     location: "Australia"
-    followers: 19417
-    engagement: 189
-    commentsToLikes: 0.093510
-    id: ck1387nofew210i195ddak1dt
+    followers: 49159
+    engagement: 115
+    commentsToLikes: 0.168079
+    id: ck6tykp8j4at90j71h28e8yqi
     verified: false
-    hashtags: "#organizedhome, #parentinghacks, #selfisolation, #dokind"
-  - username: "ftlblog"
+    hashtags: "#international, #aligners, #cityviews, #lockdowngains"
+  - username: "gradywulff"
     fullname: >-
-      FTLblog
+      Grady Wulff
     location: "Australia"
-    followers: 2710
-    engagement: 1129
-    commentsToLikes: 0.052939
-    id: ck5zs0idcxlet0i14e4aid6b0
+    followers: 24512
+    engagement: 230
+    commentsToLikes: 0.045708
+    id: ck6tqag14qb800j71my3p5arb
     verified: false
-    hashtags: "#sydneyfood, #igers, #instagood, #unesco"
-  - username: "theageaustralia"
+    hashtags: "#hardworkpaysoff, #nye, #southwest, #foxsportsnews"
+  - username: "jenbubbly"
     fullname: >-
-      The Age
+      Jen | Melbourne Food Baby
     location: "Australia"
-    followers: 65594
-    engagement: 47
-    commentsToLikes: 0.042306
-    id: ck5c1871jumzh0i11qfa09aet
-    verified: true
-    hashtags: "#rail, #socialisolation, #theatre, #melbourne"
-  - username: "biancamelb"
-    fullname: >-
-      Bianca
-    location: "Australia"
-    followers: 33066
-    engagement: 123
-    commentsToLikes: 0.127349
-    id: ck0w2x7lpql910i19ymvbqkx5
+    followers: 2534
+    engagement: 1608
+    commentsToLikes: 0.356522
+    id: ck9wd4370dzam0j787zavs93e
     verified: false
     hashtags: ""
-  - username: "spoonsofflavorbybatool"
+  - username: "melbournefoodspots"
     fullname: >-
-      Syeda Batool Rizvi
+      Shaye | Melbourne Food Blogger
     location: "Australia"
-    followers: 23121
-    engagement: 419
-    commentsToLikes: 0.303377
-    id: ck5pw3y3ekz8a0i11xjw05uf1
+    followers: 2295
+    engagement: 1455
+    commentsToLikes: 0.484929
+    id: ck5zwx7l86xol0i14593thzl9
     verified: false
-    hashtags: "#discoverunder4k, #cake, #moneygiveaway, #foodfeed"
+    hashtags: ""
+  - username: "wendeats"
+    fullname: >-
+      MELBOURNE FOOD INFLUENCER
+    location: "Australia"
+    followers: 38326
+    engagement: 227
+    commentsToLikes: 0.408486
+    id: ck1387pnlewcr0i191e0z6fvv
+    verified: false
+    hashtags: ""
+  - username: "melbournefoodnerd"
+    fullname: >-
+      Adrian |Melbourne Food Blogger
+    location: "Australia"
+    followers: 5704
+    engagement: 1002
+    commentsToLikes: 0.417512
+    id: ck55n3llh5eax0i11hvpiifm6
+    verified: false
+    hashtags: "#dairyfree, #sustainable, #flashback, #stayhome"
 ---

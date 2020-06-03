@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Germany In 2020
 description: >-
-  Find top health Instagram influencers in Germany in 2020. Most popular hashtags: #ootd #stayathome #photooftheday #potd.
+  Find top health Instagram influencers in Germany in 2020. Most popular hashtags: #inspiration #happyeaster #froheostern #easter.
 platform: Instagram
 profiles:
-  - username: "khllifestyle"
+  - username: "mariiisa_hofi"
     fullname: >-
-      Karl-Heinz Limberg
+      HEALTHY FOOD I LIFESTYLE
     location: "Germany"
-    followers: 14159
-    engagement: 1159
-    commentsToLikes: 0.060541
-    id: ck6tw5ydnq6it0j71bd2f3sek
+    followers: 27554
+    engagement: 978
+    commentsToLikes: 0.067217
+    id: ck0txg2zcizdk0i19ulv1zs53
     verified: false
-    hashtags: "#calvinklein, #steigenbergerhotel, #grandhotelpetersberg, #artatnyx"
+    hashtags: "#animalprint, #bikinishoot, #mundpflege, #abschiednehmen"
+  - username: "vitaminfede_"
+    fullname: >-
+      FEDERICA | FITNESS ACCOUNT
+    location: "Germany"
+    followers: 4188
+    engagement: 2189
+    commentsToLikes: 0.189662
+    id: ckaovkd7s4xte0i78k3sqyscg
+    verified: false
+    hashtags: "#gymwear, #fitinfluencer, #fitnessjourney, #views"
+  - username: "lauramadeleineb"
+    fullname: >-
+      💗  LAURA MADELEINE  💗
+    location: "Germany"
+    followers: 5726
+    engagement: 2146
+    commentsToLikes: 0.069469
+    id: ck8t4axjn63p40j78iki5pavc
+    verified: false
+    hashtags: "#travel, #sunset, #macedonia, #language"
+  - username: "janine_berger96"
+    fullname: >-
+      Olympic gymnast 🇩🇪
+    location: "Germany"
+    followers: 42992
+    engagement: 465
+    commentsToLikes: 0.070507
+    id: ck8szih9aokmn0j781umj8jjk
+    verified: true
+    hashtags: "#friday, #missit, #stretching, #push"
   - username: "veronika_klimovits"
     fullname: >-
       Veronika Klimovits
     location: "Germany"
-    followers: 85766
-    engagement: 559
-    commentsToLikes: 0.045906
+    followers: 87537
+    engagement: 433
+    commentsToLikes: 0.054089
     id: ck13bd4luuuqq0i19odzvpflm
     verified: true
-    hashtags: "#playmateoftheyear2019, #lovemychihuahua, #fitnessmotivation, #beachlove"
-  - username: "mutimbauch"
+    hashtags: "#outfitlove, #ichliebedich, #pyjamastyle, #lovemychihuahua"
+  - username: "fraeulein_wunderwaffel"
     fullname: >-
-      SINA ♡ Sei die Veränderung
+      M e l i s s a 🍃
     location: "Germany"
-    followers: 12834
-    engagement: 1239
-    commentsToLikes: 0.041885
-    id: ck14kwf3nrnm30i1912d0e4p1
+    followers: 6264
+    engagement: 1114
+    commentsToLikes: 0.163175
+    id: ck5hek2i5tbb20i112jwt0hh3
     verified: false
-    hashtags: "#mentalhealthawareness, #pinkyandthebrain, #loveyourselffirst, #brotherandsister"
+    hashtags: "#couplegoals, #hochzeitplanen, #preggo, #babybauchfotos"
+  - username: "renate2108"
+    fullname: >-
+      Renate Kaiser
+    location: "Germany"
+    followers: 17382
+    engagement: 628
+    commentsToLikes: 0.184616
+    id: ck9h9vdrja3vb0j78d4gk5ble
+    verified: false
+    hashtags: "#jeanstuesday"
+  - username: "fileks"
+    fullname: >-
+      Filip
+    location: "Germany"
+    followers: 78468
+    engagement: 410
+    commentsToLikes: 0.057012
+    id: ck6tjw8ae3jll0j71wlpqc8m5
+    verified: false
+    hashtags: "#schwimmen, #froheostern, #timetorelax, #longtailboat"
   - username: "jasmin_katharina_"
     fullname: >-
       Jasi
     location: "Germany"
-    followers: 5796
-    engagement: 2464
-    commentsToLikes: 0.042085
+    followers: 5994
+    engagement: 2481
+    commentsToLikes: 0.042585
     id: ck0vze7he8o590i19tt5g25wx
     verified: false
-    hashtags: "#ichfreumichdrauf, #weekendvibes, #seethebestineverything, #soulfood"
-  - username: "hendrik_jtr"
+    hashtags: "#sundaymornings, #growupyourlife, #powerful, #forestpictures"
+  - username: "khllifestyle"
     fullname: >-
-      Hendrik
+      Karl-Heinz Limberg
     location: "Germany"
-    followers: 128206
-    engagement: 1039
-    commentsToLikes: 0.018580
-    id: ck55jpx5zxj510i11qs2uynuz
+    followers: 14574
+    engagement: 1182
+    commentsToLikes: 0.062274
+    id: ck6tw5ydnq6it0j71bd2f3sek
     verified: false
-    hashtags: "#immunsystemst, #health, #lagerkoller, #hundefutter"
-  - username: "emoteofficial"
-    fullname: >-
-      EMOTE† || Chris
-    location: "Germany"
-    followers: 8988
-    engagement: 2073
-    commentsToLikes: 0.030222
-    id: ck8t9msryonat0j78v5nc5jnw
-    verified: false
-    hashtags: "#quarant, #vermissen, #denken, #nachdenken"
-  - username: "nicogrund"
-    fullname: >-
-      Nico Grund
-    location: "Germany"
-    followers: 2006
-    engagement: 1625
-    commentsToLikes: 0.119259
-    id: ck8t1pubvwkwr0j78kr37pksc
-    verified: false
-    hashtags: "#homeworkout, #corona, #musically, #funeral"
-  - username: "lailasvibes"
-    fullname: >-
-      Laila 😊
-    location: "Germany"
-    followers: 5366
-    engagement: 707
-    commentsToLikes: 0.145211
-    id: ck8tapbgdskx30j78bbwx6x1h
-    verified: false
-    hashtags: "#lesenisttoll, #germangirl, #studiosession, #amazing"
-  - username: "konstantin.i.am"
-    fullname: >-
-      Konstantin Resch
-    location: "Germany"
-    followers: 14753
-    engagement: 1256
-    commentsToLikes: 0.054177
-    id: ck5zq7holu2z90i143yssjali
-    verified: false
-    hashtags: "#modeling, #colours, #bearded, #sexy"
-  - username: "sonia_benny_"
-    fullname: >-
-      SONIA WEST
-    location: "Germany"
-    followers: 21015
-    engagement: 1101
-    commentsToLikes: 0.056101
-    id: ck134db9jvw0v0i195u6vrohu
-    verified: false
-    hashtags: "#raisethemright, #mamatees, #selfiemakeup, #skincarejunkie"
+    hashtags: "#paragliding, #ticino, #staypositive, #fitness"
 ---

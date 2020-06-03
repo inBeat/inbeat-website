@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top models Instagram influencers in Venezuela in 2020. Most popular hashtags: #venezuela #model #caracas #quedateencasa.
+  Find top models Instagram influencers in Venezuela in 2020. Most popular hashtags: #stayhome #happy #smile #fitnessgirl.
 platform: Instagram
 profiles:
   - username: "monicest"
     fullname: >-
-      💋Monicest
+      💋Monicest 📍🇻🇪
     location: "Venezuela"
-    followers: 435980
-    engagement: 425
-    commentsToLikes: 0.033989
+    followers: 489693
+    engagement: 518
+    commentsToLikes: 0.033081
     id: ck5q62a96vmbq0i11siwz24d9
     verified: false
-    hashtags: "#amor, #realestate, #caracas, #venezuela"
-  - username: "emicarvallob"
+    hashtags: "#casa, #fuerza, #sabadoenlanoche, #quarantine"
+  - username: "angustia"
     fullname: >-
-      E M I 🦋
+      ANGUSTIA | Angélica Gómez
     location: "Venezuela"
-    followers: 12303
-    engagement: 1214
-    commentsToLikes: 0.028336
-    id: ck5hr52mvu9yf0i11swjlz8fs
+    followers: 20134
+    engagement: 583
+    commentsToLikes: 0.040351
+    id: ck5q7n7ni2bs70i11fyma76fg
     verified: false
-    hashtags: "#gustavoelis, #acting, #corona, #emprendedores"
+    hashtags: "#ad, #caracasdesdemiventana, #publi, #stayhome"
+  - username: "andreinacarmona_"
+    fullname: >-
+      ANDREINA CARMONA KOFINKE
+    location: "Venezuela"
+    followers: 17468
+    engagement: 592
+    commentsToLikes: 0.037419
+    id: ck0ubyn7ffn9z0i19bsskybkp
+    verified: false
+    hashtags: "#quarantine, #confia1of1, #distanceshooting, #stayathome"
+  - username: "yerardymontoya"
+    fullname: >-
+      Yerardy Montoya
+    location: "Venezuela"
+    followers: 38260
+    engagement: 144
+    commentsToLikes: 0.104638
+    id: ck5bxv68sogv20i11vedmwgpb
+    verified: false
+    hashtags: "#3demayo, #misses, #travellers, #cantar"
   - username: "bipsperez"
     fullname: >-
       Belinda Perez
     location: "Venezuela"
-    followers: 28938
-    engagement: 351
-    commentsToLikes: 0.065688
+    followers: 29072
+    engagement: 379
+    commentsToLikes: 0.064017
     id: ck15taqy6h6690i19ts5r2lfg
     verified: false
-    hashtags: "#musa, #happy, #summer, #carnavales2020"
-  - username: "melissajimenez9"
-    fullname: >-
-      Melissa Jimenez
-    location: "Venezuela"
-    followers: 92270
-    engagement: 416
-    commentsToLikes: 0.014739
-    id: ck5c6nkj15tbg0i111dh8cjxr
-    verified: false
-    hashtags: "#embracewhoyouare, #fashion, #misszulia, #washyourhands"
+    hashtags: "#charlotlover, #domingo, #extran, #vive"
   - username: "leandry_pauquer"
     fullname: >-
       Leandry Pauquer
     location: "Venezuela"
-    followers: 6879
-    engagement: 1086
-    commentsToLikes: 0.021244
+    followers: 7356
+    engagement: 1012
+    commentsToLikes: 0.025938
     id: ck8tbyr3pxphn0j78rgagoy01
     verified: false
-    hashtags: "#maracaibo, #venezuela, #photomontage, #demon"
-  - username: "darinhneidi"
+    hashtags: "#birthofvenus, #cumplea, #drama, #vintage"
+  - username: "camilacisnerosg"
     fullname: >-
-      D A R I N  ▪  H N E I D I
+      Camila Cisneros
     location: "Venezuela"
-    followers: 7025
-    engagement: 722
-    commentsToLikes: 0.068443
-    id: ck6tk7cqu45710j71uav7wbwn
+    followers: 13332
+    engagement: 1052
+    commentsToLikes: 0.013589
+    id: ck138bbwlfez20i19qoehtj2n
     verified: false
-    hashtags: "#miss, #model, #caracas, #guarico"
+    hashtags: "#earthday, #archives, #work, #spain"
+  - username: "emicarvallob"
+    fullname: >-
+      E M I 🦋
+    location: "Venezuela"
+    followers: 12610
+    engagement: 1256
+    commentsToLikes: 0.029253
+    id: ck5hr52mvu9yf0i11swjlz8fs
+    verified: false
+    hashtags: "#actingtips, #style, #wildlife, #maquillaje"
+  - username: "dailizmorillo"
+    fullname: >-
+      Dailiz | FASHION & LIFESTYLE
+    location: "Venezuela"
+    followers: 21883
+    engagement: 308
+    commentsToLikes: 0.031880
+    id: ck5hr53vaua1f0i11mp4uyxtf
+    verified: false
+    hashtags: "#hairlook, #happy, #spraytan, #tan"
   - username: "lorenaulopez"
     fullname: >-
       🇲🇽 Lorena lopez
     location: "Venezuela"
-    followers: 23255
-    engagement: 382
-    commentsToLikes: 0.015457
+    followers: 24043
+    engagement: 410
+    commentsToLikes: 0.020362
     id: ck5cg99uqodrw0i11m03dhjob
     verified: false
-    hashtags: "#toon, #mytoon, #torafitnesswear, #warrior"
-  - username: "eduarlopezf"
-    fullname: >-
-      E D U A R   L Ó P E Z   £.
-    location: "Venezuela"
-    followers: 7550
-    engagement: 558
-    commentsToLikes: 0.088867
-    id: ck5zzol4nc4q00i144orhvhie
-    verified: false
-    hashtags: "#perreoenlaluna, #algarve, #beachvibes, #felicidad"
-  - username: "hoffkapliend"
-    fullname: >-
-      Hoffkaryn Piña
-    location: "Venezuela"
-    followers: 2552
-    engagement: 1290
-    commentsToLikes: 0.049671
-    id: ck55lfr3m1glm0i1137r78y6b
-    verified: false
-    hashtags: "#work, #model, #photographer, #fashion"
-  - username: "itssergiogomez"
-    fullname: >-
-      Sergio Gómez
-    location: "Venezuela"
-    followers: 6803
-    engagement: 681
-    commentsToLikes: 0.043896
-    id: ck15ucvbfmjbm0i19oynack91
-    verified: false
-    hashtags: "#love, #liking, #oratoriaconcamechac, #caracas"
+    hashtags: "#futurama, #cuarentena, #empowderwoman, #staystrong"
 ---

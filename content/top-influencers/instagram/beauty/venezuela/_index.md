@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top beauty Instagram influencers in Venezuela in 2020. Most popular hashtags: #makeupartist #makeup #venezuela #makeuptutorial.
+  Find top beauty Instagram influencers in Venezuela in 2020. Most popular hashtags: #beauty #makeup #photography #quedateencasa.
 platform: Instagram
 profiles:
   - username: "dannasm"
     fullname: >-
       Danna Solórzano
     location: "Venezuela"
-    followers: 30734
-    engagement: 661
-    commentsToLikes: 0.035430
+    followers: 31145
+    engagement: 735
+    commentsToLikes: 0.031742
     id: ck6ttdsgra24o0j71ytfvyc2f
     verified: false
-    hashtags: "#youtuber, #life, #paris, #fashioninspiration"
-  - username: "alexmagomakeup"
-    fullname: >-
-      Makeup|Bridal specialist
-    location: "Venezuela"
-    followers: 19623
-    engagement: 301
-    commentsToLikes: 0.069475
-    id: ck6tk6s8044070j717ryh888c
-    verified: false
-    hashtags: "#portrait, #makeuplovers, #lecheria, #glambridalclass"
-  - username: "arevalostephany"
-    fullname: >-
-      Stephany Arevalo
-    location: "Venezuela"
-    followers: 9834
-    engagement: 796
-    commentsToLikes: 0.048878
-    id: ck6ubvbf4bwwj0j71gpi5mmyd
-    verified: false
-    hashtags: "#goldenhour, #madrid, #quarantinelife, #mycity"
+    hashtags: "#rizos, #natural, #family, #makeuproutine"
   - username: "changophoto"
     fullname: >-
       Johan Chango
     location: "Venezuela"
-    followers: 26280
-    engagement: 527
-    commentsToLikes: 0.030056
+    followers: 26816
+    engagement: 462
+    commentsToLikes: 0.042098
     id: ck55pst4hbaur0i114a66uuyt
     verified: false
-    hashtags: "#nudeart, #beautyface, #skinretouch, #classicblue"
-  - username: "veronicaselva_"
+    hashtags: "#mua, #fashionpost, #missvenezuela, #shooting"
+  - username: "alexmagomakeup"
     fullname: >-
-      Verónica Selva
+      Makeup|Bridal specialist
     location: "Venezuela"
-    followers: 10277
-    engagement: 664
-    commentsToLikes: 0.055675
-    id: ck8t0qtuasydi0j781r0jkoz1
+    followers: 19786
+    engagement: 319
+    commentsToLikes: 0.077304
+    id: ck6tk6s8044070j717ryh888c
     verified: false
-    hashtags: "#quedateencasa, #anecdotasdeveronica"
-  - username: "pedrojose.ph"
-    fullname: >-
-      Fotógrafo - Pedro José
-    location: "Venezuela"
-    followers: 5323
-    engagement: 658
-    commentsToLikes: 0.061410
-    id: ck6ubvbv6bx0k0j71byvcmptf
-    verified: false
-    hashtags: "#photograph, #limaperu, #photographersofinstagram, #streetshooter"
-  - username: "oskarovskyboyer"
-    fullname: >-
-      Oskar Makeup
-    location: "Venezuela"
-    followers: 46363
-    engagement: 274
-    commentsToLikes: 0.038993
-    id: ck5ch4fa4q3810i11130dgmqo
-    verified: false
-    hashtags: "#iliveyou, #skin, #cosmopolitan, #makeup"
+    hashtags: "#coronavirus, #makeuptutorialsid, #anastasiabeverlyhills, #makeupoftheday"
   - username: "ma.alexandra27"
     fullname: >-
       Alexandra Marulanda💋
     location: "Venezuela"
-    followers: 23011
-    engagement: 434
-    commentsToLikes: 0.077163
+    followers: 23291
+    engagement: 430
+    commentsToLikes: 0.061832
     id: ck0vw2vferutr0i19ntwz1f7p
     verified: false
-    hashtags: "#nyxlipstick, #healthylifestyle, #genderrevealparty, #hairfashion"
+    hashtags: "#healthy, #unicorn, #lashes, #2019"
   - username: "isabelcarolinav"
     fullname: >-
       Isαbel Cαrolinα
     location: "Venezuela"
-    followers: 26604
-    engagement: 160
-    commentsToLikes: 0.040768
+    followers: 27554
+    engagement: 168
+    commentsToLikes: 0.119695
     id: ck55lgnje1it80i11wzq6pc0n
     verified: false
-    hashtags: "#muavzla, #participa, #quaretinemakeup, #makeupartist"
-  - username: "idania.cond"
+    hashtags: "#labiosmordidos, #benefitmexico, #morphebabe, #benebrows"
+  - username: "veronicaselva_"
     fullname: >-
-      Makeup Artist|Blogger
+      Verónica Selva
     location: "Venezuela"
-    followers: 15952
-    engagement: 236
-    commentsToLikes: 0.039358
-    id: ck5cgf4umopof0i115wovwzzd
+    followers: 10397
+    engagement: 696
+    commentsToLikes: 0.053270
+    id: ck8t0qtuasydi0j781r0jkoz1
     verified: false
-    hashtags: "#graphiclook, #caracas, #liotamakeup, #homemakeup"
+    hashtags: "#quedateencasa, #anecdotasdeveronica"
+  - username: "fenebeauty"
+    fullname: >-
+      Fenelope Cuadro-Blogguer
+    location: "Venezuela"
+    followers: 6277
+    engagement: 368
+    commentsToLikes: 0.368873
+    id: ckap6jy1ug5vs0i781expdfvg
+    verified: false
+    hashtags: "#tictok, #mascarillas, #semanaproductiva, #mua"
+  - username: "themarianamontoya"
+    fullname: >-
+      Mariana Montoya
+    location: "Venezuela"
+    followers: 8668
+    engagement: 229
+    commentsToLikes: 0.119769
+    id: ck6ub73fe7vas0j710pcouaqu
+    verified: false
+    hashtags: "#lorealparis, #coronavirus, #selfcare, #makuep"
+  - username: "pedrojose.ph"
+    fullname: >-
+      Pedro José
+    location: "Venezuela"
+    followers: 5581
+    engagement: 632
+    commentsToLikes: 0.054512
+    id: ck6ubvbv6bx0k0j71byvcmptf
+    verified: false
+    hashtags: "#tagify, #moda, #fashionstyle, #temacuarentena"
+  - username: "lorenabodenski"
+    fullname: >-
+      Lorena Marián
+    location: "Venezuela"
+    followers: 39449
+    engagement: 174
+    commentsToLikes: 0.088495
+    id: ck5cjiznuuti50i11dum5wpzj
+    verified: false
+    hashtags: "#covid19, #galaxyzflip, #shop, #photooftheday"
 ---

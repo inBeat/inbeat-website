@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In United States In 2020
 description: >-
-  Find top rappers Instagram influencers in United States in 2020. Most popular hashtags: #singer #savagexambassador #andrewboom #bigtalkvol1.
+  Find top rappers Instagram influencers in United States in 2020. Most popular hashtags: #mensstyle #newmusic #tiktok #style.
 platform: Instagram
 profiles:
   - username: "trossthegiant"
     fullname: >-
       T. ROSS.
     location: "United States"
-    followers: 6199
-    engagement: 2333
-    commentsToLikes: 0.067607
+    followers: 6193
+    engagement: 2351
+    commentsToLikes: 0.067858
     id: ck136ile16nu00i19gafflw2f
     verified: false
     hashtags: "#trashrapisback, #2projectsotw"
-  - username: "sol__731"
+  - username: "_kringe_"
     fullname: >-
-      료스케/Sol
+      KRINGE
     location: "United States"
-    followers: 52661
-    engagement: 739
-    commentsToLikes: 0.047792
-    id: ck0vyr8tb5eex0i19hed6t1m4
+    followers: 6457
+    engagement: 1285
+    commentsToLikes: 0.104811
+    id: ck8wg0o4xgk1r0j78zvflymi7
     verified: false
     hashtags: ""
-  - username: "skii.music"
-    fullname: >-
-      SKII  |  DJ/Producer
-    location: "United States"
-    followers: 2360
-    engagement: 1987
-    commentsToLikes: 0.296632
-    id: ck6tkeh034jhn0j71g1rafxnp
-    verified: false
-    hashtags: "#cityphotography, #citykillerz, #cityscapes, #stairs"
-  - username: "salmaslims"
-    fullname: >-
-      SALMA
-    location: "United States"
-    followers: 177565
-    engagement: 411
-    commentsToLikes: 0.045338
-    id: ck5ckcpvzwlqk0i11igm7ubxa
-    verified: true
-    hashtags: "#salmabanks, #savagexambassador, #runwayshit"
   - username: "calebslife"
     fullname: >-
       Caleb
     location: "United States"
-    followers: 72825
-    engagement: 418
-    commentsToLikes: 0.052920
+    followers: 72347
+    engagement: 416
+    commentsToLikes: 0.067163
     id: ck5ck3xgcw3260i11x9neq3yr
     verified: false
-    hashtags: "#rollingloudnyc, #coronavirus"
-  - username: "kalleemlondon"
-    fullname: >-
-      Kalleem London
-    location: "United States"
-    followers: 97425
-    engagement: 335
-    commentsToLikes: 0.149740
-    id: ck6uemcfprs8m0j71uvbioipv
-    verified: false
-    hashtags: ""
+    hashtags: "#quarantinebirthday, #rollingloudnyc, #coronavirus, #saferathome"
   - username: "andrew_boom"
     fullname: >-
       Andrew Boom
     location: "United States"
-    followers: 7250
-    engagement: 1597
-    commentsToLikes: 0.033026
+    followers: 6638
+    engagement: 1531
+    commentsToLikes: 0.046711
     id: ck6udjvluliiw0j719iyvu2v5
     verified: false
-    hashtags: "#darkknight, #menstyle, #menswear, #2019"
-  - username: "nicolebalestro"
+    hashtags: "#simple, #picoftheday, #tiktok, #wooden"
+  - username: "brianbatesyy"
     fullname: >-
-      Nicole Balestro
+      BRIAN BATESY (MEGATRON)
     location: "United States"
-    followers: 61434
-    engagement: 1328
-    commentsToLikes: 0.014032
-    id: ck0vyac5h2zto0i19yuz147eu
+    followers: 6061
+    engagement: 2234
+    commentsToLikes: 0.043486
+    id: ck9wg6gxms40a0j78l4cnibiu
     verified: false
-    hashtags: "#adidassuperstar, #changeisateamsport, #criadoncomadidas, #adidassuperstar"
-  - username: "isawdray"
+    hashtags: "#wepowernyc, #spreadpositivity, #tiktok, #famousbirthdays"
+  - username: "avisamuelangel"
     fullname: >-
-      D- Ray
+      𝔸𝕧𝕚 𝕒𝕟𝕘𝕖𝕝
     location: "United States"
-    followers: 21582
-    engagement: 462
-    commentsToLikes: 0.055692
-    id: ck5c6pn6d5xke0i11bsztj3vs
+    followers: 264323
+    engagement: 714
+    commentsToLikes: 0.017319
+    id: ckap1d4kgu2td0i7887pd9m5d
     verified: false
-    hashtags: "#unconditionallove, #leosh, #resteasypops, #sugaray"
+    hashtags: "#jamjr, #aviangel, #khalid, #cover"
   - username: "ocean.wisdom"
     fullname: >-
       Ocean Wisdom
     location: "United States"
-    followers: 82038
-    engagement: 633
-    commentsToLikes: 0.020419
+    followers: 82806
+    engagement: 668
+    commentsToLikes: 0.020396
     id: ck0w2fdyso2xs0i1997yvlaw7
     verified: true
-    hashtags: "#howufeel, #blessed, #workrestinvest, #newmusic"
+    hashtags: "#blessed, #revvin, #workrestinvest, #soldout"
+  - username: "ortizxadrian"
+    fullname: >-
+      Adrian
+    location: "United States"
+    followers: 43886
+    engagement: 1575
+    commentsToLikes: 0.020723
+    id: ck8wg4n6agqag0j7846faxx2m
+    verified: false
+    hashtags: "#mensstyle, #model, #modelscoutsusa, #explorepage"
+  - username: "novarockafeller"
+    fullname: >-
+      Nova Rockafeller
+    location: "United States"
+    followers: 58731
+    engagement: 586
+    commentsToLikes: 0.033775
+    id: ck5q37vf5jn010i11v5y9w88p
+    verified: false
+    hashtags: "#wrestlemania, #selfportrait, #photography"
+  - username: "sonitalizadeh"
+    fullname: >-
+      Sonita Alizada_ سونیتا
+    location: "United States"
+    followers: 16917
+    engagement: 825
+    commentsToLikes: 0.039097
+    id: ckap96npardo70i78k4quifmt
+    verified: true
+    hashtags: "#unfoundation, #refugees, #afghanwomenstrong, #globalgoals"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Porto In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Porto in 2020. Most popular hashtags: #stayhome #staysafe #ootd #love.
+  Find top lifestyle Instagram influencers in Porto in 2020. Most popular hashtags: #lifestyle #sunday #blogger #menstyle.
 platform: Instagram
 profiles:
+  - username: "nininhovazmaia_"
+    fullname: >-
+      Nininho Vaz Maia
+    location: "Portugal"
+    followers: 103724
+    engagement: 900
+    commentsToLikes: 0.020149
+    id: ck55l9vnh13jr0i11c6ippo4v
+    verified: true
+    hashtags: "#videoclips, #juntossomosmaisfortes, #gitano, #portugal"
   - username: "beatrizmoreiraazevedo"
     fullname: >-
       B E A
     location: "Portugal"
-    followers: 30696
-    engagement: 364
-    commentsToLikes: 0.179571
+    followers: 30043
+    engagement: 353
+    commentsToLikes: 0.078398
     id: ck1374btg9plh0i19pbvhs9x8
     verified: false
-    hashtags: "#fashionable, #stayhome, #ootdfashion, #outfitinspiration"
-  - username: "mariannemota__"
-    fullname: >-
-      MARIANNE MOTA
-    location: "Portugal"
-    followers: 8851
-    engagement: 443
-    commentsToLikes: 0.244329
-    id: ck5zj34maguzl0i14jspcxsx5
-    verified: false
-    hashtags: "#sheingals, #venusgirl, #pixibeauty, #birthdaygirl"
-  - username: "ifbbpro_nelsonrodrigues"
-    fullname: >-
-      Nelson Rodrigues
-    location: "Portugal"
-    followers: 23127
-    engagement: 213
-    commentsToLikes: 0.030047
-    id: ck6ucmnelghrh0j71zjlvo9ll
-    verified: false
-    hashtags: "#menstyle, #beach, #beliveinyourself, #staysafe"
-  - username: "tomanephotography"
-    fullname: >-
-      Tó Mané
-    location: "Portugal"
-    followers: 6321
-    engagement: 973
-    commentsToLikes: 0.049338
-    id: ck5c7o4f77w300i116v3by4yr
-    verified: false
-    hashtags: "#photooftheday, #picture, #mist, #photographer"
-  - username: "rubenruscello"
-    fullname: >-
-      Rúben Ruscello
-    location: "Portugal"
-    followers: 5847
-    engagement: 1386
-    commentsToLikes: 0.255669
-    id: ck15sv9j1ez2x0i19d03afjib
-    verified: false
-    hashtags: "#dappergent, #stayathome, #menfashioner, #simplydapper"
-  - username: "akeilaamorim"
-    fullname: >-
-      Keila Amorim 🌸
-    location: "Portugal"
-    followers: 20067
-    engagement: 218
-    commentsToLikes: 0.103987
-    id: ck0txfdzaiwel0i19vkfveac1
-    verified: false
-    hashtags: "#24weeks, #sorrisowells, #pregnant, #24weekspregnant"
+    hashtags: "#harmonicalinea, #decorideas, #kerastase, #stayhome"
   - username: "a.be.atriz"
     fullname: >-
       A Be-atriz | Beatriz Palma |
     location: "Portugal"
-    followers: 33431
-    engagement: 428
-    commentsToLikes: 0.023604
+    followers: 34031
+    engagement: 399
+    commentsToLikes: 0.033213
     id: ck6twyoa5uuux0j71ndunctcj
     verified: false
-    hashtags: "#fashion, #book, #abeatri, #together"
-  - username: "ana.oliveira17"
+    hashtags: "#staysafe, #home, #food, #exercise"
+  - username: "mafaldajacques"
     fullname: >-
-      Anii (Ana Oliveira)
+      Mafalda Jacques
     location: "Portugal"
-    followers: 28610
-    engagement: 204
-    commentsToLikes: 0.016703
-    id: ck55ppmlnb3go0i11zrv2980o
+    followers: 7190
+    engagement: 617
+    commentsToLikes: 0.017356
+    id: ckap7utaqlnsk0i78vxdqsu44
     verified: false
-    hashtags: "#moments, #starbucks, #inspo, #riodouro"
-  - username: "franciscafloress"
+    hashtags: "#whatiworetoday, #ootdshare, #boutiquedosrelogios, #lookoftheday"
+  - username: "rubenruscello"
     fullname: >-
-      Francisca Flores•Stylebythree
+      Rúben Ruscello
     location: "Portugal"
-    followers: 52204
-    engagement: 178
-    commentsToLikes: 0.014306
-    id: ck0vx7es2xioo0i195sr5sndo
+    followers: 6569
+    engagement: 1327
+    commentsToLikes: 0.293433
+    id: ck15sv9j1ez2x0i19d03afjib
     verified: false
-    hashtags: "#vegan, #deco, #throwback, #stayawayfromthekitchen"
-  - username: "andreiaffoliveira"
+    hashtags: ""
+  - username: "be_badass"
     fullname: >-
-      Andreia Filipa Oliveira
+      BE BADASS
     location: "Portugal"
-    followers: 6734
-    engagement: 934
-    commentsToLikes: 0.478657
-    id: ck8t1cb1lv7we0j782fmaauhy
+    followers: 3209
+    engagement: 1227
+    commentsToLikes: 0.219488
+    id: ck5zr1mqrvq1b0i14ap29cvao
     verified: false
-    hashtags: "#stayhometakecare, #makeup, #sushi, #yoins"
+    hashtags: "#roma, #monday, #mondaymotivation, #fridaymood"
+  - username: "sara_nata"
+    fullname: >-
+      Sara Nata | Fashion•Lifestyle
+    location: "Portugal"
+    followers: 3581
+    engagement: 1895
+    commentsToLikes: 0.290206
+    id: ck8t4c6ru68o50j784zjtiz1f
+    verified: false
+    hashtags: "#photooftheday, #instagood, #menswear, #outfitoftheday"
+  - username: "barbara.marques"
+    fullname: >-
+      My kind of joy | Lifestyle
+    location: "Portugal"
+    followers: 58037
+    engagement: 1079
+    commentsToLikes: 0.018320
+    id: ck5pzd0tc0dfn0i113djdxzjd
+    verified: false
+    hashtags: "#saudade, #goldenhour, #cybexglobal, #crib"
+  - username: "joanacbcosta"
+    fullname: >-
+      Joana | Lifestyle
+    location: "Portugal"
+    followers: 58264
+    engagement: 260
+    commentsToLikes: 0.049046
+    id: ckap6c2m9f9gv0i786k2ulw9p
+    verified: false
+    hashtags: "#sequinfabric, #mothersdaygift, #sparkledress, #clothings"
+  - username: "joaogoncalo10"
+    fullname: >-
+      João Gonçalo 🇵🇹🇪🇸
+    location: "Portugal"
+    followers: 54013
+    engagement: 203
+    commentsToLikes: 0.097553
+    id: ck8ta3t9zqd5m0j783o71qdvi
+    verified: false
+    hashtags: "#blogger, #lifestyle, #life, #catalunya"
 ---

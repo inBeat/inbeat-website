@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top fashion Instagram influencers in Nigeria in 2020. Most popular hashtags: #fashion #ootd #model #fashionista.
+  Find top fashion Instagram influencers in Nigeria in 2020. Most popular hashtags: #explore #explorepage #ankara #qurantine.
 platform: Instagram
 profiles:
-  - username: "akowo_du"
+  - username: "gramofeddie"
     fullname: >-
-      𝒜𝓀𝑜𝓌𝑜🤍
+      Edwin Ekwere
     location: "Nigeria"
-    followers: 8950
-    engagement: 3343
-    commentsToLikes: 0.037345
-    id: ck5cgugo7pkhi0i11x1tnut78
+    followers: 6691
+    engagement: 1535
+    commentsToLikes: 0.066502
+    id: ckap0l115qrra0i78rl9rjrwo
     verified: false
-    hashtags: "#lancome, #theoutfitscrapbook, #akowofashion, #melaninpopping"
-  - username: "ms_leon"
+    hashtags: "#qurantine, #indaboski, #sky, #dreads"
+  - username: "the_florentyna"
     fullname: >-
-      WINNIE LEON
+      Love
     location: "Nigeria"
-    followers: 228104
-    engagement: 377
-    commentsToLikes: 0.032449
-    id: ck0w66zud76ad0i19hfy9qnfe
+    followers: 10376
+    engagement: 1033
+    commentsToLikes: 0.066204
+    id: ck5hosbiqq54c0i11jfitgfmo
     verified: false
-    hashtags: "#fashionnova, #ootd, #fashionista, #purr"
+    hashtags: "#boxbraids, #ankara, #beyonc, #weddingguest"
+  - username: "sonizyyy"
+    fullname: >-
+      Sonia❤️
+    location: "Nigeria"
+    followers: 10224
+    engagement: 1401
+    commentsToLikes: 0.065616
+    id: ck8t0084aqedk0j78ivh4ah3j
+    verified: false
+    hashtags: "#trillervids, #dance, #explore, #explorepage"
   - username: "glamprince"
     fullname: >-
       snap/skype/twitter @glamprince
     location: "Nigeria"
-    followers: 2114
-    engagement: 1450
-    commentsToLikes: 0.184028
+    followers: 2041
+    engagement: 1503
+    commentsToLikes: 0.183793
     id: ck6tvg0z5m10k0j719qlnie68
     verified: false
-    hashtags: "#skylounge, #abujafct, #ciroc, #bankheadentertainment"
+    hashtags: "#bankheadentertainment, #grillatthepent, #skylounge, #abujafct"
   - username: "__maleeyah"
     fullname: >-
       Best Girl 💫
     location: "Nigeria"
-    followers: 15703
-    engagement: 1207
-    commentsToLikes: 0.055857
+    followers: 16248
+    engagement: 1244
+    commentsToLikes: 0.054148
     id: ck13666r74xxv0i19jy1rsj8s
     verified: false
-    hashtags: "#melaninbeauitesunite, #ankarazone, #makeupforblackwomen, #makeupfanatic1"
-  - username: "curlyhairedchik"
+    hashtags: "#makeupfanatic1, #melaninbeauitesunite, #ankarazone, #makeupaddiction"
+  - username: "cheeamaka_xx"
     fullname: >-
-      Kristen Desiree
+      🦄Chinedu Chiamaka🦄
     location: "Nigeria"
-    followers: 13481
-    engagement: 1221
-    commentsToLikes: 0.019032
-    id: ck55lk9ng1ric0i11oxklab8u
+    followers: 58046
+    engagement: 488
+    commentsToLikes: 0.031199
+    id: ck5bxesc6nl3n0i11dwidntqr
     verified: false
-    hashtags: "#blackgirlmagic, #weddingsonpoint, #hmxme, #kinkychicks"
-  - username: "tope_o"
+    hashtags: "#siblings, #flashbackfriday"
+  - username: "jamie_ikiah"
     fullname: >-
-      Temitope Okunuga
+      AMARACHI
     location: "Nigeria"
-    followers: 5907
-    engagement: 1215
-    commentsToLikes: 0.145548
-    id: ck0w12w1qhapq0i19dpfglbo2
+    followers: 31921
+    engagement: 531
+    commentsToLikes: 0.066546
+    id: ckap0kwtuqr7b0i78znoye4j6
     verified: false
-    hashtags: "#temitopeokunuga, #abujablogger, #ootd, #streetstyle"
-  - username: "frances_uche"
+    hashtags: "#glowup, #hair, #viral, #happy"
+  - username: "akowo_du"
     fullname: >-
-      FRANCES OFOEDU
+      𝒜𝓀𝑜𝓌𝑜 𝒟𝒶𝓃~𝒰𝑔𝑜🤍
     location: "Nigeria"
-    followers: 4169
-    engagement: 1876
-    commentsToLikes: 0.137489
-    id: ck6tuva8yimpc0j71y8utuhg6
+    followers: 9250
+    engagement: 3145
+    commentsToLikes: 0.040604
+    id: ck5cgugo7pkhi0i11x1tnut78
     verified: false
-    hashtags: "#covid, #hotsauce, #skincare, #hotchocolate"
-  - username: "shay_smithz"
+    hashtags: "#simplyakowo, #outfitinspo, #birthdayqueen, #lanc"
+  - username: "lateefwahbson"
     fullname: >-
-      KING OF IBADAN👑
+      Wahab Lateef
     location: "Nigeria"
-    followers: 2270
-    engagement: 1090
-    commentsToLikes: 0.206857
-    id: ck5cgume8pkqj0i11vvcllnxe
+    followers: 8367
+    engagement: 592
+    commentsToLikes: 0.155410
+    id: ck0tze8pyq0zm0i19kaytuda3
     verified: false
-    hashtags: "#photooftheday, #ibadan, #mensfashion, #dripordrown"
-  - username: "thefrenchman__"
+    hashtags: "#soccerforlife, #footballz, #gloin60seconds, #goldmytv"
+  - username: "glow_riiee"
     fullname: >-
-      DAVOU PWAJOK
+      ⓖⓛⓞⓡⓨ 🇳🇬
     location: "Nigeria"
-    followers: 9376
-    engagement: 1166
-    commentsToLikes: 0.053530
-    id: ck13avsjmsfpc0i19s7pwt5bs
+    followers: 52526
+    engagement: 892
+    commentsToLikes: 0.028966
+    id: ck6tvfx94m0fv0j71uiqgj1sa
     verified: false
-    hashtags: "#happy, #fashionweek, #bodybuilding, #bare"
-  - username: "ink.kechi"
-    fullname: >-
-      Ink Eze
-    location: "Nigeria"
-    followers: 20472
-    engagement: 537
-    commentsToLikes: 0.042581
-    id: ck5c1g5bav4i60i11ythx2usx
-    verified: false
-    hashtags: "#moetmoment, #valfestankarachallenge, #blackexcellence, #insideafrica"
+    hashtags: "#brunette, #deletingsoon, #portrait, #giveaway"
 ---

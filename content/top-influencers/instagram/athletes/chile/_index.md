@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Chile In 2020
 description: >-
-  Find top athletes Instagram influencers in Chile in 2020. Most popular hashtags: #athlete #chile #love #goodvibes.
+  Find top athletes Instagram influencers in Chile in 2020. Most popular hashtags: #nevergiveup #quarantine #fitnessgirl #cuarentena.
 platform: Instagram
 profiles:
-  - username: "marcogrimalt"
+  - username: "frangibar"
     fullname: >-
-      Marco Grimalt Krogh OLY
+      Ultra Trail Runner 🇨🇱
     location: "Chile"
-    followers: 32820
-    engagement: 827
-    commentsToLikes: 0.013165
-    id: ck5pwlqofnf150i115s8ex3xg
-    verified: true
-    hashtags: "#creoantofagasta, #fieldforcechrono, #oakley, #rioachibueno"
+    followers: 41662
+    engagement: 358
+    commentsToLikes: 0.064639
+    id: ck0vxa36mxwuk0i19humtavmp
+    verified: false
+    hashtags: "#lagunapiuquenes, #pandemia, #keepdreaming, #budapest"
+  - username: "simonettifiorella"
+    fullname: >-
+      Simona Quintana Silva
+    location: "Chile"
+    followers: 40776
+    engagement: 627
+    commentsToLikes: 0.021475
+    id: ck5c4dkhu14jc0i114t9xfbti
+    verified: false
+    hashtags: "#santiago, #nature, #terukinharules, #restart"
   - username: "ferresmaxi"
     fullname: >-
       Maxi Ferres
     location: "Chile"
-    followers: 576745
-    engagement: 166
-    commentsToLikes: 0.015383
+    followers: 580860
+    engagement: 176
+    commentsToLikes: 0.022302
     id: ck5zjfnuthi4v0i14e9z0kia8
     verified: true
-    hashtags: "#chile, #love, #runners, #coronavirus"
-  - username: "iam.mayasw"
-    fullname: >-
-      Maya Silva 🍃
-    location: "Chile"
-    followers: 10147
-    engagement: 900
-    commentsToLikes: 0.013533
-    id: ck55lbawo175o0i110fzzln6f
-    verified: false
-    hashtags: "#flips, #goodmoments, #bloggerstyle, #life"
+    hashtags: "#cuidadopersonal, #natural, #ayuda, #dise"
   - username: "benjae.gutierrez"
     fullname: >-
       Benja E. Gutierrez🇨🇱
     location: "Chile"
-    followers: 6663
-    engagement: 881
-    commentsToLikes: 0.014348
+    followers: 6690
+    engagement: 737
+    commentsToLikes: 0.011324
     id: ck5c4lro01m0w0i11gnpbtt2g
     verified: false
-    hashtags: "#quedateencasa, #tecnicamentefuertes, #reebokchile, #lifttheworld"
+    hashtags: "#sunset, #letsdoit, #hiittr, #surf"
   - username: "pedroburns"
     fullname: >-
       Pedro Burns
     location: "Chile"
-    followers: 32769
-    engagement: 903
-    commentsToLikes: 0.013572
+    followers: 36049
+    engagement: 966
+    commentsToLikes: 0.010797
     id: ck0vykv5c4i8o0i198m6eg4zl
     verified: false
-    hashtags: "#andespacifico, #vamosquevamos, #bikelife, #flodaddy"
+    hashtags: "#scrub, #rockshox, #olvidon, #stretart"
   - username: "hugogodoybarker"
     fullname: >-
       Hugo Godoy 👊
     location: "Chile"
-    followers: 6077
-    engagement: 189
-    commentsToLikes: 0.033175
+    followers: 6008
+    engagement: 210
+    commentsToLikes: 0.040857
     id: ck13581nk05vk0i19oayyp4up
     verified: false
-    hashtags: "#calistenico, #holdsquat, #childpose, #cuarentenachallenge"
-  - username: "alejandro.peirano"
+    hashtags: "#spartanchallenge, #cumplea, #trailrunning, #running"
+  - username: "iam.mayasw"
     fullname: >-
-      Alejandro Francesco Peirano 🌪
+      Maya Silva 🍃
     location: "Chile"
-    followers: 8062
-    engagement: 1257
-    commentsToLikes: 0.052813
-    id: ck6ttjbxbaxh30j71h9zgpfjb
+    followers: 10125
+    engagement: 913
+    commentsToLikes: 0.018890
+    id: ck55lbawo175o0i110fzzln6f
     verified: false
-    hashtags: "#vivevalle, #trackandfield, #good, #portrait"
-  - username: "nicolecarpenter___"
+    hashtags: "#summervibes, #encasa, #legstronger, #handstandnation"
+  - username: "fitnesscornerperu"
     fullname: >-
-      N I C O L E  C A R P E N T E R
+      The Fitness Corner
     location: "Chile"
-    followers: 4468
-    engagement: 2652
-    commentsToLikes: 0.034279
-    id: ck5q24yw8eal90i110ws5613h
+    followers: 17777
+    engagement: 299
+    commentsToLikes: 0.111817
+    id: ck6uc7yn7e0pp0j71h14sww31
     verified: false
-    hashtags: "#practice, #deportechileno, #entrenamiento, #takecareofyourself"
+    hashtags: "#focusmrdfocus, #entrenamientoencasa, #glutesworkout, #seafoodlover"
+  - username: "bichocarrera"
+    fullname: >-
+      Bicho Carrera
+    location: "Chile"
+    followers: 16351
+    engagement: 483
+    commentsToLikes: 0.016891
+    id: ck0txrngwkabg0i19hswe06ag
+    verified: false
+    hashtags: "#headgear, #personal, #travelphotography, #fritanga"
   - username: "m.m.s.brito"
     fullname: >-
       Ma Monserrat Sabag⏸atleta 💪
     location: "Chile"
-    followers: 2320
-    engagement: 2330
-    commentsToLikes: 0.051910
+    followers: 2354
+    engagement: 2499
+    commentsToLikes: 0.051190
     id: ck6txrilrzfrv0j713hb9oo76
     verified: false
-    hashtags: "#bestoftheday, #dream, #makeithappen, #mediofondo"
-  - username: "drjoseluismejia"
-    fullname: >-
-      Dr. José Luis Mejía Vargas
-    location: "Chile"
-    followers: 36729
-    engagement: 116
-    commentsToLikes: 0.043787
-    id: ck5civ0dgtffs0i11wmjezvbr
-    verified: false
-    hashtags: "#marcaci, #est, #armonia, #plastic"
+    hashtags: "#lovetheworld, #fondo, #curacautin, #valentines"
 ---

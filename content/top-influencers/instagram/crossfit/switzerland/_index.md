@@ -1,46 +1,76 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top crossfit Instagram influencers in Switzerland in 2020. Most popular hashtags: #crossfit #fitness #fitfam #lifestyle.
+  Find top crossfit Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #smile #fitness #photo.
 platform: Instagram
 profiles:
+  - username: "jessy__dress"
+    fullname: >-
+      Jessy
+    location: "Switzerland"
+    followers: 2985
+    engagement: 1723
+    commentsToLikes: 0.200508
+    id: ckap0aoy3pi220i78g0bsz0w8
+    verified: false
+    hashtags: "#whatiwear, #haircut, #bacioparis, #bohooutfit"
   - username: "pamthorburn"
     fullname: >-
       Pam Thorburn
     location: "Switzerland"
-    followers: 6284
-    engagement: 727
-    commentsToLikes: 0.041946
+    followers: 6240
+    engagement: 720
+    commentsToLikes: 0.049653
     id: ck5hf6be5w02h0i11fqlrgth2
     verified: false
-    hashtags: "#korew, #learningtofly, #ink, #iamasweatybetty"
-  - username: "jonnekoski"
+    hashtags: "#badjokes, #ink, #learningtofly, #nofilter"
+  - username: "janoschnietlispach"
     fullname: >-
-      Jonne Koski
+      Janosch Nietlispach 🇨🇭
     location: "Switzerland"
-    followers: 60707
-    engagement: 303
-    commentsToLikes: 0.007707
-    id: ck5hd308el8tg0i11sceleqfb
+    followers: 30628
+    engagement: 419
+    commentsToLikes: 0.015313
+    id: ck0vznlsr9zre0i19fociq091
     verified: true
-    hashtags: "#backtowork, #gotime, #canyoudoit, #livingroomcup"
+    hashtags: "#switzerland, #samsunghome, #festival, #sanfrancisco"
+  - username: "morganemeirebrand"
+    fullname: >-
+      𝙼𝚘𝚛𝚐𝚊𝚗𝚎 𝙲𝚛𝚘𝚜𝚜𝚏𝚒𝚝 𝚐𝚒𝚛𝚕 🇨🇭🇫🇷
+    location: "Switzerland"
+    followers: 13323
+    engagement: 649
+    commentsToLikes: 0.019100
+    id: ck9wembjxkw9d0j78wlq33n84
+    verified: false
+    hashtags: "#teamnocco, #fitgirls, #crossfitwod, #open2020"
   - username: "by_dreia"
     fullname: >-
       𝐀𝐧𝐝𝐫𝐞𝐢𝐚 𝐒𝐚𝐧𝐭𝐨𝐬
     location: "Switzerland"
-    followers: 19693
-    engagement: 322
-    commentsToLikes: 0.025305
+    followers: 19128
+    engagement: 292
+    commentsToLikes: 0.023462
     id: ck6u7q12umzw60j71z2rwwnte
     verified: false
-    hashtags: "#sneakerslovers, #homeparty, #homefood, #couchtime"
+    hashtags: "#eatfruits, #coffeelover, #garden, #parcoursvita"
+  - username: "jonnekoski"
+    fullname: >-
+      Jonne Koski
+    location: "Switzerland"
+    followers: 61584
+    engagement: 253
+    commentsToLikes: 0.007568
+    id: ck5hd308el8tg0i11sceleqfb
+    verified: true
+    hashtags: "#painguaranteed, #stayactive, #apprun, #compprep"
   - username: "rabina17"
     fullname: >-
       Peter Lewis
     location: "Switzerland"
-    followers: 8068
-    engagement: 1072
-    commentsToLikes: 0.010630
+    followers: 8192
+    engagement: 1090
+    commentsToLikes: 0.012880
     id: ck0u9g1me9obw0i197dl4ob56
     verified: false
     hashtags: ""
@@ -48,60 +78,30 @@ profiles:
     fullname: >-
       Helen-Giovanna Doepke
     location: "Switzerland"
-    followers: 5435
-    engagement: 746
-    commentsToLikes: 0.028109
+    followers: 5392
+    engagement: 699
+    commentsToLikes: 0.030159
     id: ck0w37vbes0y70i19akhzjzkm
     verified: false
-    hashtags: "#kite, #surflife, #denmark, #rideengine"
-  - username: "fabiohayoz"
+    hashtags: "#surfergirl, #surfgirl, #longboarding, #heavenontheplanet"
+  - username: "semir.jahic"
     fullname: >-
-      Fabio Hayoz | Athlet
+      semir.jahic
     location: "Switzerland"
-    followers: 9682
-    engagement: 344
-    commentsToLikes: 0.047416
-    id: ck8svr3moce3r0j78a3lf79cp
+    followers: 36480
+    engagement: 493
+    commentsToLikes: 0.017457
+    id: ck5c4uwve25pd0i1138osjcsf
     verified: false
-    hashtags: "#workoutmotivation, #fitnesscamp, #beachbody, #ronniecoleman"
-  - username: "cyril_henry"
+    hashtags: "#corefitnessstudio, #cross, #see, #hair"
+  - username: "marionkaelin"
     fullname: >-
-      Cyril Henry® 🇨🇭🇫🇷
+      MARION KAELIN 🌸🍍
     location: "Switzerland"
-    followers: 112016
-    engagement: 97
-    commentsToLikes: 0.146698
-    id: ck5hnp10ro5bx0i11tf3z0otq
+    followers: 30634
+    engagement: 200
+    commentsToLikes: 0.064126
+    id: ck6ueoin1s5ve0j71ex6aweva
     verified: false
-    hashtags: "#kettlebell, #dreams, #london, #good"
-  - username: "seven_or_eleven"
-    fullname: >-
-      Jose Miguel Garcia Sanz
-    location: "Switzerland"
-    followers: 27068
-    engagement: 171
-    commentsToLikes: 0.035251
-    id: ck15tyyyaklip0i19sgf0b1k1
-    verified: false
-    hashtags: "#vive, #motivacion, #estadoalarma, #encasa"
-  - username: "kevinxtm"
-    fullname: >-
-      Kevin Crupi  xtm
-    location: "Switzerland"
-    followers: 5294
-    engagement: 471
-    commentsToLikes: 0.060183
-    id: ck5hctkuyjwis0i118o9g71zy
-    verified: false
-    hashtags: "#travelgram, #staypositive, #focuswater, #mylausanne"
-  - username: "esslingerlukas"
-    fullname: >-
-      Lukas Esslinger
-    location: "Switzerland"
-    followers: 29797
-    engagement: 279
-    commentsToLikes: 0.010000
-    id: ck5c6jlxl5ko90i11hjdcjecs
-    verified: false
-    hashtags: "#nutriathletic, #crossfitgames, #trashtalkthursday, #givesyouwings"
+    hashtags: "#gato, #team, #bathroom, #dress"
 ---

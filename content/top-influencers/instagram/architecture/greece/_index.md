@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Greece In 2020
 description: >-
-  Find top architecture Instagram influencers in Greece in 2020. Most popular hashtags: #greece #wu #ig #architecture.
+  Find top architecture Instagram influencers in Greece in 2020. Most popular hashtags: #athensgreece #architecture #love #traveltheworld.
 platform: Instagram
 profiles:
+  - username: "jim_kehagias"
+    fullname: >-
+      ᴊɪᴍ ᴋᴇʜᴀɢɪᴀs
+    location: "Greece"
+    followers: 10658
+    engagement: 1073
+    commentsToLikes: 0.083795
+    id: ckap6b08tf4ut0i782amr8h8v
+    verified: false
+    hashtags: "#sunny, #summer2020, #palms, #sunsetlover"
+  - username: "evi_kalogridi"
+    fullname: >-
+      e v i k a l o g r i d i 🦄✨
+    location: "Greece"
+    followers: 34468
+    engagement: 686
+    commentsToLikes: 0.009382
+    id: ckap0vnkgs0i50i787mez27wx
+    verified: false
+    hashtags: ""
+  - username: "jeff_murray_art"
+    fullname: >-
+      Jeff Murray
+    location: "Greece"
+    followers: 40394
+    engagement: 512
+    commentsToLikes: 0.032085
+    id: ck6txkojcyd0j0j71epcconue
+    verified: false
+    hashtags: "#journey, #markerpen, #pool, #goldsky"
   - username: "georgefakaros"
     fullname: >-
       George Fakaros
     location: "Greece"
-    followers: 10315
-    engagement: 682
-    commentsToLikes: 0.005906
+    followers: 10461
+    engagement: 757
+    commentsToLikes: 0.005975
     id: ck6u101z7irau0j71vtydr1qr
     verified: false
-    hashtags: "#mykonosgreece, #kohsamui, #dronephotography, #coconuttree"
+    hashtags: "#citykillerz, #dronetheworld, #seafromabove, #bestdestinations"
   - username: "k_studio_gr"
     fullname: >-
       K-STUDIO
     location: "Greece"
-    followers: 29141
-    engagement: 493
-    commentsToLikes: 0.016445
+    followers: 39941
+    engagement: 510
+    commentsToLikes: 0.015757
     id: ck0uc9znmg9s30i19vm4uigsf
     verified: false
-    hashtags: "#costanavarino, #barbouni, #skiathos, #kaplankaya"
+    hashtags: "#costanavarinodevelopment, #planehouse, #skiathos, #suite"
+  - username: "_arrcc"
+    fullname: >-
+      ARRCC
+    location: "Greece"
+    followers: 42382
+    engagement: 95
+    commentsToLikes: 0.013093
+    id: ck13b71z9tzzu0i19vi6g2cmz
+    verified: false
+    hashtags: "#green, #feature, #okha, #greece"
+  - username: "heythisisnikita"
+    fullname: >-
+      Nikita
+    location: "Greece"
+    followers: 3888
+    engagement: 1460
+    commentsToLikes: 0.297066
+    id: ckaosxphqthnz0i781mlsms8o
+    verified: false
+    hashtags: "#missingtravel, #visitathens, #beachlovers, #sheisnotlost"
   - username: "ntar_ina"
     fullname: >-
-      Darina Kryvko
+      
     location: "Greece"
-    followers: 14567
-    engagement: 1090
-    commentsToLikes: 0.010855
+    followers: 16978
+    engagement: 1032
+    commentsToLikes: 0.011109
     id: ck5qed10gzvvy0i11mjx0rg7e
     verified: false
-    hashtags: "#imissparis, #tastyfood, #yumyum, #girlsnight"
-  - username: "kostasboukou"
+    hashtags: "#delicious, #vienna, #travels, #coffeeshop"
+  - username: "spic7"
     fullname: >-
-      Kostas Bouk
+      
     location: "Greece"
-    followers: 17070
-    engagement: 1013
-    commentsToLikes: 0.111249
-    id: ck138hc7jg8h00i19jtyh130l
+    followers: 11388
+    engagement: 1421
+    commentsToLikes: 0.116085
+    id: ck0tzdy1rpzli0i194anpqj9n
     verified: false
-    hashtags: "#staysafe, #prodromos, #hello, #lefkes"
-  - username: "aba_tziz"
+    hashtags: "#livetotravel, #traveltheworld, #photolovers, #visitrome"
+  - username: "mariskasadventure"
     fullname: >-
-      📷G🍁E🌎O♊R🍃G👍E
+      Mariska 🇳🇱
     location: "Greece"
-    followers: 5461
-    engagement: 1984
-    commentsToLikes: 0.167632
-    id: ck0w1nwm6k9mh0i19u9pme0sr
+    followers: 3207
+    engagement: 2857
+    commentsToLikes: 0.150258
+    id: ckaorztjupiba0i78yftwbxy1
     verified: false
-    hashtags: "#tlpicks, #thisisathens, #minimaldotcom, #ladadika"
-  - username: "nikosgkanosofficial"
-    fullname: >-
-      Nikos Gkanos (Nicko)
-    location: "Greece"
-    followers: 58040
-    engagement: 393
-    commentsToLikes: 0.019068
-    id: ck13722w19drn0i19w883cmw8
-    verified: true
-    hashtags: "#kiamos, #performance, #city, #chocolate"
-  - username: "milena_spanou"
-    fullname: >-
-      Milena Spanou
-    location: "Greece"
-    followers: 9015
-    engagement: 1905
-    commentsToLikes: 0.059512
-    id: ck8t6zr4df71z0j78rontqauf
-    verified: false
-    hashtags: "#zonestreet, #cityofathens, #oldathens, #hikaricreative"
-  - username: "minogiannisvalantis"
-    fullname: >-
-      Valantis
-    location: "Greece"
-    followers: 84890
-    engagement: 653
-    commentsToLikes: 0.049780
-    id: ck0ty3kv9lh660i19i6yj40o6
-    verified: false
-    hashtags: "#art, #kings, #pink, #architecturelovers"
-  - username: "merm1gas"
-    fullname: >-
-      ᴋᴏsᴛᴀs ᴇғᴛʜɪᴍɪᴏᴘᴏᴜʟᴏs
-    location: "Greece"
-    followers: 6478
-    engagement: 1684
-    commentsToLikes: 0.046770
-    id: ck5zsfjk8yeaq0i14ns6ezz64
-    verified: false
-    hashtags: "#serialshooters, #bokehcity, #way2ill, #streetsineurope"
-  - username: "john.th.karageorgos"
-    fullname: >-
-      Ioannis Th. Karageorgos
-    location: "Greece"
-    followers: 3549
-    engagement: 1780
-    commentsToLikes: 0.116116
-    id: ck5cc4jy6gpmu0i11zddhugu5
-    verified: false
-    hashtags: "#savethedecay, #grime, #beautifuldestinations, #greeceunlimited"
+    hashtags: "#exploretheworld, #gondola, #staypositive, #medievalcity"
 ---

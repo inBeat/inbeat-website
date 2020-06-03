@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Brazil In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Brazil in 2020. Most popular hashtags: #makeup #makeuptutorial #maquiagem #beauty.
+  Find top cosmetics Instagram influencers in Brazil in 2020. Most popular hashtags: #cosmetics #makeupchallenge #makeuptutorial #blogueira.
 platform: Instagram
 profiles:
   - username: "noemi_salazar13"
     fullname: >-
       Noemi Salazar
     location: "Brazil"
-    followers: 690599
-    engagement: 366
-    commentsToLikes: 0.105257
+    followers: 720201
+    engagement: 326
+    commentsToLikes: 0.172490
     id: ck5q9nborbzle0i111qcvhstw
     verified: true
-    hashtags: "#sorteoiphone11, #madrid, #fashionblogger, #oto"
+    hashtags: "#belleza, #girlspower, #fotosencasa, #pijama"
   - username: "beatriiz_alcantaraa"
     fullname: >-
       Beaтrιz Alcanтara ❥
     location: "Brazil"
-    followers: 23376
-    engagement: 176
-    commentsToLikes: 0.046201
+    followers: 23199
+    engagement: 184
+    commentsToLikes: 0.054420
     id: ck8t485h05tq80j78vkmua7tp
     verified: false
-    hashtags: "#maquiagemx, #maquiagembrasil, #maquiagemprofissional, #brauliobessa"
-  - username: "sabrinalutz"
+    hashtags: "#brauliobessa, #lookquarentenadodia, #emcasa, #tbt"
+  - username: "amandacrystinaoficial"
     fullname: >-
-      Sabrina Lutz🐚🌊
+      Amanda Crystina  👑
     location: "Brazil"
-    followers: 7062
-    engagement: 556
-    commentsToLikes: 0.022608
-    id: ck5c5uukk46v40i11j5moonoa
+    followers: 9531
+    engagement: 908
+    commentsToLikes: 0.036193
+    id: ckaozd50ylca60i78lhr94n1c
     verified: false
-    hashtags: "#brazil, #mornings, #blessed, #girls"
+    hashtags: "#mensagemdodia, #flowers, #queen, #mexico"
+  - username: "inesmocho.makeup"
+    fullname: >-
+      Inês Mocho
+    location: "Brazil"
+    followers: 255014
+    engagement: 450
+    commentsToLikes: 0.026813
+    id: ck55jyj5ky2cy0i116rf0t8wc
+    verified: true
+    hashtags: "#pub, #quemnunca, #modaeci, #coronavirus"
   - username: "cosmeasia"
     fullname: >-
       Pedro
     location: "Brazil"
-    followers: 81871
-    engagement: 85
-    commentsToLikes: 0.031629
+    followers: 84409
+    engagement: 87
+    commentsToLikes: 0.033439
     id: ck135vsno3h8t0i19ejoraktb
     verified: false
-    hashtags: "#educa, #demaquilante, #peleoleosa, #matem"
-  - username: "jedelponte"
+    hashtags: "#prote, #alfahidroxi, #makeup, #cleansingbalm"
+  - username: "63laserandskinclinic"
     fullname: >-
-      Jéssica Del Ponte
+      63 Laser & Skin Clinic™️
     location: "Brazil"
-    followers: 5602
-    engagement: 1324
-    commentsToLikes: 0.075358
-    id: ck8tbsv5ewzzj0j78z5c0nhg8
+    followers: 53477
+    engagement: 97
+    commentsToLikes: 0.022876
+    id: ck8sxdflfgzlr0j7861w5yl9s
     verified: false
-    hashtags: "#brabachallenge, #happybirtday, #imploreipravoltarchallenge, #glam"
-  - username: "thaynanernandes"
+    hashtags: "#abdominal, #bodysculpt, #lift, #augmentation"
+  - username: "ana_lidya"
     fullname: >-
-      Thaynan Ernandes
+      Ana Lídia
     location: "Brazil"
-    followers: 16885
-    engagement: 466
-    commentsToLikes: 0.110606
-    id: ck0w61tvo6ied0i19d1pm5o3r
+    followers: 3395
+    engagement: 4439
+    commentsToLikes: 1.242019
+    id: ckap1g6x0ugjf0i785oq4xeza
     verified: false
-    hashtags: "#carnaval2020, #undiscovered, #desafiomakeup, #makeup"
-  - username: "anelisecalixto"
+    hashtags: "#joyalyfashion, #princesasifb, #lookevangelico, #blogueiragospel"
+  - username: "yasminlsilva"
     fullname: >-
-      Anelise
+      YASMIN SILVA
     location: "Brazil"
-    followers: 28364
-    engagement: 271
-    commentsToLikes: 0.134370
-    id: ck5q5iws1t30p0i11lbmu21le
+    followers: 55529
+    engagement: 701
+    commentsToLikes: 0.254202
+    id: ck6u8dc5sqwsj0j714efl18hg
     verified: false
-    hashtags: "#girl, #challenger, #piscina, #acampar"
-  - username: "macristiine"
+    hashtags: "#ficaadica, #tumblrgirl, #thelmacampe, #lovecosmetics"
+  - username: "adhil.ea"
     fullname: >-
-      Mayara Cristine 👩🏻‍🦰
+      🍭 🇦​ 🇩​ 🇭​ 🇮​ 🇱​ 🍭
     location: "Brazil"
-    followers: 3106
-    engagement: 1213
-    commentsToLikes: 0.180296
-    id: ck5zpoknft1oa0i14kg5rrs8g
+    followers: 3597
+    engagement: 2548
+    commentsToLikes: 0.174258
+    id: ckap609yedwug0i78ygqtsq58
     verified: false
-    hashtags: "#photoshop, #deborahannwoll, #billcompton, #undiscovered"
-  - username: "mascarenhasoficial"
+    hashtags: "#nikhilnopz, #enthekeralam, #keralaquotes, #moodygram"
+  - username: "tuaneosaida"
     fullname: >-
-      Matheus Mascarenhas
+      Tuane Osaida Martins
     location: "Brazil"
-    followers: 14241
-    engagement: 514
-    commentsToLikes: 0.161209
-    id: ck6ttpxs2bytb0j717084iou1
+    followers: 5276
+    engagement: 1692
+    commentsToLikes: 0.202973
+    id: ck8t6574nc94q0j78123o3n1w
     verified: false
-    hashtags: "#makeuplife, #goals, #tracta, #beautys"
-  - username: "camaracristiano"
-    fullname: >-
-      C R I S T I A N O  C Â M A R A
-    location: "Brazil"
-    followers: 16103
-    engagement: 274
-    commentsToLikes: 0.222477
-    id: ck6u7z0uvohhg0j71ytjtejql
-    verified: false
-    hashtags: "#maquiagembrasil, #rj, #brasil, #makeupforever"
+    hashtags: "#dragrace, #blackandwhite, #cosmetics, #makeupbyme"
 ---

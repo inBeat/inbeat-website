@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Singapore In 2020
 description: >-
-  Find top fashion Instagram influencers in Singapore in 2020. Most popular hashtags: #ootd #wiwt #sgunited #zarasg.
+  Find top fashion Instagram influencers in Singapore in 2020. Most popular hashtags: #sudio #uncutverdict #covid19 #onlyatwatsons.
 platform: Instagram
 profiles:
-  - username: "mybabyalma"
+  - username: "lihuijapanlove"
     fullname: >-
-      Martina Calabresi
+      Lihui利慧| Singapore新加坡🇸🇬
     location: "Singapore"
-    followers: 42457
-    engagement: 45
-    commentsToLikes: 0.126263
-    id: ck5qbxy1enx1u0i11oz4l1eii
+    followers: 31672
+    engagement: 462
+    commentsToLikes: 0.083305
+    id: ckaotr1v0x4230i78w5diw0tm
     verified: false
-    hashtags: "#besafewithstyle, #coronavirus, #mybabyalma, #fightonline"
+    hashtags: "#getskinhappy, #aveenobody, #cityhotpot, #choosehealthy"
+  - username: "aimeechengbradshaw"
+    fullname: >-
+      Aimee Cheng-Bradshaw (程珮蕓)
+    location: "Singapore"
+    followers: 103365
+    engagement: 402
+    commentsToLikes: 0.023088
+    id: ck55jn7nsxd3r0i11s2wl5m3n
+    verified: true
+    hashtags: "#adidassg, #alphabounce, #ultraboost, #superdown"
+  - username: "willamazing"
+    fullname: >-
+      Willabelle Ong
+    location: "Singapore"
+    followers: 177154
+    engagement: 185
+    commentsToLikes: 0.026983
+    id: ck0tzltfnqtab0i191gu9eaqt
+    verified: true
+    hashtags: "#burberrysg, #babydior, #celinesg, #veryversace"
   - username: "iamannlopez"
     fullname: >-
       𝒶𝓃𝓃 𝓁𝑜𝓅𝑒𝓏
     location: "Singapore"
-    followers: 6210
-    engagement: 652
-    commentsToLikes: 0.208553
+    followers: 6577
+    engagement: 682
+    commentsToLikes: 0.201004
     id: ck8t3u1fb4htp0j786z8ckad0
     verified: false
-    hashtags: "#jloxguess, #ikiunderscore, #asianbeautyx, #imsxabx"
+    hashtags: "#saree, #ootn, #brownskin, #htvncares"
+  - username: "selmakeziaa"
+    fullname: >-
+      Kezia 🦄
+    location: "Singapore"
+    followers: 12045
+    engagement: 937
+    commentsToLikes: 0.017635
+    id: ck5hqiqett6fx0i11q9n0dfgw
+    verified: false
+    hashtags: "#dewycelcushion, #obatherbal, #sekarangmileasamatangolagi, #tangoxmilea"
+  - username: "craziben"
+    fullname: >-
+      Ben Siew 🇸🇬
+    location: "Singapore"
+    followers: 29344
+    engagement: 360
+    commentsToLikes: 0.018651
+    id: ck0w5dmvg34jj0i19bxuxh5no
+    verified: false
+    hashtags: "#huatwithshopee, #sp, #lggram, #lggram17"
   - username: "linhluuphoto"
     fullname: >-
       Linh Luu
     location: "Singapore"
-    followers: 31125
-    engagement: 618
-    commentsToLikes: 0.003047
+    followers: 33432
+    engagement: 586
+    commentsToLikes: 0.002799
     id: ck5pv2r8nfu4s0i119z0nz2kp
     verified: false
-    hashtags: "#junyawatanabe, #commedesgarcons, #kendalljenner, #adidasvn"
-  - username: "shavonne.wong"
+    hashtags: "#vietnamstreetstylegroup, #kendalljenner, #adidasvn, #superstar"
+  - username: "atyymalek"
     fullname: >-
-      Shavonne Wong | Photographer
+      Atyy Malek
     location: "Singapore"
-    followers: 21631
-    engagement: 202
-    commentsToLikes: 0.028103
-    id: ck14ihwyofhg30i19gzusp79h
+    followers: 29165
+    engagement: 523
+    commentsToLikes: 0.007810
+    id: ck0vyssps5m160i190c7iibqb
     verified: false
-    hashtags: "#beautyphotography, #instagoodmyphoto, #justgoshoot, #gfx50"
-  - username: "weiloongbrian"
+    hashtags: "#superga, #supergaicons, #supergaicon, #gosafeonline"
+  - username: "mandyymiz"
     fullname: >-
-      Weiloongbrian | 伟龙
+      Mandy 陈佩思
     location: "Singapore"
-    followers: 10685
-    engagement: 615
-    commentsToLikes: 0.018330
-    id: ck138ds6ffqzj0i194wd3gepr
+    followers: 17921
+    engagement: 240
+    commentsToLikes: 0.137471
+    id: ck6ub2wfo75k00j717ugsbqq8
     verified: false
-    hashtags: "#summerlife, #happybirthdaytome, #huatah, #weddingoutfit"
-  - username: "gracelsyy"
-    fullname: >-
-      👀
-    location: "Singapore"
-    followers: 70280
-    engagement: 400
-    commentsToLikes: 0.003731
-    id: ck0ucnofrh88i0i19a47ad3tf
-    verified: false
-    hashtags: "#uniqlosg, #adidassg, #loveyourself, #rimowaessential"
+    hashtags: "#exploresg, #bodycondress, #sgreview, #beautyblog"
   - username: "briannawonggg"
     fullname: >-
       Brianna W.
     location: "Singapore"
-    followers: 31515
-    engagement: 130
-    commentsToLikes: 0.021345
+    followers: 31907
+    engagement: 156
+    commentsToLikes: 0.033422
     id: ck5q811gf3zc10i11db5s3l7x
     verified: false
-    hashtags: "#lazadabirthday, #koreanredginseng, #dayre, #sp"
-  - username: "melanie_mak"
-    fullname: >-
-      M E L A N I E
-    location: "Singapore"
-    followers: 22411
-    engagement: 562
-    commentsToLikes: 0.057843
-    id: ck5c1qthkvqls0i118flqxaoa
-    verified: false
-    hashtags: "#dior, #dioroblique, #lovebonito, #potd"
-  - username: "estherquek"
-    fullname: >-
-      ESTHER QUEK   🇸🇬
-    location: "Singapore"
-    followers: 38644
-    engagement: 155
-    commentsToLikes: 0.036274
-    id: ck5hjyp3ohhge0i111xpamwo3
-    verified: true
-    hashtags: "#noartificialflavours, #cny, #followeqtosingapore, #japanesemacaque"
-  - username: "aimeechengbradshaw"
-    fullname: >-
-      Aimee Cheng-Bradshaw 程珮蕓
-    location: "Singapore"
-    followers: 94304
-    engagement: 211
-    commentsToLikes: 0.018183
-    id: ck55jn7nsxd3r0i11s2wl5m3n
-    verified: true
-    hashtags: "#inbloom, #adidassg, #charleskeithofficial, #gentlemonster"
+    hashtags: "#takecommandofyourspace, #cheongkwanjangsg, #lazadasg, #instaxmini11"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Divers Instagram Influencers In Poland In 2020
 description: >-
-  Find top divers Instagram influencers in Poland in 2020. Most popular hashtags: #ocean #photooftheday #travel #polishgirl.
+  Find top divers Instagram influencers in Poland in 2020. Most popular hashtags: #diverse #photoday #crazy #mirror.
 platform: Instagram
 profiles:
+  - username: "nylaa_a"
+    fullname: >-
+      Natalia Lewandowska🌸
+    location: "Poland"
+    followers: 33609
+    engagement: 1072
+    commentsToLikes: 0.016966
+    id: ck8t0dcalronv0j78dt7aq6yk
+    verified: false
+    hashtags: "#hipop, #fundacjaorlen, #mermaid, #grze"
   - username: "lifein20kg"
     fullname: >-
       Martyna Skura || Scuba Diving
     location: "Poland"
-    followers: 30129
-    engagement: 283
-    commentsToLikes: 0.060323
+    followers: 29958
+    engagement: 198
+    commentsToLikes: 0.061676
     id: ck6toduigdicp0j719wan070l
     verified: false
-    hashtags: "#walentynkibezbalon, #blondegirlincaribbean, #zrozumiecchiny, #walentynkibezbrokatu"
+    hashtags: "#dzienziemi2020, #hotdrzewochallenge, #niece, #love"
+  - username: "jesusothers"
+    fullname: >-
+      María Jesús Sothers Arregui
+    location: "Poland"
+    followers: 67610
+    engagement: 430
+    commentsToLikes: 0.010143
+    id: ck135qt2j2s500i19w51x4lwq
+    verified: false
+    hashtags: "#bcn"
   - username: "jnivx"
     fullname: >-
       Nikola Juszczak
     location: "Poland"
-    followers: 29538
-    engagement: 1197
-    commentsToLikes: 0.018843
+    followers: 29246
+    engagement: 1324
+    commentsToLikes: 0.018936
     id: ck1381vnoe3pg0i19fo4ibn5t
     verified: false
-    hashtags: "#rollercoaster, #polishgirl, #youtuber, #clothes"
-  - username: "radekpaczuski"
-    fullname: >-
-      Radek Paczuski
-    location: "Poland"
-    followers: 17579
-    engagement: 585
-    commentsToLikes: 0.013876
-    id: ck5hq40mlsgha0i11l4fvsdsl
-    verified: false
-    hashtags: "#kacpiborutapomocyszuka, #travelbroadensthemind, #akumal, #sportaddicts"
+    hashtags: "#energylandia, #diversesystem, #aliexpress, #sourinfernals"
   - username: "stawikowska_"
     fullname: >-
-      Marta Stawikowska✨
+      𝓜𝓪𝓻𝓽𝓪 𝓢𝓽𝓪𝔀𝓲𝓴𝓸𝔀𝓼𝓴𝓪🦋
     location: "Poland"
-    followers: 10806
-    engagement: 1212
-    commentsToLikes: 0.017116
+    followers: 10273
+    engagement: 1210
+    commentsToLikes: 0.021441
     id: ck0twpa5ig9qy0i19pyqdnwqc
     verified: false
-    hashtags: "#sunnyday, #hoteltransylvania, #poland, #instagirl"
-  - username: "rudeiczarne_travelblog"
+    hashtags: "#shorthair, #newhairstyle, #crazy, #365days"
+  - username: "amelia_roman_official"
     fullname: >-
-      RudeiCzarne - Travelblog
+      Amelia Roman
     location: "Poland"
-    followers: 5236
-    engagement: 784
-    commentsToLikes: 0.099731
-    id: ck8t5d2xx9pge0j78556f5j15
+    followers: 55124
+    engagement: 378
+    commentsToLikes: 0.020457
+    id: ck6todh1cdgmg0j713eoo6cpo
     verified: false
-    hashtags: "#societymalta, #zostanwdomu, #couplewhotravel, #naturegeography"
-  - username: "smycel"
+    hashtags: "#crazy, #travel, #mycity, #wedding"
+  - username: "yoczook"
     fullname: >-
-      
+      Łukasz ,,Yoczook” Walaszek
     location: "Poland"
-    followers: 3980
-    engagement: 1295
-    commentsToLikes: 0.100716
-    id: ck8t8ngopl3810j789d98eo1z
+    followers: 323913
+    engagement: 198
+    commentsToLikes: 0.005903
+    id: ck13d4y8u3pl50i19x92pbqjg
     verified: false
-    hashtags: "#swissmade, #watchfy, #certinads, #macromaddness"
+    hashtags: "#graffiti, #ad, #instagood, #book"
+  - username: "patrykhilton"
+    fullname: >-
+      Patryk Hilton
+    location: "Poland"
+    followers: 75925
+    engagement: 200
+    commentsToLikes: 0.009777
+    id: ck6tp7b53i84s0j71pun023h2
+    verified: false
+    hashtags: "#godsavethequeen, #boldlines, #kosmos, #plantlife"
   - username: "m_glowacki_"
     fullname: >-
       Marcin Głowacki 🇵🇱
     location: "Poland"
-    followers: 15609
-    engagement: 661
-    commentsToLikes: 0.011338
+    followers: 15728
+    engagement: 597
+    commentsToLikes: 0.011468
     id: ck15ty0ypkgml0i19xos9ndop
     verified: false
-    hashtags: "#motul, #dext, #sunnywinter, #point"
+    hashtags: "#competition, #stuntrider, #scorpionexhsust, #ebcbrakes"
   - username: "oskarkaczmarczyk6"
     fullname: >-
       Oskar Kaczmarczyk #6
     location: "Poland"
-    followers: 10925
-    engagement: 822
-    commentsToLikes: 0.003487
+    followers: 11137
+    engagement: 753
+    commentsToLikes: 0.003091
     id: ck5chv759rj500i11ay9ftgfa
     verified: false
-    hashtags: "#tbt, #motohybrid, #leattprotectives, #tech10"
-  - username: "dominikachlopik"
-    fullname: >-
-      dominika chłopik🦋
-    location: "Poland"
-    followers: 52900
-    engagement: 2183
-    commentsToLikes: 0.009453
-    id: ck134u01xy66j0i197gr068i2
-    verified: false
-    hashtags: ""
-  - username: "dziewczyny.policjanta"
-    fullname: >-
-      
-    location: "Poland"
-    followers: 10025
-    engagement: 454
-    commentsToLikes: 0.208341
-    id: ck0vxho3eyxvk0i19cu1e2j0h
-    verified: false
-    hashtags: "#2yearsold, #poscieldladzieci, #mojedzieci, #konkursy"
+    hashtags: "#hardenduro, #whatisextremeforyou, #youtube, #olekmotocykle"
 ---

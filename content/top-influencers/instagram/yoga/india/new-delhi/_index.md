@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In New Delhi In 2020
 description: >-
-  Find top yoga Instagram influencers in New Delhi in 2020. Most popular hashtags: #love #stayhome #india #delhi.
+  Find top yoga Instagram influencers in New Delhi in 2020. Most popular hashtags: #yoga #fitness #mothersday #staysafe.
 platform: Instagram
 profiles:
-  - username: "heavenly_home_made"
+  - username: "theyogagirlmohini"
     fullname: >-
-      A L E K H Y A 🌟
+      Mohini Bhatia
     location: "India"
-    followers: 38888
-    engagement: 694
-    commentsToLikes: 0.011499
-    id: ck0udkancjbqy0i19ro68n7o2
+    followers: 18140
+    engagement: 443
+    commentsToLikes: 0.048967
+    id: ck9haztpjersj0j78b0wjx2vd
     verified: false
-    hashtags: "#shooting, #naturephotographer, #weeklyvideos, #childish"
-  - username: "elenasparrow"
+    hashtags: "#instagramgoodis, #homemadefood, #lovelock009x, #breakgonnaend"
+  - username: "tanyakhanijow"
     fullname: >-
-      Ayesha Adlakha
+      Tanya Khanijow
     location: "India"
-    followers: 99977
-    engagement: 138
-    commentsToLikes: 0.011920
-    id: ck6uewktkthkv0j71b577cd7d
+    followers: 121761
+    engagement: 1133
+    commentsToLikes: 0.015586
+    id: ck5zm8fdzm3e80i144f5qb1yc
+    verified: false
+    hashtags: "#indialove, #opuwo, #justdance, #deathvalley"
+  - username: "clicksby.pk"
+    fullname: >-
+      Priyanshu Kumar | 🇮🇳 (3k+)
+    location: "India"
+    followers: 3347
+    engagement: 906
+    commentsToLikes: 0.141508
+    id: ck9wer1mnlgnw0j78ia66dnbi
+    verified: false
+    hashtags: "#jamamasjiddelhi, #mothersday, #lights, #timelapseart"
+  - username: "ebgiii"
+    fullname: >-
+      Edward B. Gieda III
+    location: "India"
+    followers: 3935
+    engagement: 1156
+    commentsToLikes: 0.049323
+    id: ck5zqwb9kvf5n0i14boitpp94
+    verified: false
+    hashtags: "#kaliyuga, #meditation, #indiarunning, #plantbased"
+  - username: "sathiyantt"
+    fullname: >-
+      Sathiyan Gnanasekaran
+    location: "India"
+    followers: 17296
+    engagement: 595
+    commentsToLikes: 0.016460
+    id: ck5hn09e1mysd0i1121o306wr
     verified: true
-    hashtags: "#coronavirus, #alwayshungry, #dftd6, #slomo"
+    hashtags: "#indiantabletennis, #indiafightscorona, #jaanhaitohjahaanhai, #homeworkouts"
   - username: "kanishka.sharma.186"
     fullname: >-
       kanny (THE ACE)
     location: "India"
-    followers: 12983
-    engagement: 2982
-    commentsToLikes: 0.016276
+    followers: 12277
+    engagement: 3176
+    commentsToLikes: 0.014307
     id: ck8tdugtp4t9x0j784518vz3j
     verified: false
-    hashtags: "#jaipurdairies, #danceplus, #niki, #thereforyou"
-  - username: "wwe_ishakhurana"
+    hashtags: "#niki, #remodsouza, #black, #photoflgraphy"
+  - username: "kultureshopindia"
     fullname: >-
-      Isha Khurana(RomanEsha)
+      Kulture Shop
     location: "India"
-    followers: 26847
-    engagement: 449
-    commentsToLikes: 0.023371
-    id: ck0vy8p452rom0i19h76uss3b
+    followers: 36327
+    engagement: 136
+    commentsToLikes: 0.010133
+    id: ck8szusyipsnw0j78y0aidd1j
     verified: false
-    hashtags: "#fitnessmodel, #instagram, #urbanstreetwear, #indian"
-  - username: "humpty_dumptty"
-    fullname: >-
-      Sudhanshu Sharma | INDIA 🇮🇳 |
-    location: "India"
-    followers: 7298
-    engagement: 1248
-    commentsToLikes: 0.096216
-    id: ck5pzc50n08xb0i11kmhro3nt
-    verified: false
-    hashtags: "#saree, #delhi, #shutterhubindia, #yourshot"
-  - username: "ritali_vlogs"
-    fullname: >-
-      Ritali Nayak
-    location: "India"
-    followers: 1989
-    engagement: 1795
-    commentsToLikes: 0.105077
-    id: ck8tbbgv0v0og0j78fksvurz2
-    verified: false
-    hashtags: "#backpackerlife, #wanderlust, #travelstory, #neemlinaturals"
-  - username: "lukegraeber"
-    fullname: >-
-      LukeGraeber Yoga & Photography
-    location: "India"
-    followers: 20970
-    engagement: 491
-    commentsToLikes: 0.076532
-    id: ck0u9m50pa2p20i19pi4th3f1
-    verified: false
-    hashtags: "#stopthespread, #bhagavadgita"
-  - username: "naki.earth"
-    fullname: >-
-      Annachiara 🌿
-    location: "India"
-    followers: 22424
-    engagement: 986
-    commentsToLikes: 0.025514
-    id: ck5pxylmmthrg0i11scerm36n
-    verified: false
-    hashtags: "#loveallbeings, #rainbowlove, #femminista, #thankyou"
+    hashtags: "#planet, #fitness, #artistseries, #oldschool"
   - username: "yogafter40"
     fullname: >-
       Paola Pietri
     location: "India"
-    followers: 33967
-    engagement: 313
-    commentsToLikes: 0.054923
+    followers: 46283
+    engagement: 650
+    commentsToLikes: 0.054492
     id: ck8wgib4ihf8p0j78ayi94ilq
     verified: false
-    hashtags: "#yogaaddiction, #hipopener, #yogaflow, #yogamom"
-  - username: "yoguichimum"
+    hashtags: "#yogavibe, #splitvariation, #handstandlovers, #stretching"
+  - username: "ania17art"
     fullname: >-
-      ichi
+      ania17art_yoga
     location: "India"
-    followers: 18284
-    engagement: 726
-    commentsToLikes: 0.086168
-    id: ck5c5pkr33x8s0i11fqs0428k
-    verified: true
-    hashtags: "#dysonspain, #workhard, #tiempoenfamilia, #vacaciones"
+    followers: 8298
+    engagement: 1157
+    commentsToLikes: 0.086226
+    id: ckaoyhmybhke40i78yljrwual
+    verified: false
+    hashtags: "#ania17ar, #falda, #aguacate, #yogapractice"
+  - username: "lukegraeber"
+    fullname: >-
+      LukeGraeber Yoga & Photography
+    location: "India"
+    followers: 21708
+    engagement: 485
+    commentsToLikes: 0.078512
+    id: ck0u9m50pa2p20i19pi4th3f1
+    verified: false
+    hashtags: "#lukegraeber20k, #puppypose, #yogavideo, #namaste"
 ---

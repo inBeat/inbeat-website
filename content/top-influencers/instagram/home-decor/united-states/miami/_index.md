@@ -1,7 +1,7 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Miami In 2020
 description: >-
-  Find top home decor Instagram influencers in Miami in 2020. Most popular hashtags: #miami #homedecor #interiordesign #home.
+  Find top home decor Instagram influencers in Miami in 2020. Most popular hashtags: #homedecor #miami #mimodistrict #home.
 platform: Instagram
 profiles:
   - username: "tobiasbarrios1"
@@ -14,94 +14,94 @@ profiles:
     id: ck6u86dd3poy40j71loke8jgr
     verified: false
     hashtags: "#myhope, #friends, #miamishoresvillage, #newhome"
-  - username: "stikki_peaches"
+  - username: "blondiexliz"
     fullname: >-
-      stikki_peaches
+      Liz | Software Engineer 👩🏼‍💻
     location: "United States"
-    followers: 59711
-    engagement: 234
-    commentsToLikes: 0.044206
-    id: ck15u75pwlqsu0i19fhokrgkj
+    followers: 25496
+    engagement: 837
+    commentsToLikes: 0.004695
+    id: ck15ue5zamqe90i19uk7ji2zg
     verified: false
-    hashtags: "#jungburnn, #believe, #arttherapy, #footballwave"
-  - username: "realestate"
+    hashtags: "#socialisolation, #merrychristmas, #stressrelief, #blogger"
+  - username: "eolodesign"
     fullname: >-
-      @RealEstate
+      EOLO DESIGN MIAMI
     location: "United States"
-    followers: 76576
-    engagement: 144
-    commentsToLikes: 0.021968
-    id: ck13b75i4u0ju0i19q6edh4b0
+    followers: 22521
+    engagement: 274
+    commentsToLikes: 0.003635
+    id: ck0w3wl65vnkp0i1978qn2y7z
     verified: false
-    hashtags: "#realestateagent, #kobikarp, #winecellar, #backyard"
-  - username: "carlosramirezstudio"
+    hashtags: "#speaker, #bath, #tastemaker, #mothersday"
+  - username: "britanyraquell"
     fullname: >-
-      Carlos Ramirez
+      Britany 💕 Instant Influencer
     location: "United States"
-    followers: 32133
-    engagement: 315
-    commentsToLikes: 0.055661
-    id: ck5zws3h86nx30i14r8dvqx5z
+    followers: 36243
+    engagement: 1753
+    commentsToLikes: 0.019691
+    id: ckaounhes11fq0i781uwsuzpk
     verified: false
-    hashtags: "#coastalliving, #canyonroad, #arte, #saintpete"
+    hashtags: "#outfits, #drag, #suvabeautyhydraliner, #glamfam"
+  - username: "daniella_queirolo_art"
+    fullname: >-
+      Daniella Queirolo Art
+    location: "United States"
+    followers: 6888
+    engagement: 892
+    commentsToLikes: 0.046843
+    id: ck5pv3trafzv00i11arzcdue4
+    verified: false
+    hashtags: "#artworks, #artecontempor, #ballerinafeet, #balletdancer"
   - username: "fineartbling"
     fullname: >-
       Rhinestoned Designs
     location: "United States"
     followers: 3224
-    engagement: 3844
-    commentsToLikes: 0.041023
+    engagement: 3842
+    commentsToLikes: 0.041051
     id: ck6tsgjuo4n340j71trvh6xc4
     verified: false
-    hashtags: "#laart, #elegantmagazine, #losangelesart, #fashion"
-  - username: "therobelifeblog"
+    hashtags: "#artdealer, #miami, #hairstyle, #losangeles"
+  - username: "jenifersey_"
     fullname: >-
-      Natalie Atick-Nunez
+      Beautyglamparis
     location: "United States"
-    followers: 102892
-    engagement: 224
-    commentsToLikes: 0.033202
-    id: ck0udcywzisas0i19fvb6xr63
+    followers: 170827
+    engagement: 489
+    commentsToLikes: 0.018433
+    id: ck0twvv3ngz290i195f3gxz1e
     verified: false
-    hashtags: "#dailyootdpic, #fashioninspo, #laneigeus, #blowoutsbringhappiness"
-  - username: "oxananiki"
+    hashtags: "#concours, #home, #lookbook, #fauxlocs"
+  - username: "chasingcarpediem"
     fullname: >-
-      FASHION | INSPO | TRAVEL
+      jocelyn | lifestyle blogger
     location: "United States"
-    followers: 90856
-    engagement: 174
-    commentsToLikes: 0.084127
-    id: ck0tu7xi45zkt0i19qcl5v02i
+    followers: 16915
+    engagement: 291
+    commentsToLikes: 0.087889
+    id: ck5q3i5s5kuxx0i11hcdn8p7e
     verified: false
-    hashtags: "#follow, #revolveambassador, #sports, #stayhome"
-  - username: "fashionablehostess"
+    hashtags: "#ad, #alamarmami, #josstakesnewyork, #officedecor"
+  - username: "prestigetree"
     fullname: >-
-      Fashionable Hostess
+      Ty
     location: "United States"
-    followers: 135514
-    engagement: 84
-    commentsToLikes: 0.042709
-    id: ck5hmtqhwmlwr0i11ix9esfd8
+    followers: 194726
+    engagement: 68
+    commentsToLikes: 0.001803
+    id: ck14j2dqfia8c0i19i6xf8k6v
     verified: false
-    hashtags: "#eastertable, #stayhomewithltk, #behrpaint, #seder"
-  - username: "daniella_queirolo_art"
+    hashtags: "#hilo, #artphotography, #flowershop, #explorer"
+  - username: "tarametblog"
     fullname: >-
-      Daniella Queirolo Art
+      Tara Settembre | BLOGGER 👩🏼‍💻
     location: "United States"
-    followers: 6263
-    engagement: 834
-    commentsToLikes: 0.052921
-    id: ck5pv3trafzv00i11arzcdue4
+    followers: 34247
+    engagement: 226
+    commentsToLikes: 0.081080
+    id: ck6u3jyu4y87a0j712pl1zimc
     verified: false
-    hashtags: "#artlover, #agoragallerynyc, #artworkinstudio, #feet"
-  - username: "itsmemariasee"
-    fullname: >-
-      MARIA CLAUDIA
-    location: "United States"
-    followers: 51480
-    engagement: 219
-    commentsToLikes: 0.066168
-    id: ck0tx494bhudt0i19msykrfka
-    verified: false
-    hashtags: "#stayhome, #gozamosbarato, #fridakahlo, #ootd"
+    hashtags: "#huffposttaste, #abmstyle, #suckit, #booklover"
 ---

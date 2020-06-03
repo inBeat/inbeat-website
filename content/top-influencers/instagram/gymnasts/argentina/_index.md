@@ -1,87 +1,107 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In Argentina In 2020
 description: >-
-  Find top gymnasts Instagram influencers in Argentina in 2020. Most popular hashtags: #gymnastics #training #cuarentena #argentina.
+  Find top gymnasts Instagram influencers in Argentina in 2020. Most popular hashtags: #gymnastics #fitness #cuarentena #home.
 platform: Instagram
 profiles:
   - username: "anahisosa1"
     fullname: >-
       Anahi Sosa - Анаи Соса
     location: "Argentina"
-    followers: 8748
-    engagement: 464
-    commentsToLikes: 0.018909
+    followers: 9147
+    engagement: 622
+    commentsToLikes: 0.021347
     id: ck0twbengeqwe0i19hlnofbgl
     verified: false
-    hashtags: "#compromiso, #flexible, #youtholimpicgames, #equipoarg"
-  - username: "martu_dominici"
-    fullname: >-
-      Martu Dominici
-    location: "Argentina"
-    followers: 28220
-    engagement: 1372
-    commentsToLikes: 0.011649
-    id: ck5c98apjaynt0i11r0syo8bu
-    verified: false
-    hashtags: "#tokio2021, #stayhome, #premiosjorgenewbery, #worldchampionships"
-  - username: "julianjato"
-    fullname: >-
-      Julian Jato
-    location: "Argentina"
-    followers: 22998
-    engagement: 1090
-    commentsToLikes: 0.009621
-    id: ck15u1s14l03r0i197yeu7kao
-    verified: false
-    hashtags: "#summer, #theonlywayisthrough, #summervibes, #worldcup"
+    hashtags: "#rumboadakar2022, #anahisosa, #shooting, #traininghome"
   - username: "negro.arigossi"
     fullname: >-
       Maximiliano
     location: "Argentina"
-    followers: 36541
-    engagement: 514
-    commentsToLikes: 0.015461
+    followers: 36914
+    engagement: 456
+    commentsToLikes: 0.017256
     id: ck5zyjjxga0960i140m5e8xt8
     verified: false
-    hashtags: "#crossfit, #crossfitlife, #nikon750, #atpa"
+    hashtags: "#quarantinechallenge, #fail, #halterofilia, #roadtomadison"
+  - username: "alexcastro_melgoza"
+    fullname: >-
+      𝐀𝐥𝐞𝐱 𝐂𝐚𝐬𝐭𝐫𝐨 𝐌𝐞𝐥𝐠𝐨𝐳𝐚
+    location: "Argentina"
+    followers: 142883
+    engagement: 783
+    commentsToLikes: 0.007906
+    id: ck5c5rr3c416a0i11kh4cme6p
+    verified: false
+    hashtags: "#couples, #strong, #diadelatierra, #birthday"
+  - username: "juan_huidobro"
+    fullname: >-
+      Huidobro Meritello
+    location: "Argentina"
+    followers: 5344
+    engagement: 764
+    commentsToLikes: 0.023503
+    id: ck0w5o1664lhq0i198hpq3gws
+    verified: false
+    hashtags: "#strongwomen, #crossfittraining, #hotelworkout, #hometraining"
   - username: "alex_destreza"
     fullname: >-
-      Alejandro M Baigorri
+      Alex Destreza
     location: "Argentina"
-    followers: 34957
-    engagement: 979
-    commentsToLikes: 0.008245
+    followers: 36090
+    engagement: 949
+    commentsToLikes: 0.010093
     id: ck8wf3qd0f2tr0j78ka9v653t
     verified: false
-    hashtags: "#handstand, #sigobuscandote, #coronavirus, #flikflak"
+    hashtags: "#birdsofprey, #comiccon2019, #strangerthings, #handstand"
   - username: "agus.iribas"
     fullname: >-
       agus 🔥
     location: "Argentina"
-    followers: 6630
-    engagement: 897
-    commentsToLikes: 0.028720
+    followers: 6437
+    engagement: 928
+    commentsToLikes: 0.028782
     id: ck6udipf2lc3w0j71e838mstj
     verified: false
-    hashtags: "#asado, #portraitphotography, #dubfull, #flexy"
-  - username: "fdmolinari"
+    hashtags: "#espontanea, #coordinacion, #acrobat, #fitness"
+  - username: "pitysko"
     fullname: >-
-      Fede Molinari
+      Pity Landeira
     location: "Argentina"
-    followers: 288668
-    engagement: 112
-    commentsToLikes: 0.023979
-    id: ck0txh8raj4hu0i19vmlnayqg
-    verified: true
-    hashtags: "#melbourne, #fittness, #fuerza, #vamos"
+    followers: 300890
+    engagement: 77
+    commentsToLikes: 0.022361
+    id: ck5bw19w1kswy0i11oo7su50q
+    verified: false
+    hashtags: "#cuarentenamood, #accionsolidaria, #fitnessmotivation, #musicwithglasses"
   - username: "mignoneagustina"
     fullname: >-
       Agustina Mignone
     location: "Argentina"
-    followers: 43958
-    engagement: 274
-    commentsToLikes: 0.008398
+    followers: 43625
+    engagement: 272
+    commentsToLikes: 0.009111
     id: ck5hhc9ou7hqq0i11japp87f7
     verified: false
-    hashtags: "#ginastica, #entrenadores, #bettertogether, #amoverse"
+    hashtags: "#staysafe, #mobilitytraining, #secretariadedeportes, #academy"
+  - username: "sergiovisor_ph"
+    fullname: >-
+      Sergio Carabajal 📸
+    location: "Argentina"
+    followers: 5410
+    engagement: 292
+    commentsToLikes: 0.042835
+    id: ck602xbd8jtu70i14qz3bcmjp
+    verified: false
+    hashtags: "#beatmakers, #cruise, #todorojo, #bocajuniorsbrasil"
+  - username: "delfiortuno"
+    fullname: >-
+      Delfi Ortuño
+    location: "Argentina"
+    followers: 22209
+    engagement: 825
+    commentsToLikes: 0.036017
+    id: ck0w5o10j4ldf0i19todat4e4
+    verified: false
+    hashtags: "#ad, #yomequedoencasa"
 ---

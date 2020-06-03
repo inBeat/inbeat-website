@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Chile In 2020
 description: >-
-  Find top travel Instagram influencers in Chile in 2020. Most popular hashtags: #yomequedoencasa #summer #travelgram #travel.
+  Find top travel Instagram influencers in Chile in 2020. Most popular hashtags: #stayhome #quedateencasa #cosplaygirl #staysafe.
 platform: Instagram
 profiles:
   - username: "fabrizio_con_z"
     fullname: >-
       Fabrizio Con Z
     location: "Chile"
-    followers: 18711
-    engagement: 721
-    commentsToLikes: 0.130884
+    followers: 18680
+    engagement: 708
+    commentsToLikes: 0.133875
     id: ck5pv27aofr970i11nwmgi4aq
     verified: false
-    hashtags: "#madrenaturaleza, #chile, #cityphotography, #goctawaterfall"
+    hashtags: "#unnoboxers, #coronavirus2020, #coronavirusperu, #perritos"
   - username: "ignaciauribe"
     fullname: >-
       Ignacia Uribe R.
     location: "Chile"
-    followers: 17350
-    engagement: 631
-    commentsToLikes: 0.073088
+    followers: 17227
+    engagement: 616
+    commentsToLikes: 0.074494
     id: ck5q5jnedt7570i11ttmun56a
     verified: false
-    hashtags: "#summerinitaly, #matrimoneando, #chile, #pregnant"
+    hashtags: "#embarazovegano, #agosto, #sanfrancisco, #pucon"
+  - username: "frangibar"
+    fullname: >-
+      Ultra Trail Runner 🇨🇱
+    location: "Chile"
+    followers: 41662
+    engagement: 358
+    commentsToLikes: 0.064639
+    id: ck0vxa36mxwuk0i19humtavmp
+    verified: false
+    hashtags: "#lagunapiuquenes, #pandemia, #keepdreaming, #budapest"
   - username: "fabiaroundtheworld"
     fullname: >-
       Fabi la chilena Atipica
     location: "Chile"
-    followers: 111971
-    engagement: 1283
-    commentsToLikes: 0.020951
+    followers: 114934
+    engagement: 1108
+    commentsToLikes: 0.018940
     id: ck5q2oyfvh3870i11keag8yvw
     verified: false
-    hashtags: "#bloggergirl, #latinmodel, #cosplaymodel, #bloggerstyle"
+    hashtags: "#yomequedoencasa, #fitnessblogger, #modelpose, #twitchstreamer"
+  - username: "camisanmj"
+    fullname: >-
+      Camila San Martín
+    location: "Chile"
+    followers: 75908
+    engagement: 629
+    commentsToLikes: 0.037802
+    id: ckaovu57s66gx0i786wsfe1dv
+    verified: false
+    hashtags: "#mujeresgamer, #girls, #nature, #lagocaburgua"
   - username: "cami4senjo"
     fullname: >-
       Camila Asenjo
     location: "Chile"
-    followers: 54084
-    engagement: 735
-    commentsToLikes: 0.019658
+    followers: 53585
+    engagement: 733
+    commentsToLikes: 0.020769
     id: ck0ua4pslbb8k0i19ejwq0gqz
     verified: false
     hashtags: ""
-  - username: "titahuman"
+  - username: "mgsubercaseaux"
     fullname: >-
-      Natalia
+      Maria Gracia Subercaseaux
     location: "Chile"
-    followers: 36501
-    engagement: 768
-    commentsToLikes: 0.042236
-    id: ck5qbggpili0p0i11z5mikzv8
-    verified: false
-    hashtags: "#titahumanoutfit, #airmax1animalpack, #sneakersdehoy, #animalprint"
+    followers: 139960
+    engagement: 272
+    commentsToLikes: 0.109789
+    id: ck0w08ypyczi80i19v27k7ll3
+    verified: true
+    hashtags: "#sonyalphachile, #robertoedwards, #miradasdeafrica, #lavarseparacuidarse"
   - username: "titiroodriguez"
     fullname: >-
       TITI
     location: "Chile"
-    followers: 12561
-    engagement: 578
-    commentsToLikes: 0.070534
+    followers: 14109
+    engagement: 580
+    commentsToLikes: 0.117650
     id: ck6tuuog7iixy0j71vg8ugpzy
     verified: false
-    hashtags: "#pasaeldato, #header, #aguadecocotravelers, #bodyshopcl"
-  - username: "veronicacalderon__"
-    fullname: >-
-      Verónica Calderón
-    location: "Chile"
-    followers: 9488
-    engagement: 794
-    commentsToLikes: 0.049303
-    id: ck14hmklob2sm0i19xgmr4gk7
-    verified: false
-    hashtags: "#emprender, #emprenderonline, #negociosonline, #bussines"
-  - username: "ruedanomada"
-    fullname: >-
-      Jose & Javier
-    location: "Chile"
-    followers: 20802
-    engagement: 527
-    commentsToLikes: 0.037755
-    id: ck13d6oxs3y380i19w0ovuzi0
-    verified: false
-    hashtags: "#visitchile, #patagonia, #nuevarutabogota, #vi"
-  - username: "vale_caballero"
-    fullname: >-
-      Vale Caballero
-    location: "Chile"
-    followers: 339071
-    engagement: 749
-    commentsToLikes: 0.006275
-    id: ck5zyp425a9n80i14yja6llaq
-    verified: true
-    hashtags: "#monster, #zapatillasparatodxs, #niveamousselover, #eldiainternacionaldelamujer"
+    hashtags: "#pasaeldato, #bodyshopcl, #yomequedoencasa, #mequedoencasa"
   - username: "tcommentz"
     fullname: >-
       Teresita Commentz
     location: "Chile"
-    followers: 563380
-    engagement: 788
-    commentsToLikes: 0.005574
+    followers: 566300
+    engagement: 858
+    commentsToLikes: 0.007732
     id: ck15rdtkh7fpx0i19bog01vgl
     verified: true
-    hashtags: "#ad, #niveamousselover, #quedateencasa, #homexcreator"
+    hashtags: "#niveamousselover, #quedateencasa, #homexcreator"
+  - username: "vale_caballero"
+    fullname: >-
+      Vale Caballero
+    location: "Chile"
+    followers: 350531
+    engagement: 660
+    commentsToLikes: 0.007801
+    id: ck5zyp425a9n80i14yja6llaq
+    verified: true
+    hashtags: "#tiktok, #fotograf, #contigotodoslosd, #delineadorplumonstudiolook"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Greece In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Greece in 2020. Most popular hashtags: #stayhome #greece #travel #igers.
+  Find top lifestyle Instagram influencers in Greece in 2020. Most popular hashtags: #greece #instagram #wonderful #summeringreece.
 platform: Instagram
 profiles:
-  - username: "ster_eleni"
+  - username: "nana_petraki"
     fullname: >-
-      🎀Eleni Ster🎀
+      Nana Petraki
     location: "Greece"
-    followers: 67463
-    engagement: 2249
-    commentsToLikes: 0.068940
-    id: ck6tspc4s628n0j71mqeapn3a
+    followers: 24942
+    engagement: 976
+    commentsToLikes: 0.596754
+    id: ck6tsp8vw61pj0j717llaw30g
     verified: false
-    hashtags: "#beatbox, #womanhood, #blessed, #valentines"
-  - username: "alexandra__panagiotarou"
+    hashtags: "#giveawaysgreece, #giveaway, #pinterestphoto, #fashion"
+  - username: "alexiamantzari"
     fullname: >-
-      Αλεξάνδρα Παναγιώταρου
+      A L È X I A 🧿 M À N T Z A R I
     location: "Greece"
-    followers: 245734
-    engagement: 704
-    commentsToLikes: 0.429105
-    id: ck5zl0awnkhuw0i14oikiiafk
+    followers: 11623
+    engagement: 993
+    commentsToLikes: 0.115421
+    id: ckap7zx6dm8l40i785nlosvyu
     verified: false
-    hashtags: "#betterdaysarecoming, #denimlook, #pianochallenge, #loveyourself"
-  - username: "marasamartzi"
-    fullname: >-
-      MARA SAMARTZI
-    location: "Greece"
-    followers: 135069
-    engagement: 981
-    commentsToLikes: 0.006757
-    id: ck8t0am4iretb0j78jlgv0qub
-    verified: false
-    hashtags: "#iamawolter, #motivation, #veganbeauty, #byredo"
-  - username: "giopat"
-    fullname: >-
-      • Gεorgε Pαtmιos •
-    location: "Greece"
-    followers: 12055
-    engagement: 1421
-    commentsToLikes: 0.142434
-    id: ck0tztuburm590i19r2jt2f3o
-    verified: false
-    hashtags: "#snfcc, #greatphotosgreece, #staysafe, #total"
-  - username: "anthivoulgari"
-    fullname: >-
-      Anthi Voulgari
-    location: "Greece"
-    followers: 24089
-    engagement: 496
-    commentsToLikes: 0.018531
-    id: ck5zkeso4jcmz0i14u294cwhq
-    verified: false
-    hashtags: "#infinitespark, #sparkdelight, #tvopen, #openbeyondtv"
-  - username: "arnu_de_villiers"
-    fullname: >-
-      ARNU DE VILLIERS
-    location: "Greece"
-    followers: 18861
-    engagement: 663
-    commentsToLikes: 0.012824
-    id: ck6u4cxwq30r30j71rgcumjyd
-    verified: false
-    hashtags: "#sneakers, #smile, #fit, #photooftheday"
+    hashtags: "#alexiamantzari, #firstmay, #flowers, #jewelry"
   - username: "vv_liza_vv"
     fullname: >-
       𝐄𝐋𝐈𝐙𝐀𝐁𝐄𝐓𝐇 𝐘𝐕𝐇
     location: "Greece"
-    followers: 9082
-    engagement: 974
-    commentsToLikes: 0.097770
+    followers: 9725
+    engagement: 965
+    commentsToLikes: 0.103539
     id: ck8syf4osknky0j78lz94s346
+    verified: false
+    hashtags: ""
+  - username: "marius.ad.libitum"
+    fullname: >-
+      mαrios · athens
+    location: "Greece"
+    followers: 16466
+    engagement: 970
+    commentsToLikes: 0.036376
+    id: ck6u8k7vss2kn0j71olij1n19
+    verified: false
+    hashtags: "#instagram, #chest, #vscofilters, #thebeardedway"
+  - username: "146bpm"
+    fullname: >-
+      KONSTANTINOS ✈ 🇬🇷
+    location: "Greece"
+    followers: 69118
+    engagement: 538
+    commentsToLikes: 0.029708
+    id: ck5hodtsspe000i11drvxlbgg
+    verified: false
+    hashtags: "#uniforms, #airlines, #igaviation, #aviationphotography"
+  - username: "marasamartzi"
+    fullname: >-
+      MARA SAMARTZI
+    location: "Greece"
+    followers: 128688
+    engagement: 902
+    commentsToLikes: 0.006295
+    id: ck8t0am4iretb0j78jlgv0qub
+    verified: false
+    hashtags: "#iamawolter, #woltnorth, #byredo, #ringlight"
+  - username: "monetasss"
+    fullname: >-
+      moneta zumba
+    location: "Greece"
+    followers: 3350
+    engagement: 1485
+    commentsToLikes: 0.158522
+    id: ckap25faqxg9t0i78vz6cndj5
+    verified: false
+    hashtags: "#mykonos, #izmir, #body, #colorful"
+  - username: "giopat"
+    fullname: >-
+      • Gεorgε Pαtmιos •
+    location: "Greece"
+    followers: 12205
+    engagement: 1455
+    commentsToLikes: 0.143545
+    id: ck0tztuburm590i19r2jt2f3o
+    verified: false
+    hashtags: "#greeceunlimited, #world, #manitraveler, #airbnb"
+  - username: "nutristars.gr"
+    fullname: >-
+      Manolis & Petroula
+    location: "Greece"
+    followers: 8894
+    engagement: 828
+    commentsToLikes: 0.013518
+    id: ck9wp5xq47y9r0j78a7khdsw6
     verified: false
     hashtags: ""
   - username: "t.nakis"
     fullname: >-
       TRIFONAS NAKIS
     location: "Greece"
-    followers: 10417
-    engagement: 1824
-    commentsToLikes: 0.013819
+    followers: 10476
+    engagement: 1989
+    commentsToLikes: 0.022020
     id: ck0w60pp76css0i196spzp05h
     verified: false
-    hashtags: "#allstreetwear, #mensfashion, #picoftheday, #fashionblog"
-  - username: "nadiaboule"
-    fullname: >-
-      Nadia Boule
-    location: "Greece"
-    followers: 106272
-    engagement: 292
-    commentsToLikes: 0.011254
-    id: ck0vzvoqfb4gu0i19yceak34d
-    verified: false
-    hashtags: "#mylove, #chicago, #quarantine, #homesweethome"
-  - username: "batzoulinos"
-    fullname: >-
-      Spyros Batzios
-    location: "Greece"
-    followers: 5166
-    engagement: 1686
-    commentsToLikes: 0.071006
-    id: ck0tzdd6xpwsa0i19rjrxq26j
-    verified: false
-    hashtags: "#kings, #igworldglobal, #greecepix, #exquisite"
+    hashtags: "#greece, #vogue, #staypositive, #cov"
 ---

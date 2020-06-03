@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top nutrition Instagram influencers in United Kingdom in 2020. Most popular hashtags: #training #fitness #motivation #inspiration.
+  Find top nutrition Instagram influencers in United Kingdom in 2020. Most popular hashtags: #homeworkout #weightloss #fitlife #goals.
 platform: Instagram
 profiles:
-  - username: "tabslifts"
+  - username: "lucynukesfit"
     fullname: >-
-      🌻TABS LOFTS🌻
+      Lucy Newcombe😈
     location: "United Kingdom"
-    followers: 10751
-    engagement: 1333
-    commentsToLikes: 0.090203
-    id: ck8takzw3s7990j78ziiid6f7
+    followers: 13088
+    engagement: 1550
+    commentsToLikes: 0.106753
+    id: ck8tdf6a734ey0j781wbv2fqi
     verified: false
-    hashtags: "#isolationadvice, #motivation, #fitnessmotivation, #crossfit"
-  - username: "kieliszkowskimateusz"
+    hashtags: "#homeworkout, #fitfam, #ohpolly, #gifted"
+  - username: "ornella.obrie"
     fullname: >-
-      Mateusz Kieliszkowski
+      Ornella 💜
     location: "United Kingdom"
-    followers: 133183
-    engagement: 680
-    commentsToLikes: 0.019620
-    id: ck0w0glhoe39c0i199f2yofj1
+    followers: 9936
+    engagement: 1130
+    commentsToLikes: 0.210772
+    id: ck9hbouupht440j78sd9k1ys4
     verified: false
-    hashtags: "#dubai, #wus, #arnoldclassic, #muscle"
-  - username: "miki_ferris"
-    fullname: >-
-      C O A C H    M  I  K  I
-    location: "United Kingdom"
-    followers: 18348
-    engagement: 393
-    commentsToLikes: 0.287593
-    id: ck8t9mbx1olw90j78o48p0dq4
-    verified: false
-    hashtags: "#connected, #positivevibes, #theonlywayisthrough, #underarmour"
+    hashtags: "#sub4subyoutube, #gymstagram, #instalifestyle, #trainathome"
   - username: "ciarafits"
     fullname: >-
       ciara
     location: "United Kingdom"
-    followers: 34406
-    engagement: 251
-    commentsToLikes: 0.102355
+    followers: 41105
+    engagement: 532
+    commentsToLikes: 0.105140
     id: ck6tvawgal6a50j7140s0ccpu
     verified: false
-    hashtags: "#strongwomen, #getstrong, #workoutroutine, #glutemotivation"
-  - username: "sheagillpatrick"
+    hashtags: "#pump, #instadaily, #train, #hiitworkout"
+  - username: "viennemarly"
     fullname: >-
-      Shea Gillpatrick
+      VIENNE MARLY
     location: "United Kingdom"
-    followers: 4434
-    engagement: 2207
-    commentsToLikes: 0.070342
-    id: ck6001kfbcskm0i14808znwke
+    followers: 20699
+    engagement: 1002
+    commentsToLikes: 0.030602
+    id: ck55lo2ft21410i11azonggdo
     verified: false
-    hashtags: "#michaeljordan, #inspiration, #internationalwomensday"
-  - username: "timabenbrahim_"
+    hashtags: "#lazywintersunday, #justcravingsummer, #fluffyhairdontcare, #bonditanday"
+  - username: "k.a.z.a.k.o.v.a"
     fullname: >-
-      Tima Ben Brahim, BSc MSc
+      ANASTASIYA KAZAKOVA
     location: "United Kingdom"
-    followers: 41088
-    engagement: 316
-    commentsToLikes: 0.038694
-    id: ck5hcvmpak76o0i112rece9lc
+    followers: 15653
+    engagement: 466
+    commentsToLikes: 0.104760
+    id: ckaot985cuvbn0i785b566wl2
     verified: false
-    hashtags: "#qatarinfluencers, #winter, #sorrynotsorry, #santa"
-  - username: "nutritionalnatasa"
+    hashtags: "#vigornutritions, #fitnessaddict, #gymflow, #siksilk"
+  - username: "laurabellx_"
     fullname: >-
-      Natasa | Vegan Food & Fitness
+      Laura
     location: "United Kingdom"
-    followers: 7117
-    engagement: 537
-    commentsToLikes: 0.208652
-    id: ck6ub8u7t85tu0j713t2jydz1
+    followers: 4226
+    engagement: 1342
+    commentsToLikes: 0.302680
+    id: ck9wfba5mo2wv0j78lsemp7cr
     verified: false
-    hashtags: "#stayathome, #staysafe, #stayfed, #fableticseu"
-  - username: "winged__girl"
+    hashtags: "#healthylifestyle, #healthyfood, #foodie, #fitness"
+  - username: "tabslifts"
     fullname: >-
-      Mrittika |Kolkata Blogger|
+      🌻TABS LOFTS🌻
     location: "United Kingdom"
-    followers: 67158
-    engagement: 125
-    commentsToLikes: 0.072449
-    id: ck15uywsrp56x0i19wve2f57h
+    followers: 25816
+    engagement: 688
+    commentsToLikes: 0.153497
+    id: ck8takzw3s7990j78ziiid6f7
     verified: false
-    hashtags: "#vibetueexz, #fabbag, #bloggerstyle, #throwback"
-  - username: "kristinwinnergard"
+    hashtags: "#abcircuit, #instagram, #quotes, #shreddy"
+  - username: "david.birtwistle"
     fullname: >-
-      Winnergard.com
+      Too Hot To Handle - David
     location: "United Kingdom"
-    followers: 135765
-    engagement: 210
-    commentsToLikes: 0.025303
-    id: ck5cide1dsgat0i11nrw134kx
+    followers: 1195161
+    engagement: 973
+    commentsToLikes: 0.009110
+    id: ck8wcxe1cd4ib0j784eexqd8d
     verified: false
-    hashtags: "#healthymindset, #positivity, #selflove, #champion"
-  - username: "coachlaville"
+    hashtags: "#mobility, #mindset, #tiktok, #legday"
+  - username: "meganfit_x"
     fullname: >-
-      Ｊａｙ  ＬａVｉｌｌｅ
+      Megan - Fitness Model
     location: "United Kingdom"
-    followers: 8924
-    engagement: 1208
-    commentsToLikes: 0.008434
-    id: ck8t7g4vtgo7o0j78ifd7e0gb
+    followers: 7241
+    engagement: 630
+    commentsToLikes: 0.196647
+    id: ckapblsri0dci0i78kmeguiq4
     verified: false
-    hashtags: "#goaldriven, #livelifebetter, #adapt, #evolvetogether"
+    hashtags: ""
+  - username: "gothardisabel"
+    fullname: >-
+      ISABEL GOTHARD|  FITNESS
+    location: "United Kingdom"
+    followers: 8936
+    engagement: 569
+    commentsToLikes: 0.142982
+    id: ck8t7zjt0ijrw0j78q2sp5ehu
+    verified: false
+    hashtags: "#toneandsculptapp, #mondaymood, #quotes, #thoughts"
 ---

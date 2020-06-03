@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Belgium In 2020
 description: >-
-  Find top beauty Instagram influencers in Belgium in 2020. Most popular hashtags: #antwerp #ootd #belgianblogger #outfit.
+  Find top beauty Instagram influencers in Belgium in 2020. Most popular hashtags: #idealofsweden #sunnydays #stayhome #goldenhour.
 platform: Instagram
 profiles:
-  - username: "tatiana.sassoye"
+  - username: "statiana.model"
     fullname: >-
       Tatiana🎀
     location: "Belgium"
-    followers: 32851
-    engagement: 747
-    commentsToLikes: 0.063547
+    followers: 44202
+    engagement: 764
+    commentsToLikes: 0.060273
     id: ck8sxaggdgot90j78p5x5ww8u
     verified: false
-    hashtags: "#glamour, #luxury, #modelagency, #morning"
-  - username: "thisischaris"
-    fullname: >-
-      CHARIS
-    location: "Belgium"
-    followers: 2608
-    engagement: 2362
-    commentsToLikes: 0.205722
-    id: ck8tagk70rnuf0j780zj4pscq
-    verified: false
-    hashtags: "#abeautifulmess, #ethicalinfluencers, #quarantinelife, #lockdown"
+    hashtags: "#mondayvibes, #undizfamily, #sunday, #fridaymood"
   - username: "hi.itsjolienn"
     fullname: >-
       JOLIEN
     location: "Belgium"
-    followers: 7666
-    engagement: 1079
-    commentsToLikes: 0.100878
+    followers: 8396
+    engagement: 1189
+    commentsToLikes: 0.110340
     id: ck5hhlx278wrn0i11oms8mi5w
     verified: false
-    hashtags: "#fashionbloggerstyle, #skincareproducts, #skincaretips, #bbloggers"
+    hashtags: "#thebodyshop, #sunnydays, #marble, #shoeoftheday"
+  - username: "kim.dejonghe"
+    fullname: >-
+      K I M
+    location: "Belgium"
+    followers: 7543
+    engagement: 953
+    commentsToLikes: 0.096014
+    id: ck8t3xnjg4v5q0j781imadgqg
+    verified: false
+    hashtags: "#bjewels, #mothersday, #newhome, #movedin"
+  - username: "eliengrosemans"
+    fullname: >-
+      ⋆ ELIEN GROSEMANS ⋆
+    location: "Belgium"
+    followers: 20179
+    engagement: 448
+    commentsToLikes: 0.200674
+    id: ck136f5l466vt0i19gu5wjctb
+    verified: false
+    hashtags: "#stayhome, #quartierbleu, #hasseltbruist, #beejuugirl"
+  - username: "thisischaris"
+    fullname: >-
+      CHARIS
+    location: "Belgium"
+    followers: 2775
+    engagement: 2180
+    commentsToLikes: 0.239135
+    id: ck8tagk70rnuf0j780zj4pscq
+    verified: false
+    hashtags: "#happyeaster, #giftidea, #veganlife, #pinkhouse"
   - username: "silkeblogs"
     fullname: >-
       Silke
     location: "Belgium"
-    followers: 71042
-    engagement: 190
-    commentsToLikes: 0.066908
+    followers: 76792
+    engagement: 200
+    commentsToLikes: 0.115030
     id: ck0vzme0w9tdk0i19flfy2ds9
     verified: false
-    hashtags: "#outfitinspo, #styleinspo, #offwhite, #heels"
-  - username: "mathildehaenen"
+    hashtags: "#crimesolving, #workfromhome, #chair, #cuddle"
+  - username: "marieinspire"
     fullname: >-
-      Mathilde Haenen
+      MARIE ♌︎ INSPIRE
     location: "Belgium"
-    followers: 15889
-    engagement: 229
-    commentsToLikes: 0.078880
-    id: ck6ub49097ddx0j71vgfxhrby
+    followers: 35844
+    engagement: 192
+    commentsToLikes: 0.096939
+    id: ck0u1zhkzybsz0i19p5zg6yfc
     verified: false
-    hashtags: "#outfitoftheday, #fashion, #atthemoxy, #styleinspo"
-  - username: "margaux.marissen"
+    hashtags: "#love, #lipgloss, #skincare, #sweaterweather"
+  - username: "just.ngocb"
     fullname: >-
-      𝐌𝐚𝐫𝐠𝐚𝐮𝐱🥀𝐌𝐚𝐫𝐢𝐬𝐬𝐞𝐧
+      NGOC | FASHION & LIFESTYLE
     location: "Belgium"
-    followers: 7840
-    engagement: 696
-    commentsToLikes: 0.127218
-    id: ck135h1qv1do20i192pqimwg5
+    followers: 5623
+    engagement: 1062
+    commentsToLikes: 0.053090
+    id: ckaot3vkgu9qj0i78tf52vn6j
     verified: false
-    hashtags: "#parisfrance, #parisphoto, #photographer, #birds"
-  - username: "tinepriem"
+    hashtags: "#happiness, #loveisblind, #instadaily, #freshlook"
+  - username: "annesomay"
     fullname: >-
-      Tine Priem
+      ANNE-SOPHIE MAYOL
     location: "Belgium"
-    followers: 42095
-    engagement: 429
-    commentsToLikes: 0.015603
-    id: ck15r39qz5xbr0i19n3jmhjsc
+    followers: 4174
+    engagement: 2551
+    commentsToLikes: 0.330114
+    id: ck9wesvz7lo7u0j78gii1xyyy
     verified: false
-    hashtags: "#fitness, #extensions, #newprojectcomingup, #lovemyjob"
-  - username: "lisawyllinck"
-    fullname: >-
-      Lisa Wyllinck
-    location: "Belgium"
-    followers: 21210
-    engagement: 588
-    commentsToLikes: 0.165910
-    id: ck15qmdyd3jtx0i1937zg6bpo
-    verified: false
-    hashtags: "#ootdfashion, #blondegirls, #peachysavage, #antwerpen"
+    hashtags: "#brunch, #interiordesign, #ootd, #pinterest"
   - username: "kevin_teerlynck"
     fullname: >-
       Kevin Teerlynck
     location: "Belgium"
-    followers: 6313
-    engagement: 1883
-    commentsToLikes: 0.094853
+    followers: 6936
+    engagement: 1684
+    commentsToLikes: 0.097273
     id: ck0tv6tmra6t50i19xro4spes
     verified: false
-    hashtags: "#exquisiteearth, #seascapephotography, #ognectar, #bealpha"
-  - username: "lagrangemarc"
-    fullname: >-
-      Atelier Marc lagrange
-    location: "Belgium"
-    followers: 37857
-    engagement: 489
-    commentsToLikes: 0.007167
-    id: ck5bxkwwvnxcb0i116u8jm5yf
-    verified: false
-    hashtags: "#polaroid, #silvergelatine, #609, #censored"
+    hashtags: "#flandersfields, #creativeoptics, #saveournightsky, #rural"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Medellín In 2020
 description: >-
-  Find top bloggers Instagram influencers in Medellín in 2020. Most popular hashtags: #colombia #medellin #quedateencasa #travel.
+  Find top bloggers Instagram influencers in Medellín in 2020. Most popular hashtags: #love #quedateencasa #blogger #fashion.
 platform: Instagram
 profiles:
-  - username: "marianelamodel"
-    fullname: >-
-      Marianela💋Ramos
-    location: "Colombia"
-    followers: 44684
-    engagement: 657
-    commentsToLikes: 0.021936
-    id: ck5q3ihpokw7e0i11gl42nznm
-    verified: false
-    hashtags: "#argentina, #tendencia, #miss, #blondehair"
-  - username: "colombiajero"
-    fullname: >-
-      🇨🇴 Colombiajero 🇨🇴
-    location: "Colombia"
-    followers: 15074
-    engagement: 371
-    commentsToLikes: 0.173728
-    id: ck14gpq666fh90i192n9xwbd1
-    verified: false
-    hashtags: "#colombiatravel, #ipiales, #jueves, #colombianos"
   - username: "carogallegoca"
     fullname: >-
-      Carolina Gallego C.
+      Caro Gallego Ca.
     location: "Colombia"
-    followers: 30636
-    engagement: 217
-    commentsToLikes: 0.027800
+    followers: 31702
+    engagement: 263
+    commentsToLikes: 0.021529
     id: ck5qaczd5fr190i11fj3cjksh
     verified: false
-    hashtags: "#majestic, #teamatenea, #colores"
+    hashtags: ""
   - username: "senor.viajero"
     fullname: >-
       Señor Viajero
     location: "Colombia"
-    followers: 15441
-    engagement: 1060
-    commentsToLikes: 0.080437
+    followers: 16342
+    engagement: 956
+    commentsToLikes: 0.117252
     id: ck5hrs6icvdyt0i1172mzn954
     verified: false
-    hashtags: "#lagoon, #waterfall, #naturaleza, #barichara"
+    hashtags: "#charala, #jurassicpark, #lagoon, #neon"
   - username: "chdermatologia"
     fullname: >-
       CLAUDIA HERNÁNDEZ
     location: "Colombia"
-    followers: 71707
-    engagement: 163
-    commentsToLikes: 0.023860
+    followers: 74191
+    engagement: 223
+    commentsToLikes: 0.017538
     id: ck0w71ryubc2d0i19xvjyd5io
     verified: false
-    hashtags: "#makeup, #retinoids, #coronavirus, #coronavirusalert"
-  - username: "danielaporelmundo"
+    hashtags: "#acnetreatment, #usesunscreen, #pesas, #liderazgo"
+  - username: "dd.rm"
     fullname: >-
-      Daniela Montoya / Por El Mundo
+      𝑫𝒊𝒅𝒊  𝑹𝒐𝒅𝒓𝒊́𝒈𝒖𝒆𝒛
     location: "Colombia"
-    followers: 61054
-    engagement: 343
-    commentsToLikes: 0.146236
-    id: ck0vx2hruwtf50i198gopaqly
+    followers: 18642
+    engagement: 622
+    commentsToLikes: 0.048382
+    id: ck9has8yzdw4r0j78jiu8f2rf
     verified: false
-    hashtags: "#mejoresamigas, #nationalpark, #turkey, #jungle"
-  - username: "unarolaviajera"
+    hashtags: "#diadelatierra, #gratitud, #bonatarda, #blackandwhite"
+  - username: "thebigbrowneyes"
     fullname: >-
-      Leidy 🏃‍♀️Una Rola Viajera🌏
+      Ana Lucia Gutierrez
     location: "Colombia"
-    followers: 6597
-    engagement: 812
-    commentsToLikes: 0.197423
-    id: ck14gpr4t6fl00i199vowlfur
+    followers: 46604
+    engagement: 381
+    commentsToLikes: 0.055322
+    id: ck0uaqsdncyac0i19ic7mpq4m
     verified: false
-    hashtags: "#puebloscolombianos, #colombiaentusojos, #elparosigue, #aguinaldos"
-  - username: "thomycast"
+    hashtags: "#madeinbolivia, #thebigbrowneyes, #pink, #nycstrong"
+  - username: "maclablog"
     fullname: >-
-      T  H O M Y   C A S T A Ñ O
+      Macla 💖 Marcela McCausland
     location: "Colombia"
-    followers: 16102
-    engagement: 255
-    commentsToLikes: 0.105315
-    id: ck6txc6k7x0910j71y4itmjut
-    verified: false
-    hashtags: "#outfit, #aesthetics, #moda, #denim"
-  - username: "felipesancheztv"
+    followers: 75880
+    engagement: 303
+    commentsToLikes: 0.217005
+    id: ck0uabmgibsav0i19yykzcuum
+    verified: true
+    hashtags: "#outfitinspiration, #cat, #dolcegustopatrocinado, #tendenciadelasema"
+  - username: "paokatan"
     fullname: >-
-      Felipe Sanchez
+      Paola Katan
     location: "Colombia"
-    followers: 60006
-    engagement: 219
-    commentsToLikes: 0.007471
-    id: ck13asjw0ryuk0i19edofmgu3
+    followers: 14657
+    engagement: 347
+    commentsToLikes: 0.064605
+    id: ck15u84ublvw30i19laidux05
     verified: false
-    hashtags: "#latino, #reportero, #musica, #periodico"
-  - username: "helenicaofficial"
+    hashtags: "#elegant, #tranquilidad, #coronavirus, #usocorrectores"
+  - username: "carogallegoca"
     fullname: >-
-      HELENICA
+      Caro Gallego Ca.
     location: "Colombia"
-    followers: 44594
-    engagement: 171
-    commentsToLikes: 0.042471
-    id: ck6u0sleahin10j71093dbiji
+    followers: 31702
+    engagement: 263
+    commentsToLikes: 0.021529
+    id: ck5qaczd5fr190i11fj3cjksh
     verified: false
-    hashtags: "#accessories, #internationalwomensday, #helenica, #quedateencasa"
+    hashtags: ""
+  - username: "leplumeti"
+    fullname: >-
+      L e   P l u m e t i  💗💗
+    location: "Colombia"
+    followers: 37990
+    engagement: 152
+    commentsToLikes: 0.028712
+    id: ck6tiufdl1g8x0j71i98wnrb9
+    verified: false
+    hashtags: "#muerodeamor, #bodasconencanto, #comunion, #fashionkids"
+  - username: "giannimichielin"
+    fullname: >-
+      Giannina Michielin Roa
+    location: "Colombia"
+    followers: 39018
+    engagement: 133
+    commentsToLikes: 0.115684
+    id: ck0w3n7rnu9n80i19d99jvcmt
+    verified: false
+    hashtags: "#endlesslove, #cocacolalover, #yocreoencali, #amor"
 ---

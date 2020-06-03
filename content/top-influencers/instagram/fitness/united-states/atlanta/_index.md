@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Atlanta In 2020
 description: >-
-  Find top fitness Instagram influencers in Atlanta in 2020. Most popular hashtags: #atlanta #fitness #fashion #motivation.
+  Find top fitness Instagram influencers in Atlanta in 2020. Most popular hashtags: #fitness #summer #happymonday #pink.
 platform: Instagram
 profiles:
-  - username: "damapurr"
+  - username: "damian__powers"
     fullname: >-
-      🌙Danielle Maura Purcell
+      Damian Powers
     location: "United States"
-    followers: 2054
-    engagement: 1699
-    commentsToLikes: 0.082515
-    id: ck6uhzed7c5bb0j71jb7yzk26
-    verified: false
-    hashtags: "#girls, #flowerhair, #energy, #fraternaltwins"
-  - username: "traineverhard2.0"
+    followers: 822959
+    engagement: 437
+    commentsToLikes: 0.005485
+    id: ckapc46wz2ec80i78f3hneg2q
+    verified: true
+    hashtags: "#couple, #malemodels, #memorialday, #oceanview"
+  - username: "laurenjlord"
     fullname: >-
-      IFBB Pro Lorenzo Everhard
+      Lauren “Lo” Lord| LoLo_Galore
     location: "United States"
-    followers: 23418
-    engagement: 300
-    commentsToLikes: 0.049030
-    id: ck55l7gu20x9q0i114q55m9i1
+    followers: 2761
+    engagement: 1041
+    commentsToLikes: 0.076049
+    id: ckap3lfdm3hyd0i78ya3vbj8v
     verified: false
-    hashtags: "#dc, #apeshitonly, #cornavirus, #trainlikeasuperhero"
-  - username: "sterlingpics"
+    hashtags: "#rainbowshops, #curlyhair, #curlyupdo, #naturalhairstyles"
+  - username: "chris_vxa"
     fullname: >-
-      Will Sterling
+      Chris Veliz-Arias
     location: "United States"
-    followers: 67632
-    engagement: 175
-    commentsToLikes: 0.029728
-    id: ck14k39npnimv0i19bmxm8oij
+    followers: 15304
+    engagement: 303
+    commentsToLikes: 0.089776
+    id: ck6ucfswefcfz0j718pd3zioc
     verified: false
-    hashtags: "#dallasweddingphotographer, #blackhaircare, #motherhood, #destinationweddingphotographer"
+    hashtags: "#fitness, #igpowerlifting, #bench, #benchpress"
+  - username: "_erinsnow"
+    fullname: >-
+      ERIN SNOW
+    location: "United States"
+    followers: 20966
+    engagement: 769
+    commentsToLikes: 0.018375
+    id: ck6u6c3tweqfz0j71s21ic5q3
+    verified: false
+    hashtags: "#fitgirl, #ski, #happymonday, #carselfie"
+  - username: "irynamiami"
+    fullname: >-
+      Iryna  🇺🇦🇷🇺🇺🇸
+    location: "United States"
+    followers: 118985
+    engagement: 94
+    commentsToLikes: 0.033686
+    id: ck6tjewte2kz80j711o15tlum
+    verified: false
+    hashtags: "#pink, #mood, #peach, #artisticnude"
+  - username: "santananicoled"
+    fullname: >-
+      SANTANA| MOTHERHOOD| LIFESTYLE
+    location: "United States"
+    followers: 12912
+    engagement: 637
+    commentsToLikes: 0.127881
+    id: ck5hkpl87iu7i0i11nrfdwpdc
+    verified: false
+    hashtags: "#happymonday, #linkinthebio, #atlantablogger, #churchclothes"
+  - username: "fwayproductions"
+    fullname: >-
+      FWAYPRODUCTIONS.COM
+    location: "United States"
+    followers: 20137
+    engagement: 423
+    commentsToLikes: 0.054173
+    id: ck5zolaeaqsxh0i14r2kafbu8
+    verified: false
+    hashtags: "#birthdayboy, #basketball, #texasphotographer, #atlantaphotographer"
   - username: "atlaisha"
     fullname: >-
       Aisha
     location: "United States"
-    followers: 6914
-    engagement: 1237
-    commentsToLikes: 0.039772
+    followers: 6964
+    engagement: 856
+    commentsToLikes: 0.045065
     id: ck15phhdqxwiu0i19xw1pif9p
     verified: false
-    hashtags: "#motivationalquotes, #indiangirls, #quarantinelife, #ootn"
+    hashtags: "#happyvday, #quarantinelife, #punjabiwedding, #aghanoor"
   - username: "dasiafitadventures"
     fullname: >-
       Dasia Baker
     location: "United States"
-    followers: 17359
-    engagement: 339
-    commentsToLikes: 0.082913
+    followers: 17464
+    engagement: 318
+    commentsToLikes: 0.096629
     id: ck8t7u3h8hziv0j784o4555rz
     verified: false
     hashtags: ""
-  - username: "arielleantoinette_makeup"
+  - username: "ga_peach713"
     fullname: >-
-      Pro Makeup Artist | 30 Mins
+      Abby and Sammi 🐾
     location: "United States"
-    followers: 27437
-    engagement: 69
-    commentsToLikes: 0.121875
-    id: ck14gscd96s510i19l9ox8e58
+    followers: 7067
+    engagement: 884
+    commentsToLikes: 0.027878
+    id: ck9hcudzcn0ni0j78km1vyq4i
     verified: false
-    hashtags: "#hecomesfirst, #selflove, #besmart, #makeup"
-  - username: "yassahlake14"
-    fullname: >-
-      Yassah Lake
-    location: "United States"
-    followers: 16240
-    engagement: 866
-    commentsToLikes: 0.065503
-    id: ck6u32vmfvdu90j71ixp591ck
-    verified: false
-    hashtags: "#flowers, #shreddingforthewedding, #gym, #confidence"
-  - username: "andzelika_bobrova"
-    fullname: >-
-      Andzelika Bobrova
-    location: "United States"
-    followers: 33607
-    engagement: 294
-    commentsToLikes: 0.031614
-    id: ck8sxf0emh5s40j78hce8tuqa
-    verified: false
-    hashtags: "#redlips, #poolshoot, #bestnightclub, #glam"
-  - username: "mrmichaelbrown"
-    fullname: >-
-      Michael Brown
-    location: "United States"
-    followers: 5130
-    engagement: 1215
-    commentsToLikes: 0.004307
-    id: ck6toqiqwfj880j719sz8trv6
-    verified: false
-    hashtags: "#workout, #menwithstreetstyle, #menmodel, #menwithclass"
-  - username: "iamprettyinnocent"
-    fullname: >-
-      Pretty Innocent
-    location: "United States"
-    followers: 9130
-    engagement: 396
-    commentsToLikes: 0.033612
-    id: ck8t3lnnj3o1t0j786dqq2asd
-    verified: false
-    hashtags: "#dancer, #booknerdsunite, #videogirl, #workofart"
+    hashtags: "#dogaholic, #stayhappy, #stayweird, #mychampagnenight"
 ---

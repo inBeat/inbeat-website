@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top travel Instagram influencers in Malaysia in 2020. Most popular hashtags: #stayhome #dudukrumah #fitness #malaysia.
+  Find top travel Instagram influencers in Malaysia in 2020. Most popular hashtags: #covid #photography #sudiosweden #dudukrumah.
 platform: Instagram
 profiles:
-  - username: "duduannann"
+  - username: "a.helmiy"
     fullname: >-
-      Dudu Ann 📍🇲🇾
+      
     location: "Malaysia"
-    followers: 100647
-    engagement: 136
-    commentsToLikes: 0.041118
-    id: ck8sy0ugzjcb70j78ufpgpj4t
+    followers: 15467
+    engagement: 829
+    commentsToLikes: 0.036267
+    id: ck0w5h7td3muv0i19xmzsjf0d
     verified: false
-    hashtags: "#bhbhealth, #balance, #moisturizing, #jb"
+    hashtags: "#dashu, #japan, #coffee, #2020yummysalad"
   - username: "rdnwan_"
     fullname: >-
       
     location: "Malaysia"
-    followers: 17013
-    engagement: 836
-    commentsToLikes: 0.021715
+    followers: 17130
+    engagement: 650
+    commentsToLikes: 0.033747
     id: ck0w5h7yk3mw40i1936y3we96
     verified: false
-    hashtags: "#travel, #menhairstyle, #stayrealathome, #myrealmebudsair"
-  - username: "ohfishiee"
+    hashtags: "#dashu, #hairstyling, #pandemic, #foodporn"
+  - username: "ohmykaylagirl_k"
     fullname: >-
-      °· F I S H ·°
+      K A Y L A💋
     location: "Malaysia"
-    followers: 19658
-    engagement: 515
-    commentsToLikes: 0.023609
-    id: ck0w5haxf3n6e0i19rr26hnc7
+    followers: 36235
+    engagement: 398
+    commentsToLikes: 0.033379
+    id: ck9ha754wbfqe0j781ij27o2e
     verified: false
-    hashtags: "#dwinmy, #ohfishieequotes, #ohfishieeinhongkong, #ohfishieequotes"
-  - username: "khalishan.alias"
+    hashtags: "#inthistogether, #airbus, #stillfly, #style"
+  - username: "amey.bakri"
     fullname: >-
-      T A R Z A N
+      Amey Bakri
     location: "Malaysia"
-    followers: 21603
-    engagement: 716
-    commentsToLikes: 0.034730
-    id: ck8t8fdtok96j0j78skxz4v9y
+    followers: 17668
+    engagement: 471
+    commentsToLikes: 0.036669
+    id: ck136lv6h74no0i191n3svyq4
     verified: false
-    hashtags: "#istayathome, #trasformationtuesday, #cooking, #staystrong"
+    hashtags: "#bali, #clubmedbali, #masjidsrisendayan, #sonya7iii"
+  - username: "isabelleman2"
+    fullname: >-
+      Isabelle Man
+    location: "Malaysia"
+    followers: 9704
+    engagement: 421
+    commentsToLikes: 0.092717
+    id: ck0tyggo2mpog0i191owr96k3
+    verified: false
+    hashtags: "#video, #morning, #luck, #sweating"
+  - username: "hernandotaniko"
+    fullname: >-
+      
+    location: "Malaysia"
+    followers: 61522
+    engagement: 387
+    commentsToLikes: 0.019691
+    id: ck5hk18ckhlzy0i11en2q478l
+    verified: false
+    hashtags: "#stepup2, #hotguys, #videoediting, #chestday"
+  - username: "kayeepo"
+    fullname: >-
+      譚嘉儀 𝒦𝒶𝓎𝑒𝑒 𝒯𝒶𝓂
+    location: "Malaysia"
+    followers: 127950
+    engagement: 323
+    commentsToLikes: 0.018581
+    id: ck5c5ipe33jpk0i1117y74mln
+    verified: true
+    hashtags: "#loving, #selflove, #rememberwhoyouare, #13"
   - username: "mingliang96"
     fullname: >-
       mingliang96
     location: "Malaysia"
-    followers: 11815
+    followers: 11726
     engagement: 876
-    commentsToLikes: 0.019332
+    commentsToLikes: 0.024851
     id: ck6uc33s7d7xi0j713epovty6
     verified: false
-    hashtags: "#watsonsmalaysia, #leviseyewear, #safilomy, #instaxminiliplay"
+    hashtags: "#instaxminiliplay, #stayhome, #juststayhome, #myharuharu"
+  - username: "zoe_aw"
+    fullname: >-
+      Zoe Aw淑怡
+    location: "Malaysia"
+    followers: 22624
+    engagement: 539
+    commentsToLikes: 0.022703
+    id: ckap50a5z9lz60i78pcgymlkj
+    verified: false
+    hashtags: "#skincaretips, #asianbeauty, #pillowchallenge, #corona"
   - username: "dianaohy"
     fullname: >-
       𝔻𝕀𝔸ℕ𝔸 | 𝐭𝐫𝐚𝐯𝐞𝐥 & 𝐟𝐚𝐬𝐡𝐢𝐨𝐧 🌼
     location: "Malaysia"
-    followers: 39753
-    engagement: 200
-    commentsToLikes: 0.025605
+    followers: 39639
+    engagement: 230
+    commentsToLikes: 0.028566
     id: ck5q811fq3zbd0i11p1y7ld5k
     verified: false
-    hashtags: "#airspacemalaysia, #as, #doublewootootd, #prettyfitshoes"
-  - username: "sohitkathuria"
-    fullname: >-
-      Sohit Kathuria
-    location: "Malaysia"
-    followers: 167415
-    engagement: 306
-    commentsToLikes: 0.008741
-    id: ck5zuhkg62de70i1474beqki6
-    verified: false
-    hashtags: "#thankgod, #black, #loveyourself, #beautiful"
-  - username: "radenzaharatul"
-    fullname: >-
-      Princess 👸
-    location: "Malaysia"
-    followers: 8887
-    engagement: 675
-    commentsToLikes: 0.022890
-    id: ck5zox84arjf50i14kywifwj6
-    verified: false
-    hashtags: "#dramaadaptasinovel, #nsstarstudio, #tvokey, #rtm"
-  - username: "misschailing"
-    fullname: >-
-      Stellies NiinG 彩菱
-    location: "Malaysia"
-    followers: 267881
-    engagement: 239
-    commentsToLikes: 0.010168
-    id: ck5q815jt3zu70i11azh6v6f2
-    verified: false
-    hashtags: "#sushi, #zhangyaodong, #eyeslandlens, #sushiplus"
-  - username: "shinilola"
-    fullname: >-
-      SHINI LOLA
-    location: "Malaysia"
-    followers: 51607
-    engagement: 216
-    commentsToLikes: 0.015520
-    id: ck0w2k7ikos880i19ectv4aem
-    verified: false
-    hashtags: "#mydalkomm, #hiruzenkogenjoyfullpark, #kenshiprewedding, #eatwithshini"
+    hashtags: "#youthbeautyhealth, #dohyinfayth, #ntuc, #quarantine"
 ---

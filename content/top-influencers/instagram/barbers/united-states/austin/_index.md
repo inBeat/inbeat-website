@@ -1,107 +1,107 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Austin In 2020
 description: >-
-  Find top barbers Instagram influencers in Austin in 2020. Most popular hashtags: #barber #barbershopconnect #fade #babyliss.
+  Find top barbers Instagram influencers in Austin in 2020. Most popular hashtags: #mensfashion #quarantine #brazil #dallas.
 platform: Instagram
 profiles:
-  - username: "queenofthesouth512"
-    fullname: >-
-      Patricia Plymire
-    location: "United States"
-    followers: 36637
-    engagement: 237
-    commentsToLikes: 0.036346
-    id: ck5chuczerhae0i11obepzebi
-    verified: false
-    hashtags: "#normal, #frequency, #barberevo, #conciousness"
   - username: "b_ruiz.la"
     fullname: >-
       Byron Ruiz ✪
     location: "United States"
-    followers: 2285
-    engagement: 1025
-    commentsToLikes: 0.119360
+    followers: 2336
+    engagement: 1020
+    commentsToLikes: 0.117955
     id: ck5zp47q1ryhk0i140sfxre08
     verified: false
     hashtags: "#hithimup, #apellido"
-  - username: "gelobarber"
+  - username: "modelmalay"
     fullname: >-
-      GELŌ 🐺
+      Model Malay
     location: "United States"
-    followers: 39496
-    engagement: 237
-    commentsToLikes: 0.019300
-    id: ck5zp48qlryk30i14227ifvio
+    followers: 402984
+    engagement: 1289
+    commentsToLikes: 0.009362
+    id: ck0w77vwwc7av0i19x96e6gko
     verified: false
-    hashtags: "#fade, #video, #haircutvideos, #nastybarbers"
+    hashtags: "#doublecutcrease, #glassnails, #barbershop, #gelart"
+  - username: "queenofthesouth512"
+    fullname: >-
+      Patricia Plymire
+    location: "United States"
+    followers: 38170
+    engagement: 245
+    commentsToLikes: 0.030514
+    id: ck5chuczerhae0i11obepzebi
+    verified: false
+    hashtags: "#grateful, #peace, #matrix, #takenotes"
   - username: "detroitbarberco"
     fullname: >-
       Detroit Barbers 💈
     location: "United States"
-    followers: 42943
-    engagement: 208
-    commentsToLikes: 0.017734
+    followers: 45752
+    engagement: 151
+    commentsToLikes: 0.031299
     id: ck6tiy70l1no80j71ke57w10m
     verified: false
-    hashtags: "#peepthehat, #lovethehustle, #tipmybarber, #coronavirushaircuts"
-  - username: "worldclassbarbering"
+    hashtags: "#seeyousoon, #tiptopomade, #puremichigan, #barbershops"
+  - username: "elitebarberslounge"
     fullname: >-
-      ♛WorldClassBarbering♛FL Barber
+      Joliet, Chicago
     location: "United States"
-    followers: 38562
-    engagement: 385
-    commentsToLikes: 0.038364
-    id: ck5c6es9e5afb0i117ca8hb6w
+    followers: 243396
+    engagement: 48
+    commentsToLikes: 0.008074
+    id: ck5bw39qgkwxy0i119oy52wni
     verified: false
-    hashtags: "#braids, #phillybarber, #tomb45, #hairtransformation"
+    hashtags: "#parkridge, #degrademasculino, #barbeiromoderno, #repostacorte"
+  - username: "bearded_selfie"
+    fullname: >-
+      Bearded Selfie
+    location: "United States"
+    followers: 241928
+    engagement: 319
+    commentsToLikes: 0.013199
+    id: ck6u5i6k69rzb0j71mqi9qun3
+    verified: false
+    hashtags: "#madrid, #tampa, #teeth, #naturelover"
   - username: "scootersbehavingbadly"
     fullname: >-
       Scooters Behaving Badly
     location: "United States"
-    followers: 32088
-    engagement: 475
-    commentsToLikes: 0.030252
+    followers: 31764
+    engagement: 485
+    commentsToLikes: 0.030591
     id: ck5c008m0s6sl0i11mi7gvxzm
     verified: false
-    hashtags: "#colombia, #birdscooters, #orangecounty, #norman"
-  - username: "diego_djdgaf"
-    fullname: >-
-      Diego Elizarraras ✪
-    location: "United States"
-    followers: 148055
-    engagement: 121
-    commentsToLikes: 0.056632
-    id: ck6tp1jkyhbfg0j71af8ewr3i
-    verified: false
-    hashtags: "#sandiego, #kobebryant, #gucci, #portland"
+    hashtags: "#scooters, #jedi, #orangecounty, #indiana"
   - username: "shotsbystoney"
     fullname: >-
       Shots by Stoney
     location: "United States"
-    followers: 2503
-    engagement: 1239
-    commentsToLikes: 0.094406
+    followers: 2459
+    engagement: 1177
+    commentsToLikes: 0.094256
     id: ck14j9ipfj8il0i192q4opkfr
     verified: false
-    hashtags: "#austinmua, #blackandwhite, #mensskincare, #houstonphotographer"
-  - username: "maury_bruce"
-    fullname: >-
-      Maury B.
-    location: "United States"
-    followers: 3163
-    engagement: 1061
-    commentsToLikes: 0.086913
-    id: ck0u2n96g0gbt0i19tbtyo94j
-    verified: false
-    hashtags: "#photoshoot, #birthday, #fitnessmotivation, #hypebeaststyle"
+    hashtags: "#pinkphoto, #makeupideas, #freshlook, #naturalhair"
   - username: "austincarlile"
     fullname: >-
       Austin Carlile
     location: "United States"
-    followers: 884688
-    engagement: 375
-    commentsToLikes: 0.011950
+    followers: 881272
+    engagement: 344
+    commentsToLikes: 0.011055
     id: ck6uck63zg2s90j7169guqwh8
     verified: true
     hashtags: "#marfansyndrome"
+  - username: "samuelgrubbs"
+    fullname: >-
+      Samuel Grubbs
+    location: "United States"
+    followers: 211321
+    engagement: 1059
+    commentsToLikes: 0.010085
+    id: ck15po06nytdv0i19ngl4rkzy
+    verified: true
+    hashtags: "#vira, #datenight, #joke, #highschool"
 ---

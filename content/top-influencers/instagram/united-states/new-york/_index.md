@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In New York In 2020
 description: >-
-  Find top Instagram influencers in New York in 2020. Most popular hashtags: #hmxme #fyp #hm #foryoupage.
+  Find top Instagram influencers in New York in 2020. Most popular hashtags: # #ootdinspiration #newyork #kemisinalovestory.
 platform: Instagram
 profiles:
-  - username: "yasirmungani"
+  - username: "youreastcoastgirl"
     fullname: >-
-      Yasir Mungani
+      Sarah Krous
     location: "United States"
-    followers: 7895
-    engagement: 2964
-    commentsToLikes: 0.067008
-    id: ck8wfyzuvghbm0j78fmqfse1f
+    followers: 7380
+    engagement: 1916
+    commentsToLikes: 0.336776
+    id: ck137gzccbhoo0i19wjbyudx2
     verified: false
-    hashtags: "#duet, #react, #british, #curlyhair"
-  - username: "shlyakisroman"
-    fullname: >-
-      Roman 🌪
-    location: "United States"
-    followers: 313521
-    engagement: 1272
-    commentsToLikes: 0.034595
-    id: ck8t7sqowhvcs0j78v4neb4oo
-    verified: false
-    hashtags: "#stayhome, #besafe, #home"
+    hashtags: "#beachlife, #otkboots, #shopthemint, #outfitoftheday"
   - username: "shee.dat"
     fullname: >-
       Rasheedat Afolabi
     location: "United States"
-    followers: 16569
-    engagement: 1462
-    commentsToLikes: 0.089176
+    followers: 16590
+    engagement: 1441
+    commentsToLikes: 0.086982
     id: ck8sx0rz8ftyx0j7830sozaa1
     verified: false
     hashtags: ""
-  - username: "oh_laa"
+  - username: "xena.raw"
     fullname: >-
-      Teju💋
+      Travel + Style
     location: "United States"
-    followers: 2464
-    engagement: 2623
-    commentsToLikes: 0.111723
-    id: ck0vzygnubhwx0i19c6hgcbwv
+    followers: 18798
+    engagement: 1195
+    commentsToLikes: 0.107126
+    id: ck14hsb23bvod0i19ub2tmp7i
     verified: false
-    hashtags: "#themajekwedding, #taliatrilogythirteaparty, #twentyfine, #virgoseason"
-  - username: "lifeasapa_s"
+    hashtags: "#travelblogger, #beautifulnyc, #ootdinspiration, #postcardplaces"
+  - username: "jonahmiller22"
     fullname: >-
-      Kelsey, PA-S2 ☤
+      Jonah Miller
     location: "United States"
-    followers: 8913
-    engagement: 1300
-    commentsToLikes: 0.615100
-    id: ck8sxqbyri9m20j78drhtpyzd
+    followers: 2493
+    engagement: 2471
+    commentsToLikes: 0.137408
+    id: ck5c2vc21y2a80i11eiv78z8z
     verified: false
-    hashtags: "#familyouting, #corona, #hackthesystem, #fiance"
+    hashtags: "#streetviewnews, #sonyt, #nyc, #thesequel"
   - username: "zaymaverick"
     fullname: >-
       zay maverick
     location: "United States"
-    followers: 18840
-    engagement: 1078
-    commentsToLikes: 0.081495
+    followers: 19716
+    engagement: 1102
+    commentsToLikes: 0.084737
     id: ck55lptus24n20i11fbbylx4p
     verified: false
     hashtags: ""
-  - username: "paigegary_"
+  - username: "oh_laa"
     fullname: >-
-      
+      T E J U 💋
     location: "United States"
-    followers: 2223
-    engagement: 2398
-    commentsToLikes: 0.162391
-    id: ck13acy3nprqe0i19gmxeffj6
+    followers: 2439
+    engagement: 2568
+    commentsToLikes: 0.110066
+    id: ck0vzygnubhwx0i19c6hgcbwv
     verified: false
-    hashtags: "#nyc, #model, #passion, #filaheritage"
-  - username: "joelle_regh"
+    hashtags: "#kemisinalovestory, #taliatrilogythirteaparty, #virgoszn, #twentyfine"
+  - username: "maddiecostfitlife"
     fullname: >-
-      JOELLE REGH
+      Maddie Costantino
     location: "United States"
-    followers: 6212
-    engagement: 1293
-    commentsToLikes: 0.596450
-    id: ck134abd2vgt10i19c2zj1ovs
+    followers: 7007
+    engagement: 1455
+    commentsToLikes: 0.099178
+    id: ckap2ev8lyj5z0i78bon90q0g
     verified: false
-    hashtags: "#mydsw, #hairgoals, #idealofsweden, #hmxme"
-  - username: "gaaviig"
+    hashtags: "#sponsored, #workingwithyasso, #collaboration, #maxoutwithmaddie"
+  - username: "mollyrrusso"
     fullname: >-
-      G ＡＶＩ👑
+      molly russo 🦋🖤
     location: "United States"
-    followers: 2617
-    engagement: 2088
-    commentsToLikes: 0.121518
-    id: ck8wgamd4h0i70j78bbfsdyzk
+    followers: 7272
+    engagement: 1805
+    commentsToLikes: 0.069787
+    id: ck8wfyq9aggwt0j7812rmk0fk
     verified: false
-    hashtags: "#ifyouknowyouknow, #sodachallenge, #tattoo, #vegan"
-  - username: "lirijemustafaj"
+    hashtags: "#socialdistancing, #thankscovid19, #womenempowerment, #internationalwomensday"
+  - username: "catherine_bukowski"
     fullname: >-
-      Lirije Mustafaj
+      Catherine Bukowski
     location: "United States"
-    followers: 7398
-    engagement: 1980
-    commentsToLikes: 0.059134
-    id: ck8tdb1iw2mon0j78s9tleuoq
+    followers: 19952
+    engagement: 823
+    commentsToLikes: 0.275619
+    id: ck6tqut4luino0j71o7xk4u0f
     verified: false
-    hashtags: ""
+    hashtags: "#tops, #ootd, #katchme, #motelrocks"
+  - username: "johnny2phones_"
+    fullname: >-
+      Johnny 2 Phones ☎️☎️
+    location: "United States"
+    followers: 14330
+    engagement: 1311
+    commentsToLikes: 0.052424
+    id: ck0vyh9zq3zp80i19t9hh9prs
+    verified: false
+    hashtags: "#bezerkchallenge, #quarantine, #gelatochallenge"
 ---

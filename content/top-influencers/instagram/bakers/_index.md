@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bakers Instagram Influencers In 2020
 description: >-
-  Find top bakers Instagram influencers in 2020. Most popular hashtags: #love #baking #staysafe #food52.
+  Find top bakers Instagram influencers in 2020. Most popular hashtags: #hairyman #lockdownlife #explorer #rainbow.
 platform: Instagram
 profiles:
   - username: "jonasbenyoub"
     fullname: >-
       
     location: "Norway"
-    followers: 6817
-    engagement: 1330
-    commentsToLikes: 0.042650
+    followers: 6787
+    engagement: 1245
+    commentsToLikes: 0.048765
     id: ck14j8tf5j4mx0i1999ktjrsg
     verified: false
-    hashtags: "#yallalaosshamredetnye, #karantenelufting"
+    hashtags: "#bless, #yallalaosshamredetnye, #karantenelufting"
   - username: "simons_bread"
     fullname: >-
       Simon Bowden
     location: "United States"
-    followers: 6065
-    engagement: 669
-    commentsToLikes: 0.058851
+    followers: 7602
+    engagement: 764
+    commentsToLikes: 0.072450
     id: ck6u13xirjfly0j71bzfjd23x
     verified: false
-    hashtags: "#realbread, #whitebread, #fermentation, #orangemarmalade"
+    hashtags: "#bakeathome, #wholegrainbread, #crackers, #focaccia"
+  - username: "thealexxvaldivia"
+    fullname: >-
+      alex valdivia🪐
+    location: "United States"
+    followers: 12599
+    engagement: 1578
+    commentsToLikes: 0.333588
+    id: ck14juiwem9a20i199jxh0l60
+    verified: false
+    hashtags: "#softboyaesthetic, #valentines2020, #tiktoks, #yup"
+  - username: "real_tim_othy"
+    fullname: >-
+      Tim Othy
+    location: "United States"
+    followers: 17566
+    engagement: 1527
+    commentsToLikes: 0.045313
+    id: ck9hb12frexd20j7894363rx2
+    verified: false
+    hashtags: "#winecountry, #peludo, #hotguys, #coronabop"
+  - username: "growwithteddy"
+    fullname: >-
+      E M I L Y & T E D D Y
+    location: ""
+    followers: 8739
+    engagement: 1006
+    commentsToLikes: 0.170342
+    id: ck9wgrlbcuonv0j78accif82a
+    verified: false
+    hashtags: "#tufftrayideas, #cordless, #throwback, #9k"
   - username: "gemma_stafford"
     fullname: >-
       Gemma Stafford
     location: "United States"
-    followers: 115986
-    engagement: 559
-    commentsToLikes: 0.044133
+    followers: 121567
+    engagement: 536
+    commentsToLikes: 0.036183
     id: ck0w1xhqelmhc0i19k0tesijh
     verified: true
-    hashtags: "#newmom, #ilovepie, #34weekspregnant, #keepingitreal"
+    hashtags: "#firsttimedad, #saintpatricksday, #babyshark, #newbaby"
   - username: "bestobaker"
     fullname: >-
       Giuseppe Besto Stella
     location: "Italy"
-    followers: 6764
-    engagement: 1435
-    commentsToLikes: 0.060250
+    followers: 7026
+    engagement: 1423
+    commentsToLikes: 0.064533
     id: ck6tyehy039k30j71pe2sx5np
     verified: false
-    hashtags: "#love"
+    hashtags: "#covered, #spring, #quarantine, #tattoed"
+  - username: "shines_withrp"
+    fullname: >-
+      Shaini S 💜
+    location: "Canada"
+    followers: 2706
+    engagement: 1464
+    commentsToLikes: 0.214937
+    id: ckap2v1wu0fuu0i786s5rnov1
+    verified: false
+    hashtags: "#invisibledisability, #tbt, #selflove, #cinderellacastle"
   - username: "kevjbradley"
     fullname: >-
       Kevin Bradley
     location: "Canada"
-    followers: 22162
-    engagement: 1939
-    commentsToLikes: 0.019523
+    followers: 34579
+    engagement: 1499
+    commentsToLikes: 0.017450
     id: ck8t8cgi4jx630j78qveofmgz
     verified: false
-    hashtags: "#transformationtuesday, #covidhaircut"
-  - username: "parmezana"
+    hashtags: "#transformationtuesday, #novascotiastrong"
+  - username: "dogtorizzy"
     fullname: >-
-      Natalia I
-    location: "United States"
-    followers: 10263
-    engagement: 1148
-    commentsToLikes: 0.035495
-    id: ck5zmhkcsml0y0i14ratdynvo
-    verified: false
-    hashtags: "#honeycake, #homemade"
-  - username: "stephiblackwell"
-    fullname: >-
-      Steph Blackwell 🦋
+      Izzy :) 🐾
     location: "United Kingdom"
-    followers: 111491
-    engagement: 800
-    commentsToLikes: 0.025028
-    id: ck5py94z9uwd60i11ssf2ppxj
-    verified: true
-    hashtags: "#happynewyear, #christmas, #christmasevebakes, #cakesofinstagram"
-  - username: "yayisvc"
-    fullname: >-
-      Yayis A. Villarreal Cantú
-    location: "United States"
-    followers: 33476
-    engagement: 433
-    commentsToLikes: 0.196719
-    id: ck0vvzh2trg7t0i19p3crdvi1
+    followers: 5934
+    engagement: 1624
+    commentsToLikes: 0.023904
+    id: ck8wfhe9lfpnm0j7897eo8nud
     verified: false
-    hashtags: "#nyfwtheshows, #anxietyrelief, #stayhome, #jlotiktokchallenge"
-  - username: "graciethecosplaylass"
-    fullname: >-
-      GracieTheCosplayLass
-    location: ""
-    followers: 31696
-    engagement: 478
-    commentsToLikes: 0.028228
-    id: ck8szdfpfnzom0j78a2pw74z7
-    verified: false
-    hashtags: "#green, #dccosplay, #happystpatricksday, #stpattysday"
-  - username: "alittlebitoflottie"
-    fullname: >-
-      LOTTIE| Lifestyle
-    location: ""
-    followers: 20305
-    engagement: 241
-    commentsToLikes: 0.347041
-    id: ck6tyyl456lt20j71ecxn71v4
-    verified: false
-    hashtags: "#nhsheros, #instafriendstogether, #telestrations, #isolationlife"
+    hashtags: "#veterinary, #youngvets, #beeframen, #friendgoals"
 ---

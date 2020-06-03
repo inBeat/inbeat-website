@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Melbourne In 2020
 description: >-
-  Find top yoga Instagram influencers in Melbourne in 2020. Most popular hashtags: #yoga #melbourne #handstand #australia.
+  Find top yoga Instagram influencers in Melbourne in 2020. Most popular hashtags: #melbourne #yoga #happy #beachlife.
 platform: Instagram
 profiles:
-  - username: "naomi.e.yoga"
+  - username: "gypsea_yogi"
     fullname: >-
-      
+      Mathilde ૐ
     location: "Australia"
-    followers: 16454
-    engagement: 508
-    commentsToLikes: 0.032257
-    id: ck6uh99qs7rw30j71gjdgfzm2
+    followers: 7432
+    engagement: 1456
+    commentsToLikes: 0.087646
+    id: ck8tb2l48u2q70j78z2282jjw
     verified: false
-    hashtags: "#female, #loveyourskin, #aerialhammock, #puppylove"
-  - username: "miguel_hand_balance"
+    hashtags: "#flexiblegirl, #kingcobra, #dailyyoga, #scorpionpose"
+  - username: "iamshimakhosravi"
     fullname: >-
-      Miguel Sant'ana
+      🧿shima khosravi 🧿
     location: "Australia"
-    followers: 102366
-    engagement: 235
-    commentsToLikes: 0.016433
-    id: ck0vxf3csyl6z0i194w0qmbij
+    followers: 15046
+    engagement: 247
+    commentsToLikes: 0.147713
+    id: ck6tq2ll0p2040j71ojmm7o19
     verified: false
-    hashtags: "#workout, #hkyoga, #armbalance, #inversions"
-  - username: "duncanyoga"
+    hashtags: "#catlovers, #life, #photo, #hairsalon"
+  - username: "scooby.and.willow"
     fullname: >-
-      Duncan Parviainen
+      💙 SCOOBY | WILLOW 💖
     location: "Australia"
-    followers: 8802
-    engagement: 413
-    commentsToLikes: 0.117640
-    id: ck5qdhsd1vnj00i11yjhfr8yf
+    followers: 11938
+    engagement: 507
+    commentsToLikes: 0.160550
+    id: ck8t9os2sosed0j78p9uf7ohr
     verified: false
-    hashtags: "#yoga, #300ytt, #handstand, #handbalance"
-  - username: "_stuart_wilson"
+    hashtags: "#wfhlyf, #debortoliwines, #action, #headtiltonpoint"
+  - username: "foodiejacie"
     fullname: >-
-      Stuart Wilson 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+      𝐉 𝐀 𝐂 | Melbourne & HK Foodie
     location: "Australia"
-    followers: 9954
-    engagement: 594
-    commentsToLikes: 0.183272
-    id: ck15u8y9um0770i19o710xq0y
+    followers: 17738
+    engagement: 285
+    commentsToLikes: 0.144421
+    id: ck0vvrv5gqhm30i19xqdo25dx
     verified: false
-    hashtags: "#classpasscrew, #meditation, #floatationtherapy, #recovery"
-  - username: "coach.ericchung"
-    fullname: >-
-      Eric Chung
-    location: "Australia"
-    followers: 7090
-    engagement: 679
-    commentsToLikes: 0.047448
-    id: ck6trxuoy1p2c0j71agdir4lc
-    verified: false
-    hashtags: "#holdandscreenshotbecauseitsfromavideo, #controlledstrengthmethod, #holdnotscreenshot, #handstandfebruary"
-  - username: "elleray_"
-    fullname: >-
-      Elle Ray 🦋💙
-    location: "Australia"
-    followers: 32663
-    engagement: 301
-    commentsToLikes: 0.167364
-    id: ck5cf2gqrm6pv0i11x6sr6nsp
-    verified: false
-    hashtags: "#beautyinfluencer, #isoinspo, #melbournestylist, #cocacola"
-  - username: "vic.emperatriz"
-    fullname: >-
-      Vic
-    location: "Australia"
-    followers: 14328
-    engagement: 789
-    commentsToLikes: 0.324300
-    id: ck6tz8hur884x0j71tgpy4adl
-    verified: false
-    hashtags: "#uniqlo, #pinkclaymask, #workouts, #yoga"
-  - username: "currentlylovingblog"
-    fullname: >-
-      Kenzie ⚡️ Digital MGMT ⚡️ PT
-    location: "Australia"
-    followers: 16186
-    engagement: 64
-    commentsToLikes: 0.329219
-    id: ck136c6uf5rll0i198j4xn8a7
-    verified: false
-    hashtags: "#therealrawexperience, #selfisolation, #classpassausnz, #marathontraining"
+    hashtags: "#staysafe, #homemade, #newshopalert, #gyu"
   - username: "eliana_jordan"
     fullname: >-
       Eliana Jordan
     location: "Australia"
-    followers: 30012
-    engagement: 217
-    commentsToLikes: 0.084383
+    followers: 29985
+    engagement: 233
+    commentsToLikes: 0.083969
     id: ck6tkws645k3a0j71v1xcg8gr
     verified: false
-    hashtags: "#byron, #pyramids, #coral, #scubagirl"
-  - username: "minhly.model"
+    hashtags: "#hoian, #redflowers, #endlesssummer, #pinkbeach"
+  - username: "naomi.e.yoga"
     fullname: >-
-      𝕄𝕚𝕟𝕙-𝕃𝕪
+      
     location: "Australia"
-    followers: 24507
-    engagement: 306
-    commentsToLikes: 0.036615
-    id: ck5py26a7tymj0i11pe2c0hh0
+    followers: 16681
+    engagement: 493
+    commentsToLikes: 0.034533
+    id: ck6uh99qs7rw30j71gjdgfzm2
     verified: false
-    hashtags: "#treeportrait, #portraitworld, #seaweedfield, #monochrome"
+    hashtags: "#coldbeachswims, #outsideyoga, #natural, #nauli"
+  - username: "michellegreene_"
+    fullname: >-
+      Michelle Greene
+    location: "Australia"
+    followers: 18267
+    engagement: 222
+    commentsToLikes: 0.052798
+    id: ck5hod9yfpd0o0i11zsc73pw2
+    verified: false
+    hashtags: "#nochella, #spicymargarita, #bumblebizz, #yoga"
+  - username: "fil.soultravel"
+    fullname: >-
+      Lina.grisales
+    location: "Australia"
+    followers: 6005
+    engagement: 474
+    commentsToLikes: 0.066316
+    id: ckap1zbl6wpiq0i78m0ytlmo2
+    verified: false
+    hashtags: "#ocean, #love, #spirituality, #melbourne"
+  - username: "shaktifresh"
+    fullname: >-
+      Aliza Strock
+    location: "Australia"
+    followers: 6381
+    engagement: 561
+    commentsToLikes: 0.190411
+    id: ck8tdurs64ugf0j78weepfqgo
+    verified: false
+    hashtags: "#earthdayphotochallenge"
+  - username: "katya_supernova"
+    fullname: >-
+      
+    location: "Australia"
+    followers: 207023
+    engagement: 266
+    commentsToLikes: 0.031849
+    id: ck13chibs0dd90i19cmt3vs2b
+    verified: false
+    hashtags: "#smile, #birds, #travelgram, #antibedhead"
 ---

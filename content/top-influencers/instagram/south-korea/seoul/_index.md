@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Seoul In 2020
 description: >-
-  Find top Instagram influencers in Seoul in 2020. Most popular hashtags: # #tb #120film #trend.
+  Find top Instagram influencers in Seoul in 2020. Most popular hashtags: # #travel #southkorea #jejuisland.
 platform: Instagram
 profiles:
-  - username: "oliversvejse"
+  - username: "seoul.back"
     fullname: >-
-      Oliver Svejstrup Brynnum 🇩🇰
+      Seoul
     location: "South Korea"
-    followers: 158859
-    engagement: 1446
-    commentsToLikes: 0.014577
-    id: ck8t3v4we4m1b0j7891o9m611
+    followers: 11987
+    engagement: 1342
+    commentsToLikes: 0.020189
+    id: ck5hj7y56g6540i11a463lnc1
     verified: false
-    hashtags: ""
-  - username: "xxmelodi"
+    hashtags: "#southkorea"
+  - username: "izziisman"
     fullname: >-
-      melodi // 별
+      Izzi Isman
     location: "South Korea"
-    followers: 70969
-    engagement: 741
-    commentsToLikes: 0.016183
-    id: ck0w3caygsog00i19pxi3i6ia
-    verified: false
-    hashtags: ""
-  - username: "galchenkov_"
-    fullname: >-
-      
-    location: "South Korea"
-    followers: 6467
-    engagement: 1275
-    commentsToLikes: 0.037806
-    id: ck5q07t5v4o1o0i112ebjp94v
-    verified: false
-    hashtags: ""
-  - username: "andreatresgallo"
-    fullname: >-
-      Andrea Tresgallo
-    location: "South Korea"
-    followers: 5695
-    engagement: 904
-    commentsToLikes: 0.060313
-    id: ck5hsjwiewps50i116g63r5wi
-    verified: false
-    hashtags: "#ootd, #fashion, #trend, #fashionphoto"
-  - username: "williamhammington"
-    fullname: >-
-      윌리엄 해밍턴 William Hammington
-    location: "South Korea"
-    followers: 1317894
-    engagement: 1102
-    commentsToLikes: 0.007813
-    id: ck15to0bxj1ei0i19efv2qcql
-    verified: false
-    hashtags: "#bibigo, #sponsored"
-  - username: "dailydana_fit"
-    fullname: >-
-      운동하는 수술실간호사 RN | 다나(Dana)
-    location: "South Korea"
-    followers: 32062
-    engagement: 482
-    commentsToLikes: 0.029423
-    id: ck6uiejgjemip0j71e2w2sfil
-    verified: false
-    hashtags: "#repost, #teamdoggodie, #gn, #mlbkorea"
-  - username: "andreidobrin"
-    fullname: >-
-      ANDREI DOBRIN✨🪐
-    location: "South Korea"
-    followers: 15132
-    engagement: 1498
-    commentsToLikes: 0.033746
-    id: ck5q9r34xcjxk0i11lu7q3nyr
-    verified: false
-    hashtags: "#dollypartonchallenge"
-  - username: "itsleonardlim"
-    fullname: >-
-      Leonard Lim 🇦🇺🇸🇬🇰🇷
-    location: "South Korea"
-    followers: 25960
-    engagement: 438
-    commentsToLikes: 0.033256
-    id: ck5chhpt4qsy50i11nz7ahmfy
-    verified: false
-    hashtags: "#tangleteezer, #dollypartonchallenge"
-  - username: "pureum_tattoo"
-    fullname: >-
-      STUDIOBYSOL_Pu-reum
-    location: "South Korea"
-    followers: 33573
-    engagement: 753
-    commentsToLikes: 0.008364
-    id: ck5c9rtzhbzva0i11v1gy4vzm
+    followers: 101328
+    engagement: 3587
+    commentsToLikes: 0.020534
+    id: ckap2yftr0uku0i782xggf8wm
     verified: false
     hashtags: ""
   - username: "j.hunsung"
     fullname: >-
       J.hunsung watercolor 정훈성
     location: "South Korea"
-    followers: 64108
-    engagement: 610
-    commentsToLikes: 0.015419
+    followers: 71415
+    engagement: 695
+    commentsToLikes: 0.016664
     id: ck0w45rh2wybx0i190qxedb7t
     verified: false
-    hashtags: "#watercolor, #art, #junghunsung, #watercolorartist"
+    hashtags: ""
+  - username: "yrisparis"
+    fullname: >-
+      yris
+    location: "South Korea"
+    followers: 19716
+    engagement: 1529
+    commentsToLikes: 0.021078
+    id: ck8ta8322qsx90j78dhi9lv8l
+    verified: false
+    hashtags: ""
+  - username: "monetbabazadeh"
+    fullname: >-
+      Monet Babazadeh
+    location: "South Korea"
+    followers: 40592
+    engagement: 414
+    commentsToLikes: 0.046673
+    id: ckap8dxbonwmx0i787fym253r
+    verified: false
+    hashtags: "#otakugirl, #springfling, #sweettoothformickey, #nofilter"
+  - username: "tyan.dae"
+    fullname: >-
+      에나💙
+    location: "South Korea"
+    followers: 9156
+    engagement: 1704
+    commentsToLikes: 0.019822
+    id: ckap4eq5j71ig0i780no18pla
+    verified: false
+    hashtags: "#travel, #redspark, #clc, #me"
+  - username: "graycodetattoo"
+    fullname: >-
+      Tattoo Artist GRAYCODE
+    location: "South Korea"
+    followers: 26528
+    engagement: 1084
+    commentsToLikes: 0.014338
+    id: ckaovj61o4s5q0i788zhkb7dt
+    verified: false
+    hashtags: "#wavetattoo, #moontattoo, #letteringtattoos, #tinytattoo"
+  - username: "mary_land__"
+    fullname: >-
+      매리🍒Mary😷
+    location: "South Korea"
+    followers: 19586
+    engagement: 857
+    commentsToLikes: 0.029280
+    id: ck8tc0gr8xu720j78hotz5s1o
+    verified: false
+    hashtags: "#drc60, #longskirt, #spring, #cosmetic"
+  - username: "_gabsmoreira99"
+    fullname: >-
+      Gabriel (가비) | 한태은
+    location: "South Korea"
+    followers: 11366
+    engagement: 1177
+    commentsToLikes: 0.032680
+    id: ck14gtk7y6ygp0i191uadi7v1
+    verified: false
+    hashtags: "#dogstagram, #history, #unesco, #straykids"
+  - username: "andreatresgallo"
+    fullname: >-
+      Andrea Tresgallo
+    location: "South Korea"
+    followers: 5839
+    engagement: 902
+    commentsToLikes: 0.064196
+    id: ck5hsjwiewps50i116g63r5wi
+    verified: false
+    hashtags: "#yieyie, #samsungcard, #nailart, #artlab"
 ---

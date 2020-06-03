@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In London In 2020
 description: >-
-  Find top fashion Instagram influencers in London in 2020. Most popular hashtags: #fashion #london #style #fashionblogger.
+  Find top fashion Instagram influencers in London in 2020. Most popular hashtags: #fashion #fashionlondon #london #love.
 platform: Instagram
 profiles:
-  - username: "bigcradds23"
+  - username: "mariegiammarino"
     fullname: >-
-      LEWIS C
+      Marie Giammarino
     location: "United Kingdom"
-    followers: 24646
-    engagement: 298
-    commentsToLikes: 0.062684
-    id: ck8td0fmv1eia0j78w2fyx43n
+    followers: 4526
+    engagement: 1243
+    commentsToLikes: 0.186653
+    id: ck9wfhz80ow980j78aoealvdx
     verified: false
-    hashtags: "#love, #physique, #pumped, #workout"
-  - username: "berladean_diana"
+    hashtags: ""
+  - username: "sharmainechloee"
     fullname: >-
-      Diana B 🍃
+      SHARMAINE CHLOÉ
     location: "United Kingdom"
-    followers: 7598
-    engagement: 596
-    commentsToLikes: 0.246618
-    id: ck1376rf2a2k30i19uzxkr8to
+    followers: 57910
+    engagement: 1498
+    commentsToLikes: 0.008100
+    id: ck9wfv7j9qmxs0j78kqyxvea1
     verified: false
-    hashtags: "#mesomaya, #bloggerlife, #peace, #gifted"
-  - username: "gillyggolf"
+    hashtags: "#biorestrip, #acnetreatment, #cloggedpores, #removeblackheads"
+  - username: "prittii"
     fullname: >-
-      Gill Griffith 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+      Priscila
     location: "United Kingdom"
-    followers: 13158
-    engagement: 563
-    commentsToLikes: 0.066288
-    id: ck5zig28aflsj0i14q15k2oti
+    followers: 26007
+    engagement: 144
+    commentsToLikes: 0.208273
+    id: ckap8bo97nou20i780m0axpvt
     verified: false
-    hashtags: "#paarl, #pearlvalley, #chinavirus, #tudors"
-  - username: "fashion_calvin"
+    hashtags: "#vintagefashion, #jimmychooshoes, #chanelpink, #boasvibra"
+  - username: "ps_mua"
     fullname: >-
-      Calvin Chinthaka
+      Piriya
     location: "United Kingdom"
-    followers: 28331
-    engagement: 30
-    commentsToLikes: 0.043719
-    id: ck0w00ochbt8a0i19iumbthx7
+    followers: 3028
+    engagement: 1264
+    commentsToLikes: 0.115485
+    id: ck9hcg2ail7v40j78dw37nylw
     verified: false
-    hashtags: "#shortfilm, #featurefilm, #cinema, #35mmfilm"
-  - username: "sam48fits"
+    hashtags: "#styleblogger, #moderntwist, #fashionblogger, #pose"
+  - username: "stylemetropolitan"
     fullname: >-
-      Ｓａｍｕｅｌ ＃４８ＦＩＴＳ💎
+      STYLE METROPOLITAN
     location: "United Kingdom"
-    followers: 19593
-    engagement: 223
-    commentsToLikes: 0.216278
-    id: ck14lblcetu4r0i19ykpnfotw
+    followers: 12261
+    engagement: 425
+    commentsToLikes: 0.031118
+    id: ck5qbxn5invoj0i11rpbih7f2
     verified: false
-    hashtags: "#dapperlife, #modele, #instagraminfluencer, #modelshoot"
-  - username: "mrdanielharley"
+    hashtags: "#gentlemanstyle, #redphonebooth, #cyclists, #band"
+  - username: "andrewgallimakeup"
     fullname: >-
-      Fashion. Lifestyle. Travel
+      Andrew Gallimore
     location: "United Kingdom"
-    followers: 40751
-    engagement: 277
-    commentsToLikes: 0.032274
-    id: ck0w3vwf6vjx40i190h2xwszi
-    verified: false
-    hashtags: "#fashionista, #travelblogger, #outfitoftheday, #tailoredsuit"
-  - username: "irenekarantoni"
+    followers: 55669
+    engagement: 67
+    commentsToLikes: 0.040557
+    id: ck5q893yd51cd0i1154n11z83
+    verified: true
+    hashtags: "#inspirational, #styling, #nhs, #creativemakeup"
+  - username: "amberandmimi"
     fullname: >-
-      ɪʀᴇɴᴇ ᴋᴀʀᴀɴᴛᴡɴɪ
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀  Amber&Misha|UK|989K
     location: "United Kingdom"
-    followers: 20930
-    engagement: 454
-    commentsToLikes: 0.015228
-    id: ck0tv2gqu9nh20i19fv9rkufn
+    followers: 26076
+    engagement: 276
+    commentsToLikes: 0.014448
+    id: ck9hd1blonqtb0j78jb5bd6lk
     verified: false
-    hashtags: "#love, #instadaily, #beaseekerofeverydaymagic, #havanabra"
-  - username: "mattkrzan"
+    hashtags: "#autumn, #fall, #england, #moving"
+  - username: "stephenwarnock3"
     fullname: >-
-      Matt
+      Stephen Warnock
     location: "United Kingdom"
-    followers: 5225
-    engagement: 491
-    commentsToLikes: 0.051325
-    id: ck55l3vv90oyf0i114e88wt7m
-    verified: false
-    hashtags: "#rudolpho, #duff, #tourist, #palmspringspride"
-  - username: "ankitachhetri25"
+    followers: 16298
+    engagement: 451
+    commentsToLikes: 0.025503
+    id: ck5zlwtg8lify0i14yo99lpzv
+    verified: true
+    hashtags: "#monterrey, #jft96, #ketofriendly, #emiratesfacup"
+  - username: "ralu_teodorescu"
     fullname: >-
-      Ankita Chhetri
+      🌸 Raluca ✨London✨Travel 🌸
     location: "United Kingdom"
-    followers: 712313
-    engagement: 1354
-    commentsToLikes: 0.011922
-    id: ck0vvpg4cq6340i19y2x2e50v
+    followers: 90035
+    engagement: 275
+    commentsToLikes: 0.185242
+    id: ck8sy2tkwjj9e0j7857e0bqp7
     verified: false
-    hashtags: "#ankitachhetri, #influencer, #jeekarrda, #longdistancerelationship"
-  - username: "james_stewart_photography"
+    hashtags: "#clusewatches, #fashionlondon, #londonsbest, #giveaway"
+  - username: "riaz.rony"
     fullname: >-
-      James Allen Stewart
+      Riaz | Portrait & Editorial
     location: "United Kingdom"
-    followers: 15114
-    engagement: 202
-    commentsToLikes: 0.014265
-    id: ck8sxzkjzj80w0j788lsxrjjl
+    followers: 2916
+    engagement: 2511
+    commentsToLikes: 0.030238
+    id: ck0w0kdmjen4f0i19qhrgygor
     verified: false
-    hashtags: "#portrait, #headstart, #london, #businessportrait"
+    hashtags: "#portraits, #photoshop, #makeportraits, #portraitamazing"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Guitar Instagram Influencers In Poland In 2020
 description: >-
-  Find top guitar Instagram influencers in Poland in 2020. Most popular hashtags: #guitar #music #singer #cover.
+  Find top guitar Instagram influencers in Poland in 2020. Most popular hashtags: #guitar #konkurs #happy #quarantine.
 platform: Instagram
 profiles:
   - username: "qeeriefire"
     fullname: >-
       Justyna 🔥
     location: "Poland"
-    followers: 20170
-    engagement: 1235
-    commentsToLikes: 0.041292
+    followers: 20964
+    engagement: 1344
+    commentsToLikes: 0.036933
     id: ck0w6ezy8892n0i19b3l6lf3r
     verified: false
-    hashtags: "#bonjovi, #throwbackpic"
+    hashtags: "#bonjovi, #ironmaiden40, #thrashmetal"
   - username: "alekbaron"
     fullname: >-
       𝕬𝖑𝖊𝖐𝖘𝖆𝖓𝖉𝖊𝖗 𝕸𝖎𝖑𝖜𝖎𝖜-𝕭𝖆𝖗𝖔𝖓
     location: "Poland"
-    followers: 284905
-    engagement: 609
-    commentsToLikes: 0.006185
+    followers: 300406
+    engagement: 647
+    commentsToLikes: 0.007694
     id: ck14jf2q2k0cz0i193t96zkjl
     verified: true
-    hashtags: "#dreads, #2020, #glitch, #neon"
+    hashtags: "#wasza, #dredy, #werock, #apexlegends"
   - username: "dawidskoczylas"
     fullname: >-
       Dawid Skoczylas
     location: "Poland"
-    followers: 7414
-    engagement: 884
-    commentsToLikes: 0.021482
+    followers: 7259
+    engagement: 907
+    commentsToLikes: 0.021581
     id: ck14guqck74i20i19e3nb26pu
     verified: false
-    hashtags: "#liveauthentic, #canonphotos, #instagood, #hallstatt"
+    hashtags: "#mallorca, #bled, #climbing, #dolomites"
+  - username: "g.force.club"
+    fullname: >-
+      G-Force Club
+    location: "Poland"
+    followers: 9334
+    engagement: 1111
+    commentsToLikes: 0.011194
+    id: ck0w4voey0mwo0i19cgwy5v4q
+    verified: false
+    hashtags: "#rudysarzo, #mesaboogie, #thinlizzy, #tremolo"
   - username: "mayonesguitars"
     fullname: >-
       Dawid Dziewulski
     location: "Poland"
-    followers: 183366
-    engagement: 211
-    commentsToLikes: 0.004655
+    followers: 188639
+    engagement: 179
+    commentsToLikes: 0.005486
     id: ck0tyhewgmu010i195b47kniu
     verified: false
-    hashtags: "#postrock, #djentguitar, #blackfeather, #aquilaseries"
-  - username: "kuberaadam"
+    hashtags: "#truetone, #marinimport, #hydraelite, #figuredredwood"
+  - username: "themimki"
     fullname: >-
-      Adam Kubera
+      M I M K I  ♡  ALICJA ╳ KONRAD
     location: "Poland"
-    followers: 60078
-    engagement: 1227
-    commentsToLikes: 0.046788
-    id: ck15sfmoqcrvt0i199br3ujmp
+    followers: 8045
+    engagement: 1667
+    commentsToLikes: 0.070817
+    id: ckap0wrt4s5ix0i78rv3csij6
     verified: false
-    hashtags: "#royalhairacademy, #bookstagram, #zigtherunaway, #sing"
+    hashtags: "#walkoffame, #purenewmexico, #utahisrad, #kaktus"
+  - username: "szmexy"
+    fullname: >-
+      Piotr Tomaszewski
+    location: "Poland"
+    followers: 79636
+    engagement: 456
+    commentsToLikes: 0.038962
+    id: ck5hk5egdhtkh0i11443dlalb
+    verified: false
+    hashtags: "#selfiaczek, #2girls1hoodie, #zdrowejedzenie, #teal"
+  - username: "adriannagrotkowska"
+    fullname: >-
+      Adrianna Grotkowska
+    location: "Poland"
+    followers: 152963
+    engagement: 1128
+    commentsToLikes: 0.011069
+    id: ck5c5oaye3umk0i11a839lxnu
+    verified: false
+    hashtags: "#herecomesthesun, #valentines, #quarantine, #darkglossylips"
   - username: "vlogcasha"
     fullname: >-
       Cash
     location: "Poland"
-    followers: 17876
-    engagement: 934
-    commentsToLikes: 0.031268
+    followers: 18177
+    engagement: 892
+    commentsToLikes: 0.029979
     id: ck5zjo204hxv10i14grbqwcoe
     verified: false
-    hashtags: "#tent, #ak47, #streetart, #streetphotography"
-  - username: "redlipsmusic"
+    hashtags: "#selfie, #travelers, #iwokeuplikethis, #strzelnica"
+  - username: "stylish_katarinka"
     fullname: >-
-      Joanna RUDA Lazer & RED LIPS
+      Katarinka
     location: "Poland"
-    followers: 108708
-    engagement: 384
-    commentsToLikes: 0.038329
-    id: ck600wn4peet10i145xajgyd2
-    verified: true
-    hashtags: "#indahouse, #wopa, #concert, #makeupartist"
-  - username: "shokufetahmasbi"
-    fullname: >-
-      شکــوفـــ🌸
-    location: "Poland"
-    followers: 17606
-    engagement: 1250
-    commentsToLikes: 0.037657
-    id: ck5px74e4qfn40i11gcm4wrlt
+    followers: 78241
+    engagement: 160
+    commentsToLikes: 0.088673
+    id: ck9wdvwj2hi4a0j78lpqxzyns
     verified: false
-    hashtags: "#femalesinger, #iraniansinger, #goodgirlgonebad, #bouyeeydi"
-  - username: "mama__leosia"
-    fullname: >-
-      Andżelika
-    location: "Poland"
-    followers: 7403
-    engagement: 846
-    commentsToLikes: 0.040571
-    id: ck8t7ksrph6j60j789rfk0hs3
-    verified: false
-    hashtags: "#czas, #damy, #chlopak, #zdrowienajwazniejsze"
-  - username: "n_piotrowskapaciorek_official"
-    fullname: >-
-      Natalia Piotrowska-Paciorek
-    location: "Poland"
-    followers: 17240
-    engagement: 1136
-    commentsToLikes: 0.004215
-    id: ck6tpigyok21q0j71cw1ctm93
-    verified: false
-    hashtags: "#actors, #happywalentinesday, #recital, #nofilter"
+    hashtags: "#happy, #selfquarantine, #strechingtime, #karllagerfeld"
 ---

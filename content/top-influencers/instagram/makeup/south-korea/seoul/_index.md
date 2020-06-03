@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Seoul In 2020
 description: >-
-  Find top makeup Instagram influencers in Seoul in 2020. Most popular hashtags: #korea #makeup #spring #seoul.
+  Find top makeup Instagram influencers in Seoul in 2020. Most popular hashtags: #makeup #repost #stayhome #quarantine.
 platform: Instagram
 profiles:
-  - username: "andreatresgallo"
+  - username: "gaeungbebe"
     fullname: >-
-      Andrea Tresgallo
+      우주안
     location: "South Korea"
-    followers: 5695
-    engagement: 904
-    commentsToLikes: 0.060313
-    id: ck5hsjwiewps50i116g63r5wi
-    verified: false
-    hashtags: "#ootd, #fashion, #trend, #fashionphoto"
-  - username: "han_ohkhui"
+    followers: 233160
+    engagement: 79
+    commentsToLikes: 0.038442
+    id: ck0w5egxl38yk0i199q3znvt6
+    verified: true
+    hashtags: "#studio, #koreamodel, #busan, #hoodie"
+  - username: "hantograph"
     fullname: >-
-      Han Ohk-Hui (한 옥희)
+      hantograph, 은서
     location: "South Korea"
-    followers: 87388
-    engagement: 269
-    commentsToLikes: 0.015916
-    id: ck5hm4m6zlcut0i11kkprw1dm
+    followers: 175149
+    engagement: 537
+    commentsToLikes: 0.005419
+    id: ck15tnzklj1a10i19672w10v1
     verified: false
-    hashtags: "#fashionnova, #naturalhairstyles, #viral, #proudlyghanaian"
-  - username: "dohyunkims"
+    hashtags: "#hanbok, #blackpink, #repost, #colors"
+  - username: "seangraphy"
     fullname: >-
-      김도현/ Dohyun Kim
+      SEANGRAPHY 션그래피
     location: "South Korea"
-    followers: 2449
-    engagement: 1232
-    commentsToLikes: 0.044684
-    id: ck5hlt85wktew0i11tqcwz4oh
+    followers: 68057
+    engagement: 347
+    commentsToLikes: 0.006418
+    id: ckap0s8slrkc60i78m6tamsy3
     verified: false
-    hashtags: "#tb, #gq, #digitals, #aimons"
-  - username: "bingleytheboston"
-    fullname: >-
-      Bingley
-    location: "South Korea"
-    followers: 8108
-    engagement: 703
-    commentsToLikes: 0.023376
-    id: ck15thj8zi3uo0i19w6m9novq
-    verified: false
-    hashtags: "#bandana, #easter, #couplegoals, #canadiangirl"
-  - username: "welcometothepanoptico"
-    fullname: >-
-      세바 ~ (SHIPPO-YO) 🍶
-    location: "South Korea"
-    followers: 58804
-    engagement: 1903
-    commentsToLikes: 0.013068
-    id: ck5pw4bzyl1bn0i11a94fpj2o
-    verified: false
-    hashtags: "#namjoon, #season, #vsco, #lifestyle"
+    hashtags: ""
   - username: "kristin_kazz"
     fullname: >-
       KRISTIN KAZZ
     location: "South Korea"
-    followers: 36313
-    engagement: 686
-    commentsToLikes: 0.012929
+    followers: 36208
+    engagement: 651
+    commentsToLikes: 0.011496
     id: ck5pwy68rp6ct0i115q9csl0c
     verified: false
-    hashtags: "#girl, #model, #hair, #haircosmetic"
-  - username: "come2david"
+    hashtags: "#newshooting, #sexy, #ccha, #spring"
+  - username: "olakursa"
     fullname: >-
-      정준구
+      Aleksandra Kursa
     location: "South Korea"
-    followers: 294117
-    engagement: 415
-    commentsToLikes: 0.007194
-    id: ck0w1k4lvjqz90i19vph5do8v
+    followers: 9568
+    engagement: 554
+    commentsToLikes: 0.016394
+    id: ck14i1nzrd80g0i19srqyvnxo
     verified: false
-    hashtags: "#ad, #colortheben, #p31, #makeup"
-  - username: "sun_j_28"
+    hashtags: "#makeup, #animal, #facetime, #quarantine"
+  - username: "dohyunkims"
     fullname: >-
-      장예진
+      김도현/ Dohyun Kim
     location: "South Korea"
-    followers: 16163
-    engagement: 671
-    commentsToLikes: 0.010116
-    id: ck5ch0ovlpvxb0i11kkxpxwte
+    followers: 3094
+    engagement: 1136
+    commentsToLikes: 0.041554
+    id: ck5hlt85wktew0i11tqcwz4oh
     verified: false
-    hashtags: "#parrisgoebel, #moana, #company, #freak"
-  - username: "m.weber.m"
+    hashtags: "#louisvuitton, #lips, #denim, #ygkplus"
+  - username: "bingleytheboston"
     fullname: >-
-      Beauty In South Korea
+      Bingley
     location: "South Korea"
-    followers: 3261
-    engagement: 1383
-    commentsToLikes: 0.106001
-    id: ck55niqnj6amr0i11qu9c656e
+    followers: 8077
+    engagement: 682
+    commentsToLikes: 0.022656
+    id: ck15thj8zi3uo0i19w6m9novq
     verified: false
-    hashtags: "#avantgardmakeup, #mothershippalette, #vrneonpalette, #pearlmood"
-  - username: "ariarisom"
+    hashtags: "#makeuplooks, #happynewyear, #dogmomlife, #picnic"
+  - username: "yujin_shoulder"
     fullname: >-
-      아리솜의 짜릿한 뷰티 / ARISOM
+      최유진 Yujin
     location: "South Korea"
-    followers: 101578
-    engagement: 95
-    commentsToLikes: 0.021660
-    id: ck15s5uglbdgt0i19cnaaef8f
+    followers: 9247
+    engagement: 589
+    commentsToLikes: 0.050266
+    id: ck6u3azw8wr350j713e7mjq06
     verified: false
-    hashtags: "#schutz, #giverny, #telse, #uv"
+    hashtags: "#heeldance, #diamondplatnumz, #sergebeynaud, #mado"
+  - username: "taeri__taeri"
+    fullname: >-
+      강태리テリテリ
+    location: "South Korea"
+    followers: 1718733
+    engagement: 416
+    commentsToLikes: 0.002329
+    id: ck5hcv07sk3x00i11snxymqf4
+    verified: true
+    hashtags: "#mybeautyid, #pr"
+  - username: "veeronica.vh"
+    fullname: >-
+      이소연 Maria Vero  Hostiadi
+    location: "South Korea"
+    followers: 53570
+    engagement: 254
+    commentsToLikes: 0.052038
+    id: ck5pz66c5zeqe0i115k9u4sdu
+    verified: false
+    hashtags: "#nongchatmakeupthailand, #bridalbali, #khurusmakeupbali, #softmakeup"
 ---

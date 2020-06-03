@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In India In 2020
 description: >-
-  Find top wellness Instagram influencers in India in 2020. Most popular hashtags: #coronavirus #yomequedoencasa #rangwithankita #yoga.
+  Find top wellness Instagram influencers in India in 2020. Most popular hashtags: #stayhome #london #throwback #happysunday.
 platform: Instagram
 profiles:
-  - username: "itsaestheticbarbie"
+  - username: "divyaa.bhatt"
     fullname: >-
-      Preyanka🦋
+      D i v y a | I n d i a🇮🇳
     location: "India"
-    followers: 232818
-    engagement: 302
-    commentsToLikes: 0.015723
-    id: ck8t77qi8fv9w0j78j6aqq0uh
+    followers: 9704
+    engagement: 2428
+    commentsToLikes: 0.086871
+    id: ck15s8j40brlw0i19pji0fvo0
     verified: false
-    hashtags: "#throwback"
+    hashtags: "#shotonredmi, #stayhome, #hellofrom"
   - username: "nicolehuber90"
     fullname: >-
       Nicole Huber
     location: "India"
-    followers: 103834
-    engagement: 188
-    commentsToLikes: 0.024327
+    followers: 106278
+    engagement: 214
+    commentsToLikes: 0.049668
     id: ck0u9t977altr0i191ky8lq95
     verified: true
-    hashtags: "#sanvalentin, #amorincondicional, #oh, #poderosamentehumana"
-  - username: "marflores_mar"
+    hashtags: "#yogaenkalma, #poderosamentehumana, #purainspiracion, #confia"
+  - username: "sarahjane_clarke"
     fullname: >-
-      CEO MFM - Personaje Público
+      Sarah-Jane Clarke
     location: "India"
-    followers: 169483
-    engagement: 146
-    commentsToLikes: 0.052199
-    id: ck139rv27mu0t0i19tzdpir1i
+    followers: 33148
+    engagement: 238
+    commentsToLikes: 0.053429
+    id: ck5hflwgsy3or0i11i1h5xmgg
     verified: true
-    hashtags: "#happybirthday, #gracias, #coronavirusoutbreak, #covid19espa"
+    hashtags: "#daybreaker, #madeinaustralia, #sjccooks, #wholefoods"
+  - username: "matyldab8"
+    fullname: >-
+      ✨MATYLDA✨
+    location: "India"
+    followers: 233014
+    engagement: 592
+    commentsToLikes: 0.024422
+    id: ck6tsfq794iev0j71jc16br62
+    verified: false
+    hashtags: "#expression, #lingerie, #hijabfashion, #fitnessgoals"
+  - username: "tahlia_coutinho"
+    fullname: >-
+      Tahlia Rowena Coutinho
+    location: "India"
+    followers: 324930
+    engagement: 395
+    commentsToLikes: 0.014236
+    id: ck6tpzshbolfb0j71o5y602yl
+    verified: false
+    hashtags: "#jack1ttribe, #mammasphotography, #curlyhairproblems, #jack1tribe"
   - username: "claudiaciesla"
     fullname: >-
       Claudia Ciesla
     location: "India"
-    followers: 447597
-    engagement: 158
-    commentsToLikes: 0.011067
+    followers: 438904
+    engagement: 123
+    commentsToLikes: 0.013945
     id: ck0vwp4equw9u0i19043e4pxs
     verified: true
-    hashtags: "#happybirthdaytome, #aquarius, #familylove, #delhi"
-  - username: "divyamisra4"
-    fullname: >-
-      Divya Misra
-    location: "India"
-    followers: 7703
-    engagement: 536
-    commentsToLikes: 0.023384
-    id: ck602ozd8idgf0i14wf823l13
-    verified: false
-    hashtags: "#colourtrend, #fashiondresses, #lavender, #lavenderfashion"
-  - username: "corallistablog"
-    fullname: >-
-      Ankita Chaturvedi | Corallista
-    location: "India"
-    followers: 255734
-    engagement: 229
-    commentsToLikes: 0.013614
-    id: ck6ugz0hb60kf0j71kxs5536p
-    verified: true
-    hashtags: "#covid19, #wellnesswednesday, #rangwithankita, #wellnesswednesday"
+    hashtags: "#stayfit, #terebina, #bethoughtful, #tiktokdrama"
   - username: "karishma_sakhrani"
     fullname: >-
       Karishma Sakhrani
     location: "India"
-    followers: 93533
-    engagement: 100
-    commentsToLikes: 0.026511
+    followers: 93699
+    engagement: 65
+    commentsToLikes: 0.043178
     id: ck5cavvh8e8ta0i11z9eqcqsa
     verified: false
-    hashtags: "#fashion, #greenstrides, #avocado, #equalpartnership"
-  - username: "shanellpetersonofficial"
+    hashtags: "#japanese, #carbfest, #vegetables, #cookies"
+  - username: "krumble"
     fullname: >-
-      Shanell "Shay" Peterson
+      Keira Rumble
     location: "India"
-    followers: 37324
-    engagement: 1536
-    commentsToLikes: 0.011311
-    id: ck8wgaqfph0pp0j78ci0hxhqr
+    followers: 412652
+    engagement: 214
+    commentsToLikes: 0.020641
+    id: ck0tyo07zngv80i19puzkc6n5
     verified: false
-    hashtags: "#traveling, #indiasong, #dhamaal, #game"
+    hashtags: "#corona, #nileriver, #pinterestgoals, #livewithkoala"
+  - username: "divyamisra4"
+    fullname: >-
+      Divya Misra
+    location: "India"
+    followers: 7680
+    engagement: 515
+    commentsToLikes: 0.026853
+    id: ck602ozd8idgf0i14wf823l13
+    verified: false
+    hashtags: "#goa, #lavenderfashion, #inthistogether, #london"
   - username: "mrinalikabhanjdeo"
     fullname: >-
       Mrinalika Bhanjdeo, Mayurbhanj
     location: "India"
-    followers: 7359
-    engagement: 491
-    commentsToLikes: 0.017947
+    followers: 7704
+    engagement: 506
+    commentsToLikes: 0.025759
     id: ck14gyhc77n7k0i19dwdh1eo2
     verified: false
-    hashtags: "#covidkindness, #harleyquinn, #lastweek, #lockdown"
-  - username: "anandalax"
-    fullname: >-
-      | Ángela . | Wellness | Yoga
-    location: "India"
-    followers: 5673
-    engagement: 495
-    commentsToLikes: 0.127227
-    id: ck6ueuwurt7xg0j71eozggnlh
-    verified: false
-    hashtags: "#coaching, #virabhadrasana3, #retirodemujeres, #winlife"
+    hashtags: "#healthychoices, #nurture, #courage, #mindfulness"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Lisbon In 2020
 description: >-
-  Find top Instagram influencers in Lisbon in 2020. Most popular hashtags: #ootd #fashionblogger #outfit #styleoftheday.
+  Find top Instagram influencers in Lisbon in 2020. Most popular hashtags: #ootd #outfits #fashionstyle #levis.
 platform: Instagram
 profiles:
-  - username: "svilar_mile"
-    fullname: >-
-      MS
-    location: "Portugal"
-    followers: 151031
-    engagement: 976
-    commentsToLikes: 0.007334
-    id: ck8swh4sie2pv0j78jxbq1rbm
-    verified: true
-    hashtags: "#hometeam"
   - username: "caro.lina.gil"
     fullname: >-
       Cäro
     location: "Portugal"
-    followers: 9858
-    engagement: 1403
-    commentsToLikes: 0.083617
+    followers: 9654
+    engagement: 1433
+    commentsToLikes: 0.083478
     id: ck0u0x6rzv5ow0i19vvpq2udd
     verified: false
-    hashtags: "#curingcancer, #frontsplit, #stretching, #curingsleep"
+    hashtags: "#door, #graffiti, #loveyourself, #caisdosodre"
   - username: "rubenrpvaz"
     fullname: >-
       ℝ 𝕌 𝔹 𝔼 ℕ  𝕍 𝔸 ℤ
     location: "Portugal"
-    followers: 10831
-    engagement: 1088
-    commentsToLikes: 0.142006
+    followers: 10840
+    engagement: 1115
+    commentsToLikes: 0.140023
     id: ck6ti80us07rt0j719wtmkxt0
     verified: false
-    hashtags: "#london, #lifestyle, #fashion, #classic"
+    hashtags: "#jointhemvmt, #fashionnova, #street, #styleoftheday"
+  - username: "its.leite"
+    fullname: >-
+      Tiago Leite
+    location: "Portugal"
+    followers: 52279
+    engagement: 939
+    commentsToLikes: 0.045146
+    id: ck5zq9csvu6iw0i14d80ke45g
+    verified: false
+    hashtags: "#beforeyougo, #famleite, #straders, #viberz"
   - username: "catarina.fernandees"
     fullname: >-
       Catarina Fernandes
     location: "Portugal"
-    followers: 67545
-    engagement: 498
-    commentsToLikes: 0.044364
+    followers: 68815
+    engagement: 502
+    commentsToLikes: 0.071840
     id: ck1374d9y9pu80i19hpf69j8k
     verified: false
-    hashtags: "#looks, #homesweethome, #charlie, #mood"
-  - username: "whatever.joana"
-    fullname: >-
-      Joana Dias
-    location: "Portugal"
-    followers: 5759
-    engagement: 1149
-    commentsToLikes: 0.250371
-    id: ck0u12aejvj8w0i19k9pnujgn
-    verified: false
-    hashtags: "#summer, #jijilss20, #throwback, #beachgirl"
+    hashtags: "#outfits, #cleaningmyhome, #happymothersday, #newproject"
   - username: "martinhagomez"
     fullname: >-
       Martinha Gomez
     location: "Portugal"
-    followers: 25521
-    engagement: 528
-    commentsToLikes: 0.232442
+    followers: 26439
+    engagement: 498
+    commentsToLikes: 0.191096
     id: ck0tybj33marc0i19b7w37ha9
     verified: false
-    hashtags: "#spring, #bridge, #tattoo, #hairstyle"
-  - username: "tuliofsazevedo"
+    hashtags: "#balalaica, #outfitoftheday, #jeansmurah, #mimi"
+  - username: "brunoanjoss"
     fullname: >-
-      Túlio Azevedo
+      𝗕 𝗥 𝗨 𝗡 𝗢    𝗔 𝗡 𝗝 𝗢 𝗦
     location: "Portugal"
-    followers: 10149
-    engagement: 735
-    commentsToLikes: 0.130028
-    id: ck8t839ruiy5w0j78i6kf2m6t
+    followers: 4441
+    engagement: 1771
+    commentsToLikes: 0.378577
+    id: ck9womla25rjc0j78gw86m3wr
     verified: false
-    hashtags: "#classy, #streetfashion, #fashiondaily, #menstyle"
-  - username: "sarapebre"
+    hashtags: "#topman, #healthy, #freedom, #streetwear"
+  - username: "rosalimaloureiro"
     fullname: >-
-      SARA PEBRE | Influencer
+      Rosa Lima Loureiro
     location: "Portugal"
-    followers: 11503
-    engagement: 660
-    commentsToLikes: 0.346321
-    id: ck8szqih6pccn0j78hojrkqe7
+    followers: 29408
+    engagement: 1501
+    commentsToLikes: 0.033297
+    id: ck8t4jx1q70xx0j78kofberj1
     verified: false
-    hashtags: "#nortemoda, #fashionaddict, #giveaway, #influencerportugal"
-  - username: "tiagosoca"
+    hashtags: "#stylist, #tbt, #fashionstyle, #instagood"
+  - username: "whatever.joana"
     fullname: >-
-      ©️ Soca
+      Joana Dias
     location: "Portugal"
-    followers: 13313
-    engagement: 592
-    commentsToLikes: 0.307260
-    id: ck0ue8m1skqdx0i192httm5zu
+    followers: 5855
+    engagement: 1028
+    commentsToLikes: 0.236350
+    id: ck0u12aejvj8w0i19k9pnujgn
     verified: false
-    hashtags: "#mosteirodosjeronimos, #waldorwatches, #alltogether, #stayhome"
-  - username: "jmigsimoes"
+    hashtags: "#jijilss20, #throwback, #beachgirl, #summer"
+  - username: "marianacardia"
     fullname: >-
-      João Miguel Simões
+      Mαяιαηα 🌹
     location: "Portugal"
-    followers: 88840
-    engagement: 203
-    commentsToLikes: 0.054430
-    id: ck5zzn4bvc1rj0i1453awqb62
+    followers: 15273
+    engagement: 653
+    commentsToLikes: 0.131552
+    id: ck8t6uh2eeqch0j78kg2sj6w0
     verified: false
-    hashtags: "#euficoemcasa, #isolamento, #not, #iorestoacasa"
+    hashtags: "#gillette, #pink, #lipgloss, #pinkroom"
+  - username: "catarina_bpinto"
+    fullname: >-
+      Catarina Pinto
+    location: "Portugal"
+    followers: 39391
+    engagement: 389
+    commentsToLikes: 0.370276
+    id: ck0u6xt2e37c80i19qb4765v1
+    verified: false
+    hashtags: "#sparkle, #sushilovers, #passatempo, #color"
 ---

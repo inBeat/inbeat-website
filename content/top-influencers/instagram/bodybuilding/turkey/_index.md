@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Turkey In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Turkey in 2020. Most popular hashtags: #bodybuilding #evdeqal #shredded #fitness.
+  Find top bodybuilding Instagram influencers in Turkey in 2020. Most popular hashtags: #bodybuilding #evdekal #fitness #workout.
 platform: Instagram
 profiles:
-  - username: "marcusgreerfitness"
-    fullname: >-
-      Furkan Imamoglu (MARCUS)
-    location: "Turkey"
-    followers: 152930
-    engagement: 359
-    commentsToLikes: 0.189326
-    id: ck15ts25ujlsa0i192157xh77
-    verified: true
-    hashtags: "#degisim, #posing, #bulk, #workout"
   - username: "renadefendiyev"
     fullname: >-
       🇦🇿Renad Əfəndiyev
     location: "Turkey"
-    followers: 121916
-    engagement: 261
-    commentsToLikes: 0.030440
+    followers: 119173
+    engagement: 283
+    commentsToLikes: 0.028567
     id: ck5hr1xwyu4fu0i11bvdrwwq4
     verified: false
-    hashtags: "#arxiv, #eybiyo, #evdeqal"
+    hashtags: "#evdeqal, #eybiyo"
   - username: "shukran_soltanov"
     fullname: >-
       
     location: "Turkey"
-    followers: 102888
-    engagement: 272
-    commentsToLikes: 0.013291
+    followers: 107091
+    engagement: 163
+    commentsToLikes: 0.016813
     id: ck0vzoiz7a4080i19ti6ofhgw
     verified: false
-    hashtags: "#gorgudfitnesspa, #uzb, #stopcoronavirus, #evdeqal"
+    hashtags: "#davam, #baku, #bizbirlikdeg, #stayhome"
+  - username: "boroda_master_"
+    fullname: >-
+      
+    location: "Turkey"
+    followers: 32466
+    engagement: 195
+    commentsToLikes: 0.012448
+    id: ck5hr200lu4jp0i116tm92x2b
+    verified: false
+    hashtags: "#gorillawearrussia, #girl, #islam, #basketball"
   - username: "iamhamed.gh"
     fullname: >-
       𝙎𝙪𝙘𝙘𝙚𝙨𝙨? 𝙇𝙤𝙖𝙙𝙞𝙣𝙜...
     location: "Turkey"
-    followers: 17059
-    engagement: 2052
-    commentsToLikes: 0.129836
+    followers: 17425
+    engagement: 2095
+    commentsToLikes: 0.132805
     id: ck5zsqzs8z1830i14ea5hngx9
     verified: false
-    hashtags: "#boutiqueagency, #streetstyle, #whatiwore, #travel"
-  - username: "mertocl"
+    hashtags: "#ootd, #outfitinspo, #commercialmodel, #casualstyle"
+  - username: "tc_asil_turk_"
     fullname: >-
-      Mert Öcal
+      🇹🇷TAKİP EDER MİSİNİZ?🇹🇷
     location: "Turkey"
-    followers: 119738
-    engagement: 624
-    commentsToLikes: 0.081622
-    id: ck13bdg0tuwcl0i19js6u6aim
-    verified: true
-    hashtags: "#survi, #survivor2020, #prayforaustralia, #nocarb"
+    followers: 5212
+    engagement: 1832
+    commentsToLikes: 0.152403
+    id: ck9hac0thbyyy0j7843dxhkb2
+    verified: false
+    hashtags: "#zeytindal, #samsun, #rize, #evdekalt"
   - username: "najmmohammadi"
     fullname: >-
       Najm Mohammadi
     location: "Turkey"
-    followers: 9811
-    engagement: 1571
-    commentsToLikes: 0.055070
+    followers: 10124
+    engagement: 1577
+    commentsToLikes: 0.056373
     id: ck5c8dp0m99fe0i11etkdgpg0
     verified: false
-    hashtags: "#frenchbulldog, #lifecoach, #fashiontv, #fashionista"
-  - username: "makinetalha"
-    fullname: >-
-      Talha Çetin
-    location: "Turkey"
-    followers: 34146
-    engagement: 1276
-    commentsToLikes: 0.013283
-    id: ck136pxam7oo50i19g9a3r2k6
-    verified: false
-    hashtags: "#powerlifting, #strongman, #makinetalha, #bodybuilding"
-  - username: "gabriela.prisacariu"
-    fullname: >-
-      Gabriela Prisacariu 🙈🙊💃🐒
-    location: "Turkey"
-    followers: 70854
-    engagement: 582
-    commentsToLikes: 0.020362
-    id: ck5qej2bi0qh40i11uziu4pta
-    verified: false
-    hashtags: "#sabonromania, #wedonthaveacat, #beautysmile, #beauty"
+    hashtags: "#edgymemes, #angel, #birthday, #jalal"
   - username: "zeynepseenell"
     fullname: >-
-      Zeynep Şenel
+      
     location: "Turkey"
-    followers: 5741
-    engagement: 1685
-    commentsToLikes: 0.017491
+    followers: 5673
+    engagement: 1614
+    commentsToLikes: 0.020053
     id: ck8t38n942c2g0j78nnsp53l2
     verified: false
-    hashtags: "#edin, #ruzgar, #cnzburak, #karpuz"
-  - username: "bugra_keskin"
+    hashtags: "#efsanelerveger, #sehidimizvar, #pembe, #komikvideolar"
+  - username: "emresil"
     fullname: >-
-      Bugra Keskin
+      Emre Abi
     location: "Turkey"
-    followers: 47337
-    engagement: 598
-    commentsToLikes: 0.019471
-    id: ck1396owvjsxw0i19fb30k6gz
+    followers: 4281
+    engagement: 1558
+    commentsToLikes: 0.049719
+    id: ckapcduf43f3k0i781eih2gnh
     verified: false
-    hashtags: "#squat, #quarantine, #evdekalt, #legday"
+    hashtags: "#mademevdeyiz, #dreamscometrue, #ketorecipes, #geceyar"
+  - username: "mobin_.mohamad"
+    fullname: >-
+      🔱Radmehr Brothers
+    location: "Turkey"
+    followers: 17474
+    engagement: 1069
+    commentsToLikes: 0.077388
+    id: ck1399rmkk8at0i19eybkxyr1
+    verified: false
+    hashtags: "#masterboxing, #sheratonhotel, #travel, #luxurylife"
+  - username: "akbulutmurat"
+    fullname: >-
+      Murat Akbulut Make-up Artist®™
+    location: "Turkey"
+    followers: 16130
+    engagement: 390
+    commentsToLikes: 0.027217
+    id: ck55jgnyjwzqc0i11jyedk6mi
+    verified: false
+    hashtags: "#line, #body, #nakedhoney, #blackandblack"
 ---

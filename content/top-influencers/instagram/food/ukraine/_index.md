@@ -1,46 +1,46 @@
 ---
 title: Top 10 Food Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top food Instagram influencers in Ukraine in 2020. Most popular hashtags: #stayhome #corona #foodlover #tbilisi.
+  Find top food Instagram influencers in Ukraine in 2020. Most popular hashtags: #lingerie #dress #flowers #sunset.
 platform: Instagram
 profiles:
-  - username: "kate_nhuen"
+  - username: "annagirm"
     fullname: >-
-      Нгуен Катя
+      A.n.n.a G.i.r Malowany 🌺
     location: "Ukraine"
-    followers: 14346
-    engagement: 808
-    commentsToLikes: 0.040539
-    id: ck55kilgezdut0i118wl0ujtf
+    followers: 6122
+    engagement: 2006
+    commentsToLikes: 0.184386
+    id: ck0tyggvvmppp0i19v8scrgo5
     verified: false
-    hashtags: ""
+    hashtags: "#funmoment, #sweetpotato, #sunglasses, #puppylove"
   - username: "iravakhitova"
     fullname: >-
       Ира Вахитова, SMM
     location: "Ukraine"
-    followers: 100836
-    engagement: 291
-    commentsToLikes: 0.019334
+    followers: 100198
+    engagement: 428
+    commentsToLikes: 0.019867
     id: ck6tv2hdjjsqj0j71ech0ksmj
     verified: false
-    hashtags: "#quarantinelife, #minimalism, #classicstyle, #tbilisi"
-  - username: "romantugashev"
+    hashtags: "#sunset, #gudauri, #quarantinelife, #lingerie"
+  - username: "nastiapoberezhna"
     fullname: >-
-      Roman Tugashev
+      NASTIA POBEREZHNA
     location: "Ukraine"
-    followers: 59114
-    engagement: 175
-    commentsToLikes: 0.036476
-    id: ck5zqtgm4v9di0i14nr8f6z4n
+    followers: 69726
+    engagement: 319
+    commentsToLikes: 0.018691
+    id: ck6tyt7n05pmu0j71wi25l32f
     verified: false
-    hashtags: "#eventindustryforum2020, #rttrip2020, #tugashevtalks"
+    hashtags: "#thenoisetier, #mybeigelife, #simplebeyond, #lagodibraies"
   - username: "julia_shelegova"
     fullname: >-
       Юлия Тихоступ (Шелегова)
     location: "Ukraine"
-    followers: 6989
-    engagement: 540
-    commentsToLikes: 0.068875
+    followers: 6965
+    engagement: 539
+    commentsToLikes: 0.073230
     id: ck5q1hoc0b13t0i11ntuo2lhv
     verified: false
     hashtags: "#photooftheday, #sisters"
@@ -48,60 +48,60 @@ profiles:
     fullname: >-
       Ievgen Klopotenko
     location: "Ukraine"
-    followers: 450328
-    engagement: 191
-    commentsToLikes: 0.014692
+    followers: 477713
+    engagement: 188
+    commentsToLikes: 0.014733
     id: ck5hrjyzxuzqt0i11djcpm5e7
     verified: true
-    hashtags: "#frankeukraine, #eatalaska, #askforalaska, #alaskaseafood"
-  - username: "sifood.com.ua"
+    hashtags: "#eatalaska, #askforalaska, #alaskaseafood"
+  - username: "romantugashev"
     fullname: >-
-      Сильвия Бронецкая
+      Roman Tugashev
     location: "Ukraine"
-    followers: 26575
-    engagement: 434
-    commentsToLikes: 0.069069
-    id: ck13cigsb0id90i194quzf45u
+    followers: 52276
+    engagement: 152
+    commentsToLikes: 0.036908
+    id: ck5zqtgm4v9di0i14nr8f6z4n
     verified: false
-    hashtags: "#spaghetti, #colorpancakes, #culiflower, #foodlover"
-  - username: "nastiapoberezhna"
-    fullname: >-
-      NASTIA POBEREZHNA
-    location: "Ukraine"
-    followers: 69977
-    engagement: 350
-    commentsToLikes: 0.068364
-    id: ck6tyt7n05pmu0j71wi25l32f
-    verified: false
-    hashtags: "#createathome, #warsaw, #milan, #details"
-  - username: "cooking_by_yuliya"
+    hashtags: "#eventindustryforum2020, #rttrip2020, #tugashevtalks"
+  - username: "________yanchik________"
     fullname: >-
       
     location: "Ukraine"
-    followers: 105290
-    engagement: 479
-    commentsToLikes: 0.010659
-    id: ck6u73jcnj9kq0j71h772os4y
+    followers: 24054
+    engagement: 566
+    commentsToLikes: 0.032173
+    id: ckap39ll824ni0i78xszp1ok4
     verified: false
-    hashtags: "#food, #foodblog, #blogger, #chokolate"
-  - username: "anastasiia_g"
-    fullname: >-
-      Nastya
-    location: "Ukraine"
-    followers: 25077
-    engagement: 362
-    commentsToLikes: 0.020425
-    id: ck8t7xhipib5x0j78m0vejub8
-    verified: false
-    hashtags: "#stayathome"
+    hashtags: "#flyattendant, #boing, #liketime, #aviation"
   - username: "hozhelnyk"
     fullname: >-
       ɴᴀᴛᴀʟɪ ʜᴏᴢʜᴇʟɴʏᴋ💔
     location: "Ukraine"
-    followers: 27726
-    engagement: 228
-    commentsToLikes: 0.022504
+    followers: 27558
+    engagement: 229
+    commentsToLikes: 0.025180
     id: ck0tyfko7mlsg0i19uez6jbd1
     verified: false
-    hashtags: "#hozhelnykphoto, #bless, #pregnantstyle, #travel"
+    hashtags: "#hozhelnykphoto, #mua, #live, #life"
+  - username: "kate_nhuen"
+    fullname: >-
+      Нгуен Катя
+    location: "Ukraine"
+    followers: 14216
+    engagement: 809
+    commentsToLikes: 0.018654
+    id: ck55kilgezdut0i118wl0ujtf
+    verified: false
+    hashtags: "#quarantine"
+  - username: "lena.buriak"
+    fullname: >-
+      Model Lena Buriak
+    location: "Ukraine"
+    followers: 22376
+    engagement: 219
+    commentsToLikes: 0.060121
+    id: ckaos5r5yq7rc0i78x7vid6k7
+    verified: false
+    hashtags: "#modelmilano, #modelingwork, #ladyinred, #swimsuit"
 ---

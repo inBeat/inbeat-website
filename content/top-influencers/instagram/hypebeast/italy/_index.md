@@ -1,107 +1,107 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Italy In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Italy in 2020. Most popular hashtags: #hypebeast #streetwear #hypedstreets #outfitsociety.
+  Find top hypebeast Instagram influencers in Italy in 2020. Most popular hashtags: #hypebeast #fashion #milano #outfitoftheday.
 platform: Instagram
 profiles:
   - username: "fortuthegamer"
     fullname: >-
       Lucas
     location: "Italy"
-    followers: 9615
-    engagement: 903
-    commentsToLikes: 0.029012
+    followers: 10456
+    engagement: 938
+    commentsToLikes: 0.028580
     id: ck8wdf5yfdr1f0j78s9uqgqpo
     verified: false
-    hashtags: "#pcgameita, #mccrunchy, #bugie, #voti"
+    hashtags: "#iorestoacasa, #yeezy, #black, #boost"
   - username: "mauriziopurificato"
     fullname: >-
       Maurizio Purificato
     location: "Italy"
-    followers: 4894
-    engagement: 1171
-    commentsToLikes: 0.072053
+    followers: 4889
+    engagement: 1201
+    commentsToLikes: 0.071316
     id: ck6ts8mhs3cm20j71jdaljig4
     verified: false
     hashtags: "#sferaebbasta, #mom, #daughter, #langosteriamilano"
-  - username: "federica__petri"
+  - username: "hi.meth"
     fullname: >-
-      𝐅𝐄𝐃𝐄𝐑𝐈𝐂𝐀 𝐏𝐄𝐓𝐑𝐈
+      Meth🐺
     location: "Italy"
-    followers: 293712
-    engagement: 490
-    commentsToLikes: 0.036745
-    id: ck5hoftwjphjx0i11crcu2whq
+    followers: 34959
+    engagement: 2161
+    commentsToLikes: 0.174766
+    id: ck8wftkthg8l40j78lwpjkuqa
     verified: false
-    hashtags: "#hypebeast, #hypeclothing, #streetwearoutfit, #supremela"
-  - username: "stefanoellea"
-    fullname: >-
-      Stefano LA
-    location: "Italy"
-    followers: 15591
-    engagement: 1165
-    commentsToLikes: 0.044855
-    id: ck0vx12hnwlrl0i19zqu8qjap
-    verified: false
-    hashtags: "#maviccycling, #cyclingstyle, #t0pbikes, #ridecannondale"
+    hashtags: "#menfashion, #design, #zombie, #insta"
   - username: "martasantandrea"
     fullname: >-
       Marta Santandrea🦋
     location: "Italy"
-    followers: 15494
-    engagement: 703
-    commentsToLikes: 0.278025
+    followers: 14989
+    engagement: 679
+    commentsToLikes: 0.258444
     id: ck6uew409tesf0j715oak0o9m
     verified: false
-    hashtags: "#sup, #hypebeststyle, #outfitberloga, #rider"
-  - username: "hi.meth"
+    hashtags: "#supremelondon, #streetwear, #hypeoutfit, #balenciaga"
+  - username: "icontrendy"
     fullname: >-
-      𝐌𝐚𝐭𝐢𝐬𝐬𝐞 𝐢𝐮𝐥𝐢𝐚𝐧𝐨 𝓖.𝓑.
+      Massimiliano
     location: "Italy"
-    followers: 23412
-    engagement: 2680
-    commentsToLikes: 0.151059
-    id: ck8wftkthg8l40j78lwpjkuqa
+    followers: 229843
+    engagement: 142
+    commentsToLikes: 0.074613
+    id: ck55nr3a36t1a0i11u4lt3py8
     verified: false
-    hashtags: "#sea, #giveaway, #hunting, #tiktok"
-  - username: "mauriis_"
+    hashtags: "#edeloptics, #bestof, #dope, #hypebeast"
+  - username: "bianca.lill"
     fullname: >-
-      𝙑𝙊𝙂𝙇𝙄𝙊 𝘿𝙄𝙑𝙀𝙉𝙏𝘼𝙍𝙀 𝙁𝘼𝙈𝙊𝙎𝙊
+      Bianca
     location: "Italy"
-    followers: 5608
-    engagement: 1951
-    commentsToLikes: 0.069875
-    id: ck8wdhi1kdun20j78eo3w749n
+    followers: 13009
+    engagement: 1932
+    commentsToLikes: 0.007891
+    id: ck15s99z8bvii0i19pccfekst
     verified: false
-    hashtags: "#yeezyseason, #anna, #sneakers, #hype"
-  - username: "filippo.denunzio"
+    hashtags: "#sail, #hbx, #sacai, #swimwear"
+  - username: "krukpiotrek"
     fullname: >-
-      Filippo❄💎
+      KRUK
     location: "Italy"
-    followers: 8580
-    engagement: 1211
-    commentsToLikes: 0.072205
-    id: ck8tc4rpbya9k0j785b9ds1db
+    followers: 16215
+    engagement: 221
+    commentsToLikes: 0.085454
+    id: ck0uby7befl4h0i19uf895hru
     verified: false
-    hashtags: "#outfitinspiration, #louisvuitton, #simplefits, #yeezyboost"
-  - username: "iamdanielesferlazzo"
+    hashtags: "#createxploretakeover, #earth, #travel, #naturephotography"
+  - username: "saint__pedro"
     fullname: >-
-      Daniele Sferlazzo 👽
+      𝑷𝒆𝒅𝒓𝒐 𝑮𝒂𝒃𝒓𝒊𝒆𝒍
     location: "Italy"
-    followers: 18685
-    engagement: 806
-    commentsToLikes: 0.080045
-    id: ck0vy6dlf2g2a0i19l6atx9kv
+    followers: 2883
+    engagement: 1504
+    commentsToLikes: 0.436781
+    id: ck5q9bfwoa9oc0i11a461vzb2
     verified: false
-    hashtags: "#sneakerhead, #foundongrailed, #casualwear, #uniqlo"
-  - username: "rebelleg4l"
+    hashtags: "#supercarspotter, #milanfashion, #dandyseyewear, #drappered"
+  - username: "giadas__"
     fullname: >-
-      🎧 Veronica - 👱🏾‍♀️
+      Giada Sabellico
     location: "Italy"
-    followers: 3779
-    engagement: 1206
-    commentsToLikes: 0.167183
-    id: ck5q91bq38x4k0i1144noxjde
+    followers: 13964
+    engagement: 651
+    commentsToLikes: 0.315220
+    id: ck8t91pnfmn3c0j783abt9mor
     verified: false
-    hashtags: "#fitrotation, #trillestoutfit, #hypefeet, #girlsonkicks"
+    hashtags: "#fitness, #fotomodella, #corsa, #sole"
+  - username: "kunalrawaldstress"
+    fullname: >-
+      Kunal Rawal
+    location: "Italy"
+    followers: 25689
+    engagement: 471
+    commentsToLikes: 0.015823
+    id: ck6u23ct7ph5d0j71simb93rr
+    verified: true
+    hashtags: "#tbt, #happymonday, #missyou, #radhikaapte"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Turkey In 2020
 description: >-
-  Find top nutrition Instagram influencers in Turkey in 2020. Most popular hashtags: #evdekal #stayhome #corona #diyet.
+  Find top nutrition Instagram influencers in Turkey in 2020. Most popular hashtags: #peanutbutter #porridge #yulaf #recipes.
 platform: Instagram
 profiles:
-  - username: "gulsahgorgulu"
-    fullname: >-
-      Gülşah Görgülü
-    location: "Turkey"
-    followers: 27687
-    engagement: 469
-    commentsToLikes: 0.023715
-    id: ck6u8r2ijt6ak0j71fmnzmfxb
-    verified: false
-    hashtags: "#happybackday, #selfcare, #homeworkout, #organiksatinal"
-  - username: "m.y.hulk_"
-    fullname: >-
-      MUSTAFA YILDIZ
-    location: "Turkey"
-    followers: 387466
-    engagement: 218
-    commentsToLikes: 0.019079
-    id: ck6u8r01nt5ul0j71nvz6k9hz
-    verified: false
-    hashtags: "#onmyway, #fitness, #abs, #catlovers"
-  - username: "emirinalbay"
-    fullname: >-
-      Emir İnalbay
-    location: "Turkey"
-    followers: 68915
-    engagement: 177
-    commentsToLikes: 0.073039
-    id: ck1396o1ojssw0i19ez7zzy1i
-    verified: false
-    hashtags: "#evdeformdakal, #stayhome, #diyet, #beslenme"
-  - username: "dilsaterdil"
-    fullname: >-
-      Dilşat Erdil
-    location: "Turkey"
-    followers: 301891
-    engagement: 156
-    commentsToLikes: 0.149442
-    id: ck5casza9e2jm0i118ulwtevj
-    verified: false
-    hashtags: "#tbt, #makeup, #dilsaterdil, #tiktok"
-  - username: "neyranguneli"
-    fullname: >-
-      Neyran Güneli
-    location: "Turkey"
-    followers: 6110
-    engagement: 747
-    commentsToLikes: 0.068978
-    id: ck15tu56ojwxf0i199rpmpg1n
-    verified: false
-    hashtags: "#stayhome, #crossfitturkey, #fitness, #peanutbutterloversday"
   - username: "birkanpolatcom"
     fullname: >-
       Birkan Polat
     location: "Turkey"
-    followers: 65698
-    engagement: 424
-    commentsToLikes: 0.011954
+    followers: 77991
+    engagement: 538
+    commentsToLikes: 0.026597
     id: ck6u6dyuvf1k70j710q9peoma
     verified: true
-    hashtags: "#repost, #covid, #wheelie, #cukur"
-  - username: "diyetisyensemanurtuysuz"
+    hashtags: "#youtube, #evdekal, #goodnight, #1may"
+  - username: "snowfcker"
     fullname: >-
-      Dyt.Semanur Tüysüz
+      snowmaid
     location: "Turkey"
-    followers: 15813
-    engagement: 259
-    commentsToLikes: 0.100671
-    id: ck8tc5qvgydmr0j78zwmdvftw
-    verified: false
-    hashtags: "#diyet, #detoks, #healthylifestyle, #zay"
-  - username: "ebrununsagliklidunyasi"
-    fullname: >-
-      Ebru Zeynep Altay
-    location: "Turkey"
-    followers: 53513
-    engagement: 111
-    commentsToLikes: 0.046762
-    id: ck0vuzzoumwy40i19bfii5p5x
+    followers: 81204
+    engagement: 1815
+    commentsToLikes: 0.005032
+    id: ckap1v95mwas60i78j35c19v5
     verified: false
     hashtags: ""
-  - username: "delicioustastebyib"
+  - username: "saraulucay"
     fullname: >-
-      Ecz.İnci Bulut
+      Sara Uluçay
     location: "Turkey"
-    followers: 127701
-    engagement: 248
-    commentsToLikes: 0.142865
-    id: ck0w6v4qyaf270i197vb1rr8z
+    followers: 68645
+    engagement: 683
+    commentsToLikes: 0.470738
+    id: ckaouiexo0env0i78e8c2c3gs
     verified: false
-    hashtags: "#dinner, #meatless, #cheddar, #sekaktifprobiyotik"
-  - username: "simplyfitdays"
+    hashtags: "#wish"
+  - username: "nazlimevsimler"
     fullname: >-
-      Diyetisyen Merve Mucuk
+      N A Z
     location: "Turkey"
-    followers: 92822
-    engagement: 123
-    commentsToLikes: 0.008371
-    id: ck5zpi8mnspv10i14p86kcsgc
+    followers: 6105
+    engagement: 1092
+    commentsToLikes: 0.014797
+    id: ckap0igspqfmt0i78wbjgnxx8
     verified: false
-    hashtags: "#breakfast, #bread, #homemade, #oatmeal"
+    hashtags: "#iyibayramlar, #throwback, #quarantine, #tb"
+  - username: "handiysdiet"
+    fullname: >-
+      
+    location: "Turkey"
+    followers: 4290
+    engagement: 1362
+    commentsToLikes: 0.170448
+    id: ckaotf0zrvnjx0i78tupcfbqn
+    verified: false
+    hashtags: "#bodrum, #ramadan, #iftartatl, #meslekas"
+  - username: "yoganatomi"
+    fullname: >-
+      Derya Türkmen
+    location: "Turkey"
+    followers: 5728
+    engagement: 909
+    commentsToLikes: 0.035590
+    id: ckaoxmyyvdy7v0i78tu325uh8
+    verified: false
+    hashtags: "#weddingday, #throw"
+  - username: "cilgsplate"
+    fullname: >-
+      Cilgs Plate | Çılga’nın Tabağı
+    location: "Turkey"
+    followers: 41077
+    engagement: 220
+    commentsToLikes: 0.106121
+    id: ck9hb3ooyf9ng0j788xjdl0te
+    verified: false
+    hashtags: "#light, #cikolatalikek, #stayhome, #hindistancevizi"
+  - username: "dilsaterdil"
+    fullname: >-
+      Dilşat Erdil
+    location: "Turkey"
+    followers: 315775
+    engagement: 157
+    commentsToLikes: 0.194027
+    id: ck5casza9e2jm0i118ulwtevj
+    verified: false
+    hashtags: "#tbt, #karantina20, #youcantsitwithme, #komikvideolar"
+  - username: "begmkokturk"
+    fullname: >-
+      Begüm Köktürk Kaya
+    location: "Turkey"
+    followers: 7872
+    engagement: 765
+    commentsToLikes: 0.039565
+    id: ckap3jdjd38o40i78wito0i6w
+    verified: false
+    hashtags: "#ahududurec, #fittatl, #evdebayram, #healty"
+  - username: "stayfiteatdeliciouss"
+    fullname: >-
+      StayFitEatDelicious🍓
+    location: "Turkey"
+    followers: 90824
+    engagement: 518
+    commentsToLikes: 0.697850
+    id: ckaor63nalvo60i78m0buq1zy
+    verified: false
+    hashtags: "#wasa, #recipes, #saglikli, #sunshine"
 ---

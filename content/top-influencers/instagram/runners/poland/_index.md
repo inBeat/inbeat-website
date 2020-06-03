@@ -1,107 +1,107 @@
 ---
 title: Top 10 Runners Instagram Influencers In Poland In 2020
 description: >-
-  Find top runners Instagram influencers in Poland in 2020. Most popular hashtags: #zosta #thailand #smile #bieganie.
+  Find top runners Instagram influencers in Poland in 2020. Most popular hashtags: #warsaw #quarantine #spring #travel.
 platform: Instagram
 profiles:
+  - username: "ogonowska_maja"
+    fullname: >-
+      MUA & Beauty Vlogger
+    location: "Poland"
+    followers: 21943
+    engagement: 587
+    commentsToLikes: 0.043687
+    id: ckaot496iubfs0i78nxkhs373
+    verified: false
+    hashtags: "#jajkazostaja, #ostrycien, #powro, #szko"
   - username: "olivia_funky_"
     fullname: >-
       Olivia Lubieniecka
     location: "Poland"
-    followers: 5636
-    engagement: 1018
-    commentsToLikes: 0.053073
+    followers: 5921
+    engagement: 1052
+    commentsToLikes: 0.052761
     id: ck13a11hjo38q0i199333oq86
     verified: false
-    hashtags: "#island, #przygody, #beachgirl, #polskieg"
+    hashtags: "#travel, #balisunset, #miedzyseriami, #surfmagic"
   - username: "bojarmeow"
     fullname: >-
       Karolina Bojar
     location: "Poland"
-    followers: 165388
-    engagement: 809
-    commentsToLikes: 0.008116
+    followers: 165736
+    engagement: 779
+    commentsToLikes: 0.008591
     id: ck0vvd9n3om4v0i19z6s4r4s9
     verified: true
-    hashtags: "#getinmybelly, #bangkok, #grundgesetz, #woman"
-  - username: "ziad_elsissy"
+    hashtags: "#dungarees, #makeup, #weekend, #myhon"
+  - username: "jakub.pursa"
     fullname: >-
-      زياد السيسى
+      Jakub Pursa
     location: "Poland"
-    followers: 47130
-    engagement: 223
-    commentsToLikes: 0.037902
-    id: ck0vv1altn2x80i19nddi431c
+    followers: 10881
+    engagement: 710
+    commentsToLikes: 0.069317
+    id: ck8t5yo1sboma0j78rorrwdel
     verified: false
-    hashtags: "#champion, #smilefromtheheart, #newyear, #olympicrings"
-  - username: "from_r_with_love"
-    fullname: >-
-      Renata
-    location: "Poland"
-    followers: 3491
-    engagement: 1395
-    commentsToLikes: 0.157117
-    id: ck6tzwdcec9j30j71qb7fow0p
-    verified: false
-    hashtags: "#freepeople, #beachlife, #london, #zakopane"
-  - username: "biegam_i_pije"
-    fullname: >-
-      Marcin Szczurkiewicz
-    location: "Poland"
-    followers: 15589
-    engagement: 542
-    commentsToLikes: 0.027109
-    id: ck13aawtfphso0i1909irsi9j
-    verified: false
-    hashtags: "#kwarantanna, #instamood, #tuesdaymood, #forrest"
-  - username: "dominika.bacmaga"
-    fullname: >-
-      Dominika Baćmaga
-    location: "Poland"
-    followers: 25793
-    engagement: 701
-    commentsToLikes: 0.010944
-    id: ck0tu923764w10i19ryqwdo1g
-    verified: false
-    hashtags: "#portrait, #bieganie, #nevergiveup, #perciwald"
-  - username: "more_everyday_susan"
-    fullname: >-
-      ASICS FrontRunner Poland 🇵🇱
-    location: "Poland"
-    followers: 9229
-    engagement: 560
-    commentsToLikes: 0.041748
-    id: ck0u8ya5z8jvd0i196pebmj3r
-    verified: false
-    hashtags: "#marathon, #asicsfrontrunnerpoland, #loverunning, #homeoffice"
+    hashtags: "#pytaniena, #telewizja, #zmiananalepsze, #dance"
   - username: "kasia_runtheworld"
     fullname: >-
       Run The World
     location: "Poland"
-    followers: 19027
-    engagement: 382
-    commentsToLikes: 0.024245
+    followers: 19205
+    engagement: 486
+    commentsToLikes: 0.026282
     id: ck55o5s437oqv0i114cjpr6fr
     verified: false
-    hashtags: "#biegacze, #suwalszczyzna, #monday, #challenge"
-  - username: "martapalucka"
+    hashtags: "#runners, #aprzednami, #coreczkamamusi, #thule"
+  - username: "from_r_with_love"
     fullname: >-
-      Miss World Poland 2015
+      Renata
     location: "Poland"
-    followers: 20404
-    engagement: 322
-    commentsToLikes: 0.020822
-    id: ck135hutw1i4f0i19b0u2q5yz
+    followers: 3408
+    engagement: 1359
+    commentsToLikes: 0.174193
+    id: ck6tzwdcec9j30j71qb7fow0p
     verified: false
-    hashtags: "#wspomnienia, #horses, #thailand, #secretbeach"
-  - username: "marta__kaczmarczyk"
+    hashtags: "#alfahidi, #rooftop, #lovelondon, #souk"
+  - username: "dominika.bacmaga"
     fullname: >-
-      Marta Kaczmarczyk
+      Dominika Baćmaga
     location: "Poland"
-    followers: 9389
-    engagement: 661
-    commentsToLikes: 0.018480
-    id: ck15ty363kgxc0i199acf0tyt
+    followers: 25210
+    engagement: 694
+    commentsToLikes: 0.009290
+    id: ck0tu923764w10i19ryqwdo1g
     verified: false
-    hashtags: "#blackblouse, #louisvuitton, #christmas, #seafood"
+    hashtags: "#kawa, #zakochani, #aparacistka, #trenerhit"
+  - username: "emi.run4fun"
+    fullname: >-
+      Emilia Kuźmiak
+    location: "Poland"
+    followers: 4620
+    engagement: 1846
+    commentsToLikes: 0.031825
+    id: ckaoqzjovl28h0i78t8ycskc5
+    verified: false
+    hashtags: "#novablast, #bobironman, #xlanderxrun, #thuleglide"
+  - username: "more_everyday_susan"
+    fullname: >-
+      ASICS FrontRunner Poland 🇵🇱
+    location: "Poland"
+    followers: 9157
+    engagement: 555
+    commentsToLikes: 0.035263
+    id: ck0u8ya5z8jvd0i196pebmj3r
+    verified: false
+    hashtags: "#kitchen, #trolltunga, #norway, #keepmoving"
+  - username: "mateusz_chajdas"
+    fullname: >-
+      Mateusz Chajdas-WcieniuGór
+    location: "Poland"
+    followers: 2307
+    engagement: 2187
+    commentsToLikes: 0.013812
+    id: ck9wfvr3aqpdm0j782xfn7fhy
+    verified: false
+    hashtags: "#salomonrunning, #beskidomaniacy, #trening, #timetoplay"
 ---

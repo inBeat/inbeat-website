@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Bali In 2020
 description: >-
-  Find top fashion Instagram influencers in Bali in 2020. Most popular hashtags: #baliphotoshoot #modelbali #bali #balibabe.
+  Find top fashion Instagram influencers in Bali in 2020. Most popular hashtags: #fashionbali #fashion #balidaily #balibeaches.
 platform: Instagram
 profiles:
-  - username: "blessedvenuss"
+  - username: "jenniferbachdim"
     fullname: >-
-      Evgeniya Korchagina
+      Jennifer Bachdim
     location: "Indonesia"
-    followers: 8395
-    engagement: 828
-    commentsToLikes: 0.059501
-    id: ck5zrjoo2wpid0i141nf39wfp
-    verified: false
-    hashtags: "#modeling, #baligirl, #beautifulgirl, #baliphotoshoot"
-  - username: "yu_kathe"
+    followers: 1071805
+    engagement: 321
+    commentsToLikes: 0.006016
+    id: ck0tv4e1d9vsq0i19auki7vjw
+    verified: true
+    hashtags: "#sponsored, #happysunday, #weareinthistogether, #workoutwithjenchallenge"
+  - username: "karina_razumnaya"
     fullname: >-
-      Kate☽
+      Karina Razumnaya
     location: "Indonesia"
-    followers: 73990
-    engagement: 215
-    commentsToLikes: 0.017709
-    id: ck0w79k1ucfta0i19pj4lazjz
+    followers: 5409
+    engagement: 837
+    commentsToLikes: 0.056273
+    id: ck8sx17f8fvc90j78f1fpibci
     verified: false
-    hashtags: "#photography, #bali, #quarantine, #style"
-  - username: "kunal_chhabhria"
-    fullname: >-
-      Kunal Chhabhria
-    location: "Indonesia"
-    followers: 107967
-    engagement: 2429
-    commentsToLikes: 0.014590
-    id: ck0w4gdiayfqi0i199b457p4e
-    verified: false
-    hashtags: "#potd, #diamondplaybutton, #girl, #scary"
-  - username: "axelschura"
-    fullname: >-
-      Axel Schurawlow 🥑
-    location: "Indonesia"
-    followers: 19834
-    engagement: 575
-    commentsToLikes: 0.034409
-    id: ck0ttg7i12ksr0i195fpjvruy
-    verified: false
-    hashtags: "#couple, #veganfashion, #vegetarian, #gratitude"
-  - username: "alvcreations"
-    fullname: >-
-      Andrey | Bali Photographer
-    location: "Indonesia"
-    followers: 10091
-    engagement: 906
-    commentsToLikes: 0.021248
-    id: ck6tipvw016yk0j71nuyk50bh
-    verified: false
-    hashtags: "#balimodels, #islandlifestyle, #alvcreations, #balibabe"
-  - username: "wanderingsoul_me"
-    fullname: >-
-      Where Is Ayesha?
-    location: "Indonesia"
-    followers: 3186
-    engagement: 2388
-    commentsToLikes: 0.050270
-    id: ck6u414xo12ve0j71p0hr4ysd
-    verified: false
-    hashtags: "#nature, #balicili, #travelphotography, #travelrealindia"
+    hashtags: "#balivibes, #loveintentionally, #balidaily, #balilove"
   - username: "nomad_habits"
     fullname: >-
-      INTERNATIONAL PHOTOGRAPHER
+      PHOTOGRAPHY BUSINESS COACH
     location: "Indonesia"
-    followers: 21035
-    engagement: 227
-    commentsToLikes: 0.047282
+    followers: 20710
+    engagement: 270
+    commentsToLikes: 0.058105
     id: ck5zuvwiv351r0i14pg8agc3e
     verified: false
-    hashtags: "#fashionphotographyappreciation, #photoeditingtips, #balimodels, #photoideas"
+    hashtags: "#instagramisfake, #fashionbali, #nomadwosdom, #coronatalk"
   - username: "gophotoshoot"
     fullname: >-
       PAULIUS STEFANOVICIUS | BALI 🌴
     location: "Indonesia"
-    followers: 11567
-    engagement: 450
-    commentsToLikes: 0.017093
+    followers: 11491
+    engagement: 808
+    commentsToLikes: 0.012757
     id: ck15pqq5wz6q30i19vxqlyqh6
     verified: false
-    hashtags: "#ubudvilla, #holiday, #travelinspo, #photographybali"
-  - username: "krsty_d"
+    hashtags: "#walkforfreedom, #artphotographer, #freeworld, #balibagus"
+  - username: "cumlaude_octaviani"
     fullname: >-
-      Kristina Dimitrova
+      ☾𝘂𝗺𝗹𝗮𝘂𝗱𝗲
     location: "Indonesia"
-    followers: 3226
-    engagement: 1001
-    commentsToLikes: 0.042541
-    id: ck6tipsz416sb0j71grayqgyn
+    followers: 26667
+    engagement: 161
+    commentsToLikes: 0.014155
+    id: ck6u0rw11hern0j71om5iqsri
     verified: false
-    hashtags: "#bloggerparadise, #balimodels, #photoshoottime, #foodlovers"
-  - username: "marionmax_stylist"
+    hashtags: "#reddress, #psychocute, #bikinibali, #ootdinspiration"
+  - username: "nai_arief"
     fullname: >-
-      Marion Max
+      𝒩𝒶𝒾  𝒜𝓇𝒾𝑒𝒻 📍Ⓑ̣̣̣Ⓐ̣̣̣Ⓛ̣̣̣Ⓘ
     location: "Indonesia"
-    followers: 8800
-    engagement: 317
-    commentsToLikes: 0.012863
-    id: ck15r7iv96j6r0i19ou38msbe
+    followers: 29996
+    engagement: 260
+    commentsToLikes: 0.027099
+    id: ck6twpfcwtc5f0j71szen451w
     verified: false
-    hashtags: "#canggu, #lookbook, #productshoot, #makeupartist"
+    hashtags: "#balitraining, #baligirls, #independentwoman, #baliunited"
+  - username: "wonderful.indonesiaku"
+    fullname: >-
+      Generasi Pesona Indonesia
+    location: "Indonesia"
+    followers: 211661
+    engagement: 119
+    commentsToLikes: 0.010624
+    id: ck5zik7akfv560i14xbmdqsxt
+    verified: false
+    hashtags: "#southeastasian, #ruangdetikmuslim, #negriakhirat, #photooftheday"
+  - username: "marialerner"
+    fullname: >-
+      Maria Lerner
+    location: "Indonesia"
+    followers: 9973
+    engagement: 467
+    commentsToLikes: 0.073141
+    id: ck5hkl8teimiy0i11q9a7f6ez
+    verified: false
+    hashtags: "#dressforrent, #islandstyle, #blueplanet, #underwaterlife"
+  - username: "glenkrohn"
+    fullname: >-
+      Glen krohn ⚡️
+    location: "Indonesia"
+    followers: 182211
+    engagement: 324
+    commentsToLikes: 0.013005
+    id: ck0u2jlqb006e0i19b9zmavlq
+    verified: false
+    hashtags: "#bali, #35mm"
+  - username: "alicemamonova.com_"
+    fullname: >-
+      PHOTOGRAPHER BALI
+    location: "Indonesia"
+    followers: 18532
+    engagement: 256
+    commentsToLikes: 0.010085
+    id: ck5hkkz9cim1w0i11cqywxq8m
+    verified: false
+    hashtags: "#baliphotographer, #photographerbali, #photohrapherbali, #facetimephotoshoot"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In India In 2020
 description: >-
-  Find top fitness Instagram influencers in India in 2020. Most popular hashtags: #fashionblogger #mensfashion #fashion #delhi.
+  Find top fitness Instagram influencers in India in 2020. Most popular hashtags: #staysafe #eidmubarak #throwback #love.
 platform: Instagram
 profiles:
   - username: "pappya_gaikwad_official"
     fullname: >-
       PapPya Gaikwad
     location: "India"
-    followers: 1785451
-    engagement: 947
-    commentsToLikes: 0.062626
+    followers: 1858325
+    engagement: 998
+    commentsToLikes: 0.067024
     id: ck0u2mcaj0c8k0i192zla88ka
     verified: false
-    hashtags: "#stayhome, #tiktok, #handwashchallenge, #staysafe"
+    hashtags: ""
   - username: "aamir_khhan"
     fullname: >-
       AAMIR KHAN  Men's fashion
     location: "India"
-    followers: 24950
-    engagement: 684
-    commentsToLikes: 0.090948
+    followers: 25193
+    engagement: 726
+    commentsToLikes: 0.123717
     id: ck8t7gnatgq7a0j7803v0m16d
     verified: false
-    hashtags: "#delhi, #socialawareness, #influencerswanted, #caronavirus"
+    hashtags: "#covid, #facewash, #quarantinelife, #socialawareness"
+  - username: "prakharnarayandubey"
+    fullname: >-
+      Dr.Prakhar 🇮🇳
+    location: "India"
+    followers: 22931
+    engagement: 1234
+    commentsToLikes: 0.057836
+    id: ckap1zlypwqrc0i7871ff3g5o
+    verified: false
+    hashtags: "#lucknowblogger, #fitnessmodel, #blackandwhite, #memes"
+  - username: "beamingdesires"
+    fullname: >-
+      Tanu
+    location: "India"
+    followers: 10255
+    engagement: 1164
+    commentsToLikes: 0.220831
+    id: ck9wftagfqfy30j78ebike2u5
+    verified: false
+    hashtags: "#111grp, #ethnicwear, #may7lockdwn, #eidmubarak"
   - username: "the_indian_messieurs"
     fullname: >-
-      Shivam Gupta | Men's Fashion
+      Shivam Gupta
     location: "India"
-    followers: 17834
-    engagement: 1098
-    commentsToLikes: 0.047510
+    followers: 21251
+    engagement: 1109
+    commentsToLikes: 0.049675
     id: ck6tmcgr07l2x0j71tc2tt54p
     verified: false
-    hashtags: "#manmatters, #malemodel, #floraljewelry, #indianathlete"
-  - username: "sidy.maurya"
+    hashtags: "#smilemore, #dapperoutfits, #coronovirus, #coronavirus2020"
+  - username: "tamarawebb_"
     fullname: >-
-      SIDY_MAURYA
+      TAMARA WEBB 💫
     location: "India"
-    followers: 4417
-    engagement: 2299
-    commentsToLikes: 0.084475
-    id: ck8t45sq05lvw0j78eimy78tt
+    followers: 48725
+    engagement: 753
+    commentsToLikes: 0.036356
+    id: ck8tavj66t8pm0j7872g8sxdw
     verified: false
-    hashtags: "#fashionista, #lifestyle, #mensstyle, #urbanwear"
-  - username: "keyvanshahgholi.ifbbpro"
+    hashtags: "#healthycarrotcake, #healthybrownie, #lifestyle, #love"
+  - username: "arushi_bhal"
     fullname: >-
-      keyvanshahgholi.ifbbpro
+      Arushi | India
     location: "India"
-    followers: 18810
-    engagement: 1149
-    commentsToLikes: 0.042367
-    id: ck0w2ejvtnyn20i19oi4pzls5
+    followers: 29761
+    engagement: 1201
+    commentsToLikes: 0.038443
+    id: ck0tw9ub9ejkg0i194133wpuu
     verified: false
-    hashtags: "#strong, #fitlife, #sportclothing, #puruslabs"
-  - username: "said_sergeyevich"
+    hashtags: "#cinephile, #yourshot, #indiastreets, #shotonphone"
+  - username: "harshitsinghofficial"
     fullname: >-
-      Chestbrah
+      Harshit Singh
     location: "India"
-    followers: 331810
-    engagement: 336
-    commentsToLikes: 0.032674
-    id: ck5zya33c9i3u0i14wib0me18
+    followers: 35110
+    engagement: 525
+    commentsToLikes: 0.067394
+    id: ck5qaiqdngmbb0i11kstqxni0
     verified: false
-    hashtags: ""
-  - username: "bijendra_s"
+    hashtags: "#2020, #weddinglehenga, #goldjewellery, #indianethnics"
+  - username: "vishalrpanchal"
     fullname: >-
-      Bijendra Singh🇮🇳
+      Fitness Model Influncr YouTube
     location: "India"
-    followers: 24087
-    engagement: 2629
-    commentsToLikes: 0.031417
-    id: ck0w14l5ehj7n0i19rxwp6h2q
+    followers: 36437
+    engagement: 473
+    commentsToLikes: 0.152857
+    id: ckap7skd0ldlt0i78p8q4yiwx
     verified: false
-    hashtags: "#beastmode, #npc, #dedication, #mensphysique"
-  - username: "radhasrevolution"
+    hashtags: "#youtubehair, #hairstyle, #indianblogger, #hairfallcontrol"
+  - username: "rahulwarns"
     fullname: >-
-      Radha Shah
+      Influencer | Model | Blogger
     location: "India"
-    followers: 38446
-    engagement: 366
-    commentsToLikes: 0.258042
-    id: ck5cargq3dzju0i118j7fjm4a
+    followers: 7108
+    engagement: 1731
+    commentsToLikes: 0.146699
+    id: ck9wh4tbew8zb0j784a8auj2r
     verified: false
-    hashtags: "#d1milano, #d1milanogirls"
-  - username: "ayushi11110"
-    fullname: >-
-      Ayushi Rajput
-    location: "India"
-    followers: 19446
-    engagement: 500
-    commentsToLikes: 0.103605
-    id: ck8t73yn1fkg00j78s7dbctgo
-    verified: false
-    hashtags: ""
-  - username: "alphayash"
-    fullname: >-
-      Yash Sharma
-    location: "India"
-    followers: 29826
-    engagement: 1422
-    commentsToLikes: 0.024825
-    id: ck8t0ziamtwq00j78vh1sdk7d
-    verified: false
-    hashtags: ""
+    hashtags: "#icerink, #influencerstyle, #loveyourself, #followforfollow"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Rome In 2020
 description: >-
-  Find top Instagram influencers in Rome in 2020. Most popular hashtags: #iorestoacasa #picoftheday #makeup #model.
+  Find top Instagram influencers in Rome in 2020. Most popular hashtags: # #aesthetic #quarantinelife #homedecor.
 platform: Instagram
 profiles:
   - username: "camillafalsini"
     fullname: >-
       C A M I L L A F A L S I N I
     location: "Italy"
-    followers: 19564
-    engagement: 422
-    commentsToLikes: 0.013000
+    followers: 19699
+    engagement: 339
+    commentsToLikes: 0.009725
     id: ck0w0hwchea7c0i19tutwwcc5
     verified: false
-    hashtags: "#collaboration, #arte, #mural, #thisisnotazoo"
-  - username: "anna.targa"
+    hashtags: "#illustratioartists, #wallpainting, #taurus, #stayhome"
+  - username: "domisferra"
     fullname: >-
-      Anna Targa
+      D O M I Z I A N A 🇮🇹
     location: "Italy"
-    followers: 27402
-    engagement: 757
-    commentsToLikes: 0.096262
-    id: ck5bve8lyjhgf0i11sr9hcw8q
+    followers: 14412
+    engagement: 1690
+    commentsToLikes: 0.085428
+    id: ck5c36435yo830i11sd1wjl9v
     verified: false
-    hashtags: "#myself, #portraits, #portraitartist, #cityports"
-  - username: "angelicaceci95"
+    hashtags: "#staypretty, #goldmask, #sandals, #bdaygirl"
+  - username: "lucreziaguidone"
     fullname: >-
-      Angelica 💙
+      Lucrezia Guidone
     location: "Italy"
-    followers: 3037
-    engagement: 3177
-    commentsToLikes: 0.115896
-    id: ck8t5wrudbi500j78diegkd83
+    followers: 17402
+    engagement: 1002
+    commentsToLikes: 0.101175
+    id: ck6tsrv4k6hhu0j71qb1qnrw2
     verified: false
-    hashtags: "#fititalia, #style, #beauty, #health"
+    hashtags: "#internogiorno, #ogataphoto, #lostinnyc, #restiamoacasa"
   - username: "gianmarco_rottaro"
     fullname: >-
-      So.Gian👽
+      So.Gian🌹
     location: "Italy"
-    followers: 784325
-    engagement: 2574
-    commentsToLikes: 0.019808
+    followers: 829778
+    engagement: 2603
+    commentsToLikes: 0.019945
     id: ck8weinxje3tv0j787v4ljm72
     verified: false
-    hashtags: "#dgmillennialskin, #adv, #dgtiktok, #dgfattoamano"
-  - username: "annarunny"
-    fullname: >-
-      Anna
-    location: "Italy"
-    followers: 4352
-    engagement: 1761
-    commentsToLikes: 0.139162
-    id: ck8tdnhdr41um0j78t0igsput
-    verified: false
-    hashtags: "#videogelso, #enertoritalia, #lung8, #asicseurope"
-  - username: "valentina.fitmum"
-    fullname: >-
-      🏋️‍♂️FITMOM🏋️‍♂️
-    location: "Italy"
-    followers: 5243
-    engagement: 1897
-    commentsToLikes: 0.205335
-    id: ck5zshjxzyibf0i14l9nnc87z
-    verified: false
-    hashtags: "#fitnesslifestyle, #instaworkout, #instamoment, #instamakeup"
-  - username: "federipalermo"
-    fullname: >-
-      Federica Palermo
-    location: "Italy"
-    followers: 9733
-    engagement: 1314
-    commentsToLikes: 0.067556
-    id: ck8tb515oub0w0j78v2iq6sq0
-    verified: false
-    hashtags: "#poser, #hype, #longhair, #purple"
-  - username: "maxman80_"
-    fullname: >-
-      Massimiliano Mancini
-    location: "Italy"
-    followers: 602
-    engagement: 1950
-    commentsToLikes: 0.115249
-    id: ck8t3uifh4jmm0j78mycbipab
-    verified: false
-    hashtags: "#vintageportrait, #vintageoutfit, #redblue, #classicstyles"
-  - username: "tatianafarnese"
-    fullname: >-
-      Tatianita
-    location: "Italy"
-    followers: 100926
-    engagement: 720
-    commentsToLikes: 0.024993
-    id: ck6uav7a85uuz0j713111dnv0
-    verified: false
-    hashtags: "#sofa, #modaslow, #florence, #athens"
+    hashtags: "#adv, #dgtiktok, #dgfattoamano, #dghandmade"
   - username: "davide.264"
     fullname: >-
       DAVIDE NAPOLITANO
     location: "Italy"
-    followers: 35746
-    engagement: 392
-    commentsToLikes: 0.140436
+    followers: 36847
+    engagement: 523
+    commentsToLikes: 0.105336
     id: ck8ta4h3wqfxz0j78u8yly655
     verified: false
-    hashtags: "#animals, #vivalavida, #winner, #iorestoacasa"
+    hashtags: "#serie, #mare, #jordan, #crossfit"
+  - username: "kimera.justpeach"
+    fullname: >-
+      Kim Suicide 🏳️‍🌈
+    location: "Italy"
+    followers: 22481
+    engagement: 681
+    commentsToLikes: 0.072816
+    id: ckap3hfps30h10i787luk8knk
+    verified: false
+    hashtags: ""
+  - username: "kiarabenedetto_"
+    fullname: >-
+      Kiara | Travel | Fashion
+    location: "Italy"
+    followers: 10020
+    engagement: 995
+    commentsToLikes: 0.234481
+    id: ck0w46qjax3gf0i19jee3xm1y
+    verified: false
+    hashtags: "#casely, #getcasely, #yoins, #yoinsusa"
+  - username: "sophiaippoliti"
+    fullname: >-
+      Sophia Ippoliti
+    location: "Italy"
+    followers: 57723
+    engagement: 461
+    commentsToLikes: 0.058532
+    id: ck0w39u0esb3i0i1995r6hh2z
+    verified: false
+    hashtags: "#sophiaippoliti, #closeup, #aesthetically, #simplicity"
+  - username: "gabriele__diamanti"
+    fullname: >-
+      𝓖abriele 𝓓iamanti
+    location: "Italy"
+    followers: 19143
+    engagement: 1122
+    commentsToLikes: 0.038443
+    id: ck8sy9ezck6ka0j78q7k9qniy
+    verified: false
+    hashtags: "#horseriding, #home, #kimano"
+  - username: "alessandro_art_draw"
+    fullname: >-
+      Alessandro 🇮🇹
+    location: "Italy"
+    followers: 20607
+    engagement: 1212
+    commentsToLikes: 0.072207
+    id: ckaowbnyt87mm0i78tkew8wd2
+    verified: false
+    hashtags: ""
 ---

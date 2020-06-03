@@ -1,56 +1,86 @@
 ---
 title: Top 10 Music Instagram Influencers In Turkey In 2020
 description: >-
-  Find top music Instagram influencers in Turkey in 2020. Most popular hashtags: #repost #great #yak #world.
+  Find top music Instagram influencers in Turkey in 2020. Most popular hashtags: #stayhome #summer #love #halloween.
 platform: Instagram
 profiles:
   - username: "massakaofficial"
     fullname: >-
       MASSAKA
     location: "Turkey"
-    followers: 407869
-    engagement: 1157
-    commentsToLikes: 0.030916
+    followers: 416073
+    engagement: 1223
+    commentsToLikes: 0.044553
     id: ck6ubr9hmb8n90j717bfrmf6t
     verified: true
-    hashtags: "#gothic, #massaka, #massakaturkeytour, #massakafamily"
+    hashtags: "#eskiyadunyayahukumdarolmaz, #7g, #amerika, #tarz"
+  - username: "osmanyildizofficial"
+    fullname: >-
+      Osman Yildiz
+    location: "Turkey"
+    followers: 69438
+    engagement: 239
+    commentsToLikes: 0.075175
+    id: ck5znvl9ip8ai0i14bj6k1v41
+    verified: false
+    hashtags: "#todayimwearing, #beautiful, #ootd, #style"
   - username: "atliemree"
     fullname: >-
       Emre Atlı
     location: "Turkey"
-    followers: 34956
-    engagement: 829
-    commentsToLikes: 0.019683
+    followers: 34567
+    engagement: 891
+    commentsToLikes: 0.017776
     id: ck14hxki2cn3w0i19p6uyac0o
     verified: false
-    hashtags: "#yak, #halloween, #yak"
-  - username: "djkbilly"
+    hashtags: "#yak, #halloween"
+  - username: "deryaulugg"
     fullname: >-
-      Onur Kaymak
+      Derya ULUĞ
     location: "Turkey"
-    followers: 11104
-    engagement: 525
-    commentsToLikes: 0.064431
-    id: ck5zsqxhtz11u0i144vv6dn1z
-    verified: false
-    hashtags: "#tourlife, #djkbilly, #ederlezi, #youtube"
+    followers: 779831
+    engagement: 388
+    commentsToLikes: 0.012114
+    id: ck14hxl49cn6e0i198rb5w9y5
+    verified: true
+    hashtags: "#mervekenanwedding, #10toqueschallenge, #quarantinedays, #nofilter"
   - username: "chrischavezyoga"
     fullname: >-
       Chris Chavez
     location: "Turkey"
-    followers: 18392
-    engagement: 358
-    commentsToLikes: 0.035448
+    followers: 18973
+    engagement: 374
+    commentsToLikes: 0.038567
     id: ck14hs24fbucv0i1936c7z32v
     verified: false
-    hashtags: "#teamwork, #happynewyear2020, #loveyou, #evdehareket"
+    hashtags: "#trust, #positivevibes, #onearmhandstand, #yogapose"
+  - username: "handesubasicom"
+    fullname: >-
+      Hande Subaşı
+    location: "Turkey"
+    followers: 167843
+    engagement: 368
+    commentsToLikes: 0.013667
+    id: ck5hsjvhzwpq70i111ix7etml
+    verified: true
+    hashtags: "#kuzen, #kaan, #londra, #evdekal"
+  - username: "djkbilly"
+    fullname: >-
+      Onur Kaymak
+    location: "Turkey"
+    followers: 10986
+    engagement: 538
+    commentsToLikes: 0.060334
+    id: ck5zsqxhtz11u0i144vv6dn1z
+    verified: false
+    hashtags: "#summer, #summer19, #weekendvibes, #stayhome"
   - username: "kozmos.35"
     fullname: >-
       K 0 Z M 0 S
     location: "Turkey"
-    followers: 10959
-    engagement: 901
-    commentsToLikes: 0.016773
+    followers: 10595
+    engagement: 939
+    commentsToLikes: 0.018788
     id: ck5hsn6xiwv950i11c2kbnt6m
     verified: false
     hashtags: "#heykozinthegame"
@@ -58,50 +88,20 @@ profiles:
     fullname: >-
       Rıza 🇹🇷
     location: "Turkey"
-    followers: 2676
-    engagement: 2628
-    commentsToLikes: 0.269014
+    followers: 2681
+    engagement: 2729
+    commentsToLikes: 0.254169
     id: ck5q498xno8z20i11uhgefqrs
     verified: false
-    hashtags: "#scattohdr, #phoenix, #new, #police"
-  - username: "_orhan.yavuz_"
+    hashtags: ""
+  - username: "karadumanmusic"
     fullname: >-
-      Orh@n Y@vuz
+      Emrah Karaduman
     location: "Turkey"
-    followers: 4971
-    engagement: 2957
-    commentsToLikes: 0.189662
-    id: ck14h95lf95se0i198kt09b8w
-    verified: false
-    hashtags: "#longexpoelite, #bestnatureshots, #gununkaresi, #awesomeglobe"
-  - username: "kabuskerim"
-    fullname: >-
-      Kabus Kerim
-    location: "Turkey"
-    followers: 13950
-    engagement: 792
-    commentsToLikes: 0.030664
-    id: ck5chkt5vqyqg0i11wqk4w85p
-    verified: false
-    hashtags: "#karakan, #1997, #overthetop, #repost"
-  - username: "handesubasicom"
-    fullname: >-
-      Hande Subaşı
-    location: "Turkey"
-    followers: 134104
-    engagement: 255
-    commentsToLikes: 0.010212
-    id: ck5hsjvhzwpq70i111ix7etml
+    followers: 210721
+    engagement: 638
+    commentsToLikes: 0.083501
+    id: ck5hpm0mlrkx00i11l2pqf0ix
     verified: true
-    hashtags: "#storydekalmas, #anniversary, #greece, #evdekal"
-  - username: "ardaydin"
-    fullname: >-
-      Arda Aydın
-    location: "Turkey"
-    followers: 5514
-    engagement: 685
-    commentsToLikes: 0.022331
-    id: ck5ztmgpp0ph40i14ms1jyep5
-    verified: false
-    hashtags: "#uniqbox, #biletix, #ba, #biraderlercabaret"
+    hashtags: "#eastvillage, #ben, #bombarduman, #dmc"
 ---

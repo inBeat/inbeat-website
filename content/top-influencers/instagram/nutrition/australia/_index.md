@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Australia In 2020
 description: >-
-  Find top nutrition Instagram influencers in Australia in 2020. Most popular hashtags: #love #fit #fitnessmotivation #fitfam.
+  Find top nutrition Instagram influencers in Australia in 2020. Most popular hashtags: #bodybuilding #family #weights #supplements.
 platform: Instagram
 profiles:
   - username: "model_over50"
     fullname: >-
       Donna Anna
     location: "Australia"
-    followers: 30805
-    engagement: 674
-    commentsToLikes: 0.054556
+    followers: 32847
+    engagement: 762
+    commentsToLikes: 0.052948
     id: ck8tctjty0mgv0j78fjqn2tyd
     verified: false
-    hashtags: "#plantbasedwoman, #plantbasedcoach, #positivemindset, #coronaquarantine"
+    hashtags: "#plantbasedcoach, #whenthisisover, #athome, #50pluswomenrock"
   - username: "marven_yacoub"
     fullname: >-
-      
+      Marven Yacoub
     location: "Australia"
-    followers: 51753
-    engagement: 226
-    commentsToLikes: 0.052224
+    followers: 54867
+    engagement: 254
+    commentsToLikes: 0.064609
     id: ck6tu3mm2e41z0j71plduu8k1
     verified: false
-    hashtags: ""
+    hashtags: "#fashion, #instafashion, #mensfashion, #lifestyle"
   - username: "holly_dollyy"
     fullname: >-
-      Holly Murray
+      🦋 Holly
     location: "Australia"
-    followers: 66573
-    engagement: 227
-    commentsToLikes: 0.102907
+    followers: 65408
+    engagement: 239
+    commentsToLikes: 0.093719
     id: ck8t3ctsx2s650j78h7tqky4p
     verified: false
-    hashtags: "#fitnessmodel, #girlsthatlift, #bodybuilding, #bikinifitness"
+    hashtags: "#gymsharkwomen, #fitsporation, #hiitworkout, #beachwear"
+  - username: "majamilicevic_"
+    fullname: >-
+      MAJA MILICEVIC
+    location: "Australia"
+    followers: 6785
+    engagement: 700
+    commentsToLikes: 0.102478
+    id: ck5c45s850nu30i11v30xcxye
+    verified: false
+    hashtags: "#ariesseason, #realgirlsofbody, #cottonon"
+  - username: "chemo_diaries"
+    fullname: >-
+      Ashley Williams
+    location: "Australia"
+    followers: 20011
+    engagement: 296
+    commentsToLikes: 0.134873
+    id: ck15un6kinznj0i19l5hwj9yz
+    verified: false
+    hashtags: "#2020vision, #desistrong, #reminiscing, #professional"
   - username: "dancavalcante90"
     fullname: >-
       Daniel Cavalcante
     location: "Australia"
-    followers: 6217
-    engagement: 882
-    commentsToLikes: 0.062188
+    followers: 6198
+    engagement: 893
+    commentsToLikes: 0.064862
     id: ck6topxnbffo60j71qrx6q4t6
     verified: false
-    hashtags: "#fitfam, #tropicalfruits, #abs, #fitspo"
-  - username: "lornamunro"
-    fullname: >-
-      L O R N A   M U N R O
-    location: "Australia"
-    followers: 8943
-    engagement: 814
-    commentsToLikes: 0.045093
-    id: ck5zt9fqkzzmi0i140msqcnna
-    verified: false
-    hashtags: "#motelrocks, #bestchardyever, #winemachine, #sillyszn"
-  - username: "mattoreilly_wbffpro"
+    hashtags: "#igfitness, #wonderwoman, #gaymuscle, #bodybuilding"
+  - username: "mattoreilly_official"
     fullname: >-
       Matt O'Reilly WBFF PRO
     location: "Australia"
-    followers: 22741
-    engagement: 257
-    commentsToLikes: 0.059927
+    followers: 23676
+    engagement: 265
+    commentsToLikes: 0.069629
     id: ck14ieukgf2sr0i19adhu87kt
     verified: false
-    hashtags: "#supportthelocal, #fit, #love, #me"
-  - username: "ashleyannaca"
+    hashtags: "#live, #wbffpro, #fatloss, #weights"
+  - username: "tayahpickavance"
     fullname: >-
-      Ashley Annaca
+      TAYAH PICKAVANCE ♡
     location: "Australia"
-    followers: 35611
-    engagement: 147
-    commentsToLikes: 0.122299
-    id: ck136bddr5nk80i19qtflci2s
+    followers: 11630
+    engagement: 510
+    commentsToLikes: 0.092178
+    id: ck55nbyrl5vxf0i11n9hkgmxh
     verified: false
-    hashtags: "#cuasummerdeck"
-  - username: "victorwegnez"
+    hashtags: "#isolationlife, #stayhome, #oscarwylee, #prepthings"
+  - username: "dewii.veg"
     fullname: >-
-      Victor Wegnez
+      Dewii
     location: "Australia"
-    followers: 15369
-    engagement: 1538
-    commentsToLikes: 0.012107
-    id: ck0vv8flxo07q0i194tobyl1h
-    verified: true
-    hashtags: "#lugaresincreibles, #aaahfich, #salutcraaabeee, #dog"
+    followers: 82716
+    engagement: 978
+    commentsToLikes: 0.007441
+    id: ck5zpn72zsywl0i148khl2952
+    verified: false
+    hashtags: "#vanocebeznasili, #hlavnebezvycitek, #britney, #foodie"
   - username: "nickyprice_"
     fullname: >-
       Nicky Price
     location: "Australia"
-    followers: 46473
-    engagement: 514
-    commentsToLikes: 0.019684
+    followers: 45173
+    engagement: 480
+    commentsToLikes: 0.022369
     id: ck0udruw2jv800i19pl55sia6
     verified: false
     hashtags: "#ck"
-  - username: "kelli_ann_blanchfield"
-    fullname: >-
-      Kelli Ann Blanchfield
-    location: "Australia"
-    followers: 29178
-    engagement: 140
-    commentsToLikes: 0.053699
-    id: ck5cid2z7sfng0i11s7kpwa1v
-    verified: false
-    hashtags: "#nightalone, #rechargetime, #thursdaymood, #stayinghealthy"
 ---

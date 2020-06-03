@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In San Antonio In 2020
 description: >-
-  Find top models Instagram influencers in San Antonio in 2020. Most popular hashtags: #texas #model #sanantonio #roadtomissteenusa.
+  Find top models Instagram influencers in San Antonio in 2020. Most popular hashtags: #model #sanantonio #models #2020.
 platform: Instagram
 profiles:
   - username: "alatte.toeat"
     fullname: >-
       Coffee & Food | Houston
     location: "United States"
-    followers: 2483
-    engagement: 2744
-    commentsToLikes: 0.223161
+    followers: 2443
+    engagement: 2886
+    commentsToLikes: 0.214539
     id: ck6tmpbdc89ne0j71jgf880dx
     verified: false
-    hashtags: "#houston, #dailypizza, #houstonfoodie, #cheesepulling"
-  - username: "nickwspalding"
+    hashtags: "#nationalpizzaday, #sorrynosalad, #foodblogger, #dailypizza"
+  - username: "peony_kaye"
     fullname: >-
-      Nick Spalding
+      Sam
     location: "United States"
-    followers: 14670
-    engagement: 701
-    commentsToLikes: 0.015418
-    id: ck15r7wt86l8t0i1922mdwsbw
+    followers: 5300
+    engagement: 971
+    commentsToLikes: 0.033471
+    id: ck9wolkpl5nd10j78dow2i197
     verified: false
-    hashtags: "#designer, #picoftheday, #satx, #atx"
-  - username: "missplanetguyana"
+    hashtags: "#race, #twitchstreamer, #modelling, #instamodels"
+  - username: "kobraandthelotusofficial"
     fullname: >-
-      Miss San Antonio US 2020
+      Kobra and the Lotus
     location: "United States"
-    followers: 6014
-    engagement: 592
-    commentsToLikes: 0.069526
+    followers: 21086
+    engagement: 223
+    commentsToLikes: 0.019083
+    id: ck14i61fidtfy0i197a0tqv98
+    verified: true
+    hashtags: "#photoshoot, #tommykarevik, #amazing, #metalfestival"
+  - username: "misssanantonious2020"
+    fullname: >-
+      Miss Guyana 2020 👑
+    location: "United States"
+    followers: 6046
+    engagement: 579
+    commentsToLikes: 0.070729
     id: ck6u4j0sy3ztk0j710is8q2s2
     verified: false
-    hashtags: "#devon, #artists, #marketingtip, #fashionmodel"
+    hashtags: "#branding, #skincare, #cleanbeauty, #pleasedonate"
+  - username: "shotswith.isacc"
+    fullname: >-
+      
+    location: "United States"
+    followers: 7241
+    engagement: 843
+    commentsToLikes: 0.034647
+    id: ck9wgblmgspcp0j78mcs5j0zc
+    verified: false
+    hashtags: "#sonyaloha, #highschool, #collegegraduation, #rapper"
   - username: "dariussongaila"
     fullname: >-
       Darius Songaila
     location: "United States"
-    followers: 11205
-    engagement: 514
-    commentsToLikes: 0.006444
+    followers: 11186
+    engagement: 495
+    commentsToLikes: 0.007080
     id: ck6u4k60o46la0j71uo51gg7f
     verified: true
-    hashtags: "#turtleinn, #wilddog, #sunnyday, #beach"
-  - username: "nbsprincess__"
+    hashtags: "#gospursgo, #tulips, #sand, #kobe"
+  - username: "lafamosaserena"
     fullname: >-
-      👑
+      𝔖𝔢𝔯𝔢𝔫𝔞 𝔍𝔦𝔪𝔢𝔫𝔢𝔷 🦂
     location: "United States"
-    followers: 15138
-    engagement: 2798
-    commentsToLikes: 0.007682
-    id: ck8t9qy40p0rj0j781f6xrdjf
+    followers: 13217
+    engagement: 5145
+    commentsToLikes: 0.017605
+    id: ckaov6mvs3aac0i78g5571t9a
     verified: false
-    hashtags: "#weekendvibesonly, #lowered, #quarentinelife, #truckmodel"
-  - username: "anissa.mendez"
+    hashtags: "#midlandtx, #huapangos2019, #buckle, #taquache"
+  - username: "karimechequer"
     fullname: >-
-      Anissa Mendez✨
+      Karime Chequer
     location: "United States"
-    followers: 8196
-    engagement: 1082
-    commentsToLikes: 0.020444
-    id: ck6u68e5de3sz0j71rbyke5df
+    followers: 19095
+    engagement: 341
+    commentsToLikes: 0.050296
+    id: ck6udmxw9m0gv0j716730eqns
     verified: false
-    hashtags: "#loveyourself, #selflove, #model, #photoshoot"
-  - username: "ladybleu_ls3_queen"
+    hashtags: "#blogger, #travellifestyle, #guanajuatohotel, #basta"
+  - username: "sonido.latin.entertainment"
     fullname: >-
-      Mir
+      𝑺𝒐𝒏𝒊𝒅𝒐 𝑳𝒂𝒕𝒊𝒏 𝑬𝒏𝒕𝒆𝒓𝒕𝒂𝒊𝒏𝒎𝒆𝒏𝒕
     location: "United States"
-    followers: 9298
-    engagement: 782
-    commentsToLikes: 0.055030
-    id: ck15s1ergar2t0i19z58282q9
+    followers: 83177
+    engagement: 556
+    commentsToLikes: 0.037866
+    id: ckaov6umg3b8r0i780m0erjlv
     verified: false
-    hashtags: "#realestate, #bbr, #loveyourself, #friendssupportfriends"
-  - username: "modeledenortiz"
+    hashtags: "#congratulations, #graduation, #quincea, #goals"
+  - username: "paulinaduczman"
     fullname: >-
-      Eden Ortiz|Model|Promo
+      Paulina Duczman
     location: "United States"
-    followers: 41785
-    engagement: 184
-    commentsToLikes: 0.062103
-    id: ck6u6ux1ahv750j71bdq03bly
+    followers: 86100
+    engagement: 336
+    commentsToLikes: 0.031941
+    id: ck0ub9tfue5hi0i1954qhdbim
     verified: false
-    hashtags: "#whips, #valentines, #64impalass, #holidays"
-  - username: "taylormichellelong"
-    fullname: >-
-      Taylor Long
-    location: "United States"
-    followers: 7706
-    engagement: 532
-    commentsToLikes: 0.039717
-    id: ck6u2xnqmuigw0j715isoxc28
-    verified: false
-    hashtags: "#liketoknowit, #portrait, #bishopartsdistrict, #moodygrams"
-  - username: "anapeli_"
-    fullname: >-
-      ANA
-    location: "United States"
-    followers: 5905
-    engagement: 459
-    commentsToLikes: 0.057906
-    id: ck8syjs62l12a0j780ed09gnj
-    verified: false
-    hashtags: "#tomboystyle, #satxfashionblogger, #messageoftheday, #fashioninfluencer"
+    hashtags: "#motherslove, #werock, #portrait, #selfportrait"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In New Delhi In 2020
 description: >-
-  Find top fashion Instagram influencers in New Delhi in 2020. Most popular hashtags: #fashionblogger #ootd #delhiblogger #styleblogger.
+  Find top fashion Instagram influencers in New Delhi in 2020. Most popular hashtags: #stayhome #beauty #throwback #photooftheday.
 platform: Instagram
 profiles:
-  - username: "itsallaboutaish"
+  - username: "basicallymenz"
     fullname: >-
-      AISHWARI SURVE👑
+      SANDEEP RAI
     location: "India"
-    followers: 10068
-    engagement: 998
-    commentsToLikes: 0.013626
-    id: ck13codsu1cyb0i19oleqpfnb
+    followers: 40531
+    engagement: 168
+    commentsToLikes: 0.081729
+    id: ckap4umjt8xze0i78org99soe
     verified: false
-    hashtags: "#sunkiss, #autumn, #autumnleaves, #tjori"
+    hashtags: "#ajmer, #indianblogger, #tropicalvibes, #fashiontiktok"
+  - username: "nidhi.solanki"
+    fullname: >-
+      N I D H I   S O L A N K I
+    location: "India"
+    followers: 10111
+    engagement: 984
+    commentsToLikes: 0.019649
+    id: ck0w3hmihtgen0i19s68yh6s2
+    verified: false
+    hashtags: "#betterwithher, #t20worldcup2020, #coolcolors, #winter"
   - username: "thatstupidclicker"
     fullname: >-
-      That Stupid Clicker
+      Delhi Glamour Photographer
     location: "India"
-    followers: 59227
-    engagement: 203
-    commentsToLikes: 0.008497
+    followers: 64318
+    engagement: 274
+    commentsToLikes: 0.014516
     id: ck14k4jiinoos0i19srf9v0u5
     verified: false
-    hashtags: "#alternatefashion, #editorialphotography, #holi2020, #nature"
+    hashtags: "#beforeandafter, #chill, #mumbaidancers, #fashionstyle"
+  - username: "ashwaryabhutani"
+    fullname: >-
+      Aishwarya Bhutani
+    location: "India"
+    followers: 4294
+    engagement: 1103
+    commentsToLikes: 0.035168
+    id: ck0uaq701cvhl0i19ov2abkwy
+    verified: false
+    hashtags: "#weddingbells, #5daysoffashion, #womensday, #springseason"
   - username: "harshkhullarofficial"
     fullname: >-
       HARSH KHULLAR™
     location: "India"
-    followers: 26821
-    engagement: 95
-    commentsToLikes: 0.019242
+    followers: 26582
+    engagement: 102
+    commentsToLikes: 0.023997
     id: ck5hmq0e1meso0i11c6b2xqs4
     verified: false
-    hashtags: "#karanajula, #punjabisingers, #punjabisongs, #bhuvanbam"
+    hashtags: "#powerlook, #fashiondesigner, #punjabisong, #makeupartistdelhi"
+  - username: "radhikamehra"
+    fullname: >-
+      Radhika Mehra
+    location: "India"
+    followers: 24472
+    engagement: 470
+    commentsToLikes: 0.012822
+    id: ck5hi16bmb3yr0i11ri7xw0kw
+    verified: false
+    hashtags: "#reset, #selfisolation, #sareelove, #stylefile"
   - username: "aakriti17_tis"
     fullname: >-
       Aakriti - The Iconic Soul
     location: "India"
-    followers: 131727
-    engagement: 227
-    commentsToLikes: 0.027042
+    followers: 129344
+    engagement: 213
+    commentsToLikes: 0.026702
     id: ck8sxb8r1grdd0j78jffpp943
     verified: false
-    hashtags: "#fashioninfluencer, #loveisintheair, #nailextensions, #theiconicsoul"
-  - username: "rosekawatra"
-    fullname: >-
-      Rose Kawatra
-    location: "India"
-    followers: 18112
-    engagement: 242
-    commentsToLikes: 0.020823
-    id: ck13capttzfcq0i19d9rhxugd
-    verified: false
-    hashtags: "#pantone2020, #ootd, #radiatepositivity, #emojichallenge"
+    hashtags: "#coloursofethnicity, #iciciprudentiallife, #holi2020, #stylepost"
   - username: "mehakjaswalmua"
     fullname: >-
       Mehak Jaswal
     location: "India"
-    followers: 21285
-    engagement: 296
-    commentsToLikes: 0.098941
+    followers: 21975
+    engagement: 252
+    commentsToLikes: 0.108230
     id: ck8t6mui7e5yf0j78e113gauv
     verified: false
-    hashtags: "#lalishq, #followforfollow, #gujarati, #makeupartist"
+    hashtags: "#gossipgirl2, #huskylove, #sister, #smokeyeye"
   - username: "miss_preet__"
     fullname: >-
       Preet Kaur | Blogger
     location: "India"
-    followers: 3255
-    engagement: 2179
-    commentsToLikes: 0.115197
+    followers: 4911
+    engagement: 1295
+    commentsToLikes: 0.129325
     id: ck8tc5kzcycwv0j78m6t6krq8
     verified: false
-    hashtags: "#indianblog, #indianwear, #voguemagazine, #giveaway"
-  - username: "stylebykritika"
-    fullname: >-
-      KRITIKA GULATI | Fashion Blog
-    location: "India"
-    followers: 11286
-    engagement: 892
-    commentsToLikes: 0.074874
-    id: ck8t95v5vmziw0j78sqh10a6q
-    verified: false
-    hashtags: "#sbk, #indianfashionblog, #fashion, #quaraaantineeee143"
-  - username: "palak.jain.9028"
-    fullname: >-
-      Palak Jain👑 沛捷🥰
-    location: "India"
-    followers: 3120
-    engagement: 2258
-    commentsToLikes: 0.126336
-    id: ck8t9rbjgp27c0j78ofirxhud
-    verified: false
-    hashtags: "#flowerlove06, #youm789, #mafiacorona, #26marlockdown"
+    hashtags: "#lockdown, #foryoumom, #chaiwaliselfie, #kolkatablogger"
   - username: "kiara.fulara"
     fullname: >-
       Kiara 👰🏻
     location: "India"
-    followers: 54456
-    engagement: 2738
-    commentsToLikes: 0.007341
+    followers: 55089
+    engagement: 2641
+    commentsToLikes: 0.008278
     id: ck8werlb1ei8t0j789nw8tukn
     verified: false
-    hashtags: "#savemoney, #jorukagulam, #transformation, #tourist"
+    hashtags: "#makeuptutorials, #mountains, #greenery, #happyholi"
 ---

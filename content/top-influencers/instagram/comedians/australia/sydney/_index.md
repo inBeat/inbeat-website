@@ -1,107 +1,107 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Sydney In 2020
 description: >-
-  Find top comedians Instagram influencers in Sydney in 2020. Most popular hashtags: #netflix #sexeducation #sydney #melbourne.
+  Find top comedians Instagram influencers in Sydney in 2020. Most popular hashtags: #comedian #quarantine #standupcomedy #coronavirus.
 platform: Instagram
 profiles:
-  - username: "cougarmorrison"
+  - username: "thepatonmedia"
     fullname: >-
-      cougar morrison
+      📍SYDNEY | CONTENT CREATOR
     location: "Australia"
-    followers: 16960
-    engagement: 247
-    commentsToLikes: 0.089334
-    id: ck15t3b3zg4ys0i19qgv2m83e
+    followers: 14624
+    engagement: 476
+    commentsToLikes: 0.027929
+    id: ck13807cvdvhf0i1916yhtwiy
     verified: false
-    hashtags: "#sydney, #booty, #cooking, #dragqueenmerch"
-  - username: "joelcreasey"
+    hashtags: "#cityviews, #rain, #bokeh, #nzphotographer"
+  - username: "aarizsaiyed"
     fullname: >-
-      Joel Creasey
+      Aariz
     location: "Australia"
-    followers: 143068
-    engagement: 370
-    commentsToLikes: 0.034827
-    id: ck55kao78yvlz0i11ykcktifp
-    verified: true
-    hashtags: "#skagenstylestud, #eurovision, #collab, #zoossa"
+    followers: 16190
+    engagement: 621
+    commentsToLikes: 0.031345
+    id: ck5pwjctgn37w0i11mo0ti4t6
+    verified: false
+    hashtags: "#2003, #splitscreen, #catsofinsta, #memories"
+  - username: "supanovaexpo"
+    fullname: >-
+      Supanova Comic Con & Gaming 💥
+    location: "Australia"
+    followers: 44070
+    engagement: 214
+    commentsToLikes: 0.024894
+    id: ck0tyncg1ndnt0i192iloqpnv
+    verified: false
+    hashtags: "#gaming, #crowley, #mmpr, #tntl"
+  - username: "nikkiosborneofficial"
+    fullname: >-
+      Nikki Osborne
+    location: "Australia"
+    followers: 35159
+    engagement: 346
+    commentsToLikes: 0.056412
+    id: ck5cl1n60y2i10i11u15hjj31
+    verified: false
+    hashtags: "#quarantine, #momentscondoms, #pinkdress, #standup"
   - username: "mawaanr"
     fullname: >-
       Mawaan 'MANGO' Rizwan
     location: "Australia"
-    followers: 18765
-    engagement: 443
-    commentsToLikes: 0.026020
+    followers: 19818
+    engagement: 385
+    commentsToLikes: 0.043030
     id: ck6tpf12pjhqu0j71izzdr26b
     verified: true
-    hashtags: "#tuneintoherorange, #sexkidsavedmylife, #internationalwomensday, #sydneymardigras"
-  - username: "geraldinehickey"
+    hashtags: "#jvn, #micf, #babaganoush, #mangodivorce"
+  - username: "joelcreasey"
     fullname: >-
-      geraldinehickey
+      Joel Creasey
     location: "Australia"
-    followers: 7893
-    engagement: 506
-    commentsToLikes: 0.049937
-    id: ck5cbvnhbg8xl0i11hssxx474
-    verified: false
-    hashtags: "#dwts, #birdshow, #hentymachineryfielddays, #nothingsuss"
-  - username: "modernister"
-    fullname: >-
-      Tim Ross.
-    location: "Australia"
-    followers: 68817
-    engagement: 165
-    commentsToLikes: 0.050485
-    id: ck0ucobsdhbe70i19607e483d
+    followers: 145168
+    engagement: 398
+    commentsToLikes: 0.032896
+    id: ck55kao78yvlz0i11ykcktifp
     verified: true
-    hashtags: "#lifebeinit, #30daylegochallenge"
+    hashtags: "#spon, #firstworld, #makelovelouder, #collab"
+  - username: "theageaustralia"
+    fullname: >-
+      The Age
+    location: "Australia"
+    followers: 69050
+    engagement: 63
+    commentsToLikes: 0.044657
+    id: ck5c1871jumzh0i11qfa09aet
+    verified: true
+    hashtags: "#media, #detonate, #wimhofmethod, #demolition"
   - username: "rprtalent"
     fullname: >-
       RPR Talent Management
     location: "Australia"
-    followers: 26496
-    engagement: 78
-    commentsToLikes: 0.031777
+    followers: 25981
+    engagement: 84
+    commentsToLikes: 0.030005
     id: ck13cxxke2pjp0i19t3i1xda2
     verified: false
-    hashtags: "#aussieactor, #actingagency, #teenmodel, #presenter"
-  - username: "joelcreasey"
+    hashtags: "#aussietalent, #melbourneactor, #rileydashwood, #talentagents"
+  - username: "djkrunk"
     fullname: >-
-      Joel Creasey
+      K R U N K !
     location: "Australia"
-    followers: 143068
-    engagement: 370
-    commentsToLikes: 0.034827
-    id: ck55kao78yvlz0i11ykcktifp
-    verified: true
-    hashtags: "#skagenstylestud, #eurovision, #collab, #zoossa"
-  - username: "jessperkins"
-    fullname: >-
-      Jess ‘Bop’ Perkins
-    location: "Australia"
-    followers: 7408
-    engagement: 767
-    commentsToLikes: 0.016031
-    id: ck15pqol9z6h80i19mjd0fkjh
+    followers: 21542
+    engagement: 307
+    commentsToLikes: 0.096639
+    id: ck5ccn068hno50i115ks5is9v
     verified: false
-    hashtags: "#giveaway, #woah, #ausmusictshirtday, #hottest100"
-  - username: "tomoarmstrong"
+    hashtags: "#dj, #ilikethisfnsong, #deorro, #bts"
+  - username: "nikkiosborneofficial"
     fullname: >-
-      Tom Armstrong
+      Nikki Osborne
     location: "Australia"
-    followers: 10285
-    engagement: 631
-    commentsToLikes: 0.017954
-    id: ck13bp720wi1b0i196ubdt70w
+    followers: 35159
+    engagement: 346
+    commentsToLikes: 0.056412
+    id: ck5cl1n60y2i10i11u15hjj31
     verified: false
-    hashtags: "#killtonypodcast, #dollypartonchallange, #outofthemoney, #coronatime"
-  - username: "mawaanr"
-    fullname: >-
-      Mawaan 'MANGO' Rizwan
-    location: "Australia"
-    followers: 18765
-    engagement: 443
-    commentsToLikes: 0.026020
-    id: ck6tpf12pjhqu0j71izzdr26b
-    verified: true
-    hashtags: "#tuneintoherorange, #sexkidsavedmylife, #internationalwomensday, #sydneymardigras"
+    hashtags: "#quarantine, #momentscondoms, #pinkdress, #standup"
 ---

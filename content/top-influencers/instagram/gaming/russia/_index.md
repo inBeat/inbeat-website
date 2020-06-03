@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Russia In 2020
 description: >-
-  Find top gaming Instagram influencers in Russia in 2020. Most popular hashtags: #cosplay #cosplaygirl #cosplayer #gaming.
+  Find top gaming Instagram influencers in Russia in 2020. Most popular hashtags: #gaming #comics #gamecosplay #leagueoflegends.
 platform: Instagram
 profiles:
+  - username: "i_chios"
+    fullname: >-
+      Anya °iChios°
+    location: "Russia"
+    followers: 74992
+    engagement: 747
+    commentsToLikes: 0.021749
+    id: ck8t85rojj7jb0j783gul8asg
+    verified: false
+    hashtags: "#mk11, #femalecosplay, #bleachfan, #nintendo64"
+  - username: "julisvulis"
+    fullname: >-
+      PICSART течёт по венам
+    location: "Russia"
+    followers: 2744
+    engagement: 2184
+    commentsToLikes: 0.403303
+    id: ck8td7k9u27zg0j7806kmakut
+    verified: false
+    hashtags: "#picsartedit, #peachy, #vrclub, #beatsabervr"
+  - username: "saoirsia"
+    fullname: >-
+      Margarita
+    location: "Russia"
+    followers: 13331
+    engagement: 2385
+    commentsToLikes: 0.028219
+    id: ck0vz4bx478kt0i196e8mordp
+    verified: false
+    hashtags: "#catpainting, #ipadproart, #gamer, #nami"
   - username: "sishka14"
     fullname: >-
       Бессонова Александра
     location: "Russia"
-    followers: 117077
-    engagement: 620
-    commentsToLikes: 0.007322
+    followers: 126093
+    engagement: 672
+    commentsToLikes: 0.007353
     id: ck5pvoln7ivzt0i114v8yp9f7
     verified: false
-    hashtags: "#cosplaygirl, #beancosplay, #lucicosplay, #queenofpain"
-  - username: "rgtcandy"
+    hashtags: "#elspeth, #elspethtirel, #prerelease, #sheprop"
+  - username: "dessie_stoyanova"
     fullname: >-
-      Galina Zhukovskaya
+      Dessislava Stoyanova
     location: "Russia"
-    followers: 15320
-    engagement: 1299
-    commentsToLikes: 0.017124
-    id: ck0tvwjqud3je0i192aooftd3
+    followers: 34226
+    engagement: 592
+    commentsToLikes: 0.016950
+    id: ck6tuyy9nj85p0j71k8fb03v9
     verified: false
-    hashtags: "#teamyen, #jenneferofvengerberg, #thewitcher, #rgtcandy"
-  - username: "disimondi"
-    fullname: >-
-      Di Simon
-    location: "Russia"
-    followers: 56381
-    engagement: 651
-    commentsToLikes: 0.006922
-    id: ck0w340skrhxs0i19a5yeujca
-    verified: false
-    hashtags: "#casualstyle, #pink, #kunka, #survival"
+    hashtags: "#crisis, #lovethesun, #samsunghealth, #tvshow"
   - username: "mightyraccoon"
     fullname: >-
       Enot | Alice Spiegel
     location: "Russia"
-    followers: 37475
-    engagement: 965
-    commentsToLikes: 0.011431
+    followers: 38763
+    engagement: 883
+    commentsToLikes: 0.012897
     id: ck5qdtpuyxa6g0i11u6mhz4ja
     verified: false
-    hashtags: "#dmc5, #trishcosplay, #cosplayphotography, #newyear"
+    hashtags: "#marvelcomics, #darkside, #christmas, #latexcosplay"
+  - username: "staskonovka"
+    fullname: >-
+      Ведущий Стас Коновка, Москва
+    location: "Russia"
+    followers: 25167
+    engagement: 415
+    commentsToLikes: 0.009977
+    id: ck0w69u057jy90i19mbk4lov9
+    verified: false
+    hashtags: "#shantaram, #reality, #walk, #kursk"
   - username: "fishy_cosplay"
     fullname: >-
       Daria Kravets 🌸
     location: "Russia"
-    followers: 20364
-    engagement: 660
-    commentsToLikes: 0.018889
+    followers: 20314
+    engagement: 613
+    commentsToLikes: 0.021061
     id: ck55ngtoi66pg0i11ufbq7jk1
     verified: false
-    hashtags: "#leagueoflegendscosplay, #dota, #ciri, #witchercosplay"
-  - username: "dear.dear.iris"
-    fullname: >-
-      Dear Iris
-    location: "Russia"
-    followers: 22615
-    engagement: 441
-    commentsToLikes: 0.022075
-    id: ck5hrxvwdvnz80i11yx4vubb9
-    verified: false
-    hashtags: "#color, #pokemon, #starguardianahri, #venga"
+    hashtags: "#xayahrakan, #xmencomics, #supergirl, #dota2"
   - username: "palad1n"
     fullname: >-
       Andrey palad1n
     location: "Russia"
-    followers: 37976
-    engagement: 894
-    commentsToLikes: 0.042891
+    followers: 39182
+    engagement: 851
+    commentsToLikes: 0.049107
     id: ck13bmzxgw7ks0i19s1hkqlfe
     verified: false
-    hashtags: "#pccase, #gamingroom, #radisson, #sportboy"
-  - username: "itzpixchii"
+    hashtags: "#equipment, #body, #sport, #gshock"
+  - username: "asadovlife"
     fullname: >-
-      Chii | 002✨🧚‍♀️
+      F A K H R I    A S A D O V
     location: "Russia"
-    followers: 5001
-    engagement: 3140
-    commentsToLikes: 0.043702
-    id: ck13ctq14241n0i19h4awfhd0
+    followers: 75340
+    engagement: 1019
+    commentsToLikes: 0.035454
+    id: ck0w1tdn8l1sw0i19jtg8mfr0
     verified: false
-    hashtags: "#pubgfunny, #sniper, #malaysia, #pubgmobilet"
-  - username: "pakupakuru"
-    fullname: >-
-      PakuPaku Ru🦙Cosplay
-    location: "Russia"
-    followers: 6528
-    engagement: 678
-    commentsToLikes: 0.017073
-    id: ck0w4uwbc0ir80i19ci3ti2xj
-    verified: false
-    hashtags: "#wingedvictory, #homeworking, #overwatch, #cosplay"
-  - username: "lili.morto.official"
-    fullname: >-
-      LILI.MORTO OFFICIAL
-    location: "Russia"
-    followers: 93043
-    engagement: 589
-    commentsToLikes: 0.016396
-    id: ck6ueayezpuvh0j71wy0mfxcd
-    verified: false
-    hashtags: "#studiokey, #video, #netherlands, #my"
+    hashtags: "#universalgarage, #qax, #evdeqal, #miata"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In India In 2020
 description: >-
-  Find top stylists Instagram influencers in India in 2020. Most popular hashtags: #ootd #quarantinelife #fashionblogger #stayhome.
+  Find top stylists Instagram influencers in India in 2020. Most popular hashtags: #staysafe #love #boredinthehouse #beach.
 platform: Instagram
 profiles:
-  - username: "ahundredversions"
+  - username: "shebi__rahees"
     fullname: >-
-      Manika Narang
+      محمد رحيص 
     location: "India"
-    followers: 74840
-    engagement: 667
-    commentsToLikes: 0.014337
-    id: ck13b931gub4s0i196e3pzrp7
+    followers: 2095
+    engagement: 2239
+    commentsToLikes: 0.190251
+    id: ck9whn1egymg50j78ykn5d00c
     verified: false
-    hashtags: "#superman, #coronavirus, #cute, #famlife"
-  - username: "thankgod_itsfashion"
-    fullname: >-
-      Tanumita
-    location: "India"
-    followers: 27570
-    engagement: 215
-    commentsToLikes: 0.067316
-    id: ck5zkszhnk3uc0i14mvk4kzc7
-    verified: false
-    hashtags: "#propahlady, #whenallofthisisover, #beauty, #quarantineandchill"
-  - username: "raashiii__"
-    fullname: >-
-      R A A S H I 🌻
-    location: "India"
-    followers: 104126
-    engagement: 1596
-    commentsToLikes: 0.025591
-    id: ck13cw0172fup0i19tv3kz9ge
-    verified: false
-    hashtags: "#loveya, #100kfamily, #tiktokindia, #casualstyle"
+    hashtags: "#gymrat, #stayhome, #gymmotivation, #quotes"
   - username: "swats03"
     fullname: >-
       Swati Mishra ⭐️
     location: "India"
-    followers: 3115
-    engagement: 2543
-    commentsToLikes: 0.041951
+    followers: 7671
+    engagement: 2158
+    commentsToLikes: 0.049582
     id: ck8syeodhklz10j78lrlqvdzo
     verified: false
-    hashtags: "#positivevibesonly, #goodvibes, #breakthechain, #loveall"
-  - username: "neha_menghwani"
+    hashtags: "#lotd, #stayinside, #thesedays, #loveall"
+  - username: "sanasayyadx"
     fullname: >-
-      Neha Menghwani | Stylessential
+      S A N A
     location: "India"
-    followers: 152215
-    engagement: 104
-    commentsToLikes: 0.099495
-    id: ck0w5zf5w66760i1923kngi7w
+    followers: 7210
+    engagement: 814
+    commentsToLikes: 0.103055
+    id: ck9hbixlih1ca0j780q6wovto
     verified: false
-    hashtags: "#brightmakeup, #sequins, #stylessentialbeauty, #blogged"
-  - username: "the__urban__sikh"
+    hashtags: "#aesthetics, #flattenthecurve, #beach, #heaven"
+  - username: "gibby_eyon"
     fullname: >-
-      KARAN SINGH
+      Gibby_eyon
     location: "India"
-    followers: 10475
-    engagement: 711
-    commentsToLikes: 0.107345
-    id: ck6tno70ha8ka0j71tca27yqs
+    followers: 15323
+    engagement: 520
+    commentsToLikes: 0.083887
+    id: ck6tziodm9xpv0j71zvr7a549
     verified: false
-    hashtags: "#fashionable, #indianblogger, #like4likes, #shrugs"
-  - username: "ankitvaidofficial"
+    hashtags: "#ffw, #tiktokchallenge, #natural, #keralite"
+  - username: "thankgod_itsfashion"
     fullname: >-
-      A N K I T  V A I D
+      Tanumita
     location: "India"
-    followers: 63314
-    engagement: 534
-    commentsToLikes: 0.014235
-    id: ck5zktpewk55x0i14r9vnycyi
+    followers: 28586
+    engagement: 274
+    commentsToLikes: 0.091131
+    id: ck5zkszhnk3uc0i14mvk4kzc7
     verified: false
-    hashtags: "#style, #instagood, #stylewithankitvaid, #influencer"
-  - username: "deeghose"
+    hashtags: "#shadowplay, #staysafe, #jokesfordays, #fashionvideo"
+  - username: "styleawhileofficial"
     fullname: >-
-      deepika
+      Shreya Jain
     location: "India"
-    followers: 234892
-    engagement: 525
-    commentsToLikes: 0.007167
-    id: ck15ryxbjaec10i197sdv0fof
+    followers: 106452
+    engagement: 210
+    commentsToLikes: 0.078121
+    id: ck9wgrkyfuokp0j78wjzd69ae
     verified: true
-    hashtags: "#stylist, #afterglow, #besties, #bts"
-  - username: "naaz.arora"
+    hashtags: "#creativity, #wingsofstrength, #virtualkiss, #nutelladay"
+  - username: "salomi_rajan"
     fullname: >-
-      Naaz Arora
+      Salomi Reddy
     location: "India"
-    followers: 111882
-    engagement: 111
-    commentsToLikes: 0.037513
-    id: ck0vyn7ol4u4g0i19tlh5d1n7
+    followers: 4088
+    engagement: 2194
+    commentsToLikes: 0.071099
+    id: ck9hctfidmwa80j78w8w77tet
     verified: false
-    hashtags: "#igtv, #videooftheday, #pinkcolor, #tattoogoals"
-  - username: "s_n_e_h_a_p_a_l"
+    hashtags: "#sfunionsquare, #litparty, #whocares, #nontraditional"
+  - username: "stylewithrimajt"
     fullname: >-
-      S N E H Â
+      Rima Tolani
     location: "India"
-    followers: 11331
-    engagement: 500
-    commentsToLikes: 0.098006
-    id: ck8sxzgx1j7mm0j78yll16c77
+    followers: 2451
+    engagement: 1104
+    commentsToLikes: 0.136818
+    id: ckaos6jqmqbao0i788idfu5cu
     verified: false
-    hashtags: "#stayhealthy, #eyewearfashion, #indiangirl, #lookatth3vibes"
+    hashtags: "#bouganvilla, #floral, #allsmiles, #lifestyle"
+  - username: "soundaryathakur"
+    fullname: >-
+      Soundarya Thakur Official
+    location: "India"
+    followers: 122151
+    engagement: 707
+    commentsToLikes: 0.007937
+    id: ck0ucuis2hp5c0i19b5u4g18t
+    verified: false
+    hashtags: "#redflowers, #wafflesinmaking, #staysafe, #boredinthehouse"
+  - username: "shanishaki"
+    fullname: >-
+      Shani Shaki
+    location: "India"
+    followers: 151086
+    engagement: 687
+    commentsToLikes: 0.006933
+    id: ck0vxzqgd1j410i19wfsbdtrp
+    verified: true
+    hashtags: "#virtualphotoshoot, #remoteshoot, #iphonephotography, #magazinecovershoot"
 ---

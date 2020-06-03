@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In India In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in India in 2020. Most popular hashtags: #tattoo #love #art #artist.
+  Find top tattoo-artists Instagram influencers in India in 2020. Most popular hashtags: #india #instagram #inked #tattoos.
 platform: Instagram
 profiles:
   - username: "ektatattooart"
     fullname: >-
       Ekta vaishnav
     location: "India"
-    followers: 21820
-    engagement: 427
-    commentsToLikes: 0.015090
+    followers: 21630
+    engagement: 487
+    commentsToLikes: 0.020439
     id: ck5cciwayhg420i11psz1q3ym
     verified: false
-    hashtags: "#rangs, #colourfastival, #coronaeffect, #tattooforlove"
+    hashtags: "#freetattoos, #iphone, #india, #giveawaywinner"
   - username: "shyamli"
     fullname: >-
       Art Burr Panda
     location: "India"
-    followers: 11153
-    engagement: 719
-    commentsToLikes: 0.013654
+    followers: 11118
+    engagement: 803
+    commentsToLikes: 0.013719
     id: ck15qf0z52iz20i19ppeal5p1
     verified: false
-    hashtags: "#artpanda, #devilztattooznewdelhi, #wolftattoo, #existence"
-  - username: "artistgill"
-    fullname: >-
-      Artist Gill Tattooz
-    location: "India"
-    followers: 237343
-    engagement: 821
-    commentsToLikes: 0.006355
-    id: ck8t7pet9hk0d0j78ha0dbqje
-    verified: false
-    hashtags: "#bestfriend, #inked, #23march1931, #father"
-  - username: "manjeettattooz"
-    fullname: >-
-      Manjeet Singh
-    location: "India"
-    followers: 39344
-    engagement: 527
-    commentsToLikes: 0.012885
-    id: ck14gj6hu5hqt0i1988v06z2p
-    verified: false
-    hashtags: "#mother, #grandmothertattoo, #grandmother, #tattooindelhi"
+    hashtags: "#fossils, #dancertattoo, #freedomtattoo, #wacomcintiq"
   - username: "nains_tattoos"
     fullname: >-
       Naina Jain
     location: "India"
-    followers: 73830
-    engagement: 111
-    commentsToLikes: 0.005807
+    followers: 73257
+    engagement: 156
+    commentsToLikes: 0.005694
     id: ck14jj2v6klyx0i19e8o2h4jv
     verified: false
-    hashtags: "#fashion, #instadaily, #bodyartwork, #besttattoostudio"
-  - username: "atul_k98"
+    hashtags: "#india, #stayhealthy, #bestmoments, #cows"
+  - username: "artistgill"
     fullname: >-
-      ATUL SAHU
+      Artist Gill Tattooz
     location: "India"
-    followers: 2157
-    engagement: 1227
-    commentsToLikes: 0.103650
-    id: ck5pwblasm1v80i1157ky4m6p
+    followers: 234281
+    engagement: 626
+    commentsToLikes: 0.006920
+    id: ck8t7pet9hk0d0j78ha0dbqje
     verified: false
-    hashtags: "#photooftheday, #smile, #instahealth, #active"
-  - username: "abhay_calligraphy"
+    hashtags: "#ravisinghkhalsa, #21years, #bestfriend, #shahidbhagatsingh"
+  - username: "sagar_angural"
     fullname: >-
-      Abhay Pratap Singh Rathoud
+      S A G A R  A N G U R A L ✌️
     location: "India"
-    followers: 37169
-    engagement: 426
-    commentsToLikes: 0.024841
-    id: ck6twqhmytiho0j71pmhtymh9
+    followers: 39750
+    engagement: 1553
+    commentsToLikes: 0.026769
+    id: ckaozck40l9ii0i786wz1uftf
     verified: false
-    hashtags: "#covid, #gothiccalligraphy, #calligrafia, #brushpencalligraphy"
-  - username: "styletrends_by_parul"
+    hashtags: ""
+  - username: "airphish"
     fullname: >-
-      Parul goyal
+      Smriti Choudhary
     location: "India"
-    followers: 28711
-    engagement: 122
-    commentsToLikes: 0.027131
-    id: ck14kygbpryfq0i196t1am0vn
+    followers: 14790
+    engagement: 926
+    commentsToLikes: 0.025897
+    id: ck5zvahpc3v2t0i14k13h6jvc
     verified: false
-    hashtags: "#offensivememes, #wallpapers, #bracelets, #womenempowerment"
-  - username: "inkpatch"
+    hashtags: "#housebythesea, #dibangvalley, #orange, #igtvtutorial"
+  - username: "manjeettattooz"
     fullname: >-
-      Mykel
+      Manjeet Singh
     location: "India"
-    followers: 9970
-    engagement: 710
-    commentsToLikes: 0.025916
-    id: ck15qf19t2j130i19hwkbg5by
+    followers: 39449
+    engagement: 542
+    commentsToLikes: 0.012009
+    id: ck14gj6hu5hqt0i1988v06z2p
     verified: false
-    hashtags: "#tattooartwork, #nature, #traditional, #egomachinesindia"
-  - username: "tattoographer"
+    hashtags: "#tricolor, #linework, #student, #crowntattoo"
+  - username: "poppa_711"
     fullname: >-
-      TATTOOGRAPHER KARAN ~ KING ™️
+      POPPA aka PRANAV
     location: "India"
-    followers: 81663
-    engagement: 398
-    commentsToLikes: 0.001289
-    id: ck8svu8llcpjf0j785x6v9vng
-    verified: true
-    hashtags: "#solotraveller, #most, #wolf, #mountains"
+    followers: 3759
+    engagement: 2984
+    commentsToLikes: 0.034586
+    id: ck9wig8tf270u0j784fyjm7zy
+    verified: false
+    hashtags: "#yamahatwostroke, #kozhikode, #amstaff, #bully"
+  - username: "dj_youbiz_official"
+    fullname: >-
+      DJ YOUBIZ OFFICIAL
+    location: "India"
+    followers: 6067
+    engagement: 1442
+    commentsToLikes: 0.036021
+    id: ck5qbijaals8o0i11rwu200xy
+    verified: false
+    hashtags: "#pioneer, #uvtheme, #dhiyayoubiz, #club"
+  - username: "motowolf_"
+    fullname: >-
+      BMW Boy 🖤
+    location: "India"
+    followers: 10628
+    engagement: 781
+    commentsToLikes: 0.061961
+    id: ck15u0050kqwd0i193lsgl382
+    verified: false
+    hashtags: "#werewolf, #troll, #ducatimonster, #motorcycles"
 ---

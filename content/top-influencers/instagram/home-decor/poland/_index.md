@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Poland In 2020
 description: >-
-  Find top home decor Instagram influencers in Poland in 2020. Most popular hashtags: #interior #domoweinspiracje #interiordesign #kitchen.
+  Find top home decor Instagram influencers in Poland in 2020. Most popular hashtags: #whitekitchen #kitcheninterior #hyggehome #bathroom.
 platform: Instagram
 profiles:
+  - username: "agienese"
+    fullname: >-
+      agienese
+    location: "Poland"
+    followers: 6030
+    engagement: 1312
+    commentsToLikes: 0.063406
+    id: ck13cx1yw2l270i1914bwo2np
+    verified: false
+    hashtags: "#kobieta, #higirls, #roomforinspo, #haircut"
   - username: "kemczi"
     fullname: >-
       Kamila Prasek
     location: "Poland"
-    followers: 49219
-    engagement: 259
-    commentsToLikes: 0.085276
+    followers: 51507
+    engagement: 254
+    commentsToLikes: 0.101774
     id: ck5c1b3kcutf50i11srl7uef5
     verified: false
-    hashtags: "#details, #srebro, #huaweip30lite, #zostanwdomu"
-  - username: "annaamariposa"
-    fullname: >-
-      FASHION• HOME • WROCŁAW
-    location: "Poland"
-    followers: 5999
-    engagement: 504
-    commentsToLikes: 0.143385
-    id: ck55n4jh45gqr0i11fk919xno
-    verified: false
-    hashtags: "#csalogany21, #urzadzamymieszkanie, #spodnie, #lubiejesc"
+    hashtags: "#snakeprint, #beauty, #springvibes, #springflowers"
   - username: "inesbeautypl"
     fullname: >-
       InesBeauty -Aga Wroclaw 🌷🎀💝🇵🇱
     location: "Poland"
-    followers: 28687
-    engagement: 583
-    commentsToLikes: 0.204187
+    followers: 31006
+    engagement: 653
+    commentsToLikes: 0.259456
     id: ck8tdgwnv399r0j78scov01sy
     verified: false
-    hashtags: "#zostajewdomu"
-  - username: "scandi_uk"
-    fullname: >-
-      Sylwia
-    location: "Poland"
-    followers: 59955
-    engagement: 507
-    commentsToLikes: 0.041988
-    id: ck14hdybd9u860i19enz9zcac
-    verified: false
-    hashtags: "#springdecor, #mynordicroom, #scandiinspo, #tulipany"
-  - username: "aga327"
-    fullname: >-
-      Aga🌹
-    location: "Poland"
-    followers: 15261
-    engagement: 740
-    commentsToLikes: 0.048332
-    id: ck8t9s6chp5kg0j785xu8hlee
-    verified: false
-    hashtags: "#wn, #zosta, #kitchen, #goodday"
+    hashtags: "#selfiak, #beautifulwomen, #wszech, #malujusta"
   - username: "mieszkanie.marzen"
     fullname: >-
       Ewelina Więcek-Pożarska
     location: "Poland"
-    followers: 20411
-    engagement: 298
-    commentsToLikes: 0.082059
+    followers: 20482
+    engagement: 315
+    commentsToLikes: 0.102023
     id: ck55mejtk3s2e0i114kznd7g8
     verified: false
-    hashtags: "#countryhouse, #myinteriorstyle, #dbamyokazdatkanine, #beautifulday"
-  - username: "intexik"
+    hashtags: "#dinningtable, #instamoment, #summerday, #slowlife"
+  - username: "aga327"
     fullname: >-
-      🌿Piotr🌿
+      Aga🌹
     location: "Poland"
-    followers: 26797
-    engagement: 209
-    commentsToLikes: 0.063411
-    id: ck8t3km883keu0j783zsi45hi
+    followers: 18043
+    engagement: 548
+    commentsToLikes: 0.048110
+    id: ck8t9s6chp5kg0j785xu8hlee
     verified: false
-    hashtags: "#kitchencabinets, #bohohome, #zabawa, #porannakawa"
-  - username: "me_sweet_home"
+    hashtags: "#mygarden, #sweet, #homedesing, #saturday"
+  - username: "scandi_uk"
     fullname: >-
-      Anna
+      Sylwia
     location: "Poland"
-    followers: 5659
-    engagement: 892
-    commentsToLikes: 0.061411
-    id: ck8t2wyhd10dr0j787007gi34
+    followers: 64035
+    engagement: 426
+    commentsToLikes: 0.049335
+    id: ck14hdybd9u860i19enz9zcac
     verified: false
-    hashtags: "#wine, #domoweinspiracje, #kitcheninspiration, #sunday"
+    hashtags: "#morningvibe, #cozy, #nordicroom, #homestylish"
   - username: "_agneslifestyle"
     fullname: >-
       A G N I E S Z K A
     location: "Poland"
-    followers: 26888
-    engagement: 319
-    commentsToLikes: 0.046241
+    followers: 27006
+    engagement: 361
+    commentsToLikes: 0.058799
     id: ck0w2m0b1p1j90i197nj9tgtp
     verified: false
-    hashtags: "#myinteriorstyle, #sweaterweather, #princessroom, #tulips"
+    hashtags: "#hyggehome, #morningmood, #pokojdziecka, #interi"
+  - username: "me_sweet_home"
+    fullname: >-
+      Anna
+    location: "Poland"
+    followers: 5811
+    engagement: 861
+    commentsToLikes: 0.077958
+    id: ck8t2wyhd10dr0j787007gi34
+    verified: false
+    hashtags: "#bathroomdecor, #morningvibes, #razemnajlepiej, #myhomestyle"
   - username: "domeknela"
     fullname: >-
       Joanna D.
     location: "Poland"
-    followers: 3374
-    engagement: 999
-    commentsToLikes: 0.149833
+    followers: 3227
+    engagement: 963
+    commentsToLikes: 0.129118
     id: ck6u5h89o9m570j7186eq6xf0
     verified: false
-    hashtags: "#mazurowydw, #foteluszak, #urzadzamy, #cariboumoss"
+    hashtags: "#thermomixpolska, #czarnynaroznik, #pielegnacja, #zakupy"
+  - username: "ivetta_kaminska"
+    fullname: >-
+      Ivetta Kamińska
+    location: "Poland"
+    followers: 3042
+    engagement: 955
+    commentsToLikes: 0.189565
+    id: ckapbx4h31mgg0i78m9w9m8wr
+    verified: false
+    hashtags: "#mamahood, #workspacedesign, #interiors4you, #hyggehome"
 ---

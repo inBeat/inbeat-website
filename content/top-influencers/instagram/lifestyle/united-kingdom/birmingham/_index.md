@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Birmingham In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Birmingham in 2020. Most popular hashtags: #lifestyle #love #photooftheday #instagood.
+  Find top lifestyle Instagram influencers in Birmingham in 2020. Most popular hashtags: #gifted #fashion #selflove #blogger.
 platform: Instagram
 profiles:
   - username: "nadine.travelling"
     fullname: >-
       nadine hanne ♡
     location: "United Kingdom"
-    followers: 5184
-    engagement: 519
-    commentsToLikes: 0.016896
+    followers: 5155
+    engagement: 520
+    commentsToLikes: 0.023269
     id: ck8tdr38p4gsx0j78i1m0gw11
     verified: false
-    hashtags: ""
+    hashtags: "#ootd, #forever47, #zahnaufhellung, #idealofsweden"
   - username: "negi.at.home"
     fullname: >-
       N E G I ♡ Interiors
     location: "United Kingdom"
-    followers: 6187
-    engagement: 1157
-    commentsToLikes: 0.187982
+    followers: 10744
+    engagement: 976
+    commentsToLikes: 0.204352
     id: ck5chozgur6z80i11mkr0cu3r
     verified: false
-    hashtags: "#urbanjungle, #interiorboom, #interi, #loveyourhome"
-  - username: "sophieemort"
+    hashtags: "#designattractor, #uohome, #myhome, #ladolcevita"
+  - username: "poonamwalid"
     fullname: >-
-      Sophie Mort
+      Poonam walid
     location: "United Kingdom"
-    followers: 7742
-    engagement: 1228
-    commentsToLikes: 0.052332
-    id: ck5c8egpa9b140i11zj994xc3
+    followers: 43773
+    engagement: 296
+    commentsToLikes: 0.074897
+    id: ck9wean2wjfak0j78qsind28a
     verified: false
-    hashtags: "#makeuptalk, #blogger, #instatravel, #idealchristmasgift"
+    hashtags: "#diyskincare, #summer, #fentybeauty, #cheeksout"
   - username: "sian.victoria"
     fullname: >-
-      Blogger | 🏡 Birmingham, UK
+      Blogger | Birmingham UK |  ©
     location: "United Kingdom"
-    followers: 14159
-    engagement: 625
-    commentsToLikes: 0.038731
+    followers: 14035
+    engagement: 618
+    commentsToLikes: 0.039274
     id: ck0w5zaqn65jh0i19e5drq2us
     verified: false
-    hashtags: "#analuisany, #scarletlady, #virginvoyages, #itsyourmove"
-  - username: "tabslifts"
+    hashtags: "#itsyourmove, #lastnormalphoto, #dubrovnikexperience, #jet2holidays"
+  - username: "seethestarsblog"
     fullname: >-
-      🌻TABS LOFTS🌻
+      Sarah Lauren ✨
     location: "United Kingdom"
-    followers: 10751
-    engagement: 1333
-    commentsToLikes: 0.090203
-    id: ck8takzw3s7990j78ziiid6f7
+    followers: 2616
+    engagement: 1605
+    commentsToLikes: 0.163955
+    id: ck9h9vynea6650j78sqzumdxn
     verified: false
-    hashtags: "#isolationadvice, #motivation, #fitnessmotivation, #crossfit"
-  - username: "carrie_pendle"
+    hashtags: "#foodstagram, #instaoutfit, #food, #ootdfashion"
+  - username: "simplysamiyaa"
     fullname: >-
-      CARRIE | Fashion & Lifestyle
+      🌸 S A M I Y A 🌸
     location: "United Kingdom"
-    followers: 6382
+    followers: 16562
     engagement: 547
-    commentsToLikes: 0.066933
-    id: ck5cavwr3e8w40i117gmkij1t
+    commentsToLikes: 0.416811
+    id: ck5q5h769sv0i0i11jnxflkic
     verified: false
-    hashtags: "#stayhome, #pillowchallenge, #bodyposipals, #primark"
-  - username: "lorna.fit"
+    hashtags: "#macmakeup, #faith, #ramadanmubarak, #eidinspiration"
+  - username: "steflikesplants"
     fullname: >-
-      Lorna - Fitness Model 🧡💛
+      Stef | Health + Lifestyle ✨🌈
     location: "United Kingdom"
-    followers: 19428
-    engagement: 286
-    commentsToLikes: 0.039509
-    id: ck6u33bnuvga70j716ezvv96d
+    followers: 14126
+    engagement: 417
+    commentsToLikes: 0.092426
+    id: ck5zua8o31za70i14zxd2ptpe
     verified: false
-    hashtags: "#wbff, #enjoytheprocess, #white, #black"
-  - username: "thekayday"
+    hashtags: "#health, #ad, #gifted, #takefive"
+  - username: "matinarabiiii"
     fullname: >-
-      Kulsum Bismillah
+      MATIN ARABI✝
     location: "United Kingdom"
-    followers: 22003
-    engagement: 269
-    commentsToLikes: 0.196742
-    id: ck0w5z8u465930i196c85g139
+    followers: 11031
+    engagement: 1193
+    commentsToLikes: 0.029537
+    id: ck9wiitma2g1z0j78dry7o438
     verified: false
-    hashtags: "#foodgram, #makeup, #giveaways, #skincare"
-  - username: "liveuptohername"
+    hashtags: "#blondehair, #star, #gangstyle, #makeupartist"
+  - username: "cliodhnamclaughlin_"
     fullname: >-
-      Lexi 🎀
+      Clíodhna McLaughlin
     location: "United Kingdom"
-    followers: 16298
-    engagement: 727
-    commentsToLikes: 0.001623
-    id: ck5cik16gsslf0i11w5ovnhua
+    followers: 4098
+    engagement: 4486
+    commentsToLikes: 0.322169
+    id: ckaosd9ver5qp0i78rz666fu9
     verified: false
-    hashtags: "#mustdo, #cappuccino, #birthdaycake, #caribbean"
-  - username: "r.o.b.i.n_s.i.n.g.h"
+    hashtags: "#femalefamily, #myloungelife, #plt, #isawitfirst"
+  - username: "ourtasteforlife"
     fullname: >-
-      Robin Singh | Photographer 🇬🇧
+      CHARLOTTE ♡ NATALIE 𖤥 UK
     location: "United Kingdom"
-    followers: 19844
-    engagement: 375
-    commentsToLikes: 0.018874
-    id: ck135x0hd3nzi0i19yf926xul
+    followers: 24570
+    engagement: 1278
+    commentsToLikes: 0.095989
+    id: ck5zqz6k2vl810i14cmyqbzfl
     verified: false
-    hashtags: "#unitedkingdom, #iamjobansandhu, #londonblogger, #sikhturban"
+    hashtags: "#lesbianstyle, #winter, #bakingfun, #brighton"
 ---

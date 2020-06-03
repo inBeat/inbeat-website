@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Porto In 2020
 description: >-
-  Find top health Instagram influencers in Porto in 2020. Most popular hashtags: #stayhome #staysafe #lisbon #love.
+  Find top health Instagram influencers in Porto in 2020. Most popular hashtags: #stayhome #mensfashion #healthy #giveaway.
 platform: Instagram
 profiles:
-  - username: "anotherday_inheaven"
+  - username: "joanatelesrtp"
     fullname: >-
-      MATILDA 🇸🇪 & ROBERT 🇵🇱
+      Joana Teles 🧿
     location: "Portugal"
-    followers: 32738
-    engagement: 918
-    commentsToLikes: 0.085974
-    id: ck0w064j5ckdf0i19k9lee35o
-    verified: false
-    hashtags: "#cutecouples, #relationship, #travelcouples, #kohmak"
-  - username: "andreiaffoliveira"
-    fullname: >-
-      Andreia Filipa Oliveira
-    location: "Portugal"
-    followers: 6734
-    engagement: 934
-    commentsToLikes: 0.478657
-    id: ck8t1cb1lv7we0j782fmaauhy
-    verified: false
-    hashtags: "#stayhometakecare, #makeup, #sushi, #yoins"
-  - username: "patricia.r.carvalho"
-    fullname: >-
-      Patrícia Carvalho
-    location: "Portugal"
-    followers: 4483
-    engagement: 1440
-    commentsToLikes: 0.367652
-    id: ck8tdjhcz3kaw0j78437jlfeq
-    verified: false
-    hashtags: "#igers, #clean, #porto, #travelblogger"
+    followers: 88568
+    engagement: 160
+    commentsToLikes: 0.030718
+    id: ck0w6s8b9a1oq0i19u4ud8d6d
+    verified: true
+    hashtags: "#gettingdressedgoingnowhere, #lerdoceler, #pet, #home"
   - username: "dr_marta_beauty"
     fullname: >-
-      ✨ THE ART OF AESTHETICS ✨
+      ✨ THE ART OF CREATING BEAUTY ✨
     location: "Portugal"
-    followers: 38595
-    engagement: 137
-    commentsToLikes: 0.142844
+    followers: 38640
+    engagement: 146
+    commentsToLikes: 0.209021
     id: ck6u70lbhirwx0j71rhw2a3ho
     verified: false
-    hashtags: "#lisboa, #dubaiaesthetics, #challenge, #world"
-  - username: "adrianaromasimoes"
+    hashtags: "#repost, #gorgeous, #keepsafe, #newbeginnings"
+  - username: "rubenfjorge"
     fullname: >-
-      ADRIANA・DAILY INSPO
+      Ruben Jorge
     location: "Portugal"
-    followers: 3185
-    engagement: 1414
-    commentsToLikes: 0.268116
-    id: ck8td8rf62d2v0j78dx3wttlz
+    followers: 11010
+    engagement: 2428
+    commentsToLikes: 0.011382
+    id: ck8talc55s8m80j78xs02h0e9
     verified: false
-    hashtags: "#reallife, #tbt, #brandbassador"
-  - username: "rubisero"
+    hashtags: "#pole, #homedecor, #praia, #wanderlust"
+  - username: "tombauer1"
     fullname: >-
-      Rubisero | 🇬🇧🇵🇹
+      Thomas Bauer
     location: "Portugal"
-    followers: 4737
-    engagement: 1688
-    commentsToLikes: 0.066201
-    id: ck8tagnk4ro9f0j78l9wzfqfn
-    verified: false
-    hashtags: "#mensblog, #zumub, #stayhealthy, #muscle"
-  - username: "alicetrewinnard"
-    fullname: >-
-      Alice Trewinnard
-    location: "Portugal"
-    followers: 207944
-    engagement: 755
-    commentsToLikes: 0.002998
-    id: ck134v13sybqz0i19a00owtxx
+    followers: 9809
+    engagement: 493
+    commentsToLikes: 0.017228
+    id: ck8swrdceez2t0j782r5ekj63
     verified: true
-    hashtags: "#fuckingfinally, #batistehair, #stayathome, #euficoemcasa"
-  - username: "gabrielamuniz1"
+    hashtags: "#hammer, #live, #zuhause, #begreen"
+  - username: "nescp"
     fullname: >-
-      Gabriela Muniz Leal
+      Inês Costa Pereira
     location: "Portugal"
-    followers: 5678
-    engagement: 515
-    commentsToLikes: 0.074911
-    id: ck5q5e88vshwa0i119kikivoy
+    followers: 8490
+    engagement: 1579
+    commentsToLikes: 0.047608
+    id: ck6012z18eqtz0i14zh0znn8z
     verified: false
-    hashtags: "#tb, #gpsfoundation, #poliemilk, #casamentoraeruy"
-  - username: "anotherday_inheaven"
+    hashtags: "#loavies, #flowerfilteritlikemichele, #strongersweden, #stayinloavies"
+  - username: "florindalopes"
     fullname: >-
-      MATILDA 🇸🇪 & ROBERT 🇵🇱
+      FLO | LIFESTYLE BLOGGER
     location: "Portugal"
-    followers: 32738
-    engagement: 918
-    commentsToLikes: 0.085974
-    id: ck0w064j5ckdf0i19k9lee35o
+    followers: 6651
+    engagement: 1104
+    commentsToLikes: 0.080495
+    id: ck0u8yved8msd0i19xe8fbdjx
     verified: false
-    hashtags: "#cutecouples, #relationship, #travelcouples, #kohmak"
-  - username: "marcooliveira9"
+    hashtags: "#tumblrvibes, #tezzaapp, #vscofilters, #balitravel"
+  - username: "brunoanjoss"
     fullname: >-
-      ᴹᴬᴿᶜᴼ ᴼᴸᴵⱽᴱᴵᴿᴬ
+      𝗕 𝗥 𝗨 𝗡 𝗢    𝗔 𝗡 𝗝 𝗢 𝗦
     location: "Portugal"
-    followers: 8895
-    engagement: 488
-    commentsToLikes: 0.221410
-    id: ck6txuu04zzd20j7173f0cfvi
+    followers: 4441
+    engagement: 1771
+    commentsToLikes: 0.378577
+    id: ck9womla25rjc0j78gw86m3wr
     verified: false
-    hashtags: "#streetmenstyle, #dapperfashion, #streetwearstyle, #stayathome"
+    hashtags: "#topman, #healthy, #freedom, #streetwear"
+  - username: "brunoodiaz"
+    fullname: >-
+      Bruno Dias
+    location: "Portugal"
+    followers: 10426
+    engagement: 911
+    commentsToLikes: 0.099122
+    id: ck9wf0kgemqk60j78g9aexnxm
+    verified: false
+    hashtags: "#ootdpost, #mvmtwatch, #menfashion, #mensaccessories"
+  - username: "idireito"
+    fullname: >-
+      Inês Gomes Direito
+    location: "Portugal"
+    followers: 21689
+    engagement: 335
+    commentsToLikes: 0.144293
+    id: ck9we42r0ihoi0j78g69ssdlt
+    verified: false
+    hashtags: "#gymgirl, #science, #oatmeal, #tulips"
+  - username: "maede3gemeos"
+    fullname: >-
+      Mãede3Gémeos JoanaReis
+    location: "Portugal"
+    followers: 17754
+    engagement: 327
+    commentsToLikes: 0.139091
+    id: ck8t0xklstpgu0j788ibl6u2g
+    verified: false
+    hashtags: "#homedecor, #remodela, #diasemcasa, #coffeetime"
 ---

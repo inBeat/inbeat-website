@@ -1,76 +1,76 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top cinema Instagram influencers in Ukraine in 2020. Most popular hashtags: #weddingcrimea #weddingmoscow #videography #weddingvideo.
+  Find top cinema Instagram influencers in Ukraine in 2020. Most popular hashtags: #film # #cinema #makeupartist.
 platform: Instagram
 profiles:
   - username: "vorot.raw"
     fullname: >-
       Фотограф | Воротинцев | Киев
     location: "Ukraine"
-    followers: 3065
-    engagement: 2859
-    commentsToLikes: 0.036284
+    followers: 2982
+    engagement: 2986
+    commentsToLikes: 0.035538
     id: ck14ih9fife1w0i19hl7rfe1x
     verified: false
     hashtags: "#vorotway, #vorot"
-  - username: "taras.tsymbaliuk"
-    fullname: >-
-      Taras Tsymbaliuk
-    location: "Ukraine"
-    followers: 55764
-    engagement: 452
-    commentsToLikes: 0.019162
-    id: ck14imdfeg3wl0i19d4k18or6
-    verified: false
-    hashtags: "#zniewolona"
-  - username: "bad_ganna"
-    fullname: >-
-      Ann bad Businessman
-    location: "Ukraine"
-    followers: 8639
-    engagement: 530
-    commentsToLikes: 0.041973
-    id: ck6u73iufj9jh0j71p4xxkpmb
-    verified: false
-    hashtags: "#bad, #coronavirus, #quarantine"
   - username: "liza_liubimova_l"
     fullname: >-
       Liza Liubimova
     location: "Ukraine"
-    followers: 22051
-    engagement: 914
-    commentsToLikes: 0.011982
+    followers: 22738
+    engagement: 733
+    commentsToLikes: 0.014305
     id: ck5ccnhoyhoj60i11irgjli5t
     verified: false
-    hashtags: "#theatre, #theatregodo, #godogirls, #party"
+    hashtags: "#sunshine, #love, #nicolekidman, #godsgames"
+  - username: "taras.tsymbaliuk"
+    fullname: >-
+      ТАРАС ЦИМБАЛЮК
+    location: "Ukraine"
+    followers: 57814
+    engagement: 408
+    commentsToLikes: 0.015883
+    id: ck14imdfeg3wl0i19d4k18or6
+    verified: false
+    hashtags: "#carantine, #stayhome, #coronavid19"
+  - username: "bad_ganna"
+    fullname: >-
+      Ann bad
+    location: "Ukraine"
+    followers: 8795
+    engagement: 517
+    commentsToLikes: 0.044276
+    id: ck6u73iufj9jh0j71p4xxkpmb
+    verified: false
+    hashtags: "#bad, #badmaker"
   - username: "server_lyumanov"
     fullname: >-
       Сервер Люманов
     location: "Ukraine"
-    followers: 18041
-    engagement: 351
-    commentsToLikes: 0.054206
+    followers: 17939
+    engagement: 356
+    commentsToLikes: 0.049514
     id: ck5q57jj7roua0i11oa0ozkdz
     verified: false
-    hashtags: "#simferopol, #25years, #videography, #weddingvideo"
+    hashtags: "#25years"
   - username: "emir_aliev_"
     fullname: >-
       Эмир Алиев
     location: "Ukraine"
-    followers: 20698
-    engagement: 541
-    commentsToLikes: 0.016523
+    followers: 20182
+    engagement: 532
+    commentsToLikes: 0.016128
     id: ck5q57l2groy90i11hzcma82p
     verified: false
-    hashtags: "#videography, #weddingcrimea, #sudak, #crimea"
+    hashtags: "#crimea"
   - username: "norm_li"
     fullname: >-
       Norm Li, csc
     location: "Ukraine"
-    followers: 5081
-    engagement: 1004
-    commentsToLikes: 0.036786
+    followers: 5190
+    engagement: 1009
+    commentsToLikes: 0.036718
     id: ck6ua74uy1w5r0j71mqfhegkf
     verified: false
     hashtags: ""
@@ -78,30 +78,30 @@ profiles:
     fullname: >-
       Ben Fordesman
     location: "Ukraine"
-    followers: 5703
-    engagement: 478
-    commentsToLikes: 0.044301
+    followers: 5824
+    engagement: 477
+    commentsToLikes: 0.044125
     id: ck6tsmc2i5l0u0j71mc3mv3wn
     verified: false
     hashtags: ""
-  - username: "melnikstyle"
+  - username: "oleg.avilov"
     fullname: >-
-      ᴠɪᴛᴀʟɪɪ ᴍᴇʟɴɪᴋ
+      Oleg Avilov 🎥
     location: "Ukraine"
-    followers: 168784
-    engagement: 1278
-    commentsToLikes: 0.012784
-    id: ck14kgshwpg3u0i19788zlbj3
+    followers: 42782
+    engagement: 215
+    commentsToLikes: 0.024804
+    id: ck0u63p7p0yns0i19pajh5n9o
     verified: false
-    hashtags: "#35mmfilmphotography, #blackandwhitephotography, #kievgram, #paris"
-  - username: "alyona_smirnova_miss"
+    hashtags: "#mobile, #evoque, #eos5dmark4, #stars"
+  - username: "maryanapetrushka"
     fullname: >-
-      ————— ALYONA SMIRNOVA —————
+      MK_makeup
     location: "Ukraine"
-    followers: 30139
-    engagement: 128
-    commentsToLikes: 0.025366
-    id: ck5hskltfwqti0i11cvse1330
+    followers: 18954
+    engagement: 692
+    commentsToLikes: 0.162344
+    id: ck13a8i6gp5g10i19w4fo25rs
     verified: false
-    hashtags: "#pageant, #elastic, #yoga, #losangeles"
+    hashtags: "#nyxliner, #makeupchallenge, #closeupshots, #repeatmakeup"
 ---

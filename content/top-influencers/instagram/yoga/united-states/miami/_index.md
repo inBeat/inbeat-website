@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Miami In 2020
 description: >-
-  Find top yoga Instagram influencers in Miami in 2020. Most popular hashtags: #miami #yoga #fitness #love.
+  Find top yoga Instagram influencers in Miami in 2020. Most popular hashtags: #yoga #yogamiami #happy #yogaathome.
 platform: Instagram
 profiles:
-  - username: "thefashionpoet"
-    fullname: >-
-      Annie Vazquez
-    location: "United States"
-    followers: 83045
-    engagement: 103
-    commentsToLikes: 0.044305
-    id: ck5zk89bmj0ar0i14t6ms29qw
-    verified: false
-    hashtags: "#lifestyle, #meditation, #beautyblogger, #miamibrand"
-  - username: "tashie_net"
-    fullname: >-
-      NATASHA ARAOS DE MIRANDA
-    location: "United States"
-    followers: 1575519
-    engagement: 267
-    commentsToLikes: 0.012275
-    id: ck0w5n3fl4grj0i19el4h7ba0
-    verified: true
-    hashtags: "#positivevibes, #stayhome, #justsaying, #happy"
-  - username: "rarifilmz"
-    fullname: >-
-      Hassan Richardson ⚡️
-    location: "United States"
-    followers: 12693
-    engagement: 480
-    commentsToLikes: 0.034931
-    id: ck0vzz0gqbkqp0i19v85utn91
-    verified: false
-    hashtags: "#beautyretouch, #portraitphotography, #pose, #editorial"
   - username: "marialauraraineracupuncture"
     fullname: >-
-      Dr. Maria Laura Rainer, AP
+      Dr. Maria Laura Rainer, OMD
     location: "United States"
-    followers: 34084
-    engagement: 127
-    commentsToLikes: 0.056823
+    followers: 38840
+    engagement: 165
+    commentsToLikes: 0.082736
     id: ck5ccd0vch4tb0i11rz2riikr
     verified: false
-    hashtags: "#ense, #meditacion, #frasesdelavida, #personalidad"
-  - username: "irynamiami"
+    hashtags: "#balanceemocional, #neurologiainfantil, #manifestaci, #compasion"
+  - username: "itscidnee"
     fullname: >-
-      Iryna  🇺🇦🇷🇺🇺🇸
+      Cidnee G.
     location: "United States"
-    followers: 119478
-    engagement: 96
-    commentsToLikes: 0.029861
-    id: ck6tjewte2kz80j711o15tlum
+    followers: 8098
+    engagement: 840
+    commentsToLikes: 0.096890
+    id: ck6tsn9c15q990j71fmljjsnw
     verified: false
-    hashtags: "#sensual, #bootylicious, #loveoverfear, #hammock"
-  - username: "monfretwilly"
+    hashtags: "#cosmetics, #musicvideomodel, #portraits, #athletes"
+  - username: "yogawithmarina"
     fullname: >-
-      Willy Monfret
+      Marina
     location: "United States"
-    followers: 60334
-    engagement: 118
-    commentsToLikes: 0.030326
-    id: ck5cdsx1bjpsq0i119oy4snpk
-    verified: true
-    hashtags: "#capetown, #sunset, #freedownload, #miami"
-  - username: "bussonico"
-    fullname: >-
-      Nico Busso
-    location: "United States"
-    followers: 11735
-    engagement: 615
-    commentsToLikes: 0.043517
-    id: ck5pvypmnk9la0i115u1u5sab
+    followers: 28211
+    engagement: 166
+    commentsToLikes: 0.050932
+    id: ck8t80jnuinth0j78pvv8rb39
     verified: false
-    hashtags: "#beach, #couple, #circusinspiration, #fitness"
-  - username: "thevisionaryofficer"
+    hashtags: "#yogaroutine, #yogaforyou, #yogaexercise, #yogavideos"
+  - username: "holixtic"
     fullname: >-
-      David Runyon
+      Maria Margolies Yoga
     location: "United States"
-    followers: 10368
-    engagement: 1270
-    commentsToLikes: 0.025775
-    id: ck0uajkcbcege0i19l9244cfs
+    followers: 34595
+    engagement: 318
+    commentsToLikes: 0.059818
+    id: ck6trxys91pte0j711u86nece
     verified: false
-    hashtags: "#bootypics, #tattoo, #delray, #desi"
-  - username: "chilinakennedy"
+    hashtags: "#mothersday2020, #yogaenespa, #flordejamaica, #motherearth"
+  - username: "bodybynixx"
     fullname: >-
-      Chilina Kennedy
+      Nicole Amato
     location: "United States"
-    followers: 8855
-    engagement: 702
-    commentsToLikes: 0.022738
-    id: ck138pcujhcbt0i19kimdqc6a
-    verified: true
-    hashtags: "#iworeawig, #quarantinelife, #photoshoot, #birds"
-  - username: "claytonpaterson"
-    fullname: >-
-      Clayton Paterson
-    location: "United States"
-    followers: 49070
-    engagement: 539
-    commentsToLikes: 0.034633
-    id: ck6tjqxxl38zj0j713h0v8umn
+    followers: 631558
+    engagement: 128
+    commentsToLikes: 0.023918
+    id: ck134wr8yykg90i194pjlcrj1
     verified: false
-    hashtags: "#zara, #tartanday, #nudeart, #victorgadino"
+    hashtags: "#privatebeach, #fitbodies, #miamipolice, #blissful"
+  - username: "timfeldmannyoga"
+    fullname: >-
+      Tim Feldmann
+    location: "United States"
+    followers: 49113
+    engagement: 136
+    commentsToLikes: 0.053833
+    id: ck6tn3o5u92le0j71wj1c0yv1
+    verified: false
+    hashtags: "#homepracticechallenge, #sharathyogacenter, #yoga, #ashtanga"
+  - username: "mannykess"
+    fullname: >-
+      Manny Kess
+    location: "United States"
+    followers: 35345
+    engagement: 73
+    commentsToLikes: 0.107730
+    id: ck5hqgwq3t3dk0i11lduc2p0j
+    verified: false
+    hashtags: "#shave, #beardgame, #strongmind, #reading"
+  - username: "alessandrasworld"
+    fullname: >-
+      Alessandra 🦄
+    location: "United States"
+    followers: 24696
+    engagement: 207
+    commentsToLikes: 0.059211
+    id: ck5qdgttxvif50i11dyvmqa0l
+    verified: false
+    hashtags: "#playa, #sunnydays, #daydreaming, #bikinilife"
+  - username: "rachelringwood"
+    fullname: >-
+      Mental Awareness
+    location: "United States"
+    followers: 50924
+    engagement: 174
+    commentsToLikes: 0.061965
+    id: ck1354fo0znly0i19g39wcp55
+    verified: false
+    hashtags: "#haireducator, #jeanjacket, #recovery, #balayageombre"
+  - username: "maniaticbites"
+    fullname: >-
+      Hellen Stefany🎀 | MIA Foodie
+    location: "United States"
+    followers: 10745
+    engagement: 811
+    commentsToLikes: 0.232846
+    id: ck5cb0r3sehyl0i11etpjrplf
+    verified: false
+    hashtags: "#igersindia, #foodielife, #peruviancuisine, #foodblog"
 ---

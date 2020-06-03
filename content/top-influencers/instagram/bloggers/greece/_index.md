@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Greece In 2020
 description: >-
-  Find top bloggers Instagram influencers in Greece in 2020. Most popular hashtags: #greece #stayhome #blogger #athens.
+  Find top bloggers Instagram influencers in Greece in 2020. Most popular hashtags: #quarantinelife #easter2020 #happymothersday #portrait.
 platform: Instagram
 profiles:
-  - username: "fragakimaria"
-    fullname: >-
-      ᗰᗩᖇIᗩ ᖴᖇᗩGᗩKI ✨
-    location: "Greece"
-    followers: 33134
-    engagement: 309
-    commentsToLikes: 0.056635
-    id: ck0u8f76m77xf0i19u48xf18b
-    verified: false
-    hashtags: "#blondehair, #leatherdress, #marianikos, #livelovelaugh"
-  - username: "beautymylife_gr"
-    fullname: >-
-      Popi Stefani
-    location: "Greece"
-    followers: 15636
-    engagement: 359
-    commentsToLikes: 0.826335
-    id: ck55ougup95pv0i11jfly00rf
-    verified: false
-    hashtags: "#storieveneziane, #skinlove, #massager, #bloggerstyle"
-  - username: "mariliafraggi"
-    fullname: >-
-      Marilia Fraggi 👑
-    location: "Greece"
-    followers: 98963
-    engagement: 162
-    commentsToLikes: 0.056033
-    id: ck5zncx1no7r50i14j2rrf4cu
-    verified: false
-    hashtags: "#babesofmissguided, #asos, #nastygalsdoitbetter, #beefeaterpink"
   - username: "tasosdousis"
     fullname: >-
       Tasos Dousis
     location: "Greece"
-    followers: 63068
-    engagement: 1457
-    commentsToLikes: 0.399293
+    followers: 63977
+    engagement: 1388
+    commentsToLikes: 0.373283
     id: ck5hcdoulhiwd0i11c8ao5hs1
     verified: false
-    hashtags: "#mensstyle, #fw20, #clodist, #menoumespiti"
-  - username: "missbloublou_"
+    hashtags: "#merrychristmas, #kalyteroskosmos, #renaultgreece, #menoumespiti"
+  - username: "beautymylife_gr"
     fullname: >-
-      🔹Alexia Zaradouka🔺Beauty Coach
+      Popi Stefani
     location: "Greece"
-    followers: 35037
-    engagement: 325
-    commentsToLikes: 0.413224
-    id: ck0twck3jew3t0i19hp4vee2e
+    followers: 17286
+    engagement: 874
+    commentsToLikes: 1.817042
+    id: ck55ougup95pv0i11jfly00rf
     verified: false
-    hashtags: "#huawei, #lifestyle, #missbloublou, #poems"
-  - username: "mariakortzia"
+    hashtags: "#greecestagram, #vichy, #giveawayhuawei, #hairstyle"
+  - username: "melina_dal"
     fullname: >-
-      Maria Kortzia Soteriou
+      ℳℰℒℐℕᎯ ⅅᎯℒⅅᎯ.   18/6 ♊️
     location: "Greece"
-    followers: 47129
-    engagement: 606
-    commentsToLikes: 0.013176
-    id: ck5hjtd1ch7ty0i11qe9z2iry
+    followers: 97028
+    engagement: 706
+    commentsToLikes: 1.233414
+    id: ck6u8jw2ss0k20j71qrr67hr1
     verified: false
-    hashtags: "#firstgamefirstgoal, #sohappy, #mymusic, #topshopcy"
-  - username: "natalie.engelbrecht"
+    hashtags: "#totalblack, #coffeedaily, #morningvibes, #skincareroutine"
+  - username: "fragakimaria"
     fullname: >-
-      ＮＡＴＡＬＩＥ  ＥＮＧＥＬＢＲＥＣＨＴ
+      ᗰᗩᖇIᗩ ᖴᖇᗩGᗩKI ✨
     location: "Greece"
-    followers: 10286
-    engagement: 249
-    commentsToLikes: 0.241307
-    id: ck8t0ni8tsnrc0j784pgw0rqy
+    followers: 33281
+    engagement: 349
+    commentsToLikes: 0.152718
+    id: ck0u8f76m77xf0i19u48xf18b
     verified: false
-    hashtags: "#greekmythology, #palaceofversailles, #milan, #knoxville"
+    hashtags: "#youandme, #familylife, #mornings, #soapopera"
+  - username: "princesstoniavlog"
+    fullname: >-
+      𝑷𝒓𝒊𝒏𝒄𝒆𝒔𝒔_𝒕𝒐𝒏𝒊𝒂_𝒗𝒍𝒐𝒈
+    location: "Greece"
+    followers: 16191
+    engagement: 1525
+    commentsToLikes: 0.032135
+    id: ck134qun7xr520i19fb9j5bux
+    verified: false
+    hashtags: "#weekend, #staypositive, #corovirus, #emojichallenge"
+  - username: "maria_louiza_real"
+    fullname: >-
+      Maria Louiza Vourou
+    location: "Greece"
+    followers: 64125
+    engagement: 277
+    commentsToLikes: 0.100118
+    id: ck55n9iwk5quk0i11bdztjjlt
+    verified: false
+    hashtags: "#haircolor, #fitness, #gifts, #detoxsmoothie"
+  - username: "thisissivylla"
+    fullname: >-
+      Sivylla
+    location: "Greece"
+    followers: 71307
+    engagement: 262
+    commentsToLikes: 0.830960
+    id: ck0w2zrg6qx2i0i19f2m2qke1
+    verified: false
+    hashtags: "#butfirst, #babychef, #babyariadne, #skincare"
+  - username: "highheelsandabackpack"
+    fullname: >-
+      Melissa Douglas 🙋 Solo Travel
+    location: "Greece"
+    followers: 23964
+    engagement: 322
+    commentsToLikes: 0.064195
+    id: ckap39fl323xm0i78jcywlex4
+    verified: false
+    hashtags: "#bhutanese, #sly, #lahic, #cantbelievequarantittiesisalreadyahashtag"
+  - username: "marina_peristera_"
+    fullname: >-
+      𝑀𝑎𝑟𝑖𝑛𝑎 𝑝𝑎𝑝𝑎𝑛𝑖𝑘𝑜𝑙𝑎𝑜𝑢 👡👜💋💄
+    location: "Greece"
+    followers: 6210
+    engagement: 1245
+    commentsToLikes: 0.328152
+    id: ck13a5yxros2n0i19scdkphq0
+    verified: false
+    hashtags: "#womanstyle, #driveseat, #work, #accesories"
   - username: "medicinallyblonde"
     fullname: >-
       Melina Baltogianni
     location: "Greece"
-    followers: 3547
-    engagement: 1138
-    commentsToLikes: 0.071549
+    followers: 4141
+    engagement: 1532
+    commentsToLikes: 0.120143
     id: ck5zkfyzfjerb0i14efdmms4w
     verified: false
-    hashtags: "#instagram, #glam, #chic, #voteforus"
-  - username: "surfaddictfashionista"
-    fullname: >-
-      Rea Papathanasiou🌴Travel&Style
-    location: "Greece"
-    followers: 15116
-    engagement: 340
-    commentsToLikes: 0.115119
-    id: ck0w1s03xkucg0i19ovr8wewk
-    verified: false
-    hashtags: "#ootdmagazine, #visittofino, #miltonkeynes, #menoumespiti"
-  - username: "marx_ps"
-    fullname: >-
-      MarX Ps
-    location: "Greece"
-    followers: 6223
-    engagement: 668
-    commentsToLikes: 0.023268
-    id: ck6udj6itleru0j710hfhwqb7
-    verified: false
-    hashtags: "#itsme, #happyvalentinesday, #israel, #greekbeautyblogger"
+    hashtags: "#laracroft, #classy, #blackshirt, #rocks"
 ---

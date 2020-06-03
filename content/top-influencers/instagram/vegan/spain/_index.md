@@ -1,59 +1,29 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Spain In 2020
 description: >-
-  Find top vegan Instagram influencers in Spain in 2020. Most popular hashtags: #yomequedoencasa #splitsintospring #portraitpage #pursuitofportraits.
+  Find top vegan Instagram influencers in Spain in 2020. Most popular hashtags: #quedateencasa #vegan #beauty #yomequedoencasa.
 platform: Instagram
 profiles:
   - username: "moniiica.g"
     fullname: >-
       monica g
     location: "Spain"
-    followers: 6154
-    engagement: 2555
-    commentsToLikes: 0.195990
+    followers: 6419
+    engagement: 2610
+    commentsToLikes: 0.197365
     id: ck5q1edi6al5y0i115gjjriqq
     verified: false
     hashtags: "#subduedgirls"
-  - username: "camicottani"
+  - username: "bymariacatala"
     fullname: >-
-      Cami | yoga tutorials
+      María Catalá
     location: "Spain"
-    followers: 5532
-    engagement: 1193
-    commentsToLikes: 0.104317
-    id: ck5cglknvp36h0i11igvhyy2u
+    followers: 99785
+    engagement: 367
+    commentsToLikes: 0.088098
+    id: ck5c50oht2i0a0i11urvn4ggb
     verified: false
-    hashtags: "#igyogafriends, #yogamodel, #yogagoddess, #yogaismytherapy"
-  - username: "joselu_zapata"
-    fullname: >-
-      JOSELU ZAPATA
-    location: "Spain"
-    followers: 15377
-    engagement: 552
-    commentsToLikes: 0.101881
-    id: ck15u9353m0w70i19xler85y2
-    verified: false
-    hashtags: "#cuarentenacoronavirus, #nieve, #cuarentena, #yoentrenoencasa"
-  - username: "iriacastrophoto"
-    fullname: >-
-      Iria Castro - Photographer 🌸
-    location: "Spain"
-    followers: 27099
-    engagement: 994
-    commentsToLikes: 0.023176
-    id: ck5hkiumrihxp0i11f17ws7lo
-    verified: false
-    hashtags: "#pursuitofportraits, #pr0ject, #portraitpage, #drawthisinyourstyleiriacastrophoto"
-  - username: "carlosoleramos"
-    fullname: >-
-      ᴄ ᴀ ʀ ʟ ᴏ s  s ᴏ ʟ ᴇ ʀ
-    location: "Spain"
-    followers: 147860
-    engagement: 211
-    commentsToLikes: 0.089023
-    id: ck5hq4rn5shvg0i11d9y4lys8
-    verified: false
-    hashtags: "#wedding, #couplegoals, #yomequedoencasa, #cuarentenacoronavirus"
+    hashtags: "#surrattbeauty, #graphiceyeliner, #giveaway, #glowyskin"
   - username: "deardiaryblog"
     fullname: >-
       Marta Martín
@@ -63,45 +33,75 @@ profiles:
     commentsToLikes: 0.011436
     id: ck5c30i0vycqg0i11wvbdgum0
     verified: false
-    hashtags: "#mbfwmadrid, #ponstranslator, #vocabularytrainer, #ad"
-  - username: "chic_adicta"
-    fullname: >-
-      Ricmary (Chic-Adicta)
-    location: "Spain"
-    followers: 103887
-    engagement: 173
-    commentsToLikes: 0.122694
-    id: ck134giqqwax50i19ubr7f5ok
-    verified: false
-    hashtags: "#ad, #desenio, #sanvalentin, #cumplea"
+    hashtags: "#ad, #yomequedoencasa, #quedateencasa, #mbfwmadrid"
   - username: "mely_diaaz"
     fullname: >-
       ⭐️Melanie Diaz⭐️
     location: "Spain"
-    followers: 57912
-    engagement: 832
-    commentsToLikes: 0.010472
+    followers: 58370
+    engagement: 744
+    commentsToLikes: 0.012259
     id: ck0vzpeb7a8nv0i19yeq5m0t4
     verified: false
-    hashtags: "#govegan, #coronavirus, #teamjoola, #thereisnoplanetb"
-  - username: "alejandrocialo"
+    hashtags: "#coronavirus, #fightlikeagirl, #veganburger, #govegan"
+  - username: "laiaponsa"
     fullname: >-
-      ALEJANDRO CIALO
+      L a i a P o n s A.
     location: "Spain"
-    followers: 56039
-    engagement: 477
-    commentsToLikes: 0.023098
-    id: ck5zm96bim4rb0i14l3t2c002
+    followers: 91910
+    engagement: 573
+    commentsToLikes: 0.017527
+    id: ck5zzg9cobojy0i14dftwciyh
     verified: false
-    hashtags: "#yomequedoencasa, #quedateentuputacasa"
+    hashtags: "#8m, #yomequedoencasa, #triathlete, #naturalsugar"
   - username: "mariajett"
     fullname: >-
       María Jett
     location: "Spain"
-    followers: 22652
-    engagement: 1004
-    commentsToLikes: 0.008423
+    followers: 22681
+    engagement: 884
+    commentsToLikes: 0.009883
     id: ck5qc1vbeogqw0i117ol9tvop
     verified: false
-    hashtags: "#creative, #portraitsvision, #mateuphoto, #photoshop"
+    hashtags: "#35mm, #disparafilm, #kodak, #praktica"
+  - username: "felixadergold"
+    fullname: >-
+      Felix Adergold
+    location: "Spain"
+    followers: 72073
+    engagement: 379
+    commentsToLikes: 0.021534
+    id: ck0u629uz0s3x0i19kidtckqp
+    verified: false
+    hashtags: "#vonanfangan, #gucci, #vegan, #lifeisabeach"
+  - username: "toni.figueroa"
+    fullname: >-
+      Toni Figueroa 🇪🇦
+    location: "Spain"
+    followers: 35365
+    engagement: 517
+    commentsToLikes: 0.021594
+    id: ckap5tua1d50i0i78bzfiy9r7
+    verified: false
+    hashtags: "#mani, #megan, #mature, #megahair"
+  - username: "enterthevo11d"
+    fullname: >-
+      DAIDA || ダイダ
+    location: "Spain"
+    followers: 13361
+    engagement: 628
+    commentsToLikes: 0.030201
+    id: ck55ku97w03yq0i11ziwzx1p5
+    verified: false
+    hashtags: "#queso, #instagood, #outfits, #toddy"
+  - username: "mireia_delgado"
+    fullname: >-
+      Mireia Delgado | 𝚅𝚎𝚐𝚊𝚗 𝙻𝚒𝚏𝚎
+    location: "Spain"
+    followers: 6128
+    engagement: 1575
+    commentsToLikes: 0.161622
+    id: ckap07rj2p42o0i78qn3hpxzw
+    verified: false
+    hashtags: "#sostenible, #vegano, #cosmetica, #sorteos"
 ---

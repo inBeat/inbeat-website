@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nail Artists Instagram Influencers In Russia In 2020
 description: >-
-  Find top nail artists Instagram influencers in Russia in 2020. Most popular hashtags: #nailartist #nailart #nailpolish #nailstagram.
+  Find top nail artists Instagram influencers in Russia in 2020. Most popular hashtags: # #nailart #nailartist #instanails.
 platform: Instagram
 profiles:
   - username: "eleonoramovs"
     fullname: >-
       Eleonora Movsisian
     location: "Russia"
-    followers: 668998
-    engagement: 176
-    commentsToLikes: 0.019197
+    followers: 614717
+    engagement: 124
+    commentsToLikes: 0.024069
     id: ck5pw0wfokk110i114pr6yg7f
     verified: true
-    hashtags: "#firegirl, #unpacking, #hermes, #birkin25"
+    hashtags: "#10years, #victory, #itscoronatime, #stayhome"
+  - username: "mariapetrzak"
+    fullname: >-
+      МАНИКЮР СПБ
+    location: "Russia"
+    followers: 19331
+    engagement: 352
+    commentsToLikes: 0.030418
+    id: ck0twcz5sey3b0i19jxarvfi9
+    verified: false
+    hashtags: "#coronanails, #nailart"
   - username: "svet_nail_67"
     fullname: >-
       МАНИКЮР СМОЛЕНСК ПЕДИКЮР
     location: "Russia"
-    followers: 22512
-    engagement: 522
-    commentsToLikes: 0.121654
+    followers: 22678
+    engagement: 395
+    commentsToLikes: 0.134427
     id: ck6ucwxlrhwcs0j71qrwpckvz
     verified: false
     hashtags: ""
-  - username: "nailcou"
+  - username: "alex_maximenko_nails"
     fullname: >-
-      Online & Live Nail Classes
+      Александра Максименко
     location: "Russia"
-    followers: 227527
-    engagement: 162
-    commentsToLikes: 0.014752
-    id: ck0u697oq1c510i1966wvmlv5
+    followers: 52570
+    engagement: 230
+    commentsToLikes: 0.034321
+    id: ck6ucww6khw5y0j71d3alm6ht
     verified: false
-    hashtags: "#masterakrasoti, #modelonesfashionweek"
-  - username: "burbalkaa"
+    hashtags: ""
+  - username: "svetlana_stanovaya"
     fullname: >-
-      Yuliya🎂19.01.89
+      SVETLANA STANOVAYA|Обучение
     location: "Russia"
-    followers: 2876
-    engagement: 1425
-    commentsToLikes: 0.120615
-    id: ck0ucai26gc6c0i1935ywqktk
+    followers: 58437
+    engagement: 317
+    commentsToLikes: 0.021554
+    id: ck14ii9zlfjf30i19mfz16fe2
     verified: false
-    hashtags: "#instamanicure, #nailpolishswatch, #nailpolishmaniac, #lucky"
-  - username: "cherie_annette_nails"
+    hashtags: "#cosmicsilver, #firststep, #perfectnail, #pinkchampagne"
+  - username: "nail_provocateur"
     fullname: >-
-      
+      КУРСЫ МАНИКЮРА Алексеева Лидия
     location: "Russia"
-    followers: 2896
-    engagement: 1350
-    commentsToLikes: 0.078413
-    id: ck0u6g7rh1xcb0i19misk7z6v
+    followers: 70113
+    engagement: 192
+    commentsToLikes: 0.674574
+    id: ck5q9xw0fdk9f0i11s4jeq49j
     verified: false
-    hashtags: "#nailpolishaddict, #wula, #cadillacquerdreamcatcher, #dancelegend896"
-  - username: "svetlaya_nails"
+    hashtags: "#naildesign, #telegram, #instanails, #nailartist"
+  - username: "gorokhova_paris"
     fullname: >-
-      Нейл блогер Алина Светлая
+      Алина Горохова
     location: "Russia"
-    followers: 57351
-    engagement: 197
-    commentsToLikes: 0.148963
-    id: ck0u6sfgu2ug10i192yrvbdxn
+    followers: 17413
+    engagement: 223
+    commentsToLikes: 0.223636
+    id: ck13a0nxco1ad0i19kftj1y67
     verified: false
-    hashtags: "#nailartists, #nailsartdesign, #instanails, #nailart"
-  - username: "luxury_nail_lab"
+    hashtags: "#parisnailschool, #parisnailcafe, #nailartist, #liketime"
+  - username: "intrigo__dora"
     fullname: >-
-      Yekaterina Ryapolova
+      Студия Маникюра Intrigo
     location: "Russia"
-    followers: 29588
-    engagement: 159
-    commentsToLikes: 0.029157
-    id: ck5q9xjehdibs0i11b7o5roz7
+    followers: 57195
+    engagement: 480
+    commentsToLikes: 0.048983
+    id: ck0u7opwk5a720i19hlsz4md2
     verified: false
-    hashtags: "#nailartists, #stories, #stamping, #beauty"
-  - username: "naildose_"
+    hashtags: "#davydova, #takeover"
+  - username: "svetochka91"
     fullname: >-
-      Dasha
+      Фотограф Волгоград
     location: "Russia"
-    followers: 17981
-    engagement: 465
-    commentsToLikes: 0.009748
-    id: ck5hlha3vk7x60i1185pblabt
+    followers: 5555
+    engagement: 843
+    commentsToLikes: 0.198153
+    id: ck6ue0urio8n80j71ao0j3ijz
     verified: false
-    hashtags: "#punk, #sparkles, #abstractart, #dark"
-  - username: "nnailtasticc"
+    hashtags: ""
+  - username: "efidavies"
     fullname: >-
-      Kira
+      Hairdresser✂️London❤️Editorial
     location: "Russia"
-    followers: 11368
-    engagement: 708
-    commentsToLikes: 0.017967
-    id: ck6tt4mms8ko20j716x1hrdte
+    followers: 53895
+    engagement: 242
+    commentsToLikes: 0.039653
+    id: ck5c4zmlt2frl0i11zaz0qetc
     verified: false
-    hashtags: "#nailartwow, #ilnpconfetti, #drawings, #drawingoftheday"
-  - username: "annashirkova_nails"
-    fullname: >-
-      NAIL БЛОГГЕР - АННА ШИРКОВА 🤟
-    location: "Russia"
-    followers: 39664
-    engagement: 318
-    commentsToLikes: 0.942303
-    id: ck5q9xelndhth0i112gebv9u2
-    verified: false
-    hashtags: "#nailartists, #naildesign"
+    hashtags: "#inspiration, #education, #styling, #futurecollective"
 ---

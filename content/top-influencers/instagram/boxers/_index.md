@@ -1,19 +1,39 @@
 ---
 title: Top 10 Boxers Instagram Influencers In 2020
 description: >-
-  Find top boxers Instagram influencers in 2020. Most popular hashtags: #rgba #boxing #stayhome #matchroomboxing.
+  Find top boxers Instagram influencers in 2020. Most popular hashtags: #boxerdoglovers #boxerdogfans #staysafe #idrawdoggo.
 platform: Instagram
 profiles:
-  - username: "davidadeleye1"
+  - username: "boxers_lovely_bx"
     fullname: >-
-      David Adeleye
-    location: "United Kingdom"
-    followers: 9863
-    engagement: 1561
-    commentsToLikes: 0.068869
-    id: ck5hirvpqf1zt0i11al25u1u4
+      Boxers
+    location: "United States"
+    followers: 26979
+    engagement: 405
+    commentsToLikes: 0.009338
+    id: ck14jg4mfk6380i19pj2vva1a
     verified: false
-    hashtags: "#wilderfury, #throwback"
+    hashtags: "#doglover, #theboxerworld, #boxerdogfans, #boxer101"
+  - username: "boxer_love_honey"
+    fullname: >-
+      Boxer
+    location: "United States"
+    followers: 26810
+    engagement: 326
+    commentsToLikes: 0.008825
+    id: ck14jg6auk6aq0i19x6q9tx0u
+    verified: false
+    hashtags: ""
+  - username: "boxer_funny_sky"
+    fullname: >-
+      Boxer
+    location: ""
+    followers: 24847
+    engagement: 289
+    commentsToLikes: 0.004996
+    id: ck14jg4ijk61f0i190zq02gmn
+    verified: false
+    hashtags: "#boxerfam, #iloveboxers, #babyboxer, #boxerdoglovers"
   - username: "alirezachalook"
     fullname: >-
       Alireza
@@ -28,80 +48,60 @@ profiles:
     fullname: >-
       ɕarol 🎈
     location: ""
-    followers: 10040
-    engagement: 1606
-    commentsToLikes: 0.136043
+    followers: 10131
+    engagement: 1363
+    commentsToLikes: 0.155335
     id: ck5pzy24i3axm0i11g5o971gm
     verified: false
-    hashtags: "#stayhome, #staysafe"
+    hashtags: "#stayhome, #staysafe, #quarantine, #justsaying"
+  - username: "davidadeleye1"
+    fullname: >-
+      David Adeleye
+    location: "United Kingdom"
+    followers: 9793
+    engagement: 1560
+    commentsToLikes: 0.065926
+    id: ck5hirvpqf1zt0i11al25u1u4
+    verified: false
+    hashtags: "#wilderfury, #throwback"
   - username: "patday_allday"
     fullname: >-
       Patrick Day
     location: "United States"
-    followers: 14658
-    engagement: 1976
-    commentsToLikes: 0.084128
+    followers: 14229
+    engagement: 2047
+    commentsToLikes: 0.083787
     id: ck5zymuura5r20i14ayxb2hm9
     verified: false
-    hashtags: "#prettyboyjames, #thejackpot, #breastcancerawareness, #alldayeveryday"
-  - username: "r_riakporhe"
-    fullname: >-
-      Richard Riakporhe
-    location: "United Kingdom"
-    followers: 25074
-    engagement: 795
-    commentsToLikes: 0.031101
-    id: ck14ldz11u75q0i19rwcm2tgg
-    verified: true
-    hashtags: "#london, #britishchampion, #skysports, #dillianwhyte"
+    hashtags: "#brunch, #dhodge, #alldayeveryday, #thejackpot"
   - username: "dan_azeez"
     fullname: >-
       Dan Azeez
     location: "United Kingdom"
-    followers: 8758
-    engagement: 1270
-    commentsToLikes: 0.061643
+    followers: 8681
+    engagement: 1275
+    commentsToLikes: 0.061225
     id: ck5byoo3npjph0i11wnro9oxy
     verified: false
-    hashtags: "#lewishamlion, #2020, #oneday, #boxing"
-  - username: "_alexisespino"
+    hashtags: "#instalife, #azeez, #tbt, #super"
+  - username: "adambub"
     fullname: >-
-      Alexis Espino
-    location: "United States"
-    followers: 10859
-    engagement: 1320
-    commentsToLikes: 0.030154
-    id: ck5c59uar31og0i11zxl3gdjy
+      Adam Bub
+    location: "Australia"
+    followers: 22909
+    engagement: 706
+    commentsToLikes: 0.060317
+    id: ckap41k4x5fq00i78tc17xxfh
     verified: false
-    hashtags: "#east, #3rdroundtko, #blessed, #tbt"
+    hashtags: "#tbt"
   - username: "hector_tanajara"
     fullname: >-
       El Finito
     location: "United States"
-    followers: 18570
-    engagement: 932
-    commentsToLikes: 0.028846
+    followers: 18433
+    engagement: 963
+    commentsToLikes: 0.026151
     id: ck5hisq1vf6qf0i11pyl00xj6
     verified: true
-    hashtags: "#teamtanajara, #210, #jetsway, #january11th"
-  - username: "zareennikhat"
-    fullname: >-
-      Nikhat Zareen
-    location: "India"
-    followers: 17609
-    engagement: 1070
-    commentsToLikes: 0.026409
-    id: ck6trxnv41nvs0j716san1kld
-    verified: true
-    hashtags: "#sundayselfie, #child, #tokyodisneyland, #staysafe"
-  - username: "ladarius_miller"
-    fullname: >-
-      LaDarius Memphis Miller
-    location: "United States"
-    followers: 22756
-    engagement: 385
-    commentsToLikes: 0.061230
-    id: ck5zz1irzawl00i14bfyny5t1
-    verified: false
-    hashtags: "#babyboy, #affiliationmanagement, #mayweatherpromotions, #teammemphis"
+    hashtags: "#january11th, #jordanyear, #familia, #jetsway"
 ---

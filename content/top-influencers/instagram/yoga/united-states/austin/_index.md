@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Austin In 2020
 description: >-
-  Find top yoga Instagram influencers in Austin in 2020. Most popular hashtags: #yoga #texas #austin #atx.
+  Find top yoga Instagram influencers in Austin in 2020. Most popular hashtags: #yoga #austin #austintexas #stayhome.
 platform: Instagram
 profiles:
-  - username: "victoriaericksonwriter"
+  - username: "yogini_tasha"
     fullname: >-
-      Victoria Erickson 🖤
+      Tasha Mascareno
     location: "United States"
-    followers: 34057
-    engagement: 280
-    commentsToLikes: 0.020247
-    id: ck15rmdcp8mgh0i197zk2nunb
+    followers: 20159
+    engagement: 299
+    commentsToLikes: 0.131485
+    id: ck0vycklv3b600i196uokwf9t
     verified: false
-    hashtags: "#victoriaerickson, #nature, #poetsofig, #writingalchemy"
-  - username: "jesterkingbrewery"
-    fullname: >-
-      jesterkingbrewery
-    location: "United States"
-    followers: 111073
-    engagement: 78
-    commentsToLikes: 0.021498
-    id: ck6tozft9gyxt0j7153anfhq5
-    verified: false
-    hashtags: "#craftbeerdotcom, #babygoats, #austin, #timeplacepeople"
+    hashtags: "#cleveland, #dogsofig, #saturday, #lmao"
   - username: "flipsolomon"
     fullname: >-
       Flip Solomon | Pen & Ink
     location: "United States"
-    followers: 10074
-    engagement: 701
-    commentsToLikes: 0.025955
+    followers: 10356
+    engagement: 725
+    commentsToLikes: 0.030192
     id: ck5znklnzonj60i14o0arnxe8
     verified: false
-    hashtags: "#eastaustinstudiotour2019, #anthropology, #shipibo, #mushroomphotobooth"
-  - username: "yourtrendytherapist"
+    hashtags: "#gorobabank, #blackzephyr, #thefuture, #macgyverit"
+  - username: "palmvisuals"
     fullname: >-
-      Mary
+      A Cinematic Film Co.
     location: "United States"
-    followers: 57385
-    engagement: 134
-    commentsToLikes: 0.082696
-    id: ck6tnjjdz9z120j71dwhdvc3c
+    followers: 6667
+    engagement: 708
+    commentsToLikes: 0.025605
+    id: ck5zvnkh34kna0i14d7njvut6
     verified: false
-    hashtags: "#adventure, #fableticspartner, #coronavirus, #atx"
-  - username: "ericabalbay"
+    hashtags: "#bridesmaids, #couplegoals, #invest, #filmmaker"
+  - username: "newjohnnysins"
     fullname: >-
-      Erica Balbay
+      Johnny Sins
     location: "United States"
-    followers: 9687
-    engagement: 711
-    commentsToLikes: 0.035476
-    id: ck6tkge7a4neo0j712nkybdqr
+    followers: 37700
+    engagement: 1184
+    commentsToLikes: 0.021081
+    id: ck8wdh3nadtx10j78bng8sq4e
     verified: false
-    hashtags: "#evdekal, #corona, #tiktokdance, #savagechallenge"
+    hashtags: "#lasvegas, #covid19, #hopeoutdoorgallery, #vr"
+  - username: "truebluewill"
+    fullname: >-
+      Just Will
+    location: "United States"
+    followers: 10829
+    engagement: 417
+    commentsToLikes: 0.032977
+    id: ck13ad1hrps800i19uyed2apq
+    verified: false
+    hashtags: "#intention, #hadtodoit, #shibastagram, #drillweekends"
   - username: "laurenmarek"
     fullname: >-
       Lauren Marek
     location: "United States"
-    followers: 50592
-    engagement: 142
-    commentsToLikes: 0.019097
+    followers: 50528
+    engagement: 126
+    commentsToLikes: 0.018152
     id: ck0u1a4xfw9590i192n38qpxn
     verified: false
-    hashtags: "#greensboro, #giftfromgoogle, #texas, #myparachutehome"
-  - username: "surfsupessentials"
-    fullname: >-
-      Carlotta☆Surfsupessentials
-    location: "United States"
-    followers: 23687
-    engagement: 441
-    commentsToLikes: 0.052915
-    id: ck8tcs4re0gup0j78zo5n8emn
-    verified: false
-    hashtags: "#livinlargeco, #outdoorgear, #truthabouttalcpartner, #grateful"
-  - username: "salty.zozo"
-    fullname: >-
-      Zoë Welch
-    location: "United States"
-    followers: 49425
-    engagement: 150
-    commentsToLikes: 0.034750
-    id: ck5q2753yel6z0i11grz79we3
-    verified: false
-    hashtags: "#staystoked, #abikinikindalife, #atx, #ilysb"
+    hashtags: "#mothersday, #yoga, #cactus, #elinchrom"
   - username: "simpleliving13"
     fullname: >-
       Brittany Taylor 🙃💋
     location: "United States"
-    followers: 17449
-    engagement: 476
-    commentsToLikes: 0.056979
+    followers: 17727
+    engagement: 521
+    commentsToLikes: 0.050275
     id: ck8t9c7jenkei0j781b0epr8z
     verified: false
-    hashtags: "#rituals, #spells, #presence, #breathing"
+    hashtags: "#ilovethislife, #loving, #ilovelife, #bathingpregnant"
   - username: "shihpoogeorge"
     fullname: >-
       Shihpoo George
     location: "United States"
-    followers: 3702
-    engagement: 1939
-    commentsToLikes: 0.035553
+    followers: 4255
+    engagement: 1873
+    commentsToLikes: 0.037791
     id: ck8t392772e0s0j78js48dps1
     verified: false
-    hashtags: "#shihtzulover, #texas, #yogalove, #yogaeverywhere"
+    hashtags: "#dogsof512, #stpatricksday, #camel, #draftday"
+  - username: "swiftwellness"
+    fullname: >-
+      Ashley | Wellness Blogger 🌱
+    location: "United States"
+    followers: 48212
+    engagement: 228
+    commentsToLikes: 0.041874
+    id: ck13aefwvpzo30i19wk2hd7jb
+    verified: false
+    hashtags: "#plantsofinstagram, #swiftstories, #woodburningart, #happymothersday"
+  - username: "gustavoapadron"
+    fullname: >-
+      Gustavo Padron
+    location: "United States"
+    followers: 17614
+    engagement: 162
+    commentsToLikes: 0.111008
+    id: ck0w715kcb8pw0i19lictajef
+    verified: false
+    hashtags: "#easypeacy, #yogayrespirar, #onlinecommunity, #getyourcardio"
 ---

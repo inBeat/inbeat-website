@@ -1,107 +1,107 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Sydney In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Sydney in 2020. Most popular hashtags: #travel #australia #sydney #graphicdesigner.
+  Find top graphic-designers Instagram influencers in Sydney in 2020. Most popular hashtags: #graphicdesign #tgif #oceanlover #oceanlife.
 platform: Instagram
 profiles:
-  - username: "krisandrewsmall"
+  - username: "glamgirlamy"
     fullname: >-
-      Kris Andrew Small
+      GLAM BY AMY
     location: "Australia"
-    followers: 7995
-    engagement: 705
-    commentsToLikes: 0.028703
-    id: ck6u4rme45dpp0j71u63qb5qw
+    followers: 71677
+    engagement: 60
+    commentsToLikes: 0.044126
+    id: ck5q9o3tuc40f0i11na93j5bn
     verified: false
-    hashtags: "#fruitsartclub, #certainmagazine, #tdkpeepshow, #adobedesign"
-  - username: "ninaalexandra_"
+    hashtags: "#giveaways, #giveawaycontest, #hairtransformation, #thebridalmasterclass"
+  - username: "mishandkirk"
     fullname: >-
-      Fashion • Travel • Creative
+      Mish & Kirk
     location: "Australia"
-    followers: 18951
-    engagement: 243
-    commentsToLikes: 0.057272
-    id: ck602rhj5ireq0i14npl2uea2
+    followers: 166096
+    engagement: 161
+    commentsToLikes: 0.063322
+    id: ck15phzc7xz5d0i19yxlrf9bu
     verified: false
-    hashtags: "#dametraveler, #backpackerstory, #beachwaves, #singapore"
+    hashtags: "#hiking, #elopement, #bohopresets, #mountainlife"
+  - username: "amira_medunjanin"
+    fullname: >-
+      Amira Medunjanin
+    location: "Australia"
+    followers: 20258
+    engagement: 439
+    commentsToLikes: 0.022676
+    id: ck5cekkn9l6hh0i11fm2m6eub
+    verified: false
+    hashtags: "#soon, #africa, #courage, #living"
+  - username: "killingmattwoods"
+    fullname: >-
+      KILLING MATT WOODS
+    location: "Australia"
+    followers: 19543
+    engagement: 422
+    commentsToLikes: 0.082198
+    id: ck14lcg8qtyqp0i19xp4s0yoy
+    verified: false
+    hashtags: "#10yearsdeep, #graphicdesign, #pageturner, #conceptspaces"
+  - username: "coaparchitects"
+    fullname: >-
+      CO-AP (Architects)
+    location: "Australia"
+    followers: 11384
+    engagement: 240
+    commentsToLikes: 0.020926
+    id: ck13c52l2ynkh0i19wcfdgmin
+    verified: false
+    hashtags: "#modernfurniture, #precastconcrete, #rousehill, #costume"
   - username: "farkie.02"
     fullname: >-
       Mark Fitzpatrick
     location: "Australia"
-    followers: 3794
-    engagement: 5530
-    commentsToLikes: 0.023291
+    followers: 3748
+    engagement: 5635
+    commentsToLikes: 0.023340
     id: ck8sxt9n6ikyz0j78er1kww3l
     verified: false
-    hashtags: "#coba, #gaylove, #pinkhair, #gaycouple"
-  - username: "karina_jambrak"
-    fullname: >-
-      Australian Artist
-    location: "Australia"
-    followers: 30915
-    engagement: 375
-    commentsToLikes: 0.074877
-    id: ck0u2d4skzht70i19m6z3zo28
-    verified: false
-    hashtags: "#kidsart, #wallart, #cornerofmyhome, #hellocolor"
-  - username: "tracieching"
-    fullname: >-
-      Tracie Ching
-    location: "Australia"
-    followers: 17158
-    engagement: 330
-    commentsToLikes: 0.023945
-    id: ck5q4cwfuomao0i118gz0xnhw
-    verified: false
-    hashtags: "#sydney, #study, #classifiedseries, #toys"
-  - username: "emilyescapade"
-    fullname: >-
-      EMILY ↡ Exploring
-    location: "Australia"
-    followers: 5053
-    engagement: 1203
-    commentsToLikes: 0.138248
-    id: ck0tvx5jnd6cn0i198grvph9x
-    verified: false
-    hashtags: "#newzealandguide, #tropicallife, #travelcouples, #seeaustralia"
+    hashtags: "#barber, #gaykiss, #gaylove, #viscogirl"
   - username: "mietta__"
     fullname: >-
       MIETTA 🗡️
     location: "Australia"
-    followers: 6653
-    engagement: 713
-    commentsToLikes: 0.054129
+    followers: 6870
+    engagement: 704
+    commentsToLikes: 0.053309
     id: ck14jjoxfkp8f0i19ddbpauyi
     verified: false
     hashtags: "#easeeas"
-  - username: "farkie.02"
-    fullname: >-
-      Mark Fitzpatrick
-    location: "Australia"
-    followers: 3794
-    engagement: 5530
-    commentsToLikes: 0.023291
-    id: ck8sxt9n6ikyz0j78er1kww3l
-    verified: false
-    hashtags: "#coba, #gaylove, #pinkhair, #gaycouple"
   - username: "rosshatton"
     fullname: >-
       Ross Hatton - Bokeh / Street
     location: "Australia"
-    followers: 4031
-    engagement: 4406
-    commentsToLikes: 0.185924
+    followers: 4020
+    engagement: 4495
+    commentsToLikes: 0.182114
     id: ck0w1zzs0lyxn0i19zwdplhb7
     verified: false
-    hashtags: "#clickcity, #citykillerz, #nightphotography, #strangertonez"
-  - username: "ninaalexandra_"
+    hashtags: "#cllickcity, #citykillerz, #dopeclickz, #ourstreetdays"
+  - username: "doyle.snaps"
     fullname: >-
-      Fashion • Travel • Creative
+      Colm Doyle
     location: "Australia"
-    followers: 18951
-    engagement: 243
-    commentsToLikes: 0.057272
-    id: ck602rhj5ireq0i14npl2uea2
+    followers: 2618
+    engagement: 2059
+    commentsToLikes: 0.111530
+    id: ck8t900gumgbp0j78hw1q2wvt
     verified: false
-    hashtags: "#dametraveler, #backpackerstory, #beachwaves, #singapore"
+    hashtags: "#astrophoto, #magic, #perthigers, #leagueoflenses"
+  - username: "designbyaikonik"
+    fullname: >-
+      CARISSA SMART
+    location: "Australia"
+    followers: 94756
+    engagement: 130
+    commentsToLikes: 0.043431
+    id: ck0vvw94ur1qi0i1937kxyz5k
+    verified: false
+    hashtags: "#mjdaisy, #30daysofmusic, #colourflatlayseries"
 ---

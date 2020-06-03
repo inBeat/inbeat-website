@@ -1,19 +1,9 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In New York In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in New York in 2020. Most popular hashtags: #newyork #graphicdesign #graphicdesigner #chicago.
+  Find top graphic-designers Instagram influencers in New York in 2020. Most popular hashtags: #graphicdesigner #graphicdesign #newyork #photoshop.
 platform: Instagram
 profiles:
-  - username: "dallionking"
-    fullname: >-
-      Dallion King / Mr.Moves 🇩🇴 🇯🇲
-    location: "United States"
-    followers: 40264
-    engagement: 312
-    commentsToLikes: 0.039953
-    id: ck5c0axfkss5u0i11vlcq4hrk
-    verified: false
-    hashtags: "#model, #kobe, #promo, #streetball"
   - username: "gillie_edits"
     fullname: >-
       GillieEdits
@@ -24,84 +14,94 @@ profiles:
     id: ck13d16o8357m0i19vxn12x2y
     verified: false
     hashtags: "#espn, #battlehawks, #bigred, #patrickmahomes"
+  - username: "pangilai"
+    fullname: >-
+      Kim Mupangilaï
+    location: "United States"
+    followers: 5395
+    engagement: 756
+    commentsToLikes: 0.086142
+    id: ck5caw0gpe94t0i11bkiruhux
+    verified: false
+    hashtags: ""
   - username: "alakijastudios"
     fullname: >-
       Jide Alakija - ALAKIJA STUDIOS
     location: "United States"
-    followers: 62032
-    engagement: 98
-    commentsToLikes: 0.057403
+    followers: 61760
+    engagement: 83
+    commentsToLikes: 0.044915
     id: ck15pkmomycjp0i19gajoqi8f
     verified: false
-    hashtags: "#postthepeople, #engagement, #maternityphoto, #dica"
+    hashtags: "#traveltheworld, #photographylovers, #retrato, #teachersofinstagram"
   - username: "asthetiquegroup"
     fullname: >-
       Λ S T H E T I Q U E
     location: "United States"
-    followers: 44685
-    engagement: 291
-    commentsToLikes: 0.017203
+    followers: 45569
+    engagement: 315
+    commentsToLikes: 0.016877
     id: ck15uymryp3zk0i19yqxzhr59
     verified: false
-    hashtags: "#designinprogress, #loungechair, #chairdesign, #thedesigntalks"
+    hashtags: "#customdesign, #bestrestaurant, #burgershop, #renovation"
+  - username: "anyasiberia"
+    fullname: >-
+      Anya, an actress from New York
+    location: "United States"
+    followers: 11531
+    engagement: 1480
+    commentsToLikes: 0.026904
+    id: ck5hjzcyhhin00i113idjhk3h
+    verified: false
+    hashtags: "#anyatakeone, #siberiaaboutacting"
+  - username: "sendog"
+    fullname: >-
+      Sen Dog of Cypress Hill
+    location: "United States"
+    followers: 264757
+    engagement: 121
+    commentsToLikes: 0.019738
+    id: ck5zswui7zbz60i14n0tc4sjr
+    verified: true
+    hashtags: "#blunt, #design, #cartoon, #weedstagram"
+  - username: "mrwilley"
+    fullname: >-
+      Matt Willey
+    location: "United States"
+    followers: 33880
+    engagement: 641
+    commentsToLikes: 0.021750
+    id: ck15qv1y24s3h0i19kzjzqr9f
+    verified: false
+    hashtags: ""
   - username: "hawkedits_"
     fullname: >-
       JH
     location: "United States"
-    followers: 6532
-    engagement: 1417
-    commentsToLikes: 0.023014
+    followers: 6497
+    engagement: 1358
+    commentsToLikes: 0.024629
     id: ck14i3jeudgpd0i19x5n4pl7z
     verified: false
-    hashtags: "#bron, #bucks, #warriord, #photography"
-  - username: "shotsbypaula"
-    fullname: >-
-      Paula Stopka
-    location: "United States"
-    followers: 2867
-    engagement: 1295
-    commentsToLikes: 0.040066
-    id: ck6u9bj7zwl9p0j7127zhdb6y
-    verified: false
-    hashtags: "#portraitphoto, #tonesofnyc, #portraitmode, #citykillerz"
-  - username: "lunarkris"
-    fullname: >-
-      🌙 KRIS ✨
-    location: "United States"
-    followers: 6773
-    engagement: 632
-    commentsToLikes: 0.072017
-    id: ck6tmm1kh838u0j71xawbnzgq
-    verified: false
-    hashtags: "#dfwphotographer, #eventplanner, #laphotographer, #selfportraits"
+    hashtags: "#diakite, #braxtonkey, #nuggets, #brooklynnets"
   - username: "adeosyeboah"
     fullname: >-
       Adeos
     location: "United States"
-    followers: 2438
-    engagement: 1630
-    commentsToLikes: 0.060569
+    followers: 2466
+    engagement: 1792
+    commentsToLikes: 0.076603
     id: ck6u3syfizp990j711i2w5gk2
     verified: false
-    hashtags: "#leather, #photograpghy, #diversity, #nature"
-  - username: "alexandrepgs"
+    hashtags: "#drkwamenkrumah, #diversity, #bored, #spring"
+  - username: "lunarkris"
     fullname: >-
-      Alexandre Puglisi
+      🌙 KRIS ✨ DFW Model
     location: "United States"
-    followers: 10273
-    engagement: 785
-    commentsToLikes: 0.062401
-    id: ck6ui9nmudvjq0j71jgywiljo
+    followers: 6773
+    engagement: 617
+    commentsToLikes: 0.065339
+    id: ck6tmm1kh838u0j71xawbnzgq
     verified: false
-    hashtags: "#igersofnyc, #building, #newyork, #hudsonyards"
-  - username: "red_avis"
-    fullname: >-
-      Rasim Gamzaev
-    location: "United States"
-    followers: 15437
-    engagement: 1067
-    commentsToLikes: 0.039104
-    id: ck5hjudvch9k00i11ebcn8ngb
-    verified: false
-    hashtags: "#light, #gorillaenergy, #intro, #brooklyn"
+    hashtags: "#makeupinstagram, #dfweventplanner, #makeupinspo, #eatyourheartout"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Berlin In 2020
 description: >-
-  Find top stylists Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #fashion #editorial #portrait.
+  Find top stylists Instagram influencers in Berlin in 2020. Most popular hashtags: #stayhome #quarantine #beach #interiordetails.
 platform: Instagram
 profiles:
-  - username: "lawrie_abei"
+  - username: "rekii.fotografie"
     fullname: >-
-      Lawrie 🇬🇭
+      Rekii | Fantasy Verwandlungen
     location: "Germany"
-    followers: 2324
-    engagement: 1420
-    commentsToLikes: 0.070808
-    id: ck5cf1ndem5c30i11qycc81fg
+    followers: 43866
+    engagement: 454
+    commentsToLikes: 0.016211
+    id: ck14lg4d1uhvb0i1900fxoxrl
     verified: false
-    hashtags: "#photgraphy, #styling, #onlineshopping, #naturephotography"
-  - username: "delablanca_"
-    fullname: >-
-      #javierdelablanca
-    location: "Germany"
-    followers: 20890
-    engagement: 697
-    commentsToLikes: 0.017303
-    id: ck1370u6v98360i190fh671j0
-    verified: false
-    hashtags: "#javierdelablanca"
-  - username: "vega_motions"
-    fullname: >-
-      Vega Motions | Photo & Retouch
-    location: "Germany"
-    followers: 9818
-    engagement: 1202
-    commentsToLikes: 0.019990
-    id: ck5hoc4frpb0r0i111sqbziai
-    verified: false
-    hashtags: "#photoshop, #studio, #flower, #lights"
+    hashtags: "#moonchild, #dreads, #underwaterworld, #fairyberlin"
   - username: "masha_medusa"
     fullname: >-
-      Masha
+      Masha Schubbach
     location: "Germany"
-    followers: 18879
-    engagement: 886
-    commentsToLikes: 0.055786
+    followers: 18759
+    engagement: 830
+    commentsToLikes: 0.052651
     id: ck14hses6bw740i19q2qvckyr
     verified: false
-    hashtags: "#ad, #justhoshoot, #weareone, #wolfskintechlab"
+    hashtags: "#atreetfashion, #fendi, #wolfskintechlab, #pumafuturerider"
+  - username: "studio_nahili"
+    fullname: >-
+      Anna Albertine Baronius
+    location: "Germany"
+    followers: 31847
+    engagement: 176
+    commentsToLikes: 0.034395
+    id: ck55jhutix2c40i115m48g06c
+    verified: false
+    hashtags: "#whiteandplants, #bedroom, #darlingmoment, #interiormilk"
   - username: "esteban_pomar"
     fullname: >-
       Esteban Pomar
     location: "Germany"
-    followers: 23274
-    engagement: 262
-    commentsToLikes: 0.021036
+    followers: 22640
+    engagement: 246
+    commentsToLikes: 0.022020
     id: ck0w60aim6anr0i199ysgyj32
     verified: false
     hashtags: ""
-  - username: "dawidtomaszewski"
+  - username: "irsonvladi"
     fullname: >-
-      DAWID TOMASZEWSKI
+      Irsonvladi
     location: "Germany"
-    followers: 33150
-    engagement: 147
-    commentsToLikes: 0.026513
-    id: ck5q64cluvwax0i11o46b2905
-    verified: true
-    hashtags: "#bauhaus, #hotcouture, #styledbyme, #done"
-  - username: "caroline_hartig"
-    fullname: >-
-      Caroline Hartig
-    location: "Germany"
-    followers: 9335
-    engagement: 900
-    commentsToLikes: 0.024416
-    id: ck5bxbo2onewb0i11wmec5waj
+    followers: 63658
+    engagement: 398
+    commentsToLikes: 0.090367
+    id: ck8tcto8i0mzm0j78rmjp0zmw
     verified: false
-    hashtags: "#einschalten, #aufgeregt, #losgehts, #jetzt"
-  - username: "adrian_laza"
+    hashtags: "#green, #dogsofinstagram, #naturelovers, #skin"
+  - username: "lawrie_abei"
     fullname: >-
-      L  A  Z  A
+      «Plot Twist»
     location: "Germany"
-    followers: 10801
-    engagement: 531
-    commentsToLikes: 0.012229
-    id: ck6ttb87d9mrw0j71fg87acoo
+    followers: 2390
+    engagement: 1462
+    commentsToLikes: 0.066126
+    id: ck5cf1ndem5c30i11qycc81fg
     verified: false
-    hashtags: "#corona, #berlin, #show, #pyrenees"
-  - username: "dotpakistani"
-    fullname: >-
-      Maryam.A.Ibraheem
-    location: "Germany"
-    followers: 27966
-    engagement: 484
-    commentsToLikes: 0.049231
-    id: ck6ty3ld41hb30j716g3ropd8
-    verified: false
-    hashtags: "#fashionblogger, #lifestyle, #hijabtutorial, #spirituality"
+    hashtags: "#styling, #fashioneditorial, #lawrie, #style"
   - username: "elena.may.xx"
     fullname: >-
       Elena Matejovsky
     location: "Germany"
-    followers: 4303
-    engagement: 1127
-    commentsToLikes: 0.218089
+    followers: 4367
+    engagement: 1219
+    commentsToLikes: 0.217958
     id: ck15u4se7leln0i194lrev8bc
     verified: false
-    hashtags: "#blogger, #swan, #carmushka, #berlin"
+    hashtags: "#blumenmeer, #blumenladen, #travelgirl, #sky"
+  - username: "laurasimon8"
+    fullname: >-
+      Laura Simon
+    location: "Germany"
+    followers: 55351
+    engagement: 196
+    commentsToLikes: 0.053142
+    id: ck9hcyfxznh600j78scrrmn9d
+    verified: false
+    hashtags: "#wednesdays, #mbfw, #fridays, #mondays"
+  - username: "katrinfromberlin"
+    fullname: >-
+      FASHION & LIFESTYLE BLOGGER
+    location: "Germany"
+    followers: 50565
+    engagement: 121
+    commentsToLikes: 0.049673
+    id: ck8t8i9c4kkvp0j78cgpezbaq
+    verified: false
+    hashtags: "#youtuber, #quarantine, #urlaubaufbalkonien, #home"
+  - username: "mr.adamsk_i"
+    fullname: >-
+      ADAM DAVID⚓⛵
+    location: "Germany"
+    followers: 9995
+    engagement: 632
+    commentsToLikes: 0.065126
+    id: ck8taqltvsorh0j7896kp8nry
+    verified: false
+    hashtags: "#stylestory, #cuteboys, #sundayvibes, #styleblog"
 ---

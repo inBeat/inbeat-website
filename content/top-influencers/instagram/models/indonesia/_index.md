@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top models Instagram influencers in Indonesia in 2020. Most popular hashtags: #bali #lfl #fff #spain.
+  Find top models Instagram influencers in Indonesia in 2020. Most popular hashtags: #likelikelike # #selfietime #merapi.
 platform: Instagram
 profiles:
-  - username: "sheneller"
-    fullname: >-
-      Shenelle Rodrigo
-    location: "Indonesia"
-    followers: 18409
-    engagement: 637
-    commentsToLikes: 0.063714
-    id: ck0uc656ig6il0i19evov66u5
-    verified: false
-    hashtags: "#srilanka, #yalalevel100, #thisissrilanka, #kumananationalpark"
   - username: "zachhartman1"
     fullname: >-
       ZACH HARTMAN
     location: "Indonesia"
-    followers: 26475
-    engagement: 1017
-    commentsToLikes: 0.036042
+    followers: 31279
+    engagement: 1012
+    commentsToLikes: 0.033335
     id: ck8sys9jslt700j78d9xp1v8w
     verified: false
-    hashtags: ""
-  - username: "annesivaasen"
+    hashtags: "#athomewithasos"
+  - username: "vanessabrli"
     fullname: >-
-      Anne Siv Aasen | NORWAY 🇳🇴
+      فانیسسا ابریللیا
     location: "Indonesia"
-    followers: 16999
-    engagement: 526
-    commentsToLikes: 0.127562
-    id: ck55ps5lwb9c80i11lwsue3fl
+    followers: 3678
+    engagement: 1603
+    commentsToLikes: 0.226587
+    id: ck9whmxljylvf0j78dnr8bf46
     verified: false
-    hashtags: "#meditation, #createyourownmagic, #yogafestival, #yogamodel"
+    hashtags: "#selamatberbukapuasa, #selfietime"
+  - username: "jenadammaya"
+    fullname: >-
+      𝗝єηαԃαм  𝗠αуα ♡
+    location: "Indonesia"
+    followers: 264347
+    engagement: 958
+    commentsToLikes: 0.014250
+    id: ck134fh7ew6hg0i1991ywks6y
+    verified: false
+    hashtags: "#kartiniday, #pubgmxburgerking, #ramadanbarengdana, #gamevoucherpromo"
+  - username: "jihanherens"
+    fullname: >-
+      Jihan Salma Hereni
+    location: "Indonesia"
+    followers: 7465
+    engagement: 1413
+    commentsToLikes: 0.104116
+    id: ck5hpf5kgr97l0i11fv1rzhfv
+    verified: false
+    hashtags: "#hijabselfie, #candidmoments, #bridalgown, #model"
+  - username: "georgiahball"
+    fullname: >-
+      Georgia Ball 🦋
+    location: "Indonesia"
+    followers: 6128
+    engagement: 1495
+    commentsToLikes: 0.052446
+    id: ckap993tarocf0i78cj6xb06q
+    verified: false
+    hashtags: ""
+  - username: "alyaed"
+    fullname: >-
+      𝑯𝒊, 𝑰'𝒎 𝑨𝒍𝒚𝒂 🌻
+    location: "Indonesia"
+    followers: 3766
+    engagement: 1737
+    commentsToLikes: 0.109804
+    id: ck8sxi3pohhai0j78wnbm0rlv
+    verified: false
+    hashtags: "#exploreyogyakarta, #bukitklanton, #indonesiaku, #wonderfullindonesia"
+  - username: "agtellin_"
+    fullname: >-
+      Agatha Ellin Lourdhesta Wijaya
+    location: "Indonesia"
+    followers: 7384
+    engagement: 2509
+    commentsToLikes: 0.025153
+    id: ck5qds03kx24v0i11zc13mfhx
+    verified: false
+    hashtags: "#cbindependent, #biduancb, #kulonprogoexplore, #pitung"
+  - username: "killer_katrin"
+    fullname: >-
+      Ekaterina Novikova
+    location: "Indonesia"
+    followers: 945655
+    engagement: 820
+    commentsToLikes: 0.009961
+    id: ck9wicbu51oj90j787n8g0fdf
+    verified: false
+    hashtags: ""
   - username: "gvozd"
     fullname: >-
       🔥💰Business & Travel Photo🏄🏻🔥
     location: "Indonesia"
-    followers: 128178
-    engagement: 218
-    commentsToLikes: 0.055617
+    followers: 124167
+    engagement: 199
+    commentsToLikes: 0.055411
     id: ck55mnn0c4cnd0i11po1nsa3j
     verified: false
-    hashtags: "#vulcans, #vulcano, #merapivolcanoo, #surfing"
-  - username: "nessamiko"
+    hashtags: "#dronesurf, #balisurf, #surfer, #surfphotographer"
+  - username: "rahmatul_8"
     fullname: >-
-      𝑵𝒆𝒔𝒔𝒂 𝑴𝒊𝒌𝒐
+      rahmatul maula ramadani
     location: "Indonesia"
-    followers: 19696
-    engagement: 341
-    commentsToLikes: 0.075674
-    id: ck5cfo0svnbi50i11er4s48w5
+    followers: 5121
+    engagement: 2614
+    commentsToLikes: 0.065857
+    id: ck9hbztw7j5f80j785persg3j
     verified: false
-    hashtags: "#perdulilingkungan, #pink, #diane, #nanatsunotaizai"
-  - username: "alyaed"
-    fullname: >-
-      hí, í'm αlчα🌻
-    location: "Indonesia"
-    followers: 3651
-    engagement: 1755
-    commentsToLikes: 0.100037
-    id: ck8sxi3pohhai0j78wnbm0rlv
-    verified: false
-    hashtags: "#wonderfullindonesia, #exploremerapi, #bukitklanton, #explorejawatengah"
-  - username: "irma_miranti"
-    fullname: >-
-      irMa 💋
-    location: "Indonesia"
-    followers: 213191
-    engagement: 603
-    commentsToLikes: 0.015506
-    id: ck6uega0nqqlp0j71icjikql2
-    verified: false
-    hashtags: "#apasih, #othelloxelgonindonesia, #enjoy, #korona"
-  - username: "olvipardede"
-    fullname: >-
-      viii 💕
-    location: "Indonesia"
-    followers: 15207
-    engagement: 933
-    commentsToLikes: 0.028260
-    id: ck15rfxd67qd90i1940esyv97
-    verified: false
-    hashtags: "#borubataktoba, #batakhits, #halakbatak, #fff"
-  - username: "ahlamnauval"
-    fullname: >-
-      A H L A M  M A H E N D R A
-    location: "Indonesia"
-    followers: 2895
-    engagement: 2749
-    commentsToLikes: 0.136800
-    id: ck5hqhquet4pb0i11fo2n4lq1
-    verified: false
-    hashtags: "#casualstyle, #dryflowerbouquet, #jualsnackbouquet, #jualsnackbuket"
-  - username: "__lis__olesya"
-    fullname: >-
-      Lis Olesya
-    location: "Indonesia"
-    followers: 25286
-    engagement: 471
-    commentsToLikes: 0.032976
-    id: ck134o8ggxdzx0i19qclv6jir
-    verified: false
-    hashtags: "#lisoutdoortime, #marakeshaphotography"
+    hashtags: "#nice, #followfollow, #followmenow, #kungfulife"
 ---

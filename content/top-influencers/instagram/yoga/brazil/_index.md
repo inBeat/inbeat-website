@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Brazil In 2020
 description: >-
-  Find top yoga Instagram influencers in Brazil in 2020. Most popular hashtags: #yoga #amor #love #yogagirl.
+  Find top yoga Instagram influencers in Brazil in 2020. Most popular hashtags: #yogapractice # #yogaposes #yogainspiration.
 platform: Instagram
 profiles:
-  - username: "acarolfraga"
-    fullname: >-
-      𝐂𝐚𝐫𝐨𝐥 𝐅𝐫𝐚𝐠𝐚 🌸
-    location: "Brazil"
-    followers: 21245
-    engagement: 384
-    commentsToLikes: 0.098845
-    id: ck5qct7sns7qm0i11te18v14i
-    verified: false
-    hashtags: "#biotreino, #lotusrstore, #uruguay, #turisteando"
   - username: "prileiteyoga"
     fullname: >-
       Priscilla Leite
     location: "Brazil"
-    followers: 82954
-    engagement: 551
-    commentsToLikes: 0.032704
+    followers: 141633
+    engagement: 657
+    commentsToLikes: 0.038912
     id: ck15ug2b7n0de0i194cyesvk7
     verified: false
-    hashtags: "#londonforever, #21diasdeyoga"
-  - username: "dante.yoga"
+    hashtags: "#londonforever, #21diasdeyoga, #earthday"
+  - username: "samiraelage"
     fullname: >-
-      Dante Negreiros
+      Samira Elage | Yoga
     location: "Brazil"
-    followers: 10332
-    engagement: 580
-    commentsToLikes: 0.078128
-    id: ck6u5tkixbnt60j71bd17e5h2
+    followers: 16808
+    engagement: 942
+    commentsToLikes: 0.084708
+    id: ckaoynkgbi9ci0i78chaihvgg
     verified: false
-    hashtags: "#queroviajarmais, #revistaqualviagem, #achadosdasemana, #tbt"
-  - username: "tripbruta"
+    hashtags: ""
+  - username: "deboraalmeida1606"
     fullname: >-
-      Anne S. | Travel | Lifestyle
+      Débora Almeida
     location: "Brazil"
-    followers: 81080
-    engagement: 140
-    commentsToLikes: 0.052421
-    id: ck8tabu75r5670j78sysdwuoo
+    followers: 6216
+    engagement: 938
+    commentsToLikes: 0.774666
+    id: ckaows1oaa6uj0i78lqmcizgk
     verified: false
-    hashtags: "#intercambio, #catsofinstagram, #beachday, #beautifuldestinations"
-  - username: "pamelaotero"
+    hashtags: "#pinchapractice, #splits, #corremulherada, #flexibility"
+  - username: "deniseevrard"
     fullname: >-
-      Pamela Otero ॐ
+      De Evrard
     location: "Brazil"
-    followers: 46198
-    engagement: 124
-    commentsToLikes: 0.162241
-    id: ck6ugfls12qyy0j71wcu7urf0
+    followers: 2594
+    engagement: 1518
+    commentsToLikes: 0.145366
+    id: ckaoynl51i9ga0i78r3gvoae3
     verified: false
-    hashtags: "#maturidade, #aquietate, #harmonia, #todoamordomundo"
-  - username: "aillapacheco"
+    hashtags: "#yogaasanas, #yogapractice, #yogaposes, #sorteioyoga"
+  - username: "shaktijaniake"
     fullname: >-
-      Ailla Pacheco
+      Shakti
     location: "Brazil"
-    followers: 36620
-    engagement: 127
-    commentsToLikes: 0.211755
-    id: ck5znogp3ouo90i147xe9uta2
+    followers: 34967
+    engagement: 772
+    commentsToLikes: 0.037517
+    id: ck9hcqoy2mlou0j78it2t4g8u
     verified: false
-    hashtags: "#gratid"
-  - username: "rotinasemrotina"
+    hashtags: ""
+  - username: "amandamferraz"
     fullname: >-
-      DanSalgado • Yoga ॐ
+      Amanda Ferraz | Travel e Yoga
     location: "Brazil"
-    followers: 7034
-    engagement: 801
-    commentsToLikes: 0.044188
-    id: ck0w0y1o6glna0i19odd9pdwn
+    followers: 3307
+    engagement: 1975
+    commentsToLikes: 0.107322
+    id: ckaovs2g15wp50i78rv6uvxug
     verified: false
-    hashtags: "#amor, #natureza, #soulmate, #nature"
-  - username: "daisytonge"
+    hashtags: "#yogateacher, #dicasdeviagem, #chile, #desert"
+  - username: "acarolfraga"
     fullname: >-
-      DAISY ॐ YOGA AROUND THE WORLD
+      𝐂𝐚𝐫𝐨𝐥 𝐅𝐫𝐚𝐠𝐚 🌸
     location: "Brazil"
-    followers: 34118
-    engagement: 520
-    commentsToLikes: 0.054287
-    id: ck6tzypplcml70j71gv9q1u7b
+    followers: 21060
+    engagement: 352
+    commentsToLikes: 0.119344
+    id: ck5qct7sns7qm0i11te18v14i
     verified: false
-    hashtags: "#beachyoga, #hippygirl, #positivethinking, #mermaid"
-  - username: "mariana_yoga"
+    hashtags: "#casetify, #jazz, #guapamagbasil, #fiqueemcasa"
+  - username: "pachristi"
     fullname: >-
-      Mariana Peixoto MARYOGA
+      Paloma Christiansen
     location: "Brazil"
-    followers: 10226
-    engagement: 344
-    commentsToLikes: 0.097062
-    id: ck6tn0drr8vt20j71039f7utq
+    followers: 56678
+    engagement: 395
+    commentsToLikes: 0.039165
+    id: ck5c7c1lt78rq0i117egu751n
     verified: false
-    hashtags: "#chakra, #quarantine, #heal, #life"
-  - username: "isismaiabello"
+    hashtags: "#cuidedevoc, #sorteiocursomacrame, #roupafitness, #nomeclatura"
+  - username: "marinegabriela"
     fullname: >-
-      Isis Maia Bello
+      Marine | Samambaia
     location: "Brazil"
-    followers: 9620
-    engagement: 690
-    commentsToLikes: 0.127040
-    id: ck6tu4u5ueb9c0j710filiifg
+    followers: 11103
+    engagement: 1689
+    commentsToLikes: 0.017000
+    id: ck6u4r7j15bpu0j71w6lfon9e
     verified: false
-    hashtags: "#beyonce, #love, #inkedgirls, #bandy"
+    hashtags: ""
+  - username: "fernandayoga"
+    fullname: >-
+      Yoga - Fernanda Raiol
+    location: "Brazil"
+    followers: 77291
+    engagement: 385
+    commentsToLikes: 0.025761
+    id: ck6tukvtigx1i0j71ipms73wq
+    verified: false
+    hashtags: "#yogaistheartofliving, #tb"
 ---

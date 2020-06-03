@@ -1,109 +1,109 @@
 ---
 title: Top 10 Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top Instagram influencers in Indonesia in 2020. Most popular hashtags: #foryou #prank #tantra #cosplaymobilelegends.
+  Find top Instagram influencers in Indonesia in 2020. Most popular hashtags: #staysafe #dirumahaja #stayhome #stayhealthy.
 platform: Instagram
 profiles:
   - username: "wandabadwal"
     fullname: >-
       WANDA BADWAL
     location: "Indonesia"
-    followers: 28617
+    followers: 30350
     engagement: 362
-    commentsToLikes: 0.041452
+    commentsToLikes: 0.049696
     id: ck14hs02gbu2v0i19pus82mrj
     verified: false
-    hashtags: "#beyondasana, #rememberwhoyouare, #zeitf, #personaldevelopment"
-  - username: "jameshall8"
+    hashtags: "#sanctuary, #conversation, #spirituality, #happygalungan"
+  - username: "gekcahaya"
     fullname: >-
-      Jimbo
+      Ida Ayu Cahaya Dewanti
     location: "Indonesia"
-    followers: 25627
-    engagement: 2186
-    commentsToLikes: 0.099051
-    id: ck8wfpvfog2pr0j780d6w57h6
+    followers: 2077
+    engagement: 3322
+    commentsToLikes: 0.136345
+    id: ckap4mz377zjd0i78adyq51kp
     verified: false
-    hashtags: "#fyp, #couple, #youngandalivechallenge, #loveandfear"
-  - username: "andrirayhars02"
+    hashtags: "#jayaudayana, #studentday2018, #ksatriakosaladharmanegara, #indonesiamakenyem"
+  - username: "nisaazharii_"
     fullname: >-
-      
+      Nisa L Azhari
     location: "Indonesia"
-    followers: 15072
-    engagement: 1555
-    commentsToLikes: 0.064446
-    id: ck8t59zm69cib0j78ea3477od
+    followers: 5457
+    engagement: 3317
+    commentsToLikes: 0.230100
+    id: ck9wh6wkswj8u0j786m9mbv0q
     verified: false
-    hashtags: "#jinhwan, #gnani, #bts, #kpop"
-  - username: "_ichi_chocolate_"
+    hashtags: "#hairstyles, #cool, #kartiniday, #oodt"
+  - username: "wimkybnzrr"
     fullname: >-
-      Ichi
+      𝒘𝒊𝒎𝒌𝒚 𝒃 𝒏𝒂𝒛𝒂𝒓𝒊
     location: "Indonesia"
-    followers: 10302
-    engagement: 1293
-    commentsToLikes: 0.081474
-    id: ck8sz8uz0nimh0j78jwd5gbft
+    followers: 2871
+    engagement: 2923
+    commentsToLikes: 0.214607
+    id: ckap593lqaq0u0i78fri9gkwi
     verified: false
-    hashtags: "#doppokannonzaka, #emperorscorpion, #hypmic, #kaitovocaloid"
+    hashtags: ""
   - username: "hilmanfazaldy"
     fullname: >-
       Hilman Fazaldy Abbas
     location: "Indonesia"
-    followers: 2393
-    engagement: 2720
-    commentsToLikes: 0.130035
+    followers: 2376
+    engagement: 2745
+    commentsToLikes: 0.129555
     id: ck6u8ypcpugvy0j71e9u9hxx4
     verified: false
-    hashtags: "#explorelumajang, #wonderfulindonesia, #explorelombok, #explorejogja"
-  - username: "doubleandry"
+    hashtags: "#sumba, #gunungbromo, #explorepacitan, #explorelumajang"
+  - username: "aurakrstt"
     fullname: >-
-      Andry Ganda
+      𝔄𝔲𝔯𝔞 𝔎𝔯𝔦𝔰𝔱𝔦 𝔖𝔲𝔧𝔦 𝔓𝔯𝔞𝔥𝔞𝔰𝔱𝔦𝔱𝔦
     location: "Indonesia"
-    followers: 9425
-    engagement: 1617
-    commentsToLikes: 0.067193
-    id: ck6u1tcbnnrdn0j71pf7psu4n
+    followers: 2797
+    engagement: 2590
+    commentsToLikes: 0.156929
+    id: ck9wh76dfwkkh0j78ggke3jc6
     verified: false
-    hashtags: "#valentine"
-  - username: "makoto.7748"
+    hashtags: "#beautyindo, #stayhealthy, #socialdistancing, #bentukcinta"
+  - username: "sandha.sakti"
     fullname: >-
-      Miyoshi Makoto ID X JP
+      Sandha Sakti | Boyolali
     location: "Indonesia"
-    followers: 47950
-    engagement: 1855
-    commentsToLikes: 0.055210
-    id: ck6u0qw2yh9n70j71ksu2y4f8
+    followers: 4972
+    engagement: 2284
+    commentsToLikes: 0.156282
+    id: ck13cr1jw1quj0i196mq5z0ij
     verified: false
-    hashtags: "#dirumahaja, #2getherweplayid, #pubgm2ndanniversary"
-  - username: "rezzahabibie"
+    hashtags: "#staysafe, #stayactive, #untiltommorow, #dirumahaja"
+  - username: "jimbo__h"
     fullname: >-
-      Jabieb / Rezza Habibie
+      Jimbo Hall
     location: "Indonesia"
-    followers: 5330
-    engagement: 1503
-    commentsToLikes: 0.086487
-    id: ck6u09g4kednu0j71jh3xufh5
+    followers: 26425
+    engagement: 2261
+    commentsToLikes: 0.101644
+    id: ck8wfpvfog2pr0j780d6w57h6
     verified: false
-    hashtags: "#penerbal, #aviation, #nikonindonesia, #jktinfo"
-  - username: "mompha"
+    hashtags: "#funderm, #selflovefunderm, #ad"
+  - username: "nawa_lieu_kiew"
     fullname: >-
-      SKY MAN ✈️☁️
+      Muhammad Nawawi
     location: "Indonesia"
-    followers: 842513
-    engagement: 769
-    commentsToLikes: 0.036072
-    id: ck6tsr98l6dx00j71a6uwsnig
-    verified: true
-    hashtags: "#corona"
-  - username: "samuelyonireceivaa"
-    fullname: >-
-      Samuel Yoni Receiva Amarthani
-    location: "Indonesia"
-    followers: 10938
-    engagement: 2917
-    commentsToLikes: 0.065931
-    id: ck5hq9woksr7v0i11b8rvfq1l
+    followers: 55203
+    engagement: 2143
+    commentsToLikes: 0.052056
+    id: ck8td05vb1d920j78h3d1ydgn
     verified: false
-    hashtags: "#jadidirisendiri, #hidupyangberdampak, #uripkuduurupyenurupmestiurip, #2020"
+    hashtags: "#giveawaydarbuka, #1441h, #semangat, #harikemenangan"
+  - username: "awfa.dikhr"
+    fullname: >-
+      aw🍭
+    location: "Indonesia"
+    followers: 8046
+    engagement: 1937
+    commentsToLikes: 0.326747
+    id: ck9whwqkcztry0j782oozo3mn
+    verified: false
+    hashtags: "#outfitideas, #hijabtravellers, #hijabootd, #staysafe"
 cities:
   - name: Jakarta
     link: /instagram/indonesia/jakarta

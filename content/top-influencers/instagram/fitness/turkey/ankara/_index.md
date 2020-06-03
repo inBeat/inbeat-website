@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Ankara In 2020
 description: >-
-  Find top fitness Instagram influencers in Ankara in 2020. Most popular hashtags: #fitness #ankara #spor #evdekal.
+  Find top fitness Instagram influencers in Ankara in 2020. Most popular hashtags: #ankara #fitness #turkiye #instagram.
 platform: Instagram
 profiles:
-  - username: "hurkanakkuzu"
+  - username: "profdrhakanyardimci"
     fullname: >-
-      Fizyoterapist HÜRKAN AKKUZU
+      Prof. Dr. Hakan YARDIMCI
     location: "Turkey"
-    followers: 204802
-    engagement: 102
-    commentsToLikes: 0.113373
-    id: ck8t0azn3rg5r0j78yad3osrj
-    verified: true
-    hashtags: "#salt, #chiropractic, #fitness, #osteopathy"
-  - username: "mobin_.mohamad"
-    fullname: >-
-      🔱Radmehr Brothers
-    location: "Turkey"
-    followers: 17098
-    engagement: 1142
-    commentsToLikes: 0.075850
-    id: ck1399rmkk8at0i19eybkxyr1
+    followers: 4672
+    engagement: 1129
+    commentsToLikes: 0.110943
+    id: ckap95wr0rag70i786fydzrut
     verified: false
-    hashtags: "#mma, #traxtor, #bodybuildingnation, #muaythaidance"
+    hashtags: "#zoonoz, #smile, #anne, #covid"
   - username: "najmmohammadi"
     fullname: >-
       Najm Mohammadi
     location: "Turkey"
-    followers: 9811
-    engagement: 1571
-    commentsToLikes: 0.055070
+    followers: 10124
+    engagement: 1577
+    commentsToLikes: 0.056373
     id: ck5c8dp0m99fe0i11etkdgpg0
     verified: false
-    hashtags: "#frenchbulldog, #lifecoach, #fashiontv, #fashionista"
-  - username: "seranintarifleri"
+    hashtags: "#edgymemes, #angel, #birthday, #jalal"
+  - username: "mountain_ash22"
     fullname: >-
-      Sağlıklı & Fit Tarifler
+      Aishwarya Dhavale
     location: "Turkey"
-    followers: 57857
-    engagement: 189
-    commentsToLikes: 0.142083
-    id: ck5q9yigydnjm0i11jioe53ea
+    followers: 72806
+    engagement: 350
+    commentsToLikes: 0.020703
+    id: ck601q6xpfyp10i14qb8h309n
     verified: false
-    hashtags: "#bread, #pancar, #bulgur, #snacks"
-  - username: "bloemen_catering"
+    hashtags: "#trekking, #meditate, #wilderness, #youtuber"
+  - username: "derya___kaya___"
     fullname: >-
-      BLOEMEN_CATERING
+      𝓓𝓮𝓻𝔂𝓪 𝓴𝓪𝔂𝓪 ✨
     location: "Turkey"
-    followers: 15755
-    engagement: 307
-    commentsToLikes: 0.159550
-    id: ck8t9f1ounumi0j78vcl7s2bk
+    followers: 43088
+    engagement: 227
+    commentsToLikes: 0.002881
+    id: ckap3ajh728lr0i78dydv2zrz
     verified: false
-    hashtags: "#sarma, #antepf, #turkishfood, #ankara"
-  - username: "pt_mstfkeskin"
+    hashtags: "#model, #mycaudaliebox, #love, #homemade"
+  - username: "racon.dunyas1"
     fullname: >-
-      Mustafa Keskin
+      racon dünyas1
     location: "Turkey"
-    followers: 73416
-    engagement: 233
-    commentsToLikes: 0.058496
-    id: ck15s8l83brx50i19pmf3mvue
+    followers: 13077
+    engagement: 316
+    commentsToLikes: 0.068913
+    id: ck8t8wc01m3880j78a8ibij2g
     verified: false
-    hashtags: "#sporcu, #fitfamilylife, #gym, #abs"
-  - username: "ecemliblog"
+    hashtags: "#narcos, #bedel, #akasyadura, #drejali"
+  - username: "chefzekikara"
     fullname: >-
-      Ecem
+      Zeki KARA
     location: "Turkey"
-    followers: 53201
-    engagement: 586
-    commentsToLikes: 0.027425
-    id: ck5q9yjjvdno50i11z48b5sxq
+    followers: 34785
+    engagement: 216
+    commentsToLikes: 0.413484
+    id: ck5c5yn0p4dyb0i11h3vhr3d4
     verified: false
-    hashtags: "#evyap, #eatright, #diyetteyim, #saglikliyasam"
-  - username: "yunusgunce"
-    fullname: >-
-      Yunus Günçe
-    location: "Turkey"
-    followers: 118450
-    engagement: 142
-    commentsToLikes: 0.026596
-    id: ck5hsk6p2wq5j0i114l5li9di
-    verified: true
-    hashtags: "#butik, #kar, #thursday, #erkekgiyim"
+    hashtags: "#koronat, #chefs, #foodies, #seasons"
   - username: "eccekeskinn"
     fullname: >-
       ECE KESKİN
     location: "Turkey"
-    followers: 140410
-    engagement: 171
-    commentsToLikes: 0.095974
+    followers: 181746
+    engagement: 209
+    commentsToLikes: 0.068504
     id: ck15s8ko0brun0i19xtyo5clb
     verified: false
-    hashtags: "#fitmom, #ankara, #evdesporyap, #cekilisvar"
-  - username: "_gezengorenkiz_"
+    hashtags: "#spork, #fashionblogger, #fitnessgirl, #aral"
+  - username: "tintedtakes"
     fullname: >-
-      GezenGorenKiz By LadyCook
+      Nihal
     location: "Turkey"
-    followers: 19729
-    engagement: 295
-    commentsToLikes: 0.165322
-    id: ck5ceza6um0h60i11bg0mnohj
+    followers: 11801
+    engagement: 662
+    commentsToLikes: 0.033018
+    id: ck6tqpby1sxw10j71sizukhs3
     verified: false
-    hashtags: "#today, #sushi, #life, #instagood"
+    hashtags: "#moody, #lamborghinihuracan, #carporn, #writetotravel"
+  - username: "igneoya__feyzayigit"
+    fullname: >-
+      Feyza Saban
+    location: "Turkey"
+    followers: 10985
+    engagement: 594
+    commentsToLikes: 0.163567
+    id: ckap55r9mabd60i78t76iza53
+    verified: false
+    hashtags: "#sevgilim, #videostar, #seventeen, #igneoyasi"
+  - username: "eminebasariir"
+    fullname: >-
+      Emine Başarır
+    location: "Turkey"
+    followers: 123537
+    engagement: 151
+    commentsToLikes: 0.026696
+    id: ck9h9tkxl9wya0j78154l2s5o
+    verified: false
+    hashtags: "#legday, #strongwomen, #prayfortheworld, #ankarunning"
 ---

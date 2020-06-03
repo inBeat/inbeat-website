@@ -1,107 +1,107 @@
 ---
 title: Top 10 Boxers Instagram Influencers In Australia In 2020
 description: >-
-  Find top boxers Instagram influencers in Australia in 2020. Most popular hashtags: #boxersofinstagram #boxerplanet #boxergram #boxing.
+  Find top boxers Instagram influencers in Australia in 2020. Most popular hashtags: #corona #rivalboxing #boxersofinstagram #staysafe.
 platform: Instagram
 profiles:
-  - username: "avrilmathie"
+  - username: "adambub"
     fullname: >-
-      MISS SWIMSUIT USA INTERNAT'L👑
+      Adam Bub
     location: "Australia"
-    followers: 208271
-    engagement: 434
-    commentsToLikes: 0.011697
-    id: ck0vzvmijb4530i1957480lsa
-    verified: true
-    hashtags: "#soinlove, #getinvolved, #yoga, #lockdown"
-  - username: "timtszyu"
-    fullname: >-
-      Tim Tszyu
-    location: "Australia"
-    followers: 43670
-    engagement: 804
-    commentsToLikes: 0.018541
-    id: ck0u2mc8k0c7b0i19hz2krfxe
+    followers: 22909
+    engagement: 706
+    commentsToLikes: 0.060317
+    id: ckap41k4x5fq00i78tc17xxfh
     verified: false
-    hashtags: "#teamtszyu, #born2fight, #mytime, #trueathlete"
+    hashtags: "#tbt"
   - username: "sugar_neekz"
     fullname: >-
       Sugar Neekz Johnson
     location: "Australia"
-    followers: 12430
-    engagement: 674
-    commentsToLikes: 0.028765
+    followers: 12891
+    engagement: 552
+    commentsToLikes: 0.035824
     id: ck5zqwyxfvgi10i14i8sb8kvp
     verified: false
-    hashtags: "#kiwichick, #goldcoast, #teamlabrunafams, #active"
-  - username: "helloitsbuster"
-    fullname: >-
-      Buster The Boxer
-    location: "Australia"
-    followers: 9542
-    engagement: 786
-    commentsToLikes: 0.016100
-    id: ck14jg57vk65p0i196blbfn1v
-    verified: false
-    hashtags: "#boxerworld, #boxersofinstagram, #boxeraddict, #boxerareawesome"
+    hashtags: "#wakeuptime, #proboxing, #colour, #covid19"
   - username: "ravengrace.brindleboxer"
     fullname: >-
       Raven Grace & Young Henry
     location: "Australia"
-    followers: 8790
-    engagement: 734
-    commentsToLikes: 0.019080
+    followers: 8708
+    engagement: 743
+    commentsToLikes: 0.019019
     id: ck136rc2h7vn90i19pe7bei5r
     verified: false
-    hashtags: "#share, #love, #slomo, #whimzees"
+    hashtags: "#whimzees, #gimmegimme, #nomnom, #slomo"
+  - username: "helloitsbuster"
+    fullname: >-
+      Buster The Boxer
+    location: "Australia"
+    followers: 9509
+    engagement: 788
+    commentsToLikes: 0.014674
+    id: ck14jg57vk65p0i196blbfn1v
+    verified: false
+    hashtags: "#corona, #australianfires, #staysafe"
   - username: "tayla_harris"
     fullname: >-
       Tayla ⚡️ Harris
     location: "Australia"
-    followers: 119332
-    engagement: 589
-    commentsToLikes: 0.012333
+    followers: 118486
+    engagement: 373
+    commentsToLikes: 0.008776
     id: ck0tyg1agmnsy0i19atnv31bn
     verified: true
-    hashtags: "#strongerwithsupport, #teamnike, #iwd, #whwins"
+    hashtags: "#solution, #bigfreeze6, #backyardbigfreeze, #filltheg"
   - username: "mosesandalaska"
     fullname: >-
       Moses & Alaska
     location: "Australia"
-    followers: 12070
-    engagement: 540
-    commentsToLikes: 0.013410
+    followers: 11925
+    engagement: 548
+    commentsToLikes: 0.013389
     id: ck136rb7e7vj20i1901cwexhy
     verified: false
-    hashtags: "#laugh, #love, #dogvideo, #myfavethings"
-  - username: "peforman"
+    hashtags: "#tugofwarthursday, #scaredydog, #dogvideo, #whodhavethem"
+  - username: "timtszyu"
     fullname: >-
-      Paul Forman
+      Tim Tszyu
     location: "Australia"
-    followers: 39037
-    engagement: 1268
-    commentsToLikes: 0.023875
-    id: ck14lqd20vyoh0i19wlhfpadl
+    followers: 46370
+    engagement: 599
+    commentsToLikes: 0.016517
+    id: ck0u2mc8k0c7b0i19hz2krfxe
     verified: false
-    hashtags: "#fashion, #sunglassman, #selfisolation, #ihatehashtags"
+    hashtags: "#born2fight, #mytime"
+  - username: "michael_zerafa"
+    fullname: >-
+      Michael "Pretty Boy" Zerafa
+    location: "Australia"
+    followers: 22597
+    engagement: 290
+    commentsToLikes: 0.046435
+    id: ck15pi5vwy02v0i19jatvuzx9
+    verified: false
+    hashtags: "#boxingaustralia, #boxingisfamily, #harpy, #vision"
   - username: "demitrapap"
     fullname: >-
       Demi Anthony
     location: "Australia"
-    followers: 10516
-    engagement: 563
-    commentsToLikes: 0.042881
+    followers: 10646
+    engagement: 577
+    commentsToLikes: 0.044174
     id: ck0ua1dydba1e0i19yy31mtvg
     verified: false
-    hashtags: "#whataweekend, #boxing, #boxersofinstagram, #christening"
-  - username: "ilanacollins"
+    hashtags: "#quadgame, #maggieisland, #stingersuits, #boxersofinstagram"
+  - username: "_hayleypearson"
     fullname: >-
-      Bali lover 🌺
+      Hayley Pearson 🍍 Adelady
     location: "Australia"
-    followers: 61815
-    engagement: 167
-    commentsToLikes: 0.103574
-    id: ck0tvyzlsdek70i190d16io3f
-    verified: true
-    hashtags: "#swimwear, #bikinishoot, #actinglife, #onepiecelingerie"
+    followers: 17339
+    engagement: 248
+    commentsToLikes: 0.038046
+    id: ck5c2bewqwx2s0i11bbm0rxlo
+    verified: false
+    hashtags: "#tokyo, #clubmedtomamu, #bookthemout, #seesouthaustraliafromhome"
 ---

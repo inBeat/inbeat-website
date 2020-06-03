@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Brazil In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Brazil in 2020. Most popular hashtags: #fitness #tbt #maromba #atleta.
+  Find top bodybuilding Instagram influencers in Brazil in 2020. Most popular hashtags: #positivevibes #model #2020 #natureza.
 platform: Instagram
 profiles:
   - username: "akarenvieira"
     fullname: >-
       VIEIRA
     location: "Brazil"
-    followers: 130519
-    engagement: 391
-    commentsToLikes: 0.167114
+    followers: 129392
+    engagement: 349
+    commentsToLikes: 0.168462
     id: ck5zyvtedamfw0i14zqqbg0kx
     verified: false
     hashtags: "#treinoinsano"
-  - username: "carolinessanches"
-    fullname: >-
-      Caroline Sanches, 25 ♊️
-    location: "Brazil"
-    followers: 562352
-    engagement: 496
-    commentsToLikes: 0.020416
-    id: ck602ddpqh6ep0i14ikuyz6wz
-    verified: false
-    hashtags: "#tbt, #deusnocomando, #tbt"
-  - username: "lucaseppro"
-    fullname: >-
-      Lucas Pinheiro
-    location: "Brazil"
-    followers: 150260
-    engagement: 618
-    commentsToLikes: 0.019845
-    id: ck0tu5oos5r3m0i193knzdwi7
-    verified: false
-    hashtags: "#maisaleatorioimpossivel, #treinodragon, #wearedragonpharma, #17yo"
-  - username: "leticyapazmendes_"
-    fullname: >-
-      𝕃𝕖𝕥í𝕔𝕪𝕒 𝕕𝕒 ℙ𝕒𝕫 𝕄𝕖𝕟𝕕𝕖𝕤 🧿
-    location: "Brazil"
-    followers: 23090
-    engagement: 602
-    commentsToLikes: 0.062225
-    id: ck8t0wyrztn4j0j783yr2gqx4
-    verified: false
-    hashtags: "#sorrir, #fotografia, #nadar, #minasgerais"
-  - username: "carine.carroll"
-    fullname: >-
-      Carine Carroll
-    location: "Brazil"
-    followers: 30208
-    engagement: 372
-    commentsToLikes: 0.034152
-    id: ck6tkymq65nnn0j71vzzvgucv
-    verified: false
-    hashtags: "#landscape, #frases, #gymrat, #academia"
   - username: "_aamanda.santos"
     fullname: >-
       𝑨𝒎𝒂𝒏𝒅𝒂 𝑺𝒂𝒏𝒕𝒐𝒔
     location: "Brazil"
-    followers: 12513
-    engagement: 920
-    commentsToLikes: 0.020881
+    followers: 25909
+    engagement: 608
+    commentsToLikes: 0.026745
     id: ck8t4buvu679z0j78ovk1cfx8
     verified: false
-    hashtags: ""
+    hashtags: "#tbt"
+  - username: "lucaseppro"
+    fullname: >-
+      Lucas Pinheiro
+    location: "Brazil"
+    followers: 155659
+    engagement: 553
+    commentsToLikes: 0.015068
+    id: ck0tu5oos5r3m0i193knzdwi7
+    verified: false
+    hashtags: "#start, #14weeksout, #open, #quarentena"
+  - username: "carolinessanches"
+    fullname: >-
+      Caroline Sanches, 26 ♊️
+    location: "Brazil"
+    followers: 614582
+    engagement: 523
+    commentsToLikes: 0.013233
+    id: ck602ddpqh6ep0i14ikuyz6wz
+    verified: false
+    hashtags: "#tbt, #gta5"
+  - username: "carine.carroll"
+    fullname: >-
+      Carine Carroll
+    location: "Brazil"
+    followers: 29659
+    engagement: 339
+    commentsToLikes: 0.038395
+    id: ck6tkymq65nnn0j71vzzvgucv
+    verified: false
+    hashtags: "#inspiration, #throwback, #fisiculturista, #mothernature"
+  - username: "levykings"
+    fullname: >-
+      Levy Reis ♎
+    location: "Brazil"
+    followers: 24641
+    engagement: 853
+    commentsToLikes: 0.044329
+    id: ck9weli8fksvq0j78ctzoa1ej
+    verified: false
+    hashtags: "#garoto, #pretinho, #cachospoderosos, #positivevibes"
+  - username: "leticyapazmendes_"
+    fullname: >-
+      𝕃𝕖𝕥í𝕔𝕪𝕒 𝕕𝕒 ℙ𝕒𝕫 𝕄𝕖𝕟𝕕𝕖𝕤 🧿
+    location: "Brazil"
+    followers: 23100
+    engagement: 615
+    commentsToLikes: 0.061386
+    id: ck8t0wyrztn4j0j783yr2gqx4
+    verified: false
+    hashtags: "#defrenteaomar, #unhas, #bronze, #ouseservoc"
+  - username: "guifvicente"
+    fullname: >-
+      Soldado Vicente 🇧🇷
+    location: "Brazil"
+    followers: 11645
+    engagement: 708
+    commentsToLikes: 0.036779
+    id: ckaotbzswv8vx0i7841jmji8m
+    verified: false
+    hashtags: "#bodybuilding, #diadasmaes, #gratitude, #fuzil"
   - username: "mgiovanella"
     fullname: >-
       Michelle Giovanella
     location: "Brazil"
-    followers: 35869
-    engagement: 266
-    commentsToLikes: 0.026374
+    followers: 35389
+    engagement: 270
+    commentsToLikes: 0.027907
     id: ck0tvreuqcjb80i199hea4c7o
     verified: false
-    hashtags: "#otrabalhodignifica, #policeofficer, #fitnessmotivation, #healthymind"
-  - username: "jayro.espfarma"
+    hashtags: "#meritocracia, #rulesbreaker, #medicaldoctor, #reclamemenos"
+  - username: "lucastava.res"
     fullname: >-
-      Jayro braga
+      LUCAS TAVARES
     location: "Brazil"
-    followers: 11705
-    engagement: 517
-    commentsToLikes: 0.036858
-    id: ck6u0osntgwyy0j71uunyzjb5
+    followers: 12158
+    engagement: 1477
+    commentsToLikes: 0.088714
+    id: ck5qd17n1tbrh0i11zm183jjs
     verified: false
-    hashtags: "#bra, #finaldesemana, #fitnessaddict, #esmagaquecresceporra"
-  - username: "lunaterra"
-    fullname: >-
-      Luna Terra
-    location: "Brazil"
-    followers: 5249
-    engagement: 491
-    commentsToLikes: 0.028190
-    id: ck8t8xy8zm90r0j78bcsvaujx
-    verified: false
-    hashtags: "#soagradecer, #workout, #bekind, #travelphotography"
-  - username: "mustabarbaari"
-    fullname: >-
-      
-    location: "Brazil"
-    followers: 6092
-    engagement: 931
-    commentsToLikes: 0.018442
-    id: ck5hrhe7ruvum0i117ustcxbi
-    verified: false
-    hashtags: "#vuodenilmastoteko, #theberimbolo, #10part2, #handstanfailure"
+    hashtags: "#trilha, #blessed"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In France In 2020
 description: >-
-  Find top illustrators Instagram influencers in France in 2020. Most popular hashtags: #illustration #digitalart #art #digitalpainting.
+  Find top illustrators Instagram influencers in France in 2020. Most popular hashtags: #drawing #digitalartwork #aesthetic #artist.
 platform: Instagram
 profiles:
   - username: "richartiste"
     fullname: >-
       Richard Méril
     location: "France"
-    followers: 21599
-    engagement: 1185
-    commentsToLikes: 0.020342
+    followers: 22774
+    engagement: 968
+    commentsToLikes: 0.053110
     id: ck5q5a0ebrz3j0i11vf3lbh3g
     verified: false
-    hashtags: "#graphic, #black, #martinique, #illustration"
+    hashtags: "#manga, #retro, #sonic, #game"
+  - username: "joan_harlow_gardner"
+    fullname: >-
+      Joan Harlow Gardner
+    location: "France"
+    followers: 28855
+    engagement: 528
+    commentsToLikes: 0.014460
+    id: ck9hb6sz1fmhb0j78qbqbi0w7
+    verified: false
+    hashtags: "#roaring20s, #1920s, #smoke, #catsofinstagram"
+  - username: "estelleheart"
+    fullname: >-
+      Estelle Heart
+    location: "France"
+    followers: 8183
+    engagement: 1499
+    commentsToLikes: 0.118470
+    id: ck8t8cv5xjyti0j78gvdratj6
+    verified: false
+    hashtags: "#pinmaker, #pingiveaway, #pincollector, #enamelpin"
   - username: "victoriaalessandriart"
     fullname: >-
       Victoria Alessandri
     location: "France"
-    followers: 8663
-    engagement: 2118
-    commentsToLikes: 0.011612
+    followers: 8935
+    engagement: 2125
+    commentsToLikes: 0.011202
     id: ck8tdifnw3fwe0j78ijbpqyud
     verified: false
-    hashtags: "#disneygram, #wyattoleff, #womanillustration, #mucha"
-  - username: "wiwoos"
+    hashtags: "#selfportrait, #stanleybarber, #ianowtfanart, #artstudy"
+  - username: "apollinethibault"
     fullname: >-
-      Camille Witt
+      Apolline Thibault
     location: "France"
-    followers: 52040
-    engagement: 339
-    commentsToLikes: 0.019413
-    id: ck138y5dcil9g0i19hfipxsby
+    followers: 56323
+    engagement: 223
+    commentsToLikes: 0.017120
+    id: ck5cjl08ruxzd0i11ws0542jf
     verified: false
-    hashtags: "#inspiration, #sezane, #universe, #drawing"
-  - username: "thedarcysdaily"
+    hashtags: "#supportboutiques, #gifted, #ouiandme, #ad"
+  - username: "aruallhuillier"
     fullname: >-
-      Aélie ⚡️🦖
+      Laura Lhuillier ☁️
     location: "France"
-    followers: 5259
-    engagement: 462
-    commentsToLikes: 0.040935
-    id: ck6tx8eowwesz0j714xf0sdgz
+    followers: 114197
+    engagement: 810
+    commentsToLikes: 0.026830
+    id: ck0vyxi0669j70i199pc6pu1d
     verified: false
-    hashtags: "#feedmyskin, #japanesebeauty, #35mmfilm, #inspo"
+    hashtags: "#dtiysdemaho"
   - username: "manonlouart"
     fullname: >-
       Manon Louart
     location: "France"
-    followers: 20146
-    engagement: 1587
-    commentsToLikes: 0.047307
+    followers: 31511
+    engagement: 1338
+    commentsToLikes: 0.037004
     id: ck6twogv3t6da0j71j8bzmmea
     verified: false
-    hashtags: "#womenshistory, #astronomy, #interiordecor, #artistsoninstagram"
-  - username: "abiparmenter"
-    fullname: >-
-      Abi
-    location: "France"
-    followers: 2501
-    engagement: 1036
-    commentsToLikes: 0.054547
-    id: ck6tni2409vvj0j714h6rh592
-    verified: false
-    hashtags: ""
-  - username: "aruallhuillier"
-    fullname: >-
-      Laura Lhuillier*
-    location: "France"
-    followers: 92894
-    engagement: 725
-    commentsToLikes: 0.025943
-    id: ck0vyxi0669j70i199pc6pu1d
-    verified: false
-    hashtags: "#ectodtiys35k, #funwithfaces, #handmade"
+    hashtags: "#toonme, #confinement, #lofiaesthetic, #shelfie"
   - username: "emiliecsz"
     fullname: >-
       Emilie Casiez
     location: "France"
-    followers: 19860
-    engagement: 196
-    commentsToLikes: 0.021554
+    followers: 19851
+    engagement: 230
+    commentsToLikes: 0.017605
     id: ck5cd1dxuid9k0i11sgeiqvbh
     verified: false
-    hashtags: "#thankyou, #audreyhepburn, #alltogether, #daydreaming"
-  - username: "dorinus_illustrations"
+    hashtags: "#alltogether, #covid19, #janefonda, #navy"
+  - username: "vivizama"
     fullname: >-
-      Dorinus_illustrations
+      Vivi-Zama • Manga Illustrator
     location: "France"
-    followers: 11145
-    engagement: 1294
-    commentsToLikes: 0.040438
-    id: ck8t8wsgam4wd0j78kzasq0ow
+    followers: 30926
+    engagement: 1566
+    commentsToLikes: 0.032097
+    id: ck5hp8li9qxmw0i111v2uy1f5
     verified: false
-    hashtags: "#watercolorsketch, #stayhomeandcreate, #carveouttimeforart, #fashionillustrator"
-  - username: "by.bm"
+    hashtags: "#pocketmonster, #aniledoodle, #hawksbnha, #animeplague"
+  - username: "abiparmenter"
     fullname: >-
-      by.bm
+      Abi
     location: "France"
-    followers: 19477
-    engagement: 510
-    commentsToLikes: 0.118257
-    id: ck6uac18r2phb0j719ohl00hu
+    followers: 2496
+    engagement: 965
+    commentsToLikes: 0.055120
+    id: ck6tni2409vvj0j714h6rh592
     verified: false
-    hashtags: "#coloriages, #kitchen, #customorder, #confinement"
+    hashtags: ""
 ---

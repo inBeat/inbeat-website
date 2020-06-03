@@ -1,107 +1,107 @@
 ---
 title: Top 10 Djs Instagram Influencers In Canada In 2020
 description: >-
-  Find top djs Instagram influencers in Canada in 2020. Most popular hashtags: #music #vancouver #dj #canada.
+  Find top djs Instagram influencers in Canada in 2020. Most popular hashtags: #photography #djlife #house #djset.
 platform: Instagram
 profiles:
   - username: "mibroadshow"
     fullname: >-
       MIB Roadshow
     location: "Canada"
-    followers: 14776
-    engagement: 819
-    commentsToLikes: 0.000204
+    followers: 14551
+    engagement: 765
+    commentsToLikes: 0.000931
     id: ck6ub605f7obf0j718gf1j0gl
     verified: false
-    hashtags: "#sharing, #weddingcouple, #bride, #whitedress"
+    hashtags: "#podcast, #magic, #hmua, #blogger"
+  - username: "daniella_wackerhagen"
+    fullname: >-
+      Daniella
+    location: "Canada"
+    followers: 9180
+    engagement: 742
+    commentsToLikes: 0.176395
+    id: ck0u2m56q0bek0i19u0u34mb3
+    verified: false
+    hashtags: "#fashionmodel, #singingcover, #naturegirl, #retro"
   - username: "averyrhall"
     fullname: >-
       A V E R Y   H A L L
     location: "Canada"
-    followers: 2945
-    engagement: 1420
-    commentsToLikes: 0.114370
+    followers: 3049
+    engagement: 1372
+    commentsToLikes: 0.117581
     id: ck13cobpk1cpk0i19toqskucw
     verified: false
-    hashtags: "#danceology, #jasonparsonssolo, #thedanceawards, #newyear"
+    hashtags: "#ballet, #yourockedjump, #perspective, #djspick"
   - username: "richiehawtin"
     fullname: >-
       Richie Hawtin
     location: "Canada"
-    followers: 700258
-    engagement: 195
-    commentsToLikes: 0.017142
+    followers: 702497
+    engagement: 209
+    commentsToLikes: 0.017785
     id: ck0tunuoz7xg80i19cdjcxq9k
     verified: true
-    hashtags: "#playdifferently, #closer, #foldlondon, #djset"
-  - username: "slimtyme"
+    hashtags: "#sharingpassions, #telekomelectronicbeats, #techno, #timewarpnyc"
+  - username: "deejayjsg"
     fullname: >-
-      Slim Tyme aka Stixx
+      DJJSG
     location: "Canada"
-    followers: 2526
-    engagement: 1100
-    commentsToLikes: 0.073689
-    id: ck0vv4zh8nkm30i19mat5hzvp
+    followers: 11893
+    engagement: 746
+    commentsToLikes: 0.102743
+    id: ck6ub5txx7n640j719lbrnkp3
     verified: false
-    hashtags: "#motionballu, #nigeria, #levelup, #africa"
-  - username: "kaylacelenza"
-    fullname: >-
-      🌺Kayla Celenza🌴
-    location: "Canada"
-    followers: 2943
-    engagement: 1216
-    commentsToLikes: 0.151359
-    id: ck8wdfapmdr7o0j78n9zafvjp
-    verified: false
-    hashtags: "#lashextensions, #xyzcba, #oppsmyheart, #glute"
+    hashtags: "#bramptondj, #punjabimeme, #torontofashion, #bookdeejayjsg"
   - username: "luigiinieto"
     fullname: >-
       luigiinieto™
     location: "Canada"
-    followers: 5504
-    engagement: 515
-    commentsToLikes: 0.129904
+    followers: 5486
+    engagement: 492
+    commentsToLikes: 0.139219
     id: ck5ce7xc2kiit0i11gujk1thz
     verified: false
-    hashtags: "#music, #dance, #festival, #nosquedamosencasa"
+    hashtags: "#deephousemusic, #jermiah22, #party, #disco"
   - username: "fm84music"
     fullname: >-
       FM-84
     location: "Canada"
-    followers: 20449
-    engagement: 477
-    commentsToLikes: 0.029024
+    followers: 21727
+    engagement: 475
+    commentsToLikes: 0.029978
     id: ck5c7ty5w86u60i11ir7nt2h1
     verified: true
-    hashtags: "#fm84, #popwave, #liveshow, #synthwave"
-  - username: "bhangralicious"
+    hashtags: "#ustour, #comtruise, #deloreandmc12, #newmusic"
+  - username: "skratchbastid"
     fullname: >-
-      Amreen Gill
+      🎼Skratch Bastid🎶
     location: "Canada"
-    followers: 15380
-    engagement: 1145
-    commentsToLikes: 0.025628
-    id: ck0w0ugmdg3ba0i1992ggyhja
+    followers: 137451
+    engagement: 231
+    commentsToLikes: 0.040362
+    id: ck0ttlzap3aj60i19i38qn8fv
+    verified: true
+    hashtags: "#bastidsbbquarantine, #rip, #maythe4thbewithyou, #stillthechamps"
+  - username: "its.danielphilip"
+    fullname: >-
+      DANIEL PHILIP
+    location: "Canada"
+    followers: 118022
+    engagement: 209
+    commentsToLikes: 0.050869
+    id: ck6u183uqk6030j71f3j4r6g7
     verified: false
-    hashtags: "#punjabiswag, #indianyoutuber, #indianwedding, #chunni"
+    hashtags: "#watch, #wristwatch, #horology, #style"
   - username: "bananacamphoto"
     fullname: >-
       Banana Cam Photo
     location: "Canada"
-    followers: 7440
-    engagement: 170
-    commentsToLikes: 0.029651
+    followers: 7385
+    engagement: 141
+    commentsToLikes: 0.040065
     id: ck5zujmzq2hic0i1405pmtdbi
     verified: false
-    hashtags: "#kitty, #certifiedorganic, #granville, #shambhala"
-  - username: "mactrayy"
-    fullname: >-
-      Tracey Wong | 黃麗塋
-    location: "Canada"
-    followers: 5559
-    engagement: 587
-    commentsToLikes: 0.052066
-    id: ck5hq5llxsjho0i11sg336oes
-    verified: false
-    hashtags: "#vogueperformance, #yearoftherat, #letmeshowyou, #theglovechallenge"
+    hashtags: "#matthealien, #kitty, #thelivingroomstage, #bass"
 ---

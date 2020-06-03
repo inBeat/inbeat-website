@@ -1,89 +1,49 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Russia In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Russia in 2020. Most popular hashtags: #hypebeast #streetwear #streetstyle #moscow.
+  Find top hypebeast Instagram influencers in Russia in 2020. Most popular hashtags: #hypebeast #travisscott #streetmobs #hsdailyfeature.
 platform: Instagram
 profiles:
-  - username: "gromov6666"
+  - username: "majo_sisoev"
     fullname: >-
-      Lettering Tattoo CLC/VBI Pro
+      Vadim
     location: "Russia"
-    followers: 119694
-    engagement: 550
-    commentsToLikes: 0.031594
-    id: ck5cke7ocwouz0i11o5s8c54f
+    followers: 11513
+    engagement: 1095
+    commentsToLikes: 0.024458
+    id: ck8tch9m3zh080j786eqx3qv9
     verified: false
-    hashtags: "#gromov6666, #tattooedgirls, #letteringtattoos, #lettering"
-  - username: "katioma"
+    hashtags: "#presto, #russian, #winter2020, #milano"
+  - username: "sonyaohhno"
     fullname: >-
-      Oma
+      
     location: "Russia"
-    followers: 32596
-    engagement: 465
-    commentsToLikes: 0.023616
-    id: ck137cvkyawyq0i19j9l5iibw
+    followers: 3024
+    engagement: 7686
+    commentsToLikes: 0.018721
+    id: ckaotxo0kxyof0i78pcj5mdoe
     verified: false
-    hashtags: "#jordan6travisscott, #womenswear, #dunkoffwhite, #sneakerhead"
+    hashtags: "#swag, #ytww, #nicekicks, #hypebeastkicks"
+  - username: "ralehin"
+    fullname: >-
+      ROMAN RALEHIN
+    location: "Russia"
+    followers: 69098
+    engagement: 81
+    commentsToLikes: 0.080862
+    id: ck6tz8y4v8azg0j71xprz1kd8
+    verified: false
+    hashtags: "#giveaway, #hypebeast, #russia, #23"
   - username: "vilbor"
     fullname: >-
-      PAVEL PRITULA
+      Pavel Pritula
     location: "Russia"
-    followers: 26599
-    engagement: 444
-    commentsToLikes: 0.021846
+    followers: 26230
+    engagement: 424
+    commentsToLikes: 0.021283
     id: ck0tunjcd7w280i19khaudggi
     verified: false
-    hashtags: "#miralpha, #portraitcentral, #pursuitofportraits, #expofilm"
-  - username: "maggigad"
-    fullname: >-
-      pretty mother fvcker
-    location: "Russia"
-    followers: 24120
-    engagement: 576
-    commentsToLikes: 0.018715
-    id: ck15sgr58cx1i0i19iolnz8n2
-    verified: false
-    hashtags: "#blkvis, #kicksonfire, #swoosh, #lacoste"
-  - username: "freiyaaa"
-    fullname: >-
-      Ася Фотограф/Продюсер Москва
-    location: "Russia"
-    followers: 14432
-    engagement: 64
-    commentsToLikes: 0.222362
-    id: ck0u03stksg8o0i19xgdz0rd4
-    verified: false
-    hashtags: "#freiyaaaphoto, #letoile, #giftreview, #siammsiammbasic"
-  - username: "borsch"
-    fullname: >-
-      Yura Borschev
-    location: "Russia"
-    followers: 69061
-    engagement: 1283
-    commentsToLikes: 0.058868
-    id: ck0u1swqsxssv0i19qb9bztz3
-    verified: false
-    hashtags: "#miralpha, #hypecourts, #esquire, #norge"
-  - username: "jekatarinaa"
-    fullname: >-
-      𝒦𝒶𝓉 🦋
-    location: "Russia"
-    followers: 31740
-    engagement: 149
-    commentsToLikes: 0.025878
-    id: ck5pyqi0oxaui0i11x9pkzbfb
-    verified: false
-    hashtags: "#loungeunderwear, #travisscott, #complex, #shein"
-  - username: "oksanalav"
-    fullname: >-
-      Oksana Lavrova • Visual Artist
-    location: "Russia"
-    followers: 6733
-    engagement: 942
-    commentsToLikes: 0.006904
-    id: ck55mvcpd4wiv0i11an55ofcu
-    verified: false
-    hashtags: "#v93oo, #chupachupsbeauty, #hypebeast, #makeupbyme"
+    hashtags: "#streetmagazine, #peopleinframe, #streetmobs, #hbouthere"
   - username: "olyasok"
     fullname: >-
       
@@ -93,15 +53,55 @@ profiles:
     commentsToLikes: 0.023889
     id: ck137cv8iaww80i19liq71jpn
     verified: false
-    hashtags: "#family, #nikesbornothing, #streetstyle, #jordan1royal"
-  - username: "ralehin"
+    hashtags: "#burton43, #dogwalker, #capandcap, #burtonfriends"
+  - username: "jekatarinaa"
     fullname: >-
-      ROMAN RALEHIN
+      𝒦𝒶𝓉 🦋
     location: "Russia"
-    followers: 70927
-    engagement: 93
-    commentsToLikes: 0.085343
-    id: ck6tz8y4v8azg0j71xprz1kd8
+    followers: 31264
+    engagement: 153
+    commentsToLikes: 0.018012
+    id: ck5pyqi0oxaui0i11x9pkzbfb
     verified: false
-    hashtags: "#art, #karantin, #hypebeast, #love"
+    hashtags: "#hypebeast, #hypestfits, #quarantine, #travisscott"
+  - username: "panvelvet"
+    fullname: >-
+      VITALY | PANVELVET ℣
+    location: "Russia"
+    followers: 40003
+    engagement: 420
+    commentsToLikes: 0.058313
+    id: ck0tttthd49yk0i1955j7lbry
+    verified: true
+    hashtags: "#bhphoto, #owsla, #visitdubai, #dronemultimedia"
+  - username: "street.tones"
+    fullname: >-
+      Mikhail Gordeev
+    location: "Russia"
+    followers: 15879
+    engagement: 364
+    commentsToLikes: 0.076197
+    id: ck0u1swtixsvd0i19dwj7isk4
+    verified: false
+    hashtags: "#cybervibe, #nissan, #arshavin, #space"
+  - username: "alexandermir"
+    fullname: >-
+      Alexander MIR • Moscow
+    location: "Russia"
+    followers: 42305
+    engagement: 166
+    commentsToLikes: 0.067159
+    id: ck15sfsl5csrq0i19mk46nhqx
+    verified: false
+    hashtags: "#thesungoesdown, #smartcities, #workworkwork, #conquerenemy"
+  - username: "litvinovgang"
+    fullname: >-
+      Влад Литвинов
+    location: "Russia"
+    followers: 327575
+    engagement: 227
+    commentsToLikes: 0.017666
+    id: ck6ubo3p0aq350j71j4f4ryrs
+    verified: false
+    hashtags: "#e63samg, #offwhite, #e63, #dior"
 ---

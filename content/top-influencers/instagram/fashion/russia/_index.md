@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Russia In 2020
 description: >-
-  Find top fashion Instagram influencers in Russia in 2020. Most popular hashtags: #detailsoftheday #lookoftheday #thenoisetier #marlipa.
+  Find top fashion Instagram influencers in Russia in 2020. Most popular hashtags: # #stayhome #coronatime #quarantine.
 platform: Instagram
 profiles:
+  - username: "leronyrony"
+    fullname: >-
+      Valeria Anastasina
+    location: "Russia"
+    followers: 13043
+    engagement: 2180
+    commentsToLikes: 0.131030
+    id: ck0ty5lgvlqdw0i19i3erm7j8
+    verified: false
+    hashtags: ""
+  - username: "liza_guryanova"
+    fullname: >-
+      Eliza🌟Guryanova
+    location: "Russia"
+    followers: 30579
+    engagement: 1087
+    commentsToLikes: 0.089518
+    id: ckap60lt8dyb10i78o61r56ei
+    verified: false
+    hashtags: "#dancephoto, #selfie, #coronatime, #sea"
+  - username: "most703"
+    fullname: >-
+      Masha /  Italy Photographer
+    location: "Russia"
+    followers: 20322
+    engagement: 957
+    commentsToLikes: 0.059137
+    id: ck6u7758kjv990j7146jvnhj8
+    verified: false
+    hashtags: "#weareoii, #weareoiifamily, #andratuttobene, #stayathome"
+  - username: "pifanv"
+    fullname: >-
+      Maxim Epifanov
+    location: "Russia"
+    followers: 158016
+    engagement: 467
+    commentsToLikes: 0.037834
+    id: ck0vwtrc4vk5d0i19ymuw0xxc
+    verified: false
+    hashtags: "#lglifeisgood, #minote10xberger, #starbucks, #maisonmargielafragrances"
+  - username: "polinchik"
+    fullname: >-
+      p o l i n a  /  п о л и н а
+    location: "Russia"
+    followers: 121979
+    engagement: 427
+    commentsToLikes: 0.170331
+    id: ck134eak6w0vy0i19oaiyhr5r
+    verified: false
+    hashtags: "#tee, #balloons, #amsterdam, #picknick"
+  - username: "daria_paksh"
+    fullname: >-
+      Daria Paksh
+    location: "Russia"
+    followers: 32366
+    engagement: 515
+    commentsToLikes: 0.078492
+    id: ck5ceve3nlse00i11tcfp0h2r
+    verified: false
+    hashtags: "#coronatime, #stayhome, #quarantine, #victoryday"
   - username: "marinashchenyaeva"
     fullname: >-
       Марина Щеняева
     location: "Russia"
-    followers: 84275
-    engagement: 367
-    commentsToLikes: 0.094343
+    followers: 82836
+    engagement: 402
+    commentsToLikes: 0.085492
     id: ck6ufyih1zvvf0j71eo5tj1ut
     verified: false
     hashtags: ""
-  - username: "bliznukd"
+  - username: "samidochka_sammy"
     fullname: >-
-      Фотограф 🇷🇺📷 Денис Близнюк
+      ❤️СМАИЛБЕКОВА САМИДОЧКА ❤️
     location: "Russia"
-    followers: 16641
-    engagement: 562
-    commentsToLikes: 0.146314
-    id: ck6ufykmzzwah0j71coay8fpd
+    followers: 2316
+    engagement: 3616
+    commentsToLikes: 0.366945
+    id: ck8tdr5n84h460j78xavvssv4
     verified: false
-    hashtags: "#mood, #nophotoshop"
-  - username: "kaaaaaaaaaaat"
-    fullname: >-
-      Kate| In❤️with Paris |Filters
-    location: "Russia"
-    followers: 42311
-    engagement: 396
-    commentsToLikes: 0.148545
-    id: ck14k2obnnfh50i19cv7eok4k
-    verified: false
-    hashtags: "#kiehls8, #victoriassecretrussia, #liketime, #kiehlsrussia"
-  - username: "sasha_shklyaeva"
-    fullname: >-
-      Стилист • Екатеринбург
-    location: "Russia"
-    followers: 13015
-    engagement: 835
-    commentsToLikes: 0.093625
-    id: ck0u81za969m60i197nt4sqwm
-    verified: false
-    hashtags: "#lookstyle, #ysl, #yslshoes, #12friendz"
+    hashtags: "#postmyfashionkids, #childrenphotographer, #75, #backstage"
   - username: "olga_prosvetova"
     fullname: >-
       Ольга Просветова
     location: "Russia"
-    followers: 129073
-    engagement: 321
-    commentsToLikes: 0.072967
+    followers: 120060
+    engagement: 346
+    commentsToLikes: 0.073108
     id: ck5c27ooswpel0i11un3aqpob
     verified: false
     hashtags: ""
-  - username: "style_by_kater1na__"
+  - username: "lekkybestofficial"
     fullname: >-
-      Катерина
+      FASHIONMAN | MENSTYLE | CALEB
     location: "Russia"
-    followers: 5919
-    engagement: 1157
-    commentsToLikes: 0.066704
-    id: ck6ui7qlsdjiq0j71pmdc9jwp
+    followers: 10876
+    engagement: 814
+    commentsToLikes: 0.406184
+    id: ck55oh10l8c3w0i119tn8zddi
     verified: false
-    hashtags: "#style, #hmbelarus"
-  - username: "kristabelkrayt"
-    fullname: >-
-      Kristina Krayt
-    location: "Russia"
-    followers: 1063603
-    engagement: 243
-    commentsToLikes: 0.029056
-    id: ck0tsru4s0bte0i19yv7qnzx0
-    verified: false
-    hashtags: "#baikal430, #kraytmood, #stayhome, #baikal"
-  - username: "marinalipovetskaya"
-    fullname: >-
-      Marina Lipovetskaya
-    location: "Russia"
-    followers: 15038
-    engagement: 574
-    commentsToLikes: 0.084938
-    id: ck5hdv3orpiwf0i117ehj49cw
-    verified: false
-    hashtags: "#marlipa"
-  - username: "tats_stacy"
-    fullname: >-
-      Anastasia Pesotskaya
-    location: "Russia"
-    followers: 83423
-    engagement: 263
-    commentsToLikes: 0.047958
-    id: ck5bvvymukia40i11i7i7hybp
-    verified: false
-    hashtags: "#serginnetti, #germany, #redmond, #newcollection"
-  - username: "marinabondy"
-    fullname: >-
-      LIFESTYLE
-    location: "Russia"
-    followers: 195330
-    engagement: 229
-    commentsToLikes: 0.113655
-    id: ck5hn1cwpn0s20i11xvpgliug
-    verified: false
-    hashtags: "#skinceuticals, #thalgo, #thalgorussia, #mbondy"
+    hashtags: "#suitandtie, #mrporterpost, #mensfashiontips, #menwith"
 ---

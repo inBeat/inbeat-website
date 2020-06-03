@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Dallas In 2020
 description: >-
-  Find top yoga Instagram influencers in Dallas in 2020. Most popular hashtags: #yoga #desdanee #quarantine #love.
+  Find top yoga Instagram influencers in Dallas in 2020. Most popular hashtags: #dallas #yoga #mothersday #yogatherapy.
 platform: Instagram
 profiles:
+  - username: "stephanie_melton_yoga"
+    fullname: >-
+      Stephanie
+    location: "United States"
+    followers: 3393
+    engagement: 567
+    commentsToLikes: 0.276772
+    id: ck8sw0tfcdets0j78106qlfnw
+    verified: false
+    hashtags: "#splits, #staglegs, #standingcompass, #yogapose"
   - username: "britt.rainwater"
     fullname: >-
-      BRITT RAINWATER 💧
+      BRITT RAINWATER 🧿
     location: "United States"
-    followers: 18980
-    engagement: 303
-    commentsToLikes: 0.064983
+    followers: 18843
+    engagement: 277
+    commentsToLikes: 0.066766
     id: ck6tpbz76izjz0j71n873pf01
     verified: false
-    hashtags: "#yoga, #welovetravel, #yachtlife, #mindsetshift"
-  - username: "desdanee"
+    hashtags: "#legextension, #toddlerfashion, #kidzfashion, #sportyspice"
+  - username: "acrow59"
     fullname: >-
-      IamDesdanee
+      Alec
     location: "United States"
-    followers: 16080
-    engagement: 173
-    commentsToLikes: 0.048494
-    id: ck6uhme339ykd0j717365bav8
+    followers: 10248
+    engagement: 2590
+    commentsToLikes: 0.029199
+    id: ck6uhpa3dag740j711rw8w339
     verified: false
-    hashtags: "#dallasphotographers, #austinmodels, #desdanee, #yogi"
+    hashtags: "#mermaid, #jafarcosplay, #prosthetics, #intotheunknown"
   - username: "thenevaehtae"
     fullname: >-
       Nevaeh Tae
     location: "United States"
-    followers: 141649
-    engagement: 835
-    commentsToLikes: 0.015322
+    followers: 151465
+    engagement: 831
+    commentsToLikes: 0.013941
     id: ck5c4tzgv23no0i114fcltd8p
     verified: false
-    hashtags: "#white, #fishnet, #dallasmodel, #blessed"
-  - username: "soniaazadtv"
-    fullname: >-
-      SoniaAzadTV
-    location: "United States"
-    followers: 10486
-    engagement: 562
-    commentsToLikes: 0.081468
-    id: ck0vz2nj36zdr0i19qs1pt0xv
-    verified: false
-    hashtags: "#nofilter, #fakebae, #ilovela, #tragedy"
-  - username: "we.the.birds"
-    fullname: >-
-      WE THE BIRDS
-    location: "United States"
-    followers: 27189
-    engagement: 300
-    commentsToLikes: 0.014650
-    id: ck5pyolmzx13x0i11h9gnfzr9
-    verified: false
-    hashtags: "#dallaschiropractor, #atmydesk, #togetherapart, #stars"
+    hashtags: "#papi, #legs, #nevaehtae, #waterchallenge"
   - username: "nataliaavegaa"
     fullname: >-
       NATALIA VEGA
     location: "United States"
-    followers: 8776
-    engagement: 505
-    commentsToLikes: 0.021407
+    followers: 8575
+    engagement: 518
+    commentsToLikes: 0.021484
     id: ck6uc7xdae0hh0j71x8mgeequ
     verified: false
-    hashtags: "#ahimsa, #photoshopfix, #cleanpic, #vegantacos"
+    hashtags: "#miamibeach, #vegantacos, #greennature, #veganmiami"
   - username: "lucky_boo_tzu"
     fullname: >-
       Lucky Boo 🍀🌵
     location: "United States"
-    followers: 3695
-    engagement: 1115
-    commentsToLikes: 0.119035
+    followers: 5096
+    engagement: 660
+    commentsToLikes: 0.127915
     id: ck6tqf28ir2yo0j71wzy77ojg
     verified: false
-    hashtags: "#stayhome, #aprilfoolsday, #tentaclestuesday, #shihtzu"
-  - username: "kaceymontoya"
+    hashtags: "#maythe4th, #thewangerbros, #tzugether, #hawaii"
+  - username: "lot_lizard"
     fullname: >-
-      K A C E Y   M O N T O Y A
+      lot_lizard
     location: "United States"
-    followers: 37478
-    engagement: 268
-    commentsToLikes: 0.050640
-    id: ck5zmt5c0n6by0i14b6ei3vuw
-    verified: true
-    hashtags: "#shermanoaks, #loseanhourofsleep, #chihuahuasofinstagram, #coronavirusbirthday2020"
-  - username: "chefakiraback"
+    followers: 5215
+    engagement: 693
+    commentsToLikes: 0.050861
+    id: ckaorzqy8phyk0i78wz67asv2
+    verified: false
+    hashtags: "#fxdb, #chopper, #hellshalfacre, #swag"
+  - username: "soniaazadtv"
     fullname: >-
-      Akira Back (백승욱)
+      SoniaAzadTV
     location: "United States"
-    followers: 40594
-    engagement: 446
-    commentsToLikes: 0.006058
-    id: ck139ht1yldh50i19eap9rqqr
-    verified: true
-    hashtags: "#wakeup, #groceryshopping, #beveryhills, #camo"
+    followers: 11053
+    engagement: 480
+    commentsToLikes: 0.077108
+    id: ck0vz2nj36zdr0i19qs1pt0xv
+    verified: false
+    hashtags: "#meditation, #patience, #sirsasana, #boundaries"
   - username: "thebalancedpt"
     fullname: >-
       Dr. Dava Nichol // PT + Yoga
     location: "United States"
-    followers: 51161
-    engagement: 138
-    commentsToLikes: 0.064716
+    followers: 50501
+    engagement: 141
+    commentsToLikes: 0.064053
     id: ck0u88ia76qmd0i192h3bk2cj
     verified: false
-    hashtags: "#anklemobility, #mobilityseries, #physicaltherapy, #mobilitydrills"
+    hashtags: "#wristpain, #liveyoga, #poweryoga, #yogadrills"
+  - username: "balanced_teachers"
+    fullname: >-
+      Maggie 🔥 Balanced Teachers
+    location: "United States"
+    followers: 5446
+    engagement: 1384
+    commentsToLikes: 0.031985
+    id: ckaot6rbiumwr0i78o3iqbp43
+    verified: false
+    hashtags: "#uncertainty, #teachersinquarantine, #justdontdoit, #teacherswhoread"
 ---

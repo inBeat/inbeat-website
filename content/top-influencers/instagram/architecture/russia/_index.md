@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Russia In 2020
 description: >-
-  Find top architecture Instagram influencers in Russia in 2020. Most popular hashtags: #architecture #sketch #spb #archdaily.
+  Find top architecture Instagram influencers in Russia in 2020. Most popular hashtags: #landscape #sovietmosaic #brutgroup #photography.
 platform: Instagram
 profiles:
   - username: "kamillahanapova"
     fullname: >-
       Photographer/Collage Artist
     location: "Russia"
-    followers: 17993
-    engagement: 476
-    commentsToLikes: 0.021827
+    followers: 18856
+    engagement: 504
+    commentsToLikes: 0.026565
     id: ck0u0e4uttj0r0i19kgezrncw
     verified: false
-    hashtags: "#theartistedit, #closeupphotography, #beautyportrait, #octobermagazine"
+    hashtags: "#canonru, #collagecollective, #thetaxcollection, #v93oo"
   - username: "nukeproofsuit"
     fullname: >-
       
     location: "Russia"
-    followers: 23013
-    engagement: 384
-    commentsToLikes: 0.070936
+    followers: 23052
+    engagement: 356
+    commentsToLikes: 0.072166
     id: ck15t1pjnfwml0i192b0xj1n2
     verified: false
-    hashtags: "#hellofrom, #archdaily, #minimalmood, #watchthisinstagood"
+    hashtags: "#reflectiongram, #artofvisuals, #flattenthecurve, #toneception"
+  - username: "sokolovvvaa"
+    fullname: >-
+      🦊R e g i n a🦊
+    location: "Russia"
+    followers: 5527
+    engagement: 1042
+    commentsToLikes: 0.028147
+    id: ckap0270loe7d0i78542xsmwx
+    verified: false
+    hashtags: ""
+  - username: "madebyvadim"
+    fullname: >-
+      Vadim Sherbakov
+    location: "Russia"
+    followers: 29917
+    engagement: 433
+    commentsToLikes: 0.041933
+    id: ck0u9obicacp20i19nbrq6x5o
+    verified: false
+    hashtags: "#dronepilot, #nature, #drone, #drones"
   - username: "northern.friend"
     fullname: >-
       Arseniy Kotov
     location: "Russia"
-    followers: 87451
-    engagement: 906
-    commentsToLikes: 0.008409
+    followers: 98508
+    engagement: 773
+    commentsToLikes: 0.008014
     id: ck0uawwyidbij0i195coapz6g
     verified: false
-    hashtags: "#sovietmosaic, #coronavirus, #norilskcity, #russiannorth"
+    hashtags: "#transdniestria, #darktourism, #ussr, #chernobyl"
+  - username: "trafartstickers"
+    fullname: >-
+      Георгий
+    location: "Russia"
+    followers: 5405
+    engagement: 1430
+    commentsToLikes: 0.017595
+    id: ck9hbghlogqgl0j787s5s9qdh
+    verified: false
+    hashtags: "#cloudscapes, #oldchurches, #nikonrussia, #moscowstreets"
+  - username: "beton.7"
+    fullname: >-
+      Beton.7
+    location: "Russia"
+    followers: 8739
+    engagement: 868
+    commentsToLikes: 0.021859
+    id: ck8tb5ltpudo30j78odxm6djj
+    verified: false
+    hashtags: "#firenzepeople, #arttowers, #archsoviet, #revolutionsquaremetrostation"
   - username: "xenia_klassen"
     fullname: >-
       Xenia Klassen
     location: "Russia"
-    followers: 15224
-    engagement: 826
-    commentsToLikes: 0.011189
+    followers: 15053
+    engagement: 807
+    commentsToLikes: 0.013602
     id: ck0tyw9qsobvw0i19ckudfq3h
     verified: false
-    hashtags: "#sredatomsk, #madrid, #granvia, #medieval"
-  - username: "idbronskiy"
-    fullname: >-
-      Ilya D. Bronskiy
-    location: "Russia"
-    followers: 64618
-    engagement: 338
-    commentsToLikes: 0.011067
-    id: ck13c1d2hy56u0i196l7kim31
-    verified: false
-    hashtags: "#shotoniphone, #visualsoflife, #verilymoment, #thecityseries"
+    hashtags: "#portugal, #valenca, #archistudents, #goldfinch"
   - username: "aysyluuu"
     fullname: >-
       Айсылу Зарипова
     location: "Russia"
-    followers: 39370
-    engagement: 580
-    commentsToLikes: 0.005562
+    followers: 40260
+    engagement: 587
+    commentsToLikes: 0.005751
     id: ck6u7aamtkcq20j71fue94eqf
     verified: false
-    hashtags: "#3dsmaxcorona, #3dsmax, #visualisation, #design"
-  - username: "kot_h"
+    hashtags: "#3dfedor, #visualisation, #coronarender, #3dsmaxcorona"
+  - username: "think.differrent"
     fullname: >-
-      Konstantin
+      Vlad Vinogradov
     location: "Russia"
-    followers: 8731
-    engagement: 895
-    commentsToLikes: 0.009995
-    id: ck0w1rtxmkte60i1966rb2mmi
+    followers: 6201
+    engagement: 665
+    commentsToLikes: 0.036103
+    id: ck14goxdq6bad0i199wcx9vrl
     verified: false
-    hashtags: "#socialistmodernism, #brutalist, #brutal, #architecture"
-  - username: "mcheblak"
-    fullname: >-
-      Maria Cheblakova
-    location: "Russia"
-    followers: 19311
-    engagement: 356
-    commentsToLikes: 0.044106
-    id: ck5cfundmnncn0i11h3jnun7d
-    verified: false
-    hashtags: ""
-  - username: "salionova_m"
-    fullname: >-
-      Margarita Salionova
-    location: "Russia"
-    followers: 15303
-    engagement: 610
-    commentsToLikes: 0.018455
-    id: ck0u7hezp4p0p0i19menrrm6v
-    verified: false
-    hashtags: "#interiordesign"
-  - username: "spb_library"
-    fullname: >-
-      Библиотеки Петербурга
-    location: "Russia"
-    followers: 15896
-    engagement: 293
-    commentsToLikes: 0.017476
-    id: ck5cfdjcjmqo60i11redmxeas
-    verified: false
-    hashtags: "#vscospb, #artnouveau, #library, #vscodaily"
+    hashtags: "#urbexphoto, #bandorebelz, #sovietmosaic, #sovmod"
 ---

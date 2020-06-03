@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Brazil In 2020
 description: >-
-  Find top wellness Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #fitness #motiva #praia.
+  Find top wellness Instagram influencers in Brazil in 2020. Most popular hashtags: #wellness #goodvibes #brasil #fitnessgirl.
 platform: Instagram
 profiles:
   - username: "olena.starodubets"
     fullname: >-
       Olena Starodubets🍀 Oficial
     location: "Brazil"
-    followers: 278212
-    engagement: 529
-    commentsToLikes: 0.028037
+    followers: 331676
+    engagement: 673
+    commentsToLikes: 0.026894
     id: ck8t8yy9bmc9w0j78haonvy8z
     verified: false
-    hashtags: "#motiva, #gravida, #veganinspiration, #obrigada"
-  - username: "dante.yoga"
+    hashtags: "#mamafit, #obrigada, #pregnt, #veganfamily"
+  - username: "brusabinno"
     fullname: >-
-      Dante Negreiros
+      Bruna Sabino Sanches 🦁
     location: "Brazil"
-    followers: 10332
-    engagement: 580
-    commentsToLikes: 0.078128
-    id: ck6u5tkixbnt60j71bd17e5h2
+    followers: 31636
+    engagement: 358
+    commentsToLikes: 0.291374
+    id: ckap2vzfk0k000i78zbtgdnht
     verified: false
-    hashtags: "#queroviajarmais, #revistaqualviagem, #achadosdasemana, #tbt"
-  - username: "thaianemenezzes"
+    hashtags: "#empatia, #mulher, #healthylifestyle, #goodvibesonly"
+  - username: "tauany_almeida"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ❀Thaiane Menezes❀
+      tauany almeida
     location: "Brazil"
-    followers: 15994
-    engagement: 310
-    commentsToLikes: 0.096970
-    id: ck6tr6wqmxabo0j71p8fui9i8
+    followers: 166093
+    engagement: 191
+    commentsToLikes: 0.040799
+    id: ckaovx6886hcr0i78wxyr0cd7
     verified: false
-    hashtags: "#tbt, #espalheobomastral, #praia, #summer"
-  - username: "rafacarandina"
-    fullname: >-
-      Rafaela Venturoli Carandina
-    location: "Brazil"
-    followers: 27812
-    engagement: 212
-    commentsToLikes: 0.082941
-    id: ck1384dtwefy90i193zqa2daq
-    verified: false
-    hashtags: "#tbt"
+    hashtags: ""
   - username: "patriciaaparada"
     fullname: >-
       PATRÍCIA PARADA
     location: "Brazil"
-    followers: 532024
-    engagement: 168
-    commentsToLikes: 0.133625
+    followers: 565526
+    engagement: 151
+    commentsToLikes: 0.415200
     id: ck0tu5p1a5r640i1928kry3wm
     verified: false
-    hashtags: "#dragonpharma, #treinodragon, #dragonpharma, #treinodragon"
-  - username: "larianepessin"
+    hashtags: "#girlpower, #evoluc, #fitnesslife, #gymlife"
+  - username: "thaianemenezzes"
     fullname: >-
-      Lariane Pessin
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ❀Thaiane Menezes❀
     location: "Brazil"
-    followers: 5789
-    engagement: 1038
-    commentsToLikes: 0.035842
-    id: ck6tqkmcqrzdr0j71ujt2i2me
+    followers: 15826
+    engagement: 315
+    commentsToLikes: 0.106196
+    id: ck6tr6wqmxabo0j71p8fui9i8
     verified: false
-    hashtags: "#foco, #deusnocomando, #campeonato, #mar"
+    hashtags: "#tbt"
+  - username: "anacbahiense"
+    fullname: >-
+      Ana C.Bahiense | Nutricionista
+    location: "Brazil"
+    followers: 72860
+    engagement: 688
+    commentsToLikes: 0.067776
+    id: ck5zyvqk7amc10i14oxutirlw
+    verified: false
+    hashtags: "#euquelute, #bumdia, #saudades, #quarentreino"
+  - username: "_traveljewels_"
+    fullname: >-
+      Jewels Rhode, MPH
+    location: "Brazil"
+    followers: 16873
+    engagement: 276
+    commentsToLikes: 0.089442
+    id: ck0w4p3lbzp0k0i1949s7nf09
+    verified: false
+    hashtags: "#pro, #heisrisen, #hotgirlsummer2021, #plottwist"
+  - username: "jheyendringer"
+    fullname: >-
+      Jeniffer Endringer IFBB PRO
+    location: "Brazil"
+    followers: 273501
+    engagement: 141
+    commentsToLikes: 0.034792
+    id: ck5hryncmvpe40i116x81z9g8
+    verified: false
+    hashtags: "#naotafacil, #tudonosigilo, #cabelocurto, #bumbumnanuca"
   - username: "carine.carroll"
     fullname: >-
       Carine Carroll
     location: "Brazil"
-    followers: 30208
-    engagement: 372
-    commentsToLikes: 0.034152
+    followers: 29659
+    engagement: 339
+    commentsToLikes: 0.038395
     id: ck6tkymq65nnn0j71vzzvgucv
     verified: false
-    hashtags: "#landscape, #frases, #gymrat, #academia"
-  - username: "mila_usmia"
+    hashtags: "#inspiration, #throwback, #fisiculturista, #mothernature"
+  - username: "franciellemattos_"
     fullname: >-
-      Mila Ornelas 🌻🇧🇷
+      ⚜️Francielle Mattos ⚜️
     location: "Brazil"
-    followers: 31508
-    engagement: 95
-    commentsToLikes: 0.059381
-    id: ck6u84dsypd8y0j71wha31fud
+    followers: 275566
+    engagement: 248
+    commentsToLikes: 0.028065
+    id: ck1384fnaeg6u0i19zibqprpw
     verified: false
-    hashtags: "#love, #bestcompany, #miami, #truelove"
-  - username: "respallicci"
-    fullname: >-
-      Renata Spallicci
-    location: "Brazil"
-    followers: 461793
-    engagement: 214
-    commentsToLikes: 0.073250
-    id: ck5q5e0aksgk60i11wq5y9r7d
-    verified: true
-    hashtags: "#mulheres, #desafiodosofa, #altogirolovers, #palestrarte"
-  - username: "susanarodriguezpro"
-    fullname: >-
-      ᔕᑌᔕᗩᑎᗩ ᖇOᗪᖇIGᑌEᘔ
-    location: "Brazil"
-    followers: 218425
-    engagement: 190
-    commentsToLikes: 0.019813
-    id: ck5pz2ft0yxdn0i110j7v9895
-    verified: false
-    hashtags: "#32, #vidasaudavel, #quarentreino, #model"
+    hashtags: "#arnoldsports, #filhos, #mulheresfortes, #ifbbproleague"
 ---

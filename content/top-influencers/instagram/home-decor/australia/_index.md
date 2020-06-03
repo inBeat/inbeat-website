@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Australia In 2020
 description: >-
-  Find top home decor Instagram influencers in Australia in 2020. Most popular hashtags: #homedecor #stayhome #travelblogger #summer.
+  Find top home decor Instagram influencers in Australia in 2020. Most popular hashtags: #homedecor #happy #howyouhome #jewelry.
 platform: Instagram
 profiles:
-  - username: "haylsa"
+  - username: "marghe.ritta"
     fullname: >-
-      Hαуℓeу αndersen ❥
+      𝐓𝐫α𝐯є𝐥 𝐂σ𝐮𝐩𝐥є 💍👫🌏 𝐑𝐢𝐭𝐚 𝐆𝐞𝐡𝐚
     location: "Australia"
-    followers: 334458
-    engagement: 391
-    commentsToLikes: 0.019498
-    id: ck0tvy4qedaq40i195byfqxq2
+    followers: 13037
+    engagement: 1350
+    commentsToLikes: 0.074963
+    id: ck8t3comw2rlp0j78zx5o7jq2
     verified: false
-    hashtags: "#bedroomstyle, #guinnessbeer, #instagramers, #couplevideoo"
+    hashtags: "#bouquet, #guesthouse, #architecture, #travelturkey"
+  - username: "junclarekim"
+    fullname: >-
+      JUN | Fashion | Beauty | Home
+    location: "Australia"
+    followers: 3645
+    engagement: 1949
+    commentsToLikes: 0.278627
+    id: ck8t85l9wj6tf0j7827j65yse
+    verified: false
+    hashtags: "#kmartau, #bpafree, #petitestyle, #candle"
+  - username: "sigmundovapavlina"
+    fullname: >-
+      P A V L Í N A ⚡️ SIGMUNDOVÁ
+    location: "Australia"
+    followers: 15706
+    engagement: 1234
+    commentsToLikes: 0.021208
+    id: ck8tbe4uuvanz0j781adw57bc
+    verified: false
+    hashtags: "#portrait, #guccibelt, #tree, #parrot"
   - username: "mishandkirk"
     fullname: >-
       Mish & Kirk
     location: "Australia"
-    followers: 164043
-    engagement: 163
-    commentsToLikes: 0.055588
+    followers: 166096
+    engagement: 161
+    commentsToLikes: 0.063322
     id: ck15phzc7xz5d0i19yxlrf9bu
     verified: false
-    hashtags: "#wanakawedding, #departedoutdoors, #neverstopexploring, #mtcooknationalpark"
-  - username: "mama.duck.said"
+    hashtags: "#hiking, #elopement, #bohopresets, #mountainlife"
+  - username: "shethespy"
     fullname: >-
-      Ange
+      joey ☆ she the spy
     location: "Australia"
-    followers: 27843
-    engagement: 151
-    commentsToLikes: 0.111561
-    id: ck14l4y00svk40i19l3ydxcow
+    followers: 178966
+    engagement: 267
+    commentsToLikes: 0.028197
+    id: ck0w70hxab5ba0i19ccobdm5y
     verified: false
-    hashtags: "#mango, #geelong, #food, #style"
-  - username: "madeformadison"
+    hashtags: "#forahappymoment, #nailpolish, #teamjess, #drivetribe"
+  - username: "katya_supernova"
     fullname: >-
-      Sydney Lifestyle/Parent Blog
+      
     location: "Australia"
-    followers: 21654
-    engagement: 151
-    commentsToLikes: 0.229899
-    id: ck5zsa9ejy42d0i149gg99y70
+    followers: 207023
+    engagement: 266
+    commentsToLikes: 0.031849
+    id: ck13chibs0dd90i19cmt3vs2b
     verified: false
-    hashtags: "#cricutmade, #gymkidzaustralia, #makethemostofeveryday, #siblinghoodlove"
-  - username: "krystal.brooke"
+    hashtags: "#smile, #birds, #travelgram, #antibedhead"
+  - username: "fashfitlifestyle"
     fullname: >-
-      KRYSTAL
+      PETRA KÖNYIT©
     location: "Australia"
-    followers: 30556
-    engagement: 106
-    commentsToLikes: 0.130403
-    id: ck0u06vdisued0i19uv082eye
+    followers: 45418
+    engagement: 257
+    commentsToLikes: 0.013515
+    id: ck9hbm7aehglm0j78ypg3x14b
     verified: false
-    hashtags: "#homeworkouts, #fitnesstransformation, #vscomom, #fashiondiaries"
-  - username: "_laurenbrianna"
-    fullname: >-
-      Lauren Smith
-    location: "Australia"
-    followers: 13631
-    engagement: 477
-    commentsToLikes: 0.044056
-    id: ck0u8z0ur8nim0i19sasuhnlb
-    verified: false
-    hashtags: "#glowymakeup, #curvefashion, #denimjacket, #cocktails"
-  - username: "home_by_charline"
-    fullname: >-
-      home_by_charline
-    location: "Australia"
-    followers: 53232
-    engagement: 1164
-    commentsToLikes: 0.056717
-    id: ck6u5cwjy8wlq0j713b2c38h2
-    verified: false
-    hashtags: "#kitchendesign, #nordichome, #weekend, #myhomedesign"
-  - username: "juliaquis"
-    fullname: >-
-      Freediver | RE Entrepreneur
-    location: "Australia"
-    followers: 25681
-    engagement: 167
-    commentsToLikes: 0.035410
-    id: ck55k3x94yegi0i115kwm4adk
-    verified: false
-    hashtags: "#animalphoto, #luxurylodge, #safariphotography, #accomodation"
-  - username: "duskavenue"
-    fullname: >-
-      Najima Rasool
-    location: "Australia"
-    followers: 56617
-    engagement: 111
-    commentsToLikes: 0.026071
-    id: ck5c76lf76x6d0i11a3yyofef
-    verified: false
-    hashtags: "#throwback, #harrypotter, #canberrainfluencer, #newstarkebabrestaurant"
+    hashtags: "#trophywife, #pizzanight, #sohappy, #redwoodforest"
   - username: "chateaumontfort"
     fullname: >-
       Sara Silm
     location: "Australia"
-    followers: 7852
-    engagement: 1136
-    commentsToLikes: 0.123441
+    followers: 10344
+    engagement: 991
+    commentsToLikes: 0.118127
     id: ck8sx8o8bgiyw0j7823j2p8zc
     verified: false
-    hashtags: "#lovelyinterior, #atmykitchentable, #myunicornlife, #lifewellcaptured"
+    hashtags: "#chambre, #homemade, #eattheworld, #stayhome"
+  - username: "thrift_plantabode_"
+    fullname: >-
+      Jaye Workman
+    location: "Australia"
+    followers: 53165
+    engagement: 291
+    commentsToLikes: 0.082530
+    id: ck15s1m5las530i19122kqljt
+    verified: false
+    hashtags: "#happyweekend, #australianmade, #junglehome, #instagood"
+  - username: "ourcozyabode_"
+    fullname: >-
+      Tash Jayne  ✨
+    location: "Australia"
+    followers: 9617
+    engagement: 723
+    commentsToLikes: 0.404255
+    id: ck6ugp8p84cdu0j71ctvt30tx
+    verified: false
+    hashtags: "#livingroominspo, #australianmade, #loveyourhabitat, #myhaven"
 ---

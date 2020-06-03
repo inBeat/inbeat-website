@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Sao Paulo In 2020
 description: >-
-  Find top food Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #love #food #trip #tbt.
+  Find top food Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #food #live #summer #love.
 platform: Instagram
 profiles:
+  - username: "chewie.vix"
+    fullname: >-
+      🦊 Chewbacca 🦊
+    location: "Brazil"
+    followers: 12073
+    engagement: 947
+    commentsToLikes: 0.074711
+    id: ck9wcz9cedbna0j78ryz5djpf
+    verified: false
+    hashtags: "#amizade, #starwarsbr, #capixabadagema, #food"
   - username: "dutokushima"
     fullname: >-
       Eduardo Tokushima
     location: "Brazil"
-    followers: 2299
-    engagement: 1012
-    commentsToLikes: 0.069617
+    followers: 2497
+    engagement: 1017
+    commentsToLikes: 0.074982
     id: ck5c8lkhf9qsq0i119d55jkpu
     verified: false
-    hashtags: "#ch, #carnaval2020, #yuuki40, #brunch"
-  - username: "isabeladomingues"
+    hashtags: "#dontrushchallenge, #taurusseason, #carnaval2020, #yuuki40"
+  - username: "rrbarcellos"
     fullname: >-
-      Isabela Domingues
+      Roberto Barcellos
     location: "Brazil"
-    followers: 7426
-    engagement: 572
-    commentsToLikes: 0.025902
-    id: ck5cjlxmxv0230i1166f9s0e2
+    followers: 88261
+    engagement: 105
+    commentsToLikes: 0.027398
+    id: ck0u1znszycph0i19stfp4fmc
     verified: false
-    hashtags: "#inked, #vocation, #couple, #blondehair"
-  - username: "matheusrochacantor"
+    hashtags: "#fire, #tomahawk, #livefuegos, #confrariadacarne"
+  - username: "roemifotografia"
     fullname: >-
-      MATHEUS ROCHA
+      Do simples ao conceitual.
     location: "Brazil"
-    followers: 45583
-    engagement: 160
-    commentsToLikes: 0.041356
-    id: ck5q92rwd946i0i11hzs3o9ym
+    followers: 16691
+    engagement: 366
+    commentsToLikes: 0.303921
+    id: ck15tantrh5pd0i19nb2nv3wi
     verified: false
-    hashtags: "#republicpub, #rockband, #live, #evento"
-  - username: "caroltozaki"
+    hashtags: "#amora, #fotoblog, #inspiration, #blackendwhite"
+  - username: "isapinheiro_sp"
     fullname: >-
-      C A R O L I N E  T O Z A K I
+      Isabelle Pinheiro
     location: "Brazil"
-    followers: 25817
-    engagement: 160
-    commentsToLikes: 0.039509
-    id: ck5q9jiypbfd70i110jtb40l8
+    followers: 14540
+    engagement: 512
+    commentsToLikes: 0.219091
+    id: ck1383wwvedp00i19lx0cf94g
+    verified: false
+    hashtags: "#segundafeira, #mundomiss, #tiktokbrasil, #lifestylemodel"
+  - username: "rybaremily_"
+    fullname: >-
+      Emily Rybar
+    location: "Brazil"
+    followers: 70948
+    engagement: 111
+    commentsToLikes: 0.063798
+    id: ck6tl1jcc5st30j71s9g2rfbh
+    verified: false
+    hashtags: "#bolo, #instafood, #captureyourbest, #love"
+  - username: "paulaamorimbarbosa"
+    fullname: >-
+      Paula Carolina
+    location: "Brazil"
+    followers: 3135215
+    engagement: 219
+    commentsToLikes: 0.018073
+    id: ck0tu2ihs5ck40i19tmahmqx0
     verified: true
-    hashtags: "#moda, #cacheado, #cabelocacheados, #curlyhair"
-  - username: "jreisjunior"
+    hashtags: "#night, #comidaboa, #bday, #dostorieprofeed"
+  - username: "nicolifalanque"
     fullname: >-
-      Júnior
+      Nicoli Falanque
     location: "Brazil"
-    followers: 75090
-    engagement: 208
-    commentsToLikes: 0.155890
-    id: ck6udhltzl5r30j7167i08j2y
+    followers: 319734
+    engagement: 254
+    commentsToLikes: 0.021433
+    id: ck8t7rc83hqfm0j78zqbuzdk2
     verified: false
-    hashtags: "#oculosdesol, #chegadepiriri, #bulldogfrances, #compaix"
-  - username: "docemanjericao"
+    hashtags: "#happy, #gata, #divertido, #masamorofficial"
+  - username: "tathipiancastelli"
     fullname: >-
-      angelicabugiato
+      Tathi Piancastelli
     location: "Brazil"
-    followers: 50700
-    engagement: 207
-    commentsToLikes: 0.081993
-    id: ck8t5oo8japuv0j78xgg988bs
+    followers: 24591
+    engagement: 162
+    commentsToLikes: 0.118685
+    id: ckaos9vs6qrnc0i78xaqwkxb1
     verified: false
-    hashtags: "#chef, #culinaria, #food, #pornfoof"
-  - username: "apto.1805"
+    hashtags: "#pregui, #primevideo, #globoplay, #cookiefit"
+  - username: "fernando.teixeira_"
     fullname: >-
-      • apto 1805 •
+      Fernando Teixeira
     location: "Brazil"
-    followers: 29741
-    engagement: 201
-    commentsToLikes: 0.172255
-    id: ck15q0dlu0hs10i19qcm06dhf
+    followers: 10571
+    engagement: 812
+    commentsToLikes: 0.028927
+    id: ck9weuw4oly870j78niapvq60
     verified: false
-    hashtags: "#naturelovers, #pinterest, #easterdecor, #cafedatarde"
-  - username: "marolacomcarambola"
-    fullname: >-
-      Amanda e Eloah
-    location: "Brazil"
-    followers: 32233
-    engagement: 118
-    commentsToLikes: 0.155719
-    id: ck6u8wes3u3f80j71cwjy4e2i
-    verified: false
-    hashtags: "#picolecaseiro, #bolomarmore, #turismosp, #sempred"
-  - username: "receitas_boa"
-    fullname: >-
-      Receitas
-    location: "Brazil"
-    followers: 350807
-    engagement: 87
-    commentsToLikes: 0.078469
-    id: ck13c67koyta50i19q2kwecov
-    verified: false
-    hashtags: "#bolo, #publi, #uva, #prestigio"
-  - username: "carloslaender"
-    fullname: >-
-      Carlos Laender
-    location: "Brazil"
-    followers: 16490
-    engagement: 420
-    commentsToLikes: 0.026743
-    id: ck5ckaflgwh0t0i11suq62nm1
-    verified: false
-    hashtags: "#lagunasescondidas, #atacamadesert, #quarentena, #vulcaolicancabur"
+    hashtags: "#boystyle, #look, #followme, #food"
 ---

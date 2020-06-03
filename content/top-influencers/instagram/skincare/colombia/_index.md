@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Colombia In 2020
 description: >-
-  Find top skincare Instagram influencers in Colombia in 2020. Most popular hashtags: #skincare #colombia #makeup #aesthetic.
+  Find top skincare Instagram influencers in Colombia in 2020. Most popular hashtags: #skincare #makeup #smokeyeye #blue.
 platform: Instagram
 profiles:
   - username: "folliedolliebeaute"
     fullname: >-
-      #FollieDollieTips 🌿
+      #FollieDollieTips 🌿 كارلا
     location: "Colombia"
-    followers: 53284
-    engagement: 895
-    commentsToLikes: 0.122599
+    followers: 62727
+    engagement: 1175
+    commentsToLikes: 0.204695
     id: ck15qy8xd58i10i199uk0b5pn
     verified: false
-    hashtags: "#folliedollietips, #sundaywisdom, #nofilter, #panama"
+    hashtags: "#wedontknowher, #abhxamrezy, #follielivexmacpanama, #makeup"
+  - username: "naty0424"
+    fullname: >-
+      NATY
+    location: "Colombia"
+    followers: 100245
+    engagement: 159
+    commentsToLikes: 0.032060
+    id: ck55njf2c6c2i0i119il2yc9p
+    verified: false
+    hashtags: "#tiktok, #regalamelanoche, #princesachallenge, #covi"
   - username: "chdermatologia"
     fullname: >-
       CLAUDIA HERNÁNDEZ
     location: "Colombia"
-    followers: 71707
-    engagement: 163
-    commentsToLikes: 0.023860
+    followers: 74191
+    engagement: 223
+    commentsToLikes: 0.017538
     id: ck0w71ryubc2d0i19xvjyd5io
     verified: false
-    hashtags: "#makeup, #retinoids, #coronavirus, #coronavirusalert"
+    hashtags: "#acnetreatment, #usesunscreen, #pesas, #liderazgo"
+  - username: "laupantoja"
+    fullname: >-
+      Laura Pantoja | Makeup & Hair
+    location: "Colombia"
+    followers: 33261
+    engagement: 184
+    commentsToLikes: 0.034121
+    id: ck13c5vlcyrim0i190ndyqzfl
+    verified: false
+    hashtags: "#beautyinsider, #makeupbride, #backstage, #smokeye"
   - username: "akasa.skincare"
     fullname: >-
-      María Valeria - Blogger
+      María Valeria-Akasa
     location: "Colombia"
-    followers: 13401
-    engagement: 421
-    commentsToLikes: 0.049763
+    followers: 18313
+    engagement: 1568
+    commentsToLikes: 1.384357
     id: ck5qad0cvfr7d0i110kzww7ch
     verified: false
-    hashtags: "#skincareproducts, #tratamientosfaciales, #skincarereview, #skincareroutine"
+    hashtags: "#cuidadodepiel, #olehenriksen, #quarantinemood, #beauyblog"
   - username: "fqdermato"
     fullname: >-
       FAY QUIROZ CHARRIS
     location: "Colombia"
-    followers: 60860
-    engagement: 247
-    commentsToLikes: 0.043920
+    followers: 63733
+    engagement: 231
+    commentsToLikes: 0.127293
     id: ck135dci50vzv0i194y46ooiw
     verified: false
-    hashtags: "#winningteam, #dermatologica, #womensday, #colombia"
-  - username: "fitnessbyjanice"
+    hashtags: "#maccosmetics, #genove, #cuarentena, #belleza"
+  - username: "caromejiaaraujo"
     fullname: >-
-      Janice Betancourt
+      Carolina Mejía Araújo
     location: "Colombia"
-    followers: 89286
-    engagement: 615
-    commentsToLikes: 0.048905
-    id: ck6tvbpwelbdg0j71dzv7ptjr
+    followers: 40573
+    engagement: 630
+    commentsToLikes: 0.044375
+    id: ck5hj6hllg3cw0i118da5szy1
     verified: false
-    hashtags: "#swipeup, #timetorelax, #fitnesslifestyle, #celsiuslivefit"
-  - username: "pauenboga"
+    hashtags: "#chessboard, #pineapple, #cocktail, #pondsencasa"
+  - username: "catart.bycatu"
     fullname: >-
-      M a r í a P a u l a 🌻
+      • C a t u   M o r a •
     location: "Colombia"
-    followers: 12008
-    engagement: 732
-    commentsToLikes: 0.070184
-    id: ck6tuwarmisby0j71ulmausm1
+    followers: 6506
+    engagement: 796
+    commentsToLikes: 0.435711
+    id: ck5ztwkkp19290i144vctu9ak
     verified: false
-    hashtags: "#skincareproducts, #makeupclass, #girl, #ootdfashion"
-  - username: "_nekita_"
+    hashtags: "#graphiceyeliner, #disney, #cutelips, #haircare"
+  - username: "mapss.co"
     fullname: >-
-      𝕹𝖊𝖐𝖎𝖙𝖆 ƎA
+      Maps
     location: "Colombia"
-    followers: 7954
-    engagement: 676
-    commentsToLikes: 0.106359
-    id: ck55m09pb2w3f0i11ywg17up9
+    followers: 32200
+    engagement: 1063
+    commentsToLikes: 0.022141
+    id: ck8t9ad9nne0n0j78mwx4z2mc
     verified: false
-    hashtags: "#100daysofmakeupchallenge, #valentinesday, #sakuracardcaptor, #instamakeup"
-  - username: "manumontoz"
+    hashtags: "#haloeyeshadow, #neon, #instagood, #makeuptime"
+  - username: "saracalderonmakeup"
     fullname: >-
-      MANU MONTOYA🦋
+      Maquillaje Cartagena
     location: "Colombia"
-    followers: 436880
-    engagement: 185
-    commentsToLikes: 0.029507
-    id: ck5zutgbp30cx0i14hmrkznmq
+    followers: 5382
+    engagement: 847
+    commentsToLikes: 0.256679
+    id: ckaoydrcxh39n0i78g1yu92pf
     verified: false
-    hashtags: "#abh, #instagirls, #makeupmoodboards, #lipicing"
-  - username: "karomakeup13"
-    fullname: >-
-      Carolina Arias
-    location: "Colombia"
-    followers: 37245
-    engagement: 213
-    commentsToLikes: 0.083956
-    id: ck0vxhyamyzcu0i193iw9yy2g
-    verified: false
-    hashtags: "#cuidadofacial, #rutinafacial, #mujeres, #look"
-  - username: "lauraveloza_"
-    fullname: >-
-      Laura Veloza ♡
-    location: "Colombia"
-    followers: 11658
-    engagement: 518
-    commentsToLikes: 0.089557
-    id: ck6u3hh42xt4m0j71jiup90e9
-    verified: false
-    hashtags: "#kawaiimakeup, #sunglasses, #softmakeup, #alternativegoth"
+    hashtags: "#smokeyeye, #ojosahumados, #pink, #brushchallenge"
 ---

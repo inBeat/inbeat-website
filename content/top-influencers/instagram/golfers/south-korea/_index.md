@@ -1,107 +1,107 @@
 ---
 title: Top 10 Golfers Instagram Influencers In South Korea In 2020
 description: >-
-  Find top golfers Instagram influencers in South Korea in 2020. Most popular hashtags: #golf #golffashion #golfswing #golflessons.
+  Find top golfers Instagram influencers in South Korea in 2020. Most popular hashtags: #lpga #golf #golfwear #happiness.
 platform: Instagram
 profiles:
   - username: "hyang2golf"
     fullname: >-
       이미향 Mi Hyang Lee 🏌️‍♀️ 가온누리
     location: "South Korea"
-    followers: 12819
-    engagement: 752
-    commentsToLikes: 0.036999
+    followers: 13060
+    engagement: 747
+    commentsToLikes: 0.035924
     id: ck5c4llgd1ln00i11wzmk5g7z
     verified: true
-    hashtags: "#15, #lasttournamentoftheyear, #lpga, #eat4earth"
-  - username: "heeyounglpga"
+    hashtags: "#15, #swingingskirts, #untiltomorrow, #stayhome"
+  - username: "choi_hosung"
     fullname: >-
-      Heeyoung(HY)Park 박희영
+      최호성
     location: "South Korea"
-    followers: 17513
-    engagement: 413
-    commentsToLikes: 0.044658
-    id: ck6ucbykwep6v0j7106d4gmwp
-    verified: true
-    hashtags: "#timetobeyourself, #vicopen, #lpgatour, #jessicagomes"
-  - username: "kyohee_pro"
-    fullname: >-
-      박교희
-    location: "South Korea"
-    followers: 46194
-    engagement: 393
-    commentsToLikes: 0.025863
-    id: ck0w3kqebtwj40i19vy5m6ff1
+    followers: 26098
+    engagement: 283
+    commentsToLikes: 0.025948
+    id: ckap2lrfwze4v0i789g7r50ce
     verified: false
-    hashtags: "#sports, #sportlife, #sportsgirl, #korea"
-  - username: "jin_starrr"
+    hashtags: "#happy, #flowers, #coffee, #bigsize"
+  - username: "hyom1215"
     fullname: >-
-      이수진
+      정효민 Hyomin Jung
     location: "South Korea"
-    followers: 36896
-    engagement: 306
-    commentsToLikes: 0.036009
-    id: ck14gzow17thx0i19lcuisciy
+    followers: 24039
+    engagement: 433
+    commentsToLikes: 0.010745
+    id: ckaoyvblyj8xl0i78edkljnog
     verified: false
-    hashtags: "#hookorslice, #gv80, #genesis, #genesisgv80"
-  - username: "jjua._.ibeauty"
-    fullname: >-
-      아이쥬아ღ
-    location: "South Korea"
-    followers: 28890
-    engagement: 246
-    commentsToLikes: 0.047656
-    id: ck6uidakgeeuh0j71p43y695e
-    verified: false
-    hashtags: "#hbd, #genesisgv80, #gv80, #footjoygolf"
-  - username: "jineee_1"
-    fullname: >-
-      박진이 KLPGA_프로골퍼⛳️
-    location: "South Korea"
-    followers: 24775
-    engagement: 348
-    commentsToLikes: 0.024083
-    id: ck5c4lsyt1m3k0i118kfawtby
-    verified: false
-    hashtags: "#adidasgolf, #pinggolfwear, #sbs, #pinggolf"
+    hashtags: "#lecoqgolf, #rtx4"
   - username: "her8105"
     fullname: >-
       허은지  eun.ji.Her
     location: "South Korea"
-    followers: 56015
-    engagement: 196
-    commentsToLikes: 0.021211
+    followers: 58991
+    engagement: 249
+    commentsToLikes: 0.019127
     id: ck8t7i5tigw700j788hl62rnk
     verified: false
-    hashtags: "#golfswag, #goodmorning, #golflife, #instagolf"
-  - username: "imjidong"
-    fullname: >-
-      임선수♡
-    location: "South Korea"
-    followers: 43759
-    engagement: 230
-    commentsToLikes: 0.016608
-    id: ck8t8znqymeyj0j78cbxmbsf8
-    verified: false
-    hashtags: "#vaiodex, #selmo, #epon, #golfswing"
-  - username: "kimi_goon"
-    fullname: >-
-      기미군 KPGA Pro Golfer
-    location: "South Korea"
-    followers: 8269
-    engagement: 452
-    commentsToLikes: 0.022406
-    id: ck6uid9eeeemp0j71kkr51jok
-    verified: false
-    hashtags: "#golf, #golfstagram, #pinggolf, #volvik"
+    hashtags: "#instafit, #golffashion, #dailyfashion, #golflife"
   - username: "a_yeonkim"
     fullname: >-
       김아이언
     location: "South Korea"
-    followers: 8057
+    followers: 10352
     engagement: 509
-    commentsToLikes: 0.020579
+    commentsToLikes: 0.016283
     id: ck6uid8wdeekj0j715v0amsyb
     verified: false
-    hashtags: "#golffashion, #youtube, #yellow, #klga"
+    hashtags: "#golfdigest, #ngolf, #baldogolf, #fujikura"
+  - username: "seiyoungkim_lpga"
+    fullname: >-
+      lpga / golf / progolfer ⛳️
+    location: "South Korea"
+    followers: 5316
+    engagement: 1346
+    commentsToLikes: 0.061750
+    id: ck5bznjr2rhts0i11nwadhpog
+    verified: false
+    hashtags: "#golfstargram, #ltns, #happiness, #lpga"
+  - username: "kamine.c"
+    fullname: >-
+      까미네
+    location: "South Korea"
+    followers: 24273
+    engagement: 167
+    commentsToLikes: 0.089202
+    id: ck6uid9wkeeru0j718xktnsbf
+    verified: false
+    hashtags: "#miniclubmanjcw, #morning, #porsche, #992carrera4s"
+  - username: "1soyeonryu"
+    fullname: >-
+      유소연,골퍼 /Soyeon Ryu, Golfer
+    location: "South Korea"
+    followers: 62813
+    engagement: 388
+    commentsToLikes: 0.023404
+    id: ck5c4ln0x1lr40i111jqr3zxc
+    verified: true
+    hashtags: "#inbeepark, #ballet, #lydia, #homechallenge"
+  - username: "solgolf"
+    fullname: >-
+      마소라 Klpga Pro Golfer
+    location: "South Korea"
+    followers: 62852
+    engagement: 286
+    commentsToLikes: 0.013167
+    id: ck6uid7b7ee9l0j71av817n40
+    verified: false
+    hashtags: "#zstar, #wideone, #golf, #z585"
+  - username: "kimi_goon"
+    fullname: >-
+      기미군 KPGA Pro Golfer
+    location: "South Korea"
+    followers: 8557
+    engagement: 390
+    commentsToLikes: 0.016304
+    id: ck6uid9eeeemp0j71kkr51jok
+    verified: false
+    hashtags: "#gle2, #essoco, #g410, #selfiegolf"
 ---

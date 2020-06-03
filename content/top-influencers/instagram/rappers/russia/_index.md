@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Russia In 2020
 description: >-
-  Find top rappers Instagram influencers in Russia in 2020. Most popular hashtags: #canon5d #rap #canon5dmark4 #.
+  Find top rappers Instagram influencers in Russia in 2020. Most popular hashtags: #stayhome #rapper #music #moscow.
 platform: Instagram
 profiles:
   - username: "lina_markova_"
     fullname: >-
       Мона Лина
     location: "Russia"
-    followers: 42027
-    engagement: 136
-    commentsToLikes: 0.055013
+    followers: 41649
+    engagement: 146
+    commentsToLikes: 0.059191
     id: ck6tipem215zc0j71i6glmkee
     verified: false
-    hashtags: "#keratinminsk, #model, #woweffect, #instabelarus"
+    hashtags: "#familyfirst, #friendsforever, #tommyhilfiger"
   - username: "mosya1"
     fullname: >-
       Mosя
     location: "Russia"
-    followers: 4986
-    engagement: 590
-    commentsToLikes: 0.056553
+    followers: 4958
+    engagement: 727
+    commentsToLikes: 0.079128
     id: ck5pylqvnwmro0i11z2nw010s
     verified: false
-    hashtags: "#friday13th, #redmonday, #stayhome"
-  - username: "there.go.coley"
+    hashtags: "#stayhome, #fliptheswitch, #fliptheswitchchallenge, #pulpfiction"
+  - username: "shil__off"
     fullname: >-
-      Bay Area Influencer 😌
+      𝓓𝓶𝓲𝓽𝓻𝓲𝔂 𝓢𝓱𝓲𝓵𝓸𝓿
     location: "Russia"
-    followers: 22406
-    engagement: 1023
-    commentsToLikes: 0.074279
-    id: ck5zpp7bot2ti0i14wtwpabf9
+    followers: 206188
+    engagement: 289
+    commentsToLikes: 0.120130
+    id: ck5zw7tt75n4i0i14xn7h2dwq
     verified: false
     hashtags: ""
-  - username: "binetsenn"
+  - username: "og_yushin"
     fullname: >-
-      БИНЕТ СЕНН 🍫 BINETKA SENN
+      FREDDY RED
     location: "Russia"
-    followers: 889643
-    engagement: 168
-    commentsToLikes: 0.004568
-    id: ck1398gu2k2cx0i19cln4jz56
+    followers: 10388
+    engagement: 1729
+    commentsToLikes: 0.020814
+    id: ckap7a8xvj7eq0i787gpdhzt9
     verified: false
-    hashtags: "#moscow, #ladycollection, #behealthy, #dubaivibe"
-  - username: "mash_milash"
-    fullname: >-
-      MILASH
-    location: "Russia"
-    followers: 350610
-    engagement: 725
-    commentsToLikes: 0.009702
-    id: ck5zupuco2tq20i14wsre8l4z
-    verified: false
-    hashtags: ""
-  - username: "rap_talant"
-    fullname: >-
-      Рэп портал №1
-    location: "Russia"
-    followers: 1260343
-    engagement: 146
-    commentsToLikes: 0.015244
-    id: ck6udk6n3lkbx0j71q3de7ia5
-    verified: false
-    hashtags: ""
+    hashtags: "#nemiga, #music, #hiphop, #newyork"
   - username: "yaesmsam"
     fullname: >-
       ясэм
     location: "Russia"
-    followers: 30977
-    engagement: 842
-    commentsToLikes: 0.017077
+    followers: 30463
+    engagement: 886
+    commentsToLikes: 0.013998
     id: ck6tujvccgr770j71m5khzjgo
     verified: false
-    hashtags: "#xipcode, #awrittentestimony, #afterhours, #stayhome"
+    hashtags: "#small, #mothersday, #malcolmx, #thelastdance"
+  - username: "soprano_man"
+    fullname: >-
+      Sopranoman
+    location: "Russia"
+    followers: 63616
+    engagement: 160
+    commentsToLikes: 0.022967
+    id: ck5hr1dpbu3fv0i11kmwvhy64
+    verified: false
+    hashtags: "#savage, #kickchallenge, #fights, #humor"
   - username: "dinomc47"
     fullname: >-
-      Сомали В Снегу
+      Dino MC47
     location: "Russia"
-    followers: 92828
-    engagement: 112
-    commentsToLikes: 0.025596
+    followers: 97153
+    engagement: 95
+    commentsToLikes: 0.026248
     id: ck5q49p0qoank0i11qo0rcfus
     verified: false
-    hashtags: "#bobmarley75, #covid19"
-  - username: "korzov"
+    hashtags: "#covid19, #5g, #covid"
+  - username: "diana_kuksa"
     fullname: >-
-      KORZOV PHOTOGRAPHER
+      diana kuksa
     location: "Russia"
-    followers: 45688
-    engagement: 843
-    commentsToLikes: 0.025824
-    id: ck0tyukino46t0i19722bxvuk
+    followers: 45426
+    engagement: 170
+    commentsToLikes: 0.029983
+    id: ckap81bf6me910i78w1o2j6qf
     verified: false
-    hashtags: "#spb, #bnwphoto, #russia, #fredrostarr"
-  - username: "pozitif07"
+    hashtags: "#fastsketch, #music, #paperdolls, #childrensbook"
+  - username: "julia.sekerzitski"
     fullname: >-
-      Мухамед Пшихачев
+      Julia Sekerzitski
     location: "Russia"
-    followers: 7810
-    engagement: 717
-    commentsToLikes: 0.101130
-    id: ck6u1q7bzn8cn0j71r58g3uxw
+    followers: 23683
+    engagement: 337
+    commentsToLikes: 0.048311
+    id: ck0w43rquwnqk0i19yntgv9ag
     verified: false
-    hashtags: "#vlog, #blog, #weddingorganizer, #rap"
+    hashtags: "#music, #instagram, #amazing, #oneloveonelove"
+  - username: "suptelya_roman"
+    fullname: >-
+      ROMAN SUPTELYA
+    location: "Russia"
+    followers: 13705
+    engagement: 863
+    commentsToLikes: 0.020734
+    id: ck5hgn9j63pj70i11camyrvbc
+    verified: false
+    hashtags: "#happybirthday, #blackstar, #fotosession, #good"
 ---

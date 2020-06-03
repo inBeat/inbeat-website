@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Madrid In 2020
 description: >-
-  Find top beauty Instagram influencers in Madrid in 2020. Most popular hashtags: #madrid #love #beauty #fashion.
+  Find top beauty Instagram influencers in Madrid in 2020. Most popular hashtags: #beauty #madrid #yomequedoencasa #spain.
 platform: Instagram
 profiles:
-  - username: "andrebeauty9"
+  - username: "las.mosqueteras.siempre"
     fullname: >-
-      Andre B Oficial
+      las.mosqueteras.siempre
     location: "Spain"
-    followers: 33608
-    engagement: 903
-    commentsToLikes: 0.025387
-    id: ck15t6wjvgnb90i199q1tea4c
+    followers: 4225
+    engagement: 2348
+    commentsToLikes: 0.348687
+    id: ck6u5jh1o9zer0j71upru8qbq
     verified: false
-    hashtags: "#competencia, #despedida, #canal, #love"
-  - username: "cintiaroldan_11"
+    hashtags: "#petsofinstagram, #chuchigram, #antiguedades, #animallovers"
+  - username: "gabrielurenacellist"
     fullname: >-
-      Cintya Roldán
+      Gabriel Ureña
     location: "Spain"
-    followers: 60551
-    engagement: 882
-    commentsToLikes: 0.010409
-    id: ck15ul551nptd0i19dpcpyg9v
+    followers: 11500
+    engagement: 1276
+    commentsToLikes: 0.022929
+    id: ck6tv9m5lkyln0j71cvh833z0
     verified: false
-    hashtags: "#katchmeuk, #katchme"
-  - username: "inmakno"
+    hashtags: "#cover, #newalbum, #pianist, #thankyou"
+  - username: "saraialma"
     fullname: >-
-      Inma Cano
+      Saraialma
     location: "Spain"
-    followers: 13098
-    engagement: 684
-    commentsToLikes: 0.051051
-    id: ck55mt6ri4qfk0i11tk93ecgb
+    followers: 53653
+    engagement: 116
+    commentsToLikes: 0.062147
+    id: ck6u5lw7radw00j71ijncip19
     verified: false
-    hashtags: "#magnetics, #chaquetas, #camisasmujer, #vestido"
-  - username: "soydianafdez"
+    hashtags: "#quotes, #armststtoo, #regalo, #circodelsol"
+  - username: "rakbcn28"
+    fullname: >-
+      Rakel Lopez Sanchez
+    location: "Spain"
+    followers: 96040
+    engagement: 155
+    commentsToLikes: 0.036506
+    id: ckap1u757w6250i7835sd5kp7
+    verified: false
+    hashtags: "#makeup, #enjoylife, #ibiza, #haul"
+  - username: "albertodugarteinstitute"
+    fullname: >-
+      ALBERTO DUGARTE INSTITUTE
+    location: "Spain"
+    followers: 36916
+    engagement: 74
+    commentsToLikes: 0.025393
+    id: ck13c9hltz9260i19hjnbsz34
+    verified: false
+    hashtags: "#porcelana, #especiales, #teamdugarte, #coronavirus"
+  - username: "bydianafdez"
     fullname: >-
       D I A N A  F E R N Á N D E Z
     location: "Spain"
-    followers: 3853
-    engagement: 1422
-    commentsToLikes: 0.057469
+    followers: 3783
+    engagement: 1452
+    commentsToLikes: 0.057206
     id: ck5znok0zouvr0i14zdntjf5x
     verified: false
-    hashtags: "#girl, #wedding, #toledo, #verano"
-  - username: "caterinacrespo"
+    hashtags: "#swimsuit, #luxury, #audir8, #cueva"
+  - username: "aratrendystyle"
     fullname: >-
-      Caterina Crespo
+      Ara ✨ 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 𝖢𝗋𝖾𝖺𝗍𝗈𝗋
     location: "Spain"
-    followers: 44331
-    engagement: 411
-    commentsToLikes: 0.037004
-    id: ck6tse2vk48lp0j71bqn8fc0w
+    followers: 4218
+    engagement: 1230
+    commentsToLikes: 0.079699
+    id: ckap09bo8pbhx0i78jhkkadje
     verified: false
-    hashtags: "#winter, #skingoals, #fallas, #stopcoronav"
-  - username: "torrebe"
+    hashtags: "#looks, #stradivarius, #streetstyle, #viernes"
+  - username: "juangimenezphoto"
     fullname: >-
-      Adriana Torrebejano
+      【﻿Ｊｕａｎ  Ｇｉｍｅｎｅｚ】
     location: "Spain"
-    followers: 174850
-    engagement: 522
-    commentsToLikes: 0.014114
-    id: ck6ucrr6ih6pw0j717so3wujo
-    verified: true
-    hashtags: "#8demarzo, #cuarentena, #stop, #confinamiento"
-  - username: "soniamarnez"
-    fullname: >-
-      Sonia Martínez
-    location: "Spain"
-    followers: 41772
-    engagement: 298
-    commentsToLikes: 0.134839
-    id: ck55mkgzu45xl0i11gsygurfh
+    followers: 49132
+    engagement: 395
+    commentsToLikes: 0.018226
+    id: ck5zyioga9ybz0i14fjh04ibv
     verified: false
-    hashtags: "#nochesderadio, #happynewyear, #paris, #wanderlust"
-  - username: "rober_aja"
+    hashtags: "#coloresvivos, #santapola, #light, #colores"
+  - username: "patri_fitmodel"
     fullname: >-
-      𝐑𝐎𝐁𝐄𝐑 𝐀𝐉𝐀
+      Patri Fit Model
     location: "Spain"
-    followers: 2478
-    engagement: 1171
-    commentsToLikes: 0.102179
-    id: ck8t9ey4mnub90j785qb5qb7d
+    followers: 17664
+    engagement: 319
+    commentsToLikes: 0.015157
+    id: ck5zx80947ih90i14mbheeaed
     verified: false
-    hashtags: "#landscapephotography, #winter, #nigth, #arenasdeigu"
-  - username: "maikshine"
+    hashtags: "#gymnastics, #exceedyourself, #crossedstore, #allfreeweight"
+  - username: "anushkatuska"
     fullname: >-
-      Mai | MAIKSHINE blog |
+      ANA SÁNCHEZ GALINDO
     location: "Spain"
-    followers: 14030
-    engagement: 591
-    commentsToLikes: 0.099632
-    id: ck8tcvwbv0vy40j78xbmzckds
+    followers: 89981
+    engagement: 164
+    commentsToLikes: 0.054224
+    id: ck6tvayyel6rq0j71gl33pxcn
     verified: false
-    hashtags: "#myairbubble, #atardecer, #beautygram, #pelazo"
-  - username: "pilarsarrion"
-    fullname: >-
-      Pilar Sarrión
-    location: "Spain"
-    followers: 12359
-    engagement: 615
-    commentsToLikes: 0.086058
-    id: ck5cc4908goyr0i11l5ru0zpq
-    verified: false
-    hashtags: "#selfie, #newyorkcity, #travel, #andalucia"
+    hashtags: "#porto, #hornazo, #instasummer, #instapet"
 ---

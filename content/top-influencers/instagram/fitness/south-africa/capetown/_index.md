@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Capetown In 2020
 description: >-
-  Find top fitness Instagram influencers in Capetown in 2020. Most popular hashtags: #southafrica #capetown #love #travel.
+  Find top fitness Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #fitness #love #beach.
 platform: Instagram
 profiles:
+  - username: "biancevanzyl"
+    fullname: >-
+      B I A N C E
+    location: "South Africa"
+    followers: 6498
+    engagement: 900
+    commentsToLikes: 0.018421
+    id: ck5pwdpk0mcae0i11ig99gkl2
+    verified: false
+    hashtags: "#capetowngirls, #island, #love, #instatravel"
+  - username: "marcellebosman"
+    fullname: >-
+      Marcelle Bosman
+    location: "South Africa"
+    followers: 6629
+    engagement: 1855
+    commentsToLikes: 0.002315
+    id: ck6u39j6xwij20j71w1ba8dxr
+    verified: false
+    hashtags: "#heatwave, #family, #godfirst, #grandfather"
+  - username: "lilbratwp"
+    fullname: >-
+      ✖ Bags && Booty ✖
+    location: "South Africa"
+    followers: 19926
+    engagement: 746
+    commentsToLikes: 0.018131
+    id: ck5zilwxmfycl0i148jvzytmx
+    verified: false
+    hashtags: "#lockdownmood, #humpday, #myflawsaremypower, #fit"
+  - username: "helensongghys"
+    fullname: >-
+      Helen Song
+    location: "South Africa"
+    followers: 9511
+    engagement: 683
+    commentsToLikes: 0.018153
+    id: ck8t3tsyc4h1v0j78eq7uqs5n
+    verified: false
+    hashtags: "#happiness, #happyweekends, #spicyfood, #capetown"
+  - username: "lilyonthemove"
+    fullname: >-
+      Lily | Travel | Lifestyle
+    location: "South Africa"
+    followers: 2365
+    engagement: 2933
+    commentsToLikes: 0.119557
+    id: ck5hmf4r7lu4p0i11pahq0cw1
+    verified: false
+    hashtags: "#explorequebec, #epicshotz5k, #starscape, #networkbangers"
+  - username: "deetzblom"
+    fullname: >-
+      Dieter Blom
+    location: "South Africa"
+    followers: 9470
+    engagement: 839
+    commentsToLikes: 0.071197
+    id: ck6tuzqp4jctj0j71j1mp2ymb
+    verified: false
+    hashtags: "#capetown, #portraitcentral, #sunrise, #december"
+  - username: "alwynuys"
+    fullname: >-
+      Alwyn Uys
+    location: "South Africa"
+    followers: 13512
+    engagement: 648
+    commentsToLikes: 0.133659
+    id: ck6ue92jdpj2m0j71uc1bfje4
+    verified: false
+    hashtags: "#winning, #level4, #expectations, #happy"
+  - username: "fayros"
+    fullname: >-
+      F A Y R O S  J A F F E R فیروز
+    location: "South Africa"
+    followers: 7031
+    engagement: 594
+    commentsToLikes: 0.173834
+    id: ck0vw1zz2rque0i19ygyfjeo7
+    verified: false
+    hashtags: "#yoga, #white, #dejavu, #skincare"
+  - username: "brancodupreez7"
+    fullname: >-
+      Branco du Preez
+    location: "South Africa"
+    followers: 9034
+    engagement: 854
+    commentsToLikes: 0.016940
+    id: ck8sx85jtgh6z0j78j70z8mbr
+    verified: false
+    hashtags: "#goodbye2019, #covid19, #goodtimes, #twentyplenty"
   - username: "shaunchadsmit"
     fullname: >-
       Shaun Chad Smit
     location: "South Africa"
-    followers: 16308
-    engagement: 324
-    commentsToLikes: 0.063935
+    followers: 16240
+    engagement: 331
+    commentsToLikes: 0.068065
     id: ck6tmhkx07v1k0j71w5qoesuf
     verified: false
-    hashtags: "#jungle, #genesisdavila, #fashion, #model"
-  - username: "daniella_thibault"
-    fullname: >-
-      Daniella Zainette Thibault
-    location: "South Africa"
-    followers: 27883
-    engagement: 131
-    commentsToLikes: 0.175024
-    id: ck5zm4eyblvn20i149l5nh9oa
-    verified: false
-    hashtags: "#unitedwomansquad, #happiness, #tourist, #travel2020"
-  - username: "bloomingroseblog"
-    fullname: >-
-      Aminah Gallie
-    location: "South Africa"
-    followers: 42336
-    engagement: 19
-    commentsToLikes: 0.101214
-    id: ck136p5yx7ksg0i19ai5exdqp
-    verified: false
-    hashtags: "#huskypuppy, #streetwear, #summer, #muse"
-  - username: "marcbermanphotography"
-    fullname: >-
-      Marc Berman
-    location: "South Africa"
-    followers: 16132
-    engagement: 208
-    commentsToLikes: 0.041977
-    id: ck5cdtxbzjrsk0i114cjcvvst
-    verified: false
-    hashtags: "#beachcult, #motivation, #wedding, #brazil"
-  - username: "justvon09"
-    fullname: >-
-      Jovan du Plessis
-    location: "South Africa"
-    followers: 8222
-    engagement: 565
-    commentsToLikes: 0.111974
-    id: ck6trhztnz3pc0j717pumpd6d
-    verified: false
-    hashtags: "#hikingadventures, #longexposure, #picoftheday, #landscape"
-  - username: "jeffzimbris"
-    fullname: >-
-      J E F F  Z I M B R I S  🔹
-    location: "South Africa"
-    followers: 56771
-    engagement: 862
-    commentsToLikes: 0.042193
-    id: ck6tzqrxobaul0j71fftvyafa
-    verified: false
-    hashtags: "#legsday, #happy, #cliftonbeach, #doglover"
-  - username: "tracymcgregor"
-    fullname: >-
-      Tracy McGregor
-    location: "South Africa"
-    followers: 25876
-    engagement: 321
-    commentsToLikes: 0.100091
-    id: ck6ue97chpjuk0j71p6xoc0mx
-    verified: false
-    hashtags: "#bornthree, #houseboat, #22weekspregnant, #gym"
-  - username: "rochelle_vv"
-    fullname: >-
-      Rochelle van Vuuren
-    location: "South Africa"
-    followers: 19024
-    engagement: 791
-    commentsToLikes: 0.076655
-    id: ck5hhf70v7wkh0i11u0bw6tpu
-    verified: false
-    hashtags: "#woman, #happyskin, #kissthesky, #kisscloud"
-  - username: "zeenatkh_"
-    fullname: >-
-      Z e e n a t   K h a n
-    location: "South Africa"
-    followers: 7972
-    engagement: 1103
-    commentsToLikes: 0.254048
-    id: ck5zt80vuzwqc0i140ooagtz6
-    verified: false
-    hashtags: "#giveaway, #claires, #myclairespiercing, #blackandwhitechallenge"
-  - username: "marcbuckner"
-    fullname: >-
-      Marc Buckner
-    location: "South Africa"
-    followers: 72304
-    engagement: 435
-    commentsToLikes: 0.041790
-    id: ck5qeisvd0p580i11yvigwyqx
-    verified: true
-    hashtags: "#happy, #socialdistancing, #quotes, #blue"
+    hashtags: "#malemodel, #florida, #bts, #girl"
 ---

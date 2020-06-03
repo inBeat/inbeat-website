@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Finland In 2020
 description: >-
-  Find top skincare Instagram influencers in Finland in 2020. Most popular hashtags: #stayhome #skincare #tb #finland.
+  Find top skincare Instagram influencers in Finland in 2020. Most popular hashtags: #skincare #monday #ihonhoito #beauty.
 platform: Instagram
 profiles:
-  - username: "maijuriskala"
+  - username: "strictlystyle"
     fullname: >-
-      MAIJU RISKALA
+      Hanna Väyrynen
     location: "Finland"
-    followers: 8962
-    engagement: 1306
-    commentsToLikes: 0.021431
-    id: ck55k2jm4yazs0i11jci1ify8
+    followers: 29005
+    engagement: 428
+    commentsToLikes: 0.043613
+    id: ck5pz9rwnzwuk0i111xq7rcva
     verified: false
-    hashtags: "#kes, #foodin, #snack, #el"
-  - username: "rantaaho.alisa"
+    hashtags: "#genifique, #firstofmay, #balloondecor, #brunch"
+  - username: "bettyfvck"
     fullname: >-
-      Alisa Ranta-Aho
+      Betty Fvck
     location: "Finland"
-    followers: 3792
-    engagement: 1080
-    commentsToLikes: 0.138167
-    id: ck5hfm9yiy5fp0i11mem5n1pl
+    followers: 26928
+    engagement: 497
+    commentsToLikes: 0.086503
+    id: ck0ub8diwdyw30i19vnqv9h62
     verified: false
-    hashtags: "#bloggaaja, #parempimin, #uusimaa, #april"
+    hashtags: "#vougemagazine, #queenofdrags, #aphrodite, #dominatrix"
+  - username: "mindbodyhealth_mia"
+    fullname: >-
+      Mia
+    location: "Finland"
+    followers: 2398
+    engagement: 1857
+    commentsToLikes: 0.087057
+    id: ckaos1gg8pq6x0i78e3kteybb
+    verified: false
+    hashtags: "#inkedgirls, #shoulderworkout, #unikko, #workingwoman"
+  - username: "alinavoronkova_"
+    fullname: >-
+      ALINA VORONKOVA
+    location: "Finland"
+    followers: 34919
+    engagement: 853
+    commentsToLikes: 0.017265
+    id: ck135z4iu3y9r0i1951du2ppr
+    verified: false
+    hashtags: "#vapunviettoon, #rawmixblenders, #alina, #perlage"
   - username: "tuijapehkonen"
     fullname: >-
       Tuija Pehkonen
     location: "Finland"
-    followers: 37026
-    engagement: 514
-    commentsToLikes: 0.040357
+    followers: 39714
+    engagement: 718
+    commentsToLikes: 0.026767
     id: ck55miay340pu0i1145vffjes
     verified: false
-    hashtags: "#homesweethome, #happyskin, #kev, #skincare"
-  - username: "sarasieppi"
-    fullname: >-
-      Sara Sieppi
-    location: "Finland"
-    followers: 175503
-    engagement: 513
-    commentsToLikes: 0.006167
-    id: ck6uhi37b98rc0j71fdhxopl3
-    verified: false
-    hashtags: "#ootd, #benakd, #ginamyway, #mojitotime"
+    hashtags: "#superdefense, #hemmottelupulla, #visitfinland, #collaboration"
   - username: "pauliinamarja"
     fullname: >-
       𝘗𝘢𝘶𝘭𝘪𝘪𝘯𝘢 𝘔𝘢𝘵𝘵𝘪𝘭𝘢
     location: "Finland"
-    followers: 2655
-    engagement: 1381
-    commentsToLikes: 0.050801
+    followers: 2791
+    engagement: 1747
+    commentsToLikes: 0.054536
     id: ck5hfla36y0nm0i11ksro4jxh
     verified: false
-    hashtags: "#kohtaamisia, #certifiedcoffee, #uusipostaus, #pienyritt"
-  - username: "elisaviolinist"
+    hashtags: "#vastuullisuus, #treenivaatteet, #eettinenvalinta, #findyourstrength"
+  - username: "annimaaninka"
     fullname: >-
-      Elisa Järvelä
+      Anni Maaninka
     location: "Finland"
-    followers: 17703
-    engagement: 298
-    commentsToLikes: 0.026016
-    id: ck6u5bf6o8nmb0j71o94jmzzb
+    followers: 19850
+    engagement: 349
+    commentsToLikes: 0.025662
+    id: ck15qovbz3x8z0i190mx0bh4q
     verified: false
-    hashtags: "#womenartists, #soloartist, #sooloviulisti, #auringons"
+    hashtags: "#boxbyposti, #collaboration, #monday, #crueltyfree"
+  - username: "janinamakeup"
+    fullname: >-
+      JANINA
+    location: "Finland"
+    followers: 5082
+    engagement: 562
+    commentsToLikes: 0.060321
+    id: ck8syua9pm15x0j784cf7i7vc
+    verified: false
+    hashtags: "#summermakeup, #fashionpost, #fashiongram, #fashionlook"
   - username: "eeviteittinen"
     fullname: >-
       Eevi Teittinen
     location: "Finland"
-    followers: 116877
-    engagement: 240
-    commentsToLikes: 0.008978
+    followers: 116969
+    engagement: 266
+    commentsToLikes: 0.009180
     id: ck6ucs71wh8wh0j71tnymkalk
     verified: true
-    hashtags: "#deco, #samsunggalaxy, #whatreallymatters, #mornings"
-  - username: "tuulaslife"
-    fullname: >-
-      Tuula / Tuula's life
-    location: "Finland"
-    followers: 5497
-    engagement: 585
-    commentsToLikes: 0.064919
-    id: ck13a03b6nykf0i19nnzso8q7
-    verified: false
-    hashtags: "#ravintolapinella, #vauhdikasta, #parempin, #sisustus"
+    hashtags: "#stayhome, #homeoffice, #natural, #thisisme"
   - username: "lifelikevino"
     fullname: >-
       LIFE LIKE VINO
     location: "Finland"
-    followers: 49225
-    engagement: 120
-    commentsToLikes: 0.040957
+    followers: 48630
+    engagement: 115
+    commentsToLikes: 0.041330
     id: ck5c6ivq95j3w0i1134sclp7j
     verified: false
-    hashtags: "#womenwhosupportwomen, #foodstagram, #scandiinspo, #skandimodernit"
-  - username: "jennipupulandia"
-    fullname: >-
-      Jenni Rotonen / Pupulandia
-    location: "Finland"
-    followers: 36082
-    engagement: 214
-    commentsToLikes: 0.006424
-    id: ck0tymigyn9tb0i19aergjkdx
-    verified: false
-    hashtags: "#morningtea, #acoskincare, #nopants, #qualitytime"
+    hashtags: "#newyear2020, #skincare, #kotikokki, #mystyle"
 ---

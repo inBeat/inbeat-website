@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In India In 2020
 description: >-
-  Find top home decor Instagram influencers in India in 2020. Most popular hashtags: #stayhome #instagood #quarantinelife #love.
+  Find top home decor Instagram influencers in India in 2020. Most popular hashtags: #homedecor #quarantinelife #stayhome #stayathome.
 platform: Instagram
 profiles:
-  - username: "designdecoranddisha"
-    fullname: >-
-      Disha Mishra Dubey
-    location: "India"
-    followers: 46650
-    engagement: 192
-    commentsToLikes: 0.032428
-    id: ck8t3pabj3z5l0j78ahmk8x6g
-    verified: false
-    hashtags: "#indiandecorblogger, #dotart, #green, #homebound"
   - username: "ddcamp170"
     fullname: >-
       DeeDee Campbell✨Home Decor✨
     location: "India"
-    followers: 6848
-    engagement: 580
-    commentsToLikes: 0.335509
+    followers: 7366
+    engagement: 746
+    commentsToLikes: 0.238610
     id: ck5c4w4ji28ja0i118vqvmhc9
     verified: false
-    hashtags: "#raedunndisplay, #ourthriftstoredecor, #beautifuldecorstyles61, #mydiyfarmhouse"
+    hashtags: "#flowerseeds, #handtowels, #tinvase, #tincollection"
+  - username: "designdecoranddisha"
+    fullname: >-
+      Disha Mishra Dubey
+    location: "India"
+    followers: 48712
+    engagement: 205
+    commentsToLikes: 0.033818
+    id: ck8t3pabj3z5l0j78ahmk8x6g
+    verified: false
+    hashtags: "#entrywaydecor, #mask, #diyblogger, #indoorplants"
   - username: "saffrontrail"
     fullname: >-
       Nandita / saffrontrail.com
     location: "India"
-    followers: 57797
-    engagement: 91
-    commentsToLikes: 0.039821
+    followers: 58991
+    engagement: 128
+    commentsToLikes: 0.036185
     id: ck0w1ho57jedu0i19tjb0hg6i
     verified: true
-    hashtags: "#juicermixergrinder, #proresultsathome, #stl21, #lockdowncooking"
+    hashtags: "#stcooks, #jaagore, #saffrontrail, #homecooking"
   - username: "avanifashionbeautydecor"
     fullname: >-
       Avani (FASHION BEAUTY DECOR)
     location: "India"
-    followers: 164171
-    engagement: 68
-    commentsToLikes: 0.062819
+    followers: 162124
+    engagement: 116
+    commentsToLikes: 0.019582
     id: ck5py6blluizu0i11gs4cidm0
     verified: false
-    hashtags: "#quarantineandchill, #noschool, #targetfinds, #sggmarch20"
-  - username: "thecurvepride"
+    hashtags: "#fashionblogger, #bohochic, #luxurystyle, #kitsch"
+  - username: "gonerogue0"
     fullname: >-
-      Azmeen | Plus size Model.
+      ishita pandey
     location: "India"
-    followers: 30186
-    engagement: 693
-    commentsToLikes: 0.049583
-    id: ck1390l9yixsx0i19pxo1fozy
+    followers: 7976
+    engagement: 832
+    commentsToLikes: 0.120026
+    id: ck8t835pmixs10j78v6krq8sg
     verified: false
-    hashtags: "#giftingideas, #staythefuckhome, #fatgirl, #effyourbeautystandards"
-  - username: "moses_siya"
+    hashtags: "#ruffles, #traveldiaries, #reddress, #flowers"
+  - username: "cyril_cv_"
     fullname: >-
-      (MJS Official)Pilot, KTM biker
+      CYRIL🦋
     location: "India"
-    followers: 63025
-    engagement: 753
-    commentsToLikes: 0.041777
-    id: ck5hozvffqinr0i11n1tfrg5r
+    followers: 10233
+    engagement: 1240
+    commentsToLikes: 0.087218
+    id: ck15tzwpekqf40i19pumfxleo
     verified: false
-    hashtags: "#couplesgoals, #bethelight, #kodaikanal, #google"
-  - username: "rawalbhakti"
+    hashtags: "#pencildrawing, #godowncountry, #iphonography, #wall"
+  - username: "tannedtravelgirl"
     fullname: >-
-      BHAKTAAYYY🌸
+      NISHU | TRAVEL BLOGGER | INDIA
     location: "India"
-    followers: 144341
-    engagement: 2411
-    commentsToLikes: 0.011466
-    id: ck14jhzi7kfzt0i19c5c2b66g
+    followers: 16134
+    engagement: 926
+    commentsToLikes: 0.113876
+    id: ck5q260hgefr70i11ixocu366
     verified: false
-    hashtags: "#bhaktisquad, #golmaal, #temporarypost, #quarantinelife"
-  - username: "neeru_starlet"
+    hashtags: "#tamilnadu, #indiatravelgram, #kathakaliface, #shikara"
+  - username: "stunning_since_1998"
     fullname: >-
-      Neeru
+      💕👸Aishwarya Prabhu Gaonkar👰💕
     location: "India"
-    followers: 99914
-    engagement: 400
-    commentsToLikes: 0.030907
-    id: ck8td56zo1xbb0j78lahr9yqu
+    followers: 4202
+    engagement: 2830
+    commentsToLikes: 0.042113
+    id: ckapce6qf3gi90i78wvc8ydzd
     verified: false
-    hashtags: "#antiquesforsale, #fade, #style, #sheinofficial"
-  - username: "sameerwz"
+    hashtags: "#travel, #travelguide, #naturalbeauty, #travelislove"
+  - username: "walkwithmswalker"
     fullname: >-
-      S A M E E R  W A L I Z A D A
+      👑Dev Walker👑
     location: "India"
-    followers: 11050
-    engagement: 898
-    commentsToLikes: 0.064768
-    id: ck6tso0945uay0j711l8h1bnp
+    followers: 6997
+    engagement: 572
+    commentsToLikes: 0.089772
+    id: ck5ccfrluh9wu0i11xbnc5te2
     verified: false
-    hashtags: "#igdaily, #photographer, #lifestyle, #sameerwalizada"
+    hashtags: "#stayhome, #afrotravel, #deadseajordan, #mauritiustravel"
   - username: "glamadventuress"
     fullname: >-
-      Navneet| Travel • Lifestyle
+      Navneet|Travel & Lifestyle
     location: "India"
-    followers: 41236
-    engagement: 397
-    commentsToLikes: 0.075743
+    followers: 41233
+    engagement: 369
+    commentsToLikes: 0.067402
     id: ck139dzxykug00i19eoq1az5z
     verified: false
-    hashtags: "#portlouis, #shipstagram, #giveawayalert, #stayhomechallenge"
+    hashtags: "#selfisolation, #goexplore, #picoftheday, #exploringindia"
 ---

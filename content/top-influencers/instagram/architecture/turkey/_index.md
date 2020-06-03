@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Turkey In 2020
 description: >-
-  Find top architecture Instagram influencers in Turkey in 2020. Most popular hashtags: #architecture #travel #istanbul #instagood.
+  Find top architecture Instagram influencers in Turkey in 2020. Most popular hashtags: #blogger #evdekal #izmir #bloggervibes.
 platform: Instagram
 profiles:
   - username: "enfaldiner"
     fullname: >-
       Enfal Diner
     location: "Turkey"
-    followers: 107209
-    engagement: 505
-    commentsToLikes: 0.009357
+    followers: 148270
+    engagement: 1918
+    commentsToLikes: 0.462020
     id: ck6typy1d56fb0j717q83n76s
     verified: false
-    hashtags: "#lunamini2, #ciltbakimi, #skincare, #evdekal"
+    hashtags: "#herkes, #hayat, #opporeno3pro"
+  - username: "shirin_noorbakhsh"
+    fullname: >-
+      Shirin Nourbakhsh
+    location: "Turkey"
+    followers: 278536
+    engagement: 762
+    commentsToLikes: 0.014890
+    id: ck5hpgd2hrbck0i11covn7pm0
+    verified: false
+    hashtags: "#pinkeyeshadow, #bandarabbas, #culturetrip, #write"
+  - username: "ugurtalas"
+    fullname: >-
+      Uğur Talaş
+    location: "Turkey"
+    followers: 5100
+    engagement: 1660
+    commentsToLikes: 0.076395
+    id: ck14gzf4l7s4p0i19wwa049rs
+    verified: false
+    hashtags: "#karabatak, #reflection, #hagiasofia, #adalar"
   - username: "blogging2girl"
     fullname: >-
       Gökçe's Wonderland
     location: "Turkey"
-    followers: 13018
-    engagement: 701
-    commentsToLikes: 0.028660
+    followers: 13529
+    engagement: 728
+    commentsToLikes: 0.066030
     id: ck14gp0da6bq50i19vqwr2h1l
     verified: false
-    hashtags: "#artexhibition, #sendorumsuzpazartesi, #perfume, #lipsticklover"
+    hashtags: "#glowcherie, #mottomottomemes, #bookgram, #mondaymood"
   - username: "biereblanche"
     fullname: >-
       Bensu
     location: "Turkey"
-    followers: 4281
-    engagement: 1550
-    commentsToLikes: 0.057817
+    followers: 4884
+    engagement: 1459
+    commentsToLikes: 0.067156
     id: ck8tc38cjy4lq0j781cankjkn
     verified: false
-    hashtags: "#istanbul, #arnavutluk, #pocitelj, #tirana"
-  - username: "meetmyproject"
+    hashtags: "#tirana, #siracusa, #makedonya, #myeverydaymagic"
+  - username: "ezgimut"
     fullname: >-
-      Meet My Project
+      Ezgi Mut
     location: "Turkey"
-    followers: 151592
-    engagement: 371
-    commentsToLikes: 0.004760
-    id: ck0tvaqe6alqz0i19h63rxl0d
+    followers: 3928
+    engagement: 1372
+    commentsToLikes: 0.036311
+    id: ck9we8cxuj3vf0j78arc1bnec
     verified: false
-    hashtags: ""
+    hashtags: "#girlbosslife, #amasra, #fotografheryerde, #globelletravels"
+  - username: "esen.matras"
+    fullname: >-
+      Esen Matraş
+    location: "Turkey"
+    followers: 14556
+    engagement: 547
+    commentsToLikes: 0.015838
+    id: ck9wfsfzlqc1v0j78detdpo1c
+    verified: false
+    hashtags: "#aesthetics, #inspirational, #blue, #eyemakeup"
+  - username: "yesilodak"
+    fullname: >-
+      Yeşil Odak
+    location: "Turkey"
+    followers: 44167
+    engagement: 172
+    commentsToLikes: 0.015002
+    id: ck9h9n2g994y40j78b4pkbsrl
+    verified: false
+    hashtags: "#prefabricated, #uganda, #istanbul, #toprakyap"
   - username: "busraisikcimimarlik"
     fullname: >-
       BUSRA ISIKCI MİMARLİK
     location: "Turkey"
-    followers: 15738
-    engagement: 375
-    commentsToLikes: 0.004138
+    followers: 15695
+    engagement: 377
+    commentsToLikes: 0.004131
     id: ck0u70g2v3jiq0i194xrmt00w
     verified: false
-    hashtags: "#instarender, #renderlovers, #architecture, #renderbox"
+    hashtags: ""
   - username: "arkitera"
     fullname: >-
       Arkitera
     location: "Turkey"
-    followers: 97289
-    engagement: 91
-    commentsToLikes: 0.001433
+    followers: 100545
+    engagement: 105
+    commentsToLikes: 0.004758
     id: ck5qahtgfgh1f0i11297whpfj
     verified: false
-    hashtags: "#house, #housedecoration, #inspiration, #vmzinc"
-  - username: "kabrianos"
-    fullname: >-
-      INTERIORS•TRAVEL•LIFESTYLE
-    location: "Turkey"
-    followers: 7470
-    engagement: 2262
-    commentsToLikes: 0.409876
-    id: ck0tztzbermy00i190cix4tt6
-    verified: false
-    hashtags: "#lebanontimes, #brooklynbridgeig, #nyclivesnyc, #lebanon"
-  - username: "semihkiriss"
-    fullname: >-
-      Semih Kiriş
-    location: "Turkey"
-    followers: 5726
-    engagement: 2811
-    commentsToLikes: 0.050638
-    id: ck0vwrsadva720i19yj0j4nc5
-    verified: false
-    hashtags: "#halla, #history, #clocktower, #kayak"
-  - username: "najmmohammadi"
-    fullname: >-
-      Najm Mohammadi
-    location: "Turkey"
-    followers: 9811
-    engagement: 1571
-    commentsToLikes: 0.055070
-    id: ck5c8dp0m99fe0i11etkdgpg0
-    verified: false
-    hashtags: "#frenchbulldog, #lifecoach, #fashiontv, #fashionista"
-  - username: "berfinnerdemli"
-    fullname: >-
-      Berfin Erdemli
-    location: "Turkey"
-    followers: 7314
-    engagement: 2388
-    commentsToLikes: 0.053917
-    id: ck139y23unosw0i194xzry8cd
-    verified: false
-    hashtags: "#dalyan, #yeniba, #mondaymood, #instaphoto"
+    hashtags: "#teknikdestek, #samsun, #yarismaylayap, #karsiyaka"
 ---

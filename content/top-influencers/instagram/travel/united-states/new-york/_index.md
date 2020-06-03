@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In New York In 2020
 description: >-
-  Find top travel Instagram influencers in New York in 2020. Most popular hashtags: #newyork #nyc #travel #newyorkcity.
+  Find top travel Instagram influencers in New York in 2020. Most popular hashtags: #stayhome #travel #newyorkcity #travelnewyork.
 platform: Instagram
 profiles:
   - username: "asami812"
     fullname: >-
       nailedbyasami
     location: "United States"
-    followers: 17906
-    engagement: 345
-    commentsToLikes: 0.015111
+    followers: 17821
+    engagement: 320
+    commentsToLikes: 0.015789
     id: ck15sr66weev10i196kg259qa
     verified: false
     hashtags: ""
-  - username: "cinthiaspoon"
+  - username: "natasha_ash_nyc"
     fullname: >-
-      CinthiaSpoon
+      Natasha Ash | New York
     location: "United States"
-    followers: 119373
-    engagement: 126
-    commentsToLikes: 0.052292
-    id: ck55koztkzsgp0i11ijbi5dft
+    followers: 25716
+    engagement: 475
+    commentsToLikes: 0.058424
+    id: ck8tb4ldju8yb0j783m5irrfv
     verified: false
-    hashtags: "#fauxfur, #paris, #amsterdam, #cleveland"
-  - username: "newyorker"
-    fullname: >-
-      NewYorker🗽
-    location: "United States"
-    followers: 83089
-    engagement: 440
-    commentsToLikes: 0.014203
-    id: ck55l2hm90lhu0i115kx06ebk
-    verified: false
-    hashtags: "#newyorkarea, #brooklyn, #picturesofnewyork, #travelingthroughnyc"
+    hashtags: "#streets, #dad, #stayhomestaysafe, #detailsoftheday"
   - username: "albertwears"
     fullname: >-
       Albert Groshenko
     location: "United States"
-    followers: 25804
-    engagement: 228
-    commentsToLikes: 0.012574
+    followers: 25621
+    engagement: 227
+    commentsToLikes: 0.013598
     id: ck6tjj58j2tjv0j710qvlom0t
     verified: false
-    hashtags: "#styleformen, #paris, #gentleman, #jamessoho"
-  - username: "adamovaphoto"
+    hashtags: "#furnituredesign, #decor, #malibuboats, #malibupier"
+  - username: "yorksgram"
     fullname: >-
-      📷 NEW YORK ❤️
+      New York 🗽 |Travel 🛩|Visual 📸
     location: "United States"
-    followers: 8042
-    engagement: 390
-    commentsToLikes: 0.041723
-    id: ck15ql83g3djk0i19y19te4ot
+    followers: 44282
+    engagement: 293
+    commentsToLikes: 0.016739
+    id: ck0vypn3w569k0i19pswgod5e
     verified: false
-    hashtags: "#miami, #photographernewyork, #brooklyn, #dreamscometrue"
+    hashtags: "#dream, #igersofnyc, #mayday, #street"
+  - username: "picture_of_newyork"
+    fullname: >-
+      new york City
+    location: "United States"
+    followers: 43609
+    engagement: 150
+    commentsToLikes: 0.010693
+    id: ck8t4r21y7r6g0j78was1fhqj
+    verified: false
+    hashtags: "#canonusa, #moodygrams, #igglobalclub, #travelnyc"
   - username: "nyclivesnyc"
     fullname: >-
       New York City 📸 🌃❤️
     location: "United States"
-    followers: 35888
-    engagement: 614
-    commentsToLikes: 0.007620
+    followers: 37192
+    engagement: 716
+    commentsToLikes: 0.007397
     id: ck15r9pg06unm0i19evjtobo9
     verified: false
-    hashtags: "#oneworldtradecenter, #yellowtaxi, #newyorknights, #empirestateofmind"
-  - username: "here.be.barr"
+    hashtags: "#goodmorning, #rooseveltisland, #queens, #longislandcity"
+  - username: "camrynbaylee"
     fullname: >-
-      🎥Travel Host . Jon Barr
+      Camryn Baylee Kinsey
     location: "United States"
-    followers: 22506
-    engagement: 295
-    commentsToLikes: 0.093798
-    id: ck0tygq34mqw70i1953qyjmwv
+    followers: 42475
+    engagement: 787
+    commentsToLikes: 0.023248
+    id: ck5cjhf83uq840i112skrayez
     verified: false
-    hashtags: "#nyc, #aguadilla, #shotoniphone, #newyorkarea"
-  - username: "simandjane"
+    hashtags: "#republicanparty, #workoutmotivation, #manhattan, #nycfashion"
+  - username: "christyy_k"
     fullname: >-
-      𝚂𝙸𝙼 ﹠𝙹𝙰𝙽𝙴
+      ❥Christiana | Fashion & Travel
     location: "United States"
-    followers: 2006
-    engagement: 2654
-    commentsToLikes: 0.058856
-    id: ck0w041tjc9si0i19b7im9s5l
+    followers: 6716
+    engagement: 585
+    commentsToLikes: 0.107234
+    id: ck9wezep3mkkm0j7846cdpmya
     verified: false
-    hashtags: "#hrvatska, #dronestagram, #iloveyou, #chocolatelab"
-  - username: "its_annelizabeth"
+    hashtags: "#outdoors, #bicycleride, #rainyday, #videogames"
+  - username: "karishkhan"
     fullname: >-
-      Anna
+      Karishma Khan
     location: "United States"
-    followers: 2517
-    engagement: 2207
-    commentsToLikes: 0.054738
-    id: ck14k3xbenm4e0i19m534l2bb
+    followers: 2455
+    engagement: 1947
+    commentsToLikes: 0.075079
+    id: ck5zpdoqsshj20i14q07ha1bf
     verified: false
-    hashtags: "#puertorico, #vanleeuwenicecream, #fondue, #beautifulplace"
-  - username: "hayliemac8"
+    hashtags: "#ceviche, #bikini, #summervibes, #outfitoftheday"
+  - username: "stylemeblonde"
     fullname: >-
-      Haylie McCleney, MS, CSCS
+      MEGAN  MCGEEHAN
     location: "United States"
-    followers: 36481
-    engagement: 571
-    commentsToLikes: 0.011994
-    id: ck5c7y5g88ezd0i11gucz9ded
-    verified: true
-    hashtags: "#tokyo2020, #happyholidays, #tistheseason, #teamnb"
+    followers: 53176
+    engagement: 207
+    commentsToLikes: 0.144018
+    id: ck5c15kmuuibn0i1113jo601f
+    verified: false
+    hashtags: "#valleyoffire, #cheers, #denverstyle, #night"
 ---

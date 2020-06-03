@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Sydney In 2020
 description: >-
-  Find top home decor Instagram influencers in Sydney in 2020. Most popular hashtags: #homedecor #art #australia #travel.
+  Find top home decor Instagram influencers in Sydney in 2020. Most popular hashtags: #homedecor #sydney #australia #beach.
 platform: Instagram
 profiles:
-  - username: "solfelpeto"
+  - username: "darostinta"
     fullname: >-
-      Sol Felpeto ®
+      Radostina Ganeva
     location: "Australia"
-    followers: 8696
-    engagement: 731
-    commentsToLikes: 0.043776
-    id: ck6u50cuj6uln0j71xgfzja8r
+    followers: 11867
+    engagement: 779
+    commentsToLikes: 0.018254
+    id: ck5zz4v8rb3010i14dxuruz4g
     verified: false
-    hashtags: "#catowner, #meninas, #yblokka, #romerobritto"
-  - username: "my_coastalboho"
+    hashtags: "#kidscooking, #greece, #tothemoon, #baskandstow"
+  - username: "shethespy"
     fullname: >-
-      My Coastal Boho ✨
+      joey ☆ she the spy
     location: "Australia"
-    followers: 19587
-    engagement: 415
-    commentsToLikes: 0.133176
-    id: ck5c4oqbo1san0i11ebmwfwxx
+    followers: 178966
+    engagement: 267
+    commentsToLikes: 0.028197
+    id: ck0w70hxab5ba0i19ccobdm5y
     verified: false
-    hashtags: "#planttherapy, #diningroomdecor, #kmartstyling, #bohohome"
-  - username: "lolamott"
+    hashtags: "#forahappymoment, #nailpolish, #teamjess, #drivetribe"
+  - username: "phil.schulz"
     fullname: >-
-      🌿Rustic Threads de Lola🌿
+      Phil Schulz: Artist, Collector
     location: "Australia"
-    followers: 26298
-    engagement: 579
-    commentsToLikes: 0.023629
-    id: ck14jy7yomria0i19o439r3rx
+    followers: 7289
+    engagement: 569
+    commentsToLikes: 0.028841
+    id: ckap0b2ofpjs70i78fglozz8v
     verified: false
-    hashtags: "#wallart, #wovenart, #weavingvideo, #weaving"
-  - username: "manard_illustration"
+    hashtags: "#artrealism, #inkpainting, #humanbody, #picoftheday"
+  - username: "dugongss"
     fullname: >-
-      Fru Farkas
+      DAWN 🦥🌿
     location: "Australia"
-    followers: 7795
-    engagement: 565
-    commentsToLikes: 0.027130
-    id: ck6typdhe52zo0j7191brskfl
+    followers: 67640
+    engagement: 273
+    commentsToLikes: 0.009164
+    id: ck14knjy7qegi0i19dp3hg94i
     verified: false
-    hashtags: "#digitalpainting, #characterdesign, #kitty, #mirrorselfie"
-  - username: "cheapestrugsonline"
+    hashtags: "#macjunkies, #makeupmessp, #foundation, #travellife"
+  - username: "mishandkirk"
     fullname: >-
-      Cheapest Rugs | Discount Rugs
+      Mish & Kirk
     location: "Australia"
-    followers: 17771
-    engagement: 153
-    commentsToLikes: 0.607601
-    id: ck6ttb7779mli0j71j1ld0ox0
+    followers: 166096
+    engagement: 161
+    commentsToLikes: 0.063322
+    id: ck15phzc7xz5d0i19yxlrf9bu
     verified: false
-    hashtags: "#juterug, #imaginativeplay, #homedecor, #vintage"
-  - username: "krystal.brooke"
+    hashtags: "#hiking, #elopement, #bohopresets, #mountainlife"
+  - username: "maxburch89"
     fullname: >-
-      KRYSTAL
+      
     location: "Australia"
-    followers: 30556
-    engagement: 106
-    commentsToLikes: 0.130403
-    id: ck0u06vdisued0i19uv082eye
+    followers: 21531
+    engagement: 240
+    commentsToLikes: 0.021108
+    id: ck0vw8p5islql0i19pnkgsdpc
     verified: false
-    hashtags: "#homeworkouts, #fitnesstransformation, #vscomom, #fashiondiaries"
-  - username: "mama.duck.said"
+    hashtags: "#breathhold, #liftheavy, #garmin, #clean"
+  - username: "darrenpalmerofficial"
     fullname: >-
-      Ange
+      D A R R E N  P A L M E R
     location: "Australia"
-    followers: 27843
-    engagement: 151
-    commentsToLikes: 0.111561
-    id: ck14l4y00svk40i19l3ydxcow
-    verified: false
-    hashtags: "#mango, #geelong, #food, #style"
-  - username: "duskavenue"
+    followers: 146074
+    engagement: 91
+    commentsToLikes: 0.052392
+    id: ck0w3spfav2qb0i19tsr0bjbp
+    verified: true
+    hashtags: "#bondi, #bulldog, #loungeroom, #love"
+  - username: "jacquifink"
     fullname: >-
-      Najima Rasool
+      Jacqui Fink
     location: "Australia"
-    followers: 56617
-    engagement: 111
-    commentsToLikes: 0.026071
-    id: ck5c76lf76x6d0i11a3yyofef
+    followers: 75647
+    engagement: 172
+    commentsToLikes: 0.034728
+    id: ck5q89wv754mx0i11kodc6fvs
     verified: false
-    hashtags: "#throwback, #harrypotter, #canberrainfluencer, #newstarkebabrestaurant"
-  - username: "karina_jambrak"
+    hashtags: "#babyjumper, #bushfires, #interiordesign, #ethicalfibres"
+  - username: "surfandearth"
     fullname: >-
-      Australian Artist
+      Surf & Earth
     location: "Australia"
-    followers: 30915
-    engagement: 375
-    commentsToLikes: 0.074877
-    id: ck0u2d4skzht70i19m6z3zo28
+    followers: 30710
+    engagement: 1498
+    commentsToLikes: 0.024528
+    id: ck0vvi1abp8d70i19yfgk2pvp
     verified: false
-    hashtags: "#kidsart, #wallart, #cornerofmyhome, #hellocolor"
-  - username: "emmagale_artist"
+    hashtags: "#winterinsydney, #melbmoment, #bleachmyfilm, #longexposure"
+  - username: "rosslongphotography"
     fullname: >-
-      Emma Gale
+      Ross Long | Sydney | Australia
     location: "Australia"
-    followers: 21002
-    engagement: 363
-    commentsToLikes: 0.033909
-    id: ck5hrjpn7uzbl0i11c187cmpd
+    followers: 8456
+    engagement: 499
+    commentsToLikes: 0.038081
+    id: ck5c4s2fs1zas0i11yxgdpylk
     verified: false
-    hashtags: "#artlife, #hair, #artspotlight, #interiors"
+    hashtags: "#sunrise, #mountains, #margaretriver, #mynikonlife"
 ---

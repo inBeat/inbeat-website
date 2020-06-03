@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Turin In 2020
 description: >-
-  Find top fashion Instagram influencers in Turin in 2020. Most popular hashtags: #turin #fashion #style #torino.
+  Find top fashion Instagram influencers in Turin in 2020. Most popular hashtags: #iorestoacasa #quarantine #flowers #italian.
 platform: Instagram
 profiles:
-  - username: "vanekatv"
-    fullname: >-
-      Vanessa Gomez
-    location: "Italy"
-    followers: 77155
-    engagement: 427
-    commentsToLikes: 0.013176
-    id: ck134up4sy9z00i19s616fqt2
-    verified: false
-    hashtags: "#colombia, #fashiondiaries, #model, #love"
   - username: "andrea__longo94"
     fullname: >-
       Menfashion | Andrea Longo
     location: "Italy"
-    followers: 7853
-    engagement: 926
-    commentsToLikes: 0.089906
+    followers: 10397
+    engagement: 877
+    commentsToLikes: 0.083676
     id: ck8tdr4c84gwo0j78713mh91n
     verified: false
-    hashtags: "#stayathome, #insiemecelafaremo, #iostoacasa"
-  - username: "giuse_joseph"
-    fullname: >-
-      © Giuse Joseph - Videomaker
-    location: "Italy"
-    followers: 14721
-    engagement: 97
-    commentsToLikes: 0.054034
-    id: ck14guqwz74lt0i192gmg5z09
-    verified: false
-    hashtags: "#style, #blondemodels, #lumix, #nexbuds"
-  - username: "monica_zungrone"
-    fullname: >-
-      Monica
-    location: "Italy"
-    followers: 14217
-    engagement: 621
-    commentsToLikes: 0.322157
-    id: ck8t8sysulouw0j78f6vzj8w3
-    verified: false
-    hashtags: "#portraitsla, #lagod, #loveme, #portraitsofficial"
-  - username: "federica_callori"
-    fullname: >-
-      Federica Callori
-    location: "Italy"
-    followers: 6235
-    engagement: 553
-    commentsToLikes: 0.016957
-    id: ck6tsroc26gg50j71b0d38i1f
-    verified: false
-    hashtags: "#tunisia, #together, #myself, #golook"
-  - username: "fabrizioaldobelfiore"
-    fullname: >-
-      Fabrizio
-    location: "Italy"
-    followers: 304049
-    engagement: 156
-    commentsToLikes: 0.047471
-    id: ck13bszhlx0sl0i19imuyatqb
-    verified: false
-    hashtags: "#monday, #stayathome, #beitalian, #staysafe"
-  - username: "sarabello_"
-    fullname: >-
-      
-    location: "Italy"
-    followers: 38910
-    engagement: 227
-    commentsToLikes: 0.013718
-    id: ck0u60fc50jx70i19ka703vcc
-    verified: false
-    hashtags: "#gold, #home, #london, #interior"
-  - username: "lestradeditorino"
-    fullname: >-
-      Le strade di Torino
-    location: "Italy"
-    followers: 30012
-    engagement: 175
-    commentsToLikes: 0.016068
-    id: ck5cf063dm2b90i112mpmgnjh
-    verified: false
-    hashtags: "#volgopiemonte, #architect, #andratuttobene, #mangiarelocal"
+    hashtags: "#check4458, #stayathome, #insiemecelafaremo, #iostoacasa"
   - username: "daniele.gaiti"
     fullname: >-
       Daniele Gaiti
     location: "Italy"
-    followers: 7671
-    engagement: 1091
-    commentsToLikes: 0.156005
+    followers: 7808
+    engagement: 1278
+    commentsToLikes: 0.173640
     id: ck8t50bq08fhu0j78ttv20nhq
     verified: false
-    hashtags: "#whatiworetoday, #moods, #tauroswallet, #elegantdetails"
-  - username: "alice.fiorini_"
+    hashtags: "#fashiondiaries, #dapper, #instafashion, #andr"
+  - username: "fabrizioaldobelfiore"
     fullname: >-
-      A L I C E
+      Fabrizio
     location: "Italy"
-    followers: 17589
-    engagement: 792
-    commentsToLikes: 0.052883
-    id: ck6tzxekacfn50j717bethzy2
+    followers: 298320
+    engagement: 184
+    commentsToLikes: 0.055520
+    id: ck13bszhlx0sl0i19imuyatqb
     verified: false
-    hashtags: "#kryolanmakeup, #avangarde, #cloud, #animalcrossing"
+    hashtags: "#tommyhilfiger, #tommyjeans, #hilfigerdenim, #affascinante"
+  - username: "ely_2"
+    fullname: >-
+      Elisa Chiara♡
+    location: "Italy"
+    followers: 11568
+    engagement: 1572
+    commentsToLikes: 0.182988
+    id: ck9hb01teesqn0j78wigu0eq5
+    verified: false
+    hashtags: "#formentera, #santorinigreece, #glitter, #travelinladies"
+  - username: "iamshirshalev"
+    fullname: >-
+      Shir Shalev•Travel•Fashion•Art
+    location: "Italy"
+    followers: 5791
+    engagement: 1013
+    commentsToLikes: 0.345582
+    id: ck0twonyqg6rp0i19ln4ub3ke
+    verified: false
+    hashtags: "#rekodzielo, #decor, #fiberartist, #nasciane"
+  - username: "flo.chiara"
+    fullname: >-
+      Floriana Chiara
+    location: "Italy"
+    followers: 3998
+    engagement: 1633
+    commentsToLikes: 0.259780
+    id: ck5hpvz0ns28k0i11c2w3oapx
+    verified: false
+    hashtags: "#beautifulview, #tourdellelanghe, #port, #beautifulhair"
+  - username: "mappola_"
+    fullname: >-
+      INSPO ◦ FASHION ◦ LIFESTYLE
+    location: "Italy"
+    followers: 4927
+    engagement: 1033
+    commentsToLikes: 0.229278
+    id: ck13brp6awuj40i19uxzhcfg4
+    verified: false
+    hashtags: "#igerstorino, #palmpe, #pillowdress, #happyeaster"
+  - username: "enri76to"
+    fullname: >-
+      Enrica
+    location: "Italy"
+    followers: 15317
+    engagement: 882
+    commentsToLikes: 0.047162
+    id: ck9wez8nvmjp90j78g67dab4y
+    verified: false
+    hashtags: "#crossedlegs, #biondina, #outfit, #night"
+  - username: "iaiapixie"
+    fullname: >-
+      IAIA PIXIE
+    location: "Italy"
+    followers: 20462
+    engagement: 324
+    commentsToLikes: 0.089704
+    id: ck8tbj43xvwa30j78yx8exgj7
+    verified: false
+    hashtags: "#plush, #shootingday, #flowerstagram, #sparkling"
+  - username: "nasario_giubergia"
+    fullname: >-
+      Nasario Giubergia
+    location: "Italy"
+    followers: 83834
+    engagement: 220
+    commentsToLikes: 0.074254
+    id: ck8tb07qctteo0j78q8bz879f
+    verified: false
+    hashtags: "#besafe, #fashionweek, #redcoral, #smile"
 ---

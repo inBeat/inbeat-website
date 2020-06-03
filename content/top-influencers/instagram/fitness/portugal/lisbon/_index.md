@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Lisbon In 2020
 description: >-
-  Find top fitness Instagram influencers in Lisbon in 2020. Most popular hashtags: #fitness #portugal #menstyle #stayhome.
+  Find top fitness Instagram influencers in Lisbon in 2020. Most popular hashtags: #fitness #hairstyles #stayhome #staysafe.
 platform: Instagram
 profiles:
-  - username: "iamfabioteles"
+  - username: "henriquesadio"
     fullname: >-
-      F A B I O • T E L E S
+      H E N R I Q U E   S A D I O
     location: "Portugal"
-    followers: 62101
-    engagement: 1145
-    commentsToLikes: 0.013171
-    id: ck5qdynmfxw7z0i118o9xwukj
+    followers: 13529
+    engagement: 629
+    commentsToLikes: 0.107835
+    id: ck6tzni0paqyv0j711dovhaoc
     verified: false
-    hashtags: "#workout, #roupa, #vaificartudobem, #nature"
-  - username: "martinhagomez"
+    hashtags: "#boat, #mansunglasses, #goldenhour, #happy"
+  - username: "pedrograngeroficial"
     fullname: >-
-      Martinha Gomez
+      Pedro Granger
     location: "Portugal"
-    followers: 25521
-    engagement: 528
-    commentsToLikes: 0.232442
-    id: ck0tybj33marc0i19b7w37ha9
+    followers: 195804
+    engagement: 94
+    commentsToLikes: 0.020791
+    id: ck5q4f3cxouew0i11u7ke2qou
+    verified: true
+    hashtags: "#televis, #yensung, #escportugal, #pesrogranger"
+  - username: "brunoanjoss"
+    fullname: >-
+      𝗕 𝗥 𝗨 𝗡 𝗢    𝗔 𝗡 𝗝 𝗢 𝗦
+    location: "Portugal"
+    followers: 4441
+    engagement: 1771
+    commentsToLikes: 0.378577
+    id: ck9womla25rjc0j78gw86m3wr
     verified: false
-    hashtags: "#spring, #bridge, #tattoo, #hairstyle"
+    hashtags: "#topman, #healthy, #freedom, #streetwear"
+  - username: "tarlajb"
+    fullname: >-
+      Tarla Barbosa
+    location: "Portugal"
+    followers: 28237
+    engagement: 129
+    commentsToLikes: 0.029793
+    id: ck55j31a2w5710i11jw6lnuzb
+    verified: false
+    hashtags: "#nature, #hithelookface, #satindress, #roupasfemininas"
+  - username: "dvfots"
+    fullname: >-
+      David Velez Fotografia
+    location: "Portugal"
+    followers: 18310
+    engagement: 425
+    commentsToLikes: 0.007485
+    id: ck0vzoy4ca6ew0i19iqm9bsjn
+    verified: false
+    hashtags: "#models, #shower, #fitness, #artistic"
   - username: "luismiguelferreiraa"
     fullname: >-
-      𝗟𝗨𝗜𝗦 𝗠𝗜𝗚𝗨𝗘𝗟
+      𝗟𝘂í𝘀 𝗠𝗶𝗴𝘂𝗲𝗹 | 𝗙𝗮𝘀𝗵𝗶𝗼𝗻•𝗙𝗶𝘁𝗻𝗲𝘀𝘀
     location: "Portugal"
-    followers: 55494
-    engagement: 475
-    commentsToLikes: 0.046711
+    followers: 55184
+    engagement: 480
+    commentsToLikes: 0.133921
     id: ck6tiiamt0rrx0j71siov3t0m
     verified: false
-    hashtags: "#instaselfie, #laboutiqueofficielle, #beachlovers, #beachphotoshoot"
+    hashtags: "#mensjewelry, #beardstyle, #workingout, #lookoftheday"
+  - username: "kristineboge"
+    fullname: >-
+      Kristine Boge
+    location: "Portugal"
+    followers: 6060
+    engagement: 518
+    commentsToLikes: 0.030300
+    id: ckap8m517oy2y0i78kdfcvq1f
+    verified: false
+    hashtags: "#lunchtime, #endorphins, #daleofnorway"
+  - username: "cf3fitness"
+    fullname: >-
+      
+    location: "Portugal"
+    followers: 37987
+    engagement: 663
+    commentsToLikes: 0.019356
+    id: ck5hhcylw7l7u0i11e43wrfhk
+    verified: false
+    hashtags: "#militarymuscle, #covid, #summerbody2k20, #bodytransformation"
   - username: "italo_limaa"
     fullname: >-
       Italo Lima
     location: "Portugal"
-    followers: 89817
-    engagement: 329
-    commentsToLikes: 0.018023
+    followers: 91020
+    engagement: 290
+    commentsToLikes: 0.010721
     id: ck5qc3r3dopkd0i11yvzxmjbj
     verified: false
-    hashtags: "#fashionstyle, #vidasaudavel, #aerobico, #homemtatuado"
-  - username: "sarahuactive"
-    fullname: >-
-      Sara Hu | Fisio, Yoga, Pilates
-    location: "Portugal"
-    followers: 9456
-    engagement: 333
-    commentsToLikes: 0.066656
-    id: ck15pm1tayjwr0i19janvpahi
-    verified: false
-    hashtags: "#samadhi, #yoga, #wanderlusters, #moonchild"
-  - username: "kiko_cabrita"
-    fullname: >-
-      Kiko Cabrita
-    location: "Portugal"
-    followers: 24248
-    engagement: 396
-    commentsToLikes: 0.033016
-    id: ck5zpn996sz1n0i14tamn9sdl
-    verified: false
-    hashtags: "#portugalfit, #pushday, #homegym, #muclefit"
-  - username: "andrerodrigues.oficial"
-    fullname: >-
-      André Rodrigues
-    location: "Portugal"
-    followers: 16435
-    engagement: 1267
-    commentsToLikes: 0.022025
-    id: ck8t3nr4e3udw0j787sidv9zu
-    verified: false
-    hashtags: "#man, #europe, #sorriso, #lifestyle"
-  - username: "ifbbpro_nelsonrodrigues"
-    fullname: >-
-      Nelson Rodrigues
-    location: "Portugal"
-    followers: 23127
-    engagement: 213
-    commentsToLikes: 0.030047
-    id: ck6ucmnelghrh0j71zjlvo9ll
-    verified: false
-    hashtags: "#menstyle, #beach, #beliveinyourself, #staysafe"
-  - username: "andre_picarra"
-    fullname: >-
-      André Piçarra
-    location: "Portugal"
-    followers: 25160
-    engagement: 912
-    commentsToLikes: 0.022599
-    id: ck5q5ff9qsn9z0i11xcbd4nix
-    verified: false
-    hashtags: "#photography, #2020, #hand, #paint"
+    hashtags: "#academia, #treinopesado, #stretwear, #barbearia"
   - username: "luismiguelferreiraa"
     fullname: >-
-      𝗟𝗨𝗜𝗦 𝗠𝗜𝗚𝗨𝗘𝗟
+      𝗟𝘂í𝘀 𝗠𝗶𝗴𝘂𝗲𝗹 | 𝗙𝗮𝘀𝗵𝗶𝗼𝗻•𝗙𝗶𝘁𝗻𝗲𝘀𝘀
     location: "Portugal"
-    followers: 55494
-    engagement: 475
-    commentsToLikes: 0.046711
+    followers: 55184
+    engagement: 480
+    commentsToLikes: 0.133921
     id: ck6tiiamt0rrx0j71siov3t0m
     verified: false
-    hashtags: "#instaselfie, #laboutiqueofficielle, #beachlovers, #beachphotoshoot"
+    hashtags: "#mensjewelry, #beardstyle, #workingout, #lookoftheday"
 ---

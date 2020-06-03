@@ -1,107 +1,107 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Brazil In 2020
 description: >-
-  Find top chefs Instagram influencers in Brazil in 2020. Most popular hashtags: #boxing #jiujitsu #teamrosa #kickboxing.
+  Find top chefs Instagram influencers in Brazil in 2020. Most popular hashtags: #familia #ficaemcasa #quarentena #instagram.
 platform: Instagram
 profiles:
-  - username: "mamaedocesar"
-    fullname: >-
-      Janaína Oliveira
-    location: "Brazil"
-    followers: 8897
-    engagement: 844
-    commentsToLikes: 0.307026
-    id: ck15uvqcioqj80i19mo2iei89
-    verified: false
-    hashtags: "#mamaedocesar, #primeironatal, #beberaiz, #bebenutella"
   - username: "natialves87"
     fullname: >-
       Natalia Thais Alves
     location: "Brazil"
-    followers: 38782
-    engagement: 297
-    commentsToLikes: 0.054423
+    followers: 40736
+    engagement: 426
+    commentsToLikes: 0.041826
     id: ck8t1to2nwzmq0j7856swjcts
     verified: false
-    hashtags: "#emcasa"
+    hashtags: "#publi"
+  - username: "brunnachristie"
+    fullname: >-
+      Brunna Christie
+    location: "Brazil"
+    followers: 19710
+    engagement: 316
+    commentsToLikes: 0.571648
+    id: ckap9rlustdha0i78nj526u65
+    verified: false
+    hashtags: "#lookdodia, #sorocity, #blazer, #tumblr"
   - username: "rex2099"
     fullname: >-
       Rex
     location: "Brazil"
-    followers: 95452
-    engagement: 784
-    commentsToLikes: 0.015241
+    followers: 96506
+    engagement: 608
+    commentsToLikes: 0.017113
     id: ck5cizb8jtob10i113zf1z90a
     verified: false
-    hashtags: "#figurino, #oculosdesol, #escolhassaudaveis, #arsenalgourmet"
-  - username: "mirelebirck"
+    hashtags: "#exercicioemcasa, #ironparadise, #jedi, #amordemae"
+  - username: "nathykhas"
     fullname: >-
-      Mirele Birck
+      Nαƚԋαʅια Fҽɾɾҽιɾα
     location: "Brazil"
-    followers: 22720
-    engagement: 376
-    commentsToLikes: 0.036040
-    id: ck8tad19zr9rs0j78aapkhtcu
+    followers: 19448
+    engagement: 200
+    commentsToLikes: 0.080113
+    id: ck8tbmaosw7v00j785z33r863
     verified: false
-    hashtags: "#turorialdemake, #esporte, #yobabrasil, #video"
+    hashtags: "#alice, #tiababona, #infancia, #familia"
+  - username: "_greenga_"
+    fullname: >-
+      // paola troian
+    location: "Brazil"
+    followers: 26076
+    engagement: 249
+    commentsToLikes: 0.053611
+    id: ck13affvmq4za0i1971iz2tvh
+    verified: false
+    hashtags: "#comida, #colab, #govegan, #extin"
   - username: "sandrinhaprinces"
     fullname: >-
       Sandra silva
     location: "Brazil"
-    followers: 25374
-    engagement: 221
-    commentsToLikes: 0.034219
+    followers: 25007
+    engagement: 230
+    commentsToLikes: 0.032107
     id: ck8td3zx51ry90j78ru81ztvc
     verified: false
-    hashtags: "#meuamor, #vcconsegue, #cilios, #treino"
+    hashtags: "#doglover, #tattoostyle, #pernas, #meuamor"
+  - username: "natigalgos"
+    fullname: >-
+      Ｎａｔｉ Ｇａｌｇｏｓ
+    location: "Brazil"
+    followers: 161956
+    engagement: 94
+    commentsToLikes: 0.069217
+    id: ck15tmvqnivae0i194xdpxr5n
+    verified: true
+    hashtags: "#quarentenanando, #taurina, #melisseiras, #whippetlover"
   - username: "alana.camposs"
     fullname: >-
       Alana Campos
     location: "Brazil"
-    followers: 597136
-    engagement: 107
-    commentsToLikes: 0.034622
+    followers: 601470
+    engagement: 76
+    commentsToLikes: 0.132938
     id: ck15qvw4v4wc30i19gmjw82n5
     verified: true
-    hashtags: "#vacations, #revolverepost, #ootd, #beachbum"
+    hashtags: "#topmodel, #tahoe, #summer, #spicethingsup"
   - username: "fabio_masterchef"
     fullname: >-
       Fábio Gomes
     location: "Brazil"
-    followers: 25994
-    engagement: 183
-    commentsToLikes: 0.022002
+    followers: 25576
+    engagement: 181
+    commentsToLikes: 0.026577
     id: ck5hl6a1qjn9m0i11u96zu4yy
     verified: false
-    hashtags: "#sharefood, #foodstagram, #foodiegram, #foodlover"
-  - username: "mauro__airosa"
+    hashtags: "#ficaemcasa, #baby, #children, #love"
+  - username: "_heltonoliveira"
     fullname: >-
-      Mauro Airosa
+      Helton Oliveira
     location: "Brazil"
-    followers: 6962
-    engagement: 363
-    commentsToLikes: 0.033879
-    id: ck5hl69wijn8d0i116ce55vmz
-    verified: false
-    hashtags: "#worldstreetfood, #manosnoferroenavida, #mauroairosa, #hamburgueriaalfaiate"
-  - username: "anaguiomar.oficial"
-    fullname: >-
-      Ana Guiomar
-    location: "Brazil"
-    followers: 451017
-    engagement: 161
-    commentsToLikes: 0.009000
-    id: ck0w15640hlz40i19jbjd0zrj
+    followers: 366875
+    engagement: 512
+    commentsToLikes: 0.036362
+    id: ckapbel91zmxs0i78xywr1l2f
     verified: true
-    hashtags: "#anmsp, #portugal, #covid19, #not"
-  - username: "charlesrosamma"
-    fullname: >-
-      CharlesRosa
-    location: "Brazil"
-    followers: 19301
-    engagement: 426
-    commentsToLikes: 0.048235
-    id: ck5zobcm0q6jf0i146se5b8n3
-    verified: true
-    hashtags: "#corona, #dedication, #reebok, #hardwork"
+    hashtags: "#ratatouille"
 ---

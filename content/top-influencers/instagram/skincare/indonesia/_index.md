@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top skincare Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #bali #sponsored #makeupglowing.
+  Find top skincare Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #selebgram #lebaran #siapantarramadanmu.
 platform: Instagram
 profiles:
-  - username: "virellaph"
+  - username: "dearizky.e"
     fullname: >-
-      Virella Phiby
+      deyah🌻
     location: "Indonesia"
-    followers: 22367
-    engagement: 376
-    commentsToLikes: 0.089680
-    id: ck6u096huec160j71ivkqx6rr
+    followers: 173678
+    engagement: 1061
+    commentsToLikes: 0.031636
+    id: ckap5a975autf0i78x2n5qn6t
     verified: false
-    hashtags: "#yourfitshop, #explorejakarta, #streetcred, #youvitforlife"
-  - username: "alintzaa"
+    hashtags: "#ngopidirumah, #lebaranjadisultancodm, #dirumahaja, #arahkopi"
+  - username: "tengkuriskyyy"
     fullname: >-
-      Alintzaa
+      Tengku Riski
     location: "Indonesia"
-    followers: 21458
-    engagement: 302
-    commentsToLikes: 0.129769
-    id: ck5c3fio4z8880i11ivk1g8i1
+    followers: 16122
+    engagement: 1447
+    commentsToLikes: 0.064145
+    id: ck5q2470oe6rk0i11pryp6s46
     verified: false
-    hashtags: "#poolpictures, #canggu, #giliislands, #tanahlot"
+    hashtags: "#tiktokerspku, #slowmo, #tiktokviral, #nohand"
+  - username: "restiekanf"
+    fullname: >-
+      𝑅𝑒𝓈𝓉𝒾 ✨
+    location: "Indonesia"
+    followers: 2170
+    engagement: 1262
+    commentsToLikes: 0.269379
+    id: ck9wibkgs1kq40j78kc68yu8s
+    verified: false
+    hashtags: "#bccopenmember, #ibccollabdisney, #monsterinc, #instagram"
+  - username: "hennikalista"
+    fullname: >-
+      𝓱𝓮𝓷𝓷𝓲🍭
+    location: "Indonesia"
+    followers: 242326
+    engagement: 417
+    commentsToLikes: 0.018610
+    id: ck14jqw7ilqwu0i19ypzrg33w
+    verified: false
+    hashtags: "#tunjukinsiapakamu, #metimewithazalea, #beautyfromsunnah, #otwlebaran"
   - username: "putrimelatii"
     fullname: >-
       Putri Melati
     location: "Indonesia"
-    followers: 274917
-    engagement: 978
-    commentsToLikes: 0.004623
+    followers: 280426
+    engagement: 1027
+    commentsToLikes: 0.005301
     id: ck14huyghc9xl0i19marsb0n6
     verified: false
-    hashtags: "#26weekspregnant"
+    hashtags: "#26weekspregnant, #redbeatscovid, #gorougesignature, #redbeatscovidxputrimelati"
+  - username: "adityadomble"
+    fullname: >-
+      𝐀𝐝𝐢𝐭𝐲𝐚 𝐏𝐮𝐭𝐫𝐚 𝐏𝐫𝐚𝐭𝐚𝐦𝐚
+    location: "Indonesia"
+    followers: 14879
+    engagement: 880
+    commentsToLikes: 0.050530
+    id: ck8t3hg3v3b5a0j7859cya5hv
+    verified: false
+    hashtags: "#kulinerdomble, #dirumahaja, #covid19"
+  - username: "dellawidyasari"
+    fullname: >-
+      𝓓𝓮𝓵✨
+    location: "Indonesia"
+    followers: 16424
+    engagement: 408
+    commentsToLikes: 0.038468
+    id: ckapcd0w93bmy0i78oiumug1c
+    verified: false
+    hashtags: "#sale, #ramadhan, #alhamdulillah, #kashiwagishop"
   - username: "hendrigeorge"
     fullname: >-
-      Hendrí Georgé
+      Gedé Hendrí Georgé
     location: "Indonesia"
-    followers: 42911
-    engagement: 551
-    commentsToLikes: 0.026130
+    followers: 42954
+    engagement: 496
+    commentsToLikes: 0.023105
     id: ck5c1007uu6h30i11jkiinjlv
     verified: false
-    hashtags: "#socialdistancing, #beach, #balinese, #sunrise"
-  - username: "affiassegaf"
+    hashtags: "#valetinesday, #nyepi, #socialdistancing, #sunrise"
+  - username: "agnesoryza"
     fullname: >-
-      Affi Assegaf
+      Agnes Oryza Kristel
     location: "Indonesia"
-    followers: 75067
-    engagement: 115
-    commentsToLikes: 0.039921
-    id: ck15scva4cd9z0i19fd76um1i
-    verified: true
-    hashtags: "#hydrateallday, #smartskinsolution, #simpleskincareid, #fdxhadalabo"
-  - username: "tikapagraky"
-    fullname: >-
-      Niwayan Ika Mulaning Pagraky
-    location: "Indonesia"
-    followers: 441344
-    engagement: 298
-    commentsToLikes: 0.002635
-    id: ck5hm0kq3l6mr0i11d3rzysrn
+    followers: 31416
+    engagement: 160
+    commentsToLikes: 0.027035
+    id: ck5hfj66ixqe70i11qcdty3dg
     verified: false
-    hashtags: "#supermom, #happy, #blessed, #stayhome"
-  - username: "wafiqmalik_"
+    hashtags: "#dove, #oryzaitaly, #oryzafrance, #stayathome"
+  - username: "ikiucil_"
     fullname: >-
-      وفيق عزيزة مالك
+      𝓚𝓮𝓼𝓪𝔂𝓪𝓷𝓰𝓪𝓷𝓶𝓾
     location: "Indonesia"
-    followers: 599656
-    engagement: 610
-    commentsToLikes: 0.005184
-    id: ck139w493netg0i19uphc4gey
-    verified: false
-    hashtags: "#tojourneys, #toj, #sumba, #shotoniphone"
-  - username: "aiditnoh"
-    fullname: >-
-      
-    location: "Indonesia"
-    followers: 192461
-    engagement: 210
-    commentsToLikes: 0.009876
-    id: ck5cecvjtkscq0i11dra2fnt4
-    verified: false
-    hashtags: "#seandainyakauada, #uzbekistan, #birkenstockmalaysiaofficial, #birkenstockclassic"
-  - username: "raooyz"
-    fullname: >-
-      Apid
-    location: "Indonesia"
-    followers: 320483
-    engagement: 864
-    commentsToLikes: 0.029316
-    id: ck1372m7i9gnp0i19knx7l2o0
-    verified: false
-    hashtags: "#siblinggoals, #musegeneration, #giveawayindonesia, #giveawayiphone"
-  - username: "dr.okypratamaa"
-    fullname: >-
-      dr. Oky Pratama Dipl. AAAM
-    location: "Indonesia"
-    followers: 540766
-    engagement: 195
-    commentsToLikes: 0.056646
-    id: ck5pvuv9sjqws0i11yfp1prmj
+    followers: 251003
+    engagement: 112
+    commentsToLikes: 0.014994
+    id: ckaoz6184kj0v0i7832z585hg
     verified: false
     hashtags: ""
 ---

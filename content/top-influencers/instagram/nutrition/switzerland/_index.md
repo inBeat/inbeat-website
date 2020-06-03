@@ -1,39 +1,59 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top nutrition Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #motivation #gopro #workout.
+  Find top nutrition Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #motivation #shooting #mountains.
 platform: Instagram
 profiles:
   - username: "zoe.vergedepre"
     fullname: >-
-      Zoé Vergé-Dépré
+      Zoé Vergé-Dépré
     location: "Switzerland"
-    followers: 7038
-    engagement: 1535
-    commentsToLikes: 0.008772
+    followers: 7256
+    engagement: 1479
+    commentsToLikes: 0.008411
     id: ck5q5yksnv5k60i11bs43tv3t
     verified: false
-    hashtags: "#byesummer, #dakine, #rockpaperscissors, #missiong"
+    hashtags: "#bleibgesund, #byesummer, #mandelb, #pilateshealth"
+  - username: "karinefahmyofficial"
+    fullname: >-
+      Karine Fahmy
+    location: "Switzerland"
+    followers: 28844
+    engagement: 128
+    commentsToLikes: 0.057809
+    id: ck15r4x0f660p0i19yb0oexh3
+    verified: false
+    hashtags: "#goals, #positivity, #lover, #italian"
+  - username: "melissa_ts_fitness"
+    fullname: >-
+      MELISSA
+    location: "Switzerland"
+    followers: 12424
+    engagement: 1191
+    commentsToLikes: 0.061545
+    id: ckaos0lhupm630i78m43ahae8
+    verified: false
+    hashtags: "#lgbt, #transgender, #transmodel, #transisbeautiful"
+  - username: "cyril_henry"
+    fullname: >-
+      Cyril Henry® 🇨🇭🇫🇷
+    location: "Switzerland"
+    followers: 126107
+    engagement: 123
+    commentsToLikes: 0.110628
+    id: ck5hnp10ro5bx0i11tf3z0otq
+    verified: false
+    hashtags: "#goals, #fitnessblogger, #vibez, #fitmotivation"
   - username: "andrea__schaerer"
     fullname: >-
       Andrea
     location: "Switzerland"
-    followers: 45796
-    engagement: 168
-    commentsToLikes: 0.041505
+    followers: 45402
+    engagement: 156
+    commentsToLikes: 0.043527
     id: ck6u3vjue04ua0j71gialera8
     verified: false
-    hashtags: "#pandemie, #bootycallworkout, #fitnessmotivation, #dessous"
-  - username: "kattytas"
-    fullname: >-
-      Katia Tassiou
-    location: "Switzerland"
-    followers: 5420
-    engagement: 759
-    commentsToLikes: 0.007962
-    id: ck0u67gis13y20i192hlfeti7
-    verified: false
-    hashtags: "#maastrichtnetherlands, #exploringmaastricht, #duskcolors, #tropicalclimate"
+    hashtags: "#teamwork, #sunset, #instafeed, #sundayinzurich"
   - username: "swiss_mountainrunner"
     fullname: >-
       🇨🇭 🇵 🇦 🇹 🇷 🇮 🇨 🇰    ||   2 6
@@ -44,64 +64,44 @@ profiles:
     id: ck5ckbeo5wj0m0i11p89aq3bl
     verified: false
     hashtags: "#snow, #leki, #instagram, #mountainsports"
-  - username: "ptuor"
+  - username: "lisamarilynh"
     fullname: >-
-      Patrick Tuor
+      LISA
     location: "Switzerland"
-    followers: 116570
-    engagement: 158
-    commentsToLikes: 0.012177
-    id: ck0tuo6637yyw0i19uvbne57i
+    followers: 7330
+    engagement: 1805
+    commentsToLikes: 0.051291
+    id: ckapbsp9h17a20i78knwkytik
     verified: false
-    hashtags: "#swisspocketknife, #iomintegroacasaconnetintegratori, #vaccineneedeedquick, #sistemaimmunitariopi"
+    hashtags: "#brainfood, #treatyourselfwell, #hairgrowth, #beauty"
+  - username: "lymifashion"
+    fullname: >-
+      FASHION, BEAUTY & LIFESTYLE
+    location: "Switzerland"
+    followers: 18350
+    engagement: 358
+    commentsToLikes: 0.223344
+    id: ck8t6uezqeq4v0j782fm5tmpr
+    verified: false
+    hashtags: "#photoportrait, #flowersprint, #chicfashion, #voyageencouple"
   - username: "tur.bine"
     fullname: >-
       Pilot.Bine✈️
     location: "Switzerland"
-    followers: 16267
-    engagement: 865
-    commentsToLikes: 0.057461
+    followers: 16171
+    engagement: 875
+    commentsToLikes: 0.053024
     id: ck0vwbm62sysi0i19rtscs14m
     verified: false
-    hashtags: "#womeninaviation, #firstofficer, #aviation, #healthylife"
-  - username: "aiman_assem"
+    hashtags: "#gifts, #springtime, #quotesaboutlife, #healthyfood"
+  - username: "happymegy"
     fullname: >-
-      Aiman Houssami, DE RUGGE 🏆⭐
+      𝘔𝘌𝘎𝘠
     location: "Switzerland"
-    followers: 15406
-    engagement: 408
-    commentsToLikes: 0.017490
-    id: ck5hpph4urr6o0i11k4frwq3l
+    followers: 9574
+    engagement: 633
+    commentsToLikes: 0.053907
+    id: ckap4i7417hkr0i78wcw80qpl
     verified: false
-    hashtags: "#buildmuscle, #beardedvillains, #beardsofinstagram, #repost"
-  - username: "jonnekoski"
-    fullname: >-
-      Jonne Koski
-    location: "Switzerland"
-    followers: 60707
-    engagement: 303
-    commentsToLikes: 0.007707
-    id: ck5hd308el8tg0i11sceleqfb
-    verified: true
-    hashtags: "#backtowork, #gotime, #canyoudoit, #livingroomcup"
-  - username: "lucaboller"
-    fullname: >-
-      Luca "LuBo" Boller
-    location: "Switzerland"
-    followers: 5916
-    engagement: 1141
-    commentsToLikes: 0.044551
-    id: ck0vyk5sy4emy0i197saoteyp
-    verified: false
-    hashtags: "#partners, #teamcihan, #lb77, #fifa20"
-  - username: "sabinaplevakova"
-    fullname: >-
-      Sabina Chovanec Plevakova
-    location: "Switzerland"
-    followers: 81572
-    engagement: 139
-    commentsToLikes: 0.008121
-    id: ck0vx5k4mx8yn0i19zs0pqccf
-    verified: true
-    hashtags: "#firstsnow, #training, #healthylifestyle, #fitnesscoach"
+    hashtags: "#perdredeskilos, #frenchalps, #cadeau, #soinscheveux"
 ---

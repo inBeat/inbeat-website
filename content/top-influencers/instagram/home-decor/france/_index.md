@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In France In 2020
 description: >-
-  Find top home decor Instagram influencers in France in 2020. Most popular hashtags: #homesweethome #confinement #lifestyle #ootd.
+  Find top home decor Instagram influencers in France in 2020. Most popular hashtags: #homedecor #home #decoration #deco.
 platform: Instagram
 profiles:
   - username: "maisouimanon_"
     fullname: >-
-      𝓜 𝓪 𝓷 𝓸 𝓷 《
+      𝓜 𝓪 𝓷 𝓸 𝓷
     location: "France"
-    followers: 30186
-    engagement: 500
-    commentsToLikes: 0.093630
+    followers: 30292
+    engagement: 512
+    commentsToLikes: 0.090768
     id: ck138cfqqfk1p0i19w900yfpr
     verified: false
-    hashtags: "#fashion, #mode, #breakfast, #mood"
-  - username: "palomette__"
-    fullname: >-
-      𝑷𝑨𝑳𝑶𝑴𝑨 ♡
-    location: "France"
-    followers: 8500
-    engagement: 614
-    commentsToLikes: 0.023748
-    id: ck14gq1vn6h5d0i19akdb3jho
-    verified: false
-    hashtags: "#stayathome, #momentdetente, #asos, #restezpositifs"
+    hashtags: "#fashionblogger, #bekapten, #loavies, #igtv"
   - username: "soodecoo"
     fullname: >-
       S͢o͢p͢h͢i͢e͢ - 28 y͢o͢ 🌸 Déco
     location: "France"
-    followers: 10166
-    engagement: 1134
-    commentsToLikes: 0.082042
+    followers: 13305
+    engagement: 602
+    commentsToLikes: 0.109071
     id: ck6tmstnl8gsy0j71i6ljum51
     verified: false
-    hashtags: "#bedroominspiration, #cherrytree, #jardin, #mylivingroom"
-  - username: "manonlaime"
+    hashtags: "#home, #naturaldecor, #girlstyle, #cuisine"
+  - username: "frenchstyle.agi"
     fullname: >-
-      ManonLaime
+      a g a 🕊
     location: "France"
-    followers: 107490
-    engagement: 1086
-    commentsToLikes: 0.084083
-    id: ck1362bnm4esl0i19gnrxd3e3
+    followers: 16922
+    engagement: 1052
+    commentsToLikes: 0.098000
+    id: ck5hjjrn7gr5m0i111cl5jhoo
     verified: false
-    hashtags: "#strongertogether, #prioritiesfirst, #pregnancy, #homedecor"
-  - username: "c_lapetitenantaise"
+    hashtags: "#silkblouse, #linenshorts, #matchapancakes, #simpleretro"
+  - username: "nordastyle"
     fullname: >-
-      CHLOÉ, LA FASHION NANTAISE
+      Norda
     location: "France"
-    followers: 3295
-    engagement: 2916
-    commentsToLikes: 0.429943
-    id: ck8tcbb0oyxfv0j78f22085wg
+    followers: 3365
+    engagement: 2459
+    commentsToLikes: 0.548077
+    id: ck6uhtve3b7z70j71m4jajxt8
     verified: false
-    hashtags: "#stylewomen, #chapeau, #tenuedujour, #cadeaux"
-  - username: "jeromeprun"
+    hashtags: "#pausegourmande, #ootdshare, #portrait, #kadrajimdan"
+  - username: "onlycarla_m"
     fullname: >-
-      Jerome
+      CARLA
     location: "France"
-    followers: 11339
-    engagement: 1114
-    commentsToLikes: 0.221318
-    id: ck5c21vilwdmp0i11hlk3mlo2
+    followers: 5827
+    engagement: 1457
+    commentsToLikes: 0.147696
+    id: ck6tz57pe7osy0j71gd89xj38
     verified: false
-    hashtags: "#officeoftheday, #classymen, #streetstyleinspo, #commeunlundi"
-  - username: "loufitlove"
+    hashtags: "#restonscheznous, #makeuptutorial, #style, #housedecor"
+  - username: "lifestyle_july"
     fullname: >-
-      Sandra Lou
+      J u l i e 🕊
     location: "France"
-    followers: 144141
-    engagement: 870
-    commentsToLikes: 0.030137
-    id: ck5zj51aggye20i1454n4fa66
+    followers: 20437
+    engagement: 824
+    commentsToLikes: 0.271972
+    id: ck0u9gvnd9sb30i1967nit2yi
     verified: false
-    hashtags: "#barbie, #joggeraddict, #babygirl, #geek"
-  - username: "simplyzar"
+    hashtags: "#housedecor, #mamaison, #trybike, #petitefille"
+  - username: "sophiamssi"
     fullname: >-
-      Simplyzara/ Life & style blog
+      Sophia Msi
     location: "France"
-    followers: 6370
-    engagement: 1087
-    commentsToLikes: 0.082995
-    id: ck55myiy353xn0i117re45mzq
+    followers: 2352
+    engagement: 2292
+    commentsToLikes: 0.346409
+    id: ckap7cxb5jivg0i78x8w0s7zs
     verified: false
-    hashtags: "#journeedelafemme, #talika, #frenchbloggers, #naturalskincareproducts"
-  - username: "nolwenn_vigouroux"
+    hashtags: "#myminimalhome, #concoursinsta, #outfittoday, #view"
+  - username: "blondie_rio"
     fullname: >-
-      nolwenn_vigouroux
+      𝑆𝐴𝑁𝐷𝑅𝐴 ♡ Coach Beauté 🦋
     location: "France"
-    followers: 36225
-    engagement: 538
-    commentsToLikes: 0.135735
-    id: ck15tij0yi92i0i19ahffbpfv
+    followers: 8531
+    engagement: 1251
+    commentsToLikes: 0.206111
+    id: ck6tlt4d26la10j71148fyril
     verified: false
-    hashtags: "#photography, #vacancesausoleil, #babyonboard, #babygirl"
-  - username: "angiiie_aloha"
+    hashtags: "#beautysecret, #springoutfit, #weekendmood, #perfumelovers"
+  - username: "le_petit_marius"
     fullname: >-
-      ↞ ♡ by A N G I E ♡ ↠
+      ❃ ᎯӀєχαи∂яα ❃
     location: "France"
-    followers: 18222
-    engagement: 639
-    commentsToLikes: 0.115142
-    id: ck14ky5oorwsv0i19zgsy9vz1
+    followers: 25584
+    engagement: 656
+    commentsToLikes: 0.197050
+    id: ckap8rgd6pjka0i78znw034dh
     verified: false
-    hashtags: "#blondesandcookies, #sheexplores, #style, #cosy"
+    hashtags: "#motherhood, #secondpregnant, #homeinspo, #familyfirst"
+  - username: "momitta_"
+    fullname: >-
+      ❈ Florie
+    location: "France"
+    followers: 10259
+    engagement: 1168
+    commentsToLikes: 0.089200
+    id: ck8t9fz7fny1x0j7855jd7cnb
+    verified: false
+    hashtags: "#pregnant, #bigbrother, #lilikim, #concoursinstagram"
 ---

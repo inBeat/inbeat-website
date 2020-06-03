@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Milan In 2020
 description: >-
-  Find top health Instagram influencers in Milan in 2020. Most popular hashtags: #love #fashion #iorestoacasa #italy.
+  Find top health Instagram influencers in Milan in 2020. Most popular hashtags: #health #staystrong #italia #outfitoftheday.
 platform: Instagram
 profiles:
-  - username: "harlysbecerra"
+  - username: "animapop"
     fullname: >-
-      Harlys Becerra
+      Christian Monaco
     location: "Italy"
-    followers: 220660
-    engagement: 451
-    commentsToLikes: 0.024792
-    id: ck5zqb42aua4j0i1467l64s49
-    verified: true
-    hashtags: "#madrid, #valbuenavisavis, #challengingtimes, #actorslife"
-  - username: "flavialauramanzoli"
-    fullname: >-
-      Flavia Laura Manzoli
-    location: "Italy"
-    followers: 18189
-    engagement: 374
-    commentsToLikes: 0.121156
-    id: ck135occu2ew60i19irooo0rj
+    followers: 15099
+    engagement: 864
+    commentsToLikes: 0.028631
+    id: ck6u4zcc06o5d0j7193ptsjkz
     verified: false
-    hashtags: "#abeti, #pixibeautybox, #pixiprettiesbox, #shoppingaddict"
-  - username: "alvarocasavechia"
+    hashtags: "#lucalaurenti, #svitati, #microphone, #ficodindia"
+  - username: "valerio_decarolis"
     fullname: >-
-      Alvaro casavechia
+      Valerio De Carolis
     location: "Italy"
-    followers: 18511
-    engagement: 432
-    commentsToLikes: 0.057096
-    id: ck5zv5pxs3mw20i14tqr5fiej
+    followers: 65160
+    engagement: 470
+    commentsToLikes: 0.071865
+    id: ck5c236uiwgle0i11esyg3mrx
     verified: false
-    hashtags: "#fashionphotographer, #fineartphotography, #springsummer2020, #woellerphoto"
+    hashtags: "#mare, #shoes, #hotel, #mfw2020"
   - username: "loredanasea"
     fullname: >-
       Loredana
     location: "Italy"
-    followers: 20191
-    engagement: 890
-    commentsToLikes: 0.118268
+    followers: 20869
+    engagement: 842
+    commentsToLikes: 0.127548
     id: ck5hems0ptq0k0i114frybjhi
     verified: false
-    hashtags: "#nevergiveup, #nolimits, #loveyou, #missyou"
-  - username: "instaflaviaso"
+    hashtags: "#america, #travelblogger, #soul, #pool"
+  - username: "aurilion_"
     fullname: >-
-      Flavia Sodano
+      𝓐𝓾𝓻𝓸𝓻𝓪 🐆
     location: "Italy"
-    followers: 55100
-    engagement: 326
-    commentsToLikes: 0.071161
-    id: ck8t5wt06bi6u0j78rmruzfe8
+    followers: 14308
+    engagement: 899
+    commentsToLikes: 0.168785
+    id: ckap5am87awas0i786flt3d6h
     verified: false
-    hashtags: "#quarantinelife, #training, #walking, #makeup"
-  - username: "laurabarthofficial"
+    hashtags: "#quarantena, #nomakeupdays, #fashionweek, #sanktmoritz"
+  - username: "alvarocasavechia"
     fullname: >-
-      LAURA BARTH
+      Alvaro casavechia
     location: "Italy"
-    followers: 179915
-    engagement: 329
-    commentsToLikes: 0.032777
-    id: ck5c14nyougg00i11ak68jtal
-    verified: true
-    hashtags: "#longhairdontcare, #iosonoroma, #christmas, #comfychic"
-  - username: "gianlucadisotto"
-    fullname: >-
-      💈GIANLUCA💈
-    location: "Italy"
-    followers: 28150
-    engagement: 184
-    commentsToLikes: 0.046172
-    id: ck6tzzdugcqvr0j719y5t9zl5
+    followers: 18466
+    engagement: 412
+    commentsToLikes: 0.058844
+    id: ck5zv5pxs3mw20i14tqr5fiej
     verified: false
-    hashtags: "#mensfashion, #fashion, #rock, #festival"
-  - username: "samara.wierer"
-    fullname: >-
-      Samara🦋
-    location: "Italy"
-    followers: 19013
-    engagement: 312
-    commentsToLikes: 0.012141
-    id: ck6trw9ct1gib0j713oncv91w
-    verified: false
-    hashtags: "#clean, #day, #quoteoftheday, #wonderland"
+    hashtags: "#fuck, #towel, #deceleration, #fashionweek"
   - username: "silvia.fascians"
     fullname: >-
       Silvia Fascians 💪🏽🌙
     location: "Italy"
-    followers: 168955
-    engagement: 375
-    commentsToLikes: 0.013552
+    followers: 175109
+    engagement: 482
+    commentsToLikes: 0.013050
     id: ck6u5wjczc5ws0j71b0298dar
     verified: true
-    hashtags: "#addominali, #iostoacasaemialleno, #travel, #senzaglutine"
-  - username: "jimmy.spagnesi"
+    hashtags: "#vegan, #futbess, #memories, #biceps"
+  - username: "sonia_dedo"
     fullname: >-
-      Gianmarco Spagnesi
+      Sonia Barreca💎👑
     location: "Italy"
-    followers: 7587
-    engagement: 689
-    commentsToLikes: 0.008197
-    id: ck6u5x1jcc8ws0j71xre41ie1
+    followers: 20434
+    engagement: 919
+    commentsToLikes: 0.032035
+    id: ck8wd0kj4d8xs0j78f76looq7
     verified: false
-    hashtags: "#choco, #neverstopexploring, #record, #workout"
+    hashtags: "#colorful, #eyes, #turingirls, #lady"
+  - username: "instaflaviaso"
+    fullname: >-
+      Flavia Sodano
+    location: "Italy"
+    followers: 54032
+    engagement: 362
+    commentsToLikes: 0.068373
+    id: ck8t5wt06bi6u0j78rmruzfe8
+    verified: false
+    hashtags: "#keepsmiling, #lastshooting, #streetsgrammer, #fitwoman"
+  - username: "justineelizabethmattera"
+    fullname: >-
+      Justine Mattera
+    location: "Italy"
+    followers: 417042
+    engagement: 242
+    commentsToLikes: 0.031080
+    id: ck0vxgjpuysbn0i19jgbvzjvk
+    verified: true
+    hashtags: "#coincidance, #photoofday, #water, #beautiful"
+  - username: "samara.wierer"
+    fullname: >-
+      Samara🍉
+    location: "Italy"
+    followers: 18756
+    engagement: 364
+    commentsToLikes: 0.012072
+    id: ck6trw9ct1gib0j713oncv91w
+    verified: false
+    hashtags: "#bright, #sweaterweather, #day13, #bags"
 ---

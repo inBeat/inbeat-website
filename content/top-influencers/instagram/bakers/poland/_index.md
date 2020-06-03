@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Poland In 2020
 description: >-
-  Find top bakers Instagram influencers in Poland in 2020. Most popular hashtags: #zosta #cake #wielkanoc #ciasto.
+  Find top bakers Instagram influencers in Poland in 2020. Most popular hashtags: #zosta #czekolada #rabarbar #bakersgonnabake.
 platform: Instagram
 profiles:
+  - username: "barbarajustblog"
+    fullname: >-
+      Basia Just
+    location: "Poland"
+    followers: 35366
+    engagement: 863
+    commentsToLikes: 0.061958
+    id: ck6totpl7g2590j71lxzfzuet
+    verified: false
+    hashtags: "#glutenfreecookies, #vegansnacks, #darkchocolate, #healthycookie"
   - username: "anastazja.siminska"
     fullname: >-
       Anastazja Simińska
     location: "Poland"
-    followers: 2425
-    engagement: 1780
-    commentsToLikes: 0.028093
+    followers: 2541
+    engagement: 1749
+    commentsToLikes: 0.027294
     id: ck5hh1hqf5whq0i110tdj4y16
     verified: false
-    hashtags: "#2020, #jeszczesi, #viva, #actress"
-  - username: "lydianna91"
+    hashtags: "#rodzinaaddamsow, #yoga, #cieszsiezyciem, #familytime"
+  - username: "bezokracja"
     fullname: >-
-      Lidia Bajerska
+      Małgorzata Filipczak
     location: "Poland"
-    followers: 9185
-    engagement: 1060
-    commentsToLikes: 0.314014
-    id: ck15qirgi31no0i19aim26s0l
+    followers: 5746
+    engagement: 514
+    commentsToLikes: 0.035967
+    id: ckaoron7ko4zi0i78972qulfv
     verified: false
-    hashtags: "#interiorstyling, #cosmetics, #springvibes, #sweetmoments"
-  - username: "ostatnie_podrygi_50plus"
+    hashtags: "#familyvibes, #lemon, #springflowers, #foodartist"
+  - username: "dominikamazurek"
     fullname: >-
-      💟Elwira
+      Dominika | Feministan
     location: "Poland"
-    followers: 7515
-    engagement: 1068
-    commentsToLikes: 0.135011
-    id: ck0w482nux9a10i19r0ij8ek9
+    followers: 8231
+    engagement: 931
+    commentsToLikes: 0.025750
+    id: ck0vz8tpp7vr20i19qb9p1l1t
     verified: false
-    hashtags: "#myhome, #stret, #50andfabulos, #kwiatys"
+    hashtags: "#przemocdomowa, #lubelskie, #jesienneklimaty, #jesien"
   - username: "land_mal"
     fullname: >-
       Malgosia L.
     location: "Poland"
-    followers: 39642
-    engagement: 339
-    commentsToLikes: 0.258890
+    followers: 43814
+    engagement: 362
+    commentsToLikes: 0.213503
     id: ck5zt7u38zwez0i14n5kq4p4q
     verified: false
-    hashtags: "#feedfeed, #thebakefeed, #fromscratch, #yummy"
-  - username: "rozkoszny"
-    fullname: >-
-      Michał Korkosz
-    location: "Poland"
-    followers: 33037
-    engagement: 535
-    commentsToLikes: 0.041105
-    id: ck8t7f7f9gkv10j78898mov3v
-    verified: true
-    hashtags: "#tidalpolska, #applepie, #pasta, #homecooked"
+    hashtags: "#tiramisu, #chocolatelover, #styleonmytable, #ryba"
   - username: "obiaddlataty"
     fullname: >-
-      Drożdżówka
+      obiaddlataty
     location: "Poland"
-    followers: 140744
-    engagement: 337
-    commentsToLikes: 0.035083
+    followers: 153733
+    engagement: 433
+    commentsToLikes: 0.033132
     id: ck137r30ocyib0i19jk2kyc7v
     verified: false
-    hashtags: "#kapustka, #na, #twarozek, #gotowanie"
-  - username: "s_w_e_e_t_empire"
+    hashtags: "#foodlove, #jarzynowa, #rollsy, #kurczak"
+  - username: "tysiagotuje.pl"
     fullname: >-
-      s w e e t   •   e m p i r e
+      JUSTYNA Food/Lifestyle/Poznań
     location: "Poland"
-    followers: 2004
-    engagement: 2409
-    commentsToLikes: 0.060451
-    id: ck8t9iuuco9ao0j78ia4ts45y
+    followers: 83819
+    engagement: 285
+    commentsToLikes: 0.031669
+    id: ck8t4563q5jn00j78nm7px427
     verified: false
-    hashtags: "#spring, #topcake, #cakedecorater, #sweetart"
-  - username: "nakarmiona"
+    hashtags: "#rabarbar, #zdroweodz, #conaobiad, #dzien"
+  - username: "miskazbliska"
     fullname: >-
-      Basia Starecka
+      Ania | Miska z bliska
     location: "Poland"
-    followers: 17249
-    engagement: 277
-    commentsToLikes: 0.067770
-    id: ck5hq3ks2sfpk0i11buconyvo
+    followers: 6079
+    engagement: 637
+    commentsToLikes: 0.061648
+    id: ck8t5dbbw9qeh0j789cjzq2nq
     verified: false
-    hashtags: "#warsztaty, #holly, #fasolazpomidorami, #meetthewedgies"
-  - username: "nietylkopastapl"
+    hashtags: "#cytryna, #eatwellfeelwell, #orangesofa, #wegetaria"
+  - username: "cashxsweetie"
     fullname: >-
-      Ania Pytkowska
+      
     location: "Poland"
-    followers: 34787
-    engagement: 315
-    commentsToLikes: 0.035365
-    id: ck8t7dwzegg670j78dckz797s
+    followers: 2980
+    engagement: 1053
+    commentsToLikes: 0.060716
+    id: ckap57zmlal2w0i78kd4j3bdd
     verified: false
-    hashtags: "#chlebnazakwasie, #dro, #ilovefood, #ad"
-  - username: "paulina_kolondra"
+    hashtags: "#mavarmy, #bakerarmy, #bakersquad, #maverickbaker"
+  - username: "aga.trawinska"
     fullname: >-
-      paulina_kolondra
+      jedzonko i podróże
     location: "Poland"
-    followers: 68864
-    engagement: 340
-    commentsToLikes: 0.019286
-    id: ck14ghyak5bc40i19htv4r2jg
+    followers: 10981
+    engagement: 487
+    commentsToLikes: 0.065643
+    id: ck13b9scpudz90i19n3jiiash
     verified: false
-    hashtags: "#swietazapasem, #porridgelover, #dessertaddict, #piatnica"
+    hashtags: "#premiera, #quickmeals, #ryba, #petronastowers"
 ---

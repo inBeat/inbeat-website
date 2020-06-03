@@ -1,29 +1,99 @@
 ---
 title: Top 10 Gardening Instagram Influencers In New York In 2020
 description: >-
-  Find top gardening Instagram influencers in New York in 2020. Most popular hashtags: #love #gardening #travel #derrycity.
+  Find top gardening Instagram influencers in New York in 2020. Most popular hashtags: #gardening #mothersday #newyork #plantlover.
 platform: Instagram
 profiles:
-  - username: "paulcelona"
+  - username: "sustainabledish"
     fullname: >-
-      Paul Brogna
+      Diana Rodgers, RD
     location: "United States"
-    followers: 45832
-    engagement: 240
-    commentsToLikes: 0.018186
-    id: ck55kwmdd09f80i11wrf6tp0e
+    followers: 73908
+    engagement: 97
+    commentsToLikes: 0.049802
+    id: ck0tzttcjrm1i0i19kb1vn1fl
     verified: false
-    hashtags: "#thekarpelgroup, #swagaf, #modernmasc, #familyfirst"
+    hashtags: "#beyondorganic, #foodlabel, #usabeef, #soilhealthmatters"
+  - username: "cactusnopal"
+    fullname: >-
+      𝗖𝗮𝗰𝘁𝘂𝘀 🌵 [plants nature earth]
+    location: "United States"
+    followers: 54781
+    engagement: 94
+    commentsToLikes: 0.021519
+    id: ck13b6t2atymz0i19zltlt3ag
+    verified: false
+    hashtags: "#succulentgarden, #plantstyle, #newmexico, #motivation"
+  - username: "powerfulblackstories"
+    fullname: >-
+      Lemeria Dueñas/Greg Dueñas
+    location: "United States"
+    followers: 64384
+    engagement: 167
+    commentsToLikes: 0.037889
+    id: ck0u2mp3s0du20i19f9qvg6im
+    verified: false
+    hashtags: "#betty, #learn, #fool, #boys"
+  - username: "caitlin_eats_alot"
+    fullname: >-
+      Caitlin Eats The East Coast
+    location: "United States"
+    followers: 10250
+    engagement: 979
+    commentsToLikes: 0.411810
+    id: ck5cbl3vqfng60i11ese4n0ub
+    verified: false
+    hashtags: "#phlfoodies, #bakedgoods, #thinkpink, #instagramfood"
+  - username: "hudsonvalleymag"
+    fullname: >-
+      Hudson Valley Magazine
+    location: "United States"
+    followers: 63522
+    engagement: 126
+    commentsToLikes: 0.016266
+    id: ck0tx2rtzhnzs0i19wqs5rbzs
+    verified: false
+    hashtags: "#beautiful, #travelstoke, #oscawana, #skybrilliance"
+  - username: "baileeehenderson"
+    fullname: >-
+      𝗕𝗮𝗶𝗹𝗲𝗲
+    location: "United States"
+    followers: 21201
+    engagement: 218
+    commentsToLikes: 0.038493
+    id: ck5hkcvwni79y0i11ulv8uxyp
+    verified: false
+    hashtags: "#maybelline, #afternoon, #tiktok, #rain"
   - username: "susanbranchauthor"
     fullname: >-
       Susan Branch
     location: "United States"
-    followers: 18981
-    engagement: 971
-    commentsToLikes: 0.040008
+    followers: 19665
+    engagement: 1071
+    commentsToLikes: 0.049347
     id: ck1389sscf72z0i192iuuxwfu
     verified: false
-    hashtags: "#seasons, #heartofthehome, #shadow, #thegoodhandwriting"
+    hashtags: "#cake, #healthcare, #thegoodhandwriting, #goinginstyle"
+  - username: "vivi_kiki_127"
+    fullname: >-
+      Verónica💃🏻Kiki🐶
+    location: "United States"
+    followers: 2145
+    engagement: 2332
+    commentsToLikes: 0.096287
+    id: ck9h9sosy9t980j78f6cqjfbp
+    verified: false
+    hashtags: "#longislandny, #inspired, #gardening, #travel"
+  - username: "anettemarweld"
+    fullname: >-
+      A N E T T E   M A R W E L D
+    location: "United States"
+    followers: 5558
+    engagement: 461
+    commentsToLikes: 0.032766
+    id: ck0vzusw1b05t0i19cz9e5uxo
+    verified: false
+    hashtags: "#contemplation, #roses, #nature, #pacificocean"
   - username: "mypetitegarden"
     fullname: >-
       STACY. NYC PLANT 🌱 LADY.
@@ -34,74 +104,4 @@ profiles:
     id: ck8syl8wbl5uw0j78dotdbilc
     verified: false
     hashtags: "#ceropegialinearis, #hoyaplants, #hoyamacrophyllavariegata, #urbanjungle"
-  - username: "ourhomedays"
-    fullname: >-
-      Leandra 🌿 Our Home Days
-    location: "United States"
-    followers: 8776
-    engagement: 463
-    commentsToLikes: 0.131247
-    id: ck15pj1auy4pc0i19ybqvi7my
-    verified: false
-    hashtags: "#socialdistanting, #coronahomeschooling, #collaborationdream, #naturallightdiningroom"
-  - username: "kellieisthebest"
-    fullname: >-
-      KΣᄂᄂZ
-    location: "United States"
-    followers: 15461
-    engagement: 260
-    commentsToLikes: 0.095576
-    id: ck6tnnx60a7zo0j71ighgxrzv
-    verified: false
-    hashtags: "#fullbasket, #beautiful, #modelingagency, #strongmomma"
-  - username: "alliembutler"
-    fullname: >-
-      Allie Butler
-    location: "United States"
-    followers: 162485
-    engagement: 331
-    commentsToLikes: 0.016088
-    id: ck13d56tz3qw30i19xjjo8ja1
-    verified: false
-    hashtags: "#goodtimes, #florida, #quietkat, #stpattysday"
-  - username: "keithharkin"
-    fullname: >-
-      Keith Harkin
-    location: "United States"
-    followers: 23943
-    engagement: 359
-    commentsToLikes: 0.062112
-    id: ck5ch7dl1q8el0i11vipqhgv6
-    verified: true
-    hashtags: "#ireland, #derrycity, #studiolife, #musicpodcast"
-  - username: "womensbeercollective"
-    fullname: >-
-      Women 🍺 Beer 🍺 Shop 🍺 Carlsbad
-    location: "United States"
-    followers: 19264
-    engagement: 297
-    commentsToLikes: 0.146948
-    id: ck5zs9l4fy2rd0i14nfbtn8s6
-    verified: false
-    hashtags: "#lagers, #georgiabeer, #plantbased, #bandanastyle"
-  - username: "mesa_nailspa"
-    fullname: >-
-      Mesa Nails & Spa
-    location: "United States"
-    followers: 5632
-    engagement: 159
-    commentsToLikes: 0.030112
-    id: ck135zm1440z00i193pjb4v7r
-    verified: false
-    hashtags: "#nailsoftheday, #nailpromagazine, #sanantonioriverwalk, #nailstyle"
-  - username: "soul.planet"
-    fullname: >-
-      Tourism • Nature
-    location: "United States"
-    followers: 702848
-    engagement: 497
-    commentsToLikes: 0.008941
-    id: ck0tuyuzm99vf0i19mqu0ch4n
-    verified: false
-    hashtags: "#adventurethatislife, #travelguide, #barcelona, #park"
 ---

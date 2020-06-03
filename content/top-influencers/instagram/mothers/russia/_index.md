@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Russia In 2020
 description: >-
-  Find top mothers Instagram influencers in Russia in 2020. Most popular hashtags: #stayhome #instafashion #love #beautiful.
+  Find top mothers Instagram influencers in Russia in 2020. Most popular hashtags: #beauty #love #cottagegarden #sofiafreakdisco.
 platform: Instagram
 profiles:
-  - username: "girl_with_beagle"
+  - username: "sofia_markova"
     fullname: >-
-      ANASTASIA & THE BEAGLES
+      💄MAKEUP •  SFX  •  BEAUTY BLOG
     location: "Russia"
-    followers: 19652
-    engagement: 920
-    commentsToLikes: 0.048060
-    id: ck14i59k0dpdk0i19yvhux0db
+    followers: 29527
+    engagement: 711
+    commentsToLikes: 0.040817
+    id: ck5zjrxlji5760i142m344tss
     verified: false
-    hashtags: "#limonevitaricottaromana, #stayhome, #besafe"
-  - username: "anna_and_alena"
-    fullname: >-
-      Аня❤️Алёна
-    location: "Russia"
-    followers: 82625
-    engagement: 371
-    commentsToLikes: 0.034891
-    id: ck14hfswpa3x80i197ns3y668
-    verified: false
-    hashtags: "#italy, #staysafe, #stayhealthy, #modellife"
-  - username: "victoria_solovyeva"
-    fullname: >-
-      Because I'm happy❤️👨‍👩‍👦❤️
-    location: "Russia"
-    followers: 205553
-    engagement: 348
-    commentsToLikes: 0.028074
-    id: ck5c42xoq0jfb0i112rzo9wh0
-    verified: false
-    hashtags: "#outfits, #styleoftheday, #styleblogger, #fashionstylist"
+    hashtags: "#elianface, #unovisionchallenge, #littlebig, #uno"
   - username: "dianadyakonova09"
     fullname: >-
       DIDA
     location: "Russia"
-    followers: 34492
-    engagement: 219
-    commentsToLikes: 0.074895
+    followers: 33916
+    engagement: 227
+    commentsToLikes: 0.072541
     id: ck8t5rvnqb0yf0j783atvfreg
     verified: false
-    hashtags: "#kidsactress, #dianadyakonova, #childphoto, #kidsblogger"
-  - username: "diana_enakaeva"
+    hashtags: "#jrmodelmag, #love, #repost, #amazinghair"
+  - username: "m_i_s_s_15"
     fullname: >-
-      Diana Enakaeva🌝
+      Актриса🎬Алиса
     location: "Russia"
-    followers: 18790
-    engagement: 1163
-    commentsToLikes: 0.015360
-    id: ck6tpdjjej8zj0j71oqf78ni3
+    followers: 6332
+    engagement: 1262
+    commentsToLikes: 0.042576
+    id: ck6ubpgi7axkt0j712a5bkfpr
     verified: false
-    hashtags: "#saintpetersburg, #13, #horsephotographer, #fotografia"
-  - username: "margaritka_foto"
+    hashtags: "#challenge, #smilechallenge"
+  - username: "nataliamaksimovala"
     fullname: >-
-      детский фотограф Москва
+      Natalia Maksimova
     location: "Russia"
-    followers: 25913
-    engagement: 497
-    commentsToLikes: 0.028881
-    id: ck5zvi2wt4a1v0i14d4twe9c3
+    followers: 15091
+    engagement: 349
+    commentsToLikes: 0.119155
+    id: ck8sxksykhrgh0j781ebdcyd0
     verified: false
     hashtags: ""
+  - username: "alexandratolstoy"
+    fullname: >-
+      ALEXANDRA TOLSTOY
+    location: "Russia"
+    followers: 53807
+    engagement: 381
+    commentsToLikes: 0.034330
+    id: ck14kbzwsorp00i19owk7bqcl
+    verified: true
+    hashtags: "#solaceinnature, #fromrussiawithlove, #naughtybutnice, #thechildrencametoo"
+  - username: "perchinka.life"
+    fullname: >-
+      Лина - Ведьма🧹 с тюнингом
+    location: "Russia"
+    followers: 523040
+    engagement: 134
+    commentsToLikes: 0.072885
+    id: ck6tzr3bqbcr70j7192o8w949
+    verified: false
+    hashtags: "#beauty, #mothercare, #mnogosisi, #fitomucil"
+  - username: "vikakyk"
+    fullname: >-
+      Виктория
+    location: "Russia"
+    followers: 4687
+    engagement: 1724
+    commentsToLikes: 0.072042
+    id: ckap8zeiyqk5a0i78p198f2gm
+    verified: false
+    hashtags: "#topmodelposingchallenge, #newfacetopministarmodels, #topministarmodels"
   - username: "masha_polovinkina"
     fullname: >-
       
     location: "Russia"
-    followers: 44783
-    engagement: 152
-    commentsToLikes: 0.101458
+    followers: 44821
+    engagement: 140
+    commentsToLikes: 0.100708
     id: ck14kkdwfpxvt0i19niezstee
     verified: false
-    hashtags: "#nashiargan, #nashiofficial"
-  - username: "vulichenko"
-    fullname: >-
-      Екатерина Вуличенко
-    location: "Russia"
-    followers: 482275
-    engagement: 115
-    commentsToLikes: 0.032429
-    id: ck0w54x291x1o0i194fg9z6hs
-    verified: true
-    hashtags: "#stayhome"
+    hashtags: "#keunestyle"
   - username: "irigordeeva"
     fullname: >-
       Irina Gordeeva
     location: "Russia"
-    followers: 32046
-    engagement: 116
-    commentsToLikes: 0.260455
+    followers: 31895
+    engagement: 114
+    commentsToLikes: 0.239159
     id: ck5pvlvgciie70i11vknx6yqp
     verified: false
-    hashtags: "#helloween, #irinagordeeva, #love, #irinagordeeva"
-  - username: "mary_shum_"
+    hashtags: "#lerede, #helloween, #irinagordeeva, #love"
+  - username: "supergelik"
     fullname: >-
-      Мэри Шум / Mary Shum
+      Angelina Sheshenina
     location: "Russia"
-    followers: 451341
-    engagement: 235
-    commentsToLikes: 0.034699
-    id: ck0w0d467dkzy0i19y6sgpz1i
-    verified: true
-    hashtags: "#maryshum, #maldives, #family, #couplegoals"
+    followers: 10465
+    engagement: 767
+    commentsToLikes: 0.037351
+    id: ck0w0dd82dmgj0i19yzcuq6qh
+    verified: false
+    hashtags: "#35mm"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Berlin In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #tattoo #tattooartist #illustration.
+  Find top tattoo-artists Instagram influencers in Berlin in 2020. Most popular hashtags: #berlintattoo #tattooartist #tattooart #portraittattoo.
 platform: Instagram
 profiles:
+  - username: "albareyk"
+    fullname: >-
+      Tattoo Artist Berlin ✨
+    location: "Germany"
+    followers: 16694
+    engagement: 217
+    commentsToLikes: 0.007619
+    id: ckap1qx8ovqgw0i78zprhu99a
+    verified: false
+    hashtags: "#artistberlin, #smalltattoos, #abstractart, #healedtattoo"
+  - username: "koray_karagozler"
+    fullname: >-
+      KORAY • KARAGÖZLER
+    location: "Germany"
+    followers: 196259
+    engagement: 276
+    commentsToLikes: 0.022031
+    id: ck0u1vnmoy5q40i19ff777usb
+    verified: false
+    hashtags: "#abstractworld, #star, #universe, #drawings"
   - username: "dotstolines"
     fullname: >-
       Chaim Machlev
     location: "Germany"
-    followers: 511795
-    engagement: 108
-    commentsToLikes: 0.008328
+    followers: 509573
+    engagement: 82
+    commentsToLikes: 0.008921
     id: ck6tp4lyzht040j71iarm4dm9
     verified: true
-    hashtags: "#collaboration, #ashtonkutcher, #dotstolines, #lineart"
-  - username: "guendouglas"
+    hashtags: "#filipleu, #artwork, #antique, #art"
+  - username: "tattoo_hasso"
     fullname: >-
-      Guen Douglas
+      TATTOO ARTIST FROM BERLIN📍
     location: "Germany"
-    followers: 74942
-    engagement: 197
-    commentsToLikes: 0.036363
-    id: ck6tk3xu13yie0j71svgnzuc5
+    followers: 22161
+    engagement: 465
+    commentsToLikes: 0.022446
+    id: ck5bzpxfbrmex0i11a3j57dfw
     verified: false
-    hashtags: "#stayathome, #tattoodoambassador, #biker, #tattoolife"
-  - username: "verenafrye"
-    fullname: >-
-      Verena Frye
-    location: "Germany"
-    followers: 2500
-    engagement: 822
-    commentsToLikes: 0.143959
-    id: ck5hkaicji2s30i115s42apok
-    verified: false
-    hashtags: "#filmisalive, #pentaxspotmatic, #berlinkreuzberg, #bakerboyhat"
+    hashtags: "#oldschooltattoo, #tigertattoos, #potreressam, #tattooart"
   - username: "gullsahkaraca"
     fullname: >-
       •Gülşah KARACA•
     location: "Germany"
-    followers: 60261
-    engagement: 242
-    commentsToLikes: 0.019832
+    followers: 60319
+    engagement: 245
+    commentsToLikes: 0.022965
     id: ck6ubk32ta1ny0j71yt21h3b4
     verified: false
-    hashtags: "#january, #home, #ihavethisthingwithfloors, #skyporn"
-  - username: "suhai_tattoo"
+    hashtags: "#brussels, #motiongraphic, #olive, #child"
+  - username: "gymgamergirl"
     fullname: >-
-      Sūhai Tattoo Artist
+      GYMGAMERGIRL🎰
     location: "Germany"
-    followers: 10027
-    engagement: 469
-    commentsToLikes: 0.022406
-    id: ck5qbqx08myun0i11dm2wu7u4
+    followers: 339666
+    engagement: 515
+    commentsToLikes: 0.012989
+    id: ck6u72o85j4ff0j719ob8d6ka
     verified: false
-    hashtags: "#laondinadeplata, #tattoomontevideo, #firetattoo, #handmade"
-  - username: "kubec_wolftown"
-    fullname: >-
-      WolfTownTattooParlor
-    location: "Germany"
-    followers: 27746
-    engagement: 360
-    commentsToLikes: 0.028980
-    id: ck5caanord1m40i11vqy8tufk
-    verified: false
-    hashtags: "#tattooart, #taot, #tattooworkers, #tattoolife"
-  - username: "konstantin_siegel"
-    fullname: >-
-      Konstantin Siegel
-    location: "Germany"
-    followers: 22702
-    engagement: 509
-    commentsToLikes: 0.028279
-    id: ck5hko9amisco0i11k4o4gobn
-    verified: false
-    hashtags: "#flower, #botanicaltattoo, #culm, #botanicalillustration"
+    hashtags: "#twitchgermany, #tattedup, #nasty, #gungirl"
   - username: "unclea"
     fullname: >-
       unclea
     location: "Germany"
-    followers: 47271
-    engagement: 253
-    commentsToLikes: 0.023390
+    followers: 47233
+    engagement: 251
+    commentsToLikes: 0.023562
     id: ck134pkj7xkzc0i19zcpjpszz
     verified: false
-    hashtags: "#conspiracyinctattoo, #neotrad, #neotraditionaltattooer, #snaketattoo"
-  - username: "ademaras_arts"
+    hashtags: "#motorcycle, #blackmetalgirl, #witchtattoo, #harleydavidson"
+  - username: "pitoseturi"
     fullname: >-
-      Welcome to my sketchbook 📒✍🏻
+      Stfvelvet
     location: "Germany"
-    followers: 22247
-    engagement: 1544
-    commentsToLikes: 0.007087
-    id: ck13aksedquz90i19n67w3d4s
+    followers: 38945
+    engagement: 451
+    commentsToLikes: 0.004854
+    id: ck5c45tap0nve0i11bp6v7rmn
     verified: false
-    hashtags: "#venomtattoo, #decidueye, #dragonite, #electivire"
-  - username: "richykoll"
+    hashtags: "#snakeprint, #black, #dragon, #tattlife"
+  - username: "demir.ink"
     fullname: >-
-      creative mind
+      Fahrettin Demir
     location: "Germany"
-    followers: 55652
-    engagement: 134
-    commentsToLikes: 0.007125
-    id: ck0u684fr16wq0i19yq7wzs0c
+    followers: 31862
+    engagement: 369
+    commentsToLikes: 0.037016
+    id: ck6tobpxzd64l0j71uvfavs8f
     verified: false
-    hashtags: "#tattooed, #art, #inktattoo, #photoshoot"
+    hashtags: "#batman, #ink, #portredovme, #catwoman"
+  - username: "lilyfatbird"
+    fullname: >-
+      Lily Darcy Gallup 🧪🦠
+    location: "Germany"
+    followers: 2835
+    engagement: 1538
+    commentsToLikes: 0.035222
+    id: ck15szzmofoaq0i19a6jofiek
+    verified: false
+    hashtags: "#robertsmith, #joker, #complete, #kimono"
 ---

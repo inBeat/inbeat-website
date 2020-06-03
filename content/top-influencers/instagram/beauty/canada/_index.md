@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Canada In 2020
 description: >-
-  Find top beauty Instagram influencers in Canada in 2020. Most popular hashtags: #dailyhivestyle #casualstyle #princesspolly #vancouverblogger.
+  Find top beauty Instagram influencers in Canada in 2020. Most popular hashtags: #sponsored #mejuri #nature #goldenhour.
 platform: Instagram
 profiles:
-  - username: "vanora.lo"
+  - username: "sofsenisi"
     fullname: >-
-      VANORA LO | Vancouver
+      Sof senisi👑💖✨
     location: "Canada"
-    followers: 2211
-    engagement: 2644
-    commentsToLikes: 0.148548
-    id: ck6u7woqbo3bo0j71tq5w83f0
+    followers: 5384
+    engagement: 2239
+    commentsToLikes: 0.247767
+    id: ckap0fxu8q3qd0i781qxasrxq
     verified: false
-    hashtags: "#vintagevibes, #fendivintage, #fashionbruh, #verre"
-  - username: "thestylishwordsmith"
-    fullname: >-
-      debbie poh
-    location: "Canada"
-    followers: 16406
-    engagement: 892
-    commentsToLikes: 0.594812
-    id: ck14itmkxh4140i19bnzl0j3q
-    verified: false
-    hashtags: "#prettyinparisian, #thebeverlyhillshotel, #vancouverisawesome, #abeauty"
+    hashtags: "#collab, #goldenhour, #glowingskin, #ootd"
   - username: "annesha.adams"
     fullname: >-
       ANNESHA ADAMS
     location: "Canada"
-    followers: 5134
-    engagement: 1726
-    commentsToLikes: 0.088544
+    followers: 6006
+    engagement: 1767
+    commentsToLikes: 0.088155
     id: ck135iepe1kux0i19xoihkvj0
     verified: false
-    hashtags: "#reggaemonthja, #dancehall, #reggae, #tastejamaica"
-  - username: "sarakayy.xox"
-    fullname: >-
-      Sara Kayy Asare💍
-    location: "Canada"
-    followers: 14356
-    engagement: 1244
-    commentsToLikes: 0.057564
-    id: ck6u9ull3zr7d0j71nuftil2w
-    verified: false
-    hashtags: "#birthdaygirl, #dontrushchallenge"
-  - username: "brightblondeblog"
-    fullname: >-
-      Julia | The Bright Blonde
-    location: "Canada"
-    followers: 6318
-    engagement: 1331
-    commentsToLikes: 0.243072
-    id: ck13b6spetylq0i19mya4bwm4
-    verified: false
-    hashtags: "#sorrynotsorry, #fashion, #iweargarage"
-  - username: "sinasalehi_pix"
-    fullname: >-
-      عکاس
-    location: "Canada"
-    followers: 5068
-    engagement: 1882
-    commentsToLikes: 0.075979
-    id: ck6u022tmd6y00j71vkzsi0mb
-    verified: false
-    hashtags: "#photoshop, #expersionism, #dailyfashionlooks, #lipstic"
+    hashtags: "#reggae"
   - username: "cherieleexo"
     fullname: >-
-      Chérie | Vancouver | NYC | LA
+      Chérie | Vancouver | NYC | LA
     location: "Canada"
-    followers: 15155
-    engagement: 855
-    commentsToLikes: 0.107675
+    followers: 16939
+    engagement: 893
+    commentsToLikes: 0.104948
     id: ck14gyvqv7pbf0i19rih1bdkc
     verified: false
-    hashtags: "#bloggerstyle, #fashionig, #vancouvermodels, #exploretocreate"
+    hashtags: "#sponsored, #waterstcafe, #livemusicvancouver, #2ndfloorgastown"
+  - username: "vadbeauty"
+    fullname: >-
+      Vadim
+    location: "Canada"
+    followers: 5315
+    engagement: 2293
+    commentsToLikes: 0.069622
+    id: ck55mricq4leh0i11yqyogqwj
+    verified: false
+    hashtags: "#glossyeye, #norvinapalette, #beatthatface, #eyelinergoals"
+  - username: "stephbullock"
+    fullname: >-
+      STEPHANIE BULLOCK
+    location: "Canada"
+    followers: 7058
+    engagement: 1211
+    commentsToLikes: 0.141156
+    id: ckaoy48qqfzre0i7899ylhy4r
+    verified: false
+    hashtags: "#businesstrip, #thankgodforwine, #bae, #nomore"
+  - username: "vanora.lo"
+    fullname: >-
+      VANORA LO | Vancouver
+    location: "Canada"
+    followers: 2376
+    engagement: 2039
+    commentsToLikes: 0.187076
+    id: ck6u7woqbo3bo0j71tq5w83f0
+    verified: false
+    hashtags: "#skincarereviews, #whatiwore, #goldenhour, #aestheticpost"
+  - username: "samhz"
+    fullname: >-
+      SAM HOSHIZAKI
+    location: "Canada"
+    followers: 11276
+    engagement: 2224
+    commentsToLikes: 0.043842
+    id: ck5q1x1uld76n0i11nycgzmfr
+    verified: false
+    hashtags: "#stayhome"
+  - username: "thestylishwordsmith"
+    fullname: >-
+      debbie poh
+    location: "Canada"
+    followers: 16912
+    engagement: 1091
+    commentsToLikes: 0.645039
+    id: ck14itmkxh4140i19bnzl0j3q
+    verified: false
+    hashtags: "#mondaymotivation, #useloverepeat, #baolaboratory, #athomewitharitzia"
   - username: "mimis_signature"
     fullname: >-
       Mimi’s Signature | Makeup
     location: "Canada"
-    followers: 19291
-    engagement: 638
-    commentsToLikes: 0.080077
+    followers: 22133
+    engagement: 548
+    commentsToLikes: 0.060981
     id: ck5zp2vtorvsy0i14c63wht3o
     verified: false
-    hashtags: "#coursmaquillage, #glow, #lancomecanada, #beaut"
-  - username: "makeupbyliraz"
+    hashtags: "#ongles, #essielove, #winternails, #zoeva"
+  - username: "brightblondeblog"
     fullname: >-
-      Makeup By Liraz
+      Julia | The Bright Blonde
     location: "Canada"
-    followers: 84564
-    engagement: 504
-    commentsToLikes: 0.363870
-    id: ck8sx6vm8gcr60j78tm8otbs4
+    followers: 6494
+    engagement: 934
+    commentsToLikes: 0.140402
+    id: ck13b6spetylq0i19mya4bwm4
     verified: false
-    hashtags: "#keepingitreal, #makeupgiveaway, #businessowner, #vaughn"
-  - username: "louange.m"
-    fullname: >-
-      Louange
-    location: "Canada"
-    followers: 20438
-    engagement: 1163
-    commentsToLikes: 0.031787
-    id: ck8t2zwq21crs0j785crq7pz1
-    verified: false
-    hashtags: "#internationalwomensday, #africanblogger, #ltkcurves, #freeme"
+    hashtags: "#fashion, #iweargarage, #mejuri, #mejuripartner"
 ---

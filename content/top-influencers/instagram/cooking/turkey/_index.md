@@ -1,29 +1,29 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Turkey In 2020
 description: >-
-  Find top cooking Instagram influencers in Turkey in 2020. Most popular hashtags: #evdekal #corona #instagood #travel.
+  Find top cooking Instagram influencers in Turkey in 2020. Most popular hashtags: #evdekal #cooking #breakfast #istanbul.
 platform: Instagram
 profiles:
-  - username: "journey_try"
+  - username: "zetfashion"
     fullname: >-
-      
+      Zuhal Okcu Özden
     location: "Turkey"
-    followers: 2557
-    engagement: 2252
-    commentsToLikes: 0.042379
-    id: ck8t52bo08lf80j78crljzmbl
+    followers: 65314
+    engagement: 631
+    commentsToLikes: 0.398714
+    id: ckaoyf98wh9yi0i783htgm9g0
     verified: false
-    hashtags: "#instadaily, #naturelovers, #style, #ukraine"
-  - username: "helia_saffar"
+    hashtags: "#zetmutfakta, #summer, #summertime"
+  - username: "ayiyemegi"
     fullname: >-
-      هلیا صفار🍝
+      Ayı Yemeği ®
     location: "Turkey"
-    followers: 57868
-    engagement: 700
-    commentsToLikes: 0.034761
-    id: ck0w6s02ja0k60i19p5r9sb6h
+    followers: 72112
+    engagement: 189
+    commentsToLikes: 0.029691
+    id: ckaoxtwjjeqdz0i78y9p5w9h1
     verified: false
-    hashtags: ""
+    hashtags: "#ramazanbayram, #pirinc, #camplife, #repost"
   - username: "onurollstyle"
     fullname: >-
       Onur Erol | #EvdeKal
@@ -34,74 +34,74 @@ profiles:
     id: ck5c9w0ggc8bi0i11ualspo6l
     verified: false
     hashtags: "#iorestoacasa, #tuttoandr, #stayathome, #staiacasa"
-  - username: "annie_in_newyork"
+  - username: "nurdangurel"
     fullname: >-
-      Minyoung, Annie 🇰🇷🇱🇷
+      𝐍𝐮𝐫𝐝𝐚𝐧 𝐆𝐮̈𝐫𝐞𝐥 𝐀𝐜̧𝐢𝐤𝐞𝐥 🧿
     location: "Turkey"
-    followers: 5644
-    engagement: 939
-    commentsToLikes: 0.040173
-    id: ck0w399crs86r0i19qixxe4xy
+    followers: 11299
+    engagement: 1780
+    commentsToLikes: 0.055168
+    id: ck13cmw5k14xl0i19nk97jkj8
     verified: false
-    hashtags: "#selfielover, #plantslover, #cherrygrove, #longisland"
+    hashtags: "#food, #smoothie, #strawberry, #instatravel"
+  - username: "onalfusun"
+    fullname: >-
+      Fusun Onal
+    location: "Turkey"
+    followers: 51073
+    engagement: 266
+    commentsToLikes: 0.057219
+    id: ck14jr5yvlrjd0i1935hoqwr4
+    verified: false
+    hashtags: "#dailywalks, #ripmymom, #summerof2019, #stayathome"
   - username: "dogadakiyabanci"
     fullname: >-
       Emrah KOÇER
     location: "Turkey"
-    followers: 38221
-    engagement: 204
-    commentsToLikes: 0.044168
+    followers: 38388
+    engagement: 230
+    commentsToLikes: 0.170821
     id: ck6u4fpdr3g8s0j71r2fpztq4
     verified: false
-    hashtags: "#cooking, #seyahat, #campcoffee, #camplife"
-  - username: "timmyvl"
+    hashtags: "#foodporn, #evdehayatvar, #camping, #camprail"
+  - username: "annie_in_newyork"
     fullname: >-
-      🇧🇪ᴛɪᴍᴍʏ ᴠᴀɴ ʟʏsᴇʙᴇᴛʜ🇧🇪
+      Minyoung, Annie 🇰🇷🇱🇷
     location: "Turkey"
-    followers: 59792
-    engagement: 240
-    commentsToLikes: 0.016312
-    id: ck5zv2lj23h970i14xdlikvjo
-    verified: true
-    hashtags: "#aldibelgium, #singer, #water, #xwiftracing"
-  - username: "fashionablover"
-    fullname: >-
-      Tuana Schumacher
-    location: "Turkey"
-    followers: 106693
-    engagement: 118
-    commentsToLikes: 0.146923
-    id: ck5q7sgbw2x4j0i11l90ooe69
+    followers: 5573
+    engagement: 968
+    commentsToLikes: 0.042009
+    id: ck0w399crs86r0i19qixxe4xy
     verified: false
-    hashtags: "#motorsiklet, #streetlooks, #koyyestyle, #dresses"
-  - username: "olmakistedigimben"
+    hashtags: "#school, #friends, #3am, #monstera"
+  - username: "bella_in_"
     fullname: >-
-      Yeni Bir Başlangıç
+      Agnès
     location: "Turkey"
-    followers: 32331
-    engagement: 357
-    commentsToLikes: 0.294300
-    id: ck8t1fckhvjx30j783aqzsc2z
+    followers: 111220
+    engagement: 249
+    commentsToLikes: 0.028093
+    id: ck0u1narxxd310i1961g2s3dg
     verified: false
-    hashtags: "#diyetteyim, #diyetteyiz, #diyetkardesli, #diet"
-  - username: "aiser0se"
+    hashtags: "#aidmubarak, #eidoutfit, #family, #goodmorning"
+  - username: "journey_try"
     fullname: >-
       
     location: "Turkey"
-    followers: 65181
-    engagement: 255
-    commentsToLikes: 0.192762
-    id: ck6tzhuxt9shu0j71tn7cya9l
+    followers: 4135
+    engagement: 1938
+    commentsToLikes: 0.052539
+    id: ck8t52bo08lf80j78crljzmbl
     verified: false
-    hashtags: "#kidsroomdesign, #hijaber, #chefkok, #bohohome"
-  - username: "cinilimutfak"
+    hashtags: "#memories, #perfections, #roadto, #travellover"
+  - username: "sali_travel"
     fullname: >-
-      Leyla Çemç Yavşan
+      sali_travel
     location: "Turkey"
-    followers: 26143
-    engagement: 279
-    commentsToLikes: 0.285499
-    id: ck15s11ijap8k0i19o7t6gqok
+    followers: 4534
+    engagement: 1759
+    commentsToLikes: 0.267420
+    id: ck9wgo1gau8020j78dfcfuofi
     verified: false
-    hashtags: "#buzzfeast, #coffetime, #yemekcom, #tatl"
+    hashtags: "#blogger, #fog, #sali, #travellers"
 ---

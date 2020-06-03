@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Konya In 2020
 description: >-
-  Find top photographers Instagram influencers in Konya in 2020. Most popular hashtags: #evdekal #turkey #photography #corona.
+  Find top photographers Instagram influencers in Konya in 2020. Most popular hashtags: #konya #photographer #travel #turkey.
 platform: Instagram
 profiles:
-  - username: "pembekeci"
-    fullname: >-
-      Pamela Spence
-    location: "Turkey"
-    followers: 57617
-    engagement: 92
-    commentsToLikes: 0.027539
-    id: ck1383ftdebfc0i192639v633
-    verified: true
-    hashtags: "#bursaetkinlik, #hair, #dancers, #unutulur"
-  - username: "photoartsmine"
-    fullname: >-
-      Aşkım Mine Babaoğlu
-    location: "Turkey"
-    followers: 11257
-    engagement: 1013
-    commentsToLikes: 0.076225
-    id: ck0w0n8ypf2cx0i19uu5ra03p
-    verified: false
-    hashtags: "#cultureltravel, #hurriyetseyahat, #antikkent, #natgeoanimal"
-  - username: "cekimecikiyoruz"
-    fullname: >-
-      ÇEKİME ÇIKIYORUZ #evdekal
-    location: "Turkey"
-    followers: 55174
-    engagement: 573
-    commentsToLikes: 0.013816
-    id: ck14i9fqaea8b0i19qzx2sapn
-    verified: false
-    hashtags: "#sabahattinali, #nikon, #benimsehrim, #anadolufotograf"
   - username: "paylastikcaguzel_"
     fullname: >-
       PaylaştıkçaGüzel • Begüm Tekin
     location: "Turkey"
-    followers: 48501
-    engagement: 215
-    commentsToLikes: 0.080309
+    followers: 48085
+    engagement: 207
+    commentsToLikes: 0.078210
     id: ck14i28nxda050i19ylg2zy3c
     verified: false
-    hashtags: "#stayinside, #tealove, #teaoftheday, #kartoffelsalat"
-  - username: "sir.photographyy"
+    hashtags: "#cheesecake, #yummy, #smokedbbq, #butikkahvalt"
+  - username: "ekulak"
     fullname: >-
-      @SIR.Photography 📸
+      Ertugrul Kulaksizoglu
     location: "Turkey"
-    followers: 9871
-    engagement: 1217
-    commentsToLikes: 0.028749
-    id: ck8t6is07dsig0j78gh0e9tf3
+    followers: 19921
+    engagement: 411
+    commentsToLikes: 0.035531
+    id: ck8tbc9bhv3mw0j78zzzpawjm
     verified: false
-    hashtags: "#konyahane, #siyahbeyazfoto, #fotografcilik, #mevlana"
-  - username: "muratdagaslan"
+    hashtags: "#bat, #portre, #azerbaycan, #romania"
+  - username: "sametguler_photosensia"
     fullname: >-
-      Murat Dağaslan
+      Samet Güler (Curly)
     location: "Turkey"
-    followers: 105024
-    engagement: 206
-    commentsToLikes: 0.022468
-    id: ck0u8289o6aua0i19fv6fcmnj
+    followers: 45930
+    engagement: 320
+    commentsToLikes: 0.012659
+    id: ck13b3hgnthlg0i19gmfju104
     verified: false
-    hashtags: "#natureshot, #lakereflection, #ayasophia, #shadow"
-  - username: "bifeyza"
+    hashtags: "#mountains, #maidenstower, #travel, #photograph"
+  - username: "dogada1ii"
     fullname: >-
-      
+      Doğatemalı🍀 🪐
     location: "Turkey"
-    followers: 93134
-    engagement: 82
-    commentsToLikes: 0.012040
-    id: ck6tmbt927jx30j71dza2nkql
+    followers: 5870
+    engagement: 2530
+    commentsToLikes: 0.142967
+    id: ck8t4nbyv7ee70j78pba02wlm
     verified: false
-    hashtags: "#minimalizm, #cekili, #homeoffice, #saat"
-  - username: "muratgermen"
+    hashtags: "#trend, #gezelimg, #fotograf, #taksim"
+  - username: "uygunadimdoga"
     fullname: >-
-      murat germen
+      Dilara Özkan •Travel ✧☽
     location: "Turkey"
-    followers: 17930
-    engagement: 182
-    commentsToLikes: 0.014379
-    id: ck6u2pgz5t65x0j71yh23mhmy
-    verified: false
-    hashtags: "#fulyaerdemci, #coverstory, #works, #slobodandanpaich"
-  - username: "semadogan._"
+    followers: 44823
+    engagement: 557
+    commentsToLikes: 0.027077
+    id: ck6uaemel34gi0j716tbk0y1o
+    verified: true
+    hashtags: "#photography, #sonyphotography, #adana, #lacasadepapel"
+  - username: "alyagram_2017"
     fullname: >-
-      Sema Doğan
+      Alya' nın dünyası
     location: "Turkey"
-    followers: 12228
-    engagement: 1171
-    commentsToLikes: 0.032965
-    id: ck8t4usuj7zk50j78c5kfpexf
+    followers: 12155
+    engagement: 1572
+    commentsToLikes: 0.025893
+    id: ckaovdxx146q40i78j8ailxye
     verified: false
-    hashtags: "#kamp, #kapadokyabalon, #instagram, #antalyaalanya"
-  - username: "gezipduruzzz"
+    hashtags: "#like, #mothernature, #bride, #eidmubarak"
+  - username: "sibellce_"
     fullname: >-
-      Şeyda 🧿 Recep
+      Sibelce
     location: "Turkey"
-    followers: 8414
-    engagement: 2073
-    commentsToLikes: 0.015087
-    id: ck0tv1ff39ipz0i19bvqpezsl
+    followers: 4992
+    engagement: 725
+    commentsToLikes: 0.112615
+    id: ck8tcxj0812af0j78kuhyqpql
     verified: false
-    hashtags: "#ulabelediyesi, #istanbul, #bafag, #bisiklet"
+    hashtags: "#konya, #psikolog, #hayatad, #kitapokumali"
+  - username: "murat.orkun"
+    fullname: >-
+      murat🌑rkun
+    location: "Turkey"
+    followers: 69680
+    engagement: 114
+    commentsToLikes: 0.037406
+    id: ck134vakrycyq0i19myd6zoc3
+    verified: false
+    hashtags: "#rahatuyu, #iskorpit, #seahorse, #ulucami"
+  - username: "guzelgezdik"
+    fullname: >-
+      Altuğ Tekin
+    location: "Turkey"
+    followers: 40411
+    engagement: 87
+    commentsToLikes: 0.050851
+    id: ck14i294eda1e0i19shy1e92d
+    verified: false
+    hashtags: "#saade, #karak, #anadolu, #gastronomi"
+  - username: "_ozi_can_"
+    fullname: >-
+      Ozi Can
+    location: "Turkey"
+    followers: 8231
+    engagement: 1274
+    commentsToLikes: 0.197439
+    id: ck8t82dpfiv0m0j78n6i7c3tr
+    verified: false
+    hashtags: "#esed, #edebiyatkulu, #turkiye, #instamood"
 ---

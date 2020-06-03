@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In 2020
 description: >-
-  Find top beauty Instagram influencers in 2020. Most popular hashtags: #makeup #makeupideas #lulusambassador #makeuplooks.
+  Find top beauty Instagram influencers in 2020. Most popular hashtags: #outfitoftheday #portrait #nofilter #gifted.
 platform: Instagram
 profiles:
-  - username: "aleksandrasosfa"
+  - username: "dad.sheeran"
     fullname: >-
-      Aleksandra Sosfa
-    location: "United States"
-    followers: 105898
-    engagement: 956
-    commentsToLikes: 0.080193
-    id: ck5cc0dmbghjw0i11qthjko5f
+      René 🏃‍♂️🏋️‍♂️👣👁🧠
+    location: "Germany"
+    followers: 2275
+    engagement: 4797
+    commentsToLikes: 0.184506
+    id: ckapbh0cyztno0i78e4y94y3i
     verified: false
-    hashtags: "#makeupvideos, #mugshot, #laurag, #jeffreestarcosmetics"
-  - username: "tokyotolagirl"
+    hashtags: "#herbstliebe, #parisbynight, #street, #visualgrams"
+  - username: "kyravaneck_"
     fullname: >-
-      MARY | Fashion Blogger
-    location: "United States"
-    followers: 12368
-    engagement: 1515
-    commentsToLikes: 0.404332
-    id: ck5zypsduaawo0i14e5m3m57k
+      Kyra Nina Van Eck 🦋
+    location: "Netherlands"
+    followers: 4015
+    engagement: 4117
+    commentsToLikes: 0.330570
+    id: ck9hcnodem7gn0j78dqgj259g
     verified: false
-    hashtags: "#spotify, #newyearnewme, #superdown, #makinglifeglorious"
-  - username: "lexluxlove"
+    hashtags: "#sweater, #dowhatyoulove, #fashion, #bymusthaves"
+  - username: "megangadd"
     fullname: >-
-      Lexluxlove
-    location: "United States"
-    followers: 2749
-    engagement: 2810
-    commentsToLikes: 0.318080
-    id: ck5q9riuncmc80i118nde0ewj
+      MEGAN GADD
+    location: "United Kingdom"
+    followers: 2694
+    engagement: 3292
+    commentsToLikes: 0.209848
+    id: ck9wew9brm4ba0j78cru16v2w
     verified: false
-    hashtags: "#braceletstacks, #sallybeauty, #targetstyle, #targetfinds"
-  - username: "kyliedennison"
+    hashtags: "#officeloves, #gifted, #ad"
+  - username: "irini_chrisa"
     fullname: >-
-      K Y L I E •🦄✨
-    location: "United States"
-    followers: 25801
-    engagement: 1039
-    commentsToLikes: 0.077376
-    id: ck5pwdjtzmbjy0i11nizuw21w
+      Irini Chrisα ⚡️
+    location: "Germany"
+    followers: 5963
+    engagement: 3105
+    commentsToLikes: 0.084555
+    id: ck0u6ktdo272r0i19ymtlpbox
     verified: false
-    hashtags: "#intercontinentallife, #experienceihg, #hamiltonisoverparty, #bellamihair"
+    hashtags: "#hellobody, #styleesecrets, #body, #outfit"
+  - username: "luv.goldvv"
+    fullname: >-
+      𝓦𝓲𝓴𝓽𝓸𝓻𝓲𝓪 𝓛𝓾𝓲𝔃𝓪
+    location: "Poland"
+    followers: 3568
+    engagement: 2973
+    commentsToLikes: 0.135235
+    id: ck8t3wipk4qwe0j78ybjyjv8f
+    verified: false
+    hashtags: "#coffeelover, #prezent, #missyou, #pretty"
+  - username: "mary.bears"
+    fullname: >-
+      🌙 Mary | Fashion | Beauty
+    location: "United States"
+    followers: 3590
+    engagement: 2955
+    commentsToLikes: 0.576349
+    id: ck6u1cwlakzjb0j71hkxp3o2r
+    verified: false
+    hashtags: "#eyelovewaterdrench, #peterthomasroth, #ptrcult, #waterdrench"
+  - username: "cassidymprice"
+    fullname: >-
+      Cassidy Price
+    location: "United States"
+    followers: 3096
+    engagement: 2788
+    commentsToLikes: 0.183297
+    id: ck9wd8y46emb60j78dyjblq50
+    verified: false
+    hashtags: "#americaneagle, #sundayfunday, #aerie, #tryonhaul"
   - username: "daniellee_esther"
     fullname: >-
       DANIELLE | Fashion & Lifestyle
     location: "United States"
-    followers: 6095
-    engagement: 2767
-    commentsToLikes: 0.508733
+    followers: 6521
+    engagement: 2764
+    commentsToLikes: 0.458531
     id: ck137gy8ubhjd0i19krhqrk4n
     verified: false
-    hashtags: "#fableticspartner, #ymijeans, #ymibabe, #lulusambassador"
-  - username: "_yvetters"
+    hashtags: "#fableticspartner, #tbt, #mlpartner, #lulusambassador"
+  - username: "izgisimal"
     fullname: >-
-      𝐘𝐕𝐄𝐓𝐓𝐄 🕊
-    location: "United States"
-    followers: 3135
-    engagement: 2345
-    commentsToLikes: 0.125044
-    id: ck0w0jslsek5c0i194gi6yfo5
-    verified: false
-    hashtags: "#lulusambassador, #lovelulus, #lolababe"
-  - username: "withlove.sandra"
-    fullname: >-
-      sandra🌹 nyc | philly
-    location: "United States"
-    followers: 23252
-    engagement: 892
-    commentsToLikes: 0.062114
-    id: ck0vy5qmj2d5m0i19ezvhit1q
-    verified: false
-    hashtags: "#elliepartner, #februaryellie, #strongersweden, #sugarbearhair"
-  - username: "makeupbypita"
-    fullname: >-
-      Lupita
-    location: "United States"
-    followers: 137437
-    engagement: 1840
-    commentsToLikes: 0.083426
-    id: ck0vv5hz8nn3i0i19n3s9ejgo
-    verified: false
-    hashtags: "#momblogger, #pregnantbelly, #instagood, #lagirlcosmetics"
-  - username: "dimi_ven"
-    fullname: >-
-      ᗪƖᗰƖƬᖇᗩ ᐯƐᑎOᑌ
-    location: "United Kingdom"
-    followers: 8317
-    engagement: 1809
-    commentsToLikes: 0.087552
-    id: ck15plt36yisn0i19f03tk3q1
-    verified: false
-    hashtags: "#amstergram, #fashionzine, #welivetoexplore, #womenwhoexplore"
-  - username: "sha1kiba"
-    fullname: >-
-      🧿Shakiba | شَکیبا
+      Şimal İzgi 🍒
     location: "Turkey"
-    followers: 132317
-    engagement: 1072
-    commentsToLikes: 0.137320
-    id: ck0vyosug522k0i19f3uv676u
+    followers: 2764
+    engagement: 2747
+    commentsToLikes: 0.133969
+    id: ckaot27amu1im0i78imlj088h
     verified: false
-    hashtags: "#blueeyeshadoe, #eyelinertutorial, #pinkymakeup, #hudabeautychallenge"
+    hashtags: "#purple, #lilacmakeup, #makeuplook, #quarantine"
+  - username: "maahway"
+    fullname: >-
+      Matheus
+    location: "Brazil"
+    followers: 2845
+    engagement: 2709
+    commentsToLikes: 0.373165
+    id: ck8t7jvsbh2wu0j78v69rjxuv
+    verified: false
+    hashtags: "#frontlacewig, #sorteio, #graphiceyeliner, #arianagrande"
 ---

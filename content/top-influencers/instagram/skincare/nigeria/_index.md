@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top skincare Instagram influencers in Nigeria in 2020. Most popular hashtags: #explorepage #explore #tiktok #viral.
+  Find top skincare Instagram influencers in Nigeria in 2020. Most popular hashtags: #skincare #skincareroutine #beauty #quarantine.
 platform: Instagram
 profiles:
-  - username: "ama_burland"
-    fullname: >-
-      Princess Burland
-    location: "Nigeria"
-    followers: 28547
-    engagement: 607
-    commentsToLikes: 0.068883
-    id: ck8tb3t33u5k60j78cti3uvku
-    verified: false
-    hashtags: "#portrait, #explore, #melanin, #ghana"
   - username: "amara_okonkwo_"
     fullname: >-
-      Vhiz Tiwa
+      𝕍𝕙𝕚𝕫 𝕋𝕚𝕨𝕒
     location: "Nigeria"
-    followers: 183857
-    engagement: 168
-    commentsToLikes: 0.039915
+    followers: 182743
+    engagement: 116
+    commentsToLikes: 0.076687
     id: ck5pvmmrbimaw0i11v0b8zf2l
     verified: false
-    hashtags: "#corperwee, #imessagegames, #stayhome, #bopdaddychallenge"
-  - username: "ariana_a.d"
+    hashtags: "#skincareowerri, #skincare, #amaraokonkwo, #skincareasaba"
+  - username: "iamyeychii"
     fullname: >-
-      Adanma Omah
+      Anozie Onyinyechi
     location: "Nigeria"
-    followers: 46725
-    engagement: 1439
-    commentsToLikes: 0.033339
-    id: ck8t0087uqeet0j78klm9s6ty
+    followers: 12784
+    engagement: 643
+    commentsToLikes: 0.116808
+    id: ckaorw78fp1100i78xx00y8fj
     verified: false
-    hashtags: "#dontrushchallenge, #jointhe20kdaily, #showdemchallenge, #habachallenge"
+    hashtags: "#canon, #denimstyle, #whattowear, #quaratine2020"
+  - username: "ama_burland"
+    fullname: >-
+      RICH AUNTY DEEYA
+    location: "Nigeria"
+    followers: 46258
+    engagement: 430
+    commentsToLikes: 0.055951
+    id: ck8tb3t33u5k60j78cti3uvku
+    verified: false
+    hashtags: "#lashes, #ghanahairstyles, #portrait, #diyskincare"
   - username: "uzodinmaesther"
     fullname: >-
       Esther Uzodinma
     location: "Nigeria"
-    followers: 49326
-    engagement: 581
-    commentsToLikes: 0.038393
+    followers: 71568
+    engagement: 567
+    commentsToLikes: 0.078008
     id: ck15tqr7gjfqi0i19suus260m
     verified: false
-    hashtags: "#birthday, #challenge, #monologue, #glowup"
+    hashtags: "#instagood, #actinglife, #creative, #promotion"
   - username: "clinictheaesthetic"
     fullname: >-
       The Aesthetic Clinic
     location: "Nigeria"
-    followers: 41437
-    engagement: 154
-    commentsToLikes: 0.139069
+    followers: 45091
+    engagement: 169
+    commentsToLikes: 0.127087
     id: ck134gn44wbii0i19omkr8wvt
     verified: false
-    hashtags: "#socialchallenge, #tuesdaytransformation, #thursdaytransformation, #dontrushchallage"
-  - username: "mocheddah"
+    hashtags: "#beauty, #nonsurgical, #botox, #stayhome"
+  - username: "dfw_oma"
     fullname: >-
-      Mo Olateru-Olagbegi
+      Alozie oma
     location: "Nigeria"
-    followers: 326081
-    engagement: 70
-    commentsToLikes: 0.045025
-    id: ck0w4y3cs0z5o0i19stid18nn
-    verified: true
-    hashtags: "#nigerians, #mstinaknowels, #lockdown, #crabs"
-  - username: "tamara.aig"
-    fullname: >-
-      Tamara |Hair Beauty Fashion🇳🇬
-    location: "Nigeria"
-    followers: 8482
-    engagement: 1198
-    commentsToLikes: 0.070096
-    id: ck5hdea8mmyju0i11dmzcoeux
+    followers: 24017
+    engagement: 1339
+    commentsToLikes: 0.067013
+    id: ck8syg97rkqnd0j78fjfmxwpz
     verified: false
-    hashtags: "#skincaretips, #contentcreator, #niveang, #nigeriancontentcreator"
+    hashtags: "#skin, #picoftheday, #skincareroutine, #pool"
   - username: "_kingnheeta"
     fullname: >-
-      B E N I T A🌹💍🍃
+      𝐵𝑒𝓃𝒾𝓉𝒶♥
     location: "Nigeria"
-    followers: 7018
-    engagement: 1358
-    commentsToLikes: 0.065690
+    followers: 13570
+    engagement: 1304
+    commentsToLikes: 0.050537
     id: ck6tile7k0xtu0j71juxa4vc1
     verified: false
-    hashtags: "#repost, #skincare, #exploremore, #skincaretips"
+    hashtags: "#selfie, #explorers, #bikini, #skincare"
+  - username: "nimiie_"
+    fullname: >-
+      NIMI
+    location: "Nigeria"
+    followers: 14322
+    engagement: 1526
+    commentsToLikes: 0.075383
+    id: ck9wfco1po9yk0j78qujg5a85
+    verified: false
+    hashtags: "#eyes, #lips, #triller, #giveaway"
   - username: "belove_falana"
     fullname: >-
       Ayanfe Falana
     location: "Nigeria"
-    followers: 7353
-    engagement: 844
-    commentsToLikes: 0.077705
+    followers: 7541
+    engagement: 903
+    commentsToLikes: 0.091715
     id: ck5zwe33a5yw30i14zhlrnku5
     verified: false
-    hashtags: "#yellow, #twerkqueen, #sugarcookiesofinstagram, #explore"
-  - username: "frances_uche"
+    hashtags: "#sweet16, #slayersonlyy, #christmas, #season"
+  - username: "tamara.aig"
     fullname: >-
-      FRANCES OFOEDU
+      Tamara |The Beauty Guru🇳🇬
     location: "Nigeria"
-    followers: 4169
-    engagement: 1876
-    commentsToLikes: 0.137489
-    id: ck6tuva8yimpc0j71y8utuhg6
+    followers: 10144
+    engagement: 1133
+    commentsToLikes: 0.075664
+    id: ck5hdea8mmyju0i11dmzcoeux
     verified: false
-    hashtags: "#covid, #hotsauce, #skincare, #hotchocolate"
+    hashtags: "#quarantine2020, #4bhairstyles, #naijanaturals, #scarfstyles"
 ---

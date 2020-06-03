@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Madrid In 2020
 description: >-
-  Find top fitness Instagram influencers in Madrid in 2020. Most popular hashtags: #madrid #fitness #love #smile.
+  Find top fitness Instagram influencers in Madrid in 2020. Most popular hashtags: #fitness #madrid #sport #smile.
 platform: Instagram
 profiles:
-  - username: "deborahserendipity"
-    fullname: >-
-      DÉBORAH SERENDIPITY
-    location: "Spain"
-    followers: 38039
-    engagement: 314
-    commentsToLikes: 0.056935
-    id: ck5cj6mu4u35m0i11iatfslim
-    verified: true
-    hashtags: "#gladiatorinasuit, #willsmith, #estopa, #curves"
   - username: "lour_homedes"
     fullname: >-
       Lourdes Homedes Ibáñez
     location: "Spain"
-    followers: 52830
-    engagement: 237
-    commentsToLikes: 0.058358
+    followers: 52670
+    engagement: 156
+    commentsToLikes: 0.101604
     id: ck5hoovdppydn0i11r3krg8ga
     verified: false
-    hashtags: "#zaradaily, #communitymanager, #retrato, #zapatos"
-  - username: "emeraldmoya"
+    hashtags: "#pasta, #celebracion, #filadisruptor, #vestidoslargos"
+  - username: "pitomag8"
     fullname: >-
-      E S M E R A L D A   M O Y A
+      MIGUEL GUEVARA
     location: "Spain"
-    followers: 163747
-    engagement: 99
-    commentsToLikes: 0.050348
-    id: ck0tw80rpeb6p0i19hznpzkuv
-    verified: true
-    hashtags: "#abril, #yomequedoencasa, #yomecorono, #sesolidario"
-  - username: "sergiferre"
-    fullname: >-
-      Sergi Ferré del Cuerpo
-    location: "Spain"
-    followers: 35728
-    engagement: 516
-    commentsToLikes: 0.054324
-    id: ck55q9s8dclq80i11j8t38o90
+    followers: 30844
+    engagement: 689
+    commentsToLikes: 0.017276
+    id: ck6u7518djivs0j71hva19wpc
     verified: false
-    hashtags: "#holarevistahola, #escollectionofficial, #instagay, #instafit"
-  - username: "antoniopm6"
-    fullname: >-
-      Antonio Pareja Machío
-    location: "Spain"
-    followers: 6849
-    engagement: 1965
-    commentsToLikes: 0.023460
-    id: ck134j8howp4k0i19hw49ui8t
-    verified: false
-    hashtags: "#fitnessmodel, #aesthetic, #beach, #black"
-  - username: "kryspasiecznik"
-    fullname: >-
-      Krys Pasiecznik
-    location: "Spain"
-    followers: 128039
-    engagement: 203
-    commentsToLikes: 0.039674
-    id: ck55neqlc62590i11ognehm5c
-    verified: false
-    hashtags: "#happychristmas, #hear, #bnwmood, #madrid"
-  - username: "jessdmesino"
-    fullname: >-
-      ⚜️ 𝐉𝐞𝐬𝐬 𝐃 𝐌𝐞𝐬𝐢𝐧𝐨 🔻🇨🇴🇪🇸🧿
-    location: "Spain"
-    followers: 4305
-    engagement: 1789
-    commentsToLikes: 0.031229
-    id: ck5zls2d9la6v0i14yvvd4z4h
-    verified: false
-    hashtags: "#menswear, #fit, #jjmalibu, #sanfrancisco"
-  - username: "yaxminayas"
-    fullname: >-
-      YASMINA
-    location: "Spain"
-    followers: 3520
-    engagement: 1657
-    commentsToLikes: 0.019560
-    id: ck5ztpgma0vr70i14wcftvaq4
-    verified: false
-    hashtags: "#selflove, #safari, #silenzio, #shark"
+    hashtags: "#amanecer, #estar, #rockstar, #tumbandolaplataforma"
   - username: "josealgc"
     fullname: >-
       Jose A. García
     location: "Spain"
-    followers: 61771
-    engagement: 1467
-    commentsToLikes: 0.014283
+    followers: 74542
+    engagement: 1087
+    commentsToLikes: 0.014259
     id: ck6u5ihzh9txe0j71ruqxeozw
     verified: false
-    hashtags: "#pies, #pelirrojo, #noruega, #thebeardedway"
-  - username: "simonettifiorella"
+    hashtags: "#beardedmodel, #sphynx, #sunset, #comerbien"
+  - username: "francabello_78"
     fullname: >-
-      Simona Quintana Silva
+      Fran Cabello
     location: "Spain"
-    followers: 39946
-    engagement: 595
-    commentsToLikes: 0.013993
-    id: ck5c4dkhu14jc0i114t9xfbti
+    followers: 66066
+    engagement: 183
+    commentsToLikes: 0.203899
+    id: ck8t8ozhql7fu0j78dkz1l2hc
     verified: false
-    hashtags: "#confia, #hairstyle, #rope, #yingyang"
+    hashtags: "#cruasanes, #albondigasensalsa, #comidasaludable, #masa"
+  - username: "necanizado"
+    fullname: >-
+      🅰️nt☯️⏸️ℹ️🅾️ ♍
+    location: "Spain"
+    followers: 8812
+    engagement: 1124
+    commentsToLikes: 0.031132
+    id: ckap4jzey7pho0i78a07jk9rq
+    verified: false
+    hashtags: "#andalucia, #gayandalucia, #selfie, #gingerboy"
+  - username: "madfit_lifestyle"
+    fullname: >-
+      María De La Cámara
+    location: "Spain"
+    followers: 60205
+    engagement: 210
+    commentsToLikes: 0.055640
+    id: ck5cjzhmnvt6a0i115ka23dhz
+    verified: false
+    hashtags: "#coffee, #thankyou, #espa, #challenge"
+  - username: "valeriaa_lm"
+    fullname: >-
+      ❔❔❔
+    location: "Spain"
+    followers: 10488
+    engagement: 882
+    commentsToLikes: 0.034146
+    id: ck15scoakcc9q0i19op42xc8m
+    verified: false
+    hashtags: "#krabi, #face, #12daysonly, #naturalmakeup"
+  - username: "patrinuga21"
+    fullname: >-
+      P A T R I C I A ⚡️
+    location: "Spain"
+    followers: 5871
+    engagement: 515
+    commentsToLikes: 0.055485
+    id: ckap6jcpog35r0i78jgfd4hl9
+    verified: false
+    hashtags: "#hair, #hairstyles, #palmeritas, #friday"
+  - username: "isaac_fouto_"
+    fullname: >-
+      Isaac Fouto
+    location: "Spain"
+    followers: 6881
+    engagement: 1013
+    commentsToLikes: 0.027816
+    id: ck5zvasra3vqs0i14tyuxj97j
+    verified: true
+    hashtags: "#cadizracing, #navidad, #gollaligasmarbank, #ibiza"
+  - username: "clanfuryparkour"
+    fullname: >-
+      ClanFuryParkour
+    location: "Spain"
+    followers: 10441
+    engagement: 708
+    commentsToLikes: 0.014637
+    id: ck6txoz1zz16n0j71ac3r3pgp
+    verified: false
+    hashtags: "#longrun, #rivas, #deporte, #fitness"
 ---

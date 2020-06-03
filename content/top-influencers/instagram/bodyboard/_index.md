@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bodyboard Instagram Influencers In 2020
 description: >-
-  Find top bodyboard Instagram influencers in 2020. Most popular hashtags: #bodyboard #bodyboarding #surftrip #islascanarias.
+  Find top bodyboard Instagram influencers in 2020. Most popular hashtags: #home #bodyboard #covid #interiordesign.
 platform: Instagram
 profiles:
   - username: "alexandrarinder"
     fullname: >-
       Alexandra Rinder
     location: "Canary Islands"
-    followers: 36208
-    engagement: 830
-    commentsToLikes: 0.018571
+    followers: 36048
+    engagement: 589
+    commentsToLikes: 0.016062
     id: ck0vznc3v9ygd0i19bpd0x0tc
     verified: false
-    hashtags: "#quedateencasa, #juntospodemos, #stayathome, #togetherwecanmakeit"
-  - username: "_.joana._bb"
+    hashtags: "#day41, #minialex"
+  - username: "surf_stevens"
     fullname: >-
-      44&0🔥
-    location: "Brazil"
-    followers: 3408
-    engagement: 2311
-    commentsToLikes: 0.036718
-    id: ck6u6wpnqi5n30j719ueqiuc4
+      MELODY STEVENS 🏄🏼‍♀️
+    location: "United States"
+    followers: 26116
+    engagement: 615
+    commentsToLikes: 0.016268
+    id: ck5zvgwka47pk0i14x3ceq06a
     verified: false
-    hashtags: ""
+    hashtags: "#noixeyewearsurfteam, #stayhome, #beachgirlforlife, #noixteamrider"
+  - username: "vudukchild"
+    fullname: >-
+      natalia
+    location: "Spain"
+    followers: 16914
+    engagement: 451
+    commentsToLikes: 0.030210
+    id: ck6tw55tqq2e30j715663pc6b
+    verified: false
+    hashtags: "#waterphoto, #desertlover, #fishingtown, #goats"
   - username: "lara_ascanio"
     fullname: >-
       Lara Ascanio
     location: "Spain"
-    followers: 7554
-    engagement: 979
-    commentsToLikes: 0.020475
+    followers: 7614
+    engagement: 930
+    commentsToLikes: 0.021944
     id: ck0vznbr09yf40i19hqkxl8kc
     verified: false
-    hashtags: "#sunsettime, #lapalma, #morningmotivation, #waves"
+    hashtags: "#sintrapro2019, #tenerife, #francia, #worldtour"
   - username: "mikahelaquinn"
     fullname: >-
-      Mikahela 🐉
+      MIKA🐉
     location: ""
-    followers: 27333
-    engagement: 521
-    commentsToLikes: 0.010814
+    followers: 26908
+    engagement: 473
+    commentsToLikes: 0.011011
     id: ck5hmfpj0lv9q0i11ihh7mi6r
     verified: false
-    hashtags: "#indoorclimbing, #girlpower, #chilling, #qu"
+    hashtags: "#yatodopasar, #besodemar, #quedateencasa, #qu"
   - username: "kyra.97"
     fullname: >-
       白波瀬 海来🌞Shirahase Kyra
     location: "Japan"
-    followers: 10178
-    engagement: 980
-    commentsToLikes: 0.005272
+    followers: 10663
+    engagement: 885
+    commentsToLikes: 0.004373
     id: ck5zwt9zn6q3h0i14b1am2d96
     verified: false
-    hashtags: "#hawai, #sporty, #2020, #globalwifi"
+    hashtags: "#takeout, #myhone, #tools, #fparadeseaside"
   - username: "iloveturtlepoo"
     fullname: >-
       Lujain
     location: ""
-    followers: 7647
-    engagement: 1422
-    commentsToLikes: 0.009072
+    followers: 7739
+    engagement: 1382
+    commentsToLikes: 0.010507
     id: ck5zk0r7sim4u0i1480cy1a9w
     verified: false
-    hashtags: "#makeclothmainstream, #raiylibaas, #25monthsold, #julehamdhanhameed"
+    hashtags: "#raiylibaas, #veganrecipes, #toddlerlife, #makeclothmainstream"
   - username: "anais_velis_cisternas"
     fullname: >-
       Nany (roquita 🐠)
     location: ""
-    followers: 5737
-    engagement: 677
-    commentsToLikes: 0.021462
+    followers: 5781
+    engagement: 659
+    commentsToLikes: 0.017823
     id: ck6uayk9z6fqt0j71wropk0a1
     verified: false
-    hashtags: "#quinterohermoso, #quintero, #costasdechile, #bodyboardfemenino"
-  - username: "eriksilviino"
+    hashtags: "#cuarentena, #concurso, #desafiobo, #covid"
+  - username: "danielfonsecabb"
     fullname: >-
-      
-    location: "Brazil"
-    followers: 7130
-    engagement: 658
-    commentsToLikes: 0.031030
-    id: ck6too0dwf4i40j71drx2trlm
+      DANIEL FONSECA
+    location: "Portugal"
+    followers: 9963
+    engagement: 1528
+    commentsToLikes: 0.103889
+    id: ck8swwk3hfhqd0j78fd4psukc
     verified: false
-    hashtags: "#waterphoto, #surfphoto, #surfphotogtaphy, #goprooftheday"
-  - username: "lunahardman"
-    fullname: >-
-      ↠ ʟυƞα
-    location: "Brazil"
-    followers: 3345
-    engagement: 1817
-    commentsToLikes: 0.100891
-    id: ck6ue1ebxobtt0j71llijuh4t
-    verified: false
-    hashtags: "#bolsaatletavv, #bolsaatletacapixaba, #bolsaatleta"
+    hashtags: "#portuguese, #drone, #peniche, #sport"
   - username: "paola_simao"
     fullname: >-
       Paola Simão
     location: "Brazil"
-    followers: 14418
-    engagement: 470
-    commentsToLikes: 0.020616
+    followers: 14406
+    engagement: 493
+    commentsToLikes: 0.022671
     id: ck55nowq36nqa0i116195t59v
     verified: false
-    hashtags: "#455anos, #rioeuteamo, #purgatoriodabelezaedocaos, #euacreditoemn"
+    hashtags: "#elephantrock, #salvemossaoconrado, #foam, #outono"
 ---

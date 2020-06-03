@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Brazil In 2020
 description: >-
-  Find top beauty Instagram influencers in Brazil in 2020. Most popular hashtags: #makeup #fashion #makeuptutorial #maquiagem.
+  Find top beauty Instagram influencers in Brazil in 2020. Most popular hashtags: #tutorial #tbt #sorteio #brabachallenge.
 platform: Instagram
 profiles:
-  - username: "yasminlsilva"
-    fullname: >-
-      YASMIN SILVA
-    location: "Brazil"
-    followers: 56080
-    engagement: 882
-    commentsToLikes: 0.272536
-    id: ck6u8dc5sqwsj0j714efl18hg
-    verified: false
-    hashtags: "#tudosobcontrole, #filmesonline, #rel, #bbb20"
-  - username: "jamillerafic"
-    fullname: >-
-      Jamille Rafic
-    location: "Brazil"
-    followers: 16564
-    engagement: 873
-    commentsToLikes: 0.191657
-    id: ck0w6esn8881i0i19x2ta5b7t
-    verified: false
-    hashtags: "#makeuplife, #underratedmua, #makeupaddict, #makeupblogger"
   - username: "maahway"
     fullname: >-
       Matheus
     location: "Brazil"
-    followers: 2192
-    engagement: 2844
-    commentsToLikes: 0.482765
+    followers: 2845
+    engagement: 2709
+    commentsToLikes: 0.373165
     id: ck8t7jvsbh2wu0j78v69rjxuv
     verified: false
-    hashtags: "#queen, #drag, #chromatica, #fashion"
-  - username: "lurygrabovski"
+    hashtags: "#frontlacewig, #sorteio, #graphiceyeliner, #arianagrande"
+  - username: "bstevanatto_"
     fullname: >-
-      Lury Grabovski
+      Bᥲ́rbᥲrᥲ Stᥱvᥲᥒᥲtto
     location: "Brazil"
-    followers: 18439
-    engagement: 930
-    commentsToLikes: 0.137790
-    id: ck14hmvtub4ce0i19sb5oo7sg
+    followers: 2482
+    engagement: 2645
+    commentsToLikes: 0.185050
+    id: ckapaoryvww6z0i78m55utwja
     verified: false
     hashtags: ""
+  - username: "yasminlsilva"
+    fullname: >-
+      YASMIN SILVA
+    location: "Brazil"
+    followers: 55529
+    engagement: 701
+    commentsToLikes: 0.254202
+    id: ck6u8dc5sqwsj0j714efl18hg
+    verified: false
+    hashtags: "#ficaadica, #tumblrgirl, #thelmacampe, #lovecosmetics"
   - username: "dapariz"
     fullname: >-
       Dainara Pariz
     location: "Brazil"
-    followers: 3251867
-    engagement: 575
-    commentsToLikes: 0.078174
+    followers: 3369950
+    engagement: 659
+    commentsToLikes: 0.250451
     id: ck6u0v78uhx7k0j710h8lsfjp
     verified: true
-    hashtags: ""
-  - username: "gabshoffmann"
+    hashtags: "#sorteio, #sorteios"
+  - username: "ninabackes_"
     fullname: >-
-      Gabriela Hoffmann
+      NINA
     location: "Brazil"
-    followers: 11081
-    engagement: 1190
-    commentsToLikes: 0.069855
-    id: ck8tdfd3d35bk0j78hhlzi5ai
+    followers: 6874
+    engagement: 1537
+    commentsToLikes: 0.629638
+    id: ck9wopaxn610v0j78oibu9671
     verified: false
-    hashtags: "#summer, #wednesday, #20years, #tattoo"
-  - username: "leticiabnavarro"
+    hashtags: "#maquiadoro, #visual, #allstar, #quarentine"
+  - username: "alicetrewinnard"
     fullname: >-
-      Letíciα Nαvαrro ❥
+      Alice Trewinnard
     location: "Brazil"
-    followers: 22912
-    engagement: 796
-    commentsToLikes: 0.235349
-    id: ck14i47vpdka80i19jr58jzta
-    verified: false
-    hashtags: "#beleza, #lookdodia, #girl, #makeup"
-  - username: "euosol"
+    followers: 216196
+    engagement: 950
+    commentsToLikes: 0.036389
+    id: ck134v13sybqz0i19a00owtxx
+    verified: true
+    hashtags: "#hairstyles, #hairvideos, #cas, #diadam"
+  - username: "albariquelme"
     fullname: >-
-      ⠀⠀⠀S O L ☀️
+      Alba Riquelme
     location: "Brazil"
-    followers: 18549
-    engagement: 716
-    commentsToLikes: 0.161175
-    id: ck8t5ckqu9ngl0j7824nwj8lj
-    verified: false
-    hashtags: "#teamsthe, #pinceldagaychallenge, #dontrushchallenge, #moletonchallenge"
-  - username: "gabihmachado"
+    followers: 76259
+    engagement: 666
+    commentsToLikes: 0.189044
+    id: ck5zjacbah8iq0i14imv5qxne
+    verified: true
+    hashtags: "#braids, #aldo, #tbt, #8m"
+  - username: "_eugabialmeida"
     fullname: >-
-      Gabih Machado
+      G A B I
     location: "Brazil"
-    followers: 476678
-    engagement: 504
-    commentsToLikes: 0.038268
-    id: ck135vxqr3i1k0i19bq0nvyfo
+    followers: 56458
+    engagement: 1457
+    commentsToLikes: 0.047399
+    id: ckaosz305tniu0i78inrnrnz2
     verified: false
-    hashtags: "#hudabeauty, #12shades, #yellowmakeup, #bridemakeup"
-  - username: "lauura.miranda"
+    hashtags: "#ficaemcasa, #eudorasi, #curl, #si"
+  - username: "jamillerafic"
     fullname: >-
-      
+      Jamille Rafic
     location: "Brazil"
-    followers: 203106
-    engagement: 572
-    commentsToLikes: 0.146757
-    id: ck5hcx4znke7f0i11v137r27c
+    followers: 17371
+    engagement: 846
+    commentsToLikes: 0.200654
+    id: ck0w6esn8881i0i19x2ta5b7t
     verified: false
-    hashtags: ""
+    hashtags: "#gothicgirl, #makeupaddict, #goth, #selfie"
+  - username: "assisbea"
+    fullname: >-
+      Gosto de fio terra
+    location: "Brazil"
+    followers: 51518
+    engagement: 790
+    commentsToLikes: 0.051178
+    id: ck6u5ti5obne90j71cwp5sgt1
+    verified: false
+    hashtags: "#quarantine, #tbt"
 ---

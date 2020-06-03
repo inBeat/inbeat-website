@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Konya In 2020
 description: >-
-  Find top Instagram influencers in Konya in 2020. Most popular hashtags: #sunum #evdekal #evdekalt #kahvalt.
+  Find top Instagram influencers in Konya in 2020. Most popular hashtags: #bayrak #konya #istanbul #turkey.
 platform: Instagram
 profiles:
+  - username: "konya"
+    fullname: >-
+      Konya
+    location: "Turkey"
+    followers: 61925
+    engagement: 282
+    commentsToLikes: 0.010847
+    id: ck9wivume44o10j78a9gedkww
+    verified: false
+    hashtags: "#alaaddin, #beys, #selc, #sel"
   - username: "cbulentkorkmaz"
     fullname: >-
       Bülent Korkmaz
     location: "Turkey"
-    followers: 155408
-    engagement: 906
-    commentsToLikes: 0.016020
+    followers: 158263
+    engagement: 863
+    commentsToLikes: 0.015569
     id: ck133yfdtucnx0i19v0589fj0
     verified: false
-    hashtags: "#alkanzeyti, #bizantalyasporuz, #evdekal, #10kas"
+    hashtags: "#bar, #evdekal, #10kas, #29ekimcumhuriyetbayram"
+  - username: "nur_konyali"
+    fullname: >-
+      🔥♧~xᎪᏆuᏁᎬᎬ~♧🔥
+    location: "Turkey"
+    followers: 4285
+    engagement: 2961
+    commentsToLikes: 0.110301
+    id: ck15rk6yi8bnt0i19pwhye8oa
+    verified: false
+    hashtags: "#herseynesesine, #anindabegeni, #tiktok, #gahbeler"
   - username: "denimilosevic95_"
     fullname: >-
       Deni Milosevic
     location: "Turkey"
-    followers: 14982
-    engagement: 1441
-    commentsToLikes: 0.021223
+    followers: 14804
+    engagement: 1444
+    commentsToLikes: 0.019514
     id: ck13c2yr8ydam0i19zik1xekc
     verified: true
-    hashtags: "#jednasijedina, #istanbul, #4000, #liege"
+    hashtags: "#konyaspor, #konyasporgeliyorbak, #itw, #focused"
+  - username: "alperuludag_"
+    fullname: >-
+      Alper Uludağ
+    location: "Turkey"
+    followers: 19165
+    engagement: 794
+    commentsToLikes: 0.026971
+    id: ckap4ju667ovz0i78qxjmfsvz
+    verified: true
+    hashtags: "#rome, #wifey, #daughter, #nal"
   - username: "ummuhani__dinc"
     fullname: >-
-      Ümmühani Dinç
+      Ümmühani Dinç
     location: "Turkey"
-    followers: 104363
-    engagement: 89
-    commentsToLikes: 0.020923
+    followers: 123581
+    engagement: 122
+    commentsToLikes: 0.220701
     id: ck8t9d13bnn9h0j785of7okgb
     verified: false
-    hashtags: "#nefistarifler, #yemek, #ankara, #lolipopbox7"
+    hashtags: "#ulus619s, #heehsl, #mobilistan27, #kolaytarifler"
+  - username: "xgamzeli_4242"
+    fullname: >-
+      gamze
+    location: "Turkey"
+    followers: 3080
+    engagement: 4107
+    commentsToLikes: 0.030870
+    id: ckaosupt2t35c0i788l8b60lv
+    verified: false
+    hashtags: ""
+  - username: "nihalcesunumlar"
+    fullname: >-
+      nihalcesunumlar
+    location: "Turkey"
+    followers: 19024
+    engagement: 655
+    commentsToLikes: 0.096543
+    id: ckap3kd2j3d2n0i78o8vag5mg
+    verified: false
+    hashtags: "#flum24052020, #701814, #22, #key"
   - username: "ayseden_bir_tutam_lezzet"
     fullname: >-
       REKLAM ve İŞBİRLİĞİ için 🔊DM
     location: "Turkey"
-    followers: 18854
-    engagement: 521
-    commentsToLikes: 0.101008
+    followers: 20340
+    engagement: 515
+    commentsToLikes: 0.087294
     id: ck8t8vbsmlyzz0j78z9iy7rhe
     verified: false
-    hashtags: ""
-  - username: "kanavicem42"
-    fullname: >-
-      💫
-    location: "Turkey"
-    followers: 7974
-    engagement: 852
-    commentsToLikes: 0.099894
-    id: ck8t3edtn2ybe0j78bqx4ra8x
-    verified: false
-    hashtags: "#ceyizlik, #ceyizhazirligi, #evindekalturkiyem, #seccademodelleri"
+    hashtags: "#tbt"
   - username: "sir.photographyy"
     fullname: >-
       @SIR.Photography 📸
     location: "Turkey"
-    followers: 9871
-    engagement: 1217
-    commentsToLikes: 0.028749
+    followers: 10120
+    engagement: 1386
+    commentsToLikes: 0.034428
     id: ck8t6is07dsig0j78gh0e9tf3
     verified: false
-    hashtags: "#konyahane, #siyahbeyazfoto, #fotografcilik, #mevlana"
-  - username: "z.e.e.i"
-    fullname: >-
-      Emine Doğan / Elmaağaç
-    location: "Turkey"
-    followers: 90348
-    engagement: 147
-    commentsToLikes: 0.047079
-    id: ck5zux4gp372d0i14v2n8uzu2
-    verified: false
-    hashtags: "#helva, #kahvalti, #breads, #mercimeklik"
-  - username: "ssevgii0"
-    fullname: >-
-      🐞 sevgi 🐞
-    location: "Turkey"
-    followers: 6304
-    engagement: 781
-    commentsToLikes: 0.062677
-    id: ck8tdjzji3mca0j78bw0fd4vn
-    verified: false
-    hashtags: "#iyiak, #yemektarifleri, #atvhaber, #cheesecake"
-  - username: "pembedunyammm"
-    fullname: >-
-      Ümran
-    location: "Turkey"
-    followers: 28410
-    engagement: 113
-    commentsToLikes: 0.106780
-    id: ck5c9v3qfc6cg0i11rul1fj44
-    verified: false
-    hashtags: "#makyajblogger, #mart, #evdekalt, #avonparf"
-  - username: "zehranin_hertelden_biz_sayfas"
-    fullname: >-
-      Zehra Dogan
-    location: "Turkey"
-    followers: 15255
-    engagement: 404
-    commentsToLikes: 0.044921
-    id: ck8t7p90fhjhi0j78en3oxmaq
-    verified: false
-    hashtags: "#sglkliklalim, #vitamin, #sa, #kahvalt"
+    hashtags: "#olgunla, #nureddiny, #galaxynote9, #toprak"
 ---

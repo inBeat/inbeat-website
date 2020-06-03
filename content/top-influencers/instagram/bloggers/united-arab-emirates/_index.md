@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top bloggers Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubaiblogger #dubai #mydubai #travelblogger.
+  Find top bloggers Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #makeup #dubaifashion #fashionblogger #friends.
 platform: Instagram
 profiles:
-  - username: "travelwithmila_"
+  - username: "ibra.al.h"
     fullname: >-
-      𝐌 𝐈 𝐋 𝐀
+      IBRAHIM إبراهيم الحُمّادة🇸🇾🇦🇪
     location: "United Arab Emirates"
-    followers: 2078
-    engagement: 1893
-    commentsToLikes: 0.113241
-    id: ck8t3vgwg4n4q0j78wjnqep7t
+    followers: 92797
+    engagement: 961
+    commentsToLikes: 0.041836
+    id: ckap5bz2nazk10i78xz3ynxyo
     verified: false
-    hashtags: "#travelblogger, #fashiongrammer, #styleinfluencer, #mylookoftheday"
-  - username: "tamannawahi_"
+    hashtags: "#blackandwhite, #goodnight, #blogge, #bloggers"
+  - username: "israashams"
     fullname: >-
-      Tamanna Wahi
+      Luna. 🌙
     location: "United Arab Emirates"
-    followers: 39764
-    engagement: 278
-    commentsToLikes: 0.077514
-    id: ck0u2gnegzxv90i1907b2kkil
+    followers: 34068
+    engagement: 355
+    commentsToLikes: 0.060578
+    id: ckaot5io2ugxp0i78alfkj486
     verified: false
-    hashtags: "#leapforfullspeed, #swagsesolo, #visitabudhabi, #ootd"
-  - username: "yousif.mohammd"
+    hashtags: "#springtime, #springhassprung, #giveaway, #scrub"
+  - username: "mahsaghazanfari20"
     fullname: >-
-      Yousif Mohammd - يوسف محمد
+      Mahsaghazanfari
     location: "United Arab Emirates"
-    followers: 71817
-    engagement: 222
-    commentsToLikes: 0.248306
-    id: ck6u4uwxc5xk60j715xuhmxzx
+    followers: 147056
+    engagement: 300
+    commentsToLikes: 0.066894
+    id: ck6ug43j00t0c0j7133ha67ck
     verified: false
-    hashtags: "#abudhabi, #ajmaninfluencer, #bestclinicdubai, #caesarpalace"
+    hashtags: "#shoes, #lifestyle, #dolgonacoffee, #personalstylist"
+  - username: "omgsuraiyaa"
+    fullname: >-
+      Suraiya - UAE🇦🇪
+    location: "United Arab Emirates"
+    followers: 18082
+    engagement: 665
+    commentsToLikes: 0.045991
+    id: ckap6v36ihgwm0i7831s10hh8
+    verified: false
+    hashtags: "#staysafe, #hijabinspo, #flatlays, #quarantinelife"
+  - username: "lusik_kar"
+    fullname: >-
+      Lusik Karapetyan
+    location: "United Arab Emirates"
+    followers: 1151440
+    engagement: 183
+    commentsToLikes: 0.110487
+    id: ck14hwuomcjcb0i19e279bhyk
+    verified: false
+    hashtags: ""
+  - username: "suzanalsulaymani"
+    fullname: >-
+      Suzan Alsulaymani
+    location: "United Arab Emirates"
+    followers: 45550
+    engagement: 188
+    commentsToLikes: 0.065095
+    id: ck6tk35ac3wz00j71k0q3kkhc
+    verified: false
+    hashtags: "#hairstyles, #tv, #baghdad, #black"
   - username: "xvalkoph"
     fullname: >-
       Dubai Photographer 📸
     location: "United Arab Emirates"
-    followers: 165992
-    engagement: 171
-    commentsToLikes: 0.047789
+    followers: 165175
+    engagement: 164
+    commentsToLikes: 0.047395
     id: ck6u7agvlkdv30j71tv5h1z25
     verified: false
-    hashtags: "#dubaitag, #dubainight, #dubaiblogger, #dubaivideographer"
-  - username: "zoyashoukatbutt"
-    fullname: >-
-      ZOYA👑
-    location: "United Arab Emirates"
-    followers: 13278
-    engagement: 508
-    commentsToLikes: 0.252001
-    id: ck14l7jmmt97r0i19fvf008tr
-    verified: false
-    hashtags: "#womencare, #uaeblogger, #makeup, #glitter"
+    hashtags: "#wmotors, #photoshootdubai, #dubaiphotoshoot, #dubaiphographer"
   - username: "ajmal_khan_"
     fullname: >-
       Ajmal Khan | AK
     location: "United Arab Emirates"
-    followers: 1652078
-    engagement: 325
-    commentsToLikes: 0.013886
+    followers: 1619351
+    engagement: 381
+    commentsToLikes: 0.016173
     id: ck0u9huh19wtj0i19c0zp8fz9
     verified: true
-    hashtags: "#happiness, #selfietime, #inspiration, #loveyourmelon"
-  - username: "miss.everywhere"
+    hashtags: "#urban, #armwrestling, #dubaifashion, #biker"
+  - username: "deakedinakarina"
     fullname: >-
-      Mareen | Cologne | Germany
+      Travel | Fashion | Hotels
     location: "United Arab Emirates"
-    followers: 524883
-    engagement: 257
-    commentsToLikes: 0.032526
-    id: ck0w0d1jfdkoy0i199g0aqx9r
-    verified: true
-    hashtags: "#flightreview, #dertour, #startyourdayright, #instameetsa"
-  - username: "bonjoursunset"
-    fullname: >-
-      Emma | Dubai 🛫🌍☀️🌅
-    location: "United Arab Emirates"
-    followers: 6891
-    engagement: 583
-    commentsToLikes: 0.061070
-    id: ck6ub3kws79ff0j716tqo7ypd
+    followers: 18506
+    engagement: 255
+    commentsToLikes: 0.104931
+    id: ck8ta1m8fq4bc0j78x4apok15
     verified: false
-    hashtags: "#beachholiday, #womenwhoexplore, #middleeasttravel, #globelletravels"
-  - username: "ellacollinsfitness"
+    hashtags: "#prom, #canggulife, #bathroomdesign, #exploretheworld"
+  - username: "tamannawahi_"
     fullname: >-
-      Eleanor Collins 🇿🇦
+      Tamanna Wahi
     location: "United Arab Emirates"
-    followers: 38320
-    engagement: 314
-    commentsToLikes: 0.021291
-    id: ck5hl95wljsqx0i11ahcel3w7
+    followers: 40522
+    engagement: 299
+    commentsToLikes: 0.029870
+    id: ck0u2gnegzxv90i1907b2kkil
     verified: false
-    hashtags: "#nordic, #mydubai, #staycation, #myadventures"
-  - username: "el_amoon"
-    fullname: >-
-      إِيمــٓانْ 💕
-    location: "United Arab Emirates"
-    followers: 7148
-    engagement: 642
-    commentsToLikes: 0.040461
-    id: ck6txuwmtzzs70j71uapc5uet
-    verified: false
-    hashtags: "#blue, #happy, #uaenationalday, #friday"
+    hashtags: "#family, #filame, #ramadancollection, #sfera"
 ---

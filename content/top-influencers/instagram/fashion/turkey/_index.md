@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Turkey In 2020
 description: >-
-  Find top fashion Instagram influencers in Turkey in 2020. Most popular hashtags: #evdekal #evdekalt #tbt #fashion.
+  Find top fashion Instagram influencers in Turkey in 2020. Most popular hashtags: #stayhome #fashionista #fashion #spring.
 platform: Instagram
 profiles:
-  - username: "bayan.32dis"
+  - username: "izgisimal"
     fullname: >-
-      Ebru Güneş 🎩
+      Şimal İzgi 🍒
     location: "Turkey"
-    followers: 126365
-    engagement: 668
-    commentsToLikes: 0.042314
-    id: ck8wf3d9kf29r0j78lneszht1
+    followers: 2764
+    engagement: 2747
+    commentsToLikes: 0.133969
+    id: ckaot27amu1im0i78imlj088h
     verified: false
-    hashtags: "#ohadoymad, #fyp, #evindekalt, #anasayfa"
-  - username: "mayabasol"
+    hashtags: "#purple, #lilacmakeup, #makeuplook, #quarantine"
+  - username: "enfaldiner"
     fullname: >-
-      A S Y A & M A Y A  B A Ş O L
+      Enfal Diner
     location: "Turkey"
-    followers: 188094
-    engagement: 935
-    commentsToLikes: 0.494897
-    id: ck137l5f4c3fj0i19zcbknynz
+    followers: 148270
+    engagement: 1918
+    commentsToLikes: 0.462020
+    id: ck6typy1d56fb0j717q83n76s
     verified: false
-    hashtags: "#defactogetirsin, #evdeyiz, #sundaystyle, #tb"
-  - username: "yagmurguren__kulfel"
-    fullname: >-
-      Yagmur GUREN KULFEL
-    location: "Turkey"
-    followers: 16542
-    engagement: 720
-    commentsToLikes: 0.093698
-    id: ck0txr8a1k8hn0i19udsydld0
-    verified: false
-    hashtags: "#maternityphotography, #coffee, #moda, #winterfest"
-  - username: "parissa_saber"
-    fullname: >-
-      Parissa Saber🧿
-    location: "Turkey"
-    followers: 422915
-    engagement: 458
-    commentsToLikes: 0.041589
-    id: ck0u63bf30wxa0i1968oi2lyg
-    verified: false
-    hashtags: "#fashiondesigner, #luxurylifestyle, #yalda, #stylistd"
+    hashtags: "#herkes, #hayat, #opporeno3pro"
   - username: "eceetuncel"
     fullname: >-
       Ece Tuncel
     location: "Turkey"
-    followers: 153649
-    engagement: 393
-    commentsToLikes: 0.092431
+    followers: 186838
+    engagement: 1773
+    commentsToLikes: 0.605199
     id: ck5ca19fwcin50i11te28n4nr
     verified: false
-    hashtags: "#staychicathomechallange, #evdekalt, #homesweethome, #italy"
-  - username: "ojebeni"
+    hashtags: "#ootd, #tbt, #yast, #stayhome"
+  - username: "ozlem.ozaydiin"
     fullname: >-
-      Beste Ç.
+      Ö 𝐙 𝐋 𝐄 𝐌   Ö 𝐙 𝐀 𝐘 𝐃 𝐈 𝐍
     location: "Turkey"
-    followers: 94645
-    engagement: 340
-    commentsToLikes: 0.175853
-    id: ck15rybfkabcp0i19hof0c69n
+    followers: 14249
+    engagement: 1377
+    commentsToLikes: 0.112224
+    id: ck9wfl6vhpcc20j78ohgu3nuz
     verified: false
-    hashtags: "#lila, #nailarttutorial, #zebradesen, #frenchtips"
-  - username: "idilunuvaar"
+    hashtags: "#summervibes, #gezginstagram, #oodt, #thebest"
+  - username: "mayabasol"
     fullname: >-
-      İdil Ünüvar
+      A S Y A & M A Y A  B A Ş O L
     location: "Turkey"
-    followers: 11078
-    engagement: 855
-    commentsToLikes: 0.152036
-    id: ck0w6qn389u1q0i1962yt50ug
+    followers: 197026
+    engagement: 615
+    commentsToLikes: 0.072396
+    id: ck137l5f4c3fj0i19zcbknynz
     verified: false
-    hashtags: "#sevgllrgnu, #seemyigtv, #fashion, #mutluhaftasonlar"
-  - username: "julidekir"
+    hashtags: "#possitivevibes, #summer, #happybirthdaytome, #spring"
+  - username: "busrayurtgul"
     fullname: >-
-      Jülide Kır
+      Büşra Yurtgül Neziroglulari
     location: "Turkey"
-    followers: 56509
-    engagement: 315
-    commentsToLikes: 0.102591
-    id: ck15subf3eu5z0i1942fumqkc
+    followers: 249644
+    engagement: 590
+    commentsToLikes: 0.178358
+    id: ck139k5xplpjy0i19x6soai4b
     verified: false
-    hashtags: ""
-  - username: "yagmurdoganayy"
+    hashtags: "#styleoftheday, #today, #poolchallenge, #homeoutfit"
+  - username: "yoncacalli"
     fullname: >-
-      YAĞMUR
+      Yonca Calli
     location: "Turkey"
-    followers: 70939
-    engagement: 251
-    commentsToLikes: 0.078289
-    id: ck6tyu5c85vhj0j7113bx28yy
+    followers: 21274
+    engagement: 854
+    commentsToLikes: 0.089152
+    id: ck8td7tch29060j78vzjlhh1g
     verified: false
-    hashtags: "#orchid, #weekend, #siyah, #pembe"
-  - username: "dunyayigezenkiz"
+    hashtags: "#pinkdress, #gucci, #fashionbag, #goldbracelet"
+  - username: "iipekkcandan"
     fullname: >-
-      AHSEN TALYA ÇEBİ KURTUL
+      ipek
     location: "Turkey"
-    followers: 10298
-    engagement: 663
-    commentsToLikes: 0.228603
-    id: ck0w5c75o2xop0i19ty31txma
+    followers: 20353
+    engagement: 770
+    commentsToLikes: 0.800914
+    id: ckaou0lq6y9hy0i787jjmwk4l
     verified: false
-    hashtags: "#beautifuldestinations, #trendyol, #discoveryplanet, #evdekal"
+    hashtags: "#stayhome"
+  - username: "parissa_saber"
+    fullname: >-
+      ParissaSaber|پريسا صابر
+    location: "Turkey"
+    followers: 444016
+    engagement: 483
+    commentsToLikes: 0.043436
+    id: ck0u63bf30wxa0i1968oi2lyg
+    verified: false
+    hashtags: "#1399, #decoration, #relax, #fashionblogger"
+  - username: "daniyalbashghareh"
+    fullname: >-
+      Photographer || دانیال باش قره
+    location: "Turkey"
+    followers: 52804
+    engagement: 472
+    commentsToLikes: 0.053363
+    id: ck9wh01nwvmm40j78ndl6lwby
+    verified: false
+    hashtags: "#photographer, #lover, #nikon, #gonbadkavus"
 ---

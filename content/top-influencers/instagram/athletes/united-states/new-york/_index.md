@@ -1,59 +1,49 @@
 ---
 title: Top 10 Athletes Instagram Influencers In New York In 2020
 description: >-
-  Find top athletes Instagram influencers in New York in 2020. Most popular hashtags: #model #fitness #fashion #newyorkcity.
+  Find top athletes Instagram influencers in New York in 2020. Most popular hashtags: #athlete #travel #stayhome #dancevideo.
 platform: Instagram
 profiles:
   - username: "justinpaulmusic"
     fullname: >-
       Justin Paul
     location: "United States"
-    followers: 30628
-    engagement: 457
-    commentsToLikes: 0.017631
+    followers: 31101
+    engagement: 471
+    commentsToLikes: 0.016732
     id: ck6ucgf3nfgap0j7127nrsozv
     verified: true
-    hashtags: "#apple, #happynewyear, #serving, #halloween2019"
+    hashtags: "#nofilter, #justiceforahmaud, #happyvalentinesday, #newengland"
   - username: "heldilox"
     fullname: >-
       Ryan Held
     location: "United States"
-    followers: 19045
-    engagement: 984
-    commentsToLikes: 0.005812
+    followers: 19282
+    engagement: 958
+    commentsToLikes: 0.006052
     id: ck138ifmtgdbt0i19m1wz6k87
     verified: true
     hashtags: "#more, #staywavy, #tyrproseries, #wearenc"
-  - username: "oludele2"
+  - username: "sisimorris"
     fullname: >-
-      OKINGMEDIA IMAGES
+      Sienna Morris
     location: "United States"
-    followers: 163503
-    engagement: 107
-    commentsToLikes: 0.063367
-    id: ck13bddgyuw2c0i191k22niir
+    followers: 23939
+    engagement: 867
+    commentsToLikes: 0.019567
+    id: ck15uik43nciu0i199xda2ewa
     verified: false
-    hashtags: "#newyorkmodels, #dnamodels, #laquansmith, #filmaker"
-  - username: "aliciaericafit"
-    fullname: >-
-      Alicia Stein
-    location: "United States"
-    followers: 11217
-    engagement: 416
-    commentsToLikes: 0.037728
-    id: ck0vzkgum9jpx0i19zej50nys
-    verified: false
-    hashtags: "#views, #guac, #tbt, #foxy"
+    hashtags: "#joggers, #lifestory, #youtubevideo, #stretch"
   - username: "juliaamorris"
     fullname: >-
       Julia Morris
     location: "United States"
-    followers: 17321
-    engagement: 337
-    commentsToLikes: 0.018701
+    followers: 17365
+    engagement: 358
+    commentsToLikes: 0.020327
     id: ck5c4fgrc18qg0i11xuh87vvn
     verified: false
-    hashtags: "#fashioneditorial, #fantasyart, #ellecover, #fashion"
+    hashtags: "#valentines, #newyorkpost, #nico, #view"
   - username: "1swiftmotion"
     fullname: >-
       Manny Chacón 🇵🇷🇬🇹
@@ -64,44 +54,54 @@ profiles:
     id: ck14j455jijji0i191oyklooj
     verified: false
     hashtags: "#faith, #jbalvin, #myketowers, #lsu"
-  - username: "iam_ryanashley"
+  - username: "hancockphoto"
     fullname: >-
-      Ryan Ashley
+      Andrew Hancock
     location: "United States"
-    followers: 19585
-    engagement: 316
-    commentsToLikes: 0.081029
-    id: ck5zo2eknpm2r0i14h9efrtfw
+    followers: 9996
+    engagement: 323
+    commentsToLikes: 0.033275
+    id: ck8sydqobkiyn0j78ioa2ek8j
     verified: false
-    hashtags: "#holidayfamily, #mondaymotivation, #optionsmodels, #romcom"
-  - username: "valafilms"
+    hashtags: "#stayhome, #fields, #tattoo, #cuba"
+  - username: "bugboy.pk"
     fullname: >-
-      Khan 🎥
+      Bug 🐛🐜
     location: "United States"
-    followers: 4575
-    engagement: 3870
-    commentsToLikes: 0.078530
-    id: ck13c8byoz30w0i19arc61a1s
+    followers: 7228
+    engagement: 1231
+    commentsToLikes: 0.026834
+    id: ck0uba8sbe7hx0i19n4fph76e
     verified: false
-    hashtags: "#nationalgeographic, #explorehawaii, #travelblogger, #fitnessmotivation"
-  - username: "officialzoeenyc"
+    hashtags: "#newyork, #espn, #athlete, #motivation"
+  - username: "juju__fit"
     fullname: >-
-      Zoe RoseGold 🇭🇹🇺🇸
+      Jules ♛ CPT
     location: "United States"
-    followers: 6309
-    engagement: 650
-    commentsToLikes: 0.112667
-    id: ck6trtg330zp10j71sakwh64w
+    followers: 9310
+    engagement: 921
+    commentsToLikes: 0.046097
+    id: ck8t34gr51tjq0j78b41xw99u
     verified: false
-    hashtags: "#lgtbqplussupport, #internetradio, #soul, #superbowlparty"
-  - username: "overtimemikey"
+    hashtags: "#yoga, #handstandpushup, #giveback, #backyardworkout"
+  - username: "matttralli5"
     fullname: >-
-      Mike Kaufman
+      Matt Tralli
     location: "United States"
-    followers: 16491
-    engagement: 1185
-    commentsToLikes: 0.044021
-    id: ck0w0ll72etl40i19dj2w9440
+    followers: 26983
+    engagement: 788
+    commentsToLikes: 0.026326
+    id: ck55ofu1w89re0i11l91u94y4
     verified: false
-    hashtags: "#shoutoutot, #dame, #onelastdance, #corona"
+    hashtags: "#chestworkout, #fullbody, #backworkouts, #legdaychallenge"
+  - username: "ahicks31"
+    fullname: >-
+      Aaron Hicks
+    location: "United States"
+    followers: 183566
+    engagement: 677
+    commentsToLikes: 0.014407
+    id: ck6towjw2gi8l0j71mjqzoodh
+    verified: true
+    hashtags: "#londonseries, #42, #ripsmoke, #happynewyear"
 ---

@@ -1,27 +1,27 @@
 ---
 title: Top 10 Triathlon Athletes Instagram Influencers In 2020
 description: >-
-  Find top triathlon athletes Instagram influencers in 2020. Most popular hashtags: #ironman #enjoy #giuliomolinari #running.
+  Find top triathlon athletes Instagram influencers in 2020. Most popular hashtags: #ciclisme #lovemybike #orbeaomx #pornbike.
 platform: Instagram
 profiles:
   - username: "giulio.molinari"
     fullname: >-
       Giulio Molinari
     location: "Italy"
-    followers: 9144
-    engagement: 915
-    commentsToLikes: 0.027064
+    followers: 9509
+    engagement: 1205
+    commentsToLikes: 0.030821
     id: ck134zj3yyymk0i19oji97o3u
     verified: false
-    hashtags: "#livigno, #skialp, #lancerevo9, #tacx"
-  - username: "santiagoherediao"
+    hashtags: "#presenti, #challengericcione, #nonfatecazzate, #challengefamily"
+  - username: "pol.tarres"
     fullname: >-
-      Santiago Heredia 🐺
-    location: "Colombia"
-    followers: 16532
-    engagement: 159
-    commentsToLikes: 0.033649
-    id: ck8t01oiaqj6n0j786t7ufmzv
+      Pol Tarrés Martrat
+    location: "Italy"
+    followers: 18395
+    engagement: 519
+    commentsToLikes: 0.028261
+    id: ck0u202v4yegt0i195jki5qjx
     verified: false
-    hashtags: "#enjoy, #instasports, #sunday, #uarush"
+    hashtags: "#orbearallon, #roadbikelife, #roadbike, #cyclingaddict"
 ---

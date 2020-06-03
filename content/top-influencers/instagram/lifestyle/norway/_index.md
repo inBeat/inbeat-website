@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Norway In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Norway in 2020. Most popular hashtags: #visitnorway #travel #ad #norway.
+  Find top lifestyle Instagram influencers in Norway in 2020. Most popular hashtags: #tights #happyplace #breakfast #strong.
 platform: Instagram
 profiles:
   - username: "saumiya"
     fullname: >-
       MIYA T. 🦋
     location: "Norway"
-    followers: 25162
-    engagement: 1029
-    commentsToLikes: 0.065655
+    followers: 25810
+    engagement: 1112
+    commentsToLikes: 0.065007
     id: ck8swuknrfagc0j7874qbjzbg
     verified: false
-    hashtags: "#browngirls, #desi, #makeup, #saree"
+    hashtags: "#pakistani, #femalefamily, #okaytoslay, #desi"
+  - username: "aanjaha"
+    fullname: >-
+      Anja Hansen
+    location: "Norway"
+    followers: 9701
+    engagement: 839
+    commentsToLikes: 0.435804
+    id: ck9wevvp8m2fe0j78xx2c8c8x
+    verified: false
+    hashtags: "#delicious, #ramnfloget, #viewpoint, #morning"
+  - username: "ingridkristiansen_"
+    fullname: >-
+      INGRID KRISTIANSEN
+    location: "Norway"
+    followers: 3840
+    engagement: 1487
+    commentsToLikes: 0.226074
+    id: ck8t68e32cn750j78d0yv667f
+    verified: false
+    hashtags: "#heavylifting, #firgirl, #clothing, #hjemmetrening"
+  - username: "juliebjanes"
+    fullname: >-
+      Julie Bjanes | NORWAY
+    location: "Norway"
+    followers: 15457
+    engagement: 513
+    commentsToLikes: 0.126739
+    id: ck15qhvuk2x4x0i198u4yylk7
+    verified: false
+    hashtags: "#oslo, #mammut, #possibilities, #sunrise"
+  - username: "anneliaaland"
+    fullname: >-
+      ANNELI AALAND
+    location: "Norway"
+    followers: 6344
+    engagement: 539
+    commentsToLikes: 0.104416
+    id: ck15r51nm66qx0i19agkwr2l9
+    verified: false
+    hashtags: "#details, #coffee, #jewelry, #food"
   - username: "runilandmark"
     fullname: >-
       🔮 Runi
     location: "Norway"
-    followers: 40421
-    engagement: 748
-    commentsToLikes: 0.020551
+    followers: 39493
+    engagement: 730
+    commentsToLikes: 0.019549
     id: ck5hn9sobnfyi0i11cqb8boan
     verified: false
-    hashtags: "#giveaway, #training, #film, #fitness"
-  - username: "juliebjanes"
-    fullname: >-
-      Julie Bjanes
-    location: "Norway"
-    followers: 15571
-    engagement: 391
-    commentsToLikes: 0.142990
-    id: ck15qhvuk2x4x0i198u4yylk7
-    verified: false
-    hashtags: "#winterbreak, #cabinstyle, #climber, #helse"
-  - username: "the_optimisticgirl"
-    fullname: >-
-      Amara Jakobsen.
-    location: "Norway"
-    followers: 16636
-    engagement: 321
-    commentsToLikes: 0.124847
-    id: ck6u4yexg6igx0j714n8zdm31
-    verified: false
-    hashtags: "#melaninbeauty, #mybeigelife, #bloggerin, #pregnancydiary"
-  - username: "edituotoja"
-    fullname: >-
-      🌸Edith
-    location: "Norway"
-    followers: 13690
-    engagement: 429
-    commentsToLikes: 0.159360
-    id: ck8sy5imsjrxi0j78n799f3mo
-    verified: false
-    hashtags: "#toddler, #familieliv, #newmom, #postpartum"
+    hashtags: "#training, #fitfam, #legs, #glutes"
   - username: "andrealowing"
     fullname: >-
       Andrea Lowing 👑 IFBB Bikini
     location: "Norway"
-    followers: 11207
-    engagement: 601
-    commentsToLikes: 0.077537
+    followers: 12698
+    engagement: 762
+    commentsToLikes: 0.069578
     id: ck8t6pi6led900j7848rkv3h0
     verified: false
-    hashtags: "#saturday, #photooftheday, #bikinicompetitor, #fitnessgirl"
-  - username: "kamisaaurora"
+    hashtags: "#squats, #girlswholift, #stayhome, #longtimenogym"
+  - username: "macerlyofficial"
     fullname: >-
-      K A M I S A
+      Macerly | Madeleine
     location: "Norway"
-    followers: 2975
-    engagement: 1208
-    commentsToLikes: 0.121482
-    id: ck5bwq7eum74i0i11v5lwi1y0
+    followers: 23164
+    engagement: 849
+    commentsToLikes: 0.016949
+    id: ck6006jahd1is0i143mxpqitq
     verified: false
-    hashtags: "#gymgirl, #fitspo, #fitgirls, #empiremindset"
-  - username: "helenedrage"
+    hashtags: "#growingupwithsiblings, #dormroom, #university, #who"
+  - username: "woicefu"
     fullname: >-
-      Helene Drage
+      Kjærsti 🇧🇻
     location: "Norway"
-    followers: 25445
-    engagement: 115
-    commentsToLikes: 0.056449
-    id: ck14hvfhncbmv0i19sro9msdc
+    followers: 2007
+    engagement: 1523
+    commentsToLikes: 0.086897
+    id: ckap2tdqr08lh0i78w6rnzmpt
     verified: false
-    hashtags: "#ikkehusmoremne, #perspektiv, #tbt, #hdutfordring"
-  - username: "onesteptotheworld"
+    hashtags: "#jagharviljan, #photoshopcc, #sprekeremeg, #treningsjenter"
+  - username: "zimmerchristina"
     fullname: >-
-      Céline & Chris👣🌎
+      🇳🇴 Christina Zimmer ❆
     location: "Norway"
-    followers: 25603
-    engagement: 864
-    commentsToLikes: 0.077310
-    id: ck137h0tzbhxg0i19z6kb0m0f
+    followers: 2067
+    engagement: 2789
+    commentsToLikes: 0.150813
+    id: ckaoubbhczm8u0i78xurqtttk
     verified: false
-    hashtags: "#auroraborealis, #lesfrancaisvoyagent, #sheisnotlost, #mynorway"
-  - username: "linelangmo"
-    fullname: >-
-      LINE LANGMO
-    location: "Norway"
-    followers: 34593
-    engagement: 92
-    commentsToLikes: 0.039612
-    id: ck1366nvu4zum0i19shsqe3g4
-    verified: false
-    hashtags: "#jotex, #julegavetips, #julestemning, #knittersofinstagram"
+    hashtags: "#weaddnature, #arctic, #naturelovers, #bunad"
 ---

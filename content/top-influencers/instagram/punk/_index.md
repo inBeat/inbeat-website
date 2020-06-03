@@ -1,107 +1,107 @@
 ---
 title: Top 10 Punk Instagram Influencers In 2020
 description: >-
-  Find top punk Instagram influencers in 2020. Most popular hashtags: #punk #punkgirl #punkrock #alternativegirl.
+  Find top punk Instagram influencers in 2020. Most popular hashtags: #alternative #stayathome #staystrong #music.
 platform: Instagram
 profiles:
-  - username: "siljasailor"
+  - username: "nathalynnes"
     fullname: >-
-      
-    location: "United Kingdom"
-    followers: 7227
-    engagement: 1427
-    commentsToLikes: 0.055699
-    id: ck55ko7ggzqwl0i1128rp0woy
+      Nathaly Nunes
+    location: "Brazil"
+    followers: 2945
+    engagement: 2290
+    commentsToLikes: 0.162826
+    id: ck8t1st9qwvw40j78zen5jjam
     verified: false
-    hashtags: "#nastygal, #toofaced, #kreepsville666, #bettiebangs"
-  - username: "muberry_"
-    fullname: >-
-      Alex
-    location: "United Kingdom"
-    followers: 3666
-    engagement: 4426
-    commentsToLikes: 0.526007
-    id: ck6u2tu78tvc20j71ph5035xx
-    verified: false
-    hashtags: "#daretocreate, #makeupmafia, #eyelashesonfleek, #underratedmuas"
-  - username: "punk_roquette"
-    fullname: >-
-      Émilie Plamondon 🎤 📻
-    location: "Canada"
-    followers: 11527
-    engagement: 832
-    commentsToLikes: 0.068301
-    id: ck0tt3rp411500i19qcipw8rk
-    verified: false
-    hashtags: "#lefthanded, #upthepunks, #bandshirt, #poppunk"
-  - username: "gazzelle__"
-    fullname: >-
-      GAZZELLE
-    location: "Italy"
-    followers: 379723
-    engagement: 1778
-    commentsToLikes: 0.014947
-    id: ck0vzs3sgan070i19qkg371aq
-    verified: true
-    hashtags: "#gazzellexjeckerson, #jeckerson, #postpunktour"
+    hashtags: "#gothicgirl, #alternative, #redheadgirl, #goth"
   - username: "mazayofficial"
     fullname: >-
       MAZAY
     location: "Italy"
-    followers: 76190
-    engagement: 542
-    commentsToLikes: 0.039546
+    followers: 81722
+    engagement: 471
+    commentsToLikes: 0.048230
     id: ck0u21n12ylm70i196fythub9
     verified: false
-    hashtags: "#pumaone, #marceloburlon, #fuckcoronavirus, #djset"
-  - username: "captainsensible1"
-    fullname: >-
-      Captain Sensible
-    location: "Portugal"
-    followers: 9318
-    engagement: 1336
-    commentsToLikes: 0.028884
-    id: ck8sxfychh95m0j782tftefcw
-    verified: false
-    hashtags: "#marksandspencer, #jordanmooney, #marmite, #moreteavicarvintage"
+    hashtags: "#thisisdazn, #dontstop, #gotme, #surf"
   - username: "diegonaska"
     fullname: >-
       Naska
     location: "Italy"
-    followers: 26273
-    engagement: 1840
-    commentsToLikes: 0.023786
+    followers: 31195
+    engagement: 1737
+    commentsToLikes: 0.038255
     id: ck8sysn3jluqd0j78azcxqjco
     verified: true
     hashtags: ""
-  - username: "alexravyn"
+  - username: "canadiankhaleesi"
     fullname: >-
-      𝖆𝖑𝖊𝖝 🖤
-    location: "Australia"
-    followers: 45066
-    engagement: 2021
-    commentsToLikes: 0.018459
-    id: ck8t3xxk54w9u0j78h20d7w4b
-    verified: false
-    hashtags: "#cutegoth, #fringe, #drmartens, #allblackoutfit"
-  - username: "nvdesmusic"
-    fullname: >-
-      NVDES
+      Emery
     location: "United States"
-    followers: 9829
-    engagement: 645
-    commentsToLikes: 0.100508
-    id: ck6uibutre7l20j71ijwwgc8k
-    verified: true
-    hashtags: "#rosequartzchallenge, #bts, #highfrequencyvibrations, #raisethefrequency"
-  - username: "jagermiss"
-    fullname: >-
-      jagermiss
-    location: "Russia"
-    followers: 3385
-    engagement: 1811
-    commentsToLikes: 0.094953
-    id: ck5cjt8ytvgjn0i11orffqbp0
+    followers: 52490
+    engagement: 1184
+    commentsToLikes: 0.033415
+    id: ckap7kfhfkge50i78kv02xf1y
     verified: false
-    hashtags: "#suicidesquad, #inspiredmakeup, #makeupartist, #comics"
+    hashtags: "#dukeuniversity, #fortbragg, #tanning, #twitchstreamer"
+  - username: "muberry_"
+    fullname: >-
+      Alex
+    location: "United Kingdom"
+    followers: 4234
+    engagement: 3888
+    commentsToLikes: 0.497360
+    id: ck6u2tu78tvc20j71ph5035xx
+    verified: false
+    hashtags: "#abhfam, #galaxymakeup, #narscosmetics, #abheyeprimer"
+  - username: "zol.vin"
+    fullname: >-
+      Zolvin
+    location: ""
+    followers: 5819
+    engagement: 4550
+    commentsToLikes: 0.050925
+    id: ckaoxog83e4ay0i78sjgs3ls9
+    verified: false
+    hashtags: "#tiktoker, #redaesthetic, #vintagelevis, #grunge"
+  - username: "punk_roquette"
+    fullname: >-
+      Émilie Plamondon 🎤 📻
+    location: "Canada"
+    followers: 12236
+    engagement: 867
+    commentsToLikes: 0.072584
+    id: ck0tt3rp411500i19qcipw8rk
+    verified: false
+    hashtags: "#theclash, #californiapunk, #joeycape, #punkandroll"
+  - username: "nasrat_mma"
+    fullname: >-
+      Nasrat Haqparast
+    location: "Germany"
+    followers: 146956
+    engagement: 838
+    commentsToLikes: 0.017222
+    id: ck0vx17trwml20i19vfth1sn2
+    verified: true
+    hashtags: "#focus"
+  - username: "dani_is_running_rebelangel"
+    fullname: >-
+      Daniela #Rebelangel😏🇩🇪⚓ ♥️🏃‍♀️
+    location: "Germany"
+    followers: 5068
+    engagement: 3252
+    commentsToLikes: 0.045081
+    id: ck8ta6gi1qm8r0j785v2y1c8u
+    verified: false
+    hashtags: "#thanks, #coronavirus, #planktraining, #planks"
+  - username: "pruella.naeht"
+    fullname: >-
+      Prülla - Danie
+    location: "Germany"
+    followers: 14665
+    engagement: 623
+    commentsToLikes: 0.083477
+    id: ck1388msnf0y90i19ni55osda
+    verified: false
+    hashtags: "#hoodie, #nachvorngucken, #bikerjacke, #campinglife"
 ---

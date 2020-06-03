@@ -1,107 +1,107 @@
 ---
 title: Top 10 Performing Artists Instagram Influencers In India In 2020
 description: >-
-  Find top performing artists Instagram influencers in India in 2020. Most popular hashtags: #india #mumbai #bollywood #dance.
+  Find top performing artists Instagram influencers in India in 2020. Most popular hashtags: #quarantine #throwback #bollywood #lockdown.
 platform: Instagram
 profiles:
-  - username: "snehaworld"
+  - username: "siddhishahofficial"
     fullname: >-
-      Sneha Singh
+      Siddhi Shah
     location: "India"
-    followers: 29166
-    engagement: 577
-    commentsToLikes: 0.035843
-    id: ck6ui5nqid7q50j71y5nvnile
+    followers: 3809
+    engagement: 1328
+    commentsToLikes: 0.046326
+    id: ckap4e6te6yoc0i78uyoo3zf4
     verified: false
-    hashtags: "#thankful, #doyou, #yoyohoneysingh, #bachata"
-  - username: "nikitha_krishnan"
-    fullname: >-
-      Nikitha Krishnan
-    location: "India"
-    followers: 7276
-    engagement: 495
-    commentsToLikes: 0.067896
-    id: ck8t62vitc1uf0j78v6keptx4
-    verified: false
-    hashtags: "#quanrantineandchill, #holi2020, #bollymusic, #bellydanceworkout"
+    hashtags: "#neverstop, #spookyedits, #scaryclown, #drumlife"
   - username: "sandeepkhareofficial"
     fullname: >-
       Sandeep Khare
     location: "India"
-    followers: 10345
-    engagement: 1073
-    commentsToLikes: 0.013154
+    followers: 13889
+    engagement: 1026
+    commentsToLikes: 0.018974
     id: ck0vv1gosn3sy0i19qaij11mo
     verified: false
     hashtags: ""
+  - username: "snehaworld"
+    fullname: >-
+      go corona go
+    location: "India"
+    followers: 31295
+    engagement: 611
+    commentsToLikes: 0.037839
+    id: ck6ui5nqid7q50j71y5nvnile
+    verified: false
+    hashtags: "#anitta, #victoriamonet, #gloriaestefan, #ysabellecaps"
+  - username: "nikitha_krishnan"
+    fullname: >-
+      Nikitha Krishnan
+    location: "India"
+    followers: 7816
+    engagement: 530
+    commentsToLikes: 0.075767
+    id: ck8t62vitc1uf0j78v6keptx4
+    verified: false
+    hashtags: "#anshikamishra, #qurantine, #balampichkari, #quarantine"
+  - username: "irudini_umali_thilakarathna"
+    fullname: >-
+      UMALI
+    location: "India"
+    followers: 238459
+    engagement: 111
+    commentsToLikes: 0.025028
+    id: ck9wdkyveg4xz0j7886wcrzfz
+    verified: false
+    hashtags: "#peaceandlove, #inthetimesofcorona, #manipulatedart, #original"
+  - username: "sandhyamuralidharan117"
+    fullname: >-
+      SANDHYA MURALIDHARAN
+    location: "India"
+    followers: 8356
+    engagement: 803
+    commentsToLikes: 0.016933
+    id: ck9hcgbhyl9440j78qc1yovdh
+    verified: false
+    hashtags: "#motivated, #motivation, #mindfulness, #2019bride"
   - username: "iswaryajayakumar"
     fullname: >-
-      ISWARYA JAYAKUMAR
+      • I S W A R Y A  J K •
     location: "India"
-    followers: 17492
-    engagement: 434
-    commentsToLikes: 0.018226
+    followers: 18142
+    engagement: 577
+    commentsToLikes: 0.017381
     id: ck6014gshetj10i146mmn4z9c
     verified: false
-    hashtags: "#fusion, #class, #photoshoot, #royal"
-  - username: "supriyakharat"
+    hashtags: "#southindian, #northindia, #traveldiaries, #contemporary"
+  - username: "daphisha_kharbani"
     fullname: >-
-      Supriya Kharat
+      Daphisha(Proud khasi girl)
     location: "India"
-    followers: 7545
-    engagement: 467
-    commentsToLikes: 0.054841
-    id: ck14gimto5esk0i1984qic63w
+    followers: 43564
+    engagement: 715
+    commentsToLikes: 0.024073
+    id: ck602netqi4wv0i14eea6kify
     verified: false
-    hashtags: "#embroidery, #fitcouplegoals, #fitnessmotivations, #terrior"
-  - username: "akshayanaik12"
+    hashtags: "#improvised, #photography, #khasidancers, #memes"
+  - username: "sushanttanwar9"
     fullname: >-
-      Akshaya Naik
+      S U S H A N T
     location: "India"
-    followers: 69556
-    engagement: 135
-    commentsToLikes: 0.055959
-    id: ck6uauluv5r8b0j71b8i37y9z
+    followers: 42118
+    engagement: 1693
+    commentsToLikes: 0.031601
+    id: ck8t1izzevyhc0j78bbg1dko5
     verified: false
-    hashtags: "#semiclassical, #gocorona, #pinkvilla, #shortfilm"
+    hashtags: "#ishachawla, #sharmanjoshi, #performing, #chetnapande"
   - username: "aasa.sing"
     fullname: >-
       Aasa Singh
     location: "India"
-    followers: 21400
-    engagement: 379
-    commentsToLikes: 0.023121
+    followers: 20927
+    engagement: 438
+    commentsToLikes: 0.025834
     id: ck5zvbqxm3xkm0i14pyh9rxoh
     verified: false
-    hashtags: "#musician, #musicfromhome, #happy, #instagood"
-  - username: "sumiborah"
-    fullname: >-
-      Sumi Borah
-    location: "India"
-    followers: 121607
-    engagement: 912
-    commentsToLikes: 0.004133
-    id: ck0w1dj0citlj0i194e3ylhi7
-    verified: false
-    hashtags: "#mobileclick, #ladakhdiaries, #vacation, #work"
-  - username: "ramavaidyanathan"
-    fullname: >-
-      Rama Vaidyanathan
-    location: "India"
-    followers: 29818
-    engagement: 390
-    commentsToLikes: 0.006818
-    id: ck5zshav9yhum0i14pnyj6t46
-    verified: false
-    hashtags: "#ganesanatyalaya, #durga, #dance, #classicaldance"
-  - username: "harshitsharmaa_official"
-    fullname: >-
-      Harshit Sharma
-    location: "India"
-    followers: 3201
-    engagement: 2226
-    commentsToLikes: 0.035226
-    id: ck135hqgk1hfx0i195g6ujqfc
-    verified: false
-    hashtags: "#pinksweats, #performing, #freestyledancer, #urban"
+    hashtags: "#brown, #kuchnahi, #city, #denim"
 ---

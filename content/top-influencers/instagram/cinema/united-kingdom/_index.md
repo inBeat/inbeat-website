@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cinema Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top cinema Instagram influencers in United Kingdom in 2020. Most popular hashtags: #filmmaking #london #cinematography #bts.
+  Find top cinema Instagram influencers in United Kingdom in 2020. Most popular hashtags: #video # #behindthescenes #stayathome.
 platform: Instagram
 profiles:
-  - username: "the_rinayang"
+  - username: "theweddingstoriesuk"
     fullname: >-
-      RINA YANG
+      The Wedding Stories
     location: "United Kingdom"
-    followers: 34555
-    engagement: 713
-    commentsToLikes: 0.021259
-    id: ck0u9gk529qmg0i19mdadsfxf
+    followers: 12075
+    engagement: 1376
+    commentsToLikes: 0.040424
+    id: ck5zmfslcmhuw0i14ahgyp1l1
     verified: false
-    hashtags: "#bafta, #whereisthehat, #canwetalkaboutdorset, #alexalf"
+    hashtags: ""
+  - username: "benedict_spence_dop"
+    fullname: >-
+      Benedict Spence
+    location: "United Kingdom"
+    followers: 32556
+    engagement: 868
+    commentsToLikes: 0.016748
+    id: ck5c0z0i0u4ft0i11ztekc224
+    verified: false
+    hashtags: "#stayhome"
   - username: "vanessavincentxx"
     fullname: >-
       Vanessa Judith Vincent
     location: "United Kingdom"
-    followers: 9557
-    engagement: 1597
-    commentsToLikes: 0.014405
+    followers: 10014
+    engagement: 1551
+    commentsToLikes: 0.014390
     id: ck0vv87i3nz600i19wxj0js3i
     verified: false
-    hashtags: "#cameras, #hellskitchen, #stressfree, #femalefilmmakerfriday"
-  - username: "khalifashema"
-    fullname: >-
-      Mr.K          🍊
-    location: "United Kingdom"
-    followers: 11227
-    engagement: 873
-    commentsToLikes: 0.035608
-    id: ck8szwcxzpyha0j781qqmxjsn
-    verified: false
-    hashtags: "#aluminium, #man, #ironman"
-  - username: "danteslens"
-    fullname: >-
-      Harrison Dante Jerome
-    location: "United Kingdom"
-    followers: 55200
-    engagement: 458
-    commentsToLikes: 0.047560
-    id: ck5zpaqmpsbds0i1479fxxtol
-    verified: false
-    hashtags: "#tonesbox, #filmschool, #portraiture, #stayhealthy"
+    hashtags: "#babalshams, #cosplay, #harleyquinn, #caesarspalace"
   - username: "memoirz"
     fullname: >-
       Asian Wedding Photo & Cinema
     location: "United Kingdom"
-    followers: 44366
-    engagement: 544
-    commentsToLikes: 0.008478
+    followers: 43753
+    engagement: 555
+    commentsToLikes: 0.008465
     id: ck0vuxi74mm270i19eofsk2rs
     verified: false
     hashtags: "#throwback, #throwbackthursday"
+  - username: "danteslens"
+    fullname: >-
+      Harrison Dante Jerome
+    location: "United Kingdom"
+    followers: 60251
+    engagement: 435
+    commentsToLikes: 0.046720
+    id: ck5zpaqmpsbds0i1479fxxtol
+    verified: false
+    hashtags: "#clickports, #portraitgames, #spacewheel, #stayhealthy"
   - username: "maxwilko"
     fullname: >-
       Max Willcocks
     location: "United Kingdom"
-    followers: 7358
-    engagement: 436
-    commentsToLikes: 0.063828
+    followers: 7638
+    engagement: 427
+    commentsToLikes: 0.060698
     id: ck5zx4hx57bv60i14r1vnbt57
     verified: false
-    hashtags: "#igshooters, #hoka, #inspiration, #blog"
-  - username: "imjamesb"
+    hashtags: "#redcinema, #teamvwr, #sonya7, #strength"
+  - username: "brittanyhoffner"
     fullname: >-
-      james • blake
+      brittany
     location: "United Kingdom"
-    followers: 2634
-    engagement: 1506
-    commentsToLikes: 0.047248
-    id: ck0u81ji467jp0i19cwkcj3ua
+    followers: 40490
+    engagement: 367
+    commentsToLikes: 0.011534
+    id: ck5c6wujj6d8h0i11lbxjlhfy
     verified: false
-    hashtags: "#greatestofbritain, #summervibes, #beauty, #sunset"
+    hashtags: ""
   - username: "sophographylondon"
     fullname: >-
       Sophie Jones
     location: "United Kingdom"
-    followers: 15300
-    engagement: 230
-    commentsToLikes: 0.042938
+    followers: 15313
+    engagement: 269
+    commentsToLikes: 0.039963
     id: ck55kh70szakj0i11a9r6eqk3
     verified: false
-    hashtags: "#contaxg2, #16mm, #sundayservice, #dior"
+    hashtags: "#16mm, #iphonememories, #contaxg2"
   - username: "dougelliottphoto"
     fullname: >-
       Douglas Elliott
     location: "United Kingdom"
-    followers: 12240
-    engagement: 843
-    commentsToLikes: 0.012599
+    followers: 12193
+    engagement: 874
+    commentsToLikes: 0.012868
     id: ck5cckdoshivn0i11jhnygx6d
     verified: false
     hashtags: "#sonyalpha, #tbt, #stayathome"
-  - username: "davidwrightdop"
+  - username: "amirhaq"
     fullname: >-
-      David Wright
+      Amir Haq
     location: "United Kingdom"
-    followers: 16534
-    engagement: 505
-    commentsToLikes: 0.036078
-    id: ck55pxmq1blse0i113fc8vrd4
+    followers: 17653
+    engagement: 433
+    commentsToLikes: 0.016339
+    id: ck5hlqb5jkno10i11yltv6dqk
     verified: false
-    hashtags: "#arri416, #zeiss, #fashionfilm, #sony"
+    hashtags: ""
 ---

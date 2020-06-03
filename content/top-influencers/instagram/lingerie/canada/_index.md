@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Canada In 2020
 description: >-
-  Find top lingerie Instagram influencers in Canada in 2020. Most popular hashtags: #lingerie #ootd #love #fashion.
+  Find top lingerie Instagram influencers in Canada in 2020. Most popular hashtags: #lingerie #bikini #blonde #ootd.
 platform: Instagram
 profiles:
   - username: "amandafudgy"
     fullname: >-
       Amanda Fudge
     location: "Canada"
-    followers: 85428
-    engagement: 235
-    commentsToLikes: 0.016191
+    followers: 87160
+    engagement: 164
+    commentsToLikes: 0.017796
     id: ck5hgt27c4lwg0i11ck6bgpi4
     verified: false
-    hashtags: "#code, #black, #stockings, #yegmua"
-  - username: "stef.jezzalynn"
-    fullname: >-
-      Stef
-    location: "Canada"
-    followers: 31079
-    engagement: 483
-    commentsToLikes: 0.103112
-    id: ck6uhil419bsg0j71tn5q414u
-    verified: false
-    hashtags: "#photooftheday, #bikinitime, #bootys, #womenwithhorses"
+    hashtags: "#redheels, #edmonton, #milk, #wegotthis"
   - username: "thekimpham"
     fullname: >-
       Kim Pham 🇻🇳🇨🇦
     location: "Canada"
-    followers: 16880
-    engagement: 1154
-    commentsToLikes: 0.299695
+    followers: 18308
+    engagement: 1180
+    commentsToLikes: 0.290722
     id: ck6txx3t70d0p0j710x9yd45j
     verified: false
-    hashtags: "#neonorangedress, #vintagefilter, #mexicotrip, #quarantinestyle"
-  - username: "cassidymceown2000"
+    hashtags: "#girlswhogym, #ootdgals, #vancouvermodel, #bikiniselfie"
+  - username: "k.christinee"
     fullname: >-
-      Cassidy Mceown
+      𝐊𝐀𝐓𝐄
     location: "Canada"
-    followers: 13557
-    engagement: 1442
-    commentsToLikes: 0.033271
-    id: ck6u8n60ssjmp0j71gsv2ms0s
+    followers: 23444
+    engagement: 563
+    commentsToLikes: 0.112942
+    id: ck8szm3a9oyg00j78on313orc
     verified: false
-    hashtags: "#bread, #inseparable, #born, #engine"
+    hashtags: "#bikinimodel, #inspiration, #curvystyle, #springfashion"
+  - username: "jordanshrinks"
+    fullname: >-
+      J O R D O ♡
+    location: "Canada"
+    followers: 318769
+    engagement: 760
+    commentsToLikes: 0.013613
+    id: ck0vzixit9c0w0i1937jyxb1q
+    verified: false
+    hashtags: "#handtransformation, #birthday, #decadechallenge, #getshreddy2020"
+  - username: "alexemichaud"
+    fullname: >-
+      Troublemaker -📍 Mtl
+    location: "Canada"
+    followers: 12368
+    engagement: 699
+    commentsToLikes: 0.095592
+    id: ck0vyr9wk5em40i19t0q8hhj5
+    verified: false
+    hashtags: "#happy, #beigeoutfit, #lululemon, #vans"
   - username: "ericaonfashion"
     fullname: >-
       Erica Wark
     location: "Canada"
-    followers: 36336
-    engagement: 236
-    commentsToLikes: 0.102986
+    followers: 36871
+    engagement: 245
+    commentsToLikes: 0.106603
     id: ck14h64zz8q5z0i19y8u8wbpl
     verified: false
-    hashtags: "#patternedtights, #closetorganization, #virtualcntowerclimb, #skichic"
+    hashtags: "#patternedtights, #skarlettbluepartner, #summersandals, #closetgoals"
+  - username: "halleajones"
+    fullname: >-
+      Hallea • Huh • Lee • Ah
+    location: "Canada"
+    followers: 37976
+    engagement: 764
+    commentsToLikes: 0.017694
+    id: ck6u4yhc76iul0j71ubbq3z4k
+    verified: false
+    hashtags: "#edenhawkins, #lingerie, #fitness, #jamming"
   - username: "pallormortisss"
     fullname: >-
       Pallor Mortis
     location: "Canada"
-    followers: 6754
-    engagement: 611
-    commentsToLikes: 0.115696
+    followers: 7140
+    engagement: 596
+    commentsToLikes: 0.112630
     id: ck5ho6rk1p1h40i113it52vre
     verified: false
-    hashtags: "#vancouvermodel, #tattooedwomen, #romance, #kawaiigirl"
-  - username: "beekingsley"
+    hashtags: "#halloween, #latexmodel, #coralgables, #blackfashion"
+  - username: "sofiacretaro"
     fullname: >-
-      Brigitte Kingsley
+      𝒮🍓𝒻𝒾𝒶
     location: "Canada"
-    followers: 3288
-    engagement: 1102
-    commentsToLikes: 0.183329
-    id: ck6uc2fbvd3pd0j7182c3fcp7
+    followers: 13173
+    engagement: 532
+    commentsToLikes: 0.075178
+    id: ck5c4j1yb1gia0i111b8xxlay
     verified: false
-    hashtags: "#calendar2020, #loveart, #santamonica, #mornings"
-  - username: "constance.angel"
+    hashtags: "#cheetahprint, #lacecorset, #louvremuseum, #velvetpants"
+  - username: "sabrinagagnelussier"
     fullname: >-
-      A N G E L   C O N S T A N C E
+      SABRINA
     location: "Canada"
-    followers: 52336
-    engagement: 505
-    commentsToLikes: 0.021523
-    id: ck13c8xfiz64d0i19t6udft1x
+    followers: 15038
+    engagement: 526
+    commentsToLikes: 0.062864
+    id: ck9haaqdrbtj70j78sbotdqck
     verified: false
-    hashtags: "#outfiteveryday, #jewelry, #potd, #morocco"
-  - username: "artishonesty"
-    fullname: >-
-      Levi 🥀
-    location: "Canada"
-    followers: 6772
-    engagement: 715
-    commentsToLikes: 0.059395
-    id: ck5cgmdwyp4q60i114l7ubvom
-    verified: false
-    hashtags: "#boudoir, #aovportraits, #kelownaphotographer, #pixel"
-  - username: "her.must"
-    fullname: >-
-      H E R M U S T
-    location: "Canada"
-    followers: 29006
-    engagement: 217
-    commentsToLikes: 0.044949
-    id: ck0tv2x1x9phk0i19w9f4uxlt
-    verified: false
-    hashtags: "#chevron, #simpleootd, #myhomedesign, #parisianstyle"
+    hashtags: "#photooftheday, #holiday, #mermaidhair, #happy"
 ---

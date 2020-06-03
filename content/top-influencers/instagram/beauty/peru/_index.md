@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Peru In 2020
 description: >-
-  Find top beauty Instagram influencers in Peru in 2020. Most popular hashtags: #yomequedoencasa #quedateencasa #love #publicidad.
+  Find top beauty Instagram influencers in Peru in 2020. Most popular hashtags: #beauty #makeup #quedateencasa #peru.
 platform: Instagram
 profiles:
   - username: "antonellaleguab"
     fullname: >-
       Anto Legua B
     location: "Peru"
-    followers: 84773
-    engagement: 140
-    commentsToLikes: 0.080616
+    followers: 85116
+    engagement: 103
+    commentsToLikes: 0.094163
     id: ck6u904yrupf20j711z5lc25b
     verified: false
-    hashtags: "#tgif, #14veranosjuntos, #girlpower, #thailand"
+    hashtags: "#8m, #rainbowcake, #quedateencasa, #bffs"
+  - username: "artbycch"
+    fullname: >-
+      Camila Chehade ☆
+    location: "Peru"
+    followers: 10155
+    engagement: 699
+    commentsToLikes: 0.078094
+    id: ck6tibs9h0f3y0j71zb553mbn
+    verified: false
+    hashtags: "#editorialmakeup, #orangemakeup, #brightmakeup, #plouise"
+  - username: "maferbenites"
+    fullname: >-
+      MAFER BENITES
+    location: "Peru"
+    followers: 44885
+    engagement: 234
+    commentsToLikes: 0.208011
+    id: ck55m203f309u0i11trhkmrnf
+    verified: false
+    hashtags: "#makeupclasses, #tumblrphotos, #editorialmakeup, #pinkmakeup"
+  - username: "nicollechangc"
+    fullname: >-
+      𝔑𝔦𝔠𝔬𝔩𝔩𝔢 ℭ𝔥𝔞𝔫𝔤 𝔐𝔞𝔨𝔢𝔲𝔭 𝔄𝔯𝔱𝔦𝔰𝔱. 🔥
+    location: "Peru"
+    followers: 25300
+    engagement: 532
+    commentsToLikes: 0.036447
+    id: ck6ucvwnlhrbb0j71u9zr5a8m
+    verified: false
+    hashtags: "#eyeliner"
   - username: "karlabanto"
     fullname: >-
-      Karla Abanto Tantaleán
+      Karla Abanto Tantaleán
     location: "Peru"
-    followers: 22741
-    engagement: 218
-    commentsToLikes: 0.265245
+    followers: 28013
+    engagement: 147
+    commentsToLikes: 0.186466
     id: ck6u90jd7urwr0j714t9irs5n
     verified: false
-    hashtags: "#stayhome, #emprendedores, #tbt, #publicidad"
+    hashtags: "#pillowchallenge, #klosetdesdecasa, #yomequedoencasa, #publicidad"
   - username: "percypls"
     fullname: >-
-      Percy Please
+      PERCY PLEASE
     location: "Peru"
-    followers: 113556
-    engagement: 1521
-    commentsToLikes: 0.034842
+    followers: 115682
+    engagement: 1578
+    commentsToLikes: 0.033669
     id: ck5c5y15p4cwa0i11abqyixmg
     verified: false
-    hashtags: "#negritofacts, #gimmiebrow, #make, #boy"
-  - username: "ileanavelazquezg"
+    hashtags: "#boy, #girl, #beauty, #peru"
+  - username: "gazzara_martina"
     fullname: >-
-      Ileana Velázquez
+      Mar Gazzara 🌊
     location: "Peru"
-    followers: 78458
-    engagement: 579
-    commentsToLikes: 0.184088
-    id: ck15scq7uccih0i198jdn3yiu
+    followers: 2855
+    engagement: 3316
+    commentsToLikes: 0.091597
+    id: ckapbmoyl0h2n0i78odeeomj8
     verified: false
-    hashtags: "#sheinkids, #docolorbrushes, #netflixmakeup, #colourpopxsailormoon"
-  - username: "ceciliakatz"
-    fullname: >-
-      Cecilia Katz
-    location: "Peru"
-    followers: 23081
-    engagement: 266
-    commentsToLikes: 0.067108
-    id: ck0twjqqqfoye0i197c58iytx
-    verified: false
-    hashtags: "#semicutcrease, #belleza, #makeuplover, #cusco"
+    hashtags: "#celos, #naturelovers, #italy, #liketime"
   - username: "xiomara.vidalr"
     fullname: >-
       XIOMARA VIDAL RAMIREZ
     location: "Peru"
-    followers: 461642
-    engagement: 266
-    commentsToLikes: 0.024662
+    followers: 456272
+    engagement: 268
+    commentsToLikes: 0.026738
     id: ck8t26k7iybrq0j78jhltkbhf
     verified: false
-    hashtags: "#buenosdias, #bomdia, #argentina, #linda"
-  - username: "ara.linaresoficial"
+    hashtags: "#bomdia, #mujer, #girl, #preciosa"
+  - username: "iamhedd"
     fullname: >-
-      Araceli Linares
+      HEDER🦋
     location: "Peru"
-    followers: 11374
-    engagement: 776
-    commentsToLikes: 0.155139
-    id: ck8tcvcl70tsa0j78wh9arw53
+    followers: 17624
+    engagement: 585
+    commentsToLikes: 0.085125
+    id: ck8wf78gof8wn0j78sn4l4r02
     verified: false
-    hashtags: "#followme, #tumblrgirl, #missperu, #sexigirld"
-  - username: "izaccristine"
+    hashtags: "#tiktoker, #urban, #fotografiaperu, #modelosperu"
+  - username: "camila.herediab"
     fullname: >-
-      IZABEL CRISTINE
+      C A M I L A   H E R E D I A
     location: "Peru"
-    followers: 6364
-    engagement: 1612
-    commentsToLikes: 0.036584
-    id: ck8t2c9yfyxrz0j78n8q85xh3
+    followers: 25629
+    engagement: 170
+    commentsToLikes: 0.120373
+    id: ckap2igozyz9p0i78udr6facr
     verified: false
-    hashtags: "#karate, #style, #like, #timebrasil"
-  - username: "ambersabathia"
-    fullname: >-
-      Amber Sabathia
-    location: "Peru"
-    followers: 41642
-    engagement: 304
-    commentsToLikes: 0.034146
-    id: ck0vy6vz12isu0i190r036h7l
-    verified: true
-    hashtags: "#sabathiachristmas, #yesitsareallightbrite, #wellness, #yogirunners"
-  - username: "yaimarperez"
-    fullname: >-
-      Yaimar Pérez ∞
-    location: "Peru"
-    followers: 15902
-    engagement: 210
-    commentsToLikes: 0.232597
-    id: ck6tt1myx82st0j71zi8x67zu
-    verified: false
-    hashtags: "#beauty, #ponds, #valentinesday, #momlife"
+    hashtags: "#mood, #makeupartist, #metas2020, #youtuberperuana"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Music Instagram Influencers In South Africa In 2020
 description: >-
-  Find top music Instagram influencers in South Africa in 2020. Most popular hashtags: #djpinkstar #cosplay #colores #brutalizing.
+  Find top music Instagram influencers in South Africa in 2020. Most popular hashtags: #tbt #love #capetown #mothercity.
 platform: Instagram
 profiles:
+  - username: "kurtapril_"
+    fullname: >-
+      Kurt April
+    location: "South Africa"
+    followers: 5228
+    engagement: 1792
+    commentsToLikes: 0.142821
+    id: ck15tn2kqiwar0i19j2jpm4yj
+    verified: false
+    hashtags: "#ilovestrettons, #myvans"
+  - username: "matthalls_official"
+    fullname: >-
+      Matt Halls
+    location: "South Africa"
+    followers: 19160
+    engagement: 744
+    commentsToLikes: 0.058459
+    id: ckap2rq5e015n0i78ryrmv5a9
+    verified: false
+    hashtags: "#clarity, #comesayhi, #technodj, #flowerseason"
+  - username: "nieloefaar"
+    fullname: >-
+      Nieloefaar Bahadori 🧿
+    location: "South Africa"
+    followers: 6440
+    engagement: 843
+    commentsToLikes: 0.081225
+    id: ck8wef6z4dyye0j78ip5ry41c
+    verified: false
+    hashtags: "#song, #grateful, #jessiej, #piano"
+  - username: "mas_musiq"
+    fullname: >-
+      Mas Musiq
+    location: "South Africa"
+    followers: 38352
+    engagement: 574
+    commentsToLikes: 0.018566
+    id: ck5q5ko8gtca40i11futgat28
+    verified: false
+    hashtags: "#mambisa, #outnow, #video, #studiotime"
   - username: "pional"
     fullname: >-
-      pional
+      Pional
     location: "South Africa"
-    followers: 15726
-    engagement: 540
-    commentsToLikes: 0.036988
+    followers: 15984
+    engagement: 541
+    commentsToLikes: 0.036597
     id: ck13a7o99p1380i19p058agk8
     verified: true
-    hashtags: "#madrid, #mexico, #pies, #villageunderground"
+    hashtags: "#lost, #johntalabot, #hiverndiscs, #mexico"
   - username: "alvaro"
     fullname: >-
       ALVARO
     location: "South Africa"
-    followers: 88661
+    followers: 87636
     engagement: 104
-    commentsToLikes: 0.043441
+    commentsToLikes: 0.042998
     id: ck0vvnl8hpx560i19t1u048ur
     verified: true
-    hashtags: "#dancefair, #closetome, #poolboy, #capetown"
-  - username: "onlyalicat"
-    fullname: >-
-      Ali Williams
-    location: "South Africa"
-    followers: 40346
-    engagement: 224
-    commentsToLikes: 0.040238
-    id: ck8szdew4nzn90j78znc8gycs
-    verified: false
-    hashtags: "#pink, #meridacosplay, #weelittlebrothers, #pokemon"
-  - username: "jaggerkhalifa"
-    fullname: >-
-      Jagger Khalifa
-    location: "South Africa"
-    followers: 36396
-    engagement: 401
-    commentsToLikes: 0.018120
-    id: ck600u61re9yj0i14cn82j6t3
-    verified: false
-    hashtags: "#jointhemovement"
-  - username: "josh_j_ivory"
-    fullname: >-
-      Josh Ivory
-    location: "South Africa"
-    followers: 51805
-    engagement: 652
-    commentsToLikes: 0.014686
-    id: ck0u6lt4q2bo60i1908lnqyn1
-    verified: false
-    hashtags: "#sayitwithyourteeth, #siwyt, #wrapitup, #lockedup"
+    hashtags: "#evapora, #capetown, #safari, #africa"
   - username: "pinky_.girl"
     fullname: >-
       Pinkygirl 🇿🇦
     location: "South Africa"
-    followers: 244366
-    engagement: 330
-    commentsToLikes: 0.024352
+    followers: 246728
+    engagement: 342
+    commentsToLikes: 0.021692
     id: ck5qdmaufw9zb0i11aqk0gm76
     verified: false
-    hashtags: "#fbf, #pinkoutfit, #outdoors, #birthdaymonth"
-  - username: "kurt_april"
+    hashtags: "#friendshipappreciation, #besafe, #covid19, #love"
+  - username: "samprasnoel"
     fullname: >-
-      Kurt April
+      Sampras Noel Kaweesi ACCA
     location: "South Africa"
-    followers: 5268
-    engagement: 1767
-    commentsToLikes: 0.141052
-    id: ck15tn2kqiwar0i19j2jpm4yj
+    followers: 26281
+    engagement: 337
+    commentsToLikes: 0.019634
+    id: ckap7dmtojm9g0i78u1kr37lo
     verified: false
-    hashtags: "#ilovestrettons, #myvans"
-  - username: "shaun101_dj"
+    hashtags: "#labourday, #lockdown, #tbt"
+  - username: "iamnaakmusiq"
     fullname: >-
-      Shaun101
+      NaakMusiQ 🇿🇦
     location: "South Africa"
-    followers: 8946
-    engagement: 636
-    commentsToLikes: 0.024897
-    id: ck55jb45iwo5f0i113q5ijh1o
-    verified: false
-    hashtags: "#covid19, #postivevibes, #shaun101, #nodeck"
-  - username: "djmilkshake"
+    followers: 1620808
+    engagement: 99
+    commentsToLikes: 0.017705
+    id: ck15sx1xxf8h30i19zzrnue72
+    verified: true
+    hashtags: "#huaweip40pro, #jamesonstayinn, #sovietdenim, #naakmusiqsoviet"
+  - username: "mvzzle_sa"
     fullname: >-
-      DJ Milkshake
+      MVZZLE
     location: "South Africa"
-    followers: 64542
-    engagement: 102
-    commentsToLikes: 0.044343
-    id: ck5cdsxx3jptz0i1165osrsvr
+    followers: 11371
+    engagement: 498
+    commentsToLikes: 0.037410
+    id: ck5c3y19f09nq0i11er5nld6q
     verified: false
-    hashtags: "#ngc2019, #beaking, #traptuesdays"
-  - username: "xavierdragner"
-    fullname: >-
-      XAVIER DRAGNER
-    location: "South Africa"
-    followers: 2826
-    engagement: 1252
-    commentsToLikes: 0.095692
-    id: ck5bzlzoyret10i11y0m8kcla
-    verified: false
-    hashtags: ""
+    hashtags: "#mvzzle, #ngishawauvalo, #donaldblacklove, #nevergiveup"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Argentina In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Argentina in 2020. Most popular hashtags: #training #bodybuilding #workout #fitness.
+  Find top bodybuilding Instagram influencers in Argentina in 2020. Most popular hashtags: #bodybuilding #cuarentena #tiktok #cardio.
 platform: Instagram
 profiles:
-  - username: "pablo_staffolarini_ifbbpro"
-    fullname: >-
-      Pablo IFBB ELITE PRO
-    location: "Argentina"
-    followers: 11742
-    engagement: 1402
-    commentsToLikes: 0.030756
-    id: ck6u6xlakib1n0j71hzocve2v
-    verified: false
-    hashtags: "#instapic, #sololosmejores, #teamlanderlan, #arnoldsports"
-  - username: "nickigrau"
-    fullname: >-
-      Nicole Grau-Bassas
-    location: "Argentina"
-    followers: 37462
-    engagement: 283
-    commentsToLikes: 0.134143
-    id: ck6tw6ko9qa2p0j71l8tscxzq
-    verified: false
-    hashtags: "#praiadorosa, #couplegoals, #naples, #valentinesday2020"
   - username: "ivanamedail"
     fullname: >-
       ɪᴠᴀɴᴀ  ᴍᴇᴅᴀɪʟ
     location: "Argentina"
-    followers: 37807
-    engagement: 278
-    commentsToLikes: 0.073262
+    followers: 40744
+    engagement: 257
+    commentsToLikes: 0.076026
     id: ck0w60kd46c3h0i193fpjsby4
     verified: false
-    hashtags: "#instarunner, #fitnessgirl, #quarantine, #plankchallenge"
-  - username: "m_crismanich"
+    hashtags: "#quarentine, #amigos, #vidafit, #colombia"
+  - username: "oscarjuangarcia"
     fullname: >-
-      𝗠𝗮𝘂𝗿𝗼 𝗖𝗿𝗶𝘀𝗺𝗮𝗻𝗶𝗰𝗵
+      Oscar Juan Garcia
     location: "Argentina"
-    followers: 21242
-    engagement: 300
-    commentsToLikes: 0.066625
-    id: ck8tdi7ga3eu80j78pl6opbdo
+    followers: 28185
+    engagement: 499
+    commentsToLikes: 0.160875
+    id: ckapahkckw4y80i78og4sblib
     verified: false
-    hashtags: "#dogsofinstagram, #doglovers, #tkdkick, #taekwondokicks"
-  - username: "juanimicucci"
+    hashtags: "#selfie, #fitnessbody, #fotografos, #body"
+  - username: "nickigrau"
     fullname: >-
-      Juan Ignacio
+      Nicole Grau-Bassas
     location: "Argentina"
-    followers: 6789
-    engagement: 2675
-    commentsToLikes: 0.011766
-    id: ck8t4haes6tdu0j7844jjaxgh
+    followers: 37354
+    engagement: 288
+    commentsToLikes: 0.153132
+    id: ck6tw6ko9qa2p0j71l8tscxzq
     verified: false
-    hashtags: "#instagood, #travel, #goldenhour, #summee"
-  - username: "facundoquiros"
-    fullname: >-
-      Facu Quiros
-    location: "Argentina"
-    followers: 7689
-    engagement: 927
-    commentsToLikes: 0.034470
-    id: ck5c7cxnk7aqn0i114x8997p1
-    verified: false
-    hashtags: "#timessquare, #style, #jeans, #healthyfood"
-  - username: "dantepagez"
-    fullname: >-
-      𝐃𝐚𝐧𝐭𝐞 𝐏𝐚𝐠𝐞𝐳 🐺
-    location: "Argentina"
-    followers: 17247
-    engagement: 190
-    commentsToLikes: 0.039377
-    id: ck0u88byi6pr80i19hyoahwa2
-    verified: false
-    hashtags: "#bestshot, #snapshots, #photoshoot, #instapicture"
+    hashtags: "#sorteo, #positano, #8marzo, #goodvibe"
   - username: "brenda.gomezok"
     fullname: >-
       Brenda Gómez
     location: "Argentina"
-    followers: 287189
-    engagement: 262
-    commentsToLikes: 0.018612
+    followers: 284532
+    engagement: 259
+    commentsToLikes: 0.018720
     id: ck5c9biwzb4yu0i11dcjzcwmv
     verified: false
-    hashtags: "#bikini, #colours, #lingerie, #nofilter"
-  - username: "ndaniela.fit"
+    hashtags: "#work, #sinexcusas, #workhome, #enjoy"
+  - username: "gonzalogoy"
     fullname: >-
-      N I U R K I S🔥
+      Gonzalo Goy 🔥
     location: "Argentina"
-    followers: 49200
-    engagement: 232
-    commentsToLikes: 0.019289
-    id: ck0u0heoztp1d0i192nbaq774
+    followers: 4381
+    engagement: 767
+    commentsToLikes: 0.034294
+    id: ck0tuo6su7z050i19hknu4ooo
     verified: false
-    hashtags: "#lacuerpa, #sundayperfec, #happyday, #cremosos"
-  - username: "polittiandrea"
+    hashtags: "#legday, #pump, #bodybuilding, #chestday"
+  - username: "miriamlanzoni"
     fullname: >-
-      Andrea Politti
+      Miriam Lanzoni
     location: "Argentina"
-    followers: 145846
-    engagement: 93
-    commentsToLikes: 0.002667
-    id: ck5hlgt3bk73q0i11ph8v8dme
+    followers: 247462
+    engagement: 73
+    commentsToLikes: 0.046229
+    id: ck6tighr50oa00j71hzxwrdd9
     verified: true
-    hashtags: "#health, #coronavirus, #jueves, #corteyconfeccion2020"
+    hashtags: "#quentintarantino, #matecito, #training, #escobachallenge"
+  - username: "epica_trastornos_alimentarios"
+    fullname: >-
+      EPICA ~ Lic Antonella Salerno
+    location: "Argentina"
+    followers: 18523
+    engagement: 334
+    commentsToLikes: 0.048790
+    id: ck8tdkaus3np20j78w74ns1no
+    verified: false
+    hashtags: "#coronavirus, #selfcare, #pica, #nutricion"
+  - username: "antonelaramirezok"
+    fullname: >-
+      Antonela Ramirez
+    location: "Argentina"
+    followers: 519130
+    engagement: 590
+    commentsToLikes: 0.014345
+    id: ck5hoi9vfpm3s0i116z62sge2
+    verified: false
+    hashtags: "#actitudblancoynegro, #arjonablancoynegro"
+  - username: "juliopitbull"
+    fullname: >-
+      juliopitbull 🥊🇦🇷
+    location: "Argentina"
+    followers: 472680
+    engagement: 157
+    commentsToLikes: 0.025204
+    id: ck5zrdiu1wdq80i14eziy198c
+    verified: false
+    hashtags: "#heatarsfans, #budybuilding, #gym, #chetomal"
+  - username: "fuarkok"
+    fullname: >-
+      FUARK
+    location: "Argentina"
+    followers: 33797
+    engagement: 134
+    commentsToLikes: 0.020784
+    id: ck9wensmdl3i90j783qb2g3xt
+    verified: false
+    hashtags: "#bodybuilderfood, #fitnessclothing, #gymmotivation, #bodybuildong"
 ---

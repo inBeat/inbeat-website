@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Milan In 2020
 description: >-
-  Find top home decor Instagram influencers in Milan in 2020. Most popular hashtags: #homedecor #milano #iorestoacasa #italia.
+  Find top home decor Instagram influencers in Milan in 2020. Most popular hashtags: #homedecor #quarantena #makeup #instagram.
 platform: Instagram
 profiles:
-  - username: "loredanasea"
+  - username: "sabrinamusco"
     fullname: >-
-      Loredana
+      Sabrina Musco
     location: "Italy"
-    followers: 20191
-    engagement: 890
-    commentsToLikes: 0.118268
-    id: ck5hems0ptq0k0i114frybjhi
+    followers: 168151
+    engagement: 135
+    commentsToLikes: 0.018844
+    id: ck138z9f5iqva0i19nj8zziof
     verified: false
-    hashtags: "#nevergiveup, #nolimits, #loveyou, #missyou"
-  - username: "franci_chelli"
+    hashtags: "#nycgo, #coupleshoot, #newyorkfashion, #newyorkgirl"
+  - username: "steph.tya"
     fullname: >-
-      Francesca Chelli
+      ★𝕊𝕋𝔼ℙℍ𝔸ℕ𝕀𝔼 𝔼 𝕋𝕐𝔸ℕ𝔸★
     location: "Italy"
-    followers: 82716
-    engagement: 115
-    commentsToLikes: 0.199818
-    id: ck8t9vif9phtp0j78bodzt1dj
+    followers: 68024
+    engagement: 355
+    commentsToLikes: 0.081076
+    id: ck136wfyp8l3e0i193ps2v7hx
     verified: false
-    hashtags: "#staysafe, #diorjeans, #milanesestyle, #lagalenemilano"
-  - username: "cris_dp"
+    hashtags: "#inspiration, #shorts, #bimba, #mamy"
+  - username: "robertoderosa"
     fullname: >-
-      Cristian Di Pietrantonio
+      ROBERTO DE ROSA
     location: "Italy"
-    followers: 15912
-    engagement: 407
-    commentsToLikes: 0.015790
-    id: ck8szxoi6q3w30j78wuqatxj5
-    verified: false
-    hashtags: "#architecture, #labirintodellamasone, #lights, #qctermemilano"
-  - username: "nicole_pizzato"
-    fullname: >-
-      Nicole Pizzato 💎
-    location: "Italy"
-    followers: 152700
-    engagement: 236
-    commentsToLikes: 0.075699
-    id: ck55k9kkmysxo0i118hewrx4t
-    verified: false
-    hashtags: "#colazione, #food, #consapevolidigitali, #arketipofirenze"
-  - username: "vittoriaottaviano"
-    fullname: >-
-      vittoria ottaviano
-    location: "Italy"
-    followers: 137643
-    engagement: 147
-    commentsToLikes: 0.025663
-    id: ck15sep0xcmtb0i19ajkcdcwe
-    verified: false
-    hashtags: "#hairstyle, #shopping, #parigi, #beautynailspa"
+    followers: 372785
+    engagement: 133
+    commentsToLikes: 0.021007
+    id: ck0w1tr7ml3b60i19pfi92k4v
+    verified: true
+    hashtags: "#navigli, #cactus, #snobshots, #pause"
   - username: "ari.annina90"
     fullname: >-
       Arianna Locatelli
     location: "Italy"
-    followers: 14857
-    engagement: 1585
-    commentsToLikes: 0.110544
+    followers: 15107
+    engagement: 1662
+    commentsToLikes: 0.098982
     id: ck6u3dzo3x9vf0j71vim7zz4p
     verified: false
-    hashtags: "#urbangiants, #skincare, #adv, #skyporn"
+    hashtags: "#vascadabagno, #cucina, #mybag, #mytattoo"
+  - username: "marialidagulino"
+    fullname: >-
+      Marialida
+    location: "Italy"
+    followers: 31616
+    engagement: 357
+    commentsToLikes: 0.079404
+    id: ck15u7eybls3l0i1914bo7h7o
+    verified: false
+    hashtags: "#thinkpositive, #landscape, #florya, #live"
+  - username: "fiorellanardelli"
+    fullname: >-
+      Fiorella Nardelli
+    location: "Italy"
+    followers: 30970
+    engagement: 322
+    commentsToLikes: 0.063736
+    id: ckaoz3rmak8nn0i78j0uohjs5
+    verified: false
+    hashtags: "#nikkibeachdubai, #tutorial, #kisenecasa, #mare"
+  - username: "loredanasea"
+    fullname: >-
+      Loredana
+    location: "Italy"
+    followers: 20869
+    engagement: 842
+    commentsToLikes: 0.127548
+    id: ck5hems0ptq0k0i114frybjhi
+    verified: false
+    hashtags: "#america, #travelblogger, #soul, #pool"
+  - username: "jovanabaco"
+    fullname: >-
+      Jovana Baco
+    location: "Italy"
+    followers: 5763
+    engagement: 1095
+    commentsToLikes: 0.044334
+    id: ck5q1s9o5cj2w0i11vhvrwppl
+    verified: false
+    hashtags: "#orange, #square, #friendship, #trento"
   - username: "elenasessa"
     fullname: >-
-      FASHION • TRAVEL • INSPO
+      엘레나 • FASHION • TRAVEL • INSPO
     location: "Italy"
-    followers: 32084
-    engagement: 134
-    commentsToLikes: 0.044862
+    followers: 31620
+    engagement: 192
+    commentsToLikes: 0.043883
     id: ck8szj7u1onm60j78s0krfemc
     verified: false
-    hashtags: "#stayhome, #makeupaddict, #outfitpost, #hairstyle"
-  - username: "accadeintavola"
+    hashtags: "#tutorial, #flowerpower, #homesweethome, #homeinterior"
+  - username: "vittoriaottaviano"
     fullname: >-
-      ACCADEinTAVOLA MariangelaRusso
+      vittoria ottaviano
     location: "Italy"
-    followers: 7090
-    engagement: 583
-    commentsToLikes: 0.129186
-    id: ck0vzivcj9bsa0i19v8p8vsa2
+    followers: 136636
+    engagement: 134
+    commentsToLikes: 0.030027
+    id: ck15sep0xcmtb0i19ajkcdcwe
     verified: false
-    hashtags: "#comfortfood, #vintageaesthetic, #lievitomadre, #vivodilentezze"
-  - username: "basilgreenpencil"
-    fullname: >-
-      Basil Green Pencil
-    location: "Italy"
-    followers: 26307
-    engagement: 316
-    commentsToLikes: 0.049993
-    id: ck6txne86yrrn0j71sdt0kd3h
-    verified: false
-    hashtags: "#italianinteriors, #milano, #prettylittletrips, #sanvalentino"
-  - username: "christianpizzinini"
-    fullname: >-
-      Christian Pizzinini
-    location: "Italy"
-    followers: 17434
-    engagement: 394
-    commentsToLikes: 0.042999
-    id: ck6totnmqg1sp0j71or8oanzo
-    verified: false
-    hashtags: "#ficodindia, #italia, #elledecoration, #stiamoattenti"
+    hashtags: "#anonymedesigner, #sunglasses, #fashionportrait, #camino"
 ---

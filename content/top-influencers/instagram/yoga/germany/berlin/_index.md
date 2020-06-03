@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Berlin In 2020
 description: >-
-  Find top yoga Instagram influencers in Berlin in 2020. Most popular hashtags: #yogaberlin #berlin #achtsamkeit #stayhome.
+  Find top yoga Instagram influencers in Berlin in 2020. Most popular hashtags: #yogaberlin #yoga #stayhome #love.
 platform: Instagram
 profiles:
-  - username: "caro__corazon"
+  - username: "marcgraphy"
     fullname: >-
-      FEEL FREE YOGA
+      Marc Gröfke
     location: "Germany"
-    followers: 3995
-    engagement: 1126
-    commentsToLikes: 0.058793
-    id: ck8t7xvt4icue0j78mhz1ju36
+    followers: 7280
+    engagement: 1022
+    commentsToLikes: 0.014882
+    id: ck14hckza9n5c0i19tstkat9u
     verified: false
-    hashtags: "#freeandwild, #boholiving, #inhalelove, #spiritualawareness"
+    hashtags: "#wantsummer, #urlaub, #tempel, #frieden"
+  - username: "markfernyhough"
+    fullname: >-
+      ARTIST BERLIN/LONDON
+    location: "Germany"
+    followers: 16843
+    engagement: 239
+    commentsToLikes: 0.098730
+    id: ck0w2wdwfqhty0i19bzqrwci7
+    verified: false
+    hashtags: "#londonartist, #brexitsong, #bowie, #goth"
+  - username: "plantastybites"
+    fullname: >-
+      Jacky ✨
+    location: "Germany"
+    followers: 21583
+    engagement: 303
+    commentsToLikes: 0.135627
+    id: ck14i1h79d7070i19zqnfp7tl
+    verified: false
+    hashtags: "#berlinyogaconference2020, #igyoga, #yogagermany, #yogadeutschland"
+  - username: "sanae.decker"
+    fullname: >-
+      Yoga - Mindful Moves
+    location: "Germany"
+    followers: 7811
+    engagement: 937
+    commentsToLikes: 0.050098
+    id: ck8swofawepvm0j78mdg3uwat
+    verified: false
+    hashtags: "#planken, #yogalover, #tuwasduliebst, #veganeern"
   - username: "sahra_ko"
     fullname: >-
       S A H R A - A N N A
     location: "Germany"
-    followers: 10762
-    engagement: 741
-    commentsToLikes: 0.086745
+    followers: 10479
+    engagement: 750
+    commentsToLikes: 0.084696
     id: ck8szysoyq8oh0j78gv9w7z5y
     verified: false
-    hashtags: "#rideberlin, #corona, #loveyourlife, #backbend"
-  - username: "markfernyhough"
+    hashtags: "#anahata, #yoga, #heartopener, #clifton"
+  - username: "scorpionmind"
     fullname: >-
-      ARTIST LONDON/BERLIN
+      Tanja I Food & Lifestyle
     location: "Germany"
-    followers: 16853
-    engagement: 253
-    commentsToLikes: 0.102503
-    id: ck0w2wdwfqhty0i19bzqrwci7
+    followers: 39849
+    engagement: 247
+    commentsToLikes: 0.032096
+    id: ck0ttg5yu2kmi0i19houjjcc4
     verified: false
-    hashtags: "#berlinartist, #modelsberlin, #yourcapricioussoul, #protestsong"
-  - username: "kasiaaa_ko"
-    fullname: >-
-      EverythingHappensForAReason💫
-    location: "Germany"
-    followers: 6314
-    engagement: 568
-    commentsToLikes: 0.049884
-    id: ck5hqp4lith5j0i11dez78zhd
-    verified: false
-    hashtags: "#mommylife, #christmastree, #lovemyfamily, #meditate"
-  - username: "valerie.husemann"
-    fullname: >-
-      Valerie | Mindful Living
-    location: "Germany"
-    followers: 57031
-    engagement: 174
-    commentsToLikes: 0.043128
-    id: ck0vyo24d4y6t0i19tkocj3xk
-    verified: false
-    hashtags: "#weltfrauentag, #positivdenken, #vegandeutschland, #veganeern"
-  - username: "carolinsue"
-    fullname: >-
-      Carolin Sue
-    location: "Germany"
-    followers: 19218
-    engagement: 315
-    commentsToLikes: 0.052934
-    id: ck6tp1wo0hdlq0j71dvrzm6o8
-    verified: false
-    hashtags: "#ad, #stayhome"
-  - username: "nbattefeld"
-    fullname: >-
-      Nicole
-    location: "Germany"
-    followers: 6108
-    engagement: 566
-    commentsToLikes: 0.033908
-    id: ck55jv81cxtka0i11fxiwkapw
-    verified: false
-    hashtags: "#womenincoffee, #homebarista, #cupping, #raufasertapete"
-  - username: "gittasaxx"
-    fullname: >-
-      GITTA SAXX OFFICAL
-    location: "Germany"
-    followers: 28007
-    engagement: 203
-    commentsToLikes: 0.032276
-    id: ck5hi7dp0c1450i113ysr18ec
-    verified: true
-    hashtags: "#hamburg, #seereise, #pink, #bikini"
+    hashtags: "#foodlover, #travelgram, #damnthatsdelish, #pursuepretty"
   - username: "jasminetartine"
     fullname: >-
-      Jasmine 〰️
+      Jasmine
     location: "Germany"
-    followers: 73821
-    engagement: 78
-    commentsToLikes: 0.029108
+    followers: 72962
+    engagement: 85
+    commentsToLikes: 0.031517
     id: ck0vyp5y353xa0i1922t2kkfc
     verified: false
-    hashtags: "#veryverytiffany, #stayhome, #workjacket, #willlovers"
+    hashtags: "#milkyway, #stayhome, #staystrong, #urdhvamukhasvanasana"
+  - username: "caro__corazon"
+    fullname: >-
+      FEEL FREE YOGA
+    location: "Germany"
+    followers: 4030
+    engagement: 1022
+    commentsToLikes: 0.060510
+    id: ck8t7xvt4icue0j78mhz1ju36
+    verified: false
+    hashtags: "#yogatime, #morningdance, #ecstaticdance, #yogaforall"
   - username: "yolcsita_eats"
     fullname: >-
       Yoli | Vegan | FoodPhotography
     location: "Germany"
-    followers: 33797
-    engagement: 215
-    commentsToLikes: 0.147881
+    followers: 34201
+    engagement: 276
+    commentsToLikes: 0.160501
     id: ck0vwpj40uy880i196z1j0qw8
     verified: false
-    hashtags: "#veganberlin, #balifoodies, #veganindia, #breakfastbowl"
+    hashtags: "#crueltyfreefood, #osterkranz, #bralette, #hummus"
+  - username: "sup_tour_berlin"
+    fullname: >-
+      SUP Tour Berlin
+    location: "Germany"
+    followers: 9561
+    engagement: 697
+    commentsToLikes: 0.043893
+    id: ckap2f8zaykst0i78k9pocrj5
+    verified: false
+    hashtags: "#blogger, #happythursday, #cleansup, #supinfografic"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Mumbai In 2020
 description: >-
-  Find top health Instagram influencers in Mumbai in 2020. Most popular hashtags: #love #quarantine #stayhome #mumbai.
+  Find top health Instagram influencers in Mumbai in 2020. Most popular hashtags: #health #mumbai #stayhome #staysafe.
 platform: Instagram
 profiles:
-  - username: "shaanmu"
+  - username: "indianwomenblog"
     fullname: >-
-      Shaan Muttathil
+      Indian Women Blog
     location: "India"
-    followers: 246026
-    engagement: 193
-    commentsToLikes: 0.036439
-    id: ck0vzgvca91dr0i19mhdnpap6
+    followers: 56540
+    engagement: 190
+    commentsToLikes: 0.006255
+    id: ck6ufd6utwci10j713nvgdjib
+    verified: false
+    hashtags: "#policeforce, #illustration, #sheroes, #health"
+  - username: "officialgarimajain"
+    fullname: >-
+      Garima Jain
+    location: "India"
+    followers: 160931
+    engagement: 386
+    commentsToLikes: 0.027131
+    id: ck5zkt1knk3zc0i14t0e2ogca
     verified: true
-    hashtags: "#makeupdesigned, #istanbul, #makeupcareer, #bollywoodmakeup"
-  - username: "maithilyapte"
+    hashtags: "#handmade, #shivji, #influencerlife, #fashionblogger"
+  - username: "ranjinijose"
     fullname: >-
-      मैथिली 🌿
+      Jaya Ranjini Jose 'JRJ'
     location: "India"
-    followers: 4923
-    engagement: 1621
-    commentsToLikes: 0.035314
-    id: ck6uauucx5sqf0j7139nctqne
-    verified: false
-    hashtags: "#coffeelover, #hindibollywood, #foodphotography, #blueismycolor"
-  - username: "harmeetsingh27"
-    fullname: >-
-      Honey
-    location: "India"
-    followers: 13667
-    engagement: 512
-    commentsToLikes: 0.012945
-    id: ck0tsyob90h740i19lqwyokjx
-    verified: false
-    hashtags: "#sheruclassic, #weddingphotography, #couplegoals, #obliques"
-  - username: "knightfrank"
-    fullname: >-
-      Knight Frank
-    location: "India"
-    followers: 86778
-    engagement: 191
-    commentsToLikes: 0.011546
-    id: ck6tqybj3vh810j71hk8vgejw
+    followers: 83220
+    engagement: 495
+    commentsToLikes: 0.022841
+    id: ck14hmzreb4zh0i1991m2aiad
     verified: true
-    hashtags: "#countryside, #sophisticatedhome, #organic, #commercialrealestate"
-  - username: "aparrnawritesbeauty"
-    fullname: >-
-      Aparrna Gupta
-    location: "India"
-    followers: 16872
-    engagement: 294
-    commentsToLikes: 0.048752
-    id: ck0vzul5faz5g0i19tmeg6ucs
-    verified: false
-    hashtags: "#ashwagandha, #sunkissed, #lodhaluxury, #selfgrowth"
+    hashtags: "#lovelytimes, #weshallovercome, #moms, #myonlyconstant"
   - username: "madhavisameer24"
     fullname: >-
       Madhavi & Sameer Shetty
     location: "India"
-    followers: 38913
-    engagement: 263
-    commentsToLikes: 0.004383
+    followers: 41524
+    engagement: 297
+    commentsToLikes: 0.011205
     id: ck1353mpuzj7q0i19jijyojv1
     verified: false
-    hashtags: "#freedom, #breakfast, #workfromhomelife, #mumbaists"
-  - username: "_misterblueberry_"
+    hashtags: "#summerfruit, #discussion, #dialogue, #morningroutine"
+  - username: "myfoodcrushh"
     fullname: >-
-      Tanish Ghorpade |Men’s Fashion
+      Pandey Ji Ka Beta Hu
     location: "India"
-    followers: 11026
-    engagement: 499
-    commentsToLikes: 0.084519
-    id: ck5zsv19rz8i60i14gnuaxwph
+    followers: 6394
+    engagement: 890
+    commentsToLikes: 0.214014
+    id: ckaoz8g6rktw60i78saa60q4u
     verified: false
-    hashtags: "#sport, #weightloss, #fitnessgirl, #menswear"
-  - username: "patilsprachi"
+    hashtags: "#foodcoma, #sunday, #foodlove, #travelgram"
+  - username: "jpniks"
     fullname: >-
-      Prachi Patil | Influencer
+      Chicken schezwan
     location: "India"
-    followers: 17718
-    engagement: 562
-    commentsToLikes: 0.033638
-    id: ck14iq3grgnxe0i19spnbnpf0
+    followers: 15077
+    engagement: 442
+    commentsToLikes: 0.009369
+    id: ck5bwquiwm8cb0i11sagj1exz
     verified: false
-    hashtags: "#bridalhairstyle, #staysafe, #ethnic, #indianwear"
-  - username: "theforkeddiaries"
+    hashtags: "#grainyphoto, #happy, #motorsports, #blue"
+  - username: "foodies_of_rourkela"
     fullname: >-
-      Tanish Sharma 🔥/  Delhi Food
+      Foodies of Rourkela
     location: "India"
-    followers: 104085
-    engagement: 178
-    commentsToLikes: 0.026808
-    id: ck15pf7b6xlbl0i190cyl7r9m
+    followers: 4491
+    engagement: 1101
+    commentsToLikes: 0.187498
+    id: ckaowdv128i1r0i785c9o02gx
     verified: false
-    hashtags: "#likeforlikes, #likes, #mumbaifoodie, #foodloversmumbai"
-  - username: "unionpublicservicecommission"
+    hashtags: "#juice, #butterchicken, #foodinstagram, #mandapitha"
+  - username: "poppyjabbal"
     fullname: >-
-      Union Public ServiceCommission
+      Poppy Jabbal
     location: "India"
-    followers: 68737
-    engagement: 625
-    commentsToLikes: 0.002208
-    id: ck0w6lsru96ww0i19f5i9upg9
+    followers: 136411
+    engagement: 122
+    commentsToLikes: 0.025283
+    id: ck0vzx6fxbbq70i19d14tbqr8
+    verified: true
+    hashtags: "#freedom, #chill, #princess, #friends"
+  - username: "foodieegirl0"
+    fullname: >-
+      Pari || Foodie & Drinker
+    location: "India"
+    followers: 5038
+    engagement: 1248
+    commentsToLikes: 0.288081
+    id: ck9wdv98shf1y0j785gjorqok
     verified: false
-    hashtags: "#ujjain, #covid19, #health, #nirbhaya"
+    hashtags: "#cake, #strawberries, #sweet, #coldweatherfood"
+  - username: "womaniloveyou"
+    fullname: >-
+      Jas Sagu
+    location: "India"
+    followers: 215093
+    engagement: 103
+    commentsToLikes: 0.022460
+    id: ck15rz3e8af610i19v5x8gb1j
+    verified: false
+    hashtags: "#traveldiaries, #stayhealthy, #wednesdayvibes, #lawofattraction"
 ---

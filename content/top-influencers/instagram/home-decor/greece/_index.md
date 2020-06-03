@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Greece In 2020
 description: >-
-  Find top home decor Instagram influencers in Greece in 2020. Most popular hashtags: #stayhome #staysafe #homedecor #menoumespiti.
+  Find top home decor Instagram influencers in Greece in 2020. Most popular hashtags: #homedecor #homesweethome #flowers #home.
 platform: Instagram
 profiles:
-  - username: "angelicayassemi"
+  - username: "__mathild3__"
     fullname: >-
-      𝘈𝘯𝘨𝘦𝘭𝘪𝘤𝘢 𝘠𝘢𝘴𝘴𝘦𝘮𝘪
+      M α т н ι ℓ ∂ ɛ   ➰
     location: "Greece"
-    followers: 31872
-    engagement: 478
-    commentsToLikes: 0.736510
-    id: ck0w1yq3vlsj00i191bcfjecm
+    followers: 5179
+    engagement: 1904
+    commentsToLikes: 0.140406
+    id: ck13colwq1e620i19jd2lidmz
     verified: false
-    hashtags: "#coffee, #lorealparisgr, #influencer, #potd"
-  - username: "katken85"
+    hashtags: "#newhome, #viedemaman, #home, #happyday"
+  - username: "nana_petraki"
     fullname: >-
-      Katerina Kainourgiou Official
+      Nana Petraki
     location: "Greece"
-    followers: 722022
-    engagement: 562
-    commentsToLikes: 0.216311
-    id: ck55p97pba2vw0i119yfn5gtj
-    verified: true
-    hashtags: "#lookoftheday, #dressoftheday, #springiscoming, #stayathome"
+    followers: 24942
+    engagement: 976
+    commentsToLikes: 0.596754
+    id: ck6tsp8vw61pj0j717llaw30g
+    verified: false
+    hashtags: "#giveawaysgreece, #giveaway, #pinterestphoto, #fashion"
+  - username: "elena_anagn"
+    fullname: >-
+      ᴇʟᴇɴᴀ ᴀɴᴀɢɴᴏsᴛᴏᴘᴏᴜʟᴏᴜ®️
+    location: "Greece"
+    followers: 12339
+    engagement: 1188
+    commentsToLikes: 0.125945
+    id: ck5q8mf246wkz0i11q2xitwzq
+    verified: false
+    hashtags: "#positivevibes, #homestyle, #pink, #sporty"
+  - username: "zoevassileiou"
+    fullname: >-
+      Zoi Vasileiou
+    location: "Greece"
+    followers: 127819
+    engagement: 332
+    commentsToLikes: 1.084230
+    id: ck8tdo1is442u0j788sk3slkp
+    verified: false
+    hashtags: "#setup, #blush, #summervibes, #makeup"
+  - username: "oannapopa_"
+    fullname: >-
+      Oanna Fashion Simbol
+    location: "Greece"
+    followers: 45942
+    engagement: 322
+    commentsToLikes: 0.264299
+    id: ck55p8unwa2290i11tbfvp2ab
+    verified: false
+    hashtags: "#sunnygreece, #likestyle, #paintart, #sansalsstyle"
+  - username: "argiris_aggelou_official"
+    fullname: >-
+      Argiris Aggelou Official
+    location: "Greece"
+    followers: 99079
+    engagement: 662
+    commentsToLikes: 0.008017
+    id: ck15sovvhe2ze0i193batt4h6
+    verified: false
+    hashtags: "#icantwait, #soon, #happyface, #pastryporn"
   - username: "nenatsim"
     fullname: >-
-      *•.¸♡ Nena ♡¸.•*
+      ❤︎ ℕ𝕖𝕟𝕒 ❤︎
     location: "Greece"
-    followers: 11340
-    engagement: 729
-    commentsToLikes: 0.275245
+    followers: 11350
+    engagement: 724
+    commentsToLikes: 0.273959
     id: ck6tl04uh5qdv0j71w4hreb2m
     verified: false
-    hashtags: "#streetstyleinspo, #sunday, #flatlayinspiration, #morocco"
-  - username: "officialaslanidoumelina"
+    hashtags: "#breakfastinbed, #girlstoptravel, #opus4jewelry, #street"
+  - username: "elenamadness"
     fullname: >-
-      𝕄𝔼𝕃𝕀ℕ𝔸 𝔸𝕊𝕃𝔸ℕ𝕀𝔻𝕆𝕌
+      Έ Λ Ė N Α * Ξ Ύ Τ Σ A 🧿
     location: "Greece"
-    followers: 198616
-    engagement: 273
-    commentsToLikes: 0.011926
-    id: ck0w3x2ttvq6w0i19l3dlvcvs
-    verified: true
-    hashtags: "#greekmusic, #protecttheothers, #music, #protectyourself"
-  - username: "salina_wondermommy"
-    fullname: >-
-      𝚂𝚊𝚕𝚒𝚗𝚊
-    location: "Greece"
-    followers: 5927
-    engagement: 1818
-    commentsToLikes: 1.078155
-    id: ck5q4065vn5p20i11myc0mmyn
+    followers: 17762
+    engagement: 407
+    commentsToLikes: 0.579616
+    id: ck9wotd856j1l0j78hxxnz54n
     verified: false
-    hashtags: "#kidsroomdeco, #homedecor, #thingsiwanttoremember, #kidsflatlay"
-  - username: "mystyleforecast"
+    hashtags: "#manikur, #home, #jeanjacket, #photography"
+  - username: "anastasefi"
     fullname: >-
-      ANNOUSA MELA
+      Efi Anastasopoulou
     location: "Greece"
-    followers: 26343
-    engagement: 128
-    commentsToLikes: 0.023832
-    id: ck6tzs2llbj0t0j71pirq53aq
+    followers: 47703
+    engagement: 235
+    commentsToLikes: 0.105947
+    id: ck8tccnmvz1om0j78eq70crrp
     verified: false
-    hashtags: "#casualwear, #outfit, #move, #allday"
-  - username: "christina.demetriou.official"
+    hashtags: "#srilankabeach, #mykonos, #memories, #bikinitop"
+  - username: "con_ev"
     fullname: >-
-      Christina Demetriou
+      Constantina Evripidou
     location: "Greece"
-    followers: 41859
-    engagement: 314
-    commentsToLikes: 0.016749
-    id: ck5pvidu5i0tj0i11b4sdodm5
+    followers: 93418
+    engagement: 405
+    commentsToLikes: 0.114989
+    id: ck5ckq9smxeax0i11187lanxn
     verified: false
-    hashtags: "#jyskdecoration, #kyfa, #maccosmetics, #event"
-  - username: "maria_louiza_real"
-    fullname: >-
-      Maria Louiza Vourou
-    location: "Greece"
-    followers: 63330
-    engagement: 239
-    commentsToLikes: 0.087105
-    id: ck55n9iwk5quk0i11bdztjjlt
-    verified: false
-    hashtags: "#moodoftheday, #vacationvibes, #workout, #youngandreckless"
-  - username: "esrahomeblog"
-    fullname: >-
-      𝓔𝓼𝓻𝓪 𝓟𝓮𝓵𝓽𝓮 🌾
-    location: "Greece"
-    followers: 8221
-    engagement: 1052
-    commentsToLikes: 0.074734
-    id: ck8tbs3idwwrj0j78zlszb9o0
-    verified: false
-    hashtags: "#kitchendesign, #homesblog, #esrahomeblog, #decore"
-  - username: "hauntinglyalex"
-    fullname: >-
-      ❊ Alex | 26 | ♫ ♥ ❊
-    location: "Greece"
-    followers: 8002
-    engagement: 805
-    commentsToLikes: 0.049123
-    id: ck8tbk8n4vyuw0j78fka93cli
-    verified: false
-    hashtags: "#coloringpages, #mentalhealthawareness, #sydneycummings, #harrypotteredits"
+    hashtags: "#38weekspregnant, #modernfamily, #babycorner, #mondays"
 ---

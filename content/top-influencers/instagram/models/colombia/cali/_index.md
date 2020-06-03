@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Cali In 2020
 description: >-
-  Find top models Instagram influencers in Cali in 2020. Most popular hashtags: #colombia #model #latina #fitness.
+  Find top models Instagram influencers in Cali in 2020. Most popular hashtags: #model #girl #fashion #tiktok.
 platform: Instagram
 profiles:
-  - username: "deyana_mounira"
+  - username: "lauritafitness"
     fullname: >-
-      Deyana Mounira
+      Lau Tamayo 🎀
     location: "Colombia"
-    followers: 565973
-    engagement: 135
-    commentsToLikes: 0.010158
-    id: ck138lpidgufv0i19kc9wrfem
-    verified: true
-    hashtags: "#goodtimes, #teatime"
-  - username: "calicolfit"
-    fullname: >-
-      LUZ MARINA GARCIA A 🐼🦄
-    location: "Colombia"
-    followers: 33801
-    engagement: 78
-    commentsToLikes: 0.084970
-    id: ck5zufszw2a0r0i14z8wpyi8c
+    followers: 4189
+    engagement: 1063
+    commentsToLikes: 0.115666
+    id: ck8szo35bp3ov0j789prcl2ok
     verified: false
-    hashtags: "#gluteos, #chocolate, #banano, #lifestyle"
-  - username: "carolinalgg"
+    hashtags: "#tbt, #classy, #fashion, #photography"
+  - username: "juan.ossa10"
     fullname: >-
-      C A R O L I N A    G Ó M E Z ☆
+      Juan Manuel O. ♛
     location: "Colombia"
-    followers: 37974
-    engagement: 315
-    commentsToLikes: 0.122444
-    id: ck8tcvfbv0u3j0j78355yt6t5
+    followers: 10100
+    engagement: 1242
+    commentsToLikes: 0.090541
+    id: ck5qc4i3iotdz0i112ahgra0x
     verified: false
-    hashtags: "#jueves, #sinmaquillaje, #cali, #time"
+    hashtags: "#quedateencasa, #beautiful, #stayathome, #tumblr"
   - username: "tatiana_romero11"
     fullname: >-
       Tatiana Romero
     location: "Colombia"
-    followers: 22400
-    engagement: 339
-    commentsToLikes: 0.047948
+    followers: 22123
+    engagement: 329
+    commentsToLikes: 0.045414
     id: ck5zzyi59cmwl0i14c11dq376
     verified: false
-    hashtags: "#beauty, #se, #04, #moda"
-  - username: "dianisnicol_oficial"
+    hashtags: "#mode, #negra, #beauty, #shine"
+  - username: "anacespedesc"
     fullname: >-
-      𝓓’ 𝓝𝓲𝓬𝓸𝓵.🌸🍭🦄👙
+      ANA C.
     location: "Colombia"
-    followers: 37523
-    engagement: 207
-    commentsToLikes: 0.020383
-    id: ck6u4j9kh41dm0j71i1bcktvc
+    followers: 352905
+    engagement: 429
+    commentsToLikes: 0.022083
+    id: ck8sz2flhmx4e0j78jyq6uyfm
     verified: false
-    hashtags: "#quehacen, #mujeressexys, #amigas, #labios"
-  - username: "belkyarizala"
-    fullname: >-
-      Belky Arizala
-    location: "Colombia"
-    followers: 322640
-    engagement: 104
-    commentsToLikes: 0.018368
-    id: ck6uchoq7fnv80j71h7hwvvdr
-    verified: true
-    hashtags: "#huila, #mejormodelo, #colombia, #feinamovible"
+    hashtags: "#tbt, #nofilters"
   - username: "luana_huerta"
     fullname: >-
       Luana
     location: "Colombia"
-    followers: 13001
-    engagement: 829
-    commentsToLikes: 0.037325
+    followers: 12748
+    engagement: 856
+    commentsToLikes: 0.040091
     id: ck0vyn0o54t4k0i19cqzthv99
     verified: false
     hashtags: "#calihouse"
+  - username: "nathaliaduquef"
+    fullname: >-
+      Nathalia Duque
+    location: "Colombia"
+    followers: 7671
+    engagement: 1200
+    commentsToLikes: 0.055921
+    id: ck6uc8y7xe6wl0j71iteglv8l
+    verified: false
+    hashtags: "#hairgoals, #girls, #roadtrip, #loved"
   - username: "kionna_janice"
     fullname: >-
       Kionna Janice
     location: "Colombia"
-    followers: 5054
-    engagement: 1135
-    commentsToLikes: 0.024719
+    followers: 4969
+    engagement: 1011
+    commentsToLikes: 0.027063
     id: ck5qch7tkqjv10i11pt4x19at
     verified: false
-    hashtags: "#curlyhair, #mybestsponsor, #gopdanceacademy, #collagenbeautybooster"
-  - username: "iam_sashap"
+    hashtags: "#brrrr, #usatour, #chinachallenge, #dancerlife"
+  - username: "makerandy"
     fullname: >-
-      Sasha P
+      Fotografia Bogotá
     location: "Colombia"
-    followers: 2675
-    engagement: 1230
-    commentsToLikes: 0.095032
-    id: ck6u1m18imjvx0j71pcjdcjlq
+    followers: 70438
+    engagement: 463
+    commentsToLikes: 0.009153
+    id: ck139x61mnkec0i190vq1alv5
     verified: false
-    hashtags: "#reflectionphotography, #catwalk, #missteenusa, #reporter"
-  - username: "davidcardenass230"
+    hashtags: "#hediye, #igersjp, #bayan, #shoes"
+  - username: "alejandrocubillan1"
     fullname: >-
-      David Cárdenas  🇨🇴
+      𝐀𝐥𝐞𝐣𝐚𝐧𝐝𝐫𝐨 𝐂𝐮𝐛𝐢𝐥𝐥𝐚𝐧
     location: "Colombia"
-    followers: 82467
-    engagement: 276
-    commentsToLikes: 0.099409
-    id: ck8t8swuwlom10j78zd0k6o6d
+    followers: 30572
+    engagement: 194
+    commentsToLikes: 0.036411
+    id: ckap422qo5i610i788gmyh0c1
     verified: false
-    hashtags: "#foto, #paisajes, #paisaje, #laboressociales"
+    hashtags: "#like, #humor, #bucaramanga, #amor"
+  - username: "grego_fit"
+    fullname: >-
+      Gregory Sanchez
+    location: "Colombia"
+    followers: 8448
+    engagement: 364
+    commentsToLikes: 0.155582
+    id: ck15s338yaz3f0i19uarhjcpz
+    verified: false
+    hashtags: "#rutinasgym, #body, #pubertad, #cali"
 ---

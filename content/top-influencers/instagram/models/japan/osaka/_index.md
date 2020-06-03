@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Osaka In 2020
 description: >-
-  Find top models Instagram influencers in Osaka in 2020. Most popular hashtags: #osaka #japan #model #pr.
+  Find top models Instagram influencers in Osaka in 2020. Most popular hashtags: #model #stayhome #osaka #fashion.
 platform: Instagram
 profiles:
-  - username: "rion_nakamura89"
+  - username: "3sv_18pink"
     fullname: >-
-      中村りおん(りぃたむ)
+      ちびさや 🌻 関西グルメ（ −36kgダイエット ）
     location: "Japan"
-    followers: 30854
-    engagement: 641
-    commentsToLikes: 0.041230
-    id: ck5zvf2vf44590i14qv7ovf40
+    followers: 18978
+    engagement: 301
+    commentsToLikes: 0.004225
+    id: ck5q8z1ya8mbk0i11w3tfot5q
     verified: false
-    hashtags: "#streetstyle, #osaka, #model, #mixmania"
-  - username: "mamiset"
+    hashtags: "#kyotojapan, #osakajapan, #instafood, #instalove"
+  - username: "rwb_official"
     fullname: >-
-      セトマミ　メイクアップクイーン マミ様
+      RAUH-Welt BEGRIFF 🇯🇵
     location: "Japan"
-    followers: 83278
-    engagement: 207
-    commentsToLikes: 0.011817
-    id: ck0vwpyj1v0at0i19lj9aw76z
-    verified: true
-    hashtags: "#dolceandgabbana, #events, #playdreamlove, #mascara"
-  - username: "kirara20010501"
-    fullname: >-
-      kirara
-    location: "Japan"
-    followers: 92308
-    engagement: 1581
-    commentsToLikes: 0.019027
-    id: ck0uc64odg6g30i19launwr6z
+    followers: 175661
+    engagement: 326
+    commentsToLikes: 0.004053
+    id: ck0vzza0vbm1d0i19iyklpnam
     verified: false
-    hashtags: "#hirestyle, #fl, #usj, #food"
-  - username: "natsumi_fujiwara"
-    fullname: >-
-      藤原菜摘(Fujiwara Natsumi)
-    location: "Japan"
-    followers: 25506
-    engagement: 121
-    commentsToLikes: 0.008417
-    id: ck5hn1onen1dv0i1157kdqd4f
-    verified: false
-    hashtags: "#menail, #fifthtl, #babylone, #cocoshnik"
-  - username: "fabro_tazumi"
-    fullname: >-
-      Tazumi
-    location: "Japan"
-    followers: 26910
-    engagement: 505
-    commentsToLikes: 0.013805
-    id: ck6tovc8kgb4c0j71t3lgcamu
-    verified: false
-    hashtags: "#photo, #costco, #nadhiroya, #bershka"
-  - username: "yogakiyoxx"
-    fullname: >-
-      KIYONO  ヨガインストラクター
-    location: "Japan"
-    followers: 10430
-    engagement: 537
-    commentsToLikes: 0.023255
-    id: ck5zzwc1wcj950i145o5dhky1
-    verified: false
-    hashtags: "#yogainstructor, #lobor, #supported, #nomonday"
-  - username: "m0e_1i7_"
-    fullname: >-
-      ℳℴℯ
-    location: "Japan"
-    followers: 102571
-    engagement: 401
-    commentsToLikes: 0.035667
-    id: ck5pzoh2d1zqy0i11qdqtpa0i
-    verified: false
-    hashtags: "#gravure, #shower, #azabujuban, #love"
+    hashtags: "#philippines, #movie, #rwb997, #model"
   - username: "sonyabuchik"
     fullname: >-
       Соня Бучик 🌷
     location: "Japan"
-    followers: 44596
-    engagement: 995
-    commentsToLikes: 0.020483
+    followers: 42729
+    engagement: 865
+    commentsToLikes: 0.028866
     id: ck5qa5eflemr40i11ny4m0bfr
     verified: false
-    hashtags: "#ikea, #weddingstyles, #springoutfit, #bershka"
+    hashtags: "#osakacity, #model, #coffeelover, #vscocam"
+  - username: "_saosaori"
+    fullname: >-
+      さぁら⑅︎◡̈︎*
+    location: "Japan"
+    followers: 32361
+    engagement: 295
+    commentsToLikes: 0.005750
+    id: ck8tcqxk40c5a0j78a0psu3vw
+    verified: false
+    hashtags: "#innisfree, #qbag, #melelu, #canmakenail"
+  - username: "yuukaluxury"
+    fullname: >-
+      Yuuka Yonekura 米倉由華
+    location: "Japan"
+    followers: 36171
+    engagement: 182
+    commentsToLikes: 0.016533
+    id: ck9wdyfjzhu3l0j78paoc88ym
+    verified: false
+    hashtags: "#salon, #luxurychampagne, #kidmodel, #furcoat"
+  - username: "fabro_tazumi"
+    fullname: >-
+      Tazumi
+    location: "Japan"
+    followers: 40222
+    engagement: 644
+    commentsToLikes: 0.012239
+    id: ck6tovc8kgb4c0j71t3lgcamu
+    verified: false
+    hashtags: "#vxviii, #fashiongram, #nashiroya, #japan"
+  - username: "yogakiyoxx"
+    fullname: >-
+      KIYONO  ヨガインストラクター
+    location: "Japan"
+    followers: 11130
+    engagement: 626
+    commentsToLikes: 0.020784
+    id: ck5zzwc1wcj950i145o5dhky1
+    verified: false
+    hashtags: "#liakulea, #sloli, #nomonday, #armbalance"
+  - username: "natsumi_fujiwara"
+    fullname: >-
+      藤原菜摘(Fujiwara Natsumi)
+    location: "Japan"
+    followers: 25414
+    engagement: 131
+    commentsToLikes: 0.009877
+    id: ck5hn1onen1dv0i1157kdqd4f
+    verified: false
+    hashtags: "#cocoshnik, #menail, #deuxiemeclasse, #bayflow"
+  - username: "chi831sa"
+    fullname: >-
+      chi831sa
+    location: "Japan"
+    followers: 32311
+    engagement: 149
+    commentsToLikes: 0.012499
+    id: ck15qn7c83o8w0i19l9ts0o0j
+    verified: false
+    hashtags: "#driverjapan, #gladiator, #model, #universalstudiosjapan"
   - username: "ayu888ayu"
     fullname: >-
       ❤️❤️❤️ 𝚊𝚢𝚞 ❤️❤️❤️
     location: "Japan"
-    followers: 22710
-    engagement: 795
-    commentsToLikes: 0.039727
+    followers: 37236
+    engagement: 978
+    commentsToLikes: 0.039379
     id: ck8sy23uqjgsa0j78ox8ik1pn
     verified: false
-    hashtags: "#phantom, #fivestar, #menu, #coodinate"
-  - username: "azayakanna"
-    fullname: >-
-      Anna Hirata
-    location: "Japan"
-    followers: 7151
-    engagement: 1170
-    commentsToLikes: 0.066051
-    id: ck5cc9z8lgzbt0i11t99a0zfz
-    verified: false
-    hashtags: "#photovogue"
+    hashtags: "#foodie, #cosme, #travelholic, #stayhome"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top mothers Instagram influencers in Indonesia in 2020. Most popular hashtags: #stayhome #staysafe #travel #makeup.
+  Find top mothers Instagram influencers in Indonesia in 2020. Most popular hashtags: #ootd #bali #stayhome #happymothersday.
 platform: Instagram
 profiles:
   - username: "arumi_ningsih1"
     fullname: >-
       Arumi ningsih
     location: "Indonesia"
-    followers: 28995
-    engagement: 300
-    commentsToLikes: 0.271033
+    followers: 34433
+    engagement: 249
+    commentsToLikes: 0.324942
     id: ck6u0t59qhm2e0j71fn9u5vls
     verified: false
-    hashtags: "#dermasterindonesia, #caffinopremiumuser, #indobeautysquad, #love"
+    hashtags: "#sharingiscaring, #clothes, #acneserum, #aveeno"
   - username: "dewimarlon"
     fullname: >-
       Dewi Sari
     location: "Indonesia"
-    followers: 158691
-    engagement: 129
-    commentsToLikes: 0.048639
+    followers: 166480
+    engagement: 163
+    commentsToLikes: 0.040662
     id: ck13alfwuqydm0i19pnozexic
     verified: false
-    hashtags: "#khimarsyari, #outfitoftheday, #bismillah, #latelunch"
-  - username: "traveltoescapes"
+    hashtags: "#waktuitu, #donat, #masker, #skincareroutine"
+  - username: "hany.sabri"
     fullname: >-
-      ~Travel
+      Hany Sabri
     location: "Indonesia"
-    followers: 23924
-    engagement: 272
-    commentsToLikes: 0.046502
-    id: ck5zu2ibg1k5f0i14id81i7c8
+    followers: 7198
+    engagement: 1799
+    commentsToLikes: 0.014098
+    id: ck5hd8sfsm48y0i112drlo7bw
     verified: false
-    hashtags: "#mombasakenya, #blacktravelers, #dianibeach, #blacktravelculture"
+    hashtags: "#morehambarplease, #justforfunguys, #repostcausewhynot, #sisbudaktiktok"
   - username: "jaydekemp12"
     fullname: >-
       jaydekemp12
     location: "Indonesia"
-    followers: 9377
-    engagement: 734
-    commentsToLikes: 0.033278
+    followers: 9303
+    engagement: 743
+    commentsToLikes: 0.033644
     id: ck5hjgegdgkxt0i11fwbj91ae
     verified: false
-    hashtags: "#longhairdontcare, #balilife, #hai, #weekendgym"
-  - username: "prisarianzi"
-    fullname: >-
-      Prisa Rianzi
-    location: "Indonesia"
-    followers: 71470
-    engagement: 502
-    commentsToLikes: 0.010273
-    id: ck6tqwlghv0ks0j71rxsvvgsb
-    verified: false
-    hashtags: "#ootd, #untiltomorrow"
+    hashtags: "#gymdaily, #allblackeverything, #luxuryhotel, #ithinkimturningjapanese"
   - username: "tiffofili"
     fullname: >-
       Tiffany Porter
     location: "Indonesia"
-    followers: 25317
-    engagement: 172
-    commentsToLikes: 0.056136
+    followers: 25274
+    engagement: 176
+    commentsToLikes: 0.060052
     id: ck5qeiv2b0ph90i115lq1vpx7
     verified: true
-    hashtags: "#sleepislife, #hometeam, #chibaby, #twinning"
-  - username: "mommymemejeans"
+    hashtags: "#motownmuseum, #weareinthistogether, #firstmothersday, #teamporter"
+  - username: "traveltoescapes"
     fullname: >-
-      Carly G.
+      ~Travel
     location: "Indonesia"
-    followers: 21336
-    engagement: 652
-    commentsToLikes: 0.072530
-    id: ck5ccrn0ehvtt0i11n4dcewd8
+    followers: 23460
+    engagement: 232
+    commentsToLikes: 0.046660
+    id: ck5zu2ibg1k5f0i14id81i7c8
     verified: false
-    hashtags: "#momswhoswear, #sahmprobs, #toddlergram, #whatscreenlimits"
-  - username: "evahorvathofficial"
+    hashtags: "#beautifuldestinations, #bloggertravel, #blacktravels, #photography"
+  - username: "jazzy.la.travel.mama"
     fullname: >-
-      Horváth Éva
+      Travel and Motherhood
     location: "Indonesia"
-    followers: 158030
-    engagement: 169
-    commentsToLikes: 0.020499
-    id: ck5zo6sw1pvzs0i14gbrze6ss
-    verified: true
-    hashtags: "#bestplacetogo, #visitbali, #imissingbali, #pampersnapok"
-  - username: "manodelia"
-    fullname: >-
-      Manohara Odelia
-    location: "Indonesia"
-    followers: 217268
-    engagement: 185
-    commentsToLikes: 0.017088
-    id: ck5c7v7pk89200i116uoplnqy
-    verified: true
-    hashtags: "#stopwildlifetrade, #wildlifeaidnetwork, #primaterehabilitation, #jaanrescue"
-  - username: "yasminehany"
-    fullname: >-
-      YASMINE HANY
-    location: "Indonesia"
-    followers: 11902
-    engagement: 893
-    commentsToLikes: 0.008874
-    id: ck600rh0ve4t50i14zgbarfzh
+    followers: 18064
+    engagement: 285
+    commentsToLikes: 0.204407
+    id: ck5ci1zvprv0c0i11a9vh22wt
     verified: false
-    hashtags: "#balimemories, #herbalessences, #freefrom, #ad"
+    hashtags: "#hotelreview, #styleinspo, #toddlerdrinks, #muminspo"
+  - username: "agathasahell"
+    fullname: >-
+      Ａｇａｔｈａ☽
+    location: "Indonesia"
+    followers: 20839
+    engagement: 426
+    commentsToLikes: 0.018027
+    id: ck6uca1hfedrv0j71wwi2biq3
+    verified: false
+    hashtags: "#earthday, #haveagoodweekend, #quarantineandchill, #eidmubarak"
+  - username: "farwalikazmi"
+    fullname: >-
+      Farwa Ali
+    location: "Indonesia"
+    followers: 32307
+    engagement: 148
+    commentsToLikes: 0.030868
+    id: ck0w2bv48nktp0i19wtcdverb
+    verified: false
+    hashtags: "#bali, #meat20challenge, #savage, #staypositive"
+  - username: "tantrinamirah"
+    fullname: >-
+      Tantri Namirah
+    location: "Indonesia"
+    followers: 391760
+    engagement: 259
+    commentsToLikes: 0.008450
+    id: ck5hprqb2ruzy0i116j0e2dyw
+    verified: true
+    hashtags: "#yukminumteh, #loveinspades, #lumineathome, #semangatramadan"
 ---

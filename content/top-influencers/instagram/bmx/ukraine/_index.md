@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bmx Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top bmx Instagram influencers in Ukraine in 2020. Most popular hashtags: #bmx #bmxstreet #ridebmx #bmxlife.
+  Find top bmx Instagram influencers in Ukraine in 2020. Most popular hashtags: #bmxrider #redbull #onsomeshit #thecomeupbmx.
 platform: Instagram
 profiles:
   - username: "predelformat"
     fullname: >-
-      ПРЕДЕЛЬНЫЙ
+      ПРЕДЕЛЬНЫЙ
     location: "Ukraine"
-    followers: 9674
-    engagement: 1522
-    commentsToLikes: 0.139143
+    followers: 9095
+    engagement: 1616
+    commentsToLikes: 0.139162
     id: ck5c8jls99mkq0i11x3yp0hdn
     verified: false
-    hashtags: "#kendamausa, #streetculture, #sweetskendamas, #vans"
+    hashtags: "#vans, #gsportbmx, #kendamausa, #bsdforever"
+  - username: "joinerdennis"
+    fullname: >-
+      Денис Столяров
+    location: "Ukraine"
+    followers: 10741
+    engagement: 1744
+    commentsToLikes: 0.050673
+    id: ckap7mqezknut0i78pgc1hk5p
+    verified: false
+    hashtags: "#bmx, #bigtoysshop, #sectacrewbmx"
   - username: "dima_zaiycev"
     fullname: >-
-      Дима Зайцев
+      Дима Зайцев
     location: "Ukraine"
-    followers: 6666
-    engagement: 3065
-    commentsToLikes: 0.045435
+    followers: 6910
+    engagement: 3144
+    commentsToLikes: 0.048756
     id: ck8t40cq754ch0j78s59nzsti
     verified: false
-    hashtags: "#bmx4life, #bmxpark, #bmxrace, #ceeklife"
+    hashtags: "#bmxcrash, #instagram, #crash, #bmxisfun"
   - username: "bod_fatman"
     fullname: >-
       🏠 XATA ⛪️
     location: "Ukraine"
-    followers: 27432
-    engagement: 2674
-    commentsToLikes: 0.029395
+    followers: 28223
+    engagement: 2905
+    commentsToLikes: 0.034718
     id: ck6ubps0nazh20j71sw5q4uo3
     verified: false
-    hashtags: "#streetbmx, #area51, #model, #challenge"
-  - username: "zhenya.ovcharuk"
-    fullname: >-
-      Женя Овчарук
-    location: "Ukraine"
-    followers: 19845
-    engagement: 1250
-    commentsToLikes: 0.038716
-    id: ck8t40c3b548q0j786t601nzk
-    verified: false
-    hashtags: "#ride, #bmxfamily, #bmxallday, #bmxdirt"
+    hashtags: "#onsomeshit, #bottlecapchallenge, #challenge, #area51"
   - username: "nesterov_stn"
     fullname: >-
       Andrew Nesterov
     location: "Ukraine"
-    followers: 4856
-    engagement: 3547
-    commentsToLikes: 0.032519
+    followers: 5809
+    engagement: 3790
+    commentsToLikes: 0.033796
     id: ck8szhquqohuj0j78ni406zk0
     verified: false
-    hashtags: "#bmxstreet, #bmxphotography, #satanshopcrew, #fiendbmx"
-  - username: "5pegs"
-    fullname: >-
-      5PEGS
-    location: "Ukraine"
-    followers: 3916
-    engagement: 1929
-    commentsToLikes: 0.060024
-    id: ck5c8jkuv9mhn0i11d2xjc6ab
-    verified: false
-    hashtags: "#bikelife, #bmxlife, #bikes, #pullupbar"
+    hashtags: "#satanshop, #deadlinecrew, #vx2100, #bmxphotography"
   - username: "alexander_shurva"
     fullname: >-
       Александр Руденко / Шурва
     location: "Ukraine"
-    followers: 33510
-    engagement: 1223
-    commentsToLikes: 0.028100
+    followers: 33049
+    engagement: 1186
+    commentsToLikes: 0.034937
     id: ck8szhqghohta0j78wm32g4rz
     verified: false
     hashtags: "#barcelona, #dreamtrickwithshurva"
+  - username: "zhenya.ovcharuk"
+    fullname: >-
+      Женя Овчарук
+    location: "Ukraine"
+    followers: 20537
+    engagement: 1161
+    commentsToLikes: 0.034622
+    id: ck8t40c3b548q0j786t601nzk
+    verified: false
+    hashtags: "#crashchallange, #bmxdirtjumps, #bmxs, #virus"
   - username: "theyurbasshow"
     fullname: >-
       Yurii Illushchenko
     location: "Ukraine"
-    followers: 7135
-    engagement: 1319
-    commentsToLikes: 0.049362
+    followers: 7147
+    engagement: 1180
+    commentsToLikes: 0.047116
     id: ck5cjwjq5vnb80i11gplqvmmj
     verified: false
-    hashtags: "#sport, #thankyoubmx, #quarantin, #redbmx"
+    hashtags: "#ukraine, #sport, #paradise, #redbmxco"
   - username: "dima_zurabyants"
     fullname: >-
       ДИМА ЗУРАБЬЯНЦ 🇺🇦
     location: "Ukraine"
-    followers: 13813
-    engagement: 1126
-    commentsToLikes: 0.026336
+    followers: 13600
+    engagement: 1152
+    commentsToLikes: 0.026099
     id: ck15s6spkbidb0i19fzrwhyd2
     verified: false
-    hashtags: "#staystrong, #bmxlife, #agentgirl, #chillnotskills"
-  - username: "satan_shop_bmx"
+    hashtags: "#vansbmx, #alwaysfiending, #fuckcorona, #covid19"
+  - username: "andriypodoba"
     fullname: >-
-      SATAN SHOP
+      Андрій Подоба
     location: "Ukraine"
-    followers: 9390
-    engagement: 903
-    commentsToLikes: 0.014837
-    id: ck8szhq36ohqr0j786g02wl7b
+    followers: 18775
+    engagement: 1651
+    commentsToLikes: 0.020110
+    id: ck15s6swzbiek0i19t60t5ihr
     verified: false
-    hashtags: "#ridebmx, #bmx4life, #bmxparts, #ss20"
+    hashtags: ""
 ---

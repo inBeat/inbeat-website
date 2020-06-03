@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top bloggers Instagram influencers in Ukraine in 2020. Most popular hashtags: #makeuptutorial #makeupideas #angrybaits #fishing.
+  Find top bloggers Instagram influencers in Ukraine in 2020. Most popular hashtags: # #pink #puppy #fashion.
 platform: Instagram
 profiles:
   - username: "kvashnevskyi"
     fullname: >-
-      Дмитрий Квашневский
+      Дмитрий Квашневский
     location: "Ukraine"
-    followers: 364827
-    engagement: 2151
-    commentsToLikes: 0.033940
+    followers: 360314
+    engagement: 2200
+    commentsToLikes: 0.038681
     id: ck5hcejmnhnoo0i119am1lt8p
     verified: false
     hashtags: "#ukraine, #10yearschallenge"
-  - username: "maksfisher_"
+  - username: "annagirm"
     fullname: >-
-      Maks Iskorostenskiy🎣
+      A.n.n.a G.i.r Malowany 🌺
     location: "Ukraine"
-    followers: 13404
-    engagement: 733
-    commentsToLikes: 0.329269
-    id: ck6ui6gaudbuq0j71jy30nvyn
+    followers: 6122
+    engagement: 2006
+    commentsToLikes: 0.184386
+    id: ck0tyggvvmppp0i19v8scrgo5
     verified: false
-    hashtags: "#spinnerbaits, #brainfishing, #fishingeurope, #fiahingblog"
+    hashtags: "#funmoment, #sweetpotato, #sunglasses, #puppylove"
+  - username: "_antimodel_"
+    fullname: >-
+      Julia Peters
+    location: "Ukraine"
+    followers: 30077
+    engagement: 879
+    commentsToLikes: 0.095875
+    id: ck9hb9ozifxy70j78r8rpbt2q
+    verified: false
+    hashtags: "#projects, #zurichcity, #bookcommunity, #vienna"
+  - username: "nastiaminiailo"
+    fullname: >-
+      𝙸𝙽𝚂𝚃𝙰𝙶𝙸𝚁𝙻 🥀
+    location: "Ukraine"
+    followers: 11049
+    engagement: 882
+    commentsToLikes: 0.094804
+    id: ck9hbr5aii4ji0j78hy5zibns
+    verified: false
+    hashtags: ""
+  - username: "mariana_oleksik"
+    fullname: >-
+      Mariana Oleksik
+    location: "Ukraine"
+    followers: 9080
+    engagement: 798
+    commentsToLikes: 0.109645
+    id: ckap27uy6xr8r0i78ntml2otv
+    verified: false
+    hashtags: ""
   - username: "natashanaffy"
     fullname: >-
       N A T A S H A  N A F F Y
     location: "Ukraine"
-    followers: 103509
-    engagement: 163
-    commentsToLikes: 0.041096
+    followers: 99826
+    engagement: 183
+    commentsToLikes: 0.072336
     id: ck0twgn3yfagb0i19u7bts8k6
     verified: false
-    hashtags: "#parfum, #crushedlipcolor, #armanisi, #manicure"
-  - username: "karishashasha"
+    hashtags: "#guerlainbeeday, #artistrystudio, #diorbeautylovers, #tiktok"
+  - username: "mania1305"
     fullname: >-
-      Кариша Булавская
+      Марина 🐝 SMM🌼Маркетолог
     location: "Ukraine"
-    followers: 123030
-    engagement: 84
-    commentsToLikes: 0.150833
-    id: ck14h71g88uzg0i19f7j52pgs
+    followers: 22315
+    engagement: 269
+    commentsToLikes: 0.068501
+    id: ck5q9wtordeu50i11z02itm42
     verified: false
-    hashtags: "#splashashash, #covid, #stopcovid19, #danissimo"
-  - username: "lyudmila_milevich"
+    hashtags: ""
+  - username: "viki_virgo"
     fullname: >-
-      Людмила Милевич WITH LOVE Ⓜ️
+      ＶI K I
     location: "Ukraine"
-    followers: 74194
-    engagement: 126
-    commentsToLikes: 0.029388
-    id: ck5zxi0wk81ox0i14fb8sqifq
+    followers: 367643
+    engagement: 318
+    commentsToLikes: 0.019875
+    id: ckaozd0u0lbot0i78i4njesx7
     verified: false
-    hashtags: "#happybirthday"
-  - username: "diana_suvorova"
+    hashtags: ""
+  - username: "karambolia.olia"
     fullname: >-
-      𝗗𝗶𝗮𝗻𝗮 𝗦𝘂𝘃𝗼𝗿𝗼𝘃𝗮
+      Olga
     location: "Ukraine"
-    followers: 100744
-    engagement: 571
-    commentsToLikes: 0.155383
-    id: ck13clfx80x4w0i191o1s3lac
+    followers: 76734
+    engagement: 136
+    commentsToLikes: 0.113699
+    id: ck15srkuaeh0s0i191urxkc0h
     verified: false
-    hashtags: "#beautyblog, #sohonyc, #thewave, #lips"
-  - username: "krist__elle"
+    hashtags: "#foodporn"
+  - username: "yaninakozar"
     fullname: >-
-      Krist Elle ( Kristina Doli )
+      YANINA KOZAR (ZHENTYCHKA)
     location: "Ukraine"
-    followers: 289166
-    engagement: 266
-    commentsToLikes: 0.006634
-    id: ck0w4xub90xws0i19j42ecy13
+    followers: 74003
+    engagement: 451
+    commentsToLikes: 0.015413
+    id: ckaoy6cu3g6lk0i782ulyhinv
     verified: false
-    hashtags: "#outfitinspiration, #gucci, #femalefamily, #myloungelife"
-  - username: "juravlinka12"
-    fullname: >-
-      Alenа
-    location: "Ukraine"
-    followers: 14786
-    engagement: 827
-    commentsToLikes: 0.184407
-    id: ck55ningf6ag60i11rwcv63rq
-    verified: false
-    hashtags: "#makeupideas, #colourpop, #colourpopcosmetics, #giveawayukraine"
-  - username: "suda4ka"
-    fullname: >-
-      Аннушка
-    location: "Ukraine"
-    followers: 122943
-    engagement: 267
-    commentsToLikes: 0.009716
-    id: ck0w14qfvhjvf0i19amlrukkc
-    verified: false
-    hashtags: "#stayhome, #behealthy, #quarantinepillowchallenge"
-  - username: "victorbad7"
-    fullname: >-
-      Victor Chymchynsky
-    location: "Ukraine"
-    followers: 36430
-    engagement: 785
-    commentsToLikes: 0.020910
-    id: ck5hhdlc87oe60i11gjm3go3j
-    verified: false
-    hashtags: "#unovisionchallenge, #stayhome, #chernivtsi"
+    hashtags: "#mumsbloggers, #voguemagazine, #mummy, #fashionphotography"
 ---

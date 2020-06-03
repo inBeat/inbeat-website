@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top home decor Instagram influencers in Los Angeles in 2020. Most popular hashtags: #homedecor #stayhome #ad #quarantineandchill.
+  Find top home decor Instagram influencers in Los Angeles in 2020. Most popular hashtags: #homedecor #losangeles #quarantinelife #mothersday.
 platform: Instagram
 profiles:
-  - username: "monday_glass"
+  - username: "clevver"
     fullname: >-
-      MONDAY GLASS
+      Clevver
     location: "United States"
-    followers: 5847
-    engagement: 1226
-    commentsToLikes: 0.029151
-    id: ck15t3f5rg5is0i193fg2qx4y
-    verified: false
-    hashtags: "#pastelgoth, #madeinlosangeles, #pink, #enamelpins"
-  - username: "fineartbling"
-    fullname: >-
-      Rhinestoned Designs
-    location: "United States"
-    followers: 3224
-    engagement: 3844
-    commentsToLikes: 0.041023
-    id: ck6tsgjuo4n340j71trvh6xc4
-    verified: false
-    hashtags: "#laart, #elegantmagazine, #losangelesart, #fashion"
-  - username: "danlang13"
-    fullname: >-
-      Dan Lang
-    location: "United States"
-    followers: 6247
-    engagement: 899
-    commentsToLikes: 0.017137
-    id: ck0w1hxw9jfsb0i19qsgk0jr9
-    verified: false
-    hashtags: "#smallbusiness, #smallbusinesssaturday, #fragrance, #design"
-  - username: "morganleighwillett"
-    fullname: >-
-      Morgan Willett
-    location: "United States"
-    followers: 248558
-    engagement: 279
-    commentsToLikes: 0.050446
-    id: ck5hiomrkel590i112yz7ljyx
+    followers: 234484
+    engagement: 107
+    commentsToLikes: 0.008105
+    id: ck5ccft5sha0y0i118g55kgfp
     verified: true
-    hashtags: "#marchmadness, #athomeworkouts, #hiddentalents, #hiitworkout"
-  - username: "erinnobrienn"
+    hashtags: "#martineztwins, #mensstyle, #redcarpet, #psistillloveyou"
+  - username: "themaryfitzgerald"
     fullname: >-
-      Erin O'Brien
+      Mary Fitzgerald
     location: "United States"
-    followers: 1983
-    engagement: 1432
-    commentsToLikes: 0.166660
-    id: ck8t9mbj5oltr0j78mbxfc0tq
+    followers: 127842
+    engagement: 414
+    commentsToLikes: 0.038140
+    id: ck0w5knto43xn0i19rp1fcmzv
+    verified: true
+    hashtags: "#photooftheday, #inescrow, #realityshow, #quarantine"
+  - username: "dilekstudzinski"
+    fullname: >-
+      Dilek Oluklu Studzinski
+    location: "United States"
+    followers: 37355
+    engagement: 309
+    commentsToLikes: 0.037819
+    id: ck15t35qog44s0i19hp31whxy
     verified: false
-    hashtags: "#fashiondaily, #catchingsomerays, #kitcheninspiration, #styleblog"
+    hashtags: "#monday, #zarapants, #simplepleasures, #cosmeticlovers"
+  - username: "aliciabrujita"
+    fullname: >-
+      𝖆𝖑𝖎𝖈𝖎𝖑𝖎𝖙𝖍 𖤐
+    location: "United States"
+    followers: 14673
+    engagement: 672
+    commentsToLikes: 0.017939
+    id: ck0txgxgbj32u0i19fytsqdmy
+    verified: false
+    hashtags: "#illustrationart, #witchyvibes, #witchcraft, #toonme"
+  - username: "sergibarnet"
+    fullname: >-
+      Sergi Barnet
+    location: "United States"
+    followers: 7505
+    engagement: 753
+    commentsToLikes: 0.033961
+    id: ck5q1gf7pauv60i11pp09qysm
+    verified: false
+    hashtags: "#architecture, #santjordi2020, #odio, #manteles"
+  - username: "ccmasonrlly"
+    fullname: >-
+      CC Mason
+    location: "United States"
+    followers: 248148
+    engagement: 114
+    commentsToLikes: 0.051783
+    id: ck6tt4et78jdt0j71oai9eks9
+    verified: true
+    hashtags: "#hairgoals, #lookinggood, #colorchange, #delias"
+  - username: "thatrestlessredhead"
+    fullname: >-
+      Rachel 💋
+    location: "United States"
+    followers: 20283
+    engagement: 464
+    commentsToLikes: 0.024687
+    id: ck0w3vtc6vjgv0i19i94uxuba
+    verified: false
+    hashtags: "#amelie, #perelachaise, #hallowedquiets, #harrypotterfan"
+  - username: "deluxeversionmagazine"
+    fullname: >-
+      Deluxe Version Magazine®️
+    location: "United States"
+    followers: 52325
+    engagement: 202
+    commentsToLikes: 0.002144
+    id: ck0vv554onlcy0i197dl8g0bf
+    verified: false
+    hashtags: "#cosmeticsurgery, #summerready, #breastaugmentation, #happybirthday"
+  - username: "devynhoward"
+    fullname: >-
+      Devyn Howard
+    location: "United States"
+    followers: 19770
+    engagement: 1141
+    commentsToLikes: 0.066723
+    id: ck9wdmqi0gdro0j784bibmwr8
+    verified: false
+    hashtags: "#quarantinelife, #collagenpowder, #amazinggrass, #dreamkitchen"
   - username: "missenocha"
     fullname: >-
       Miss Enocha
     location: "United States"
-    followers: 118550
-    engagement: 117
-    commentsToLikes: 0.038047
+    followers: 117103
+    engagement: 189
+    commentsToLikes: 0.041626
     id: ck5bygm5jp3y80i113ks4pgxi
     verified: false
-    hashtags: "#thelipbar, #babynurserydecor, #blackownedbusiness, #glutenfreerecipes"
-  - username: "sophieelkus"
-    fullname: >-
-      Sophie Elkus
-    location: "United States"
-    followers: 151916
-    engagement: 116
-    commentsToLikes: 0.038081
-    id: ck0u28xcez8vr0i194i2rceua
-    verified: true
-    hashtags: "#homereno, #purse, #valentinesday, #celebration"
-  - username: "erineemiller"
-    fullname: >-
-      Erin-Elizabeth Miller
-    location: "United States"
-    followers: 19183
-    engagement: 372
-    commentsToLikes: 0.092392
-    id: ck5hg509i0y950i118rr11piz
-    verified: false
-    hashtags: "#hotandcoldtherapy, #americarunsondunkin, #nongmo, #fullspectrumcbd"
-  - username: "raeannlangas"
-    fullname: >-
-      Rae Everyday
-    location: "United States"
-    followers: 76492
-    engagement: 208
-    commentsToLikes: 0.016516
-    id: ck135ls2w21is0i19u5v4ie0m
-    verified: false
-    hashtags: "#werkitfromhome, #favoritefit, #beautyhacks, #ltkworkwear"
-  - username: "pamarias"
-    fullname: >-
-      Pam Arias
-    location: "United States"
-    followers: 228434
-    engagement: 81
-    commentsToLikes: 0.034860
-    id: ck0ueg0t2lai40i19nruhynww
-    verified: true
-    hashtags: "#guccibeauty, #family, #homedecor, #stayhome"
+    hashtags: "#lipstickaddict, #happyplace, #babyshower, #maternityshoot"
 ---

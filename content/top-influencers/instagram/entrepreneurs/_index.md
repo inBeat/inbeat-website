@@ -1,107 +1,107 @@
 ---
 title: Top 10 Entrepreneurs Instagram Influencers In 2020
 description: >-
-  Find top entrepreneurs Instagram influencers in 2020. Most popular hashtags: #colombia #octolyfamily #positivevibes #laurabiagiotti.
+  Find top entrepreneurs Instagram influencers in 2020. Most popular hashtags: #love #blogger #coronavirus #chef.
 platform: Instagram
 profiles:
   - username: "je1bc"
     fullname: >-
       Jeremiah Emmanuel BEM
     location: "United Kingdom"
-    followers: 8620
-    engagement: 1647
-    commentsToLikes: 0.045707
+    followers: 8888
+    engagement: 1580
+    commentsToLikes: 0.041701
     id: ck8sxikr8hj4b0j784st04jwq
     verified: true
-    hashtags: "#dreaminginanightmare, #merky, #lfwm, #dian"
+    hashtags: "#lfwm, #dian, #lightwork, #unlockyourpassion"
   - username: "simrankhannaofficial"
     fullname: >-
       Simran Khanna
-    location: ""
-    followers: 43614
-    engagement: 576
-    commentsToLikes: 0.021601
+    location: "United States"
+    followers: 45791
+    engagement: 524
+    commentsToLikes: 0.022641
     id: ck5q0desl5ghy0i11q5vhnkcw
     verified: false
-    hashtags: "#fridayvibes, #pearl, #stayhome, #punjabi"
-  - username: "mrmerlano"
-    fullname: >-
-      Antonio Merlano
-    location: "Colombia"
-    followers: 63586
-    engagement: 275
-    commentsToLikes: 0.070471
-    id: ck5hoizftpnhv0i117jwy4fpg
-    verified: true
-    hashtags: "#coronavirus, #milan, #london, #spantajopism"
+    hashtags: "#pinkmoon, #lifeisprecious, #selflove, #shootlife"
   - username: "lavinia_biagiotti"
     fullname: >-
       Lavinia Biagiotti
     location: "Italy"
-    followers: 24062
-    engagement: 378
-    commentsToLikes: 0.064119
+    followers: 24000
+    engagement: 390
+    commentsToLikes: 0.057876
     id: ck6tmv5o78lcx0j718hafum2n
     verified: false
-    hashtags: "#laurabiagiotti, #fullmoon, #docufilm, #unastoriaitaliana"
-  - username: "iamsofiamattsson"
+    hashtags: "#repost, #tilli, #newseason, #gattopardo"
+  - username: "lamise_taha"
     fullname: >-
-      Sofia Mattsson
-    location: "United States"
-    followers: 23100
-    engagement: 1023
-    commentsToLikes: 0.064747
-    id: ck0ucakkpgchl0i19otke22f4
+      لميس💎
+    location: ""
+    followers: 21896
+    engagement: 957
+    commentsToLikes: 0.014282
+    id: ck0w614yi6esj0i19nyshtm52
     verified: false
-    hashtags: "#dreamplando, #eltonjohnoscarparty, #newyears, #napoleonapartments"
-  - username: "itskitsovain"
+    hashtags: "#love, #quarantinelife, #prettycities, #houses"
+  - username: "mrmerlano"
     fullname: >-
-      👄Miss Kitty Sovain👄
+      Antonio Merlano
+    location: "Colombia"
+    followers: 64763
+    engagement: 281
+    commentsToLikes: 0.085293
+    id: ck5hoizftpnhv0i117jwy4fpg
+    verified: true
+    hashtags: "#bromas, #vintage, #sugar, #mexico"
+  - username: "drcarolineiscovitz"
+    fullname: >-
+      Female Entrepreneur Coach
     location: "United States"
-    followers: 622136
-    engagement: 824
-    commentsToLikes: 0.027829
-    id: ck0tw32q1dt850i19k2v9fwwf
+    followers: 7135
+    engagement: 2588
+    commentsToLikes: 0.211539
+    id: ck0vvgtyep2ta0i19ikt8sfrw
     verified: false
-    hashtags: "#whatdidkittydonow, #sovainbeauty, #ilovemesomeme, #selfloveisthebestlove"
+    hashtags: ""
+  - username: "itsbiaaaa"
+    fullname: >-
+      Bianca👸🏼
+    location: "France"
+    followers: 19013
+    engagement: 1384
+    commentsToLikes: 0.578439
+    id: ckap9zichu4b60i789ovguq0r
+    verified: false
+    hashtags: "#ingrijire, #ootd, #asos, #makeupgiveaway"
+  - username: "beautiful_jasminemarie"
+    fullname: >-
+      Jasmine Marie BSN, RN
+    location: "United States"
+    followers: 21026
+    engagement: 1169
+    commentsToLikes: 0.065206
+    id: ckap5hg7jbp6c0i78ezp6qut3
+    verified: false
+    hashtags: "#pandemic, #prettypractice, #shecandoboth, #squadgoals"
+  - username: "yahina25"
+    fullname: >-
+      Yahina
+    location: "United States"
+    followers: 37618
+    engagement: 1142
+    commentsToLikes: 0.266698
+    id: ck5q9rhmncm4f0i11mdwtgusr
+    verified: false
+    hashtags: "#fearless, #nycstudio, #birthdaygirl, #princessluna"
   - username: "kikeprida"
     fullname: >-
       Kike Prida
     location: "Mexico"
-    followers: 158845
-    engagement: 784
-    commentsToLikes: 0.061085
+    followers: 185441
+    engagement: 885
+    commentsToLikes: 0.076604
     id: ck5zv8mlz3rsm0i14uyl7ydrg
     verified: false
-    hashtags: "#lomejorestallegando, #blackproject, #r8"
-  - username: "yahina25"
-    fullname: >-
-      Yahina
-    location: "Mexico"
-    followers: 36664
-    engagement: 1025
-    commentsToLikes: 0.152399
-    id: ck5q9rhmncm4f0i11mdwtgusr
-    verified: false
-    hashtags: "#obsessed, #cooking, #positivevibes, #vacation2020"
-  - username: "blondie_rio"
-    fullname: >-
-      𝑆𝐴𝑁𝐷𝑅𝐴 ♡ 𝐼𝑁𝑆𝑇𝐴𝐺𝑅𝐴𝑀𝐸𝑈𝑆𝐸
-    location: "France"
-    followers: 6320
-    engagement: 1878
-    commentsToLikes: 0.393256
-    id: ck6tlt4d26la10j71148fyril
-    verified: false
-    hashtags: "#souvenir, #blondie, #french, #octolyfamily"
-  - username: "oliviavidael"
-    fullname: >-
-      O L I V I A
-    location: "Finland"
-    followers: 10067
-    engagement: 2280
-    commentsToLikes: 0.079351
-    id: ck6u5i66e9rvl0j713oy1llni
-    verified: false
-    hashtags: "#outfitdetails, #giveaway, #arifreywatches"
+    hashtags: "#r8, #blackproject, #lomejorestallegando, #r8vsr8"
 ---

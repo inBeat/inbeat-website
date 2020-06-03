@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Berlin In 2020
 description: >-
-  Find top vegan Instagram influencers in Berlin in 2020. Most popular hashtags: #vegan #veganberlin #plantbased #vegandeutschland.
+  Find top vegan Instagram influencers in Berlin in 2020. Most popular hashtags: #veganberlin #veganfood #veganessen #modelsofcolor.
 platform: Instagram
 profiles:
-  - username: "caroliuna"
+  - username: "vivienriverphoenix"
     fullname: >-
-      ｡･:*:•☆༺♥༻☆•:*:･ﾟ
+      ✨Vɪᴠɪᴇɴ✨
     location: "Germany"
-    followers: 8394
-    engagement: 1241
-    commentsToLikes: 0.014208
-    id: ck5ckpyczxdr10i11q7myq5wd
+    followers: 145185
+    engagement: 628
+    commentsToLikes: 0.017875
+    id: ck0w6qe629sv10i1954yxmskh
     verified: false
-    hashtags: "#35mm, #filmisnotdead, #analog, #vegan"
-  - username: "foodreich"
+    hashtags: "#sneakerhead, #sneaker, #girl, #glam"
+  - username: "heylilahey"
     fullname: >-
-      Joana | Healthy Vegan Food
+      Mia Marjanović
     location: "Germany"
-    followers: 6856
-    engagement: 631
-    commentsToLikes: 0.171542
-    id: ck13b3t3ntj6y0i19c15x9iqh
+    followers: 26561
+    engagement: 277
+    commentsToLikes: 0.080003
+    id: ck0tx5r0zi1by0i19bfzjlns7
     verified: false
-    hashtags: "#foodblogfeed, #thebakefeed, #ohnezucker, #3zutaten"
-  - username: "yolcsita_eats"
-    fullname: >-
-      Yoli | Vegan | FoodPhotography
-    location: "Germany"
-    followers: 33797
-    engagement: 215
-    commentsToLikes: 0.147881
-    id: ck0vwpj40uy880i196z1j0qw8
-    verified: false
-    hashtags: "#veganberlin, #balifoodies, #veganindia, #breakfastbowl"
-  - username: "zuckerjagdwurst"
-    fullname: >-
-      Isa&Julia | Vegan Comfort Food
-    location: "Germany"
-    followers: 50862
-    engagement: 378
-    commentsToLikes: 0.016301
-    id: ck0tvu4ctcspo0i194vamxnnh
-    verified: false
-    hashtags: "#andros, #eattheworld, #vegan, #mandus"
-  - username: "superfoodsberlin"
-    fullname: >-
-      SUPERFOODS & ORGANIC LIQUIDS
-    location: "Germany"
-    followers: 20010
-    engagement: 288
-    commentsToLikes: 0.028121
-    id: ck600odqidym80i14pfka90px
-    verified: false
-    hashtags: "#berlinmitte, #dairyfree, #bowls, #healthylifestyle"
-  - username: "peaceplantsnamaste"
-    fullname: >-
-      Elisa Jankowski
-    location: "Germany"
-    followers: 2437
-    engagement: 900
-    commentsToLikes: 0.130269
-    id: ck5zpvq8utfyp0i14i8peqtyh
-    verified: false
-    hashtags: "#breakfastinspo, #positivity, #wellness, #whatveganseat"
-  - username: "culinarydots"
-    fullname: >-
-      CulinaryDots
-    location: "Germany"
-    followers: 153740
-    engagement: 244
-    commentsToLikes: 0.021945
-    id: ck0tvu4flcsqx0i19840z0lhf
-    verified: false
-    hashtags: "#glutenfreevegan, #cupcakesofinstagram, #snowdrop, #cakeclass"
-  - username: "scorpionmind"
-    fullname: >-
-      Tanja I Food & Lifestyle
-    location: "Germany"
-    followers: 40079
-    engagement: 234
-    commentsToLikes: 0.025958
-    id: ck0ttg5yu2kmi0i19houjjcc4
-    verified: false
-    hashtags: "#eattherainbow, #fitnessfood, #recoverywin, #foodblogfeed"
+    hashtags: "#earthday, #flaxseedgel, #bohemianliving, #climatecrisis"
   - username: "gastroberlin"
     fullname: >-
       Food in Berlin
     location: "Germany"
-    followers: 18130
-    engagement: 236
-    commentsToLikes: 0.224389
+    followers: 17877
+    engagement: 253
+    commentsToLikes: 0.215431
     id: ck55nhghr684v0i11vn4i1p3b
     verified: false
-    hashtags: "#wine, #southkorea, #waffles, #foodblog"
+    hashtags: "#vegan, #healthy, #bowls, #giveaway"
+  - username: "healthy_vegan_story"
+    fullname: >-
+      𝐒𝐚𝐫𝐚𝐡♡ a sustainable lifestyle
+    location: "Germany"
+    followers: 2894
+    engagement: 1213
+    commentsToLikes: 0.091708
+    id: ckapc75zx2que0i78bw557tk4
+    verified: false
+    hashtags: "#veganunterwegs, #fr, #veganorganic, #brokkoli"
+  - username: "veronika_klimovits"
+    fullname: >-
+      Veronika Klimovits
+    location: "Germany"
+    followers: 87537
+    engagement: 433
+    commentsToLikes: 0.054089
+    id: ck13bd4luuuqq0i19odzvpflm
+    verified: true
+    hashtags: "#outfitlove, #ichliebedich, #pyjamastyle, #lovemychihuahua"
+  - username: "feliecio"
+    fullname: >-
+      feliecio 🇩🇪🇪🇸
+    location: "Germany"
+    followers: 181127
+    engagement: 138
+    commentsToLikes: 0.086593
+    id: ck5ciiayxsozu0i11y113mg73
+    verified: false
+    hashtags: "#portocervo, #goldenhour, #vegan, #hahohe"
+  - username: "foodistisch"
+    fullname: >-
+      Berlin Food Traveller 🇩🇪🇻🇳
+    location: "Germany"
+    followers: 6488
+    engagement: 656
+    commentsToLikes: 0.224067
+    id: ck5ch7rmgq99x0i11thtdnstq
+    verified: false
+    hashtags: "#waffles, #instamood, #burger, #currynight"
+  - username: "abnehmwiki"
+    fullname: >-
+      Abnehmen • Diät • Fettabbau
+    location: "Germany"
+    followers: 25250
+    engagement: 1451
+    commentsToLikes: 0.021609
+    id: ck8t7ricvhr0v0j78m4oix665
+    verified: false
+    hashtags: "#personaltrainer, #fitundgesund, #monsterenergy, #ausgangssperre"
   - username: "gymooni"
     fullname: >-
-      Fitness🏋🏼‍♀️Nutrition🌱Mindest💭
+      Fitness🏋🏼‍♀️Nutrition🌱Mindset💭
     location: "Germany"
-    followers: 29448
-    engagement: 185
-    commentsToLikes: 0.125653
+    followers: 30223
+    engagement: 260
+    commentsToLikes: 0.133005
     id: ck6tidu6b0j1w0j71hb7ho7tl
     verified: false
-    hashtags: "#abwehrkr, #trainingzuhause, #fitnessaddiction, #lungekicks"
+    hashtags: "#quarant, #gesundessen, #gesundesessen, #sleeping"
+  - username: "rebeccanmyr"
+    fullname: >-
+      ↠ ☼  Rebecca Nmyr 🇳🇬
+    location: "Germany"
+    followers: 12423
+    engagement: 466
+    commentsToLikes: 0.018192
+    id: ck5hjhx4ngnu20i11z53dfgqx
+    verified: false
+    hashtags: "#christmasparty, #goodenergy, #ecofashion, #volunteerwork"
 ---

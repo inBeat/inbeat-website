@@ -1,107 +1,107 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Chicago In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Chicago in 2020. Most popular hashtags: #hypebeast #chicago #heatercentral #urbanaisle.
+  Find top hypebeast Instagram influencers in Chicago in 2020. Most popular hashtags: #hypebeast #chicago #streetphotography #airmax.
 platform: Instagram
 profiles:
-  - username: "theairvegan"
-    fullname: >-
-      The AIR VEGAN
-    location: "United States"
-    followers: 6210
-    engagement: 540
-    commentsToLikes: 0.056673
-    id: ck6tzbzvq8t940j71q2rvwdmh
-    verified: false
-    hashtags: "#tinkerhatfield, #sneakerdesign, #canvas, #forksoverknives"
   - username: "lcphotodesign"
     fullname: >-
       LC Photography & Multimedia
     location: "United States"
-    followers: 8520
-    engagement: 700
-    commentsToLikes: 0.003021
+    followers: 9569
+    engagement: 554
+    commentsToLikes: 0.008062
     id: ck6txz4oc0pa10j718mmn2fwj
     verified: false
-    hashtags: "#fashionista, #hypebeast, #chicagofashion, #hypebae"
+    hashtags: "#fashion, #lilwayne, #hypebeast, #retro"
   - username: "emilygualdoniphoto"
     fullname: >-
       Chicago Fashion Photographer
     location: "United States"
-    followers: 17770
-    engagement: 1320
-    commentsToLikes: 0.046528
+    followers: 17673
+    engagement: 1331
+    commentsToLikes: 0.045608
     id: ck5c1cu8kux0g0i11643v1o34
     verified: false
-    hashtags: "#makeportraits, #portraitisreligion, #fashionstyle, #chicagomodels"
-  - username: "hauteknife"
+    hashtags: "#bestphotogram, #quietthechaos, #manicurist, #portraitstream"
+  - username: "camrongood"
     fullname: >-
-      Joseph  |  HauteKnife🔪
+      CAMɆRON GOOD 📹
     location: "United States"
-    followers: 2392
-    engagement: 1094
-    commentsToLikes: 0.259602
-    id: ck5hhbkiu7e4g0i11otrvlmw0
+    followers: 8438
+    engagement: 1189
+    commentsToLikes: 0.051384
+    id: ck15sxzrafdl00i19i6cmsgm7
     verified: false
-    hashtags: "#bestfoodfeed, #abc7eyewitness, #soufflepancake, #foodandcuisines"
-  - username: "sneakerare1"
-    fullname: >-
-      sneakerare
-    location: "United States"
-    followers: 28375
-    engagement: 490
-    commentsToLikes: 0.013152
-    id: ck5qduj1hxds80i11l77nwxbc
-    verified: false
-    hashtags: "#louisvuitton, #family, #jumpman23, #cactus"
+    hashtags: "#justinjackson, #90sbulls, #astronomical, #statementjersey"
   - username: "az1217_"
     fullname: >-
       YueCheng Zhang
     location: "United States"
-    followers: 26868
-    engagement: 367
-    commentsToLikes: 0.008222
+    followers: 26263
+    engagement: 357
+    commentsToLikes: 0.008377
     id: ck0w38auus37g0i19dfsgfqdb
     verified: false
-    hashtags: "#sneaker, #gdragon, #airjordan11bred, #airjordan5doernbecher"
+    hashtags: "#airjordan1top3, #kobe7prelude, #supremeairforce1, #sneakerheads"
+  - username: "ryanthevintageking"
+    fullname: >-
+      Shopping and Retail
+    location: "United States"
+    followers: 25080
+    engagement: 87
+    commentsToLikes: 0.016229
+    id: ck0vzfkco8v4r0i19mvcvx7iu
+    verified: false
+    hashtags: "#paypalcash, #milano, #balenciaga, #bandteeshirt"
   - username: "chef.edtinoco"
     fullname: >-
       Ed Tinoco
     location: "United States"
-    followers: 21052
-    engagement: 360
-    commentsToLikes: 0.028556
+    followers: 21152
+    engagement: 349
+    commentsToLikes: 0.029995
     id: ck14iu9m2h7990i19tpi1feim
     verified: false
-    hashtags: "#pistachio, #chefsofinstagram, #chefstable, #restaurant"
-  - username: "bho_biscuit"
+    hashtags: "#nike270react, #repost, #chefswork, #chefschoice"
+  - username: "night.sh00terz"
     fullname: >-
-      Brian
+      NightShooters
     location: "United States"
-    followers: 39583
-    engagement: 318
-    commentsToLikes: 0.021838
-    id: ck0tzjq3pqjct0i19326xhegq
+    followers: 113848
+    engagement: 103
+    commentsToLikes: 0.029432
+    id: ck0u7b8wk486s0i1998qp2x2m
     verified: false
-    hashtags: "#fujifilm, #beautifuldestinations, #fujifilmgfx, #awesomedreamplaces"
-  - username: "b.c.calico"
+    hashtags: "#explorenyctoday, #newyorker, #hongkonger, #instagram"
+  - username: "junjdm"
     fullname: >-
-      Photographer Brendan Carroll
+      Jun 🌀
     location: "United States"
-    followers: 5595
-    engagement: 506
-    commentsToLikes: 0.028128
-    id: ck6tll4i966er0j71a5sttk5n
+    followers: 12081
+    engagement: 588
+    commentsToLikes: 0.043699
+    id: ck6tm9svd7fuv0j71xlmjab0k
     verified: false
-    hashtags: "#photofilmy, #fashion, #nowherediary, #drivebyfilm"
+    hashtags: "#airmax90, #kobe4undefeated, #conversebasketball, #kd2scoringtitle"
   - username: "praneeth_koduru"
     fullname: >-
       Praneeth Koduru | Chicago
     location: "United States"
-    followers: 5021
-    engagement: 509
-    commentsToLikes: 0.035100
+    followers: 4950
+    engagement: 565
+    commentsToLikes: 0.037800
     id: ck5c94hquargj0i11to7rz29x
     verified: false
-    hashtags: "#streetphotographers, #everybodystreet, #urbanluminous, #fromstreetswithlove"
+    hashtags: "#milkyway, #lensculturestreets, #exklusive, #streetselect"
+  - username: "porschuhhs"
+    fullname: >-
+      Andrew Florin
+    location: "United States"
+    followers: 36120
+    engagement: 435
+    commentsToLikes: 0.009492
+    id: ck5ztko660lsj0i14nnhjh7kp
+    verified: false
+    hashtags: "#tustin, #memorialday, #citystreets, #martini"
 ---

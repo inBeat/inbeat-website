@@ -1,16 +1,26 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Austria In 2020
 description: >-
-  Find top cinema Instagram influencers in Austria in 2020. Most popular hashtags: #austria #stayathome #vienna #visitaustria.
+  Find top cinema Instagram influencers in Austria in 2020. Most popular hashtags: #photography #fashion #paris #sunset.
 platform: Instagram
 profiles:
+  - username: "danielkofler"
+    fullname: >-
+      Daniel Kofler
+    location: "Austria"
+    followers: 16807
+    engagement: 600
+    commentsToLikes: 0.034756
+    id: ck14h8wm494ge0i19kbr5s6n3
+    verified: false
+    hashtags: "#dronegram, #skydive, #mountain, #mountainpassion"
   - username: "richardladkani"
     fullname: >-
       Richard Ladkani
     location: "Austria"
-    followers: 20373
-    engagement: 314
-    commentsToLikes: 0.027709
+    followers: 19625
+    engagement: 252
+    commentsToLikes: 0.027222
     id: ck0u9of6dad4b0i195gmdmolj
     verified: false
     hashtags: "#100andchange, #worldwildlifeday"
@@ -18,90 +28,80 @@ profiles:
     fullname: >-
       Brody Jones
     location: "Austria"
-    followers: 2313
-    engagement: 1006
-    commentsToLikes: 0.060790
+    followers: 2304
+    engagement: 1013
+    commentsToLikes: 0.060584
     id: ck55jhm1mx1vf0i11kzxtki97
     verified: false
     hashtags: "#woodsysworld"
   - username: "jo_stefan_"
     fullname: >-
-      Josif Stefan
+      Jo - the.stefans
     location: "Austria"
-    followers: 8978
-    engagement: 1754
-    commentsToLikes: 0.023953
+    followers: 8899
+    engagement: 1749
+    commentsToLikes: 0.023621
     id: ck0u0vetfuxpt0i19rv2elx8x
     verified: false
-    hashtags: "#makingmamories, #fashioninsta, #stylish, #stayathomechallenge"
-  - username: "borja_azurmendi"
+    hashtags: "#muttertag, #newlook, #menwithstyle, #stylish"
+  - username: "suhai_tattoo"
     fullname: >-
-      Borja Azurmendi
+      Sūhai Tattoo Artist
     location: "Austria"
-    followers: 6523
-    engagement: 793
-    commentsToLikes: 0.060154
-    id: ck15ul6awnq0s0i19p316u57o
+    followers: 10064
+    engagement: 450
+    commentsToLikes: 0.024608
+    id: ck5qbqx08myun0i11dm2wu7u4
     verified: false
-    hashtags: "#iskiedtoday, #blueice, #italia, #snowboard"
-  - username: "michiwohlleben"
+    hashtags: "#birdtattoo, #tulip, #medusa, #argenina"
+  - username: "vikamanko"
     fullname: >-
-      Michi Wohlleben
+      Model Belarus-Austria 🌍
     location: "Austria"
-    followers: 24880
-    engagement: 806
-    commentsToLikes: 0.023243
-    id: ck0u062bfsqjt0i19erbcqtvt
+    followers: 8260
+    engagement: 691
+    commentsToLikes: 0.035454
+    id: ck5bxw83toj3o0i11599b1zcn
     verified: false
-    hashtags: "#klettern, #summit, #noplacetoofar, #julbo"
-  - username: "wienerwohnzimmer"
+    hashtags: "#lovely, #beauty, #vintage, #modelife"
+  - username: "sebastian_schieren"
     fullname: >-
-      lena 🌚
+      Travel | Surf | Filmmaking
     location: "Austria"
-    followers: 24416
-    engagement: 529
-    commentsToLikes: 0.014776
-    id: ck14gfhie4yis0i194tnsy27o
+    followers: 73744
+    engagement: 741
+    commentsToLikes: 0.021716
+    id: ck5bv9t8kj8x10i11iygvha7z
     verified: false
-    hashtags: "#pencilsketch, #avocado, #leseratte, #finallytimefor"
-  - username: "in.wien.mit.wien"
+    hashtags: "#angst, #milkyway, #studentenleben, #patscherkofel"
+  - username: "a_l_x_ender"
     fullname: >-
-      
+      Alexander
     location: "Austria"
-    followers: 7479
-    engagement: 607
-    commentsToLikes: 0.042733
-    id: ck137qlficvrr0i19z95wvv6f
+    followers: 59114
+    engagement: 538
+    commentsToLikes: 0.030664
+    id: ck0vuxfusmlqu0i19cpi6p6mp
     verified: false
-    hashtags: "#hofburgpalace, #igersviennaclassics, #frostschutz, #austria"
-  - username: "andimoisescu"
+    hashtags: "#galaxys20, #teamgalaxy, #nailtheeditffa, #portraituring"
+  - username: "filmspektakel"
     fullname: >-
-      Andi Moisescu
+      𝗙𝗶𝗹𝗺𝗦𝗽𝗲𝗸𝘁𝗮𝗸𝗲𝗹
     location: "Austria"
-    followers: 239324
-    engagement: 162
-    commentsToLikes: 0.008355
-    id: ck6tqlrr0s55u0j71tdmglco3
-    verified: true
-    hashtags: "#setup, #miamibici, #comingsoon, #sailing"
-  - username: "officialvincentbueno"
-    fullname: >-
-      Vincent Bueno
-    location: "Austria"
-    followers: 6485
-    engagement: 667
-    commentsToLikes: 0.036099
-    id: ck5chz1qtrpjp0i117ctayi84
+    followers: 13000
+    engagement: 659
+    commentsToLikes: 0.028482
+    id: ck55jmzmixcm10i117y9n6qys
     verified: false
-    hashtags: "#vocals, #idol, #austriansuperstar, #blackandwhite"
-  - username: "sternenglueckfotografie"
+    hashtags: "#trampoline, #weloveeurope, #donaupark, #tinyworld"
+  - username: "michaelpsouk"
     fullname: >-
-      Laura ✨ Hochzeitsfotografin
+      Michael Papakonstantis 🌱
     location: "Austria"
-    followers: 2803
-    engagement: 920
-    commentsToLikes: 0.124309
-    id: ck0u0avi0t4a60i19titqcatt
+    followers: 18713
+    engagement: 569
+    commentsToLikes: 0.008401
+    id: ck5zs91x4y1qo0i14ir2g47aa
     verified: false
-    hashtags: "#austrianwedding, #loveanddevotion, #chasinglight, #wedding2021"
+    hashtags: "#greekislands, #worldviewmag, #tshirtdesign, #fireandblood"
 ---

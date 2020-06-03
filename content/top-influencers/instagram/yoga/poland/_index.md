@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Poland In 2020
 description: >-
-  Find top yoga Instagram influencers in Poland in 2020. Most popular hashtags: #love #happy #view #stayhome.
+  Find top yoga Instagram influencers in Poland in 2020. Most popular hashtags: #body #smile #happybirthday #weekend.
 platform: Instagram
 profiles:
+  - username: "blonde.lady"
+    fullname: >-
+      Aneta Putowska 👰🏼🔒🇵🇱
+    location: "Poland"
+    followers: 114776
+    engagement: 673
+    commentsToLikes: 0.040232
+    id: ck9hb8ylufun20j78n1zm26rz
+    verified: false
+    hashtags: "#motywacja, #styl, #styleinspo, #skincare"
+  - username: "qmamkasze"
+    fullname: >-
+      Maia Sobczak
+    location: "Poland"
+    followers: 28145
+    engagement: 399
+    commentsToLikes: 0.095281
+    id: ck5zz2ewday7k0i14wwbrmv8e
+    verified: false
+    hashtags: "#imhereforyou, #dressup, #vegetablebroth, #detailsoftheday"
   - username: "olivia_funky_"
     fullname: >-
       Olivia Lubieniecka
     location: "Poland"
-    followers: 5636
-    engagement: 1018
-    commentsToLikes: 0.053073
+    followers: 5921
+    engagement: 1052
+    commentsToLikes: 0.052761
     id: ck13a11hjo38q0i199333oq86
     verified: false
-    hashtags: "#island, #przygody, #beachgirl, #polskieg"
-  - username: "typical.doctor"
-    fullname: >-
-      Patrycja
-    location: "Poland"
-    followers: 6384
-    engagement: 1033
-    commentsToLikes: 0.029392
-    id: ck8t1d2f5vavk0j78vrj3625b
-    verified: false
-    hashtags: "#kaffe, #thursday, #placeicallhome, #boatlife"
-  - username: "sara.pray"
-    fullname: >-
-      Stylistka Dusz
-    location: "Poland"
-    followers: 30999
-    engagement: 246
-    commentsToLikes: 0.043512
-    id: ck5zjnnuthx1y0i148g4l37sb
-    verified: false
-    hashtags: "#kwarantanna, #paznokciezelowe, #sunnyday, #ootd"
+    hashtags: "#travel, #balisunset, #miedzyseriami, #surfmagic"
   - username: "justdeliciousx"
     fullname: >-
-      Justyna 🌸| Zdrowie & Joga
+      Justyna 🌸| Health & Yoga
     location: "Poland"
-    followers: 52968
-    engagement: 240
-    commentsToLikes: 0.034985
+    followers: 53562
+    engagement: 217
+    commentsToLikes: 0.049457
     id: ck5hhh84a87ri0i116o6nol4a
     verified: false
-    hashtags: "#jogawdomu, #bodyweightworkout, #biznes, #challangeyourself"
+    hashtags: "#stanienaglowie, #zdroweslodycze, #coreczkamamusi, #afteryou"
+  - username: "simplife.pl"
+    fullname: >-
+      Natalia Knopek ⚬ simplife.pl ⚬
+    location: "Poland"
+    followers: 28184
+    engagement: 216
+    commentsToLikes: 0.047466
+    id: ck0w50xvl1dhx0i19qltsaijs
+    verified: false
+    hashtags: "#mojemieszkanie, #kuchnia, #mojakuchnia, #roundtable"
   - username: "modela91"
     fullname: >-
       Carol Lina Karolina
     location: "Poland"
-    followers: 15165
-    engagement: 571
-    commentsToLikes: 0.029329
+    followers: 15113
+    engagement: 573
+    commentsToLikes: 0.028646
     id: ck5heohzhtzej0i11dfhx99ob
     verified: false
-    hashtags: "#smile, #photooftheday, #time, #privatejet"
-  - username: "inesbeautypl"
+    hashtags: "#picsofday, #esspresso, #jump, #campaign"
+  - username: "sara.pray"
     fullname: >-
-      InesBeauty -Aga Wroclaw 🌷🎀💝🇵🇱
+      Sara
     location: "Poland"
-    followers: 28687
-    engagement: 583
-    commentsToLikes: 0.204187
-    id: ck8tdgwnv399r0j78scov01sy
+    followers: 31615
+    engagement: 294
+    commentsToLikes: 0.020391
+    id: ck5zjnnuthx1y0i148g4l37sb
     verified: false
-    hashtags: "#zostajewdomu"
+    hashtags: "#newhair, #beauty, #quarantinestyle, #plantslover"
+  - username: "sylvia_wicinska"
+    fullname: >-
+      Sylwia Wicińska
+    location: "Poland"
+    followers: 29773
+    engagement: 146
+    commentsToLikes: 0.034645
+    id: ck8t9kuwnogtj0j78zgshc2ed
+    verified: false
+    hashtags: "#yogamat, #harrypotter, #sobeautiful, #odczarowujezime"
   - username: "natalia_uliasz"
     fullname: >-
       Natalia Uliasz 🇵🇱
     location: "Poland"
-    followers: 27033
-    engagement: 226
-    commentsToLikes: 0.034605
+    followers: 26967
+    engagement: 313
+    commentsToLikes: 0.038300
     id: ck0u7dizm4is80i19gdfwvf2z
     verified: false
-    hashtags: "#spain, #womensday, #candles, #afirmations"
-  - username: "minimalniee"
+    hashtags: "#multitasking, #wigry, #yogaflow, #natyralmakeup"
+  - username: "inesbeautypl"
     fullname: >-
-      Kasia Stachniak
+      InesBeauty -Aga Wroclaw 🌷🎀💝🇵🇱
     location: "Poland"
-    followers: 27878
-    engagement: 1009
-    commentsToLikes: 0.033620
-    id: ck0vxvjde0y2b0i19sp9hqjob
+    followers: 31006
+    engagement: 653
+    commentsToLikes: 0.259456
+    id: ck8tdgwnv399r0j78scov01sy
     verified: false
-    hashtags: "#pursuewhatislovely, #petalsandprops, #seekinspirecreate, #tv"
-  - username: "wioletabudnikjuhlke"
-    fullname: >-
-      Wioleta Budnik-Juhlke
-    location: "Poland"
-    followers: 25574
-    engagement: 112
-    commentsToLikes: 0.024327
-    id: ck5c9x2ugcajo0i11acr2bfo2
-    verified: false
-    hashtags: "#familytime, #yogaretreat, #homeoffice, #dreaming"
-  - username: "joannamoro.official"
-    fullname: >-
-      JOANNA MORO
-    location: "Poland"
-    followers: 68973
-    engagement: 348
-    commentsToLikes: 0.025583
-    id: ck6tpiknhk2mk0j71nv2sq1e9
-    verified: false
-    hashtags: "#zostajewdomu, #dbamoinnych, #malasyrenka, #ogromnami"
+    hashtags: "#selfiak, #beautifulwomen, #wszech, #malujusta"
 ---

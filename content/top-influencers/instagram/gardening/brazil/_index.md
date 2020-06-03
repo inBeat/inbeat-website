@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Brazil In 2020
 description: >-
-  Find top gardening Instagram influencers in Brazil in 2020. Most popular hashtags: #gardening #flowers #quarentena #garden.
+  Find top gardening Instagram influencers in Brazil in 2020. Most popular hashtags: #gardening #garden #quarantine #quarentena.
 platform: Instagram
 profiles:
-  - username: "claudia.mullertv"
+  - username: "hugostei"
     fullname: >-
-      🌿CLÁUDIA MÜLLER 🌿
+      /u.go/ - você vai
     location: "Brazil"
-    followers: 31803
-    engagement: 601
-    commentsToLikes: 0.084321
-    id: ck8wgko8qhjgz0j781l4aleks
+    followers: 32035
+    engagement: 210
+    commentsToLikes: 0.038729
+    id: ckaoxe4u4cvcq0i78m4ngfxak
     verified: false
-    hashtags: "#saudade, #cactosesuculentas, #plantasdeinterior, #juntoscontraovirus"
-  - username: "_bea61_"
+    hashtags: "#stylish, #poesias, #photofox, #poesi"
+  - username: "tess.amorim"
     fullname: >-
-      Bea
+      Tess Amorim
     location: "Brazil"
-    followers: 5674
-    engagement: 1428
-    commentsToLikes: 0.071585
-    id: ck8t23uxiy1vg0j78vunb0ju8
+    followers: 18025
+    engagement: 445
+    commentsToLikes: 0.021308
+    id: ck8td3cni1ozb0j78nvf2c1b1
     verified: false
-    hashtags: "#fattoamano, #cibo, #fleurs, #capture"
-  - username: "umbotaniconoapartamento"
+    hashtags: "#quarantine, #teatro, #theatre, #nycactors"
+  - username: "atelierterrarosa"
     fullname: >-
-      UM BOTÂNICO NO APARTAMENTO
+      Marina Henry
     location: "Brazil"
-    followers: 56271
-    engagement: 379
-    commentsToLikes: 0.043126
-    id: ck0w3g5wat8f90i199vnanaf2
+    followers: 6187
+    engagement: 668
+    commentsToLikes: 0.083678
+    id: ckaorbh5lmjuf0i7843iowdfa
     verified: false
-    hashtags: "#plantsmakepeoplehappy, #placayoutube, #minhaplantafavorita, #ceramic"
-  - username: "apto.1805"
-    fullname: >-
-      • apto 1805 •
-    location: "Brazil"
-    followers: 29741
-    engagement: 201
-    commentsToLikes: 0.172255
-    id: ck15q0dlu0hs10i19qcm06dhf
-    verified: false
-    hashtags: "#naturelovers, #pinterest, #easterdecor, #cafedatarde"
-  - username: "suzanaschermann"
-    fullname: >-
-      suzana schermann
-    location: "Brazil"
-    followers: 16174
-    engagement: 230
-    commentsToLikes: 0.065224
-    id: ck5zszee2zgqb0i14a9q5h1hy
-    verified: false
-    hashtags: "#gardening, #foracoronav, #kitchendecor, #paisagista"
+    hashtags: "#coelhos, #forgetmenot, #livingsimple, #floralinspo"
   - username: "brandon_l_li"
     fullname: >-
       Brandon Li
     location: "Brazil"
-    followers: 90453
-    engagement: 907
-    commentsToLikes: 0.020690
+    followers: 99534
+    engagement: 821
+    commentsToLikes: 0.019620
     id: ck13d7v9i44h60i19jfrl8pq7
     verified: true
-    hashtags: "#arcticcircle, #7pound, #filmmakerslife, #andaluciaviva"
+    hashtags: "#elrocio, #a7riii, #filmmakinghacks, #newzealand"
+  - username: "marineira"
+    fullname: >-
+      ⚡️Marina Berger⚡️
+    location: "Brazil"
+    followers: 620961
+    engagement: 49
+    commentsToLikes: 0.067481
+    id: ck0tzqml2r7lj0i19u0xgi5he
+    verified: false
+    hashtags: "#family, #paraglide, #canyon, #beach"
   - username: "gobattifotografia"
     fullname: >-
       lucas gobatti 🧙🏻‍♂️🧪🌱
     location: "Brazil"
-    followers: 16829
-    engagement: 427
-    commentsToLikes: 0.040745
+    followers: 16096
+    engagement: 421
+    commentsToLikes: 0.041900
     id: ck8syeckukktk0j78v9yw9qcg
     verified: false
-    hashtags: "#vsco, #andinismo, #mata, #sangha"
-  - username: "marcosjuniororquideas"
+    hashtags: "#forest, #mindfulness, #fall, #covid"
+  - username: "murilo_a_soares"
     fullname: >-
-      Marcos Júnior Orquídeas
+      Murilo Antonio Soares
     location: "Brazil"
-    followers: 12773
-    engagement: 676
-    commentsToLikes: 0.038219
-    id: ck8t4wuci84os0j786fr7rqwc
+    followers: 39341
+    engagement: 175
+    commentsToLikes: 0.048674
+    id: ck6u6o9dogrgj0j71wxvaolee
     verified: false
-    hashtags: "#floresdeorquideas, #flora, #orchidacea, #gardening"
-  - username: "agricultando"
+    hashtags: "#orchid, #peixes, #felizdiadasmaes, #jardimtropical"
+  - username: "tonm_melo"
     fullname: >-
-      Agricultando
+      Ton Melo (Neviton)
     location: "Brazil"
-    followers: 234363
-    engagement: 182
-    commentsToLikes: 0.063934
-    id: ck13c8slez5e40i19rkfxi944
+    followers: 5770
+    engagement: 799
+    commentsToLikes: 0.036201
+    id: ck9hc17mtjax30j7815nitn3t
     verified: false
-    hashtags: "#madeincampo, #agronomiatop, #agronomiarustica, #agrolife"
-  - username: "dony.augusto"
+    hashtags: "#trepadeira, #vasos, #nature, #ferro"
+  - username: "jardimdaline"
     fullname: >-
-      Nature Photographer - Natureza
+      Jardim Da Aline
     location: "Brazil"
-    followers: 2419
-    engagement: 1959
-    commentsToLikes: 0.074468
-    id: ck8t8s83hlljo0j78l5qwy7pr
+    followers: 15973
+    engagement: 359
+    commentsToLikes: 0.042263
+    id: ck14loiq1vp2z0i19m3pi050z
     verified: false
-    hashtags: "#narureza, #trending, #countryside, #macrophotography"
+    hashtags: "#unhasalongadas, #decoplants, #lardocelar, #cozinha"
+  - username: "marciagabrieluk"
+    fullname: >-
+      Marcia Gabriel
+    location: "Brazil"
+    followers: 23756
+    engagement: 294
+    commentsToLikes: 0.188429
+    id: ck6tt4g2p8jhk0j71onmv1wy6
+    verified: false
+    hashtags: "#vestidosdever, #norfolkbeaches, #denimaddict, #strowhat"
 ---

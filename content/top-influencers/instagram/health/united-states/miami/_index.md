@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Miami In 2020
 description: >-
-  Find top health Instagram influencers in Miami in 2020. Most popular hashtags: #miami #fitness #health #quarantine.
+  Find top health Instagram influencers in Miami in 2020. Most popular hashtags: #health #miami #fitness #staysafe.
 platform: Instagram
 profiles:
-  - username: "daniduqued"
+  - username: "themariavillalbas"
     fullname: >-
-      Daniella Duque- Angel
+      MARIA VILLALBA
     location: "United States"
-    followers: 50284
-    engagement: 266
-    commentsToLikes: 0.169130
-    id: ck134ck56vs9a0i19zo5eqpdt
+    followers: 107914
+    engagement: 308
+    commentsToLikes: 0.039116
+    id: ck5hguknm4u6v0i11oxv5b5g2
     verified: false
-    hashtags: "#lifestyle, #albionfit, #robinsharma, #biktmore"
-  - username: "misssamanthadrew"
+    hashtags: "#lastnight, #winelover, #legday, #training"
+  - username: "thenotoriousiz"
     fullname: >-
-      𝚂𝚊𝚖𝚖𝚒𝚎 ♓️
+      
     location: "United States"
-    followers: 18344
-    engagement: 338
-    commentsToLikes: 0.039335
-    id: ck5cfosfund1k0i11gi8yi693
+    followers: 13656
+    engagement: 915
+    commentsToLikes: 0.024568
+    id: ck5q19lzn9xfs0i1193j3jpso
     verified: false
-    hashtags: "#aesthetic, #exumas, #stbarthstyle, #wilhelminamiami"
-  - username: "mina_ink"
+    hashtags: ""
+  - username: "theisaacrosenberg"
     fullname: >-
-      Corina Curatola
+      Isaac Rosenberg
     location: "United States"
-    followers: 35998
-    engagement: 658
-    commentsToLikes: 0.023789
-    id: ck5zwk3lc69gd0i14dndclsaw
+    followers: 18405
+    engagement: 305
+    commentsToLikes: 0.052039
+    id: ck8svv19mcstd0j78l4c7miof
     verified: false
-    hashtags: "#alpha, #battlesscars, #alphaproject, #alphabootcamp"
-  - username: "gor_jess13"
+    hashtags: "#beautifulhomes, #scenery, #motivational, #lake"
+  - username: "fashiontravelrepeat"
     fullname: >-
-      𝓙𝓮𝓼𝓼| ☤🇭🇹
+      Vicki Rutwind 💖 Travel + Style
     location: "United States"
-    followers: 13405
-    engagement: 924
-    commentsToLikes: 0.106326
-    id: ck0txjgv7jeec0i19lv0dqqql
+    followers: 98395
+    engagement: 144
+    commentsToLikes: 0.077002
+    id: ck137pdm9cp860i19ym8xwhc2
     verified: false
-    hashtags: "#weekendvibes, #prettygirls, #aries, #blackgirlmagic"
-  - username: "abbydonahe"
+    hashtags: "#corsicaisland, #darlingplaces, #houseofharlow, #tigerprint"
+  - username: "artemusdolgin"
     fullname: >-
-      abby 🌞
+      Artemus Dolgin
     location: "United States"
-    followers: 6891
-    engagement: 911
-    commentsToLikes: 0.031420
-    id: ck6ty4u0r1or30j71p9utoivc
+    followers: 525745
+    engagement: 191
+    commentsToLikes: 0.025948
+    id: ck14j1m6yi6c80i193zpc3f95
     verified: false
-    hashtags: "#fit, #gym, #health, #fitspo"
-  - username: "alexanderriverapr"
+    hashtags: "#recovery, #dmt, #differentbreed, #patience"
+  - username: "therebirthofparisc"
     fullname: >-
-      ALEXANDER RIVERA
+      Paris Chanel |📍Memphis Blogger
     location: "United States"
-    followers: 11157
-    engagement: 443
-    commentsToLikes: 0.028670
-    id: ck602nyfbi7rj0i14ksbx2881
+    followers: 76808
+    engagement: 841
+    commentsToLikes: 0.008640
+    id: ck55juxv4xsrw0i117wfyo7on
     verified: false
-    hashtags: "#instatravelling, #men, #trip, #spring"
-  - username: "butterballdagolden"
+    hashtags: "#rsnap, #prenatal, #tasty, #cover"
+  - username: "caseyssimmons"
     fullname: >-
-      BUTTERBALL | Golden Retriever
+      Casey Simmons
     location: "United States"
-    followers: 10738
-    engagement: 238
-    commentsToLikes: 0.306920
-    id: ck0ub1twedjft0i19n7ycuatb
+    followers: 44354
+    engagement: 170
+    commentsToLikes: 0.031161
+    id: ck9wdjty0fz1b0j78la88o28b
     verified: false
-    hashtags: "#monday, #sleep, #leapday2020, #teacher"
-  - username: "sanjamarinkovicofficial"
+    hashtags: "#legitaf"
+  - username: "michelle_vanessaa_"
     fullname: >-
-      Sanja Marinkovic
+      Michelle Vanessa
     location: "United States"
-    followers: 136519
-    engagement: 175
-    commentsToLikes: 0.028513
-    id: ck6u348ejvm140j71irrpy6jv
+    followers: 24712
+    engagement: 772
+    commentsToLikes: 0.063881
+    id: ck6tqe91vqy2q0j71tv5jm53n
     verified: false
-    hashtags: "#knjizevnica, #sing, #tetka, #ekskluzivno"
-  - username: "tonyandersontv"
+    hashtags: "#godblesseveryone, #norona, #fitness, #miami"
+  - username: "thatfitram"
     fullname: >-
-      Tony Anderson
+      Physique Posts Of @RyanAMac
     location: "United States"
-    followers: 17871
-    engagement: 344
-    commentsToLikes: 0.166137
-    id: ck6tt2dab879e0j71v0pgl9vw
+    followers: 19489
+    engagement: 1404
+    commentsToLikes: 0.013433
+    id: ck6u5jbtc9yin0j7164x23kx4
     verified: false
-    hashtags: "#superbowl, #mahomes, #jayz, #mamba"
-  - username: "originellie"
+    hashtags: "#romance, #fitstyles, #stimulatelives, #mycalvins"
+  - username: "bonjourclem"
     fullname: >-
-      Nellie Bethel
+      Clémentine Desseaux
     location: "United States"
-    followers: 17073
-    engagement: 399
-    commentsToLikes: 0.059379
-    id: ck5casht3e1fz0i11ggi2yxpp
-    verified: false
-    hashtags: "#thisishome, #community, #curbtheanxiety, #jloandshakira"
+    followers: 85087
+    engagement: 204
+    commentsToLikes: 0.030568
+    id: ck55kk4cyzhsg0i11feb9932p
+    verified: true
+    hashtags: "#supplements, #7forallmankind, #smsuperstar, #selfcare"
 ---

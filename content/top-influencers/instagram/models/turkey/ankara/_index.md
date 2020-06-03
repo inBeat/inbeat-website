@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Ankara In 2020
 description: >-
-  Find top models Instagram influencers in Ankara in 2020. Most popular hashtags: #model #photo #ankara #photography.
+  Find top models Instagram influencers in Ankara in 2020. Most popular hashtags: #ankara #instagram #model #photooftheday.
 platform: Instagram
 profiles:
-  - username: "furkan.erdogannn"
+  - username: "ozlemkaftan"
     fullname: >-
-      Furkan Erdoğan
+      Özlem Kaftan
     location: "Turkey"
-    followers: 110943
-    engagement: 502
-    commentsToLikes: 0.199075
-    id: ck6u9hovixmhk0j71e4rozswk
+    followers: 2008
+    engagement: 1224
+    commentsToLikes: 0.050334
+    id: ckaor6vp3lz5z0i780impqo10
     verified: false
-    hashtags: "#almanya, #hareketli, #karantina, #bursa"
-  - username: "selenselen22"
+    hashtags: "#streetphotos, #goldenhour, #scenery, #streetstorytelling"
+  - username: "gocebey"
     fullname: >-
-      SELEN AYDIN
+      Batın Özen
     location: "Turkey"
-    followers: 25277
-    engagement: 544
-    commentsToLikes: 0.022646
-    id: ck14jr4tvlrd40i19uqfopm4p
+    followers: 11464
+    engagement: 1585
+    commentsToLikes: 0.287659
+    id: ck6uaeufn35u50j71my0iy42d
     verified: false
-    hashtags: "#photography, #sahil, #cumhuriyetkad, #maltepe"
-  - username: "eyup.dd.phtgrpy"
+    hashtags: "#portugal, #aksaray, #stayhome, #mountaincoaster"
+  - username: "sabirliebeveynler_pedagoganne"
     fullname: >-
-      Eyüp Dede Photography
+      Pedagog/Aile dan. Gül ÖZTÜRK
     location: "Turkey"
-    followers: 8743
-    engagement: 425
-    commentsToLikes: 0.058791
-    id: ck138eo9ifvgy0i19wgmzcxvp
+    followers: 22026
+    engagement: 288
+    commentsToLikes: 0.018508
+    id: ck13c5jxhypws0i19sormwuz4
     verified: false
-    hashtags: "#takipedenitakipederim, #followforfollow, #begen, #insta"
-  - username: "semihkiriss"
-    fullname: >-
-      Semih Kiriş
-    location: "Turkey"
-    followers: 5726
-    engagement: 2811
-    commentsToLikes: 0.050638
-    id: ck0vwrsadva720i19yj0j4nc5
-    verified: false
-    hashtags: "#halla, #history, #clocktower, #kayak"
+    hashtags: "#inat, #felsefe, #karikat, #okuloncesi"
   - username: "najmmohammadi"
     fullname: >-
       Najm Mohammadi
     location: "Turkey"
-    followers: 9811
-    engagement: 1571
-    commentsToLikes: 0.055070
+    followers: 10124
+    engagement: 1577
+    commentsToLikes: 0.056373
     id: ck5c8dp0m99fe0i11etkdgpg0
     verified: false
-    hashtags: "#frenchbulldog, #lifecoach, #fashiontv, #fashionista"
-  - username: "frt.slymn"
+    hashtags: "#edgymemes, #angel, #birthday, #jalal"
+  - username: "kate.xeeva"
     fullname: >-
-      Süleyman FIRAT
+      Kate Alexeeva
     location: "Turkey"
-    followers: 3274
-    engagement: 1703
-    commentsToLikes: 0.054787
-    id: ck8t95f5gmy5x0j78176lug1d
-    verified: false
-    hashtags: "#covid, #drfahrettinkoca, #liketime, #cocuk"
-  - username: "nabeelalasmer"
+    followers: 92922
+    engagement: 543
+    commentsToLikes: 0.039735
+    id: ck5hskkqhwqs90i11zzuejemu
+    verified: true
+    hashtags: "#saapiobeauty, #staypositive, #pillowchallenge, #turkey"
+  - username: "p_i__x__e_l"
     fullname: >-
-      Nabeel Alasmer
+      Sezer Sahinoglu
     location: "Turkey"
-    followers: 32000
-    engagement: 102
-    commentsToLikes: 0.025428
-    id: ck5zt326hzngs0i14tqcv00g1
+    followers: 50364
+    engagement: 343
+    commentsToLikes: 0.235578
+    id: ck5qcr1xerxfk0i11bi2zcetv
     verified: false
-    hashtags: "#photo, #photographysouls, #gloss, #mascara"
+    hashtags: "#japan, #yourmannheim, #turkiyevizor, #zamanidurdur"
+  - username: "ebruli_lif_dunyasi"
+    fullname: >-
+      Ebru
+    location: "Turkey"
+    followers: 18594
+    engagement: 202
+    commentsToLikes: 0.090526
+    id: ck9we060fi1wx0j78ak7dxyj9
+    verified: false
+    hashtags: "#handmade, #kendinyap, #gancillo, #crochetlove"
   - username: "sudesudemirelofficial"
     fullname: >-
       sudesu demirel
     location: "Turkey"
-    followers: 31407
-    engagement: 225
-    commentsToLikes: 0.093966
+    followers: 31277
+    engagement: 219
+    commentsToLikes: 0.092713
     id: ck5ca2qshcl140i11atatabbq
     verified: false
-    hashtags: "#holanda, #photo, #specialdesings, #modac"
-  - username: "_orenhanim_"
+    hashtags: "#fashion, #urfa, #corona, #instagoods"
+  - username: "mrvozubek"
     fullname: >-
-      
+      Merve Özübek
     location: "Turkey"
-    followers: 70217
-    engagement: 185
-    commentsToLikes: 0.063592
-    id: ck8tbqnh7wqig0j78iewly6ef
+    followers: 25838
+    engagement: 207
+    commentsToLikes: 0.118634
+    id: ck0vuyq12mra70i19is6hxfsx
     verified: false
-    hashtags: "#knittinginstagram, #likeforlikes, #motif, #teknomarketim10"
-  - username: "ankaraandmore_"
+    hashtags: "#chocolate, #giveaway, #chocolaterie, #dutchoven"
+  - username: "_sunumzade_busra_"
     fullname: >-
-      ankara.and.more
+      🧿BÜŞRA_KAYA🧿👰❣️👮‍♂️💍 🇹🇷🇹🇷
     location: "Turkey"
-    followers: 10061
-    engagement: 450
-    commentsToLikes: 0.051660
-    id: ck0vyeudp3moa0i19ylvtjlzo
+    followers: 3600
+    engagement: 952
+    commentsToLikes: 0.163100
+    id: ckaosbibxqz1c0i78l6uaabmr
     verified: false
-    hashtags: "#photography, #photoshoots, #mogang, #photooftheday"
+    hashtags: "#english, #sunsetlover, #homesweethome, #kahvekeyfi"
 ---

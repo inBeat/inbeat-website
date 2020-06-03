@@ -1,107 +1,107 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In Brazil In 2020
 description: >-
-  Find top outdoors Instagram influencers in Brazil in 2020. Most popular hashtags: #adventure #lifestyle #outdoorsman #repost.
+  Find top outdoors Instagram influencers in Brazil in 2020. Most popular hashtags: #outdoors #sunset #instapic #humans.
 platform: Instagram
 profiles:
-  - username: "natialves87"
+  - username: "villmarks_siv"
     fullname: >-
-      Natalia Thais Alves
+      Siv Karin Ravndal 🌲🐾
     location: "Brazil"
-    followers: 38782
-    engagement: 297
-    commentsToLikes: 0.054423
-    id: ck8t1to2nwzmq0j7856swjcts
+    followers: 58196
+    engagement: 693
+    commentsToLikes: 0.010543
+    id: ck0vx3s8uwzwu0i199h9devcp
     verified: false
-    hashtags: "#emcasa"
-  - username: "lostart"
+    hashtags: "#outfitoftheday, #jagt, #iamsprtsman, #skittfiske"
+  - username: "survival_movement"
     fullname: >-
-      
+      End Days Survival
     location: "Brazil"
-    followers: 9102
-    engagement: 649
-    commentsToLikes: 0.034306
-    id: ck5q5hyzhsyp50i11hno89ny8
+    followers: 12950
+    engagement: 268
+    commentsToLikes: 0.014961
+    id: ck137layrc49w0i19vt46rqbg
     verified: false
-    hashtags: "#oldschool, #portrait, #throwbackthursday, #tbt"
-  - username: "blackflyeyes"
+    hashtags: "#istandprepared, #natureiscalling, #wildlifeaddicts, #survivalmovement"
+  - username: "vagnersome"
     fullname: >-
-      BlackFlyEyes
+      SOME ® Graffiti
     location: "Brazil"
-    followers: 18333
-    engagement: 310
-    commentsToLikes: 0.024661
-    id: ck5hq30e6seun0i11mmbr5zwz
+    followers: 8394
+    engagement: 415
+    commentsToLikes: 0.012677
+    id: ck6u8dt7oqzsh0j71za5nm6kr
     verified: false
-    hashtags: "#flyfishing, #catchandrelease, #wildfood, #trout"
-  - username: "gsantosphoto"
+    hashtags: "#outdoors"
+  - username: "kah_cr"
     fullname: >-
-      Gabriel Santos | @gsantosphoto
+      KARINA CATUZZO | A+
     location: "Brazil"
-    followers: 39926
-    engagement: 489
-    commentsToLikes: 0.022010
-    id: ck15rzmlwahxf0i1984d6aeeh
+    followers: 9856
+    engagement: 1878
+    commentsToLikes: 0.034605
+    id: ck138u3lai0xf0i19016v2oqp
     verified: false
-    hashtags: "#canonespana, #cascada, #forest, #iceland"
-  - username: "vivianctelles"
+    hashtags: "#holiday, #neelixmusic, #work, #premierleague"
+  - username: "gabrielafoletto"
     fullname: >-
-      Montanha | Trekking | Escalada
+      Gabriela Foletto
     location: "Brazil"
-    followers: 54358
-    engagement: 65
-    commentsToLikes: 0.073010
-    id: ck5cdk1fjjaxp0i11hkhrbjwe
+    followers: 17686
+    engagement: 1636
+    commentsToLikes: 0.030287
+    id: ck134bkxbvn420i19ugs22g5b
     verified: false
-    hashtags: "#quarentena, #empreenda, #minhamascaraminhavida, #pandemia"
-  - username: "umrafaabreu"
+    hashtags: "#natureza, #agronomy, #agronomia, #black"
+  - username: "bettertogether.everywhere"
     fullname: >-
-      Rafa Abreu
+      Mafalda🇵🇹 & Hugo🇿🇦🇵🇹
     location: "Brazil"
-    followers: 4196
-    engagement: 1642
-    commentsToLikes: 0.103987
-    id: ck6trsh780u0p0j71yyn0vzge
+    followers: 5524
+    engagement: 902
+    commentsToLikes: 0.125668
+    id: ck6u8lrkpsc240j71h93rlkaq
     verified: false
-    hashtags: "#renascimento, #yogapractice, #positivevibrations, #corona"
-  - username: "gtarso_"
+    hashtags: "#beautifulplaces, #portugalunido, #igersperu, #coronavirus"
+  - username: "fialhojoanna"
     fullname: >-
-      Gabriel Tarso
+      Joanna Fialho 👸🏻🇧🇷🇺🇸
     location: "Brazil"
-    followers: 10798
-    engagement: 612
-    commentsToLikes: 0.049477
-    id: ck0vxfhb5yn2z0i19dylbi889
+    followers: 19180
+    engagement: 826
+    commentsToLikes: 0.044324
+    id: ck5c4bflp0zzt0i11ulf996vh
     verified: false
-    hashtags: "#sosmataatlantica, #pedradobau, #nepal, #mountaineering"
-  - username: "anthonyawaken"
+    hashtags: "#gatinha, #happyeaster, #kidinfluencers, #serdeluz"
+  - username: "isabelaa_cruz"
     fullname: >-
-      AnthonyAwaken
+      isabela cruz
     location: "Brazil"
-    followers: 9093
-    engagement: 687
-    commentsToLikes: 0.035225
-    id: ck5pyean0vllr0i11aajqj8la
+    followers: 6921
+    engagement: 1062
+    commentsToLikes: 0.070634
+    id: ck5hh2rtb62u50i11t7h38g4y
     verified: false
-    hashtags: "#helleknives, #anorak, #ferrorod, #handmade"
-  - username: "claytonconservani"
+    hashtags: "#vidaemportugal, #vamosvencer, #bloggerstyle, #roadtrip"
+  - username: "karineeabrahim"
     fullname: >-
-      Clayton Conservani
+      Karinee Abrahim
     location: "Brazil"
-    followers: 55972
-    engagement: 228
-    commentsToLikes: 0.029797
-    id: ck8sz3a0nn0980j78tzvxj69i
+    followers: 27471
+    engagement: 247
+    commentsToLikes: 0.070453
+    id: ck8t1u96sx22x0j78iag9d7hw
+    verified: false
+    hashtags: "#beachgirl, #salvejorge, #carioquissimo, #tattooink"
+  - username: "itiacharya"
+    fullname: >-
+      Iti Acharya
+    location: "Brazil"
+    followers: 52013
+    engagement: 284
+    commentsToLikes: 0.047630
+    id: ck5bwmwtvm0f70i1150ju9pi5
     verified: true
-    hashtags: ""
-  - username: "invictustacticaloutdoor"
-    fullname: >-
-      Invictus Tactical & Outdoor
-    location: "Brazil"
-    followers: 193778
-    engagement: 124
-    commentsToLikes: 0.014197
-    id: ck0w18c81i1sg0i19fvfo3s2r
-    verified: false
-    hashtags: "#repost, #lifestyle, #covid19, #prontospratudo"
+    hashtags: "#throwback, #supportive, #greatest, #goldenhour"
 ---

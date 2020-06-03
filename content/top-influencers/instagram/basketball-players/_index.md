@@ -1,107 +1,107 @@
 ---
 title: Top 10 Basketball Players Instagram Influencers In 2020
 description: >-
-  Find top basketball players Instagram influencers in 2020. Most popular hashtags: #probasketball #overseasbasketball #afro #baywafcbbtour.
+  Find top basketball players Instagram influencers in 2020. Most popular hashtags: #overseasfits #future #10yearvet #siraf.
 platform: Instagram
 profiles:
+  - username: "notfurkan"
+    fullname: >-
+      𝔽𝕦𝕣𝕜𝕒𝕟 𝕌𝕤𝕥𝕦𝕟𝕤𝕠𝕪
+    location: "United Kingdom"
+    followers: 2186
+    engagement: 3042
+    commentsToLikes: 0.160470
+    id: ckapc33ct2a330i78zwr1pyiw
+    verified: false
+    hashtags: "#mugshotchallenge"
+  - username: "xavier.talton"
+    fullname: >-
+      XAVIER TALTON - BASKETBALL
+    location: "United States"
+    followers: 7312
+    engagement: 1658
+    commentsToLikes: 0.088200
+    id: ck8t43gc15djm0j78icf8iwr3
+    verified: false
+    hashtags: "#basketballlife, #cibacopa, #legend, #dreamchasin"
   - username: "nickemery04"
     fullname: >-
       Nick Emery
     location: "United States"
-    followers: 5886
-    engagement: 1598
-    commentsToLikes: 0.097543
+    followers: 5893
+    engagement: 1606
+    commentsToLikes: 0.091804
     id: ck0ty07b5l1md0i19f788a2f3
     verified: false
-    hashtags: "#chancyboy, #genmarketing, #may2020, #brotherhood"
-  - username: "xavier.talton"
-    fullname: >-
-      XAVIER TALTON - BASKETBALL
-    location: ""
-    followers: 5563
-    engagement: 1382
-    commentsToLikes: 0.082724
-    id: ck8t43gc15djm0j78icf8iwr3
-    verified: false
-    hashtags: "#trusttheprocess, #overseaslife, #dreamchasin, #stayhungrystayhumble"
+    hashtags: "#rosiegirl, #chancyboy, #genmarketing, #may2020"
   - username: "otaldo_daniel"
     fullname: >-
       Daniel costa
     location: "Brazil"
-    followers: 22890
-    engagement: 737
-    commentsToLikes: 0.076657
+    followers: 23772
+    engagement: 693
+    commentsToLikes: 0.073404
     id: ck5qd1fsrtczw0i11mzokl4qs
     verified: false
-    hashtags: "#negritude, #projetoarvore, #bbbxp2020, #pretosnotopo"
+    hashtags: "#trancas, #boxbraids, #projetoarvore, #bbbxp2020"
   - username: "rob_lowery8"
     fullname: >-
       Rob Lowery
     location: "Canada"
-    followers: 8346
-    engagement: 1149
-    commentsToLikes: 0.075795
+    followers: 8337
+    engagement: 1126
+    commentsToLikes: 0.079397
     id: ck5qel5xu10hu0i11chh4qjh1
     verified: false
-    hashtags: "#10, #10yearvet, #torun, #magicyear"
-  - username: "sertacsanli"
-    fullname: >-
-      Sertaç Şanlı
-    location: ""
-    followers: 8678
-    engagement: 1658
-    commentsToLikes: 0.044439
-    id: ck5zmcuxlmc6g0i148id7d7ej
-    verified: true
-    hashtags: "#stayhome, #kupan, #bizbirlikteyiz, #socialdistancing"
-  - username: "dcash_11"
-    fullname: >-
-      David Holston
-    location: "France"
-    followers: 7155
-    engagement: 1792
-    commentsToLikes: 0.042158
-    id: ck6u8ddttqx2c0j714wcqgup3
-    verified: true
-    hashtags: ""
+    hashtags: "#torun, #tbt, #magicyear, #10"
   - username: "angeldelgado"
     fullname: >-
       Angel Delgado
     location: "Dominican Republic"
-    followers: 88885
-    engagement: 1267
-    commentsToLikes: 0.023963
+    followers: 89130
+    engagement: 1201
+    commentsToLikes: 0.025123
     id: ck5c0f716t0o50i115u51gua5
     verified: true
-    hashtags: "#justakidfromdominicanrepublic, #vamospormas, #dominicana, #tiktok"
+    hashtags: "#100, #vamospormas, #beijingroyalfighters, #vamos"
+  - username: "mahdi_moradinasab"
+    fullname: >-
+      Mahdi moradinasab
+    location: ""
+    followers: 2021
+    engagement: 3579
+    commentsToLikes: 0.070240
+    id: ck9wiplh83d6n0j78hc9xjtzs
+    verified: false
+    hashtags: "#mikhastym, #jashujan, #capitan, #perspolis"
   - username: "sjdmashayekhi"
     fullname: >-
       Sajjad Mashayekhi
     location: "Iran"
-    followers: 11321
-    engagement: 1774
-    commentsToLikes: 0.033437
+    followers: 11019
+    engagement: 1812
+    commentsToLikes: 0.033446
     id: ck8t01wmhqjzj0j780rqpxm9u
     verified: false
     hashtags: "#sjd, #nbamvp, #iribf, #fibawc"
-  - username: "dzeda14"
+  - username: "dcash_11"
     fullname: >-
-      Nihad Djedovic
-    location: "Germany"
-    followers: 10655
-    engagement: 1274
-    commentsToLikes: 0.029971
-    id: ck1388dniezmr0i196kkuucbe
-    verified: false
-    hashtags: "#iamnotzlatan, #fotoduda, #miasanmia, #nurderfcb"
-  - username: "nandodecolo"
-    fullname: >-
-      Nando De Colo
-    location: "Turkey"
-    followers: 129173
-    engagement: 1345
-    commentsToLikes: 0.016526
-    id: ck14irrkjgwd90i1935oo2h15
+      David Holston
+    location: "France"
+    followers: 7215
+    engagement: 1680
+    commentsToLikes: 0.034765
+    id: ck6u8ddttqx2c0j714wcqgup3
     verified: true
-    hashtags: "#misguapas, #felizsanvalent, #turkishcupchampions, #beyaztak"
+    hashtags: "#staydown, #againstallodds, #keeppushing, #comics"
+  - username: "emmyandujar5"
+    fullname: >-
+      Emmy Andujar
+    location: "United States"
+    followers: 16368
+    engagement: 845
+    commentsToLikes: 0.052444
+    id: ck0w0tgulfy850i19abwplkoe
+    verified: true
+    hashtags: "#teampur, #babyemmyondaway, #girldad, #panamericanos2019"
 ---

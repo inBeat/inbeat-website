@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Brazil In 2020
 description: >-
-  Find top lingerie Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #moda #quarentena #brasil.
+  Find top lingerie Instagram influencers in Brazil in 2020. Most popular hashtags: #sorteio #makeup #quarentena #influencer.
 platform: Instagram
 profiles:
-  - username: "jujumalveira"
+  - username: "annebelleif"
     fullname: >-
-      Juliana Malveira - Miss Brasil
+      Aηηєвєℓℓє I. Ferreira
     location: "Brazil"
-    followers: 105102
-    engagement: 246
-    commentsToLikes: 0.012169
-    id: ck601ml3efrv60i14t4ginvzd
+    followers: 26094
+    engagement: 121
+    commentsToLikes: 0.041570
+    id: ckap7xydqm27u0i78o9na9yec
     verified: false
-    hashtags: "#makeforyounosumauma, #pulseiras, #braceletes, #modafeminina"
-  - username: "gabiboing"
-    fullname: >-
-      G A B R I E L A   B O I N G
-    location: "Brazil"
-    followers: 183065
-    engagement: 93
-    commentsToLikes: 0.218459
-    id: ck5ztl5mu0mmz0i141gt9zyz1
-    verified: false
-    hashtags: "#orleans, #coloracaopessoal, #quarentenainspiradora, #towerbridge"
-  - username: "trigemeas_dantas_fitness_"
-    fullname: >-
-      Trigêmeas Dantas
-    location: "Brazil"
-    followers: 25441
-    engagement: 90
-    commentsToLikes: 0.061337
-    id: ck6u07hxye1t70j71j1uftbhj
-    verified: false
-    hashtags: "#triplest, #girlspower, #trigemeas, #mamaecuida"
+    hashtags: "#repostlegend"
   - username: "rafa.mcd"
     fullname: >-
       Rafaella Macedo ➰
     location: "Brazil"
-    followers: 21590
-    engagement: 297
-    commentsToLikes: 0.379684
+    followers: 23774
+    engagement: 344
+    commentsToLikes: 0.186848
     id: ck8t243twy2vp0j78wh3lnjq2
     verified: false
-    hashtags: "#influencer, #ficaemcasa, #look, #brilho"
-  - username: "verdadeiroo_amor"
+    hashtags: "#sorteios, #influencer, #instaphoto, #ficaremcasa"
+  - username: "carlaschumann"
     fullname: >-
-      Verdadeiro Amor ღ
+      Carla Schumann
     location: "Brazil"
-    followers: 202891
-    engagement: 87
-    commentsToLikes: 0.059201
-    id: ck15qeill2gbl0i19c1emvujx
+    followers: 2831
+    engagement: 1106
+    commentsToLikes: 0.060402
+    id: ckap6xha7hrl20i78timbsko5
     verified: false
-    hashtags: "#relacionamento, #namorados"
-  - username: "nibia_resende"
+    hashtags: ""
+  - username: "nycollelimaa"
     fullname: >-
-      N Í B I A 🌻
+      Nycolle lima
     location: "Brazil"
-    followers: 5987
-    engagement: 1712
-    commentsToLikes: 0.080492
-    id: ck0ua60ypbhgk0i19rdjd95wi
+    followers: 4554
+    engagement: 1677
+    commentsToLikes: 0.354072
+    id: ck8t8fni0ka600j78h1633zt8
     verified: false
-    hashtags: "#goodafternoon, #ensaioexterno, #photooftheday, #christmastime"
-  - username: "felipetavaresfotografia"
+    hashtags: "#priorchallenge, #rebocochallenge, #bbb2020, #brabachallenge"
+  - username: "budah"
     fullname: >-
-      Felipe Tavares
+      B U D A H
     location: "Brazil"
-    followers: 11926
-    engagement: 1052
-    commentsToLikes: 0.063904
-    id: ck0w6ogxc9jlh0i19s4ow6oqa
+    followers: 30076
+    engagement: 878
+    commentsToLikes: 0.030200
+    id: ck6u8g8sjreza0j71yyftrs1h
     verified: false
-    hashtags: "#canudoecologico, #modafeminina, #lingerie, #inspiration"
-  - username: "yancafontenele"
+    hashtags: ""
+  - username: "trigemeas_dantas_fitness_"
     fullname: >-
-      Yanca Fontenele
+      Trigêmeas Dantas
     location: "Brazil"
-    followers: 37919
-    engagement: 362
-    commentsToLikes: 0.725336
-    id: ck1386pvfer1k0i19p33ie28t
+    followers: 25057
+    engagement: 83
+    commentsToLikes: 0.078975
+    id: ck6u07hxye1t70j71j1uftbhj
     verified: false
-    hashtags: "#diadasmulheres, #ufpi, #vizzanolovers, #lojasnoroeste"
-  - username: "mayacademia"
+    hashtags: "#familia, #girls, #aben, #triplest"
+  - username: "ana.eliisa"
     fullname: >-
-      𝙼𝚊𝚢𝚊𝚛𝚊 𝙼𝚎𝚜𝚚𝚞𝚒𝚝𝚊🧿🌶
+      ✨Ana Elisa✨
     location: "Brazil"
-    followers: 29339
-    engagement: 377
-    commentsToLikes: 0.400925
-    id: ck6ui4sqkd2hq0j713rocjwco
+    followers: 11704
+    engagement: 2748
+    commentsToLikes: 0.862642
+    id: ck55ljemi1ph70i11q8u2p0l7
     verified: false
-    hashtags: "#sereia, #ootdfashion, #sejagrato, #picoftheday"
-  - username: "mayararussi"
+    hashtags: "#gratidao, #paragua, #autoestima, #automaquiagem"
+  - username: "gabriela.araujo.1"
     fullname: >-
-      Mayara Russi
+      Gabi Araújo
     location: "Brazil"
-    followers: 195796
-    engagement: 239
-    commentsToLikes: 0.404424
-    id: ck601d94mfa490i14gxb7xhr3
-    verified: true
-    hashtags: "#ficaemcasa, #lingerieplussize, #plussizebeauty, #corpolivre"
+    followers: 23089
+    engagement: 1380
+    commentsToLikes: 0.320062
+    id: ck8talikes9cf0j78096dtr5x
+    verified: false
+    hashtags: "#lingerie, #2020, #quarentena, #fiqueemcasa"
+  - username: "taysaacarvalho"
+    fullname: >-
+      ✨TAYSA ✨
+    location: "Brazil"
+    followers: 59745
+    engagement: 584
+    commentsToLikes: 0.442392
+    id: ck134k0q0wt6t0i19b8peeage
+    verified: false
+    hashtags: "#aprontando, #cabeloscurtos, #cafe, #seinspire"
+  - username: "carllavanessa_"
+    fullname: >-
+      𝐶𝑎𝑟𝑙𝑙𝑎 𝑉𝑎𝑛𝑒𝑠𝑠𝑎 
+    location: "Brazil"
+    followers: 16167
+    engagement: 1015
+    commentsToLikes: 0.049730
+    id: ckap7wupwlwwx0i78spokl48y
+    verified: false
+    hashtags: "#pecas, #linge, #mulheres, #sergipe"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Brazil In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #cabelocurto #gingergirls #redheadsrule.
+  Find top lifestyle Instagram influencers in Brazil in 2020. Most popular hashtags: #summer #beach #influencer #selfie.
 platform: Instagram
 profiles:
-  - username: "luanauyara"
+  - username: "bstevanatto_"
     fullname: >-
-      𝐋𝐔𝐀𝐍𝐀 𝐔𝐘𝐀𝐑𝐀
+      Bᥲ́rbᥲrᥲ Stᥱvᥲᥒᥲtto
     location: "Brazil"
-    followers: 6276
-    engagement: 1403
-    commentsToLikes: 0.192291
-    id: ck8t8v7pklyiu0j781lpx9kre
-    verified: false
-    hashtags: "#carnaval"
-  - username: "camposnique"
-    fullname: >-
-      M O N I Q U E  C A M P O S
-    location: "Brazil"
-    followers: 124405
-    engagement: 1037
-    commentsToLikes: 0.139744
-    id: ck6udh8rfl3fy0j71u356s4dp
+    followers: 2482
+    engagement: 2645
+    commentsToLikes: 0.185050
+    id: ckapaoryvww6z0i78m55utwja
     verified: false
     hashtags: ""
-  - username: "yasminlsilva"
+  - username: "helenacoelhooo"
     fullname: >-
-      YASMIN SILVA
+      𝐇 𝐄 𝐋 𝐄 𝐍 𝐀  𝐂 𝐎 𝐄 𝐋 𝐇 𝐎
     location: "Brazil"
-    followers: 56080
-    engagement: 882
-    commentsToLikes: 0.272536
-    id: ck6u8dc5sqwsj0j714efl18hg
+    followers: 455499
+    engagement: 2440
+    commentsToLikes: 1.664794
+    id: ck0u0az0ut4qf0i19ylg3kdyp
     verified: false
-    hashtags: "#tudosobcontrole, #filmesonline, #rel, #bbb20"
-  - username: "betaclaper"
+    hashtags: "#foreoportugal, #ikeaportugal, #hboportugal, #pub"
+  - username: "gabsxaviier"
     fullname: >-
-      Beta Claper ☼
+      Gabriella
     location: "Brazil"
-    followers: 21443
-    engagement: 951
-    commentsToLikes: 0.093673
-    id: ck5pwrzr8oav40i11til22ehq
+    followers: 10480
+    engagement: 2206
+    commentsToLikes: 0.079332
+    id: ck14j5f1nipvs0i19c2sna5h2
     verified: false
-    hashtags: "#publi, #17semanas, #17weekspregnant, #17weeks"
+    hashtags: "#lookdodia, #blogueirinha, #goodvibes, #modafeminina"
   - username: "michelle_gassen"
     fullname: >-
-      𝐌𝐢𝐜𝐡𝐞𝐥𝐥𝐞 𝐆𝐚𝐬𝐬𝐞𝐧 🦋
+      𝐌𝐢𝐜𝐡𝐞𝐥𝐥𝐞 𝐆𝐚𝐬𝐬𝐞𝐧 🦋 𝐒𝐚𝐨 𝐋𝐞𝐨𝐩𝐨𝐥𝐝𝐨
     location: "Brazil"
-    followers: 5983
-    engagement: 2563
-    commentsToLikes: 0.247014
+    followers: 7325
+    engagement: 1730
+    commentsToLikes: 0.372050
     id: ck15pc4ccx5120i19745ycq6b
     verified: false
-    hashtags: "#goodvibes, #makeupbyme, #ruivando, #redheadgirl"
-  - username: "nataliaftoscano"
+    hashtags: "#redheadsrule, #redhairgirl, #gingers, #ruivasdobrasil"
+  - username: "samuelcarvalho_0"
     fullname: >-
-      Natália Toscano
+      Samuel Carvalho
     location: "Brazil"
-    followers: 602091
-    engagement: 833
-    commentsToLikes: 0.136743
-    id: ck14gl55r5r8m0i19kul8ifp9
+    followers: 21334
+    engagement: 1438
+    commentsToLikes: 0.069978
+    id: ck15ra0qg6w9j0i19893dwxy7
     verified: false
-    hashtags: "#aesperadaangelina, #novaprotek, #novaprotekcanais, #meumundoazulerosa"
+    hashtags: "#garotocacheadochallenge, #garotocacheado"
+  - username: "wladyapinheiro_"
+    fullname: >-
+      W L A D Y A  P I N H E I R O
+    location: "Brazil"
+    followers: 19243
+    engagement: 1170
+    commentsToLikes: 0.072770
+    id: ck9wdwvc5hmpd0j788ol4m86j
+    verified: false
+    hashtags: "#summer, #joseavelino, #laion, #lifestyle"
+  - username: "juliasouzaj"
+    fullname: >-
+      Júlia Antunes ✨
+    location: "Brazil"
+    followers: 267904
+    engagement: 1131
+    commentsToLikes: 0.235878
+    id: ck0w1tcpil1q40i194y7tnxc6
+    verified: false
+    hashtags: "#challenge, #colorchallenge, #corpolivre, #juantunesinspira"
   - username: "krztony"
     fullname: >-
       Tony An
     location: "Brazil"
-    followers: 38840
-    engagement: 1016
-    commentsToLikes: 0.068958
+    followers: 37672
+    engagement: 929
+    commentsToLikes: 0.063115
     id: ck13d9p124d4f0i19e3bdr2n1
     verified: false
     hashtags: ""
-  - username: "wessthug"
+  - username: "adyllacoimbra"
     fullname: >-
-      ↠↠ Wess | Filter ↞↞
+      𝐀𝐃𝐘𝐋𝐋𝐀 𝐂𝐎𝐈𝐌𝐁𝐑𝐀
     location: "Brazil"
-    followers: 30572
-    engagement: 759
-    commentsToLikes: 0.247028
-    id: ck0w028vxc10u0i19e86ozeyo
+    followers: 20812
+    engagement: 923
+    commentsToLikes: 0.473419
+    id: ck9we72i3iwuq0j78qx1yxfjh
     verified: false
-    hashtags: "#prosperonvida, #curtavivaaproveite, #dicasdowess, #153mildonew"
-  - username: "manzonca"
+    hashtags: "#mesversario, #stayhome, #babyshower, #tiktok"
+  - username: "ramonbernardess"
     fullname: >-
-      Amanda Kassardjian
+      Ramon Bernardes
     location: "Brazil"
-    followers: 19496
-    engagement: 1113
-    commentsToLikes: 0.190543
-    id: ck0vziqdp9b150i199i07t5he
+    followers: 110430
+    engagement: 904
+    commentsToLikes: 0.058115
+    id: ckap6ngapgn1j0i78ojpmukr5
     verified: false
-    hashtags: "#sobrancelhas, #umf, #tbt, #sotrackbloco"
-  - username: "insaneemind"
-    fullname: >-
-      May Osorio 🌹
-    location: "Brazil"
-    followers: 60095
-    engagement: 888
-    commentsToLikes: 0.060404
-    id: ck0vxztn61jin0i196xgpd9ta
-    verified: false
-    hashtags: "#retrospectiva, #antesedepois, #depress, #depressao"
+    hashtags: "#exnamtv, #exnoprimevideo"
 ---

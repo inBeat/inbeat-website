@@ -1,107 +1,107 @@
 ---
 title: Top 10 Pole Dancers Instagram Influencers In France In 2020
 description: >-
-  Find top pole dancers Instagram influencers in France in 2020. Most popular hashtags: #poledancer #fitgirl #poledance #pink.
+  Find top pole dancers Instagram influencers in France in 2020. Most popular hashtags: #polesport #handbalance #stayhome #love.
 platform: Instagram
 profiles:
   - username: "nicolepeachyst"
     fullname: >-
       Nicole 🍑🐱
     location: "France"
-    followers: 39963
-    engagement: 923
-    commentsToLikes: 0.015211
+    followers: 41190
+    engagement: 890
+    commentsToLikes: 0.015629
     id: ck8t64yy4c81i0j78np490owt
     verified: false
-    hashtags: "#twitchgirls, #timetoexeed, #nerdygirl, #smile"
-  - username: "estefjimpa"
-    fullname: >-
-      ESTEFANIAJIMENEZ_OldSchoolPole
-    location: "France"
-    followers: 31783
-    engagement: 229
-    commentsToLikes: 0.060326
-    id: ck6u2kon8sd3d0j71n2qfn48e
-    verified: false
-    hashtags: "#sundaybumday, #blackandwhite, #pdchokersplit, #pdshishispin"
+    hashtags: "#strong, #twitchitalia, #girls, #travel"
   - username: "canistsenguun"
     fullname: >-
       Tsenguun
     location: "France"
-    followers: 85345
-    engagement: 521
-    commentsToLikes: 0.003069
+    followers: 85728
+    engagement: 513
+    commentsToLikes: 0.002904
     id: ck5ztbdm703f10i14n20az7vx
     verified: false
-    hashtags: "#travel, #paris, #eiffeltower, #malena"
-  - username: "timothegc"
+    hashtags: "#eiffeltower, #malena, #artistlife, #travel"
+  - username: "estefjimpa"
     fullname: >-
-      Timothé GC
+      ESTEFANIAJIMENEZ_OldSchoolPole
     location: "France"
-    followers: 6646
-    engagement: 764
-    commentsToLikes: 0.039413
-    id: ck6ti6ica04pj0j7156ijases
+    followers: 32778
+    engagement: 236
+    commentsToLikes: 0.061817
+    id: ck6u2kon8sd3d0j71n2qfn48e
     verified: false
-    hashtags: "#stupidlove, #ladygaga, #fight, #fallenangel"
-  - username: "kumi_burlesque"
-    fullname: >-
-      Kumi@Burlesque Tokyo
-    location: "France"
-    followers: 19625
-    engagement: 293
-    commentsToLikes: 0.039481
-    id: ck8tbey60vdy70j78aggvt0uc
-    verified: false
-    hashtags: "#mood, #tagforlikes, #cleanandflowjapan, #instagood"
+    hashtags: "#sundaybumday"
   - username: "mimosapudicadna"
     fullname: >-
       Mimosa Pudica
     location: "France"
-    followers: 5116
-    engagement: 1384
-    commentsToLikes: 0.016552
+    followers: 5070
+    engagement: 1337
+    commentsToLikes: 0.023313
     id: ck5zozyz0rpu20i14tm505euh
     verified: false
-    hashtags: "#girl, #skin, #duet, #portraitphotography"
+    hashtags: "#duet, #stayhome, #poleduo, #mabenz"
   - username: "jazzykpole"
     fullname: >-
       J Λ Z Z Y   K
     location: "France"
-    followers: 30413
-    engagement: 324
-    commentsToLikes: 0.035073
+    followers: 31136
+    engagement: 329
+    commentsToLikes: 0.034779
     id: ck5ca34declrc0i118rwom9mi
     verified: false
-    hashtags: "#dorisarnold, #girlswithmuscle, #30koflove, #pleasershoes"
+    hashtags: "#spinningpole, #nevertoomany, #girlswithmuscle, #marvel"
+  - username: "laurennza"
+    fullname: >-
+      Laurennza
+    location: "France"
+    followers: 6256
+    engagement: 458
+    commentsToLikes: 0.025589
+    id: ck6ufk1rnxis60j718h86f5ar
+    verified: false
+    hashtags: "#ilovemylife, #thanksgod, #naturalbeauty, #twerk"
   - username: "leslielili_pole"
     fullname: >-
       leslie lili
     location: "France"
-    followers: 85900
-    engagement: 206
-    commentsToLikes: 0.034113
+    followers: 85254
+    engagement: 212
+    commentsToLikes: 0.032327
     id: ck6tjs0ve3b5g0j71p0f0mmd4
     verified: false
-    hashtags: "#sunday, #flatlinescopio, #dance, #flexibility"
-  - username: "lauramete"
+    hashtags: "#braidedhair, #cupidvariation, #fail, #transitions"
+  - username: "laura_adaraya"
     fullname: >-
-      🌟 LAURA MÉTÉ 🌟
+      𝕃𝔸𝕌ℝ𝔸 ᴘᴏʟᴇ ᴅᴀɴᴄᴇ ʏᴏɢᴀ ᴛᴇᴀᴄʜᴇʀ
     location: "France"
-    followers: 11114
-    engagement: 913
-    commentsToLikes: 0.079919
-    id: ck60021r7ctip0i14n0ti0upi
+    followers: 3175
+    engagement: 1305
+    commentsToLikes: 0.077470
+    id: ck9h9rpfi9p3d0j78t2w1tley
     verified: false
-    hashtags: "#blackandwhite, #deco, #lookblack, #quarantaine"
-  - username: "adem_photographie"
+    hashtags: "#yogacouple, #allyoucanyoga, #onlineclasses, #lotuspincha"
+  - username: "fitbyshelly"
     fullname: >-
-      Jean-Marc Adem Jaleel
+      Shelly
     location: "France"
-    followers: 5900
-    engagement: 911
-    commentsToLikes: 0.056858
-    id: ck5c4d1qx13g80i11ccla0hew
+    followers: 70418
+    engagement: 309
+    commentsToLikes: 0.049502
+    id: ck0vx6u4rxfn80i19w3rbw78t
     verified: false
-    hashtags: "#confinement, #mexicana, #libanesegirl, #stade"
+    hashtags: "#kekepalmer, #womeninfitness, #poledancers, #dontdoubtyourself"
+  - username: "passionnement_a_la_folie"
+    fullname: >-
+      Emeline ✿ Mum | Entrepreneure
+    location: "France"
+    followers: 27228
+    engagement: 303
+    commentsToLikes: 0.126212
+    id: ck0ubtfq0fdjp0i19x3r7bhcn
+    verified: false
+    hashtags: "#poledancing, #homedecoration, #bouledogue, #maison"
 ---

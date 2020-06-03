@@ -1,69 +1,89 @@
 ---
 title: Top 10 Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top Instagram influencers in Nigeria in 2020. Most popular hashtags: #explorepage #explore #exploremore #skincareproducts.
+  Find top Instagram influencers in Nigeria in 2020. Most popular hashtags: #photooftheday #explorepage #saynotodomesticviolence #instaphoto.
 platform: Instagram
 profiles:
   - username: "_top.guy"
     fullname: >-
-      A Golden State Of Mind.☁️
+      LOOK MOM I CAN FLY!
     location: "Nigeria"
-    followers: 5675
-    engagement: 2124
-    commentsToLikes: 0.092923
+    followers: 8127
+    engagement: 1799
+    commentsToLikes: 0.092217
     id: ck6u5sw9ubji30j71ntdrn27q
     verified: false
-    hashtags: "#exploring, #tundeednut, #funnyvideos, #explorepage"
-  - username: "colormanola"
+    hashtags: "#fashionman, #fashionforkids, #fashionjunkie, #fashionlovers"
+  - username: "o.k.o.r.t.i.e"
     fullname: >-
-      𝕆𝕝𝕒 𝕊𝕡𝕖𝕔𝕥𝕖𝕣
+      Nancy Ayuk 💸
     location: "Nigeria"
-    followers: 5995
-    engagement: 1572
-    commentsToLikes: 0.111971
-    id: ck6u80kxqoqha0j714ny48adf
+    followers: 30920
+    engagement: 1526
+    commentsToLikes: 0.060645
+    id: ck8t65a73c9j20j78getqwygm
     verified: false
-    hashtags: "#staysafe, #stayhealthy, #repost, #dubai"
+    hashtags: "#stayhome, #dontrushchallenge"
+  - username: "its_orezzi"
+    fullname: >-
+      loladey
+    location: "Nigeria"
+    followers: 2140
+    engagement: 2926
+    commentsToLikes: 0.154057
+    id: ckap8gmlio82u0i78vgnk9llk
+    verified: false
+    hashtags: "#saynotodomesticviolence"
   - username: "kevoyb"
     fullname: >-
       Kevoy C. Burton🌙
     location: "Nigeria"
-    followers: 6145
-    engagement: 1703
-    commentsToLikes: 0.108225
+    followers: 6270
+    engagement: 1712
+    commentsToLikes: 0.104785
     id: ck5zz5murb4lx0i14uz2nwf08
     verified: false
-    hashtags: "#josephthemovie, #nigeria, #accra, #alisonhinds"
+    hashtags: "#lagos, #josephfilmproject, #ghollywood, #valentinesday"
+  - username: "beelalgy"
+    fullname: >-
+      BILAL ADO GAYA 
+    location: "Nigeria"
+    followers: 131702
+    engagement: 1552
+    commentsToLikes: 0.045412
+    id: ckap0v4mxrxy20i78dunjs1jp
+    verified: false
+    hashtags: ""
   - username: "thayour_b"
     fullname: >-
-      OYINDAMOLA🤍
+      OYINDAMOLA✨
     location: "Nigeria"
-    followers: 20705
-    engagement: 1344
-    commentsToLikes: 0.075137
+    followers: 21414
+    engagement: 1443
+    commentsToLikes: 0.077709
     id: ck5hos67kq4ru0i11zqxzuidi
     verified: false
-    hashtags: "#nysc, #ogunstatecorper"
-  - username: "keturah_king"
+    hashtags: "#ogunstatecorper, #nysc, #knowyouchallenge"
+  - username: "dfw_oma"
     fullname: >-
-      Keturah King
+      Alozie oma
     location: "Nigeria"
-    followers: 50554
-    engagement: 604
-    commentsToLikes: 0.068862
-    id: ck5zuocrt2qvv0i14ylyuhdrx
-    verified: true
-    hashtags: "#herstory, #themarathoncontinues, #phenomenalwoman, #hbcu"
-  - username: "tamara.aig"
-    fullname: >-
-      Tamara |Hair Beauty Fashion🇳🇬
-    location: "Nigeria"
-    followers: 8482
-    engagement: 1198
-    commentsToLikes: 0.070096
-    id: ck5hdea8mmyju0i11dmzcoeux
+    followers: 24017
+    engagement: 1339
+    commentsToLikes: 0.067013
+    id: ck8syg97rkqnd0j78fjfmxwpz
     verified: false
-    hashtags: "#skincaretips, #contentcreator, #niveang, #nigeriancontentcreator"
+    hashtags: "#skin, #picoftheday, #skincareroutine, #pool"
+  - username: "colormanola"
+    fullname: >-
+      𝕆𝕝𝕒 𝕊𝕡𝕖𝕔𝕥𝕖𝕣
+    location: "Nigeria"
+    followers: 6338
+    engagement: 1421
+    commentsToLikes: 0.094346
+    id: ck6u80kxqoqha0j714ny48adf
+    verified: false
+    hashtags: "#dubai, #deleted, #explore, #roomdecor"
   - username: "choco__leee"
     fullname: >-
       Fisher Vanessa
@@ -73,35 +93,15 @@ profiles:
     commentsToLikes: 0.060752
     id: ck8t653oac8nt0j781ov1o1qx
     verified: false
-    hashtags: "#photooftheday, #exploremore, #feeds, #facelab"
-  - username: "_kingnheeta"
+    hashtags: "#exploretocreate, #cutie, #facelab, #nude"
+  - username: "o.oyinda"
     fullname: >-
-      B E N I T A🌹💍🍃
+      Oyinlola Oyindamola 🌸 👑✨💫
     location: "Nigeria"
-    followers: 7018
-    engagement: 1358
-    commentsToLikes: 0.065690
-    id: ck6tile7k0xtu0j71juxa4vc1
+    followers: 17481
+    engagement: 1193
+    commentsToLikes: 0.064924
+    id: ck6tvfw7gm08n0j71cisrnqx6
     verified: false
-    hashtags: "#repost, #skincare, #exploremore, #skincaretips"
-  - username: "etebo_karo"
-    fullname: >-
-      Etebo
-    location: "Nigeria"
-    followers: 107855
-    engagement: 560
-    commentsToLikes: 0.040330
-    id: ck5hjkgfngsbr0i11o7vaed8b
-    verified: true
-    hashtags: ""
-  - username: "mofe_ade"
-    fullname: >-
-      Mofe Ade
-    location: "Nigeria"
-    followers: 3589
-    engagement: 2017
-    commentsToLikes: 0.214120
-    id: ck6tvj2avmhag0j71v72j2zkv
-    verified: false
-    hashtags: "#cultivarte19, #cultivarte20, #cuds2019, #thepersonalbrandingprimer"
+    hashtags: "#keepitfreshwithcloseup, #keepitfreshgeng, #feministchallenge"
 ---

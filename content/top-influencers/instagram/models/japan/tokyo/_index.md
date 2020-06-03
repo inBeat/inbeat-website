@@ -1,66 +1,46 @@
 ---
 title: Top 10 Models Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top models Instagram influencers in Tokyo in 2020. Most popular hashtags: #pr #portraits #indies #screen.
+  Find top models Instagram influencers in Tokyo in 2020. Most popular hashtags: #stayhome #indonesia #coffeetime #lace.
 platform: Instagram
 profiles:
-  - username: "hys__maki"
-    fullname: >-
-      Maki
-    location: "Japan"
-    followers: 53393
-    engagement: 408
-    commentsToLikes: 0.008889
-    id: ck5zscrmjy9800i14si3q4xft
-    verified: false
-    hashtags: "#bridaldress, #conversetokyo, #trishuna, #cosplay"
-  - username: "lauraribeiro.x"
-    fullname: >-
-      LAURA RIBEIRO ラウラ
-    location: "Japan"
-    followers: 44385
-    engagement: 202
-    commentsToLikes: 0.015864
-    id: ck5hn0zdln01h0i11wpqzcyi4
-    verified: true
-    hashtags: "#clinique"
   - username: "erina_saiki"
     fullname: >-
       Erina Saiki_彩希エリナ
     location: "Japan"
-    followers: 20210
-    engagement: 183
-    commentsToLikes: 0.060276
+    followers: 20113
+    engagement: 126
+    commentsToLikes: 0.068461
     id: ck8t6g19idhne0j78manbvvw8
     verified: false
-    hashtags: "#japane, #pinkmonster, #eat, #hairmake"
+    hashtags: "#dentalcare, #cookins, #triprip, #sprayart"
   - username: "miki_rolleilife"
     fullname: >-
       M I K I *
     location: "Japan"
-    followers: 48250
-    engagement: 125
-    commentsToLikes: 0.019622
+    followers: 47990
+    engagement: 134
+    commentsToLikes: 0.015057
     id: ck55pj9abaoh30i11e59hlg5l
     verified: false
-    hashtags: "#miki, #noguchibijoux, #hondarribia, #wakanayara"
+    hashtags: "#figaro, #f101, #2020, #takeaway"
   - username: "maimiokuwa"
     fullname: >-
       大桑マイミ
     location: "Japan"
-    followers: 34376
-    engagement: 202
-    commentsToLikes: 0.005951
+    followers: 34291
+    engagement: 194
+    commentsToLikes: 0.007753
     id: ck6ts3ex42jfo0j71kd1mxyko
     verified: true
-    hashtags: "#shiseidoginzatokyo, #sdgs, #20ss, #konadenim"
+    hashtags: "#familiar70, #cooking, #sdgs, #art"
   - username: "kenimilovanov"
     fullname: >-
       Ken Alexandar Ishii-Milovanov
     location: "Japan"
-    followers: 16248
-    engagement: 827
-    commentsToLikes: 0.075199
+    followers: 15750
+    engagement: 836
+    commentsToLikes: 0.076567
     id: ck0u20w7cyict0i19ncyeazkj
     verified: false
     hashtags: ""
@@ -68,40 +48,60 @@ profiles:
     fullname: >-
       高橋晴香
     location: "Japan"
-    followers: 91209
-    engagement: 152
-    commentsToLikes: 0.114411
+    followers: 94534
+    engagement: 168
+    commentsToLikes: 0.117890
     id: ck0w7911ocdbw0i196up7cwdg
     verified: false
-    hashtags: "#nailchange, #americantourister, #tapioca, #owndays"
+    hashtags: "#dinner, #promotion, #oeillet, #selfcoloring"
+  - username: "gemmatokyo"
+    fullname: >-
+      Gemma Louise  ジェマ・ルイーズ
+    location: "Japan"
+    followers: 74667
+    engagement: 306
+    commentsToLikes: 0.038381
+    id: ck8t2lq52zwop0j78vy08i73j
+    verified: false
+    hashtags: "#japan, #travel, #redlingerie, #photoshoot"
+  - username: "ayanen_11"
+    fullname: >-
+      彩音
+    location: "Japan"
+    followers: 35098
+    engagement: 546
+    commentsToLikes: 0.005037
+    id: ck0w4024nw4im0i19cwsccwjy
+    verified: false
+    hashtags: "#buvettetokyo, #walker33, #ml850, #stussyxnike"
   - username: "soi_portrait"
     fullname: >-
       soi
     location: "Japan"
-    followers: 5880
-    engagement: 587
-    commentsToLikes: 0.018700
+    followers: 5834
+    engagement: 590
+    commentsToLikes: 0.020783
     id: ck0w6xe99apq40i190a01ao0f
     verified: false
-    hashtags: "#team, #screen, #art, #color"
+    hashtags: "#stayhome"
   - username: "adubaby_519"
     fullname: >-
-      大口あづ記 Azuki Oguchi
+      大口あづ記 Azuki Oguchi
     location: "Japan"
-    followers: 5434
-    engagement: 841
-    commentsToLikes: 0.024795
+    followers: 5444
+    engagement: 935
+    commentsToLikes: 0.022055
     id: ck6tkkwol4wpk0j71ea5wytvi
     verified: false
-    hashtags: "#iphone, #silver, #chanel, #portrait"
+    hashtags: "#mufirst, #silver, #japanesefashion, #yukata"
   - username: "kana_kuraki"
     fullname: >-
       倉木香奈(kana kuraki)
     location: "Japan"
-    followers: 8040
-    engagement: 512
-    commentsToLikes: 0.010669
+    followers: 8009
+    engagement: 455
+    commentsToLikes: 0.013496
     id: ck5hnbjnvni700i11m6dyz3c8
     verified: false
-    hashtags: "#cinema, #kf, #pics, #portraits"
+    hashtags: "#spring, #green, #lace, #bottonsonyeo"
 ---

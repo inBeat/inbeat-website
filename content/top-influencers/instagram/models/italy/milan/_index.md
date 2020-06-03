@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Milan In 2020
 description: >-
-  Find top models Instagram influencers in Milan in 2020. Most popular hashtags: #photography #fashion #model #beauty.
+  Find top models Instagram influencers in Milan in 2020. Most popular hashtags: #iorestoacasa #milano #summer #orange.
 platform: Instagram
 profiles:
+  - username: "chiara.busetti"
+    fullname: >-
+      Photo  Model  Lifestyle
+    location: "Italy"
+    followers: 21257
+    engagement: 586
+    commentsToLikes: 0.147241
+    id: ck6uenubys1qq0j71r8otrodg
+    verified: false
+    hashtags: "#quarantenamood, #pillowchallenge"
   - username: "randy_gowon"
     fullname: >-
-      randy_gowon 🇰🇪🇮🇹
+      randy_gowon 🇰🇪
     location: "Italy"
-    followers: 6753
-    engagement: 1418
-    commentsToLikes: 0.022135
+    followers: 6791
+    engagement: 1476
+    commentsToLikes: 0.023099
     id: ck5qcg30jqe1d0i110avnebig
     verified: false
     hashtags: "#endofhotboysummer"
   - username: "samara.wierer"
     fullname: >-
-      Samara🦋
+      Samara🍉
     location: "Italy"
-    followers: 19013
-    engagement: 312
-    commentsToLikes: 0.012141
+    followers: 18756
+    engagement: 364
+    commentsToLikes: 0.012072
     id: ck6trw9ct1gib0j713oncv91w
     verified: false
-    hashtags: "#clean, #day, #quoteoftheday, #wonderland"
+    hashtags: "#bright, #sweaterweather, #day13, #bags"
   - username: "giuseppegiarratana"
     fullname: >-
       Giuseppe Giarratana
     location: "Italy"
-    followers: 5612
-    engagement: 610
-    commentsToLikes: 0.133987
+    followers: 5616
+    engagement: 675
+    commentsToLikes: 0.155838
     id: ck14i1myud7vg0i195yep0qmb
     verified: false
-    hashtags: "#stunning, #fashionpost, #fashionphotography, #dgfamily"
+    hashtags: "#feminine, #curvy, #feminism, #lingerie"
   - username: "marsetromb"
     fullname: >-
       Marcello Trombin
     location: "Italy"
-    followers: 10074
-    engagement: 837
-    commentsToLikes: 0.064988
+    followers: 10792
+    engagement: 821
+    commentsToLikes: 0.061602
     id: ck5zvm93l4i190i14jshowa19
     verified: false
     hashtags: ""
-  - username: "franciseme"
+  - username: "pollyandpamy"
     fullname: >-
-      Francesca Semenza
+      Paola Pamela Ameyibor
     location: "Italy"
-    followers: 36040
-    engagement: 278
-    commentsToLikes: 0.058001
-    id: ck5hrjswsuzhu0i118xxe94y4
+    followers: 8520
+    engagement: 508
+    commentsToLikes: 0.050527
+    id: ck5hob0ezp93q0i11mnhjf23h
     verified: false
-    hashtags: "#blackandwhite, #photography, #tuscany, #shoot"
-  - username: "francescoanglanifp"
+    hashtags: "#pfw, #voicesofthefuture, #barrowofficial, #tossieslidechallenge"
+  - username: "davidemicciulla"
     fullname: >-
-      Francesco Anglani 🎞
+      Davide Micciulla
     location: "Italy"
-    followers: 49201
-    engagement: 443
-    commentsToLikes: 0.020269
-    id: ck6ug6mzc17yc0j7132tofo0a
+    followers: 45891
+    engagement: 136
+    commentsToLikes: 0.085281
+    id: ck0vync9x4uq00i19lnd5hw6h
     verified: false
-    hashtags: "#sportswear, #summer, #positano, #style"
-  - username: "alixia88"
-    fullname: >-
-      Alixia nel paese del web
-    location: "Italy"
-    followers: 38192
-    engagement: 333
-    commentsToLikes: 0.010900
-    id: ck5qed2nszw500i11rluo5wt3
-    verified: false
-    hashtags: "#amuri, #capelli, #sponsored, #taranta"
+    hashtags: "#cutevboy, #insta, #menstyles, #levis"
   - username: "stefania_danese"
     fullname: >-
       Stefania Danese
     location: "Italy"
-    followers: 32322
-    engagement: 743
-    commentsToLikes: 0.016076
+    followers: 32522
+    engagement: 776
+    commentsToLikes: 0.016408
     id: ck13ahzg7qhhn0i19anrx9j3e
     verified: false
-    hashtags: "#travelgirl, #igvsreallife, #womenfashionpower, #summergirl"
-  - username: "voom.mag"
+    hashtags: "#fashionmodels, #censored, #fashionmen, #mfw2019"
+  - username: "giuliacastronovi"
     fullname: >-
-      VOOM Mag
+      GIULIA STELLA CASTRONOVI
     location: "Italy"
-    followers: 25200
-    engagement: 51
-    commentsToLikes: 0.025587
-    id: ck138lcesgsns0i197xq2d689
+    followers: 30027
+    engagement: 438
+    commentsToLikes: 0.065525
+    id: ck5chokjyr6550i11e740ehei
     verified: false
-    hashtags: "#riccardodelfanti, #issue05, #photography, #trashy"
-  - username: "jessicadalmas"
+    hashtags: "#marcopostonline, #giveawayitalia, #giveawaycontest, #mfw"
+  - username: "oksana_real"
     fullname: >-
-      Jessica Dal Mas
+      
     location: "Italy"
-    followers: 9201
-    engagement: 862
-    commentsToLikes: 0.083400
-    id: ck5bxh0xqnpk10i11th03bm3e
+    followers: 265509
+    engagement: 358
+    commentsToLikes: 0.203896
+    id: ck13bdz4suyuj0i19kqc8oq1k
     verified: false
-    hashtags: "#dancer, #playboy, #model, #saturday"
+    hashtags: "#oksana"
 ---

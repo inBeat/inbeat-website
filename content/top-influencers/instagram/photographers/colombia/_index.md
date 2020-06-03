@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Colombia In 2020
 description: >-
-  Find top photographers Instagram influencers in Colombia in 2020. Most popular hashtags: #portrait #colombia #portraits #portraitmood.
+  Find top photographers Instagram influencers in Colombia in 2020. Most popular hashtags: #selfportrait #girlpower #fashion #portraits.
 platform: Instagram
 profiles:
+  - username: "alejosses"
+    fullname: >-
+      Alejandro Osses
+    location: "Colombia"
+    followers: 5644
+    engagement: 507
+    commentsToLikes: 0.059921
+    id: ckaortrvpopqp0i787n3dcqch
+    verified: false
+    hashtags: "#comidacallejera, #haypatodos, #medellin, #cultura"
   - username: "davidvisuals_ph"
     fullname: >-
       David Pinilla
     location: "Colombia"
-    followers: 33709
-    engagement: 979
-    commentsToLikes: 0.037038
+    followers: 37964
+    engagement: 847
+    commentsToLikes: 0.111113
     id: ck5hmy57bmuih0i11uont2ws2
     verified: false
-    hashtags: "#igpodium, #sonyimages, #earth, #collectivetrend"
-  - username: "giancarlobolivarbarraza"
+    hashtags: "#sonyimages, #igpodium, #ftwotw, #ftmedd"
+  - username: "theshirtlesstraveller"
     fullname: >-
-      Giancarlo Bolívar
+      I Live For Aventura..
     location: "Colombia"
-    followers: 13890
-    engagement: 462
-    commentsToLikes: 0.083641
-    id: ck602cxcuh5e80i14135wvtjl
+    followers: 19622
+    engagement: 403
+    commentsToLikes: 0.127717
+    id: ckap28r9gxvgv0i78p3ef88vx
     verified: false
-    hashtags: "#vivabarranquilla, #generacionre, #gianacarlobolivar, #vivalagozadera"
+    hashtags: "#theshirtlesstraveller"
+  - username: "juanangope"
+    fullname: >-
+      Juan Gonzalez ✨
+    location: "Colombia"
+    followers: 87273
+    engagement: 475
+    commentsToLikes: 0.023186
+    id: ck5zknehzjsqx0i145dlxtk82
+    verified: false
+    hashtags: "#beautyboy, #1000daysofmakeup, #passthebrush, #makeup"
   - username: "svaleroph"
     fullname: >-
       Sebastián Valero 📸
     location: "Colombia"
-    followers: 108850
-    engagement: 424
-    commentsToLikes: 0.018216
+    followers: 105689
+    engagement: 413
+    commentsToLikes: 0.017805
     id: ck0w0jepsehxe0i19k4z4vl9c
     verified: false
     hashtags: ""
-  - username: "andresocampomp"
+  - username: "frankiejazz"
     fullname: >-
-      Andres Ocampo Photographer™
+      Jose Vergara
     location: "Colombia"
-    followers: 16574
-    engagement: 205
-    commentsToLikes: 0.063583
-    id: ck8syjnb6l0lz0j785hle5jsk
-    verified: false
-    hashtags: "#chrismas, #babygirl, #yeyophotos, #nature"
-  - username: "gatoriveroph"
+    followers: 32740
+    engagement: 412
+    commentsToLikes: 0.027001
+    id: ck14hyohicsvi0i19wyxd21br
+    verified: true
+    hashtags: "#tourlife, #canoneosr, #runaway, #newpics"
+  - username: "oliverolivellam"
     fullname: >-
-      G A T O  R I V E R O
+      OLIVER OLIVELLA
     location: "Colombia"
-    followers: 55295
-    engagement: 233
-    commentsToLikes: 0.021461
-    id: ck0u2grmpzyc40i19mnlykl42
+    followers: 24276
+    engagement: 303
+    commentsToLikes: 0.110731
+    id: ck5q2menfgqbz0i11m68o65hk
     verified: false
-    hashtags: "#lovers, #coronavirus, #cuarentena, #madrid"
+    hashtags: "#natural, #fashionphotography, #vintagestyle, #fashionstyle"
   - username: "ssanint"
     fullname: >-
       Sebastian Sanint
     location: "Colombia"
-    followers: 18682
-    engagement: 251
-    commentsToLikes: 0.040218
+    followers: 18747
+    engagement: 248
+    commentsToLikes: 0.041837
     id: ck6tk6chx433d0j71t0dx5roo
     verified: false
-    hashtags: "#ssanintfotografia, #redessociales, #pereira, #ssanint"
-  - username: "individuaph"
-    fullname: >-
-      Daniela Castañeda
-    location: "Colombia"
-    followers: 24606
-    engagement: 283
-    commentsToLikes: 0.024993
-    id: ck5zptsi8tbx90i143q5qvzyj
-    verified: false
-    hashtags: "#quebuenaslastengo, #quedateencasa"
-  - username: "perazna"
-    fullname: >-
-      Melissa Cartagena
-    location: "Colombia"
-    followers: 504082
-    engagement: 547
-    commentsToLikes: 0.002764
-    id: ck0w0d96ydlt30i190nd3gs3c
-    verified: false
-    hashtags: "#analogphotography, #perazna"
-  - username: "lucius.ph"
-    fullname: >-
-      ・ＬＵＣＩＵＳ • ＰＨ・
-    location: "Colombia"
-    followers: 2176
-    engagement: 1502
-    commentsToLikes: 0.049186
-    id: ck5zknppsjtci0i149c4cckq6
-    verified: false
-    hashtags: "#lifestyle, #thinkverylittle, #colombia, #medellin"
+    hashtags: "#acrylicpack, #laaceituna, #coupletravel, #bmwmotorsport"
   - username: "paulathomasph"
     fullname: >-
       Paula Thomas
     location: "Colombia"
-    followers: 6652
-    engagement: 577
-    commentsToLikes: 0.034447
+    followers: 7880
+    engagement: 580
+    commentsToLikes: 0.031459
     id: ck8szeh62o3gg0j78y946ce4n
     verified: false
-    hashtags: "#loveislove, #naturallight, #bcapital2018, #lgbt"
+    hashtags: "#fotografia, #girlpower, #duodeopuestos, #collageart"
+  - username: "lucius.ph"
+    fullname: >-
+      ・ＬＵＣＩＵＳ • ＰＨ・
+    location: "Colombia"
+    followers: 2092
+    engagement: 1574
+    commentsToLikes: 0.048279
+    id: ck5zknppsjtci0i149c4cckq6
+    verified: false
+    hashtags: "#35mm, #afternoon, #darkqueen"
 ---

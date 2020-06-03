@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Philadelphia In 2020
 description: >-
-  Find top fitness Instagram influencers in Philadelphia in 2020. Most popular hashtags: #philly #fitness #philadelphia #workout.
+  Find top fitness Instagram influencers in Philadelphia in 2020. Most popular hashtags: #fitness #stayhome #philadelphia #baltimore.
 platform: Instagram
 profiles:
-  - username: "benjiaus"
+  - username: "ahmenah"
     fullname: >-
-      BENJI CONDIE
+      Ahmenah Naché
     location: "United States"
-    followers: 80580
-    engagement: 550
-    commentsToLikes: 0.013355
-    id: ck600jxzwdqot0i14r8pcaybv
+    followers: 5995
+    engagement: 1875
+    commentsToLikes: 0.053479
+    id: ck0vxsq640j4i0i19xhpr7y7o
     verified: false
-    hashtags: "#newyork, #hometown, #nature, #lincolnmemorial"
+    hashtags: "#swipe"
   - username: "jordynhnasko"
     fullname: >-
       Jordyn Hnasko
     location: "United States"
-    followers: 11639
-    engagement: 333
-    commentsToLikes: 0.048327
+    followers: 11724
+    engagement: 443
+    commentsToLikes: 0.055772
     id: ck5c989o6aymc0i1185gdw9rg
     verified: false
-    hashtags: "#summer, #jordynhnasko, #fitness, #confidence"
-  - username: "iamviviangreen"
+    hashtags: "#weekendplans, #blogpost, #fridayvibes, #pajamasallday"
+  - username: "doctor_reef"
     fullname: >-
-      iamviviangreen
+      Dr Sharif Tabbah DPT, CSCS
     location: "United States"
-    followers: 63580
-    engagement: 215
-    commentsToLikes: 0.058248
-    id: ck5zqhxh0umtz0i14knobwjtx
-    verified: true
-    hashtags: "#90svibes, #blackhistorymonth, #sing, #lightup"
-  - username: "meowdyxyall"
-    fullname: >-
-      Allie Kat
-    location: "United States"
-    followers: 12604
-    engagement: 1229
-    commentsToLikes: 0.021472
-    id: ck5cdgvtaj5px0i1197rkil4i
+    followers: 84425
+    engagement: 227
+    commentsToLikes: 0.020088
+    id: ck5hfhdj8xhei0i11htbejkg9
     verified: false
-    hashtags: "#holidays, #thecollective, #hardwayltd, #whiteclaw"
+    hashtags: "#nfl, #drreef, #homeexercise, #relentless"
   - username: "coffeestainedlace"
     fullname: >-
       Sydney Paige
     location: "United States"
-    followers: 7464
-    engagement: 597
-    commentsToLikes: 0.079871
+    followers: 7496
+    engagement: 659
+    commentsToLikes: 0.077143
     id: ck6uefk8yqmaa0j717icpgteo
     verified: false
-    hashtags: "#blazerstyle, #bridalinspo, #littleblackdress, #boybag"
-  - username: "the_adam_joseph6"
+    hashtags: "#denim, #martini, #discovernepa, #theknot"
+  - username: "xxgreenlighthousexx"
     fullname: >-
-      Adam Joseph
+      Ian Jansen
     location: "United States"
-    followers: 57880
-    engagement: 511
-    commentsToLikes: 0.036783
-    id: ck0udep0ej0aa0i19rfgw74re
-    verified: true
-    hashtags: "#hair, #siblings, #batman, #spirit"
+    followers: 52059
+    engagement: 553
+    commentsToLikes: 0.008994
+    id: ck8sxg6p6h9yg0j78voc2wsd7
+    verified: false
+    hashtags: "#fitgirl, #kendrick, #portraitdrawing, #cosplay"
   - username: "broadfit"
     fullname: >-
       Brandon Adam
     location: "United States"
-    followers: 120121
-    engagement: 85
-    commentsToLikes: 0.091249
+    followers: 119004
+    engagement: 69
+    commentsToLikes: 0.080690
     id: ck55ky91g0cvp0i11yxnmhrgy
     verified: false
-    hashtags: "#thankful, #tattoo, #madeinamerica, #video"
-  - username: "tonyandersontv"
+    hashtags: "#mindset, #picoftheday, #crusing, #deadlift"
+  - username: "doctorkeyes"
     fullname: >-
-      Tony Anderson
+      ★ Michael Keyes, M.D. ★
     location: "United States"
-    followers: 17871
-    engagement: 344
-    commentsToLikes: 0.166137
-    id: ck6tt2dab879e0j71v0pgl9vw
+    followers: 52433
+    engagement: 1528
+    commentsToLikes: 0.075456
+    id: ck6uh2pe36mz60j712p973zyq
     verified: false
-    hashtags: "#superbowl, #mahomes, #jayz, #mamba"
-  - username: "siponwhat"
+    hashtags: "#speaknow, #stayhome, #taylorswiftedits, #juvedermlips"
+  - username: "talkischeapxo"
     fullname: >-
-      𝐸𝓁𝓁𝑒 🍻 A Beer Loving Latina
+      Kelly Thomas
     location: "United States"
-    followers: 6845
-    engagement: 544
-    commentsToLikes: 0.054308
-    id: ck14kgpz6pfsh0i19qzy9dl2c
+    followers: 4814
+    engagement: 878
+    commentsToLikes: 0.203195
+    id: ck13cyxz12tut0i193fqdrtoi
     verified: false
-    hashtags: "#phillydrinks, #vermont, #vermontdrinks, #beautyroutine"
-  - username: "kinyaclaiborne"
+    hashtags: "#myforevervalentine, #cancerlandxanaono, #curestitch, #fearless"
+  - username: "meowdyxyall"
     fullname: >-
-      STYLE & SOCIETY Magazine
+      Allie Kat
     location: "United States"
-    followers: 51711
-    engagement: 176
-    commentsToLikes: 0.189650
-    id: ck0ubm5pjevw20i19mtdav4nr
+    followers: 13006
+    engagement: 1235
+    commentsToLikes: 0.019357
+    id: ck5cdgvtaj5px0i1197rkil4i
     verified: false
-    hashtags: "#fieldseats, #sneekpeek, #beverlyhills, #ss20"
+    hashtags: "#philly, #goldenhour, #ifhy, #sheddingskin"
+  - username: "donnellturner"
+    fullname: >-
+      Donnell Turner (ONLY PAGE!!!😳)
+    location: "United States"
+    followers: 43403
+    engagement: 648
+    commentsToLikes: 0.064048
+    id: ck5q7j7om1u0y0i113cm9gc5l
+    verified: true
+    hashtags: "#igers, #queens, #stayhome, #grattitude"
 ---

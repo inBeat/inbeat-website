@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Italy In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Italy in 2020. Most popular hashtags: #tattooartist #tattooed #inked #italiantattooartist.
+  Find top tattoo-artists Instagram influencers in Italy in 2020. Most popular hashtags: #tattoo #farfallatradizionale #alwaysandforever #heartneotraditional.
 platform: Instagram
 profiles:
   - username: "fabrizioaldobelfiore"
     fullname: >-
       Fabrizio
     location: "Italy"
-    followers: 304049
-    engagement: 156
-    commentsToLikes: 0.047471
+    followers: 298320
+    engagement: 184
+    commentsToLikes: 0.055520
     id: ck13bszhlx0sl0i19imuyatqb
     verified: false
-    hashtags: "#monday, #stayathome, #beitalian, #staysafe"
+    hashtags: "#tommyhilfiger, #tommyjeans, #hilfigerdenim, #affascinante"
   - username: "biancavitalex"
     fullname: >-
       Bianca Vitale
     location: "Italy"
-    followers: 25108
-    engagement: 828
-    commentsToLikes: 0.013949
+    followers: 26164
+    engagement: 866
+    commentsToLikes: 0.015997
     id: ck0w5v3q65klu0i19j64j711u
     verified: false
     hashtags: ""
+  - username: "mersia_fiore"
+    fullname: >-
+      𝐌𝐞𝐫𝐬𝐢𝐚
+    location: "Italy"
+    followers: 11499
+    engagement: 1394
+    commentsToLikes: 0.013031
+    id: ck9wgrzlyuq9r0j78qzx4ff8n
+    verified: false
+    hashtags: "#raggidisole"
   - username: "valentinorusso_90"
     fullname: >-
       📸Valentino russo📸
     location: "Italy"
-    followers: 38816
-    engagement: 553
-    commentsToLikes: 0.019131
+    followers: 38108
+    engagement: 557
+    commentsToLikes: 0.018491
     id: ck5q940bi9a3y0i11z7egawkb
     verified: false
     hashtags: "#repost, #glccoup, #mercedes"
+  - username: "_zvejka"
+    fullname: >-
+      Ells Villnerova
+    location: "Italy"
+    followers: 6626
+    engagement: 1642
+    commentsToLikes: 0.006677
+    id: ck0tutsp78mpu0i19tt83o0tz
+    verified: false
+    hashtags: "#weareallstars, #createathome, #converse"
   - username: "maya_tattooer"
     fullname: >-
       Maya_tattooer
     location: "Italy"
-    followers: 19838
-    engagement: 342
-    commentsToLikes: 0.040521
+    followers: 19551
+    engagement: 350
+    commentsToLikes: 0.040294
     id: ck6ude89skl7l0j71lu90rc8l
     verified: false
-    hashtags: "#milano, #sailorpinup, #coverupcolortattoo, #17week"
+    hashtags: "#coverupcolor, #milanocity, #farfallatradizionale, #onlysolidtattoo"
+  - username: "julioloureiro_art"
+    fullname: >-
+      🔸JÚLIO LOUREIRO ART🔸
+    location: "Italy"
+    followers: 160262
+    engagement: 463
+    commentsToLikes: 0.009152
+    id: ck9ha5nnxb96m0j78u41bplhk
+    verified: false
+    hashtags: "#turmadochaves, #anjo, #blackandgrey, #chespirito"
   - username: "dmitriy.tkach"
     fullname: >-
       Dmitriy Tkach
     location: "Italy"
-    followers: 169837
-    engagement: 542
-    commentsToLikes: 0.006707
+    followers: 169779
+    engagement: 546
+    commentsToLikes: 0.006822
     id: ck6tk4wps40h20j71b80wbwe6
     verified: false
-    hashtags: "#blxckink, #linework, #tattooartist, #dark"
-  - username: "lady.blue.official"
-    fullname: >-
-      Lady Blue
-    location: "Italy"
-    followers: 12376
-    engagement: 895
-    commentsToLikes: 0.029971
-    id: ck5hj84cag6iv0i114ca04hom
-    verified: false
-    hashtags: "#tattooartists, #partymusic, #tattoosofinstagram, #flash"
-  - username: "_pink_sg"
-    fullname: >-
-      Giada
-    location: "Italy"
-    followers: 88504
-    engagement: 377
-    commentsToLikes: 0.020488
-    id: ck5hd5c47lkph0i11vez9jk9b
-    verified: false
-    hashtags: "#selfietime, #anonymclothing, #tattoomodel, #pinklife"
+    hashtags: "#dragon, #duomo, #dragontattoo, #spain"
   - username: "gracesmorgan"
     fullname: >-
       𝐆𝐑𝐀𝐂𝐄 𝐌𝐎𝐑𝐆𝐀𝐍
     location: "Italy"
-    followers: 71151
-    engagement: 1320
-    commentsToLikes: 0.008072
+    followers: 72088
+    engagement: 1154
+    commentsToLikes: 0.009879
     id: ck5zzrcypca8k0i141xr4bo19
     verified: false
     hashtags: "#halloweenmakeup, #halloween, #billieeilish, #billieeilishmakeup"
-  - username: "vlad_ov_thelema"
+  - username: "_pink_sg"
     fullname: >-
-      Gregorio Verdoia
+      Giada
     location: "Italy"
-    followers: 11612
-    engagement: 838
-    commentsToLikes: 0.026128
-    id: ck8syt4ptlwqr0j78hmquyst3
+    followers: 90387
+    engagement: 357
+    commentsToLikes: 0.020792
+    id: ck5hd5c47lkph0i11vez9jk9b
     verified: false
-    hashtags: "#metal, #shibari, #traditionalart, #contemporaryartist"
-  - username: "andrea_kroki"
-    fullname: >-
-      Andrea Kroki
-    location: "Italy"
-    followers: 8518
-    engagement: 571
-    commentsToLikes: 0.021634
-    id: ck5qeaoi9zj9k0i11m5nt70ii
-    verified: false
-    hashtags: "#tattrx, #inksubmission, #blowice, #digitalillustration"
+    hashtags: "#sunset, #altgirl, #launischberlin, #preview"
 ---

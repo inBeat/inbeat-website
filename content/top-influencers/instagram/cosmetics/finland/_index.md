@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Finland In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Finland in 2020. Most popular hashtags: #anastasiabeverlyhills #makeupartist #ootd #hudabeauty.
+  Find top cosmetics Instagram influencers in Finland in 2020. Most popular hashtags: #summer #cosmetics #instamakeup #skincare.
 platform: Instagram
 profiles:
   - username: "eeviteittinen"
     fullname: >-
       Eevi Teittinen
     location: "Finland"
-    followers: 116877
-    engagement: 240
-    commentsToLikes: 0.008978
+    followers: 116969
+    engagement: 266
+    commentsToLikes: 0.009180
     id: ck6ucs71wh8wh0j71tnymkalk
     verified: true
-    hashtags: "#deco, #samsunggalaxy, #whatreallymatters, #mornings"
+    hashtags: "#stayhome, #homeoffice, #natural, #thisisme"
+  - username: "bettyfvck"
+    fullname: >-
+      Betty Fvck
+    location: "Finland"
+    followers: 26928
+    engagement: 497
+    commentsToLikes: 0.086503
+    id: ck0ub8diwdyw30i19vnqv9h62
+    verified: false
+    hashtags: "#vougemagazine, #queenofdrags, #aphrodite, #dominatrix"
   - username: "katherinekuzin"
+    fullname: >-
+      Charlie 🌑🐁
+    location: "Finland"
+    followers: 21561
+    engagement: 438
+    commentsToLikes: 0.014800
+    id: ck0ubm4bhevok0i19bovpc199
+    verified: false
+    hashtags: "#trend, #makeuplooks, #blackmetalgirl, #makeupaddict"
+  - username: "finniche_scents"
     fullname: >-
       
     location: "Finland"
-    followers: 21693
-    engagement: 437
-    commentsToLikes: 0.014891
-    id: ck0ubm4bhevok0i19bovpc199
+    followers: 7634
+    engagement: 1154
+    commentsToLikes: 0.138206
+    id: ck5c22ojwwfjh0i11h5xre3cz
     verified: false
-    hashtags: "#makeuplife, #cosmetics, #blackmetal, #25mmlashes"
-  - username: "tinatevosyan_beautycenter"
+    hashtags: "#tobaccooud, #sweet, #royalmayfair, #2man"
+  - username: "noorasusann"
     fullname: >-
-      Tina Tevosyan Beauty Center
+      Noora Susanna 🌸
     location: "Finland"
-    followers: 85247
-    engagement: 71
-    commentsToLikes: 0.003407
-    id: ck6ueah20prxl0j71yxjzum2c
+    followers: 2482
+    engagement: 2117
+    commentsToLikes: 0.045437
+    id: ck5bzewc5r08a0i117gsj25py
     verified: false
-    hashtags: "#makeuparmine, #doseofcolors, #ponytailhairstyles, #hairdresser"
-  - username: "sallasalmela"
+    hashtags: "#memories, #skincarenatural, #traveldiary, #europetravel"
+  - username: "blvckmurose"
     fullname: >-
-      𝓢𝓪𝓵𝓵𝓪 🇫🇮
+      Aundrey
     location: "Finland"
-    followers: 9475
-    engagement: 1364
-    commentsToLikes: 0.109950
-    id: ck5c593272zzl0i111sdkcwz1
+    followers: 6057
+    engagement: 586
+    commentsToLikes: 0.024535
+    id: ck5c5ry7h41jg0i11xcvxf7jb
     verified: false
-    hashtags: "#matkustus, #woltattu, #travelfever, #brunchtime"
+    hashtags: "#hair, #picoftheday, #hairstyles, #instadaily"
   - username: "cesar_leonn"
     fullname: >-
       Cesar Leon
     location: "Finland"
-    followers: 6690
-    engagement: 2324
-    commentsToLikes: 0.024607
+    followers: 18655
+    engagement: 1734
+    commentsToLikes: 0.026059
     id: ck8t9da2wno440j78pjkt1wdb
     verified: false
-    hashtags: "#abh, #makeupartistworldwide, #eyelooks, #makeupartist"
-  - username: "siljain"
-    fullname: >-
-      Silja
-    location: "Finland"
-    followers: 2678
-    engagement: 1173
-    commentsToLikes: 0.398153
-    id: ck5zvzknk575a0i14x2u5p5nu
-    verified: false
-    hashtags: "#family, #mirrorselfie, #thoughtoftheday, #fatherandson"
+    hashtags: "#gold, #tiktokmakeup, #love, #makeuponpoint"
   - username: "sosssi"
     fullname: >-
       𝕾𝖔𝖓𝖏𝖆 𝕳𝖞𝖙𝖙𝖎𝖓𝖊𝖓 (𝕺𝖋𝖋𝖎𝖈𝖎𝖆𝖑)
     location: "Finland"
-    followers: 67626
-    engagement: 748
-    commentsToLikes: 0.008746
+    followers: 67215
+    engagement: 775
+    commentsToLikes: 0.011221
     id: ck5hfmpr1y7pp0i11qb9j3id9
     verified: false
-    hashtags: "#inkedgirls, #kes, #makeupinspo, #ad"
-  - username: "annigriinari"
+    hashtags: "#happiness, #walkingaround, #forest, #babysteps"
+  - username: "stella.s.makeup"
     fullname: >-
-      ANNI ✨ kauneus & kosmetiikka
+      Stella Sironen
     location: "Finland"
-    followers: 5513
-    engagement: 492
-    commentsToLikes: 0.259864
-    id: ck5c58xp22zmh0i11m3thhlre
+    followers: 66985
+    engagement: 468
+    commentsToLikes: 0.010506
+    id: ck5zzl68ibxz10i14s4q4rqjv
     verified: false
-    hashtags: "#letsflattenthecurve, #kodassa, #sunnuntaifiilis, #stayhome"
-  - username: "saratarnanen"
-    fullname: >-
-      Sara Tarnanen
-    location: "Finland"
-    followers: 13587
-    engagement: 608
-    commentsToLikes: 0.048903
-    id: ck5bwdrmjlhx40i11991bkggp
-    verified: false
-    hashtags: "#frenchie, #meikkaaja, #momlife, #ombrelips"
+    hashtags: "#nyxcosmeticsnordics, #sweedlashes, #glistencosmetics, #lindahallbergcosmetics"
   - username: "roseshock"
     fullname: >-
       Rose Shock
     location: "Finland"
-    followers: 188496
-    engagement: 392
-    commentsToLikes: 0.025028
+    followers: 186774
+    engagement: 317
+    commentsToLikes: 0.023538
     id: ck134ai5wvhrc0i190hs455ld
     verified: false
-    hashtags: "#popbeauty, #sugarpill, #uniwigs, #roseshock"
+    hashtags: "#nonbinarypride, #crashteamracing, #huulient, #virgo"
 ---

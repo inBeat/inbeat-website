@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Toronto In 2020
 description: >-
-  Find top fashion Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #torontofashion #fashion #fashionblogger.
+  Find top fashion Instagram influencers in Toronto in 2020. Most popular hashtags: #fashion #fashiontoronto #toronto #photography.
 platform: Instagram
 profiles:
-  - username: "karolinalefay"
+  - username: "sianeastmentwilliams"
     fullname: >-
-      𝓣𝓱𝓮 𝓡𝓮𝓭 𝓢𝓱𝓲𝓻𝓽 𝓖𝓲𝓻𝓵
+      Sian Eastment-Williams
     location: "Canada"
-    followers: 38950
-    engagement: 322
-    commentsToLikes: 0.017892
+    followers: 17854
+    engagement: 316
+    commentsToLikes: 0.128179
+    id: ck5c61fcx4j2i0i11ythuy6sn
+    verified: false
+    hashtags: "#gifted, #dalgonacoffee"
+  - username: "yami.navi"
+    fullname: >-
+      Yami Navi
+    location: "Canada"
+    followers: 8177
+    engagement: 1654
+    commentsToLikes: 0.016176
+    id: ck9ha5iezb8hm0j782qbihl2m
+    verified: false
+    hashtags: "#bandai, #vegeta, #girlgamer, #yugiohsevens"
+  - username: "makeupbyliraz"
+    fullname: >-
+      Liraz Karen Jacoby | MUA
+    location: "Canada"
+    followers: 101677
+    engagement: 467
+    commentsToLikes: 0.277754
+    id: ck8sx6vm8gcr60j78tm8otbs4
+    verified: false
+    hashtags: "#torontobloggers, #finishingpowder, #fashionstyle, #hiddencrownhair"
+  - username: "claumattos"
+    fullname: >-
+      Clau Mattos
+    location: "Canada"
+    followers: 36746
+    engagement: 217
+    commentsToLikes: 0.031483
+    id: ck13c4c57yk0h0i19jhq0yxl5
+    verified: false
+    hashtags: "#picoftheday, #quarentinelife, #complimentary, #instafashion"
+  - username: "sistersisterbean"
+    fullname: >-
+      Modeling/Creative Photography
+    location: "Canada"
+    followers: 3208
+    engagement: 1249
+    commentsToLikes: 0.493541
+    id: ck8tdecba30qw0j780wajk3lb
+    verified: false
+    hashtags: "#stylishkids, #mothersdaylove, #instagoodness, #covergirl"
+  - username: "splendidmalarkey"
+    fullname: >-
+      Karolina LeFay
+    location: "Canada"
+    followers: 38474
+    engagement: 331
+    commentsToLikes: 0.017415
     id: ck15pljl1yhfs0i19kbx2f292
     verified: false
-    hashtags: "#holts, #holtrenfrew, #book, #streetwear"
-  - username: "reggie_ho"
+    hashtags: "#guccimemoire, #stuartweitzman, #fashion, #yorkdalestyle"
+  - username: "alexacerio"
     fullname: >-
-      👽 Rejh Ji-Ho 👽
+      leXX
     location: "Canada"
-    followers: 2229
-    engagement: 1439
-    commentsToLikes: 0.055883
-    id: ck5bwiujblscs0i116f3nphrp
+    followers: 3348
+    engagement: 2571
+    commentsToLikes: 0.041125
+    id: ck0vx0bj4whoe0i19su697p3b
     verified: false
-    hashtags: "#vintage, #milanfashion, #androgynousfashion, #deadstock"
-  - username: "pjamnicky"
-    fullname: >-
-      PAULJPHOTOS.COM
-    location: "Canada"
-    followers: 18343
-    engagement: 216
-    commentsToLikes: 0.077284
-    id: ck0tt2njl0w7h0i19ytbkh31r
-    verified: false
-    hashtags: "#dannymiamiunderwear, #mexico, #physique, #swimsuit"
-  - username: "dorian.who"
-    fullname: >-
-      Dorian Who
-    location: "Canada"
-    followers: 36543
-    engagement: 202
-    commentsToLikes: 0.029709
-    id: ck6tn7v1v9b390j71e2lqqroc
-    verified: false
-    hashtags: "#canadasfashion, #maskstyle, #stayhealthy, #covid19canada"
-  - username: "sedgvvick"
-    fullname: >-
-      Δ$†ЯiD (𝙰𝚂𝚃𝚁𝙸𝙳) 💋
-    location: "Canada"
-    followers: 25884
-    engagement: 849
-    commentsToLikes: 0.035364
-    id: ck14lb37jtrcn0i19thsimatp
-    verified: false
-    hashtags: "#torontofashion, #andywarhol, #royalontariomuseum, #influencer"
+    hashtags: "#lipliner, #elonnovac, #sunexposure, #italianstyle"
   - username: "olivier_nadrin"
     fullname: >-
       Olivier Nadrin 🇧🇪
     location: "Canada"
-    followers: 2228
-    engagement: 1453
-    commentsToLikes: 0.122490
+    followers: 2263
+    engagement: 1426
+    commentsToLikes: 0.110406
     id: ck5bvgjkfjlr40i11qxvzczxd
     verified: false
-    hashtags: "#pmphotoassignments, #exploremore, #watchmen, #fitnessmodels"
-  - username: "dawnealiza"
+    hashtags: "#citykillers, #folknature, #discoverearth, #exploremore"
+  - username: "atefehofficialpage"
     fullname: >-
-      DAWNE ALIZA
+      آتفــــــه🇨🇦
     location: "Canada"
-    followers: 25922
-    engagement: 173
-    commentsToLikes: 0.171786
-    id: ck5zys41eafbs0i145nkbr4a6
+    followers: 182519
+    engagement: 297
+    commentsToLikes: 1.377069
+    id: ck9wpclii8p1b0j786iiuj052
     verified: false
-    hashtags: "#winterwhite, #regal, #extensions, #femmeluxe"
-  - username: "alicedlee"
+    hashtags: "#torontomodel, #canadianmodel, #bridalmodel, #modeling"
+  - username: "reggie_ho"
     fullname: >-
-      𝓐𝓵𝓲𝓬𝓮
+      👽 Rejh Ji-Ho 👽
     location: "Canada"
-    followers: 35557
-    engagement: 783
-    commentsToLikes: 0.106644
-    id: ck1364tzc4r480i19wyysbfic
+    followers: 2177
+    engagement: 1284
+    commentsToLikes: 0.054951
+    id: ck5bwiujblscs0i116f3nphrp
     verified: false
-    hashtags: "#birthdayturnedintoproposal, #birthdaydinner, #monamourflowers, #fashionnovaambassador"
-  - username: "somkele_i"
-    fullname: >-
-      Somkele Iyamah Idhalama
-    location: "Canada"
-    followers: 123912
-    engagement: 226
-    commentsToLikes: 0.011206
-    id: ck6uagf9n3f5x0j7162qgbyuj
-    verified: true
-    hashtags: "#theprismeffect, #gingerhoneytea, #art, #mostproductivedayoftheweek"
-  - username: "nethyj"
-    fullname: >-
-      Justin Abernethy
-    location: "Canada"
-    followers: 6643
-    engagement: 508
-    commentsToLikes: 0.148390
-    id: ck8sx293wfyxr0j78su3h0xzj
-    verified: false
-    hashtags: ""
+    hashtags: "#fashionarttoronto, #deadstock, #neon, #gameboy"
 ---

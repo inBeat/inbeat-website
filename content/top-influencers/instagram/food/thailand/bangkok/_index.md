@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Bangkok In 2020
 description: >-
-  Find top food Instagram influencers in Bangkok in 2020. Most popular hashtags: #bangkok #food #thaifood #thailand.
+  Find top food Instagram influencers in Bangkok in 2020. Most popular hashtags: #thailand #durian #coffeelover #feedfeed.
 platform: Instagram
 profiles:
   - username: "eatlike852"
     fullname: >-
       Eat Like 852
     location: "Thailand"
-    followers: 26188
-    engagement: 133
-    commentsToLikes: 0.043829
+    followers: 26239
+    engagement: 136
+    commentsToLikes: 0.043739
     id: ck0uescvcm2vr0i19jvf2le9l
     verified: false
-    hashtags: "#aboutlastnight"
-  - username: "iankittichai"
-    fullname: >-
-      Pongtawat Chalermkittichai
-    location: "Thailand"
-    followers: 211130
-    engagement: 88
-    commentsToLikes: 0.003481
-    id: ck0w3aqkbsfrf0i1993riqqo5
-    verified: false
-    hashtags: "#issaya, #travelling, #asias50best, #namsaahbottlingtrust"
+    hashtags: "#aboutlastnight, #savehkfnb"
   - username: "snapbeforeeat"
     fullname: >-
       SNAP BEFORE EAT
     location: "Thailand"
-    followers: 186659
-    engagement: 151
-    commentsToLikes: 0.004729
+    followers: 187566
+    engagement: 74
+    commentsToLikes: 0.005819
     id: ck6u78e8nk2fd0j71l3sh5sn4
     verified: false
-    hashtags: "#thaiairways, #snapbeforeeatsfavourite, #kamuihokkaidodining, #snapbeforeeatvideo"
+    hashtags: "#kabochasushi, #sripanwa, #babanest, #7evensuns"
+  - username: "allybunnyruth"
+    fullname: >-
+      AL RUTH
+    location: "Thailand"
+    followers: 74111
+    engagement: 55
+    commentsToLikes: 0.024054
+    id: ck6uemofkruas0j71xex3q7up
+    verified: false
+    hashtags: "#burrito, #breakfastinbed, #lavenderfields, #wolverine"
+  - username: "gingubpa"
+    fullname: >-
+      Eat Cook Travel With Pa💙(พา)
+    location: "Thailand"
+    followers: 84784
+    engagement: 82
+    commentsToLikes: 0.007687
+    id: ck9hc7ml5k49v0j78ssfubg4q
+    verified: false
+    hashtags: "#sukishixcalpislacto, #cakebox, #cookingathome, #greenfood"
   - username: "shem_arciel"
     fullname: >-
       Shem MD [🇮🇩]
     location: "Thailand"
-    followers: 77808
-    engagement: 169
-    commentsToLikes: 0.053101
+    followers: 82252
+    engagement: 149
+    commentsToLikes: 0.046074
     id: ck0w1lob8jynv0i19n8hwzo56
     verified: false
-    hashtags: "#baligasm, #wonderfulindonesia, #balitour, #balitravel"
+    hashtags: "#birthday, #bkkfood, #wisatabali, #balitour"
   - username: "janny.thitipan"
     fullname: >-
       𝓟𝓻𝓲𝓷𝓬𝓮𝓼𝓼 𝓙𝓪𝓷𝓷𝔂 🦋
     location: "Thailand"
-    followers: 16722
-    engagement: 376
-    commentsToLikes: 0.041983
+    followers: 21459
+    engagement: 379
+    commentsToLikes: 0.040038
     id: ck8taylk2tlwn0j78rrtc4u0e
     verified: false
-    hashtags: "#nicetime, #kolourinthepark2020, #sunrisebeachkohlipe, #princessjanny"
+    hashtags: "#lockdown, #trowback, #stayhome, #kolourinthepark"
   - username: "mymeatlessmeals"
     fullname: >-
       Vegan Food Tales by a Thai 🌱🇹🇭
     location: "Thailand"
-    followers: 88332
-    engagement: 240
-    commentsToLikes: 0.032354
+    followers: 86937
+    engagement: 246
+    commentsToLikes: 0.032383
     id: ck5hoog7npxh10i11n5zv2zpg
     verified: false
-    hashtags: "#plantbased, #vegancooking, #veganrecipes, #kimchi"
-  - username: "allan_around_the_world"
+    hashtags: "#glutenfree, #takeout, #veganism, #whatveganeats"
+  - username: "happynancyfranky"
     fullname: >-
-      Allan Haze
+      Nancy
     location: "Thailand"
-    followers: 2779
-    engagement: 913
-    commentsToLikes: 0.151183
-    id: ck5qc8fyupcgg0i11cf2thut7
+    followers: 56493
+    engagement: 275
+    commentsToLikes: 0.010049
+    id: ck14h490c8h2w0i19ze498dl2
     verified: false
-    hashtags: "#bahiadebanderas, #buddhism, #bangkokcityvibes, #exploremexico"
-  - username: "jack_l2y"
+    hashtags: "#underwaterworld, #nightonearth, #plants, #pinkbeach"
+  - username: "food_doghk"
     fullname: >-
-      Jack Kitti Suwanchoti
+      🔺食·常🔻
     location: "Thailand"
-    followers: 76169
-    engagement: 375
-    commentsToLikes: 0.012309
-    id: ck136ktme6zwe0i19aai35f0g
+    followers: 7794
+    engagement: 732
+    commentsToLikes: 0.036385
+    id: ckap44x315uwd0i78u3m5z98o
     verified: false
-    hashtags: "#sashimi, #starbucks, #film, #seafood"
-  - username: "dreamxxarisara"
+    hashtags: "#fooddog"
+  - username: "nua__thailand"
     fullname: >-
-      Dreammy love eating
+      Nua_Thailand
     location: "Thailand"
-    followers: 51373
-    engagement: 120
-    commentsToLikes: 0.044418
-    id: ck5pv3jv7fy9m0i11kkur80jc
+    followers: 22591
+    engagement: 451
+    commentsToLikes: 0.007461
+    id: ckapcp1bp4mmn0i78zt6om6kh
     verified: false
-    hashtags: "#cleaneatingthe, #delicious, #foodblogger, #ginmaiyud"
-  - username: "migrationology"
-    fullname: >-
-      Mark Wiens
-    location: "Thailand"
-    followers: 1115041
-    engagement: 250
-    commentsToLikes: 0.015060
-    id: ck0uesdtsm2zi0i196x7wfkv2
-    verified: true
-    hashtags: "#michelinguideth, #markwiens, #amazingthailand, #curry"
+    hashtags: "#isanfood, #foodstagram, #homecooking, #buzzfeedfood"
 ---

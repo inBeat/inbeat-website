@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Rome In 2020
 description: >-
-  Find top beauty Instagram influencers in Rome in 2020. Most popular hashtags: #roma #italia #italy #travel.
+  Find top beauty Instagram influencers in Rome in 2020. Most popular hashtags: #rome #beauty #iorestoacasa #love.
 platform: Instagram
 profiles:
-  - username: "fabianabritto_"
-    fullname: >-
-      Fabiana🇧🇷🇪🇸🇮🇹
-    location: "Italy"
-    followers: 156373
-    engagement: 237
-    commentsToLikes: 0.058546
-    id: ck6tlxlmh6tjz0j71xii04blr
-    verified: true
-    hashtags: "#pink, #allarmismoinutile, #coronav, #ninamoric"
-  - username: "chiarasogni"
-    fullname: >-
-      Chiara
-    location: "Italy"
-    followers: 2756
-    engagement: 2714
-    commentsToLikes: 0.089334
-    id: ck6tim0hr0z2h0j71qk3gfhz8
-    verified: false
-    hashtags: "#landscapes, #instafamous, #hairstyles, #colosseo"
   - username: "dianadelorenzi"
     fullname: >-
       DIANA DE LORENZI
     location: "Italy"
-    followers: 116138
-    engagement: 164
-    commentsToLikes: 0.061847
+    followers: 117494
+    engagement: 162
+    commentsToLikes: 0.060677
     id: ck14hp9unbg0a0i19q379ayh7
     verified: false
-    hashtags: "#luxuryincluded, #jamaica, #loveyou, #desert"
-  - username: "cristalcaravaggio"
+    hashtags: "#luxurylifestyle, #colors, #andr, #travelfromhome"
+  - username: "morganickitchen"
     fullname: >-
-      C R I S T A L
+      Morgan Witkin
     location: "Italy"
-    followers: 51492
-    engagement: 298
-    commentsToLikes: 0.049591
-    id: ck5cfoaelnby50i11ek2p4dy6
+    followers: 42361
+    engagement: 143
+    commentsToLikes: 0.085003
+    id: ck5hiardncj830i11vkri3wbe
     verified: false
-    hashtags: "#collaborazione, #december, #yoins, #igerspescara"
-  - username: "luissantos_89"
+    hashtags: "#veganbowl, #newnormal, #mozzarellasticks, #tastetherainbow"
+  - username: "lucreziacandelori"
     fullname: >-
-      The Luís Best Experiences 🌍
+      Lucrezia Candelori
     location: "Italy"
-    followers: 17109
-    engagement: 385
-    commentsToLikes: 0.012219
-    id: ck1360tg246yx0i195anfbqk2
+    followers: 38408
+    engagement: 164
+    commentsToLikes: 0.065112
+    id: ck9welr9mku0a0j788o0flz7u
     verified: false
-    hashtags: "#rome, #jkplaceroma, #cartagenadeindias, #onlyadults"
-  - username: "beniculturali3.0"
+    hashtags: "#bdaygirl, #tb, #girlsgoneloavies"
+  - username: "gabrielegriseri"
     fullname: >-
-      Beni Culturali 3.0
+      G A B R I
     location: "Italy"
-    followers: 235580
-    engagement: 256
-    commentsToLikes: 0.004585
-    id: ck0u6tggv2z6g0i19l8ecv5zy
+    followers: 51928
+    engagement: 150
+    commentsToLikes: 0.016581
+    id: ck15uvhvlopbe0i19lwlpkcq2
     verified: false
-    hashtags: "#classic, #italy, #romeandyou, #milanomusei"
-  - username: "violaguidotti"
+    hashtags: "#gold, #94stillgold, #milano, #roma"
+  - username: "eleuro_countryside_graffiti"
     fullname: >-
-      Vιoℓα Gυιdσττι
+      eleuro
     location: "Italy"
-    followers: 50387
-    engagement: 329
-    commentsToLikes: 0.045343
-    id: ck5zqtcgnv95w0i14m257509l
+    followers: 28208
+    engagement: 214
+    commentsToLikes: 0.011175
+    id: ck5zsoisnyw8d0i14b7qxjq1j
     verified: false
-    hashtags: "#shopping, #basicmakeup, #familyfirst, #blond"
-  - username: "jessicaamendola"
+    hashtags: "#animalillustrations, #whitespacewinter, #asta, #nature"
+  - username: "eleonoraalbrecht"
     fullname: >-
-      Jessica Amendola
+      Eleonora Albrecht
     location: "Italy"
-    followers: 69466
-    engagement: 234
-    commentsToLikes: 0.035500
-    id: ck5q918wp8ws40i11175331h5
+    followers: 26823
+    engagement: 80
+    commentsToLikes: 0.082433
+    id: ck5zkwcvrkac10i1488ixpzi5
     verified: false
-    hashtags: "#fashiondaily, #italianinfluencer, #perfectmoment, #larocheposay"
-  - username: "alein_wonderland"
+    hashtags: "#confetta, #family, #actress, #momslife"
+  - username: "flaviaberruti"
     fullname: >-
-      ༺Alejandra༻
+      F L A V I A 🍍
     location: "Italy"
-    followers: 5709
-    engagement: 2104
-    commentsToLikes: 0.073724
-    id: ck8td6ws825390j782s9xcclx
+    followers: 19514
+    engagement: 168
+    commentsToLikes: 0.092367
+    id: ck0tvdqamazyn0i19k3czxlyn
     verified: false
-    hashtags: "#drawingbyme, #tagsforfollow, #photooftheday, #insta"
-  - username: "thebeatrice_ferro"
+    hashtags: "#macysparade, #womanpower, #lunch, #myday"
+  - username: "lauramakeup90"
     fullname: >-
-      Beatrice Ferro
+      Laura 💕
     location: "Italy"
-    followers: 10310
-    engagement: 444
-    commentsToLikes: 0.141954
-    id: ck5cirfk8t87n0i117rkzsm9a
+    followers: 17232
+    engagement: 436
+    commentsToLikes: 0.083219
+    id: ck0tunyo97xyz0i19chp9832e
     verified: false
-    hashtags: "#italia, #vintageracing, #sportive, #beuban"
+    hashtags: "#passthebrushita, #makeupideas, #makeuplover, #nevecosmetics"
+  - username: "liviagianiorio"
+    fullname: >-
+      P. Queen👑
+    location: "Italy"
+    followers: 25733
+    engagement: 352
+    commentsToLikes: 0.050404
+    id: ck0u19xyvw8b90i190coh6qta
+    verified: false
+    hashtags: "#sundaymood, #mybestyear, #braids, #preggobelly"
+  - username: "_ilarialuciani_"
+    fullname: >-
+      ❣️ Ilaria 💌
+    location: "Italy"
+    followers: 10641
+    engagement: 367
+    commentsToLikes: 0.102005
+    id: ck13aj70lqmt90i19s7uxrqfb
+    verified: false
+    hashtags: "#quarantinepillowchallenge, #crostata"
 ---

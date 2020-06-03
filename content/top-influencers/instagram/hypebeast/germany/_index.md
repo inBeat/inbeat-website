@@ -1,107 +1,107 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Germany In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Germany in 2020. Most popular hashtags: #streetwear #ootd #hypebeast #fashion.
+  Find top hypebeast Instagram influencers in Germany in 2020. Most popular hashtags: #offwhite #hypebeast #ootd #quarantine.
 platform: Instagram
 profiles:
   - username: "andrew.273"
     fullname: >-
       Streetwear | Andy
     location: "Germany"
-    followers: 6864
-    engagement: 1187
-    commentsToLikes: 0.145185
+    followers: 7517
+    engagement: 1394
+    commentsToLikes: 0.134153
     id: ck5cjvq58vlkf0i11zo8xd0zc
     verified: false
-    hashtags: "#casualoutfits, #sonntagabend, #sonne, #dailystreetwear"
+    hashtags: "#streetbeast, #stayathome, #sneakeraddicts, #nikesonmyfeet"
   - username: "celinajadakerr"
     fullname: >-
       Celina Jada Kerr
     location: "Germany"
-    followers: 21433
-    engagement: 1180
-    commentsToLikes: 0.026523
+    followers: 28343
+    engagement: 1567
+    commentsToLikes: 0.021902
     id: ck5hclxbtir5g0i11wrprl4cs
     verified: false
-    hashtags: "#fashion, #revolveme, #outfitdiaries, #love"
-  - username: "munich_style"
-    fullname: >-
-      Max
-    location: "Germany"
-    followers: 90831
-    engagement: 363
-    commentsToLikes: 0.024123
-    id: ck0w431iqwk3a0i19gn455851
-    verified: false
-    hashtags: "#footlockereu, #giftedbyadidas"
+    hashtags: "#phonebleaching, #smilealways, #balenciaga, #nike"
   - username: "peachandsmoothie"
     fullname: >-
       "Streetwear by Gianluca"
     location: "Germany"
-    followers: 14912
-    engagement: 908
-    commentsToLikes: 0.057782
+    followers: 14475
+    engagement: 945
+    commentsToLikes: 0.057278
     id: ck15s995ybver0i199wycjvxh
     verified: false
-    hashtags: "#streetstylerepublic, #mirrorselfie, #adidas, #kanyewest"
-  - username: "tim.wlkm"
+    hashtags: "#fashioninsta, #sneakerlove, #fitrotation, #icedout"
+  - username: "carlschultzofficial"
     fullname: >-
-      T I M 🦋
+      𝐂𝐚𝐫𝐥 𝐒𝐜𝐡𝐮𝐥𝐭𝐳
     location: "Germany"
-    followers: 11188
-    engagement: 1059
-    commentsToLikes: 0.197090
-    id: ck13644xz4oew0i19v8z7ebkj
+    followers: 5370
+    engagement: 1764
+    commentsToLikes: 0.032643
+    id: ckap1mnmyv7ag0i78p51x1ob5
     verified: false
-    hashtags: "#streetwear, #hypedhaven, #hypebeaststyle, #cologne"
-  - username: "ma__hmou__d"
+    hashtags: ""
+  - username: "munich_style"
     fullname: >-
-      👤 Mahmoud
+      Max
     location: "Germany"
-    followers: 10008
-    engagement: 1079
-    commentsToLikes: 0.129965
-    id: ck6uevi6mtbch0j71885w8t5x
+    followers: 88907
+    engagement: 364
+    commentsToLikes: 0.015254
+    id: ck0w431iqwk3a0i19gn455851
     verified: false
-    hashtags: "#styleoftheday, #fashionweek, #ootd, #supreme"
-  - username: "tugceoezel"
+    hashtags: "#footlockereu"
+  - username: "paulzjc"
     fullname: >-
-      Fashion / Style / Streetwear
+      Paul
     location: "Germany"
-    followers: 21970
-    engagement: 910
-    commentsToLikes: 0.041487
-    id: ck15rjuru89zc0i19ltpmf994
+    followers: 4039
+    engagement: 2598
+    commentsToLikes: 0.241972
+    id: ckap16hwwt9940i78xab6t7d3
     verified: false
-    hashtags: "#streetwearinspo, #outfitinspo, #neutralstyle, #fashionable"
-  - username: "lourenegoll"
+    hashtags: "#hypedstreets, #hypebeaststyle, #hypebeastkids, #minilicious"
+  - username: "ninacarmaria"
     fullname: >-
-      FASHION | TRAVEL | LIFESTYLE
+      N I N A  C A R M A R I A
     location: "Germany"
-    followers: 131414
-    engagement: 403
-    commentsToLikes: 0.047431
-    id: ck15r05pt5hac0i19n06t6mha
+    followers: 6859
+    engagement: 1862
+    commentsToLikes: 0.096207
+    id: ck8t5e6979u4k0j7812fhgf47
     verified: false
-    hashtags: "#gesturechallenge, #graueranzug, #itscoronatime, #officeoutfit"
-  - username: "domi.abendroth"
+    hashtags: "#porschetaycan4s, #carsofinsta, #kiadeutschland, #kiaproceed"
+  - username: "annikamths"
     fullname: >-
-      Dominik Abendroth ®
+      Annika Matheis I SNEAKERS
     location: "Germany"
-    followers: 4113
-    engagement: 1785
-    commentsToLikes: 0.261416
-    id: ck0u06bifsrpo0i196k2bidvd
+    followers: 41695
+    engagement: 628
+    commentsToLikes: 0.056732
+    id: ck0tvti63cpso0i19y0lmtr2i
     verified: false
-    hashtags: "#fogessentials, #leathercase, #frankfurt, #frankfurtblogger"
-  - username: "raguccy"
+    hashtags: "#customsneaker, #chillmode, #nikeblog, #closet"
+  - username: "namedlucas_"
     fullname: >-
-      DANIEL TESKE
+      ”Fits on the Rock“
     location: "Germany"
-    followers: 58607
-    engagement: 431
-    commentsToLikes: 0.047355
-    id: ck15tyikqkj690i19mtqrwdyc
+    followers: 3154
+    engagement: 4867
+    commentsToLikes: 0.102906
+    id: ckap9twsxtn9x0i78wfcdaqha
     verified: false
-    hashtags: "#takenwithxperia, #sony, #evergreen, #laydown"
+    hashtags: "#menstyle, #menswear, #fearofgod, #gclass"
+  - username: "domkalu2"
+    fullname: >-
+      Dominik
+    location: "Germany"
+    followers: 4250
+    engagement: 3076
+    commentsToLikes: 0.085249
+    id: ck8t9wjo1ploc0j78suy9gwz3
+    verified: false
+    hashtags: "#think, #offwhitedunk, #armystyle, #mittw"
 ---

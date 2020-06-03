@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top food Instagram influencers in Tokyo in 2020. Most popular hashtags: #tokyo #japan #cafe #food.
+  Find top food Instagram influencers in Tokyo in 2020. Most popular hashtags: #food #cake #tokyo #cafe.
 platform: Instagram
 profiles:
-  - username: "jeromequilbeuf"
+  - username: "mippy34"
     fullname: >-
-      Jérôme Quilbeuf
+      秋丸美帆（みっぴ)
     location: "Japan"
-    followers: 43480
-    engagement: 145
-    commentsToLikes: 0.054402
-    id: ck0ub21mcdkcb0i19ta950u2n
-    verified: true
-    hashtags: "#chefstalk, #hakkoku, #granopening, #santjordi"
+    followers: 163359
+    engagement: 897
+    commentsToLikes: 0.009541
+    id: ck14khy0xpkym0i19z1koxtkn
+    verified: false
+    hashtags: "#ibusuki, #ibaraki, #cake, #food"
+  - username: "ahjoomahan"
+    fullname: >-
+      Ahnah Han
+    location: "Japan"
+    followers: 18879
+    engagement: 987
+    commentsToLikes: 0.018566
+    id: ck8sy98hvk5xb0j78pnc85vk5
+    verified: false
+    hashtags: "#16monthsold, #6monthsold, #alwaysmybaby, #apahm"
   - username: "aytystyle"
     fullname: >-
       Ay&Ty Style
     location: "Japan"
-    followers: 27931
-    engagement: 442
-    commentsToLikes: 0.095040
+    followers: 28367
+    engagement: 454
+    commentsToLikes: 0.095009
     id: ck13958r0jldt0i195llnjno7
     verified: false
-    hashtags: "#lundisbleus, #minikelly, #5004j, #splitsecond"
+    hashtags: "#chottopeutetre, #mascarponecream, #leflaive, #gattinaranervi"
+  - username: "karen_eel3"
+    fullname: >-
+      Karen
+    location: "Japan"
+    followers: 15337
+    engagement: 221
+    commentsToLikes: 0.023904
+    id: ck6ubej1893fk0j71iltb52s1
+    verified: false
+    hashtags: "#mightypurplecafe, #joemibyunami, #cherish, #stateyourcase"
   - username: "ma_me_jam"
     fullname: >-
-      まめジャム
+      まめジャム
     location: "Japan"
-    followers: 24972
-    engagement: 756
-    commentsToLikes: 0.005901
+    followers: 26435
+    engagement: 694
+    commentsToLikes: 0.006190
     id: ck6uglm9r3qxq0j719xlqays4
     verified: false
-    hashtags: "#hotdog, #gumbo, #foodprep, #greysanatomy"
-  - username: "puramudaria"
+    hashtags: "#eggsbenedict, #tempura, #frenchfries, #sakuzan"
+  - username: "megukiss0517"
     fullname: >-
-      インスタグラマー ♡だりあ♡
+      ˚✧₊⁎M e g u m i˚✧₊⁎
     location: "Japan"
-    followers: 37350
-    engagement: 146
-    commentsToLikes: 0.007549
-    id: ck135wbfd3k4o0i19kqopwtqq
+    followers: 45535
+    engagement: 362
+    commentsToLikes: 0.044739
+    id: ckaosohjtsdjc0i783i505nnd
     verified: false
-    hashtags: "#ubereats, #newopen, #asakusa, #barrylate"
-  - username: "kiki__cafe"
+    hashtags: "#pink, #cake, #vancleef, #horse"
+  - username: "h_sakurai"
     fullname: >-
-      キキ。
+      𝑯𝑨𝑹𝑼𝑲𝑨 𝑺𝑨𝑲𝑼𝑹𝑨𝑰 - 櫻井 ハルカ -
     location: "Japan"
-    followers: 10356
-    engagement: 520
-    commentsToLikes: 0.001753
-    id: ck0ud8pa5io280i19m4vb3ato
+    followers: 17328
+    engagement: 211
+    commentsToLikes: 0.022436
+    id: ck5hopi4xpzkd0i11irh3za6o
     verified: false
-    hashtags: "#asakusa, #bistro, #greentea, #torse"
-  - username: "yuki.ando.37"
+    hashtags: "#longtshirt, #glafit, #lips, #women"
+  - username: "risa_tokyo_"
     fullname: >-
-      Yuki Ando ( カメラアカウント )
+      Risato
     location: "Japan"
-    followers: 23990
-    engagement: 429
-    commentsToLikes: 0.007813
-    id: ck1375sxs9xje0i19q7lwh82n
+    followers: 7270
+    engagement: 985
+    commentsToLikes: 0.007818
+    id: ck1375pnu9x1w0i19wv6bf9d5
     verified: false
-    hashtags: "#flyjal, #sky, #sunset, #beokinawa"
-  - username: "mgmilk___"
+    hashtags: "#lobor, #bikini, #khosamui, #cafe"
+  - username: "anzu.akiba"
     fullname: >-
-      め ぐ み る く
+      🌹Anzu Julia Akiba🌹
     location: "Japan"
-    followers: 78490
-    engagement: 409
-    commentsToLikes: 0.000856
-    id: ck5hrnc3ev5nu0i11e94efuzm
+    followers: 8910
+    engagement: 721
+    commentsToLikes: 0.031718
+    id: ckap7wrqblwkw0i781qzx2ckb
     verified: false
-    hashtags: "#cupcakes, #foodgasm, #green, #cosmetics"
+    hashtags: "#stayhome, #cruise, #bestrestaurant, #tokyo"
   - username: "takashi_iiii"
     fullname: >-
-      プリン王子,プリン,🍮🤴🏻,東京カフェ
+      プリン王子,プリン,東京カフェ,Youtube,note,🍮
     location: "Japan"
-    followers: 6070
-    engagement: 1095
-    commentsToLikes: 0.022104
+    followers: 6210
+    engagement: 1074
+    commentsToLikes: 0.018914
     id: ck5pyfgsvvrdo0i11d3ptyhm5
     verified: false
-    hashtags: "#maccha, #puddinglover, #bakucoffeeroasters, #instagood"
-  - username: "xshizzyx"
-    fullname: >-
-      Shizuka Anderson | アンダーソン静香✨
-    location: "Japan"
-    followers: 51661
-    engagement: 947
-    commentsToLikes: 0.021870
-    id: ck13741jw9o240i198fwx7yt4
-    verified: false
-    hashtags: "#stancenationjapan, #exploring, #2020, #rainbowcottoncandy"
-  - username: "shin_kuroobisan"
-    fullname: >-
-      黒帯さん^ ^
-    location: "Japan"
-    followers: 53221
-    engagement: 265
-    commentsToLikes: 0.004391
-    id: ck14gn8qo62a00i19x842erjn
-    verified: false
-    hashtags: "#fridayfeeling, #skincareindonesia, #lashesonfleek, #lashtech"
+    hashtags: "#matcha, #kamakura, #eggbabycafe, #sukemasacoffee"
 ---

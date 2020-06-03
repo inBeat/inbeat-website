@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Philadelphia In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Philadelphia in 2020. Most popular hashtags: #ad #philadelphia #sponsored #visitphilly.
+  Find top lifestyle Instagram influencers in Philadelphia in 2020. Most popular hashtags: #brunchgoals #pizzatime #cincodemayo #philadelphia.
 platform: Instagram
 profiles:
   - username: "herphilly"
     fullname: >-
       Emily Tharp | Philly Blogger
     location: "United States"
-    followers: 5302
-    engagement: 564
-    commentsToLikes: 0.143004
+    followers: 5366
+    engagement: 598
+    commentsToLikes: 0.138128
     id: ck55l14o30ip60i11rkrdngp1
     verified: false
-    hashtags: "#whitneypose, #visitphilly, #phillyphilly, #herphilly"
-  - username: "bunch.ofbs"
+    hashtags: "#phillyspa, #cityliving, #chickentenders, #brunchgoals"
+  - username: "rm67_"
     fullname: >-
-      Becca Scholes I Bunch of BS
+      Uncle Dame
     location: "United States"
-    followers: 10407
-    engagement: 700
-    commentsToLikes: 0.163115
-    id: ck5hn3o7an5830i113z3lyblr
+    followers: 16137
+    engagement: 182
+    commentsToLikes: 0.108499
+    id: ckap0aedzpgpt0i78zgb15xf4
     verified: false
-    hashtags: "#sponsored, #fabletics, #affordablefashion, #targetstyle"
+    hashtags: "#quarantineprom, #photographer, #no666, #entrepreneur"
+  - username: "josheatsphilly"
+    fullname: >-
+      Philadelphia Food & Lifestyle
+    location: "United States"
+    followers: 22043
+    engagement: 318
+    commentsToLikes: 0.101981
+    id: ck0tyekujmhfy0i196kndu1er
+    verified: false
+    hashtags: "#sushisunday, #bubblewaffle, #speculoos, #lovertm"
+  - username: "phlfoodstagram"
+    fullname: >-
+      Philadelphia Food & Lifestyle
+    location: "United States"
+    followers: 16671
+    engagement: 476
+    commentsToLikes: 0.265088
+    id: ck0w5u9pk5gyy0i19fczmow3h
+    verified: false
+    hashtags: "#panchospartner, #bestdipontheplanet, #phillynightin, #brunchinphilly"
+  - username: "blackparentmagazine"
+    fullname: >-
+      Black Parent Magazine Inc.
+    location: "United States"
+    followers: 51605
+    engagement: 129
+    commentsToLikes: 0.061638
+    id: ck0tvkkcobrue0i197o886ugh
+    verified: false
+    hashtags: "#bhfyp, #funnyvideos, #yoga, #motherdaughter"
   - username: "pilot.drew"
     fullname: >-
       Andrew, First Officer
     location: "United States"
-    followers: 129235
-    engagement: 730
-    commentsToLikes: 0.029701
+    followers: 143261
+    engagement: 719
+    commentsToLikes: 0.027817
     id: ck0w4jy5oyxy20i19zm1kzrzr
     verified: false
-    hashtags: "#tailtuesday, #colehaanpaidpartner, #sponsored, #fighttheburn"
-  - username: "nicoleangela14"
+    hashtags: "#cremocompany, #ad, #phlcovid19fund, #casetasmartlighting"
+  - username: "bunch.ofbs"
     fullname: >-
-      Nicole Clash | Lifestyle Blog
+      Becca Scholes I Bunch of BS
     location: "United States"
-    followers: 13915
-    engagement: 440
-    commentsToLikes: 0.167319
-    id: ck5hkpalgitne0i112vdo9ac9
+    followers: 10337
+    engagement: 783
+    commentsToLikes: 0.158315
+    id: ck5hn3o7an5830i113z3lyblr
     verified: false
-    hashtags: "#partnership, #topgolf, #skincareroutine, #socialworker"
+    hashtags: "#fueloriginality, #myfabletics, #saladworksofart, #cincodemayo"
   - username: "le.chic.touch"
     fullname: >-
       Sara K
     location: "United States"
-    followers: 17875
-    engagement: 445
-    commentsToLikes: 0.036942
+    followers: 23755
+    engagement: 451
+    commentsToLikes: 0.039887
     id: ck15uw2y9os7s0i19h54v1s4i
     verified: false
-    hashtags: "#philadelphia, #ad, #berrifit, #visitphl"
-  - username: "theblondetravelsx0"
+    hashtags: "#wegmans, #phlactivity, #philadelphia, #lechictouch"
+  - username: "itsarockyworld"
     fullname: >-
-      JAMIE RIVERO  | Philly Blogger
+      R O C K Y 📍 PHILADELPHIA, PA
     location: "United States"
-    followers: 20486
-    engagement: 264
-    commentsToLikes: 0.175851
-    id: ck6tvd4a1ljt30j71pwjlidnd
+    followers: 16236
+    engagement: 689
+    commentsToLikes: 0.027224
+    id: ck0w58bgx2e7k0i19kouxkn5j
     verified: false
-    hashtags: "#maldives, #lightstim, #haircare, #freshrose"
-  - username: "loveronnie"
+    hashtags: "#tailgating, #missdesignberry, #ontheblog, #tommygirl"
+  - username: "nicoleangela14"
     fullname: >-
-      Ronnie Howard
+      Nicole Clash | Lifestyle Blog
     location: "United States"
-    followers: 19134
-    engagement: 202
-    commentsToLikes: 0.068492
-    id: ck5bxe82xnjwd0i111mh7rwqk
+    followers: 18948
+    engagement: 319
+    commentsToLikes: 0.170321
+    id: ck5hkpalgitne0i112vdo9ac9
     verified: false
-    hashtags: "#selfcaresunday, #yummy, #selfcare, #stayhome"
-  - username: "kozyandco"
-    fullname: >-
-      jessica | kozy & co
-    location: "United States"
-    followers: 25324
-    engagement: 87
-    commentsToLikes: 0.073544
-    id: ck13c5f9kypbf0i19bniue3kx
-    verified: false
-    hashtags: "#mygutreport, #arthurandrewmedical, #goodnaturedselects, #ltkunder100"
-  - username: "wearethekruks"
-    fullname: >-
-      Philadelphia Wedding Photogs
-    location: "United States"
-    followers: 2235
-    engagement: 1116
-    commentsToLikes: 0.063145
-    id: ck8tb3ph5u56k0j784ji8e94m
-    verified: false
-    hashtags: "#loewsphiladelphia, #phillyhairstylist, #lifestyleblogger, #phillylove"
-  - username: "mister.dish"
-    fullname: >-
-      𝕄𝕣 𝔻𝕚𝕤𝕙 (Karol Daly)
-    location: "United States"
-    followers: 28557
-    engagement: 150
-    commentsToLikes: 0.039225
-    id: ck6tuw8mfiryc0j71m308t4xh
-    verified: false
-    hashtags: "#curry, #pasta, #grilledcheese, #burritos"
+    hashtags: "#dreamermiami, #foodieblogger, #aboutme, #loft"
 ---

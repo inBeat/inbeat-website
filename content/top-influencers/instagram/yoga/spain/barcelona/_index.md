@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top yoga Instagram influencers in Barcelona in 2020. Most popular hashtags: #yoga #yomequedoencasa #barcelona #quedateencasa.
+  Find top yoga Instagram influencers in Barcelona in 2020. Most popular hashtags: #yoga #barcelona #health #meditacion.
 platform: Instagram
 profiles:
-  - username: "esteryoga"
+  - username: "aranupintheairyoga"
     fullname: >-
-      ⒺⓈⓉⒺⓇ • Yogini • Barcelona
+      ⍣₳ℛ₳∩ ☾
     location: "Spain"
-    followers: 48858
-    engagement: 233
-    commentsToLikes: 0.104923
-    id: ck136knyk6z3f0i19nijvanju
+    followers: 3601
+    engagement: 1189
+    commentsToLikes: 0.106009
+    id: ck9has6jkdvpr0j78eajq4mwy
     verified: false
-    hashtags: "#inversionyoga, #twist, #wildthingpose, #primaryseries"
-  - username: "redyogini"
+    hashtags: "#coronavirusesp, #proteccion, #responsability, #aerialdance"
+  - username: "laura_lakshmi_yoga"
     fullname: >-
-      Andreína YT 200 hrs
+      Laura Lakshmi Yoga Barcelona
     location: "Spain"
-    followers: 16581
-    engagement: 498
-    commentsToLikes: 0.034723
-    id: ck5znrfipp0kl0i1432dlkqfl
+    followers: 38046
+    engagement: 271
+    commentsToLikes: 0.045067
+    id: ck13bfdowv5tk0i197g9qx43p
     verified: false
-    hashtags: "#asana, #vinyasa, #yogaonline, #fitnessmodel"
+    hashtags: "#happyday, #yogapants, #zoom, #energy"
   - username: "hannahtaha"
     fullname: >-
       Hannah Taha
     location: "Spain"
-    followers: 126443
-    engagement: 367
-    commentsToLikes: 0.010407
+    followers: 138990
+    engagement: 574
+    commentsToLikes: 0.012164
     id: ck55ptzg6bden0i118zc6mwdi
     verified: false
-    hashtags: "#yomequedoencasa, #barcelona, #linenfabric, #yoga"
-  - username: "cristinabrondo"
+    hashtags: "#yoga, #alanwatts, #nofilter, #barcelona"
+  - username: "florian_angert"
     fullname: >-
-      Cristina Brondo
+      Florian Angert
     location: "Spain"
-    followers: 20405
-    engagement: 266
-    commentsToLikes: 0.040227
-    id: ck55mkid046070i11txwkbwb5
+    followers: 7762
+    engagement: 690
+    commentsToLikes: 0.008478
+    id: ck0tvdlcqazc50i19528d2qka
     verified: false
-    hashtags: "#annaarqu, #yomequedoencasa, #meditacion, #respiracion"
-  - username: "andreina_p"
+    hashtags: "#hero8, #gameofthrones, #artgerecht, #trainee"
+  - username: "laura.blancafort"
     fullname: >-
-      Andreina Peñaloza
+      Laura Blancafort
     location: "Spain"
-    followers: 39859
-    engagement: 222
-    commentsToLikes: 0.053410
-    id: ck6tpq0culo5y0j715s3gny0z
+    followers: 2533
+    engagement: 2033
+    commentsToLikes: 0.068170
+    id: ck5hr3tfju7wa0i112hnsk08c
     verified: false
-    hashtags: "#trambolikas, #barcelonakite, #shibainustagram, #emigrar"
-  - username: "claudiatubilla"
-    fullname: >-
-      CLAUDIA TUBILLA
-    location: "Spain"
-    followers: 12264
-    engagement: 530
-    commentsToLikes: 0.037470
-    id: ck5bwjd8cltbf0i11dm1wbw2g
-    verified: false
-    hashtags: "#namaste, #charlesbridge, #momlife, #barcelona"
-  - username: "sheilafeijoo_"
-    fullname: >-
-      Sheila Feijoo
-    location: "Spain"
-    followers: 7507
-    engagement: 797
-    commentsToLikes: 0.015667
-    id: ck6tvayuyl6p60j718z7qq46v
-    verified: false
-    hashtags: "#coffeelover, #stayathome, #beachvibes, #discover"
-  - username: "ainania_yoga"
-    fullname: >-
-      AINÀNIA ☾ yoga & coaching
-    location: "Spain"
-    followers: 39370
-    engagement: 206
-    commentsToLikes: 0.048863
-    id: ck0vyy44a6cuh0i197tgz6gvt
-    verified: false
-    hashtags: "#sagarrofa, #santfeliudeguixols, #visitcatalunya, #freetime"
+    hashtags: "#beauty, #fitnessmodel, #fitnessgirl, #landscapephotography"
   - username: "tanieta2"
     fullname: >-
       T҉A҉N҉I҉A҉
     location: "Spain"
-    followers: 20657
-    engagement: 360
-    commentsToLikes: 0.015857
+    followers: 20747
+    engagement: 381
+    commentsToLikes: 0.019617
     id: ck6u3uudf00lq0j71nq4thyk6
     verified: false
-    hashtags: "#swimming, #disconnect, #iloveyou, #hotelvelabarcelona"
-  - username: "itsmartafont"
+    hashtags: "#animalprint, #behappy, #monday, #free"
+  - username: "redyogini"
     fullname: >-
-      Marta Font
+      Andreína YT 200 hrs
     location: "Spain"
-    followers: 12467
-    engagement: 1285
-    commentsToLikes: 0.024271
-    id: ck5hrzafavqjt0i11ljggxtks
+    followers: 16454
+    engagement: 502
+    commentsToLikes: 0.040250
+    id: ck5znrfipp0kl0i1432dlkqfl
     verified: false
-    hashtags: "#dailydesignpick, #forwomenwhoroar, #illustrationart, #pinkfloyd"
+    hashtags: "#hechoenespa, #fitnessmodel, #amorpropio, #feetuptrainer"
+  - username: "happy.ohana"
+    fullname: >-
+      Happy Ohana
+    location: "Spain"
+    followers: 144997
+    engagement: 638
+    commentsToLikes: 0.021314
+    id: ck13bj0nsvn3e0i19y1kyy6kq
+    verified: false
+    hashtags: "#yeimymontoya, #outfit, #juntossomosun10, #charlyflow"
+  - username: "xuanlanyoga"
+    fullname: >-
+      Xuan Lan Yoga
+    location: "Spain"
+    followers: 476722
+    engagement: 332
+    commentsToLikes: 0.030356
+    id: ck14jsoq6lzew0i19nyajzhx3
+    verified: true
+    hashtags: "#anjalimudra, #comersano, #curcuma, #lechedorada"
+  - username: "marugodas"
+    fullname: >-
+      Maru Godas
+    location: "Spain"
+    followers: 7385
+    engagement: 898
+    commentsToLikes: 0.078858
+    id: ckap9a1hsrsjf0i78xmpv2pdf
+    verified: false
+    hashtags: "#dancingdays, #blue, #whenthisisover, #cenital"
 ---

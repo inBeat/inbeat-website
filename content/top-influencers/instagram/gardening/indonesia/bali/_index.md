@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Bali In 2020
 description: >-
-  Find top gardening Instagram influencers in Bali in 2020. Most popular hashtags: #bali #indonesia #gardening #nofilter.
+  Find top gardening Instagram influencers in Bali in 2020. Most popular hashtags: #gardening #garden #plants #salad.
 platform: Instagram
 profiles:
-  - username: "chloe.kian"
+  - username: "rawtransitiondiet"
     fullname: >-
-      Chloe Kian
+      Damian Gardynik 🌱
     location: "Indonesia"
-    followers: 58866
-    engagement: 663
-    commentsToLikes: 0.006891
-    id: ck0u8e9ma73fp0i19fbv0gfrj
+    followers: 6700
+    engagement: 513
+    commentsToLikes: 0.062691
+    id: ck9wd2bi1dr640j780ut0ekly
     verified: false
-    hashtags: "#movies, #ethicalswimwear, #ecoresort, #luxuryecoresort"
-  - username: "baliinteriors"
+    hashtags: "#lockdown, #diversity, #earthday, #plumeria"
+  - username: "pandasprouts"
     fullname: >-
-      BALI INTERIORS
+      NEVI | ORGANIC GARDENING
     location: "Indonesia"
-    followers: 49726
-    engagement: 176
-    commentsToLikes: 0.032404
-    id: ck1347obtv4a70i198g3sfm1b
+    followers: 28193
+    engagement: 111
+    commentsToLikes: 0.038864
+    id: ckaotw7auxryf0i78arfrm6cr
     verified: false
-    hashtags: "#baliadvisor, #homerenovation, #dominomag, #spas"
-  - username: "balilandscapecompany"
+    hashtags: "#notagardeningpost"
+  - username: "zarinkasoiko"
     fullname: >-
-      Bali Landscape Company
+      abstract 💀 reflection 💀 glitch
     location: "Indonesia"
-    followers: 29805
-    engagement: 175
-    commentsToLikes: 0.007831
-    id: ck1347pi0v4hp0i1967m5cc6a
+    followers: 6375
+    engagement: 777
+    commentsToLikes: 0.021509
+    id: ck8sxhchwhecc0j78p57rx2ea
     verified: false
-    hashtags: "#nokubeachhouse, #whitetortoisebali, #tropicalnomad, #canggu"
-  - username: "evahorvathofficial"
+    hashtags: "#abstractpainting, #streetartfestival, #fantasy, #arte"
+  - username: "robinavicula"
     fullname: >-
-      Horváth Éva
+      Gede Robi
     location: "Indonesia"
-    followers: 158030
-    engagement: 169
-    commentsToLikes: 0.020499
-    id: ck5zo6sw1pvzs0i14gbrze6ss
-    verified: true
-    hashtags: "#bestplacetogo, #visitbali, #imissingbali, #pampersnapok"
+    followers: 73305
+    engagement: 337
+    commentsToLikes: 0.016203
+    id: ck0w5tx4t5f680i19ou0mun3a
+    verified: false
+    hashtags: "#tanamansuper, #daddysgirl, #cettaguitar, #eggs"
+  - username: "pandasprouts"
+    fullname: >-
+      NEVI | ORGANIC GARDENING
+    location: "Indonesia"
+    followers: 28193
+    engagement: 111
+    commentsToLikes: 0.038864
+    id: ckaotw7auxryf0i78arfrm6cr
+    verified: false
+    hashtags: "#notagardeningpost"
+  - username: "sheilla_erlangga"
+    fullname: >-
+      Sheilla Erlangga
+    location: "Indonesia"
+    followers: 178600
+    engagement: 161
+    commentsToLikes: 0.118559
+    id: ckap1ahirtqnk0i78khb0lt31
+    verified: false
+    hashtags: "#cake, #cintabudayaindonesia, #gedungkesenianjakarta, #pancasila"
   - username: "ibunia"
     fullname: >-
       Nia Dinata
     location: "Indonesia"
-    followers: 32543
-    engagement: 140
-    commentsToLikes: 0.052311
+    followers: 32763
+    engagement: 136
+    commentsToLikes: 0.051641
     id: ck5q2fea5fr1p0i11b23ombod
     verified: false
-    hashtags: "#nurserydecor, #goplay, #noshower, #explorewashington"
-  - username: "delavalent"
+    hashtags: "#infusedhoney, #earthday, #beautifulsouls, #miraadalahkita"
+  - username: "eagle_03_adam"
     fullname: >-
-      Dela Valentina Karim
+      Callsign_E03A
     location: "Indonesia"
-    followers: 31353
-    engagement: 193
-    commentsToLikes: 0.409216
-    id: ck5q85ocr4k9e0i11ftscn7of
+    followers: 13207
+    engagement: 388
+    commentsToLikes: 0.023291
+    id: ck0tzl3u3qpz80i19ay3go82l
     verified: false
-    hashtags: "#sambal, #instadecor, #terrace, #wallhanging"
-  - username: "chloe.kian"
+    hashtags: "#airsofter, #cryeofficial, #arcteryx, #airlite"
+  - username: "thataljundiah"
     fullname: >-
-      Chloe Kian
+      Qonitah Al Jundiah
     location: "Indonesia"
-    followers: 58866
-    engagement: 663
-    commentsToLikes: 0.006891
-    id: ck0u8e9ma73fp0i19fbv0gfrj
-    verified: false
-    hashtags: "#movies, #ethicalswimwear, #ecoresort, #luxuryecoresort"
-  - username: "ibunia"
-    fullname: >-
-      Nia Dinata
-    location: "Indonesia"
-    followers: 32543
-    engagement: 140
-    commentsToLikes: 0.052311
-    id: ck5q2fea5fr1p0i11b23ombod
-    verified: false
-    hashtags: "#nurserydecor, #goplay, #noshower, #explorewashington"
-  - username: "evahorvathofficial"
-    fullname: >-
-      Horváth Éva
-    location: "Indonesia"
-    followers: 158030
-    engagement: 169
-    commentsToLikes: 0.020499
-    id: ck5zo6sw1pvzs0i14gbrze6ss
+    followers: 188724
+    engagement: 96
+    commentsToLikes: 0.010340
+    id: ck8sxh4a4hdfi0j78cgqirie0
     verified: true
-    hashtags: "#bestplacetogo, #visitbali, #imissingbali, #pampersnapok"
-  - username: "fahriorchid"
+    hashtags: "#darirumah, #ramadan, #toomuchistoomuch, #ederratalks"
+  - username: "info.fruits"
     fullname: >-
-      Fahri Orchid🌱
+      BUAH BUAHAN
     location: "Indonesia"
-    followers: 39901
-    engagement: 156
-    commentsToLikes: 0.022259
-    id: ck13d42nc3kqi0i197bz7ri21
+    followers: 83279
+    engagement: 830
+    commentsToLikes: 0.007441
+    id: ck0w3p416ujo00i19l0aqogla
     verified: false
-    hashtags: "#tillandsiaxerographica, #oldfashioned, #grammatophyllumscriptum, #anggrekmerpati"
+    hashtags: "#hydroponics, #orchid, #growyourown, #harvest"
 ---

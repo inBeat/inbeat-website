@@ -1,19 +1,29 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Atlanta In 2020
 description: >-
-  Find top vegan Instagram influencers in Atlanta in 2020. Most popular hashtags: #atlanta #vegan #love #iamlove.
+  Find top vegan Instagram influencers in Atlanta in 2020. Most popular hashtags: #atlanta #vegan #explore #foodie.
 platform: Instagram
 profiles:
-  - username: "chef.jrob"
+  - username: "anicholebeauty"
     fullname: >-
-      Justin Robinson
+      𝔸. ℕ𝕚𝕔𝕙𝕠𝕝𝕖 𝔹𝕖𝕒𝕦𝕥𝕪
     location: "United States"
-    followers: 11170
-    engagement: 388
-    commentsToLikes: 0.068715
-    id: ck5c5qf7p3yvx0i11mbzkn09b
+    followers: 7612
+    engagement: 666
+    commentsToLikes: 0.103427
+    id: ck1363sqc4mks0i19h00ewkw5
     verified: false
-    hashtags: "#drinkdinediscover, #delicious, #covidrecipe, #coconut"
+    hashtags: "#cutebabies, #healthydiet, #nailtech, #2020"
+  - username: "koreanfusion"
+    fullname: >-
+      Seung Hee Lee
+    location: "United States"
+    followers: 35425
+    engagement: 176
+    commentsToLikes: 0.055609
+    id: ck5hox9k2qed50i11qs7t3bor
+    verified: false
+    hashtags: "#artisanal, #spicypork, #strawberries, #homecooking"
   - username: "chef_thomas96"
     fullname: >-
       Chef Thomas
@@ -24,84 +34,74 @@ profiles:
     id: ck14iclpheqwv0i19r4qpxrke
     verified: false
     hashtags: "#lakewylie, #love, #stayhome, #tagafriend"
-  - username: "authentically__ewe"
+  - username: "savoryspin"
     fullname: >-
-      Atlanta Actress
+      Shashi | Food Blogger
     location: "United States"
-    followers: 37874
-    engagement: 122
-    commentsToLikes: 0.040913
-    id: ck15s0oqranaq0i198hy045xt
+    followers: 28231
+    engagement: 77
+    commentsToLikes: 0.058956
+    id: ck55k2k70yb2a0i11x5tzd3y9
     verified: false
-    hashtags: "#blackvegansrock, #atlantamodel, #meditation, #atlantavegans"
+    hashtags: "#georgiagrinders, #paleoeaster, #adifferentbreed, #easydrinks"
+  - username: "theallvegan"
+    fullname: >-
+      🌿 The All Vegan
+    location: "United States"
+    followers: 35435
+    engagement: 225
+    commentsToLikes: 0.027008
+    id: ck136ir976oqj0i19dpmu6crx
+    verified: false
+    hashtags: "#vegansofny, #veganpastry, #veganman, #vegansnack"
+  - username: "healthyvegancommunity"
+    fullname: >-
+      HEALTHY VEGAN COMMUNITY
+    location: "United States"
+    followers: 184538
+    engagement: 109
+    commentsToLikes: 0.015962
+    id: ck5q7rf2e2s9b0i1140of1uox
+    verified: false
+    hashtags: "#healthyrecipes, #veganfitness, #macncheese, #bourguignon"
+  - username: "healthyvegancuisine"
+    fullname: >-
+      HEALTHY VEGAN CUISINE
+    location: "United States"
+    followers: 297881
+    engagement: 70
+    commentsToLikes: 0.015635
+    id: ck5q7rdj92s3n0i1168pa5rn2
+    verified: false
+    hashtags: "#veganheroes, #easydinner, #whatveganscook, #pastalover"
+  - username: "ufwjho"
+    fullname: >-
+      Jhoanna
+    location: "United States"
+    followers: 80913
+    engagement: 1965
+    commentsToLikes: 0.015439
+    id: ckap1ewwcub0a0i78u1mqjgfi
+    verified: false
+    hashtags: "#stayathomewithplt, #dollskill, #tbt"
   - username: "chefnikkiinthemix"
     fullname: >-
       Nikki
     location: "United States"
-    followers: 47011
-    engagement: 493
-    commentsToLikes: 0.054967
+    followers: 47622
+    engagement: 419
+    commentsToLikes: 0.083364
     id: ck5cbyv1pgevq0i11bz1bp1ow
     verified: false
-    hashtags: "#vlogger, #birdwatching, #danceparty, #bourgiemoms"
-  - username: "eat.tray.love"
+    hashtags: "#explore, #blackfamily, #newmom, #veganbreakfast"
+  - username: "madelynneross"
     fullname: >-
-      Tracy ⋆ ATL Foodie
+      Madelynne Ross
     location: "United States"
-    followers: 6794
-    engagement: 612
-    commentsToLikes: 0.429207
-    id: ck8t0fimkrw940j78dfvqfkzp
+    followers: 19210
+    engagement: 345
+    commentsToLikes: 0.040259
+    id: ck6u82hutp2270j71n69zrycc
     verified: false
-    hashtags: "#meatballs, #heresmyfood, #foodiefeature, #instahungry"
-  - username: "mwintersviolin"
-    fullname: >-
-      Michelle Winters
-    location: "United States"
-    followers: 7320
-    engagement: 658
-    commentsToLikes: 0.087358
-    id: ck15t9nvoh0is0i19o01noqsi
-    verified: false
-    hashtags: "#singing, #tgif, #maroon5, #violincover"
-  - username: "mike_shaw5"
-    fullname: >-
-      Mike Shaw
-    location: "United States"
-    followers: 33774
-    engagement: 511
-    commentsToLikes: 0.005962
-    id: ck5zuhtos2dtb0i14caf6r2r3
-    verified: false
-    hashtags: "#foodvideos, #bbqporn, #asmr, #seafoodmukbang"
-  - username: "joethyself"
-    fullname: >-
-      Joe with the flow☯️
-    location: "United States"
-    followers: 5783
-    engagement: 427
-    commentsToLikes: 0.263117
-    id: ck6tqouv8stoj0j713bz4u013
-    verified: false
-    hashtags: "#atlsingers, #boundaries, #thedao, #bars"
-  - username: "hai_itscourtney"
-    fullname: >-
-      Courtney Monaé
-    location: "United States"
-    followers: 7506
-    engagement: 557
-    commentsToLikes: 0.103460
-    id: ck8t0nfmysnhc0j78o7mtauce
-    verified: false
-    hashtags: "#outside, #green, #guitar, #pink"
-  - username: "kennythepoet"
-    fullname: >-
-      kendrick (ACTOR)
-    location: "United States"
-    followers: 39048
-    engagement: 168
-    commentsToLikes: 0.144052
-    id: ck0u1c255wi8i0i19sbqku2fj
-    verified: false
-    hashtags: "#water, #iplaytitushuges, #brownskin, #cross"
+    hashtags: "#ootd, #midtownatlanta, #denmanbrush, #stressrelief"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Barbers Instagram Influencers In India In 2020
 description: >-
-  Find top barbers Instagram influencers in India in 2020. Most popular hashtags: #love #photography #style #fashionblogger.
+  Find top barbers Instagram influencers in India in 2020. Most popular hashtags: #barber #explore #hairstyles #workout.
 platform: Instagram
 profiles:
-  - username: "fede__thebarber"
+  - username: "mehrshad__amd"
     fullname: >-
-      Work In Progress 💈
+      °• MEHRSHAD •°
     location: "India"
-    followers: 28561
-    engagement: 231
-    commentsToLikes: 0.007300
-    id: ck5zr6ye6w0zr0i14m0ne2jkk
+    followers: 5358
+    engagement: 689
+    commentsToLikes: 0.147308
+    id: ck9wi7y9f14ce0j781jacpk6g
     verified: false
-    hashtags: "#osterpro, #barbershop, #barberlife, #milano"
-  - username: "vijay7__"
+    hashtags: "#photosh, #instadaily, #personaltrainer, #hadaf"
+  - username: "safu_ny_"
     fullname: >-
-      Vijay Venkatesan
+      Pottan❤️
     location: "India"
-    followers: 5656
-    engagement: 1740
-    commentsToLikes: 0.051456
-    id: ck15r0q185k8z0i19sobohtb0
+    followers: 3722
+    engagement: 3898
+    commentsToLikes: 0.175255
+    id: ck9wi281a0idm0j78gqstbcj4
     verified: false
-    hashtags: "#piriyadhavaramvendum, #happysankranthi, #butabomma, #launchofaurahhyundai"
-  - username: "moses_siya"
+    hashtags: "#quoteoftheday, #arms, #neck, #blonde"
+  - username: "anaskhan_87"
     fullname: >-
-      (MJS Official)Pilot, KTM biker
+      Anas khan ♔
     location: "India"
-    followers: 63025
-    engagement: 753
-    commentsToLikes: 0.041777
-    id: ck5hozvffqinr0i11n1tfrg5r
+    followers: 26711
+    engagement: 1239
+    commentsToLikes: 0.025863
+    id: ckap2kvunza3b0i78puqcoi26
     verified: false
-    hashtags: "#couplesgoals, #bethelight, #kodaikanal, #google"
-  - username: "neeru_starlet"
-    fullname: >-
-      Neeru
-    location: "India"
-    followers: 99914
-    engagement: 400
-    commentsToLikes: 0.030907
-    id: ck8td56zo1xbb0j78lahr9yqu
-    verified: false
-    hashtags: "#antiquesforsale, #fade, #style, #sheinofficial"
-  - username: "anshitkhandelwwal_official"
-    fullname: >-
-      Anshit khandelwwal
-    location: "India"
-    followers: 11506
-    engagement: 2284
-    commentsToLikes: 0.013309
-    id: ck14jt3lgm1ne0i19ue46gur5
-    verified: false
-    hashtags: "#honour, #stayhome, #stayfit, #quarantine"
+    hashtags: "#modeling, #barber, #mensweardaily, #fashionmodel"
   - username: "classssy_vogue"
     fullname: >-
       𝐍𝐢𝐭𝐞𝐬𝐡 𝐘𝐚𝐝𝐮𝐯𝐚𝐧𝐬𝐡𝐢
     location: "India"
-    followers: 17377
-    engagement: 531
-    commentsToLikes: 0.210512
+    followers: 17730
+    engagement: 495
+    commentsToLikes: 0.497555
     id: ck5zvffw344rv0i148ny1m8im
     verified: false
-    hashtags: "#blogger, #casual, #woman, #stylish"
+    hashtags: "#boyfriend, #lovelife, #travel, #tiktokindia"
+  - username: "alokabhay"
+    fullname: >-
+      Abhay Alok | Men's fashion
+    location: "India"
+    followers: 18067
+    engagement: 472
+    commentsToLikes: 0.100163
+    id: ck0ty0xh1l56c0i19ggxb16hi
+    verified: false
+    hashtags: "#handmade, #deepavali, #boostyourimmune, #artist"
   - username: "__fotographer_kid"
     fullname: >-
       𝗔𝗹𝗲𝗻 𝗸𝘂𝗿𝗶𝗮𝗸𝗼𝘀𝗲
     location: "India"
-    followers: 3520
-    engagement: 2168
-    commentsToLikes: 0.087185
+    followers: 3738
+    engagement: 2428
+    commentsToLikes: 0.095831
     id: ck13bd85wuv9h0i199keq4vh2
     verified: false
-    hashtags: "#traveltheworld, #portrait, #lifeportraits, #facesobsessed"
-  - username: "alokabhay"
+    hashtags: "#hairpins, #instamodels, #swag, #hairart"
+  - username: "vishaloninsta"
     fullname: >-
-      ABHAY ALOK  | men's fashion
+      Vishal | Men's Fashion
     location: "India"
-    followers: 14668
-    engagement: 633
-    commentsToLikes: 0.078991
-    id: ck0ty0xh1l56c0i19ggxb16hi
+    followers: 3303
+    engagement: 2064
+    commentsToLikes: 0.054053
+    id: ck6uf6digv65y0j71xfd9y11f
     verified: false
-    hashtags: "#dress, #spirulinasmoothie, #fitnessfood, #happyyou15meday"
-  - username: "the.vogue.vanity"
+    hashtags: "#tailoredsuit, #colourvibes, #casualstyle, #casualoutfit"
+  - username: "alexanderjulian"
     fullname: >-
-      Daizy & Ankit
+      Alexander of Ọ̀nị̀chà
     location: "India"
-    followers: 155366
-    engagement: 524
-    commentsToLikes: 0.004472
-    id: ck0udcqgtir990i19x89x2x9u
+    followers: 17209
+    engagement: 894
+    commentsToLikes: 0.045910
+    id: ck0u6z3kb3dd80i19k8u3dkad
     verified: false
-    hashtags: "#getnattyinstore, #quarantine, #couplegoals, #indianfashion"
-  - username: "risha_niranjan"
+    hashtags: "#manaboutmoscow, #yearofreturn, #blackhistorymonth, #everybodyeats"
+  - username: "balakrish22"
     fullname: >-
-      Mayi.🌸 | Banglore Blogger
+      Balaji Murugadoss
     location: "India"
-    followers: 22178
-    engagement: 455
-    commentsToLikes: 0.030047
-    id: ck15qcjeb27640i19b0ocmirx
+    followers: 51567
+    engagement: 514
+    commentsToLikes: 0.012339
+    id: ck0w716txb8w40i19h20ztxjy
     verified: false
-    hashtags: "#giveaway, #music, #goals, #fitness"
+    hashtags: "#barbershop, #back, #healthyeating, #cleaneating"
+  - username: "anshitkhandelwwal_official"
+    fullname: >-
+      Anshit khandelwwal
+    location: "India"
+    followers: 11036
+    engagement: 1682
+    commentsToLikes: 0.017290
+    id: ck14jt3lgm1ne0i19ue46gur5
+    verified: false
+    hashtags: "#diwali, #free, #girl, #ownit"
 ---

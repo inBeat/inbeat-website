@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Singapore In 2020
 description: >-
-  Find top beauty Instagram influencers in Singapore in 2020. Most popular hashtags: #sp #sgig #pomelogirls #makeuptutorial.
+  Find top beauty Instagram influencers in Singapore in 2020. Most popular hashtags: #sgskincare #ootd #circuitbreaker #skincare.
 platform: Instagram
 profiles:
-  - username: "kaitinghearts"
+  - username: "lihuijapanlove"
     fullname: >-
-      Kaiting Cheng
+      Lihui利慧| Singapore新加坡🇸🇬
     location: "Singapore"
-    followers: 23892
-    engagement: 230
-    commentsToLikes: 0.053323
-    id: ck5hh8kxn6y4t0i11226wcjhx
+    followers: 31672
+    engagement: 462
+    commentsToLikes: 0.083305
+    id: ckaotr1v0x4230i78w5diw0tm
     verified: false
-    hashtags: "#sp, #bhgsg, #zoomzoom, #kentingseah"
+    hashtags: "#getskinhappy, #aveenobody, #cityhotpot, #choosehealthy"
+  - username: "tylomere"
+    fullname: >-
+      Tyler Koh 🌱
+    location: "Singapore"
+    followers: 19725
+    engagement: 686
+    commentsToLikes: 0.033101
+    id: ck5cgzj3apu9c0i11ascv8ghh
+    verified: false
+    hashtags: "#zalorasg, #thelittleprince, #mountbromo, #cottoncandyskies"
+  - username: "aimeechengbradshaw"
+    fullname: >-
+      Aimee Cheng-Bradshaw (程珮蕓)
+    location: "Singapore"
+    followers: 103365
+    engagement: 402
+    commentsToLikes: 0.023088
+    id: ck55jn7nsxd3r0i11s2wl5m3n
+    verified: true
+    hashtags: "#adidassg, #alphabounce, #ultraboost, #superdown"
   - username: "karishmajashani"
     fullname: >-
       Karishma
     location: "Singapore"
-    followers: 17427
-    engagement: 809
-    commentsToLikes: 0.054189
+    followers: 17682
+    engagement: 811
+    commentsToLikes: 0.051204
     id: ck15uiuqzne1u0i19vl98atrd
     verified: false
-    hashtags: "#sgnailsalon, #chantecaillesg, #colourpopsweettalk, #singaporemakeup"
+    hashtags: "#revolveme, #blowplusbar, #revolve, #superdownxdraya"
+  - username: "willamazing"
+    fullname: >-
+      Willabelle Ong
+    location: "Singapore"
+    followers: 177154
+    engagement: 185
+    commentsToLikes: 0.026983
+    id: ck0tzltfnqtab0i191gu9eaqt
+    verified: true
+    hashtags: "#burberrysg, #babydior, #celinesg, #veryversace"
   - username: "iamannlopez"
     fullname: >-
       𝒶𝓃𝓃 𝓁𝑜𝓅𝑒𝓏
     location: "Singapore"
-    followers: 6210
-    engagement: 652
-    commentsToLikes: 0.208553
+    followers: 6577
+    engagement: 682
+    commentsToLikes: 0.201004
     id: ck8t3u1fb4htp0j786z8ckad0
     verified: false
-    hashtags: "#jloxguess, #ikiunderscore, #asianbeautyx, #imsxabx"
-  - username: "mirchelley"
+    hashtags: "#saree, #ootn, #brownskin, #htvncares"
+  - username: "kaitinghearts"
     fullname: >-
-      MICHELLE 💚
+      Kaiting Cheng
     location: "Singapore"
-    followers: 151645
-    engagement: 125
-    commentsToLikes: 0.053196
-    id: ck5cl54biy9ly0i11lek7l1mf
+    followers: 23797
+    engagement: 237
+    commentsToLikes: 0.053338
+    id: ck5hh8kxn6y4t0i11226wcjhx
     verified: false
-    hashtags: "#barbiedoll, #happyilogirls, #pomelogirls, #barbie"
+    hashtags: "#sgbeauty, #sunscreen, #mediesthesg, #aquauvdaycream"
+  - username: "selmakeziaa"
+    fullname: >-
+      Kezia 🦄
+    location: "Singapore"
+    followers: 12045
+    engagement: 937
+    commentsToLikes: 0.017635
+    id: ck5hqiqett6fx0i11q9n0dfgw
+    verified: false
+    hashtags: "#dewycelcushion, #obatherbal, #sekarangmileasamatangolagi, #tangoxmilea"
   - username: "aylna"
     fullname: >-
       A Y L N A N E O
     location: "Singapore"
-    followers: 128152
-    engagement: 99
-    commentsToLikes: 0.016149
+    followers: 126697
+    engagement: 81
+    commentsToLikes: 0.038185
     id: ck6uc32o5d7q50j711pxlnqp3
     verified: false
-    hashtags: "#nogapsleftbehind, #onlinetechshow2020, #vaselinesg, #citigems"
-  - username: "rachwsj"
+    hashtags: "#kinohimitsusg, #shopeesg, #circuitbreaker, #catfish"
+  - username: "mandyymiz"
     fullname: >-
-      RACHEL ALEXA WONG | 黄诗珺
+      Mandy 陈佩思
     location: "Singapore"
-    followers: 24444
-    engagement: 259
-    commentsToLikes: 0.013785
-    id: ck6u86uw9prxs0j71n1g2peeq
+    followers: 17921
+    engagement: 240
+    commentsToLikes: 0.137471
+    id: ck6ub2wfo75k00j717ugsbqq8
     verified: false
-    hashtags: "#hydroboost, #pomelogirls, #purpursg, #getskinhappy"
-  - username: "aimeechengbradshaw"
-    fullname: >-
-      Aimee Cheng-Bradshaw 程珮蕓
-    location: "Singapore"
-    followers: 94304
-    engagement: 211
-    commentsToLikes: 0.018183
-    id: ck55jn7nsxd3r0i11s2wl5m3n
-    verified: true
-    hashtags: "#inbloom, #adidassg, #charleskeithofficial, #gentlemonster"
-  - username: "nishakumarofficial"
-    fullname: >-
-      Nisha Satyamorthi
-    location: "Singapore"
-    followers: 29335
-    engagement: 263
-    commentsToLikes: 0.010258
-    id: ck6ub2r1474pk0j71be3pm4x7
-    verified: false
-    hashtags: "#skincarereviews, #tagstagram, #skincarejourney, #dressupgame"
-  - username: "so.gelly"
-    fullname: >-
-      GELLY-
-    location: "Singapore"
-    followers: 20477
-    engagement: 392
-    commentsToLikes: 0.056732
-    id: ck6ugwgch5ksw0j71z4lz5sj8
-    verified: false
-    hashtags: "#cafeaesthetics, #cavemen, #vscosg, #visitjapanjp"
-  - username: "ampliobeauty_by_nmita"
-    fullname: >-
-      Nmita Doak
-    location: "Singapore"
-    followers: 15795
-    engagement: 100
-    commentsToLikes: 0.119196
-    id: ck5q80p9j3xjz0i11su471e6b
-    verified: false
-    hashtags: "#dubaiglutenfree, #indianfashion, #lipliner, #singaporestyle"
+    hashtags: "#exploresg, #bodycondress, #sgreview, #beautyblog"
 ---

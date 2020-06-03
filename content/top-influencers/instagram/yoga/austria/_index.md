@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Austria In 2020
 description: >-
-  Find top yoga Instagram influencers in Austria in 2020. Most popular hashtags: #yoga #yogainspiration #yogapractice #wirbleibenzuhause.
+  Find top yoga Instagram influencers in Austria in 2020. Most popular hashtags: #yogalove #yogaeverywhere #yogi #yogainspiration.
 platform: Instagram
 profiles:
   - username: "yoga_lanie"
     fullname: >-
       Yoga - Lanie
     location: "Austria"
-    followers: 3077
-    engagement: 4848
-    commentsToLikes: 0.284632
+    followers: 3392
+    engagement: 4741
+    commentsToLikes: 0.281057
     id: ck5zofvkpqh5h0i14f56w5txw
     verified: false
-    hashtags: "#yogamitmady, #forsthofalm, #split, #yogagirl"
+    hashtags: "#yogalove, #yogabeginner, #yogapractice, #split"
+  - username: "carmen__ferraro__"
+    fullname: >-
+      Carmen Ferraro
+    location: "Austria"
+    followers: 2807
+    engagement: 1525
+    commentsToLikes: 0.158940
+    id: ckap9sxwttj440i78lpk4u6ct
+    verified: false
+    hashtags: "#yogaconference, #yogaeurope, #warrior3, #yogaaustria"
   - username: "marcelclementiyoga"
     fullname: >-
       MARCEL CLEMENTI
     location: "Austria"
-    followers: 54216
-    engagement: 336
-    commentsToLikes: 0.043328
+    followers: 55341
+    engagement: 331
+    commentsToLikes: 0.044083
     id: ck14i7pxie23q0i19xd2ysa1d
     verified: false
-    hashtags: ""
+    hashtags: "#yogavibes, #yogaeveryday, #yogajourney, #yogaeverywhere"
+  - username: "nathalieshanti"
+    fullname: >-
+      N A T H A L I E🔸Yoga Tutorials
+    location: "Austria"
+    followers: 20499
+    engagement: 1029
+    commentsToLikes: 0.106203
+    id: ck8tcndc300ns0j78y9ktrlq9
+    verified: false
+    hashtags: "#yoga, #yogaforbackpain, #quotestoliveby, #headstandtips"
+  - username: "elisasophiayoga"
+    fullname: >-
+      𝗘𝗟𝗜𝗦𝗔 𝗦𝗢𝗣𝗛𝗜𝗔 𝗬𝗢𝗚𝗔
+    location: "Austria"
+    followers: 15611
+    engagement: 506
+    commentsToLikes: 0.047585
+    id: ckaotk4oowa480i78x4df4njz
+    verified: false
+    hashtags: "#onlineyoga, #betruetoyou, #happyvalentine, #behumble"
   - username: "leonie_rachel"
     fullname: >-
       Leonie-Rachel | Self Love Blog
     location: "Austria"
-    followers: 26568
-    engagement: 190
-    commentsToLikes: 0.069682
+    followers: 28069
+    engagement: 259
+    commentsToLikes: 0.042147
     id: ck5hfpkufyo0o0i11y78hoxge
     verified: false
-    hashtags: "#narzisstischermissbrauch, #calmnessofmind, #yogajourney, #dogsofinstagram"
-  - username: "zgung"
+    hashtags: "#nachhaltig, #wasistdadennlos, #bridetobe, #nachhaltigleben"
+  - username: "kerstinloves"
     fullname: >-
-      Lenka Minarik 🧘‍♀️🐈
+      Kerstin | Yoga & Selflove
     location: "Austria"
-    followers: 105573
-    engagement: 196
-    commentsToLikes: 0.023282
-    id: ck5q6bb9mwpde0i11cbsfnfff
+    followers: 30523
+    engagement: 534
+    commentsToLikes: 0.041301
+    id: ck55o8kx67uqp0i11hawv138s
     verified: false
-    hashtags: "#yogimoves, #backbends, #yogaflow, #upwardbowpose"
-  - username: "isytravelyogi"
-    fullname: >-
-      ISY ✈︎ 💜Travelblogger|🇩🇪
-    location: "Austria"
-    followers: 13240
-    engagement: 580
-    commentsToLikes: 0.156069
-    id: ck8szqt2ypde10j78rhqzcni5
-    verified: false
-    hashtags: "#globetrotter, #dronephotography, #theworldisbeautiful, #yucatanmexico"
+    hashtags: "#weekendmode, #youcandoit, #yogalove, #lebengenie"
   - username: "nataliealisonofficial"
     fullname: >-
       Natalie Alison
     location: "Austria"
-    followers: 6436
-    engagement: 376
-    commentsToLikes: 0.042395
+    followers: 6518
+    engagement: 358
+    commentsToLikes: 0.050691
     id: ck14j1c4qi4vm0i19qgspl9q2
     verified: false
-    hashtags: "#santamonica, #wirbleibenzuhause, #toypoodle, #fun"
-  - username: "rebeccachelbea"
+    hashtags: "#stayhealthy, #travel, #dancer, #osterhase"
+  - username: "poschstyle"
     fullname: >-
-      ⋒ Conscious Content Creator ⋒
+      Poschstyle
     location: "Austria"
-    followers: 25972
-    engagement: 1077
-    commentsToLikes: 0.037364
-    id: ck6tu7briepxl0j719z690fyo
+    followers: 23471
+    engagement: 274
+    commentsToLikes: 0.016747
+    id: ckaorrayzoe960i781ef6cf0t
     verified: false
-    hashtags: "#balidaily, #coronavirus, #nachhaltigleben, #vanlifers"
-  - username: "dielaulis"
+    hashtags: "#dior, #action, #anna, #trend"
+  - username: "yogaandjuliet"
     fullname: >-
-      Lisa & Laurin
+      yogaandjuliet
     location: "Austria"
-    followers: 12726
-    engagement: 601
-    commentsToLikes: 0.066366
-    id: ck5zxmy0s8b5g0i14n4lhksd4
+    followers: 19470
+    engagement: 283
+    commentsToLikes: 0.032033
+    id: ck0vvu0puqrlk0i197i1j4wcg
     verified: false
-    hashtags: "#babypflege, #liebe, #heilung, #magic"
-  - username: "23timezones"
-    fullname: >-
-      FAMILY • TRAVEL • HAPPINESS
-    location: "Austria"
-    followers: 19894
-    engagement: 301
-    commentsToLikes: 0.066734
-    id: ck5zvpycn4p8s0i14iommbb4m
-    verified: false
-    hashtags: "#instadaily, #dogfitness, #instapassport, #igtravel"
-  - username: "michellestaudenherz"
-    fullname: >-
-      𝑀𝒾𝒸𝒽𝑒𝓁𝓁𝑒 ☼
-    location: "Austria"
-    followers: 15755
-    engagement: 669
-    commentsToLikes: 0.169150
-    id: ck136krb56zkx0i1909lteccd
-    verified: false
-    hashtags: "#onziegear, #inflexibleyogis, #yogaliebe, #blackrollathome"
+    hashtags: "#urlaubdaheim, #turtle, #augarten, #newmoonyoga"
 ---

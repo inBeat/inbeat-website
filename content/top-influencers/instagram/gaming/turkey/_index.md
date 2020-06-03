@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Turkey In 2020
 description: >-
-  Find top gaming Instagram influencers in Turkey in 2020. Most popular hashtags: #gaming #gamer #evdekal #photography.
+  Find top gaming Instagram influencers in Turkey in 2020. Most popular hashtags: #gaming #evdekal #japan #stayhome.
 platform: Instagram
 profiles:
-  - username: "deputyaruuu"
+  - username: "cosplay_mila"
     fullname: >-
-      ARUUU 狼
+      Almila Kekeç
     location: "Turkey"
-    followers: 31768
-    engagement: 1151
-    commentsToLikes: 0.012423
-    id: ck0vvt8y5qnuc0i19p4prt3f4
+    followers: 5089
+    engagement: 1692
+    commentsToLikes: 0.062294
+    id: ckaoyjqilhren0i78eowzieog
     verified: false
-    hashtags: "#horror, #expresslife, #sponsored, #callofdutymodernwarfare"
+    hashtags: "#cute, #birdsofpreywig, #gamecosplay, #swimsuitdva"
   - username: "mustafak"
     fullname: >-
       Mustafa Ak
     location: "Turkey"
-    followers: 254731
-    engagement: 806
-    commentsToLikes: 0.025894
+    followers: 253950
+    engagement: 813
+    commentsToLikes: 0.027256
     id: ck0txr86tk8fm0i19iqkl2qdj
     verified: true
-    hashtags: "#10kas, #hepyenikafalar, #csgo, #pillowchallenge"
-  - username: "dadokurdish"
+    hashtags: "#10kas, #14, #evdekal, #pillowchallenge"
+  - username: "ibrahimkuzucuofficial"
     fullname: >-
-      👑SHERE~KURDA👑
+      İbrahim Kuzucu
     location: "Turkey"
-    followers: 50460
-    engagement: 684
-    commentsToLikes: 0.028507
-    id: ck14lb45qtrhn0i19m953vhnq
+    followers: 9805
+    engagement: 1049
+    commentsToLikes: 0.011948
+    id: ck8t5qlo6awfh0j78b7qhwgru
     verified: false
-    hashtags: "#pubgfunnymoments, #pubgwtf, #rockstareditor, #fortnite"
+    hashtags: "#iseeyou, #adorable, #tatli, #swag"
   - username: "gizemmmblogg"
     fullname: >-
       H O M E B L O G I Z E M
     location: "Turkey"
-    followers: 7740
-    engagement: 1104
-    commentsToLikes: 0.064670
+    followers: 15471
+    engagement: 547
+    commentsToLikes: 0.045103
     id: ck8td4lko1uiz0j78ec0vfash
     verified: false
-    hashtags: "#gaming, #ortak, #gri, #evdekorasyonu"
-  - username: "yigitdoluyt"
+    hashtags: "#yaprakf, #sufle, #gaming, #enjoy"
+  - username: "risingamers"
     fullname: >-
-      Yiğit Dolu 👻
+      Rising Gamers
     location: "Turkey"
-    followers: 32736
-    engagement: 397
-    commentsToLikes: 0.119882
-    id: ck0vyukbx5ugi0i19gzyhap3i
+    followers: 13538
+    engagement: 1662
+    commentsToLikes: 0.059127
+    id: ckaoxl2n7dqcw0i780u6y6ffg
     verified: false
-    hashtags: "#counterstrike, #zulagalaksisi, #yi, #csgoturkiye"
-  - username: "carblogturkiye"
+    hashtags: "#epicgamest, #minecrafters, #minecraftonly, #mitchbruzzese"
+  - username: "enginozdemir0"
     fullname: >-
-      CarBlogTurkiye
+      Engin Özdemir
     location: "Turkey"
-    followers: 196872
-    engagement: 161
-    commentsToLikes: 0.012846
-    id: ck5zyqo30acny0i1438ts5wnn
+    followers: 14967
+    engagement: 456
+    commentsToLikes: 0.043233
+    id: ck8t963tln0ae0j7891xxfl7g
     verified: false
-    hashtags: "#bmw, #velvet, #bmw8, #carporn"
-  - username: "tech_raptor"
+    hashtags: "#extremesports, #ekstremsporlar, #video, #funnyvideos"
+  - username: "gamezzersturkey"
     fullname: >-
-      Tech Raptor 🦖™
+      ɢᴀᴍᴇᴢᴢᴇʀs ᴛᴜʀᴋᴇʏ
     location: "Turkey"
-    followers: 163264
-    engagement: 308
-    commentsToLikes: 0.014524
-    id: ck6tuwx5sivyr0j71dhiya912
+    followers: 185794
+    engagement: 218
+    commentsToLikes: 0.125360
+    id: ck8tb8dtrup8v0j78gtfd312v
     verified: false
-    hashtags: "#gamerforlife, #gamer, #gamingpc, #pcmasterrace"
-  - username: "73x5"
+    hashtags: "#csgotr, #evdekal, #codmw, #forzahorizon"
+  - username: "bidolucizgi"
     fullname: >-
-      73x5™
+      Bi Dolu Çizgi
     location: "Turkey"
-    followers: 23427
-    engagement: 266
-    commentsToLikes: 0.007502
-    id: ck6uhr50ear7v0j71fp54detu
+    followers: 26108
+    engagement: 1437
+    commentsToLikes: 0.011030
+    id: ck8t95ibrmydn0j78ibwri9ly
     verified: false
-    hashtags: "#corona, #mural, #stf459, #cinematic"
-  - username: "hell_raton"
+    hashtags: "#cartoon, #iftar, #steam, #korona"
+  - username: "muhammet.zeliha_2016"
     fullname: >-
-      Manuelito
+      
     location: "Turkey"
-    followers: 128868
-    engagement: 1730
-    commentsToLikes: 0.008690
-    id: ck0vwd33at5jg0i193efafpv6
-    verified: true
-    hashtags: ""
-  - username: "brawlstarstrr"
-    fullname: >-
-      Brawl Stars Türkiye (38,4B)
-    location: "Turkey"
-    followers: 38490
-    engagement: 416
-    commentsToLikes: 0.072327
-    id: ck8t173cmunk60j78ckxvaclb
+    followers: 9336
+    engagement: 641
+    commentsToLikes: 0.258615
+    id: ck8t2fwzczc890j78jxwmx11a
     verified: false
-    hashtags: "#clashroyale, #brawlstars, #brawltvturkey, #brawlstarstvturkiye"
+    hashtags: "#live, #kayd, #kesfetten, #catsofinstagram"
+  - username: "midyat_burada47"
+    fullname: >-
+      Midyat Tanıtım Platformu
+    location: "Turkey"
+    followers: 11194
+    engagement: 553
+    commentsToLikes: 0.020337
+    id: ck8tc4b7oy8g10j782o4t6my9
+    verified: false
+    hashtags: "#instafood, #amigurumi, #latepost, #roses"
 ---

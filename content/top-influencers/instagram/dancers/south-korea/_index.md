@@ -1,107 +1,107 @@
 ---
 title: Top 10 Dancers Instagram Influencers In South Korea In 2020
 description: >-
-  Find top dancers Instagram influencers in South Korea in 2020. Most popular hashtags: #bts #kpop #dance #korean.
+  Find top dancers Instagram influencers in South Korea in 2020. Most popular hashtags: #dance #halloween #ygx #kpopdancecover.
 platform: Instagram
 profiles:
-  - username: "young_cho_i"
-    fullname: >-
-      최 영 🇰🇷  Choi Young
-    location: "South Korea"
-    followers: 26432
-    engagement: 2667
-    commentsToLikes: 0.007403
-    id: ck8ta8b1dqtms0j78xrwavi5g
-    verified: false
-    hashtags: "#halseyedit, #havanaclub, #yeji, #kpopstyle"
   - username: "mellinao"
     fullname: >-
       Melina || 멜리나
     location: "South Korea"
-    followers: 10756
-    engagement: 1518
-    commentsToLikes: 0.091179
+    followers: 10665
+    engagement: 1548
+    commentsToLikes: 0.090284
     id: ck5pw4fd1l1st0i11jge11c6s
     verified: false
-    hashtags: "#blackpinkkillthislove, #lisa, #jennie, #kcommunityfestival"
-  - username: "rhearaj"
-    fullname: >-
-      RHEA RAJ 🧞‍♀️
-    location: "South Korea"
-    followers: 11091
-    engagement: 670
-    commentsToLikes: 0.127833
-    id: ck6uda52pjxan0j71mk8mq22r
-    verified: true
-    hashtags: ""
-  - username: "jiminize.d"
-    fullname: >-
-      BTS JIMIN🐣
-    location: "South Korea"
-    followers: 89120
-    engagement: 567
-    commentsToLikes: 0.022637
-    id: ck8swp8w6esbj0j78622z3ca7
-    verified: false
-    hashtags: "#junghoseok, #btsjungkook, #bangtan, #taehyung"
+    hashtags: "#dancecover, #kpopdance, #chunghasnapping, #11hbi"
   - username: "insunlee_"
     fullname: >-
       이인선 (insun lee)
     location: "South Korea"
-    followers: 7328
-    engagement: 2308
-    commentsToLikes: 0.023667
+    followers: 7193
+    engagement: 2274
+    commentsToLikes: 0.025685
     id: ck5ch1ae0px2t0i11h8rbet50
     verified: false
-    hashtags: "#kualalumpur, #coloronme, #bboy, #thailand"
-  - username: "yoon6photo"
+    hashtags: "#thailand, #coloronme, #1001101, #kualalumpur"
+  - username: "seung_bi_ahn"
     fullname: >-
-      Yoon6photo | Balletphotography
+      안승비/Seungbi Ahn
     location: "South Korea"
-    followers: 22493
-    engagement: 967
-    commentsToLikes: 0.018302
-    id: ck1394q2kjii60i19elcimtmc
+    followers: 24016
+    engagement: 333
+    commentsToLikes: 0.086355
+    id: ck13acxmiprnw0i19akd2ujc6
     verified: false
-    hashtags: "#bloom, #sangeunlee, #yoon6photo"
+    hashtags: "#blackyakkids, #kbeauty, #instamakeup, #11"
+  - username: "chungjaeeeeee"
+    fullname: >-
+      유충재 Crown
+    location: "South Korea"
+    followers: 35024
+    engagement: 890
+    commentsToLikes: 0.013513
+    id: ck0w00l10bspy0i19vz235sc1
+    verified: false
+    hashtags: "#viini, #lovethemoon, #onesater, #comearoundme"
   - username: "immeari"
     fullname: >-
       Natalia
     location: "South Korea"
-    followers: 7457
-    engagement: 2858
-    commentsToLikes: 0.020682
+    followers: 7653
+    engagement: 2540
+    commentsToLikes: 0.017816
     id: ck15rvvn69z4u0i19ugfth33v
     verified: false
-    hashtags: "#girl, #cornelia, #nierautomata2b, #pga"
-  - username: "yeshaesunglee"
+    hashtags: "#yumekojabami, #animecosplay, #like, #lacasadepapel"
+  - username: "yoon6photo"
     fullname: >-
-      Haesung Lee (이해성)
+      Yoon6photo | Photographer
     location: "South Korea"
-    followers: 17494
-    engagement: 1189
-    commentsToLikes: 0.013932
-    id: ck5hiz4u1fq090i11k6btiqiz
+    followers: 22400
+    engagement: 873
+    commentsToLikes: 0.023347
+    id: ck1394q2kjii60i19elcimtmc
     verified: false
-    hashtags: "#cyan, #kangdaniel, #2020, #calvinklein"
+    hashtags: "#bloom, #sangeunlee, #yoon6photo"
+  - username: "d2nasoaring"
+    fullname: >-
+      Dina 디나 Mujanović
+    location: "South Korea"
+    followers: 8059
+    engagement: 1278
+    commentsToLikes: 0.059152
+    id: ck6tvpzpwnm7r0j718srk9qrl
+    verified: false
+    hashtags: "#artbackground, #beachyoga, #fairylights, #honey"
+  - username: "ryeon89"
+    fullname: >-
+      오 혜 련 (RYEON)
+    location: "South Korea"
+    followers: 145701
+    engagement: 685
+    commentsToLikes: 0.005311
+    id: ck5qcmmacrb4g0i112t0nygp4
+    verified: false
+    hashtags: "#dive, #boyfriend, #jlochallenge, #dojacat"
   - username: "przemyslawkrompiec"
     fullname: >-
       Przem | Polche | 프셰므스와브 | 폴최
     location: "South Korea"
-    followers: 26203
-    engagement: 289
-    commentsToLikes: 0.046196
+    followers: 25914
+    engagement: 298
+    commentsToLikes: 0.045203
     id: ck6u852crphei0j71a818x2qz
     verified: false
-    hashtags: "#mymomsays, #seoul, #polche, #bijongsang"
-  - username: "hyeonseeeok_"
+    hashtags: "#foodstagram, #polishfood, #ihatesuits, #mymomsays"
+  - username: "stellakim516"
     fullname: >-
-      송현석 (Theo Song)🇰🇷
+      Stella kim 스텔라🌟김가람
     location: "South Korea"
-    followers: 16487
-    engagement: 614
-    commentsToLikes: 0.023486
-    id: ck5zr9o8fw5zl0i14sqo6tsuy
+    followers: 11994
+    engagement: 732
+    commentsToLikes: 0.034791
+    id: ck6u7g21zlat80j71nan7e2jc
     verified: false
-    hashtags: "#netflix, #staysafe, #tb, #saturday"
+    hashtags: "#adrianalicea, #pier59studios, #nyfw20, #nyfw2020fw"
 ---

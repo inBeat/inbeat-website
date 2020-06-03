@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Australia In 2020
 description: >-
-  Find top wellness Instagram influencers in Australia in 2020. Most popular hashtags: #wellness #healthandwellness #australia #foodfriday.
+  Find top wellness Instagram influencers in Australia in 2020. Most popular hashtags: #australia #stayhome #covid19 #love.
 platform: Instagram
 profiles:
   - username: "nataliaancora"
     fullname: >-
       🇦🇺🇵🇱 Natalia ✖️ Australia, GC
     location: "Australia"
-    followers: 59993
-    engagement: 216
-    commentsToLikes: 0.108941
+    followers: 59953
+    engagement: 212
+    commentsToLikes: 0.111265
     id: ck5himf0ee9u00i11hp6tjznj
     verified: false
-    hashtags: "#wiwtoday, #venicebeachboardwalk, #styleoftheday, #beautifuldestinations"
+    hashtags: "#travellinggram, #happyliving, #silajestkobieta, #quotesoflife"
+  - username: "meaganrothh"
+    fullname: >-
+      𝕸𝖊𝖆𝖌𝖘 🌶
+    location: "Australia"
+    followers: 5031
+    engagement: 670
+    commentsToLikes: 0.457634
+    id: ckapa4t0tupjx0i781l43z64d
+    verified: false
+    hashtags: ""
   - username: "bazaarmumma"
     fullname: >-
       KIRI VASALES
     location: "Australia"
-    followers: 26124
-    engagement: 176
-    commentsToLikes: 0.086550
+    followers: 25924
+    engagement: 163
+    commentsToLikes: 0.078701
     id: ck0w6as7u7oh70i1900nu439n
     verified: false
-    hashtags: "#gigi, #virtualvacay, #jockey, #celebratingwomen"
+    hashtags: "#tiktokrookie, #welcometotheparentclub, #inthistogether, #bereavedmothersday"
   - username: "calebjudepackhamyoga"
     fullname: >-
       THE WELLNESS WARRIOR
     location: "Australia"
-    followers: 30360
-    engagement: 415
-    commentsToLikes: 0.030442
+    followers: 31995
+    engagement: 429
+    commentsToLikes: 0.030527
     id: ck8sztxi2pp370j78v2szapb6
     verified: false
-    hashtags: "#sattvayoga, #yogapose, #wellness, #mindfulness"
+    hashtags: "#covid19, #upwardfacingdog, #bestof2019, #kundaliniyoga"
+  - username: "rayneembley"
+    fullname: >-
+      RAYNE (Bryant)
+    location: "Australia"
+    followers: 26037
+    engagement: 142
+    commentsToLikes: 0.069008
+    id: ck5c0saqatras0i114hnbz1md
+    verified: false
+    hashtags: "#mentalhealth, #covidcooking, #athomewithchef, #isolife"
   - username: "kim_kine"
     fullname: >-
-      KIM ❣️ LIFESTYLE & COSPLAY
+      KIM KINE 🌱 Health & Wellness
     location: "Australia"
-    followers: 25081
-    engagement: 382
-    commentsToLikes: 0.153447
+    followers: 25276
+    engagement: 374
+    commentsToLikes: 0.164670
     id: ck6u66xpmdvd00j71iuzx91jz
     verified: false
-    hashtags: "#flattenthecurve, #hapakristin, #makesustainabilitysexy, #mapiful"
-  - username: "georgiagibbs_"
+    hashtags: "#makesustainabilitysexy, #wolvenchallenge, #maythefourthbewithyou, #tonguescraper"
+  - username: "pennylaneisthename"
     fullname: >-
-      Georgia Mae Gibbs
+      𝐏 𝐄 𝐍 𝐍 𝐘   𝐋 𝐀 𝐍 𝐄
     location: "Australia"
-    followers: 726389
-    engagement: 244
-    commentsToLikes: 0.011264
-    id: ck0tzxln2rvr70i1984xxfswg
-    verified: true
-    hashtags: "#chooselove, #ithinkican, #westernaustralia, #australianwildlife"
-  - username: "damiencook91"
+    followers: 59133
+    engagement: 429
+    commentsToLikes: 0.016966
+    id: ck6tkl14a4wzk0j715csb0cki
+    verified: false
+    hashtags: "#stormdennis, #happyvalentinesday, #tate, #reflexology"
+  - username: "elliejbrooksss"
     fullname: >-
-      Damien Cook
+      EL🌺
     location: "Australia"
-    followers: 66606
-    engagement: 767
-    commentsToLikes: 0.010006
-    id: ck5qbsq2en84v0i118c8ja4el
-    verified: true
-    hashtags: "#staysafe, #hometeam, #codmobileanz, #phew"
+    followers: 48716
+    engagement: 265
+    commentsToLikes: 0.013256
+    id: ck15pgc74xqk10i19eqqddd4u
+    verified: false
+    hashtags: "#earthdayeveryday, #covid, #frolicking, #iso"
+  - username: "taniadalton"
+    fullname: >-
+      Tania Dalton
+    location: "Australia"
+    followers: 41718
+    engagement: 266
+    commentsToLikes: 0.093841
+    id: ck8t0il31s6jg0j78me43d6mp
+    verified: false
+    hashtags: "#takemeback, #needvitaminsea, #healthyover50, #50plusandfabulous"
   - username: "bonnee_fahlstrom"
     fullname: >-
-      BONNEE
+      🤍BONNEE 🤍
     location: "Australia"
-    followers: 142215
-    engagement: 87
-    commentsToLikes: 0.092271
+    followers: 141322
+    engagement: 53
+    commentsToLikes: 0.054501
     id: ck15q4iox125y0i19zpqujypm
     verified: false
-    hashtags: "#bonneepartner, #internationalwomensday, #wanderlust, #melbournephotographer"
-  - username: "deanogladstone"
-    fullname: >-
-      Dean Gladstone
-    location: "Australia"
-    followers: 45362
-    engagement: 324
-    commentsToLikes: 0.020260
-    id: ck6u1856ok67e0j71jmoce5yt
-    verified: false
-    hashtags: "#drowning, #physio, #wimhof, #healing"
-  - username: "littlekalegirl"
-    fullname: >-
-      by Dasha
-    location: "Australia"
-    followers: 60956
-    engagement: 468
-    commentsToLikes: 0.077401
-    id: ck0vwfjshtg590i19hhajdh3j
-    verified: false
-    hashtags: "#detoxrecipes, #weekendmood, #valentinesday, #lawschool"
-  - username: "leahkirchmann"
-    fullname: >-
-      Leah Kirchmann
-    location: "Australia"
-    followers: 9454
-    engagement: 547
-    commentsToLikes: 0.016294
-    id: ck5pvov1iix860i115ncibrwa
-    verified: true
-    hashtags: "#dreambig, #newzealand, #adelaide, #cycling"
+    hashtags: "#melbournemodel, #covid19, #stayhome, #australianart"
 ---

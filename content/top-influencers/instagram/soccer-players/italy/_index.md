@@ -1,107 +1,107 @@
 ---
 title: Top 10 Soccer-Players Instagram Influencers In Italy In 2020
 description: >-
-  Find top soccer-players Instagram influencers in Italy in 2020. Most popular hashtags: #football #calcio #soccer #inter.
+  Find top soccer-players Instagram influencers in Italy in 2020. Most popular hashtags: #soccer #friends #calcio #workout.
 platform: Instagram
 profiles:
-  - username: "fede_greg"
-    fullname: >-
-      Federico Gregucci
-    location: "Italy"
-    followers: 673709
-    engagement: 966
-    commentsToLikes: 0.003653
-    id: ck8t3mxp13rsh0j780mfo1ckh
-    verified: true
-    hashtags: "#home, #life, #italia, #festadelpapap"
-  - username: "elibartoli13"
-    fullname: >-
-      Elisa Bartoli
-    location: "Italy"
-    followers: 34617
-    engagement: 525
-    commentsToLikes: 0.012222
-    id: ck5pyo0whwyak0i113wkpmxk4
-    verified: true
-    hashtags: "#erbestia, #forza, #distantimauniti, #sorrisoni"
   - username: "nirkiopgabriele"
     fullname: >-
       Gabriele Boscaino
     location: "Italy"
-    followers: 126480
-    engagement: 536
-    commentsToLikes: 0.005667
+    followers: 126077
+    engagement: 606
+    commentsToLikes: 0.006051
     id: ck55oidhp8eqx0i114vqiwayk
     verified: true
-    hashtags: "#video, #sushi, #iorestoacasa, #playstation"
+    hashtags: "#mongolfiera, #fitness, #travel, #stayhome"
+  - username: "elibartoli13"
+    fullname: >-
+      Elisa Bartoli
+    location: "Italy"
+    followers: 35255
+    engagement: 419
+    commentsToLikes: 0.011037
+    id: ck5pyo0whwyak0i113wkpmxk4
+    verified: true
+    hashtags: "#tiamo, #nairobilacasadepapel, #ultimo, #officialasroma"
   - username: "deborahsalvatoririnaldi"
     fullname: >-
       Deborah S.Rinaldi ☀️
     location: "Italy"
-    followers: 19168
-    engagement: 525
-    commentsToLikes: 0.014854
+    followers: 19610
+    engagement: 433
+    commentsToLikes: 0.014575
     id: ck5bzndglrhgc0i11aayz9ziz
     verified: true
-    hashtags: "#amoremio, #corestability, #sempremilan, #coppaitalia"
-  - username: "freekickcourier"
+    hashtags: "#stories, #mymoment, #mylife, #puntalsole"
+  - username: "sergiocontessa23"
     fullname: >-
-      Freekicks | Freekick | Footbal
+      Sergio Contessa
     location: "Italy"
-    followers: 82468
-    engagement: 1924
-    commentsToLikes: 0.027876
-    id: ck15sgfktcvbs0i19bs7w21og
+    followers: 9177
+    engagement: 509
+    commentsToLikes: 0.025221
+    id: ck9weixwjkh720j78nyuj493t
     verified: false
-    hashtags: "#footballgoals, #soccergirl, #cristiano, #portugal"
+    hashtags: "#waves, #sports, #calabria, #soccerteam"
   - username: "an_bard"
     fullname: >-
       Aɴᴅʀᴇᴀ Bᴀʀᴅᴇʟʟɪ
     location: "Italy"
-    followers: 11534
-    engagement: 716
-    commentsToLikes: 0.062294
+    followers: 11933
+    engagement: 715
+    commentsToLikes: 0.061653
     id: ck136w0n48iss0i19ulmtlc4h
     verified: false
-    hashtags: "#horsesofinsta, #statuesofinstagram, #urbexitaly, #dollsale"
-  - username: "nicolebonnie95"
+    hashtags: "#familieshoot, #littlegirl, #doorsondoors, #fantasycreature"
+  - username: "italianfootballtv"
     fullname: >-
-      𝘕𝘐𝘊𝘖𝘓𝘌 𝘉𝘖𝘕𝘕𝘐𝘌 🦋
+      Italian Football TV (IFTV)
     location: "Italy"
-    followers: 19883
-    engagement: 405
-    commentsToLikes: 0.022343
-    id: ck8t74c0mflpa0j780n15pkt1
+    followers: 92572
+    engagement: 388
+    commentsToLikes: 0.025304
+    id: ck5zpx199tiji0i14rd3lhsxg
     verified: false
-    hashtags: "#jladies, #soccergirls, #leonardobonucci, #calciofemminileitaliano"
-  - username: "lavecchiasignora.it"
+    hashtags: "#cr7, #ibrahimovic, #soccerplayers, #italy"
+  - username: "thecollageempire"
     fullname: >-
-      La Vecchia Signora
+      TheCollageEmpire
     location: "Italy"
-    followers: 7483
-    engagement: 713
-    commentsToLikes: 0.023930
-    id: ck8ta5o5oqitp0j78tt39k84p
+    followers: 244255
+    engagement: 179
+    commentsToLikes: 0.013015
+    id: ck5chq67mr97b0i11i7tqg736
     verified: false
-    hashtags: "#manchestercity, #berlin, #olimpico, #brasil"
-  - username: "mirkomengozzi"
+    hashtags: "#mechanism, #instagram, #cubism, #videoarte"
+  - username: "guido.nanni"
     fullname: >-
-      Mirko Mengozzi
+      Guido Nanni
     location: "Italy"
-    followers: 92555
-    engagement: 1655
-    commentsToLikes: 0.009232
-    id: ck0vwv5ymvr570i19ceaq76nw
+    followers: 6972
+    engagement: 504
+    commentsToLikes: 0.039774
+    id: ck5c7gshf7ia50i11pj1xka1r
     verified: false
-    hashtags: "#interfans, #interroma, #fans, #derby"
-  - username: "futuniverseofficial"
+    hashtags: "#footballmanager, #barcelona, #youngkeeper, #soccergirl"
+  - username: "djimsitiberat"
     fullname: >-
-      FUT Universe
+      Djimsiti Gjimshiti Berat
     location: "Italy"
-    followers: 75236
-    engagement: 654
-    commentsToLikes: 0.028668
-    id: ck0w1i5r6jgsh0i19ism61pua
+    followers: 63235
+    engagement: 826
+    commentsToLikes: 0.008544
+    id: ckaoz91e2kwl20i78avae9yof
     verified: false
-    hashtags: "#iconswaps3, #totw, #squadradellasettimana, #easportsfifa"
+    hashtags: "#xmas, #bd19, #27"
+  - username: "aliaguagni"
+    fullname: >-
+      Alia Guagni
+    location: "Italy"
+    followers: 68967
+    engagement: 601
+    commentsToLikes: 0.022804
+    id: ck55n80tn5nyk0i116a3fypfu
+    verified: true
+    hashtags: "#festadelpap, #sottosopra, #regali, #cambiamenti"
 ---

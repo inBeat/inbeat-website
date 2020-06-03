@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top christian Instagram influencers in Los Angeles in 2020. Most popular hashtags: #coronavirus #starrfucker #jeepgladiator #quarantine.
+  Find top christian Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #christian #love #music.
 platform: Instagram
 profiles:
-  - username: "kristianhaggerty"
+  - username: "geenafontanella"
     fullname: >-
-      KRISTIAN  HAGGERTY
+      G E E N A
     location: "United States"
-    followers: 192809
-    engagement: 1756
-    commentsToLikes: 0.010903
-    id: ck0vzc9nd8dv90i198sgr4laa
+    followers: 6493
+    engagement: 846
+    commentsToLikes: 0.066728
+    id: ck9wg0afyrbjb0j78wu05kwar
     verified: false
-    hashtags: "#thethingaboutharry, #dphuehouse, #springiscoming, #blessed"
-  - username: "jennifercallahan"
+    hashtags: "#trip, #darkpop, #pop, #tokyodrift"
+  - username: "deunivory"
     fullname: >-
-      Jennifer Callahan • love lulu
+      deun (dee • yawn) ivory
     location: "United States"
-    followers: 17954
-    engagement: 254
-    commentsToLikes: 0.083656
-    id: ck8swmlblejgs0j7839ebf2s4
+    followers: 70758
+    engagement: 442
+    commentsToLikes: 0.024554
+    id: ck0w5bddg2tn70i197lvpk2rp
     verified: false
-    hashtags: "#onthefrontlines, #quarantine, #socialdistancing, #ad"
+    hashtags: "#freepeople, #voguefeature, #linedrawing, #campustour"
+  - username: "_xristian8_"
+    fullname: >-
+      Christian Feliciano
+    location: "United States"
+    followers: 3313
+    engagement: 2111
+    commentsToLikes: 0.065118
+    id: ck5hruoflview0i11jik11sjw
+    verified: false
+    hashtags: "#legatorguitars, #djent, #aliencore, #slam"
   - username: "rynebelanger"
     fullname: >-
       Ryne Belanger
     location: "United States"
-    followers: 10257
-    engagement: 883
-    commentsToLikes: 0.028344
+    followers: 10240
+    engagement: 890
+    commentsToLikes: 0.028920
     id: ck0u2357cys9z0i19wohj3f93
     verified: false
     hashtags: "#luckytobealandry"
-  - username: "gilbits"
+  - username: "kristianhaggerty"
     fullname: >-
-      Gilbert Galon
+      KRISTIAN  HAGGERTY
     location: "United States"
-    followers: 20268
-    engagement: 671
-    commentsToLikes: 0.043534
-    id: ck5zpnqc3szzb0i14j4gzmia3
+    followers: 188948
+    engagement: 1518
+    commentsToLikes: 0.010375
+    id: ck0vzc9nd8dv90i198sgr4laa
     verified: false
-    hashtags: "#tokyo2020, #gold, #familystyle, #fatbert"
-  - username: "mizzk.o"
+    hashtags: "#hookedonhomechef, #thethingaboutharry, #dphuehouse, #springiscoming"
+  - username: "puerilemind"
     fullname: >-
-      Kendra “K.O” Oyesanya
+      Christian Smiley
     location: "United States"
-    followers: 265726
-    engagement: 394
-    commentsToLikes: 0.021012
-    id: ck0tvz2kqdewp0i19beribmi9
-    verified: true
-    hashtags: "#watchnow, #tiktok, #captainhook, #music"
-  - username: "instaworthyla"
-    fullname: >-
-      INSTAWORTHY LA 🏝🏄🏼‍♀️🌆
-    location: "United States"
-    followers: 32133
-    engagement: 274
-    commentsToLikes: 0.150031
-    id: ck6u9lz8oyady0j71om8o02bs
+    followers: 6973
+    engagement: 587
+    commentsToLikes: 0.052227
+    id: ckaoqlot1ja530i787cizclkm
     verified: false
-    hashtags: "#restaurant, #donuts, #tea, #hotandnewla"
+    hashtags: ""
   - username: "angelicagallegosmusica"
     fullname: >-
       Angelica Gallegos
     location: "United States"
-    followers: 26176
-    engagement: 398
-    commentsToLikes: 0.026219
+    followers: 26903
+    engagement: 355
+    commentsToLikes: 0.023056
     id: ck5qcnt0srh8a0i11c980niwz
     verified: false
-    hashtags: "#sitevas, #discoencamino, #novuelvas, #losmandados"
-  - username: "starrfuckermag"
+    hashtags: "#sitevas, #miprimeralbum, #chulaychingona, #mayo1"
+  - username: "jennifercallahan"
     fullname: >-
-      Starrfucker Magazine
+      Jennifer Callahan • love lulu
     location: "United States"
-    followers: 31681
-    engagement: 239
-    commentsToLikes: 0.007811
-    id: ck5q9lx4sbs0s0i112qznw0pg
+    followers: 17169
+    engagement: 264
+    commentsToLikes: 0.104278
+    id: ck8swmlblejgs0j7839ebf2s4
     verified: false
-    hashtags: "#daddyissue, #shawnmorales, #flashbackfriday, #repost"
-  - username: "losangelesjeep"
+    hashtags: "#headspace, #safeathome, #wellnessblogger, #selfcaresunday"
+  - username: "cdenice"
     fullname: >-
-      Rob
+      Christian Denice
     location: "United States"
-    followers: 22598
-    engagement: 819
-    commentsToLikes: 0.022901
-    id: ck13bvyvkxecl0i19rw8p0khs
+    followers: 18373
+    engagement: 905
+    commentsToLikes: 0.020214
+    id: ck8syxi5umebu0j78sd1u37ir
     verified: false
-    hashtags: "#verseoftheday, #christ, #islam, #inspiredbyadventure"
-  - username: "carter.liechty"
+    hashtags: "#class, #partnering, #process, #fluidity"
+  - username: "phillybarberking"
     fullname: >-
-      Carter Liechty
+      Philly Garcia
     location: "United States"
-    followers: 9317
-    engagement: 1755
-    commentsToLikes: 0.021216
-    id: ck5pvsko5jfj80i11dhyavfmy
+    followers: 43423
+    engagement: 433
+    commentsToLikes: 0.035083
+    id: ckaosq59csl8h0i78ehj4gw8i
     verified: false
-    hashtags: "#patsupsiri, #mmscene, #la, #alcottspace"
+    hashtags: "#hollywoodbarber, #gelo, #zodiac, #spiritual"
 ---

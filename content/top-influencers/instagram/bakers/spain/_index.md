@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Spain In 2020
 description: >-
-  Find top bakers Instagram influencers in Spain in 2020. Most popular hashtags: #foodphotography #foodstyling #thebakefeed #foodfluffer.
+  Find top bakers Instagram influencers in Spain in 2020. Most popular hashtags: #baker #bakery #baking #pancasero.
 platform: Instagram
 profiles:
+  - username: "hilmar0210"
+    fullname: >-
+      MRF by H i l m a r
+    location: "Spain"
+    followers: 27588
+    engagement: 535
+    commentsToLikes: 0.072542
+    id: ck9wfbpzmo5cl0j78naeensyq
+    verified: false
+    hashtags: "#tradicional, #tartetrope, #softbuns, #galletasrizadas"
   - username: "gluten.morgen"
     fullname: >-
       Ramon Garriga -MasaMadre
     location: "Spain"
-    followers: 127344
-    engagement: 287
-    commentsToLikes: 0.089953
+    followers: 199786
+    engagement: 211
+    commentsToLikes: 0.056498
     id: ck14gubo072g70i1924b1odbj
     verified: false
-    hashtags: "#diadelamarmota, #horno, #solucion, #hamburguesa"
-  - username: "thedeliciousplate"
+    hashtags: "#cheeseburger, #ovenspring, #prosciutto, #margherita"
+  - username: "naiara_m_"
     fullname: >-
-      The Delicious Plate
+      Nai
     location: "Spain"
-    followers: 6152
-    engagement: 1298
-    commentsToLikes: 0.099903
-    id: ck6ufm6hcxvxa0j71zi5br46k
+    followers: 7783
+    engagement: 1243
+    commentsToLikes: 0.036561
+    id: ck15q3fge0wn60i19yijxd01i
     verified: false
-    hashtags: "#nuts, #oatmeal, #veganfoodshare, #berries"
-  - username: "conlecheycanela"
+    hashtags: "#hmxme, #vitoria, #homesweethome, #basquecountry"
+  - username: "irenecocinaparati"
     fullname: >-
-      𝚃𝚘ñ𝚘 𝙲𝚘𝚛𝚛𝚊𝚕 🌿 𝙵𝚘𝚝𝚘𝚐𝚛𝚊𝚏í𝚊
+      Irene Requena
     location: "Spain"
-    followers: 15928
-    engagement: 720
-    commentsToLikes: 0.460027
-    id: ck6todj18dgvx0j71mbv1q3vf
+    followers: 37904
+    engagement: 444
+    commentsToLikes: 0.277354
+    id: ck5hhqgrr9l7o0i116joeraph
     verified: false
-    hashtags: "#darkmood, #gloobyfood, #foofluffer, #flower"
-  - username: "saboresymomentos"
+    hashtags: "#meat, #nutella, #vasos, #somgastronomia"
+  - username: "infinityplatter"
     fullname: >-
-      P a t r y  G a r c í a🌸 Photo
+      Infinity Platter
     location: "Spain"
-    followers: 29335
-    engagement: 319
-    commentsToLikes: 0.145684
-    id: ck15qhq052wat0i19aosgfyi8
+    followers: 89188
+    engagement: 910
+    commentsToLikes: 0.019790
+    id: ck0tww3cyh00h0i195d5s6z62
     verified: false
-    hashtags: "#darlingmoments, #winterfruits, #breakfastwithlove, #batchcooking"
-  - username: "tatin_blog"
+    hashtags: "#homemade, #barcelonafood, #barcelonarestaurants, #desserts"
+  - username: "nuriagaro"
     fullname: >-
-      Esther Clemente 📸FOOD PHOTO
+      Nuria Garrido | Nuriagaro
     location: "Spain"
-    followers: 5536
-    engagement: 694
-    commentsToLikes: 0.125761
-    id: ck6ufpc1cydca0j713zv4qu0d
+    followers: 24343
+    engagement: 419
+    commentsToLikes: 0.465705
+    id: ck14jg2z3k5rz0i19c0bj2lpx
     verified: false
-    hashtags: "#recipeideas, #aceituna, #aceitedeoliva, #asturiasparaisonatural"
-  - username: "olga_vila"
+    hashtags: "#eatclean, #pineapplecake, #snacktaiwan, #carrot"
+  - username: "debocaaccion"
     fullname: >-
-      Olga Vila | Food blogger
+      Joaquin
     location: "Spain"
-    followers: 11028
-    engagement: 608
-    commentsToLikes: 0.173664
-    id: ck5zu96tf1x310i14wlra1gbu
+    followers: 50261
+    engagement: 237
+    commentsToLikes: 0.146722
+    id: ck6tq6fxfpnmp0j71bw8918ou
     verified: false
-    hashtags: "#themoodytable, #veganeating, #meatlessmeals, #spaguettisdecalabacin"
+    hashtags: "#huevofrito, #cebiche, #merken, #fideua"
+  - username: "odkhuumchef5"
+    fullname: >-
+      Odkhuu MasterChef 5
+    location: "Spain"
+    followers: 29641
+    engagement: 92
+    commentsToLikes: 0.017424
+    id: ck0vwaucwsvfj0i19py2e8wff
+    verified: true
+    hashtags: "#foodie, #foodblogger, #pastry, #espaisucre"
   - username: "balazsenzsol"
     fullname: >-
-      Balazs Enzsol
+      𝐏𝐀𝐒𝐓𝐑𝐘 𝐂𝐎𝐍𝐒𝐔𝐋𝐓𝐀𝐍𝐓
     location: "Spain"
-    followers: 54366
-    engagement: 243
-    commentsToLikes: 0.030207
+    followers: 78050
+    engagement: 364
+    commentsToLikes: 0.026415
     id: ck0w56u4w26l20i19br57fqla
     verified: false
-    hashtags: "#chefslife, #chinesenewyear, #recipe, #baker"
+    hashtags: "#silikomart, #painting, #tutorial, #holiday"
   - username: "danitonka"
     fullname: >-
       Daniel Alvarez
     location: "Spain"
-    followers: 21758
-    engagement: 295
-    commentsToLikes: 0.016400
+    followers: 22855
+    engagement: 289
+    commentsToLikes: 0.015808
     id: ck0vz7ill7p4p0i19987q8ubf
     verified: false
-    hashtags: "#pastrychef, #sweetdevotoon, #pastrylife, #icephotelschool"
-  - username: "steven.c.baker"
-    fullname: >-
-      Esteban Carrera Baker
-    location: "Spain"
-    followers: 6671
-    engagement: 1673
-    commentsToLikes: 0.019950
-    id: ck55nw1ez742x0i1118ggwvb1
-    verified: false
-    hashtags: "#alubias, #london, #londoneye, #fishandchips"
-  - username: "evelyncoboo"
-    fullname: >-
-      🧸💜VIII🧸💜
-    location: "Spain"
-    followers: 10081
-    engagement: 1634
-    commentsToLikes: 0.066592
-    id: ck5q2njqpgvup0i112gghhx4x
-    verified: false
-    hashtags: ""
+    hashtags: "#chocolate, #warsztatykulinarne, #savourschool, #gateau"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top fitness Instagram influencers in Las Vegas in 2020. Most popular hashtags: #fitness #lasvegas #model #fitnessmotivation.
+  Find top fitness Instagram influencers in Las Vegas in 2020. Most popular hashtags: #fitness #lasvegas #earthday #goodvibes.
 platform: Instagram
 profiles:
-  - username: "anizfitness"
+  - username: "karinsaiams"
     fullname: >-
-      Aniz Fitness
+      Karinsa Iams
     location: "United States"
-    followers: 41674
-    engagement: 237
-    commentsToLikes: 0.020497
-    id: ck13awzwosl8g0i19xt9uuia6
+    followers: 5483
+    engagement: 913
+    commentsToLikes: 0.210244
+    id: ck9hab0bzbuqw0j78zqq7scqs
     verified: false
-    hashtags: "#mente, #moments, #vidasana, #activa"
-  - username: "jacksoncooper_official"
+    hashtags: "#abercrombie, #vegashiking, #wranglerjeans, #levisjeans"
+  - username: "shiannjanay"
     fullname: >-
-      Jackson Cooper
+      Shiann Lewis
     location: "United States"
-    followers: 11101
-    engagement: 659
-    commentsToLikes: 0.020454
-    id: ck6ud03byid1e0j71u3a510p0
+    followers: 12955
+    engagement: 641
+    commentsToLikes: 0.027221
+    id: ckap5fcr9bf7r0i78c6fr9l1x
     verified: false
-    hashtags: "#gayvnawards, #somuchfun, #markhendersonmodels, #morningwalk"
-  - username: "vinnymma"
+    hashtags: "#earthday"
+  - username: "jessnegromonte"
     fullname: >-
-      Vinny Magalhaes
+      Jessica Negromonte ⛳️
     location: "United States"
-    followers: 49637
-    engagement: 103
-    commentsToLikes: 0.012989
-    id: ck5zo4s8hprdv0i14pjj4r2t1
-    verified: true
-    hashtags: "#changemymind, #matthammil, #boybuilding, #drjekyll"
-  - username: "duotranscend"
-    fullname: >-
-      Mary And Tyce
-    location: "United States"
-    followers: 118096
-    engagement: 302
-    commentsToLikes: 0.095276
-    id: ck5cc3vjigo3m0i11hlq1dine
-    verified: true
-    hashtags: "#workout, #soulmate, #acro, #pullups"
-  - username: "ryan_jerome"
-    fullname: >-
-      Ryan Jerome
-    location: "United States"
-    followers: 97858
-    engagement: 294
-    commentsToLikes: 0.000800
-    id: ck0vzpesga8pa0i19h0outvab
+    followers: 25454
+    engagement: 352
+    commentsToLikes: 0.048658
+    id: ck5zqvqyfve390i142hvvr4mf
     verified: false
-    hashtags: "#friends, #nature, #editorialshoot, #lakelouise"
-  - username: "johanna_restrepo"
+    hashtags: "#ownyourconfidence, #earthday, #taurus, #madmooserentals"
+  - username: "damandyz"
     fullname: >-
-      Joha Restrepo
+      Damandyz Donutz
     location: "United States"
-    followers: 24215
-    engagement: 359
-    commentsToLikes: 0.036578
-    id: ck6u7t781niyx0j71f5d74ih4
+    followers: 40453
+    engagement: 763
+    commentsToLikes: 0.020829
+    id: ck0vx1t3qwpv70i19m5pakuql
     verified: false
-    hashtags: "#happy, #newbeginnings, #tvhost, #actress"
+    hashtags: "#unbagging, #happyquarantine, #love, #food"
   - username: "sarahallenaus"
     fullname: >-
       Sarah Allen
     location: "United States"
-    followers: 66105
-    engagement: 151
-    commentsToLikes: 0.053210
+    followers: 65802
+    engagement: 153
+    commentsToLikes: 0.050677
     id: ck5c7gvwu7iim0i110lslfeil
     verified: false
-    hashtags: "#mollmagazine, #itsonlytuesday, #vibes, #staystrong"
+    hashtags: "#punisher, #wednesday, #newsquadmember, #homesweethome"
+  - username: "nickjlv"
+    fullname: >-
+      Nick Nikolai
+    location: "United States"
+    followers: 32675
+    engagement: 307
+    commentsToLikes: 0.007197
+    id: ckap680gtes7z0i783pt77ub6
+    verified: false
+    hashtags: "#transformationtuesday, #flexfriday"
   - username: "katiechunghua"
     fullname: >-
       Katie•Chung•Hua
     location: "United States"
-    followers: 66039
+    followers: 66361
     engagement: 157
-    commentsToLikes: 0.035779
+    commentsToLikes: 0.032611
     id: ck0vuxlulmmig0i1959d6gpbb
     verified: true
-    hashtags: "#bepositive, #bodyrev, #inspirationdaily, #overcomefear"
+    hashtags: "#happyandhealthy, #earthday2020, #lasvegas, #baddaygonegood"
+  - username: "carlascala_r6"
+    fullname: >-
+      👑🖤ADRENALINE QUEEN🖤👑
+    location: "United States"
+    followers: 27303
+    engagement: 417
+    commentsToLikes: 0.040246
+    id: ck6tnco0f9kzm0j717u1w1e5m
+    verified: false
+    hashtags: "#dubai, #rideclutch, #angels, #pureenergy"
+  - username: "richardmacdonaldsculpture"
+    fullname: >-
+      Richard MacDonald
+    location: "United States"
+    followers: 7505
+    engagement: 408
+    commentsToLikes: 0.020419
+    id: ck5cksvrqxjom0i119sg42vf9
+    verified: false
+    hashtags: "#classof2015, #patina, #figurativesculptor, #lasvegas"
   - username: "freshh__photography"
     fullname: >-
       Freshh The Photographer
     location: "United States"
-    followers: 10868
-    engagement: 836
-    commentsToLikes: 0.001680
+    followers: 10764
+    engagement: 842
+    commentsToLikes: 0.002022
     id: ck6u2kwtlsefx0j71fpjgb2jk
     verified: false
-    hashtags: "#photoday, #modellife, #dopepic, #tribal"
-  - username: "alexxaanndria"
-    fullname: >-
-      Alexandria Beauregard
-    location: "United States"
-    followers: 50850
-    engagement: 207
-    commentsToLikes: 0.043813
-    id: ck6ufcs2iw9vc0j714mkd50lz
-    verified: false
-    hashtags: "#rockabilly, #behind, #baldisbadass, #bae"
+    hashtags: "#africa, #nature, #workoutclothes, #beautymakeup"
 ---

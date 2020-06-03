@@ -1,19 +1,69 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Canada In 2020
 description: >-
-  Find top photographers Instagram influencers in Canada in 2020. Most popular hashtags: #beauty #portrait #gladiator #inspirationalquotes.
+  Find top photographers Instagram influencers in Canada in 2020. Most popular hashtags: #explorecanada #quarantine #europetourism #damestravel.
 platform: Instagram
 profiles:
-  - username: "andreanne_gauthier"
+  - username: "passportofmemories"
     fullname: >-
-      Andréanne Gauthier
+      Tiana | Travel x Lifestyle
     location: "Canada"
-    followers: 17069
-    engagement: 299
-    commentsToLikes: 0.016019
-    id: ck135466qzm630i19b18nd0vt
+    followers: 5996
+    engagement: 1555
+    commentsToLikes: 0.259892
+    id: ck15syttafi3e0i19xq93g0o8
     verified: false
-    hashtags: "#studio, #colorlove, #underwearshoot, #candianphotographer"
+    hashtags: "#dreamytravels, #iamtb, #dreamyviews, #lonelyplanet"
+  - username: "theadventurousgal"
+    fullname: >-
+      Stephanie Parish
+    location: "Canada"
+    followers: 7325
+    engagement: 1830
+    commentsToLikes: 0.173343
+    id: ckaot2aqmu22q0i78a0m9qk4t
+    verified: false
+    hashtags: "#visitbali, #travelflorida, #getoutsidemore, #domestictravel"
+  - username: "jayrmcdonald"
+    fullname: >-
+      Romance Your Wild
+    location: "Canada"
+    followers: 60874
+    engagement: 436
+    commentsToLikes: 0.071316
+    id: ck0txakclihs00i19si5wkbp0
+    verified: false
+    hashtags: "#whistler, #ranchlife, #colorblind, #quarantine"
+  - username: "jonathanzoeteman"
+    fullname: >-
+      Jonathan Zoeteman
+    location: "Canada"
+    followers: 80157
+    engagement: 394
+    commentsToLikes: 0.049767
+    id: ck0tvpjorcagk0i191k4vxlw7
+    verified: false
+    hashtags: "#capturecalgary, #merrychristmas, #newyearseve"
+  - username: "lazysnorlax"
+    fullname: >-
+      Adham
+    location: "Canada"
+    followers: 5845
+    engagement: 985
+    commentsToLikes: 0.290988
+    id: ck5hofv6hphmf0i11k1ihx5dp
+    verified: false
+    hashtags: "#snkrsapp, #ronniefieg, #fitcheck, #pacsun"
+  - username: "pieragnese"
+    fullname: >-
+      Pier-Anne Bilodeau💋
+    location: "Canada"
+    followers: 12841
+    engagement: 1410
+    commentsToLikes: 0.028807
+    id: ck8t8u8smludn0j786tkthp4j
+    verified: false
+    hashtags: ""
   - username: "joshdeleff"
     fullname: >-
       Josh Deleff
@@ -23,85 +73,35 @@ profiles:
     commentsToLikes: 0.048007
     id: ck0vw7w7jsi1i0i19budybww7
     verified: false
-    hashtags: "#actionfigurephotography, #starwars, #starwarsbattlefront, #theclonewars"
+    hashtags: "#gameofthrones, #troll, #banff, #sleeping"
+  - username: "kirstenlphotog"
+    fullname: >-
+      Kirsten Lewis
+    location: "Canada"
+    followers: 26599
+    engagement: 670
+    commentsToLikes: 0.044085
+    id: ck6u41ufv178u0j71uy7wnrxx
+    verified: false
+    hashtags: "#unsupervisedphotobook"
+  - username: "jad.warde"
+    fullname: >-
+      JAD WARDE
+    location: "Canada"
+    followers: 29423
+    engagement: 610
+    commentsToLikes: 0.041926
+    id: ck5q9q4amces60i11b26cblir
+    verified: false
+    hashtags: "#shootwithsavage, #muaawesome, #muaxdiscover, #paulcbuff"
   - username: "jackperkinsphotos"
     fullname: >-
       Jack Perkins
     location: "Canada"
-    followers: 6831
-    engagement: 1015
-    commentsToLikes: 0.076777
+    followers: 6692
+    engagement: 1055
+    commentsToLikes: 0.075145
     id: ck14iyie9hr6f0i19vmum121a
     verified: false
     hashtags: ""
-  - username: "jonathanzoeteman"
-    fullname: >-
-      Jonathan Zoeteman
-    location: "Canada"
-    followers: 80839
-    engagement: 398
-    commentsToLikes: 0.047857
-    id: ck0tvpjorcagk0i191k4vxlw7
-    verified: false
-    hashtags: "#shotoncanon, #socality, #makeportraits, #explorealberta"
-  - username: "mazenz"
-    fullname: >-
-      Mazen Zeidan
-    location: "Canada"
-    followers: 16676
-    engagement: 584
-    commentsToLikes: 0.066753
-    id: ck6tmlo2q82i50j710jssq8id
-    verified: false
-    hashtags: "#fashionnova, #vancouverphotographer, #sonyalpha, #fashionphotographer"
-  - username: "karolinajez"
-    fullname: >-
-      KAROLINA™
-    location: "Canada"
-    followers: 55700
-    engagement: 320
-    commentsToLikes: 0.177202
-    id: ck13asi6hryn20i195dkejjct
-    verified: true
-    hashtags: "#mtl, #eccoshoes, #vacuumbutmakeitfashion, #conceptstore"
-  - username: "zeustate"
-    fullname: >-
-      ☆ ᴛᴀᴛᴜᴍ ᴍᴀᴄʟᴇᴀɴ ☆
-    location: "Canada"
-    followers: 1943
-    engagement: 1604
-    commentsToLikes: 0.114640
-    id: ck8sxpxgti87b0j78l3oggf74
-    verified: false
-    hashtags: ""
-  - username: "mighty.banana"
-    fullname: >-
-      Beàta Imre
-    location: "Canada"
-    followers: 9799
-    engagement: 1811
-    commentsToLikes: 0.021675
-    id: ck0vz0xlr6qwi0i19gn0i4n4j
-    verified: false
-    hashtags: "#aestheticedit, #darkwarrior, #writingcommunity, #mentalhealthisimportant"
-  - username: "erinleydon"
-    fullname: >-
-      erin leydon
-    location: "Canada"
-    followers: 13313
-    engagement: 615
-    commentsToLikes: 0.103884
-    id: ck0vvb4tgocpm0i19jm68sfc3
-    verified: false
-    hashtags: "#queenofthenorth, #highlyreccomend, #discoverontario"
-  - username: "justinwu"
-    fullname: >-
-      Justin Wu
-    location: "Canada"
-    followers: 53352
-    engagement: 228
-    commentsToLikes: 0.126057
-    id: ck0tyfqcpmmhg0i198o9gaxiy
-    verified: true
-    hashtags: "#jwutravels, #valentines, #teamgalaxy, #ad"
 ---

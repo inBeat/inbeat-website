@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top food Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #food #foodstagram #yum.
+  Find top food Instagram influencers in Las Vegas in 2020. Most popular hashtags: #food #lasvegas #instafood #shrimp.
 platform: Instagram
 profiles:
-  - username: "michelernots"
+  - username: "melaniej15"
     fullname: >-
-      Michel Ernots
+      Melanie 🇨🇦🇭🇷
     location: "United States"
-    followers: 23812
-    engagement: 270
-    commentsToLikes: 0.030221
-    id: ck5hle5agk20q0i11s3bvxh5a
+    followers: 7354
+    engagement: 1209
+    commentsToLikes: 0.052619
+    id: ck0w14trmhkau0i1931pdxfny
     verified: false
-    hashtags: "#pomati, #chocolateloversg, #foodlover, #epiphany"
-  - username: "ninser_the_foodie"
+    hashtags: "#texasspeedway, #punkrock, #happygirl, #azulik"
+  - username: "mszeldaharris"
     fullname: >-
-      🙋🏻‍♂️👊🏻 elniño felipe
+      Zelda Harris
     location: "United States"
-    followers: 15020
-    engagement: 489
-    commentsToLikes: 0.096253
-    id: ck0w5jd5q3x5s0i197i4f8pci
+    followers: 20763
+    engagement: 897
+    commentsToLikes: 0.057110
+    id: ck5zy2ixg93yd0i144lf5t84e
     verified: false
-    hashtags: "#huffposttaste, #molesauce, #downtownvibes, #food"
-  - username: "vincethomaspardo"
+    hashtags: "#hotgirl, #lol, #naturalblackbeauty, #blackbae"
+  - username: "thegreatjuju"
     fullname: >-
-      Vince Thomas Pardo
+      🧡 Julian
     location: "United States"
-    followers: 10426
-    engagement: 760
-    commentsToLikes: 0.037117
-    id: ck8td7xnw29k60j78gj0xesjm
+    followers: 12199
+    engagement: 1023
+    commentsToLikes: 0.019492
+    id: ck6tkl3l14x5t0j71pkvnlabf
     verified: false
-    hashtags: "#elcapitan, #earthfocus, #philippines, #yosemitefalls"
-  - username: "sinfullyspicy"
+    hashtags: "#godisdopeeveryday, #milkncookies, #foodgasm, #mandala"
+  - username: "shiannjanay"
     fullname: >-
-      Tanvi | Sinfully Spicy
+      Shiann Lewis
     location: "United States"
-    followers: 21156
-    engagement: 223
-    commentsToLikes: 0.116645
-    id: ck6tjj3352tg40j71ppldq3he
+    followers: 12955
+    engagement: 641
+    commentsToLikes: 0.027221
+    id: ckap5fcr9bf7r0i78c6fr9l1x
     verified: false
-    hashtags: "#simpledinners, #stvalentinesday, #yummy, #winter"
-  - username: "closetfoodie_lv"
+    hashtags: "#earthday"
+  - username: "unlokt"
     fullname: >-
-      closetfoodie_lv
+      UNLOKT Las Vegas
     location: "United States"
-    followers: 4224
-    engagement: 1076
-    commentsToLikes: 0.412797
-    id: ck0u7im4q4up70i19z1aqttdq
+    followers: 293444
+    engagement: 315
+    commentsToLikes: 0.023497
+    id: ck0w1ds9ziuvj0i1937bfnw3c
     verified: false
-    hashtags: "#lasvegas, #takeout, #delivery, #tacotuesday"
-  - username: "roxyfighter"
+    hashtags: "#brunchtime, #halalfood, #lobstermacncheese, #debate"
+  - username: "imediatrooper"
     fullname: >-
-      Roxanne Modafferi
+      iMediatrooper
     location: "United States"
-    followers: 79143
-    engagement: 104
-    commentsToLikes: 0.032282
-    id: ck6u5w2r1c3130j71fhjk3nvv
-    verified: true
-    hashtags: "#team, #getstronger, #zombieland, #dragonball"
-  - username: "themichelewang"
-    fullname: >-
-      Michele Wang
-    location: "United States"
-    followers: 28241
-    engagement: 398
-    commentsToLikes: 0.054394
-    id: ck13ao2h6rc160i19ibw861s0
+    followers: 14650
+    engagement: 764
+    commentsToLikes: 0.031021
+    id: ck5pzs1ze2h800i11n0733r2x
     verified: false
-    hashtags: "#chanellove, #chanelbeauty, #beautydeals, #carolinaherrerabeauty"
-  - username: "anaandreaxoxo"
+    hashtags: "#opinion, #mothersday, #traffic, #buddy"
+  - username: "vegasgungirl"
     fullname: >-
-      Ana Andrea YouTube
+      Vegasgungirl / Joanna Maria
     location: "United States"
-    followers: 12421
-    engagement: 326
-    commentsToLikes: 0.121890
-    id: ck5c2jhssxdaz0i11nmqu1uvw
+    followers: 58842
+    engagement: 302
+    commentsToLikes: 0.041871
+    id: ck14k4svcnq310i19xfyost6v
     verified: false
-    hashtags: "#sparkle, #houseplants, #formybabyboy, #ilovetarget"
-  - username: "lasvegasfill"
+    hashtags: "#triggerbabes, #nurse, #swimwear, #style"
+  - username: "fantazticfood"
     fullname: >-
-      LasVegasFill • Philip Tzeng
+      🍴Tazeen🍴Las Vegas Food
     location: "United States"
-    followers: 63882
-    engagement: 405
-    commentsToLikes: 0.031472
-    id: ck0u0nzqpuaf50i19zdbtiaeq
+    followers: 5906
+    engagement: 721
+    commentsToLikes: 0.381761
+    id: ck5hemfn9to9w0i115znxq3dh
     verified: false
-    hashtags: "#beautifulcuisines, #sandwichporn, #goodeats, #noodle"
-  - username: "cucuyonline"
+    hashtags: "#gourmetcookies, #steaktartare, #carneasadatacos, #spicyfoodlover"
+  - username: "eatmelasvegas"
     fullname: >-
-      
+      Eat Me Las Vegas | Food Lover
     location: "United States"
-    followers: 17612
-    engagement: 193
-    commentsToLikes: 0.090253
-    id: ck14jko2zkthy0i19qlpnvuqa
+    followers: 65181
+    engagement: 1466
+    commentsToLikes: 0.020616
+    id: ck0w1oujuked80i19qror7ann
     verified: false
-    hashtags: "#podcastmeaning, #travelpodcast, #bashbrothers, #earthcapture"
+    hashtags: "#cheeseburger, #hamburger, #kushikatsu, #chinatown"
+  - username: "jayteetakesabite"
+    fullname: >-
+      Las Vegas Food🤳🍔🍜🌮·Jon "JT" T.
+    location: "United States"
+    followers: 9390
+    engagement: 847
+    commentsToLikes: 0.213763
+    id: ck0tvmp7gbxbl0i19usi723kr
+    verified: false
+    hashtags: "#foodbloggerpro, #stayhomefornevada, #mexicanfoodlover, #newforkcity"
 ---

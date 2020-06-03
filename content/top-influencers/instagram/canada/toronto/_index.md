@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Toronto In 2020
 description: >-
-  Find top Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #ad #moodygrams #blogto.
+  Find top Instagram influencers in Toronto in 2020. Most popular hashtags: # #stjohnbyzturner #sonyphotography #heatercentral.
 platform: Instagram
 profiles:
+  - username: "naalishya_"
+    fullname: >-
+      Naalishya Yokeswaren
+    location: "Canada"
+    followers: 8078
+    engagement: 1324
+    commentsToLikes: 0.074878
+    id: ck600knx3ds5n0i1470wuerc9
+    verified: false
+    hashtags: ""
+  - username: "nataliesng"
+    fullname: >-
+      👑SexyNatG👑
+    location: "Canada"
+    followers: 4993199
+    engagement: 365
+    commentsToLikes: 0.025238
+    id: ck134wgo0yiye0i19q34g87s7
+    verified: false
+    hashtags: "#iceland, #veganburger, #bluelagoon, #quarantinefashion"
   - username: "tiannavera"
     fullname: >-
       Tianna Vera
     location: "Canada"
-    followers: 29546
-    engagement: 255
-    commentsToLikes: 0.068769
+    followers: 29834
+    engagement: 271
+    commentsToLikes: 0.090332
     id: ck0uelpvrlmz20i197rpk89nz
     verified: false
-    hashtags: "#waterbabiestoronto, #matchmaker, #luxblo, #comingsoon"
-  - username: "g.smalls"
+    hashtags: "#kytebaby, #11monthsold, #waterbabies, #waterbabiestoronto"
+  - username: "gonniegarko"
     fullname: >-
-      Gemma Smalley
+      GG
     location: "Canada"
-    followers: 8647
-    engagement: 820
-    commentsToLikes: 0.058340
-    id: ck6u1v9g9o3aj0j71p8i74f5v
+    followers: 62402
+    engagement: 803
+    commentsToLikes: 0.011496
+    id: ck0tviz5sbkfx0i196yzwkwyx
     verified: false
-    hashtags: "#ysabellecapitule, #asslikethat, #icemeout, #kashdoll"
-  - username: "bora.vs.bora"
+    hashtags: "#ckone, #ckeveryone, #mycalvins, #stjohnxtoronto"
+  - username: "rebeccaramsdale"
     fullname: >-
-      bora
+      Rebecca Ramsdale
     location: "Canada"
-    followers: 163459
-    engagement: 294
-    commentsToLikes: 0.015491
-    id: ck0u1tuzrxx3v0i19kmzg92nl
+    followers: 8426
+    engagement: 585
+    commentsToLikes: 0.044493
+    id: ck6tmkrsz80rb0j7195bi42j0
     verified: false
-    hashtags: "#visualambassadors, #shooteverything, #zonestreet, #turo"
-  - username: "toronto"
+    hashtags: "#toronto"
+  - username: "karakmatthews"
     fullname: >-
-      Toronto 🇨🇦
+      KARA MATTHEWS
     location: "Canada"
-    followers: 94426
-    engagement: 703
-    commentsToLikes: 0.020018
-    id: ck15qrtnr4bqd0i19cl4c3saa
+    followers: 3930
+    engagement: 1305
+    commentsToLikes: 0.053998
+    id: ckap6bilff73d0i78ra3onfb5
     verified: false
-    hashtags: "#amberalert, #toronto"
-  - username: "aliciahillturner"
+    hashtags: ""
+  - username: "m.a.i.ja"
     fullname: >-
-      hey i’m alicia 💗🎀🌸
+      maija 🧚🏻
     location: "Canada"
-    followers: 6061
-    engagement: 1580
-    commentsToLikes: 0.180559
-    id: ck8tblyesw6cg0j78eyojme0h
+    followers: 5367
+    engagement: 664
+    commentsToLikes: 0.039306
+    id: ck5cak7u1dkdw0i11w9y4hyle
     verified: false
-    hashtags: "#coronavirus"
-  - username: "erin22xoxo"
+    hashtags: "#linkinbio, #spon, #ssense, #safetyfirst"
+  - username: "anthonydelia"
     fullname: >-
-      ⚓ Erin ⚓ | Toronto Lifestyle
+      Anthony D'Elia
     location: "Canada"
-    followers: 7147
-    engagement: 1749
-    commentsToLikes: 0.466965
-    id: ck6u1vid2o4vq0j716kndrri8
+    followers: 58199
+    engagement: 178
+    commentsToLikes: 0.019976
+    id: ck5ck3rbiw2n00i114r3wayty
     verified: false
-    hashtags: "#hydrasplash, #strongertogether, #tuesdaythoughts, #tmithursday"
-  - username: "jasminefares"
+    hashtags: ""
+  - username: "tom__t"
     fullname: >-
-      J A S M I N E   F A R E S
+      Toronto
     location: "Canada"
-    followers: 187056
-    engagement: 685
-    commentsToLikes: 0.033617
-    id: ck5hfb4hvwng20i1101j9vuzq
+    followers: 8310
+    engagement: 860
+    commentsToLikes: 0.097383
+    id: ck13978gljvux0i19ac8dp24i
     verified: false
-    hashtags: "#celebrateyourself, #goodmorningbeds, #giveaway, #trystyleplan"
-  - username: "mandilicous"
+    hashtags: ""
+  - username: "peter_in_to"
     fullname: >-
-      Mandy | Food | Lifestyle
+      Peter
     location: "Canada"
-    followers: 5628
-    engagement: 2768
-    commentsToLikes: 0.246255
-    id: ck15pdxixxeob0i199dnoaf03
+    followers: 14267
+    engagement: 633
+    commentsToLikes: 0.082922
+    id: ck15r9gb66t9m0i19rkjbswci
     verified: false
-    hashtags: "#giveawaycontest, #vegetarianlife, #insiderdessert, #oishi"
-  - username: "alicedlee"
-    fullname: >-
-      𝓐𝓵𝓲𝓬𝓮
-    location: "Canada"
-    followers: 35557
-    engagement: 783
-    commentsToLikes: 0.106644
-    id: ck1364tzc4r480i19wyysbfic
-    verified: false
-    hashtags: "#birthdayturnedintoproposal, #birthdaydinner, #monamourflowers, #fashionnovaambassador"
-  - username: "carl_carter_greene"
-    fullname: >-
-      Carl Carter Greene
-    location: "Canada"
-    followers: 20171
-    engagement: 1071
-    commentsToLikes: 0.058967
-    id: ck0tzh6huqf2p0i19acc9jain
-    verified: false
-    hashtags: "#ourportraitsdays, #findingthelightffa, #ourmoodydays, #portraitgames"
+    hashtags: "#niagarafalls, #stayandwander, #electric, #createexplore"
 ---

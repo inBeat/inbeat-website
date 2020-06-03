@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Germany In 2020
 description: >-
-  Find top gardening Instagram influencers in Germany in 2020. Most popular hashtags: #gardening #stayathome #stayhome #fr.
+  Find top gardening Instagram influencers in Germany in 2020. Most popular hashtags: #gardening #giveaway #streetstyle #thankful.
 platform: Instagram
 profiles:
-  - username: "fraeuleinkrause"
-    fullname: >-
-      Sᴀsᴋɪᴀ | Sᴄʜʟᴇsᴡɪɢ﹣Hᴏʟsᴛᴇɪɴ
-    location: "Germany"
-    followers: 3616
-    engagement: 1400
-    commentsToLikes: 0.163957
-    id: ck5pvjdr1i61k0i11tnwi41xk
-    verified: false
-    hashtags: "#iicfinallytimefor, #fuckcorona, #florida, #cozytime"
   - username: "_neon_beige_"
     fullname: >-
       ben
     location: "Germany"
-    followers: 13126
-    engagement: 999
-    commentsToLikes: 0.020367
+    followers: 14002
+    engagement: 978
+    commentsToLikes: 0.020760
     id: ck5zwtkrw6qpy0i14q0l6c3mv
     verified: false
-    hashtags: "#kleingarten, #cottagegarden, #bohointeriors, #houseplantclub"
-  - username: "eva_brenner_official"
+    hashtags: "#schreberg, #ceramics, #teapot, #allineedisahug"
+  - username: "himlajord"
     fullname: >-
-      Eva Brenner
+      Helena Holmgren
     location: "Germany"
-    followers: 22294
-    engagement: 972
-    commentsToLikes: 0.048635
-    id: ck5zwg47962j00i143kh79h37
+    followers: 21129
+    engagement: 339
+    commentsToLikes: 0.049617
+    id: ckaoyad6dgo0t0i78958wtqaz
     verified: false
-    hashtags: "#plantbased, #higherself, #endof2019, #designer"
+    hashtags: "#physochlaina, #majv, #sibiriskhundtandslilja, #greenhouse"
+  - username: "kateshyggehome"
+    fullname: >-
+      Kates Hygge Home
+    location: "Germany"
+    followers: 56974
+    engagement: 302
+    commentsToLikes: 0.012110
+    id: ck14kqsarqul20i19c0odb20w
+    verified: false
+    hashtags: "#ikeadeutschland, #svaln, #bedroominspo, #flur"
+  - username: "mrs.mende"
+    fullname: >-
+      FASHION & LIFESTYLE
+    location: "Germany"
+    followers: 16225
+    engagement: 853
+    commentsToLikes: 0.285538
+    id: ck6tp22eahejq0j717acfy48r
+    verified: false
+    hashtags: "#nails, #momblogger, #officeoutfit, #posterdesign"
   - username: "joweil_official"
     fullname: >-
       Jo Weil
     location: "Germany"
-    followers: 46326
-    engagement: 402
-    commentsToLikes: 0.042296
+    followers: 50864
+    engagement: 696
+    commentsToLikes: 0.037049
     id: ck14igpcjfb8w0i19n10uoqvl
     verified: true
-    hashtags: "#tuxedo, #dogdad, #greeneyes, #actorslife"
-  - username: "machmeerdraus"
+    hashtags: "#skudi, #intothewoods, #poolday, #sunnysunday"
+  - username: "sinaensonadora"
     fullname: >-
-      s t e f f i ✖️TRAVEL & FAMILY
+      ✮  🎀  𝒮𝒾𝓃𝒶  🎀  ✮
     location: "Germany"
-    followers: 5074
-    engagement: 860
-    commentsToLikes: 0.074362
-    id: ck6uabvk12olv0j71v0w804fd
+    followers: 11417
+    engagement: 996
+    commentsToLikes: 0.111638
+    id: ck136gwg76fvx0i19ne3h4qba
     verified: false
-    hashtags: "#bleibtdaheim, #babygirl, #urenkel, #lieblingsmenschen"
-  - username: "lisa.firle"
+    hashtags: "#quoteoftheday, #angel, #goodvibes, #accessories"
+  - username: "kim.donato.official"
     fullname: >-
-      •Naturkosmetik • Schwanger •
+      Kim Donato
     location: "Germany"
-    followers: 45329
-    engagement: 139
-    commentsToLikes: 0.108550
-    id: ck5c8ov7u9xtj0i11s8qu2pbf
+    followers: 14215
+    engagement: 636
+    commentsToLikes: 0.075884
+    id: ck5bwr286m8ut0i111ewgka1a
     verified: false
-    hashtags: "#gardening, #plantsofinstagram, #giveaway, #fashionaddict"
-  - username: "theladyofstyle"
+    hashtags: "#famimytime, #friendshipgoals, #daddy, #familyday"
+  - username: "petra0203"
     fullname: >-
-      𝖫𝖠𝖣𝖸 𝖮𝖥 𝖲𝖳𝖸𝖫𝖤 💫
+      Petra M-D
     location: "Germany"
-    followers: 15729
-    engagement: 183
-    commentsToLikes: 0.094865
-    id: ck6tycwjy2zy20j71ko3ptawm
+    followers: 4101
+    engagement: 2403
+    commentsToLikes: 0.050318
+    id: ck14iajf2eg0z0i19tnm72als
     verified: false
-    hashtags: "#schneeimfr, #getfit50plus, #flowerlover, #bayern"
-  - username: "wasichlieb"
+    hashtags: "#jardin, #eyeweardesign, #lestropiziennes, #sainttropez"
+  - username: "_family_moments_"
     fullname: >-
-      Alina & Rocky aus Mannheim
+      Nadjaᴴᴬᴾᴾᵞ ᗰOᗰ ᴼᶠ3 ♡
     location: "Germany"
-    followers: 48922
-    engagement: 221
-    commentsToLikes: 0.035121
-    id: ck5qa2g5se7nv0i11lwgom83e
+    followers: 3152
+    engagement: 2359
+    commentsToLikes: 0.079632
+    id: ck8tde0342zcr0j78cunu5j1k
     verified: false
-    hashtags: "#saona, #puntacana, #einrichtung, #holidays"
-  - username: "lavieleonie"
+    hashtags: "#helloinstagram, #flowerpower, #littlesunshine, #terasse"
+  - username: "p_a_u_l_z_i_m_m_e_r"
     fullname: >-
-      Leonie
+      🔴 P A U L▪️Z I M M E R 🔴
     location: "Germany"
-    followers: 6410
-    engagement: 990
-    commentsToLikes: 0.046629
-    id: ck15r021n5gnu0i19bx9ytfvx
+    followers: 63269
+    engagement: 301
+    commentsToLikes: 0.042583
+    id: ck8tctk3l0mi40j78m0pjvnrs
     verified: false
-    hashtags: "#goodtimes, #unisex, #chikogi, #plantsmakemehappy"
-  - username: "anetas_leben"
-    fullname: >-
-      DIY 🖤 Boho 🖤 Scandi 🖤 Interior
-    location: "Germany"
-    followers: 15836
-    engagement: 986
-    commentsToLikes: 0.086390
-    id: ck5q5nswytpkv0i11ao6a9zne
-    verified: false
-    hashtags: "#actiondeutschland, #homesweethome, #ostern, #ostertisch"
+    hashtags: "#downtown, #legs, #selfie, #losangelesactor"
 ---

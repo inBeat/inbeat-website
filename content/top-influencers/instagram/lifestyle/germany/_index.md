@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Germany In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Germany in 2020. Most popular hashtags: #fashionblogger #blogger #fashioninspo #fashion.
+  Find top lifestyle Instagram influencers in Germany in 2020. Most popular hashtags: #gewinnspiel #giveaway #blondegirl #metime.
 platform: Instagram
 profiles:
-  - username: "valerie_s_secret"
+  - username: "x_fashiondiaries_x"
     fullname: >-
-      Fashion | Travel | Lifestyle 🌸
+      Lifestyle
     location: "Germany"
-    followers: 7787
-    engagement: 1920
-    commentsToLikes: 0.125443
-    id: ck8t37kdj27710j78o6sv6tis
+    followers: 49297
+    engagement: 186
+    commentsToLikes: 0.055426
+    id: ck55on3vg8p810i11hn65t4u5
     verified: false
-    hashtags: "#kirschbaum, #rosenbl, #colmar, #blossom"
-  - username: "nik.tiga"
+    hashtags: "#interior4you, #decoration, #jutetasche, #workout"
+  - username: "_sorinixx"
     fullname: >-
-      NIKOLAS SIEVE 🐾 HANNOVER
+      S O R I N A 🦋
     location: "Germany"
-    followers: 14578
-    engagement: 1313
-    commentsToLikes: 0.133842
-    id: ck8syk65bl2b60j78mz60lq61
+    followers: 6518
+    engagement: 2683
+    commentsToLikes: 0.081294
+    id: ck8t1voqsx80r0j785rbbvbmy
     verified: false
-    hashtags: "#travelinspiration, #realestate, #immo, #realestateagent"
-  - username: "sarahca__"
+    hashtags: "#quarantinem, #milano, #fashiongoals, #rabattcode"
+  - username: "jacki.byr"
     fullname: >-
-      𝗦𝗔𝗥𝗔𝗛 | 𝗙𝗔𝗦𝗛𝗜𝗢𝗡
+      Jacki 🍍
     location: "Germany"
-    followers: 26623
-    engagement: 1216
-    commentsToLikes: 0.113103
-    id: ck6tu81dnetwv0j71j10bmjr1
+    followers: 5042
+    engagement: 2098
+    commentsToLikes: 0.126161
+    id: ck8t8vsl9m0yx0j7850rvescv
     verified: false
-    hashtags: "#hijabsimple, #fashionstylist, #foodphotography, #hijab"
-  - username: "natia_natsi"
-    fullname: >-
-      BEAUTY🌸LIFESTYLE🌸 BLOGGER
-    location: "Germany"
-    followers: 42557
-    engagement: 870
-    commentsToLikes: 0.673505
-    id: ck6tqih0brnoy0j71qq9jbj82
-    verified: false
-    hashtags: "#bloggerlife, #tintedmoisturizer, #instagermany, #italiangirl"
+    hashtags: "#sundayvibes, #spring, #blackdress, #styleblogger"
   - username: "bak_lifestyle"
     fullname: >-
       Yvonne
     location: "Germany"
-    followers: 10142
-    engagement: 1880
-    commentsToLikes: 0.191716
+    followers: 10088
+    engagement: 1894
+    commentsToLikes: 0.189752
     id: ck6tp2218hegf0j71wbb5mlvr
     verified: false
-    hashtags: "#happy, #trend, #casualstyle, #parisstreetstyle"
-  - username: "yobaemaya"
+    hashtags: "#outfit, #fashionbloggers, #gewinnspiel, #fashionstyle"
+  - username: "valerie_s_secret"
     fullname: >-
-      Hai Anh 🍋 travel girl
+      🌸Fashion | Travel | Lifestyle🌸
     location: "Germany"
-    followers: 7958
-    engagement: 1731
-    commentsToLikes: 0.122961
-    id: ck5q3n8vlljqv0i11x3469m2o
+    followers: 8989
+    engagement: 1813
+    commentsToLikes: 0.157470
+    id: ck8t37kdj27710j78o6sv6tis
     verified: false
-    hashtags: "#munich, #cotedazurfrance, #travelling, #wanderlust"
-  - username: "leon_dude"
+    hashtags: "#crathescastle, #blumenfeld, #myposterde, #castletrail"
+  - username: "gianni027"
     fullname: >-
-      Leon
+      Menswear | Gianni
     location: "Germany"
-    followers: 65322
-    engagement: 2660
-    commentsToLikes: 0.052309
-    id: ck5c8rsdia3pw0i11mjnq9303
+    followers: 6502
+    engagement: 1758
+    commentsToLikes: 0.244994
+    id: ck9hazsg2erl20j78s3kavoxa
     verified: false
-    hashtags: "#fitnessmotivation, #humpday, #leondudepresets, #travelgram"
-  - username: "siniii___"
+    hashtags: "#menwithstyle, #menswearstyle, #casualoutfit, #fashion"
+  - username: "evis_gomez"
     fullname: >-
-      ❝ Sɪɴᴀ  .*･｡ﾟ❞
+      Evis | The summer kind of girl
     location: "Germany"
-    followers: 18066
-    engagement: 880
-    commentsToLikes: 0.159712
-    id: ck15u4lthlehy0i19q3ldbqgn
+    followers: 5325
+    engagement: 1619
+    commentsToLikes: 0.213513
+    id: ck0vyi8gq44jw0i19dksxvdzi
     verified: false
-    hashtags: "#homedesign, #vansgirls, #gl, #interior"
-  - username: "julia_elisa_"
+    hashtags: "#nightoutmakeup, #makeuplover, #makeupenthusiast, #igtvvideos"
+  - username: "vicivanilli"
     fullname: >-
-      Julia Elisa
+      V I C T O R I A
     location: "Germany"
-    followers: 5365
-    engagement: 1450
-    commentsToLikes: 0.103117
-    id: ck0w3tqevv86a0i193j82bcy4
+    followers: 13227
+    engagement: 1606
+    commentsToLikes: 0.172197
+    id: ck0twqwqjgh3k0i197rqeombt
     verified: false
-    hashtags: "#whatiamwearing, #leather, #happysundayeveryone, #hoodieseason"
-  - username: "burakdinc__"
+    hashtags: "#happynewyear, #happyeaster, #kassel, #stolzaufmich"
+  - username: "maximilianmueller.97"
     fullname: >-
-      BURAK DINC 🧿
+      ᗰᗩ᙭IᗰIᒪIᗩᑎ ᗰᑌEᒪᒪEᖇ 🇩🇪
     location: "Germany"
-    followers: 11131
-    engagement: 1386
-    commentsToLikes: 0.106384
-    id: ck0u1nqppxf210i19mljrs9l4
+    followers: 7906
+    engagement: 1545
+    commentsToLikes: 0.470467
+    id: ck9wdild7fsdh0j784cxagh5t
     verified: false
-    hashtags: "#schwanger, #stayhome, #hamburg, #frankfurt"
+    hashtags: "#beauty, #shein, #mensblog, #schn"
+  - username: "nik.tiga"
+    fullname: >-
+      NIKOLAS SIEVE 🐾 HANNOVER
+    location: "Germany"
+    followers: 15409
+    engagement: 1536
+    commentsToLikes: 0.119918
+    id: ck8syk65bl2b60j78mz60lq61
+    verified: false
+    hashtags: "#urlaub, #weihnachten, #wanderlusters, #weihnachtszeit"
 ---

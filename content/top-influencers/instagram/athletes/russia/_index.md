@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Russia In 2020
 description: >-
-  Find top athletes Instagram influencers in Russia in 2020. Most popular hashtags: #krapivnikov #atomicrussia #oakley #weareskiing.
+  Find top athletes Instagram influencers in Russia in 2020. Most popular hashtags: #livingroomcup #playinside #nike #training.
 platform: Instagram
 profiles:
+  - username: "m_alimsultanov75"
+    fullname: >-
+      Muhammad Alimsultanov МС 🇷🇺
+    location: "Russia"
+    followers: 5042
+    engagement: 743
+    commentsToLikes: 0.061786
+    id: ckap4owxp87ty0i78n7pfmwdr
+    verified: false
+    hashtags: "#hardwork, #terskol, #russianboxingfederation, #64"
   - username: "krapivnikov11"
     fullname: >-
       ᴅᴀɴɪɪʟ ᴋʀᴀᴘɪᴠɴɪᴋᴏᴠ
     location: "Russia"
-    followers: 453368
-    engagement: 1091
-    commentsToLikes: 0.031408
+    followers: 478189
+    engagement: 1124
+    commentsToLikes: 0.044776
     id: ck6u76zavju7g0j71op94o31x
     verified: false
-    hashtags: "#goal, #magic, #scream, #unreal"
-  - username: "_svetlana_fit"
+    hashtags: "#playfortheworld, #krapivnikov, #433, #playinside"
+  - username: "biryukova__official"
     fullname: >-
-      SVETLANA ELINA
+      V E R A   B I R Y U K O V A
     location: "Russia"
-    followers: 64918
-    engagement: 541
-    commentsToLikes: 0.065092
-    id: ck6udrdhzmpkv0j71r8vcxuej
-    verified: false
-    hashtags: ""
-  - username: "nifontova13"
-    fullname: >-
-      Anastasiya Nifontova
-    location: "Russia"
-    followers: 33972
-    engagement: 848
-    commentsToLikes: 0.034439
-    id: ck5py6ikeujyl0i11ggi38wz3
-    verified: false
-    hashtags: "#redbull, #motul, #thenorthface, #salonflat"
+    followers: 78523
+    engagement: 413
+    commentsToLikes: 0.063700
+    id: ck5butc5jiem70i11ezk2agy2
+    verified: true
+    hashtags: "#giveaway"
   - username: "dmitry_aliev"
     fullname: >-
       Dmitriy Aliev
     location: "Russia"
-    followers: 31852
-    engagement: 1804
-    commentsToLikes: 0.026136
+    followers: 32519
+    engagement: 1741
+    commentsToLikes: 0.025069
     id: ck8sysefyltq00j7866bum5tl
     verified: true
-    hashtags: "#rostelecom2019, #grandprixrussia, #teamrukavicin, #skateamerica2019"
+    hashtags: "#lasvegas, #rostelecom2019, #isu, #grandprixrussia"
   - username: "anna__shcherbakova_"
     fullname: >-
       Анна Щербакова
     location: "Russia"
-    followers: 94174
-    engagement: 1969
-    commentsToLikes: 0.015579
+    followers: 98663
+    engagement: 1475
+    commentsToLikes: 0.016933
     id: ck6twzb4uuyi30j7184thafpy
     verified: true
-    hashtags: "#airmaxday, #playinside, #playfortheworld, #justdoit"
-  - username: "liza_mankova"
+    hashtags: "#art, #perfume, #training, #livetraining"
+  - username: "mona_seraji"
     fullname: >-
-      ИНСТРУКТОР⚡ МАНЬКОВА ЛИЗА
+      Mona
     location: "Russia"
-    followers: 10326
-    engagement: 818
-    commentsToLikes: 0.062208
-    id: ck5zrjw0nwpu60i143jp7zg97
+    followers: 23835
+    engagement: 1033
+    commentsToLikes: 0.021265
+    id: ck5zw2m8a5cx60i14b5ye3fis
     verified: false
-    hashtags: "#indoorskiing, #weareskiing, #atomicalpineru, #giveaway"
-  - username: "umyarov11"
+    hashtags: "#birthdayboy, #saintbasilcathedral, #wesurfiniran, #stayhome"
+  - username: "nifontova13"
     fullname: >-
-      Nail Umyarov
+      Anastasiya Nifontova
     location: "Russia"
-    followers: 13702
-    engagement: 2218
-    commentsToLikes: 0.017908
-    id: ck5hjk0p7grkf0i111y3hzf64
+    followers: 34391
+    engagement: 712
+    commentsToLikes: 0.035078
+    id: ck5py6ikeujyl0i11ggi38wz3
     verified: false
-    hashtags: "#sportmaster, #nikerunning, #nikefootball, #anotherdouble"
+    hashtags: "#oakley, #covid, #stoppiewheelie, #maverickxrs"
+  - username: "volkov_alex"
+    fullname: >-
+      Alexander Volkov
+    location: "Russia"
+    followers: 183550
+    engagement: 464
+    commentsToLikes: 0.027272
+    id: ck6u7fufgl9i70j71aeie1g3q
+    verified: true
+    hashtags: "#landcruiser200, #m1, #fightwear, #bjj"
   - username: "jordanlarsson23"
     fullname: >-
       Jordan Larsson
     location: "Russia"
-    followers: 54119
-    engagement: 1209
-    commentsToLikes: 0.014849
+    followers: 54640
+    engagement: 1180
+    commentsToLikes: 0.015067
     id: ck55ntger6xvf0i116sz15gzg
     verified: true
     hashtags: "#nifattaringenting, #team, #davajspartak, #vi"
-  - username: "korpfit"
+  - username: "umyarov11"
     fullname: >-
-      Павел Корпачев
+      Nail Umyarov
     location: "Russia"
-    followers: 20115
-    engagement: 299
-    commentsToLikes: 0.184167
-    id: ck6tosot7fvz70j71xdegmeys
+    followers: 14447
+    engagement: 1962
+    commentsToLikes: 0.016394
+    id: ck5hjk0p7grkf0i111y3hzf64
     verified: false
-    hashtags: "#stayhome"
-  - username: "mrlanskyyy"
-    fullname: >-
-      Fitness Model Personal Trainer
-    location: "Russia"
-    followers: 16739
-    engagement: 659
-    commentsToLikes: 0.036307
-    id: ck5cbncy8fsmm0i11e7ku66qj
-    verified: false
-    hashtags: "#menstyle, #photooftheday, #faberlic, #aestheticphysique"
+    hashtags: "#anotherdouble, #playinside, #livingroomcup, #sportmaster"
 ---

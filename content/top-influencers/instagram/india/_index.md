@@ -1,109 +1,109 @@
 ---
 title: Top 10 Instagram Influencers In India In 2020
 description: >-
-  Find top Instagram influencers in India in 2020. Most popular hashtags: #stayhome #handwashchallenge #fashionblogger #staysafe.
+  Find top Instagram influencers in India in 2020. Most popular hashtags: #model #nature #photography #travel.
 platform: Instagram
 profiles:
   - username: "andreitalevin"
     fullname: >-
       Andreita Levin ॐ
     location: "India"
-    followers: 18074
-    engagement: 821
-    commentsToLikes: 0.052163
+    followers: 18634
+    engagement: 815
+    commentsToLikes: 0.056150
     id: ck0u7h3mp4njc0i19m5nnh9yv
     verified: false
-    hashtags: "#internationalwomanday, #instagramproblems"
-  - username: "verma_daisy"
+    hashtags: "#internationalwomanday"
+  - username: "kuttapayii_"
     fullname: >-
-      Daisy verma
+      Soman😎
     location: "India"
-    followers: 7087
-    engagement: 2289
-    commentsToLikes: 0.074286
-    id: ck8wf69oxf74u0j78oudsrqel
+    followers: 2162
+    engagement: 6474
+    commentsToLikes: 0.176832
+    id: ck9wpazok8k0z0j783csbsnnx
     verified: false
-    hashtags: "#doubleexposure, #acting, #expression, #tranding"
-  - username: "nandanisharma512"
+    hashtags: "#riders, #insta, #bike, #bikes"
+  - username: "llh03_einll"
     fullname: >-
-      Nandani Sharma
+      👿HO⑶🛇EIN👿
     location: "India"
-    followers: 30873
-    engagement: 939
-    commentsToLikes: 0.087654
-    id: ck8wgp668hsr70j786bseg13b
+    followers: 2813
+    engagement: 6427
+    commentsToLikes: 0.130666
+    id: ck9wj4nvx5b5p0j787ur126gh
     verified: false
-    hashtags: "#beasuperherow, #gendaphool, #lifebuoykarona"
-  - username: "pappya_gaikwad_official"
+    hashtags: "#pose, #model, #manmodeling, #modelfashion"
+  - username: "mossy_boy_003"
     fullname: >-
-      PapPya Gaikwad
+      ₳ Ɉ ₳ ¥ ♋ Ⲙ Ɇ ₦ ₮ Ʉ $
     location: "India"
-    followers: 1785451
-    engagement: 947
-    commentsToLikes: 0.062626
-    id: ck0u2mcaj0c8k0i192zla88ka
+    followers: 3085
+    engagement: 4910
+    commentsToLikes: 0.167310
+    id: ck9whqkggz12e0j78bsxhc47x
     verified: false
-    hashtags: "#stayhome, #tiktok, #handwashchallenge, #staysafe"
-  - username: "shehnaazgill"
+    hashtags: "#keralagram, #nature, #love, #keralagallery"
+  - username: "lucide_rider"
     fullname: >-
-      Shehnaaz Gill
+      𖦹𝖙𝖍𝖆𝖇𝖘𝖍𝖊𝖊𝖗 𝖓𝖆𝖇𝖍𝖆𝖓
     location: "India"
-    followers: 4400483
-    engagement: 1494
-    commentsToLikes: 0.037055
-    id: ck5hcar4ph2m70i114br6nvdy
-    verified: true
-    hashtags: "#sharrymaan, #veham, #happybirthday, #sidnaazians"
-  - username: "simplymystyle_unni"
-    fullname: >-
-      Unnimaya (Official)
-    location: "India"
-    followers: 96775
-    engagement: 687
-    commentsToLikes: 0.053244
-    id: ck8wexk2tervm0j782sl56bgp
+    followers: 6596
+    engagement: 4385
+    commentsToLikes: 0.129316
+    id: ck9wp9cix8cnk0j78v7w9wauk
     verified: false
-    hashtags: "#keralavlogger, #handwashing, #tiktot, #youtubeinfluencer"
-  - username: "_.ke_yur_17"
+    hashtags: "#kerala360, #kasaragod, #mallugirl, #mallureposts"
+  - username: "__psychopat__202"
     fullname: >-
-      KEyuR PatEL 🌹🖤
+      AShOK AkKu ||☆BD☆
     location: "India"
-    followers: 75792
-    engagement: 1786
-    commentsToLikes: 0.065593
-    id: ck8td70b525ji0j787jg0qdhc
+    followers: 2090
+    engagement: 4159
+    commentsToLikes: 0.329471
+    id: ck9whvwvuzpz20j7817vyy59b
     verified: false
-    hashtags: "#india, #favorite, #justjaans, #pose"
-  - username: "st_ra_ng_er____"
+    hashtags: "#jattlifestyle, #team, #teamwildcatz, #travel"
+  - username: "alien._.tribe08"
     fullname: >-
-      Stranger👽
+      ♥️ Prince ♥️
     location: "India"
-    followers: 6959
-    engagement: 2713
-    commentsToLikes: 0.290469
-    id: ck8tbsdj6wxv20j78wmz19hct
+    followers: 2148
+    engagement: 4106
+    commentsToLikes: 0.223154
+    id: ck9wiljt62tgy0j78dqmlnjmt
     verified: false
-    hashtags: "#mollywood, #bhfyp, #kochi, #love"
-  - username: "feelingfashioninside"
+    hashtags: "#z800india, #freeway, #ktm390duke, #yamahav3"
+  - username: "safu_ny_"
     fullname: >-
-      Personal Blog
+      Pottan❤️
     location: "India"
-    followers: 5110
-    engagement: 1870
-    commentsToLikes: 0.369683
-    id: ck8t8az4cjr370j786zot9dwa
+    followers: 3722
+    engagement: 3898
+    commentsToLikes: 0.175255
+    id: ck9wi281a0idm0j78gqstbcj4
     verified: false
-    hashtags: "#naturalskincareproducts, #hairgoals, #stayhomesavelives, #planforvacation"
-  - username: "ourpassportstory_"
+    hashtags: "#quoteoftheday, #arms, #neck, #blonde"
+  - username: "fede.barbaro"
     fullname: >-
-      Surbhi & Nehil | Travel Couple
+      ₣εδεɾίɕσ B̥αɾɓαɾσ®🤙
     location: "India"
-    followers: 3412
-    engagement: 3211
-    commentsToLikes: 0.192982
-    id: ck6tyeona3a9p0j71yjimujwa
+    followers: 6368
+    engagement: 3705
+    commentsToLikes: 0.373094
+    id: ck0uaul7kd0zv0i19ytlsofnt
     verified: false
-    hashtags: "#marinabaysands, #petronastowers, #mydubai, #cappadocia"
+    hashtags: "#ghost, #cloudy, #trickortreat, #skyphotography"
+  - username: "s_seyyidhi"
+    fullname: >-
+      ✨سمير سيدي🍃
+    location: "India"
+    followers: 2952
+    engagement: 3625
+    commentsToLikes: 0.248186
+    id: ck9wio93x36dm0j78lhdrtksn
+    verified: false
+    hashtags: "#samsunggalaxys8, #alappuzha, #teamandroid, #fantastic"
 cities:
   - name: Mumbai
     link: /instagram/india/mumbai

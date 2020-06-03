@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Miami In 2020
 description: >-
-  Find top beauty Instagram influencers in Miami in 2020. Most popular hashtags: #beauty #miami #makeup #fashion.
+  Find top beauty Instagram influencers in Miami in 2020. Most popular hashtags: #beauty #miami #stayhome #makeup.
 platform: Instagram
 profiles:
-  - username: "stefaniabriella"
+  - username: "_.hannahjo"
     fullname: >-
-      STEFANIA BRIELLA 💙
+      hannah jo
     location: "United States"
-    followers: 21869
-    engagement: 479
-    commentsToLikes: 0.065162
-    id: ck6u72gqzj36n0j71tosdtv0r
+    followers: 10602
+    engagement: 988
+    commentsToLikes: 0.131703
+    id: ck8wgm1myhm9l0j788tgsqnk5
     verified: false
-    hashtags: "#youtuber, #makeup, #pinkmakeup, #skinhealth"
-  - username: "valjada"
+    hashtags: "#makeup, #elite, #viral, #commercialmodel"
+  - username: "beautydoll_mua"
     fullname: >-
-      Valentina Quijada 📷
+      MIAMI & NYC Makeup Arist 👸🏻🏹🇬🇾
     location: "United States"
-    followers: 26013
-    engagement: 265
-    commentsToLikes: 0.057310
-    id: ck5cg1wozo0uj0i11kfvzyoeb
+    followers: 22464
+    engagement: 383
+    commentsToLikes: 0.059473
+    id: ck5hi7bfvc0qa0i11vt5k1mor
     verified: false
-    hashtags: "#floridaphotographer, #gabyunion, #bwbeauty, #miamiphotographer"
-  - username: "dylan_pinnell"
+    hashtags: "#divasweardiva, #makeup, #nymakeupartist, #miamibridalmakeup"
+  - username: "mzpujols23"
     fullname: >-
-      Dylan Nicole Pinnell
+      MzPujols23
     location: "United States"
-    followers: 13820
-    engagement: 1077
-    commentsToLikes: 0.023137
-    id: ck5qdldk4w54n0i118z65rpt1
+    followers: 9231
+    engagement: 391
+    commentsToLikes: 0.043146
+    id: ck6003aqycvqc0i14u9ovlc17
     verified: false
-    hashtags: "#dress, #dressinspo, #fitnessgirl, #photooftheday"
-  - username: "shaelucia_"
+    hashtags: "#blooms, #fashionshow, #instahair, #beauty"
+  - username: "nataliiamakeupartist"
     fullname: >-
-      Devonshaè Elizabeth
+      Nataliia Nosokas
     location: "United States"
-    followers: 21866
-    engagement: 710
-    commentsToLikes: 0.062186
-    id: ck5c4dswb152n0i110w8m323x
+    followers: 14922
+    engagement: 154
+    commentsToLikes: 0.368588
+    id: ck14kyxbps0yi0i19qxl5xwsi
     verified: false
-    hashtags: "#closeup, #grey, #forgirlsbygirls, #frontal"
-  - username: "oldlives"
+    hashtags: "#food, #makeupblogger, #glammakeup, #colorfullmakeup"
+  - username: "munozphotography"
     fullname: >-
-      Old Lives🖤
+      Muñoz Photography
     location: "United States"
-    followers: 21687
-    engagement: 623
-    commentsToLikes: 0.005939
-    id: ck15pwa6qzyax0i191x28oa3j
+    followers: 16041
+    engagement: 213
+    commentsToLikes: 0.016187
+    id: ck13bomdzweyg0i19ot6s756h
     verified: false
-    hashtags: "#1940, #woman, #january, #boulevard"
-  - username: "victornoblepr"
+    hashtags: "#engagementphotos, #virginia, #brooklynbridge, #dumbo"
+  - username: "dazmariah"
     fullname: >-
-      Victor Noble
+      D A Z  M A R I A H 🦋
     location: "United States"
-    followers: 17276
-    engagement: 222
-    commentsToLikes: 0.017441
-    id: ck0vxwlp713ne0i19b7pd7gng
+    followers: 46213
+    engagement: 189
+    commentsToLikes: 0.043701
+    id: ck6ts3jug2kaq0j71zfkxvmxm
     verified: false
-    hashtags: "#waves, #newyork, #advertising, #beautyeditorial"
-  - username: "midnightbeeglow"
-    fullname: >-
-      bettina
-    location: "United States"
-    followers: 12139
-    engagement: 670
-    commentsToLikes: 0.209504
-    id: ck6u2rvchtkhk0j71irapq53i
-    verified: false
-    hashtags: "#makeup, #coffeedaily, #amorepacific, #finecrew"
-  - username: "glowbyroe"
-    fullname: >-
-      ✨ GLOW BY ROE ✨
-    location: "United States"
-    followers: 18773
-    engagement: 116
-    commentsToLikes: 0.080001
-    id: ck602t0ediz9c0i14tus9234e
-    verified: false
-    hashtags: "#princeroyce, #skintightening, #summer2020, #skinobsessed"
-  - username: "joyannepanton"
-    fullname: >-
-      Joyanne Panton 🇯🇲
-    location: "United States"
-    followers: 19054
-    engagement: 202
-    commentsToLikes: 0.154152
-    id: ck14kw6imrmcf0i19x7y8ju4a
-    verified: false
-    hashtags: "#melanin, #profoto, #retouchworkshop, #caribbean"
+    hashtags: "#swayfit, #fashionnovapartner, #beadoll, #doseofroses"
   - username: "nandaquero"
     fullname: >-
       Nanda Quero
     location: "United States"
-    followers: 33693
-    engagement: 361
-    commentsToLikes: 0.069018
+    followers: 34370
+    engagement: 324
+    commentsToLikes: 0.079968
     id: ck0w76yd2c2fd0i19f3ztzb5i
     verified: false
-    hashtags: "#livemakeup, #editorialmakeup, #softglam, #nudenouveau"
+    hashtags: "#gimmebrow, #quarantinemood, #props, #editorialmakeup"
+  - username: "simply.jash"
+    fullname: >-
+      J A S H
+    location: "United States"
+    followers: 5889
+    engagement: 800
+    commentsToLikes: 0.713166
+    id: ck5zvm85g4hyr0i14e61xqpa4
+    verified: false
+    hashtags: "#brunchoutfit, #springlook, #blackoutfit, #hairtreatments"
+  - username: "lawrencepgivens"
+    fullname: >-
+      Lawrence P Givens
+    location: "United States"
+    followers: 21013
+    engagement: 107
+    commentsToLikes: 0.070910
+    id: ck14igqfffbfl0i19q94nls3q
+    verified: false
+    hashtags: "#prom, #bahamas, #bestmovie, #eveningwear"
+  - username: "cocoislandgal"
+    fullname: >-
+      
+    location: "United States"
+    followers: 2173
+    engagement: 1856
+    commentsToLikes: 0.051295
+    id: ckap8r2udphrm0i78oidi2zq9
+    verified: false
+    hashtags: "#fiercesociety, #hairblogger, #curls, #kinksandcoils"
 ---

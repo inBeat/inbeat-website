@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Rio De Janeiro In 2020
 description: >-
-  Find top Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #tbt #pov #emcasa #dueto.
+  Find top Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #tbt #rockinrio2019 #sunset #libertadores.
 platform: Instagram
 profiles:
-  - username: "brenogonzalez"
-    fullname: >-
-      Breno Gonzalez
-    location: "Brazil"
-    followers: 83329
-    engagement: 1620
-    commentsToLikes: 0.105033
-    id: ck8wenv9pecea0j78ggtlzjai
-    verified: false
-    hashtags: "#dueto, #foryou, #pov, #piscadinhadobreno"
-  - username: "biaa.rabelo"
-    fullname: >-
-      ♡ bia rabelo ♡
-    location: "Brazil"
-    followers: 324364
-    engagement: 1388
-    commentsToLikes: 0.554185
-    id: ck0w6x5i5aol60i19ipx64e5q
-    verified: false
-    hashtags: "#rockinrio, #pov, #routine, #nighroutine"
-  - username: "alice.monteiroo"
-    fullname: >-
-      Alice Monteiro
-    location: "Brazil"
-    followers: 3142
-    engagement: 2339
-    commentsToLikes: 0.167723
-    id: ck8t3bbue2me70j78pihsy8pv
-    verified: false
-    hashtags: ""
-  - username: "ogtreasure7"
-    fullname: >-
-      treasure me nota
-    location: "Brazil"
-    followers: 24117
-    engagement: 1848
-    commentsToLikes: 0.058720
-    id: ck5q5inlyt1ml0i11rtecgtjg
-    verified: false
-    hashtags: ""
   - username: "betaclaper"
     fullname: >-
       Beta Claper ☼
     location: "Brazil"
-    followers: 21443
-    engagement: 951
-    commentsToLikes: 0.093673
+    followers: 21666
+    engagement: 1278
+    commentsToLikes: 0.082697
     id: ck5pwrzr8oav40i11til22ehq
     verified: false
-    hashtags: "#publi, #17semanas, #17weekspregnant, #17weeks"
-  - username: "daniel_lenhardt"
+    hashtags: "#blackfridaynoshop2gether, #shop2gether, #love2share, #publi"
+  - username: "alexh.carvalho"
     fullname: >-
-      Daniel Lenhardt 🍀
+      🇧🇷Alex Henrique
     location: "Brazil"
-    followers: 966376
-    engagement: 713
-    commentsToLikes: 0.060021
-    id: ck8t69uepcsuj0j786ywhkeqk
-    verified: true
-    hashtags: "#teamdanlenhardt, #ficamarcela, #emcasa, #tbt"
-  - username: "itsalicefra"
-    fullname: >-
-      Alice França
-    location: "Brazil"
-    followers: 2591
-    engagement: 2552
-    commentsToLikes: 0.214296
-    id: ck8t1veqsx6rg0j78ng76wuwa
+    followers: 18041
+    engagement: 1230
+    commentsToLikes: 0.096644
+    id: ckaovghg34j590i78ny3fku01
     verified: false
-    hashtags: ""
-  - username: "todiih"
-    fullname: >-
-      F e l i p e   L o u r e n ç o
-    location: "Brazil"
-    followers: 8971
-    engagement: 1324
-    commentsToLikes: 0.105877
-    id: ck6uguwvz5b8e0j71u6d8okb2
-    verified: false
-    hashtags: "#tbt, #forabolsonaro, #forabozo, #emcasa"
-  - username: "tainamraes"
-    fullname: >-
-      Tainá Moraes
-    location: "Brazil"
-    followers: 135877
-    engagement: 1016
-    commentsToLikes: 0.119765
-    id: ck6ufzizv021j0j71rvynwggu
-    verified: false
-    hashtags: "#carnaval, #riodejaneiro, #quarantine, #makeup"
+    hashtags: "#riostar, #pedrabonita, #rockinrio2019, #istanbul"
   - username: "mah.costa"
     fullname: >-
-      
+      Mah Costa
     location: "Brazil"
-    followers: 103055
-    engagement: 633
-    commentsToLikes: 0.156179
+    followers: 101085
+    engagement: 645
+    commentsToLikes: 0.139539
     id: ck6tmfmsf7rd20j71hwidfoso
     verified: false
-    hashtags: "#somequeelevematraschallenge, #tbt, #tudookchallenge, #dogs"
+    hashtags: "#tbt, #tudookchallenge, #dogs, #somequeelevematraschallenge"
+  - username: "izabella.aguiar_"
+    fullname: >-
+      • IZA•
+    location: "Brazil"
+    followers: 2384
+    engagement: 2713
+    commentsToLikes: 0.248419
+    id: ckapbap00z7e20i78zbw9m19a
+    verified: false
+    hashtags: "#model, #marketingdigital, #digitalinfluencers, #make"
+  - username: "n.nunes_art"
+    fullname: >-
+      ❀ NICOLLY NUNES ❀
+    location: "Brazil"
+    followers: 5907
+    engagement: 2018
+    commentsToLikes: 0.107992
+    id: ck15rfo9z7p7p0i19azmq7wju
+    verified: false
+    hashtags: "#menamassoud, #tiktok, #sarahjeffery, #aladdin"
+  - username: "brenogonzalez"
+    fullname: >-
+      Breno Gonzalez
+    location: "Brazil"
+    followers: 112495
+    engagement: 1621
+    commentsToLikes: 0.084619
+    id: ck8wenv9pecea0j78ggtlzjai
+    verified: false
+    hashtags: "#tbt, #piscadinhadobreno, #brenogonzalez"
+  - username: "willyrodriguess"
+    fullname: >-
+      willy
+    location: "Brazil"
+    followers: 14561
+    engagement: 1308
+    commentsToLikes: 0.083018
+    id: ck9ha5phcb9e40j78t3zxoahv
+    verified: false
+    hashtags: "#carioca, #tiktokboys, #goodvibes, #vintage"
+  - username: "jennifercoutods"
+    fullname: >-
+      Jenni 🌈
+    location: "Brazil"
+    followers: 37951
+    engagement: 1129
+    commentsToLikes: 0.060107
+    id: ck6027fnugv2f0i1488frrwns
+    verified: false
+    hashtags: "#tatuagem, #auladesurf, #praia, #beach"
+  - username: "tainamraes"
+    fullname: >-
+      Tainá Moraes
+    location: "Brazil"
+    followers: 139149
+    engagement: 659
+    commentsToLikes: 0.320974
+    id: ck6ufzizv021j0j71rvynwggu
+    verified: false
+    hashtags: "#sa, #vaipassar, #emcasa, #esperan"
+  - username: "ogtreasure7"
+    fullname: >-
+      OGTREASURE7 😈💧
+    location: "Brazil"
+    followers: 25174
+    engagement: 1840
+    commentsToLikes: 0.056743
+    id: ck5q5inlyt1ml0i11rtecgtjg
+    verified: false
+    hashtags: ""
 ---

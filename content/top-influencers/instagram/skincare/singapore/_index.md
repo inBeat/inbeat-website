@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Singapore In 2020
 description: >-
-  Find top skincare Instagram influencers in Singapore in 2020. Most popular hashtags: #sgbeauty #sp #sgig #beautysg.
+  Find top skincare Instagram influencers in Singapore in 2020. Most popular hashtags: #skincare #earthday #selfcare #skincareroutine.
 platform: Instagram
 profiles:
   - username: "thehappyskinglow"
     fullname: >-
-      Khushi 😜🤪
+      Khushi 😜🤪 - LIVE GIVEAWAY
     location: "Singapore"
-    followers: 2664
-    engagement: 1239
-    commentsToLikes: 0.211520
+    followers: 3197
+    engagement: 1633
+    commentsToLikes: 0.343523
     id: ck6tqclx9qoao0j719k8rbzeo
     verified: false
-    hashtags: "#goopgiftedme, #goopglow, #capsuljewelrygiftedme, #capsuljewelry"
-  - username: "rachelwongggg"
+    hashtags: "#cleanatsephora, #octolyfamily, #kevynaucoinbeauty, #glassglow"
+  - username: "rarecray"
     fullname: >-
-      Rachel Wong
+      Dan Ng
     location: "Singapore"
-    followers: 12160
-    engagement: 350
-    commentsToLikes: 0.019420
-    id: ck5zvedfd42qt0i140vr1e7tp
+    followers: 56547
+    engagement: 902
+    commentsToLikes: 0.013544
+    id: ck6ugmdui3vpy0j71uhim1vdo
     verified: false
-    hashtags: "#westworld, #sp, #luge15, #skylinelugesentosa"
-  - username: "_tinc"
+    hashtags: "#uncovertheultimate, #reno3pro, #clearineveryshot, #mentalhealthawareness"
+  - username: "tylomere"
     fullname: >-
-      T I N C 。婷🇸🇬
+      Tyler Koh 🌱
     location: "Singapore"
-    followers: 20173
-    engagement: 839
-    commentsToLikes: 0.082146
-    id: ck8sx62wega9v0j784y1sfsg1
+    followers: 19725
+    engagement: 686
+    commentsToLikes: 0.033101
+    id: ck5cgzj3apu9c0i11ascv8ghh
     verified: false
-    hashtags: "#firsttimemom, #stayhomeclub, #sgig, #greenlenses"
+    hashtags: "#zalorasg, #thelittleprince, #mountbromo, #cottoncandyskies"
   - username: "qinlovesmacaronsss"
     fullname: >-
       мαʏα ʜᴀᴢᴇʟ ǫɪɴ マヤ • sɪɴɢᴀᴘᴏʀᴇ
     location: "Singapore"
-    followers: 24385
-    engagement: 512
-    commentsToLikes: 0.147471
+    followers: 25141
+    engagement: 509
+    commentsToLikes: 0.105823
     id: ck6ugweze5kk90j71irog1i1v
     verified: false
-    hashtags: "#sgfoodie, #2019ncov, #makeuptalk, #sgeats"
+    hashtags: "#sunblock, #aveenosg, #eczema, #mhrasia"
   - username: "kaitinghearts"
     fullname: >-
       Kaiting Cheng
     location: "Singapore"
-    followers: 23892
-    engagement: 230
-    commentsToLikes: 0.053323
+    followers: 23797
+    engagement: 237
+    commentsToLikes: 0.053338
     id: ck5hh8kxn6y4t0i11226wcjhx
     verified: false
-    hashtags: "#sp, #bhgsg, #zoomzoom, #kentingseah"
-  - username: "karishmajashani"
+    hashtags: "#sgbeauty, #sunscreen, #mediesthesg, #aquauvdaycream"
+  - username: "hanlihoefer"
     fullname: >-
-      Karishma
+      Hanli Hoefer
     location: "Singapore"
-    followers: 17427
-    engagement: 809
-    commentsToLikes: 0.054189
-    id: ck15uiuqzne1u0i19vl98atrd
-    verified: false
-    hashtags: "#sgnailsalon, #chantecaillesg, #colourpopsweettalk, #singaporemakeup"
-  - username: "dennc"
+    followers: 46222
+    engagement: 280
+    commentsToLikes: 0.025519
+    id: ck55kalnhyvhc0i117t4xz48j
+    verified: true
+    hashtags: "#ss20, #getitdone, #revengebody, #livingsolo"
+  - username: "silkenchu"
     fullname: >-
-      •Fashion•Beauty•Travel•🇸🇬🇲🇾
+      
     location: "Singapore"
-    followers: 19369
-    engagement: 242
-    commentsToLikes: 0.081441
-    id: ck6ugwi965l6c0j71qv4btfml
+    followers: 2103
+    engagement: 1397
+    commentsToLikes: 0.077265
+    id: ck6uhebzc8mea0j71c8jqn5up
     verified: false
-    hashtags: "#goodfriday2020, #airportlook, #hakodatecity, #orbis"
-  - username: "sugar73"
+    hashtags: "#beautylover, #featurecreature, #naturallightportrait, #creativityeveryday"
+  - username: "mandyymiz"
     fullname: >-
-      ELAINE🦄 SG Mummy Of 2
+      Mandy 陈佩思
     location: "Singapore"
-    followers: 16317
-    engagement: 241
-    commentsToLikes: 0.760003
-    id: ck5hivwhffk4c0i11ezduhnrk
+    followers: 17921
+    engagement: 240
+    commentsToLikes: 0.137471
+    id: ck6ub2wfo75k00j717ugsbqq8
     verified: false
-    hashtags: "#sgmummycooks, #homecookingsg, #latergram, #babiesofinstagram"
-  - username: "sherrillx3_"
+    hashtags: "#exploresg, #bodycondress, #sgreview, #beautyblog"
+  - username: "wanleng_"
     fullname: >-
-      💞👑🔹S H E R R I L L🔹👑💕
+      𝑬𝒗𝒆𝒍𝒚𝒏𝒏 罗婉翎 🦄
     location: "Singapore"
-    followers: 71287
-    engagement: 159
-    commentsToLikes: 0.011157
-    id: ck13auryssajf0i19hilgikvp
+    followers: 25465
+    engagement: 114
+    commentsToLikes: 0.026879
+    id: ck8t6dhkxd7i80j78i54kuvla
     verified: false
-    hashtags: "#jldsg, #justlovedrink, #jlddragon, #jld1646"
-  - username: "carlzeno"
+    hashtags: "#mercimarcel, #ilovemelix, #printwich, #letmeskin"
+  - username: "melanie_mak"
     fullname: >-
-      Zeno
+      M E L A N I E
     location: "Singapore"
-    followers: 29710
-    engagement: 223
-    commentsToLikes: 0.020085
-    id: ck5c763pf6w4j0i11zfi51t5h
+    followers: 25588
+    engagement: 569
+    commentsToLikes: 0.147036
+    id: ck5c1qthkvqls0i118flqxaoa
     verified: false
-    hashtags: "#parthenon, #threestripes, #noteajustreality, #naturewins"
+    hashtags: "#desksituation, #yslbeautysg, #meow, #tabbycat"
 ---

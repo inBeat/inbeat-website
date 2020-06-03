@@ -1,107 +1,107 @@
 ---
 title: Top 10 Runners Instagram Influencers In Germany In 2020
 description: >-
-  Find top runners Instagram influencers in Germany in 2020. Most popular hashtags: #running #run #laufen #runnersofinstagram.
+  Find top runners Instagram influencers in Germany in 2020. Most popular hashtags: #throwback #stayhome #selfie #halfmarathon.
 platform: Instagram
 profiles:
   - username: "_sicht_weise"
     fullname: >-
       Kathrin | 📍Augsburg
     location: "Germany"
-    followers: 10517
-    engagement: 1142
-    commentsToLikes: 0.081929
+    followers: 11183
+    engagement: 1374
+    commentsToLikes: 0.085945
     id: ck0tvvcizcy860i193wvocbnr
     verified: false
-    hashtags: "#hardlopen, #wellness, #marathonvorbereitung, #whyirun"
+    hashtags: "#easter, #tapering, #happyplace, #weightloss"
   - username: "mariercvry"
     fullname: >-
       MaryThoner
     location: "Germany"
-    followers: 28830
-    engagement: 374
-    commentsToLikes: 0.058309
+    followers: 28533
+    engagement: 370
+    commentsToLikes: 0.067460
     id: ck14krpeqqza20i198c7zi8uj
     verified: false
-    hashtags: "#weddingday, #artzt, #faszienmassage, #dontpanic"
-  - username: "nicolabechynova"
-    fullname: >-
-      NIKOLA BECHYŇOVÁ
-    location: "Germany"
-    followers: 66122
-    engagement: 315
-    commentsToLikes: 0.046307
-    id: ck55lnn6g1zzh0i11d78fmga6
-    verified: false
-    hashtags: "#stylish, #blazer, #czehgirls, #fashioninspiration"
-  - username: "_cocobine_"
-    fullname: >-
-      Bine 🏃🏼‍♀️🏔Coco🐕🌲🐾
-    location: "Germany"
-    followers: 10041
-    engagement: 708
-    commentsToLikes: 0.090441
-    id: ck8t0xvhgtql70j78umuewkfq
-    verified: false
-    hashtags: "#runnerforlife, #trainhard, #freutag, #throwback"
-  - username: "schonherrdavid"
-    fullname: >-
-      David Schönherr
-    location: "Germany"
-    followers: 22719
-    engagement: 677
-    commentsToLikes: 0.042065
-    id: ck8ta8cmxqtpb0j784wj89xhd
-    verified: false
-    hashtags: "#stayathome, #scheckinshape, #nikerunning, #maratonsevilla"
-  - username: "_johanna_kl_"
-    fullname: >-
-      Johanna
-    location: "Germany"
-    followers: 18694
-    engagement: 754
-    commentsToLikes: 0.039142
-    id: ck5hls5bvkrbe0i11x8t6d3ts
-    verified: false
-    hashtags: "#hair, #sunset, #goodlife, #berlin"
-  - username: "running_love_lux"
-    fullname: >-
-      JeSsIcA
-    location: "Germany"
-    followers: 7949
-    engagement: 1504
-    commentsToLikes: 0.019633
-    id: ck15qzcmm5cvl0i198ptzop5f
-    verified: false
-    hashtags: "#whyirun, #runnersofinstagram, #runningmotivation, #sayskystaybrave"
-  - username: "runningjazzy"
-    fullname: >-
-      Jasmin🏃🏻‍♀️ASICS FrontRunner🇩🇪
-    location: "Germany"
-    followers: 17767
-    engagement: 650
-    commentsToLikes: 0.028495
-    id: ck13c0t5jy39x0i1968i5szr9
-    verified: false
-    hashtags: "#runhappy, #laufliebe, #longrun, #marathon"
+    hashtags: "#togetherness, #coronar, #smarthelmet, #vegan"
   - username: "qunadine"
     fullname: >-
       Nadine💙Brooks RUN HAPPY TEAM
     location: "Germany"
-    followers: 6784
-    engagement: 756
-    commentsToLikes: 0.052887
+    followers: 7025
+    engagement: 1005
+    commentsToLikes: 0.062167
     id: ck14k5p1knuqw0i19jl8014m2
     verified: false
-    hashtags: "#darumlaufenwir, #instapic, #adrenalinegts20, #runner"
+    hashtags: "#venloop2020, #backtotheroots, #laufenmachtgl, #iloverunning"
+  - username: "_johanna_kl_"
+    fullname: >-
+      Johanna
+    location: "Germany"
+    followers: 20098
+    engagement: 671
+    commentsToLikes: 0.044944
+    id: ck5hls5bvkrbe0i11x8t6d3ts
+    verified: false
+    hashtags: "#positive, #movement, #portsuniverse, #couch"
+  - username: "runningjazzy"
+    fullname: >-
+      Jasmin🏃🏻‍♀️ASICS FrontRunner🇩🇪
+    location: "Germany"
+    followers: 17964
+    engagement: 698
+    commentsToLikes: 0.028524
+    id: ck13c0t5jy39x0i1968i5szr9
+    verified: false
+    hashtags: "#parkrun, #summer, #runhappy, #halbmarathon"
+  - username: "running_love_lux"
+    fullname: >-
+      JeSsIcA
+    location: "Germany"
+    followers: 8364
+    engagement: 1307
+    commentsToLikes: 0.021028
+    id: ck15qzcmm5cvl0i198ptzop5f
+    verified: false
+    hashtags: "#laufband, #bleibtgesund, #runninglove, #funrun"
+  - username: "iva_runstheworld"
+    fullname: >-
+      My 💛 is in running shoes!
+    location: "Germany"
+    followers: 12412
+    engagement: 850
+    commentsToLikes: 0.027643
+    id: ck9hao9lhdcgx0j783t9a1sb7
+    verified: false
+    hashtags: "#discovermore, #vltavarun, #training, #happyrunner"
+  - username: "sedovalenka"
+    fullname: >-
+      Седова Елена
+    location: "Germany"
+    followers: 3523
+    engagement: 2047
+    commentsToLikes: 0.047083
+    id: ck0ucilj7gz8o0i19a8asnq6f
+    verified: false
+    hashtags: "#kerioview, #corona, #tambach, #keriovalley"
   - username: "st_pauli_cat"
     fullname: >-
       🔹hygge🔹running🔹and🔹living🔹
     location: "Germany"
-    followers: 5580
-    engagement: 765
-    commentsToLikes: 0.037721
+    followers: 5703
+    engagement: 797
+    commentsToLikes: 0.037581
     id: ck8t1mbjuw8lc0j78a9xw6ndq
     verified: false
-    hashtags: "#goodmorning, #zwift, #nofilter, #run"
+    hashtags: "#laufen, #throwback, #summerwildling20, #nofilter"
+  - username: "nicolabechynova"
+    fullname: >-
+      NIKOLA BECHYŇOVÁ
+    location: "Germany"
+    followers: 66435
+    engagement: 304
+    commentsToLikes: 0.017274
+    id: ck55lnn6g1zzh0i11d78fmga6
+    verified: false
+    hashtags: "#lougirlathome, #comfy, #bloggers, #insta"
 ---

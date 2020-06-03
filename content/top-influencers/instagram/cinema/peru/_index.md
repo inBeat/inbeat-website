@@ -1,87 +1,107 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Peru In 2020
 description: >-
-  Find top cinema Instagram influencers in Peru in 2020. Most popular hashtags: #picoftheday #ilustracion #peru #art.
+  Find top cinema Instagram influencers in Peru in 2020. Most popular hashtags: #nature #life #peru #cultura.
 platform: Instagram
 profiles:
   - username: "carmonaperu"
     fullname: >-
       ✖️T A D E O  C A R M O N A ✖️
     location: "Peru"
-    followers: 41679
-    engagement: 447
-    commentsToLikes: 0.043036
+    followers: 41777
+    engagement: 436
+    commentsToLikes: 0.041190
     id: ck15qsb0u4e7s0i19dc1t4kgq
     verified: true
-    hashtags: "#emtb, #sonyimages, #specialized, #peru"
+    hashtags: "#carmoneta, #skate, #morrison, #kenevo"
   - username: "hugosalazar_"
     fullname: >-
       Hugo Salazar
     location: "Peru"
-    followers: 35696
-    engagement: 358
-    commentsToLikes: 0.055225
+    followers: 36966
+    engagement: 347
+    commentsToLikes: 0.051660
     id: ck5hm2qrxl9u40i11rxvpaf1p
     verified: true
-    hashtags: "#navidad, #cumplea, #life, #lluvia"
-  - username: "kivasmakeup"
+    hashtags: "#martes, #guitarra, #dietasana, #makeup"
+  - username: "oom.peru"
     fullname: >-
-      María Fernanda
+      C E S A R V
     location: "Peru"
-    followers: 22934
-    engagement: 122
-    commentsToLikes: 0.039356
-    id: ck5c3b3udyy340i11qk4jhm9n
+    followers: 6435
+    engagement: 934
+    commentsToLikes: 0.115772
+    id: ckaorxytqp9sx0i78spz9m5oj
     verified: false
-    hashtags: "#makeuptutorial, #juviasplace, #tutorial, #fxmakeup"
+    hashtags: "#folksoul, #epicfail, #bartenderstyle, #photo360"
   - username: "ilustronauta"
     fullname: >-
       Ilustronauta
     location: "Peru"
-    followers: 21866
-    engagement: 420
-    commentsToLikes: 0.025386
+    followers: 23337
+    engagement: 400
+    commentsToLikes: 0.026548
     id: ck6toaq4fd0px0j71ohsusaiz
     verified: false
-    hashtags: "#girl, #kawaii, #ilustracioninfantil, #rickandmorty"
-  - username: "taddtm"
+    hashtags: "#mochica, #sailormoon, #nike, #arnold"
+  - username: "studiouku"
     fullname: >-
-      Tadeo Soriano
+      Studio Uku
     location: "Peru"
-    followers: 10469
-    engagement: 1123
-    commentsToLikes: 0.013212
-    id: ck139734kjv290i19y9kim7wd
+    followers: 13681
+    engagement: 1826
+    commentsToLikes: 0.017241
+    id: ck9wfmjqdpihj0j78nd4akqew
     verified: false
-    hashtags: "#invaderzim, #kidsnextdoor, #art, #cute"
-  - username: "inesestevezin"
-    fullname: >-
-      Ines Estevez
-    location: "Peru"
-    followers: 138177
-    engagement: 213
-    commentsToLikes: 0.041295
-    id: ck0w6oboe9isr0i19krey2lui
-    verified: true
-    hashtags: "#inesestevez, #malvinas, #music, #cinepolismendoza"
+    hashtags: "#animated, #c4dtoa, #funeraldance, #coffin"
   - username: "catrina.catstyle"
     fullname: >-
-      FABICATRINA💙
+      𝕱𝖆𝖇𝖎𝕮𝖆𝖙𝖗𝖎𝖓𝖆💙
     location: "Peru"
-    followers: 19176
-    engagement: 494
-    commentsToLikes: 0.109813
+    followers: 19804
+    engagement: 479
+    commentsToLikes: 0.118461
     id: ck0w1gfctj7vm0i196s2nzml5
     verified: false
-    hashtags: "#photooftheday, #lookoftheday, #culturapositiva, #styleoftheday"
+    hashtags: "#moments, #loveyou, #xyzcba, #plateado"
+  - username: "_gingerbeauty_"
+    fullname: >-
+      Renata Marruffo
+    location: "Peru"
+    followers: 6549
+    engagement: 1073
+    commentsToLikes: 0.029274
+    id: ck6u903fpup620j71s2au3h4q
+    verified: false
+    hashtags: "#bumblebee, #katvondbeauty, #invertedmakeup, #shrek"
   - username: "acostapinto"
     fullname: >-
       Alexandra Costa-Pinto
     location: "Peru"
-    followers: 10144
-    engagement: 720
-    commentsToLikes: 0.028362
+    followers: 10058
+    engagement: 703
+    commentsToLikes: 0.027390
     id: ck5hlprwxkmll0i116y4d4cwh
     verified: false
     hashtags: ""
+  - username: "luigirovagnatic"
+    fullname: >-
+      Luigi Rovagnati Cinema
+    location: "Peru"
+    followers: 45847
+    engagement: 407
+    commentsToLikes: 0.009641
+    id: ck134hu2nwhrc0i19uakqas6y
+    verified: false
+    hashtags: "#theinvisibleman, #drewbarrymore, #stevenspielberg, #parquejurasico"
+  - username: "leonlec"
+    fullname: >-
+      León Lecanda
+    location: "Peru"
+    followers: 12391
+    engagement: 610
+    commentsToLikes: 0.056392
+    id: ck5zpgxo2sn8i0i14ftowdy94
+    verified: true
+    hashtags: "#espn2, #costarica, #nosgan, #enpenales"
 ---

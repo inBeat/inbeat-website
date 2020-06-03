@@ -1,46 +1,66 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Japan In 2020
 description: >-
-  Find top chefs Instagram influencers in Japan in 2020. Most popular hashtags: #repost #japan #chefgino #wonk.
+  Find top chefs Instagram influencers in Japan in 2020. Most popular hashtags: #repost #japan #tokyo #cookingrelay.
 platform: Instagram
 profiles:
   - username: "feodor_kiselev"
     fullname: >-
       Feodor Kiselev
     location: "Japan"
-    followers: 26958
-    engagement: 2353
-    commentsToLikes: 0.056554
+    followers: 27602
+    engagement: 2242
+    commentsToLikes: 0.055137
     id: ck5zkqc7sjyov0i149ve6ew4c
     verified: false
-    hashtags: "#kawaiiaesthetic, #harajukufashion, #alternativestyle, #harajukustyle"
-  - username: "kellymisawa"
-    fullname: >-
-      Kelly Misawa | Wellness
-    location: "Japan"
-    followers: 57495
-    engagement: 268
-    commentsToLikes: 0.032510
-    id: ck55n669b5kgr0i112ceoz4ln
-    verified: false
-    hashtags: "#sanairesort, #vitamixjapan, #comingsoon, #happysunday"
+    hashtags: "#cosplayboy, #gothgrunge, #softaesthetic, #gothgoth"
   - username: "eliseaki"
     fullname: >-
       Erina❤️
     location: "Japan"
-    followers: 47374
-    engagement: 225
-    commentsToLikes: 0.064133
+    followers: 46837
+    engagement: 222
+    commentsToLikes: 0.061582
     id: ck14gnwnm65x80i191m1khzme
     verified: false
-    hashtags: "#tokyoeats, #bestboyfriendever, #mexican, #mexi"
+    hashtags: "#socialdistance, #throwback, #japan, #spon"
+  - username: "thomasfrebel"
+    fullname: >-
+      Thomas Frebel
+    location: "Japan"
+    followers: 45106
+    engagement: 379
+    commentsToLikes: 0.019239
+    id: ck0u6rtvv2rjm0i19315a51kt
+    verified: false
+    hashtags: "#thedavidchangshow, #amustlisten, #24tentacles"
+  - username: "kellymisawa"
+    fullname: >-
+      Kelly Misawa | Wellness
+    location: "Japan"
+    followers: 63609
+    engagement: 309
+    commentsToLikes: 0.040037
+    id: ck55n669b5kgr0i112ceoz4ln
+    verified: false
+    hashtags: "#cotonfood, #japan, #summerdishes, #safelives"
+  - username: "rikayukimasa"
+    fullname: >-
+      Rika Yukimasa 行正り香
+    location: "Japan"
+    followers: 26182
+    engagement: 348
+    commentsToLikes: 0.018772
+    id: ckapcnrjt4hnp0i78ci1jpdsm
+    verified: false
+    hashtags: "#rikayukimasa, #karaoke, #americanmeat"
   - username: "zakirs_sushi"
     fullname: >-
       Zakir Yusifov
     location: "Japan"
-    followers: 30524
-    engagement: 735
-    commentsToLikes: 0.006610
+    followers: 30775
+    engagement: 425
+    commentsToLikes: 0.010423
     id: ck13c1bvty4zz0i19jo4biyis
     verified: false
     hashtags: ""
@@ -48,60 +68,40 @@ profiles:
     fullname: >-
       Hasan Karabazar
     location: "Japan"
-    followers: 32573
-    engagement: 139
-    commentsToLikes: 0.032418
+    followers: 32425
+    engagement: 135
+    commentsToLikes: 0.031293
     id: ck15td8sshj8d0i193z4zjx2l
     verified: false
-    hashtags: "#rollingwithpassion, #like, #japan, #kaensushi"
-  - username: "chefgino"
-    fullname: >-
-      𝙂𝙄𝙉𝙊 𝙂𝙊𝙉𝙕𝘼𝙇𝙀𝙕
-    location: "Japan"
-    followers: 38082
-    engagement: 93
-    commentsToLikes: 0.022895
-    id: ck5hmr4kxmgyu0i11tg93b6h1
-    verified: true
-    hashtags: "#chefgino, #culinary, #daddysgirl, #ginonggala"
-  - username: "yuichi.goto"
-    fullname: >-
-      yuichi goto
-    location: "Japan"
-    followers: 13934
-    engagement: 523
-    commentsToLikes: 0.005241
-    id: ck55q963bcco50i112ot84qox
-    verified: false
-    hashtags: "#keitamaruyama, #strawberrycake, #bluebottlecoffee, #keitamaruyama"
+    hashtags: "#repost"
   - username: "takeshishibata"
     fullname: >-
       🇯🇵Takeshi SHIBATA🇯🇵
     location: "Japan"
-    followers: 6047
-    engagement: 313
-    commentsToLikes: 0.006950
+    followers: 11548
+    engagement: 415
+    commentsToLikes: 0.012940
     id: ck6uf2zicukkh0j71f44gsdxd
     verified: false
-    hashtags: "#matcha, #thankyou, #thonglorcafe, #japan"
-  - username: "nikinakayama"
+    hashtags: "#burntcheesecake, #basquecheesecake, #cemoi, #choualacreme"
+  - username: "yuichi.goto"
     fullname: >-
-      Niki Nakayama
+      yuichi goto
     location: "Japan"
-    followers: 13480
-    engagement: 591
-    commentsToLikes: 0.022010
-    id: ck5pw5j9nl7f10i11r8bi8mad
+    followers: 14584
+    engagement: 484
+    commentsToLikes: 0.004520
+    id: ck55q963bcco50i112ot84qox
     verified: false
-    hashtags: "#repost, #gastronomia, #kyoto, #toosmalltofail"
-  - username: "kentwits"
+    hashtags: "#galettedesrois, #patissier, #repost, #cookingrelay"
+  - username: "pakio999"
     fullname: >-
-      Kento Nagatsuka
+      近藤アリー（パキ男）
     location: "Japan"
-    followers: 10972
-    engagement: 924
-    commentsToLikes: 0.010443
-    id: ck14it73jh1qv0i19bkd2xj96
-    verified: true
-    hashtags: "#bambi, #wonksplayhouse, #yaseicollective, #acidman"
+    followers: 6946
+    engagement: 718
+    commentsToLikes: 0.031007
+    id: ckap63hnhe8cz0i78hmj171rg
+    verified: false
+    hashtags: "#giovannirossi, #ginza, #life, #tcss"
 ---

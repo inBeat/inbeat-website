@@ -1,107 +1,107 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Italy In 2020
 description: >-
-  Find top comedians Instagram influencers in Italy in 2020. Most popular hashtags: #milano #leiene #iorestoacasa #coronavirus.
+  Find top comedians Instagram influencers in Italy in 2020. Most popular hashtags: #weekend #milano #mascherine #festadelpap.
 platform: Instagram
 profiles:
+  - username: "dilsonespindola"
+    fullname: >-
+      Dilson Espindola
+    location: "Italy"
+    followers: 24235
+    engagement: 279
+    commentsToLikes: 0.113412
+    id: ck5zyv3q1al7d0i14p0ic457n
+    verified: false
+    hashtags: "#amo, #bomdia, #dog, #shape"
   - username: "cristianopasca"
     fullname: >-
       C R I S T I A N O   P A S C A
     location: "Italy"
-    followers: 29544
-    engagement: 154
-    commentsToLikes: 0.078990
+    followers: 29611
+    engagement: 147
+    commentsToLikes: 0.068072
     id: ck0w1qrn6koba0i19cizss34e
     verified: false
-    hashtags: "#editing, #cool, #diet, #attori"
+    hashtags: "#italia, #gabrielgarko, #englishschool, #buongiorno"
+  - username: "tony.stlouis"
+    fullname: >-
+      Tony 🍋 Parisien
+    location: "Italy"
+    followers: 9978
+    engagement: 718
+    commentsToLikes: 0.047005
+    id: ckapa5qumutol0i78o2bh4le3
+    verified: false
+    hashtags: "#burberry, #parisienne, #cherryblossom, #restezchezvous"
   - username: "gabrigabra"
     fullname: >-
       GABRA
     location: "Italy"
-    followers: 26054
-    engagement: 248
-    commentsToLikes: 0.021723
+    followers: 25969
+    engagement: 243
+    commentsToLikes: 0.027680
     id: ck5zvhwcr49rv0i14fzzrtkws
     verified: false
-    hashtags: "#briscolalibera, #italia1, #peakyblinders, #italia1"
+    hashtags: "#cologno, #peakyblinders, #baratto, #piatek"
   - username: "lanzonigermano"
     fullname: >-
       G E R M A N O  L A N Z O N I
     location: "Italy"
-    followers: 112332
-    engagement: 550
-    commentsToLikes: 0.011263
+    followers: 113752
+    engagement: 561
+    commentsToLikes: 0.012675
     id: ck14hygaecrnr0i19e0ec5uwq
     verified: true
-    hashtags: "#family, #milanononsiferma, #torino, #roma"
+    hashtags: "#milanononsiferma, #charity, #francobaresi, #danielemassaro"
   - username: "marynaofficial"
     fullname: >-
       Maryna
     location: "Italy"
-    followers: 702513
-    engagement: 401
-    commentsToLikes: 0.007421
+    followers: 712624
+    engagement: 519
+    commentsToLikes: 0.007530
     id: ck55jzdmhy4f70i11kjd9374q
     verified: true
-    hashtags: "#menefrego, #mfw, #ilookdellaquarantena, #lacasadicarta"
-  - username: "whatsupdanny"
-    fullname: >-
-      Daniel Franzese
-    location: "Italy"
-    followers: 112947
-    engagement: 154
-    commentsToLikes: 0.025053
-    id: ck5cgjvkup0430i114l548fgd
-    verified: true
-    hashtags: "#thefunnydanceshow, #bigboysummer, #foundthemusical, #houseofglencoco"
+    hashtags: "#ricordi, #carlaelite, #esterexposito, #cover"
   - username: "kushpapi_"
     fullname: >-
       Kush Papi 🍇🍊🍍
     location: "Italy"
-    followers: 2175506
-    engagement: 318
-    commentsToLikes: 0.048131
+    followers: 2157891
+    engagement: 301
+    commentsToLikes: 0.082145
     id: ck0vz5e4g7e1l0i1949naffoi
     verified: true
-    hashtags: "#chicago, #comedy, #worldstar, #funny"
-  - username: "lleshigenci"
+    hashtags: "#freekush, #food"
+  - username: "cristiano.militello"
     fullname: >-
-      Genc Lleshi
+      Cristiano Militello
     location: "Italy"
-    followers: 8090
-    engagement: 493
-    commentsToLikes: 0.036959
-    id: ck6tjxg5l3lyg0j719cv9usbh
-    verified: false
-    hashtags: "#shqiperia, #kosova, #prishtina, #tirana"
-  - username: "ladyfacchinetti"
-    fullname: >-
-      Wilma Faissol Facchinetti
-    location: "Italy"
-    followers: 434349
-    engagement: 380
-    commentsToLikes: 0.012395
-    id: ck5bylhllpdo20i1178swvppc
+    followers: 81144
+    engagement: 236
+    commentsToLikes: 0.032945
+    id: ck6tn8dvg9c580j71az8fjptd
     verified: true
-    hashtags: "#italy, #inter, #bicchieremezzopieno, #quarantena"
+    hashtags: "#coppie, #volte, #themask, #correzioni"
   - username: "leonmurillooficial"
     fullname: >-
-      León Murillo
+      León Murillo
     location: "Italy"
-    followers: 52748
-    engagement: 82
-    commentsToLikes: 0.071683
+    followers: 53800
+    engagement: 66
+    commentsToLikes: 0.084634
     id: ck5hs75e4w3n80i11846lvpow
     verified: true
-    hashtags: "#lacoparota, #losvoyaeperar, #plazadignidad, #nosalgandecasa"
-  - username: "bes_kallaku"
+    hashtags: "#memoria, #hachosreales, #momentodoglover, #mepuseemotivo"
+  - username: "malhall"
     fullname: >-
-      Bes Kallaku
+      Mal Hall
     location: "Italy"
-    followers: 1145575
-    engagement: 186
-    commentsToLikes: 0.012896
-    id: ck6tjwu4m3ktz0j71jx4ruh7d
+    followers: 21231
+    engagement: 120
+    commentsToLikes: 0.031091
+    id: ck5q9i38lb85x0i11kpovjwc6
     verified: true
-    hashtags: "#skifteri, #karantine, #humor, #humorsocial"
+    hashtags: "#cookingwmal, #laughshirtathome, #balancebroom, #virtualstandupshow"
 ---

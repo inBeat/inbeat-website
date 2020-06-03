@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top yoga Instagram influencers in Indonesia in 2020. Most popular hashtags: #yoga #meditation #travelgirl #myyogalife.
+  Find top yoga Instagram influencers in Indonesia in 2020. Most popular hashtags: #bali #asana #happyearthday #backbend.
 platform: Instagram
 profiles:
   - username: "wandabadwal"
     fullname: >-
       WANDA BADWAL
     location: "Indonesia"
-    followers: 28617
+    followers: 30350
     engagement: 362
-    commentsToLikes: 0.041452
+    commentsToLikes: 0.049696
     id: ck14hs02gbu2v0i19pus82mrj
     verified: false
-    hashtags: "#beyondasana, #rememberwhoyouare, #zeitf, #personaldevelopment"
-  - username: "dutchielovestravel"
-    fullname: >-
-      Silvie van de Ree ✈ Travel
-    location: "Indonesia"
-    followers: 17417
-    engagement: 831
-    commentsToLikes: 0.144093
-    id: ck8tb3qj2u5a60j786hwedusv
-    verified: false
-    hashtags: "#femmetravel, #citizenfemme, #travelphoto, #travelphotography"
+    hashtags: "#sanctuary, #conversation, #spirituality, #happygalungan"
   - username: "magdasyoga"
     fullname: >-
       Magda | Yoga
     location: "Indonesia"
-    followers: 15258
-    engagement: 878
-    commentsToLikes: 0.083296
+    followers: 16652
+    engagement: 798
+    commentsToLikes: 0.081266
     id: ck5hpgzjnrcek0i1118fids11
     verified: false
     hashtags: ""
-  - username: "annesivaasen"
+  - username: "margothallemans"
     fullname: >-
-      Anne Siv Aasen | NORWAY 🇳🇴
+      Margot Hallemans
     location: "Indonesia"
-    followers: 16999
-    engagement: 526
-    commentsToLikes: 0.127562
-    id: ck55ps5lwb9c80i11lwsue3fl
+    followers: 93551
+    engagement: 661
+    commentsToLikes: 0.018390
+    id: ckapb2l76yc6d0i78j7cufm1n
     verified: false
-    hashtags: "#meditation, #createyourownmagic, #yogafestival, #yogamodel"
+    hashtags: "#tegendestroomin, #letloverule, #grenzenverleggen, #bewustwording"
+  - username: "magdalena.a.a"
+    fullname: >-
+      Magdalena
+    location: "Indonesia"
+    followers: 18889
+    engagement: 437
+    commentsToLikes: 0.113532
+    id: ckaounjyh11tl0i78l3jwmk8x
+    verified: false
+    hashtags: "#flyinglizardpose, #onziesummervibes, #beachgirl, #dandayamanajanushirasana"
   - username: "stephbaier"
     fullname: >-
       Steph Baier | Bali Model
     location: "Indonesia"
-    followers: 5997
-    engagement: 923
-    commentsToLikes: 0.067023
+    followers: 5938
+    engagement: 932
+    commentsToLikes: 0.069837
     id: ck8syl5qql5jw0j781h8foqv1
     verified: false
     hashtags: "#40weeks, #positivevibes, #babyshower, #grlpwr"
+  - username: "daraayupsptsr_"
+    fullname: >-
+      𝓓𝓪𝓻𝓪 𝓐𝔂𝓾 𝓟𝓾𝓼𝓹𝓲𝓽𝓪𝓼𝓪𝓻𝓲 𝓢𝓾𝓭𝓲𝓻𝓶𝓪𝓷✨
+    location: "Indonesia"
+    followers: 39287
+    engagement: 1431
+    commentsToLikes: 0.013482
+    id: ckaow4jnc7ebh0i78dfatx5fi
+    verified: false
+    hashtags: ""
   - username: "alysia_cen"
     fullname: >-
       Alysia Susimodeong
     location: "Indonesia"
-    followers: 38151
-    engagement: 190
-    commentsToLikes: 0.094780
+    followers: 40766
+    engagement: 182
+    commentsToLikes: 0.152326
     id: ck139dqp8kt390i19p9o8vzeu
     verified: false
-    hashtags: "#standingbackbend, #sonya7riii, #kingcobrapose, #sonymarka7riii"
-  - username: "tatianapanakal"
+    hashtags: "#downdogsplit, #handstandpose, #yogastrong, #yogaflow"
+  - username: "ramyapastakiayoga"
     fullname: >-
-      Tati Panakal
+      Ramya Pastakia
     location: "Indonesia"
-    followers: 49027
-    engagement: 376
-    commentsToLikes: 0.026510
-    id: ck0u2jm4r007n0i197ype6e9r
+    followers: 6712
+    engagement: 591
+    commentsToLikes: 0.078130
+    id: ck13642n54o3s0i19j6ui21mb
     verified: false
-    hashtags: "#filmphotography, #35mm"
-  - username: "mollykirky"
+    hashtags: "#balivibes, #ganeshastotram, #fingertips, #qurentinelife"
+  - username: "astral_godness"
     fullname: >-
-      MollyAnne Kirk✨
+      Pranesvari Devi
     location: "Indonesia"
-    followers: 57657
-    engagement: 723
-    commentsToLikes: 0.006502
-    id: ck13atfcjs3ft0i19d6ct28ma
+    followers: 6047
+    engagement: 2142
+    commentsToLikes: 0.045097
+    id: ck6tnbuwl9jje0j71aoy5ryir
     verified: false
-    hashtags: "#jointhemvmt, #mvmtambassador, #staysafeoutthere"
-  - username: "melpretorius"
+    hashtags: "#trustyourself, #mexican, #yoguini, #jaimatakali"
+  - username: "annesivaasen"
     fullname: >-
-      Surf & Yoga
+      Anne Siv Aasen | NORWAY 🇳🇴
     location: "Indonesia"
-    followers: 7153
-    engagement: 786
-    commentsToLikes: 0.045999
-    id: ck0w3hwk6thve0i19vvv68irt
+    followers: 17231
+    engagement: 570
+    commentsToLikes: 0.114488
+    id: ck55ps5lwb9c80i11lwsue3fl
     verified: false
-    hashtags: ""
-  - username: "ch3rlieflow"
-    fullname: >-
-      Charlie Follows | Yoga Teacher
-    location: "Indonesia"
-    followers: 107912
-    engagement: 220
-    commentsToLikes: 0.027152
-    id: ck0uab8dgbqhx0i19pgl13xw7
-    verified: false
-    hashtags: "#reconnect, #creativity, #yogatravel, #chooselove"
+    hashtags: "#chestopener, #adventurous, #freespirit, #mountaingirl"
 ---

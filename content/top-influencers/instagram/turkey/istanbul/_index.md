@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Istanbul In 2020
 description: >-
-  Find top Instagram influencers in Istanbul in 2020. Most popular hashtags: #evdekal #kad #stayhome #istanbul.
+  Find top Instagram influencers in Istanbul in 2020. Most popular hashtags: #socialdistance #tb #tbt #socialdistancing.
 platform: Instagram
 profiles:
+  - username: "armin_jahangard"
+    fullname: >-
+      armin
+    location: "Turkey"
+    followers: 45332
+    engagement: 766
+    commentsToLikes: 0.045533
+    id: ck6u9jtvpxzf60j7113ts62o1
+    verified: false
+    hashtags: "#hangram, #persian, #explorer, #sister"
+  - username: "saeed.toomaj"
+    fullname: >-
+      🇹🇷سعیدتوماج🇮🇷
+    location: "Turkey"
+    followers: 3217
+    engagement: 2672
+    commentsToLikes: 0.070673
+    id: ck9wiilkb2exr0j78mnp8hrtm
+    verified: false
+    hashtags: "#turkmenistan, #ashgabat"
+  - username: "ilkinbby"
+    fullname: >-
+      🌺 ilkin 🌺
+    location: "Turkey"
+    followers: 48286
+    engagement: 210
+    commentsToLikes: 0.146879
+    id: ck1351mftz8m10i19pgiqhg96
+    verified: false
+    hashtags: "#hayateves, #istanbul, #greece, #evdekalmayadevam"
   - username: "kaanbosnakofficial"
     fullname: >-
       Kaan Boşnak
     location: "Turkey"
-    followers: 155145
-    engagement: 1469
-    commentsToLikes: 0.000000
+    followers: 167655
+    engagement: 1730
+    commentsToLikes: 0.000123
     id: ck5zsq9woyzqp0i141mb3t7m8
     verified: true
-    hashtags: "#evindekalt, #tb"
-  - username: "kenbrider"
+    hashtags: "#tb, #evindekalt"
+  - username: "doalog"
     fullname: >-
-      traffic rider - MT 09 ⚡
+      🎞
     location: "Turkey"
-    followers: 2570
-    engagement: 5141
-    commentsToLikes: 0.013671
-    id: ck8t90k1kmihn0j78p8d7mf0t
+    followers: 3306
+    engagement: 1984
+    commentsToLikes: 0.050191
+    id: ck8tckocwzqlf0j78b2k9a5o0
     verified: false
-    hashtags: "#honda, #motorsangin, #fireblade, #instamotogallery"
+    hashtags: "#35mm, #nietzsche, #charlesbaudelaire, #kodakfilm"
   - username: "handealtayli"
     fullname: >-
       handealtayli
     location: "Turkey"
-    followers: 29897
-    engagement: 275
-    commentsToLikes: 0.029517
+    followers: 29927
+    engagement: 285
+    commentsToLikes: 0.026656
     id: ck6tntp9najvq0j71d2lef501
     verified: false
-    hashtags: "#foxt, #yenib, #dizi, #kad"
+    hashtags: "#kadin, #repost, #girltalk, #kadindizifoxx"
   - username: "istanbul"
     fullname: >-
       @istanbul
     location: "Turkey"
-    followers: 319452
-    engagement: 285
-    commentsToLikes: 0.010306
+    followers: 322059
+    engagement: 330
+    commentsToLikes: 0.013596
     id: ck0uddpzbivt10i190slk77gz
     verified: false
-    hashtags: "#istanbulthingstodo, #istanbulclassics, #istanbulhayvanlar, #whenwemeetagain"
-  - username: "onewaythreetickets"
+    hashtags: "#covid19, #lacasadepapel, #wewillmeetagain, #socialdistancing"
+  - username: "istanbull.hayali"
     fullname: >-
-      AYLİN▪️Travel Blog
+      İstanbul
     location: "Turkey"
-    followers: 6177
-    engagement: 1583
-    commentsToLikes: 0.102114
-    id: ck8t941jcmw040j78xqjh4bm7
+    followers: 85271
+    engagement: 514
+    commentsToLikes: 0.013283
+    id: ck0tzu1l0rn990i19r2j9yeke
     verified: false
-    hashtags: "#onewayitaly, #omewayfrance, #kap, #schengencountry"
-  - username: "agoniiya"
+    hashtags: "#ortako, #emin, #sultanahmet, #ramazanbayram"
+  - username: "duygum1010"
     fullname: >-
-      Ksenia Çelikdelen ☪︎
+      Duygu Işık
     location: "Turkey"
-    followers: 78676
-    engagement: 689
-    commentsToLikes: 0.045984
-    id: ck1394rebjips0i191rktupwf
-    verified: false
-    hashtags: "#bosphorus, #ba, #evdekal, #stayhomechallenge"
-  - username: "s_s_svkr"
-    fullname: >-
-      Said
-    location: "Turkey"
-    followers: 9929
-    engagement: 1488
-    commentsToLikes: 0.078264
-    id: ck8t13321uajc0j78rip623m4
+    followers: 5520
+    engagement: 2050
+    commentsToLikes: 0.096513
+    id: ckap9lw7zsoue0i78bv7h70ol
     verified: false
     hashtags: ""
-  - username: "tarooq_official"
+  - username: "cerenkulahli"
     fullname: >-
-      T.M.X🦅
+      Ceren Külahlı
     location: "Turkey"
-    followers: 91756
-    engagement: 654
-    commentsToLikes: 0.063607
-    id: ck8szgbmxoc2p0j7815s6vury
+    followers: 73044
+    engagement: 1438
+    commentsToLikes: 0.762949
+    id: ck8t09eaxra4i0j78w6hhxucx
     verified: false
-    hashtags: "#tmx, #soon"
-  - username: "ozlemmberkayy"
-    fullname: >-
-      Özlem❤Berkay
-    location: "Turkey"
-    followers: 5952
-    engagement: 1931
-    commentsToLikes: 0.265233
-    id: ck6ucdgeieych0j71cp1d28j7
-    verified: false
-    hashtags: "#ankara, #istanbul, #loves, #mesafelera"
-  - username: "tugcepala"
-    fullname: >-
-      Tuğçe Pala
-    location: "Turkey"
-    followers: 31771
-    engagement: 569
-    commentsToLikes: 0.081284
-    id: ck5hmce48lpbm0i11spfumy2y
-    verified: false
-    hashtags: "#ada, #istanbula, #muzik, #deniz"
+    hashtags: "#cekilis, #makyaj, #makyajmalzemesi, #makeup"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Argentina In 2020
 description: >-
-  Find top athletes Instagram influencers in Argentina in 2020. Most popular hashtags: #yomequedoencasa #creadoconadidas #thunderbox #justdoit.
+  Find top athletes Instagram influencers in Argentina in 2020. Most popular hashtags: #youcantstopus #inmyjs #playfortheworld #hometeam.
 platform: Instagram
 profiles:
   - username: "agusalbertario"
     fullname: >-
       Agus Albertario
     location: "Argentina"
-    followers: 258700
-    engagement: 800
-    commentsToLikes: 0.097695
+    followers: 260517
+    engagement: 811
+    commentsToLikes: 0.100255
     id: ck13c6dd5yu3j0i19kz4l7oov
     verified: true
-    hashtags: "#atreveteam, #isdinargentina, #yomequedoencasa, #prevenci"
+    hashtags: "#unaparavosunaparatodas, #siemprelibre, #carefree, #ob"
   - username: "luchogonzalez.1"
     fullname: >-
       Luciano Gonzalez Rizzoni
     location: "Argentina"
-    followers: 14139
-    engagement: 2237
-    commentsToLikes: 0.103194
+    followers: 13370
+    engagement: 2267
+    commentsToLikes: 0.096438
     id: ck5pzjf1y19rr0i11qwh3nt7p
     verified: false
     hashtags: "#justdoit"
+  - username: "florhabif"
+    fullname: >-
+      • FLOR HABIF •
+    location: "Argentina"
+    followers: 115430
+    engagement: 567
+    commentsToLikes: 0.043300
+    id: ck55ln1vc1yi30i11o9cmpi63
+    verified: true
+    hashtags: "#bajodelmar, #inmyjs, #youcantstopus"
   - username: "rusha.life"
     fullname: >-
       𝓡 𝓤 𝓢 𝓗 𝓐
     location: "Argentina"
-    followers: 96879
-    engagement: 381
-    commentsToLikes: 0.063004
+    followers: 97237
+    engagement: 442
+    commentsToLikes: 0.081914
     id: ck55pd8kzabcp0i11iyv2umv1
     verified: false
-    hashtags: "#vegan, #glutenfree, #stayathome, #crueltyfree"
+    hashtags: "#happyeaster"
   - username: "melrodriguezth"
     fullname: >-
       MEL RODRIGUEZ 🇦🇷
     location: "Argentina"
-    followers: 44574
-    engagement: 931
-    commentsToLikes: 0.014341
+    followers: 45875
+    engagement: 962
+    commentsToLikes: 0.013561
     id: ck5btkkt4g4to0i11y93bim1y
     verified: false
-    hashtags: "#tbt, #reebokargentina, #fitfoodbuenossaires, #rhinoutfit"
-  - username: "julijankunas"
+    hashtags: "#fitfoodbuenosaires, #compexsudamerica, #callerasargoitia, #labandadelrayo"
+  - username: "belencasetta"
     fullname: >-
-      JULIJANKU
+      Belén Casetta
     location: "Argentina"
-    followers: 222754
-    engagement: 1490
-    commentsToLikes: 0.008579
-    id: ck0w2csxpnpkk0i19hidga804
+    followers: 46460
+    engagement: 679
+    commentsToLikes: 0.024041
+    id: ck5zpqnfht5sj0i148ybggab6
     verified: true
-    hashtags: "#clubciudaddebuenosaires, #adidasrdy, #hac, #sent"
+    hashtags: "#yocantstopus"
+  - username: "anabt11"
+    fullname: >-
+      ANA HERNANDEZ💕
+    location: "Argentina"
+    followers: 5982
+    engagement: 1213
+    commentsToLikes: 0.039052
+    id: ck8sx0wbxfucs0j78d6w3ov5s
+    verified: false
+    hashtags: ""
   - username: "juanchimallia"
     fullname: >-
       Juanchi Mallia
     location: "Argentina"
-    followers: 21687
-    engagement: 2102
-    commentsToLikes: 0.012250
+    followers: 22073
+    engagement: 2078
+    commentsToLikes: 0.012081
     id: ck602uw4qjb9e0i14siox7ahc
     verified: true
-    hashtags: "#creadoconadidas, #vamospumas, #masrapidoque, #sl20"
-  - username: "jeronimodlf"
-    fullname: >-
-      Jero De La Fuente
-    location: "Argentina"
-    followers: 42161
-    engagement: 832
-    commentsToLikes: 0.008095
-    id: ck5ceor0llel40i11wg8se5bz
-    verified: true
-    hashtags: "#casajaguares, #justdoit"
+    hashtags: "#hometeam, #homeofclassics, #creaconadidas, #werepresent"
   - username: "tomaslezana"
     fullname: >-
       Tomas Lezana
     location: "Argentina"
-    followers: 40446
-    engagement: 1113
-    commentsToLikes: 0.008431
+    followers: 40037
+    engagement: 1134
+    commentsToLikes: 0.008407
     id: ck13bkcqyvtyv0i19ulijyxqw
     verified: true
-    hashtags: "#rwc2019, #moyaa"
-  - username: "poytoccalino"
-    fullname: >-
-      Poy Toccalino
-    location: "Argentina"
-    followers: 45356
-    engagement: 746
-    commentsToLikes: 0.006145
-    id: ck6ufo13vy5ai0j71msy5k00n
-    verified: false
-    hashtags: "#yomequedoencasa, #playfortheworld"
+    hashtags: "#moyaa, #hometeam, #rwc2019"
   - username: "conicerundolo"
     fullname: >-
       Maria Constanza ✨
     location: "Argentina"
-    followers: 22028
-    engagement: 1815
-    commentsToLikes: 0.007173
+    followers: 23745
+    engagement: 1609
+    commentsToLikes: 0.007794
     id: ck13bk7gwvt790i197yp2r8im
     verified: false
-    hashtags: "#quedateencasa, #playfortheworld"
+    hashtags: "#playfortheworld, #youcantstopus, #quedateencasa"
 ---

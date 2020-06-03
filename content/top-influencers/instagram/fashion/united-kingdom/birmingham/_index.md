@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Birmingham In 2020
 description: >-
-  Find top fashion Instagram influencers in Birmingham in 2020. Most popular hashtags: #streetstyle #model #stayhome #styleblogger.
+  Find top fashion Instagram influencers in Birmingham in 2020. Most popular hashtags: #fashion #femmeluxe #femmeluxefinery #birmingham.
 platform: Instagram
 profiles:
+  - username: "theonlyzodi"
+    fullname: >-
+      ZODI
+    location: "United Kingdom"
+    followers: 14558
+    engagement: 685
+    commentsToLikes: 0.059489
+    id: ck5pzpxq926tt0i11vedsth6z
+    verified: false
+    hashtags: "#draghaus, #snow, #lgbt, #eurodrag"
   - username: "tashadamsx"
     fullname: >-
       Tash Adams
     location: "United Kingdom"
-    followers: 21579
-    engagement: 450
-    commentsToLikes: 0.091820
+    followers: 22084
+    engagement: 467
+    commentsToLikes: 0.109769
     id: ck0u640uh106v0i1984sapuos
     verified: false
-    hashtags: "#gifted, #makeitpersonal, #idealofsweden, #4dplates"
+    hashtags: "#isawicons, #selflove, #idealofsweden, #prettylittlething"
   - username: "youraverageguystyle"
     fullname: >-
       Adam York
     location: "United Kingdom"
-    followers: 74192
-    engagement: 155
-    commentsToLikes: 0.119891
+    followers: 73570
+    engagement: 166
+    commentsToLikes: 0.125244
     id: ck15sohpoe15c0i19fu5td510
     verified: false
-    hashtags: "#blogpost, #summerfashion, #fashionmen, #bloggerstyle"
-  - username: "daisymay_demetre"
+    hashtags: "#leatherjacket, #gents, #aviators, #watch"
+  - username: "bclivingmuseum"
     fullname: >-
-      Daisy-May Demetre
+      Black Country Living Museum
     location: "United Kingdom"
-    followers: 24283
-    engagement: 242
-    commentsToLikes: 0.023798
-    id: ck0tzuglhrp3i0i19t4wxsu3q
+    followers: 28388
+    engagement: 330
+    commentsToLikes: 0.018959
+    id: ck5q04sh648xo0i11q7xrqq1x
     verified: false
-    hashtags: "#catwalkmodels, #thefuture, #amputeesensation, #itvnews"
-  - username: "elizas_everyday"
+    hashtags: "#veday75, #coalmine, #netherton, #canal"
+  - username: "poonamwalid"
     fullname: >-
-      Eliza's_everyday
+      Poonam walid
     location: "United Kingdom"
-    followers: 15848
-    engagement: 338
-    commentsToLikes: 0.408472
-    id: ck5bw68vel2m20i11vebkj9bq
+    followers: 43773
+    engagement: 296
+    commentsToLikes: 0.074897
+    id: ck9wean2wjfak0j78qsind28a
     verified: false
-    hashtags: "#staypositive, #streetwear, #frenchiesofinstagram, #polkadots"
+    hashtags: "#diyskincare, #summer, #fentybeauty, #cheeksout"
   - username: "samiya.styles"
     fullname: >-
       • S A M I Y A •
     location: "United Kingdom"
-    followers: 12696
-    engagement: 488
-    commentsToLikes: 0.182197
+    followers: 15810
+    engagement: 770
+    commentsToLikes: 0.140428
     id: ck6u2tdzmttul0j71ee09xysh
     verified: false
-    hashtags: "#trendsetter, #valentinesoutfit, #desiblogger, #lahoreweddings"
-  - username: "thesilvermermaidxo"
+    hashtags: "#modestymatters, #skingoals, #fentyconcealer, #fbloggeruk"
+  - username: "elizas_everyday"
     fullname: >-
-      K A T I E   P E A K E
+      Eliza's_everyday
     location: "United Kingdom"
-    followers: 54794
-    engagement: 230
-    commentsToLikes: 0.137459
-    id: ck0w711o1b83x0i191tm5qxtf
+    followers: 16627
+    engagement: 393
+    commentsToLikes: 0.406422
+    id: ck5bw68vel2m20i11vebkj9bq
     verified: false
-    hashtags: "#ltkshoecrush, #anothermirrorselfie, #stayathomepamper, #stayingathome"
-  - username: "carrie_pendle"
+    hashtags: "#dressupfriday, #beautybox, #green, #asseenonme"
+  - username: "nxvelouise"
     fullname: >-
-      CARRIE | Fashion & Lifestyle
+      N e v e y ♡
     location: "United Kingdom"
-    followers: 6382
-    engagement: 547
-    commentsToLikes: 0.066933
-    id: ck5cavwr3e8w40i117gmkij1t
+    followers: 9876
+    engagement: 1088
+    commentsToLikes: 0.226005
+    id: ck9hbsqxeia6e0j78tsjyzpp3
     verified: false
-    hashtags: "#stayhome, #pillowchallenge, #bodyposipals, #primark"
-  - username: "maddisongregoryx"
+    hashtags: "#gymsharkleggings, #gettoknowme, #10factsaboutme, #femmeluxefinery"
+  - username: "_lucymayfinnegan"
     fullname: >-
-      
+      Lucy May
     location: "United Kingdom"
-    followers: 7049
-    engagement: 603
-    commentsToLikes: 0.041988
-    id: ck5zsf8abydve0i14ryzqnojr
+    followers: 149577
+    engagement: 303
+    commentsToLikes: 0.063928
+    id: ck0u6e45h1nre0i19crikpnmz
     verified: false
-    hashtags: "#28daysofblackcosplay, #goofyroxanne, #creative, #costumemakeup"
-  - username: "beci_bombshellcosplay"
+    hashtags: "#gym, #intense, #resistancebands, #butt"
+  - username: "alina.jadexo"
     fullname: >-
-      Beci Hemphill 💚💜❤️💙
+      Jacob ♡
     location: "United Kingdom"
-    followers: 16641
-    engagement: 266
-    commentsToLikes: 0.034328
-    id: ck8t1mw8dwags0j78816tnitt
+    followers: 3718
+    engagement: 1002
+    commentsToLikes: 0.088044
+    id: ck9hbrsdwi5jb0j78znzklzdx
     verified: false
-    hashtags: "#cosplay, #meme, #memes, #memecosplay"
-  - username: "iulia_david_photography"
-    fullname: >-
-      Iulia David
-    location: "United Kingdom"
-    followers: 66475
-    engagement: 449
-    commentsToLikes: 0.017919
-    id: ck0u1vifey5140i19oyckvt3d
-    verified: false
-    hashtags: "#pink, #fashion, #makeupartist, #wewillbeatthis"
+    hashtags: "#asos, #unohpollygetic, #thecoutureclub, #prettylittlething"
 ---

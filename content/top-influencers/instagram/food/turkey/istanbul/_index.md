@@ -1,89 +1,69 @@
 ---
 title: Top 10 Food Instagram Influencers In Istanbul In 2020
 description: >-
-  Find top food Instagram influencers in Istanbul in 2020. Most popular hashtags: #food #istanbul #evdekal #foodporn.
+  Find top food Instagram influencers in Istanbul in 2020. Most popular hashtags: #photography #turkey #baklava #istanbul.
 platform: Instagram
 profiles:
-  - username: "ikizler_huseyin"
+  - username: "filizaydinc"
     fullname: >-
-      Hüseyin Durmaz
+      Filiz Aydinc
     location: "Turkey"
-    followers: 8612
-    engagement: 839
-    commentsToLikes: 0.003460
-    id: ck5zmd13ymck70i14bhbqc4p6
+    followers: 140174
+    engagement: 121
+    commentsToLikes: 0.038736
+    id: ck8tcx2q310ih0j78uv4lrp1k
     verified: false
-    hashtags: "#gaziantep, #beymen, #aile, #towerbridge"
-  - username: "gezginyiyor"
+    hashtags: "#eating, #lake, #birillant, #kiss"
+  - username: "mehranrhz"
     fullname: >-
-      Gezgin Yiyor
+      Certified Event Decorater
     location: "Turkey"
-    followers: 176527
-    engagement: 248
-    commentsToLikes: 0.008402
-    id: ck0vwja33u2wo0i19xwrc9ug0
+    followers: 18207
+    engagement: 701
+    commentsToLikes: 0.040120
+    id: ck9whhupmxxe80j78bt2ue802
     verified: false
-    hashtags: "#gebze, #latte, #gezginyiyor, #sefak"
-  - username: "leventdemircakmak"
+    hashtags: "#yum, #donut, #haftseen, #strawberry"
+  - username: "neyesekcom"
     fullname: >-
-      Levent Demirçakmak
+      Yemek İçmek Gezmek Lazım❗️
     location: "Turkey"
-    followers: 5839
-    engagement: 802
-    commentsToLikes: 0.016463
-    id: ck6ue4z2doumr0j71q0qe769x
+    followers: 38502
+    engagement: 272
+    commentsToLikes: 0.010689
+    id: ck15pjdily6ay0i19zyxz0sz1
     verified: false
-    hashtags: "#besiktas, #gelisimuniversitesi, #beslenme, #mastercheft"
-  - username: "seyyarholding"
+    hashtags: "#instagram, #sivas, #goodfood, #dallas"
+  - username: "sercangeziyor"
     fullname: >-
-      SEYYAR HOLDİNG TAVUKLU PİLAV
+      Youtuber | Yemek&Gezgin Seyyah
     location: "Turkey"
-    followers: 75888
-    engagement: 178
-    commentsToLikes: 0.011467
-    id: ck134i9alwk1q0i19sl62o7ji
+    followers: 186701
+    engagement: 145
+    commentsToLikes: 0.024860
+    id: ck5q5cgx7s8va0i11g9666hss
     verified: false
-    hashtags: "#idlib, #seyyarholding, #turkey, #millie"
-  - username: "hasan.algac"
-    fullname: >-
-      Hasan Algaç
-    location: "Turkey"
-    followers: 8193
-    engagement: 630
-    commentsToLikes: 0.007418
-    id: ck6ugx3d45oiq0j71rojzhm35
-    verified: false
-    hashtags: "#style, #me, #racing, #ye"
-  - username: "yesene_catering"
-    fullname: >-
-      Dilek Pfeiffer
-    location: "Turkey"
-    followers: 3597
-    engagement: 967
-    commentsToLikes: 0.288170
-    id: ck5q4ijthp56n0i114o1hsbcv
-    verified: false
-    hashtags: "#drinks, #tasty, #artin, #sunum"
-  - username: "nurlu"
-    fullname: >-
-      Mother & Wife & Food Blogger
-    location: "Turkey"
-    followers: 87803
-    engagement: 189
-    commentsToLikes: 0.049422
-    id: ck13483iav6h60i19obg1fvm1
-    verified: false
-    hashtags: "#traditionalfood, #zeytinya, #annekurabiyesi, #recipeoftheday"
+    hashtags: "#sivask, #dessert, #istanbuldaneyenir, #foods"
   - username: "cairofoodiecouple"
     fullname: >-
       The Terzibashians 🇦🇲
     location: "Turkey"
-    followers: 180592
-    engagement: 63
-    commentsToLikes: 0.289391
+    followers: 176323
+    engagement: 59
+    commentsToLikes: 0.073537
     id: ck0w1ccquin5u0i19z48ujtoa
     verified: false
-    hashtags: "#sparklelikeg1882, #pepsi, #alexandria, #fsalexandria"
+    hashtags: "#babykivanc, #beach, #loveis, #pool"
+  - username: "mertaltinisik_"
+    fullname: >-
+      Mert ALTINIŞIK
+    location: "Turkey"
+    followers: 302613
+    engagement: 320
+    commentsToLikes: 0.012605
+    id: ck134rkdexuqa0i19zq3x19hk
+    verified: false
+    hashtags: "#roadtrip, #happy, #ootd, #turgutuyar"
   - username: "ucan_muhendis"
     fullname: >-
       Cansu Gül / Uçan Mühendis 🚀
@@ -93,15 +73,35 @@ profiles:
     commentsToLikes: 0.015917
     id: ck14kee85p46c0i1955tckvw0
     verified: false
-    hashtags: "#edremit, #mthology, #italya, #salsadancing"
+    hashtags: "#asos, #italy, #galatada24, #capitolo"
   - username: "istanbulfood"
     fullname: >-
       Tuba Şatana
     location: "Turkey"
-    followers: 36036
-    engagement: 113
-    commentsToLikes: 0.026597
+    followers: 36071
+    engagement: 112
+    commentsToLikes: 0.020003
     id: ck6uhfx3m8w5i0j71j846983c
     verified: true
-    hashtags: "#kurtulu, #foodshopping, #tbt, #istanbul"
+    hashtags: "#evdenevarsa, #ironingfree, #athome, #evdeev"
+  - username: "alyaminahome"
+    fullname: >-
+      İlknur Şenel
+    location: "Turkey"
+    followers: 76189
+    engagement: 220
+    commentsToLikes: 0.078500
+    id: ck8t7m830hbja0j78bjm4qqb1
+    verified: false
+    hashtags: "#sofra, #cekilis, #mutfakgram, #tabletop"
+  - username: "foodieeda"
+    fullname: >-
+      foodie eda
+    location: "Turkey"
+    followers: 3145
+    engagement: 1137
+    commentsToLikes: 0.090903
+    id: ckaorijzyndqm0i78hy0w5zqq
+    verified: false
+    hashtags: "#menemen, #vanstapele, #bubbletealover, #icedtea"
 ---

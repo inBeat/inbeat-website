@@ -1,107 +1,107 @@
 ---
 title: Top 10 Calisthenics Instagram Influencers In 2020
 description: >-
-  Find top calisthenics Instagram influencers in 2020. Most popular hashtags: #calisthenics #workout #streetworkout #fitness.
+  Find top calisthenics Instagram influencers in 2020. Most popular hashtags: #workout #calisthenics #motivation #streetworkout.
 platform: Instagram
 profiles:
+  - username: "calisthenics_girls__"
+    fullname: >-
+      calisthenics_girls_
+    location: "United States"
+    followers: 11558
+    engagement: 366
+    commentsToLikes: 0.013737
+    id: ck0txqgh4k5f40i19ug52uk0r
+    verified: false
+    hashtags: "#calisthenics"
+  - username: "calisthenicsfreestyle"
+    fullname: >-
+      Calisthenics
+    location: "United States"
+    followers: 87628
+    engagement: 123
+    commentsToLikes: 0.012848
+    id: ck55lhbb11kc30i11lsflafjx
+    verified: false
+    hashtags: ""
+  - username: "asuka_pasfit41"
+    fullname: >-
+      Asuka
+    location: "France"
+    followers: 2449
+    engagement: 2190
+    commentsToLikes: 0.171189
+    id: ck8tcqobo0b3k0j7851hoack0
+    verified: false
+    hashtags: "#davai, #livefree, #smile, #amour"
   - username: "dan_rosenberg_"
     fullname: >-
       Dan Rosenberg דן רוזנברג
-    location: ""
-    followers: 60758
-    engagement: 873
-    commentsToLikes: 0.035266
+    location: "United States"
+    followers: 59887
+    engagement: 871
+    commentsToLikes: 0.039369
     id: ck0txqfguk5a40i19p7qqr5u2
     verified: false
-    hashtags: "#planche, #hongkong, #calisthenicsgirl, #challenge"
+    hashtags: "#calistenia, #botb, #tb, #calisthenix"
   - username: "esmeedijjers_"
     fullname: >-
-      ESMEE DIJJERS
+      E S M E E  D I J E R S
     location: "Netherlands"
-    followers: 2502
-    engagement: 3714
-    commentsToLikes: 0.206075
+    followers: 2939
+    engagement: 3661
+    commentsToLikes: 0.254216
     id: ck6uakuvm44n60j71etav8sih
     verified: false
-    hashtags: "#bodypositivity, #colddays, #giveaway, #fitdutchiesnl"
+    hashtags: "#noxcuses, #dreambigger, #focusonyourself, #athlete"
+  - username: "bartek.ch"
+    fullname: >-
+      Bartek Choroszko 🤘🔥
+    location: "France"
+    followers: 6288
+    engagement: 2409
+    commentsToLikes: 0.038642
+    id: ck8t4z6a98bcf0j78o9kgpbzb
+    verified: false
+    hashtags: "#polandphotos, #endurocross, #cuteboy, #boysmodel"
   - username: "alessandramojana"
     fullname: >-
       Alessandra Mojana
     location: "Italy"
-    followers: 8945
-    engagement: 1427
-    commentsToLikes: 0.032139
+    followers: 8813
+    engagement: 1457
+    commentsToLikes: 0.032093
     id: ck134udfty88e0i19honyjsj7
     verified: false
-    hashtags: "#dualsport, #riderweb, #offroad, #riderwoman"
-  - username: "s17ne"
-    fullname: >-
-      Simone Etere (Αιθήρ)
-    location: "Italy"
-    followers: 145179
-    engagement: 669
-    commentsToLikes: 0.016710
-    id: ck5hg9mtw1ncy0i11xawef1ne
-    verified: false
-    hashtags: "#hometraining, #iorestoacasa, #covid, #stayhome"
+    hashtags: "#bikerfamily, #africatwin, #viaggiare, #myfriend"
   - username: "los_strong90"
     fullname: >-
       Евгений Лось 💎⛏️
     location: ""
-    followers: 55771
-    engagement: 995
-    commentsToLikes: 0.021761
+    followers: 64273
+    engagement: 925
+    commentsToLikes: 0.021222
     id: ck6u788ock1gm0j71almefgp8
     verified: false
-    hashtags: "#gains, #motivation, #nogym, #quarantine"
-  - username: "flomarrec"
+    hashtags: "#mersedesbenz, #functional, #happynewyear, #epic"
+  - username: "saibov"
     fullname: >-
-      Florian
-    location: "France"
-    followers: 3828
-    engagement: 2400
-    commentsToLikes: 0.058551
-    id: ck6u9dz38x0320j71jmezjety
+      RUSLAN SAIBOV CALISTHENICS
+    location: "Poland"
+    followers: 55399
+    engagement: 554
+    commentsToLikes: 0.041035
+    id: ck5zywfrkandz0i14btev0rbr
     verified: false
-    hashtags: "#onemorerep, #basicfit, #battlechampions, #muscleup"
-  - username: "lauraerika"
-    fullname: >-
-      🇺🇸🇫🇮 LAURA ✖️ ERIKA
-    location: "United States"
-    followers: 9643
-    engagement: 725
-    commentsToLikes: 0.125355
-    id: ck8tdogz445ux0j78v4vmtjxs
-    verified: false
-    hashtags: "#fitgirls, #bootybuildingguide, #cablemachineworkout, #traininginspiration"
-  - username: "neyroz_calisthenics"
-    fullname: >-
-      Andrea Neyroz
-    location: "Italy"
-    followers: 22612
-    engagement: 935
-    commentsToLikes: 0.023846
-    id: ck5zywcdnan8z0i14d7k6q3a4
-    verified: false
-    hashtags: "#artimarziali, #formazionefif, #cooking, #flex"
+    hashtags: "#afryka, #sportowiec, #crazy, #workout"
   - username: "julianmiguelarroyo"
     fullname: >-
       Julian Miguel Arroyo 🇺🇸
     location: "United States"
-    followers: 96093
-    engagement: 412
-    commentsToLikes: 0.036220
+    followers: 101732
+    engagement: 510
+    commentsToLikes: 0.039652
     id: ck8t86effja4s0j78748obspw
     verified: false
-    hashtags: "#chest, #chestday, #trainhard, #outdoors"
-  - username: "swismael"
-    fullname: >-
-      ISMAEL
-    location: "Spain"
-    followers: 11229
-    engagement: 1102
-    commentsToLikes: 0.035610
-    id: ck5bz2is4qblc0i11qt9975iw
-    verified: false
-    hashtags: "#21lgnds, #pumtal, #uarush, #uarecover"
+    hashtags: "#trainhard, #birthdayboy, #chest, #workout"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Norway In 2020
 description: >-
-  Find top fitness Instagram influencers in Norway in 2020. Most popular hashtags: #fit #workout #fitness #fitnessgirl.
+  Find top fitness Instagram influencers in Norway in 2020. Most popular hashtags: #training #summer #smile #instafit.
 platform: Instagram
 profiles:
+  - username: "ingridkristiansen_"
+    fullname: >-
+      INGRID KRISTIANSEN
+    location: "Norway"
+    followers: 3840
+    engagement: 1487
+    commentsToLikes: 0.226074
+    id: ck8t68e32cn750j78d0yv667f
+    verified: false
+    hashtags: "#heavylifting, #firgirl, #clothing, #hjemmetrening"
   - username: "beatewibe"
     fullname: >-
       Beate Wibe | FITNESS
     location: "Norway"
-    followers: 19990
-    engagement: 968
-    commentsToLikes: 0.036140
+    followers: 20758
+    engagement: 867
+    commentsToLikes: 0.040484
     id: ck5zo7idlpxod0i14hu15ynlx
     verified: false
-    hashtags: "#fitnessoutfit, #selfie, #musclegirl, #home"
+    hashtags: "#jean, #hiit, #workoutvideos, #upperbodywork"
   - username: "fridaemiliee"
     fullname: >-
       FRIDA EMILIE
     location: "Norway"
-    followers: 4447
-    engagement: 2866
-    commentsToLikes: 0.054541
+    followers: 4397
+    engagement: 2853
+    commentsToLikes: 0.055097
     id: ck13bo7bmwcw90i199rncx8tt
     verified: false
     hashtags: "#idealofsweden"
-  - username: "runilandmark"
+  - username: "sunnivaan"
     fullname: >-
-      🔮 Runi
+      SUNNIVA ANGLEN
     location: "Norway"
-    followers: 40421
-    engagement: 748
-    commentsToLikes: 0.020551
-    id: ck5hn9sobnfyi0i11cqb8boan
+    followers: 3407
+    engagement: 1994
+    commentsToLikes: 0.087299
+    id: ck8t6uti7ermy0j78doj3ppa1
     verified: false
-    hashtags: "#giveaway, #training, #film, #fitness"
-  - username: "bettinabjorna"
-    fullname: >-
-      BETTINA BJØRNÅ
-    location: "Norway"
-    followers: 15721
-    engagement: 1078
-    commentsToLikes: 0.043799
-    id: ck5hn9vunng3m0i11y02vvw4i
-    verified: false
-    hashtags: "#malumababy"
-  - username: "jravn06"
-    fullname: >-
-      
-    location: "Norway"
-    followers: 6278
-    engagement: 1222
-    commentsToLikes: 0.038788
-    id: ck138qa7lhhci0i19m6n97n3k
-    verified: false
-    hashtags: "#tb, #running, #trailrunning, #runforgood"
+    hashtags: "#posing, #diet, #party, #thankful"
   - username: "gossegoss"
     fullname: >-
       ✖️Lene Marie Gåsbakk | Norway
     location: "Norway"
-    followers: 24164
-    engagement: 549
-    commentsToLikes: 0.029305
+    followers: 26212
+    engagement: 615
+    commentsToLikes: 0.033148
     id: ck0w1k8ozjriv0i1973zuqcok
     verified: false
-    hashtags: "#govegan, #mymollers, #molleromega3, #teliax"
-  - username: "mamamunson"
+    hashtags: "#rampestreken, #shotoniphone, #molleromega3, #mollersomega3"
+  - username: "bettinabjorna"
     fullname: >-
-      Mandy Munson
+      BETTINA BJØRNÅ
     location: "Norway"
-    followers: 3663
-    engagement: 1476
-    commentsToLikes: 0.088214
-    id: ck5zt1kvozki20i1443353buc
+    followers: 15775
+    engagement: 1069
+    commentsToLikes: 0.042439
+    id: ck5hn9vunng3m0i11y02vvw4i
     verified: false
-    hashtags: ""
-  - username: "odaagnalt"
+    hashtags: "#malumababy, #birthdaygirl"
+  - username: "jravn06"
     fullname: >-
-      Oda Johanne Agnalt
+      
     location: "Norway"
-    followers: 3695
-    engagement: 2313
-    commentsToLikes: 0.042167
-    id: ck15tcusxhh1q0i19f3nhyjg1
+    followers: 6307
+    engagement: 1146
+    commentsToLikes: 0.042389
+    id: ck138qa7lhhci0i19m6n97n3k
     verified: false
-    hashtags: "#gym, #activewear, #muscle, #gymshark"
-  - username: "jannicke_hk"
+    hashtags: "#backyard, #puertodesantiago, #trailrun, #corona"
+  - username: "runilandmark"
     fullname: >-
-      🄹🄰🄽🄽🄸🄲🄺🄴 🇳🇴
+      🔮 Runi
     location: "Norway"
-    followers: 15507
-    engagement: 487
-    commentsToLikes: 0.032060
-    id: ck8t68geucnev0j78jn1pjajk
+    followers: 39493
+    engagement: 730
+    commentsToLikes: 0.019549
+    id: ck5hn9sobnfyi0i11cqb8boan
     verified: false
-    hashtags: "#body, #mentaltrening, #booty, #liftingfacial"
+    hashtags: "#training, #fitfam, #legs, #glutes"
   - username: "andrealowing"
     fullname: >-
       Andrea Lowing 👑 IFBB Bikini
     location: "Norway"
-    followers: 11207
-    engagement: 601
-    commentsToLikes: 0.077537
+    followers: 12698
+    engagement: 762
+    commentsToLikes: 0.069578
     id: ck8t6pi6led900j7848rkv3h0
     verified: false
-    hashtags: "#saturday, #photooftheday, #bikinicompetitor, #fitnessgirl"
+    hashtags: "#squats, #girlswholift, #stayhome, #longtimenogym"
+  - username: "jannicke_hk"
+    fullname: >-
+      🄹🄰🄽🄽🄸🄲🄺🄴 🇳🇴
+    location: "Norway"
+    followers: 19759
+    engagement: 449
+    commentsToLikes: 0.035060
+    id: ck8t68geucnev0j78jn1pjajk
+    verified: false
+    hashtags: "#stronger, #stairs, #dontskiplegday, #noexcuses"
 ---

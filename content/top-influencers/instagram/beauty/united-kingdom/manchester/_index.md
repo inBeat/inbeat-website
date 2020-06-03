@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Manchester In 2020
 description: >-
-  Find top beauty Instagram influencers in Manchester in 2020. Most popular hashtags: #makeup #manchester #beauty #makeuptutorial.
+  Find top beauty Instagram influencers in Manchester in 2020. Most popular hashtags: #beauty #quarantine #skincare #beautyblogger.
 platform: Instagram
 profiles:
-  - username: "miki_makeup_co"
-    fullname: >-
-      Manchester Makeup Academy
-    location: "United Kingdom"
-    followers: 64364
-    engagement: 93
-    commentsToLikes: 0.023177
-    id: ck136ze8q90qf0i197pd38xz7
-    verified: false
-    hashtags: "#dankmemes, #makeupacademy, #igtv, #memes"
   - username: "ghazalbee"
     fullname: >-
       Ghazal غزل | Mama | Modesty
     location: "United Kingdom"
-    followers: 5754
-    engagement: 525
-    commentsToLikes: 0.050803
+    followers: 6135
+    engagement: 689
+    commentsToLikes: 0.110560
     id: ck8td1hom1go10j78hkz1ximc
     verified: false
-    hashtags: "#quarantinelife, #alhamdulillahforeverything, #2020takeachillpill, #butamininosewouldbenice"
+    hashtags: "#everydayismothersday, #hijabtutorial, #hijabvideo, #quarantinelife"
   - username: "fatimah_vadia"
     fullname: >-
       Fatimah Vadia Pro Mua
     location: "United Kingdom"
-    followers: 27378
-    engagement: 229
-    commentsToLikes: 0.036640
+    followers: 28708
+    engagement: 243
+    commentsToLikes: 0.100534
     id: ck5zz4h6eb24k0i143wlzt86b
     verified: false
-    hashtags: "#pakistanivogue, #happiness, #caring, #asianbridal"
-  - username: "madiaahmed"
+    hashtags: "#hijab, #alhamdulillah, #fashionista, #quarantine"
+  - username: "caitlinanneduffx"
     fullname: >-
-      Madia Ahmed
+      Caitlin Duff
     location: "United Kingdom"
-    followers: 63398
-    engagement: 161
-    commentsToLikes: 0.021439
-    id: ck5zz4ejqb1yb0i148xbb0d9y
+    followers: 52110
+    engagement: 610
+    commentsToLikes: 0.047946
+    id: ck1360hop45db0i19vuvg1iaf
     verified: false
-    hashtags: "#santorini, #wedding, #undiscoveredmuas, #weddingglam"
-  - username: "kelly_o_donnell"
-    fullname: >-
-      Kelly O'Donnell
-    location: "United Kingdom"
-    followers: 36326
-    engagement: 174
-    commentsToLikes: 0.062000
-    id: ck5c3urrz03iv0i11rtmlb6q3
-    verified: false
-    hashtags: "#manchesterhair, #manchester, #gifted, #stayhomebeauty"
+    hashtags: "#houseofcb, #beauty, #makeup, #manchester"
   - username: "simplybycarole"
     fullname: >-
-      CAROLE | Student Nurse Bae 💉
+      CAROLE 🇨🇩| Student Nurse Bae 💉
     location: "United Kingdom"
-    followers: 16650
-    engagement: 421
-    commentsToLikes: 0.090107
+    followers: 15510
+    engagement: 551
+    commentsToLikes: 0.079917
     id: ck5cj978ju8yj0i11frpp1go1
     verified: false
-    hashtags: "#african, #urbanchic, #fabric, #ankaradress"
-  - username: "rosiefinlan"
+    hashtags: "#blessed, #pyjama, #cuteandcasual, #ropacomoda"
+  - username: "heathermacfarlane"
     fullname: >-
-      Make Up Artist In Manchester
+      h
     location: "United Kingdom"
-    followers: 25622
-    engagement: 308
-    commentsToLikes: 0.064516
-    id: ck5hrofdfv7gh0i11nundz43x
+    followers: 5321
+    engagement: 2650
+    commentsToLikes: 0.433301
+    id: ckaowpv8a9x600i78tispqk8m
     verified: false
-    hashtags: "#browsoftheday, #lipstick, #instabeauty, #makeupraffle"
-  - username: "skincareshaun"
-    fullname: >-
-      Shaun | Skincare Blogger
-    location: "United Kingdom"
-    followers: 5721
-    engagement: 826
-    commentsToLikes: 0.283126
-    id: ck15udh1rmmnb0i19iflopryf
-    verified: false
-    hashtags: "#bathproducts, #instagaymen, #naturalmakeup, #findthebeautifulyou"
-  - username: "keyla_cristina"
-    fullname: >-
-      Keyla Rodrigues 🦋
-    location: "United Kingdom"
-    followers: 94304
-    engagement: 49
-    commentsToLikes: 0.057506
-    id: ck139dg1nkrkf0i19ycc84hkx
-    verified: false
-    hashtags: "#coat, #freezing, #halloween, #samuel"
+    hashtags: "#dancephotography, #lingerie, #peakdistrict, #wakeskincare"
   - username: "ellenbrockygirl"
     fullname: >-
       Ellen Brockbank
     location: "United Kingdom"
-    followers: 50052
-    engagement: 194
-    commentsToLikes: 0.027268
+    followers: 50582
+    engagement: 235
+    commentsToLikes: 0.056621
     id: ck5zoywb4rnc90i14ua9qlhfl
     verified: false
-    hashtags: "#makeupinspo, #manchesterhome, #outfit, #facemask"
+    hashtags: "#beautybay, #desenio, #housegoals, #competition"
+  - username: "x.amyleigh"
+    fullname: >-
+      𝙰𝚖𝚢 𝙻𝚎𝚒𝚐𝚑 ♡
+    location: "United Kingdom"
+    followers: 7129
+    engagement: 1255
+    commentsToLikes: 0.442765
+    id: ck8td1wp61ima0j78m7mpogb1
+    verified: false
+    hashtags: "#makeupaddict, #luxuryootd, #cutedogsdaily, #mystyletoday"
+  - username: "murphose"
+    fullname: >-
+      Pamela Olender ✨
+    location: "United Kingdom"
+    followers: 10590
+    engagement: 1388
+    commentsToLikes: 0.117248
+    id: ck9weg93qk4ij0j78023d7dnb
+    verified: false
+    hashtags: "#morningpost, #kosmetyki, #photoshooting, #dlawas"
+  - username: "lima.kx"
+    fullname: >-
+      L I M A ♡
+    location: "United Kingdom"
+    followers: 24190
+    engagement: 944
+    commentsToLikes: 0.063465
+    id: ck6tijxeo0uvd0j715dmrxkfj
+    verified: false
+    hashtags: "#heels, #sprintootd, #curlyhairstyles, #desiwear"
+  - username: "saraolkowska"
+    fullname: >-
+      Sara Olkowska
+    location: "United Kingdom"
+    followers: 17482
+    engagement: 554
+    commentsToLikes: 0.074074
+    id: ck8tdlg4r3su70j78lgi0u0j4
+    verified: false
+    hashtags: "#sexyfoodies, #kidsathome, #gaziantepfk, #leatherbelts"
 ---

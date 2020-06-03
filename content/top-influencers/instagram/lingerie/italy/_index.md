@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Italy In 2020
 description: >-
-  Find top lingerie Instagram influencers in Italy in 2020. Most popular hashtags: #model #shooting #iorestoacasa #lingerie.
+  Find top lingerie Instagram influencers in Italy in 2020. Most popular hashtags: #lingerie #quarantine #portrait #pink.
 platform: Instagram
 profiles:
   - username: "cuordibambola"
     fullname: >-
       🎀 Irene Manco
     location: "Italy"
-    followers: 9811
-    engagement: 1354
-    commentsToLikes: 0.012964
+    followers: 10081
+    engagement: 1348
+    commentsToLikes: 0.012163
     id: ck0w2anlinejh0i19l42zxin9
     verified: false
     hashtags: ""
-  - username: "anna.targa"
+  - username: "karinagiada"
     fullname: >-
-      Anna Targa
+      K A R I N A  G I A D A
     location: "Italy"
-    followers: 27402
-    engagement: 757
-    commentsToLikes: 0.096262
-    id: ck5bve8lyjhgf0i11sr9hcw8q
+    followers: 8377
+    engagement: 654
+    commentsToLikes: 0.052203
+    id: ck9wf91b0nrap0j78zz2p9zds
     verified: false
-    hashtags: "#myself, #portraits, #portraitartist, #cityports"
-  - username: "eleonoraarico"
+    hashtags: ""
+  - username: "gcolasante"
     fullname: >-
-      Eleonora Aricó
+      GRACIELLA
     location: "Italy"
-    followers: 63970
-    engagement: 466
-    commentsToLikes: 0.053642
-    id: ck134ufoly8ke0i19h0pppouo
+    followers: 23507
+    engagement: 608
+    commentsToLikes: 0.064826
+    id: ck6ubvakpbwpt0j71e7s6e5no
     verified: false
-    hashtags: "#darlingdaily, #rednails, #lookdetails, #lookinspiration"
-  - username: "beatrixis_"
+    hashtags: "#quedateencasa, #cuarentena, #brothers, #natural"
+  - username: "ari.annina90"
     fullname: >-
-      Beatrice Torboli
+      Arianna Locatelli
     location: "Italy"
-    followers: 7351
-    engagement: 999
-    commentsToLikes: 0.091337
-    id: ck8td94zf2enq0j78aqoejevk
+    followers: 15107
+    engagement: 1662
+    commentsToLikes: 0.098982
+    id: ck6u3dzo3x9vf0j71vim7zz4p
     verified: false
-    hashtags: "#suerte, #iclickita, #mafia, #mafiacity"
-  - username: "giady16"
+    hashtags: "#vascadabagno, #cucina, #mybag, #mytattoo"
+  - username: "agnesemarceline"
     fullname: >-
-      GIADA SALVI 💎💋
+      Linda Antonioni
     location: "Italy"
-    followers: 34170
-    engagement: 910
-    commentsToLikes: 0.037280
-    id: ck5c15gp5ui440i1188c4q7qt
+    followers: 3489
+    engagement: 1751
+    commentsToLikes: 0.305778
+    id: ck6tzxdzecfj10j718ex27kw9
     verified: false
-    hashtags: "#seaside, #abbronzatura, #legginslove, #legginsy"
+    hashtags: "#valentine, #chevita, #unity, #rickemorty"
+  - username: "jessjcajayreal"
+    fullname: >-
+      👑 JESSICA GIOVANE 👑 JessjcaJay
+    location: "Italy"
+    followers: 141443
+    engagement: 326
+    commentsToLikes: 0.064570
+    id: ck8t0ct95rmn00j787p8jy0em
+    verified: false
+    hashtags: "#birthday, #torredimanfria, #april, #nostalgica"
+  - username: "federicamicoli"
+    fullname: >-
+      Closette | Content Creator
+    location: "Italy"
+    followers: 71064
+    engagement: 338
+    commentsToLikes: 0.281688
+    id: ck5c4lhez1lfk0i11b3pvhm01
+    verified: false
+    hashtags: "#jeanslook, #braph, #floralportrait, #velvetskirt"
+  - username: "whoisdesi_"
+    fullname: >-
+      Desirèe ♎
+    location: "Italy"
+    followers: 9513
+    engagement: 2583
+    commentsToLikes: 0.030253
+    id: ck9habs7kbxzq0j7803m0va2o
+    verified: false
+    hashtags: "#sexywoman, #ladies, #pantyhosesexy, #egyptiangirl"
   - username: "lahilary__"
     fullname: >-
       Iℓᥲɾɩᥲ Sᥲᥒtᥱℓℓɩ
     location: "Italy"
-    followers: 7291
-    engagement: 914
-    commentsToLikes: 0.083972
+    followers: 7211
+    engagement: 842
+    commentsToLikes: 0.106370
     id: ck5c0s71dtr490i11ku0zhjsc
     verified: false
-    hashtags: "#bershka, #week, #cucinare, #pizzalover"
-  - username: "tatianafarnese"
+    hashtags: "#ragazze, #rules, #meal, #dayoff"
+  - username: "franceskapepe"
     fullname: >-
-      Tatianita
+      𝐅𝐫𝐚𝐧𝐜𝐞𝐬𝐜𝐚 𝐏𝐞𝐩𝐞
     location: "Italy"
-    followers: 100926
-    engagement: 720
-    commentsToLikes: 0.024993
-    id: ck6uav7a85uuz0j713111dnv0
+    followers: 43762
+    engagement: 297
+    commentsToLikes: 0.103331
+    id: ckaoxg9ocd47p0i78pfhukik1
     verified: false
-    hashtags: "#sofa, #modaslow, #florence, #athens"
-  - username: "loredanasea"
-    fullname: >-
-      Loredana
-    location: "Italy"
-    followers: 20191
-    engagement: 890
-    commentsToLikes: 0.118268
-    id: ck5hems0ptq0k0i114frybjhi
-    verified: false
-    hashtags: "#nevergiveup, #nolimits, #loveyou, #missyou"
-  - username: "hakusa.kuri"
-    fullname: >-
-      Hakusa.Cry
-    location: "Italy"
-    followers: 33035
-    engagement: 354
-    commentsToLikes: 0.068886
-    id: ck5homdchptio0i11fe9kep8s
-    verified: false
-    hashtags: "#naughty, #tartanskirt, #astolfocosplay, #bunnysuit"
-  - username: "closetteblog"
-    fullname: >-
-      Federica Micoli | Creator
-    location: "Italy"
-    followers: 67513
-    engagement: 331
-    commentsToLikes: 0.284473
-    id: ck5c4lhez1lfk0i11b3pvhm01
-    verified: false
-    hashtags: "#industrialliving, #floraldresses, #allwhiteoutfit, #bookphotograph"
+    hashtags: "#cheek, #goodmorning, #skatergirl, #foodporn"
 ---

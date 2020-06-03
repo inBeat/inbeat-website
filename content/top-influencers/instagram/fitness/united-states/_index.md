@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In United States In 2020
 description: >-
-  Find top fitness Instagram influencers in United States in 2020. Most popular hashtags: #gymshark #gymsharkwomen #girlswholift #fitness.
+  Find top fitness Instagram influencers in United States in 2020. Most popular hashtags: #stayhome #ltkfit #workout #bloggerstyle.
 platform: Instagram
 profiles:
-  - username: "fitnessista"
+  - username: "cassidymprice"
     fullname: >-
-      Gina Harney
+      Cassidy Price
     location: "United States"
-    followers: 31717
-    engagement: 121
-    commentsToLikes: 0.254171
-    id: ck5qafdl0g48a0i11zev19yg3
+    followers: 3096
+    engagement: 2788
+    commentsToLikes: 0.183297
+    id: ck9wd8y46emb60j78dyjblq50
     verified: false
-    hashtags: "#ad, #nonsponsored"
-  - username: "sunnevaeinarss"
+    hashtags: "#americaneagle, #sundayfunday, #aerie, #tryonhaul"
+  - username: "adiahmarshall"
     fullname: >-
-      Sunneva Eir Einarsdóttir🌸
+      Adiah | Houston Blogger
     location: "United States"
-    followers: 44747
-    engagement: 677
-    commentsToLikes: 0.070361
-    id: ck6ugvd155dzc0j711s9sjzql
+    followers: 5268
+    engagement: 1847
+    commentsToLikes: 0.388341
+    id: ckaov1bnc2ozp0i782ad4rfql
     verified: false
-    hashtags: "#worldfit2020, #motelrocks"
+    hashtags: "#workout, #pompomsandals, #ltkspring, #distresseddenim"
+  - username: "katie.h.snyder"
+    fullname: >-
+      Katie Halvorsen Snyder
+    location: "United States"
+    followers: 7266
+    engagement: 1500
+    commentsToLikes: 0.323191
+    id: ck8tc287ly0u90j78me2uvbb9
+    verified: false
+    hashtags: "#daytonight, #prettyandpink, #punnyjokes, #jokeoftheday"
+  - username: "abbeylouisefitness"
+    fullname: >-
+      a b s 🌻✨
+    location: "United States"
+    followers: 17409
+    engagement: 1143
+    commentsToLikes: 0.166755
+    id: ckaoyqhaeimls0i78l0wjanwp
+    verified: false
+    hashtags: "#hometraining, #bodybuilding, #resistancebands, #15kgiveaway"
   - username: "hunterrittgers"
     fullname: >-
       Hunter Rittgers
     location: "United States"
-    followers: 17973
-    engagement: 1101
-    commentsToLikes: 0.063797
+    followers: 19394
+    engagement: 1057
+    commentsToLikes: 0.069367
     id: ck6u6jyjcg0yr0j71aj3af11a
     verified: false
-    hashtags: "#dare2venture, #newventureescrow"
-  - username: "happy___jacks"
+    hashtags: "#newventureescrow, #dare2venture"
+  - username: "pilotmagdyali"
     fullname: >-
-      Jack ¨̮
+      Magdy Ali / طيار مجدى على
     location: "United States"
-    followers: 6130
-    engagement: 1416
-    commentsToLikes: 0.129459
-    id: ck6uergf5snww0j71xkf0oi9n
+    followers: 25270
+    engagement: 1044
+    commentsToLikes: 0.072674
+    id: ckap5go4eblsi0i786h3o3f88
     verified: false
-    hashtags: "#festfashioninspo, #edclasvegaa2020, #edclv2020, #iheartraves"
+    hashtags: "#selfie, #ceolife, #shreded, #aviationlovers"
+  - username: "adbfit"
+    fullname: >-
+      Alberto Di Bartolomeo
+    location: "United States"
+    followers: 100260
+    engagement: 900
+    commentsToLikes: 0.043393
+    id: ck15t7i8dgpha0i191bp00tew
+    verified: false
+    hashtags: "#richmond, #sunsetvibes, #modelman, #bestmen"
+  - username: "lyndsay.sutherland"
+    fullname: >-
+      ♡L Y N D S A Y♡
+    location: "United States"
+    followers: 3858
+    engagement: 2872
+    commentsToLikes: 0.140588
+    id: ckap2gd3gyphf0i780trfcrnk
+    verified: false
+    hashtags: ""
+  - username: "serpens9"
+    fullname: >-
+      Alan 🧢 jersey boi
+    location: "United States"
+    followers: 11355
+    engagement: 2506
+    commentsToLikes: 0.138716
+    id: ckaoxg7awd3ul0i78ixbwwtou
+    verified: false
+    hashtags: "#sponsored, #officialbuiltbarreview, #rethinkyourroutine, #tbt"
   - username: "fit.full.life"
     fullname: >-
       Julie
     location: "United States"
-    followers: 7327
-    engagement: 2415
-    commentsToLikes: 0.559087
+    followers: 7589
+    engagement: 2381
+    commentsToLikes: 0.520398
     id: ck6tukukugwtw0j718rwi641a
     verified: false
-    hashtags: "#homegym, #stayhealthy, #rangeofmotion, #acaibowl"
-  - username: "valentinosolinas"
-    fullname: >-
-      Valentino Solinas
-    location: "United States"
-    followers: 15465
-    engagement: 1091
-    commentsToLikes: 0.104846
-    id: ck5zo4ocppr3t0i14gp8mw2k7
-    verified: false
-    hashtags: "#ballet, #mood, #stayhome, #kick"
-  - username: "dr.mike_md"
-    fullname: >-
-      Doctor Mike Herring, MD
-    location: "United States"
-    followers: 51640
-    engagement: 995
-    commentsToLikes: 0.072152
-    id: ck5c4amxf0yb70i11py7j677y
-    verified: false
-    hashtags: "#tbt, #colehaanpaidpartner, #sponsored, #ad"
-  - username: "yassahlake14"
-    fullname: >-
-      Yassah Lake
-    location: "United States"
-    followers: 16240
-    engagement: 866
-    commentsToLikes: 0.065503
-    id: ck6u32vmfvdu90j71ixp591ck
-    verified: false
-    hashtags: "#flowers, #shreddingforthewedding, #gym, #confidence"
-  - username: "maiyamay_"
-    fullname: >-
-      Maiya May
-    location: "United States"
-    followers: 12159
-    engagement: 1264
-    commentsToLikes: 0.056568
-    id: ck0ttvpg34ioo0i19yly0mbhj
-    verified: false
-    hashtags: "#fitnessmotivation, #atlfitfam, #exploreeverything, #instadaily"
-  - username: "sarahs.fit"
-    fullname: >-
-      Sarah | FITNESS
-    location: "United States"
-    followers: 2319
-    engagement: 4101
-    commentsToLikes: 0.107292
-    id: ck8t7tkbshy0s0j78ku2k80rq
-    verified: false
-    hashtags: "#gymgirl, #girlpower, #cardio, #lifeisgood"
+    hashtags: "#covi, #baree, #fitlife, #vacationmode"
 ---

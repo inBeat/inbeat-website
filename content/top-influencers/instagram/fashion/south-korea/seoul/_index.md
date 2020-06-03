@@ -1,16 +1,36 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Seoul In 2020
 description: >-
-  Find top fashion Instagram influencers in Seoul in 2020. Most popular hashtags: #fashion #korea #model #ootd.
+  Find top fashion Instagram influencers in Seoul in 2020. Most popular hashtags: #fashion #seoul #stayhome #makeup.
 platform: Instagram
 profiles:
+  - username: "kangdm"
+    fullname: >-
+      Domenico Kang / 강동민
+    location: "South Korea"
+    followers: 6733
+    engagement: 494
+    commentsToLikes: 0.021884
+    id: ck5cbw7a2g9zw0i11svi61ehv
+    verified: false
+    hashtags: "#fashioneditorial, #nakedwolf, #end, #fw20"
+  - username: "djgg_official"
+    fullname: >-
+      DJ GG OFFICIAL
+    location: "South Korea"
+    followers: 23438
+    engagement: 397
+    commentsToLikes: 0.051340
+    id: ck0w5eflm38r30i197mnrcvj5
+    verified: false
+    hashtags: "#like4likes, #cheerupkorea, #cafe, #snow"
   - username: "polinaband"
     fullname: >-
-      polina | 폴리나
+      polina | 폴리나
     location: "South Korea"
-    followers: 21562
-    engagement: 356
-    commentsToLikes: 0.032757
+    followers: 21142
+    engagement: 389
+    commentsToLikes: 0.031810
     id: ck8sxhmc6hfgk0j78en8d4lnw
     verified: false
     hashtags: "#stayhome"
@@ -18,90 +38,70 @@ profiles:
     fullname: >-
       Illustrating Susu Girls
     location: "South Korea"
-    followers: 222552
-    engagement: 110
-    commentsToLikes: 0.008116
+    followers: 224390
+    engagement: 126
+    commentsToLikes: 0.008669
     id: ck0tyw94xobs50i199wiue7gl
     verified: true
-    hashtags: "#susugirls, #couture, #timelapse, #wipart"
-  - username: "adrianrmski"
+    hashtags: "#pradass20, #brilliantblossoms, #dreamalittledream, #workroom"
+  - username: "jjjj_yuri"
     fullname: >-
-      Adrian
+      ෆ 유리 ෆ
     location: "South Korea"
-    followers: 7113
-    engagement: 962
-    commentsToLikes: 0.024335
-    id: ck5hddqogmv8v0i111tphcq4o
+    followers: 3477
+    engagement: 1360
+    commentsToLikes: 0.094399
+    id: ckaoz5j97kgqe0i781birsyac
     verified: false
-    hashtags: "#kickoff, #location, #male, #seoultravel"
-  - username: "andreatresgallo"
+    hashtags: "#fashion, #beauty, #kbeauty, #pasta"
+  - username: "darcie.j"
     fullname: >-
-      Andrea Tresgallo
+      달씨
     location: "South Korea"
-    followers: 5695
-    engagement: 904
-    commentsToLikes: 0.060313
-    id: ck5hsjwiewps50i116g63r5wi
+    followers: 45106
+    engagement: 2119
+    commentsToLikes: 0.006717
+    id: ckap7h5ock20k0i78d0s1zjv7
     verified: false
-    hashtags: "#ootd, #fashion, #trend, #fashionphoto"
-  - username: "graypelvis"
+    hashtags: "#tommyhilfiger, #seoul, #vt, #jeju"
+  - username: "olakursa"
     fullname: >-
-      한정도
+      Aleksandra Kursa
     location: "South Korea"
-    followers: 35903
-    engagement: 451
-    commentsToLikes: 0.010668
-    id: ck135v6ui3e460i194rlaqh30
+    followers: 9568
+    engagement: 554
+    commentsToLikes: 0.016394
+    id: ck14i1nzrd80g0i19srqyvnxo
     verified: false
-    hashtags: "#toothgemkorea, #rdvz, #toothgem, #toothfairy"
-  - username: "koreansrng"
+    hashtags: "#makeup, #animal, #facetime, #quarantine"
+  - username: "jaylim1"
     fullname: >-
-      𝗸𝗼𝗿𝗲𝗮𝗻 𝘀𝘁𝘆𝗹𝗲🖇👛
+      임재현📍Seoul , 가로수길
     location: "South Korea"
-    followers: 58156
-    engagement: 413
-    commentsToLikes: 0.008197
-    id: ck0w4k0zsyyar0i19s8uxf0c0
+    followers: 138691
+    engagement: 152
+    commentsToLikes: 0.006997
+    id: ck0vvqtywqcom0i19w4j43rut
     verified: false
-    hashtags: "#ulzzangmakeup, #ulzzangkorean, #koreanfriends, #ulzzangmodel"
-  - username: "dohyunkims"
-    fullname: >-
-      김도현/ Dohyun Kim
-    location: "South Korea"
-    followers: 2449
-    engagement: 1232
-    commentsToLikes: 0.044684
-    id: ck5hlt85wktew0i11tqcwz4oh
-    verified: false
-    hashtags: "#tb, #gq, #digitals, #aimons"
+    hashtags: "#sfw, #koreafashion, #streetfashion, #pfw"
   - username: "jonah.aki"
     fullname: >-
       Jonah Kalani Aki | 아키조나
     location: "South Korea"
-    followers: 10380
-    engagement: 622
-    commentsToLikes: 0.035989
+    followers: 11176
+    engagement: 532
+    commentsToLikes: 0.032093
     id: ck6u3b3yfwrwu0j71p6t5bcmd
     verified: false
-    hashtags: "#bossbitch, #choreography, #werqtheworld, #gqmen"
+    hashtags: "#gqmagazine, #voguemagazine, #actor, #musicvideo"
   - username: "bingleytheboston"
     fullname: >-
       Bingley
     location: "South Korea"
-    followers: 8108
-    engagement: 703
-    commentsToLikes: 0.023376
+    followers: 8077
+    engagement: 682
+    commentsToLikes: 0.022656
     id: ck15thj8zi3uo0i19w6m9novq
     verified: false
-    hashtags: "#bandana, #easter, #couplegoals, #canadiangirl"
-  - username: "_saodat_asri_"
-    fullname: >-
-      🌙OLAMGA NUR SOCHGAN OY🌙
-    location: "South Korea"
-    followers: 48963
-    engagement: 224
-    commentsToLikes: 0.006034
-    id: ck8t1fqz6vlh80j78lkud70bx
-    verified: false
-    hashtags: "#tashkenttuning, #million, #telegram, #qashqadaryo"
+    hashtags: "#makeuplooks, #happynewyear, #dogmomlife, #picnic"
 ---

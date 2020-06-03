@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Colombia In 2020
 description: >-
-  Find top christian Instagram influencers in Colombia in 2020. Most popular hashtags: #fashion #jessiuribe #portraitphotography #cantante.
+  Find top christian Instagram influencers in Colombia in 2020. Most popular hashtags: #christiannodal #mexico #christian #tbt.
 platform: Instagram
 profiles:
-  - username: "egleyda16"
+  - username: "vaneperegrina"
     fullname: >-
-      𝐸𝑔𝑙𝑒𝑦𝑑𝑎 𝐵𝑒𝑙𝑙𝑖𝑎𝑟𝑑 𝐴𝑑𝑚𝑖𝑟𝑎𝑑𝑜𝑟𝑒𝑠💕
+      Vanessa Nieto - Escritora
     location: "Colombia"
-    followers: 49225
-    engagement: 185
-    commentsToLikes: 0.049855
-    id: ck139ssh9mxuf0i19x0j2y7z2
+    followers: 20482
+    engagement: 332
+    commentsToLikes: 0.056724
+    id: ckapa0su0u9jf0i78hrsu5scq
     verified: false
-    hashtags: "#mujeresguerreras, #worship, #pastor, #brilla"
-  - username: "danielroaart"
+    hashtags: "#denimjacket, #felizlunes, #mujereslatinas, #portaretrato"
+  - username: "subcantante"
     fullname: >-
-      Daniel Roa
+      Mario Muñoz - Doctor Krapula
     location: "Colombia"
-    followers: 5943
-    engagement: 475
-    commentsToLikes: 0.028062
-    id: ck6u6d8xkex360j71p7mvit7a
-    verified: false
-    hashtags: "#tulledress, #fuji, #analogcamera, #christiandiorcouture"
-  - username: "juandaamusica"
+    followers: 120201
+    engagement: 404
+    commentsToLikes: 0.011914
+    id: ck5hnnc5lo2dk0i116u96jiof
+    verified: true
+    hashtags: "#29n, #skatex, #musica, #21e"
+  - username: "madiellara"
     fullname: >-
-      JuanDa, ¡Ay Prodigio!
+      OnTheBeatBro!🇩🇴
     location: "Colombia"
-    followers: 17922
-    engagement: 234
-    commentsToLikes: 0.058269
-    id: ck5zqlkdputtc0i14gnqi4r1o
+    followers: 150935
+    engagement: 310
+    commentsToLikes: 0.038725
+    id: ck0w6rjwt9yja0i19ajz4xv1d
+    verified: true
+    hashtags: "#hope, #noparas, #creatividad, #trap"
+  - username: "axelermaoficial"
+    fullname: >-
+      Axel Lerma
+    location: "Colombia"
+    followers: 8230
+    engagement: 3064
+    commentsToLikes: 0.010209
+    id: ckap3rrhd4a4w0i78niacs66l
     verified: false
-    hashtags: "#mesalescara, #mexico, #sentimiento, #lonuevo"
+    hashtags: "#pepeaguilar, #marcamp, #love, #polemica"
   - username: "megamusicpopular"
     fullname: >-
       Megamusic Popular
     location: "Colombia"
-    followers: 51360
-    engagement: 336
-    commentsToLikes: 0.043298
+    followers: 63223
+    engagement: 350
+    commentsToLikes: 0.053240
     id: ck14iujwih8890i19a7ouccnh
     verified: false
-    hashtags: "#eldesmadre, #arelyshenao, #vicentefernandez, #ejecafetero"
-  - username: "maclablog"
+    hashtags: "#cupidofallo, #pepeaguilar, #revistasemana, #hijod"
+  - username: "juandaamusica"
     fullname: >-
-      Macla 💖 Marcela McCausland
+      JuanDa, ¡Ay Prodigio!
     location: "Colombia"
-    followers: 73284
-    engagement: 314
-    commentsToLikes: 0.063459
-    id: ck0uabmgibsav0i19yykzcuum
+    followers: 17899
+    engagement: 320
+    commentsToLikes: 0.034224
+    id: ck5zqlkdputtc0i14gnqi4r1o
+    verified: false
+    hashtags: "#sentimiento, #caballo, #regionalmexicana, #christiannodal"
+  - username: "camposalex"
+    fullname: >-
+      Alex Campos
+    location: "Colombia"
+    followers: 1852925
+    engagement: 80
+    commentsToLikes: 0.015568
+    id: ck5pwq84yo1ti0i11n5r0lhce
     verified: true
-    hashtags: "#naturauna, #ootd, #plussize, #primavera"
+    hashtags: "#altarfamiliar, #instalive, #hogar, #repost"
+  - username: "soyjorgebernal"
+    fullname: >-
+      Jorge Bernal
+    location: "Colombia"
+    followers: 7099
+    engagement: 1763
+    commentsToLikes: 0.180423
+    id: ck9hcvq9an61y0j78ktzkrs7w
+    verified: false
+    hashtags: "#happybirthday, #mejoresamigos, #like, #tbt"
+  - username: "leidygomez063"
+    fullname: >-
+      ⚜️ 𝐋𝐞𝐢𝐢𝐝𝐲 𝐆𝐨́𝐦𝐞𝐳  ⚜️
+    location: "Colombia"
+    followers: 254897
+    engagement: 456
+    commentsToLikes: 0.131269
+    id: ck8t0qyfwsytv0j7846clzuqm
+    verified: false
+    hashtags: "#tucacas, #manizale, #modeloscolombia, #regalamelanoche"
   - username: "tousyaiselle"
     fullname: >-
       Yaiselle Tous
     location: "Colombia"
-    followers: 24189
-    engagement: 958
-    commentsToLikes: 0.021380
+    followers: 23832
+    engagement: 950
+    commentsToLikes: 0.021722
     id: ck5q3iv5fkxxc0i11wcfsp0h4
     verified: false
-    hashtags: "#slask, #wojewodztwoslaskie, #silesianvoivodeship, #tbt"
-  - username: "danigarzonmendez"
-    fullname: >-
-      Daniela Garzon
-    location: "Colombia"
-    followers: 10227
-    engagement: 813
-    commentsToLikes: 0.054868
-    id: ck6uem7gtrrf10j71a6zv7y8k
-    verified: false
-    hashtags: "#medellincolombia, #traveltheworld, #organizartransforma, #girlswithtattoos"
-  - username: "victorhugopenag"
-    fullname: >-
-      Victor Hugo Peña
-    location: "Colombia"
-    followers: 31746
-    engagement: 507
-    commentsToLikes: 0.025499
-    id: ck5zq0erptoyi0i147ullfp51
-    verified: false
-    hashtags: "#duarte, #repost, #michaelrogers, #lavueltaxespn"
-  - username: "camila_moreno_"
-    fullname: >-
-      Camila Moreno
-    location: "Colombia"
-    followers: 105166
-    engagement: 440
-    commentsToLikes: 0.017989
-    id: ck135qohb2rer0i199sgm613y
-    verified: false
-    hashtags: "#niunamenos, #8m2020, #quedateencasa, #valpo"
-  - username: "manuellamendoza"
-    fullname: >-
-      m a n u 🎨 selfcare
-    location: "Colombia"
-    followers: 40539
-    engagement: 363
-    commentsToLikes: 0.055077
-    id: ck14gpn7y6f250i19r1ij2tw7
-    verified: false
-    hashtags: "#productividad, #agenda, #movies, #peliculasnetflix"
+    hashtags: "#silesianvoivodeship"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Atlanta In 2020
 description: >-
-  Find top Instagram influencers in Atlanta in 2020. Most popular hashtags: #atlanta #wcw #drawing #atlantaartist.
+  Find top Instagram influencers in Atlanta in 2020. Most popular hashtags: #stayhome # #girldad #nystrong.
 platform: Instagram
 profiles:
-  - username: "prodkill"
+  - username: "mmolliepopp"
     fullname: >-
-      Kill
+      Mollie McMahon
     location: "United States"
-    followers: 5612
-    engagement: 553
-    commentsToLikes: 0.090569
-    id: ck6toj81oedgp0j716yn4zrkq
+    followers: 7309
+    engagement: 696
+    commentsToLikes: 0.028748
+    id: ckap14l3ut3kb0i788pco2gcq
     verified: false
-    hashtags: "#14"
-  - username: "whatisjoedoing"
+    hashtags: "#rolltide"
+  - username: "jordanxbell"
     fullname: >-
-      Joseph Solomon
+      XB
     location: "United States"
-    followers: 86151
-    engagement: 457
-    commentsToLikes: 0.033159
-    id: ck14huhgcc7co0i19guqg9oq4
-    verified: true
-    hashtags: "#flightsandfeelings, #nativenorth, #nativeno, #josephsolomon"
-  - username: "jovitamoore"
-    fullname: >-
-      JovitaMoore
-    location: "United States"
-    followers: 33132
-    engagement: 689
-    commentsToLikes: 0.064839
-    id: ck55lmd291wpc0i11jiwkw2sa
-    verified: true
-    hashtags: "#internationalwomensday, #topnine2019, #tfti, #upallnight"
+    followers: 10212
+    engagement: 880
+    commentsToLikes: 0.039249
+    id: ck5qcsmaws4l50i112z1py7qr
+    verified: false
+    hashtags: "#stayhome"
   - username: "allyiahsface"
     fullname: >-
       A L L Y I A H
     location: "United States"
-    followers: 236031
-    engagement: 1164
-    commentsToLikes: 0.029016
+    followers: 248682
+    engagement: 1050
+    commentsToLikes: 0.036004
     id: ck139yo0ynrw00i193hn8i1av
     verified: false
-    hashtags: "#anastasiabeverlyhills, #bigbrowenergy, #beautyuncomplicated, #patmcgrathlabs"
+    hashtags: "#toofacedpartner, #ad, #sephoracollection, #ebdfamily"
+  - username: "doitfortheryan"
+    fullname: >-
+      Ryan Cameron
+    location: "United States"
+    followers: 102704
+    engagement: 667
+    commentsToLikes: 0.068256
+    id: ck139qbe7mlyq0i193jz9f65u
+    verified: true
+    hashtags: "#sneakerball, #wedat, #urbanonehonors, #17goingon30"
+  - username: "reematkhalid"
+    fullname: >-
+      Reema Khalid
+    location: "United States"
+    followers: 15752
+    engagement: 968
+    commentsToLikes: 0.090767
+    id: ck6u0hlstfqvp0j71y0ukja7q
+    verified: false
+    hashtags: "#lovemylittlefamily, #stayhome, #nystrong, #topshopstyle"
   - username: "lmg_bangbang"
     fullname: >-
       Lamont Johnson
     location: "United States"
-    followers: 151504
-    engagement: 526
-    commentsToLikes: 0.044656
+    followers: 153653
+    engagement: 521
+    commentsToLikes: 0.039190
     id: ck6tzbyld8szo0j71emnq7u1l
     verified: false
-    hashtags: "#bts"
+    hashtags: ""
   - username: "idajohnphoto"
     fullname: >-
       Atlanta Photographer
     location: "United States"
-    followers: 6188
-    engagement: 1816
-    commentsToLikes: 0.057032
+    followers: 6527
+    engagement: 1631
+    commentsToLikes: 0.057856
     id: ck6tv5ckpk9ri0j71e2pe2lk3
     verified: false
-    hashtags: "#misscroatia, #miamimakeupartist, #missuniverse2019, #misscolombia"
-  - username: "lylaannee"
+    hashtags: "#retouch, #missuniverso, #missosology, #miamimakeupartist"
+  - username: "silverandsmiling"
     fullname: >-
-      Lyla Anne
+      Mitzie McDonnell
     location: "United States"
-    followers: 11660
-    engagement: 2183
-    commentsToLikes: 0.041771
-    id: ck8t4hurc6vev0j789l5ln5qf
+    followers: 7291
+    engagement: 2532
+    commentsToLikes: 0.051457
+    id: ckaosdd59r62i0i78f8fpl5ly
     verified: false
-    hashtags: "#aesthetic, #scenery, #brunette, #biracialbeauty"
-  - username: "adonisthrax"
-    fullname: >-
-      Adonis Thrax
-    location: "United States"
-    followers: 2760
-    engagement: 1870
-    commentsToLikes: 0.176203
-    id: ck5zujzyl2i9e0i14hewrxn2q
-    verified: false
-    hashtags: "#didntgetanysleep, #donedrinkingfortheyear, #scrapbookcomingsoon, #a3c"
+    hashtags: ""
   - username: "notmyequa1"
     fullname: >-
-      NOT ACCEPTING FOLLOWERS
+      ThroatGoat Lewinsky💋
     location: "United States"
-    followers: 16277
-    engagement: 1023
-    commentsToLikes: 0.043023
+    followers: 16764
+    engagement: 1031
+    commentsToLikes: 0.043367
     id: ck5bwlz2mlylt0i11yn499cpy
     verified: false
-    hashtags: "#tbt, #notmyequalxxx, #throatgoat, #wcw"
-  - username: "art.jen_stallone_riddell"
+    hashtags: "#selfish, #notmyequalxxx, #nodoorsales"
+  - username: "timcaver"
     fullname: >-
-      Jen Stallone Riddell
+      Tim Caver
     location: "United States"
-    followers: 2771
-    engagement: 2417
-    commentsToLikes: 0.076355
-    id: ck5znu5cip5q10i146gllnk3m
+    followers: 16098
+    engagement: 1224
+    commentsToLikes: 0.123695
+    id: ck0udph1kjknz0i19ua0t5i13
     verified: false
-    hashtags: "#spotlightonart, #goldleaf, #fineart, #blackandwhite"
+    hashtags: "#globepeople, #globeportraits, #nectardiaries, #corona"
 ---

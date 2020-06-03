@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Austria In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Austria in 2020. Most popular hashtags: #makeup #stayhome #cosmetics #fashion.
+  Find top cosmetics Instagram influencers in Austria in 2020. Most popular hashtags: #cosmetics #beauty #cosmetic #fashion.
 platform: Instagram
 profiles:
-  - username: "terezabudkova"
+  - username: "caroemilie"
     fullname: >-
-      Tereza Budková
+      Caroline
     location: "Austria"
-    followers: 77631
-    engagement: 497
-    commentsToLikes: 0.029766
-    id: ck6tpthc4mrf00j717n7qvztb
-    verified: true
-    hashtags: "#snikers, #behindthescenes, #bridalmakeup, #springfashion"
-  - username: "albiinais"
-    fullname: >-
-      Albina Isufi
-    location: "Austria"
-    followers: 3358
-    engagement: 4217
-    commentsToLikes: 0.032035
-    id: ck0u6ajo71ig70i19kzivxq4l
+    followers: 5774
+    engagement: 1200
+    commentsToLikes: 0.083549
+    id: ck9wfk15cp6iq0j78dt1jo1zc
     verified: false
-    hashtags: "#austria, #promotion, #motivation, #lips"
+    hashtags: "#happymothersday, #beauty, #beautybloggers, #lacetop"
   - username: "thafreckledgirl"
     fullname: >-
       Natalie Haffar🐉
     location: "Austria"
-    followers: 13074
-    engagement: 849
-    commentsToLikes: 0.026790
+    followers: 12858
+    engagement: 850
+    commentsToLikes: 0.025252
     id: ck8tdb6x62n8v0j78it1m3x1e
     verified: false
-    hashtags: "#lifeyourlifetothefullest, #giveittestraight, #lip, #foundation"
-  - username: "tatjanakreuzmayr"
+    hashtags: "#glitter, #beauty, #beautiful, #lifeyourlifetothefullest"
+  - username: "caroline.lena"
     fullname: >-
-      Tatjana Kreuzmayr
+      Lena Caroline | Vienna
     location: "Austria"
-    followers: 104550
-    engagement: 96
-    commentsToLikes: 0.114715
-    id: ck0tvh2fcbbi60i199lxc7p1z
-    verified: true
-    hashtags: "#overthetop, #spaday, #runwaymyway, #unterfordert"
-  - username: "ebruerkut"
-    fullname: >-
-      Ebru Erkut
-    location: "Austria"
-    followers: 186141
-    engagement: 264
-    commentsToLikes: 0.041766
-    id: ck0u9i99p9yss0i19bwl9mf7s
+    followers: 10743
+    engagement: 344
+    commentsToLikes: 0.156805
+    id: ck0w4tdkd0bjo0i19ho2fzyd7
     verified: false
-    hashtags: "#viennacitygirl, #makeupgiveaway, #outfitinspiration, #birthdaygirl"
-  - username: "heartblood"
+    hashtags: "#lips, #blondegirl, #mensfashion, #femalemodel"
+  - username: "gcjuergen"
     fullname: >-
-      RAPHAELA FUCHS
+      Gourmet-Coach Jürgen
     location: "Austria"
-    followers: 37223
-    engagement: 211
-    commentsToLikes: 0.044520
-    id: ck8tcz88p191w0j780bgjf2gy
+    followers: 3248
+    engagement: 2621
+    commentsToLikes: 0.060318
+    id: ckap6dju9fg2z0i78z0e379te
     verified: false
-    hashtags: "#fashionblogger, #timetoreadabook, #outfitideas, #analoguephotography"
-  - username: "nadjahluchovsky"
-    fullname: >-
-      Make-upArtist-Bodypainter💄🎨
-    location: "Austria"
-    followers: 34080
-    engagement: 102
-    commentsToLikes: 0.116953
-    id: ck5hrx5ayvmq60i11mxx72d7d
-    verified: false
-    hashtags: "#greenmakeup, #makeupisfun, #inspirecosmetic, #muaworld"
-  - username: "paulawwolf"
-    fullname: >-
-      Paula Wolf
-    location: "Austria"
-    followers: 333470
-    engagement: 364
-    commentsToLikes: 0.054433
-    id: ck0u8fa0h78cz0i19uo94sr4u
-    verified: false
-    hashtags: "#toofaced, #revolutionxjakejamie, #starskinbeauty, #lashes"
-  - username: "christintalksbeauty"
-    fullname: >-
-      Christin
-    location: "Austria"
-    followers: 3058
-    engagement: 1327
-    commentsToLikes: 0.131749
-    id: ck5q6gvicxceo0i116vterttu
-    verified: false
-    hashtags: "#flattenthecurve"
+    hashtags: "#fleisch, #antwort, #bier, #fragedestages"
   - username: "sheri_show"
     fullname: >-
-      𝚂𝚑𝚚𝚕𝚊𝚠𝚊
+      Sʜǫʟᴀᴡᴀ | شـقـلاوة
     location: "Austria"
-    followers: 66763
-    engagement: 178
-    commentsToLikes: 0.065485
+    followers: 64568
+    engagement: 217
+    commentsToLikes: 0.069625
     id: ck8ta6eejqlzf0j78zskkwc4n
     verified: false
-    hashtags: "#kurdishvideo, #makeuplook, #sosulashes, #urbandecay"
+    hashtags: "#cosmetics, #fashion, #kurds, #loreal"
+  - username: "rim_smith7"
+    fullname: >-
+      𝐑 𝐢 𝐦  𝐒 𝐦 𝐢 𝐭 𝐡
+    location: "Austria"
+    followers: 3685
+    engagement: 1220
+    commentsToLikes: 0.039627
+    id: ck8t0zjaatwtr0j78psklk4mw
+    verified: false
+    hashtags: "#bestoftheday, #stone, #accessory, #accessories"
+  - username: "heartblood"
+    fullname: >-
+      RAPHAELA FUCHS, MA
+    location: "Austria"
+    followers: 36282
+    engagement: 170
+    commentsToLikes: 0.062513
+    id: ck8tcz88p191w0j780bgjf2gy
+    verified: false
+    hashtags: "#newbalance530, #wienergeflecht, #appleairpods, #ralphlauren"
+  - username: "shadesbynina"
+    fullname: >-
+      N I N A 🖤 Make Up Artist
+    location: "Austria"
+    followers: 7765
+    engagement: 1414
+    commentsToLikes: 0.097957
+    id: ck8t0ixkis7tt0j7848javd0l
+    verified: false
+    hashtags: "#makeup4glam, #hibiscusflower, #expectopatronum, #beautygiveaway"
+  - username: "_phil_makeup"
+    fullname: >-
+      Phil makeup
+    location: "Austria"
+    followers: 4245
+    engagement: 1310
+    commentsToLikes: 0.091526
+    id: ck9wdoqjggkbk0j78onvy9hyp
+    verified: false
+    hashtags: "#newvideo, #dragon, #makeupjunkie, #highbeauty"
+  - username: "chriss_cross"
+    fullname: >-
+      Chryssanthi Kavazi
+    location: "Austria"
+    followers: 332865
+    engagement: 854
+    commentsToLikes: 0.009157
+    id: ck0u9tg56amsr0i1932oln05u
+    verified: true
+    hashtags: "#onelove, #christmas2019, #anzeigewegenmarkierung, #teampinguin"
 ---

@@ -1,16 +1,26 @@
 ---
 title: Top 10 Comedians Instagram Influencers In India In 2020
 description: >-
-  Find top comedians Instagram influencers in India in 2020. Most popular hashtags: #tiktok #comedy #corona #travelphotography.
+  Find top comedians Instagram influencers in India in 2020. Most popular hashtags: #tiktokindia #comedy #tiktok #friendship.
 platform: Instagram
 profiles:
+  - username: "inaginasethi"
+    fullname: >-
+      Nagina Sethi Vines
+    location: "India"
+    followers: 60079
+    engagement: 1571
+    commentsToLikes: 0.022423
+    id: ck8weqbcjeg8i0j78jitfvqp2
+    verified: false
+    hashtags: "#tiktokdance, #tiktokroast, #moustache, #tiktokvsyoutube"
   - username: "wrennwoods"
     fullname: >-
       Wrenn Woods
     location: "India"
-    followers: 15123
-    engagement: 280
-    commentsToLikes: 0.055834
+    followers: 14961
+    engagement: 250
+    commentsToLikes: 0.057524
     id: ck14hnqc9b8vh0i1959799kn5
     verified: false
     hashtags: "#stayinside"
@@ -18,90 +28,80 @@ profiles:
     fullname: >-
       Eddie B
     location: "India"
-    followers: 150846
-    engagement: 651
-    commentsToLikes: 0.071962
+    followers: 156952
+    engagement: 660
+    commentsToLikes: 0.067945
     id: ck0w003s1bq8l0i19kubyy4rb
     verified: true
-    hashtags: "#eddiebcomedy, #teachersfollowteachers, #teacherslife, #teachersofinstagram"
-  - username: "inaginasethi"
+    hashtags: "#teacherlife, #zoommeeting, #corona, #orangetx"
+  - username: "i_kamal_boss"
     fullname: >-
-      Nagina Sethi Vines
+      Kamal Boss 👨🏼‍💻
     location: "India"
-    followers: 48317
-    engagement: 1720
-    commentsToLikes: 0.025421
-    id: ck8weqbcjeg8i0j78jitfvqp2
+    followers: 17592
+    engagement: 493
+    commentsToLikes: 0.029975
+    id: ck8wf3efpf2b00j78gktxpynm
     verified: false
-    hashtags: "#handwashchallenge, #playathome, #natureza, #traveltheworld"
-  - username: "izabellamiko"
+    hashtags: "#friendship, #jattwaad, #nice, #chandigarh"
+  - username: "nikhilxlx"
     fullname: >-
-      Izabella Miko|Fun+Inspiration
+      SmileInHardTime🦁♥️
     location: "India"
-    followers: 122131
-    engagement: 358
-    commentsToLikes: 0.065776
-    id: ck0vuwg9amh5i0i19eziqvyjf
-    verified: true
-    hashtags: "#allow, #howtomanifest, #help, #youarenotalone"
-  - username: "theskygupta"
-    fullname: >-
-      Aakash Gupta
-    location: "India"
-    followers: 106531
-    engagement: 1397
-    commentsToLikes: 0.006719
-    id: ck5hks59xiyqn0i11j0so5lmf
-    verified: true
-    hashtags: "#standuptour, #aakashcomedian, #standupvideo, #dogowner"
-  - username: "boom2funny"
-    fullname: >-
-      Boom2funny
-    location: "India"
-    followers: 28611
-    engagement: 808
-    commentsToLikes: 0.024417
-    id: ck5zvycsq55630i14c34a1wku
+    followers: 35156
+    engagement: 2046
+    commentsToLikes: 0.021714
+    id: ck8wf2z0ef1mk0j78eyjrjsfx
     verified: false
-    hashtags: "#classic, #reposts, #cheating"
+    hashtags: "#realtionship, #btstiktok, #bollywood, #comedyvideo"
   - username: "iam_johnylever"
     fullname: >-
       Johny Lever
     location: "India"
-    followers: 34768
-    engagement: 1298
-    commentsToLikes: 0.018267
+    followers: 68577
+    engagement: 1098
+    commentsToLikes: 0.015901
     id: ck15q0ly20iyc0i19ehzx1oyd
     verified: false
-    hashtags: "#housefull4, #bobbydeol, #kritikharbanda, #coronavirusoutbreak"
+    hashtags: "#poojahegde, #mehmood, #spreadingjoy, #coronavirusinindia"
   - username: "shivneel_dotcom"
     fullname: >-
       Shivneel
     location: "India"
-    followers: 31071
-    engagement: 872
-    commentsToLikes: 0.017886
+    followers: 30555
+    engagement: 897
+    commentsToLikes: 0.018744
     id: ck5cfr6minhdd0i112psbz2w0
     verified: false
-    hashtags: "#couplegoals, #notacrip, #mcdonalds, #mcdnzszechuan"
+    hashtags: "#rotorua, #magicmac, #couplegoals, #sponsored"
+  - username: "ambareesh_ps_"
+    fullname: >-
+      Ambareesh Ps
+    location: "India"
+    followers: 65503
+    engagement: 1805
+    commentsToLikes: 0.014561
+    id: ck9wik9fm2mv20j78qqzey5fv
+    verified: false
+    hashtags: "#tiktoktelugu, #kazargod, #malayalamcomedy, #comedyvideo"
   - username: "therealscruncho"
     fullname: >-
       Anthony B “SCRUNCHO” McKinely
     location: "India"
-    followers: 35563
-    engagement: 198
-    commentsToLikes: 0.100132
+    followers: 36177
+    engagement: 184
+    commentsToLikes: 0.116065
     id: ck5q37s1mjmj80i11d7fs7nan
     verified: false
-    hashtags: "#therealscruncho, #secondfromright, #kevinheart, #ripkobeandgianna"
-  - username: "roony.ig"
+    hashtags: "#classic, #kids, #prison, #crime"
+  - username: "its_jamielever"
     fullname: >-
-      Tarun Kumar
+      Jamie Lever
     location: "India"
-    followers: 22543
-    engagement: 744
-    commentsToLikes: 0.025034
-    id: ck5c2u2huxze00i11l7osvwi1
-    verified: false
-    hashtags: "#punjabipowers, #indiandad, #gasman, #arrangedmarriage"
+    followers: 87717
+    engagement: 787
+    commentsToLikes: 0.025100
+    id: ck6twgkgyrv860j71nf4as7cj
+    verified: true
+    hashtags: "#biggboss13, #sidnaaz, #socialmedialife, #chotachatri"
 ---

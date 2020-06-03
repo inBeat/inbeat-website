@@ -1,39 +1,69 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Italy In 2020
 description: >-
-  Find top gaming Instagram influencers in Italy in 2020. Most popular hashtags: #gaming #cosplay #leagueoflegendscosplay #photography.
+  Find top gaming Instagram influencers in Italy in 2020. Most popular hashtags: #videogames # #esports #indiansinlondon.
 platform: Instagram
 profiles:
   - username: "kygozztv"
     fullname: >-
       simone colagiacomo - kygozz💫
     location: "Italy"
-    followers: 54036
-    engagement: 822
-    commentsToLikes: 0.132701
+    followers: 58915
+    engagement: 719
+    commentsToLikes: 0.134249
     id: ck6u3l80ayfcz0j71p12jsnln
     verified: false
+    hashtags: "#adv, #huaweiappgallery, #huawei, #huaweimobileservices"
+  - username: "misshatred"
+    fullname: >-
+      MissHatred
+    location: "Italy"
+    followers: 16456
+    engagement: 681
+    commentsToLikes: 0.034322
+    id: ck6u7ssb2ng3u0j71e81ig3e9
+    verified: false
+    hashtags: "#vulcanian, #edomecca, #andorianslave, #soulcalibur"
+  - username: "ivangrieco"
+    fullname: >-
+      Rampageinthebox
+    location: "Italy"
+    followers: 49478
+    engagement: 987
+    commentsToLikes: 0.031067
+    id: ckap1vejdwbhm0i78a6utcr7w
+    verified: true
     hashtags: ""
   - username: "itssimplyal"
     fullname: >-
       gamer | tech enthusiast | Al
     location: "Italy"
-    followers: 31195
-    engagement: 355
-    commentsToLikes: 0.105748
+    followers: 31500
+    engagement: 416
+    commentsToLikes: 0.098544
     id: ck5q4r9a6pzkh0i11lxfbdaiz
     verified: false
-    hashtags: "#game, #remastered, #dualshock4, #games"
+    hashtags: "#birthday"
   - username: "slait"
     fullname: >-
       Machete Slait 333
     location: "Italy"
-    followers: 137131
-    engagement: 887
-    commentsToLikes: 0.006069
+    followers: 136030
+    engagement: 901
+    commentsToLikes: 0.006144
     id: ck0w6cyci7znx0i19ksacl5ux
     verified: true
     hashtags: "#236451, #djset, #remida, #soldout"
+  - username: "bomber_esports"
+    fullname: >-
+      Bomber E-Sports
+    location: "Italy"
+    followers: 100459
+    engagement: 429
+    commentsToLikes: 0.020136
+    id: ck8t9uv5qpfxr0j78phhsyjkv
+    verified: false
+    hashtags: "#ps4, #esports, #ignoranza, #fifamobile"
   - username: "machete.gaming"
     fullname: >-
       Machete Gaming
@@ -44,64 +74,34 @@ profiles:
     id: ck6u3l82ayfe80j71qbzomo4b
     verified: false
     hashtags: ""
-  - username: "luckylai_"
+  - username: "skrill"
     fullname: >-
-      Lucky.Lai
+      Skrill
     location: "Italy"
-    followers: 7461
-    engagement: 1344
-    commentsToLikes: 0.034811
-    id: ck5hcojj2j5n90i1169udk0xj
-    verified: false
-    hashtags: "#jiangshishuten, #demongirl, #utahcosplayer, #animelosangeles2020"
-  - username: "andreabellusci"
+    followers: 53025
+    engagement: 62
+    commentsToLikes: 0.480125
+    id: ck13byoi9xscb0i198z3jriqi
+    verified: true
+    hashtags: "#onlinepoker, #homesetup, #pokerindonesia, #pokergirl"
+  - username: "jadekisacosplay"
     fullname: >-
-      andrea bellusci
+      🌻 𝑲𝒊𝒔𝒂 🌻
     location: "Italy"
-    followers: 18010
-    engagement: 802
-    commentsToLikes: 0.040166
-    id: ck6u7tfpenkeo0j71zaw6nktb
+    followers: 2847
+    engagement: 3005
+    commentsToLikes: 0.109307
+    id: ck8t4l2t8757t0j78b3mcr6w9
     verified: false
-    hashtags: "#doom, #doometernal, #disneyplus, #quiz"
-  - username: "wisemermayd"
+    hashtags: "#disneyfan, #arielcosplay, #cosplayedit, #ahrilol"
+  - username: "caelenacosplay"
     fullname: >-
-      ℒαυrα  Iυrilli
+      Caelena
     location: "Italy"
-    followers: 9545
-    engagement: 1065
-    commentsToLikes: 0.085541
-    id: ck0w11hnhh3hi0i19tsojf8eg
+    followers: 5208
+    engagement: 2283
+    commentsToLikes: 0.059633
+    id: ckaovkvk7503b0i78hsqbp4ou
     verified: false
-    hashtags: "#elsa, #cats, #disneylover, #moana"
-  - username: "edmea_sg"
-    fullname: >-
-      Edmea Suicide
-    location: "Italy"
-    followers: 8287
-    engagement: 867
-    commentsToLikes: 0.071641
-    id: ck6txe515xbbc0j71ovgw9gqi
-    verified: false
-    hashtags: "#details, #quarantena, #portrait, #suicidegirlsitaly"
-  - username: "andreabeltotto"
-    fullname: >-
-      Andrea Beltotto ¶ andreabelt17
-    location: "Italy"
-    followers: 18219
-    engagement: 509
-    commentsToLikes: 0.091908
-    id: ck5q0fie95r0t0i11gjrxzltj
-    verified: false
-    hashtags: "#goproenthusiasts, #reflectiongram, #exploretocreate, #wedding"
-  - username: "tanyabat_"
-    fullname: >-
-      TanyaBat
-    location: "Italy"
-    followers: 123486
-    engagement: 215
-    commentsToLikes: 0.030015
-    id: ck6u143mfjgr80j71a0tf2hhp
-    verified: false
-    hashtags: "#fashion, #friends, #girl, #hair"
+    hashtags: "#animemes, #mangagirl, #sevendeadlysins, #yumekojabami"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top comedians Instagram influencers in Nigeria in 2020. Most popular hashtags: #staysafe #coronavirus #repost #stayhome.
+  Find top comedians Instagram influencers in Nigeria in 2020. Most popular hashtags: #davido #krakstv #staysafe #pulse.
 platform: Instagram
 profiles:
-  - username: "official_marylove"
+  - username: "williamsuchemba"
     fullname: >-
-      Mary Love
+      Williams Uchemba
     location: "Nigeria"
-    followers: 22500
-    engagement: 1025
-    commentsToLikes: 0.086345
-    id: ck6uhw7tfblk30j7151a0yzgd
-    verified: false
-    hashtags: "#africanwomen, #africanparents, #nigerianmovie, #queentingz"
-  - username: "bright_osas1"
-    fullname: >-
-      BRIGHT OSAS !!!!🎤🎬👑.
-    location: "Nigeria"
-    followers: 75726
-    engagement: 457
-    commentsToLikes: 0.037665
-    id: ck5hosf99q5bu0i11kcyze7up
-    verified: false
-    hashtags: "#droppingvideoslater, #flyingnording, #workout, #ideyfearu"
-  - username: "omo_adugbo"
-    fullname: >-
-      olaitan jewoola
-    location: "Nigeria"
-    followers: 52298
-    engagement: 62
-    commentsToLikes: 0.030347
-    id: ck5hdga4tna720i11dvv67wav
-    verified: false
-    hashtags: "#ebuteikorodu, #party, #bottlegirls, #olowogbogboro"
-  - username: "iamdikeh"
-    fullname: >-
-      Chukwudike D. Akuwudike
-    location: "Nigeria"
-    followers: 180926
-    engagement: 628
-    commentsToLikes: 0.045837
-    id: ck6u80nh3oqvv0j71vkq9ux0z
-    verified: false
-    hashtags: "#bopdaddychallenge, #flexypizzle, #completeme, #deletingsoon"
-  - username: "babaalariya"
-    fullname: >-
-      Baba Alariya Comedian
-    location: "Nigeria"
-    followers: 207588
-    engagement: 117
-    commentsToLikes: 0.034710
-    id: ck134mrj5x75g0i19fge3p6br
-    verified: false
-    hashtags: "#stayhome, #covid, #giveaway, #goodmorning"
-  - username: "kolomanworld"
-    fullname: >-
-      KOLOMAN/PROSPER OF MY FLATMATE
-    location: "Nigeria"
-    followers: 40758
-    engagement: 113
-    commentsToLikes: 0.055994
-    id: ck14gsxsv6v730i19liv969tm
-    verified: false
-    hashtags: "#global, #emergency, #healthfirst, #lagosmuas"
+    followers: 2618354
+    engagement: 201
+    commentsToLikes: 0.056726
+    id: ck55nz7f27azo0i11gz3f1udz
+    verified: true
+    hashtags: "#saynotosuicide, #suicideisnottheanswer, #tbt, #eachonereachone"
   - username: "jerryclefadam"
     fullname: >-
       JERRYCLEF OMO OLOGO 9.0
     location: "Nigeria"
-    followers: 45038
-    engagement: 283
-    commentsToLikes: 0.076971
+    followers: 57526
+    engagement: 357
+    commentsToLikes: 0.083592
     id: ck5hos0rmq4ft0i11ym0513j1
     verified: false
-    hashtags: "#tundeednutgiveaway, #brodashaggi, #wizkid, #school"
-  - username: "igodye_"
+    hashtags: "#marlians, #davido, #instablog, #tundeednut"
+  - username: "ini_cash"
     fullname: >-
-      Igodye
+      Fast Cash✨
     location: "Nigeria"
-    followers: 414471
-    engagement: 42
-    commentsToLikes: 0.031613
-    id: ck5hosflnq5d30i11jf26t43k
-    verified: true
-    hashtags: "#strongerdelta, #coronavirus, #socialdistancing, #igodyestanding"
+    followers: 9680
+    engagement: 1170
+    commentsToLikes: 0.085024
+    id: ck6ttowx6bsvd0j711x4yjy7d
+    verified: false
+    hashtags: "#kompa, #hatian, #caribbean, #funnyposts"
+  - username: "official_marylove"
+    fullname: >-
+      Mary Love
+    location: "Nigeria"
+    followers: 22976
+    engagement: 1004
+    commentsToLikes: 0.088320
+    id: ck6uhw7tfblk30j7151a0yzgd
+    verified: false
+    hashtags: "#broomstickchallenge, #likecommentshare, #taxseason, #poopchallengefail"
   - username: "guccy_branch"
     fullname: >-
       Snap~ Guccy_Branch
     location: "Nigeria"
-    followers: 206782
-    engagement: 524
-    commentsToLikes: 0.014765
+    followers: 223780
+    engagement: 643
+    commentsToLikes: 0.015532
     id: ck15p9ckxwqp00i19p56gqiqi
     verified: false
     hashtags: ""
-  - username: "jazz_priest"
+  - username: "gbsneh"
     fullname: >-
-      Omoile Emmanuel
+      SLEEPING 💆‍♂️
     location: "Nigeria"
-    followers: 11628
-    engagement: 550
-    commentsToLikes: 0.056176
-    id: ck5hhgqwv850e0i11jiuwi8e8
+    followers: 11342
+    engagement: 520
+    commentsToLikes: 0.204210
+    id: ck5horyoqq4d70i11mxs5267f
     verified: false
-    hashtags: "#hesgotthewholeworldchallenge, #pushupchallenge, #amen, #producer"
+    hashtags: "#easter, #thankful, #photo, #bored"
+  - username: "mc_lively"
+    fullname: >-
+      Michael Sani
+    location: "Nigeria"
+    followers: 1470685
+    engagement: 178
+    commentsToLikes: 0.024315
+    id: ck15qg5l32okg0i19ain3stvm
+    verified: true
+    hashtags: "#tiktok, #calltobar, #realwarripikin, #infinixnote7launch"
+  - username: "kwekugh_"
+    fullname: >-
+      KWEKU GH🇬🇭
+    location: "Nigeria"
+    followers: 31392
+    engagement: 282
+    commentsToLikes: 0.125097
+    id: ck5cidbucsg6d0i11762itbzv
+    verified: false
+    hashtags: "#sweetness, #happymothersday, #tetiarybeauties, #kakalikalove"
+  - username: "mayordona"
+    fullname: >-
+      mayordona
+    location: "Nigeria"
+    followers: 28178
+    engagement: 271
+    commentsToLikes: 0.096651
+    id: ck5c5811v2xhq0i11avrivobc
+    verified: false
+    hashtags: "#mayordoyan, #ongod, #fun, #mayordona"
+  - username: "buchicomedian"
+    fullname: >-
+      Onyebuchi Ojieh
+    location: "Nigeria"
+    followers: 166401
+    engagement: 219
+    commentsToLikes: 0.040582
+    id: ck15qg3tt2oag0i19mrj6v6a6
+    verified: true
+    hashtags: "#thislifenorbalance, #guinnessnigeria, #bymyside, #takecare"
 ---

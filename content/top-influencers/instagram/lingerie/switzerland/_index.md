@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top lingerie Instagram influencers in Switzerland in 2020. Most popular hashtags: #lingerie #stayathome #fashion #mood.
+  Find top lingerie Instagram influencers in Switzerland in 2020. Most popular hashtags: #lingerie #blackandwhite #positivevibes #sunshine.
 platform: Instagram
 profiles:
-  - username: "elisabettagregoracireal"
-    fullname: >-
-      Elisabetta Gregoraci
-    location: "Switzerland"
-    followers: 1206596
-    engagement: 180
-    commentsToLikes: 0.035737
-    id: ck0tv2gsq9nib0i19b2tdcktk
-    verified: true
-    hashtags: "#noirestiamoacasa, #coronavirusitalianews, #corona, #buoncompleanno"
-  - username: "fanny_beladona"
-    fullname: >-
-      Fanny Beladona
-    location: "Switzerland"
-    followers: 73318
-    engagement: 161
-    commentsToLikes: 0.056310
-    id: ck5cfqsevngv90i11hes3s290
-    verified: false
-    hashtags: "#geekette, #geeklife, #nakedplanet, #feetlove"
   - username: "daniela_graf_"
     fullname: >-
       FASHION | BEAUTY | PORTRAIT
     location: "Switzerland"
-    followers: 16031
-    engagement: 551
-    commentsToLikes: 0.178991
+    followers: 16769
+    engagement: 494
+    commentsToLikes: 0.159019
     id: ck13c1wyky7zh0i190aek2hfv
     verified: false
-    hashtags: "#closeup, #portraitamazing, #females, #bestoftheday"
-  - username: "lucy_zzz"
+    hashtags: "#quotes, #bunny, #boudoirgodess, #homeshoot"
+  - username: "_nadezzhdaa"
     fullname: >-
-      ✨LU✨
+      ʟᴜɢᴀɴᴏ 🌸 𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆 & 𝑭𝒂𝒔𝒉𝒊𝒐𝒏
     location: "Switzerland"
-    followers: 20285
-    engagement: 552
-    commentsToLikes: 0.060372
-    id: ck5bvc1pajdcf0i11s89j9r47
+    followers: 2184
+    engagement: 1727
+    commentsToLikes: 0.167958
+    id: ck9wos4if6do70j78vu66vack
     verified: false
-    hashtags: "#silver, #coat, #shower, #oldbutgold"
+    hashtags: "#skiingfun, #newfaces, #beautifuleyes, #sguardointenso"
+  - username: "_maryleine"
+    fullname: >-
+      Mary.R          尾崎 豊..♥
+    location: "Switzerland"
+    followers: 5884
+    engagement: 2056
+    commentsToLikes: 0.120115
+    id: ck8sxetz2h52i0j78nrxmd53y
+    verified: false
+    hashtags: "#positivity, #fine, #favorite, #excercise"
+  - username: "shunsukecos"
+    fullname: >-
+      Shunsuke
+    location: "Switzerland"
+    followers: 129802
+    engagement: 999
+    commentsToLikes: 0.006400
+    id: ck6twj3c2sa8p0j71w4rrad8q
+    verified: false
+    hashtags: "#shellxone, #workout, #kkslider, #haruxmako"
+  - username: "stefanrappo"
+    fullname: >-
+      Stefan Rappo
+    location: "Switzerland"
+    followers: 58231
+    engagement: 411
+    commentsToLikes: 0.022646
+    id: ck0ub9vf8e5ri0i19s87r1b92
+    verified: false
+    hashtags: "#newyork, #protectwildlife, #lingerie, #desert"
   - username: "bibianaatada"
     fullname: >-
       BIBIANA ATADA 🇪🇸
     location: "Switzerland"
-    followers: 349838
-    engagement: 696
+    followers: 347063
+    engagement: 701
     commentsToLikes: 0.010738
     id: ck13cum0u28ob0i192hm60orz
     verified: false
-    hashtags: "#valencia, #mapale, #heaven, #project"
-  - username: "alfie.morningstar"
+    hashtags: "#stayupsuspense, #tattooedmodels, #tattoomodel, #bts"
+  - username: "lucy_zzz"
     fullname: >-
-      ZÜRICH PHOTOGRAPHER
+      ✨LU✨
     location: "Switzerland"
-    followers: 11882
-    engagement: 568
-    commentsToLikes: 0.037380
-    id: ck0w3233jr8n30i19t8v57uoj
+    followers: 21263
+    engagement: 596
+    commentsToLikes: 0.046281
+    id: ck5bvc1pajdcf0i11s89j9r47
     verified: false
-    hashtags: "#blackmodels, #swissphotoclub, #ambassadeursch, #zeigvielfalt"
-  - username: "karenfleischmann"
+    hashtags: "#glass, #lookintomyeyes, #locarno, #smile"
+  - username: "agichristine"
     fullname: >-
-      karenfleischmann
+      𝐀𝐆𝑵𝐄𝑺
     location: "Switzerland"
-    followers: 94581
-    engagement: 168
-    commentsToLikes: 0.025754
-    id: ck5hpbrowr3hy0i11m6y37v4p
+    followers: 17443
+    engagement: 171
+    commentsToLikes: 0.066653
+    id: ck5busxzhidu30i1148g98kmn
     verified: false
-    hashtags: "#transparency, #smallstepsbigimpact, #coronavirus, #positivemind"
+    hashtags: "#enjoy, #snorkel, #keeponsmiling, #longerie"
   - username: "pri.naves"
     fullname: >-
       Pri Naves (LifeStyle)
     location: "Switzerland"
-    followers: 49854
-    engagement: 107
-    commentsToLikes: 0.031928
+    followers: 49475
+    engagement: 131
+    commentsToLikes: 0.029279
     id: ck8t842c2j1440j78zntbyou2
     verified: false
-    hashtags: "#fashion, #mood, #ootdfashion, #video"
-  - username: "kimiaresik"
+    hashtags: "#text, #bronze, #relax, #inspira"
+  - username: "sachafreyja"
     fullname: >-
-      K I M I A
+      S Λ C H Λ ☾ F R E Y J Λ
     location: "Switzerland"
-    followers: 3042
-    engagement: 1592
-    commentsToLikes: 0.031068
-    id: ck6tvi1lsmco20j71xr8xxym0
+    followers: 38317
+    engagement: 669
+    commentsToLikes: 0.015840
+    id: ck8tba2uduvn90j78oyb0h78e
     verified: false
-    hashtags: "#sexylingerie, #beldonagirl, #secondskin, #streetstyle"
-  - username: "andrea__schaerer"
-    fullname: >-
-      Andrea
-    location: "Switzerland"
-    followers: 45796
-    engagement: 168
-    commentsToLikes: 0.041505
-    id: ck6u3vjue04ua0j71gialera8
-    verified: false
-    hashtags: "#pandemie, #bootycallworkout, #fitnessmotivation, #dessous"
+    hashtags: "#darkart, #greedy, #happywitch, #green"
 ---

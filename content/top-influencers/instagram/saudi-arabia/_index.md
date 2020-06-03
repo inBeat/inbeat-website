@@ -1,26 +1,16 @@
 ---
 title: Top 10 Instagram Influencers In Saudi Arabia In 2020
 description: >-
-  Find top Instagram influencers in Saudi Arabia in 2020. Most popular hashtags: #drawing #artist #draw #art.
+  Find top Instagram influencers in Saudi Arabia in 2020. Most popular hashtags: #stayhome #coronavirus #eidmubarak #madinah.
 platform: Instagram
 profiles:
-  - username: "18andrecarrillo"
-    fullname: >-
-      Andre Carrillo 🇵🇪
-    location: "Saudi Arabia"
-    followers: 2175108
-    engagement: 313
-    commentsToLikes: 0.023489
-    id: ck0w371tlrwna0i19zsqg4zx9
-    verified: true
-    hashtags: "#publicidad, #yomemuevoencasa, #mirrorselfie, #x19"
   - username: "5sunshine1"
     fullname: >-
       𝐒𝐇𝐀𝐇𝐀𝐃
     location: "Saudi Arabia"
-    followers: 95971
-    engagement: 705
-    commentsToLikes: 0.015333
+    followers: 95011
+    engagement: 719
+    commentsToLikes: 0.015398
     id: ck136k9416wwg0i1938xyc8cz
     verified: true
     hashtags: "#thesaudidream, #millionnation"
@@ -28,80 +18,90 @@ profiles:
     fullname: >-
       Razan Ahmed رزان أحمد
     location: "Saudi Arabia"
-    followers: 18763
-    engagement: 360
-    commentsToLikes: 0.394348
+    followers: 18728
+    engagement: 346
+    commentsToLikes: 0.374776
     id: ck0w5z3pu64im0i199g7ym66a
     verified: false
-    hashtags: "#makeup, #toofacedmakeup, #rimmel, #toofacad"
+    hashtags: "#bridelook, #noracosmetic, #toofacedmakeup, #toofacad"
+  - username: "18andrecarrillo"
+    fullname: >-
+      Andre Carrillo 🇵🇪
+    location: "Saudi Arabia"
+    followers: 2206699
+    engagement: 310
+    commentsToLikes: 0.024901
+    id: ck0w371tlrwna0i19zsqg4zx9
+    verified: true
+    hashtags: "#yomemuevoencasa, #yomequedoencasa, #atletainyogo, #mirrorselfie"
   - username: "herve.renard.hr"
     fullname: >-
-      Hervé Renard
+      Hervé Renard
     location: "Saudi Arabia"
-    followers: 403368
-    engagement: 309
-    commentsToLikes: 0.028281
+    followers: 400509
+    engagement: 354
+    commentsToLikes: 0.016830
     id: ck15rfhgz7ocm0i19tam16qmx
     verified: true
-    hashtags: "#alhilal, #afc, #afcu23, #afrique"
+    hashtags: "#saudi, #respect, #footballplayer, #legends"
   - username: "ak720"
     fullname: >-
       Ahmad
     location: "Saudi Arabia"
-    followers: 156931
-    engagement: 239
-    commentsToLikes: 0.034190
+    followers: 156668
+    engagement: 192
+    commentsToLikes: 0.032718
     id: ck15qoqxe3wl80i191c0gba0f
     verified: false
-    hashtags: "#honor10i, #magicwatch2"
-  - username: "irashedz"
+    hashtags: "#facetimephotoshoot"
+  - username: "nesmaelgoharyofficial"
     fullname: >-
-      راشد | Rashed
+      Nesma Elgohary نسمه الجوهرى
     location: "Saudi Arabia"
-    followers: 14789
-    engagement: 1374
-    commentsToLikes: 0.066046
-    id: ck14hstwwbygd0i19hig25t7l
+    followers: 361823
+    engagement: 39
+    commentsToLikes: 0.119301
+    id: ck0w4skli07cw0i1951n4i8a4
     verified: false
-    hashtags: "#saudiarabia, #ford, #blue, #lightroom"
+    hashtags: "#eidmubarak, #abayadubai, #fashionnova, #fadhionblogger"
+  - username: "yasiralsaggaf"
+    fullname: >-
+      ياسر السقاف
+    location: "Saudi Arabia"
+    followers: 200637
+    engagement: 152
+    commentsToLikes: 0.024799
+    id: ck0w0e2qjdq7o0i192qedb9e7
+    verified: true
+    hashtags: "#tb, #aprilmemories, #stayhome, #mbcthevoicekids"
   - username: "l.att1996"
     fullname: >-
-      لُ ؤ ي 
+      لُ ؤ ي 
     location: "Saudi Arabia"
-    followers: 5472
-    engagement: 2210
-    commentsToLikes: 0.329228
+    followers: 6125
+    engagement: 1976
+    commentsToLikes: 0.341945
     id: ck138iymlgg4e0i19xxnchxv3
     verified: false
-    hashtags: "#latteart, #old, #black, #animals"
+    hashtags: "#sunset, #nature, #sweet, #food"
+  - username: "dhay.xx"
+    fullname: >-
+      ضي | Dhay
+    location: "Saudi Arabia"
+    followers: 140646
+    engagement: 429
+    commentsToLikes: 0.020824
+    id: ck0u948n58xl50i19yxt0cu36
+    verified: false
+    hashtags: "#2020"
   - username: "ad_nans"
     fullname: >-
-      عدنان الروقي 🌻
+      عدنان الروقي 💛| Adnan alrougi
     location: "Saudi Arabia"
-    followers: 30680
-    engagement: 1193
-    commentsToLikes: 0.085125
+    followers: 35731
+    engagement: 1052
+    commentsToLikes: 0.104287
     id: ck0w3jedjtpw80i19saw1fvz4
     verified: false
-    hashtags: "#eye, #betancurtart, #artstudio, #eyeliner"
-  - username: "janah_93___"
-    fullname: >-
-      🎨draw
-    location: "Saudi Arabia"
-    followers: 59822
-    engagement: 807
-    commentsToLikes: 0.009267
-    id: ck15u3oqbl9v40i19bwhqj6ba
-    verified: false
-    hashtags: "#art, #artwork, #drawing, #draw"
-  - username: "artist.ola"
-    fullname: >-
-      𝕃𝕆𝕃𝕆 🌸🎨
-    location: "Saudi Arabia"
-    followers: 10828
-    engagement: 1549
-    commentsToLikes: 0.059987
-    id: ck0w21oxsm7hu0i19c0fp59z1
-    verified: false
-    hashtags: "#my, #art, #artist, #artfeatur"
+    hashtags: "#artsy, #draweye, #zaynart, #atssite"
 ---

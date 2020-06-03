@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Greece In 2020
 description: >-
-  Find top wellness Instagram influencers in Greece in 2020. Most popular hashtags: #fitness #stayhome #wellness #fitnessmotivation.
+  Find top wellness Instagram influencers in Greece in 2020. Most popular hashtags: #wellness #sunday #motivation #training.
 platform: Instagram
 profiles:
-  - username: "nadiaboule"
+  - username: "alexiazaradouka"
     fullname: >-
-      Nadia Boule
+      Alexia Zaradouka
     location: "Greece"
-    followers: 106272
-    engagement: 292
-    commentsToLikes: 0.011254
-    id: ck0vzvoqfb4gu0i19yceak34d
+    followers: 36304
+    engagement: 319
+    commentsToLikes: 0.341647
+    id: ck0twck3jew3t0i19hp4vee2e
     verified: false
-    hashtags: "#mylove, #chicago, #quarantine, #homesweethome"
+    hashtags: "#relax, #catsofinstagram, #braidstyles, #weleda"
   - username: "fitness_motivation_hellas"
     fullname: >-
       www.fmh.gr
     location: "Greece"
-    followers: 24186
-    engagement: 694
-    commentsToLikes: 0.076520
+    followers: 24453
+    engagement: 485
+    commentsToLikes: 0.059661
     id: ck6trvsg11dj60j711wugo4yg
     verified: false
-    hashtags: "#fmh, #nevergiveup, #giveaway, #apotherapeia"
+    hashtags: "#startdoing, #larissa, #fatburner, #nevergiveup"
   - username: "cat_laspa"
     fullname: >-
       Laspa Katerina
     location: "Greece"
-    followers: 28810
-    engagement: 333
-    commentsToLikes: 0.012512
+    followers: 28822
+    engagement: 354
+    commentsToLikes: 0.013321
     id: ck5pvicr3i0my0i11othz63u5
     verified: false
-    hashtags: "#keepup, #weights, #withoutfilters, #believeinyourself"
+    hashtags: "#outdoortraining, #summeriscoming, #absworkout, #behethy"
   - username: "vasilis_bnb"
     fullname: >-
-      Vasilis B&B Training
+      Vasilis B&B training
     location: "Greece"
-    followers: 9664
-    engagement: 895
-    commentsToLikes: 0.088243
+    followers: 10108
+    engagement: 942
+    commentsToLikes: 0.098149
     id: ck5zkgco8jfke0i14a3gye4cq
     verified: false
-    hashtags: "#watch, #newclassicalarchitecture, #training, #manfashion"
-  - username: "missbloublou_"
+    hashtags: "#amalfiwedding, #sunday, #viacamerelle, #manelegance"
+  - username: "deniz_dimaki"
     fullname: >-
-      🔹Alexia Zaradouka🔺Beauty Coach
+      𝔻𝕖𝕟𝕚𝕫 𝔻𝕚𝕞𝕒𝕜𝕚 🇬🇷𝕆𝕃𝕐
     location: "Greece"
-    followers: 35037
-    engagement: 325
-    commentsToLikes: 0.413224
-    id: ck0twck3jew3t0i19hp4vee2e
+    followers: 19363
+    engagement: 801
+    commentsToLikes: 0.039701
+    id: ck8svsnyycjpt0j78e195it61
     verified: false
-    hashtags: "#huawei, #lifestyle, #missbloublou, #poems"
-  - username: "mariageorgakaina"
+    hashtags: "#healthyeating, #veganlife, #love, #pomegranate"
+  - username: "biancadillmann"
     fullname: >-
-      𝕄𝕒𝕣𝕚𝕒 𝔾𝕖𝕠𝕣𝕘𝕒𝕜𝕒𝕚𝕟𝕒 🎧🌟
+      Bianca Dillmann 👣 + Figo 🐾
     location: "Greece"
-    followers: 9748
-    engagement: 550
-    commentsToLikes: 0.041356
-    id: ck15recy07ii50i19kkd5lndf
+    followers: 3702
+    engagement: 1920
+    commentsToLikes: 0.028804
+    id: ck8t9rw43p4f70j785jlza7fu
     verified: false
-    hashtags: "#happybirthday, #dowhatmakesyouhappy, #wellness, #sundayfunday"
-  - username: "maria_louiza_real"
+    hashtags: "#peace, #vanlifeculture, #roadtrip, #hammock"
+  - username: "eirini_gkretsi"
     fullname: >-
-      Maria Louiza Vourou
+      ᴇɪʀɪɴɪ ɢᴋʀᴇᴛsɪ®️
     location: "Greece"
-    followers: 63330
-    engagement: 239
-    commentsToLikes: 0.087105
-    id: ck55n9iwk5quk0i11bdztjjlt
+    followers: 7640
+    engagement: 1337
+    commentsToLikes: 0.054724
+    id: ck9hcivsilmiu0j78s8b19dbk
     verified: false
-    hashtags: "#moodoftheday, #vacationvibes, #workout, #youngandreckless"
-  - username: "isiaaak"
-    fullname: >-
-      Justyna Kamińska
-    location: "Greece"
-    followers: 25125
-    engagement: 262
-    commentsToLikes: 0.082899
-    id: ck5hrcekmumzz0i1137fxkxfp
-    verified: false
-    hashtags: "#sniadaniemistrzow, #chia, #veganfoodshate, #thrivemags"
+    hashtags: "#fruit, #withyou, #daughter, #libelovelaugh"
   - username: "dimitrisathan"
     fullname: >-
       • Dimitris Athanasiadis •
     location: "Greece"
-    followers: 5027
-    engagement: 1297
-    commentsToLikes: 0.019768
+    followers: 5114
+    engagement: 1311
+    commentsToLikes: 0.020279
     id: ck6tsp5bz614k0j7144nqejsa
     verified: false
-    hashtags: "#diet, #passionsundays, #fitnessmotivation, #twiga"
-  - username: "breath_pilates_by_ifigenia"
+    hashtags: "#diet, #nutrifacts, #pineapple, #cotedazure"
+  - username: "thehealthycookblog"
     fullname: >-
-      Ifigenia Baka
+      Evi Skoura 🇬🇷
     location: "Greece"
-    followers: 23586
-    engagement: 199
-    commentsToLikes: 0.027795
-    id: ck0w1ypvxlshq0i193yu7ol0y
+    followers: 11430
+    engagement: 561
+    commentsToLikes: 0.199968
+    id: ck8szk115oqri0j781nmk3c7g
     verified: false
-    hashtags: "#bodytalk, #fitness, #legsworkout, #booty"
+    hashtags: "#veganfood, #pastarecipe, #lockdown2020, #quinoa"
+  - username: "marilenapanagiotopoulou2017"
+    fullname: >-
+      Marilena Panagiotopoulou
+    location: "Greece"
+    followers: 16598
+    engagement: 186
+    commentsToLikes: 0.036158
+    id: ck5pve0xghete0i11j44xtz5o
+    verified: false
+    hashtags: "#wellbeback, #iloverome, #spitimetismelisses, #partnersincrime"
 ---

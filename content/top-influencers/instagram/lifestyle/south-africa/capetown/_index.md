@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Capetown In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #southafrica #photography #lifestyle.
+  Find top lifestyle Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #selflove #lifestyle #selfisolation.
 platform: Instagram
 profiles:
-  - username: "antoniapruy"
-    fullname: >-
-      ANTONIA🦋
-    location: "South Africa"
-    followers: 7357
-    engagement: 815
-    commentsToLikes: 0.026013
-    id: ck55okd2b8j2e0i11o2ldhgma
-    verified: false
-    hashtags: "#potd, #vibes, #happy, #thephotoplug"
-  - username: "justin_uncorked"
-    fullname: >-
-      J U S T I N _ U N C O R K E D
-    location: "South Africa"
-    followers: 5472
-    engagement: 992
-    commentsToLikes: 0.053797
-    id: ck5bymf2wpfes0i11rn0gt3mt
-    verified: false
-    hashtags: "#limitless, #ubud, #travelphotography, #gindrinker"
-  - username: "bloomingroseblog"
-    fullname: >-
-      Aminah Gallie
-    location: "South Africa"
-    followers: 42336
-    engagement: 19
-    commentsToLikes: 0.101214
-    id: ck136p5yx7ksg0i19ai5exdqp
-    verified: false
-    hashtags: "#huskypuppy, #streetwear, #summer, #muse"
   - username: "capetownetc"
     fullname: >-
       Cape {Town} Etc
     location: "South Africa"
-    followers: 80083
-    engagement: 99
-    commentsToLikes: 0.008384
+    followers: 83238
+    engagement: 121
+    commentsToLikes: 0.012134
     id: ck6tjp8n335ng0j71vxxivfq0
     verified: false
-    hashtags: "#capecalm"
-  - username: "odessavlad"
+    hashtags: ""
+  - username: "mischkebosse"
     fullname: >-
-      Vladimir Pelikh
+      mischke bosse
     location: "South Africa"
-    followers: 45361
-    engagement: 523
-    commentsToLikes: 0.023654
-    id: ck5c4a3h40x3n0i119rtl72pi
+    followers: 6531
+    engagement: 396
+    commentsToLikes: 0.027823
+    id: ck6u0k4ajg5ra0j713hceiqw2
     verified: false
-    hashtags: "#fitguy, #fitlifestyles, #topcomodels, #fitlife"
-  - username: "wojtysiakrafal"
+    hashtags: "#pjstopjs, #capetown, #feminism, #spirituality"
+  - username: "iamtevivo"
     fullname: >-
-      Rafal Wojtysiak
+      Bryn Gibbons
     location: "South Africa"
-    followers: 83272
-    engagement: 116
-    commentsToLikes: 0.000000
-    id: ck5qd8nk1ucqn0i1110llqt0n
+    followers: 7984
+    engagement: 1376
+    commentsToLikes: 0.016254
+    id: ck6ufngqxy2180j71ynmcv2t2
     verified: false
-    hashtags: "#sunrise, #coffeelover, #saltandpepper, #naturelover"
-  - username: "jeffzimbris"
+    hashtags: "#video, #sunset, #bokehphotography, #friends"
+  - username: "kissblushandtell"
     fullname: >-
-      J E F F  Z I M B R I S  🔹
+      KISS, BLUSH & TELL
     location: "South Africa"
-    followers: 56771
-    engagement: 862
-    commentsToLikes: 0.042193
-    id: ck6tzqrxobaul0j71fftvyafa
+    followers: 37394
+    engagement: 254
+    commentsToLikes: 0.070006
+    id: ck5q8fzye5ztx0i11tha1d1zz
     verified: false
-    hashtags: "#legsday, #happy, #cliftonbeach, #doglover"
-  - username: "nikitajoshua"
+    hashtags: "#kbtmademedoit, #ad, #retinolrules, #skinrepublic"
+  - username: "justin_uncorked"
     fullname: >-
-      Nikita | Model & Makeup Artist
+      J U S T I N _ U N C O R K E D
     location: "South Africa"
-    followers: 29064
-    engagement: 545
-    commentsToLikes: 0.045047
-    id: ck5q1k1wmbddf0i113a465475
+    followers: 5470
+    engagement: 985
+    commentsToLikes: 0.059925
+    id: ck5bymf2wpfes0i11rn0gt3mt
     verified: false
-    hashtags: "#beauty, #contentcreator, #femaleentrepreneurship, #engagedcouple"
-  - username: "rochelle_vv"
+    hashtags: "#beering, #instabirthday, #redheart, #harvest"
+  - username: "treven_moodley"
     fullname: >-
-      Rochelle van Vuuren
+      Treven Moodley
     location: "South Africa"
-    followers: 19024
-    engagement: 791
-    commentsToLikes: 0.076655
-    id: ck5hhf70v7wkh0i11u0bw6tpu
+    followers: 17995
+    engagement: 304
+    commentsToLikes: 0.040289
+    id: ck6u0k2klg5gz0j7150u2jdzy
     verified: false
-    hashtags: "#woman, #happyskin, #kissthesky, #kisscloud"
-  - username: "onemodernmom"
+    hashtags: "#suituptime, #pinkhair, #finalrose, #goldenhourlight"
+  - username: "mariahmcalpin"
     fullname: >-
-      Lisa || Content Creator
+      Mariah Ezra | 🇺🇸 🇿🇦
     location: "South Africa"
-    followers: 6746
-    engagement: 502
-    commentsToLikes: 0.344628
-    id: ck5cdvjtyjv0l0i1167gqqnar
+    followers: 36663
+    engagement: 195
+    commentsToLikes: 0.097993
+    id: ck5ci8ds3s7e10i11tkv4cmm6
     verified: false
-    hashtags: "#floristsofinstagram, #flattenthecurve, #day1, #socialmedia"
+    hashtags: "#hawaii, #sheisnotlost, #30, #lomoinstant"
+  - username: "sothogirldiaries"
+    fullname: >-
+      African Print | Mapitso Thaisi
+    location: "South Africa"
+    followers: 6155
+    engagement: 503
+    commentsToLikes: 0.093151
+    id: ck5qdkvlcw2sj0i11h1d4h3hw
+    verified: false
+    hashtags: "#proteahotels, #stayindoors, #sunsets, #poolsidevibes"
+  - username: "nana.kwasi.wiafe"
+    fullname: >-
+      NANA•KWASI•WIAFE 🇬🇭
+    location: "South Africa"
+    followers: 12037
+    engagement: 721
+    commentsToLikes: 0.034641
+    id: ck55mkb0g45jm0i11430bi9dn
+    verified: false
+    hashtags: "#afisa, #beauty, #creativejourney, #eyewear"
+  - username: "amber_brits"
+    fullname: >-
+      A M B E R. BRITS.
+    location: "South Africa"
+    followers: 16410
+    engagement: 324
+    commentsToLikes: 0.075938
+    id: ck5c26a7twmdj0i11124h90ib
+    verified: false
+    hashtags: "#sexy, #retro, #supportlocal, #vogue"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Miami In 2020
 description: >-
-  Find top fitness Instagram influencers in Miami in 2020. Most popular hashtags: #miami #fitness #motivation #model.
+  Find top fitness Instagram influencers in Miami in 2020. Most popular hashtags: #fitness #quarantine #miamibeach #miami.
 platform: Instagram
 profiles:
-  - username: "ahuofedua_"
+  - username: "michelle_vanessaa_"
     fullname: >-
-      AJ (NiNi) 👑
+      Michelle Vanessa
     location: "United States"
-    followers: 13864
-    engagement: 1234
-    commentsToLikes: 0.073928
-    id: ck6u5q7gbb3j40j710y456l2b
+    followers: 24712
+    engagement: 772
+    commentsToLikes: 0.063881
+    id: ck6tqe91vqy2q0j71tv5jm53n
     verified: false
-    hashtags: "#curvyqueens, #fitness, #miamibeach, #motivation"
-  - username: "thatfitram"
+    hashtags: "#godblesseveryone, #norona, #fitness, #miami"
+  - username: "radoncgirl"
     fullname: >-
-      Physique Posts Of @RyanAMac
+      Renae VW, MD, MBA
     location: "United States"
-    followers: 17247
-    engagement: 1527
-    commentsToLikes: 0.013147
-    id: ck6u5jbtc9yin0j7164x23kx4
+    followers: 13769
+    engagement: 531
+    commentsToLikes: 0.060126
+    id: ck0u7u4lw5mhr0i197rpjkf4j
     verified: false
-    hashtags: "#calvinklein, #conceptual, #workoutregiments, #speedo"
-  - username: "alysia_magen"
+    hashtags: "#gemini, #doctorbyday, #gains, #miracleberry"
+  - username: "irynamiami"
     fullname: >-
-      AhAhAlysia
+      Iryna  🇺🇦🇷🇺🇺🇸
     location: "United States"
-    followers: 302356
-    engagement: 338
-    commentsToLikes: 0.032841
-    id: ck6tzrx5gbi240j718v3qt37c
-    verified: true
-    hashtags: "#gains, #kcco, #workhardplayhard, #brunettesdoitbetter"
-  - username: "angelinasage"
-    fullname: >-
-      Angelina Sage
-    location: "United States"
-    followers: 7077
-    engagement: 954
-    commentsToLikes: 0.040925
-    id: ck13atkchs45e0i19x5vmssc8
+    followers: 118985
+    engagement: 94
+    commentsToLikes: 0.033686
+    id: ck6tjewte2kz80j711o15tlum
     verified: false
-    hashtags: "#friends, #vogove5k, #city, #ohwhataworldtour"
-  - username: "emyreyes"
+    hashtags: "#pink, #mood, #peach, #artisticnude"
+  - username: "jooseelee"
     fullname: >-
-      E M Y  R  E Y E S 🇩🇴
+      Josee Estrada
     location: "United States"
-    followers: 21460
-    engagement: 832
-    commentsToLikes: 0.050015
-    id: ck0tzqnzdr7r00i19cyunjzit
+    followers: 13402
+    engagement: 999
+    commentsToLikes: 0.025038
+    id: ck55ko9u9zr1l0i11b72etn3y
     verified: false
-    hashtags: "#linkup, #socialmedia, #collab, #studio"
-  - username: "littlejewlia"
+    hashtags: "#body, #male, #stayhome, #fitnessmotivation"
+  - username: "aparina_eliza"
     fullname: >-
-      Julia Galloway
+      Elizaveta Aparina
     location: "United States"
-    followers: 4235
-    engagement: 1502
-    commentsToLikes: 0.041370
-    id: ck5q0ritf7el40i11vet1d8bh
+    followers: 3119
+    engagement: 1140
+    commentsToLikes: 0.038706
+    id: ck0u7uvgk5pl00i19uzpfiqku
     verified: false
-    hashtags: "#lifttoneburn, #morningworkout, #tink, #dancer"
-  - username: "angelina_dimova"
+    hashtags: "#jetskimiami, #forever21, #fitnessmiami, #sunsetmiami"
+  - username: "forte.fitography"
     fullname: >-
-      Aɴɢᴇʟɪɴᴀ
+      Terrance Forté
     location: "United States"
-    followers: 162865
-    engagement: 514
-    commentsToLikes: 0.019502
-    id: ck601pv8ffxyo0i14axkfc97m
-    verified: true
-    hashtags: "#swim, #tenniscourt, #redeye, #carsofinstagram"
+    followers: 3740
+    engagement: 612
+    commentsToLikes: 0.098176
+    id: ck5hpq272rs6u0i118erkcn0e
+    verified: false
+    hashtags: "#sony50mmf18, #georgetowndc, #sonyalphagang, #miami"
+  - username: "rach.morales"
+    fullname: >-
+      Rachel Morales
+    location: "United States"
+    followers: 3445
+    engagement: 1333
+    commentsToLikes: 0.099265
+    id: ck8syv6glm4wa0j78qoknjbpq
+    verified: false
+    hashtags: "#workout, #itscoronatime, #grinddontstop, #bodyweight"
+  - username: "laplacitamiami"
+    fullname: >-
+      La Placita Miami 🇵🇷
+    location: "United States"
+    followers: 39671
+    engagement: 63
+    commentsToLikes: 0.034471
+    id: ck5hgvk7q4zwk0i11rxlkdzfn
+    verified: false
+    hashtags: "#quericamargarita, #powerhour, #sanse2020, #solidaridad"
   - username: "le.trainer"
     fullname: >-
       Personal Trainer/ Coach
     location: "United States"
-    followers: 9142
-    engagement: 486
-    commentsToLikes: 0.064206
+    followers: 16308
+    engagement: 502
+    commentsToLikes: 0.062200
     id: ck8t7tksghy4j0j78feuo4ms6
     verified: false
-    hashtags: "#bestfriends, #motivation, #healthylifestyle, #fitness"
-  - username: "catmedinaa"
+    hashtags: "#healthy, #challenges, #barbershop, #modelfitness"
+  - username: "alyssasmith412"
     fullname: >-
-      Cathy Medina Bruton 🙋🏻‍♀️
+      Alyssa Smith | 📍Miami
     location: "United States"
-    followers: 34658
-    engagement: 283
-    commentsToLikes: 0.059196
-    id: ck0w37cq3ry780i190wayy09v
+    followers: 14149
+    engagement: 435
+    commentsToLikes: 0.014263
+    id: ck5hejnd3t97n0i110mbxedka
     verified: false
-    hashtags: "#online, #stayactive, #zinlife, #love"
-  - username: "dronejumper"
-    fullname: >-
-      Alexis Aleman | Photographer
-    location: "United States"
-    followers: 6828
-    engagement: 190
-    commentsToLikes: 0.137036
-    id: ck0tul8hd7o1s0i191bipnrjg
-    verified: false
-    hashtags: "#wodapalooza, #gritmiami, #wza, #sonya7iii"
+    hashtags: "#sundaymornings, #quarantine, #saltyathome, #slashertop"
 ---

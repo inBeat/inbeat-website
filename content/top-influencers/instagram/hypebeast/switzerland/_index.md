@@ -1,107 +1,107 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Switzerland in 2020. Most popular hashtags: #artofvisuals #stayandwander #hypebeast #inlovewithswitzerland.
+  Find top hypebeast Instagram influencers in Switzerland in 2020. Most popular hashtags: #hypebeast #stayhome #night #createcommune.
 platform: Instagram
 profiles:
   - username: "alan.wagli"
     fullname: >-
       Pineapple Alan🍍| 18 yrs🦅
     location: "Switzerland"
-    followers: 11520
-    engagement: 2610
-    commentsToLikes: 0.024910
+    followers: 12953
+    engagement: 2837
+    commentsToLikes: 0.036906
     id: ck8wgh63rhcs20j785vyd8ss6
     verified: false
-    hashtags: "#littleman, #streetwear, #reaktion, #reaction"
-  - username: "moldhead"
+    hashtags: "#sponsored, #stayhome, #simplefits, #streetfashion"
+  - username: "trillprime"
     fullname: >-
-      𝓡𝓪𝓶𝓸𝓷𝓪  𝓔𝓼𝓽𝓪𝓬𝓪𝓭𝓸
+      FASHION BLOGGER
     location: "Switzerland"
-    followers: 28226
-    engagement: 1326
-    commentsToLikes: 0.013257
-    id: ck14kaytwom910i19u7tvjtou
+    followers: 14623
+    engagement: 1519
+    commentsToLikes: 0.053114
+    id: ck6tmv4al8laf0j71jxpa9d41
     verified: false
-    hashtags: "#greenhair, #inkedcouple, #streetwear, #natural"
+    hashtags: "#todaysoutfit, #newbalance530, #astroworldtour, #cactusjack"
   - username: "marie__sw"
     fullname: >-
       Marie Pons🌚
     location: "Switzerland"
-    followers: 5048
-    engagement: 2654
-    commentsToLikes: 0.045290
+    followers: 5071
+    engagement: 2604
+    commentsToLikes: 0.043171
     id: ck55lgh8q1ic70i11kzf61k4z
     verified: false
-    hashtags: "#streetworkout, #straightfromcam, #mountains, #health"
-  - username: "_desandro"
+    hashtags: "#happiness, #peaceful, #pants, #pushups"
+  - username: "marionkaelin"
     fullname: >-
-      “S A N D R O“ 🚀
+      MARION KAELIN 🌸🍍
     location: "Switzerland"
-    followers: 14606
-    engagement: 939
-    commentsToLikes: 0.016606
-    id: ck5hofwmsphp10i11wdhucpbf
+    followers: 30634
+    engagement: 200
+    commentsToLikes: 0.064126
+    id: ck6ueoin1s5ve0j71ex6aweva
     verified: false
-    hashtags: "#streetfashion, #bape, #jordan1travisscott, #streetstyle"
-  - username: "dim_art_photo"
+    hashtags: "#gato, #team, #bathroom, #dress"
+  - username: "nathan.salomon"
     fullname: >-
-      Photographer in quarantine
+      Nathan / Switzerland
     location: "Switzerland"
-    followers: 5431
-    engagement: 1042
-    commentsToLikes: 0.034947
-    id: ck5bxdu0tnj9i0i113t5vbv52
+    followers: 5141
+    engagement: 2586
+    commentsToLikes: 0.190486
+    id: ck15rf45g7mfe0i19oz2yivs8
     verified: false
-    hashtags: "#milliondollarvisuals, #projectoftheday, #zavisual, #inzurich"
-  - username: "cleojoosen"
+    hashtags: "#dailytravels9, #hummingbird, #night, #stopandshoot23"
+  - username: "sohailzavahir"
     fullname: >-
-      Cleo
+      Sohail Zavahir
     location: "Switzerland"
-    followers: 7062
-    engagement: 1301
-    commentsToLikes: 0.139414
-    id: ck14hsc0hbvtd0i199beko07o
+    followers: 5861
+    engagement: 818
+    commentsToLikes: 0.017269
+    id: ck8swn2uael870j78uzyq5gdi
     verified: false
-    hashtags: "#rainbow, #valais, #mountaingirls, #igslovenija"
-  - username: "markuswiedmer"
-    fullname: >-
-      Markus Wiedmer
-    location: "Switzerland"
-    followers: 4871
-    engagement: 1965
-    commentsToLikes: 0.054939
-    id: ck6to9velcwrf0j71n0jk94w9
-    verified: false
-    hashtags: "#illgrammers, #lovethisplace, #everything, #themoderndayexplorer"
+    hashtags: "#marrakech, #dope, #louisvuitton, #sunheros"
   - username: "nathanpaspour"
     fullname: >-
       ↟  n a t h a n  | #switzerland
     location: "Switzerland"
-    followers: 4990
-    engagement: 1181
-    commentsToLikes: 0.065148
+    followers: 5446
+    engagement: 1138
+    commentsToLikes: 0.070067
     id: ck0udiwgwj52s0i19q8fbifva
     verified: false
-    hashtags: "#landscapephotography, #special, #gottalove, #instaneuch"
-  - username: "laurentnaville"
-    fullname: >-
-      Laurent Naville ↟↟
-    location: "Switzerland"
-    followers: 5534
-    engagement: 1476
-    commentsToLikes: 0.022190
-    id: ck5zsrxjlz2sj0i14osaqkhom
-    verified: false
-    hashtags: "#hypebeast, #keepfilmalive, #theimaged, #cityshots"
+    hashtags: "#coronavirus, #alluring, #nomad, #mist"
   - username: "yyyaaannnnnniiiccckkk"
     fullname: >-
       
     location: "Switzerland"
-    followers: 38174
-    engagement: 428
-    commentsToLikes: 0.008969
+    followers: 37163
+    engagement: 398
+    commentsToLikes: 0.008103
     id: ck0vxe1rayfv70i19hqowpu8i
     verified: false
-    hashtags: "#drawthisinyourstyle, #voguebeauty, #blackpen, #arteurbano"
+    hashtags: "#artist, #oilpainting, #badgalriri, #brutsubmission"
+  - username: "ryandanielphoto"
+    fullname: >-
+      Ryan
+    location: "Switzerland"
+    followers: 17022
+    engagement: 416
+    commentsToLikes: 0.008314
+    id: ck6ubfqn89aye0j71toykvc5m
+    verified: false
+    hashtags: "#weekly, #discoverportrait, #californiaholics, #lookingup"
+  - username: "bigmoneyrodan"
+    fullname: >-
+      Jason Washburn
+    location: "Switzerland"
+    followers: 9657
+    engagement: 581
+    commentsToLikes: 0.012654
+    id: ckap2vy4d0jry0i78n2691217
+    verified: false
+    hashtags: "#swissmissamerica, #mastiffsofinstagram, #veganrunner, #dogsofinstagram"
 ---

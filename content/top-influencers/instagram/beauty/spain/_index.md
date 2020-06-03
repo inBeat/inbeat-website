@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Spain In 2020
 description: >-
-  Find top beauty Instagram influencers in Spain in 2020. Most popular hashtags: #yomequedoencasa #fashion #blogger #ootd.
+  Find top beauty Instagram influencers in Spain in 2020. Most popular hashtags: #happy #maccosmetics #love #cuarentena.
 platform: Instagram
 profiles:
+  - username: "bea_brina"
+    fullname: >-
+      bea💕brina
+    location: "Spain"
+    followers: 24064
+    engagement: 967
+    commentsToLikes: 0.245310
+    id: ck13b4pdttnsf0i19lt34o4l0
+    verified: false
+    hashtags: "#bellezaysalud, #relojsuizo, #primavera2020, #odontologia"
   - username: "jenniferora"
     fullname: >-
       J E N N I F E R  O R T I Z
     location: "Spain"
-    followers: 223835
-    engagement: 1019
-    commentsToLikes: 0.615865
+    followers: 229094
+    engagement: 850
+    commentsToLikes: 0.728545
     id: ck0w0rx2ofqlu0i19o7b4l8hj
     verified: true
-    hashtags: "#yomequedoencasa, #stayhome, #quarantine, #spain"
-  - username: "alegnaslife"
+    hashtags: "#makeup, #teamoromeo, #mifelicidad, #mibendicion"
+  - username: "gemaalc"
     fullname: >-
-      Angiie
+      Gema Alc
     location: "Spain"
-    followers: 9807
-    engagement: 1214
-    commentsToLikes: 0.106438
-    id: ck5hp3szwqpj90i110u60i0k0
+    followers: 7234
+    engagement: 1995
+    commentsToLikes: 0.163961
+    id: ckap7g72sjxo80i78aaw8ro47
     verified: false
-    hashtags: "#vintage, #different, #pintadoamano, #stayhome"
+    hashtags: "#beenails, #azul, #cute, #mariquita"
+  - username: "vanitystyle50"
+    fullname: >-
+      vanity&style50🌏
+    location: "Spain"
+    followers: 10445
+    engagement: 1435
+    commentsToLikes: 0.151535
+    id: ckap89jtqneyz0i78b3ug6m81
+    verified: false
+    hashtags: "#stylish, #bloggerin, #casuallook, #fashionstyle"
   - username: "marikowskaya"
     fullname: >-
       Marikowskaya
     location: "Spain"
-    followers: 64991
-    engagement: 520
-    commentsToLikes: 0.132226
+    followers: 65146
+    engagement: 556
+    commentsToLikes: 0.127041
     id: ck0u7wsm95yi90i199hgav5f4
     verified: false
-    hashtags: "#goya2020, #makeupaddict, #blancoynegro, #eyelinertutorial"
+    hashtags: "#igtv, #pillowtalk, #benefit, #coffeelovers"
+  - username: "alegnaslife"
+    fullname: >-
+      Angiie
+    location: "Spain"
+    followers: 11181
+    engagement: 1073
+    commentsToLikes: 0.089014
+    id: ck5hp3szwqpj90i110u60i0k0
+    verified: false
+    hashtags: "#autumn, #brown, #fashion, #stayhome"
+  - username: "sandragroove"
+    fullname: >-
+      SANDRA GROOVE
+    location: "Spain"
+    followers: 42755
+    engagement: 2134
+    commentsToLikes: 0.063294
+    id: ck8t82rt5iwcg0j78j85miszp
+    verified: false
+    hashtags: "#blancoynegro, #karolg, #photographer, #posando"
   - username: "themakeupstatement"
     fullname: >-
       R e y e s  P i z a r r o
     location: "Spain"
-    followers: 38141
-    engagement: 510
-    commentsToLikes: 0.119799
+    followers: 39378
+    engagement: 456
+    commentsToLikes: 0.086384
     id: ck0tzlfueqrkh0i196naqct54
     verified: false
-    hashtags: "#udspain, #maccosmetics, #patmcgrathlabs, #udspain"
-  - username: "carolinapshopper"
+    hashtags: "#flypencil, #pastellook, #nabla, #cutiecollection"
+  - username: "anitantolin"
     fullname: >-
-      Carolina De Souza
+      Anita Antolín
     location: "Spain"
-    followers: 23016
-    engagement: 547
-    commentsToLikes: 0.493180
-    id: ck6u71xgcizzc0j71c98cprdk
+    followers: 24618
+    engagement: 1717
+    commentsToLikes: 0.033757
+    id: ck5q1ecinal2b0i11mu4czjoc
     verified: false
-    hashtags: "#moda, #blogger, #24hrswoman, #motivacion"
-  - username: "heyratolina"
+    hashtags: "#meller, #noongirls, #noonspain"
+  - username: "bessydressy"
     fullname: >-
-      Marta
+      Bessy | YouTuber | Influencer
     location: "Spain"
-    followers: 352461
-    engagement: 876
-    commentsToLikes: 0.016881
-    id: ck13caro4zflz0i19w0v41de3
+    followers: 195684
+    engagement: 795
+    commentsToLikes: 0.019856
+    id: ck5zo2a47plto0i14j4k3bp9u
     verified: false
-    hashtags: "#ad, #qu"
-  - username: "biancaborck"
-    fullname: >-
-      Bianca Borck
-    location: "Spain"
-    followers: 31769
-    engagement: 345
-    commentsToLikes: 0.456333
-    id: ck134jizkwqjx0i198g7xpjou
-    verified: false
-    hashtags: "#lifeplanktonelixir, #ckeveryone, #grateful, #puntadediamante"
-  - username: "isanlozano"
-    fullname: >-
-      I. S-L.
-    location: "Spain"
-    followers: 11139
-    engagement: 697
-    commentsToLikes: 0.248038
-    id: ck5zuzlsw3bk50i14z4zenc6p
-    verified: false
-    hashtags: "#familytime, #prontojuntos, #furs, #styleconsultant"
-  - username: "gabbyrucci"
-    fullname: >-
-      𝑮𝒂𝒃𝒃𝒚 𝑹𝒖𝒄𝒄𝒊 🌵𝑶𝒖𝒓𝒈𝒍𝒂𝒎.𝒄𝒐𝒎
-    location: "Spain"
-    followers: 17539
-    engagement: 409
-    commentsToLikes: 0.183904
-    id: ck5ztj8yx0ioi0i14y42m29t7
-    verified: false
-    hashtags: "#lips, #beautiful, #quotesenespa, #positive"
-  - username: "tamarayuste"
-    fullname: >-
-      T A M A R A 💟
-    location: "Spain"
-    followers: 25230
-    engagement: 348
-    commentsToLikes: 0.242134
-    id: ck14hdqwc9t5b0i19vt7o4cn2
-    verified: false
-    hashtags: "#hawkersco, #lancaster, #todoirabien, #holidays"
+    hashtags: "#longhair, #yoperreosola, #aniversario, #dontrushchallenge"
 ---

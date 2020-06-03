@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top yoga Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #yoga #quarantine #loveandlight.
+  Find top yoga Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #ocean #yoga #california.
 platform: Instagram
 profiles:
-  - username: "kaceymontoya"
+  - username: "ziggylisowski"
     fullname: >-
-      K A C E Y   M O N T O Y A
+      Ziggy Lisowski
     location: "United States"
-    followers: 37478
-    engagement: 268
-    commentsToLikes: 0.050640
-    id: ck5zmt5c0n6by0i14b6ei3vuw
-    verified: true
-    hashtags: "#shermanoaks, #loseanhourofsleep, #chihuahuasofinstagram, #coronavirusbirthday2020"
+    followers: 44226
+    engagement: 329
+    commentsToLikes: 0.056907
+    id: ck6tobl9td5cf0j7112mfubkb
+    verified: false
+    hashtags: "#travel, #indonesia, #sunrise, #island"
+  - username: "matthiasvriensmcgrath"
+    fullname: >-
+      matthias vriens mcgrath
+    location: "United States"
+    followers: 38156
+    engagement: 131
+    commentsToLikes: 0.024104
+    id: ck5hm9909lj7s0i11li74rc45
+    verified: false
+    hashtags: "#hiking, #fashion, #meditation, #wellness"
+  - username: "cdenice"
+    fullname: >-
+      Christian Denice
+    location: "United States"
+    followers: 18373
+    engagement: 905
+    commentsToLikes: 0.020214
+    id: ck8syxi5umebu0j78sd1u37ir
+    verified: false
+    hashtags: "#class, #partnering, #process, #fluidity"
   - username: "baby_english"
     fullname: >-
       ENGLISH ALEXANDER
     location: "United States"
-    followers: 20125
-    engagement: 696
-    commentsToLikes: 0.021840
+    followers: 23137
+    engagement: 611
+    commentsToLikes: 0.023643
     id: ck5cksmfsxj5o0i11isheogzz
     verified: false
-    hashtags: "#nofilter, #imawoman, #choochoo, #tlf"
-  - username: "deandelray"
+    hashtags: "#tlfapparel, #stayinghome, #balance, #choochoo"
+  - username: "emlee7"
     fullname: >-
-      Dean Delray
+      Emma Lee | Fashion designer
     location: "United States"
-    followers: 44326
-    engagement: 147
-    commentsToLikes: 0.062500
-    id: ck5hjsqylh6t50i11lv05a8hb
-    verified: true
-    hashtags: "#standupcomedy, #radio, #happybirthday, #beastieboys"
-  - username: "bethann.wagner"
-    fullname: >-
-      Bethann | Bethanimalprint ⋒
-    location: "United States"
-    followers: 65063
-    engagement: 68
-    commentsToLikes: 0.134421
-    id: ck0tsqgeb0aad0i19djsch7cg
+    followers: 28243
+    engagement: 237
+    commentsToLikes: 0.028480
+    id: ck0txpr0hk27v0i19a4rpfpv4
     verified: false
-    hashtags: "#noequipmentworkout, #ltkathleisure, #basicoutfit, #outfitinspiration"
+    hashtags: "#buildingstyles, #androgynous, #thatsdarling, #love"
+  - username: "trauma.informed.yoga"
+    fullname: >-
+      Laura Mohai, teacher, advocate
+    location: "United States"
+    followers: 6601
+    engagement: 2733
+    commentsToLikes: 0.058603
+    id: ckapbb8pbz9ju0i781p6rsagn
+    verified: false
+    hashtags: ""
   - username: "lindanyvltova"
     fullname: >-
       Linda Nyvltova
     location: "United States"
-    followers: 16882
-    engagement: 141
-    commentsToLikes: 0.049230
+    followers: 17253
+    engagement: 167
+    commentsToLikes: 0.056473
     id: ck5zugn5g2bn10i14bdvwp7zb
     verified: false
-    hashtags: "#forearmstand, #neon, #cali, #coconutwater"
-  - username: "cici"
+    hashtags: "#happy, #yogamat, #yogaoutfit, #phuket"
+  - username: "ifsclimbing"
     fullname: >-
-      Ciara Christine Stamper
+      IFSC
     location: "United States"
-    followers: 63513
-    engagement: 373
-    commentsToLikes: 0.047851
-    id: ck13btj5vx3dr0i19cz3o15co
+    followers: 145807
+    engagement: 167
+    commentsToLikes: 0.010425
+    id: ck0tw7xs9eau70i19nma9o7xz
     verified: false
-    hashtags: "#distancedance, #thesongofus, #tagwilliamsinacroptop, #girlswhoshuffle"
-  - username: "natashakeymusic"
-    fullname: >-
-      ɴᴀᴛᴀsʜᴀ ᴋᴏᴊɪᴄ
-    location: "United States"
-    followers: 113724
-    engagement: 621
-    commentsToLikes: 0.148932
-    id: ck5zpb9t8sci40i147w1a316y
-    verified: true
-    hashtags: "#postworkoutselfie, #covermodels, #instamood, #beautycollagen"
+    hashtags: "#worldchampionships, #lead, #hachioji, #olympics"
   - username: "ashbydrake"
     fullname: >-
       ashby
     location: "United States"
-    followers: 16338
-    engagement: 830
-    commentsToLikes: 0.040555
+    followers: 16261
+    engagement: 805
+    commentsToLikes: 0.044013
     id: ck5hmc06ulom20i11grhqpfkh
     verified: false
-    hashtags: "#sundayfunday, #23, #edmtwitter, #edm"
+    hashtags: "#malamutebaby, #edmevents, #zaful, #zafulbikini"
   - username: "air_recka"
     fullname: >-
       Erika
     location: "United States"
-    followers: 2312
-    engagement: 1061
-    commentsToLikes: 0.060915
+    followers: 2298
+    engagement: 1082
+    commentsToLikes: 0.059814
     id: ck15qcg3126nd0i19udhjf4qy
     verified: false
-    hashtags: "#yachtweekcroatia, #yachtweek2019, #askfor, #poppyfields"
-  - username: "sterlingvictorian"
-    fullname: >-
-      Sterling Victorian
-    location: "United States"
-    followers: 12104
-    engagement: 406
-    commentsToLikes: 0.107413
-    id: ck6ua8x7r26w80j71ajqoseub
-    verified: false
-    hashtags: "#river, #throwback, #satnam, #rainyday"
+    hashtags: "#yachtweekcroatia, #yachtweek2019"
 ---

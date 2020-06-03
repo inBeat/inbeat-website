@@ -1,107 +1,107 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Argentina In 2020
 description: >-
-  Find top chefs Instagram influencers in Argentina in 2020. Most popular hashtags: #quedateencasa #yomequedoencasa #cuarentena #cuackstyle.
+  Find top chefs Instagram influencers in Argentina in 2020. Most popular hashtags: #encasa #manzana #cakes #quedateencasa.
 platform: Instagram
 profiles:
   - username: "danielamcj7"
     fullname: >-
       Daniela MasterChef Junior 7
     location: "Argentina"
-    followers: 34762
-    engagement: 2099
-    commentsToLikes: 0.018486
+    followers: 38337
+    engagement: 1930
+    commentsToLikes: 0.022662
     id: ck5hhs3b09sw90i11orsxiost
     verified: false
-    hashtags: "#semifinalista, #mcjunior, #quedateencasa, #telodijeser"
+    hashtags: "#mcjunior, #semifinalista, #quedateencasa, #yomeapunto"
   - username: "soledadfandino"
     fullname: >-
-      Soledad Fandiño
+      Soledad Fandiño
     location: "Argentina"
-    followers: 989346
-    engagement: 388
-    commentsToLikes: 0.011739
+    followers: 1007529
+    engagement: 361
+    commentsToLikes: 0.014575
     id: ck13c4v87ymhq0i19488bic92
     verified: true
-    hashtags: "#cuarentena, #tiktok, #repost, #tbt"
+    hashtags: "#100diasparaenamorarnos, #shrek, #baby, #cumplea"
   - username: "sabryrodriguezcuack"
     fullname: >-
       Sabry Rodriguez Cuack 🐥😝♐️💙💛💙
     location: "Argentina"
-    followers: 17896
-    engagement: 440
-    commentsToLikes: 0.030894
+    followers: 18521
+    engagement: 439
+    commentsToLikes: 0.065389
     id: ck5znhkd6oh6b0i14f0s1rra5
     verified: false
-    hashtags: "#veranofan, #whisky, #tattolover, #chinchin"
+    hashtags: "#johndavis, #mintjulep, #yanoaguantomas, #djsession"
   - username: "jennipiccione"
     fullname: >-
       Jenni Piccione
     location: "Argentina"
-    followers: 39477
-    engagement: 372
-    commentsToLikes: 0.017843
+    followers: 40363
+    engagement: 430
+    commentsToLikes: 0.017208
     id: ck5q1hx5jb2cx0i11wfr4xp89
     verified: false
     hashtags: ""
-  - username: "faccubulacio"
+  - username: "paolocasagrandetv"
     fullname: >-
-      F a 🎬 u
+      Paolo Casagrande
     location: "Argentina"
-    followers: 16025
-    engagement: 250
-    commentsToLikes: 0.017709
-    id: ck6udu9yon6930j71qanxuyqo
+    followers: 15372
+    engagement: 463
+    commentsToLikes: 0.022547
+    id: ck5q69ddqwi9p0i1140rpwr68
     verified: false
-    hashtags: "#atardeceres, #beautifulmodel, #curvs, #femalebody"
-  - username: "andregonzalezok"
-    fullname: >-
-      Andrea Gonzalez
-    location: "Argentina"
-    followers: 21214
-    engagement: 518
-    commentsToLikes: 0.061766
-    id: ck14lrl6nw55g0i1979us1x66
-    verified: false
-    hashtags: "#postres, #lemoncurd, #pasteleria, #pasion"
+    hashtags: "#lasarteteam, #unopuntosiete, #familia, #cucina"
   - username: "vivre_la_patisserie"
     fullname: >-
       Agus Capelle🌷
     location: "Argentina"
-    followers: 31756
-    engagement: 417
-    commentsToLikes: 0.093343
+    followers: 41626
+    engagement: 490
+    commentsToLikes: 0.130887
     id: ck8tdpptv4b8w0j789y9aoi51
     verified: false
-    hashtags: "#carrotcake, #frosting, #pancasero, #cookies"
-  - username: "lucasfuente"
+    hashtags: "#emprendedores, #panartesano, #labor, #amasar"
+  - username: "faccubulacio"
     fullname: >-
-      Lucas Fuente
+      F a 🎬 u
     location: "Argentina"
-    followers: 40299
-    engagement: 224
-    commentsToLikes: 0.131334
-    id: ck0w1fsnjj4kk0i19qpjd9iok
+    followers: 15599
+    engagement: 229
+    commentsToLikes: 0.021513
+    id: ck6udu9yon6930j71qanxuyqo
     verified: false
-    hashtags: "#food, #simple, #pastrychef, #manzana"
-  - username: "roberto_ottini"
+    hashtags: "#malemodel, #thinking, #magic, #roofshoot"
+  - username: "simonevillarc"
     fullname: >-
-      Roberto Ottini
+      sɪᴍᴏɴᴇ ᴠɪʟʟᴀʀ
     location: "Argentina"
-    followers: 33306
-    engagement: 199
-    commentsToLikes: 0.055635
-    id: ck6tlmczf68710j713lavlwlt
-    verified: false
-    hashtags: "#pannacottaconyogur, #raviolesyarvejas, #ricottafresca, #albondigascaseras"
-  - username: "cookvanoyen"
+    followers: 225999
+    engagement: 110
+    commentsToLikes: 0.019606
+    id: ckap69v2pf0330i78rhhs1lzj
+    verified: true
+    hashtags: "#motivacion, #love, #instagood, #quedateencasa"
+  - username: "gastonenria"
     fullname: >-
-      Maximiliano Van Oyen
+      𝗚𝗮𝘀𝘁𝗼́𝗻 𝗘𝗻𝗿𝗶𝗮 -𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗼 𝗩𝗶𝘀𝘂𝗮𝗹
     location: "Argentina"
-    followers: 159554
-    engagement: 359
-    commentsToLikes: 0.022902
-    id: ck135x12u3o4i0i192k4f7qaf
+    followers: 29048
+    engagement: 320
+    commentsToLikes: 0.086917
+    id: ck5hcefyshn2z0i119xvw312g
     verified: false
-    hashtags: "#cake, #lifestyle, #burger, #1548"
+    hashtags: "#artistaadobe, #gintonic, #branding, #logotipo"
+  - username: "andregonzalezok"
+    fullname: >-
+      Andrea Gonzalez
+    location: "Argentina"
+    followers: 26290
+    engagement: 482
+    commentsToLikes: 0.056731
+    id: ck14lrl6nw55g0i1979us1x66
+    verified: false
+    hashtags: "#chocobai, #sweet, #frutales, #postre"
 ---

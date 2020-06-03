@@ -1,9 +1,19 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Germany In 2020
 description: >-
-  Find top architecture Instagram influencers in Germany in 2020. Most popular hashtags: #spring #flowers #springvibes #nature.
+  Find top architecture Instagram influencers in Germany in 2020. Most popular hashtags: #yellow #dogsofinstagram #tulips #architecture.
 platform: Instagram
 profiles:
+  - username: "laracvic"
+    fullname: >-
+      𝐋𝐀𝐑𝐀 Č𝐎𝐕𝐈Ć
+    location: "Germany"
+    followers: 3206
+    engagement: 4275
+    commentsToLikes: 0.085384
+    id: ck0tt8l061m780i199mz7v2cc
+    verified: false
+    hashtags: ""
   - username: "niklaskamp_"
     fullname: >-
       NIKLAS ©
@@ -13,95 +23,85 @@ profiles:
     commentsToLikes: 0.070410
     id: ck13bp6h2why60i1972swdjbc
     verified: false
-    hashtags: "#visual, #street, #allshooterz, #edgygrams"
-  - username: "laracvic"
-    fullname: >-
-      𝐋𝐀𝐑𝐀 Č𝐎𝐕𝐈Ć
-    location: "Germany"
-    followers: 3225
-    engagement: 4343
-    commentsToLikes: 0.068863
-    id: ck0tt8l061m780i199mz7v2cc
-    verified: false
-    hashtags: ""
+    hashtags: "#paris, #deutschrap, #parismodel, #soccerskills"
   - username: "wohl.photography"
     fullname: >-
       
     location: "Germany"
-    followers: 3236
-    engagement: 2217
-    commentsToLikes: 0.074320
+    followers: 3356
+    engagement: 2262
+    commentsToLikes: 0.074181
     id: ck8t3qhnh43xp0j781yq0h9qx
     verified: false
-    hashtags: "#urbanballet, #canonef1635f28ii, #urbanjungle, #colors"
-  - username: "pssthannah"
-    fullname: >-
-      Hannah Schepmann
-    location: "Germany"
-    followers: 3480
-    engagement: 3821
-    commentsToLikes: 0.041525
-    id: ck8tas5ussuej0j784tyxxobw
-    verified: false
-    hashtags: "#photography, #cafegram, #zadaaapp, #venedig"
-  - username: "madskarlsson84"
-    fullname: >-
-      Robert H.
-    location: "Germany"
-    followers: 34407
-    engagement: 620
-    commentsToLikes: 0.024807
-    id: ck0tyirm3n0210i19mkdayuvx
-    verified: false
-    hashtags: "#shirt, #socialdistancing, #men, #blue"
-  - username: "shirin_noorbakhsh"
-    fullname: >-
-      Shirin Noorbakhsh
-    location: "Germany"
-    followers: 274761
-    engagement: 639
-    commentsToLikes: 0.012263
-    id: ck5hpgd2hrbck0i11covn7pm0
-    verified: false
-    hashtags: "#stayhealthy, #wish, #hope, #children"
+    hashtags: "#conceptual, #asymetrical, #vectors, #poetry"
   - username: "mlsacbc"
     fullname: >-
       Melisa Cebeci
     location: "Germany"
-    followers: 157940
-    engagement: 456
-    commentsToLikes: 0.010103
+    followers: 161849
+    engagement: 768
+    commentsToLikes: 0.010734
     id: ck0w57kxq2ago0i19n0ii7dqy
     verified: false
-    hashtags: "#kenzoparfums, #devir"
-  - username: "naciahmoreira"
+    hashtags: "#vintagelove, #sorrymama, #covid19"
+  - username: "madskarlsson84"
     fullname: >-
-      Naciah Moreira
+      Robert H.
     location: "Germany"
-    followers: 2754
-    engagement: 1218
-    commentsToLikes: 0.068643
-    id: ck5hptfqarxtm0i11uyo0onrk
+    followers: 36373
+    engagement: 567
+    commentsToLikes: 0.021814
+    id: ck0tyirm3n0210i19mkdayuvx
     verified: false
-    hashtags: "#filter, #birthdaygirl, #qaurantine, #mirror"
+    hashtags: "#hotoutside, #newbalance, #rayban, #styleoftheday"
+  - username: "pssthannah"
+    fullname: >-
+      Hannah Schepmann
+    location: "Germany"
+    followers: 3529
+    engagement: 2952
+    commentsToLikes: 0.066461
+    id: ck8tas5ussuej0j784tyxxobw
+    verified: false
+    hashtags: "#coffeetime, #daisyflower, #fotoliebe, #coronatime"
+  - username: "makeupbydobreva"
+    fullname: >-
+      Maro 💄
+    location: "Germany"
+    followers: 4617
+    engagement: 1259
+    commentsToLikes: 0.277965
+    id: ck6uf3xucuqx40j71npmhgih6
+    verified: false
+    hashtags: "#japanmakeup, #mineralmakeup, #peachymakeup, #ubcd"
+  - username: "_ines.maria"
+    fullname: >-
+      ines
+    location: "Germany"
+    followers: 6189
+    engagement: 2633
+    commentsToLikes: 0.158771
+    id: ck0vx0gmiwif00i19yyirftpv
+    verified: false
+    hashtags: "#creativecommune, #ines, #incedible, #explore"
   - username: "sun_pitt"
     fullname: >-
       
     location: "Germany"
-    followers: 5458
-    engagement: 1734
-    commentsToLikes: 0.106476
+    followers: 5891
+    engagement: 1634
+    commentsToLikes: 0.097747
     id: ck0uaq4q7cv6b0i19tc837ojv
     verified: false
-    hashtags: "#muscari, #citytrip, #tulpen, #anemone"
-  - username: "manuela.zita.b"
+    hashtags: "#strahlendsch, #wildblumen, #terrier, #veryniceview"
+  - username: "charlinesofie"
     fullname: >-
-      manuela
+      charline
     location: "Germany"
-    followers: 5843
-    engagement: 3142
-    commentsToLikes: 0.067970
-    id: ck0tzcsw0pu9d0i19fmm8y8fl
+    followers: 2425
+    engagement: 5013
+    commentsToLikes: 0.040291
+    id: ck9whv2hkzlsb0j786xoayyrw
     verified: false
-    hashtags: "#traveltheworld, #smiling, #kesselliebe, #roof"
+    hashtags: "#photogram, #summershooting, #colognegraphy, #basketball"
 ---

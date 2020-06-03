@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Rome In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Rome in 2020. Most popular hashtags: #iorestoacasa #roma #love #lifestyle.
+  Find top lifestyle Instagram influencers in Rome in 2020. Most popular hashtags: #lifestyle #nature #iorestoacasa #family.
 platform: Instagram
 profiles:
-  - username: "giordano_mazzocchi10"
+  - username: "alessandragiubilato"
     fullname: >-
-      Giordano Mazzocchi
+      Alessandra Giubilato 🎤🎶📸
     location: "Italy"
-    followers: 1185220
-    engagement: 458
-    commentsToLikes: 0.004205
-    id: ck138g1teg2210i19vyq537wy
+    followers: 40497
+    engagement: 291
+    commentsToLikes: 0.058121
+    id: ck9wfvm89qot60j786za0nr8l
     verified: false
-    hashtags: "#kappasport, #sunday, #flying, #ppnolimits"
-  - username: "valentinadelsette"
+    hashtags: "#iostoacasa, #guitar, #postthepeople, #iocantoacasa"
+  - username: "fra_87_hope"
     fullname: >-
-      Valentina 🦄
+      Francesco Hope
     location: "Italy"
-    followers: 53528
-    engagement: 154
-    commentsToLikes: 0.032209
-    id: ck8t7jytth3830j7828o5of2g
+    followers: 11619
+    engagement: 469
+    commentsToLikes: 0.047627
+    id: ckaosahdpqula0i78suykv47t
     verified: false
-    hashtags: "#distantimauniti, #igersroma, #firenzecityitaly, #firenzegram"
-  - username: "missjaceymarie"
+    hashtags: "#sunglasseslover, #forzedellordine, #travelblogger, #lavoro"
+  - username: "elenotta_12"
     fullname: >-
-      Jacey Marie
+      Elena Senerchia 🎀 👠👜👗🎀
     location: "Italy"
-    followers: 87903
-    engagement: 417
-    commentsToLikes: 0.029741
-    id: ck5ca330qclon0i11dhm08pie
+    followers: 6033
+    engagement: 400
+    commentsToLikes: 0.037271
+    id: ck8t82z25ix1s0j78atz6l9v7
     verified: false
-    hashtags: "#fitness, #hot, #event, #italy"
-  - username: "matteobracco"
+    hashtags: "#winter, #uovadipasqua, #photoshoot, #girls"
+  - username: "marciano.surf"
     fullname: >-
-      Matteo Braccani
+      Alessandro Marcianò
     location: "Italy"
-    followers: 8024
-    engagement: 1395
-    commentsToLikes: 0.023550
-    id: ck5zp8g76s6x80i14y2zino2y
+    followers: 16717
+    engagement: 251
+    commentsToLikes: 0.055859
+    id: ck0w4p18xzonq0i19x5ulwnx9
     verified: false
-    hashtags: "#crossfitopen, #roma, #lifestyle, #aua20"
-  - username: "michelangelobuonarrotietornato"
+    hashtags: "#report, #surfing, #passion, #motherday"
+  - username: "simone_tagliati_"
     fullname: >-
-      Michelangelo Buonarroti
+      𝚂𝚒𝚖𝚘𝚗𝚎 𝚃𝚊𝚐𝚕𝚒𝚊𝚝𝚒
     location: "Italy"
-    followers: 85793
-    engagement: 109
-    commentsToLikes: 0.009339
-    id: ck6tsybyb7izi0j71hslxzu60
+    followers: 11430
+    engagement: 813
+    commentsToLikes: 0.033144
+    id: ck8t0us1ptea60j7869nfl5fz
     verified: false
-    hashtags: "#rai1, #pasqua, #mosaici, #imbucci"
-  - username: "impossibilefermareibattiti"
+    hashtags: "#luxury, #modelife, #bagfashion, #manclothes"
+  - username: "_bryan.b_"
     fullname: >-
-      Meggy Fri
+      ▪| BrYaN |▪
     location: "Italy"
-    followers: 39977
-    engagement: 221
-    commentsToLikes: 0.108858
-    id: ck5c09zw4sq270i11w71ud4hy
+    followers: 8993
+    engagement: 521
+    commentsToLikes: 0.016502
+    id: ck6ubmpdlahgk0j71q3ql2471
     verified: false
-    hashtags: "#mydaddy, #asteemforsteel, #percorsoformativo, #shapeoflight"
+    hashtags: "#latinas, #espejorecords, #bailandosevivemejor, #passionate"
+  - username: "lucreziaoddone"
+    fullname: >-
+      Learn Italian with Lucrezia
+    location: "Italy"
+    followers: 47849
+    engagement: 687
+    commentsToLikes: 0.038384
+    id: ckaozj21wm3pk0i78ze016582
+    verified: false
+    hashtags: "#aperolspritz, #bialetti, #caff, #librichepassione"
   - username: "ladfoodie"
     fullname: >-
-      LAD #ladfoodie
+      LAURA #ladfoodie
     location: "Italy"
-    followers: 32984
-    engagement: 278
-    commentsToLikes: 0.118878
+    followers: 34863
+    engagement: 248
+    commentsToLikes: 0.111831
     id: ck14kcjpaoukb0i19dvi3c9dd
     verified: false
-    hashtags: "#biscottini, #vinoitaliano, #granolahomemade, #panacotta"
-  - username: "laura.effe_"
+    hashtags: "#piesalata, #colazioneacasa, #arredo3, #worldbakingday"
+  - username: "drgolenaz"
     fullname: >-
-      🌸Laura Fornaro🌸
+      Dr.Golenaz👩🏻‍⚕️
     location: "Italy"
-    followers: 10353
-    engagement: 1166
-    commentsToLikes: 0.086130
-    id: ck5hiwnh2flhj0i11e4ldi5i5
+    followers: 3512
+    engagement: 1266
+    commentsToLikes: 0.042349
+    id: ckap2bbtsy4570i78kd3ac8oy
     verified: false
-    hashtags: "#duomodicolonia, #raccontamiunastoria, #theglobalwanderer, #outfitinspirationforday"
-  - username: "rachellenne8"
+    hashtags: "#beaty, #style, #ootd, #purple"
+  - username: "__valentinus__"
     fullname: >-
-      Rachel
+      
     location: "Italy"
-    followers: 23065
-    engagement: 142
-    commentsToLikes: 0.010805
-    id: ck0tz9qvqpniu0i197r4zrsgl
+    followers: 6962
+    engagement: 626
+    commentsToLikes: 0.317050
+    id: ck9wduvwbhdei0j78s1bldguq
     verified: false
-    hashtags: "#travelblogger, #fashion, #happiness, #experiencerome"
-  - username: "emily.miracletunes"
-    fullname: >-
-      Emily
-    location: "Italy"
-    followers: 25796
-    engagement: 489
-    commentsToLikes: 0.027231
-    id: ck600sjwke6u00i14edhj4avm
-    verified: false
-    hashtags: "#teamshaqiri, #photo, #emozioni, #sophiamiracletunes"
+    hashtags: "#amazing, #soulful, #reading, #blackisblack"
 ---

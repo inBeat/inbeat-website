@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Poland In 2020
 description: >-
-  Find top athletes Instagram influencers in Poland in 2020. Most popular hashtags: #workout #gym #training #motivation.
+  Find top athletes Instagram influencers in Poland in 2020. Most popular hashtags: #home #stayhome #sunny #training.
 platform: Instagram
 profiles:
-  - username: "badass_girlpl"
-    fullname: >-
-      Anna Kaszuba
-    location: "Poland"
-    followers: 30393
-    engagement: 419
-    commentsToLikes: 0.042368
-    id: ck0txpw9ck2rv0i19qkmupqxf
-    verified: false
-    hashtags: ""
   - username: "stefan_eroteev"
     fullname: >-
       Stefan Eroteev
     location: "Poland"
-    followers: 15637
-    engagement: 1075
-    commentsToLikes: 0.018043
+    followers: 15760
+    engagement: 1044
+    commentsToLikes: 0.018351
     id: ck55lrxpv29uw0i11agl6zcpn
     verified: false
-    hashtags: "#calisthenics, #streetworkout, #bulgaria, #photography"
-  - username: "nataliakusiak"
+    hashtags: "#teamortizsw, #homeworkout, #city, #abovetherest"
+  - username: "badass_girlpl"
     fullname: >-
-      Natalia Kusiak
+      Anna Kaszuba
     location: "Poland"
-    followers: 50140
-    engagement: 901
-    commentsToLikes: 0.026848
-    id: ck0w12v4whak00i19atswp8d3
+    followers: 31543
+    engagement: 377
+    commentsToLikes: 0.047824
+    id: ck0txpw9ck2rv0i19qkmupqxf
     verified: false
-    hashtags: "#zigtherunway, #zostajewdomu, #superstar, #physiomikrobiom"
+    hashtags: "#badass, #11, #16"
+  - username: "xgriszkax"
+    fullname: >-
+      Grzegorz Sobieszek
+    location: "Poland"
+    followers: 22858
+    engagement: 699
+    commentsToLikes: 0.025674
+    id: ckap4qm2o8fj90i78hclsim81
+    verified: false
+    hashtags: "#crossfit, #cargobike, #kundel, #vanitasvanitatumetomniavanitas"
   - username: "iga.co.smiga"
     fullname: >-
       Iga Baumgart-Witan
     location: "Poland"
-    followers: 33717
-    engagement: 991
-    commentsToLikes: 0.007183
+    followers: 33690
+    engagement: 795
+    commentsToLikes: 0.009593
     id: ck5hhh4j7879f0i11t95hxgwe
     verified: false
-    hashtags: "#hubby, #womensweekchallenge, #womenday, #przegladsportowy"
-  - username: "nataladamek"
+    hashtags: "#peace, #sunny, #brubeck, #angels"
+  - username: "annaakaczowka"
     fullname: >-
-      ✨NATALA DAMEK ✨
+      Anna Kaczowka 🇵🇱
     location: "Poland"
-    followers: 17292
-    engagement: 578
-    commentsToLikes: 0.019847
-    id: ck0txpwnik2vm0i19qysv3ple
+    followers: 3473
+    engagement: 3180
+    commentsToLikes: 0.018398
+    id: ck9wewfvnm56h0j782rgrjfaw
     verified: false
-    hashtags: "#theend, #photoshoot, #model, #bikinifitness"
-  - username: "dnuszczyk"
+    hashtags: "#zostanwdomu, #ladyinred, #polishmodel, #missnastolatek"
+  - username: "piotr.lisek.pv"
     fullname: >-
-      Dominika Czajka (Nuszczyk)
+      Piotr Lisek
     location: "Poland"
-    followers: 6023
-    engagement: 1113
-    commentsToLikes: 0.018722
-    id: ck5zpihhwsqeh0i140l1qfoyg
+    followers: 41156
+    engagement: 1110
+    commentsToLikes: 0.004320
+    id: ck0vxps7203wj0i19bqujjo2e
     verified: false
-    hashtags: "#trenerpersonalny, #zdrowejedzenie, #gymlife, #nailart"
+    hashtags: "#dbajosiebie, #playinside, #polevault, #doci"
   - username: "davidmsmith15"
     fullname: >-
       David Smith 🇺🇸
     location: "Poland"
-    followers: 29117
-    engagement: 660
-    commentsToLikes: 0.008565
+    followers: 29406
+    engagement: 663
+    commentsToLikes: 0.008789
     id: ck5cku35hxltz0i11rw7rv2lp
     verified: true
-    hashtags: "#deafathlete, #hearingloss, #teamadidas, #ultraboost"
-  - username: "przemyslaw_farbotko"
+    hashtags: "#hardenvol4, #therealheros, #eclipse, #plusliga"
+  - username: "nataladamek"
     fullname: >-
-      Przemysław Farbotko
+      ✨NATALA DAMEK ✨
     location: "Poland"
-    followers: 25742
-    engagement: 277
-    commentsToLikes: 0.027021
-    id: ck6tybnay2sez0j71f4d5su4h
+    followers: 17052
+    engagement: 565
+    commentsToLikes: 0.017444
+    id: ck0txpwnik2vm0i19qysv3ple
     verified: false
-    hashtags: "#shaper, #ulisses, #selfiemirror, #valentines"
+    hashtags: "#ifbbbikini, #bikinfitnes, #worldchampion, #theend"
+  - username: "dnuszczyk"
+    fullname: >-
+      Dominika Czajka (Nuszczyk)
+    location: "Poland"
+    followers: 5968
+    engagement: 857
+    commentsToLikes: 0.024049
+    id: ck5zpihhwsqeh0i140l1qfoyg
+    verified: false
+    hashtags: "#christmasnails, #bdaygirl, #marriage, #nailart"
   - username: "m.andrejczyk"
     fullname: >-
       Maria M. Andrejczyk
     location: "Poland"
-    followers: 30840
-    engagement: 594
-    commentsToLikes: 0.008406
+    followers: 30752
+    engagement: 539
+    commentsToLikes: 0.007846
     id: ck0u89bbz6u8p0i19fzvadgp2
     verified: false
-    hashtags: "#learning, #lovemycountry, #could, #brothers"
-  - username: "karolstuglik"
-    fullname: >-
-      Karol Stuglik
-    location: "Poland"
-    followers: 25392
-    engagement: 382
-    commentsToLikes: 0.017223
-    id: ck14gqb0f6ih30i19crejfv8y
-    verified: false
-    hashtags: "#muscles, #fitfam, #polishdzik, #supplement"
+    hashtags: "#greattime, #mela, #poland, #tricolor"
 ---

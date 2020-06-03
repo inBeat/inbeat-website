@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Poland In 2020
 description: >-
-  Find top rappers Instagram influencers in Poland in 2020. Most popular hashtags: #hiphop #kwarantanna #rap #music.
+  Find top rappers Instagram influencers in Poland in 2020. Most popular hashtags: #zosta #rapper #gotujemy #prezent.
 platform: Instagram
 profiles:
-  - username: "quebahombre"
+  - username: "waldemar_kasta"
     fullname: >-
-      QUEBONAFIDE
+      Waldemar WALL-E Kasta
     location: "Poland"
-    followers: 959954
-    engagement: 2033
-    commentsToLikes: 0.009908
-    id: ck55nz6fi7ayf0i114amvgjzp
+    followers: 5619
+    engagement: 856
+    commentsToLikes: 0.016216
+    id: ck5q9k6odbinr0i11d3uswiew
+    verified: false
+    hashtags: "#me, #musicman, #youngthug, #rap"
+  - username: "szymanskimma"
+    fullname: >-
+      Roman Szymański
+    location: "Poland"
+    followers: 36491
+    engagement: 604
+    commentsToLikes: 0.013354
+    id: ck0u29adgzair0i19geh8v9pa
+    verified: false
+    hashtags: "#catering, #kochaj, #walcz, #tipi"
+  - username: "kubanorek"
+    fullname: >-
+      Kuba Norek 🐼♥
+    location: "Poland"
+    followers: 63765
+    engagement: 603
+    commentsToLikes: 0.008629
+    id: ck8wefmu0dzkm0j78vvfbx9hz
+    verified: false
+    hashtags: "#timber, #mevschocolate, #artistic, #lights"
+  - username: "emergency_queen"
+    fullname: >-
+      Julia Piątek
+    location: "Poland"
+    followers: 34356
+    engagement: 733
+    commentsToLikes: 0.048811
+    id: ck8t563058wh20j78jmqzywbi
+    verified: false
+    hashtags: "#takietamnapla, #tiktok, #niero, #czytanie"
+  - username: "zalewskiofficial"
+    fullname: >-
+      Krzysztof Zalewski
+    location: "Poland"
+    followers: 112682
+    engagement: 900
+    commentsToLikes: 0.011569
+    id: ck0tuc9v96k6g0i1966h922c5
     verified: true
-    hashtags: "#unfollow, #bo, #do, #lolyourenotquebonafide"
-  - username: "mc_silk"
+    hashtags: "#pawe, #wydech, #polin, #murem"
+  - username: "matteo.brunetti.real"
     fullname: >-
-      MC Silk
+      MATTEO BRUNETTI
     location: "Poland"
-    followers: 25466
-    engagement: 495
-    commentsToLikes: 0.015068
-    id: ck8sxkwtkhrud0j78c8owgj3n
-    verified: false
-    hashtags: "#blackandwhite, #vlogzdomu, #starezdj, #forma"
-  - username: "bonsonsbejbi"
-    fullname: >-
-      Damian Bonson Kowalski
-    location: "Poland"
-    followers: 53350
-    engagement: 482
-    commentsToLikes: 0.015180
-    id: ck0w216f6m56g0i19uqnlwaay
-    verified: false
-    hashtags: "#kr, #catfootwear, #sneakerstudio, #kotkarolkr"
-  - username: "ostrybezimienni_klincz_label"
-    fullname: >-
-      OSTRY / BEZIMIENNI
-    location: "Poland"
-    followers: 21578
-    engagement: 434
-    commentsToLikes: 0.024689
-    id: ck6uhbbir84gl0j7103p8z128
-    verified: false
-    hashtags: "#retro, #2019, #memories, #ostry"
-  - username: "rapcytatyofficial"
-    fullname: >-
-      Rap Cytaty
-    location: "Poland"
-    followers: 86447
-    engagement: 278
-    commentsToLikes: 0.002103
-    id: ck8t7807zfwc10j7861p3meno
-    verified: false
-    hashtags: "#rapteksty, #jednami, #cytatyo, #quequality"
-  - username: "jayreaperdopedod"
-    fullname: >-
-      JayReaper Dope D.o.D.
-    location: "Poland"
-    followers: 25645
-    engagement: 273
-    commentsToLikes: 0.027700
-    id: ck5c9sd9mc0zk0i11qg7lclf2
-    verified: false
-    hashtags: "#momproject, #dopedod, #madoldman, #mom"
-  - username: "od.synaps"
-    fullname: >-
-      OD
-    location: "Poland"
-    followers: 7309
-    engagement: 2080
-    commentsToLikes: 0.013027
-    id: ck601yvtugf4y0i148dq0aic5
-    verified: false
-    hashtags: "#music, #2qat, #americanflag, #wedoourjob"
-  - username: "rahuene"
-    fullname: >-
-      RAHIM official
-    location: "Poland"
-    followers: 29646
-    engagement: 520
-    commentsToLikes: 0.023422
-    id: ck6tqiy3crqil0j7160zo5e24
-    verified: false
-    hashtags: "#nederlands, #lover, #czerwone, #beach"
-  - username: "marcinklosowski.official"
-    fullname: >-
-      Marcin Kłosowski
-    location: "Poland"
-    followers: 40387
-    engagement: 293
-    commentsToLikes: 0.027608
-    id: ck13cnlci18op0i192di2e2ax
+    followers: 49647
+    engagement: 248
+    commentsToLikes: 0.013440
+    id: ck5chvgqvrjn30i11gin9uwoy
     verified: true
-    hashtags: "#rapper, #instagood, #trend, #fashion"
-  - username: "magierski_71"
+    hashtags: "#takarado, #zostajewdomu, #semifreddo, #breadporn"
+  - username: "femin.official"
     fullname: >-
-      Magiera
+      Femin
     location: "Poland"
-    followers: 11333
-    engagement: 683
-    commentsToLikes: 0.022761
-    id: ck5bznxrjrinj0i11jfz601d0
+    followers: 20185
+    engagement: 142
+    commentsToLikes: 0.046516
+    id: ck0u7bq6o4afn0i197og62fm1
     verified: false
-    hashtags: "#hiphop, #sampling, #bludshop, #70220"
+    hashtags: "#videoklip, #teledysk, #music, #klip"
+  - username: "natalia.nft"
+    fullname: >-
+      Natalia
+    location: "Poland"
+    followers: 9522
+    engagement: 910
+    commentsToLikes: 0.227538
+    id: ckaormbyknvcp0i78yqokhv0z
+    verified: false
+    hashtags: "#sesjawogrodzie, #session, #dotsmylove, #legs"
+  - username: "kasia_satala"
+    fullname: >-
+      Mów mi Mama ✌
+    location: "Poland"
+    followers: 11264
+    engagement: 916
+    commentsToLikes: 0.060192
+    id: ck5hnrxzboaid0i11tcnpeikk
+    verified: false
+    hashtags: "#siostraibrat, #printuzamamami, #prezent, #szumi"
+  - username: "trufelkowo"
+    fullname: >-
+      Mama&CórkaParentingLifestyle
+    location: "Poland"
+    followers: 11629
+    engagement: 446
+    commentsToLikes: 0.309762
+    id: ck6tpi06xjzbj0j714slq41gq
+    verified: false
+    hashtags: "#crazymom, #wiejskieklimaty, #matkawariatka, #pieknakobieta"
 ---

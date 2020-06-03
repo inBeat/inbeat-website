@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Italy In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Italy in 2020. Most popular hashtags: #maccosmeticsitalia #maccosmetics #makeup #beauty.
+  Find top cosmetics Instagram influencers in Italy in 2020. Most popular hashtags: #fashion #cappuccino #restoacasa #quarantinelife.
 platform: Instagram
 profiles:
   - username: "andreabzzz"
     fullname: >-
       Andrea Moscon
     location: "Italy"
-    followers: 381684
-    engagement: 586
-    commentsToLikes: 0.033288
+    followers: 392763
+    engagement: 609
+    commentsToLikes: 0.049823
     id: ck14jk34nkrcm0i19u4kn8iay
     verified: true
-    hashtags: "#asuniqueasyou, #sundayfunday, #instacool, #menstyle"
-  - username: "alexya.mua"
+    hashtags: "#pretty, #giveawayitalia, #totalwhite, #beautifulhotela"
+  - username: "elenapiink"
     fullname: >-
-      Alessia Cosio
+      Elena
     location: "Italy"
-    followers: 6373
-    engagement: 897
-    commentsToLikes: 0.057333
-    id: ck5byic98p7bu0i1178zsnttl
+    followers: 47879
+    engagement: 138
+    commentsToLikes: 0.084202
+    id: ckapcbmjq35wc0i789992n4ea
     verified: false
-    hashtags: "#strobehighlighter, #muaunder10k, #hypnaughtymakeup, #stepbystepmakeu"
+    hashtags: "#milano2020, #hotelmilano, #ristorantemilano, #nadinclothes"
+  - username: "veronika.vagnerova"
+    fullname: >-
+      Veronika Vágnerová
+    location: "Italy"
+    followers: 25072
+    engagement: 444
+    commentsToLikes: 0.022533
+    id: ck5ci39llrxm40i11m7okja5n
+    verified: false
+    hashtags: "#curlyhairvideos, #elevatorselfie, #mondaymood, #minimalism"
+  - username: "wanda_icardi"
+    fullname: >-
+      Wanda nara
+    location: "Italy"
+    followers: 6559189
+    engagement: 259
+    commentsToLikes: 0.010833
+    id: ck15smakqdqan0i1929tchgnk
+    verified: true
+    hashtags: "#cuarentenawanlook, #iorestoacasa, #homeschooling, #work"
   - username: "sydney052474"
     fullname: >-
       Sydney Lifestyle
     location: "Italy"
-    followers: 3189
-    engagement: 2768
-    commentsToLikes: 0.115468
+    followers: 3405
+    engagement: 2639
+    commentsToLikes: 0.116250
     id: ck8tbxx4nxm5o0j786fejs8ge
     verified: false
-    hashtags: "#follow4likes, #gliamicidirachy, #nature, #garnierbioclub"
-  - username: "veronika.vagnerova"
+    hashtags: "#giornatebelle, #pastryporn, #cosm, #chebont"
+  - username: "typ_boww"
     fullname: >-
-      Veronika Vágnerová
+      ᵀᴴᵁᴺʸᴬᴾᴬᵀ  ᵂᴼᴺᴳᵀᴬᵂᴱᴱᶜᴴᴬᴵ ¨̮
     location: "Italy"
-    followers: 21849
-    engagement: 463
-    commentsToLikes: 0.038177
-    id: ck5ci39llrxm40i11m7okja5n
+    followers: 11291
+    engagement: 704
+    commentsToLikes: 0.009316
+    id: ckaozi7ylm00d0i78s4pq5zyh
     verified: false
-    hashtags: "#serumnaplet, #skirt, #getdressedathome, #proseccomademedoit"
+    hashtags: "#pinterest"
   - username: "juvemaja"
     fullname: >-
       𝒞𝒽𝒾𝒶𝓇𝒶 𝐹𝑒𝓈𝓉𝒾𝓃𝒾
     location: "Italy"
-    followers: 137599
-    engagement: 286
-    commentsToLikes: 0.057888
+    followers: 141660
+    engagement: 280
+    commentsToLikes: 0.054778
     id: ck8t2dfx7z25l0j78kgt8acrb
     verified: false
-    hashtags: "#tokyoghoul, #animesketch, #carsofinstagram, #drawingtutorial"
-  - username: "michele__magnani"
+    hashtags: "#tokyoghoulart, #animeartwork, #featureland, #drawingtutorial"
+  - username: "jolant4"
     fullname: >-
-      Michele Magnani
+      Jolanta
     location: "Italy"
-    followers: 38125
-    engagement: 232
-    commentsToLikes: 0.071902
-    id: ck55oq9vl8w1u0i11aymxnkua
-    verified: true
-    hashtags: "#macbackstage, #maclovesxf, #estetistacinica, #xf13"
-  - username: "monikalancheva"
+    followers: 5610
+    engagement: 2541
+    commentsToLikes: 0.029288
+    id: ckaoxikkqdfaq0i788q2mseir
+    verified: false
+    hashtags: "#monument, #felicit, #fashion, #bluesky"
+  - username: "senzatruccoyoutube"
     fullname: >-
-      Моника Ланчева
+      Gaia
     location: "Italy"
-    followers: 46417
-    engagement: 76
-    commentsToLikes: 0.011023
-    id: ck5cjrrpovd2z0i11aq6fol89
+    followers: 26364
+    engagement: 695
+    commentsToLikes: 0.023518
+    id: ck9hd0uzmnowf0j783ts9bmsm
+    verified: false
+    hashtags: "#ricettedietetiche, #pasqua, #foto, #beauty"
+  - username: "lacquer.gallery"
+    fullname: >-
+      LACQUER GALLERY
+    location: "Italy"
+    followers: 25332
+    engagement: 402
+    commentsToLikes: 0.002169
+    id: ck5c4c34e11ex0i11hpkg2mho
     verified: false
     hashtags: ""
-  - username: "maninbio"
-    fullname: >-
-      ᴍᴀʀᴄᴇʟʟᴏ 🌙
-    location: "Italy"
-    followers: 2488
-    engagement: 1034
-    commentsToLikes: 0.172162
-    id: ck5pw5cx0l6h40i11wthpinsj
-    verified: false
-    hashtags: "#comingsoon, #loveyourself, #curadellapelle, #naturalcosmetics"
-  - username: "peachestellsyou"
-    fullname: >-
-      Katerina Ourda
-    location: "Italy"
-    followers: 3403
-    engagement: 803
-    commentsToLikes: 0.059157
-    id: ck136044b43kx0i19wzn6q4h0
-    verified: false
-    hashtags: "#imstillwearingheelshere, #dianarossforever, #peachestellsyou, #puttingoutmyresumeforthejudge"
-  - username: "danieledevitis_mua"
-    fullname: >-
-      Daniele De Vitis
-    location: "Italy"
-    followers: 8342
-    engagement: 1273
-    commentsToLikes: 0.078785
-    id: ck6u72esej2um0j71eql9kibw
-    verified: false
-    hashtags: "#goddesses, #beautyshoot, #weinspire, #strongwomen"
 ---

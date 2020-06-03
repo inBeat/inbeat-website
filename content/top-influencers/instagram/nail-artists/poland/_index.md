@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nail Artists Instagram Influencers In Poland In 2020
 description: >-
-  Find top nail artists Instagram influencers in Poland in 2020. Most popular hashtags: #paznokcie #nails #nails2inspire #nailstagram.
+  Find top nail artists Instagram influencers in Poland in 2020. Most popular hashtags: #nailartist #paznokcie #whitenails #nails.
 platform: Instagram
 profiles:
   - username: "barbrafeszyn"
     fullname: >-
       Basia Góral
     location: "Poland"
-    followers: 6904
-    engagement: 580
-    commentsToLikes: 0.042456
+    followers: 7084
+    engagement: 615
+    commentsToLikes: 0.065207
     id: ck5bv1zihiuic0i119thgjl77
     verified: false
-    hashtags: "#disneynails, #fioletowe, #recznezdobienia, #gelnails"
-  - username: "anisiulka"
+    hashtags: "#tulipany, #nailac, #pastelsnails, #blingnails"
+  - username: "lakierowerewolucje"
     fullname: >-
-      MAKEUP • BEAUTY
+      Lakierowe rewolucje
     location: "Poland"
-    followers: 31852
-    engagement: 412
-    commentsToLikes: 0.042734
-    id: ck0ueahcdkz9u0i19xmb9fdhm
+    followers: 2652
+    engagement: 2466
+    commentsToLikes: 0.357709
+    id: ckaorukr1otka0i7875hhbgb4
     verified: false
-    hashtags: "#blue, #pielegnacjaskory, #birthdaycakes, #makeuptutorial"
-  - username: "life.catchers"
+    hashtags: "#nailfie, #yellownails, #darkrednails, #ignails"
+  - username: "bonjourmaadam"
     fullname: >-
-      Marta & Filip
+      Klaudynka
     location: "Poland"
-    followers: 25642
-    engagement: 1062
-    commentsToLikes: 0.026517
-    id: ck1367a1i532a0i19a2l5exgp
+    followers: 17480
+    engagement: 381
+    commentsToLikes: 0.092591
+    id: ckaoyafjcgobm0i78ed9cub7r
     verified: false
-    hashtags: "#springfeels, #avonartists, #artofslowliving, #fromwhereistand"
-  - username: "mamawspanialej2"
+    hashtags: "#neonnails, #piscartedit, #naturalife, #instapolish"
+  - username: "paulina_pastuszak"
     fullname: >-
-      ЅᎯℕⅅℛᎯ 🌼
+      Paulina Pastuszak
     location: "Poland"
-    followers: 26582
-    engagement: 357
-    commentsToLikes: 0.075070
-    id: ck13bpd6jwiw10i19h4lm3yes
+    followers: 33088
+    engagement: 260
+    commentsToLikes: 0.080896
+    id: ck5zphqu4sowx0i14019zsphi
     verified: false
-    hashtags: "#nevrosi, #ikeapoland, #wrodziniesi, #kochamnadzycie"
-  - username: "dim.makeup"
+    hashtags: "#hybrydy, #rabat, #wolnyweekend, #biznes"
+  - username: "polish.lab.rat"
     fullname: >-
-      Makeup | Makijaż | Kosmetyki
+      All The Nail Polish Things
     location: "Poland"
-    followers: 59975
-    engagement: 530
-    commentsToLikes: 0.047879
-    id: ck0u7wv2n5ys90i19y57pf9sr
+    followers: 26356
+    engagement: 380
+    commentsToLikes: 0.066760
+    id: ck6tnkz2ba22r0j711o3nuhsn
     verified: false
-    hashtags: "#polskajestpiekna, #kyliejenner, #mattenails, #chilltime"
-  - username: "lakierowy_apacz"
-    fullname: >-
-      Paulina
-    location: "Poland"
-    followers: 44068
-    engagement: 532
-    commentsToLikes: 0.018873
-    id: ck0vzxx5ibfcu0i191lsgb2fw
-    verified: false
-    hashtags: "#nailstagram, #geometria, #balloons, #victoriavynn"
-  - username: "matuszewsk.a"
-    fullname: >-
-      NAILS DESIGNER 🔝️
-    location: "Poland"
-    followers: 60935
-    engagement: 300
-    commentsToLikes: 0.029266
-    id: ck0u00yydsc7n0i193zh17e1m
-    verified: false
-    hashtags: "#nailsupplies, #style, #stylish, #rednails"
+    hashtags: "#cocktailnails, #spritzersister, #youtubevideo, #plrcollabs"
   - username: "herman.alls"
     fullname: >-
-      Martyna Zając
+      Martyna Zając
     location: "Poland"
-    followers: 2399
-    engagement: 2301
-    commentsToLikes: 0.030675
+    followers: 2810
+    engagement: 2547
+    commentsToLikes: 0.028497
     id: ck8tda2b22igi0j78qkfropfs
     verified: false
-    hashtags: "#mylove, #newnails, #polskiedziewczyny, #polishgirl"
-  - username: "piekna__sprawa"
+    hashtags: "#golf, #goodgirl, #polishcouple, #tattoogirl"
+  - username: "kachukachu"
     fullname: >-
-      Piękna Sprawa by Miciulka
+      Kacha Więcaszek
     location: "Poland"
-    followers: 4752
-    engagement: 480
-    commentsToLikes: 0.100285
-    id: ck8tb5o00udyb0j786f3cp3gd
+    followers: 2653
+    engagement: 1014
+    commentsToLikes: 0.099020
+    id: ck8t7lrqlh9rs0j789fk8ygzw
     verified: false
-    hashtags: "#nailsdone, #metalicznepaznokcie, #allepaznokcie, #poppies"
-  - username: "perfekcyjnie_niedoskonala"
+    hashtags: "#rado, #dobranoc, #zosta, #denim"
+  - username: "pomalowanki_iwona_wilk"
     fullname: >-
-      Katarzyna Augustyn
+      ꧂  ⅈ᭙ꪮꪀꪖ ᭙ⅈꪶӄ  ꧂
     location: "Poland"
-    followers: 37103
-    engagement: 329
-    commentsToLikes: 0.024400
-    id: ck0u0x9mvv6050i19sesarmed
+    followers: 26734
+    engagement: 207
+    commentsToLikes: 0.030355
+    id: ck0vzxu16bexb0i19ed9n4z77
     verified: false
-    hashtags: "#likeme, #lookoftheday, #mood, #secondhand"
+    hashtags: "#mickey, #inspirednails, #nailslover, #glassnails"
+  - username: "miss_deer_nails"
+    fullname: >-
+      Aneta Ujwary (Jeleń)
+    location: "Poland"
+    followers: 31167
+    engagement: 299
+    commentsToLikes: 0.016244
+    id: ck13aqpoarp9x0i19whs1lnz3
+    verified: false
+    hashtags: "#stepbystep, #ujvarynails, #springtime, #beautifulnails"
+  - username: "magdalena.kanadys"
+    fullname: >-
+      🌼мαg∂αℓєиα кαиα∂уѕ🌼
+    location: "Poland"
+    followers: 4614
+    engagement: 599
+    commentsToLikes: 0.049670
+    id: ck5c5o5863uby0i116a3sljra
+    verified: false
+    hashtags: "#neonailpoland, #demakija, #nailsart, #longhairgolas"
 ---

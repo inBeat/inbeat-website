@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Turkey In 2020
 description: >-
-  Find top makeup Instagram influencers in Turkey in 2020. Most popular hashtags: #makeup #benefit #makeupartist #benefitbrows.
+  Find top makeup Instagram influencers in Turkey in 2020. Most popular hashtags: #evdekal #cekilis #makeuplover #karantinag.
 platform: Instagram
 profiles:
-  - username: "sha1kiba"
+  - username: "__mervesii__"
     fullname: >-
-      🧿Shakiba | شَکیبا
+      Merve Layık Yıldır
     location: "Turkey"
-    followers: 132317
-    engagement: 1072
-    commentsToLikes: 0.137320
-    id: ck0vyosug522k0i19f3uv676u
+    followers: 8671
+    engagement: 1488
+    commentsToLikes: 0.133556
+    id: ckap3hq5u31p50i7891fhmupa
     verified: false
-    hashtags: "#blueeyeshadoe, #eyelinertutorial, #pinkymakeup, #hudabeautychallenge"
-  - username: "mervinstablog"
+    hashtags: "#9weekspregnant, #kpbakewith12, #arifeo, #ucak9mokkam"
+  - username: "cerenkulahli"
     fullname: >-
-      Merve Özçelik
+      Ceren Külahlı
     location: "Turkey"
-    followers: 25991
-    engagement: 744
-    commentsToLikes: 0.780781
-    id: ck8tcvdwi0txa0j78tuwjg12t
+    followers: 73044
+    engagement: 1438
+    commentsToLikes: 0.762949
+    id: ck8t09eaxra4i0j78w6hhxucx
     verified: false
-    hashtags: "#youtube, #glowyskin, #ootd, #kombin"
-  - username: "farahkleinx"
+    hashtags: "#cekilis, #makyaj, #makyajmalzemesi, #makeup"
+  - username: "ezgihalilbeyoglu"
     fullname: >-
-      Farah Klein
+      Ezgi Kılıç Halilbeyoğlu
     location: "Turkey"
-    followers: 10672
-    engagement: 1118
-    commentsToLikes: 0.109172
-    id: ck8t67ximcl6i0j78aoicw7by
+    followers: 94113
+    engagement: 382
+    commentsToLikes: 0.086351
+    id: ck0u7q0l95g620i19owoo54mk
     verified: false
-    hashtags: "#norvina, #underratedmuas, #glitter, #slave2beauty"
-  - username: "ilaydasurucuu"
-    fullname: >-
-      İlayda Sürücü
-    location: "Turkey"
-    followers: 116720
-    engagement: 423
-    commentsToLikes: 0.230241
-    id: ck5chrszhrc9o0i11xoh37l4u
-    verified: false
-    hashtags: "#5mmigroskadinlargunu"
-  - username: "siavashphtogrph"
-    fullname: >-
-      Фотограф Сияваш
-    location: "Turkey"
-    followers: 9547
-    engagement: 640
-    commentsToLikes: 0.074520
-    id: ck5chs5kord1o0i11qkasejlb
-    verified: false
-    hashtags: "#newcollection, #fashionblogger, #istanbul, #studiophotography"
-  - username: "alpkavasoglu"
-    fullname: >-
-      Alp Kavasoglu
-    location: "Turkey"
-    followers: 92355
-    engagement: 526
-    commentsToLikes: 0.020758
-    id: ck5btv8j7go720i11boqyfyfr
-    verified: true
-    hashtags: "#alpkavasoglu, #tutku"
-  - username: "nebilx"
-    fullname: >-
-      🇹🇷 🇺🇸
-    location: "Turkey"
-    followers: 9263
-    engagement: 902
-    commentsToLikes: 0.113769
-    id: ck5c9va4kc6qp0i11qay9qqjn
-    verified: false
-    hashtags: "#blackwidow, #absolutenewyork, #fashion, #tailoredsuit"
+    hashtags: "#highlights, #glossylids, #highlighter, #makeuplover"
   - username: "kubraemirdogan"
     fullname: >-
-      Kübra Emirdoğan
+      Kübra Emirdoğan
     location: "Turkey"
-    followers: 9352
-    engagement: 495
-    commentsToLikes: 0.301646
+    followers: 9470
+    engagement: 856
+    commentsToLikes: 0.230198
     id: ck14i47ildk6y0i19qteuoi5b
     verified: false
-    hashtags: "#tarteconcealer, #cekilisekatil, #wedding, #kikomilanoturkey"
+    hashtags: "#makeupvideos, #kiko, #bobbibrown, #cekiliszamani"
   - username: "ezgisadeghi"
     fullname: >-
       Ezgi Turna Sadeghi
     location: "Turkey"
-    followers: 11470
-    engagement: 458
-    commentsToLikes: 0.113171
+    followers: 12579
+    engagement: 817
+    commentsToLikes: 0.289011
     id: ck0u7i9nj4t2g0i19vh4d33vt
     verified: false
-    hashtags: "#primer, #makeuplife, #makeupideas, #workingfromhome"
-  - username: "_sassafrass"
+    hashtags: "#workingfromhome, #browgame, #boldbrows, #eyebrigth"
+  - username: "sevinckarhan"
     fullname: >-
-      𝐉𝐄𝐒𝐒𝐈𝐂𝐀 𝐋𝐄𝐄 ♡
+      S.Karhan
     location: "Turkey"
-    followers: 144932
-    engagement: 268
-    commentsToLikes: 0.021871
-    id: ck5c0nfz8thja0i11ni2v3j1d
+    followers: 96218
+    engagement: 310
+    commentsToLikes: 0.097452
+    id: ck8t2f8yvz9lw0j78y5wvw5xk
     verified: false
-    hashtags: "#eotd, #handtiedextensions, #benefitcosmetics, #buxomcosmetics"
+    hashtags: ""
+  - username: "tuncaydemirofficial"
+    fullname: >-
+      Tuncay Demir
+    location: "Turkey"
+    followers: 41502
+    engagement: 321
+    commentsToLikes: 0.140555
+    id: ck9wdvoihhh2h0j78qo7bap50
+    verified: false
+    hashtags: "#turkey, #visavis, #lacasadepapel, #lcdp"
+  - username: "tunadede"
+    fullname: >-
+      TUNA DEDE
+    location: "Turkey"
+    followers: 108000
+    engagement: 479
+    commentsToLikes: 0.039938
+    id: ck14hxj9qcmw80i19vzr04z2l
+    verified: false
+    hashtags: "#ni, #sebi, #show"
+  - username: "gulcanoksuz"
+    fullname: >-
+      ByGulcanOksuz💄🎨
+    location: "Turkey"
+    followers: 76827
+    engagement: 176
+    commentsToLikes: 0.206894
+    id: ck6u6a0xpedtp0j713bu6g6fh
+    verified: false
+    hashtags: "#coronavirus, #day7, #evdekal, #karantinag"
+  - username: "siavashphtogrph"
+    fullname: >-
+      Фотограф Сияваш
+    location: "Turkey"
+    followers: 9767
+    engagement: 604
+    commentsToLikes: 0.092254
+    id: ck5chs5kord1o0i11qkasejlb
+    verified: false
+    hashtags: "#yourcosmetics, #tutorialmakeup, #magazine, #fashionvideos"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top outdoors Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #makeup #fashion #dubai #lifestyle.
+  Find top outdoors Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #outdoors #burjalarab #happy #lifestyle.
 platform: Instagram
 profiles:
-  - username: "mks1_"
+  - username: "lenaluneva_dxb"
     fullname: >-
-      Mohammed Almusabi محمد المصعبي
+      𝐿𝑒𝓃𝒶 𝐿𝓊𝓃𝑒𝓋𝒶
     location: "United Arab Emirates"
-    followers: 85048
-    engagement: 434
-    commentsToLikes: 0.047061
-    id: ck14kei1ap4p30i19bx63dylr
+    followers: 77528
+    engagement: 195
+    commentsToLikes: 0.094442
+    id: ck6u0g8ivfimt0j7184dhbs3n
     verified: false
-    hashtags: "#explore, #nightphotography, #ir, #wonderful"
+    hashtags: "#dubaimodel, #sheinhaul, #burjalarab, #sunsetlover"
+  - username: "measlychocolate"
+    fullname: >-
+      PATTY | DUBAI BLOGGER
+    location: "United Arab Emirates"
+    followers: 26332
+    engagement: 210
+    commentsToLikes: 0.147198
+    id: ck134ulwfy9hn0i19vg6lliup
+    verified: false
+    hashtags: "#rainbowcolors, #indoorshooting, #beachtowel, #colorvibes"
+  - username: "lauravilp"
+    fullname: >-
+      𝕃𝕒𝕦𝕣𝕒 𝕍𝕚𝕝𝕡𝕡𝕦𝕝𝕒
+    location: "United Arab Emirates"
+    followers: 9403
+    engagement: 442
+    commentsToLikes: 0.069611
+    id: ck8t3v5em4m3n0j78mfvuukcg
+    verified: false
+    hashtags: "#breakfast, #covid19, #redswimsuit, #poolday"
   - username: "withyouiwander"
     fullname: >-
       Jᴀɴᴀ & Nᴏᴜʀ | Travel Couple
     location: "United Arab Emirates"
-    followers: 6545
-    engagement: 1315
-    commentsToLikes: 0.158912
+    followers: 6899
+    engagement: 1277
+    commentsToLikes: 0.189582
     id: ck5bx8y07n8nr0i11iu8gmoeg
     verified: false
-    hashtags: "#campingadventures, #travelcaptures, #folktravel, #bohopicnic"
+    hashtags: "#simplyadventure, #hotelview, #newcairo, #modernnomad"
   - username: "lina_mjz"
     fullname: >-
       Lina Mihjazi | لينا محجازي
     location: "United Arab Emirates"
-    followers: 26604
-    engagement: 382
-    commentsToLikes: 0.034299
+    followers: 26498
+    engagement: 351
+    commentsToLikes: 0.039809
     id: ck5q9i5y0b8fd0i11qm56xxv5
     verified: false
-    hashtags: "#cultgaia, #datenight, #blazer, #routine"
-  - username: "mlkellyyy"
-    fullname: >-
-      Mary-Louise Kelly (MLK)
-    location: "United Arab Emirates"
-    followers: 16710
-    engagement: 395
-    commentsToLikes: 0.020587
-    id: ck6ub05f36prx0j711ffrbln3
-    verified: false
-    hashtags: "#glamorous, #starbucks, #addicted, #hiitworkout"
-  - username: "nada__shareef"
-    fullname: >-
-      ندى نوشاد🥀
-    location: "United Arab Emirates"
-    followers: 62448
-    engagement: 837
-    commentsToLikes: 0.014234
-    id: ck0tyeouqmhyp0i19j8y7pxgi
-    verified: false
-    hashtags: "#staysafe, #outdoors, #abayadesigner, #nofoundation"
+    hashtags: "#bourjoisxbambah, #thinkpositive, #improve, #wakeupandmakeup"
   - username: "mimiraadstyle"
     fullname: >-
       Mimi Raad
     location: "United Arab Emirates"
-    followers: 49918
-    engagement: 154
-    commentsToLikes: 0.039899
+    followers: 49987
+    engagement: 109
+    commentsToLikes: 0.043560
     id: ck0w0s99ofsbs0i19n10b9ogy
     verified: false
-    hashtags: "#headtotoe, #besafe, #stripes, #anotherday"
-  - username: "nadiyah.shahab"
+    hashtags: "#memories, #badhairday, #loneliness, #hair"
+  - username: "dubaibikerboys"
     fullname: >-
-      Nadiyah Shahab
+      HISH
     location: "United Arab Emirates"
-    followers: 537507
-    engagement: 236
-    commentsToLikes: 0.004739
-    id: ck5c8kf6e9ogp0i11oanohoh3
+    followers: 54742
+    engagement: 138
+    commentsToLikes: 0.072495
+    id: ck8tbehznvc660j78asystc9v
+    verified: false
+    hashtags: "#kawasaki, #homedelivery, #dbb, #bikewash"
+  - username: "walidphotoz"
+    fullname: >-
+      Walid Ahmad | Photographer
+    location: "United Arab Emirates"
+    followers: 12731
+    engagement: 126
+    commentsToLikes: 0.065421
+    id: ck14i20k4d8uw0i19ydhxgnph
+    verified: false
+    hashtags: "#affinityphoto, #visitbrussels, #mavicpro2, #2017"
+  - username: "gargashmercedesbenz"
+    fullname: >-
+      Gargash Mercedes-Benz
+    location: "United Arab Emirates"
+    followers: 35519
+    engagement: 80
+    commentsToLikes: 0.017741
+    id: ck5q4lw1xphhn0i11ku9bd9te
     verified: true
-    hashtags: "#spa, #outdoor, #dubai, #stayathome"
-  - username: "miiaa_2"
+    hashtags: "#power, #interiors, #ramadanoffers, #virtualshowroom"
+  - username: "adnan_a_khan"
     fullname: >-
-      Mia ll ميا
+      Adnan Khan
     location: "United Arab Emirates"
-    followers: 8542
-    engagement: 178
-    commentsToLikes: 0.009966
-    id: ck5zu7fam1tpc0i14r4j381bh
+    followers: 295195
+    engagement: 1395
+    commentsToLikes: 0.018317
+    id: ck14kwe08rngz0i19c0ayyjxf
     verified: false
-    hashtags: "#blackbeauty, #lipstick, #clothes, #bag"
-  - username: "maharat.bymaha"
-    fullname: >-
-      Maha Ali
-    location: "United Arab Emirates"
-    followers: 7114
-    engagement: 458
-    commentsToLikes: 0.442456
-    id: ck5pw3vozkyxu0i11cu8o4uwl
-    verified: false
-    hashtags: "#dubaipr, #orangewheels, #paid, #lifestylebloggers"
-  - username: "shaima_alqasimi_makeup"
-    fullname: >-
-      Makeup Artist
-    location: "United Arab Emirates"
-    followers: 213798
-    engagement: 146
-    commentsToLikes: 0.019771
-    id: ck14k677ynxke0i190kzrq1vl
-    verified: false
-    hashtags: "#lipstick, #dubaimodel, #fashionmodel, #makeup"
+    hashtags: "#goodtimes, #coronavirus, #speaker, #award"
 ---

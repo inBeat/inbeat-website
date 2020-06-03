@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In France In 2020
 description: >-
-  Find top mothers Instagram influencers in France in 2020. Most popular hashtags: #maman #viedemaman #famille #concours.
+  Find top mothers Instagram influencers in France in 2020. Most popular hashtags: #stayhome #love #parigi #cutcrease.
 platform: Instagram
 profiles:
-  - username: "kidsneversleep"
+  - username: "scottmorton_m"
     fullname: >-
-      Vanessa S.
+      Scott Morton
     location: "France"
-    followers: 25495
-    engagement: 658
-    commentsToLikes: 0.093584
-    id: ck5btvpvegp170i118g1t79tx
+    followers: 57946
+    engagement: 1429
+    commentsToLikes: 0.020871
+    id: ck6u881jbpz160j711dgpfa0d
     verified: false
-    hashtags: "#giuliana, #picoftheday, #amour, #moment"
+    hashtags: "#throwback, #quarantine"
+  - username: "andreea.litescu"
+    fullname: >-
+      Andreea Popa (Litescu )
+    location: "France"
+    followers: 44288
+    engagement: 486
+    commentsToLikes: 0.031491
+    id: ck0w2g4b1o6tm0i19kt960naf
+    verified: false
+    hashtags: "#united, #dontrushchallenge, #unitedbywings"
   - username: "thefrenchfolk"
     fullname: >-
       Margaux Follis
     location: "France"
-    followers: 64367
-    engagement: 253
-    commentsToLikes: 0.071724
+    followers: 66215
+    engagement: 181
+    commentsToLikes: 0.080053
     id: ck139mr0cm2uk0i19wtkvp70a
     verified: false
-    hashtags: "#10daysold, #40weeks, #bumpdate, #39weeks"
-  - username: "marine_roseetjosephine"
+    hashtags: "#sistersquad, #5weeksold, #6weeksold, #hardlife"
+  - username: "adria_pomspitz"
     fullname: >-
-      Marine • Borntobemamma
+      adria_pomspitz
     location: "France"
-    followers: 21263
-    engagement: 278
-    commentsToLikes: 0.240547
-    id: ck5qd9su5uiqi0i112cspdud1
+    followers: 101208
+    engagement: 563
+    commentsToLikes: 0.016654
+    id: ck0ub0tvmdevt0i19inpdwkbb
     verified: false
-    hashtags: "#babylove, #mamanfatigu, #reallifequotes, #goldenhour"
-  - username: "idakakisina"
-    fullname: >-
-      Ida Kakisina
-    location: "France"
-    followers: 5167
-    engagement: 1331
-    commentsToLikes: 0.091183
-    id: ck5hksrrvizbe0i11bmvn7jd8
-    verified: false
-    hashtags: "#firstborn, #momofthree, #motherdaughter, #momgoals"
-  - username: "aurelien_muller_official"
-    fullname: >-
-      Aurelien Muller
-    location: "France"
-    followers: 86810
-    engagement: 435
-    commentsToLikes: 0.022294
-    id: ck5hde9jzmygl0i118dtaqbl3
-    verified: true
-    hashtags: "#style, #ayana, #sundayhugs, #happyvalentinesweekend"
-  - username: "daniellapintto"
-    fullname: >-
-      🍁 D a n i e l l a
-    location: "France"
-    followers: 277343
-    engagement: 622
-    commentsToLikes: 0.012540
-    id: ck6u2xvqcujvl0j712k22rd49
-    verified: false
-    hashtags: "#fils, #giveway, #fizzer, #19juillet2019"
+    hashtags: "#mydogismy, #monchiendamour, #monchien, #jadoremonchien"
   - username: "georgecn_"
     fullname: >-
       George-C. NISTOR🇷🇴
     location: "France"
-    followers: 14629
-    engagement: 1776
-    commentsToLikes: 0.009803
+    followers: 14992
+    engagement: 2004
+    commentsToLikes: 0.010209
     id: ck5bvh7bcjmzt0i116rndx90f
     verified: false
     hashtags: "#stayhome"
-  - username: "asnajda"
+  - username: "yanistalkworldwide"
     fullname: >-
-      Anne-Sophie
+      Yanis Zaoui
     location: "France"
-    followers: 23664
-    engagement: 388
-    commentsToLikes: 0.038444
-    id: ck6u9f2mnx71n0j712ogxi7ht
+    followers: 115973
+    engagement: 711
+    commentsToLikes: 0.007648
+    id: ckaowotop9s9m0i78xee99p8p
     verified: false
-    hashtags: "#homesweethome, #practiseandalliscoming, #travellingkids, #urdhvamukhasvanasana"
-  - username: "beaxgraphie"
+    hashtags: ""
+  - username: "tarafalla"
     fullname: >-
-      BéaXgraphie
+      T A R A 🐉
     location: "France"
-    followers: 2913
-    engagement: 1386
-    commentsToLikes: 0.064805
-    id: ck55k8bs3yq2b0i11ahv8lzf5
+    followers: 28351
+    engagement: 430
+    commentsToLikes: 0.024724
+    id: ck136info6o410i195p20f7n0
     verified: false
-    hashtags: "#chinatown, #fotodome, #hauntinghumans, #magnificomagazine"
+    hashtags: "#nyfw2020, #nyfw, #stayhome, #glowbymimiluzon"
+  - username: "keiona.mitchell"
+    fullname: >-
+      You’re Welcome 💁🏿‍♀️
+    location: "France"
+    followers: 9556
+    engagement: 967
+    commentsToLikes: 0.039167
+    id: ck5bzexnpr0b80i11kpuh7ki6
+    verified: false
+    hashtags: "#goodtime, #hair, #dance, #bluehair"
+  - username: "bahador_wild"
+    fullname: >-
+      Bahadır Ünlü  بهادر اونلو
+    location: "France"
+    followers: 643709
+    engagement: 863
+    commentsToLikes: 0.047084
+    id: ck0w642up6t3w0i199ptb2dia
+    verified: false
+    hashtags: "#happynewyear, #2020, #panda, #wild"
   - username: "mojeh_i"
     fullname: >-
       Mojeh Izadpanah
     location: "France"
-    followers: 54788
-    engagement: 324
-    commentsToLikes: 0.039926
+    followers: 53196
+    engagement: 335
+    commentsToLikes: 0.039958
     id: ck8t93v7qmv9v0j78vk0crpa5
     verified: true
-    hashtags: "#pfw, #makeapromise, #dj, #marmar"
+    hashtags: "#dj, #shabehyalda, #marmar, #eshgh"
 ---

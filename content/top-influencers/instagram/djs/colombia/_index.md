@@ -1,107 +1,107 @@
 ---
 title: Top 10 Djs Instagram Influencers In Colombia In 2020
 description: >-
-  Find top djs Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #quedateencasa #djs #enmicasaescuchandomix899.
+  Find top djs Instagram influencers in Colombia in 2020. Most popular hashtags: #tiktok #repost #tbt #quedateencasa.
 platform: Instagram
 profiles:
   - username: "djsantiagocardona"
     fullname: >-
       SANTIAGO CARDONA
     location: "Colombia"
-    followers: 104221
-    engagement: 158
-    commentsToLikes: 0.032036
+    followers: 105718
+    engagement: 186
+    commentsToLikes: 0.040181
     id: ck6ubktnja62p0j71zvgq9xsn
     verified: false
-    hashtags: "#duroconlam, #nochesdesoledad, #salsarranda, #apollo11"
+    hashtags: "#santamarta, #aleteo, #panama, #multiples"
   - username: "mix89.9"
     fullname: >-
       Mix 89.9 Medellín
     location: "Colombia"
-    followers: 118110
-    engagement: 49
-    commentsToLikes: 0.309388
+    followers: 127202
+    engagement: 54
+    commentsToLikes: 0.487988
     id: ck15shxrld3e70i19kc89omug
     verified: false
-    hashtags: "#tbt, #colores, #quedateencasa, #enmicasa"
-  - username: "davidsarriablackandwhite"
+    hashtags: "#domingo, #etiqueta, #greeicy, #noche"
+  - username: "missangeldj"
     fullname: >-
-      David Sarria
+      Miss Angel
     location: "Colombia"
-    followers: 18595
-    engagement: 274
-    commentsToLikes: 0.070302
-    id: ck5q8prw67du90i11suawtkql
+    followers: 42738
+    engagement: 160
+    commentsToLikes: 0.034590
+    id: ck5q8py1o7evf0i11fapdd1a7
     verified: false
-    hashtags: "#buenosdias, #technodance, #colombia, #cartagenaelectr"
-  - username: "julianmaciasdj"
-    fullname: >-
-      Julian Macias
-    location: "Colombia"
-    followers: 39995
-    engagement: 441
-    commentsToLikes: 0.010985
-    id: ck5pw1i1ykn9y0i11exmx8zpi
-    verified: false
-    hashtags: "#diversidadmusical, #dudu, #yomequedoencasa, #lahumildadprevalecelamagiacrece"
+    hashtags: "#nigeria, #nobody, #justfun, #energiapositiva"
   - username: "maikolelinsoportable"
     fullname: >-
       Maikol El Insoportable
     location: "Colombia"
-    followers: 42498
-    engagement: 88
-    commentsToLikes: 0.247577
+    followers: 42771
+    engagement: 84
+    commentsToLikes: 0.013336
     id: ck5zvsk3t4uf40i141t23qur0
     verified: false
-    hashtags: "#superkike, #djs, #champetachallenge, #unidosporlachampeta"
-  - username: "andreacastillo1213"
+    hashtags: "#mercatondjs, #barranquilla, #atlantico, #djs"
+  - username: "koldomiranda"
     fullname: >-
-      ANDREA CASTILLO🌼
+      Koldo Miranda
     location: "Colombia"
-    followers: 31060
-    engagement: 128
-    commentsToLikes: 0.036073
-    id: ck5q8pnz27d8j0i11hau8iriu
+    followers: 18195
+    engagement: 116
+    commentsToLikes: 0.031993
+    id: ck5c05f3zshaw0i11804vnb4j
     verified: false
-    hashtags: "#colombiaelectr, #tiktok, #tvshow, #energy"
-  - username: "danilo_palavecino"
+    hashtags: "#chefslife, #besafe, #chefstalk, #streetfood"
+  - username: "tornall"
     fullname: >-
-      Danilo Palavecino 🇨🇱🇩🇴
+      TORNALL 🇨🇴
     location: "Colombia"
-    followers: 7729
-    engagement: 575
-    commentsToLikes: 0.071128
-    id: ck5zzswo0cd8z0i14ie0lfgul
+    followers: 41593
+    engagement: 772
+    commentsToLikes: 0.017085
+    id: ck6ubuheybs9x0j713u43xdkg
     verified: false
-    hashtags: "#blackcoffee, #diadelamujer, #djhouse, #houseparatodxs"
-  - username: "l.a.s._dancer_zuulmavp"
+    hashtags: "#dembow, #trakor, #anrev, #jbalvin"
+  - username: "djchocobeats"
     fullname: >-
-      𝙕𝙐𝙇𝙈𝘼 𝙑𝙄𝙇𝙇𝘼𝙈𝙄𝙇
+      Dj Choco Beats
     location: "Colombia"
-    followers: 2980
-    engagement: 947
-    commentsToLikes: 0.246817
-    id: ck5bwqp4bm8170i11dd1qnwfl
+    followers: 5448
+    engagement: 410
+    commentsToLikes: 0.107242
+    id: ck14lpz4pvwn70i192wbei7la
     verified: false
-    hashtags: "#ideclarewar, #yourself, #bgdancerz, #jquiles"
-  - username: "eli_rojas_422"
+    hashtags: "#viral, #realdj, #bands, #real"
+  - username: "bashdj"
     fullname: >-
-      Eli Rojas
+      DJ BASH 🤘🏼🕶
     location: "Colombia"
-    followers: 31686
-    engagement: 180
-    commentsToLikes: 0.045854
-    id: ck1355k1iztis0i19modiycp1
+    followers: 19000
+    engagement: 334
+    commentsToLikes: 0.069920
+    id: ck0w3fuant6sz0i19rgmp3mrg
     verified: false
-    hashtags: "#stayhome, #filmmaker, #whatmagazine, #neonlights"
-  - username: "starlitefestival"
+    hashtags: "#loscangris, #guatemala, #repost"
+  - username: "jcarciladj"
     fullname: >-
-      Starlite Catalana Occidente
+      JC Arcila
     location: "Colombia"
-    followers: 44922
-    engagement: 92
-    commentsToLikes: 0.028056
-    id: ck0tt99671p6q0i19jxc1tiv4
-    verified: true
-    hashtags: "#cadad, #dance, #lounge, #djsessions"
+    followers: 29476
+    engagement: 364
+    commentsToLikes: 0.053505
+    id: ck6ubkok8a5710j71ys10q0br
+    verified: false
+    hashtags: "#lanuevaescuela, #guarachando, #tribalhouse, #zapateonation"
+  - username: "elpoperap"
+    fullname: >-
+      el pope .the white choco
+    location: "Colombia"
+    followers: 17662
+    engagement: 227
+    commentsToLikes: 0.077111
+    id: ck55nijvf6a880i11c2jh3lit
+    verified: false
+    hashtags: "#ellobo, #elpope, #quedateencasa"
 ---

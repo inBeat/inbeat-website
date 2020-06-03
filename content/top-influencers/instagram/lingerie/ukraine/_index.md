@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top lingerie Instagram influencers in Ukraine in 2020. Most popular hashtags: #portraitphotography #lingerie #art #portrait.
+  Find top lingerie Instagram influencers in Ukraine in 2020. Most popular hashtags: #lingerie #stayathome #stayhome #fashion.
 platform: Instagram
 profiles:
   - username: "_andrestep"
     fullname: >-
       Покажу тебя настоящей.
     location: "Ukraine"
-    followers: 3063
-    engagement: 1402
-    commentsToLikes: 0.059982
+    followers: 3074
+    engagement: 1463
+    commentsToLikes: 0.058759
     id: ck5q3midklfzk0i11smm6k0ef
     verified: false
-    hashtags: "#vscoukrainer, #artofportraitphotography, #kievlife, #kievgirl"
+    hashtags: "#doports, #artofportraitphotography, #portrait, #discoverportrait"
   - username: "m_yarovaya"
     fullname: >-
       Marina Yarovaya
     location: "Ukraine"
-    followers: 30818
-    engagement: 491
-    commentsToLikes: 0.011042
+    followers: 34827
+    engagement: 484
+    commentsToLikes: 0.008559
     id: ck0w6wr7wamn80i19j56d4e40
     verified: false
-    hashtags: "#portraitphotography, #moonvulture, #etczine, #fashion"
+    hashtags: "#couple, #35mm, #trash, #love"
+  - username: "anastasiya_morgul"
+    fullname: >-
+      Anastasiya
+    location: "Ukraine"
+    followers: 2333
+    engagement: 911
+    commentsToLikes: 0.057364
+    id: ck5q3moeilgw00i114thur882
+    verified: false
+    hashtags: "#fliptheswitch, #flipchallenge, #flip, #stayhome"
   - username: "angelina__petrova"
     fullname: >-
       International glamour model
     location: "Ukraine"
-    followers: 111958
-    engagement: 171
-    commentsToLikes: 0.020870
+    followers: 109731
+    engagement: 158
+    commentsToLikes: 0.020994
     id: ck6tzd16i8zki0j7130z3kcoh
     verified: true
-    hashtags: "#lucern, #stayhome, #selfisolation"
-  - username: "janna_evstafeva"
+    hashtags: "#stayathome"
+  - username: "tania_dudu"
     fullname: >-
-      ЖАННА ЕВСТАФЬЕВА
+      Personal & Fashion Stylist
     location: "Ukraine"
-    followers: 23080
-    engagement: 399
-    commentsToLikes: 0.061610
-    id: ck5q215zfdrl40i11fb4b1tck
+    followers: 40692
+    engagement: 398
+    commentsToLikes: 0.056759
+    id: ck5px31rzpusm0i11q1dyc8bn
     verified: false
-    hashtags: "#frankfurt, #2020, #firenze, #sunlight"
-  - username: "a.reshetnyak"
+    hashtags: "#stayathome, #needtochange, #takeit, #happybirthday"
+  - username: "iravakhitova"
     fullname: >-
-      TWERK IT • KHARKIV • ANASTASIA
+      Ира Вахитова, SMM
     location: "Ukraine"
-    followers: 12842
-    engagement: 701
-    commentsToLikes: 0.017471
-    id: ck5hrpzlcva960i11ar7g7t53
+    followers: 100198
+    engagement: 428
+    commentsToLikes: 0.019867
+    id: ck6tv2hdjjsqj0j71ech0ksmj
     verified: false
-    hashtags: "#ukraine, #mariemur, #shoot, #lingerie"
+    hashtags: "#sunset, #gudauri, #quarantinelife, #lingerie"
+  - username: "dashatm19"
+    fullname: >-
+      ❤️Daria Hromenko❤️
+    location: "Ukraine"
+    followers: 70876
+    engagement: 440
+    commentsToLikes: 0.052536
+    id: ck9halr1ld09f0j78ol4a7n1a
+    verified: false
+    hashtags: "#cabaretmascara, #offtropic, #mood, #arianagrandefan"
   - username: "snizhana_lebid"
     fullname: >-
       Snizhana 💎
     location: "Ukraine"
-    followers: 2526
-    engagement: 2107
-    commentsToLikes: 0.041705
+    followers: 2494
+    engagement: 2172
+    commentsToLikes: 0.041255
     id: ck5ce72a2kggq0i11472tlqtp
     verified: false
-    hashtags: "#fashion, #photo, #follow4follow, #enjoying"
-  - username: "rynanoir"
+    hashtags: "#insta, #makeup, #jasminelingerie, #beauty"
+  - username: "lena.buriak"
     fullname: >-
-      Ryna
+      Model Lena Buriak
     location: "Ukraine"
-    followers: 29351
-    engagement: 113
-    commentsToLikes: 0.016339
-    id: ck6tyt4c15p2v0j716leuihbf
+    followers: 22376
+    engagement: 219
+    commentsToLikes: 0.060121
+    id: ckaos5r5yq7rc0i78x7vid6k7
     verified: false
-    hashtags: "#photographerukraine, #ukrainianphotographer, #portraitphotography, #photographermoscow"
-  - username: "lerievva"
+    hashtags: "#modelmilano, #modelingwork, #ladyinred, #swimsuit"
+  - username: "_moin_chan_"
     fullname: >-
-      Model Actress Paris Kiev
+      Moin cosplay
     location: "Ukraine"
-    followers: 26057
-    engagement: 243
-    commentsToLikes: 0.022821
-    id: ck5ce5mzjkdci0i115uglst2t
+    followers: 14944
+    engagement: 368
+    commentsToLikes: 0.025752
+    id: ck6twixxls98x0j71gx2advet
     verified: false
-    hashtags: "#freakymoods, #modeleparisienne, #jetaimeparis, #valentines"
-  - username: "ania_kosyakevich"
-    fullname: >-
-      🦋𝓣𝓿𝓸𝔂𝓪 𝓐𝓷𝔂𝓪🦋
-    location: "Ukraine"
-    followers: 39311
-    engagement: 126
-    commentsToLikes: 0.116123
-    id: ck5q9wyupdfm30i11eezfb52d
-    verified: false
-    hashtags: "#followforfollowback, #lingerie, #beautiful, #giveaway"
-  - username: "nataliaa_semenyuk"
-    fullname: >-
-      
-    location: "Ukraine"
-    followers: 7616
-    engagement: 7481
-    commentsToLikes: 0.136886
-    id: ck6tn33nk91c80j71rlbbxlgi
-    verified: false
-    hashtags: "#liketime, #like"
+    hashtags: "#fatego, #lingerie, #jojopart5, #twitter"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Chicago In 2020
 description: >-
-  Find top travel Instagram influencers in Chicago in 2020. Most popular hashtags: #chicago #chicagophotographer #portraitpage #artofvisuals.
+  Find top travel Instagram influencers in Chicago in 2020. Most popular hashtags: #travelchicago #chicagotravel #chitown #chitecture.
 platform: Instagram
 profiles:
   - username: "miya.daigle"
     fullname: >-
       M I Y Λ   D Λ I G L E
     location: "United States"
-    followers: 11432
-    engagement: 402
-    commentsToLikes: 0.041918
+    followers: 11759
+    engagement: 385
+    commentsToLikes: 0.038103
     id: ck0tz11fxoqag0i19ksc5o67c
     verified: false
-    hashtags: "#coffeeshopcorners, #natgeo, #theprettycities, #goopgo"
-  - username: "mazenseddick"
+    hashtags: "#chasinglight, #earthday, #coffeeshopcorners, #californiadreaming"
+  - username: "rositapischiutta"
     fullname: >-
-      Mazen Seddick
+      Sita
     location: "United States"
-    followers: 2618
-    engagement: 2366
-    commentsToLikes: 0.077466
-    id: ck0tujfv37foa0i19l0lml1u7
+    followers: 12470
+    engagement: 509
+    commentsToLikes: 0.074255
+    id: ck8tdhyew3dt20j78p06wxgvs
     verified: false
-    hashtags: "#diversechi3, #morrisoncolorado, #scotland, #milwaukeepublicmarket"
-  - username: "tjdoheny"
+    hashtags: "#utah, #venezialasvegas, #travelawesome, #marseillecity"
+  - username: "_dylanmartinez"
     fullname: >-
-      TJ Doheny
+      Dylan Martinez
     location: "United States"
-    followers: 6495
-    engagement: 845
-    commentsToLikes: 0.035536
-    id: ck5py05wdtpav0i11v4pstwll
-    verified: true
-    hashtags: "#teagardensbondi, #sports, #chasingdreams, #opportunities"
-  - username: "stevecompos"
-    fullname: >-
-      Steve Compos 🔹
-    location: "United States"
-    followers: 41929
-    engagement: 105
-    commentsToLikes: 0.026717
-    id: ck6u4c9lh2wkw0j71wrj5ysbb
+    followers: 23109
+    engagement: 536
+    commentsToLikes: 0.024325
+    id: ck55nedke615t0i111f7m3106
     verified: false
-    hashtags: "#love, #collide, #relax, #westcoast"
-  - username: "katiemorleystyle"
+    hashtags: "#artweek, #plastica, #dogs, #fanart"
+  - username: "lechicdiaries"
     fullname: >-
-      Katie | Lifestyle by Katie
+      L E  C H I C  D I A R I E S
     location: "United States"
-    followers: 6669
-    engagement: 534
-    commentsToLikes: 0.250391
-    id: ck55jvwh2xvmw0i11w09qrp7p
+    followers: 11237
+    engagement: 751
+    commentsToLikes: 0.044291
+    id: ck5buaznnhgsu0i11zx80khhu
     verified: false
-    hashtags: "#spanxstyle, #complimentary, #walltraveled, #pinkeverything"
-  - username: "brianahch"
+    hashtags: "#beauty, #makeupartist, #makeuplover, #chicagofashion"
+  - username: "kev88_"
     fullname: >-
-      Brianah Christianson
+      🅚🅔🅥🅘🅝
     location: "United States"
-    followers: 40946
-    engagement: 421
-    commentsToLikes: 0.025577
-    id: ck15r8q8m6plc0i19wj1tjzom
+    followers: 2464
+    engagement: 1591
+    commentsToLikes: 0.175506
+    id: ck6trtdra0zbn0j71h1ypva78
     verified: false
-    hashtags: "#redhairdontcare, #gingerlife, #girly, #clovers"
+    hashtags: "#gantrygram, #oculusnyc, #pampers, #travelchicago"
   - username: "ray_gerardd"
     fullname: >-
       Raymond Gerard
     location: "United States"
-    followers: 24873
-    engagement: 597
-    commentsToLikes: 0.026000
+    followers: 24644
+    engagement: 589
+    commentsToLikes: 0.025551
     id: ck13af8p0q3x60i19vk7yofrk
     verified: false
-    hashtags: "#loadedlenses, #igerschicago, #chiarchitecture, #adrenaline"
-  - username: "jakevdamato"
+    hashtags: "#fall, #waves, #streetclassic, #streetvision"
+  - username: "magesticsky"
     fullname: >-
-      Jake Vincent D'Amato
+      Judith Salstone
     location: "United States"
-    followers: 105300
-    engagement: 115
-    commentsToLikes: 0.095638
-    id: ck5pvgf50hr7t0i11sl150c4c
+    followers: 29618
+    engagement: 331
+    commentsToLikes: 0.025333
+    id: ck14hdze89uef0i192y98qxhr
     verified: false
-    hashtags: "#african, #kawasanfalls, #nycprimeshot, #exploresandiego"
+    hashtags: "#naturelife, #wildlife, #magnificentmile, #stayathome"
   - username: "gizguz"
     fullname: >-
       Gizem Guzelsoy | NYC + Travel
     location: "United States"
-    followers: 2736
-    engagement: 1263
-    commentsToLikes: 0.061625
+    followers: 4127
+    engagement: 1103
+    commentsToLikes: 0.073256
     id: ck6ue6xphp64s0j71dbc53b54
     verified: false
-    hashtags: "#lasvegaslife, #islamujeresmexico, #artistsoninstagram, #travellosangeles"
+    hashtags: "#nycthroughmywindow, #grandcenote, #cuba, #museumart"
   - username: "itskaykayleigh"
     fullname: >-
       Kayleigh Li
     location: "United States"
-    followers: 69915
-    engagement: 200
-    commentsToLikes: 0.050565
+    followers: 70659
+    engagement: 208
+    commentsToLikes: 0.038715
     id: ck13b0sglt4np0i193lqgdlor
     verified: false
-    hashtags: "#revolve, #revolveme, #away, #awayluggage"
+    hashtags: "#analuisany, #giveaway, #chicago, #jewlery"
+  - username: "cedra_alatassi"
+    fullname: >-
+      Cedra Alatassi |سيدرا الأتاسي
+    location: "United States"
+    followers: 242367
+    engagement: 346
+    commentsToLikes: 0.029648
+    id: ck13dc4xq4peg0i19tdd5x5i6
+    verified: false
+    hashtags: "#newhairwhodis"
 ---

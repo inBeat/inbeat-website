@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Chile In 2020
 description: >-
-  Find top mothers Instagram influencers in Chile in 2020. Most popular hashtags: #chile #coronavirus #love #quedateencasa.
+  Find top mothers Instagram influencers in Chile in 2020. Most popular hashtags: #mothersday #cuarentena #diadelamadre #quedateencasa.
 platform: Instagram
 profiles:
-  - username: "benjamiran"
+  - username: "frangibar"
     fullname: >-
-      BENJAMIN MIRANDA😜
+      Ultra Trail Runner 🇨🇱
     location: "Chile"
-    followers: 17943
-    engagement: 1444
-    commentsToLikes: 0.054251
-    id: ck0vxd6gyyb8f0i190i6j34ss
+    followers: 41662
+    engagement: 358
+    commentsToLikes: 0.064639
+    id: ck0vxa36mxwuk0i19humtavmp
     verified: false
-    hashtags: "#dollypartonmemechallenge, #maitencillobeach, #maite, #party"
+    hashtags: "#lagunapiuquenes, #pandemia, #keepdreaming, #budapest"
+  - username: "geraldinegonzam"
+    fullname: >-
+      Gege González
+    location: "Chile"
+    followers: 61921
+    engagement: 605
+    commentsToLikes: 0.033948
+    id: ck0vxdhteycvs0i19zhrdmmqz
+    verified: false
+    hashtags: "#quedateencasa, #love, #girlpower, #mood"
+  - username: "palomasurf"
+    fullname: >-
+      ➰Paloma Santos➰
+    location: "Chile"
+    followers: 16358
+    engagement: 814
+    commentsToLikes: 0.031140
+    id: ck5hjnd1fgxhn0i110jmvpkne
+    verified: false
+    hashtags: "#ecofriendly, #painting, #hapinness, #style"
   - username: "charliecuevas"
     fullname: >-
       Charlie Cuevas
     location: "Chile"
-    followers: 33181
-    engagement: 162
-    commentsToLikes: 0.076946
+    followers: 33304
+    engagement: 142
+    commentsToLikes: 0.074342
     id: ck55p6i549wzp0i11ciqpp4he
     verified: false
-    hashtags: "#performance, #hairdresser, #lamejorcompa, #virus"
+    hashtags: "#informados, #flight, #coronahair, #thursday"
+  - username: "carmencabezasphoto"
+    fullname: >-
+      Carmen Cabezas
+    location: "Chile"
+    followers: 52924
+    engagement: 246
+    commentsToLikes: 0.037839
+    id: ck0w5h3w23map0i19909x98a5
+    verified: false
+    hashtags: "#quedateencasa, #nordichome, #bohemiandecor, #selfportrait"
   - username: "buenasmamitascl"
     fullname: >-
       H E L G A   O R T I Z ®️
     location: "Chile"
-    followers: 17223
-    engagement: 136
-    commentsToLikes: 0.068082
+    followers: 17319
+    engagement: 124
+    commentsToLikes: 0.109236
     id: ck14k6koknzjl0i19v2paxgs1
     verified: false
-    hashtags: "#mommysboy, #baby, #maternidadreal, #padres"
-  - username: "carolazow"
+    hashtags: "#pandemia, #embarazo, #paseo, #cuidadofamiliar"
+  - username: "memevg"
     fullname: >-
-      Caro Lazo
+      Meme
     location: "Chile"
-    followers: 2722
-    engagement: 771
-    commentsToLikes: 0.100988
-    id: ck133yqseuefm0i1981u3k4z9
+    followers: 101801
+    engagement: 212
+    commentsToLikes: 0.018331
+    id: ck5zo0xkipj4a0i14m07dse39
     verified: false
-    hashtags: "#heart, #free, #yogaparatodos, #health"
+    hashtags: "#secanso, #enjoy, #homemade, #goldenhour"
+  - username: "velyn_mr"
+    fullname: >-
+      EVELYN...🎼&♌
+    location: "Chile"
+    followers: 4935
+    engagement: 4209
+    commentsToLikes: 0.331726
+    id: ckaow6v4t7oan0i78dg02nlqo
+    verified: false
+    hashtags: "#libelula, #insectos, #love, #dreams"
   - username: "loretocortes"
     fullname: >-
-      Loreto Cortés
+      Loreto Cortés
     location: "Chile"
-    followers: 7469
-    engagement: 531
-    commentsToLikes: 0.053395
+    followers: 8959
+    engagement: 483
+    commentsToLikes: 0.050616
     id: ck5q2dvvqfiug0i11siblybyp
     verified: false
-    hashtags: "#entrenamientofuncional, #chiledesperto, #lamarchamasgrandedechile, #repost"
-  - username: "christianzapata.cl"
+    hashtags: "#pilates, #kundaliniyoga, #iyengaryoga, #mindfullness"
+  - username: "simonettifiorella"
     fullname: >-
-      Cirographia
+      Simona Quintana Silva
     location: "Chile"
-    followers: 16535
-    engagement: 752
-    commentsToLikes: 0.016191
-    id: ck5c395zlyu3i0i11c31iqfpa
+    followers: 40776
+    engagement: 627
+    commentsToLikes: 0.021475
+    id: ck5c4dkhu14jc0i114t9xfbti
     verified: false
-    hashtags: "#streetstyle, #street, #gira, #moon"
-  - username: "marcobor"
-    fullname: >-
-      Marco Bor
-    location: "Chile"
-    followers: 35135
-    engagement: 689
-    commentsToLikes: 0.003100
-    id: ck5zmr09wn2cv0i14hwmkclea
-    verified: false
-    hashtags: "#lunarnewyear, #workoutpartner, #sundayfunday, #furbaby"
-  - username: "santiagodechile.cl"
-    fullname: >-
-      Santiago de Chile
-    location: "Chile"
-    followers: 136521
-    engagement: 213
-    commentsToLikes: 0.029815
-    id: ck0w4xamx0v6u0i198jkcxlz0
-    verified: false
-    hashtags: "#skyporn, #2020, #light, #sunsets"
-  - username: "patagonjournal"
-    fullname: >-
-      Patagon Journal
-    location: "Chile"
-    followers: 32350
-    engagement: 162
-    commentsToLikes: 0.010106
-    id: ck55jxdyqxzoz0i11dm40oke8
-    verified: false
-    hashtags: "#medioambientechile, #explornature, #venecia, #birdsofpatagonia"
-  - username: "steevens_benjamin"
-    fullname: >-
-      Steevens Benjamin
-    location: "Chile"
-    followers: 5944
-    engagement: 720
-    commentsToLikes: 0.076627
-    id: ck5bx6bj3n3540i11sjiurxsm
-    verified: false
-    hashtags: "#boredinthehouse, #qu, #perrobomba, #covid"
+    hashtags: "#santiago, #nature, #terukinharules, #restart"
 ---

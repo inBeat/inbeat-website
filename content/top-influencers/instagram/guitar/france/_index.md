@@ -1,107 +1,107 @@
 ---
 title: Top 10 Guitar Instagram Influencers In France In 2020
 description: >-
-  Find top guitar Instagram influencers in France in 2020. Most popular hashtags: #gibson #music #guitar #guitarsdaily.
+  Find top guitar Instagram influencers in France in 2020. Most popular hashtags: #guitarist #confinement #music #stayathome.
 platform: Instagram
 profiles:
-  - username: "yasmine_taleb.off"
-    fullname: >-
-      Yasmine Taleb
-    location: "France"
-    followers: 22982
-    engagement: 536
-    commentsToLikes: 0.022028
-    id: ck14jx57ammt90i19vic7p6sd
-    verified: false
-    hashtags: "#photographie, #manifestationalgerie, #libert, #avion"
   - username: "timpierceguitar"
     fullname: >-
       Tim Pierce Guitar
     location: "France"
-    followers: 33094
-    engagement: 741
-    commentsToLikes: 0.026230
+    followers: 33570
+    engagement: 742
+    commentsToLikes: 0.026237
     id: ck5zrqrvrx3cs0i145c7vpdhu
     verified: false
-    hashtags: "#johnpaternoproducer, #studiomusician, #studioguitarplayer, #rickenbacker"
-  - username: "samplaysmusic_"
+    hashtags: "#jakereeddrummer, #telecaster, #johnpaterno, #blairsinta"
+  - username: "yasmine_taleb.off"
     fullname: >-
-      Sam | Guitar Player
+      Yasmine Taleb
     location: "France"
-    followers: 27818
-    engagement: 342
-    commentsToLikes: 0.062128
-    id: ck0w6238u6jwe0i19cx56g1f2
+    followers: 24397
+    engagement: 544
+    commentsToLikes: 0.027028
+    id: ck14jx57ammt90i19vic7p6sd
     verified: false
-    hashtags: "#abbeyroad, #electricguitars, #pinkfloyd, #slash"
+    hashtags: "#women, #bluesky, #amazighgirl, #20avril"
+  - username: "acbeegees"
+    fullname: >-
+      Stephen Hendry
+    location: "France"
+    followers: 2209
+    engagement: 1492
+    commentsToLikes: 0.082892
+    id: ckapcb8xn34et0i78jdhwz556
+    verified: false
+    hashtags: "#emonight, #musican, #stayhome, #staysafe"
+  - username: "whilewild"
+    fullname: >-
+      WhileWild
+    location: "France"
+    followers: 25654
+    engagement: 359
+    commentsToLikes: 0.035440
+    id: ck601hth4fimg0i14lynjxqfr
+    verified: false
+    hashtags: "#hawaiistagram, #malamuteaddicts, #spiaggia, #enfermera"
+  - username: "thibautgarciaguitar"
+    fullname: >-
+      Thibaut Garcia
+    location: "France"
+    followers: 8328
+    engagement: 777
+    commentsToLikes: 0.013828
+    id: ck5c1mk2wvhf40i11w1txui76
+    verified: false
+    hashtags: "#preparation, #devisee, #matinee, #smile"
+  - username: "pablocamila"
+    fullname: >-
+      Pablo Hurtado
+    location: "France"
+    followers: 78921
+    engagement: 199
+    commentsToLikes: 0.021697
+    id: ck5hdeyqun2nv0i11ue9onze3
+    verified: true
+    hashtags: "#trashthedressingroom, #kidsedition, #bubbles, #hollowbody"
   - username: "srnlucien"
     fullname: >-
       Lucien Saurin
     location: "France"
-    followers: 2525
-    engagement: 1425
-    commentsToLikes: 0.046077
+    followers: 2542
+    engagement: 1307
+    commentsToLikes: 0.059313
     id: ck5q5o7dqtrki0i11mr6yw49p
     verified: false
-    hashtags: "#canonae1, #mika, #guitar, #jealousy"
-  - username: "mathyas_vj"
+    hashtags: "#fgjam2, #canonae1, #mika, #guitar"
+  - username: "thomas.dutronc"
     fullname: >-
-      MathVj
+      Thomas Dutronc
     location: "France"
-    followers: 2339
-    engagement: 1264
-    commentsToLikes: 0.047610
-    id: ck5zz3aybazzv0i14wcl57o73
-    verified: false
-    hashtags: "#spot, #resterconfiner, #lerocherdepalmer, #cabaret"
-  - username: "franck_semonin"
-    fullname: >-
-      Franck Sémonin
-    location: "France"
-    followers: 12515
-    engagement: 800
-    commentsToLikes: 0.048697
-    id: ck14ipkrogl8w0i191sp81pb7
-    verified: false
-    hashtags: "#marlonbrando, #prostatecancer, #duo, #myjob"
+    followers: 70907
+    engagement: 445
+    commentsToLikes: 0.042471
+    id: ck5q641vyvv360i114jfjezi1
+    verified: true
+    hashtags: "#lisaroze, #jacquesdutronc, #parismatch, #yannorhan"
   - username: "sr.guitar"
     fullname: >-
       Sascha
     location: "France"
-    followers: 28932
-    engagement: 1450
-    commentsToLikes: 0.015724
+    followers: 31580
+    engagement: 865
+    commentsToLikes: 0.018494
     id: ck5q94gcq9ch50i112ph4xb0y
     verified: false
-    hashtags: "#guitarpedals, #instagramguitar, #guitarsolo, #slash"
-  - username: "dimitris_isaris"
+    hashtags: "#noguitarpick, #joyofirebrand, #guitarshredding, #muse"
+  - username: "samplaysmusic_"
     fullname: >-
-      🎻🎶Dimitris Filmusic🎶🎻
+      Sam | Guitar Player
     location: "France"
-    followers: 6136
-    engagement: 558
-    commentsToLikes: 0.018437
-    id: ck15rjzhp8an30i1997wgpw8d
+    followers: 31605
+    engagement: 428
+    commentsToLikes: 0.048547
+    id: ck0w6238u6jwe0i19cx56g1f2
     verified: false
-    hashtags: "#musicjam, #theatro, #baliphotoshoots, #traveller"
-  - username: "amelie_lgf"
-    fullname: >-
-      Amélie 🌸
-    location: "France"
-    followers: 2720
-    engagement: 1077
-    commentsToLikes: 0.147644
-    id: ck6tr0d1nw0m30j71bqgs0zdh
-    verified: false
-    hashtags: "#child, #musicienne, #sistersmusic, #justehumain"
-  - username: "lauracoxofficial"
-    fullname: >-
-      Laura Cox Official
-    location: "France"
-    followers: 133100
-    engagement: 322
-    commentsToLikes: 0.015930
-    id: ck5q9n36tbyb30i110nzzfjcr
-    verified: true
-    hashtags: "#freakingoutloud, #verycords, #slavetorocknroll, #showcase"
+    hashtags: "#marshallamps, #nirvanafan, #riffraff, #acousticcover"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Greece In 2020
 description: >-
-  Find top health Instagram influencers in Greece in 2020. Most popular hashtags: #love #stayhome #menoumespiti #style.
+  Find top health Instagram influencers in Greece in 2020. Most popular hashtags: #healthyfood #mothersday #flowers #morningroutine.
 platform: Instagram
 profiles:
   - username: "mariageorgakaina"
     fullname: >-
       𝕄𝕒𝕣𝕚𝕒 𝔾𝕖𝕠𝕣𝕘𝕒𝕜𝕒𝕚𝕟𝕒 🎧🌟
     location: "Greece"
-    followers: 9748
-    engagement: 550
-    commentsToLikes: 0.041356
+    followers: 10367
+    engagement: 577
+    commentsToLikes: 0.247533
     id: ck15recy07ii50i19kkd5lndf
     verified: false
-    hashtags: "#happybirthday, #dowhatmakesyouhappy, #wellness, #sundayfunday"
-  - username: "anthivoulgari"
+    hashtags: "#mydaughter, #blessings, #safety, #playtime"
+  - username: "katiazygouli"
     fullname: >-
-      Anthi Voulgari
+      Katia Zygouli
     location: "Greece"
-    followers: 24089
-    engagement: 496
-    commentsToLikes: 0.018531
-    id: ck5zkeso4jcmz0i14u294cwhq
+    followers: 300054
+    engagement: 645
+    commentsToLikes: 0.007786
+    id: ck5q8m8316vgz0i114eun6fi9
     verified: false
-    hashtags: "#infinitespark, #sparkdelight, #tvopen, #openbeyondtv"
+    hashtags: "#whenthelightisperfect, #bodycare, #playtime, #nightout"
+  - username: "athinamon.fit"
+    fullname: >-
+      𝓐𝓽𝓱𝓲𝓷𝓪 𝓜𝓸𝓷𝓽𝔃𝓸𝓵𝓲
+    location: "Greece"
+    followers: 23810
+    engagement: 274
+    commentsToLikes: 0.048555
+    id: ck9hbb0pyg38a0j784rx2pjmu
+    verified: false
+    hashtags: "#onamission, #beyourownboss, #bosslady, #herbalifetea"
   - username: "alexis_panagiotis"
     fullname: >-
       Alexis Panagiotis 🇬🇷
     location: "Greece"
-    followers: 6355
-    engagement: 751
-    commentsToLikes: 0.020771
+    followers: 6319
+    engagement: 722
+    commentsToLikes: 0.020764
     id: ck13a81msp32p0i19kparu4gv
     verified: false
-    hashtags: "#tbt, #quarantinelife"
+    hashtags: "#quarantinelife, #tbt"
+  - username: "charisyourpersonaltrainer"
+    fullname: >-
+      Charis - Greece 💪
+    location: "Greece"
+    followers: 41226
+    engagement: 353
+    commentsToLikes: 0.019675
+    id: ckap0pbvdradn0i78fb9dbbtf
+    verified: false
+    hashtags: "#outdoor, #homeworkout, #onlinetraining, #abs"
   - username: "thehealthycookblog"
     fullname: >-
       Evi Skoura 🇬🇷
     location: "Greece"
-    followers: 9809
-    engagement: 589
-    commentsToLikes: 0.124152
+    followers: 11430
+    engagement: 561
+    commentsToLikes: 0.199968
     id: ck8szk115oqri0j781nmk3c7g
     verified: false
-    hashtags: "#isolationdays, #cakelife, #homemade, #greek"
+    hashtags: "#veganfood, #pastarecipe, #lockdown2020, #quinoa"
+  - username: "letstreatourselves.gr"
+    fullname: >-
+      Eugenia Trousa
+    location: "Greece"
+    followers: 8488
+    engagement: 674
+    commentsToLikes: 0.064428
+    id: ckaotmq80wjjv0i78j7t9470g
+    verified: false
+    hashtags: "#moodylight, #sugarfree, #breakfastlovers, #healthycuisines"
   - username: "charalamboshadjiprodromou"
     fullname: >-
       Charalambos Hadjiprodromou
     location: "Greece"
-    followers: 16320
-    engagement: 1188
-    commentsToLikes: 0.004221
+    followers: 15850
+    engagement: 1125
+    commentsToLikes: 0.003659
     id: ck6txhmq4xvys0j7150li7nql
     verified: false
-    hashtags: "#bad, #foodlover, #masterchef, #love"
-  - username: "gavaskantira"
+    hashtags: "#new, #couple, #healthyliving, #masterchefgr"
+  - username: "vkikilias"
     fullname: >-
-      Georgia Avaskantira
+      Vassilis Kikilias
     location: "Greece"
-    followers: 11851
-    engagement: 899
-    commentsToLikes: 0.014690
-    id: ck6tiomp314du0j71hv1hp960
-    verified: false
-    hashtags: "#walkinthelight, #photoshooting, #lovequotes, #vitamind"
-  - username: "filip_baf"
+    followers: 81462
+    engagement: 351
+    commentsToLikes: 0.015996
+    id: ckap9cnv3s4bw0i78si4luu8c
+    verified: true
+    hashtags: "#mothersday, #masks, #antenna, #greece"
+  - username: "marianna_ned"
     fullname: >-
-      Filippakos Baf
+      Marianna Ned
     location: "Greece"
-    followers: 7132
-    engagement: 1162
-    commentsToLikes: 0.013834
-    id: ck6u04oivdli70j7103jgu7ht
+    followers: 13616
+    engagement: 573
+    commentsToLikes: 0.027285
+    id: ckapceke73hz70i78jtw4o5rq
     verified: false
-    hashtags: "#bcn, #dubjam, #ridealltime, #stayhome"
-  - username: "puremomentum"
-    fullname: >-
-      Dr. Αngela Spanou, Παθολόγος
-    location: "Greece"
-    followers: 18021
-    engagement: 364
-    commentsToLikes: 0.022456
-    id: ck8sx9s1mgmjz0j78oulgf7c6
-    verified: false
-    hashtags: "#discovergreece, #greekfood, #foodlover, #rainbow"
-  - username: "maria_ki_"
-    fullname: >-
-      Maria Kiourtsidou
-    location: "Greece"
-    followers: 16594
-    engagement: 725
-    commentsToLikes: 0.572221
-    id: ck5znqpuhoza20i14z5p36rsl
-    verified: false
-    hashtags: "#oriflamegreece, #flowers, #makeuplife, #girl"
-  - username: "michael.stav7"
-    fullname: >-
-      ＳＴＡＶ. (Michael Stavrou)
-    location: "Greece"
-    followers: 7017
-    engagement: 2316
-    commentsToLikes: 0.043524
-    id: ck5zrq0ocx1pq0i14d43csgnh
-    verified: false
-    hashtags: "#entertainment, #instapic, #beachclub, #ralphlauren"
+    hashtags: "#stories, #endofmonth, #true, #flowers"
 ---

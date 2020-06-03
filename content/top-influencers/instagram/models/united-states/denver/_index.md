@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Denver In 2020
 description: >-
-  Find top models Instagram influencers in Denver in 2020. Most popular hashtags: #photography #photoshoot #makeup #model.
+  Find top models Instagram influencers in Denver in 2020. Most popular hashtags: #colorado #model #denver #stayhome.
 platform: Instagram
 profiles:
   - username: "taliacolalancia"
     fullname: >-
       Talia Colalancia
     location: "United States"
-    followers: 70804
-    engagement: 289
-    commentsToLikes: 0.005798
+    followers: 70178
+    engagement: 258
+    commentsToLikes: 0.009130
     id: ck5zxcx2l7s1p0i1421u9uvn9
     verified: false
-    hashtags: "#love, #photoshoot, #lifestyle, #picoftheday"
-  - username: "ms_xzotic_350"
+    hashtags: "#newyear, #highfashion, #runway, #denver"
+  - username: "daphneeduplaixheiberg"
     fullname: >-
-      Tatum Marie
+      Sincerely, Daphnee
     location: "United States"
-    followers: 34866
-    engagement: 737
-    commentsToLikes: 0.011377
-    id: ck5pww0sqovzx0i110iwpnwzj
+    followers: 21852
+    engagement: 199
+    commentsToLikes: 0.105829
+    id: ckaostjhqt0vx0i78dmcnhpyz
     verified: false
-    hashtags: "#fitchicks, #snowshoot, #stickchicks, #models"
-  - username: "miss_amie_west"
+    hashtags: "#priceless, #smile, #raisingconsciouskids, #raisingmindfulchildren"
+  - username: "unconcupiscent"
     fullname: >-
-      Miss West
+      Aisha
     location: "United States"
-    followers: 8793
-    engagement: 267
-    commentsToLikes: 0.041036
-    id: ck5pwyxaipa580i11nvdhfmz7
+    followers: 3559
+    engagement: 1593
+    commentsToLikes: 0.062563
+    id: ck9ha33eraxs00j78euq8hsdo
     verified: false
-    hashtags: "#portraitphotography, #modelswanted, #mixedwomen, #bestfriends"
-  - username: "garrettrader1"
-    fullname: >-
-      RADER
-    location: "United States"
-    followers: 45769
-    engagement: 140
-    commentsToLikes: 0.071737
-    id: ck5zy0sek90u30i14cjpqxz6m
-    verified: false
-    hashtags: ""
+    hashtags: "#goodsquad, #makeup, #goodamerican, #biglips"
   - username: "_kianamarina_"
     fullname: >-
       K i a n a  J o h n s o n
     location: "United States"
-    followers: 3047
-    engagement: 1204
-    commentsToLikes: 0.073421
+    followers: 3019
+    engagement: 1239
+    commentsToLikes: 0.074189
     id: ck5zr9h82w5nz0i14m397ksq8
     verified: false
-    hashtags: "#extraterrestrial, #goldendoodle, #puppymom"
-  - username: "jesenialis_fit"
+    hashtags: "#puppymom, #extraterrestrial, #goldendoodle"
+  - username: "99visuals"
     fullname: >-
-      Jesenia
+      Franco
     location: "United States"
-    followers: 4991
-    engagement: 875
-    commentsToLikes: 0.207357
-    id: ck8t7ca04gak60j78do13v01e
+    followers: 5520
+    engagement: 566
+    commentsToLikes: 0.093636
+    id: ck0w4myi8zdi70i19gi9smwoj
     verified: false
-    hashtags: "#makeup, #mondaymotivation, #npcbikini, #homeworkout"
-  - username: "isthatjupiter"
-    fullname: >-
-      Jupiter (Ben Seagren)
-    location: "United States"
-    followers: 38991
-    engagement: 851
-    commentsToLikes: 0.025467
-    id: ck6tllsev673a0j71e2zjoayt
-    verified: false
-    hashtags: "#illustrator, #malemua, #sidehustle, #mua"
-  - username: "lunarkris"
-    fullname: >-
-      🌙 KRIS ✨
-    location: "United States"
-    followers: 6773
-    engagement: 632
-    commentsToLikes: 0.072017
-    id: ck6tmm1kh838u0j71xawbnzgq
-    verified: false
-    hashtags: "#dfwphotographer, #eventplanner, #laphotographer, #selfportraits"
+    hashtags: "#slimjimmi, #instagram, #colorado, #hypebeast"
   - username: "manon_crespi"
     fullname: >-
       Manon Crespi
     location: "United States"
-    followers: 42964
-    engagement: 479
-    commentsToLikes: 0.067545
+    followers: 46342
+    engagement: 483
+    commentsToLikes: 0.061607
     id: ck14idi7cevov0i1906rtz3kr
     verified: false
-    hashtags: "#greyhairmovement, #wisdomwednesday, #silversistersmeetupla, #loveyourneighbor"
+    hashtags: "#laughingmemes, #laughoutloud, #smileeveryday, #silvertsunami"
   - username: "space.junkiee"
     fullname: >-
       Raechel Renae
     location: "United States"
-    followers: 10262
-    engagement: 594
-    commentsToLikes: 0.029735
+    followers: 10320
+    engagement: 554
+    commentsToLikes: 0.030401
     id: ck6u5pl8xazv00j71yrg9edq7
     verified: false
-    hashtags: "#hightimesmag, #modeling, #ganjababes, #smokeweedeveryday"
+    hashtags: "#girlswholift, #pandemic, #moodyportraits, #babesofinsta"
+  - username: "jonathanshoupstudio"
+    fullname: >-
+      Jonathan Shoup
+    location: "United States"
+    followers: 6036
+    engagement: 989
+    commentsToLikes: 0.021397
+    id: ck0u94vql90nt0i19wdatsyz9
+    verified: false
+    hashtags: "#style, #edmgirls, #denvermodel, #mseasy"
+  - username: "phalisia"
+    fullname: >-
+      Lee Lee B.
+    location: "United States"
+    followers: 5204
+    engagement: 1425
+    commentsToLikes: 0.040992
+    id: ckaorzgrnpgnt0i7808hd3ggr
+    verified: false
+    hashtags: "#parody, #parker, #art, #locmodel"
+  - username: "corneliusmasterson"
+    fullname: >-
+      Cornelius  Masterson
+    location: "United States"
+    followers: 83611
+    engagement: 712
+    commentsToLikes: 0.018841
+    id: ck9hbox9shthv0j788tphhpl1
+    verified: false
+    hashtags: "#youtube, #dedication, #aesthetic, #workout"
 ---

@@ -1,109 +1,109 @@
 ---
 title: Top 10 Instagram Influencers In Italy In 2020
 description: >-
-  Find top Instagram influencers in Italy in 2020. Most popular hashtags: #makeitbetter #elites #iorestoacasa #iostoacasa.
+  Find top Instagram influencers in Italy in 2020. Most popular hashtags: # #beautiful #picoftheday #fashionstyle.
 platform: Instagram
 profiles:
-  - username: "mattiapolibio"
+  - username: "cri.brightphotos"
     fullname: >-
-      
+      Cri
     location: "Italy"
-    followers: 1219315
-    engagement: 3928
-    commentsToLikes: 0.023255
-    id: ck8t25wc3y9gm0j78wzhha9rl
-    verified: true
-    hashtags: "#boredinthehousechallenge, #100coconut"
+    followers: 7235
+    engagement: 3576
+    commentsToLikes: 0.092028
+    id: ck6tilrtz0yjq0j71qz4sa8ss
+    verified: false
+    hashtags: "#instagood, #italiangirl, #video, #picoftheday"
   - username: "tommaso_donadoni"
     fullname: >-
       TD
     location: "Italy"
-    followers: 144605
-    engagement: 3938
-    commentsToLikes: 0.158652
+    followers: 184042
+    engagement: 3545
+    commentsToLikes: 0.155404
     id: ck8wg7pjqgvb60j78mwbh5b8e
     verified: false
-    hashtags: "#duetto, #pov, #duet"
+    hashtags: ""
   - username: "salielkhaldi"
     fullname: >-
       SÆ
     location: "Italy"
-    followers: 2139
-    engagement: 3225
-    commentsToLikes: 0.151080
+    followers: 2081
+    engagement: 3467
+    commentsToLikes: 0.150379
     id: ck8wgozqhhsd20j78xjuc3v8m
     verified: false
-    hashtags: "#repost, #sesaichi, #makeusfamous, #dontletthisflop"
-  - username: "marymilano"
+    hashtags: ""
+  - username: "thebrunettemacaron"
     fullname: >-
-      Mari🌟
+      G L O R I A
     location: "Italy"
-    followers: 177239
-    engagement: 1006
-    commentsToLikes: 0.053087
-    id: ck8tcpq8707lt0j781nbdgqox
+    followers: 2087
+    engagement: 3455
+    commentsToLikes: 0.200790
+    id: ck6ubf29c96rw0j71ok2pnx1b
     verified: false
-    hashtags: "#sun, #nostalgic, #buoniniziosettimana, #stayathome"
-  - username: "omaraamoum_"
+    hashtags: "#iamtb, #sorrynotsorry, #volgoarezzo, #thisisrome"
+  - username: "gianrigo7"
     fullname: >-
-      Omar Aamoum - Ohm
+      👩🏼‍🎤IPALBOY🌟
     location: "Italy"
-    followers: 113471
-    engagement: 1968
-    commentsToLikes: 0.509022
-    id: ck8tbhjbqvp7k0j78ijlcpdoh
+    followers: 242780
+    engagement: 3235
+    commentsToLikes: 0.045213
+    id: ck9whkq0byb2m0j78vqgwgg4d
     verified: false
-    hashtags: "#elites, #makeitbetter, #distantimauniti, #iorestoacasa"
-  - username: "elitesyt"
+    hashtags: "#ilboss"
+  - username: "angelicaceci95"
     fullname: >-
-      Elites
+      Angelica 💙
     location: "Italy"
-    followers: 85030
-    engagement: 2714
-    commentsToLikes: 0.139679
-    id: ck8t32ske1mru0j78dgmqw6ze
+    followers: 3574
+    engagement: 3013
+    commentsToLikes: 0.137509
+    id: ck8t5wrudbi500j78diegkd83
     verified: false
-    hashtags: "#makeitbetter, #elites"
-  - username: "instalazzaa"
+    hashtags: "#beautiful, #exercise, #love, #prozisitalia"
+  - username: "emma_donnini"
     fullname: >-
-      Enrico Lazzarato • Enry Lazza
+      𝓔𝓶𝓶𝓪 𝓓𝓸𝓷𝓷𝓲𝓷𝓲
     location: "Italy"
-    followers: 112799
-    engagement: 1187
-    commentsToLikes: 0.109473
-    id: ck8t32s0c1mpc0j786a2b8d25
+    followers: 7086
+    engagement: 2873
+    commentsToLikes: 0.098304
+    id: ck8t2zcd01aff0j78xbv27lof
     verified: false
-    hashtags: "#newfriend, #desert, #quarantine, #dubai"
-  - username: "kurolilystream"
+    hashtags: "#fiocchettolilla, #usatravellers, #igpisa, #couplelove"
+  - username: "l0000lita"
     fullname: >-
-      Kurolily 💙 profilo ufficiale
+      𝕷𝖔𝖑𝖎𝖙𝖆
     location: "Italy"
-    followers: 32138
-    engagement: 1251
-    commentsToLikes: 0.055740
-    id: ck8t0vwlltiwo0j78xzmn4m5x
+    followers: 104729
+    engagement: 2797
+    commentsToLikes: 0.587462
+    id: ck6uevyente4r0j71wg0a1ih5
     verified: false
-    hashtags: "#pigiama, #pink, #cute, #twitchitalia"
-  - username: "thetraveltrouble"
+    hashtags: "#tibruciailculolavatelo"
+  - username: "serenaesposito97"
     fullname: >-
-      TRAVEL TROUBLE
+      𝓔𝓼𝓹𝓸𝓼𝓲𝓽𝓸 𝓼𝓮𝓻𝓮𝓷𝓪❣️
     location: "Italy"
-    followers: 7429
-    engagement: 1912
-    commentsToLikes: 0.084525
-    id: ck6uhio9x9cdq0j71il5atsa0
+    followers: 3446
+    engagement: 2759
+    commentsToLikes: 0.216453
+    id: ck8t22rtby09w0j78axase2oz
     verified: false
-    hashtags: "#traveldiaries, #igersardegna, #aroundtrentino, #blogger"
-  - username: "anej_sosic"
+    hashtags: "#poivorrei, #verynice, #ioete, #italy"
+  - username: "cris_cutro"
     fullname: >-
-      Anej Sosic
+      CRISTIAN CUTRONA 👉🏻👈🏻🥺
     location: "Italy"
-    followers: 44446
-    engagement: 766
-    commentsToLikes: 0.116799
-    id: ck6ufp29jyboh0j71ap3j3rvu
+    followers: 186801
+    engagement: 2726
+    commentsToLikes: 0.069500
+    id: ck9hcq6snmju50j78fx1te5tj
     verified: false
-    hashtags: "#venice, #pose, #repost, #comingsoon"
+    hashtags: ""
 cities:
   - name: Rome
     link: /instagram/italy/rome

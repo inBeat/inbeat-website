@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Mumbai In 2020
 description: >-
-  Find top photographers Instagram influencers in Mumbai in 2020. Most popular hashtags: #mumbai #india #indianphotography #photographers.
+  Find top photographers Instagram influencers in Mumbai in 2020. Most popular hashtags: #photographer #fashion #quarantinelife #travel.
 platform: Instagram
 profiles:
-  - username: "vishallangthasa"
-    fullname: >-
-      Vishal Langthasa
-    location: "India"
-    followers: 12388
-    engagement: 1531
-    commentsToLikes: 0.014382
-    id: ck5zwr1b56lt60i143vbdwe6c
-    verified: false
-    hashtags: "#evening, #sansevieria, #21dayslockdown, #beachlife"
-  - username: "pritesh_burman"
-    fullname: >-
-      • P R I T E S H 🥀 B U R M A N
-    location: "India"
-    followers: 38323
-    engagement: 1500
-    commentsToLikes: 0.029033
-    id: ck8tcu7jo0p5p0j78ai1v0zf9
-    verified: false
-    hashtags: "#poser, #fashionindia, #bestoftheday, #lifestyle"
   - username: "rahuljhangiani"
     fullname: >-
       Rahul Jhangiani
     location: "India"
-    followers: 136572
-    engagement: 351
-    commentsToLikes: 0.009486
+    followers: 147878
+    engagement: 366
+    commentsToLikes: 0.012710
     id: ck0w3gyr7tcsb0i19wpzqanix
     verified: true
-    hashtags: "#lookbook, #globalspa, #downtown, #diljitdosanjh"
-  - username: "sarikagangwal"
+    hashtags: "#parineetichopra, #cover, #rakulpreetsingh, #ballet"
+  - username: "mitz_patil"
     fullname: >-
-      Sarika Gangwal
+      Mitesh Patil
     location: "India"
-    followers: 19159
-    engagement: 213
-    commentsToLikes: 0.011586
-    id: ck0vxkee5zbv10i19357qwq8u
+    followers: 247169
+    engagement: 733
+    commentsToLikes: 0.015535
+    id: ck14guhwq73ab0i19fasgqsa0
     verified: false
-    hashtags: "#mumbai, #india, #federicofellini, #9pm9min"
+    hashtags: "#nustaharamkhor, #goprohero8, #spreadkhushiya, #galaxya51"
   - username: "starryeyes2054"
     fullname: >-
       Star Udyawar
     location: "India"
-    followers: 14471
-    engagement: 701
-    commentsToLikes: 0.066616
+    followers: 16842
+    engagement: 890
+    commentsToLikes: 0.084994
     id: ck5cciyplhg8l0i11eheisl5s
     verified: false
-    hashtags: "#spreadkhushiya, #indianphotography, #apfmagazine, #stayhome"
+    hashtags: "#fashiondesigner, #pixaloop, #himachalpradesh, #shotonmoment"
+  - username: "vishallangthasa"
+    fullname: >-
+      Vishal Langthasa
+    location: "India"
+    followers: 14543
+    engagement: 1659
+    commentsToLikes: 0.017118
+    id: ck5zwr1b56lt60i143vbdwe6c
+    verified: false
+    hashtags: "#houseplants, #modi, #lumix, #easter"
   - username: "rdb_photographyy"
     fullname: >-
       RDB
     location: "India"
-    followers: 10423
-    engagement: 578
-    commentsToLikes: 0.003643
+    followers: 10215
+    engagement: 501
+    commentsToLikes: 0.005839
     id: ck6twh36trxzq0j719d944hol
     verified: false
-    hashtags: "#magmod, #weddingcandid, #prewed, #indianwedding"
-  - username: "positive_rays"
+    hashtags: "#imengaged, #modeling, #bridetobe, #instagram"
+  - username: "rainbow_kissed"
     fullname: >-
-      ρσσиαм
+      Rishabh
     location: "India"
-    followers: 6772
-    engagement: 820
-    commentsToLikes: 0.181225
-    id: ck0vy83ct2oo70i19hcc2awcq
+    followers: 8133
+    engagement: 3669
+    commentsToLikes: 0.002694
+    id: ckaotsfebxarr0i78d11b6gt3
     verified: false
-    hashtags: "#saadidilli, #happywomensday, #sunsetphotography, #letgo"
-  - username: "selva_tipu"
+    hashtags: "#beach, #sequin, #casualstyle, #look"
+  - username: "aapno.jaisalmer_7773"
     fullname: >-
-      Selva Mohan
+      official_page_👑50k
     location: "India"
-    followers: 7379
-    engagement: 1292
-    commentsToLikes: 0.017813
-    id: ck0vv4zwtnkpu0i19ibw9fy4b
+    followers: 39563
+    engagement: 84
+    commentsToLikes: 0.025052
+    id: ck0vyg3hk3t880i19w4lno198
     verified: false
-    hashtags: "#miniaturephotography, #chennaiphotography, #color, #sonyalphain"
-  - username: "unveiling_unseen"
+    hashtags: "#bannalog, #jaisalmerblog, #jaisalmertrip, #love"
+  - username: "deepak.mali"
     fullname: >-
-      PHOTOGRAPHER | INDIA🇮🇳
+      Deepak Mali.
     location: "India"
-    followers: 10241
-    engagement: 382
-    commentsToLikes: 0.072760
-    id: ck5hnbzklnixd0i1120c7thq6
+    followers: 6213
+    engagement: 895
+    commentsToLikes: 0.031252
+    id: ck15srtugeib10i19f1qztfan
     verified: false
-    hashtags: "#photooftheday, #incredibleindia, #indiapictures, #shotonmobile"
-  - username: "pix_l_studio"
+    hashtags: "#beautiful, #adventurous, #adventuretime, #travocompany"
+  - username: "haram_khor_"
     fullname: >-
-      🅿🅸🆇 -🅻 ™
+      Ganesh Vanare
     location: "India"
-    followers: 8913
-    engagement: 1194
-    commentsToLikes: 0.008466
-    id: ck8t9b2sbngin0j78j97i4g60
+    followers: 283532
+    engagement: 539
+    commentsToLikes: 0.017342
+    id: ck0ttus934edx0i19s8197zh6
+    verified: true
+    hashtags: "#natgeo, #marvelcomics, #light, #mondayblues"
+  - username: "setmywed"
+    fullname: >-
+      SetMyWed.com
+    location: "India"
+    followers: 105063
+    engagement: 158
+    commentsToLikes: 0.004737
+    id: ck5zoyabgrlzn0i14jvlvb4l4
     verified: false
-    hashtags: "#photos, #bbcearth, #naturein, #mumbaidiaries"
+    hashtags: "#sabyasachisaree, #weddingoutfits, #weddinginspo, #weddingvideographer"
 ---

@@ -1,107 +1,97 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Greece In 2020
 description: >-
-  Find top illustrators Instagram influencers in Greece in 2020. Most popular hashtags: #illustration #art #illustrator #artistsoninstagram.
+  Find top illustrators Instagram influencers in Greece in 2020. Most popular hashtags: #animals #illustrator #blackandwhite #pink.
 platform: Instagram
 profiles:
   - username: "nikolas_tower"
     fullname: >-
       Nikolas Tower ✨🦋✨
     location: "Greece"
-    followers: 174466
-    engagement: 471
-    commentsToLikes: 0.013557
+    followers: 177585
+    engagement: 571
+    commentsToLikes: 0.014998
     id: ck0tu3bld5g0d0i19hy5g68lp
     verified: false
-    hashtags: "#aestheticart, #sketch, #graphiteportrait, #opsis"
-  - username: "gavaskantira"
+    hashtags: "#goldleafing, #portraitsketch, #artistsoninsta, #gilding"
+  - username: "stamatis.laskos"
     fullname: >-
-      Georgia Avaskantira
+      Stamatis Laskos
     location: "Greece"
-    followers: 11851
-    engagement: 899
-    commentsToLikes: 0.014690
-    id: ck6tiomp314du0j71hv1hp960
+    followers: 6953
+    engagement: 1389
+    commentsToLikes: 0.014255
+    id: ck5pvef8rhh060i114gutf1wp
     verified: false
-    hashtags: "#walkinthelight, #photoshooting, #lovequotes, #vitamind"
-  - username: "uncl_paul_knows_upk"
+    hashtags: "#cocktails, #cats, #glassvase, #homemuralfest"
+  - username: "bewildbrother"
     fullname: >-
-      Uncl Paul Knows
+      - BEWILD BROTHER -
     location: "Greece"
-    followers: 105143
-    engagement: 194
-    commentsToLikes: 0.012625
-    id: ck0vvssxqqlr30i19g02zscr4
+    followers: 7368
+    engagement: 894
+    commentsToLikes: 0.027383
+    id: ck0vzj89y9dkz0i197qvw35kz
     verified: false
-    hashtags: "#wowtattoo, #watercolortattoo, #digitalillustration, #loltattoo"
-  - username: "littlemiss.grumpy"
-    fullname: >-
-      Little miss Grumpy
-    location: "Greece"
-    followers: 13005
-    engagement: 658
-    commentsToLikes: 0.059500
-    id: ck8svss44ck660j787ouc8hlv
-    verified: false
-    hashtags: "#art, #professormcgonagall, #illustration, #harrypotter"
+    hashtags: "#normajean, #death, #ferdelance, #animation"
   - username: "marina_gioti"
     fullname: >-
       Marina Gioti
     location: "Greece"
-    followers: 7395
-    engagement: 363
-    commentsToLikes: 0.017302
+    followers: 7558
+    engagement: 432
+    commentsToLikes: 0.034355
     id: ck136mjt1787v0i19sf5310fb
     verified: false
-    hashtags: "#illustration, #daughterandmother, #beagleofinstagram, #nameday"
-  - username: "elysios_c"
+    hashtags: "#greek, #bookstores, #mothersanddaughters, #mana"
+  - username: "uncl_paul_knows_upk"
     fullname: >-
-      Elysios
+      Uncl Paul Knows
     location: "Greece"
-    followers: 13791
-    engagement: 1696
-    commentsToLikes: 0.016326
-    id: ck0ue8p1okqsu0i19f0xmkfgt
+    followers: 104367
+    engagement: 122
+    commentsToLikes: 0.010560
+    id: ck0vvssxqqlr30i19g02zscr4
     verified: false
-    hashtags: "#landscapeart, #landscapelover, #paintingportraits, #digitalillustration"
-  - username: "elenig"
+    hashtags: "#piratetattoo, #volostattoo, #songokutattoo, #miyazaki"
+  - username: "littlemiss.grumpy"
     fullname: >-
-      ©Eleni Georgiadou Drawings
+      Little miss Grumpy
     location: "Greece"
-    followers: 13867
-    engagement: 1033
-    commentsToLikes: 0.073576
-    id: ck0tyvoobo99b0i19xmmv5tz9
+    followers: 22331
+    engagement: 537
+    commentsToLikes: 0.008299
+    id: ck8svss44ck660j787ouc8hlv
     verified: false
-    hashtags: "#illustratie, #inktober2k19, #inkartist, #drawlloween"
+    hashtags: "#wearerainbows, #benetton"
+  - username: "tinyjackal"
+    fullname: >-
+      Tiny Jackal
+    location: "Greece"
+    followers: 23768
+    engagement: 1083
+    commentsToLikes: 0.010627
+    id: ck5hjq2gih2930i11xv94v19u
+    verified: false
+    hashtags: "#moments, #rapsispirosi, #ellesse, #altitude"
+  - username: "george_evge"
+    fullname: >-
+      George Εύγε.
+    location: "Greece"
+    followers: 7217
+    engagement: 746
+    commentsToLikes: 0.010633
+    id: ck1370c3095ls0i19ma78lasf
+    verified: false
+    hashtags: "#tart, #mustard, #anafiotika, #smile"
   - username: "spirosgrammenos_"
     fullname: >-
       Σπύρος Γραμμένος
     location: "Greece"
-    followers: 13728
-    engagement: 905
-    commentsToLikes: 0.009663
+    followers: 14010
+    engagement: 827
+    commentsToLikes: 0.009442
     id: ck6tiok73148u0j71vzi74mgl
     verified: false
-    hashtags: "#staystrong, #grammentinos, #bro, #humor"
-  - username: "pinks_and_roses"
-    fullname: >-
-      Pinks&Roses
-    location: "Greece"
-    followers: 71173
-    engagement: 866
-    commentsToLikes: 0.014288
-    id: ck0tzs7kwresx0i19cz1bd7tg
-    verified: false
-    hashtags: "#doodlersofinstagram, #dailycomic, #justgirlproject, #breakfastsweetbreakfast"
-  - username: "beetrootdesign"
-    fullname: >-
-      Beetroot
-    location: "Greece"
-    followers: 14541
-    engagement: 473
-    commentsToLikes: 0.013093
-    id: ck6trqvgs0k570j71nxu1j43v
-    verified: false
-    hashtags: "#hanginthere, #posterdesign, #stegi, #kikirikou"
+    hashtags: "#village, #hulkhogan, #bodybuilding, #sexandthecityquotes"
 ---

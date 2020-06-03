@@ -1,107 +1,107 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Chile In 2020
 description: >-
-  Find top comedians Instagram influencers in Chile in 2020. Most popular hashtags: #cuarentena #quedateencasa #chile #tbt.
+  Find top comedians Instagram influencers in Chile in 2020. Most popular hashtags: #tbt #comedia #quedateencasa #show.
 platform: Instagram
 profiles:
-  - username: "gloriabenavides_oficial"
-    fullname: >-
-      Gloria Benavides
-    location: "Chile"
-    followers: 42777
-    engagement: 518
-    commentsToLikes: 0.039623
-    id: ck5hhnfqf958d0i118z2t5ony
-    verified: false
-    hashtags: "#viejasdemierda, #repost, #teatronacional, #comedia"
-  - username: "esgaboruiz"
-    fullname: >-
-      Gabriel Ruiz
-    location: "Chile"
-    followers: 139684
-    engagement: 886
-    commentsToLikes: 0.021074
-    id: ck14li76musx50i19kq3gsy6f
-    verified: false
-    hashtags: "#eltourdelombligo, #somosuno, #bastadefracking, #tbt"
   - username: "alisonmandel"
     fullname: >-
       Alison Mandel
     location: "Chile"
-    followers: 847965
-    engagement: 1079
-    commentsToLikes: 0.011362
+    followers: 894702
+    engagement: 1012
+    commentsToLikes: 0.015376
     id: ck5hdhx1vnimo0i11c63cw6q1
     verified: true
-    hashtags: "#quedateencasa, #carlosculiao, #sinsensibilidadsinmiedo, #fordecostorm"
+    hashtags: "#quedateencasa, #carlosculiao, #rappifavor, #conozcotodamicasa"
+  - username: "gloriabenavides_oficial"
+    fullname: >-
+      Gloria Benavides
+    location: "Chile"
+    followers: 42820
+    engagement: 521
+    commentsToLikes: 0.039706
+    id: ck5hhnfqf958d0i118z2t5ony
+    verified: false
+    hashtags: "#repost, #teatronacional, #comedia, #tuvidatuhistoriachv"
   - username: "pameleiva"
     fullname: >-
       pamelitaleiva
     location: "Chile"
-    followers: 227525
-    engagement: 202
-    commentsToLikes: 0.040496
+    followers: 235016
+    engagement: 129
+    commentsToLikes: 0.028599
     id: ck0vz5bhn7dnz0i195zpyl1mj
     verified: true
-    hashtags: "#mequedoencasa, #huachapalooza, #realityshow, #covid"
-  - username: "juanescalonatv"
+    hashtags: "#tbt, #diadelamadre, #show, #eld"
+  - username: "pedroruminot"
     fullname: >-
-      📢 Aqui se vive de la risa
+      Pedro
     location: "Chile"
-    followers: 50085
-    engagement: 197
-    commentsToLikes: 0.135414
-    id: ck5zkg3wbjf0a0i14cv7tji09
-    verified: false
-    hashtags: "#alejandraguzman, #comparacion, #top, #safaera"
-  - username: "ronalalvar"
+    followers: 524303
+    engagement: 647
+    commentsToLikes: 0.013267
+    id: ck5zztalscdy70i14352so6qo
+    verified: true
+    hashtags: "#tbt, #galaxys20, #teamgalaxy, #apruebo"
+  - username: "gonzalezcomediante"
     fullname: >-
-      ronal Alvarado
+      Rᴏᴅʀɪɢᴏ Gᴏɴᴢáʟᴇᴢ Rᴜʙɪᴏ🕺
     location: "Chile"
-    followers: 16197
-    engagement: 292
-    commentsToLikes: 0.176810
-    id: ck6u9mnjqyen10j71huywfl6v
+    followers: 32439
+    engagement: 148
+    commentsToLikes: 0.092444
+    id: ck5pvgq2ehsuh0i11vske4wbk
     verified: false
-    hashtags: "#humos, #falso, #motos, #debate"
+    hashtags: "#felizdiadelteatro, #comediantesencuarentena, #scl, #lavarselasmanos"
+  - username: "esgaboruiz"
+    fullname: >-
+      Gabriel Ruiz
+    location: "Chile"
+    followers: 150008
+    engagement: 813
+    commentsToLikes: 0.022316
+    id: ck14li76musx50i19kq3gsy6f
+    verified: false
+    hashtags: "#eltourdelombligo, #somosuno, #bastadefracking, #tbt"
   - username: "yamireyna"
     fullname: >-
       Yamila Reyna
     location: "Chile"
-    followers: 353651
-    engagement: 150
-    commentsToLikes: 0.037843
+    followers: 372272
+    engagement: 170
+    commentsToLikes: 0.029517
     id: ck5zkfnr6je8x0i14wa6jjx3x
     verified: true
-    hashtags: "#miamor, #encuarentena, #mujeres, #confiltro"
-  - username: "remigioremedy"
+    hashtags: "#tbt, #teamsolterosky, #hoyesviernesymicuerpolosabe, #familia"
+  - username: "ronalalvar"
     fullname: >-
-      Remigio Remedy
+      ronal Alvarado
     location: "Chile"
-    followers: 28917
-    engagement: 155
-    commentsToLikes: 0.083036
-    id: ck5q5quf6u5f80i110n6j15fz
+    followers: 17879
+    engagement: 174
+    commentsToLikes: 0.239237
+    id: ck6u9mnjqyen10j71huywfl6v
     verified: false
-    hashtags: "#maipu"
-  - username: "lajanidu"
+    hashtags: "#viral, #chilezolanos, #venezuelalibre, #youtube"
+  - username: "dinamiterasanchez"
     fullname: >-
-      Jani Dueñas
+      Rosario Sanchez
     location: "Chile"
-    followers: 141656
-    engagement: 238
-    commentsToLikes: 0.026524
-    id: ck6tib5hf0dux0j71pmqwhtvo
-    verified: true
-    hashtags: "#yonuncavitelevision, #esposible, #quedateencasa, #8m"
-  - username: "betoespinozaoficial"
-    fullname: >-
-      Beto Espinoza
-    location: "Chile"
-    followers: 89987
-    engagement: 73
-    commentsToLikes: 0.072692
-    id: ck8t0olekspvb0j78mra1rcal
+    followers: 7663
+    engagement: 359
+    commentsToLikes: 0.043990
+    id: ck5hs70bqw3eh0i11yavc0bnd
     verified: false
-    hashtags: "#cuarentena, #chile, #teleton, #coronavid19"
+    hashtags: "#covid, #coronavirusmemes, #cuarentena, #lafabricadesalchichas"
+  - username: "juanpapintoss"
+    fullname: >-
+      juanpapintoss
+    location: "Chile"
+    followers: 24184
+    engagement: 137
+    commentsToLikes: 0.011117
+    id: ck5zq5c9vtyor0i14oe1l99vo
+    verified: false
+    hashtags: "#mate, #mateamargo, #buenjueves, #iphone"
 ---

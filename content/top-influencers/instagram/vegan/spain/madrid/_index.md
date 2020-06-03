@@ -1,29 +1,19 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Madrid In 2020
 description: >-
-  Find top vegan Instagram influencers in Madrid in 2020. Most popular hashtags: #yomequedoencasa #cuarentena #quedateencasa #happy.
+  Find top vegan Instagram influencers in Madrid in 2020. Most popular hashtags: #vegan #yomequedoencasa #ootd #govegan.
 platform: Instagram
 profiles:
-  - username: "albertolancha"
+  - username: "vegan_nia"
     fullname: >-
-      Alberto Lancha
+      Stefania Isabel 🇻🇪
     location: "Spain"
-    followers: 50415
-    engagement: 226
-    commentsToLikes: 0.037148
-    id: ck6tm1buo70ga0j71t392ibzd
+    followers: 45692
+    engagement: 281
+    commentsToLikes: 0.057969
+    id: ckap1rkyjvtjj0i78o1mfjd9a
     verified: false
-    hashtags: "#miradorr, #govegan, #panda, #veganrecipes"
-  - username: "joselu_zapata"
-    fullname: >-
-      JOSELU ZAPATA
-    location: "Spain"
-    followers: 15377
-    engagement: 552
-    commentsToLikes: 0.101881
-    id: ck15u9353m0w70i19xler85y2
-    verified: false
-    hashtags: "#cuarentenacoronavirus, #nieve, #cuarentena, #yoentrenoencasa"
+    hashtags: "#tbt"
   - username: "deardiaryblog"
     fullname: >-
       Marta Martín
@@ -33,75 +23,85 @@ profiles:
     commentsToLikes: 0.011436
     id: ck5c30i0vycqg0i11wvbdgum0
     verified: false
-    hashtags: "#mbfwmadrid, #ponstranslator, #vocabularytrainer, #ad"
-  - username: "alejandrocialo"
-    fullname: >-
-      ALEJANDRO CIALO
-    location: "Spain"
-    followers: 56039
-    engagement: 477
-    commentsToLikes: 0.023098
-    id: ck5zm96bim4rb0i14l3t2c002
-    verified: false
-    hashtags: "#yomequedoencasa, #quedateentuputacasa"
+    hashtags: "#ad, #yomequedoencasa, #quedateencasa, #mbfwmadrid"
   - username: "eliuseche"
     fullname: >-
       Elizabeth Useche
     location: "Spain"
-    followers: 17597
-    engagement: 399
-    commentsToLikes: 0.015181
+    followers: 18052
+    engagement: 471
+    commentsToLikes: 0.015810
     id: ck6uaz4lz6je00j71qpzqeilz
     verified: false
-    hashtags: "#snowgirls, #love, #roxysnow, #feelfree"
+    hashtags: "#besties, #snowgirls, #quarantine, #missyou"
   - username: "malvavela"
     fullname: >-
       -MALVA VELA-
     location: "Spain"
-    followers: 16594
-    engagement: 411
-    commentsToLikes: 0.008165
+    followers: 16327
+    engagement: 410
+    commentsToLikes: 0.006995
     id: ck5qbvpe0nm230i1118mvkeb2
     verified: false
-    hashtags: "#newsingle, #8m, #liveinlevis"
-  - username: "susiguty"
+    hashtags: "#liveinlevis"
+  - username: "vitali.bara"
     fullname: >-
-      Susy GC
+      Model, Photographer & Director
     location: "Spain"
-    followers: 15128
-    engagement: 426
-    commentsToLikes: 0.220607
-    id: ck5c5zmsz4fpq0i11dl5bwcd2
+    followers: 24195
+    engagement: 88
+    commentsToLikes: 0.124812
+    id: ck5hg36vg0ouu0i11g6797jbw
     verified: false
-    hashtags: "#yo, #friends, #dankesch, #tratamiento"
+    hashtags: "#ootd, #beautyshoot, #behindthescenes, #carajo"
+  - username: "mercedes_debellard"
+    fullname: >-
+      Mercedes deBellard
+    location: "Spain"
+    followers: 36787
+    engagement: 573
+    commentsToLikes: 0.021537
+    id: ck0ubr0vhf2f10i19x2cznilo
+    verified: false
+    hashtags: "#process, #vanlife, #cosmos, #horses"
+  - username: "enterthevo11d"
+    fullname: >-
+      DAIDA || ダイダ
+    location: "Spain"
+    followers: 13361
+    engagement: 628
+    commentsToLikes: 0.030201
+    id: ck55ku97w03yq0i11ziwzx1p5
+    verified: false
+    hashtags: "#queso, #instagood, #outfits, #toddy"
   - username: "lolasorrowstattoo"
     fullname: >-
       Lola Sorrows 🌈Tattoo Madrid❤️
     location: "Spain"
-    followers: 27662
-    engagement: 266
-    commentsToLikes: 0.065538
+    followers: 28542
+    engagement: 297
+    commentsToLikes: 0.073424
     id: ck5zy6wpk9c550i14ivhfem6l
     verified: false
-    hashtags: "#astrology, #astrologyblog, #horoscopedaily, #sorteo"
-  - username: "tamarayuste"
+    hashtags: "#blacktattoos, #cosmicart, #astrologyblog, #horoscopedaily"
+  - username: "susiguty"
     fullname: >-
-      T A M A R A 💟
+      Susy GC
     location: "Spain"
-    followers: 25230
-    engagement: 348
-    commentsToLikes: 0.242134
-    id: ck14hdqwc9t5b0i19vt7o4cn2
+    followers: 15261
+    engagement: 448
+    commentsToLikes: 0.219819
+    id: ck5c5zmsz4fpq0i11dl5bwcd2
     verified: false
-    hashtags: "#hawkersco, #lancaster, #todoirabien, #holidays"
-  - username: "martinamerablog"
+    hashtags: "#hellobereal, #haircolor, #valy, #look"
+  - username: "tia_alia"
     fullname: >-
-      Martina Mera
+      Carmen Tía Alia
     location: "Spain"
-    followers: 40822
-    engagement: 175
-    commentsToLikes: 0.096706
-    id: ck5pymf05wq5i0i11q60bv0xa
+    followers: 21834
+    engagement: 330
+    commentsToLikes: 0.063926
+    id: ck6trvcdb1at20j71j2wau7ls
     verified: false
-    hashtags: "#jumpsuit, #selfcare, #soul, #inspiration"
+    hashtags: "#chocolate, #simplepleasures, #lifeandthyme, #madrid"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Japan In 2020
 description: >-
-  Find top athletes Instagram influencers in Japan in 2020. Most popular hashtags: #workout #japan #tokyo #vslashesports.
+  Find top athletes Instagram influencers in Japan in 2020. Most popular hashtags: #blessed #staysafe #stayhome #japan.
 platform: Instagram
 profiles:
+  - username: "rosyulina"
+    fullname: >-
+      Yulina
+    location: "Japan"
+    followers: 110750
+    engagement: 773
+    commentsToLikes: 0.033895
+    id: ck9hblv2ohexb0j782yaqe18k
+    verified: false
+    hashtags: "#pouchbag, #singapore, #maafzahirbatin, #learning"
   - username: "elyologp8"
     fullname: >-
       Gerardo Parra
     location: "Japan"
-    followers: 143841
-    engagement: 583
-    commentsToLikes: 0.015003
+    followers: 144896
+    engagement: 484
+    commentsToLikes: 0.015965
     id: ck5bvb2sbjbbg0i11lw6hqka1
     verified: true
-    hashtags: "#goodvibes, #emma, #npb, #parrashark"
+    hashtags: "#tbt, #frozen2, #birthdaygirl, #goodvibes"
   - username: "jorgefonsca"
     fullname: >-
       World Champion Tokyo 2019 🇵🇹
     location: "Japan"
-    followers: 26400
-    engagement: 865
-    commentsToLikes: 0.009130
+    followers: 26494
+    engagement: 842
+    commentsToLikes: 0.009915
     id: ck0ue30d3kg6w0i19opwivpeu
     verified: false
-    hashtags: "#saynotoracism, #naoaoracismo, #umhomemtbchora"
-  - username: "jordimurphy"
+    hashtags: "#saynotoracism, #naoaoracismo, #umhomemtbchora, #stayathome"
+  - username: "chrisreed77"
     fullname: >-
-      jordimurphy
+      Chris Reed
     location: "Japan"
-    followers: 65930
-    engagement: 792
-    commentsToLikes: 0.004561
-    id: ck5zstzhjz6nu0i14gxodp4lg
-    verified: true
-    hashtags: "#homersimpsonscream, #socialdistancing"
-  - username: "wjjleroux"
-    fullname: >-
-      Willie Le Roux
-    location: "Japan"
-    followers: 145114
-    engagement: 794
-    commentsToLikes: 0.004860
-    id: ck5capt6bdw5e0i11o4m2bj0r
-    verified: true
-    hashtags: "#4life, #staysafe, #playinside, #playfortheworld"
+    followers: 10364
+    engagement: 778
+    commentsToLikes: 0.025853
+    id: ckaowsjica9cl0i787uzx8q1o
+    verified: false
+    hashtags: "#internationalwomensday, #alwaysappreciated, #skatinginvienna, #happybirthdaydoggy"
   - username: "cfowl22"
     fullname: >-
       Cory Fowler
     location: "Japan"
-    followers: 6663
-    engagement: 990
-    commentsToLikes: 0.017424
+    followers: 6589
+    engagement: 952
+    commentsToLikes: 0.016233
     id: ck0tskwuj07nu0i19gko2uqyn
     verified: false
-    hashtags: "#throwback, #cosplaybabes, #honeylemon, #pokemon"
+    hashtags: "#japan, #triton, #airforce, #johnstewert"
+  - username: "mai_tano"
+    fullname: >-
+      田上 舞子/まいティ
+    location: "Japan"
+    followers: 181447
+    engagement: 890
+    commentsToLikes: 0.008611
+    id: ckap0ek3ypxnc0i78pegecjbi
+    verified: false
+    hashtags: "#monstereenergy, #pr, #unleashthebeast, #fitfoodhome"
   - username: "emiyanagimoto"
     fullname: >-
       えみりー/柳本 絵美(Emi Yanagimoto)
     location: "Japan"
-    followers: 44590
-    engagement: 363
-    commentsToLikes: 0.010433
+    followers: 44837
+    engagement: 329
+    commentsToLikes: 0.014407
     id: ck5hopgi2pzgm0i116dxszsz7
     verified: true
-    hashtags: "#positivequotes, #vqfitwomen, #iamvanquish, #tokyo"
-  - username: "noguchi_akiyo"
+    hashtags: "#vqfitwoman, #staycoolathome, #stayhomebesafe, #birthday"
+  - username: "kanekinfitness"
     fullname: >-
-      NoguchiAkiyo / 野口啓代 / のぐちあきよ
+      Shun Kaneko
     location: "Japan"
-    followers: 118389
-    engagement: 515
-    commentsToLikes: 0.004567
-    id: ck0tw7ynyeavg0i19a2sgvvf3
-    verified: true
-    hashtags: "#zeta, #hypervoltplus, #olympic, #catstagram"
-  - username: "arslan.ash"
-    fullname: >-
-      Arslan Ash
-    location: "Japan"
-    followers: 12851
-    engagement: 1576
-    commentsToLikes: 0.018834
-    id: ck5ca4ukccp270i114mctkl2v
+    followers: 184894
+    engagement: 422
+    commentsToLikes: 0.006412
+    id: ck5qcemjkq6qk0i11d0v1xhno
     verified: false
-    hashtags: "#awesomeisforeveryone, #kingoffighter, #newyork, #arslanash"
+    hashtags: "#whsr, #aprilfoolsbday, #workhardseeresults, #hellcat"
   - username: "shosei_iwamoto"
     fullname: >-
       Shosei Iwamoto / 岩本 将成
     location: "Japan"
-    followers: 87438
-    engagement: 846
-    commentsToLikes: 0.011989
+    followers: 88447
+    engagement: 788
+    commentsToLikes: 0.013253
     id: ck0vwd05it56y0i19v4xdgf4c
     verified: true
-    hashtags: "#tricking, #flip, #twist, #enjoy"
-  - username: "mayanakanishi"
+    hashtags: "#oldpic, #goodweather, #stayhome, #staysafe"
+  - username: "arslan.ash"
     fullname: >-
-      Maya Nakanishi
+      Arslan Ash
     location: "Japan"
-    followers: 7837
-    engagement: 961
-    commentsToLikes: 0.013822
-    id: ck6ug6u89196q0j718iuzrhi3
-    verified: true
-    hashtags: "#teamcocacola, #lifewithoutlimitations, #nike, #bakerycafesoar"
+    followers: 13660
+    engagement: 1527
+    commentsToLikes: 0.018305
+    id: ck5ca4ukccp270i114mctkl2v
+    verified: false
+    hashtags: "#sundaymotovation, #redbullpakistan, #emaadirfani, #twitchstream"
 ---

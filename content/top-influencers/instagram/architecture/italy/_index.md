@@ -1,106 +1,106 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Italy In 2020
 description: >-
-  Find top architecture Instagram influencers in Italy in 2020. Most popular hashtags: #italy #sunset #architecture #roma.
+  Find top architecture Instagram influencers in Italy in 2020. Most popular hashtags: # #veneto #trentino #volgolazio.
 platform: Instagram
 profiles:
   - username: "archepidemic26"
     fullname: >-
       🏨
     location: "Italy"
-    followers: 4576
-    engagement: 798
-    commentsToLikes: 0.015207
+    followers: 4368
+    engagement: 854
+    commentsToLikes: 0.015607
     id: ck138m60agwxj0i19q6pqokxd
     verified: false
-    hashtags: "#aestheticphotography, #aestheticedits, #aesthetictumblr, #aestheticphotos"
+    hashtags: ""
   - username: "jovanabaco"
     fullname: >-
       Jovana Baco
     location: "Italy"
-    followers: 5826
-    engagement: 1123
-    commentsToLikes: 0.041468
+    followers: 5763
+    engagement: 1095
+    commentsToLikes: 0.044334
     id: ck5q1s9o5cj2w0i11vhvrwppl
     verified: false
-    hashtags: "#lifestyle, #photo, #leather, #duomo"
+    hashtags: "#orange, #square, #friendship, #trento"
+  - username: "shaadi_monshizade"
+    fullname: >-
+      shadi
+    location: "Italy"
+    followers: 7503
+    engagement: 1308
+    commentsToLikes: 0.020571
+    id: ck6tkyfs55nat0j71w9tg8hkb
+    verified: false
+    hashtags: ""
   - username: "lovegod83"
     fullname: >-
       Simone Lovegod®️
     location: "Italy"
-    followers: 5589
-    engagement: 2210
-    commentsToLikes: 0.013518
+    followers: 5802
+    engagement: 1461
+    commentsToLikes: 0.011936
     id: ck8t993sjn9ql0j78k4h1zp36
     verified: false
-    hashtags: "#barbado, #beardsofinstagram, #fromwhereistand, #roma"
-  - username: "sofiabarili"
-    fullname: >-
-      SOFIA🍑
-    location: "Italy"
-    followers: 9361
-    engagement: 1636
-    commentsToLikes: 0.005117
-    id: ck8tc5uayye0z0j78ssv73q8f
-    verified: false
-    hashtags: "#motorbike, #ktmexc, #scottgoggles, #scott"
+    hashtags: "#bulldogskincare, #gnamroma, #easter2020, #emptyrome"
   - username: "s_marelli"
     fullname: >-
       Stefano Marelli
     location: "Italy"
-    followers: 5800
-    engagement: 1596
-    commentsToLikes: 0.222694
+    followers: 5829
+    engagement: 1695
+    commentsToLikes: 0.204793
     id: ck6twfywyrrlc0j71r0amajyt
     verified: false
-    hashtags: "#nikon, #longexposhots, #nature, #trentino"
-  - username: "benyamin_tari"
-    fullname: >-
-      HEAD COACH IN DYNOMIKA GYM
-    location: "Italy"
-    followers: 53932
-    engagement: 873
-    commentsToLikes: 0.010468
-    id: ck5px4muzq2os0i11n02f0ud7
-    verified: false
-    hashtags: "#venezia, #kallehpro, #goprohero8, #oldstyle"
+    hashtags: "#visittrentino, #garda, #seaofclouds, #trentino"
   - username: "pigreco1971"
     fullname: >-
       Pierluigi 🤓
     location: "Italy"
-    followers: 6213
-    engagement: 1730
-    commentsToLikes: 0.124213
+    followers: 6266
+    engagement: 1677
+    commentsToLikes: 0.116802
     id: ck0u2dpr3zkgv0i1912u6sly2
     verified: false
-    hashtags: "#foriimperiali, #salitadelgrillo, #altaredellapatria, #colosseo"
-  - username: "francesco_treu"
+    hashtags: "#meier, #serious, #siviaggiare, #appiaantica"
+  - username: "massimo.mdl"
     fullname: >-
-      Francesco Ruggero Treu
+      Massimo Mercurio
     location: "Italy"
-    followers: 16131
-    engagement: 671
-    commentsToLikes: 0.149017
-    id: ck0tu8jas62e20i19012vwan2
+    followers: 18137
+    engagement: 809
+    commentsToLikes: 0.100885
+    id: ckaoy9syiglmu0i78r44tyf1s
     verified: false
-    hashtags: "#beautifulvienna, #topviennaphoto, #viennastravel, #viennagram"
+    hashtags: "#architectural, #archilovers, #interiorstyling, #architectur"
   - username: "stevaleri"
     fullname: >-
       𝙎𝙏𝙀𝙁𝘼𝙉𝙊 𝙑𝘼𝙇𝙀𝙍𝙄
     location: "Italy"
-    followers: 11972
-    engagement: 937
-    commentsToLikes: 0.064811
+    followers: 12132
+    engagement: 1035
+    commentsToLikes: 0.068429
     id: ck6tlmlcc68li0j718hi0zbc1
     verified: false
-    hashtags: "#italy, #instagarda, #arab, #toscana"
+    hashtags: "#suditalia, #night, #arte, #seascape"
+  - username: "yasmin_tango"
+    fullname: >-
+      Yasmine Tangou
+    location: "Italy"
+    followers: 11904
+    engagement: 1411
+    commentsToLikes: 0.044053
+    id: ck0w4wxn70t9v0i19eq3fyrof
+    verified: false
+    hashtags: ""
   - username: "dsignerm"
     fullname: >-
       Monica
     location: "Italy"
-    followers: 4756
-    engagement: 3267
-    commentsToLikes: 0.078704
+    followers: 4718
+    engagement: 3304
+    commentsToLikes: 0.078877
     id: ck5chstq7redn0i11xlddhrxk
     verified: false
     hashtags: "#colorfulfacadechallenge"

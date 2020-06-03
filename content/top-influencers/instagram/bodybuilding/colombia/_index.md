@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Colombia In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Colombia in 2020. Most popular hashtags: #fitness #gym #bodybuilding #photography.
+  Find top bodybuilding Instagram influencers in Colombia in 2020. Most popular hashtags: #bodybuilding #fitness #lifestyle #body.
 platform: Instagram
 profiles:
-  - username: "atleticoguyoficial"
+  - username: "andreitamtb"
     fullname: >-
-      Atleticoguyoficial
+      🚵ANDREITA💣
     location: "Colombia"
-    followers: 8221
-    engagement: 1222
-    commentsToLikes: 0.035579
-    id: ck6uapwgy4yfk0j71xsb0hqtg
+    followers: 50074
+    engagement: 563
+    commentsToLikes: 0.039105
+    id: ck138u2fli0r60i19nx75j4z0
     verified: false
-    hashtags: "#training, #onlyfans, #gym, #gymtime"
-  - username: "javihanaazul"
+    hashtags: "#girlgamer, #cuarentena, #powergirl, #mtbcolombia"
+  - username: "jean._.duque"
     fullname: >-
-      Javihana Azul
+      Jean Carlos Duque
     location: "Colombia"
-    followers: 119510
-    engagement: 170
-    commentsToLikes: 0.033847
-    id: ck5qbgmcnliuz0i11dl3yd8c7
+    followers: 28162
+    engagement: 1134
+    commentsToLikes: 0.019667
+    id: ck6u9es5rx57v0j71vm3pz27a
     verified: false
-    hashtags: "#bodybuilding, #video, #team, #woman"
-  - username: "suzanne_tr"
+    hashtags: "#sports, #instagram, #bope, #dress"
+  - username: "michi_bsa"
     fullname: >-
-      Susana Tapias Restrepo
+      Javier Barsi 🇨🇴
     location: "Colombia"
-    followers: 5674
-    engagement: 1247
-    commentsToLikes: 0.052894
-    id: ck6u7o4aamo8z0j71uphym2qm
+    followers: 42666
+    engagement: 428
+    commentsToLikes: 0.047798
+    id: ck5hmy2szmuei0i11u9dub8el
     verified: false
-    hashtags: "#beautifull, #happier, #rising, #courage"
-  - username: "paolisg25"
-    fullname: >-
-      𝑷𝒂𝒐𝒍𝒊𝒔 🖤
-    location: "Colombia"
-    followers: 74838
-    engagement: 311
-    commentsToLikes: 0.018685
-    id: ck5zs16q2xmo10i14bgzfwxk6
-    verified: false
-    hashtags: "#fitnessmodel, #sentadilla, #nature, #fitnessaddict"
+    hashtags: "#relax, #chill, #positivevibes, #strong"
   - username: "dahiabetancur"
     fullname: >-
       DaHiAnA BeTaNcUr  🌸 👀
     location: "Colombia"
-    followers: 20410
-    engagement: 313
-    commentsToLikes: 0.129269
+    followers: 21358
+    engagement: 281
+    commentsToLikes: 0.114714
     id: ck5zpekqcsj620i14rtne7liv
     verified: false
-    hashtags: "#bodyfitness, #marzograms, #goodvibes, #fitnessmodels"
-  - username: "marianelamodel"
+    hashtags: "#cuerpower, #trensuperior, #abrilview, #positivelife"
+  - username: "martalopezalamo"
     fullname: >-
-      Marianela💋Ramos
+      MARTA LÓPEZ ÁLAMO
     location: "Colombia"
-    followers: 44684
-    engagement: 657
-    commentsToLikes: 0.021936
-    id: ck5q3ihpokw7e0i11gl42nznm
-    verified: false
-    hashtags: "#argentina, #tendencia, #miss, #blondehair"
-  - username: "maleja__fitness"
+    followers: 160044
+    engagement: 269
+    commentsToLikes: 0.034894
+    id: ck5zvpp4g4ooo0i1444p6ti33
+    verified: true
+    hashtags: "#prozis, #selfie, #prettylittlething, #facetimeshoot"
+  - username: "taritarodriguez"
     fullname: >-
-      ✨MalejaFitness✨
+      T A R A  R O D R Í G U E Z 🔷
     location: "Colombia"
-    followers: 51597
-    engagement: 129
-    commentsToLikes: 0.153576
-    id: ck6ub52tt7ihr0j71agebuhxm
+    followers: 37091
+    engagement: 151
+    commentsToLikes: 0.149754
+    id: ck6ub53z17ipy0j71z79hildu
     verified: false
-    hashtags: "#healthylifestyle, #instalike, #body, #encasa"
-  - username: "roymoralesactor"
+    hashtags: "#quedateencasa, #sinestereotipos, #tallasplus, #sinbullying"
+  - username: "karinagrau"
     fullname: >-
-      Roy Morales
+      Karina Grau
     location: "Colombia"
-    followers: 41737
-    engagement: 61
-    commentsToLikes: 0.043293
-    id: ck0vxd8jtybl50i19ym90vkq8
+    followers: 86068
+    engagement: 112
+    commentsToLikes: 0.165884
+    id: ck15r9ref6uws0i19yhyahfp9
     verified: false
-    hashtags: "#smile, #malemodel, #menstyle, #colors"
-  - username: "benavidesph"
+    hashtags: "#sololosmejores, #mrolympia, #womensphysique, #stayfit"
+  - username: "suzanne_tr"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀JUAN SEBASTIAN BENAVIDES
+      Susana Tapias Restrepo
     location: "Colombia"
-    followers: 22676
-    engagement: 227
-    commentsToLikes: 0.023774
-    id: ck0twz8ighdo70i19vz19fjv0
+    followers: 5707
+    engagement: 1248
+    commentsToLikes: 0.052380
+    id: ck6u7o4aamo8z0j71uphym2qm
     verified: false
-    hashtags: "#missuniverso, #techno, #nature, #advertisingphotography"
-  - username: "morillodenis"
+    hashtags: "#positive, #goodenergy, #loveyourlife, #hustle"
+  - username: "maxmurillopro"
     fullname: >-
-      IFBB PRO Denis Morillo 🇩🇴
+      Natural PRO Athlete/Coach 🇨🇷
     location: "Colombia"
-    followers: 12986
-    engagement: 420
-    commentsToLikes: 0.036236
-    id: ck6udr5ikmoar0j712r1m0xcj
+    followers: 120303
+    engagement: 387
+    commentsToLikes: 0.010352
+    id: ck5bybwwtov8l0i11l5dok634
     verified: false
-    hashtags: "#champion, #gym, #hakunamatata, #teamanimalboro"
+    hashtags: "#quarantineprogress, #fitness, #naturalproathlete, #chill"
+  - username: "kuhubhosle"
+    fullname: >-
+      Kuhu Bhosle
+    location: "Colombia"
+    followers: 7310
+    engagement: 874
+    commentsToLikes: 0.021578
+    id: ck6tsfsdk4isj0j71yy3w18e5
+    verified: false
+    hashtags: "#womencrushwednesday, #rideordie, #love, #sheruclassiclatinamerica"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Austin In 2020
 description: >-
-  Find top gaming Instagram influencers in Austin in 2020. Most popular hashtags: #gaming #cosplay #powerrangers #cosplayersofinstagram.
+  Find top gaming Instagram influencers in Austin in 2020. Most popular hashtags: #gaming #xbox #twitch #covid.
 platform: Instagram
 profiles:
-  - username: "ajfrancis410"
+  - username: "sopo.snaps"
     fullname: >-
-      FRAN¢ 🎤 aka A.J. Francis
+      Sopo Snaps
     location: "United States"
-    followers: 28400
-    engagement: 155
-    commentsToLikes: 0.122758
-    id: ck0w1io32jjez0i19nsv9hsje
-    verified: true
-    hashtags: "#maskoff, #indiemusic, #2020, #toiletpaper"
-  - username: "austin_st_john"
+    followers: 236812
+    engagement: 338
+    commentsToLikes: 0.012583
+    id: ck14lrfnlw4cw0i19ufea0ink
+    verified: false
+    hashtags: "#learnathome, #vlogmas, #viralvideos, #kidinfluencers"
+  - username: "ram3dda"
     fullname: >-
-      Austin St. John
+      Ross A. Morris
     location: "United States"
-    followers: 191074
-    engagement: 117
-    commentsToLikes: 0.020568
-    id: ck0w5jugk3zsj0i198j9ieiiy
-    verified: true
-    hashtags: "#gaming, #japan, #orlando, #yeahthatgreenville"
+    followers: 9729
+    engagement: 497
+    commentsToLikes: 0.013354
+    id: ck138wfipichx0i19isldlt13
+    verified: false
+    hashtags: "#thegraphicspr0ject, #xbox, #starwars, #teslatruck"
   - username: "alechohnadell"
     fullname: >-
       Alec Hohnadell
     location: "United States"
-    followers: 98880
-    engagement: 153
-    commentsToLikes: 0.015181
+    followers: 98105
+    engagement: 170
+    commentsToLikes: 0.014108
     id: ck6u0iq16fxbz0j71ekch4oy3
     verified: false
-    hashtags: "#maggyboiiz, #advanrzii, #tbt, #mainsqueeze"
-  - username: "blakeafoster"
+    hashtags: "#fd2020, #assettocorsa, #realones, #butstillsame"
+  - username: "sideserfcakes"
     fullname: >-
-      Blake Foster
+      Sideserf Cake Studio
     location: "United States"
-    followers: 66611
-    engagement: 278
-    commentsToLikes: 0.036906
-    id: ck15t0qdmfrji0i19weuf56lj
+    followers: 151728
+    engagement: 286
+    commentsToLikes: 0.015409
+    id: ck0tywphdoduk0i19kyigy3xj
     verified: true
-    hashtags: "#sketchoftheday, #shiftintoturbo, #consistency, #eatcleantraindirty"
-  - username: "austingaming123"
+    hashtags: "#bulldoglife, #sculpting, #crafty, #cincodedrinko"
+  - username: "ava.gg"
     fullname: >-
-      Austin Davert
+      Ava || Austin Influencer
     location: "United States"
-    followers: 6627
-    engagement: 1481
-    commentsToLikes: 0.026776
-    id: ck55plp5fatvp0i11f9qqmtvd
+    followers: 80194
+    engagement: 486
+    commentsToLikes: 0.009558
+    id: ck0tuax3f6dsv0i195a4dukhl
     verified: false
-    hashtags: "#invisibleshield, #minivan, #instrument, #goalsetting"
-  - username: "angelabermudeza"
+    hashtags: "#twitch, #egirlmakeup, #terraforming, #livingroom"
+  - username: "keithagriner"
     fullname: >-
-      Angela Bermúdez
+      Keith Griner
     location: "United States"
-    followers: 38037
-    engagement: 504
-    commentsToLikes: 0.024996
-    id: ck15r92h86rdn0i19gpfc81fh
+    followers: 20953
+    engagement: 137
+    commentsToLikes: 0.038254
+    id: ck0vuxwbbmnvb0i19e4gao1am
     verified: false
-    hashtags: "#artcontest, #goals, #redeye, #crossplay"
-  - username: "michaela.lee1"
-    fullname: >-
-      Michaela Lee
-    location: "United States"
-    followers: 72864
-    engagement: 933
-    commentsToLikes: 0.012178
-    id: ck5c6vy9y6b950i116b8jca1v
-    verified: false
-    hashtags: "#mangacosplay, #underthesea, #dcutitans, #happy"
+    hashtags: "#recovery, #guitarist, #drummerslife, #bestphotomusic"
   - username: "joshd1301"
     fullname: >-
       Josh Davis
     location: "United States"
-    followers: 7320
-    engagement: 335
-    commentsToLikes: 0.029279
+    followers: 7196
+    engagement: 282
+    commentsToLikes: 0.033117
     id: ck0vyv5cb5xe30i194tiu0j7k
     verified: false
-    hashtags: "#musician, #concertphoto, #cinderellacastle, #thebombfactorydallas"
-  - username: "lamarrwilson"
+    hashtags: "#musician, #covid, #velmadinkley, #iconstudios"
+  - username: "jamierahn"
     fullname: >-
-      Lamarr Wilson
+      CaptainNBC
     location: "United States"
-    followers: 172568
-    engagement: 215
-    commentsToLikes: 0.021551
-    id: ck5q4r646pzbh0i11np0730jl
+    followers: 55391
+    engagement: 172
+    commentsToLikes: 0.026072
+    id: ck5bym61mpeyy0i112eh6r7fl
     verified: true
-    hashtags: "#sponsoredbyprimevideo, #la, #ad, #ps4backbuttonattachment"
+    hashtags: "#stlouis, #teamgreen, #climbing, #stability"
+  - username: "rorobeckley"
+    fullname: >-
+      Royce Adkins
+    location: "United States"
+    followers: 6255
+    engagement: 799
+    commentsToLikes: 0.069022
+    id: ck5zvndha4kbs0i14s5tj8b7s
+    verified: false
+    hashtags: "#onwardmovie, #flex, #gaming, #lifehacks"
   - username: "nikoriana"
     fullname: >-
-      Nicole
+      nicole iriana 🍵
     location: "United States"
-    followers: 5699
-    engagement: 986
-    commentsToLikes: 0.015463
+    followers: 5609
+    engagement: 1001
+    commentsToLikes: 0.015522
     id: ck5hjjzcigrhz0i1103pfmobg
     verified: false
-    hashtags: "#cheers, #soverythankful, #stabilo, #designer"
+    hashtags: "#outdoors, #shibuya, #octopus, #margotlunacat"
 ---

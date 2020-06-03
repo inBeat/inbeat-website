@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Turkey In 2020
 description: >-
-  Find top christian Instagram influencers in Turkey in 2020. Most popular hashtags: #love #istanbul #turkey #art.
+  Find top christian Instagram influencers in Turkey in 2020. Most popular hashtags: #travel #blue #paris #stayathome.
 platform: Instagram
 profiles:
-  - username: "ahedghraizy"
+  - username: "bahadirsansarci"
     fullname: >-
-      ✨👸🏻🍦عهد🍦👸🏻✨
+      Bahadır Sansarcı
     location: "Turkey"
-    followers: 140833
+    followers: 6653
+    engagement: 2518
+    commentsToLikes: 0.138457
+    id: ck5znstoyp34m0i14c77678tg
+    verified: false
+    hashtags: "#slovenia, #zapsuyu, #berchtesgaden, #exploringglobe"
+  - username: "dorukutuk_"
+    fullname: >-
+      Doriloji
+    location: "Turkey"
+    followers: 3284
+    engagement: 1390
+    commentsToLikes: 0.052173
+    id: ckap8hdc5ob4n0i78hd8m8jcc
+    verified: false
+    hashtags: "#floransa, #uffizigallery, #norvec, #couchsurfing"
+  - username: "helyailkhani"
+    fullname: >-
+      Helya Ilkhani 👸🏼هليا ايلخانى
+    location: "Turkey"
+    followers: 289965
+    engagement: 295
+    commentsToLikes: 0.034040
+    id: ck9wf3dspn3uu0j78revgpeu0
+    verified: false
+    hashtags: "#mask, #accent, #amazon, #toyota"
+  - username: "bayildimmm"
+    fullname: >-
+      Bayildimmm
+    location: "Turkey"
+    followers: 785086
     engagement: 147
-    commentsToLikes: 0.044941
-    id: ck0w4c0kkxtod0i19sksxybv2
+    commentsToLikes: 0.088786
+    id: ck0u0b008t4u60i19wruy2xpt
     verified: false
-    hashtags: "#love, #mood, #ayasofya, #igstyle"
-  - username: "dornans.girl"
+    hashtags: "#wedding, #likeart, #bestrestaurant, #tatildedans"
+  - username: "themovieturkiye"
     fullname: >-
-      Jamie Dornan ~Naz ☘️
+      The Marvel Türkiye
     location: "Turkey"
-    followers: 13718
-    engagement: 653
-    commentsToLikes: 0.017061
-    id: ck5c4kv0p1kbr0i113f2ghx4s
+    followers: 32770
+    engagement: 567
+    commentsToLikes: 0.025126
+    id: ckapaoqmlww0q0i78abj4rplz
     verified: false
-    hashtags: "#ireland, #elvadornan, #husband, #robinhood"
-  - username: "blogging2girl"
+    hashtags: "#anjelicahuston, #edwardcullen, #monkey, #parabellum"
+  - username: "zeynepkalkan"
     fullname: >-
-      Gökçe's Wonderland
+      Zeynep Uludağ
     location: "Turkey"
-    followers: 13018
-    engagement: 701
-    commentsToLikes: 0.028660
-    id: ck14gp0da6bq50i19vqwr2h1l
+    followers: 122691
+    engagement: 262
+    commentsToLikes: 0.051032
+    id: ck0u6g9la1xlr0i1997xbi21q
     verified: false
-    hashtags: "#artexhibition, #sendorumsuzpazartesi, #perfume, #lipsticklover"
-  - username: "amcgrimes5"
+    hashtags: "#boredinthehouse, #plankchallenge, #couplegoals, #iloveyou"
+  - username: "ikizlerleokuyorum"
     fullname: >-
-      Merve
+      Zeynep
     location: "Turkey"
-    followers: 33235
-    engagement: 554
-    commentsToLikes: 0.006159
-    id: ck15thtaki5ao0i19hinib55i
+    followers: 4569
+    engagement: 1152
+    commentsToLikes: 0.096496
+    id: ck5q7tm8i30yx0i11rmoe1pzo
     verified: false
-    hashtags: "#carlgrimes, #rip, #christianserratos, #thewalkingdead"
-  - username: "dkmontages7"
+    hashtags: "#cihankaramanc, #masadakid, #ottiviasalina, #necipmahfuz"
+  - username: "sanattarihiplatformu"
     fullname: >-
-      DK MONTAGES
+      Sanat Tarihi Platformu
     location: "Turkey"
-    followers: 7690
-    engagement: 1165
-    commentsToLikes: 0.020495
-    id: ck0u2gh7qzx1v0i19k4a22hsn
+    followers: 34025
+    engagement: 209
+    commentsToLikes: 0.027220
+    id: ck0w4w3c80oz30i19t6ed555l
     verified: false
-    hashtags: "#karakartal, #mertg, #turkey, #france"
-  - username: "goturkey"
+    hashtags: "#ortaasya, #oryantalist, #minaret, #ludwigdeutsch"
+  - username: "naazilaher_"
     fullname: >-
-      Go Turkey
+      Naazi Laher
     location: "Turkey"
-    followers: 677116
-    engagement: 148
-    commentsToLikes: 0.007897
-    id: ck0tuj7eq7ela0i19d2xiz6nl
-    verified: true
-    hashtags: "#goturkey, #turkishtea, #womenpioneersofturkey, #turkishmuseums"
-  - username: "eceerken"
-    fullname: >-
-      Ece Erken
-    location: "Turkey"
-    followers: 2692609
-    engagement: 108
-    commentsToLikes: 0.001913
-    id: ck5q9xpp3djas0i116rc55pdw
-    verified: true
-    hashtags: "#christianbale, #7nisan, #beraberg"
-  - username: "christian_ferretti"
-    fullname: >-
-      Christian Ferretti
-    location: "Turkey"
-    followers: 66303
-    engagement: 214
-    commentsToLikes: 0.000000
-    id: ck15r1n8b5owk0i19xwdkrkou
+    followers: 4422
+    engagement: 648
+    commentsToLikes: 0.099558
+    id: ck14ijxphfs940i19ugaex2c1
     verified: false
-    hashtags: "#pantheraleo, #loxodonta, #giraffe"
-  - username: "rudi.ct"
+    hashtags: "#mantra, #christiandior, #myjourney, #zarawoman"
+  - username: "jeymstuncer"
     fullname: >-
-      Rudi Nieuwenhuys - Male Model
+      Cem Tuncer
     location: "Turkey"
-    followers: 17036
-    engagement: 438
-    commentsToLikes: 0.054913
-    id: ck5q9xnaddiyr0i113v2a92t5
+    followers: 5662
+    engagement: 542
+    commentsToLikes: 0.046036
+    id: ck8t0sdayt4h10j78k4084ynt
     verified: false
-    hashtags: "#commitment, #backtowork, #capetown, #film"
-  - username: "victorozuna"
-    fullname: >-
-      Victor Ozuna
-    location: "Turkey"
-    followers: 51979
-    engagement: 167
-    commentsToLikes: 0.007063
-    id: ck55paxc9a6mp0i11bb1c6klf
-    verified: false
-    hashtags: "#nowherediary, #couple, #couplegoals, #stayhome"
+    hashtags: "#rickyford, #st, #nas, #edizhaf"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Sao Paulo In 2020
 description: >-
-  Find top health Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #lifestyle #health #fitness #saopaulo.
+  Find top health Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #health #photography #training #fiqueemcasa.
 platform: Instagram
 profiles:
-  - username: "thiagodjsp"
+  - username: "guilhermekramer"
     fullname: >-
-      Thiago DJ
+      Kramer
     location: "Brazil"
-    followers: 36603
-    engagement: 114
-    commentsToLikes: 0.048656
-    id: ck601ck39f8qu0i14ihxy3f9e
+    followers: 10316
+    engagement: 432
+    commentsToLikes: 0.045050
+    id: ck15t35efg43f0i19rxdxiaui
     verified: false
-    hashtags: "#familia, #family, #cat, #queroserjohnmalkovich"
+    hashtags: "#safe, #diaspora, #virus, #artbrut"
   - username: "alinegoficial"
     fullname: >-
       Aline Gotschalg 🧿✨
     location: "Brazil"
-    followers: 2481308
-    engagement: 336
-    commentsToLikes: 0.009821
+    followers: 2458311
+    engagement: 270
+    commentsToLikes: 0.008852
     id: ck0vy68ez2f9p0i19qmxwh2va
     verified: true
-    hashtags: "#carnaval2020, #emcasa, #quarentena, #juntospelapascoa"
+    hashtags: "#emcasa, #quarentena, #juntospelapascoa, #rafacampe"
   - username: "carlosgopfert"
     fullname: >-
       Carlos Gopfert
     location: "Brazil"
-    followers: 220011
-    engagement: 359
-    commentsToLikes: 0.089663
+    followers: 214384
+    engagement: 335
+    commentsToLikes: 0.079884
     id: ck5c69yen50r30i11i8za0lyg
     verified: false
-    hashtags: "#cliche, #vibepositiva, #sejaasuamelhorversao, #recife"
-  - username: "paulaamorimbarbosa"
+    hashtags: "#momentos, #carna2020, #foco, #beach"
+  - username: "hudson_carioca"
     fullname: >-
-      Paula Carolina
+      Hudson Carioca
     location: "Brazil"
-    followers: 3109285
-    engagement: 183
-    commentsToLikes: 0.009792
-    id: ck0tu2ihs5ck40i19tmahmqx0
+    followers: 26469
+    engagement: 667
+    commentsToLikes: 0.018630
+    id: ck9wdjy30fzks0j780eqkfnji
+    verified: false
+    hashtags: "#motherday, #menstyle, #5kmrun, #bepositive"
+  - username: "blhenndow"
+    fullname: >-
+      Carlos Blhenndow
+    location: "Brazil"
+    followers: 100855
+    engagement: 229
+    commentsToLikes: 0.019768
+    id: ck5zqo39luyrl0i14g4zlewp4
+    verified: false
+    hashtags: "#travel, #stayhome, #training, #tbt"
+  - username: "viniciusbellator.rodrigues"
+    fullname: >-
+      Vinicius Rodrigues ⚡️
+    location: "Brazil"
+    followers: 19525
+    engagement: 239
+    commentsToLikes: 0.025284
+    id: ck13auxcmsbca0i193khubmum
     verified: true
-    hashtags: "#fallwinter, #boxelegance, #emcasa, #live"
-  - username: "juliopeixotto"
+    hashtags: "#covid, #bellator, #worldrecord, #tokyo2021"
+  - username: "luadovalle"
     fullname: >-
-      Julio Peixoto
+      LUÃ DO VALLE
     location: "Brazil"
-    followers: 19384
-    engagement: 286
-    commentsToLikes: 0.027247
-    id: ck5zsrbxiz1qy0i14xvknq8c1
+    followers: 38227
+    engagement: 152
+    commentsToLikes: 0.087499
+    id: ck9hbzoxvj4q80j78tf8br63q
     verified: false
-    hashtags: "#poledoubles, #projetoinstrutor, #love, #spinpolecombo"
-  - username: "tawanaramos"
+    hashtags: "#sentimentos, #empreendedor, #carlinhosmaia, #vendas"
+  - username: "gabrielemoraiss"
     fullname: >-
-      Tawana Ramos
+      Gabriele Morais
     location: "Brazil"
-    followers: 10490
-    engagement: 595
-    commentsToLikes: 0.322045
-    id: ck13cji3a0nm10i19husmpxmf
+    followers: 29111
+    engagement: 134
+    commentsToLikes: 0.077165
+    id: ck8t2duxcz3yy0j78c4wdmwsb
     verified: false
-    hashtags: "#sorteio, #influencer, #fitness, #curitbacool"
-  - username: "stefanopiccioni"
+    hashtags: "#dazzlelovers, #day4, #happyday, #summervibes"
+  - username: "marcogomes"
     fullname: >-
-      Stefano Piccioni - WBFF PRO
+      Marco Gomes
     location: "Brazil"
-    followers: 17707
-    engagement: 411
-    commentsToLikes: 0.024538
-    id: ck5q9fz3kaxjg0i11w1iincxc
+    followers: 58585
+    engagement: 269
+    commentsToLikes: 0.012322
+    id: ck601cu2wf99t0i141jtleofa
     verified: false
-    hashtags: "#menshair, #pharmacy, #farmacias, #vidaemequilibrio"
-  - username: "rodrigonegrini"
+    hashtags: "#historia, #privacy, #tourism, #abolicionismo"
+  - username: "laisfuzetto"
     fullname: >-
-      RODRIGO NEGRINI
+      Lais Fuzetto
     location: "Brazil"
-    followers: 44778
-    engagement: 329
-    commentsToLikes: 0.015895
-    id: ck139y5o6npe50i195j74cx7r
+    followers: 23237
+    engagement: 514
+    commentsToLikes: 0.022379
+    id: ck14kkez7py1h0i19ih9pw72u
     verified: false
-    hashtags: "#show, #principeeric, #rodrigonegrini, #jumping"
-  - username: "lu.millani"
-    fullname: >-
-      *Luiza Millani*
-    location: "Brazil"
-    followers: 41096
-    engagement: 182
-    commentsToLikes: 0.153004
-    id: ck14l1jazsdny0i1907bdhp0s
-    verified: false
-    hashtags: "#biquini, #maquiadora, #micareta, #pular"
-  - username: "fabianoferreirajugger"
-    fullname: >-
-      Juggernaut Bodybuilder ®
-    location: "Brazil"
-    followers: 56095
-    engagement: 171
-    commentsToLikes: 0.012135
-    id: ck5c9t444c2jw0i11pv9xpa0m
-    verified: false
-    hashtags: "#boatarde, #life, #muscles, #hipopressivos"
+    hashtags: "#running, #pedalboard, #morro, #visagismo"
 ---

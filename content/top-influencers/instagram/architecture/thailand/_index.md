@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Thailand In 2020
 description: >-
-  Find top architecture Instagram influencers in Thailand in 2020. Most popular hashtags: #galaxynote10th #withgalaxy #teamgalaxy #beautiful.
+  Find top architecture Instagram influencers in Thailand in 2020. Most popular hashtags: #architecture #2020 #sunset #photography.
 platform: Instagram
 profiles:
-  - username: "mewpittinun"
-    fullname: >-
-      Pittinun Jariyavilaskul
-    location: "Thailand"
-    followers: 53231
-    engagement: 327
-    commentsToLikes: 0.005088
-    id: ck0vv9fg8o4w00i19x8xpg9mm
-    verified: false
-    hashtags: "#rogerdeakins, #bauhaus, #spen, #majorroadshow"
   - username: "nwrmis"
     fullname: >-
       Natwaramon Fischl
     location: "Thailand"
-    followers: 5955
-    engagement: 413
-    commentsToLikes: 0.021320
+    followers: 6103
+    engagement: 484
+    commentsToLikes: 0.020375
     id: ck6tqd4u6qrmk0j71wgk1q0o6
     verified: false
-    hashtags: "#lifeinsumner, #lhanaashwin, #lhanaadhwin, #momblogger"
+    hashtags: "#momsofinstagram, #momblogger, #tiktok, #lhanaashwin"
   - username: "chaanviid"
     fullname: >-
       CC
     location: "Thailand"
-    followers: 28469
-    engagement: 187
-    commentsToLikes: 0.044241
+    followers: 28346
+    engagement: 179
+    commentsToLikes: 0.043549
     id: ck5hhj3sn8hql0i11ual2bcue
     verified: false
-    hashtags: "#galaxynote10th, #ultrawide, #galaxynote10th, #galaxys20th"
+    hashtags: "#singletake, #letsbecreativeeveryone, #jubiloveyou, #robotkiss"
   - username: "pearnattatida"
     fullname: >-
       PEAR.
     location: "Thailand"
-    followers: 177782
-    engagement: 330
-    commentsToLikes: 0.000757
+    followers: 178066
+    engagement: 186
+    commentsToLikes: 0.001059
     id: ck13cbdvnzion0i19izrsy2n9
     verified: true
-    hashtags: "#ananyacouture, #trypomelo, #tkmp6363, #amarintv34"
+    hashtags: "#pomelofsshion, #fooddiarybycp, #mistofrainbrand, #beachaddict"
   - username: "jinnychotivichit"
     fullname: >-
-      Jinny Kerika Chotivichit
+      Jinny . C 🦋
     location: "Thailand"
-    followers: 431810
-    engagement: 67
-    commentsToLikes: 0.006749
+    followers: 431752
+    engagement: 91
+    commentsToLikes: 0.006967
     id: ck0ueruw3m0o60i19qfgdb35l
     verified: true
-    hashtags: "#eveandboybestsellingawards2019, #diorskincare, #jinnyspiano, #quarantineday6"
+    hashtags: "#jinnyscookin, #cannesmoment, #tlspth, #setdontsettle"
   - username: "buroolescheeren"
     fullname: >-
       Buro Ole Scheeren
     location: "Thailand"
-    followers: 18809
-    engagement: 424
-    commentsToLikes: 0.005938
+    followers: 19218
+    engagement: 418
+    commentsToLikes: 0.006032
     id: ck15q42930zvj0i19eiwss9dn
     verified: false
-    hashtags: "#landmark, #arch, #klcity, #thailand"
+    hashtags: "#ctbuh, #cityscape, #architecturemodels, #skyscrapercity"
   - username: "maratgrigorian"
     fullname: >-
       Marat Grigorian
     location: "Thailand"
-    followers: 36872
-    engagement: 947
-    commentsToLikes: 0.013232
+    followers: 37235
+    engagement: 879
+    commentsToLikes: 0.011972
     id: ck5cebxjjkqqi0i11brm87u3h
     verified: false
-    hashtags: "#church, #lionheart, #mg, #culture"
+    hashtags: "#catsofinstagram, #heart, #teacup, #lifelessons"
   - username: "gregorychoplinofficial"
     fullname: >-
       Gregory Choplin
     location: "Thailand"
-    followers: 33777
-    engagement: 291
-    commentsToLikes: 0.020446
+    followers: 33552
+    engagement: 293
+    commentsToLikes: 0.023335
     id: ck136ue8z8b9f0i194a1bqu8c
     verified: false
-    hashtags: "#sinkorswim, #gogetit, #graffitiart, #conditioning"
-  - username: "allan_around_the_world"
+    hashtags: "#wrestling, #expat, #strongpeople, #chilling"
+  - username: "gypsypianist"
     fullname: >-
-      Allan Haze
+      ❤︎🅖🅨🅟🅢🅨ⓅⒾⒶⓃⒾⓈⓉ❤︎PLOY
     location: "Thailand"
-    followers: 2779
-    engagement: 913
-    commentsToLikes: 0.151183
-    id: ck5qc8fyupcgg0i11cf2thut7
+    followers: 23956
+    engagement: 351
+    commentsToLikes: 0.135363
+    id: ck8tdtruk4qnr0j78xygp621h
     verified: false
-    hashtags: "#bahiadebanderas, #buddhism, #bangkokcityvibes, #exploremexico"
-  - username: "supatjan"
+    hashtags: "#toneitup, #tokyostreet, #marinabaysand, #biker"
+  - username: "wandering_italiangirl"
     fullname: >-
-      Jan
+      ℬlasiℬlasetti gℴ tℴ...🌍
     location: "Thailand"
-    followers: 30894
-    engagement: 106
-    commentsToLikes: 0.109791
-    id: ck5q4ax8soeol0i11fp8pov6t
+    followers: 11889
+    engagement: 1090
+    commentsToLikes: 0.098657
+    id: ck9hbnf54hmbc0j78290xz4dd
     verified: false
-    hashtags: "#galaxyth, #ultrawide, #withgalaxy, #teamgalaxy"
+    hashtags: "#getlostnow, #landscapephotography, #allbeauty, #zenbuddhism"
+  - username: "lllouis"
+    fullname: >-
+      Suppachai V.
+    location: "Thailand"
+    followers: 29369
+    engagement: 264
+    commentsToLikes: 0.006166
+    id: ck9woyx6c732s0j78rr8sakjw
+    verified: false
+    hashtags: "#watercolorpainting, #ipadproart, #fountainpen, #pencilwork"
 ---

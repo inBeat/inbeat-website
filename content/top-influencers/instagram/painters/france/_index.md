@@ -1,29 +1,29 @@
 ---
 title: Top 10 Painters Instagram Influencers In France In 2020
 description: >-
-  Find top painters Instagram influencers in France in 2020. Most popular hashtags: #painting #art #contemporaryart #oilpainting.
+  Find top painters Instagram influencers in France in 2020. Most popular hashtags: #blue #artwork #paint #drawing.
 platform: Instagram
 profiles:
-  - username: "oneangel.abroad"
+  - username: "barphul"
     fullname: >-
-      𝙰𝚗𝚐𝚎𝚕𝚒𝚚𝚞𝚎 𝚃𝚜𝚊𝚗𝚒𝚜
+      BarbaraArphul 🇬🇭🇨🇮💕
     location: "France"
-    followers: 62886
-    engagement: 569
-    commentsToLikes: 0.021921
-    id: ck0u6gnxp1zks0i19014xutcx
+    followers: 19035
+    engagement: 352
+    commentsToLikes: 0.032026
+    id: ck602ibwzhg2i0i14fpd0j1q9
     verified: false
-    hashtags: "#athens, #hotelgrandebretagne, #stayhome, #laskos"
-  - username: "koga.one"
+    hashtags: "#fitfam, #fitspo, #fitnessgoals, #fitnessaddict"
+  - username: "ricky400ml"
     fullname: >-
-      Matthieu Koga
+      ✖ Ricƙყ
     location: "France"
-    followers: 6093
-    engagement: 649
-    commentsToLikes: 0.045499
-    id: ck6014w4reua60i14aedlbbqs
+    followers: 5883
+    engagement: 1471
+    commentsToLikes: 0.121931
+    id: ckap0xhz7s8uv0i782sqcijms
     verified: false
-    hashtags: "#ballpendrawing, #pendraw, #kogaone, #illustration"
+    hashtags: "#artsgram, #beet, #goodtype, #typegang"
   - username: "nikollah"
     fullname: >-
       Nikollah
@@ -34,74 +34,74 @@ profiles:
     id: ck5bwkhjylvk00i11gnb4em1e
     verified: false
     hashtags: "#friyay, #chest, #artistic, #maleart"
+  - username: "allisondepmuah"
+    fullname: >-
+      Allison Depriestre Makeup
+    location: "France"
+    followers: 20928
+    engagement: 257
+    commentsToLikes: 0.052108
+    id: ck0ud1im6i64m0i196j0844wj
+    verified: false
+    hashtags: "#redlips, #sumptuouslash, #wavyhairstyle, #howtomakeup"
+  - username: "flora.roberts"
+    fullname: >-
+      Flora Roberts
+    location: "France"
+    followers: 6446
+    engagement: 1082
+    commentsToLikes: 0.087483
+    id: ckaoqt9i6ka390i7841t146jb
+    verified: false
+    hashtags: "#flowers, #theclear, #edgeofthegarden, #find"
+  - username: "koga.one"
+    fullname: >-
+      Matthieu Koga
+    location: "France"
+    followers: 6192
+    engagement: 659
+    commentsToLikes: 0.041105
+    id: ck6014w4reua60i14aedlbbqs
+    verified: false
+    hashtags: "#spraypaint, #portraits, #wall, #exhibition"
   - username: "ehssan.gholami"
     fullname: >-
       Ehssan Gholami
     location: "France"
-    followers: 3446
-    engagement: 2608
-    commentsToLikes: 0.067647
+    followers: 3365
+    engagement: 2660
+    commentsToLikes: 0.068308
     id: ck55m0lub2wm20i11vsoo5c37
     verified: false
-    hashtags: "#galleryart, #artistsoninstagram, #arttutorials, #artgallery"
-  - username: "sweetvanlife"
+    hashtags: "#roma, #paintings, #wall, #concept"
+  - username: "_robin_art"
     fullname: >-
-      🇫🇷 Ben & Poppy 🚐💨🎥🗺
+      RobinDessin ✏️
     location: "France"
-    followers: 57020
-    engagement: 541
-    commentsToLikes: 0.036228
-    id: ck5zpvgqrtfdc0i14e0r2drgm
+    followers: 28106
+    engagement: 877
+    commentsToLikes: 0.025749
+    id: ckapb7h3lyv0o0i78otc5qwu1
     verified: false
-    hashtags: "#fiat238, #fiat238camper, #france, #diy"
-  - username: "markusakessonvisual"
-    fullname: >-
-      Markus Åkesson
-    location: "France"
-    followers: 19475
-    engagement: 893
-    commentsToLikes: 0.021982
-    id: ck6u6wdsvi3lv0j71qu01xbqj
-    verified: false
-    hashtags: "#art, #oiloncanvas, #toiledejouy, #organicfabrications"
-  - username: "pietrodriguez"
-    fullname: >-
-      Piet Rodriguez
-    location: "France"
-    followers: 5373
-    engagement: 1361
-    commentsToLikes: 0.036474
-    id: ck14hmh7lb2ag0i191xansoej
-    verified: false
-    hashtags: "#muse, #travel, #urbanart, #canvas"
+    hashtags: "#copicmarker, #illustrators, #cartoonartist, #caligraphyart"
   - username: "crazymurieli"
     fullname: >-
       Muriel Massin
     location: "France"
-    followers: 17878
-    engagement: 420
-    commentsToLikes: 0.053437
+    followers: 18571
+    engagement: 402
+    commentsToLikes: 0.071061
     id: ck8t4g0go6nwr0j78rwq8eapm
     verified: false
-    hashtags: "#inspiration, #flaming, #abstractexpressionism, #murielmassin"
-  - username: "nebriuson"
+    hashtags: "#collage, #black"
+  - username: "joanniehoule_art"
     fullname: >-
-      Seyni N'diaye
+      Joannie Houle
     location: "France"
-    followers: 10741
-    engagement: 872
-    commentsToLikes: 0.039890
-    id: ck8t9pvamowod0j781aow3hm4
+    followers: 25498
+    engagement: 1109
+    commentsToLikes: 0.020260
+    id: ck0u7iu0b4vpg0i19v75vgjvy
     verified: false
-    hashtags: "#paintingminiatures, #30k, #loonboss, #onidemon"
-  - username: "_victorbaroni_"
-    fullname: >-
-      ＶＩＣＴＯＲ ＢＡＲＯＮＩ
-    location: "France"
-    followers: 46538
-    engagement: 559
-    commentsToLikes: 0.021092
-    id: ck14jor51lfh20i196p5bipke
-    verified: false
-    hashtags: "#abstractart, #fineartpainting, #luxury, #resinartist"
+    hashtags: "#sharethelove, #plants, #artphilosophy, #whitegalleryco"
 ---

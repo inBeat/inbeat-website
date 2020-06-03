@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Russia In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Russia in 2020. Most popular hashtags: #tattoo #realistictattoo #skinartmag #bishoprotary.
+  Find top tattoo-artists Instagram influencers in Russia in 2020. Most popular hashtags: #snake #girl #tattoosnake #princess.
 platform: Instagram
 profiles:
   - username: "zema_zima"
     fullname: >-
       JANE ZIMINA
     location: "Russia"
-    followers: 36868
-    engagement: 332
-    commentsToLikes: 0.026951
+    followers: 36458
+    engagement: 305
+    commentsToLikes: 0.026437
     id: ck15uh0wzn5830i19grh8r0xr
     verified: false
-    hashtags: "#inkdeep, #blackwork, #wtt, #inkstinct"
+    hashtags: "#inkdeep, #moscow, #tattooinmoscow, #tattoogirl"
   - username: "broock.schaft"
     fullname: >-
       Polina Svetlova
     location: "Russia"
-    followers: 47474
-    engagement: 240
-    commentsToLikes: 0.021886
+    followers: 47387
+    engagement: 106
+    commentsToLikes: 0.035211
     id: ck6u60swacw0e0j71pg8rbae7
     verified: false
-    hashtags: "#schaft, #backstage, #challenge"
-  - username: "mo.no.tattoo"
+    hashtags: "#schaft, #challenge, #make, #backstage"
+  - username: "cubatattoo"
     fullname: >-
-      Svetlana Ehrt
+      Karina Cuba
     location: "Russia"
-    followers: 13915
-    engagement: 650
-    commentsToLikes: 0.014317
-    id: ck5hoqv2nq26t0i11d32jr6cw
+    followers: 77572
+    engagement: 151
+    commentsToLikes: 0.020507
+    id: ck5hng2ganq0w0i11wtanhd6v
     verified: false
-    hashtags: ""
+    hashtags: "#tattooartistsrussia, #frenchie, #frenchbulldog, #babakhintatau"
   - username: "katrinlove27"
     fullname: >-
       🔮Katrin Tattoo🔮
     location: "Russia"
-    followers: 63465
-    engagement: 126
-    commentsToLikes: 0.020862
+    followers: 62676
+    engagement: 108
+    commentsToLikes: 0.027208
     id: ck5buo2ezi4g00i11y18pdaql
     verified: false
-    hashtags: "#inkedspace, #stayathome, #piersib, #tattoospace"
+    hashtags: "#chloe, #tattooblack, #tattoowine, #dancewithme"
+  - username: "donenaya"
+    fullname: >-
+      Don Enaya
+    location: "Russia"
+    followers: 59677
+    engagement: 270
+    commentsToLikes: 0.008700
+    id: ckap9aoswrva00i78w0rqime3
+    verified: false
+    hashtags: "#nfc2020, #plussizefashion, #chubbybabe, #plussizemodels"
+  - username: "andrey_kolbasin"
+    fullname: >-
+      Andrey  Kolbasin
+    location: "Russia"
+    followers: 65912
+    engagement: 107
+    commentsToLikes: 0.019070
+    id: ck6ude60mkku50j71klzbd715
+    verified: false
+    hashtags: ""
+  - username: "holt_unicorn"
+    fullname: >-
+      Kate Holt
+    location: "Russia"
+    followers: 34030
+    engagement: 294
+    commentsToLikes: 0.008268
+    id: ckap8o39jp78r0i78pu8xrqxd
+    verified: false
+    hashtags: "#catwork, #eurotriptattoo, #disneyprincess, #kittytattoo"
   - username: "jerry_tattoo"
     fullname: >-
       Lettering ♠️🖤 Mandala script
     location: "Russia"
-    followers: 39170
-    engagement: 171
-    commentsToLikes: 0.015128
+    followers: 39292
+    engagement: 168
+    commentsToLikes: 0.013486
     id: ck5c9rmq2bzhk0i11gt2ds3uj
     verified: false
-    hashtags: "#lettering, #letterart, #moscowcity, #tattoospb"
+    hashtags: "#tattoospb, #tattoolettering, #canvas, #calligraphyart"
   - username: "swallow_tattoo"
     fullname: >-
       #Гошанмосковский
     location: "Russia"
-    followers: 25278
-    engagement: 431
-    commentsToLikes: 0.044611
+    followers: 27249
+    engagement: 402
+    commentsToLikes: 0.045165
     id: ck8sz476gn3ne0j78byozafwa
     verified: false
-    hashtags: "#witcher3, #witcher2, #margotrobbie, #spain"
-  - username: "adeliya__art"
-    fullname: >-
-      Мехенди▪︎Tату▪︎Казань|Model 🖤
-    location: "Russia"
-    followers: 16839
-    engagement: 158
-    commentsToLikes: 0.048794
-    id: ck6ubyyh9ci560j71f932j4jf
-    verified: false
-    hashtags: "#hennaart, #kazan, #henna, #tattookazan"
-  - username: "butrin7"
-    fullname: >-
-      
-    location: "Russia"
-    followers: 25851
-    engagement: 240
-    commentsToLikes: 0.022124
-    id: ck5zouxzfre2j0i14ofxq429w
-    verified: false
-    hashtags: "#realistictattoo, #fkironsxion, #guntattoos, #tattoogirl"
+    hashtags: "#300, #football, #harleyquinn, #spain"
   - username: "verypoisonivy"
     fullname: >-
       Russian Tattoo Girl 🐈
     location: "Russia"
-    followers: 25085
-    engagement: 354
-    commentsToLikes: 0.013900
+    followers: 25878
+    engagement: 396
+    commentsToLikes: 0.015591
     id: ck15trhyfjit30i19yv1w9j3g
     verified: false
-    hashtags: "#trustory, #stayhome"
-  - username: "renortattoo"
-    fullname: >-
-      Kirill Matusevich
-    location: "Russia"
-    followers: 29484
-    engagement: 116
-    commentsToLikes: 0.084826
-    id: ck5hi55jfbpaj0i11yrldhxav
-    verified: false
-    hashtags: "#girltattoo, #chicanotattoo, #nocturnal, #horrortattoo"
+    hashtags: "#trustory, #stayhome, #achiv2018"
 ---

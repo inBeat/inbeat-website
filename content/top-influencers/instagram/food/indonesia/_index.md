@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top food Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #lfl #tiktok #caffinopremiumuser.
+  Find top food Instagram influencers in Indonesia in 2020. Most popular hashtags: #throwback #stayhome #corona #natural.
 platform: Instagram
 profiles:
-  - username: "kaitlinharasta"
-    fullname: >-
-      Kaitlin
-    location: "Indonesia"
-    followers: 39537
-    engagement: 285
-    commentsToLikes: 0.070462
-    id: ck8tchwrvzjcj0j78gc89zb1j
-    verified: false
-    hashtags: "#swankstore, #edgesocials"
-  - username: "sisca.yie"
-    fullname: >-
-      Sisca yie
-    location: "Indonesia"
-    followers: 56333
-    engagement: 250
-    commentsToLikes: 0.170321
-    id: ck6u0rqj7he1s0j717bvrqhvi
-    verified: false
-    hashtags: "#stokdarurattetapsehat, #eskrimenak, #dirumahaja, #theshonetdotcom"
   - username: "zarazafiraa"
     fullname: >-
       dr. Zara Zafira
     location: "Indonesia"
-    followers: 2345
-    engagement: 2685
-    commentsToLikes: 0.054748
+    followers: 2558
+    engagement: 2426
+    commentsToLikes: 0.121571
     id: ck13cdro6zuyk0i19ayh7wss0
     verified: false
-    hashtags: "#kiehlsid, #kinawetmudacompetition, #explorebali, #tunjungan"
-  - username: "hees.ty"
+    hashtags: "#exploresemarang, #kiehlsbrighteningserum, #probolinggo, #dirumahajagiveaway"
+  - username: "subianto.eko"
     fullname: >-
-      𝙊𝙋𝙀𝙉 𝙀𝙉𝘿𝙊𝙍𝙎/𝙋𝙋
+      SUBI - Hotel Reviewer
     location: "Indonesia"
-    followers: 11770
-    engagement: 1125
-    commentsToLikes: 0.125774
-    id: ck137jj52buxu0i19uxvcryfg
+    followers: 31984
+    engagement: 582
+    commentsToLikes: 0.059010
+    id: ck6u8z2f9uj5a0j713axvwjot
     verified: false
-    hashtags: "#hijabcantik, #fff, #likephoto, #hijabindokece"
-  - username: "dewsari09"
+    hashtags: "#acukla2ki, #batiksolo, #photooftheday, #favesidoarjo"
+  - username: "zelitaptr24"
     fullname: >-
-      DEWI SARINA
+      Ikke Zelita Putri💫
     location: "Indonesia"
-    followers: 15087
-    engagement: 399
-    commentsToLikes: 0.091208
-    id: ck136ovmu7j930i19wej8bdg3
+    followers: 14209
+    engagement: 912
+    commentsToLikes: 0.228940
+    id: ck9wh8ehrwqfy0j782jhdp4ri
     verified: false
-    hashtags: "#putraputribatakindonesia, #lembang, #tendercare, #tiktok"
-  - username: "yourabellv"
+    hashtags: "#resellerbuku, #resellerdeepublish, #bersamalawancorona, #pekanbaru"
+  - username: "tiffanychrstinee"
     fullname: >-
-      Yourabellv
+      Tiffany Christine #TIFFBODY
     location: "Indonesia"
-    followers: 45940
-    engagement: 153
-    commentsToLikes: 0.264669
-    id: ck14hv8d2caiv0i19hqgs8fmd
+    followers: 20168
+    engagement: 565
+    commentsToLikes: 0.104701
+    id: ck55vggq0etun0i1145d4fspg
     verified: false
-    hashtags: "#toneupdaycream, #giveawayuangtunai, #minyaktelon, #travelokaeats"
-  - username: "ukkarizki"
+    hashtags: "#socialdistancing, #throwback2016, #selfreminder, #dirumahaja"
+  - username: "ariedlreal_"
     fullname: >-
-      Ukka Rizki
+      𝗕𝗮𝗻𝗴 𝗔𝗿𝗶𝗲
     location: "Indonesia"
-    followers: 25387
-    engagement: 61
-    commentsToLikes: 0.076623
-    id: ck14heuli9yzm0i19tb91jvv1
+    followers: 6488
+    engagement: 857
+    commentsToLikes: 0.103942
+    id: ck8tbe0biva8v0j78tw8idu8x
     verified: false
-    hashtags: "#travelguide, #balihotel, #beautifulview, #bricks"
-  - username: "chelsyalaurent"
+    hashtags: "#ayokesana, #curuggenting, #stayhome, #pocophonef1"
+  - username: "taaviawindyan"
     fullname: >-
-      Chelsya Laurent
+      
     location: "Indonesia"
-    followers: 80821
-    engagement: 471
-    commentsToLikes: 0.009539
-    id: ck5q846n34cnm0i11dou0pfek
+    followers: 6397
+    engagement: 1253
+    commentsToLikes: 0.060058
+    id: ck9wgnb23u4b20j78co51j5lv
     verified: false
-    hashtags: "#jujur, #sahabatmakeupmu, #bebasjerawatseketika, #dermaangelid"
-  - username: "zahrajanna"
+    hashtags: "#tinggalhistory, #wangiinaja, #sabarajadulu, #bigbangjakarta"
+  - username: "agungpinota"
     fullname: >-
-      Jodha | Endorse/Catalog/MC
+      Agung Pinota
     location: "Indonesia"
-    followers: 16499
-    engagement: 323
-    commentsToLikes: 0.084240
-    id: ck5pvtr6yjlju0i11ugfbm2x2
+    followers: 17935
+    engagement: 424
+    commentsToLikes: 0.154067
+    id: ck9wgogxoua5a0j78t9ylnil9
     verified: false
-    hashtags: "#yougoldenageskincare, #endorsemurah, #stayhome, #wowlaper"
-  - username: "bonjoabadi"
+    hashtags: "#viennettakembalikan, #plazasenayanthrowback, #plazasenayansquad, #stayathome"
+  - username: "wiolettatuschnio"
     fullname: >-
-      Bonjo Abadi
+      vegan ⦙ health ⦙ sustainable
     location: "Indonesia"
-    followers: 9659
-    engagement: 708
-    commentsToLikes: 0.028705
-    id: ck0tts74o43ie0i191v8xjh06
+    followers: 16829
+    engagement: 611
+    commentsToLikes: 0.059006
+    id: ck0ttg76y2kre0i19q8ixjxqe
     verified: false
-    hashtags: "#innout, #terrabon, #gfx50r, #fujifilm"
+    hashtags: "#sustainability, #selfcare, #granola, #vegansnack"
+  - username: "mariaanzelina"
+    fullname: >-
+      Nzel🙋‍♀️
+    location: "Indonesia"
+    followers: 19453
+    engagement: 364
+    commentsToLikes: 0.258361
+    id: ck9wgq03xugzj0j78mmcfi024
+    verified: false
+    hashtags: "#buketbungawisuda, #bebasminyak, #workfromhome, #holysmokesid"
+  - username: "rafzantomomi"
+    fullname: >-
+      MOMI
+    location: "Indonesia"
+    followers: 22014
+    engagement: 359
+    commentsToLikes: 0.132383
+    id: ck5q81fvm412g0i1113002yxr
+    verified: false
+    hashtags: "#rayabersamashopee, #plats, #fooddeliverykl, #california"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Portugal In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Portugal in 2020. Most popular hashtags: #photography #fashion #ootd #stayhome.
+  Find top cosmetics Instagram influencers in Portugal in 2020. Most popular hashtags: #beauty #beach #makeupaddict #redlips.
 platform: Instagram
 profiles:
-  - username: "inesmocho.makeup"
+  - username: "dads18"
     fullname: >-
-      Inês Mocho
+      Daniela Santos
     location: "Portugal"
-    followers: 250385
-    engagement: 457
-    commentsToLikes: 0.020640
-    id: ck55jyj5ky2cy0i116rf0t8wc
-    verified: true
-    hashtags: "#ritualsambassador, #digitalinfluencer, #pub, #lyndaemcasa"
-  - username: "megmmorais"
-    fullname: >-
-      Margarida Morais
-    location: "Portugal"
-    followers: 31381
-    engagement: 481
-    commentsToLikes: 0.074457
-    id: ck0twpai2g9s70i197zk1o98z
+    followers: 19608
+    engagement: 1252
+    commentsToLikes: 0.052313
+    id: ckap1gwufujph0i78j98e60tf
     verified: false
-    hashtags: "#foundation, #theoutdoorfolk, #swim, #mylook"
-  - username: "dp_style"
+    hashtags: "#ficaemcasa, #mvmtportugal, #jointhemvmt, #supportsmallcreators"
+  - username: "joana_magro"
     fullname: >-
-      Daniel Pinheiro ®️ DPStyle
+      Joana 🖤Inspo, Instagram Tips
     location: "Portugal"
-    followers: 112501
-    engagement: 243
-    commentsToLikes: 0.115982
-    id: ck0w3xiqwvsd80i19bagtltcx
+    followers: 23181
+    engagement: 460
+    commentsToLikes: 0.212057
+    id: ck6tikajb0vlq0j71n9ghvyo4
     verified: false
-    hashtags: "#streets, #hustle, #casual, #mensfashionreview"
-  - username: "viksoza"
-    fullname: >-
-      Vinicius | Porto Photographer
-    location: "Portugal"
-    followers: 33135
-    engagement: 302
-    commentsToLikes: 0.030525
-    id: ck0ttzs2l51cc0i19fzpdv5fy
-    verified: false
-    hashtags: "#fashioneditorial, #makeup, #pursuitofportraits, #germany"
-  - username: "karina_kukshtel"
-    fullname: >-
-      KARINA KUKSHTEL
-    location: "Portugal"
-    followers: 58157
-    engagement: 441
-    commentsToLikes: 0.006975
-    id: ck0w49xeixit90i19nebma9v2
-    verified: false
-    hashtags: "#modeling, #lisbon, #photo, #fashion"
-  - username: "dr_marta_beauty"
-    fullname: >-
-      ✨ THE ART OF AESTHETICS ✨
-    location: "Portugal"
-    followers: 38595
-    engagement: 137
-    commentsToLikes: 0.142844
-    id: ck6u70lbhirwx0j71rhw2a3ho
-    verified: false
-    hashtags: "#lisboa, #dubaiaesthetics, #challenge, #world"
-  - username: "martaflores.oficial"
-    fullname: >-
-      MARTA FLORES MAKEUP & BELEZA
-    location: "Portugal"
-    followers: 45499
-    engagement: 326
-    commentsToLikes: 0.083973
-    id: ck6twyl4puua70j712rdf0msy
-    verified: false
-    hashtags: "#quarentoesemquarentena, #rainhadasucata, #mercedesbenz, #pinceisdavinci"
-  - username: "ceusiilva"
-    fullname: >-
-      CÉU SILVA
-    location: "Portugal"
-    followers: 6466
-    engagement: 710
-    commentsToLikes: 0.695915
-    id: ck0twpakag9tg0i19z32cbduz
-    verified: false
-    hashtags: "#streetstyle, #giveway, #pixibeauty, #urbanista"
-  - username: "mexiquer"
-    fullname: >-
-      SOFIA REIS | Fashion Blogger
-    location: "Portugal"
-    followers: 107384
-    engagement: 211
-    commentsToLikes: 0.069847
-    id: ck14gqv2g6l7m0i19xmx7am8d
-    verified: false
-    hashtags: "#sweethome, #springmakeup, #plants, #euficoemcasa"
+    hashtags: "#1minutemakeup, #effortlessstyle, #inspostyle, #ootdsubmit"
   - username: "michellemendesofficial"
     fullname: >-
       𝗠𝗜𝗖𝗛𝗘𝗟𝗟𝗘 𝗠𝗘𝗡𝗗𝗘𝗦 🦋
     location: "Portugal"
-    followers: 220635
-    engagement: 643
-    commentsToLikes: 0.007927
+    followers: 222522
+    engagement: 510
+    commentsToLikes: 0.030423
     id: ck5zvcft23z0j0i14y5reilzm
     verified: false
-    hashtags: "#balibodycosmetics"
+    hashtags: ""
+  - username: "marisamarquesg"
+    fullname: >-
+      •Beauty & Lifestyle
+    location: "Portugal"
+    followers: 28716
+    engagement: 320
+    commentsToLikes: 0.122363
+    id: ck9hbyhe0izl00j78d5vq088d
+    verified: false
+    hashtags: "#espa, #esperan, #littlethings, #quoteoftheday"
+  - username: "ceusiilva"
+    fullname: >-
+      CÉU SILVA
+    location: "Portugal"
+    followers: 6765
+    engagement: 672
+    commentsToLikes: 0.534855
+    id: ck0twpakag9tg0i19z32cbduz
+    verified: false
+    hashtags: "#combatchy, #nuxeparis, #stayinloavies, #cowboyboots"
+  - username: "lord_vladbathory"
+    fullname: >-
+      VLAD BATHORY†
+    location: "Portugal"
+    followers: 5356
+    engagement: 1142
+    commentsToLikes: 0.120917
+    id: ck6tx83ujwcya0j71af0no11j
+    verified: false
+    hashtags: "#vintagemakeup, #eyeliner, #oldhollywood, #sfxmakeup"
+  - username: "catia.carrico"
+    fullname: >-
+      Cátia Carriço ✦ Daily Style
+    location: "Portugal"
+    followers: 15750
+    engagement: 270
+    commentsToLikes: 0.287662
+    id: ck5zqstoyv89y0i144ze5rt2w
+    verified: false
+    hashtags: "#fashionblogger, #stylebloggers, #maededois, #looks"
+  - username: "angelinalovelace"
+    fullname: >-
+      Angelina Lovelace
+    location: "Portugal"
+    followers: 18194
+    engagement: 446
+    commentsToLikes: 0.078863
+    id: ck6ttfc1qab4c0j71zrhm2y3v
+    verified: false
+    hashtags: "#aquariusmom, #throwbackthursday, #30daysofnight, #transformationtuesday"
+  - username: "marizaseitatattoo"
+    fullname: >-
+      🔸MarizaSeitaTattoo🔸
+    location: "Portugal"
+    followers: 41534
+    engagement: 301
+    commentsToLikes: 0.029621
+    id: ck5hdteetpa310i112shnqip2
+    verified: false
+    hashtags: "#estasunhas, #fuckcovid19, #tatuadorquertrabalhar, #tbt"
+  - username: "carforamary"
+    fullname: >-
+      MaryCarfora
+    location: "Portugal"
+    followers: 18994
+    engagement: 305
+    commentsToLikes: 0.129337
+    id: ck9woqchs65of0j782ur5r1xj
+    verified: false
+    hashtags: "#bronze, #swimsuitforsale, #gabxxrielle, #redlips"
 ---

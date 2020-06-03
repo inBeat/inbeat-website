@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In South Africa In 2020
 description: >-
-  Find top cooking Instagram influencers in South Africa in 2020. Most popular hashtags: #covid19 #capetown #lockdown #food.
+  Find top cooking Instagram influencers in South Africa in 2020. Most popular hashtags: #cooking #foodie #mothersday #happiness.
 platform: Instagram
 profiles:
-  - username: "geradewet"
-    fullname: >-
-      Gera de Wet
-    location: "South Africa"
-    followers: 5698
-    engagement: 500
-    commentsToLikes: 0.106483
-    id: ck6tzrg32bevv0j71wlx9h72c
-    verified: false
-    hashtags: "#alfrescodining, #careerday, #craftersofinstagram, #interiordecorating"
   - username: "km_mothupi"
     fullname: >-
       Kopano Mametlhwa Mothupi
     location: "South Africa"
-    followers: 2035
-    engagement: 679
-    commentsToLikes: 0.038867
+    followers: 2063
+    engagement: 661
+    commentsToLikes: 0.038446
     id: ck6to4kqfc2aa0j71f1ohul63
     verified: false
     hashtags: ""
+  - username: "inthemidnightkitchen"
+    fullname: >-
+      Zorah Booley | Food•Lifestyle
+    location: "South Africa"
+    followers: 22813
+    engagement: 365
+    commentsToLikes: 0.088403
+    id: ck0w5b3zo2sal0i19tlqpd6ws
+    verified: false
+    hashtags: "#pcos, #blueberries, #deepfriedbanana, #cappuccino"
+  - username: "geradewet"
+    fullname: >-
+      Gera de Wet
+    location: "South Africa"
+    followers: 6007
+    engagement: 513
+    commentsToLikes: 0.081622
+    id: ck6tzrg32bevv0j71wlx9h72c
+    verified: false
+    hashtags: "#selfisolation, #easterbasket, #saladrecipe, #lunchideas"
+  - username: "dinneratmatlohas"
+    fullname: >-
+      Dinner@Matloha's
+    location: "South Africa"
+    followers: 89167
+    engagement: 48
+    commentsToLikes: 0.018837
+    id: ck5qdlsmfw7h20i11jds6da4y
+    verified: false
+    hashtags: "#kidsmodel, #motherhood, #roast, #salad"
+  - username: "nicole.gibbons"
+    fullname: >-
+      NICOLE T. GIBBONS
+    location: "South Africa"
+    followers: 12505
+    engagement: 744
+    commentsToLikes: 0.136125
+    id: ck9wfav3fo0v00j782q0ik9xq
+    verified: false
+    hashtags: "#2020, #healthyathome, #lovetolounge, #lawstudent"
   - username: "olivermatthieu"
     fullname: >-
       Oliver Matthieu
     location: "South Africa"
-    followers: 4497
-    engagement: 1726
-    commentsToLikes: 0.064474
+    followers: 5038
+    engagement: 1682
+    commentsToLikes: 0.075509
     id: ck15pkwu6ye0b0i19o3n9yx4s
     verified: false
-    hashtags: "#socialresponsibility, #schoolart, #sibling, #survivor"
+    hashtags: "#funtime, #gtracinggame, #sibling, #yummychips"
+  - username: "meranda_meerra"
+    fullname: >-
+      Meranda Pillay
+    location: "South Africa"
+    followers: 7134
+    engagement: 557
+    commentsToLikes: 0.097356
+    id: ck6to4q7pc2yq0j718rh58n8p
+    verified: false
+    hashtags: "#glam, #sweats, #positivevibes, #facial"
   - username: "daniella_thibault"
     fullname: >-
       Daniella Zainette Thibault
     location: "South Africa"
-    followers: 27883
-    engagement: 131
-    commentsToLikes: 0.175024
+    followers: 27615
+    engagement: 126
+    commentsToLikes: 0.300718
     id: ck5zm4eyblvn20i149l5nh9oa
     verified: false
-    hashtags: "#unitedwomansquad, #happiness, #tourist, #travel2020"
+    hashtags: "#music, #onlinemarketing, #boredinthehouse, #bossbabequotes"
   - username: "mspaulabee"
     fullname: >-
       Ms Paula Bee
     location: "South Africa"
-    followers: 39200
-    engagement: 434
-    commentsToLikes: 0.041243
+    followers: 39708
+    engagement: 414
+    commentsToLikes: 0.020015
     id: ck5hkoywvit0w0i11ghe3b4ww
     verified: false
-    hashtags: "#almaysa, #dischembeautyfair, #iambaby, #flashbackfriday"
-  - username: "neillanthony"
+    hashtags: "#curlsforthegirls, #gifted, #cottononbody, #workersday"
+  - username: "mrszahmarty"
     fullname: >-
-      Neill Anthony
+      Zahirah Marty
     location: "South Africa"
-    followers: 14033
-    engagement: 525
-    commentsToLikes: 0.027118
-    id: ck5znyge0peao0i14kglzwm3b
+    followers: 26041
+    engagement: 196
+    commentsToLikes: 0.040113
+    id: ck0u1vrygy6cm0i19i1mikoq3
     verified: false
-    hashtags: "#cooking, #openfire, #kitchensamurai, #knives"
-  - username: "jennifalconer"
-    fullname: >-
-      Jenni Falconer
-    location: "South Africa"
-    followers: 175880
-    engagement: 120
-    commentsToLikes: 0.039942
-    id: ck1390fi4iwzy0i19n5qs6hve
-    verified: true
-    hashtags: "#stayhealthy, #healthandfitness, #invarley, #porridge"
-  - username: "sumie_akoojee"
-    fullname: >-
-      Sumayyah Patel Akoojee
-    location: "South Africa"
-    followers: 34376
-    engagement: 263
-    commentsToLikes: 0.111834
-    id: ck5hkh4zdiet80i11gjoon6bl
-    verified: false
-    hashtags: "#sumiesnacks, #tandoori, #thaifood, #coconut"
-  - username: "katlego_masupa"
-    fullname: >-
-      Katlego Masupa
-    location: "South Africa"
-    followers: 68150
-    engagement: 201
-    commentsToLikes: 0.033468
-    id: ck5btyb4agtpq0i113f18sbs4
-    verified: false
-    hashtags: "#dinnerpreps, #cookingmadeeasy, #stayhome, #wineclub"
-  - username: "the_foodpassionista"
-    fullname: >-
-      нαѕєєηα
-    location: "South Africa"
-    followers: 28992
-    engagement: 190
-    commentsToLikes: 0.038161
-    id: ck0w5b5782sf20i19qci0jlqt
-    verified: false
-    hashtags: "#backtobasics, #lunch, #modestwear, #onionrings"
+    hashtags: "#birthday, #sunsetlover, #australia, #mylittlebestie"
 ---

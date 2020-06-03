@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Bangkok In 2020
 description: >-
-  Find top models Instagram influencers in Bangkok in 2020. Most popular hashtags: #model #photo #malemodel #portrait.
+  Find top models Instagram influencers in Bangkok in 2020. Most popular hashtags: #stayhome #workout #throwback #exercise.
 platform: Instagram
 profiles:
-  - username: "thekittyway"
+  - username: "evgenia.parker"
     fullname: >-
-      Fashion Travel Lifestyle Inspo
+      Eve Parker
     location: "Thailand"
-    followers: 25853
-    engagement: 332
-    commentsToLikes: 0.157595
-    id: ck14kgjfqpeth0i19xhv4ztx1
+    followers: 21322
+    engagement: 230
+    commentsToLikes: 0.083320
+    id: ck9wflegspdf90j78bvdw96wo
     verified: false
-    hashtags: "#carin, #maisonmollerus, #mollerusswiss, #marly"
+    hashtags: "#abandonedplaces, #stayhome, #tothemoonandback, #bangkok"
   - username: "kasiaokateo"
     fullname: >-
       Kasia Oleszczuk
     location: "Thailand"
-    followers: 6409
-    engagement: 630
-    commentsToLikes: 0.040733
+    followers: 6322
+    engagement: 609
+    commentsToLikes: 0.034878
     id: ck15uz29hp5w90i19rtu3pjab
     verified: false
-    hashtags: "#shadesofgrey, #blackandwhite, #spain, #25"
+    hashtags: "#quarantinemood, #barcelona, #christmasloading, #kisses"
   - username: "mav.kang"
     fullname: >-
       Mav K ✈️
     location: "Thailand"
-    followers: 134489
-    engagement: 178
-    commentsToLikes: 0.031108
+    followers: 132499
+    engagement: 184
+    commentsToLikes: 0.117361
     id: ck5zwt70q6pyd0i14d1mii5pl
     verified: false
-    hashtags: "#tvcactor, #thewhotel, #yummyyummy, #bkksuntan"
-  - username: "razsa.e"
+    hashtags: "#thaismile, #tvcommercial, #grabfood, #yummyyummy"
+  - username: "yukidollgal"
     fullname: >-
-      รษา เอสเฮ้าส์
+      Yuki Doll
     location: "Thailand"
-    followers: 41308
-    engagement: 347
-    commentsToLikes: 0.004319
-    id: ck0tvakz8al0q0i19a8luhsbd
+    followers: 145964
+    engagement: 323
+    commentsToLikes: 0.019243
+    id: ckap86i10n1hb0i7800gapqov
     verified: false
-    hashtags: "#insyncallways, #cliniquethailand, #pomelogirls, #lxdaycare"
+    hashtags: "#cosplaygirl"
   - username: "byronbishop"
     fullname: >-
       Byron Bishop
     location: "Thailand"
-    followers: 15250
-    engagement: 351
-    commentsToLikes: 0.012643
+    followers: 15242
+    engagement: 362
+    commentsToLikes: 0.012543
     id: ck6tkm1n14yzl0j719e370uo2
     verified: false
-    hashtags: "#frozen2, #uafamily, #uahovrmachina, #theonlywayisthrough"
-  - username: "antoine_careil"
+    hashtags: "#festival, #looker03, #anotherxmasparty, #thailand"
+  - username: "razsa.e"
     fullname: >-
-      Antoine Careil
+      รษา เอสเฮ้าส์
     location: "Thailand"
-    followers: 9425
-    engagement: 554
-    commentsToLikes: 0.057178
-    id: ck8sxie82hiez0j789dnx5gh0
+    followers: 42124
+    engagement: 422
+    commentsToLikes: 0.006673
+    id: ck0tvakz8al0q0i19a8luhsbd
     verified: false
-    hashtags: "#modelife, #malemodel, #goodtimes, #cool"
+    hashtags: "#charleskeith, #imwithcharleskeith, #alivewithbeauty, #ultimune"
   - username: "leana_antunes"
     fullname: >-
       Leana Antunes
     location: "Thailand"
-    followers: 15482
-    engagement: 509
-    commentsToLikes: 0.055391
+    followers: 15461
+    engagement: 517
+    commentsToLikes: 0.053631
     id: ck13aayhxpi1j0i19awr86zp5
     verified: false
-    hashtags: "#brotherfromanothermother, #thankstoquarantine"
+    hashtags: "#sphynxofinstagram, #sephora, #makeupartist, #beautyjunkie"
+  - username: "shesgracious"
+    fullname: >-
+      Grace ᛒ | The Face Thailand 🇹🇭
+    location: "Thailand"
+    followers: 458117
+    engagement: 159
+    commentsToLikes: 0.003309
+    id: ck15t64zggjbk0i19hqzk09ym
+    verified: true
+    hashtags: "#amsterdam, #socialdistancing, #ankleweightworkout, #makeupwithattitude"
   - username: "newwy_official"
     fullname: >-
       Be Humble🌸💓
     location: "Thailand"
-    followers: 57839
-    engagement: 130
-    commentsToLikes: 0.024681
+    followers: 57571
+    engagement: 132
+    commentsToLikes: 0.024821
     id: ck55oxbb99boi0i11sdxrlv2b
     verified: false
-    hashtags: "#stayfit, #photography, #cute, #squats"
-  - username: "sorleeheen"
+    hashtags: "#mayabell, #instapic, #skincare, #like"
+  - username: "lothar_mar"
     fullname: >-
-      SorLeeHeen🇹🇭
+      Lothar (โลธาร์)
     location: "Thailand"
-    followers: 81001
-    engagement: 153
-    commentsToLikes: 0.012959
-    id: ck5zimwqig0ct0i14l0qam1x1
+    followers: 11715
+    engagement: 609
+    commentsToLikes: 0.035793
+    id: ckap94e3fr3qb0i7817hzm2xy
     verified: false
-    hashtags: "#asst, #japanese, #menstyle, #mensphotography"
-  - username: "wuma__"
-    fullname: >-
-      無瑪
-    location: "Thailand"
-    followers: 6595
-    engagement: 520
-    commentsToLikes: 0.019668
-    id: ck6tmr69x8ded0j71xugd3bbz
-    verified: false
-    hashtags: ""
+    hashtags: "#uareceovery, #theonlywayisthrough, #underarmourth"
 ---

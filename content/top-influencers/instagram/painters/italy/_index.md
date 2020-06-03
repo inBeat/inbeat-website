@@ -1,107 +1,107 @@
 ---
 title: Top 10 Painters Instagram Influencers In Italy In 2020
 description: >-
-  Find top painters Instagram influencers in Italy in 2020. Most popular hashtags: #painting #art #contemporaryart #italianartist.
+  Find top painters Instagram influencers in Italy in 2020. Most popular hashtags: #artgallery #drawing #painting #contemporaryart.
 platform: Instagram
 profiles:
-  - username: "gloriabiagetti"
+  - username: "silvioporzionato"
     fullname: >-
-      ☽ 𝖌𝖑𝖔𝖗𝖌𝖊𝖔𝖚𝖘 𝖒𝖆𝖐𝖊𝖚𝖕 ☾
+      Silvio Porzionato
     location: "Italy"
-    followers: 4471
-    engagement: 2673
-    commentsToLikes: 0.106090
-    id: ck8t9x04bpnf00j78ycfnj54k
+    followers: 28853
+    engagement: 389
+    commentsToLikes: 0.019385
+    id: ck14j1tuli7g80i19rkiojxdj
     verified: false
-    hashtags: "#lion, #makeupbyme, #globalmakeupartist, #nyxcosmeticsitaly"
+    hashtags: "#arteitaliano, #hojas, #artnow, #artcollectors"
   - username: "niceandthefox"
     fullname: >-
       Nice And The Fox
     location: "Italy"
-    followers: 4853
-    engagement: 1520
-    commentsToLikes: 0.042204
+    followers: 6299
+    engagement: 1442
+    commentsToLikes: 0.042303
     id: ck8tchmbczi6d0j7846a5ea5k
     verified: false
-    hashtags: "#fineart, #artstudio, #portraitpainting, #artoftheday"
-  - username: "carolyneroehm"
+    hashtags: "#portrait, #artoftheday, #contemporaryfigurativeart, #artgallery"
+  - username: "art.shima"
     fullname: >-
-      Carolyne Roehm
+      ART Shima
     location: "Italy"
-    followers: 42134
-    engagement: 547
-    commentsToLikes: 0.085352
-    id: ck5qd0lept8wc0i116sogqfo6
-    verified: true
-    hashtags: "#colbaltblue, #blueandwhiteforever, #lovelockets, #australia"
+    followers: 20302
+    engagement: 855
+    commentsToLikes: 0.013949
+    id: ckap1680vt7zs0i788uld3k40
+    verified: false
+    hashtags: "#artgallery, #istaart, #selfie, #instaart"
   - username: "lucaluceartgallery_makeup"
     fullname: >-
       LUCA LUCE
     location: "Italy"
-    followers: 306731
-    engagement: 166
-    commentsToLikes: 0.021773
+    followers: 303289
+    engagement: 163
+    commentsToLikes: 0.023914
     id: ck0u8yhb48kqm0i1925zikfzc
     verified: true
-    hashtags: "#illusion, #covid, #splatter, #mehronmakeup"
-  - username: "stefano_rookie"
+    hashtags: "#horror, #mehronmakeup, #facepainting, #diorbackstage"
+  - username: "luca_tedde"
     fullname: >-
-      Stefano Rookie Casati
+      Luca Tedde
     location: "Italy"
-    followers: 9765
-    engagement: 1457
-    commentsToLikes: 0.038526
-    id: ck14j2ai4i9s30i19roiahk98
+    followers: 16625
+    engagement: 465
+    commentsToLikes: 0.029490
+    id: ckap9oiccszvw0i783hjsph3k
     verified: false
-    hashtags: "#arteastratta, #bleu, #artsamazingz, #minimalist"
-  - username: "alessio_giffi"
+    hashtags: "#guidaleonardo, #pastelportrait, #versilia, #viareggio"
+  - username: "conigliettorosa"
     fullname: >-
-      Alessio Giffi Art
+      Phuong
     location: "Italy"
-    followers: 93187
-    engagement: 907
-    commentsToLikes: 1.367471
-    id: ck0vwzoavwe4l0i19tyf86lux
+    followers: 33236
+    engagement: 201
+    commentsToLikes: 0.100655
+    id: ck5cga9buofvs0i11todywxa3
     verified: false
-    hashtags: "#painting, #notredame, #notredameparis, #canvas"
-  - username: "danielgravesart"
+    hashtags: "#weakness, #blackandwhite, #gabbia, #espacioelle"
+  - username: "apicellaartista"
     fullname: >-
-      Daniel Graves Art
+      Prof Antonio Apicella Artist
     location: "Italy"
-    followers: 18358
-    engagement: 526
-    commentsToLikes: 0.012039
-    id: ck0tvaqo5alth0i19640lx27o
+    followers: 26692
+    engagement: 178
+    commentsToLikes: 0.034547
+    id: ck9wf1fifmuwl0j78g01q38t2
     verified: false
-    hashtags: "#hermannhesse, #portraitpaintings, #capturingtheartist, #fineart"
-  - username: "rabaramaofficial"
+    hashtags: "#uscire, #bella, #vita, #su"
+  - username: "carolyneroehm"
     fullname: >-
-      Rabarama Official
+      Carolyne Roehm
     location: "Italy"
-    followers: 10926
-    engagement: 632
-    commentsToLikes: 0.078502
-    id: ck0vzf7b18tak0i197i1p7t3n
-    verified: false
-    hashtags: "#beauty, #opposites, #handpaintedbronze, #atelier"
-  - username: "ladybboriginal"
-    fullname: >-
-      Beatrice Bettoni
-    location: "Italy"
-    followers: 19978
-    engagement: 555
-    commentsToLikes: 0.021078
-    id: ck8tdsu6y4n920j78kpuk4l1b
-    verified: false
-    hashtags: "#goodvibes, #loveyourself, #women, #kepoke"
-  - username: "mr_werewolf"
-    fullname: >-
-      Mr.Werewolf
-    location: "Italy"
-    followers: 246699
-    engagement: 944
-    commentsToLikes: 0.010941
-    id: ck6tpa6ieiogm0j71vazqgg1x
+    followers: 43661
+    engagement: 636
+    commentsToLikes: 0.078587
+    id: ck5qd0lept8wc0i116sogqfo6
     verified: true
-    hashtags: "#worldof1920, #illustrations, #karmaisabitch, #thankyou"
+    hashtags: "#orchard, #goodluckcharm, #butterfly, #rome"
+  - username: "alfrenius__draw"
+    fullname: >-
+      alfredo senatore
+    location: "Italy"
+    followers: 39105
+    engagement: 480
+    commentsToLikes: 0.148284
+    id: ckaost340sytb0i78ieuym929
+    verified: false
+    hashtags: "#realistictattoo, #casadicartaedit, #digitalpainting, #animazione"
+  - username: "shawnoink"
+    fullname: >-
+      Shawn-O
+    location: "Italy"
+    followers: 30501
+    engagement: 120
+    commentsToLikes: 0.018241
+    id: ck5zyv8y3alfb0i140za7wpog
+    verified: false
+    hashtags: ""
 ---

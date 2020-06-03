@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Greece In 2020
 description: >-
-  Find top mothers Instagram influencers in Greece in 2020. Most popular hashtags: #menoumespiti #stayhome #staystrong #quarantine.
+  Find top mothers Instagram influencers in Greece in 2020. Most popular hashtags: #nature #family #happymothersday #quarantine.
 platform: Instagram
 profiles:
-  - username: "ster_eleni"
+  - username: "korina_koumantaki"
     fullname: >-
-      🎀Eleni Ster🎀
+      Korina Koumantaki
     location: "Greece"
-    followers: 67463
-    engagement: 2249
-    commentsToLikes: 0.068940
-    id: ck6tspc4s628n0j71mqeapn3a
+    followers: 5227
+    engagement: 1740
+    commentsToLikes: 0.183952
+    id: ck13b37v3tg910i192ek9jjid
     verified: false
-    hashtags: "#beatbox, #womanhood, #blessed, #valentines"
+    hashtags: "#cakesandcream, #2020, #snoweverywhere, #amazingview"
   - username: "fragakimaria"
     fullname: >-
       ᗰᗩᖇIᗩ ᖴᖇᗩGᗩKI ✨
     location: "Greece"
-    followers: 33134
-    engagement: 309
-    commentsToLikes: 0.056635
+    followers: 33281
+    engagement: 349
+    commentsToLikes: 0.152718
     id: ck0u8f76m77xf0i19u48xf18b
     verified: false
-    hashtags: "#blondehair, #leatherdress, #marianikos, #livelovelaugh"
+    hashtags: "#youandme, #familylife, #mornings, #soapopera"
+  - username: "dimitris_tatarakis"
+    fullname: >-
+      𝘿𝙞𝙢𝙞𝙩𝙧𝙞𝙨 𝙏𝙖𝙩𝙖𝙧𝙖𝙠𝙞𝙨
+    location: "Greece"
+    followers: 31393
+    engagement: 1700
+    commentsToLikes: 0.001679
+    id: ck0w1rhi9ks8h0i19pley1qex
+    verified: false
+    hashtags: "#coronaextra, #covid, #gentleman, #dennisrodman"
+  - username: "katiazygouli"
+    fullname: >-
+      Katia Zygouli
+    location: "Greece"
+    followers: 300054
+    engagement: 645
+    commentsToLikes: 0.007786
+    id: ck5q8m8316vgz0i114eun6fi9
+    verified: false
+    hashtags: "#whenthelightisperfect, #bodycare, #playtime, #nightout"
   - username: "sissychristidou"
     fullname: >-
       Sissy
     location: "Greece"
-    followers: 773853
-    engagement: 510
-    commentsToLikes: 0.010177
+    followers: 785319
+    engagement: 573
+    commentsToLikes: 0.004256
     id: ck0w1rw69ktop0i19hef4fpwj
     verified: true
-    hashtags: "#notsponsored, #justadored, #staystrong, #sharehappinessnow"
-  - username: "ismini_fab"
+    hashtags: "#jhumpalahiri, #readsoyoucanbreath, #staytuned, #friends"
+  - username: "leidazoi"
     fullname: >-
-      Ismini Fabiatou🍩🍫
+      Leida Tahiraj
     location: "Greece"
-    followers: 50195
-    engagement: 356
-    commentsToLikes: 0.004284
-    id: ck8t0anlnrezk0j78v31dg0oe
+    followers: 9404
+    engagement: 440
+    commentsToLikes: 0.029972
+    id: ck14khv2mpkm00i1923y3dkkp
     verified: false
-    hashtags: "#thoughts, #germany, #glutes, #todayiwillchallenge"
-  - username: "katerina_papoutsaki"
-    fullname: >-
-      Katerina Papoutsaki
-    location: "Greece"
-    followers: 268720
-    engagement: 279
-    commentsToLikes: 0.005351
-    id: ck1359aq50cg10i19ahya8tx9
-    verified: false
-    hashtags: "#friendsforever, #breastfeedingmybaby, #pampersgr, #avantgarde"
+    hashtags: "#speedfestival, #female, #cyprus, #dresses"
   - username: "jordan_genidogan"
     fullname: >-
       Jordan Genidogan
     location: "Greece"
-    followers: 5753
-    engagement: 1334
-    commentsToLikes: 0.015568
+    followers: 5914
+    engagement: 1350
+    commentsToLikes: 0.015457
     id: ck5hrlmpbv2k80i11c0gohb89
     verified: false
-    hashtags: "#laguna, #med, #photoshooting, #editorial"
-  - username: "funkymama.gr"
+    hashtags: "#slowear, #lofficiel, #herculesuniversal, #labrador"
+  - username: "ster_eleni"
     fullname: >-
-      • S O T I R I A •
+      🎀Eleni Ster🎀
     location: "Greece"
-    followers: 8218
-    engagement: 752
-    commentsToLikes: 0.761987
-    id: ck5znqa0goylk0i14gjxswter
+    followers: 68885
+    engagement: 2233
+    commentsToLikes: 0.076712
+    id: ck6tspc4s628n0j71mqeapn3a
     verified: false
-    hashtags: "#newyorkcity, #cameramama, #metaixmio, #giveawaygr"
-  - username: "marevagrabowskimitsotaki"
+    hashtags: "#37weekspregnant, #earrings, #motherandson, #lion"
+  - username: "penelopeanastasopoulou"
     fullname: >-
-      Mareva Grabowski-Mitsotaki
+      Penelope
     location: "Greece"
-    followers: 46821
-    engagement: 1059
-    commentsToLikes: 0.018275
-    id: ck55ll4v61trq0i118i1vjrn4
+    followers: 298240
+    engagement: 404
+    commentsToLikes: 0.006159
+    id: ck5q8m09j6u7g0i119fc81cpj
     verified: false
-    hashtags: "#neveragain, #rip, #mustsee, #wehelpeachother"
-  - username: "myrto_kazi"
-    fullname: >-
-      Myrto Kazi
-    location: "Greece"
-    followers: 35387
-    engagement: 241
-    commentsToLikes: 0.100016
-    id: ck0u8f78z77za0i19egv00c6v
-    verified: false
-    hashtags: "#supermarkettips, #era, #letscook, #fasterthan"
+    hashtags: "#nomakeup, #quarantined, #hubby, #2peasinapod"
   - username: "rusachachua"
     fullname: >-
       Rusa chachua 🌕
     location: "Greece"
-    followers: 78462
-    engagement: 126
-    commentsToLikes: 0.010198
+    followers: 83414
+    engagement: 116
+    commentsToLikes: 0.030384
     id: ck6ud0v01igw70j71qodlsy5r
     verified: false
-    hashtags: "#quarantine, #stayhome"
+    hashtags: "#luciofontana, #arielpods, #partnership, #stayathomemums"
 ---

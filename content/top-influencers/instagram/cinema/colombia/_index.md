@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Colombia In 2020
 description: >-
-  Find top cinema Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #cuarentena #medellin #tbt.
+  Find top cinema Instagram influencers in Colombia in 2020. Most popular hashtags: #cinema #amorpropio #photooftheday #stayhome.
 platform: Instagram
 profiles:
+  - username: "filmbydave"
+    fullname: >-
+      fDave
+    location: "Colombia"
+    followers: 6722
+    engagement: 703
+    commentsToLikes: 0.040035
+    id: ck6uh24dy6jp20j71mtx99cwo
+    verified: false
+    hashtags: ""
   - username: "juanesramirezg"
     fullname: >-
       Juanes Ramirez ⚡️
     location: "Colombia"
-    followers: 20599
-    engagement: 1025
-    commentsToLikes: 0.087916
+    followers: 20357
+    engagement: 932
+    commentsToLikes: 0.097197
     id: ck5zko3hcju3t0i14le13xjxj
     verified: false
-    hashtags: "#amigos, #playstation, #viejostiempos, #badboys"
+    hashtags: "#ricardomilos, #bucaramanga, #colegios, #freedymercury"
+  - username: "by_andresaraujo"
+    fullname: >-
+      Andres Araujo | Filmmaker
+    location: "Colombia"
+    followers: 6976
+    engagement: 639
+    commentsToLikes: 0.034527
+    id: ck15t7p51gqh10i19snmny1h8
+    verified: false
+    hashtags: "#plitvice, #serbiatourism, #belgrado, #visitbelgrade"
   - username: "stevensalme"
     fullname: >-
       Steven Salme
     location: "Colombia"
-    followers: 61623
-    engagement: 288
-    commentsToLikes: 0.088990
+    followers: 66161
+    engagement: 232
+    commentsToLikes: 0.090394
     id: ck6tvbmo0lark0j71e4tw3lsr
     verified: false
-    hashtags: "#films, #flicks, #quedateencasa, #comedia"
-  - username: "la.negra.93"
+    hashtags: "#vallenato, #amanecer, #bogota, #mateo"
+  - username: "elguamavlogs"
     fullname: >-
-      Angela Cano
+      ELGUAMA
     location: "Colombia"
-    followers: 16287
-    engagement: 806
-    commentsToLikes: 0.021281
-    id: ck0w39koes9p70i197ny61rkv
+    followers: 14685
+    engagement: 1416
+    commentsToLikes: 0.102733
+    id: ck9h9yzyiaj3a0j785ls8qtyo
     verified: false
-    hashtags: "#lunessindescanso, #afropunk, #neoburlesque, #antioquia"
+    hashtags: "#parchis, #canon, #mama, #todasmienten"
   - username: "dianawiswell"
     fullname: >-
       Diana Wiswell Cajigas
     location: "Colombia"
-    followers: 87409
-    engagement: 387
-    commentsToLikes: 0.010349
+    followers: 91382
+    engagement: 313
+    commentsToLikes: 0.010353
     id: ck5hozo4zqift0i110h2e53tm
     verified: true
-    hashtags: "#cata, #mood, #bogota, #thequeenofflow"
+    hashtags: "#estreno, #medell, #barranquilla, #claudia"
+  - username: "dani.labelle"
+    fullname: >-
+      𝕷𝖆𝖇𝖊𝖑𝖑𝖊.
+    location: "Colombia"
+    followers: 12335
+    engagement: 549
+    commentsToLikes: 0.047535
+    id: ck5c5ieb13iyz0i11g7jc49ac
+    verified: false
+    hashtags: "#yellow, #reality, #model, #cigarette"
   - username: "alejandrosanchezlejo"
     fullname: >-
       Brayan&Alejandro (Lejo)
     location: "Colombia"
-    followers: 2515
-    engagement: 1110
-    commentsToLikes: 0.057506
+    followers: 2537
+    engagement: 1091
+    commentsToLikes: 0.051120
     id: ck13aawduphq20i1943st8aht
     verified: false
-    hashtags: "#myart, #film, #strangerthings, #nature"
-  - username: "dani.labelle"
-    fullname: >-
-      𝕷𝖆𝖇𝖊𝖑𝖑𝖊’𝖘 𝖑𝖎𝖋𝖊.
-    location: "Colombia"
-    followers: 12433
-    engagement: 519
-    commentsToLikes: 0.049778
-    id: ck5c5ieb13iyz0i11g7jc49ac
-    verified: false
-    hashtags: "#actress, #resiliencia, #espiral, #colorful"
+    hashtags: "#friends, #saturdaysnyc, #directors, #happy"
   - username: "ojojhonky"
     fullname: >-
       Jhon Narváez
     location: "Colombia"
-    followers: 2883
-    engagement: 829
-    commentsToLikes: 0.062819
+    followers: 2968
+    engagement: 696
+    commentsToLikes: 0.057556
     id: ck5c2745bwo640i11tsg1w0g7
     verified: false
-    hashtags: "#yomarchoel21n, #perreointenso, #getsemani, #eleganteysencillo"
-  - username: "andersonballesterosactor"
+    hashtags: "#diasinmoto, #actitud, #abril, #meninuniform"
+  - username: "jesusbarrios12"
     fullname: >-
-      Anderson Ballesteros
+      Jesús Barrios
     location: "Colombia"
-    followers: 57745
-    engagement: 523
-    commentsToLikes: 0.037605
-    id: ck5qchfrzql5m0i11f1dx18x0
-    verified: true
-    hashtags: "#cinema, #felizlunes, #colombiaaa, #tulu"
-  - username: "lalunabaxter"
-    fullname: >-
-      Luna Baxter
-    location: "Colombia"
-    followers: 83667
-    engagement: 268
-    commentsToLikes: 0.018492
-    id: ck5hej5dtt6ap0i11vgy6fov9
+    followers: 12809
+    engagement: 448
+    commentsToLikes: 0.038671
+    id: ck5zvrfhz4sbg0i14zg3iflq8
     verified: false
-    hashtags: "#nikon, #friday, #fuckit, #hablemosdeabusoemocional"
-  - username: "jaiderrios"
-    fullname: >-
-      Jay Rios
-    location: "Colombia"
-    followers: 13786
-    engagement: 508
-    commentsToLikes: 0.058616
-    id: ck0tvvh4icysf0i19egtdyg0t
-    verified: false
-    hashtags: "#cieloestrellado, #lfilmmaker, #tayrona, #losnaranjos"
+    hashtags: "#gentleman, #maniqui, #luna, #modelworkshop"
 ---

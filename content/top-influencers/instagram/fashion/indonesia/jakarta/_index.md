@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Jakarta In 2020
 description: >-
-  Find top fashion Instagram influencers in Jakarta in 2020. Most popular hashtags: #jakarta #dirumahaja #fashion #ootd.
+  Find top fashion Instagram influencers in Jakarta in 2020. Most popular hashtags: #fashion #ootd #indonesia #ootdfashion.
 platform: Instagram
 profiles:
-  - username: "sonydansetiadi"
+  - username: "ver.vee"
     fullname: >-
-      sony setiadi
+      νєr ™
     location: "Indonesia"
-    followers: 8840
-    engagement: 1052
-    commentsToLikes: 0.075826
-    id: ck5zxs3j48kda0i14i4li304q
+    followers: 37485
+    engagement: 173
+    commentsToLikes: 0.146432
+    id: ck5hlvgqdkxs00i115yv4df1r
     verified: false
-    hashtags: "#beachphotography, #wisatabandungselatan, #zonafotografi, #walk"
-  - username: "rameliavitra"
+    hashtags: "#stayathome, #aj1club, #antiacne, #cleanbeauty"
+  - username: "gamisjubaya"
     fullname: >-
-      Travel Dreamer & Blogger
+      GAMIS ABAYA BYK MODEL & MURAH
     location: "Indonesia"
-    followers: 11730
-    engagement: 447
-    commentsToLikes: 0.080356
-    id: ck0vzwk2vb8ol0i1993hovxdz
+    followers: 6527
+    engagement: 480
+    commentsToLikes: 0.000832
+    id: ck9wf94b0nrpt0j78hcd1dwu3
     verified: false
-    hashtags: "#epicentrum, #rameliainvietnam, #rainbowvillagetaichung, #beauty"
-  - username: "filsafat_sendu"
+    hashtags: "#arnizcollection, #jomblomulia, #kajianjabodetabek, #kaosrajutimport"
+  - username: "hans_sallam"
     fullname: >-
-      PuisiKami
+      Hans Sallam
     location: "Indonesia"
-    followers: 28655
-    engagement: 325
-    commentsToLikes: 0.004897
-    id: ck14gj8d15i220i19hgyex6kd
+    followers: 49395
+    engagement: 96
+    commentsToLikes: 0.041308
+    id: ck0tw3w8hdwsc0i19bf8s3anv
     verified: false
-    hashtags: "#filsafat, #filsafatcintakita, #baju, #sepatucantik"
-  - username: "nicknock_28"
+    hashtags: "#bts, #roadtoputeriindonesia2020"
+  - username: "jakartaviral"
     fullname: >-
-      Nicky Gunawan
+      Jakarta Viral
     location: "Indonesia"
-    followers: 18793
-    engagement: 215
-    commentsToLikes: 0.021206
-    id: ck14j0ssoi2140i19qbp10pul
+    followers: 29855
+    engagement: 60
+    commentsToLikes: 0.022955
+    id: ckaosg8rcrgq50i78xk1ttars
     verified: false
-    hashtags: "#bvlgari, #malemodel, #thefolio, #titikamal"
-  - username: "auranizen_"
-    fullname: >-
-      aura
-    location: "Indonesia"
-    followers: 5395
-    engagement: 6138
-    commentsToLikes: 0.149100
-    id: ck139bbnxkgeg0i19knse12kq
-    verified: false
-    hashtags: "#offwhite, #hijab, #hijrahku, #selfie"
-  - username: "erytriana_iie"
-    fullname: >-
-      𝐄𝐫𝐲 𝐓𝐫𝐢𝐚𝐧𝐚 𝐇𝐚𝐝𝐢/𝐢𝐢𝐞🍒
-    location: "Indonesia"
-    followers: 63470
-    engagement: 117
-    commentsToLikes: 0.082405
-    id: ck5zyu4v7aj7o0i140in25orv
-    verified: false
-    hashtags: "#socialresponsibility, #explorelombok, #accessories, #beachclub"
-  - username: "ras_muhamad"
-    fullname: >-
-      Ibn Rivai Pasya
-    location: "Indonesia"
-    followers: 245547
-    engagement: 123
-    commentsToLikes: 0.008705
-    id: ck0w3brbkslia0i19y8c8bszv
-    verified: false
-    hashtags: "#live, #batik, #jwr, #django"
+    hashtags: "#infojakarta, #jakartans, #streetphotography, #streetlook"
   - username: "tarigansilangit_"
     fullname: >-
       ᗪᕼT
     location: "Indonesia"
-    followers: 29520
-    engagement: 199
-    commentsToLikes: 0.034126
+    followers: 31786
+    engagement: 207
+    commentsToLikes: 0.036986
     id: ck136ovqx7jac0i19sdfonvnu
     verified: false
-    hashtags: "#skincareaman, #jakartahits, #kalakkaro, #kalakkarohits"
+    hashtags: "#karonese, #serudirumah, #tiktokvideo, #jakartaspot"
   - username: "mr.njoo"
     fullname: >-
       Chris Njoo
     location: "Indonesia"
-    followers: 66064
-    engagement: 199
-    commentsToLikes: 0.015096
+    followers: 64971
+    engagement: 203
+    commentsToLikes: 0.018219
     id: ck5c42t1r0j440i119yizk5dk
     verified: false
-    hashtags: "#lightroompresets, #janganpanik, #optikseis, #airism"
-  - username: "yoland_handoko"
+    hashtags: "#gardenbythebay, #bali, #pasukanbodrex, #semangatjiwamerahputih"
+  - username: "leochandraaaa"
     fullname: >-
-      𝙔𝙤𝙡𝙖𝙣𝙙 𝙃𝙖𝙣𝙙𝙤𝙠𝙤
+      Leo Chandra
     location: "Indonesia"
-    followers: 19871
-    engagement: 100
-    commentsToLikes: 0.036020
-    id: ck14i7l04e1dd0i19d0uhk6lg
+    followers: 16593
+    engagement: 218
+    commentsToLikes: 0.060259
+    id: ck9wh9zanwyi60j78n6pq3ngy
     verified: false
-    hashtags: "#beranicuan, #uniqloindonesia, #uniqlolifewear, #uniqlo"
+    hashtags: "#instaphotography, #malemodel, #dirumahaja, #photography"
+  - username: "kosmassantosaphotography"
+    fullname: >-
+      Kosmas Santosa Photography
+    location: "Indonesia"
+    followers: 2108
+    engagement: 1093
+    commentsToLikes: 0.087537
+    id: ck9wd3q77dxrw0j78icagwh30
+    verified: false
+    hashtags: "#instagood, #igcreative, #stillife, #sombresociety"
+  - username: "videolucukakak"
+    fullname: >-
+      VIDEO LUCU | KOCAK | VIRAL
+    location: "Indonesia"
+    followers: 149467
+    engagement: 496
+    commentsToLikes: 0.018246
+    id: ck0w26gwymtze0i19q9z4474f
+    verified: false
+    hashtags: "#pekanbaru, #tniau, #malaysia, #jakarta"
+  - username: "lattifaa"
+    fullname: >-
+      Petualang | ovi
+    location: "Indonesia"
+    followers: 10236
+    engagement: 928
+    commentsToLikes: 0.086951
+    id: ck6u1kf6mm9s40j71fffprzwh
+    verified: false
+    hashtags: "#jeparakekinian, #lensajakarta, #berandajogja, #lawancovid19"
 ---

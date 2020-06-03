@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Morocco In 2020
 description: >-
-  Find top mothers Instagram influencers in Morocco in 2020. Most popular hashtags: #stayhome #love #staysafe #mothersday.
+  Find top mothers Instagram influencers in Morocco in 2020. Most popular hashtags: #travel #quarantinelife #stayhome #happy.
 platform: Instagram
 profiles:
-  - username: "sanae.ak"
+  - username: "asnajda"
     fullname: >-
-      Sanae 🇲🇦
+      Anne-Sophie
     location: "Morocco"
-    followers: 4588
-    engagement: 1727
-    commentsToLikes: 0.052215
-    id: ck6tso2if5unv0j71z0r07exv
+    followers: 24743
+    engagement: 389
+    commentsToLikes: 0.046787
+    id: ck6u9f2mnx71n0j712ogxi7ht
     verified: false
-    hashtags: "#trip, #naturewalk, #annaparischic, #kids"
-  - username: "_thisisamina"
+    hashtags: "#toujourslapourvouslivrer, #3yearsago, #urdhvamukhasvanasana, #giovanniranafrance"
+  - username: "emma_louise_sophia"
     fullname: >-
-      AMINA (uh•mee•nah)
+      Emma Louise Sophia
     location: "Morocco"
-    followers: 77304
-    engagement: 772
-    commentsToLikes: 0.010182
-    id: ck5zt86htzx1p0i14v6gi2y77
+    followers: 31587
+    engagement: 246
+    commentsToLikes: 0.043557
+    id: ck15rch1978hh0i196b89fzui
     verified: false
-    hashtags: "#visitmorocco, #pltsyle, #boohoobabes, #novababe"
-  - username: "yasmine.el.khateib"
+    hashtags: "#intrepidmothering, #zenandtheartofme, #claritytoconviction, #theweekininstagram"
+  - username: "noor_m_officiel"
     fullname: >-
-      Yasmine Elkhateib
+      Nour El Houda Bouhalissa
     location: "Morocco"
-    followers: 1210049
-    engagement: 116
-    commentsToLikes: 0.019011
-    id: ck15tt0upjqwy0i197xe5y8kl
+    followers: 1691965
+    engagement: 531
+    commentsToLikes: 0.013782
+    id: ck6u54b7d7iio0j71jzz1ccdp
     verified: false
-    hashtags: "#hope, #bali, #spring, #shrimppasta"
+    hashtags: "#familypower, #telle, #makeupartist, #worldwide"
+  - username: "narimaneofficial"
+    fullname: >-
+      N A R I M A N E
+    location: "Morocco"
+    followers: 315490
+    engagement: 267
+    commentsToLikes: 0.027284
+    id: ckap7v5n2lpde0i78ie5npvr6
+    verified: false
+    hashtags: "#happy, #jumiamaroc, #sun, #jellaba"
+  - username: "mformariza"
+    fullname: >-
+      Mariza Bairaktari
+    location: "Morocco"
+    followers: 34054
+    engagement: 265
+    commentsToLikes: 0.013417
+    id: ck5c27r7rwpk90i11q15ap83a
+    verified: false
+    hashtags: "#dressup, #morocco, #butter, #chloesignature"
+  - username: "lujaindagh_"
+    fullname: >-
+      Dr. Lujain Daghistani
+    location: "Morocco"
+    followers: 75360
+    engagement: 327
+    commentsToLikes: 0.032205
+    id: ck8t4t7t17vz20j78m42x3fms
+    verified: false
+    hashtags: "#unity, #stayhome, #staysafe, #withmybestie"
   - username: "hajarmhh"
     fullname: >-
       هاجر محرر • Hajar Moharrar
     location: "Morocco"
-    followers: 30325
-    engagement: 231
-    commentsToLikes: 0.040345
+    followers: 31297
+    engagement: 259
+    commentsToLikes: 0.044501
     id: ck0w4qj3kzwgs0i19g7rugeto
     verified: false
-    hashtags: "#tbtsummer2019, #theoa, #nature, #mariecurie"
-  - username: "saharyzerouali"
+    hashtags: "#pinksupermoon, #quarantinebirthday, #phuketoldtown, #nevergiveup"
+  - username: "caro_sure"
     fullname: >-
-      Sahar Zerouali
+      Carolina Segura
     location: "Morocco"
-    followers: 319287
-    engagement: 125
-    commentsToLikes: 0.026472
-    id: ck5hefgyssmt40i11v88p7vdc
+    followers: 5950
+    engagement: 1116
+    commentsToLikes: 0.047131
+    id: ck8t816v5iqei0j78wgea2590
     verified: false
-    hashtags: "#homemade, #challenge, #mom, #motheranddaughter"
-  - username: "ghitalahmamssiofficial"
+    hashtags: "#budist, #cycling, #bereber, #runner"
+  - username: "mounimslimani"
     fullname: >-
-      Ghita Lahmamssi
+      Mounim Slimani
     location: "Morocco"
-    followers: 190890
-    engagement: 56
-    commentsToLikes: 0.025549
-    id: ck8syxamgmdlb0j788f9cluji
+    followers: 59586
+    engagement: 390
+    commentsToLikes: 0.018964
+    id: ck137lfmkc4v50i19esgb3yar
+    verified: false
+    hashtags: "#mothersday, #new, #song, #soon"
+  - username: "ktoneofficial"
+    fullname: >-
+      (OtMan) K-TONE🇲🇦 (عثمان)
+    location: "Morocco"
+    followers: 49335
+    engagement: 119
+    commentsToLikes: 0.025875
+    id: ck5hefaxzslw10i11ilsxuoof
     verified: true
-    hashtags: "#instamoment, #staypositive, #friendship, #beyou"
-  - username: "majatomljanovic"
-    fullname: >-
-      Maja Tomljanovic
-    location: "Morocco"
-    followers: 25725
-    engagement: 767
-    commentsToLikes: 0.014210
-    id: ck13a910pp81b0i19wj0e50pc
-    verified: false
-    hashtags: "#illustrationgram, #illustrationofinstagram, #illustration, #womenofillustration"
-  - username: "moroccovintage_"
-    fullname: >-
-      MOROCCO VINTAGE ❤️✨🧿 🇲🇦
-    location: "Morocco"
-    followers: 43320
-    engagement: 422
-    commentsToLikes: 0.009988
-    id: ck5bxiknmnsnc0i115ah6uzht
-    verified: false
-    hashtags: "#chefchaouen, #royaume, #chleuh, #children"
-  - username: "bvb_morocco"
-    fullname: >-
-      DIE MAROKKANER BORUSSEN 🇲🇦🇩🇪
-    location: "Morocco"
-    followers: 13092
-    engagement: 348
-    commentsToLikes: 0.004782
-    id: ck0tujvsb7hos0i19l6s9q695
-    verified: false
-    hashtags: "#kylianmbappe, #mothersday, #birthdayboy, #nurderbvb"
-  - username: "bojanvukadinov"
-    fullname: >-
-      Bojan Vukadinov
-    location: "Morocco"
-    followers: 90954
-    engagement: 597
-    commentsToLikes: 0.004838
-    id: ck135iy2n1nqk0i19jopvnbqc
-    verified: false
-    hashtags: "#teslavoda, #tb, #covid, #stayhome"
+    hashtags: "#onehand, #studio, #style, #kingdom"
 ---

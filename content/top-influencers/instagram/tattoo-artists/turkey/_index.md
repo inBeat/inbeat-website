@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Turkey In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Turkey in 2020. Most popular hashtags: #tattoo #ink #art #istanbul.
+  Find top tattoo-artists Instagram influencers in Turkey in 2020. Most popular hashtags: #tattooartist #tattoos #stayhome #tattoo.
 platform: Instagram
 profiles:
   - username: "cerennkarakus"
     fullname: >-
       Ceren Karakuş Dündar
     location: "Turkey"
-    followers: 17150
-    engagement: 294
-    commentsToLikes: 0.016457
+    followers: 16774
+    engagement: 303
+    commentsToLikes: 0.016383
     id: ck5zuwh3h36030i14zpowu3uv
     verified: false
-    hashtags: "#blackwork, #tattooist, #peony, #art"
+    hashtags: "#seashell, #accerdi, #heart, #collabration"
   - username: "bobrossss"
     fullname: >-
       fati ölmez
     location: "Turkey"
-    followers: 34952
-    engagement: 1196
-    commentsToLikes: 0.008450
+    followers: 34624
+    engagement: 1117
+    commentsToLikes: 0.008607
     id: ck6u8g4jfreb20j71ryajr6w0
     verified: false
-    hashtags: "#10kas, #mustafakemalatat, #cany, #stayhome"
-  - username: "cansuolga"
+    hashtags: "#chocolate, #neslicantay, #halukbilginer, #ahmedarif"
+  - username: "denizhanvardeniz"
     fullname: >-
-      Cansu Olga
+      denizhanvardeniz
     location: "Turkey"
-    followers: 37123
-    engagement: 240
-    commentsToLikes: 0.011152
-    id: ck6tk2m6g3vwa0j71m4wue78q
+    followers: 7149
+    engagement: 454
+    commentsToLikes: 0.031302
+    id: ck134icsuwkj80i1982phtuzn
     verified: false
-    hashtags: "#tattoodesign, #hamse, #tattoodo, #equilatera"
-  - username: "tattoofatiherdal"
-    fullname: >-
-      Fatih Erdal
-    location: "Turkey"
-    followers: 101068
-    engagement: 503
-    commentsToLikes: 0.270805
-    id: ck6u8foqdrbmb0j7136pum2o9
-    verified: false
-    hashtags: "#aga, #tattoo, #tattoocekilis, #tattooartist"
+    hashtags: ""
   - username: "fashionablover"
     fullname: >-
       Tuana Schumacher
     location: "Turkey"
-    followers: 106693
-    engagement: 118
-    commentsToLikes: 0.146923
+    followers: 108364
+    engagement: 107
+    commentsToLikes: 0.177904
     id: ck5q7sgbw2x4j0i11l90ooe69
     verified: false
-    hashtags: "#motorsiklet, #streetlooks, #koyyestyle, #dresses"
-  - username: "resulodabas"
+    hashtags: "#kombinler, #tattooedgirls, #pugsnotdrugs, #yaztrendleri"
+  - username: "aydanuysal"
     fullname: >-
-      Resul Odabas
+      Aydan Uysal
     location: "Turkey"
-    followers: 80564
-    engagement: 119
-    commentsToLikes: 0.009291
-    id: ck5zuwyur36ur0i14c06qkdxo
+    followers: 13383
+    engagement: 775
+    commentsToLikes: 0.050339
+    id: ck5catl9ke3sx0i11bdwh9b39
     verified: false
-    hashtags: "#cook, #vsco, #blackandwhitetattoo, #tattoo2me"
+    hashtags: "#atamizindeyiz, #happynewyear, #fuckcorona, #aydanshouse"
+  - username: "dilara_alisaa"
+    fullname: >-
+      ⚜️DİLARA  ALİSA⚜️
+    location: "Turkey"
+    followers: 24273
+    engagement: 192
+    commentsToLikes: 0.043264
+    id: ck5zmnzdbmwj50i14bgpi8yzv
+    verified: false
+    hashtags: "#instadaily, #endlesspool, #sunsetlover, #valentino"
   - username: "ugurhasekin"
     fullname: >-
       Ugur Hasekin | Tattooer
     location: "Turkey"
-    followers: 18165
-    engagement: 240
-    commentsToLikes: 0.010134
+    followers: 18071
+    engagement: 245
+    commentsToLikes: 0.011081
     id: ck5hhj5358hy30i114qja69qo
     verified: false
-    hashtags: "#davinci, #thedeathofsocrates, #david, #realitictattoo"
+    hashtags: "#thutmose, #nisantasi, #lion, #stayhome"
   - username: "melektastekin_tattooer"
     fullname: >-
-      Melek Taştekin
+      Melek Taştekin
     location: "Turkey"
-    followers: 107287
-    engagement: 248
-    commentsToLikes: 0.027127
+    followers: 107669
+    engagement: 242
+    commentsToLikes: 0.028533
     id: ck14jj3xkkm3x0i197nq1p94u
     verified: false
-    hashtags: "#colortattooartist, #melektastekin, #tattooer, #backtothefuture"
-  - username: "oykucengiz"
+    hashtags: "#artwork, #tattoorealistic, #tattooartists, #starwarstattoo"
+  - username: "yunusgunce"
     fullname: >-
-      Öykü Cengiz
+      Yunus Günçe
     location: "Turkey"
-    followers: 86603
-    engagement: 668
-    commentsToLikes: 0.020591
-    id: ck13d77e340uj0i19uvor01ck
+    followers: 117522
+    engagement: 75
+    commentsToLikes: 0.034794
+    id: ck5hsk6p2wq5j0i114l5li9di
     verified: true
-    hashtags: "#sketch, #tattoo, #face, #2020"
-  - username: "taylanulukir"
+    hashtags: "#thursday, #umut, #tattoodesign, #reebok"
+  - username: "tattoofatiherdal"
     fullname: >-
-      Taylan Ulukır
+      Fatih Erdal
     location: "Turkey"
-    followers: 37478
-    engagement: 1981
-    commentsToLikes: 0.003142
-    id: ck15sblwuc6pq0i19u8x1vpp6
+    followers: 106843
+    engagement: 482
+    commentsToLikes: 0.386852
+    id: ck6u8foqdrbmb0j7136pum2o9
     verified: false
-    hashtags: "#koifish, #artist, #dragon, #cherryblossom"
+    hashtags: "#do, #tattooartist, #hayabusa"
 ---

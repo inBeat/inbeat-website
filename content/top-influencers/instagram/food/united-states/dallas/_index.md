@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Dallas In 2020
 description: >-
-  Find top food Instagram influencers in Dallas in 2020. Most popular hashtags: #dallasblogger #dallas #foodie #travelblogger.
+  Find top food Instagram influencers in Dallas in 2020. Most popular hashtags: #foodie #tacotuesday #quarantinelife #dallasgirl.
 platform: Instagram
 profiles:
-  - username: "marricaevans"
+  - username: "suellasmr"
     fullname: >-
-      DALLAS INSTAGRAM PHOTOGRAPHER
+      Suella
     location: "United States"
-    followers: 7615
-    engagement: 549
-    commentsToLikes: 0.027778
-    id: ck139363cjaaa0i19mfb1ae7g
+    followers: 206910
+    engagement: 251
+    commentsToLikes: 0.005582
+    id: ck13byudrxt7k0i19indff1rh
     verified: false
-    hashtags: "#dallas, #bali, #blackfriday, #chicago"
-  - username: "fashionablylateboymom"
+    hashtags: "#montblanc, #steamedfish, #honey, #indomie"
+  - username: "eatingthebigd"
     fullname: >-
-      Letty Long | DFW Influencer
+      Eating the Big D • Dallas Food
     location: "United States"
-    followers: 17541
-    engagement: 149
-    commentsToLikes: 0.538369
-    id: ck5qaykpxixhm0i11xg3o2xkk
+    followers: 16653
+    engagement: 259
+    commentsToLikes: 0.096049
+    id: ckap9pse9t5pa0i78jr1322fe
     verified: false
-    hashtags: "#stayathome, #stayin, #jeans, #dailywear"
-  - username: "beccfarr"
+    hashtags: ""
+  - username: "foodie.qt"
     fullname: >-
-      B E C C A
+      Food📍Dallas, TX
     location: "United States"
-    followers: 4807
-    engagement: 1802
-    commentsToLikes: 0.025267
-    id: ck6trka7ozh9i0j71pm60ogpx
+    followers: 21604
+    engagement: 574
+    commentsToLikes: 0.007270
+    id: ck8sz4j7yn4vp0j7861pwleeh
     verified: false
-    hashtags: "#npc, #workoutinspo, #bodypositive, #abs"
+    hashtags: "#sp"
+  - username: "dallasfoodwanderer"
+    fullname: >-
+      𝐒𝐀𝐑𝐈𝐀 | Dallas Food Wanderer 🌎
+    location: "United States"
+    followers: 12632
+    engagement: 334
+    commentsToLikes: 0.143952
+    id: ck0w3er8vt17z0i19w116309e
+    verified: false
+    hashtags: "#savelives, #foodcoma, #arabicfood, #cheesepie"
+  - username: "sareepilla"
+    fullname: >-
+      SareePilla
+    location: "United States"
+    followers: 16018
+    engagement: 271
+    commentsToLikes: 0.133380
+    id: ck8td55ix1x520j786hie1rp6
+    verified: false
+    hashtags: "#workwear, #quarantinelife, #hypebeast, #anokhijaipur"
   - username: "pika_thecorgi"
     fullname: >-
       Pika & Polka the Corgis
     location: "United States"
-    followers: 12183
-    engagement: 841
-    commentsToLikes: 0.044311
+    followers: 12041
+    engagement: 854
+    commentsToLikes: 0.044236
     id: ck14imyu5g7280i1972kj8fvg
     verified: false
-    hashtags: "#mondayfeels, #bealpha, #workshop, #mondaymood"
+    hashtags: "#mondayblues, #myollie, #sonyalphameetup, #bealpha"
   - username: "junjdm"
     fullname: >-
       Jun 🌀
     location: "United States"
-    followers: 11839
-    engagement: 507
-    commentsToLikes: 0.034734
+    followers: 12081
+    engagement: 588
+    commentsToLikes: 0.043699
     id: ck6tm9svd7fuv0j71xlmjab0k
     verified: false
-    hashtags: "#kevindurant, #airmaxday, #airjordan, #skate"
+    hashtags: "#airmax90, #kobe4undefeated, #conversebasketball, #kd2scoringtitle"
+  - username: "fashionablylateboymom"
+    fullname: >-
+      Letty Long | DFW Influencer
+    location: "United States"
+    followers: 17477
+    engagement: 164
+    commentsToLikes: 0.497653
+    id: ck5qaykpxixhm0i11xg3o2xkk
+    verified: false
+    hashtags: "#lucyparislabel, #stylepost, #lovelulus, #scrunchies"
   - username: "foodandtraveladdict"
     fullname: >-
       Foodandtraveladdict@gmail.com
     location: "United States"
-    followers: 5507
-    engagement: 916
-    commentsToLikes: 0.329379
+    followers: 5563
+    engagement: 906
+    commentsToLikes: 0.324833
     id: ck8tbh9jbvo2u0j78p0gjgcjx
     verified: false
-    hashtags: "#wanderlustwednesday, #tacotuesday, #supportlocal"
-  - username: "aleahstander"
+    hashtags: "#tacotuesday, #supportlocal, #wanderlustwednesday, #earthday"
+  - username: "worldlytreat"
     fullname: >-
-      Aleah Stander | Fitness Expert
+      Maur celestine✨Easy Recipes✨
     location: "United States"
-    followers: 17464
-    engagement: 316
-    commentsToLikes: 0.089319
-    id: ck8t1vdgkx6np0j7827hnknnp
+    followers: 4071
+    engagement: 1520
+    commentsToLikes: 0.205180
+    id: ck5cep31zlfcu0i11ru152nkz
     verified: false
-    hashtags: "#liketkit, #ltkfit, #ad, #ltkunder50"
-  - username: "thefoodromantic"
-    fullname: >-
-      erin | dallas foodie
-    location: "United States"
-    followers: 5785
-    engagement: 460
-    commentsToLikes: 0.179066
-    id: ck14lu371whnd0i19ci8utqij
-    verified: false
-    hashtags: "#nationalmargaritaday, #nationaloreoday, #malasadas, #nationalcerealday"
-  - username: "aditik_sheetall"
-    fullname: >-
-      DailyDiva  l  Petite Style
-    location: "United States"
-    followers: 26382
-    engagement: 313
-    commentsToLikes: 0.193477
-    id: ck55mpa194ge90i11yd4rquzw
-    verified: false
-    hashtags: "#primoeffect, #ultabeauty, #hairdorables, #dfwwomen"
-  - username: "viveca_albarran"
-    fullname: >-
-      Viveca Albarran
-    location: "United States"
-    followers: 14969
-    engagement: 1142
-    commentsToLikes: 0.349998
-    id: ck13bbcijum020i195o4h06ai
-    verified: false
-    hashtags: "#travelblogger, #western, #texasblogger, #latinablogger"
+    hashtags: "#motion, #pies, #huffposttaste, #vodkadrinks"
 ---

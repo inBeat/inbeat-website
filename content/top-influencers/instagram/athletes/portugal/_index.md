@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Portugal In 2020
 description: >-
-  Find top athletes Instagram influencers in Portugal in 2020. Most popular hashtags: #stayhome #triathlon #emtb #mirandabikeparts.
+  Find top athletes Instagram influencers in Portugal in 2020. Most popular hashtags: #stayhome #throwback #staysafe #tbt.
 platform: Instagram
 profiles:
-  - username: "asllani9"
+  - username: "lpiazon"
     fullname: >-
-      Kosovare Asllani
+      Lucas Piazon
     location: "Portugal"
-    followers: 173079
-    engagement: 708
-    commentsToLikes: 0.007756
-    id: ck0vwneoqunta0i19784vh7p2
+    followers: 341351
+    engagement: 285
+    commentsToLikes: 0.011933
+    id: ck0w403ghw4o60i19u5bn6mag
     verified: true
-    hashtags: "#laureussportforgood, #algarve2020, #bildbyran, #justdoit"
-  - username: "therealmislawchuk"
-    fullname: >-
-      Tyler Mislawchuk
-    location: "Portugal"
-    followers: 8408
-    engagement: 1530
-    commentsToLikes: 0.013553
-    id: ck5zql1eausmi0i14gq9tg64k
-    verified: true
-    hashtags: "#ride, #swim, #94forward, #nike"
-  - username: "bernardocarvalhosilva"
-    fullname: >-
-      Bernardo Carvalho E Silva
-    location: "Portugal"
-    followers: 2023441
-    engagement: 485
-    commentsToLikes: 0.003162
-    id: ck136uw9o8dsv0i19mh47toth
-    verified: true
-    hashtags: "#nomasdiego, #olh, #nemeziz, #createdwithadidas"
+    hashtags: "#belpiazon, #ceo, #tbt, #ballout"
   - username: "alextraca"
     fullname: >-
-      𝔸lex 𝕋raça
+      𝔸lex 𝕋raça
     location: "Portugal"
-    followers: 17715
-    engagement: 838
-    commentsToLikes: 0.068147
+    followers: 19493
+    engagement: 818
+    commentsToLikes: 0.146451
     id: ck0u00fv1s9oe0i190504d4gz
     verified: false
-    hashtags: "#gymoutfits, #preworkout, #igfitness, #workout"
-  - username: "joaomoreira.pt"
-    fullname: >-
-      João Moreira
-    location: "Portugal"
-    followers: 7115
-    engagement: 556
-    commentsToLikes: 0.005120
-    id: ck6twymn1uukd0j71xtqsz3zg
-    verified: false
-    hashtags: ""
-  - username: "emanuelpombo"
-    fullname: >-
-      Emanuel Pombo
-    location: "Portugal"
-    followers: 13427
-    engagement: 701
-    commentsToLikes: 0.023632
-    id: ck5c2wpe1y52u0i11qj4juvyl
-    verified: false
-    hashtags: "#newweek, #gobigorgohome, #trails, #ktmbikeportugal"
-  - username: "hwilkin17"
-    fullname: >-
-      Hannah Wilkinson
-    location: "Portugal"
-    followers: 21125
-    engagement: 357
-    commentsToLikes: 0.007840
-    id: ck5zzl5fubxxs0i147embs84r
-    verified: true
-    hashtags: "#internationalwomensday, #playinside, #playfortheworld"
+    hashtags: "#gymclothes, #fitlife, #workoutwear, #workoutmotivation"
   - username: "hugobasaula747"
     fullname: >-
       Hugo Basaúla  🇵🇹
     location: "Portugal"
-    followers: 11108
-    engagement: 935
-    commentsToLikes: 0.009312
+    followers: 11133
+    engagement: 870
+    commentsToLikes: 0.009985
     id: ck0vyfo1a3qze0i19y9t46vxy
     verified: false
-    hashtags: "#doisdois, #enduro, #supercross, #b747"
-  - username: "patriciamamona"
+    hashtags: "#doisdois, #enduro, #supercross, #monsterenergy"
+  - username: "joaomoreira.pt"
     fullname: >-
-      PATRÍCIA MAMONA
+      João Moreira
     location: "Portugal"
-    followers: 145375
-    engagement: 491
-    commentsToLikes: 0.011600
-    id: ck0u1mi21x9cs0i19pjweajll
+    followers: 7093
+    engagement: 557
+    commentsToLikes: 0.005069
+    id: ck6twymn1uukd0j71xtqsz3zg
+    verified: false
+    hashtags: ""
+  - username: "maya"
+    fullname: >-
+      Maya Gabeira
+    location: "Portugal"
+    followers: 500496
+    engagement: 189
+    commentsToLikes: 0.017394
+    id: ck0vvgem6p0ut0i192fqg9zpv
     verified: true
-    hashtags: "#atleta, #tokyo2021, #strongertogether, #makeup"
+    hashtags: "#tagheuerconnected, #dontcrackunderpressure, #stayhome, #nazare"
+  - username: "rafaelramos_27"
+    fullname: >-
+      Rafael Ramos 27
+    location: "Portugal"
+    followers: 18093
+    engagement: 528
+    commentsToLikes: 0.022279
+    id: ckap0unswrvng0i78ndq9rd1g
+    verified: true
+    hashtags: "#huldiging, #stayactive, #backtowork, #quarantineworkouts"
+  - username: "jono_jones1"
+    fullname: >-
+      Jono Jones
+    location: "Portugal"
+    followers: 56653
+    engagement: 865
+    commentsToLikes: 0.011899
+    id: ck5zknfvbjstj0i14x84vgbot
+    verified: false
+    hashtags: "#firebird29, #phoenix29, #throwback, #hugearms"
+  - username: "cainasouzabt"
+    fullname: >-
+      Cainã Souza Da Silva
+    location: "Portugal"
+    followers: 7411
+    engagement: 386
+    commentsToLikes: 0.073045
+    id: ck8t0x2xjtnm50j78v9e7tmlf
+    verified: false
+    hashtags: "#timetogohome, #enjoydaybyday, #sunday, #aroundtheworld"
+  - username: "emanuelpombo"
+    fullname: >-
+      Emanuel Pombo
+    location: "Portugal"
+    followers: 13576
+    engagement: 670
+    commentsToLikes: 0.017933
+    id: ck5c2wpe1y52u0i11qj4juvyl
+    verified: false
+    hashtags: "#newadventure, #mtbadventures, #merrychristmas, #dangerouszone"
   - username: "natygui_tri"
     fullname: >-
-      Natália
+      Natália
     location: "Portugal"
-    followers: 10206
-    engagement: 513
-    commentsToLikes: 0.024331
+    followers: 10287
+    engagement: 481
+    commentsToLikes: 0.053554
     id: ck5zqrbt1v56k0i14xsuzcavl
     verified: false
-    hashtags: "#cascais, #triathlontrainning, #vem2020, #corremais"
+    hashtags: "#roadlife, #welldonemalta, #ironman, #freedom"
 ---

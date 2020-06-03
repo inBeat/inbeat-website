@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Berlin In 2020
 description: >-
-  Find top bloggers Instagram influencers in Berlin in 2020. Most popular hashtags: #blogger #berlin #style #fitnessgirl.
+  Find top bloggers Instagram influencers in Berlin in 2020. Most popular hashtags: #blogger #berlin #interior #love.
 platform: Instagram
 profiles:
-  - username: "thiabrownsugar"
+  - username: "nik.tiga"
     fullname: >-
-      Thia Brownsugar
+      NIKOLAS SIEVE 🐾 HANNOVER
     location: "Germany"
-    followers: 17594
-    engagement: 447
-    commentsToLikes: 0.038947
-    id: ck5zq8051u42c0i1470tdxxhv
+    followers: 15409
+    engagement: 1536
+    commentsToLikes: 0.119918
+    id: ck8syk65bl2b60j78mz60lq61
     verified: false
-    hashtags: "#woman, #printemps, #takeabreak, #apero"
-  - username: "verenafit"
-    fullname: >-
-      Fitness | Lifestyle
-    location: "Germany"
-    followers: 151461
-    engagement: 672
-    commentsToLikes: 0.059369
-    id: ck0tzdrmhpyrm0i19uqr2ooui
-    verified: false
-    hashtags: "#blonde, #germany, #bavariangirl, #springvibes"
-  - username: "jolie.pink"
-    fullname: >-
-      ✨𝒥𝑜𝓁𝒾𝑒 🦋 𝒫𝒾𝓃𝓀✨
-    location: "Germany"
-    followers: 16252
-    engagement: 1698
-    commentsToLikes: 0.028116
-    id: ck13cr5xk1rh10i196avtkth1
-    verified: false
-    hashtags: "#fitfam, #disneyland, #sunset, #germany"
-  - username: "xamirabeauty"
-    fullname: >-
-      🛍BEAUTY | FASHION | SALE🛍
-    location: "Germany"
-    followers: 54710
-    engagement: 594
-    commentsToLikes: 0.118508
-    id: ck55kildezdtg0i119bk24m7q
-    verified: false
-    hashtags: "#eyebrows, #voneuch, #hudabeauty, #sale"
-  - username: "dimiadams"
-    fullname: >-
-      DIMI ADAMS△⃒⃘
-    location: "Germany"
-    followers: 49972
-    engagement: 113
-    commentsToLikes: 0.047497
-    id: ck8ta8cphqtqk0j78eephh2ph
-    verified: false
-    hashtags: "#towerbridge, #ootdmen, #menstyle, #dimiadams"
-  - username: "lacetta_"
-    fullname: >-
-      +49
-    location: "Germany"
-    followers: 20298
-    engagement: 375
-    commentsToLikes: 0.009090
-    id: ck8wglx95hm2b0j78hjt6vu17
-    verified: false
-    hashtags: "#fashionblogger, #neonshoot, #vividgrandshow, #angelssippen"
+    hashtags: "#urlaub, #weihnachten, #wanderlusters, #weihnachtszeit"
   - username: "bergnbeef"
     fullname: >-
       Christian Bergenthal
     location: "Germany"
-    followers: 92757
-    engagement: 584
-    commentsToLikes: 0.036596
+    followers: 95800
+    engagement: 327
+    commentsToLikes: 0.024628
     id: ck5c4lks51llf0i11b7jbxm2r
     verified: false
-    hashtags: "#aquavit, #crust, #webergrillacademy, #steakfriday"
-  - username: "sarah_schenatzky"
+    hashtags: "#porterhouse, #tenderloin, #baconlover, #mountains"
+  - username: "sasha_king540"
     fullname: >-
-      Fashion • Fitness • Travel
+      𝐒 𝐀 𝐒 𝐇 𝐀  𝐊 𝐈 𝐍 𝐆
     location: "Germany"
-    followers: 5550
-    engagement: 1966
-    commentsToLikes: 0.063184
-    id: ck8t2bhe2yuh70j788eryws2x
+    followers: 4297
+    engagement: 1216
+    commentsToLikes: 0.052932
+    id: ck5hclkaxip610i11xdlu1qb8
     verified: false
-    hashtags: "#outfitpic, #neweracap, #berlin, #blogger"
-  - username: "aliziazuschlag"
+    hashtags: "#shadow, #berlinberlin, #blogger, #froheostern"
+  - username: "vonna_evers"
     fullname: >-
-      content creator & Fashionlover
+      carphotography_berlin
     location: "Germany"
-    followers: 87024
-    engagement: 503
-    commentsToLikes: 0.046502
-    id: ck135j9te1pfu0i19kko6szml
+    followers: 4747
+    engagement: 2625
+    commentsToLikes: 0.023404
+    id: ckaowjf2i96qr0i78oj6x5w73
     verified: false
-    hashtags: "#stayhealthy, #style, #weingarten, #bloggerstyle"
-  - username: "ellabekind"
+    hashtags: "#eclass, #sunshinevibes, #picoftheday, #black"
+  - username: "typischsean"
     fullname: >-
-      ELLA ♥️ TRAVEL ✈️ FASHION 👗
+      𝗦 𝗘 𝝠 𝗡 † ⚡️
     location: "Germany"
-    followers: 221543
-    engagement: 317
-    commentsToLikes: 0.085980
-    id: ck0u7b0m847410i19dgf30f5j
+    followers: 99233
+    engagement: 962
+    commentsToLikes: 0.124724
+    id: ck0w6lal894b30i199vug53nl
     verified: false
-    hashtags: "#augsburg, #iphonegewinnspiel, #givingback, #givesomethingback"
+    hashtags: "#verlosen, #giveawayiphone, #pictureoftheday, #gewinnen"
+  - username: "miraberlin"
+    fullname: >-
+      mira | berlin blogger
+    location: "Germany"
+    followers: 25654
+    engagement: 528
+    commentsToLikes: 0.499484
+    id: ck6tu0mb7dmra0j71ktjvktzh
+    verified: false
+    hashtags: "#popmirror, #popsockets, #uhren, #autumnvibez"
+  - username: "lesberlinettes"
+    fullname: >-
+      Amandine / Berlin Blogger
+    location: "Germany"
+    followers: 47344
+    engagement: 114
+    commentsToLikes: 0.026309
+    id: ck6uh24h96jqb0j7109s5l2hz
+    verified: false
+    hashtags: "#marrakechdesert, #reiseblog, #itbberlin, #sheisnotlost"
+  - username: "nisi"
+    fullname: >-
+      NISI
+    location: "Germany"
+    followers: 75103
+    engagement: 223
+    commentsToLikes: 0.042085
+    id: ck6torvdafqzo0j718mt2xud9
+    verified: true
+    hashtags: "#fashionsociety, #homedecor, #filmwave, #shootfilm"
+  - username: "alex_kalli_sofia"
+    fullname: >-
+      Alex & Kalli❤️🇷🇺&🇬🇷
+    location: "Germany"
+    followers: 5631
+    engagement: 485
+    commentsToLikes: 0.271493
+    id: ck9wetfsblr0s0j78in7c6tsr
+    verified: false
+    hashtags: "#kindheit, #staypositive, #beauty, #twistshakebaby"
+  - username: "lacetta_"
+    fullname: >-
+      +49
+    location: "Germany"
+    followers: 19474
+    engagement: 370
+    commentsToLikes: 0.010109
+    id: ck8wglx95hm2b0j78hjt6vu17
+    verified: false
+    hashtags: "#hamsterk, #rojiberlin, #palastberlin, #love"
 ---

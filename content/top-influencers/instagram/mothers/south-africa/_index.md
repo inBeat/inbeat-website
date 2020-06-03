@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In South Africa In 2020
 description: >-
-  Find top mothers Instagram influencers in South Africa in 2020. Most popular hashtags: #southafrica #lockdown #sponsored #beauty.
+  Find top mothers Instagram influencers in South Africa in 2020. Most popular hashtags: #stayhome #lockdown #staysafe #capetown.
 platform: Instagram
 profiles:
-  - username: "onemodernmom"
+  - username: "elizabethjackrich"
     fullname: >-
-      Lisa || Content Creator
+      ElizabethJack-Rich💯
     location: "South Africa"
-    followers: 6746
-    engagement: 502
-    commentsToLikes: 0.344628
-    id: ck5cdvjtyjv0l0i1167gqqnar
+    followers: 71016
+    engagement: 724
+    commentsToLikes: 0.053886
+    id: ck6ttle06b9jf0j71dciqluuu
     verified: false
-    hashtags: "#floristsofinstagram, #flattenthecurve, #day1, #socialmedia"
-  - username: "her.scattered.petals"
+    hashtags: "#staysafenotcruel, #womenruletheworld, #staysafe, #mybirthmonth"
+  - username: "rolenestrauss"
     fullname: >-
-      Loren Best | Content Creator
+      Rolene Strauss
     location: "South Africa"
-    followers: 5832
-    engagement: 423
-    commentsToLikes: 0.228509
-    id: ck6u2dkpzr77g0j71ew4vlafs
-    verified: false
-    hashtags: "#ourgenerationdolls, #ivfsuccess, #coronavirus, #cottononkidscrew"
-  - username: "babalwa_ndlwana"
-    fullname: >-
-      Bubbles2
-    location: "South Africa"
-    followers: 57009
-    engagement: 467
-    commentsToLikes: 0.043582
-    id: ck15tmtggiuz50i19phn68ayp
-    verified: false
-    hashtags: ""
-  - username: "judiekama"
-    fullname: >-
-      Judie Sbahle Kama
-    location: "South Africa"
-    followers: 61388
-    engagement: 532
-    commentsToLikes: 0.021140
-    id: ck13cgiel084e0i19d3dxjumm
-    verified: false
-    hashtags: "#acnefacedontcare, #fliptheswitch, #destinationlegacy, #vcpoloseries"
-  - username: "sewela_babes_we_eff"
-    fullname: >-
-      
-    location: "South Africa"
-    followers: 36290
-    engagement: 157
-    commentsToLikes: 0.045235
-    id: ck6ttlxprbca30j71s8ygg9qs
-    verified: false
-    hashtags: "#lockdown, #stayhome, #staysafe, #chabacorona"
+    followers: 306474
+    engagement: 266
+    commentsToLikes: 0.026705
+    id: ck55j24gmw2r10i11fu9r70ze
+    verified: true
+    hashtags: "#proudhuggiesmom, #momofthreeboys, #twomonthsold, #ourheroes"
   - username: "theblondeabroad"
     fullname: >-
       Kiki | The Blonde Abroad
     location: "South Africa"
-    followers: 564496
-    engagement: 203
-    commentsToLikes: 0.027259
+    followers: 560383
+    engagement: 223
+    commentsToLikes: 0.023851
     id: ck0ua0zqzb81d0i19xew4iu53
     verified: true
-    hashtags: "#sanctuaryretreats, #livelimitless, #defender, #defenderdogs"
-  - username: "sueduminy"
+    hashtags: "#defender, #openwestand, #godaddypartner, #sandiego"
+  - username: "her.scattered.petals"
     fullname: >-
-      Sue Duminy
+      Loren Best | Content Creator
     location: "South Africa"
-    followers: 73729
-    engagement: 240
-    commentsToLikes: 0.029729
-    id: ck14kub85rd0j0i19rw7vt0fg
+    followers: 6704
+    engagement: 461
+    commentsToLikes: 0.239296
+    id: ck6u2dkpzr77g0j71ew4vlafs
+    verified: false
+    hashtags: "#lockdown, #gift, #onlinestore, #naturalbeauty"
+  - username: "abbybuahin"
+    fullname: >-
+      ♡ ABBY BUAHIN
+    location: "South Africa"
+    followers: 9880
+    engagement: 423
+    commentsToLikes: 0.160108
+    id: ck6trnbbuzzb40j713wpu142q
+    verified: false
+    hashtags: "#wearefamily, #swimmer, #parentlife, #youareenough"
+  - username: "onemodernmom"
+    fullname: >-
+      Lisa || Content Creator
+    location: "South Africa"
+    followers: 13009
+    engagement: 628
+    commentsToLikes: 0.579330
+    id: ck5cdvjtyjv0l0i1167gqqnar
+    verified: false
+    hashtags: "#winacamera, #roadtrip, #bridal, #dreamy"
+  - username: "babalwa_ndlwana"
+    fullname: >-
+      Bubbles2
+    location: "South Africa"
+    followers: 66968
+    engagement: 616
+    commentsToLikes: 0.012433
+    id: ck15tmtggiuz50i19phn68ayp
+    verified: false
+    hashtags: "#huggiessa, #unstoppabletogether, #babysoftsupremequilts, #nodebate"
+  - username: "sewela_babes_we_eff"
+    fullname: >-
+      
+    location: "South Africa"
+    followers: 36077
+    engagement: 172
+    commentsToLikes: 0.040073
+    id: ck6ttlxprbca30j71s8ygg9qs
+    verified: false
+    hashtags: "#chabacorona, #lockdown, #stayhome, #staysafe"
+  - username: "joannereyneke"
+    fullname: >-
+      Jo-Anne Reyneke
+    location: "South Africa"
+    followers: 458491
+    engagement: 208
+    commentsToLikes: 0.020166
+    id: ckap61bipe1aa0i7899rczppu
+    verified: false
+    hashtags: "#brokenvows, #coronafight, #blacktaxonbet"
+  - username: "nomsadiva"
+    fullname: >-
+      Nomsa Buthelezi-Shezi
+    location: "South Africa"
+    followers: 128648
+    engagement: 319
+    commentsToLikes: 0.036909
+    id: ck6ugul9159bx0j71nm9xrqbu
     verified: true
-    hashtags: "#greattastegreatfun, #ad, #sponsored, #choosegentle"
-  - username: "saskiatopp"
-    fullname: >-
-      Saskia Jordyn Topp
-    location: "South Africa"
-    followers: 29301
-    engagement: 229
-    commentsToLikes: 0.051428
-    id: ck6u2s7s2tmls0j71eprx8zjp
-    verified: false
-    hashtags: "#monday, #smilemore, #desperatehousewives, #lockdownworkout"
-  - username: "carolinebrussow"
-    fullname: >-
-      Caroline-Grace
-    location: "South Africa"
-    followers: 38409
-    engagement: 466
-    commentsToLikes: 0.018238
-    id: ck6tu7xyjetci0j71bzqux45l
-    verified: false
-    hashtags: "#liefde, #brandambassador, #weekendforever, #umglive"
-  - username: "golden_hny"
-    fullname: >-
-      N A R D O S 🍯
-    location: "South Africa"
-    followers: 5461
-    engagement: 1245
-    commentsToLikes: 0.061159
-    id: ck8tcekxaz7hh0j78nryqtc01
-    verified: false
-    hashtags: "#2020vibe, #golden, #lagos, #beach"
+    hashtags: "#togetherathome, #lgbtq, #crestaconnected, #safetogether"
 ---

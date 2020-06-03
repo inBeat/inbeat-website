@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Dallas In 2020
 description: >-
-  Find top home decor Instagram influencers in Dallas in 2020. Most popular hashtags: #liketkit #homedecor #socialdistancing #quarantine.
+  Find top home decor Instagram influencers in Dallas in 2020. Most popular hashtags: #homedecor #dallastexas #texas #interiordesign.
 platform: Instagram
 profiles:
-  - username: "cathykincaidinteriors"
+  - username: "thebelleofthebudget"
     fullname: >-
-      Cathy Kincaid Interiors
+      Megan
     location: "United States"
-    followers: 35689
-    engagement: 173
-    commentsToLikes: 0.027287
-    id: ck0vvpviuq82g0i193bx3ge7o
+    followers: 25999
+    engagement: 308
+    commentsToLikes: 0.180733
+    id: ck13czi5r2wsg0i190qnh3v8w
     verified: false
-    hashtags: "#dallasnonprofit, #livingroom, #thriftproud, #sbsarahbartholomew"
-  - username: "marypadian"
+    hashtags: "#mavscare, #boho, #cincodemayo, #ootd"
+  - username: "mizdanajames"
     fullname: >-
-      Mary Padian
+      Dana James
     location: "United States"
-    followers: 244799
-    engagement: 924
-    commentsToLikes: 0.031560
-    id: ck5bu8iekhc7i0i117gheps9v
+    followers: 21042
+    engagement: 838
+    commentsToLikes: 0.067512
+    id: ck1373xfg9ngv0i19txtixy1u
+    verified: false
+    hashtags: "#mixedmedia, #abtractlovers, #rainbowlight, #anxietyrelief"
+  - username: "nextwithnita"
+    fullname: >-
+      Nita Mann
+    location: "United States"
+    followers: 345607
+    engagement: 136
+    commentsToLikes: 0.073821
+    id: ck0txjdb5jdwt0i19g01yj4d6
     verified: true
-    hashtags: "#finds, #rummage, #deepellum, #texas"
-  - username: "we.the.birds"
+    hashtags: "#abercrombie, #familydog, #sunscreen, #highrise"
+  - username: "pauletteinsall"
     fullname: >-
-      WE THE BIRDS
+      Abstract Art / Portland Artist
     location: "United States"
-    followers: 27189
-    engagement: 300
-    commentsToLikes: 0.014650
-    id: ck5pyolmzx13x0i11h9gnfzr9
+    followers: 69499
+    engagement: 139
+    commentsToLikes: 0.031264
+    id: ck0u0kvb6u5nv0i19h9wpug0w
     verified: false
-    hashtags: "#dallaschiropractor, #atmydesk, #togetherapart, #stars"
-  - username: "anabeth.jpg"
+    hashtags: "#portlandartscene, #pinkdecoration, #artiststudios, #maketimefordesign"
+  - username: "askfoodbitch"
     fullname: >-
-      Anabeth.jpg
+      foodbitch | Dallas’ OG
     location: "United States"
-    followers: 17975
-    engagement: 255
-    commentsToLikes: 0.073752
-    id: ck5q8s75i7qp00i11ivduhogc
+    followers: 43735
+    engagement: 105
+    commentsToLikes: 0.098930
+    id: ck5hlao58jvoc0i11mkmmvl73
     verified: false
-    hashtags: "#imwithjessica, #girlssupportgirls, #happybirthday, #netflix"
-  - username: "fashionveggie"
+    hashtags: "#staythefuckhome, #dallasblogger, #cardi, #treatyourself"
+  - username: "missylynn"
     fullname: >-
-      by Molly T.
+      MISSY LYNN 💋
     location: "United States"
-    followers: 98498
-    engagement: 134
-    commentsToLikes: 0.075137
-    id: ck55k07lhy5vx0i11gjdtzrgu
-    verified: false
-    hashtags: "#skincaretutorial, #veganfashion, #boymom, #babymama"
-  - username: "gracecottagehhi"
+    followers: 364607
+    engagement: 224
+    commentsToLikes: 0.019156
+    id: ck15rsobk9i360i19jjbx7r36
+    verified: true
+    hashtags: "#igexplorer, #livingroominspo, #designlovers, #explore"
+  - username: "averiebishop"
     fullname: >-
-      Grace Cottage | Home Decor
+      Aves 🇵🇭
     location: "United States"
-    followers: 15578
-    engagement: 555
-    commentsToLikes: 0.101942
-    id: ck0tymp3lnaog0i196trj1p4k
+    followers: 4536
+    engagement: 1865
+    commentsToLikes: 0.064016
+    id: ck9whgx4qxssy0j78tp1y0wjt
     verified: false
-    hashtags: "#art, #interior4inspo, #fauxflowers, #swcolorlove"
-  - username: "crispcollectiveig"
+    hashtags: "#running, #corinavirus, #singing, #comedy"
+  - username: "world_of_engineering"
     fullname: >-
-      Crisp Collective
+      World of Engineering
     location: "United States"
-    followers: 63141
-    engagement: 209
-    commentsToLikes: 0.124936
-    id: ck5c10kkbu7ql0i11qqn2r9tk
+    followers: 2296758
+    engagement: 87
+    commentsToLikes: 0.008563
+    id: ck8t0bkg7ri9z0j78xc7uo9ky
     verified: false
-    hashtags: "#amazonswimsuits, #jossfinds, #springdecor, #kitcheninspo"
-  - username: "hannahwing"
+    hashtags: "#concrete, #beer, #building, #manufacturing"
+  - username: "xtenlovesyou"
     fullname: >-
-      Hannah Wing | TX Rangers Host
+      XTEN 🤍 Home + Travel + Dance
     location: "United States"
-    followers: 10619
-    engagement: 570
-    commentsToLikes: 0.104943
-    id: ck0vzpwkcabal0i193om72ex7
+    followers: 7147
+    engagement: 904
+    commentsToLikes: 0.127357
+    id: ck6udmve6m0430j712pc51tw0
     verified: false
-    hashtags: "#togetherwe, #homedecor, #shoponline, #baseballismambassador"
-  - username: "mytargetcart"
+    hashtags: "#travelinglife, #collab, #energy, #celebrating"
+  - username: "n.arasah"
     fullname: >-
-      Ashley | MyTargetCart 🛒
+      ⋒ nana arasah ⋒
     location: "United States"
-    followers: 47670
-    engagement: 179
-    commentsToLikes: 0.060109
-    id: ck5hdvvjkpmsj0i11a0cdyuvp
+    followers: 15055
+    engagement: 331
+    commentsToLikes: 0.078857
+    id: ck15rlcz98hkk0i193fp9a6ca
     verified: false
-    hashtags: "#eastersale, #ltkshoecrush, #momstyle, #targetmoms"
-  - username: "storyofstyle"
-    fullname: >-
-      Hina J. Cheema MD
-    location: "United States"
-    followers: 239117
-    engagement: 127
-    commentsToLikes: 0.055680
-    id: ck14gsstz6ugu0i19i0r1apnz
-    verified: false
-    hashtags: "#texas, #alonetogether, #beatthezombiefunk, #vulva"
+    hashtags: "#journeyofgirls, #placestovisit, #sheisnotlost, #travellondon"
 ---

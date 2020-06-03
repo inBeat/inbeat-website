@@ -1,107 +1,107 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Germany In 2020
 description: >-
-  Find top crossfit Instagram influencers in Germany in 2020. Most popular hashtags: #stayhome #fitness #crossfit #staysafe.
+  Find top crossfit Instagram influencers in Germany in 2020. Most popular hashtags: #training #homeworkout #homeoffice #lockdown.
 platform: Instagram
 profiles:
   - username: "malenas.blog"
     fullname: >-
       Malena | CrossFit | Lifestyle
     location: "Germany"
-    followers: 12927
-    engagement: 856
-    commentsToLikes: 0.367941
+    followers: 13385
+    engagement: 1049
+    commentsToLikes: 0.332896
     id: ck8t4lpnl77o00j781v141whd
     verified: false
-    hashtags: "#fitness, #fitchicks, #fitnessblogger, #fitgerman"
-  - username: "mimikraus"
+    hashtags: "#newchances, #barbell, #powerfulmind, #wohlf"
+  - username: "herbst.maedl"
     fullname: >-
-      Michael Kraus
+      Natur◇Alltagsmomente◇Offizier
     location: "Germany"
-    followers: 197468
-    engagement: 1135
-    commentsToLikes: 0.017808
-    id: ck5qdxd3kxq1l0i11je7pxypy
-    verified: true
-    hashtags: "#coffee, #nintendoswitch, #pony, #guitar"
-  - username: "ninamarleen"
-    fullname: >-
-      
-    location: "Germany"
-    followers: 131685
-    engagement: 313
-    commentsToLikes: 0.044330
-    id: ck5hgmcsf3k190i113oq0fyh7
+    followers: 8123
+    engagement: 2136
+    commentsToLikes: 0.026113
+    id: ck9hb1tezf0iz0j78sqlghd3v
     verified: false
-    hashtags: "#fitmitfrosta, #edeka, #snow, #socialdistancing"
+    hashtags: "#minimalismus, #flower, #keinhomeoffice, #repost"
   - username: "m4x3nc3_tr"
     fullname: >-
       Maxence
     location: "Germany"
-    followers: 13612
-    engagement: 1573
-    commentsToLikes: 0.015001
+    followers: 14854
+    engagement: 1473
+    commentsToLikes: 0.015910
     id: ck5bxg7lcnnt60i11qp9kgl84
     verified: false
-    hashtags: "#beardman, #gayhairy, #gaycouples, #tomoffinland"
-  - username: "kaddlise"
+    hashtags: "#gaycouples, #confinement, #inkedboy, #couplegoals"
+  - username: "ninamarleen"
     fullname: >-
-      crossfit | body positivity
+      Nina
     location: "Germany"
-    followers: 5769
-    engagement: 1138
-    commentsToLikes: 0.051134
-    id: ck5hhozu69d8e0i114673t8wf
+    followers: 136559
+    engagement: 359
+    commentsToLikes: 0.026220
+    id: ck5hgmcsf3k190i113oq0fyh7
     verified: false
-    hashtags: "#augsburgcity, #high5gym, #hoodielove, #girlswholift"
-  - username: "hendrik_senf"
+    hashtags: "#technikf, #mum5, #entspanntlecker, #packdichnichtinwatte"
+  - username: "mimikraus"
     fullname: >-
-      Athlete | Fitness | Coach
+      Michael Kraus
     location: "Germany"
-    followers: 13834
-    engagement: 761
-    commentsToLikes: 0.037309
-    id: ck0tvqa0vcdx80i19t4xkz7v0
-    verified: false
-    hashtags: "#true, #justdoit, #homegym, #ostertraining"
+    followers: 201912
+    engagement: 933
+    commentsToLikes: 0.004884
+    id: ck5qdxd3kxq1l0i11je7pxypy
+    verified: true
+    hashtags: "#booty, #igtv, #athletics, #kids"
   - username: "dennis_boerschig"
     fullname: >-
       DENNIS | BÖRSCHIG
     location: "Germany"
-    followers: 28227
-    engagement: 97
-    commentsToLikes: 0.092528
+    followers: 27578
+    engagement: 105
+    commentsToLikes: 0.084484
     id: ck13723qs9du50i196rynbpy5
     verified: false
-    hashtags: "#myprotein, #hacking, #fashion, #business"
-  - username: "antonio.calanna"
+    hashtags: "#fuckcorona, #endlichsatt, #lecker, #contentcreator"
+  - username: "kaddlise"
     fullname: >-
-      Antonio Calanna
+      crossfit | body positivity
     location: "Germany"
-    followers: 6330
-    engagement: 1077
-    commentsToLikes: 0.024922
-    id: ck55k0vhny7hv0i11uutab7gs
+    followers: 5810
+    engagement: 1371
+    commentsToLikes: 0.057876
+    id: ck5hhozu69d8e0i114673t8wf
     verified: false
-    hashtags: "#rocksinger, #15days, #artisticshot, #makeup"
-  - username: "m_jeltema10"
-    fullname: >-
-      Melissa Jeltema
-    location: "Germany"
-    followers: 10776
-    engagement: 626
-    commentsToLikes: 0.018335
-    id: ck0ty1hdml7bu0i19gxkhy9n1
-    verified: false
-    hashtags: "#wifeandwife, #engagement, #classroomflipper, #ournewplace"
+    hashtags: "#hustlehard, #fitness, #fernweh, #werbung"
   - username: "aannkathrinn"
     fullname: >-
       Ann-Kathrin 🇩🇪
     location: "Germany"
-    followers: 19887
-    engagement: 568
-    commentsToLikes: 0.016813
+    followers: 19931
+    engagement: 619
+    commentsToLikes: 0.025836
     id: ck0tvqa2ycdyh0i19uq6al46j
     verified: false
-    hashtags: "#shark, #goodcause, #organic, #berlinhalf"
+    hashtags: "#tablemountain, #weekendvibes, #april, #aroundtheworld"
+  - username: "linaschlie_"
+    fullname: >-
+      Lina Schlieter
+    location: "Germany"
+    followers: 12949
+    engagement: 485
+    commentsToLikes: 0.032230
+    id: ck8t3taxs4exy0j7841g7qgo4
+    verified: false
+    hashtags: "#frankfurt, #gymbuddy, #lifting, #nicetime"
+  - username: "leonie_cf"
+    fullname: >-
+      L. Henrich ~ Crossfit Athlete
+    location: "Germany"
+    followers: 26254
+    engagement: 404
+    commentsToLikes: 0.030763
+    id: ckap7gsnmk0br0i78r1cogdur
+    verified: false
+    hashtags: "#barbellbabes, #fitsporation, #traininggoals, #fitgirl"
 ---

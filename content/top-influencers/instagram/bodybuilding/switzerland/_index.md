@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Switzerland in 2020. Most popular hashtags: #bodybuilding #workout #fitnessmotivation #motivation.
+  Find top bodybuilding Instagram influencers in Switzerland in 2020. Most popular hashtags: #bodybuilding #health #smile #happy.
 platform: Instagram
 profiles:
-  - username: "rahelanastasia_ifbbpro"
+  - username: "nicoceps"
     fullname: >-
-      Rahel Cucchia IFBB PRO
+      Nicolas Sandmeier
     location: "Switzerland"
-    followers: 9914
-    engagement: 1262
-    commentsToLikes: 0.083125
-    id: ck5hn9j4infqs0i11gmg4n0u1
+    followers: 8119
+    engagement: 1337
+    commentsToLikes: 0.028289
+    id: ck9haymr3em1v0j78kjmpd8xl
     verified: false
-    hashtags: "#figurepro, #romaniamusclefestpro2019, #abs, #healthy"
+    hashtags: "#mindset, #quotes, #goals, #hardwork"
   - username: "marie__sw"
     fullname: >-
       Marie Pons🌚
     location: "Switzerland"
-    followers: 5048
-    engagement: 2654
-    commentsToLikes: 0.045290
+    followers: 5071
+    engagement: 2604
+    commentsToLikes: 0.043171
     id: ck55lgh8q1ic70i11kzf61k4z
     verified: false
-    hashtags: "#streetworkout, #straightfromcam, #mountains, #health"
-  - username: "cyril.lilla"
+    hashtags: "#happiness, #peaceful, #pants, #pushups"
+  - username: "lucy_zzz"
     fullname: >-
-      ＣＹＲＩＬ  ＦΛ ＲＱＵＥＴ  ＬＩＬＬΛ ❅
+      ✨LU✨
     location: "Switzerland"
-    followers: 20398
-    engagement: 707
-    commentsToLikes: 0.053514
-    id: ck0vy9wxc2y0p0i192npfjptd
+    followers: 21263
+    engagement: 596
+    commentsToLikes: 0.046281
+    id: ck5bvc1pajdcf0i11s89j9r47
     verified: false
-    hashtags: "#caribbean, #jeans, #sportswear, #merrychristmas"
-  - username: "mohamadjamalifit"
+    hashtags: "#glass, #lookintomyeyes, #locarno, #smile"
+  - username: "marionkaelin"
     fullname: >-
-      IFBB PRO
+      MARION KAELIN 🌸🍍
     location: "Switzerland"
-    followers: 25787
-    engagement: 181
-    commentsToLikes: 0.037839
-    id: ck5pynxu1wxrn0i114waf74yw
+    followers: 30634
+    engagement: 200
+    commentsToLikes: 0.064126
+    id: ck6ueoin1s5ve0j71ex6aweva
     verified: false
-    hashtags: "#bodybuilder, #workaut, #switzerland, #gym"
-  - username: "ale5co"
+    hashtags: "#gato, #team, #bathroom, #dress"
+  - username: "sir_villforth"
     fullname: >-
-      Alex Alesco
+      David Villforth 🇸🇪🇨🇭
     location: "Switzerland"
-    followers: 73593
-    engagement: 174
-    commentsToLikes: 0.025616
-    id: ck0txnxacjtka0i192y903nw9
+    followers: 26084
+    engagement: 653
+    commentsToLikes: 0.028645
+    id: ck5ck9hr5weyi0i11c853svtc
     verified: false
-    hashtags: "#ifbbphysique, #mensphysiqueposing, #gymlife, #madetomeasure"
-  - username: "fabiohayoz"
+    hashtags: "#composition, #missing, #adventure, #perspective"
+  - username: "luca_fithealth"
     fullname: >-
-      Fabio Hayoz | Athlet
+      Luca Pasquariello Ⓥ
     location: "Switzerland"
-    followers: 9682
-    engagement: 344
-    commentsToLikes: 0.047416
-    id: ck8svr3moce3r0j78a3lf79cp
+    followers: 208724
+    engagement: 282
+    commentsToLikes: 0.017149
+    id: ck8t6pf4fed3s0j78ydgy5efd
     verified: false
-    hashtags: "#workoutmotivation, #fitnesscamp, #beachbody, #ronniecoleman"
+    hashtags: "#naturalbodybuilding, #musclerecovery, #thankyou, #whatveganseat"
+  - username: "deni_esteves"
+    fullname: >-
+      DENI ESTEVES†
+    location: "Switzerland"
+    followers: 8182
+    engagement: 1090
+    commentsToLikes: 0.056564
+    id: ck0w3loxdu1jp0i19puzlo3x2
+    verified: false
+    hashtags: "#switzerland, #hots, #tatoo, #instadaily"
+  - username: "womanfly.fit"
+    fullname: >-
+      🦋Fly.fit🦋
+    location: "Switzerland"
+    followers: 2937
+    engagement: 2243
+    commentsToLikes: 0.029222
+    id: ck9wfv9zbqnc90j7896zwhsla
+    verified: false
+    hashtags: "#missmygym, #swissnature, #goodmood, #attitude"
   - username: "chandoerikluna"
     fullname: >-
       𝐂𝐇𝐀𝐍𝐃𝐎 𝐄𝐑𝐈𝐊 𝐋𝐔𝐍𝐀
     location: "Switzerland"
-    followers: 38801
-    engagement: 143
-    commentsToLikes: 0.303272
+    followers: 39874
+    engagement: 125
+    commentsToLikes: 0.374301
     id: ck5hk1f43hmdp0i11i818lxtq
     verified: false
-    hashtags: "#cocksox, #tattoostars, #photoshoot, #musclemen"
-  - username: "pri.naves"
+    hashtags: "#barber, #crossfit, #blog, #babe"
+  - username: "saskia.kuebler"
     fullname: >-
-      Pri Naves (LifeStyle)
+      • 𝙁𝙄𝙏𝙉𝙀𝙎𝙎 • 𝙈𝙊𝙏𝙄𝙑𝘼𝙏𝙄𝙊𝙉 •
     location: "Switzerland"
-    followers: 49854
-    engagement: 107
-    commentsToLikes: 0.031928
-    id: ck8t842c2j1440j78zntbyou2
+    followers: 4816
+    engagement: 1078
+    commentsToLikes: 0.057803
+    id: ck8szms5rp1220j78ithceo2x
     verified: false
-    hashtags: "#fashion, #mood, #ootdfashion, #video"
-  - username: "smartsanti"
-    fullname: >-
-      Angel
-    location: "Switzerland"
-    followers: 7212
-    engagement: 677
-    commentsToLikes: 0.059385
-    id: ck8szmumzp1at0j78yd2s0ka8
-    verified: false
-    hashtags: "#picoftheday, #barebellicious, #boomwhey, #fashion"
-  - username: "aiman_assem"
-    fullname: >-
-      Aiman Houssami, DE RUGGE 🏆⭐
-    location: "Switzerland"
-    followers: 15406
-    engagement: 408
-    commentsToLikes: 0.017490
-    id: ck5hpph4urr6o0i11k4frwq3l
-    verified: false
-    hashtags: "#buildmuscle, #beardedvillains, #beardsofinstagram, #repost"
+    hashtags: "#fancy, #determination, #purple, #exercise"
 ---

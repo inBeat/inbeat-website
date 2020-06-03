@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Toronto In 2020
 description: >-
-  Find top travel Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #travel #photography #love.
+  Find top travel Instagram influencers in Toronto in 2020. Most popular hashtags: #traveltoronto #stayhome #travel #stayathome.
 platform: Instagram
 profiles:
-  - username: "giselaparisi"
+  - username: "pickeringfitness"
     fullname: >-
-      𝗚 𝗜 𝗦 𝗘 𝗟 𝗔    𝗣 𝗔 𝗥 𝗜 𝗦 𝗜
+      Christopher Pickering
     location: "Canada"
-    followers: 21944
-    engagement: 242
-    commentsToLikes: 0.009722
-    id: ck5cdtf9pjqpj0i11qk3ets1s
+    followers: 26890
+    engagement: 203
+    commentsToLikes: 0.086315
+    id: ckaozztbpo5fv0i78iqghlmda
     verified: false
-    hashtags: "#canada, #cap, #music, #skate"
-  - username: "torontoontop"
+    hashtags: "#zyzz, #nature, #mixer, #summer2020"
+  - username: "twourism"
     fullname: >-
-      Eddie Kha
+      Ariba & Mehedi-Toronto Foodies
     location: "Canada"
-    followers: 75581
-    engagement: 191
-    commentsToLikes: 0.114457
-    id: ck0txajonihpi0i19fzm0qlkx
+    followers: 5061
+    engagement: 1431
+    commentsToLikes: 0.370116
+    id: ck6ubkqqma5jw0j718b18nc2f
     verified: false
-    hashtags: "#stoplookinatmybutt, #huawei, #trudeau, #jagmeetsingh"
+    hashtags: "#handslaughteredhalal, #stayathome"
+  - username: "passportofmemories"
+    fullname: >-
+      Tiana | Travel x Lifestyle
+    location: "Canada"
+    followers: 5996
+    engagement: 1555
+    commentsToLikes: 0.259892
+    id: ck15syttafi3e0i19xq93g0o8
+    verified: false
+    hashtags: "#dreamytravels, #iamtb, #dreamyviews, #lonelyplanet"
+  - username: "thecuriouscreature"
+    fullname: >-
+      Solmaz | Toronto Blogger
+    location: "Canada"
+    followers: 16787
+    engagement: 286
+    commentsToLikes: 0.372582
+    id: ck0vzhujg96dm0i191vlcd7xc
+    verified: false
+    hashtags: "#willowtreefarm, #happymothersday, #badday, #cancun"
+  - username: "autumnatelier"
+    fullname: >-
+      Autumn Atelier
+    location: "Canada"
+    followers: 9024
+    engagement: 860
+    commentsToLikes: 0.107539
+    id: ck15uvn7soq340i19bs6oqrmy
+    verified: false
+    hashtags: "#dailyinspo, #foodiefeature, #simit, #pizza"
+  - username: "toronto.culture"
+    fullname: >-
+      Toronto Culture
+    location: "Canada"
+    followers: 105061
+    engagement: 145
+    commentsToLikes: 0.094327
+    id: ck13aj90pqn3d0i19dppohig9
+    verified: false
+    hashtags: "#travel, #torontoclx, #kawhileonard, #takeoutday"
   - username: "javier_en_el_norte"
     fullname: >-
       Javier Eduardo Mendoza Olmos
     location: "Canada"
-    followers: 6294
-    engagement: 707
-    commentsToLikes: 0.009839
+    followers: 5783
+    engagement: 760
+    commentsToLikes: 0.009868
     id: ck5qaywloiz7g0i11ortdns0l
     verified: false
-    hashtags: "#liveyourbestlife, #exploretoronto, #niagarafallscanada, #ottawalife"
+    hashtags: "#algonquinpark, #happyfriday, #icelandtour, #torontotour"
   - username: "ayenomz"
     fullname: >-
       Irene | Food & Lifestyle
     location: "Canada"
-    followers: 3514
-    engagement: 2482
-    commentsToLikes: 0.532627
+    followers: 3743
+    engagement: 2617
+    commentsToLikes: 0.532725
     id: ck5zu6zoi1swj0i14dsezsu7h
     verified: false
-    hashtags: "#topfoodstagrams, #throwback, #personalstyle, #togetherto"
-  - username: "sofiexplores"
+    hashtags: "#globallylocal, #birthday, #chatimecanada, #sweatypic"
+  - username: "decoratordiva1"
     fullname: >-
-      Sofi The Explorer🕵🏻‍♀️|Toronto
+      🌸 Linda SV 🌸
     location: "Canada"
-    followers: 19709
-    engagement: 211
-    commentsToLikes: 0.124097
-    id: ck5hiktkce1ad0i11mv3d737z
+    followers: 23794
+    engagement: 224
+    commentsToLikes: 0.122983
+    id: ck8szs0vqphzd0j78xyx0q37z
     verified: false
-    hashtags: "#boredom, #sponsored, #oops, #inspo"
-  - username: "noahescott"
+    hashtags: "#rusticchic, #livingroominspo, #rsloves, #summerdrinks"
+  - username: "vaderklasse"
     fullname: >-
-      Noah Escott
+      JON ////♠️VADERKLASSE♦️////
     location: "Canada"
-    followers: 8595
-    engagement: 145
-    commentsToLikes: 0.034331
-    id: ck0w09mdfd34x0i191yjpdwnk
+    followers: 58076
+    engagement: 408
+    commentsToLikes: 0.027917
+    id: ckaowjfnn96vb0i78v47a87pj
     verified: false
-    hashtags: "#kuwtk, #iloveme, #istillbelieve, #stayhome"
-  - username: "danieladibfitness"
-    fullname: >-
-      Daniela Dib Fitness
-    location: "Canada"
-    followers: 16257
-    engagement: 970
-    commentsToLikes: 0.090375
-    id: ck5zns6e5p1xk0i14t0t4wygf
-    verified: false
-    hashtags: "#health, #photographer, #kingstreet, #onesie"
-  - username: "nate.k.weir"
-    fullname: >-
-      Nathan - Disney - Fitness
-    location: "Canada"
-    followers: 7558
-    engagement: 1143
-    commentsToLikes: 0.040751
-    id: ck6uftiuzz1jk0j71jpc273ki
-    verified: false
-    hashtags: "#disneyparks, #contest, #twoyeartransformation, #covid19"
-  - username: "chanellep23"
-    fullname: >-
-      Chanelle Lee
-    location: "Canada"
-    followers: 27608
-    engagement: 424
-    commentsToLikes: 0.024497
-    id: ck5c7h4sv7j4k0i11ws6ie1od
-    verified: false
-    hashtags: "#hotmessswimwear, #playadelcarmen, #hair, #life"
-  - username: "mdoutofoffice"
-    fullname: >-
-      Mani/Darsh 👫Travel & Lifestyle
-    location: "Canada"
-    followers: 32159
-    engagement: 242
-    commentsToLikes: 0.084864
-    id: ck6tq1u7koxs40j71w5tx16nv
-    verified: false
-    hashtags: "#girlswhotravel, #the6ix, #travel, #kempinski"
+    hashtags: "#details, #rayswheels, #carstagram, #raysengineering"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Sao Paulo In 2020
 description: >-
-  Find top yoga Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #love #fitness #yoga #sp.
+  Find top yoga Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #yoga #beach #makeup #training.
 platform: Instagram
 profiles:
-  - username: "drclaudiomutti"
+  - username: "corredoradavidareal"
     fullname: >-
-      Claudio Mutti
+      Karina Teixeira
     location: "Brazil"
-    followers: 44658
-    engagement: 133
-    commentsToLikes: 0.075383
-    id: ck5hkjq70ijo80i11vbicdmfj
+    followers: 42197
+    engagement: 98
+    commentsToLikes: 0.130969
+    id: ck6tuvulripn50j71dgfk69wo
     verified: false
-    hashtags: "#medicodoesporte, #parabens, #agoravai, #newyer"
-  - username: "thiagodjsp"
+    hashtags: "#repost, #jbnrun, #intervencaourbana, #euvivolavie"
+  - username: "paulinhateclasoficial"
     fullname: >-
-      Thiago DJ
+      Paulinha🎹
     location: "Brazil"
-    followers: 36603
-    engagement: 114
-    commentsToLikes: 0.048656
-    id: ck601ck39f8qu0i14ihxy3f9e
+    followers: 25246
+    engagement: 139
+    commentsToLikes: 0.042451
+    id: ck8t32z1p1njk0j789n1z9xoa
     verified: false
-    hashtags: "#familia, #family, #cat, #queroserjohnmalkovich"
-  - username: "gabi_bono"
+    hashtags: "#exercise, #pisadinha, #arredamento, #ncia"
+  - username: "rochagabbe"
     fullname: >-
-      Gabi Pastrello Bono ♉️
+      Gabriel Rocha
     location: "Brazil"
-    followers: 7176
-    engagement: 966
-    commentsToLikes: 0.099151
-    id: ck8t3wlmr4r8w0j78gv9564cs
+    followers: 20645
+    engagement: 498
+    commentsToLikes: 0.020881
+    id: ck5qdfo1qvc490i11vz5367zh
     verified: false
-    hashtags: "#vitaminad, #yogainspiration, #salvetheplanet, #positivevibrations"
-  - username: "francescobrunetti"
-    fullname: >-
-      Fashion Model Travel Love
-    location: "Brazil"
-    followers: 64079
-    engagement: 233
-    commentsToLikes: 0.021594
-    id: ck6uenqebs10x0j71tb14ci2v
-    verified: false
-    hashtags: "#catlover, #cats, #portrait, #cucinare"
+    hashtags: "#goodvibes, #phoda, #riachuelo, #makeupartist"
   - username: "katalden"
     fullname: >-
       Katharine Alden
     location: "Brazil"
-    followers: 36591
-    engagement: 334
-    commentsToLikes: 0.026842
+    followers: 36008
+    engagement: 322
+    commentsToLikes: 0.026701
     id: ck5bxf2xznlpt0i11b8nd35n4
     verified: false
-    hashtags: "#tattoossp, #sorteio, #patinar, #cobertura"
-  - username: "julianagomes"
+    hashtags: "#tattoosp, #pedalar, #yoga, #cobertura"
+  - username: "saritalazzarini"
     fullname: >-
-      Juliana Gomes Stocco
+      Sarita Lazzarini
     location: "Brazil"
-    followers: 6162
-    engagement: 724
-    commentsToLikes: 0.042163
-    id: ck55jccdswqul0i110a5y27hw
+    followers: 42220
+    engagement: 226
+    commentsToLikes: 0.040079
+    id: ckap77eqpixza0i780ph5iy60
     verified: false
-    hashtags: "#ootd, #hereandnow, #sodancabrasil, #socks"
-  - username: "cacaulemoss"
+    hashtags: "#spitzalemao, #brazil, #jetsurf, #verao2020"
+  - username: "thaiselima.personal"
     fullname: >-
-      CACAU LEMOS
+      Thaíse Lima
     location: "Brazil"
-    followers: 188352
-    engagement: 73
-    commentsToLikes: 0.026977
-    id: ck5q1th7gcp320i11uxb1smiz
+    followers: 18915
+    engagement: 208
+    commentsToLikes: 0.030829
+    id: ck8tabi8br3vl0j78qlsrykkx
     verified: false
-    hashtags: "#fit, #marifaz24, #oibrasil, #treino"
-  - username: "leobenate"
+    hashtags: "#vida, #memories, #prote, #crian"
+  - username: "luadovalle"
     fullname: >-
-      LEO BENATE
+      LUÃ DO VALLE
     location: "Brazil"
-    followers: 73896
-    engagement: 1904
-    commentsToLikes: 0.014822
-    id: ck55ixau8vp4g0i1150jcdnyl
+    followers: 38227
+    engagement: 152
+    commentsToLikes: 0.087499
+    id: ck9hbzoxvj4q80j78tf8br63q
     verified: false
-    hashtags: "#photooftheday, #smartfit, #pool, #sofa"
-  - username: "tephy_k"
+    hashtags: "#sentimentos, #empreendedor, #carlinhosmaia, #vendas"
+  - username: "renatabardazzi"
     fullname: >-
-      Stephanie Kopenhagen
+      Renata Bardazzi
     location: "Brazil"
-    followers: 29562
-    engagement: 146
-    commentsToLikes: 0.170007
-    id: ck0vxyvq41es60i19cstxoedl
+    followers: 26832
+    engagement: 235
+    commentsToLikes: 0.028819
+    id: ck14gl17x5qq90i19n9sayl55
     verified: false
-    hashtags: "#fitness, #muscula, #beauty, #ilhabela"
-  - username: "judaloia"
+    hashtags: "#aula, #zoommeeting, #live, #feedback"
+  - username: "rafadeieno"
     fullname: >-
-      JuD.
+      Nutrição | Rafaella Deieno
     location: "Brazil"
-    followers: 18290
-    engagement: 354
-    commentsToLikes: 0.070083
-    id: ck0w4s3g504xq0i1915nwgnz0
+    followers: 6516
+    engagement: 2081
+    commentsToLikes: 0.534880
+    id: ckaox6gm3bzu30i78zc0bcgl3
     verified: false
-    hashtags: "#lamour, #cancerdemama, #felizdiadasmaes, #essenciaeequilibrio"
+    hashtags: "#tiposdea, #chocolateamargo, #sorteiofit, #chocolatebranco"
+  - username: "walterkinder_"
+    fullname: >-
+      Walter Kinder
+    location: "Brazil"
+    followers: 27136
+    engagement: 884
+    commentsToLikes: 0.013070
+    id: ck8t8ekopk5w30j78l4rqf4h8
+    verified: false
+    hashtags: "#fabiojr, #psicologia, #sergioreis, #filhote"
 ---

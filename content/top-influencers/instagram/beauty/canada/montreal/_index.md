@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Montreal In 2020
 description: >-
-  Find top beauty Instagram influencers in Montreal in 2020. Most popular hashtags: #beauty #fashion #portrait #montreal.
+  Find top beauty Instagram influencers in Montreal in 2020. Most popular hashtags: #makeup #beauty #vintage #stayhome.
 platform: Instagram
 profiles:
-  - username: "nsbkim"
+  - username: "sicilianudimontreal"
     fullname: >-
-      Nancy
+      Nick Messina
     location: "Canada"
-    followers: 2919
-    engagement: 1258
-    commentsToLikes: 0.102024
-    id: ck14hxaffclpa0i19iftkbrua
+    followers: 17326
+    engagement: 407
+    commentsToLikes: 0.078162
+    id: ck13anyosrbfx0i1956vo20d1
     verified: false
-    hashtags: "#iphone6, #cover, #2020, #headshots"
-  - username: "andreanne_gauthier"
+    hashtags: "#schooling, #2020, #mayonnaise, #guanti"
+  - username: "nouhaila_ytb"
     fullname: >-
-      Andréanne Gauthier
+      Nouhaïla 💕
     location: "Canada"
-    followers: 17069
-    engagement: 299
-    commentsToLikes: 0.016019
-    id: ck135466qzm630i19b18nd0vt
+    followers: 238751
+    engagement: 982
+    commentsToLikes: 0.009876
+    id: ck6uc606cdq5f0j712nt83wz7
     verified: false
-    hashtags: "#studio, #colorlove, #underwearshoot, #candianphotographer"
+    hashtags: "#makeuplook, #makeuptutorials, #beautygirl, #moroccangirl"
+  - username: "ariacalli"
+    fullname: >-
+      ARIA
+    location: "Canada"
+    followers: 2928
+    engagement: 1213
+    commentsToLikes: 0.192539
+    id: ck8tbksikw1420j78ip326zz7
+    verified: false
+    hashtags: "#tower28beauty, #itsoktobesensitive, #texturetuesday, #livinglibations"
   - username: "mommy_and_mira"
     fullname: >-
-      Tahani.H🇨🇦 Ottawa♡Canada
+      Tahani.H🇨🇦🇮🇶Ottawa♡Canada
     location: "Canada"
-    followers: 37861
-    engagement: 314
-    commentsToLikes: 0.148890
+    followers: 40201
+    engagement: 289
+    commentsToLikes: 0.125414
     id: ck6u7w19snz1x0j71cpu5wk7j
     verified: false
-    hashtags: "#lipstick, #fairmontmontebello, #garnierbio, #stayhealthy"
-  - username: "mollyyycardi"
+    hashtags: "#yslbeauty, #makeup, #styleblogger, #ottawafashion"
+  - username: "goldenbeauty_xo"
     fullname: >-
-      M o l l y
+      Montreal Beauty Blogger ✨
     location: "Canada"
-    followers: 23268
-    engagement: 350
-    commentsToLikes: 0.063511
-    id: ck5q1vog1d05k0i11u2afkkvg
+    followers: 4792
+    engagement: 1414
+    commentsToLikes: 0.334194
+    id: ck8t2jgyezqav0j78ulh5rweh
     verified: false
-    hashtags: "#sleevetattoo, #sleeve, #timesquare, #tattoosleeve"
-  - username: "joaohguedes"
-    fullname: >-
-      João Guedes
-    location: "Canada"
-    followers: 61886
-    engagement: 398
-    commentsToLikes: 0.017577
-    id: ck5q6dcmywy5a0i11ddpbgnxw
-    verified: false
-    hashtags: "#spring, #vancouver, #beauty, #canada"
-  - username: "bylauragdiaz"
-    fullname: >-
-      Laura Ⓥ Conscious Lifestyle
-    location: "Canada"
-    followers: 2533
-    engagement: 1150
-    commentsToLikes: 0.261133
-    id: ck13bok3gwepl0i19265dty97
-    verified: false
-    hashtags: "#citizenfemme, #whomademyclothes, #bnation, #sustainablefashionblogger"
+    hashtags: "#tiktokhits, #igbeauty, #gloss, #tartecosmetics"
   - username: "kait_hawayek"
     fullname: >-
       Kaitlin Hawayek
     location: "Canada"
-    followers: 14681
-    engagement: 676
-    commentsToLikes: 0.014155
+    followers: 15793
+    engagement: 654
+    commentsToLikes: 0.013403
     id: ck8swyajefmog0j78weu5iro4
     verified: true
-    hashtags: "#anastasiabeverlyhills, #jeanlucbaker, #usa, #figureskater"
-  - username: "youthin.asia"
+    hashtags: "#makeuplooks, #motd, #team, #hiking"
+  - username: "bylauragdiaz"
     fullname: >-
-      Rebecca-Jo Dunham-Baruchel
+      Laura Ⓥ Conscious Lifestyle
     location: "Canada"
-    followers: 7327
-    engagement: 460
-    commentsToLikes: 0.257758
-    id: ck15rakrz6z910i19ysu5nup6
+    followers: 2553
+    engagement: 1173
+    commentsToLikes: 0.252800
+    id: ck13bok3gwepl0i19265dty97
     verified: false
-    hashtags: "#oscars2020, #spot6zer, #istayhome, #specssquad"
-  - username: "westmountfashionista"
+    hashtags: "#dametraveler, #fvmtl, #mtlvegan, #veganbeautyblogger"
+  - username: "iam.neptuna"
     fullname: >-
-      Jessica
+      N E P T U N A 🧜🏼‍♀️
     location: "Canada"
-    followers: 28141
-    engagement: 199
-    commentsToLikes: 0.068065
-    id: ck0tvzowhdhsy0i195evfsxa1
+    followers: 3469
+    engagement: 2309
+    commentsToLikes: 0.188764
+    id: ckap3q95n435q0i78tew2axmj
     verified: false
-    hashtags: "#diamondearrings, #fashioncanadians, #ootdmtl, #canadianstyle"
-  - username: "thechicacademic"
+    hashtags: ""
+  - username: "instawanza"
     fullname: >-
-      Dr. Mary M. | Ottawa 🇨🇦
+      Wided
     location: "Canada"
-    followers: 18618
-    engagement: 474
-    commentsToLikes: 0.246249
-    id: ck5zv1sil3fqm0i14favxtahy
+    followers: 168324
+    engagement: 557
+    commentsToLikes: 0.024845
+    id: ckaoynl0si9f10i784lhe6n3y
     verified: false
-    hashtags: "#canadianmusician, #chicover50, #vicktorandrolf, #anxiety"
+    hashtags: "#ramadankareem, #education, #quarantineinmtl, #mua"
+  - username: "mollyyycardi"
+    fullname: >-
+      Mollycardi👽
+    location: "Canada"
+    followers: 23077
+    engagement: 299
+    commentsToLikes: 0.093991
+    id: ck5q1vog1d05k0i11u2afkkvg
+    verified: false
+    hashtags: "#blush, #waffle, #bag, #coffee"
 ---

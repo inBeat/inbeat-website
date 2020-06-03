@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Birmingham In 2020
 description: >-
-  Find top photographers Instagram influencers in Birmingham in 2020. Most popular hashtags: #uk #birmingham #lovegreatbritain #ig.
+  Find top photographers Instagram influencers in Birmingham in 2020. Most popular hashtags: #birmingham #igersbirmingham #cityscape #portrait.
 platform: Instagram
 profiles:
-  - username: "iulia_david_photography"
-    fullname: >-
-      Iulia David
-    location: "United Kingdom"
-    followers: 66475
-    engagement: 449
-    commentsToLikes: 0.017919
-    id: ck0u1vifey5140i19oyckvt3d
-    verified: false
-    hashtags: "#pink, #fashion, #makeupartist, #wewillbeatthis"
-  - username: "cwrjets"
-    fullname: >-
-      Charlie | CWRjets
-    location: "United Kingdom"
-    followers: 2175
-    engagement: 1502
-    commentsToLikes: 0.077204
-    id: ck8tc8fiyynos0j78p8j2wo7j
-    verified: false
-    hashtags: "#fullflapsfriday, #heathrowairport, #delta, #a330"
-  - username: "mattleachphotography"
-    fullname: >-
-      Matt Leach
-    location: "United Kingdom"
-    followers: 18171
-    engagement: 303
-    commentsToLikes: 0.045814
-    id: ck0w392g5s7380i19fkaiazc2
-    verified: false
-    hashtags: "#cowboy, #magazine, #maxmara, #stylish"
   - username: "kareema_i"
     fullname: >-
       Kareema Ismail
     location: "United Kingdom"
-    followers: 15944
-    engagement: 194
-    commentsToLikes: 0.023411
+    followers: 16089
+    engagement: 245
+    commentsToLikes: 0.031685
     id: ck6tm41i2757g0j711tylfat0
     verified: false
-    hashtags: "#allahumabarik, #weddingphotography, #asianbridal, #allahumabarik"
-  - username: "shi_tang"
+    hashtags: "#allahumabarik, #weddingphotography, #asianbridal, #coronavirus"
+  - username: "sophieemort"
     fullname: >-
-      Shi Tang
+      Sophie
     location: "United Kingdom"
-    followers: 17607
-    engagement: 735
-    commentsToLikes: 0.004280
-    id: ck5q4cafdojsv0i11dcihg9np
+    followers: 7740
+    engagement: 1026
+    commentsToLikes: 0.077029
+    id: ck5c8egpa9b140i11zj994xc3
     verified: false
-    hashtags: "#bwfworldtourfinals, #sanjose, #retirement, #london"
-  - username: "r.o.b.i.n_s.i.n.g.h"
+    hashtags: "#papier, #birminghamfood, #instabeauty, #skincare"
+  - username: "iulia_david_photography"
     fullname: >-
-      Robin Singh | Photographer 🇬🇧
+      Iulia David
     location: "United Kingdom"
-    followers: 19844
-    engagement: 375
-    commentsToLikes: 0.018874
-    id: ck135x0hd3nzi0i19yf926xul
+    followers: 67302
+    engagement: 323
+    commentsToLikes: 0.038746
+    id: ck0u1vifey5140i19oyckvt3d
     verified: false
-    hashtags: "#unitedkingdom, #iamjobansandhu, #londonblogger, #sikhturban"
-  - username: "billy.redden"
+    hashtags: "#pink, #beautybloggers, #macro, #closeup"
+  - username: "cwrjets"
     fullname: >-
-      Billy Redden
+      Charlie | Aviation
     location: "United Kingdom"
-    followers: 12709
-    engagement: 584
-    commentsToLikes: 0.049973
-    id: ck0ud09s6hzys0i19iemnnt8z
+    followers: 2459
+    engagement: 1519
+    commentsToLikes: 0.084808
+    id: ck8tc8fiyynos0j78p8j2wo7j
     verified: false
-    hashtags: "#birminghamgram, #yourbritain, #welivetoexplore, #visitengland"
+    hashtags: "#fullflapsfriday, #heathrowairport, #delta, #a330"
+  - username: "mattleachphoto"
+    fullname: >-
+      Matt Leach
+    location: "United Kingdom"
+    followers: 17994
+    engagement: 306
+    commentsToLikes: 0.027821
+    id: ck0w392g5s7380i19fkaiazc2
+    verified: false
+    hashtags: "#emotion, #narsissist, #gloss, #maxmara"
+  - username: "thetraveljackal"
+    fullname: >-
+      Jack
+    location: "United Kingdom"
+    followers: 2016
+    engagement: 2678
+    commentsToLikes: 0.074068
+    id: ckap6quk2h1jm0i78ov9j0iv6
+    verified: false
+    hashtags: ""
+  - username: "cobi95"
+    fullname: >-
+      Cobi Thomas Ellis
+    location: "United Kingdom"
+    followers: 2265
+    engagement: 3384
+    commentsToLikes: 0.023276
+    id: ckaowl4xc9ef50i7829mfv2h9
+    verified: false
+    hashtags: "#cloud, #health, #getoutside, #motivate"
+  - username: "kel_anne_hunt"
+    fullname: >-
+      Kelly Hunt | Travel Blogger
+    location: "United Kingdom"
+    followers: 21698
+    engagement: 437
+    commentsToLikes: 0.027332
+    id: ck136e1u9615y0i19qypubkxc
+    verified: false
+    hashtags: "#budapesteye, #goldenhourvibes, #budapestlove, #loveauthentic"
   - username: "hassaan.bari"
     fullname: >-
       
     location: "United Kingdom"
-    followers: 5189
-    engagement: 855
-    commentsToLikes: 0.036919
+    followers: 5142
+    engagement: 930
+    commentsToLikes: 0.045710
     id: ck6tnh5kv9tup0j71xr53uai7
     verified: false
-    hashtags: "#creative, #birminghamuk, #iluvbrum, #islamic"
+    hashtags: "#mosques, #positivequotes, #instalove, #londoneye"
   - username: "jaybirminghamphotography"
     fullname: >-
       Jay Birmingham
     location: "United Kingdom"
-    followers: 3061
-    engagement: 1542
-    commentsToLikes: 0.041816
+    followers: 3080
+    engagement: 1608
+    commentsToLikes: 0.041081
     id: ck5hmvo5mmphq0i11d2vu5vks
     verified: false
-    hashtags: "#eastanglia, #hiddenscotland, #renegade, #earthpix"
-  - username: "tomh.p"
-    fullname: >-
-      Tom Hooper
-    location: "United Kingdom"
-    followers: 41542
-    engagement: 268
-    commentsToLikes: 0.011992
-    id: ck14in0zqg7eq0i1945tyatyk
-    verified: false
-    hashtags: "#dbssuperleggera, #pagani, #zagato, #r8spyder"
+    hashtags: "#derbyshire, #bigonbrum, #manhatten, #earthhotspots"
 ---

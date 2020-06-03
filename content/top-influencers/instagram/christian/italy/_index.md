@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Italy In 2020
 description: >-
-  Find top christian Instagram influencers in Italy in 2020. Most popular hashtags: #italy #life #iorestoacasa #fashion.
+  Find top christian Instagram influencers in Italy in 2020. Most popular hashtags: #loves #sunglasses #photography #iorestoacasa.
 platform: Instagram
 profiles:
-  - username: "laracaprotti"
-    fullname: >-
-      L A R A   C A P R O T T I
-    location: "Italy"
-    followers: 25279
-    engagement: 377
-    commentsToLikes: 0.094059
-    id: ck5cg4sa8o5tc0i11wxxe5gyl
-    verified: false
-    hashtags: "#enjoy, #singer, #chillin, #nofear"
-  - username: "rntravels"
-    fullname: >-
-      Christianna✨travel & lifestyle
-    location: "Italy"
-    followers: 5395
-    engagement: 560
-    commentsToLikes: 0.032063
-    id: ck0vvavodobj40i190bxfe9rt
-    verified: false
-    hashtags: "#travelpassion, #travelpassport, #discoverearth, #traveltagged"
-  - username: "leggi_con_irene"
-    fullname: >-
-      Irene Di Liberto
-    location: "Italy"
-    followers: 30292
-    engagement: 225
-    commentsToLikes: 0.221396
-    id: ck8t81sugisro0j78t8k4x339
-    verified: false
-    hashtags: "#mylife, #leggere, #makeup, #booklovers"
   - username: "christiangiroso"
     fullname: >-
       Christian Giroso
     location: "Italy"
-    followers: 15181
-    engagement: 1072
-    commentsToLikes: 0.018758
+    followers: 16133
+    engagement: 1045
+    commentsToLikes: 0.017887
     id: ck8t4o3vl7hn20j78pwaird6q
     verified: false
-    hashtags: "#scampia, #christiangiroso, #rione, #mybrilliantfriend"
-  - username: "christianvieri"
+    hashtags: "#natale, #nipote, #secondiwuhan, #military"
+  - username: "laracaprotti"
     fullname: >-
-      Christian Vieri
+      L A R A   C A P R O T T I
     location: "Italy"
-    followers: 2337926
-    engagement: 245
-    commentsToLikes: 0.010199
-    id: ck15rgetm7sxz0i19uy4l05n5
-    verified: true
-    hashtags: ""
-  - username: "christiandesica35official"
+    followers: 25335
+    engagement: 429
+    commentsToLikes: 0.098386
+    id: ck5cg4sa8o5tc0i11wxxe5gyl
+    verified: false
+    hashtags: "#urban, #glasses, #salerno, #fashionweek"
+  - username: "rntravels"
     fullname: >-
-      Christian de Sica
+      Christianna✨travel & lifestyle
     location: "Italy"
-    followers: 535880
-    engagement: 158
-    commentsToLikes: 0.015170
-    id: ck5hs8lg2w63u0i118ij3tlcs
-    verified: true
-    hashtags: "#roma, #heliocabala, #manueldesica, #claudioamendola"
+    followers: 5277
+    engagement: 565
+    commentsToLikes: 0.033190
+    id: ck0vvavodobj40i190bxfe9rt
+    verified: false
+    hashtags: "#traveladdicts, #landscapephoto, #awesomeearthpix, #theofficeshow"
+  - username: "leggi_con_irene"
+    fullname: >-
+      Irene Di Liberto
+    location: "Italy"
+    followers: 29710
+    engagement: 169
+    commentsToLikes: 0.283717
+    id: ck8t81sugisro0j78t8k4x339
+    verified: false
+    hashtags: "#salonedellibro, #hair, #poet, #writer"
+  - username: "lacucinadi_sara"
+    fullname: >-
+      𝐿𝒶 𝒸𝓊𝒸𝒾𝓃𝒶 𝒹𝒾 𝒮𝒶𝓇𝒶
+    location: "Italy"
+    followers: 3589
+    engagement: 1791
+    commentsToLikes: 0.073602
+    id: ckapc982q2wka0i78k6gx8q29
+    verified: false
+    hashtags: "#lardo, #cacioepepe, #zucchine, #salmonemarinato"
+  - username: "atlanta_loves_books"
+    fullname: >-
+      Atlanta‘s Book Blog
+    location: "Italy"
+    followers: 7435
+    engagement: 732
+    commentsToLikes: 0.044739
+    id: ckap6ar2kf3ri0i78j7t3ores
+    verified: false
+    hashtags: "#urbanoutfitters, #sunglasses, #hairstyle, #todaufdemnil"
+  - username: "christianfagetti"
+    fullname: >-
+      CHRISTIAN FAGETTI
+    location: "Italy"
+    followers: 6875
+    engagement: 819
+    commentsToLikes: 0.023710
+    id: ckap1p5e0viac0i78m7d71qkx
+    verified: false
+    hashtags: "#grato, #balletclass, #tiktok, #festadellamamma"
   - username: "christianblunck_"
     fullname: >-
       Christian Blunck
     location: "Italy"
-    followers: 15868
-    engagement: 218
-    commentsToLikes: 0.038756
+    followers: 15916
+    engagement: 222
+    commentsToLikes: 0.049667
     id: ck5zy9f4q9goq0i1445sw659h
     verified: false
-    hashtags: "#techno, #music, #paulkalkbrenner, #music"
-  - username: "positivetnt"
+    hashtags: "#music, #techno, #surf, #kitesurf"
+  - username: "christianvieri"
     fullname: >-
-      Positive
+      Christian Vieri
     location: "Italy"
-    followers: 32078
-    engagement: 458
-    commentsToLikes: 0.034682
-    id: ck0tzn49xqzca0i1908sa5mhg
-    verified: false
-    hashtags: "#march30th, #4thalbumlaunch, #birthdayvibes, #savethedate"
-  - username: "riccardochina"
+    followers: 2546320
+    engagement: 274
+    commentsToLikes: 0.009684
+    id: ck15rgetm7sxz0i19uy4l05n5
+    verified: true
+    hashtags: "#shavelikeabomber, #ad, #gillette, #bomberkit"
+  - username: "nevercrew"
     fullname: >-
-      𝐆 𝐑 𝐈 𝐆 𝐈 𝐎
+      NEVERCREW
     location: "Italy"
-    followers: 81045
-    engagement: 489
-    commentsToLikes: 0.049999
-    id: ck5ho24fboso60i11i13hnnz0
-    verified: false
-    hashtags: "#body, #coffee, #fyp, #duetto"
-  - username: "frunza_anamaria"
-    fullname: >-
-      Ana-Maria
-    location: "Italy"
-    followers: 101788
-    engagement: 204
-    commentsToLikes: 0.091559
-    id: ck5hslljnwsh90i11bznfdwbi
-    verified: false
-    hashtags: "#matterhorn, #friends, #fashion, #blondegirl"
+    followers: 34765
+    engagement: 175
+    commentsToLikes: 0.018590
+    id: ck0ue3qkskje20i195bmpow4a
+    verified: true
+    hashtags: "#searchwandercollect, #waves, #tank, #germany"
 ---

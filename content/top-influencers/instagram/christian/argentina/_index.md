@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Argentina In 2020
 description: >-
-  Find top christian Instagram influencers in Argentina in 2020. Most popular hashtags: #tbt #quedateencasa #cuarentena #yomequedoencasa.
+  Find top christian Instagram influencers in Argentina in 2020. Most popular hashtags: #niunamenos #love #solidaridad #cuarentena.
 platform: Instagram
 profiles:
   - username: "tylerharris"
     fullname: >-
       Tyler “SMOOTH” Harris
     location: "Argentina"
-    followers: 11350
-    engagement: 499
-    commentsToLikes: 0.020218
+    followers: 11107
+    engagement: 422
+    commentsToLikes: 0.019526
     id: ck5q9nqmmc1za0i11sxo4q8gk
     verified: true
-    hashtags: "#letmeseeifirememberhowtodothis, #happynewyear"
+    hashtags: "#thelastdance, #happynewyear, #basketball, #photo"
   - username: "vida.de.viajes"
     fullname: >-
       👫✈ Nico & Lau - Travel Couple
     location: "Argentina"
-    followers: 58166
-    engagement: 221
-    commentsToLikes: 0.051539
+    followers: 58401
+    engagement: 238
+    commentsToLikes: 0.130664
     id: ck5hs9fblw7lt0i11d5f6ag8s
     verified: false
-    hashtags: "#quedateencasa, #fayah, #dromedario, #salchicha"
+    hashtags: "#tokyo, #sahara, #nabatean, #island"
   - username: "carlanereap"
     fullname: >-
       𝐂𝐀𝐑𝐋𝐀 𝐏𝐈Ñ𝐄𝐈𝐑𝐎
     location: "Argentina"
-    followers: 19915
-    engagement: 304
-    commentsToLikes: 0.037507
+    followers: 19627
+    engagement: 321
+    commentsToLikes: 0.037102
     id: ck8t4c9ah68zh0j78o38xsx43
     verified: false
-    hashtags: "#yomeamo, #metalgirl, #fitnessencasa, #nicegirl"
-  - username: "christiandiazsalto"
+    hashtags: "#cantante, #nicegirl, #legday, #motivationgym"
+  - username: "libros.wattpad_cafe"
     fullname: >-
-      Christian Díaz Salto 🎪
+      ⚠SPOILERS⚠
     location: "Argentina"
-    followers: 7464
-    engagement: 674
-    commentsToLikes: 0.007882
-    id: ck0vvkvulpkho0i19m72n34sm
+    followers: 9621
+    engagement: 1139
+    commentsToLikes: 0.113236
+    id: ckapai679w7md0i78as3kjc30
     verified: false
-    hashtags: "#compoii, #28defebrero, #caba, #yandere"
-  - username: "christianaledesma"
+    hashtags: "#jamirmcguire, #lectores, #crepusculo, #50sombrasdegrey"
+  - username: "saraescu1981"
     fullname: >-
-      Christian Ariel Ledesma
+      Sara Escudero
     location: "Argentina"
-    followers: 50518
-    engagement: 343
-    commentsToLikes: 0.027144
-    id: ck13cwl7f2iny0i196n634py5
+    followers: 63849
+    engagement: 121
+    commentsToLikes: 0.078091
+    id: ck5zltkmclcvu0i147df69ghd
     verified: true
-    hashtags: "#tcenneuquen, #31, #cumplesintorta, #tcenviedma"
-  - username: "christianchaco"
+    hashtags: "#fotitosfotitos, #pajaritos, #lurditas, #jorgeabad"
+  - username: "fashiongrunge"
     fullname: >-
-      CHACO🇦🇷🇲🇽
+      Fashion Grunge
     location: "Argentina"
-    followers: 293898
-    engagement: 341
-    commentsToLikes: 0.010055
-    id: ck5c3yrav0aw60i1188eovlki
-    verified: true
-    hashtags: "#chacogimenez, #seriemundialxfox, #morethanapaycheck, #chacogimenez"
-  - username: "delfichaves"
+    followers: 33770
+    engagement: 99
+    commentsToLikes: 0.007438
+    id: ck5zxy9cs8vwz0i14rsk2c5ff
+    verified: false
+    hashtags: "#lostintranslation, #americanpsycho, #nickstahl, #london"
+  - username: "a24noticias"
     fullname: >-
-      Delfina Chaves
+      A24com
     location: "Argentina"
-    followers: 1297900
-    engagement: 1039
-    commentsToLikes: 0.007989
-    id: ck14h3qdu8ecq0i19lxzeizi6
+    followers: 141304
+    engagement: 115
+    commentsToLikes: 0.157315
+    id: ck5zud8vw251b0i14kmvwtcj4
     verified: true
-    hashtags: "#desjeansrevolution, #salvatupiel, #ad, #delfidesjeans"
+    hashtags: "#sanpablo, #libertadores, #moyano, #fuseneco"
   - username: "lacoraima"
     fullname: >-
       Coraima Torres
     location: "Argentina"
-    followers: 221765
-    engagement: 160
-    commentsToLikes: 0.036449
+    followers: 226872
+    engagement: 166
+    commentsToLikes: 0.036295
     id: ck602woisjq6t0i14s7bfwlbu
     verified: true
-    hashtags: "#lasquiero, #tbt, #madreeloisa, #yomecuido"
-  - username: "martinpasseri"
+    hashtags: "#womanday, #madre, #mujer, #1por100"
+  - username: "rubiomusic_"
     fullname: >-
-      MARTIN PASSERI
+      R U B I O
     location: "Argentina"
-    followers: 28498
-    engagement: 408
-    commentsToLikes: 0.040753
-    id: ck0ucup6vhpy30i19t8ml2klm
+    followers: 20045
+    engagement: 761
+    commentsToLikes: 0.032243
+    id: ck5qeg16c0b5w0i11rvmx26pa
     verified: false
-    hashtags: "#dianacionaldelmate, #salta, #surfing, #stayhome"
-  - username: "gianepalet"
+    hashtags: "#pitchfork, #farawayfest, #farawaytogether, #portalexistencia"
+  - username: "delfichaves"
     fullname: >-
-      Chiqui
+      Delfina Chaves
     location: "Argentina"
-    followers: 14168
-    engagement: 1893
-    commentsToLikes: 0.008471
-    id: ck6ufnl26y2ou0j71oixin9la
-    verified: false
-    hashtags: ""
+    followers: 1287444
+    engagement: 1051
+    commentsToLikes: 0.007849
+    id: ck14h3qdu8ecq0i19lxzeizi6
+    verified: true
+    hashtags: "#desjeansrevolution, #delfidesjeans, #millermusicampliflied, #garniernutrisse"
 ---

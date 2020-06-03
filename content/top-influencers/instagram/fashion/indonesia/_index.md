@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top fashion Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #bali #myntra #baliindonesia.
+  Find top fashion Instagram influencers in Indonesia in 2020. Most popular hashtags: #yourcolourfulday #you36rougelipcream #natursleepingmask #stayathome.
 platform: Instagram
 profiles:
+  - username: "dexawdys_"
+    fullname: >-
+      Dexa Widyasari
+    location: "Indonesia"
+    followers: 8564
+    engagement: 1638
+    commentsToLikes: 0.141262
+    id: ck9wi47570o1p0j784iwjvevk
+    verified: false
+    hashtags: "#kartiniday, #harikartini2020, #jembangankebumen, #sneakers"
+  - username: "titantyra"
+    fullname: >-
+      Titan Tyra
+    location: "Indonesia"
+    followers: 543083
+    engagement: 760
+    commentsToLikes: 0.029802
+    id: ck0tyzli0ojh30i19s0n1w7gr
+    verified: true
+    hashtags: "#milkygelliptint, #sponsored, #photoshootideas, #you36rougelipcream"
   - username: "dee.adeeee"
     fullname: >-
       Ade Indah Sari
     location: "Indonesia"
-    followers: 8559
-    engagement: 1072
-    commentsToLikes: 0.137061
+    followers: 8644
+    engagement: 1112
+    commentsToLikes: 0.120376
     id: ck8t5rnh4b0470j7884ga2zjz
     verified: false
-    hashtags: ""
-  - username: "haileyglamkid"
+    hashtags: "#dirumahaja"
+  - username: "elenacoffey777"
     fullname: >-
-      HAILEY || Mini Influencer
+      Elena Coffey
     location: "Indonesia"
-    followers: 7039
-    engagement: 857
-    commentsToLikes: 0.090417
-    id: ck8sxo3hoi1td0j789p1ch70f
+    followers: 19562
+    engagement: 697
+    commentsToLikes: 0.140559
+    id: ck8t5rzc5b1ce0j78bh9g5vsq
     verified: false
-    hashtags: "#toystory, #woody, #staytendy, #haileystyle"
-  - username: "_twiggy_13"
+    hashtags: "#explorehk, #travelgirlsgo, #traveldiary, #beautifuldog"
+  - username: "ireneswnd"
     fullname: >-
-      T⠀A⠀T⠀I
+      Irene Suwandi
     location: "Indonesia"
-    followers: 136129
-    engagement: 270
-    commentsToLikes: 0.044676
-    id: ck5q5t0nbug340i11jt64sbkc
+    followers: 136773
+    engagement: 905
+    commentsToLikes: 0.026368
+    id: ckap78at1izb00i78ammeeobs
     verified: false
-    hashtags: "#ubud, #sunlightbrilliant, #exploremore, #canggu"
+    hashtags: "#boldmakeup, #you36rougelipcream, #02, #makeupideas"
+  - username: "zelitaptr24"
+    fullname: >-
+      Ikke Zelita Putri💫
+    location: "Indonesia"
+    followers: 14209
+    engagement: 912
+    commentsToLikes: 0.228940
+    id: ck9wh8ehrwqfy0j782jhdp4ri
+    verified: false
+    hashtags: "#resellerbuku, #resellerdeepublish, #bersamalawancorona, #pekanbaru"
+  - username: "michellenathh"
+    fullname: >-
+      𝙈𝙄𝘾𝙃𝙀𝙇𝙇𝙀 || 𝐎𝐏𝐄𝐍 𝐂𝐎𝐋𝐋𝐀𝐁𝐒 🦄
+    location: "Indonesia"
+    followers: 25813
+    engagement: 390
+    commentsToLikes: 0.471110
+    id: ck6toxnp0gog90j7109f63rpx
+    verified: false
+    hashtags: "#bonowatch, #somebyskincare, #premiumcosmetics, #nomorelepek"
+  - username: "taaviawindyan"
+    fullname: >-
+      
+    location: "Indonesia"
+    followers: 6397
+    engagement: 1253
+    commentsToLikes: 0.060058
+    id: ck9wgnb23u4b20j78co51j5lv
+    verified: false
+    hashtags: "#tinggalhistory, #wangiinaja, #sabarajadulu, #bigbangjakarta"
   - username: "fannychristianawong"
     fullname: >-
-      Endorse | Fanny
+      OPEN ENDORSE | PAID PROMOTE
     location: "Indonesia"
-    followers: 20185
-    engagement: 418
-    commentsToLikes: 0.305273
+    followers: 26732
+    engagement: 324
+    commentsToLikes: 0.222520
     id: ck5c3ekhuz5zm0i11rxiea9hj
     verified: false
-    hashtags: "#imigrasiindonesia, #jirou, #dripsweet, #semakindidepan"
-  - username: "idhamkalbuadi"
-    fullname: >-
-      Yeong-I
-    location: "Indonesia"
-    followers: 7187
-    engagement: 1184
-    commentsToLikes: 0.050418
-    id: ck6trirjwz8010j716ownddc1
-    verified: false
-    hashtags: "#aqualife, #mmazmcycle4, #staysafe, #ootd"
-  - username: "tyn06"
-    fullname: >-
-      Tiyana✨
-    location: "Indonesia"
-    followers: 14403
-    engagement: 1569
-    commentsToLikes: 0.021492
-    id: ck14jcy7ojpp40i19mw9uesk5
-    verified: false
-    hashtags: "#asmr, #aestheticedits, #90sfashion, #grungeaesthetics"
+    hashtags: "#banggasurabaya, #freshbendino, #hoodiesquad, #neverbethesame"
   - username: "anisadheaa"
     fullname: >-
       Anisa Dhea N
     location: "Indonesia"
-    followers: 65418
-    engagement: 430
-    commentsToLikes: 0.038807
+    followers: 65660
+    engagement: 449
+    commentsToLikes: 0.041189
     id: ck0w2vedaqcqr0i19utes9eo2
     verified: false
-    hashtags: "#stayathome, #dirumahaja"
-  - username: "sisca.yie"
-    fullname: >-
-      Sisca yie
-    location: "Indonesia"
-    followers: 56333
-    engagement: 250
-    commentsToLikes: 0.170321
-    id: ck6u0rqj7he1s0j717bvrqhvi
-    verified: false
-    hashtags: "#stokdarurattetapsehat, #eskrimenak, #dirumahaja, #theshonetdotcom"
-  - username: "aksa_hearts"
-    fullname: >-
-      AKSA HEARTS🐰
-    location: "Indonesia"
-    followers: 32487
-    engagement: 525
-    commentsToLikes: 0.039759
-    id: ck8tbpbjrwkuk0j78brpvwjax
-    verified: false
-    hashtags: "#pakistanistyle, #pakistanpics, #peopleofpakistan, #humansofpakistan"
-  - username: "swagata_dev"
-    fullname: >-
-      Swagata Dev
-    location: "Indonesia"
-    followers: 144561
-    engagement: 205
-    commentsToLikes: 0.042146
-    id: ck0u1h4j6wuzy0i190e12ucak
-    verified: false
-    hashtags: "#revolveootd, #goatrip, #goabeaches, #guwahatifoodies"
+    hashtags: "#geraktakterbatas, #pestabolarexona, #rexonamenid, #sp"
 ---

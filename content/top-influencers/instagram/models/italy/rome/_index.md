@@ -1,89 +1,59 @@
 ---
 title: Top 10 Models Instagram Influencers In Rome In 2020
 description: >-
-  Find top models Instagram influencers in Rome in 2020. Most popular hashtags: #photography #photooftheday #love #fashion.
+  Find top models Instagram influencers in Rome in 2020. Most popular hashtags: #color #loveyou #quarantena #photooftheday.
 platform: Instagram
 profiles:
-  - username: "savilloandrea"
+  - username: "andrea_perrone17"
     fullname: >-
-      Andrea Savillo
+      ANDREA PERRONE
     location: "Italy"
-    followers: 17344
-    engagement: 155
-    commentsToLikes: 0.239289
-    id: ck135yhbd3uqh0i19b7xb1tqh
+    followers: 155020
+    engagement: 76
+    commentsToLikes: 0.079288
+    id: ck5q073c64khg0i111duprkr0
     verified: false
-    hashtags: "#movies, #portrait, #photographer, #attrice"
+    hashtags: "#vogliouscire, #fashionstyle, #positivity, #day4"
   - username: "marghearesti_"
     fullname: >-
       MARGHERITA ARESTI
     location: "Italy"
-    followers: 12849
-    engagement: 1006
-    commentsToLikes: 0.005745
+    followers: 12621
+    engagement: 1041
+    commentsToLikes: 0.006298
     id: ck55oype69f2y0i119v1kmbrs
     verified: false
     hashtags: ""
-  - username: "maicol_e_virginia"
+  - username: "vinniecut"
     fullname: >-
-      Maicol & Virginia_Bachata
+      Vinnie Cut
     location: "Italy"
-    followers: 16815
-    engagement: 240
-    commentsToLikes: 0.031183
-    id: ck5zkhgvqjhbf0i14lfzpcvj4
+    followers: 28506
+    engagement: 157
+    commentsToLikes: 0.057634
+    id: ck8svz6z3d8ts0j785lhi363u
     verified: false
-    hashtags: "#buonnatale, #christmastree, #bachatafusion, #bachatadance"
-  - username: "valentina.fitmum"
-    fullname: >-
-      🏋️‍♂️FITMOM🏋️‍♂️
-    location: "Italy"
-    followers: 5243
-    engagement: 1897
-    commentsToLikes: 0.205335
-    id: ck5zshjxzyibf0i14l9nnc87z
-    verified: false
-    hashtags: "#fitnesslifestyle, #instaworkout, #instamoment, #instamakeup"
-  - username: "marti95_world"
-    fullname: >-
-      Martina ∞  ♡
-    location: "Italy"
-    followers: 28224
-    engagement: 226
-    commentsToLikes: 0.020912
-    id: ck6uhnn6qa5z90j71etlnwt7g
-    verified: false
-    hashtags: "#beauty, #magic, #monument, #breast"
-  - username: "giadamasii"
-    fullname: >-
-      𝐆𝐈𝐀𝐃𝐀 𝐌𝐀𝐒𝐈
-    location: "Italy"
-    followers: 2530
-    engagement: 1365
-    commentsToLikes: 0.259505
-    id: ck6tmvv498mmx0j71sgeuotur
-    verified: false
-    hashtags: "#lookbook, #ootd, #pictureoftheday, #morningmood"
-  - username: "raffaellamodugno"
-    fullname: >-
-      Raffaella Modugno
-    location: "Italy"
-    followers: 113588
-    engagement: 165
-    commentsToLikes: 0.064059
-    id: ck5q943qv9akx0i11anxxqpni
-    verified: false
-    hashtags: "#istayhome, #italianstyle, #quandolanoiaprendeilsopravvento, #italianbeauty"
+    hashtags: "#fantasytattoo, #inkmom, #modeltattoo, #tattooeu"
   - username: "ale.sbaraglia"
     fullname: >-
       ALESSIA SBARAGLIA
     location: "Italy"
-    followers: 12881
-    engagement: 588
-    commentsToLikes: 0.275389
+    followers: 13793
+    engagement: 660
+    commentsToLikes: 0.230602
     id: ck5bzt1llrs7u0i1136mcqjwu
     verified: false
-    hashtags: "#friday, #fashionstyle, #teddy, #woman"
+    hashtags: "#lookdioggi, #pinupgirl, #navy, #challenge"
+  - username: "olga.kose"
+    fullname: >-
+      Olga Kosenko
+    location: "Italy"
+    followers: 26332
+    engagement: 358
+    commentsToLikes: 0.014439
+    id: ck6u7twhrnms10j71pj7jz4bx
+    verified: false
+    hashtags: "#worldcitizen, #whitesand, #gina, #puppy"
   - username: "dasirya"
     fullname: >-
       Dasirya💋
@@ -93,15 +63,45 @@ profiles:
     commentsToLikes: 0.028209
     id: ck5c2lu36xibm0i11m6ncxlrg
     verified: false
-    hashtags: "#lying, #christmascheer, #tattooedbabe, #hotbodygirl"
+    hashtags: "#bnwmood, #pakeskingirl, #hairstyle, #bluelingerie"
+  - username: "victoria_masprone"
+    fullname: >-
+      Victoria Masprone
+    location: "Italy"
+    followers: 3977
+    engagement: 1426
+    commentsToLikes: 0.077297
+    id: ck8t53p0y8psz0j781ysjosy9
+    verified: false
+    hashtags: "#love, #veneto, #tiktok, #fran"
   - username: "zoesinopoli"
     fullname: >-
       ZOE ☆
     location: "Italy"
-    followers: 7135
-    engagement: 705
-    commentsToLikes: 0.012440
+    followers: 7187
+    engagement: 719
+    commentsToLikes: 0.010741
     id: ck6uejntsrbcw0j71zr2e3si7
     verified: false
-    hashtags: "#fun, #brother, #related, #mom"
+    hashtags: "#coronavirus, #pool, #ootd, #amicizia"
+  - username: "gregoriodimasi"
+    fullname: >-
+      Gregorio Di Masi
+    location: "Italy"
+    followers: 21698
+    engagement: 213
+    commentsToLikes: 0.013453
+    id: ck8svytyvd7gp0j78fvl71zea
+    verified: false
+    hashtags: "#climbing, #smoke, #color, #italianboy"
+  - username: "vittoriabelvedere"
+    fullname: >-
+      Vittoria Belvedere
+    location: "Italy"
+    followers: 35943
+    engagement: 240
+    commentsToLikes: 0.059182
+    id: ck6tve2q7lpjl0j71arifjsxc
+    verified: true
+    hashtags: "#figliedieva, #matteocristofari, #moodoftheday, #togetherwebalance"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In Turkey In 2020
 description: >-
-  Find top gymnasts Instagram influencers in Turkey in 2020. Most popular hashtags: #tbt #gymnastics #photooftheday #yoga.
+  Find top gymnasts Instagram influencers in Turkey in 2020. Most popular hashtags: #gymnastics #photooftheday #love #quarantine.
 platform: Instagram
 profiles:
+  - username: "_senacakir_"
+    fullname: >-
+      Sena Çakır
+    location: "Turkey"
+    followers: 108576
+    engagement: 1543
+    commentsToLikes: 0.019455
+    id: ckaowr28ua2fi0i78dmpbv8dz
+    verified: true
+    hashtags: "#tb, #torunlar, #evdekalt"
   - username: "aysebegumonbasiofficial"
     fullname: >-
       Ayşe Begüm Onbaşı
     location: "Turkey"
-    followers: 56566
-    engagement: 828
-    commentsToLikes: 0.012672
+    followers: 62367
+    engagement: 719
+    commentsToLikes: 0.013273
     id: ck5hikmdje06e0i110e5d0myf
     verified: true
-    hashtags: "#quotes, #spring, #evdeantrenman, #stayhomestaysafe"
-  - username: "nazli_svrnbs"
-    fullname: >-
-      Nazlı Savranbaşı🌸
-    location: "Turkey"
-    followers: 3062
-    engagement: 2373
-    commentsToLikes: 0.032710
-    id: ck8syti9ply7q0j78aoz1fmzf
-    verified: false
-    hashtags: "#stuttgart2019, #tokyo2020, #wordchampionship, #teamturkey"
+    hashtags: "#saturdayvibes, #stayhomestaysafe, #evdekalformdakal, #quarentineandchill"
   - username: "turuncuprenses"
     fullname: >-
       Melis Şeremet🧡
     location: "Turkey"
-    followers: 52703
-    engagement: 165
-    commentsToLikes: 0.055957
+    followers: 51987
+    engagement: 202
+    commentsToLikes: 0.179877
     id: ck5hp6usoqupl0i11sksibbi1
     verified: false
-    hashtags: "#styling, #naturephotography, #mother, #kidafashion"
+    hashtags: "#garden, #beach, #sportswear, #likeforlikes"
+  - username: "nazli_savranbasi"
+    fullname: >-
+      Nazlı Savranbaşı🌸
+    location: "Turkey"
+    followers: 3207
+    engagement: 2271
+    commentsToLikes: 0.026888
+    id: ck8syti9ply7q0j78aoz1fmzf
+    verified: false
+    hashtags: "#hayalimizbir, #worldchampionship, #teamturkey, #stuttgart"
+  - username: "mustiyldz07"
+    fullname: >-
+      Mustii
+    location: "Turkey"
+    followers: 31120
+    engagement: 574
+    commentsToLikes: 0.027893
+    id: ckap56uzgafx70i78y5njmfaz
+    verified: false
+    hashtags: "#fitness, #konyaalt, #marka, #butik"
   - username: "simonadyankova"
     fullname: >-
       Simona
     location: "Turkey"
-    followers: 14399
-    engagement: 1085
-    commentsToLikes: 0.008297
+    followers: 14803
+    engagement: 1216
+    commentsToLikes: 0.010592
     id: ck15spbnpe5br0i19a13xj5gm
     verified: false
-    hashtags: "#love, #lovealpacas, #alpacalove, #teamoftheyear"
-  - username: "zzehraozbey"
+    hashtags: "#picture, #wine, #christmastree, #varna"
+  - username: "ilknurozdemir61"
     fullname: >-
-      Zehra ÖZBEY
+      İlknur Özdemir
     location: "Turkey"
-    followers: 5693
-    engagement: 2026
-    commentsToLikes: 0.010232
-    id: ck8t9745nn3na0j780rfa57aq
+    followers: 27223
+    engagement: 374
+    commentsToLikes: 0.153290
+    id: ck8t3cgp12qtl0j78glw4h0kg
     verified: false
-    hashtags: "#gimnasio, #likeforlikes, #photooftheday, #lovely"
-  - username: "tunaapari"
-    fullname: >-
-      Tuna Yüksel
-    location: "Turkey"
-    followers: 89531
-    engagement: 542
-    commentsToLikes: 0.033568
-    id: ck6tu5311ecnw0j71qcz84e5i
-    verified: false
-    hashtags: "#beautifulnature, #lifequotes, #fold, #backbending"
+    hashtags: "#mardingezi, #viewforview, #iloveyou, #yazkombinleri"
   - username: "nurayalpaslanofficial"
     fullname: >-
       ✌️NURAY ALPASLAN OFFICIAL
     location: "Turkey"
-    followers: 8695
-    engagement: 455
-    commentsToLikes: 0.024948
+    followers: 8732
+    engagement: 415
+    commentsToLikes: 0.033144
     id: ck5c9wdiwc93g0i11zxjqcn7r
     verified: false
-    hashtags: "#staytunedformore, #girls, #ultra, #pati"
-  - username: "dlk_klyncgl"
-    fullname: >-
-      Dilek Kalyencioğlu
-    location: "Turkey"
-    followers: 4001
-    engagement: 1387
-    commentsToLikes: 0.112969
-    id: ck15t9m9qh0a10i1994lpnjss
-    verified: false
-    hashtags: "#talentedmusicians, #naturelover, #beautifuldestinations, #livethemoment"
+    hashtags: "#salsera, #1905, #cimbombom, #besafemyfriends"
   - username: "emirhan.muran"
     fullname: >-
       Emirhan Muran
     location: "Turkey"
-    followers: 16326
-    engagement: 1419
-    commentsToLikes: 0.013413
+    followers: 16819
+    engagement: 1435
+    commentsToLikes: 0.012668
     id: ck13atlkes4cb0i19qqoy2ahz
     verified: false
-    hashtags: "#evdekal, #fly, #poomsae, #pair"
-  - username: "simy_fit"
+    hashtags: "#athletics, #8martd, #corona, #sporyap"
+  - username: "salvodali"
     fullname: >-
-      Simyfit
+      T a n a b a y  T o k g o z
     location: "Turkey"
-    followers: 51908
-    engagement: 108
-    commentsToLikes: 0.032330
-    id: ck5hg1uqc0hob0i11ve3m01zt
+    followers: 61650
+    engagement: 768
+    commentsToLikes: 0.022629
+    id: ck6tyov9p4zyg0j71my97gn14
     verified: false
-    hashtags: "#pilatesball, #sporyap, #travel, #karantinag"
+    hashtags: "#stayhome, #soka, #rapstar, #wear"
 ---

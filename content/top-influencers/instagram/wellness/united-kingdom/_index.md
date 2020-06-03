@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top wellness Instagram influencers in United Kingdom in 2020. Most popular hashtags: #lifeinlockdown #invertintoequinox #stayhome #ysydcrew.
+  Find top wellness Instagram influencers in United Kingdom in 2020. Most popular hashtags: #homeworkout #gymlife #wellness #meerrychristmas.
 platform: Instagram
 profiles:
-  - username: "helen_garner_yoga"
+  - username: "caligraphist"
     fullname: >-
-      Helen Garner
+      Cali • Menswear & Beards
     location: "United Kingdom"
-    followers: 36564
-    engagement: 172
-    commentsToLikes: 0.216396
-    id: ck134xnonyp310i19zj4yql2w
+    followers: 18862
+    engagement: 1073
+    commentsToLikes: 0.071034
+    id: ck0vy93sw2tvo0i1982qrmrke
     verified: false
-    hashtags: "#practicealliscoming, #yogafeature, #yogatribe, #forwardfold"
+    hashtags: "#selfbarbering, #selfcare, #blackboyjoy, #stayathomestyle"
+  - username: "brooklynkitten_"
+    fullname: >-
+      paulina | brooklyn kitten
+    location: "United Kingdom"
+    followers: 35083
+    engagement: 663
+    commentsToLikes: 0.085704
+    id: ck0w6b0697pny0i19vpnmhdoe
+    verified: false
+    hashtags: "#discovertuscany, #thailandtravel, #mysecretlondon, #pasionxmexico"
+  - username: "georgiaaking"
+    fullname: >-
+      Self Love 𝒙 Mindset + Me ♡ 👸🏼
+    location: "United Kingdom"
+    followers: 42825
+    engagement: 1202
+    commentsToLikes: 0.020578
+    id: ck0u6h4qh21sl0i19l4aexi8n
+    verified: false
+    hashtags: "#selflove"
+  - username: "carlyneave"
+    fullname: >-
+      Carly Neave
+    location: "United Kingdom"
+    followers: 50421
+    engagement: 444
+    commentsToLikes: 0.038050
+    id: ck0w0k8ixemfc0i199k23jm63
+    verified: false
+    hashtags: "#partnerswithpampers, #plantbased, #jukes, #duedate"
   - username: "abbygfitness_"
     fullname: >-
       Abby Glasson
     location: "United Kingdom"
-    followers: 148138
-    engagement: 150
-    commentsToLikes: 0.065849
+    followers: 161910
+    engagement: 202
+    commentsToLikes: 0.061170
     id: ck8t9kkuvoft70j78fzsor0i6
     verified: false
-    hashtags: "#fitfamily, #activewear, #abs, #gymgirl"
-  - username: "sallyfazeli"
-    fullname: >-
-      Lifestyle & Wellness
-    location: "United Kingdom"
-    followers: 50399
-    engagement: 134
-    commentsToLikes: 0.094807
-    id: ck0w30oa5r1fg0i196vnn0sgv
-    verified: false
-    hashtags: "#mybootique, #popsayourlife, #thomassaboxsilvertree, #activia"
-  - username: "tahlia_coutinho"
-    fullname: >-
-      Tahlia Rowena Coutinho
-    location: "United Kingdom"
-    followers: 321548
-    engagement: 399
-    commentsToLikes: 0.013758
-    id: ck6tpzshbolfb0j71o5y602yl
-    verified: false
-    hashtags: "#thebeaubrummell, #fashionnovapartner, #gifted, #ad"
-  - username: "gabriellepollock"
-    fullname: >-
-      Gabrielle Savannah 🇿🇦
-    location: "United Kingdom"
-    followers: 23285
-    engagement: 210
-    commentsToLikes: 0.126385
-    id: ck8svvrbrcvlx0j78czrzoclq
-    verified: false
-    hashtags: "#stayhome, #thisnight, #engagementpartyoutfit, #kenton"
-  - username: "myprdiaries"
-    fullname: >-
-      Bijal Soni
-    location: "United Kingdom"
-    followers: 26262
-    engagement: 110
-    commentsToLikes: 0.224917
-    id: ck5zkobbvjuka0i14irrhdgkl
-    verified: false
-    hashtags: "#pumawomen, #throwback, #staysafe, #indianblogger"
+    hashtags: "#bouxavenue, #gifted"
   - username: "jade_packer"
     fullname: >-
-      Jade Packer IFBB Elite PRO
+      Jade Packer FIT
     location: "United Kingdom"
-    followers: 12606
-    engagement: 1027
-    commentsToLikes: 0.040470
+    followers: 13515
+    engagement: 987
+    commentsToLikes: 0.102285
     id: ck5hkuxnhj2t50i11qxwp5j25
     verified: false
-    hashtags: "#jointheclub, #bikiniprep, #soapbrows, #bikiniwellness"
-  - username: "hi_healthy_hannah"
+    hashtags: "#jointheclub, #consistencyiskey, #gsfamilyfaces, #missygirls"
+  - username: "emmablondevoyage"
     fullname: >-
-      Han | Healing Chronic Illness
+      Emma Franklin
     location: "United Kingdom"
-    followers: 11307
-    engagement: 634
-    commentsToLikes: 0.378557
-    id: ck8tau1sgt27a0j783u7ys32l
+    followers: 5460
+    engagement: 1156
+    commentsToLikes: 0.189472
+    id: ck8tdfiws35zc0j78jdfnkdge
     verified: false
     hashtags: ""
-  - username: "sophie.anderton"
+  - username: "gabriellepollock"
     fullname: >-
-      Sophie Anderton
+      model • yoga teacher
     location: "United Kingdom"
-    followers: 26231
-    engagement: 196
-    commentsToLikes: 0.053066
-    id: ck6u8mmgysgvq0j712j5phg84
+    followers: 23110
+    engagement: 262
+    commentsToLikes: 0.116920
+    id: ck8svvrbrcvlx0j78czrzoclq
     verified: false
-    hashtags: "#chappedskin, #stayhome, #saturdayvibes, #weekendfun"
-  - username: "pennylaneisthename"
+    hashtags: "#bts, #sustainable, #milanfashion, #supportlocal"
+  - username: "agfalzon"
     fullname: >-
-      𝐏 𝐄 𝐍 𝐍 𝐘   𝐋 𝐀 𝐍 𝐄
+      Alain Falzon
     location: "United Kingdom"
-    followers: 59323
-    engagement: 393
-    commentsToLikes: 0.016209
-    id: ck6tkl14a4wzk0j715csb0cki
+    followers: 6977
+    engagement: 929
+    commentsToLikes: 0.049450
+    id: ckap8mef9oz7p0i78yxa0v7bj
     verified: false
-    hashtags: "#stayhome, #lyma, #reflexology, #healthcoach"
+    hashtags: "#newdecade, #healthylifestyle, #gymshark, #stayhome"
+  - username: "tiffany_soi"
+    fullname: >-
+      Tiffany | MultiDimensional
+    location: "United Kingdom"
+    followers: 30188
+    engagement: 431
+    commentsToLikes: 0.032180
+    id: ck8syqw5wlnvl0j78z0lmv4vq
+    verified: false
+    hashtags: "#yogaforeveryone, #duckface, #breathwork, #grampians"
 ---

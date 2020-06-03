@@ -1,26 +1,16 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top fitness Instagram influencers in Los Angeles in 2020. Most popular hashtags: #fitness #love #workout #losangeles.
+  Find top fitness Instagram influencers in Los Angeles in 2020. Most popular hashtags: #fitness #losangeles #workout #quarantine.
 platform: Instagram
 profiles:
-  - username: "monti_wheeler"
-    fullname: >-
-      Monti Wheeler
-    location: "United States"
-    followers: 42859
-    engagement: 257
-    commentsToLikes: 0.068175
-    id: ck6u155h9jnlp0j71uo2jl2tn
-    verified: false
-    hashtags: "#happymonday, #myfabletics, #moveinfabletics"
   - username: "inspire_people"
     fullname: >-
       Jonathan Albrecht
     location: "United States"
-    followers: 3695
-    engagement: 1488
-    commentsToLikes: 0.053076
+    followers: 3714
+    engagement: 1486
+    commentsToLikes: 0.059872
     id: ck5c8j0sw9leo0i11rvdu3tuk
     verified: false
     hashtags: "#jonathangetsyounger, #orangetheoryfitness"
@@ -28,80 +18,90 @@ profiles:
     fullname: >-
       lauren trenkle
     location: "United States"
-    followers: 5331
-    engagement: 752
-    commentsToLikes: 0.051560
+    followers: 5302
+    engagement: 743
+    commentsToLikes: 0.051429
     id: ck0tztsakrlwi0i193u5cczp4
     verified: false
-    hashtags: "#sponsored, #stayvital, #ad, #vitalinfluencer"
-  - username: "julianaaugusto"
+    hashtags: "#stayvital"
+  - username: "angelapaul"
     fullname: >-
-      Juliana Augusto
+      angelapaul
     location: "United States"
-    followers: 24765
-    engagement: 175
-    commentsToLikes: 0.025075
-    id: ck6u6qslgh6ko0j71drcifogh
+    followers: 91999
+    engagement: 227
+    commentsToLikes: 0.053217
+    id: ck8t8eerlk56z0j78h85qjwhw
     verified: false
-    hashtags: "#womenempowerment, #temple, #betocarrero, #rundisney"
-  - username: "airin_avery"
+    hashtags: "#feminine, #myhappyplace, #mybeautyroutine, #goldenhour"
+  - username: "joemode"
     fullname: >-
-      Airin Avery, MS, NASM CPT
+      JOEMODE
     location: "United States"
-    followers: 15181
-    engagement: 307
-    commentsToLikes: 0.053898
-    id: ck8sywwejmbzk0j78uvzjznl4
+    followers: 11543
+    engagement: 504
+    commentsToLikes: 0.049871
+    id: ck5q7s3692v2k0i11nv8zxal7
     verified: false
-    hashtags: "#npcbikinicompetitor, #uclabruins, #npcbikini, #mobilitywork"
-  - username: "livehappii"
+    hashtags: "#vibing, #press, #bh, #ysl"
+  - username: "ro54d"
     fullname: >-
-      Tori Franklin
+      Rodrigo Garduño
     location: "United States"
-    followers: 8689
-    engagement: 813
-    commentsToLikes: 0.026551
-    id: ck8swslj9f3dx0j78uenykixw
+    followers: 769763
+    engagement: 429
+    commentsToLikes: 0.034895
+    id: ck5cf0o7tm3c40i11cmvoo431
     verified: false
-    hashtags: "#melanin, #smile, #tattoos, #washyahands"
-  - username: "tonyandersontv"
-    fullname: >-
-      Tony Anderson
-    location: "United States"
-    followers: 17871
-    engagement: 344
-    commentsToLikes: 0.166137
-    id: ck6tt2dab879e0j71v0pgl9vw
-    verified: false
-    hashtags: "#superbowl, #mahomes, #jayz, #mamba"
-  - username: "drmarkcheng"
-    fullname: >-
-      Dr. Mark Cheng
-    location: "United States"
-    followers: 15521
-    engagement: 134
-    commentsToLikes: 0.040900
-    id: ck8sy9d7ck6e50j7815gjunz0
-    verified: false
-    hashtags: "#vision, #neurology, #humanperformance, #longevity"
+    hashtags: "#brazil, #italy, #rescilience, #brazilianmodel"
   - username: "sarah_allthingsoutdoors"
     fullname: >-
       S A R A H️️
     location: "United States"
-    followers: 37179
-    engagement: 411
-    commentsToLikes: 0.067056
+    followers: 42267
+    engagement: 509
+    commentsToLikes: 0.053467
     id: ck0vvwfj1r2lr0i19i5dtm7ug
     verified: false
-    hashtags: "#sunsethunter, #selfquarantine, #girlsgang, #stayhomestaysafe"
+    hashtags: "#newkitday, #selfquarantine, #mondaymotivation, #takeadeepbreath"
   - username: "beyondcasualb"
     fullname: >-
       Bianca Cortez ❥
     location: "United States"
-    followers: 202343
-    engagement: 159
-    commentsToLikes: 0.040147
+    followers: 199790
+    engagement: 169
+    commentsToLikes: 0.041637
     id: ck14jsgw7ly9n0i1912qbl2wa
     verified: false
-    hashtags: "#todaysatkins, #liketkit, #ad, #simplyu"
+    hashtags: "#ad, #wecreateitforward, #sheingals, #soapandgloryusa"
+  - username: "mrkmai"
+    fullname: >-
+      Kevin Mai
+    location: "United States"
+    followers: 5611
+    engagement: 616
+    commentsToLikes: 0.072320
+    id: ck5c80b278izd0i11lx2y5pxf
+    verified: false
+    hashtags: "#thebigpicture, #alberteinstein, #thicc, #tbt"
+  - username: "brrrit"
+    fullname: >-
+      Lesbian Jew 🏳️‍🌈🤟🏽🇮🇱 Brit
+    location: "United States"
+    followers: 10148
+    engagement: 351
+    commentsToLikes: 0.067496
+    id: ck0w5xsvd5yky0i1997m1k0ph
+    verified: false
+    hashtags: "#wcw, #sorrynotsorry, #bossmom, #malibulife"
+  - username: "danielricefitness"
+    fullname: >-
+      Daniel Rice
+    location: "United States"
+    followers: 31310
+    engagement: 493
+    commentsToLikes: 0.024957
+    id: ck6ui6a8kdbf60j71uhh81sjo
+    verified: false
+    hashtags: "#sponsored, #selfcarechallenge, #danielricefitness, #halfthebattle"
 ---

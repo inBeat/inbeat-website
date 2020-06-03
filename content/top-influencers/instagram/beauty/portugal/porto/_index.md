@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Porto In 2020
 description: >-
-  Find top beauty Instagram influencers in Porto in 2020. Most popular hashtags: #fashion #stayhome #fashionblogger #outfitinspiration.
+  Find top beauty Instagram influencers in Porto in 2020. Most popular hashtags: #beauty #makeuplover #quarentena #stayhome.
 platform: Instagram
 profiles:
-  - username: "mariannemota__"
-    fullname: >-
-      MARIANNE MOTA
-    location: "Portugal"
-    followers: 8851
-    engagement: 443
-    commentsToLikes: 0.244329
-    id: ck5zj34maguzl0i14jspcxsx5
-    verified: false
-    hashtags: "#sheingals, #venusgirl, #pixibeauty, #birthdaygirl"
-  - username: "inesfdc"
-    fullname: >-
-      Inês de Castro
-    location: "Portugal"
-    followers: 3835
-    engagement: 3175
-    commentsToLikes: 0.023738
-    id: ck8sxqvaoibx10j78te4uevke
-    verified: false
-    hashtags: "#dinnertime, #freedom, #foodphotography, #todayfood"
-  - username: "akeilaamorim"
-    fullname: >-
-      Keila Amorim 🌸
-    location: "Portugal"
-    followers: 20067
-    engagement: 218
-    commentsToLikes: 0.103987
-    id: ck0txfdzaiwel0i19vkfveac1
-    verified: false
-    hashtags: "#24weeks, #sorrisowells, #pregnant, #24weekspregnant"
   - username: "beatrizmoreiraazevedo"
     fullname: >-
       B E A
     location: "Portugal"
-    followers: 30696
-    engagement: 364
-    commentsToLikes: 0.179571
+    followers: 30043
+    engagement: 353
+    commentsToLikes: 0.078398
     id: ck1374btg9plh0i19pbvhs9x8
     verified: false
-    hashtags: "#fashionable, #stayhome, #ootdfashion, #outfitinspiration"
+    hashtags: "#harmonicalinea, #decorideas, #kerastase, #stayhome"
   - username: "miriamtoreiromakeup"
     fullname: >-
       Miriam Toreiro
     location: "Portugal"
-    followers: 47596
-    engagement: 761
-    commentsToLikes: 0.028665
+    followers: 46900
+    engagement: 538
+    commentsToLikes: 0.033862
     id: ck13bez9mv3u90i193j2irghu
     verified: false
-    hashtags: "#makeupgoals, #colourpop, #videotutorial, #makeuppassion"
-  - username: "virginiapferreira"
-    fullname: >-
-      Virgínia Ferreira
-    location: "Portugal"
-    followers: 6645
-    engagement: 1097
-    commentsToLikes: 0.156904
-    id: ck8szqi8vpcay0j78qoqxb6qu
-    verified: false
-    hashtags: "#ootd, #gift, #staysafe, #influencer"
-  - username: "ritacduro"
-    fullname: >-
-      Rita Duro
-    location: "Portugal"
-    followers: 3280
-    engagement: 1497
-    commentsToLikes: 0.714083
-    id: ck5c6onu25via0i11pzhlgkuy
-    verified: false
-    hashtags: "#photooftheday, #hawkerscampus, #selfcare, #foodlover"
+    hashtags: "#maquiagemtop, #automaquiagem, #makeuppage, #makeupislife"
   - username: "catemoutinho"
     fullname: >-
       Catarina Moutinho
     location: "Portugal"
-    followers: 57121
-    engagement: 746
-    commentsToLikes: 0.012505
+    followers: 58417
+    engagement: 642
+    commentsToLikes: 0.015808
     id: ck6tnhc3f9u9p0j71rlrngzeb
     verified: false
-    hashtags: "#fashion, #amor, #fashionblog, #photo"
-  - username: "viksoza"
+    hashtags: "#influencer, #tattos, #visitemadeira, #strong"
+  - username: "carvalhosamakeup"
     fullname: >-
-      Vinicius | Porto Photographer
+      Carvalhosa Makeup
     location: "Portugal"
-    followers: 33135
-    engagement: 302
-    commentsToLikes: 0.030525
-    id: ck0ttzs2l51cc0i19fzpdv5fy
+    followers: 5750
+    engagement: 844
+    commentsToLikes: 0.190437
+    id: ck9hahpo8cl4p0j78op3f40b7
     verified: false
-    hashtags: "#fashioneditorial, #makeup, #pursuitofportraits, #germany"
-  - username: "andreiaffoliveira"
+    hashtags: "#marykayportugal, #mattelipstick, #cutcrease, #makeuplife"
+  - username: "ritacduro"
     fullname: >-
-      Andreia Filipa Oliveira
+      Rita Duro
     location: "Portugal"
-    followers: 6734
-    engagement: 934
-    commentsToLikes: 0.478657
-    id: ck8t1cb1lv7we0j782fmaauhy
+    followers: 3793
+    engagement: 1204
+    commentsToLikes: 0.245040
+    id: ck5c6onu25via0i11pzhlgkuy
     verified: false
-    hashtags: "#stayhometakecare, #makeup, #sushi, #yoins"
+    hashtags: "#bamboobrush, #planetearth, #hawkersrepspt, #mederbeauty"
+  - username: "maryplan"
+    fullname: >-
+      Maria Pereira
+    location: "Portugal"
+    followers: 26749
+    engagement: 165
+    commentsToLikes: 0.065517
+    id: ck5zl46uwkp4v0i143onacgm5
+    verified: false
+    hashtags: "#chiaraferragnicollection, #springtime, #hotday, #moodygrams"
+  - username: "lilycostamarques"
+    fullname: >-
+      LILY MARQUES - Beauty Content
+    location: "Portugal"
+    followers: 29026
+    engagement: 709
+    commentsToLikes: 0.063744
+    id: ck0w42hjswhak0i195xgnsoqf
+    verified: false
+    hashtags: "#hollywoodmakeup, #maquiagemclassica, #makeuphacks, #sizeup"
+  - username: "ioneomena"
+    fullname: >-
+      Ione Omena Rangel
+    location: "Portugal"
+    followers: 105982
+    engagement: 136
+    commentsToLikes: 0.090020
+    id: ck15sj6j2d9z40i19w6g6fa1g
+    verified: false
+    hashtags: ""
+  - username: "carinacaldeira_"
+    fullname: >-
+      Carina Caldeira
+    location: "Portugal"
+    followers: 58116
+    engagement: 162
+    commentsToLikes: 0.055141
+    id: ck5cdqiqrjlzo0i11j8hrqino
+    verified: true
+    hashtags: "#wheatandrose, #happyeaster, #glitterlifephotography, #fashion"
+  - username: "tomanephotography"
+    fullname: >-
+      Tó Mané
+    location: "Portugal"
+    followers: 6431
+    engagement: 893
+    commentsToLikes: 0.054245
+    id: ck5c7o4f77w300i116v3by4yr
+    verified: false
+    hashtags: "#supertubos, #slab, #foggymorning, #oporto"
 ---

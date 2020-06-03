@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top yoga Instagram influencers in United Kingdom in 2020. Most popular hashtags: #yogainspiration #yoga #yogi #yogaphotography.
+  Find top yoga Instagram influencers in United Kingdom in 2020. Most popular hashtags: #namaste #yoga #mountains #parisienne.
 platform: Instagram
 profiles:
-  - username: "odettecampbellx"
+  - username: "travel.kite"
     fullname: >-
-      𝐎 𝐃 𝐄 𝐓 𝐓 𝐄†☾﹋﹌
+      Lili ✈ Travel & Sustainability
     location: "United Kingdom"
-    followers: 28325
-    engagement: 403
-    commentsToLikes: 0.091929
-    id: ck14jk4nukrk40i19quf379fm
+    followers: 2297
+    engagement: 4220
+    commentsToLikes: 0.146080
+    id: ck0ud6wvxig2n0i19wjk26enj
     verified: false
-    hashtags: "#goodtimes, #thebest"
+    hashtags: "#salzburg, #northmacedonia, #termeszet, #barcelonalove"
   - username: "celestpereirayoga"
     fullname: >-
-      Yoga Teacher - Celest
+      Celest Pereira
     location: "United Kingdom"
-    followers: 61846
-    engagement: 375
-    commentsToLikes: 0.102124
+    followers: 66165
+    engagement: 383
+    commentsToLikes: 0.089237
     id: ck15pm247yk0i0i19ztme619q
     verified: false
-    hashtags: "#liveformore, #runner, #running"
+    hashtags: "#liveformore, #runner"
+  - username: "naki.earth"
+    fullname: >-
+      Annachiara 🌿
+    location: "United Kingdom"
+    followers: 25014
+    engagement: 1034
+    commentsToLikes: 0.025923
+    id: ck5pxylmmthrg0i11scerm36n
+    verified: false
+    hashtags: "#yoga, #lgbtq, #vivaio, #couple"
   - username: "allaboutnori"
     fullname: >-
       Nori Olivia
     location: "United Kingdom"
-    followers: 51435
-    engagement: 543
-    commentsToLikes: 0.034011
+    followers: 51793
+    engagement: 551
+    commentsToLikes: 0.037266
     id: ck0vyis9h47cs0i19o83o8ggm
     verified: false
-    hashtags: "#swipe, #iciwambassad, #ruddingparkspa, #elladirocco"
-  - username: "miki_ferris"
-    fullname: >-
-      C O A C H    M  I  K  I
-    location: "United Kingdom"
-    followers: 18348
-    engagement: 393
-    commentsToLikes: 0.287593
-    id: ck8t9mbx1olw90j78o48p0dq4
-    verified: false
-    hashtags: "#connected, #positivevibes, #theonlywayisthrough, #underarmour"
+    hashtags: "#lasuitewest, #tonterialondon, #nivealiebe, #stronger"
   - username: "stelasulzdorf"
     fullname: >-
       Stela Sulzdorf
     location: "United Kingdom"
-    followers: 50806
-    engagement: 262
-    commentsToLikes: 0.407138
+    followers: 51917
+    engagement: 279
+    commentsToLikes: 0.588087
     id: ck5btbf66fnzx0i117ys363ax
     verified: false
-    hashtags: "#internationalwomensday, #igyoga, #onziegear, #myyogalife"
+    hashtags: "#strength, #zebrastrong, #fitspo, #fitfam"
+  - username: "atamysz"
+    fullname: >-
+      Agata Myszkowska
+    location: "United Kingdom"
+    followers: 6366
+    engagement: 1524
+    commentsToLikes: 0.075935
+    id: ckaozo9ygmnpl0i78ek88wm0w
+    verified: false
+    hashtags: "#caltonhill, #passionpassport, #highlandcow, #likeforlikes"
   - username: "tomwilsonleonard"
     fullname: >-
       Tom Wilson-Leonard
     location: "United Kingdom"
-    followers: 40087
-    engagement: 197
-    commentsToLikes: 0.057379
+    followers: 40278
+    engagement: 204
+    commentsToLikes: 0.060217
     id: ck5hk7kwshxh30i110wlle82w
     verified: false
-    hashtags: "#ayurveda, #photoshop, #recovery, #sleepyhead"
+    hashtags: "#mobility, #barstarzz, #recoveryjourney, #movement"
+  - username: "miki_ferris"
+    fullname: >-
+      C O A C H    M  I  K  I
+    location: "United Kingdom"
+    followers: 26485
+    engagement: 483
+    commentsToLikes: 0.335148
+    id: ck8t9mbx1olw90j78o48p0dq4
+    verified: false
+    hashtags: "#underarmour, #puppylove, #togetherathome, #bananabread"
+  - username: "thebrunein"
+    fullname: >-
+      Christelle.
+    location: "United Kingdom"
+    followers: 25495
+    engagement: 187
+    commentsToLikes: 0.070966
+    id: ck5hgp3cd3zha0i11svlx0vbd
+    verified: false
+    hashtags: "#simplebeyond, #minimaliststyle, #tenuedujour, #dressup"
   - username: "travelwithtereza"
     fullname: >-
       TEREZA | Travel blogger
     location: "United Kingdom"
-    followers: 33225
-    engagement: 138
-    commentsToLikes: 0.272965
+    followers: 31811
+    engagement: 146
+    commentsToLikes: 0.269723
     id: ck0w6dubb840d0i19y671l1dm
     verified: false
-    hashtags: "#roamtheworld, #amalficoastitaly, #americanstyle, #plantbasedpower"
-  - username: "sallyfazeli"
-    fullname: >-
-      Lifestyle & Wellness
-    location: "United Kingdom"
-    followers: 50399
-    engagement: 134
-    commentsToLikes: 0.094807
-    id: ck0w30oa5r1fg0i196vnn0sgv
-    verified: false
-    hashtags: "#mybootique, #popsayourlife, #thomassaboxsilvertree, #activia"
-  - username: "gabriellepollock"
-    fullname: >-
-      Gabrielle Savannah 🇿🇦
-    location: "United Kingdom"
-    followers: 23285
-    engagement: 210
-    commentsToLikes: 0.126385
-    id: ck8svvrbrcvlx0j78czrzoclq
-    verified: false
-    hashtags: "#stayhome, #thisnight, #engagementpartyoutfit, #kenton"
-  - username: "tiffany_soi"
-    fullname: >-
-      Tiffany Soi | Limitless Living
-    location: "United Kingdom"
-    followers: 29608
-    engagement: 387
-    commentsToLikes: 0.025866
-    id: ck8syqw5wlnvl0j78z0lmv4vq
-    verified: false
-    hashtags: "#nbc, #kindnessmatters, #youarelimitless, #yogaeverywhere"
+    hashtags: "#parisianstyle, #gomontenegro, #citizenfemme, #pooldays"
 ---

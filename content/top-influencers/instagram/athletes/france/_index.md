@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In France In 2020
 description: >-
-  Find top athletes Instagram influencers in France in 2020. Most popular hashtags: #fitfrenchies #ad #fitfrench #miniandme.
+  Find top athletes Instagram influencers in France in 2020. Most popular hashtags: #hiitworkout #model #goodvibes #ripped.
 platform: Instagram
 profiles:
+  - username: "jeremy_menez187"
+    fullname: >-
+      jeremy menez 7
+    location: "France"
+    followers: 380143
+    engagement: 321
+    commentsToLikes: 0.008024
+    id: ck13c2xbryd2m0i190xzqalyd
+    verified: true
+    hashtags: "#reel, #familia, #humbleavis, #partnership"
   - username: "mehran_beirami"
     fullname: >-
       MEHRAN BEIRAMI
     location: "France"
-    followers: 75492
-    engagement: 1422
-    commentsToLikes: 0.037571
+    followers: 79730
+    engagement: 1357
+    commentsToLikes: 0.037959
     id: ck5znbp9yo5lq0i14qdgfdyec
     verified: false
-    hashtags: "#sos, #amixsupplements, #trailrnners, #crossfiters"
-  - username: "beafitmom.nl"
+    hashtags: "#crossfit, #amixsupplements, #luxury, #promilk"
+  - username: "siimonte"
     fullname: >-
-      Claudia Kooij FitFashionBeauty
+      Simonte
     location: "France"
-    followers: 27433
-    engagement: 580
-    commentsToLikes: 0.192147
-    id: ck5zq3e9ftv1h0i14ygvclv1m
+    followers: 32656
+    engagement: 1091
+    commentsToLikes: 0.045972
+    id: ck5zpjc8osruq0i14s49d3ina
     verified: false
-    hashtags: "#fashionmom, #greeneyes, #coronav, #familytime"
-  - username: "dana_zaxo_"
+    hashtags: "#truestory, #coupleworkout, #smile, #nostress"
+  - username: "lya_powerlift"
     fullname: >-
-      Dana Savage Zaxo
+      𝗟𝘆𝗮 𝗕𝗮𝘃𝗼𝗶𝗹 לאה
     location: "France"
-    followers: 10648
-    engagement: 1286
-    commentsToLikes: 0.041646
-    id: ck6trfs2fyqh00j71w8grz7uy
+    followers: 27437
+    engagement: 1208
+    commentsToLikes: 0.040566
+    id: ck5zo4e4spqla0i14lse1n3p0
     verified: false
-    hashtags: "#ad"
+    hashtags: ""
   - username: "kalvinnsk"
     fullname: >-
       L'HOMME NSK - NSK.FIT - TEASCO
     location: "France"
-    followers: 10375
-    engagement: 1451
-    commentsToLikes: 0.321370
+    followers: 10286
+    engagement: 1491
+    commentsToLikes: 0.322166
     id: ck5c8njdj9uxb0i11c8rs20wa
     verified: false
-    hashtags: "#swoosh, #jeuconcours, #coronafitness, #streetchicfashion"
-  - username: "lya_bavoil"
+    hashtags: "#portraitphoto, #chestday, #vlog, #hardworkonly"
+  - username: "cheick.doucoure20"
     fullname: >-
-      Lya Bavoil
+      Cheick Doucouré
     location: "France"
-    followers: 20956
-    engagement: 1388
-    commentsToLikes: 0.030632
-    id: ck5zo4e4spqla0i14lse1n3p0
-    verified: false
-    hashtags: ""
-  - username: "viinze_17p"
-    fullname: >-
-      Vincent Poirier
-    location: "France"
-    followers: 42593
-    engagement: 1307
-    commentsToLikes: 0.017019
-    id: ck5zr57e1vxer0i14fiogqf0c
+    followers: 16081
+    engagement: 1009
+    commentsToLikes: 0.030736
+    id: ckap1poyxvl0e0i7895thbylc
     verified: true
-    hashtags: ""
+    hashtags: "#2024, #oncontinue"
   - username: "houssem_aouar"
     fullname: >-
       Houssem Aouar
     location: "France"
-    followers: 340556
-    engagement: 1199
-    commentsToLikes: 0.011544
+    followers: 347818
+    engagement: 1202
+    commentsToLikes: 0.013995
     id: ck0w2fc89o2mc0i19slx0s6re
     verified: true
-    hashtags: "#predator, #hometeam, #neverstop, #teamol"
-  - username: "florianpoirson"
-    fullname: >-
-      Florian Poirson IFBB PRO
-    location: "France"
-    followers: 63158
-    engagement: 1011
-    commentsToLikes: 0.014835
-    id: ck5btyjp9gu8q0i11ylpbi5gq
-    verified: false
-    hashtags: "#prodebut, #throwbackthursday, #procard, #tulum"
+    hashtags: "#hometeam, #ha8, #neverstop, #adidasgmr"
   - username: "virginie.mumfit"
     fullname: >-
       Virginie
     location: "France"
-    followers: 87592
-    engagement: 211
-    commentsToLikes: 0.057707
+    followers: 91619
+    engagement: 258
+    commentsToLikes: 0.068083
     id: ck8t6960tcq3s0j78vjnjqjis
     verified: false
-    hashtags: ""
-  - username: "balzersara"
+    hashtags: "#mode, #shapeyourbody, #goodmorning, #fitgirlcode"
+  - username: "grosgui_fit"
     fullname: >-
-      SARA BALZER
+      Guillaume 🇫🇷
     location: "France"
-    followers: 8763
-    engagement: 1265
-    commentsToLikes: 0.032592
-    id: ck8t3gqte38ex0j78gfqlotk5
+    followers: 160196
+    engagement: 253
+    commentsToLikes: 0.057023
+    id: ck5qb9rhqkizs0i11e7z1rsoc
     verified: false
-    hashtags: "#coupedumonde, #newroadsamegoals, #worldcup, #confinement"
+    hashtags: "#pizza, #food, #pushupchallenge, #pool"
+  - username: "valentin_otz"
+    fullname: >-
+      Valentin_Otz
+    location: "France"
+    followers: 21854
+    engagement: 1609
+    commentsToLikes: 0.022115
+    id: ck5qc300yom090i111xj7o5xi
+    verified: false
+    hashtags: ""
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Milan In 2020
 description: >-
-  Find top fashion Instagram influencers in Milan in 2020. Most popular hashtags: #fashion #milano #milan #model.
+  Find top fashion Instagram influencers in Milan in 2020. Most popular hashtags: #iorestoacasa #fashion #smile #fase2.
 platform: Instagram
 profiles:
-  - username: "willjchalker"
+  - username: "paul89ferrari"
     fullname: >-
-      Will Chalker
+      paul ferrari
     location: "Italy"
-    followers: 15970
-    engagement: 703
-    commentsToLikes: 0.027534
-    id: ck15tnetwiy500i19x0vxt6ad
+    followers: 21782
+    engagement: 805
+    commentsToLikes: 0.062136
+    id: ckaouqaft1chk0i78r2xgte9x
     verified: false
-    hashtags: "#ardeche, #wrappedup, #magazine, #thankyou"
-  - username: "valentinamadonia"
+    hashtags: "#carryon, #morning, #selfie, #greeneyes"
+  - username: "simone_tagliati_"
     fullname: >-
-      VALENTINA MADONIA
+      𝚂𝚒𝚖𝚘𝚗𝚎 𝚃𝚊𝚐𝚕𝚒𝚊𝚝𝚒
     location: "Italy"
-    followers: 77533
-    engagement: 140
-    commentsToLikes: 0.069195
-    id: ck5pyrcm5xf4v0i11ne7ppdbk
+    followers: 11430
+    engagement: 813
+    commentsToLikes: 0.033144
+    id: ck8t0us1ptea60j7869nfl5fz
     verified: false
-    hashtags: "#fashionblogger, #milan, #orecchini, #pittarosso"
-  - username: "valentina_seveso"
+    hashtags: "#luxury, #modelife, #bagfashion, #manclothes"
+  - username: "ginevraodescalchi"
     fullname: >-
-      𝒱𝒶𝓁𝑒𝓃𝓉𝒾𝓃𝒶 𝒮𝑒𝓋𝑒𝓈𝑜
+      Ginevra Odescalchi
     location: "Italy"
-    followers: 72979
-    engagement: 84
-    commentsToLikes: 0.206732
-    id: ck8t1rdm5wqfv0j78jygbctu1
+    followers: 21318
+    engagement: 156
+    commentsToLikes: 0.094643
+    id: ck0w0dztgdpr60i19xgvoc2ei
     verified: false
-    hashtags: "#marchesi1824, #chanelclassic, #ootdfashion, #travelgram"
-  - username: "eddyscudo"
+    hashtags: "#dress, #cleaning, #busybees, #freckes"
+  - username: "petraloreggian"
     fullname: >-
-      Eddy Scudo
+      P E T R A  L O R E G G I A N
     location: "Italy"
-    followers: 37792
-    engagement: 478
-    commentsToLikes: 0.005453
-    id: ck5q0hton62av0i11eh5jn4sd
+    followers: 45023
+    engagement: 142
+    commentsToLikes: 0.022377
+    id: ck0u21n3rylnh0i19ycgfiafd
     verified: false
-    hashtags: "#makeup, #collectibledry, #magazine, #editorial"
-  - username: "stefy__94"
+    hashtags: "#leo2anni, #fashion, #milanononsiferma, #sostienicasabimbi"
+  - username: "andrea_croin"
     fullname: >-
-      INSPO | FASHION | LIFESTYLE  ✨
+      #Andrea Croin 🇮🇹
     location: "Italy"
-    followers: 8061
-    engagement: 650
-    commentsToLikes: 0.065841
-    id: ck5q9af9ta55g0i11uyz9q65l
+    followers: 9731
+    engagement: 1266
+    commentsToLikes: 0.395473
+    id: ckaoysvdmixca0i78ade9bm85
     verified: false
-    hashtags: "#alberodinatale, #streetstyle, #sponsored, #prettyphotography"
+    hashtags: "#portrait, #modaitaliana, #modello, #quarantena"
   - username: "wemilano"
     fullname: >-
       WE MILANO
     location: "Italy"
-    followers: 32636
-    engagement: 350
-    commentsToLikes: 0.021485
+    followers: 32191
+    engagement: 351
+    commentsToLikes: 0.020979
     id: ck0tv9gu6afy80i19wm9k7ixo
     verified: false
-    hashtags: "#milanotoday, #brera, #quadrilaterodellamoda, #tram"
+    hashtags: "#portanuovamilano, #arcodellapace, #santambrogiomilano, #buongiornomilano"
   - username: "fely_felicia__"
     fullname: >-
       Fely Felicia
     location: "Italy"
-    followers: 8287
-    engagement: 1950
-    commentsToLikes: 0.039405
+    followers: 8007
+    engagement: 2028
+    commentsToLikes: 0.039700
     id: ck8t1jio6w0ht0j787a5hwo40
     verified: false
-    hashtags: "#girlpower, #motivation, #fashion, #instafashion"
-  - username: "kipenkocom"
+    hashtags: "#adventure, #outfit, #skioutfit, #selfie"
+  - username: "grimoldieu"
     fullname: >-
-      Alex Kipenko
+      Alessandro Grimoldieu
     location: "Italy"
-    followers: 6082
-    engagement: 1375
-    commentsToLikes: 0.007446
-    id: ck5qedg7xzy6c0i11jenm78dl
+    followers: 38965
+    engagement: 239
+    commentsToLikes: 0.131200
+    id: ckap13ptrszsv0i78bsmo2z4i
     verified: false
-    hashtags: "#2017, #modellife, #runway, #editorial"
-  - username: "janeta_ker"
+    hashtags: "#goligummy, #videogame, #vintagestyle, #atestoni"
+  - username: "petarmilano"
     fullname: >-
-      Janeta Ker
+      Petar Spasojevic
     location: "Italy"
-    followers: 142996
-    engagement: 729
-    commentsToLikes: 0.159584
-    id: ck13c8gcgz3nh0i19u53ejmnq
+    followers: 90453
+    engagement: 139
+    commentsToLikes: 0.030076
+    id: ckaozwkbrnq6z0i78744awio8
     verified: false
-    hashtags: "#happybirthday, #oneweek, #uncle, #lottery"
-  - username: "thaliabellazecca"
+    hashtags: "#moscow, #tb, #stayhome, #iorestoacasa"
+  - username: "noah.faun"
     fullname: >-
-      Thalìa Bellazecca
+      Simone Gammino
     location: "Italy"
-    followers: 9200
-    engagement: 1745
-    commentsToLikes: 0.040941
-    id: ck8t531iv8nrp0j78jmab8d7e
+    followers: 36880
+    engagement: 483
+    commentsToLikes: 0.013457
+    id: ck5zz53q9b3k10i14v8hzhm6q
     verified: false
-    hashtags: "#italianwomentribute, #repost, #powermetalband, #photographer"
+    hashtags: "#sculpture, #sacred, #beauty, #wellahair"
 ---

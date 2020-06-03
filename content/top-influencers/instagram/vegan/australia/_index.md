@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Australia In 2020
 description: >-
-  Find top vegan Instagram influencers in Australia in 2020. Most popular hashtags: #travel #australia #tiktokarab #covid19.
+  Find top vegan Instagram influencers in Australia in 2020. Most popular hashtags: # #earthday #vegan #animaliberation.
 platform: Instagram
 profiles:
+  - username: "charlottecoquelin"
+    fullname: >-
+      CHARLOTTE COQUELIN 🦇🇫🇷
+    location: "Australia"
+    followers: 26481
+    engagement: 347
+    commentsToLikes: 0.078140
+    id: ck5zr4lnlvw490i14c1p80i3w
+    verified: false
+    hashtags: "#createdwithadidas, #elleseecurators, #asmc"
+  - username: "chillwithliv"
+    fullname: >-
+      Liv 👄💅🏼💄👙🎀💋💕
+    location: "Australia"
+    followers: 12024
+    engagement: 1122
+    commentsToLikes: 0.045783
+    id: ckap3p6lb3ya20i78ig12fe93
+    verified: false
+    hashtags: ""
+  - username: "alexander__glover"
+    fullname: >-
+      Vegan 🐐
+    location: "Australia"
+    followers: 74756
+    engagement: 458
+    commentsToLikes: 0.031982
+    id: ck6u6l1ehg7nx0j71psjg3plm
+    verified: false
+    hashtags: "#isolation, #breakthestigma, #frontlineheroes, #happy"
   - username: "jadee__marie"
     fullname: >-
-      🦋Jade-Marie🦋
+      🦋𝓙𝓪𝓭𝓮-𝓜𝓪𝓻𝓲𝓮🦋
     location: "Australia"
-    followers: 442532
-    engagement: 249
-    commentsToLikes: 0.032490
+    followers: 460524
+    engagement: 199
+    commentsToLikes: 0.037952
     id: ck15uh4o9n5qy0i193kgfmn8j
     verified: false
-    hashtags: "#socialdistancing, #recycle"
+    hashtags: ""
+  - username: "geo.rgiasmith"
+    fullname: >-
+      GEORGIA
+    location: "Australia"
+    followers: 11858
+    engagement: 1227
+    commentsToLikes: 0.035022
+    id: ck8wg0mzugk0i0j78vwp7jl1b
+    verified: false
+    hashtags: "#georgiemane"
+  - username: "veganhollyg"
+    fullname: >-
+      Holly Gabrielle
+    location: "Australia"
+    followers: 74744
+    engagement: 989
+    commentsToLikes: 0.009288
+    id: ckap06guroy3f0i78n0mvda77
+    verified: false
+    hashtags: "#lockdowndiaries, #earthday"
   - username: "amyaela"
     fullname: >-
       Amy | Australia-India
     location: "Australia"
-    followers: 296684
-    engagement: 440
-    commentsToLikes: 0.018693
+    followers: 301360
+    engagement: 333
+    commentsToLikes: 0.020172
     id: ck600bsdwday30i143e2jxb98
     verified: false
-    hashtags: "#indiandance, #bollywood, #fitness, #athomefitness"
-  - username: "tessemilytattoos"
-    fullname: >-
-      ☼ Perth WA
-    location: "Australia"
-    followers: 10362
-    engagement: 791
-    commentsToLikes: 0.049218
-    id: ck8t12d59u7ne0j780iea9jiv
-    verified: false
-    hashtags: "#kidscolouringpages, #isolation, #woody, #aladdin"
-  - username: "jessicagracewhalen"
-    fullname: >-
-      Jessica’s Travel Diaries 🌸📸✨
-    location: "Australia"
-    followers: 18994
-    engagement: 543
-    commentsToLikes: 0.026179
-    id: ck0ucnqnmh8h90i1968t7oiwf
-    verified: false
-    hashtags: "#dreamjob, #formaldress, #fyp, #quarantine"
-  - username: "ameliamarni"
-    fullname: >-
-      AMELIA
-    location: "Australia"
-    followers: 219115
-    engagement: 767
-    commentsToLikes: 0.005715
-    id: ck5hhvdr7a9pg0i118e2bio6h
-    verified: true
-    hashtags: "#iamtryingbiach, #bettersafethansorry, #2weeksisolation, #stayhome"
+    hashtags: "#radha, #maybeshesjustbrown, #buttabomma, #comingsoon"
   - username: "laurenmcgeachin"
     fullname: >-
       LAUREN MCGEACHIN
     location: "Australia"
-    followers: 68582
-    engagement: 193
-    commentsToLikes: 0.036429
+    followers: 70181
+    engagement: 251
+    commentsToLikes: 0.040683
     id: ck6uhnwpra7nx0j718hbxy5v7
     verified: false
-    hashtags: "#puriwulandariubud, #puriwulandariresort, #coronavirus, #thaikila"
-  - username: "edyndenise"
+    hashtags: "#thaikila, #thaikiladarlings, #puriwulandariubud, #puriwulandariresort"
+  - username: "kai.register"
     fullname: >-
-      EDYN // MAC  ⚡️🦋
+      𝐤𝐚𝐢ッ
     location: "Australia"
-    followers: 135864
-    engagement: 276
-    commentsToLikes: 0.016043
-    id: ck14k132rn6va0i19kjezh39s
-    verified: true
-    hashtags: "#puriwulandariubud, #puriwulandariresort, #luxurytravel, #puriwulandariresortandspa"
-  - username: "itsstephrice"
-    fullname: >-
-      STEPHANIE RICE
-    location: "Australia"
-    followers: 118592
-    engagement: 195
-    commentsToLikes: 0.022924
-    id: ck14gs7qp6rh60i199gf7jnch
-    verified: true
-    hashtags: "#india, #himalayas, #travel, #internationalwomensday"
-  - username: "jessicahazemua"
-    fullname: >-
-      J E S S I C A  H A Z E
-    location: "Australia"
-    followers: 130281
-    engagement: 246
-    commentsToLikes: 0.028848
-    id: ck55ixs32vqeb0i11hrxp9sbd
+    followers: 8621
+    engagement: 1194
+    commentsToLikes: 0.029254
+    id: ckap0hl6wqbj60i786ff41dhj
     verified: false
-    hashtags: "#marcjacobs, #noctexclothing, #veganstyle, #indiebrands"
-  - username: "charmcshane"
+    hashtags: "#earthday, #photodump, #rockstarenergy, #rockstarpartners"
+  - username: "dewii.veg"
     fullname: >-
-      Charlotte McShane
+      Dewii
     location: "Australia"
-    followers: 21828
-    engagement: 394
-    commentsToLikes: 0.016365
-    id: ck6uf3m03uoq80j71ct8fpfrx
-    verified: true
-    hashtags: "#vicfires, #flattenthecurve, #eastgippsland, #eastgippslandfires"
+    followers: 82716
+    engagement: 978
+    commentsToLikes: 0.007441
+    id: ck5zpn72zsywl0i148khl2952
+    verified: false
+    hashtags: "#vanocebeznasili, #hlavnebezvycitek, #britney, #foodie"
 ---

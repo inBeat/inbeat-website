@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Turkey In 2020
 description: >-
-  Find top mothers Instagram influencers in Turkey in 2020. Most popular hashtags: #evdekal #tbt #annek #mutluyum.
+  Find top mothers Instagram influencers in Turkey in 2020. Most popular hashtags: #23nisan #giveaway #quarantinelife #annelerg.
 platform: Instagram
 profiles:
-  - username: "dorakayode"
+  - username: "niyans"
     fullname: >-
-      Mrs Dora Olanrewaju kayode
+      Nihan Guzel
     location: "Turkey"
-    followers: 78145
-    engagement: 216
-    commentsToLikes: 0.088589
-    id: ck5hdfvnln83f0i11elihnw92
+    followers: 70009
+    engagement: 791
+    commentsToLikes: 0.432173
+    id: ck5chrvdvrcfm0i11hndm4did
     verified: false
-    hashtags: ""
-  - username: "damladuvenakbas"
+    hashtags: "#throwback, #braunbeauty, #homeworkout, #oithebloging"
+  - username: "noyemipia"
     fullname: >-
-      Damla Düven Akbaş🐘
+      Noyemi Pia & Alexandra
     location: "Turkey"
-    followers: 38759
-    engagement: 195
-    commentsToLikes: 0.059257
-    id: ck8tbscqywxrb0j78im4ahatr
+    followers: 31883
+    engagement: 1028
+    commentsToLikes: 0.046751
+    id: ck5c4pcqb1ta40i11d7v9fyfc
     verified: false
-    hashtags: "#babygirl, #cumalss, #instagram, #momlife"
-  - username: "kahraman_omur"
+    hashtags: "#fashionable, #charabiaparis, #voguenin, #itsinmyjeans"
+  - username: "annetavsan"
     fullname: >-
-      Ömür Kahraman
+      Elif
     location: "Turkey"
-    followers: 2706
-    engagement: 1171
-    commentsToLikes: 0.200222
-    id: ck5zxogqz8dh70i142p1wqm8i
+    followers: 32820
+    engagement: 455
+    commentsToLikes: 0.417140
+    id: ck6ue7b54p8iq0j71svu874hu
     verified: false
-    hashtags: "#airportlook, #instapugliaphoto, #stand, #festadelladonna"
-  - username: "byburcinkaya"
-    fullname: >-
-      Burçin Kaya | influencer
-    location: "Turkey"
-    followers: 283781
-    engagement: 167
-    commentsToLikes: 0.192182
-    id: ck5c2nm4qxlye0i11eafvrorq
-    verified: false
-    hashtags: "#sundayfunday, #moda, #spa, #doityourself"
+    hashtags: "#annecocuk, #iyibayramlar, #annelergu, #kitapcekilisi"
   - username: "ezgisadeghi"
     fullname: >-
       Ezgi Turna Sadeghi
     location: "Turkey"
-    followers: 11470
-    engagement: 458
-    commentsToLikes: 0.113171
+    followers: 12579
+    engagement: 817
+    commentsToLikes: 0.289011
     id: ck0u7i9nj4t2g0i19vh4d33vt
     verified: false
-    hashtags: "#primer, #makeuplife, #makeupideas, #workingfromhome"
-  - username: "ozlemervekt"
+    hashtags: "#workingfromhome, #browgame, #boldbrows, #eyebrigth"
+  - username: "asliiarigun"
     fullname: >-
-      Özlem Merve Karaaslan Telli
+      Su Ve Aslı 🎀 / Bloggermom
     location: "Turkey"
-    followers: 11221
-    engagement: 1169
-    commentsToLikes: 0.047231
-    id: ck136sklh824g0i191el3jt3k
+    followers: 58427
+    engagement: 244
+    commentsToLikes: 0.090149
+    id: ck9wopx0b63xi0j78jc6rr2gs
     verified: false
-    hashtags: "#turkey, #justf, #sleepingbeauty, #wednesdaymood"
+    hashtags: "#cocuk, #turkey, #tiktokturkiye, #bebek"
+  - username: "dorakayode"
+    fullname: >-
+      Mrs Dora Olanrewaju kayode
+    location: "Turkey"
+    followers: 79835
+    engagement: 222
+    commentsToLikes: 0.085011
+    id: ck5hdfvnln83f0i11elihnw92
+    verified: false
+    hashtags: ""
   - username: "elif.usca"
     fullname: >-
       Elif USCA
     location: "Turkey"
-    followers: 45394
-    engagement: 203
-    commentsToLikes: 0.042455
+    followers: 44837
+    engagement: 177
+    commentsToLikes: 0.053593
     id: ck14j0vy3i2hd0i19pcmzf926
     verified: false
-    hashtags: "#erdemli, #toddlerlife, #lezzet, #sevgi"
-  - username: "melekkhayta"
+    hashtags: "#dans, #istanbulturkey, #aile, #saltbae"
+  - username: "byburcinkaya"
     fullname: >-
-      Melek Karaca Hayta
+      Burçin Kaya | influencer
     location: "Turkey"
-    followers: 411452
-    engagement: 363
-    commentsToLikes: 0.364653
-    id: ck5c9utqqc63m0i11dln9l3p7
+    followers: 295206
+    engagement: 129
+    commentsToLikes: 0.212576
+    id: ck5c2nm4qxlye0i11eafvrorq
     verified: false
-    hashtags: "#ezberbozanbal, #evdekalturkiye, #solakayd, #iyigeceler"
-  - username: "arzuyanardag"
+    hashtags: "#tepesavunma, #lolsurprise, #anneso, #cats"
+  - username: "salihtopcuoglu"
     fullname: >-
-      Arzu Yanardağ
+      Salih Topçuoğlu
     location: "Turkey"
-    followers: 46596
-    engagement: 219
-    commentsToLikes: 0.022287
-    id: ck5q7s0z82utv0i11vsrraqko
+    followers: 33146
+    engagement: 1679
+    commentsToLikes: 0.009465
+    id: ck5pyqhnixas70i11jh0cczqs
     verified: false
-    hashtags: "#houstonportraits, #cute, #instagrammers, #fashion"
-  - username: "istialqadri"
+    hashtags: "#moveoutsidetheexpected, #edisgorgulu, #catsofistanbul, #riskmagazine"
+  - username: "kahraman_omur"
     fullname: >-
-      𝙞𝙨𝙩𝙞 𝙫𝙚 𝙢𝙪𝙨𝙖𝙗
+      Ömür Kahraman
     location: "Turkey"
-    followers: 524909
-    engagement: 684
-    commentsToLikes: 0.204409
-    id: ck14gjm6y5jyj0i190ok94xnp
+    followers: 2867
+    engagement: 986
+    commentsToLikes: 0.162231
+    id: ck5zxogqz8dh70i142p1wqm8i
     verified: false
-    hashtags: "#dirumahaja"
+    hashtags: "#boeing777, #tbmm, #italya, #bo"
 ---

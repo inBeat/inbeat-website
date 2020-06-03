@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top rappers Instagram influencers in United Kingdom in 2020. Most popular hashtags: #explore #music #2020 #kh.
+  Find top rappers Instagram influencers in United Kingdom in 2020. Most popular hashtags: #ad #lockdown #coronavirus #amsterdam.
 platform: Instagram
 profiles:
   - username: "kieranharrisonofficial"
     fullname: >-
       Kieran Harrison
     location: "United Kingdom"
-    followers: 27552
+    followers: 26533
     engagement: 468
-    commentsToLikes: 0.092499
+    commentsToLikes: 0.084211
     id: ck5q9bmo4aao80i11ub55ec3p
     verified: false
-    hashtags: "#trackrecord, #yellow, #merrychristmas, #amsterdam"
-  - username: "fos_uk"
-    fullname: >-
-      F.O.S
-    location: "United Kingdom"
-    followers: 31431
-    engagement: 354
-    commentsToLikes: 0.097193
-    id: ck6tmyap88rhz0j71y98g15yq
-    verified: false
-    hashtags: "#fosseason, #decoy, #runtheseroads, #hmm"
-  - username: "ariellesworld_"
-    fullname: >-
-      ARIELLE’S WORLD
-    location: "United Kingdom"
-    followers: 5385
-    engagement: 608
-    commentsToLikes: 0.112446
-    id: ck5heh9oeswbr0i11yny5dx75
-    verified: false
-    hashtags: "#ukmusic, #show, #justmercy, #2020experience"
-  - username: "sophaspinmusic"
-    fullname: >-
-      Sophie Aspin
-    location: "United Kingdom"
-    followers: 65791
-    engagement: 682
-    commentsToLikes: 0.008158
-    id: ck0u0v8uiuwyb0i19djvgggn9
-    verified: false
-    hashtags: "#rebellious, #ironmaiden, #bekind, #dreambig"
+    hashtags: "#trackmusic, #trackrecord, #uv, #ironik"
   - username: "official.saidu1"
     fullname: >-
       Saidu
     location: "United Kingdom"
-    followers: 4209
-    engagement: 2945
-    commentsToLikes: 0.133970
+    followers: 4050
+    engagement: 2873
+    commentsToLikes: 0.137745
     id: ck15sioxed7cb0i19rm4zd5dn
     verified: false
-    hashtags: "#pvo, #explore, #typeofwaychallenge, #billyvision"
+    hashtags: "#noguidance, #oldschoolrnbvibes, #valentines, #partypopper"
   - username: "itsmenace"
     fullname: >-
       Menace (Brotherhood)
     location: "United Kingdom"
-    followers: 8664
-    engagement: 1121
-    commentsToLikes: 0.181456
+    followers: 8932
+    engagement: 1158
+    commentsToLikes: 0.198899
     id: ck5zy5m1l99tc0i14zo50cdrg
     verified: false
-    hashtags: "#captionthis, #questioneverything, #grime4corbyn, #covid19"
-  - username: "raymiliraymili"
+    hashtags: "#questioneverything, #coronavirus, #covid19, #defeattheevilinstagramalgorythms"
+  - username: "officialyizzy"
     fullname: >-
-      RAYMILI
+      Yizzy Prince Of Grime
     location: "United Kingdom"
-    followers: 4447
-    engagement: 890
-    commentsToLikes: 0.063766
-    id: ck5hcocbnj4kz0i114tuvpopb
-    verified: false
-    hashtags: "#raymili, #fitness, #fitnessmodel, #rockstarshit"
-  - username: "mshustle127"
+    followers: 39590
+    engagement: 782
+    commentsToLikes: 0.097785
+    id: ck6trj3bmz9yg0j71oi0cqlte
+    verified: true
+    hashtags: "#worldrecord, #thechequeup, #thewarisntover, #stayhomeanddraw"
+  - username: "therealrimzee"
     fullname: >-
-      HARLEMS QUEEN👸🏾GT GYAL🇬🇾
+      Rimzee
     location: "United Kingdom"
-    followers: 91930
-    engagement: 233
-    commentsToLikes: 0.081919
-    id: ck0w31vw0r7o10i19u5j9ofc6
+    followers: 46501
+    engagement: 1306
+    commentsToLikes: 0.043366
+    id: ck0u04by3siko0i199e0u61ug
     verified: false
-    hashtags: "#postanddelete, #blackops, #layooooooo, #whatyalifelikechallenge"
+    hashtags: "#grindingishardstuntingiseasy, #independant, #rimzee, #makeclaptongreatagain"
+  - username: "zubymusic"
+    fullname: >-
+      ZUBY:
+    location: "United Kingdom"
+    followers: 45697
+    engagement: 307
+    commentsToLikes: 0.048090
+    id: ckaosy4i0tjcr0i78kc4w0t30
+    verified: true
+    hashtags: "#okdude, #realtalk, #fitness, #ad"
   - username: "wallianape"
     fullname: >-
       Truthos Mufasa
     location: "United Kingdom"
-    followers: 5790
-    engagement: 776
-    commentsToLikes: 0.070728
+    followers: 6039
+    engagement: 770
+    commentsToLikes: 0.069990
     id: ck5hjg1tegk9g0i11elzdl1j0
     verified: false
-    hashtags: "#30, #mossside, #amsterdam, #pooronpurpose"
-  - username: "ahmedoo_biggie"
+    hashtags: "#jesuschrist, #rap, #30, #young"
+  - username: "officialpaulchuckle"
     fullname: >-
-      Ahmed Hassan Ali
+      Paul Chuckle
     location: "United Kingdom"
-    followers: 22911
-    engagement: 1074
-    commentsToLikes: 0.033507
-    id: ck5hchel3i30b0i11fvcnzlqj
+    followers: 42373
+    engagement: 259
+    commentsToLikes: 0.042911
+    id: ck137h63ubipf0i19mluouxpo
     verified: false
-    hashtags: "#nitejogger, #adidas, #yeezy350, #dubai"
+    hashtags: "#toolong, #missedaweek, #quiz, #lestweforget"
+  - username: "bradleyhuntuk"
+    fullname: >-
+      BRADLEY HUNT
+    location: "United Kingdom"
+    followers: 19038
+    engagement: 174
+    commentsToLikes: 0.088243
+    id: ck8wfe8tnflld0j780biyb1hf
+    verified: false
+    hashtags: "#gymthrowback, #6ix9ine, #6ix, #tekashi69"
+  - username: "loso.official"
+    fullname: >-
+      Loso
+    location: "United Kingdom"
+    followers: 24442
+    engagement: 321
+    commentsToLikes: 0.061435
+    id: ck6uhmmrea01y0j71ym2md082
+    verified: false
+    hashtags: "#losovstwork, #splash"
 ---

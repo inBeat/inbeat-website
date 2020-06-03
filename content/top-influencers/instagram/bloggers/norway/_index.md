@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Norway In 2020
 description: >-
-  Find top bloggers Instagram influencers in Norway in 2020. Most popular hashtags: #cute #coleccionandomomentos #mommylife #3rdtrimester.
+  Find top bloggers Instagram influencers in Norway in 2020. Most popular hashtags: #norway #bloggerstyle #teamborg #breakfast.
 platform: Instagram
 profiles:
+  - username: "anjacatrine"
+    fullname: >-
+      anja catrine 🐉🦋
+    location: "Norway"
+    followers: 3343
+    engagement: 1518
+    commentsToLikes: 0.072824
+    id: ck6u5drqa91l50j71uecex4mo
+    verified: false
+    hashtags: "#teamborg, #bjornborg, #hunbitchenergal"
   - username: "pilotfrue"
     fullname: >-
-      J u l i a n n e  N y g å r d
+      J u l i a n n e  N y g å r d
     location: "Norway"
-    followers: 53496
-    engagement: 342
-    commentsToLikes: 0.010954
+    followers: 52669
+    engagement: 326
+    commentsToLikes: 0.012109
     id: ck55lug2d2gjm0i11n2bxargp
     verified: false
-    hashtags: "#morsdag, #blomsterbryllupsdag, #julianneogulrik, #snillenaboer"
-  - username: "angelikasverdrup"
-    fullname: >-
-      Angelika S. 🇳🇴
-    location: "Norway"
-    followers: 6553
-    engagement: 496
-    commentsToLikes: 0.038192
-    id: ck13atkhxs47b0i19g2j21f6t
-    verified: false
-    hashtags: "#frozenlakemarathon, #god, #ecotrail, #aksla"
-  - username: "martheborge"
-    fullname: >-
-      Marthe Borge
-    location: "Norway"
-    followers: 22737
-    engagement: 271
-    commentsToLikes: 0.009552
-    id: ck0u70fnv3jhh0i19w8ebrqct
-    verified: false
-    hashtags: "#iconiclink, #glassk, #telenoryng, #telenornorge"
-  - username: "daniiblogg"
-    fullname: >-
-      Daniela Izaguirre
-    location: "Norway"
-    followers: 7936
-    engagement: 740
-    commentsToLikes: 0.307103
-    id: ck5hgdcar26tt0i11e0mrrxfl
-    verified: false
-    hashtags: "#sisterlove, #9monthspregnant, #noruega, #tiktok"
-  - username: "widvey"
-    fullname: >-
-      Anne Marthe Widvey
-    location: "Norway"
-    followers: 27864
-    engagement: 137
-    commentsToLikes: 0.085054
-    id: ck0tth5b52p0h0i19ozh41xm2
-    verified: false
-    hashtags: "#telenornorge, #telenoryng, #widveysstrikk, #veganskopskrift"
-  - username: "vibekedesign"
-    fullname: >-
-      Vibeke Svenningsen
-    location: "Norway"
-    followers: 129231
-    engagement: 175
-    commentsToLikes: 0.023416
-    id: ck8sy1b9bjdzu0j78vnp8xi7p
-    verified: false
-    hashtags: "#hagelivoguterom, #springfeeling, #eastertable, #landleben"
+    hashtags: "#ellosactionlist, #morsdag, #blomsterbryllupsdag, #julianneogulrik"
   - username: "kristingjelsvik"
     fullname: >-
       Kristin Gjelsvik
     location: "Norway"
-    followers: 200349
-    engagement: 356
-    commentsToLikes: 0.009172
+    followers: 199794
+    engagement: 345
+    commentsToLikes: 0.077636
     id: ck5cctkmphzn90i11n4mcrpra
     verified: true
-    hashtags: "#dowhatyoucant, #morsdag, #govegandeig, #greenfluencer"
-  - username: "marenerdvik"
-    fullname: >-
-      marenerdvik
-    location: "Norway"
-    followers: 42335
-    engagement: 126
-    commentsToLikes: 0.019815
-    id: ck13a6cuaou3p0i19fe82yk4z
-    verified: false
-    hashtags: "#dumbellworkout, #sterkeresammen, #springfeels, #takknemlig"
+    hashtags: "#krynorge, #teamgalaxy, #withgalaxy, #kondomeriet"
   - username: "akam1k3"
     fullname: >-
       m1k3chemical romance🎈
     location: "Norway"
-    followers: 46202
-    engagement: 415
-    commentsToLikes: 0.010936
+    followers: 46249
+    engagement: 402
+    commentsToLikes: 0.008898
     id: ck55lxcjk2nyr0i11877q6218
     verified: false
-    hashtags: "#mikeithappen, #whatmikesayear, #pepsicanbalance, #oslove"
-  - username: "the_optimisticgirl"
+    hashtags: "#adidasrunning, #airwavesmov, #whatmikesayear, #mikeithappen"
+  - username: "angelikasverdrup"
     fullname: >-
-      Amara Jakobsen.
+      Angelika S. 🇳🇴
     location: "Norway"
-    followers: 16636
-    engagement: 321
-    commentsToLikes: 0.124847
-    id: ck6u4yexg6igx0j714n8zdm31
+    followers: 6656
+    engagement: 503
+    commentsToLikes: 0.042985
+    id: ck13atkhxs47b0i19g2j21f6t
     verified: false
-    hashtags: "#melaninbeauty, #mybeigelife, #bloggerin, #pregnancydiary"
+    hashtags: "#molnesfjellet, #gamlemsveten, #medalmonday, #coronavirus"
+  - username: "daniiblogg"
+    fullname: >-
+      Daniela Izaguirre
+    location: "Norway"
+    followers: 8166
+    engagement: 597
+    commentsToLikes: 0.106255
+    id: ck5hgdcar26tt0i11e0mrrxfl
+    verified: false
+    hashtags: "#papaluchon, #mamajovenfeliz, #outfits, #conejodepascua"
+  - username: "vibekedesign"
+    fullname: >-
+      Vibeke Svenningsen
+    location: "Norway"
+    followers: 132869
+    engagement: 189
+    commentsToLikes: 0.022721
+    id: ck8sy1b9bjdzu0j78vnp8xi7p
+    verified: false
+    hashtags: ""
+  - username: "kamilla_thorsen"
+    fullname: >-
+      • KAMMY •
+    location: "Norway"
+    followers: 13015
+    engagement: 935
+    commentsToLikes: 0.122316
+    id: ckaosvp25t81a0i786mqcaghb
+    verified: false
+    hashtags: "#norway, #fashiongrammer, #ootd, #springlooks"
+  - username: "heidiandjorn"
+    fullname: >-
+      HEIDI ♡ JORN
+    location: "Norway"
+    followers: 6085
+    engagement: 870
+    commentsToLikes: 0.066678
+    id: ck0u7h8044o5j0i19u5qijq83
+    verified: false
+    hashtags: "#big30, #udhiana, #shanghai, #finseanorakk"
+  - username: "iamkaluma"
+    fullname: >-
+      Kaluma Vanessa
+    location: "Norway"
+    followers: 2729
+    engagement: 1057
+    commentsToLikes: 0.065694
+    id: ckaotr3zcx4el0i78lmkphgtw
+    verified: false
+    hashtags: "#longhair, #summer, #travel, #winter"
 ---

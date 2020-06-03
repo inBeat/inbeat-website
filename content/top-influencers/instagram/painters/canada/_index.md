@@ -1,26 +1,46 @@
 ---
 title: Top 10 Painters Instagram Influencers In Canada In 2020
 description: >-
-  Find top painters Instagram influencers in Canada in 2020. Most popular hashtags: #artforsale #art #paletteknifepainting #paletteknife.
+  Find top painters Instagram influencers in Canada in 2020. Most popular hashtags: #mothersday #blackandwhite #travel #mtlblog.
 platform: Instagram
 profiles:
+  - username: "kimbruneau"
+    fullname: >-
+      Kim Bruneau
+    location: "Canada"
+    followers: 28147
+    engagement: 533
+    commentsToLikes: 0.157848
+    id: ck5q9dgn5ajxg0i11lzk1uhbl
+    verified: false
+    hashtags: "#fundraising, #meeteleanor, #dadjokes, #danceoff"
   - username: "late.july"
     fullname: >-
       Late July
     location: "Canada"
-    followers: 159230
-    engagement: 201
-    commentsToLikes: 0.027066
+    followers: 164616
+    engagement: 220
+    commentsToLikes: 0.036685
     id: ck5pvbujdh4fd0i1155fehp3w
     verified: true
-    hashtags: "#australiancattledog, #redhairdontcare, #ginger, #painter"
+    hashtags: "#tired, #songwriter, #cattledog, #indiemusic"
+  - username: "emmalindsayyy"
+    fullname: >-
+      Emma Lindsay
+    location: "Canada"
+    followers: 12694
+    engagement: 717
+    commentsToLikes: 0.018348
+    id: ck9wdoqwtgke20j78r8nc642b
+    verified: false
+    hashtags: "#archdesign, #engagement, #vintagelover, #pantone"
   - username: "brianne_williams_artist"
     fullname: >-
       Brianne Williams
     location: "Canada"
-    followers: 25523
-    engagement: 1385
-    commentsToLikes: 0.049210
+    followers: 29106
+    engagement: 1199
+    commentsToLikes: 0.050097
     id: ck14gtpda6z7g0i19v1zkuyaj
     verified: false
     hashtags: ""
@@ -28,80 +48,60 @@ profiles:
     fullname: >-
       Erin Rothstein | Artist
     location: "Canada"
-    followers: 17093
-    engagement: 435
-    commentsToLikes: 0.162428
+    followers: 20889
+    engagement: 416
+    commentsToLikes: 0.143720
     id: ck0udrrkgjutq0i19vijyxcpv
     verified: false
-    hashtags: "#designinspo, #winning, #canadianart, #minimalism"
+    hashtags: "#coffeelove, #fashioninspo, #archdigest, #desifnlife"
+  - username: "charlieeaston"
+    fullname: >-
+      Charlie Easton: Artist
+    location: "Canada"
+    followers: 7839
+    engagement: 1046
+    commentsToLikes: 0.059135
+    id: ck8t7hwqagv730j78redvkpt5
+    verified: false
+    hashtags: "#artiststogether, #offgridlife, #pace20, #paintingworkshop"
   - username: "katharine_burns_art"
     fullname: >-
       Katharine Burns
     location: "Canada"
-    followers: 34189
-    engagement: 600
-    commentsToLikes: 0.034607
+    followers: 35396
+    engagement: 619
+    commentsToLikes: 0.034715
     id: ck0ty8ysvlyw30i19hqihdjha
     verified: false
-    hashtags: "#ontheeasel, #paint, #waveart, #art"
+    hashtags: "#gallery, #artiststudio, #seascapepainting, #sea"
   - username: "reganjohnston_"
     fullname: >-
       Regan Johnston
     location: "Canada"
-    followers: 14397
-    engagement: 754
-    commentsToLikes: 0.052067
+    followers: 14701
+    engagement: 603
+    commentsToLikes: 0.078957
     id: ck0tw30w2dt060i19hmr8hp77
     verified: false
-    hashtags: ""
-  - username: "expressionbynada"
-    fullname: >-
-      Nada Khatib
-    location: "Canada"
-    followers: 87444
-    engagement: 544
-    commentsToLikes: 0.021396
-    id: ck0ud0s9vi2g40i1928k40qx8
-    verified: false
-    hashtags: "#satisfying, #stickerlife, #impasto, #abstractlandscape"
-  - username: "lucas.kratochwil"
-    fullname: >-
-      Lucas Kratochwil
-    location: "Canada"
-    followers: 6668
-    engagement: 822
-    commentsToLikes: 0.099355
-    id: ck6uhxd5ubsh00j71m0gk1bpe
-    verified: false
-    hashtags: "#assiniboine, #spearheadhutsproject, #arcteryx, #landscaperealism"
-  - username: "verakiss_art"
-    fullname: >-
-      Vera Kisseleva
-    location: "Canada"
-    followers: 8389
-    engagement: 687
-    commentsToLikes: 0.044838
-    id: ck0w78mr9cb9d0i19jt7xjmrq
-    verified: false
-    hashtags: "#acrylicpainting, #selfisolation, #quickpainting, #brushstrokes"
+    hashtags: "#reganxchrista"
   - username: "sarahskrlj"
     fullname: >-
       S A R A H   S K R L J
     location: "Canada"
-    followers: 5631
-    engagement: 547
-    commentsToLikes: 0.055018
+    followers: 5608
+    engagement: 604
+    commentsToLikes: 0.105892
     id: ck5hm16bul7h30i11cx19dwn3
     verified: false
-    hashtags: "#wethenorth, #lovewallto, #illustration, #partner"
-  - username: "janewaterous"
+    hashtags: "#letsrocktour, #pattern, #weareallstars, #purolatorshopnship"
+  - username: "lucas.kratochwil"
     fullname: >-
-      Jane Waterous
+      Lucas Kratochwil
     location: "Canada"
-    followers: 4161
-    engagement: 1317
-    commentsToLikes: 0.054483
-    id: ck6ug7sal1exe0j71lbnusgsg
+    followers: 8717
+    engagement: 690
+    commentsToLikes: 0.080316
+    id: ck6uhxd5ubsh00j71m0gk1bpe
     verified: false
-    hashtags: "#ski, #snowflakes, #janewaterous, #winter"
+    hashtags: "#spiritoftherockies, #nurtureyourcreativity, #protecttheearth, #brushaction"
 ---

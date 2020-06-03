@@ -1,109 +1,109 @@
 ---
 title: Top 10 Instagram Influencers In Germany In 2020
 description: >-
-  Find top Instagram influencers in Germany in 2020. Most popular hashtags: #foryou #foryoupage #love #apple.
+  Find top Instagram influencers in Germany in 2020. Most popular hashtags: #stayathome #sunset #mood #stayhome.
 platform: Instagram
 profiles:
   - username: "lissiloveslife"
     fullname: >-
-      INSPO •  FASHION • LIFESTYLE
+      𝗜𝗡𝗦𝗣𝗢 • 𝗙𝗔𝗦𝗛𝗜𝗢𝗡 • 𝗟𝗜𝗙𝗘𝗦𝗧𝗬𝗟𝗘
     location: "Germany"
-    followers: 6520
-    engagement: 1300
-    commentsToLikes: 0.209081
+    followers: 6128
+    engagement: 1619
+    commentsToLikes: 0.244601
     id: ck15tf4eshrue0i191ml886ab
     verified: false
-    hashtags: "#springlook2020, #sunsetlover, #anajohnson, #yvonnedilauro"
-  - username: "luavove"
+    hashtags: "#beautybloggers, #hhblogger, #interiordesign, #fitfamgermany"
+  - username: "dad.sheeran"
     fullname: >-
-      Luana
+      René 🏃‍♂️🏋️‍♂️👣👁🧠
     location: "Germany"
-    followers: 406283
-    engagement: 2434
-    commentsToLikes: 0.108260
-    id: ck5hklnw3ind60i11ff0ihc2m
+    followers: 2275
+    engagement: 4797
+    commentsToLikes: 0.184506
+    id: ckapbh0cyztno0i78e4y94y3i
     verified: false
-    hashtags: "#verlosung, #giweaway, #iphone, #newiphone"
-  - username: "lusandraa"
+    hashtags: "#herbstliebe, #parisbynight, #street, #visualgrams"
+  - username: "sndxcz"
     fullname: >-
-      Queen Of Food
+      ＳＡＮＤＹ 🖤
     location: "Germany"
-    followers: 156506
-    engagement: 1401
-    commentsToLikes: 0.074445
-    id: ck8wf8903fatl0j78xr7scu5j
+    followers: 2393
+    engagement: 4688
+    commentsToLikes: 0.370441
+    id: ckap494t56ax00i781qe7kvu3
     verified: false
-    hashtags: "#giveaway, #gewinnspiel, #iphonegewinnspiel, #iphonegiveaway"
-  - username: "_fmdaniel"
+    hashtags: ""
+  - username: "saengerin_melina"
     fullname: >-
-      Entertainer
+      𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄 ▪️𝐌𝐔𝐒𝐈𝐂 ▪️𝐈𝐍𝐒𝐏𝐎
     location: "Germany"
-    followers: 136477
-    engagement: 1538
-    commentsToLikes: 0.050576
-    id: ck8wf0ghcex0x0j780n0o80sg
+    followers: 3413
+    engagement: 4555
+    commentsToLikes: 0.254781
+    id: ck8t1t0sjwwuf0j78b5kn1wqk
     verified: false
-    hashtags: "#posetivevibes, #germany, #fotoshooting, #boystyle"
-  - username: "hamudi"
+    hashtags: "#thankyou, #germanblog, #help, #listen"
+  - username: "kathikh"
     fullname: >-
-      Influencer | Freiburg
+      LIFESTYLE • MARKETING • TRAVEL
     location: "Germany"
-    followers: 117126
-    engagement: 1754
-    commentsToLikes: 0.205242
-    id: ck8wenm2uebwo0j78sp70jukg
+    followers: 3024
+    engagement: 4483
+    commentsToLikes: 0.153425
+    id: ck139ivquliyn0i19znhtr9xk
     verified: false
-    hashtags: "#trend, #newiphone, #foryou, #couplegoals"
-  - username: "itslukaswhite"
+    hashtags: "#monday, #dogoftheday, #sundaymood, #photoediting"
+  - username: "beastrider_db"
     fullname: >-
-      Lukas Leonhardt 🥴
+      🇩🇪 D A V i D 🇵🇱
     location: "Germany"
-    followers: 297146
-    engagement: 1458
-    commentsToLikes: 0.055001
-    id: ck0w5kqmy44dv0i19vd7zdz9t
+    followers: 2589
+    engagement: 4364
+    commentsToLikes: 0.184942
+    id: ck0w76b86bz2s0i19r85xwhwl
     verified: false
-    hashtags: "#lgbtq, #night, #kidsbrandstore, #sunny"
-  - username: "rebekahwingofficial"
+    hashtags: "#bikersfamily, #polomotorrad, #xlmotodiscount, #weisheiten"
+  - username: "romanioz"
     fullname: >-
-      Rebekah Wing - Youtuber💕
+      Roman 🇦🇫
     location: "Germany"
-    followers: 962556
-    engagement: 642
-    commentsToLikes: 0.053589
-    id: ck8t9fwitnxqk0j787i3ri9j7
+    followers: 4222
+    engagement: 4173
+    commentsToLikes: 0.346196
+    id: ckaoskd0vruzd0i78ta4pjb3c
     verified: false
-    hashtags: "#ballons, #colors, #colorful, #christmas"
-  - username: "ale4ndra"
+    hashtags: "#allblackoutfit, #simplefit"
+  - username: "gizemedl"
     fullname: >-
-      𝔞𝔩𝔢𝔞𝔫𝔡𝔯𝔞
+      G I Z E M 🖤
     location: "Germany"
-    followers: 63910
-    engagement: 2068
-    commentsToLikes: 0.102895
-    id: ck8wfbs3mfhnh0j78279wjuv0
+    followers: 6692
+    engagement: 3839
+    commentsToLikes: 0.160941
+    id: ck9wf6p4wnfbs0j78yy7k7n1y
     verified: false
-    hashtags: "#skippydancechallenge, #blackandwhite, #instagood, #tiktokgermany"
-  - username: "anfr00"
+    hashtags: "#beutyblogger, #giveawaytime, #zara, #goforit"
+  - username: "noah.nmr"
     fullname: >-
-      Δƞϑελιƞα
+      NOAH COBAN
     location: "Germany"
-    followers: 68105
-    engagement: 1875
-    commentsToLikes: 0.107035
-    id: ck8wf85qbfanc0j780bldelby
+    followers: 4659
+    engagement: 3807
+    commentsToLikes: 0.414003
+    id: ckap45xqz5zmc0i78pg2dzkop
     verified: false
-    hashtags: "#sunny, #photography, #vibes, #love"
-  - username: "caner"
+    hashtags: "#mitt, #saturdaaym, #weekndvib, #spring"
+  - username: "advantur_"
     fullname: >-
-      𝓒𝓪𝓷𝓼𝓴𝓲 🕊
+      • Vanlife • Travel • Lifestyle
     location: "Germany"
-    followers: 233188
-    engagement: 1973
-    commentsToLikes: 0.204244
-    id: ck14hmq0rb3k80i191v1h8ea1
+    followers: 3609
+    engagement: 3617
+    commentsToLikes: 0.637823
+    id: ck9wenofsl31k0j78ywcfikjd
     verified: false
-    hashtags: "#christmas, #stars, #verlosung, #hype"
+    hashtags: ""
 cities:
   - name: Berlin
     link: /instagram/germany/berlin

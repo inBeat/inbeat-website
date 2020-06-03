@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Morocco In 2020
 description: >-
-  Find top rappers Instagram influencers in Morocco in 2020. Most popular hashtags: #rap #music #freestyle #kacho15.
+  Find top rappers Instagram influencers in Morocco in 2020. Most popular hashtags: #challenge #marrakech #stayhome #lifestyle.
 platform: Instagram
 profiles:
-  - username: "priince.polo"
-    fullname: >-
-      Prince Polo
-    location: "Morocco"
-    followers: 41142
-    engagement: 682
-    commentsToLikes: 0.008845
-    id: ck6tm5i4a77u70j7159hpw31c
-    verified: false
-    hashtags: "#amg, #princepolo, #annaba, #pablo"
   - username: "mester.alae1"
     fullname: >-
       Mester Alae | مستر علاء
     location: "Morocco"
-    followers: 28894
-    engagement: 956
-    commentsToLikes: 0.033245
+    followers: 32832
+    engagement: 1069
+    commentsToLikes: 0.033274
     id: ck0w2dv1knux00i19nywxo2q5
     verified: false
-    hashtags: "#11, #10, #nessahom"
+    hashtags: "#nessahom, #10, #11, #12"
   - username: "dolly_pran"
     fullname: >-
       Dollypran 💊🦂
     location: "Morocco"
-    followers: 78533
-    engagement: 1379
-    commentsToLikes: 0.012976
+    followers: 96153
+    engagement: 1322
+    commentsToLikes: 0.012618
     id: ck5pyufuoxv5f0i11ky48vrrf
     verified: false
-    hashtags: "#challengediro2mrabaditintin, #khari, #taaaach, #challengeko"
-  - username: "8irdtokio"
-    fullname: >-
-      8IRD 🖤🗡♾
-    location: "Morocco"
-    followers: 27966
-    engagement: 1048
-    commentsToLikes: 0.014867
-    id: ck0vv0vdhn0tp0i1951ek4fih
-    verified: false
-    hashtags: "#streetfashion, #streetwear"
+    hashtags: "#b13savage, #challengeko, #b9awfdarkom, #challenge"
   - username: "l7or75"
     fullname: >-
       L7OR 🕊 الحر
     location: "Morocco"
-    followers: 501680
-    engagement: 610
-    commentsToLikes: 0.012744
+    followers: 573671
+    engagement: 533
+    commentsToLikes: 0.016196
     id: ck0u0y8aqvadt0i19x47xk38e
     verified: true
-    hashtags: "#concerts, #music, #instavibe, #concertphotographic"
-  - username: "siflssane"
+    hashtags: "#live, #2m, #l7or, #l7or75"
+  - username: "8irdtokio"
     fullname: >-
-      siflssane h kayne
+      8IRD 🖤🗡♾
     location: "Morocco"
-    followers: 25778
-    engagement: 134
-    commentsToLikes: 0.014340
-    id: ck0u0y9ecvagb0i19ztai729r
+    followers: 35589
+    engagement: 1035
+    commentsToLikes: 0.018854
+    id: ck0vv0vdhn0tp0i1951ek4fih
     verified: false
-    hashtags: "#happy, #morrocco, #happyday, #fachion"
+    hashtags: "#streetfashion, #streetwear"
   - username: "young_zow"
     fullname: >-
       YOUNG ZOW 🇲🇦💣
     location: "Morocco"
-    followers: 8958
-    engagement: 587
-    commentsToLikes: 0.054683
+    followers: 13761
+    engagement: 566
+    commentsToLikes: 0.049955
     id: ck5heezgrsk610i11iyy132o5
     verified: false
-    hashtags: "#cb4gang, #freestyle, #team, #oldschool"
+    hashtags: "#team, #biggy324, #respect, #les"
   - username: "smallxofficial"
     fullname: >-
-      SmallX 🇲🇦
+      SmallX 🇲🇦 🐉
     location: "Morocco"
-    followers: 253998
-    engagement: 721
-    commentsToLikes: 0.010137
+    followers: 268361
+    engagement: 631
+    commentsToLikes: 0.010415
     id: ck5ciadlqsaa40i11vqolbcdi
     verified: true
-    hashtags: "#deezerfr, #stayathome, #kounwajed, #shayfeen"
+    hashtags: "#stayathome, #blackrose, #kounwajed, #shayfeen"
+  - username: "damost24"
+    fullname: >-
+      Damost
+    location: "Morocco"
+    followers: 13466
+    engagement: 1059
+    commentsToLikes: 0.013969
+    id: ck5ciai96sajh0i11krbh1tit
+    verified: false
+    hashtags: "#manaltaj, #wadrarisquad, #wds, #grammys"
   - username: "mrcrazy_off"
     fullname: >-
       MR CRAZY
     location: "Morocco"
-    followers: 581899
-    engagement: 298
-    commentsToLikes: 0.013402
+    followers: 676565
+    engagement: 316
+    commentsToLikes: 0.015098
     id: ck0w2dwjnnv7i0i19jon8z6c0
     verified: true
-    hashtags: "#9atal, #trending, #mctm, #solta"
-  - username: "minko_beatbox"
+    hashtags: "#rap, #nature, #ag, #2millions"
+  - username: "steeephes"
     fullname: >-
-      Yassine Belayachi
+      STEPH
     location: "Morocco"
-    followers: 3126
-    engagement: 3134
-    commentsToLikes: 0.017830
-    id: ck5pvdk45hcpj0i119gmk8tis
+    followers: 10264
+    engagement: 1262
+    commentsToLikes: 0.060089
+    id: ck5zoeccbqdds0i14by3i3b2e
     verified: false
-    hashtags: "#loopstation, #rap, #freestylebeatbox, #cover"
+    hashtags: "#horss, #mohamedramadan, #2019, #staysafe"
+  - username: "othmanchic"
+    fullname: >-
+      Othman Chic
+    location: "Morocco"
+    followers: 60925
+    engagement: 110
+    commentsToLikes: 0.048079
+    id: ck0w05l63chio0i19r52pc5ig
+    verified: false
+    hashtags: "#best, #journey, #captinemajed, #care"
 ---

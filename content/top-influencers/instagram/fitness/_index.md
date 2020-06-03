@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In 2020
 description: >-
-  Find top fitness Instagram influencers in 2020. Most popular hashtags: #fitness #workout #stayhome #fit.
+  Find top fitness Instagram influencers in 2020. Most popular hashtags: # #fashionblogger #workout #outfitoftheday.
 platform: Instagram
 profiles:
-  - username: "pappya_gaikwad_official"
+  - username: "filipexferreira"
     fullname: >-
-      PapPya Gaikwad
-    location: "India"
-    followers: 1785451
-    engagement: 947
-    commentsToLikes: 0.062626
-    id: ck0u2mcaj0c8k0i192zla88ka
+      Fitness
+    location: "Germany"
+    followers: 44367
+    engagement: 736
+    commentsToLikes: 0.016554
+    id: ck9hctx2cmyit0j78mqxuciyl
     verified: false
-    hashtags: "#stayhome, #tiktok, #handwashchallenge, #staysafe"
-  - username: "sunnevaeinarss"
+    hashtags: ""
+  - username: "uukramart"
     fullname: >-
-      Sunneva Eir Einarsdóttir🌸
+      |𝘍𝘙𝘖𝘔 𝘜𝘒𝘙𝘈𝘐𝘕𝘌| ツ
+    location: ""
+    followers: 2191
+    engagement: 2236
+    commentsToLikes: 0.063752
+    id: ckap4qvt78gso0i78dx0pcz9d
+    verified: false
+    hashtags: ""
+  - username: "ritaamorgan"
+    fullname: >-
+      Rita Morgan
+    location: "Canada"
+    followers: 2225
+    engagement: 3986
+    commentsToLikes: 0.118164
+    id: ckap6ezicfmdo0i784kx6ktuc
+    verified: false
+    hashtags: ""
+  - username: "angelicaceci95"
+    fullname: >-
+      Angelica 💙
+    location: "Italy"
+    followers: 3574
+    engagement: 3013
+    commentsToLikes: 0.137509
+    id: ck8t5wrudbi500j78diegkd83
+    verified: false
+    hashtags: "#beautiful, #exercise, #love, #prozisitalia"
+  - username: "cassidymprice"
+    fullname: >-
+      Cassidy Price
     location: "United States"
-    followers: 44747
-    engagement: 677
-    commentsToLikes: 0.070361
-    id: ck6ugvd155dzc0j711s9sjzql
+    followers: 3096
+    engagement: 2788
+    commentsToLikes: 0.183297
+    id: ck9wd8y46emb60j78dyjblq50
     verified: false
-    hashtags: "#worldfit2020, #motelrocks"
-  - username: "hunterrittgers"
+    hashtags: "#americaneagle, #sundayfunday, #aerie, #tryonhaul"
+  - username: "jacki.byr"
     fullname: >-
-      Hunter Rittgers
+      Jacki 🍍
+    location: "Germany"
+    followers: 5042
+    engagement: 2098
+    commentsToLikes: 0.126161
+    id: ck8t8vsl9m0yx0j7850rvescv
+    verified: false
+    hashtags: "#sundayvibes, #spring, #blackdress, #styleblogger"
+  - username: "adiahmarshall"
+    fullname: >-
+      Adiah | Houston Blogger
     location: "United States"
-    followers: 17973
-    engagement: 1101
-    commentsToLikes: 0.063797
-    id: ck6u6jyjcg0yr0j71aj3af11a
+    followers: 5268
+    engagement: 1847
+    commentsToLikes: 0.388341
+    id: ckaov1bnc2ozp0i782ad4rfql
     verified: false
-    hashtags: "#dare2venture, #newventureescrow"
-  - username: "lucynukesfit"
+    hashtags: "#workout, #pompomsandals, #ltkspring, #distresseddenim"
+  - username: "claire.frnz"
     fullname: >-
-      Lucy Newcombe🖤
-    location: "United Kingdom"
-    followers: 6762
-    engagement: 1602
-    commentsToLikes: 0.083566
-    id: ck8tdf6a734ey0j781wbv2fqi
+      Claire.F
+    location: "France"
+    followers: 5554
+    engagement: 1823
+    commentsToLikes: 0.086228
+    id: ckap7dqgkjmk70i786v5wa5vv
     verified: false
-    hashtags: "#bekind, #bodypositive, #weightloss, #wellness"
+    hashtags: "#goldenhour, #lifestyle, #dress, #amor"
+  - username: "iamjeannyguapa"
+    fullname: >-
+      TRAVEL | FASHION | INSPO
+    location: "Germany"
+    followers: 7028
+    engagement: 1813
+    commentsToLikes: 0.116143
+    id: ckap75goripgz0i78or915ml8
+    verified: false
+    hashtags: "#petal, #babygirl, #tattooed, #completefood"
   - username: "chloee.fitness97"
     fullname: >-
       Chloe | Fitness 🏋🏼‍♀️
     location: "United Kingdom"
-    followers: 8439
-    engagement: 1939
-    commentsToLikes: 0.091141
+    followers: 8872
+    engagement: 1797
+    commentsToLikes: 0.097173
     id: ck13b8ry0u9fi0i19s4ex8y9k
     verified: false
-    hashtags: "#upperbody, #fitlife, #workouttips, #teammyp"
-  - username: "ster_eleni"
-    fullname: >-
-      🎀Eleni Ster🎀
-    location: "Greece"
-    followers: 67463
-    engagement: 2249
-    commentsToLikes: 0.068940
-    id: ck6tspc4s628n0j71mqeapn3a
-    verified: false
-    hashtags: "#beatbox, #womanhood, #blessed, #valentines"
-  - username: "ma_delina_"
-    fullname: >-
-      Fitness | Fashion | Model
-    location: "Germany"
-    followers: 5526
-    engagement: 2037
-    commentsToLikes: 0.084127
-    id: ck5c3akacywxz0i11jnw6f6a9
-    verified: false
-    hashtags: "#ganznormalesplanschen, #cheerleading, #handmade, #angels"
-  - username: "burakdinc__"
-    fullname: >-
-      BURAK DINC 🧿
-    location: "Germany"
-    followers: 11131
-    engagement: 1386
-    commentsToLikes: 0.106384
-    id: ck0u1nqppxf210i19mljrs9l4
-    verified: false
-    hashtags: "#schwanger, #stayhome, #hamburg, #frankfurt"
-  - username: "kellympreston"
-    fullname: >-
-      Kelly Preston
-    location: "Australia"
-    followers: 136567
-    engagement: 683
-    commentsToLikes: 0.046459
-    id: ck0u1bzaxwhw00i199j4biujl
-    verified: false
-    hashtags: "#fitness, #freshface, #blueeyes, #styleinspo"
-  - username: "marintiganik"
-    fullname: >-
-      MARIN TIGANIK
-    location: ""
-    followers: 16063
-    engagement: 1102
-    commentsToLikes: 0.163025
-    id: ck8tc4m66y9pk0j78cw74n1hj
-    verified: false
-    hashtags: "#supportyourlocal, #giveaway, #rademar, #liikumiseksloodud"
+    hashtags: "#fitlife, #hiitworkout, #sale, #squats"
 ---

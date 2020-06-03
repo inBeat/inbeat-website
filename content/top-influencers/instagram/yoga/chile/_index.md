@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Chile In 2020
 description: >-
-  Find top yoga Instagram influencers in Chile in 2020. Most popular hashtags: #yoga #cuarentena #quedateencasa #love.
+  Find top yoga Instagram influencers in Chile in 2020. Most popular hashtags: #yoga #chile #nature #inlove.
 platform: Instagram
 profiles:
   - username: "yoga_nicoletta"
     fullname: >-
       Nicole Arpoulet
     location: "Chile"
-    followers: 41413
-    engagement: 540
-    commentsToLikes: 0.037278
+    followers: 48345
+    engagement: 649
+    commentsToLikes: 0.034301
     id: ck137r3ldcyks0i19dq7ufwtt
     verified: false
-    hashtags: "#ocean, #practice, #sacredwisdom, #trusted"
+    hashtags: "#trusted, #letgo, #expansion, #moon"
+  - username: "loretocortes"
+    fullname: >-
+      Loreto Cortés
+    location: "Chile"
+    followers: 8959
+    engagement: 483
+    commentsToLikes: 0.050616
+    id: ck5q2dvvqfiug0i11siblybyp
+    verified: false
+    hashtags: "#pilates, #kundaliniyoga, #iyengaryoga, #mindfullness"
   - username: "carolazow"
     fullname: >-
       Caro Lazo
     location: "Chile"
-    followers: 2722
-    engagement: 771
-    commentsToLikes: 0.100988
+    followers: 3014
+    engagement: 707
+    commentsToLikes: 0.095259
     id: ck133yqseuefm0i1981u3k4z9
     verified: false
-    hashtags: "#heart, #free, #yogaparatodos, #health"
+    hashtags: "#keepsafe, #dream, #nature, #respiracion"
   - username: "m.m.s.brito"
     fullname: >-
       Ma Monserrat Sabag⏸atleta 💪
     location: "Chile"
-    followers: 2320
-    engagement: 2330
-    commentsToLikes: 0.051910
+    followers: 2354
+    engagement: 2499
+    commentsToLikes: 0.051190
     id: ck6txrilrzfrv0j713hb9oo76
     verified: false
-    hashtags: "#bestoftheday, #dream, #makeithappen, #mediofondo"
-  - username: "loretocortes"
+    hashtags: "#lovetheworld, #fondo, #curacautin, #valentines"
+  - username: "labengale"
     fullname: >-
-      Loreto Cortés
+      ophelie moris | 🌱good living
     location: "Chile"
-    followers: 7469
-    engagement: 531
-    commentsToLikes: 0.053395
-    id: ck5q2dvvqfiug0i11siblybyp
+    followers: 64486
+    engagement: 175
+    commentsToLikes: 0.069420
+    id: ck0vvupksqurb0i191y407xnk
     verified: false
-    hashtags: "#entrenamientofuncional, #chiledesperto, #lamarchamasgrandedechile, #repost"
+    hashtags: "#chiloe, #jacuzzitime, #glaciar, #dronestagram"
+  - username: "stephany_butler"
+    fullname: >-
+      Stephany Butler
+    location: "Chile"
+    followers: 7019
+    engagement: 654
+    commentsToLikes: 0.047239
+    id: ckap8krnyore10i789ycfjzmd
+    verified: false
+    hashtags: "#dhanurasana, #psicologi, #handstand365, #yogaonline"
+  - username: "isiassler"
+    fullname: >-
+      Isi Assler
+    location: "Chile"
+    followers: 11953
+    engagement: 419
+    commentsToLikes: 0.019874
+    id: ck5q8gmkx630k0i111jyz65c4
+    verified: false
+    hashtags: "#conservar, #somosagua, #quedateencasa, #positivevibes"
   - username: "camilaruizs"
     fullname: >-
       Camila Ruiz
     location: "Chile"
-    followers: 68549
-    engagement: 415
-    commentsToLikes: 0.012140
+    followers: 70507
+    engagement: 380
+    commentsToLikes: 0.018325
     id: ck5c48rf00u4q0i11giwoj6pr
     verified: true
-    hashtags: "#contoosinopaque, #kein, #beagle, #30a"
-  - username: "iam.mayasw"
+    hashtags: "#viaje, #dolordeespalda, #casero, #curry"
+  - username: "simonettifiorella"
     fullname: >-
-      Maya Silva 🍃
+      Simona Quintana Silva
     location: "Chile"
-    followers: 10147
-    engagement: 900
-    commentsToLikes: 0.013533
-    id: ck55lbawo175o0i110fzzln6f
+    followers: 40776
+    engagement: 627
+    commentsToLikes: 0.021475
+    id: ck5c4dkhu14jc0i114t9xfbti
     verified: false
-    hashtags: "#flips, #goodmoments, #bloggerstyle, #life"
-  - username: "javicorreamedina"
+    hashtags: "#santiago, #nature, #terukinharules, #restart"
+  - username: "limonadamenta"
     fullname: >-
-      Javi Correa
+      Tami🍉Nutri🥑
     location: "Chile"
-    followers: 17985
-    engagement: 332
-    commentsToLikes: 0.067051
-    id: ck6u9mkx1ye4q0j71efs2htzd
+    followers: 34666
+    engagement: 137
+    commentsToLikes: 0.074800
+    id: ck15q5e4j16ma0i192uuehclb
     verified: false
-    hashtags: "#hmxjohannaortiz, #dog, #asesoriadeimagen, #cuarentena"
-  - username: "pameleiva"
-    fullname: >-
-      pamelitaleiva
-    location: "Chile"
-    followers: 227525
-    engagement: 202
-    commentsToLikes: 0.040496
-    id: ck0vz5bhn7dnz0i195zpyl1mj
-    verified: true
-    hashtags: "#mequedoencasa, #huachapalooza, #realityshow, #covid"
-  - username: "florenciaprada"
-    fullname: >-
-      Florencia Prada Duhagon
-    location: "Chile"
-    followers: 83360
-    engagement: 23
-    commentsToLikes: 0.040291
-    id: ck0w5b2io2s0w0i19goa51324
-    verified: false
-    hashtags: "#yogaspirit, #union, #namaste, #maniaco"
-  - username: "cris_saez_"
-    fullname: >-
-      Cris Sáez
-    location: "Chile"
-    followers: 46154
-    engagement: 221
-    commentsToLikes: 0.018067
-    id: ck6tu4wvkebnc0j71is1dupac
-    verified: false
-    hashtags: "#challenge, #cuarentena, #quedateencasa, #fitness"
+    hashtags: "#plantlady, #plantlove, #colombia, #elite3"
 ---

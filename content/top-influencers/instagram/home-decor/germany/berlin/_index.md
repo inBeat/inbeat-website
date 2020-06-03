@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Berlin In 2020
 description: >-
-  Find top home decor Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #stayhome #homedecor #interior.
+  Find top home decor Instagram influencers in Berlin in 2020. Most popular hashtags: #homedecor #stayathome #interior #homesweethome.
 platform: Instagram
 profiles:
-  - username: "javajune_selflovequeen"
+  - username: "mey_home"
     fullname: >-
-      |Beauty|Fashion|Selflovetogo
+      📍Deutschland • Europa  •Ceyiz
     location: "Germany"
-    followers: 35140
-    engagement: 291
-    commentsToLikes: 0.038560
-    id: ck6tu0nlgdmyq0j71x2c5320u
+    followers: 37260
+    engagement: 109
+    commentsToLikes: 0.016382
+    id: ck8t3efmw2yhn0j784pug4sd7
     verified: false
-    hashtags: "#bikinibabe, #cute, #foodblogger, #schwarzkopf"
-  - username: "naddl_johnson"
+    hashtags: "#mundnasenmaske, #babydeco, #walimah, #geschenk"
+  - username: "kimilaura"
     fullname: >-
-      HAMBURG ⚓️ TRAVEL | LIFESTYLE
+      KIM ENGEL | Berlin
     location: "Germany"
-    followers: 17143
-    engagement: 299
-    commentsToLikes: 0.179521
-    id: ck13b97u2ubuk0i191jct70jh
+    followers: 26465
+    engagement: 175
+    commentsToLikes: 0.097947
+    id: ck5q7ynn33n8a0i11s9fvh71p
     verified: false
-    hashtags: "#americanstyle, #lookbook, #zara, #nudeoutfit"
-  - username: "_frankiemiles"
+    hashtags: "#detailsmatter, #interior, #jewelryoftheday, #newtothecrew"
+  - username: "aliciaconditioner"
     fullname: >-
-      ➳ Frankie ×'91 »
+      A L I C I A ✨
     location: "Germany"
-    followers: 137015
-    engagement: 497
-    commentsToLikes: 0.008635
-    id: ck0vxk5u2zakn0i190iuwyema
+    followers: 10399
+    engagement: 994
+    commentsToLikes: 0.062129
+    id: ckaowizrc95070i78saim718m
     verified: false
-    hashtags: "#stayhome, #citylight, #homedecor, #alleswieimmer"
-  - username: "marionida"
+    hashtags: "#sparkleandshine, #shinebright, #girlsquad, #graffitiberlin"
+  - username: "sindy.tkl"
     fullname: >-
-      Marion
+      SINDY | TRAVEL | FASHION
     location: "Germany"
-    followers: 8772
-    engagement: 380
-    commentsToLikes: 0.091930
-    id: ck8t10k7cu0r90j78jyi9t41h
+    followers: 26864
+    engagement: 255
+    commentsToLikes: 0.168966
+    id: ck55nwmne756m0i11ln55cuie
     verified: false
-    hashtags: "#handgemacht, #stayhome, #greengatespot, #greengatelattecup"
-  - username: "mayartist"
+    hashtags: "#mask, #nakdfashion, #denim, #mikrobiom"
+  - username: "miraberlin"
     fullname: >-
-      Mayartist💗
+      mira | berlin blogger
     location: "Germany"
-    followers: 28066
-    engagement: 303
-    commentsToLikes: 0.034042
-    id: ck6uaibx23ptb0j71sxq555z7
+    followers: 25654
+    engagement: 528
+    commentsToLikes: 0.499484
+    id: ck6tu0mb7dmra0j71ktjvktzh
     verified: false
-    hashtags: "#coronatime, #youtube, #berlinale, #gala"
-  - username: "capsulegardens"
+    hashtags: "#popmirror, #popsockets, #uhren, #autumnvibez"
+  - username: "nisi"
     fullname: >-
-      Cami
+      NISI
     location: "Germany"
-    followers: 12520
-    engagement: 601
-    commentsToLikes: 0.019574
-    id: ck5hpucuwrzfs0i11qhmv2l4e
-    verified: false
-    hashtags: "#flaschengarten, #plantoftheday, #interiorrewildering, #pflanzenmutti"
-  - username: "steffimarla"
+    followers: 75103
+    engagement: 223
+    commentsToLikes: 0.042085
+    id: ck6torvdafqzo0j718mt2xud9
+    verified: true
+    hashtags: "#fashionsociety, #homedecor, #filmwave, #shootfilm"
+  - username: "conn_ie_"
     fullname: >-
-      Stefanie
+      ♡Connie♡
     location: "Germany"
-    followers: 58248
-    engagement: 200
-    commentsToLikes: 0.074304
-    id: ck0ucckgfgm6i0i19m1twerak
+    followers: 31801
+    engagement: 109
+    commentsToLikes: 0.144306
+    id: ck6triltpz71a0j71np07aw92
     verified: false
-    hashtags: "#amazing, #justbefloral, #tv, #worldinbloom"
-  - username: "tackasta_mara"
+    hashtags: "#bleachingtees, #bracelet, #curlscurlcurls, #primark"
+  - username: "___duundich__"
     fullname: >-
-      Ivana Slipcevic Skrobonja
+      Retro Vintage Boho Colorful
     location: "Germany"
-    followers: 86276
-    engagement: 482
-    commentsToLikes: 0.056599
-    id: ck5zmrafjn2y80i1478rh3iua
+    followers: 80944
+    engagement: 658
+    commentsToLikes: 0.034582
+    id: ck15qhp0v2w5t0i1920gy0xfo
     verified: false
-    hashtags: "#motelrocks, #stayhome"
-  - username: "lebeberlin"
+    hashtags: "#flowerstyle, #floweraddict, #plantstyling, #cakedecorating"
+  - username: "easyinterieur"
     fullname: >-
-      Lisa
+      MELIKE• Interior•DIY•Lifestyle
     location: "Germany"
-    followers: 27291
-    engagement: 449
-    commentsToLikes: 0.137651
-    id: ck5bwjiyoltou0i111el58wgn
+    followers: 402426
+    engagement: 202
+    commentsToLikes: 0.037805
+    id: ck0u1fv1kwpy70i196jschgt7
     verified: false
-    hashtags: "#itsaboy, #tragemama, #februarbaby, #renovieren"
-  - username: "lotta_hagen"
+    hashtags: "#flur, #kidsroom, #easterdecor, #decoracio"
+  - username: "irsonvladi"
     fullname: >-
-      FASHION✨TRAVEL✨GERMANY
+      Irsonvladi
     location: "Germany"
-    followers: 11607
-    engagement: 744
-    commentsToLikes: 0.075926
-    id: ck5c8oxmp9xz50i11qjoy9po4
+    followers: 63658
+    engagement: 398
+    commentsToLikes: 0.090367
+    id: ck8tcto8i0mzm0j78rmjp0zmw
     verified: false
-    hashtags: "#lotta, #interiordesigner, #nachbarschaftschallenge, #interior"
+    hashtags: "#green, #dogsofinstagram, #naturelovers, #skin"
 ---

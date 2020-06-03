@@ -1,39 +1,29 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Durban In 2020
 description: >-
-  Find top photographers Instagram influencers in Durban in 2020. Most popular hashtags: #southafrica #capetown #fashion #photography.
+  Find top photographers Instagram influencers in Durban in 2020. Most popular hashtags: #sonyalphasa #wedding #sonyalphafemale #sonyalpha.
 platform: Instagram
 profiles:
-  - username: "_lee_who_"
-    fullname: >-
-      Leeaquadth Khan
-    location: "South Africa"
-    followers: 16229
-    engagement: 404
-    commentsToLikes: 0.071095
-    id: ck15t91rmgxct0i19mxpt1jxw
-    verified: false
-    hashtags: "#25thbirthday, #photooftheday, #content, #foodies"
-  - username: "ntobzz"
-    fullname: >-
-      Ntobeko Linda
-    location: "South Africa"
-    followers: 16951
-    engagement: 54
-    commentsToLikes: 0.012926
-    id: ck15qzqqt5ezu0i19zs603tdh
-    verified: false
-    hashtags: "#sunday, #photooftheday, #dirt, #light"
   - username: "innographer"
     fullname: >-
       
     location: "South Africa"
-    followers: 19297
-    engagement: 211
-    commentsToLikes: 0.024635
+    followers: 21038
+    engagement: 201
+    commentsToLikes: 0.023639
     id: ck5zu2r2e1km00i14450k4dm8
     verified: false
-    hashtags: "#ghmumm, #fashionblogger, #maternityphotography, #nikon"
+    hashtags: "#cocacola, #ghmumm, #coloured, #cutebaby"
+  - username: "damien_a_peterson"
+    fullname: >-
+      Damien Peterson
+    location: "South Africa"
+    followers: 3030
+    engagement: 1790
+    commentsToLikes: 0.093041
+    id: ck5bvkbrwjtm20i11ypgz3th7
+    verified: false
+    hashtags: "#galacticcore, #capeagulhas, #bnwphoto, #seascapes"
   - username: "_ttlphotography_"
     fullname: >-
       Fathima + Seraz
@@ -44,64 +34,74 @@ profiles:
     id: ck5cimneasxrv0i11jccwxacq
     verified: false
     hashtags: "#bridebook, #motivation, #inspired, #memories"
+  - username: "mrsroxyamas_"
+    fullname: >-
+      Roxy Amas Wbff Pro
+    location: "South Africa"
+    followers: 38434
+    engagement: 240
+    commentsToLikes: 0.015433
+    id: ck0w49eacxfyk0i195a1n2l0w
+    verified: false
+    hashtags: "#ushaka, #boostbabe, #hiit, #levelup"
+  - username: "foodiewithafro"
+    fullname: >-
+      Talicia J
+    location: "South Africa"
+    followers: 10601
+    engagement: 454
+    commentsToLikes: 0.118375
+    id: ck0ttkssh366a0i19q69zgo12
+    verified: false
+    hashtags: "#quote, #inspirationalquotes, #grateful, #beer"
   - username: "dunetilley"
     fullname: >-
       
     location: "South Africa"
-    followers: 10789
-    engagement: 852
-    commentsToLikes: 0.019481
+    followers: 10739
+    engagement: 847
+    commentsToLikes: 0.018567
     id: ck5zrl6vnwsdb0i14ojswyc84
     verified: false
-    hashtags: "#analougue, #dazed, #ishootfilm, #120mm"
-  - username: "kwanda_photography"
+    hashtags: "#ishootfilm, #somewheremagazine, #streetphotography, #mediumformat"
+  - username: "raising.wildlings_"
     fullname: >-
-      Kwanda Photography
+      Raising Wildlings
     location: "South Africa"
-    followers: 28396
-    engagement: 172
-    commentsToLikes: 0.063211
-    id: ck6u4nwmh4t0s0j714gkg68yp
+    followers: 22252
+    engagement: 559
+    commentsToLikes: 0.273742
+    id: ck5q8gfat61yd0i11untwxg2y
     verified: false
-    hashtags: "#iflovehasnoboundarieswasacouple, #engagement, #mzansibride, #kwandaphotography"
-  - username: "anelepapu"
+    hashtags: "#letsbuildtogether, #mondaythoughts, #thelockdownlowdown, #wheresthechampagne"
+  - username: "camvantonder"
     fullname: >-
-      Anele Papu®️
+      CAMVANTONDER
     location: "South Africa"
-    followers: 69451
-    engagement: 327
-    commentsToLikes: 0.021867
-    id: ck5qavozqihu00i11w584cvfz
+    followers: 12054
+    engagement: 517
+    commentsToLikes: 0.090729
+    id: ck0w6d1go803x0i19y773y89w
     verified: false
-    hashtags: "#fitness, #nature, #rotarywatches, #throughmylens"
-  - username: "apetownshenanigans"
+    hashtags: "#quarantine, #nightmode2, #gopromax, #lockdown"
+  - username: "maxkieser_"
     fullname: >-
-      Aubrey Ndiweni
+      M A X I M I L I A N
     location: "South Africa"
-    followers: 22686
-    engagement: 314
-    commentsToLikes: 0.037333
-    id: ck0w3hsbrthb30i19krivmole
+    followers: 8311
+    engagement: 1694
+    commentsToLikes: 0.014033
+    id: ckaosdiohr6ni0i78xqytqkbl
     verified: false
-    hashtags: "#capetown, #35mm, #riskitall, #jantheeberlin"
-  - username: "lucamonzeglio"
+    hashtags: "#balilife, #nusapenida, #bali, #balitravel"
+  - username: "marcbermanphotography"
     fullname: >-
-      LUCA MONZEGLIO
+      Marc Berman | Photographer
     location: "South Africa"
-    followers: 11387
-    engagement: 837
-    commentsToLikes: 0.024820
-    id: ck139ww3vnixa0i19y9lmto8d
+    followers: 15993
+    engagement: 241
+    commentsToLikes: 0.070445
+    id: ck5cdtxbzjrsk0i114cjcvvst
     verified: false
-    hashtags: "#coronasucks, #lockdown2020, #saveouroceans, #saynotoplastic"
-  - username: "garrethbarclayphoto"
-    fullname: >-
-      GARRETH BARCLAY | PHOTOGRAPHER
-    location: "South Africa"
-    followers: 55675
-    engagement: 146
-    commentsToLikes: 0.037010
-    id: ck0vvz6s4rfa20i193tcpbiln
-    verified: false
-    hashtags: "#ocean, #tamarafrancesconi, #betabeach, #dress"
+    hashtags: "#sports, #girls, #beta, #indoors"
 ---

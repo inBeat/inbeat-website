@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Sao Paulo In 2020
 description: >-
-  Find top models Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #model #makeup #modelo #saopaulo.
+  Find top models Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #model #saopaulo #fashion #happy.
 platform: Instagram
 profiles:
-  - username: "paivagv"
+  - username: "voitena_"
     fullname: >-
-      𝗝𝗨𝗟𝗜𝗔 𝗣𝗔𝗜𝗩𝗔 ॐ
+      Felipe Voitena
     location: "Brazil"
-    followers: 7984
-    engagement: 731
-    commentsToLikes: 0.119568
-    id: ck6ty2zha1dri0j71mgsibxsm
+    followers: 23301
+    engagement: 359
+    commentsToLikes: 0.027076
+    id: ck5zupges2szd0i14k2fp7cgm
     verified: false
-    hashtags: "#retratosfemininos, #model, #modelagem, #modelos"
-  - username: "luanayukie"
+    hashtags: "#beachday, #menswear, #modelingagency, #ficaemcasa"
+  - username: "julianagomes"
     fullname: >-
-      Luana Yukie
+      Juliana Gomes Stocco
     location: "Brazil"
-    followers: 25111
-    engagement: 750
-    commentsToLikes: 0.008203
-    id: ck14l64ikt1pc0i19kykr6b7i
+    followers: 7047
+    engagement: 668
+    commentsToLikes: 0.030579
+    id: ck55jccdswqul0i110a5y27hw
     verified: false
-    hashtags: "#tattoo, #japanese, #picoftheday, #circlelens"
+    hashtags: "#ballethome, #drmartensstyle, #shoppinglight, #believe"
   - username: "laispaggiaro"
     fullname: >-
       Lais Paggiaro | Plus Size
     location: "Brazil"
-    followers: 12953
-    engagement: 534
-    commentsToLikes: 0.032196
+    followers: 12773
+    engagement: 518
+    commentsToLikes: 0.031418
     id: ck8tasghvsvhm0j7820zjs3cn
     verified: false
-    hashtags: "#plussizeblog, #plusmodelbrasil, #plussize, #piracicaba"
-  - username: "julianacantanhede"
+    hashtags: "#plusmodel, #composite, #piracity, #plussizeblog"
+  - username: "ewerthonjhony"
     fullname: >-
-      Juliana Reis Cantanhede
+      Ewerthon Jhony
     location: "Brazil"
-    followers: 2249
-    engagement: 1359
-    commentsToLikes: 0.222467
-    id: ck8t2o029051r0j78xba0srca
+    followers: 5010
+    engagement: 1725
+    commentsToLikes: 0.068182
+    id: ckap87go0n5xh0i786e9i2fqw
     verified: false
-    hashtags: "#love, #vilamadalena, #becodobatman, #verao"
-  - username: "danny.oliveir"
+    hashtags: "#fashionista, #model, #saopaulo, #instagram"
+  - username: "isabellafaria"
     fullname: >-
-      Daniele Oliveira💎
+      𝖎𝖘𝖆𝖇𝖊𝖑𝖑𝖆  //𝔟𝔞𝔟𝔶 𝔡𝔢𝔳𝔦𝔩
     location: "Brazil"
-    followers: 6368
-    engagement: 885
-    commentsToLikes: 0.052562
-    id: ck8t2q9al0c4i0j78utllwek8
+    followers: 13259
+    engagement: 502
+    commentsToLikes: 0.081897
+    id: ck5hisylbf80d0i110tyij1nb
     verified: false
-    hashtags: "#tbt, #mamae2020, #sp, #train"
-  - username: "rodriggabi"
+    hashtags: "#quarantena, #paradecortarocabelo, #weekinspo, #inspiration"
+  - username: "laryssa.freire.501"
     fullname: >-
-      Gabriella Rodrigues
+      Laryssa Freire 
     location: "Brazil"
-    followers: 3881
-    engagement: 971
-    commentsToLikes: 0.106839
-    id: ck55puey2beie0i11r1s26vrl
+    followers: 5219
+    engagement: 937
+    commentsToLikes: 0.010935
+    id: ck9hbjvqdh5p90j78cto5f2i6
     verified: false
-    hashtags: "#paz, #model, #saopaulo, #tutorial"
-  - username: "akincavalcante"
+    hashtags: "#makeupartists, #verao2020, #photography, #sonhos"
+  - username: "rafabridi"
     fullname: >-
-      AKIN CAVALCANTE
+      R A F A E L   B R I D I
     location: "Brazil"
-    followers: 10349
-    engagement: 755
-    commentsToLikes: 0.044201
-    id: ck8t8lgfqkwax0j785tedmsd6
+    followers: 23528
+    engagement: 435
+    commentsToLikes: 0.033943
+    id: ck5hd4l1olgop0i11m1hyv7cb
     verified: false
-    hashtags: "#theatromunicipalsp, #projetogiganto, #padraodebeleza, #saopaulo"
+    hashtags: "#videooftheday, #amofloripa, #liveyourdream, #moodygrams"
+  - username: "moisesloureiro"
+    fullname: >-
+      Moisés Loureiro
+    location: "Brazil"
+    followers: 48738
+    engagement: 284
+    commentsToLikes: 0.045936
+    id: ck5zkympfkeon0i14bbw1x5f5
+    verified: false
+    hashtags: "#coronavirus, #jornalismo, #lockdown, #cultura"
+  - username: "ellynovaess"
+    fullname: >-
+      Elly Novaes
+    location: "Brazil"
+    followers: 15120
+    engagement: 652
+    commentsToLikes: 0.081894
+    id: ck0w3g48yt8850i19xi3iozlt
+    verified: false
+    hashtags: "#stayhome, #live, #takecareofyourself, #bikini"
   - username: "ferpessiquelli_"
     fullname: >-
       Fernando Pessiquelli
     location: "Brazil"
-    followers: 19767
-    engagement: 415
-    commentsToLikes: 0.033610
+    followers: 19818
+    engagement: 293
+    commentsToLikes: 0.035782
     id: ck8t4l6tr75o60j78y23w8yzn
     verified: false
-    hashtags: "#malemodel, #menswear, #dayoff, #training"
-  - username: "luiza.ftavares"
-    fullname: >-
-      luiza tavares
-    location: "Brazil"
-    followers: 6980
-    engagement: 2255
-    commentsToLikes: 0.024505
-    id: ck0u7jux450l10i19zq519y73
-    verified: false
-    hashtags: "#cover, #retrato, #fashionbag, #fashionlovers"
-  - username: "brunelymesmo"
-    fullname: >-
-      B R U N € L ¥
-    location: "Brazil"
-    followers: 30229
-    engagement: 650
-    commentsToLikes: 0.026746
-    id: ck5hleh7ak2q20i11dt2czff9
-    verified: false
-    hashtags: "#dontrushchallenge, #tbt"
+    hashtags: "#menswear, #videochamada, #ragazzomgmt, #update"
 ---

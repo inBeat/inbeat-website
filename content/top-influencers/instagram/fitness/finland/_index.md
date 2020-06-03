@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Finland In 2020
 description: >-
-  Find top fitness Instagram influencers in Finland in 2020. Most popular hashtags: #tb #quarantinelife #covid19 #ad.
+  Find top fitness Instagram influencers in Finland in 2020. Most popular hashtags: #aamupala #vappu2020 #vappu #workout.
 platform: Instagram
 profiles:
+  - username: "annituuliali"
+    fullname: >-
+      ANNI LIPPONEN 🇫🇮
+    location: "Finland"
+    followers: 3127
+    engagement: 2200
+    commentsToLikes: 0.163960
+    id: ckap4wbp796e40i788mk2eyzb
+    verified: false
+    hashtags: "#vappu2020, #gladavappen"
   - username: "siljatuominenn"
     fullname: >-
-      SILJA TUOMINEN🇫🇮
+      SILJA TUOMINEN
     location: "Finland"
-    followers: 1070
-    engagement: 5476
-    commentsToLikes: 0.029363
+    followers: 3278
+    engagement: 4662
+    commentsToLikes: 0.038314
     id: ck8t0ct5drmlr0j78210z7cn5
     verified: false
-    hashtags: "#myprotein"
+    hashtags: ""
+  - username: "mindbodyhealth_mia"
+    fullname: >-
+      Mia
+    location: "Finland"
+    followers: 2398
+    engagement: 1857
+    commentsToLikes: 0.087057
+    id: ckaos1gg8pq6x0i78e3kteybb
+    verified: false
+    hashtags: "#inkedgirls, #shoulderworkout, #unikko, #workingwoman"
+  - username: "veronicaleea"
+    fullname: >-
+      Veronica Leea
+    location: "Finland"
+    followers: 106393
+    engagement: 278
+    commentsToLikes: 0.033586
+    id: ck6trvtcs1dop0j71knsuux6g
+    verified: false
+    hashtags: "#wednesday, #absworkout, #fitnesswomen, #embraceit"
   - username: "kerttumatilda"
     fullname: >-
       Kerttu Rissanen
     location: "Finland"
-    followers: 120388
-    engagement: 728
-    commentsToLikes: 0.006057
+    followers: 121566
+    engagement: 750
+    commentsToLikes: 0.006024
     id: ck6tzmvjzan520j71fofr1lq3
     verified: false
-    hashtags: "#jumppaa, #barcelona, #stayfast, #urheilu"
-  - username: "georgiasiakavara"
+    hashtags: "#uusiharrastus, #eristys, #oivoi, #turvav"
+  - username: "venlamarias"
     fullname: >-
-      Georgia Siakavara
+      Venla Salminen | FITNESS
     location: "Finland"
-    followers: 6369
-    engagement: 674
-    commentsToLikes: 0.116506
-    id: ck6uayh7n6f6e0j7183nj83vr
+    followers: 2547
+    engagement: 2596
+    commentsToLikes: 0.025894
+    id: ckaosia83rm8c0i785tr5juey
     verified: false
-    hashtags: "#photographer, #showroom, #event, #perfectweather"
+    hashtags: "#lohilo, #lohilosuomi, #collaboration, #strongertogether"
+  - username: "marikahongisto"
+    fullname: >-
+      Marika Hongisto
+    location: "Finland"
+    followers: 4591
+    engagement: 2824
+    commentsToLikes: 0.021257
+    id: ckaoyptwiijlu0i78r83jkep3
+    verified: false
+    hashtags: "#bikinifitness"
+  - username: "sadeleonoora"
+    fullname: >-
+      Sade Rajakallio | Wellness 🌿
+    location: "Finland"
+    followers: 5147
+    engagement: 1143
+    commentsToLikes: 0.031411
+    id: ck5hhj94p8imk0i11xb55rzgg
+    verified: false
+    hashtags: "#luonnollisuus, #vappu, #vappu2020, #sudio"
   - username: "sofiesejdija"
     fullname: >-
       SOFIE SABRIE S.
     location: "Finland"
-    followers: 6691
-    engagement: 1031
-    commentsToLikes: 0.024149
+    followers: 7301
+    engagement: 1021
+    commentsToLikes: 0.021780
     id: ck6tnq4mxachr0j71nb4ync5p
     verified: false
-    hashtags: "#bubbleroom, #photoshoot, #iciwseamless, #fitnessclassic2021"
-  - username: "sadeleonoora"
+    hashtags: "#proteinchips, #curls, #icaniwill, #preset"
+  - username: "valentinaaiello"
     fullname: >-
-      Sade Rajakallio | Wellness 🌻
+      Sofia Aiello-Tikka
     location: "Finland"
-    followers: 5161
-    engagement: 1245
-    commentsToLikes: 0.018085
-    id: ck5hhj94p8imk0i11xb55rzgg
+    followers: 31397
+    engagement: 1950
+    commentsToLikes: 0.010950
+    id: ck5qa5xlieply0i11oub9m0xa
     verified: false
-    hashtags: "#kehonhuolto, #hyvinvointi, #plywoodprint, #dailydecordose"
-  - username: "nikkoloken"
-    fullname: >-
-      Nicholas Løken
-    location: "Finland"
-    followers: 10645
-    engagement: 1614
-    commentsToLikes: 0.034630
-    id: ck5ccrdqfhvb00i11yy64v5rr
-    verified: false
-    hashtags: "#belife, #coronatime, #covid, #goal"
-  - username: "sallaannika"
-    fullname: >-
-      Salla Ahonen
-    location: "Finland"
-    followers: 5070
-    engagement: 1018
-    commentsToLikes: 0.007528
-    id: ck8t0cyhmrn890j78agp9mfbj
-    verified: false
-    hashtags: "#back, #pullup, #yallwaitforme, #cheers"
-  - username: "fitbyaram"
-    fullname: >-
-      Aram Dag
-    location: "Finland"
-    followers: 2398
-    engagement: 1569
-    commentsToLikes: 0.053062
-    id: ck5q7ryl42ugo0i11me9of8t1
-    verified: false
-    hashtags: "#jungle, #sun, #nocco, #blessed"
-  - username: "maiju_minea"
-    fullname: >-
-      Maiju Minea Aalto
-    location: "Finland"
-    followers: 13345
-    engagement: 411
-    commentsToLikes: 0.041390
-    id: ck8t0cz2prn9j0j78ci9puh5i
-    verified: false
-    hashtags: "#fitnessathlete, #gootd, #happyweekend, #silverlining"
-  - username: "fitbeny"
-    fullname: >-
-      Benjamin Ahlblad
-    location: "Finland"
-    followers: 43378
-    engagement: 540
-    commentsToLikes: 0.022596
-    id: ck5q7rxuc2uct0i11gpg6j0zj
-    verified: false
-    hashtags: "#stayingrowout, #cginspire, #iownmybeard, #ad"
+    hashtags: "#valmentaja, #tuesdaythoughts, #virtuaalivappu, #sistergoals"
 ---

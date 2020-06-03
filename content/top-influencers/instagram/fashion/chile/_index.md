@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Chile In 2020
 description: >-
-  Find top fashion Instagram influencers in Chile in 2020. Most popular hashtags: #yomequedoencasa #quedateencasa #urbandecaychile #cuarentena.
+  Find top fashion Instagram influencers in Chile in 2020. Most popular hashtags: #stayhome #instagramers #lifestyle #jlochallenge.
 platform: Instagram
 profiles:
   - username: "rachelcolinas"
     fullname: >-
       Raquel Fernandez Colinas
     location: "Chile"
-    followers: 3220
-    engagement: 2585
-    commentsToLikes: 0.444924
+    followers: 4387
+    engagement: 2842
+    commentsToLikes: 0.509806
     id: ck6u1jwjxm6j00j71vizk3ukf
     verified: false
-    hashtags: "#style, #outfitoftheday, #oitfitideas, #styleinspo"
+    hashtags: "#styleoutfit, #outfitblog, #influencerstyle, #igersspain"
+  - username: "saraemdi"
+    fullname: >-
+      Sara Domenech
+    location: "Chile"
+    followers: 149555
+    engagement: 584
+    commentsToLikes: 0.170354
+    id: ck6twrygktr300j71huepipb8
+    verified: false
+    hashtags: "#girlyroom, #mylvngrm, #workfromhome, #favoritos"
+  - username: "carola.jorquera"
+    fullname: >-
+      Carolina Jorquera Oficial
+    location: "Chile"
+    followers: 109522
+    engagement: 205
+    commentsToLikes: 0.064071
+    id: ck5c78t1371xz0i11olpe35ga
+    verified: false
+    hashtags: "#ropainterior, #diosesamor, #amigos, #dia32"
   - username: "_snakepit"
     fullname: >-
       Valentina
     location: "Chile"
-    followers: 17090
-    engagement: 1328
-    commentsToLikes: 0.018994
+    followers: 16665
+    engagement: 1369
+    commentsToLikes: 0.018778
     id: ck5q54hzyrcd20i11i2xuflzr
     verified: false
-    hashtags: "#aztrek, #ateez, #mingi, #atiny"
-  - username: "mmarocchino"
+    hashtags: "#mingi, #atiny, #halahala, #ozweego"
+  - username: "mariabottle_"
     fullname: >-
-      ManFashion & Lifestyle
+      María Bottle 🦋
     location: "Chile"
-    followers: 317449
-    engagement: 233
-    commentsToLikes: 0.027073
-    id: ck13bt0bax0tu0i19y0uylaz5
-    verified: true
-    hashtags: "#travel, #famiglia, #love, #men"
+    followers: 51773
+    engagement: 1649
+    commentsToLikes: 0.317219
+    id: ck6twabj1qvfm0j71s2qqfqdg
+    verified: false
+    hashtags: "#makeupchallenge, #makeupartist, #makeup, #instagramfilter"
   - username: "xavicorrial"
     fullname: >-
       Xavi
     location: "Chile"
-    followers: 89430
-    engagement: 118
-    commentsToLikes: 0.188001
+    followers: 89292
+    engagement: 138
+    commentsToLikes: 0.149934
     id: ck14j5iugiqie0i19094qlglz
     verified: false
-    hashtags: "#stayhome, #vitaconstile, #peroninastroazzurro, #ad"
+    hashtags: "#lockdown, #tbt, #brazil"
   - username: "nicoputz"
     fullname: >-
       Nicole Putz
     location: "Chile"
-    followers: 174227
-    engagement: 435
-    commentsToLikes: 0.011086
+    followers: 173563
+    engagement: 443
+    commentsToLikes: 0.013719
     id: ck15q5ihf17ao0i19n1rb3k1h
     verified: true
-    hashtags: "#goodgirlcarolinaherrera, #veranoensantiago, #8m, #36weeks"
-  - username: "wedont_like"
-    fullname: >-
-      CamilaByrt
-    location: "Chile"
-    followers: 15599
-    engagement: 582
-    commentsToLikes: 0.016649
-    id: ck14h66728qc80i19s6q9ovow
-    verified: false
-    hashtags: "#dejatetentar, #twistedclassics, #conversetwisted, #quedateencasa"
+    hashtags: "#veranoensantiago, #9meses, #cuarentena, #ad"
   - username: "ladanioliva"
     fullname: >-
       Daniela Oliva
     location: "Chile"
-    followers: 6133
-    engagement: 601
-    commentsToLikes: 0.039674
+    followers: 6628
+    engagement: 596
+    commentsToLikes: 0.060748
     id: ck6ti5vkw03jg0j71tdrebani
     verified: false
-    hashtags: "#amarmechallenge, #detr, #inspodanioliva, #8m"
+    hashtags: "#cuarentena, #yomequedoencasa, #quarantinemood, #lookdafitiencasa"
   - username: "wainreddo.ph"
     fullname: >-
       Cute & Pastel Portraits 🌸
     location: "Chile"
-    followers: 15270
-    engagement: 723
-    commentsToLikes: 0.009005
+    followers: 19416
+    engagement: 691
+    commentsToLikes: 0.008437
     id: ck5ho8719p40c0i11gsscs040
     verified: false
-    hashtags: "#lipsphotography, #shower, #porcelainskin, #goldmakeup"
-  - username: "cicirivarola"
+    hashtags: "#cowgirl, #chokernecklace, #pinkwig, #rezerocosplay"
+  - username: "marcelamayorgas"
     fullname: >-
-      Cici Rivarola
+      Marcela Mayorga
     location: "Chile"
-    followers: 8227
-    engagement: 459
-    commentsToLikes: 0.041055
-    id: ck5qcyazdsx170i1153u1dic1
+    followers: 18645
+    engagement: 225
+    commentsToLikes: 0.042566
+    id: ck6ty9c9f2eaz0j71x314la9h
     verified: false
-    hashtags: "#family, #joseignacio, #beach, #cuarentena"
-  - username: "eluniverso.defran"
-    fullname: >-
-      ☆ FRAN ☆
-    location: "Chile"
-    followers: 40912
-    engagement: 860
-    commentsToLikes: 0.021453
-    id: ck15uhpufn8vk0i190wuu7ja5
-    verified: false
-    hashtags: "#summermakeup, #funday, #maquillajefacil, #santa"
+    hashtags: "#postcardsfrommybalcony, #agroforestry, #ilustrations, #quarentine"
 ---

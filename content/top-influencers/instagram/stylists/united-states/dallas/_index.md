@@ -1,107 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Dallas In 2020
 description: >-
-  Find top stylists Instagram influencers in Dallas in 2020. Most popular hashtags: #hair #fashion #stylist #model.
+  Find top stylists Instagram influencers in Dallas in 2020. Most popular hashtags: #texas #beauty #stylist #quarantine.
 platform: Instagram
 profiles:
-  - username: "honeyshairbox"
-    fullname: >-
-      PUT YOUR 💰 WHERE YOUR HAIR IS
-    location: "United States"
-    followers: 17309
-    engagement: 796
-    commentsToLikes: 0.036903
-    id: ck6tuvcnzin2o0j715j9iuk6j
-    verified: false
-    hashtags: "#hairinspo, #atlfrontals, #miamiwigs, #bundles"
-  - username: "fashionablylateboymom"
-    fullname: >-
-      Letty Long | DFW Influencer
-    location: "United States"
-    followers: 17541
-    engagement: 149
-    commentsToLikes: 0.538369
-    id: ck5qaykpxixhm0i11xg3o2xkk
-    verified: false
-    hashtags: "#stayathome, #stayin, #jeans, #dailywear"
-  - username: "princesstheceo"
-    fullname: >-
-      Princess Divine Pope
-    location: "United States"
-    followers: 8353
-    engagement: 545
-    commentsToLikes: 0.052875
-    id: ck0w2b0o0nggv0i1924ennmj7
-    verified: false
-    hashtags: "#internationalwomensday, #yogi, #dallasnights, #makeup"
   - username: "acozyblessednest"
     fullname: >-
       Aspen
     location: "United States"
-    followers: 37407
-    engagement: 195
-    commentsToLikes: 0.075077
+    followers: 37342
+    engagement: 224
+    commentsToLikes: 0.075883
     id: ck6tsj8am52hi0j712im1pn21
     verified: false
-    hashtags: "#farmhousediningroom, #fixerupperstyle, #walldecoration, #vignette"
-  - username: "thecheydawn"
+    hashtags: "#placesetting, #christmasquotes, #corbels, #sirena"
+  - username: "dysonstyles"
     fullname: >-
-      Cheyenne Dawn
+      Dyson Styles
     location: "United States"
-    followers: 9298
-    engagement: 677
-    commentsToLikes: 0.139157
-    id: ck5qdqa7rwt3e0i11bltc53rf
+    followers: 17691
+    engagement: 272
+    commentsToLikes: 0.048384
+    id: ckaowir10943y0i78hf0rq9cl
     verified: false
-    hashtags: "#canonshooter, #coloradophotography, #features, #abandonedportraits"
-  - username: "taylorgorton"
+    hashtags: "#dallassilkpress"
+  - username: "kassybby_mua"
     fullname: >-
-      taylor gorton
+      Kass
     location: "United States"
-    followers: 4556
-    engagement: 1070
-    commentsToLikes: 0.083072
-    id: ck6u15berjom10j717sap43o7
+    followers: 7684
+    engagement: 1656
+    commentsToLikes: 0.105227
+    id: ck8t5elgl9vvh0j784dzti33s
     verified: false
-    hashtags: "#entrepreneur, #shareyourstory, #style, #pageantprep"
-  - username: "abigailzoelewis"
+    hashtags: "#pinkoutfit, #anastasiabrows, #wetnwildbeauty, #tiktokmakeup"
+  - username: "dieciminutidiapplausi"
     fullname: >-
-      Abigail Zoe Lewis
+      Ildo Damiano
     location: "United States"
-    followers: 17929
-    engagement: 267
-    commentsToLikes: 0.110209
-    id: ck5px5s3pq8ni0i11spr8do5l
+    followers: 33574
+    engagement: 134
+    commentsToLikes: 0.025933
+    id: ck0w0c5ytdg730i19vfn1vpua
     verified: false
-    hashtags: "#influencer, #spreadpositivity, #necklace, #hiking"
-  - username: "walldamort"
+    hashtags: "#monday, #banana, #fruit, #myshooting"
+  - username: "zoecostello"
     fullname: >-
-      Sara Grace Wallerstedt
+      Zoe Costello
     location: "United States"
-    followers: 65857
-    engagement: 325
-    commentsToLikes: 0.016360
-    id: ck0tt4cib13p50i19zn2xnrma
-    verified: true
-    hashtags: "#nyfw, #repost, #casting, #hair"
+    followers: 51792
+    engagement: 206
+    commentsToLikes: 0.025098
+    id: ck0u0qis7uls20i19ojzj7ur3
+    verified: false
+    hashtags: "#clivedavis, #mtv, #glacier, #hanyucui"
   - username: "kovergirl4"
     fullname: >-
       Asia Haney
     location: "United States"
-    followers: 2036
-    engagement: 1248
-    commentsToLikes: 0.049311
+    followers: 2049
+    engagement: 1181
+    commentsToLikes: 0.046035
     id: ck6u2wio5ubnl0j71vsrlwp3c
     verified: false
-    hashtags: "#trapmuzik, #cateye, #atlantanights, #womanoffaith"
+    hashtags: "#enrollmentmanagementteam, #womanoffaith, #boss, #creativedirector"
+  - username: "alisha.griffin_stagram"
+    fullname: >-
+      Alisha Griffin {Model/Actress}
+    location: "United States"
+    followers: 2296
+    engagement: 772
+    commentsToLikes: 0.191515
+    id: ck6tltwla6mpu0j71jq98wyu2
+    verified: false
+    hashtags: "#fashionweek, #dallasdesigner, #frenchfashion, #portrait"
+  - username: "averiebishop"
+    fullname: >-
+      Aves 🇵🇭
+    location: "United States"
+    followers: 4536
+    engagement: 1865
+    commentsToLikes: 0.064016
+    id: ck9whgx4qxssy0j78tp1y0wjt
+    verified: false
+    hashtags: "#running, #corinavirus, #singing, #comedy"
   - username: "lisalovesdecor"
     fullname: >-
       Lisa
     location: "United States"
-    followers: 7476
-    engagement: 985
-    commentsToLikes: 0.075936
+    followers: 8248
+    engagement: 852
+    commentsToLikes: 0.081383
     id: ck0tzynmus0zw0i19hcfb4lwl
     verified: false
-    hashtags: "#evening, #christmashomedecor, #christmasnight, #cozyhome"
+    hashtags: "#lovemydoodle, #guestbedroom, #bathroomdecor, #memorialday2020"
+  - username: "jrenee.coiffures"
+    fullname: >-
+      jRenee’ Coiffures💕
+    location: "United States"
+    followers: 32649
+    engagement: 130
+    commentsToLikes: 0.032089
+    id: ck5zpp8jdt2w10i14steyw2vq
+    verified: false
+    hashtags: "#explore, #bondedstyles, #wacobraids, #sleekponytails"
 ---

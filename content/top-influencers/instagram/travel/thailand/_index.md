@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Thailand In 2020
 description: >-
-  Find top travel Instagram influencers in Thailand in 2020. Most popular hashtags: #travel #beautifuldestinations #luxuryhotels #thailandtravel.
+  Find top travel Instagram influencers in Thailand in 2020. Most popular hashtags: #phuket #covid19 #lightandshadow #vacationmode.
 platform: Instagram
 profiles:
   - username: "yuvalohayonn"
     fullname: >-
       𝕐𝕦𝕧𝕒𝕝, 𝕋𝕖𝕝-𝔸𝕧𝕚𝕧, 𝟚𝟡
     location: "Thailand"
-    followers: 12802
-    engagement: 1965
-    commentsToLikes: 0.088391
+    followers: 13507
+    engagement: 2076
+    commentsToLikes: 0.086233
     id: ck14lovy8vqz90i192uov048r
     verified: false
-    hashtags: "#nikeswim, #relaxmode, #seaporn, #keemala"
+    hashtags: "#bestvacation, #morningtime, #mustachestyle, #bythepool"
   - username: "journeytojunipero"
     fullname: >-
       Journey to Junipero
     location: "Thailand"
-    followers: 12588
-    engagement: 415
-    commentsToLikes: 0.132454
+    followers: 12344
+    engagement: 430
+    commentsToLikes: 0.129928
     id: ck6tlnucq6b0z0j71568uu1dq
     verified: false
-    hashtags: "#moodlighting, #siraogarden, #bangkokthailand, #bangkoklife"
+    hashtags: "#travelcebu, #borntoroam, #artfairs, #nightmood"
+  - username: "nutapiwich"
+    fullname: >-
+      Apiwich Ektarawong
+    location: "Thailand"
+    followers: 43474
+    engagement: 752
+    commentsToLikes: 0.007510
+    id: ck14jgxgzkaec0i19ee0rnrog
+    verified: false
+    hashtags: "#ufarm, #fliptheswitch, #ultimune, #ep"
   - username: "pigkaploy"
     fullname: >-
       เด็กหญิงพลอยไพลิน
     location: "Thailand"
-    followers: 329193
-    engagement: 1376
-    commentsToLikes: 0.004661
+    followers: 347463
+    engagement: 1100
+    commentsToLikes: 0.003944
     id: ck136eqf264qy0i19b5a1v4mf
     verified: false
-    hashtags: "#yaris, #ohmypro, #uniqlowomenfashion, #hbdpigkaploy"
+    hashtags: "#shopeeshopfromhome, #shopeeth, #shopeeth44, #shopeeth44kols"
   - username: "aumthanwa"
     fullname: >-
       Aum Thanwa
     location: "Thailand"
-    followers: 48841
-    engagement: 277
-    commentsToLikes: 0.018407
+    followers: 48404
+    engagement: 239
+    commentsToLikes: 0.024101
     id: ck5btr0ymgg0w0i11fd83fcyo
     verified: true
-    hashtags: "#pilot, #bangkokairways, #hairstyle, #huahin"
-  - username: "newzysan"
-    fullname: >-
-      NewZy San🌺🇹🇭
-    location: "Thailand"
-    followers: 30866
-    engagement: 425
-    commentsToLikes: 0.060886
-    id: ck0tvkdymbr450i19qlsfqrgh
-    verified: false
-    hashtags: "#fitspo, #traveller, #classy, #tanskin"
-  - username: "blowithand"
-    fullname: >-
-      K. Treetrong
-    location: "Thailand"
-    followers: 56904
-    engagement: 836
-    commentsToLikes: 0.063998
-    id: ck0uefy7yla4d0i19dem0f7w9
-    verified: false
-    hashtags: "#jordhammondffa"
+    hashtags: "#covid19, #pilot, #thaiairways, #hair"
   - username: "paigunna"
     fullname: >-
       OM + NUT 🇹🇭
     location: "Thailand"
-    followers: 72141
-    engagement: 360
-    commentsToLikes: 0.010547
+    followers: 73529
+    engagement: 430
+    commentsToLikes: 0.011370
     id: ck0u1v6v5y3j00i19u8nbi7rs
     verified: false
-    hashtags: "#tropical, #rcreserve, #snowcouple, #amatarawellnessresort"
-  - username: "be4vty"
+    hashtags: "#creativecouples, #resort, #avanibangkok, #nature"
+  - username: "blowithand"
     fullname: >-
-      
+      K. Treetrong
     location: "Thailand"
-    followers: 13727
-    engagement: 655
-    commentsToLikes: 0.013859
-    id: ck5hcnc7jiyz80i11smd8f627
+    followers: 60583
+    engagement: 738
+    commentsToLikes: 0.069639
+    id: ck0uefy7yla4d0i19dem0f7w9
     verified: false
-    hashtags: "#jive14, #streetlook, #atmosjapan, #airmax2090"
-  - username: "razsa.e"
+    hashtags: "#jordhammondffa"
+  - username: "chureeporn"
     fullname: >-
-      รษา เอสเฮ้าส์
+      CHUREEPORN C.
     location: "Thailand"
-    followers: 41308
-    engagement: 347
-    commentsToLikes: 0.004319
-    id: ck0tvakz8al0q0i19a8luhsbd
+    followers: 96643
+    engagement: 181
+    commentsToLikes: 0.020221
+    id: ck6tzwznqcd5h0j719e2des8i
     verified: false
-    hashtags: "#insyncallways, #cliniquethailand, #pomelogirls, #lxdaycare"
-  - username: "mekbkk"
+    hashtags: "#outdoor, #phuket, #sapavietnam, #turkey"
+  - username: "minniiiiiee"
     fullname: >-
-      𝗠𝗘𝗞 | 📍 BKK
+      𝕄𝕚𝕟𝕟𝕚𝕖 𝕊𝕞𝕚𝕥𝕥𝕒𝕔𝕙𝕒𝕣𝕥𝕔𝕙
     location: "Thailand"
-    followers: 6353
-    engagement: 1312
-    commentsToLikes: 0.082731
-    id: ck6uf4a27ut360j71p7ixah4q
+    followers: 5676
+    engagement: 964
+    commentsToLikes: 0.018933
+    id: ckap0jj39qkux0i78zkdrnkhw
     verified: false
-    hashtags: "#hellofrom"
+    hashtags: "#supremeoreos"
+  - username: "chalisaice"
+    fullname: >-
+      💛
+    location: "Thailand"
+    followers: 2056
+    engagement: 2305
+    commentsToLikes: 0.026789
+    id: ckaos9awrqotg0i785uuclyxh
+    verified: false
+    hashtags: "#mylonelinessiskillingme, #abusimbeltemple, #thebes, #ramasseum"
 ---

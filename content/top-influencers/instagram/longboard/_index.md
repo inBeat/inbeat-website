@@ -1,107 +1,107 @@
 ---
 title: Top 10 Longboard Instagram Influencers In 2020
 description: >-
-  Find top longboard Instagram influencers in 2020. Most popular hashtags: #longboard #longboarding #singlefin #longboard4life.
+  Find top longboard Instagram influencers in 2020. Most popular hashtags: #girlpower #longboarders #love #summertime.
 platform: Instagram
 profiles:
-  - username: "johnny_the_ripper"
+  - username: "longboard_universe_"
     fullname: >-
-      John Michael Van Hohenstein
-    location: "Australia"
-    followers: 31365
-    engagement: 773
-    commentsToLikes: 0.042113
-    id: ck15ugkoon2xh0i19xvj0bm7k
+      Longboards
+    location: ""
+    followers: 17243
+    engagement: 794
+    commentsToLikes: 0.005807
+    id: ck5q5hc0vsvm60i11g6pf5skd
     verified: false
-    hashtags: "#noosafestivalofsurfing, #tiktoktime, #crossstepping, #australia"
+    hashtags: "#friday, #december, #warm, #lake"
   - username: "sarawfc"
     fullname: >-
       Sara Watanabe 🌵🌻
     location: "Brazil"
-    followers: 19828
-    engagement: 654
-    commentsToLikes: 0.033736
+    followers: 19638
+    engagement: 651
+    commentsToLikes: 0.034628
     id: ck6txd3ahx5ol0j71sbb675k9
     verified: false
-    hashtags: "#playsarawatanabe, #tiktok, #tiktokbrasil, #challenge"
+    hashtags: "#ficaareflex, #tiktok, #tiktokbrasil, #challenge"
   - username: "katevoynova"
     fullname: >-
       KATE VOYNOVA: Longboard & Fun
     location: "Russia"
-    followers: 114623
-    engagement: 532
-    commentsToLikes: 0.018116
+    followers: 117732
+    engagement: 566
+    commentsToLikes: 0.014614
     id: ck0vx2akxwsf70i19ci3xcct4
     verified: false
-    hashtags: "#karaqueenmusic, #longboard, #skate, #coronaviruschallenge"
-  - username: "rickydangos"
+    hashtags: ""
+  - username: "rawr_its_wynter"
     fullname: >-
-      Dangos
-    location: "Indonesia"
-    followers: 5403
-    engagement: 468
-    commentsToLikes: 0.087921
-    id: ck5zj7bqbh2nu0i14ymwhzpm5
+      Wynter
+    location: "Canada"
+    followers: 51820
+    engagement: 382
+    commentsToLikes: 0.021733
+    id: ckaotii40w2640i78cvo71b7m
     verified: false
-    hashtags: "#happyholidays, #makeawish, #thankyouskateboarding, #rip"
+    hashtags: "#scenequeen, #grunge, #halfandhalfhair, #bluehair"
   - username: "florachristin"
     fullname: >-
       Flora Christin Butarbutar
     location: "Indonesia"
-    followers: 37626
-    engagement: 511
-    commentsToLikes: 0.013337
+    followers: 37362
+    engagement: 514
+    commentsToLikes: 0.013214
     id: ck0uacy5ybycu0i19boqmv7jv
     verified: false
     hashtags: "#odyseaplank, #coronavirus, #prayforchina"
-  - username: "achelmachin"
+  - username: "rickydangos"
     fullname: >-
-      Achel Machin 🇫🇷
-    location: "United States"
-    followers: 35477
-    engagement: 414
-    commentsToLikes: 0.033463
-    id: ck0w5n64u4h6d0i195ngzf58f
+      Dangos
+    location: "Indonesia"
+    followers: 5385
+    engagement: 457
+    commentsToLikes: 0.084624
+    id: ck5zj7bqbh2nu0i14ymwhzpm5
     verified: false
-    hashtags: "#girlpower, #achelbehindthelense, #mavic2pro, #crashchallenge"
+    hashtags: "#jalanjalan, #rip, #staystrong, #gasspoll"
   - username: "tulliodalpiaz"
     fullname: >-
       Tullio Dalpiaz
     location: "Brazil"
-    followers: 2530
-    engagement: 1446
-    commentsToLikes: 0.056430
+    followers: 2758
+    engagement: 1485
+    commentsToLikes: 0.055479
     id: ck5bub7d6hh510i11pp372u7c
     verified: false
-    hashtags: "#longboardforever, #costaricasurf, #puravidacostarica, #longboardtrick"
-  - username: "renataporcaro"
-    fullname: >-
-      Renata Porcaro
-    location: "Brazil"
-    followers: 15438
-    engagement: 245
-    commentsToLikes: 0.040237
-    id: ck6u6kkelg4px0j71hbge5mqt
-    verified: false
-    hashtags: "#vdn"
+    hashtags: "#oldiscool, #surfphotograph, #frankzappa, #surfinglife"
   - username: "roxanelds"
     fullname: >-
       Roxane Lucas
     location: "France"
-    followers: 10032
-    engagement: 1209
-    commentsToLikes: 0.025278
+    followers: 10130
+    engagement: 1154
+    commentsToLikes: 0.030041
     id: ck5py99hmuwti0i11ur4vqdva
     verified: false
-    hashtags: "#longboarddancing, #crusing, #sonyalpha, #ride4ever"
-  - username: "heber.garcia.p"
+    hashtags: "#monsterenergy, #chilling, #bluesky, #nixonwatch"
+  - username: "sylvia_mena24"
     fullname: >-
-      FOK.O
-    location: "Chile"
-    followers: 6882
-    engagement: 1237
-    commentsToLikes: 0.065287
-    id: ck6tuupkdij5e0j71wisodnt3
+      𝓢𝔂𝓵𝓿𝓲𝓪 💚
+    location: "United States"
+    followers: 6697
+    engagement: 755
+    commentsToLikes: 0.061867
+    id: ckap94e2ar3pn0i78gxn1m514
     verified: false
-    hashtags: "#earth, #exploretocreate, #globeportraits, #amolafotografia"
+    hashtags: "#california, #love, #slidegloves, #staysafe"
+  - username: "solangiecz"
+    fullname: >-
+      Sol Castro ☀️
+    location: "Spain"
+    followers: 2796
+    engagement: 3218
+    commentsToLikes: 0.030990
+    id: ck5zjhxp4hmjl0i14dcw6hjtt
+    verified: false
+    hashtags: "#stationteam, #somethingishappeningxls, #creamgrip, #stationtrucks"
 ---

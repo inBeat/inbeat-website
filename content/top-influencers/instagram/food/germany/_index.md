@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Germany In 2020
 description: >-
-  Find top food Instagram influencers in Germany in 2020. Most popular hashtags: #ootd #stayathome #stayhome #fashion.
+  Find top food Instagram influencers in Germany in 2020. Most popular hashtags: #ootd #couplegoals #spring #inspo.
 platform: Instagram
 profiles:
+  - username: "laily.imi"
+    fullname: >-
+      Laily  🤍
+    location: "Germany"
+    followers: 6545
+    engagement: 1716
+    commentsToLikes: 0.092343
+    id: ckaowhku98z060i78ku8e0dxo
+    verified: false
+    hashtags: "#hmxme, #inspo, #erfolg, #mamaleben"
   - username: "luderchris"
     fullname: >-
       luderchris
     location: "Germany"
-    followers: 44030
-    engagement: 1397
-    commentsToLikes: 0.071842
+    followers: 43039
+    engagement: 1360
+    commentsToLikes: 0.061557
     id: ck6ud3m39iy570j71acynxkmm
     verified: false
-    hashtags: "#danke, #funkopop, #blogger4charity, #gemeinsamstarknachtokio"
-  - username: "kathys.lookbook"
+    hashtags: "#teller, #mykrups, #modelsofinstagram, #punktehund"
+  - username: "gaamaya"
     fullname: >-
-      Katharina 🌸 OOTD | LOOKBOOK
+      Gabriela Amaya
     location: "Germany"
-    followers: 16985
-    engagement: 913
-    commentsToLikes: 0.191695
-    id: ck5hjoj3xgzk90i11te64fw1i
+    followers: 45018
+    engagement: 1173
+    commentsToLikes: 0.081863
+    id: ck8wgf46th8fw0j78mpjsb81j
     verified: false
-    hashtags: "#allblackoutfit, #popofpink, #liketimeukraine, #husum"
+    hashtags: "#valentinosunglasses, #sneakerlover, #ootd, #sneakersstyle"
   - username: "marie_kroon"
     fullname: >-
-      fitness | food | fashion✨
+      FITNESS | FOOD| FASHION👑
     location: "Germany"
-    followers: 4091
-    engagement: 3201
-    commentsToLikes: 0.206087
+    followers: 5545
+    engagement: 3264
+    commentsToLikes: 0.179457
     id: ck8t3uy124l9p0j78mv15gcyi
     verified: false
-    hashtags: "#blogger, #fitnessgirl, #carmushkapresets, #fashionblogger"
-  - username: "carlatinkerbelli"
+    hashtags: "#stayathome, #starbucks, #brownhair, #bloggerstyle"
+  - username: "annikamths"
     fullname: >-
-      𝕗𝕚𝕥𝕟𝕖𝕤𝕤, 𝕗𝕠𝕠𝕕 𝕒𝕟𝕕 𝕗𝕒𝕤𝕙𝕚𝕠𝕟
+      Annika Matheis I SNEAKERS
     location: "Germany"
-    followers: 9300
-    engagement: 1229
-    commentsToLikes: 0.336867
-    id: ck8ta6hqzqmg90j78r60s89l8
+    followers: 41695
+    engagement: 628
+    commentsToLikes: 0.056732
+    id: ck0tvti63cpso0i19y0lmtr2i
     verified: false
-    hashtags: "#blonde, #anajohnsonpreset, #prettylittletrip, #fashion"
-  - username: "davidzawada"
+    hashtags: "#customsneaker, #chillmode, #nikeblog, #closet"
+  - username: "sisa.official"
     fullname: >-
-      David “Sagat“ Zawada
+      𝒮𝒾𝓁𝓋𝒾𝒶
     location: "Germany"
-    followers: 21420
-    engagement: 808
-    commentsToLikes: 0.065355
-    id: ck6tujex1gofr0j71ob04rqfd
-    verified: true
-    hashtags: "#mma, #xmastree, #bjjworld, #padwork"
+    followers: 12455
+    engagement: 1235
+    commentsToLikes: 0.090075
+    id: ckap686gsesu10i78wu1elll5
+    verified: false
+    hashtags: "#fashion, #streetstyleluxe, #animallovers, #autumcolors"
+  - username: "arianachicita"
+    fullname: >-
+      Ariana🧿
+    location: "Germany"
+    followers: 63829
+    engagement: 590
+    commentsToLikes: 0.047170
+    id: ck8taunu6t4t30j78vhrdffhk
+    verified: false
+    hashtags: "#shoes, #chillin, #hottub, #twerk"
+  - username: "vitaminfede_"
+    fullname: >-
+      FEDERICA | FITNESS ACCOUNT
+    location: "Germany"
+    followers: 4188
+    engagement: 2189
+    commentsToLikes: 0.189662
+    id: ckaovkd7s4xte0i78k3sqyscg
+    verified: false
+    hashtags: "#gymwear, #fitinfluencer, #fitnessjourney, #views"
   - username: "sanja_stojanovska"
     fullname: >-
       Sanja Stojanovska
     location: "Germany"
-    followers: 9020
-    engagement: 1279
-    commentsToLikes: 0.097442
+    followers: 8974
+    engagement: 1266
+    commentsToLikes: 0.098148
     id: ck13atbefs2tc0i19sw8zr9fq
     verified: false
-    hashtags: "#travelgram, #maltaphotography, #france, #christmasdecor"
-  - username: "_jaquelinee.k"
+    hashtags: "#strasbourgchristmasmarket, #alsacefrance, #christmastree, #maltatravel"
+  - username: "mother_of_six_dragons"
     fullname: >-
-      Jaqueline     💎
+      Valeska
     location: "Germany"
-    followers: 4288
-    engagement: 2066
-    commentsToLikes: 0.127992
-    id: ck8tbrm0nwuo80j78lteq44cy
+    followers: 28126
+    engagement: 585
+    commentsToLikes: 0.087265
+    id: ck134cfzvvrn90i19nzgv7sm9
     verified: false
-    hashtags: "#staypositive, #girl, #thoughts, #kisses"
-  - username: "datjulschen"
-    fullname: >-
-      Jule
-    location: "Germany"
-    followers: 201741
-    engagement: 639
-    commentsToLikes: 0.025825
-    id: ck8t968mon0mf0j78tzipttbo
-    verified: false
-    hashtags: "#wirgef, #bleibtzuhause, #julescommunity, #schlafen"
-  - username: "tahneechristin"
-    fullname: >-
-      Tahnee Christin
-    location: "Germany"
-    followers: 58923
-    engagement: 521
-    commentsToLikes: 0.045757
-    id: ck15pqp20z6ju0i19ma7yw75o
-    verified: true
-    hashtags: "#designerwhey, #honigkuchenpferd, #mcfit, #spring"
-  - username: "veronika_klimovits"
-    fullname: >-
-      Veronika Klimovits
-    location: "Germany"
-    followers: 85766
-    engagement: 559
-    commentsToLikes: 0.045906
-    id: ck13bd4luuuqq0i19odzvpflm
-    verified: true
-    hashtags: "#playmateoftheyear2019, #lovemychihuahua, #fitnessmotivation, #beachlove"
+    hashtags: "#livingroom, #wertsch, #stayathome, #iickitchen"
 ---

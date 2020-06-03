@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Seoul In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Seoul in 2020. Most popular hashtags: #lifestyle #seoul #korea #bts.
+  Find top lifestyle Instagram influencers in Seoul in 2020. Most popular hashtags: #lifestyle #seoul #spring #life.
 platform: Instagram
 profiles:
-  - username: "welcometothepanoptico"
+  - username: "hyo_joo"
     fullname: >-
-      세바 ~ (SHIPPO-YO) 🍶
+      Ko Hyojoo
     location: "South Korea"
-    followers: 58804
-    engagement: 1903
-    commentsToLikes: 0.013068
-    id: ck5pw4bzyl1bn0i11a94fpj2o
-    verified: false
-    hashtags: "#namjoon, #season, #vsco, #lifestyle"
-  - username: "kristin_kazz"
+    followers: 546606
+    engagement: 373
+    commentsToLikes: 0.008938
+    id: ck0ub1ytbdjyk0i19m3v6riei
+    verified: true
+    hashtags: "#tvcf, #ashgirls, #allaccesskors, #travelphotography"
+  - username: "mary_land__"
     fullname: >-
-      KRISTIN KAZZ
+      매리🍒Mary😷
     location: "South Korea"
-    followers: 36313
-    engagement: 686
-    commentsToLikes: 0.012929
-    id: ck5pwy68rp6ct0i115q9csl0c
+    followers: 19586
+    engagement: 857
+    commentsToLikes: 0.029280
+    id: ck8tc0gr8xu720j78hotz5s1o
     verified: false
-    hashtags: "#girl, #model, #hair, #haircosmetic"
-  - username: "el3el35200"
+    hashtags: "#drc60, #longskirt, #spring, #cosmetic"
+  - username: "come2david"
     fullname: >-
-      林搞搞
+      정준구
     location: "South Korea"
-    followers: 36632
-    engagement: 197
-    commentsToLikes: 0.006216
-    id: ck0u133y3vmxx0i19m5t54mqx
+    followers: 291024
+    engagement: 444
+    commentsToLikes: 0.008162
+    id: ck0w1k4lvjqz90i19vph5do8v
     verified: false
-    hashtags: "#dailylook, #korea, #dessert, #dinner"
-  - username: "kieunchoi"
+    hashtags: "#darkselfiechallenge, #earthday, #quarantine, #thailand"
+  - username: "ya.stacey"
     fullname: >-
-      kieun choi
+      STACEY 🌻
     location: "South Korea"
-    followers: 10187
-    engagement: 1087
-    commentsToLikes: 0.035948
-    id: ck14judujm8hb0i19f8il5wbf
+    followers: 242433
+    engagement: 249
+    commentsToLikes: 0.011014
+    id: ck5zthwkh0fxn0i14vt65gptk
     verified: false
-    hashtags: ""
+    hashtags: "#whatagoodfriend, #troisrois, #youkshimwon, #life"
   - username: "aboutjulian"
     fullname: >-
       Julian Quintart 줄리안 퀸타르트
     location: "South Korea"
-    followers: 167474
-    engagement: 303
-    commentsToLikes: 0.029058
+    followers: 171038
+    engagement: 394
+    commentsToLikes: 0.026343
     id: ck5bvk8o7jtdk0i11791z4sd7
     verified: true
-    hashtags: "#4yearsoldjulian, #edgeland, #party, #tbstv"
+    hashtags: "#memorialday, #corona, #itaewon, #rooftop"
+  - username: "moon_stargram"
+    fullname: >-
+      Moonstar Life Studio 대표 문희정
+    location: "South Korea"
+    followers: 46029
+    engagement: 147
+    commentsToLikes: 0.051944
+    id: ck8szlqudoxgg0j781co1yyct
+    verified: false
+    hashtags: "#picnic, #latergram, #fritzhansen, #earthday2020"
   - username: "hwamok_mermaid"
     fullname: >-
       화목🐠 프리다이빙•여행•위스키•롱보드•킥복싱•스팅어
     location: "South Korea"
-    followers: 14921
-    engagement: 345
-    commentsToLikes: 0.040101
+    followers: 14829
+    engagement: 368
+    commentsToLikes: 0.040421
     id: ck6u3uewnzxwb0j71wsitb6h0
     verified: false
-    hashtags: "#hoshinoyaguguan, #kickboxing, #kiastinger, #rainbowvillage"
-  - username: "4.7.4.7"
+    hashtags: "#onsen, #redcar, #iphone11pro, #potrait"
+  - username: "khumor.a"
     fullname: >-
-      Dra. Gina ⚡️(지나)
+      𝗥𝘂𝘇𝗺𝗮𝘁𝗼𝘃𝗮 𝗞𝗵𝘂𝗺𝗼𝗿𝗮 🇰🇷🇺🇿
     location: "South Korea"
-    followers: 56775
-    engagement: 265
-    commentsToLikes: 0.018518
-    id: ck5qcd48cpz8k0i11b4x9ytow
+    followers: 2123
+    engagement: 1800
+    commentsToLikes: 0.087522
+    id: ck9halnuxczvk0j78q8td5rul
     verified: false
-    hashtags: "#8m2020, #shibuyahmo, #australiagram, #sydneylife"
-  - username: "sy__nini"
+    hashtags: "#starbucks, #coffeetime, #jimin, #coffeelife"
+  - username: "korea._lovers"
     fullname: >-
-      ⛰
+      K-DRAMAS LOVERS 🇰🇷
     location: "South Korea"
-    followers: 11811
-    engagement: 1360
-    commentsToLikes: 0.032446
-    id: ck5zybxfi9loq0i143ylg115r
+    followers: 73797
+    engagement: 1744
+    commentsToLikes: 0.026327
+    id: ck14hc7rb9l780i19evh676sp
     verified: false
-    hashtags: "#jeju, #lifestyle, #bodyscrub, #100"
+    hashtags: "#kookoo, #wtwoworlds, #eidmubarak, #happyeidmubarak"
   - username: "eun.g_popping"
     fullname: >-
       🌏 EUN.G 🌟 POPPING DANCER 🇰🇷
     location: "South Korea"
-    followers: 31100
-    engagement: 424
-    commentsToLikes: 0.021134
+    followers: 31517
+    engagement: 476
+    commentsToLikes: 0.024951
     id: ck137iqh4bqxe0i198lv7ylb5
     verified: false
-    hashtags: "#streetculture, #seoulkorea, #eung, #levelup"
-  - username: "matheusgabrieljj"
-    fullname: >-
-      M. Gabriel
-    location: "South Korea"
-    followers: 17017
-    engagement: 904
-    commentsToLikes: 0.017429
-    id: ck5hruj3lvi4s0i113qzfd0h5
-    verified: false
-    hashtags: "#muae, #seoul, #neverevergiveup, #gratitude"
+    hashtags: "#lifestyle, #vhall, #feelspecial, #dancelove"
 ---

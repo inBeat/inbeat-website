@@ -1,19 +1,19 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Istanbul In 2020
 description: >-
-  Find top beauty Instagram influencers in Istanbul in 2020. Most popular hashtags: #istanbul #fashion #ootd #stayhome.
+  Find top beauty Instagram influencers in Istanbul in 2020. Most popular hashtags: #istanbul #beauty #hairstyle #evdekal.
 platform: Instagram
 profiles:
-  - username: "sadaffashionsalad"
+  - username: "aycaydn"
     fullname: >-
-      SADAF Sadeghi
+      AYÇA - Camping & Nature
     location: "Turkey"
-    followers: 196065
-    engagement: 289
-    commentsToLikes: 0.043927
-    id: ck8sz15jgmshg0j7820isigz3
+    followers: 12190
+    engagement: 1842
+    commentsToLikes: 0.039316
+    id: ck8sx61koga4u0j78lbol7cy6
     verified: false
-    hashtags: "#lovequotes, #prayfortheworld, #turkey, #designer"
+    hashtags: "#camprail, #erzurum, #autumn, #photoholidayege"
   - username: "utkuagagil"
     fullname: >-
       utku
@@ -24,84 +24,84 @@ profiles:
     id: ck5cat3c0e2s30i114wwc1pvi
     verified: false
     hashtags: "#repost, #fashion, #model, #night"
-  - username: "karachka_magic"
+  - username: "dibaestetik"
     fullname: >-
-      Karine Amatuni
+      Diba Estetik&güzellik
     location: "Turkey"
-    followers: 20682
-    engagement: 269
-    commentsToLikes: 0.035085
-    id: ck6u8ozxhsuqh0j71h67or8s9
+    followers: 13262
+    engagement: 879
+    commentsToLikes: 0.001508
+    id: ck9ha47wjb2oi0j786aycm7dh
     verified: false
-    hashtags: "#eyes, #ke, #brunette, #creativesalon216"
+    hashtags: "#nemmaskesi, #koronat, #coronag, #pandemic"
   - username: "ceernkaya"
     fullname: >-
       Ceren Kaya ♡
     location: "Turkey"
-    followers: 159042
-    engagement: 387
-    commentsToLikes: 0.010541
+    followers: 173435
+    engagement: 763
+    commentsToLikes: 0.377940
     id: ck0u61xoo0qnj0i19w444z9wa
     verified: false
-    hashtags: "#ootd, #favs"
-  - username: "shadnazbakhshandeh"
+    hashtags: "#cekilis, #cekilisvar, #evdekal, #wishlist"
+  - username: "karachka_magic"
     fullname: >-
-      I AM SHADNAZ ✨
+      Karine Amatuni
     location: "Turkey"
-    followers: 187949
-    engagement: 335
-    commentsToLikes: 0.018500
-    id: ck0ty2pbeld3l0i19irw36hns
+    followers: 20709
+    engagement: 271
+    commentsToLikes: 0.036079
+    id: ck6u8ozxhsuqh0j71h67or8s9
     verified: false
-    hashtags: "#quarantineandchill, #sokakstili, #2020, #fashiongram"
-  - username: "heefashy"
+    hashtags: "#suadiye, #hayatguzel, #mountains, #dior"
+  - username: "dua.mnalla"
     fullname: >-
-      Heef Ashy
+      Dua Mnalla Alrayess
     location: "Turkey"
-    followers: 12701
-    engagement: 616
-    commentsToLikes: 0.035283
-    id: ck6tsziim7pq30j71igq5pkmy
+    followers: 50798
+    engagement: 463
+    commentsToLikes: 0.062506
+    id: ckapaz0bay07a0i782q8gesvd
     verified: false
-    hashtags: "#dubai, #portrait, #2020, #happynewyear"
-  - username: "drgulyildirim"
+    hashtags: "#healthylifestyle, #fashionnova, #hiamag, #fashionstyle"
+  - username: "katerinaprov"
     fullname: >-
-      Dr.Gül Yıldırım
+      KATEŘINA PROVAZNÍKOVÁ    🇨🇿/🇹🇷
     location: "Turkey"
-    followers: 26384
-    engagement: 92
-    commentsToLikes: 0.043603
-    id: ck8t0b2c5rgf20j78utfjhl43
+    followers: 46728
+    engagement: 1384
+    commentsToLikes: 0.027270
+    id: ck0txr9gfk8lr0i19fqrq0zzc
     verified: false
-    hashtags: "#coronavirus, #cardio, #run, #drgulyildirim"
+    hashtags: "#elite, #black, #rabbit, #simple"
+  - username: "rotasizgurme"
+    fullname: >-
+      Mekan/Otel/Restoran/Yemek
+    location: "Turkey"
+    followers: 53444
+    engagement: 221
+    commentsToLikes: 0.196679
+    id: ck15r6paz6esx0i19i0m04kkg
+    verified: false
+    hashtags: "#markadoktoru, #imzagunu, #foodstgram, #sishane"
+  - username: "cerenkulahli"
+    fullname: >-
+      Ceren Külahlı
+    location: "Turkey"
+    followers: 73044
+    engagement: 1438
+    commentsToLikes: 0.762949
+    id: ck8t09eaxra4i0j78w6hhxucx
+    verified: false
+    hashtags: "#cekilis, #makyaj, #makyajmalzemesi, #makeup"
   - username: "selinbalarisiii"
     fullname: >-
       Selin Yagcioglu Balarisi
     location: "Turkey"
-    followers: 463969
-    engagement: 843
-    commentsToLikes: 0.005020
+    followers: 540852
+    engagement: 1032
+    commentsToLikes: 0.210227
     id: ck8t09965r9j50j78tggl6z51
     verified: true
-    hashtags: "#babybalarisi, #beyazpapatyam, #bff, #japonbaligim"
-  - username: "cerenkulahli"
-    fullname: >-
-      Ceren Külahlı
-    location: "Turkey"
-    followers: 70693
-    engagement: 155
-    commentsToLikes: 0.012077
-    id: ck8t09eaxra4i0j78w6hhxucx
-    verified: false
-    hashtags: ""
-  - username: "edailemakyajj"
-    fullname: >-
-      Eᴅᴀ ʙʟᴏɢ’s
-    location: "Turkey"
-    followers: 20080
-    engagement: 442
-    commentsToLikes: 0.042749
-    id: ck8t4rlf47sc10j783f2ar8us
-    verified: false
-    hashtags: "#ojelerim, #rimel, #kuraabiyecimm2, #goldenroseoje"
+    hashtags: "#athomewithhm, #mood, #simple, #mustafakemalatat"
 ---

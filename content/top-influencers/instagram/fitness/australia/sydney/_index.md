@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Sydney In 2020
 description: >-
-  Find top fitness Instagram influencers in Sydney in 2020. Most popular hashtags: #fitness #dance #sydney #training.
+  Find top fitness Instagram influencers in Sydney in 2020. Most popular hashtags: #fitness #sydneyharbour #sydneyaustralia #model.
 platform: Instagram
 profiles:
   - username: "heathkeating"
     fullname: >-
       HEATH KEATING
     location: "Australia"
-    followers: 21295
-    engagement: 372
-    commentsToLikes: 0.021017
+    followers: 21867
+    engagement: 364
+    commentsToLikes: 0.018918
     id: ck5py3eu7u4fn0i1120dnff3w
     verified: false
-    hashtags: "#smile, #oxfordhotel, #universal, #gaysydney"
-  - username: "zachope"
+    hashtags: "#teamm8, #gaysydney, #supplements, #saturdaynight"
+  - username: "iamkhanporter"
     fullname: >-
-      Zac Hope
+      Khan Porter
     location: "Australia"
-    followers: 4734
-    engagement: 1268
-    commentsToLikes: 0.032545
-    id: ck14kypv5rzue0i19atg0eknx
-    verified: false
-    hashtags: "#heart, #shred, #trainer, #stuckinside"
-  - username: "henry_princemak"
-    fullname: >-
-      Henry Prince Mak
-    location: "Australia"
-    followers: 160272
-    engagement: 245
-    commentsToLikes: 0.017101
-    id: ck0vvbmu1oevt0i19pk16sauz
+    followers: 144807
+    engagement: 285
+    commentsToLikes: 0.018620
+    id: ck5zl35niknev0i14qqgmqg29
     verified: true
-    hashtags: "#zombie, #valentines, #henryprincemak, #puppy"
-  - username: "lucyellis_dance"
-    fullname: >-
-      Lucy Ellis
-    location: "Australia"
-    followers: 26556
-    engagement: 161
-    commentsToLikes: 0.012748
-    id: ck0w3e04tsx6f0i19ndzxsyrq
-    verified: false
-    hashtags: "#dancer, #lucyellisbacklunge, #etep, #melissa"
-  - username: "ilaria_fiore_fashionista"
-    fullname: >-
-      IᒪᗩᖇIᗩ
-    location: "Australia"
-    followers: 118032
-    engagement: 324
-    commentsToLikes: 0.042763
-    id: ck5bwmqbxm00g0i11y40pdedr
-    verified: false
-    hashtags: "#pavementbrands, #tweenmodel, #kidsforreal, #staysafe"
-  - username: "krisandrewsmall"
-    fullname: >-
-      Kris Andrew Small
-    location: "Australia"
-    followers: 7995
-    engagement: 705
-    commentsToLikes: 0.028703
-    id: ck6u4rme45dpp0j71u63qb5qw
-    verified: false
-    hashtags: "#fruitsartclub, #certainmagazine, #tdkpeepshow, #adobedesign"
+    hashtags: "#creepersdog, #newhobby, #lsd, #besties"
   - username: "nath_page"
     fullname: >-
       𝐍𝐀𝐓𝐇𝐀𝐍 𝐏𝐀𝐆𝐄
     location: "Australia"
-    followers: 64637
-    engagement: 293
-    commentsToLikes: 0.070746
+    followers: 67772
+    engagement: 342
+    commentsToLikes: 0.060973
     id: ck8szdaqdnz700j78jj9bye27
     verified: false
     hashtags: ""
-  - username: "jennifer__chong"
+  - username: "teganpaigechapman"
     fullname: >-
-      Jennifer Chong
+      TEGAN | WEIGHTLOSS -36kgs 💪🏻
     location: "Australia"
-    followers: 21147
-    engagement: 278
-    commentsToLikes: 0.128151
-    id: ck6toy410gr3f0j712mf6zsfo
+    followers: 211333
+    engagement: 252
+    commentsToLikes: 0.026171
+    id: ck0u87rse6nc50i196p5a66zx
+    verified: false
+    hashtags: "#snack, #traveltheworld, #fatfreezing, #bathingboxes"
+  - username: "jessienorbz"
+    fullname: >-
+      J E S S I E  N O R B U R Y
+    location: "Australia"
+    followers: 14430
+    engagement: 535
+    commentsToLikes: 0.050960
+    id: ck13c71xkyxbe0i19kvzguau6
+    verified: false
+    hashtags: "#isolation, #quarantinelife, #new, #quarantine"
+  - username: "termsandconditionsapply"
+    fullname: >-
+      CHRISTOPHER HAYES
+    location: "Australia"
+    followers: 25252
+    engagement: 244
+    commentsToLikes: 0.014858
+    id: ck14lhc66uobx0i19sk1l8xel
+    verified: false
+    hashtags: "#swimwear, #boyswithpools, #sydneymardigras, #aware"
+  - username: "roddickt"
+    fullname: >-
+      Rod ありがとう‼ 🔓7️⃣0️⃣0️⃣0️⃣
+    location: "Australia"
+    followers: 7646
+    engagement: 685
+    commentsToLikes: 0.024106
+    id: ck6ts3bcl2iui0j71zldzxs9h
+    verified: false
+    hashtags: "#wellness, #gopro, #gayhunk, #gaytaipei"
+  - username: "marlenesilver"
+    fullname: >-
+      MARLENE SILVER
+    location: "Australia"
+    followers: 18218
+    engagement: 116
+    commentsToLikes: 0.040379
+    id: ck6u3i89zxxqc0j71a3qhic93
+    verified: false
+    hashtags: "#eyes, #fashionlook, #travelers, #congobars"
+  - username: "baileyhaslam_pt"
+    fullname: >-
+      Bailey | Personal Trainer
+    location: "Australia"
+    followers: 9420
+    engagement: 344
+    commentsToLikes: 0.398159
+    id: ck15rqaia95ok0i193ygernlg
+    verified: false
+    hashtags: "#forevergrowingthepeach"
+  - username: "flt_girls"
+    fullname: >-
+      💥 Amazing Hot Babes 💥
+    location: "Australia"
+    followers: 15486
+    engagement: 211
+    commentsToLikes: 0.048557
+    id: ckap162y5t7gp0i78rlzrsesk
     verified: false
     hashtags: ""
-  - username: "mischkapoledancer"
-    fullname: >-
-      Michelle Mischka
-    location: "Australia"
-    followers: 40678
-    engagement: 218
-    commentsToLikes: 0.037918
-    id: ck138jguagitx0i192jl4c7i6
-    verified: false
-    hashtags: "#dancefitness, #natureshoot, #polehandstand, #homeworkout"
-  - username: "sonnywebstergb"
-    fullname: >-
-      Sonny Webster
-    location: "Australia"
-    followers: 247112
-    engagement: 144
-    commentsToLikes: 0.018407
-    id: ck5cfcqnqmp7m0i11jftmdgin
-    verified: true
-    hashtags: "#community, #mrstealyourbins, #fyp, #mobility"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Turkey In 2020
 description: >-
-  Find top beauty Instagram influencers in Turkey in 2020. Most popular hashtags: #fashion #istanbul #love #style.
+  Find top beauty Instagram influencers in Turkey in 2020. Most popular hashtags: #stayhome #cekilis #evdekalt #kad.
 platform: Instagram
 profiles:
-  - username: "sha1kiba"
+  - username: "izgisimal"
     fullname: >-
-      🧿Shakiba | شَکیبا
+      Şimal İzgi 🍒
     location: "Turkey"
-    followers: 132317
-    engagement: 1072
-    commentsToLikes: 0.137320
-    id: ck0vyosug522k0i19f3uv676u
+    followers: 2764
+    engagement: 2747
+    commentsToLikes: 0.133969
+    id: ckaot27amu1im0i78imlj088h
     verified: false
-    hashtags: "#blueeyeshadoe, #eyelinertutorial, #pinkymakeup, #hudabeautychallenge"
-  - username: "mervinstablog"
+    hashtags: "#purple, #lilacmakeup, #makeuplook, #quarantine"
+  - username: "cerenkulahli"
     fullname: >-
-      Merve Özçelik
+      Ceren Külahlı
     location: "Turkey"
-    followers: 25991
-    engagement: 744
-    commentsToLikes: 0.780781
-    id: ck8tcvdwi0txa0j78tuwjg12t
+    followers: 73044
+    engagement: 1438
+    commentsToLikes: 0.762949
+    id: ck8t09eaxra4i0j78w6hhxucx
     verified: false
-    hashtags: "#youtube, #glowyskin, #ootd, #kombin"
+    hashtags: "#cekilis, #makyaj, #makyajmalzemesi, #makeup"
+  - username: "selinbalarisiii"
+    fullname: >-
+      Selin Yagcioglu Balarisi
+    location: "Turkey"
+    followers: 540852
+    engagement: 1032
+    commentsToLikes: 0.210227
+    id: ck8t09965r9j50j78tggl6z51
+    verified: true
+    hashtags: "#athomewithhm, #mood, #simple, #mustafakemalatat"
+  - username: "busrayurtgul"
+    fullname: >-
+      Büşra Yurtgül Neziroglulari
+    location: "Turkey"
+    followers: 249644
+    engagement: 590
+    commentsToLikes: 0.178358
+    id: ck139k5xplpjy0i19x6soai4b
+    verified: false
+    hashtags: "#styleoftheday, #today, #poolchallenge, #homeoutfit"
   - username: "burcucanuysal"
     fullname: >-
       Burcu 🖤 Can
     location: "Turkey"
-    followers: 97636
-    engagement: 556
-    commentsToLikes: 0.103633
+    followers: 99120
+    engagement: 552
+    commentsToLikes: 0.099057
     id: ck14jyytlmvkz0i19p0x6sawx
     verified: false
-    hashtags: "#love, #valentinesday2019, #surprise, #amsterdam"
-  - username: "ilaydasurucuu"
+    hashtags: "#tbt, #surprise, #amsterdam, #34weekspregnant"
+  - username: "dilekadatepe"
     fullname: >-
-      İlayda Sürücü
+      Dilek Adatepe🔹
     location: "Turkey"
-    followers: 116720
-    engagement: 423
-    commentsToLikes: 0.230241
-    id: ck5chrszhrc9o0i11xoh37l4u
+    followers: 14208
+    engagement: 957
+    commentsToLikes: 0.157677
+    id: ck8tawooitdt30j78lbibrdai
     verified: false
-    hashtags: "#5mmigroskadinlargunu"
-  - username: "idilunuvaar"
+    hashtags: "#sa, #travelbloggers, #turkey, #house"
+  - username: "ezgikasapoglu"
     fullname: >-
-      İdil Ünüvar
+      Ezgi Kasapoğlu
     location: "Turkey"
-    followers: 11078
-    engagement: 855
-    commentsToLikes: 0.152036
-    id: ck0w6qn389u1q0i1962yt50ug
+    followers: 60467
+    engagement: 337
+    commentsToLikes: 0.327148
+    id: ck14i1kxcd7k70i193ihucwkk
     verified: false
-    hashtags: "#sevgllrgnu, #seemyigtv, #fashion, #mutluhaftasonlar"
+    hashtags: "#loccitane, #sonsuzadeka, #womensday, #unochallange"
   - username: "julidekir"
     fullname: >-
-      Jülide Kır
+      Jülide Kır
     location: "Turkey"
-    followers: 56509
-    engagement: 315
-    commentsToLikes: 0.102591
+    followers: 60693
+    engagement: 263
+    commentsToLikes: 0.180765
     id: ck15subf3eu5z0i1942fumqkc
     verified: false
-    hashtags: ""
-  - username: "yagmurdoganayy"
+    hashtags: "#cekilisvar, #braunbeauty, #ad, #24"
+  - username: "ozcelikgiz"
     fullname: >-
-      YAĞMUR
+      Gizem Özçelik
     location: "Turkey"
-    followers: 70939
-    engagement: 251
-    commentsToLikes: 0.078289
-    id: ck6tyu5c85vhj0j7113bx28yy
+    followers: 53259
+    engagement: 217
+    commentsToLikes: 0.249812
+    id: ck5cbkutwfmu30i110te98pj8
     verified: false
-    hashtags: "#orchid, #weekend, #siyah, #pembe"
-  - username: "busrayurtgul"
+    hashtags: "#stayhome, #kad, #quarantinedays, #civcivlerya"
+  - username: "ranasworldoffashion"
     fullname: >-
-      Busra Yurtgul Neziroglulari
+      Rana
     location: "Turkey"
-    followers: 245390
-    engagement: 523
-    commentsToLikes: 0.019341
-    id: ck139k5xplpjy0i19x6soai4b
+    followers: 76071
+    engagement: 209
+    commentsToLikes: 0.333592
+    id: ck0w0tnaafz1g0i1952ye5jae
     verified: false
-    hashtags: "#style, #outfitinspiration, #styleinspiration, #stradilooks"
-  - username: "siavashphtogrph"
-    fullname: >-
-      Фотограф Сияваш
-    location: "Turkey"
-    followers: 9547
-    engagement: 640
-    commentsToLikes: 0.074520
-    id: ck5chs5kord1o0i11qkasejlb
-    verified: false
-    hashtags: "#newcollection, #fashionblogger, #istanbul, #studiophotography"
-  - username: "ahedghraizy"
-    fullname: >-
-      ✨👸🏻🍦عهد🍦👸🏻✨
-    location: "Turkey"
-    followers: 140833
-    engagement: 147
-    commentsToLikes: 0.044941
-    id: ck0w4c0kkxtod0i19sksxybv2
-    verified: false
-    hashtags: "#love, #mood, #ayasofya, #igstyle"
+    hashtags: "#poppybouquet, #summervibes, #springwelcoming, #renaopeople"
 ---

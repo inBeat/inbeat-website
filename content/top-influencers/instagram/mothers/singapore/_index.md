@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Singapore In 2020
 description: >-
-  Find top mothers Instagram influencers in Singapore in 2020. Most popular hashtags: #singapore #sgunited #sgmoms #sgmotherhood.
+  Find top mothers Instagram influencers in Singapore in 2020. Most popular hashtags: #mothersday #sgunited #quarantinelife #circuitbreaker.
 platform: Instagram
 profiles:
   - username: "coolmommy_konnect"
     fullname: >-
       Namita Sinha
     location: "Singapore"
-    followers: 4911
-    engagement: 1104
-    commentsToLikes: 0.094758
+    followers: 6793
+    engagement: 1042
+    commentsToLikes: 0.109385
     id: ck8syei3fkle90j78fr5e1273
     verified: false
-    hashtags: "#sgmummies, #radio, #learningathomeisfun, #sgtoddlers"
+    hashtags: "#cleaningsilver, #mommybloggers, #superspicemix, #kp9850"
   - username: "shanadramaqueen"
     fullname: >-
       Aakarshana Saravanan
     location: "Singapore"
-    followers: 19026
-    engagement: 685
-    commentsToLikes: 0.008744
+    followers: 20193
+    engagement: 659
+    commentsToLikes: 0.011285
     id: ck6tkskab5bq70j71iqt720zs
     verified: false
-    hashtags: "#justforlaughs, #mybirkenstocksg, #crashlandingonyou, #undertheblockootd"
-  - username: "vandamiss.joaquim"
-    fullname: >-
-      Vanda Miss Joaquim
-    location: "Singapore"
-    followers: 18376
-    engagement: 372
-    commentsToLikes: 0.017060
-    id: ck6uig4l4ew730j7191a38o1j
-    verified: false
-    hashtags: "#threesome, #ikeepdancingonmyown, #leobdae"
+    hashtags: "#santizedourhandbeforrandafterhor, #crashlandingonyou, #stayhomeandscrubon, #sgunited"
   - username: "lamamatropicana"
     fullname: >-
       Motherhood Blog & Shop 🌺
     location: "Singapore"
-    followers: 62164
-    engagement: 205
-    commentsToLikes: 0.006792
+    followers: 62601
+    engagement: 285
+    commentsToLikes: 0.008730
     id: ck8tbvnxfxbud0j780k3twih7
     verified: false
-    hashtags: "#essentialoils, #vegan, #aromatherapy, #moanaskin"
-  - username: "_tinc"
+    hashtags: "#mondaysright, #lockdownootd"
+  - username: "briebenfell"
     fullname: >-
-      T I N C 。婷🇸🇬
+      Brie
     location: "Singapore"
-    followers: 20173
-    engagement: 839
-    commentsToLikes: 0.082146
-    id: ck8sx62wega9v0j784y1sfsg1
+    followers: 13411
+    engagement: 328
+    commentsToLikes: 0.061564
+    id: ck8sy96m0k5u20j78gm9bmlw4
     verified: false
-    hashtags: "#firsttimemom, #stayhomeclub, #sgig, #greenlenses"
-  - username: "_mrschia_"
+    hashtags: "#mumlife, #happyeaster, #duejuly, #happymothersday"
+  - username: "big_l_fishing"
     fullname: >-
-      Cynthia Tee
+      José Luis Mendez Acosta
     location: "Singapore"
-    followers: 7050
-    engagement: 754
-    commentsToLikes: 0.930020
-    id: ck5zlpshzl5qy0i14ewhorinm
+    followers: 14984
+    engagement: 650
+    commentsToLikes: 0.014927
+    id: ck15rs7ae9flo0i197ugy10fq
     verified: false
-    hashtags: "#breastfeedingmom, #momstyle, #marriedcouple, #bepresent"
+    hashtags: "#solution, #comingsoon, #merrychristmas, #augsburg"
+  - username: "ztudioasia"
+    fullname: >-
+      Monica TW
+    location: "Singapore"
+    followers: 4300
+    engagement: 1785
+    commentsToLikes: 0.261204
+    id: ckap4if0s7ipc0i78iycng6e7
+    verified: false
+    hashtags: "#pearljewelry, #home, #midlifestyle, #flatback2nd"
   - username: "angeliqueteo"
     fullname: >-
       Angelique Nicolette Teo
     location: "Singapore"
-    followers: 18285
-    engagement: 634
-    commentsToLikes: 0.123427
+    followers: 18140
+    engagement: 659
+    commentsToLikes: 0.119655
     id: ck5hnkcnnnxiw0i11iok283vh
     verified: false
-    hashtags: "#baubles, #december, #yearoftherat, #vegan"
-  - username: "sugar73"
+    hashtags: "#workhard, #celebrateyou, #earthhour2020, #solitude"
+  - username: "imanfandi17"
     fullname: >-
-      ELAINE🦄 SG Mummy Of 2
+      Iman Fandi Ahmad
     location: "Singapore"
-    followers: 16317
-    engagement: 241
-    commentsToLikes: 0.760003
-    id: ck5hivwhffk4c0i11ezduhnrk
+    followers: 68868
+    engagement: 725
+    commentsToLikes: 0.009955
+    id: ck0ucnppqh8di0i19py2tu1ki
     verified: false
-    hashtags: "#sgmummycooks, #homecookingsg, #latergram, #babiesofinstagram"
-  - username: "wahyurahman"
+    hashtags: "#jlosuperbowlchallenge, #adidassg, #pandorawithyou, #dysonpurecool"
+  - username: "qinlovesmacaronsss"
     fullname: >-
-      I𝗠𝗶𝘀𝘀𝗛𝘆𝘂™
+      мαʏα ʜᴀᴢᴇʟ ǫɪɴ マヤ • sɪɴɢᴀᴘᴏʀᴇ
     location: "Singapore"
-    followers: 29798
-    engagement: 61
-    commentsToLikes: 0.041220
-    id: ck15q25tg0qjv0i195oljfzs0
+    followers: 25141
+    engagement: 509
+    commentsToLikes: 0.105823
+    id: ck6ugweze5kk90j71irog1i1v
     verified: false
-    hashtags: "#imisshyu, #iloveyou, #travelblogger, #mentalhealth"
-  - username: "cheeksymeeksy"
+    hashtags: "#sunblock, #aveenosg, #eczema, #mhrasia"
+  - username: "alillustralee"
     fullname: >-
-      CheeksyMeeksy
+      Ali Hanafiah
     location: "Singapore"
-    followers: 4964
-    engagement: 487
-    commentsToLikes: 0.261465
-    id: ck8sy1m5sjez60j787rjcr3bg
+    followers: 40960
+    engagement: 598
+    commentsToLikes: 0.023189
+    id: ck0w011aobuvk0i19pay1a2vl
     verified: false
-    hashtags: "#sunteccity, #japan, #teether, #singaporekid"
+    hashtags: "#joaquinphoenix, #marcwebb, #thomasshelby, #formula1"
 ---

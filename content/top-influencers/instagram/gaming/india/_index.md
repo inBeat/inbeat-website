@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gaming Instagram Influencers In India In 2020
 description: >-
-  Find top gaming Instagram influencers in India in 2020. Most popular hashtags: #pubg #pubgmobile #pubgmobileindia #pubgmobileindonesia.
+  Find top gaming Instagram influencers in India in 2020. Most popular hashtags: # #gaming #game #pubgmemes.
 platform: Instagram
 profiles:
-  - username: "instantbollywoodmemes"
+  - username: "aju_bhai_94"
     fullname: >-
-      INSTANT BOLLYWOOD MEMES
+      ajju_bhai_94
     location: "India"
-    followers: 97540
-    engagement: 1157
-    commentsToLikes: 0.018542
-    id: ck15uv9tjooa90i19vx4v6ymm
+    followers: 3520
+    engagement: 2761
+    commentsToLikes: 0.027270
+    id: ckap5dl50b7350i78kaj4pxaf
     verified: false
-    hashtags: "#ramayana, #ludo"
+    hashtags: "#gamingsetups, #weapons, #chingandito, #popularpicture"
+  - username: "eagle.gamingop"
+    fullname: >-
+      Dilin Dinesan
+    location: "India"
+    followers: 25006
+    engagement: 1711
+    commentsToLikes: 0.049654
+    id: ck9wggthatcqb0j78a19ln41b
+    verified: false
+    hashtags: "#pubgkerala, #pubgindia, #staytuned"
   - username: "neeraj_nsm"
     fullname: >-
       Neeraj
     location: "India"
-    followers: 6459
-    engagement: 8282
-    commentsToLikes: 0.022161
+    followers: 6131
+    engagement: 8090
+    commentsToLikes: 0.024767
     id: ck0twf51sf3ix0i19szu79yih
     verified: false
-    hashtags: "#pubgepicmemes, #pubg, #pubgproclips, #pubgmoments"
+    hashtags: "#pubgmemes, #pubgpc, #pubgepic, #callofduty"
   - username: "krantigaming"
     fullname: >-
       KRANTI Gaming
     location: "India"
-    followers: 7451
-    engagement: 3284
-    commentsToLikes: 0.009918
+    followers: 6945
+    engagement: 2607
+    commentsToLikes: 0.010666
     id: ck8t81ea2ir7a0j78n7rb2btl
     verified: false
-    hashtags: "#pubgmontaj, #pubgmobileindo, #pubgmobilexbape, #krantigaming"
+    hashtags: ""
+  - username: "killerbaba_"
+    fullname: >-
+      KiLLeR BaBa
+    location: "India"
+    followers: 2123
+    engagement: 4452
+    commentsToLikes: 0.025793
+    id: ckaosm7ees2km0i78lzovt9j6
+    verified: false
+    hashtags: "#setup2019, #cheers, #krontengaming, #dynamogaming"
+  - username: "gxmelife"
+    fullname: >-
+      Check My Story 😱
+    location: "India"
+    followers: 47709
+    engagement: 1156
+    commentsToLikes: 0.049570
+    id: ckap1vhqlwbvl0i782cewcsya
+    verified: false
+    hashtags: ""
   - username: "bhavesh_roxx"
     fullname: >-
       Bhavesh Balchandani
     location: "India"
-    followers: 458461
-    engagement: 519
-    commentsToLikes: 0.006806
+    followers: 473311
+    engagement: 439
+    commentsToLikes: 0.008958
     id: ck0tzjwc0qk6t0i19jub13z6e
     verified: true
-    hashtags: "#merrychristmas, #bhavneet, #besafe, #wewillrockyou"
-  - username: "thugappa"
+    hashtags: "#indiakaregabounceback, #wakeupinthesky, #dababy, #sunfeastbounce"
+  - username: "nj_gamer_"
     fullname: >-
-      Thugappa™
+      NATIONAL JAAT GAMING 🇮🇳
     location: "India"
-    followers: 64583
-    engagement: 1256
-    commentsToLikes: 0.010370
-    id: ck14k36umni7r0i1937ez0l93
+    followers: 36868
+    engagement: 186
+    commentsToLikes: 0.027244
+    id: ckaotbpv9v7gb0i78uu0tdld1
     verified: false
-    hashtags: "#thugappa, #blaster, #dankmemes, #thalapathy"
-  - username: "razeii_gaming"
+    hashtags: "#pubgm, #pubgwtf, #mortal, #pubgmoments"
+  - username: "kikinejo"
     fullname: >-
-      Razeii  رازيّ
+      Korina “Kiki” Harrison
     location: "India"
-    followers: 19662
-    engagement: 2395
-    commentsToLikes: 0.005008
-    id: ck13bohrfwed30i1927um58fc
+    followers: 181102
+    engagement: 226
+    commentsToLikes: 0.026852
+    id: ck5zy78w09cul0i14f67bc6ta
     verified: false
-    hashtags: "#cricket, #cricketmatch, #playerunknownsbattlegrounds, #lovecricket"
-  - username: "anime_gaming_zone"
+    hashtags: "#skincare, #balmain, #palatribe, #custompiece"
+  - username: "pubgbigpage"
     fullname: >-
-      Anime_Gaming_Zone
+      PUBG BIG PAGE
     location: "India"
-    followers: 77347
-    engagement: 522
-    commentsToLikes: 0.026547
-    id: ck8td5hwm1yr60j78rgf90mik
+    followers: 54758
+    engagement: 992
+    commentsToLikes: 0.014101
+    id: ckaosb1j9qx9d0i78hcpachlx
     verified: false
     hashtags: ""
-  - username: "neonman01"
-    fullname: >-
-      Aayush Parmar (Neon Man)
-    location: "India"
-    followers: 42429
-    engagement: 1485
-    commentsToLikes: 0.029182
-    id: ck8td556i1x2k0j78skyhrwiq
-    verified: false
-    hashtags: "#instamood, #roastingguru, #gamingguru, #candid"
-  - username: "missmotoholic"
-    fullname: >-
-      Jyôthishŕee Göwđa
-    location: "India"
-    followers: 18285
-    engagement: 770
-    commentsToLikes: 0.057153
-    id: ck0w4chjexwfa0i19vqoxq2uh
-    verified: false
-    hashtags: "#bikers, #lifestyleam, #kawasaki, #tiktok"
-  - username: "mysterious_yt_"
-    fullname: >-
-      Shazia Ayub(Mysterious YT)
-    location: "India"
-    followers: 18619
-    engagement: 1652
-    commentsToLikes: 0.022698
-    id: ck0twf648f3o00i193gpla8ft
-    verified: false
-    hashtags: "#mysterious, #gaming, #gamers, #mysteriousfam"
 ---

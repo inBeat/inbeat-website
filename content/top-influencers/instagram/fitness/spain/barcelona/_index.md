@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top fitness Instagram influencers in Barcelona in 2020. Most popular hashtags: #fitness #yomequedoencasa #barcelona #yoentrenoencasa.
+  Find top fitness Instagram influencers in Barcelona in 2020. Most popular hashtags: #fitness #barcelona #nature #happy.
 platform: Instagram
 profiles:
-  - username: "yoan_niss"
+  - username: "coco_pom_pom_"
     fullname: >-
-      🔥ToyKen🔥
+      🐶 🅲🅾🅲🅾👱🏻‍♀️🆂🅰🅽🅳🆁🅰
     location: "Spain"
-    followers: 42194
-    engagement: 238
-    commentsToLikes: 0.052965
-    id: ck8t30joz1fnw0j781rzvzgog
+    followers: 20160
+    engagement: 355
+    commentsToLikes: 0.140244
+    id: ck0u0xz99v95w0i19rge33q6h
     verified: false
-    hashtags: "#me, #boybcn, #instagood, #harleyquinn"
-  - username: "mouradtrainer"
+    hashtags: "#fashion, #balcon, #instadog, #instapet"
+  - username: "jasminetoledano"
     fullname: >-
-      Entrenador Personal
+      Jasmine Toledano
     location: "Spain"
-    followers: 18340
-    engagement: 130
-    commentsToLikes: 0.015868
-    id: ck55k1ia9y8tf0i11apip0cdi
+    followers: 10078
+    engagement: 464
+    commentsToLikes: 0.043320
+    id: ck5cgu710pk090i119d10991x
     verified: false
-    hashtags: "#like, #onlinecoach, #workout, #gimnasio"
-  - username: "gabrielebonn"
+    hashtags: "#fitness, #barcelona, #familygoals, #whenyouseeit"
+  - username: "germanfit_"
     fullname: >-
-      ⊜ G A B R I E L E  B O N N ⊜
+      German Lorenzo Navarro
     location: "Spain"
-    followers: 58903
-    engagement: 137
-    commentsToLikes: 0.050468
-    id: ck6twlt49sqvs0j713g7vp5cc
+    followers: 2186
+    engagement: 1320
+    commentsToLikes: 0.061375
+    id: ckap6rkmuh4q80i789z75o5hy
     verified: false
-    hashtags: "#anacardi, #donazione, #dolcichepassione, #bodybuild"
-  - username: "erikasanzmoreno"
+    hashtags: "#mountain, #pedraforca, #turismo, #photography"
+  - username: "jorge_teixeirap"
     fullname: >-
-      Erika Sanz
+      Jorge Teixeira | 🇻🇪 |
     location: "Spain"
-    followers: 22248
-    engagement: 318
-    commentsToLikes: 0.047634
-    id: ck5q1rpz8cgbp0i11h0f3qvw7
+    followers: 10279
+    engagement: 682
+    commentsToLikes: 0.021492
+    id: ck5c7vs0l8a2m0i11ngcj9n5k
     verified: false
-    hashtags: "#jointhemovement, #bootyworkout, #yoentrenoencasa, #dance"
-  - username: "aaronbooom"
+    hashtags: "#depaseo, #quarentena, #girl, #cosmetics"
+  - username: "evablse"
     fullname: >-
-      Aarón Vivar Hernandez
+      Eva
     location: "Spain"
-    followers: 56606
-    engagement: 757
-    commentsToLikes: 0.011690
-    id: ck14lm6q2vd5n0i19h3c3fflj
+    followers: 30307
+    engagement: 500
+    commentsToLikes: 0.059372
+    id: ckap44b775s580i78gjkwheyk
     verified: false
-    hashtags: "#frontflipfriday, #stunt, #acrobacias, #fitness"
-  - username: "isaac.sevillano"
+    hashtags: "#girlsswimwear, #kidsmodel, #squats, #friends"
+  - username: "angievenegas88"
     fullname: >-
-      Isaac Sevillano
+      Angie Venegas/ Cabin Crew ✈️❤️
     location: "Spain"
-    followers: 35502
-    engagement: 371
-    commentsToLikes: 0.022419
-    id: ck6u341gnvksy0j71q9zun5rb
+    followers: 6212
+    engagement: 674
+    commentsToLikes: 0.075823
+    id: ckap2fsj5yn7d0i781q8cpyo6
     verified: false
-    hashtags: "#exposure, #instalike, #personaltrainer, #love"
-  - username: "nanyhasbunn"
+    hashtags: "#australia, #vacacionestcp, #monestirdepedralbes, #cuarentenatime"
+  - username: "allanhdez"
     fullname: >-
-      N A N Y
+      Allan Hernández
     location: "Spain"
-    followers: 55834
-    engagement: 426
-    commentsToLikes: 0.027257
-    id: ck5henx53twgp0i11vxdrrl82
+    followers: 5767
+    engagement: 589
+    commentsToLikes: 0.041227
+    id: ck6udnxk2m6gt0j71tw1571z5
     verified: false
-    hashtags: "#foryoupage, #girlswhoshred, #ride, #weareone"
-  - username: "pitufollow"
+    hashtags: "#auroraborealis, #faltapoco, #televisa, #sunset"
+  - username: "alegnaslife"
     fullname: >-
-      SERGIO TURULL
+      Angiie
     location: "Spain"
-    followers: 65059
-    engagement: 327
-    commentsToLikes: 0.088066
-    id: ck5bz45gnqevz0i11af9b59hl
-    verified: true
-    hashtags: "#viaje, #yoayudodesdecasa, #ultrarunner, #vitaminwell"
-  - username: "ionutss_"
-    fullname: >-
-      |    💎   | 🇹🇩Spiridon🇪🇸
-    location: "Spain"
-    followers: 77712
-    engagement: 765
-    commentsToLikes: 0.014454
-    id: ck6tzzhf8crgt0j71v5rdol6l
+    followers: 11181
+    engagement: 1073
+    commentsToLikes: 0.089014
+    id: ck5hp3szwqpj90i110u60i0k0
     verified: false
-    hashtags: "#yomequedoencasa, #barcelona, #madrid, #coronavirus"
-  - username: "kevinhernandezifbb"
+    hashtags: "#autumn, #brown, #fashion, #stayhome"
+  - username: "juanjomonje"
     fullname: >-
-      KEVIN HERNÁNDEZ
+      ⭐️ JUANJO MONJE
     location: "Spain"
-    followers: 7181
-    engagement: 1188
-    commentsToLikes: 0.022760
-    id: ck6trbj5ly18x0j71oetgm3vv
+    followers: 18739
+    engagement: 1169
+    commentsToLikes: 0.043888
+    id: ck8t8zk7jmelj0j788oe1hj9f
     verified: false
-    hashtags: "#ifbb, #noexcuses, #copadeespa, #healt"
+    hashtags: "#tattoo, #smile, #gayespa, #haircut"
+  - username: "jordi.pf"
+    fullname: >-
+      Jordi Perelló 🚴🚵
+    location: "Spain"
+    followers: 9535
+    engagement: 943
+    commentsToLikes: 0.108423
+    id: ckap0p1nzr93r0i78txpng9h5
+    verified: false
+    hashtags: "#runner, #fitness, #trail, #instarunners"
 ---

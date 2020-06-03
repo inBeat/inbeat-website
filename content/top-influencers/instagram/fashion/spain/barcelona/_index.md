@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top fashion Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #makeup #fashion #yomequedoencasa.
+  Find top fashion Instagram influencers in Barcelona in 2020. Most popular hashtags: #fashion #beauty #barcelona #makeup.
 platform: Instagram
 profiles:
-  - username: "alessandrorenzi"
+  - username: "thegoldlipstick"
     fullname: >-
-      Fotografo de Barcelona
+      Mireia from The Gold Lipstick
     location: "Spain"
-    followers: 46372
-    engagement: 201
-    commentsToLikes: 0.072180
-    id: ck55o1mm97g510i11oh9jpciq
+    followers: 3133
+    engagement: 1216
+    commentsToLikes: 0.357116
+    id: ck0tyj2kvn1ds0i19upv4nd49
     verified: false
-    hashtags: "#spainportraits, #sonyalphaportrait, #sonyportrait, #sonyalphaportraits"
-  - username: "7sanchezc"
+    hashtags: "#diorbeautylovers, #skin, #igtv, #hmhome"
+  - username: "rakbcn28"
     fullname: >-
-      CARMEN SÁNCHEZ SILVA
+      Rakel Lopez Sanchez
     location: "Spain"
-    followers: 18669
-    engagement: 1259
-    commentsToLikes: 0.016218
-    id: ck15udw6xmoxt0i199z5ord3t
+    followers: 96040
+    engagement: 155
+    commentsToLikes: 0.036506
+    id: ckap1u757w6250i7835sd5kp7
     verified: false
-    hashtags: "#fashionstyle, #fitnessmodel, #gym, #blondegirl"
-  - username: "nof_travel"
-    fullname: >-
-      Nofit  | Travel blogger
-    location: "Spain"
-    followers: 6391
-    engagement: 1074
-    commentsToLikes: 0.366391
-    id: ck13cnh24180y0i1931zzvoki
-    verified: false
-    hashtags: "#bloggertips, #maldivesislands, #londonveganguide, #londontravelblogger"
+    hashtags: "#makeup, #enjoylife, #ibiza, #haul"
   - username: "juanbetancourtt"
     fullname: >-
       Juan Betancourt
     location: "Spain"
-    followers: 377813
-    engagement: 428
-    commentsToLikes: 0.007037
+    followers: 376450
+    engagement: 446
+    commentsToLikes: 0.007371
     id: ck14gm00h5vp30i19jj7pyy8t
     verified: true
-    hashtags: "#mysmeraldachristening, #sensationalsmeralda, #yomecorono, #yomequedoencasa"
+    hashtags: "#yomequedoencasa, #fernandodenoronha, #yomecorono"
   - username: "saraseaside"
     fullname: >-
       Sara Costa
     location: "Spain"
-    followers: 8993
-    engagement: 640
-    commentsToLikes: 0.027019
+    followers: 9231
+    engagement: 594
+    commentsToLikes: 0.024038
     id: ck14k0t4in5df0i19wxwgsl5q
     verified: false
-    hashtags: "#amar, #barcelonaphotographer, #slowlife, #selfportrait"
-  - username: "almargsato"
+    hashtags: "#gosee, #virginiawolf, #winewithyou, #vogue"
+  - username: "bea__marquez"
     fullname: >-
-      🔵 Almar G. Sato 🔵
+      𝘽𝙚𝙖 𝙈𝙖𝙧𝙦𝙪𝙚𝙯 🏍🎥🎤
     location: "Spain"
-    followers: 4155
-    engagement: 1371
-    commentsToLikes: 0.056071
-    id: ck6u51hy571990j71javre3c9
+    followers: 21513
+    engagement: 396
+    commentsToLikes: 0.052656
+    id: ck8t7ate7g5bn0j78c0toyu6e
     verified: false
-    hashtags: "#actriz, #asiatica, #noretoques, #eurasian"
-  - username: "aanaestebanb"
+    hashtags: "#enjoylife, #ootd, #porsche911turbo, #motoguzzi"
+  - username: "sergioalbiol"
     fullname: >-
-      𝔸𝕟𝕒 𝔼𝕤𝕥𝕖𝕓𝕒𝕟➰
+      Sergio Albiol
     location: "Spain"
-    followers: 57876
-    engagement: 210
-    commentsToLikes: 0.016473
-    id: ck5c39k7jyuy00i11a0t8xt9z
+    followers: 7728
+    engagement: 867
+    commentsToLikes: 0.044063
+    id: ck6003xeycwq00i14y0oc6yh2
     verified: false
-    hashtags: "#empanadasmalvon, #monta, #mascarillasfaciales, #beauty"
+    hashtags: "#badalona, #instafashion, #sportlife, #inspiration"
+  - username: "florinetielman"
+    fullname: >-
+      𝔽𝕝𝕠𝕣𝕚𝕟𝕖 𝕋𝕚𝕖𝕝𝕞𝕒𝕟
+    location: "Spain"
+    followers: 2429
+    engagement: 1735
+    commentsToLikes: 0.053858
+    id: ck5zy706k9ccr0i1492to7zgo
+    verified: false
+    hashtags: "#beauty, #cosmopolitan, #fashion, #polaroids"
+  - username: "michaelpalaciostv"
+    fullname: >-
+      𝑴𝑰𝑪𝑯𝑨𝑬𝑳𝑷𝑨𝑳𝑨𝑪𝑰𝑶𝑺𝑻𝑽
+    location: "Spain"
+    followers: 3602
+    engagement: 841
+    commentsToLikes: 0.085079
+    id: ck5zoqfg0r4000i14adj04khb
+    verified: false
+    hashtags: "#baile, #tiktokdances, #bailoencasa, #salsafestival"
   - username: "juanjomonje"
     fullname: >-
       ⭐️ JUANJO MONJE
     location: "Spain"
-    followers: 18141
-    engagement: 1023
-    commentsToLikes: 0.046735
+    followers: 18739
+    engagement: 1169
+    commentsToLikes: 0.043888
     id: ck8t8zk7jmelj0j788oe1hj9f
     verified: false
-    hashtags: "#gaystagram, #muscle, #abs, #model"
+    hashtags: "#tattoo, #smile, #gayespa, #haircut"
   - username: "mire_si"
     fullname: >-
       mire_si
     location: "Spain"
-    followers: 10007
-    engagement: 891
-    commentsToLikes: 0.098567
+    followers: 10037
+    engagement: 922
+    commentsToLikes: 0.099151
     id: ck6u71zp3j0c40j719ic37vah
     verified: false
-    hashtags: "#theregeneratingserum, #lamerinfluencer, #mylooktoday, #fashion"
-  - username: "gabbyrucci"
-    fullname: >-
-      𝑮𝒂𝒃𝒃𝒚 𝑹𝒖𝒄𝒄𝒊 🌵𝑶𝒖𝒓𝒈𝒍𝒂𝒎.𝒄𝒐𝒎
-    location: "Spain"
-    followers: 17539
-    engagement: 409
-    commentsToLikes: 0.183904
-    id: ck5ztj8yx0ioi0i14y42m29t7
-    verified: false
-    hashtags: "#lips, #beautiful, #quotesenespa, #positive"
+    hashtags: "#skincare, #skintreatment, #gelatto, #tiedye"
 ---

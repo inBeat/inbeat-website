@@ -1,107 +1,107 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In South Korea In 2020
 description: >-
-  Find top outdoors Instagram influencers in South Korea in 2020. Most popular hashtags: #outdoor #gopro #ad #lifestyle.
+  Find top outdoors Instagram influencers in South Korea in 2020. Most popular hashtags: #outdoors #sunset #travel #ad.
 platform: Instagram
 profiles:
   - username: "leessssseul"
     fullname: >-
       Seulgi Lee
     location: "South Korea"
-    followers: 13219
-    engagement: 1087
-    commentsToLikes: 0.039298
+    followers: 14124
+    engagement: 1152
+    commentsToLikes: 0.035551
     id: ck5zybynu9lsh0i14774sssfz
     verified: false
-    hashtags: "#shift, #outdoorsis, #outdoorlife, #ad"
-  - username: "alegre.pic"
-    fullname: >-
-      알레그레Pic📸
-    location: "South Korea"
-    followers: 3258
-    engagement: 1331
-    commentsToLikes: 0.045770
-    id: ck5zybye79lr80i14j9u5k648
-    verified: false
-    hashtags: "#2020mountain, #gtx, #milletkorea, #bac"
-  - username: "sy__nini"
-    fullname: >-
-      ⛰
-    location: "South Korea"
-    followers: 11811
-    engagement: 1360
-    commentsToLikes: 0.032446
-    id: ck5zybxfi9loq0i143ylg115r
-    verified: false
-    hashtags: "#jeju, #lifestyle, #bodyscrub, #100"
-  - username: "totoolike"
-    fullname: >-
-      러닝전도사 안정은 🇰🇷
-    location: "South Korea"
-    followers: 70776
-    engagement: 261
-    commentsToLikes: 0.058461
-    id: ck5hpz9mas80k0i11d2b89ar2
-    verified: true
-    hashtags: "#goout, #bostonmarathon, #chicagomarathon, #runderlust"
+    hashtags: "#gramicciwomen, #pixaloop, #suv, #bigwavecollective"
   - username: "dear.yc"
     fullname: >-
       ¨̮ YAU MANDY 邱晴
     location: "South Korea"
-    followers: 28695
-    engagement: 463
-    commentsToLikes: 0.025863
+    followers: 30225
+    engagement: 487
+    commentsToLikes: 0.025833
     id: ck5pzv1h12w0f0i11j4gis8if
     verified: false
-    hashtags: "#ig, #lastyear, #flowers, #diary"
-  - username: "chloe19890309"
+    hashtags: "#trekking, #positivitychallenge, #mountain, #sunset"
+  - username: "noealz"
     fullname: >-
-      Chloe
+      Anime / Manga / Art
     location: "South Korea"
-    followers: 6400
-    engagement: 770
-    commentsToLikes: 0.017336
-    id: ck5zybll79l350i149867uw00
+    followers: 9795
+    engagement: 1032
+    commentsToLikes: 0.011913
+    id: ck0u6752912k20i193dvgx1me
     verified: false
-    hashtags: "#blackyak, #outdoors, #blackyak, #backpacking"
-  - username: "seoul_boiii"
+    hashtags: "#irphotography, #cottoncandy, #tumblr, #pastelgrunge"
+  - username: "hanna.co.kr"
     fullname: >-
-      116k | Seoul Boys 🔥
+      Hanna Kim 김한나
     location: "South Korea"
-    followers: 117647
-    engagement: 340
-    commentsToLikes: 0.020998
-    id: ck6tuy7egj3ot0j71mirgly4d
+    followers: 18262
+    engagement: 303
+    commentsToLikes: 0.018796
+    id: ck5zm77ftm18b0i145hym7m16
     verified: false
-    hashtags: "#stayathome, #koreanfood, #lifestyle, #jungkook"
-  - username: "myeonghoseo"
+    hashtags: "#instapet, #outdoors, #views, #livinglife"
+  - username: "younggun_llama"
     fullname: >-
-      Myeongho Seo
+      프리다이빙 강사 이영건
     location: "South Korea"
-    followers: 17763
-    engagement: 559
-    commentsToLikes: 0.019581
-    id: ck5byzhsuq5i60i11b4mq1gd3
+    followers: 5445
+    engagement: 861
+    commentsToLikes: 0.035687
+    id: ck9wd0dpmdhhd0j783cns9pqe
     verified: false
-    hashtags: "#penguin, #wildlife, #covid, #antarcticadventure"
-  - username: "moonchanigraphy"
+    hashtags: "#freedive, #swim, #patagonia, #diving"
+  - username: "healing.jin"
     fullname: >-
-      ᴍᴏᴏɴᴄʜᴀɴɪɢʀᴀᴘʜʏ
+      오세진 Sarah Oh
     location: "South Korea"
-    followers: 5433
-    engagement: 502
-    commentsToLikes: 0.048594
-    id: ck5c4wvpp2a970i11lgo6slwq
+    followers: 11883
+    engagement: 957
+    commentsToLikes: 0.031886
+    id: ck5zybzlq9luh0i144csr3h9y
     verified: false
-    hashtags: "#slalom, #climbing, #quarantinelife, #nyepiday"
-  - username: "gold.shin"
+    hashtags: "#outdoor, #withfriends, #running, #trailrunning"
+  - username: "peach2gold"
     fullname: >-
-      Gold.Shin
+      이장군
     location: "South Korea"
-    followers: 6409
-    engagement: 817
-    commentsToLikes: 0.035619
-    id: ck5hnslsyobkr0i11wuj744ct
+    followers: 24844
+    engagement: 1247
+    commentsToLikes: 0.021724
+    id: ckap7osmokws00i78vtitz19e
     verified: false
-    hashtags: "#bornfire, #camp, #outdoorslife, #gooutside"
+    hashtags: "#sunset, #happy, #doggy, #ad"
+  - username: "double_dragon_"
+    fullname: >-
+      용용이
+    location: "South Korea"
+    followers: 19193
+    engagement: 464
+    commentsToLikes: 0.057012
+    id: ck0ub1z4idk120i19taoxyfns
+    verified: false
+    hashtags: "#loscabos, #ad, #saipan, #k2"
+  - username: "rirang_onair"
+    fullname: >-
+      Rirang_onair
+    location: "South Korea"
+    followers: 5155
+    engagement: 1311
+    commentsToLikes: 0.038981
+    id: ck5zyc1o39lyu0i145wa9ue4r
+    verified: false
+    hashtags: "#campingfood, #youtuber, #campingtrip, #goprokr"
+  - username: "solshine_y_mama"
+    fullname: >-
+      Sol & Mamá(Sara)
+    location: "South Korea"
+    followers: 7966
+    engagement: 450
+    commentsToLikes: 0.231108
+    id: ck6u6ehumf4u10j71c8olyd7v
+    verified: false
+    hashtags: "#outdoorfamily, #instamama, #bangsambassador, #bangsshoes"
 ---

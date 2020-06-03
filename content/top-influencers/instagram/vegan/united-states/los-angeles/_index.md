@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top vegan Instagram influencers in Los Angeles in 2020. Most popular hashtags: #vegan #losangeles #plantbased #veganfood.
+  Find top vegan Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #vegan #healthyeats #dtla.
 platform: Instagram
 profiles:
-  - username: "natalie_aley"
+  - username: "healthyvegancuisine"
     fullname: >-
-      natalie_aley
+      HEALTHY VEGAN CUISINE
     location: "United States"
-    followers: 185381
-    engagement: 107
-    commentsToLikes: 0.030034
-    id: ck55m16ds2xw70i11thewkwy2
+    followers: 297881
+    engagement: 70
+    commentsToLikes: 0.015635
+    id: ck5q7rdj92s3n0i1168pa5rn2
     verified: false
-    hashtags: "#foodporn, #runyoncanyon, #brazil, #happyvalentinesday"
-  - username: "erin_micklow"
+    hashtags: "#veganheroes, #easydinner, #whatveganscook, #pastalover"
+  - username: "devynhoward"
     fullname: >-
-      Erin Micklow
+      Devyn Howard
     location: "United States"
-    followers: 110177
-    engagement: 193
-    commentsToLikes: 0.036469
-    id: ck138k2fwglzs0i19u44fj8kx
-    verified: true
-    hashtags: "#musicshow, #vintagefashion, #radiantinc, #biffsmith"
-  - username: "triciaxpain"
-    fullname: >-
-      💖Tricia Pain💚Is My Real Name👽
-    location: "United States"
-    followers: 21935
-    engagement: 312
-    commentsToLikes: 0.051276
-    id: ck5q88zsl50ua0i11u9tu52s9
+    followers: 19770
+    engagement: 1141
+    commentsToLikes: 0.066723
+    id: ck9wdmqi0gdro0j784bibmwr8
     verified: false
-    hashtags: "#bearwitness, #veggiegrill, #bts, #vegan"
-  - username: "sameera__rock"
+    hashtags: "#quarantinelife, #collagenpowder, #amazinggrass, #dreamkitchen"
+  - username: "lifewitherns"
     fullname: >-
-      🌱Foodie, Actress, & Traveler
+      Content Creator | Artist
     location: "United States"
-    followers: 7196
-    engagement: 658
-    commentsToLikes: 0.014077
-    id: ck5hcs4f2jotd0i11km959fxn
+    followers: 6483
+    engagement: 327
+    commentsToLikes: 0.322872
+    id: ck6u2kfyesbm40j71oz4fn07g
     verified: false
-    hashtags: "#ishiharasangyokaisha, #makeawish, #japanesespaexperience, #mybabypudding"
+    hashtags: "#coffee, #spagetti, #foodphotography, #pasta"
   - username: "djmikesincere"
     fullname: >-
-      Mike Sincere 💜💛🌱
+      Mike Sincere 🌱Plant-based Papi
     location: "United States"
-    followers: 41995
-    engagement: 112
-    commentsToLikes: 0.105852
+    followers: 41429
+    engagement: 105
+    commentsToLikes: 0.118316
     id: ck0w0sxcafvjo0i19qsi3o6qz
     verified: false
-    hashtags: "#lavibes, #glutenfreelifestyle, #vegans, #lapartyplanner"
-  - username: "be_leaf_vegan"
+    hashtags: "#tacotuesday, #boxingworkout, #gardeneramovement, #linkinbio"
+  - username: "jess.starwood"
     fullname: >-
-      Be Leaf
+      
     location: "United States"
-    followers: 22059
-    engagement: 157
-    commentsToLikes: 0.022439
-    id: ck5zjaegch8nq0i14ar7qwyc1
+    followers: 8119
+    engagement: 525
+    commentsToLikes: 0.037065
+    id: ck5zkosuljvo00i14jz1f2nru
     verified: false
-    hashtags: "#foodie, #veganfoodlovers, #vegantravel, #veganfoodspot"
-  - username: "officialkellyrocklein"
+    hashtags: "#foray, #desertfoods, #conejovalley, #getoutside"
+  - username: "hannahforcier"
     fullname: >-
-      K E L L Y • R O C K L E I N
+      Hannah Forcier
     location: "United States"
-    followers: 66806
-    engagement: 582
-    commentsToLikes: 0.006085
-    id: ck6tp4of3htd90j71rr7kkuqp
-    verified: false
-    hashtags: "#21, #getyourlullon, #fitnessforeveryroutine, #30dfchallenge"
-  - username: "lizostyle"
+    followers: 43757
+    engagement: 414
+    commentsToLikes: 0.067920
+    id: ck6tryl0u1ti30j71qgn0a9vu
+    verified: true
+    hashtags: "#almostextinct, #tagafriend"
+  - username: "laurennikohl"
     fullname: >-
-      ℝ 𝕠 𝕤 𝕖  𝔽 𝕖 𝕣 𝕣 𝕖 𝕚 𝕣 𝕒 🌹
+      Lauren Nikohl
     location: "United States"
-    followers: 104137
-    engagement: 102
-    commentsToLikes: 0.030176
-    id: ck6tou7spg4zc0j71tk0kxdun
+    followers: 18306
+    engagement: 291
+    commentsToLikes: 0.122275
+    id: ck5zilha2fxo60i14z4zvdhwt
     verified: false
-    hashtags: "#workingfromhome, #stayhome, #motivationmonday, #smudge"
-  - username: "firstdateguide"
+    hashtags: "#worthit"
+  - username: "esthyofficial"
     fullname: >-
-      Los Angeles First Date Guide
+      Esthy
     location: "United States"
-    followers: 43536
-    engagement: 1663
-    commentsToLikes: 0.026988
-    id: ck0tvl8pabu6t0i197cttw5c2
+    followers: 25817
+    engagement: 145
+    commentsToLikes: 0.122091
+    id: ck5zvmded4i8z0i14mw45zi5m
     verified: false
-    hashtags: "#tacos, #tiktokfoodies, #foodporn, #panini"
-  - username: "ginacastellanos_"
+    hashtags: "#girl, #selfishcover, #breakup, #90saesthetic"
+  - username: "notkitmercer"
     fullname: >-
-      Gina Castellanos
+      Kit Mercer
     location: "United States"
-    followers: 49123
-    engagement: 126
-    commentsToLikes: 0.021968
-    id: ck15sfhrccr3s0i19muqa85sj
+    followers: 88561
+    engagement: 238
+    commentsToLikes: 0.036296
+    id: ck5zwm7mg6dfq0i14q35brhif
     verified: false
-    hashtags: "#greenongreen, #cuidadopersonal, #selfcare, #todonatural"
+    hashtags: "#420, #pinkmoon, #bts"
+  - username: "ralf.moeller"
+    fullname: >-
+      Ralf Moeller
+    location: "United States"
+    followers: 65616
+    engagement: 317
+    commentsToLikes: 0.050518
+    id: ck0u9gtkz9ryf0i19a4rarzcg
+    verified: true
+    hashtags: "#joker, #losangeles, #stefanraab, #vegan"
 ---

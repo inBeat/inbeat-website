@@ -1,69 +1,79 @@
 ---
 title: Top 10 Christian Instagram Influencers In Berlin In 2020
 description: >-
-  Find top christian Instagram influencers in Berlin in 2020. Most popular hashtags: #corona #happy #berlin #loveit.
+  Find top christian Instagram influencers in Berlin in 2020. Most popular hashtags: #zdf #portrait #berlin #brownhair.
 platform: Instagram
 profiles:
+  - username: "olgamaria_veide"
+    fullname: >-
+      Olga-Maria Veide
+    location: "Germany"
+    followers: 59736
+    engagement: 208
+    commentsToLikes: 0.039119
+    id: ck55lafph150t0i1143cgceoa
+    verified: false
+    hashtags: "#herlev, #primestudio, #vienna"
   - username: "marinajacb"
     fullname: >-
-      M A R I N A ☀️ 24
+      M A R I N A ☀️ 25
     location: "Germany"
-    followers: 4964
-    engagement: 835
-    commentsToLikes: 0.045346
+    followers: 5103
+    engagement: 857
+    commentsToLikes: 0.043495
     id: ck0vx3cagwxgy0i19s9p095w9
     verified: false
-    hashtags: "#beachlife, #snowwhite, #mondaymotivation, #garmincoach"
+    hashtags: "#morningrun, #life, #loveit, #runningpics"
   - username: "vonguteneltern"
     fullname: >-
       Von guten Eltern
     location: "Germany"
-    followers: 23003
-    engagement: 257
-    commentsToLikes: 0.050402
+    followers: 23721
+    engagement: 305
+    commentsToLikes: 0.044071
     id: ck5zkwmitkase0i142otqr8xu
     verified: false
-    hashtags: "#supportlocalbusiness, #allbymyself, #wochenbett, #geburtsvorbereitung"
+    hashtags: "#budenkoller, #lastenrad, #fernweh, #soon"
   - username: "christianlindner"
     fullname: >-
       Christian Lindner
     location: "Germany"
-    followers: 161118
-    engagement: 219
-    commentsToLikes: 0.023582
+    followers: 164459
+    engagement: 281
+    commentsToLikes: 0.043583
     id: ck0twafkcemez0i19ne6t0j6h
     verified: true
-    hashtags: "#italien, #eu, #steuern, #passtaufeuchauf"
+    hashtags: "#investitionen, #berlin, #coronaeltern, #eu"
+  - username: "thestyleograph"
+    fullname: >-
+      The Styleograph
+    location: "Germany"
+    followers: 434428
+    engagement: 101
+    commentsToLikes: 0.005171
+    id: ck0tw6mg5e9160i19ofdeqq1i
+    verified: false
+    hashtags: "#oliviapalermo, #gildaambrosio, #chloeharrouche, #emilisindlev"
   - username: "rick.okon"
     fullname: >-
       Rick Okon
     location: "Germany"
-    followers: 14138
-    engagement: 1502
-    commentsToLikes: 0.029364
+    followers: 14892
+    engagement: 1535
+    commentsToLikes: 0.029463
     id: ck0vy48l525xe0i19b7bofu62
     verified: false
-    hashtags: "#skyserie, #skyseries, #miniseries, #firstrecord"
-  - username: "veit_kazimiersch"
-    fullname: >-
-      veit kazimiersch
-    location: "Germany"
-    followers: 11320
-    engagement: 1021
-    commentsToLikes: 0.053802
-    id: ck8t32ngj1m430j78nc75o8id
-    verified: false
-    hashtags: "#pikefishing, #camotackle, #keitechlures, #stradicfl"
+    hashtags: "#verysoon, #originalfassungindermediathek, #kaleuhoffmann, #sky"
   - username: "andreaspietschmann"
     fullname: >-
       Andreas Pietschmann
     location: "Germany"
-    followers: 95785
-    engagement: 1868
-    commentsToLikes: 0.011637
+    followers: 121807
+    engagement: 1661
+    commentsToLikes: 0.011978
     id: ck5q46ogdnznf0i116cnb37gy
     verified: true
-    hashtags: "#zdf, #herrundfraubulle, #johannvonbuelow, #season1"
+    hashtags: "#jerks2, #crime, #herrundfraubulle, #season3"
   - username: "mi_lkaaa"
     fullname: >-
       Milka - KK
@@ -73,35 +83,25 @@ profiles:
     commentsToLikes: 0.051123
     id: ck5zriiykwnb20i149xrf8t6a
     verified: false
-    hashtags: "#sommersprossen, #happyme, #lovemylife, #blaueaugen"
-  - username: "birthe_wolter"
+    hashtags: "#lights, #leatherjacket, #piercedgirl, #blondehair"
+  - username: "sonialyson"
     fullname: >-
-      Birthe Wolter
+      Sonia Lyson
     location: "Germany"
-    followers: 9196
-    engagement: 566
-    commentsToLikes: 0.059893
-    id: ck5bvl2b1jvf00i11p9ydtbfy
-    verified: false
-    hashtags: "#hello2020, #bibi, #lassie, #electra"
-  - username: "malla71"
-    fullname: >-
-      Marcel Müller
-    location: "Germany"
-    followers: 6248
-    engagement: 1657
-    commentsToLikes: 0.029218
-    id: ck6twpaj1tbd20j71swtq80w3
+    followers: 251747
+    engagement: 145
+    commentsToLikes: 0.046345
+    id: ck0ty85ctlvb90i19g6gj5ych
     verified: true
-    hashtags: "#jahre, #proud, #dr, #stay"
-  - username: "clmfub"
+    hashtags: "#doglover, #chanelbeauty, #homeoffice, #chanel"
+  - username: "christiantorez"
     fullname: >-
-      Clmfub
+      CHRISTIAN TOREZ MAKEUPARTIST
     location: "Germany"
-    followers: 3905
-    engagement: 2367
-    commentsToLikes: 0.158584
-    id: ck6u986zzw23u0j716mtzf64l
-    verified: false
-    hashtags: "#darkmobs, #streetshared, #visualambassadors, #sigma"
+    followers: 46445
+    engagement: 355
+    commentsToLikes: 0.022765
+    id: ckap02kf5ofot0i78zfx4i0y0
+    verified: true
+    hashtags: "#drugstore, #gloss, #portraitphotography, #drogeriemakeup"
 ---

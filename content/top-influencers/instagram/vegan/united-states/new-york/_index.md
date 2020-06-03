@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In New York In 2020
 description: >-
-  Find top vegan Instagram influencers in New York in 2020. Most popular hashtags: #vegan #plantbased #veganaf #veganfoodie.
+  Find top vegan Instagram influencers in New York in 2020. Most popular hashtags: #vegan #newyork #veganfoodporn #glutenfree.
 platform: Instagram
 profiles:
-  - username: "veganfoodcrazy"
+  - username: "mrstarcity"
     fullname: >-
-      Joan | Vegan since 6/5/17🌱🌱
+      Mr. StarCity
     location: "United States"
-    followers: 5347
-    engagement: 1116
-    commentsToLikes: 0.066270
-    id: ck6ug6i0q170l0j71ij44cbhp
+    followers: 17846
+    engagement: 1240
+    commentsToLikes: 0.112271
+    id: ck15twtywkb1d0i192ur5ta3w
     verified: false
-    hashtags: "#buddhabowls, #feastyoureyes, #vegetarianfood, #veganmom"
-  - username: "maite.mua"
-    fullname: >-
-      M Λ I T E
-    location: "United States"
-    followers: 10395
-    engagement: 607
-    commentsToLikes: 0.087194
-    id: ck6tlqbhr6g2w0j718ihaldtp
-    verified: false
-    hashtags: "#makeupartist, #bklynmua, #plouise, #veganmakeup"
-  - username: "theblondetravelsx0"
-    fullname: >-
-      JAMIE RIVERO  | Philly Blogger
-    location: "United States"
-    followers: 20486
-    engagement: 264
-    commentsToLikes: 0.175851
-    id: ck6tvd4a1ljt30j71pwjlidnd
-    verified: false
-    hashtags: "#maldives, #lightstim, #haircare, #freshrose"
+    hashtags: "#bestnyaccent, #alkaline, #johnnydepp, #newyork"
   - username: "veganbutshethick"
     fullname: >-
       VBST
     location: "United States"
-    followers: 11558
-    engagement: 860
-    commentsToLikes: 0.015285
+    followers: 12549
+    engagement: 806
+    commentsToLikes: 0.014076
     id: ck0udl2qmjfgg0i19ria0uveh
     verified: false
-    hashtags: "#vegan, #veganfood, #vegetarian, #vegannycfood"
-  - username: "theveganbuzz"
+    hashtags: "#crueltyfreefood, #vegannewyork, #vegannyc, #vegannycfood"
+  - username: "naturalveganguy"
     fullname: >-
-      theveganbuzz
+      NATURAL VEGAN GUY
     location: "United States"
-    followers: 89991
-    engagement: 357
-    commentsToLikes: 0.009630
-    id: ck0ue1vdfkaye0i19546jaz3w
+    followers: 29946
+    engagement: 73
+    commentsToLikes: 0.035274
+    id: ck135f8s314dk0i19wrv9y7om
     verified: false
-    hashtags: "#veganbowls, #vegetarianrecipes, #veganized, #lovefood"
-  - username: "roydomlucian"
+    hashtags: "#vegansweets, #nicecreambowl, #veganuary, #vegancookiedough"
+  - username: "len_goldberg"
     fullname: >-
-      Roydom Lucian
+      Len
     location: "United States"
-    followers: 26118
-    engagement: 133
-    commentsToLikes: 0.044069
-    id: ck15r98rb6s5m0i19r3pul0l9
+    followers: 5591
+    engagement: 812
+    commentsToLikes: 0.081688
+    id: ck137dq7zb16p0i190rz3ze22
     verified: false
-    hashtags: "#18, #vegan, #vegansnacks, #wearmepro"
-  - username: "chefscotleyinnis"
+    hashtags: "#celebrityblogger, #celine, #veganindianfood, #crueltyfreefood"
+  - username: "officialdarrylreed"
     fullname: >-
-      Scotley Innis
+      Official Darryl Reed
     location: "United States"
-    followers: 7451
-    engagement: 684
-    commentsToLikes: 0.126464
-    id: ck5btwy95gr620i11xhr1lwbx
+    followers: 23814
+    engagement: 328
+    commentsToLikes: 0.065059
+    id: ck5hk06f0hk4x0i11codhncc1
     verified: false
-    hashtags: "#jamaicancuisineelevated, #scotchyardjerkseries, #forbes, #eater"
+    hashtags: "#healthylifestyle, #ihadtospeakonit, #weallwegot, #baybizness"
   - username: "arunnersappetite"
     fullname: >-
       Sabrina Herrmann
     location: "United States"
-    followers: 31480
-    engagement: 549
-    commentsToLikes: 0.054715
+    followers: 30756
+    engagement: 569
+    commentsToLikes: 0.056083
     id: ck0w2yja3qqtb0i199bh1ef4c
     verified: false
     hashtags: ""
-  - username: "cenzol"
+  - username: "hannahcmilman"
     fullname: >-
-      CENZOL
+      Hannah Milman
     location: "United States"
-    followers: 90607
-    engagement: 150
-    commentsToLikes: 0.015130
-    id: ck5cjrc4tvbzx0i11dfj4frnh
+    followers: 3430
+    engagement: 865
+    commentsToLikes: 0.090122
+    id: ck6txyv0g0nk60j71j2t636lw
     verified: false
-    hashtags: "#rip, #wolford, #wce, #holidays"
+    hashtags: "#shellcraft, #eastereggs, #localeconomy, #film"
+  - username: "jezzhill"
+    fullname: >-
+      Jezz Hill
+    location: "United States"
+    followers: 15164
+    engagement: 343
+    commentsToLikes: 0.094220
+    id: ckaor8xuom8eh0i781be3vqao
+    verified: false
+    hashtags: "#selfportrait, #quarentineseries, #closeup, #unpublished"
   - username: "_jdodson"
     fullname: >-
       Jeremy Dodson
     location: "United States"
-    followers: 17557
-    engagement: 281
-    commentsToLikes: 0.009858
+    followers: 17665
+    engagement: 303
+    commentsToLikes: 0.010440
     id: ck0u0dbqmtf830i19v0kpippt
     verified: true
-    hashtags: "#healthylifestyle, #actionshot, #mentalhealth, #health"
+    hashtags: "#fear, #bfrbands, #fitinspo, #wisdomwednesday"
+  - username: "eatsconnoisseur"
+    fullname: >-
+      Eats Connoisseur
+    location: "United States"
+    followers: 126822
+    engagement: 194
+    commentsToLikes: 0.020071
+    id: ck5cew4agltuq0i11cnul9dhk
+    verified: false
+    hashtags: "#calorieburn, #food52grams, #thenewhealthy, #superbowl"
 ---

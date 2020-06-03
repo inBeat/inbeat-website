@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Philadelphia In 2020
 description: >-
-  Find top beauty Instagram influencers in Philadelphia in 2020. Most popular hashtags: #philadelphia #beauty #philly #fashion.
+  Find top beauty Instagram influencers in Philadelphia in 2020. Most popular hashtags: #beauty #philadelphia #beautytips #spring.
 platform: Instagram
 profiles:
+  - username: "thestyle_train"
+    fullname: >-
+      THE STYLE TRAIN
+    location: "United States"
+    followers: 15820
+    engagement: 184
+    commentsToLikes: 0.199356
+    id: ck8svq2rpcart0j78dn73rzv4
+    verified: false
+    hashtags: "#models, #menshaircuts, #colors, #timeless"
+  - username: "thegordinier"
+    fullname: >-
+      Jeff Gordinier
+    location: "United States"
+    followers: 37603
+    engagement: 122
+    commentsToLikes: 0.045024
+    id: ck0ttsdi544dn0i19mjhp40yn
+    verified: true
+    hashtags: "#oysters, #orange, #winebar, #fluke"
+  - username: "florists_review"
+    fullname: >-
+      Florists' Review
+    location: "United States"
+    followers: 47592
+    engagement: 181
+    commentsToLikes: 0.021318
+    id: ck5hd02d9ksvu0i11wvg2f4hi
+    verified: false
+    hashtags: "#farmbouquet, #pennsylvaniaflorist, #slowflowers, #normanok"
   - username: "tiannarogersofficial"
     fullname: >-
       Tianna Rogers “Titi” 😘
     location: "United States"
-    followers: 40652
-    engagement: 299
-    commentsToLikes: 0.067836
+    followers: 40961
+    engagement: 337
+    commentsToLikes: 0.066013
     id: ck6tm1219700o0j71v8pfy0ov
     verified: false
-    hashtags: "#model, #philly, #philadelphiacityhall, #nyfw"
-  - username: "stanleyclarke"
+    hashtags: "#happyvalentinesday, #philadelphia, #phillyfashionweek, #beauty"
+  - username: "chaa_chee"
     fullname: >-
-      Stanley Clarke
+      A S H L E Y
     location: "United States"
-    followers: 28380
-    engagement: 394
-    commentsToLikes: 0.025626
-    id: ck5c5008t2gk10i11cld80huf
+    followers: 5600
+    engagement: 610
+    commentsToLikes: 0.071100
+    id: ckap3na5n3q0j0i78gnqtpra4
     verified: false
-    hashtags: "#stanleyclarkeband, #musician, #livemusic, #thelyrisquartet"
-  - username: "dougspearman"
+    hashtags: "#workfromhome, #quarantine"
+  - username: "priscilla_frederick"
     fullname: >-
-      Doug Spearman
+      Priscilla Loomis OLY
     location: "United States"
-    followers: 6375
-    engagement: 451
-    commentsToLikes: 0.060380
-    id: ck5q9l74mbnwv0i112nt6zkxt
-    verified: false
-    hashtags: "#foundobjects, #artistandwriter, #moviestar, #handsome"
-  - username: "bunch.ofbs"
+    followers: 11662
+    engagement: 143
+    commentsToLikes: 0.020318
+    id: ck137dgehazto0i19ddmntkyg
+    verified: true
+    hashtags: "#shorelife, #church, #lipstick, #eyelashes"
+  - username: "xxgreenlighthousexx"
     fullname: >-
-      Becca Scholes I Bunch of BS
+      Ian Jansen
     location: "United States"
-    followers: 10407
-    engagement: 700
-    commentsToLikes: 0.163115
-    id: ck5hn3o7an5830i113z3lyblr
+    followers: 52059
+    engagement: 553
+    commentsToLikes: 0.008994
+    id: ck8sxg6p6h9yg0j78voc2wsd7
     verified: false
-    hashtags: "#sponsored, #fabletics, #affordablefashion, #targetstyle"
-  - username: "jacklyn.gerace"
-    fullname: >-
-      Three Sisters One Closet
-    location: "United States"
-    followers: 16784
-    engagement: 262
-    commentsToLikes: 0.025198
-    id: ck0ttgi0j2m6q0i19290wan9u
-    verified: false
-    hashtags: "#philadelphia, #nationalmargaritaday, #aceandcru, #eyebrowlamination"
-  - username: "vivvvalencia"
-    fullname: >-
-      viviana valencia
-    location: "United States"
-    followers: 39952
-    engagement: 578
-    commentsToLikes: 0.011634
-    id: ck6tvp51snh430j71liiwjm9f
-    verified: false
-    hashtags: "#abh, #lagirlcosmetics, #norvinavol3, #lagirl"
+    hashtags: "#fitgirl, #kendrick, #portraitdrawing, #cosplay"
   - username: "jordynhnasko"
     fullname: >-
       Jordyn Hnasko
     location: "United States"
-    followers: 11639
-    engagement: 333
-    commentsToLikes: 0.048327
+    followers: 11724
+    engagement: 443
+    commentsToLikes: 0.055772
     id: ck5c989o6aymc0i1185gdw9rg
     verified: false
-    hashtags: "#summer, #jordynhnasko, #fitness, #confidence"
-  - username: "philly.dentist"
+    hashtags: "#weekendplans, #blogpost, #fridayvibes, #pajamasallday"
+  - username: "justinjamesmuir"
     fullname: >-
-      Dr. Kunal Parikh ✪
+      Justin James Muir
     location: "United States"
-    followers: 34239
-    engagement: 244
-    commentsToLikes: 0.130601
-    id: ck5zv9kdt3te50i14wtjanf7f
+    followers: 11963
+    engagement: 512
+    commentsToLikes: 0.031952
+    id: ck5zikz9hfwpz0i144spcp7wt
     verified: false
-    hashtags: "#rocnation, #phillies, #livelifenice, #brasil"
-  - username: "styleqhair"
+    hashtags: "#lokalbronko, #anatomyofanimage"
+  - username: "jasicamille_"
     fullname: >-
-      Style Q  Hair
+      Motherhood Lifestyle Fashion
     location: "United States"
-    followers: 54639
-    engagement: 120
-    commentsToLikes: 0.028566
-    id: ck14gtmml6ys70i19ubx43uzx
+    followers: 3992
+    engagement: 1305
+    commentsToLikes: 0.178291
+    id: ck9wfb52vo29e0j78xbwa2mtm
     verified: false
-    hashtags: "#detroithairstylist, #atlantahairstylist, #shorthair, #shorthairstyle"
-  - username: "coffeestainedlace"
-    fullname: >-
-      Sydney Paige
-    location: "United States"
-    followers: 7464
-    engagement: 597
-    commentsToLikes: 0.079871
-    id: ck6uefk8yqmaa0j717icpgteo
-    verified: false
-    hashtags: "#blazerstyle, #bridalinspo, #littleblackdress, #boybag"
+    hashtags: "#momguilt, #blackmom, #soontobemommy, #preggers"
 ---

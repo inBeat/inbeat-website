@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Japan In 2020
 description: >-
-  Find top health Instagram influencers in Japan in 2020. Most popular hashtags: #yoga #pr #stayhome #glutenfree.
+  Find top health Instagram influencers in Japan in 2020. Most popular hashtags: #quarantine #staypositive #traveltheworld #goodvibes.
 platform: Instagram
 profiles:
   - username: "xobearhugs"
     fullname: >-
       🐼🌱🌸💕
     location: "Japan"
-    followers: 35480
-    engagement: 702
-    commentsToLikes: 0.089237
+    followers: 78854
+    engagement: 1493
+    commentsToLikes: 0.045870
     id: ck5q69hddwix00i11rfuqbahr
     verified: false
-    hashtags: "#grateful"
-  - username: "kellymisawa"
-    fullname: >-
-      Kelly Misawa | Wellness
-    location: "Japan"
-    followers: 57495
-    engagement: 268
-    commentsToLikes: 0.032510
-    id: ck55n669b5kgr0i112ceoz4ln
-    verified: false
-    hashtags: "#sanairesort, #vitamixjapan, #comingsoon, #happysunday"
-  - username: "ruqayyah_dp"
-    fullname: >-
-      STYLE BY RUQAYYAH
-    location: "Japan"
-    followers: 44569
-    engagement: 221
-    commentsToLikes: 0.034628
-    id: ck8t08bw7r64k0j78k8w1ater
-    verified: false
-    hashtags: "#farhan, #birthdayboy, #marchborn, #birthdaycountdown"
+    hashtags: ""
   - username: "tina.cohen"
     fullname: >-
-      TINA COHEN 🌺 ティナ コーヘン
+      TINA COHEN 🌺
     location: "Japan"
-    followers: 46177
-    engagement: 940
-    commentsToLikes: 0.009869
+    followers: 50160
+    engagement: 993
+    commentsToLikes: 0.009573
     id: ck0u1gvbvwu270i19wgpdj9vm
     verified: false
-    hashtags: "#ad, #bodyglovegirl, #createhappiness, #partner"
+    hashtags: "#chocolatelab, #earthday, #quarantine, #eastwaves"
+  - username: "sweetpea_miki"
+    fullname: >-
+      フォトグラファー Miki❤大阪北摂Sweetpea
+    location: "Japan"
+    followers: 35153
+    engagement: 269
+    commentsToLikes: 0.047534
+    id: ck6tn4c7k93wn0j71adit9dij
+    verified: false
+    hashtags: "#handsapp, #muse, #spout, #osiorganic"
   - username: "baby__lion"
     fullname: >-
       Baby Lion 🦁
     location: "Japan"
-    followers: 22357
-    engagement: 484
-    commentsToLikes: 0.006598
+    followers: 22554
+    engagement: 501
+    commentsToLikes: 0.005943
     id: ck5hdd3b6mrhz0i11ts4pz387
     verified: false
-    hashtags: "#bikikilife, #feelbetter, #smilemore, #catchthelight"
+    hashtags: "#yogagirl, #maldives, #0321, #denimjumpsuit"
+  - username: "at_hif_"
+    fullname: >-
+      athif
+    location: "Japan"
+    followers: 8498
+    engagement: 1600
+    commentsToLikes: 0.020682
+    id: ck9wgmuonu1zy0j78mw2xv9nz
+    verified: false
+    hashtags: "#harley, #drift, #oneplus6t, #dominar400"
+  - username: "noddiction"
+    fullname: >-
+      HEALTHY LIFESTYLE | TRAVEL
+    location: "Japan"
+    followers: 48509
+    engagement: 427
+    commentsToLikes: 0.186579
+    id: ck6tplmp8kkdb0j71x7ekx5jo
+    verified: false
+    hashtags: "#hyattregency, #greenwich, #bienmanger, #mocktail"
+  - username: "risako_yamamoto"
+    fullname: >-
+      Risako Yamamoto
+    location: "Japan"
+    followers: 30068
+    engagement: 185
+    commentsToLikes: 0.013699
+    id: ck5zih3effott0i14z1x5m2x4
+    verified: false
+    hashtags: "#kobe, #detox, #derule, #mynail"
   - username: "codvoid"
     fullname: >-
       mio
     location: "Japan"
-    followers: 10495
-    engagement: 1335
-    commentsToLikes: 0.008707
+    followers: 10442
+    engagement: 1371
+    commentsToLikes: 0.009186
     id: ck6ugjp2y3feg0j7125ecydxe
     verified: false
-    hashtags: "#rapha, #rodebike, #bianchi, #asiangirls"
+    hashtags: "#tripmovie, #sloli, #beautycare, #luna2"
   - username: "balancedlife.n.y"
     fullname: >-
       Nats Y
     location: "Japan"
-    followers: 2440
-    engagement: 1963
-    commentsToLikes: 0.161119
+    followers: 2518
+    engagement: 1909
+    commentsToLikes: 0.190573
     id: ck5higew6ddla0i11lxs1l3pb
     verified: false
-    hashtags: "#kaldi, #oatsbowl, #healthymeal, #feedfeed"
-  - username: "alphonsosharon"
+    hashtags: "#postworkout, #almondbutter, #avocadorose, #kale"
+  - username: "_jadesmeals_"
     fullname: >-
-      Sharon Alphonso
+      Jade 🍓
     location: "Japan"
-    followers: 6179
-    engagement: 412
-    commentsToLikes: 0.066190
-    id: ck8t04d2iqsjx0j780r6iavkm
+    followers: 111482
+    engagement: 144
+    commentsToLikes: 0.043766
+    id: ck0udqmrsjpxh0i193gg6t3b1
     verified: false
-    hashtags: "#popxobeauty, #popxohairacademy, #20ss, #dalgonacoffee"
-  - username: "harukakuriyama"
-    fullname: >-
-      Haruka
-    location: "Japan"
-    followers: 79935
-    engagement: 399
-    commentsToLikes: 0.005189
-    id: ck5zscg5hy8lw0i14bp677239
-    verified: false
-    hashtags: "#stojo, #hoian, #danang, #cinemaheaven"
-  - username: "pepenahn"
-    fullname: >-
-      P E P E
-    location: "Japan"
-    followers: 37664
-    engagement: 227
-    commentsToLikes: 0.009435
-    id: ck8sxm2n1hudc0j782jvzzqv1
-    verified: false
-    hashtags: "#moussysnap, #zara, #setup, #gina"
+    hashtags: "#buffetfood, #loadedpotato, #breakfastinspo, #takeaway"
 ---

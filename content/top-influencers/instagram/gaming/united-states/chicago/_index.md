@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Chicago In 2020
 description: >-
-  Find top gaming Instagram influencers in Chicago in 2020. Most popular hashtags: #chicago #gaming #funny #nintendo.
+  Find top gaming Instagram influencers in Chicago in 2020. Most popular hashtags: #gaming #chicago #gamer #relax.
 platform: Instagram
 profiles:
-  - username: "rogersbase"
+  - username: "crumpitize_me"
     fullname: >-
-      RogersBase
+      Monyett Crump
     location: "United States"
-    followers: 22109
-    engagement: 522
-    commentsToLikes: 0.022273
-    id: ck6uhpc89agli0j71xqfdz8ww
+    followers: 14834
+    engagement: 1520
+    commentsToLikes: 0.030718
+    id: ck9wi0f980a320j78d8nh4233
     verified: false
-    hashtags: "#therealsanji, #mammothboyz, #history, #pokemon"
+    hashtags: "#dancechoreographyscavengerhunt, #startinglineup, #playinside, #playfortheworld"
+  - username: "deathbytoys"
+    fullname: >-
+      Dan Polydoris
+    location: "United States"
+    followers: 75021
+    engagement: 597
+    commentsToLikes: 0.024336
+    id: ck6tp8k54ifl30j71l1r687pb
+    verified: true
+    hashtags: "#jasonalexander, #starwarsmeme, #porouswalker, #slasherfilm"
   - username: "shannonmaer"
     fullname: >-
       Shannon Maer - Artist
     location: "United States"
-    followers: 12945
-    engagement: 891
-    commentsToLikes: 0.018347
+    followers: 13314
+    engagement: 826
+    commentsToLikes: 0.017497
     id: ck135oyig2i950i19mgjnl61x
     verified: false
-    hashtags: "#comics, #gamora, #retailervariant, #niobe"
-  - username: "dachief_official"
+    hashtags: "#blackwidow, #shield, #darkred, #1128"
+  - username: "r4speed"
     fullname: >-
-      Ret. Chief P. Nowakowski
+      | Official Page of R4SPEED |
     location: "United States"
-    followers: 47048
-    engagement: 247
-    commentsToLikes: 0.035524
-    id: ck14k4qxcnpuj0i19drkol7zu
+    followers: 16022
+    engagement: 200
+    commentsToLikes: 0.019743
+    id: ck0u7xkv3620i0i192oygj8w6
     verified: false
-    hashtags: "#bored, #officework, #iam1stphorm, #sanitize"
-  - username: "avoriliz"
+    hashtags: "#fh4drifting, #dodgechallenger, #gtavonline, #speedemon"
+  - username: "fashion.and.spice"
     fullname: >-
-      Avori
+      Peri Ponzio 💓
     location: "United States"
-    followers: 46575
-    engagement: 543
-    commentsToLikes: 0.026530
-    id: ck5zxhu2581do0i14mswh5a9h
+    followers: 51934
+    engagement: 257
+    commentsToLikes: 0.078082
+    id: ck8t4qcj47p1n0j78czyxztzg
     verified: false
-    hashtags: "#fortniteclips, #kleekaisofinstagram, #dogs, #dogslife"
-  - username: "trevor312"
-    fullname: >-
-      Trevor Silver
-    location: "United States"
-    followers: 183384
-    engagement: 272
-    commentsToLikes: 0.000186
-    id: ck13bfhb0v6b20i19owck675w
-    verified: false
-    hashtags: "#koregaonparkpune, #slides, #dell, #hudsonsilver"
+    hashtags: "#water, #makeupartist, #saturdaylife, #target"
   - username: "mrhuluhaslivesports"
     fullname: >-
       Mr. Hulu Has Live Sports
     location: "United States"
-    followers: 18808
-    engagement: 858
-    commentsToLikes: 0.036645
+    followers: 18445
+    engagement: 879
+    commentsToLikes: 0.036715
     id: ck0vw02lxri4p0i19nwnm7ldp
     verified: true
-    hashtags: "#gorams, #gameday, #ncaafootball, #probowl"
-  - username: "the_barbers_son"
-    fullname: >-
-      💈THE_BARBERS_SON💈
-    location: "United States"
-    followers: 17637
-    engagement: 209
-    commentsToLikes: 0.045246
-    id: ck5hrwtpavm4l0i1178rgdj29
-    verified: false
-    hashtags: "#explorepage, #cocacola, #goldfx, #freestyle"
-  - username: "junjdm"
-    fullname: >-
-      Jun 🌀
-    location: "United States"
-    followers: 11839
-    engagement: 507
-    commentsToLikes: 0.034734
-    id: ck6tm9svd7fuv0j71xlmjab0k
-    verified: false
-    hashtags: "#kevindurant, #airmaxday, #airjordan, #skate"
+    hashtags: "#takethatyulelog, #sundayfootball, #ramshouse, #neko"
   - username: "thinairtoday"
     fullname: >-
       Thin Air Today
     location: "United States"
-    followers: 4246
-    engagement: 3454
-    commentsToLikes: 0.030659
+    followers: 4154
+    engagement: 3399
+    commentsToLikes: 0.031494
     id: ck0vyxpxq6atq0i19ga8aiid9
     verified: false
-    hashtags: "#2021, #engineering, #instaaviation, #megaplane"
-  - username: "lothlenan"
+    hashtags: "#jamaicabay, #christmas, #backup, #cleaning"
+  - username: "thereallucasmccoy"
     fullname: >-
-      Lothlenan (Andrea Tamme)
+      James Clarke
     location: "United States"
-    followers: 103341
-    engagement: 510
-    commentsToLikes: 0.008130
-    id: ck1393dvqjbea0i199na850zu
+    followers: 5214
+    engagement: 643
+    commentsToLikes: 0.027278
+    id: ck8t3v21z4lot0j78n15pgee1
+    verified: false
+    hashtags: "#lukeskywalker, #fans, #enfysnest, #western"
+  - username: "tallywood"
+    fullname: >-
+      
+    location: "United States"
+    followers: 127111
+    engagement: 103
+    commentsToLikes: 0.054777
+    id: ck55jyp3ky2ug0i11uagxm2ks
     verified: true
-    hashtags: "#bobsburgers, #lothlenan, #bubbline, #monstersanddames"
+    hashtags: "#blackmamba, #comment, #worldwide, #donuts"
+  - username: "dora_panteli_"
+    fullname: >-
+      Dora Panteli🏀📊🎙🎓🎧✍🏻
+    location: "United States"
+    followers: 45370
+    engagement: 1206
+    commentsToLikes: 0.005976
+    id: ck6tzs586bjfk0j71umrzvv1k
+    verified: true
+    hashtags: "#experts, #bosslady, #instafit, #statedepartment"
 ---

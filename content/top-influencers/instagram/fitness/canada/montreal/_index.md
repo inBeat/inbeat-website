@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Montreal In 2020
 description: >-
-  Find top fitness Instagram influencers in Montreal in 2020. Most popular hashtags: #fitness #happy #montreal #travel.
+  Find top fitness Instagram influencers in Montreal in 2020. Most popular hashtags: #fitness #montreal #sport #yoga.
 platform: Instagram
 profiles:
-  - username: "roballenfitness"
+  - username: "corinnelaframboise"
     fullname: >-
-      Rob Allen | Coach
+      Corinne Laframboise
     location: "Canada"
-    followers: 184128
-    engagement: 106
-    commentsToLikes: 0.015101
-    id: ck0txn7lpjq1y0i19meymsmhh
+    followers: 5745
+    engagement: 564
+    commentsToLikes: 0.057139
+    id: ck6tszr917r670j718v1nbq8n
     verified: false
-    hashtags: "#bodybuildinglife, #creatinemonohydrate, #legexercises, #bodyweightworkouts"
+    hashtags: "#champion, #version2, #quarantine, #confinement"
+  - username: "thechicacademic"
+    fullname: >-
+      Dr. Mary M. | Ottawa 🇨🇦
+    location: "Canada"
+    followers: 18960
+    engagement: 460
+    commentsToLikes: 0.264447
+    id: ck5zv1sil3fqm0i14favxtahy
+    verified: false
+    hashtags: "#thirstythursday, #wineglass, #winepassion, #lessonlearned"
   - username: "tnt__mma"
     fullname: >-
       Nordine taleb
     location: "Canada"
-    followers: 13625
-    engagement: 307
-    commentsToLikes: 0.022437
+    followers: 13680
+    engagement: 318
+    commentsToLikes: 0.023968
     id: ck135cmcl0t1q0i19xz5d7f4w
     verified: true
-    hashtags: "#calisthenics, #bjj, #grappling, #fitness"
-  - username: "christopher_the_pig"
+    hashtags: "#baseblocks, #wrestling, #yoga, #fitness"
+  - username: "beautybycarlydara"
     fullname: >-
-      Christopher the Pig
+      Carly Dara 🦋 LIVE GIVEAWAYS 🎉
     location: "Canada"
-    followers: 81458
-    engagement: 346
-    commentsToLikes: 0.017487
-    id: ck135rz2d2xiy0i19q8sd5mum
-    verified: true
-    hashtags: "#oldport, #fairmontlcm, #sundayvibes, #pinkpig"
-  - username: "annita_mompellert"
-    fullname: >-
-      Anne Laura
-    location: "Canada"
-    followers: 54801
-    engagement: 328
-    commentsToLikes: 0.099232
-    id: ck0w0jffuei2p0i19um5n3392
+    followers: 13409
+    engagement: 551
+    commentsToLikes: 0.512203
+    id: ckap3770h1u6z0i78g1580xik
     verified: false
-    hashtags: "#mtlphotography, #mtlfriday, #christiancreative, #styleblogger"
-  - username: "elobouffard"
+    hashtags: "#vitamiccday"
+  - username: "candied_chocolate"
     fullname: >-
-      ELODIE BOUFFARD
+      BRENDA 📍Montreal 🇨🇦
     location: "Canada"
-    followers: 40456
-    engagement: 300
-    commentsToLikes: 0.060868
-    id: ck5cfo2u5nblc0i11husc1kli
+    followers: 31683
+    engagement: 189
+    commentsToLikes: 0.204782
+    id: ck13bs4y0wwou0i19gdpg4i2k
     verified: false
-    hashtags: "#puffyjacket, #loungeunderwear, #thinking, #foodporn"
+    hashtags: "#teepeetent, #momsofinstagram, #momtog, #momtruths"
   - username: "cp0031"
     fullname: >-
       Carey Price
     location: "Canada"
-    followers: 227996
-    engagement: 1274
-    commentsToLikes: 0.009050
+    followers: 231407
+    engagement: 1269
+    commentsToLikes: 0.009125
     id: ck0uabddxbr7c0i19i6r8055r
     verified: true
-    hashtags: "#bellletstalk, #feedkidsnow, #breakfastclubcanada, #allout"
-  - username: "daksthetics"
-    fullname: >-
-      Dakota Unrau
-    location: "Canada"
-    followers: 60902
-    engagement: 283
-    commentsToLikes: 0.038826
-    id: ck5hjxqd9hfmr0i11sgngiw8b
-    verified: false
-    hashtags: "#biceps, #rise, #fitness, #armdayeveryday"
-  - username: "shreddedd_chicken"
-    fullname: >-
-      Ron Lee 🐔🇹🇼🇨🇦
-    location: "Canada"
-    followers: 40252
-    engagement: 388
-    commentsToLikes: 0.026246
-    id: ck8tch1onzg4v0j78ekev62jl
-    verified: false
-    hashtags: "#homeworkouts, #fitnessaddict, #beachlife, #supplement"
+    hashtags: "#allout, #girldad, #bellletstalk, #feedkidsnow"
   - username: "caylinleia"
     fullname: >-
       Caylin Leia
     location: "Canada"
-    followers: 5807
-    engagement: 667
-    commentsToLikes: 0.063893
+    followers: 7404
+    engagement: 1005
+    commentsToLikes: 0.080957
     id: ck8t688fxcml10j78e4g9wkj5
     verified: false
-    hashtags: "#yoga, #travelinspiration, #palazzoducale, #dance"
-  - username: "mouna._b"
+    hashtags: "#worldcircusday, #planche, #deutschland, #visitbavaria"
+  - username: "vinceriendeau"
     fullname: >-
-      𝓜𝓞𝓤𝓝𝓐 🇲🇦🇨🇦
+      Vincent Riendeau
     location: "Canada"
-    followers: 5146
-    engagement: 1287
-    commentsToLikes: 0.072206
-    id: ck0w5kidf43ao0i191q3i4n96
+    followers: 17025
+    engagement: 1115
+    commentsToLikes: 0.010377
+    id: ck6udqdv6mk4e0j71wb856oav
+    verified: true
+    hashtags: "#beach, #studentathelte, #matching, #workout"
+  - username: "mariegabrielle.r"
+    fullname: >-
+      𝓜𝓪𝓻𝓲𝓮-𝓖𝓪𝓫𝓻𝓲𝓮𝓵𝓵𝓮
+    location: "Canada"
+    followers: 39651
+    engagement: 384
+    commentsToLikes: 0.109646
+    id: ckap8djm0nuss0i78ajf2m0sb
     verified: false
-    hashtags: "#happy, #dedication, #dunebuggy, #lantern"
+    hashtags: "#redwhiteandblue, #modellifestyle, #fypage, #niceview"
+  - username: "princess_jade_"
+    fullname: >-
+      Princess Jade
+    location: "Canada"
+    followers: 59371
+    engagement: 133
+    commentsToLikes: 0.038245
+    id: ck5cfcz8gmpjq0i11t1b2jp4s
+    verified: false
+    hashtags: "#stayactive, #thailandtravel, #uluwatu, #sanurhotel"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top gardening Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #gardening #bali #indonesia.
+  Find top gardening Instagram influencers in Indonesia in 2020. Most popular hashtags: #gardening #plants #permaculture #garden.
 platform: Instagram
 profiles:
-  - username: "chloe.kian"
+  - username: "pandasprouts"
     fullname: >-
-      Chloe Kian
+      NEVI | ORGANIC GARDENING
     location: "Indonesia"
-    followers: 58866
-    engagement: 663
-    commentsToLikes: 0.006891
-    id: ck0u8e9ma73fp0i19fbv0gfrj
+    followers: 28193
+    engagement: 111
+    commentsToLikes: 0.038864
+    id: ckaotw7auxryf0i78arfrm6cr
     verified: false
-    hashtags: "#movies, #ethicalswimwear, #ecoresort, #luxuryecoresort"
+    hashtags: "#notagardeningpost"
+  - username: "sheilla_erlangga"
+    fullname: >-
+      Sheilla Erlangga
+    location: "Indonesia"
+    followers: 178600
+    engagement: 161
+    commentsToLikes: 0.118559
+    id: ckap1ahirtqnk0i78khb0lt31
+    verified: false
+    hashtags: "#cake, #cintabudayaindonesia, #gedungkesenianjakarta, #pancasila"
   - username: "ibunia"
     fullname: >-
       Nia Dinata
     location: "Indonesia"
-    followers: 32543
-    engagement: 140
-    commentsToLikes: 0.052311
+    followers: 32763
+    engagement: 136
+    commentsToLikes: 0.051641
     id: ck5q2fea5fr1p0i11b23ombod
     verified: false
-    hashtags: "#nurserydecor, #goplay, #noshower, #explorewashington"
-  - username: "evahorvathofficial"
+    hashtags: "#infusedhoney, #earthday, #beautifulsouls, #miraadalahkita"
+  - username: "eagle_03_adam"
     fullname: >-
-      Horváth Éva
+      Callsign_E03A
     location: "Indonesia"
-    followers: 158030
-    engagement: 169
-    commentsToLikes: 0.020499
-    id: ck5zo6sw1pvzs0i14gbrze6ss
-    verified: true
-    hashtags: "#bestplacetogo, #visitbali, #imissingbali, #pampersnapok"
-  - username: "fahriorchid"
-    fullname: >-
-      Fahri Orchid🌱
-    location: "Indonesia"
-    followers: 39901
-    engagement: 156
-    commentsToLikes: 0.022259
-    id: ck13d42nc3kqi0i197bz7ri21
+    followers: 13207
+    engagement: 388
+    commentsToLikes: 0.023291
+    id: ck0tzl3u3qpz80i19ay3go82l
     verified: false
-    hashtags: "#tillandsiaxerographica, #oldfashioned, #grammatophyllumscriptum, #anggrekmerpati"
+    hashtags: "#airsofter, #cryeofficial, #arcteryx, #airlite"
   - username: "thataljundiah"
     fullname: >-
       Qonitah Al Jundiah
     location: "Indonesia"
-    followers: 181765
-    engagement: 79
-    commentsToLikes: 0.005513
+    followers: 188724
+    engagement: 96
+    commentsToLikes: 0.010340
     id: ck8sxh4a4hdfi0j78cgqirie0
     verified: true
-    hashtags: "#ederratalks, #mentalhealthmatters, #toomuchistoomuch, #motherhood"
-  - username: "delavalent"
-    fullname: >-
-      Dela Valentina Karim
-    location: "Indonesia"
-    followers: 31353
-    engagement: 193
-    commentsToLikes: 0.409216
-    id: ck5q85ocr4k9e0i11ftscn7of
-    verified: false
-    hashtags: "#sambal, #instadecor, #terrace, #wallhanging"
+    hashtags: "#darirumah, #ramadan, #toomuchistoomuch, #ederratalks"
   - username: "info.fruits"
     fullname: >-
       BUAH BUAHAN
     location: "Indonesia"
-    followers: 60486
-    engagement: 857
-    commentsToLikes: 0.008333
+    followers: 83279
+    engagement: 830
+    commentsToLikes: 0.007441
     id: ck0w3p416ujo00i19l0aqogla
     verified: false
-    hashtags: "#mulberrystreet, #menanambuah, #hidroponikindonesia, #petanimuda"
-  - username: "deasydei"
+    hashtags: "#hydroponics, #orchid, #growyourown, #harvest"
+  - username: "rawtransitiondiet"
     fullname: >-
-      Deasy Noviyanti
+      Damian Gardynik 🌱
     location: "Indonesia"
-    followers: 36585
-    engagement: 144
-    commentsToLikes: 0.037193
-    id: ck0w46uvkx4240i19c64m63iv
+    followers: 6700
+    engagement: 513
+    commentsToLikes: 0.062691
+    id: ck9wd2bi1dr640j780ut0ekly
     verified: false
-    hashtags: "#staycation, #distance, #covid19, #lemongrass"
-  - username: "baliinteriors"
+    hashtags: "#lockdown, #diversity, #earthday, #plumeria"
+  - username: "fithri.maya"
     fullname: >-
-      BALI INTERIORS
+      Fithrimaya
     location: "Indonesia"
-    followers: 49726
-    engagement: 176
-    commentsToLikes: 0.032404
-    id: ck1347obtv4a70i198g3sfm1b
+    followers: 26550
+    engagement: 84
+    commentsToLikes: 0.045551
+    id: ck5zljhyokx0p0i1424p98x1d
     verified: false
-    hashtags: "#baliadvisor, #homerenovation, #dominomag, #spas"
-  - username: "atiqahhasiholan"
+    hashtags: "#junglehome, #plants, #bougenville, #plant"
+  - username: "zarinkasoiko"
     fullname: >-
-      atiqah hasiholan
+      abstract 💀 reflection 💀 glitch
     location: "Indonesia"
-    followers: 2136171
-    engagement: 76
-    commentsToLikes: 0.004124
-    id: ck6tnso3bahuk0j71bj195yxy
-    verified: true
-    hashtags: "#covid19, #trendingtopic, #videoviral, #beritahariini"
+    followers: 6375
+    engagement: 777
+    commentsToLikes: 0.021509
+    id: ck8sxhchwhecc0j78p57rx2ea
+    verified: false
+    hashtags: "#abstractpainting, #streetartfestival, #fantasy, #arte"
+  - username: "geertruedy"
+    fullname: >-
+      Geertruedy Sabatini
+    location: "Indonesia"
+    followers: 6137
+    engagement: 331
+    commentsToLikes: 0.039723
+    id: ck6ua45lk1dk40j71gv0znpyg
+    verified: false
+    hashtags: "#tanamdirumah, #practicemakespervert, #piano, #permacultureinbali"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Atlanta In 2020
 description: >-
-  Find top food Instagram influencers in Atlanta in 2020. Most popular hashtags: #atlanta #food #photography #atl.
+  Find top food Instagram influencers in Atlanta in 2020. Most popular hashtags: #pasta #tacos #inmanpark #mexicanfood.
 platform: Instagram
 profiles:
-  - username: "chef.jrob"
+  - username: "myculinarytable"
     fullname: >-
-      Justin Robinson
+      Personal Chef Matt • Atlanta
     location: "United States"
-    followers: 11170
-    engagement: 388
-    commentsToLikes: 0.068715
-    id: ck5c5qf7p3yvx0i11mbzkn09b
+    followers: 5500
+    engagement: 601
+    commentsToLikes: 0.086877
+    id: ck5c5p13d3vzn0i119hkjkaxo
     verified: false
-    hashtags: "#drinkdinediscover, #delicious, #covidrecipe, #coconut"
-  - username: "chefgrahamcampbell"
+    hashtags: "#gravy, #myson, #blasianbabyboy, #braised"
+  - username: "foodistagirl"
     fullname: >-
-      Chef Graham Campbell
+      Olivia Arnold | ATL Foodista
     location: "United States"
-    followers: 36990
-    engagement: 124
-    commentsToLikes: 0.028357
-    id: ck55k4vy5ygqa0i11eo8lpaft
+    followers: 68810
+    engagement: 139
+    commentsToLikes: 0.155075
+    id: ck15u87h2lw9u0i19wp34yxqb
+    verified: false
+    hashtags: "#sweethut, #okonomiyaki, #phodailoi, #brunchgoals"
+  - username: "taylorcomedy"
+    fullname: >-
+      Taylor Williamson
+    location: "United States"
+    followers: 33075
+    engagement: 105
+    commentsToLikes: 0.040101
+    id: ck5pyspmixm7m0i119nrpz78j
     verified: true
-    hashtags: "#atlanta, #dinnerevent, #windycity, #unitedstates"
-  - username: "simply.siobhan"
+    hashtags: "#washyourhands, #queen, #wheatthins, #jokes"
+  - username: "atlfoodie"
     fullname: >-
-      Siobhán Alvarez
+      Atlanta Food & Restaurants
     location: "United States"
-    followers: 10546
-    engagement: 521
-    commentsToLikes: 0.101369
-    id: ck14irk8vgvd40i1989c81lgn
+    followers: 25744
+    engagement: 216
+    commentsToLikes: 0.187152
+    id: ck0vw55u7s5gm0i19ur7w7vcr
     verified: false
-    hashtags: "#ltkfamily, #freshfriends, #ltksalealert, #dbtoolkit"
+    hashtags: "#seafoods, #brunchgoals, #castironcooking, #stretchycheese"
+  - username: "roldinginthe_eats"
+    fullname: >-
+      ALEX | Atlanta Food Advocate
+    location: "United States"
+    followers: 4330
+    engagement: 1061
+    commentsToLikes: 0.078912
+    id: ck6u6tfcmhmgh0j71cpxxsfy5
+    verified: false
+    hashtags: "#eastercandy, #nycfood, #neapolitanpizza, #ricenoodles"
+  - username: "itskimb_"
+    fullname: >-
+      Kim B.
+    location: "United States"
+    followers: 24404
+    engagement: 1163
+    commentsToLikes: 0.026644
+    id: ck15sunlwevwp0i19tfi48s7f
+    verified: false
+    hashtags: "#asmroreo, #thickthick, #kingcrab, #pizza"
+  - username: "atlantabestbites"
+    fullname: >-
+      Atlanta’s Best Bites | Sarah
+    location: "United States"
+    followers: 26151
+    engagement: 76
+    commentsToLikes: 0.091254
+    id: ckaoqoiu3jmpu0i78wya0t204
+    verified: false
+    hashtags: "#lowcarblife, #atlantafarmers, #latina, #cheeseboard"
   - username: "atl_foodscene"
     fullname: >-
       ATL Food Scene
     location: "United States"
-    followers: 5162
-    engagement: 634
-    commentsToLikes: 0.024284
+    followers: 5150
+    engagement: 631
+    commentsToLikes: 0.023450
     id: ck13bj35bvnen0i19ek0yq8ic
     verified: false
-    hashtags: "#cookies, #italianfood, #thincrustpizza, #pizza"
-  - username: "atl_bucketlist"
+    hashtags: "#cookies, #bocado, #italiansandwich, #friedcheese"
+  - username: "kiley_love"
     fullname: >-
-      ATL Bucket List | Atlanta
+      Kiley Love
     location: "United States"
-    followers: 227569
-    engagement: 73
-    commentsToLikes: 0.028644
-    id: ck136h3n26gy60i19ft9ger82
+    followers: 11871
+    engagement: 1096
+    commentsToLikes: 0.023722
+    id: ck9hcyd9ingxn0j786r3u0aze
     verified: false
-    hashtags: "#eeeeeats, #eatlocal, #sandysprings, #avocadotoast"
-  - username: "keriannbritt"
+    hashtags: "#atlanta, #christmas, #food, #quarentinebirthday"
+  - username: "kelseymaynor"
     fullname: >-
-      Keri Brittain
+      Kelsey M. Maynor
     location: "United States"
-    followers: 9313
-    engagement: 486
-    commentsToLikes: 0.043695
-    id: ck5zltf06lcmg0i14zjo8jst9
+    followers: 10985
+    engagement: 360
+    commentsToLikes: 0.077177
+    id: ck8sxyojmj4zx0j789iwqxy1v
     verified: false
-    hashtags: "#halfbaked, #sponsoredbyninja, #ninjafoodifamily, #ontheblog"
-  - username: "paulcbuffinc"
-    fullname: >-
-      Paul C. Buff, Inc.
-    location: "United States"
-    followers: 46648
-    engagement: 106
-    commentsToLikes: 0.017339
-    id: ck0tt359y0ycz0i197pkmzn9r
-    verified: false
-    hashtags: "#photographer, #paulcuffinc, #fashion, #cookies"
-  - username: "oseithedarksecret"
-    fullname: >-
-      Osei Kweku
-    location: "United States"
-    followers: 25150
-    engagement: 217
-    commentsToLikes: 0.054652
-    id: ck6tqap2vqcr30j71bb24lq0i
-    verified: false
-    hashtags: "#wakandaforever, #truth, #photography, #pink"
-  - username: "iampersuasian"
-    fullname: >-
-      Iampersuasian
-    location: "United States"
-    followers: 605440
-    engagement: 283
-    commentsToLikes: 0.011936
-    id: ck55mvb1z4wd50i11biurlqlx
-    verified: false
-    hashtags: "#happyhourspecials, #cordells, #concert, #babyali"
-  - username: "iwillnoteatoysters"
-    fullname: >-
-      Danielle Oron
-    location: "United States"
-    followers: 25747
-    engagement: 269
-    commentsToLikes: 0.031573
-    id: ck55j22m5w2lx0i11t9htj6ah
-    verified: false
-    hashtags: "#salad, #food, #eat, #cooking"
+    hashtags: "#juneteenth, #mensfashion, #thewkender, #quarantine"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Rome In 2020
 description: >-
-  Find top health Instagram influencers in Rome in 2020. Most popular hashtags: #italy #iorestoacasa #health #fitness.
+  Find top health Instagram influencers in Rome in 2020. Most popular hashtags: #health #rome #summer #home.
 platform: Instagram
 profiles:
-  - username: "_giadamassara_"
+  - username: "cami_delai"
     fullname: >-
-      Giada Massara
+      Camilla Delai 🌹
     location: "Italy"
-    followers: 26440
-    engagement: 676
-    commentsToLikes: 0.082210
-    id: ck5hr9419uhac0i116ngq4l7x
+    followers: 26688
+    engagement: 191
+    commentsToLikes: 0.029836
+    id: ck600sf29e6ir0i14avcrvrji
     verified: false
-    hashtags: "#nopainnogain, #invidia, #motivations, #positivemind"
-  - username: "angelicaceci95"
+    hashtags: "#wellness, #healthyfood, #instafood, #pastello"
+  - username: "irenardella"
     fullname: >-
-      Angelica 💙
+      🦄 theblondeunicorn®
     location: "Italy"
-    followers: 3037
-    engagement: 3177
-    commentsToLikes: 0.115896
-    id: ck8t5wrudbi500j78diegkd83
+    followers: 17532
+    engagement: 262
+    commentsToLikes: 0.191858
+    id: ck5zzdhfmbj6y0i14xq8scwl0
     verified: false
-    hashtags: "#fititalia, #style, #beauty, #health"
-  - username: "simobernocchi"
+    hashtags: "#jewelry, #watch, #voogue, #experiences"
+  - username: "elenotta_12"
     fullname: >-
-      Simone Bernocchi 🚀
+      Elena Senerchia 🎀 👠👜👗🎀
     location: "Italy"
-    followers: 10012
-    engagement: 537
-    commentsToLikes: 0.010370
-    id: ck0vzmywk9wez0i19qkje3qcs
+    followers: 6033
+    engagement: 400
+    commentsToLikes: 0.037271
+    id: ck8t82z25ix1s0j78atz6l9v7
     verified: false
-    hashtags: "#israelcanoe, #mtblife, #enduro, #plastex"
-  - username: "drmichelepascali"
+    hashtags: "#winter, #uovadipasqua, #photoshoot, #girls"
+  - username: "vilianiliev"
     fullname: >-
-      Dr Michele Pascali
+      Vilian Iliev
     location: "Italy"
-    followers: 21427
-    engagement: 643
-    commentsToLikes: 0.045995
-    id: ck15svh6vf05z0i19hr02h64l
+    followers: 9710
+    engagement: 1637
+    commentsToLikes: 0.066482
+    id: ckap267etxjop0i78q5p7qp6o
     verified: false
-    hashtags: "#nagor, #family, #dolomiti, #rialzatiitalia"
-  - username: "lucybennettmodel"
+    hashtags: "#fullmoon, #buonsabato, #determinant, #igersroma"
+  - username: "vanessacesari"
     fullname: >-
-      Lucy Bennett
+      Vanessa Cesari 🧸
     location: "Italy"
-    followers: 36169
-    engagement: 101
-    commentsToLikes: 0.051279
-    id: ck6uab9bf2l3x0j71n4bh3tk7
+    followers: 37349
+    engagement: 230
+    commentsToLikes: 0.191957
+    id: ck135ub7l39uz0i19c3c6k7i2
     verified: false
-    hashtags: "#shein, #sheingals, #gaslighting, #newbalance"
-  - username: "lahilary__"
+    hashtags: "#apmmonaco, #guudcure, #pollutionfree, #lifestyle"
+  - username: "fuksas_architects"
     fullname: >-
-      Iℓᥲɾɩᥲ Sᥲᥒtᥱℓℓɩ
+      Massimiliano e Doriana Fuksas
     location: "Italy"
-    followers: 7291
-    engagement: 914
-    commentsToLikes: 0.083972
-    id: ck5c0s71dtr490i11ku0zhjsc
+    followers: 57400
+    engagement: 73
+    commentsToLikes: 0.011322
+    id: ck6toxftngn100j71gbx8kd2h
     verified: false
-    hashtags: "#bershka, #week, #cucinare, #pizzalover"
+    hashtags: "#openletter, #health, #bubbles, #instapic"
+  - username: "madeleinemajdal"
+    fullname: >-
+      Madeleine
+    location: "Italy"
+    followers: 101501
+    engagement: 719
+    commentsToLikes: 0.024757
+    id: ck6uav7a85uuz0j713111dnv0
+    verified: false
+    hashtags: "#workshop, #organico, #algodoncolorido, #kalokairi"
   - username: "carolinabenvenga"
     fullname: >-
       Carolina Benvenga
     location: "Italy"
-    followers: 39787
-    engagement: 876
-    commentsToLikes: 0.020843
+    followers: 43705
+    engagement: 844
+    commentsToLikes: 0.020949
     id: ck0w1kpsdjtvu0i19mdv9hzr3
     verified: false
-    hashtags: "#holiday, #exposure, #happynewyear, #carolinabenvenga"
-  - username: "andreapreti88"
+    hashtags: "#kidsmusic, #torino, #home, #arenadiverona"
+  - username: "dafnevena"
     fullname: >-
-      Andrea Preti
+      ∂αfиє νєиα®
     location: "Italy"
-    followers: 143003
-    engagement: 733
-    commentsToLikes: 0.003677
-    id: ck0vvy5fsrasn0i19mafpincr
-    verified: true
-    hashtags: "#relax, #violenzasulledonne, #detectivepercaso, #workout"
-  - username: "robylanfry"
-    fullname: >-
-      Roberta Lanfranchi
-    location: "Italy"
-    followers: 88108
-    engagement: 303
-    commentsToLikes: 0.036548
-    id: ck5c031fjsceo0i11gbnap9z4
-    verified: true
-    hashtags: "#sunday, #story, #arancedellasalute, #macchinadellaverit"
-  - username: "vaso_petrou"
-    fullname: >-
-      Vaso Petrou
-    location: "Italy"
-    followers: 49215
-    engagement: 355
-    commentsToLikes: 0.030238
-    id: ck5ckpuj3xdjo0i11bzercw37
+    followers: 9328
+    engagement: 390
+    commentsToLikes: 0.040466
+    id: ck5bz3wg5qecn0i11d96mki0k
     verified: false
-    hashtags: "#staysafe, #staystrong, #staypositive, #weights"
+    hashtags: "#balloons, #sunny, #enjoyyourday, #baby"
+  - username: "lochefseitu"
+    fullname: >-
+      Lo Chef Sei Tu 👨‍🍳👩‍🍳🐈
+    location: "Italy"
+    followers: 4892
+    engagement: 1237
+    commentsToLikes: 0.132187
+    id: ck9hclwzvlyf60j78ggss6zh1
+    verified: false
+    hashtags: "#soup, #barbabietola, #fave, #apple"
 ---

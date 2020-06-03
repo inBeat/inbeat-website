@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top fitness Instagram influencers in Tokyo in 2020. Most popular hashtags: #fitness #japan #tokyo #instagood.
+  Find top fitness Instagram influencers in Tokyo in 2020. Most popular hashtags: #fitness #workout #fashion #stayhome.
 platform: Instagram
 profiles:
-  - username: "koennaert"
+  - username: "yukachinmaru_golf"
     fullname: >-
-      Koen Naert
+      ゆかちんまる☺︎
     location: "Japan"
-    followers: 12010
-    engagement: 937
-    commentsToLikes: 0.020360
-    id: ck5hp90spqye80i11717hlbhs
+    followers: 45456
+    engagement: 295
+    commentsToLikes: 0.025371
+    id: ck0ucpdmchg4d0i195dyej5tc
     verified: false
-    hashtags: "#moretocome, #asicseurope, #nature, #basecamp"
-  - username: "sano.maya"
+    hashtags: "#golfswing, #live, #youtube, #fujimi"
+  - username: "_rosemelle"
     fullname: >-
-      佐野真彩
+      Rose Melle
     location: "Japan"
-    followers: 146118
-    engagement: 237
-    commentsToLikes: 0.022291
-    id: ck15sqv31edb10i19nkhpc5wj
-    verified: true
-    hashtags: "#traningwear, #run, #fitness, #tokyorestaurant"
-  - username: "dary.rukawa"
-    fullname: >-
-      ダリ...(Dary)
-    location: "Japan"
-    followers: 12338
-    engagement: 468
-    commentsToLikes: 0.006688
-    id: ck14jdq6ljtvo0i190qfl5d7i
+    followers: 19668
+    engagement: 984
+    commentsToLikes: 0.014197
+    id: ck5zzwkhocjjd0i140q4r4dh8
     verified: false
-    hashtags: "#d1milano, #cordinate, #japanese, #jewelrycollection"
-  - username: "___yuume.18"
+    hashtags: "#vietnam, #bikini, #wallart, #boootyyyfull"
+  - username: "shinjokun"
     fullname: >-
-      林ゆめ（吉田 夢）
+      しんじょう君
     location: "Japan"
-    followers: 337697
-    engagement: 567
-    commentsToLikes: 0.007725
-    id: ck0w64jqy6vet0i19r16b0koc
-    verified: true
-    hashtags: "#smart, #gym, #fitness, #puma"
+    followers: 15649
+    engagement: 1103
+    commentsToLikes: 0.018147
+    id: ck0u707443id60i19k07gn5bm
+    verified: false
+    hashtags: "#foryou, #happynewyear, #happy, #behavewell"
+  - username: "kareniwadare"
+    fullname: >-
+      岩垂かれん
+    location: "Japan"
+    followers: 29128
+    engagement: 829
+    commentsToLikes: 0.008041
+    id: ck5bxbeg3nebq0i11m2nl1e7d
+    verified: false
+    hashtags: "#fitness, #kawabaski, #sorachi, #tokyocraft"
   - username: "yuki_sato310"
     fullname: >-
       悠基 佐藤
     location: "Japan"
-    followers: 18430
-    engagement: 1399
-    commentsToLikes: 0.007902
+    followers: 18621
+    engagement: 1382
+    commentsToLikes: 0.007767
     id: ck13c0p8xy2qc0i195fc5ksop
     verified: false
-    hashtags: "#saint, #kagawa, #2xu, #hokkaido"
-  - username: "namakenbo"
+    hashtags: "#suguruosako, #mizuno, #spike, #hokkaido"
+  - username: "dary.rukawa"
     fullname: >-
-      なまけんぼ
+      ダリ.... 𝐃𝐀𝐑𝐘
     location: "Japan"
-    followers: 8109
-    engagement: 1485
-    commentsToLikes: 0.018856
-    id: ck5hi98n7cbc90i11y5iptx3f
+    followers: 12042
+    engagement: 341
+    commentsToLikes: 0.010403
+    id: ck14jdq6ljtvo0i190qfl5d7i
     verified: false
-    hashtags: "#jogging, #nb, #training, #ig"
-  - username: "i_am__kei"
+    hashtags: "#model, #thescotchhouse, #mensfashion, #modellife"
+  - username: "amuaiamu"
     fullname: >-
-      kei
+      AMU
     location: "Japan"
-    followers: 27218
-    engagement: 232
-    commentsToLikes: 0.021635
-    id: ck5ck7iomwaqb0i11xg4t6d9k
+    followers: 10764
+    engagement: 1591
+    commentsToLikes: 0.009071
+    id: ck9hap6rzdh270j784cpsjo99
     verified: false
-    hashtags: "#environmentalprotection, #genictravel, #perutravel, #lindboracay"
-  - username: "chiyo5997"
+    hashtags: "#thanksfollowers, #solorider, #cyclingjapan, #smarttraining"
+  - username: "maripo_jp"
     fullname: >-
-      Chiyo🌻
+      M A R I 🌐 神林真里
     location: "Japan"
-    followers: 2330
-    engagement: 1481
-    commentsToLikes: 0.028009
-    id: ck0w0g840e1dk0i19u73nwpqk
+    followers: 28583
+    engagement: 203
+    commentsToLikes: 0.012663
+    id: ck14i2zyrddu80i19pfnkl5to
     verified: false
-    hashtags: "#teddysbonds, #bodybuilding, #spartanracejp, #elitewomen"
-  - username: "takashi_jonishi"
+    hashtags: "#sunglassesstyle, #ignis, #hairtreatment, #mimc"
+  - username: "non_nonsummerjack"
     fullname: >-
-      上西隆史 Takashi.J - ᴀɪʀғᴏᴏᴛᴡᴏʀᴋs
+      non
     location: "Japan"
-    followers: 27554
-    engagement: 815
-    commentsToLikes: 0.024174
-    id: ck0w6yucpawpe0i19aag9kcq8
+    followers: 152308
+    engagement: 1071
+    commentsToLikes: 0.007996
+    id: ck8sy7krjk00c0j78zk7cn31n
     verified: false
-    hashtags: "#newgenre, #neckhold, #dollynoire, #japantravel"
-  - username: "aaaya.22"
+    hashtags: "#japanesezodiac, #oil, #non, #fgo"
+  - username: "aripi_06"
     fullname: >-
-      ☻ A Y A K A ☻
+      𝐀 𝐑 𝐈 𝐒 𝐀 🦡
     location: "Japan"
-    followers: 108557
-    engagement: 187
-    commentsToLikes: 0.106401
-    id: ck13aot9erfzo0i1975e5imkq
+    followers: 117743
+    engagement: 144
+    commentsToLikes: 0.026621
+    id: ckap5d2x2b4se0i78k3ob0503
     verified: false
-    hashtags: "#principeprive, #bettyboop, #photography, #hipanda"
+    hashtags: "#lapis, #workout, #yukata, #acym"
 ---

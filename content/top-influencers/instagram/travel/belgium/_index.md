@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Belgium In 2020
 description: >-
-  Find top travel Instagram influencers in Belgium in 2020. Most popular hashtags: #belgianblogger #blijfinuwkot #stayhome #love.
+  Find top travel Instagram influencers in Belgium in 2020. Most popular hashtags: #staysafe #idealofsweden #corona #giveawaytime.
 platform: Instagram
 profiles:
-  - username: "winniedaems"
+  - username: "lifestyle_fashion68"
     fullname: >-
-      Winnie Daems
+      Carpe Diem🇧🇪
     location: "Belgium"
-    followers: 7506
-    engagement: 1424
-    commentsToLikes: 0.373049
-    id: ck6tmcmgx7lfe0j719xbnzhld
+    followers: 22455
+    engagement: 992
+    commentsToLikes: 0.269231
+    id: ck15uaov9m8sn0i194u5jq4h2
     verified: false
-    hashtags: "#discoverunder10k, #outfitoftheday, #idealofsweden, #getanchored"
-  - username: "thisischaris"
+    hashtags: "#outdoor, #ageless, #fashioninta, #eyewearstyle"
+  - username: "veggiewayfarer"
     fullname: >-
-      CHARIS
+      Caro • Travelnut & Food Fiend
     location: "Belgium"
-    followers: 2608
-    engagement: 2362
-    commentsToLikes: 0.205722
-    id: ck8tagk70rnuf0j780zj4pscq
+    followers: 39089
+    engagement: 604
+    commentsToLikes: 0.130216
+    id: ck0twaa3yelpz0i19qnfb6voo
     verified: false
-    hashtags: "#abeautifulmess, #ethicalinfluencers, #quarantinelife, #lockdown"
-  - username: "nathaliemeskensofficial"
-    fullname: >-
-      Nathalie Meskens
-    location: "Belgium"
-    followers: 201164
-    engagement: 983
-    commentsToLikes: 0.019378
-    id: ck15q8ikm1ls10i1929c6dm67
-    verified: false
-    hashtags: "#samentegencorona, #cybex, #alcoholvrij, #relax"
-  - username: "yngwix"
-    fullname: >-
-      Yngwie @belgianshooters
-    location: "Belgium"
-    followers: 7590
-    engagement: 712
-    commentsToLikes: 0.076154
-    id: ck0w1wu3slj450i19puxiyts0
-    verified: false
-    hashtags: "#bbctravel, #lovetheworld, #aljazeera, #artofvisuals"
-  - username: "rosevaniity"
-    fullname: >-
-      Your Fav Guinean 🌹
-    location: "Belgium"
-    followers: 6814
-    engagement: 1593
-    commentsToLikes: 0.067298
-    id: ck8t69d3scqyg0j78ijzc2y0s
-    verified: false
-    hashtags: "#model, #follow, #ootd, #likeforfollow"
-  - username: "kimdetollenaere"
-    fullname: >-
-      💗Kimmie💗
-    location: "Belgium"
-    followers: 110215
-    engagement: 204
-    commentsToLikes: 0.065290
-    id: ck8t4tauh7w7t0j78ygamw96s
-    verified: false
-    hashtags: "#tb, #stayhome, #blijfinuwkot, #blijfinukot"
-  - username: "withkidsontheroad"
-    fullname: >-
-      withkidsontheroad
-    location: "Belgium"
-    followers: 28504
-    engagement: 412
-    commentsToLikes: 0.040723
-    id: ck136pb417lhp0i19vem7l6qg
-    verified: false
-    hashtags: "#playgrounds, #reizenmetkinderen, #mostsouthernpoint, #salcaboverde"
+    hashtags: "#wanderlove, #welovebrussels, #womenwhoexplore, #myanmartourism"
   - username: "lauralynnsworld"
     fullname: >-
       LAURA ✌🏼
     location: "Belgium"
-    followers: 31135
-    engagement: 350
-    commentsToLikes: 0.106376
+    followers: 31655
+    engagement: 390
+    commentsToLikes: 0.168488
     id: ck5zsblasy6uy0i149dirvmoh
     verified: false
-    hashtags: "#daretoeatfrozen, #springfashion, #staysafe, #cappuccino"
+    hashtags: "#springfashion, #pinkvibes, #schelde, #stayactive"
+  - username: "nathaliemeskensofficial"
+    fullname: >-
+      Nathalie Meskens
+    location: "Belgium"
+    followers: 213658
+    engagement: 1139
+    commentsToLikes: 0.018728
+    id: ck15q8ikm1ls10i1929c6dm67
+    verified: false
+    hashtags: "#deeplove, #tourneeminerale, #blijmetmijnkot, #floradixijzer"
   - username: "ruxandraioana"
     fullname: >-
       ♥ RUX ♥ 🦂
     location: "Belgium"
-    followers: 42248
-    engagement: 330
-    commentsToLikes: 0.095709
+    followers: 43197
+    engagement: 355
+    commentsToLikes: 0.097816
     id: ck0w5g7i43hq00i19uzu7oqse
     verified: false
-    hashtags: "#todaysoutfit, #swimmingpool, #offshoulder, #confinementcreatif"
-  - username: "wass_rzk"
+    hashtags: "#belgianblog, #brusselsblogger, #underwaterlove, #shopping"
+  - username: "lesleystraveldiary"
     fullname: >-
-      Im Wass
+      Lesley Van Loon
     location: "Belgium"
-    followers: 91426
-    engagement: 285
-    commentsToLikes: 0.073290
-    id: ck0w3rdq5uvql0i19fvou5f8m
+    followers: 23090
+    engagement: 419
+    commentsToLikes: 0.062564
+    id: ckapac544vicn0i786qbsr9sh
     verified: false
-    hashtags: "#menstyle, #vintagestyle, #mensweardaily, #belgianblogger"
+    hashtags: "#visitantwerp, #saman, #santodomingo, #visitbelgium"
+  - username: "winniedaems"
+    fullname: >-
+      Winnie Daems
+    location: "Belgium"
+    followers: 9640
+    engagement: 1374
+    commentsToLikes: 0.393249
+    id: ck6tmcmgx7lfe0j719xbnzhld
+    verified: false
+    hashtags: "#giveaways, #repost, #olivedaofficial, #beautyskin"
+  - username: "rosevaniity"
+    fullname: >-
+      Your Fav Guinean 🌹
+    location: "Belgium"
+    followers: 7926
+    engagement: 1474
+    commentsToLikes: 0.065282
+    id: ck8t69d3scqyg0j78ijzc2y0s
+    verified: false
+    hashtags: "#outfitoftheday, #travel, #style, #fashionstyle"
+  - username: "thisischaris"
+    fullname: >-
+      CHARIS
+    location: "Belgium"
+    followers: 2775
+    engagement: 2180
+    commentsToLikes: 0.239135
+    id: ck8tagk70rnuf0j780zj4pscq
+    verified: false
+    hashtags: "#happyeaster, #giftidea, #veganlife, #pinkhouse"
+  - username: "veedici"
+    fullname: >-
+      𝓥𝓮𝓮𝓻𝓵𝓮 𝓟𝓮𝓮𝓽𝓮𝓻𝓼-
+    location: "Belgium"
+    followers: 18663
+    engagement: 304
+    commentsToLikes: 0.185097
+    id: ck9wdvwh9hi310j78zesjfr29
+    verified: false
+    hashtags: "#belgiumgirl, #bettertimeswillcome, #tiktokchallenge, #mombodytransformation"
 ---

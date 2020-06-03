@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top home decor Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #ootd #stayhome #homedecor.
+  Find top home decor Instagram influencers in San Francisco in 2020. Most popular hashtags: #homedecor #sanfrancisco #staysafe #stayhome.
 platform: Instagram
 profiles:
-  - username: "sobiaashaikh"
+  - username: "darrenasay"
     fullname: >-
-      Sobia A. Shaikh
+      DARREN ASAY  |  Photographer
     location: "United States"
-    followers: 81518
-    engagement: 205
-    commentsToLikes: 0.025030
-    id: ck5c7h8dp7jdb0i11ersp0be9
+    followers: 18307
+    engagement: 258
+    commentsToLikes: 0.055740
+    id: ck5bx8v8hn8h60i11b70a6g2d
     verified: false
-    hashtags: "#trendalert, #isabelmarantboots, #joyfulliving, #selfisolation"
-  - username: "nohahamid"
+    hashtags: "#seattletoportland, #polarpro, #aletile, #losangeles"
+  - username: "gabrielarec"
     fullname: >-
-      NOHA HAMID
+      Gabriela Recalde
     location: "United States"
-    followers: 137763
-    engagement: 340
-    commentsToLikes: 0.012668
-    id: ck14lie1guu000i19shmjnl8p
+    followers: 45134
+    engagement: 68
+    commentsToLikes: 0.117492
+    id: ck8wdel80dq5p0j78fxbk0pu2
     verified: false
-    hashtags: "#goldengatebridge, #newzealand, #bazzar, #homedecor"
-  - username: "gabe_weis"
+    hashtags: "#quarantinenights, #uniformteeth, #beautyproductsshelflife, #sunset"
+  - username: "tallgirltakeover_"
     fullname: >-
-      Bay Area Artist
+      Jenna | Tall Style & Community
     location: "United States"
-    followers: 44232
-    engagement: 563
-    commentsToLikes: 0.020787
-    id: ck0udowowji280i19j5ac09ra
+    followers: 11224
+    engagement: 638
+    commentsToLikes: 0.083916
+    id: ck5bus7m0icml0i11nsbin4j4
     verified: false
-    hashtags: "#bayareaartist, #blackandwhite, #bayareart, #artagent"
-  - username: "arianalauren"
+    hashtags: "#haul, #laketahoe, #snow, #tahoe"
+  - username: "breanajanaysmith"
     fullname: >-
-      Ariana Lauren
+      Breana Janay Smith
     location: "United States"
-    followers: 109388
-    engagement: 82
-    commentsToLikes: 0.082933
-    id: ck0u68sot1a5b0i19qxvhjre9
+    followers: 5606
+    engagement: 799
+    commentsToLikes: 0.053424
+    id: ck13crggi1t0y0i19dyb0ztav
     verified: false
-    hashtags: "#kitchendecor, #loungewear, #homedecor, #chanel"
-  - username: "kristywicks"
+    hashtags: "#friday, #saturday, #shelterinplace, #monday"
+  - username: "sf_daily_photo"
     fullname: >-
-      KRISTY • WICKS
+      
     location: "United States"
-    followers: 403301
+    followers: 39897
+    engagement: 761
+    commentsToLikes: 0.031905
+    id: ck0ue1qbmkad50i1992yxitjb
+    verified: false
+    hashtags: "#minimalisthome, #iconic, #weho, #househunting"
+  - username: "tanukidi"
+    fullname: >-
+      Judy
+    location: "United States"
+    followers: 17883
+    engagement: 202
+    commentsToLikes: 0.033697
+    id: ck5hp1ge9qlda0i11ovej18m4
+    verified: false
+    hashtags: "#exfoliating, #girly, #superfood, #inspiration"
+  - username: "french.morning"
+    fullname: >-
+      French Morning
+    location: "United States"
+    followers: 14519
     engagement: 289
-    commentsToLikes: 0.042973
-    id: ck0u0jg9atyqy0i19dm88fu8d
+    commentsToLikes: 0.019123
+    id: ck15u8pt5lywy0i1916eyg2v1
     verified: false
-    hashtags: "#freshfood, #adoptdontshop, #realtalk, #summernights"
-  - username: "sandyeatsblog"
+    hashtags: "#racletteparty, #frenchy, #exclusive, #lingedemaison"
+  - username: "poorlittleitgirl"
     fullname: >-
-      Sandy | SF Food Blogger
+      Cathy, Poor Little It Girl
     location: "United States"
-    followers: 7137
-    engagement: 686
-    commentsToLikes: 0.177000
-    id: ck0vxqpmt088m0i19ckxc1y29
+    followers: 61396
+    engagement: 130
+    commentsToLikes: 0.049167
+    id: ck5zqsxjuv8ir0i141ib6kayp
     verified: false
-    hashtags: "#toasttuesday, #veggies, #eattherainbow, #thefeedfeed"
-  - username: "ephemeralfox"
-    fullname: >-
-      April | San Francisco Blogger
-    location: "United States"
-    followers: 10481
-    engagement: 502
-    commentsToLikes: 0.266827
-    id: ck0tsz02w0io30i19zc8dvy1h
-    verified: false
-    hashtags: "#safehands, #lifeathome, #piday, #styletip"
-  - username: "lifewithjordans"
-    fullname: >-
-      kelsea taylor ⋒
-    location: "United States"
-    followers: 37438
-    engagement: 111
-    commentsToLikes: 0.133220
-    id: ck5zm4vuflwoj0i148wlq779m
-    verified: false
-    hashtags: "#selflove, #sleepingbeauty, #momstyle, #perfectbar"
-  - username: "dilekstudzinski"
-    fullname: >-
-      Dilek Oluklu Studzinski
-    location: "United States"
-    followers: 37287
-    engagement: 324
-    commentsToLikes: 0.030570
-    id: ck15t35qog44s0i19hp31whxy
-    verified: false
-    hashtags: "#thefaithful, #zarajeans, #naildesigns, #monday"
+    hashtags: "#bloggervibes, #linkinbio, #homedecor, #shortgirlstyle"
   - username: "findmyrey"
     fullname: >-
       R⃣e⃣y⃣• Lifestyle • Travel
     location: "United States"
-    followers: 12403
-    engagement: 634
-    commentsToLikes: 0.059742
+    followers: 12644
+    engagement: 522
+    commentsToLikes: 0.063288
     id: ck6tirvg61az90j71qlcp9kvx
     verified: false
-    hashtags: "#flightattendant, #drone, #djiglobal, #amazondeals"
+    hashtags: "#bridal, #shiroikawaii, #wine, #wedding"
+  - username: "abby_villaruel"
+    fullname: >-
+      Abby Villaruel, BSN CANS
+    location: "United States"
+    followers: 170366
+    engagement: 465
+    commentsToLikes: 0.008093
+    id: ckaow1ouq70y10i78qlx5qr78
+    verified: false
+    hashtags: "#gratefulheart, #career, #stayinworkout, #makeupguru"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Lisbon In 2020
 description: >-
-  Find top fashion Instagram influencers in Lisbon in 2020. Most popular hashtags: #ootd #lifestyle #fashion #outfitoftheday.
+  Find top fashion Instagram influencers in Lisbon in 2020. Most popular hashtags: #nature #fashion #photooftheday #traveltheworld.
 platform: Instagram
 profiles:
-  - username: "mexiquer"
+  - username: "utopia.artist"
     fullname: >-
-      SOFIA REIS | Fashion Blogger
+      -  UtOPiA -
     location: "Portugal"
-    followers: 107384
-    engagement: 211
-    commentsToLikes: 0.069847
-    id: ck14gqv2g6l7m0i19xmx7am8d
+    followers: 15963
+    engagement: 338
+    commentsToLikes: 0.048256
+    id: ck15qvzte4wuu0i19ywgv3oxx
     verified: false
-    hashtags: "#sweethome, #springmakeup, #plants, #euficoemcasa"
-  - username: "sarapebre"
+    hashtags: "#cute, #hope, #olhar, #setubal"
+  - username: "brunolexim"
     fullname: >-
-      SARA PEBRE | Influencer
+      B R U N O    L E X I M
     location: "Portugal"
-    followers: 11503
-    engagement: 660
-    commentsToLikes: 0.346321
-    id: ck8szqih6pccn0j78hojrkqe7
+    followers: 3658
+    engagement: 2206
+    commentsToLikes: 0.286975
+    id: ck8t4nlcl7fh60j78xtp7cxlv
     verified: false
-    hashtags: "#nortemoda, #fashionaddict, #giveaway, #influencerportugal"
+    hashtags: "#menshaircut, #tabacaria, #vacation, #instagram"
   - username: "ineescosta"
     fullname: >-
-      Inês Costa| • Lifestyle
+      Inês Costa| Lifestyle
     location: "Portugal"
-    followers: 44159
-    engagement: 347
-    commentsToLikes: 0.034765
+    followers: 45179
+    engagement: 443
+    commentsToLikes: 0.039029
     id: ck0vx7dbfxig30i19tbikrl6u
     verified: false
-    hashtags: "#howtowear, #quarentena, #valentinesday, #pub"
-  - username: "alicetrewinnard"
-    fullname: >-
-      Alice Trewinnard
-    location: "Portugal"
-    followers: 207944
-    engagement: 755
-    commentsToLikes: 0.002998
-    id: ck134v13sybqz0i19a00owtxx
-    verified: true
-    hashtags: "#fuckingfinally, #batistehair, #stayathome, #euficoemcasa"
+    hashtags: "#pub, #edi, #coffeechallenge, #coffee"
   - username: "jessicajjpereira"
     fullname: >-
       Jéssica Pereira
     location: "Portugal"
-    followers: 12739
-    engagement: 508
-    commentsToLikes: 0.044625
+    followers: 13563
+    engagement: 593
+    commentsToLikes: 0.015268
     id: ck13atzy3s6fj0i19enyhos0h
     verified: false
-    hashtags: "#calzedonialovesyou, #italianlegwear, #onatalchriraasurpresa, #campanha"
-  - username: "ines_mfd"
-    fullname: >-
-      TRAVEL • PHOTOGRAPHY • FASHION
-    location: "Portugal"
-    followers: 5020
-    engagement: 1400
-    commentsToLikes: 0.155654
-    id: ck0vyou0h529o0i19ka8kor50
-    verified: false
-    hashtags: "#inestakesseville, #femmetravel, #picoftheday, #seville"
+    hashtags: "#20, #calzedonia, #calzedonialovesyou, #italianlegwear"
   - username: "catarina.fernandees"
     fullname: >-
       Catarina Fernandes
     location: "Portugal"
-    followers: 67545
-    engagement: 498
-    commentsToLikes: 0.044364
+    followers: 68815
+    engagement: 502
+    commentsToLikes: 0.071840
     id: ck1374d9y9pu80i19hpf69j8k
     verified: false
-    hashtags: "#looks, #homesweethome, #charlie, #mood"
-  - username: "tiagosoca"
+    hashtags: "#outfits, #cleaningmyhome, #happymothersday, #newproject"
+  - username: "marianacardia"
     fullname: >-
-      ©️ Soca
+      Mαяιαηα 🌹
     location: "Portugal"
-    followers: 13313
-    engagement: 592
-    commentsToLikes: 0.307260
-    id: ck0ue8m1skqdx0i192httm5zu
+    followers: 15273
+    engagement: 653
+    commentsToLikes: 0.131552
+    id: ck8t6uh2eeqch0j78kg2sj6w0
     verified: false
-    hashtags: "#mosteirodosjeronimos, #waldorwatches, #alltogether, #stayhome"
-  - username: "jooocotovio"
+    hashtags: "#gillette, #pink, #lipgloss, #pinkroom"
+  - username: "joanatorres_"
     fullname: >-
-      • ᴊᴏᴀ̃ᴏ ᴘᴇᴅʀᴏ ᴄᴏᴛᴏᴠɪᴏ •
+      Joana Torres
     location: "Portugal"
-    followers: 14710
-    engagement: 1025
-    commentsToLikes: 0.105057
-    id: ck5pvjqqli7xs0i11pzztnnwu
+    followers: 106630
+    engagement: 309
+    commentsToLikes: 0.022772
+    id: ck5cdoa0ajhqn0i11ui1lra00
     verified: false
-    hashtags: "#conventodecristo, #mensoutfit, #iphone, #sunnyday"
-  - username: "rubenrpvaz"
+    hashtags: "#femalefamily, #summer, #lookinspiracao, #giannikavanagh"
+  - username: "brunoanjoss"
     fullname: >-
-      ℝ 𝕌 𝔹 𝔼 ℕ  𝕍 𝔸 ℤ
+      𝗕 𝗥 𝗨 𝗡 𝗢    𝗔 𝗡 𝗝 𝗢 𝗦
     location: "Portugal"
-    followers: 10831
-    engagement: 1088
-    commentsToLikes: 0.142006
-    id: ck6ti80us07rt0j719wtmkxt0
+    followers: 4441
+    engagement: 1771
+    commentsToLikes: 0.378577
+    id: ck9womla25rjc0j78gw86m3wr
     verified: false
-    hashtags: "#london, #lifestyle, #fashion, #classic"
+    hashtags: "#topman, #healthy, #freedom, #streetwear"
+  - username: "rosalimaloureiro"
+    fullname: >-
+      Rosa Lima Loureiro
+    location: "Portugal"
+    followers: 29408
+    engagement: 1501
+    commentsToLikes: 0.033297
+    id: ck8t4jx1q70xx0j78kofberj1
+    verified: false
+    hashtags: "#stylist, #tbt, #fashionstyle, #instagood"
+  - username: "_taty_cool_"
+    fullname: >-
+      Taty Cool 📍Lisbon
+    location: "Portugal"
+    followers: 12867
+    engagement: 823
+    commentsToLikes: 0.033425
+    id: ck5zu1chx1hxs0i14aruroxj3
+    verified: false
+    hashtags: "#pub, #relish, #chloegirls, #quarentenastyle"
 ---

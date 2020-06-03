@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Vancouver In 2020
 description: >-
-  Find top yoga Instagram influencers in Vancouver in 2020. Most popular hashtags: #yoga #nature #vancouver #travel.
+  Find top yoga Instagram influencers in Vancouver in 2020. Most popular hashtags: #stayhome #yoga #photography #throwback.
 platform: Instagram
 profiles:
-  - username: "angharada.model"
+  - username: "689kerryjames689"
     fullname: >-
-      𝒜 𝓃 𝑔 𝒽 𝒶 𝓇 𝒶 𝒹 𝒶
+      Kerry James
     location: "Canada"
-    followers: 29141
-    engagement: 357
-    commentsToLikes: 0.044830
-    id: ck15tn028ivx00i19vaaw8j0q
+    followers: 70409
+    engagement: 315
+    commentsToLikes: 0.026279
+    id: ck0w2vhvkqda20i19st242lcw
     verified: false
-    hashtags: "#ethereal, #gardening, #power, #photographyart"
-  - username: "yoga_mami"
-    fullname: >-
-      Josephine Jacob
-    location: "Canada"
-    followers: 48557
-    engagement: 185
-    commentsToLikes: 0.122174
-    id: ck13ajiagqog40i190xn8xljh
-    verified: false
-    hashtags: "#tiptoelovers, #igyogacommunity, #yogalife, #ysydcrew"
+    hashtags: "#epichair, #creativity, #grateful, #midnight"
   - username: "amandaduplessisfit"
     fullname: >-
       Amanda
     location: "Canada"
-    followers: 8913
-    engagement: 852
-    commentsToLikes: 0.051157
+    followers: 10220
+    engagement: 938
+    commentsToLikes: 0.102225
     id: ck5zk3ajjiqie0i148umapojy
     verified: false
-    hashtags: "#musesonly, #hikingadventures, #snowday, #goldenhourphotography"
+    hashtags: "#lasenza, #nomakeup, #springstyle, #scrunchbutt"
+  - username: "yoga_mami"
+    fullname: >-
+      Josephine Jacob
+    location: "Canada"
+    followers: 52614
+    engagement: 372
+    commentsToLikes: 0.105255
+    id: ck13ajiagqog40i190xn8xljh
+    verified: false
+    hashtags: "#tiptoethursdays, #alostarsigns, #alovelymothersday"
+  - username: "stylealiveafter55"
+    fullname: >-
+      Stylealiveafter55 By Renate
+    location: "Canada"
+    followers: 43574
+    engagement: 186
+    commentsToLikes: 0.086166
+    id: ck6tuxa3tiy3r0j71zkdiqvcm
+    verified: false
+    hashtags: "#weekendvibes, #tomford, #yellowdress, #50plusstyle"
+  - username: "carew_movement"
+    fullname: >-
+      Brian Carew
+    location: "Canada"
+    followers: 21491
+    engagement: 246
+    commentsToLikes: 0.114021
+    id: ckaoqr24yjz140i78b1m4prcp
+    verified: false
+    hashtags: "#elevateyourstate, #locallyraised, #keepmoving, #pnw"
   - username: "nataliepastore"
     fullname: >-
       Ɲatalie♡
     location: "Canada"
-    followers: 8160
-    engagement: 780
-    commentsToLikes: 0.026366
+    followers: 8107
+    engagement: 815
+    commentsToLikes: 0.029706
     id: ck8tdskb54m630j78rulbue5h
     verified: false
-    hashtags: "#brightside, #treepose, #stayhome"
-  - username: "sweetlyraw"
+    hashtags: "#treepose, #stayhome, #brightside, #boredinthehouse"
+  - username: "sarka_yoga"
     fullname: >-
-      Heather Pace l Healthy Recipes
+      Sarka Kocicka ☀️ Yoga Teacher
     location: "Canada"
-    followers: 29695
-    engagement: 150
-    commentsToLikes: 0.340724
-    id: ck0u2f8jhzrhy0i19k6ivtn3i
+    followers: 62698
+    engagement: 219
+    commentsToLikes: 0.181147
+    id: ck9wfvsx0qpoa0j78dkpl4h9z
     verified: false
-    hashtags: "#freeyogaclass, #vegancookies, #chocolatechipcookies, #healthyrecipes"
-  - username: "samanthashakiraclarke"
+    hashtags: "#pinchafallout, #handstand, #firelogpose, #yogatutorials"
+  - username: "angharada.model"
     fullname: >-
-      Samantha Clarke
+      𝒜 𝓃 𝑔 𝒽 𝒶 𝓇 𝒶 𝒹 𝒶
     location: "Canada"
-    followers: 73793
-    engagement: 200
-    commentsToLikes: 0.041542
-    id: ck15rr0s299i70i19ochgo0fz
+    followers: 29863
+    engagement: 404
+    commentsToLikes: 0.041464
+    id: ck15tn028ivx00i19vaaw8j0q
     verified: false
-    hashtags: "#bloated, #xmas, #yoga, #handstandpractice"
-  - username: "naturallycadie"
+    hashtags: "#oldschool, #authentic, #heart, #bnwplanet"
+  - username: "heikekuzminski"
     fullname: >-
-      Cadie Piecuch
+      Heike Kuzminski
     location: "Canada"
-    followers: 19056
-    engagement: 259
-    commentsToLikes: 0.251827
-    id: ck5bum5yci19h0i11xi3x9wx0
+    followers: 13316
+    engagement: 642
+    commentsToLikes: 0.044286
+    id: ck14j8nnfj3s30i198ea8wvh5
     verified: false
-    hashtags: "#positiveenergy, #photography, #putinthework, #reuseable"
-  - username: "dennisstever"
+    hashtags: "#kinglet, #opcweek1, #tofinobc, #pansies"
+  - username: "kane.a.roberts"
     fullname: >-
-      Dennis Stever
+      Kane Roberts
     location: "Canada"
-    followers: 37436
-    engagement: 215
-    commentsToLikes: 0.016746
-    id: ck13d0zp3345q0i19ej5eb4nk
+    followers: 5167
+    engagement: 1181
+    commentsToLikes: 0.015194
+    id: ck14hum06c81o0i196zr3n385
     verified: false
-    hashtags: "#ufc247, #mydubai, #travelwithtjd, #hellobc"
-  - username: "noelhendrickson"
-    fullname: >-
-      
-    location: "Canada"
-    followers: 28204
-    engagement: 66
-    commentsToLikes: 0.033161
-    id: ck1353ee2zhyq0i1917d1ynwn
-    verified: false
-    hashtags: "#mountainroads, #tofino, #westcoast, #jamies"
-  - username: "fvckrender"
-    fullname: >-
-      Frederic Duquette
-    location: "Canada"
-    followers: 363497
-    engagement: 104
-    commentsToLikes: 0.015350
-    id: ck0w5nl9a4j8c0i19y0unbqp2
-    verified: false
-    hashtags: "#cinema4d, #flower, #artoftheday, #landroverdefender"
+    hashtags: "#pitbull, #lighting, #stilllife, #slick"
 ---

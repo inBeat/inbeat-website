@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Austria In 2020
 description: >-
-  Find top food Instagram influencers in Austria in 2020. Most popular hashtags: #stayhome #foodspringfamily #happygirl #fitnessjourney.
+  Find top food Instagram influencers in Austria in 2020. Most popular hashtags: #nature #smileeveryday #goodvibes #sundayvibes.
 platform: Instagram
 profiles:
   - username: "doris.xyz"
     fullname: >-
       🌸 Doris Jaritz  | 📍 AUT
     location: "Austria"
-    followers: 23440
-    engagement: 740
-    commentsToLikes: 0.081292
+    followers: 24268
+    engagement: 762
+    commentsToLikes: 0.074017
     id: ck0w2jf40oo530i19gw59zm1z
     verified: false
-    hashtags: "#igersgraz, #fitfam, #keepshining, #fitnesslifestyle"
-  - username: "philippknefz"
+    hashtags: "#malteser, #hipthrust, #fitfamde, #corona"
+  - username: "mizzchrissi"
     fullname: >-
-      Fit  Couple Streetstyle Graz
+      ©️h ®️issi
     location: "Austria"
-    followers: 144293
-    engagement: 279
-    commentsToLikes: 0.129846
-    id: ck6ui8bf6dn2y0j715ud5e3ur
-    verified: true
-    hashtags: "#outfit, #lifttogehter, #mensfashion, #training"
+    followers: 60950
+    engagement: 277
+    commentsToLikes: 0.059496
+    id: ck5zp0b3nrqjl0i141kfftvbp
+    verified: false
+    hashtags: "#jederz, #fitness, #freachly, #freachlyvienna"
+  - username: "susannaamarie"
+    fullname: >-
+      SUSANNA ✨
+    location: "Austria"
+    followers: 22513
+    engagement: 683
+    commentsToLikes: 0.047943
+    id: ck0vwof5fusk50i19y8syluuz
+    verified: false
+    hashtags: "#oceanlover, #springvibes, #ausblick, #altoadige"
+  - username: "ela__1308"
+    fullname: >-
+      Ela 🕊
+    location: "Austria"
+    followers: 21363
+    engagement: 730
+    commentsToLikes: 0.126362
+    id: ckap6ynovhwt50i78koinlnp4
+    verified: false
+    hashtags: "#dekoideen, #sundayfunday, #leatherleggings, #vogove"
+  - username: "corinna.schober"
+    fullname: >-
+      TRAVEL | LIFESTYLE | VEGAN
+    location: "Austria"
+    followers: 6855
+    engagement: 695
+    commentsToLikes: 0.098630
+    id: ck6txyj710lcq0j716ap5m5s5
+    verified: false
+    hashtags: "#selflove, #blueeyes, #mondays, #travelling"
+  - username: "growingannanas"
+    fullname: >-
+      ANNA | HOME & HIIT WORKOUTS
+    location: "Austria"
+    followers: 145774
+    engagement: 427
+    commentsToLikes: 0.027385
+    id: ck5hmt3r6mkog0i11zfceiqe3
+    verified: false
+    hashtags: "#transformation, #veggie, #newweek, #workout"
+  - username: "tanjaaru"
+    fullname: >-
+      Tαиjα  🌙 ∞ ♥
+    location: "Austria"
+    followers: 3636
+    engagement: 1234
+    commentsToLikes: 0.131799
+    id: ck6tqxbvdv7c20j7148tj4zgp
+    verified: false
+    hashtags: "#sunset, #summer"
   - username: "ich_verstehe_es_blog"
     fullname: >-
       ELISABETH KLOPF
     location: "Austria"
-    followers: 7026
-    engagement: 640
-    commentsToLikes: 0.123116
+    followers: 7085
+    engagement: 665
+    commentsToLikes: 0.134058
     id: ck0w2k0g3orc90i19qiuq8p37
     verified: false
-    hashtags: "#ichversteheesblog, #reisenmitkind, #weinempfehlung, #schwarzweiss"
+    hashtags: "#nature, #animals, #kunst, #zeitgen"
+  - username: "chrissi_greeen"
+    fullname: >-
+      C H R I S S I  ॐ
+    location: "Austria"
+    followers: 2271
+    engagement: 3821
+    commentsToLikes: 0.217043
+    id: ckaox98k3cc7m0i78t94lil7s
+    verified: false
+    hashtags: "#colorcrush, #ootd, #smileeveryday, #namastayathome"
   - username: "frankly.alina"
     fullname: >-
       » Alina | VEGAN & LIFESTYLE«
     location: "Austria"
-    followers: 41819
-    engagement: 813
-    commentsToLikes: 0.013369
+    followers: 49373
+    engagement: 740
+    commentsToLikes: 0.011574
     id: ck5q2j33rg9ok0i11diwm1bmv
     verified: false
-    hashtags: "#saturdaze, #hoferat, #summermood, #veganesnacks"
-  - username: "virginia.rox"
-    fullname: >-
-      FITNESS | CONCIOUSNESS | LOVE
-    location: "Austria"
-    followers: 43965
-    engagement: 351
-    commentsToLikes: 0.032731
-    id: ck6ui8b8udn0n0j718tccz8d4
-    verified: false
-    hashtags: "#girlpower, #foodspringfamily, #happyholidays, #essenbestellen"
-  - username: "fabiankitzweger"
-    fullname: >-
-      FABIAN KITZWEGER
-    location: "Austria"
-    followers: 244658
-    engagement: 409
-    commentsToLikes: 0.019015
-    id: ck0ttcmlx259p0i19vzjjjii6
-    verified: true
-    hashtags: "#foodspringfamily, #hotelsepp, #exsepptional, #adultsonly"
-  - username: "tatjanakreuzmayr"
-    fullname: >-
-      Tatjana Kreuzmayr
-    location: "Austria"
-    followers: 104550
-    engagement: 96
-    commentsToLikes: 0.114715
-    id: ck0tvh2fcbbi60i199lxc7p1z
-    verified: true
-    hashtags: "#overthetop, #spaday, #runwaymyway, #unterfordert"
-  - username: "paulaxleonie"
-    fullname: >-
-      PAULA LEONIE RUBLÉ 🕊
-    location: "Austria"
-    followers: 15101
-    engagement: 1297
-    commentsToLikes: 0.023005
-    id: ck6ui8c4tdn630j719nmh53ja
-    verified: false
-    hashtags: "#idealofsweden, #stronger, #loungeunderwear, #beyourself"
-  - username: "blanca_friedrich"
-    fullname: >-
-      FITNESS | FASHION | LIFESTYLE
-    location: "Austria"
-    followers: 594723
-    engagement: 478
-    commentsToLikes: 0.007719
-    id: ck14lcqjru0db0i19d3df50gx
-    verified: false
-    hashtags: "#secretlipsmoment, #happygirl, #phonebleaching, #crazygirl"
-  - username: "larissaseraphia"
-    fullname: >-
-      LARISSA SERAPHIA - FITNESS
-    location: "Austria"
-    followers: 6726
-    engagement: 748
-    commentsToLikes: 0.029672
-    id: ck6ttcxha9wwm0j71gimoq72n
-    verified: false
-    hashtags: "#womensbest, #stayhome, #10000caloriechallenge, #teamactive"
+    hashtags: "#coffeetime, #inbloom, #pandorabracelet, #veganista"
 ---

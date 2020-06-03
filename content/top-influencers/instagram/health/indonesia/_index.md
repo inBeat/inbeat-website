@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top health Instagram influencers in Indonesia in 2020. Most popular hashtags: #otakufest2020 #lifestyle #otakufest #stayhome.
+  Find top health Instagram influencers in Indonesia in 2020. Most popular hashtags: #stayhome #summervibes #selfcare #dirumahaja.
 platform: Instagram
 profiles:
-  - username: "looraxo"
+  - username: "dutchielovestravel"
     fullname: >-
-      LOORA ♡
+      Silvie  ✈ Travel
     location: "Indonesia"
-    followers: 39363
-    engagement: 1982
-    commentsToLikes: 0.262634
-    id: ck0w5r0q350bz0i19dcii7rgu
+    followers: 17036
+    engagement: 851
+    commentsToLikes: 0.151941
+    id: ck8tb3qj2u5a60j786hwedusv
     verified: false
-    hashtags: "#koost, #coronaworkout, #lol, #ad"
+    hashtags: "#journeyofgirls, #canggulife, #typicaldutch, #enjoylifestyle"
+  - username: "siskaprmswri"
+    fullname: >-
+      Siska Prameswari
+    location: "Indonesia"
+    followers: 3686
+    engagement: 2712
+    commentsToLikes: 0.070596
+    id: ckap7q6u1l2qn0i78lz2zcslf
+    verified: false
+    hashtags: "#dirumahaja, #mabaui2019, #fkmui2019, #2958mdpl"
+  - username: "maria_vaniaa"
+    fullname: >-
+      Maria Vania
+    location: "Indonesia"
+    followers: 2224549
+    engagement: 536
+    commentsToLikes: 0.020413
+    id: ck14h0snc7yzc0i19mksznpm0
+    verified: true
+    hashtags: "#tangguhdarirumah, #danielwellington, #pejuangdjiwatangguh, #dalgonaolatte"
+  - username: "abdillahhw"
+    fullname: >-
+      Abdillahhw | Travel Enthusiast
+    location: "Indonesia"
+    followers: 13347
+    engagement: 741
+    commentsToLikes: 0.071472
+    id: ck6uadian2y320j71t0xbf3k4
+    verified: false
+    hashtags: "#ramadhan, #secretclean, #ramadandirumahaja, #lebarandirumahaja"
+  - username: "wiolettatuschnio"
+    fullname: >-
+      vegan ⦙ health ⦙ sustainable
+    location: "Indonesia"
+    followers: 16829
+    engagement: 611
+    commentsToLikes: 0.059006
+    id: ck0ttg76y2kre0i19q8ixjxqe
+    verified: false
+    hashtags: "#sustainability, #selfcare, #granola, #vegansnack"
   - username: "agustinakartikaa"
     fullname: >-
-      Agustina Kartika Sari ✨
+      
     location: "Indonesia"
-    followers: 8158
-    engagement: 1207
-    commentsToLikes: 0.069725
+    followers: 8248
+    engagement: 1150
+    commentsToLikes: 0.053608
     id: ck138zbsqir7s0i19d1b55ka4
     verified: false
-    hashtags: ""
+    hashtags: "#lfl"
   - username: "aimanrickyy"
     fullname: >-
       Aiman Ricky
     location: "Indonesia"
-    followers: 292849
-    engagement: 153
-    commentsToLikes: 0.046332
+    followers: 318124
+    engagement: 205
+    commentsToLikes: 0.044510
     id: ck14ku1v6rbmf0i199qz7n7jy
     verified: true
-    hashtags: "#dirumahaja, #staypositive, #bastohcatalog, #staysafe"
-  - username: "sarah.mulindwa"
+    hashtags: "#mekkah, #tidakmudik, #janganmudik, #janganmudikdulu"
+  - username: "alfonzheng"
     fullname: >-
-      Sarah Mulindwa
+      Alfon Zheng
     location: "Indonesia"
-    followers: 28251
-    engagement: 262
-    commentsToLikes: 0.049906
-    id: ck15rubst9qus0i19qt0944t1
+    followers: 5690
+    engagement: 1359
+    commentsToLikes: 0.048017
+    id: ck9whb0ajx3m10j78zg0ij2qr
     verified: false
-    hashtags: "#mulindwagirls, #covid19, #throwback, #sisters"
-  - username: "kamalh24"
+    hashtags: "#challenge, #calm, #nutrition, #violin"
+  - username: "dianakubasova"
     fullname: >-
-      Kamal hafid
+      Diana Kubasova
     location: "Indonesia"
-    followers: 21628
-    engagement: 488
-    commentsToLikes: 0.026472
-    id: ck6u0ru3ahejt0j71q2wakpei
-    verified: false
-    hashtags: "#menstyle, #consistency, #parfumpremium, #bisnisanakmedan"
-  - username: "annita.liem"
-    fullname: >-
-      Annita🦁
-    location: "Indonesia"
-    followers: 28203
-    engagement: 91
-    commentsToLikes: 0.103339
-    id: ck6u0rndchdha0j71062bxkt4
-    verified: false
-    hashtags: "#jktfoodbang, #ootd, #yslbeautyid, #premiumingredients"
+    followers: 56246
+    engagement: 456
+    commentsToLikes: 0.066467
+    id: ck6timviv10sn0j7127d7yn7y
+    verified: true
+    hashtags: "#str, #tommygirl, #sadarbiba, #bebeautifulathome"
   - username: "humnaraza"
     fullname: >-
       Humna Raza
     location: "Indonesia"
-    followers: 257921
-    engagement: 454
-    commentsToLikes: 0.010806
+    followers: 273802
+    engagement: 441
+    commentsToLikes: 0.015262
     id: ck13ci1an0g610i19nhzw9sk2
     verified: true
-    hashtags: "#happytodolist, #stayhomestaytuned, #coronafreepakistan, #startwithyourself"
-  - username: "mimialbero"
-    fullname: >-
-      Mimi
-    location: "Indonesia"
-    followers: 128206
-    engagement: 195
-    commentsToLikes: 0.015061
-    id: ck55oo0ou8r9a0i11i0dzj5d3
-    verified: true
-    hashtags: ""
-  - username: "viennaelfira"
-    fullname: >-
-      Vienna Elfira P
-    location: "Indonesia"
-    followers: 159471
-    engagement: 167
-    commentsToLikes: 0.011456
-    id: ck6ud3sysiz9z0j71f66tah32
-    verified: false
-    hashtags: "#bbq, #stayhome, #positivepeople, #marriotbonvoy"
-  - username: "shoucos"
-    fullname: >-
-      Shou 翔 💙
-    location: "Indonesia"
-    followers: 8500
-    engagement: 792
-    commentsToLikes: 0.029560
-    id: ck5hq80f9so3j0i115tbk0m8i
-    verified: false
-    hashtags: "#otakufest2020, #giyuutomioka, #hashiracosplay, #lemons"
+    hashtags: "#shiftyourperspective, #gifted, #comeoutbetter, #staytuned"
 ---

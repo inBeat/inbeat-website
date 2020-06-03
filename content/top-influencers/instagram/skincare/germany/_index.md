@@ -1,69 +1,89 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Germany In 2020
 description: >-
-  Find top skincare Instagram influencers in Germany in 2020. Most popular hashtags: #beautyblogger #skincareaddict #stayathome #produkttest.
+  Find top skincare Instagram influencers in Germany in 2020. Most popular hashtags: #skincareaddict #skincare #skincaretips #giveaway.
 platform: Instagram
 profiles:
-  - username: "jess_away"
-    fullname: >-
-      JESS
-    location: "Germany"
-    followers: 2153
-    engagement: 3361
-    commentsToLikes: 0.067879
-    id: ck8t1enuqvh5e0j78b68z44fd
-    verified: false
-    hashtags: "#chatime, #basicasian, #boba, #happylunarnewyear"
-  - username: "silan_h"
-    fullname: >-
-      Silan (pronounced Shilan)
-    location: "Germany"
-    followers: 12961
-    engagement: 1231
-    commentsToLikes: 0.258976
-    id: ck15pjzjxy9ak0i19iplhzow3
-    verified: false
-    hashtags: "#skintreats, #spookymakeup, #frid, #anastasiabrows"
   - username: "sopronita"
     fullname: >-
       Anita | Content Creator |
     location: "Germany"
-    followers: 3355
-    engagement: 3146
-    commentsToLikes: 0.127144
+    followers: 3406
+    engagement: 2822
+    commentsToLikes: 0.117670
     id: ck55p105g9kv90i11k0dzlvtr
     verified: false
-    hashtags: "#flatlaysquad, #beautyreview, #breakfastbowl, #perfumelovers"
-  - username: "gretalagermaine"
+    hashtags: "#goodhairday, #posterdesign, #decorationideas, #easter2020"
+  - username: "silan_h"
     fullname: >-
-      Greta La Germaine
+      Silan (pronounced Shilan)
     location: "Germany"
-    followers: 1958
-    engagement: 2121
-    commentsToLikes: 0.162073
-    id: ck8t9ccqtnkw10j78lzbdg7al
+    followers: 15344
+    engagement: 1381
+    commentsToLikes: 0.138511
+    id: ck15pjzjxy9ak0i19iplhzow3
     verified: false
-    hashtags: "#selfcaresunday, #skincaredaily, #loosepowder, #sunscreen"
+    hashtags: "#maniku, #tryon, #sheinofficial, #zodiacmakeup"
+  - username: "lenaglams"
+    fullname: >-
+      lena | daily posts 🤍✨🦋
+    location: "Germany"
+    followers: 112092
+    engagement: 877
+    commentsToLikes: 0.112263
+    id: ck5zs1ks1xndw0i14jom2bzta
+    verified: false
+    hashtags: "#concealer, #2000s, #2000smakeup, #glowrecipe"
+  - username: "tajrobati_sara"
+    fullname: >-
+      🌸sara🌸 تجربتي - My experience
+    location: "Germany"
+    followers: 18730
+    engagement: 528
+    commentsToLikes: 0.180745
+    id: ckaou4587ypr00i780bvatuzr
+    verified: false
+    hashtags: "#germany, #nocosmetics, #douglas, #antiage"
+  - username: "tanja.hoe"
+    fullname: >-
+      Tanja Hööö aus Köln
+    location: "Germany"
+    followers: 18973
+    engagement: 476
+    commentsToLikes: 0.120441
+    id: ck0w2jz42or4m0i1921cmmrcx
+    verified: false
+    hashtags: "#kinderleicht, #maske, #beautyblogger, #skincare"
   - username: "makeupmollie_"
     fullname: >-
       Aɴɴᴇ
     location: "Germany"
-    followers: 5236
-    engagement: 912
-    commentsToLikes: 0.308848
+    followers: 6316
+    engagement: 844
+    commentsToLikes: 0.369866
     id: ck15r713k6gi60i193l7sr9kc
     verified: false
-    hashtags: "#tooltimethursday, #sweetlife, #towerthursday, #texture"
-  - username: "binchen777testet"
+    hashtags: "#chanelmakeup, #bockum, #staystrong, #ichbinavon"
+  - username: "gretalagermaine"
     fullname: >-
-      ♡ Sabine ♡
+      Greta La Germaine
     location: "Germany"
-    followers: 9657
-    engagement: 418
-    commentsToLikes: 0.262866
-    id: ck8t8oxmol7870j78cw4ii6gy
+    followers: 3957
+    engagement: 2092
+    commentsToLikes: 0.118019
+    id: ck8t9ccqtnkw10j78lzbdg7al
     verified: false
-    hashtags: "#instagramtest, #jasmine, #ulricdevarens, #stayhealthyandfit"
+    hashtags: "#bronzer, #healthybody, #skincaretips, #nailberry"
+  - username: "alert.anna"
+    fullname: >-
+      Anna's Beautyblog 🇷🇺🇩🇪
+    location: "Germany"
+    followers: 7360
+    engagement: 607
+    commentsToLikes: 0.368634
+    id: ckap4glir7afe0i7832y9drfq
+    verified: false
+    hashtags: "#newin, #drogeriebeauty, #biotin, #perfume"
   - username: "beauty.co_test"
     fullname: >-
       Veronikas Welt
@@ -74,34 +94,14 @@ profiles:
     id: ck8t5argf9fv00j78zx1oktek
     verified: false
     hashtags: "#vegannails, #luxuryskincare, #lovegiilinea, #badekosmetik"
-  - username: "plantifultaste"
+  - username: "tinesuchtnachmehr"
     fullname: >-
-      PAULA🌿 HOLISTIC HEALTHY LIVING
+      Tine
     location: "Germany"
-    followers: 6178
-    engagement: 510
-    commentsToLikes: 0.088021
-    id: ck14jg1vfk5lq0i190prxobam
+    followers: 10467
+    engagement: 616
+    commentsToLikes: 0.016898
+    id: ck9wd3or9dxms0j7876gdvwjw
     verified: false
-    hashtags: ""
-  - username: "natia_natsi"
-    fullname: >-
-      BEAUTY🌸LIFESTYLE🌸 BLOGGER
-    location: "Germany"
-    followers: 42557
-    engagement: 870
-    commentsToLikes: 0.673505
-    id: ck6tqih0brnoy0j71qq9jbj82
-    verified: false
-    hashtags: "#bloggerlife, #tintedmoisturizer, #instagermany, #italiangirl"
-  - username: "cindyjane"
-    fullname: >-
-      CINDY JANE
-    location: "Germany"
-    followers: 27544
-    engagement: 900
-    commentsToLikes: 0.095196
-    id: ck6tpcu1rj4od0j715jolu08o
-    verified: false
-    hashtags: "#newvideo, #ausfetten, #breakfasttime, #saturday"
+    hashtags: "#cutedre, #empressconcept, #zoya, #korresde"
 ---

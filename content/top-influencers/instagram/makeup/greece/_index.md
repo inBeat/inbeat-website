@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Greece In 2020
 description: >-
-  Find top makeup Instagram influencers in Greece in 2020. Most popular hashtags: #makeup #makeupartist #beauty #greece.
+  Find top makeup Instagram influencers in Greece in 2020. Most popular hashtags: #makeuptutorial #giveaway #happy #colourmakeup.
 platform: Instagram
 profiles:
-  - username: "ster_eleni"
-    fullname: >-
-      🎀Eleni Ster🎀
-    location: "Greece"
-    followers: 67463
-    engagement: 2249
-    commentsToLikes: 0.068940
-    id: ck6tspc4s628n0j71mqeapn3a
-    verified: false
-    hashtags: "#beatbox, #womanhood, #blessed, #valentines"
-  - username: "core.innaa"
-    fullname: >-
-      Mono Korinna
-    location: "Greece"
-    followers: 15720
-    engagement: 1155
-    commentsToLikes: 0.066282
-    id: ck5btqu2ggfpc0i11crypwfyb
-    verified: false
-    hashtags: "#arabicmakeup, #neonmakeup, #bridalmakeup, #makeupoftheday"
   - username: "marina_grigoriou_"
     fullname: >-
       1st RunnerUp MISS HELLAS 2018👑
     location: "Greece"
-    followers: 69983
-    engagement: 1553
-    commentsToLikes: 0.027207
+    followers: 70677
+    engagement: 1509
+    commentsToLikes: 0.063604
     id: ck5chpx39r8mk0i11a0nhx6ln
     verified: true
-    hashtags: "#iamawolter, #woltgreece, #woltsouth"
+    hashtags: "#woltsouth, #dermatologyclinic, #facetreatment, #skincare"
+  - username: "core.innaa"
+    fullname: >-
+      Mono Korinna
+    location: "Greece"
+    followers: 15915
+    engagement: 1258
+    commentsToLikes: 0.089474
+    id: ck5btqu2ggfpc0i11crypwfyb
+    verified: false
+    hashtags: "#softglam, #youtube, #giveawaygreece, #makeuptrainer"
+  - username: "izambellachr_makeup"
+    fullname: >-
+      Izambella Christodoulou 🧿
+    location: "Greece"
+    followers: 68324
+    engagement: 534
+    commentsToLikes: 0.036544
+    id: ck5c666bm4szy0i11gj2k9eke
+    verified: false
+    hashtags: "#makeuptutorial, #outfitchange, #mood, #outfitodtheday"
+  - username: "filiosarantinou_mua"
+    fullname: >-
+      Filio Sarantinou MUA
+    location: "Greece"
+    followers: 9191
+    engagement: 1741
+    commentsToLikes: 0.581991
+    id: ck9wempu6ky690j78v4jqkyik
+    verified: false
+    hashtags: "#weddingglam, #colourmakeup, #glam, #giveaway"
   - username: "dimitris__stamatiou"
     fullname: >-
       Dimitris Stamatiou Makeup
     location: "Greece"
-    followers: 34179
-    engagement: 184
-    commentsToLikes: 0.057695
+    followers: 34725
+    engagement: 161
+    commentsToLikes: 0.117716
     id: ck13599w50cbh0i19zcyvju31
     verified: false
-    hashtags: "#home, #bridalhair, #seminars, #lip"
-  - username: "kceniyah"
-    fullname: >-
-      aesthetic - makeup
-    location: "Greece"
-    followers: 137095
-    engagement: 2191
-    commentsToLikes: 0.006896
-    id: ck5c7ksgs7pj70i11u2j0xi3h
-    verified: false
-    hashtags: ""
-  - username: "nakopoulouvaso"
-    fullname: >-
-      VasoNakopoulou
-    location: "Greece"
-    followers: 52830
-    engagement: 459
-    commentsToLikes: 0.019842
-    id: ck0vwimaatza90i19beqstt9s
-    verified: false
-    hashtags: "#styling, #redlips, #model, #myprincess"
-  - username: "kitavina_mua"
-    fullname: >-
-      𝒦𝒾𝓉𝒶𝓋𝒾𝓃𝒶 𝐸𝓁𝑒𝓃𝒶
-    location: "Greece"
-    followers: 9696
-    engagement: 1274
-    commentsToLikes: 0.122399
-    id: ck5hdmzplob710i11eewj7d0w
-    verified: false
-    hashtags: "#fentybeautyhighlighter, #highquality, #liketime, #makeuptrends2020"
-  - username: "victoriagrosu"
-    fullname: >-
-      Makeup Artist Victoria Grosu
-    location: "Greece"
-    followers: 32252
-    engagement: 768
-    commentsToLikes: 0.053745
-    id: ck5hdmyafoaxq0i11q5fh7u61
-    verified: false
-    hashtags: "#instaphoto, #athensmakeupartist, #makeupschoolgreece, #ignosieinaidinami"
+    hashtags: "#eyeshadow, #eyelashes, #jlo, #giveaway"
   - username: "katerina.peftitsi"
     fullname: >-
       Cathy Jones
     location: "Greece"
-    followers: 38589
-    engagement: 910
-    commentsToLikes: 0.014604
+    followers: 37565
+    engagement: 815
+    commentsToLikes: 0.010976
     id: ck5q40s0zn8bo0i11s00o94xq
     verified: false
-    hashtags: "#koronavir, #styleoftheday, #lookoftheday, #roses"
-  - username: "missdelilaaah"
+    hashtags: "#idea, #matfashion, #loveyourcurves, #thepurpose"
+  - username: "nakopoulouvaso"
     fullname: >-
-      💋 Delilah
+      VasoNakopoulou
     location: "Greece"
-    followers: 16032
-    engagement: 288
-    commentsToLikes: 0.090778
-    id: ck5hniey3nu220i11fxlfpkg3
+    followers: 53401
+    engagement: 488
+    commentsToLikes: 0.018770
+    id: ck0vwimaatza90i19beqstt9s
     verified: false
-    hashtags: "#nbatogether, #prokind, #maldivesedition, #goddessvibesonly"
+    hashtags: "#liveshow, #smile, #sunglasses, #everyday"
+  - username: "afroditi_kasouta"
+    fullname: >-
+      Afroditi Kasouta
+    location: "Greece"
+    followers: 16582
+    engagement: 1491
+    commentsToLikes: 1.842667
+    id: ckap4zoh99j6v0i78mu1cnx2q
+    verified: false
+    hashtags: "#giveawayalert, #giveawaytime, #giveawaygreece, #diagwnismos"
+  - username: "kostantina_lola"
+    fullname: >-
+      𝒦𝑜𝓈𝓉𝒶𝓃𝓉𝒾𝓃𝒶 🌻
+    location: "Greece"
+    followers: 8440
+    engagement: 365
+    commentsToLikes: 0.054949
+    id: ck13a605sosa30i19tcsbkrm7
+    verified: false
+    hashtags: "#tb, #nofilter"
+  - username: "roula_dimitriadou_tsaliki_"
+    fullname: >-
+      𝗥𝗢𝗨𝗟𝗔 𝗗𝗜𝗠𝗜𝗧𝗥𝗜𝗔𝗗𝗢𝗨 𝗧𝗦𝗔𝗟𝗜𝗞𝗜
+    location: "Greece"
+    followers: 20486
+    engagement: 461
+    commentsToLikes: 0.170273
+    id: ck5zp2sh6rvl60i14dy7tlc6z
+    verified: false
+    hashtags: "#karantina, #caffenerocy, #contactlessdelivery, #makeup"
 ---

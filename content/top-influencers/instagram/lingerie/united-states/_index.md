@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In United States In 2020
 description: >-
-  Find top lingerie Instagram influencers in United States in 2020. Most popular hashtags: #stayhome #ootd #fashion #instastyle.
+  Find top lingerie Instagram influencers in United States in 2020. Most popular hashtags: #lingerie #classywomen #happymothersday #fashion.
 platform: Instagram
 profiles:
   - username: "erinelleinsta"
     fullname: >-
       Erin Michelle Conroy
     location: "United States"
-    followers: 17490
-    engagement: 1735
-    commentsToLikes: 0.058904
+    followers: 17741
+    engagement: 1705
+    commentsToLikes: 0.059178
     id: ck6u6fcecf9ym0j71j6zahuoh
     verified: false
-    hashtags: "#womeninfilm, #equality, #sponsored, #lgbtq"
+    hashtags: "#loveisloveisloveislove, #pride, #lingerie, #loveislove"
   - username: "inna_khojamiryan"
     fullname: >-
       Inna Khojamiryan
     location: "United States"
-    followers: 306913
-    engagement: 618
-    commentsToLikes: 0.028840
+    followers: 320793
+    engagement: 551
+    commentsToLikes: 0.024023
     id: ck6udaeeajysc0j71c3m36g2w
     verified: false
-    hashtags: "#carantine, #working, #yandextaxievn, #stayathome"
-  - username: "camareebarr"
+    hashtags: "#1915, #happyinternationaltheatreday, #covid, #staystrong"
+  - username: "modelmanu"
     fullname: >-
-      CAMAREE
+      Modelmanu
     location: "United States"
-    followers: 2966
-    engagement: 1525
-    commentsToLikes: 0.124700
-    id: ck0uajq4jcf6e0i19d7a8qxz3
+    followers: 15145
+    engagement: 445
+    commentsToLikes: 0.110142
+    id: ckapbflkkzqy80i784lrl09z1
     verified: false
-    hashtags: "#aug1st, #guesswhosback, #raiseyourvibration, #staysafe"
+    hashtags: "#silence, #styleblogger, #beautymodels, #teamwork"
   - username: "chaantellie"
     fullname: >-
       Chantelle Tyler
     location: "United States"
-    followers: 84416
-    engagement: 441
-    commentsToLikes: 0.029500
+    followers: 86133
+    engagement: 486
+    commentsToLikes: 0.030653
     id: ck0w38h1ss4180i19xxc4ebi1
     verified: false
-    hashtags: "#naturalhair, #style, #fashion, #naturalbrows"
+    hashtags: "#springlooks, #ootd, #ootn, #plusizemodeling"
+  - username: "svetlana_fedorkevich"
+    fullname: >-
+      Светлана Федоркевич
+    location: "United States"
+    followers: 12565
+    engagement: 1267
+    commentsToLikes: 0.033732
+    id: ckapalc0pwkiz0i784av0n2e2
+    verified: false
+    hashtags: "#neonphotography, #leatherstraps, #supercat, #latexleggings"
   - username: "lifeinbeverlyheels"
     fullname: >-
       Beverly Beal 💋
     location: "United States"
-    followers: 44474
-    engagement: 346
-    commentsToLikes: 0.032530
+    followers: 44097
+    engagement: 296
+    commentsToLikes: 0.047102
     id: ck5cbh77effal0i11tgdava76
     verified: false
-    hashtags: "#neutrogenapartner, #neutrogena, #neutrogenamakeup, #stayhome"
-  - username: "cheyenne_witch29"
+    hashtags: "#tbt, #goldseriespartner, #alexaskiptoseasontwo, #haldiskin"
+  - username: "jillgraysonofficial"
     fullname: >-
-      Cheyenne Prather
+      Jill Grayson
     location: "United States"
-    followers: 11241
-    engagement: 642
-    commentsToLikes: 0.046488
-    id: ck0uapy4scucc0i19sil51f8q
+    followers: 45118
+    engagement: 481
+    commentsToLikes: 0.025426
+    id: ck5c7kj5g7oxx0i111p4c5k7v
     verified: false
-    hashtags: "#onlyfans, #photographer, #ass, #bodyart"
-  - username: "curvyelle"
+    hashtags: "#mermaidmonday, #arielcosplayer, #pinupstyle, #glamourwinter"
+  - username: "jakedupree"
     fullname: >-
-      ᴇʟʟᴇ | ᴘʟᴜs ᴍᴏᴅᴇʟ
+      Jake DuPree
     location: "United States"
-    followers: 33108
-    engagement: 275
-    commentsToLikes: 0.037238
-    id: ck6u7paqpmvei0j719710s7lr
-    verified: false
-    hashtags: "#mondaymorningdaydreaming"
-  - username: "kittenwithfangs"
+    followers: 76689
+    engagement: 849
+    commentsToLikes: 0.022756
+    id: ck0u1hmmawx5f0i19nhkx8ygr
+    verified: true
+    hashtags: "#worldburlesqueday, #justiceforahmaud, #irunwithmaud, #blacklivesmatter"
+  - username: "petit_trefle"
     fullname: >-
-      Amanda Kelly
+      ☘ Clover ☘
     location: "United States"
-    followers: 29372
-    engagement: 653
-    commentsToLikes: 0.031472
-    id: ck5q81whd42sf0i11t4ryl5yn
+    followers: 64996
+    engagement: 492
+    commentsToLikes: 0.018737
+    id: ck8syuejrm1nt0j78dez0fxad
     verified: false
-    hashtags: ""
-  - username: "ammeb"
+    hashtags: "#thickthighs, #curvyandbeautiful, #fan, #lingerieblogger"
+  - username: "lolobarrosm"
     fullname: >-
-      🌸Amme B🌸
+      Lolo Barros
     location: "United States"
-    followers: 82528
-    engagement: 253
-    commentsToLikes: 0.016659
-    id: ck14gretu6n9v0i19kcgnedzg
+    followers: 181657
+    engagement: 614
+    commentsToLikes: 0.034380
+    id: ckap3fdym2ukn0i78luf6b9dr
     verified: false
-    hashtags: "#pastel, #girlygirl, #spring, #momjeans"
-  - username: "sarairollins"
-    fullname: >-
-      Sarai Rollins
-    location: "United States"
-    followers: 566572
-    engagement: 115
-    commentsToLikes: 0.023802
-    id: ck0vy66mw2eyq0i195zm3ouml
-    verified: false
-    hashtags: "#jigglejiggle, #shotoniphone, #quarantine, #quarantinelife"
+    hashtags: "#sexyandclassy, #sheertights, #fitmomsinspire, #blackpumps"
 ---

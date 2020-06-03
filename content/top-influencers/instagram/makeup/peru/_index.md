@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Peru In 2020
 description: >-
-  Find top makeup Instagram influencers in Peru in 2020. Most popular hashtags: #makeup #makeupartist #peru #peruana.
+  Find top makeup Instagram influencers in Peru in 2020. Most popular hashtags: #makeuplook #carnivalxlpro #youtube #plouise.
 platform: Instagram
 profiles:
   - username: "claudialorena_"
     fullname: >-
-      Claudia Lorena Carrillo
+      ＣＬＡＵＤＩＡ ＬＯＲＥＮＡ
     location: "Peru"
-    followers: 24143
-    engagement: 1487
-    commentsToLikes: 0.192611
+    followers: 35607
+    engagement: 1215
+    commentsToLikes: 0.158160
     id: ck8t5fz9qa1nt0j78h33lb9z1
     verified: false
-    hashtags: "#limaperu, #peruanos, #tumblrperu, #photo"
-  - username: "maferbenites"
-    fullname: >-
-      MAFER BENITES
-    location: "Peru"
-    followers: 43152
-    engagement: 293
-    commentsToLikes: 0.276628
-    id: ck55m203f309u0i11trhkmrnf
-    verified: false
-    hashtags: "#masterclass, #picoftheday, #bully, #casualoutfit"
+    hashtags: "#quemadordegrasa, #publicidad"
   - username: "ceciliakatz"
     fullname: >-
       Cecilia Katz
     location: "Peru"
-    followers: 23081
-    engagement: 266
-    commentsToLikes: 0.067108
+    followers: 25898
+    engagement: 327
+    commentsToLikes: 0.071735
     id: ck0twjqqqfoye0i197c58iytx
     verified: false
-    hashtags: "#semicutcrease, #belleza, #makeuplover, #cusco"
+    hashtags: "#parabenfree, #husbandandwife, #cocktailmakeup, #novias"
   - username: "anggie.makeupartist"
     fullname: >-
       Anggie Rodriguez
     location: "Peru"
-    followers: 3820
-    engagement: 965
-    commentsToLikes: 0.274504
+    followers: 4022
+    engagement: 908
+    commentsToLikes: 0.271575
     id: ck5zzoq6cc4zt0i14cq17ibln
     verified: false
-    hashtags: "#makeupchristmas, #muas, #peruvianmakeupartist, #newyearmakeup"
-  - username: "kawaiidoll1"
+    hashtags: "#makyaj, #plouise, #colors, #glittermakeup"
+  - username: "maferbenites"
     fullname: >-
-      kawaiidoll1
+      MAFER BENITES
     location: "Peru"
-    followers: 368113
-    engagement: 129
-    commentsToLikes: 0.017925
-    id: ck0u21rarym180i19k4dh5bcs
+    followers: 44885
+    engagement: 234
+    commentsToLikes: 0.208011
+    id: ck55m203f309u0i11trhkmrnf
     verified: false
-    hashtags: "#lagirlcosmetics, #maquiaguem, #latina, #looks"
+    hashtags: "#makeupclasses, #tumblrphotos, #editorialmakeup, #pinkmakeup"
   - username: "nosoyunaflor"
     fullname: >-
-      Rosa, Nosoyunaflor 🌹
+      Rosa Reynoso
     location: "Peru"
-    followers: 13226
-    engagement: 222
-    commentsToLikes: 0.567164
+    followers: 13452
+    engagement: 190
+    commentsToLikes: 0.496165
     id: ck1397nqbjy0n0i190jnhffk9
     verified: false
-    hashtags: "#fashion, #peru, #l4l, #frasesparafotos"
+    hashtags: "#fortnite, #fback, #tiktokapp, #instafotografia"
   - username: "sandrallosamakeup"
     fullname: >-
       Sandra Llosa
     location: "Peru"
-    followers: 33110
-    engagement: 1042
-    commentsToLikes: 0.015503
+    followers: 33342
+    engagement: 1060
+    commentsToLikes: 0.017787
     id: ck8tda4542in70j78nq06c5m0
     verified: false
     hashtags: ""
+  - username: "kawaiidoll1"
+    fullname: >-
+      kawaiidoll1
+    location: "Peru"
+    followers: 382201
+    engagement: 128
+    commentsToLikes: 0.010713
+    id: ck0u21rarym180i19k4dh5bcs
+    verified: false
+    hashtags: "#saramaldonado"
   - username: "lavidamesonrie"
     fullname: >-
       Jenny Ruiz hair&makeup artist
     location: "Peru"
-    followers: 2857
-    engagement: 2416
-    commentsToLikes: 0.038439
+    followers: 2794
+    engagement: 2491
+    commentsToLikes: 0.038393
     id: ck14hh413aav10i19dflrkpw1
     verified: false
-    hashtags: "#algodon, #art, #monalisa, #elbeso"
-  - username: "lamaquilladora_"
+    hashtags: "#bluhair, #sweet, #woman, #superpower"
+  - username: "medicentatssss"
     fullname: >-
-      🦄 Cynthia Calderon 🇵🇪
+      Tatiana Ciprian❣️
     location: "Peru"
-    followers: 83703
-    engagement: 111
-    commentsToLikes: 0.021263
-    id: ck5zrc3ihwayy0i147kdusb1o
-    verified: true
-    hashtags: "#eldesamor, #webonadatecuenta, #estefinnotomo, #angelina"
-  - username: "silviazepedamx"
-    fullname: >-
-      Silvia Zepeda
-    location: "Peru"
-    followers: 74982
-    engagement: 603
-    commentsToLikes: 0.042662
-    id: ck6tmlget82460j71bqig4a6g
+    followers: 16336
+    engagement: 2504
+    commentsToLikes: 0.053585
+    id: ck8wexam4erca0j780k8t9pn1
     verified: false
-    hashtags: "#vivamexico, #hechoenmexico, #silviazepeda, #horaciovillalobos"
+    hashtags: "#huaylarsh, #yomequedoencasa, #cuarentenacoronavirus, #marinera"
+  - username: "diegomoralescc"
+    fullname: >-
+      D I E G O  M O R A L E S 🔥
+    location: "Peru"
+    followers: 22107
+    engagement: 384
+    commentsToLikes: 0.110311
+    id: ck8sxv1z6irva0j7872wq7owk
+    verified: false
+    hashtags: "#streetfashion, #johnsph, #quietthechaos, #streetstyle"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Music Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top music Instagram influencers in Malaysia in 2020. Most popular hashtags: #retnomengikatjiwa #stayathome #malaysiancover #retnosings.
+  Find top music Instagram influencers in Malaysia in 2020. Most popular hashtags: #love #happymothersday #f2fkaki #spicylookchallenge.
 platform: Instagram
 profiles:
   - username: "angelachingwan"
     fullname: >-
       許靖韻 Angela 小背心
     location: "Malaysia"
-    followers: 118307
-    engagement: 388
-    commentsToLikes: 0.016688
+    followers: 121132
+    engagement: 437
+    commentsToLikes: 0.021284
     id: ck0vxozc9005q0i19l9ph3w3d
     verified: true
-    hashtags: "#avrillavigne, #whenyouregone, #istayhomefor, #lagarepr"
+    hashtags: "#pumahk, #bestcrewpr, #avrillavigne, #marcjacobs"
+  - username: "chaleedaxgilbert"
+    fullname: >-
+      chaleeda
+    location: "Malaysia"
+    followers: 241025
+    engagement: 950
+    commentsToLikes: 0.006105
+    id: ck0u137r5vnff0i19xpmk0jt4
+    verified: true
+    hashtags: "#rocketfuelent, #drmartensmalaysia, #noir, #theguitarmagawards2020"
+  - username: "kayeepo"
+    fullname: >-
+      譚嘉儀 𝒦𝒶𝓎𝑒𝑒 𝒯𝒶𝓂
+    location: "Malaysia"
+    followers: 127950
+    engagement: 323
+    commentsToLikes: 0.018581
+    id: ck5c5ipe33jpk0i1117y74mln
+    verified: true
+    hashtags: "#loving, #selflove, #rememberwhoyouare, #13"
+  - username: "aiweihero"
+    fullname: >-
+      Aiwei Hero李藹蔚🇹🇼台北🇲🇾ipoh演出歌手
+    location: "Malaysia"
+    followers: 114449
+    engagement: 295
+    commentsToLikes: 0.018963
+    id: ck8sxkbslhpka0j788fxz4u5h
+    verified: false
+    hashtags: "#gdlotto, #stayhome, #lockdown, #shobieyestw"
   - username: "saminwhuut"
     fullname: >-
       SOMEAN K-CLIQUE
     location: "Malaysia"
-    followers: 165908
-    engagement: 1171
-    commentsToLikes: 0.007070
+    followers: 166267
+    engagement: 1118
+    commentsToLikes: 0.007970
     id: ck136pp9m7nly0i19onfci0bk
     verified: false
-    hashtags: "#kcliquejuice, #cliquejuice, #stonedandco, #jdsportsmy"
+    hashtags: "#stonedandco, #jdsportsmy, #bagaimimpi, #kittamove"
   - username: "chronfuying"
     fullname: >-
       Fuying Chronicles 王赴穎
     location: "Malaysia"
-    followers: 36206
-    engagement: 466
-    commentsToLikes: 0.007186
+    followers: 35985
+    engagement: 509
+    commentsToLikes: 0.009778
     id: ck5hnu8n5oeh30i11evuykgta
     verified: false
-    hashtags: "#mambaforever, #youknowwhatitis, #fingerscrossed, #godblessourcountry"
+    hashtags: "#spicylookchallenge, #socialplaylist, #idontmindthough, #mambaforever"
   - username: "stephyyiwen"
     fullname: >-
-      !         STEPHY YIWEN
+      STEPHY 郑意文
     location: "Malaysia"
-    followers: 452663
-    engagement: 451
-    commentsToLikes: 0.002261
+    followers: 460435
+    engagement: 458
+    commentsToLikes: 0.003977
     id: ck0vz393x72lz0i190xw0ysei
     verified: false
-    hashtags: "#simplemaskmy, #drcink, #proacnesolution, #swift5"
-  - username: "yazmin.aziz"
+    hashtags: "#danielwellington, #prorenew, #4d, #alenstephy"
+  - username: "karinahor"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀ Ｙａｚｍｉｎ　Ａｚｉｚ
+      !             Karina🎀
     location: "Malaysia"
-    followers: 26934
-    engagement: 204
-    commentsToLikes: 0.045897
-    id: ck5zoo1sqqydx0i14beohvb9g
+    followers: 63650
+    engagement: 185
+    commentsToLikes: 0.013175
+    id: ck5q8bwfg5en20i11x293lypl
     verified: false
-    hashtags: "#casualwear, #stayathome, #waybackwednesday, #tiktokphilippines"
-  - username: "aisharetno02"
+    hashtags: "#wirelessheaphone, #foodie, #dumpling, #happymothersday"
+  - username: "palsinn"
     fullname: >-
-      MENGIKAT JIWA OUT NOW
+      Pal Sinn
     location: "Malaysia"
-    followers: 9848
-    engagement: 1228
-    commentsToLikes: 0.040181
-    id: ck5cl4vc2y94t0i11lmy6mtrh
+    followers: 107593
+    engagement: 278
+    commentsToLikes: 0.015877
+    id: ck5c5it7x3jyg0i11qb3zvfrm
     verified: false
-    hashtags: "#mengikatjiwa, #siblings, #dirumahaja, #ajl34"
-  - username: "afiffsola"
+    hashtags: "#happybirthdayeveryone, #marshallmonitor, #crazyrunners"
+  - username: "winniek_my"
     fullname: >-
-      Mohamad Afif
+      Winnie K
     location: "Malaysia"
-    followers: 81945
-    engagement: 1802
-    commentsToLikes: 0.021444
-    id: ck0tzq679r5ir0i19uz05ogha
-    verified: false
-    hashtags: "#afifsusanto, #dealovacover, #abesola, #lagu90an"
-  - username: "blink_mys"
-    fullname: >-
-      BLINK | G + B | LAPSAP
-    location: "Malaysia"
-    followers: 21910
-    engagement: 632
-    commentsToLikes: 0.028076
-    id: ck5hknhhyiqxv0i11zpvwyuyh
-    verified: false
-    hashtags: "#sneakerlah, #blinkers, #stayhome, #yourboyblink"
-  - username: "dummyzacky"
-    fullname: >-
-      zack lee
-    location: "Malaysia"
-    followers: 3201
-    engagement: 1594
-    commentsToLikes: 0.045252
-    id: ck136read7vxv0i19bv3khdtj
-    verified: false
-    hashtags: "#dribbble, #googlechrome, #buckuback, #animation"
-  - username: "aniqxnashri"
-    fullname: >-
-      Aniq Nashri
-    location: "Malaysia"
-    followers: 17272
-    engagement: 431
-    commentsToLikes: 0.022905
-    id: ck6tigwaq0p1f0j7129x5a3rs
-    verified: false
-    hashtags: "#bajumelayu, #laguraya, #stayathome, #comedyvideopromo"
+    followers: 215246
+    engagement: 167
+    commentsToLikes: 0.018642
+    id: ck5zotkhyraxs0i14pe1m3368
+    verified: true
+    hashtags: "#bppolo, #birthday, #chinesenewyear, #bdaycelebration"
 ---

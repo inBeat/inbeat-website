@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Belgium In 2020
 description: >-
-  Find top home decor Instagram influencers in Belgium in 2020. Most popular hashtags: #ootd #fashion #belgianblogger #fashionblogger.
+  Find top home decor Instagram influencers in Belgium in 2020. Most popular hashtags: #homedecor #decor #beauty #sweater.
 platform: Instagram
 profiles:
-  - username: "valentinbruneau"
+  - username: "thatgirlwithherblog"
     fullname: >-
-      Valentin bruneau
+      ⚡️ JOLIEN ⚡️
     location: "Belgium"
-    followers: 43716
-    engagement: 423
-    commentsToLikes: 0.069482
-    id: ck0w6zn3mb0xk0i1935o5l4v1
+    followers: 27913
+    engagement: 265
+    commentsToLikes: 0.266549
+    id: ck5zzekd4bla00i14eejmw1pz
     verified: false
-    hashtags: "#chelseaboots, #shaving, #leather, #brussels"
-  - username: "flo__ll"
-    fullname: >-
-      🍃 F l o r i n e  🍃
-    location: "Belgium"
-    followers: 35561
-    engagement: 167
-    commentsToLikes: 0.171081
-    id: ck55kj587zfc70i11mhsd1fkg
-    verified: false
-    hashtags: "#thekooples, #oranhermes, #chaussures, #igdailyphoto"
-  - username: "ruxandraioana"
-    fullname: >-
-      ♥ RUX ♥ 🦂
-    location: "Belgium"
-    followers: 42248
-    engagement: 330
-    commentsToLikes: 0.095709
-    id: ck0w5g7i43hq00i19uzu7oqse
-    verified: false
-    hashtags: "#todaysoutfit, #swimmingpool, #offshoulder, #confinementcreatif"
+    hashtags: "#staypositive, #cuddle, #candle, #mydomoexpress"
   - username: "loic_vanlang"
     fullname: >-
       Loic Van Lang
     location: "Belgium"
-    followers: 32917
-    engagement: 211
-    commentsToLikes: 0.076454
+    followers: 32369
+    engagement: 208
+    commentsToLikes: 0.081389
     id: ck6txv4o6013a0j71cdbx4z2e
     verified: false
-    hashtags: "#casalinda, #meugalo, #keepinghealthy, #ipanemabeach"
-  - username: "lolistys"
+    hashtags: "#saopaulo, #bodygoals, #jacuzzi, #ootdmens"
+  - username: "valentinbruneau"
     fullname: >-
-      Lolisty
+      Valentin bruneau
     location: "Belgium"
-    followers: 29882
-    engagement: 320
-    commentsToLikes: 0.158978
-    id: ck55j34rdw5ek0i11wtc4mi3c
+    followers: 43438
+    engagement: 447
+    commentsToLikes: 0.058707
+    id: ck0w6zn3mb0xk0i1935o5l4v1
     verified: false
-    hashtags: "#streetstory, #naturetherapy, #healthymindhealthybody, #whitelover"
-  - username: "idoitmyself.be"
+    hashtags: "#sportsclothes, #streetstyleman, #heatedrazor, #hoodiestyle"
+  - username: "flo__ll"
     fullname: >-
-      Céline - I Do It Myself
+      🍃 F l o r i n e  🍃
     location: "Belgium"
-    followers: 34738
-    engagement: 356
-    commentsToLikes: 0.116387
-    id: ck6tylwjm4i810j71a9qlxden
+    followers: 35389
+    engagement: 164
+    commentsToLikes: 0.138954
+    id: ck55kj587zfc70i11mhsd1fkg
     verified: false
-    hashtags: "#planthoarder, #greeninteriors, #restezchezvous, #blogbelge"
-  - username: "freyy"
+    hashtags: "#detailsoftheday, #stayhome, #darphinfrance, #jpfantas"
+  - username: "p.vangele"
     fullname: >-
-      𝓕𝓻𝓮𝔂𝓳𝓪 𝓥𝓪𝓷𝓭𝓮𝓷 𝓑𝓻𝓸𝓾𝓬𝓴𝓮
+      p. Van Gele
     location: "Belgium"
-    followers: 14908
-    engagement: 637
-    commentsToLikes: 0.012168
-    id: ck15s8w28btj50i19lz6mcrf8
+    followers: 5272
+    engagement: 1606
+    commentsToLikes: 0.052830
+    id: ck1358que09gf0i19kkeyqfvc
     verified: false
-    hashtags: "#walkies, #cats, #camplife, #pinupmodel"
-  - username: "miss_k_510"
+    hashtags: "#kunst, #obradearte, #abstraktekunst, #artblogger"
+  - username: "ayseshome"
     fullname: >-
-      🎀 The World Of Miss K 🎀
+      Ayşegül🍃
     location: "Belgium"
-    followers: 19167
-    engagement: 350
-    commentsToLikes: 0.158451
-    id: ck136f5sx66x20i195e46bvsv
+    followers: 60102
+    engagement: 256
+    commentsToLikes: 0.047898
+    id: ckaoufcgs012s0i78xondh6ly
     verified: false
-    hashtags: "#smile, #eitjes, #coronavirus, #rimmellondonnl"
-  - username: "lv__dreamworld"
+    hashtags: "#before, #nefisyemekler, #pileababy, #plants"
+  - username: "__iwasamistake__"
     fullname: >-
-      ╰ Fσr тнє lσνє σf ρυrsєѕ ╮
+      Jessy Van Ginderen
     location: "Belgium"
-    followers: 53747
-    engagement: 221
-    commentsToLikes: 0.082490
-    id: ck15shn8ad1ri0i19uzbrymis
+    followers: 13593
+    engagement: 753
+    commentsToLikes: 0.011465
+    id: ck135bpgx0oo60i19hjgei7zf
     verified: false
-    hashtags: "#bags, #kitchendecor, #louisvuittonchain, #lvbagcharm"
-  - username: "helene_rebelo"
+    hashtags: "#clouds, #reading, #sunshine, #thursday"
+  - username: "maryableu"
     fullname: >-
-      Hélène  Rebelo
+      Maryam مریم 🦋
     location: "Belgium"
-    followers: 36129
-    engagement: 338
-    commentsToLikes: 0.014655
-    id: ck137aeplakr60i196dq19g64
+    followers: 30485
+    engagement: 395
+    commentsToLikes: 0.017127
+    id: ckap632gte6g90i78mkd8k576
     verified: false
-    hashtags: "#tableware, #iaai, #ceramicart, #shoes"
+    hashtags: "#architecture, #decoration, #livingroom, #indoorjungle"
+  - username: "styled_by_nii_"
+    fullname: >-
+      Nii Okai Collins
+    location: "Belgium"
+    followers: 6528
+    engagement: 650
+    commentsToLikes: 0.034195
+    id: ckapav4jdxl2s0i78pb67xwdv
+    verified: false
+    hashtags: "#men, #smile, #casualstyle, #vacationfood"
+  - username: "belgianpearlsblog"
+    fullname: >-
+      Greet Lefèvre
+    location: "Belgium"
+    followers: 15591
+    engagement: 296
+    commentsToLikes: 0.031789
+    id: ck6tt22r185ha0j710xajem5j
+    verified: false
+    hashtags: "#augustchair, #belgium, #almostweekend, #myhorse"
 ---

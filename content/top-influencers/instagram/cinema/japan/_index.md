@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Japan In 2020
 description: >-
-  Find top cinema Instagram influencers in Japan in 2020. Most popular hashtags: #japan #abalpha #ig #daily.
+  Find top cinema Instagram influencers in Japan in 2020. Most popular hashtags: #cinema #birthday #actor #packingtips.
 platform: Instagram
 profiles:
-  - username: "zen.visuals"
+  - username: "the_rinayang"
     fullname: >-
-      ©ZEN
+      RINA YANG
     location: "Japan"
-    followers: 14485
-    engagement: 861
-    commentsToLikes: 0.032575
-    id: ck14jxv9emppo0i19g7rqe8nq
+    followers: 34912
+    engagement: 686
+    commentsToLikes: 0.022217
+    id: ck0u9gk529qmg0i19mdadsfxf
     verified: false
-    hashtags: "#adobe, #everyday, #graphicdesign, #storyofthestreet"
+    hashtags: "#leicar, #alexalf, #tb, #whereisthedoor"
   - username: "mc_matthew0v0"
     fullname: >-
       MatthewIp 葉敬軒☘️
     location: "Japan"
-    followers: 6055
-    engagement: 985
-    commentsToLikes: 0.018175
+    followers: 6009
+    engagement: 975
+    commentsToLikes: 0.019817
     id: ck5q7d5wu0z160i11vwk8prtj
     verified: false
-    hashtags: "#travelvideos, #filmmaker, #sony, #fs7"
+    hashtags: "#dreamer, #po, #sony, #fs7"
   - username: "mamaprechanaya"
     fullname: >-
       Mama Prechanaya 3.0
     location: "Japan"
-    followers: 30330
-    engagement: 412
+    followers: 33714
+    engagement: 379
     commentsToLikes: 0.007172
     id: ck8t7wkkui7gx0j78yuraa9ke
     verified: false
-    hashtags: "#pushpapurushan, #master, #sunnyleone, #lockdown"
+    hashtags: "#raghavalawrence, #alluarjun, #singlepasanga, #staysafe"
   - username: "cineca"
     fullname: >-
-      cineca / Mio Tsuchiya
+      cineca / Mio Tsuchiya / つちやみお
     location: "Japan"
-    followers: 16070
-    engagement: 313
-    commentsToLikes: 0.006334
+    followers: 16189
+    engagement: 328
+    commentsToLikes: 0.004479
     id: ck5buydseinfc0i11cnxmm468
     verified: false
-    hashtags: "#lumine, #pintscope, #waribashi, #stayhomemovietime"
+    hashtags: "#hebarium, #axismagazine, #stayhome, #repost"
   - username: "t.hagi_1013"
     fullname: >-
       Tadahisa Hagiwara😎😎
     location: "Japan"
-    followers: 16996
-    engagement: 480
-    commentsToLikes: 0.024863
+    followers: 17222
+    engagement: 318
+    commentsToLikes: 0.006557
     id: ck5q4835qo48s0i11xjgb0vfo
     verified: false
-    hashtags: "#bestjapanpics, #bd, #eye, #wp"
+    hashtags: "#team, #best, #infinity, #explorejapan"
   - username: "abphotographs_"
     fullname: >-
       AB Photographs
     location: "Japan"
-    followers: 11351
-    engagement: 97
-    commentsToLikes: 0.005084
+    followers: 11273
+    engagement: 95
+    commentsToLikes: 0.005457
     id: ck0w3o2l8ue8a0i19hnpw98dq
     verified: false
-    hashtags: "#abalpha, #9yearsabphotographs, #abalpha"
+    hashtags: "#abalpha, #9yearsabphotographs"
   - username: "yuki.linuma"
     fullname: >-
       Yuki ❄️ Finnair Cabin Crew
     location: "Japan"
-    followers: 11230
-    engagement: 1475
-    commentsToLikes: 0.093994
+    followers: 11285
+    engagement: 1420
+    commentsToLikes: 0.090888
     id: ck0w1byh4ikxz0i1989vkx98w
     verified: false
-    hashtags: "#lunarnewyear, #crew, #hokkaido, #favoritecake"
-  - username: "meyou.mae"
+    hashtags: "#lisbon, #nagoyatrip, #japanesedessert, #singaporeworld"
+  - username: "nick_name_charlie___"
     fullname: >-
-      𝐌𝐢𝐲𝐮🦋𝖳𝗈𝗄𝗒𝗈 𝖵𝖾𝗀𝖺𝗇 𝖦𝗂𝗋𝗅｜みゆ
+      💮MidHun💮
     location: "Japan"
-    followers: 11031
-    engagement: 1368
-    commentsToLikes: 0.031710
-    id: ck0txuox7kifh0i19d2ja2pxe
+    followers: 2668
+    engagement: 2602
+    commentsToLikes: 0.097353
+    id: ck9wiczs61rvo0j78lmbftb87
     verified: false
-    hashtags: "#indy, #cool, #ig, #tokyophotography"
-  - username: "gakuspace"
+    hashtags: "#since1901, #tovinothomas, #kozhikode, #bestfriend"
+  - username: "tanakaga.12"
     fullname: >-
-      Gaku Space
+      タナカガ
     location: "Japan"
-    followers: 88588
-    engagement: 1044
-    commentsToLikes: 0.020651
-    id: ck1349ph6vdts0i19q29nyl2j
-    verified: true
-    hashtags: "#burnblue, #genji, #legend, #lovefamily"
-  - username: "asreena_asre"
-    fullname: >-
-      asreena_asree
-    location: "Japan"
-    followers: 15205
-    engagement: 479
-    commentsToLikes: 0.023935
-    id: ck8td59y31xqr0j78zoyio39j
+    followers: 257035
+    engagement: 1577
+    commentsToLikes: 0.007835
+    id: ck8t6apf2cw670j78i1ixrlna
     verified: false
-    hashtags: "#keralite, #keralagodsowncountry, #typographyinspired, #dileep"
+    hashtags: "#klon, #aminomason, #cinemagraph, #dazzshop"
+  - username: "nazaninbayati1_"
+    fullname: >-
+      Nazanin Bayati/نازنین بیاتی
+    location: "Japan"
+    followers: 44647
+    engagement: 577
+    commentsToLikes: 0.017213
+    id: ck9hbw9aciq7p0j78jm7ujk9a
+    verified: false
+    hashtags: "#cinema, #actress, #actor, #film"
 ---

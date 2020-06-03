@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Belgium In 2020
 description: >-
-  Find top bloggers Instagram influencers in Belgium in 2020. Most popular hashtags: #belgianblogger #ootd #fashion #outfit.
+  Find top bloggers Instagram influencers in Belgium in 2020. Most popular hashtags: #giveaway #stayhome #dress #quarantine.
 platform: Instagram
 profiles:
   - username: "ariacous"
     fullname: >-
       Ariane
     location: "Belgium"
-    followers: 5573
-    engagement: 1317
-    commentsToLikes: 0.097420
+    followers: 5582
+    engagement: 1280
+    commentsToLikes: 0.105916
     id: ck6ub5q557mii0j7132rl8uut
     verified: false
-    hashtags: "#reusable, #love, #hemphydration, #dwwatch"
-  - username: "yasminevandenmeersch"
-    fullname: >-
-      YASMINE | Fashion & Lifestyle
-    location: "Belgium"
-    followers: 3467
-    engagement: 2364
-    commentsToLikes: 0.235661
-    id: ck5cdpth1jklb0i11zszmk5lx
-    verified: false
-    hashtags: "#smile, #influaddict, #look, #sunny"
-  - username: "thesparkleflake"
-    fullname: >-
-      Amandine
-    location: "Belgium"
-    followers: 17031
-    engagement: 235
-    commentsToLikes: 0.141489
-    id: ck8sxrvedifp10j78swu8d3as
-    verified: false
-    hashtags: "#contest, #concours, #giveaway, #goodluck"
+    hashtags: "#thebodyshopbe, #donutshop, #sweater, #floraldress"
   - username: "ruxandraioana"
     fullname: >-
       ♥ RUX ♥ 🦂
     location: "Belgium"
-    followers: 42248
-    engagement: 330
-    commentsToLikes: 0.095709
+    followers: 43197
+    engagement: 355
+    commentsToLikes: 0.097816
     id: ck0w5g7i43hq00i19uzu7oqse
     verified: false
-    hashtags: "#todaysoutfit, #swimmingpool, #offshoulder, #confinementcreatif"
-  - username: "mathildehaenen"
+    hashtags: "#belgianblog, #brusselsblogger, #underwaterlove, #shopping"
+  - username: "annabelpesant"
     fullname: >-
-      Mathilde Haenen
+      Annabel
     location: "Belgium"
-    followers: 15889
-    engagement: 229
-    commentsToLikes: 0.078880
-    id: ck6ub49097ddx0j71vgfxhrby
+    followers: 138558
+    engagement: 105
+    commentsToLikes: 0.048927
+    id: ck14gwhy27dp10i19dzj95sy7
     verified: false
-    hashtags: "#outfitoftheday, #fashion, #atthemoxy, #styleinspo"
-  - username: "thewildgirlblog"
+    hashtags: "#veggiecue, #veggiecuecontest, #swarovski, #sparkdelight"
+  - username: "yasminevandenmeersch"
     fullname: >-
-      VANESSA  🐯 THEWILDGIRL
+      YASMINE | Fashion & Lifestyle
     location: "Belgium"
-    followers: 29601
-    engagement: 299
-    commentsToLikes: 0.026534
-    id: ck5bx0286mqxs0i11mobytskr
+    followers: 4570
+    engagement: 2350
+    commentsToLikes: 0.301702
+    id: ck5cdpth1jklb0i11zszmk5lx
     verified: false
-    hashtags: "#quequelqunmesauve, #upcycling, #ohanami, #japan2020"
-  - username: "lafilleagateaux"
+    hashtags: "#amsterdamcity, #bamboo, #smallinfluencer, #selfreminder"
+  - username: "beyoftravel"
     fullname: >-
-      Kristel - Travel Blogger
+      Stéphanie | Travel Blogger
     location: "Belgium"
-    followers: 33522
-    engagement: 164
-    commentsToLikes: 0.057149
-    id: ck13anyz9rbif0i198idr8gqq
+    followers: 14335
+    engagement: 512
+    commentsToLikes: 0.118676
+    id: ck14jrqjmlui70i19ij5pbxr9
     verified: false
-    hashtags: "#igersbrussels, #kikolips, #uccle, #collab"
+    hashtags: "#geierlayh, #visitbrussels, #aroundtheglobe, #imtb"
   - username: "sophyfantasy"
     fullname: >-
       🆂🅾🅿🅷🅸🅴 ♡
     location: "Belgium"
-    followers: 6804
-    engagement: 503
-    commentsToLikes: 0.087377
+    followers: 6824
+    engagement: 546
+    commentsToLikes: 0.101922
     id: ck0tvlg5abv4k0i19mwa4mmby
     verified: false
-    hashtags: "#standprive, #gualaplook, #teddy, #legrascestlavie"
-  - username: "annickverschueren"
+    hashtags: "#etoiles, #giveaway, #contest, #pastel"
+  - username: "thewildgirlblog"
     fullname: >-
-      Annick @ MinnieMie
+      VANESSA  🐯 THEWILDGIRL
     location: "Belgium"
-    followers: 5964
-    engagement: 399
-    commentsToLikes: 0.085664
-    id: ck0w61bpg6fsu0i19lnq49zik
+    followers: 28759
+    engagement: 285
+    commentsToLikes: 0.022009
+    id: ck5bx0286mqxs0i11mobytskr
     verified: false
-    hashtags: "#eloisestrikesapose, #ranonkel, #breieenseentrui, #breakingthepattern"
-  - username: "idoitmyself.be"
+    hashtags: "#louisvuittonosaka, #thewildgirlmagazine, #nara, #japanhaul2020"
+  - username: "alessiadrinklipstick"
     fullname: >-
-      Céline - I Do It Myself
+      Alessia Amodio
     location: "Belgium"
-    followers: 34738
-    engagement: 356
-    commentsToLikes: 0.116387
-    id: ck6tylwjm4i810j71a9qlxden
+    followers: 13441
+    engagement: 494
+    commentsToLikes: 0.182621
+    id: ckaoqm4o3jc2u0i78i4u6s65c
     verified: false
-    hashtags: "#planthoarder, #greeninteriors, #restezchezvous, #blogbelge"
+    hashtags: "#unboxhappiness, #dontrushchallenge, #boohoobabes, #pointcarre"
+  - username: "mybookishempire"
+    fullname: >-
+      Céline 🌻
+    location: "Belgium"
+    followers: 2161
+    engagement: 2207
+    commentsToLikes: 0.129673
+    id: ckaozaou1l14x0i784d3a1fw5
+    verified: false
+    hashtags: "#coverlove, #survival, #yaretelling, #redsuntoldstory"
+  - username: "healthyfoodmakesyoufeelgood"
+    fullname: >-
+      Foodblog Sin
+    location: "Belgium"
+    followers: 3695
+    engagement: 1359
+    commentsToLikes: 0.478043
+    id: ck5ho75oap27p0i118v7gt28f
+    verified: false
+    hashtags: "#pregnantbelly, #6months, #cookies, #valentijn"
 ---

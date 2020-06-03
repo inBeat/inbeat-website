@@ -1,7 +1,7 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Bali In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Bali in 2020. Most popular hashtags: #bali #lifestyle #travel #balitravel.
+  Find top lifestyle Instagram influencers in Bali in 2020. Most popular hashtags: #lifestyle #inspiration #balilife #dirumahaja.
 platform: Instagram
 profiles:
   - username: "igawinda"
@@ -14,94 +14,94 @@ profiles:
     id: ck5ce8ip3kjvg0i11sx78jynv
     verified: false
     hashtags: "#selfquarantine, #workfromhome, #plataranmenjangan, #plataranencounter"
+  - username: "viktoria_narbut"
+    fullname: >-
+      Viktoria Narbut | Bali🏝 Model
+    location: "Indonesia"
+    followers: 34568
+    engagement: 904
+    commentsToLikes: 0.021283
+    id: ck0w4gfx7yg1v0i192kqjrhn8
+    verified: false
+    hashtags: "#kbmood, #fantasy, #fashionlook, #surflife"
+  - username: "jade.bacciarelli"
+    fullname: >-
+      Jade Bacciarelli
+    location: "Indonesia"
+    followers: 10651
+    engagement: 1138
+    commentsToLikes: 0.023964
+    id: ck5c0dkytsxne0i115d6gywyb
+    verified: false
+    hashtags: "#beautiful, #mentalhealth, #instagood, #selflove"
+  - username: "novanandre"
+    fullname: >-
+      Novan Andre
+    location: "Indonesia"
+    followers: 5688
+    engagement: 745
+    commentsToLikes: 0.229182
+    id: ck9whp6qhyx650j78hx22ufs8
+    verified: false
+    hashtags: "#nature, #holyspirit, #banyuwangi, #liveoutdoors"
   - username: "_miss_bohemian"
     fullname: >-
       Tosca Bali Miss Bohemian
     location: "Indonesia"
-    followers: 27988
-    engagement: 291
+    followers: 27855
+    engagement: 293
     commentsToLikes: 0.007768
     id: ck6u4ehxv396t0j71kyai30s6
     verified: false
-    hashtags: "#balivibes, #indonesia, #roadtrippin, #photooftheday"
-  - username: "makasibro"
+    hashtags: "#yogalover, #india, #holy, #puravida"
+  - username: "junechayadi"
     fullname: >-
-      Oleg Kolosyuk
+      June Chayadi
     location: "Indonesia"
-    followers: 2676
-    engagement: 1240
-    commentsToLikes: 0.125872
-    id: ck5hhyew3ap5c0i11bq4llbgq
+    followers: 29462
+    engagement: 135
+    commentsToLikes: 0.030469
+    id: ckapane5bwsze0i784qt05skv
     verified: false
-    hashtags: "#surftraining, #surfbeach, #party, #surfaces"
-  - username: "cynthias_travels"
+    hashtags: "#instaxmini11, #olahraga, #balitrip, #restoapung"
+  - username: "e11a.02"
     fullname: >-
-      Cynthia Parker
+      ella
     location: "Indonesia"
-    followers: 8307
-    engagement: 1188
-    commentsToLikes: 0.024876
-    id: ck0vyymj96fch0i19d137argb
+    followers: 2568
+    engagement: 2068
+    commentsToLikes: 0.120520
+    id: ck6uaq9ei50f60j717e5ztv6t
     verified: false
-    hashtags: ""
-  - username: "chrisokano"
+    hashtags: "#isolation, #tamblynmodel, #runwayfashion, #dresses"
+  - username: "margo_basarab"
     fullname: >-
-      Chris Okano 🍦
+      Margo Basarab  🌋Bali | Crimea🌿
     location: "Indonesia"
-    followers: 55559
-    engagement: 1565
-    commentsToLikes: 0.009276
-    id: ck0u94g4n8yle0i19myresv1i
+    followers: 42053
+    engagement: 104
+    commentsToLikes: 0.061511
+    id: ckap8c1fsnqfb0i78savi1x9s
     verified: false
-    hashtags: "#quarantine, #dirumahaja, #bucin4life, #explorejogja"
-  - username: "margoritapasha"
+    hashtags: "#changgu, #lovestory, #cityliook, #oldmans"
+  - username: "irfan.nursahid08"
     fullname: >-
-      Margarita Pasha
+      irfan nursahid
     location: "Indonesia"
-    followers: 18211
-    engagement: 580
-    commentsToLikes: 0.020714
-    id: ck0w4kz98z3gb0i19gb2mdlcd
+    followers: 29827
+    engagement: 374
+    commentsToLikes: 0.003322
+    id: ck9whliovyet70j789pvqd3f6
     verified: false
-    hashtags: "#dream, #sport, #healthylifestyle, #lifestyle"
-  - username: "apina_kris"
+    hashtags: "#trip, #jogjakarta, #digitalart, #green"
+  - username: "thib_sel"
     fullname: >-
-      Да, еще один блогер, но какой!
+      Streetstyle And Travel
     location: "Indonesia"
-    followers: 10727
-    engagement: 486
-    commentsToLikes: 0.016193
-    id: ck8sygfzwkr7o0j78ekvs8lj1
+    followers: 18109
+    engagement: 519
+    commentsToLikes: 0.055277
+    id: ck8syrktjlqk70j78weosc66a
     verified: false
-    hashtags: "#tropical, #summer, #goodmood, #swimming"
-  - username: "mrvahn"
-    fullname: >-
-      Steven Setiono
-    location: "Indonesia"
-    followers: 40347
-    engagement: 259
-    commentsToLikes: 0.024028
-    id: ck0u0bsy2t7op0i19i5m1kn80
-    verified: false
-    hashtags: "#grabfood, #positivevibes, #foodtography, #workfromhome"
-  - username: "paul_vanml"
-    fullname: >-
-      Paul van Mondfrans Lindén
-    location: "Indonesia"
-    followers: 40927
-    engagement: 566
-    commentsToLikes: 0.013511
-    id: ck0ttfgw22hju0i191hqtphft
-    verified: false
-    hashtags: "#chimieyewear, #oldschoolmotorcycles, #japstyleindonesia, #bmwgs1250"
-  - username: "amospabali"
-    fullname: >-
-      Amo Spa Bali
-    location: "Indonesia"
-    followers: 25902
-    engagement: 274
-    commentsToLikes: 0.019749
-    id: ck5zq5ri7tzn10i1413tqhwy8
-    verified: false
-    hashtags: "#hairspa, #nailsbali, #balievent, #balidelicious"
+    hashtags: "#style, #custombike, #pool, #hanging"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top fashion Instagram influencers in San Francisco in 2020. Most popular hashtags: #love #sanfrancisco #fashion #bayarea.
+  Find top fashion Instagram influencers in San Francisco in 2020. Most popular hashtags: #mothersday #sanfrancisco #throwback #stayhome.
 platform: Instagram
 profiles:
-  - username: "fearlesshairdresser"
+  - username: "trendenvy"
     fullname: >-
-      Justin Thomas
+      Christine Yun | San Francisco
     location: "United States"
-    followers: 46738
-    engagement: 121
-    commentsToLikes: 0.043588
-    id: ck6tqzhsrvswr0j711to94uoq
+    followers: 15649
+    engagement: 304
+    commentsToLikes: 0.145409
+    id: ck8t8q47ilcex0j78p3kpqw6a
     verified: false
-    hashtags: "#hypebeast, #sacramentohair, #sacramentoextensions, #hanzonation"
-  - username: "sanfrancisco.city"
+    hashtags: "#chanelsweater, #sweaterset, #farnientewinery, #swifferclean15"
+  - username: "marina.rough"
     fullname: >-
-      🌉Sᴀɴ Fʀᴀɴᴄɪsᴄᴏ Cɪᴛʏ 🌉
+      ᴍᴀʀɪɴᴀ ʀᴏᴜɢʜ
     location: "United States"
-    followers: 176317
-    engagement: 219
-    commentsToLikes: 0.011730
-    id: ck0u1bd62wezl0i193tx9gq19
+    followers: 4173
+    engagement: 1265
+    commentsToLikes: 0.086258
+    id: ckapa05n8u6jf0i78c6398f5o
     verified: false
-    hashtags: "#abc7eyewitness, #bostoncommon, #usaprimeshot, #bayarea"
+    hashtags: "#coffeevibes, #mylooktoday, #pancakestack, #dressmyfashion"
+  - username: "holmarmusik"
+    fullname: >-
+      Hólmar “Acid Tourist”
+    location: "United States"
+    followers: 18641
+    engagement: 185
+    commentsToLikes: 0.065434
+    id: ck0vz0e626o3u0i19v8o6htwd
+    verified: false
+    hashtags: "#artoninstagram, #magazine, #purell, #bdayplaylist"
+  - username: "kwamebphoto"
+    fullname: >-
+      Kwame Brathwaite
+    location: "United States"
+    followers: 9249
+    engagement: 447
+    commentsToLikes: 0.030192
+    id: ck139rquymtgt0i19k7gg1s9g
+    verified: false
+    hashtags: "#hcponline, #arcmanoroniles, #sikolobrathwaite, #iammalcolmx"
   - username: "kristywicks"
     fullname: >-
       KRISTY • WICKS
     location: "United States"
-    followers: 403301
-    engagement: 289
-    commentsToLikes: 0.042973
+    followers: 411429
+    engagement: 412
+    commentsToLikes: 0.036344
     id: ck0u0jg9atyqy0i19dm88fu8d
     verified: false
-    hashtags: "#freshfood, #adoptdontshop, #realtalk, #summernights"
-  - username: "nehaltenany"
-    fullname: >-
-      Nehal Tenany
-    location: "United States"
-    followers: 10895
-    engagement: 1275
-    commentsToLikes: 0.106335
-    id: ck5zih6f1fp060i14t0tos3b1
-    verified: false
-    hashtags: "#missguided, #fashion, #fashiondaily, #sf"
+    hashtags: "#gardenparty, #ltkspring, #chickensoup, #springstyle"
   - username: "iseetan"
     fullname: >-
       Ess T.
     location: "United States"
-    followers: 27976
-    engagement: 622
-    commentsToLikes: 0.089139
+    followers: 31843
+    engagement: 703
+    commentsToLikes: 0.088185
     id: ck6ubfsv89bcb0j71w75kfv1u
     verified: false
-    hashtags: "#hadenough, #vday2020, #plantsmakepeoplehappy, #feedme"
+    hashtags: "#byewinter, #mondaymood, #gifted, #collaboration"
+  - username: "nehaltenany"
+    fullname: >-
+      Nehal Tenany
+    location: "United States"
+    followers: 10921
+    engagement: 1199
+    commentsToLikes: 0.112602
+    id: ck5zih6f1fp060i14t0tos3b1
+    verified: false
+    hashtags: "#bridalwear, #fashiondaily, #styleblog, #sweaterweather"
+  - username: "junjunsquare"
+    fullname: >-
+      Jun Jun Square
+    location: "United States"
+    followers: 24208
+    engagement: 695
+    commentsToLikes: 0.013914
+    id: ckap41xh05hhe0i780ivuyrd4
+    verified: false
+    hashtags: "#happymothersday, #throwback, #hawaii, #goyardalpinmini"
   - username: "naaanncie"
     fullname: >-
       NᎪNᏟᏆᎬ Ꭰ. | ᴮᴸᴼᴳᴳᴱᴿ
     location: "United States"
-    followers: 46207
-    engagement: 85
-    commentsToLikes: 0.088849
+    followers: 45522
+    engagement: 86
+    commentsToLikes: 0.085741
     id: ck13czgyz2wlk0i19kvjtzuh7
     verified: false
-    hashtags: "#sanfranciscoblogger, #nancied, #lookbook, #blackfriday"
+    hashtags: "#aboutyesterday, #myfalcor, #lasvegas, #lookbook"
   - username: "hello.henry"
     fullname: >-
       Henry Wu
     location: "United States"
-    followers: 26941
-    engagement: 169
-    commentsToLikes: 0.021873
+    followers: 27244
+    engagement: 214
+    commentsToLikes: 0.018936
     id: ck15qn9na3omm0i19gjb8q5er
     verified: false
-    hashtags: "#photographer, #stylist, #mua, #location"
-  - username: "coletteleclair_"
-    fullname: >-
-      Colette LeClair
-    location: "United States"
-    followers: 35012
-    engagement: 274
-    commentsToLikes: 0.097563
-    id: ck5hf26r2vkbz0i11bdd1hhfn
-    verified: false
-    hashtags: "#disco, #avantgarde, #likeamermaid, #streetwear"
-  - username: "maryalicestephenson"
-    fullname: >-
-      Mary Alice Stephenson
-    location: "United States"
-    followers: 56039
-    engagement: 187
-    commentsToLikes: 0.027183
-    id: ck55j6oh2we340i11262lz78c
-    verified: true
-    hashtags: "#insta, #healthcareworkers, #underservedyouth, #covid19"
-  - username: "anastasiathedj"
-    fullname: >-
-      
-    location: "United States"
-    followers: 3721
-    engagement: 834
-    commentsToLikes: 0.063369
-    id: ck5hk02rshjyk0i118deiycvb
-    verified: false
-    hashtags: "#berkeleymusic, #bayareabars, #birthday, #sfbirthday"
+    hashtags: "#shelterinplace, #stayhome"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Music Instagram Influencers In 2020
 description: >-
-  Find top music Instagram influencers in 2020. Most popular hashtags: #duet #fyp #sidnaaz #bhuladunga.
+  Find top music Instagram influencers in 2020. Most popular hashtags: #tiktok #singer #travel #ktm450.
 platform: Instagram
 profiles:
-  - username: "itsyaboyzini"
+  - username: "andrewmatarazzo"
     fullname: >-
-      Zini
+      Andrew Matarazzo
     location: "United States"
-    followers: 8016
-    engagement: 794
-    commentsToLikes: 0.051858
-    id: ck6tqhzcirknn0j71w83c8ngz
+    followers: 198228
+    engagement: 517
+    commentsToLikes: 0.045877
+    id: ck0ttkzb737120i19rukflbih
     verified: false
-    hashtags: "#dragonballz, #vegeta"
+    hashtags: "#jamsession, #singingcover, #singingvideos, #acapella"
   - username: "leralynn"
     fullname: >-
       LERA LYNN
     location: "United States"
-    followers: 22399
-    engagement: 720
-    commentsToLikes: 0.022415
+    followers: 22726
+    engagement: 775
+    commentsToLikes: 0.028999
     id: ck6toojnyf7pq0j7128auohtc
     verified: true
-    hashtags: "#moonie, #davidletterman, #internationalwomensday2020, #womensdayeveryday"
-  - username: "novoamor"
+    hashtags: "#smilingontheinside, #saveourstages, #moonie, #davidletterman"
+  - username: "loghmanhosseinzadeh"
     fullname: >-
-      Novo Amor
-    location: "United States"
-    followers: 63094
-    engagement: 871
-    commentsToLikes: 0.031147
-    id: ck0uc9z04g9n30i19udb6hjqr
-    verified: true
-    hashtags: ""
+      LOGHMANHOSSEINZADEH
+    location: ""
+    followers: 25057
+    engagement: 1323
+    commentsToLikes: 0.072251
+    id: ckaovvgk869e50i78jlpd7fub
+    verified: false
+    hashtags: "#music"
+  - username: "mohammadabbasimusic"
+    fullname: >-
+      mohammadabbasimusic 🎹🎧
+    location: "Iran"
+    followers: 5296
+    engagement: 2311
+    commentsToLikes: 0.107363
+    id: ck9wgvpu3v72z0j78bf7favtd
+    verified: false
+    hashtags: "#etemad, #bekhand"
   - username: "kalleyheili"
     fullname: >-
       kalley
     location: "United States"
-    followers: 299233
-    engagement: 2198
-    commentsToLikes: 0.036226
+    followers: 295364
+    engagement: 2004
+    commentsToLikes: 0.029702
     id: ck55n1llc5abw0i11669c6kha
     verified: false
     hashtags: "#quarantinedaywhoknows"
-  - username: "kyliecantrall"
+  - username: "amir_sbeys"
     fullname: >-
-      Kylie Cantrall
-    location: ""
-    followers: 303469
-    engagement: 1118
-    commentsToLikes: 0.467320
-    id: ck6002wdqcuw00i14meylpyp0
-    verified: true
-    hashtags: "#boombaby, #foryou, #gabbyduran, #fyp"
-  - username: "tyshonlawrence"
-    fullname: >-
-      Tyshon
-    location: "United States"
-    followers: 315328
-    engagement: 1108
-    commentsToLikes: 0.061458
-    id: ck8weo4q4ectc0j78d4qliv8j
+      Amir Sbeys | امیر اِسبيس‌
+    location: "Iran"
+    followers: 3068
+    engagement: 4062
+    commentsToLikes: 0.175222
+    id: ck9wiq2ao3fmt0j784113t6p6
     verified: false
-    hashtags: "#duet, #boyfriendappreciationpost"
-  - username: "pamrosendo"
+    hashtags: "#modeling, #rapper, #tiktok, #rapgod"
+  - username: "aprilia_maniac"
     fullname: >-
-      Pamela
-    location: ""
-    followers: 4181
-    engagement: 2691
-    commentsToLikes: 0.135618
-    id: ck8wfz21eghfd0j78fkhj5y45
-    verified: false
-    hashtags: "#waitress, #theatrekid, #makemefamous, #parati"
-  - username: "ramilka_alimka"
-    fullname: >-
-      ʀᴀᴍɪʟ' ( Legacy Music )
-    location: "Russia"
-    followers: 1245124
-    engagement: 1454
-    commentsToLikes: 0.035251
-    id: ck0u0y4f7v9vq0i19ynrvru1n
-    verified: false
-    hashtags: "#ramilka"
-  - username: "shehnaazgill"
-    fullname: >-
-      Shehnaaz Gill
+      SidHarth A S
     location: "India"
-    followers: 4400483
-    engagement: 1494
-    commentsToLikes: 0.037055
-    id: ck5hcar4ph2m70i114br6nvdy
-    verified: true
-    hashtags: "#sharrymaan, #veham, #happybirthday, #sidnaazians"
-  - username: "lovebellastyle"
-    fullname: >-
-      BELLA  LEE
-    location: "United States"
-    followers: 2580
-    engagement: 2544
-    commentsToLikes: 0.397988
-    id: ck5q7y3xh3ks00i11p1efolek
+    followers: 4540
+    engagement: 2500
+    commentsToLikes: 0.299462
+    id: ck9whx132zv8s0j78644hu0g2
     verified: false
-    hashtags: "#stayhome, #quarantinelife, #tb, #fashionista"
+    hashtags: "#vishupic, #axor, #green, #greeny"
+  - username: "fiachraharp"
+    fullname: >-
+      Fiachra ⭐️
+    location: ""
+    followers: 8325
+    engagement: 2271
+    commentsToLikes: 0.073535
+    id: ck9wexop6mbll0j78sm538tym
+    verified: false
+    hashtags: "#gaypicoftheday, #gayety, #gaygoals, #catdaddy"
+  - username: "floran_officiel"
+    fullname: >-
+      F L O R A N     🦁      DANTE
+    location: "France"
+    followers: 11793
+    engagement: 1970
+    commentsToLikes: 0.067814
+    id: ck6tiaonq0cxa0j71lkmb8ly4
+    verified: false
+    hashtags: "#outfit, #instapic, #tiktok, #curlyhair"
+  - username: "kurtapril_"
+    fullname: >-
+      Kurt April
+    location: "South Africa"
+    followers: 5228
+    engagement: 1792
+    commentsToLikes: 0.142821
+    id: ck15tn2kqiwar0i19j2jpm4yj
+    verified: false
+    hashtags: "#ilovestrettons, #myvans"
 ---

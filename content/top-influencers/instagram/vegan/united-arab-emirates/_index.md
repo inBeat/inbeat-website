@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top vegan Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #mydubai #vegan #dubai #stayhome.
+  Find top vegan Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #vegan #style #lifestyle #healthyfood.
 platform: Instagram
 profiles:
-  - username: "dina_mariam"
+  - username: "joyfulhomecooking"
     fullname: >-
-      Dina Mariam
+      Joyce Mrad
     location: "United Arab Emirates"
-    followers: 18412
-    engagement: 220
-    commentsToLikes: 0.102973
-    id: ck6tpublmn15v0j71l4aaxopx
+    followers: 37206
+    engagement: 347
+    commentsToLikes: 0.090932
+    id: ck138wefhicbv0i19f898cdo1
     verified: false
-    hashtags: "#dubai, #nailart, #dubailife, #fashion"
-  - username: "miss_alexaa"
-    fullname: >-
-      Alexandra Eduardovna
-    location: "United Arab Emirates"
-    followers: 14680
-    engagement: 828
-    commentsToLikes: 0.061875
-    id: ck0udvxu3jyv60i194mm79fvj
-    verified: false
-    hashtags: "#thepinklemonade, #pinkaesthetic, #zen, #whitetiger"
+    hashtags: "#copycatrecipes, #instagood, #veganeats, #veganrecipe"
   - username: "rinkipamnani3"
     fullname: >-
       R I N K Y   P A M N A N I
     location: "United Arab Emirates"
-    followers: 54131
-    engagement: 190
-    commentsToLikes: 0.132353
+    followers: 50370
+    engagement: 171
+    commentsToLikes: 0.186219
     id: ck5zoa9uxq3vu0i14jaioszy6
     verified: false
-    hashtags: "#repost, #style, #watersports, #adventure"
-  - username: "chefsilvena"
-    fullname: >-
-      Chef Silvena Rowe  🇦🇪روح دبي1
-    location: "United Arab Emirates"
-    followers: 119990
-    engagement: 236
-    commentsToLikes: 0.013883
-    id: ck15pjdkay6c70i19788fp4in
-    verified: false
-    hashtags: "#vegan, #happiness, #uaefitnessmovement, #vitaminc"
+    hashtags: "#ootd, #kudinunachnede, #ahichallenge, #mydubai"
   - username: "dominicnowellbarnes"
     fullname: >-
       Dominic Nowell-Barnes
     location: "United Arab Emirates"
-    followers: 450522
-    engagement: 106
-    commentsToLikes: 0.013640
+    followers: 438805
+    engagement: 105
+    commentsToLikes: 0.022035
     id: ck6u9iybbxtz10j710k0w71z5
     verified: false
     hashtags: ""
+  - username: "chefsilvena"
+    fullname: >-
+      Chef Silvena Rowe  🇦🇪روح دبي1
+    location: "United Arab Emirates"
+    followers: 128012
+    engagement: 249
+    commentsToLikes: 0.010140
+    id: ck15pjdkay6c70i19788fp4in
+    verified: false
+    hashtags: "#facebooklive, #cancer, #dairyfree, #mydubai"
   - username: "medinamaste"
     fullname: >-
       Sarah Medina | Yoga Teacher
     location: "United Arab Emirates"
-    followers: 30889
-    engagement: 226
-    commentsToLikes: 0.104584
+    followers: 30678
+    engagement: 285
+    commentsToLikes: 0.125792
     id: ck0u9m4w2a2nt0i19h677hjcr
     verified: false
-    hashtags: "#representreality, #heart, #covid19, #ashtanga"
-  - username: "myglamgypsy"
+    hashtags: "#movement, #memories, #mudra, #colorful"
+  - username: "_alex_dxb_"
     fullname: >-
-      Rosh
+      Λ L E X
     location: "United Arab Emirates"
-    followers: 25135
-    engagement: 184
-    commentsToLikes: 0.080610
-    id: ck0w5yzr8641j0i193jsgznso
+    followers: 10266
+    engagement: 853
+    commentsToLikes: 0.063394
+    id: ck15ugdx7n23h0i196qtosxdh
     verified: false
-    hashtags: "#seetheworld, #wonderwomanmakeup, #huaweiarabia, #igtravel"
-  - username: "ritupamnani"
+    hashtags: "#dubainight, #pinkwallla, #magicalplace, #wanchaidistrict"
+  - username: "measlychocolate"
     fullname: >-
-      🌈🦄RITU
+      PATTY | DUBAI BLOGGER
     location: "United Arab Emirates"
-    followers: 42521
-    engagement: 284
-    commentsToLikes: 0.120472
-    id: ck0w1oxxgkex90i19i7ufsj63
+    followers: 26332
+    engagement: 210
+    commentsToLikes: 0.147198
+    id: ck134ulwfy9hn0i19vg6lliup
     verified: false
-    hashtags: "#staycation, #inabudhabi, #instabeauty, #food"
-  - username: "zainalkitchen"
+    hashtags: "#rainbowcolors, #indoorshooting, #beachtowel, #colorvibes"
+  - username: "lauravilp"
     fullname: >-
-      Zainal Kitchen يوسف زينل
+      𝕃𝕒𝕦𝕣𝕒 𝕍𝕚𝕝𝕡𝕡𝕦𝕝𝕒
     location: "United Arab Emirates"
-    followers: 373761
-    engagement: 426
-    commentsToLikes: 0.037275
-    id: ck6txl6nryg3z0j71uezfl4fb
+    followers: 9403
+    engagement: 442
+    commentsToLikes: 0.069611
+    id: ck8t3v5em4m3n0j78mfvuukcg
     verified: false
-    hashtags: "#foodporn, #cheesesauce, #mozarella, #meat"
-  - username: "a1izey"
+    hashtags: "#breakfast, #covid19, #redswimsuit, #poolday"
+  - username: "sabinooochka"
     fullname: >-
-      Alizey
+      ♡    ⓈⒶⒷⒾⓃⒶ   ♡
     location: "United Arab Emirates"
-    followers: 125174
-    engagement: 338
-    commentsToLikes: 0.058278
-    id: ck0tymv2mnbf20i19p97crjk7
+    followers: 6663
+    engagement: 715
+    commentsToLikes: 0.105577
+    id: ck6ugigun37m20j71a60wurlq
     verified: false
-    hashtags: "#ootd, #harveynichols, #fashion, #stayhome"
+    hashtags: "#lovisajewellery, #tashkent, #makeuptutorial, #homephotoshoot"
+  - username: "iamqueeness"
+    fullname: >-
+      QUEENESS🎤
+    location: "United Arab Emirates"
+    followers: 5546
+    engagement: 1260
+    commentsToLikes: 0.106542
+    id: ckap3agea288c0i78voezn76c
+    verified: false
+    hashtags: "#afrocentric, #badgirlriri, #redhat, #travelblogger"
 ---

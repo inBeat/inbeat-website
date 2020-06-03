@@ -1,56 +1,66 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Barcelona in 2020. Most popular hashtags: #fashion #beauty #barcelona #yomequedoencasa.
+  Find top cosmetics Instagram influencers in Barcelona in 2020. Most popular hashtags: #cosmetics #beautiful #girl #barcelona.
 platform: Instagram
 profiles:
-  - username: "gabbyrucci"
+  - username: "jorge_teixeirap"
     fullname: >-
-      𝑮𝒂𝒃𝒃𝒚 𝑹𝒖𝒄𝒄𝒊 🌵𝑶𝒖𝒓𝒈𝒍𝒂𝒎.𝒄𝒐𝒎
+      Jorge Teixeira | 🇻🇪 |
     location: "Spain"
-    followers: 17539
-    engagement: 409
-    commentsToLikes: 0.183904
-    id: ck5ztj8yx0ioi0i14y42m29t7
+    followers: 10279
+    engagement: 682
+    commentsToLikes: 0.021492
+    id: ck5c7vs0l8a2m0i11ngcj9n5k
     verified: false
-    hashtags: "#lips, #beautiful, #quotesenespa, #positive"
+    hashtags: "#depaseo, #quarentena, #girl, #cosmetics"
+  - username: "laurabudo"
+    fullname: >-
+      L A B Ú 🌱
+    location: "Spain"
+    followers: 37047
+    engagement: 576
+    commentsToLikes: 0.115413
+    id: ckaovk41r4wun0i787xihzx2v
+    verified: false
+    hashtags: "#watercolor, #artistatwork, #covid19, #eyeshadow"
   - username: "inessachloe"
     fullname: >-
       • INÉS + CHLOE •
     location: "Spain"
-    followers: 23120
-    engagement: 268
-    commentsToLikes: 0.797229
+    followers: 23674
+    engagement: 355
+    commentsToLikes: 0.843947
     id: ck14lontjvpt80i19n4dsbt8r
     verified: false
-    hashtags: "#naturaleza, #cosmeticanatural, #educacionmontessori, #happy"
-  - username: "andrea_m_m"
+    hashtags: "#decocumple, #perchero, #maternidad, #kidsphoto"
+  - username: "isabelblancart"
     fullname: >-
-      🔅 Andrea 🔅
+      Modelo Cordobesa Por El Mundo🌍
     location: "Spain"
-    followers: 21210
-    engagement: 210
-    commentsToLikes: 0.156009
-    id: ck0vyy56q6cz10i197g6k1m7k
+    followers: 53735
+    engagement: 287
+    commentsToLikes: 0.284905
+    id: ck136sv7m83940i19tc0x9hxu
     verified: false
-    hashtags: "#girlssupportgirls, #sezanelovers, #staysafe, #soon"
+    hashtags: "#miami, #selfie, #instadaily, #modelpolaroid"
   - username: "familishome"
     fullname: >-
       F A M I L I ‘ S   H O M E  🌸
     location: "Spain"
-    followers: 5404
-    engagement: 652
-    commentsToLikes: 0.242549
+    followers: 5308
+    engagement: 676
+    commentsToLikes: 0.239461
     id: ck6u3igg5xz220j715klj0obb
     verified: false
-    hashtags: "#maquillajeprofesional, #influencerblogger, #instagramer, #beautybayxmmmmitchell"
+    hashtags: "#nyxlingerie, #redlipstick, #makeupfullcolor, #ahumadoverde"
   - username: "park_nur"
     fullname: >-
       N U R
     location: "Spain"
-    followers: 15389
-    engagement: 551
-    commentsToLikes: 0.019110
+    followers: 16391
+    engagement: 571
+    commentsToLikes: 0.018613
     id: ck5qedbz2zxny0i11ln0zen57
     verified: false
     hashtags: "#tiktok, #stayathome, #corona, #ibiza2020"
@@ -58,50 +68,40 @@ profiles:
     fullname: >-
       Rubi Ru
     location: "Spain"
-    followers: 7645
-    engagement: 835
-    commentsToLikes: 0.022109
+    followers: 7569
+    engagement: 726
+    commentsToLikes: 0.030032
     id: ck5c3aw4iyxm60i11u1a1p61n
     verified: false
-    hashtags: "#makeup, #kvdbeauty, #3ina, #thelist"
+    hashtags: "#dragunbeauty, #tutorial, #colourpopme, #maybelline"
+  - username: "trendy_lover"
+    fullname: >-
+      Sara Martín
+    location: "Spain"
+    followers: 15834
+    engagement: 287
+    commentsToLikes: 0.107655
+    id: ckaoxffm4d0wl0i78f7k6afkb
+    verified: false
+    hashtags: "#magneticlashes, #cosmetica, #bobbibrownes, #outfitinspiration"
   - username: "german__hernandez"
     fullname: >-
       Germán  Hernández
     location: "Spain"
-    followers: 5807
-    engagement: 623
-    commentsToLikes: 0.014372
+    followers: 5746
+    engagement: 517
+    commentsToLikes: 0.015124
     id: ck13a2vxjod200i19etboffoj
     verified: false
-    hashtags: "#makeportraitsnotwar, #white, #beach, #circo"
+    hashtags: "#pinuphair, #photograph, #photoshooting, #skincare"
   - username: "saizagus"
     fullname: >-
       Agustina Saiz
     location: "Spain"
-    followers: 2682
-    engagement: 1174
-    commentsToLikes: 0.051546
+    followers: 2746
+    engagement: 1235
+    commentsToLikes: 0.052143
     id: ck6tib47c0dr60j718aqm1lzk
     verified: false
-    hashtags: "#nails, #purse, #motivationalquotes, #lipstick"
-  - username: "teresa_g.zman"
-    fullname: >-
-      Teresa Guzman
-    location: "Spain"
-    followers: 21904
-    engagement: 618
-    commentsToLikes: 0.190035
-    id: ck5zm41lgluwd0i14uoahtfo0
-    verified: false
-    hashtags: "#ropadeportivamujer, #inauguracion, #fashion, #margaritas"
-  - username: "dibarzstyle"
-    fullname: >-
-      Desireé Ibarz
-    location: "Spain"
-    followers: 26905
-    engagement: 556
-    commentsToLikes: 0.087718
-    id: ck6tk2gd93vl10j713pozfyql
-    verified: false
-    hashtags: "#streetstyle, #blogger, #beauty, #beautygirl"
+    hashtags: "#skull, #eyeliner, #instastyle, #menstyle"
 ---

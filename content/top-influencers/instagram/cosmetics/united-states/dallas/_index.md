@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Dallas In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Dallas in 2020. Most popular hashtags: #makeup #lashes #mua #colourpopcosmetics.
+  Find top cosmetics Instagram influencers in Dallas in 2020. Most popular hashtags: #rainbowmakeup #beautiful #skincare #butterflymakeup.
 platform: Instagram
 profiles:
-  - username: "ashleysummarell_"
+  - username: "kravekay"
     fullname: >-
-      Ashley Summarell💋
+      ♡ KAY KAY ♡
     location: "United States"
-    followers: 8320
-    engagement: 601
-    commentsToLikes: 0.069608
-    id: ck0vz2ehy6y230i19cpwrkftt
+    followers: 121238
+    engagement: 61
+    commentsToLikes: 0.021990
+    id: ck0w396a3s7q20i19k4pwgpui
     verified: false
-    hashtags: "#morphebabe, #bloodsugar, #highlighter, #supremefrost"
-  - username: "viirdii"
+    hashtags: "#miamihair, #kravekaykollection, #atlvendor, #atlclosures"
+  - username: "facialsurgeons"
     fullname: >-
-      V I R I D I A N A  R I V A S
+      FACIAL SURGEONS
     location: "United States"
-    followers: 38288
-    engagement: 727
-    commentsToLikes: 0.030235
-    id: ck0ub29p5dldt0i194aln69fm
+    followers: 56663
+    engagement: 264
+    commentsToLikes: 0.030186
+    id: ck15pawxfwyui0i198z069jia
     verified: false
-    hashtags: "#nyxcosmetics, #femmeluxe, #bellamibella, #fentybeauty"
+    hashtags: "#babyboomer, #mensfacial, #doubleeyelidsurgery, #qatar"
+  - username: "abigailzoelewis"
+    fullname: >-
+      Abigail Zoe Lewis
+    location: "United States"
+    followers: 19073
+    engagement: 362
+    commentsToLikes: 0.179519
+    id: ck5px5s3pq8ni0i11spr8do5l
+    verified: false
+    hashtags: "#active, #wish, #brandymelville, #stayactive"
   - username: "typical_white_girl_sfx"
     fullname: >-
       ☠️Morgan Shay Roberts☠️
     location: "United States"
-    followers: 70669
-    engagement: 352
-    commentsToLikes: 0.014402
+    followers: 69876
+    engagement: 338
+    commentsToLikes: 0.015111
     id: ck6ufxccozopm0j712u2s2xji
     verified: false
-    hashtags: "#skin, #corona, #novababe, #makeupartist"
-  - username: "love_jomy"
+    hashtags: "#clearskin, #skinupdate, #tattoos, #stpatricksday"
+  - username: "msashleydevonna"
     fullname: >-
-      Jomy Ivette Leon-Lorenzo
+      Ashley Devonna
     location: "United States"
-    followers: 15440
-    engagement: 441
-    commentsToLikes: 0.051890
-    id: ck8tbaoamuxr10j78fzl16hqy
+    followers: 84681
+    engagement: 653
+    commentsToLikes: 0.020878
+    id: ck0w5vpuo5ni40i19zclncqgl
     verified: false
-    hashtags: "#hairtutorials, #thebump, #dallasmom, #instamama"
-  - username: "glamby.juliee"
+    hashtags: "#happyinternationalwomensday, #astoldbyashley, #ad, #loveisblind"
+  - username: "najahartistry"
     fullname: >-
-      ♡J u l i e e♡
+      NAJAH AHMED
     location: "United States"
-    followers: 2588
-    engagement: 1885
-    commentsToLikes: 0.046918
-    id: ck8szos6ap68l0j78a3qfnjp3
+    followers: 23661
+    engagement: 134
+    commentsToLikes: 0.065981
+    id: ck14luhx6wjvd0i19uvnhazpr
     verified: false
-    hashtags: "#beautycreation, #jewelry, #lagirl, #glamour"
-  - username: "uniquely_created_mua"
+    hashtags: "#rainbowmakeup, #facepaint, #butterflymakeup, #subtlemakeup"
+  - username: "fashionveggie"
+    fullname: >-
+      by Molly T.
+    location: "United States"
+    followers: 96431
+    engagement: 130
+    commentsToLikes: 0.077394
+    id: ck55k07lhy5vx0i11gjdtzrgu
+    verified: false
+    hashtags: "#ikeausa, #danesofinstagram, #plantbasedfamily, #easymakeup"
+  - username: "thee_glamoligist"
+    fullname: >-
+      Glam Muva™️🖍
+    location: "United States"
+    followers: 15367
+    engagement: 428
+    commentsToLikes: 0.158827
+    id: ck15rxodva7yx0i19ke7j5k8v
+    verified: false
+    hashtags: "#glossymakeup, #milkmakeup, #dramaticlashes, #rainbowmakeup"
+  - username: "alteregoartistry_"
     fullname: >-
       Patrice M Marshall
     location: "United States"
-    followers: 8013
-    engagement: 528
-    commentsToLikes: 0.115872
+    followers: 9208
+    engagement: 507
+    commentsToLikes: 0.125565
     id: ck6tx9o13wm7x0j71jmnlschf
     verified: false
-    hashtags: "#makeuptutorial, #glossylips, #ombrelipstick, #crayoncutie"
-  - username: "jessyjphoto"
-    fullname: >-
-      Jessy J Photo 📷
-    location: "United States"
-    followers: 100430
-    engagement: 121
-    commentsToLikes: 0.034041
-    id: ck0w4gvtpyiaw0i19jh6pfwqy
-    verified: false
-    hashtags: "#blackgirlmagic, #glowtopia, #dallasphotograpgher, #editorialbeauty"
-  - username: "dr.rose.ilift"
-    fullname: >-
-      Dr. Rose, DDS
-    location: "United States"
-    followers: 65233
-    engagement: 255
-    commentsToLikes: 0.093873
-    id: ck8t7k1aqh3i30j782aukmq0q
-    verified: false
-    hashtags: "#essence, #love, #invisalign, #bigsmile"
+    hashtags: "#butterflytattoo, #growth, #flower, #blueeyeshadow"
   - username: "euniquefaces"
     fullname: >-
       Gernisha
     location: "United States"
-    followers: 5834
-    engagement: 315
-    commentsToLikes: 0.066482
+    followers: 5870
+    engagement: 319
+    commentsToLikes: 0.062992
     id: ck0tv9f9wafpi0i197fqcuc33
     verified: false
-    hashtags: "#pearlandeyelashextensions, #lashtraining, #atlantaeyelashextensions, #minklashextensions"
-  - username: "madaleinemurphy"
-    fullname: >-
-      madaleine murphy
-    location: "United States"
-    followers: 10646
-    engagement: 1319
-    commentsToLikes: 0.062371
-    id: ck0vvcwauokul0i19rto5ksi1
-    verified: false
-    hashtags: "#phonecase, #allurebestofbeauty, #wnwtargetbeauty, #neginm"
+    hashtags: "#sugarlandlashes, #humblelashes, #dallaseyelashextensions, #houstonstylist"
 ---

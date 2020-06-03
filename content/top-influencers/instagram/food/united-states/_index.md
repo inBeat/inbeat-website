@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In United States In 2020
 description: >-
-  Find top food Instagram influencers in United States in 2020. Most popular hashtags: #photoshoot #blogger #giveaway #ad.
+  Find top food Instagram influencers in United States in 2020. Most popular hashtags: #homeworkout #sundayfunday #spring #positivity.
 platform: Instagram
 profiles:
   - username: "hunterrittgers"
     fullname: >-
       Hunter Rittgers
     location: "United States"
-    followers: 17973
-    engagement: 1101
-    commentsToLikes: 0.063797
+    followers: 19394
+    engagement: 1057
+    commentsToLikes: 0.069367
     id: ck6u6jyjcg0yr0j71aj3af11a
     verified: false
-    hashtags: "#dare2venture, #newventureescrow"
-  - username: "fit.full.life"
+    hashtags: "#newventureescrow, #dare2venture"
+  - username: "showtime_gp"
     fullname: >-
-      Julie
+      Giampaolo Calvaresi ( P.T. ) 🦍
     location: "United States"
-    followers: 7327
-    engagement: 2415
-    commentsToLikes: 0.559087
-    id: ck6tukukugwtw0j718rwi641a
+    followers: 300138
+    engagement: 987
+    commentsToLikes: 0.144124
+    id: ck0txqh3mk5hm0i19s4hns7gj
     verified: false
-    hashtags: "#homegym, #stayhealthy, #rangeofmotion, #acaibowl"
-  - username: "chlobellexx"
+    hashtags: "#homeworkout, #tutorial, #challenge, #foodspringfamily"
+  - username: "livingmybeststyle"
     fullname: >-
-      𝑪𝒉𝒍𝒐𝒆 𝑴𝒊𝒄𝒉𝒆𝒍𝒍𝒆
+      Katy Roach
     location: "United States"
-    followers: 6411
-    engagement: 1464
-    commentsToLikes: 0.153447
-    id: ck5zio1r5g2ik0i14vbdlrxg4
+    followers: 695926
+    engagement: 719
+    commentsToLikes: 0.033540
+    id: ck0uczehghvxs0i19kvwflknb
     verified: false
-    hashtags: "#lakelife, #mvmtambassador, #leggings, #bikini"
-  - username: "ansari_hira"
-    fullname: >-
-      𝐇 𝐈 𝐑 𝐀
-    location: "United States"
-    followers: 10007
-    engagement: 1690
-    commentsToLikes: 0.166029
-    id: ck5ho070uop380i11htb8me8m
-    verified: false
-    hashtags: "#howdoyouhoney, #powerofgreen, #lovepeacegratitude, #johnmastersorganics"
-  - username: "dannyandthemachine"
-    fullname: >-
-      Danny is me.
-    location: "United States"
-    followers: 5838
-    engagement: 1529
-    commentsToLikes: 0.163702
-    id: ck14jkkaskswt0i1997mfvbww
-    verified: false
-    hashtags: "#valentinesgift, #pinkwednesday, #springishere, #potd"
-  - username: "qiguguer"
-    fullname: >-
-      💖 Ivy Gu 💕
-    location: "United States"
-    followers: 22225
-    engagement: 818
-    commentsToLikes: 0.098111
-    id: ck0u7dnru4jd00i19n5c5nyty
-    verified: false
-    hashtags: "#fruittea, #ccdcholidays, #hikingday, #cabin"
+    hashtags: "#positivity, #headband, #kimono, #pinklily"
   - username: "alwe_brh"
     fullname: >-
       Alwena Brehin
     location: "United States"
-    followers: 3800
-    engagement: 4155
-    commentsToLikes: 0.105973
+    followers: 6241
+    engagement: 3771
+    commentsToLikes: 0.101933
     id: ck8t9odjuoqz00j7877c76ehc
     verified: false
-    hashtags: "#wushugirl, #doublesword, #butterflykick, #malauxcuisses"
-  - username: "daniellebredenhof"
+    hashtags: "#giantlollipop, #pubu, #sunsport, #funkyleggings"
+  - username: "serpens9"
     fullname: >-
-      Danielle Bredenhof | Fitness
+      Alan 🧢 jersey boi
     location: "United States"
-    followers: 7673
-    engagement: 1206
-    commentsToLikes: 0.153979
-    id: ck8t2wmkk0yww0j78l7t8y7i6
+    followers: 11355
+    engagement: 2506
+    commentsToLikes: 0.138716
+    id: ckaoxg7awd3ul0i78ixbwwtou
     verified: false
-    hashtags: ""
-  - username: "mikexingchen"
+    hashtags: "#sponsored, #officialbuiltbarreview, #rethinkyourroutine, #tbt"
+  - username: "fit.full.life"
     fullname: >-
-      Mike Chen
+      Julie
     location: "United States"
-    followers: 294599
-    engagement: 581
-    commentsToLikes: 0.070628
-    id: ck0vzjx4b9h530i1938exhpde
-    verified: true
-    hashtags: "#castaway, #singapore, #duriansoda, #noodselfcontrol"
-  - username: "kellyannshuman"
-    fullname: >-
-      Kelly Ann 💋
-    location: "United States"
-    followers: 16950
-    engagement: 915
-    commentsToLikes: 0.049636
-    id: ck0w4mlfpzc2c0i1935ff3nbn
+    followers: 7589
+    engagement: 2381
+    commentsToLikes: 0.520398
+    id: ck6tukukugwtw0j718rwi641a
     verified: false
-    hashtags: "#zinus, #zinuspartner, #ad, #internationalwomensday"
+    hashtags: "#covi, #baree, #fitlife, #vacationmode"
+  - username: "ansari_hira"
+    fullname: >-
+      𝐇 𝐈 𝐑 𝐀
+    location: "United States"
+    followers: 10166
+    engagement: 1797
+    commentsToLikes: 0.160826
+    id: ck5ho070uop380i11htb8me8m
+    verified: false
+    hashtags: "#nationalhoneymonth, #howdoyouhoney, #johnmastersorganics, #lovepeacegratitude"
+  - username: "dannyandthemachine"
+    fullname: >-
+      Danny is me.
+    location: "United States"
+    followers: 5822
+    engagement: 1640
+    commentsToLikes: 0.163408
+    id: ck14jkkaskswt0i1997mfvbww
+    verified: false
+    hashtags: "#wintercoat, #stayhigh, #houndstooth, #sundayvibes"
+  - username: "relowh"
+    fullname: >-
+      TSHWARELO NTSEARE
+    location: "United States"
+    followers: 49225
+    engagement: 796
+    commentsToLikes: 2.847740
+    id: ckap6njoygni40i78ylxn4g65
+    verified: false
+    hashtags: "#day40, #stayhomestaysafe, #quarantine, #dontrushchallenge"
+  - username: "heyitshuyen"
+    fullname: >-
+      huyen ♡
+    location: "United States"
+    followers: 2756
+    engagement: 2517
+    commentsToLikes: 0.201236
+    id: ck14grjti6o040i191rgmvsfu
+    verified: false
+    hashtags: "#socialdistancing"
 ---

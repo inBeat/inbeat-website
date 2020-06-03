@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Montreal In 2020
 description: >-
-  Find top photographers Instagram influencers in Montreal in 2020. Most popular hashtags: #quebecoriginal #montreal #explorecanada #backpackersintheworld.
+  Find top photographers Instagram influencers in Montreal in 2020. Most popular hashtags: #toronto #explorecanada #gohideseek #france.
 platform: Instagram
 profiles:
-  - username: "rohanrath"
+  - username: "iamhely"
     fullname: >-
-      Rohan Rath
+      𝕳é𝖑è𝖓𝖊 𝕭𝖔𝖚𝖉𝖗𝖊𝖆𝖚
     location: "Canada"
-    followers: 10767
-    engagement: 519
-    commentsToLikes: 0.061784
-    id: ck5hhl6mk8szo0i11t6vxn47p
+    followers: 35678
+    engagement: 592
+    commentsToLikes: 0.024257
+    id: ck5cfbfpammrg0i11iu39pc7l
     verified: false
-    hashtags: "#doports, #librarylife, #portraitsvisuals, #shutterhubindia"
+    hashtags: "#lifeisgood, #vegasstrip, #inandoutburger, #photographer"
   - username: "melika.dez"
     fullname: >-
       MELIKA DEZ
     location: "Canada"
-    followers: 16310
-    engagement: 674
-    commentsToLikes: 0.022604
+    followers: 16455
+    engagement: 562
+    commentsToLikes: 0.028585
     id: ck14l4t7qsuv00i19uaiyk1zb
     verified: false
-    hashtags: "#napoli, #project, #balletphotography, #pointes"
+    hashtags: "#portrait, #freedoflondon, #alonzoking, #architecture"
+  - username: "rohanrath"
+    fullname: >-
+      Rohan Rath
+    location: "Canada"
+    followers: 11098
+    engagement: 480
+    commentsToLikes: 0.070007
+    id: ck5hhl6mk8szo0i11t6vxn47p
+    verified: false
+    hashtags: "#canadasnow, #workstation, #photographytips, #implied"
   - username: "versepasi"
     fullname: >-
       V E R 🥀
     location: "Canada"
-    followers: 37849
-    engagement: 231
-    commentsToLikes: 0.054514
+    followers: 37470
+    engagement: 230
+    commentsToLikes: 0.061317
     id: ck1362ptj4gyn0i19rkl916bl
     verified: false
     hashtags: "#stayhomesavelives"
+  - username: "natachaeats"
+    fullname: >-
+      Natacha Eats
+    location: "Canada"
+    followers: 8452
+    engagement: 1068
+    commentsToLikes: 0.247954
+    id: ck9h9onpr9c8i0j78u0bpzemx
+    verified: false
+    hashtags: "#allegrini, #lecentral, #mangermontreal, #labragia"
   - username: "montreal.planes"
     fullname: >-
-      Célian Genier
+      Célian / Thibault
     location: "Canada"
-    followers: 21317
-    engagement: 818
-    commentsToLikes: 0.014634
+    followers: 21536
+    engagement: 561
+    commentsToLikes: 0.017980
     id: ck5hdwsb2prx50i11bl4heyqk
     verified: false
-    hashtags: "#learjet, #aircanada, #wabushairport, #airbus220"
+    hashtags: "#airshow, #dash8, #antonovaviation, #flytheflag"
+  - username: "adrienwilliamsphotos"
+    fullname: >-
+      Adrien Williams
+    location: "Canada"
+    followers: 5884
+    engagement: 445
+    commentsToLikes: 0.008703
+    id: ck5caj5lzdi9o0i1141pmt06f
+    verified: false
+    hashtags: "#concreteandwood, #artiststudio, #woodstructure, #interiordesign"
+  - username: "refinedmoment"
+    fullname: >-
+      MONTREAL Photographer.
+    location: "Canada"
+    followers: 38359
+    engagement: 171
+    commentsToLikes: 0.166877
+    id: ck139zr6bnwpy0i19xhhgsa5y
+    verified: false
+    hashtags: "#lgg8xthinq, #lululemonhuddle, #cavabienaller, #mbownstheice"
   - username: "mapping.along"
     fullname: >-
       Sam & Yass  ⌲  Travel
     location: "Canada"
-    followers: 35185
-    engagement: 221
-    commentsToLikes: 0.070649
+    followers: 36309
+    engagement: 220
+    commentsToLikes: 0.095381
     id: ck14iqmkbgqmh0i19m9u1rqch
     verified: false
-    hashtags: "#tourismequebec, #tulumvibes, #wandrd, #coffeeshopcorners"
+    hashtags: "#girlswhosurf, #cidrelacroix, #oldmontreal, #canggulife"
   - username: "arcpixel"
     fullname: >-
       Freddy | Montréal | 🇨🇦
     location: "Canada"
-    followers: 8130
-    engagement: 525
-    commentsToLikes: 0.038116
+    followers: 8289
+    engagement: 579
+    commentsToLikes: 0.033222
     id: ck5qaaqm4fez30i110h8mdq53
     verified: false
-    hashtags: "#streetsgrammer, #avenuemontroyal, #streetsof514, #mtlmoments"
-  - username: "capslockmanny"
-    fullname: >-
-      MANNY
-    location: "Canada"
-    followers: 7031
-    engagement: 1046
-    commentsToLikes: 0.053309
-    id: ck5cexcrhlwja0i11kxaacrxx
-    verified: false
     hashtags: ""
-  - username: "simonlachapelle"
-    fullname: >-
-      Simon Lachapelle
-    location: "Canada"
-    followers: 21088
-    engagement: 847
-    commentsToLikes: 0.045108
-    id: ck0w0a1cvd5hv0i19bmogc1om
-    verified: false
-    hashtags: "#symmetricalmobs, #moodygrams, #creativeoptic, #beautifuldestinations"
-  - username: "yulneveroamalone"
-    fullname: >-
-      JENNA & ANTHONY | TRAVEL 🌎
-    location: "Canada"
-    followers: 15148
-    engagement: 976
-    commentsToLikes: 0.128574
-    id: ck15r85fs6mid0i19fzqd16mp
-    verified: false
-    hashtags: "#tinyhousenation, #natgeoyourshot, #earthcouples, #natgeoadventure"
-  - username: "dronehikers"
-    fullname: >-
-      DRONEHIKER
-    location: "Canada"
-    followers: 16196
-    engagement: 328
-    commentsToLikes: 0.046940
-    id: ck0w302e2qyg20i19r3wanfs1
-    verified: false
-    hashtags: "#sponsored, #icebreaker, #abstractphotography, #droneoftheday"
 ---

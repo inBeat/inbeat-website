@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top models Instagram influencers in Malaysia in 2020. Most popular hashtags: #model #stayathome #throwback #black.
+  Find top models Instagram influencers in Malaysia in 2020. Most popular hashtags: #lockdown #morning #ootd #2020.
 platform: Instagram
 profiles:
+  - username: "zailinaqeesha"
+    fullname: >-
+      Princess Zailin Aqeesha
+    location: "Malaysia"
+    followers: 2081
+    engagement: 2483
+    commentsToLikes: 0.088922
+    id: ckap3le8m3hs00i787o6isdtu
+    verified: false
+    hashtags: "#ideaktiv, #pengantinthecatwalkedition2019, #rehearsalday, #ootd"
   - username: "chandnibainz"
     fullname: >-
       Chandni Bainz
     location: "Malaysia"
-    followers: 9573
-    engagement: 1908
-    commentsToLikes: 0.018414
+    followers: 11868
+    engagement: 1672
+    commentsToLikes: 0.014703
     id: ck8t1fryvvlkz0j78n9nx5alv
     verified: false
-    hashtags: "#colourful, #contact, #shoot, #fridakahlo"
+    hashtags: "#photograph, #high, #singapore, #winking"
   - username: "suzan_mutesi"
     fullname: >-
       Suzan Mutesi
     location: "Malaysia"
-    followers: 161853
-    engagement: 136
-    commentsToLikes: 0.058281
+    followers: 188117
+    engagement: 144
+    commentsToLikes: 0.125046
     id: ck5hh5f016h2l0i11t5wwchv2
     verified: true
-    hashtags: "#modellinglife, #singerspotlight, #actresslifestyle, #actorsofinstagram"
+    hashtags: "#partner, #bookstagram, #originalbikinis, #bookreview"
   - username: "yvonneyeefei"
     fullname: >-
       Yvonne 李伊霏
     location: "Malaysia"
-    followers: 42096
-    engagement: 383
-    commentsToLikes: 0.026463
+    followers: 41132
+    engagement: 379
+    commentsToLikes: 0.027198
     id: ck5zl1awckjqh0i14kcuti2js
     verified: false
-    hashtags: "#igdaily, #yogurt, #sydneyfoodie, #purplericeyogurt"
-  - username: "wingkeh"
-    fullname: >-
-      wingkeh
-    location: "Malaysia"
-    followers: 20867
-    engagement: 550
-    commentsToLikes: 0.052084
-    id: ck8sy13zwjd850j7803ogdir1
-    verified: false
-    hashtags: "#riderunlocked, #lonelydancechallenge, #taokaenoi, #mylifewear"
+    hashtags: "#2020, #haircolor, #bluenails, #yeesyogurt"
   - username: "khadim8657"
     fullname: >-
       Khadim Gaye
     location: "Malaysia"
-    followers: 8938
-    engagement: 750
-    commentsToLikes: 0.035206
+    followers: 9304
+    engagement: 705
+    commentsToLikes: 0.052926
     id: ck6txz0bk0oi90j71ihypp0h2
     verified: false
-    hashtags: "#africa, #leurs, #model, #free"
-  - username: "n_gelala"
+    hashtags: "#inteligentes, #throwback, #freelance, #africanmodel"
+  - username: "isabelleman2"
     fullname: >-
-      甄紫喬 Ann N
+      Isabelle Man
     location: "Malaysia"
-    followers: 9152
-    engagement: 851
-    commentsToLikes: 0.017236
-    id: ck8t6ztzrf79l0j78lqr0hy5z
+    followers: 9704
+    engagement: 421
+    commentsToLikes: 0.092717
+    id: ck0tyggo2mpog0i191owr96k3
     verified: false
-    hashtags: "#japangirl, #slamdunk, #selfie, #hkmodel"
-  - username: "wafarienaroslan"
+    hashtags: "#video, #morning, #luck, #sweating"
+  - username: "aiweihero"
     fullname: >-
-      𝙶𝚊𝚍𝚒𝚜 𝙱𝚎𝚛𝚍𝚊𝚐𝚞 𝙱𝚎𝚕𝚊𝚑 👩🏻‍🦰
+      Aiwei Hero李藹蔚🇹🇼台北🇲🇾ipoh演出歌手
     location: "Malaysia"
-    followers: 94616
-    engagement: 680
-    commentsToLikes: 0.050478
-    id: ck134c536vq1e0i19kehi5gg6
+    followers: 114449
+    engagement: 295
+    commentsToLikes: 0.018963
+    id: ck8sxkbslhpka0j788fxz4u5h
     verified: false
-    hashtags: "#staystrong, #nehakakkar, #tiktokindonesia, #2020"
-  - username: "stella.katarina"
+    hashtags: "#gdlotto, #stayhome, #lockdown, #shobieyestw"
+  - username: "zoe_aw"
     fullname: >-
-      Stelli ♌
+      Zoe Aw淑怡
     location: "Malaysia"
-    followers: 2628
-    engagement: 1498
-    commentsToLikes: 0.048058
-    id: ck8tceg5iz6zv0j783hodsiea
+    followers: 22624
+    engagement: 539
+    commentsToLikes: 0.022703
+    id: ckap50a5z9lz60i78pcgymlkj
     verified: false
-    hashtags: "#tbtobarcelona, #getmesomesnacks, #happykiddo, #alebosompadalazoschodov"
-  - username: "pragathiguru"
+    hashtags: "#skincaretips, #asianbeauty, #pillowchallenge, #corona"
+  - username: "reinsmika"
     fullname: >-
-      Pragathi Guruprasad
+      MIKA
     location: "Malaysia"
-    followers: 518060
-    engagement: 364
-    commentsToLikes: 0.004637
-    id: ck0w56rxw269f0i19prudl72a
-    verified: true
-    hashtags: "#guruskitchen, #aeroxteensforjeans, #aeroworld, #selflove"
-  - username: "hernandotaniko"
-    fullname: >-
-      
-    location: "Malaysia"
-    followers: 60806
-    engagement: 343
-    commentsToLikes: 0.016279
-    id: ck5hk18ckhlzy0i11en2q478l
+    followers: 5817
+    engagement: 943
+    commentsToLikes: 0.026005
+    id: ck5zwce9a5vtr0i14lzpp63tt
     verified: false
-    hashtags: "#jjmalibu, #chest, #gameofthrones, #hanoi"
+    hashtags: "#nolagkit, #panteneph, #jointhenewmonarqarmy, #pmapmodels"
+  - username: "eleenwong120"
+    fullname: >-
+      Eleen 💫
+    location: "Malaysia"
+    followers: 20814
+    engagement: 332
+    commentsToLikes: 0.089505
+    id: ckap05rddov3a0i78npeuutvo
+    verified: false
+    hashtags: "#quoteoftheday, #hair, #0060102043333, #street"
 ---

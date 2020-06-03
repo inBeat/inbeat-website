@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Chile In 2020
 description: >-
-  Find top architecture Instagram influencers in Chile in 2020. Most popular hashtags: #chile #architecture #art #travel.
+  Find top architecture Instagram influencers in Chile in 2020. Most popular hashtags: #architecture #arquitectura #instagood #travel.
 platform: Instagram
 profiles:
-  - username: "cronicasdeunargonauta"
+  - username: "3duvrdv"
     fullname: >-
-      Irene | Viajar Sola
+      Eduarda 🦋🌻🐝
     location: "Chile"
-    followers: 8992
-    engagement: 610
-    commentsToLikes: 0.085018
-    id: ck15plr4ryiin0i19zwv9mygb
+    followers: 2589
+    engagement: 1460
+    commentsToLikes: 0.047680
+    id: ckaormuhunxn20i78kcdeqenh
     verified: false
-    hashtags: "#rupit, #vivirviajando, #ecuadortulugarenelmundo, #patrimoniodelahumanidad"
-  - username: "javografo"
+    hashtags: "#astrofotografia, #fotografiaartistica, #blackandwhitephotography, #foodphotography"
+  - username: "d_pinilla"
     fullname: >-
-      Javo
+      Daniel Pinilla
     location: "Chile"
-    followers: 13792
-    engagement: 548
-    commentsToLikes: 0.132528
-    id: ck0vyoao14zdl0i191czfgunf
+    followers: 6841
+    engagement: 636
+    commentsToLikes: 0.042592
+    id: ck0u6s3vs2sx10i19bxhoi6pm
     verified: false
-    hashtags: "#fx, #architecturedesign, #plotagraph, #motiongraphics"
-  - username: "valparaisopoh"
+    hashtags: "#foteroscl, #clickdomingo, #spicollective, #biobio"
+  - username: "santiagodechile.cl"
+    fullname: >-
+      Santiago de Chile
+    location: "Chile"
+    followers: 135181
+    engagement: 304
+    commentsToLikes: 0.031325
+    id: ck0w4xamx0v6u0i198jkcxlz0
+    verified: false
+    hashtags: "#sunsetlovers, #coronavirusenchile, #quedenseencasa, #comidaboliviana"
+  - username: "santiagopoh"
     fullname: >-
       
     location: "Chile"
-    followers: 22676
-    engagement: 821
-    commentsToLikes: 0.010669
-    id: ck0u6s30p2suj0i1990sj0ank
+    followers: 37176
+    engagement: 440
+    commentsToLikes: 0.011395
+    id: ck13aodvxrdqf0i191t6o5209
     verified: false
-    hashtags: "#colores, #naturecolors, #graffiti, #chileestuyo"
-  - username: "francisconegroni_fotografia"
+    hashtags: "#yoamolafotografia, #americadelsurchile, #sietetazas, #autumnvibes"
+  - username: "ninosanmartin"
     fullname: >-
-      Francisco Negroni
+      Nino San Martín
     location: "Chile"
-    followers: 60616
-    engagement: 209
-    commentsToLikes: 0.018253
-    id: ck0vvdh6won6d0i19fsihabok
+    followers: 11368
+    engagement: 1101
+    commentsToLikes: 0.037484
+    id: ck0u6s2pq2ss10i194e0wlzl5
     verified: false
-    hashtags: "#amazing, #dametravel, #silueta, #catolico"
-  - username: "anoquet"
-    fullname: >-
-      Alexis Noquet Photography
-    location: "Chile"
-    followers: 2112
-    engagement: 1240
-    commentsToLikes: 0.051764
-    id: ck6tyx7zj6djz0j71gclojbhy
-    verified: false
-    hashtags: "#miradordecuernos, #elcalafate, #chiletravel, #lifestylephotography"
-  - username: "t_w_o"
-    fullname: >-
-      Tomás Westenenk Orrego
-    location: "Chile"
-    followers: 124977
-    engagement: 112
-    commentsToLikes: 0.019162
-    id: ck6tiba060e3o0j711u3pz1nw
-    verified: false
-    hashtags: "#umbrella, #water, #santiagoadicto, #teamgalaxy"
-  - username: "arquetipoccp"
-    fullname: >-
-      Arquetipo CCP
-    location: "Chile"
-    followers: 7526
-    engagement: 1792
-    commentsToLikes: 0.011469
-    id: ck5hs64wfw1zp0i11erd5f7lv
-    verified: false
-    hashtags: "#chile, #sunset, #arquetipo, #conce"
-  - username: "amsel.black"
-    fullname: >-
-      🎃Amsel🎃
-    location: "Chile"
-    followers: 10782
-    engagement: 578
-    commentsToLikes: 0.007523
-    id: ck5zs4hp5xt4y0i141oij182k
-    verified: false
-    hashtags: "#drawing, #clouds, #arquitectura, #geek"
+    hashtags: "#nycgo, #nature, #naturalezachilena, #happy"
   - username: "cazu.zegers"
     fullname: >-
       Cazu Zegers Arquitectura
     location: "Chile"
-    followers: 19091
-    engagement: 537
-    commentsToLikes: 0.015143
+    followers: 21248
+    engagement: 464
+    commentsToLikes: 0.017109
     id: ck136mujy79rb0i195pn9vtka
     verified: false
-    hashtags: "#sostenibilidad, #escultura, #santiagocapitaloutdoor, #territorio"
-  - username: "sergiovisor_ph"
+    hashtags: "#cordillera, #casadeplaya, #artist, #drawing"
+  - username: "anticostudio"
     fullname: >-
-      Sergio Carabajal 📸
+      ANTICO STUDIO
     location: "Chile"
-    followers: 5416
-    engagement: 175
-    commentsToLikes: 0.034602
-    id: ck602xbd8jtu70i14qz3bcmjp
+    followers: 22416
+    engagement: 163
+    commentsToLikes: 0.068628
+    id: ck5zmpu0un0580i14gdngdyyy
     verified: false
-    hashtags: "#style, #vivaslasqueremos, #astro, #megaplane"
+    hashtags: "#mueblesdecoracion, #architecture, #milurugstudio, #decoracao"
+  - username: "comunidadvisual"
+    fullname: >-
+      ⠀⠀⠀⠀⠀ᴄᴏᴍᴜɴɪᴅᴀᴅ ᴠɪsᴜᴀʟ
+    location: "Chile"
+    followers: 5113
+    engagement: 770
+    commentsToLikes: 0.021709
+    id: ck8sz2xmdmyz90j7841nq8ao5
+    verified: false
+    hashtags: "#35mm, #longexposure, #analog, #colores"
+  - username: "decimaregion"
+    fullname: >-
+      Región de Los Lagos 🍃🏞
+    location: "Chile"
+    followers: 54125
+    engagement: 251
+    commentsToLikes: 0.006708
+    id: ck14k7au3o3fp0i19daew9ejg
+    verified: false
+    hashtags: "#portrait, #longexposures, #bote, #trekking"
+  - username: "javografo"
+    fullname: >-
+      Javo
+    location: "Chile"
+    followers: 13676
+    engagement: 531
+    commentsToLikes: 0.137969
+    id: ck0vyoao14zdl0i191czfgunf
+    verified: false
+    hashtags: "#photoshop, #archilife, #china, #spidergwen"
 ---

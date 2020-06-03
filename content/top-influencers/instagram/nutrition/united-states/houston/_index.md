@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Houston In 2020
 description: >-
-  Find top nutrition Instagram influencers in Houston in 2020. Most popular hashtags: #fitness #coronavirus #stayhome #workout.
+  Find top nutrition Instagram influencers in Houston in 2020. Most popular hashtags: #nutrition #covid19 #goodvibes #workout.
 platform: Instagram
 profiles:
-  - username: "jayfromhouston"
-    fullname: >-
-      J A Y  F R O M  H O U S T O N
-    location: "United States"
-    followers: 221235
-    engagement: 162
-    commentsToLikes: 0.025319
-    id: ck14jdo1djtkf0i195vgo5ns8
-    verified: true
-    hashtags: "#workharder, #selena, #tiktok, #scene"
   - username: "agentshawn"
     fullname: >-
       Trainer/Sports Performance
     location: "United States"
-    followers: 17030
-    engagement: 341
-    commentsToLikes: 0.079770
+    followers: 17053
+    engagement: 298
+    commentsToLikes: 0.111671
     id: ck6u42nl71c2q0j71qj8wd6mx
     verified: false
-    hashtags: "#hiitworkout, #sixpack, #glutes, #eatclean"
-  - username: "patricktmoore"
+    hashtags: "#houstondynamo, #nutrition, #athomeworkouts, #outdoorworkout"
+  - username: "modernveganfam"
     fullname: >-
-      Patrick Moore
+      Modern Vegan Familia
     location: "United States"
-    followers: 207343
-    engagement: 514
-    commentsToLikes: 0.013990
-    id: ck0vztbzyaswz0i19dkwuqev3
+    followers: 25743
+    engagement: 168
+    commentsToLikes: 0.103150
+    id: ck0vw3p88rylr0i19by1o7z2o
     verified: false
-    hashtags: "#transformationtuesday, #glutes, #morethananathlete, #thinkbigger"
+    hashtags: "#pitaya, #thumbprintcookies, #tree, #veganmarshmallows"
   - username: "milknhoneynutrition"
     fullname: >-
       Diabetic Dietitian🥑 Mary Ellen
     location: "United States"
-    followers: 66364
-    engagement: 99
-    commentsToLikes: 0.074022
+    followers: 67731
+    engagement: 111
+    commentsToLikes: 0.041133
     id: ck0txp6xsjzh40i190vyba05w
     verified: true
-    hashtags: "#type1, #bostonwedding, #snacktime, #goodpops"
-  - username: "mikalaray"
+    hashtags: "#risetostandout, #cincodemayo, #ilovetacos, #type2diabetic"
+  - username: "fit_tinaa"
     fullname: >-
-      M I K A 🏳️‍🌈 🌲
+      Christina🥑 | Online Coach
     location: "United States"
-    followers: 56575
-    engagement: 347
-    commentsToLikes: 0.013734
-    id: ck6tpyv00ofjg0j719a9r8l04
+    followers: 185282
+    engagement: 475
+    commentsToLikes: 0.029158
+    id: ckapcb1jt33lo0i78kcfyif3e
     verified: false
-    hashtags: "#lesbianlife, #giantliv, #hoodiestyle, #airportpic"
-  - username: "swoleotaku"
+    hashtags: "#waist, #youcan, #dedication, #thic"
+  - username: "holisticb_ing"
     fullname: >-
-      Ann
+      Blake Houston
     location: "United States"
-    followers: 48647
-    engagement: 890
-    commentsToLikes: 0.024097
-    id: ck55j1ik5w1760i11ujzb9uvb
+    followers: 24884
+    engagement: 345
+    commentsToLikes: 0.023413
+    id: ck5pvx18bk1eq0i11trvjurjt
     verified: false
-    hashtags: "#stayhome, #swoleotaku, #ad, #freegiveaway"
-  - username: "khali_fitpro"
+    hashtags: "#lockdown, #blackwork, #hipmobility, #openyourheart"
+  - username: "starving_to_strong"
     fullname: >-
-      IFBB Pro Khali Quartey
+      Sarah Herman
     location: "United States"
-    followers: 43788
-    engagement: 350
-    commentsToLikes: 0.085669
-    id: ck5px6qqpqdmx0i11rcezgwoj
+    followers: 36208
+    engagement: 341
+    commentsToLikes: 0.129523
+    id: ck0ttvadp4gtc0i198ntnn8kw
     verified: false
-    hashtags: "#npcbikinicompetitor, #stayhome, #neverquit, #undergroundathlete"
-  - username: "themodernod"
+    hashtags: "#foodstyling, #easyveganrecipe, #forkyeah, #fitnessjourney"
+  - username: "maggykheir"
     fullname: >-
-      Mariam Aslami O.D.| Eye Doctor
+      Maggy Kheir
     location: "United States"
-    followers: 13616
-    engagement: 777
-    commentsToLikes: 0.103462
-    id: ck15t2wcbg2ra0i19s0o26hga
+    followers: 18254
+    engagement: 730
+    commentsToLikes: 0.036593
+    id: ck8t3tl3f4g7n0j78yx6ty9q8
     verified: false
-    hashtags: "#cityscape, #healthyhair, #retina, #socal"
-  - username: "stacieluraann"
+    hashtags: "#powerbuilder"
+  - username: "enriquecarrillo_"
     fullname: >-
-      Stacie ❥
+      Enrique  Carrillo
     location: "United States"
-    followers: 8275
-    engagement: 608
-    commentsToLikes: 0.032087
-    id: ck5zzx2oecki80i14353h17t2
+    followers: 125395
+    engagement: 185
+    commentsToLikes: 0.024331
+    id: ck9hc2hkmjgnr0j78s7k2uprn
     verified: false
-    hashtags: "#bootyexercise, #smiles, #stayhome, #health"
-  - username: "julztocker"
+    hashtags: "#mcm, #freshfriday, #welcometotheclub, #houstonskyline"
+  - username: "snehanamanandi"
     fullname: >-
-      Julz Tocker
+      Sneha Namanandi
     location: "United States"
-    followers: 37796
-    engagement: 111
-    commentsToLikes: 0.055137
-    id: ck6tworryt85g0j71m44ibglb
+    followers: 114326
+    engagement: 186
+    commentsToLikes: 0.062387
+    id: ck8sxnc0rhz240j78115rg66r
     verified: true
-    hashtags: "#newzealand, #selflove, #happybirthday, #wellbeing"
+    hashtags: "#staycalm, #happy, #vines, #momanddaughter"
+  - username: "mackthetailor"
+    fullname: >-
+      Mack “The Tailor”
+    location: "United States"
+    followers: 22721
+    engagement: 360
+    commentsToLikes: 0.053692
+    id: ck5c54wi82qjy0i11rnlhbk7v
+    verified: false
+    hashtags: "#womeninsuits, #blackdesigners, #gratitude, #queerartist"
 ---

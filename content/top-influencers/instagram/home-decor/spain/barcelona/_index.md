@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top home decor Instagram influencers in Barcelona in 2020. Most popular hashtags: #homedecor #yomequedoencasa #stayhome #barcelona.
+  Find top home decor Instagram influencers in Barcelona in 2020. Most popular hashtags: #homedecor #decoracion #design #homedesign.
 platform: Instagram
 profiles:
-  - username: "murfeishun"
+  - username: "pilar_ohmyblog"
     fullname: >-
-      Marieta ♋
+      Pilar OhMyBlog 💋
     location: "Spain"
-    followers: 15465
-    engagement: 234
-    commentsToLikes: 0.010148
-    id: ck0u882ch6ois0i19hds7r0zu
+    followers: 47461
+    engagement: 245
+    commentsToLikes: 0.125788
+    id: ck5zt4jwxzq530i14quw018q7
     verified: false
-    hashtags: "#chokbarcelona, #2019, #timetosaygoodbye, #cliniquees"
+    hashtags: "#novia, #escotecuadrado, #rojo, #outfitverano"
+  - username: "dalmauvives"
+    fullname: >-
+      Dalmau Vives 🚶🏻‍♀️bARTcelona
+    location: "Spain"
+    followers: 2214
+    engagement: 1315
+    commentsToLikes: 0.077438
+    id: ck8t5b8729hr20j78aezg5zkw
+    verified: false
+    hashtags: "#mountain, #travelingram, #exposicion, #ginorubert"
+  - username: "cuentimarina"
+    fullname: >-
+      Marina Martín✖️Bodas de Cuento
+    location: "Spain"
+    followers: 15800
+    engagement: 197
+    commentsToLikes: 0.077437
+    id: ck5c63xsm4o530i11lyflohul
+    verified: false
+    hashtags: "#home, #sunday, #homedecor, #boda"
   - username: "dontworrybecamper"
     fullname: >-
       Eric & Mari ✱ Travel Couple
     location: "Spain"
-    followers: 23158
-    engagement: 609
-    commentsToLikes: 0.039251
+    followers: 23445
+    engagement: 586
+    commentsToLikes: 0.048723
     id: ck5qegsce0evv0i11xl9jepwu
     verified: false
-    hashtags: "#girona, #vacations, #lightroompresets, #viajar"
+    hashtags: "#cityscape, #vacationmode, #travelbloggers, #santjordi"
+  - username: "iraloginova"
+    fullname: >-
+      irina  loginova 📍 barcelona
+    location: "Spain"
+    followers: 6541
+    engagement: 231
+    commentsToLikes: 0.128388
+    id: ck1397toljyye0i191ejr8204
+    verified: false
+    hashtags: "#spain, #yomequedoencasa, #staysafe, #summer2020"
+  - username: "bella.como.camella"
+    fullname: >-
+      Amanda Marín Gutiérrez
+    location: "Spain"
+    followers: 7292
+    engagement: 428
+    commentsToLikes: 0.085549
+    id: ck5ztja9l0is90i14dcvkw48q
+    verified: false
+    hashtags: "#elle, #elleledition, #barcelonalife, #yeouthskincare"
   - username: "mumaoi"
     fullname: >-
       Raquel * Home & Kids Inspo
     location: "Spain"
-    followers: 9178
-    engagement: 652
-    commentsToLikes: 0.201873
+    followers: 11685
+    engagement: 734
+    commentsToLikes: 0.169994
     id: ck6uarsx359ot0j71vl09ufor
     verified: false
-    hashtags: "#myhome2inspire, #retrokidsroom, #homeinspo, #mamademellizos"
-  - username: "lovelihome"
-    fullname: >-
-      🌿Maria🌿
-    location: "Spain"
-    followers: 26621
-    engagement: 451
-    commentsToLikes: 0.064334
-    id: ck55oahzf7yw40i11uvbqnu69
-    verified: false
-    hashtags: "#homedecoration, #interior123, #currentdesignsituation, #decohome"
-  - username: "mvesblog"
-    fullname: >-
-      YANIA PEREIRA
-    location: "Spain"
-    followers: 26722
-    engagement: 159
-    commentsToLikes: 0.196815
-    id: ck55luike2grc0i11fyud70gx
-    verified: false
-    hashtags: "#metodolev, #barcelona, #dodot, #carnaval"
+    hashtags: "#decoracion, #homestylist, #ideasdecoracion, #laundryroom"
   - username: "v1kasso"
     fullname: >-
       Vicky Remiss Art 🎨
     location: "Spain"
-    followers: 20445
-    engagement: 317
-    commentsToLikes: 0.042606
+    followers: 20147
+    engagement: 328
+    commentsToLikes: 0.042230
     id: ck14l0cjqs88m0i199lqs7rpy
     verified: false
-    hashtags: "#loveyourspace, #comourexplosion, #artmotivation, #stayathome"
+    hashtags: "#fluidpainting, #geometricabstraction, #kittycompany, #catso"
   - username: "adriamolins"
     fullname: >-
       Adria Molins
     location: "Spain"
-    followers: 6640
-    engagement: 926
-    commentsToLikes: 0.054729
+    followers: 7340
+    engagement: 911
+    commentsToLikes: 0.050690
     id: ck0w00cqybrmj0i19mcdu11ez
     verified: false
-    hashtags: "#7edits, #letteringco, #inspirationseed, #halloween"
-  - username: "somewhereiwouldliketolive"
+    hashtags: "#edit, #illmatic, #hifructose, #edgarallanpoe"
+  - username: "hap_fashion"
     fullname: >-
-      Somewhere I Would Like To Live
+      H͙E͙I͙D͙Y͙
     location: "Spain"
-    followers: 412806
-    engagement: 360
-    commentsToLikes: 0.005634
-    id: ck0u1uby7xzd40i19ba66bjhc
+    followers: 212654
+    engagement: 92
+    commentsToLikes: 0.012536
+    id: ck0u0q731uk7t0i19ka2l1eyi
     verified: false
-    hashtags: "#architettura, #view, #comoumacanggu, #pool"
-  - username: "theflyingframe"
-    fullname: >-
-      Theflyingframe
-    location: "Spain"
-    followers: 7052
-    engagement: 1559
-    commentsToLikes: 0.208357
-    id: ck5zxxn828uns0i14y37s0n1k
-    verified: false
-    hashtags: "#creativetravelcouples, #estaescanarias, #burgosmola, #bestplacestogo"
-  - username: "alexanderap94"
-    fullname: >-
-      A L E X A N Ð E R
-    location: "Spain"
-    followers: 13370
-    engagement: 711
-    commentsToLikes: 0.013046
-    id: ck15twfg1k8x40i197d218jte
-    verified: false
-    hashtags: "#guys, #love, #telaviv, #sunnyday"
+    hashtags: "#myinterior, #storage, #fashion, #interi"
 ---

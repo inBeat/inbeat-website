@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Hamburg In 2020
 description: >-
-  Find top yoga Instagram influencers in Hamburg in 2020. Most popular hashtags: #yoga #stayathome #stayhome #portrait.
+  Find top yoga Instagram influencers in Hamburg in 2020. Most popular hashtags: #yoga #hamburg #challenge #shopping.
 platform: Instagram
 profiles:
-  - username: "sanae.decker"
+  - username: "bella_stella27"
     fullname: >-
-      Sanae Decker - Yoga Moves
+      Bella_Stella27
     location: "Germany"
-    followers: 6561
-    engagement: 645
-    commentsToLikes: 0.045289
-    id: ck8swofawepvm0j78mdg3uwat
+    followers: 70905
+    engagement: 342
+    commentsToLikes: 0.035172
+    id: ck13cujrm28gt0i19hg1mrt86
     verified: false
-    hashtags: "#littlelunch, #lieblingssuppe, #veganwerdenwaslosdigga, #dehnen"
-  - username: "sassiimoves"
+    hashtags: "#police, #music, #karneval, #followers"
+  - username: "sabrinalutz"
     fullname: >-
-      Sassi - Team Nike/Top4running
+      Sabrina Lutz🐚🌊
     location: "Germany"
-    followers: 36010
-    engagement: 475
-    commentsToLikes: 0.097558
-    id: ck1380xz2dyr60i19whwqpota
+    followers: 7158
+    engagement: 604
+    commentsToLikes: 0.024680
+    id: ck5c5uukk46v40i11j5moonoa
     verified: false
-    hashtags: "#handstand, #winter, #berlinmarathon2020, #mountainbikes"
-  - username: "karlakuhlm"
+    hashtags: "#grlpwr, #gowiththeflow, #conciousness, #crash"
+  - username: "petra.kempna"
     fullname: >-
-      𝐊𝐀𝐑𝐋𝐀
+      Petra 🤍
     location: "Germany"
-    followers: 35132
-    engagement: 270
-    commentsToLikes: 0.043039
-    id: ck0w4kundz2q20i19130c4olk
+    followers: 51578
+    engagement: 238
+    commentsToLikes: 0.032238
+    id: ck6u9936pw6mx0j71vdn7pd2g
     verified: false
-    hashtags: "#sunriselight, #tiedye, #tiedyed, #vintageshopping"
+    hashtags: "#zdravieakr, #bbhair, #sunday, #netflix"
   - username: "sorayas_world"
     fullname: >-
       ⋆ S O R A Y A ⋆
     location: "Germany"
-    followers: 17694
-    engagement: 399
-    commentsToLikes: 0.051465
+    followers: 17561
+    engagement: 542
+    commentsToLikes: 0.030375
     id: ck6tjjauw2twd0j71s4eikzgm
     verified: false
-    hashtags: "#balimylove, #safirashine, #bestiesoulmate, #berlincityvibes"
-  - username: "constanze_buss"
+    hashtags: "#raw, #snackandglow, #letsdothis, #mood"
+  - username: "monidmbi"
     fullname: >-
-      ☀️Constanze Buss
+      𝑭𝒊𝒕𝒏𝒆𝒔𝒔 | 𝑵𝒖𝒕𝒓𝒊𝒕𝒊𝒐𝒏 | 𝑴𝒊𝒏𝒅𝒔𝒆𝒕
     location: "Germany"
-    followers: 8207
-    engagement: 1464
-    commentsToLikes: 0.184876
-    id: ck5ckmm0ox6oi0i112ltc6mg6
+    followers: 3057
+    engagement: 2754
+    commentsToLikes: 0.027698
+    id: ck8tc30h7y3po0j78eo1gm6wi
     verified: false
-    hashtags: "#beautyshooting, #blackandwhite, #beautifuldestinations, #casting"
+    hashtags: "#wildheart, #instame, #success, #kettlebell"
+  - username: "inabatziakas"
+    fullname: >-
+      Yogalicious Köln
+    location: "Germany"
+    followers: 5948
+    engagement: 1009
+    commentsToLikes: 0.080763
+    id: ck9wol00x5kmu0j78g125p4jq
+    verified: false
+    hashtags: "#halfmoon, #youareenough, #igyogafamily, #hamburg"
   - username: "liz_mk"
     fullname: >-
-      🌸 LIZ 🌸
+      ☆ 𝐿𝒾𝓏 ☆
     location: "Germany"
-    followers: 26575
-    engagement: 610
-    commentsToLikes: 0.185697
+    followers: 27294
+    engagement: 677
+    commentsToLikes: 0.227079
     id: ck8tch0jvzg290j78uw7r8c9b
     verified: false
-    hashtags: "#lingerie, #bikini, #bloggersupport, #fashioninspiration"
-  - username: "flying.juliette"
+    hashtags: "#trend, #details, #inspohome, #denimstyle"
+  - username: "franzi_x_b"
     fullname: >-
-      👩🏼‍✈️  Pilot Jessie
+      Franzi🌸Motivation🌺Positivity
     location: "Germany"
-    followers: 71435
-    engagement: 208
-    commentsToLikes: 0.064698
-    id: ck14j12t3i3hm0i19c704nm5z
+    followers: 153267
+    engagement: 150
+    commentsToLikes: 0.142296
+    id: ck5zz35kjazsd0i143t91rqb8
     verified: false
-    hashtags: "#germanpilotgirls, #hotellife, #mindfullife, #germanpilotgirl"
-  - username: "clemens_wickler"
+    hashtags: "#ootdgermany, #flexfriday, #gedankentanken, #gymgirl"
+  - username: "katerinagiannoglou"
     fullname: >-
-      Clemens Wickler
+      Katerina Giannoglou
     location: "Germany"
-    followers: 10995
-    engagement: 1572
-    commentsToLikes: 0.012854
-    id: ck0tu5fwn5px40i19pi2gm5vp
+    followers: 16203
+    engagement: 263
+    commentsToLikes: 0.061232
+    id: ck5bvwca2kj5l0i11jnpocn92
     verified: false
-    hashtags: "#onelasttime, #fivb, #letztewocheurlaub, #bigbrotheriswatching"
-  - username: "stellacleyo"
+    hashtags: "#yogalifestyle, #beach, #germany, #timeoff"
+  - username: "sanae.decker"
     fullname: >-
-      Stella Cleyo
+      Yoga - Mindful Moves
     location: "Germany"
-    followers: 16930
-    engagement: 258
-    commentsToLikes: 0.025523
-    id: ck6tu755seoxx0j71bm4dnp7t
+    followers: 7811
+    engagement: 937
+    commentsToLikes: 0.050098
+    id: ck8swofawepvm0j78mdg3uwat
     verified: false
-    hashtags: "#ichinbalance, #homesweethome, #farmhouse, #dance"
-  - username: "aannkathrinn"
-    fullname: >-
-      Ann-Kathrin 🇩🇪
-    location: "Germany"
-    followers: 19887
-    engagement: 568
-    commentsToLikes: 0.016813
-    id: ck0tvqa2ycdyh0i19uq6al46j
-    verified: false
-    hashtags: "#shark, #goodcause, #organic, #berlinhalf"
+    hashtags: "#planken, #yogalover, #tuwasduliebst, #veganeern"
 ---

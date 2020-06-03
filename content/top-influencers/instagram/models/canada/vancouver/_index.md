@@ -1,46 +1,66 @@
 ---
 title: Top 10 Models Instagram Influencers In Vancouver In 2020
 description: >-
-  Find top models Instagram influencers in Vancouver in 2020. Most popular hashtags: #vancouver #love #dance #model.
+  Find top models Instagram influencers in Vancouver in 2020. Most popular hashtags: #nomakeup #quarantine #fallfashion #.
 platform: Instagram
 profiles:
   - username: "pixiesummer"
     fullname: >-
       s e i k a 🌸 s u i c i d e
     location: "Canada"
-    followers: 36523
-    engagement: 191
-    commentsToLikes: 0.013332
+    followers: 36302
+    engagement: 153
+    commentsToLikes: 0.011381
     id: ck5hh6puh6nxl0i11eud8w0w3
     verified: false
-    hashtags: "#beanieweather, #tattooedgirlsdoitbetter, #streetphotograph, #cutefashion"
-  - username: "brcarpio21"
-    fullname: >-
-      Brandon Carpio
-    location: "Canada"
-    followers: 5082
-    engagement: 1152
-    commentsToLikes: 0.070211
-    id: ck5zkj91pjkv60i14tesyo5o8
-    verified: false
-    hashtags: "#beach, #architecture, #dancer, #kaufman"
+    hashtags: "#smokyeye, #vintagephotos, #makeuplooks, #lazymonday"
   - username: "angharada.model"
     fullname: >-
       𝒜 𝓃 𝑔 𝒽 𝒶 𝓇 𝒶 𝒹 𝒶
     location: "Canada"
-    followers: 29141
-    engagement: 357
-    commentsToLikes: 0.044830
+    followers: 29863
+    engagement: 404
+    commentsToLikes: 0.041464
     id: ck15tn028ivx00i19vaaw8j0q
     verified: false
-    hashtags: "#ethereal, #gardening, #power, #photographyart"
+    hashtags: "#oldschool, #authentic, #heart, #bnwplanet"
+  - username: "veronica_latexdoll"
+    fullname: >-
+      Veronica Doll
+    location: "Canada"
+    followers: 6742
+    engagement: 772
+    commentsToLikes: 0.031466
+    id: ck8swso3hf3ml0j78dfh9yycs
+    verified: false
+    hashtags: "#blackandwhite, #latexcrew, #feelinggood, #girlgang"
+  - username: "theferrera"
+    fullname: >-
+      KATIA DES-FERRERA
+    location: "Canada"
+    followers: 90109
+    engagement: 294
+    commentsToLikes: 0.031560
+    id: ck5zno40wotxa0i14y9muxorf
+    verified: false
+    hashtags: "#katiferrera, #katiaferrera"
+  - username: "arleensidhuu"
+    fullname: >-
+      Arleen Sidhu
+    location: "Canada"
+    followers: 9687
+    engagement: 1652
+    commentsToLikes: 0.013632
+    id: ck8tceir7z78m0j78trwl4c64
+    verified: false
+    hashtags: "#krispykreme"
   - username: "alliewiebe"
     fullname: >-
       Allie Wiebe
     location: "Canada"
-    followers: 6027
-    engagement: 763
-    commentsToLikes: 0.016823
+    followers: 5987
+    engagement: 770
+    commentsToLikes: 0.015831
     id: ck5hj690ng2x70i1153b7oj1u
     verified: false
     hashtags: ""
@@ -48,60 +68,40 @@ profiles:
     fullname: >-
       † Alison Alexander †
     location: "Canada"
-    followers: 6628
-    engagement: 483
-    commentsToLikes: 0.030605
+    followers: 6607
+    engagement: 482
+    commentsToLikes: 0.030768
     id: ck5c6w6696bqr0i1146mczvjo
     verified: false
-    hashtags: "#yellowhair, #moodygrams, #charactermodel, #devilish"
-  - username: "zachozii"
+    hashtags: "#queenbee, #yyjperformers, #cosplaymodel, #killstar"
+  - username: "that_scarletletter"
     fullname: >-
-      Yaya
+      S C A R L E T  L E T T E R  🅰️
     location: "Canada"
-    followers: 2177
-    engagement: 3032
-    commentsToLikes: 0.077966
-    id: ck8wfu9p7g9pv0j788yyomewu
+    followers: 7949
+    engagement: 625
+    commentsToLikes: 0.077390
+    id: ckap94d7nr3lw0i78hkou9s9u
     verified: false
-    hashtags: "#canad, #bccanada, #foryou, #fyp"
+    hashtags: ""
   - username: "an_angel_who_flew_into_chaos"
     fullname: >-
       Shenanagins
     location: "Canada"
-    followers: 17823
-    engagement: 206
-    commentsToLikes: 0.257634
+    followers: 17481
+    engagement: 203
+    commentsToLikes: 0.256522
     id: ck6u2hauyrtpj0j71x5nqzrfq
     verified: false
-    hashtags: "#tattooedasfuck, #craneoperatorlife, #allnatural, #inkaddict"
-  - username: "shaktiaroundtheworld"
+    hashtags: "#babeswithtattoo, #sexy, #flowers, #nofilter"
+  - username: "lifewithimran"
     fullname: >-
-      MS S BRITISH COLUMBIA WORLD
+      Imran Rai✨| Blogger
     location: "Canada"
-    followers: 52277
-    engagement: 152
-    commentsToLikes: 0.090648
-    id: ck5zk4i5tisqu0i141e8uql6c
+    followers: 3234
+    engagement: 1311
+    commentsToLikes: 0.051582
+    id: ckapbzsev1x4c0i780qd4fewz
     verified: false
-    hashtags: "#carribean, #tb, #staysafe, #skipatrol"
-  - username: "barraozinho"
-    fullname: >-
-      Marcus Aurelio
-    location: "Canada"
-    followers: 87100
-    engagement: 366
-    commentsToLikes: 0.022760
-    id: ck5qciwhuqswt0i11jt9dnp59
-    verified: true
-    hashtags: "#mma, #ring, #stunts, #game"
-  - username: "tangerinca"
-    fullname: >-
-      AVE MARIA
-    location: "Canada"
-    followers: 2728
-    engagement: 2706
-    commentsToLikes: 0.159722
-    id: ck6tibd6x0e9x0j7134j8cmq6
-    verified: false
-    hashtags: ""
+    hashtags: "#quarantine"
 ---

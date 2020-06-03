@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Turin In 2020
 description: >-
-  Find top beauty Instagram influencers in Turin in 2020. Most popular hashtags: #beauty #turin #fashion #makeup.
+  Find top beauty Instagram influencers in Turin in 2020. Most popular hashtags: #beauty #flowers #gifted #turin.
 platform: Instagram
 profiles:
-  - username: "marddix"
+  - username: "rita.cap"
     fullname: >-
-      Marco Travel Diary
+      𝑹𝒊𝒕𝒂 𝑪𝒂𝒑𝒑𝒂𝒓𝒆𝒍𝒍𝒊✨
     location: "Italy"
-    followers: 26439
-    engagement: 174
-    commentsToLikes: 0.079116
-    id: ck6u6q34jh28e0j71wczhf1yh
+    followers: 93491
+    engagement: 152
+    commentsToLikes: 0.030485
+    id: ck138l6upgrut0i19o4hxktfz
     verified: false
-    hashtags: "#light, #cinqueterre, #nature, #turin"
-  - username: "vanekatv"
-    fullname: >-
-      Vanessa Gomez
-    location: "Italy"
-    followers: 77155
-    engagement: 427
-    commentsToLikes: 0.013176
-    id: ck134up4sy9z00i19s616fqt2
-    verified: false
-    hashtags: "#colombia, #fashiondiaries, #model, #love"
+    hashtags: "#suppliedby, #skincareenthusiast, #phoneclone, #fotografiavisionaria"
   - username: "serena_filomena"
     fullname: >-
-      Serena Filomena
+      SERENA FILOMENA ✨
     location: "Italy"
-    followers: 15890
-    engagement: 162
-    commentsToLikes: 0.055135
+    followers: 16279
+    engagement: 182
+    commentsToLikes: 0.057789
     id: ck6u6fiztfb4i0j71uwtevple
     verified: false
-    hashtags: "#cosmeticinaturali, #eyeshadow, #naturalproducts, #igersoftheday"
-  - username: "andre_wave"
-    fullname: >-
-      Andrea Pavanello
-    location: "Italy"
-    followers: 53530
-    engagement: 1018
-    commentsToLikes: 0.080242
-    id: ck0ue4wkekoms0i19b8wuqnm4
-    verified: false
-    hashtags: "#wednesday, #things, #wonderful, #genuine"
+    hashtags: "#plants, #natgeohub, #happybirthday, #splendid"
   - username: "julia_mmsalmean"
     fullname: >-
-      Julia MM Salmeán
+      Julia MM Salmeán
     location: "Italy"
-    followers: 85117
-    engagement: 360
-    commentsToLikes: 0.075981
+    followers: 109011
+    engagement: 296
+    commentsToLikes: 0.066292
     id: ck15ulb4cnqr40i19eh17t3x8
     verified: false
-    hashtags: "#misobrina, #compa, #sorteo, #turin"
-  - username: "alice.fiorini_"
+    hashtags: "#1a, #costaazul, #quebuenosiemprevolveraverte, #risasrisasyrisas"
+  - username: "miriammigliaccio"
     fullname: >-
-      A L I C E
+      Miriam
     location: "Italy"
-    followers: 17589
-    engagement: 792
-    commentsToLikes: 0.052883
-    id: ck6tzxekacfn50j717bethzy2
+    followers: 11486
+    engagement: 1271
+    commentsToLikes: 0.026279
+    id: ck9wezrpcmmkf0j789f1w9gn0
     verified: false
-    hashtags: "#kryolanmakeup, #avangarde, #cloud, #animalcrossing"
-  - username: "carola_bianco_"
-    fullname: >-
-      Carola Bianco
-    location: "Italy"
-    followers: 8447
-    engagement: 828
-    commentsToLikes: 0.032203
-    id: ck6ufbfr2w2590j71nlmz3inb
-    verified: false
-    hashtags: "#siswimsuit, #picture, #summer, #sunglasses"
+    hashtags: "#gymmodel, #kissmypeach, #magariio, #body"
   - username: "risi_mua"
     fullname: >-
       🦄🌺 𝐼𝑅𝐼𝒮 𝒞𝒰𝒞𝒰𝒵𝒵𝒜  🌺🦄
     location: "Italy"
-    followers: 6274
-    engagement: 872
-    commentsToLikes: 0.052963
+    followers: 6535
+    engagement: 849
+    commentsToLikes: 0.050961
     id: ck0vw52fos50d0i19g23ly9jv
     verified: false
-    hashtags: "#glowtonic, #beautybay, #lacasadicarta, #christmas2019"
+    hashtags: "#roses, #scar, #christmas, #grinch"
   - username: "giuse_joseph"
     fullname: >-
       © Giuse Joseph - Videomaker
     location: "Italy"
-    followers: 14721
-    engagement: 97
-    commentsToLikes: 0.054034
+    followers: 14349
+    engagement: 101
+    commentsToLikes: 0.052259
     id: ck14guqwz74lt0i192gmg5z09
     verified: false
-    hashtags: "#style, #blondemodels, #lumix, #nexbuds"
+    hashtags: "#lumix, #massage, #nexiomi, #videooftheday"
   - username: "ornellapicciau"
     fullname: >-
       Ornella The Fashion Dance
     location: "Italy"
-    followers: 40480
-    engagement: 96
-    commentsToLikes: 0.211099
+    followers: 47757
+    engagement: 109
+    commentsToLikes: 0.178000
     id: ck136kp4i6z9p0i19skz60lqh
     verified: false
-    hashtags: "#babyboy, #ciglione, #makuptutorial, #hotelcolaltodolomites"
+    hashtags: "#tuttoandr, #happybirthday, #sponsored, #quarantine"
+  - username: "nicole_pinkbow"
+    fullname: >-
+      Nicole Lifestyle Lover
+    location: "Italy"
+    followers: 4132
+    engagement: 1185
+    commentsToLikes: 0.084617
+    id: ck9hat96ie1el0j785128sc9e
+    verified: false
+    hashtags: "#flowers, #books, #myaestheticroutine, #casely"
+  - username: "pininfarina_official"
+    fullname: >-
+      Pininfarina
+    location: "Italy"
+    followers: 87825
+    engagement: 164
+    commentsToLikes: 0.010383
+    id: ck0w4oynhzob90i1905u9nhzg
+    verified: false
+    hashtags: "#experiencedesign, #boating, #luxuryyacht, #pininstagram"
+  - username: "biancodavide_"
+    fullname: >-
+      Davide Bianco
+    location: "Italy"
+    followers: 9845
+    engagement: 1680
+    commentsToLikes: 0.017291
+    id: ck8t34x871vof0j7862jmo2zx
+    verified: false
+    hashtags: "#gaudi, #igerstorino, #felicit, #portoconte"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Chile In 2020
 description: >-
-  Find top illustrators Instagram influencers in Chile in 2020. Most popular hashtags: #illustration #drawing #art #draw.
+  Find top illustrators Instagram influencers in Chile in 2020. Most popular hashtags: #painting #mothersday #color #graphicdesign.
 platform: Instagram
 profiles:
   - username: "itspinkmey"
     fullname: >-
       ピンクメイ 🦄💖🌟
     location: "Chile"
-    followers: 11136
-    engagement: 1090
-    commentsToLikes: 0.054238
+    followers: 11768
+    engagement: 988
+    commentsToLikes: 0.066547
     id: ck5c5wu3k4aju0i11vcdzsml9
     verified: false
-    hashtags: "#bebeyoda, #kimetsunoyaiba, #pokemon, #ocgenderbend2020"
-  - username: "theilusoman"
+    hashtags: "#mermay2020, #mermay, #teenagedream, #digitaldrawing"
+  - username: "khandrawss"
     fullname: >-
-      César Castillo Marquez
+      khan | Digital Art 🖤
     location: "Chile"
-    followers: 10037
-    engagement: 626
-    commentsToLikes: 0.015120
-    id: ck0vxbzdvy5g40i19o4b6ms1x
+    followers: 2343
+    engagement: 2530
+    commentsToLikes: 0.110599
+    id: ckapbz21i1u8u0i78nqvjq84n
     verified: false
-    hashtags: "#netflix, #street, #miles, #mequedoencasa"
+    hashtags: "#nekoleh, #girlillustration, #digitalartistsoninstagram, #cutegirldrawing"
   - username: "arietteforce"
     fullname: >-
       Nicolás Hernández-Sotelo
     location: "Chile"
-    followers: 16161
-    engagement: 1069
-    commentsToLikes: 0.005979
+    followers: 15968
+    engagement: 1085
+    commentsToLikes: 0.005936
     id: ck0txj67vjd4o0i1906p5epgu
     verified: false
-    hashtags: "#dinosaurs, #drawing, #sketch, #procreate"
-  - username: "_infinity.draw_"
+    hashtags: "#procreate, #suethetrex, #watercolor, #giganotosaurus"
+  - username: "maya_hanisch"
     fullname: >-
-      Anime and Manga drawing ✒️
+      Maya Hanisch
     location: "Chile"
-    followers: 44714
-    engagement: 1364
-    commentsToLikes: 0.015684
-    id: ck15tl4l1ilzy0i19z0yb3j3n
+    followers: 85258
+    engagement: 239
+    commentsToLikes: 0.021133
+    id: ck133ypnoueaj0i19wsup73au
     verified: false
-    hashtags: "#sketches, #asagirigen, #artwork, #shinobu"
-  - username: "eterno_invierno_tattoo"
+    hashtags: "#games, #musica, #childrenbooks, #picturebooks"
+  - username: "kindness.art"
     fullname: >-
-      Eterno Invierno ☔
+      kindness
     location: "Chile"
-    followers: 29244
-    engagement: 735
-    commentsToLikes: 0.010007
-    id: ck13ami9br3qt0i19sryxbkd9
+    followers: 86796
+    engagement: 464
+    commentsToLikes: 0.008261
+    id: ck8szwlqgpzea0j78tdln2zds
     verified: false
-    hashtags: "#blacktattoo, #mermaid, #flower, #chiletatuajes"
-  - username: "felipenovoafen"
+    hashtags: "#illust, #fanart, #monthsary, #color"
+  - username: "richardescalona"
     fullname: >-
-      FEN
+      RichardEscalona #QuédateEnCasa
     location: "Chile"
-    followers: 9343
-    engagement: 960
-    commentsToLikes: 0.019007
-    id: ck5pwhgd3mtg40i1163c7y7cr
+    followers: 42866
+    engagement: 558
+    commentsToLikes: 0.048558
+    id: ck0tv5kuja16e0i19h8rxe3e6
     verified: false
-    hashtags: "#illustrators, #cacerolazoporcolombia, #space, #infierno"
-  - username: "lanegramariaoficial"
+    hashtags: "#cuaresma, #divinemercy, #urbietorbi, #couple"
+  - username: "_brahox"
     fullname: >-
-      La Negra María / María Ovalle
+      Braho
     location: "Chile"
-    followers: 39013
-    engagement: 286
-    commentsToLikes: 0.087578
-    id: ck5hhqcep9klc0i117o3m6t38
+    followers: 5503
+    engagement: 891
+    commentsToLikes: 0.079821
+    id: ckap9owtot1s60i78ybmededv
     verified: false
-    hashtags: "#ipadpro, #ipad, #naipe, #naipes"
-  - username: "nahv.cl"
+    hashtags: "#pastel, #omega, #tatuagem, #covid19"
+  - username: "nadiaronquilloart"
     fullname: >-
-      Nicolás Ahumada
+      Nadia Ronquillo
     location: "Chile"
-    followers: 6624
-    engagement: 3460
-    commentsToLikes: 0.018346
-    id: ck55k2rwpybkc0i11kp2a5l63
+    followers: 5237
+    engagement: 506
+    commentsToLikes: 0.033338
+    id: ck8t36txa23z50j781xzzs09n
     verified: false
-    hashtags: "#metro, #inktober, #chile, #chileprotesta"
-  - username: "let.moon"
+    hashtags: "#artists, #illustratenow, #happy, #lonsomegeorge"
+  - username: "espaciogrumoso"
     fullname: >-
-      Moonchild
+      Grumosa
     location: "Chile"
-    followers: 5410
-    engagement: 1726
-    commentsToLikes: 0.028134
-    id: ck15ts5hmjmb10i19fb9og1rg
+    followers: 7632
+    engagement: 560
+    commentsToLikes: 0.019689
+    id: ckaor9omkmbgn0i781yjj3zyc
     verified: false
-    hashtags: "#animeart, #digitalillustration, #namjoonfanart, #hopekook"
-  - username: "deditosdesalchicha"
+    hashtags: "#sailormoonredraw, #ipad, #wallpaper, #gatos"
+  - username: "nicolasamarophoto"
     fullname: >-
-      Pauli🍟
+      Nicolas Amaro
     location: "Chile"
-    followers: 5497
-    engagement: 460
-    commentsToLikes: 0.010271
-    id: ck6ti5kgw02w80j711u2pjbqw
+    followers: 6964
+    engagement: 309
+    commentsToLikes: 0.046162
+    id: ck0w76k0qc0dr0i19b4210oxv
     verified: false
-    hashtags: "#princesa, #clean, #elvirasastre, #devonwerkharder"
+    hashtags: "#amor, #streetbwcolor, #creative, #igersbarcelona"
 ---

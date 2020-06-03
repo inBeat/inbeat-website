@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Norway In 2020
 description: >-
-  Find top health Instagram influencers in Norway in 2020. Most popular hashtags: #workout #healthylifestyle #homesweethome #fitness.
+  Find top health Instagram influencers in Norway in 2020. Most popular hashtags: #biodiversity #covid19 #newnormal #strength.
 platform: Instagram
 profiles:
-  - username: "unececilie"
-    fullname: >-
-      UNE CECILIE
-    location: "Norway"
-    followers: 24275
-    engagement: 663
-    commentsToLikes: 0.030883
-    id: ck15t0hl2fq8o0i190y1r4v6k
-    verified: false
-    hashtags: "#friluftsfersking"
-  - username: "gunhild_stordalen"
-    fullname: >-
-      Gunhild A. Stordalen
-    location: "Norway"
-    followers: 181942
-    engagement: 371
-    commentsToLikes: 0.026351
-    id: ck5zmq1uzn0kg0i147yvuqe2w
-    verified: true
-    hashtags: "#greatdanesofinstagram, #nextgeneration, #gobigorgohome, #teamworkmakesthedreamwork"
-  - username: "andrealowing"
-    fullname: >-
-      Andrea Lowing 👑 IFBB Bikini
-    location: "Norway"
-    followers: 11207
-    engagement: 601
-    commentsToLikes: 0.077537
-    id: ck8t6pi6led900j7848rkv3h0
-    verified: false
-    hashtags: "#saturday, #photooftheday, #bikinicompetitor, #fitnessgirl"
-  - username: "lindalike"
-    fullname: >-
-      Linda Sannesmoen
-    location: "Norway"
-    followers: 39099
-    engagement: 95
-    commentsToLikes: 0.052241
-    id: ck0vwanbssuii0i19rovn2gwt
-    verified: false
-    hashtags: "#lindalike, #onthemove, #nextchapter, #cov"
-  - username: "kathsolberg"
-    fullname: >-
-      Kathrine Madelen | FITNESS
-    location: "Norway"
-    followers: 15080
-    engagement: 532
-    commentsToLikes: 0.131986
-    id: ck5q5p68stwjq0i11qz0dw0td
-    verified: false
-    hashtags: "#girlswithmuscles, #femininemuscle, #iloveyoubaby, #3rdtrimester"
-  - username: "emilienutrition"
-    fullname: >-
-      Emilie Nereng
-    location: "Norway"
-    followers: 93577
-    engagement: 300
-    commentsToLikes: 0.014683
-    id: ck55lurn92hi50i113d68s7ce
-    verified: false
-    hashtags: "#mymollers, #vitamind, #plantbased, #vegan"
-  - username: "eatmoreplants.no"
-    fullname: >-
-      PLANT-BASED VEGAN RECIPES
-    location: "Norway"
-    followers: 14359
-    engagement: 491
-    commentsToLikes: 0.055697
-    id: ck5hkk46yiket0i11wxhrk0cb
-    verified: false
-    hashtags: ""
-  - username: "weightliftingadvice"
-    fullname: >-
-      Weightlifting Advice | Fitness
-    location: "Norway"
-    followers: 4027
-    engagement: 1216
-    commentsToLikes: 0.195680
-    id: ck6uhmknf9zna0j717bycmfpd
-    verified: false
-    hashtags: "#gymholic, #dwaynetherockjohnson, #gymlifestyles, #gymbeaston"
-  - username: "anettevs"
-    fullname: >-
-      Anette Veronica 🇳🇴
-    location: "Norway"
-    followers: 11923
-    engagement: 312
-    commentsToLikes: 0.387941
-    id: ck0ty9wkwm3230i19mrwfkgyc
-    verified: false
-    hashtags: "#decor, #hyggehome, #classyinteriors, #stuebord"
   - username: "ingridkristiansen_"
     fullname: >-
       INGRID KRISTIANSEN
     location: "Norway"
-    followers: 3053
-    engagement: 2087
-    commentsToLikes: 0.216951
+    followers: 3840
+    engagement: 1487
+    commentsToLikes: 0.226074
     id: ck8t68e32cn750j78d0yv667f
     verified: false
-    hashtags: "#lillel, #protein, #smoothielover, #trening"
+    hashtags: "#heavylifting, #firgirl, #clothing, #hjemmetrening"
+  - username: "walkandtalkoflife"
+    fullname: >-
+      Walk & Talk of LIFE🌏
+    location: "Norway"
+    followers: 3059
+    engagement: 2689
+    commentsToLikes: 0.061253
+    id: ck9hbkj3bh8le0j78h1lybaa4
+    verified: false
+    hashtags: "#outdoorlife, #rogalandsbunad, #solbergelva, #minions"
+  - username: "gunhild_stordalen"
+    fullname: >-
+      Gunhild A. Stordalen
+    location: "Norway"
+    followers: 182687
+    engagement: 346
+    commentsToLikes: 0.021107
+    id: ck5zmq1uzn0kg0i147yvuqe2w
+    verified: true
+    hashtags: "#newnormal, #foodismedicine, #bookstoread, #healthyeating"
+  - username: "andrealowing"
+    fullname: >-
+      Andrea Lowing 👑 IFBB Bikini
+    location: "Norway"
+    followers: 12698
+    engagement: 762
+    commentsToLikes: 0.069578
+    id: ck8t6pi6led900j7848rkv3h0
+    verified: false
+    hashtags: "#squats, #girlswholift, #stayhome, #longtimenogym"
+  - username: "billyjohnbob"
+    fullname: >-
+      BillyJohnBob 🐻 The Hairy Gamer
+    location: "Norway"
+    followers: 30460
+    engagement: 447
+    commentsToLikes: 0.026721
+    id: ck9we77wcixpc0j78yr0es0qt
+    verified: false
+    hashtags: "#gaysandcats, #may9th, #skjegg, #staysafe"
+  - username: "lindalike"
+    fullname: >-
+      Linda Sannesmoen
+    location: "Norway"
+    followers: 38569
+    engagement: 98
+    commentsToLikes: 0.052809
+    id: ck0vwanbssuii0i19rovn2gwt
+    verified: false
+    hashtags: "#insecthotel, #whatiwear, #plantbased, #epic"
+  - username: "kathsolberg"
+    fullname: >-
+      Kathrine Madelen | FITNESS
+    location: "Norway"
+    followers: 14707
+    engagement: 533
+    commentsToLikes: 0.089779
+    id: ck5q5p68stwjq0i11qz0dw0td
+    verified: false
+    hashtags: "#momlife, #35weekspregnant, #pregnancyweek38, #bubbleroom"
+  - username: "eatmoreplants.no"
+    fullname: >-
+      PLANT-BASED VEGAN RECIPES
+    location: "Norway"
+    followers: 15015
+    engagement: 370
+    commentsToLikes: 0.073850
+    id: ck5hkk46yiket0i11wxhrk0cb
+    verified: false
+    hashtags: ""
+  - username: "emilienutrition"
+    fullname: >-
+      Emilie Nereng
+    location: "Norway"
+    followers: 98273
+    engagement: 293
+    commentsToLikes: 0.012914
+    id: ck55lurn92hi50i113d68s7ce
+    verified: false
+    hashtags: "#nerdyfacts, #missinternational, #mymollers, #vitamind"
+  - username: "weightliftingadvice"
+    fullname: >-
+      Weightlifting Advice | Fitness
+    location: "Norway"
+    followers: 4119
+    engagement: 1196
+    commentsToLikes: 0.192819
+    id: ck6uhmknf9zna0j717bycmfpd
+    verified: false
+    hashtags: "#allnaturalbodybuilding, #bizeps, #projectrock, #fitnessover50"
 ---

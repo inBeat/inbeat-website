@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In Brazil In 2020
 description: >-
-  Find top gymnasts Instagram influencers in Brazil in 2020. Most popular hashtags: #gymnastics #ginastica #tbt #gym.
+  Find top gymnasts Instagram influencers in Brazil in 2020. Most popular hashtags: #gymnastics #stayhome #surprise #toquio2021.
 platform: Instagram
 profiles:
-  - username: "hbornal"
+  - username: "dudacarvalho25"
     fullname: >-
-      Heloisa Bornal
+      Duda Carvalho
     location: "Brazil"
-    followers: 11016
-    engagement: 700
-    commentsToLikes: 0.072515
-    id: ck6u3gv8bxpk60j71g8d3vc0g
+    followers: 3640
+    engagement: 1765
+    commentsToLikes: 0.126498
+    id: ckaow0oqd6wqf0i78xsbtc53m
     verified: false
-    hashtags: "#peacetime, #gym, #likes, #alongamento"
+    hashtags: "#sabrinasato, #careclub, #nowunited, #cbginatica"
   - username: "paxton_myler"
     fullname: >-
       Paxton Myler
     location: "Brazil"
-    followers: 22767
-    engagement: 494
-    commentsToLikes: 0.026316
+    followers: 27667
+    engagement: 528
+    commentsToLikes: 0.027150
     id: ck5cc0xhtgipj0i116sbxfsn5
     verified: false
-    hashtags: "#olaf, #americanninjawarriorjr, #toylab, #ninjakidz"
-  - username: "nicole_pircio"
+    hashtags: "#wildlife, #giantsloth, #anwjr, #flyakite"
+  - username: "jacquedosanjos_"
     fullname: >-
-      Nicole Pircio N. Duarte
+      Jacqueline Bandeira
     location: "Brazil"
-    followers: 5287
-    engagement: 1079
-    commentsToLikes: 0.056981
-    id: ck6u3gt83xpa10j710a1345bx
+    followers: 10440
+    engagement: 388
+    commentsToLikes: 0.114659
+    id: ck5c9gsv8beou0i11kjchkdoo
     verified: false
-    hashtags: "#gymnasia, #grandprix2020, #muitotreino, #quevenhaasproximas"
+    hashtags: "#northcarolina, #londoneye, #saofrancisco, #vaiterpascoasim"
+  - username: "natigaudio"
+    fullname: >-
+      Natália Gaudio
+    location: "Brazil"
+    followers: 47794
+    engagement: 376
+    commentsToLikes: 0.020739
+    id: ck8tb42uzu6kb0j78u6n332zy
+    verified: true
+    hashtags: "#wecandoit, #selfie, #healthy, #timebrasil"
   - username: "tutyayilmaz"
     fullname: >-
       Tutya Yilmaz
     location: "Brazil"
-    followers: 30058
-    engagement: 535
-    commentsToLikes: 0.010692
+    followers: 29356
+    engagement: 512
+    commentsToLikes: 0.012253
     id: ck5q047s845tq0i11lmzw7s51
     verified: false
-    hashtags: "#tokyo2021, #motivationmonday, #meliskarahan, #brighsouls"
-  - username: "luanabarreiraa"
+    hashtags: "#louisehay, #18mart, #tokyo2021, #pratikpsikoloji"
+  - username: "lucas_emelo"
     fullname: >-
-      Luana Barreira
+      Lucas De Melo
     location: "Brazil"
-    followers: 4011
-    engagement: 1033
-    commentsToLikes: 0.069144
-    id: ck5zu5nrd1q690i14pqwds2m3
+    followers: 8879
+    engagement: 771
+    commentsToLikes: 0.021229
+    id: ckap35yqp1p6f0i782z43m3ca
     verified: false
-    hashtags: "#stayhome, #gymnasticschallenge, #gymnastics"
+    hashtags: "#tbt"
   - username: "jade_barbosa"
     fullname: >-
       Jade Barbosa
     location: "Brazil"
-    followers: 732839
-    engagement: 177
-    commentsToLikes: 0.010717
+    followers: 720770
+    engagement: 198
+    commentsToLikes: 0.011561
     id: ck5zu5pgk1qa00i14yjet8hn2
     verified: true
-    hashtags: "#sextou, #juntossomosmaisfortes, #keepgoing, #sunlife"
-  - username: "daphsonn"
+    hashtags: "#tbtfeelings, #stayhome, #doha, #gymmood"
+  - username: "luanabarreiraa"
     fullname: >-
-      Daphne Sonnenschein
+      Luana Barreira
     location: "Brazil"
-    followers: 28358
-    engagement: 327
-    commentsToLikes: 0.059556
-    id: ck6uggvhx2y7w0j710avh3d2n
+    followers: 3982
+    engagement: 1121
+    commentsToLikes: 0.069252
+    id: ck5zu5nrd1q690i14pqwds2m3
     verified: false
-    hashtags: "#love, #delicious, #girlshredclip, #chefsplatform"
-  - username: "melogym"
+    hashtags: "#stayhome, #gymnasticschallenge, #gymnastics"
+  - username: "babidomingos"
     fullname: >-
-      MeloGym®
+      Barbara Domingos
     location: "Brazil"
-    followers: 21320
-    engagement: 496
-    commentsToLikes: 0.004428
-    id: ck0vyy1te6cit0i19bo0wlr5o
+    followers: 18693
+    engagement: 709
+    commentsToLikes: 0.019592
+    id: ck0tz33c4ozk10i19flf69mil
     verified: false
-    hashtags: "#vavo, #gimnasia, #tokyo2021, #inlove"
+    hashtags: "#ginasticaemcasa, #caixa, #smelj, #top2020"
   - username: "payton_delu"
     fullname: >-
       Payton Delu Myler
     location: "Brazil"
-    followers: 27247
-    engagement: 583
-    commentsToLikes: 0.033804
+    followers: 33170
+    engagement: 636
+    commentsToLikes: 0.032048
     id: ck5cc0whvgims0i11wjfmdmli
     verified: false
-    hashtags: "#surprisetrip, #skyrockettoys, #anwjr, #ninjakidztb"
-  - username: "deborahmedradobarbosa"
-    fullname: >-
-      Déborah Medrado Barbosa
-    location: "Brazil"
-    followers: 6307
-    engagement: 802
-    commentsToLikes: 0.033320
-    id: ck6u3gqzaxouf0j71xqyuezjh
-    verified: false
-    hashtags: "#deusnocomando, #tbt, #parab, #amordemae"
+    hashtags: "#skills, #paytonmylwr, #overcomingfears, #youtuber"
 ---

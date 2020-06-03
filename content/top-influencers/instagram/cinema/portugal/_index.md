@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Portugal In 2020
 description: >-
-  Find top cinema Instagram influencers in Portugal in 2020. Most popular hashtags: #portugal #stayhome #photography #lisbon.
+  Find top cinema Instagram influencers in Portugal in 2020. Most popular hashtags: #stayhome #cinematography #photographer #love.
 platform: Instagram
 profiles:
-  - username: "andriu_fpv"
+  - username: "kattysmagicalplanet"
     fullname: >-
-      Andrés Aguilera
+      💫🌼 K a t t y  G i l 🌼💫
     location: "Portugal"
-    followers: 194889
-    engagement: 1245
-    commentsToLikes: 0.022062
-    id: ck0ubmrqjeygk0i19u1kksrrb
+    followers: 2373
+    engagement: 1213
+    commentsToLikes: 0.093197
+    id: ck8t62gbkc0620j784w47x3bj
     verified: false
-    hashtags: "#gopro8, #kualalumpur, #drones, #skiing"
-  - username: "mmjardim"
+    hashtags: "#loveyou, #covid19portugal, #cutecats, #catsandshoes"
+  - username: "ricardo.carrico_oficial"
     fullname: >-
-      Mónica Jardim
+      Ricardo Carriço
     location: "Portugal"
-    followers: 215564
-    engagement: 173
-    commentsToLikes: 0.015932
-    id: ck5q9rb3rcl2s0i11fy1yygw3
+    followers: 47475
+    engagement: 306
+    commentsToLikes: 0.042782
+    id: ck6tq15hdotkf0j71bdcr7a3o
     verified: true
-    hashtags: "#running, #somosportugal, #fiquememcasa, #vaificartudobem"
-  - username: "okarenc"
+    hashtags: "#aniversario, #weekend, #bemestar, #poetas"
+  - username: "anka_zhuravleva_arts"
     fullname: >-
-      кarenкwc ✶🌆 Hongkong
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Anka Zhuravleva
     location: "Portugal"
-    followers: 6838
-    engagement: 781
-    commentsToLikes: 0.036673
-    id: ck5pw83a9lk5v0i11e7yuiko2
+    followers: 175463
+    engagement: 201
+    commentsToLikes: 0.021389
+    id: ck0w4y3iv0z840i197nwmd0ff
     verified: false
-    hashtags: "#agameoftones, #alltrails, #seoultravel, #verilymoment"
-  - username: "gabrielalrbarros"
+    hashtags: "#onbooooooom, #bwlovers, #challenge, #insta"
+  - username: "mercheromero.oficial"
     fullname: >-
-      Gabriela Barros
+      Merche Romero
     location: "Portugal"
-    followers: 91668
-    engagement: 266
-    commentsToLikes: 0.014431
-    id: ck0vzd9fp8j300i19807p3qm2
+    followers: 57169
+    engagement: 135
+    commentsToLikes: 0.039186
+    id: ck5q4fow7ovrq0i117oi8rngz
     verified: false
-    hashtags: "#christmas, #beyonce, #movie, #roxiestaysthefuckhome"
+    hashtags: "#directo, #pagina, #intamoment, #osquieromucho"
+  - username: "masimmo"
+    fullname: >-
+      Márcia Simões
+    location: "Portugal"
+    followers: 18272
+    engagement: 298
+    commentsToLikes: 0.030872
+    id: ck5zjwj0nie070i140pj0pjfj
+    verified: false
+    hashtags: "#bnw, #tumblr, #aesthetic, #selfie"
   - username: "untitled.save"
     fullname: >-
       Untitled
     location: "Portugal"
-    followers: 13002
-    engagement: 766
-    commentsToLikes: 0.007944
+    followers: 13404
+    engagement: 804
+    commentsToLikes: 0.007443
     id: ck0u12fryvjyo0i19m58a4wbc
     verified: false
-    hashtags: "#silverscreen, #baroque, #mikeshake, #portraitart"
+    hashtags: "#whitesquareart, #hollygolightly, #silverscreen, #realism"
   - username: "zepev"
     fullname: >-
-      𝒁é 𝑽𝒊𝒍𝒂𝒔 𝑩𝒐𝒂𝒔
+      𝒁é 𝑽𝒊𝒍𝒂𝒔 𝑩𝒐𝒂𝒔
     location: "Portugal"
-    followers: 7650
-    engagement: 1612
-    commentsToLikes: 0.046096
+    followers: 7566
+    engagement: 1655
+    commentsToLikes: 0.045279
     id: ck5chd4djqjl90i11142i1xwn
     verified: false
-    hashtags: "#naturelover, #dubaitag, #dubaitourism, #visual"
-  - username: "anneachim"
-    fullname: >-
-      Ana Achim
-    location: "Portugal"
-    followers: 11453
-    engagement: 901
-    commentsToLikes: 0.015464
-    id: ck5hqkdgyt8vx0i115jx1s3qy
-    verified: false
-    hashtags: "#bikinibottom, #girls, #retr, #streetsofportugal"
-  - username: "simao_the_beagle"
-    fullname: >-
-      Simão - Storyteller with paws
-    location: "Portugal"
-    followers: 24046
-    engagement: 544
-    commentsToLikes: 0.101475
-    id: ck15qvx004wfu0i19302cdq7g
-    verified: false
-    hashtags: "#dogsofbark, #carris, #sharingportugal, #igerslisboa"
+    hashtags: "#sunset, #olho, #porto, #igersportugal"
   - username: "andrechaica"
     fullname: >-
       André Chaíça
     location: "Portugal"
-    followers: 40149
-    engagement: 373
-    commentsToLikes: 0.124581
+    followers: 40025
+    engagement: 427
+    commentsToLikes: 0.107973
     id: ck0vz4vq97bht0i19ygdgfeoq
     verified: false
-    hashtags: "#igworldclub, #homedesign, #designmilk, #fourseasonsnewyork"
-  - username: "martaalvespinklemonade"
+    hashtags: "#holanda, #liveinlevis, #smoothiebowl, #amsterdam"
+  - username: "anneachim"
     fullname: >-
-      Marta Alves 🌙 Pink Lemonade
+      Ana Achim
     location: "Portugal"
-    followers: 30659
-    engagement: 339
-    commentsToLikes: 0.219092
-    id: ck5zlojp8l3qj0i144bqujskv
+    followers: 11481
+    engagement: 940
+    commentsToLikes: 0.013858
+    id: ck5hqkdgyt8vx0i115jx1s3qy
     verified: false
-    hashtags: "#girlpower, #womanpower, #anastasiabeverlyhills, #skincareroutine"
+    hashtags: "#girls, #lisboaportugal, #algarveportugal, #bookstagrammer"
+  - username: "vanlife_productions"
+    fullname: >-
+      Bruno Dias & Mariana Dias
+    location: "Portugal"
+    followers: 6299
+    engagement: 1520
+    commentsToLikes: 0.040686
+    id: ck5zjhv55hme00i14nhw6gp20
+    verified: false
+    hashtags: "#watershots, #morningsession, #quarentine, #stayhealthy"
 ---

@@ -1,16 +1,16 @@
 ---
 title: Top 10 Chefs Instagram Influencers In United States In 2020
 description: >-
-  Find top chefs Instagram influencers in United States in 2020. Most popular hashtags: #chef #love #cheflife #lifestyle.
+  Find top chefs Instagram influencers in United States in 2020. Most popular hashtags: #2020 #trusttheprocess # #howihummus.
 platform: Instagram
 profiles:
   - username: "jskenes"
     fullname: >-
       Joshua Skenes
     location: "United States"
-    followers: 116820
-    engagement: 193
-    commentsToLikes: 0.024165
+    followers: 118519
+    engagement: 191
+    commentsToLikes: 0.024150
     id: ck0vw8wrcsms30i19fp5tkn8a
     verified: true
     hashtags: "#tarpon, #jiayou"
@@ -18,90 +18,90 @@ profiles:
     fullname: >-
       William Bradley
     location: "United States"
-    followers: 6161
-    engagement: 500
-    commentsToLikes: 0.042757
+    followers: 6155
+    engagement: 503
+    commentsToLikes: 0.043943
     id: ck0ttsekh44in0i19kmkcilf5
     verified: false
-    hashtags: "#craftmenship, #fridaynight, #relaischateaux60, #eatlocal"
-  - username: "adamleonti"
-    fullname: >-
-      Adam Leonti
-    location: "United States"
-    followers: 5524
-    engagement: 527
-    commentsToLikes: 0.040141
-    id: ck55ldjl01bi30i11iid0mn31
-    verified: false
-    hashtags: "#unionsquaregreenmarket"
-  - username: "chefreneeerickson"
-    fullname: >-
-      Renee Erickson
-    location: "United States"
-    followers: 16728
-    engagement: 228
-    commentsToLikes: 0.026921
-    id: ck14l2li8sj6x0i196s0597ce
-    verified: false
-    hashtags: "#eatseacreatures, #seattlerestaurantsunited, #strongertogether, #saverestaurants"
+    hashtags: "#hautecouture, #creativity, #holidayseason, #canapes"
   - username: "cheffati"
     fullname: >-
       Fatima Ali
     location: "United States"
-    followers: 162716
-    engagement: 2341
-    commentsToLikes: 0.040380
+    followers: 161426
+    engagement: 2360
+    commentsToLikes: 0.040399
     id: ck5cgzaimptro0i11qpuiyfzb
     verified: true
-    hashtags: "#tonewbeginnings, #herestoanewchapter, #abbashome, #carpets"
-  - username: "good_vibes_janelle_"
-    fullname: >-
-      Janelle🥀
-    location: "United States"
-    followers: 4271
-    engagement: 2233
-    commentsToLikes: 0.105859
-    id: ck5zj9mq2h7300i140vgs8n3n
-    verified: false
-    hashtags: "#blessed, #okurrr, #halloween, #fashionshow"
-  - username: "gemma_stafford"
-    fullname: >-
-      Gemma Stafford
-    location: "United States"
-    followers: 115986
-    engagement: 559
-    commentsToLikes: 0.044133
-    id: ck0w1xhqelmhc0i19k0tesijh
-    verified: true
-    hashtags: "#newmom, #ilovepie, #34weekspregnant, #keepingitreal"
+    hashtags: "#repost, #ewingsarcoma, #cancer, #letsstartatrend"
   - username: "ronniecwoo"
     fullname: >-
       Ronnie Woo
     location: "United States"
-    followers: 63111
-    engagement: 708
-    commentsToLikes: 0.032594
+    followers: 64008
+    engagement: 698
+    commentsToLikes: 0.033510
     id: ck14luv4jwls80i192x0ufnl2
     verified: true
-    hashtags: "#superbowlhalftimeshow, #superbowl, #sabrapartner, #howihummus"
+    hashtags: "#ad, #superbowlhalftimeshow, #superbowl, #sabrapartner"
   - username: "corradommartini"
     fullname: >-
       Corrado Martini
     location: "United States"
-    followers: 155815
-    engagement: 2442
-    commentsToLikes: 0.023605
+    followers: 175643
+    engagement: 2583
+    commentsToLikes: 0.023406
     id: ck15s4kewb6z20i19b3f8ypwn
     verified: false
-    hashtags: "#model, #pov"
-  - username: "sascha.r.smith"
+    hashtags: ""
+  - username: "good_vibes_janelle_"
     fullname: >-
-      Sascha Renée Smith
+      Janelle🥀
     location: "United States"
-    followers: 9240
-    engagement: 1319
-    commentsToLikes: 0.082489
-    id: ck5qayvsxiz1r0i11whmpbb8s
+    followers: 4211
+    engagement: 2269
+    commentsToLikes: 0.108965
+    id: ck5zj9mq2h7300i140vgs8n3n
     verified: false
-    hashtags: "#mylook, #instamood, #ilovefood, #holidaycheer"
+    hashtags: "#ilikeitlikethat, #nyfw, #cherisheverymoment, #merica"
+  - username: "gemma_stafford"
+    fullname: >-
+      Gemma Stafford
+    location: "United States"
+    followers: 121567
+    engagement: 536
+    commentsToLikes: 0.036183
+    id: ck0w1xhqelmhc0i19k0tesijh
+    verified: true
+    hashtags: "#firsttimedad, #saintpatricksday, #babyshark, #newbaby"
+  - username: "yogafordharma"
+    fullname: >-
+      KORYNE K➳DHARMA ➳YOGA
+    location: "United States"
+    followers: 51507
+    engagement: 794
+    commentsToLikes: 0.023165
+    id: ck5pzse992in50i111sb7yce5
+    verified: false
+    hashtags: "#bepresent, #grit, #yogaiseverywhere, #sattviclife"
+  - username: "matthewblaylock88"
+    fullname: >-
+      
+    location: "United States"
+    followers: 6022
+    engagement: 1219
+    commentsToLikes: 0.072420
+    id: ck0w4g7lbyex90i19x210rtg4
+    verified: false
+    hashtags: ""
+  - username: "themelissamayo"
+    fullname: >-
+      MELISSA MAYO🍴🥂✈️ Food + Travel
+    location: "United States"
+    followers: 27592
+    engagement: 298
+    commentsToLikes: 0.130671
+    id: ckap2x86f0pdm0i78gn8lafjh
+    verified: false
+    hashtags: "#free, #jewishfoods, #matzahchallenge, #giveaway"
 ---

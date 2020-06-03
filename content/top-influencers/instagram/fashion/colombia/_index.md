@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Colombia In 2020
 description: >-
-  Find top fashion Instagram influencers in Colombia in 2020. Most popular hashtags: #portrait #colombia #makeup #style.
+  Find top fashion Instagram influencers in Colombia in 2020. Most popular hashtags: #theportraitpr0ject #happy #bravogreatphoto #girls.
 platform: Instagram
 profiles:
   - username: "folliedolliebeaute"
     fullname: >-
-      #FollieDollieTips 🌿
+      #FollieDollieTips 🌿 كارلا
     location: "Colombia"
-    followers: 53284
-    engagement: 895
-    commentsToLikes: 0.122599
+    followers: 62727
+    engagement: 1175
+    commentsToLikes: 0.204695
     id: ck15qy8xd58i10i199uk0b5pn
     verified: false
-    hashtags: "#folliedollietips, #sundaywisdom, #nofilter, #panama"
+    hashtags: "#wedontknowher, #abhxamrezy, #follielivexmacpanama, #makeup"
   - username: "davidvisuals_ph"
     fullname: >-
       David Pinilla
     location: "Colombia"
-    followers: 33709
-    engagement: 979
-    commentsToLikes: 0.037038
+    followers: 37964
+    engagement: 847
+    commentsToLikes: 0.111113
     id: ck5hmy57bmuih0i11uont2ws2
     verified: false
-    hashtags: "#igpodium, #sonyimages, #earth, #collectivetrend"
+    hashtags: "#sonyimages, #igpodium, #ftwotw, #ftmedd"
+  - username: "jessica.zabala"
+    fullname: >-
+      Jessica Zabala
+    location: "Colombia"
+    followers: 59094
+    engagement: 1461
+    commentsToLikes: 0.029326
+    id: ck9wghcvxtf430j788scdohfk
+    verified: false
+    hashtags: ""
   - username: "juliaticaofficialone"
     fullname: >-
-      Julia Tica
+      J U L I A 🦋
     location: "Colombia"
-    followers: 43400
-    engagement: 1313
-    commentsToLikes: 0.031857
+    followers: 136561
+    engagement: 919
+    commentsToLikes: 0.023146
     id: ck8t73npgfjes0j78hqja6a35
     verified: false
-    hashtags: "#nobra, #comfy, #amazing, #fluffy"
+    hashtags: "#breeze, #comfortable, #love, #2020"
+  - username: "franciny_bautista"
+    fullname: >-
+      ╰☆☆ FRANCINY ☆☆╮
+    location: "Colombia"
+    followers: 185055
+    engagement: 374
+    commentsToLikes: 0.046334
+    id: ckap1chnntzuz0i7855vdbflp
+    verified: false
+    hashtags: "#latina, #girls, #happy, #models"
+  - username: "thebigbrowneyes"
+    fullname: >-
+      Ana Lucia Gutierrez
+    location: "Colombia"
+    followers: 46604
+    engagement: 381
+    commentsToLikes: 0.055322
+    id: ck0uaqsdncyac0i19ic7mpq4m
+    verified: false
+    hashtags: "#madeinbolivia, #thebigbrowneyes, #pink, #nycstrong"
   - username: "branorozcom"
     fullname: >-
       Bran Orozco Muñoz
     location: "Colombia"
-    followers: 17188
-    engagement: 527
-    commentsToLikes: 0.110827
+    followers: 16967
+    engagement: 538
+    commentsToLikes: 0.109629
     id: ck15ux3olox5w0i19y3al30ix
     verified: false
-    hashtags: "#travelcolombia, #hotelhilton, #barranquilla, #style"
+    hashtags: "#laguajira, #blogger, #turismo, #formen"
   - username: "_omnia.x"
     fullname: >-
       O M N I A
     location: "Colombia"
-    followers: 26757
-    engagement: 1432
-    commentsToLikes: 0.027958
+    followers: 27039
+    engagement: 1433
+    commentsToLikes: 0.027580
     id: ck55kllvdzlpk0i1159j074ii
     verified: false
-    hashtags: "#sonyalphaportrait, #majestic, #collateral, #sonyalphaclub"
-  - username: "marceloperamontoya"
+    hashtags: "#bodylanguage, #collateral, #thefashionpr0ject, #sonyalpha"
+  - username: "callmecall"
     fullname: >-
-      MARCELA LOPERA
+      Carmen Arbizu
     location: "Colombia"
-    followers: 18942
-    engagement: 386
-    commentsToLikes: 0.084637
-    id: ck6u1n4k2mqcm0j71zuv5tsou
+    followers: 19038
+    engagement: 400
+    commentsToLikes: 0.222123
+    id: ck0udvceejvx00i19n538sx7s
     verified: false
-    hashtags: "#loreta, #2020, #loretaonboard, #26weeks"
+    hashtags: "#quarantena, #malgrate, #coronavirusespa, #primark"
   - username: "caroamayac"
     fullname: >-
       C A R O L I N A  A M A Y A
     location: "Colombia"
-    followers: 52479
-    engagement: 222
-    commentsToLikes: 0.067054
+    followers: 53119
+    engagement: 270
+    commentsToLikes: 0.064282
     id: ck14hx0ntck8t0i191jawclxe
     verified: false
-    hashtags: "#womencyclistpower, #soymujerciclista, #diasdetaller, #indoorbike"
-  - username: "manumontoz"
-    fullname: >-
-      MANU MONTOYA🦋
-    location: "Colombia"
-    followers: 436880
-    engagement: 185
-    commentsToLikes: 0.029507
-    id: ck5zutgbp30cx0i14hmrkznmq
-    verified: false
-    hashtags: "#abh, #instagirls, #makeupmoodboards, #lipicing"
-  - username: "nannamartinezp"
-    fullname: >-
-      Nanna Martínez
-    location: "Colombia"
-    followers: 34259
-    engagement: 184
-    commentsToLikes: 0.063986
-    id: ck602cvayh5bm0i14s0r0qinq
-    verified: false
-    hashtags: "#goingnowherebutfuckitimgettingdressed, #stayhome, #carnavaldebarranquilla, #yomequedoencasa"
-  - username: "felipemartinezfotografia"
-    fullname: >-
-      Felipe Martínez
-    location: "Colombia"
-    followers: 10471
-    engagement: 525
-    commentsToLikes: 0.159330
-    id: ck6tuwaf1is8p0j71j0hxf65u
-    verified: false
-    hashtags: "#makeupideas, #photooftheday, #headshot, #felipemartinezfotografia"
+    hashtags: "#40tena, #quedateencasa, #relaxday, #bike"
 ---

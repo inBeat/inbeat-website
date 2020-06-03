@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Russia In 2020
 description: >-
-  Find top models Instagram influencers in Russia in 2020. Most popular hashtags: #makeup #photomodel #modelwork #phuket.
+  Find top models Instagram influencers in Russia in 2020. Most popular hashtags: #dance #leather #highboots #latex.
 platform: Instagram
 profiles:
   - username: "dianashemetova2"
     fullname: >-
       Diana
     location: "Russia"
-    followers: 29276
-    engagement: 119
-    commentsToLikes: 0.020940
+    followers: 29665
+    engagement: 134
+    commentsToLikes: 0.028398
     id: ck5hlxxukl24e0i11lrqxj30g
     verified: false
-    hashtags: "#blueeyes, #photoshoot, #russiangirl, #midelwork"
-  - username: "regiichi"
+    hashtags: "#leather, #instadaily, #lockdown2020, #life"
+  - username: "sofia__summer"
     fullname: >-
-      🐍  Regich / カオナシ
+      Sofia
     location: "Russia"
-    followers: 15900
-    engagement: 1064
-    commentsToLikes: 0.073191
-    id: ck8t8t1ldlp7i0j787uzznndd
+    followers: 6218
+    engagement: 5498
+    commentsToLikes: 0.405329
+    id: ck136slum82ac0i193903lniy
     verified: false
-    hashtags: "#ulzzangs, #koreanmakeup, #attackontitancosplay, #tomboystyle"
+    hashtags: ""
   - username: "whydayana"
     fullname: >-
       Дая🔐
     location: "Russia"
-    followers: 17395
-    engagement: 1796
-    commentsToLikes: 0.082166
+    followers: 19280
+    engagement: 1790
+    commentsToLikes: 0.244321
     id: ck5pvl1uaiegv0i116tw4n91r
     verified: false
-    hashtags: "#russia, #woman, #girl, #fitnes"
-  - username: "sofia__summer"
+    hashtags: "#fitness, #girl, #fitnes, #model"
+  - username: "liza_guryanova"
     fullname: >-
-      Model Moscow♥️
+      Eliza🌟Guryanova
     location: "Russia"
-    followers: 6289
-    engagement: 5659
-    commentsToLikes: 0.442819
-    id: ck136slum82ac0i193903lniy
+    followers: 30579
+    engagement: 1087
+    commentsToLikes: 0.089518
+    id: ckap60lt8dyb10i78o61r56ei
     verified: false
-    hashtags: ""
+    hashtags: "#dancephoto, #selfie, #coronatime, #sea"
   - username: "galinapolozhiy"
     fullname: >-
-      Galina Polozhiy
+      Galina Polozhiy / МОДЕЛЬ СПБ
     location: "Russia"
-    followers: 4955
-    engagement: 1610
-    commentsToLikes: 0.212325
+    followers: 5159
+    engagement: 1648
+    commentsToLikes: 0.196332
     id: ck5hqt7wytoqf0i11rni3x6g5
     verified: false
-    hashtags: "#styleover60, #50newstart, #fabover50, #spbgram"
-  - username: "olga_lovely_baby"
+    hashtags: "#hairstyle, #oldmodel, #kukshelen, #over60"
+  - username: "regiichi"
     fullname: >-
-      Ольга Боровикова
+      🐍  Regich / カオナシ
     location: "Russia"
-    followers: 7608
-    engagement: 2740
-    commentsToLikes: 0.060166
-    id: ck15r0na45jtz0i19bn49olxs
+    followers: 16573
+    engagement: 1129
+    commentsToLikes: 0.064802
+    id: ck8t8t1ldlp7i0j787uzznndd
     verified: false
-    hashtags: "#minimodel, #topmodels, #kidsmodel, #fashionista"
-  - username: "sofia_chemeris"
+    hashtags: "#manhua, #russian, #toguchi2020, #narutocosplayer"
+  - username: "tamara_terziyan"
     fullname: >-
-      ⚜️SOFIA CHEMERIS⚜️
+      Tamara Terziyan 💖
     location: "Russia"
-    followers: 8161
-    engagement: 1130
-    commentsToLikes: 0.218793
-    id: ck5zs2gi3xp3w0i14sj743f7v
+    followers: 36739
+    engagement: 771
+    commentsToLikes: 0.050097
+    id: ckapaielsw8l50i78tvi0q4h8
     verified: false
-    hashtags: "#backstage, #mytoy"
-  - username: "nasta_lee"
+    hashtags: "#highheels, #platformboots, #bootsseason, #covid"
+  - username: "alice.gribova"
     fullname: >-
-      НАСТЯ ЛИ
+      Alisa Gribova
     location: "Russia"
-    followers: 6166
-    engagement: 1911
-    commentsToLikes: 0.064725
-    id: ck8tabil6r3y30j78wdr2zgx1
+    followers: 2723
+    engagement: 2462
+    commentsToLikes: 0.253347
+    id: ckap1jwnfuug80i78qa41om79
     verified: false
-    hashtags: "#kvnofficial, #kvn, #fliptheswitch, #fliptheswitchchallenge"
-  - username: "anastasiyagoulimova_official"
-    fullname: >-
-      Анастасия Гулимова
-    location: "Russia"
-    followers: 28971
-    engagement: 1079
-    commentsToLikes: 0.047164
-    id: ck8t6mcdje43t0j78vc7zuk5r
-    verified: false
-    hashtags: "#backstage"
+    hashtags: "#painting, #activelife, #kidmodel, #kidsmodels"
   - username: "zlatapodgorskaya_official"
     fullname: >-
       Злата Подгорская
     location: "Russia"
-    followers: 4388
-    engagement: 1950
-    commentsToLikes: 0.171782
+    followers: 4952
+    engagement: 1981
+    commentsToLikes: 0.183526
     id: ck8t1jixmw0js0j78v6c1feys
     verified: false
-    hashtags: "#trendykids, #internationalchildrenmodels, #beautyfulmodel, #nicekids"
+    hashtags: "#fashionblogger, #fashionvideo, #videografer, #childportraits"
+  - username: "olga_lovely_baby"
+    fullname: >-
+      Ольга Боровикова
+    location: "Russia"
+    followers: 7396
+    engagement: 2631
+    commentsToLikes: 0.062736
+    id: ck15r0na45jtz0i19bn49olxs
+    verified: false
+    hashtags: "#nsidorovapiccolo"
 ---

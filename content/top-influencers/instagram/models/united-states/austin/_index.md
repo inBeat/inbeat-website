@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Austin In 2020
 description: >-
-  Find top models Instagram influencers in Austin in 2020. Most popular hashtags: #austin #model #photography #fineartphotography.
+  Find top models Instagram influencers in Austin in 2020. Most popular hashtags: #model #queens #sunset #sanantonio.
 platform: Instagram
 profiles:
-  - username: "nickwspalding"
+  - username: "lafamosaserena"
     fullname: >-
-      Nick Spalding
+      𝔖𝔢𝔯𝔢𝔫𝔞 𝔍𝔦𝔪𝔢𝔫𝔢𝔷 🦂
     location: "United States"
-    followers: 14670
-    engagement: 701
-    commentsToLikes: 0.015418
-    id: ck15r7wt86l8t0i1922mdwsbw
+    followers: 13217
+    engagement: 5145
+    commentsToLikes: 0.017605
+    id: ckaov6mvs3aac0i78g5571t9a
     verified: false
-    hashtags: "#designer, #picoftheday, #satx, #atx"
+    hashtags: "#midlandtx, #huapangos2019, #buckle, #taquache"
+  - username: "britt_fishing"
+    fullname: >-
+      𝓑𝓻𝓲𝓽𝓽𝓪𝓷𝔂 𝓞𝓼𝓴𝓮𝔂
+    location: "United States"
+    followers: 96468
+    engagement: 578
+    commentsToLikes: 0.055458
+    id: ck5c9l820bmvl0i11rv8y0fhk
+    verified: false
+    hashtags: "#giveaways, #mondayblues, #toughertogether, #girlsjustwannahavefun"
+  - username: "savmckinley"
+    fullname: >-
+      Savannah
+    location: "United States"
+    followers: 85252
+    engagement: 643
+    commentsToLikes: 0.023288
+    id: ck5bz2kotqbpa0i116kflz2o8
+    verified: false
+    hashtags: "#insideout, #linkinbio, #bachelormonday, #quarantineedition"
   - username: "sophia_augustine_"
     fullname: >-
       Sophia Augustine
     location: "United States"
-    followers: 18561
-    engagement: 1416
-    commentsToLikes: 0.057619
+    followers: 24066
+    engagement: 1539
+    commentsToLikes: 0.048922
     id: ck5hrr4mfvc150i11qt0g0g54
     verified: false
-    hashtags: "#blueface, #brightbluewenesday, #sunnysunday, #valentines"
-  - username: "courtney_leigh_photo"
-    fullname: >-
-      Fine Art Wedding Photographer
-    location: "United States"
-    followers: 5806
-    engagement: 466
-    commentsToLikes: 0.073921
-    id: ck6tr7ck6xctm0j71ngp1niga
-    verified: false
-    hashtags: "#fineartphotographer, #travel, #style, #twinmom"
-  - username: "jaxkieezz"
-    fullname: >-
-      Jaxkieezz🖤
-    location: "United States"
-    followers: 23745
-    engagement: 1199
-    commentsToLikes: 0.021024
-    id: ck6u4gvil3nal0j71co7p7de2
-    verified: false
-    hashtags: "#cars, #bad, #badass, #ignoremytan"
-  - username: "buttersugarflour"
-    fullname: >-
-      Jenna Jenkins
-    location: "United States"
-    followers: 6214
-    engagement: 636
-    commentsToLikes: 0.065614
-    id: ck5c3n621znxr0i11nfm16z2m
-    verified: false
-    hashtags: "#moderncakes, #cherryblossom, #transformationtuesday, #sugarhydrangea"
-  - username: "sara_wilson1"
-    fullname: >-
-      Sara Wilson | Film TV Model
-    location: "United States"
-    followers: 114291
-    engagement: 519
-    commentsToLikes: 0.037335
-    id: ck5zornu9r6rr0i14rmq49w55
-    verified: false
-    hashtags: "#thankful, #passion, #naturalaquagelcure, #tipsfortoday"
-  - username: "lilfaun"
-    fullname: >-
-      Lilfaun
-    location: "United States"
-    followers: 20414
-    engagement: 270
-    commentsToLikes: 0.028476
-    id: ck15pbx10x40a0i19sea2go5h
-    verified: false
-    hashtags: "#bnhacosplay, #bnha, #vampirecosplay, #forestphotography"
-  - username: "beck.preciado"
-    fullname: >-
-      •𝘽𝙀𝘾𝙆•
-    location: "United States"
-    followers: 10790
-    engagement: 780
-    commentsToLikes: 0.013759
-    id: ck14grhga6nnm0i19566fb28d
-    verified: false
-    hashtags: ""
-  - username: "theloniouslove"
-    fullname: >-
-      Theo Love
-    location: "United States"
-    followers: 6123
-    engagement: 783
-    commentsToLikes: 0.011821
-    id: ck6u430yc1e9p0j71z7v035gp
-    verified: false
-    hashtags: "#photography, #jurnt, #liveband, #rockstar"
+    hashtags: "#love, #itsmarch, #redflowers, #makeup"
   - username: "karimechequer"
     fullname: >-
       Karime Chequer
     location: "United States"
-    followers: 19114
-    engagement: 335
-    commentsToLikes: 0.051499
+    followers: 19095
+    engagement: 341
+    commentsToLikes: 0.050296
     id: ck6udmxw9m0gv0j716730eqns
     verified: false
-    hashtags: "#coat, #guanajuatohotel, #newyork, #kayak"
+    hashtags: "#blogger, #travellifestyle, #guanajuatohotel, #basta"
+  - username: "noelashman"
+    fullname: >-
+      noel ashman
+    location: "United States"
+    followers: 203416
+    engagement: 186
+    commentsToLikes: 0.018277
+    id: ck5pwr0dyo5yt0i11y8f1npkf
+    verified: true
+    hashtags: "#grandmastermellemel, #comedy, #rapper, #filmproducer"
+  - username: "keith_laue"
+    fullname: >-
+      Keith Laue
+    location: "United States"
+    followers: 85199
+    engagement: 763
+    commentsToLikes: 0.012588
+    id: ckaozkm3pmag70i78acp1swsp
+    verified: false
+    hashtags: "#abworkout, #superman, #boots, #modelscouts"
+  - username: "sara_wilson1"
+    fullname: >-
+      Sara Wilson | Film TV Model
+    location: "United States"
+    followers: 114707
+    engagement: 520
+    commentsToLikes: 0.037465
+    id: ck5zornu9r6rr0i14rmq49w55
+    verified: false
+    hashtags: "#cota, #theeverygirl, #coronavirus, #catchmeinside"
+  - username: "lilfaun"
+    fullname: >-
+      Lilfaun
+    location: "United States"
+    followers: 20201
+    engagement: 269
+    commentsToLikes: 0.028238
+    id: ck15pbx10x40a0i19sea2go5h
+    verified: false
+    hashtags: "#tiktoks, #covenday, #witchcostume, #vampirediaries"
+  - username: "beck.preciado"
+    fullname: >-
+      •𝘽𝙀𝘾𝙆•
+    location: "United States"
+    followers: 10556
+    engagement: 839
+    commentsToLikes: 0.015065
+    id: ck14grhga6nnm0i19566fb28d
+    verified: false
+    hashtags: ""
 ---

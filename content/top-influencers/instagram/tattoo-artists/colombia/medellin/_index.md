@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Medellín In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Medellín in 2020. Most popular hashtags: #tattoo #tattooart #colombia #ink.
+  Find top tattoo-artists Instagram influencers in Medellín in 2020. Most popular hashtags: #medellin #tattooartist #tatuajes #realism.
 platform: Instagram
 profiles:
   - username: "hernanyepes_art"
     fullname: >-
       ⭕Hernan Yepes
     location: "Colombia"
-    followers: 73968
-    engagement: 215
-    commentsToLikes: 0.029880
+    followers: 77952
+    engagement: 229
+    commentsToLikes: 0.029188
     id: ck5ho6cflp0o90i11ihe5z39i
     verified: false
-    hashtags: "#tattoocollecte, #realistictattoo, #dobleexposicion, #milanotattooconvention"
+    hashtags: "#blackandgreyink, #cheyennesolnova, #realisticart, #naturetattoo"
   - username: "juanpajo"
     fullname: >-
       pajo
     location: "Colombia"
-    followers: 95553
-    engagement: 52
-    commentsToLikes: 0.025610
+    followers: 95742
+    engagement: 27
+    commentsToLikes: 0.013757
     id: ck8szknvlotcq0j78wgn2bq4a
     verified: false
-    hashtags: ""
-  - username: "carlos_piedrahita_art"
+    hashtags: "#unmundoinciertown"
+  - username: "bryan_sanchezm"
     fullname: >-
-      ℭ𝔞𝔯𝔩𝔬𝔰 𝔓𝔦𝔢𝔡𝔯𝔞𝔥𝔦𝔱𝔞
+      Bryan Sánchez M.
     location: "Colombia"
-    followers: 55868
-    engagement: 325
-    commentsToLikes: 0.032681
-    id: ck6tk4nnz3zy70j715yqnrvgd
+    followers: 41994
+    engagement: 48
+    commentsToLikes: 0.057300
+    id: ck5q2x8a3i80m0i11wqxq2j37
     verified: false
-    hashtags: "#painted, #eagletattoo, #tattooink, #tatted"
-  - username: "cesarcardenas93"
-    fullname: >-
-      Cesar Cardenas
-    location: "Colombia"
-    followers: 36549
-    engagement: 137
-    commentsToLikes: 0.019653
-    id: ck5q2xarqi8ej0i11mt65w05w
-    verified: false
-    hashtags: "#tattoos, #medellincity, #2020, #feliza"
-  - username: "danielgram99"
-    fullname: >-
-      Daniel Dominguez
-    location: "Colombia"
-    followers: 15119
-    engagement: 250
-    commentsToLikes: 0.202824
-    id: ck5qc4dy1osu20i113m9iwhhl
-    verified: false
-    hashtags: "#influenciadores, #edicion, #gafas, #frio"
+    hashtags: "#medellinphotographer, #workfromhome, #mountains, #colombiavideo"
   - username: "sebastiancarvajal.art"
     fullname: >-
       Latinta Tattoo
     location: "Colombia"
-    followers: 54252
-    engagement: 330
-    commentsToLikes: 0.056411
+    followers: 54586
+    engagement: 332
+    commentsToLikes: 0.059891
     id: ck13abzr9pnhn0i19qao2yhes
     verified: false
-    hashtags: "#inki, #teamlatinta, #mermaids, #tattooed"
-  - username: "pabon.art"
+    hashtags: "#halloween, #fotografia, #amazon, #ship"
+  - username: "sebastiangomeztattoo"
     fullname: >-
-      Jhonatan Pabon
+      Sebastian gomez zuluaga
     location: "Colombia"
-    followers: 30100
-    engagement: 147
-    commentsToLikes: 0.050831
-    id: ck55osusa927v0i11ix4c50ni
+    followers: 42837
+    engagement: 224
+    commentsToLikes: 0.049092
+    id: ck15shueud2vg0i19ewqv6jcp
     verified: false
-    hashtags: "#portrait, #bodyart, #father, #lion"
-  - username: "ginofragz"
+    hashtags: "#budismo, #tattoostyle, #tattooink, #tattooing"
+  - username: "hanspicotattoo"
     fullname: >-
-      Gino c Giménez
+      Hans Felipe Pico Pulido
     location: "Colombia"
-    followers: 18852
-    engagement: 242
-    commentsToLikes: 0.031759
-    id: ck55m0hkt2w8k0i11wm4w32dj
+    followers: 42716
+    engagement: 125
+    commentsToLikes: 0.065806
+    id: ck5bur6dfiamj0i11hynhdzg9
     verified: false
-    hashtags: "#elpobladomedellin, #fanartattoo, #tattoo, #medellincolombia"
-  - username: "alain_rocben"
+    hashtags: "#halo, #supermantattoo, #tatuaje, #halotattoo"
+  - username: "dtayehtattoo"
     fullname: >-
-      Alain
+      Abraham D. Tayeh
     location: "Colombia"
-    followers: 385761
-    engagement: 87
-    commentsToLikes: 0.035179
-    id: ck6tnj8729ydm0j71w3t8yu0a
-    verified: true
-    hashtags: "#lookslikefilm, #grafiti, #sportmotivation, #tattoomodel"
-  - username: "anidesaubes"
-    fullname: >-
-      Ani des Aubes
-    location: "Colombia"
-    followers: 20430
-    engagement: 305
-    commentsToLikes: 0.013236
-    id: ck5qebg5mznfy0i112hiz1s5k
+    followers: 39763
+    engagement: 130
+    commentsToLikes: 0.013890
+    id: ck5zmpinamzl40i14356eiaq6
     verified: false
-    hashtags: "#feminity, #hearttattoo, #colortattoo, #bogotatattoo"
+    hashtags: "#whaletail, #medellintattoo, #tattoostyle, #smalltattoos"
+  - username: "axloz"
+    fullname: >-
+      Andres López
+    location: "Colombia"
+    followers: 296711
+    engagement: 435
+    commentsToLikes: 0.013611
+    id: ck5c5l7dv3on90i116368wzs8
+    verified: false
+    hashtags: "#quarantine, #covid, #guyswithtattoos, #ejercicio"
+  - username: "jenny.pedraza21"
+    fullname: >-
+      Jenny Pedraza M.
+    location: "Colombia"
+    followers: 19347
+    engagement: 628
+    commentsToLikes: 0.018048
+    id: ck5zkpae0jwik0i143p3rh8vu
+    verified: false
+    hashtags: "#happyness, #freewoman, #reflexion, #artist"
+  - username: "sophie_suicide"
+    fullname: >-
+      Sophie Suicide 💋
+    location: "Colombia"
+    followers: 53582
+    engagement: 225
+    commentsToLikes: 0.094616
+    id: ck5hgf21t2fj70i116egb4wh2
+    verified: false
+    hashtags: "#paintingaselfportraitchallenge"
 ---

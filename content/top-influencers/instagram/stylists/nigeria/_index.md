@@ -1,107 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top stylists Instagram influencers in Nigeria in 2020. Most popular hashtags: #dontrushchallenge #quarantineedition #nairobian #madeinkenya.
+  Find top stylists Instagram influencers in Nigeria in 2020. Most popular hashtags: #streetstyle #justforfun #lagosnigeria #style.
 platform: Instagram
 profiles:
   - username: "glamprince"
     fullname: >-
       snap/skype/twitter @glamprince
     location: "Nigeria"
-    followers: 2114
-    engagement: 1450
-    commentsToLikes: 0.184028
+    followers: 2041
+    engagement: 1503
+    commentsToLikes: 0.183793
     id: ck6tvg0z5m10k0j719qlnie68
     verified: false
-    hashtags: "#skylounge, #abujafct, #ciroc, #bankheadentertainment"
-  - username: "thestyle_architect"
-    fullname: >-
-      Maurice Sokari Jnr
-    location: "Nigeria"
-    followers: 17161
-    engagement: 214
-    commentsToLikes: 0.063592
-    id: ck6tvgssom5b50j71cg3rouao
-    verified: false
-    hashtags: "#workmode, #gtbankfashionweekend2019, #gtbfashionweekend, #gtbfashionweekend2019"
+    hashtags: "#bankheadentertainment, #grillatthepent, #skylounge, #abujafct"
   - username: "nosco_pearl"
     fullname: >-
       
     location: "Nigeria"
-    followers: 31663
-    engagement: 298
-    commentsToLikes: 0.036716
+    followers: 31436
+    engagement: 237
+    commentsToLikes: 0.041536
     id: ck5bxf5conlt20i1118pqzovl
     verified: false
-    hashtags: "#wcw, #happysunday, #adult, #bopdaddychallenge"
-  - username: "uduak_"
+    hashtags: "#bopdaddychallenge, #justforfun"
+  - username: "style_territory"
     fullname: >-
-      Temitope Uduak Betiku
+      Teni Oluwo
     location: "Nigeria"
-    followers: 6160
-    engagement: 576
-    commentsToLikes: 0.128879
-    id: ck13avsmpsfql0i19nj6y6ebl
+    followers: 23013
+    engagement: 298
+    commentsToLikes: 0.117151
+    id: ck0w27qayn08i0i19b73qrxbw
     verified: false
-    hashtags: "#archive2019, #thefelixcrowneffect, #justforfun, #amvca2020"
+    hashtags: "#selfdiscovery, #ankarainlagos, #creativestyling, #keepingitreal"
   - username: "wayeofficial"
     fullname: >-
       WAYE
     location: "Nigeria"
-    followers: 41727
-    engagement: 139
-    commentsToLikes: 0.092790
+    followers: 42703
+    engagement: 212
+    commentsToLikes: 0.109196
     id: ck8t0mp07sl2o0j78v92l95h5
     verified: true
-    hashtags: "#tiktok, #tiktokchallenge, #stylewaye, #dontrushchallenge"
-  - username: "therealzamaniprynx"
-    fullname: >-
-      The real Zamani Prynx
-    location: "Nigeria"
-    followers: 26530
-    engagement: 382
-    commentsToLikes: 0.083568
-    id: ck0u69xnx1fgt0i194vgw40mu
-    verified: false
-    hashtags: "#nigeria, #zalandostyle, #iamnairobian, #10over10"
+    hashtags: "#waye, #stylewaye"
   - username: "___joanah"
     fullname: >-
       Ifëōłûwå Pätñátšõń Öwôłäbï
     location: "Nigeria"
-    followers: 2772
-    engagement: 1040
-    commentsToLikes: 0.074663
+    followers: 2893
+    engagement: 1250
+    commentsToLikes: 0.088281
     id: ck6u2655zpxzj0j711a8doaho
     verified: false
-    hashtags: "#bts, #quarantineedition, #art, #quarantineedition"
-  - username: "val.hilda"
+    hashtags: "#styleoftheday, #worldjoanahday, #classyfit, #staysafe"
+  - username: "thestyle_architect"
     fullname: >-
-      Val’hilda Agbaka🦩
+      Maurice Sokari Jnr Nengia
     location: "Nigeria"
-    followers: 10152
-    engagement: 794
-    commentsToLikes: 0.066777
-    id: ck5byqwvopnz10i11cyrhec8y
+    followers: 16903
+    engagement: 219
+    commentsToLikes: 0.059320
+    id: ck6tvgssom5b50j71cg3rouao
     verified: false
-    hashtags: "#goodhair, #30thjanuary, #pictureoftheday, #sel"
+    hashtags: "#gtbankfashionweekend2019, #gtbfashionweekend, #gtbfashionweekend2019, #workmode"
+  - username: "therealzamaniprynx"
+    fullname: >-
+      The real Zamani Prynx
+    location: "Nigeria"
+    followers: 26497
+    engagement: 389
+    commentsToLikes: 0.081324
+    id: ck0u69xnx1fgt0i194vgw40mu
+    verified: false
+    hashtags: "#mensblogger, #soweto, #classydapper, #mzansibooty"
+  - username: "wear.it.like.ozic"
+    fullname: >-
+      Chief Ozic
+    location: "Nigeria"
+    followers: 6887
+    engagement: 854
+    commentsToLikes: 0.093215
+    id: ck5hm58xuldu50i11adqm6w98
+    verified: false
+    hashtags: "#mensgrooming, #mystory, #temphashomefit, #stylevitae"
+  - username: "chef_muse"
+    fullname: >-
+      Chef Muse
+    location: "Nigeria"
+    followers: 11382
+    engagement: 674
+    commentsToLikes: 0.068175
+    id: ckap6y1d3huaa0i78ytftxqy9
+    verified: false
+    hashtags: "#thefeedfeed, #issamusething, #netflixfood, #kidsofinstagram"
   - username: "who_is_chynabee"
     fullname: >-
       Chyna Bee
     location: "Nigeria"
-    followers: 43565
-    engagement: 293
-    commentsToLikes: 0.032588
+    followers: 43231
+    engagement: 305
+    commentsToLikes: 0.035962
     id: ck5byodzspj5o0i11qonp7wj6
     verified: false
-    hashtags: "#peace, #love, #birthdayallmonth, #selfish"
-  - username: "kie_kie__"
-    fullname: >-
-      Bukunmi Adeaga-Ilori
-    location: "Nigeria"
-    followers: 156038
-    engagement: 565
-    commentsToLikes: 0.060458
-    id: ck0w4y4pp0zdn0i19raq3qj3t
-    verified: false
-    hashtags: "#kiekietvproduction, #tfss, #workoutwithhim, #worship"
+    hashtags: "#grownnfuknsexy, #blessedtobeawoman, #timeflies, #dontrushremix"
 ---

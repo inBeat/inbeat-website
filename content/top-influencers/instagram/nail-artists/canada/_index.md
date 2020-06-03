@@ -1,16 +1,16 @@
 ---
 title: Top 10 Nail Artists Instagram Influencers In Canada In 2020
 description: >-
-  Find top nail artists Instagram influencers in Canada in 2020. Most popular hashtags: #nails #nailart #notd #nailsofinstagram.
+  Find top nail artists Instagram influencers in Canada in 2020. Most popular hashtags: #nails #fashion #nailart #apresnails.
 platform: Instagram
 profiles:
   - username: "kingstonnails"
     fullname: >-
       Kingston-CEO Of Stiletto Nails
     location: "Canada"
-    followers: 144013
-    engagement: 184
-    commentsToLikes: 0.009541
+    followers: 142719
+    engagement: 186
+    commentsToLikes: 0.009615
     id: ck0tzeqzvq3by0i19n6fmibb4
     verified: false
     hashtags: ""
@@ -18,90 +18,90 @@ profiles:
     fullname: >-
       "plain nails make me sad 💔"
     location: "Canada"
-    followers: 18294
-    engagement: 196
-    commentsToLikes: 0.016711
+    followers: 18533
+    engagement: 180
+    commentsToLikes: 0.026636
     id: ck6ucxh25hz2d0j71ms3z4nac
     verified: false
-    hashtags: "#designernails, #contemporaryart, #fiinaslshop, #luxurylifestyle"
+    hashtags: "#bluenails, #peaches, #disneylife, #summernails"
   - username: "nyanails"
     fullname: >-
       Becca
     location: "Canada"
-    followers: 27053
-    engagement: 357
-    commentsToLikes: 0.016615
+    followers: 26778
+    engagement: 302
+    commentsToLikes: 0.017119
     id: ck5hsqap8x0hr0i11bnjxo69h
     verified: false
-    hashtags: "#unvillage, #wearethefuture, #cutepolish, #stpatricksday"
-  - username: "grapefizznails"
-    fullname: >-
-      Anne
-    location: "Canada"
-    followers: 15262
-    engagement: 276
-    commentsToLikes: 0.031105
-    id: ck5zzfex0bmxb0i14hfbc1z0k
-    verified: false
-    hashtags: "#nailitdaily, #naillove, #naturalnails, #sallyhansencanada"
-  - username: "natashaharton"
-    fullname: >-
-      Natasha Harton Nails
-    location: "Canada"
-    followers: 51498
-    engagement: 222
-    commentsToLikes: 0.035604
-    id: ck0tybkaumaxh0i192yfozbf7
-    verified: false
-    hashtags: "#nailsofinstagram, #instanails, #starnails, #pressonnails"
-  - username: "yourlittleveganpal"
-    fullname: >-
-      Your Little Vegan Pal
-    location: "Canada"
-    followers: 3314
-    engagement: 1090
-    commentsToLikes: 0.915435
-    id: ck6ua7vt120pg0j71v3ddwd5g
-    verified: false
-    hashtags: "#fitness, #veganfortheanimals, #vitaminsea, #tropicalvibes"
+    hashtags: "#nyacharactercuticles, #stpatricksday, #floral, #selfportrait"
   - username: "candynailbar"
     fullname: >-
       Bar à Ongles CANDY Nail Bar
     location: "Canada"
-    followers: 15554
-    engagement: 46
-    commentsToLikes: 0.059352
+    followers: 15572
+    engagement: 52
+    commentsToLikes: 0.060686
     id: ck6uc5zp2dq1r0j712jwbateq
     verified: false
-    hashtags: "#vinylux, #cnd, #nailartaddict, #everydayiswomensday"
-  - username: "nailcareereducation"
+    hashtags: "#missmyclients, #nailvideos, #powerpuffgirlnails, #gelpainting"
+  - username: "nailsbyjoj0"
     fullname: >-
-      Suzie
+      TORONTO 𝔑𝔞𝔦𝔩 𝔄𝔯𝔱𝔦𝔰𝔱 🎨
     location: "Canada"
-    followers: 223361
-    engagement: 131
-    commentsToLikes: 0.015612
-    id: ck1357j1d039n0i19muv0y40u
+    followers: 2510
+    engagement: 1265
+    commentsToLikes: 0.143302
+    id: ck9we2r28ibv60j78yvpafnr5
     verified: false
-    hashtags: "#ilovelove, #valentinesday, #suziesubmissions, #081"
-  - username: "vialsss"
+    hashtags: "#nailstoronto, #acrylicnailart, #gemstones, #torontogiveaway"
+  - username: "helennails_yeg"
     fullname: >-
-      vials
+      I'm HELEN-E.Mi Ambassador🌸
     location: "Canada"
-    followers: 18891
-    engagement: 417
-    commentsToLikes: 0.075372
-    id: ck8wfwq8ugdk00j78o0f9k3m7
-    verified: true
-    hashtags: "#tigerking, #myaesthetic, #devil, #wishmeluck"
+    followers: 196418
+    engagement: 106
+    commentsToLikes: 0.034461
+    id: ck0w1wea0lgs70i19pteqv6rz
+    verified: false
+    hashtags: "#freehand, #allnails, #edmontonnails, #crazynails"
   - username: "elporter"
     fullname: >-
       PORTER
     location: "Canada"
-    followers: 23650
-    engagement: 622
-    commentsToLikes: 0.020132
+    followers: 25066
+    engagement: 727
+    commentsToLikes: 0.018647
     id: ck5zyk9caa1m90i147oiclmz3
     verified: false
-    hashtags: "#goth, #alternativegirl, #blondebalayage, #inked"
+    hashtags: "#vegan, #victoriasecrets, #70sstyle, #converse"
+  - username: "roxannedenobregamakeup"
+    fullname: >-
+      Roxanne De Nobrega
+    location: "Canada"
+    followers: 12620
+    engagement: 631
+    commentsToLikes: 0.047960
+    id: ck14jben2jhm80i19cmeusxbq
+    verified: false
+    hashtags: "#film, #live, #ilovewhatido, #photography"
+  - username: "mylessexton"
+    fullname: >-
+      Myles Sexton
+    location: "Canada"
+    followers: 35477
+    engagement: 287
+    commentsToLikes: 0.101712
+    id: ck5qaue35iaq50i114hte529b
+    verified: false
+    hashtags: "#gratitude, #lgbtq, #novascotia, #montreal"
+  - username: "mimis_signature"
+    fullname: >-
+      Mimi’s Signature | Makeup
+    location: "Canada"
+    followers: 22133
+    engagement: 548
+    commentsToLikes: 0.060981
+    id: ck5zp2vtorvsy0i14c63wht3o
+    verified: false
+    hashtags: "#ongles, #essielove, #winternails, #zoeva"
 ---

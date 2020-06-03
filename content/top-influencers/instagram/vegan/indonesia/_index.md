@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top vegan Instagram influencers in Indonesia in 2020. Most popular hashtags: #bali #indonesia #vegan #meditation.
+  Find top vegan Instagram influencers in Indonesia in 2020. Most popular hashtags: # #earthday #stayhome #covid.
 platform: Instagram
 profiles:
-  - username: "chloe.kian"
-    fullname: >-
-      Chloe Kian
-    location: "Indonesia"
-    followers: 58866
-    engagement: 663
-    commentsToLikes: 0.006891
-    id: ck0u8e9ma73fp0i19fbv0gfrj
-    verified: false
-    hashtags: "#movies, #ethicalswimwear, #ecoresort, #luxuryecoresort"
-  - username: "janemcclair"
-    fullname: >-
-      putu jane
-    location: "Indonesia"
-    followers: 8013
-    engagement: 773
-    commentsToLikes: 0.030141
-    id: ck8t1xy7wxho50j78yunw7q2r
-    verified: false
-    hashtags: "#linkinbio, #tb"
   - username: "juancarloscrazysport"
     fullname: >-
       Juan Carlos Vicente
     location: "Indonesia"
-    followers: 24576
-    engagement: 289
-    commentsToLikes: 0.099044
+    followers: 24744
+    engagement: 320
+    commentsToLikes: 0.112594
     id: ck5qdpsjgwqts0i11vsifsd3u
     verified: false
-    hashtags: "#runner, #promocion, #vegandaddy, #familia"
-  - username: "jasminelouisejones"
+    hashtags: "#birthday, #mountainfamily, #happybirthday, #papa"
+  - username: "toyjoi"
     fullname: >-
-      🐉✖️Jasmine Loux✖️🐉
+      Toyjoi 🌹
     location: "Indonesia"
-    followers: 64173
-    engagement: 144
-    commentsToLikes: 0.021539
-    id: ck5c23jb7whbe0i11mugk0q16
+    followers: 5211
+    engagement: 828
+    commentsToLikes: 0.079432
+    id: ckap13r6yszye0i78u1cp03yh
     verified: false
-    hashtags: "#outdoorbath, #tattooedmodel, #shiny, #selfisolation"
+    hashtags: "#emergency, #nurses, #nursesofinstagram, #ernursesrock"
+  - username: "tomslostidk"
+    fullname: >-
+      Tom Ferguson ☾
+    location: "Indonesia"
+    followers: 5659
+    engagement: 478
+    commentsToLikes: 0.121139
+    id: ck0vvt2o6qn1c0i19teunzksp
+    verified: false
+    hashtags: ""
+  - username: "janemcclair"
+    fullname: >-
+      putu jane
+    location: "Indonesia"
+    followers: 7866
+    engagement: 805
+    commentsToLikes: 0.030561
+    id: ck8t1xy7wxho50j78yunw7q2r
+    verified: false
+    hashtags: "#tb, #linkinbio"
   - username: "iamtheabull"
     fullname: >-
-      THEA BULL 🦕
+      𝐓𝐇𝐄𝐀 𝐁𝐔𝐋𝐋 🦕
     location: "Indonesia"
-    followers: 11706
-    engagement: 518
-    commentsToLikes: 0.046171
+    followers: 12074
+    engagement: 542
+    commentsToLikes: 0.045731
     id: ck5qa9gdlf8vm0i11encxszjp
     verified: false
     hashtags: ""
-  - username: "lunalandrigan"
+  - username: "paulauchoa_"
     fullname: >-
-      Luna Rose Landrigan
+      | Paula Uchoa |
     location: "Indonesia"
-    followers: 8538
-    engagement: 680
-    commentsToLikes: 0.008243
-    id: ck0twqsxzggm20i19iuvwfz6s
+    followers: 5648
+    engagement: 1070
+    commentsToLikes: 0.092436
+    id: ck9h9mg4p92cc0j78v27dfacv
     verified: false
-    hashtags: "#santaibeachhousebali, #plantpower, #santaibeachhouse, #warung"
-  - username: "livingforsun"
+    hashtags: "#stayhome, #rawvegan, #covid, #athome"
+  - username: "geneva_f"
     fullname: >-
-      CALVIN KRAUSE & AILEEN SPEARE
+      bæby G 🌈🌚🔮💫 moonchild
     location: "Indonesia"
-    followers: 42989
-    engagement: 757
-    commentsToLikes: 0.027011
-    id: ck13b9495ubbn0i190mmpr33n
+    followers: 3379
+    engagement: 1010
+    commentsToLikes: 0.062141
+    id: ck134lvt9x2f30i19705wne2p
     verified: false
+    hashtags: "#internationalwomensday, #stayinside, #beadoll, #earthday"
+  - username: "veganlovinglife"
+    fullname: >-
+      holly🌱vegan food🌱
+    location: "Indonesia"
+    followers: 55126
+    engagement: 587
+    commentsToLikes: 0.030743
+    id: ck0twbwuget5k0i1912wovff5
+    verified: false
+    hashtags: "#meatfreenottastefree, #swaponemore, #maketheswap, #ad"
+  - username: "jamesaspey"
+    fullname: >-
+      JAMES ASPEY
+    location: "Indonesia"
+    followers: 275548
+    engagement: 443
+    commentsToLikes: 0.048627
+    id: ck0w1jkmnjo0m0i19gbi5y6my
+    verified: true
     hashtags: ""
   - username: "malsvensson"
     fullname: >-
       ♌︎ Malin ☽                  🇸🇪
     location: "Indonesia"
-    followers: 25222
-    engagement: 203
-    commentsToLikes: 0.045273
+    followers: 25135
+    engagement: 209
+    commentsToLikes: 0.040479
     id: ck6u7m9f7mcvp0j71xbx98zbe
     verified: false
-    hashtags: "#nourishingfoods, #boho, #bohemian, #guatemala"
-  - username: "geneva_f"
-    fullname: >-
-      bæby G 🌈🌚🔮💫 moonchild
-    location: "Indonesia"
-    followers: 3333
-    engagement: 941
-    commentsToLikes: 0.053324
-    id: ck134lvt9x2f30i19705wne2p
-    verified: false
-    hashtags: "#internationalwomensday, #stayinside, #beadoll"
-  - username: "willgoh_"
-    fullname: >-
-      Willgoh
-    location: "Indonesia"
-    followers: 20055
-    engagement: 212
-    commentsToLikes: 0.094554
-    id: ck6ud2oepis230j71u0zu41fy
-    verified: false
-    hashtags: "#makati, #lookbookindo, #traveller, #amigohabits"
+    hashtags: "#ceremony, #dreamland, #lekelekewaterfall, #natureza"
 ---

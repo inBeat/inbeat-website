@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Milan In 2020
 description: >-
-  Find top photographers Instagram influencers in Milan in 2020. Most popular hashtags: #photography #milano #art #fashioneditorial.
+  Find top photographers Instagram influencers in Milan in 2020. Most popular hashtags: #photographer #shooting #followme #photography.
 platform: Instagram
 profiles:
   - username: "dagojournal"
     fullname: >-
       Gabriele D'Agostino🎥🎬🇬🇧
     location: "Italy"
-    followers: 13716
-    engagement: 512
-    commentsToLikes: 0.033516
+    followers: 14944
+    engagement: 500
+    commentsToLikes: 0.034795
     id: ck5c9srj3c1u70i11f1q6qpcc
     verified: false
-    hashtags: "#shotoniphone, #onfilm, #selfportrait, #soblessed"
+    hashtags: "#18maggio, #shotoniphone, #onfilm, #mfw20"
+  - username: "giuliabersani"
+    fullname: >-
+      Giulia Bersani
+    location: "Italy"
+    followers: 17084
+    engagement: 494
+    commentsToLikes: 0.005484
+    id: ck15qunyn4q7v0i19bqbs3wlw
+    verified: false
+    hashtags: ""
   - username: "donatellaliguori"
     fullname: >-
       Donatella Liguori
     location: "Italy"
-    followers: 5213
-    engagement: 435
-    commentsToLikes: 0.034272
+    followers: 5112
+    engagement: 445
+    commentsToLikes: 0.036810
     id: ck6tsi4bx4w3j0j710ltktwsh
     verified: false
-    hashtags: "#photography, #eyes, #me, #glamour"
+    hashtags: "#archive"
   - username: "marcogiulianoph"
     fullname: >-
       Marco Giuliano
     location: "Italy"
-    followers: 31204
-    engagement: 203
-    commentsToLikes: 0.010160
+    followers: 31087
+    engagement: 235
+    commentsToLikes: 0.008368
     id: ck0w739bhbjay0i19s8dhqirb
     verified: false
-    hashtags: "#deutschamerikanischefreundschaft, #polaroid, #film, #35mm"
+    hashtags: "#kraftwerk, #florianschneider"
   - username: "alexandramasciaph"
     fullname: >-
       Alexandra Mascia
     location: "Italy"
-    followers: 6274
-    engagement: 380
-    commentsToLikes: 0.021123
+    followers: 6231
+    engagement: 331
+    commentsToLikes: 0.029300
     id: ck13496f6vbx30i19z716owgn
     verified: false
-    hashtags: "#cinema, #nature, #portraitmood, #vintage70s"
+    hashtags: "#graphicdesign, #parisienne, #shooting, #cinema"
   - username: "giomo_"
     fullname: >-
       Giovanni Moioli
     location: "Italy"
-    followers: 36496
-    engagement: 488
-    commentsToLikes: 0.016267
+    followers: 38623
+    engagement: 460
+    commentsToLikes: 0.015929
     id: ck0tytxl7o1cc0i19nxp46nlq
     verified: false
     hashtags: "#stayhome, #germanroamersffa"
-  - username: "luca_travel_"
+  - username: "mamrezabbasi"
     fullname: >-
-      Luca Cattaneo Ferrari
+      Mamrez Abbasi
     location: "Italy"
-    followers: 5333
-    engagement: 1105
-    commentsToLikes: 0.015436
-    id: ck5q1rdtccejw0i11lt11lwtt
+    followers: 37545
+    engagement: 809
+    commentsToLikes: 0.120618
+    id: ck5q8vcwo84lg0i11bbc8ia9h
     verified: false
-    hashtags: "#friends, #uncle, #lyon, #city"
-  - username: "francescoormando"
+    hashtags: "#style, #smile, #nowruz, #numerorussia"
+  - username: "loredanafadda"
     fullname: >-
-      Francesco Ormando
+      Loredana Fadda
     location: "Italy"
-    followers: 8271
-    engagement: 616
-    commentsToLikes: 0.017969
-    id: ck5hmasc4lmag0i1110gv7u6z
+    followers: 2573
+    engagement: 1249
+    commentsToLikes: 0.050857
+    id: ck6tsrnff6gak0j71qvkd3zjq
     verified: false
-    hashtags: "#photographyawards, #teampixel, #artclassified, #gingermagazine"
-  - username: "gramilano"
+    hashtags: "#intesa, #accessories, #instagram, #work"
+  - username: "ig_milano_"
     fullname: >-
-      Graham Spicer
+      IG ⊕ MILANO ® 🇮🇹
     location: "Italy"
-    followers: 27005
-    engagement: 191
-    commentsToLikes: 0.008972
-    id: ck14lm6zivd7w0i19wcauw5ef
+    followers: 37613
+    engagement: 339
+    commentsToLikes: 0.008601
+    id: ck0w0fprfdypd0i19kxetfp82
     verified: false
-    hashtags: "#ballet, #danzacontemporanea, #costume, #flamenco"
-  - username: "pursuitcars"
+    hashtags: "#abbracciotricolore, #freccetricolori, #25aprile, #streetsofmilan"
+  - username: "alvarobeamud"
     fullname: >-
-      Carlo
+      Alvaro Beamud Cortes
     location: "Italy"
-    followers: 31719
-    engagement: 551
-    commentsToLikes: 0.009369
-    id: ck0vz3jm774590i19hlbvmt7j
+    followers: 29809
+    engagement: 371
+    commentsToLikes: 0.019770
+    id: ck0ty8ku1lx460i191k9759rn
     verified: false
-    hashtags: "#ferrarienzo, #stmoritz, #chironsupersport, #porschecarrera"
-  - username: "goshapavlenko"
-    fullname: >-
-      Gosha Pavlenko
-    location: "Italy"
-    followers: 16897
-    engagement: 261
-    commentsToLikes: 0.011847
-    id: ck6tztkxcbs890j71ldbuov8i
-    verified: false
-    hashtags: "#theguccibeautyglitch, #shotoniphone"
+    hashtags: "#quarantine, #outtake, #luchinovisconti"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top yoga Instagram influencers in Malaysia in 2020. Most popular hashtags: #stayhome #covid19 #love #yoga.
+  Find top yoga Instagram influencers in Malaysia in 2020. Most popular hashtags: #yoga #yogapractice #travelgram #thailandtravel.
 platform: Instagram
 profiles:
+  - username: "hanlibubu"
+    fullname: >-
+      Hanlibubu | 🇲🇾
+    location: "Malaysia"
+    followers: 54292
+    engagement: 218
+    commentsToLikes: 0.074889
+    id: ck0vy58c32am90i192780f20n
+    verified: false
+    hashtags: "#heavenonearth, #smilemakeover, #siblingslove, #salvation"
   - username: "dianaohy"
     fullname: >-
       𝔻𝕀𝔸ℕ𝔸 | 𝐭𝐫𝐚𝐯𝐞𝐥 & 𝐟𝐚𝐬𝐡𝐢𝐨𝐧 🌼
     location: "Malaysia"
-    followers: 39753
-    engagement: 200
-    commentsToLikes: 0.025605
+    followers: 39639
+    engagement: 230
+    commentsToLikes: 0.028566
     id: ck5q811fq3zbd0i11p1y7ld5k
     verified: false
-    hashtags: "#airspacemalaysia, #as, #doublewootootd, #prettyfitshoes"
-  - username: "misschailing"
+    hashtags: "#youthbeautyhealth, #dohyinfayth, #ntuc, #quarantine"
+  - username: "chromaticcharms"
     fullname: >-
-      Stellies NiinG 彩菱
+      ⒼⒾⓃⒸⒽⒺⓃ | Travel X Lifestyle
     location: "Malaysia"
-    followers: 267881
-    engagement: 239
-    commentsToLikes: 0.010168
-    id: ck5q815jt3zu70i11azh6v6f2
+    followers: 13497
+    engagement: 563
+    commentsToLikes: 0.022868
+    id: ckap7on5wkw6e0i78h2thmxp0
     verified: false
-    hashtags: "#sushi, #zhangyaodong, #eyeslandlens, #sushiplus"
-  - username: "kuihkapit"
+    hashtags: "#lifestyle, #traveldeeper, #explore, #flattenthecurve"
+  - username: "grace_jorest"
     fullname: >-
-      Charmaine
+      Grace Jorest 🇲🇾
     location: "Malaysia"
-    followers: 7479
-    engagement: 248
-    commentsToLikes: 0.033802
-    id: ck0u9m5c0a2rk0i19wiyt9x2s
+    followers: 27304
+    engagement: 353
+    commentsToLikes: 0.014832
+    id: ck9wej12ykhm90j78ndebf5pb
     verified: false
-    hashtags: "#flattenthecurve, #igyogacommunity, #yogajourney, #yogaclass"
-  - username: "ann5103"
-    fullname: >-
-      廖小安
-    location: "Malaysia"
-    followers: 48927
-    engagement: 285
-    commentsToLikes: 0.012574
-    id: ck14ktetmr8920i19dglhggwv
-    verified: false
-    hashtags: "#need, #health, #start, #work"
+    hashtags: "#stretchingisimportant, #fitnessenthusiast, #yogadailypractice, #womensupportingwomen"
   - username: "pashini_"
     fullname: >-
       𝓟𝓪𝓼𝓱𝓲𝓷𝓲 💋
     location: "Malaysia"
-    followers: 114940
-    engagement: 679
-    commentsToLikes: 0.004982
+    followers: 125130
+    engagement: 761
+    commentsToLikes: 0.005226
     id: ck15sqk2deboa0i195tt2vm0c
     verified: false
-    hashtags: "#sareenotsorry, #stayactive, #haircareroutine, #captionthis"
-  - username: "hanlibubu"
+    hashtags: "#originality, #coronavirus, #ootd, #celebration"
+  - username: "bonnieloo94"
     fullname: >-
-      Hanlibubu | 𝑀𝒾𝒸𝓇𝑜-𝒾𝓃𝒻𝓁𝓊𝑒𝓃𝒸𝑒𝓇
+      Bonnie罗美仪
     location: "Malaysia"
-    followers: 53481
-    engagement: 205
-    commentsToLikes: 0.068737
-    id: ck0vy58c32am90i192780f20n
+    followers: 152522
+    engagement: 282
+    commentsToLikes: 0.021007
+    id: ck8sxez4bh5lv0j78cjnyxl3s
+    verified: true
+    hashtags: "#stayhomewithme, #freedomtolive, #singtogethersg, #sgunited"
+  - username: "ritanassiri"
+    fullname: >-
+      RITA NASSIRI ✨ Traveling Soul
+    location: "Malaysia"
+    followers: 23193
+    engagement: 961
+    commentsToLikes: 0.013988
+    id: ck55jfqrnwxqs0i11c5cvf3ig
     verified: false
-    hashtags: "#successdiaries, #lovelife, #netflixparty, #sunday"
+    hashtags: "#quarantine, #working, #yoga, #staysane"
+  - username: "yixuenn_travellife"
+    fullname: >-
+      M E R M A I D
+    location: "Malaysia"
+    followers: 32930
+    engagement: 178
+    commentsToLikes: 0.030929
+    id: ck9haaripbtpg0j78xe6xqf99
+    verified: false
+    hashtags: "#instagramer, #igers, #lazy, #aisangirl"
+  - username: "sarahmaylow"
+    fullname: >-
+      Malaysia No.1 Tarot Reader 🔮🃏
+    location: "Malaysia"
+    followers: 30492
+    engagement: 534
+    commentsToLikes: 0.031048
+    id: ck5hdx1pdptcl0i11m5ynfrid
+    verified: false
+    hashtags: "#press, #tourist, #mytravelgram, #bestlife"
   - username: "levyli"
     fullname: >-
       Levy Li Su Lin
     location: "Malaysia"
-    followers: 118504
-    engagement: 211
-    commentsToLikes: 0.002411
+    followers: 117125
+    engagement: 206
+    commentsToLikes: 0.002538
     id: ck6ttba7y9n3g0j71nflt3vht
     verified: false
-    hashtags: "#selflove, #flow, #tiktok, #creativeminds"
-  - username: "swati_avyaan_mommy"
-    fullname: >-
-      Swati Arora
-    location: "Malaysia"
-    followers: 4817
-    engagement: 295
-    commentsToLikes: 0.143528
-    id: ck5hqbe95stsb0i1155p4ihpb
-    verified: false
-    hashtags: "#zaynandzoeyofficial, #babycaretips, #stayindoor, #coronavirusoutbreakindia"
-  - username: "jojostruys"
-    fullname: >-
-      Jojo Struys
-    location: "Malaysia"
-    followers: 33432
-    engagement: 101
-    commentsToLikes: 0.035256
-    id: ck15tl3hiiluy0i19cinektuu
-    verified: false
-    hashtags: "#cantwait, #intentions, #selflove, #thankyou"
-  - username: "shannentotten"
-    fullname: >-
-      Miss Charm Malaysia 2020
-    location: "Malaysia"
-    followers: 10186
-    engagement: 469
-    commentsToLikes: 0.031157
-    id: ck5q3jhhol0yz0i11rx6n75yp
-    verified: false
-    hashtags: "#vietnam, #gongxifachai, #shiningshannen, #plantronicsmalaysia"
+    hashtags: "#tiktokdance, #thoughts, #pillowkidschallenge, #vogue"
 ---

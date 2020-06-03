@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Mumbai In 2020
 description: >-
-  Find top beauty Instagram influencers in Mumbai in 2020. Most popular hashtags: #mumbai #beauty #fashionblogger #india.
+  Find top beauty Instagram influencers in Mumbai in 2020. Most popular hashtags: #beauty #india #style #mumbai.
 platform: Instagram
 profiles:
-  - username: "anushkam"
+  - username: "_phoenixbae_"
     fullname: >-
-      Aɴᴜsʜᴋᴀ Nᴀᴅɪᴀ Mᴇɴᴏɴ
+      SWETA SUMAN PASAYAT | BLOGGER
     location: "India"
-    followers: 35225
-    engagement: 174
-    commentsToLikes: 0.008969
-    id: ck5ccig7khf8j0i118doecw18
-    verified: true
-    hashtags: "#paradise, #outdoors, #bw, #peace"
-  - username: "itsishashah"
-    fullname: >-
-      Isha Shah
-    location: "India"
-    followers: 11606
-    engagement: 553
-    commentsToLikes: 0.032593
-    id: ck0vwbdbisxs00i19nqlbpwky
+    followers: 7193
+    engagement: 826
+    commentsToLikes: 0.154761
+    id: ck8taed50reyy0j78ts5bqy36
     verified: false
-    hashtags: "#destinyschild, #lifestyleblogger, #fashionblogger, #shraddhakapoor"
-  - username: "fork_spoon_pune"
+    hashtags: "#voguemagazine, #tiktokviral, #white, #photographie"
+  - username: "thatquirkymiss"
     fullname: >-
-      Fork & Spoon Pune
+      Aditi Shrestha
     location: "India"
-    followers: 11608
-    engagement: 771
-    commentsToLikes: 0.010921
-    id: ck600bns1dao30i14os5et2ip
+    followers: 126511
+    engagement: 591
+    commentsToLikes: 0.010935
+    id: ck0w6k87l8yra0i19knyb31rz
     verified: false
-    hashtags: "#mumbaifoodblogger, #chocolatelab, #yummy, #zelebpune"
-  - username: "khushali.sa"
-    fullname: >-
-      Khushali Sanghvi
-    location: "India"
-    followers: 6326
-    engagement: 674
-    commentsToLikes: 0.026973
-    id: ck8t4olde7j900j78yej5quig
-    verified: false
-    hashtags: "#woods, #gopro, #india, #home"
-  - username: "jayarohills"
-    fullname: >-
-      jaya
-    location: "India"
-    followers: 7605
-    engagement: 667
-    commentsToLikes: 0.030472
-    id: ck0w2itt5ol190i1946j0yq1g
-    verified: false
-    hashtags: "#lifestyle, #positivevibes, #white, #instabeauty"
+    hashtags: "#selfcare, #quarantine, #real, #dayinmylife"
   - username: "lovingmom_v"
     fullname: >-
       Priyanka Agarwal
     location: "India"
-    followers: 18347
-    engagement: 195
-    commentsToLikes: 0.107750
+    followers: 17896
+    engagement: 202
+    commentsToLikes: 0.107617
     id: ck136aewz5jhb0i19ziwx2vbu
     verified: false
-    hashtags: "#kidslookbook, #giveaway, #indianmomonduty, #lovetravel"
-  - username: "saaj07"
+    hashtags: "#citron16, #toystorageideas, #toddlermom, #suratlife"
+  - username: "_thecozychic_"
     fullname: >-
-      🌸 S.A.J.I.D 🌸
+      Kashish Panchal
     location: "India"
-    followers: 14873
-    engagement: 1256
-    commentsToLikes: 0.060499
-    id: ck13b8qu7u99a0i198cuirqhm
+    followers: 10663
+    engagement: 1068
+    commentsToLikes: 0.100103
+    id: ck5zyehth9qk10i14ytbydnrm
     verified: false
-    hashtags: "#menfashion, #world, #motivation, #fashionpost"
-  - username: "kirti_chand24"
+    hashtags: "#comics, #makeupoftheday, #quarentinelife, #dontrush"
+  - username: "palak_singh810"
     fullname: >-
-      𝙺𝙸𝚁𝚃𝙸 𝙲𝙷𝙰𝙽𝙳
+      Palaksingh
     location: "India"
-    followers: 58351
-    engagement: 136
-    commentsToLikes: 0.055179
-    id: ck5cbpct8fwv60i11xv6bve9a
+    followers: 45399
+    engagement: 330
+    commentsToLikes: 0.049167
+    id: ckapaqc6px2j80i78p7gfcod7
     verified: false
-    hashtags: "#indiatour, #photography, #fashionable, #foodblogger"
-  - username: "thestylishwitch"
+    hashtags: "#stylish, #moodyports, #lensonstreets, #risingstars"
+  - username: "just4anushka"
     fullname: >-
-      Shivani Patil
+      ᴍᴇʀʟɪɴ♥️❝ＡＮＵＳＨＫＩＡＮ❞
     location: "India"
-    followers: 25230
-    engagement: 202
-    commentsToLikes: 0.029511
-    id: ck8tbdro9v9as0j78yq9ovjbs
+    followers: 22946
+    engagement: 774
+    commentsToLikes: 0.014278
+    id: ckaotzj16y4l70i78gu3adw7b
     verified: false
-    hashtags: "#beautyeditorial, #covid, #beautyblogger, #fashionblogger"
-  - username: "lorrainegonzalves"
+    hashtags: "#jannatzubair, #sundayfunday, #avneetkaur, #siddneet"
+  - username: "fork_spoon_pune"
     fullname: >-
-      //Lorraine Gonzalves//
+      Fork & Spoon Pune
     location: "India"
-    followers: 8518
-    engagement: 893
-    commentsToLikes: 0.023443
-    id: ck6tr8r26xkzv0j71ob709m6t
+    followers: 11392
+    engagement: 911
+    commentsToLikes: 0.014127
+    id: ck600bns1dao30i14os5et2ip
     verified: false
-    hashtags: "#spoyl, #jewellery, #trufflecollectionindia, #video"
+    hashtags: "#lifestylebloggers, #homemadepudding, #easybreakfast, #puneinsta"
+  - username: "akshita_.yadav"
+    fullname: >-
+      Akshita yadav
+    location: "India"
+    followers: 2254
+    engagement: 3501
+    commentsToLikes: 0.083896
+    id: ck8tcxyt7141l0j78stkk5ckx
+    verified: false
+    hashtags: "#bighit, #eyeliner, #holihai, #king"
+  - username: "shwe_dhanvij"
+    fullname: >-
+      Shweta
+    location: "India"
+    followers: 9060
+    engagement: 770
+    commentsToLikes: 0.025548
+    id: ck0u05wibsppz0i19bzpf43mk
+    verified: false
+    hashtags: "#eyemakeup, #igers, #cardio, #gymtime"
+  - username: "wohwaliladkiofficial"
+    fullname: >-
+      Nikitha P Khatri
+    location: "India"
+    followers: 47742
+    engagement: 414
+    commentsToLikes: 0.062270
+    id: ck5q8gcho61lv0i110m7c2ipm
+    verified: false
+    hashtags: "#delhiblogger, #indiangiveaway, #food, #bloggergiveaway"
 ---

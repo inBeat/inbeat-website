@@ -1,107 +1,107 @@
 ---
 title: Top 10 Divers Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top divers Instagram influencers in Venezuela in 2020. Most popular hashtags: #venezuela #cuarentena #amor #elreflejodemiinterior.
+  Find top divers Instagram influencers in Venezuela in 2020. Most popular hashtags: #diversion #barinas #baile #cultura.
 platform: Instagram
 profiles:
   - username: "juan_diasparra"
     fullname: >-
       Juan Diasparra
     location: "Venezuela"
-    followers: 8739
-    engagement: 751
-    commentsToLikes: 0.049365
+    followers: 9293
+    engagement: 602
+    commentsToLikes: 0.054556
     id: ck14kh802pi7s0i194gxcitj2
     verified: false
-    hashtags: "#natgeo, #falcon, #cataratas, #piraoa"
+    hashtags: "#thelostworld, #mongabay, #ranamono, #urao"
   - username: "cesar_losroques"
     fullname: >-
       Cesar Espinoza 🇻🇪
     location: "Venezuela"
-    followers: 10047
-    engagement: 604
-    commentsToLikes: 0.035570
+    followers: 10083
+    engagement: 585
+    commentsToLikes: 0.034987
     id: ck5hne9n8nms70i11972bacd7
     verified: false
-    hashtags: "#nirgua2019, #volar, #skydive, #venezuela"
-  - username: "emicarvallob"
+    hashtags: "#observacion, #meriland, #surf, #oceanfamily"
+  - username: "psicologia.h"
     fullname: >-
-      E M I 🦋
+      Psicólogo A.H / Psicología
     location: "Venezuela"
-    followers: 12303
-    engagement: 1214
-    commentsToLikes: 0.028336
-    id: ck5hr52mvu9yf0i11swjlz8fs
+    followers: 80411
+    engagement: 73
+    commentsToLikes: 0.017395
+    id: ck13d13lp34s20i192vzq4k3f
     verified: false
-    hashtags: "#gustavoelis, #acting, #corona, #emprendedores"
+    hashtags: "#vaupes, #novios, #lastablas, #washington"
   - username: "rossitorrealba.ve"
     fullname: >-
       Rossi Torrealba
     location: "Venezuela"
-    followers: 14176
-    engagement: 249
-    commentsToLikes: 0.038820
+    followers: 13954
+    engagement: 188
+    commentsToLikes: 0.040187
     id: ck15pegucxhgf0i19mfivzbpj
     verified: false
-    hashtags: "#bellezanatural, #amistad, #amordemadre, #modadeverano"
+    hashtags: "#amomitrabajo, #chicasfitness, #cuidatusalud, #cuidatufamilia"
+  - username: "irene.chen.chen"
+    fullname: >-
+      Irene
+    location: "Venezuela"
+    followers: 24518
+    engagement: 579
+    commentsToLikes: 0.158002
+    id: ck0ubyof3fnez0i19pgtz5qlw
+    verified: false
+    hashtags: "#workaholic, #powerrangers, #cultural, #comunidad"
+  - username: "elconcursobyos"
+    fullname: >-
+      EL CONCURSO by Osmel Sousa
+    location: "Venezuela"
+    followers: 74394
+    engagement: 576
+    commentsToLikes: 0.030462
+    id: ck5c6nwy85u1f0i11htwi8k6v
+    verified: true
+    hashtags: "#nadiesabetodoloque, #universal, #bellezaqueinspira, #elconcurso"
+  - username: "flor.de.essen"
+    fullname: >-
+      Somos Una Familia Que Cocina
+    location: "Venezuela"
+    followers: 40293
+    engagement: 187
+    commentsToLikes: 0.086900
+    id: ck13495b6vbrz0i19qezo1hfv
+    verified: false
+    hashtags: "#canastitas, #remedioscaseros, #bolitas, #buenarranque"
+  - username: "lugaresdevzla"
+    fullname: >-
+      #RECORRIENDOVENEZUELA
+    location: "Venezuela"
+    followers: 72222
+    engagement: 290
+    commentsToLikes: 0.036835
+    id: ck8t41vcg57p60j78ah1ipj24
+    verified: false
+    hashtags: "#mani, #chuspa, #jorgeguerrero, #explorando"
   - username: "soycarlaluis"
     fullname: >-
       C A R L A  L U I S
     location: "Venezuela"
-    followers: 12692
-    engagement: 652
-    commentsToLikes: 0.218988
+    followers: 12872
+    engagement: 680
+    commentsToLikes: 0.222286
     id: ck6031efjkgm30i140e6apkc7
     verified: false
-    hashtags: "#concurso, #barinitas, #sanitarias, #dianaroll"
-  - username: "franhemo"
+    hashtags: "#fumar, #agrede, #beauty, #elegancia"
+  - username: "pepitoromero"
     fullname: >-
-      Fran He Mo
+      𝓗𝓮𝓬𝓽𝓸𝓻  𝓡𝓸𝓶𝓮𝓻𝓸
     location: "Venezuela"
-    followers: 30974
-    engagement: 257
-    commentsToLikes: 0.028327
-    id: ck8tacqpfr8ks0j785q93pxhp
+    followers: 63023
+    engagement: 118
+    commentsToLikes: 0.117515
+    id: ck0w253rymnta0i19s8xodl8c
     verified: false
-    hashtags: "#tapaboca, #amantedefrases, #mensajespositivos, #playaelagua"
-  - username: "nermaryyibirin"
-    fullname: >-
-      Life Coach @NermaryYibirin
-    location: "Venezuela"
-    followers: 43905
-    engagement: 108
-    commentsToLikes: 0.099817
-    id: ck0tv5lzla1a50i19xmja30oh
-    verified: false
-    hashtags: "#enriccorbera, #amor, #trabajadoras, #fuertes"
-  - username: "horaciodesorden"
-    fullname: >-
-      Horacio Blanco
-    location: "Venezuela"
-    followers: 46868
-    engagement: 213
-    commentsToLikes: 0.058976
-    id: ck5hlmbg7kgvh0i11nkkm9f8t
-    verified: false
-    hashtags: "#bogota, #puertaapuerta, #gentecom, #venezolanosenmontreal"
-  - username: "mamaconglamour"
-    fullname: >-
-      RebekkaMoreno
-    location: "Venezuela"
-    followers: 222851
-    engagement: 150
-    commentsToLikes: 0.035555
-    id: ck5ckc3nxwkfi0i11aot9bh5a
-    verified: false
-    hashtags: "#tbt, #mam, #valentines, #valentinesday2020"
-  - username: "playasdevenezuela"
-    fullname: >-
-      Playas de Venezuela
-    location: "Venezuela"
-    followers: 423117
-    engagement: 115
-    commentsToLikes: 0.012380
-    id: ck5btokg7gbml0i11p8e0g8bd
-    verified: false
-    hashtags: "#stayhome, #edofalcon, #kitefoiling, #goodvibesonly"
+    hashtags: "#korea, #expareja, #ndios, #daddysgirl"
 ---

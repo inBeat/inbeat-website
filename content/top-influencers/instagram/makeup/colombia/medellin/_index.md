@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Medellín In 2020
 description: >-
-  Find top makeup Instagram influencers in Medellín in 2020. Most popular hashtags: #medellin #makeup #colombia #makeupmedellin.
+  Find top makeup Instagram influencers in Medellín in 2020. Most popular hashtags: #medellin #encasa #makeuptutorial #cutcrease.
 platform: Instagram
 profiles:
-  - username: "camigiraldomakeup"
-    fullname: >-
-      Makeup Artist👩🏻‍🎨
-    location: "Colombia"
-    followers: 25103
-    engagement: 292
-    commentsToLikes: 0.066212
-    id: ck6uelsiyrowd0j71o3mel97n
-    verified: false
-    hashtags: "#glammakeup, #simple, #outfitinspiration, #cuidadopersonal"
   - username: "isaky06"
     fullname: >-
       KY.
     location: "Colombia"
-    followers: 108919
-    engagement: 202
-    commentsToLikes: 0.182138
+    followers: 107899
+    engagement: 190
+    commentsToLikes: 0.118948
     id: ck6uelmmwrnri0j712j0ighqo
     verified: false
-    hashtags: "#cursospesta, #lashescursos, #cursopesta, #pesta"
-  - username: "fersfantasy"
-    fullname: >-
-      fer 👑 Makeup Artist
-    location: "Colombia"
-    followers: 23606
-    engagement: 771
-    commentsToLikes: 0.047951
-    id: ck5cg6053o80l0i11ibyowhd6
-    verified: false
-    hashtags: "#dragcolombia, #makeupcolombia, #beauty, #cejasbenefit"
-  - username: "photography_jed"
-    fullname: >-
-      Juan Esteban Echeverri
-    location: "Colombia"
-    followers: 31929
-    engagement: 179
-    commentsToLikes: 0.007517
-    id: ck55onr8b8qoq0i11yupjkp2x
-    verified: false
-    hashtags: "#fotografia, #matandolaliga, #modeloscolombianas, #fashion"
-  - username: "dianahenaomakeup"
-    fullname: >-
-      Fundadora CMS 🇨🇴 Conductora Tv
-    location: "Colombia"
-    followers: 123698
-    engagement: 207
-    commentsToLikes: 0.036560
-    id: ck6uelq2drof60j7129k95c0e
-    verified: true
-    hashtags: "#cumpleencuarentena, #orgullolatino, #viernesglam, #faceperfect"
-  - username: "hablamedurito"
-    fullname: >-
-      Juan José
-    location: "Colombia"
-    followers: 71325
-    engagement: 674
-    commentsToLikes: 0.034128
-    id: ck5pw1pukkodm0i11thsawljj
-    verified: false
-    hashtags: "#viral, #risas, #amor, #incomoletos"
-  - username: "carogallegoca"
-    fullname: >-
-      Carolina Gallego C.
-    location: "Colombia"
-    followers: 30636
-    engagement: 217
-    commentsToLikes: 0.027800
-    id: ck5qaczd5fr190i11fj3cjksh
-    verified: false
-    hashtags: "#majestic, #teamatenea, #colores"
-  - username: "juanangope"
-    fullname: >-
-      Juan Gonzalez
-    location: "Colombia"
-    followers: 72924
-    engagement: 631
-    commentsToLikes: 0.013657
-    id: ck5zknehzjsqx0i145dlxtk82
-    verified: false
-    hashtags: "#tiktok"
+    hashtags: "#lashescursos, #medellin, #extensionespeloapelomedellin, #cursospesta"
   - username: "wilsbeauty"
     fullname: >-
       WIL OCHOA
     location: "Colombia"
-    followers: 51535
-    engagement: 276
-    commentsToLikes: 0.140780
+    followers: 60108
+    engagement: 290
+    commentsToLikes: 0.244113
     id: ck5pw1kljknnv0i11vblehx2a
     verified: false
-    hashtags: "#makeup, #muasupport, #makeupparty, #artist"
-  - username: "_onajedna"
+    hashtags: "#makeuponpoint, #makeupblogger, #muaxdiscover, #makeuplook"
+  - username: "mortianamakeup"
     fullname: >-
-      JACOL JACOLLO 🥩
+      𝕿 𝖆 𝖙 𝖎 𝖆 𝖓 𝖆 🍒
     location: "Colombia"
-    followers: 19164
-    engagement: 480
-    commentsToLikes: 0.014293
-    id: ck8t1iinwvwhn0j786kqkrsq1
+    followers: 13515
+    engagement: 828
+    commentsToLikes: 0.087110
+    id: ck6uapbio4v3x0j71591o9clh
     verified: false
-    hashtags: "#girls, #beach, #zwa, #basketballcourt"
+    hashtags: "#curlygirl, #smokeyglitter, #sorteo, #spotlightmakeup"
+  - username: "lizcastromakeup"
+    fullname: >-
+      ♡ LIZ CASTRO
+    location: "Colombia"
+    followers: 19079
+    engagement: 233
+    commentsToLikes: 0.064226
+    id: ck6uelp0bro7m0j71gd9jkc23
+    verified: false
+    hashtags: "#jbalvin, #makeupneon, #makeupartis, #nattycastro"
+  - username: "meeezger"
+    fullname: >-
+      D A N I E L  M E Z G E R
+    location: "Colombia"
+    followers: 9547
+    engagement: 844
+    commentsToLikes: 0.030427
+    id: ck5zkneszjss60i14tc6kmdk1
+    verified: false
+    hashtags: "#tvspot, #magiablanca, #commercial"
+  - username: "carozapatamakeup"
+    fullname: >-
+      Carolina Zapata Arcila
+    location: "Colombia"
+    followers: 12738
+    engagement: 613
+    commentsToLikes: 0.038653
+    id: ck5cfpypmnffp0i110hhrylsd
+    verified: false
+    hashtags: "#obsesion, #colorfulmakeup, #maquillajearti, #mermaid"
+  - username: "caro_toro"
+    fullname: >-
+      Carolina Toro Raigosa
+    location: "Colombia"
+    followers: 179998
+    engagement: 253
+    commentsToLikes: 0.015423
+    id: ck0w3tqyxv87p0i19cy9ozkrz
+    verified: false
+    hashtags: "#yomequedoencasa, #stayhome, #tb"
+  - username: "chdermatologia"
+    fullname: >-
+      CLAUDIA HERNÁNDEZ
+    location: "Colombia"
+    followers: 74191
+    engagement: 223
+    commentsToLikes: 0.017538
+    id: ck0w71ryubc2d0i19xvjyd5io
+    verified: false
+    hashtags: "#acnetreatment, #usesunscreen, #pesas, #liderazgo"
+  - username: "dannaibeth"
+    fullname: >-
+      Danna
+    location: "Colombia"
+    followers: 3048
+    engagement: 845
+    commentsToLikes: 0.062692
+    id: ck6u8z3jmujc30j71zuw9zsly
+    verified: false
+    hashtags: "#champetachallenge, #nomakeup, #dannachallenge, #mamacita"
+  - username: "makeupbymelimorales"
+    fullname: >-
+      Meli Morales
+    location: "Colombia"
+    followers: 84018
+    engagement: 172
+    commentsToLikes: 0.054035
+    id: ck5hqvd15tsft0i11wwb41csj
+    verified: false
+    hashtags: "#neon, #neonskull, #lashesbymelimorales, #maquillateencasaconmelimorales"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Chefs Instagram Influencers In 2020
 description: >-
-  Find top chefs Instagram influencers in 2020. Most popular hashtags: #cheflife #thankful #nataliead #neverstopexploring.
+  Find top chefs Instagram influencers in 2020. Most popular hashtags: #blue #familytime #easter #stayathome.
 platform: Instagram
 profiles:
-  - username: "thodoris_papanikolaou"
-    fullname: >-
-      Thodoris_Papanikolaou
-    location: ""
-    followers: 26135
-    engagement: 947
-    commentsToLikes: 0.016065
-    id: ck5q084xu4pli0i11xnqqo75w
-    verified: false
-    hashtags: "#50bestdiscovery, #50bestrestaurants"
   - username: "pazanin.ivan"
     fullname: >-
       Ivan Pazanin
     location: ""
-    followers: 43369
-    engagement: 543
-    commentsToLikes: 0.014910
+    followers: 44651
+    engagement: 517
+    commentsToLikes: 0.015194
     id: ck6u6obzmgrtl0j71aaps5ata
     verified: false
-    hashtags: "#svizanjega, #croatiafulloflife, #foodporn, #cheflife"
+    hashtags: "#ostanidoma, #kupujmohrvatsko, #splitcroatia, #foodporn"
   - username: "jskenes"
     fullname: >-
       Joshua Skenes
     location: "United States"
-    followers: 116820
-    engagement: 193
-    commentsToLikes: 0.024165
+    followers: 118519
+    engagement: 191
+    commentsToLikes: 0.024150
     id: ck0vw8wrcsms30i19fp5tkn8a
     verified: true
     hashtags: "#tarpon, #jiayou"
+  - username: "corneliapoletto"
+    fullname: >-
+      Cornelia Poletto
+    location: "Germany"
+    followers: 23360
+    engagement: 324
+    commentsToLikes: 0.028417
+    id: ck13550ahzqlk0i19fook9pfy
+    verified: true
+    hashtags: "#china, #cannellinibeans, #echtpolettoout, #fish"
   - username: "chefwilliambradley"
     fullname: >-
       William Bradley
     location: "United States"
-    followers: 6161
-    engagement: 500
-    commentsToLikes: 0.042757
+    followers: 6155
+    engagement: 503
+    commentsToLikes: 0.043943
     id: ck0ttsekh44in0i19kmkcilf5
     verified: false
-    hashtags: "#craftmenship, #fridaynight, #relaischateaux60, #eatlocal"
-  - username: "adamleonti"
+    hashtags: "#hautecouture, #creativity, #holidayseason, #canapes"
+  - username: "nabbi__"
     fullname: >-
-      Adam Leonti
-    location: "United States"
-    followers: 5524
-    engagement: 527
-    commentsToLikes: 0.040141
-    id: ck55ldjl01bi30i11iid0mn31
-    verified: false
-    hashtags: "#unionsquaregreenmarket"
-  - username: "chefreneeerickson"
-    fullname: >-
-      Renee Erickson
-    location: "United States"
-    followers: 16728
-    engagement: 228
-    commentsToLikes: 0.026921
-    id: ck14l2li8sj6x0i196s0597ce
-    verified: false
-    hashtags: "#eatseacreatures, #seattlerestaurantsunited, #strongertogether, #saverestaurants"
-  - username: "natalievijfhuizen"
-    fullname: >-
-      Natalie Vijfhuizen 🌞
-    location: "Netherlands"
-    followers: 24047
-    engagement: 983
-    commentsToLikes: 0.082051
-    id: ck139pu1fmjgw0i19k08zc4zs
-    verified: false
-    hashtags: "#nataliead, #nevernoteating, #favouritesmix, #houvanjou"
-  - username: "feodor_kiselev"
-    fullname: >-
-      Feodor Kiselev
-    location: "Japan"
-    followers: 26958
-    engagement: 2353
-    commentsToLikes: 0.056554
-    id: ck5zkqc7sjyov0i149ve6ew4c
-    verified: false
-    hashtags: "#kawaiiaesthetic, #harajukufashion, #alternativestyle, #harajukustyle"
+      N A B A Y E T
+    location: ""
+    followers: 84681
+    engagement: 830
+    commentsToLikes: 0.190896
+    id: ckap2lqr2ze1n0i78pbhpfyfn
+    verified: true
+    hashtags: "#forevergrateful"
   - username: "cheffati"
     fullname: >-
       Fatima Ali
     location: "United States"
-    followers: 162716
-    engagement: 2341
-    commentsToLikes: 0.040380
+    followers: 161426
+    engagement: 2360
+    commentsToLikes: 0.040399
     id: ck5cgzaimptro0i11qpuiyfzb
     verified: true
-    hashtags: "#tonewbeginnings, #herestoanewchapter, #abbashome, #carpets"
-  - username: "good_vibes_janelle_"
+    hashtags: "#repost, #ewingsarcoma, #cancer, #letsstartatrend"
+  - username: "realsophy"
     fullname: >-
-      Janelle🥀
-    location: "United States"
-    followers: 4271
-    engagement: 2233
-    commentsToLikes: 0.105859
-    id: ck5zj9mq2h7300i140vgs8n3n
+      SHADES OF SOPHIA ♉
+    location: ""
+    followers: 39071
+    engagement: 800
+    commentsToLikes: 0.100921
+    id: ck5hrhn71uw9s0i11uinjrqi5
     verified: false
-    hashtags: "#blessed, #okurrr, #halloween, #fashionshow"
+    hashtags: "#feburary, #dontrush, #cake, #fire"
+  - username: "feodor_kiselev"
+    fullname: >-
+      Feodor Kiselev
+    location: "Japan"
+    followers: 27602
+    engagement: 2242
+    commentsToLikes: 0.055137
+    id: ck5zkqc7sjyov0i149ve6ew4c
+    verified: false
+    hashtags: "#cosplayboy, #gothgrunge, #softaesthetic, #gothgoth"
+  - username: "natalievijfhuizen"
+    fullname: >-
+      Natalie Vijfhuizen-Maarse
+    location: "Netherlands"
+    followers: 27574
+    engagement: 1181
+    commentsToLikes: 0.047083
+    id: ck139pu1fmjgw0i19k08zc4zs
+    verified: false
+    hashtags: "#dusniettrouwen, #zoekjoe, #boyorgirl, #motherdaughter"
+  - username: "ronniecwoo"
+    fullname: >-
+      Ronnie Woo
+    location: "United States"
+    followers: 64008
+    engagement: 698
+    commentsToLikes: 0.033510
+    id: ck14luv4jwls80i192x0ufnl2
+    verified: true
+    hashtags: "#ad, #superbowlhalftimeshow, #superbowl, #sabrapartner"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top beauty Instagram influencers in Las Vegas in 2020. Most popular hashtags: #beauty #makeup #mua #sponsored.
+  Find top beauty Instagram influencers in Las Vegas in 2020. Most popular hashtags: #beauty #lasvegas #family #style.
 platform: Instagram
 profiles:
-  - username: "blissbrie"
+  - username: "juleslind75"
     fullname: >-
-      BRIDGET
+      Jules
     location: "United States"
-    followers: 6509
-    engagement: 506
-    commentsToLikes: 0.131767
-    id: ck6u0h4g8fnyl0j71fs5fugge
+    followers: 10396
+    engagement: 543
+    commentsToLikes: 0.083545
+    id: ck5c7msvl7tia0i11ojvkpcu7
     verified: false
-    hashtags: "#octolyfamily, #ootn, #styled, #freshbeauty"
-  - username: "odieseyes"
+    hashtags: "#getfitaf, #blackrockcoffee, #fridayfacts, #noquit"
+  - username: "misspoisonivory"
     fullname: >-
-      Odie
+      Poison Ivory
     location: "United States"
-    followers: 39712
-    engagement: 179
-    commentsToLikes: 0.050847
-    id: ck8sxxsddj22b0j7807qr8lkv
+    followers: 19949
+    engagement: 182
+    commentsToLikes: 0.056564
+    id: ck5zzmuanc17j0i149i45fwe4
     verified: false
-    hashtags: "#toast, #washyourhands, #oralfieseye, #wheredyagowednesday"
+    hashtags: "#nudenighttampa, #happyeaster2020, #cute, #nomnomnom"
+  - username: "yayosnaps"
+    fullname: >-
+      Las Vegas Photographer
+    location: "United States"
+    followers: 162902
+    engagement: 115
+    commentsToLikes: 0.016122
+    id: ck5q3saq7m7i70i11egsxvxul
+    verified: false
+    hashtags: "#natural, #bayarea, #bday, #modelo"
+  - username: "jerryhughesphoto"
+    fullname: >-
+      Jerry Hughes Photography LLC
+    location: "United States"
+    followers: 33514
+    engagement: 412
+    commentsToLikes: 0.053586
+    id: ck5q8sowa7t7w0i11qnj2o02h
+    verified: false
+    hashtags: "#easter, #tglc, #cheervideo, #dawgs"
+  - username: "eon.zen"
+    fullname: >-
+      Znematic Travel
+    location: "United States"
+    followers: 2206
+    engagement: 1411
+    commentsToLikes: 0.051034
+    id: ckaot1fnktxwj0i786zthbclf
+    verified: false
+    hashtags: "#treasureisland, #lake, #flowers, #searchlightnevada"
+  - username: "anahardesign"
+    fullname: >-
+      Ana Hard
+    location: "United States"
+    followers: 40262
+    engagement: 848
+    commentsToLikes: 0.012077
+    id: ck15u6uutlp7i0i19d13vfgjn
+    verified: false
+    hashtags: "#decoration, #koala, #bags, #walking"
   - username: "bjaymakeup"
     fullname: >-
       Brittany Jay
     location: "United States"
-    followers: 10300
-    engagement: 1041
-    commentsToLikes: 0.074504
+    followers: 10129
+    engagement: 1007
+    commentsToLikes: 0.073655
     id: ck0twhpc6ffic0i198bl6rih8
     verified: false
-    hashtags: "#unleashyourinnerartist, #nationallashday"
+    hashtags: "#makeuptutorial, #makeupideas, #abhjunkies, #blazin"
+  - username: "forouzan.zad"
+    fullname: >-
+      Forouzan Zad | Fashion Blogger
+    location: "United States"
+    followers: 46617
+    engagement: 542
+    commentsToLikes: 0.164713
+    id: ck13bs0agww2c0i197mwdc0qf
+    verified: false
+    hashtags: "#norouz, #deltangi, #missmymom, #missmydad"
+  - username: "shelbyvert"
+    fullname: >-
+      SHELBY VERT
+    location: "United States"
+    followers: 51097
+    engagement: 203
+    commentsToLikes: 0.224435
+    id: ck55pzqvwbr830i11rt1d55j4
+    verified: false
+    hashtags: "#engaged, #joggers, #losangeles, #purses"
   - username: "theandreajohnson"
     fullname: >-
       Andrea Johnson
     location: "United States"
-    followers: 30830
-    engagement: 728
-    commentsToLikes: 0.078768
+    followers: 30278
+    engagement: 737
+    commentsToLikes: 0.082357
     id: ck0udpkt2jl2z0i19uw5bs9mx
     verified: false
-    hashtags: "#shoppingspree, #igersusa, #ltkfashion, #familyblogger"
-  - username: "rissrose2"
-    fullname: >-
-      R I S S
-    location: "United States"
-    followers: 91605
-    engagement: 242
-    commentsToLikes: 0.018867
-    id: ck6u3xjbs0gjr0j718ar1vmfm
-    verified: false
-    hashtags: "#rissrose2, #rissrosedos, #youtube, #vlogmas"
-  - username: "steffanie.a.mua"
-    fullname: >-
-      ✨M A K E U P  M A G I C I A N✨
-    location: "United States"
-    followers: 4512
-    engagement: 1037
-    commentsToLikes: 0.086109
-    id: ck135gz7x1dab0i19w0fjn7cc
-    verified: false
-    hashtags: "#avantgarde, #boysinmakeup, #goofproofbrowpencil, #quarantineandchill"
-  - username: "ispyseptember"
-    fullname: >-
-      September Reign ♛
-    location: "United States"
-    followers: 37112
-    engagement: 173
-    commentsToLikes: 0.025932
-    id: ck6ufjdwgxeo90j71m0i25f07
-    verified: false
-    hashtags: "#dungeon, #domme, #linkinbio, #style"
-  - username: "baothy.tran"
-    fullname: >-
-      Bao Thy Tran
-    location: "United States"
-    followers: 1061800
-    engagement: 121
-    commentsToLikes: 0.004928
-    id: ck0w4lj7iz6am0i193f4wc7l5
-    verified: true
-    hashtags: "#loveyourskin, #rainyday, #sport, #beautifulsea"
-  - username: "alex_eissinger"
-    fullname: >-
-      Alexandria Eissinger 🇩🇰🇺🇸
-    location: "United States"
-    followers: 24835
-    engagement: 283
-    commentsToLikes: 0.034846
-    id: ck5hq5i5jsja60i11jm2gimb2
-    verified: false
-    hashtags: "#makeuptutorial, #nature, #lensdotme, #mascara"
-  - username: "unamexicanaenlasvegas"
-    fullname: >-
-      Angelica
-    location: "United States"
-    followers: 68962
-    engagement: 170
-    commentsToLikes: 0.049012
-    id: ck6tt5io48q060j71err0y6f3
-    verified: false
-    hashtags: "#one, #mycapsulmoment, #slayit, #ihop"
+    hashtags: "#notox, #hellofreshpartner, #healforreal, #ingridandisabel"
 ---

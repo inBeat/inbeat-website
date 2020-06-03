@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wedding Instagram Influencers In 2020
 description: >-
-  Find top wedding Instagram influencers in 2020. Most popular hashtags: #dirtybootsandmessyhair #portraitphotography #photography #lookslikefilm.
+  Find top wedding Instagram influencers in 2020. Most popular hashtags: #weddingphotography #lovelycouple #bridestyle #weddingday.
 platform: Instagram
 profiles:
-  - username: "shelby_photo"
+  - username: "rezamousavistudio"
     fullname: >-
-      Shelby Mullen
-    location: "United States"
-    followers: 7222
-    engagement: 1371
-    commentsToLikes: 0.121528
-    id: ck5pze2e10ilj0i11km8ezuya
+      Reza Mousavi Studio ,Wedding
+    location: "Iran"
+    followers: 23508
+    engagement: 220
+    commentsToLikes: 0.073346
+    id: ck5c9m3bwbojc0i118l820i68
     verified: false
-    hashtags: "#utahelopementphotographer, #portraitpage, #creativeportraits, #artofportrait"
+    hashtags: "#makeup, #bridestyle, #romance, #film"
+  - username: "proudlyjw_weddings"
+    fullname: >-
+      weddings
+    location: ""
+    followers: 20518
+    engagement: 362
+    commentsToLikes: 0.032397
+    id: ck6u7fh4jl7ed0j71w635iqjk
+    verified: false
+    hashtags: "#eventplanner, #mylove, #casamento2021, #jwboy"
   - username: "thegracemattei"
     fullname: >-
       Grace Mattei ⚡️
     location: ""
-    followers: 55182
-    engagement: 884
-    commentsToLikes: 0.066383
+    followers: 60158
+    engagement: 855
+    commentsToLikes: 0.066027
     id: ck0w3yxcevzdp0i19gl1ixkfh
     verified: false
-    hashtags: "#smallactsoflove, #fortheflavor, #haverdash, #breakfreewitholympus"
+    hashtags: "#drmartensofficial, #revolveme, #zapposxdm, #barefootwine"
+  - username: "get_shot_fotografie"
+    fullname: >-
+      get-shot.de | katja & rob
+    location: "Germany"
+    followers: 6292
+    engagement: 3171
+    commentsToLikes: 0.117222
+    id: ckap9e0qwsa2a0i78jf9258us
+    verified: false
+    hashtags: "#fujishooters, #leicaportrait, #belovedstories, #coronatime"
   - username: "maahsajafaari"
     fullname: >-
       مَه سا
     location: "Iran"
-    followers: 50229
-    engagement: 1154
-    commentsToLikes: 0.078725
+    followers: 55352
+    engagement: 1631
+    commentsToLikes: 0.077348
     id: ck601z5bvgfn90i143s6z5yyk
     verified: false
-    hashtags: "#photographybaby, #add"
+    hashtags: "#add, #funny, #engaged, #challenge"
   - username: "parhamr2"
     fullname: >-
       Parham Rahnamaee Studio
     location: "Iran"
-    followers: 66422
-    engagement: 1280
-    commentsToLikes: 0.049404
+    followers: 67855
+    engagement: 1313
+    commentsToLikes: 0.050553
     id: ck5cg9w2qof3p0i11b0l9qdru
     verified: false
-    hashtags: "#love, #portraitphotography, #lover, #aronafshar"
-  - username: "sulbieosmanova_makeup"
+    hashtags: "#aronafshar"
+  - username: "nadinechristine__"
     fullname: >-
-      СУЛЬБИЕ ОСМАНОВА
-    location: "Ukraine"
-    followers: 30110
-    engagement: 609
-    commentsToLikes: 0.070832
-    id: ck0u70jhm3jwh0i195vfuqdxs
+      📍AUSTRIA | TRAVEL & LIFESTYLE✨
+    location: "Austria"
+    followers: 27285
+    engagement: 861
+    commentsToLikes: 0.093817
+    id: ck0vxql5t07nx0i19qoimwvir
     verified: false
-    hashtags: "#makeuplooks, #newyear2020, #sobeautylab, #soweddingdress"
-  - username: "zwyg_art"
+    hashtags: "#nakdfashion, #viennaaustria, #beautifulplaces, #bohostyle"
+  - username: "anitashanesaz.studio"
     fullname: >-
-      Dominique Zwygart
-    location: "Switzerland"
-    followers: 8628
-    engagement: 1380
-    commentsToLikes: 0.058978
-    id: ck0w0sd02fsu60i19m9vbycfh
+      anitashanesaz photography
+    location: "Iran"
+    followers: 43330
+    engagement: 809
+    commentsToLikes: 0.054924
+    id: ck6ug15cb0c320j71zzj4zn9c
     verified: false
-    hashtags: "#endlessfaces, #womanportrait, #portraitstream, #portraitcentral"
-  - username: "anni_style"
+    hashtags: "#aroos, #groom, #spring2020, #lightroompresets"
+  - username: "christian.x"
     fullname: >-
-      ANNI • weddings • elopements
-    location: "Germany"
-    followers: 4442
-    engagement: 2220
-    commentsToLikes: 0.131602
-    id: ck5bxn1o4o0yk0i113s13ia1b
+      Christian Sarkine
+    location: "India"
+    followers: 7722
+    engagement: 1414
+    commentsToLikes: 0.096190
+    id: ck8svzix7da510j78wymmljv9
     verified: false
-    hashtags: "#anotherwildstory, #elopement, #bestnine, #weddinginspiration"
-  - username: "sarakayy.xox"
+    hashtags: "#canon5dmarkiv, #canon6d, #canon5d4"
+  - username: "breeannalasher"
     fullname: >-
-      Sara Kayy Asare💍
-    location: "Canada"
-    followers: 14356
-    engagement: 1244
-    commentsToLikes: 0.057564
-    id: ck6u9ull3zr7d0j71nuftil2w
-    verified: false
-    hashtags: "#birthdaygirl, #dontrushchallenge"
-  - username: "yanamef"
-    fullname: >-
-      Свадебный Фотограф Москва
-    location: "Russia"
-    followers: 17926
-    engagement: 933
-    commentsToLikes: 0.053181
-    id: ck1376u52a2yf0i19j33k66vs
-    verified: false
-    hashtags: "#weddingphotographerlondon, #adventurouslovestories, #weddingphotographermoscow, #weddingphotographeredinburgh"
-  - username: "lizrudman"
-    fullname: >-
-      LIZ RUDMAN
+      Elopement Photographer
     location: "United States"
-    followers: 6081
-    engagement: 1159
-    commentsToLikes: 0.176802
-    id: ck135ci1i0six0i19g7rnl92m
+    followers: 51204
+    engagement: 604
+    commentsToLikes: 0.058621
+    id: ck15sdur8ciaq0i196vsgwp5w
     verified: false
-    hashtags: ""
+    hashtags: "#wildandcrazy, #snoqualmiefalls, #europe, #pnwelopement"
 ---

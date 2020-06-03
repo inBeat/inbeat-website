@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top models Instagram influencers in Ukraine in 2020. Most popular hashtags: #model #love #quarantine #ukraine.
+  Find top models Instagram influencers in Ukraine in 2020. Most popular hashtags: # #model #tiktok #2020.
 platform: Instagram
 profiles:
+  - username: "andeevaio"
+    fullname: >-
+      Andee Vaio
+    location: "Ukraine"
+    followers: 6870
+    engagement: 1216
+    commentsToLikes: 0.014172
+    id: ck0u1mji8x9j10i19mutu8yje
+    verified: false
+    hashtags: "#dubaimood, #myquarantine, #rainyday, #catchmeifyoucan"
+  - username: "alisia_krasnova"
+    fullname: >-
+      💙 Алисия 💙
+    location: "Ukraine"
+    followers: 2881
+    engagement: 2448
+    commentsToLikes: 0.271835
+    id: ck9wop0pw5zxc0j78cixi6vg2
+    verified: false
+    hashtags: "#dancerflying, #italianvacation, #lovesport, #lovepointe"
   - username: "_sofiia__official_"
     fullname: >-
       София🌸
     location: "Ukraine"
-    followers: 6487
-    engagement: 1341
-    commentsToLikes: 0.226321
+    followers: 8301
+    engagement: 1400
+    commentsToLikes: 0.205276
     id: ck5zs2g6hxp2n0i14ovca43hx
     verified: false
-    hashtags: "#kidsfashionshowvn, #kidsfashionshowua, #kfsua, #models"
+    hashtags: ""
   - username: "berezhnaya_nataliya"
     fullname: >-
       ♐️ MuzychkoNatali
     location: "Ukraine"
-    followers: 25312
-    engagement: 838
-    commentsToLikes: 0.039281
+    followers: 26575
+    engagement: 857
+    commentsToLikes: 0.045400
     id: ck135sb572zc20i19c3gwe0im
     verified: false
-    hashtags: "#happynewyear, #great, #mood, #exellent"
-  - username: "torythebest"
+    hashtags: "#wine, #doll, #memories, #real"
+  - username: "paco_rabanova"
     fullname: >-
-      Виктория Хода
+      Paco_Rabanova
     location: "Ukraine"
-    followers: 58115
-    engagement: 1058
-    commentsToLikes: 0.060900
-    id: ck5qdxhxxxqqh0i11k0rkvnw6
-    verified: false
-    hashtags: "#prmerul, #valentines, #crazy, #itsmylife"
-  - username: "roza_vasilishina"
-    fullname: >-
-      Roza Vasilishina
-    location: "Ukraine"
-    followers: 119222
-    engagement: 273
-    commentsToLikes: 0.048234
-    id: ck15tfh3zhtqb0i19y40m6xzi
-    verified: false
-    hashtags: "#odessa, #makeup, #girlpower"
-  - username: "tetya_mottya_"
-    fullname: >-
-      Екатерина Куличенко
-    location: "Ukraine"
-    followers: 66354
-    engagement: 1164
-    commentsToLikes: 0.016639
-    id: ck5hg1o200gof0i110hgrens8
-    verified: false
-    hashtags: "#fashionpost, #fashionlover, #birthright, #instastyle"
-  - username: "valerialauren"
-    fullname: >-
-      i am VALERIA
-    location: "Ukraine"
-    followers: 46353
-    engagement: 234
-    commentsToLikes: 0.136832
-    id: ck5c361qzyo2v0i11rr42evtu
-    verified: false
-    hashtags: "#dogs, #girls, #naturalovers, #beautyroutine"
-  - username: "sakalyova"
-    fullname: >-
-      ▫️SVETLANA SAKAL’
-    location: "Ukraine"
-    followers: 13244
-    engagement: 926
-    commentsToLikes: 0.041168
-    id: ck5c9e0lqb9dd0i11bf3n8600
-    verified: false
-    hashtags: "#tiktokukraine, #love, #khaleesi, #droneshmot"
-  - username: "kate_nhuen"
-    fullname: >-
-      Нгуен Катя
-    location: "Ukraine"
-    followers: 14346
-    engagement: 808
-    commentsToLikes: 0.040539
-    id: ck55kilgezdut0i118wl0ujtf
+    followers: 97290
+    engagement: 769
+    commentsToLikes: 0.028433
+    id: ck8syfouskoyd0j78sac2tkxo
     verified: false
     hashtags: ""
-  - username: "dashaalianova"
+  - username: "simply_nastya"
     fullname: >-
-      ᴅᴀsʜᴀ ᴀʟɪᴀɴᴏᴠᴀ ✨
+      
     location: "Ukraine"
-    followers: 2144
-    engagement: 1626
-    commentsToLikes: 0.092007
-    id: ck6u8e8kyr2kd0j71cyktck8s
+    followers: 11313
+    engagement: 840
+    commentsToLikes: 0.098701
+    id: ckap7tw7qljl60i78gb2bcw7p
     verified: false
-    hashtags: "#moscow, #odessafashionday, #reef, #russia"
-  - username: "stasyaana"
+    hashtags: "#commercialmodel, #modellife, #homeparty, #coronameme"
+  - username: "miss_juliar"
     fullname: >-
-      MAKE-UP ARTIST|MODEL
+      YULIIA RYBCHUK 🎬ХОЛ💍СТЯК 10🌹
     location: "Ukraine"
-    followers: 7948
-    engagement: 1113
-    commentsToLikes: 0.030918
-    id: ck8tcqnbm0ayk0j78wfm56930
+    followers: 82743
+    engagement: 357
+    commentsToLikes: 0.060781
+    id: ckap1wrdqweop0i786awq1x7y
     verified: false
-    hashtags: "#facetune, #vsco, #lotairlines, #zara"
+    hashtags: "#paris, #liketime"
+  - username: "tanya.bayer.cosplay"
+    fullname: >-
+      TANYA BAYER
+    location: "Ukraine"
+    followers: 40543
+    engagement: 836
+    commentsToLikes: 0.026915
+    id: ckaoygywbhhg60i78psf89pyi
+    verified: false
+    hashtags: ""
+  - username: "ulyana_brunette"
+    fullname: >-
+      🎀Ульяна🎀
+    location: "Ukraine"
+    followers: 15547
+    engagement: 1302
+    commentsToLikes: 0.026444
+    id: ck15qkdyh39v40i19kprd5ond
+    verified: false
+    hashtags: "#23"
+  - username: "_nanadi_"
+    fullname: >-
+      
+    location: "Ukraine"
+    followers: 15922
+    engagement: 498
+    commentsToLikes: 0.073599
+    id: ck8t52d7r8lk80j78syfa5bet
+    verified: false
+    hashtags: "#sunsetssunrises, #coronatime, #besafe, #summerathome"
 ---

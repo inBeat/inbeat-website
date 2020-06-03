@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Toronto In 2020
 description: >-
-  Find top models Instagram influencers in Toronto in 2020. Most popular hashtags: #fashion #toronto #model #photography.
+  Find top models Instagram influencers in Toronto in 2020. Most popular hashtags: #fashion #model #selflove #quarantine.
 platform: Instagram
 profiles:
   - username: "sasha_sheims"
     fullname: >-
       Sasha Holland
     location: "Canada"
-    followers: 2576
-    engagement: 1293
-    commentsToLikes: 0.066887
+    followers: 2573
+    engagement: 1282
+    commentsToLikes: 0.063673
     id: ck0vytb5d5olu0i199eez773x
     verified: false
-    hashtags: "#bestdayever, #jaclynandcampbell"
-  - username: "yolieyolandaxo"
+    hashtags: "#jaclynandcampbell, #bestdayever"
+  - username: "marineagleson"
     fullname: >-
-      Yolanda
+      Marina Paquin Eagleson
     location: "Canada"
-    followers: 15740
-    engagement: 436
-    commentsToLikes: 0.047830
-    id: ck8szv4sopts40j78v3zflmbw
+    followers: 25271
+    engagement: 370
+    commentsToLikes: 0.013555
+    id: ck0w333qkrd3e0i19oz7mafqy
     verified: false
-    hashtags: "#newyear2020"
-  - username: "dorrie.mack"
+    hashtags: "#lovelulus"
+  - username: "arinaaminovva"
     fullname: >-
-      Dorrie Mack
+      Arina Aminova 🇷🇺
     location: "Canada"
-    followers: 16042
-    engagement: 362
-    commentsToLikes: 0.032839
-    id: ck5zv1nvq3fgi0i14v7rtnpxy
+    followers: 9452
+    engagement: 487
+    commentsToLikes: 0.050446
+    id: ck138e6odfswu0i19moxptuut
     verified: false
-    hashtags: "#sunlight, #model, #toronto, #shadow"
-  - username: "nsbkim"
-    fullname: >-
-      Nancy
-    location: "Canada"
-    followers: 2919
-    engagement: 1258
-    commentsToLikes: 0.102024
-    id: ck14hxaffclpa0i19iftkbrua
-    verified: false
-    hashtags: "#iphone6, #cover, #2020, #headshots"
-  - username: "sedgvvick"
-    fullname: >-
-      Δ$†ЯiD (𝙰𝚂𝚃𝚁𝙸𝙳) 💋
-    location: "Canada"
-    followers: 25884
-    engagement: 849
-    commentsToLikes: 0.035364
-    id: ck14lb37jtrcn0i19thsimatp
-    verified: false
-    hashtags: "#torontofashion, #andywarhol, #royalontariomuseum, #influencer"
+    hashtags: "#divinefeminine, #stayathome, #fitnessjourney, #fitnessgoals"
   - username: "constance.angel"
     fullname: >-
       A N G E L   C O N S T A N C E
     location: "Canada"
-    followers: 52336
-    engagement: 505
-    commentsToLikes: 0.021523
+    followers: 52970
+    engagement: 489
+    commentsToLikes: 0.023967
     id: ck13c8xfiz64d0i19t6udft1x
     verified: false
-    hashtags: "#outfiteveryday, #jewelry, #potd, #morocco"
+    hashtags: "#playboy, #furniture, #lace, #runawaythelabel"
+  - username: "jennafergie19"
+    fullname: >-
+      Jenna Ferguson
+    location: "Canada"
+    followers: 30963
+    engagement: 168
+    commentsToLikes: 0.075307
+    id: ck8t9gkcuo0cr0j786f3cpp5j
+    verified: false
+    hashtags: "#picnicinthepark, #torontodream, #motivationmonday, #shocker"
+  - username: "killacamii"
+    fullname: >-
+      Camille Anne 🧿
+    location: "Canada"
+    followers: 7593
+    engagement: 517
+    commentsToLikes: 0.034465
+    id: ckap5m710caf30i78p4k6ms53
+    verified: false
+    hashtags: ""
   - username: "chanellep23"
     fullname: >-
       Chanelle Lee
     location: "Canada"
-    followers: 27608
-    engagement: 424
-    commentsToLikes: 0.024497
+    followers: 29029
+    engagement: 358
+    commentsToLikes: 0.027498
     id: ck5c7h4sv7j4k0i11ws6ie1od
     verified: false
-    hashtags: "#hotmessswimwear, #playadelcarmen, #hair, #life"
-  - username: "shalini_matt"
+    hashtags: "#tiedye, #thursday, #summertime, #carnivals"
+  - username: "pickeringfitness"
     fullname: >-
-      Shaluuu🌹
+      Christopher Pickering
     location: "Canada"
-    followers: 2726
-    engagement: 2940
-    commentsToLikes: 0.091320
-    id: ck6uernicsp5o0j71ntftvyov
+    followers: 26890
+    engagement: 203
+    commentsToLikes: 0.086315
+    id: ckaozztbpo5fv0i78iqghlmda
     verified: false
-    hashtags: "#models, #fashionnova, #fallshoots, #ootn"
-  - username: "prestigiousoul"
+    hashtags: "#zyzz, #nature, #mixer, #summer2020"
+  - username: "sharma_isha"
     fullname: >-
-      Sasha Khanna
+      Isha 🧿l 🕊l  York U Alumni 🎓
     location: "Canada"
-    followers: 10575
-    engagement: 225
-    commentsToLikes: 0.092371
-    id: ck134n94dx8rx0i19t2fhhyxl
+    followers: 2167
+    engagement: 1086
+    commentsToLikes: 0.223851
+    id: ck55mr8qu4kll0i11xrkyknkn
     verified: false
-    hashtags: "#parkinglot, #shehnaazgill, #cool, #delhi"
-  - username: "honey_opal"
+    hashtags: "#instaglam, #model, #design, #toronto"
+  - username: "thealikazmi"
     fullname: >-
-      V A N E S S A
+      Ali Kazmi
     location: "Canada"
-    followers: 7873
-    engagement: 1292
-    commentsToLikes: 0.037715
-    id: ck15t7ib9gpij0i19q9b39dg8
-    verified: false
-    hashtags: "#healthylifestyle, #quadworkout, #deadlift, #photographer"
+    followers: 79456
+    engagement: 182
+    commentsToLikes: 0.036460
+    id: ck5q2lslvgn7m0i11q4qio8eu
+    verified: true
+    hashtags: "#desidads, #rahatkazmi, #adiliqbal, #seaviewkarachi"
 ---

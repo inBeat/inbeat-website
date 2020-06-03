@@ -1,86 +1,76 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Philadelphia In 2020
 description: >-
-  Find top yoga Instagram influencers in Philadelphia in 2020. Most popular hashtags: #philadelphia #yoga #philly #quarantine.
+  Find top yoga Instagram influencers in Philadelphia in 2020. Most popular hashtags: #yoga #philadelphia #health #workfromhome.
 platform: Instagram
 profiles:
-  - username: "shainahumphries"
+  - username: "jordynhnasko"
     fullname: >-
-      Shaina Humphries
+      Jordyn Hnasko
     location: "United States"
-    followers: 12520
-    engagement: 744
-    commentsToLikes: 0.072894
-    id: ck134fr30w7t10i19tiqrtr2c
-    verified: true
-    hashtags: "#baseball, #stayhomechallenge, #naturalhairdaily, #florida"
-  - username: "michaelclarkphoto"
-    fullname: >-
-      Michael Clark
-    location: "United States"
-    followers: 107484
-    engagement: 286
-    commentsToLikes: 0.009796
-    id: ck0uc3ziufwsu0i193b6zebhy
+    followers: 11724
+    engagement: 443
+    commentsToLikes: 0.055772
+    id: ck5c989o6aymc0i1185gdw9rg
     verified: false
-    hashtags: "#angelfire, #himalaya, #visualizedoneizo, #wanaka"
+    hashtags: "#weekendplans, #blogpost, #fridayvibes, #pajamasallday"
   - username: "herphilly"
     fullname: >-
       Emily Tharp | Philly Blogger
     location: "United States"
-    followers: 5302
-    engagement: 564
-    commentsToLikes: 0.143004
+    followers: 5366
+    engagement: 598
+    commentsToLikes: 0.138128
     id: ck55l14o30ip60i11rkrdngp1
     verified: false
-    hashtags: "#whitneypose, #visitphilly, #phillyphilly, #herphilly"
-  - username: "highvol_tage"
+    hashtags: "#phillyspa, #cityliving, #chickentenders, #brunchgoals"
+  - username: "melissamking"
     fullname: >-
-      T-Agé Anadi
+      Mel👑🐰
     location: "United States"
-    followers: 3408
-    engagement: 1537
-    commentsToLikes: 0.095582
-    id: ck5hm5dqjle0e0i111uczg33q
+    followers: 96435
+    engagement: 142
+    commentsToLikes: 0.046224
+    id: ck5c92x0qaoe90i11jscozdtx
     verified: false
-    hashtags: "#allinmotion, #spinalflexibility, #cafe, #yogaeverydamnday"
-  - username: "kathyromano11"
-    fullname: >-
-      Kathy Romano
-    location: "United States"
-    followers: 40495
-    engagement: 455
-    commentsToLikes: 0.021594
-    id: ck0vx411ex19w0i1937wqo7wg
-    verified: false
-    hashtags: "#painting, #carolebaskin, #santaiknowhim, #lovethoseidiots"
+    hashtags: "#dewyskin, #squatday, #sandbar, #lakemead"
   - username: "willina.rodriguez"
     fullname: >-
       👑𝙒𝙞𝙡𝙡𝙞𝙣𝙖 𝙍𝙤𝙙𝙧𝙞𝙜𝙪𝙚𝙯 💋𝙈𝙤𝙙𝙚𝙡
     location: "United States"
-    followers: 5323
-    engagement: 464
-    commentsToLikes: 0.111359
+    followers: 5419
+    engagement: 504
+    commentsToLikes: 0.106957
     id: ck5hi5jzabrc00i111iv9ajx8
     verified: false
-    hashtags: "#sexy, #news, #paintingofme, #leathershoes"
-  - username: "aubrymarie"
+    hashtags: "#videomusical, #gracioso, #nosalgasdecasa, #ecuador"
+  - username: "beckannesisk"
     fullname: >-
-      Aubry Wiltcher
+      Beckanne Sisk
     location: "United States"
-    followers: 302991
-    engagement: 195
-    commentsToLikes: 0.021483
-    id: ck0ttfonl2ii00i19cyk6vzmf
+    followers: 52160
+    engagement: 379
+    commentsToLikes: 0.008492
+    id: ck1368a3d58fo0i19npumam2t
     verified: false
-    hashtags: "#yourturn, #tagafriend, #aloyoga, #meow"
+    hashtags: "#hungup, #madonna, #dancewear, #odette"
+  - username: "blackparentmagazine"
+    fullname: >-
+      Black Parent Magazine Inc.
+    location: "United States"
+    followers: 51605
+    engagement: 129
+    commentsToLikes: 0.061638
+    id: ck0tvkkcobrue0i197o886ugh
+    verified: false
+    hashtags: "#bhfyp, #funnyvideos, #yoga, #motherdaughter"
   - username: "lauramadelain"
     fullname: >-
       Laura Madelain
     location: "United States"
-    followers: 7240
-    engagement: 1035
-    commentsToLikes: 0.082339
+    followers: 7395
+    engagement: 1030
+    commentsToLikes: 0.090271
     id: ck5cftwfpnm150i11jkuis4hi
     verified: false
     hashtags: "#yoga"
@@ -88,20 +78,30 @@ profiles:
     fullname: >-
       Yoga
     location: "United States"
-    followers: 1600392
-    engagement: 121
-    commentsToLikes: 0.018206
+    followers: 1677842
+    engagement: 115
+    commentsToLikes: 0.019284
     id: ck0tvu6omcsz20i19guq45v3p
     verified: true
-    hashtags: "#backbend, #flexibility, #yogaposture, #friendship"
-  - username: "louiselieffering"
+    hashtags: "#wonderland, #namasleigh, #yogaforkids, #camelpose"
+  - username: "best.yoga"
     fullname: >-
-      YOGA BY LOU.       ✧  🪐
+      YOGA
     location: "United States"
-    followers: 7317
-    engagement: 1423
-    commentsToLikes: 0.246094
-    id: ck6tzhw6d9sqp0j71ldybn9o1
+    followers: 185698
+    engagement: 135
+    commentsToLikes: 0.009566
+    id: ck0u88i936ql80i19hmna0zb9
     verified: false
-    hashtags: ""
+    hashtags: "#yogaprops, #staystrong, #highervibes, #yogagirls"
+  - username: "babysmokes_"
+    fullname: >-
+      | B A B Y |
+    location: "United States"
+    followers: 5826
+    engagement: 1615
+    commentsToLikes: 0.181864
+    id: ck6uh0fxu69bs0j712opan5fr
+    verified: false
+    hashtags: "#easterbunny, #medicalcannabis, #cannafam, #gutterball"
 ---

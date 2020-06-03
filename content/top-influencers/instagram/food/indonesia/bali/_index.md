@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Bali In 2020
 description: >-
-  Find top food Instagram influencers in Bali in 2020. Most popular hashtags: #bali #balilife #lifestyle #food.
+  Find top food Instagram influencers in Bali in 2020. Most popular hashtags: #beach #baby #food #healthyfood.
 platform: Instagram
 profiles:
   - username: "alenika_pro"
     fullname: >-
       🔥Фитнес ТРЕНЕР ОНЛАЙН🔥ДИЕТОЛОГ
     location: "Indonesia"
-    followers: 52769
-    engagement: 187
-    commentsToLikes: 0.018527
+    followers: 51481
+    engagement: 91
+    commentsToLikes: 0.035807
     id: ck5hokoj1pq850i11manr37sm
     verified: false
-    hashtags: "#flywithbaby, #swimwear, #blogger, #motivation"
-  - username: "passiondupain"
+    hashtags: "#modelbali, #balitravel, #pool, #blogger"
+  - username: "bellmando"
     fullname: >-
-      ᗩlexandra ♡ Muller
+      Anton Bilukha 📍 Bali
     location: "Indonesia"
-    followers: 20493
-    engagement: 191
-    commentsToLikes: 0.029666
-    id: ck5zwtu9y6r8y0i14qxfhprdh
+    followers: 43537
+    engagement: 201
+    commentsToLikes: 0.012660
+    id: ck0vyhd2b405h0i19lwpbqmgq
     verified: false
-    hashtags: "#riceterrace, #rawvegan, #gamechangers, #balitrip"
+    hashtags: "#trackandfield, #onlinecoaching, #homeworkout, #fitnessjourney"
   - username: "deaaristadewi"
     fullname: >-
       Travelwithdea
     location: "Indonesia"
-    followers: 16121
-    engagement: 233
-    commentsToLikes: 0.014895
+    followers: 16035
+    engagement: 235
+    commentsToLikes: 0.014898
     id: ck5hm0rfkl6vi0i110wcprh9a
     verified: false
-    hashtags: "#goodvibesonly, #ootdmagazine, #couplesgoals, #holiday"
-  - username: "bybashair"
+    hashtags: "#couplegoals, #sunsetbeach, #instagood, #mood"
+  - username: "kuipersnick"
     fullname: >-
-      بشاير • جدة Jeddah •
+      Nick Kuipers
     location: "Indonesia"
-    followers: 81456
-    engagement: 273
-    commentsToLikes: 0.089398
-    id: ck55nwkn275590i11xb4rw97j
-    verified: false
-    hashtags: "#balicili, #jeddah, #sosi, #uniladadventure"
-  - username: "enjoyyourself.movement"
+    followers: 376153
+    engagement: 1905
+    commentsToLikes: 0.011995
+    id: ck0tyzo4qojr30i19ybgkpk4t
+    verified: true
+    hashtags: "#watch, #terimakasih, #adodenhaag, #giveaway"
+  - username: "arifwhy"
     fullname: >-
-      Mestre.xuxo
+      Bumbu Indomie
     location: "Indonesia"
-    followers: 58570
-    engagement: 295
-    commentsToLikes: 0.029129
-    id: ck5zqe5usufw00i143bnnb053
+    followers: 4935
+    engagement: 413
+    commentsToLikes: 0.027964
+    id: ck13bdl1qux2u0i19gp4m087d
     verified: false
-    hashtags: "#reactions, #train, #amor, #acrobatics"
-  - username: "simplysue"
-    fullname: >-
-      Surya Rahmanty (SR)
-    location: "Indonesia"
-    followers: 21559
-    engagement: 288
-    commentsToLikes: 0.008506
-    id: ck13bg45nv9bi0i199j4iynv6
-    verified: false
-    hashtags: "#rendang, #malaybridal, #clapchallenge, #silly"
+    hashtags: "#mascott, #parasite, #barong, #artobiantoro"
   - username: "palakjain786"
     fullname: >-
       Palak Jain
     location: "Indonesia"
-    followers: 103038
-    engagement: 553
-    commentsToLikes: 0.005494
+    followers: 103836
+    engagement: 537
+    commentsToLikes: 0.006404
     id: ck0w0zfu5gss70i19jmnojq16
     verified: true
-    hashtags: "#coffeeplantation, #ubud, #nature, #coffeetasting"
+    hashtags: "#ubud, #nest, #zee5, #coffeeplantation"
+  - username: "balilifefood"
+    fullname: >-
+      Bali Life Food
+    location: "Indonesia"
+    followers: 118818
+    engagement: 207
+    commentsToLikes: 0.011693
+    id: ck0ud1vlri7vm0i19fzchql7a
+    verified: false
+    hashtags: "#buongiornocos"
+  - username: "wiolettatuschnio"
+    fullname: >-
+      vegan ⦙ health ⦙ sustainable
+    location: "Indonesia"
+    followers: 16829
+    engagement: 611
+    commentsToLikes: 0.059006
+    id: ck0ttg76y2kre0i19q8ixjxqe
+    verified: false
+    hashtags: "#sustainability, #selfcare, #granola, #vegansnack"
+  - username: "evelynegreselda"
+    fullname: >-
+      Evelyn👑
+    location: "Indonesia"
+    followers: 15857
+    engagement: 171
+    commentsToLikes: 0.011932
+    id: ck5q0p51r72fd0i11i3v5c5n4
+    verified: false
+    hashtags: "#hainanisland, #summeroutfit, #photographylovers, #christmas"
   - username: "chefpriscilofficial"
     fullname: >-
       Priscilya Princessa 🏹
     location: "Indonesia"
-    followers: 77000
+    followers: 77194
     engagement: 214
-    commentsToLikes: 0.023678
+    commentsToLikes: 0.023675
     id: ck13cz5xt2uzc0i19o3k5fw2i
     verified: true
-    hashtags: "#dapurseru, #dirumahaja, #sanguan"
-  - username: "christina_chandraa"
-    fullname: >-
-      𝕮𝖍𝖗𝖎𝖘𝖙𝖎𝖓𝖆 𝖈𝖍𝖆𝖓𝖉𝖗𝖆
-    location: "Indonesia"
-    followers: 27858
-    engagement: 278
-    commentsToLikes: 0.393081
-    id: ck8t0gbe7rytw0j78yib1ck3c
-    verified: false
-    hashtags: "#beauty, #throwback, #serum, #lifestylebloggers"
-  - username: "shantal_indo"
-    fullname: >-
-      Shantal 🎞▫️𝚟𝚒𝚜𝚞𝚊𝚕 𝚜𝚝𝚘𝚛𝚢𝚝𝚎𝚕𝚕𝚎𝚛
-    location: "Indonesia"
-    followers: 62602
-    engagement: 208
-    commentsToLikes: 0.021591
-    id: ck5bvmi3ejyd30i11g8gbh6zj
-    verified: false
-    hashtags: "#yogateacher, #wakeupandrun, #gosurfing, #tenerifeisland"
+    hashtags: "#dapurseru, #dirumahaja, #sanguan, #socialdistancing"
 ---

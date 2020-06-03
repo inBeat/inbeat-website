@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Austin In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Austin in 2020. Most popular hashtags: #liketkit #ltkunder50 #houston #sponsored.
+  Find top lifestyle Instagram influencers in Austin in 2020. Most popular hashtags: #stayhome #lifestyle #smile #texas.
 platform: Instagram
 profiles:
-  - username: "justaconstructionguy"
+  - username: "mashamodels"
     fullname: >-
-      Omar
+      Masha
     location: "United States"
-    followers: 469394
-    engagement: 650
-    commentsToLikes: 0.006169
-    id: ck6tlt6qu6lga0j71d9eu6h0j
-    verified: true
-    hashtags: "#flattenthecurve, #washyourdamnhands, #stayhome, #flattenthecurve"
-  - username: "pingzer"
-    fullname: >-
-      Pierce Ingram
-    location: "United States"
-    followers: 8396
-    engagement: 626
-    commentsToLikes: 0.028714
-    id: ck0tyciermf8g0i19u56va0s3
+    followers: 23131
+    engagement: 402
+    commentsToLikes: 0.048523
+    id: ck6u1cmsfkxx00j71efyx0gqq
     verified: false
-    hashtags: "#texas, #westtexas, #selfdistancing"
+    hashtags: "#selfisolation, #advancedselfie, #minimalistic, #houstonstudios"
   - username: "jessicarockowitz"
     fullname: >-
       Austin Lifestyle Photographer
     location: "United States"
-    followers: 29962
-    engagement: 245
-    commentsToLikes: 0.054596
+    followers: 30936
+    engagement: 233
+    commentsToLikes: 0.046760
     id: ck5hip3ehenks0i11vphxvgyk
     verified: false
-    hashtags: "#pleaseandthankyou, #radiantsoulyosemite, #followfriday, #momswithcameras"
+    hashtags: "#hellostoryteller, #pleaseandthankyou, #ihaveaproblem, #clickinmoms"
+  - username: "justaconstructionguy"
+    fullname: >-
+      Omar
+    location: "United States"
+    followers: 457302
+    engagement: 627
+    commentsToLikes: 0.006550
+    id: ck6tlt6qu6lga0j71d9eu6h0j
+    verified: true
+    hashtags: "#kobalttools, #pickupthepower, #sponsored, #sb54"
+  - username: "goodness_with_g"
+    fullname: >-
+      Georgia Thompson
+    location: "United States"
+    followers: 5976
+    engagement: 1255
+    commentsToLikes: 0.328977
+    id: ck135fy7j18410i196ja6ww8d
+    verified: false
+    hashtags: "#snapmyway, #dailyharvest, #cincodemayo, #snaplife"
+  - username: "pingzer"
+    fullname: >-
+      Pierce Ingram
+    location: "United States"
+    followers: 8470
+    engagement: 687
+    commentsToLikes: 0.025345
+    id: ck0tyciermf8g0i19u56va0s3
+    verified: false
+    hashtags: "#stayathome, #covid19, #texas, #westtexas"
+  - username: "janehkim"
+    fullname: >-
+      j a n e | austin, tx
+    location: "United States"
+    followers: 2746
+    engagement: 1080
+    commentsToLikes: 0.055126
+    id: ckaor9cb6m9uz0i78yut93t4i
+    verified: false
+    hashtags: "#23, #janetakeskorea, #janetakescali, #janetakesaustin"
+  - username: "dom_blan"
+    fullname: >-
+      Dom 🔹🔸
+    location: "United States"
+    followers: 88782
+    engagement: 748
+    commentsToLikes: 0.013877
+    id: ck134jcrpwpoo0i19ifgvkdht
+    verified: false
+    hashtags: "#hugoboss, #plants, #puppyeyes, #preview"
   - username: "sara_wilson1"
     fullname: >-
       Sara Wilson | Film TV Model
     location: "United States"
-    followers: 114291
-    engagement: 519
-    commentsToLikes: 0.037335
+    followers: 114707
+    engagement: 520
+    commentsToLikes: 0.037465
     id: ck5zornu9r6rr0i14rmq49w55
     verified: false
-    hashtags: "#thankful, #passion, #naturalaquagelcure, #tipsfortoday"
-  - username: "vy.primozich"
+    hashtags: "#cota, #theeverygirl, #coronavirus, #catchmeinside"
+  - username: "onechelofanadventure"
     fullname: >-
-      Vy Primozich
+      Chelsea Bancroft | ATX
     location: "United States"
-    followers: 22368
-    engagement: 211
-    commentsToLikes: 0.023151
-    id: ck0ud1uc2i7rd0i193uk3q97v
+    followers: 62418
+    engagement: 116
+    commentsToLikes: 0.091224
+    id: ck135fy6g183c0i196njizvzw
     verified: false
-    hashtags: "#happiness, #coloradooutdoors, #positiveparenting, #wellness"
-  - username: "mckennamalonemolt"
+    hashtags: "#grocerystyle, #myheb, #mazda, #utahisrad"
+  - username: "beatdemons"
     fullname: >-
-      MCKENNA MOLT ♡
+      BEATDEMONS.COM
     location: "United States"
-    followers: 6599
-    engagement: 857
-    commentsToLikes: 0.045508
-    id: ck13bo8drwd2i0i198t165fob
+    followers: 35021
+    engagement: 328
+    commentsToLikes: 0.049156
+    id: ck5hq509qsie70i11cosi98py
     verified: false
-    hashtags: "#lollipopbabymonitor, #lollipopbabycamera, #liketkit, #ltkunder50"
-  - username: "marlonaltirs"
-    fullname: >-
-      Marlon Altirs
-    location: "United States"
-    followers: 49634
-    engagement: 140
-    commentsToLikes: 0.072939
-    id: ck8t0r6yoszqd0j784hazbigz
-    verified: false
-    hashtags: "#loveher, #life, #carinstagram, #carporn"
-  - username: "michelejaliene"
-    fullname: >-
-      𝐌𝐈𝐂𝐇𝐄𝐋𝐄 𝐉
-    location: "United States"
-    followers: 24549
-    engagement: 360
-    commentsToLikes: 0.150922
-    id: ck5hrca49umsd0i116ukbd0cf
-    verified: false
-    hashtags: "#cozystyle, #officeathome, #neutraldecorating, #pajamastyle"
-  - username: "wearshetraveled"
-    fullname: >-
-      𝙺 𝙰 𝚃 ♥ 𝙵𝚊𝚜𝚑𝚒𝚘𝚗 𝙱𝚕𝚘𝚐𝚐𝚎𝚛
-    location: "United States"
-    followers: 20473
-    engagement: 382
-    commentsToLikes: 0.153775
-    id: ck8sz2kh5mxnw0j7899zr7e6c
-    verified: false
-    hashtags: "#mejuri, #quarantineandchill, #happyfridayeve, #happymonday"
-  - username: "shelbsswigart"
-    fullname: >-
-      Curls & Pearls, Shelby Swigart
-    location: "United States"
-    followers: 5738
-    engagement: 1058
-    commentsToLikes: 0.063168
-    id: ck8sz4rthn5oj0j78co5w8ina
-    verified: false
-    hashtags: "#ltkstyletip, #21, #ltkhome, #montrosestudios"
+    hashtags: "#studiolife, #musicians, #caption, #lifestyle"
 ---

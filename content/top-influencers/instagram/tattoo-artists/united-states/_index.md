@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In United States In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in United States in 2020. Most popular hashtags: #tattoo #newyork #slaves #inkedmag.
+  Find top tattoo-artists Instagram influencers in United States in 2020. Most popular hashtags: #fuckcovid19 #portrait #realism #staysafe.
 platform: Instagram
 profiles:
-  - username: "devonslaves"
-    fullname: >-
-      Devon
-    location: "United States"
-    followers: 11322
-    engagement: 757
-    commentsToLikes: 0.099052
-    id: ck5ckzszvxy8p0i11dp0grppm
-    verified: false
-    hashtags: "#nikeairjordan, #sneakerhead, #sneakerfreaker, #tattooseverywhere"
-  - username: "theglamgoth"
-    fullname: >-
-      ‪💋 𝔐𝔞𝔯𝔩𝔢𝔶
-    location: "United States"
-    followers: 29934
-    engagement: 864
-    commentsToLikes: 0.027100
-    id: ck5cghjfvout40i115ugcheso
-    verified: false
-    hashtags: "#tigerking, #benefitbrows, #glamourweenvol2, #glamgoth"
   - username: "rockrollg"
     fullname: >-
       Herchell L Carrasco
     location: "United States"
-    followers: 98777
-    engagement: 648
-    commentsToLikes: 0.020366
+    followers: 98512
+    engagement: 660
+    commentsToLikes: 0.021267
     id: ck5c61u8j4juy0i11fqeje6xz
     verified: true
-    hashtags: "#pachucotattoo, #maschingon, #mambamentality"
+    hashtags: "#mambamentality, #pachucotattoo, #maschingon"
   - username: "swat_mtoto_wa_eunice"
     fullname: >-
       MTOTO WA EUNICE
     location: "United States"
-    followers: 88584
-    engagement: 1144
-    commentsToLikes: 0.020446
+    followers: 101688
+    engagement: 950
+    commentsToLikes: 0.022140
     id: ck5cd8o11iqak0i111z67x3ti
     verified: false
-    hashtags: "#https, #mbogi"
+    hashtags: "#mbogi, #https, #stayhomestaysafe, #keep"
+  - username: "devonslaves"
+    fullname: >-
+      Devon
+    location: "United States"
+    followers: 11187
+    engagement: 699
+    commentsToLikes: 0.099437
+    id: ck5ckzszvxy8p0i11dp0grppm
+    verified: false
+    hashtags: "#streetgymsa, #slaves, #kicksonlock, #airjordan1"
   - username: "brandochiesa"
     fullname: >-
       Brando Chiesa
     location: "United States"
-    followers: 819284
-    engagement: 818
-    commentsToLikes: 0.011310
+    followers: 844730
+    engagement: 804
+    commentsToLikes: 0.011115
     id: ck55pdbauabl20i11jqqhap9a
     verified: true
-    hashtags: "#jurassicpark, #sailormoon, #digimon, #pokemon"
-  - username: "theartofreese"
+    hashtags: "#digimon, #finalfantasy7, #pokemon, #deathnote"
+  - username: "getnmoney"
     fullname: >-
-      Reese Hilburn: Artist/Educator
+      PRETTY PAPI ⚜️ONE & ONLY ⚜️
     location: "United States"
-    followers: 86399
-    engagement: 267
-    commentsToLikes: 0.032883
-    id: ck5hhe5ud7rbo0i11e9bmwgnr
+    followers: 17729
+    engagement: 274
+    commentsToLikes: 0.097404
+    id: ck6tk550840xf0j71bg2amc5h
     verified: false
-    hashtags: "#mindbodysoul, #gratefulapril2020"
-  - username: "lange_tattoo"
+    hashtags: "#mindovermatter, #tattooideas, #repost, #lookcute"
+  - username: "maryjtattoo"
     fullname: >-
-      George Lange
+      Mary J
     location: "United States"
-    followers: 58431
-    engagement: 256
-    commentsToLikes: 0.038848
-    id: ck5q7wq4g3ema0i11d431a5my
+    followers: 9555
+    engagement: 1678
+    commentsToLikes: 0.010692
+    id: ck8t9ipylo8sy0j784ywmt7dg
     verified: false
-    hashtags: "#newarktattoo, #batman, #langetattoo, #katrina"
-  - username: "antthaxton"
+    hashtags: "#gameofthrones, #growlith, #tattooartist, #forestspirits"
+  - username: "shaughnessy"
     fullname: >-
-      Ant Thaxton
+      SHAUGHNESSY OTSUJI
     location: "United States"
-    followers: 20877
-    engagement: 407
-    commentsToLikes: 0.025031
-    id: ck6tiswje1d1a0j719hi5hkt8
+    followers: 103174
+    engagement: 206
+    commentsToLikes: 0.044480
+    id: ck0twgwxefbsd0i19lfbrm1l6
     verified: false
-    hashtags: "#ripkobe, #antthax, #antthaxton, #llkb"
+    hashtags: "#tunnelwalkchallenge, #bathtubchallenge, #somewheresunnier, #ocinlimitless"
+  - username: "carlotah_sandiego"
+    fullname: >-
+      Carla Ricci
+    location: "United States"
+    followers: 3625
+    engagement: 3527
+    commentsToLikes: 0.022714
+    id: ckaosxfqxtgfg0i78mv5aisdy
+    verified: false
+    hashtags: "#colors, #graphite, #sandiego, #details"
   - username: "kattatgirl"
     fullname: >-
       Kat Tat
     location: "United States"
-    followers: 1203176
-    engagement: 224
-    commentsToLikes: 0.012605
+    followers: 1222801
+    engagement: 247
+    commentsToLikes: 0.017401
     id: ck6tisvfu1cza0j71vwkdzt3e
     verified: true
-    hashtags: "#luxury, #art, #cucolorblast, #beverlyhills"
-  - username: "felipeblackink"
+    hashtags: "#latattooshop, #girldad, #luxurylifestyle, #tattoosofinstagram"
+  - username: "zeke.tattoo"
     fullname: >-
-      Felipe Soares
+      Zeke Yip
     location: "United States"
-    followers: 28327
-    engagement: 233
-    commentsToLikes: 0.029791
-    id: ck0w0uikkg3j00i19mouxpeac
+    followers: 29234
+    engagement: 540
+    commentsToLikes: 0.018479
+    id: ck9ha5lmrb8wm0j78hvf12frs
     verified: false
-    hashtags: "#freehandtattoo, #hawaiiantattoo, #sandiegotattoo, #sandiegotattooartist"
+    hashtags: "#sushicraving, #surrealart, #sp5k"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Manchester In 2020
 description: >-
-  Find top fashion Instagram influencers in Manchester in 2020. Most popular hashtags: #manchester #ootd #fashion #fashionblogger.
+  Find top fashion Instagram influencers in Manchester in 2020. Most popular hashtags: #fashion #manchester #quarantine #orange.
 platform: Instagram
 profiles:
-  - username: "__shariyaa"
+  - username: "heathermacfarlane"
     fullname: >-
-      Shariya🤍
+      h
     location: "United Kingdom"
-    followers: 11962
-    engagement: 1283
-    commentsToLikes: 0.058254
-    id: ck55ivnfkvnp20i11q8sxbrr5
+    followers: 5321
+    engagement: 2650
+    commentsToLikes: 0.433301
+    id: ckaowpv8a9x600i78tispqk8m
     verified: false
-    hashtags: "#pakistanfashionweek, #neon, #ad, #lipgloss"
+    hashtags: "#dancephotography, #lingerie, #peakdistrict, #wakeskincare"
+  - username: "dominiquebinns"
+    fullname: >-
+      Dominique Binns🖖🏽
+    location: "United Kingdom"
+    followers: 39504
+    engagement: 195
+    commentsToLikes: 0.060204
+    id: ck55q9fr1cgmu0i11oh0dgsws
+    verified: false
+    hashtags: "#lockdownlife, #skiing, #saturday, #firstworldprobs"
   - username: "ellenbrockygirl"
     fullname: >-
       Ellen Brockbank
     location: "United Kingdom"
-    followers: 50052
-    engagement: 194
-    commentsToLikes: 0.027268
+    followers: 50582
+    engagement: 235
+    commentsToLikes: 0.056621
     id: ck5zoywb4rnc90i14ua9qlhfl
     verified: false
-    hashtags: "#makeupinspo, #manchesterhome, #outfit, #facemask"
-  - username: "rosiefinlan"
+    hashtags: "#beautybay, #desenio, #housegoals, #competition"
+  - username: "revkarthi.aj"
     fullname: >-
-      Make Up Artist In Manchester
+      Revathi
     location: "United Kingdom"
-    followers: 25622
-    engagement: 308
-    commentsToLikes: 0.064516
-    id: ck5hrofdfv7gh0i11nundz43x
+    followers: 113313
+    engagement: 207
+    commentsToLikes: 0.022208
+    id: ckap7vd2slq360i78ya1a8m3s
     verified: false
-    hashtags: "#browsoftheday, #lipstick, #instabeauty, #makeupraffle"
-  - username: "kingjayhilll"
+    hashtags: "#fendibag, #guccigirl, #stayathome, #manoloblahnikheels"
+  - username: "amirrsofficial"
     fullname: >-
-      Jay Hill
+      ☁️AMIR NEMBHARD☁️
     location: "United Kingdom"
-    followers: 15697
-    engagement: 152
-    commentsToLikes: 0.037855
-    id: ck5bx700hn4hm0i11iolqt9e5
+    followers: 13934
+    engagement: 537
+    commentsToLikes: 0.014423
+    id: ck13976x7jvnc0i19y8rjnfcz
     verified: false
-    hashtags: "#streetfashion, #pinkhair, #pastelpink, #beige"
-  - username: "abbixworth"
-    fullname: >-
-      Abbie Worth
-    location: "United Kingdom"
-    followers: 15318
-    engagement: 951
-    commentsToLikes: 0.043663
-    id: ck5hejmdyt9360i11d2fxlvw6
-    verified: false
-    hashtags: "#clubllondon, #internationalwomensday, #misspapmuse, #misspapstayhomedressup"
-  - username: "reganwalker96"
-    fullname: >-
-      Regan Walker
-    location: "United Kingdom"
-    followers: 42155
-    engagement: 638
-    commentsToLikes: 0.016997
-    id: ck5hfyboizyn60i11k6xorl3l
-    verified: false
-    hashtags: "#sdmyway, #jdnb720, #meinjd, #ad"
+    hashtags: "#idealofsweden, #fashion, #wherewasi, #manchester"
   - username: "justleftmyforties_"
     fullname: >-
       My Daily Fashion/beauty
     location: "United Kingdom"
-    followers: 9279
-    engagement: 486
-    commentsToLikes: 0.674746
+    followers: 9626
+    engagement: 475
+    commentsToLikes: 0.572289
     id: ck0vzqhn8aej20i199f57tn5n
     verified: false
-    hashtags: "#tuesdayfashiontrends, #toesout, #haircareproducts, #neverknowinglyunderdressed"
-  - username: "leahgracefitness"
+    hashtags: "#summervibes, #snakeprint, #ukinstablogger, #adidas"
+  - username: "itsbenwalker"
     fullname: >-
-      Leah Grace | Fitness & Food
+      𝐁𝐄𝐍 𝐖𝐀𝐋𝐊𝐄𝐑
     location: "United Kingdom"
-    followers: 49833
-    engagement: 466
-    commentsToLikes: 0.134392
-    id: ck8t21z5cxxd80j786z7q5dpk
+    followers: 2382
+    engagement: 1726
+    commentsToLikes: 0.046929
+    id: ckaosazikqx180i78t9l373r5
     verified: false
-    hashtags: "#teamdye, #leaveyourmark, #doyoueven"
-  - username: "simplybycarole"
+    hashtags: "#thebodyshopuk, #farfetchfind, #workfromhomefits, #thebodyshop"
+  - username: "lucy_may_ireland"
     fullname: >-
-      CAROLE | Student Nurse Bae 💉
+      Lucy May Ireland
     location: "United Kingdom"
-    followers: 16650
-    engagement: 421
-    commentsToLikes: 0.090107
-    id: ck5cj978ju8yj0i11frpp1go1
+    followers: 6206
+    engagement: 565
+    commentsToLikes: 0.031485
+    id: ckaowrg0ra48m0i78lj1fepi2
     verified: false
-    hashtags: "#african, #urbanchic, #fabric, #ankaradress"
-  - username: "modestmira_"
+    hashtags: "#babiesofinstagram, #hazelnut, #treat, #pregnant"
+  - username: "rosiefinlan"
     fullname: >-
-      AMIRA 👓
+      Make Up Artist In Manchester
     location: "United Kingdom"
-    followers: 74003
-    engagement: 203
-    commentsToLikes: 0.024744
-    id: ck0uea1ekkx330i192o3gauaz
+    followers: 25237
+    engagement: 278
+    commentsToLikes: 0.105823
+    id: ck5hrofdfv7gh0i11nundz43x
     verified: false
-    hashtags: "#happytime, #nudestyle, #stylediary, #blue"
+    hashtags: "#love, #cosmetics, #makeupart, #maccosmetics"
+  - username: "x_trintrinbaby"
+    fullname: >-
+      
+    location: "United Kingdom"
+    followers: 7684
+    engagement: 650
+    commentsToLikes: 0.075488
+    id: ckaoz2kr2k3s00i78t3bjuwx9
+    verified: false
+    hashtags: "#sunglasses, #natural, #braids, #hairjourney"
 ---

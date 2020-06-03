@@ -1,87 +1,97 @@
 ---
 title: Top 10 Comedians Instagram Influencers In South Africa In 2020
 description: >-
-  Find top comedians Instagram influencers in South Africa in 2020. Most popular hashtags: #southafrica #comedy #gautengcares #beproactive.
+  Find top comedians Instagram influencers in South Africa in 2020. Most popular hashtags: #photography #quarantine #tfoa #africaday.
 platform: Instagram
 profiles:
-  - username: "golden_hny"
-    fullname: >-
-      N A R D O S 🍯
-    location: "South Africa"
-    followers: 5461
-    engagement: 1245
-    commentsToLikes: 0.061159
-    id: ck8tcekxaz7hh0j78nryqtc01
-    verified: false
-    hashtags: "#2020vibe, #golden, #lagos, #beach"
   - username: "lumka_lumkile"
     fullname: >-
       lumka
     location: "South Africa"
-    followers: 69363
-    engagement: 381
-    commentsToLikes: 0.030658
+    followers: 76538
+    engagement: 305
+    commentsToLikes: 0.029260
     id: ck5cdvv6ujvmq0i11gjk1rtu0
     verified: false
-    hashtags: "#coronavirus, #mcduties, #prettyfunnylumka"
-  - username: "samuperty_zulu"
+    hashtags: "#stayathome, #stayhome, #day17lockdown, #comedyinsa"
+  - username: "trevornoah"
     fullname: >-
-      Pertunia  Samukelisiwe Zulu
+      Trevor Noah
     location: "South Africa"
-    followers: 37283
-    engagement: 508
-    commentsToLikes: 0.025727
-    id: ck5zu2qjq1kkr0i14qr4v3q5t
-    verified: false
-    hashtags: "#nofilter, #sandton, #world, #tiktok"
-  - username: "chenjeu_tz"
+    followers: 6042498
+    engagement: 346
+    commentsToLikes: 0.061740
+    id: ck0tuslgl8ji20i19yygficbe
+    verified: true
+    hashtags: "#21andover, #ad, #dankiemzansi, #matchinafrica"
+  - username: "ryangallaghergram"
     fullname: >-
-      Chenjeu..!🐵
+      Ryan Gallagher
     location: "South Africa"
-    followers: 46711
-    engagement: 138
-    commentsToLikes: 0.072327
-    id: ck5pxctl0r61s0i11xs17qq5q
-    verified: false
-    hashtags: "#vunjambavu, #levelsbaby, #bongotrendings, #tumewaburuzanjendani"
+    followers: 234088
+    engagement: 368
+    commentsToLikes: 0.027989
+    id: ck5q5r98hu7ls0i11yyh37viv
+    verified: true
+    hashtags: "#giraffe, #vbs, #tinder"
   - username: "vafafrica"
     fullname: >-
       Vafa Naraghi
     location: "South Africa"
-    followers: 16853
-    engagement: 680
-    commentsToLikes: 0.061476
+    followers: 17053
+    engagement: 627
+    commentsToLikes: 0.056745
     id: ck14gt3dr6w0f0i190ajb4o76
     verified: false
-    hashtags: "#tswana, #southafrica, #rugbycommentary, #worldcup"
+    hashtags: "#sona, #wednesday, #staysafe, #grooming"
   - username: "thefoxhimself"
     fullname: >-
       Foxy P
     location: "South Africa"
-    followers: 72073
-    engagement: 100
-    commentsToLikes: 0.068970
+    followers: 71193
+    engagement: 107
+    commentsToLikes: 0.067528
     id: ck5pxdc4hr8py0i11fhp1t1fv
     verified: false
-    hashtags: "#primeministertoutnation, #headcheftoutkitchen, #africanprincesofcomedy, #onedayatatime"
-  - username: "jasongoliath"
+    hashtags: "#toutnation, #yesfadaconfam, #netflixbyforceorfire, #comedymoney"
+  - username: "dullvani"
     fullname: >-
-      Jason Goliath
+      DULLVANI 👑
     location: "South Africa"
-    followers: 25945
-    engagement: 77
-    commentsToLikes: 0.048685
-    id: ck5hpufg0rzks0i11ahcdjdz6
+    followers: 1362159
+    engagement: 113
+    commentsToLikes: 0.024276
+    id: ck14j3mx6igsx0i19ey7slkdo
     verified: false
-    hashtags: "#manstruation, #forbayfit, #21for21, #alonetogether"
+    hashtags: "#2020project, #ashuachallenge, #burudani, #orange"
   - username: "thatninahastie"
     fullname: >-
       Nina Hastie
     location: "South Africa"
-    followers: 86000
-    engagement: 52
-    commentsToLikes: 0.058222
+    followers: 87677
+    engagement: 88
+    commentsToLikes: 0.052038
     id: ck6tpaphtiroi0j71ud52zdsr
     verified: true
-    hashtags: "#quarantine, #gautengcares, #lockdownsouthafrica, #gautengcares"
+    hashtags: "#moneyheist, #casadepapel, #itcanbe, #tiktok"
+  - username: "theafricancreative"
+    fullname: >-
+      The African Creative
+    location: "South Africa"
+    followers: 47099
+    engagement: 244
+    commentsToLikes: 0.016953
+    id: ckaorsug2olq90i78z4ihj2f2
+    verified: false
+    hashtags: "#dynamicafrica, #londonphotographer, #africanartist, #atlantaphotographer"
+  - username: "dina___adonay"
+    fullname: >-
+      DANAYIT BG
+    location: "South Africa"
+    followers: 2115
+    engagement: 1220
+    commentsToLikes: 0.054640
+    id: ck9ha030uanqw0j78zyjyiffo
+    verified: false
+    hashtags: "#wogenechallenge, #tb"
 ---

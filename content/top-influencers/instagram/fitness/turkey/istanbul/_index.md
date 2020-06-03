@@ -1,49 +1,59 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Istanbul In 2020
 description: >-
-  Find top fitness Instagram influencers in Istanbul in 2020. Most popular hashtags: #istanbul #fitness #turkey #lifestyle.
+  Find top fitness Instagram influencers in Istanbul in 2020. Most popular hashtags: #fitness #istanbul #fitnesslife #streetstyle.
 platform: Instagram
 profiles:
-  - username: "gulaymeyz"
+  - username: "aliozturk_official"
     fullname: >-
-      ♥ GüLay Nur ♥
+      A L İ  Ö Z T Ü R K
     location: "Turkey"
-    followers: 18483
-    engagement: 1229
-    commentsToLikes: 0.145552
-    id: ck8t477f65qj90j78ea8vvpho
+    followers: 11196
+    engagement: 1777
+    commentsToLikes: 0.089491
+    id: ck9wfo11lppdp0j78pxyu8j38
     verified: false
-    hashtags: "#video, #ke, #foodporn, #fashionblogger"
-  - username: "el_benna_salem"
+    hashtags: "#esenyut, #diyarbak, #ingiltere, #hevler"
+  - username: "soldierofthewar"
     fullname: >-
-      Salem El Benna
+      Ersin
     location: "Turkey"
-    followers: 27505
-    engagement: 295
-    commentsToLikes: 0.024983
-    id: ck0u7jf884yjy0i19nbjj3686
+    followers: 6881
+    engagement: 1960
+    commentsToLikes: 0.075575
+    id: ckap6la1qgcbv0i78h676x1od
     verified: false
-    hashtags: "#zumbalovers, #zumbalove, #zin84, #mamitachallenge"
-  - username: "bloemen_catering"
+    hashtags: "#canon, #aniyakala, #gezgin, #igers"
+  - username: "aboutyasi___"
     fullname: >-
-      BLOEMEN_CATERING
+      Aboutyasi___
     location: "Turkey"
-    followers: 15755
-    engagement: 307
-    commentsToLikes: 0.159550
-    id: ck8t9f1ounumi0j78vcl7s2bk
+    followers: 10216
+    engagement: 531
+    commentsToLikes: 0.017908
+    id: ck6uh5pji75np0j71un1i66wb
     verified: false
-    hashtags: "#sarma, #antepf, #turkishfood, #ankara"
-  - username: "merihguzelarda"
+    hashtags: "#fatburningworkouts, #befit, #pink, #fatburningexercises"
+  - username: "bartopk"
     fullname: >-
-      Merih Güzelarda
+      Barış Erdoğan
     location: "Turkey"
-    followers: 30169
-    engagement: 212
-    commentsToLikes: 0.074567
-    id: ck15s8n25bs750i1939pmcuqr
+    followers: 45457
+    engagement: 851
+    commentsToLikes: 0.015203
+    id: ck602h8owhdyp0i14uddxzjvt
     verified: false
-    hashtags: "#cardio, #fitnessgirl, #hiit, #hepbenimle"
+    hashtags: "#power, #stayhome, #trickshot, #yujirohanma"
+  - username: "whasani"
+    fullname: >-
+      Hasan Telatar
+    location: "Turkey"
+    followers: 12063
+    engagement: 706
+    commentsToLikes: 0.029649
+    id: ck6u8r00pt5tv0j71o8v5wkm3
+    verified: false
+    hashtags: "#hastasiyiz"
   - username: "iamaoucheta1"
     fullname: >-
       Anis
@@ -53,55 +63,45 @@ profiles:
     commentsToLikes: 0.014680
     id: ck6ugpvfi4gdr0j71od3gglc7
     verified: false
-    hashtags: "#meetandgreet, #streetstyle, #fitnesslife, #mensfashion"
-  - username: "serdaraktolga"
-    fullname: >-
-      SERDAR AKTOLGA OFFICIAL🇹🇷
-    location: "Turkey"
-    followers: 75108
-    engagement: 349
-    commentsToLikes: 0.015294
-    id: ck15ts3lkjlzs0i19v31hjles
-    verified: false
-    hashtags: "#worldchampion, #germany, #king, #kral"
-  - username: "mobin_.mohamad"
-    fullname: >-
-      🔱Radmehr Brothers
-    location: "Turkey"
-    followers: 17098
-    engagement: 1142
-    commentsToLikes: 0.075850
-    id: ck1399rmkk8at0i19eybkxyr1
-    verified: false
-    hashtags: "#mma, #traxtor, #bodybuildingnation, #muaythaidance"
+    hashtags: "#selfie, #focusonthegood, #lifestooshort, #architecture"
   - username: "busecelik"
     fullname: >-
       Buse Çelik
     location: "Turkey"
-    followers: 6902
-    engagement: 764
-    commentsToLikes: 0.022226
+    followers: 8657
+    engagement: 720
+    commentsToLikes: 0.020114
     id: ck5ca3ibfcmkl0i11ysz453mf
     verified: false
-    hashtags: "#bunal, #fashion, #tiyatro, #tiyatroiyile"
-  - username: "iambasel"
+    hashtags: "#23nisan, #arts, #14, #tiyatroiyile"
+  - username: "dszgn"
     fullname: >-
-      MENFASHION | BASEL | باسل
+      Deniz Sezgin
     location: "Turkey"
-    followers: 19867
-    engagement: 622
-    commentsToLikes: 0.240732
-    id: ck13brx30wvnc0i19z6c0wcdx
+    followers: 6371
+    engagement: 1140
+    commentsToLikes: 0.139959
+    id: ck9hbt3usibwo0j78r1etvy9n
     verified: false
-    hashtags: "#blackfriday, #istanbul, #ortakoy, #berlin"
-  - username: "merveokudan1"
+    hashtags: "#yeni, #visit, #haircolor, #girl"
+  - username: "najmmohammadi"
     fullname: >-
-      MerveNinja
+      Najm Mohammadi
     location: "Turkey"
-    followers: 20203
-    engagement: 1886
-    commentsToLikes: 0.035278
-    id: ck8tb2rpuu3fw0j78rzr6znxv
+    followers: 10124
+    engagement: 1577
+    commentsToLikes: 0.056373
+    id: ck5c8dp0m99fe0i11etkdgpg0
     verified: false
-    hashtags: "#kawasaki, #motors, #bikelife, #motorbikes"
+    hashtags: "#edgymemes, #angel, #birthday, #jalal"
+  - username: "clbblog"
+    fullname: >-
+      Gülce Erek
+    location: "Turkey"
+    followers: 40365
+    engagement: 254
+    commentsToLikes: 0.019326
+    id: ck14jgp73k9430i198cok56jy
+    verified: false
+    hashtags: "#happymothersday, #weightlossgoals, #beforeafter, #eyeliner"
 ---

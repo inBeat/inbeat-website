@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gaming Instagram Influencers In United States In 2020
 description: >-
-  Find top gaming Instagram influencers in United States in 2020. Most popular hashtags: #cosplayersofinstagram #cosplay #cowboysnation #dallascowboys.
+  Find top gaming Instagram influencers in United States in 2020. Most popular hashtags: #coronavirus #socialdistancing #actorslife #ad.
 platform: Instagram
 profiles:
+  - username: "alexxxprincesss"
+    fullname: >-
+      ALEXANDRiA KNiGHT👸🏼
+    location: "United States"
+    followers: 12435
+    engagement: 1008
+    commentsToLikes: 0.150128
+    id: ck8t4fmw26m7u0j78k6g4j110
+    verified: false
+    hashtags: "#cellulite, #nophotoshop, #naturalbooty"
   - username: "itsbrianawhite"
     fullname: >-
       Briana
     location: "United States"
-    followers: 18765
-    engagement: 1154
-    commentsToLikes: 0.043292
+    followers: 31366
+    engagement: 853
+    commentsToLikes: 0.042478
     id: ck5q6xew8z5wi0i119pv236xj
     verified: false
-    hashtags: "#happy, #coronavirus, #merrychristmas, #playhard"
+    hashtags: "#creativity, #princess, #makeyourowncontent, #secretingredient"
+  - username: "fear.hex"
+    fullname: >-
+      Hex
+    location: "United States"
+    followers: 17812
+    engagement: 654
+    commentsToLikes: 0.729796
+    id: ck8t4e5v56gi00j78efw0r8vn
+    verified: false
+    hashtags: "#zadiatfup, #wearedivine, #sgoontherise, #kwcontop"
   - username: "scootermagruder"
     fullname: >-
       Scooter Magruder | Sports Guy
     location: "United States"
-    followers: 226820
-    engagement: 819
-    commentsToLikes: 0.021381
+    followers: 230348
+    engagement: 809
+    commentsToLikes: 0.021360
     id: ck1374e7m9pz80i19vcyvqg6l
     verified: true
-    hashtags: "#whodat, #eagles, #heartandsol, #mariohezonja"
+    hashtags: "#nba, #orlandomagic, #nygiants, #flyeaglesfly"
+  - username: "thenay_official"
+    fullname: >-
+      THE•N.A.Y_OFFICIAL
+    location: "United States"
+    followers: 356010
+    engagement: 662
+    commentsToLikes: 0.188463
+    id: ck9hbywm9j19w0j78bkkvhiy5
+    verified: false
+    hashtags: "#thenay, #lawancovid19, #workfromhome, #dirumahaja"
+  - username: "sarahdeluxe"
+    fullname: >-
+      V A M P Y🩸
+    location: "United States"
+    followers: 19664
+    engagement: 1020
+    commentsToLikes: 0.025744
+    id: ck8t0z9t5tvx50j7823h62hxw
+    verified: false
+    hashtags: "#gothoutfit, #latex, #selene, #pinup"
   - username: "lifeofwisteria"
     fullname: >-
       WisteriaLife ☁️
     location: "United States"
-    followers: 9814
-    engagement: 1006
-    commentsToLikes: 0.067464
+    followers: 9911
+    engagement: 1015
+    commentsToLikes: 0.067451
     id: ck135s52c2yeb0i19gfc1xz6a
     verified: false
     hashtags: "#tiktok"
-  - username: "gamingxo"
-    fullname: >-
-      yo, it’s sienna ⚡️
-    location: "United States"
-    followers: 6659
-    engagement: 1426
-    commentsToLikes: 0.043346
-    id: ck8t2tjvd0nj90j78p1chp8s8
-    verified: false
-    hashtags: "#sugarbearsleep"
-  - username: "tudaoninstagram"
-    fullname: >-
-      Shamori Washington
-    location: "United States"
-    followers: 18923
-    engagement: 421
-    commentsToLikes: 0.068966
-    id: ck5ciht4wso2d0i11yhdls4eh
-    verified: false
-    hashtags: "#tgif, #preteen, #kidactor, #stayinghealthy"
   - username: "hacheshoww"
     fullname: >-
       HShoww
     location: "United States"
-    followers: 30281
-    engagement: 822
-    commentsToLikes: 0.020295
+    followers: 30674
+    engagement: 861
+    commentsToLikes: 0.020551
     id: ck6ucvbeghoff0j71vn7ljft3
     verified: false
-    hashtags: "#strangerthings, #internettigo, #teamtigo, #coninternettigo"
-  - username: "mj_and_spidey"
+    hashtags: "#internettigo, #premiostigosports, #strangerthings, #quedateencasa"
+  - username: "kalaynokay"
     fullname: >-
-      💋 MJ and Spidey 🕸
+      Kalayna 🖤
     location: "United States"
-    followers: 14172
-    engagement: 1313
-    commentsToLikes: 0.051881
-    id: ck8t784i9fwt00j78q50lrhtf
+    followers: 16678
+    engagement: 1333
+    commentsToLikes: 0.022150
+    id: ckaoykpuohvwa0i78848i6vch
     verified: false
-    hashtags: "#spiderman, #strangedays, #jamietyndall, #spidermancosplay"
-  - username: "peachmelk"
+    hashtags: "#dragonagecosplay, #bioware, #copicmarkers, #digitalart"
+  - username: "tudaoninstagram"
     fullname: >-
-      momo
+      Shamori Washington
     location: "United States"
-    followers: 11289
-    engagement: 974
-    commentsToLikes: 0.044295
-    id: ck6uf9yzsvsvw0j71073jpeki
+    followers: 21197
+    engagement: 373
+    commentsToLikes: 0.064462
+    id: ck5ciht4wso2d0i11yhdls4eh
     verified: false
-    hashtags: "#webcore, #lashes, #circlelenses, #nintendoworld"
-  - username: "zay.da.kid"
-    fullname: >-
-      Isaiah
-    location: "United States"
-    followers: 31614
-    engagement: 1458
-    commentsToLikes: 0.016431
-    id: ck5q4xxudqnl80i119911nowf
-    verified: false
-    hashtags: "#birdbox, #thefamilyproject, #hills, #clan"
-  - username: "mrdalekjd"
-    fullname: >-
-      Jon (MrDalekJD)
-    location: "United States"
-    followers: 62269
-    engagement: 792
-    commentsToLikes: 0.013669
-    id: ck15u6eb7lmui0i192gmjwb0p
-    verified: false
-    hashtags: "#e32019, #cyberpunk2077, #nfsheat, #strangerthings"
+    hashtags: "#tgif, #coronavirus, #qurantine, #fw19"
 ---

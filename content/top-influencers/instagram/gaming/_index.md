@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gaming Instagram Influencers In 2020
 description: >-
-  Find top gaming Instagram influencers in 2020. Most popular hashtags: #gamergirl #gamergirls #geekgirls #blondegirls.
+  Find top gaming Instagram influencers in 2020. Most popular hashtags: #playstation #zelda #happy #loveyourself.
 platform: Instagram
 profiles:
+  - username: "videogamesmedia"
+    fullname: >-
+      Gaming
+    location: ""
+    followers: 47509
+    engagement: 651
+    commentsToLikes: 0.021665
+    id: ck6tlryut6j5q0j716aur4h2z
+    verified: false
+    hashtags: ""
+  - username: "sammyfosgaming"
+    fullname: >-
+      SammyFosGaming
+    location: "Australia"
+    followers: 2937
+    engagement: 2701
+    commentsToLikes: 0.134956
+    id: ck8t46gub5o270j78zp7r42um
+    verified: false
+    hashtags: "#showmeyourstack, #lofihiphop, #ptcgame, #spidermanps4"
+  - username: "stefan_dz9"
+    fullname: >-
+      📽 StefanTV 📽
+    location: ""
+    followers: 18431
+    engagement: 1719
+    commentsToLikes: 0.057432
+    id: ck5celawal8060i11trk9t1ar
+    verified: false
+    hashtags: "#nature, #learning, #bruderi, #miasanmia"
   - username: "serenagalway"
     fullname: >-
       Youtuber / Gamer
     location: "Germany"
-    followers: 16385
-    engagement: 2324
-    commentsToLikes: 0.065575
+    followers: 16392
+    engagement: 2341
+    commentsToLikes: 0.065340
     id: ck0u9hx7i9x610i19eprtbqle
     verified: false
-    hashtags: "#outfittoday, #selfiee, #newcamera, #happinessiskey"
+    hashtags: "#yogaclothes, #portraiture, #tattooedladies, #germanygirl"
+  - username: "assya.grs"
+    fullname: >-
+      Superpaco6  ✨🐨🎮
+    location: "Belgium"
+    followers: 10104
+    engagement: 1604
+    commentsToLikes: 0.067022
+    id: ck9hb93x3fv9q0j78ykmv4qoi
+    verified: false
+    hashtags: "#game, #strength, #malibu, #staystrong"
   - username: "purple.gaming"
     fullname: >-
-      🎮Lena🎮
+      
     location: "Germany"
-    followers: 39052
-    engagement: 673
-    commentsToLikes: 0.066361
+    followers: 43236
+    engagement: 576
+    commentsToLikes: 0.063231
     id: ck8td9nnc2gsg0j78dojzabgy
     verified: false
-    hashtags: "#girlgaming, #indiegame, #codmobilecomminty, #geekgirls"
-  - username: "rebyliciousplays"
-    fullname: >-
-      Rebecca Samuelsson
-    location: "Sweden"
-    followers: 30418
-    engagement: 815
-    commentsToLikes: 0.045134
-    id: ck0w6ifxy8psx0i19nefvfpxt
-    verified: false
-    hashtags: "#mightysoloofficial, #fishnet, #mercy, #proteinbolaget"
+    hashtags: "#fifa20, #mhwi, #callofduty4, #instagamerspain"
   - username: "jasmine_ninnemann"
     fullname: >-
-      Jasmine🌸lvl.28🌸Germany🌸Artist
+      Jasmine🌸lvl.29🌸Germany🌸Artist
     location: "Germany"
-    followers: 2612
-    engagement: 2107
-    commentsToLikes: 0.238486
+    followers: 2794
+    engagement: 1986
+    commentsToLikes: 0.230549
     id: ck15s5kckbc0k0i19ar01s1ic
     verified: false
-    hashtags: "#giveaway, #beauty, #strangerthings3, #fallinspiration"
-  - username: "frenchcreature_"
+    hashtags: "#nerdmakeup, #facepainting, #opvbeauty, #ghostmakeup"
+  - username: "alexxxprincesss"
     fullname: >-
-      Julie. ~90’s Child
-    location: "France"
-    followers: 28555
-    engagement: 922
-    commentsToLikes: 0.045775
-    id: ck6uhjcbj9glg0j71w5y4jjx5
+      ALEXANDRiA KNiGHT👸🏼
+    location: "United States"
+    followers: 12435
+    engagement: 1008
+    commentsToLikes: 0.150128
+    id: ck8t4fmw26m7u0j78k6g4j110
     verified: false
-    hashtags: "#fimocreation, #timburtontattoo, #makeup, #pencildrawing"
+    hashtags: "#cellulite, #nophotoshop, #naturalbooty"
   - username: "itsbrianawhite"
     fullname: >-
       Briana
     location: "United States"
-    followers: 18765
-    engagement: 1154
-    commentsToLikes: 0.043292
+    followers: 31366
+    engagement: 853
+    commentsToLikes: 0.042478
     id: ck5q6xew8z5wi0i119pv236xj
     verified: false
-    hashtags: "#happy, #coronavirus, #merrychristmas, #playhard"
-  - username: "syivangel"
+    hashtags: "#creativity, #princess, #makeyourowncontent, #secretingredient"
+  - username: "rebyliciousplays"
     fullname: >-
-      𝒚𝒐𝒖𝒓 𝑨𝒏𝒈𝒆𝒍♥
-    location: "Indonesia"
-    followers: 16692
-    engagement: 677
-    commentsToLikes: 0.071093
-    id: ck5zm5pexly5h0i143t75074w
+      Rebecca Samuelsson
+    location: "Sweden"
+    followers: 30430
+    engagement: 724
+    commentsToLikes: 0.039182
+    id: ck0w6ifxy8psx0i19nefvfpxt
     verified: false
-    hashtags: "#giveaway, #diamondfreefire, #girlgamer, #jomblo"
-  - username: "miesilein"
-    fullname: >-
-      Fabienne 🤡
-    location: "Germany"
-    followers: 6628
-    engagement: 2271
-    commentsToLikes: 0.054854
-    id: ck14ky9f9rxe40i19noy1zar9
-    verified: false
-    hashtags: "#harleyquinnfan, #rockon, #rockmusic, #metalstyle"
-  - username: "scootermagruder"
-    fullname: >-
-      Scooter Magruder | Sports Guy
-    location: "United States"
-    followers: 226820
-    engagement: 819
-    commentsToLikes: 0.021381
-    id: ck1374e7m9pz80i19vcyvqg6l
-    verified: true
-    hashtags: "#whodat, #eagles, #heartandsol, #mariohezonja"
-  - username: "lifeofwisteria"
-    fullname: >-
-      WisteriaLife ☁️
-    location: "United States"
-    followers: 9814
-    engagement: 1006
-    commentsToLikes: 0.067464
-    id: ck135s52c2yeb0i19gfc1xz6a
-    verified: false
-    hashtags: "#tiktok"
+    hashtags: "#valorant, #persercat, #icaniwill, #fitfashion"
 ---

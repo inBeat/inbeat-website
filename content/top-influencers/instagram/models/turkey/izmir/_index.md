@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Izmir In 2020
 description: >-
-  Find top models Instagram influencers in Izmir in 2020. Most popular hashtags: #model #izmir #istanbul #ankara.
+  Find top models Instagram influencers in Izmir in 2020. Most popular hashtags: #model #love #instagram #izmir.
 platform: Instagram
 profiles:
   - username: "lisanelcosplay"
     fullname: >-
       👩🏻‍🦳 Melis
     location: "Turkey"
-    followers: 7328
-    engagement: 1117
-    commentsToLikes: 0.028991
+    followers: 7176
+    engagement: 1142
+    commentsToLikes: 0.028207
     id: ck14jafygjcgu0i1946fiktk5
     verified: false
-    hashtags: "#fire, #albedocosplay, #kdalol, #leaugeoflegends"
-  - username: "dorukseymen"
+    hashtags: "#overlordanime, #ashecosplay, #darkphoenix, #anime"
+  - username: "tugcenurnur"
     fullname: >-
-      Doruk Seymen
+      Tuğçe Pehlivanoğlu
     location: "Turkey"
-    followers: 34123
-    engagement: 262
-    commentsToLikes: 0.052762
-    id: ck0uau71ncz6v0i19ha8t0860
+    followers: 6605
+    engagement: 1226
+    commentsToLikes: 0.089049
+    id: ckap9s14etfag0i78jjc2e8bj
     verified: false
-    hashtags: "#portraitvision, #djironinsc, #nature, #merveterzioglu"
-  - username: "meralkaftanci"
+    hashtags: "#amazingfashion, #gezginfoto, #travelgram, #likedforlikes"
+  - username: "dszgn"
     fullname: >-
-      MERAL KAFTANCI
+      Deniz Sezgin
     location: "Turkey"
-    followers: 8981
-    engagement: 496
-    commentsToLikes: 0.013809
-    id: ck5q9pdn4cavt0i11niiwv35g
+    followers: 6371
+    engagement: 1140
+    commentsToLikes: 0.139959
+    id: ck9hbt3usibwo0j78r1etvy9n
     verified: false
-    hashtags: "#caygkg, #cmgzldir, #instgkg, #pzsrdg"
-  - username: "dumanlovel"
+    hashtags: "#yeni, #visit, #haircolor, #girl"
+  - username: "nurdan_civici"
     fullname: >-
-      Dumanlovel
+      🌱💦🌞🌲
     location: "Turkey"
-    followers: 18860
-    engagement: 1026
-    commentsToLikes: 0.019830
-    id: ck0u7ox0u5b4t0i196w0dhxzb
+    followers: 5068
+    engagement: 1460
+    commentsToLikes: 0.072493
+    id: ck8t96yf3n3200j783hfcwltv
     verified: false
-    hashtags: "#oyledertli, #ne, #model, #adamlar"
-  - username: "evetliva"
+    hashtags: "#loveing, #bnwmood, #clup, #fotografturkiye"
+  - username: "kate.xeeva"
     fullname: >-
-      Liva
+      Kate Alexeeva
     location: "Turkey"
-    followers: 34546
-    engagement: 331
-    commentsToLikes: 0.080831
-    id: ck133voiuuaty0i19niz0jcbx
-    verified: false
-    hashtags: "#model, #modelinglife, #streetstyle, #nikewomen"
-  - username: "sudesudemirelofficial"
-    fullname: >-
-      sudesu demirel
-    location: "Turkey"
-    followers: 31407
-    engagement: 225
-    commentsToLikes: 0.093966
-    id: ck5ca2qshcl140i11atatabbq
-    verified: false
-    hashtags: "#holanda, #photo, #specialdesings, #modac"
+    followers: 92922
+    engagement: 543
+    commentsToLikes: 0.039735
+    id: ck5hskkqhwqs90i11zzuejemu
+    verified: true
+    hashtags: "#saapiobeauty, #staypositive, #pillowchallenge, #turkey"
   - username: "nurayalpaslanofficial"
     fullname: >-
       ✌️NURAY ALPASLAN OFFICIAL
     location: "Turkey"
-    followers: 8695
-    engagement: 455
-    commentsToLikes: 0.024948
+    followers: 8732
+    engagement: 415
+    commentsToLikes: 0.033144
     id: ck5c9wdiwc93g0i11zxjqcn7r
     verified: false
-    hashtags: "#staytunedformore, #girls, #ultra, #pati"
+    hashtags: "#salsera, #1905, #cimbombom, #besafemyfriends"
+  - username: "sudesudemirelofficial"
+    fullname: >-
+      sudesu demirel
+    location: "Turkey"
+    followers: 31277
+    engagement: 219
+    commentsToLikes: 0.092713
+    id: ck5ca2qshcl140i11atatabbq
+    verified: false
+    hashtags: "#fashion, #urfa, #corona, #instagoods"
   - username: "selenselen22"
     fullname: >-
       SELEN AYDIN
     location: "Turkey"
-    followers: 25277
-    engagement: 544
-    commentsToLikes: 0.022646
+    followers: 24691
+    engagement: 557
+    commentsToLikes: 0.022558
     id: ck14jr4tvlrd40i19uqfopm4p
     verified: false
-    hashtags: "#photography, #sahil, #cumhuriyetkad, #maltepe"
-  - username: "furkan.erdogannn"
+    hashtags: "#cumartesi, #yalan, #adana, #covid"
+  - username: "cemrekiralioglu"
     fullname: >-
-      Furkan Erdoğan
+      Cemre Kıralioğlu
     location: "Turkey"
-    followers: 110943
-    engagement: 502
-    commentsToLikes: 0.199075
-    id: ck6u9hovixmhk0j71e4rozswk
+    followers: 6454
+    engagement: 899
+    commentsToLikes: 0.040210
+    id: ck5zsqv6qz0y30i140m8dnuvm
     verified: false
-    hashtags: "#almanya, #hareketli, #karantina, #bursa"
-  - username: "naturel_turkey"
+    hashtags: "#notbyme, #travel, #instadaily, #blue"
+  - username: "zeynepsimsekkkk"
     fullname: >-
-      naturel_turkey ↕🇹🇷
+      Zeynep Şimşek
     location: "Turkey"
-    followers: 14565
-    engagement: 1044
-    commentsToLikes: 0.149061
-    id: ck0u1o0xgxgd00i19vhkzs25v
+    followers: 29187
+    engagement: 1455
+    commentsToLikes: 0.053974
+    id: ckapc35rw2abh0i788shmbe16
     verified: false
-    hashtags: "#insta, #religion, #trees, #skylovers"
+    hashtags: "#koronat, #mybirthday, #blogger, #gezenti"
 ---

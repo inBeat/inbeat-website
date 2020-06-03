@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In San Antonio In 2020
 description: >-
-  Find top beauty Instagram influencers in San Antonio in 2020. Most popular hashtags: #satx #hudabeauty #cutcrease #lashes.
+  Find top beauty Instagram influencers in San Antonio in 2020. Most popular hashtags: #glammakeup #beauty #ootd #euphoria.
 platform: Instagram
 profiles:
   - username: "queenaa.h"
     fullname: >-
       M I N A
     location: "United States"
-    followers: 18468
-    engagement: 722
-    commentsToLikes: 0.048038
+    followers: 20186
+    engagement: 619
+    commentsToLikes: 0.093614
     id: ck8tdfco235920j7849pz262e
     verified: false
-    hashtags: "#hijabchic, #fashiongoals, #hijaboftheday, #hijabisstyle"
-  - username: "missplanetguyana"
+    hashtags: "#hijabilookbook, #ootd, #hijabneed, #corona"
+  - username: "lexalealiiee"
     fullname: >-
-      Miss San Antonio US 2020
+      Lexa Lealiiee🇦🇸
     location: "United States"
-    followers: 6014
-    engagement: 592
-    commentsToLikes: 0.069526
-    id: ck6u4j0sy3ztk0j710is8q2s2
+    followers: 8701
+    engagement: 681
+    commentsToLikes: 0.028632
+    id: ck5pw62dula3i0i11w9vjw0nr
     verified: false
-    hashtags: "#devon, #artists, #marketingtip, #fashionmodel"
-  - username: "gio.dizurita"
-    fullname: >-
-      DIZURITA / Visual Artist
-    location: "United States"
-    followers: 7179
-    engagement: 559
-    commentsToLikes: 0.110626
-    id: ck5hn7275nbrm0i1104b4a1va
-    verified: false
-    hashtags: "#artista, #nassaubahamas, #artist, #lasvegasart"
+    hashtags: "#curls, #portrait, #beautifulballers, #willyscouts"
   - username: "barelyblonde_"
     fullname: >-
       Christine L
     location: "United States"
-    followers: 31535
-    engagement: 277
-    commentsToLikes: 0.098833
+    followers: 32968
+    engagement: 283
+    commentsToLikes: 0.089524
     id: ck5c46ofn0pok0i114nec5krx
     verified: false
-    hashtags: "#rdbabe, #ltkwedding, #ltkworkwear, #stayathome"
+    hashtags: "#thefrankeffect, #rdbabe, #ltkunder50, #ltkstyletip"
   - username: "viviruth_"
     fullname: >-
       Veronica 🌸
     location: "United States"
-    followers: 2150
-    engagement: 1193
-    commentsToLikes: 0.093545
+    followers: 2138
+    engagement: 1214
+    commentsToLikes: 0.093061
     id: ck6ty2ktm1blt0j71ftc9m8cg
     verified: false
-    hashtags: "#outfitlove, #colourpopme, #filipinamua, #hairgoals"
-  - username: "looksbysol"
+    hashtags: "#hairgoals, #bluemoonpalette, #halloween2019, #sanantoniomua"
+  - username: "_maddiemason_cosplay"
     fullname: >-
-      Marisol Carrera
+      𝑀𝒶𝒹𝒹𝒾𝑒 𝑀𝒶𝓈𝑜𝓃💋
     location: "United States"
-    followers: 70714
-    engagement: 340
-    commentsToLikes: 0.040591
-    id: ck135h3zw1e0k0i19z6k4v69d
+    followers: 16311
+    engagement: 570
+    commentsToLikes: 0.051753
+    id: ck6ui5ku0d76g0j71ea21muiy
     verified: false
-    hashtags: "#anastasiabrows, #cutcreasetutorial, #eyebrowtutorial, #katvondbeauty"
-  - username: "synergyplasticsurgery"
+    hashtags: "#japanesefashion, #promdress, #bodypainting, #fitnessmom"
+  - username: "msgoldgirl"
     fullname: >-
-      Synergy Plastic Surgery
+      Marnie Goldberg | MsGoldgirl®
     location: "United States"
-    followers: 41534
-    engagement: 203
-    commentsToLikes: 0.034384
-    id: ck13cm1an108v0i19q4uosj16
+    followers: 38540
+    engagement: 139
+    commentsToLikes: 0.045064
+    id: ck5zl449ckp250i14colea33w
+    verified: true
+    hashtags: "#emcosmetics, #giftideas, #plannerstickers, #plannerlife"
+  - username: "misssanantonious2020"
+    fullname: >-
+      Miss Guyana 2020 👑
+    location: "United States"
+    followers: 6046
+    engagement: 579
+    commentsToLikes: 0.070729
+    id: ck6u4j0sy3ztk0j710is8q2s2
     verified: false
-    hashtags: "#certificationmatters, #synergyplasticsurgery, #coolsculpting, #mommymakeover"
+    hashtags: "#branding, #skincare, #cleanbeauty, #pleasedonate"
   - username: "instasatx"
     fullname: >-
       San Antonio Adventures
     location: "United States"
-    followers: 17698
-    engagement: 254
-    commentsToLikes: 0.233439
+    followers: 18052
+    engagement: 232
+    commentsToLikes: 0.151978
     id: ck5q7af6y0m2p0i11ergzyk9l
     verified: false
-    hashtags: "#instasatx, #valentines, #supportlocal, #inthistogether"
-  - username: "heyitsrubee"
+    hashtags: "#sanantoniostrong, #tacotuesday, #earthday, #stayhome"
+  - username: "looksbysol"
     fullname: >-
-      Ruby | Heyitsrubee.com ™️
+      Makeup by Marisol
     location: "United States"
-    followers: 50939
-    engagement: 286
-    commentsToLikes: 0.099742
-    id: ck0tvj2gzbkux0i19dw871myi
+    followers: 68558
+    engagement: 274
+    commentsToLikes: 0.052680
+    id: ck135h3zw1e0k0i19z6k4v69d
     verified: false
-    hashtags: "#bjsbrewhouse, #shein, #styleinspo, #fitnessfashion"
-  - username: "belaanbeauty"
+    hashtags: "#meloncbd, #pinkandproud, #liner, #simpleglam"
+  - username: "beautyinamin"
     fullname: >-
-      ✨BRIDAL MAKEUP & CAMERA GLAM✨
+      Dallas Photographer
     location: "United States"
-    followers: 17415
-    engagement: 238
-    commentsToLikes: 0.033171
-    id: ck6u0gqxmflp50j71lp8cj62l
+    followers: 23244
+    engagement: 281
+    commentsToLikes: 0.089780
+    id: ck8t5ftv6a12c0j78ff4d6ha1
     verified: false
-    hashtags: "#contour, #matteshadows, #lashes, #highlightandcontour"
+    hashtags: "#mybn, #staytropical, #veganskincareproducts, #veganskincare"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In United States In 2020
 description: >-
-  Find top stylists Instagram influencers in United States in 2020. Most popular hashtags: #youtube #nashvilleblogger #harpersbazaararabia #drmartens.
+  Find top stylists Instagram influencers in United States in 2020. Most popular hashtags: #editorialphotography #love #oprah #.
 platform: Instagram
 profiles:
   - username: "lennypasco"
     fullname: >-
-      Lindsay Pasco
+      Lindsay Globerson
     location: "United States"
-    followers: 3275
-    engagement: 1197
-    commentsToLikes: 0.078571
+    followers: 3376
+    engagement: 1153
+    commentsToLikes: 0.069930
     id: ck6u2vzyau8nm0j71zhcqnj7x
     verified: false
     hashtags: "#kelloggjoshuatreehouse"
-  - username: "ericjmcneal"
+  - username: "georgecortina"
     fullname: >-
-      Eric Mcneal
+      
     location: "United States"
-    followers: 9560
-    engagement: 547
-    commentsToLikes: 0.064898
-    id: ck5q7u75933rx0i11ibewszsg
+    followers: 65454
+    engagement: 151
+    commentsToLikes: 0.017376
+    id: ck0ttuuxe4ero0i19dqn18g2b
+    verified: true
+    hashtags: "#vittoriaceretti, #wsjmagazine, #achokmajak, #naomicampbell"
+  - username: "klychkovanastya"
+    fullname: >-
+      Nastya Klychkova
+    location: "United States"
+    followers: 11478
+    engagement: 516
+    commentsToLikes: 0.026053
+    id: ck5bu0qhbgyiq0i11ppkkamsi
     verified: false
-    hashtags: "#imaanxframe, #uniqlou, #imaanhammam, #mfw"
+    hashtags: ""
+  - username: "shirleykurata"
+    fullname: >-
+      Shirley Kurata
+    location: "United States"
+    followers: 36255
+    engagement: 355
+    commentsToLikes: 0.022177
+    id: ck0udxoiwk6yb0i19jcw62cxb
+    verified: false
+    hashtags: "#asaprocky, #whackworld, #colorful, #cultissue"
   - username: "vchillbruh"
     fullname: >-
       Cody Allen
     location: "United States"
-    followers: 18477
-    engagement: 474
-    commentsToLikes: 0.023671
+    followers: 18440
+    engagement: 468
+    commentsToLikes: 0.023187
     id: ck15t3gb2g5p10i19yf8b1j9e
     verified: false
     hashtags: "#jimmychoo"
+  - username: "laurenelise.studios"
+    fullname: >-
+      STYLIST
+    location: "United States"
+    followers: 5533
+    engagement: 552
+    commentsToLikes: 0.090516
+    id: ck5hiqmn3evvm0i119k3w8zt3
+    verified: false
+    hashtags: "#backtowork, #madewell, #blondebabe, #balayagetips"
+  - username: "paulcavaco"
+    fullname: >-
+      Paul Cavaco
+    location: "United States"
+    followers: 32451
+    engagement: 678
+    commentsToLikes: 0.073446
+    id: ck0ue8v0qkrmu0i195clpufoe
+    verified: false
+    hashtags: "#oprahwinfrey, #genius, #pointofview, #family"
   - username: "xgabriela"
     fullname: >-
       gabriela langone
     location: "United States"
-    followers: 27950
-    engagement: 99
-    commentsToLikes: 0.046665
+    followers: 27645
+    engagement: 92
+    commentsToLikes: 0.028654
     id: ck0vvqhr8qb370i19t1ogbyei
     verified: false
-    hashtags: "#styledxgabrielalangone, #support, #kids, #stayhomestaysafe"
+    hashtags: "#editorialphotography, #sunday, #vibe, #puntadeleste"
+  - username: "irushairusha"
+    fullname: >-
+      Ira Golovko
+    location: "United States"
+    followers: 25327
+    engagement: 81
+    commentsToLikes: 0.021050
+    id: ck15uxv4ap0ne0i19akwj1aqx
+    verified: false
+    hashtags: ""
   - username: "hollywoodthegenerous"
     fullname: >-
       ⱧØⱠⱠɎ₩ØØĐ
     location: "United States"
-    followers: 2700
-    engagement: 977
-    commentsToLikes: 0.224033
+    followers: 2690
+    engagement: 953
+    commentsToLikes: 0.227391
     id: ck6tmx2j38p1o0j7155bsjhpv
     verified: false
-    hashtags: "#boohooman, #asos, #fashionnova, #zara"
-  - username: "jadongrundy"
-    fullname: >-
-      Grun
-    location: "United States"
-    followers: 50309
-    engagement: 937
-    commentsToLikes: 0.053804
-    id: ck8syug39m1u20j783bzjjr8j
-    verified: false
-    hashtags: "#pacpartner, #pacsunmens, #ad"
-  - username: "prettyboylarryy"
-    fullname: >-
-      Fashion Killa ⚡️🔫🦋
-    location: "United States"
-    followers: 45391
-    engagement: 495
-    commentsToLikes: 0.049052
-    id: ck6u1ervhlasn0j71kc2rv1sn
-    verified: false
-    hashtags: ""
-  - username: "hottcheetoqueen"
-    fullname: >-
-      Jessica Michaels
-    location: "United States"
-    followers: 20845
-    engagement: 1612
-    commentsToLikes: 0.039809
-    id: ck0ua7niybotw0i19lojmn8p8
-    verified: false
-    hashtags: "#colourpopme"
-  - username: "pocketsandbows"
-    fullname: >-
-      Brittany📍Nashville
-    location: "United States"
-    followers: 39393
-    engagement: 434
-    commentsToLikes: 0.063270
-    id: ck600alqpd8q80i14cdcpxilh
-    verified: false
-    hashtags: "#beforecorona, #blackhistorymonth, #blackbloggers, #nashvilleblogger"
-  - username: "manon.meijers"
-    fullname: >-
-      Manon Meijers
-    location: "United States"
-    followers: 45678
-    engagement: 412
-    commentsToLikes: 0.098788
-    id: ck5c588682xxy0i11ejecx3ar
-    verified: true
-    hashtags: "#trots, #fijnezondag, #youliveyoulearn, #zouditzonfotowordenwaarvanjeovertienjaardenkt"
+    hashtags: "#ootd, #instafashion, #boohooman, #zara"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top yoga Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #yoga #yogainspiration #mydubai #yogaeverydamnday.
+  Find top yoga Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #white #quarantine #yogatime #quarantinelife.
 platform: Instagram
 profiles:
-  - username: "medinamaste"
+  - username: "madhuri.chavan7"
     fullname: >-
-      Sarah Medina | Yoga Teacher
+      Madhuri Chavan
     location: "United Arab Emirates"
-    followers: 30889
-    engagement: 226
-    commentsToLikes: 0.104584
-    id: ck0u9m4w2a2nt0i19h677hjcr
+    followers: 7586
+    engagement: 1025
+    commentsToLikes: 0.085444
+    id: ck15q0f1p0hzj0i197nafgoir
     verified: false
-    hashtags: "#representreality, #heart, #covid19, #ashtanga"
-  - username: "julie_wets"
-    fullname: >-
-      𝕁 𝕌 𝕃 𝕀 𝔼  𝕎 𝔼 𝕋 𝕊
-    location: "United Arab Emirates"
-    followers: 9804
-    engagement: 841
-    commentsToLikes: 0.043168
-    id: ck5hgll953f8m0i11dc2630xw
-    verified: false
-    hashtags: "#selfempowerment, #voyage, #white, #mosque"
+    hashtags: "#sesamestreetbollywood, #internationalartistnight, #bollywooddanceroutine, #universalstudiosjapan"
   - username: "yoga_miss_tee"
     fullname: >-
       YOGA ThetaHealing DUBAI
     location: "United Arab Emirates"
-    followers: 38066
-    engagement: 177
-    commentsToLikes: 0.197130
+    followers: 42008
+    engagement: 342
+    commentsToLikes: 0.191486
     id: ck15pazw1wzar0i196pci2oz8
     verified: false
-    hashtags: "#yogaclothes, #igyogachallanges, #pamperspure, #notyogaperfect"
-  - username: "thedashingfrenchie"
+    hashtags: "#crocsmiddleeast, #notyogaperfect, #yogaliving, #yogasana"
+  - username: "medinamaste"
     fullname: >-
-      🌀 𝐃𝐀𝐒𝐇 🌀 𝐅𝐑𝐄𝐍𝐂𝐇𝐈𝐄🌀
+      Sarah Medina | Yoga Teacher
     location: "United Arab Emirates"
-    followers: 14532
-    engagement: 859
-    commentsToLikes: 0.100959
-    id: ck0u1chihwk8c0i196s7ohjbu
+    followers: 30678
+    engagement: 285
+    commentsToLikes: 0.125792
+    id: ck0u9m4w2a2nt0i19h677hjcr
     verified: false
-    hashtags: "#quarantine, #frenchiepost, #frenchiecrew, #goodboi"
-  - username: "avinashk996"
+    hashtags: "#movement, #memories, #mudra, #colorful"
+  - username: "marina_in_dubai"
     fullname: >-
-      Avinash Kumar
+      💄𝙼𝚊𝚛𝚒𝚗𝚊 𝙺𝚊𝚕𝚒𝚗𝚒𝚗𝚊🌴
     location: "United Arab Emirates"
-    followers: 6979
-    engagement: 636
-    commentsToLikes: 0.048586
-    id: ck6ub31tw76ba0j719d1tg22w
+    followers: 75157
+    engagement: 177
+    commentsToLikes: 0.243165
+    id: ck8t4768w5qe90j78a3kgrzdw
     verified: false
-    hashtags: "#yogainspiration, #yogalife, #workoutmotivation, #wisdom"
-  - username: "sar_white"
+    hashtags: "#mydubailife, #mydubailifestyle, #dubaiparty, #mydubaipics"
+  - username: "julie_wets"
     fullname: >-
-      Sarah White
+      𝕁 𝕌 𝕃 𝕀 𝔼  𝕎 𝔼 𝕋 𝕊
     location: "United Arab Emirates"
-    followers: 41293
-    engagement: 170
-    commentsToLikes: 0.046316
-    id: ck0vxf2nryl4b0i19cu8ml95d
+    followers: 10114
+    engagement: 921
+    commentsToLikes: 0.043343
+    id: ck5hgll953f8m0i11dc2630xw
     verified: false
-    hashtags: "#yogavibes, #fitchicks, #fitness, #vulnerability"
+    hashtags: "#omanphotography, #hand, #sunsetporn, #quotesgram"
   - username: "iameva1"
     fullname: >-
-      Eva Verbova
+      EVA✨Yoga •Flexibility. Stretch
     location: "United Arab Emirates"
-    followers: 16007
-    engagement: 250
-    commentsToLikes: 0.051211
+    followers: 17354
+    engagement: 581
+    commentsToLikes: 0.071644
     id: ck14jk4h2kriv0i1912ora5pz
     verified: false
-    hashtags: "#travelphotography, #gymmotivation, #stretching, #summer"
-  - username: "tinabock"
+    hashtags: "#stretchingtips, #stretchingtime, #splitstretch, #handstand"
+  - username: "odettecampbellx"
     fullname: >-
-      Tina Bock
+      𝐎 𝐃 𝐄 𝐓 𝐓 𝐄†☾﹋﹌
     location: "United Arab Emirates"
-    followers: 45019
-    engagement: 117
-    commentsToLikes: 0.040961
-    id: ck5c2q434xr2i0i1141hojphn
+    followers: 29122
+    engagement: 401
+    commentsToLikes: 0.112105
+    id: ck14jk4nukrk40i19quf379fm
     verified: false
-    hashtags: "#yogaretreat, #letsdoashtanga, #learnyogaonline, #baddhahastasirsasana"
-  - username: "sil_such"
+    hashtags: "#thebest, #justsaying, #camouflage"
+  - username: "kayalovesss"
     fullname: >-
-      Sil
+      Kaya 🖤
     location: "United Arab Emirates"
-    followers: 6947
-    engagement: 599
-    commentsToLikes: 0.108479
-    id: ck0w4nid0zgi90i19xh6g4kz2
+    followers: 60578
+    engagement: 25
+    commentsToLikes: 0.142545
+    id: ck6tonezdf0ys0j71z43wtc9w
     verified: false
-    hashtags: "#travellers, #newyear2020, #travelcouple, #yoga"
-  - username: "dr_marcfit"
+    hashtags: "#community, #food, #outfitgoals, #yoga"
+  - username: "adhipa"
     fullname: >-
-      Asem Marc™
+      Adhipa Kalany🧘🏻‍♀️
     location: "United Arab Emirates"
-    followers: 5449
-    engagement: 1391
-    commentsToLikes: 0.038017
-    id: ck5zvl4zd4fw00i14r0yv8e36
+    followers: 4189
+    engagement: 1469
+    commentsToLikes: 0.070093
+    id: ckap7aelwj84j0i78mlt05pr4
     verified: false
-    hashtags: "#castingbarcelona, #nike, #yoga, #szechenyibaths"
+    hashtags: "#trissur, #sirsasana, #sunshine, #headstands"
+  - username: "martina_trombetta93"
+    fullname: >-
+      Martina 🧘🏽‍♀️
+    location: "United Arab Emirates"
+    followers: 8339
+    engagement: 455
+    commentsToLikes: 0.065755
+    id: ck6tr2jsqwk460j71t72vb4zb
+    verified: false
+    hashtags: "#instayoga, #gymgoals, #oversplits, #yogaatthebeach"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Chefs Instagram Influencers In India In 2020
 description: >-
-  Find top chefs Instagram influencers in India in 2020. Most popular hashtags: #indianfood #streetfood #yummy #dessert.
+  Find top chefs Instagram influencers in India in 2020. Most popular hashtags: #bread #baking #cooking #chef.
 platform: Instagram
 profiles:
+  - username: "iamsukhmanibedi"
+    fullname: >-
+      Sukhmani Kaur Bedi
+    location: "India"
+    followers: 33120
+    engagement: 302
+    commentsToLikes: 0.066842
+    id: ckaoz9k0akyno0i78qowdg5ug
+    verified: true
+    hashtags: "#actorslife, #quarantinelife, #audition, #shillong"
+  - username: "georgepapakostas"
+    fullname: >-
+      George Papakostas
+    location: "India"
+    followers: 29468
+    engagement: 527
+    commentsToLikes: 0.026248
+    id: ck5zkf7thjdgm0i14esrcsglx
+    verified: false
+    hashtags: "#bread, #cookingathome, #sicilianpizza, #easypasta"
+  - username: "dhe_compact_racer_46"
+    fullname: >-
+      🕊V🐞A🐞N🐞D🐞I🐞B🐞R🐞A🐞N🐞H🐞A🐞N🕊(V🕉V)
+    location: "India"
+    followers: 5371
+    engagement: 810
+    commentsToLikes: 0.198605
+    id: ck8t88k1zjgng0j78bgw7iel4
+    verified: false
+    hashtags: "#instapic, #ride, #rs200, #sportbikesquad"
   - username: "chefmanishmehrotra"
     fullname: >-
       Manish Mehrotra
     location: "India"
-    followers: 31686
-    engagement: 270
-    commentsToLikes: 0.022232
+    followers: 32139
+    engagement: 276
+    commentsToLikes: 0.022069
     id: ck0w2k0icordm0i19wby883pa
     verified: false
-    hashtags: "#mexicocity, #condenasttraveler, #worlds50bestrestaurants, #books"
-  - username: "__miss_manu__"
-    fullname: >-
-      MrUDulA DiXiT
-    location: "India"
-    followers: 4654
-    engagement: 1393
-    commentsToLikes: 0.037572
-    id: ck8wf4qztf4hv0j78cu1kcvmw
-    verified: false
-    hashtags: "#handwashchallenge, #doubleexposure, #jadsedardkomitao, #chupachupslollycraze"
-  - username: "floydcardoz"
-    fullname: >-
-      Floyd Cardoz
-    location: "India"
-    followers: 31489
-    engagement: 795
-    commentsToLikes: 0.044538
-    id: ck8taubh3t3a90j78cnw40v3a
-    verified: false
-    hashtags: "#floydsfood, #mumbai, #uglydelicious, #malai"
-  - username: "echoinsta"
-    fullname: >-
-      Ekavali Khanna
-    location: "India"
-    followers: 20188
-    engagement: 233
-    commentsToLikes: 0.055561
-    id: ck602ol4zib370i14af2llazz
-    verified: true
-    hashtags: "#selfcare, #healthforall, #lovelylight, #instadailyphoto"
+    hashtags: "#tripadvisor, #eating, #datenight, #office"
   - username: "karishma_sakhrani"
     fullname: >-
       Karishma Sakhrani
     location: "India"
-    followers: 93533
-    engagement: 100
-    commentsToLikes: 0.026511
+    followers: 93699
+    engagement: 65
+    commentsToLikes: 0.043178
     id: ck5cavvh8e8ta0i11z9eqcqsa
     verified: false
-    hashtags: "#fashion, #greenstrides, #avocado, #equalpartnership"
-  - username: "wompindiacooks"
+    hashtags: "#japanese, #carbfest, #vegetables, #cookies"
+  - username: "__miss_manu__"
     fullname: >-
-      Bhoomika Vinay
+      momos
     location: "India"
-    followers: 2930
-    engagement: 1449
-    commentsToLikes: 0.134320
-    id: ck5q2c6rhfafw0i11awieg6hu
+    followers: 4537
+    engagement: 1418
+    commentsToLikes: 0.039070
+    id: ck8wf4qztf4hv0j78cu1kcvmw
     verified: false
-    hashtags: "#dahipuri, #wompindiacooks, #homefood, #desifood"
-  - username: "parthbajaj"
+    hashtags: "#panda, #degree, #attitude, #post"
+  - username: "namitacooks"
     fullname: >-
-      Parth Bajaj
+      Namita Pattnaik
     location: "India"
-    followers: 66632
-    engagement: 618
-    commentsToLikes: 0.024936
-    id: ck138mcmngxpt0i19g5qfi4kj
-    verified: true
-    hashtags: "#recipe, #gharkakhana, #eating, #dimsum"
-  - username: "hudson.plus.harper"
-    fullname: >-
-      Hudson + Harper
-    location: "India"
-    followers: 6337
-    engagement: 987
-    commentsToLikes: 0.044991
-    id: ck0u0w3hxv0xn0i19310ga7xh
+    followers: 2231
+    engagement: 2529
+    commentsToLikes: 0.421991
+    id: ckaoy3tkqfxwk0i78mji21v5n
     verified: false
-    hashtags: "#couristan, #stillseeing2020, #ad, #brooklinen"
-  - username: "yummcrumbz"
+    hashtags: "#dalgonacoffee, #masalachaas, #vegetarian, #seafood"
+  - username: "floydcardoz"
     fullname: >-
-      Vaishali Singh
+      Floyd Cardoz
     location: "India"
-    followers: 9289
-    engagement: 919
-    commentsToLikes: 0.488741
-    id: ck0w1hk0ljdrg0i19gkysji7b
+    followers: 31926
+    engagement: 812
+    commentsToLikes: 0.044238
+    id: ck8taubh3t3a90j78cnw40v3a
     verified: false
-    hashtags: "#meethiboondi, #chilled, #bdaycelebration, #savourymuffins"
-  - username: "_r_i_t_z_z_y_"
+    hashtags: "#graykunz, #indiansweets, #mithaishop, #bombaysweetshop"
+  - username: "inji_pennu"
     fullname: >-
-      🐼The_foodie_panda🐼
+      APARNA JEEVAN
     location: "India"
-    followers: 2734
-    engagement: 1102
-    commentsToLikes: 0.208384
-    id: ck14j3un3ihzv0i19og1f0l31
+    followers: 2585
+    engagement: 2008
+    commentsToLikes: 0.212705
+    id: ckap4r7dg8ign0i78lr4qst7z
     verified: false
-    hashtags: "#momos, #freshstart, #coldcoffee, #foodporn"
+    hashtags: "#nutrition, #baking, #lunch, #traditional"
+  - username: "pratscorner"
+    fullname: >-
+      Prat's Corner
+    location: "India"
+    followers: 7352
+    engagement: 1076
+    commentsToLikes: 0.218252
+    id: ck8t9fa50nvgu0j78myguu2n9
+    verified: false
+    hashtags: "#mangoes, #chocolatecake, #keralabeefcurry, #onionsalna"
 ---

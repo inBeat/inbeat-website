@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In United States In 2020
 description: >-
-  Find top cosmetics Instagram influencers in United States in 2020. Most popular hashtags: #sponsored #relentless #dentist #springmakeup.
+  Find top cosmetics Instagram influencers in United States in 2020. Most popular hashtags: #abhjunkies #pinkmakeup #liquidlipstick #maybelline.
 platform: Instagram
 profiles:
-  - username: "laura_borgen"
+  - username: "carleensart"
     fullname: >-
-      Laura Borgen
+      ⭐️ KAROLINA ŁACH MAKE-UP 🇵🇱/🇩🇪
     location: "United States"
-    followers: 8107
-    engagement: 1099
-    commentsToLikes: 0.072434
-    id: ck6ua44hf1dcc0j71aqbz2r1o
+    followers: 19278
+    engagement: 1066
+    commentsToLikes: 0.225410
+    id: ck6tuv3g2ilj20j71uogdthod
     verified: false
-    hashtags: "#wired, #richardmisrach, #8daysofnaked, #charlespiazzismyth"
+    hashtags: "#haul, #zostan, #lippen, #giveawaypolska"
+  - username: "reinerrahardja"
+    fullname: >-
+      Reiner Bonifasius Rahardja
+    location: "United States"
+    followers: 110223
+    engagement: 798
+    commentsToLikes: 0.038050
+    id: ck55nbupr5vnb0i1106qomexh
+    verified: true
+    hashtags: "#milenialmelawancorona"
+  - username: "caittheegreat__"
+    fullname: >-
+      Caitlyn K. Davis 👑 🌐
+    location: "United States"
+    followers: 120608
+    engagement: 608
+    commentsToLikes: 0.045913
+    id: ck6txadcmwqct0j71mqcvkd29
+    verified: false
+    hashtags: "#abspeeking, #scrunchiegang, #wearingscrunchiesallweek, #organicbeauty"
+  - username: "salomeea_beauty"
+    fullname: >-
+      🌸Salomeea🌸
+    location: "United States"
+    followers: 6127
+    engagement: 1102
+    commentsToLikes: 0.525433
+    id: ckap32f4719k50i78b7pbyoif
+    verified: false
+    hashtags: "#pinkeyeshadow, #glittereyeliner, #muaunderdogs, #springlips"
+  - username: "mesha.slang_"
+    fullname: >-
+      TAMESHA GORDON~
+    location: "United States"
+    followers: 5742
+    engagement: 2390
+    commentsToLikes: 0.046374
+    id: ckap5uy15da0u0i78hnvoeupk
+    verified: false
+    hashtags: "#soondelete, #beweird"
   - username: "theglamgoth"
     fullname: >-
       ‪💋 𝔐𝔞𝔯𝔩𝔢𝔶
     location: "United States"
-    followers: 29934
-    engagement: 864
-    commentsToLikes: 0.027100
+    followers: 31392
+    engagement: 868
+    commentsToLikes: 0.033710
     id: ck5cghjfvout40i115ugcheso
     verified: false
-    hashtags: "#tigerking, #benefitbrows, #glamourweenvol2, #glamgoth"
-  - username: "midnight_weirdo"
-    fullname: >-
-      Gabrielle Alvarez
-    location: "United States"
-    followers: 29058
-    engagement: 888
-    commentsToLikes: 0.021682
-    id: ck0tv4vss9y080i1960y4spo5
-    verified: false
-    hashtags: "#tigerseyepalette, #hauslabs, #airheart, #brightlightspalette"
+    hashtags: "#tigerking, #theglamgoth, #glamgothbeauty, #benefitclubpink"
   - username: "bossomakeupbeverlyhills"
     fullname: >-
       Kimberley Bosso
     location: "United States"
-    followers: 32796
-    engagement: 533
-    commentsToLikes: 0.039720
+    followers: 32271
+    engagement: 543
+    commentsToLikes: 0.044314
     id: ck6ua08ua0q1x0j716y3puj94
     verified: false
-    hashtags: "#muradskincare, #soakupeverymoment, #bossomakeup, #spreadlove"
-  - username: "kingarusin"
-    fullname: >-
-      Kinga Rusin- Official Profile
-    location: "United States"
-    followers: 523655
-    engagement: 450
-    commentsToLikes: 0.022153
-    id: ck6tund1uhauv0j71pvhb1uiu
-    verified: true
-    hashtags: ""
+    hashtags: "#notguilty, #glaudibridal, #ad, #spreadlove"
   - username: "shamsoee"
     fullname: >-
       Shams AlKhazraji • شمس الخزرجي
     location: "United States"
-    followers: 332478
-    engagement: 210
-    commentsToLikes: 0.061545
+    followers: 343642
+    engagement: 215
+    commentsToLikes: 0.060450
     id: ck5pwl9loncjw0i11wkvchsne
     verified: true
-    hashtags: "#2020, #black, #ootd, #smokey"
+    hashtags: "#ootd, #smokey, #makeup, #youtube"
+  - username: "kingarusin"
+    fullname: >-
+      Kinga Rusin- Official Profile
+    location: "United States"
+    followers: 521102
+    engagement: 373
+    commentsToLikes: 0.019653
+    id: ck6tund1uhauv0j71pvhb1uiu
+    verified: true
+    hashtags: "#polskajestpiekna, #polskaprzyroda, #nr1, #stacjonarnie"
   - username: "kkapinos"
     fullname: >-
       Kim Kapinos (Townsend)
     location: "United States"
-    followers: 6729
-    engagement: 1117
-    commentsToLikes: 0.098578
+    followers: 6682
+    engagement: 1033
+    commentsToLikes: 0.097649
     id: ck138xzj3ikld0i19qq3yxl1x
     verified: false
-    hashtags: "#realness, #jeep, #justdoit, #cim"
-  - username: "dr.nickc"
-    fullname: >-
-      Dr. Nick 🦷
-    location: "United States"
-    followers: 88655
-    engagement: 321
-    commentsToLikes: 0.042350
-    id: ck6ttoi9gbqo70j71n8n0q2rd
-    verified: false
-    hashtags: "#quarantinememes, #dentalassistant, #odontologia, #porcelainveneers"
-  - username: "dr.raymiami"
-    fullname: >-
-      Dr. Ray Lopez
-    location: "United States"
-    followers: 77699
-    engagement: 826
-    commentsToLikes: 0.019683
-    id: ck602n3afi37x0i14j8081gbq
-    verified: false
-    hashtags: "#tgif, #legend, #mondaymotivation, #execute"
-  - username: "cellyveebeauty"
-    fullname: >-
-      Celeste💋
-    location: "United States"
-    followers: 5075
-    engagement: 2325
-    commentsToLikes: 0.044265
-    id: ck5zsna9yytt40i143t1der7o
-    verified: false
-    hashtags: "#maquillaje, #muamafia, #winterwonderland, #fiercesociety"
+    hashtags: "#covid19, #praisebe, #outside, #smile"
 ---

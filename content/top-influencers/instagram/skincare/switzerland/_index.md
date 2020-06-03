@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top skincare Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #blogger #ootd #fashion.
+  Find top skincare Instagram influencers in Switzerland in 2020. Most popular hashtags: #skincare #skincareroutine #fashionlover #beauty.
 platform: Instagram
 profiles:
-  - username: "doriane_dml"
-    fullname: >-
-      Doriane | Outfits • Lifestyle
-    location: "Switzerland"
-    followers: 5438
-    engagement: 1294
-    commentsToLikes: 0.094655
-    id: ck6tx8aaqwe0g0j712ueqckkb
-    verified: false
-    hashtags: "#ad, #mondaymotivation, #skincarelove, #springoutfit"
-  - username: "andreiajessica"
-    fullname: >-
-      jessica 🍦
-    location: "Switzerland"
-    followers: 29385
-    engagement: 424
-    commentsToLikes: 0.232054
-    id: ck5bzfwd9r2710i11kw9xfqsv
-    verified: false
-    hashtags: "#swissinfluencer, #outfitdujour, #momentsofchic, #moscowgirl"
-  - username: "slavia_karlen"
-    fullname: >-
-      Slavia Karlen
-    location: "Switzerland"
-    followers: 30375
-    engagement: 340
-    commentsToLikes: 0.113590
-    id: ck15u6q7alol00i19zder1ye4
-    verified: false
-    hashtags: "#valentinesday2020, #unleashtheartistwithin, #jointflexibility, #womenempoweringwomen"
-  - username: "geraldine.antoinette"
-    fullname: >-
-      Geraldine Antoinette Yoga ૐ
-    location: "Switzerland"
-    followers: 8518
-    engagement: 597
-    commentsToLikes: 0.231257
-    id: ck5zoznc1rp4w0i14wjljzi0q
-    verified: false
-    hashtags: "#boredinthehouse, #gypsysoul, #feelinggood, #glowingskin"
-  - username: "kimberly_bru"
-    fullname: >-
-      FASHION | BEAUTY | INSPO
-    location: "Switzerland"
-    followers: 14299
-    engagement: 780
-    commentsToLikes: 0.159107
-    id: ck5hr0346u1300i11hw9scywu
-    verified: false
-    hashtags: "#gesichtspflege, #autumnoutfit, #workoutmotivations, #inspoblogger"
-  - username: "anaisindra"
-    fullname: >-
-      Anaïs indra
-    location: "Switzerland"
-    followers: 17319
-    engagement: 448
-    commentsToLikes: 0.232400
-    id: ck5hppilnrraf0i11zqlwvmc6
-    verified: false
-    hashtags: "#sun, #giuseppezanotti, #shoegiveaway, #instadaily"
-  - username: "kriirado"
-    fullname: >-
-      Kristina Radović
-    location: "Switzerland"
-    followers: 20709
-    engagement: 527
-    commentsToLikes: 0.027839
-    id: ck0vznmcz9zvf0i194s8137r1
-    verified: false
-    hashtags: "#purple, #healthy, #happyday, #tryit"
-  - username: "lulilapri"
-    fullname: >-
-      Laura Laprida 🎬
-    location: "Switzerland"
-    followers: 343362
-    engagement: 593
-    commentsToLikes: 0.007740
-    id: ck14jk0f6kqyr0i19dmvi4quv
-    verified: true
-    hashtags: "#ski, #pilar, #aislamiento, #yomequedoencasa"
   - username: "chanti_lia"
     fullname: >-
       FASHION BLOGGER
     location: "Switzerland"
-    followers: 33134
-    engagement: 205
-    commentsToLikes: 0.258766
+    followers: 34396
+    engagement: 546
+    commentsToLikes: 0.100444
     id: ck5qbxr5wnw5h0i11uggqfyu7
     verified: false
-    hashtags: "#instalook, #comfy, #breakigoals, #blog"
-  - username: "rafaelbeutl"
+    hashtags: "#qotd, #mondays, #fashionstyle, #nikesocks"
+  - username: "andreiajessica"
     fullname: >-
-      rafaelbeutl
+      jessica 🌸
     location: "Switzerland"
-    followers: 58837
-    engagement: 201
-    commentsToLikes: 0.028257
-    id: ck55pet8haetg0i11ge9jt238
+    followers: 29892
+    engagement: 505
+    commentsToLikes: 0.222509
+    id: ck5bzfwd9r2710i11kw9xfqsv
+    verified: false
+    hashtags: "#palmsprings, #urbanistalife, #makeuplook, #bubbleteatime"
+  - username: "danielkaay_"
+    fullname: >-
+      DΛNIEL KΛΛY
+    location: "Switzerland"
+    followers: 4050
+    engagement: 1658
+    commentsToLikes: 0.197576
+    id: ck5cahyisdg1v0i11a8gf1jjx
+    verified: false
+    hashtags: "#mensbeauty, #grooming, #mensskincare, #truewireless"
+  - username: "moni0608"
+    fullname: >-
+      🌹Monika🌹👩🏼
+    location: "Switzerland"
+    followers: 5496
+    engagement: 1438
+    commentsToLikes: 0.400226
+    id: ckapbw7cm1ig50i78c44x522c
+    verified: false
+    hashtags: "#igers, #chocolate, #pasqua, #photo"
+  - username: "bella_zofia"
+    fullname: >-
+      Bella♡Fashion |Beauty |Travel
+    location: "Switzerland"
+    followers: 9662
+    engagement: 1103
+    commentsToLikes: 0.075172
+    id: ck15qksrl3c4a0i19iz9ozoai
+    verified: false
+    hashtags: "#fridayselfie, #ermannoscervino, #parisianvibes, #beautifulgeneva"
+  - username: "kimberly_bru"
+    fullname: >-
+      Fashion | Beauty | Lifestyle
+    location: "Switzerland"
+    followers: 15450
+    engagement: 819
+    commentsToLikes: 0.134308
+    id: ck5hr0346u1300i11hw9scywu
+    verified: false
+    hashtags: "#hairextensions, #ootdmagazine, #blondiegirl, #facemask"
+  - username: "kriirado"
+    fullname: >-
+      Kristina Radović
+    location: "Switzerland"
+    followers: 20425
+    engagement: 513
+    commentsToLikes: 0.033182
+    id: ck0vznmcz9zvf0i194s8137r1
+    verified: false
+    hashtags: "#tgif, #loveit, #avene, #amazing"
+  - username: "andromeda_333"
+    fullname: >-
+      Manuela Ghirlanda
+    location: "Switzerland"
+    followers: 13913
+    engagement: 407
+    commentsToLikes: 0.268111
+    id: ck6uca7s4eeto0j71se9r7i35
+    verified: false
+    hashtags: "#glaubeandich, #abudhabi, #happinessquotes, #modeblogger"
+  - username: "itsmarionreber"
+    fullname: >-
+      Marion Reber
+    location: "Switzerland"
+    followers: 29229
+    engagement: 363
+    commentsToLikes: 0.267747
+    id: ck5zu9dni1xee0i14mh59gylk
+    verified: false
+    hashtags: "#hair, #focused, #selfcare, #fentybeauty"
+  - username: "ewaszabatin"
+    fullname: >-
+      Ewa Szabatin | FitFashionFreak
+    location: "Switzerland"
+    followers: 57028
+    engagement: 97
+    commentsToLikes: 0.111543
+    id: ck5c35fgvymva0i11e9p6muyf
     verified: true
-    hashtags: "#call, #velo, #switzerland, #daddyweekend"
+    hashtags: "#getoutdoors, #livestreaming, #yogalovers, #hereandnow"
 ---

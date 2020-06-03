@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Poland In 2020
 description: >-
-  Find top travel Instagram influencers in Poland in 2020. Most popular hashtags: #polskadziewczyna #smile #poland #polishgirl.
+  Find top travel Instagram influencers in Poland in 2020. Most popular hashtags: #makeup #holidays #wiosna #fashionlover.
 platform: Instagram
 profiles:
   - username: "angelika_rysz"
     fullname: >-
       Angelika
     location: "Poland"
-    followers: 2708
-    engagement: 2110
-    commentsToLikes: 0.343054
+    followers: 3225
+    engagement: 2173
+    commentsToLikes: 0.306699
     id: ck5zizhb5gnvu0i14guq3n633
     verified: false
-    hashtags: "#evelinecosmetics, #mood, #mojewszystko, #naturalbeauties"
-  - username: "mrsjustynasidor"
+    hashtags: "#beautyissimple, #artystycznezdj, #boymom, #jestemmama"
+  - username: "agata_zyzak"
     fullname: >-
-      Just Tyna
+      Agata Zyzak
     location: "Poland"
-    followers: 10014
-    engagement: 2269
-    commentsToLikes: 0.066475
-    id: ck8t73lwdfj7a0j78z7dpbtn6
+    followers: 3537
+    engagement: 3189
+    commentsToLikes: 0.224777
+    id: ckaozq80lmxfi0i78tvh7m9yj
     verified: false
-    hashtags: "#dzieci, #polskitata, #noworodekwdomu, #corazblizej"
-  - username: "carolinagawron"
+    hashtags: "#mylove, #peonies, #instawtorek, #happyme"
+  - username: "oleksy_patrycja_"
     fullname: >-
-      Carolina Gawron
+      Patrycja
     location: "Poland"
-    followers: 16869
-    engagement: 1527
-    commentsToLikes: 0.062773
-    id: ck5cewrm5lvb40i11ace9yf12
+    followers: 2359
+    engagement: 3036
+    commentsToLikes: 0.279298
+    id: ckaozwm0hnqfu0i78rt8g4vi5
     verified: false
-    hashtags: "#rcmemories, #berlin, #magic, #loveistheanswer"
+    hashtags: "#springmood, #womenpower, #intablogger, #wiosna"
+  - username: "siostry_adihd"
+    fullname: >-
+      Ilona i Milena Krawczyńskie👯🎥
+    location: "Poland"
+    followers: 181571
+    engagement: 1062
+    commentsToLikes: 0.099491
+    id: ck0u0xampv6360i19rgjvx070
+    verified: false
+    hashtags: "#joannako, #czujelato, #noworodek, #pepkowe"
   - username: "karoolaola"
     fullname: >-
       Karolina Wójcik
     location: "Poland"
-    followers: 6691
-    engagement: 2301
-    commentsToLikes: 0.082906
+    followers: 7248
+    engagement: 1716
+    commentsToLikes: 0.105598
     id: ck8t48v335we50j7855qvsrar
     verified: false
-    hashtags: "#ponytail, #tenerifesur, #beach, #slavicgirl"
+    hashtags: "#cute, #blackhair, #slavicgirl, #ukrainiangirl"
   - username: "beata_walczynska"
     fullname: >-
       
     location: "Poland"
-    followers: 12343
-    engagement: 1479
-    commentsToLikes: 0.074857
+    followers: 12062
+    engagement: 1537
+    commentsToLikes: 0.075752
     id: ck13azgmrsy100i19khq0qwde
     verified: false
-    hashtags: "#sunnyday, #autumn, #autumnstyle, #lovelyplace"
+    hashtags: "#flowers, #happytime, #naturephoto, #walk"
   - username: "travelakcja"
     fullname: >-
       Monika
     location: "Poland"
-    followers: 4138
-    engagement: 2168
-    commentsToLikes: 0.146559
+    followers: 4563
+    engagement: 2368
+    commentsToLikes: 0.134280
     id: ck8t5d6fr9pwn0j78phmo8ktt
     verified: false
-    hashtags: "#city, #instagram, #tatry360, #paradise"
-  - username: "paulawuczko"
+    hashtags: "#gdyniaorlowo, #paradiseisland, #trojmiasto, #freedom"
+  - username: "themimki"
     fullname: >-
-      Paulina Wuczko
+      M I M K I  ♡  ALICJA ╳ KONRAD
     location: "Poland"
-    followers: 15086
-    engagement: 900
-    commentsToLikes: 0.074302
-    id: ck0ubm7frew3k0i19tzsc1mr6
+    followers: 8045
+    engagement: 1667
+    commentsToLikes: 0.070817
+    id: ckap0wrt4s5ix0i78rv3csij6
     verified: false
-    hashtags: "#wygoda, #piesek, #calvinklein, #skleponline"
-  - username: "tatevik_yes"
+    hashtags: "#walkoffame, #purenewmexico, #utahisrad, #kaktus"
+  - username: "carolinagawron"
     fullname: >-
-      Tatevik Yesayan Gąsińska
+      Carolina Gawron
     location: "Poland"
-    followers: 7239
-    engagement: 1094
-    commentsToLikes: 0.083622
-    id: ck5q6g5tkx9p40i11j90fuzzb
+    followers: 17416
+    engagement: 1480
+    commentsToLikes: 0.064412
+    id: ck5cewrm5lvb40i11ace9yf12
     verified: false
-    hashtags: "#makijazwieczorowy, #cocacola, #wygrywaj, #sesja"
-  - username: "gajanagalstjan"
+    hashtags: "#looks, #flowers, #womenstyle, #eyeglasses"
+  - username: "blonde.lady"
     fullname: >-
-      Gajana Galstjan
+      Aneta Putowska 👰🏼🔒🇵🇱
     location: "Poland"
-    followers: 26646
-    engagement: 842
-    commentsToLikes: 0.043624
-    id: ck6tpueosn20i0j713s14y72c
+    followers: 114776
+    engagement: 673
+    commentsToLikes: 0.040232
+    id: ck9hb8ylufun20j78n1zm26rz
     verified: false
-    hashtags: "#gundolls, #gajanagalstjan"
-  - username: "nikkisetnik"
-    fullname: >-
-      Nikki Setnik
-    location: "Poland"
-    followers: 23389
-    engagement: 639
-    commentsToLikes: 0.064416
-    id: ck15qb5z21zv40i19tpe5behf
-    verified: false
-    hashtags: "#sroda, #fithome, #sportowo, #dieta"
+    hashtags: "#motywacja, #styl, #styleinspo, #skincare"
 ---

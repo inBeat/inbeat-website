@@ -1,59 +1,59 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top architecture Instagram influencers in Los Angeles in 2020. Most popular hashtags: #architecture #losangeles #california #interiordesign.
+  Find top architecture Instagram influencers in Los Angeles in 2020. Most popular hashtags: #architecture #losangeles #sanfrancisco #broker.
 platform: Instagram
 profiles:
   - username: "karamanndesign"
     fullname: >-
       Kara Mann
     location: "United States"
-    followers: 26188
-    engagement: 223
-    commentsToLikes: 0.021254
+    followers: 28225
+    engagement: 226
+    commentsToLikes: 0.024890
     id: ck5hog0bgphu90i11sjbpwd5n
     verified: true
-    hashtags: "#gettyvilla, #fromthearchives, #dollypartonchallenge, #inspo"
+    hashtags: "#karamannbts, #oopsididitagain, #process, #earthday"
   - username: "harrisondesign"
     fullname: >-
       Harrison Design
     location: "United States"
-    followers: 28992
-    engagement: 218
-    commentsToLikes: 0.022410
+    followers: 35948
+    engagement: 211
+    commentsToLikes: 0.021494
     id: ck5c7qg6380bn0i11pyzwmix2
     verified: false
-    hashtags: "#cleandesign, #englishgarden, #firepit, #interiorsofinstagram"
-  - username: "conexao.america"
+    hashtags: "#palladioawards, #highriseliving, #fireplacedesign, #frenchregency"
+  - username: "amandagnwn"
     fullname: >-
-      conexaoamerica
+      Amanda Gunawan
     location: "United States"
-    followers: 8706
-    engagement: 498
-    commentsToLikes: 0.007069
-    id: ck5q2yd9didcp0i11kxkjc1wh
+    followers: 134375
+    engagement: 148
+    commentsToLikes: 0.012972
+    id: ckap0vur9s1jv0i78tnm0h31d
     verified: false
-    hashtags: "#newyorklife, #sinfrancisco, #covid19, #conexaoamerica"
+    hashtags: "#keepingsaneinthemembrane, #nonewfriends"
   - username: "landrydesigngroup"
     fullname: >-
       Landry Design Group
     location: "United States"
-    followers: 29275
-    engagement: 136
-    commentsToLikes: 0.016440
+    followers: 29403
+    engagement: 134
+    commentsToLikes: 0.014921
     id: ck5hi8jjfc7eq0i114o40ianv
     verified: false
-    hashtags: "#interior, #paulwilliams, #exterior, #giselebundchen"
-  - username: "losangeles_city"
+    hashtags: "#oldworld, #outdoorliving, #gathering, #architecturelovers"
+  - username: "george.townley"
     fullname: >-
-      Official Los Angeles City Page
+      George Townley
     location: "United States"
-    followers: 487848
-    engagement: 110
-    commentsToLikes: 0.011773
-    id: ck0u9zuqob2om0i19uuhab44e
+    followers: 20877
+    engagement: 884
+    commentsToLikes: 0.073066
+    id: ck6uetmrwt0wd0j71mdpgat0l
     verified: false
-    hashtags: "#losangelesgraff, #losangelesvacations, #life, #redondobeach"
+    hashtags: "#hollywood, #randysdonuts, #giveaway, #stahlhouse"
   - username: "theoppenheimgroup"
     fullname: >-
       The Oppenheim Group
@@ -64,44 +64,44 @@ profiles:
     id: ck0w5koso442t0i19jczo1duw
     verified: true
     hashtags: "#realtor, #home, #photography, #netflix"
-  - username: "george.townley"
+  - username: "younghuh"
     fullname: >-
-      George Townley
+      younghuh
     location: "United States"
-    followers: 17803
-    engagement: 899
-    commentsToLikes: 0.019975
-    id: ck6uetmrwt0wd0j71mdpgat0l
+    followers: 57905
+    engagement: 92
+    commentsToLikes: 0.074155
+    id: ck6tic2re0fpc0j71r4r5eza5
     verified: false
-    hashtags: "#midcenturymodern, #california, #illustration, #griffithobservatory"
-  - username: "emlee7"
+    hashtags: "#visitbritain, #zoom, #chocolateboxcottage, #facades"
+  - username: "gogosrealestate"
     fullname: >-
-      Emma Lee | Fashion designer
+      Gogo Bethke - Brokered by Exp
     location: "United States"
-    followers: 28280
-    engagement: 205
-    commentsToLikes: 0.028564
-    id: ck0txpr0hk27v0i19a4rpfpv4
+    followers: 46234
+    engagement: 94
+    commentsToLikes: 0.079647
+    id: ck5cc59dtgqw90i11j2w1tc5v
     verified: false
-    hashtags: "#lifewelltravelled, #architectureporn, #emma, #exploremore"
+    hashtags: "#winning, #architecture, #detroitfreepress, #soulsearching"
   - username: "realestate"
     fullname: >-
       @RealEstate
     location: "United States"
-    followers: 76576
-    engagement: 144
-    commentsToLikes: 0.021968
+    followers: 87828
+    engagement: 119
+    commentsToLikes: 0.017563
     id: ck13b75i4u0ju0i19q6edh4b0
     verified: false
-    hashtags: "#realestateagent, #kobikarp, #winecellar, #backyard"
+    hashtags: "#helipad, #leasingagent, #slide, #paris"
   - username: "marmolradziner"
     fullname: >-
       Marmol Radziner
     location: "United States"
-    followers: 35745
+    followers: 37800
     engagement: 365
-    commentsToLikes: 0.017044
+    commentsToLikes: 0.017445
     id: ck0tzxsqwrwq70i19shh9oyx5
     verified: false
-    hashtags: "#openkitchen, #marmolradzinerlandscape, #ranchhouse, #2020ad100"
+    hashtags: "#chromasf, #marmolradzinerlandscape, #hawaiiarchitecture, #sullivancanyon"
 ---

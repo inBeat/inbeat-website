@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Sao Paulo In 2020
 description: >-
-  Find top fashion Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #love #sp #morenailuminada #tiktok.
+  Find top fashion Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #beleza #like4like #fashion #like.
 platform: Instagram
 profiles:
   - username: "ronyhernandes"
     fullname: >-
       Rony Hernandes
     location: "Brazil"
-    followers: 35339
-    engagement: 492
-    commentsToLikes: 0.007928
+    followers: 36032
+    engagement: 462
+    commentsToLikes: 0.009536
     id: ck5zu5igo1pv00i14agiz35lq
     verified: false
     hashtags: "#revisiteumafoto"
-  - username: "makson_fotografia"
-    fullname: >-
-      Makson Corrêa FOTOGRAFIA | 📸
-    location: "Brazil"
-    followers: 6391
-    engagement: 678
-    commentsToLikes: 0.080407
-    id: ck5zmb12ym8nx0i14hu64e02c
-    verified: false
-    hashtags: "#ensaiointerno, #cacheadas, #lisastyle, #ensaiomodelo"
-  - username: "thays_hipolito"
-    fullname: >-
-      Thays Hipólito
-    location: "Brazil"
-    followers: 2238
-    engagement: 1426
-    commentsToLikes: 0.054750
-    id: ck8t2ytax186s0j78crdh20oz
-    verified: false
-    hashtags: "#scarpin, #feemdeus, #thumblr, #pazeamor"
-  - username: "favarojrfotografia"
-    fullname: >-
-      Favaro JR
-    location: "Brazil"
-    followers: 37958
-    engagement: 117
-    commentsToLikes: 0.030298
-    id: ck8t07vgdr4gh0j78h94702kl
-    verified: false
-    hashtags: "#fashion, #saopaulo, #life, #cute"
   - username: "rhaiffe"
     fullname: >-
       Rhaiffe Ortiz
     location: "Brazil"
-    followers: 79365
-    engagement: 282
-    commentsToLikes: 0.036406
+    followers: 80870
+    engagement: 286
+    commentsToLikes: 0.059139
     id: ck55mtayn4qpw0i11y5d44pll
     verified: false
     hashtags: "#thassiainmotion, #tncouture, #skazitakesafrica, #tbt"
-  - username: "julianagomes"
+  - username: "evthalia"
     fullname: >-
-      Juliana Gomes Stocco
+      Thalia Ferraz
     location: "Brazil"
-    followers: 6162
-    engagement: 724
-    commentsToLikes: 0.042163
-    id: ck55jccdswqul0i110a5y27hw
+    followers: 126977
+    engagement: 791
+    commentsToLikes: 0.015772
+    id: ck0w0xs2lgkbq0i197s8hkrbq
     verified: false
-    hashtags: "#ootd, #hereandnow, #sodancabrasil, #socks"
-  - username: "arianesousa_"
+    hashtags: "#emcasacomdeltaq"
+  - username: "miiablog"
     fullname: >-
-      A R I A N E    S O U S A
+      MIA
     location: "Brazil"
-    followers: 18977
-    engagement: 441
-    commentsToLikes: 0.095854
-    id: ck8t0wy85tn3a0j78roewwgyu
+    followers: 5267
+    engagement: 917
+    commentsToLikes: 0.152979
+    id: ckaosap38qvnc0i78w489dpwj
     verified: false
-    hashtags: "#brasil, #sol, #summer, #love"
-  - username: "cahconrado"
+    hashtags: "#tiaraperolas, #tecnicafoxeyes, #pos, #tecnicademake"
+  - username: "thaisrodrigues"
     fullname: >-
-      Carolina Conrado
+      Thais Rodrigues
     location: "Brazil"
-    followers: 32962
-    engagement: 200
-    commentsToLikes: 0.114071
-    id: ck0vwcdirt2di0i19ycvpyux7
+    followers: 369466
+    engagement: 220
+    commentsToLikes: 0.018910
+    id: ck5bxk9ppnw1n0i11skqivv2v
     verified: false
-    hashtags: "#foraprior, #ficamanu, #foryoupage, #foryou"
-  - username: "foxxpaola"
+    hashtags: "#casadema, #comfy, #colec, #tbtr"
+  - username: "fatinhaa_allves"
     fullname: >-
-      PAOLA 🦊
+      fatinhaallves 🔵
     location: "Brazil"
-    followers: 196490
-    engagement: 125
-    commentsToLikes: 0.055946
-    id: ck8t0ls0fshyx0j78w90evmd4
+    followers: 13755
+    engagement: 810
+    commentsToLikes: 0.022290
+    id: ck0tu2jw55cpj0i1945ped0ri
     verified: false
-    hashtags: ""
+    hashtags: "#hotmart, #fotograf, #selfie, #iphonegraphy"
   - username: "gabrielrenne"
     fullname: >-
-      Gabriel Renné 🎬
+      Gabriel Renné 🎬
     location: "Brazil"
-    followers: 48880
-    engagement: 154
-    commentsToLikes: 0.046535
+    followers: 48191
+    engagement: 223
+    commentsToLikes: 0.146128
     id: ck14iqnxpgqvu0i19p6waxjoi
     verified: false
-    hashtags: "#blonde, #cabelosloiros, #salao1838, #1838jdamerica"
+    hashtags: "#blonde, #haircut, #beauty, #gagabrasil"
+  - username: "ste_franchetto"
+    fullname: >-
+      Stephanie Franchetto
+    location: "Brazil"
+    followers: 6945
+    engagement: 1589
+    commentsToLikes: 0.980504
+    id: ck5bzx32qs0410i11cvj0hl8n
+    verified: false
+    hashtags: "#participem, #followers, #sorteiogram, #protejase"
+  - username: "_mistressofdark"
+    fullname: >-
+      𝔏𝔢𝔱𝔦𝔠𝔦𝔞 🕸
+    location: "Brazil"
+    followers: 4196
+    engagement: 1190
+    commentsToLikes: 0.251608
+    id: ckap0lep4qtfd0i78zwlpwqkv
+    verified: false
+    hashtags: ""
+  - username: "vicqueen"
+    fullname: >-
+      Vic Hollo
+    location: "Brazil"
+    followers: 185921
+    engagement: 470
+    commentsToLikes: 0.005669
+    id: ck0w19ag4i6s00i190kpqrsmv
+    verified: false
+    hashtags: "#carinhoalemdoabra, #mindse7cea, #marcasbrasileirasnaquarentena"
 ---

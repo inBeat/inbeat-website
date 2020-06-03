@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Kyoto In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Kyoto in 2020. Most popular hashtags: #japan #kyoto #visitjapan #travel.
+  Find top lifestyle Instagram influencers in Kyoto in 2020. Most popular hashtags: #kyoto #lifestyle #kyotojapan #tokyo.
 platform: Instagram
 profiles:
-  - username: "sonyapan"
+  - username: "niiyama_chiharu"
     fullname: >-
-      Sonya Pandarmawan
+      🌹新山千春🌹𝕠𝕗𝕗𝕚𝕔𝕚𝕒𝕝
     location: "Japan"
-    followers: 231199
-    engagement: 323
-    commentsToLikes: 0.004001
-    id: ck0vz1jsn6ts10i19ncfnwp5x
+    followers: 31436
+    engagement: 382
+    commentsToLikes: 0.000000
+    id: ck6tze9bf96ut0j71s2p84d2c
     verified: true
-    hashtags: "#prayforeveryone, #noedit, #mood, #beranialami"
+    hashtags: "#cosmetics, #silver, #casualcoordinate, #moa"
+  - username: "reiko_katsuyama"
+    fullname: >-
+      REIKO_KATSUYAMA
+    location: "Japan"
+    followers: 9161
+    engagement: 688
+    commentsToLikes: 0.009833
+    id: ck6u8jr1krzpe0j71lpuc52fo
+    verified: false
+    hashtags: "#ashtrayworld, #roots, #unitedanceproject, #sis"
+  - username: "noddiction"
+    fullname: >-
+      HEALTHY LIFESTYLE | TRAVEL
+    location: "Japan"
+    followers: 48509
+    engagement: 427
+    commentsToLikes: 0.186579
+    id: ck6tplmp8kkdb0j71x7ekx5jo
+    verified: false
+    hashtags: "#hyattregency, #greenwich, #bienmanger, #mocktail"
   - username: "joelmcdowell"
     fullname: >-
       JOEL MCDOWELL | New Zealand
     location: "Japan"
-    followers: 10138
-    engagement: 636
-    commentsToLikes: 0.046274
+    followers: 10162
+    engagement: 569
+    commentsToLikes: 0.047606
     id: ck0w60vs16dl90i19sdskpm3o
     verified: false
-    hashtags: "#matsumoto, #yudanaka, #kathmandugear, #limpopo"
+    hashtags: "#wpy55, #sponsored, #nagano, #limpopo"
   - username: "japantravelphoto"
     fullname: >-
       Japan Travel Photo
     location: "Japan"
-    followers: 60938
-    engagement: 467
-    commentsToLikes: 0.003442
+    followers: 63372
+    engagement: 566
+    commentsToLikes: 0.003556
     id: ck8t4zg7b8c950j78c9woocz7
     verified: false
-    hashtags: "#riverside, #shibuya, #starrynight, #onomichi"
-  - username: "igor_eezo"
+    hashtags: "#boatlife, #shibuya, #honshu, #museum"
+  - username: "nyanchutagram9"
     fullname: >-
-      Igor Khrupin
+      Mizuki‪(*˙˘˙*)❥❥
     location: "Japan"
-    followers: 21124
-    engagement: 265
-    commentsToLikes: 0.006257
-    id: ck14kbrz2oqjf0i19vlgjzw7y
+    followers: 5925
+    engagement: 1020
+    commentsToLikes: 0.012844
+    id: ck9hbj2r6h1z70j78bl77lnk7
     verified: false
-    hashtags: "#eplorejpn, #artoftheday, #urbanphoto, #beautifuldestinations"
-  - username: "hug_me_mother"
+    hashtags: "#likelike, #kimonofashion, #kimonolovers, #ungrid"
+  - username: "kenji_ando"
     fullname: >-
-      Wiki&Asia
+      Andy🏂🛹🎣🍻
     location: "Japan"
-    followers: 8853
-    engagement: 1910
-    commentsToLikes: 0.008226
-    id: ck6tt5czf8p2g0j71ovgkmkvh
+    followers: 11640
+    engagement: 1001
+    commentsToLikes: 0.012506
+    id: ck15tdhy7hkj60i19yob0rzs7
     verified: false
-    hashtags: "#zosta, #asakusa, #travelmom, #borabora"
+    hashtags: "#mood, #january, #fixed, #12yearsago"
   - username: "isseimorinaka"
     fullname: >-
       Issei morinaka
     location: "Japan"
-    followers: 19108
-    engagement: 818
-    commentsToLikes: 0.003407
+    followers: 21653
+    engagement: 793
+    commentsToLikes: 0.003379
     id: ck5bzjbx8r9du0i11f811dzhp
     verified: false
-    hashtags: "#ninja, #concretejungle, #bigl, #skate"
-  - username: "iamdennisfresh"
+    hashtags: "#vintage, #disco, #concretejungle, #showtime"
+  - username: "tokyotourguide"
     fullname: >-
-      Dennis
+      Tokyo tour guide 🇯🇵
     location: "Japan"
-    followers: 110906
-    engagement: 810
-    commentsToLikes: 0.012636
-    id: ck0vvqnj6qbve0i19ejtoh2t2
+    followers: 23134
+    engagement: 272
+    commentsToLikes: 0.050326
+    id: ckap54n4qa6lj0i78oiqhz0ok
     verified: false
-    hashtags: "#familiachula, #ad, #tictacxspotify, #hustlefresh"
-  - username: "rinachesca"
+    hashtags: "#japanesememe, #travelmemes, #japanfoodie, #amazingjapan"
+  - username: "aya408"
     fullname: >-
-      ちぇすか ❁ Rina Franchesca
+      a y a
     location: "Japan"
-    followers: 61739
-    engagement: 456
-    commentsToLikes: 0.032017
-    id: ck5q2gu43fy9j0i11lds0ysg6
+    followers: 5706
+    engagement: 1544
+    commentsToLikes: 0.012609
+    id: ck6tq6xkypqnb0j715tdqcb6y
     verified: false
-    hashtags: "#stradivarius, #osaka, #tokyotrip2020, #thanks"
-  - username: "savnhxoxo"
-    fullname: >-
-      Savannah
-    location: "Japan"
-    followers: 35486
-    engagement: 282
-    commentsToLikes: 0.041242
-    id: ck6udeb4bklmp0j71w3lpiv97
-    verified: false
-    hashtags: "#fhmshoot, #boxing, #gymshark, #bellamodels"
-  - username: "paris.eyes"
-    fullname: >-
-      Amanda Tsai | Hotels | Dreams
-    location: "Japan"
-    followers: 184045
-    engagement: 274
-    commentsToLikes: 0.011458
-    id: ck14i05lzd00b0i19xr1m4f30
-    verified: false
-    hashtags: "#gintonictime, #trianonpalace, #venusetfleur, #fairy"
+    hashtags: "#topnewyorkphoto, #prettycityparis, #verilymoment, #coffeelover"
 ---

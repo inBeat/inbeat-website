@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In India In 2020
 description: >-
-  Find top travel Instagram influencers in India in 2020. Most popular hashtags: #india #fashionblogger #love #ktmracing.
+  Find top travel Instagram influencers in India in 2020. Most popular hashtags: #stayhome #trekkersofindia #instavacation #girlswhotravel.
 platform: Instagram
 profiles:
-  - username: "feelingfashioninside"
+  - username: "lucide_rider"
     fullname: >-
-      Personal Blog
+      𖦹𝖙𝖍𝖆𝖇𝖘𝖍𝖊𝖊𝖗 𝖓𝖆𝖇𝖍𝖆𝖓
     location: "India"
-    followers: 5110
-    engagement: 1870
-    commentsToLikes: 0.369683
-    id: ck8t8az4cjr370j786zot9dwa
+    followers: 6596
+    engagement: 4385
+    commentsToLikes: 0.129316
+    id: ck9wp9cix8cnk0j78v7w9wauk
     verified: false
-    hashtags: "#naturalskincareproducts, #hairgoals, #stayhomesavelives, #planforvacation"
+    hashtags: "#kerala360, #kasaragod, #mallugirl, #mallureposts"
+  - username: "x_markzian"
+    fullname: >-
+      irshad mohammed ♞【 Z.X 】
+    location: "India"
+    followers: 2384
+    engagement: 3265
+    commentsToLikes: 0.214148
+    id: ck9wfd8rkocij0j789skl4nk0
+    verified: false
+    hashtags: "#kali, #instagramnyc, #sparkleteam, #keralagallery"
   - username: "ourpassportstory_"
     fullname: >-
       Surbhi & Nehil | Travel Couple
     location: "India"
-    followers: 3412
-    engagement: 3211
-    commentsToLikes: 0.192982
+    followers: 3829
+    engagement: 3113
+    commentsToLikes: 0.163963
     id: ck6tyeona3a9p0j71yjimujwa
     verified: false
-    hashtags: "#marinabaysands, #petronastowers, #mydubai, #cappadocia"
-  - username: "arunsmoki"
+    hashtags: "#turkey, #quarantine, #home, #cappadocia"
+  - username: "thegirlfromkree"
     fullname: >-
-      Arun_smoki
+      The Girl From Kree l Travel 🎿🏂
     location: "India"
-    followers: 475325
-    engagement: 1594
-    commentsToLikes: 0.031579
-    id: ck139ahqtkc5m0i19kucchr2e
+    followers: 3803
+    engagement: 2578
+    commentsToLikes: 0.197075
+    id: ckap76h3ditt70i78kqiacr6y
     verified: false
-    hashtags: "#srinagar, #visitkerala, #love, #tbt"
-  - username: "sheoran_ani"
+    hashtags: "#jaipur, #trailsofindia, #tourist, #girlsabroad"
+  - username: "mad_makry"
     fullname: >-
-      Anita Sheoran
+      Gø Kül
     location: "India"
-    followers: 7221
-    engagement: 1611
-    commentsToLikes: 0.129720
-    id: ck134t2i8y27n0i19bylzcuf5
+    followers: 5525
+    engagement: 2078
+    commentsToLikes: 0.095154
+    id: ck9wi7k2712kk0j781whcnhfa
     verified: false
-    hashtags: "#allskintypes, #happyskin, #crueltyfree, #aromatherapeutic"
-  - username: "the_bikerstorm"
+    hashtags: ""
+  - username: "yobaemaya"
     fullname: >-
-      Bikerstorm | YAMAHA BIKER
+      Hai Anh 🍋 travel girl
     location: "India"
-    followers: 3724
-    engagement: 3442
-    commentsToLikes: 0.149098
-    id: ck8t81wqjitae0j78zck7tco3
+    followers: 8632
+    engagement: 1993
+    commentsToLikes: 0.129555
+    id: ck5q3n8vlljqv0i11x3469m2o
     verified: false
-    hashtags: "#ktmduke390, #covid, #ktmrc390, #yamahamt15"
-  - username: "thebeautycape"
+    hashtags: "#singapore, #rijksmuseum, #wonderful, #stayhome"
+  - username: "vagavogue"
     fullname: >-
-      Anjali Soni | Jaipur Blogger
+      JB
     location: "India"
-    followers: 8450
-    engagement: 1536
-    commentsToLikes: 0.134917
-    id: ck8t7j0sqgzle0j78l7n9t8w2
+    followers: 6862
+    engagement: 1899
+    commentsToLikes: 0.101703
+    id: ck15s9rl4bwzz0i19kd04079v
     verified: false
-    hashtags: "#fashioninspo, #bulbulshoplive, #paysafeindia, #fashiontrends"
-  - username: "sanu_misfer"
-    fullname: >-
-      😍 MUHAMMED MISFER 💞
-    location: "India"
-    followers: 9859
-    engagement: 1684
-    commentsToLikes: 0.075924
-    id: ck138tgijhxj50i19y7htrry9
-    verified: false
-    hashtags: "#enjoylife, #life, #love, #gangstarunitedkerela"
-  - username: "hungrycruisers"
-    fullname: >-
-      Arushi💞Prakhar
-    location: "India"
-    followers: 4393
-    engagement: 2158
-    commentsToLikes: 0.277624
-    id: ck6u0kii0g8au0j71n1gttul1
-    verified: false
-    hashtags: "#trip, #bestestbuddies, #india, #trees"
-  - username: "komalvermaofficial"
-    fullname: >-
-      @KomalVerma
-    location: "India"
-    followers: 18116
-    engagement: 858
-    commentsToLikes: 0.068874
-    id: ck136dy8e60n70i19deinga64
-    verified: false
-    hashtags: "#oldsong, #fashiongirl, #delhigram, #sareeinspiration"
+    hashtags: "#lightroom, #ladakhlovers, #bhutantrip, #delhiblogger"
   - username: "chalta_firtaa"
     fullname: >-
-      Chetan S Uike | NAGPUR
+      Chetan S Uike | NAGPUR📍
     location: "India"
-    followers: 5725
-    engagement: 1826
-    commentsToLikes: 0.062715
+    followers: 6246
+    engagement: 1816
+    commentsToLikes: 0.082713
     id: ck55lg1m01hdb0i11s28r5jew
     verified: false
-    hashtags: "#cricket, #nustaharamkhor, #mypixeldiary, #coronavirus"
+    hashtags: "#street, #dogsofinstagram, #pune, #35awards"
+  - username: "shalini_vishnoi"
+    fullname: >-
+      Shalini Vishnoi
+    location: "India"
+    followers: 7366
+    engagement: 1676
+    commentsToLikes: 0.152239
+    id: ck9wfajl3nz5s0j788hj5ng5n
+    verified: false
+    hashtags: "#summervibes, #igersofindia, #babesofsbl, #casualoutfit"
+  - username: "helloomelissa"
+    fullname: >-
+      California ♥ Melissa - Travel
+    location: "India"
+    followers: 25018
+    engagement: 853
+    commentsToLikes: 0.143975
+    id: ck0ud7ovvijkw0i19f6par2y1
+    verified: false
+    hashtags: "#liketkit"
 ---

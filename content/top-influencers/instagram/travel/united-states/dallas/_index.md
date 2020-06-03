@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Dallas In 2020
 description: >-
-  Find top travel Instagram influencers in Dallas in 2020. Most popular hashtags: #dallas #ootd #texas #fashion.
+  Find top travel Instagram influencers in Dallas in 2020. Most popular hashtags: #quarantine #cincodemayo #sponsored #ltkbaby.
 platform: Instagram
 profiles:
   - username: "anabeth.jpg"
     fullname: >-
       Anabeth.jpg
     location: "United States"
-    followers: 17975
-    engagement: 255
-    commentsToLikes: 0.073752
+    followers: 20857
+    engagement: 269
+    commentsToLikes: 0.076748
     id: ck5q8s75i7qp00i11ivduhogc
     verified: false
-    hashtags: "#imwithjessica, #girlssupportgirls, #happybirthday, #netflix"
+    hashtags: "#nataliesoj, #stylevideo, #stopsign, #hutchdesign"
+  - username: "cosignkg"
+    fullname: >-
+      K.G. | COSIGN 🇵🇦
+    location: "United States"
+    followers: 5837
+    engagement: 317
+    commentsToLikes: 0.121469
+    id: ck5pydfl9vha40i11tiki9bd9
+    verified: false
+    hashtags: "#hennessybhmdallas, #thelastdance, #lifeisgood, #community"
+  - username: "everything_ravish"
+    fullname: >-
+      Ravishing.ravish
+    location: "United States"
+    followers: 87236
+    engagement: 413
+    commentsToLikes: 0.098707
+    id: ck13cieil0i200i19qxnhzinu
+    verified: false
+    hashtags: "#kkwbeauty, #ootdfashion, #dallascowboys, #newyorkgirl"
   - username: "katnazz001"
     fullname: >-
       Kat D-Villano
     location: "United States"
-    followers: 33672
-    engagement: 138
-    commentsToLikes: 0.231224
+    followers: 32813
+    engagement: 109
+    commentsToLikes: 0.293939
     id: ck15shvfbd30g0i19t7jbnc05
     verified: false
-    hashtags: "#naturalskincareproducts, #quarantine, #necklacelover, #skincareroutine"
-  - username: "thecheydawn"
+    hashtags: "#cleanscent, #may3rd, #skincareblogger, #womenwholift"
+  - username: "bishopandholland"
     fullname: >-
-      Cheyenne Dawn
+      Stia, Jean & Katherine
     location: "United States"
-    followers: 9298
-    engagement: 677
-    commentsToLikes: 0.139157
-    id: ck5qdqa7rwt3e0i11bltc53rf
+    followers: 42927
+    engagement: 86
+    commentsToLikes: 0.123275
+    id: ck9wol3bz5l1n0j788vss715h
     verified: false
-    hashtags: "#canonshooter, #coloradophotography, #features, #abandonedportraits"
-  - username: "emma_barclay11"
+    hashtags: "#ltkstyletip, #memorialday, #stripes, #anthropologie"
+  - username: "dallasfoodwanderer"
     fullname: >-
-      Emma Barclay
+      𝐒𝐀𝐑𝐈𝐀 | Dallas Food Wanderer 🌎
     location: "United States"
-    followers: 48248
-    engagement: 223
-    commentsToLikes: 0.055138
-    id: ck5bwoqbbm42c0i11iovym05j
+    followers: 12632
+    engagement: 334
+    commentsToLikes: 0.143952
+    id: ck0w3er8vt17z0i19w116309e
     verified: false
-    hashtags: "#nevergiveuponyourself, #instagram, #adventure, #someday"
-  - username: "avashae_official"
+    hashtags: "#savelives, #foodcoma, #arabicfood, #cheesepie"
+  - username: "carly_mc"
     fullname: >-
-      ★ 𝓐𝓿𝓪 𝓢𝓱𝓪𝓮 ★
+      Carly McDowell
     location: "United States"
-    followers: 35263
-    engagement: 292
-    commentsToLikes: 0.020470
-    id: ck5bwof4dm3ed0i11fn2mudft
+    followers: 19080
+    engagement: 571
+    commentsToLikes: 0.108306
+    id: ck0vxid2pz1iw0i19u3g539cd
     verified: false
-    hashtags: "#winninginrebel, #editorialphotography, #navarro, #holidays"
-  - username: "_chabeliita13"
-    fullname: >-
-      Isa🌻Я🌵🌾Ƨ
-    location: "United States"
-    followers: 12038
-    engagement: 510
-    commentsToLikes: 0.033529
-    id: ck6u4heqn3qfi0j71w5szmicg
-    verified: false
-    hashtags: "#bloggermexicana, #mexicana, #fashioninfluencer, #dallas"
-  - username: "nicholeharvey"
-    fullname: >-
-      Nichole Harvey Influencer
-    location: "United States"
-    followers: 40143
-    engagement: 257
-    commentsToLikes: 0.344951
-    id: ck5hf0eiovdsb0i11tfqp49zv
-    verified: false
-    hashtags: "#empoweringwomen, #outfitpost, #tryonhaul, #lvmonogram"
-  - username: "darby_mcvay"
-    fullname: >-
-      Darby McVay
-    location: "United States"
-    followers: 14225
-    engagement: 473
-    commentsToLikes: 0.144703
-    id: ck5zmohz3mxhc0i14lxb0mslk
-    verified: false
-    hashtags: "#createtoinspire, #strongwomen, #palms, #dallas"
-  - username: "zainobmathewcreate"
-    fullname: >-
-      ZAINOB+MATHEW CREATE
-    location: "United States"
-    followers: 8219
-    engagement: 465
-    commentsToLikes: 0.095236
-    id: ck0u0xh9qv6ve0i194m88ldyo
-    verified: false
-    hashtags: "#places, #bluecityjodhpur, #fantastic, #beautifuljaipur"
+    hashtags: "#projectsocialt, #strongersweden, #whereplayhappens, #madeinla"
   - username: "blondeswhoeat"
     fullname: >-
       Blondes Who Eat
     location: "United States"
-    followers: 99659
-    engagement: 117
-    commentsToLikes: 0.098238
+    followers: 102723
+    engagement: 111
+    commentsToLikes: 0.138255
     id: ck0vzarbf865u0i19mg815rmr
     verified: false
-    hashtags: "#italy, #coronavirus, #bolognese, #truffle"
+    hashtags: "#featurefriday, #sandiego, #takeout, #tequila"
+  - username: "sosageblog"
+    fullname: >-
+      Sage Coralli Wilson
+    location: "United States"
+    followers: 97534
+    engagement: 390
+    commentsToLikes: 0.012623
+    id: ck5zu32dg1l8i0i143fi9hbot
+    verified: false
+    hashtags: "#babyshower, #maternity, #sundayfunday, #floraldesign"
+  - username: "aditik_sheetall"
+    fullname: >-
+      DailyDiva  l  Petite Style
+    location: "United States"
+    followers: 25111
+    engagement: 280
+    commentsToLikes: 0.265833
+    id: ck55mpa194ge90i11yd4rquzw
+    verified: false
+    hashtags: "#bunintheoven, #hairmazing, #momlife, #happyfridayeveryone"
 ---

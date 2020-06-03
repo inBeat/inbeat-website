@@ -1,107 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Greece In 2020
 description: >-
-  Find top stylists Instagram influencers in Greece in 2020. Most popular hashtags: #greece #fashion #mood #stayhome.
+  Find top stylists Instagram influencers in Greece in 2020. Most popular hashtags: #quarantine #inspiration #greece #stayhome.
 platform: Instagram
 profiles:
   - username: "segredakis"
     fullname: >-
       SEGREDAKIS GEORGE
     location: "Greece"
-    followers: 21956
-    engagement: 929
-    commentsToLikes: 0.011605
+    followers: 22321
+    engagement: 917
+    commentsToLikes: 0.011576
     id: ck5py1hrptvez0i1108adonz2
     verified: false
-    hashtags: "#mycreation, #headpiece, #talented, #greeknationalopera"
+    hashtags: "#art, #people, #missmy, #videoart"
   - username: "ioanna_pennia"
     fullname: >-
       Ioanna Pennia
     location: "Greece"
-    followers: 32154
-    engagement: 125
-    commentsToLikes: 0.090420
+    followers: 31842
+    engagement: 131
+    commentsToLikes: 0.100393
     id: ck5zmi0d7mlve0i14batky1ye
     verified: false
-    hashtags: "#hurt, #asidas, #spring, #springiscoming"
-  - username: "georgiavaina"
-    fullname: >-
-      ɢ ᴇ ᴏ ʀ ɢ ɪ ᴀ   ᴠ ᴀ ɪ ɴ ᴀ
-    location: "Greece"
-    followers: 43647
-    engagement: 318
-    commentsToLikes: 0.027351
-    id: ck5hkep60iak30i11sufxup6a
-    verified: false
-    hashtags: "#fkatwigs, #stylish, #blazerstyle, #socksoftheday"
+    hashtags: "#freepeople, #staybeautiful, #girlsabroad, #dametraveler"
   - username: "panoskallitsis"
     fullname: >-
       Panos Kallitsis
     location: "Greece"
-    followers: 51551
-    engagement: 320
-    commentsToLikes: 0.015841
+    followers: 51494
+    engagement: 319
+    commentsToLikes: 0.020863
     id: ck13d20ec39ic0i19pbbu1m0k
     verified: false
-    hashtags: "#countrylife, #wavyhair, #goodvibes, #panosangels"
-  - username: "arisgeorgiadis"
+    hashtags: "#grateful, #goodvibes, #haircuts, #love"
+  - username: "letstreatourselves.gr"
     fullname: >-
-      Georgiadis Aris
+      Eugenia Trousa
     location: "Greece"
-    followers: 10566
-    engagement: 456
-    commentsToLikes: 0.014459
-    id: ck5c6cmap55uo0i116bsmzeh1
+    followers: 8488
+    engagement: 674
+    commentsToLikes: 0.064428
+    id: ckaotmq80wjjv0i78j7t9470g
     verified: false
-    hashtags: "#jumpsuit, #bracelets, #teamhelena, #dress"
-  - username: "irisleontariti"
-    fullname: >-
-      Iris Leontariti ✨
-    location: "Greece"
-    followers: 5868
-    engagement: 480
-    commentsToLikes: 0.022916
-    id: ck0vvx4rir5vh0i19p18d80kn
-    verified: false
-    hashtags: "#roomwithaview, #fitnessmotivation, #makingmemories, #stylist"
+    hashtags: "#moodylight, #sugarfree, #breakfastlovers, #healthycuisines"
   - username: "claudia.saadeh"
     fullname: >-
       Claudia Saadeh
     location: "Greece"
-    followers: 36306
-    engagement: 86
-    commentsToLikes: 0.050456
+    followers: 36008
+    engagement: 102
+    commentsToLikes: 0.046598
     id: ck5py0mpwtrej0i11f5wzzj9q
     verified: false
-    hashtags: "#quarantine, #illustration, #art, #feelgoodfashionfriday"
-  - username: "tietheknotsantorini"
+    hashtags: "#quarantine, #wfh, #home, #weekend"
+  - username: "kostamiljkovic"
     fullname: >-
-      Maria Sila
+      Kosta Miljkovic
     location: "Greece"
-    followers: 17596
-    engagement: 372
-    commentsToLikes: 0.052335
-    id: ck0txctt7irvf0i19i9b7ablh
+    followers: 12814
+    engagement: 273
+    commentsToLikes: 0.011312
+    id: ck14h96b295w50i19e6fxksfo
     verified: false
-    hashtags: "#getawaycar, #weddinglights, #italywedding, #driedplantswedding"
+    hashtags: "#happiness, #takecareofyourself, #education, #living"
+  - username: "irisleontariti"
+    fullname: >-
+      Iris Leontariti ✨
+    location: "Greece"
+    followers: 5911
+    engagement: 487
+    commentsToLikes: 0.031353
+    id: ck0vvx4rir5vh0i19p18d80kn
+    verified: false
+    hashtags: "#bachelorette, #picoftheday, #loveit, #daystoremember"
   - username: "tzela"
     fullname: >-
       Angeliki Martseki
     location: "Greece"
-    followers: 5680
-    engagement: 655
-    commentsToLikes: 0.018696
+    followers: 5670
+    engagement: 613
+    commentsToLikes: 0.019447
     id: ck0vvx8c9r6cz0i19imle5rph
     verified: false
-    hashtags: "#moodoftheday, #fashionblogger, #ootd, #style"
-  - username: "mmeireles177"
+    hashtags: "#mikonos, #sundayfunday, #fashionshow, #picoftheday"
+  - username: "manoshautecoiffure"
     fullname: >-
-      MR17
+      Manos Kopsahilis
     location: "Greece"
-    followers: 16628
-    engagement: 662
-    commentsToLikes: 0.164378
-    id: ck5zpb1tlsc2r0i14m02qq4cc
+    followers: 19227
+    engagement: 345
+    commentsToLikes: 0.008712
+    id: ck55p93hba2je0i11y5i6ch1f
     verified: false
-    hashtags: "#venicebeach, #styleblogger, #madeiraisland, #player"
+    hashtags: "#hairbangs, #times, #curlyhair, #health"
+  - username: "morfoula_papadopoulou"
+    fullname: >-
+      Morfoula Papadopoulou ®
+    location: "Greece"
+    followers: 17339
+    engagement: 276
+    commentsToLikes: 0.028055
+    id: ck5hdmytrob290i112wrhwccp
+    verified: false
+    hashtags: "#greekmodels, #agencymodels, #agencies, #happymoments"
 ---

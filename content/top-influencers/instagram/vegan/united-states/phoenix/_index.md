@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Phoenix In 2020
 description: >-
-  Find top vegan Instagram influencers in Phoenix in 2020. Most popular hashtags: #vegan #socialdistancing #plantbased #meditation.
+  Find top vegan Instagram influencers in Phoenix in 2020. Most popular hashtags: #vegan #phoenix #birthday #coffeelover.
 platform: Instagram
 profiles:
-  - username: "genesisbutler_"
-    fullname: >-
-      Genesis Butler
-    location: "United States"
-    followers: 38568
-    engagement: 457
-    commentsToLikes: 0.044942
-    id: ck0w3finrt57k0i1941qw64kg
-    verified: false
-    hashtags: "#event, #veganism, #compassion, #heroproject"
-  - username: "golden_aimeee"
-    fullname: >-
-      a i m e e  ◡̈
-    location: "United States"
-    followers: 25956
-    engagement: 313
-    commentsToLikes: 0.078251
-    id: ck0twcpvuewu20i19daezexca
-    verified: false
-    hashtags: "#potofgold, #breadbod, #homestyling, #marriedlife"
-  - username: "rainjphoenix"
-    fullname: >-
-      Rain Phoenix
-    location: "United States"
-    followers: 50355
-    engagement: 960
-    commentsToLikes: 0.034887
-    id: ck136bhrs5o3b0i19gk3tkwgk
-    verified: true
-    hashtags: "#babybro, #folksongs, #golddiggers, #riverphoenix"
-  - username: "jamihjones"
-    fullname: >-
-      Jami Jones
-    location: "United States"
-    followers: 13282
-    engagement: 946
-    commentsToLikes: 0.035400
-    id: ck5qdjpxovx1e0i11b0yk872o
-    verified: false
-    hashtags: "#mealprep, #coolvideos, #videography, #fon"
-  - username: "polarbelle123"
-    fullname: >-
-      Shelley Your Highlight Queen
-    location: "United States"
-    followers: 27896
-    engagement: 59
-    commentsToLikes: 0.277173
-    id: ck0u1tkclxvuv0i190a2gx7qm
-    verified: false
-    hashtags: "#powerofmakeup, #skinhealth, #iloveskincare, #coconut"
   - username: "ashlynmaeballerina"
     fullname: >-
       Ashlyn Mae
     location: "United States"
-    followers: 72133
-    engagement: 755
-    commentsToLikes: 0.006349
+    followers: 71021
+    engagement: 617
+    commentsToLikes: 0.008368
     id: ck139m09rlyt00i19mcm7jh1q
     verified: false
-    hashtags: "#louisamayalcott, #hersband, #newyorkcity, #manhattan"
-  - username: "sammihanratty"
+    hashtags: "#arizona, #govegan, #covid19, #feminist"
+  - username: "acraftbeergirl"
     fullname: >-
-      Sammi Hanratty
+      
     location: "United States"
-    followers: 344960
-    engagement: 617
-    commentsToLikes: 0.013481
-    id: ck0u8349d6exs0i194f7uyylt
-    verified: true
-    hashtags: "#tbt, #humpday, #howtogetawaywithmurder, #shakeitup"
-  - username: "veganreyna"
-    fullname: >-
-      Reyna
-    location: "United States"
-    followers: 66225
-    engagement: 106
-    commentsToLikes: 0.020579
-    id: ck5hlepddk33b0i11rtnxkrg1
+    followers: 21624
+    engagement: 1200
+    commentsToLikes: 0.038985
+    id: ck6u6vb5hhxkt0j71mr12jiax
     verified: false
-    hashtags: "#veganeggs, #pointdumewedding, #rockandroll, #smallbusiness"
+    hashtags: "#sonorandesert, #ineedanewwatch, #lovelocal, #wlweller"
+  - username: "joaquinlphoenix"
+    fullname: >-
+      Joaquin Phoenix
+    location: "United States"
+    followers: 163911
+    engagement: 888
+    commentsToLikes: 0.016199
+    id: ck5q8knm06nvc0i11p6y6jgv6
+    verified: false
+    hashtags: "#walktheline, #veganburger, #animalrights, #compassion"
+  - username: "misslollirot"
+    fullname: >-
+      Lollirot SG Model/Mua Vegan
+    location: "United States"
+    followers: 17816
+    engagement: 207
+    commentsToLikes: 0.041373
+    id: ck5zsw9a4zatr0i146vcufa06
+    verified: false
+    hashtags: "#thickwhitegirl, #rubberdress, #vintage, #modelsontour"
+  - username: "polarbelle123"
+    fullname: >-
+      Shelley Your Highlight Queen
+    location: "United States"
+    followers: 27301
+    engagement: 58
+    commentsToLikes: 0.282462
+    id: ck0u1tkclxvuv0i190a2gx7qm
+    verified: false
+    hashtags: "#justdropped, #honey, #pur4in1infive, #vegan"
+  - username: "rainjphoenix"
+    fullname: >-
+      Rain Phoenix
+    location: "United States"
+    followers: 52089
+    engagement: 651
+    commentsToLikes: 0.031777
+    id: ck136bhrs5o3b0i19gk3tkwgk
+    verified: true
+    hashtags: "#wethepeople, #repost, #cuatro, #live"
+  - username: "tohavetohost"
+    fullname: >-
+      to have + to host
+    location: "United States"
+    followers: 16298
+    engagement: 230
+    commentsToLikes: 0.150896
+    id: ck6u1iylqm0ff0j712si90x12
+    verified: false
+    hashtags: "#eastereggs, #blessed, #redfloral, #salsarecipe"
   - username: "balletfreak"
     fullname: >-
       Robbie Downey Ⓥ
     location: "United States"
-    followers: 43699
+    followers: 42850
     engagement: 304
-    commentsToLikes: 0.012924
+    commentsToLikes: 0.012729
     id: ck139m1ahlyxh0i192h33l1dk
     verified: false
-    hashtags: "#dance, #coloradoballet, #balletdancer, #denver"
+    hashtags: "#quarantine, #turns, #gofundthemagic, #balletfreak"
   - username: "amymillar"
     fullname: >-
       Amy Millar Vegan HealthCoachⓋ
     location: "United States"
-    followers: 24379
-    engagement: 191
-    commentsToLikes: 0.046725
+    followers: 24534
+    engagement: 189
+    commentsToLikes: 0.052492
     id: ck0w0lghwesve0i195xca6hab
     verified: false
-    hashtags: "#vegansofig, #oneness, #calisthenics, #vortex"
+    hashtags: "#socialdistancing, #burpees, #homegym, #redcarpet"
+  - username: "hipmomma007"
+    fullname: >-
+      m i n d y
+    location: "United States"
+    followers: 12859
+    engagement: 858
+    commentsToLikes: 0.352282
+    id: ck15u948nm0zy0i19hgqalsa1
+    verified: false
+    hashtags: "#fauxfur, #teamself, #lyricquotes, #williamsaz"
 ---

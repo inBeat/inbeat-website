@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Australia In 2020
 description: >-
-  Find top gaming Instagram influencers in Australia in 2020. Most popular hashtags: #gaming #gamer #pokemon #gamingcommunity.
+  Find top gaming Instagram influencers in Australia in 2020. Most popular hashtags: #gaming #stayhome #easter #hollywood.
 platform: Instagram
 profiles:
   - username: "sammyfosgaming"
     fullname: >-
-      Sammy Foster Gaming
+      SammyFosGaming
     location: "Australia"
-    followers: 2355
-    engagement: 3064
-    commentsToLikes: 0.117046
+    followers: 2937
+    engagement: 2701
+    commentsToLikes: 0.134956
     id: ck8t46gub5o270j78zp7r42um
     verified: false
-    hashtags: "#nintendogirl, #playstation4, #selfisolation, #australiaisolation"
+    hashtags: "#showmeyourstack, #lofihiphop, #ptcgame, #spidermanps4"
   - username: "zoetwodots"
     fullname: >-
       Zoë
     location: "Australia"
-    followers: 34145
-    engagement: 904
-    commentsToLikes: 0.017539
+    followers: 35476
+    engagement: 832
+    commentsToLikes: 0.016348
     id: ck0u0y1zxv9kv0i19k4j5c58z
     verified: false
-    hashtags: "#newyorkcity, #festival, #animalcrossingnewhorizons, #binginbeach"
-  - username: "bookswithchloe"
-    fullname: >-
-      chloe
-    location: "Australia"
-    followers: 28852
-    engagement: 1267
-    commentsToLikes: 0.015479
-    id: ck0u23bv9yt5h0i19m0n3zrb5
-    verified: false
-    hashtags: "#animalcrossing, #shelfie, #gifted, #giftoriginal"
+    hashtags: "#unboxing, #newcastle, #acnhswitch, #minccino"
   - username: "2busygamers"
     fullname: >-
       2 BusyGamers, Neil  🇦🇺
     location: "Australia"
-    followers: 6645
-    engagement: 518
-    commentsToLikes: 0.087161
+    followers: 6704
+    engagement: 503
+    commentsToLikes: 0.088775
     id: ck8tctwzw0nzb0j78qrqwm5w3
     verified: false
-    hashtags: "#gamingposts, #residentevil, #gamecollector, #persona"
+    hashtags: "#capcom, #doom, #switchfamm, #persona5royal"
+  - username: "mr.nagy"
+    fullname: >-
+      Steven N -  Class Act Images
+    location: "Australia"
+    followers: 6546
+    engagement: 1643
+    commentsToLikes: 0.007009
+    id: ckap4qib58f2s0i787pr18jpj
+    verified: false
+    hashtags: "#status2020"
   - username: "cassiedakota"
     fullname: >-
-      🌸 𝓒𝓪𝓼𝓼𝓲𝓮 🌸
+      🌸 c a s s i e 🌸
     location: "Australia"
-    followers: 15623
-    engagement: 612
-    commentsToLikes: 0.059813
+    followers: 15484
+    engagement: 571
+    commentsToLikes: 0.062205
     id: ck0tuax826du40i19ys29g0d7
     verified: false
-    hashtags: "#nanoleafandchill, #nailsxcontrol, #gifted, #oscarwylee"
+    hashtags: "#sudio, #sudiomoments, #oscarwylee, #sonyfoundation"
+  - username: "fastlanegaming"
+    fullname: >-
+      Forza Horizon & More
+    location: "Australia"
+    followers: 86979
+    engagement: 289
+    commentsToLikes: 0.009479
+    id: ck1387bwmeucy0i197kwmo4lt
+    verified: false
+    hashtags: "#fairlady240z, #lamborghiniaventador, #viperacr, #240z"
   - username: "super_nindando"
     fullname: >-
       Dan
     location: "Australia"
-    followers: 1063
-    engagement: 2090
-    commentsToLikes: 0.013525
+    followers: 7498
+    engagement: 1421
+    commentsToLikes: 0.018674
     id: ck8t43daj5d5z0j78t6wmkbsx
     verified: false
-    hashtags: "#pokemonswordshield, #nintendolife, #isolation, #aussiegamer"
-  - username: "misscandiceelizabeth_"
+    hashtags: "#birthday, #gifted, #bubsy, #strangerthings"
+  - username: "elefire_the_elf"
     fullname: >-
-      Candice Elizabeth
+      Elefire grey
     location: "Australia"
-    followers: 24926
-    engagement: 506
-    commentsToLikes: 0.086256
-    id: ck0vyuaib5t1n0i19plrklfwn
+    followers: 60362
+    engagement: 439
+    commentsToLikes: 0.024884
+    id: ck15tynd2kjv90i19c5egb0rj
     verified: false
-    hashtags: "#lesmills, #princessmera, #ruivas, #mera"
-  - username: "lauragbert"
+    hashtags: "#meme, #brony, #pastelgoth, #boosette"
+  - username: "infamousbylaura"
     fullname: >-
-      Laura Gilbert 💜
+      Laura Gilbert 🖤
     location: "Australia"
-    followers: 91403
-    engagement: 535
-    commentsToLikes: 0.012530
-    id: ck6tohu7ee6700j71dimkha62
-    verified: true
-    hashtags: "#wreckitralph, #lifeadmin, #doggo, #santiagodechile"
-  - username: "cwodrex"
-    fullname: >-
-      cWodrex
-    location: "Australia"
-    followers: 54312
-    engagement: 855
-    commentsToLikes: 0.017775
-    id: ck0u9hmb69vn10i19kj6yd9ap
+    followers: 276187
+    engagement: 387
+    commentsToLikes: 0.009156
+    id: ck8t1n49rwb5w0j784dy1f5fd
     verified: false
-    hashtags: "#games, #fortnitexoverwatch, #skyefortnite, #classy"
-  - username: "twanvangendt"
+    hashtags: "#twitchaffiliate, #catwomancostume, #pokemoncosplay, #wishlist"
+  - username: "cheyennerae_hernandez"
     fullname: >-
-      Twan van Gendt
+      Cheyenne Rae Hernandez
     location: "Australia"
-    followers: 33560
-    engagement: 772
-    commentsToLikes: 0.009242
-    id: ck0tz0r1pooup0i1964fjvcp0
-    verified: true
-    hashtags: "#pointing, #sweat, #weightlifting, #takeonefortheteam"
+    followers: 25810
+    engagement: 184
+    commentsToLikes: 0.037805
+    id: ck0u11przvgq30i19w6z5y5k9
+    verified: false
+    hashtags: "#pachamama, #challenge, #mylove, #easter"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In 2020
 description: >-
-  Find top gardening Instagram influencers in 2020. Most popular hashtags: #homeandgardenig #countrygarden #knitting #garden.
+  Find top gardening Instagram influencers in 2020. Most popular hashtags: #stayhome #quarantinelife #mothersday #potagergarden.
 platform: Instagram
 profiles:
-  - username: "theladywholunches"
+  - username: "hanwestby"
     fullname: >-
-      Jenna Ingalls
+      Hannah Westby
     location: "United States"
-    followers: 3503
-    engagement: 1228
-    commentsToLikes: 0.110915
-    id: ck5zobjeqq6wu0i146qvnwtx8
+    followers: 46539
+    engagement: 1125
+    commentsToLikes: 0.027252
+    id: ck135l57i1y7t0i19muvpwj2g
     verified: false
-    hashtags: "#knittingforolive, #sizeinclusive, #westknits, #knitfastdiewarm"
+    hashtags: "#plantpowerineveryshower, #furbodognanny, #20weeks, #workingwithfracture"
+  - username: "shegrowsveg"
+    fullname: >-
+      Lucy Start
+    location: "United Kingdom"
+    followers: 82277
+    engagement: 195
+    commentsToLikes: 0.050606
+    id: ck0w02aegc17l0i194a49dvub
+    verified: false
+    hashtags: "#hydroponic, #hack, #livehealthy, #aphids"
+  - username: "with_care"
+    fullname: >-
+      With Care: Videos + Workshops
+    location: "Canada"
+    followers: 5465
+    engagement: 499
+    commentsToLikes: 0.219282
+    id: ck5bwxvi6mmij0i11bwllw3dq
+    verified: false
+    hashtags: "#mamareset, #socialdistancing, #ithanknicole, #jackofsports"
+  - username: "faithfoxmama"
+    fullname: >-
+      
+    location: "United States"
+    followers: 23056
+    engagement: 171
+    commentsToLikes: 0.296186
+    id: ck6turib2hzj20j71vv26vxo1
+    verified: false
+    hashtags: "#trueinnerself, #earlymornings, #borageflowers, #heatherrose"
   - username: "ohoneycomb"
     fullname: >-
       miss macy
     location: "United States"
-    followers: 86446
-    engagement: 395
-    commentsToLikes: 0.011676
+    followers: 86887
+    engagement: 491
+    commentsToLikes: 0.010311
     id: ck1376ia7a16i0i19uj96ns5l
     verified: false
-    hashtags: ""
-  - username: "oaktreecottage17"
+    hashtags: "#motelrocks, #onda, #loradicarlopartner"
+  - username: "keerthanamurthy11"
     fullname: >-
-      
+      Keerthana
+    location: ""
+    followers: 2149
+    engagement: 4543
+    commentsToLikes: 0.165070
+    id: ckapc48492eih0i7874qsm2ur
+    verified: false
+    hashtags: "#mygreenescape, #sunshine, #urbangarden, #quarantinelife"
+  - username: "jessbburbridge"
+    fullname: >-
+      J e s s  B u r b r i d g e 🌿
     location: "United States"
-    followers: 10808
-    engagement: 1286
-    commentsToLikes: 0.057990
-    id: ck13bj9ofvoa00i192q6m7gqf
+    followers: 8050
+    engagement: 1670
+    commentsToLikes: 0.111168
+    id: ckap23hkqx7pi0i78bsan5lea
     verified: false
-    hashtags: "#victoriangarden, #romanticgardens, #pinkflowers, #springiscoming"
-  - username: "mrscookbook"
+    hashtags: "#littleclimber, #fatherandson, #tiedyefamily, #sixmonthshome"
+  - username: "farmluxe"
     fullname: >-
-      AnitaDas | Indian Food Blogger
-    location: "India"
-    followers: 13882
-    engagement: 1416
-    commentsToLikes: 0.056869
-    id: ck8t85qmrj7fg0j78mzuddnt5
-    verified: false
-    hashtags: "#rice, #bengalicuisine, #food52grams, #easyrecipes"
-  - username: "susanbranchauthor"
-    fullname: >-
-      Susan Branch
+      MISHA | EVERGREEN ACRES FARM
     location: "United States"
-    followers: 18981
-    engagement: 971
-    commentsToLikes: 0.040008
-    id: ck1389sscf72z0i192iuuxwfu
+    followers: 52844
+    engagement: 822
+    commentsToLikes: 0.060673
+    id: ckap7ruv7lac40i78ruagr724
     verified: false
-    hashtags: "#seasons, #heartofthehome, #shadow, #thegoodhandwriting"
-  - username: "tabi.gandee"
+    hashtags: "#paintitblack"
+  - username: "bbhiral"
     fullname: >-
-      Tabi (@awesome._.socks)
-    location: "United States"
-    followers: 9440
-    engagement: 916
-    commentsToLikes: 0.066734
-    id: ck5hgh64t2quw0i11rjd10u5d
+      Hiral Bhatia
+    location: "New Zealand"
+    followers: 48442
+    engagement: 111
+    commentsToLikes: 0.039234
+    id: ck5hfc7wrwsx10i11vi0v5wn4
     verified: false
-    hashtags: "#quinceandco, #knittoy, #glowforge, #greenhouse"
-  - username: "ellenjokikunnas"
+    hashtags: "#traveldiaries, #pencilsketch, #bridalhairinspo, #ponytail"
+  - username: "homeatthefarmhouse"
     fullname: >-
-      Ellen Jokikunnas
-    location: "Finland"
-    followers: 22208
-    engagement: 923
-    commentsToLikes: 0.035935
-    id: ck13bo3nrwcgd0i19f66cok1s
+      • J O •
+    location: "United Kingdom"
+    followers: 6364
+    engagement: 1455
+    commentsToLikes: 0.096001
+    id: ckapbdvcxzjv90i78x9ou5t96
     verified: false
-    hashtags: "#kuinkapaljonvoisy, #nallebongaus, #kultainenvenla, #kadonneenj"
-  - username: "shiplapandshells"
-    fullname: >-
-      Cottage Style | Garden | PNW
-    location: "United States"
-    followers: 21828
-    engagement: 850
-    commentsToLikes: 0.087381
-    id: ck5c4vts527wx0i11a23mf5ru
-    verified: false
-    hashtags: "#outdoorlifestyle, #mybhg, #springtablescape, #rainchain"
-  - username: "hawkes.landing"
-    fullname: >-
-      Melinda Hawkes
-    location: "United States"
-    followers: 21727
-    engagement: 515
-    commentsToLikes: 0.083144
-    id: ck0txbx1linrx0i19ye1w1wkd
-    verified: false
-    hashtags: "#mudroomdesign, #sodomino, #crateandkids, #simpledecor"
-  - username: "finchandfolly"
-    fullname: >-
-      Allison
-    location: "United States"
-    followers: 43612
-    engagement: 364
-    commentsToLikes: 0.074791
-    id: ck0w151tmhlf80i19uwu9lg6j
-    verified: false
-    hashtags: "#sapseason, #plantbasedbeauty, #homegarden, #organicveggies"
+    hashtags: "#periodhome, #bakingscones, #gardenflowers, #lovecowparsley"
 ---

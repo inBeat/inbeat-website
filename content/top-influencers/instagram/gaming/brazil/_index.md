@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Brazil In 2020
 description: >-
-  Find top gaming Instagram influencers in Brazil in 2020. Most popular hashtags: #gamergirl #playstation #stayhome #thelastofus.
+  Find top gaming Instagram influencers in Brazil in 2020. Most popular hashtags: #freefire #tbt #gamer #loud.
 platform: Instagram
 profiles:
   - username: "brunoplayhard"
     fullname: >-
       Bruno PH
     location: "Brazil"
-    followers: 3816534
-    engagement: 502
-    commentsToLikes: 0.014061
+    followers: 4284415
+    engagement: 498
+    commentsToLikes: 0.019251
     id: ck0w4ukvx0he50i19kr24levd
     verified: true
-    hashtags: "#nimotvbrasil, #badoonaccxp, #ad, #chegadearrependidos"
+    hashtags: "#fordnorockinrio, #nimotvbrasil, #badoonaccxp, #ad"
   - username: "carolzinhasg.pb"
     fullname: >-
       CarolzinhaSG
     location: "Brazil"
-    followers: 335036
-    engagement: 1171
-    commentsToLikes: 0.010844
+    followers: 353018
+    engagement: 1123
+    commentsToLikes: 0.011366
     id: ck13afukpq7300i19p46h9elj
     verified: false
-    hashtags: "#bgs2019, #facebookgaming, #badoonaccxp, #ad"
-  - username: "yoshiikazuu"
+    hashtags: "#com, #tbt"
+  - username: "nicolediretora"
     fullname: >-
-      Yoshikazu
+      Nicole Muniz
     location: "Brazil"
-    followers: 10850
-    engagement: 440
-    commentsToLikes: 0.049928
-    id: ck6tx1gj4vbbo0j713jk39eot
+    followers: 513926
+    engagement: 670
+    commentsToLikes: 0.007192
+    id: ckapbcfamze7i0i785m33ilnv
     verified: false
     hashtags: ""
-  - username: "charles_ricardo__"
-    fullname: >-
-      Charles Ricardo 
-    location: "Brazil"
-    followers: 127558
-    engagement: 356
-    commentsToLikes: 0.090003
-    id: ck138oeech7yz0i198t5zrg0e
-    verified: false
-    hashtags: "#thedivision2, #cosplay, #customcontroller, #ledlights"
   - username: "tiburciocsgo"
     fullname: >-
       André 'tiburci0' Rossetto
     location: "Brazil"
-    followers: 54758
-    engagement: 498
-    commentsToLikes: 0.011239
+    followers: 54923
+    engagement: 511
+    commentsToLikes: 0.011410
     id: ck5q3o1gzlnkf0i11b5ukwoqe
     verified: false
     hashtags: "#godetona2020, #godetona, #pas, #flashpointglobals"
-  - username: "nacaops4brasil"
+  - username: "cafajesteh"
     fullname: >-
-      NAÇÃO PS4 BRASIL
+      Carlos Andrade
     location: "Brazil"
-    followers: 4500
-    engagement: 1591
-    commentsToLikes: 0.183103
-    id: ck5q4rztlq22h0i11lt5i9sji
+    followers: 123131
+    engagement: 1272
+    commentsToLikes: 0.200306
+    id: ck9wfrb61q6eg0j78x7q5in5w
     verified: false
-    hashtags: "#nacao, #games, #gamerroom, #happynewyear"
-  - username: "dianazambrozuski"
+    hashtags: "#sorteios, #ff, #sorteiorolando, #loud"
+  - username: "mtd.op"
     fullname: >-
-      Diana Zambrozuski
+      @_rafa.op
     location: "Brazil"
-    followers: 1135501
-    engagement: 401
-    commentsToLikes: 0.008340
-    id: ck137pbc0covo0i19mq0fm8y9
+    followers: 2380
+    engagement: 2573
+    commentsToLikes: 0.144630
+    id: ck9wfrmgcq82t0j78anw372n2
     verified: false
-    hashtags: "#quarentena, #emcasa, #girlpower, #redhair"
-  - username: "riyuuka1"
+    hashtags: "#game, #guildasfreefire, #freefirevietna, #freefrenews"
+  - username: "henrique_baldaia"
     fullname: >-
-      Mônica Arruda
+      HUD 5 DEDOS (PSG RICK)
     location: "Brazil"
-    followers: 169787
-    engagement: 515
-    commentsToLikes: 0.008360
-    id: ck5c5vkrs488h0i11hwk5ptiy
+    followers: 12503
+    engagement: 915
+    commentsToLikes: 0.171658
+    id: ck8t6uprser7u0j78oz3lmi61
     verified: false
-    hashtags: "#vainog, #garotasmagicas, #bgs"
-  - username: "anamarquezpoker"
+    hashtags: "#freefire, #freefirebrasil, #losgrandes, #godelite"
+  - username: "sander_souzaa"
     fullname: >-
-      Ana Marquez
+      SanderTv
     location: "Brazil"
-    followers: 5711
-    engagement: 402
-    commentsToLikes: 0.032677
-    id: ck0ue27u3kcl50i19e9b9ldea
+    followers: 155470
+    engagement: 358
+    commentsToLikes: 0.038616
+    id: ckapcior23yy70i78wgq1on95
     verified: false
-    hashtags: "#riohotelandcasino, #magicaltime, #team888, #pokerlive"
-  - username: "angelgdkaoru"
+    hashtags: "#freefiremexico, #freefiregames, #garenaaov, #freefirewtf"
+  - username: "charles_ricardo__"
     fullname: >-
-      A N G E L  K A O R U
+      Charles Ricardo 
     location: "Brazil"
-    followers: 7191
-    engagement: 982
-    commentsToLikes: 0.081710
-    id: ck6ucs11jh80m0j71im2megeq
+    followers: 126590
+    engagement: 277
+    commentsToLikes: 0.082651
+    id: ck138oeech7yz0i198t5zrg0e
     verified: false
-    hashtags: "#weekendvibe, #happyfriyay, #cosplaying, #disney"
+    hashtags: "#leonkennedy, #rgblights, #ryzen7, #pcgamer"
+  - username: "emmilybarreto"
+    fullname: >-
+      M-ly
+    location: "Brazil"
+    followers: 27694
+    engagement: 714
+    commentsToLikes: 0.029027
+    id: ck8synok6ldj50j785yfqkg62
+    verified: false
+    hashtags: "#pravoc, #contram, #karaokemmily, #vainog"
 ---

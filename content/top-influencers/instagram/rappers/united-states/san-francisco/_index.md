@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top rappers Instagram influencers in San Francisco in 2020. Most popular hashtags: #rap #music #hiphop #newyork.
+  Find top rappers Instagram influencers in San Francisco in 2020. Most popular hashtags: #rapper #hiphop #sanfrancisco #picoftheday.
 platform: Instagram
 profiles:
-  - username: "goodboyoriginals"
-    fullname: >-
-      Good Boy Originals
-    location: "United States"
-    followers: 5983
-    engagement: 404
-    commentsToLikes: 0.039544
-    id: ck15tix3dib4l0i19lcqdr1vs
-    verified: false
-    hashtags: "#design, #white, #tigerwoods, #readytodie"
   - username: "apisthebull"
     fullname: >-
-      AP
+      SAQIBASLAMAPIS
     location: "United States"
-    followers: 22684
-    engagement: 720
-    commentsToLikes: 0.090468
+    followers: 22306
+    engagement: 733
+    commentsToLikes: 0.088468
     id: ck13b2c2otch30i192ig5g4l7
     verified: false
-    hashtags: "#hiphopmusic, #rapmusic, #like, #rnb"
-  - username: "gsteezybeats"
+    hashtags: "#hiphopculture, #hiphop, #rap, #rapper"
+  - username: "vsxtoons"
     fullname: >-
-      G-STEEZY BEATS
+      💕
     location: "United States"
-    followers: 2823
-    engagement: 2490
-    commentsToLikes: 0.040719
-    id: ck13b72hmu02c0i19krh423sy
+    followers: 18552
+    engagement: 1183
+    commentsToLikes: 0.012210
+    id: ckap8msjqp11q0i78rvy86nq8
     verified: false
-    hashtags: "#musicproduction, #trapbeat, #beats, #rappers"
-  - username: "naw_sir"
-    fullname: >-
-      Nasser Al-Rayess | ناصر
-    location: "United States"
-    followers: 3747
-    engagement: 1814
-    commentsToLikes: 0.118714
-    id: ck1394octji9f0i19olg1cegu
-    verified: false
-    hashtags: "#sanfranciscoliving, #babyyodaedit, #valentinesdaygift, #followthejourney"
+    hashtags: "#offsetcardib, #janniferaniston, #madelyncline, #wowedits"
   - username: "kwdstyle"
     fullname: >-
       Customade Original Style💎
     location: "United States"
-    followers: 34831
-    engagement: 167
-    commentsToLikes: 0.114156
+    followers: 34900
+    engagement: 158
+    commentsToLikes: 0.111878
     id: ck5q1i7pub3up0i11h9fygy6h
     verified: false
-    hashtags: "#joeyfatone, #virginia, #lalakers, #lilboosie"
-  - username: "justwincustoms"
+    hashtags: "#kcchiefs, #blackmamba, #quarantinelife, #diddy"
+  - username: "todayinamericanhistory"
     fullname: >-
-      Justin Heidrick
+      Today in American History
     location: "United States"
-    followers: 69287
-    engagement: 718
-    commentsToLikes: 0.021007
-    id: ck1376cdaa0a00i192t6tsmcx
+    followers: 238610
+    engagement: 434
+    commentsToLikes: 0.015316
+    id: ck13dbfwz4ly50i192i90d2o3
     verified: false
-    hashtags: "#themarathoncontinues, #ashlynsyliphone, #halloweenpumpkin, #shiftteamgeneral"
-  - username: "_j.squared"
+    hashtags: "#musicismylife, #radio, #veterans, #musicartist"
+  - username: "trossthegiant"
     fullname: >-
-      Jordan Jimenez
+      T. ROSS.
     location: "United States"
-    followers: 8048
-    engagement: 909
-    commentsToLikes: 0.027925
-    id: ck55o30pl7j560i112xvxjrs2
+    followers: 6193
+    engagement: 2351
+    commentsToLikes: 0.067858
+    id: ck136ile16nu00i19gafflw2f
     verified: false
-    hashtags: "#complex, #streetphotography, #sports, #rap"
-  - username: "officialzoeenyc"
+    hashtags: "#trashrapisback, #2projectsotw"
+  - username: "_kringe_"
     fullname: >-
-      Zoe RoseGold 🇭🇹🇺🇸
+      KRINGE
     location: "United States"
-    followers: 6309
-    engagement: 650
-    commentsToLikes: 0.112667
-    id: ck6trtg330zp10j71sakwh64w
+    followers: 6457
+    engagement: 1285
+    commentsToLikes: 0.104811
+    id: ck8wg0o4xgk1r0j78zvflymi7
     verified: false
-    hashtags: "#lgtbqplussupport, #internetradio, #soul, #superbowlparty"
-  - username: "officialkeakdasneak"
+    hashtags: ""
+  - username: "calebslife"
     fullname: >-
-      Keak da Sneak
+      Caleb
     location: "United States"
-    followers: 79557
-    engagement: 171
-    commentsToLikes: 0.052091
-    id: ck5c6ppye5xro0i119nmsn177
-    verified: true
-    hashtags: "#streaming, #casaflorfamily, #weedstagram, #bayarearap"
-  - username: "moneymindnessa"
-    fullname: >-
-      Original Moneymind👑🗣
-    location: "United States"
-    followers: 12595
-    engagement: 693
-    commentsToLikes: 0.057287
-    id: ck6txrzovzifs0j71eptg1qfz
+    followers: 72347
+    engagement: 416
+    commentsToLikes: 0.067163
+    id: ck5ck3xgcw3260i11x9neq3yr
     verified: false
-    hashtags: "#photography, #lilboosie, #halloween, #hyphymovement"
+    hashtags: "#quarantinebirthday, #rollingloudnyc, #coronavirus, #saferathome"
+  - username: "andrew_boom"
+    fullname: >-
+      Andrew Boom
+    location: "United States"
+    followers: 6638
+    engagement: 1531
+    commentsToLikes: 0.046711
+    id: ck6udjvluliiw0j719iyvu2v5
+    verified: false
+    hashtags: "#simple, #picoftheday, #tiktok, #wooden"
+  - username: "brianbatesyy"
+    fullname: >-
+      BRIAN BATESY (MEGATRON)
+    location: "United States"
+    followers: 6061
+    engagement: 2234
+    commentsToLikes: 0.043486
+    id: ck9wg6gxms40a0j78l4cnibiu
+    verified: false
+    hashtags: "#wepowernyc, #spreadpositivity, #tiktok, #famousbirthdays"
+  - username: "avisamuelangel"
+    fullname: >-
+      𝔸𝕧𝕚 𝕒𝕟𝕘𝕖𝕝
+    location: "United States"
+    followers: 264323
+    engagement: 714
+    commentsToLikes: 0.017319
+    id: ckap1d4kgu2td0i7887pd9m5d
+    verified: false
+    hashtags: "#jamjr, #aviangel, #khalid, #cover"
 ---

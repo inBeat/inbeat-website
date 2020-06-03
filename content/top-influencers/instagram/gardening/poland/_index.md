@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Poland In 2020
 description: >-
-  Find top gardening Instagram influencers in Poland in 2020. Most popular hashtags: #zosta #gardening #wiosna #kwiaty.
+  Find top gardening Instagram influencers in Poland in 2020. Most popular hashtags: #gardening #homesweethome #polska #spring.
 platform: Instagram
 profiles:
-  - username: "miss_donatella_official"
+  - username: "reniasz_94"
     fullname: >-
-      𝓜𝓪𝓻𝔃𝓮𝓷𝓪 𝓑𝓲𝓮𝓵𝓪𝓻𝔃
+      Renata Szeliga
     location: "Poland"
-    followers: 306527
-    engagement: 196
-    commentsToLikes: 0.070527
-    id: ck8t2ks8gzt3p0j78eav4t1ca
+    followers: 2389
+    engagement: 4748
+    commentsToLikes: 0.077713
+    id: ckap7czlkjj5o0i78masxebc8
     verified: false
-    hashtags: "#blackstyle, #chillout, #sweet, #swimwear"
+    hashtags: "#spring, #womanstyle, #sesjawrzepaku, #etuo"
+  - username: "ania.szlezak"
+    fullname: >-
+      Anna Szlęzak
+    location: "Poland"
+    followers: 76674
+    engagement: 680
+    commentsToLikes: 0.022972
+    id: ck0vw1ueqrq950i19ih07gvr3
+    verified: false
+    hashtags: "#staypositive, #adraticsea, #colourful, #springtime"
+  - username: "patabloguje"
+    fullname: >-
+      Patrycja Kierońska
+    location: "Poland"
+    followers: 40095
+    engagement: 315
+    commentsToLikes: 0.099390
+    id: ck6trk5n8zggy0j717fnz0ewd
+    verified: false
+    hashtags: "#kitchen, #carebase, #hometime, #bukiet"
+  - username: "typowa.k"
+    fullname: >-
+      K
+    location: "Poland"
+    followers: 25634
+    engagement: 860
+    commentsToLikes: 0.022834
+    id: ck6tplfyskj8n0j710nywsd85
+    verified: false
+    hashtags: "#tiktokerka, #mirroreffect, #floraltattoos, #lustro"
+  - username: "paula_jagodzinska"
+    fullname: >-
+      Paula Jagodzińska
+    location: "Poland"
+    followers: 322051
+    engagement: 430
+    commentsToLikes: 0.021799
+    id: ck13bt723x1pz0i19dhdi2jqd
+    verified: false
+    hashtags: "#holidaylook, #dressoftheday, #mondaymorning, #springiscoming"
   - username: "segritta"
     fullname: >-
       Matylda Kozakiewicz
     location: "Poland"
-    followers: 20037
-    engagement: 487
-    commentsToLikes: 0.040568
+    followers: 22377
+    engagement: 431
+    commentsToLikes: 0.043567
     id: ck0w02nkpc2zu0i19y89ncuwn
     verified: false
-    hashtags: "#nomakeup, #psychologia, #wspolpraca, #koronawirus"
-  - username: "katarzyna_g_a"
+    hashtags: "#nawilzajacekrople, #nomakeup, #gardening, #recenzjaseg"
+  - username: "kuferekczekolady"
     fullname: >-
-      Kasia G - a
+      KUFEREKCZEKOLADY
     location: "Poland"
-    followers: 4462
-    engagement: 2429
-    commentsToLikes: 0.167811
-    id: ck8t1eu27vhtd0j78cwd59mxf
+    followers: 12539
+    engagement: 683
+    commentsToLikes: 0.030942
+    id: ck14hqhsfbmd10i19zb5m31pc
     verified: false
-    hashtags: "#kawa, #polka, #flowerstagram, #happytime"
-  - username: "katarzynacichopek"
-    fullname: >-
-      Katarzyna Cichopek
-    location: "Poland"
-    followers: 357658
-    engagement: 277
-    commentsToLikes: 0.009153
-    id: ck15qb8v120cm0i19pto8zrlt
-    verified: false
-    hashtags: "#dancing, #tango, #sportgirl, #liposhell"
-  - username: "jamamajana"
-    fullname: >-
-      𝙸𝚐𝚊
-    location: "Poland"
-    followers: 2836
-    engagement: 834
-    commentsToLikes: 0.089509
-    id: ck6tnq3fmacf90j71xtwob21i
-    verified: false
-    hashtags: "#feltideas, #dziewczynka, #mybabygirl, #kidsfashion"
+    hashtags: "#apple, #bathroom, #perfect, #caseapp"
   - username: "pawlak_noemi"
     fullname: >-
       Matka Prezesa
     location: "Poland"
-    followers: 20511
-    engagement: 249
-    commentsToLikes: 0.028528
+    followers: 21107
+    engagement: 302
+    commentsToLikes: 0.041894
     id: ck0tzdz72pzqm0i193j4un5j9
     verified: false
-    hashtags: "#macbook, #outfit, #zabawyzdzieckiem, #eatfamous"
-  - username: "ewela5"
+    hashtags: "#niemowle, #weso, #homegoods, #pinkobag"
+  - username: "olagie"
     fullname: >-
-      W pogodnym domku
+      Ola Garus
     location: "Poland"
-    followers: 11279
-    engagement: 1057
-    commentsToLikes: 0.076168
-    id: ck8t5frrva0tl0j78vdt0e8dg
+    followers: 38890
+    engagement: 180
+    commentsToLikes: 0.072887
+    id: ck9we1lrbi6cv0j78prqaoq6o
     verified: false
-    hashtags: "#kuchnia, #peachcake, #wogrodzie, #ilovegardens"
-  - username: "ostatnie_podrygi_50plus"
+    hashtags: "#roadrrip, #beachvibes, #mybirthday, #aktywnie"
+  - username: "_katarzyna_g_a"
     fullname: >-
-      💟Elwira
+      Kasia G - a
     location: "Poland"
-    followers: 7515
-    engagement: 1068
-    commentsToLikes: 0.135011
-    id: ck0w482nux9a10i19r0ij8ek9
+    followers: 4990
+    engagement: 2311
+    commentsToLikes: 0.156029
+    id: ck8t1eu27vhtd0j78cwd59mxf
     verified: false
-    hashtags: "#myhome, #stret, #50andfabulos, #kwiatys"
-  - username: "grembosiowo"
-    fullname: >-
-      Marlena 🙋🏼‍♀️
-    location: "Poland"
-    followers: 18396
-    engagement: 766
-    commentsToLikes: 0.051594
-    id: ck14i6w9mdxzp0i19pq76v1ne
-    verified: false
-    hashtags: "#farmhouseinspo, #boleslawiec, #hyggelife, #pannamigotka"
-  - username: "twojediy"
-    fullname: >-
-      Kasia Ogórek
-    location: "Poland"
-    followers: 52444
-    engagement: 204
-    commentsToLikes: 0.059112
-    id: ck15p9hmtwrh70i195wpvs1wi
-    verified: false
-    hashtags: "#jysk, #scandinaviandesign, #balkonliebe, #balconydecor"
+    hashtags: "#relaxtime, #pieknekwiaty, #kwiat, #chill"
 ---

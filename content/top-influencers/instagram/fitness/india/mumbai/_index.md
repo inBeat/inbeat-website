@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Mumbai In 2020
 description: >-
-  Find top fitness Instagram influencers in Mumbai in 2020. Most popular hashtags: #fitness #mumbai #instagood #fashion.
+  Find top fitness Instagram influencers in Mumbai in 2020. Most popular hashtags: #fitness #photography #skincare #travel.
 platform: Instagram
 profiles:
-  - username: "_calories_count"
+  - username: "amit_dey_photography"
     fullname: >-
-      Nutrition | Health | Fitness
+      Amit Dey 🇮🇳
     location: "India"
-    followers: 52074
-    engagement: 303
-    commentsToLikes: 0.004818
-    id: ck13c5e0pyp560i195l1vsss0
+    followers: 70815
+    engagement: 1015
+    commentsToLikes: 0.006943
+    id: ck0u0ij0itub40i196wjsvliz
     verified: false
-    hashtags: "#lactoovovegetarian, #shahrukhkhan, #overnightoatsrecipe, #healthylifestyle"
+    hashtags: "#jaguar, #jaguars, #beachday, #holi"
+  - username: "imatulpatidar"
+    fullname: >-
+      ATUL PATIDAR
+    location: "India"
+    followers: 81960
+    engagement: 71
+    commentsToLikes: 0.020725
+    id: ck15pq4naz3l60i19ryyp0ycv
+    verified: false
+    hashtags: "#instafashion, #lifestyle, #pandemic, #popxodaily"
   - username: "thefitvogue"
     fullname: >-
       Yash Pal Singh
     location: "India"
-    followers: 21311
-    engagement: 540
-    commentsToLikes: 0.055832
+    followers: 21451
+    engagement: 499
+    commentsToLikes: 0.073727
     id: ck6uevdl2takk0j71845dh2us
     verified: false
-    hashtags: "#yashpalsgh, #coverincoffeeagain, #coffeescrub, #narendramodi"
-  - username: "therinidas"
+    hashtags: "#headphones, #upgradetocode, #gharbaithoindia, #earbuds"
+  - username: "sweetannu"
     fullname: >-
-      Rini Das
+      Anahita Irani
     location: "India"
-    followers: 66473
-    engagement: 517
-    commentsToLikes: 0.014251
-    id: ck600fo90diia0i149l58cxwl
+    followers: 40114
+    engagement: 111
+    commentsToLikes: 0.088129
+    id: ckaor4pkvlpwe0i78n25pkpe5
     verified: false
-    hashtags: "#kazoxdisney, #stopcoronav, #tryingtokeepmyselfbusy, #instaphoto"
-  - username: "arunsharmaax"
+    hashtags: "#eatwell, #chicken, #happyeid, #loveudominos"
+  - username: "alchemicbeautybyisha"
     fullname: >-
-      Arun Sharma
+      Alchemic Beauty - Isha Mahabal
     location: "India"
-    followers: 87292
-    engagement: 1430
-    commentsToLikes: 0.006644
-    id: ck5hl4ndpjkbm0i11158g8jgw
-    verified: true
-    hashtags: "#roadiesauditions, #goals, #mtv, #musicfestival"
-  - username: "sshubham.official"
-    fullname: >-
-      Shubham Sharma
-    location: "India"
-    followers: 24331
-    engagement: 167
-    commentsToLikes: 0.027836
-    id: ck15srp2oehna0i19neqrgwkd
+    followers: 8150
+    engagement: 593
+    commentsToLikes: 0.015565
+    id: ckap4rjyz8k500i78z0g53dyw
     verified: false
-    hashtags: "#fashion, #opareviews, #opaboy, #dogallankariyepyardiyan"
-  - username: "twiinkle_star"
+    hashtags: "#missworking, #beautybloggers, #skincareroutine, #fitness"
+  - username: "lipikaborah"
     fullname: >-
-      TWINKLE✨ GYM WALI LADKI️️™️🧿
+      LIPIKA BORAH
     location: "India"
-    followers: 44569
-    engagement: 608
-    commentsToLikes: 0.027597
-    id: ck600hydvdmxa0i14zwjxqnq9
+    followers: 22808
+    engagement: 174
+    commentsToLikes: 0.029209
+    id: ck14kpf9uqnfc0i19rrso9czd
     verified: false
-    hashtags: "#moneymaker, #twinklestar, #sohildancer, #aboutlastnight"
-  - username: "jatin_sapru"
+    hashtags: "#housebound, #followme, #nature, #zoomtv"
+  - username: "indian.model_shoutout"
     fullname: >-
-      Jatin Sapru
+      Indian model shoutout 15k
     location: "India"
-    followers: 456120
-    engagement: 769
-    commentsToLikes: 0.003344
-    id: ck0twyo10hb8q0i198nifi7j4
-    verified: true
-    hashtags: "#yuvi, #viratkohli, #roadtrip, #free"
-  - username: "kolhapur_survey"
-    fullname: >-
-      Kolhapur Survey
-    location: "India"
-    followers: 38585
-    engagement: 670
-    commentsToLikes: 0.006065
-    id: ck55lg56s1hmb0i11z7r0xk9y
+    followers: 12256
+    engagement: 291
+    commentsToLikes: 0.011939
+    id: ck15qzlu35e8c0i19iy4f52lm
     verified: false
-    hashtags: "#nikonasia, #seekolhapurmyway, #bhaaratchitra, #vegetarianrecipes"
-  - username: "naiya_sehgal"
-    fullname: >-
-      Naiya Sehgal
-    location: "India"
-    followers: 68876
-    engagement: 116
-    commentsToLikes: 0.074094
-    id: ck15ql4ur3d5t0i19bkl3e2rb
-    verified: false
-    hashtags: "#partywears, #acnecure, #plixxoxpenguin2019, #winterblues"
+    hashtags: "#ahmedabad, #rajkot, #rvcjinsta, #delhifood"
   - username: "nishu9953"
     fullname: >-
       Nisha Jaiswal
     location: "India"
-    followers: 14865
-    engagement: 625
-    commentsToLikes: 0.225465
+    followers: 16316
+    engagement: 640
+    commentsToLikes: 0.265385
     id: ck8t7azzvg60o0j78w0llw6jd
     verified: false
-    hashtags: "#safetycomes1stnow, #bloggerlifestyle, #hairstyles, #seashore"
+    hashtags: "#igdaily, #masala, #memes, #instaart"
+  - username: "classssy_vogue"
+    fullname: >-
+      𝐍𝐢𝐭𝐞𝐬𝐡 𝐘𝐚𝐝𝐮𝐯𝐚𝐧𝐬𝐡𝐢
+    location: "India"
+    followers: 17730
+    engagement: 495
+    commentsToLikes: 0.497555
+    id: ck5zvffw344rv0i148ny1m8im
+    verified: false
+    hashtags: "#boyfriend, #lovelife, #travel, #tiktokindia"
+  - username: "rizwanbachav"
+    fullname: >-
+      Rizwan Bachav
+    location: "India"
+    followers: 104746
+    engagement: 119
+    commentsToLikes: 0.083137
+    id: ck13bn741w8l90i195izu775v
+    verified: true
+    hashtags: "#berlin, #amsterdam, #pswfh, #theiconofecstasy"
 ---

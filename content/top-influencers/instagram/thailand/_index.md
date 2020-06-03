@@ -1,109 +1,109 @@
 ---
 title: Top 10 Instagram Influencers In Thailand In 2020
 description: >-
-  Find top Instagram influencers in Thailand in 2020. Most popular hashtags: #thebeardedway #namneungbnk48 #thxpic #travelthailand.
+  Find top Instagram influencers in Thailand in 2020. Most popular hashtags: #toyotathailand #livealive #chr #toyota.
 platform: Instagram
 profiles:
-  - username: "winmetawin"
+  - username: "rosalie.montulet"
     fullname: >-
-      Win Metawin O.
+      Rosalie Montulet
     location: "Thailand"
-    followers: 1194024
-    engagement: 3582
-    commentsToLikes: 0.026921
-    id: ck8tay3ahtjxa0j78v20rkn96
-    verified: true
-    hashtags: "#alivewithbeauty, #ultimune, #millionheartsforwin, #istayhomefor"
-  - username: "bbrightvc"
-    fullname: >-
-      Bright
-    location: "Thailand"
-    followers: 2068379
-    engagement: 3809
-    commentsToLikes: 0.030128
-    id: ck8taxx0ztj8q0j78sakxg0hh
-    verified: true
-    hashtags: "#brightliveinhisroom, #clearnosebrightwin, #clearnose, #kyoceraslimt"
+    followers: 2100
+    engagement: 5148
+    commentsToLikes: 0.152662
+    id: ck9hadvomc6hw0j78va6y734c
+    verified: false
+    hashtags: "#volgendjaargwnweer, #omwams, #geneeskundevu, #040"
   - username: "mewsuppasit"
     fullname: >-
       Suppasit Jongcheveevat
     location: "Thailand"
-    followers: 1079432
-    engagement: 2359
-    commentsToLikes: 0.028862
+    followers: 1531715
+    engagement: 2689
+    commentsToLikes: 0.027626
     id: ck5zkbe5hj61y0i1420wailvp
     verified: false
-    hashtags: "#lazada8birthdayth, #lazada, #shopeeliveth, #celebfromhome"
-  - username: "gulfkanawut"
-    fullname: >-
-      Kanawut Traipipattanapong
-    location: "Thailand"
-    followers: 893263
-    engagement: 2841
-    commentsToLikes: 0.027318
-    id: ck5pv45pxg1i50i11i9ng3d2n
-    verified: false
-    hashtags: "#lazada8birthdayth, #lazada, #shopeeth33fashionsale, #shopeeliveth"
+    hashtags: "#chrbykarllagerfeld, #mewgulfxhygiene, #shiseidosuncare, #toyota"
   - username: "yuvalohayonn"
     fullname: >-
       𝕐𝕦𝕧𝕒𝕝, 𝕋𝕖𝕝-𝔸𝕧𝕚𝕧, 𝟚𝟡
     location: "Thailand"
-    followers: 12802
-    engagement: 1965
-    commentsToLikes: 0.088391
+    followers: 13507
+    engagement: 2076
+    commentsToLikes: 0.086233
     id: ck14lovy8vqz90i192uov048r
     verified: false
-    hashtags: "#nikeswim, #relaxmode, #seaporn, #keemala"
-  - username: "bambam1a"
+    hashtags: "#bestvacation, #morningtime, #mustachestyle, #bythepool"
+  - username: "gulfkanawut"
     fullname: >-
-      BamBam
+      Kanawut Traipipattanapong
     location: "Thailand"
-    followers: 10938762
-    engagement: 868
-    commentsToLikes: 0.025163
-    id: ck0u7hohd4qbp0i19p7s9f8hg
+    followers: 1294885
+    engagement: 3447
+    commentsToLikes: 0.025818
+    id: ck5pv45pxg1i50i11i9ng3d2n
+    verified: false
+    hashtags: "#nooneisleftbehind, #chr, #thxpic, #toyotathailand"
+  - username: "winmetawin"
+    fullname: >-
+      Win Metawin O.
+    location: "Thailand"
+    followers: 2930562
+    engagement: 3047
+    commentsToLikes: 0.020880
+    id: ck8tay3ahtjxa0j78v20rkn96
     verified: true
-    hashtags: "#voguethailand, #voguethailandjanuary2020, #got7keepspinninginbangkok, #soon"
+    hashtags: "#happybiscuitday, #chrthailand, #freefirefanwarxbrightwin, #glutacplus"
   - username: "namneung.bnk48official"
     fullname: >-
       Namneung BNK48
     location: "Thailand"
-    followers: 546902
-    engagement: 680
-    commentsToLikes: 0.027176
+    followers: 554108
+    engagement: 821
+    commentsToLikes: 0.027460
     id: ck8tajfpes0mx0j786qoku80l
     verified: true
-    hashtags: "#bnk48, #namneungbnk48, #kaewbnk48"
+    hashtags: "#namneungbnk48, #bnk48generalelection, #platformmakkasan, #grabfoodth"
+  - username: "bbrightvc"
+    fullname: >-
+      Bright
+    location: "Thailand"
+    followers: 3999718
+    engagement: 2800
+    commentsToLikes: 0.019117
+    id: ck8taxx0ztj8q0j78sakxg0hh
+    verified: true
+    hashtags: "#glutacplus, #bbrightvc, #brightwinxskynlab, #premiumfreshsmile"
   - username: "charisarr"
     fullname: >-
       Lisa Oldham♡
     location: "Thailand"
-    followers: 18119
-    engagement: 1303
-    commentsToLikes: 0.043673
+    followers: 18542
+    engagement: 1363
+    commentsToLikes: 0.042079
     id: ck5hcvru2k7wi0i11kp89xffj
     verified: false
     hashtags: ""
-  - username: "christinaeom"
+  - username: "davidbala99"
     fullname: >-
-      Christina Eom Kyuri (규리) 🇰🇷🇺🇸
+      David Bala | The Prince👑
     location: "Thailand"
-    followers: 126239
-    engagement: 463
-    commentsToLikes: 0.040720
-    id: ck0u7iyk24wap0i19e6fh78um
+    followers: 50460
+    engagement: 704
+    commentsToLikes: 0.030015
+    id: ck13bopbvwfep0i193ks2wuxu
     verified: false
-    hashtags: "#beefdonebetter, #skinnymint, #slimandtrimshake, #thehungergames"
-  - username: "simonphummai"
+    hashtags: "#changmaifc"
+  - username: "zu.won_moon.jun.won"
     fullname: >-
-      Simon
+      주원
     location: "Thailand"
-    followers: 30244
-    engagement: 973
-    commentsToLikes: 0.035727
-    id: ck0u69v4u1f6t0i1946gu2xwg
-    verified: false
-    hashtags: "#metroboutiquestyle, #mugshotchallenge"
+    followers: 474463
+    engagement: 688
+    commentsToLikes: 0.018227
+    id: ck14j92eoj60l0i19hucck7ds
+    verified: true
+    hashtags: "#nike, #grazia"
 cities:
   - name: Chiang mai
     link: /instagram/thailand/chiang-mai

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Hamburg In 2020
 description: >-
-  Find top vegan Instagram influencers in Hamburg in 2020. Most popular hashtags: #hamburg #vegan #vegandeutschland #veganhamburg.
+  Find top vegan Instagram influencers in Hamburg in 2020. Most popular hashtags: #nature #veganhamburg #hamburgvegan #vegan.
 platform: Instagram
 profiles:
-  - username: "you_carrot"
+  - username: "sandratyson"
     fullname: >-
-      𝑱𝒖𝒍𝒊𝒏𝒂🥕
+      sandratyson
     location: "Germany"
-    followers: 2861
-    engagement: 3779
-    commentsToLikes: 0.099159
-    id: ck6tnk7qea0fw0j716u9wctts
+    followers: 6704
+    engagement: 908
+    commentsToLikes: 0.046941
+    id: ck15un6lpnzo80i19lx699von
     verified: false
-    hashtags: "#veganlifestyle, #apple, #lunch, #coconut"
+    hashtags: "#lifeaftercancer, #wasanderedenken, #burghotel, #wissbegierig"
   - username: "ashtray_arts"
     fullname: >-
-      🌿Vegan Gothgirl🌿
+      🌿Ashtray Arts🌿
     location: "Germany"
-    followers: 30366
-    engagement: 248
-    commentsToLikes: 0.030895
+    followers: 31578
+    engagement: 346
+    commentsToLikes: 0.021655
     id: ck5q8kv9y6osq0i11zp4eyw9k
     verified: false
-    hashtags: "#tierrechtsaktivismus, #photographer, #bluemakeup, #print"
-  - username: "sanae.decker"
+    hashtags: "#darkqueen, #sphynxcat, #veganforlife, #fullfacemakeup"
+  - username: "lina.isalie"
     fullname: >-
-      Sanae Decker - Yoga Moves
+      Lina
     location: "Germany"
-    followers: 6561
-    engagement: 645
-    commentsToLikes: 0.045289
-    id: ck8swofawepvm0j78mdg3uwat
+    followers: 16764
+    engagement: 336
+    commentsToLikes: 0.174103
+    id: ck0w1xktdlmvu0i19794slxhp
     verified: false
-    hashtags: "#littlelunch, #lieblingssuppe, #veganwerdenwaslosdigga, #dehnen"
-  - username: "veganistscharf"
+    hashtags: "#power, #sunset, #amazinprunes, #homedecor"
+  - username: "you_carrot"
     fullname: >-
-      𝕊𝕒𝕟𝕚𝕛𝕖𝕝 𝕁𝕒𝕜𝕚𝕞𝕠𝕧𝕤𝕜𝕚
+      𝑱𝒖𝒍𝒊𝒏𝒂🥕𝑽𝒆𝒈𝒆𝒕𝒂𝒓𝒊𝒂𝒏 / 𝑽𝒆𝒈𝒂𝒏 𝒇𝒐𝒐𝒅
     location: "Germany"
-    followers: 39414
-    engagement: 130
-    commentsToLikes: 0.053982
-    id: ck8tc2ro6y2u70j78fhup910h
+    followers: 3230
+    engagement: 3105
+    commentsToLikes: 0.098927
+    id: ck6tnk7qea0fw0j716u9wctts
     verified: false
-    hashtags: "#tierversuchsfrei, #haarpflege, #kontaktlos, #bearded"
-  - username: "pflanzlich.stark"
+    hashtags: "#applecinnamon, #kokossuppe, #postworkout, #cozytime"
+  - username: "jennifer_prokopenkova"
     fullname: >-
-      pflanzlich.stark🌱💪
+      Health | Detox your Life 🙏🏽🌿
     location: "Germany"
-    followers: 67971
-    engagement: 557
-    commentsToLikes: 0.054594
-    id: ck6u35jz8vucl0j714cafwws4
+    followers: 28108
+    engagement: 214
+    commentsToLikes: 0.068200
+    id: ckap38pjt20pi0i789l7zj0m6
     verified: false
-    hashtags: "#veganismus, #pflanzenbasiert, #di, #gem"
-  - username: "kissalexakiss"
+    hashtags: "#fitx, #falafelbowl, #instablaulicht, #freundschaftf"
+  - username: "vegantaeglich"
     fullname: >-
-      I eat, cook & travel the world
+      Täglich Fakten für Veganer
     location: "Germany"
-    followers: 43691
-    engagement: 361
-    commentsToLikes: 0.055652
-    id: ck15s78iibkrk0i19iq7seawi
+    followers: 15555
+    engagement: 797
+    commentsToLikes: 0.024317
+    id: ckapadhv0vo430i78llehnvtg
     verified: false
-    hashtags: "#bragyourplate, #hereismyfood, #pudding, #food4thought"
-  - username: "skueche"
+    hashtags: "#veganleben, #mehrvegan, #vegansofgerman, #veganessen"
+  - username: "fruggielicious"
     fullname: >-
-      ✬ 𝗦-Küche | 𝗦imone
+      Kris
     location: "Germany"
-    followers: 24159
-    engagement: 247
-    commentsToLikes: 0.054376
-    id: ck5hooe0epxef0i11waitcbll
+    followers: 19717
+    engagement: 714
+    commentsToLikes: 0.042474
+    id: ck0u7nlzs554t0i195gcosx5t
     verified: false
-    hashtags: "#comfortfood, #lowcarb, #foodphotography, #foodpics"
-  - username: "dorilina"
+    hashtags: "#aesthetic, #raps, #gutenmorgenwelt, #eidmubarak2020"
+  - username: "charlykrueger"
     fullname: >-
-      D O R I  👑
+      𝙲 𝙷 𝙰 𝚁 𝙻 𝚈
     location: "Germany"
-    followers: 124265
-    engagement: 457
-    commentsToLikes: 0.006261
-    id: ck6u1pbthn2y20j71po7pisfe
+    followers: 2474
+    engagement: 1793
+    commentsToLikes: 0.044968
+    id: ckap32vta1bmu0i78smcvpfpi
     verified: false
-    hashtags: "#nofilter, #weekend, #gang, #tender"
-  - username: "magic_fabi"
+    hashtags: "#shoot, #blonde, #billieeilish, #clairo"
+  - username: "byleatheresa"
     fullname: >-
-      FASHION | MENSWEAR | LIFESTYLE
+      Lea Theresa
     location: "Germany"
-    followers: 20470
-    engagement: 520
-    commentsToLikes: 0.504818
-    id: ck135qo722rc90i19hgy3shky
+    followers: 16996
+    engagement: 828
+    commentsToLikes: 0.064421
+    id: ck15tyk3ykjdr0i1944n15hz6
     verified: false
-    hashtags: "#createyourstyle, #vegan, #abcdesign, #halloween"
-  - username: "holababz"
+    hashtags: "#rohvegan, #clean, #yinyang, #throwback"
+  - username: "katyyys_welt"
     fullname: >-
-      H O L A B A B Z
+      KaTi☆Beautyberaterin☆by☆Avon
     location: "Germany"
-    followers: 68055
-    engagement: 239
-    commentsToLikes: 0.047337
-    id: ck0vuytvxmro20i19asdlftnq
+    followers: 6339
+    engagement: 374
+    commentsToLikes: 0.229746
+    id: ck6ugqe2m4jm10j71o5phvvtd
     verified: false
-    hashtags: "#tiefenmuskulatur, #goatrelease, #homeofficetipps, #growthmindset"
+    hashtags: "#cosmetics, #mundschutz, #kosmetik, #essensbild"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Dallas In 2020
 description: >-
-  Find top mothers Instagram influencers in Dallas in 2020. Most popular hashtags: #love #dallas #happy #letthembelittle.
+  Find top mothers Instagram influencers in Dallas in 2020. Most popular hashtags: #dallas #happymothersday #love #mothersday.
 platform: Instagram
 profiles:
   - username: "iinkstar_pinkyy"
     fullname: >-
       Pinkyy Montana❣️
     location: "United States"
-    followers: 142512
-    engagement: 131
-    commentsToLikes: 0.062975
+    followers: 139266
+    engagement: 130
+    commentsToLikes: 0.038612
     id: ck8szkvedou700j78u9jkqdoo
     verified: false
-    hashtags: "#single, #onlyfans, #impinkyybitch, #wce"
-  - username: "ty_static"
+    hashtags: "#single, #onlyfans, #moodall2020, #newset"
+  - username: "spencercrofoot"
     fullname: >-
-      Ty Cain, The Model
+      Spencer Crofoot
     location: "United States"
-    followers: 6128
-    engagement: 730
-    commentsToLikes: 0.064745
-    id: ck8syrsdglra40j78honc5wab
+    followers: 46441
+    engagement: 1377
+    commentsToLikes: 0.030676
+    id: ckap4o7an84qo0i785v8xmwxr
     verified: false
-    hashtags: "#entrepreneur, #lost, #hawaii, #patpat"
-  - username: "krystlestarrwars"
+    hashtags: "#smile, #motivational, #cool, #great"
+  - username: "deecorseytattoos"
     fullname: >-
-      🌟Krystle Starr🌟
+      D E R E K   C O R S E Y
     location: "United States"
-    followers: 74961
-    engagement: 296
-    commentsToLikes: 0.023411
-    id: ck6tm051l6ych0j71piv98080
+    followers: 10417
+    engagement: 547
+    commentsToLikes: 0.047381
+    id: ck9wdxqs1hqua0j78altw3va1
     verified: false
-    hashtags: "#wolverine, #legoaddict, #disco, #positive"
-  - username: "chefakiraback"
+    hashtags: "#mothersday, #texastattoos, #dallastexas, #happymothersday"
+  - username: "mommadeesimmons"
     fullname: >-
-      Akira Back (백승욱)
+      Dee Simmons
     location: "United States"
-    followers: 40594
-    engagement: 446
-    commentsToLikes: 0.006058
-    id: ck139ht1yldh50i19eap9rqqr
-    verified: true
-    hashtags: "#wakeup, #groceryshopping, #beveryhills, #camo"
+    followers: 29741
+    engagement: 297
+    commentsToLikes: 0.041885
+    id: ck55mbz6i3mj40i11eicdkwg4
+    verified: false
+    hashtags: "#hngm, #zulily, #bravotv, #mommadee"
   - username: "charmazing_1"
     fullname: >-
       Charmaine Christie-Primo
     location: "United States"
-    followers: 2389
-    engagement: 755
-    commentsToLikes: 0.086644
+    followers: 2437
+    engagement: 907
+    commentsToLikes: 0.095293
     id: ck8sw2ns1dkc00j789ypwkidh
     verified: false
-    hashtags: "#funnygirls, #haha, #memegang, #blackexcellence"
-  - username: "jennifernicole.1"
+    hashtags: "#dallas, #positivevibes, #dontrushchallenge, #dimples"
+  - username: "shenovaweirdo"
     fullname: >-
-      Jennifer Nicole
+      she nova ☾⋱
     location: "United States"
-    followers: 2190
-    engagement: 2530
-    commentsToLikes: 0.265286
-    id: ck5q1fo3jar9g0i11y8dsy37v
+    followers: 21022
+    engagement: 247
+    commentsToLikes: 0.076920
+    id: ck5zja892h8a20i142c06r36d
     verified: false
-    hashtags: "#wellnessjourney, #ourdailylifestyleee, #emergencycsection, #westayinspireddaily"
-  - username: "tinklesherpants"
+    hashtags: "#washyourhands, #gearreview, #shenovaweirdo, #producer"
+  - username: "ty_static"
     fullname: >-
-      Stephanie Hanrahan
+      Ty Cain, The Model
     location: "United States"
-    followers: 14444
-    engagement: 352
-    commentsToLikes: 0.054310
-    id: ck0u18bytw0t10i19e5kdte3x
+    followers: 6096
+    engagement: 683
+    commentsToLikes: 0.072734
+    id: ck8syrsdglra40j78honc5wab
     verified: false
-    hashtags: "#dfwblogger, #candidchildhood, #autismwarrior, #fitmom"
-  - username: "theselvafamily"
+    hashtags: "#amazing, #phenomenalwoman, #skin, #bday"
+  - username: "krystlestarrwars"
     fullname: >-
-      Mommy & Me Fashion Family
+      🌟Krystle Starr 🌟
     location: "United States"
-    followers: 17208
-    engagement: 1080
-    commentsToLikes: 0.034178
-    id: ck6u2o4u4sxy20j71pisgaowo
+    followers: 77767
+    engagement: 293
+    commentsToLikes: 0.021911
+    id: ck6tm051l6ych0j71piv98080
     verified: false
-    hashtags: "#babygirls, #vloggingfamily, #mommyandmefashion, #femaleentreprenuer"
-  - username: "julian_chua"
+    hashtags: "#whackedem, #texasgirl, #cosplaygirl, #leaguecosplay"
+  - username: "jeenawilder"
     fullname: >-
-      Julian Chua
+      Motherhood & Adoption
     location: "United States"
-    followers: 19105
-    engagement: 394
-    commentsToLikes: 0.039278
-    id: ck5hp9gb2qz4e0i11gxvy58bt
+    followers: 13816
+    engagement: 1201
+    commentsToLikes: 0.036335
+    id: ck9wopr5n633e0j784k34lijv
     verified: false
-    hashtags: "#gilbertoramirez, #homefitness, #shreveport, #closecall"
-  - username: "accordingtotia"
+    hashtags: "#mommy, #ketolife, #drinkwater, #ldsfamian"
+  - username: "theempoweredtherapist"
     fullname: >-
-      Tia | TheMillennialWivesClub
+      The Empowered Therapist
     location: "United States"
-    followers: 23262
-    engagement: 199
-    commentsToLikes: 0.033708
-    id: ck5cgu2rnpjrl0i11yueer1as
+    followers: 38042
+    engagement: 349
+    commentsToLikes: 0.026294
+    id: ck13bn7e7w8mi0i19w1wjxnnm
     verified: false
-    hashtags: "#millennialwife, #vitamins, #couplesandcocktails, #inspiration"
+    hashtags: "#hurt, #capacity, #courses, #breath"
 ---

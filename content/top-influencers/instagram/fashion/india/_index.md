@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In India In 2020
 description: >-
-  Find top fashion Instagram influencers in India in 2020. Most popular hashtags: #fashionblogger #fashion #photography #instagram.
+  Find top fashion Instagram influencers in India in 2020. Most popular hashtags: #ootd # #quarantinelife #weddingwear.
 platform: Instagram
 profiles:
-  - username: "pappya_gaikwad_official"
+  - username: "fashion_trends86"
     fullname: >-
-      PapPya Gaikwad
+      ⒻⒶⓈⒽⒾⓄⓃ ⓉⓇⒺⓃⒹⓈ👗👜
     location: "India"
-    followers: 1785451
-    engagement: 947
-    commentsToLikes: 0.062626
-    id: ck0u2mcaj0c8k0i192zla88ka
+    followers: 189819
+    engagement: 136
+    commentsToLikes: 0.013542
+    id: ck0uc5hb9g3ee0i19s3nipfr1
     verified: false
-    hashtags: "#stayhome, #tiktok, #handwashchallenge, #staysafe"
-  - username: "_.ke_yur_17"
+    hashtags: "#fashion"
+  - username: "ourpassportstory_"
     fullname: >-
-      KEyuR PatEL 🌹🖤
+      Surbhi & Nehil | Travel Couple
     location: "India"
-    followers: 75792
-    engagement: 1786
-    commentsToLikes: 0.065593
-    id: ck8td70b525ji0j787jg0qdhc
+    followers: 3829
+    engagement: 3113
+    commentsToLikes: 0.163963
+    id: ck6tyeona3a9p0j71yjimujwa
     verified: false
-    hashtags: "#india, #favorite, #justjaans, #pose"
-  - username: "feelingfashioninside"
+    hashtags: "#turkey, #quarantine, #home, #cappadocia"
+  - username: "fashionarbaj"
     fullname: >-
-      Personal Blog
+      MODEL & fASHION PHOTOGRAPHY
     location: "India"
-    followers: 5110
-    engagement: 1870
-    commentsToLikes: 0.369683
-    id: ck8t8az4cjr370j786zot9dwa
+    followers: 4018
+    engagement: 2856
+    commentsToLikes: 0.562940
+    id: ckaowb49g85250i781g2y9w0k
     verified: false
-    hashtags: "#naturalskincareproducts, #hairgoals, #stayhomesavelives, #planforvacation"
-  - username: "sheoran_ani"
+    hashtags: ""
+  - username: "harshitmittal15"
     fullname: >-
-      Anita Sheoran
+      HARSHIT MITTAL | MEN'S WEAR |
     location: "India"
-    followers: 7221
-    engagement: 1611
-    commentsToLikes: 0.129720
-    id: ck134t2i8y27n0i19bylzcuf5
+    followers: 5664
+    engagement: 2781
+    commentsToLikes: 0.095980
+    id: ck8t4jupg70nt0j78yxv91uzz
     verified: false
-    hashtags: "#allskintypes, #happyskin, #crueltyfree, #aromatherapeutic"
-  - username: "biryanioverpeople"
+    hashtags: "#mymyntralook, #manmatters, #mattersofman, #gogreen"
+  - username: "bhupinder_19"
     fullname: >-
-      Naveli Khatri
+      🌈Bhupinder Kaur🦄
     location: "India"
-    followers: 7088
-    engagement: 1562
-    commentsToLikes: 0.092981
-    id: ck8t9tgvmpas00j784evhr9on
+    followers: 6488
+    engagement: 2384
+    commentsToLikes: 0.089619
+    id: ckaov56z033sp0i78y2hqb5vd
     verified: false
-    hashtags: "#mineyhiestdekhzzz, #stayhomekarona, #safetgthr15, #apgtqr"
-  - username: "thebeautycape"
+    hashtags: "#pinkmakeuplooks, #instadailypost, #quarantinelife, #stylingvideo"
+  - username: "_ajju__masar"
     fullname: >-
-      Anjali Soni | Jaipur Blogger
+      🔰  _angel_nanudi_  🔰
     location: "India"
-    followers: 8450
-    engagement: 1536
-    commentsToLikes: 0.134917
-    id: ck8t7j0sqgzle0j78l7n9t8w2
+    followers: 9766
+    engagement: 2106
+    commentsToLikes: 0.179813
+    id: ck9hab2qbbv100j782e9q2nl1
     verified: false
-    hashtags: "#fashioninspo, #bulbulshoplive, #paysafeindia, #fashiontrends"
-  - username: "sushma_pappya_gaikwad"
+    hashtags: ""
+  - username: "shalini_vishnoi"
     fullname: >-
-      👑Sony PapPya Gaikwad👑
+      Shalini Vishnoi
     location: "India"
-    followers: 310091
-    engagement: 836
-    commentsToLikes: 0.035201
-    id: ck14h9f98978q0i19ezacqkwe
+    followers: 7366
+    engagement: 1676
+    commentsToLikes: 0.152239
+    id: ck9wfajl3nz5s0j788hj5ng5n
     verified: false
-    hashtags: "#shein, #sheingirlpower"
-  - username: "majestic_mum"
-    fullname: >-
-      Riya Mitra | Kolkata Blogger
-    location: "India"
-    followers: 3108
-    engagement: 2172
-    commentsToLikes: 0.124170
-    id: ck8t73p31fjin0j78bzz43v9g
-    verified: false
-    hashtags: "#coronagoaway, #chalubhaluz, #onemoment, #stayhealthy"
+    hashtags: "#summervibes, #igersofindia, #babesofsbl, #casualoutfit"
   - username: "taukeer_editz"
     fullname: >-
-      𝐓 🔥 𝐔 𝐊 𝐄 𝐄 𝐑  𝐄 𝐃 𝐈 𝐓 𝐙  👑
+      T 🔥 U K E E R   E D I T Z  👑
     location: "India"
-    followers: 170076
-    engagement: 1507
-    commentsToLikes: 0.033853
+    followers: 202590
+    engagement: 1513
+    commentsToLikes: 0.040923
     id: ck15r3put5zoz0i19o97av7e3
     verified: false
-    hashtags: "#orange, #moodblue, #happyholidays, #picsart"
+    hashtags: "#illustration, #artwork, #lockdown, #catsofinstagram"
   - username: "_mack_1211"
     fullname: >-
-      madhav surati
+      I M POOP
     location: "India"
-    followers: 40910
-    engagement: 1350
-    commentsToLikes: 0.048429
+    followers: 44686
+    engagement: 1216
+    commentsToLikes: 0.062336
     id: ck14jttd0m5gn0i19adgzzjea
     verified: false
-    hashtags: "#portraits, #love, #buildinglovers, #instaphoto"
+    hashtags: "#vehicle, #luxury, #travelphoto, #cars"
+  - username: "_gargibiswas_"
+    fullname: >-
+      GARGI | KOLKATA BLOGGER |
+    location: "India"
+    followers: 27692
+    engagement: 1143
+    commentsToLikes: 0.066937
+    id: ck9wggh1vtb9g0j78iyd4xebd
+    verified: false
+    hashtags: "#kolkatafood, #havells, #pizzaislove, #safecravings"
 ---

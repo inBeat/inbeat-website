@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Brazil In 2020
 description: >-
-  Find top makeup Instagram influencers in Brazil in 2020. Most popular hashtags: #makeup #maquiagembrasil #instagoth #gothgoth.
+  Find top makeup Instagram influencers in Brazil in 2020. Most popular hashtags: #makeuplover #tutorialmakeup #sorteio #girlpower.
 platform: Instagram
 profiles:
-  - username: "nosferotika"
+  - username: "vanessagrabeel"
     fullname: >-
-      Rubia - NOSFEROTIKA
+      Makeup
     location: "Brazil"
-    followers: 92283
-    engagement: 1210
-    commentsToLikes: 0.126405
-    id: ck13cjlob0o5i0i1910ti4m2h
+    followers: 38017
+    engagement: 81
+    commentsToLikes: 0.114639
+    id: ck8t0yointtmv0j78mtfyqje0
     verified: false
-    hashtags: "#gothicbox, #altmodel, #egirlmakeup, #alternativegirlsbr"
-  - username: "jamillerafic"
+    hashtags: "#amordem, #influenciadora, #brotherbear, #travelblogger"
+  - username: "kamillateixeiramakeup"
     fullname: >-
-      Jamille Rafic
+      KAMILLA TEIXEIRA 🇧🇷
     location: "Brazil"
-    followers: 16564
-    engagement: 873
-    commentsToLikes: 0.191657
-    id: ck0w6esn8881i0i19x2ta5b7t
+    followers: 355496
+    engagement: 137
+    commentsToLikes: 0.020883
+    id: ck0vzov1wa5wl0i19op63m4pn
     verified: false
-    hashtags: "#makeuplife, #underratedmua, #makeupaddict, #makeupblogger"
+    hashtags: "#makeup"
+  - username: "helenacoelhooo"
+    fullname: >-
+      𝐇 𝐄 𝐋 𝐄 𝐍 𝐀  𝐂 𝐎 𝐄 𝐋 𝐇 𝐎
+    location: "Brazil"
+    followers: 455499
+    engagement: 2440
+    commentsToLikes: 1.664794
+    id: ck0u0az0ut4qf0i19ylg3kdyp
+    verified: false
+    hashtags: "#foreoportugal, #ikeaportugal, #hboportugal, #pub"
+  - username: "darlensp"
+    fullname: >-
+      D A R L E N S O U S A ✨
+    location: "Brazil"
+    followers: 8006
+    engagement: 1654
+    commentsToLikes: 0.074984
+    id: ck9wfmainph800j78ucxs7ezv
+    verified: false
+    hashtags: "#cachoscoloridos, #cachosbra, #youtube, #barbiechallenge"
   - username: "lilianefariass_"
     fullname: >-
       Liliane Farias ✨
     location: "Brazil"
-    followers: 22244
-    engagement: 842
-    commentsToLikes: 0.193493
+    followers: 22780
+    engagement: 919
+    commentsToLikes: 0.195231
     id: ck14gny8y664q0i196hve8svl
     verified: false
-    hashtags: "#tbt, #emcasa, #whiteparty"
-  - username: "nara.pezzuol"
+    hashtags: "#whiteparty, #tbt, #emcasa"
+  - username: "jamillerafic"
     fullname: >-
-      Nara Pezzuol
+      Jamille Rafic
     location: "Brazil"
-    followers: 5570
-    engagement: 1316
-    commentsToLikes: 0.384099
-    id: ck8t11zhju67i0j78gh0rxyxe
+    followers: 17371
+    engagement: 846
+    commentsToLikes: 0.200654
+    id: ck0w6esn8881i0i19x2ta5b7t
     verified: false
-    hashtags: "#modapraia, #beautyblogger, #cabeloscurtos, #dicasdelook"
-  - username: "daniceruttimakeup"
+    hashtags: "#gothicgirl, #makeupaddict, #goth, #selfie"
+  - username: "marinazanluca"
     fullname: >-
-      Daniela Cerutti
+      MARINA ZANLUCA
     location: "Brazil"
-    followers: 18802
-    engagement: 789
-    commentsToLikes: 0.283331
-    id: ck5c6cbsx55ad0i11zqqegq18
+    followers: 47600
+    engagement: 678
+    commentsToLikes: 0.066810
+    id: ck0w31pksr6ss0i19i2ep6tjq
     verified: false
-    hashtags: "#danicerutti, #delineado, #bperfectcosmetics, #teprometo"
-  - username: "marjovile"
+    hashtags: "#metalhead, #gothgirls, #gothicgirls, #emofashion"
+  - username: "jemartins22"
     fullname: >-
-      Marjorye Vilela
+      JESSICA MARTINS ❣️
     location: "Brazil"
-    followers: 23294
-    engagement: 1267
-    commentsToLikes: 0.046751
-    id: ck15rh0bm7vzk0i19llhisvvn
+    followers: 90359
+    engagement: 624
+    commentsToLikes: 0.069174
+    id: ck15qxqta55wq0i19cmjbr990
     verified: false
-    hashtags: "#maquiagembrasil, #lookparagarotas, #curlygirl, #maquiageminsta"
-  - username: "brunnagoncalves"
+    hashtags: "#goals, #mulhermaravilha, #makeuplover, #jamescharles"
+  - username: "paixao_brenda"
     fullname: >-
-      BRUNNA GONÇALVES OLIVEIRA
+      BRENDA PAIXÃO
     location: "Brazil"
-    followers: 2631493
-    engagement: 673
-    commentsToLikes: 0.019668
-    id: ck0vzb5so886y0i190go4njur
-    verified: true
-    hashtags: "#mascaraeuforic, #avonbrasil, #publi, #rtsbrasil"
-  - username: "brunodie"
-    fullname: >-
-      Bruno Ferreira
-    location: "Brazil"
-    followers: 48050
-    engagement: 763
-    commentsToLikes: 0.039402
-    id: ck8tb94rpusb00j780g5mceg8
+    followers: 70298
+    engagement: 623
+    commentsToLikes: 0.056666
+    id: ck6tpoj2zl7650j71eu3y04i1
     verified: false
-    hashtags: "#tbt, #cachoeirasantabarbara"
-  - username: "tekalovesit"
+    hashtags: "#gratid, #curadadepressao, #marimariamakeup, #videomakeup"
+  - username: "beatriz.cust"
     fullname: >-
-      TEKA 𖤐
+      Beatriz Custódio
     location: "Brazil"
-    followers: 22480
-    engagement: 700
-    commentsToLikes: 0.068773
-    id: ck8t2g7zrzdiu0j786u0bxmqf
+    followers: 32666
+    engagement: 668
+    commentsToLikes: 2.191524
+    id: ck8t1xsgtxgxw0j78uvm9b6aj
     verified: false
-    hashtags: "#tb, #makesdateka, #looksdateka"
-  - username: "mauadgui"
-    fullname: >-
-      Gui Mauad
-    location: "Brazil"
-    followers: 6567
-    engagement: 1563
-    commentsToLikes: 0.060952
-    id: ck5zj6p4rh1n90i14q0mzhx6b
-    verified: false
-    hashtags: "#dragphotostudio, #drag, #makeup, #art"
+    hashtags: "#positivevibes, #look, #samsung, #oculosdesol"
 ---

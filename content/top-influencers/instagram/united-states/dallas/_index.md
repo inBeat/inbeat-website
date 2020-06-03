@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Dallas In 2020
 description: >-
-  Find top Instagram influencers in Dallas in 2020. Most popular hashtags: #mandown #motivation #ltkstyletip #stayhomewithltk.
+  Find top Instagram influencers in Dallas in 2020. Most popular hashtags: # #outfitideas #makeup #hijabmodel.
 platform: Instagram
 profiles:
   - username: "zblomberg"
     fullname: >-
       Zach Blomberg
     location: "United States"
-    followers: 2249
-    engagement: 1828
-    commentsToLikes: 0.028949
+    followers: 2261
+    engagement: 1829
+    commentsToLikes: 0.028119
     id: ck5hodesxpd9j0i11gl8e5331
     verified: false
     hashtags: ""
-  - username: "crystalxdanielle"
+  - username: "dallasbrethebody"
     fullname: >-
-      Crystal Danielle
+      DALLAS
     location: "United States"
-    followers: 10084
-    engagement: 1408
-    commentsToLikes: 0.098673
-    id: ck0w3ee5jszeh0i19408zbd0a
+    followers: 33384
+    engagement: 143
+    commentsToLikes: 0.020406
+    id: ck6tksquf5c3y0j71zuemh15n
     verified: false
-    hashtags: "#pregnancyannouncment, #stonyfieldorganic, #avalon, #hotmomsummer"
-  - username: "karissfarris"
+    hashtags: ""
+  - username: "samoyed_puppy_dallas"
     fullname: >-
-      Kariss Farris
+      Dallas
     location: "United States"
-    followers: 22852
-    engagement: 1210
-    commentsToLikes: 0.060307
-    id: ck14kx1crrqww0i19kp90ipy7
+    followers: 28982
+    engagement: 286
+    commentsToLikes: 0.019610
+    id: ck9hbbrd9g6k70j784st1yuz6
     verified: false
-    hashtags: "#lingokids, #wikstenhaori, #handmadewardrobe, #evereden"
+    hashtags: "#shoobstar, #lonely, #tbt"
+  - username: "hossainishrat"
+    fullname: >-
+      Ishrat Hossain
+    location: "United States"
+    followers: 5060
+    engagement: 2112
+    commentsToLikes: 0.261415
+    id: ckaou140nybzx0i78pm5no76d
+    verified: false
+    hashtags: "#bengaliblogger, #knowledge, #modesty, #bengalihijabi"
+  - username: "kassybby_mua"
+    fullname: >-
+      Kass
+    location: "United States"
+    followers: 7684
+    engagement: 1656
+    commentsToLikes: 0.105227
+    id: ck8t5elgl9vvh0j784dzti33s
+    verified: false
+    hashtags: "#pinkoutfit, #anastasiabrows, #wetnwildbeauty, #tiktokmakeup"
   - username: "jayciekathleen"
     fullname: >-
       J A Y C I E ⋒ ⋒ ⋒
     location: "United States"
-    followers: 12614
-    engagement: 1352
-    commentsToLikes: 0.058730
+    followers: 13517
+    engagement: 1388
+    commentsToLikes: 0.075255
     id: ck5znzg0wpgap0i144tf10w7i
     verified: false
-    hashtags: "#ootdfashion, #boredinthehouse, #marykateandashley, #spicypickle"
-  - username: "kaiforbath"
+    hashtags: "#mavslearningassist, #aussomehair, #ad"
+  - username: "joshuaspixx"
     fullname: >-
-      Kai Forbath
+      Nigel
     location: "United States"
-    followers: 35328
-    engagement: 1306
-    commentsToLikes: 0.055061
-    id: ck5c38qeoyt740i11r07kwl3r
-    verified: true
-    hashtags: "#skol, #bringithome"
-  - username: "errolspencejr"
-    fullname: >-
-      Errol Spence Jr
-    location: "United States"
-    followers: 640673
-    engagement: 870
-    commentsToLikes: 0.026406
-    id: ck13be8d6v04w0i19u7zgbtvz
-    verified: true
-    hashtags: "#raisinngblackqueens, #mambamentality, #mandownpromotions, #jamamerican"
-  - username: "ameirylife"
-    fullname: >-
-      Meir - Fashion & Lifestyle
-    location: "United States"
-    followers: 3810
-    engagement: 2096
-    commentsToLikes: 0.543038
-    id: ck6tupha0hnqg0j71mfjiqy9c
+    followers: 23840
+    engagement: 1135
+    commentsToLikes: 0.067327
+    id: ck134v3exyc280i190znsoe0l
     verified: false
-    hashtags: "#ltkhome, #mvmtambassador, #liketkit, #ltkspring"
-  - username: "kerry.linney"
+    hashtags: ""
+  - username: "lccblog"
     fullname: >-
-      𝐖𝐀𝐋𝐊𝐈𝐍𝐆 𝐀𝐓𝐌𝐒 🏧
+      ALAINA ATWOOD // LCCBLOG
     location: "United States"
-    followers: 2111
-    engagement: 2378
-    commentsToLikes: 0.162525
-    id: ck8tc6g6hygba0j78fi5io2ey
+    followers: 5856
+    engagement: 1643
+    commentsToLikes: 0.080530
+    id: ck6uhajpm7zu60j71q2q6a5fy
     verified: false
-    hashtags: "#justdoit, #personalgrowth, #onlinebusiness, #grateful"
-  - username: "chandidayle"
+    hashtags: "#40weekspregnant, #liketkit, #36weekspregnant, #37weekspregnant"
+  - username: "kkashh2"
     fullname: >-
-      Chandi Dayle
+      Kayla🦋
     location: "United States"
-    followers: 11645
-    engagement: 1332
-    commentsToLikes: 0.051689
-    id: ck13bj2tcvnc50i19fb2i85mk
+    followers: 5344
+    engagement: 1535
+    commentsToLikes: 0.088516
+    id: ck9hcz5wnnjlp0j78aipjju2o
     verified: false
-    hashtags: "#gameday, #dalvsne, #yummy, #glutenfree"
-  - username: "ashleyfaithnewman"
+    hashtags: "#justsomethingforthetl, #mightdelete, #happythanksgivingday, #pvamu24"
+  - username: "crystalxdanielle"
     fullname: >-
-      ashley newman
+      Crystal Danielle
     location: "United States"
-    followers: 205368
-    engagement: 1862
-    commentsToLikes: 0.024181
-    id: ck134ehhkw1zi0i19gpqyustj
+    followers: 11043
+    engagement: 1287
+    commentsToLikes: 0.095710
+    id: ck0w3ee5jszeh0i19408zbd0a
     verified: false
-    hashtags: "#pov, #duet, #greenscreen"
+    hashtags: "#stonyfield, #kidstravel, #bumppic, #3monthsoldbaby"
 ---

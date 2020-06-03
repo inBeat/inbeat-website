@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Miami In 2020
 description: >-
-  Find top vegan Instagram influencers in Miami in 2020. Most popular hashtags: #miami #vegan #miamibeach #stayhome.
+  Find top vegan Instagram influencers in Miami in 2020. Most popular hashtags: #vegan #beauty #miamibeach #miami.
 platform: Instagram
 profiles:
   - username: "nataliaavegaa"
     fullname: >-
       NATALIA VEGA
     location: "United States"
-    followers: 8776
-    engagement: 505
-    commentsToLikes: 0.021407
+    followers: 8575
+    engagement: 518
+    commentsToLikes: 0.021484
     id: ck6uc7xdae0hh0j71x8mgeequ
     verified: false
-    hashtags: "#ahimsa, #photoshopfix, #cleanpic, #vegantacos"
+    hashtags: "#miamibeach, #vegantacos, #greennature, #veganmiami"
+  - username: "miss_red_vegan"
+    fullname: >-
+      Melissa  Dion 🧜🏻‍♀️🌱🥑
+    location: "United States"
+    followers: 24737
+    engagement: 375
+    commentsToLikes: 0.090796
+    id: ck0vz21bq6wat0i19tdrx7og5
+    verified: false
+    hashtags: "#veganshare, #glutenfreevegan, #fishnets, #veganreview"
   - username: "lexisheinberg"
     fullname: >-
       L E X
     location: "United States"
-    followers: 280411
-    engagement: 170
-    commentsToLikes: 0.023921
+    followers: 330585
+    engagement: 210
+    commentsToLikes: 0.023916
     id: ck8sx36fhg25w0j78tccxwxtf
     verified: false
-    hashtags: "#nodaysoff, #alonetogether"
+    hashtags: "#mommasgirl, #mybaby, #forever, #birthdaygal"
+  - username: "y.lady1nonly"
+    fullname: >-
+      
+    location: "United States"
+    followers: 3302
+    engagement: 1231
+    commentsToLikes: 0.054938
+    id: ckap8ywh1qhxs0i78e5oxagv0
+    verified: false
+    hashtags: "#inglewoodsir, #thecanvasandthemuse, #negativityisnoise"
   - username: "jnevilus"
     fullname: >-
       Jordan Nevilus
     location: "United States"
-    followers: 27685
-    engagement: 128
-    commentsToLikes: 0.028825
+    followers: 27399
+    engagement: 148
+    commentsToLikes: 0.030574
     id: ck8sys5evlsr10j78qjnmxvyy
     verified: false
-    hashtags: "#elitemodel, #nextmodels, #beauty, #canonphotography"
-  - username: "richelimurari"
+    hashtags: "#miami"
+  - username: "yovannamomplaisir"
     fullname: >-
-      Richeli Murari
+      Yovanna Momplaisir📺ᴘᴇʀsᴏɴᴀʟɪᴛʏ
     location: "United States"
-    followers: 96600
-    engagement: 151
-    commentsToLikes: 0.047822
-    id: ck8t5ylv8boes0j78xoa2anlz
+    followers: 26179
+    engagement: 238
+    commentsToLikes: 0.237978
+    id: ck5qbpm2umrs70i11hd84lvi3
     verified: false
-    hashtags: "#coronav, #energy, #miami, #nautica"
-  - username: "adamgodrosi"
+    hashtags: "#smilesciences, #motivation, #shop, #lifestyle"
+  - username: "rockinriino"
     fullname: >-
-      Adam Gödrösi
+      🇩🇴giovanna
     location: "United States"
-    followers: 49468
-    engagement: 217
-    commentsToLikes: 0.017283
-    id: ck602h6mxhdtp0i14pnbqyrw5
+    followers: 3245
+    engagement: 1011
+    commentsToLikes: 0.351616
+    id: ck5px2ugiptqo0i117h7vw2lb
     verified: false
-    hashtags: "#muscle, #palmtrees, #spiritual, #bodyweight"
-  - username: "brookprettyass"
+    hashtags: "#amazongiveaway, #momslife, #orangejuice, #beach"
+  - username: "cwphoto_"
     fullname: >-
-      All Hail Brook Lauryn. 👑
+      Charles Williams Photography
     location: "United States"
-    followers: 8255
-    engagement: 569
-    commentsToLikes: 0.045415
-    id: ck55mv25x4vsh0i11qyowlxob
+    followers: 124864
+    engagement: 126
+    commentsToLikes: 0.008702
+    id: ck5hlhb8pk7yj0i11and1ota6
     verified: false
-    hashtags: "#spaghetti, #beyondmeat, #atlbraids, #fuck"
-  - username: "samantha_shane"
+    hashtags: ""
+  - username: "lexi.125"
     fullname: >-
-      Samantha Shane 🌱
+      A L E X I A   T U R N E R
     location: "United States"
-    followers: 344191
-    engagement: 123
-    commentsToLikes: 0.013956
-    id: ck13a83gpp3a70i19hievkc71
+    followers: 11392
+    engagement: 940
+    commentsToLikes: 0.028225
+    id: ck8wgo4amhqna0j78c40lzgqt
     verified: false
-    hashtags: "#shareforshare, #wynwoodmiami, #tattooed, #followmonday"
-  - username: "cubanbabiieats"
+    hashtags: "#raining, #mood, #manhattanbeach, #selfcare"
+  - username: "_rosieromero"
     fullname: >-
-      𝙻𝚎𝚜𝚕𝚢  🧿
+      Rosie | beauty influencer
     location: "United States"
-    followers: 6963
-    engagement: 1107
-    commentsToLikes: 0.257226
-    id: ck13941eljesp0i19tc0wvihm
+    followers: 4229
+    engagement: 853
+    commentsToLikes: 0.084660
+    id: ck5hlg7drk5yh0i11hbd2sbnk
     verified: false
-    hashtags: "#newyearmood, #love, #waffles, #donut"
-  - username: "40yardsofgold"
-    fullname: >-
-      40 Yards of Gold
-    location: "United States"
-    followers: 21142
-    engagement: 499
-    commentsToLikes: 0.049540
-    id: ck0u7hl884pvg0i19dnxbhz33
-    verified: false
-    hashtags: "#fitness, #sportdrink, #bracketchallenge, #godsofspeed"
-  - username: "therealkatherinrojas"
-    fullname: >-
-      KATHERIN ROJAS
-    location: "United States"
-    followers: 183775
-    engagement: 256
-    commentsToLikes: 0.039877
-    id: ck5ck3pirw2ip0i11ah53mghg
-    verified: false
-    hashtags: "#plants, #katherinrojas, #vegains, #miami"
+    hashtags: "#haircare, #veganhaircare, #monat, #hairinfluencer"
 ---

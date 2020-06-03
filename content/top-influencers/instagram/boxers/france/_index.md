@@ -1,107 +1,107 @@
 ---
 title: Top 10 Boxers Instagram Influencers In France In 2020
 description: >-
-  Find top boxers Instagram influencers in France in 2020. Most popular hashtags: #teamcissokho #boxing #boxer #sport.
+  Find top boxers Instagram influencers in France in 2020. Most popular hashtags: #stayathome #coronavirus #training #2020.
 platform: Instagram
 profiles:
-  - username: "ahmedelmousaoui"
+  - username: "prism_wilson"
     fullname: >-
-      Ahmed El Mousaoui | AEM BOXING
+      Wilson «The Gladiator» Varela
     location: "France"
-    followers: 54296
-    engagement: 340
-    commentsToLikes: 0.028042
-    id: ck5hpeuj0r8ov0i11po23bqal
-    verified: true
-    hashtags: "#traininghard, #wilderfury2, #everlasteu, #tanger"
-  - username: "souleycissokho"
-    fullname: >-
-      Souleymane Cissokho
-    location: "France"
-    followers: 85777
-    engagement: 405
-    commentsToLikes: 0.013623
-    id: ck0w4dmr8y2ao0i19urvjhlr8
-    verified: true
-    hashtags: "#uahovrmachina, #senegal, #work, #recovery"
+    followers: 77631
+    engagement: 1197
+    commentsToLikes: 0.013001
+    id: ck9wgba8csnpe0j786x214dw5
+    verified: false
+    hashtags: ""
   - username: "jkitoubilel"
     fullname: >-
       Bilel Jkitou
     location: "France"
-    followers: 143707
-    engagement: 368
-    commentsToLikes: 0.008649
+    followers: 148386
+    engagement: 413
+    commentsToLikes: 0.146245
     id: ck6tjyd2v3n7h0j71l09kvao8
     verified: true
-    hashtags: "#bileljkitoushadow, #flowconfinement, #ibrahim, #jkitou"
+    hashtags: "#jkitouart, #aware, #art, #antoine"
+  - username: "ahmedelmousaoui"
+    fullname: >-
+      Ahmed El Mousaoui | AEM BOXING
+    location: "France"
+    followers: 56883
+    engagement: 357
+    commentsToLikes: 0.027002
+    id: ck5hpeuj0r8ov0i11po23bqal
+    verified: true
+    hashtags: "#wilderfury2, #trainhard, #justinoshea, #pfw"
+  - username: "ice.icemecri"
+    fullname: >-
+      ice | Boxer dog in Paris
+    location: "France"
+    followers: 6179
+    engagement: 1427
+    commentsToLikes: 0.031427
+    id: ck9wehvyskce40j78zg37allc
+    verified: false
+    hashtags: "#thisisparis"
+  - username: "mohamed_the_problem_mimoune"
+    fullname: >-
+      Mohamed Mimoune Officiel
+    location: "France"
+    followers: 21342
+    engagement: 422
+    commentsToLikes: 0.038909
+    id: ck5zkpy79jxze0i14frf9xv40
+    verified: true
+    hashtags: "#soon, #date, #coming, #contrat"
+  - username: "charlesfrankham1"
+    fullname: >-
+      CHARLES_FRANKHAM
+    location: "France"
+    followers: 20768
+    engagement: 467
+    commentsToLikes: 0.032103
+    id: ck0uerh31lywf0i19dwue820s
+    verified: true
+    hashtags: ""
   - username: "mekhaled_elhem69"
     fullname: >-
       Elhem Mekhaled
     location: "France"
-    followers: 10716
-    engagement: 456
-    commentsToLikes: 0.025082
+    followers: 10895
+    engagement: 431
+    commentsToLikes: 0.032576
     id: ck6tvs8scnzdr0j71hfy5mmin
     verified: false
-    hashtags: "#rapfreestyle, #womanboxing, #lasertattoo, #lasertatto"
-  - username: "edwige_ahonto"
+    hashtags: "#sportaddict, #indiefilmmaker, #rapfrancais, #lasertatto"
+  - username: "souleycissokho"
     fullname: >-
-      Edwige
+      Souleymane Cissokho
     location: "France"
-    followers: 2616
-    engagement: 2358
-    commentsToLikes: 0.099231
-    id: ck6udhog7l68f0j71fgmgb0n4
-    verified: false
-    hashtags: "#mma, #semuscler, #training, #fitnessgoals"
-  - username: "sandrinearcizet"
+    followers: 88903
+    engagement: 388
+    commentsToLikes: 0.015781
+    id: ck0w4dmr8y2ao0i19urvjhlr8
+    verified: true
+    hashtags: "#strength, #staysafe, #richardmille, #ballet"
+  - username: "yurik_ozmanyan_mamedov"
     fullname: >-
-      Sandrine Arcizet
+      DON’T BE SORRY BE CAREFUL™️
     location: "France"
-    followers: 29943
-    engagement: 614
-    commentsToLikes: 0.028547
-    id: ck5zkexphjcx30i14tw2s3gjm
+    followers: 29780
+    engagement: 349
+    commentsToLikes: 0.024508
+    id: ck0u0rf0luprz0i19h6axdy9t
     verified: false
-    hashtags: "#biendanssatete, #facebook, #oiseau, #abyssiniancat"
-  - username: "loendko"
+    hashtags: "#nycfashionblogger, #traveloutfit, #menstyles, #shoesforher"
+  - username: "kef_cay"
     fullname: >-
-      
+      Cayrier Kevin
     location: "France"
-    followers: 16942
-    engagement: 1012
-    commentsToLikes: 0.020001
-    id: ck5zk8y6qj1p20i14jiri0bjx
+    followers: 23733
+    engagement: 475
+    commentsToLikes: 0.032680
+    id: ck5hjxgmghf4h0i11ap26eam5
     verified: false
-    hashtags: "#chrisdetek34, #instadaily, #baseball, #xsqueezie"
-  - username: "maye_name_is_maye"
-    fullname: >-
-      MAYE
-    location: "France"
-    followers: 33056
-    engagement: 874
-    commentsToLikes: 0.033502
-    id: ck0tyh8simt970i19ppqo9qv2
-    verified: false
-    hashtags: "#undergroud, #tolosa, #streetart, #traindevie"
-  - username: "cknightart"
-    fullname: >-
-      Cameron Knight
-    location: "France"
-    followers: 93653
-    engagement: 857
-    commentsToLikes: 0.012685
-    id: ck13493hhvbkd0i19h3nwpcvw
-    verified: false
-    hashtags: "#myheroacademiaremix, #fearofgod, #meaninmagic, #shigirakitoumara"
-  - username: "olylamachine"
-    fullname: >-
-      Oly Yves Roland Polponan
-    location: "France"
-    followers: 9991
-    engagement: 959
-    commentsToLikes: 0.033164
-    id: ck6u4c6dy2w0s0j71qoelenzl
-    verified: false
-    hashtags: "#paris, #womenfitness, #godson, #fighterlife"
+    hashtags: "#soistoim, #straberry, #styleman, #bathroom"
 ---

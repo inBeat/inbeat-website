@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Portugal In 2020
 description: >-
-  Find top fitness Instagram influencers in Portugal in 2020. Most popular hashtags: #outfitinspo #stayhome #ootd #fitness.
+  Find top fitness Instagram influencers in Portugal in 2020. Most popular hashtags: #fitness #outfitinspo #lookoftheday #gentleman.
 platform: Instagram
 profiles:
   - username: "luismiguelferreiraa"
     fullname: >-
-      𝗟𝗨𝗜𝗦 𝗠𝗜𝗚𝗨𝗘𝗟
+      𝗟𝘂í𝘀 𝗠𝗶𝗴𝘂𝗲𝗹 | 𝗙𝗮𝘀𝗵𝗶𝗼𝗻•𝗙𝗶𝘁𝗻𝗲𝘀𝘀
     location: "Portugal"
-    followers: 55494
-    engagement: 475
-    commentsToLikes: 0.046711
+    followers: 55184
+    engagement: 480
+    commentsToLikes: 0.133921
     id: ck6tiiamt0rrx0j71siov3t0m
     verified: false
-    hashtags: "#instaselfie, #laboutiqueofficielle, #beachlovers, #beachphotoshoot"
+    hashtags: "#mensjewelry, #beardstyle, #workingout, #lookoftheday"
+  - username: "brunoanjoss"
+    fullname: >-
+      𝗕 𝗥 𝗨 𝗡 𝗢    𝗔 𝗡 𝗝 𝗢 𝗦
+    location: "Portugal"
+    followers: 4441
+    engagement: 1771
+    commentsToLikes: 0.378577
+    id: ck9womla25rjc0j78gw86m3wr
+    verified: false
+    hashtags: "#topman, #healthy, #freedom, #streetwear"
   - username: "nunoantunes_"
     fullname: >-
       Nuno Antunes
     location: "Portugal"
-    followers: 82333
-    engagement: 490
-    commentsToLikes: 0.034802
+    followers: 86050
+    engagement: 521
+    commentsToLikes: 0.036486
     id: ck0w70geub53e0i19ba3o3vus
     verified: false
-    hashtags: "#ootdmen, #braga, #fashioncouple, #fashionman"
-  - username: "timothyc.fitness"
+    hashtags: "#coupleshoot, #casuallook, #classicstyle, #menstrend"
+  - username: "inesrodrigues_all"
     fullname: >-
-      TIMOTHY CHAN FITNESS
+      INÊS RODRIGUES
     location: "Portugal"
-    followers: 5349
-    engagement: 1310
-    commentsToLikes: 0.019544
-    id: ck139vtvxndb30i19fsnzvhi9
+    followers: 74769
+    engagement: 330
+    commentsToLikes: 0.022261
+    id: ck6txdv05x9jt0j71blpivgib
     verified: false
-    hashtags: "#yearofrat, #energy, #activelifestyle, #squats"
-  - username: "vitinha30"
+    hashtags: "#absworkout, #quarantine, #transformation, #glutelab"
+  - username: "ana.mota.02"
     fullname: >-
-      🤴I Am Vitinha 🇵🇹
+      Ana Mota
     location: "Portugal"
-    followers: 11690
-    engagement: 606
-    commentsToLikes: 0.014688
-    id: ck8t1orcdwgzr0j78w8bcdcwg
+    followers: 6811
+    engagement: 1392
+    commentsToLikes: 0.014470
+    id: ckaoxsg23ejjr0i7856n2e3ej
     verified: false
-    hashtags: "#malemodel, #girlfriend, #myproteinpt, #moda"
-  - username: "nunoantas28"
-    fullname: >-
-      nunoantaszumba
-    location: "Portugal"
-    followers: 13081
-    engagement: 392
-    commentsToLikes: 0.069832
-    id: ck5bt88ilfia60i11fvkv283c
-    verified: false
-    hashtags: "#truelove, #zumbacommunity, #zincon2020, #krak"
+    hashtags: "#summeroutfit, #bestofvsco, #whatiwore, #fitfam"
   - username: "stefanyapereira"
     fullname: >-
       Stefany Pereira
     location: "Portugal"
-    followers: 7379
-    engagement: 640
-    commentsToLikes: 0.023275
+    followers: 7648
+    engagement: 592
+    commentsToLikes: 0.056757
     id: ck8tbim3vvu1v0j781gbd2hyz
     verified: false
-    hashtags: "#lilybodbabe, #lifestyle, #ad, #stayhome"
-  - username: "rutesimao"
+    hashtags: "#stayinghealthy, #summer, #island, #happyworkout"
+  - username: "joanaabastoos"
     fullname: >-
-      RUTE SIMÃO
+      Joana Bastos
     location: "Portugal"
-    followers: 14602
-    engagement: 1014
-    commentsToLikes: 0.513438
-    id: ck0tybitomaou0i19lvaih9nb
+    followers: 66693
+    engagement: 380
+    commentsToLikes: 0.008357
+    id: ckaorwwp8p4i70i78qifeonm0
     verified: false
-    hashtags: "#instahealth, #wanderlusting, #blackfriday, #photographylovers"
-  - username: "martinhagomez"
+    hashtags: "#haircut, #beachlovers, #instagood, #tattolover"
+  - username: "alexandracortereal_"
     fullname: >-
-      Martinha Gomez
+      Alexandra Corte Real ✨
     location: "Portugal"
-    followers: 25521
-    engagement: 528
-    commentsToLikes: 0.232442
-    id: ck0tybj33marc0i19b7w37ha9
+    followers: 47229
+    engagement: 271
+    commentsToLikes: 0.018635
+    id: ck6to63qxcb9d0j71awwiv9m3
     verified: false
-    hashtags: "#spring, #bridge, #tattoo, #hairstyle"
-  - username: "megmmorais"
+    hashtags: "#selfcare, #womenstyle, #staythefuckhome, #nopainnogain"
+  - username: "trainermiguel24"
     fullname: >-
-      Margarida Morais
+      Sérgio Miguel
     location: "Portugal"
-    followers: 31381
-    engagement: 481
-    commentsToLikes: 0.074457
-    id: ck0twpai2g9s70i197zk1o98z
+    followers: 13580
+    engagement: 492
+    commentsToLikes: 0.009334
+    id: ck9whf8vdxlbk0j78aufxpy66
     verified: false
-    hashtags: "#foundation, #theoutdoorfolk, #swim, #mylook"
-  - username: "joana_magro"
+    hashtags: "#fat, #homeworkout, #pin, #treino"
+  - username: "vitinha30"
     fullname: >-
-      Joana 🖤Social Media Consultant
+      🤴I Am Vitinha 🇵🇹
     location: "Portugal"
-    followers: 22917
-    engagement: 501
-    commentsToLikes: 0.197422
-    id: ck6tikajb0vlq0j71n9ghvyo4
+    followers: 11290
+    engagement: 601
+    commentsToLikes: 0.017056
+    id: ck8t1orcdwgzr0j78w8bcdcwg
     verified: false
-    hashtags: "#outfitideas4you, #stylediary, #personalstyle, #internationalwomensday"
+    hashtags: "#instafit, #prozisportugal, #instafashion, #shirt"
 ---

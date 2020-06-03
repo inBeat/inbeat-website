@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Miami In 2020
 description: >-
-  Find top travel Instagram influencers in Miami in 2020. Most popular hashtags: #travel #miami #stayhome #travelblogger.
+  Find top travel Instagram influencers in Miami in 2020. Most popular hashtags: #travel #miami #mothersday #nofilter.
 platform: Instagram
 profiles:
-  - username: "magdalena_rybarikova"
+  - username: "_mermaid.mo_"
     fullname: >-
-      Magdalena Rybarikova
+      Monica👉🏼 (MO)
     location: "United States"
-    followers: 20463
-    engagement: 645
-    commentsToLikes: 0.013207
-    id: ck6u45oyg1u3m0j713n3fguzq
+    followers: 94620
+    engagement: 733
+    commentsToLikes: 0.022939
+    id: ck1358y5n0aja0i19adlgred9
+    verified: false
+    hashtags: "#louisiana, #travel, #miamiboatshow, #drinkup"
+  - username: "worldofnoha"
+    fullname: >-
+      Noha Raouf
+    location: "United States"
+    followers: 10717
+    engagement: 555
+    commentsToLikes: 0.097220
+    id: ck6u42wb61dht0j71hgw200x2
+    verified: false
+    hashtags: "#quarantinelifecalm, #fbf, #dubai, #italia"
+  - username: "ogcollins_media"
+    fullname: >-
+      Omari Collins
+    location: "United States"
+    followers: 7347
+    engagement: 631
+    commentsToLikes: 0.056478
+    id: ck55m3n4f34r40i11dulzbm4n
+    verified: false
+    hashtags: "#playoffs, #morelife, #nflplayoffs, #sbliv"
+  - username: "oliverdog"
+    fullname: >-
+      Christian Meier
+    location: "United States"
+    followers: 751313
+    engagement: 141
+    commentsToLikes: 0.022856
+    id: ck6tvbig6l9zk0j71twvakk83
     verified: true
-    hashtags: "#wyndwoodwalls, #mauritius, #mallorca, #beautiful"
-  - username: "ladyjday"
+    hashtags: "#travel, #miamilife, #cocinanikkei, #nationalsiblingday"
+  - username: "adventures2_u"
     fullname: >-
-      Lady jday
+      URIEL & UENDI-A TRAVEL LIFE✈️
     location: "United States"
-    followers: 6376
-    engagement: 706
-    commentsToLikes: 0.061115
-    id: ck5zvwznq52b10i14lx24enip
+    followers: 7174
+    engagement: 796
+    commentsToLikes: 0.112104
+    id: ck5zkc5imj7jy0i14o32cdhng
     verified: false
-    hashtags: "#arte, #southkorea, #feminism, #painting"
-  - username: "edwinsleo"
+    hashtags: "#travellifestyle, #castleview, #smilemore, #travelislife"
+  - username: "vizcaya_museum"
     fullname: >-
-      Ξ D Щ î Л丂   Λㄈ🄾丂ᖶΔ   👽
+      Vizcaya Museum and Gardens
     location: "United States"
-    followers: 22798
-    engagement: 181
-    commentsToLikes: 0.053102
-    id: ck134p4e0xijm0i19p8j2c23t
+    followers: 45197
+    engagement: 205
+    commentsToLikes: 0.029605
+    id: ck0twn96vg0670i19iwpozzuo
     verified: false
-    hashtags: "#tibidabo, #katieangeldelete, #latinos, #rudlashexperience"
-  - username: "gangwayeveryday"
+    hashtags: "#publicgardensweek, #miamistyle, #zenscapes, #igreads"
+  - username: "tatimakeupstudio"
     fullname: >-
-      GangwayEveryday
+      Tati Perez Miami Makeup
     location: "United States"
-    followers: 23830
-    engagement: 663
-    commentsToLikes: 0.017592
-    id: ck15q7kki1gw30i19r4pju0xw
+    followers: 137291
+    engagement: 385
+    commentsToLikes: 0.030440
+    id: ck5ccbnvvh2nx0i11u62wh5wo
     verified: false
-    hashtags: "#nikonnofilters, #cruiseblogger, #usnscomfort, #oasisoftheseas"
-  - username: "baskalkorkis"
+    hashtags: "#foxyeye, #feriadeabril, #feriadesevilla, #feriadesevilla2020"
+  - username: "omar_rod"
     fullname: >-
-      Baskal Korkis
+      Omar Rodriguez Jr
     location: "United States"
-    followers: 116189
-    engagement: 239
-    commentsToLikes: 0.049330
-    id: ck14lq6hgvxot0i19cdzcfu8q
+    followers: 11190
+    engagement: 2004
+    commentsToLikes: 0.016983
+    id: ckap5h0wvbngh0i781avdp2kt
     verified: false
-    hashtags: "#jesus, #investment, #save, #yellow"
-  - username: "drgauravbharti"
+    hashtags: "#dontcomeforme, #fajaparalagordura, #donttouchyourmouth, #imissyoursmile"
+  - username: "skyegirlz"
     fullname: >-
-      Dr Gaurav Bharti
+      Samantha Skye
     location: "United States"
-    followers: 30075
-    engagement: 42
-    commentsToLikes: 0.063355
-    id: ck0u2695dyvri0i19ey2oqpyz
+    followers: 134121
+    engagement: 140
+    commentsToLikes: 0.042556
+    id: ck600qt99e3k10i14a1d26174
     verified: false
-    hashtags: "#liposuction, #stayhome, #shoplocal, #youragentinaesthetics"
-  - username: "teresamoon3"
+    hashtags: "#beachin, #sandycheeks, #sagaftramember, #visitfez"
+  - username: "natashaleeds"
     fullname: >-
-      Teresa Moon ☾
+      Natasha Lee-Duhaney
     location: "United States"
-    followers: 32359
-    engagement: 257
-    commentsToLikes: 0.061188
-    id: ck5c2qezqxrpl0i11q3zuhtur
+    followers: 63305
+    engagement: 250
+    commentsToLikes: 0.037617
+    id: ck0u2k8qb030w0i19cx633txc
     verified: false
-    hashtags: "#wearetravelgirls, #roamingwomen, #giveaway, #streetfashion"
-  - username: "_maramartin_"
-    fullname: >-
-      MARA MARTIN
-    location: "United States"
-    followers: 120602
-    engagement: 111
-    commentsToLikes: 0.035111
-    id: ck0vw6qrkscxm0i19dlkvo70c
-    verified: true
-    hashtags: "#dinner, #robelife, #feedthefrontline, #westpalmbeach"
-  - username: "greatdanesunleashed"
-    fullname: >-
-      YOUR Great Danes!
-    location: "United States"
-    followers: 75045
-    engagement: 217
-    commentsToLikes: 0.010744
-    id: ck13d568r3qr30i19nypq6onm
-    verified: false
-    hashtags: "#bestofgreatdanes, #instagood, #lovemycity, #quarterhorses"
-  - username: "sommer_areces"
-    fullname: >-
-      SOMMER
-    location: "United States"
-    followers: 6598
-    engagement: 786
-    commentsToLikes: 0.153393
-    id: ck0vx4dmqx33m0i19ogri3ozg
-    verified: false
-    hashtags: "#naturalskincare, #coffeemood, #carrerasunglasses, #happymonday"
+    hashtags: "#coffeefix, #girlstraveltale, #jetsetlifestyle, #coffeetime"
 ---

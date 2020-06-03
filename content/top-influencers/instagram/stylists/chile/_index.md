@@ -1,87 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Chile In 2020
 description: >-
-  Find top stylists Instagram influencers in Chile in 2020. Most popular hashtags: #quedateencasa #stayhome #fashion #chile.
+  Find top stylists Instagram influencers in Chile in 2020. Most popular hashtags: #hair #stylist #yomequedoencasa #fashion.
 platform: Instagram
 profiles:
+  - username: "marianabacarreza_mbomakeup"
+    fullname: >-
+      Makeup & Hair
+    location: "Chile"
+    followers: 18190
+    engagement: 374
+    commentsToLikes: 0.363725
+    id: ck6tzyzpacobz0j71v9jm7tiq
+    verified: false
+    hashtags: "#wedding, #weddingdress, #glowymakeup, #makeuptutorial"
   - username: "charliecuevas"
     fullname: >-
       Charlie Cuevas
     location: "Chile"
-    followers: 33181
-    engagement: 162
-    commentsToLikes: 0.076946
+    followers: 33304
+    engagement: 142
+    commentsToLikes: 0.074342
     id: ck55p6i549wzp0i11ciqpp4he
     verified: false
-    hashtags: "#performance, #hairdresser, #lamejorcompa, #virus"
+    hashtags: "#informados, #flight, #coronahair, #thursday"
   - username: "wainreddo.ph"
     fullname: >-
       Cute & Pastel Portraits 🌸
     location: "Chile"
-    followers: 15270
-    engagement: 723
-    commentsToLikes: 0.009005
+    followers: 19416
+    engagement: 691
+    commentsToLikes: 0.008437
     id: ck5ho8719p40c0i11gsscs040
     verified: false
-    hashtags: "#lipsphotography, #shower, #porcelainskin, #goldmakeup"
-  - username: "consultoradeimagen"
-    fullname: >-
-      IsisMiralles/ConsultoraImagen
-    location: "Chile"
-    followers: 41914
-    engagement: 144
-    commentsToLikes: 0.204980
-    id: ck6u5bqap8pid0j71653siqbh
-    verified: false
-    hashtags: "#summer, #styletips, #8m2020, #instagramvsreallife"
-  - username: "powertefi"
-    fullname: >-
-      Estefi
-    location: "Chile"
-    followers: 32840
-    engagement: 374
-    commentsToLikes: 0.066076
-    id: ck5c6q83o5yt30i11ep1s67rj
-    verified: false
-    hashtags: "#ricoysaludable, #comidafacil, #grungeaesthetic, #nauticalstyle"
+    hashtags: "#cowgirl, #chokernecklace, #pinkwig, #rezerocosplay"
   - username: "javicorreamedina"
     fullname: >-
       Javi Correa
     location: "Chile"
-    followers: 17985
-    engagement: 332
-    commentsToLikes: 0.067051
+    followers: 18588
+    engagement: 246
+    commentsToLikes: 0.087837
     id: ck6u9mkx1ye4q0j71efs2htzd
     verified: false
-    hashtags: "#hmxjohannaortiz, #dog, #asesoriadeimagen, #cuarentena"
-  - username: "rodlabstudio"
+    hashtags: "#pastry, #beauty, #beautyhacks, #mother"
+  - username: "consultoradeimagen"
     fullname: >-
-      ROD 🧬💜🧚🏻
+      IsisMiralles/ConsultoraImagen
     location: "Chile"
-    followers: 20760
-    engagement: 125
-    commentsToLikes: 0.037081
-    id: ck0vyw4ub62q30i19m4iblxj9
+    followers: 42850
+    engagement: 120
+    commentsToLikes: 0.253422
+    id: ck6u5bqap8pid0j71653siqbh
     verified: false
-    hashtags: "#stayhome, #shoplocal, #ss20, #cosmos"
+    hashtags: "#yomequedoencasa, #selfiemirror, #streetfashion, #polkadots"
   - username: "mariacarrasco"
     fullname: >-
       MARÍA IGNACIA CARRASCO
     location: "Chile"
-    followers: 40191
-    engagement: 104
-    commentsToLikes: 0.042997
+    followers: 40335
+    engagement: 136
+    commentsToLikes: 0.100519
     id: ck5bx7xogn6ic0i119vm0v6yd
     verified: false
-    hashtags: "#fitzroy, #yarravalley, #momlife, #globalvictoria"
+    hashtags: "#philipscontigo, #catadevinos, #holmies, #aussiefashion"
+  - username: "marco_escobar01"
+    fullname: >-
+      𝑴𝒂𝒓𝒄𝒐 𝑹𝒂𝒚⚡️🇨🇺
+    location: "Chile"
+    followers: 3636
+    engagement: 1183
+    commentsToLikes: 0.264890
+    id: ckaov2e7l2tni0i78czgyz0h1
+    verified: false
+    hashtags: "#bryantmyers, #model, #naranja, #flow"
+  - username: "rosabmakeup"
+    fullname: >-
+      Maquillaje y peinados Chile
+    location: "Chile"
+    followers: 23728
+    engagement: 272
+    commentsToLikes: 0.067894
+    id: ck5pvhpychxq80i11rey2iefj
+    verified: false
+    hashtags: "#clasesonline, #felizjueves, #tigi, #bluecutcrease"
+  - username: "parisoficial_"
+    fullname: >-
+      🌸 𝓟𝓪𝓻𝓲́𝓼 𝓞𝓯𝓲𝓬𝓲𝓪𝓵  🌸
+    location: "Chile"
+    followers: 98459
+    engagement: 59
+    commentsToLikes: 0.030601
+    id: ck14k7cbdo3og0i19ljbrscz3
+    verified: false
+    hashtags: "#naturalhairstylist, #chiletattoo, #cash, #crypto"
   - username: "camiverdugo"
     fullname: >-
       Camila Verdugo Sacco
     location: "Chile"
-    followers: 16388
-    engagement: 893
-    commentsToLikes: 0.016879
+    followers: 17743
+    engagement: 1066
+    commentsToLikes: 0.019361
     id: ck5q5jx7jt8nx0i11amep8d5v
     verified: false
-    hashtags: "#dollypartonchallenge, #pandoravalentines, #nyxcosmeticschile, #8m"
+    hashtags: "#pandoravalentines, #8m, #passthebrush, #dollypartonchallenge"
 ---

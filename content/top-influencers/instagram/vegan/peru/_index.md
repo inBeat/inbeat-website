@@ -1,16 +1,16 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Peru In 2020
 description: >-
-  Find top vegan Instagram influencers in Peru in 2020. Most popular hashtags: #peru #lima #vegan #yomequedoencasa.
+  Find top vegan Instagram influencers in Peru in 2020. Most popular hashtags: #yomequedoencasa #sinculpayconamor #vegan #vegano.
 platform: Instagram
 profiles:
   - username: "veggienazi"
     fullname: >-
       NAZARENA GARCÍA-RADA
     location: "Peru"
-    followers: 39106
-    engagement: 2107
-    commentsToLikes: 0.050599
+    followers: 40683
+    engagement: 2173
+    commentsToLikes: 0.042279
     id: ck6u7eyral4910j71g3r37h1k
     verified: false
     hashtags: "#blankitosoutofcontext"
@@ -18,52 +18,52 @@ profiles:
     fullname: >-
       Cecilia Katz
     location: "Peru"
-    followers: 23081
-    engagement: 266
-    commentsToLikes: 0.067108
+    followers: 25898
+    engagement: 327
+    commentsToLikes: 0.071735
     id: ck0twjqqqfoye0i197c58iytx
     verified: false
-    hashtags: "#semicutcrease, #belleza, #makeuplover, #cusco"
-  - username: "mercurymoretti"
-    fullname: >-
-      Mercury Moretti
-    location: "Peru"
-    followers: 8711
-    engagement: 2234
-    commentsToLikes: 0.019491
-    id: ck8t34fyr1th80j78rc229dzy
-    verified: false
-    hashtags: ""
-  - username: "pallardelly"
-    fullname: >-
-      Fernando Pallardelly
-    location: "Peru"
-    followers: 23831
-    engagement: 483
-    commentsToLikes: 0.014833
-    id: ck5zrcf59wbqk0i140z67ldju
-    verified: false
-    hashtags: "#veganos, #elpoderdelahora, #quedateencasa"
+    hashtags: "#parabenfree, #husbandandwife, #cocktailmakeup, #novias"
   - username: "aguscosta7"
     fullname: >-
       A G U S T I N  C O S T A
     location: "Peru"
-    followers: 21644
-    engagement: 1050
-    commentsToLikes: 0.034319
+    followers: 22120
+    engagement: 1044
+    commentsToLikes: 0.038400
     id: ck5zqhskqumjv0i14omd4rtxn
     verified: false
-    hashtags: "#latinos, #hiphop, #argentina, #coreografia"
+    hashtags: "#studio, #collabo, #dalex, #venezuela"
+  - username: "green.eats_"
+    fullname: >-
+      Luciana Jáuregui
+    location: "Peru"
+    followers: 2653
+    engagement: 1066
+    commentsToLikes: 0.191972
+    id: ckaorhgr3n8hc0i78f88e2yct
+    verified: false
+    hashtags: "#cocina, #cocinarencasa, #chocolate, #pancakes"
+  - username: "pallardelly"
+    fullname: >-
+      Fernando Pallardelly
+    location: "Peru"
+    followers: 25300
+    engagement: 351
+    commentsToLikes: 0.022462
+    id: ck5zrcf59wbqk0i140z67ldju
+    verified: false
+    hashtags: "#tuopinionesnecesaria, #graciasporleerme, #yomequedoencasa, #tiktok"
   - username: "vegancatblog"
     fullname: >-
-      Daniela Lizárraga
+      Daniela Lizárraga
     location: "Peru"
-    followers: 13685
-    engagement: 534
-    commentsToLikes: 0.035591
+    followers: 14252
+    engagement: 532
+    commentsToLikes: 0.032159
     id: ck5zxeru07vge0i1467lqepmh
     verified: false
-    hashtags: "#talleresveganos, #veganperu, #conciencia, #cusco"
+    hashtags: "#feriaecologicadebarranco, #medioambiente, #mequedoencasa, #marchaporeldiadelamujer"
   - username: "napoligelato"
     fullname: >-
       Napoli Gelato & Waffles
@@ -74,34 +74,34 @@ profiles:
     id: ck5c5y06s4cui0i11xqtep6oa
     verified: false
     hashtags: "#gelato, #napoli, #petfriendly, #limavegan"
-  - username: "brisabraunl"
+  - username: "elbebegourmet"
     fullname: >-
-      Brisa Braun Lara 🌞
+      El Bebe Gourmet
     location: "Peru"
-    followers: 5377
-    engagement: 1618
-    commentsToLikes: 0.051928
-    id: ck6ti4oe401570j71jif3dfqp
+    followers: 50129
+    engagement: 198
+    commentsToLikes: 0.151565
+    id: ck5btup60gn5q0i11ned3m4kh
     verified: false
-    hashtags: "#photography, #instagram, #keepgoing, #hambre"
-  - username: "veggienellaa"
+    hashtags: "#muffins, #cocinaencasa, #postresaludable, #veggierecipes"
+  - username: "nataduranv"
     fullname: >-
-      |🌻Antonella Massé🌻| 19🍃
+      Natalia Duran V
     location: "Peru"
-    followers: 7170
-    engagement: 949
-    commentsToLikes: 0.024109
-    id: ck5q3ih2vkw4r0i118c32t6ll
+    followers: 450194
+    engagement: 70
+    commentsToLikes: 0.030177
+    id: ck6u0s1s7hfab0j71z72znm8z
     verified: false
-    hashtags: "#l4l, #women, #veganism, #eyeshadow"
-  - username: "germanrozz"
+    hashtags: "#felidiachicxs, #sustentabilidad, #environment, #maestros"
+  - username: "reyesvilcarina"
     fullname: >-
-      GERMAN ROZ (Thenutrichef)
+      😍😘
     location: "Peru"
-    followers: 36682
-    engagement: 231
-    commentsToLikes: 0.046417
-    id: ck5hp9uwcqzwv0i11jlp6xy4w
+    followers: 2290
+    engagement: 2644
+    commentsToLikes: 0.044179
+    id: ck9wen7chl0ik0j78esa32a3y
     verified: false
-    hashtags: "#quarentinecooking, #vegan, #govegan, #chickpeas"
+    hashtags: "#diehesslischen, #limpiezafacial, #cumplea, #vidasaudavel"
 ---

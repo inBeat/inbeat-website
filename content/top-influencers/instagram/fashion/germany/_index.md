@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Germany In 2020
 description: >-
-  Find top fashion Instagram influencers in Germany in 2020. Most popular hashtags: #fashionblogger #fashion #blogger #ootd.
+  Find top fashion Instagram influencers in Germany in 2020. Most popular hashtags: #blondegirl #idealofsweden #safirashine #style.
 platform: Instagram
 profiles:
+  - username: "romanioz"
+    fullname: >-
+      Roman 🇦🇫
+    location: "Germany"
+    followers: 4222
+    engagement: 4173
+    commentsToLikes: 0.346196
+    id: ckaoskd0vruzd0i78ta4pjb3c
+    verified: false
+    hashtags: "#allblackoutfit, #simplefit"
+  - username: "rikesarah"
+    fullname: >-
+      Rike
+    location: "Germany"
+    followers: 2279
+    engagement: 3388
+    commentsToLikes: 0.124796
+    id: ckap3nbue3q850i78sz3a3j50
+    verified: false
+    hashtags: "#coatlover, #interiorinspo, #styleinspo, #mirrorselfie"
+  - username: "luisahdlr"
+    fullname: >-
+      LUISA 🕊
+    location: "Germany"
+    followers: 2675
+    engagement: 3269
+    commentsToLikes: 0.231216
+    id: ckaoy3ksbfwy40i78ucy5mmv0
+    verified: false
+    hashtags: "#shopmylook, #munichblogger, #blondhair, #styleblog"
+  - username: "victoria_e__"
+    fullname: >-
+      victoria_e__
+    location: "Germany"
+    followers: 7007
+    engagement: 2181
+    commentsToLikes: 0.096562
+    id: ckaotijmhw2ch0i78k4c5rhlo
+    verified: false
+    hashtags: "#check0765, #wirm, #mild, #kein"
+  - username: "jacki.byr"
+    fullname: >-
+      Jacki 🍍
+    location: "Germany"
+    followers: 5042
+    engagement: 2098
+    commentsToLikes: 0.126161
+    id: ck8t8vsl9m0yx0j7850rvescv
+    verified: false
+    hashtags: "#sundayvibes, #spring, #blackdress, #styleblogger"
   - username: "paulawelninski"
     fullname: >-
       𝒫𝒶𝓊𝓁𝒶 🕊
     location: "Germany"
-    followers: 4546
-    engagement: 2713
-    commentsToLikes: 0.118906
+    followers: 6922
+    engagement: 2082
+    commentsToLikes: 0.140945
     id: ck8t38l232bsc0j78lnikru8p
     verified: false
-    hashtags: "#gogirlslovefashion, #fashion, #hair, #selfie"
-  - username: "valerie_s_secret"
+    hashtags: "#photooftheday, #me, #blondehair, #hair"
+  - username: "pmaa_"
     fullname: >-
-      Fashion | Travel | Lifestyle 🌸
+      Pia
     location: "Germany"
-    followers: 7787
-    engagement: 1920
-    commentsToLikes: 0.125443
-    id: ck8t37kdj27710j78o6sv6tis
+    followers: 7115
+    engagement: 2018
+    commentsToLikes: 0.099574
+    id: ck6tuzcnfjak20j71xrdb80ef
     verified: false
-    hashtags: "#kirschbaum, #rosenbl, #colmar, #blossom"
-  - username: "nik.tiga"
+    hashtags: "#partneringwithdior, #revelista, #love, #whitesensation"
+  - username: "olivia.engl"
     fullname: >-
-      NIKOLAS SIEVE 🐾 HANNOVER
+      𝒻𝒶𝓈𝒽𝒾ℴ𝓃 ☁️ olivia
     location: "Germany"
-    followers: 14578
-    engagement: 1313
-    commentsToLikes: 0.133842
-    id: ck8syk65bl2b60j78mz60lq61
+    followers: 7006
+    engagement: 1992
+    commentsToLikes: 0.165369
+    id: ck8t1rgwqwqpz0j78f1y5w2qz
     verified: false
-    hashtags: "#travelinspiration, #realestate, #immo, #realestateagent"
-  - username: "sarahca__"
-    fullname: >-
-      𝗦𝗔𝗥𝗔𝗛 | 𝗙𝗔𝗦𝗛𝗜𝗢𝗡
-    location: "Germany"
-    followers: 26623
-    engagement: 1216
-    commentsToLikes: 0.113103
-    id: ck6tu81dnetwv0j71j10bmjr1
-    verified: false
-    hashtags: "#hijabsimple, #fashionstylist, #foodphotography, #hijab"
+    hashtags: ""
   - username: "bak_lifestyle"
     fullname: >-
       Yvonne
     location: "Germany"
-    followers: 10142
-    engagement: 1880
-    commentsToLikes: 0.191716
+    followers: 10088
+    engagement: 1894
+    commentsToLikes: 0.189752
     id: ck6tp2218hegf0j71wbb5mlvr
     verified: false
-    hashtags: "#happy, #trend, #casualstyle, #parisstreetstyle"
-  - username: "siniii___"
+    hashtags: "#outfit, #fashionbloggers, #gewinnspiel, #fashionstyle"
+  - username: "usamskeyy"
     fullname: >-
-      ❝ Sɪɴᴀ  .*･｡ﾟ❞
+      "USAMA RAFIQ" // FASHION
     location: "Germany"
-    followers: 18066
-    engagement: 880
-    commentsToLikes: 0.159712
-    id: ck15u4lthlehy0i19q3ldbqgn
+    followers: 5331
+    engagement: 1874
+    commentsToLikes: 0.154365
+    id: ck138kxgcgqj70i19oskftgev
     verified: false
-    hashtags: "#homedesign, #vansgirls, #gl, #interior"
-  - username: "katharina_eisenblut_"
-    fullname: >-
-      ⇢ Katharina Eisenblut  ⇠
-    location: "Germany"
-    followers: 81163
-    engagement: 654
-    commentsToLikes: 0.076127
-    id: ck15ru07r9p3j0i198sl1g2i2
-    verified: false
-    hashtags: "#gl, #cute, #allinblack, #selfie"
-  - username: "julia_elisa_"
-    fullname: >-
-      Julia Elisa
-    location: "Germany"
-    followers: 5365
-    engagement: 1450
-    commentsToLikes: 0.103117
-    id: ck0w3tqevv86a0i193j82bcy4
-    verified: false
-    hashtags: "#whatiamwearing, #leather, #happysundayeveryone, #hoodieseason"
-  - username: "ranaalnsour"
-    fullname: >-
-      رنا النسور .
-    location: "Germany"
-    followers: 22291
-    engagement: 1719
-    commentsToLikes: 0.135249
-    id: ck0uc5um3g5730i19k48bqr9h
-    verified: false
-    hashtags: "#sheinofficial, #stylist, #summer, #amman"
-  - username: "burakdinc__"
-    fullname: >-
-      BURAK DINC 🧿
-    location: "Germany"
-    followers: 11131
-    engagement: 1386
-    commentsToLikes: 0.106384
-    id: ck0u1nqppxf210i19mljrs9l4
-    verified: false
-    hashtags: "#schwanger, #stayhome, #hamburg, #frankfurt"
+    hashtags: ""
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Austin In 2020
 description: >-
-  Find top beauty Instagram influencers in Austin in 2020. Most popular hashtags: #beauty #fashion #atx #austin.
+  Find top beauty Instagram influencers in Austin in 2020. Most popular hashtags: #beauty #badtheologykills #austin #makeupideas.
 platform: Instagram
 profiles:
-  - username: "yourtrendytherapist"
+  - username: "thickordiiiie"
     fullname: >-
-      Mary
+      Thickordie
     location: "United States"
-    followers: 57385
-    engagement: 134
-    commentsToLikes: 0.082696
-    id: ck6tnjjdz9z120j71dwhdvc3c
+    followers: 83333
+    engagement: 103
+    commentsToLikes: 0.015155
+    id: ck5bwmkpvlzr40i11nkfj7ioo
     verified: false
-    hashtags: "#adventure, #fableticspartner, #coronavirus, #atx"
-  - username: "codykinsfather"
+    hashtags: "#greens, #nippleshowing, #candy, #jungkook"
+  - username: "sweetellen883"
     fullname: >-
-      Cody Kinsfather
+      Laura
     location: "United States"
-    followers: 28824
-    engagement: 477
-    commentsToLikes: 0.021856
-    id: ck5hcb4a1h4lb0i11di3h99k0
+    followers: 7731
+    engagement: 1458
+    commentsToLikes: 0.045858
+    id: ck6tuxfmoiz1m0j71t5fjjmuw
     verified: false
-    hashtags: "#dapper, #fashion, #blacksand, #cutefringe"
-  - username: "agathaa_anne"
-    fullname: >-
-      Agatha
-    location: "United States"
-    followers: 5316
-    engagement: 818
-    commentsToLikes: 0.037952
-    id: ck5zrifu2wn5y0i14ws3ep07p
-    verified: false
-    hashtags: "#happyfriday, #happytuesday, #bodygoals, #stunning"
-  - username: "nailed_by_becky"
-    fullname: >-
-      BECKY WITH THE GOOD NAILS
-    location: "United States"
-    followers: 31258
-    engagement: 178
-    commentsToLikes: 0.036749
-    id: ck6tk5n3o41r70j71oizdxx9j
-    verified: false
-    hashtags: "#coffinshapenails, #feminism, #business, #jokes"
-  - username: "lookits_marlee"
-    fullname: >-
-      Marlee (Model) ♒️
-    location: "United States"
-    followers: 2283
-    engagement: 1084
-    commentsToLikes: 0.064872
-    id: ck6u2x5x3ufb20j7112eg59tu
-    verified: false
-    hashtags: "#models, #boss, #sweatpants, #stylesbymichelle"
-  - username: "kerion_washington"
-    fullname: >-
-      Kerion Washington
-    location: "United States"
-    followers: 32224
-    engagement: 923
-    commentsToLikes: 0.015509
-    id: ck5zu56i81p9t0i14xcq53lx2
-    verified: false
-    hashtags: "#jonesmodelmanagement, #foreverinmyheart, #familycomesfirst, #hollywood"
+    hashtags: "#chicanotattoo, #gluteworkout, #plants, #outgrown"
   - username: "kapbeauty"
     fullname: >-
       KAPBEAUTY      ♥ KARLA♥
     location: "United States"
-    followers: 104345
-    engagement: 641
-    commentsToLikes: 0.176208
+    followers: 113302
+    engagement: 1093
+    commentsToLikes: 0.215148
     id: ck13cay98zgj90i19rsxh7u1m
     verified: false
-    hashtags: "#kbeautyaddict, #hairtutorial, #newmakeup, #kkwbeauty"
-  - username: "mckennamalonemolt"
+    hashtags: "#morphebabe, #fentycheeksout, #colourpop, #beauteque"
+  - username: "revaverma"
     fullname: >-
-      MCKENNA MOLT ♡
+      Reva Verma | #T1D Advocate
     location: "United States"
-    followers: 6599
-    engagement: 857
-    commentsToLikes: 0.045508
-    id: ck13bo8drwd2i0i198t165fob
+    followers: 24609
+    engagement: 120
+    commentsToLikes: 0.037346
+    id: ck14gr8ds6mar0i19abqer8r8
     verified: false
-    hashtags: "#lollipopbabymonitor, #lollipopbabycamera, #liketkit, #ltkunder50"
-  - username: "synergyplasticsurgery"
+    hashtags: "#sistersquad, #pippa, #reserved, #pink"
+  - username: "kazukamax"
     fullname: >-
-      Synergy Plastic Surgery
+      Max Magana
     location: "United States"
-    followers: 41534
-    engagement: 203
-    commentsToLikes: 0.034384
-    id: ck13cm1an108v0i19q4uosj16
+    followers: 2507
+    engagement: 1107
+    commentsToLikes: 0.109849
+    id: ck6tzsk9iblw40j71fsnboa4o
     verified: false
-    hashtags: "#certificationmatters, #synergyplasticsurgery, #coolsculpting, #mommymakeover"
+    hashtags: "#army, #merrychristmas, #soninlaw, #statechamp"
+  - username: "derm.talk"
+    fullname: >-
+      Dr. Jenny Liu
+    location: "United States"
+    followers: 49863
+    engagement: 196
+    commentsToLikes: 0.075146
+    id: ck6trr3y90llc0j71sqc88ynx
+    verified: false
+    hashtags: "#roadtomd, #myformerbump, #covidskincare, #vichypartner"
   - username: "witty_rentals"
     fullname: >-
       witty rentals
     location: "United States"
-    followers: 15673
+    followers: 15707
     engagement: 121
-    commentsToLikes: 0.018642
+    commentsToLikes: 0.023599
     id: ck5cajxq9djwk0i11adw1zxpz
     verified: false
-    hashtags: "#sandiegoevents, #wedding, #socalwedding, #sweethearttable"
+    hashtags: "#friendsgiving, #lovewins, #pastelwedding, #holiday"
+  - username: "dianavonross"
+    fullname: >-
+      Diana
+    location: "United States"
+    followers: 19998
+    engagement: 336
+    commentsToLikes: 0.265224
+    id: ckaosy7wktjr20i78emn6m41t
+    verified: false
+    hashtags: "#fableticspartner, #myfabletics, #ltksalealert, #breckenridge"
+  - username: "shotsbystoney"
+    fullname: >-
+      Shots by Stoney
+    location: "United States"
+    followers: 2459
+    engagement: 1177
+    commentsToLikes: 0.094256
+    id: ck14j9ipfj8il0i192q4opkfr
+    verified: false
+    hashtags: "#pinkphoto, #makeupideas, #freshlook, #naturalhair"
+  - username: "thekevingarcia"
+    fullname: >-
+      Kevin Miguel Garcia
+    location: "United States"
+    followers: 8048
+    engagement: 387
+    commentsToLikes: 0.044094
+    id: ck14imsdcg6340i19hzzipnou
+    verified: false
+    hashtags: "#mua, #coronacation, #austintx, #columbus"
 ---

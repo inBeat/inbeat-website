@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In India In 2020
 description: >-
-  Find top vegan Instagram influencers in India in 2020. Most popular hashtags: #vegan #vegansofig #love #coronavirus.
+  Find top vegan Instagram influencers in India in 2020. Most popular hashtags: #staysafe #dessert #throwback #quarantine.
 platform: Instagram
 profiles:
-  - username: "bijendra_s"
-    fullname: >-
-      Bijendra Singh🇮🇳
-    location: "India"
-    followers: 24087
-    engagement: 2629
-    commentsToLikes: 0.031417
-    id: ck0w14l5ehj7n0i19rxwp6h2q
-    verified: false
-    hashtags: "#beastmode, #npc, #dedication, #mensphysique"
-  - username: "naki.earth"
-    fullname: >-
-      Annachiara 🌿
-    location: "India"
-    followers: 22424
-    engagement: 986
-    commentsToLikes: 0.025514
-    id: ck5pxylmmthrg0i11scerm36n
-    verified: false
-    hashtags: "#loveallbeings, #rainbowlove, #femminista, #thankyou"
   - username: "itisinthename"
     fullname: >-
       Prakriti Varshney 🇮🇳
     location: "India"
-    followers: 51965
-    engagement: 404
-    commentsToLikes: 0.026874
+    followers: 52745
+    engagement: 464
+    commentsToLikes: 0.052368
     id: ck601qf2ifz7w0i14tamj5fe3
     verified: false
-    hashtags: "#himalayas, #madhyapradesh, #ootd, #eachforequal"
+    hashtags: "#bumpyride, #mountaindrive, #mountaindogs, #covid"
+  - username: "bijendra_s"
+    fullname: >-
+      Bijendra Singh🇮🇳
+    location: "India"
+    followers: 23762
+    engagement: 2705
+    commentsToLikes: 0.031006
+    id: ck0w14l5ehj7n0i19rxwp6h2q
+    verified: false
+    hashtags: "#respect, #pulwama, #weareone, #india"
   - username: "kuntalj"
     fullname: >-
       Kuntal A. Joisher
     location: "India"
-    followers: 12067
-    engagement: 614
-    commentsToLikes: 0.058464
+    followers: 12303
+    engagement: 539
+    commentsToLikes: 0.078815
     id: ck0vv0jv8mzfd0i19dqiakf3u
     verified: false
-    hashtags: "#everest, #optoutside, #vegansofig, #plantpower"
-  - username: "yoga__woman"
+    hashtags: "#veganrunner, #veganclimbing, #veganmuscle, #veganchallenge"
+  - username: "vineethvincentofficial"
     fullname: >-
-      Clases De yoga Gratis Aqui🤚🏻
+      Vineeth Vincent
     location: "India"
-    followers: 400322
-    engagement: 729
-    commentsToLikes: 0.265229
-    id: ck13a9i8opagg0i194vb4q6wh
+    followers: 13613
+    engagement: 790
+    commentsToLikes: 0.022176
+    id: ck0twjmuqfogw0i19qp01mclv
+    verified: true
+    hashtags: "#urbantalkies, #onatankoffuel, #environment, #noiamnot"
+  - username: "bluemerwitch"
+    fullname: >-
+      giorgia caleca
+    location: "India"
+    followers: 6883
+    engagement: 666
+    commentsToLikes: 0.096214
+    id: ck5hfztn105s70i119aqtj42x
     verified: false
-    hashtags: "#chile, #stayathome, #stayhome, #instagood"
+    hashtags: "#isoleelie, #armbalance, #vinyasa, #parcodeimulini"
+  - username: "shobhitaranaofficial"
+    fullname: >-
+      Shobhita Rana
+    location: "India"
+    followers: 841744
+    engagement: 249
+    commentsToLikes: 0.027923
+    id: ck0ub22ivdkfi0i19tzgr0y50
+    verified: true
+    hashtags: "#newpage, #fitfam, #tiktok, #makeuptutorial"
+  - username: "addyrajofficial"
+    fullname: >-
+      🅰🅳🅳🆈 🆁🅰🅹
+    location: "India"
+    followers: 349005
+    engagement: 170
+    commentsToLikes: 0.030612
+    id: ckap8de6znu4e0i78rpcsp2iw
+    verified: true
+    hashtags: "#spotifypremium, #lovemusic, #goodvibes, #positivevibes"
+  - username: "foodbhukkadz"
+    fullname: >-
+      ғood внυĸĸadz
+    location: "India"
+    followers: 2050
+    engagement: 2576
+    commentsToLikes: 0.351720
+    id: ckaoweeqb8knt0i78h14t54hm
+    verified: false
+    hashtags: "#refreshing, #golgappe, #parlegbiscuits, #pineapple"
   - username: "keanlewis"
     fullname: >-
       Kean Lewis
     location: "India"
-    followers: 10867
-    engagement: 781
-    commentsToLikes: 0.009538
+    followers: 10654
+    engagement: 805
+    commentsToLikes: 0.009416
     id: ck0ubx8lnfgrn0i19b0s2855p
     verified: true
-    hashtags: "#stayindoors, #preseason, #measure, #girlshostel"
-  - username: "ebgiii"
+    hashtags: "#azamagazine, #workout, #kindness, #stayhome"
+  - username: "supaintsonplates"
     fullname: >-
-      Edward B. Gieda III
+      SU PAINTS ON PLATES
     location: "India"
-    followers: 3774
-    engagement: 1554
-    commentsToLikes: 0.058604
-    id: ck5zqwb9kvf5n0i14boitpp94
+    followers: 48650
+    engagement: 557
+    commentsToLikes: 0.076169
+    id: ck6ucfx5xfd890j71mgyexf35
     verified: false
-    hashtags: "#hanuman, #deathanddying, #diadora, #ganges"
-  - username: "daisymayqueen"
-    fullname: >-
-      Vegana viviendo en Rishikesh.
-    location: "India"
-    followers: 27007
-    engagement: 485
-    commentsToLikes: 0.115651
-    id: ck6tv7dfdkl8v0j71nbc1p7in
-    verified: false
-    hashtags: "#stories, #yoga, #delhi, #vegan"
-  - username: "nikitabhamidipati"
-    fullname: >-
-      N I K K I✨
-    location: "India"
-    followers: 88046
-    engagement: 1475
-    commentsToLikes: 0.007261
-    id: ck15qqpk046we0i193kwdpjza
-    verified: false
-    hashtags: "#repost, #26, #plugintonirvana, #lakmefashionweek"
-  - username: "meggirll"
-    fullname: >-
-      Megan Lourdes
-    location: "India"
-    followers: 236973
-    engagement: 71
-    commentsToLikes: 0.008199
-    id: ck0vycv1f3coj0i199k3jc12m
-    verified: true
-    hashtags: ""
+    hashtags: "#wholefoods, #raita, #sheerkhurma, #rosepetals"
 ---

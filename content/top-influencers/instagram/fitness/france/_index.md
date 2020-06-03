@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In France In 2020
 description: >-
-  Find top fitness Instagram influencers in France in 2020. Most popular hashtags: #fitness #gym #fitfrenchies #fitnessmotivation.
+  Find top fitness Instagram influencers in France in 2020. Most popular hashtags: #confinement #paris #redlips #hope.
 platform: Instagram
 profiles:
+  - username: "claire.frnz"
+    fullname: >-
+      Claire.F
+    location: "France"
+    followers: 5554
+    engagement: 1823
+    commentsToLikes: 0.086228
+    id: ckap7dqgkjmk70i786v5wa5vv
+    verified: false
+    hashtags: "#goldenhour, #lifestyle, #dress, #amor"
+  - username: "adele_tsy"
+    fullname: >-
+      Adele 🌴
+    location: "France"
+    followers: 55249
+    engagement: 1054
+    commentsToLikes: 0.051717
+    id: ck13604yb43nf0i19jlcwxc3o
+    verified: false
+    hashtags: "#maisjailaflemme, #iphone11pro, #zara, #gauffre"
   - username: "alexandra_maia19"
     fullname: >-
       Alexandra Maia 🇫🇷
     location: "France"
-    followers: 9793
-    engagement: 1507
-    commentsToLikes: 0.061730
+    followers: 10087
+    engagement: 1542
+    commentsToLikes: 0.078874
     id: ck8t3yj7z4yew0j78vxrsns3q
     verified: false
-    hashtags: "#train, #dansmabulle, #boxe, #puissance"
-  - username: "be.celine"
+    hashtags: "#ungrandkiff, #back, #bodybuilder, #lovefamily"
+  - username: "adel_official_artist"
     fullname: >-
-      🐍Céline
+      ADEL  🐺🦁
     location: "France"
-    followers: 4344
-    engagement: 2197
-    commentsToLikes: 0.233062
-    id: ck5bvcmakjdzc0i11xpw4q5t4
+    followers: 9323
+    engagement: 2034
+    commentsToLikes: 0.067161
+    id: ckap2salo03mx0i786ateafpl
     verified: false
-    hashtags: "#abdos, #shootingsports, #wheyprotein, #metz"
-  - username: "marie.cardona_"
+    hashtags: "#artphotography, #likeforlike, #beauty, #france"
+  - username: "cedricmeyr"
     fullname: >-
-      PROZIS -> CARDONA
+      Cédric Meyer | Fitboy Eurasien
     location: "France"
-    followers: 11125
-    engagement: 1626
-    commentsToLikes: 0.055329
-    id: ck8t4zb128brj0j78uc5eqnji
+    followers: 10280
+    engagement: 1757
+    commentsToLikes: 0.069144
+    id: ck9wg4wecrwol0j78vjoc3p0k
     verified: false
-    hashtags: "#shape, #picoftheweek, #determination, #bodypositive"
-  - username: "madbblondie"
+    hashtags: "#eurasianboys, #bapeshark, #citationamitie, #entreprendre"
+  - username: "marcmcgovernm"
     fullname: >-
-      _ MADI 💎💋
+      
     location: "France"
-    followers: 3618
-    engagement: 1990
-    commentsToLikes: 0.134243
-    id: ck6ufvxblzfzm0j719w5ozfdr
+    followers: 6341
+    engagement: 1330
+    commentsToLikes: 0.108324
+    id: ck8t1slznwv0r0j780vhzkhv9
     verified: false
-    hashtags: "#girl, #moselle, #dabo, #mydog"
+    hashtags: "#summer, #buddhabarmonaco, #sass, #me"
+  - username: "axelpallas"
+    fullname: >-
+      Axel Pallas
+    location: "France"
+    followers: 7160
+    engagement: 1243
+    commentsToLikes: 0.081971
+    id: ck15txzqdkgdc0i199fk2yrkk
+    verified: false
+    hashtags: "#fitnessmodel, #frenchblogger, #model, #styleinfluencer"
+  - username: "antonella_seco"
+    fullname: >-
+      
+    location: "France"
+    followers: 2193
+    engagement: 4510
+    commentsToLikes: 0.094881
+    id: ckap5yvx0dqwl0i781tt8ey21
+    verified: false
+    hashtags: "#sundayvibes, #portraitgirl, #moodlighting, #sundaymoods"
   - username: "mvdemoiselle.jenny"
     fullname: >-
       Jenny🌹
     location: "France"
-    followers: 5156
-    engagement: 1315
-    commentsToLikes: 0.185683
+    followers: 4974
+    engagement: 1560
+    commentsToLikes: 0.193722
     id: ck8tch7hbzgsm0j78mgkak8mk
     verified: false
-    hashtags: "#cozymorning, #fashionstyle, #outfitinspo, #mywhowhatwear"
-  - username: "erwix_jvn"
+    hashtags: "#beautifulhair, #throwback, #makeup, #summer"
+  - username: "val_fitmood"
     fullname: >-
-      Erwan
+      Valérie
     location: "France"
-    followers: 12994
-    engagement: 927
-    commentsToLikes: 0.081658
-    id: ck6ttwnk1czxc0j71jmlfvqvo
-    verified: false
-    hashtags: "#teamtempka, #snow, #valentineday, #parisian"
-  - username: "stylish_star_ayush"
-    fullname: >-
-      Ayush Mehta
-    location: "France"
-    followers: 6752
-    engagement: 993
-    commentsToLikes: 0.147316
-    id: ck8ta0kz3q0le0j787iarxh9q
-    verified: false
-    hashtags: "#gym, #gymmotivation, #colur, #kamkaronamkaro"
-  - username: "val_1152"
-    fullname: >-
-      Valérie _ Fitness & Féminité
-    location: "France"
-    followers: 7465
-    engagement: 984
-    commentsToLikes: 0.124611
+    followers: 11225
+    engagement: 1042
+    commentsToLikes: 0.098430
     id: ck8t60cnbbt3t0j78ng1qwgmk
     verified: false
-    hashtags: "#teamsosobodyshape, #music, #fitmum, #after40"
-  - username: "inessiadream"
-    fullname: >-
-      𝙄𝙉𝙀𝙎𝙎𝙄𝘼 🇫🇷 🎤🎶
-    location: "France"
-    followers: 13597
-    engagement: 897
-    commentsToLikes: 0.540019
-    id: ck6u56g6m7v8e0j718uyyvz0f
-    verified: false
-    hashtags: "#picoftheday, #urbanclothing, #frenchfrieslover, #pinkobag"
-  - username: "ilsekwant_"
-    fullname: >-
-      Ilse Kwant
-    location: "France"
-    followers: 34017
-    engagement: 975
-    commentsToLikes: 0.054620
-    id: ck5q7r7d82rg30i11evwupgte
-    verified: false
-    hashtags: "#bathroom, #icaniwill, #blondhair, #sunday"
+    hashtags: ""
 ---

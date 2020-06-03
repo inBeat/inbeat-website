@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In South Korea In 2020
 description: >-
-  Find top yoga Instagram influencers in South Korea in 2020. Most popular hashtags: #yoga #fitnessmotivation #workout #kbeauty.
+  Find top yoga Instagram influencers in South Korea in 2020. Most popular hashtags: #yoga #korea #yogapractice #workout.
 platform: Instagram
 profiles:
-  - username: "yongsubi"
+  - username: "haadiya90"
     fullname: >-
-      YONG SUB
+      #요가강사 하디야
     location: "South Korea"
-    followers: 6394
-    engagement: 644
-    commentsToLikes: 0.036316
-    id: ck138kqmjgpml0i198qne6q8x
+    followers: 5522
+    engagement: 1938
+    commentsToLikes: 0.041751
+    id: ckaowdxc88id90i78qif9ud3i
     verified: false
-    hashtags: "#backpack, #street, #yogaasana, #aerialyoga"
+    hashtags: "#yogainstructor, #natarajasana, #gopromax, #earlypick"
   - username: "2so_k"
     fullname: >-
       소리쌤ღ
     location: "South Korea"
-    followers: 129973
-    engagement: 142
-    commentsToLikes: 0.017287
+    followers: 128618
+    engagement: 144
+    commentsToLikes: 0.017387
     id: ck0u674vt12it0i19umkvwg62
     verified: false
-    hashtags: "#uglyshoes, #stopthenoise, #perrierjouet, #ad"
+    hashtags: "#huit, #dorosibeach, #huit8"
   - username: "yuju_connect"
     fullname: >-
       YOGA Instructor Lee Yuju
     location: "South Korea"
-    followers: 53343
-    engagement: 148
-    commentsToLikes: 0.018687
+    followers: 52981
+    engagement: 168
+    commentsToLikes: 0.015896
     id: ck5zjwcnridmf0i14b6ojtkki
     verified: false
-    hashtags: "#asana, #ecolife, #body, #record"
-  - username: "lemon.vibe"
+    hashtags: "#meditation, #10, #dano, #wearittoheart"
+  - username: "yaroslava_doroganova"
     fullname: >-
-      Lemon🍋
+      yaroslava💜doroganova
     location: "South Korea"
-    followers: 7961
-    engagement: 713
-    commentsToLikes: 0.063033
-    id: ck6uidsf6ehy10j71jxshguv9
+    followers: 5092
+    engagement: 567
+    commentsToLikes: 0.040487
+    id: ckaoyxbspjfvx0i78sb4y1t5d
     verified: false
-    hashtags: "#pocariseat, #whereareyougoing, #gotothemoon, #picnic"
-  - username: "jiyoungdorner"
-    fullname: >-
-      지영 Ji-Young Oh
-    location: "South Korea"
-    followers: 52435
-    engagement: 222
-    commentsToLikes: 0.025285
-    id: ck14l364qsm560i19key5rdi5
-    verified: false
-    hashtags: "#internationalwomensday, #incrediblewomen, #granola, #anthropologie"
-  - username: "ekaterinasuzdaleva"
-    fullname: >-
-      Ekaterina Suzdaleva
-    location: "South Korea"
-    followers: 2834
-    engagement: 1830
-    commentsToLikes: 0.048151
-    id: ck1367hcx547n0i19b0qjgncd
-    verified: false
-    hashtags: "#cats, #light, #city, #harvest"
+    hashtags: "#koreanstyle, #puntahouse, #quarantinemood, #seoul"
   - username: "kathy0805"
     fullname: >-
       
     location: "South Korea"
-    followers: 238416
-    engagement: 107
-    commentsToLikes: 0.022393
+    followers: 245680
+    engagement: 121
+    commentsToLikes: 0.022016
     id: ck134i171wiu70i195xjz63fw
     verified: false
-    hashtags: "#fightingkorea, #175, #reuse, #campaign"
-  - username: "fit_hyunjin"
+    hashtags: "#175, #reuse, #tofu, #bohemianislandspring2020"
+  - username: "lemon.vibe"
     fullname: >-
-      🇰🇷Park Hyun Jin
+      Lemon vibes only
     location: "South Korea"
-    followers: 9730
-    engagement: 481
-    commentsToLikes: 0.023240
-    id: ck8t1chjsv8m60j78k79wjssg
+    followers: 8318
+    engagement: 649
+    commentsToLikes: 0.058118
+    id: ck6uidsf6ehy10j71jxshguv9
     verified: false
-    hashtags: "#fitgirl, #workmotivation, #curl, #tricepworkout"
+    hashtags: "#toktok, #pancho, #k2, #ad"
+  - username: "ekaterinasuzdaleva"
+    fullname: >-
+      Ekaterina Suzdaleva
+    location: "South Korea"
+    followers: 2744
+    engagement: 1906
+    commentsToLikes: 0.047721
+    id: ck1367hcx547n0i19b0qjgncd
+    verified: false
+    hashtags: "#animals, #fruit, #strelitzia, #strelizia"
   - username: "kyurin.gram"
     fullname: >-
-      규린 다이어리 (kyurin diary)*･☪︎·̩͙
+      kyurin diary *･☪︎·̩͙
     location: "South Korea"
-    followers: 23783
-    engagement: 501
-    commentsToLikes: 0.061518
+    followers: 24589
+    engagement: 464
+    commentsToLikes: 0.098180
     id: ck8wgnmb4hpji0j78qphedsf8
     verified: false
-    hashtags: "#languages, #korea, #bokunohero, #indian"
-  - username: "haeri_yoga"
+    hashtags: "#mangacosplay, #animefan, #korea, #workoutfit"
+  - username: "d2nasoaring"
     fullname: >-
-      요가강사 해리
+      Dina 디나 Mujanović
     location: "South Korea"
-    followers: 19727
-    engagement: 235
-    commentsToLikes: 0.070783
-    id: ck13ayuq4sutg0i19c2nlq04u
+    followers: 8059
+    engagement: 1278
+    commentsToLikes: 0.059152
+    id: ck6tvpzpwnm7r0j718srk9qrl
     verified: false
-    hashtags: "#tv, #huit, #grandeline, #injiactive"
+    hashtags: "#artbackground, #beachyoga, #fairylights, #honey"
+  - username: "bibisister_j"
+    fullname: >-
+      전지영 쇼호스트  | 비비언니
+    location: "South Korea"
+    followers: 74011
+    engagement: 53
+    commentsToLikes: 0.108190
+    id: ck6towsgggjn20j71bgihivbc
+    verified: false
+    hashtags: "#yoga, #model, #poledancing, #beauty"
 ---

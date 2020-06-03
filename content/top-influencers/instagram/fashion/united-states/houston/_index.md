@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Houston In 2020
 description: >-
-  Find top fashion Instagram influencers in Houston in 2020. Most popular hashtags: #houston #ltksalealert #liketkit #houstonmodel.
+  Find top fashion Instagram influencers in Houston in 2020. Most popular hashtags: #fashion #fashionista #houstonblogger #styleinspo.
 platform: Instagram
 profiles:
-  - username: "kellsskellyy"
+  - username: "alexisknops"
     fullname: >-
-      Kels 🖤
+      Alexis | Lifestyle Blogger
     location: "United States"
-    followers: 9618
-    engagement: 1894
-    commentsToLikes: 0.057007
-    id: ck5ho4wcdoxuk0i11zulo26tn
+    followers: 10089
+    engagement: 581
+    commentsToLikes: 0.169952
+    id: ckap16rp9tai20i7883flq5p7
     verified: false
-    hashtags: ""
+    hashtags: "#fashiondiaries, #nordstromhaul, #youtuber, #fashionweek"
   - username: "lux_mommy"
     fullname: >-
       LuxMommy | Blogger +YouTuber
     location: "United States"
-    followers: 110068
-    engagement: 163
-    commentsToLikes: 0.061857
+    followers: 111529
+    engagement: 202
+    commentsToLikes: 0.066864
     id: ck13cevmdzzqk0i19aqj20cfh
     verified: false
-    hashtags: "#bowflex, #athomeworkout, #ltkkids, #adoptionstory"
+    hashtags: "#outfits, #closetbasics, #closetessentials, #summeressentials"
+  - username: "kellsskellyy"
+    fullname: >-
+      Kels
+    location: "United States"
+    followers: 9760
+    engagement: 1971
+    commentsToLikes: 0.059919
+    id: ck5ho4wcdoxuk0i11zulo26tn
+    verified: false
+    hashtags: ""
   - username: "adoseofsherri"
     fullname: >-
       Sherri Quach Garza
     location: "United States"
-    followers: 31667
-    engagement: 289
-    commentsToLikes: 0.017651
+    followers: 30736
+    engagement: 244
+    commentsToLikes: 0.029400
     id: ck8t0qn1wsxkr0j78i9l12bad
     verified: false
-    hashtags: "#quarantinelife, #houstonblogger, #stylevanaus, #sheingals"
-  - username: "sltphoto"
+    hashtags: "#fashionista, #altardstate, #bigmood, #styleinspo"
+  - username: "_lindafuentes"
     fullname: >-
-      Sam Terry
+      Linda Fuentes
     location: "United States"
-    followers: 15568
-    engagement: 697
-    commentsToLikes: 0.039011
-    id: ck55p958wa2lw0i1153tpxady
+    followers: 2683
+    engagement: 2620
+    commentsToLikes: 0.073112
+    id: ck6uijiz0ff8g0j71xnf9wmse
     verified: false
-    hashtags: "#nikon, #oklahomamodels, #prettylittlething, #godoxad600"
-  - username: "anghelov"
+    hashtags: "#polaroidcamera, #hautecouture, #dollgoals, #merrychristmas"
+  - username: "emilypokora"
     fullname: >-
-      ANGHELOV
+      Emily Pokora
     location: "United States"
-    followers: 40022
-    engagement: 467
-    commentsToLikes: 0.067734
-    id: ck5hdsmhwp5zm0i11e0w3p7h7
+    followers: 26808
+    engagement: 83
+    commentsToLikes: 0.050651
+    id: ck14kmth5qamp0i19qhig1jk2
     verified: false
-    hashtags: "#instagramskilla, #majestic, #creativeportraits, #portraitphoto"
-  - username: "martigrizzle"
+    hashtags: "#virtualshow, #fitnessfashion, #beachvibes, #motivation"
+  - username: "anna.sauce"
     fullname: >-
-      Marti Grizzle
+      🌸 Anna Nguyen 🌸
     location: "United States"
-    followers: 4166
-    engagement: 1050
-    commentsToLikes: 0.340209
-    id: ck6tseyvb4dyf0j71lj1jc7yh
+    followers: 9949
+    engagement: 1454
+    commentsToLikes: 0.025098
+    id: ck14h4yi28jx30i19oye3rns2
     verified: false
-    hashtags: "#vicicollab, #ltkfashion, #ltksalealert, #ad"
-  - username: "elvieinthecity"
+    hashtags: "#missmyfriends, #instahair, #iphonecamera, #blackbikini"
+  - username: "enriquecarrillo_"
     fullname: >-
-      Elvie Richard•Style & Travel
+      Enrique  Carrillo
     location: "United States"
-    followers: 28150
-    engagement: 127
-    commentsToLikes: 0.313259
-    id: ck6u3x2ya0dvw0j71flpcz5c1
+    followers: 125395
+    engagement: 185
+    commentsToLikes: 0.024331
+    id: ck9hc2hkmjgnr0j78s7k2uprn
     verified: false
-    hashtags: "#momsofinstagram, #macbookcga, #runningshoes, #aexme"
-  - username: "natisacoolkid"
+    hashtags: "#mcm, #freshfriday, #welcometotheclub, #houstonskyline"
+  - username: "joyce.delmar"
     fullname: >-
-      Natalie Varnum
+      Joyce Escalante
     location: "United States"
-    followers: 19143
-    engagement: 385
-    commentsToLikes: 0.030065
-    id: ck14j0r0ki1rp0i19uiho147w
+    followers: 3228
+    engagement: 2029
+    commentsToLikes: 0.043356
+    id: ck1368swd5b5e0i19q52rzm2k
     verified: false
-    hashtags: "#ootd, #thrifted, #amitavasarkar, #balletbeautiful"
-  - username: "shadessofblu"
+    hashtags: "#army, #houstonfashion, #fashion, #fashionable"
+  - username: "trytobelove_"
     fullname: >-
-      Glamorous Hippie Blu 🦋
+      Gabie | Self Love Blogger
     location: "United States"
-    followers: 17449
-    engagement: 362
-    commentsToLikes: 0.023961
-    id: ck6u2x4vxuf440j71s0zc5fmq
+    followers: 34306
+    engagement: 90
+    commentsToLikes: 0.060851
+    id: ckaou7e2uz4ql0i78geqdwo6x
     verified: false
-    hashtags: "#hardlyhome, #htown, #women, #houstoncontractor"
-  - username: "bwal8705"
-    fullname: >-
-      Bryan Walwyn
-    location: "United States"
-    followers: 2074
-    engagement: 1620
-    commentsToLikes: 0.031833
-    id: ck6udm47ilvdh0j71luvtb9gj
-    verified: false
-    hashtags: "#love, #weddingwire, #groom, #globalcitizen"
+    hashtags: "#quarantinelife, #facialaesthetics, #choonwear, #upliftingmusic"
 ---

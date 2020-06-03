@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Norway In 2020
 description: >-
-  Find top yoga Instagram influencers in Norway in 2020. Most popular hashtags: #yoga #yogainspiration #handstand #love.
+  Find top yoga Instagram influencers in Norway in 2020. Most popular hashtags: #yoga #yogaposes #yogapose #oceanview.
 platform: Instagram
 profiles:
-  - username: "siljeokland"
-    fullname: >-
-      SILJE ØKLAND
-    location: "Norway"
-    followers: 22802
-    engagement: 396
-    commentsToLikes: 0.020305
-    id: ck0u1nrltxf5s0i19ux1t7m86
-    verified: false
-    hashtags: "#yogr, #synnovefersk, #nakd, #tanumbokhandel"
-  - username: "livingprettynaturally"
-    fullname: >-
-      Kate Murphy
-    location: "Norway"
-    followers: 41737
-    engagement: 126
-    commentsToLikes: 0.215970
-    id: ck5hg2pal0m6y0i11jalxeixe
-    verified: false
-    hashtags: "#vibrationalhealing, #fullmoonincancer, #astro, #fearlessheart"
   - username: "yoga_kaja"
     fullname: >-
       ☾ YOGA KAJA ☼
     location: "Norway"
-    followers: 24151
-    engagement: 623
-    commentsToLikes: 0.056472
+    followers: 32719
+    engagement: 866
+    commentsToLikes: 0.058688
     id: ck15uxx31p0xe0i196cdo7pn6
     verified: false
-    hashtags: "#internationalwomensday"
+    hashtags: ""
   - username: "langakerbjj"
     fullname: >-
       Tommy Lilleskog Langaker
     location: "Norway"
-    followers: 28918
-    engagement: 844
-    commentsToLikes: 0.017998
+    followers: 29182
+    engagement: 853
+    commentsToLikes: 0.018535
     id: ck5bvm9cijxx70i11rl36pmh9
     verified: false
-    hashtags: "#mindsett, #weakgenetics, #bjj, #kimura"
+    hashtags: "#vestkyst, #footlocksdontwork, #bull, #coffee"
   - username: "francesca.golfetto"
     fullname: >-
       Francesca Golfetto
     location: "Norway"
-    followers: 13496
-    engagement: 460
-    commentsToLikes: 0.068752
+    followers: 15246
+    engagement: 390
+    commentsToLikes: 0.055242
     id: ck5q5p6gmtwn10i11p93ag10i
     verified: false
-    hashtags: "#splithandstand, #yogatutorial, #pink, #yogaeverydamnday"
-  - username: "aktivmamma"
+    hashtags: "#knottedup, #dropbacks, #osloyoga, #mood"
+  - username: "jeanettechristiansen"
     fullname: >-
-      Cathrine 🇳🇴
+      JEANETTES FAMILIELIV
     location: "Norway"
-    followers: 23127
-    engagement: 452
-    commentsToLikes: 0.079060
-    id: ck5q44os5nqso0i11w2n0z62s
+    followers: 4480
+    engagement: 2038
+    commentsToLikes: 0.470075
+    id: ck8t5epin9wcn0j783o6vvb3v
     verified: false
-    hashtags: "#runningmotivation, #waterfall, #crossfitgirls, #yeswecan"
+    hashtags: "#yogatights, #altblirbra, #flowerpower, #stormberg"
   - username: "yogakristine"
     fullname: >-
       Kristine Mikkelsen
     location: "Norway"
-    followers: 7266
-    engagement: 749
-    commentsToLikes: 0.303235
+    followers: 7682
+    engagement: 908
+    commentsToLikes: 0.308002
     id: ck5zp2b4zruom0i14szyc61c3
     verified: false
-    hashtags: "#yogabythesea, #yogapants, #yogastrength, #strongmoms"
-  - username: "gunhild_stordalen"
+    hashtags: "#camelpose, #asanarebel, #staystrong, #igyogamovement"
+  - username: "aktivmamma"
     fullname: >-
-      Gunhild A. Stordalen
+      Cathrine 🇳🇴
     location: "Norway"
-    followers: 181942
-    engagement: 371
-    commentsToLikes: 0.026351
-    id: ck5zmq1uzn0kg0i147yvuqe2w
-    verified: true
-    hashtags: "#greatdanesofinstagram, #nextgeneration, #gobigorgohome, #teamworkmakesthedreamwork"
-  - username: "solfure"
-    fullname: >-
-      Ingeborg Sol Fure
-    location: "Norway"
-    followers: 17782
-    engagement: 503
-    commentsToLikes: 0.073670
-    id: ck13c377xyegy0i19amf3rz4m
+    followers: 22936
+    engagement: 467
+    commentsToLikes: 0.067849
+    id: ck5q44os5nqso0i11w2n0z62s
     verified: false
-    hashtags: "#hornelen, #bremanger, #latter, #portrett"
-  - username: "skogcecilie"
+    hashtags: "#bluewater, #instagram, #beproudofyou, #yogabeginner"
+  - username: "perheimly"
     fullname: >-
-      Cecilie Skog
+      perheimly
     location: "Norway"
-    followers: 141409
-    engagement: 493
-    commentsToLikes: 0.008857
-    id: ck14js498lwge0i19ly42ji2c
+    followers: 15457
+    engagement: 411
+    commentsToLikes: 0.021601
+    id: ck5hl6njdjnxl0i111i5ekduz
     verified: false
-    hashtags: "#varrilauget, #noe, #yoga, #naturligisolasjon"
+    hashtags: "#photoartist, #hasselblad, #fashion, #catlover"
+  - username: "charlottemsk"
+    fullname: >-
+      𝐂𝐇𝐀𝐑𝐋𝐎𝐓𝐓𝐄 ✌🏼 𝐭𝐰𝐢𝐧𝐦𝐨𝐦
+    location: "Norway"
+    followers: 14455
+    engagement: 578
+    commentsToLikes: 0.020929
+    id: ck0uajnyecetw0i19svtzlvo0
+    verified: false
+    hashtags: "#twinbabies, #balanse, #yoga, #twingirls"
+  - username: "martineekhagen"
+    fullname: >-
+      Martine Ek Hagen
+    location: "Norway"
+    followers: 22515
+    engagement: 658
+    commentsToLikes: 0.037308
+    id: ck6u5bty98q450j71n8llyyly
+    verified: false
+    hashtags: "#osv, #gratis, #ad, #kunst"
+  - username: "adventure_squirrel"
+    fullname: >-
+      🐿Mathias Squirrelhill🐿
+    location: "Norway"
+    followers: 6360
+    engagement: 664
+    commentsToLikes: 0.016342
+    id: ck6tsrg146f230j71kvsgjs4i
+    verified: false
+    hashtags: "#happyhobo, #jungletrek, #devold, #sundaymorning"
 ---

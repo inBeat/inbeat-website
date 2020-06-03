@@ -1,107 +1,107 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Russia In 2020
 description: >-
-  Find top dancers Instagram influencers in Russia in 2020. Most popular hashtags: #model #kidsmodel #photography #beautifulface.
+  Find top dancers Instagram influencers in Russia in 2020. Most popular hashtags: # #pillowchallenge #dancing #gymgirl.
 platform: Instagram
 profiles:
-  - username: "sofiatretyak_"
+  - username: "ruby_assassin"
     fullname: >-
-      S O F I A🌟T R E T Y A K
+      Aim4r | Assassins | Vol+
     location: "Russia"
-    followers: 33129
-    engagement: 434
-    commentsToLikes: 0.120791
-    id: ck6u2vk97u69m0j71h25kgc2x
+    followers: 38721
+    engagement: 1098
+    commentsToLikes: 0.157017
+    id: ckaov29h52t5o0i785gaceq03
     verified: false
-    hashtags: "#newcollection2020, #blackphoto, #beautifulgirls, #topsmile"
-  - username: "juliakopian"
+    hashtags: "#feelingcoolwithbaba"
+  - username: "alice.gribova"
     fullname: >-
-      JULIETTA  AKOPIAN
+      Alisa Gribova
     location: "Russia"
-    followers: 13873
-    engagement: 1460
-    commentsToLikes: 0.034915
-    id: ck8t92d3fmpne0j78q1axu6wx
+    followers: 2723
+    engagement: 2462
+    commentsToLikes: 0.253347
+    id: ckap1jwnfuug80i78qa41om79
     verified: false
-    hashtags: "#moscow, #black, #russia, #girl"
+    hashtags: "#painting, #activelife, #kidmodel, #kidsmodels"
+  - username: "kristina_nanaka"
+    fullname: >-
+      Кристина Нанака
+    location: "Russia"
+    followers: 12612
+    engagement: 1121
+    commentsToLikes: 0.076329
+    id: ck8t8b8smjs4a0j78pp5uz77f
+    verified: false
+    hashtags: "#tsgafightchallenge, #pillowchallenge, #quarantinefightchallenge"
   - username: "dav_vasily"
     fullname: >-
       Vasily Sobolev
     location: "Russia"
-    followers: 23027
-    engagement: 878
-    commentsToLikes: 0.083488
+    followers: 32952
+    engagement: 845
+    commentsToLikes: 0.084504
     id: ck8t486ut5tv80j789beab353
     verified: false
-    hashtags: "#model, #balletworld, #modelboy, #boydancer"
-  - username: "clementine.nrld"
-    fullname: >-
-      CLEMENTINE
-    location: "Russia"
-    followers: 7049
-    engagement: 1677
-    commentsToLikes: 0.044554
-    id: ck6tohy80e6ue0j71yo3r9wr5
-    verified: false
-    hashtags: "#makeamovenantes, #workshop, #inneficient, #zombeavers"
+    hashtags: ""
   - username: "bintablackout"
     fullname: >-
       
     location: "Russia"
-    followers: 23432
-    engagement: 489
-    commentsToLikes: 0.075157
+    followers: 23234
+    engagement: 505
+    commentsToLikes: 0.072105
     id: ck5q97dwd9qj00i11u81c3hk0
     verified: false
-    hashtags: "#clapyuhself, #watchdipumz, #blackoutcrew, #happyjook"
-  - username: "aleksasha1001"
+    hashtags: "#outshine, #brazilianwine, #plussize, #blackoutcrew"
+  - username: "clementine.nrld"
     fullname: >-
-      Aleksandra Yarovaya
+      CLEMENTINE
     location: "Russia"
-    followers: 109341
-    engagement: 348
-    commentsToLikes: 0.083484
-    id: ck137gw3sbh5m0i19qx5xacyo
+    followers: 7031
+    engagement: 1696
+    commentsToLikes: 0.044327
+    id: ck6tohy80e6ue0j71yo3r9wr5
     verified: false
-    hashtags: "#idcdancefamily, #mydancevideo, #voguestyle, #greatphoto"
-  - username: "_kristina_nan_"
-    fullname: >-
-      Кристина Нанака
-    location: "Russia"
-    followers: 5011
-    engagement: 1541
-    commentsToLikes: 0.085123
-    id: ck8t8b8smjs4a0j78pp5uz77f
-    verified: false
-    hashtags: ""
+    hashtags: "#makeamovenantes, #rennes, #russia, #soulsession3"
   - username: "zharikova_zhozefina"
     fullname: >-
       JOSEPHINE
     location: "Russia"
-    followers: 168171
-    engagement: 303
-    commentsToLikes: 0.038943
+    followers: 176632
+    engagement: 361
+    commentsToLikes: 0.036341
     id: ck15rz27baezw0i1928nnzduy
     verified: false
-    hashtags: "#nepachka"
-  - username: "poli_krasnova"
-    fullname: >-
-      Polina Krasnova 🔷🔴🔷
-    location: "Russia"
-    followers: 3574
-    engagement: 1416
-    commentsToLikes: 0.129964
-    id: ck14jlb8ykwx50i1987x2j4jp
-    verified: false
-    hashtags: "#blackandwhite, #blackandwhitephoto"
-  - username: "averimuhr"
-    fullname: >-
-      a v e r i ♡
-    location: "Russia"
-    followers: 6181
-    engagement: 1244
-    commentsToLikes: 0.050582
-    id: ck5hfl6cjy04n0i11ntvq56ui
-    verified: false
     hashtags: ""
+  - username: "aleksasha1001"
+    fullname: >-
+      Aleksandra Yarovaya
+    location: "Russia"
+    followers: 110111
+    engagement: 325
+    commentsToLikes: 0.102669
+    id: ck137gw3sbh5m0i19qx5xacyo
+    verified: false
+    hashtags: "#ilovefairytale, #amaizingshot, #moderndance, #juzzfunk"
+  - username: "margo__dancer"
+    fullname: >-
+      Margosha
+    location: "Russia"
+    followers: 6326
+    engagement: 886
+    commentsToLikes: 0.089121
+    id: ck6u3e8zmxbgf0j71k4ccc8vp
+    verified: false
+    hashtags: "#onelove, #photographers, #fitnessgirl, #ootd"
+  - username: "sofiatretyak_"
+    fullname: >-
+      S O F I A🌟T R E T Y A K
+    location: "Russia"
+    followers: 34330
+    engagement: 293
+    commentsToLikes: 0.162692
+    id: ck6u2vk97u69m0j71h25kgc2x
+    verified: false
+    hashtags: "#pillow, #quarantinepillowchallenge, #portretphotography, #perfectkidsproduction"
 ---

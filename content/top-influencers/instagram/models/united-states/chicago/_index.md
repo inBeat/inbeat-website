@@ -1,26 +1,26 @@
 ---
 title: Top 10 Models Instagram Influencers In Chicago In 2020
 description: >-
-  Find top models Instagram influencers in Chicago in 2020. Most popular hashtags: #model #fashion #photography #onlyfans.
+  Find top models Instagram influencers in Chicago in 2020. Most popular hashtags: # #quarantine #fashionista #runwaymodel.
 platform: Instagram
 profiles:
-  - username: "bridgette0737"
+  - username: "catstanley"
     fullname: >-
-      Bridgette ♥️🖤
+      Cat
     location: "United States"
-    followers: 3240
-    engagement: 1553
-    commentsToLikes: 0.065746
-    id: ck8t1tudgx0dp0j78xzaqkmen
+    followers: 9955
+    engagement: 521
+    commentsToLikes: 0.053236
+    id: ck1377ok3a7eq0i19k32djw4s
     verified: false
-    hashtags: "#tightdress, #inspiration, #relaxed, #louboutinheels"
+    hashtags: "#sleepnumber, #quarantine, #quarantinethoughts, #bodypositivity"
   - username: "alexismatsen"
     fullname: >-
       Alexis
     location: "United States"
-    followers: 2012
-    engagement: 1500
-    commentsToLikes: 0.044746
+    followers: 2001
+    engagement: 1512
+    commentsToLikes: 0.044232
     id: ck6tm5snu78e90j714emtthpp
     verified: false
     hashtags: ""
@@ -28,80 +28,80 @@ profiles:
     fullname: >-
       Lynnea Smith
     location: "United States"
-    followers: 11821
-    engagement: 619
-    commentsToLikes: 0.013329
+    followers: 12006
+    engagement: 648
+    commentsToLikes: 0.015704
     id: ck0w5aswa2qm50i19s4m1k496
     verified: false
-    hashtags: "#morebeachdays, #ckzncrm"
-  - username: "oliviaromannn"
+    hashtags: "#morebeachdays, #yogi"
+  - username: "abbystahlschmidt"
     fullname: >-
-      Olivia
+      Abigail SIGNED MODEL/VIOLINIST
     location: "United States"
-    followers: 5965
-    engagement: 1028
-    commentsToLikes: 0.027358
-    id: ck6tlnoe56aoh0j7184sgq0e0
+    followers: 24911
+    engagement: 278
+    commentsToLikes: 0.038893
+    id: ck6ts173p27s50j71p9lrkf6d
     verified: false
-    hashtags: "#newyorkmodel, #freelancemodel, #studioshoot, #indybased"
-  - username: "auroragozmic"
-    fullname: >-
-      💖Aurora Gozmic💖
-    location: "United States"
-    followers: 16156
-    engagement: 377
-    commentsToLikes: 0.020792
-    id: ck0vzqaujadgs0i19js2zffc3
-    verified: false
-    hashtags: "#you, #dragqueen, #makeup, #fashion"
+    hashtags: "#italy, #apparel, #lynyrdskynyrd, #portraits"
   - username: "hailey.lainee"
     fullname: >-
       Hails
     location: "United States"
-    followers: 80019
-    engagement: 554
-    commentsToLikes: 0.018179
+    followers: 88450
+    engagement: 810
+    commentsToLikes: 0.016744
     id: ck8wdi31hdvd40j787t4d284z
     verified: false
-    hashtags: "#werkitfromhome, #boyfriend, #thisisquitting, #playbyplay"
+    hashtags: ""
   - username: "kyliekohlxoxo"
     fullname: >-
       Kylie Kohl
     location: "United States"
-    followers: 54154
-    engagement: 364
-    commentsToLikes: 0.020614
+    followers: 54832
+    engagement: 402
+    commentsToLikes: 0.021230
     id: ck55p8nvxa1m00i11ywy9leti
     verified: false
-    hashtags: "#nature, #boudoirpronunciation, #boudoirshooting, #spring2020"
-  - username: "theparishjames"
+    hashtags: "#badbunny, #spring2020, #lingerie, #easter"
+  - username: "elizabetholiverr"
     fullname: >-
-      Parish James™️
+      ELIZABETH OLIVER
     location: "United States"
-    followers: 5852
-    engagement: 2072
-    commentsToLikes: 0.030820
-    id: ck5zyk6gta1g00i146f44yczp
+    followers: 4455
+    engagement: 2184
+    commentsToLikes: 0.039487
+    id: ck0w0rjtqfooz0i1940h20ctu
     verified: false
-    hashtags: "#lilmamachallenge, #stayathome"
+    hashtags: ""
   - username: "_reine.noire_"
     fullname: >-
       ⚫️ 👑
     location: "United States"
-    followers: 5299
-    engagement: 1156
-    commentsToLikes: 0.058789
+    followers: 5300
+    engagement: 1076
+    commentsToLikes: 0.058815
     id: ck6ttmoxpbg7q0j719kyq4hi2
     verified: false
-    hashtags: "#modelcrushmonday, #unbothered, #support, #custom"
+    hashtags: "#goodvibes, #selfcare, #actress, #innerg"
   - username: "devonspence"
     fullname: >-
       👑 Mr. Devon Spence 💍
     location: "United States"
-    followers: 22618
-    engagement: 237
-    commentsToLikes: 0.015139
+    followers: 22450
+    engagement: 240
+    commentsToLikes: 0.015461
     id: ck0vx7oygxk3y0i19im8nmkxt
     verified: false
-    hashtags: "#londonmua, #electricmotorcycle, #cemetery, #cubaverafall"
+    hashtags: "#naturallight, #flashbackfriday, #photographer, #rideelectric"
+  - username: "kenkenbeastmode"
+    fullname: >-
+      Kennedy Moore
+    location: "United States"
+    followers: 15388
+    engagement: 570
+    commentsToLikes: 0.015026
+    id: ck14jsrlolzv50i192uvhbjpc
+    verified: false
+    hashtags: "#caring, #loveher, #stellakidd, #stefanrand"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Italy In 2020
 description: >-
-  Find top athletes Instagram influencers in Italy in 2020. Most popular hashtags: #iorestoacasa #training #love #workout.
+  Find top athletes Instagram influencers in Italy in 2020. Most popular hashtags: #iorestoacasa #mood #training #motivation.
 platform: Instagram
 profiles:
-  - username: "yasnizetich"
+  - username: "jleanavalentino"
     fullname: >-
-      Yas Nizetich
+      Nikita  JV
     location: "Italy"
-    followers: 68454
-    engagement: 742
-    commentsToLikes: 0.047219
-    id: ck15u048jkriv0i19p0r8d6tu
+    followers: 34384
+    engagement: 739
+    commentsToLikes: 0.046879
+    id: ck6tl0atx5qo30j71cmw99sp2
     verified: true
-    hashtags: "#tokio2020, #cordoba, #a1, #31"
-  - username: "patrickcutrone"
-    fullname: >-
-      Patrick Cutrone
-    location: "Italy"
-    followers: 937673
-    engagement: 1177
-    commentsToLikes: 0.015601
-    id: ck5hkq12siv070i11w22potzr
-    verified: true
-    hashtags: "#fiorentina, #seriea, #comeonwolves, #celafaremo"
-  - username: "lahilary__"
-    fullname: >-
-      Iℓᥲɾɩᥲ Sᥲᥒtᥱℓℓɩ
-    location: "Italy"
-    followers: 7291
-    engagement: 914
-    commentsToLikes: 0.083972
-    id: ck5c0s71dtr490i11ku0zhjsc
-    verified: false
-    hashtags: "#bershka, #week, #cucinare, #pizzalover"
-  - username: "lorinsigneofficial"
-    fullname: >-
-      Lorenzo Insigne
-    location: "Italy"
-    followers: 1315142
-    engagement: 920
-    commentsToLikes: 0.014616
-    id: ck5q93yr299uz0i11tmr0bfxx
-    verified: true
-    hashtags: "#createdwithadidas, #vivoazzurro, #createdwithadidas, #hometeam"
+    hashtags: "#change, #wmma, #sunset, #mmagirls"
   - username: "taylor_mega"
     fullname: >-
       ♛ Taylor MEGA ♛
     location: "Italy"
-    followers: 2469421
-    engagement: 848
-    commentsToLikes: 0.011985
+    followers: 2498292
+    engagement: 849
+    commentsToLikes: 0.012612
     id: ck55mn9so4bth0i11bw3vi7w3
     verified: true
-    hashtags: "#adv, #quarantine, #vpxsports, #energydrink"
-  - username: "sonia.malavisi"
+    hashtags: "#vpxsports, #shein, #iorestoacasa, #zeroimpact"
+  - username: "lorinsigneofficial"
     fullname: >-
-      Sonia Malavisi
+      Lorenzo Insigne
     location: "Italy"
-    followers: 47962
-    engagement: 843
-    commentsToLikes: 0.021352
-    id: ck13c20fly8i80i19qlgjy1gi
+    followers: 1333794
+    engagement: 905
+    commentsToLikes: 0.014410
+    id: ck5q93yr299uz0i11tmr0bfxx
+    verified: true
+    hashtags: "#predator, #euro2020, #adidassuperstar, #stayathome"
+  - username: "lahilary__"
+    fullname: >-
+      Iℓᥲɾɩᥲ Sᥲᥒtᥱℓℓɩ
+    location: "Italy"
+    followers: 7211
+    engagement: 842
+    commentsToLikes: 0.106370
+    id: ck5c0s71dtr490i11ku0zhjsc
     verified: false
-    hashtags: "#trainingincuba, #shooting, #rosassociati, #gymnaststyle"
+    hashtags: "#ragazze, #rules, #meal, #dayoff"
+  - username: "sim1workout"
+    fullname: >-
+      Simone Carotenuto
+    location: "Italy"
+    followers: 106568
+    engagement: 723
+    commentsToLikes: 0.020065
+    id: ck6tmawf07i3n0j71jhud8map
+    verified: false
+    hashtags: "#fitness, #gym, #motivation, #tattoo"
+  - username: "patrickcutrone"
+    fullname: >-
+      Patrick Cutrone
+    location: "Italy"
+    followers: 921070
+    engagement: 1025
+    commentsToLikes: 0.012776
+    id: ck5hkq12siv070i11w22potzr
+    verified: true
+    hashtags: "#coppaitalia, #welcomecutrone, #wolvesvswestham, #football"
+  - username: "manuel_caruso_calisthenics"
+    fullname: >-
+      Manuel Caruso
+    location: "Italy"
+    followers: 38495
+    engagement: 1221
+    commentsToLikes: 0.023268
+    id: ck14jwjg0mjq00i19kj845qvh
+    verified: false
+    hashtags: "#planche, #power, #streetphoto, #training"
+  - username: "franczampogna"
+    fullname: >-
+      Francesco Zampogna
+    location: "Italy"
+    followers: 116789
+    engagement: 922
+    commentsToLikes: 0.016465
+    id: ck0w5dhmy33ul0i194uembv32
+    verified: false
+    hashtags: "#thebeast, #nflsundays, #golf, #patience"
   - username: "sergiy.derevyanchenko"
     fullname: >-
       Sergiy Derevyanchenko
     location: "Italy"
-    followers: 30795
-    engagement: 799
-    commentsToLikes: 0.019691
+    followers: 30698
+    engagement: 771
+    commentsToLikes: 0.020075
     id: ck5qe1atky8oj0i11f90dbf28
     verified: false
-    hashtags: "#happybirthdaymatt, #dolchegabbana, #milanothander, #antonconnollyart"
-  - username: "rickymorasca"
+    hashtags: "#bukovel, #dolchegabbana, #patrickday, #dolchegabbanamilanothander"
+  - username: "alessia.fit"
     fullname: >-
-      Riccardo Moraschini
+      Alessia 🌸
     location: "Italy"
-    followers: 15336
-    engagement: 1160
-    commentsToLikes: 0.018661
-    id: ck5civ29wtfjr0i11h4alv022
-    verified: true
-    hashtags: "#nikeadapt, #nikelivingroomcup, #livingroomcup, #insieme"
-  - username: "thesportyblonde"
-    fullname: >-
-      Camille Chenaux
-    location: "Italy"
-    followers: 28205
-    engagement: 1902
-    commentsToLikes: 0.016766
-    id: ck0u2nivr0hib0i19j9b8py17
+    followers: 14381
+    engagement: 577
+    commentsToLikes: 0.153211
+    id: ckaov9pe43mxc0i78xl4id0ng
     verified: false
-    hashtags: "#giveaway, #giveaways, #running, #trainlikeagirl"
-  - username: "paulopez_13"
-    fullname: >-
-      Pau López
-    location: "Italy"
-    followers: 129301
-    engagement: 1149
-    commentsToLikes: 0.011288
-    id: ck6tw7zx8qhtn0j71sb1wpbry
-    verified: true
-    hashtags: "#seriea, #unrossoallaviolencia, #unidosporunreto, #dajeroma"
+    hashtags: "#integrazione, #piscina, #siciliagram, #absworkout"
 ---

@@ -335,120 +335,558 @@ platforms:
       - name: Vietnam
         link: /instagram/vietnam
     cities:
-      - name: Bali
-        link: /instagram/indonesia/bali
-      - name: Philadelphia
-        link: /instagram/united-states/philadelphia
+      - name: Konya
+        link: /instagram/turkey/konya
+      - name: Melbourne
+        link: /instagram/australia/melbourne
+      - name: Milan
+        link: /instagram/italy/milan
+      - name: Cali
+        link: /instagram/colombia/cali
+      - name: Porto
+        link: /instagram/portugal/porto
+      - name: Phoenix
+        link: /instagram/united-states/phoenix
+      - name: Madrid
+        link: /instagram/spain/madrid
+      - name: Birmingham
+        link: /instagram/united-kingdom/birmingham
       - name: Chicago
         link: /instagram/united-states/chicago
       - name: Atlanta
         link: /instagram/united-states/atlanta
-      - name: Brisbane
-        link: /instagram/australia/brisbane
-      - name: Jakarta
-        link: /instagram/indonesia/jakarta
-      - name: Berlin
-        link: /instagram/germany/berlin
-      - name: Mumbai
-        link: /instagram/india/mumbai
-      - name: Busan
-        link: /instagram/south-korea/busan
-      - name: Toronto
-        link: /instagram/canada/toronto
-      - name: Medellín
-        link: /instagram/colombia/medellin
-      - name: Rome
-        link: /instagram/italy/rome
-      - name: Kyoto
-        link: /instagram/japan/kyoto
-      - name: Izmir
-        link: /instagram/turkey/izmir
-      - name: Seattle
-        link: /instagram/united-states/seattle
-      - name: Las Vegas
-        link: /instagram/united-states/las-vegas
-      - name: Los Angeles
-        link: /instagram/united-states/los-angeles
-      - name: Melbourne
-        link: /instagram/australia/melbourne
       - name: Sao Paulo
         link: /instagram/brazil/sao-paulo
-      - name: San Antonio
-        link: /instagram/united-states/san-antonio
-      - name: London
-        link: /instagram/united-kingdom/london
-      - name: Phoenix
-        link: /instagram/united-states/phoenix
-      - name: Austin
-        link: /instagram/united-states/austin
-      - name: Barcelona
-        link: /instagram/spain/barcelona
-      - name: Chiang mai
-        link: /instagram/thailand/chiang-mai
-      - name: Konya
-        link: /instagram/turkey/konya
-      - name: Bogotá
-        link: /instagram/colombia/bogota
-      - name: Durban
-        link: /instagram/south-africa/durban
-      - name: Birmingham
-        link: /instagram/united-kingdom/birmingham
-      - name: Porto
-        link: /instagram/portugal/porto
-      - name: Ankara
-        link: /instagram/turkey/ankara
-      - name: Sydney
-        link: /instagram/australia/sydney
-      - name: Boston
-        link: /instagram/united-states/boston
-      - name: Madrid
-        link: /instagram/spain/madrid
-      - name: New York
-        link: /instagram/united-states/new-york
-      - name: Denver
-        link: /instagram/united-states/denver
-      - name: Miami
-        link: /instagram/united-states/miami
-      - name: Houston
-        link: /instagram/united-states/houston
-      - name: Incheon
-        link: /instagram/south-korea/incheon
-      - name: Dallas
-        link: /instagram/united-states/dallas
-      - name: Milan
-        link: /instagram/italy/milan
-      - name: Lisbon
-        link: /instagram/portugal/lisbon
-      - name: Istanbul
-        link: /instagram/turkey/istanbul
-      - name: Vancouver
-        link: /instagram/canada/vancouver
-      - name: Hamburg
-        link: /instagram/germany/hamburg
-      - name: Capetown
-        link: /instagram/south-africa/capetown
-      - name: Seoul
-        link: /instagram/south-korea/seoul
-      - name: Manchester
-        link: /instagram/united-kingdom/manchester
-      - name: San Francisco
-        link: /instagram/united-states/san-francisco
-      - name: Cali
-        link: /instagram/colombia/cali
-      - name: Osaka
-        link: /instagram/japan/osaka
-      - name: New Delhi
-        link: /instagram/india/new-delhi
-      - name: Tokyo
-        link: /instagram/japan/tokyo
-      - name: Rio de Janeiro
-        link: /instagram/brazil/rio-de-janeiro
-      - name: Montreal
-        link: /instagram/canada/montreal
+      - name: Mumbai
+        link: /instagram/india/mumbai
       - name: Bangkok
         link: /instagram/thailand/bangkok
+      - name: Istanbul
+        link: /instagram/turkey/istanbul
+      - name: Philadelphia
+        link: /instagram/united-states/philadelphia
+      - name: Denver
+        link: /instagram/united-states/denver
+      - name: Medellín
+        link: /instagram/colombia/medellin
+      - name: Hamburg
+        link: /instagram/germany/hamburg
+      - name: Berlin
+        link: /instagram/germany/berlin
+      - name: Jakarta
+        link: /instagram/indonesia/jakarta
+      - name: Bali
+        link: /instagram/indonesia/bali
+      - name: Rome
+        link: /instagram/italy/rome
+      - name: Lisbon
+        link: /instagram/portugal/lisbon
+      - name: Durban
+        link: /instagram/south-africa/durban
+      - name: Brisbane
+        link: /instagram/australia/brisbane
+      - name: Bogotá
+        link: /instagram/colombia/bogota
+      - name: Busan
+        link: /instagram/south-korea/busan
+      - name: Houston
+        link: /instagram/united-states/houston
+      - name: San Francisco
+        link: /instagram/united-states/san-francisco
+      - name: Las Vegas
+        link: /instagram/united-states/las-vegas
+      - name: Austin
+        link: /instagram/united-states/austin
+      - name: Seoul
+        link: /instagram/south-korea/seoul
+      - name: Barcelona
+        link: /instagram/spain/barcelona
+      - name: Izmir
+        link: /instagram/turkey/izmir
+      - name: Miami
+        link: /instagram/united-states/miami
+      - name: Montreal
+        link: /instagram/canada/montreal
+      - name: New Delhi
+        link: /instagram/india/new-delhi
+      - name: Chiang mai
+        link: /instagram/thailand/chiang-mai
+      - name: London
+        link: /instagram/united-kingdom/london
+      - name: New York
+        link: /instagram/united-states/new-york
+      - name: Dallas
+        link: /instagram/united-states/dallas
+      - name: Vancouver
+        link: /instagram/canada/vancouver
+      - name: Kyoto
+        link: /instagram/japan/kyoto
+      - name: Incheon
+        link: /instagram/south-korea/incheon
+      - name: Ankara
+        link: /instagram/turkey/ankara
+      - name: Seattle
+        link: /instagram/united-states/seattle
+      - name: Sydney
+        link: /instagram/australia/sydney
+      - name: Rio de Janeiro
+        link: /instagram/brazil/rio-de-janeiro
+      - name: Boston
+        link: /instagram/united-states/boston
+      - name: Capetown
+        link: /instagram/south-africa/capetown
+      - name: Manchester
+        link: /instagram/united-kingdom/manchester
+      - name: San Antonio
+        link: /instagram/united-states/san-antonio
       - name: Turin
         link: /instagram/italy/turin
+      - name: Los Angeles
+        link: /instagram/united-states/los-angeles
+      - name: Osaka
+        link: /instagram/japan/osaka
       - name: San Diego
         link: /instagram/united-states/san-diego
+      - name: Toronto
+        link: /instagram/canada/toronto
+      - name: Tokyo
+        link: /instagram/japan/tokyo
+  - name: TikTok
+    niches:
+      - name: architecture
+        link: /tiktok/architecture
+      - name: athletes
+        link: /tiktok/athletes
+      - name: badminton players
+        link: /tiktok/badminton-players
+      - name: bakers
+        link: /tiktok/bakers
+      - name: barbers
+        link: /tiktok/barbers
+      - name: basketball players
+        link: /tiktok/basketball-players
+      - name: beauty
+        link: /tiktok/beauty
+      - name: bloggers
+        link: /tiktok/bloggers
+      - name: bmx
+        link: /tiktok/bmx
+      - name: bodyboard
+        link: /tiktok/bodyboard
+      - name: bodybuilding
+        link: /tiktok/bodybuilding
+      - name: boxers
+        link: /tiktok/boxers
+      - name: calisthenics
+        link: /tiktok/calisthenics
+      - name: camping
+        link: /tiktok/camping
+      - name: cat owners
+        link: /tiktok/cat-owners
+      - name: chefs
+        link: /tiktok/chefs
+      - name: christian
+        link: /tiktok/christian
+      - name: cinema
+        link: /tiktok/cinema
+      - name: climbers
+        link: /tiktok/climbers
+      - name: comedians
+        link: /tiktok/comedians
+      - name: comics
+        link: /tiktok/comics
+      - name: cooking
+        link: /tiktok/cooking
+      - name: cosmetics
+        link: /tiktok/cosmetics
+      - name: craft beer
+        link: /tiktok/craft-beer
+      - name: crafts and DIY
+        link: /tiktok/crafts-diy
+      - name: cricket players
+        link: /tiktok/cricket-players
+      - name: crossfit
+        link: /tiktok/crossfit
+      - name: cyclists
+        link: /tiktok/cyclists
+      - name: dancers
+        link: /tiktok/dancers
+      - name: divers
+        link: /tiktok/divers
+      - name: djs
+        link: /tiktok/djs
+      - name: dog owners
+        link: /tiktok/dog-owners
+      - name: drummers
+        link: /tiktok/drummers
+      - name: entrepreneurs
+        link: /tiktok/entrepreneurs
+      - name: environmental
+        link: /tiktok/environmentalist
+      - name: fashion
+        link: /tiktok/fashion
+      - name: fitness
+        link: /tiktok/fitness
+      - name: food
+        link: /tiktok/food
+      - name: gaming
+        link: /tiktok/gaming
+      - name: gardening
+        link: /tiktok/gardening
+      - name: golfers
+        link: /tiktok/golfers
+      - name: gospel
+        link: /tiktok/gospel
+      - name: graffiti
+        link: /tiktok/graffiti
+      - name: graphic-designers
+        link: /tiktok/graphic-designers
+      - name: guitar
+        link: /tiktok/guitar
+      - name: gymnasts
+        link: /tiktok/gymnasts
+      - name: hair dressers
+        link: /tiktok/hair-dressers
+      - name: handball players
+        link: /tiktok/handball-players
+      - name: health
+        link: /tiktok/health
+      - name: hip-hop
+        link: /tiktok/hip-hop
+      - name: hockey players
+        link: /tiktok/hockey-players
+      - name: home decor
+        link: /tiktok/home-decor
+      - name: hypebeast
+        link: /tiktok/hypebeast
+      - name: illustrators
+        link: /tiktok/illustrators
+      - name: ironman
+        link: /tiktok/ironman
+      - name: jiu-jitsu fighters
+        link: /tiktok/jiu-jitsu-fighters
+      - name: journalists
+        link: /tiktok/journalists
+      - name: judo fighters
+        link: /tiktok/judo-fighters
+      - name: karate fighters
+        link: /tiktok/karate-fighters
+      - name: kayak
+        link: /tiktok/kayak
+      - name: lacrosse players
+        link: /tiktok/lacrosse-players
+      - name: lifestyle
+        link: /tiktok/lifestyle
+      - name: lingerie
+        link: /tiktok/lingerie
+      - name: longboard
+        link: /tiktok/longboard
+      - name: makeup
+        link: /tiktok/makeup
+      - name: makeup artists
+        link: /tiktok/makeup-artists
+      - name: marathon
+        link: /tiktok/marathon
+      - name: mma fighters
+        link: /tiktok/mma-fighters
+      - name: models
+        link: /tiktok/models
+      - name: mothers
+        link: /tiktok/mothers
+      - name: motivational speakers
+        link: /tiktok/motivational-speakers
+      - name: muay thai fighters
+        link: /tiktok/muay-thai-fighters
+      - name: music
+        link: /tiktok/music
+      - name: nail artists
+        link: /tiktok/nail-artists
+      - name: nutrition
+        link: /tiktok/nutrition
+      - name: olympian athletes
+        link: /tiktok/olympian-athletes
+      - name: outdoors
+        link: /tiktok/outdoors
+      - name: painters
+        link: /tiktok/painters
+      - name: performing artists
+        link: /tiktok/performing-artists
+      - name: photographers
+        link: /tiktok/photographers
+      - name: pilates
+        link: /tiktok/pilates
+      - name: pole dancers
+        link: /tiktok/pole-dancers
+      - name: punk
+        link: /tiktok/punk
+      - name: racing
+        link: /tiktok/racing
+      - name: rappers
+        link: /tiktok/rappers
+      - name: reggae
+        link: /tiktok/reggae
+      - name: rowing
+        link: /tiktok/rowing
+      - name: rugby players
+        link: /tiktok/rugby-players
+      - name: runners
+        link: /tiktok/runners
+      - name: scrapbooking
+        link: /tiktok/scrapbooking
+      - name: sculptors
+        link: /tiktok/sculptors
+      - name: singers
+        link: /tiktok/singers
+      - name: skiing
+        link: /tiktok/skiing
+      - name: skincare
+        link: /tiktok/skincare
+      - name: soccer-players
+        link: /tiktok/soccer-players
+      - name: softball-players
+        link: /tiktok/softball-players
+      - name: songwriters
+        link: /tiktok/songwriters
+      - name: stylists
+        link: /tiktok/stylists
+      - name: surf
+        link: /tiktok/surf
+      - name: tattoo-artists
+        link: /tiktok/tattoo-artists
+      - name: tennis players
+        link: /tiktok/tennis-players
+      - name: theater
+        link: /tiktok/theater
+      - name: travel
+        link: /tiktok/travel
+      - name: triathlon athletes
+        link: /tiktok/triathlon-athletes
+      - name: vegan
+        link: /tiktok/vegan
+      - name: violin
+        link: /tiktok/violin-players
+      - name: volleyball-players
+        link: /tiktok/volleyball-players
+      - name: wedding
+        link: /tiktok/wedding
+      - name: wellness
+        link: /tiktok/wellness
+      - name: wrestlers
+        link: /tiktok/wrestlers
+      - name: yoga
+        link: /tiktok/yoga
+      - name: zen meditation
+        link: /tiktok/zen-meditation
+      - name: zumba
+        link: /tiktok/zumba
+    countries:
+      - name: Algeria
+        link: /tiktok/algeria
+      - name: Argentina
+        link: /tiktok/argentina
+      - name: Australia
+        link: /tiktok/australia
+      - name: Austria
+        link: /tiktok/austria
+      - name: Bangladesh
+        link: /tiktok/bangladesh
+      - name: Belarus
+        link: /tiktok/belarus
+      - name: Belgium
+        link: /tiktok/belgium
+      - name: Brazil
+        link: /tiktok/brazil
+      - name: Canada
+        link: /tiktok/canada
+      - name: Chile
+        link: /tiktok/chile
+      - name: Colombia
+        link: /tiktok/colombia
+      - name: Croatia
+        link: /tiktok/croatia
+      - name: Ecuador
+        link: /tiktok/ecuador
+      - name: Finland
+        link: /tiktok/finland
+      - name: France
+        link: /tiktok/france
+      - name: Germany
+        link: /tiktok/germany
+      - name: Greece
+        link: /tiktok/greece
+      - name: Hungary
+        link: /tiktok/hungary
+      - name: India
+        link: /tiktok/india
+      - name: Indonesia
+        link: /tiktok/indonesia
+      - name: Ireland
+        link: /tiktok/ireland
+      - name: Israel
+        link: /tiktok/israel
+      - name: Italy
+        link: /tiktok/italy
+      - name: Japan
+        link: /tiktok/japan
+      - name: Kuwait
+        link: /tiktok/kuwait
+      - name: Malaysia
+        link: /tiktok/malaysia
+      - name: Morocco
+        link: /tiktok/morocco
+      - name: Nigeria
+        link: /tiktok/nigeria
+      - name: Norway
+        link: /tiktok/norway
+      - name: Pakistan
+        link: /tiktok/pakistan
+      - name: Peru
+        link: /tiktok/peru
+      - name: Poland
+        link: /tiktok/poland
+      - name: Portugal
+        link: /tiktok/portugal
+      - name: Russia
+        link: /tiktok/russia
+      - name: Saudi Arabia
+        link: /tiktok/saudi-arabia
+      - name: Serbia
+        link: /tiktok/serbia
+      - name: Singapore
+        link: /tiktok/singapore
+      - name: Slovakia
+        link: /tiktok/slovakia
+      - name: South Africa
+        link: /tiktok/south-africa
+      - name: South Korea
+        link: /tiktok/south-korea
+      - name: Spain
+        link: /tiktok/spain
+      - name: Switzerland
+        link: /tiktok/switzerland
+      - name: Thailand
+        link: /tiktok/thailand
+      - name: Turkey
+        link: /tiktok/turkey
+      - name: Ukraine
+        link: /tiktok/ukraine
+      - name: United Arab Emirates
+        link: /tiktok/united-arab-emirates
+      - name: United Kingdom
+        link: /tiktok/united-kingdom
+      - name: United States
+        link: /tiktok/united-states
+      - name: Venezuela
+        link: /tiktok/venezuela
+    cities:
+      - name: Medellín
+        link: /tiktok/colombia/medellin
+      - name: Rome
+        link: /tiktok/italy/rome
+      - name: Osaka
+        link: /tiktok/japan/osaka
+      - name: Los Angeles
+        link: /tiktok/united-states/los-angeles
+      - name: Atlanta
+        link: /tiktok/united-states/atlanta
+      - name: Seoul
+        link: /tiktok/south-korea/seoul
+      - name: Madrid
+        link: /tiktok/spain/madrid
+      - name: Chiang mai
+        link: /tiktok/thailand/chiang-mai
+      - name: Izmir
+        link: /tiktok/turkey/izmir
+      - name: Birmingham
+        link: /tiktok/united-kingdom/birmingham
+      - name: Milan
+        link: /tiktok/italy/milan
+      - name: New York
+        link: /tiktok/united-states/new-york
+      - name: Sao Paulo
+        link: /tiktok/brazil/sao-paulo
+      - name: Vancouver
+        link: /tiktok/canada/vancouver
+      - name: Mumbai
+        link: /tiktok/india/mumbai
+      - name: Tokyo
+        link: /tiktok/japan/tokyo
+      - name: Capetown
+        link: /tiktok/south-africa/capetown
+      - name: Bangkok
+        link: /tiktok/thailand/bangkok
+      - name: Toronto
+        link: /tiktok/canada/toronto
+      - name: Jakarta
+        link: /tiktok/indonesia/jakarta
+      - name: Manchester
+        link: /tiktok/united-kingdom/manchester
+      - name: New Delhi
+        link: /tiktok/india/new-delhi
+      - name: Bali
+        link: /tiktok/indonesia/bali
+      - name: San Francisco
+        link: /tiktok/united-states/san-francisco
+      - name: Houston
+        link: /tiktok/united-states/houston
+      - name: Boston
+        link: /tiktok/united-states/boston
+      - name: Las Vegas
+        link: /tiktok/united-states/las-vegas
+      - name: Sydney
+        link: /tiktok/australia/sydney
+      - name: Cali
+        link: /tiktok/colombia/cali
+      - name: Ankara
+        link: /tiktok/turkey/ankara
+      - name: Rio de Janeiro
+        link: /tiktok/brazil/rio-de-janeiro
+      - name: Lisbon
+        link: /tiktok/portugal/lisbon
+      - name: Barcelona
+        link: /tiktok/spain/barcelona
+      - name: Istanbul
+        link: /tiktok/turkey/istanbul
+      - name: San Diego
+        link: /tiktok/united-states/san-diego
+      - name: Hamburg
+        link: /tiktok/germany/hamburg
+      - name: London
+        link: /tiktok/united-kingdom/london
+      - name: Austin
+        link: /tiktok/united-states/austin
+      - name: Denver
+        link: /tiktok/united-states/denver
+      - name: Montreal
+        link: /tiktok/canada/montreal
+      - name: Chicago
+        link: /tiktok/united-states/chicago
+      - name: Miami
+        link: /tiktok/united-states/miami
+      - name: Philadelphia
+        link: /tiktok/united-states/philadelphia
+      - name: Durban
+        link: /tiktok/south-africa/durban
+      - name: Dallas
+        link: /tiktok/united-states/dallas
+      - name: Melbourne
+        link: /tiktok/australia/melbourne
+      - name: Seattle
+        link: /tiktok/united-states/seattle
+      - name: Phoenix
+        link: /tiktok/united-states/phoenix
+      - name: San Antonio
+        link: /tiktok/united-states/san-antonio
+      - name: Porto
+        link: /tiktok/portugal/porto
+      - name: Brisbane
+        link: /tiktok/australia/brisbane
+      - name: Berlin
+        link: /tiktok/germany/berlin
+      - name: Konya
+        link: /tiktok/turkey/konya
+      - name: Bogotá
+        link: /tiktok/colombia/bogota
+      - name: Kyoto
+        link: /tiktok/japan/kyoto
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top outdoors Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #indozonetravel #folkgreen #keluarbentar.
+  Find top outdoors Instagram influencers in Indonesia in 2020. Most popular hashtags: #outdoors #indonesia #stayathome #memories.
 platform: Instagram
 profiles:
-  - username: "viaputrisilviani_"
+  - username: "folkindonesia"
     fullname: >-
-      Via Putri Silviani
+      FOLK INDONESIA
     location: "Indonesia"
-    followers: 5688
-    engagement: 1756
-    commentsToLikes: 0.052717
-    id: ck6tqvosnur1b0j71r0z4033h
+    followers: 555989
+    engagement: 220
+    commentsToLikes: 0.008698
+    id: ck138gh5eg46d0i19b2jnm65y
     verified: false
-    hashtags: "#hindarikeramaian, #langkahberani, #campinaheart, #campina"
-  - username: "lattifaa"
+    hashtags: "#dirumahaja, #jagajarakaman, #stayathome, #bersatulawancovid19"
+  - username: "serafinapekkalla"
     fullname: >-
-      Petualang | ovi
+      Virginija Risteska
     location: "Indonesia"
-    followers: 10085
-    engagement: 1247
-    commentsToLikes: 0.067242
-    id: ck6u1kf6mm9s40j71fffprzwh
+    followers: 2759
+    engagement: 2480
+    commentsToLikes: 0.108405
+    id: ck6u24pjppp3v0j71dfnjljk0
     verified: false
-    hashtags: "#idpetualang, #lawancovid19, #indoflashlight, #folkgreen"
-  - username: "shabellaaaaaa"
+    hashtags: "#cretegreece, #virginiawoolf, #alicecosplay, #passiontravel"
+  - username: "ghaatilover"
     fullname: >-
-      Bellaaaaa
+      Payal Sewani
     location: "Indonesia"
-    followers: 23227
-    engagement: 498
-    commentsToLikes: 0.039271
-    id: ck6u8tqt5tmev0j718t1ms6a8
+    followers: 80577
+    engagement: 146
+    commentsToLikes: 0.056636
+    id: ck139vrkxnd1l0i190cx5b532
     verified: false
-    hashtags: "#dirumahaja, #stayathome, #jualjoyrazero, #antikankerotak"
-  - username: "anisamawarn"
+    hashtags: "#homesweethome, #indianwedding, #sparkle, #kurti"
+  - username: "idha019"
     fullname: >-
-      Anisa Mawar ✨Teh Anisa✨
+      𝓘𝓭𝓱𝓪𝓪
     location: "Indonesia"
-    followers: 13284
-    engagement: 1542
-    commentsToLikes: 0.027632
-    id: ck5c7wyhe8cjj0i11s8ijvwfq
+    followers: 6522
+    engagement: 939
+    commentsToLikes: 0.039306
+    id: ckap2rz0v02a30i786t10di96
     verified: false
-    hashtags: "#extremesports, #parapendaki, #kroov, #hiking"
-  - username: "vina.adelia"
+    hashtags: "#koreanstyle, #photooftheday, #magelangeksplore, #beautifulgirls"
+  - username: "kalistaiskandar"
     fullname: >-
-      Adeleee_
+      Kalista Iskandar
     location: "Indonesia"
-    followers: 3108
-    engagement: 2750
-    commentsToLikes: 0.042870
-    id: ck6u1kl5tmavz0j71rt8u8xjy
+    followers: 59460
+    engagement: 1027
+    commentsToLikes: 0.020662
+    id: ck8t030avqnr20j78j3hldo72
     verified: false
-    hashtags: "#exploretemanggung, #haripahlawan, #camerapendaki, #explorewonosobo"
-  - username: "medinakamil"
+    hashtags: "#makeup, #potd, #fashionista, #covid19"
+  - username: "treyytan"
     fullname: >-
-      Medina kamil
+      TRAVEL 🐺 | TREY Y. TAN †
     location: "Indonesia"
-    followers: 218974
-    engagement: 273
-    commentsToLikes: 0.008031
-    id: ck0tztbobrjt80i19qul0czb2
-    verified: true
-    hashtags: "#jalurlinggajati, #lovemyfamily, #thanku2019, #gudangalam"
-  - username: "ridwan_taufik"
-    fullname: >-
-      Ridwan Taufik
-    location: "Indonesia"
-    followers: 5557
-    engagement: 1245
-    commentsToLikes: 0.311842
-    id: ck8sz9dwgnkm10j78crmwuwuk
+    followers: 2602
+    engagement: 1936
+    commentsToLikes: 0.105053
+    id: ck6tjs5ei3bfg0j71xmkdow6x
     verified: false
-    hashtags: "#visitsukabumi, #discoverearth, #thisisindonesia, #explorebandungbarat"
-  - username: "ogik_jatmiko"
+    hashtags: "#outdoors, #prosperity, #ireland, #city"
+  - username: "martyna.chomacka"
     fullname: >-
-      OGIK JATMIKO
+      Martyna Chomacka MasterChef
     location: "Indonesia"
-    followers: 20308
-    engagement: 544
-    commentsToLikes: 0.197110
-    id: ck5bvuwe2kg2a0i111ndxdkcd
+    followers: 26388
+    engagement: 458
+    commentsToLikes: 0.019558
+    id: ck0u642yd10ed0i19u6j5yys1
     verified: false
-    hashtags: "#dontroamstayhome, #dirumahaja, #breathtaking, #forestpath"
-  - username: "sardiniahikes"
+    hashtags: "#dziendobrytvn, #nusapenida, #tattoogirls, #tropicalisland"
+  - username: "alfiyann27"
     fullname: >-
-      Eleonora 🌺 Guida Ambientale
+      Wonosobo || Semarang
     location: "Indonesia"
-    followers: 10319
-    engagement: 640
-    commentsToLikes: 0.058026
-    id: ck5zvrfoa4scp0i142ssbv7iz
+    followers: 6194
+    engagement: 1858
+    commentsToLikes: 0.095430
+    id: ck6ub976r87vp0j71ite4kk2o
     verified: false
-    hashtags: "#pinnettu, #parconazionale, #nuoviinizi, #takemeback"
-  - username: "fadilprakoso_"
+    hashtags: "#indomountain, #vcso, #pakuwaja, #workout"
+  - username: "haibudy"
     fullname: >-
-      fadil prakoso jogja™
+      sobar budi amanu (sim)
     location: "Indonesia"
-    followers: 10795
-    engagement: 1162
-    commentsToLikes: 0.238449
-    id: ck6u4hkf63rfo0j71lx9eetaq
+    followers: 6225
+    engagement: 1054
+    commentsToLikes: 0.087292
+    id: ck14jw4i1mhj90i19tmc351ao
     verified: false
-    hashtags: "#foggy, #scenery, #exploreindonesia, #explorealamindonesia"
+    hashtags: "#etnik, #pictureoftheday, #hitzhuman, #lightroomedits"
+  - username: "jazzy.la.travel.mama"
+    fullname: >-
+      Travel and Motherhood
+    location: "Indonesia"
+    followers: 18064
+    engagement: 285
+    commentsToLikes: 0.204407
+    id: ck5ci1zvprv0c0i11a9vh22wt
+    verified: false
+    hashtags: "#hotelreview, #styleinspo, #toddlerdrinks, #muminspo"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Phoenix In 2020
 description: >-
-  Find top nutrition Instagram influencers in Phoenix in 2020. Most popular hashtags: #fitness #health #workout #fitnessmotivation.
+  Find top nutrition Instagram influencers in Phoenix in 2020. Most popular hashtags: #nutrition #positivevibes #phoenix #workout.
 platform: Instagram
 profiles:
-  - username: "rikkivarney"
+  - username: "anaaleguerra"
     fullname: >-
-      Rikki Varney
+      Ａｎａ Ｇｕｅｒｒａ ✨
     location: "United States"
-    followers: 2613
-    engagement: 424
-    commentsToLikes: 0.047362
-    id: ck0uccvpagnl70i198enqi3vo
-    verified: false
-    hashtags: "#motivationmonday, #repost, #throwbackthursday"
-  - username: "dawsonmofficial"
+    followers: 18746
+    engagement: 304
+    commentsToLikes: 0.047440
+    id: ckaozekjllj4m0i78kgonb334
+    verified: true
+    hashtags: "#friday, #harleydavidson, #bikergirl, #exoticshorthair"
+  - username: "acostafitness"
     fullname: >-
-      Dawson
+      Robert Acosta
     location: "United States"
-    followers: 94657
-    engagement: 580
-    commentsToLikes: 0.061832
-    id: ck5q6rz32ym0z0i11fubgsdr2
+    followers: 18824
+    engagement: 505
+    commentsToLikes: 0.038142
+    id: ck9wdremqgx9y0j78vr0kwsvc
     verified: false
-    hashtags: "#zyzz, #blackandwhite, #treyphotostudio, #dedication"
+    hashtags: "#tripletlife, #storytime, #celebration, #leanmuscle"
   - username: "brandonfitfoodie"
     fullname: >-
       Brandon Budlong
     location: "United States"
-    followers: 117015
-    engagement: 49
-    commentsToLikes: 0.213372
+    followers: 116467
+    engagement: 48
+    commentsToLikes: 0.208512
     id: ck0vxs4wa0fwv0i19dl6uy3mc
     verified: false
-    hashtags: "#brownie, #authenticmexicanfood, #fitfoodie, #notasandwich"
-  - username: "flexingphoebs"
+    hashtags: "#cinnamonrolls, #cinnaholic, #starwars, #cookiedough"
+  - username: "dawsonmofficial"
     fullname: >-
-      Phoebe Davis
+      Dawson
     location: "United States"
-    followers: 12320
-    engagement: 692
-    commentsToLikes: 0.058310
-    id: ck5hf94ruwe260i11tp16qd5o
+    followers: 106579
+    engagement: 628
+    commentsToLikes: 0.062044
+    id: ck5q6rz32ym0z0i11fubgsdr2
     verified: false
-    hashtags: "#teamryderwear, #activewear, #throwbackthursday, #sandiegofitness"
-  - username: "marisajofficial"
+    hashtags: "#hardmagnum, #weighttraining, #instafit, #positive"
+  - username: "ethanjsomers"
     fullname: >-
-      Rip It Tennis | Tennis Coach
+      Ethan Somers
     location: "United States"
-    followers: 26059
-    engagement: 169
-    commentsToLikes: 0.056933
-    id: ck5qa5rg0eooi0i11h6lymr6l
+    followers: 7746
+    engagement: 1272
+    commentsToLikes: 0.040435
+    id: ck0ttx8e74plu0i193nguqu33
     verified: false
-    hashtags: "#notacloudinthesky, #forehand, #footworkchallenge, #20minuteworkout"
-  - username: "elligirlfit"
+    hashtags: "#iamjustairi, #explore, #corona, #followers"
+  - username: "meganannefitness"
     fullname: >-
-      Health & Happiness
+      Ｍｅｇａｎ  Ａｎｎｅ  Ｆｉｔｎｅｓｓ
     location: "United States"
-    followers: 8378
-    engagement: 451
-    commentsToLikes: 0.030081
-    id: ck6tswsk079p20j71397x45cc
+    followers: 16806
+    engagement: 661
+    commentsToLikes: 0.372062
+    id: ck8t0widxtlef0j78xccaqw2t
     verified: false
-    hashtags: "#bodyconfidence, #weightlosstips, #mondaymorning, #fitquote"
-  - username: "podiumdreams"
-    fullname: >-
-      Where IMAGINATION meets ACTION
-    location: "United States"
-    followers: 2522
-    engagement: 961
-    commentsToLikes: 0.043886
-    id: ck6ue3mjsona90j71q63m47t2
-    verified: false
-    hashtags: "#abs, #workhardplayhard, #isthatathing, #spartanrace"
-  - username: "jeremyscottfitness"
-    fullname: >-
-      Jeremy Scott Fitness
-    location: "United States"
-    followers: 323672
-    engagement: 160
-    commentsToLikes: 0.028406
-    id: ck6twxp4rup550j71p9n2bvpz
-    verified: false
-    hashtags: "#footwork, #mobilityexercises, #fitnessgirl, #legworkout"
+    hashtags: "#lift, #truestory, #fitchick, #gymselfies"
   - username: "amymillar"
     fullname: >-
       Amy Millar Vegan HealthCoachⓋ
     location: "United States"
-    followers: 24379
-    engagement: 191
-    commentsToLikes: 0.046725
+    followers: 24534
+    engagement: 189
+    commentsToLikes: 0.052492
     id: ck0w0lghwesve0i195xca6hab
     verified: false
-    hashtags: "#vegansofig, #oneness, #calisthenics, #vortex"
+    hashtags: "#socialdistancing, #burpees, #homegym, #redcarpet"
+  - username: "thibarmy"
+    fullname: >-
+      Christian Thibaudeau
+    location: "United States"
+    followers: 56279
+    engagement: 92
+    commentsToLikes: 0.038590
+    id: ck5zugob02bpj0i14s4b99yvn
+    verified: false
+    hashtags: "#overtraining, #diet, #methods, #fitnessarticle"
+  - username: "jeremyscottfitness"
+    fullname: >-
+      Jeremy Scott Fitness
+    location: "United States"
+    followers: 354500
+    engagement: 199
+    commentsToLikes: 0.019075
+    id: ck6twxp4rup550j71p9n2bvpz
+    verified: false
+    hashtags: "#womenshealth, #macros, #splitsquats, #phoenix"
   - username: "fit.full.life"
     fullname: >-
       Julie
     location: "United States"
-    followers: 7327
-    engagement: 2415
-    commentsToLikes: 0.559087
+    followers: 7589
+    engagement: 2381
+    commentsToLikes: 0.520398
     id: ck6tukukugwtw0j718rwi641a
     verified: false
-    hashtags: "#homegym, #stayhealthy, #rangeofmotion, #acaibowl"
+    hashtags: "#covi, #baree, #fitlife, #vacationmode"
 ---

@@ -1,87 +1,97 @@
 ---
 title: Top 10 Rappers Instagram Influencers In South Africa In 2020
 description: >-
-  Find top rappers Instagram influencers in South Africa in 2020. Most popular hashtags: #killacombo #quantumtour #coronavirus #cottonfest2020.
+  Find top rappers Instagram influencers in South Africa in 2020. Most popular hashtags: #stayhome #southafrica #covid #blackandwhite.
 platform: Instagram
 profiles:
   - username: "kojo_cue"
     fullname: >-
       Ko-Jo Cue
     location: "South Africa"
-    followers: 96798
-    engagement: 168
-    commentsToLikes: 0.022194
+    followers: 99220
+    engagement: 158
+    commentsToLikes: 0.020623
     id: ck5qb8nwzkdcm0i11by18d4qi
     verified: true
-    hashtags: "#bbnz, #worldpremiere, #vgma, #manifestivities19"
+    hashtags: "#keysfromkhaled, #motivationalquotes, #blessings, #lavafeels"
   - username: "mrcashtime"
     fullname: >-
       K.O
     location: "South Africa"
-    followers: 805403
-    engagement: 91
-    commentsToLikes: 0.017943
+    followers: 804701
+    engagement: 94
+    commentsToLikes: 0.020709
     id: ck0u04j63sjif0i19bb2brtcc
     verified: true
-    hashtags: "#wehere, #partnered, #supadupa, #sayuwill"
+    hashtags: "#studentsurvivalguide, #livebetter, #ptyunltd, #supadupa"
   - username: "khulengubane"
     fullname: >-
       Khule Ngubane
     location: "South Africa"
-    followers: 6730
-    engagement: 687
-    commentsToLikes: 0.048666
+    followers: 6763
+    engagement: 626
+    commentsToLikes: 0.048048
     id: ck5cbpfdlfx0t0i11ak3dr6pb
     verified: false
-    hashtags: "#africa, #day5, #hiphop, #creative"
-  - username: "touchline_truth"
+    hashtags: "#boredom, #turnup, #spontaneous, #durban"
+  - username: "cj.biggerman"
     fullname: >-
-      #19Flow
+      Cjbiggerman 🇬🇭
     location: "South Africa"
-    followers: 22824
-    engagement: 491
-    commentsToLikes: 0.079599
-    id: ck5hlrfzbkpz00i11ko81ka86
+    followers: 43625
+    engagement: 248
+    commentsToLikes: 0.024015
+    id: ck1380rmvdxxt0i19bw1nn9gc
     verified: false
-    hashtags: "#rapmusic, #theboxfreestyle, #lockdown, #selfisolation"
-  - username: "espiquet"
+    hashtags: "#gigigichallenge, #nweworldwide, #coronadance, #kigalirwanda"
+  - username: "seangoesnatural"
     fullname: >-
-      #AIRPLANEMODE 🛩
+      Hair,Skin+Kinda Adulting|Sean
     location: "South Africa"
-    followers: 5859
-    engagement: 480
-    commentsToLikes: 0.031236
-    id: ck5cimvndsy9s0i11ngwow23f
+    followers: 2717
+    engagement: 1189
+    commentsToLikes: 0.216280
+    id: ck6u39s65wk240j71e8ku32l4
     verified: false
-    hashtags: "#hf, #rap, #flightmode, #cf2020"
-  - username: "therealnigist"
+    hashtags: "#plants, #skincare, #bossbabe, #heforshe"
+  - username: "thatdamnvandal"
     fullname: >-
-      Hanna
+      DAMN VANDAL
     location: "South Africa"
-    followers: 47552
-    engagement: 837
-    commentsToLikes: 0.020778
-    id: ck6tz4o4i7lnz0j714e7myyt5
+    followers: 10108
+    engagement: 396
+    commentsToLikes: 0.039424
+    id: ck8svw1i4cwto0j785pmqao89
     verified: false
-    hashtags: "#quarantlean, #nohands, #nohandschallenge, #curequarantine"
+    hashtags: "#skullart, #plastidip, #dyno, #racing"
   - username: "scottmtbracing"
     fullname: >-
       SCOTT-SRAM MTB Racing Team
     location: "South Africa"
-    followers: 146953
-    engagement: 413
-    commentsToLikes: 0.002463
+    followers: 149392
+    engagement: 361
+    commentsToLikes: 0.004452
     id: ck0ucb8fbgfq30i19oqt2dg5g
     verified: false
-    hashtags: "#bikeonscott, #keepyourheadup, #rockshoxsid, #staystrong"
-  - username: "creators.live"
+    hashtags: "#rockshoxsidsl, #rockshoxsiddelux, #sramroad, #scottspark"
+  - username: "courtnae_paul"
     fullname: >-
-      Creators Live 🔥🔥🇿🇦
+      COURTNAÉ PAUL
     location: "South Africa"
-    followers: 8114
-    engagement: 507
-    commentsToLikes: 0.038023
-    id: ck55ovn4l98240i112uqepwe1
+    followers: 33998
+    engagement: 240
+    commentsToLikes: 0.044895
+    id: ck6tqi3gdrld50j71pyanirxq
     verified: false
-    hashtags: "#fashion, #2020, #creatorslive, #joburg"
+    hashtags: "#stayhome, #withme, #africaday, #fnb"
+  - username: "ashtonpienaar"
+    fullname: >-
+      Ashton Travel & Fitness
+    location: "South Africa"
+    followers: 127202
+    engagement: 338
+    commentsToLikes: 0.152602
+    id: ck5hhd5af7m870i114z7i6j6m
+    verified: true
+    hashtags: "#comics, #tshirt, #mountaineer, #suitup"
 ---

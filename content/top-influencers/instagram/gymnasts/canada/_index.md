@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In Canada In 2020
 description: >-
-  Find top gymnasts Instagram influencers in Canada in 2020. Most popular hashtags: #gymnastics #fitness #dance #athlete.
+  Find top gymnasts Instagram influencers in Canada in 2020. Most popular hashtags: #gymnastics #dance #fashion #handstand.
 platform: Instagram
 profiles:
-  - username: "_raychkay"
+  - username: "prettymuchava"
     fullname: >-
-      Rachel Kenney🏋🏼‍♀️☠️
+      Ava Mabel
     location: "Canada"
-    followers: 123601
-    engagement: 529
-    commentsToLikes: 0.015980
-    id: ck0w4scr4068x0i19egc4lbup
+    followers: 5311
+    engagement: 1035
+    commentsToLikes: 0.050835
+    id: ck55li5901mlm0i11hjk5i0iz
     verified: false
-    hashtags: "#backintheusa, #quarentine, #coffeeaddict, #positivity"
+    hashtags: "#fashion, #stage, #circusworld, #zigzag"
   - username: "axel_augis"
     fullname: >-
       Axl 🙈🙉🙊
     location: "Canada"
-    followers: 7458
-    engagement: 647
-    commentsToLikes: 0.011138
+    followers: 7243
+    engagement: 668
+    commentsToLikes: 0.011270
     id: ck6ui331dcrzc0j71bnp40331
     verified: false
-    hashtags: "#nature, #insep, #virus, #picture"
+    hashtags: "#game, #paris, #nwar, #louvre"
+  - username: "gymnasticsshoutouts"
+    fullname: >-
+      Gymnastics/Dance/Cheer/Fitness
+    location: "Canada"
+    followers: 255472
+    engagement: 94
+    commentsToLikes: 0.005936
+    id: ck139p0f7mf0s0i19zumh99ex
+    verified: false
+    hashtags: "#christmas, #dance, #snow, #circus"
   - username: "ashwatson92"
     fullname: >-
       Ashley Watson
     location: "Canada"
-    followers: 74655
-    engagement: 869
-    commentsToLikes: 0.008917
+    followers: 74122
+    engagement: 883
+    commentsToLikes: 0.008902
     id: ck14jiws1kl160i19ykx6ddhy
     verified: false
-    hashtags: "#cirqueway, #tbt, #officiallyamazing, #cirquefam"
-  - username: "olessya_dadema"
+    hashtags: "#threemusketeers, #concussed, #underthesamesky, #gsxr600"
+  - username: "kallemaa"
     fullname: >-
-      Gymnastics
+      Carmel Kallemaa
     location: "Canada"
-    followers: 40636
-    engagement: 622
-    commentsToLikes: 0.011307
-    id: ck0tzn9q5r02k0i199jfey0a5
+    followers: 8677
+    engagement: 746
+    commentsToLikes: 0.033741
+    id: ckap05vliovjz0i78vui1m5g2
     verified: false
-    hashtags: "#gymnasticstutorial, #loveyouall, #turns, #giveaway"
+    hashtags: "#torontolife, #mothersday, #stayhome, #glimmerathletic"
+  - username: "ellieblack_"
+    fullname: >-
+      Ellie Black
+    location: "Canada"
+    followers: 59319
+    engagement: 381
+    commentsToLikes: 0.010344
+    id: ckap19tfftnql0i781cmz001f
+    verified: true
+    hashtags: "#mentalhealthawareness, #quarantine, #livingontheedge, #beepic"
+  - username: "actress_ariana4"
+    fullname: >-
+      Ariana Williams
+    location: "Canada"
+    followers: 74744
+    engagement: 624
+    commentsToLikes: 0.012192
+    id: ck9hapxc9dkz00j788n98e87g
+    verified: false
+    hashtags: "#sweatpea, #springtime, #magic, #precious"
   - username: "annalisebjoe"
     fullname: >-
       ANNALISE
     location: "Canada"
-    followers: 56601
-    engagement: 373
-    commentsToLikes: 0.015057
+    followers: 59531
+    engagement: 443
+    commentsToLikes: 0.014737
     id: ck0w3mr5vu7a70i19aru7eykq
     verified: false
-    hashtags: "#nationalpancakeday, #madeforthislife, #untiltomorrow"
+    hashtags: "#madeforthislife, #untiltomorrow"
+  - username: "sydneybrown_xo"
+    fullname: >-
+      𝗦𝘆𝗱𝗻𝗲𝘆 𝗕𝗿𝗼𝘄𝗻
+    location: "Canada"
+    followers: 161541
+    engagement: 208
+    commentsToLikes: 0.019994
+    id: ck55o72j67rvo0i1113qd587b
+    verified: false
+    hashtags: "#stayhome, #gymnastics, #handstand, #earthday"
   - username: "alissesfitness"
     fullname: >-
       Alisse | Health & Fitness
     location: "Canada"
-    followers: 5716
-    engagement: 779
-    commentsToLikes: 0.363549
+    followers: 5251
+    engagement: 859
+    commentsToLikes: 0.354554
     id: ck8t4fmvv6m7d0j783a7wisfe
     verified: false
-    hashtags: "#staysafe, #homefitness, #fullbodyworkout, #legday"
-  - username: "sophiadiamond"
-    fullname: >-
-      Sophia Diamond 🇷🇺
-    location: "Canada"
-    followers: 1290982
-    engagement: 957
-    commentsToLikes: 0.007865
-    id: ck8wef1e6dypn0j787lpu4uel
-    verified: false
-    hashtags: "#covid19, #music, #dancechallenge, #savage"
-  - username: "athleticfitworld"
-    fullname: >-
-      ⚡️AMAZING ATHLETICS ⚡️
-    location: "Canada"
-    followers: 10428
-    engagement: 855
-    commentsToLikes: 0.051772
-    id: ck0u2eik5zo8g0i19ojoa2zfy
-    verified: false
-    hashtags: "#forearmbalance, #orangetheoryfitness, #boxjump, #pullupbar"
-  - username: "mia.schierau"
-    fullname: >-
-      мια∂αηcεя2011 ~~ Parent Owned
-    location: "Canada"
-    followers: 16304
-    engagement: 642
-    commentsToLikes: 0.310564
-    id: ck15rl8448gwb0i19usj58jao
-    verified: false
-    hashtags: "#dancemagazine, #arstheticedits, #movement, #tiktokmemes"
-  - username: "ksfitness1"
-    fullname: >-
-      K r y s t l e 🖤S p e n c e🍑
-    location: "Canada"
-    followers: 43951
-    engagement: 149
-    commentsToLikes: 0.069326
-    id: ck6tui5kzggyw0j71ev8zgtsm
-    verified: false
-    hashtags: "#gymmotivation, #cansperformance, #omlette, #teamsavage"
+    hashtags: "#backday, #staypositive, #tricepdips, #motivation"
 ---

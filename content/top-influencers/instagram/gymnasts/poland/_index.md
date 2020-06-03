@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In Poland In 2020
 description: >-
-  Find top gymnasts Instagram influencers in Poland in 2020. Most popular hashtags: #polishgirl #polskadziewczyna #gymnastics #gymgirl.
+  Find top gymnasts Instagram influencers in Poland in 2020. Most popular hashtags: #gymnastics #sunnyday #gymnastic #instaphoto.
 platform: Instagram
 profiles:
   - username: "lukasz_grzybowski"
     fullname: >-
       Łukasz Grzybowski
     location: "Poland"
-    followers: 70223
-    engagement: 280
-    commentsToLikes: 0.016485
+    followers: 69047
+    engagement: 317
+    commentsToLikes: 0.017776
     id: ck5hq3xvzsgb10i1124zzwopl
     verified: false
-    hashtags: "#energy, #sweet, #kitchen, #sport"
+    hashtags: "#sand, #energydrink, #bulding, #happy"
   - username: "magdalena_radulus"
     fullname: >-
       Magdalena&Radek
     location: "Poland"
-    followers: 23537
-    engagement: 569
-    commentsToLikes: 0.081641
+    followers: 23796
+    engagement: 533
+    commentsToLikes: 0.083607
     id: ck8t8xm74m7rj0j78zy5bsyti
     verified: false
-    hashtags: "#springvibes, #heelsaddict, #morningslikethese, #goodmorning"
-  - username: "mamawspanialej2"
-    fullname: >-
-      ЅᎯℕⅅℛᎯ 🌼
-    location: "Poland"
-    followers: 26582
-    engagement: 357
-    commentsToLikes: 0.075070
-    id: ck13bpd6jwiw10i19h4lm3yes
-    verified: false
-    hashtags: "#nevrosi, #ikeapoland, #wrodziniesi, #kochamnadzycie"
+    hashtags: "#morningvibes, #summertime, #jeans, #model"
   - username: "mama_amelki_i_adasia"
     fullname: >-
       Paulina Wojciechowska
     location: "Poland"
-    followers: 47999
-    engagement: 244
-    commentsToLikes: 0.058683
+    followers: 47775
+    engagement: 267
+    commentsToLikes: 0.056136
     id: ck6tmdw8x7nx70j71vlmdrbq4
     verified: false
-    hashtags: "#utatarow, #pielegnacjatwarzy, #ootdpost, #winter"
-  - username: "patioszka"
+    hashtags: "#kidsfun, #instagood, #winter, #acro"
+  - username: "mama4ki_fitness_instruktor"
     fullname: >-
-      Patrycja Stachera
+      Dorota Zinkel
     location: "Poland"
-    followers: 211118
-    engagement: 195
-    commentsToLikes: 0.036136
-    id: ck5q9wa9jdc0t0i113sxxgog7
+    followers: 8153
+    engagement: 713
+    commentsToLikes: 0.081873
+    id: ckap8mzw3p1xq0i78zlh67vto
     verified: false
-    hashtags: "#konkursy, #zaraoutfit, #phenomenalwoman, #mymind"
-  - username: "zolliete"
+    hashtags: "#babyboy, #heppy, #sportgirl, #trudnesprawy"
+  - username: "justyna.cz"
     fullname: >-
-      Zosia
+      Justyna Czorniak - Leszko
     location: "Poland"
-    followers: 7733
-    engagement: 1131
-    commentsToLikes: 0.104365
-    id: ck8t6zfhof5xr0j78sicuo4ps
+    followers: 43344
+    engagement: 231
+    commentsToLikes: 0.106564
+    id: ck5zrfos5whsw0i14ethzlpll
     verified: false
-    hashtags: "#instabeauty, #dance, #puppy, #gossipgirl"
+    hashtags: "#welurowelove, #oversizetshirt, #shorts, #coffeetime"
   - username: "stefan_eroteev"
     fullname: >-
       Stefan Eroteev
     location: "Poland"
-    followers: 15637
-    engagement: 1075
-    commentsToLikes: 0.018043
+    followers: 15760
+    engagement: 1044
+    commentsToLikes: 0.018351
     id: ck55lrxpv29uw0i11agl6zcpn
     verified: false
-    hashtags: "#calisthenics, #streetworkout, #bulgaria, #photography"
-  - username: "klaudiaeff"
+    hashtags: "#teamortizsw, #homeworkout, #city, #abovetherest"
+  - username: "sandrawlodarczyk"
     fullname: >-
-      💋   Klaudia Figuła   💋
+      Sandra Włodarczyk
     location: "Poland"
-    followers: 35314
-    engagement: 456
-    commentsToLikes: 0.034934
-    id: ck0vyzt8g6lag0i197qzovkjs
+    followers: 34659
+    engagement: 216
+    commentsToLikes: 0.096309
+    id: ck0w46jm8x2d60i196tnuyvxi
     verified: false
-    hashtags: "#beauty, #pinacolada, #ogrod, #kosmetyki"
-  - username: "oliwia_latoszewska"
+    hashtags: "#instagoods, #2020, #eyes, #familytime"
+  - username: "mariakrasowska"
     fullname: >-
-      Oliwia Latoszewska
+      Marysia Krasowska
     location: "Poland"
-    followers: 6005
-    engagement: 3061
-    commentsToLikes: 0.022074
-    id: ck8t81yn9itgn0j78zapd0qku
+    followers: 47838
+    engagement: 818
+    commentsToLikes: 0.012622
+    id: ck0txgqp8j27l0i19jcwbgryh
     verified: false
-    hashtags: "#sunset, #poland, #polishgirl, #goals"
-  - username: "corka_macgyvera"
+    hashtags: "#koronaferie, #zabawa, #smoothie, #akrobatka"
+  - username: "kamilaskorka"
     fullname: >-
-      Ⓜ️aria Ⓜ️archlewska - Poznań
+      Kamila Skórka
     location: "Poland"
-    followers: 187899
-    engagement: 286
-    commentsToLikes: 0.073634
-    id: ck0w2rraupva50i19dxq7qczq
+    followers: 26881
+    engagement: 553
+    commentsToLikes: 0.029716
+    id: ck8t1rfsnwqmo0j78cj3csgxr
     verified: false
-    hashtags: "#wonderwoman, #latexlife, #shortshorts, #zostajewdomu"
+    hashtags: "#fitnessgirl, #foto, #aktywnie, #face"
+  - username: "jakub.pursa"
+    fullname: >-
+      Jakub Pursa
+    location: "Poland"
+    followers: 10881
+    engagement: 710
+    commentsToLikes: 0.069317
+    id: ck8t5yo1sboma0j78rorrwdel
+    verified: false
+    hashtags: "#pytaniena, #telewizja, #zmiananalepsze, #dance"
 ---

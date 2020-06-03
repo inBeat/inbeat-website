@@ -1,16 +1,16 @@
 ---
 title: Top 10 Instagram Influencers In Kuwait In 2020
 description: >-
-  Find top Instagram influencers in Kuwait in 2020. Most popular hashtags: #hudabeauty # #nyxcosmeticsarabia #trends.
+  Find top Instagram influencers in Kuwait in 2020. Most popular hashtags: # #kuwait #tiktok #masakakidsafricana.
 platform: Instagram
 profiles:
   - username: "mohamad1hadi"
     fullname: >-
       محمد هادي
     location: "Kuwait"
-    followers: 2695
-    engagement: 1472
-    commentsToLikes: 0.155289
+    followers: 2704
+    engagement: 1465
+    commentsToLikes: 0.159476
     id: ck15rqm7697fu0i19fykgjml4
     verified: false
     hashtags: "#iraq"
@@ -18,90 +18,90 @@ profiles:
     fullname: >-
       Magato
     location: "Kuwait"
-    followers: 20041
-    engagement: 258
-    commentsToLikes: 0.020232
+    followers: 19729
+    engagement: 265
+    commentsToLikes: 0.024010
     id: ck14iwhfuhhcy0i19s9a2v0ht
     verified: false
-    hashtags: "#demonslayernezuko, #harleyquinnfan, #nintendoswitch, #illustration"
-  - username: "ghrour.safar"
+    hashtags: "#babyyodamemes, #lilium, #copic, #2020"
+  - username: "alsultanarts"
     fullname: >-
-      غرور صفر
+      محمد السلطان
     location: "Kuwait"
-    followers: 454921
-    engagement: 163
-    commentsToLikes: 0.020050
-    id: ck0u2gohezxyw0i19i09p6l3s
+    followers: 60804
+    engagement: 468
+    commentsToLikes: 0.037723
+    id: ck14i2u4vdczn0i19ehlpl1lg
     verified: false
-    hashtags: ""
+    hashtags: "#simplifyyourlife, #kuwaitcity"
   - username: "ali_aljamaly"
     fullname: >-
-      Ali jamaly • علي الجمالي
+      Ali ALJamaly | علي الجمالي
     location: "Kuwait"
-    followers: 45696
-    engagement: 292
-    commentsToLikes: 0.050995
+    followers: 46920
+    engagement: 279
+    commentsToLikes: 0.046001
     id: ck0u6t0nf2x0m0i19qzg7rfxb
     verified: false
-    hashtags: "#soon, #what, #hakanaltun, #kabulet"
-  - username: "pearls.kw"
-    fullname: >-
-      Pearls™
-    location: "Kuwait"
-    followers: 105842
-    engagement: 110
-    commentsToLikes: 0.005428
-    id: ck0vvpjk8q6km0i19p2j2w8sa
-    verified: false
-    hashtags: "#elegance, #trendy, #trends, #details"
-  - username: "kasnms"
-    fullname: >-
-      Khaled Abdullah S.N. Al Sabah
-    location: "Kuwait"
-    followers: 180862
-    engagement: 194
-    commentsToLikes: 0.039266
-    id: ck0vysp265lky0i19ppodvu1g
-    verified: true
-    hashtags: ""
-  - username: "almass.q8"
-    fullname: >-
-      💎ألماس💎
-    location: "Kuwait"
-    followers: 302120
-    engagement: 163
-    commentsToLikes: 0.079336
-    id: ck135zx1r42k70i197ja454xy
-    verified: false
-    hashtags: ""
-  - username: "walidfatam"
-    fullname: >-
-      Walid 🇲🇦
-    location: "Kuwait"
-    followers: 27438
-    engagement: 732
-    commentsToLikes: 0.034650
-    id: ck0u6last299i0i19ejghk53z
-    verified: false
-    hashtags: ""
-  - username: "ahmad_alnufais"
-    fullname: >-
-      أحمد بن عبدالعزيز النفيس
-    location: "Kuwait"
-    followers: 459626
-    engagement: 271
-    commentsToLikes: 0.015920
-    id: ck0w3umxevd6c0i19gt6d09um
-    verified: false
-    hashtags: ""
+    hashtags: "#baglama, #stayhome, #hakanaltun, #veyselsar"
   - username: "maysammakeup"
     fullname: >-
       Maysam
     location: "Kuwait"
-    followers: 67540
-    engagement: 204
-    commentsToLikes: 0.037566
+    followers: 68059
+    engagement: 216
+    commentsToLikes: 0.038723
     id: ck134etoqw3ll0i19zhojws5d
     verified: false
-    hashtags: "#thelist, #wakeupandmakeup, #lauramercier, #hudabeautyshop"
+    hashtags: "#doll10, #narcissist, #abhliquidliner, #eyes"
+  - username: "bento_mommy"
+    fullname: >-
+      Jana Al Ghunaim جنى الغنيم
+    location: "Kuwait"
+    followers: 107194
+    engagement: 54
+    commentsToLikes: 0.067770
+    id: ck0udxol1k70t0i19xvw4lsbb
+    verified: false
+    hashtags: "#kuwait, #dolemiddleeast, #birthdaygirl, #nutella"
+  - username: "ghrour.safar"
+    fullname: >-
+      غرور صفر
+    location: "Kuwait"
+    followers: 491373
+    engagement: 157
+    commentsToLikes: 0.050277
+    id: ck0u2gohezxyw0i19i09p6l3s
+    verified: false
+    hashtags: ""
+  - username: "ahmad_alnufais"
+    fullname: >-
+      أحمد بن عبدالعزيز النفيس
+    location: "Kuwait"
+    followers: 493481
+    engagement: 195
+    commentsToLikes: 0.014656
+    id: ck0w3umxevd6c0i19gt6d09um
+    verified: false
+    hashtags: ""
+  - username: "mamy_ayshaa"
+    fullname: >-
+      Afrobeats + Hiphop
+    location: "Kuwait"
+    followers: 62493
+    engagement: 132
+    commentsToLikes: 0.074247
+    id: ck0w45jepwx8s0i19ge37nirs
+    verified: false
+    hashtags: "#happiness, #simplelife, #anuragray, #kuwait"
+  - username: "tiaelhout"
+    fullname: >-
+      T I ᗩ | تيا الحوت
+    location: "Kuwait"
+    followers: 10031
+    engagement: 659
+    commentsToLikes: 0.049930
+    id: ck0w3ptzfunic0i19if7btinl
+    verified: false
+    hashtags: "#newyoutubechannel, #respect, #profighter, #muaythaicoach"
 ---

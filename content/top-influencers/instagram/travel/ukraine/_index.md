@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top travel Instagram influencers in Ukraine in 2020. Most popular hashtags: #travel #baby #ukraine #me.
+  Find top travel Instagram influencers in Ukraine in 2020. Most popular hashtags: #stayhome #lookoftheday #travel #leia.
 platform: Instagram
 profiles:
-  - username: "dmytro_korn"
-    fullname: >-
-      Дмитро Корнелюк - ВЕДУЧИЙ
-    location: "Ukraine"
-    followers: 40491
-    engagement: 2074
-    commentsToLikes: 0.025183
-    id: ck5c2msr1xk6m0i11nw6ytdqo
-    verified: false
-    hashtags: "#leia, #challenge, #korn, #okko"
   - username: "tame_tiger"
     fullname: >-
       Travel✨Dream✨Love
     location: "Ukraine"
-    followers: 5012
-    engagement: 1967
-    commentsToLikes: 0.045239
+    followers: 4990
+    engagement: 1686
+    commentsToLikes: 0.053261
     id: ck14lhctluofo0i19qr3eyp0c
     verified: false
-    hashtags: "#nocomments, #travel"
-  - username: "anna.nosok"
+    hashtags: "#travel"
+  - username: "pashynskaya"
     fullname: >-
-      Digital influencer
+      
     location: "Ukraine"
-    followers: 203323
-    engagement: 1077
-    commentsToLikes: 0.010733
-    id: ck0twgoa4falv0i190je5sciu
+    followers: 45589
+    engagement: 763
+    commentsToLikes: 0.033726
+    id: ckap7twc6ljmz0i789qna9fax
     verified: false
-    hashtags: "#pillowdress, #quarantinepillowchallenge, #annanosok, #artistrystudio"
-  - username: "marina_mangul"
+    hashtags: "#kitten, #playmate, #coctails, #playboy"
+  - username: "annagirm"
     fullname: >-
-      Marina Filipchuk
+      A.n.n.a G.i.r Malowany 🌺
     location: "Ukraine"
-    followers: 288196
-    engagement: 1967
-    commentsToLikes: 0.010492
-    id: ck0u0e8s3tjiu0i19by7h70cj
+    followers: 6122
+    engagement: 2006
+    commentsToLikes: 0.184386
+    id: ck0tyggvvmppp0i19v8scrgo5
     verified: false
-    hashtags: "#marinamangullook"
-  - username: "nadia_travel"
+    hashtags: "#funmoment, #sweetpotato, #sunglasses, #puppylove"
+  - username: "mariana_oleksik"
     fullname: >-
-      Nadia Sydorenko
+      Mariana Oleksik
     location: "Ukraine"
-    followers: 91013
-    engagement: 1915
-    commentsToLikes: 0.011618
-    id: ck0ty5kmglqbe0i192lq1tfcw
+    followers: 9080
+    engagement: 798
+    commentsToLikes: 0.109645
+    id: ckap27uy6xr8r0i78ntml2otv
     verified: false
-    hashtags: "#shnaiderfamilystory"
-  - username: "anastasia.personagrata"
+    hashtags: ""
+  - username: "lina_grey"
     fullname: >-
-      Anastasia B. Vladimirovna
+      Мама фармацевт
     location: "Ukraine"
-    followers: 142190
-    engagement: 452
-    commentsToLikes: 0.023065
-    id: ck5znptpaoxku0i14xcd6vllk
+    followers: 23578
+    engagement: 408
+    commentsToLikes: 0.089851
+    id: ckap3oknz3vh50i78bxxlu6ff
     verified: false
-    hashtags: "#family, #twins, #tsarsky, #lovelypets"
+    hashtags: "#lina"
   - username: "natalilytvyn"
     fullname: >-
       Наталі Литвин
     location: "Ukraine"
-    followers: 809244
-    engagement: 735
-    commentsToLikes: 0.007723
+    followers: 778234
+    engagement: 580
+    commentsToLikes: 0.020560
     id: ck14ltdcgwdv80i19phx03wal
     verified: false
-    hashtags: "#10, #danissimo, #memoment, #switchitupchallenge"
-  - username: "natashanaffy"
+    hashtags: "#birthday, #stayhome"
+  - username: "marina_mangul"
     fullname: >-
-      N A T A S H A  N A F F Y
+      Marina Filipchuk
     location: "Ukraine"
-    followers: 103509
-    engagement: 163
-    commentsToLikes: 0.041096
-    id: ck0twgn3yfagb0i19u7bts8k6
+    followers: 280976
+    engagement: 1640
+    commentsToLikes: 0.013974
+    id: ck0u0e8s3tjiu0i19by7h70cj
     verified: false
-    hashtags: "#parfum, #crushedlipcolor, #armanisi, #manicure"
-  - username: "stefanivalerievna"
+    hashtags: "#marinamangullook"
+  - username: "mila_korneli"
     fullname: >-
-      nature is my medicine
+      Людмила Корнелюк
     location: "Ukraine"
-    followers: 42618
-    engagement: 558
-    commentsToLikes: 0.022776
-    id: ck6ugd1k72ar60j71gw1wnflv
+    followers: 106083
+    engagement: 1253
+    commentsToLikes: 0.015868
+    id: ck5c2mseyxk5d0i114gpdout8
     verified: false
-    hashtags: "#modelstockholm, #amazing, #pretty, #stockholm"
-  - username: "giorgosgiol"
+    hashtags: "#switchchallenge, #pamperspartnership, #pampers, #lookoftheday"
+  - username: "dmytro_korn"
     fullname: >-
-      Giorgos Gioltzoglou
+      Дмитро Корнелюк - ВЕДУЧИЙ
     location: "Ukraine"
-    followers: 12836
-    engagement: 903
-    commentsToLikes: 0.031825
-    id: ck5pvh8lvhvg70i11ekbyxbw4
+    followers: 41350
+    engagement: 2229
+    commentsToLikes: 0.018295
+    id: ck5c2msr1xk6m0i11nw6ytdqo
     verified: false
-    hashtags: "#globecouples, #travelshot, #visitgreece, #weekend"
+    hashtags: "#baby, #leia, #barbershop, #challenge"
+  - username: "anastasia.personagrata"
+    fullname: >-
+      Anastasia Vladimirovna
+    location: "Ukraine"
+    followers: 156131
+    engagement: 436
+    commentsToLikes: 0.028426
+    id: ck5znptpaoxku0i14xcd6vllk
+    verified: false
+    hashtags: "#infinitylove, #poletricks, #tsarskypeople, #trainingtips"
 ---

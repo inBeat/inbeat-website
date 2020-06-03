@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top makeup Instagram influencers in Venezuela in 2020. Most popular hashtags: #makeup #makeupartist #podermua #venezuela.
+  Find top makeup Instagram influencers in Venezuela in 2020. Most popular hashtags: #naturalmakeup #makeup #beauty #foxyeyes.
 platform: Instagram
 profiles:
-  - username: "aviamonte"
+  - username: "mariana.nasser.a"
     fullname: >-
-      Alejandra Viamonte
+      Mariana Nasser
     location: "Venezuela"
-    followers: 8363
-    engagement: 1652
-    commentsToLikes: 0.079929
-    id: ck6031ijikh3x0i14mctxw2th
+    followers: 3604
+    engagement: 1483
+    commentsToLikes: 0.151111
+    id: ck6ti440n002t0j71nv13wp35
     verified: false
-    hashtags: "#facebook, #hair, #fashionblogger, #roses"
+    hashtags: "#islobodianik, #smokeyeye, #bestbeautytop, #kindcomments"
   - username: "alexmagomakeup"
     fullname: >-
       Makeup|Bridal specialist
     location: "Venezuela"
-    followers: 19623
-    engagement: 301
-    commentsToLikes: 0.069475
+    followers: 19786
+    engagement: 319
+    commentsToLikes: 0.077304
     id: ck6tk6s8044070j717ryh888c
     verified: false
-    hashtags: "#portrait, #makeuplovers, #lecheria, #glambridalclass"
-  - username: "makeupbymurry"
+    hashtags: "#coronavirus, #makeuptutorialsid, #anastasiabeverlyhills, #makeupoftheday"
+  - username: "emmanuelmakeup"
     fullname: >-
-      Marisabel Van Der Biest
+      Emmanuel Urbina.
     location: "Venezuela"
-    followers: 12140
-    engagement: 512
-    commentsToLikes: 0.135312
-    id: ck5hjpbahh0x70i111sy5wocl
+    followers: 13888
+    engagement: 474
+    commentsToLikes: 0.084818
+    id: ckaorfdx5myrm0i7898aupvok
     verified: false
-    hashtags: "#purcosmetics, #happynewyear, #mehronmakeup, #bridalmakeup"
-  - username: "martinezcmakeup"
+    hashtags: "#cutcrease, #menmakeup, #verano, #2020"
+  - username: "isabelcarolinav"
     fullname: >-
-      MARILEXI MARTINEZ
+      Isαbel Cαrolinα
     location: "Venezuela"
-    followers: 5362
-    engagement: 562
-    commentsToLikes: 0.184786
-    id: ck5cesb8elm380i11f15qy6ih
+    followers: 27554
+    engagement: 168
+    commentsToLikes: 0.119695
+    id: ck55lgnje1it80i11wzq6pc0n
     verified: false
-    hashtags: "#maquillajeartistico, #morpheus8, #soymua, #maquillagem"
-  - username: "podermua"
+    hashtags: "#labiosmordidos, #benefitmexico, #morphebabe, #benebrows"
+  - username: "christell_oficial"
     fullname: >-
-      Se parte del Team Poderoso 💄
+      C͙H͙R͙I͙S͙T͙E͙L͙L͙
     location: "Venezuela"
-    followers: 8765
-    engagement: 490
-    commentsToLikes: 0.600772
-    id: ck6ti473k00920j71mkdt79p4
-    verified: false
-    hashtags: "#teampoderoso, #makeupartist, #makeupvzla, #teampodermua"
+    followers: 211882
+    engagement: 226
+    commentsToLikes: 0.027979
+    id: ck5q5qpnlu4qw0i1184zg16q7
+    verified: true
+    hashtags: "#enfermeria, #sorteo, #jesseyjoy, #aire"
   - username: "mariajglam"
     fullname: >-
       M A R I A    J O S E   G L A M
     location: "Venezuela"
-    followers: 3171
-    engagement: 946
-    commentsToLikes: 0.123688
+    followers: 3521
+    engagement: 1245
+    commentsToLikes: 0.133259
     id: ck5cjbyv2uf030i11nelnz1pn
     verified: false
-    hashtags: "#makeupmorenas, #musuquerida, #halloween2019, #softmakeup"
+    hashtags: "#smokey, #pesta, #colorlashes, #glam"
   - username: "lorermakeup"
     fullname: >-
       Lorena | Makeup Valencia 🇻🇪
     location: "Venezuela"
-    followers: 15895
-    engagement: 141
-    commentsToLikes: 0.191223
+    followers: 15659
+    engagement: 146
+    commentsToLikes: 0.169386
     id: ck5c6n8pk5skk0i11ly56b0ic
     verified: false
-    hashtags: "#makeupvalencia, #soymuavzla, #venezolana, #venezuela"
-  - username: "asvanbeauty"
+    hashtags: "#muaslp, #maquillajequito, #makeupmexico, #makeupsanluis"
+  - username: "makeupbymurry"
     fullname: >-
-      BEAUTY BY ANDREA VAN GRIEKEN
+      Marisabel Van Der Biest | MUA
     location: "Venezuela"
-    followers: 6870
-    engagement: 530
-    commentsToLikes: 0.049727
-    id: ck8tceep6z6sd0j78y6c05h54
+    followers: 12510
+    engagement: 548
+    commentsToLikes: 0.151142
+    id: ck5hjpbahh0x70i111sy5wocl
     verified: false
-    hashtags: "#hudabeauty, #makeupartistvzla, #makeupartist, #muavzla"
-  - username: "alisbele"
+    hashtags: "#wakeupandmakeup, #morphebrushes, #eyeshadow, #halloweenmakeup"
+  - username: "carelquezada"
     fullname: >-
-      Alisbel España
+      C a r e l  Q u e z a d a💕
     location: "Venezuela"
-    followers: 2472
-    engagement: 1323
-    commentsToLikes: 0.066331
-    id: ck5zwzz0a72tz0i14gslyzg6v
+    followers: 8940
+    engagement: 425
+    commentsToLikes: 0.048655
+    id: ck6ud9ysljw7u0j71roknow1s
     verified: false
-    hashtags: "#vida, #feliz, #feriadelsol, #festivaltaurinodeamerica"
-  - username: "itsgardeniia"
+    hashtags: "#makeuphacks, #makeupreview, #labiosrojos, #purplelips"
+  - username: "oskarovskyboyer"
     fullname: >-
-      𝐶𝑜𝑚𝑜 𝐿𝑎 𝐹𝑙𝑜𝑟 🌸
+      Oskar Makeup
     location: "Venezuela"
-    followers: 3705
-    engagement: 995
-    commentsToLikes: 0.192280
-    id: ck6031hw7kh1o0i14cw6m7kxa
+    followers: 48304
+    engagement: 250
+    commentsToLikes: 0.050602
+    id: ck5ch4fa4q3810i11130dgmqo
     verified: false
-    hashtags: "#events, #valentinesdaymakeuplook, #diadelamorylaamistad, #event"
+    hashtags: "#centroamerica, #brideedition, #timessquare, #makeupforever"
 ---

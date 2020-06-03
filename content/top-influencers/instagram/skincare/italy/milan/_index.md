@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Milan In 2020
 description: >-
-  Find top skincare Instagram influencers in Milan in 2020. Most popular hashtags: #milano #milan #beauty #iorestoacasa.
+  Find top skincare Instagram influencers in Milan in 2020. Most popular hashtags: #skincare #milano #milan #beautycare.
 platform: Instagram
 profiles:
-  - username: "valentinaforchetta"
+  - username: "_federicaiacono"
     fullname: >-
-      ᴠᴀʟᴇɴᴛɪɴᴀ ғᴏʀᴄʜᴇᴛᴛᴀ
+      🎀Fᴇᴅᴇʀɪᴄᴀ🎀😎
     location: "Italy"
-    followers: 113017
-    engagement: 72
-    commentsToLikes: 0.046375
-    id: ck138wxteifad0i19b6g7z878
+    followers: 47655
+    engagement: 189
+    commentsToLikes: 0.180155
+    id: ckapa9s46vazg0i788mppepjz
     verified: false
-    hashtags: "#nuvole, #lovefood, #shadow, #viaggio"
-  - username: "simonascalvinii"
+    hashtags: "#jewellery, #italia, #makeupartist, #skincareaman"
+  - username: "martinaschiaffonati"
     fullname: >-
-      ✨Simona Scalvini ✨
+      Martina Schiaffonati
     location: "Italy"
-    followers: 38118
-    engagement: 391
-    commentsToLikes: 0.041043
-    id: ck8svv14gcss40j78ngz3ksdn
+    followers: 43039
+    engagement: 175
+    commentsToLikes: 0.141496
+    id: ck6u1htudlte10j71appqee7m
     verified: false
-    hashtags: "#ph, #photographer, #instagrammer, #intimissimiofficial"
-  - username: "gresydaniilidis"
+    hashtags: "#creator, #octolyfamily, #christmastime, #lovenashi"
+  - username: "_marieclaire18"
     fullname: >-
-      GRESY
+      Maria Chiara Roto
     location: "Italy"
-    followers: 164765
-    engagement: 135
-    commentsToLikes: 0.010976
-    id: ck0tuiqjr7ccj0i19g2uj5q1l
+    followers: 33378
+    engagement: 83
+    commentsToLikes: 0.047302
+    id: ck8t29xyoyokz0j78jvtpcelm
     verified: false
-    hashtags: "#renutritiv, #love, #happiness, #quarantine"
-  - username: "franci_chelli"
+    hashtags: "#milano, #pantaloncini, #body, #abitolungo"
+  - username: "alessia_923"
     fullname: >-
-      Francesca Chelli
+      🔸🔶💛🐝𝐀𝐋𝐄𝐒𝐒𝐈𝐀🐝💛🔶🔸
     location: "Italy"
-    followers: 82716
-    engagement: 115
-    commentsToLikes: 0.199818
-    id: ck8t9vif9phtp0j78bodzt1dj
+    followers: 10704
+    engagement: 559
+    commentsToLikes: 0.257711
+    id: ckaorztdapia10i78jmah4kaj
     verified: false
-    hashtags: "#staysafe, #diorjeans, #milanesestyle, #lagalenemilano"
-  - username: "arezius"
+    hashtags: "#realestate, #crema, #igers, #like4like"
+  - username: "chellylovesmakeup91"
     fullname: >-
-      Fashion | Beauty | Travel
+      Aracely Garcia
     location: "Italy"
-    followers: 36371
-    engagement: 248
-    commentsToLikes: 0.048226
-    id: ck137gai2bdwz0i19ja00192g
+    followers: 261501
+    engagement: 558
+    commentsToLikes: 0.010313
+    id: ck139knwwlsaw0i19ttfrabmh
     verified: false
-    hashtags: "#beauty, #raveoutfit, #outfitideas4you, #revolveme"
-  - username: "martinachiella"
+    hashtags: "#snob, #underratedmuas, #asmrmakeup, #makeuptherapy"
+  - username: "simonamelani"
     fullname: >-
-      Martinandrea Chiella
+      Simona Melani | The Wardrobe
     location: "Italy"
-    followers: 260172
-    engagement: 181
-    commentsToLikes: 0.020715
-    id: ck6tk3ju73xpj0j716w5e82ol
+    followers: 16762
+    engagement: 275
+    commentsToLikes: 0.053756
+    id: ck6u53h9o7doi0j71oc6rzx7f
     verified: false
-    hashtags: "#cirocyourworld, #unpublished, #makeup, #beautytutorial"
-  - username: "simonafloresta"
+    hashtags: "#trend, #littleblackdress, #bicicletta, #christmas"
+  - username: "ramourso"
     fullname: >-
-      𝚂𝚒𝚖𝚘𝚗𝚊 𝙵𝚕𝚘𝚛𝚎𝚜𝚝𝚊 ✨
+      Ramona Urso
     location: "Italy"
-    followers: 26574
-    engagement: 344
-    commentsToLikes: 0.090584
-    id: ck13anyzorbj00i19iew4d4pd
+    followers: 11498
+    engagement: 1173
+    commentsToLikes: 0.050390
+    id: ck138bzy8fhm50i19q7i484m8
     verified: false
-    hashtags: "#christmasdecorations, #redmoon, #christmasmood, #redoutfits"
-  - username: "benedettarossi.official"
+    hashtags: "#informazione, #inci, #bellezza, #instagram"
+  - username: "valentina_seveso"
     fullname: >-
-      Benedetta Rossi
+      𝒱𝒶𝓁𝑒𝓃𝓉𝒾𝓃𝒶 𝒮𝑒𝓋𝑒𝓈𝑜
     location: "Italy"
-    followers: 197466
-    engagement: 64
-    commentsToLikes: 0.046777
-    id: ck1377bawa5h20i19oqbdye9p
+    followers: 69880
+    engagement: 108
+    commentsToLikes: 0.218725
+    id: ck8t1rdm5wqfv0j78jygbctu1
     verified: false
-    hashtags: "#pastelcolor, #placetobe, #sunnyday, #style"
-  - username: "giusydestefano_"
+    hashtags: "#magazinecover, #fashionjewelry, #milanotoday, #aesthetictumblr"
+  - username: "angystearoom"
     fullname: >-
-      GDS
+      ANGELICA ARDASHEVA GRASSANO
     location: "Italy"
-    followers: 30515
-    engagement: 232
-    commentsToLikes: 0.024874
-    id: ck0vz09gt6nej0i19tv1jugsl
+    followers: 87087
+    engagement: 63
+    commentsToLikes: 0.035455
+    id: ck6tzoe19awdt0j711d6vxn74
     verified: false
-    hashtags: "#hat, #skincare, #pontedeisospiri, #dsneverstop"
-  - username: "natymadpassions"
+    hashtags: "#fashionblogger, #ladydianastyle, #bookreading, #movienight"
+  - username: "sydney052474"
     fullname: >-
-      Natymadpassions
+      Sydney Lifestyle
     location: "Italy"
-    followers: 9504
-    engagement: 552
-    commentsToLikes: 0.164022
-    id: ck14ipekjgkb10i196b0qo57k
+    followers: 3405
+    engagement: 2639
+    commentsToLikes: 0.116250
+    id: ck8tbxx4nxm5o0j786fejs8ge
     verified: false
-    hashtags: "#italianbeauty, #brushescleaner, #iloveshoes, #zarawoman"
+    hashtags: "#giornatebelle, #pastryporn, #cosm, #chebont"
 ---

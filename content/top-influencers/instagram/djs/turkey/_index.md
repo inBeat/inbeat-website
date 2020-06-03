@@ -1,107 +1,107 @@
 ---
 title: Top 10 Djs Instagram Influencers In Turkey In 2020
 description: >-
-  Find top djs Instagram influencers in Turkey in 2020. Most popular hashtags: #istanbul #dj #deephouse #tbt.
+  Find top djs Instagram influencers in Turkey in 2020. Most popular hashtags: #evdekal #bayram #corona #evindekalt.
 platform: Instagram
 profiles:
   - username: "djsafirofficial"
     fullname: >-
       🎧DJ SAFİR
     location: "Turkey"
-    followers: 48631
-    engagement: 231
-    commentsToLikes: 0.032675
+    followers: 48286
+    engagement: 311
+    commentsToLikes: 0.024080
     id: ck139ikuzlhh00i19595hy544
     verified: false
-    hashtags: "#pendik, #bodensee, #dudullu, #evdekalt"
-  - username: "edyramusic"
-    fullname: >-
-      Erol Dinçer Rahmet
-    location: "Turkey"
-    followers: 12992
-    engagement: 752
-    commentsToLikes: 0.031329
-    id: ck600bthgdb0l0i143ii6u0gd
-    verified: false
-    hashtags: "#music, #producer, #techno, #hightech"
+    hashtags: "#bodensee, #dudullu, #ramazanbayram, #bayram"
   - username: "mehmetcan_mincinozlu"
     fullname: >-
       Mehmetcan Mincinozlu
     location: "Turkey"
-    followers: 38571
-    engagement: 493
-    commentsToLikes: 0.012527
+    followers: 43446
+    engagement: 574
+    commentsToLikes: 0.015154
     id: ck8sz7400ncc50j78jymur6vf
     verified: false
-    hashtags: "#tbt, #bizimhikaye, #turkishactors, #goodvibes"
-  - username: "djserkankar"
+    hashtags: "#turkishactors, #djset, #repost, #kieranhurley"
+  - username: "mansurark"
     fullname: >-
-      djserkankar
+      Mansur Ark
     location: "Turkey"
-    followers: 55762
-    engagement: 69
-    commentsToLikes: 0.037841
-    id: ck14l8x3ftfme0i19pit8yg8s
+    followers: 19295
+    engagement: 320
+    commentsToLikes: 0.085404
+    id: ck8t09tv5rbpm0j78d7ki6sdj
     verified: false
-    hashtags: "#moscow, #kiev, #deephouse, #vinyl"
+    hashtags: "#afrohousemusic, #melodictechno, #djyasinark, #terracemix"
+  - username: "sezyum"
+    fullname: >-
+      sezyum
+    location: "Turkey"
+    followers: 36838
+    engagement: 312
+    commentsToLikes: 0.017132
+    id: ck14gsu086un30i19nh3gz7bg
+    verified: false
+    hashtags: "#kedipi, #vapurizma, #thething, #johncarpenter"
   - username: "djfunkycmusic"
     fullname: >-
       Cem Nadiran
     location: "Turkey"
-    followers: 27814
-    engagement: 556
-    commentsToLikes: 0.039819
+    followers: 28408
+    engagement: 484
+    commentsToLikes: 0.032447
     id: ck134sf03xz160i19d1r1o37f
     verified: false
-    hashtags: "#kicks, #nike, #djsoundcheck, #funkyc"
-  - username: "burgacali"
+    hashtags: "#oscarandthewolf, #solanchedelarosa, #happy, #mutluyilkar2019"
+  - username: "tuba_luleci_alacam"
     fullname: >-
-      Ali Burgaç
+      Tuba Luleci Alacam
     location: "Turkey"
-    followers: 21408
-    engagement: 240
-    commentsToLikes: 0.022844
-    id: ck6u8r7kht73s0j71y6i1cqed
+    followers: 5570
+    engagement: 602
+    commentsToLikes: 0.040643
+    id: ckaosjf2trqyl0i78jq4xaam1
     verified: false
-    hashtags: "#goodvibes, #tbt, #deephouse, #albintalshalabiya"
+    hashtags: "#tvyay, #djyayin, #djvideo, #gezgin"
   - username: "serdarayyildiz_"
     fullname: >-
       SERDAR AYYILDIZ
     location: "Turkey"
-    followers: 18916
-    engagement: 769
-    commentsToLikes: 0.011474
+    followers: 18377
+    engagement: 818
+    commentsToLikes: 0.012906
     id: ck13b96plubos0i19d761zwf5
     verified: false
-    hashtags: "#serdarayyildiz, #munich, #turkcepop, #djpippi"
+    hashtags: "#grosvenorhouse, #deephouse, #korktumdeseydin, #parcasiyim"
   - username: "vuralmusic"
     fullname: >-
       
     location: "Turkey"
-    followers: 44332
-    engagement: 475
-    commentsToLikes: 0.104103
+    followers: 65606
+    engagement: 308
+    commentsToLikes: 0.106385
     id: ck6u8gsfsrhxz0j71k3vtd2x9
     verified: false
-    hashtags: "#stiling, #photography, #yedinciko, #hayrola"
-  - username: "gamzelinursen"
+    hashtags: "#susma, #yedinciko, #hayrola, #istanbul"
+  - username: "ismailyk"
     fullname: >-
-      🌹NURSEN🌹
+      İsmail YK
     location: "Turkey"
-    followers: 608874
-    engagement: 235
-    commentsToLikes: 0.064068
-    id: ck1346mwzuywr0i19m18a24fc
-    verified: false
-    hashtags: "#tbt"
-  - username: "sudesudemirelofficial"
+    followers: 536165
+    engagement: 493
+    commentsToLikes: 0.037870
+    id: ck0vuyiqpmq9y0i197ls5643u
+    verified: true
+    hashtags: "#imparator, #ibrahimtatl, #bayram, #ikibinyirmi"
+  - username: "armin.darbuka.music"
     fullname: >-
-      sudesu demirel
+      ARMIN.DARBUKA.MUSIC
     location: "Turkey"
-    followers: 31407
-    engagement: 225
-    commentsToLikes: 0.093966
-    id: ck5ca2qshcl140i11atatabbq
+    followers: 11446
+    engagement: 584
+    commentsToLikes: 0.521901
+    id: ck9why4yzzzpp0j78j2tfezh9
     verified: false
-    hashtags: "#holanda, #photo, #specialdesings, #modac"
+    hashtags: "#luxury, #emarat, #bato, #photography"
 ---

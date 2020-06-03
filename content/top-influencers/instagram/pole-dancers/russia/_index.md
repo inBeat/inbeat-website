@@ -1,9 +1,19 @@
 ---
 title: Top 10 Pole Dancers Instagram Influencers In Russia In 2020
 description: >-
-  Find top pole dancers Instagram influencers in Russia in 2020. Most popular hashtags: #poledance #poledancer #exoticpoledancer #exoticpole.
+  Find top pole dancers Instagram influencers in Russia in 2020. Most popular hashtags: #poledancer #pole #polesport #poletrick.
 platform: Instagram
 profiles:
+  - username: "marinkanahalka"
+    fullname: >-
+      I Was Born To Make You Happy
+    location: "Russia"
+    followers: 20082
+    engagement: 250
+    commentsToLikes: 0.023523
+    id: ck0vzevtv8rrg0i19k1f4ho5f
+    verified: false
+    hashtags: "#poledancegirl, #exoticroutine, #staybeautiful, #polegirls"
   - username: "alyona_soooul"
     fullname: >-
       POLEDANCE Воронеж🔝
@@ -13,95 +23,85 @@ profiles:
     commentsToLikes: 0.018693
     id: ck5q196yo9vhn0i114bu62f34
     verified: false
-    hashtags: "#antique, #beautifulmodel, #man, #rome"
-  - username: "marinkanahalka"
-    fullname: >-
-      I Was Born To Make You Happy
-    location: "Russia"
-    followers: 19969
-    engagement: 229
-    commentsToLikes: 0.023822
-    id: ck0vzevtv8rrg0i19k1f4ho5f
-    verified: false
-    hashtags: "#exoticpoledancer, #exoticpoledance, #poledanceexotic, #exoticroutine"
+    hashtags: "#goddes, #mood, #antique, #true"
   - username: "ksusha_zefirka"
     fullname: >-
       Ксения Мельник
     location: "Russia"
-    followers: 5570
-    engagement: 543
-    commentsToLikes: 0.061184
+    followers: 5688
+    engagement: 553
+    commentsToLikes: 0.070943
     id: ck6udj0vulduc0j71o3x2vgsj
     verified: false
-    hashtags: "#dancelife, #polejunkie, #blackmood, #pdcombo"
-  - username: "oksanashine"
+    hashtags: "#dancelife, #choreo, #instapoledance, #ilovedance"
+  - username: "ana.erian"
     fullname: >-
-      Оksana Shine
+      Anastasia 〜 アナ
     location: "Russia"
-    followers: 25512
-    engagement: 211
-    commentsToLikes: 0.039878
-    id: ck5c3jn5mzgex0i11g8xcg0vh
+    followers: 14763
+    engagement: 543
+    commentsToLikes: 0.008849
+    id: ckap8evvho0m70i78ppwva1hk
     verified: false
-    hashtags: "#sportgirl, #pole, #dancer, #sochi2020"
-  - username: "oonakofficial"
+    hashtags: "#thesaem, #welcos, #starbucks"
+  - username: "leka_grechanowa"
     fullname: >-
-      Oona Kivelä
+      #Блогер Лёка Гречанова
     location: "Russia"
-    followers: 74927
-    engagement: 202
-    commentsToLikes: 0.023719
-    id: ck13bo64hwcpw0i193l8utusq
-    verified: true
-    hashtags: "#hope, #poledancer, #unitedbypole, #muru"
-  - username: "anna_kurnyakova"
-    fullname: >-
-      ᴀɴɴᴀ ᴋᴜʀɴʏᴀᴋᴏᴠᴀ
-    location: "Russia"
-    followers: 29506
-    engagement: 248
-    commentsToLikes: 0.036914
-    id: ck13c7byzyyol0i19k25u07qo
+    followers: 45698
+    engagement: 77
+    commentsToLikes: 0.125525
+    id: ck6u6dk9tez010j71mjssdnsy
     verified: false
-    hashtags: "#summrtime, #moscow, #fatheridol, #summervibes"
-  - username: "kris_brodetskaya"
+    hashtags: "#poledance, #polesport, #poledancer, #polefitness"
+  - username: "scarlett_o_hara_poledancer"
     fullname: >-
-      Kris Bro
+      Татьяна Курочкина, 34 years
     location: "Russia"
-    followers: 30796
-    engagement: 205
-    commentsToLikes: 0.039951
-    id: ck6tlnlto6akm0j71qur9fqxt
+    followers: 29748
+    engagement: 235
+    commentsToLikes: 0.106847
+    id: ck8t9u28npctb0j78p7lqvezb
     verified: false
-    hashtags: "#motivation, #pole, #sport, #kris"
-  - username: "instchaoss"
-    fullname: >-
-      Stanislav Perov
-    location: "Russia"
-    followers: 7857
-    engagement: 607
-    commentsToLikes: 0.036874
-    id: ck13c7eq3yz3p0i19tnqwxqum
-    verified: false
-    hashtags: "#sportsmodel, #nightclub, #exoticpolevideo, #darkmusic"
+    hashtags: "#exoticworkshop, #aerialdance, #valentines, #spbgirl"
   - username: "sidorova_poledance"
     fullname: >-
       𝐍𝐀𝐒𝐓𝐀𝐒𝐈𝐀 𝐒𝐈
     location: "Russia"
-    followers: 27442
-    engagement: 166
-    commentsToLikes: 0.031648
+    followers: 26984
+    engagement: 150
+    commentsToLikes: 0.048560
     id: ck5hco777j3uj0i11aejh8jyl
     verified: false
-    hashtags: "#poledance, #backbend, #frameupstrip, #frameup"
-  - username: "yuriy.kaza4kin"
+    hashtags: "#splitchallenge, #backbend, #stretchingpose, #homepole"
+  - username: "horror_tattoo"
     fullname: >-
-      Yuriy Kazachkin Pole Dance
+      🗡Horror tattoo🗡
     location: "Russia"
-    followers: 45485
-    engagement: 87
-    commentsToLikes: 0.017825
-    id: ck6tu53n8ecp50j71cguqs31e
+    followers: 29514
+    engagement: 168
+    commentsToLikes: 0.017122
+    id: ck5bub9f4hh850i11l8fezm3z
     verified: false
-    hashtags: "#poleplay, #poleclass, #polefriends, #polestrong"
+    hashtags: "#tattoocalifornia, #manhattan, #miamitattoo, #stayhome"
+  - username: "mari_platicina"
+    fullname: >-
+      MARI👑Most Emotional Dancer⭐️
+    location: "Russia"
+    followers: 18806
+    engagement: 408
+    commentsToLikes: 0.059836
+    id: ck5ca37c6clxt0i116r9ttu4a
+    verified: false
+    hashtags: "#hotstuff, #feelgoodmusic, #flexygirl, #emotionalabuse"
+  - username: "egor_hit"
+    fullname: >-
+      Egor COACH Churakov
+    location: "Russia"
+    followers: 17357
+    engagement: 181
+    commentsToLikes: 0.122819
+    id: ck5cbwvydgbcu0i11xkp97hxf
+    verified: false
+    hashtags: "#unochallenge, #bboystyle, #streetpole, #starfish"
 ---

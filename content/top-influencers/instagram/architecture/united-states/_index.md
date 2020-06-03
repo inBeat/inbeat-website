@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In United States In 2020
 description: >-
-  Find top architecture Instagram influencers in United States in 2020. Most popular hashtags: #fashion #makeup #streetstyle #love.
+  Find top architecture Instagram influencers in United States in 2020. Most popular hashtags: # #quarantine #zarapoland #tgif.
 platform: Instagram
 profiles:
+  - username: "ludwiggodefroy"
+    fullname: >-
+      Ludwig Godefroy
+    location: "United States"
+    followers: 20516
+    engagement: 492
+    commentsToLikes: 0.015644
+    id: ck13596nc0btj0i19p95klvpa
+    verified: false
+    hashtags: ""
   - username: "sally_altaji"
     fullname: >-
       سالي التاجي
     location: "United States"
-    followers: 9414
-    engagement: 977
-    commentsToLikes: 0.086129
+    followers: 9487
+    engagement: 941
+    commentsToLikes: 0.087291
     id: ck14h8xw794oe0i1950x7561z
     verified: false
-    hashtags: "#saturdaynight, #quarantine, #bloggers, #fashionista"
-  - username: "tiffanyyoko"
+    hashtags: "#sunday, #saturdaynight, #nightlife, #fridaynight"
+  - username: "sarahdeluxe"
     fullname: >-
-      🅨🅞🅚🅞 🅒🅗🅞🅝🅖
+      V A M P Y🩸
     location: "United States"
-    followers: 23541
-    engagement: 345
-    commentsToLikes: 0.078030
-    id: ck6tibr9q0f2o0j71fs7ovpxn
+    followers: 19664
+    engagement: 1020
+    commentsToLikes: 0.025744
+    id: ck8t0z9t5tvx50j7823h62hxw
     verified: false
-    hashtags: "#streetphotography, #tiger, #missperu, #sky"
-  - username: "khosrowart"
+    hashtags: "#gothoutfit, #latex, #selene, #pinup"
+  - username: "mariasamano"
     fullname: >-
-      👑 KHOSRO PHOTOGRAPHY
+      MARIA SAMANO
     location: "United States"
-    followers: 13760
-    engagement: 771
-    commentsToLikes: 0.026150
-    id: ck5zjpqupi0t70i14487e84xh
-    verified: false
-    hashtags: "#istanbul, #onceuponatimeinhollywood, #arts, #fashionnova"
-  - username: "jasonmillerphotography"
-    fullname: >-
-      JASON MILLER
-    location: "United States"
-    followers: 12837
-    engagement: 1346
-    commentsToLikes: 0.266933
-    id: ck8syq68glku00j78v6l1hgbn
-    verified: false
-    hashtags: "#snowland, #sunshinestate, #moodynature, #dronepilot"
-  - username: "simransehrawat"
-    fullname: >-
-      SIMRAN SEHRAWAT
-    location: "United States"
-    followers: 82794
-    engagement: 186
-    commentsToLikes: 0.020723
-    id: ck5zzgiuibp2x0i14ygo7vp6g
-    verified: false
-    hashtags: "#travelling, #summerlookbook, #iphonephotography, #colorfuleyeshadow"
-  - username: "mikee"
-    fullname: >-
-      Mikee Quintos
-    location: "United States"
-    followers: 1181914
-    engagement: 274
-    commentsToLikes: 0.005369
-    id: ck6uflwxtxu9q0j71jy9x6axc
-    verified: true
-    hashtags: "#sharethemagic, #magicmoments, #headandshouldersph, #mikeejoondaig"
-  - username: "weston"
-    fullname: >-
-      Weston
-    location: "United States"
-    followers: 10537
-    engagement: 1174
-    commentsToLikes: 0.072184
-    id: ck5q0kwdq6hmy0i11wqyyay62
+    followers: 3205
+    engagement: 2229
+    commentsToLikes: 0.082551
+    id: ck8wghhy5hdiu0j785udxrddi
     verified: false
     hashtags: ""
-  - username: "benvolt"
+  - username: "noellegoulding"
     fullname: >-
-      BEN VOLT
+      Noelle Goulding
     location: "United States"
-    followers: 84017
-    engagement: 276
-    commentsToLikes: 0.006833
-    id: ck5hhupa8a65i0i112d3smnp2
+    followers: 4094
+    engagement: 3207
+    commentsToLikes: 0.043778
+    id: ck6tizpuo1qn50j717jrlqhdi
     verified: false
-    hashtags: "#blackwork, #tattoo, #tattoos, #posttribalarchitecture"
-  - username: "hermajestybuilds"
+    hashtags: ""
+  - username: "dariianka"
     fullname: >-
-      Her Majesty Builds
+      𝐷𝐴𝑅𝐼𝐴 🤍
     location: "United States"
-    followers: 5790
-    engagement: 1185
-    commentsToLikes: 0.112831
-    id: ck8t9mkrfommu0j78pr12g6uw
+    followers: 28784
+    engagement: 487
+    commentsToLikes: 0.033879
+    id: ck5hq3gvssfjv0i119w6w2lvq
     verified: false
-    hashtags: "#sims4"
-  - username: "stanish.stanishev"
+    hashtags: "#zarainspired, #flowergram, #warszawa, #sweaterweather"
+  - username: "pegah.diaryy"
     fullname: >-
-      Stano
+      🌸پگاه🌸
     location: "United States"
-    followers: 13850
-    engagement: 1065
-    commentsToLikes: 0.163773
-    id: ck5q4aw9ooekt0i11dyqpwvay
+    followers: 12208
+    engagement: 1881
+    commentsToLikes: 0.012233
+    id: ck9wio5xb35zw0j78gh1fvyd6
     verified: false
-    hashtags: "#arkiminimal, #lookingup, #picturetokeep, #passionpassport"
+    hashtags: ""
+  - username: "fiftyshadesofstyle_bysarv"
+    fullname: >-
+      ❥ ⋆𝒮𝒶𝓇𝓋𝑒𝓃𝒶𝓏•𝐿𝒾𝒻𝑒𝓈𝓉𝓎𝓁𝑒 𝒷𝓁𝑜𝑔𝑔𝑒𝓇
+    location: "United States"
+    followers: 3057
+    engagement: 1016
+    commentsToLikes: 0.377762
+    id: ck8tc7lseyksa0j78tb5ynqqi
+    verified: false
+    hashtags: "#birdseyevegetables, #veggiesgetversatile, #ad, #sponsored"
+  - username: "the_arguer"
+    fullname: >-
+      
+    location: "United States"
+    followers: 16367
+    engagement: 681
+    commentsToLikes: 0.028532
+    id: ckap66qyqen1a0i781aq3h8db
+    verified: false
+    hashtags: "#travelgram, #flex, #nature, #lifeisgood"
+  - username: "kylebrks"
+    fullname: >-
+      Kyle Brooks
+    location: "United States"
+    followers: 4411
+    engagement: 2326
+    commentsToLikes: 0.032904
+    id: ckapc84hu2sah0i787hk27ziy
+    verified: false
+    hashtags: ""
 ---

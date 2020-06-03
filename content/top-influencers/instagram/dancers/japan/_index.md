@@ -1,107 +1,107 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Japan In 2020
 description: >-
-  Find top dancers Instagram influencers in Japan in 2020. Most popular hashtags: #cyberjapan #dancer #newhair #love.
+  Find top dancers Instagram influencers in Japan in 2020. Most popular hashtags: #stayhome #dance #japan #stateyourcase.
 platform: Instagram
 profiles:
   - username: "alan_shirahama_official"
     fullname: >-
       Alan Shirahama 白濱亜嵐
     location: "Japan"
-    followers: 1402341
-    engagement: 1339
-    commentsToLikes: 0.017159
+    followers: 1428834
+    engagement: 1324
+    commentsToLikes: 0.018446
     id: ck14j37wniejg0i19u21iui1f
     verified: true
-    hashtags: "#voguegirl, #exile, #24karats, #generations"
-  - username: "madhuri.chavan7"
+    hashtags: "#24karats, #exile, #generations"
+  - username: "miku_enamiku"
     fullname: >-
-      Madhuri Chavan
+      MIKU🎀CYBERJAPAN
     location: "Japan"
-    followers: 7702
-    engagement: 993
-    commentsToLikes: 0.078565
-    id: ck15q0f1p0hzj0i197nafgoir
+    followers: 25487
+    engagement: 1421
+    commentsToLikes: 0.041890
+    id: ck8t6ex0zdcrn0j784186lmb1
     verified: false
-    hashtags: "#bollywooddanceroutine, #universalstudiosjapanosaka, #sesamestreetbollywood, #usj"
-  - username: "cjd_junon"
-    fullname: >-
-      🌐✩--💙JUNON🦋--✩💎
-    location: "Japan"
-    followers: 357808
-    engagement: 371
-    commentsToLikes: 0.029343
-    id: ck6uc23ked1n70j71zmclk05s
-    verified: false
-    hashtags: "#youtube, #tommyfilfiger, #spicychocolate, #newhair"
+    hashtags: ""
   - username: "rika_534"
     fullname: >-
       RIKA
     location: "Japan"
-    followers: 6563
-    engagement: 1227
-    commentsToLikes: 0.059042
+    followers: 11654
+    engagement: 1428
+    commentsToLikes: 0.034461
     id: ck6uc235rd1ky0j7125yw9iqs
     verified: false
-    hashtags: "#naturalmake, #yakitori, #dancer, #japanesegirl"
-  - username: "letso.m"
+    hashtags: "#skincare, #yukata, #pancakes, #refresh"
+  - username: "miki0000000000"
     fullname: >-
-      ＴＳＨＩＲＥＬＥＴＳＯ    Ｍ Ａ Ｄ Ｕ Ｍ Ｏ 🇿🇦
+      🔆poledancer_miki🔆
     location: "Japan"
-    followers: 3608
-    engagement: 2978
-    commentsToLikes: 0.057198
-    id: ck5hlmnsskhgy0i116rq0hgat
+    followers: 33078
+    engagement: 686
+    commentsToLikes: 0.037628
+    id: ckap6xki3hs2l0i783gsdwkva
     verified: false
-    hashtags: "#redbattechkick"
-  - username: "nikolaibalbon"
+    hashtags: "#photography, #shingapore, #japanp, #dancer"
+  - username: "cjd_junon"
     fullname: >-
-      Nikolai Balbon
+      🌐✩--💙JUNON🦋--✩💎
     location: "Japan"
-    followers: 10233
-    engagement: 1241
-    commentsToLikes: 0.019251
-    id: ck5bwhwkdlqgk0i11uwuytp2g
+    followers: 364803
+    engagement: 433
+    commentsToLikes: 0.029927
+    id: ck6uc23ked1n70j71zmclk05s
     verified: false
-    hashtags: "#tiktok, #urbantiktok, #injuredchoreography, #zer"
-  - username: "cjd_rio"
+    hashtags: "#ootd, #17live, #balenciaga, #elyts"
+  - username: "yu_ta0502"
     fullname: >-
-      RIO
+      YU-TA Akiyama
     location: "Japan"
-    followers: 149079
-    engagement: 570
-    commentsToLikes: 0.017111
-    id: ck6uc229dd1eu0j71evzkwq93
+    followers: 18246
+    engagement: 1315
+    commentsToLikes: 0.016229
+    id: ck14j5p71irdn0i19ocnc8m4a
     verified: false
-    hashtags: "#hifu, #photographer, #styling, #cyberjapan"
+    hashtags: "#ryt200, #lifesaving, #stateyourcase, #nissy"
   - username: "kyoka828"
     fullname: >-
       Kyoka [ Tajiri Kyoka ]
     location: "Japan"
-    followers: 10214
-    engagement: 2680
-    commentsToLikes: 0.016066
+    followers: 10305
+    engagement: 2370
+    commentsToLikes: 0.015523
     id: ck0uaucr2czvx0i19kke2kdkb
     verified: false
-    hashtags: "#mimiclilic, #casetify, #tokyodisneyland, #unodancers"
+    hashtags: "#tokyodisneyland, #one, #claynal, #sponsored"
+  - username: "cjd_rio"
+    fullname: >-
+      RIO
+    location: "Japan"
+    followers: 151945
+    engagement: 587
+    commentsToLikes: 0.016465
+    id: ck6uc229dd1eu0j71evzkwq93
+    verified: false
+    hashtags: "#bikinidelive, #photographer, #styling, #universalmusicjapan"
+  - username: "kami_yeahyellow"
+    fullname: >-
+      Kami
+    location: "Japan"
+    followers: 20215
+    engagement: 722
+    commentsToLikes: 0.026389
+    id: ck0w6bu5m7u310i19le0xry40
+    verified: false
+    hashtags: "#california, #exercises, #covid19, #beijing"
   - username: "50tokyo"
     fullname: >-
       50  （FIFTY）
     location: "Japan"
-    followers: 36341
-    engagement: 1014
-    commentsToLikes: 0.010110
+    followers: 36083
+    engagement: 826
+    commentsToLikes: 0.008702
     id: ck5zvdxls41tz0i14nxevo1dc
     verified: false
-    hashtags: "#wirelessheadphones, #missindependent, #xv, #jlabaudio"
-  - username: "cjd_rina"
-    fullname: >-
-      RINA
-    location: "Japan"
-    followers: 61340
-    engagement: 479
-    commentsToLikes: 0.020967
-    id: ck0w6cnjz7y900i19q8f1xy4l
-    verified: false
-    hashtags: "#newnails, #codenate, #cyberjpan, #like"
+    hashtags: "#sport, #music, #choreography, #rewind"
 ---

@@ -1,79 +1,69 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Chile In 2020
 description: >-
-  Find top dancers Instagram influencers in Chile in 2020. Most popular hashtags: #dance #chile #dancer #cuarentena.
+  Find top dancers Instagram influencers in Chile in 2020. Most popular hashtags: #cuarentena #2020 #tiktok #hiphop.
 platform: Instagram
 profiles:
-  - username: "s3lrojas"
+  - username: "ateezchoisan"
     fullname: >-
-      Selena Rojas
+      For ATEEZ Choi San (최산)
     location: "Chile"
-    followers: 6371
-    engagement: 1348
-    commentsToLikes: 0.032424
-    id: ck6u9g10excgh0j71zmgu9me9
+    followers: 67974
+    engagement: 643
+    commentsToLikes: 0.005420
+    id: ck135abn90i130i19xs7ahnd5
     verified: false
-    hashtags: "#envivo, #body, #maquillaje, #santiagodechile"
+    hashtags: "#atinyselcaday, #choreography, #dance"
   - username: "frvn___"
     fullname: >-
       FRVN
     location: "Chile"
-    followers: 9467
-    engagement: 1235
-    commentsToLikes: 0.021410
+    followers: 10138
+    engagement: 964
+    commentsToLikes: 0.031496
     id: ck5q54d8crbll0i11quhk4m3s
     verified: false
-    hashtags: "#ivyparkxadidas, #bape, #bathingape, #justdancemacchallenge"
-  - username: "ateezchoisan"
+    hashtags: "#shook, #stayhome, #kpop, #quarantine"
+  - username: "ricardoo_vega"
     fullname: >-
-      For ATEEZ Choi San (최산) ♡
+      Ricardo Vega
     location: "Chile"
-    followers: 64647
-    engagement: 817
-    commentsToLikes: 0.004178
-    id: ck135abn90i130i19xs7ahnd5
+    followers: 30542
+    engagement: 391
+    commentsToLikes: 0.007662
+    id: ckap100wesjk80i78z9sw9iux
     verified: false
-    hashtags: "#atiny, #one, #ateez, #choisan"
-  - username: "sandybell.baby"
+    hashtags: "#worldchampion, #cuandoseacabaelplacer, #los4"
+  - username: "lauri.cmg"
     fullname: >-
-      ♡  B͙ A͙ B͙ Y͙  B͙ E͙ L͙ L͙ ♡💘
+      🌬 Laura
     location: "Chile"
-    followers: 7860
-    engagement: 846
-    commentsToLikes: 0.058696
-    id: ck134pi7zxknz0i199tmo9g4m
+    followers: 47575
+    engagement: 313
+    commentsToLikes: 0.009614
+    id: ck5zmph0gmzhd0i14x1yw7nk2
     verified: false
-    hashtags: "#festival2020, #2020, #chile, #vi"
-  - username: "superqueer__"
+    hashtags: "#girl, #espaninglish, #cuarentena, #catlover"
+  - username: "mati.falcon"
     fullname: >-
-      Gabi
+      Matías Falcón Anacona
     location: "Chile"
-    followers: 5660
-    engagement: 742
-    commentsToLikes: 0.033590
-    id: ck5hs6mntw2wf0i111benupph
-    verified: false
-    hashtags: "#atao"
-  - username: "rafaredvolcon"
-    fullname: >-
-      Rafa Redvolcon
-    location: "Chile"
-    followers: 19239
-    engagement: 619
-    commentsToLikes: 0.041386
-    id: ck0w1h6ebjbs70i19id8q4547
-    verified: false
-    hashtags: "#quarentine, #spain, #streetvibes, #madrid"
+    followers: 105824
+    engagement: 441
+    commentsToLikes: 0.024463
+    id: ck13cqa151n280i19a7dkxr4g
+    verified: true
+    hashtags: "#coquimbo, #amor, #laserena, #doglover"
   - username: "sandro_alvarez29"
     fullname: >-
       _coppo_
     location: "Chile"
-    followers: 8063
-    engagement: 627
-    commentsToLikes: 0.035716
+    followers: 7978
+    engagement: 615
+    commentsToLikes: 0.040186
     id: ck6u0xn0ricd40j713r3g3ghs
     verified: false
-    hashtags: "#videoshoot, #photographer, #video, #relax"
+    hashtags: "#unanoche, #videoshot, #focus, #sunday"
   - username: "alemvn"
     fullname: >-
       𝕱𝖆𝖇𝖎𝖆𝖓 𝕺𝖗𝖊𝖑𝖑𝖆𝖓𝖆
@@ -83,25 +73,35 @@ profiles:
     commentsToLikes: 0.038885
     id: ck6u9g08kxcca0j71689cm8yp
     verified: false
-    hashtags: "#instachile, #chilegram, #dancehallchile, #dancehall"
-  - username: "fernandanahis_"
-    fullname: >-
-      •  FEÑA ROMERO  •
-    location: "Chile"
-    followers: 31370
-    engagement: 535
-    commentsToLikes: 0.016658
-    id: ck5bx5p9mn1xq0i11eq7p0t67
-    verified: false
-    hashtags: "#video, #mugcake, #rauwalejandro, #sech"
+    hashtags: "#premiumclass, #freshbwoy, #sadboy, #dancehallchile"
   - username: "gabo_pinto"
     fullname: >-
       Gabriel Pinto
     location: "Chile"
-    followers: 22298
-    engagement: 370
-    commentsToLikes: 0.085469
+    followers: 22704
+    engagement: 411
+    commentsToLikes: 0.102157
     id: ck14itc3ah2jg0i19eadx0euz
     verified: false
-    hashtags: "#lennytavarez, #daddyyankee, #weird, #latinoamerica"
+    hashtags: "#feid, #labailoencasa, #hiphop, #water"
+  - username: "fernandanahis_"
+    fullname: >-
+      FEÑA ROMERO
+    location: "Chile"
+    followers: 31250
+    engagement: 569
+    commentsToLikes: 0.016645
+    id: ck5bx5p9mn1xq0i11eq7p0t67
+    verified: false
+    hashtags: "#relsb, #yoperreoencasa, #adictochallenge, #dance"
+  - username: "bret.alexander"
+    fullname: >-
+      brett alexander
+    location: "Chile"
+    followers: 5344
+    engagement: 585
+    commentsToLikes: 0.058813
+    id: ck8swv97kfd680j782k77zsr6
+    verified: false
+    hashtags: "#santiago, #coronavid19, #flowcoronavirus, #becauseofyou"
 ---

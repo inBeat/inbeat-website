@@ -1,107 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Miami In 2020
 description: >-
-  Find top stylists Instagram influencers in Miami in 2020. Most popular hashtags: #makeup #model #fashion #stylist.
+  Find top stylists Instagram influencers in Miami in 2020. Most popular hashtags: #stylist #editorial #fitness #datenight.
 platform: Instagram
 profiles:
-  - username: "lawrencepgivens"
+  - username: "xarieller"
     fullname: >-
-      Lawrence P Givens
+      Arielle
     location: "United States"
-    followers: 21193
-    engagement: 100
-    commentsToLikes: 0.073288
-    id: ck14igqfffbfl0i19q94nls3q
+    followers: 26678
+    engagement: 362
+    commentsToLikes: 0.036222
+    id: ckapcm9ut4c160i78zzk5mv64
     verified: false
-    hashtags: "#hair, #bridalfashion, #wbff, #cabo"
-  - username: "alex_eissinger"
+    hashtags: "#earthday, #wellness, #miamiphotographer, #miamimakeupartist"
+  - username: "karenhuggins_blog"
     fullname: >-
-      Alexandria Eissinger 🇩🇰🇺🇸
+      Karen Huggins -Fashion Blogger
     location: "United States"
-    followers: 24835
-    engagement: 283
-    commentsToLikes: 0.034846
-    id: ck5hq5i5jsja60i11jm2gimb2
+    followers: 112717
+    engagement: 102
+    commentsToLikes: 0.352061
+    id: ck55jzeo4y4gg0i111lu1niru
     verified: false
-    hashtags: "#makeuptutorial, #nature, #lensdotme, #mascara"
-  - username: "liandrasalles"
-    fullname: >-
-      LIANDRA SALLES
-    location: "United States"
-    followers: 17320
-    engagement: 177
-    commentsToLikes: 0.068956
-    id: ck55kzrhw0g6m0i11fl4etdc4
-    verified: false
-    hashtags: "#mondays, #essenceyogionthego, #essenceyogi, #nyfw"
-  - username: "jonathanestradanieves"
-    fullname: >-
-      Jonathan Estrada
-    location: "United States"
-    followers: 27775
-    engagement: 260
-    commentsToLikes: 0.010344
-    id: ck5qcbcdwpqxx0i113b6vejn5
-    verified: false
-    hashtags: "#navidadesenpuertorico, #papanoel, #shoppingaddict, #outfitandexplore"
+    hashtags: "#casualoutfits, #newyorkblogger, #puppylove, #outfitinspo"
   - username: "_hairbyritz"
     fullname: >-
       H a i r B y R I T Z 💇🏾‍♀️🇭🇹
     location: "United States"
-    followers: 74839
-    engagement: 570
-    commentsToLikes: 0.008240
+    followers: 74711
+    engagement: 600
+    commentsToLikes: 0.008118
     id: ck13am1q4r1ck0i19r7perq4u
     verified: false
-    hashtags: "#youtubekid, #hairbyritz, #melanin, #naturalhairdaily"
+    hashtags: "#theolibrisfamily, #youtube, #claimit, #mukbang"
   - username: "stylesbyhips"
     fullname: >-
       💜The Purple Head Stylist💜
     location: "United States"
-    followers: 37344
-    engagement: 69
-    commentsToLikes: 0.032565
+    followers: 39616
+    engagement: 76
+    commentsToLikes: 0.038816
     id: ck0vzlbnw9nw60i191t6qytqj
     verified: false
-    hashtags: "#microtwist, #miamibraider, #neatboxbraids, #seneglesetwists"
-  - username: "jlondonostyle"
+    hashtags: "#longsmallboxbraids, #senegalesetwists, #stitchfeedinbraids, #datenight"
+  - username: "aranalac"
     fullname: >-
-      Juanita Londono
+      • LAURA ARANA CASTILLO •
     location: "United States"
-    followers: 95740
-    engagement: 330
-    commentsToLikes: 0.056386
-    id: ck0udwvmvk3b20i19tswvpc6y
+    followers: 15467
+    engagement: 355
+    commentsToLikes: 0.101949
+    id: ck5q9bu30abot0i11twq9s2q3
     verified: false
-    hashtags: "#sobewff, #corsairandsobe, #newpost, #rentimessquare"
-  - username: "brooke_barrera"
+    hashtags: "#longhair, #portraiture, #foodstagram, #engagement"
+  - username: "missrenata"
     fullname: >-
-      Brookie 🍒
+      RENATA BRESCIANI
     location: "United States"
-    followers: 7818
-    engagement: 1333
-    commentsToLikes: 0.023363
-    id: ck6tyux3q601p0j71raik6ptj
+    followers: 21659
+    engagement: 274
+    commentsToLikes: 0.461597
+    id: ck138iua6gfge0i193rhwcjht
     verified: false
-    hashtags: "#thanksgivingdinner, #siswimsuit, #miami, #miamibeach"
-  - username: "abbyrmooring"
+    hashtags: "#datenight, #latinablogger, #spreadlove, #nyctalent"
+  - username: "_xaboveaveragex_"
     fullname: >-
-      ✨ABBY MOORING✨
+      𝔏𝔢𝔦𝔞
     location: "United States"
-    followers: 356145
-    engagement: 316
-    commentsToLikes: 0.002401
-    id: ck15ruq8h9t2s0i19i7uvh1b5
+    followers: 7933
+    engagement: 953
+    commentsToLikes: 0.042270
+    id: ck8taq6zjsnbd0j78ap336h0b
     verified: false
-    hashtags: "#canonphotography, #heyjenlookatme, #wilheminamodels, #body"
-  - username: "leurbanop"
+    hashtags: "#lilbaby, #post, #miamihair, #arroganttae"
+  - username: "soon_magazine_"
     fullname: >-
-      Luis Enrique Urbano
+      SOON Magazine
     location: "United States"
-    followers: 40915
-    engagement: 150
-    commentsToLikes: 0.050386
-    id: ck5c44t0g0m430i117mwkhf1b
+    followers: 32870
+    engagement: 289
+    commentsToLikes: 0.011263
+    id: ck5zrrwgtx5hx0i14wzdvftu3
     verified: false
-    hashtags: "#covid, #home, #sunrise, #viajes"
+    hashtags: "#womenmodels, #forest, #style, #douarnenez"
+  - username: "raw_melanin"
+    fullname: >-
+      Raw Melanin ™
+    location: "United States"
+    followers: 77884
+    engagement: 226
+    commentsToLikes: 0.007870
+    id: ck602izj9hhq50i14mqm47gf4
+    verified: false
+    hashtags: "#highfashion, #editorial, #floridamodels, #crwn"
+  - username: "biancagabay"
+    fullname: >-
+      Bianca • Wardrobe stylist
+    location: "United States"
+    followers: 16902
+    engagement: 154
+    commentsToLikes: 0.090263
+    id: ck55ptcl5bc410i11wdsgp9wk
+    verified: false
+    hashtags: "#nycblogger, #90saesthetic, #bikeride, #veganrecipes"
 ---

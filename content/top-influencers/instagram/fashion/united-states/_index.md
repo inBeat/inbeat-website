@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In United States In 2020
 description: >-
-  Find top fashion Instagram influencers in United States in 2020. Most popular hashtags: #fashion #ltkspring #liketkit #ltkstyletip.
+  Find top fashion Instagram influencers in United States in 2020. Most popular hashtags: #ootdinspiration #ltkunder100 #ltkbeauty #stayhomewithltk.
 platform: Instagram
 profiles:
-  - username: "fashion"
+  - username: "romejohns"
     fullname: >-
-      @fashion
+      Rome Johnson | Style
     location: "United States"
-    followers: 355478
-    engagement: 14
-    commentsToLikes: 0.057609
-    id: ck14l2rrjsk4o0i19aa4wsshj
+    followers: 15044
+    engagement: 4156
+    commentsToLikes: 0.069704
+    id: ck8t1v9nix65e0j78gkeeieo6
     verified: false
-    hashtags: ""
-  - username: "atikhunk"
+    hashtags: "#blackparents, #blackdads, #nicugraduate, #trachbaby"
+  - username: "the__viperhead"
     fullname: >-
-      atikhun
+      A R O 〽️ A L  |  R K
     location: "United States"
-    followers: 12132
-    engagement: 1528
-    commentsToLikes: 0.087035
-    id: ck8wgdyrkh6ak0j78wi7pv577
+    followers: 3632
+    engagement: 3451
+    commentsToLikes: 0.407174
+    id: ck9wiir722fpl0j78u7k6yukj
     verified: false
-    hashtags: "#fashion, #smallgestures, #artistcheck, #styletips"
-  - username: "tokyotolagirl"
+    hashtags: "#superhero, #pretty, #caricature, #editorial"
+  - username: "thechiclyeffect"
     fullname: >-
-      MARY | Fashion Blogger
+      Erin
     location: "United States"
-    followers: 12368
-    engagement: 1515
-    commentsToLikes: 0.404332
-    id: ck5zypsduaawo0i14e5m3m57k
+    followers: 2256
+    engagement: 3099
+    commentsToLikes: 0.278467
+    id: ckaoucltjzphu0i78mre133xp
     verified: false
-    hashtags: "#spotify, #newyearnewme, #superdown, #makinglifeglorious"
-  - username: "julie_love3"
+    hashtags: "#ltkweekendstyle, #oldnavystyle, #loftimist, #rdbabe"
+  - username: "kayla.ogno"
     fullname: >-
-      Juliet
+      kayla ogno
     location: "United States"
-    followers: 8750
-    engagement: 1863
-    commentsToLikes: 0.141864
-    id: ck5zpxetbtjcl0i14dy4nezdj
+    followers: 5507
+    engagement: 3007
+    commentsToLikes: 0.105942
+    id: ckap5coz5b2v70i78826g3rkw
     verified: false
-    hashtags: ""
-  - username: "lexluxlove"
+    hashtags: "#roadtomissnjteenusa, #countdown, #841miles"
+  - username: "mary.bears"
     fullname: >-
-      Lexluxlove
+      🌙 Mary | Fashion | Beauty
     location: "United States"
-    followers: 2749
-    engagement: 2810
-    commentsToLikes: 0.318080
-    id: ck5q9riuncmc80i118nde0ewj
+    followers: 3590
+    engagement: 2955
+    commentsToLikes: 0.576349
+    id: ck6u1cwlakzjb0j71hkxp3o2r
     verified: false
-    hashtags: "#braceletstacks, #sallybeauty, #targetstyle, #targetfinds"
-  - username: "madpuplife"
+    hashtags: "#eyelovewaterdrench, #peterthomasroth, #ptrcult, #waterdrench"
+  - username: "cassidymprice"
     fullname: >-
-      Sydney | Mad Pup Life
+      Cassidy Price
     location: "United States"
-    followers: 6190
-    engagement: 1584
-    commentsToLikes: 0.083706
-    id: ck5hptv7nrylg0i11bee3vq1i
+    followers: 3096
+    engagement: 2788
+    commentsToLikes: 0.183297
+    id: ck9wd8y46emb60j78dyjblq50
     verified: false
-    hashtags: "#dogtreats, #officeinspo, #ootd, #targetdoesitagain"
-  - username: "therealrjm"
+    hashtags: "#americaneagle, #sundayfunday, #aerie, #tryonhaul"
+  - username: "emikfabian"
     fullname: >-
-      
+      Emi Fabian • Preppy & Pink
     location: "United States"
-    followers: 9688
-    engagement: 1512
-    commentsToLikes: 0.067227
-    id: ck5cca3x6gzme0i114xkkhnh8
+    followers: 2236
+    engagement: 2746
+    commentsToLikes: 0.364867
+    id: ckapav34gxkwj0i780tt669ls
     verified: false
-    hashtags: "#aesthetic, #naturalhairstyle, #quarantineideas, #championcozystyle"
-  - username: "willowpixie"
+    hashtags: "#expeessie, #stayhomewithltk, #ltkspring, #ltkitbag"
+  - username: "hossainishrat"
     fullname: >-
-      W I L L O W ⋒
+      Ishrat Hossain
     location: "United States"
-    followers: 7703
-    engagement: 1496
-    commentsToLikes: 0.087530
-    id: ck55mmf8549wb0i1167sozhej
+    followers: 5060
+    engagement: 2112
+    commentsToLikes: 0.261415
+    id: ckaou140nybzx0i78pm5no76d
     verified: false
-    hashtags: "#showpo, #willowpixiepresets, #solorganics, #skylarscentclub"
-  - username: "judithlan"
+    hashtags: "#bengaliblogger, #knowledge, #modesty, #bengalihijabi"
+  - username: "youreastcoastgirl"
     fullname: >-
-      JUDITH LANDESBERGEN ©
+      Sarah Krous
     location: "United States"
-    followers: 28778
-    engagement: 925
-    commentsToLikes: 0.062968
-    id: ck14izrw0hxk70i199xqzdf9a
+    followers: 7380
+    engagement: 1916
+    commentsToLikes: 0.336776
+    id: ck137gzccbhoo0i19wjbyudx2
     verified: false
-    hashtags: "#fun, #zomer, #sting, #jurk"
-  - username: "daniellee_esther"
+    hashtags: "#beachlife, #otkboots, #shopthemint, #outfitoftheday"
+  - username: "petitelife_incolors"
     fullname: >-
-      DANIELLE | Fashion & Lifestyle
+      Natalia| Petite Style & Travel
     location: "United States"
-    followers: 6095
-    engagement: 2767
-    commentsToLikes: 0.508733
-    id: ck137gy8ubhjd0i19krhqrk4n
+    followers: 5262
+    engagement: 1866
+    commentsToLikes: 0.355552
+    id: ck9wfk74ap7cm0j78egmaovjd
     verified: false
-    hashtags: "#fableticspartner, #ymijeans, #ymibabe, #lulusambassador"
+    hashtags: "#romperseason, #ghig010, #styletip, #styledaily"
 ---

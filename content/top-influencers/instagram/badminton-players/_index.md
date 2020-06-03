@@ -1,107 +1,107 @@
 ---
 title: Top 10 Badminton Players Instagram Influencers In 2020
 description: >-
-  Find top badminton players Instagram influencers in 2020. Most popular hashtags: #badminton #repost #badmintonlovers #stayhome.
+  Find top badminton players Instagram influencers in 2020. Most popular hashtags: #throwback #zr101 #stayhome #zr111.
 platform: Instagram
 profiles:
   - username: "fajaralfian95"
     fullname: >-
       Fajar Alfian
     location: "Indonesia"
-    followers: 456808
-    engagement: 1161
-    commentsToLikes: 0.014677
+    followers: 455330
+    engagement: 1088
+    commentsToLikes: 0.013735
     id: ck6ui35l0cscm0j71rp8zwpfm
     verified: true
-    hashtags: "#juaradeui, #jabarjuara, #kudumeunang, #giveaway7maret"
-  - username: "seidelmarvin"
-    fullname: >-
-      Marvin Seidel
-    location: "India"
-    followers: 10136
-    engagement: 1264
-    commentsToLikes: 0.018993
-    id: ck8t2dqk4z3il0j789dky804s
-    verified: false
-    hashtags: "#bulutangkisindonesia, #sbtfoftheweek, #teamvictor, #health"
+    hashtags: "#socialdistancing, #stayhome, #komunitasbulutangkisindonesia, #cucueyangidjingsumarna"
   - username: "chiragshetty"
     fullname: >-
       Chirag Shetty
     location: "India"
-    followers: 13405
-    engagement: 1645
-    commentsToLikes: 0.013695
+    followers: 14089
+    engagement: 1350
+    commentsToLikes: 0.011460
     id: ck0tuv25v8squ0i19y6w7qpm8
     verified: false
-    hashtags: "#teamworkmakesthedreamwork, #chinaopensuper750, #iostalent, #hardwork"
+    hashtags: "#dubai, #shibuya, #teamyonex, #beach"
   - username: "satwik_rankireddy"
     fullname: >-
       Satwiksai Raj Rankireddy
     location: "India"
-    followers: 15895
-    engagement: 1744
-    commentsToLikes: 0.010268
+    followers: 16104
+    engagement: 1685
+    commentsToLikes: 0.009864
     id: ck0tuv1h58sno0i19pk0d9rew
     verified: false
-    hashtags: "#thailandopensuper500, #minigoogle, #love, #youngstar"
+    hashtags: "#thatmadenationproud, #worldranking, #parislove, #pbl5"
+  - username: "rawinda.p"
+    fullname: >-
+      𝚅𝚒𝚎𝚠 ❥ 🦊
+    location: "Thailand"
+    followers: 16204
+    engagement: 1030
+    commentsToLikes: 0.008776
+    id: ckaouypec2dxj0i78tzzil0vm
+    verified: false
+    hashtags: "#yonex, #110yearsandbeyond"
+  - username: "seidelmarvin"
+    fullname: >-
+      Marvin Seidel
+    location: "India"
+    followers: 9972
+    engagement: 1288
+    commentsToLikes: 0.018842
+    id: ck8t2dqk4z3il0j789dky804s
+    verified: false
+    hashtags: "#trickshot, #totalbwfwc2019, #teamd, #stayhome"
   - username: "mariana_ugaldec"
     fullname: >-
-      Mariana U
+      Mariana Ugalde
     location: "Mexico"
-    followers: 108126
-    engagement: 897
-    commentsToLikes: 0.016059
+    followers: 116593
+    engagement: 826
+    commentsToLikes: 0.015574
     id: ck6u3n7h6yr6p0j71nu928er3
     verified: false
-    hashtags: "#internationalsportsday, #linoriana, #mequedoencasa, #masperraquehumana"
-  - username: "sanyo_gitaa"
-    fullname: >-
-      sanyogita Ghorpade
-    location: "India"
-    followers: 11767
-    engagement: 893
-    commentsToLikes: 0.024595
-    id: ck602nooyi6990i14wfqq2pg1
-    verified: false
-    hashtags: "#fingersaddict, #stylish, #shoot, #redisthenewblack"
+    hashtags: "#felizdiadelni, #brunette, #throwback, #olympics"
   - username: "shevonlai"
     fullname: >-
       🌹 Jemie 🌹
     location: "France"
-    followers: 19967
-    engagement: 713
-    commentsToLikes: 0.016958
+    followers: 20460
+    engagement: 687
+    commentsToLikes: 0.020113
     id: ck14i3fgjdg5d0i19ewie032z
     verified: false
-    hashtags: "#timefliestooquickly, #circlednastory, #funnymoment, #badmintonstring"
-  - username: "lino_789"
+    hashtags: "#lockdownlifeisreal, #lockdownlife, #4weeks, #amusements"
+  - username: "carolinamarin"
     fullname: >-
-      Lino Munoz
-    location: "Mexico"
-    followers: 112446
-    engagement: 191
-    commentsToLikes: 0.027547
-    id: ck13c6c5cytx60i19yxpacovi
+      Carolina Marin
+    location: "Spain"
+    followers: 368154
+    engagement: 426
+    commentsToLikes: 0.011427
+    id: ck0w4q4c6zub40i19gf17qdfc
     verified: true
-    hashtags: "#yosoysportico, #quedat, #dollypartonchallenge, #vamos"
+    hashtags: "#galaxys20ultra, #somossmartgirl, #galaxys20ultra5g, #diainternacionaldelamujer"
+  - username: "rominataajik"
+    fullname: >-
+      ✨Romina✨
+    location: "Iran"
+    followers: 4772
+    engagement: 1327
+    commentsToLikes: 0.069332
+    id: ckaouyr1n2e3e0i78nk1ebm4i
+    verified: false
+    hashtags: "#badmintonvideo, #nike, #bekind, #badmintonworld"
   - username: "prannoy_hs_"
     fullname: >-
       Prannoy H S
     location: "India"
-    followers: 38146
-    engagement: 673
-    commentsToLikes: 0.010285
+    followers: 37889
+    engagement: 647
+    commentsToLikes: 0.010456
     id: ck0tuv2j08ss30i19xkqx2wc0
     verified: true
-    hashtags: "#indonesiamasterssuper500, #pattseheadshot, #jaguar, #bringiton"
-  - username: "lohkeanyew"
-    fullname: >-
-      Loh Kean Yew
-    location: ""
-    followers: 17778
-    engagement: 1444
-    commentsToLikes: 0.011311
-    id: ck5zvweey518l0i14mmqzbb7i
-    verified: false
-    hashtags: "#teamsingapore, #badmintonsingapore, #sgsports, #selfquote"
+    hashtags: "#stayhomestayfit, #ihatepushups, #memories, #shotoniphone11pro"
 ---

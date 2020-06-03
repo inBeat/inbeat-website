@@ -1,107 +1,107 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In Portugal In 2020
 description: >-
-  Find top outdoors Instagram influencers in Portugal in 2020. Most popular hashtags: #nature #portugal #tb #travel.
+  Find top outdoors Instagram influencers in Portugal in 2020. Most popular hashtags: #nature #wanderlust #igersportugal #sunset.
 platform: Instagram
 profiles:
-  - username: "birdcageliving"
-    fullname: >-
-      Rui Gaiola // Birdcageliving
-    location: "Portugal"
-    followers: 8895
-    engagement: 1282
-    commentsToLikes: 0.075910
-    id: ck0w69kmi7ikj0i19xfiym53t
-    verified: false
-    hashtags: "#iwicdtrf, #roads, #lofoten, #nusfjord"
-  - username: "luis_maia_photography"
-    fullname: >-
-      Luis Maia
-    location: "Portugal"
-    followers: 5664
-    engagement: 2219
-    commentsToLikes: 0.074264
-    id: ck5cga65sofqn0i11gu4gnujh
-    verified: false
-    hashtags: "#top9of2019, #best9of2019, #topnine2019, #2019bestnine"
   - username: "what.anna.sees"
     fullname: >-
       Anna | #Family#Outdoor#Blogger
     location: "Portugal"
-    followers: 11184
-    engagement: 1069
-    commentsToLikes: 0.035093
+    followers: 11025
+    engagement: 1048
+    commentsToLikes: 0.030981
     id: ck6tqrwzktnja0j71mmte4dlt
     verified: false
-    hashtags: "#explore, #cities, #portugal, #elsass"
-  - username: "pedro.dferreira"
+    hashtags: "#eifel, #beauty, #tulip, #rhine"
+  - username: "into_theworld"
     fullname: >-
-      Pedro Ferreira
+      Christof & Marcus
     location: "Portugal"
-    followers: 2821
-    engagement: 1497
-    commentsToLikes: 0.095109
-    id: ck6tot86ufza00j714wih9vmu
+    followers: 82424
+    engagement: 124
+    commentsToLikes: 0.137501
+    id: ck5hg950q1kum0i11opbgy9ay
     verified: false
-    hashtags: "#portraitofwoman, #liveoutyourdreams, #natureportraits, #dronestagram"
-  - username: "berglund.kristin"
-    fullname: >-
-      Kristin Berglund
-    location: "Portugal"
-    followers: 10532
-    engagement: 724
-    commentsToLikes: 0.021170
-    id: ck0vvu0igqrkb0i19e4y8wz2k
-    verified: false
-    hashtags: "#suunto, #utmb2019, #tirol, #stepbystep"
-  - username: "leodomingox"
-    fullname: >-
-      Leo | Portugal
-    location: "Portugal"
-    followers: 18320
-    engagement: 299
-    commentsToLikes: 0.021696
-    id: ck0w2jstvoq8x0i19w2y5tovz
-    verified: false
-    hashtags: "#australiaisburning, #video, #australiafires, #australiaburning"
+    hashtags: "#drivetastefully, #rollinghome, #portugal, #solotree"
   - username: "luislopes_ridebikes"
     fullname: >-
       Luis Lopes
     location: "Portugal"
-    followers: 21016
-    engagement: 273
-    commentsToLikes: 0.011886
+    followers: 21499
+    engagement: 303
+    commentsToLikes: 0.013817
     id: ck5zorueyr78k0i14cze68f8s
     verified: false
-    hashtags: "#video, #lightpro, #lapinillabikepark, #vtt"
-  - username: "znagathering"
-    fullname: >-
-      ZNA Gathering
-    location: "Portugal"
-    followers: 8739
-    engagement: 694
-    commentsToLikes: 0.030277
-    id: ck0u29znpzdpr0i19fcysdq4t
-    verified: false
-    hashtags: "#wesharezna, #wehatespoilers, #nospoilers, #falkor"
+    hashtags: "#turtlespawning, #polisportbicycle, #saotomeeprincipe, #youtube"
   - username: "olmakasia"
     fullname: >-
       Kasia Olma
     location: "Portugal"
-    followers: 23587
-    engagement: 905
-    commentsToLikes: 0.156734
+    followers: 23034
+    engagement: 883
+    commentsToLikes: 0.160914
     id: ck5cei4z0l1xe0i11ctu0lvm9
     verified: false
-    hashtags: "#portonoinsta, #zaragozaturismo, #girlswithgypsysouls, #agueda"
-  - username: "megmmorais"
+    hashtags: "#naturelifestyle, #ficaemcasa, #wildheartslab, #beautifulsea"
+  - username: "rosalimaloureiro"
     fullname: >-
-      Margarida Morais
+      Rosa Lima Loureiro
     location: "Portugal"
-    followers: 31381
-    engagement: 481
-    commentsToLikes: 0.074457
-    id: ck0twpai2g9s70i197zk1o98z
+    followers: 29408
+    engagement: 1501
+    commentsToLikes: 0.033297
+    id: ck8t4jx1q70xx0j78kofberj1
     verified: false
-    hashtags: "#foundation, #theoutdoorfolk, #swim, #mylook"
+    hashtags: "#stylist, #tbt, #fashionstyle, #instagood"
+  - username: "rubenfjorge"
+    fullname: >-
+      Ruben Jorge
+    location: "Portugal"
+    followers: 11010
+    engagement: 2428
+    commentsToLikes: 0.011382
+    id: ck8talc55s8m80j78xs02h0e9
+    verified: false
+    hashtags: "#pole, #homedecor, #praia, #wanderlust"
+  - username: "zepev"
+    fullname: >-
+      𝒁é 𝑽𝒊𝒍𝒂𝒔 𝑩𝒐𝒂𝒔
+    location: "Portugal"
+    followers: 7566
+    engagement: 1655
+    commentsToLikes: 0.045279
+    id: ck5chd4djqjl90i11142i1xwn
+    verified: false
+    hashtags: "#sunset, #olho, #porto, #igersportugal"
+  - username: "luislopesphotography"
+    fullname: >-
+      Luís Lopes | Portugal
+    location: "Portugal"
+    followers: 23540
+    engagement: 595
+    commentsToLikes: 0.035788
+    id: ck8tcy3d414gq0j784zl8jxa2
+    verified: false
+    hashtags: "#santorinistyle, #santorinilove, #photography, #gottolovethis"
+  - username: "pedro.dferreira"
+    fullname: >-
+      Pedro Ferreira
+    location: "Portugal"
+    followers: 3301
+    engagement: 1482
+    commentsToLikes: 0.118018
+    id: ck6tot86ufza00j714wih9vmu
+    verified: false
+    hashtags: "#campingtrip, #horsesofthedayy, #wintersnowstorm, #girlsthatwander"
+  - username: "gatovadiotravelblog"
+    fullname: >-
+      𝔾𝕒𝕥𝕠 𝕍𝕒𝕕𝕚𝕠 - 𝕋𝕣𝕒𝕧𝕖𝕝 𝔹𝕝𝕠𝕘
+    location: "Portugal"
+    followers: 18329
+    engagement: 509
+    commentsToLikes: 0.044976
+    id: ck5zsie24yjxs0i141ei102vy
+    verified: false
+    hashtags: "#portoalive, #somiedo, #portugueseroamers, #fotografiadeviagem"
 ---

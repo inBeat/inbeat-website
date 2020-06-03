@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Rome In 2020
 description: >-
-  Find top yoga Instagram influencers in Rome in 2020. Most popular hashtags: #iorestoacasa #love #yoga #coronavirus.
+  Find top yoga Instagram influencers in Rome in 2020. Most popular hashtags: #yoga #rome #friends #photography.
 platform: Instagram
 profiles:
-  - username: "_robertarei_"
+  - username: "dg_portrait_photographer"
     fullname: >-
-      Roberta Rei
+      DG Photographer
     location: "Italy"
-    followers: 78353
-    engagement: 386
-    commentsToLikes: 0.027724
-    id: ck5q1t4grcnce0i11x2tb5se8
+    followers: 66504
+    engagement: 376
+    commentsToLikes: 0.023592
+    id: ck8syt2m0lwhz0j78vqc2knvi
+    verified: false
+    hashtags: "#windowlight, #instanude, #shadow, #outdoor"
+  - username: "camillafalsini"
+    fullname: >-
+      C A M I L L A F A L S I N I
+    location: "Italy"
+    followers: 19699
+    engagement: 339
+    commentsToLikes: 0.009725
+    id: ck0w0hwchea7c0i19tutwwcc5
+    verified: false
+    hashtags: "#illustratioartists, #wallpainting, #taurus, #stayhome"
+  - username: "nik_dellamonica"
+    fullname: >-
+      Nicole Della Monica
+    location: "Italy"
+    followers: 22243
+    engagement: 219
+    commentsToLikes: 0.027513
+    id: ck5hotg9vq74h0i11nuegiddk
     verified: true
-    hashtags: "#unacanzonealgiorno, #food, #pizza, #crow"
-  - username: "anaquiles30"
+    hashtags: "#lovestory, #picoftheday, #improvement, #skater"
+  - username: "discoveryphotograph"
     fullname: >-
-      Ana Quiles Boix
+      Discovery Photography
     location: "Italy"
-    followers: 10027
-    engagement: 842
-    commentsToLikes: 0.043573
-    id: ck13b7o2ku3db0i19iiox109y
+    followers: 10801
+    engagement: 1097
+    commentsToLikes: 0.206412
+    id: ck8tdk7g33n9g0j78er3vyljc
     verified: false
-    hashtags: "#roma, #tuttoandr, #italiana, #sol"
-  - username: "morganickitchen"
+    hashtags: "#fooditaly, #loverome, #trekking, #buongiorno"
+  - username: "danilo.dagostino"
     fullname: >-
-      Morgan Witkin
+      Dani
     location: "Italy"
-    followers: 42988
-    engagement: 136
-    commentsToLikes: 0.079522
-    id: ck5hiardncj830i11vkri3wbe
+    followers: 94311
+    engagement: 201
+    commentsToLikes: 0.029286
+    id: ck9hagrc1ch4u0j78h8yvoxda
     verified: false
-    hashtags: "#tastetherainbow, #noughsaid, #morganickitchen, #plantbased"
-  - username: "evaredson"
+    hashtags: "#montagna, #consegne, #credere, #workday"
+  - username: "chiararicci.off"
     fullname: >-
-      Eva Redson | Italian Fashion
+      Chiara Ricci
     location: "Italy"
-    followers: 13602
-    engagement: 749
-    commentsToLikes: 0.054813
-    id: ck5hgd4pp25qz0i11bveywjnf
+    followers: 5693
+    engagement: 613
+    commentsToLikes: 0.059606
+    id: ck8tc2u5ey34b0j788lykjnou
     verified: false
-    hashtags: "#florence, #bloggergirl, #jewellery, #adictedtobeauty"
-  - username: "andrea_ru"
+    hashtags: "#pose, #music, #noprofit, #aspettandolallieva3"
+  - username: "van_venuti"
     fullname: >-
-      Andrea Ru
+      Vanja Venuti
     location: "Italy"
-    followers: 16260
-    engagement: 347
-    commentsToLikes: 0.039640
-    id: ck0ty81n5lutq0i19dj7qzj9m
+    followers: 5556
+    engagement: 616
+    commentsToLikes: 0.036077
+    id: ck5zip3l3g4hk0i14999l7ymu
     verified: false
-    hashtags: "#fuerteventurayoga, #thebestofnorway, #fuerteventura, #nordland"
-  - username: "a_w_a_l_k_e_r_"
+    hashtags: "#adventure, #ushuaia, #hugagain, #womenpower"
+  - username: "thebeatrice_ferro"
     fullname: >-
-      Antonio Walker
+      Beatrice Ferro
     location: "Italy"
-    followers: 115514
-    engagement: 134
-    commentsToLikes: 0.060977
-    id: ck8t69mqgcryy0j788zug3qr8
+    followers: 13213
+    engagement: 362
+    commentsToLikes: 0.147718
+    id: ck5cirfk8t87n0i117rkzsm9a
     verified: false
-    hashtags: "#ridiamocisu, #casamilano, #tbt, #traveluk"
-  - username: "annasafroncik"
+    hashtags: "#murales, #hostessvibes, #forzaitalia, #rose"
+  - username: "superennyphoto"
     fullname: >-
-      Anna Safroncik
+      Renata Romeo Photography
     location: "Italy"
-    followers: 468878
-    engagement: 397
-    commentsToLikes: 0.013762
-    id: ck15s9dgrbvzf0i19gg2b558m
-    verified: true
-    hashtags: "#healthylifestyle, #portraits, #omathome, #casa"
-  - username: "emanuelareiofficial"
-    fullname: >-
-      Emanuela Rei
-    location: "Italy"
-    followers: 194892
-    engagement: 554
-    commentsToLikes: 0.016202
-    id: ck0w5a0yl2n2i0i19o8d617yl
+    followers: 10918
+    engagement: 561
+    commentsToLikes: 0.054842
+    id: ck0tzd5zupvyv0i19qandb0ui
     verified: false
-    hashtags: "#story, #aladdin, #milleeunanotte, #iblues"
-  - username: "alessandrapierelli"
+    hashtags: "#dogofegypt, #ice2punto0, #uwhousing, #stayhome"
+  - username: "redbloody_"
     fullname: >-
-      Alessandra Pierelli🌸
+      LYRICS VIDEO||MUSIC
     location: "Italy"
-    followers: 210190
-    engagement: 276
-    commentsToLikes: 0.027480
-    id: ck5hcbqpzh7tr0i11auffxxon
-    verified: true
-    hashtags: "#coronavirus, #forzaitalia, #followers, #mamma"
-  - username: "nicoleenina"
-    fullname: >-
-      nic e nina  -  italy 🇮🇹
-    location: "Italy"
-    followers: 11278
-    engagement: 983
-    commentsToLikes: 0.032456
-    id: ck15qere52hn30i1911exqtgi
+    followers: 47239
+    engagement: 4302
+    commentsToLikes: 0.010987
+    id: ck8t2pwc90ays0j78px76ot4s
     verified: false
-    hashtags: "#sticazzi, #inkedhand, #caneviziato, #piercing"
+    hashtags: "#inspirasi, #lovestory, #romeo, #lathi"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Sao Paulo In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #lifestyle #tbt #saopaulo #sp.
+  Find top lifestyle Instagram influencers in Sao Paulo in 2020. Most popular hashtags: #lifestyle #quarentena #ficaemcasa #video.
 platform: Instagram
 profiles:
+  - username: "raymachadoo_"
+    fullname: >-
+      Raíssa Machado🧚🏻‍♀️
+    location: "Brazil"
+    followers: 50670
+    engagement: 2460
+    commentsToLikes: 0.044196
+    id: ckapa5na8ut6r0i7816943yn5
+    verified: false
+    hashtags: "#hairwavy, #cabelocurtos, #lifestyler, #cabelos"
+  - username: "joy.abreu"
+    fullname: >-
+      Joyce Abreu 🇾🇪
+    location: "Brazil"
+    followers: 143138
+    engagement: 503
+    commentsToLikes: 0.017729
+    id: ck0tsj6jp006r0i191ir7wz21
+    verified: false
+    hashtags: "#saopaulofutebolclube, #quarentenasempirar, #tiktokbrasil, #videosengracados"
   - username: "giselerampazzo"
     fullname: >-
       Gisele Rampazzo
     location: "Brazil"
-    followers: 16376
-    engagement: 265
-    commentsToLikes: 0.032012
+    followers: 16752
+    engagement: 263
+    commentsToLikes: 0.040182
     id: ck5c7cmzn7a2i0i11ohc70izb
     verified: false
-    hashtags: "#interiores, #room, #decorindustrial, #marcenariamoderna"
-  - username: "angelcaires_"
+    hashtags: "#sheepycloth, #direito, #homeofficeideas, #interiors"
+  - username: "cay.iroldi"
     fullname: >-
-      Angélica
+      𝕮𝖆𝖞𝖖𝖚𝖊 𝕴𝖗𝖔𝖑𝖉𝖎 ⛓
     location: "Brazil"
-    followers: 5458
-    engagement: 649
-    commentsToLikes: 0.017489
-    id: ck8tbmivaw8xz0j785nwkqa54
+    followers: 5256
+    engagement: 999
+    commentsToLikes: 0.054466
+    id: ck5q6qblcyg6b0i11emyl04c1
     verified: false
-    hashtags: "#boomerang, #maquiagem, #bloquinho, #musica"
-  - username: "rodrigo.mbt"
+    hashtags: "#adidasbrasil, #dragqueen, #carmen, #sexy"
+  - username: "carolcolin"
     fullname: >-
-      Rodrigo Lima - Mahamudra
+      CAROL COLIN
     location: "Brazil"
-    followers: 461052
-    engagement: 199
-    commentsToLikes: 0.012380
-    id: ck5cgou3qp9840i11l1prx1bm
-    verified: true
-    hashtags: "#accor, #carnaeats, #mahamudrabrasil, #ultraboost"
-  - username: "athaisximenes"
-    fullname: >-
-      Thais Ximenes
-    location: "Brazil"
-    followers: 5358
-    engagement: 608
-    commentsToLikes: 0.043502
-    id: ck8t34yzv1vuw0j787q1z2j6h
+    followers: 13131
+    engagement: 281
+    commentsToLikes: 0.062707
+    id: ck15rguiq7v8l0i19m8ubr2qx
     verified: false
-    hashtags: "#empatia, #praiana, #cocobambu, #lifestyleblogger"
-  - username: "fatimaifreitas"
+    hashtags: "#dieta, #alimentacao, #usemascara, #lifestyle"
+  - username: "eiheld"
     fullname: >-
-      Fátima Inês I Freitas
+      Helder Rosa
     location: "Brazil"
-    followers: 38565
-    engagement: 152
-    commentsToLikes: 0.334279
-    id: ck8t23ll3y0yx0j78v6kp5a8v
+    followers: 10319
+    engagement: 1720
+    commentsToLikes: 0.110149
+    id: ckapbouba0qqh0i784l0h57wu
     verified: false
-    hashtags: "#bolofit, #comousar, #zarawoman, #emcasa"
-  - username: "dr.lucasrezende"
+    hashtags: "#floresgram, #amor, #carro, #gaysp"
+  - username: "brunaeroles_"
     fullname: >-
-      Lucas Rezende
+      Bruna Eroles
     location: "Brazil"
-    followers: 23133
-    engagement: 650
-    commentsToLikes: 0.043328
-    id: ck15qynv059qh0i19kid2b9v5
+    followers: 36231
+    engagement: 868
+    commentsToLikes: 0.047430
+    id: ck6ucltiagczy0j71l7q79bos
     verified: false
-    hashtags: "#nutrologia, #bemestar, #chamonix, #bonneannee"
-  - username: "yasminlsilva"
+    hashtags: "#ootdfashion, #fiqueemcasa, #lookcolorido, #challenge"
+  - username: "leonardozenolli"
     fullname: >-
-      YASMIN SILVA
+      leo zenolli
     location: "Brazil"
-    followers: 56080
-    engagement: 882
-    commentsToLikes: 0.272536
-    id: ck6u8dc5sqwsj0j714efl18hg
+    followers: 97445
+    engagement: 164
+    commentsToLikes: 0.111715
+    id: ck8t5zzigbs6j0j782rm7mqdd
     verified: false
-    hashtags: "#tudosobcontrole, #filmesonline, #rel, #bbb20"
-  - username: "apartamento_203"
+    hashtags: ""
+  - username: "rafinhafontes"
     fullname: >-
-      Apartamento 203
+      Rafael Fontes
     location: "Brazil"
-    followers: 215453
-    engagement: 153
-    commentsToLikes: 0.037230
-    id: ck15ufxxymzpn0i190hxd1pk7
+    followers: 21024
+    engagement: 423
+    commentsToLikes: 0.099259
+    id: ck6tlhce461200j71to0255zb
     verified: false
-    hashtags: "#obrapiano, #antigacasanova, #moodboard, #obrapiano"
-  - username: "victoriayamagata"
+    hashtags: "#jhonjhonrocksjeri, #carnario2020"
+  - username: "vancarvalho"
     fullname: >-
-      Victoria YAMAGATA
+      Vanessa Carvalho 💎🦋
     location: "Brazil"
-    followers: 39435
-    engagement: 432
-    commentsToLikes: 0.015496
-    id: ck0u131smvmp20i190p6mydoa
+    followers: 26998
+    engagement: 218
+    commentsToLikes: 0.086977
+    id: ck9wfi0c1owfh0j78bypogzsd
     verified: false
-    hashtags: "#podcastnospotify, #35mm, #filmisnotdead, #ootd"
-  - username: "brucamposblog"
-    fullname: >-
-      Bruna Campos
-    location: "Brazil"
-    followers: 19326
-    engagement: 369
-    commentsToLikes: 0.098053
-    id: ck8t3axpi2kw80j78m01l3cnx
-    verified: false
-    hashtags: "#gucci, #oculos, #facavalerapena, #sp"
+    hashtags: "#amor, #parceria, #quarentine, #diadasmaes"
 ---

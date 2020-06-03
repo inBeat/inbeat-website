@@ -1,107 +1,107 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Germany In 2020
 description: >-
-  Find top dancers Instagram influencers in Germany in 2020. Most popular hashtags: #love #picoftheday #stayhome #dance.
+  Find top dancers Instagram influencers in Germany in 2020. Most popular hashtags: #dance #girls #friends #tirol.
 platform: Instagram
 profiles:
   - username: "xhayleyfoster"
     fullname: >-
       Hayley Foster
     location: "Germany"
-    followers: 33245
-    engagement: 658
-    commentsToLikes: 0.118633
+    followers: 33465
+    engagement: 651
+    commentsToLikes: 0.106804
     id: ck0ttf1gi2fn60i19p1c9zsvg
     verified: false
     hashtags: ""
+  - username: "nina_teza"
+    fullname: >-
+      Dance I Travel I Fitlife
+    location: "Germany"
+    followers: 27681
+    engagement: 642
+    commentsToLikes: 0.071653
+    id: ckap7rb1xl7ys0i78pz7kne31
+    verified: false
+    hashtags: "#poolgirl, #gymwear, #fitspo, #bikinibody"
+  - username: "celine_dem_"
+    fullname: >-
+      𝕮𝖊𝖑𝖎𝖓𝖊🖤 𝕷𝖎𝖋𝖊𝖘𝖙𝖞𝖑𝖊 & 𝕯𝖆𝖓𝖈𝖊🇧🇦/🇵🇹
+    location: "Germany"
+    followers: 5710
+    engagement: 1723
+    commentsToLikes: 0.061927
+    id: ckap8ogawp91i0i780ia0akzn
+    verified: false
+    hashtags: "#friends, #goals, #stairs, #girls"
   - username: "bryanmcflyofficial"
     fullname: >-
       𝔹𝕣𝕪𝕒𝕟 𝕄𝕔𝔽𝕝𝕪
     location: "Germany"
-    followers: 104062
-    engagement: 364
-    commentsToLikes: 0.047235
+    followers: 102239
+    engagement: 365
+    commentsToLikes: 0.045609
     id: ck5qa8ne0f4er0i11hhn6ttpj
     verified: false
-    hashtags: "#angrybirds, #westayathome, #bryanmcflyofficial, #pokemon"
+    hashtags: "#serengeti, #maschine, #gymtime, #halloween2019"
   - username: "katerinasfrd"
     fullname: >-
       Katerina S.🕊
     location: "Germany"
-    followers: 6787
-    engagement: 1358
-    commentsToLikes: 0.025448
+    followers: 6645
+    engagement: 1461
+    commentsToLikes: 0.053052
     id: ck8szrdkapfk70j78aecibftk
     verified: false
-    hashtags: "#christiandior, #dior"
-  - username: "oliviaxpauline"
+    hashtags: "#dior, #stayhome, #staysafe, #dance"
+  - username: "alexander.silkin"
     fullname: >-
-      OLIVIA PAULINE FILUELLA A.
+      Alexander Silkin
     location: "Germany"
-    followers: 2408
-    engagement: 1988
-    commentsToLikes: 0.117714
-    id: ck6tvr2rlnsfk0j71zrsocy2p
+    followers: 2478
+    engagement: 2655
+    commentsToLikes: 0.115517
+    id: ck5c7zv7o8hyb0i11zbojlk9j
     verified: false
-    hashtags: "#fashioninspo, #colourpopme, #editorialmakeup, #youtube"
-  - username: "martina.tanzt"
+    hashtags: "#dancegroup, #beautiful, #music, #carnivalcruise"
+  - username: "itsleniamour"
     fullname: >-
-      Martina
+      L E N A <3
     location: "Germany"
-    followers: 3214
-    engagement: 1968
-    commentsToLikes: 0.124931
-    id: ck5zpacuqsalv0i14lj4pv2rj
+    followers: 47743
+    engagement: 4266
+    commentsToLikes: 0.015517
+    id: ckap8p85vpcgk0i78a76n7ad7
     verified: false
-    hashtags: "#dancer, #abandonedplaces, #choreography, #schanzenviertel"
-  - username: "melpel911"
+    hashtags: "#unbezahltewerbung, #loveyourself, #corona, #stayhappy"
+  - username: "xv_malena"
     fullname: >-
-      Meli ☀️
+      Malena🧚🏻
     location: "Germany"
-    followers: 91621
-    engagement: 460
-    commentsToLikes: 0.025134
-    id: ck0w33c43red10i1984xif2lz
+    followers: 15227
+    engagement: 914
+    commentsToLikes: 0.040624
+    id: ck0vyxpph6ar80i19gjmwn611
     verified: false
-    hashtags: "#pictureoftheday, #inspiration, #white, #life"
-  - username: "jayden_yard"
+    hashtags: "#holidays, #best, #mybestie, #loveit"
+  - username: "julian_iwas"
     fullname: >-
-      
+      Julian
     location: "Germany"
-    followers: 5406
-    engagement: 1128
-    commentsToLikes: 0.049634
-    id: ck5qa8mhlf49d0i11qmuqtfns
+    followers: 7638
+    engagement: 1938
+    commentsToLikes: 0.022480
+    id: ckaovav1b3rsn0i78v8nbdqdl
     verified: false
-    hashtags: ""
-  - username: "chiaratews"
+    hashtags: "#ellesse, #airmax97, #levis, #sexygay"
+  - username: "alexa.herbst"
     fullname: >-
-      Chiara Tews • Spotlight
+      Alexandra Herbst
     location: "Germany"
-    followers: 51007
-    engagement: 1769
-    commentsToLikes: 0.012363
-    id: ck6tw3m5bptoi0j71e8ze5kls
+    followers: 7765
+    engagement: 1459
+    commentsToLikes: 0.022548
+    id: ck9wez6skmjf90j78vvyn4nzu
     verified: false
-    hashtags: "#dynamix, #sunset, #birthday, #mountain"
-  - username: "k12tourdancers"
-    fullname: >-
-      
-    location: "Germany"
-    followers: 15699
-    engagement: 3787
-    commentsToLikes: 0.013323
-    id: ck5ztnwbv0shb0i14g619kgdk
-    verified: false
-    hashtags: "#portugalyouready"
-  - username: "ritchycobraldelavega"
-    fullname: >-
-      R I T C H Y D E L A V E G A
-    location: "Germany"
-    followers: 6394
-    engagement: 1497
-    commentsToLikes: 0.042850
-    id: ck5hgj0uy31180i11oxkcudom
-    verified: false
-    hashtags: "#miamibeach, #maluma, #dolcegabbana, #stayhome"
+    hashtags: "#benakd, #springtime, #rabattcode, #nakdrabattcode"
 ---

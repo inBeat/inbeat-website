@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top beauty Instagram influencers in United Kingdom in 2020. Most popular hashtags: #honeymoon #makeup #morphebabe #undiscoveredmuas.
+  Find top beauty Instagram influencers in United Kingdom in 2020. Most popular hashtags: #styleinspo #selfie #selflove #topshopstyle.
 platform: Instagram
 profiles:
+  - username: "megangadd"
+    fullname: >-
+      MEGAN GADD
+    location: "United Kingdom"
+    followers: 2694
+    engagement: 3292
+    commentsToLikes: 0.209848
+    id: ck9wew9brm4ba0j78cru16v2w
+    verified: false
+    hashtags: "#officeloves, #gifted, #ad"
   - username: "dimi_ven"
     fullname: >-
       ᗪƖᗰƖƬᖇᗩ ᐯƐᑎOᑌ
     location: "United Kingdom"
-    followers: 8317
-    engagement: 1809
-    commentsToLikes: 0.087552
+    followers: 8253
+    engagement: 1780
+    commentsToLikes: 0.084632
     id: ck15plt36yisn0i19f03tk3q1
     verified: false
-    hashtags: "#amstergram, #fashionzine, #welivetoexplore, #womenwhoexplore"
-  - username: "chloedhaliwal"
+    hashtags: "#traveldrops, #instravel, #romacapitale, #awesomepix"
+  - username: "beautybyjessenglish"
     fullname: >-
-      🤍 Chloë
+      J E S S   E N G L I S H
     location: "United Kingdom"
-    followers: 3423
-    engagement: 2132
-    commentsToLikes: 0.158788
-    id: ck8tblekww3xn0j78ytlw88bl
+    followers: 12480
+    engagement: 1587
+    commentsToLikes: 0.086860
+    id: ck9wd4bjqe0a20j789htdpeeb
     verified: false
-    hashtags: "#flattenthecurve"
+    hashtags: "#alexademie, #rimmellondon, #nyxcosmetics"
+  - username: "goshie.s"
+    fullname: >-
+      G.
+    location: "United Kingdom"
+    followers: 2417
+    engagement: 3030
+    commentsToLikes: 0.153333
+    id: ckapcgio73q0j0i78umcjfhhz
+    verified: false
+    hashtags: ""
+  - username: "georgieeparkerr"
+    fullname: >-
+      Georgie Parker 👸🏼
+    location: "United Kingdom"
+    followers: 11042
+    engagement: 1889
+    commentsToLikes: 0.439732
+    id: ckap5csc0b3do0i78t42artqj
+    verified: false
+    hashtags: "#gifted"
   - username: "x.amyleigh"
     fullname: >-
       𝙰𝚖𝚢 𝙻𝚎𝚒𝚐𝚑 ♡
     location: "United Kingdom"
-    followers: 6953
-    engagement: 1216
-    commentsToLikes: 0.527232
+    followers: 7129
+    engagement: 1255
+    commentsToLikes: 0.442765
     id: ck8td1wp61ima0j78m7mpogb1
     verified: false
-    hashtags: "#getglam, #dumbblonde, #eveninggowns, #elegantstyle"
-  - username: "itsshradha"
+    hashtags: "#makeupaddict, #luxuryootd, #cutedogsdaily, #mystyletoday"
+  - username: "katiangn"
     fullname: >-
-      Shradha Gokani
+      Katia NGUYEN
     location: "United Kingdom"
-    followers: 18823
-    engagement: 647
-    commentsToLikes: 0.092028
-    id: ck6twij4js6n40j71wvdvmry2
+    followers: 7588
+    engagement: 1186
+    commentsToLikes: 0.106964
+    id: ckaotmgsgwi7l0i78ua17hmbl
     verified: false
-    hashtags: "#skinesis, #hairoils, #toprum, #foodies"
-  - username: "georgiamccaffrey"
+    hashtags: "#inspodecor, #bershka, #marlopvris, #talented"
+  - username: "des_reen"
     fullname: >-
-      Georgia White
+      Desreen
     location: "United Kingdom"
-    followers: 8942
-    engagement: 1060
-    commentsToLikes: 0.089419
-    id: ck5pzlxz21mki0i11ic7cy06q
+    followers: 9232
+    engagement: 1100
+    commentsToLikes: 0.122164
+    id: ck0tusheu8j0k0i19502tw9mk
     verified: false
-    hashtags: "#forgirlsbygirls, #maldives, #luxsouthariatoll, #dubai"
+    hashtags: "#highheels, #blogger, #colourblock, #hotpink"
   - username: "makeupby_tashxx"
     fullname: >-
       🎨🌸💖 CREATIVE QUEEN 💖🌸🎨
     location: "United Kingdom"
-    followers: 28282
-    engagement: 1127
-    commentsToLikes: 0.039456
+    followers: 29475
+    engagement: 1066
+    commentsToLikes: 0.043367
     id: ck5c195ciup050i11ivgpcn4o
     verified: false
-    hashtags: "#dripping, #toxic, #chasetherainbow, #hatched"
-  - username: "all.things.mia"
+    hashtags: "#rainbow, #getyourdecsup, #graffitiart, #eastersunday"
+  - username: "samiya.styles"
     fullname: >-
-      Mia ⎜Lifestyle Blogger
+      • S A M I Y A •
     location: "United Kingdom"
-    followers: 8949
-    engagement: 1041
-    commentsToLikes: 0.065975
-    id: ck8sx76qogdv90j78zd3hdu20
+    followers: 15810
+    engagement: 770
+    commentsToLikes: 0.140428
+    id: ck6u2tdzmttul0j71ee09xysh
     verified: false
-    hashtags: "#quote, #discoverunder10k, #makeup, #bestfriends"
-  - username: "itsmir.i.am_"
-    fullname: >-
-      Mir.i.am ✨
-    location: "United Kingdom"
-    followers: 4302
-    engagement: 1803
-    commentsToLikes: 0.185945
-    id: ck55ktqds02ne0i119r0lrzzk
-    verified: false
-    hashtags: ""
-  - username: "hannahkempmakeupartist"
-    fullname: >-
-      HANNAH KEMP MAKEUP ARTIST
-    location: "United Kingdom"
-    followers: 5392
-    engagement: 1821
-    commentsToLikes: 0.054989
-    id: ck8t0zn73txbe0j78w6p9j0h8
-    verified: false
-    hashtags: "#cutcreasemakeup, #jaclynhillcosmetics, #makeupartistworld, #glittercutcrease"
-  - username: "chloemelissabaker"
-    fullname: >-
-      Chloè Melissa Baker
-    location: "United Kingdom"
-    followers: 42958
-    engagement: 464
-    commentsToLikes: 0.054460
-    id: ck0w3r20wutwl0i19n829iif0
-    verified: false
-    hashtags: "#forgirlsbygirls, #keeplounging, #katchme, #pltstyle"
+    hashtags: "#modestymatters, #skingoals, #fentyconcealer, #fbloggeruk"
 ---

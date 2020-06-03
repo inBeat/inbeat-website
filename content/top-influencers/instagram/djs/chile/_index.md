@@ -1,97 +1,107 @@
 ---
 title: Top 10 Djs Instagram Influencers In Chile In 2020
 description: >-
-  Find top djs Instagram influencers in Chile in 2020. Most popular hashtags: #musica #laferiafestival #chile #lospower.
+  Find top djs Instagram influencers in Chile in 2020. Most popular hashtags: #fiesta #djset #instagramers #housemusic.
 platform: Instagram
 profiles:
+  - username: "phantooom_"
+    fullname: >-
+      Gabriel Fuentes U.
+    location: "Chile"
+    followers: 5372
+    engagement: 1188
+    commentsToLikes: 0.069034
+    id: ck6ti72jp05tk0j71b1ld11sl
+    verified: false
+    hashtags: "#steveaoki, #lollapalooza, #lollacl, #cakeme"
   - username: "dj__emilio"
     fullname: >-
       Dj Emilio
     location: "Chile"
-    followers: 156830
-    engagement: 144
-    commentsToLikes: 0.056679
+    followers: 156038
+    engagement: 105
+    commentsToLikes: 0.058582
     id: ck5q5jod4t7au0i11rhjxobh2
     verified: false
-    hashtags: "#emiliofifi, #terremoto, #hermoso, #emilovers"
+    hashtags: "#emilovers, #quedateencasa, #hermoso, #twerk"
+  - username: "fifadosmil"
+    fullname: >-
+      FIFA2000
+    location: "Chile"
+    followers: 16660
+    engagement: 589
+    commentsToLikes: 0.019293
+    id: ck5hfoct3ygz40i119g9d68n2
+    verified: false
+    hashtags: ""
   - username: "laferiafestival"
     fullname: >-
       LA FERIA FESTIVAL
     location: "Chile"
-    followers: 24454
-    engagement: 571
-    commentsToLikes: 0.191442
+    followers: 23677
+    engagement: 560
+    commentsToLikes: 0.183643
     id: ck0w6o3cu9hlk0i19r4a1a7n7
     verified: false
-    hashtags: "#23denoviembre, #fiesta, #laferiafestival, #actoresenescena"
+    hashtags: "#fiesta, #laferiateescucha, #sol, #actores"
+  - username: "melaniawonder"
+    fullname: >-
+      M. Wonder
+    location: "Chile"
+    followers: 6064
+    engagement: 413
+    commentsToLikes: 0.053022
+    id: ck5zzttdxcewp0i14g5e2b373
+    verified: false
+    hashtags: "#freeyouserfelf, #loveisequal, #cerati, #tributocerati"
+  - username: "pieromg"
+    fullname: >-
+      Piero
+    location: "Chile"
+    followers: 27037
+    engagement: 1034
+    commentsToLikes: 0.015694
+    id: ck6u06vwmdy7e0j7130yavccj
+    verified: false
+    hashtags: "#basement, #instacool, #newmusic, #fozdoigua"
   - username: "bytemusic"
     fullname: >-
       DJ BYTE
     location: "Chile"
-    followers: 36455
-    engagement: 295
-    commentsToLikes: 0.036675
+    followers: 37843
+    engagement: 281
+    commentsToLikes: 0.049847
     id: ck0ucgtoagqva0i19dqu1wuwx
     verified: true
-    hashtags: "#tailandia, #recomendacionmusical, #isladepascua, #newmusic"
-  - username: "cfunk"
+    hashtags: "#djscratching, #weekend, #djskills, #byblos"
+  - username: "ploxmusic"
     fullname: >-
-      C-Funk
+      Dj Plox 😔👌🏼
     location: "Chile"
-    followers: 41449
-    engagement: 268
-    commentsToLikes: 0.033717
-    id: ck8swsonbf3nv0j785951lv7z
-    verified: true
-    hashtags: "#mequedoencasa, #bansheetalkbox, #losremos, #classic"
-  - username: "phantooom_"
-    fullname: >-
-      Gabriel
-    location: "Chile"
-    followers: 5537
-    engagement: 1156
-    commentsToLikes: 0.070027
-    id: ck6ti72jp05tk0j71b1ld11sl
+    followers: 16111
+    engagement: 551
+    commentsToLikes: 0.042250
+    id: ck6tibgax0eg60j7167uztbo2
     verified: false
-    hashtags: "#housemusic, #dgtl, #dgtlchile, #steveaoki"
-  - username: "fabiverax"
+    hashtags: "#clubroomchile, #cuarentenafest, #adidasoriginals, #tendencias"
+  - username: "theklanchile"
     fullname: >-
-      FV
+      TheKlan
     location: "Chile"
-    followers: 37672
-    engagement: 486
-    commentsToLikes: 0.013495
-    id: ck6ucksbag6m30j71sw4i04rj
+    followers: 50713
+    engagement: 303
+    commentsToLikes: 0.147175
+    id: ck14gu9f2724y0i19qnoaxiom
     verified: false
-    hashtags: "#amazingmusic, #prohibido, #pichilemu, #creadoconadidas"
-  - username: "raulpower"
+    hashtags: "#thematrixx, #popof, #waff, #elrow"
+  - username: "_catabenitez_"
     fullname: >-
-      LOS POWER
+      Catalina Benitez ☾
     location: "Chile"
-    followers: 649742
-    engagement: 215
-    commentsToLikes: 0.013923
-    id: ck0tukr2t7lus0i196ehzstx3
-    verified: true
-    hashtags: "#peralta, #pewpewpew, #quarantined, #esamami"
-  - username: "caroletelieer"
-    fullname: >-
-      Caro Letelier🐞
-    location: "Chile"
-    followers: 3518
-    engagement: 1309
-    commentsToLikes: 0.051432
-    id: ck134pf9gxk6h0i19txs65z7j
+    followers: 80384
+    engagement: 668
+    commentsToLikes: 0.021007
+    id: ck134pfofxk8z0i19e8wc7td1
     verified: false
-    hashtags: "#rosalia, #throwbackplayeroxd, #cuarentena, #stompchallenge"
-  - username: "zitazoe_gonzalez"
-    fullname: >-
-      ZITAZOE
-    location: "Chile"
-    followers: 30791
-    engagement: 227
-    commentsToLikes: 0.023961
-    id: ck14ix9jphko80i197z3m7tfo
-    verified: false
-    hashtags: "#repost, #pi, #nuevaconstitucion, #acab"
+    hashtags: "#stompchallenge, #nuskin, #todomodachile, #todomoda"
 ---

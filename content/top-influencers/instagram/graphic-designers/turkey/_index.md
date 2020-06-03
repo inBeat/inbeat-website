@@ -1,97 +1,107 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Turkey In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Turkey in 2020. Most popular hashtags: #photography #evdekal #turkey #style.
+  Find top graphic-designers Instagram influencers in Turkey in 2020. Most popular hashtags: #istanbul #home #23nisan #fethiye.
 platform: Instagram
 profiles:
+  - username: "orhandoganer.artstudio"
+    fullname: >-
+      Orhan Doganer
+    location: "Turkey"
+    followers: 2546
+    engagement: 2853
+    commentsToLikes: 0.124793
+    id: ckaovg7y44hru0i78e3u55rit
+    verified: false
+    hashtags: "#10kas, #portrait, #landscapes, #famousportraits"
+  - username: "pikachu_psy"
+    fullname: >-
+      joastino 💫
+    location: "Turkey"
+    followers: 5125
+    engagement: 2180
+    commentsToLikes: 0.154994
+    id: ckap34wcv1ksf0i784rd4yvql
+    verified: false
+    hashtags: "#goa, #drug, #alanwalker, #psytrance"
+  - username: "cerentiryaki"
+    fullname: >-
+      Ceren Tiryaki 🌻
+    location: "Turkey"
+    followers: 6816
+    engagement: 1402
+    commentsToLikes: 0.098237
+    id: ck0w6l8xv940p0i19k36njc25
+    verified: false
+    hashtags: "#kitapoku, #evdeg, #justinhouse, #milano"
+  - username: "crystal_arts_"
+    fullname: >-
+      Ş • M u t l u
+    location: "Turkey"
+    followers: 145310
+    engagement: 745
+    commentsToLikes: 0.033141
+    id: ck8t7htzpguum0j78o75bwg8a
+    verified: false
+    hashtags: "#wip"
+  - username: "_israna"
+    fullname: >-
+      Esra E.🍀
+    location: "Turkey"
+    followers: 2950
+    engagement: 1696
+    commentsToLikes: 0.124351
+    id: ckaoyx4hrjew20i7862h1jmya
+    verified: false
+    hashtags: "#siluetta, #mugla, #fethiye, #23nisan"
   - username: "ahmettahabilgin"
     fullname: >-
       Ahmet Taha Bilgin
     location: "Turkey"
-    followers: 21704
-    engagement: 399
-    commentsToLikes: 0.060380
+    followers: 21410
+    engagement: 395
+    commentsToLikes: 0.067120
     id: ck14h6b168r3u0i19xivql2fc
     verified: false
-    hashtags: "#galata, #autumn, #window, #winter"
-  - username: "ysnyaman"
-    fullname: >-
-      Yasin Yaman
-    location: "Turkey"
-    followers: 33418
-    engagement: 1473
-    commentsToLikes: 0.062234
-    id: ck14jdfewjsbf0i19ngmw3x21
-    verified: false
-    hashtags: "#ysnyaman, #robin, #createyourstory, #cat"
+    hashtags: "#beyoglu, #autumn, #home, #yellow"
   - username: "esgimira"
     fullname: >-
-      Ezgi Develi
+      Ezgi Develi💋
     location: "Turkey"
-    followers: 315236
-    engagement: 124
-    commentsToLikes: 0.094211
+    followers: 521654
+    engagement: 166
+    commentsToLikes: 0.065191
     id: ck602w26wjljd0i140cropqz6
     verified: false
-    hashtags: "#sondakika, #covid19, #fasist, #alevid"
+    hashtags: "#kameraarkas, #as"
   - username: "magn0liaa"
     fullname: >-
       Magnolia Nazemi
     location: "Turkey"
-    followers: 12355
-    engagement: 1035
-    commentsToLikes: 0.024351
+    followers: 12634
+    engagement: 1048
+    commentsToLikes: 0.025248
     id: ck0vyo1nm4y450i1935qip8mo
     verified: false
-    hashtags: "#repost, #flight752, #saveplanet, #internationalwomensday"
-  - username: "girlafikir"
-    fullname: >-
-      gırla fikir
-    location: "Turkey"
-    followers: 16254
-    engagement: 402
-    commentsToLikes: 0.047910
-    id: ck139k8nylpyw0i19znaiosrh
-    verified: false
-    hashtags: "#tv, #annewithane, #defnemucyasinda, #babasininelemegi"
-  - username: "efas"
-    fullname: >-
-      İbrahim Eraslan Efas
-    location: "Turkey"
-    followers: 2284
-    engagement: 1082
-    commentsToLikes: 0.072109
-    id: ck0udw7uck07h0i19b9uxa6tm
-    verified: false
-    hashtags: "#shortfilm, #matte, #design, #panorama"
+    hashtags: "#yolkporn, #flight752, #saveplanet, #saynotoplastic"
   - username: "deniz_ozgenc"
     fullname: >-
       DENİZ ÖZGENÇ
     location: "Turkey"
-    followers: 27851
-    engagement: 297
-    commentsToLikes: 0.038209
+    followers: 35798
+    engagement: 284
+    commentsToLikes: 0.062825
     id: ck0vvmkwapsbh0i19s0y8gly4
     verified: false
-    hashtags: "#zara, #freehandnailart, #grannysquare, #crafts"
-  - username: "emrecanfree"
+    hashtags: "#manicuretop, #love, #photography, #nailprodigy"
+  - username: "efas"
     fullname: >-
-      ᴇᴍʀᴇ ᴄᴀɴ ᴋᴇsɢɪɴ
+      İbrahim Eraslan Efas
     location: "Turkey"
-    followers: 9944
-    engagement: 656
-    commentsToLikes: 0.004067
-    id: ck8t8x7p2m6830j78x58sidtr
+    followers: 2382
+    engagement: 979
+    commentsToLikes: 0.068530
+    id: ck0udw7uck07h0i19b9uxa6tm
     verified: false
-    hashtags: "#motorcycle, #motors, #nice, #bloggermom"
-  - username: "73x5"
-    fullname: >-
-      73x5™
-    location: "Turkey"
-    followers: 23427
-    engagement: 266
-    commentsToLikes: 0.007502
-    id: ck6uhr50ear7v0j71fp54detu
-    verified: false
-    hashtags: "#corona, #mural, #stf459, #cinematic"
+    hashtags: "#graphicdesign, #genc, #utkuan, #font"
 ---

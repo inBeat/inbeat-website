@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Madrid In 2020
 description: >-
-  Find top health Instagram influencers in Madrid in 2020. Most popular hashtags: #madrid #yomequedoencasa #health #quedateencasa.
+  Find top health Instagram influencers in Madrid in 2020. Most popular hashtags: #health #madrid #motivation #model.
 platform: Instagram
 profiles:
   - username: "madridgoout"
     fullname: >-
       Madrid GO Out / MadridG👀ut
     location: "Spain"
-    followers: 18183
-    engagement: 177
-    commentsToLikes: 0.052596
+    followers: 18129
+    engagement: 210
+    commentsToLikes: 0.055097
     id: ck5cgcgxdokb80i1197l7mcok
     verified: false
-    hashtags: "#puentedesegovia, #callebailen, #mercadillos, #chueca"
-  - username: "alejandrocorzo"
+    hashtags: "#turismomadrid, #quedate, #birthday, #madrile"
+  - username: "anitaginto"
     fullname: >-
-      ALEJANDRO CORZO
+      Ana I. Ginto 🐯
     location: "Spain"
-    followers: 59513
-    engagement: 120
-    commentsToLikes: 0.049925
-    id: ck55ob2lx803q0i11ugxuqxax
-    verified: true
-    hashtags: "#coronavirusespa, #spain, #nude, #maleform"
-  - username: "qimovement"
-    fullname: >-
-      B E A  V I D A L
-    location: "Spain"
-    followers: 22579
-    engagement: 202
-    commentsToLikes: 0.045743
-    id: ck5btp25fgcif0i11veu202xt
+    followers: 6698
+    engagement: 549
+    commentsToLikes: 0.036177
+    id: ck14kz13ls1f30i19kl0kh09w
     verified: false
-    hashtags: "#qimovement, #training, #qimovement, #sportperformance"
+    hashtags: "#fitnesstrainer, #hiit, #cyclelife, #track"
+  - username: "tatacalde7"
+    fullname: >-
+      Tatiana Calderon
+    location: "Spain"
+    followers: 185156
+    engagement: 396
+    commentsToLikes: 0.007921
+    id: ck136ru2j7yaf0i19jzuh8boc
+    verified: true
+    hashtags: "#ejercicio, #experiencia, #initiatives, #stayathome"
+  - username: "paulita.workout"
+    fullname: >-
+      PAULA GARCIA 🤸🏼‍♀️
+    location: "Spain"
+    followers: 11279
+    engagement: 3467
+    commentsToLikes: 0.094492
+    id: ck6tkr1jy58my0j71ikhxnajn
+    verified: false
+    hashtags: "#loveit, #bar, #athlete, #score"
   - username: "marbysnegretti"
     fullname: >-
       Marbys Negretti
     location: "Spain"
-    followers: 43071
-    engagement: 605
-    commentsToLikes: 0.038899
+    followers: 45070
+    engagement: 643
+    commentsToLikes: 0.034328
     id: ck5zljxaqkxl00i14xp3tp1x6
     verified: false
-    hashtags: "#hairstyle, #winteroutfit, #marbysnegretti, #bestrong"
-  - username: "gammafoto"
+    hashtags: "#madrid, #mcqueen, #freedom, #myheartisfull"
+  - username: "irinapeal"
     fullname: >-
-      GAMMAFOTO - www.gammafoto.com
+      I r i n a ☾
     location: "Spain"
-    followers: 31377
-    engagement: 333
-    commentsToLikes: 0.029742
-    id: ck5byyu8sq4b50i116z4ame2i
+    followers: 25173
+    engagement: 162
+    commentsToLikes: 0.148050
+    id: ck6ubnmd5an0k0j71zmp71w9r
     verified: false
-    hashtags: "#fashion, #jjmalibu, #timoteo, #marcuseaustralia"
-  - username: "christianjcb"
+    hashtags: "#women, #avedaspain, #ethical, #staysafe"
+  - username: "fj_alv"
     fullname: >-
-      Christian Camacho
+      👨🏽‍⚕️Fran Alvarado 🤸🏽‍♂️🌈
     location: "Spain"
-    followers: 25838
-    engagement: 1038
-    commentsToLikes: 0.007041
-    id: ck5qegclr0cns0i11xwqagth1
+    followers: 215306
+    engagement: 702
+    commentsToLikes: 0.032617
+    id: ckaoz5miikh5q0i786xkdq40d
     verified: false
-    hashtags: "#active, #health, #baby, #outfit"
-  - username: "cristinacifuentes"
+    hashtags: "#lyrical, #gay, #queer, #health"
+  - username: "emithesituation"
     fullname: >-
-      Cristina Cifuentes
+      Emilio Jiménez
     location: "Spain"
-    followers: 91837
-    engagement: 526
-    commentsToLikes: 0.083191
-    id: ck0w4559xwv330i19k3c6axo3
-    verified: true
-    hashtags: "#photographer, #dress, #mequedoencasa, #home"
-  - username: "nuriagaro"
-    fullname: >-
-      Nuria Garrido | Nuriagaro
-    location: "Spain"
-    followers: 20287
-    engagement: 310
-    commentsToLikes: 0.341904
-    id: ck14jg2z3k5rz0i19c0bj2lpx
+    followers: 17694
+    engagement: 728
+    commentsToLikes: 0.014747
+    id: ck5qc2qhiokux0i11m68tvt18
     verified: false
-    hashtags: "#foodblogger, #healthyfoodshare, #nottoosweet, #ketotorrijas"
-  - username: "madridcongusto"
+    hashtags: "#kisses, #zoukhotel, #zumubambassador, #trap"
+  - username: "isaac.sevillano"
     fullname: >-
-      🌿 MadridconGusto 🌿
+      Isaac Sevillano
     location: "Spain"
-    followers: 10971
-    engagement: 677
-    commentsToLikes: 0.146461
-    id: ck15uihjync3u0i1951m0xz6z
+    followers: 36645
+    engagement: 429
+    commentsToLikes: 0.028863
+    id: ck6u341gnvksy0j71q9zun5rb
     verified: false
-    hashtags: "#comidacasera, #cheeseaddict, #frutaencasa, #tartardeatun"
+    hashtags: "#pics, #moment, #image, #hair"
   - username: "jadgoo"
     fullname: >-
       Isaac Jadraque
     location: "Spain"
-    followers: 5673
-    engagement: 1451
-    commentsToLikes: 0.067700
+    followers: 6345
+    engagement: 1100
+    commentsToLikes: 0.039882
     id: ck8ta5expqhnj0j78u4zzl4rv
     verified: false
-    hashtags: "#comic, #artofinstagram, #cdchallenge, #humor"
+    hashtags: "#coronavirusmadrid, #illustrationartist, #warrior, #comicartist"
 ---

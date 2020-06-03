@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Bogotá In 2020
 description: >-
-  Find top models Instagram influencers in Bogotá in 2020. Most popular hashtags: #model #bogota #colombia #tbt.
+  Find top models Instagram influencers in Bogotá in 2020. Most popular hashtags: #model #quedateencasa #instagram #relax.
 platform: Instagram
 profiles:
   - username: "leidygomez063"
     fullname: >-
       ⚜️ 𝐋𝐞𝐢𝐢𝐝𝐲 𝐆𝐨́𝐦𝐞𝐳  ⚜️
     location: "Colombia"
-    followers: 220982
-    engagement: 452
-    commentsToLikes: 0.018715
+    followers: 254897
+    engagement: 456
+    commentsToLikes: 0.131269
     id: ck8t0qyfwsytv0j7846clzuqm
     verified: false
-    hashtags: "#studiolife, #newyork, #studio, #mixtape"
-  - username: "angela_bonilla_"
-    fullname: >-
-      Angel Bonilla💫
-    location: "Colombia"
-    followers: 15313
-    engagement: 908
-    commentsToLikes: 0.032445
-    id: ck5pvbheuh2lh0i11cxmrdv0u
-    verified: false
-    hashtags: "#colors, #orange, #latina, #grungefeed"
-  - username: "bigjoseifbbpro"
-    fullname: >-
-      JOSE LUIS RODRIGUEZ OYOLA
-    location: "Colombia"
-    followers: 40785
-    engagement: 165
-    commentsToLikes: 0.026822
-    id: ck5hrztlmvre90i11aj2tsice
-    verified: false
-    hashtags: "#coach, #ryderwear, #nebbia, #teamjotapro"
-  - username: "jarlinsonramirezphoto"
-    fullname: >-
-      Jarlinson Ramirez Moreno
-    location: "Colombia"
-    followers: 15684
-    engagement: 783
-    commentsToLikes: 0.039113
-    id: ck0w6w43aajfx0i191pe1dy7d
-    verified: false
-    hashtags: "#bodasbogota, #happy, #wedding, #biblia"
-  - username: "catart.bycatu"
-    fullname: >-
-      • C a t u   M o r a •
-    location: "Colombia"
-    followers: 5241
-    engagement: 693
-    commentsToLikes: 0.488995
-    id: ck5ztwkkp19290i144vctu9ak
-    verified: false
-    hashtags: "#regalos, #miiscosmetics, #cuarentena, #makeuplife"
-  - username: "luisaperezm10"
-    fullname: >-
-      Luisa Pérez
-    location: "Colombia"
-    followers: 12203
-    engagement: 762
-    commentsToLikes: 0.044032
-    id: ck8sz2hpxmxcn0j78lcczzygw
-    verified: false
-    hashtags: "#bogota, #makeup, #beautifulplaces, #model"
-  - username: "jesus_danil"
-    fullname: >-
-      Jesus Daniel 🔱
-    location: "Colombia"
-    followers: 78846
-    engagement: 641
-    commentsToLikes: 0.013978
-    id: ck6u5j2zr9xc90j71yx7bsull
-    verified: false
-    hashtags: "#latino, #boystyle, #boys, #instalike"
+    hashtags: "#tucacas, #manizale, #modeloscolombia, #regalamelanoche"
   - username: "juanda_aldana"
     fullname: >-
       JUAN DAVID ALDANA
     location: "Colombia"
-    followers: 389991
-    engagement: 735
-    commentsToLikes: 0.017561
+    followers: 383307
+    engagement: 754
+    commentsToLikes: 0.017572
     id: ck5ci7d94s5ie0i11plstqfw8
     verified: false
-    hashtags: "#energydrink, #pleasure, #relax, #summer"
-  - username: "jana_puninskaya"
+    hashtags: "#tbt, #nature, #siemprefuerte, #vpxsports"
+  - username: "deivigarcia"
     fullname: >-
-      🔥GINGER🔥
+      Deivi García
     location: "Colombia"
-    followers: 24789
-    engagement: 526
-    commentsToLikes: 0.030071
-    id: ck0vxsrl50jag0i19ht11z7m8
+    followers: 5959
+    engagement: 917
+    commentsToLikes: 0.039406
+    id: ck5c5hstb3hxh0i11da3htmc4
     verified: false
-    hashtags: "#tbt"
-  - username: "soylatatag"
+    hashtags: "#superia400, #disponsablecamera, #pinkfloyd, #c41"
+  - username: "tatiana_romero11"
     fullname: >-
-      Tatiana Gómez
+      Tatiana Romero
     location: "Colombia"
-    followers: 6219
-    engagement: 837
-    commentsToLikes: 0.049275
-    id: ck6ub52rj7igi0j71bu2x6lo5
+    followers: 22123
+    engagement: 329
+    commentsToLikes: 0.045414
+    id: ck5zzyi59cmwl0i14c11dq376
     verified: false
-    hashtags: "#colombia, #felicidad, #australia, #modelocolombianas"
+    hashtags: "#mode, #negra, #beauty, #shine"
+  - username: "adrianarugeles12"
+    fullname: >-
+      Adriana Rugeles
+    location: "Colombia"
+    followers: 9185
+    engagement: 792
+    commentsToLikes: 0.031180
+    id: ck0w756i0bt770i192xuu150t
+    verified: false
+    hashtags: "#martesfeliz, #tbt, #agradecida, #cuarentenatime"
+  - username: "luisaperezm10"
+    fullname: >-
+      Luisa Pérez
+    location: "Colombia"
+    followers: 13074
+    engagement: 744
+    commentsToLikes: 0.040315
+    id: ck8sz2hpxmxcn0j78lcczzygw
+    verified: false
+    hashtags: "#nomakeup, #bathroomdesign, #swimwear, #chill"
+  - username: "alejandroescobard"
+    fullname: >-
+      Alejandro Escobar ...Soñador
+    location: "Colombia"
+    followers: 14984
+    engagement: 252
+    commentsToLikes: 0.030633
+    id: ck5c227lhwefg0i11y9hpqvqm
+    verified: false
+    hashtags: "#paodeacucar, #challenge, #europe, #vacation"
+  - username: "dignerys_24"
+    fullname: >-
+      Dignerys Díaz
+    location: "Colombia"
+    followers: 8339
+    engagement: 658
+    commentsToLikes: 0.177996
+    id: ck6u83a16p6s20j710ftjd1b7
+    verified: false
+    hashtags: "#colorful, #igers, #italia, #followme"
+  - username: "andresvargasph"
+    fullname: >-
+      Andrés Vargas.
+    location: "Colombia"
+    followers: 15544
+    engagement: 522
+    commentsToLikes: 0.028442
+    id: ck0vy27v51vtb0i19pprc5rle
+    verified: false
+    hashtags: ""
+  - username: "wilches_photo"
+    fullname: >-
+      S I N O R M A L I D A D
+    location: "Colombia"
+    followers: 6479
+    engagement: 747
+    commentsToLikes: 0.011441
+    id: ck14lqa5wvy6z0i19bvyy6gef
+    verified: false
+    hashtags: "#model, #sensualportrait, #photos, #felinos"
 ---

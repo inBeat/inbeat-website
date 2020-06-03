@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Argentina In 2020
 description: >-
-  Find top photographers Instagram influencers in Argentina in 2020. Most popular hashtags: #argentina #nikon #coronavirus #ig.
+  Find top photographers Instagram influencers in Argentina in 2020. Most popular hashtags: # #makeportraits #cuarentena #blackandwhite.
 platform: Instagram
 profiles:
+  - username: "ivolendranz"
+    fullname: >-
+      Ivo Lendranz
+    location: "Argentina"
+    followers: 75240
+    engagement: 413
+    commentsToLikes: 0.069532
+    id: ck13brhffwtk50i19uvjhxrds
+    verified: false
+    hashtags: "#aovportraits, #portraitsshotz, #makeportraits, #fineartphg"
   - username: "adelselphoto"
     fullname: >-
       Agustin del Sel
     location: "Argentina"
-    followers: 15779
-    engagement: 806
-    commentsToLikes: 0.038704
+    followers: 15959
+    engagement: 804
+    commentsToLikes: 0.038749
     id: ck13brezzwt8e0i19e96zobx1
     verified: false
-    hashtags: "#makeportraits, #lookoftheday, #ig, #bleachmyfilm"
+    hashtags: "#fashiongram, #pandemia, #sensaciones, #pinamar"
+  - username: "martinorozco"
+    fullname: >-
+      Martín Orozco
+    location: "Argentina"
+    followers: 31697
+    engagement: 185
+    commentsToLikes: 0.062264
+    id: ck0vveqs8ot5k0i19jk9fxk05
+    verified: false
+    hashtags: "#tuvieja, #humansofmza, #peru, #mordisquito"
   - username: "joacoiribarne"
     fullname: >-
       Joaqui
     location: "Argentina"
-    followers: 14132
-    engagement: 1394
-    commentsToLikes: 0.013877
+    followers: 14203
+    engagement: 1349
+    commentsToLikes: 0.011738
     id: ck6ua3vxk1bzo0j71olnisne9
     verified: false
     hashtags: "#shotoniphone, #estoysoy, #lofoten, #norway"
-  - username: "misscomplejo"
+  - username: "dudubarretov"
     fullname: >-
-      Nadia Bautista
+      Eduardo Barreto 🌾
     location: "Argentina"
-    followers: 25419
-    engagement: 360
-    commentsToLikes: 0.034866
-    id: ck5pwmelpnisv0i110rhjtlz3
+    followers: 7503
+    engagement: 908
+    commentsToLikes: 0.043519
+    id: ckap3ih9t34th0i78sfq1y1ye
     verified: false
     hashtags: ""
   - username: "pabloseco_ph"
     fullname: >-
       Pablo Seco ✘
     location: "Argentina"
-    followers: 21992
-    engagement: 1023
-    commentsToLikes: 0.004835
+    followers: 21693
+    engagement: 1069
+    commentsToLikes: 0.006212
     id: ck5hp0qdsqk230i11aa544lp8
+    verified: false
+    hashtags: ""
+  - username: "taboadafa"
+    fullname: >-
+      Fabián Taboada
+    location: "Argentina"
+    followers: 9336
+    engagement: 773
+    commentsToLikes: 0.224891
+    id: ck5q3ohchlpne0i11ysanf1yj
+    verified: false
+    hashtags: "#newface, #shootingday, #beautyportrait, #bookprequince"
+  - username: "misscomplejo"
+    fullname: >-
+      Nadia Bautista
+    location: "Argentina"
+    followers: 25739
+    engagement: 352
+    commentsToLikes: 0.037853
+    id: ck5pwmelpnisv0i110rhjtlz3
     verified: false
     hashtags: ""
   - username: "lemogliefede"
     fullname: >-
       Fede Le Moglie
     location: "Argentina"
-    followers: 24853
-    engagement: 106
-    commentsToLikes: 0.067027
+    followers: 24999
+    engagement: 117
+    commentsToLikes: 0.075662
     id: ck8syzfbamm6t0j78tuj8yg0s
     verified: false
     hashtags: "#tommyhilfigerjewels"
-  - username: "brunogentileph"
+  - username: "lupejelena"
     fullname: >-
-      Bruno Gentile
+      Lupe Jelena
     location: "Argentina"
-    followers: 8221
-    engagement: 847
-    commentsToLikes: 0.030386
-    id: ck0w5aslx2qk40i19qtmj79yu
+    followers: 20535
+    engagement: 390
+    commentsToLikes: 0.036559
+    id: ck6031e63kgku0i14ihaxj0qa
     verified: false
-    hashtags: "#glittermakeup, #retouch, #cooltones, #portraitphotography"
-  - username: "mariela.photography"
-    fullname: >-
-      Mariela Ordóñez
-    location: "Argentina"
-    followers: 5463
-    engagement: 680
-    commentsToLikes: 0.046755
-    id: ck5cepjzglgdg0i11tn794h9l
-    verified: false
-    hashtags: "#tbt"
-  - username: "rschemidt"
-    fullname: >-
-      Ronaldo Schemidt
-    location: "Argentina"
-    followers: 30711
-    engagement: 456
-    commentsToLikes: 0.013447
-    id: ck5bthhoffzar0i11q58qbzb9
-    verified: false
-    hashtags: "#d850, #amusementpark, #carne, #fire"
-  - username: "superchinii"
-    fullname: >-
-      nati☽ ☼
-    location: "Argentina"
-    followers: 7375
-    engagement: 507
-    commentsToLikes: 0.054416
-    id: ck6udb95uk40p0j71argpu2p9
-    verified: false
-    hashtags: ""
-  - username: "matiasarado"
-    fullname: >-
-      Matias Arado V. ®️ 📷
-    location: "Argentina"
-    followers: 22211
-    engagement: 172
-    commentsToLikes: 0.047874
-    id: ck5hny9j0olly0i11j71blsgc
-    verified: false
-    hashtags: "#35mm, #valentines, #teaser, #stayathome"
+    hashtags: "#thoughts, #balance, #swan, #legsfordays"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Berlin In 2020
 description: >-
-  Find top nutrition Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #stayhome #love #fitness.
+  Find top nutrition Instagram influencers in Berlin in 2020. Most popular hashtags: #nutrition #strong #tanning #home.
 platform: Instagram
 profiles:
-  - username: "vanessalouis__official"
+  - username: "kraftrunners"
     fullname: >-
-      Ꮩᴀᴎᴇѕѕᴀ Ꮮ౦uіs
+      KRAFT Runners
     location: "Germany"
-    followers: 111933
-    engagement: 454
-    commentsToLikes: 0.025871
-    id: ck55o5l1u7o830i111e62h81i
-    verified: false
-    hashtags: "#models, #goodlife, #cars, #bikinigirls"
-  - username: "patrickfabianofficial"
-    fullname: >-
-      Patrick Fabian Instagram
-    location: "Germany"
-    followers: 284551
-    engagement: 367
-    commentsToLikes: 0.012093
-    id: ck13c3px5ygzo0i19g0nqp451
+    followers: 11361
+    engagement: 224
+    commentsToLikes: 0.045159
+    id: ck6tte8cqa4qp0j712fsbmhye
     verified: true
-    hashtags: "#temperature, #blueeyes, #reisen, #happylife"
-  - username: "sahra_ko"
+    hashtags: "#kraft, #abstand, #krafthoodie, #gvgp"
+  - username: "rickhett"
     fullname: >-
-      S A H R A - A N N A
+      Ricco Ratajczyk
     location: "Germany"
-    followers: 10762
-    engagement: 741
-    commentsToLikes: 0.086745
-    id: ck8szysoyq8oh0j78gv9w7z5y
+    followers: 2153
+    engagement: 1675
+    commentsToLikes: 0.043979
+    id: ck8t70zdrfa830j782tev5jib
     verified: false
-    hashtags: "#rideberlin, #corona, #loveyourlife, #backbend"
-  - username: "miri.krug"
+    hashtags: "#stayhydrated, #drinkwater, #photography, #spadayallday"
+  - username: "eric_skupien"
     fullname: >-
-      MIRI | SPORTS NUTRITION
+      𝙀𝙧𝙞𝙘 𝙎𝙠𝙪𝙥𝙞𝙚𝙣 ⭐️
     location: "Germany"
-    followers: 8502
-    engagement: 659
-    commentsToLikes: 0.028304
-    id: ck14ivlzshcxd0i19wcf9e981
+    followers: 21879
+    engagement: 653
+    commentsToLikes: 0.053120
+    id: ck9hamyybd5vy0j78zic2qawl
     verified: false
-    hashtags: "#kochen, #germanthrowdown, #wosinddie140kgvonfr, #travel"
-  - username: "marathon.princess"
+    hashtags: "#bachelor, #hairstyle, #portrait, #wheels"
+  - username: "veganskiofficial"
     fullname: >-
-      Marina Angela
+      Veganski
     location: "Germany"
-    followers: 20071
-    engagement: 585
-    commentsToLikes: 0.031752
-    id: ck5qa1cr1e1ld0i11b6shffoa
+    followers: 18615
+    engagement: 365
+    commentsToLikes: 0.024773
+    id: ckaorlv5fnt180i78y6lhdm47
     verified: false
-    hashtags: "#react, #jordan, #greenelixir, #superdry"
-  - username: "mariiisa_hofi"
+    hashtags: "#veganskincare, #foodmarket, #breakfast, #flatlaytoday"
+  - username: "nathalie.vegan"
     fullname: >-
-      HEALTHY FOOD I LIFESTYLE
+      Vegan Nutrition🌻 |📍Berlin
     location: "Germany"
-    followers: 21178
-    engagement: 835
-    commentsToLikes: 0.056926
-    id: ck0txg2zcizdk0i19ulv1zs53
+    followers: 6625
+    engagement: 606
+    commentsToLikes: 0.122858
+    id: ck9h9t2e49upu0j78wjfmefq4
     verified: false
-    hashtags: "#activeathome, #spagatlernen, #balkonien, #supergirl"
-  - username: "nadine__gina"
+    hashtags: ""
+  - username: "regulardebbie"
     fullname: >-
-      Nadine-Personaltrainer-Berlin
+      DEBBIE
     location: "Germany"
-    followers: 26565
-    engagement: 218
-    commentsToLikes: 0.145670
-    id: ck6tidssy0ize0j7102qxhbmi
+    followers: 4024
+    engagement: 1284
+    commentsToLikes: 0.049596
+    id: ckap34veo1knf0i7889dddsu5
     verified: false
-    hashtags: "#teatime, #beweglichkeit, #workout, #passionsport"
-  - username: "viviischmdt"
+    hashtags: "#streetworkout, #handbalancer, #womenwhoexplore, #handstanding"
+  - username: "dr.viviancharlott"
     fullname: >-
-      VIVIEN
+      ATTITUDE OF LOVE AND GRATITUDE
     location: "Germany"
-    followers: 25136
-    engagement: 1814
-    commentsToLikes: 0.013865
-    id: ck13894ecf3gd0i19igje1eup
+    followers: 5209
+    engagement: 1348
+    commentsToLikes: 0.064482
+    id: ck5zswlnnzbi20i14aco2a1um
     verified: false
-    hashtags: "#gymgirl, #timewithfriends, #longtimenoselfie, #weihnachten2019"
-  - username: "markus_ertelt"
+    hashtags: "#gespensterwald, #onelove, #hamburg, #purelove"
+  - username: "_johanna_kl_"
     fullname: >-
-      Markus Ertelt
+      Johanna
     location: "Germany"
-    followers: 16827
-    engagement: 749
-    commentsToLikes: 0.025008
-    id: ck6tmo7or87f00j71d708qoxo
-    verified: true
-    hashtags: "#beastmode, #getitdone, #crew, #cityoffilmpotsdam"
-  - username: "micha.kara"
-    fullname: >-
-      Micha Kara
-    location: "Germany"
-    followers: 62340
-    engagement: 216
-    commentsToLikes: 0.044565
-    id: ck0tyst4dnwc30i196fz4cr3u
+    followers: 20098
+    engagement: 671
+    commentsToLikes: 0.044944
+    id: ck5hls5bvkrbe0i11x8t6d3ts
     verified: false
-    hashtags: "#morning, #monday, #2ndhome, #bestestadtf"
+    hashtags: "#positive, #movement, #portsuniverse, #couch"
+  - username: "marianna.ovlach"
+    fullname: >-
+      ➖MARIANNA OVLACH➖
+    location: "Germany"
+    followers: 13423
+    engagement: 584
+    commentsToLikes: 0.070086
+    id: ck8t8q66olcno0j78m4noqrlx
+    verified: false
+    hashtags: "#oatwaffles, #tvtowerberlin, #funnypictures, #ponytail"
+  - username: "katerinagiannoglou"
+    fullname: >-
+      Katerina Giannoglou
+    location: "Germany"
+    followers: 16203
+    engagement: 263
+    commentsToLikes: 0.061232
+    id: ck5bvwca2kj5l0i11jnpocn92
+    verified: false
+    hashtags: "#yogalifestyle, #beach, #germany, #timeoff"
 ---

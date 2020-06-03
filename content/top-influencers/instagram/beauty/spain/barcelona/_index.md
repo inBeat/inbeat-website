@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top beauty Instagram influencers in Barcelona in 2020. Most popular hashtags: #ootd #beauty #yomequedoencasa #fashion.
+  Find top beauty Instagram influencers in Barcelona in 2020. Most popular hashtags: #beauty #yomequedoencasa #streetstyle #barcelona.
 platform: Instagram
 profiles:
-  - username: "dr.alejandro.segarra"
+  - username: "rakbcn28"
     fullname: >-
-      Dr. Alejandro Segarra
+      Rakel Lopez Sanchez
     location: "Spain"
-    followers: 30717
-    engagement: 309
-    commentsToLikes: 0.110707
-    id: ck55kbo51yxte0i11zato21js
+    followers: 96040
+    engagement: 155
+    commentsToLikes: 0.036506
+    id: ckap1u757w6250i7835sd5kp7
     verified: false
-    hashtags: "#skincare, #beforeandafter, #beautybarcelona, #madrid"
+    hashtags: "#makeup, #enjoylife, #ibiza, #haul"
+  - username: "mybeautrip"
+    fullname: >-
+      Marjorie
+    location: "Spain"
+    followers: 66166
+    engagement: 109
+    commentsToLikes: 0.189048
+    id: ck5px2vcgptv00i11w9zwsb8o
+    verified: false
+    hashtags: "#miniblackdress, #intamakeup, #floraldress, #belleza"
   - username: "gabbyrucci"
     fullname: >-
-      𝑮𝒂𝒃𝒃𝒚 𝑹𝒖𝒄𝒄𝒊 🌵𝑶𝒖𝒓𝒈𝒍𝒂𝒎.𝒄𝒐𝒎
+      𝑮𝒂𝒃𝒃𝒚 𝑹𝒖𝒄𝒄𝒊 💖𝑶𝒖𝒓𝒈𝒍𝒂𝒎.𝒄𝒐𝒎
     location: "Spain"
-    followers: 17539
-    engagement: 409
-    commentsToLikes: 0.183904
+    followers: 20205
+    engagement: 306
+    commentsToLikes: 0.080577
     id: ck5ztj8yx0ioi0i14y42m29t7
     verified: false
-    hashtags: "#lips, #beautiful, #quotesenespa, #positive"
+    hashtags: "#arkopharma, #life, #bcsun, #cabello"
   - username: "marieberiestain"
     fullname: >-
       ℳ𝒶𝓇𝒾𝑒 ℬ𝑒𝓇𝒾𝑒𝓈𝓉𝒶𝒾𝓃
     location: "Spain"
-    followers: 14270
-    engagement: 506
-    commentsToLikes: 0.011464
+    followers: 13975
+    engagement: 425
+    commentsToLikes: 0.021282
     id: ck6tiayr30dh20j717efutvqw
     verified: false
-    hashtags: ""
+    hashtags: "#bts"
+  - username: "trendy_lover"
+    fullname: >-
+      Sara Martín
+    location: "Spain"
+    followers: 15834
+    engagement: 287
+    commentsToLikes: 0.107655
+    id: ckaoxffm4d0wl0i78f7k6afkb
+    verified: false
+    hashtags: "#magneticlashes, #cosmetica, #bobbibrownes, #outfitinspiration"
+  - username: "itsrogermc"
+    fullname: >-
+      Holaaaa
+    location: "Spain"
+    followers: 2259
+    engagement: 1789
+    commentsToLikes: 0.041483
+    id: ckapcobfb4jtm0i784cbgvjv7
+    verified: false
+    hashtags: "#buildings, #portraiture, #portraitphotography, #barcelona"
+  - username: "bella.como.camella"
+    fullname: >-
+      Amanda Marín Gutiérrez
+    location: "Spain"
+    followers: 7292
+    engagement: 428
+    commentsToLikes: 0.085549
+    id: ck5ztja9l0is90i14dcvkw48q
+    verified: false
+    hashtags: "#elle, #elleledition, #barcelonalife, #yeouthskincare"
   - username: "florinetielman"
     fullname: >-
       𝔽𝕝𝕠𝕣𝕚𝕟𝕖 𝕋𝕚𝕖𝕝𝕞𝕒𝕟
     location: "Spain"
-    followers: 2420
-    engagement: 1716
-    commentsToLikes: 0.052400
+    followers: 2429
+    engagement: 1735
+    commentsToLikes: 0.053858
     id: ck5zy706k9ccr0i1492to7zgo
     verified: false
-    hashtags: "#bts, #polaroids, #cashmere, #barcelona"
-  - username: "heidicolourvibes"
+    hashtags: "#beauty, #cosmopolitan, #fashion, #polaroids"
+  - username: "paucarrera"
     fullname: >-
-      Colourvibes 💖 Lifestyle Blog
+      • ᴘ ᴀ ᴜ ᴄ ᴀ  • 🏁
     location: "Spain"
-    followers: 15292
-    engagement: 313
-    commentsToLikes: 0.523336
-    id: ck6tmdrpk7nmp0j71zb3i8076
+    followers: 34592
+    engagement: 390
+    commentsToLikes: 0.083273
+    id: ck14hd6z19qcb0i19b8bsdse8
     verified: false
-    hashtags: "#mekkdesx21buttons, #ootdfashion, #spanishblogger, #touslovers"
-  - username: "in_the_fifties"
+    hashtags: "#moda, #streetstyle, #outfitvideo, #espan"
+  - username: "soniaalins"
     fullname: >-
-      Roser Vilarroya
+      Sonia Alins
     location: "Spain"
-    followers: 11062
-    engagement: 511
-    commentsToLikes: 0.501569
-    id: ck5zt4pyrzqgk0i14fqqqbzql
+    followers: 31761
+    engagement: 451
+    commentsToLikes: 0.021378
+    id: ck6u1ki7umac90j71l6d5nnee
     verified: false
-    hashtags: "#streetstyle, #cuadros, #boinas, #todopasar"
-  - username: "diariodeestilo"
-    fullname: >-
-      Mariona Planas
-    location: "Spain"
-    followers: 35427
-    engagement: 110
-    commentsToLikes: 0.102938
-    id: ck14ktbger7qk0i19ljokz1z6
-    verified: false
-    hashtags: "#equipment, #new, #sneakers, #potenciatubelleza"
-  - username: "victorkenzo"
-    fullname: >-
-      Víctor Kenzo ⚡️
-    location: "Spain"
-    followers: 80369
-    engagement: 154
-    commentsToLikes: 0.019996
-    id: ck0vyuqlk5vc20i1956dnipzf
-    verified: false
-    hashtags: "#formentera, #baliisland, #puertorico, #prozis"
-  - username: "alegnaslife"
-    fullname: >-
-      Angiie
-    location: "Spain"
-    followers: 9807
-    engagement: 1214
-    commentsToLikes: 0.106438
-    id: ck5hp3szwqpj90i110u60i0k0
-    verified: false
-    hashtags: "#vintage, #different, #pintadoamano, #stayhome"
-  - username: "danabreeman"
-    fullname: >-
-      Dana Breeman
-    location: "Spain"
-    followers: 25256
-    engagement: 975
-    commentsToLikes: 0.012836
-    id: ck0u9bksp9hnc0i19jafaip6d
-    verified: false
-    hashtags: "#palayeroyale, #stayathome, #maybellinechallenge"
+    hashtags: "#frenchwriter, #colorful, #myhome, #playingwithmaterials"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Toronto In 2020
 description: >-
-  Find top vegan Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #toreats #torontolife #torontofood.
+  Find top vegan Instagram influencers in Toronto in 2020. Most popular hashtags: #vegantoronto #quarantinelife #thankful #toronto.
 platform: Instagram
 profiles:
-  - username: "_mermaidmaddie"
+  - username: "ladyofrandomnessto"
     fullname: >-
-      not your average mermaid
+      Lady Of Randomness To 💙
     location: "Canada"
-    followers: 2202
-    engagement: 1289
-    commentsToLikes: 0.179431
-    id: ck8tbxtroxlua0j78wchp522j
+    followers: 13983
+    engagement: 338
+    commentsToLikes: 0.285591
+    id: ck134od81xeii0i19nwpjlp6o
     verified: false
-    hashtags: "#mytribemyvibe, #freelancemodel, #cleanbeautyblogger, #babeswhohustle"
-  - username: "brunchbabesto"
-    fullname: >-
-      Brunch Babes TO
-    location: "Canada"
-    followers: 15768
-    engagement: 592
-    commentsToLikes: 0.099063
-    id: ck14gnydb665z0i1920gckcav
-    verified: false
-    hashtags: "#drool, #berries, #healthy, #mountpleasant"
+    hashtags: "#takeout, #richmondhill, #snickerdoodle, #starbucks"
   - username: "shaksz_3"
     fullname: >-
       Ahmed Mesallati
     location: "Canada"
-    followers: 34264
-    engagement: 445
-    commentsToLikes: 0.036733
+    followers: 36143
+    engagement: 433
+    commentsToLikes: 0.037005
     id: ck14jig87kikb0i19w6no7dxd
     verified: false
-    hashtags: "#nanatsunotaizai, #deathstroke, #olympia, #theboystv"
+    hashtags: "#camaro, #intothedark, #noir, #sweetsour"
+  - username: "_mermaidmaddie"
+    fullname: >-
+      Madeleine ♡ Beauty Influencer
+    location: "Canada"
+    followers: 2358
+    engagement: 1363
+    commentsToLikes: 0.187151
+    id: ck8tbxtroxlua0j78wchp522j
+    verified: false
+    hashtags: "#quoteoftheday, #loveyourlife, #ootdathome, #newblogger"
+  - username: "hungrysheepie"
+    fullname: >-
+      Cherrie 🇨🇦 Toronto GTA Foodie
+    location: "Canada"
+    followers: 17933
+    engagement: 585
+    commentsToLikes: 0.090177
+    id: ck55kpqw8zu6q0i11zpxq2mze
+    verified: false
+    hashtags: "#tamago, #wasabicheetos, #hattendocafe, #japanesedessert"
   - username: "snackswithjacks"
     fullname: >-
       jacqueline
     location: "Canada"
-    followers: 3062
-    engagement: 1149
-    commentsToLikes: 0.281169
+    followers: 3102
+    engagement: 1154
+    commentsToLikes: 0.240167
     id: ck0ty8b9olw2r0i19kb8f8zva
     verified: false
-    hashtags: "#mytablesituation, #healthyrecipes, #griefrecovery, #yyzeats"
-  - username: "ajthetechnologist"
+    hashtags: "#onvtable, #animalcrossing, #selfcare, #torontovegan"
+  - username: "thejasmincull"
     fullname: >-
-      AJ ~ Toronto Blogger ~
+      Jasmin Cull | PGA Tour Driven
     location: "Canada"
-    followers: 3620
-    engagement: 1074
-    commentsToLikes: 0.121141
-    id: ck55mbg5r3lh60i11t01c2jsx
+    followers: 2485
+    engagement: 1239
+    commentsToLikes: 0.062399
+    id: ck6ui4hncd0in0j71taxyr0mw
     verified: false
-    hashtags: "#flatlaylove, #greatgatsby, #womeninbusiness, #fruitydrink"
-  - username: "ehvegan"
+    hashtags: "#loveofmylife, #loveyou, #health, #coursesopen"
+  - username: "ameliadoesdinner"
     fullname: >-
-      Vic and Chris
+      Amelia
     location: "Canada"
-    followers: 42627
-    engagement: 193
-    commentsToLikes: 0.061811
-    id: ck0w2oggcpejw0i19gbu2hfsd
+    followers: 6075
+    engagement: 376
+    commentsToLikes: 0.250231
+    id: ck5zp28z9rujk0i14rgij6bmp
     verified: false
-    hashtags: "#canadiantraveller, #girlstrip, #tokyoramen, #canadiantravellers"
-  - username: "dougmcnish"
+    hashtags: "#marconaalmonds, #arrozconpollo, #eatingout, #brampton"
+  - username: "bisante"
     fullname: >-
-      Doug McNish
+      Andrew Bisante
     location: "Canada"
-    followers: 37676
-    engagement: 89
-    commentsToLikes: 0.038564
-    id: ck5cgoojzp8vc0i1134yqkozr
+    followers: 17316
+    engagement: 220
+    commentsToLikes: 0.052176
+    id: ck5zwl7es6bj40i14jkpr3sew
     verified: false
-    hashtags: "#ripbig, #ripbiggiesmalls, #greatestofalltime, #cooking"
-  - username: "kerrylaifatt"
+    hashtags: ""
+  - username: "vegan_veterinarian"
     fullname: >-
-      Kerry | Toronto Travel Foodie
+      Dr. Travis Strong DVM MS DACVO
     location: "Canada"
-    followers: 8532
-    engagement: 1063
-    commentsToLikes: 0.282001
-    id: ck5zxd9mv7sn50i145r3r8vkm
+    followers: 49284
+    engagement: 581
+    commentsToLikes: 0.023320
+    id: ck15u88nflwgj0i19hf7uh4vp
     verified: false
-    hashtags: "#valentines, #freshair, #foodie, #justine"
-  - username: "xlululotus"
+    hashtags: "#repost"
+  - username: "therubygore"
     fullname: >-
-      L U L U 🐍 L O T U S
+      𝑹𝑼𝑩𝒀 𝑮𝑶𝑹𝑬 🕷
     location: "Canada"
-    followers: 15439
-    engagement: 474
-    commentsToLikes: 0.079416
-    id: ck55p8b81a0ka0i11lhylx56j
+    followers: 41710
+    engagement: 74
+    commentsToLikes: 0.019214
+    id: ck55klzwezmq90i112lqh2ibz
     verified: false
-    hashtags: "#subscribe, #waterbirth, #splittongue, #recycle"
-  - username: "cheskieeats"
-    fullname: >-
-      ✨ Cheskie McFadden ✨
-    location: "Canada"
-    followers: 5514
-    engagement: 451
-    commentsToLikes: 0.052993
-    id: ck6tic0ny0flh0j71ghph2pog
-    verified: false
-    hashtags: "#torontolife, #italian, #foodie, #torontofood"
+    hashtags: "#manicpanicnyc, #magnoliatattoo, #colortattoos, #weddinginspiration"
 ---

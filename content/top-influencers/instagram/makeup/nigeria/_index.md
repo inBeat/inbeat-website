@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top makeup Instagram influencers in Nigeria in 2020. Most popular hashtags: #explorepage #explore #makeupforblackwomen #dontrushchallenge.
+  Find top makeup Instagram influencers in Nigeria in 2020. Most popular hashtags: #fashion #juviasplace #makeupartist #style.
 platform: Instagram
 profiles:
+  - username: "feyisoge"
+    fullname: >-
+      LAGOS MAKEUP ARTIST
+    location: "Nigeria"
+    followers: 6817
+    engagement: 1230
+    commentsToLikes: 0.163905
+    id: ckaovei4549hz0i78ekofwlkz
+    verified: false
+    hashtags: "#ripghunu, #rainbow"
   - username: "uwanii"
     fullname: >-
       Uwani Aliyu
     location: "Nigeria"
-    followers: 32380
-    engagement: 784
-    commentsToLikes: 0.029917
+    followers: 32211
+    engagement: 803
+    commentsToLikes: 0.031386
     id: ck14j2kfqib4u0i19a93so79u
     verified: false
-    hashtags: "#barbforever, #thejaylaunion, #1of3, #owambe"
-  - username: "frances_uche"
-    fullname: >-
-      FRANCES OFOEDU
-    location: "Nigeria"
-    followers: 4169
-    engagement: 1876
-    commentsToLikes: 0.137489
-    id: ck6tuva8yimpc0j71y8utuhg6
-    verified: false
-    hashtags: "#covid, #hotsauce, #skincare, #hotchocolate"
+    hashtags: "#blonde, #owambe, #keto, #ootd"
   - username: "bregha"
     fullname: >-
       Bisola Omoregha |MAKEUP ARTIST
     location: "Nigeria"
-    followers: 42836
-    engagement: 352
-    commentsToLikes: 0.055040
+    followers: 44949
+    engagement: 510
+    commentsToLikes: 0.088308
     id: ck15pthxzzjn70i19d1dhq6oq
     verified: false
-    hashtags: "#skinlike, #inglotcosmetics, #weddingprep, #longwearingmakeup"
+    hashtags: "#makeuptutorials, #redlips, #makeuptutorial, #darskinmakeup"
   - username: "ink.kechi"
     fullname: >-
       Ink Eze
     location: "Nigeria"
-    followers: 20472
-    engagement: 537
-    commentsToLikes: 0.042581
+    followers: 20438
+    engagement: 531
+    commentsToLikes: 0.050256
     id: ck5c1g5bav4i60i11ythx2usx
     verified: false
-    hashtags: "#moetmoment, #valfestankarachallenge, #blackexcellence, #insideafrica"
-  - username: "mary_aebeh"
-    fullname: >-
-      Mary Aebeh
-    location: "Nigeria"
-    followers: 5267
-    engagement: 806
-    commentsToLikes: 0.072175
-    id: ck8t4vuao81rp0j78voug6hi3
-    verified: false
-    hashtags: "#birthdaygirl, #yikes, #bellanaijaonline, #birthday"
-  - username: "artistrybyzee"
-    fullname: >-
-      Zulaikha M M
-    location: "Nigeria"
-    followers: 12333
-    engagement: 371
-    commentsToLikes: 0.092247
-    id: ck134jwr5wslw0i19l109nf0q
-    verified: false
-    hashtags: "#nigerianbeautyinfluencer, #brows, #lizondobeauty, #makeupartistry"
+    hashtags: "#harleyquinn, #ilashe, #ankara, #cnninsideafrica"
   - username: "kvng_bella_"
     fullname: >-
       BELLA 👑
     location: "Nigeria"
-    followers: 3865
-    engagement: 987
-    commentsToLikes: 0.062520
+    followers: 3895
+    engagement: 985
+    commentsToLikes: 0.064006
     id: ck5zze67kbkhb0i14bwlatv7t
     verified: false
-    hashtags: "#nigerianwedding, #thecsweddingparty, #weddingdiggest, #yorubaweddings"
+    hashtags: "#yorubaweddings, #grownwoman, #soinlove2020, #aktturns1"
+  - username: "omollara"
+    fullname: >-
+      ⓄⓂⓄⓁⒶⓇⒶ OBAFEMI👑
+    location: "Nigeria"
+    followers: 2829
+    engagement: 1209
+    commentsToLikes: 0.100840
+    id: ck5q9p0quc8ze0i11eifkgehh
+    verified: false
+    hashtags: "#assurance2020, #isolation, #foodlover, #noodles"
   - username: "nikescanvas"
     fullname: >-
       Adeniks niks On Dze Beat
     location: "Nigeria"
-    followers: 102623
-    engagement: 875
-    commentsToLikes: 0.024828
+    followers: 114850
+    engagement: 901
+    commentsToLikes: 0.024488
     id: ck0w723uzbdw80i19or5xl2y2
     verified: false
-    hashtags: "#sephorasquadapplication, #fentyskinstick, #4chairstyles, #swipe"
-  - username: "bybronx"
+    hashtags: "#makeup, #skincareroutine, #darkskin, #coronaxjuvias"
+  - username: "mary_aebeh"
     fullname: >-
-      Ronke Bodamisi
+      Mary Aebeh
     location: "Nigeria"
-    followers: 83809
-    engagement: 202
-    commentsToLikes: 0.048967
-    id: ck13ay86qsrrn0i196jdc2b7e
+    followers: 5081
+    engagement: 852
+    commentsToLikes: 0.080911
+    id: ck8t4vuao81rp0j78voug6hi3
     verified: false
-    hashtags: "#repost, #dontrushchallenge, #baddies, #iwd2020"
-  - username: "lhidhiastanley"
+    hashtags: "#faceofsilvalux, #girl, #coverpage, #naijabeautyhair"
+  - username: "aivlysu"
     fullname: >-
-      LYDIA STANLEY 🦋
+      Sylvia
     location: "Nigeria"
-    followers: 63367
-    engagement: 330
-    commentsToLikes: 0.076175
-    id: ck15ptj6rzjut0i19mt8joqe2
+    followers: 3251
+    engagement: 1260
+    commentsToLikes: 0.089256
+    id: ck6ufdy58wgze0j71ckw6e5qx
     verified: false
-    hashtags: "#underratedmuas, #valentines, #nigerianwedding, #humour"
+    hashtags: "#juviasplace, #muafollowtrain, #graphicliner, #crayoncutie"
+  - username: "uzodinma_g"
+    fullname: >-
+      Uzodinma Gift🌺🌺
+    location: "Nigeria"
+    followers: 2201
+    engagement: 1088
+    commentsToLikes: 0.106352
+    id: ckaowcbz88au40i78te9hv4ip
+    verified: false
+    hashtags: "#modelmayhem, #modellingdays, #bridestyle, #igersnairobi"
 ---

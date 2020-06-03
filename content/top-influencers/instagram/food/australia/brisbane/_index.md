@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top food Instagram influencers in Brisbane in 2020. Most popular hashtags: #brisbane #food #vegan #australia.
+  Find top food Instagram influencers in Brisbane in 2020. Most popular hashtags: #food #isolation #queensland #brisbanecity.
 platform: Instagram
 profiles:
-  - username: "onedrinkaday"
+  - username: "suewhit"
     fullname: >-
-      One Drink A Day (Heebs)
+      Sue Whiteman Australia
     location: "Australia"
-    followers: 170837
-    engagement: 61
-    commentsToLikes: 0.019283
-    id: ck0w549g21tnv0i19nnksh3pc
+    followers: 33805
+    engagement: 147
+    commentsToLikes: 0.065606
+    id: ck0w35hberos90i19vx6rsbg1
     verified: false
-    hashtags: "#food, #brisbanecity, #cocktailgarnish, #foodgarnish"
-  - username: "run2food"
+    hashtags: "#csrsugar, #tassiestyle, #findyourself, #focusaustralia"
+  - username: "foodieadam"
     fullname: >-
-      Vegan Food Blog 🌱
+      Adam | Brisbane Food Blogger
     location: "Australia"
-    followers: 31594
-    engagement: 637
-    commentsToLikes: 0.239734
-    id: ck0tx137fhgrw0i19w8b4sprl
+    followers: 29471
+    engagement: 83
+    commentsToLikes: 0.058711
+    id: ck8sxmw7qhxc00j78uxzvdl34
     verified: false
-    hashtags: "#healthysnack, #whatveganseat, #proteindonut, #unicornsuperfoods"
-  - username: "emily.hearnn"
+    hashtags: ""
+  - username: "foodieinheels"
     fullname: >-
-      EMILY HEARN COACHING
+      Blogging in heels since 2015.
     location: "Australia"
-    followers: 10086
-    engagement: 354
-    commentsToLikes: 0.048671
-    id: ck5c3fsuxz8o30i117v2s5cuq
+    followers: 17218
+    engagement: 233
+    commentsToLikes: 0.333308
+    id: ckaore5rcmszb0i78ygdjrb7x
     verified: false
-    hashtags: "#weightstraining, #brisbane, #goals, #meatfree"
+    hashtags: "#supportsmallbusiness"
+  - username: "madison.bne"
+    fullname: >-
+      Madison
+    location: "Australia"
+    followers: 16736
+    engagement: 677
+    commentsToLikes: 0.021964
+    id: ck6tq2jbkp1ng0j71oi9n7u55
+    verified: false
+    hashtags: "#beers, #sunset, #sunrise, #dog"
+  - username: "anthony_hearsey"
+    fullname: >-
+      Anthony Hearsey
+    location: "Australia"
+    followers: 7057
+    engagement: 1733
+    commentsToLikes: 0.035636
+    id: ck5c9ei5bbabc0i11nr9d2k0w
+    verified: false
+    hashtags: "#project, #happynewyear, #retrowave, #wildlife"
+  - username: "jeanpierresmith"
+    fullname: >-
+      JP Smith 🇿🇦🇦🇺 3️⃣0️⃣
+    location: "Australia"
+    followers: 6101
+    engagement: 942
+    commentsToLikes: 0.039482
+    id: ck6tz92ov8brw0j71ohsh92t9
+    verified: false
+    hashtags: "#family, #home, #sunwolves, #kilcoy"
   - username: "julietaroldann"
     fullname: >-
       Julieta Roldan 🇦🇺 🇦🇷
     location: "Australia"
-    followers: 79914
-    engagement: 153
-    commentsToLikes: 0.040072
+    followers: 79181
+    engagement: 134
+    commentsToLikes: 0.041640
     id: ck0ud6ywjigcn0i19d8n00v30
     verified: false
-    hashtags: "#lowfatdiet, #doggifts, #christmaspresents, #bestdonuts"
+    hashtags: "#uncertaintimes, #mangojuice, #glowinskin, #caffeineaddict"
+  - username: "brissiebites"
+    fullname: >-
+      Food Blogger | Jacqui John
+    location: "Australia"
+    followers: 4425
+    engagement: 1907
+    commentsToLikes: 0.092296
+    id: ck6tkm2ym4z230j715oltesd5
+    verified: false
+    hashtags: "#italianfoodporn, #ginstagram, #cacaonibs, #meateater"
   - username: "dariomancachef"
     fullname: >-
       Dario Manca
     location: "Australia"
-    followers: 33851
-    engagement: 95
-    commentsToLikes: 0.033146
+    followers: 33732
+    engagement: 139
+    commentsToLikes: 0.052763
     id: ck0u99kra988c0i1962n89qpv
     verified: false
-    hashtags: "#gamefarm, #entree, #streetfood, #vegan"
+    hashtags: "#happybday, #gourmet, #isolation, #jewish"
   - username: "so0tie"
     fullname: >-
       Sootie & Larni
     location: "Australia"
-    followers: 29422
-    engagement: 275
-    commentsToLikes: 0.013220
+    followers: 29710
+    engagement: 225
+    commentsToLikes: 0.016571
     id: ck6u1ut7wo0gx0j71hwua6d7t
     verified: false
-    hashtags: "#sootielola, #anthurium, #alocasiafrydekvariegata, #sootiehayi"
-  - username: "mohithir"
-    fullname: >-
-      Mohit Hir
-    location: "Australia"
-    followers: 65759
-    engagement: 299
-    commentsToLikes: 0.013097
-    id: ck8wfake6ff7v0j78bz97gdv0
-    verified: false
-    hashtags: "#sweat, #smile, #tiktokaustralia, #wanderlust"
-  - username: "amberlynnmusic"
-    fullname: >-
-      Amber Lynn ✞
-    location: "Australia"
-    followers: 15015
-    engagement: 713
-    commentsToLikes: 0.048108
-    id: ck5q5xua5v2ls0i113sdqf3yo
-    verified: false
-    hashtags: "#deepthoughts, #thankful, #maton, #matonguitars"
-  - username: "jamieazzopardi"
-    fullname: >-
-      Jamie Azzopardi
-    location: "Australia"
-    followers: 169282
-    engagement: 394
-    commentsToLikes: 0.009491
-    id: ck14l0irws96d0i19oitjaa2v
-    verified: false
-    hashtags: "#italian, #googlepixel, #nature, #suiting"
-  - username: "lalasplate"
-    fullname: >-
-      L A R A 💖
-    location: "Australia"
-    followers: 9531
-    engagement: 972
-    commentsToLikes: 0.146351
-    id: ck15tte3pjswb0i19uj4bboe5
-    verified: false
-    hashtags: "#aldihaul, #vegan, #editing, #veganrecipes"
+    hashtags: "#variegatedmonstera, #monsteradeliciosa, #brisbaneplantsales, #propagation"
 ---

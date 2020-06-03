@@ -1,16 +1,26 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Canada In 2020
 description: >-
-  Find top gardening Instagram influencers in Canada in 2020. Most popular hashtags: #stayhome #foodie #feedfeed #buzzfeedfood.
+  Find top gardening Instagram influencers in Canada in 2020. Most popular hashtags: #gardening #springflowers #outdoors #lifeisbeautiful.
 platform: Instagram
 profiles:
+  - username: "with_care"
+    fullname: >-
+      With Care: Videos + Workshops
+    location: "Canada"
+    followers: 5465
+    engagement: 499
+    commentsToLikes: 0.219282
+    id: ck5bwxvi6mmij0i11bwllw3dq
+    verified: false
+    hashtags: "#mamareset, #socialdistancing, #ithanknicole, #jackofsports"
   - username: "tarahurstdesign"
     fullname: >-
       Tara Hurst
     location: "Canada"
-    followers: 7144
-    engagement: 430
-    commentsToLikes: 0.052045
+    followers: 7090
+    engagement: 389
+    commentsToLikes: 0.041662
     id: ck5hrp4etv8n80i11qlnc4g63
     verified: false
     hashtags: ""
@@ -18,90 +28,80 @@ profiles:
     fullname: >-
       Heidi | The Simple Green
     location: "Canada"
-    followers: 11806
-    engagement: 551
-    commentsToLikes: 0.150614
+    followers: 11988
+    engagement: 562
+    commentsToLikes: 0.143264
     id: ck5cewi6zluqh0i1171mfq1zg
     verified: false
-    hashtags: "#chocolateganache, #igeats, #foodphotographer, #applepicking"
+    hashtags: "#coffeetime, #moodygram, #patesucree, #feedfeedbaking"
   - username: "antoniovalenteflowers"
     fullname: >-
       Antonio Valente Flowers
     location: "Canada"
-    followers: 39108
-    engagement: 336
-    commentsToLikes: 0.047582
+    followers: 39500
+    engagement: 338
+    commentsToLikes: 0.036510
     id: ck0w6j69i8t6z0i19ezril67v
     verified: false
-    hashtags: ""
-  - username: "seldabelda"
+    hashtags: "#daffodils, #canadiangardening, #marketgarden, #springflowers"
+  - username: "urbanveggiegarden"
     fullname: >-
-      anna aromin
+      Luay - Urban Gardener
     location: "Canada"
-    followers: 33241
-    engagement: 371
-    commentsToLikes: 0.102901
-    id: ck14kkiiwpyiz0i19q3we0t10
+    followers: 20729
+    engagement: 330
+    commentsToLikes: 0.044642
+    id: ckaor4yxdlr450i7803ll30a4
     verified: false
-    hashtags: "#my, #littleadventures, #houseplantcommunity, #fadedaesthetics"
-  - username: "kristalii"
+    hashtags: "#fromthearchives, #fridayharvest, #tbt, #tomatotuesday"
+  - username: "mandy_stans"
     fullname: >-
-      Krista Lii
+      𝕝𝕚𝕗𝕖𝕤𝕥𝕪𝕝𝕖 𝕠𝕧𝕖𝕣 𝟜𝟘
     location: "Canada"
-    followers: 32155
-    engagement: 267
-    commentsToLikes: 0.194880
-    id: ck14hg4pga5ny0i198fwd2pin
+    followers: 11614
+    engagement: 1580
+    commentsToLikes: 0.091661
+    id: ck8t5djed9rfz0j78xth8scsv
     verified: false
-    hashtags: "#travellingfamily, #whatevertheweather, #gardening, #tpphotooftheday"
+    hashtags: "#canadiangirl, #sweetiepie, #tellmeasecret, #sunnysunday"
+  - username: "homesweetproject_"
+    fullname: >-
+      Crystal 🍍
+    location: "Canada"
+    followers: 12733
+    engagement: 493
+    commentsToLikes: 0.152447
+    id: ck137awawamq00i198to9ffr4
+    verified: false
+    hashtags: "#sewingcrafts, #diygifts, #ikeacanada, #theamazoncoat"
   - username: "angharada.model"
     fullname: >-
       𝒜 𝓃 𝑔 𝒽 𝒶 𝓇 𝒶 𝒹 𝒶
     location: "Canada"
-    followers: 29141
-    engagement: 357
-    commentsToLikes: 0.044830
+    followers: 29863
+    engagement: 404
+    commentsToLikes: 0.041464
     id: ck15tn028ivx00i19vaaw8j0q
     verified: false
-    hashtags: "#ethereal, #gardening, #power, #photographyart"
-  - username: "morris_the_persian_cat"
+    hashtags: "#oldschool, #authentic, #heart, #bnwplanet"
+  - username: "terinrothernel"
     fullname: >-
-      Mo And Bo
+      Terin Rothernel
     location: "Canada"
-    followers: 79130
-    engagement: 312
-    commentsToLikes: 0.052699
-    id: ck8t9gq1yo0wz0j78tjyvgzr8
+    followers: 6333
+    engagement: 758
+    commentsToLikes: 0.076828
+    id: ck8t3684f21gl0j78ksf7n1l8
     verified: false
-    hashtags: "#cutecatskittens, #cutecatshow, #meowdel, #catsareweird"
-  - username: "sustainable.suburbs"
+    hashtags: "#throwback, #piscesgirl, #piscesmodel, #womenssuits"
+  - username: "belowtheblonde"
     fullname: >-
-      Sarah Robertson-Barnes
+      Amanda Weldon
     location: "Canada"
-    followers: 16230
-    engagement: 427
-    commentsToLikes: 0.133080
-    id: ck8svs9ddcian0j78h0p93eiy
+    followers: 10594
+    engagement: 513
+    commentsToLikes: 0.135235
+    id: ck13alkzrqz230i19rjo4twu1
     verified: false
-    hashtags: "#environmentaljustice, #zerowastecommunity, #cleaning, #reducewhatyourproduce"
-  - username: "lisa.eats"
-    fullname: >-
-      Lisa Z 💚
-    location: "Canada"
-    followers: 25678
-    engagement: 296
-    commentsToLikes: 0.163178
-    id: ck13ajaz8qndd0i191ibjag0c
-    verified: false
-    hashtags: "#veganpasta, #selfisolation, #antioxidants, #cake"
-  - username: "theartofdoingstuff"
-    fullname: >-
-      Karen Bertelsen
-    location: "Canada"
-    followers: 17795
-    engagement: 317
-    commentsToLikes: 0.105734
-    id: ck6trvrb51db70j71mc15jpg3
-    verified: false
-    hashtags: "#makersofinstagram, #doityourself, #diyfood, #reducereuserecycle"
+    hashtags: "#littlemoments, #bluedoor, #homedecor, #stayhome"
 ---

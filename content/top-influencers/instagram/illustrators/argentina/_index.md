@@ -1,107 +1,107 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Argentina In 2020
 description: >-
-  Find top illustrators Instagram influencers in Argentina in 2020. Most popular hashtags: #illustration #drawing #digitalart #stayathome.
+  Find top illustrators Instagram influencers in Argentina in 2020. Most popular hashtags: #artvsartist2020 #witch #mermay2020 #cuarentena.
 platform: Instagram
 profiles:
   - username: "flordepampi"
     fullname: >-
       ↠ Flor de Pampi
     location: "Argentina"
-    followers: 18393
-    engagement: 773
-    commentsToLikes: 0.048270
+    followers: 19836
+    engagement: 734
+    commentsToLikes: 0.045895
     id: ck5pwwqggozdg0i11pd4f7hau
     verified: false
-    hashtags: "#pride, #pridemonth2019, #coronart, #coronado"
+    hashtags: "#illustrationhowl, #petfood, #pridemonth2019, #illustrationnow"
+  - username: "mariahesse"
+    fullname: >-
+      María Hesse
+    location: "Argentina"
+    followers: 139207
+    engagement: 416
+    commentsToLikes: 0.025156
+    id: ck0uczyw9hyfs0i19p8riy02n
+    verified: true
+    hashtags: "#cuarentest, #diainternacionaldelbeso, #diadelbeso"
   - username: "eliszill"
     fullname: >-
-      Elis Zill
+      Elis Zill 🎃
     location: "Argentina"
-    followers: 13952
-    engagement: 879
-    commentsToLikes: 0.015390
+    followers: 16679
+    engagement: 1614
+    commentsToLikes: 0.017311
     id: ck5q97pan9s4c0i119jls70in
     verified: false
-    hashtags: "#smokinggirl, #metal, #vampire, #digitalart"
+    hashtags: "#castlevania, #gwentotaldrama, #scoobydoogang, #danascully"
+  - username: "dyru.jk"
+    fullname: >-
+      Dyru | Julia Koerner
+    location: "Argentina"
+    followers: 4037
+    engagement: 1545
+    commentsToLikes: 0.043340
+    id: ckap4ftqi76wf0i78i580y8qu
+    verified: false
+    hashtags: "#mermaychallenge, #frog, #fireflies, #story"
   - username: "juanperednik"
     fullname: >-
       Juan Perednik
     location: "Argentina"
-    followers: 36436
-    engagement: 146
-    commentsToLikes: 0.057155
+    followers: 37433
+    engagement: 176
+    commentsToLikes: 0.031635
     id: ck0u676nj12rk0i19pr0ithrl
     verified: false
-    hashtags: ""
+    hashtags: "#sundaysketch, #artvsartist2020, #escorzo, #crosshatching"
+  - username: "benweiland"
+    fullname: >-
+      Ben Weiland
+    location: "Argentina"
+    followers: 25750
+    engagement: 324
+    commentsToLikes: 0.016505
+    id: ck5c8vdxtaabv0i11vctow2g9
+    verified: false
+    hashtags: "#theglow, #antarctica, #india, #surf"
   - username: "cari.bay"
     fullname: >-
       Caribay M. Benavides
     location: "Argentina"
-    followers: 43091
-    engagement: 545
-    commentsToLikes: 0.013621
+    followers: 45455
+    engagement: 517
+    commentsToLikes: 0.012603
     id: ck139pjn3mhyk0i19538b5ktd
     verified: false
-    hashtags: "#gouachepainting, #gouacheillustration, #doveargentina, #bathroom"
+    hashtags: "#art, #comic, #respondocondibujo, #paint"
+  - username: "javirroyo"
+    fullname: >-
+      javirroyo
+    location: "Argentina"
+    followers: 142917
+    engagement: 415
+    commentsToLikes: 0.009023
+    id: ck0tv88d6aabo0i19twpgyhth
+    verified: false
+    hashtags: "#planetatierra, #leave, #turismo, #lepetitprince"
   - username: "ivanmayorquin"
     fullname: >-
       Iván Mayorquín
     location: "Argentina"
-    followers: 23756
-    engagement: 422
-    commentsToLikes: 0.020563
+    followers: 25182
+    engagement: 426
+    commentsToLikes: 0.015952
     id: ck55jz1afy3oa0i11sp2w3nic
     verified: false
-    hashtags: "#ilustracion, #pokemon, #lagarfield, #pictoline"
+    hashtags: "#ilustracionmexico, #pokemonday, #tigerking, #cruzrojaresponde"
   - username: "lucianovecchioart"
     fullname: >-
       Luciano Vecchio
     location: "Argentina"
-    followers: 7933
-    engagement: 622
-    commentsToLikes: 0.034593
+    followers: 8310
+    engagement: 702
+    commentsToLikes: 0.019754
     id: ck135qrzf2ryr0i19r1ib22pn
     verified: false
-    hashtags: "#valentinesday, #finn, #andromedashun, #youngavengers"
-  - username: "flavio.greco.paglia"
-    fullname: >-
-      Flavio Greco Paglia
-    location: "Argentina"
-    followers: 8644
-    engagement: 582
-    commentsToLikes: 0.032231
-    id: ck55oyt7d9fbp0i11f0h3qofs
-    verified: false
-    hashtags: "#buenosaires, #festival, #horrorfilm, #pencilart"
-  - username: "molinetjuan"
-    fullname: >-
-      Juan Molinet
-    location: "Argentina"
-    followers: 8469
-    engagement: 631
-    commentsToLikes: 0.020433
-    id: ck138e80vft3m0i19vg8qs18u
-    verified: false
-    hashtags: "#retro, #inspirationdaily, #newyearsresolution, #socialdistancing"
-  - username: "lodexavi"
-    fullname: >-
-      Xavi Aldea
-    location: "Argentina"
-    followers: 3208
-    engagement: 1109
-    commentsToLikes: 0.080160
-    id: ck5zzv90achad0i146xy6d4t4
-    verified: false
-    hashtags: "#ripped, #muscles, #exercise, #modellife"
-  - username: "dani_dossantoss"
-    fullname: >-
-      ✨Daniela Dos Santos✨
-    location: "Argentina"
-    followers: 35962
-    engagement: 148
-    commentsToLikes: 0.065257
-    id: ck136ixq86ppn0i19bpro10ht
-    verified: false
-    hashtags: "#cumplea, #sombradeojos, #artisticphotography, #modelaje"
+    hashtags: "#marvelboy, #losh, #wonderman, #jackknight"
 ---

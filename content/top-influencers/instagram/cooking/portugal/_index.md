@@ -1,97 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Portugal In 2020
 description: >-
-  Find top cooking Instagram influencers in Portugal in 2020. Most popular hashtags: #healthyfood #stayhome #covid #cookingtime.
+  Find top cooking Instagram influencers in Portugal in 2020. Most popular hashtags: #cooking #giveaway #quarentena #details.
 platform: Instagram
 profiles:
-  - username: "dragtaste"
-    fullname: >-
-      Drag Taste Lisbon
-    location: "Portugal"
-    followers: 10872
-    engagement: 514
-    commentsToLikes: 0.052059
-    id: ck5q5lbz7tf0p0i11etstg7vr
-    verified: false
-    hashtags: "#josecastelobranco, #draglisbon, #liveshow, #dragqueensportugal"
   - username: "martilicious_food"
     fullname: >-
       Marta Ferreira
     location: "Portugal"
-    followers: 48166
-    engagement: 143
-    commentsToLikes: 0.043771
+    followers: 49319
+    engagement: 150
+    commentsToLikes: 0.033708
     id: ck134wkntyjh50i19dqthlm4z
     verified: false
-    hashtags: "#christmas, #familydays, #tertempo, #stayathome"
-  - username: "morenaofficial"
+    hashtags: "#ajitama, #dutchbaby, #mieleportugal, #ovosdapascoa"
+  - username: "nurseblifestyle"
     fullname: >-
-      Morena
+      💪👙Eat 2 Be Fit Lifestyle Coach
     location: "Portugal"
-    followers: 9711
-    engagement: 684
-    commentsToLikes: 0.061646
-    id: ck55nu5bs6zdh0i11p7xcyhsj
+    followers: 22283
+    engagement: 238
+    commentsToLikes: 0.044893
+    id: ck5ck2w6zw0pu0i11fnfxupjt
     verified: false
-    hashtags: "#babyblues, #loveyou, #gratefulheart, #letsgo"
+    hashtags: ""
+  - username: "martinhagomez"
+    fullname: >-
+      Martinha Gomez
+    location: "Portugal"
+    followers: 26439
+    engagement: 498
+    commentsToLikes: 0.191096
+    id: ck0tybj33marc0i19b7w37ha9
+    verified: false
+    hashtags: "#balalaica, #outfitoftheday, #jeansmurah, #mimi"
+  - username: "thetolerantcook"
+    fullname: >-
+      Kristína Suchánková
+    location: "Portugal"
+    followers: 12265
+    engagement: 944
+    commentsToLikes: 0.111573
+    id: ck15texg7hqu50i19oxcr63nh
+    verified: false
+    hashtags: "#family, #dnesjem, #spolupraca, #toothless"
+  - username: "allexiamatos"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  Alexia Matos
+    location: "Portugal"
+    followers: 6705
+    engagement: 548
+    commentsToLikes: 0.205369
+    id: ck9wfei37oijr0j780e5jarud
+    verified: false
+    hashtags: "#hapyness, #receitas, #happymoments, #vaificartudobem"
+  - username: "chiquinho22_"
+    fullname: >-
+      CHIQUINHO
+    location: "Portugal"
+    followers: 125788
+    engagement: 1103
+    commentsToLikes: 0.005961
+    id: ck5c7scc183ka0i115m0odpd6
+    verified: true
+    hashtags: "#mondaymotivation, #euficoemcasa, #adidas, #staypositive"
   - username: "thehealthysins"
     fullname: >-
-      The Healthy Sins
+      Sónia & Diogo | Food & Photo
     location: "Portugal"
-    followers: 5667
-    engagement: 1193
-    commentsToLikes: 0.114652
+    followers: 8565
+    engagement: 1417
+    commentsToLikes: 0.083375
     id: ck0ueb4m1l2c30i19g80ev9ux
     verified: false
-    hashtags: "#carnivalday, #stayhome, #barleyporridge, #cookingtime"
-  - username: "anamarquesoficial"
+    hashtags: "#alprobomparati, #veganpancakes, #guiltypleasures, #beatingheart"
+  - username: "claudiadecastroferreira"
     fullname: >-
-      Ana Marques
+      Claudia De Castro Ferreira
     location: "Portugal"
-    followers: 106642
-    engagement: 202
-    commentsToLikes: 0.023116
-    id: ck0u6e9f91odw0i19ouk5ik8e
+    followers: 8019
+    engagement: 621
+    commentsToLikes: 0.507302
+    id: ck5q4x3j3qkxn0i11gfm17qd0
     verified: false
-    hashtags: "#snowvacation, #cook, #comidadequarentena, #cooking"
-  - username: "ruimotaa"
+    hashtags: "#workoutwear, #homeinspiration, #coupleshoot, #topinfluencerpt"
+  - username: "dragtaste"
     fullname: >-
-      RUI MOTA
+      Drag Taste : Now ONLINE!
     location: "Portugal"
-    followers: 10024
-    engagement: 882
-    commentsToLikes: 0.017477
-    id: ck0u6ea241oge0i19f8i1ndi1
+    followers: 12146
+    engagement: 467
+    commentsToLikes: 0.050920
+    id: ck5q5lbz7tf0p0i11etstg7vr
     verified: false
-    hashtags: "#picfood, #gastroart, #chefsofinstagram, #artist"
-  - username: "_oliverpape_"
+    hashtags: "#qanda, #showcooking, #womendays, #sundayvibes"
+  - username: "chefchakall"
     fullname: >-
-      O L I V E R   P A P E
+      Chakall
     location: "Portugal"
-    followers: 38371
-    engagement: 292
-    commentsToLikes: 0.009651
-    id: ck0u9suw6ajvr0i196blbrfnp
-    verified: false
-    hashtags: "#vtipky, #coomingsoon, #kralickysneznik, #foodblogger"
-  - username: "drhugomadeira"
-    fullname: >-
-      Hugo Madeira
-    location: "Portugal"
-    followers: 97040
-    engagement: 130
-    commentsToLikes: 0.017113
-    id: ck15pavr7wyoc0i193zb5pzaj
-    verified: false
-    hashtags: "#straumannpt, #siendoartofbeing, #veneers, #protectyourself"
-  - username: "nutricionistalillian"
-    fullname: >-
-      Lillian Barros® Nutricionista
-    location: "Portugal"
-    followers: 31868
-    engagement: 107
-    commentsToLikes: 0.055943
-    id: ck5q5ky5otdhh0i11r4gg6itc
-    verified: false
-    hashtags: "#iwillbeback, #maridaodanutri, #filhodenutri, #slingpouch"
+    followers: 85536
+    engagement: 325
+    commentsToLikes: 0.029742
+    id: ck5chcis8qigt0i11mkghuxfs
+    verified: true
+    hashtags: "#raisingnoa, #tezenisportugal, #marmelada, #natural"
 ---

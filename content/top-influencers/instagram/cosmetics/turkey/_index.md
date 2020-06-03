@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Turkey In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Turkey in 2020. Most popular hashtags: #makeup #fashion #cosmetics #beauty.
+  Find top cosmetics Instagram influencers in Turkey in 2020. Most popular hashtags: #cosmetics #beauty #kozmetik #style.
 platform: Instagram
 profiles:
   - username: "emretunafarmasi"
     fullname: >-
       Emretunafarmasi
     location: "Turkey"
-    followers: 24336
-    engagement: 936
-    commentsToLikes: 0.429498
+    followers: 25328
+    engagement: 911
+    commentsToLikes: 0.408513
     id: ck0u61wmf0qkk0i19iq8cflyf
     verified: false
-    hashtags: "#champion, #farmasimakeup, #goals, #bayram"
+    hashtags: "#bayram, #love, #summer, #celebration"
+  - username: "beg.y"
+    fullname: >-
+      BEGY
+    location: "Turkey"
+    followers: 18371
+    engagement: 372
+    commentsToLikes: 0.047985
+    id: ck13bwdgdxggi0i19oabcdu0i
+    verified: false
+    hashtags: "#7k, #ataturk, #horses, #bruxelles"
   - username: "drmirzafirat"
     fullname: >-
       Mirza Firat, MD
     location: "Turkey"
-    followers: 157907
-    engagement: 274
-    commentsToLikes: 0.025591
+    followers: 158322
+    engagement: 264
+    commentsToLikes: 0.023276
     id: ck6uf5abuuzrf0j712n1cvbok
     verified: false
-    hashtags: "#mirzaifratnoses, #mirzafiratnoses, #nosejob, #rhinoplasty"
+    hashtags: "#eyebrowlift, #qatar, #mirzaifratnoses, #stayhome"
   - username: "yagmurkeskiiin"
     fullname: >-
       Yağmur Keskin
     location: "Turkey"
-    followers: 34337
-    engagement: 669
-    commentsToLikes: 0.012443
+    followers: 33737
+    engagement: 666
+    commentsToLikes: 0.012968
     id: ck5zsltezyqu50i14rjvn6fzn
     verified: false
-    hashtags: "#loudandclear, #studiofix, #macstudiofix, #me"
+    hashtags: "#foundation, #fakefreckles, #macfix, #makeupbyme"
   - username: "dr.borakorkut"
     fullname: >-
       Dr. Bora Korkut, D.D.S., Ph.D.
     location: "Turkey"
-    followers: 41862
-    engagement: 74
-    commentsToLikes: 0.026926
+    followers: 42128
+    engagement: 67
+    commentsToLikes: 0.027145
     id: ck6u5dnj990xu0j71yzk4g0is
     verified: false
-    hashtags: "#stayathome, #nonprep, #prerestorativealignment, #surfacetexture"
-  - username: "ilahahajiyeva"
+    hashtags: "#11, #21, #stayathome, #essentialsindentistry"
+  - username: "bojnakova"
     fullname: >-
-      ILAHA HAJIYEVA
+      Naida Bojnakova
     location: "Turkey"
-    followers: 471998
-    engagement: 34
-    commentsToLikes: 0.027261
-    id: ck15rdn8z7eqx0i19fc4fehni
+    followers: 122522
+    engagement: 835
+    commentsToLikes: 0.043804
+    id: ck15s9fgsbw510i19tq8htm2w
     verified: false
-    hashtags: "#samerkhouzamicosmetics, #samerkhouzamibrushes, #ilahahajiyevalashes, #hudabeauty"
-  - username: "siavashphtogrph"
+    hashtags: "#sale, #babyboy, #lovetostayhome, #revolve"
+  - username: "betuulle"
     fullname: >-
-      Фотограф Сияваш
+      Betül 💫💫
     location: "Turkey"
-    followers: 9547
-    engagement: 640
-    commentsToLikes: 0.074520
-    id: ck5chs5kord1o0i11qkasejlb
+    followers: 5245
+    engagement: 1335
+    commentsToLikes: 0.100129
+    id: ck8tagdvzrn200j78yifuxvzl
     verified: false
-    hashtags: "#newcollection, #fashionblogger, #istanbul, #studiophotography"
+    hashtags: "#shoes, #beautiful, #likemephoto, #quarantinedays"
+  - username: "candilekcci"
+    fullname: >-
+      Can Dilekci
+    location: "Turkey"
+    followers: 102340
+    engagement: 4184
+    commentsToLikes: 0.163008
+    id: ck8t2ae1myq920j78reg3dgh2
+    verified: false
+    hashtags: "#easter, #ramadan2020, #itziaritu, #lacasadicarta"
   - username: "the_queen_haarverlaengerung"
     fullname: >-
       BeautyQueen
     location: "Turkey"
-    followers: 60312
-    engagement: 791
-    commentsToLikes: 0.163373
+    followers: 61209
+    engagement: 776
+    commentsToLikes: 0.150820
     id: ck0txhuypj71s0i198k72hfyt
     verified: false
-    hashtags: "#zitate, #androidography, #mombloggers, #style"
-  - username: "niranhurel"
+    hashtags: "#mutluluk, #echthhare, #groom, #haarverdichtung"
+  - username: "cigdemscagans"
     fullname: >-
-      Niran Hürel Herder
+      Ç İ Ğ D E M  G Ü N E R
     location: "Turkey"
-    followers: 13430
-    engagement: 820
-    commentsToLikes: 0.072419
-    id: ck5hslyftwsyz0i11g27870d7
+    followers: 18016
+    engagement: 458
+    commentsToLikes: 0.101459
+    id: ckap7ydffm4bq0i78lh6pt614
     verified: false
-    hashtags: "#makeupartist, #outdoors, #fun, #havefun"
-  - username: "annasheikhlo_lifestyle"
-    fullname: >-
-      Annasheikhlo
-    location: "Turkey"
-    followers: 25958
-    engagement: 979
-    commentsToLikes: 0.008855
-    id: ck0ty2nlklcvu0i198i8tf9zs
-    verified: false
-    hashtags: "#video, #chanell, #jewelry, #art"
-  - username: "clbblog"
-    fullname: >-
-      Gülce Erek
-    location: "Turkey"
-    followers: 41671
-    engagement: 327
-    commentsToLikes: 0.018550
-    id: ck14jgp73k9430i198cok56jy
-    verified: false
-    hashtags: "#cosmetics, #turkishblogger, #gen, #makeuplooks"
+    hashtags: "#flowerslovers, #bodrum, #beauty, #lastsummer"
 ---

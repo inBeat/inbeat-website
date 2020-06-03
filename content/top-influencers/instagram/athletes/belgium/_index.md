@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Belgium In 2020
 description: >-
-  Find top athletes Instagram influencers in Belgium in 2020. Most popular hashtags: #teambelgium #fitness #happy #workout.
+  Find top athletes Instagram influencers in Belgium in 2020. Most popular hashtags: #smile #teambelgium #tbt #blessed.
 platform: Instagram
 profiles:
   - username: "liefde.smkr"
     fullname: >-
       Liefde Schoemaker
     location: "Belgium"
-    followers: 3230
-    engagement: 3317
-    commentsToLikes: 0.072127
+    followers: 3215
+    engagement: 3346
+    commentsToLikes: 0.072042
     id: ck0vy804q2oap0i1984wop5gx
     verified: false
-    hashtags: "#athletics, #nbwomen, #iaaf, #doha2019"
-  - username: "cynthia_bolingo"
-    fullname: >-
-      B O L I N G O 🌷
-    location: "Belgium"
-    followers: 9237
-    engagement: 1363
-    commentsToLikes: 0.032121
-    id: ck5qbyxvao1y20i11lz2eveu7
-    verified: false
-    hashtags: "#blessed, #leretourfaitmalauxfesses, #trainingcamp, #teambelgium"
-  - username: "ifbb.remi.g"
-    fullname: >-
-      REMI GANZEMAN
-    location: "Belgium"
-    followers: 23025
-    engagement: 411
-    commentsToLikes: 0.105864
-    id: ck0twglz0fack0i196e89a169
-    verified: false
-    hashtags: "#discountcod, #kingdom, #flashbackfriday, #throwback"
+    hashtags: "#trackgirls, #roadtobaku, #jed, #worldrelays"
   - username: "jonathandavid450"
     fullname: >-
       Jonathan David Jr.
     location: "Belgium"
-    followers: 20528
-    engagement: 1717
-    commentsToLikes: 0.020883
+    followers: 22382
+    engagement: 1564
+    commentsToLikes: 0.022777
     id: ck5hfn41tya1i0i11zyjodf9n
     verified: true
-    hashtags: "#cnl, #cobw, #uel, #canadared"
+    hashtags: "#cnl, #canadared, #adidasgmr, #hometeam"
+  - username: "remi.ganzeman"
+    fullname: >-
+      REMI GANZEMAN
+    location: "Belgium"
+    followers: 22673
+    engagement: 377
+    commentsToLikes: 0.065840
+    id: ck0twglz0fack0i196e89a169
+    verified: false
+    hashtags: "#cheatday, #ibiza, #newchapter, #cafeine"
+  - username: "cynthia_bolingo"
+    fullname: >-
+      B O L I N G O 🌷
+    location: "Belgium"
+    followers: 9192
+    engagement: 1321
+    commentsToLikes: 0.037522
+    id: ck5qbyxvao1y20i11lz2eveu7
+    verified: false
+    hashtags: "#friends, #keepgoing, #award, #tracklife"
+  - username: "woutvanaert"
+    fullname: >-
+      Wout van Aert
+    location: "Belgium"
+    followers: 248767
+    engagement: 1165
+    commentsToLikes: 0.012002
+    id: ck0tw2nspdr8w0i192v7k3gis
+    verified: true
+    hashtags: "#staysafetogether, #holidays, #passioneceleste, #flattenthecurve"
+  - username: "deghali_walid84"
+    fullname: >-
+      ワリド Deghali Walid®️🥋🇧🇪 / 🇲🇦
+    location: "Belgium"
+    followers: 2103
+    engagement: 3088
+    commentsToLikes: 0.047623
+    id: ck6trkqotzjyy0j71gmkma9q1
+    verified: false
+    hashtags: "#kumite, #1080, #wkf, #marrakesh"
   - username: "nathannuyts"
     fullname: >-
       NATHAN | REBELIEVE
     location: "Belgium"
-    followers: 29120
-    engagement: 1887
-    commentsToLikes: 0.013321
+    followers: 41490
+    engagement: 1923
+    commentsToLikes: 0.015531
     id: ck6u50y4h6y710j71phpt1cgv
     verified: false
-    hashtags: "#pushup, #mindset, #rebelieve, #motivation"
+    hashtags: "#kettlebell, #hiit"
   - username: "iboufay28"
     fullname: >-
       Ibrahima Fall Faye🏀
     location: "Belgium"
-    followers: 4288
-    engagement: 1809
-    commentsToLikes: 0.038039
+    followers: 4891
+    engagement: 1640
+    commentsToLikes: 0.036423
     id: ck5zuz7sj3aut0i14pwl4qfeu
     verified: true
     hashtags: "#28, #champs"
-  - username: "anne.zagre"
-    fullname: >-
-      Anne Zagré
-    location: "Belgium"
-    followers: 11943
-    engagement: 831
-    commentsToLikes: 0.017673
-    id: ck5c2xmdjy70b0i11syxcvv8e
-    verified: false
-    hashtags: "#sister, #outdoors, #grateful, #roadtokyo"
   - username: "alihealth_1"
     fullname: >-
       Ali Bilal (IFBB PRO)
     location: "Belgium"
-    followers: 46903
-    engagement: 413
-    commentsToLikes: 0.025646
+    followers: 84188
+    engagement: 590
+    commentsToLikes: 0.021218
     id: ck5ca6efzcsdr0i11x61122fr
     verified: false
-    hashtags: "#goals, #asthetic, #streetfashion, #fitness"
-  - username: "elkevanhoof91"
+    hashtags: "#tbt2019, #roadtrip, #mood, #menstyle"
+  - username: "wttessa"
     fullname: >-
-      🌍 Elke Vanhoof 🚲
+      Tessa Wullaert
     location: "Belgium"
-    followers: 10027
-    engagement: 381
-    commentsToLikes: 0.028500
-    id: ck0w6m5vv98t80i19dl5dro82
-    verified: false
-    hashtags: "#administration, #girl, #fysioshop, #belgie"
-  - username: "achabtkd"
-    fullname: >-
-      Jaouad Achab
-    location: "Belgium"
-    followers: 61763
-    engagement: 776
-    commentsToLikes: 0.012551
-    id: ck0w3pyviuoa40i19idyuk60u
+    followers: 49836
+    engagement: 530
+    commentsToLikes: 0.009568
+    id: ck5c0fp4kt1ka0i115lixps2x
     verified: true
-    hashtags: "#roiphilippe, #teambelgium, #king, #sportvlaanderen"
+    hashtags: "#neverbored, #ad, #developedwithderms, #tbt"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Scrapbooking Instagram Influencers In 2020
 description: >-
-  Find top scrapbooking Instagram influencers in 2020. Most popular hashtags: #scrapbooking #scrap #minialbum #planner.
+  Find top scrapbooking Instagram influencers in 2020. Most popular hashtags: #yomequedoencasa #shaker #craftroom #quedateencasa.
 platform: Instagram
 profiles:
+  - username: "alagaina_scrap"
+    fullname: >-
+      Alagaina ⭐️ Art & Scrap
+    location: "Spain"
+    followers: 17790
+    engagement: 1093
+    commentsToLikes: 0.192256
+    id: ck9wfj2cup1ah0j780tenx33o
+    verified: false
+    hashtags: "#ikeaideas, #vintagejournal, #atardecer, #hogardulcehogar"
+  - username: "micaelaferrero"
+    fullname: >-
+      Micaela Ferrero | Paper Lover
+    location: "Argentina"
+    followers: 69014
+    engagement: 47
+    commentsToLikes: 0.044501
+    id: ck0w0xr1tgk7a0i19sqek98p9
+    verified: false
+    hashtags: "#lorabailora, #craftroom, #felicidades, #reaperturas"
+  - username: "papiersucht"
+    fullname: >-
+      Viola
+    location: "Germany"
+    followers: 2107
+    engagement: 2214
+    commentsToLikes: 0.167565
+    id: ckaowy48razak0i78jnrteuxo
+    verified: false
+    hashtags: "#sssigchallenge, #greetingcard, #traceyhey, #lawnfawn"
+  - username: "nuriasolete"
+    fullname: >-
+      TrueColorsScrapbook
+    location: "Argentina"
+    followers: 10901
+    engagement: 944
+    commentsToLikes: 0.292045
+    id: ck5qaenoqfzze0i11ay67hk7k
+    verified: false
+    hashtags: "#scrapboking, #everyday, #yousonoacumulo, #etiqueta"
   - username: "bella_rica_design"
     fullname: >-
       Rica ~ Germany
     location: "Germany"
-    followers: 26143
-    engagement: 1127
-    commentsToLikes: 0.027859
+    followers: 25592
+    engagement: 1151
+    commentsToLikes: 0.028061
     id: ck0vz4r537av80i19d21r3xqr
     verified: false
-    hashtags: "#sizzix, #plannerstuff, #bujoweeklyspread, #planner"
-  - username: "ira_angold"
-    fullname: >-
-      Ира Ангольд
-    location: "Russia"
-    followers: 18546
-    engagement: 436
-    commentsToLikes: 0.122450
-    id: ck6tomgp2evv00j71dysrqs4q
-    verified: false
-    hashtags: "#angoldspring, #cardmaking, #scrap, #scrapbooking"
-  - username: "angelacabedo_scrap"
-    fullname: >-
-      AC_Scrap✂️🖌
-    location: "Spain"
-    followers: 2722
-    engagement: 1438
-    commentsToLikes: 0.266009
-    id: ck602sqteiybm0i14b4fjvr3c
-    verified: false
-    hashtags: "#primavera, #bulletjournalideas, #sorteo, #scrapencasa"
+    hashtags: "#bujobeauty, #bujoinspire, #maskingtape, #washitape"
   - username: "nunusite"
     fullname: >-
       Núria Prieto | Scrap & Crochet
     location: "Spain"
-    followers: 16976
-    engagement: 396
-    commentsToLikes: 0.083755
+    followers: 18098
+    engagement: 431
+    commentsToLikes: 0.075000
     id: ck8swt087f4vt0j78r57nfmck
     verified: false
-    hashtags: "#escrochet, #agendaadicta, #crochetersofinstagram, #felizcumplea"
+    hashtags: "#scrapjournal, #ganxet, #estefacardigan, #minc"
+  - username: "ira_angold"
+    fullname: >-
+      Ира Ангольд
+    location: "Russia"
+    followers: 18396
+    engagement: 404
+    commentsToLikes: 0.134003
+    id: ck6tomgp2evv00j71dysrqs4q
+    verified: false
+    hashtags: "#food, #scandikitchen, #wood, #easter"
+  - username: "angelacabedo_scrap"
+    fullname: >-
+      AC_Scrap✂️🖌
+    location: "Spain"
+    followers: 2999
+    engagement: 1424
+    commentsToLikes: 0.254011
+    id: ck602sqteiybm0i14b4fjvr3c
+    verified: false
+    hashtags: "#cartabellapaper, #todoirabien, #cosido, #banderin"
   - username: "losmundosdesand"
     fullname: >-
       Sandra | Scrap & DIY
     location: ""
-    followers: 7110
-    engagement: 640
-    commentsToLikes: 0.081353
+    followers: 7733
+    engagement: 724
+    commentsToLikes: 0.091235
     id: ck8syusfom3at0j78n5asgouz
     verified: false
-    hashtags: "#gentebonita, #scrapkondo, #scrapthebook, #corinashaker"
-  - username: "lola_scrap"
+    hashtags: "#cabellerasmint, #kimidori, #opomuertas, #cosasbonitas"
+  - username: "atiasroom"
     fullname: >-
-      Lola
-    location: "Spain"
-    followers: 19017
-    engagement: 1202
-    commentsToLikes: 0.103351
-    id: ck0w0xt65gkg60i19fv8dr7l2
-    verified: false
-    hashtags: "#scrap, #tintas, #copta, #sobres"
-  - username: "karinecazenave"
-    fullname: >-
-      Karine Cazenave-Tapie
-    location: "France"
-    followers: 8245
-    engagement: 492
-    commentsToLikes: 0.069163
-    id: ck6tymu1b4nzk0j71t6oj6fcw
-    verified: false
-    hashtags: "#tutorielscrap, #minialbumbebe, #heybaby, #projectlife"
-  - username: "veoveoscrapeo"
-    fullname: >-
-      veoveoscrapeo
+      Wilma Rodriguez
     location: ""
-    followers: 5316
-    engagement: 562
-    commentsToLikes: 0.064812
-    id: ck5cird9pt81w0i11eu9qii7g
+    followers: 7883
+    engagement: 718
+    commentsToLikes: 0.144648
+    id: ckaov4f2t301x0i78d8p5iuim
     verified: false
-    hashtags: "#tarjeta, #tarjetas, #cumple, #dream"
-  - username: "micaelaferrero"
-    fullname: >-
-      Micaela Ferrero | Paper Lover
-    location: ""
-    followers: 68404
-    engagement: 45
-    commentsToLikes: 0.036013
-    id: ck0w0xr1tgk7a0i19sqek98p9
-    verified: false
-    hashtags: "#enmicraftroom, #yomequedoencasa, #felicidades, #cardmaking"
-  - username: "dos_piruletas"
-    fullname: >-
-      Dos Piruletas
-    location: ""
-    followers: 4969
-    engagement: 1018
-    commentsToLikes: 0.121695
-    id: ck8syurpom3720j78g7b7xb11
-    verified: false
-    hashtags: "#album, #projectlife, #felicityjanestudio, #decemberdaily"
+    hashtags: "#todoirabien, #illustration, #ipaddrawing, #ipad"
 ---

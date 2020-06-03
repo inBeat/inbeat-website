@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in 2020. Most popular hashtags: #training #motivation #workout #bodybuilding.
+  Find top bodybuilding Instagram influencers in 2020. Most popular hashtags: #diet #happy #prozis #homeworkout.
 platform: Instagram
 profiles:
-  - username: "misscharlyyy"
+  - username: "yazdan_rahmatabadi"
     fullname: >-
-      𝐂𝐇𝐀𝐑𝐋𝐎𝐓𝐓𝐄 🇳🇱
-    location: ""
-    followers: 2802
-    engagement: 2879
-    commentsToLikes: 0.204980
-    id: ck8tbmivow8yj0j787arfz4mb
+      Yazdan
+    location: "Iran"
+    followers: 19248
+    engagement: 1692
+    commentsToLikes: 0.071868
+    id: ck9wp9d218cqs0j78zdx3h57f
     verified: false
-    hashtags: "#fitnessmodel, #positive, #barefeet, #couplegoals"
-  - username: "3bdo_140"
-    fullname: >-
-      عبدو
-    location: ""
-    followers: 9349
-    engagement: 1265
-    commentsToLikes: 0.070562
-    id: ck5c7m79f7slp0i11gcjmf4jo
-    verified: false
-    hashtags: ""
+    hashtags: "#mrolmpia, #iranian, #gold, #goodfriday"
   - username: "ifbb_pro_samanolfati_"
     fullname: >-
       ✏مربی آنلاین
     location: "Iran"
-    followers: 33383
-    engagement: 898
-    commentsToLikes: 0.044185
+    followers: 34953
+    engagement: 900
+    commentsToLikes: 0.050470
     id: ck5bxf98unlze0i11ucjov8gz
     verified: false
-    hashtags: "#back"
-  - username: "kukla_lina"
-    fullname: >-
-      Fitness  | 🎬 Take Me Out 2020
-    location: "Germany"
-    followers: 12038
-    engagement: 1316
-    commentsToLikes: 0.049993
-    id: ck55ngfub65tt0i11zg580h3w
-    verified: false
-    hashtags: "#fitness, #bikinigirls, #fitspo, #body"
+    hashtags: "#clasic"
   - username: "martini_puti"
     fullname: >-
       Martini.Puti
     location: "Germany"
-    followers: 2318
-    engagement: 2180
-    commentsToLikes: 0.122295
+    followers: 2284
+    engagement: 2179
+    commentsToLikes: 0.122919
     id: ck13895b6f3k40i19j2s7a9h3
     verified: false
-    hashtags: "#holyshit, #kopfortzone, #muskelaufbau, #positivvibes"
+    hashtags: "#gymtime, #shoulderkiller, #beinpresse, #happysunday"
+  - username: "mohammad.karimi289"
+    fullname: >-
+      
+    location: "Iran"
+    followers: 8309
+    engagement: 1184
+    commentsToLikes: 0.080200
+    id: ck9wgrfqkunxg0j78yqrfwsf0
+    verified: false
+    hashtags: ""
   - username: "pumping_steffi"
     fullname: >-
       🔵☆𝓢 𝓽 𝓮 𝓯 𝓪 𝓷 𝓲 𝓮☆ 🔵
     location: "Germany"
-    followers: 12877
-    engagement: 990
-    commentsToLikes: 0.078291
+    followers: 13058
+    engagement: 1021
+    commentsToLikes: 0.074891
     id: ck55ngfln65sk0i11v39wioa9
     verified: false
-    hashtags: "#fit, #gains, #active, #motivation"
-  - username: "jblary"
+    hashtags: "#happy, #nature"
+  - username: "keaton_fit"
     fullname: >-
-      L A R Y . J B💕
-    location: "Germany"
-    followers: 48971
-    engagement: 444
-    commentsToLikes: 0.055877
-    id: ck5zrd10jwctn0i14lb21z3m2
+      K E A T O N
+    location: "United Kingdom"
+    followers: 5325
+    engagement: 1201
+    commentsToLikes: 0.097626
+    id: ckaos1g2qpq4f0i78dbwenfsq
     verified: false
     hashtags: ""
-  - username: "akarenvieira"
+  - username: "alimansory_"
     fullname: >-
-      VIEIRA
-    location: "Brazil"
-    followers: 130519
-    engagement: 391
-    commentsToLikes: 0.167114
-    id: ck5zyvtedamfw0i14zqqbg0kx
+      Ali Mansour
+    location: "Germany"
+    followers: 10514
+    engagement: 977
+    commentsToLikes: 0.090866
+    id: ckaoybs6bgueb0i78ejoujesq
     verified: false
-    hashtags: "#treinoinsano"
+    hashtags: "#darmstadt, #aesthetics, #snack, #bigarms"
   - username: "valentina.fitmum"
     fullname: >-
       🏋️‍♂️FITMOM🏋️‍♂️
     location: "Italy"
-    followers: 5243
-    engagement: 1897
-    commentsToLikes: 0.205335
+    followers: 6468
+    engagement: 1900
+    commentsToLikes: 0.244250
     id: ck5zshjxzyibf0i14l9nnc87z
     verified: false
-    hashtags: "#fitnesslifestyle, #instaworkout, #instamoment, #instamakeup"
-  - username: "mariusflorentinfit"
+    hashtags: "#viaggio, #sportgirl, #fitbreakfast, #mare"
+  - username: "vanessaapopp"
     fullname: >-
-      Marius Florentin
-    location: ""
-    followers: 120443
-    engagement: 851
-    commentsToLikes: 0.023200
-    id: ck8t4684e5n6m0j78k0vfr05i
+      Vanessa Popp
+    location: "Germany"
+    followers: 5928
+    engagement: 1066
+    commentsToLikes: 0.101381
+    id: ck8t5w9pwbgak0j78dkola8x4
     verified: false
-    hashtags: ""
+    hashtags: "#ludwigsburg, #behinderung, #hamburg, #grow"
+  - username: "lissannee"
+    fullname: >-
+      LISANNE MOL
+    location: "Netherlands"
+    followers: 12930
+    engagement: 889
+    commentsToLikes: 0.091340
+    id: ck6u4fd1j3e8x0j71mwknnyr3
+    verified: false
+    hashtags: "#homeworkout, #datbepaalikzelfwel, #zoafgezaagd, #throwback"
 ---

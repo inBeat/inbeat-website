@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Austin In 2020
 description: >-
-  Find top food Instagram influencers in Austin in 2020. Most popular hashtags: #foodporn #foodie #austintexas #pizza.
+  Find top food Instagram influencers in Austin in 2020. Most popular hashtags: #sponsored #cincodemayo #eatlocal #tacos.
 platform: Instagram
 profiles:
+  - username: "thesmokingho"
+    fullname: >-
+      Jimmy Ho | BBQ | Food | Austin
+    location: "United States"
+    followers: 54882
+    engagement: 273
+    commentsToLikes: 0.034846
+    id: ck13c09rny0mg0i19viyqx9uo
+    verified: false
+    hashtags: "#cookies, #porkribs, #cheeseburger, #yetibbq"
   - username: "somuchlifeblog"
     fullname: >-
-      Kelsey | Austin Food Pro
+      Kelsey | Austin Food Blogger
     location: "United States"
-    followers: 25068
-    engagement: 179
-    commentsToLikes: 0.098827
+    followers: 25137
+    engagement: 214
+    commentsToLikes: 0.072403
     id: ck139701ujulw0i19tz1i0nny
     verified: false
-    hashtags: "#southcongress, #speedobod, #nationalmargaritaday, #sxsw2020"
+    hashtags: "#restaurantstrong, #lovemilkagain, #supportrestaurants, #atxlivingroompicnic"
   - username: "atasteofkoko"
     fullname: >-
       KOKO | Austin Food Blogger
     location: "United States"
-    followers: 75420
-    engagement: 165
-    commentsToLikes: 0.115888
+    followers: 75997
+    engagement: 168
+    commentsToLikes: 0.119622
     id: ck0twdrpef1tq0i19s7d84ecz
     verified: true
-    hashtags: "#itchangeseverything, #ontheblog, #burgers, #properhotels"
+    hashtags: "#cdmx, #bubbletea, #seizetheverde, #shoplocal"
+  - username: "austinfoodheads"
+    fullname: >-
+      Austin Food Heads
+    location: "United States"
+    followers: 29713
+    engagement: 177
+    commentsToLikes: 0.102473
+    id: ck0tzy3zmry7c0i192u0d6r3z
+    verified: false
+    hashtags: "#austinfoodheads, #nationalbbqmonth"
   - username: "austinfoodadventures"
     fullname: >-
       Austin Food Adventures
     location: "United States"
-    followers: 34254
-    engagement: 87
-    commentsToLikes: 0.023264
+    followers: 35081
+    engagement: 122
+    commentsToLikes: 0.027970
     id: ck5c0toutttsa0i11kym5m1ru
     verified: false
-    hashtags: "#atxfoodtime, #media, #covid19inaustin"
-  - username: "jamieivey"
+    hashtags: "#atxfoodtime, #donated, #donation"
+  - username: "curt_ice"
     fullname: >-
-      Jamie Ivey
+      Curtis Taylor
     location: "United States"
-    followers: 95187
-    engagement: 117
-    commentsToLikes: 0.035369
-    id: ck0u7jqkd4zxr0i190hczbvwx
+    followers: 37762
+    engagement: 204
+    commentsToLikes: 0.023183
+    id: ck1362l4k4g7y0i194grma0sg
     verified: false
-    hashtags: "#fabfitfun, #rebeccabender, #hopeheals, #katherinewolf"
-  - username: "dashofmandi"
+    hashtags: "#glassart, #austin, #food, #foodphotography"
+  - username: "theuncreamery"
     fullname: >-
-      Mandi🍴Easy Recipes
+      The Uncreamery - Vegan Cheese
     location: "United States"
-    followers: 36715
-    engagement: 277
-    commentsToLikes: 0.163995
-    id: ck0txjiltjekl0i190ppeqx57
+    followers: 15925
+    engagement: 152
+    commentsToLikes: 0.057326
+    id: ck5zj9jjhh6vi0i14vb1nsfmk
     verified: false
-    hashtags: "#easymeal, #hhcookingwine, #thekitchn, #airfyer"
-  - username: "lvnthelife"
+    hashtags: "#atxfood, #zapiekanka, #noheadaches, #womanowned"
+  - username: "feedmi_"
     fullname: >-
-      LVnTheLife | Real Influencers
+      Mimi | Austin Food + Recipes
     location: "United States"
-    followers: 124907
-    engagement: 6
-    commentsToLikes: 0.023227
-    id: ck0w1nn64k8590i19fvzxzse7
+    followers: 14179
+    engagement: 702
+    commentsToLikes: 0.135571
+    id: ck0w21z9lm9120i19wtp86r6s
     verified: false
-    hashtags: "#houstonfood, #burgerlover, #beverlyhills, #green"
-  - username: "faimfatale"
+    hashtags: ""
+  - username: "coupleinthekitchen"
     fullname: >-
-      ᴅᴇᴀɴᴀ sᴀᴜᴋᴀᴍ
+      Austin Food, Recipes, & Travel
     location: "United States"
-    followers: 29523
-    engagement: 167
-    commentsToLikes: 0.062093
-    id: ck55jv4haxta60i112zhuvorq
+    followers: 40879
+    engagement: 209
+    commentsToLikes: 0.294938
+    id: ck0vy2aad1w1p0i19s07h8ecz
     verified: false
-    hashtags: "#kuyteavcha, #noodles, #elprimo, #arizona"
-  - username: "thefoodiecouple"
+    hashtags: "#cincodemayo, #ldcsummerfiesta, #ketofriendly, #oregonberries"
+  - username: "markyatx"
     fullname: >-
-      The Foodie Couple
+      MarkyATX | Austin Food Blogger
     location: "United States"
-    followers: 28111
-    engagement: 106
-    commentsToLikes: 0.069713
-    id: ck6ufibhgx84b0j71qr45gpiv
+    followers: 8416
+    engagement: 564
+    commentsToLikes: 0.325870
+    id: ckap3rnd049iu0i7885ycdkf6
     verified: false
-    hashtags: "#foodphotography, #pizza, #foodblogger, #pizzalovers"
-  - username: "cookdrankeat"
-    fullname: >-
-      Scotty Scott
-    location: "United States"
-    followers: 22535
-    engagement: 270
-    commentsToLikes: 0.088700
-    id: ck5zvxkgl53jx0i14fttgg0ne
-    verified: false
-    hashtags: "#foodinfulencer, #meatsweats, #coffeeeee, #butfirstcoffee"
-  - username: "ketokween.la"
-    fullname: >-
-      Lady Mel 🇬🇧🇺🇸
-    location: "United States"
-    followers: 25566
-    engagement: 125
-    commentsToLikes: 0.125852
-    id: ck6u3g2q5xl0z0j71npjoncn4
-    verified: false
-    hashtags: "#babygirl, #stayhome, #cook, #intermittentfasting"
+    hashtags: "#downtownaustin, #downtownaustinrestaurants, #everbodyneedssome, #glutenfree"
 ---

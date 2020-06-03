@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Italy In 2020
 description: >-
-  Find top food Instagram influencers in Italy in 2020. Most popular hashtags: #iorestoacasa #quarantena #coronavirus #andratuttobene.
+  Find top food Instagram influencers in Italy in 2020. Most popular hashtags: #adv #andratuttobene #foodporn #instagood.
 platform: Instagram
 profiles:
   - username: "serenaesposito97"
     fullname: >-
       𝓔𝓼𝓹𝓸𝓼𝓲𝓽𝓸 𝓼𝓮𝓻𝓮𝓷𝓪❣️
     location: "Italy"
-    followers: 3461
-    engagement: 2599
-    commentsToLikes: 0.218577
+    followers: 3446
+    engagement: 2759
+    commentsToLikes: 0.216453
     id: ck8t22rtby09w0j78axase2oz
     verified: false
-    hashtags: "#patatinefritte, #natale, #cute, #lamiavita"
-  - username: "leo_diezcerodos"
+    hashtags: "#poivorrei, #verynice, #ioete, #italy"
+  - username: "serefitfun"
     fullname: >-
-      🇮🇹 Leonardo ☀️
+      Serena 🇮🇹28 FITMOM
     location: "Italy"
-    followers: 14260
-    engagement: 1003
-    commentsToLikes: 0.139451
-    id: ck8t92fqimpzw0j78c7g1iue4
+    followers: 33033
+    engagement: 877
+    commentsToLikes: 0.052904
+    id: ck5q1b5moa5fh0i11gd1fbr2z
     verified: false
-    hashtags: ""
+    hashtags: "#papa, #koalababycare, #38weekspregnant, #premamanlook"
   - username: "ziaflavia_foodnboobs"
     fullname: >-
       Zia Flavia Foodn'Boobs
     location: "Italy"
-    followers: 112770
-    engagement: 878
-    commentsToLikes: 0.031039
+    followers: 111866
+    engagement: 735
+    commentsToLikes: 0.033348
     id: ck6u9kqhry4hg0j71i15sfc74
     verified: false
-    hashtags: "#100k, #100kfollowers, #coronavirus, #napoli"
-  - username: "nicolepaccagnella"
+    hashtags: "#coronavirus, #casatiello, #pizza, #adv"
+  - username: "leo_diezcerodos"
     fullname: >-
-      Nicole Paccagnella
+      🇮🇹 Leonardo ☀️
     location: "Italy"
-    followers: 50809
-    engagement: 366
-    commentsToLikes: 0.058431
-    id: ck55ohpp48dnr0i11oydychn7
+    followers: 14795
+    engagement: 944
+    commentsToLikes: 0.146109
+    id: ck8t92fqimpzw0j78c7g1iue4
     verified: false
-    hashtags: "#happynewyear, #galliamilano, #excelsiorhotelgallia, #iorestoacasa"
+    hashtags: "#trendhimsquad, #ad"
+  - username: "alessialfano_aa"
+    fullname: >-
+      Alessia Alfano 🌺
+    location: "Italy"
+    followers: 17448
+    engagement: 645
+    commentsToLikes: 0.094803
+    id: ckaov162d2oek0i78cw2hwhuc
+    verified: false
+    hashtags: "#bodypositive, #guudcare, #challenge, #pillow"
+  - username: "take.you.to"
+    fullname: >-
+      Sandra | Croatia
+    location: "Italy"
+    followers: 18751
+    engagement: 542
+    commentsToLikes: 0.116683
+    id: ck0u94u6390f20i19p7srdtda
+    verified: false
+    hashtags: "#smallactsoflove, #enebudessandra, #consciousbeauty, #recycle"
+  - username: "cattivipensieri_"
+    fullname: >-
+      Sabina Sirianni
+    location: "Italy"
+    followers: 17105
+    engagement: 573
+    commentsToLikes: 0.176610
+    id: ck5zxt4618m3g0i14loj16x9q
+    verified: false
+    hashtags: "#sensualita, #pixiglow, #antiage, #foodanddrinks"
   - username: "agipsyinthekitchen"
     fullname: >-
       A Gipsy In The Kitchen
     location: "Italy"
-    followers: 115726
-    engagement: 346
-    commentsToLikes: 0.060735
+    followers: 117720
+    engagement: 317
+    commentsToLikes: 0.062770
     id: ck0tz2kkeox6v0i19c43w7bna
     verified: false
-    hashtags: "#madewithchiquita, #slowlifediary, #iomifermo, #finish"
-  - username: "fabrizio_sina"
+    hashtags: "#andr, #andratuttobene, #iostoacasa, #activia"
+  - username: "hadiphoto75"
     fullname: >-
-      Fabrizio Sina ®️
+      ♡پشت من خدا بوده همیشه♡
     location: "Italy"
-    followers: 47280
-    engagement: 299
-    commentsToLikes: 0.084198
-    id: ck15tiytyibek0i19uyj9jzsd
+    followers: 13106
+    engagement: 813
+    commentsToLikes: 0.126800
+    id: ck9wigz8028150j78ppq0r1qd
     verified: false
-    hashtags: "#elegancestyle, #gymnastics, #cuccioli, #singlelife"
-  - username: "riccardomacario"
+    hashtags: "#pencil, #creative, #instaartist, #illustration"
+  - username: "giovanetti_elisa"
     fullname: >-
-      Riccardo Macario
+      🌷Elisa Giovanetti🌷
     location: "Italy"
-    followers: 80575
-    engagement: 1105
-    commentsToLikes: 0.017453
-    id: ck6tjdb9g2ho40j71x5mtpxcf
+    followers: 69097
+    engagement: 257
+    commentsToLikes: 0.055896
+    id: ck9wdkkhrg2uj0j7867shqafn
     verified: false
-    hashtags: "#peppapig, #adv, #piccolielfi, #superpigiamini"
-  - username: "maria_angela_galizia"
-    fullname: >-
-      Maria Angela Galizia
-    location: "Italy"
-    followers: 28183
-    engagement: 284
-    commentsToLikes: 0.339055
-    id: ck15s4cpvb5ta0i193jimbkgl
-    verified: false
-    hashtags: "#giveaway, #desenio, #leggere, #plussize"
-  - username: "diana.udrea"
-    fullname: >-
-      𝔇𝔦𝔞𝔫𝔞 𝔘𝔡𝔯𝔢𝔞
-    location: "Italy"
-    followers: 51168
-    engagement: 243
-    commentsToLikes: 0.072542
-    id: ck5c3sgw9zys70i11wwunfrry
-    verified: false
-    hashtags: "#biglagoon, #paradiseisland, #world, #whalesharks"
-  - username: "itsantoniodm"
-    fullname: >-
-      Antonio Di Matteo
-    location: "Italy"
-    followers: 14047
-    engagement: 1653
-    commentsToLikes: 0.054094
-    id: ck6u72dtqj2pl0j71hitu7zuv
-    verified: false
-    hashtags: "#makeupvideo, #peachyqueenblog, #jackieaina, #sigmabeauty"
+    hashtags: ""
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Portugal In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Portugal in 2020. Most popular hashtags: #ootd #menwithstyle #streetstyle #menwithstreetstyle.
+  Find top lifestyle Instagram influencers in Portugal in 2020. Most popular hashtags: #blogger #lookoftheday #ootdfashion #bloggerstyle.
 platform: Instagram
 profiles:
   - username: "rubenrpvaz"
     fullname: >-
       ℝ 𝕌 𝔹 𝔼 ℕ  𝕍 𝔸 ℤ
     location: "Portugal"
-    followers: 10831
-    engagement: 1088
-    commentsToLikes: 0.142006
+    followers: 10840
+    engagement: 1115
+    commentsToLikes: 0.140023
     id: ck6ti80us07rt0j719wtmkxt0
     verified: false
-    hashtags: "#london, #lifestyle, #fashion, #classic"
-  - username: "diogoorl"
-    fullname: >-
-      Mensfashion | Diogoorl
-    location: "Portugal"
-    followers: 25432
-    engagement: 542
-    commentsToLikes: 0.225030
-    id: ck15t4nuwgbtp0i197iqqj213
-    verified: false
-    hashtags: "#streetstylemen, #zalandostyle, #houseofstreetwear, #malemodel"
+    hashtags: "#jointhemvmt, #fashionnova, #street, #styleoftheday"
   - username: "catarina.fernandees"
     fullname: >-
       Catarina Fernandes
     location: "Portugal"
-    followers: 67545
-    engagement: 498
-    commentsToLikes: 0.044364
+    followers: 68815
+    engagement: 502
+    commentsToLikes: 0.071840
     id: ck1374d9y9pu80i19hpf69j8k
     verified: false
-    hashtags: "#looks, #homesweethome, #charlie, #mood"
+    hashtags: "#outfits, #cleaningmyhome, #happymothersday, #newproject"
+  - username: "nescp"
+    fullname: >-
+      Inês Costa Pereira
+    location: "Portugal"
+    followers: 8490
+    engagement: 1579
+    commentsToLikes: 0.047608
+    id: ck6012z18eqtz0i14zh0znn8z
+    verified: false
+    hashtags: "#loavies, #flowerfilteritlikemichele, #strongersweden, #stayinloavies"
+  - username: "diogoorl"
+    fullname: >-
+      Mensfashion | Diogoorl
+    location: "Portugal"
+    followers: 27793
+    engagement: 504
+    commentsToLikes: 0.230507
+    id: ck15t4nuwgbtp0i197iqqj213
+    verified: false
+    hashtags: "#outfitinspo, #gentlefashion, #styleguide, #balr"
+  - username: "martacyrnecarvalho"
+    fullname: >-
+      Marta Cyrne Carvalho
+    location: "Portugal"
+    followers: 38096
+    engagement: 481
+    commentsToLikes: 0.177019
+    id: ck6u4knjk49al0j7148a8d9r3
+    verified: false
+    hashtags: "#tescomaportugal, #36weeks, #day54, #diadamae"
+  - username: "constanca_moura"
+    fullname: >-
+      Constança Gomes Moura
+    location: "Portugal"
+    followers: 5836
+    engagement: 2603
+    commentsToLikes: 0.356191
+    id: ck0ud62vficdz0i19zz0851bk
+    verified: false
+    hashtags: "#hawkersco, #lifestyle, #dailyfashion, #blogger"
+  - username: "bruna_danin"
+    fullname: >-
+      Brunadanin
+    location: "Portugal"
+    followers: 12579
+    engagement: 923
+    commentsToLikes: 0.206757
+    id: ck5zp7pghs5dl0i14hz9ssf4l
+    verified: false
+    hashtags: "#detox, #bloguer, #burgacases, #caseiphone"
   - username: "zeneraa"
     fullname: >-
       Mensfashion | Zenera
     location: "Portugal"
-    followers: 31373
-    engagement: 398
-    commentsToLikes: 0.165896
+    followers: 32283
+    engagement: 388
+    commentsToLikes: 0.169934
     id: ck55k2m9kyb8j0i11srydm0nf
     verified: false
-    hashtags: "#moda, #luxurylifestyle, #mensfashion, #menwithclass"
+    hashtags: "#menswear, #mensfashion, #styleformen, #perfumes"
   - username: "miss_tet"
     fullname: >-
       Teresa Lemos
     location: "Portugal"
-    followers: 15156
-    engagement: 1241
-    commentsToLikes: 0.034370
+    followers: 16974
+    engagement: 1266
+    commentsToLikes: 0.031082
     id: ck55oexap88090i11kxq4k55q
     verified: false
-    hashtags: "#makeup, #amocozinhar, #norteshopping, #gato"
-  - username: "mariasilva12.11"
-    fullname: >-
-      Maria de Almeida A. da Silva
-    location: "Portugal"
-    followers: 3246
-    engagement: 2459
-    commentsToLikes: 0.066820
-    id: ck8t8u5gsltzw0j78dkljb69m
-    verified: false
-    hashtags: "#baciperugina, #tabletesperugina, #chocolatesperugina, #styleyourselfatsportzone"
+    hashtags: "#doglover, #diasdechuva, #norteshopping, #dailycristina"
   - username: "beatrizmoreiraazevedo"
     fullname: >-
       B E A
     location: "Portugal"
-    followers: 30696
-    engagement: 364
-    commentsToLikes: 0.179571
+    followers: 30043
+    engagement: 353
+    commentsToLikes: 0.078398
     id: ck1374btg9plh0i19pbvhs9x8
     verified: false
-    hashtags: "#fashionable, #stayhome, #ootdfashion, #outfitinspiration"
-  - username: "adrianaromasimoes"
-    fullname: >-
-      ADRIANA・DAILY INSPO
-    location: "Portugal"
-    followers: 3185
-    engagement: 1414
-    commentsToLikes: 0.268116
-    id: ck8td8rf62d2v0j78dx3wttlz
-    verified: false
-    hashtags: "#reallife, #tbt, #brandbassador"
-  - username: "itstatianasilva"
-    fullname: >-
-      Tatiana Silva
-    location: "Portugal"
-    followers: 11148
-    engagement: 999
-    commentsToLikes: 0.052226
-    id: ck8td8it82c3r0j78ov5ca9rl
-    verified: false
-    hashtags: "#tascadubai, #shareportuguesepassion, #joseavillez, #soukmadinat"
-  - username: "rubenruscello"
-    fullname: >-
-      Rúben Ruscello
-    location: "Portugal"
-    followers: 5847
-    engagement: 1386
-    commentsToLikes: 0.255669
-    id: ck15sv9j1ez2x0i19d03afjib
-    verified: false
-    hashtags: "#dappergent, #stayathome, #menfashioner, #simplydapper"
+    hashtags: "#harmonicalinea, #decorideas, #kerastase, #stayhome"
 ---

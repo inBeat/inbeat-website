@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In France In 2020
 description: >-
-  Find top food Instagram influencers in France in 2020. Most popular hashtags: #frenchgirl #paris #thetravelwomen #disneymagic.
+  Find top food Instagram influencers in France in 2020. Most popular hashtags: #concours #look #sunday #positive.
 platform: Instagram
 profiles:
   - username: "lady_pitaya"
     fullname: >-
       Kristin T.
     location: "France"
-    followers: 6543
-    engagement: 2010
-    commentsToLikes: 0.115081
+    followers: 8535
+    engagement: 2510
+    commentsToLikes: 0.118158
     id: ck5zsif4wyk0a0i14rjasoi4m
     verified: false
-    hashtags: "#paristourist, #robechinoise, #parisportraits, #timberlandboots"
+    hashtags: "#cordoue, #granadaespa, #natureportrait, #denimshorts"
+  - username: "marisepollard"
+    fullname: >-
+      Marise Pollard
+    location: "France"
+    followers: 49758
+    engagement: 1679
+    commentsToLikes: 0.077163
+    id: ck6u866l7pnuv0j71hspnufg4
+    verified: false
+    hashtags: ""
+  - username: "inessiadream"
+    fullname: >-
+      𝙄𝙉𝙀𝙎𝙎𝙄𝘼 ♦ 𝕊𝕚𝕟𝕘𝕖𝕣 𝕞𝕒𝕜𝕖𝕦𝕡 𝕒𝕕𝕕𝕚𝕔𝕥
+    location: "France"
+    followers: 15521
+    engagement: 1408
+    commentsToLikes: 0.577539
+    id: ck6u56g6m7v8e0j718uyyvz0f
+    verified: false
+    hashtags: "#frenchbaddies, #undiz, #milaniblush, #satindress"
+  - username: "chloe_letellier"
+    fullname: >-
+      Chloé Letellier
+    location: "France"
+    followers: 173747
+    engagement: 570
+    commentsToLikes: 0.059925
+    id: ckap8s2umpmn00i7893j9h7tm
+    verified: false
+    hashtags: "#makeup, #givenchy, #givenchybeauty"
+  - username: "fancy.poppy"
+    fullname: >-
+      Laura 22 yo ⚓
+    location: "France"
+    followers: 8683
+    engagement: 1302
+    commentsToLikes: 0.237875
+    id: ck8tbo976wg2h0j78v0f3p1v5
+    verified: false
+    hashtags: "#positive, #belgique, #easter, #artisanal"
   - username: "lauriane_lamperim"
     fullname: >-
       Lauriane Lamperim
     location: "France"
-    followers: 133490
-    engagement: 642
-    commentsToLikes: 0.035636
+    followers: 146160
+    engagement: 682
+    commentsToLikes: 0.027406
     id: ck13chvij0f9w0i199dwubasm
     verified: false
-    hashtags: "#yogsisters, #yoga, #nudeyogagirl, #nudeyoga"
-  - username: "kcxdisney"
+    hashtags: ""
+  - username: "danielaprepeliuc"
     fullname: >-
-      Kacie Shimabuku
+      Daniela Prepeliuc
     location: "France"
-    followers: 2018
-    engagement: 2419
-    commentsToLikes: 0.473361
-    id: ck8szuh7dprfo0j78l810bmrq
-    verified: false
-    hashtags: "#disneyparks, #pixaronwardxhappysocks, #disneystyle, #disneyannualpassholder"
-  - username: "hello.maureen"
+    followers: 28350
+    engagement: 852
+    commentsToLikes: 0.041966
+    id: ck5hr01you10i0i11374ycnq4
+    verified: true
+    hashtags: "#womanday, #manquepapa, #tropdamour, #egalite"
+  - username: "alix.grousset"
     fullname: >-
-      Hello Maureen
+      Alix Grousset
     location: "France"
-    followers: 19935
-    engagement: 1099
-    commentsToLikes: 0.051094
-    id: ck15scqu0ccnh0i19id1wu4qd
+    followers: 24712
+    engagement: 622
+    commentsToLikes: 0.067693
+    id: ck5pwzosdpe0a0i11r73fb0pg
     verified: false
-    hashtags: "#disneyresort, #elsa, #disneyphoto, #disneycharacters"
-  - username: "shizzl_life"
-    fullname: >-
-      S h i z z l 🌍
-    location: "France"
-    followers: 5767
-    engagement: 1574
-    commentsToLikes: 0.058125
-    id: ck0vziahk98my0i19syg0ucg5
-    verified: false
-    hashtags: "#instagrameuse, #vacances, #visitgreece, #tunisiangirl"
-  - username: "madbblondie"
-    fullname: >-
-      _ MADI 💎💋
-    location: "France"
-    followers: 3618
-    engagement: 1990
-    commentsToLikes: 0.134243
-    id: ck6ufvxblzfzm0j719w5ozfdr
-    verified: false
-    hashtags: "#girl, #moselle, #dabo, #mydog"
-  - username: "juliettemcm"
-    fullname: >-
-      🕊 Juliette
-    location: "France"
-    followers: 3460
-    engagement: 1891
-    commentsToLikes: 0.142878
-    id: ck5zswe60zb3z0i14tjdm3xif
-    verified: false
-    hashtags: "#armanibeauty, #explore, #huahine, #luminoussilk"
-  - username: "inessiadream"
-    fullname: >-
-      𝙄𝙉𝙀𝙎𝙎𝙄𝘼 🇫🇷 🎤🎶
-    location: "France"
-    followers: 13597
-    engagement: 897
-    commentsToLikes: 0.540019
-    id: ck6u56g6m7v8e0j718uyyvz0f
-    verified: false
-    hashtags: "#picoftheday, #urbanclothing, #frenchfrieslover, #pinkobag"
-  - username: "catarinaadeoliveira"
-    fullname: >-
-      Catarina Oliveira
-    location: "France"
-    followers: 3013
-    engagement: 1688
-    commentsToLikes: 0.405068
-    id: ck8ta8l7oqufk0j786xnzevvc
-    verified: false
-    hashtags: "#outfitoftheday, #decoration, #inspirationday, #artportugal"
+    hashtags: "#ninoandme, #confin, #gettymuseumchallenge, #couettechallenge"
   - username: "thepositivenews"
     fullname: >-
       Alex & Ophelia
     location: "France"
-    followers: 29715
-    engagement: 447
-    commentsToLikes: 0.070322
+    followers: 30495
+    engagement: 473
+    commentsToLikes: 0.066426
     id: ck8t0rw68t2lv0j78bgovxi2x
     verified: false
-    hashtags: "#createyourmove, #runner, #semideparis2020, #vintagefeeling"
+    hashtags: "#ootd, #lookdujour, #runwithparis, #dubndiducrew"
+  - username: "charlotteandfamily"
+    fullname: >-
+      Charlotte ☾ AndFamily
+    location: "France"
+    followers: 40416
+    engagement: 431
+    commentsToLikes: 0.084431
+    id: ck0w1e6mkiw9x0i19k9xy9rou
+    verified: false
+    hashtags: "#draisienne, #campagne, #lavieestbelle, #lejourdapres"
 ---

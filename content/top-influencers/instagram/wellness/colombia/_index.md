@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Colombia In 2020
 description: >-
-  Find top wellness Instagram influencers in Colombia in 2020. Most popular hashtags: #wellness #fitness #beauty #workout.
+  Find top wellness Instagram influencers in Colombia in 2020. Most popular hashtags: #wellness #cuarentena #motivacion #healthy.
 platform: Instagram
 profiles:
-  - username: "danieladiez"
-    fullname: >-
-      Danii🌸
-    location: "Colombia"
-    followers: 7266
-    engagement: 1086
-    commentsToLikes: 0.035034
-    id: ck8t2a6ieypcf0j784l1kegeh
-    verified: false
-    hashtags: "#dreambig, #fitspirations, #workoutgeat, #amate"
   - username: "melissalopez302"
     fullname: >-
       Melylopez🇨🇴
     location: "Colombia"
-    followers: 111553
-    engagement: 108
-    commentsToLikes: 0.025672
+    followers: 128504
+    engagement: 178
+    commentsToLikes: 0.025048
     id: ck5c7ld9p7qsh0i11qryq9pd1
     verified: false
-    hashtags: "#beauty, #virus, #corana, #chef"
-  - username: "elbapeka"
+    hashtags: "#cuerpo, #wellnessfitness, #barranquilla, #cuarentena"
+  - username: "danieladiez"
     fullname: >-
-      Elba peka
+      Danii👑
     location: "Colombia"
-    followers: 59848
-    engagement: 207
-    commentsToLikes: 0.032504
-    id: ck6u3vinu04mw0j71w3zhxfn8
+    followers: 8027
+    engagement: 1105
+    commentsToLikes: 0.049720
+    id: ck8t2a6ieypcf0j784l1kegeh
     verified: false
-    hashtags: "#misraices, #wellness, #olhaexplos, #fitnessgirl"
+    hashtags: "#bikinimodel, #monatskincare, #fitlife, #staysafe"
+  - username: "the_runaddict"
+    fullname: >-
+      George | Running & Tri Junkie
+    location: "Colombia"
+    followers: 9292
+    engagement: 811
+    commentsToLikes: 0.102786
+    id: ckaozhml1lxdo0i78gltg1vkd
+    verified: false
+    hashtags: "#gayfit, #pride, #igrunner, #coparunners"
+  - username: "tiposofia"
+    fullname: >-
+      Sofia Contreras
+    location: "Colombia"
+    followers: 33116
+    engagement: 130
+    commentsToLikes: 0.066180
+    id: ck8sy4yqwjppd0j78j6wps928
+    verified: false
+    hashtags: "#poder, #paris, #ciudaddepanama, #sand"
   - username: "katherineporto_"
     fullname: >-
       Katherine Porto
     location: "Colombia"
-    followers: 677408
-    engagement: 147
-    commentsToLikes: 0.025622
+    followers: 728797
+    engagement: 108
+    commentsToLikes: 0.023938
     id: ck600z1teejkq0i14iga22w8f
     verified: true
-    hashtags: "#abrazarnos, #resilencia, #anxiety, #womenempowerment"
-  - username: "suzanne_tr"
+    hashtags: "#bailaressanar, #teandbooks, #hacerlossuen, #dreamer"
+  - username: "mariaapaulavaz"
     fullname: >-
-      Susana Tapias Restrepo
+      María Paula Vázquez
     location: "Colombia"
-    followers: 5674
-    engagement: 1247
-    commentsToLikes: 0.052894
-    id: ck6u7o4aamo8z0j71uphym2qm
+    followers: 11404
+    engagement: 1242
+    commentsToLikes: 0.021334
+    id: ck5pwp6yunwks0i11j1d6axko
     verified: false
-    hashtags: "#beautifull, #happier, #rising, #courage"
-  - username: "marianelamodel"
+    hashtags: "#lifestyle, #wellness, #summer, #makeupchallenge"
+  - username: "rociocio"
     fullname: >-
-      Marianela💋Ramos
+      RO ★
     location: "Colombia"
-    followers: 44684
-    engagement: 657
-    commentsToLikes: 0.021936
-    id: ck5q3ihpokw7e0i11gl42nznm
+    followers: 9677
+    engagement: 658
+    commentsToLikes: 0.062389
+    id: ck6trauh6xx580j71lvfhzht4
     verified: false
-    hashtags: "#argentina, #tendencia, #miss, #blondehair"
-  - username: "mariadalmazzo"
+    hashtags: "#fitgirl, #pyton, #1989, #goodvibes"
+  - username: "mulatafit"
     fullname: >-
-      mariadalmazzo
+      Wbff Diva Champion Usa🇺🇸
     location: "Colombia"
-    followers: 38588
-    engagement: 142
-    commentsToLikes: 0.036086
-    id: ck14ig057f7pz0i193f3i40v8
-    verified: true
-    hashtags: "#tbt, #loccitane, #coconut, #loquehacemaria"
-  - username: "iam_sashap"
-    fullname: >-
-      Sasha P
-    location: "Colombia"
-    followers: 2675
-    engagement: 1230
-    commentsToLikes: 0.095032
-    id: ck6u1m18imjvx0j71pcjdcjlq
+    followers: 524758
+    engagement: 200
+    commentsToLikes: 0.020615
+    id: ck5q5bhkks4yj0i11prd3sjk9
     verified: false
-    hashtags: "#reflectionphotography, #catwalk, #missteenusa, #reporter"
-  - username: "kmiitorresp"
+    hashtags: "#homeworkoutvideos, #wbffwellnesspro, #atletawellnessfitnesspro, #athome"
+  - username: "calicolfit"
     fullname: >-
-      Camila Torres
+      LUZ MARINA GARCIA A 🐼🦄
     location: "Colombia"
-    followers: 26469
-    engagement: 262
-    commentsToLikes: 0.085144
-    id: ck6u9eudmx5mt0j7108uih0pe
+    followers: 35443
+    engagement: 96
+    commentsToLikes: 0.054930
+    id: ck5zufszw2a0r0i14z8wpyi8c
     verified: false
-    hashtags: "#moveon, #keto, #motivation, #warrior"
-  - username: "leococinero"
+    hashtags: "#facil, #glutes, #gluteo, #fresas"
+  - username: "fuqueneifbbpro1"
     fullname: >-
-      Leonardo Moran
+      Esteban Fuquene | IFBB PRO🇨🇴
     location: "Colombia"
-    followers: 199743
-    engagement: 123
-    commentsToLikes: 0.030272
-    id: ck136xdv48qa10i19fm2liv12
-    verified: true
-    hashtags: "#libros, #cocinafacil, #cook, #despertarespiritual"
+    followers: 28104
+    engagement: 210
+    commentsToLikes: 0.020345
+    id: ck5hryp1avpgq0i11k77ehskm
+    verified: false
+    hashtags: "#shreddedbrother, #posing, #investigacion, #prodebut"
 ---

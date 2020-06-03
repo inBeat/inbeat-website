@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top photographers Instagram influencers in Tokyo in 2020. Most popular hashtags: #portrait #tokyo #portraits #japan.
+  Find top photographers Instagram influencers in Tokyo in 2020. Most popular hashtags: #stayhome #ambassador #galaxys20 #teamgalaxy.
 platform: Instagram
 profiles:
   - username: "soi_portrait"
     fullname: >-
       soi
     location: "Japan"
-    followers: 5880
-    engagement: 587
-    commentsToLikes: 0.018700
+    followers: 5834
+    engagement: 590
+    commentsToLikes: 0.020783
     id: ck0w6xe99apq40i190a01ao0f
     verified: false
-    hashtags: "#team, #screen, #art, #color"
+    hashtags: "#stayhome"
+  - username: "jungraphy_"
+    fullname: >-
+      Junya Watanabe / Tokyo 🇯🇵
+    location: "Japan"
+    followers: 76857
+    engagement: 842
+    commentsToLikes: 0.020331
+    id: ck0ublx70euqt0i197hu6mwm4
+    verified: false
+    hashtags: "#hellofrom, #symmetryhunters"
+  - username: "naoyuki_obayashi"
+    fullname: >-
+      大林直行
+    location: "Japan"
+    followers: 22958
+    engagement: 194
+    commentsToLikes: 0.003746
+    id: ck0vzm3739rv70i1936kc92fs
+    verified: false
+    hashtags: "#floating, #springonion, #filmphotography, #abashiri"
+  - username: "yoshinori_mizutani"
+    fullname: >-
+      Yoshinori Mizutani
+    location: "Japan"
+    followers: 22281
+    engagement: 373
+    commentsToLikes: 0.008592
+    id: ck5qeejv803bu0i113p7b6jv2
+    verified: false
+    hashtags: "#stayhome, #timeandstyle, #eosr, #xxystudio"
+  - username: "moonlightice"
+    fullname: >-
+      Masaya Suzuki
+    location: "Japan"
+    followers: 481541
+    engagement: 139
+    commentsToLikes: 0.007641
+    id: ck5zveoh8439s0i145xapjykd
+    verified: false
+    hashtags: "#hydrangeas, #milkyway, #trip, #morninglight"
   - username: "chiaoking"
     fullname: >-
       naoko uchida
     location: "Japan"
-    followers: 80249
-    engagement: 151
-    commentsToLikes: 0.008922
+    followers: 79548
+    engagement: 154
+    commentsToLikes: 0.008597
     id: ck5zn8dhznz0y0i14sz4ws8o5
     verified: false
-    hashtags: "#nespresso, #hasselblad, #a6100, #mytokyois"
+    hashtags: "#mytokyois, #tokyotower, #a6100, #sony"
   - username: "moron_non"
     fullname: >-
       もろんのん
     location: "Japan"
-    followers: 81481
-    engagement: 150
-    commentsToLikes: 0.005949
+    followers: 81040
+    engagement: 153
+    commentsToLikes: 0.006410
     id: ck0w1j1ohjl880i191z9t7ug3
     verified: false
-    hashtags: "#mrcheesecake, #hironakaayaka, #filmisnotdead, #moronnon"
+    hashtags: "#moronnon, #pr, #tanakamakoto, #hanako"
   - username: "_hikari_____"
     fullname: >-
       Hikari ／加藤 光
     location: "Japan"
-    followers: 102701
-    engagement: 138
-    commentsToLikes: 0.006525
+    followers: 102383
+    engagement: 129
+    commentsToLikes: 0.004754
     id: ck1377t8ba83u0i19jme1c3h2
     verified: false
-    hashtags: "#teamgalaxy, #hanakotravel, #camp, #tahiti"
-  - username: "naoyuki_obayashi"
-    fullname: >-
-      アンソニー大林
-    location: "Japan"
-    followers: 23054
-    engagement: 209
-    commentsToLikes: 0.002353
-    id: ck0vzm3739rv70i1936kc92fs
-    verified: false
-    hashtags: "#kodakportra400, #smc105mm24, #utoro, #portrait"
-  - username: "misha_saied"
-    fullname: >-
-      Misha Saied
-    location: "Japan"
-    followers: 11754
-    engagement: 525
-    commentsToLikes: 0.040642
-    id: ck5zwafom5s1j0i14m9wau3k0
-    verified: false
-    hashtags: "#springinjapan, #travelblogger, #sonyalpha, #dotonboristreet"
+    hashtags: "#ambassador, #withgalaxy, #mychicagothursday, #chicagohome"
   - username: "hirokotv"
     fullname: >-
-      Hiroko Imai
+      Hiroko Imai🇯🇵
     location: "Japan"
-    followers: 15267
-    engagement: 518
-    commentsToLikes: 0.036543
+    followers: 16646
+    engagement: 522
+    commentsToLikes: 0.040547
     id: ck0w5f2cx3c1p0i1935lf7xu3
     verified: false
-    hashtags: "#roppongi, #tokyotokyo, #happynewyear, #kimono"
+    hashtags: "#peres, #hanedaairport, #findyourtokyo, #vinylhouse"
   - username: "_icyphoto_"
     fullname: >-
       Photographer in Tokyo ジュリア
     location: "Japan"
-    followers: 18019
-    engagement: 1054
-    commentsToLikes: 0.023330
+    followers: 18225
+    engagement: 981
+    commentsToLikes: 0.023141
     id: ck5c1kyiive4i0i11svbdfe22
     verified: false
-    hashtags: "#bwportrait, #sigmalenses, #sonyalpha, #portraitphotography"
-  - username: "_242424_"
-    fullname: >-
-      shohei
-    location: "Japan"
-    followers: 11789
-    engagement: 520
-    commentsToLikes: 0.022790
-    id: ck5zomnh9qvqy0i14vi1k4c77
-    verified: false
-    hashtags: "#ourmoodydays, #portraitstream, #moodyportraits, #citykillerz"
-  - username: "hiromi__takahashi"
-    fullname: >-
-      高橋弘美
-    location: "Japan"
-    followers: 23895
-    engagement: 386
-    commentsToLikes: 0.029834
-    id: ck5hmj1kdm1fp0i11mlpev6x6
-    verified: false
-    hashtags: "#terra1012, #lobor, #awkitchentokyo, #terracollection"
+    hashtags: "#portraiture, #85mm, #asia, #sigmaphoto"
 ---

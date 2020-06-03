@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Norway In 2020
 description: >-
-  Find top vegan Instagram influencers in Norway in 2020. Most popular hashtags: #greenfluencer #ad #govegan #vegan.
+  Find top vegan Instagram influencers in Norway in 2020. Most popular hashtags: #greenfluencer #grateful #govegan #norway.
 platform: Instagram
 profiles:
-  - username: "jannicke32"
+  - username: "kamilla_thorsen"
     fullname: >-
-      Jannicke Sætre 🇳🇴
+      • KAMMY •
     location: "Norway"
-    followers: 13554
-    engagement: 557
-    commentsToLikes: 0.203984
-    id: ck14jwreqmkwi0i19tw1r40sh
+    followers: 13015
+    engagement: 935
+    commentsToLikes: 0.122316
+    id: ckaosvp25t81a0i786mqcaghb
     verified: false
-    hashtags: "#bekind, #autotradingtrondheim, #fantasyfactoryas, #icaniwill"
+    hashtags: "#norway, #fashiongrammer, #ootd, #springlooks"
   - username: "gossegoss"
     fullname: >-
       ✖️Lene Marie Gåsbakk | Norway
     location: "Norway"
-    followers: 24164
-    engagement: 549
-    commentsToLikes: 0.029305
+    followers: 26212
+    engagement: 615
+    commentsToLikes: 0.033148
     id: ck0w1k8ozjriv0i1973zuqcok
     verified: false
-    hashtags: "#govegan, #mymollers, #molleromega3, #teliax"
+    hashtags: "#rampestreken, #shotoniphone, #molleromega3, #mollersomega3"
+  - username: "jannicke32"
+    fullname: >-
+      Jannicke Sætre 🇳🇴
+    location: "Norway"
+    followers: 13539
+    engagement: 534
+    commentsToLikes: 0.215223
+    id: ck14jwreqmkwi0i19tw1r40sh
+    verified: false
+    hashtags: "#idealofsweden, #greeninfluencer, #gymsport, #chiquelle"
   - username: "julianneiwj"
     fullname: >-
       Julianne
     location: "Norway"
-    followers: 134636
-    engagement: 816
-    commentsToLikes: 0.006806
+    followers: 130967
+    engagement: 813
+    commentsToLikes: 0.005971
     id: ck1359cgj0cra0i19ana5st3x
     verified: false
-    hashtags: "#ad, #imasturbate, #annonse"
+    hashtags: "#annonse"
   - username: "lindalike"
     fullname: >-
       Linda Sannesmoen
     location: "Norway"
-    followers: 39099
-    engagement: 95
-    commentsToLikes: 0.052241
+    followers: 38569
+    engagement: 98
+    commentsToLikes: 0.052809
     id: ck0vwanbssuii0i19rovn2gwt
     verified: false
-    hashtags: "#lindalike, #onthemove, #nextchapter, #cov"
-  - username: "reallymili"
-    fullname: >-
-      Really Mili
-    location: "Norway"
-    followers: 22308
-    engagement: 360
-    commentsToLikes: 0.091955
-    id: ck55kj2oizf4p0i11acgax719
-    verified: false
-    hashtags: "#norway, #thereseutfordrer"
+    hashtags: "#insecthotel, #whatiwear, #plantbased, #epic"
   - username: "yoga_kaja"
     fullname: >-
       ☾ YOGA KAJA ☼
     location: "Norway"
-    followers: 24151
-    engagement: 623
-    commentsToLikes: 0.056472
+    followers: 32719
+    engagement: 866
+    commentsToLikes: 0.058688
     id: ck15uxx31p0xe0i196cdo7pn6
     verified: false
-    hashtags: "#internationalwomensday"
+    hashtags: ""
+  - username: "reallymili"
+    fullname: >-
+      Really Mili
+    location: "Norway"
+    followers: 23340
+    engagement: 319
+    commentsToLikes: 0.124342
+    id: ck55kj2oizf4p0i11acgax719
+    verified: false
+    hashtags: "#thereseutfordrer, #ad, #onepiecesunday, #foxeyes"
+  - username: "trudews"
+    fullname: >-
+      Trude Wermskog Stormo
+    location: "Norway"
+    followers: 5334
+    engagement: 673
+    commentsToLikes: 0.025679
+    id: ck139aqyxkdis0i19t63csgjo
+    verified: false
+    hashtags: "#triatlon, #allfortheswim, #uncertaintimes, #drammensbadet"
   - username: "_bakerina"
     fullname: >-
       Baked by a Ballerina
     location: "Norway"
-    followers: 8744
-    engagement: 629
-    commentsToLikes: 0.218359
+    followers: 9222
+    engagement: 726
+    commentsToLikes: 0.218102
     id: ck134m3ngx3j30i19wzytx5m4
     verified: false
-    hashtags: "#veganbaking, #kale, #chickpeaflour, #mollerstran"
-  - username: "vegetarbloggen"
+    hashtags: "#tofu, #homemade, #17mai, #crispytofu"
+  - username: "celinakarine"
     fullname: >-
-      Mari Hult
+      CELINA KARINE ◡̈
     location: "Norway"
-    followers: 27637
-    engagement: 116
-    commentsToLikes: 0.032678
-    id: ck5c1lmwfvfgl0i117bmgm5oz
+    followers: 64753
+    engagement: 309
+    commentsToLikes: 0.021590
+    id: ck6trcrgiy8xf0j71i7uotma0
     verified: false
-    hashtags: "#7elevennorge, #restemat, #spisoppmaten, #matbloggsentralen"
-  - username: "martineesa"
-    fullname: >-
-      Martine
-    location: "Norway"
-    followers: 5436
-    engagement: 766
-    commentsToLikes: 0.196686
-    id: ck15r50c166i60i19v5unu6rz
-    verified: false
-    hashtags: "#women, #food, #vanns, #clothing"
-  - username: "the_optimisticgirl"
-    fullname: >-
-      Amara Jakobsen.
-    location: "Norway"
-    followers: 16636
-    engagement: 321
-    commentsToLikes: 0.124847
-    id: ck6u4yexg6igx0j714n8zdm31
-    verified: false
-    hashtags: "#melaninbeauty, #mybeigelife, #bloggerin, #pregnancydiary"
+    hashtags: "#greenfluencer, #govegan, #globalsheaalliance, #hudtest"
 ---

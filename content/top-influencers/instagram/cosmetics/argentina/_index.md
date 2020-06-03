@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Argentina In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Argentina in 2020. Most popular hashtags: #makeup #argentina #cosmetics #beauty.
+  Find top cosmetics Instagram influencers in Argentina in 2020. Most popular hashtags: #cosmetics #makeuplover #wakeupandmakeup #lipstick.
 platform: Instagram
 profiles:
-  - username: "daiok"
-    fullname: >-
-      D A I   G O N Z A L E Z
-    location: "Argentina"
-    followers: 26800
-    engagement: 185
-    commentsToLikes: 0.085718
-    id: ck55mro4n4lzl0i11hjt6bizk
-    verified: false
-    hashtags: "#macxmercadolibre, #makeupaddict, #seamosresponsables, #macmyday"
   - username: "maccosmeticschile"
     fullname: >-
       M·A·C COSMETICS CHILE
     location: "Argentina"
-    followers: 70098
-    engagement: 202
-    commentsToLikes: 0.148777
+    followers: 128030
+    engagement: 83
+    commentsToLikes: 0.074793
     id: ck0vy8iu82qrr0i1970e456qa
     verified: true
-    hashtags: "#regram, #macxbarbie, #quedateencasa, #macxlamuqe"
-  - username: "ph.meni"
-    fullname: >-
-      P H O T O G R A P H Y
-    location: "Argentina"
-    followers: 6537
-    engagement: 985
-    commentsToLikes: 0.093829
-    id: ck5pwntk9nprz0i11vrv7ihrw
-    verified: false
-    hashtags: "#loves, #artofvisuals, #natureaddict, #exploremore"
+    hashtags: "#macmaker, #macfastresponse, #maclovers, #macxcotelopez"
   - username: "joaquinlpatterson"
     fullname: >-
       Joaquin Lopez Patterson
     location: "Argentina"
-    followers: 29747
-    engagement: 298
-    commentsToLikes: 0.114343
+    followers: 30851
+    engagement: 324
+    commentsToLikes: 0.124044
     id: ck5q37t6jjmov0i117h0urd59
     verified: false
-    hashtags: "#glassskingoals, #dew, #cosmetics, #rosariosantafe"
-  - username: "srbuenosairesph"
+    hashtags: "#whitedress, #beachvibes, #coppereyeshadow, #oscarsmakeup"
+  - username: "abyylopezz"
     fullname: >-
-      Martín de sousa
+      ABY
     location: "Argentina"
-    followers: 18672
-    engagement: 229
-    commentsToLikes: 0.076605
-    id: ck0w6n15u9cik0i1946f3aqmx
+    followers: 7788
+    engagement: 1184
+    commentsToLikes: 0.139967
+    id: ck6udu9gzn65w0j71ixnsexnt
     verified: false
-    hashtags: "#mkexplore, #visualambassadors, #streetshared, #hypebeast"
-  - username: "agussarmientoo"
+    hashtags: "#bikiniavecsissy, #mujeres, #modeloftheday, #instamood"
+  - username: "carlanereap"
     fullname: >-
-      𝑨𝒈𝒖𝒔𝒕𝒊𝒏𝒂 𝑺𝒂𝒓𝒎𝒊𝒆𝒏𝒕𝒐
+      𝐂𝐀𝐑𝐋𝐀 𝐏𝐈Ñ𝐄𝐈𝐑𝐎
     location: "Argentina"
-    followers: 3054
-    engagement: 989
-    commentsToLikes: 0.092656
-    id: ck14lngdsvjkj0i195b8xagyd
+    followers: 19627
+    engagement: 321
+    commentsToLikes: 0.037102
+    id: ck8t4c9ah68zh0j78o38xsx43
     verified: false
-    hashtags: "#care, #portrait, #model, #discoverportrait"
+    hashtags: "#cantante, #nicegirl, #legday, #motivationgym"
+  - username: "byantofazio"
+    fullname: >-
+      Antonella Fazio
+    location: "Argentina"
+    followers: 22690
+    engagement: 1067
+    commentsToLikes: 0.777851
+    id: ckapcgeid3pg70i78dc8prm2g
+    verified: false
+    hashtags: "#streamer, #hydrating, #makeupoftheday, #outdoor"
   - username: "duiliocortella"
     fullname: >-
       Dr Duilio Cortella
     location: "Argentina"
-    followers: 100864
-    engagement: 218
-    commentsToLikes: 0.075727
+    followers: 104278
+    engagement: 240
+    commentsToLikes: 0.074107
     id: ck15tr4m5jhqb0i193pb15up7
     verified: false
-    hashtags: "#fillers, #labial, #rinomodelacion, #armonia"
-  - username: "cande.copello"
+    hashtags: "#drdc, #nofilter, #magia, #lipsinjection"
+  - username: "_solbeatriz"
     fullname: >-
-      Cande Copello
+      S U N Y 🔥
     location: "Argentina"
-    followers: 134321
-    engagement: 480
-    commentsToLikes: 0.047016
-    id: ck15rqvl998s10i19hpmyqi3h
+    followers: 4414
+    engagement: 1098
+    commentsToLikes: 0.056420
+    id: ck8sz3k6ln1ex0j78fkfdhp6b
     verified: false
-    hashtags: "#dance, #chiquitasuelta, #artisticmakeup, #dondeestas"
+    hashtags: "#choreography, #cielo, #shoes, #basics"
+  - username: "gabrielahernandez.mua"
+    fullname: >-
+      Gabriela Hernández
+    location: "Argentina"
+    followers: 21102
+    engagement: 329
+    commentsToLikes: 0.099273
+    id: ck9h9uah69zkd0j787wpi4x8q
+    verified: false
+    hashtags: "#makeupjunkie, #sorteo, #lips, #tutorialmakeup"
   - username: "blanqui_ro"
     fullname: >-
       Blanca
     location: "Argentina"
-    followers: 6272
-    engagement: 865
-    commentsToLikes: 0.476043
+    followers: 6478
+    engagement: 863
+    commentsToLikes: 0.412733
     id: ck5btvesegojj0i11689jf1gd
     verified: false
-    hashtags: "#instagood, #healthy, #nafitdad19, #inspiracion"
+    hashtags: "#healthylife, #apple, #sorteos, #hungry"
   - username: "agus_gelfo"
     fullname: >-
       ᴀɢᴜs ɢᴇʟғᴏ
     location: "Argentina"
-    followers: 19788
-    engagement: 404
-    commentsToLikes: 0.158090
+    followers: 19895
+    engagement: 392
+    commentsToLikes: 0.176036
     id: ck5cepxxylh310i11qv301nb0
     verified: false
-    hashtags: "#maquillajeprofesional, #cherry, #diorbackstage, #love"
+    hashtags: "#navidad2019, #human, #diorbackstage, #pigmento"
 ---

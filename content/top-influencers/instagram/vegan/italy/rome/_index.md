@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Rome In 2020
 description: >-
-  Find top vegan Instagram influencers in Rome in 2020. Most popular hashtags: #vegan #love #me #outfitoftheday.
+  Find top vegan Instagram influencers in Rome in 2020. Most popular hashtags: #vegan #rome #flowers #beauty.
 platform: Instagram
 profiles:
-  - username: "lecoliche"
+  - username: "simo_veggie_fit"
     fullname: >-
-      Le Coliche
+      𝓢𝓲𝓶𝓸𝓷𝓮 𝓣𝓪𝓿𝓪𝓻𝓪𝓷𝓲
     location: "Italy"
-    followers: 216348
-    engagement: 355
-    commentsToLikes: 0.006050
-    id: ck14lqtgdw12q0i19gjz780mw
-    verified: true
-    hashtags: "#bersagli, #chepoi, #hp, #morgan"
+    followers: 7648
+    engagement: 403
+    commentsToLikes: 0.029141
+    id: ck13a0nhuo1940i190960azr4
+    verified: false
+    hashtags: "#happyplace, #streetphotography, #hollywood, #sorgho"
   - username: "ale.sbaraglia"
     fullname: >-
       ALESSIA SBARAGLIA
     location: "Italy"
-    followers: 12881
-    engagement: 588
-    commentsToLikes: 0.275389
+    followers: 13793
+    engagement: 660
+    commentsToLikes: 0.230602
     id: ck5bzt1llrs7u0i1136mcqjwu
     verified: false
-    hashtags: "#friday, #fashionstyle, #teddy, #woman"
+    hashtags: "#lookdioggi, #pinupgirl, #navy, #challenge"
+  - username: "cosmepolitan.it"
+    fullname: >-
+      Elvira Colavita
+    location: "Italy"
+    followers: 122735
+    engagement: 114
+    commentsToLikes: 0.046109
+    id: ckap4sr1s8pai0i78wilr5f34
+    verified: false
+    hashtags: "#healthylifestyle, #fitballsuitacchi, #whiteroses, #naturalbeauty"
   - username: "violaguidotti"
     fullname: >-
       Vιoℓα Gυιdσττι
     location: "Italy"
-    followers: 50387
-    engagement: 329
-    commentsToLikes: 0.045343
+    followers: 50524
+    engagement: 345
+    commentsToLikes: 0.047997
     id: ck5zqtcgnv95w0i14m257509l
     verified: false
-    hashtags: "#shopping, #basicmakeup, #familyfirst, #blond"
-  - username: "lacucinadijacqueline"
+    hashtags: "#streetlook, #crueltyfree, #stripes, #sleep"
+  - username: "elenotta_12"
     fullname: >-
-      _LacucinadiJacqueline_
+      Elena Senerchia 🎀 👠👜👗🎀
     location: "Italy"
-    followers: 3056
-    engagement: 1823
-    commentsToLikes: 0.146766
-    id: ck5cis9w2t9yn0i11v1h5wkve
+    followers: 6033
+    engagement: 400
+    commentsToLikes: 0.037271
+    id: ck8t82z25ix1s0j78atz6l9v7
     verified: false
-    hashtags: "#kugelhopf, #strawberrymuffin, #brunchlife, #cookingtime"
-  - username: "doravinciguerra"
+    hashtags: "#winter, #uovadipasqua, #photoshoot, #girls"
+  - username: "enea_ph_lovers"
     fullname: >-
-      DORA - Running & Vegan Food
+      🌹HiKiNg💙visit my gallery🌹
     location: "Italy"
-    followers: 24451
-    engagement: 342
-    commentsToLikes: 0.062912
-    id: ck0ua7rcibpcn0i19utfavfc0
+    followers: 9678
+    engagement: 893
+    commentsToLikes: 0.015422
+    id: ck5c48o2x0txs0i1103qe99zc
     verified: false
-    hashtags: "#sportswear, #monitorthebeat, #mobility, #quads"
-  - username: "avocado.bar"
+    hashtags: "#lake, #trekkingday, #lazio, #ferrino"
+  - username: "verdebio"
     fullname: >-
-      AVOCADO BAR
+      Gioia Lauri • Italian Beauty
     location: "Italy"
-    followers: 31347
-    engagement: 125
-    commentsToLikes: 0.002649
-    id: ck5q6b3m3woih0i11g6qskgwc
+    followers: 20241
+    engagement: 221
+    commentsToLikes: 0.079813
+    id: ck13a7todp1xc0i198fskf9dv
     verified: false
-    hashtags: "#avocadobar, #puntarellarossaroma, #tost, #foodporn"
-  - username: "cavigliagiulia"
+    hashtags: "#etereacosmesi, #lipliner, #zoevabrush, #skincarejunkie"
+  - username: "comequandoleggo"
     fullname: >-
-      Giulia Caviglia
+      Books & Lifestyle 🎞 Ilaria
     location: "Italy"
-    followers: 15679
-    engagement: 510
-    commentsToLikes: 0.078935
-    id: ck6tm0sff6zj20j71s2u8jbdl
+    followers: 3727
+    engagement: 1580
+    commentsToLikes: 0.058003
+    id: ck6u9bst4wmva0j716a5l97gg
     verified: false
-    hashtags: "#homedecor, #mask, #naturaladditives, #coat"
-  - username: "nancybism"
+    hashtags: "#greentealover, #interior, #quarantineparty, #librarydesign"
+  - username: "andreabzzz"
     fullname: >-
-      Nancy || Creator & Blogger
+      Andrea Moscon
     location: "Italy"
-    followers: 12627
-    engagement: 904
-    commentsToLikes: 0.150990
-    id: ck5hixj08fn5z0i11aycpp1u1
-    verified: false
-    hashtags: "#mood, #aesthetic, #mirrorselfie, #sundaymotivation"
-  - username: "cinziatopchef"
+    followers: 392763
+    engagement: 609
+    commentsToLikes: 0.049823
+    id: ck14jk34nkrcm0i19u4kn8iay
+    verified: true
+    hashtags: "#pretty, #giveawayitalia, #totalwhite, #beautifulhotela"
+  - username: "ninojkt"
     fullname: >-
-      Cinzia Fumagalli
+      Nino Fernandez
     location: "Italy"
-    followers: 7295
-    engagement: 942
-    commentsToLikes: 0.223044
-    id: ck6uark1e587w0j71t95shj8z
-    verified: false
-    hashtags: "#oggignocchi, #fusion, #cookingshow, #celamettiamotutta"
-  - username: "samanta.setola"
-    fullname: >-
-      Samanta Setola
-    location: "Italy"
-    followers: 17290
-    engagement: 303
-    commentsToLikes: 0.026371
-    id: ck0udjtxwj9hc0i19a9udbfcv
-    verified: false
-    hashtags: "#happiness, #candeline, #capolavoridellarte, #rolexdatejust"
+    followers: 116628
+    engagement: 295
+    commentsToLikes: 0.033403
+    id: ck6u1t90pnqt50j71ag9buxup
+    verified: true
+    hashtags: "#dirumahaja, #jakarta, #uniqlolifewear, #uniqloindonesia"
 ---

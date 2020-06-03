@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top mothers Instagram influencers in Malaysia in 2020. Most popular hashtags: #love #lifestyle #model #workout.
+  Find top mothers Instagram influencers in Malaysia in 2020. Most popular hashtags: #mothersday #covid #family #stayathome.
 platform: Instagram
 profiles:
   - username: "duduannann"
     fullname: >-
       Dudu Ann 📍🇲🇾
     location: "Malaysia"
-    followers: 100647
-    engagement: 136
-    commentsToLikes: 0.041118
+    followers: 101429
+    engagement: 74
+    commentsToLikes: 0.032468
     id: ck8sy0ugzjcb70j78ufpgpj4t
     verified: false
-    hashtags: "#bhbhealth, #balance, #moisturizing, #jb"
-  - username: "mariaivashkevich"
-    fullname: >-
-      
-    location: "Malaysia"
-    followers: 4815
-    engagement: 1938
-    commentsToLikes: 0.019576
-    id: ck55o28mf7hg20i11kkifwngw
-    verified: false
-    hashtags: "#makeup, #night, #nice, #baby"
+    hashtags: "#enfagrowmy, #stayathomemalaysia, #happyfathersday, #birthday"
   - username: "motheranddaughter_diary"
     fullname: >-
       Mother and Daughter Diary
     location: "Malaysia"
-    followers: 80987
-    engagement: 193
-    commentsToLikes: 0.015265
+    followers: 100003
+    engagement: 171
+    commentsToLikes: 0.020678
     id: ck15q65ud1ape0i19uwiuclha
     verified: false
-    hashtags: "#motheranddaughter, #twins, #beautiful"
-  - username: "cherrietan_ellui"
+    hashtags: "#motherdaughter, #adorable, #twinmom, #momtobe"
+  - username: "versacerin_"
     fullname: >-
-      Cherrie Tan 陈佩雯
+      Im Erin
     location: "Malaysia"
-    followers: 120819
-    engagement: 47
-    commentsToLikes: 0.017699
-    id: ck0w5hbhm3na80i1990qn6hpo
+    followers: 6662
+    engagement: 725
+    commentsToLikes: 0.016733
+    id: ckapc0w0121dm0i785jpo9xe0
     verified: false
-    hashtags: "#thanksforallthebirthdaywishes, #memangultimate, #berlynwong, #27weekspregnant"
-  - username: "pixiegoh"
+    hashtags: "#watercolour, #flattenthecurve, #covid19, #stayathome"
+  - username: "carinesalameh"
     fullname: >-
-      PixXie Goh 🧚🏽‍♀️
+      Carine Salameh Shalhoob🇱🇧
     location: "Malaysia"
-    followers: 27934
-    engagement: 288
-    commentsToLikes: 0.053848
-    id: ck0vzrrafale30i19hgb2gxk2
+    followers: 75365
+    engagement: 81
+    commentsToLikes: 0.042507
+    id: ck5q9b4xaa89d0i11y89pjq71
     verified: false
-    hashtags: "#ojeshdreamteam, #theme, #vacation, #alwayslearning"
-  - username: "charissachong"
+    hashtags: "#thesun, #portrait, #positivevibesonly, #lipstick"
+  - username: "di_minrakhmanova"
     fullname: >-
-      Charissa Chong ✨
+      Dilyara Minrakhmanova
     location: "Malaysia"
-    followers: 42463
-    engagement: 164
-    commentsToLikes: 0.028616
-    id: ck139piqzmhu10i19eh9zr68u
+    followers: 14714
+    engagement: 1261
+    commentsToLikes: 0.005109
+    id: ck5pvc4p9h5x70i11l26mz2c9
     verified: false
-    hashtags: "#weareinthistogether, #babelxtnmum20, #missuniverse, #stayhome"
-  - username: "colleenspartanmma"
+    hashtags: "#dff7yo"
+  - username: "owenyapkh"
     fullname: >-
-      Colleen Augustin
+      Owen Yap 叶剑锋
     location: "Malaysia"
-    followers: 7752
-    engagement: 799
-    commentsToLikes: 0.020777
-    id: ck0u22cyoyooh0i19ffdyivtt
+    followers: 55142
+    engagement: 449
+    commentsToLikes: 0.032089
+    id: ck5q7qewn2o770i110tsdy9fz
     verified: false
-    hashtags: "#igers, #protection, #eatclean, #gymmotivation"
-  - username: "shannentotten"
+    hashtags: "#newzealand, #organicfood, #flowers, #treasure"
+  - username: "isabelleman2"
     fullname: >-
-      Miss Charm Malaysia 2020
+      Isabelle Man
     location: "Malaysia"
-    followers: 10186
-    engagement: 469
-    commentsToLikes: 0.031157
-    id: ck5q3jhhol0yz0i11rx6n75yp
+    followers: 9704
+    engagement: 421
+    commentsToLikes: 0.092717
+    id: ck0tyggo2mpog0i191owr96k3
     verified: false
-    hashtags: "#vietnam, #gongxifachai, #shiningshannen, #plantronicsmalaysia"
-  - username: "nadiaazlanshah"
+    hashtags: "#video, #morning, #luck, #sweating"
+  - username: "mabel_goo"
     fullname: >-
-      Nadia azlan shah
+      💓MabeL。
     location: "Malaysia"
-    followers: 106521
-    engagement: 207
-    commentsToLikes: 0.005868
-    id: ck0u74nxh3qi90i19pcq9g6kf
+    followers: 224630
+    engagement: 490
+    commentsToLikes: 0.008402
+    id: ck5c8ka579o5n0i110szvm3hw
     verified: false
-    hashtags: "#model, #syidaturn, #shoes, #happy"
-  - username: "anne_v_ibrahim"
+    hashtags: "#puretouchclinicbangsarsouth, #missingtheoutsideworld, #lifeintheskies, #claudebernardmy"
+  - username: "amyng0708"
     fullname: >-
-      💕Anne V Ibrahim™ Official
+      AmYnG
     location: "Malaysia"
-    followers: 99113
-    engagement: 215
-    commentsToLikes: 0.024520
-    id: ck6u0ec16f6xt0j71sbnvo1p4
+    followers: 38048
+    engagement: 615
+    commentsToLikes: 0.006799
+    id: ck5q78t4v0fg80i116b9xfsgk
     verified: false
-    hashtags: "#weekendspotlitekool, #myhaiza, #foodgasm, #myhaizaperfume"
+    hashtags: "#instafluencermalaysia, #seeyousoonkorea, #keecoqueensofficial, #keecoqueensantidox"
+  - username: "abaotw"
+    fullname: >-
+      ABAO_阿爆(阿仍仍)
+    location: "Malaysia"
+    followers: 20909
+    engagement: 627
+    commentsToLikes: 0.008803
+    id: ck5chu1pargne0i11yjfsbt5b
+    verified: false
+    hashtags: "#respect, #behindthescenes, #beyourself, #recording"
 ---

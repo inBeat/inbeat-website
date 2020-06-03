@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Mumbai In 2020
 description: >-
-  Find top models Instagram influencers in Mumbai in 2020. Most popular hashtags: #mumbai #fashion #style #instagram.
+  Find top models Instagram influencers in Mumbai in 2020. Most popular hashtags: #model #mumbai #editing #fashionblogger.
 platform: Instagram
 profiles:
+  - username: "b.harshhala"
+    fullname: >-
+      Harshhala Barade👑
+    location: "India"
+    followers: 22197
+    engagement: 987
+    commentsToLikes: 0.030995
+    id: ck5zp0v51rrt90i14ysucbiyd
+    verified: false
+    hashtags: "#happyfriday, #friday, #opareviews, #portraitmag"
   - username: "revati_19"
     fullname: >-
-      𝓡𝓮𝓿𝓪𝓽𝓲 𝓥𝓮𝓷𝓴𝓪𝓽 💙
+      Revati Venkat💙
     location: "India"
-    followers: 9657
-    engagement: 1127
-    commentsToLikes: 0.041909
+    followers: 9673
+    engagement: 1125
+    commentsToLikes: 0.035240
     id: ck14jykvgmtge0i19oswm6nak
     verified: false
-    hashtags: "#wanderlust, #kochi, #birthdaywishes, #poolside"
+    hashtags: "#mallutoday, #terrace, #smile, #waterfalls"
   - username: "aartisingh14"
     fullname: >-
-      Aarti Singh ✨ أرتي سينغ
+      Aarti Singh ✨ أرتي سينغ
     location: "India"
-    followers: 375549
-    engagement: 93
-    commentsToLikes: 0.022782
+    followers: 422101
+    engagement: 150
+    commentsToLikes: 0.023954
     id: ck0uac1wibual0i19si83slke
     verified: false
-    hashtags: "#tiktokindia, #goodafternoon, #blacklove, #instalike"
-  - username: "sanu_1908_"
+    hashtags: "#vardhmanhealthcare, #catsofinstagram, #postworkoutselfie, #natural"
+  - username: "karthik_muthyala"
     fullname: >-
-      ⏩Sania_Bhivade⏪
+      karthik MOmz ✖
     location: "India"
-    followers: 5587
-    engagement: 1320
-    commentsToLikes: 0.051932
-    id: ck0u1ztyiydd80i19s8zd3mcm
+    followers: 7938
+    engagement: 909
+    commentsToLikes: 0.152692
+    id: ck8t93kesmubj0j78g3o3ianu
     verified: false
-    hashtags: "#mumbaigirls, #night, #crush, #outdoorphotography"
-  - username: "sanjeev_mehta_07"
+    hashtags: "#nature, #kannur, #actress, #india"
+  - username: "hurera_shaikh_0dm"
     fullname: >-
-      👑SANJEEV KUMAR👑
+      SHAIKH HURERA 📸
     location: "India"
-    followers: 26635
-    engagement: 198
-    commentsToLikes: 0.015410
-    id: ck8t3ypqc4z230j78a4hhbggp
+    followers: 12853
+    engagement: 739
+    commentsToLikes: 0.359482
+    id: ckaou4gmyyr8i0i78jcq0sdq1
     verified: false
-    hashtags: "#instagram, #love, #instalove, #fashion"
-  - username: "dikshamohanpawar"
+    hashtags: "#igtones, #famburharmy, #blue, #blackfriday2019"
+  - username: "mhmd_lasin"
     fullname: >-
-      Diksha Pawar
+      Muhammed Lasin
     location: "India"
-    followers: 32058
-    engagement: 934
-    commentsToLikes: 0.014369
-    id: ck13ayc7kssbr0i19g8mh9uq0
+    followers: 5235
+    engagement: 3201
+    commentsToLikes: 0.066876
+    id: ck5zq2ivztt9z0i14321fhq9d
     verified: false
-    hashtags: "#welcome, #dreambig, #mxplayer, #beachlife"
-  - username: "vanityvial"
+    hashtags: "#maharashtra, #highrange, #paraglidinglove, #desertlife"
+  - username: "salman_aka_superman"
     fullname: >-
-      Dr.Neha Khanna Oberoi
+      ♚Salman Soulkar♚ (Singfinity)©
     location: "India"
-    followers: 39659
-    engagement: 228
-    commentsToLikes: 0.006293
-    id: ck15q4z2e14f20i19s9bejvqq
+    followers: 36513
+    engagement: 101
+    commentsToLikes: 0.051709
+    id: ckap1yh3twm3l0i78ukxmz382
     verified: false
-    hashtags: "#floral, #sebamedindia, #foodie, #2020"
-  - username: "mandal_neha"
+    hashtags: "#moon, #pubgbattlegrounds, #blackandwhite, #patseheadshot"
+  - username: "engineeronvacay"
     fullname: >-
-      N E H A   M A N D A L
+      Anshul Aggarwal
     location: "India"
-    followers: 39703
-    engagement: 132
-    commentsToLikes: 0.020657
-    id: ck13d2q3n3dj20i19jzcy2jt0
+    followers: 21874
+    engagement: 511
+    commentsToLikes: 0.069534
+    id: ckaouftiw033h0i78z1hqwdjb
     verified: false
-    hashtags: "#drape, #easysteps, #photographers, #artistforever"
-  - username: "navin_tongiriya_24"
+    hashtags: "#budgettripplan, #influencer, #attitude, #fambruharmy"
+  - username: "fuckandfly_____"
     fullname: >-
-      𝐍𝐀𝐕𝐈𝐍 𝐌𝐀𝐑𝐊 𝟐𝟒 🔥
+      🖤My name is V  I'm Good boi ?😈
     location: "India"
-    followers: 74850
-    engagement: 520
-    commentsToLikes: 0.021653
-    id: ck8tcxv1u13l80j78rbhatek2
+    followers: 3241
+    engagement: 1630
+    commentsToLikes: 0.742274
+    id: ck9wh8z56wt9m0j78qef63gld
     verified: false
-    hashtags: "#hasnainkhan, #comedy, #memesdaily, #faisu"
+    hashtags: "#sunshine, #baseerbob, #alonequotes, #photo"
   - username: "rahul_king_photography_editing"
     fullname: >-
       ʀᴀʜᴜʟ ᴋɪɴɢ👑 ᴠᴀsᴜɴɪʏᴀ"
     location: "India"
-    followers: 39441
-    engagement: 333
-    commentsToLikes: 0.040291
+    followers: 39133
+    engagement: 286
+    commentsToLikes: 0.053576
     id: ck0u1t07yxt7v0i193684gx0b
     verified: false
-    hashtags: "#newyear, #portraitsofficialmodels, #summer, #moodygrams"
-  - username: "ps.creation_"
-    fullname: >-
-      Parminder Editor official™
-    location: "India"
-    followers: 49120
-    engagement: 443
-    commentsToLikes: 0.024961
-    id: ck15q59s915zx0i19meodcjdf
-    verified: false
-    hashtags: "#photoshoot, #manipulation, #latest, #photoshop"
+    hashtags: "#fambruharmy, #dvedits, #danish, #sheinmen"
 ---

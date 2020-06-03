@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Chicago In 2020
 description: >-
-  Find top Instagram influencers in Chicago in 2020. Most popular hashtags: #fyp #fitness #muscle #bodybuilding.
+  Find top Instagram influencers in Chicago in 2020. Most popular hashtags: # #fastestfeetinthenorth #gymlife #bored.
 platform: Instagram
 profiles:
+  - username: "jcassanova5"
+    fullname: >-
+      Joe Cassano
+    location: "United States"
+    followers: 2878
+    engagement: 2701
+    commentsToLikes: 0.046821
+    id: ck0w1k95rjrng0i19wsvlr2xo
+    verified: false
+    hashtags: "#fastestfeetinthenorth, #thebigbang, #thepointworksbetterwhennobodyisinfrontofyou"
   - username: "pat_lee"
     fullname: >-
       P A T • L E E
     location: "United States"
-    followers: 347541
-    engagement: 123
-    commentsToLikes: 0.004866
+    followers: 343928
+    engagement: 125
+    commentsToLikes: 0.005024
     id: ck5q6rwyuylsg0i11o8jl1mat
     verified: false
-    hashtags: "#muscle, #gym, #fitspiration, #abs"
+    hashtags: "#merrychristmas, #fitlife, #workout, #gymlife"
+  - username: "colehosman"
+    fullname: >-
+      Cole Hosman
+    location: "United States"
+    followers: 7660
+    engagement: 1319
+    commentsToLikes: 0.030980
+    id: ck9hcxezmnd0r0j78934d8u7k
+    verified: false
+    hashtags: ""
   - username: "liastewy"
     fullname: >-
       L I A 𓇼 𝚕𝚘𝚜𝚝 𝚒𝚗 𝚝𝚛𝚊𝚟𝚎𝚕
     location: "United States"
-    followers: 2410
-    engagement: 1007
-    commentsToLikes: 0.050409
+    followers: 2477
+    engagement: 962
+    commentsToLikes: 0.046828
     id: ck5hr0oxcu2410i11lukwd2z1
     verified: false
-    hashtags: "#cookingathome, #postyourdrafts, #hitthewoah, #whyiseverythingchrome"
+    hashtags: "#livebangs, #film, #55mm, #covid"
+  - username: "annika.witte"
+    fullname: >-
+      💮ANNIKA💮
+    location: "United States"
+    followers: 2581
+    engagement: 2050
+    commentsToLikes: 0.045604
+    id: ckap5ps0ocnd20i784jarbzrc
+    verified: false
+    hashtags: "#bored"
+  - username: "_wemmymo"
+    fullname: >-
+      WemmyMo.
+    location: "United States"
+    followers: 3788
+    engagement: 1214
+    commentsToLikes: 0.089418
+    id: ck8sycq1mkg9y0j78gcwpk1n7
+    verified: false
+    hashtags: "#002isundertheronaconstruction, #momusicmondays, #002, #beforethelockdown"
+  - username: "chicago"
+    fullname: >-
+      Chicago, IL
+    location: "United States"
+    followers: 619760
+    engagement: 585
+    commentsToLikes: 0.006203
+    id: ck0tv19389hth0i19oivmgqja
+    verified: true
+    hashtags: ""
   - username: "louisdeguzman"
     fullname: >-
       Louis De Guzman
     location: "United States"
-    followers: 28363
-    engagement: 499
-    commentsToLikes: 0.025768
+    followers: 28903
+    engagement: 515
+    commentsToLikes: 0.022091
     id: ck0u6y2rc38l40i19flssl0l9
     verified: false
-    hashtags: "#dewxnbaallstar"
+    hashtags: ""
+  - username: "_ilovechicago"
+    fullname: >-
+      Chicago
+    location: "United States"
+    followers: 11687
+    engagement: 671
+    commentsToLikes: 0.012418
+    id: ck8t4qj1x7po50j78ova1gv6n
+    verified: false
+    hashtags: "#repost, #tepost"
   - username: "mariagiannetos"
     fullname: >-
       maria giannetos
     location: "United States"
-    followers: 9374
-    engagement: 616
-    commentsToLikes: 0.038241
+    followers: 10238
+    engagement: 640
+    commentsToLikes: 0.056968
     id: ck0w6cdo67wwq0i19fetta5l6
     verified: false
-    hashtags: ""
-  - username: "kyliedennison"
-    fullname: >-
-      K Y L I E •🦄✨
-    location: "United States"
-    followers: 25801
-    engagement: 1039
-    commentsToLikes: 0.077376
-    id: ck5pwdjtzmbjy0i11nizuw21w
-    verified: false
-    hashtags: "#intercontinentallife, #experienceihg, #hamiltonisoverparty, #bellamihair"
-  - username: "victorialynnmyers"
-    fullname: >-
-      «Victoria🌹»
-    location: "United States"
-    followers: 39703
-    engagement: 870
-    commentsToLikes: 0.056688
-    id: ck0tuaxfx6dvd0i19nq2e7m0d
-    verified: false
-    hashtags: ""
-  - username: "chlobellexx"
-    fullname: >-
-      𝑪𝒉𝒍𝒐𝒆 𝑴𝒊𝒄𝒉𝒆𝒍𝒍𝒆
-    location: "United States"
-    followers: 6411
-    engagement: 1464
-    commentsToLikes: 0.153447
-    id: ck5zio1r5g2ik0i14vbdlrxg4
-    verified: false
-    hashtags: "#lakelife, #mvmtambassador, #leggings, #bikini"
-  - username: "shilanzeynali"
-    fullname: >-
-      🌹     shilan    🌚🌝
-    location: "United States"
-    followers: 6787
-    engagement: 1849
-    commentsToLikes: 0.192258
-    id: ck1361yic4cvo0i19ufmuq8vc
-    verified: false
-    hashtags: "#talentlesspartner"
-  - username: "beautybyetta"
-    fullname: >-
-      Etta Suss (Polstein)
-    location: "United States"
-    followers: 10699
-    engagement: 1229
-    commentsToLikes: 0.071937
-    id: ck5cisj63tafh0i112oemiah0
-    verified: false
-    hashtags: "#beautybyetta, #thisis23, #beautybyezra, #staypositive"
-  - username: "eriqlasalle"
-    fullname: >-
-      Eriq La Salle
-    location: "United States"
-    followers: 23559
-    engagement: 809
-    commentsToLikes: 0.097835
-    id: ck14gkxgr5q610i19zuswso04
-    verified: true
-    hashtags: "#gotmilk, #blackhistorymonth, #mondaymood, #tbt"
+    hashtags: "#athomewitharitzia, #aritziastyleadvisor, #mejuri"
 ---

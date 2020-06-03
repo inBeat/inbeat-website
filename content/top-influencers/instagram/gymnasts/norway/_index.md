@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In Norway In 2020
 description: >-
-  Find top gymnasts Instagram influencers in Norway in 2020. Most popular hashtags: #motivation #crossfit #gymnastics #handstand.
+  Find top gymnasts Instagram influencers in Norway in 2020. Most popular hashtags: #gymnastics #stayhome #hometraining #balance.
 platform: Instagram
 profiles:
-  - username: "jokkebeast"
-    fullname: >-
-      Joachim Jokke Bårdholt
-    location: "Norway"
-    followers: 5418
-    engagement: 581
-    commentsToLikes: 0.097298
-    id: ck6u9dtqewz560j7141yhgq7h
-    verified: false
-    hashtags: "#coronamademedoit"
   - username: "andreasolberg"
     fullname: >-
       andreasolberg
     location: "Norway"
-    followers: 6813
-    engagement: 1124
-    commentsToLikes: 0.053234
+    followers: 6970
+    engagement: 1148
+    commentsToLikes: 0.078734
     id: ck14jwr4mmktg0i19mqjy85bo
     verified: false
-    hashtags: "#diditfortheendorphins, #nr1fitness, #atlasklinikken, #strongwomen"
+    hashtags: "#lokalspons, #crossfitgirls, #fysioterapeut, #giveaway"
+  - username: "jokkebeast"
+    fullname: >-
+      Joachim Jokke Bårdholt
+    location: "Norway"
+    followers: 5372
+    engagement: 632
+    commentsToLikes: 0.097013
+    id: ck6u9dtqewz560j7141yhgq7h
+    verified: false
+    hashtags: "#coronamademedoit"
   - username: "anna_stoyanova_"
     fullname: >-
       Anna Stoyanova
     location: "Norway"
-    followers: 2514
-    engagement: 1954
-    commentsToLikes: 0.042258
+    followers: 2588
+    engagement: 1947
+    commentsToLikes: 0.044323
     id: ck0w2a3isnbva0i19ixwfmtny
     verified: false
-    hashtags: "#toiletpaperchallenge, #amaizing, #codvid19, #morningtraining"
+    hashtags: "#sponsored, #stayhome, #rhitmicgymnastic, #piruetas"
+  - username: "lollenevland"
+    fullname: >-
+      Charlotte Nevland
+    location: "Norway"
+    followers: 5070
+    engagement: 808
+    commentsToLikes: 0.052829
+    id: ck135bi8o0nrk0i19i2t1bgof
+    verified: false
+    hashtags: "#if3worldchampionships, #reklame, #improveyourenergy, #challenge"
   - username: "odinmkalvo"
     fullname: >-
       Odin Kalvø
     location: "Norway"
-    followers: 43788
-    engagement: 688
-    commentsToLikes: 0.014858
+    followers: 53751
+    engagement: 765
+    commentsToLikes: 0.015514
     id: ck55q98pbcdqw0i1160x4w9gl
     verified: false
-    hashtags: "#motivation, #corona, #shoulders, #toiletpaperchallenge"
-  - username: "espenjansen"
-    fullname: >-
-      Espen Jansen
-    location: "Norway"
-    followers: 7657
-    engagement: 700
-    commentsToLikes: 0.015777
-    id: ck55q98xkcdur0i1185nl0ps2
-    verified: false
-    hashtags: "#basic, #sixpack, #easy, #balance"
+    hashtags: "#pistolsquat, #rings, #getfit, #summer"
   - username: "turntvillingene"
     fullname: >-
       Malin and Maria
     location: "Norway"
-    followers: 68361
-    engagement: 509
-    commentsToLikes: 0.010718
+    followers: 66573
+    engagement: 525
+    commentsToLikes: 0.012190
     id: ck0u952ed91lk0i19g9javbn4
     verified: false
-    hashtags: "#reklame, #treningskl, #turntvillingthights, #turndrakt"
+    hashtags: ""
+  - username: "espenjansen"
+    fullname: >-
+      Espen Jansen
+    location: "Norway"
+    followers: 7781
+    engagement: 636
+    commentsToLikes: 0.014648
+    id: ck55q98xkcdur0i1185nl0ps2
+    verified: false
+    hashtags: "#rehabilitering, #circle, #muscleup, #stretching"
   - username: "juliebjanes"
     fullname: >-
-      Julie Bjanes
+      Julie Bjanes | NORWAY
     location: "Norway"
-    followers: 15571
-    engagement: 391
-    commentsToLikes: 0.142990
+    followers: 15457
+    engagement: 513
+    commentsToLikes: 0.126739
     id: ck15qhvuk2x4x0i198u4yylk7
     verified: false
-    hashtags: "#winterbreak, #cabinstyle, #climber, #helse"
-  - username: "solfure"
+    hashtags: "#oslo, #mammut, #possibilities, #sunrise"
+  - username: "hogberglukas"
     fullname: >-
-      Ingeborg Sol Fure
+      Lukas | Crossfit | Athlete
     location: "Norway"
-    followers: 17782
-    engagement: 503
-    commentsToLikes: 0.073670
-    id: ck13c377xyegy0i19amf3rz4m
-    verified: false
-    hashtags: "#hornelen, #bremanger, #latter, #portrett"
-  - username: "ulrikfjellstad"
-    fullname: >-
-      
-    location: "Norway"
-    followers: 3040
-    engagement: 4155
-    commentsToLikes: 0.077023
-    id: ck137e4oib3540i19sla63381
-    verified: false
-    hashtags: "#freerunning, #tumbling, #flipsup2date, #worldofflips"
-  - username: "holtekristin"
-    fullname: >-
-      Kristin Holte
-    location: "Norway"
-    followers: 130756
-    engagement: 201
-    commentsToLikes: 0.015086
-    id: ck0twfkdpf5d90i19ewyzk97m
+    followers: 105514
+    engagement: 434
+    commentsToLikes: 0.023073
+    id: ck5cjzv5gvtyr0i11gfkd3cp1
     verified: true
-    hashtags: "#love, #sportsmaster, #gymnastics, #bodypump"
+    hashtags: "#gymnasty, #garagegym, #liftingweights, #jumptraining"
+  - username: "aktivmamma"
+    fullname: >-
+      Cathrine 🇳🇴
+    location: "Norway"
+    followers: 22936
+    engagement: 467
+    commentsToLikes: 0.067849
+    id: ck5q44os5nqso0i11w2n0z62s
+    verified: false
+    hashtags: "#bluewater, #instagram, #beproudofyou, #yogabeginner"
 ---

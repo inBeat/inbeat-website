@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In New York In 2020
 description: >-
-  Find top health Instagram influencers in New York in 2020. Most popular hashtags: #love #newyork #health #quarantine.
+  Find top health Instagram influencers in New York in 2020. Most popular hashtags: #health #newyorkcity #newyork #love.
 platform: Instagram
 profiles:
-  - username: "cheryl.tv"
+  - username: "benjiaus"
     fullname: >-
-      Cheryl Martinez®🎙
+      BENJI
     location: "United States"
-    followers: 61869
-    engagement: 70
-    commentsToLikes: 0.156149
-    id: ck5zy79xf9cvu0i14ln0a1180
+    followers: 80913
+    engagement: 610
+    commentsToLikes: 0.013171
+    id: ck600jxzwdqot0i14r8pcaybv
     verified: false
-    hashtags: "#dream, #jetsetter, #motorsport, #veganinspiration"
-  - username: "lukewessman"
+    hashtags: "#sweats, #block, #motivation, #sydneyharbour"
+  - username: "emilykellerockwell_np"
     fullname: >-
-      𝐋𝐮𝐤𝐞 𝐖𝐞𝐬𝐬𝐦𝐚𝐧
+      Emily Keller Rockwell | NP-C
     location: "United States"
-    followers: 75366
-    engagement: 155
-    commentsToLikes: 0.044214
-    id: ck0w6h43z8j9b0i194eaxijsy
-    verified: true
-    hashtags: "#virginmary, #slumericanlife, #banner, #photographers"
+    followers: 22690
+    engagement: 211
+    commentsToLikes: 0.215731
+    id: ck5c4b7ez0zhs0i11fremmik0
+    verified: false
+    hashtags: "#delawarejobs, #peace, #blogger, #covid"
   - username: "feedyourglow"
     fullname: >-
       Sua Park
     location: "United States"
-    followers: 91661
-    engagement: 192
-    commentsToLikes: 0.035410
+    followers: 90497
+    engagement: 195
+    commentsToLikes: 0.035564
     id: ck5zyrq5oaeqp0i14b3ag8m36
     verified: false
     hashtags: "#feedyourglow, #ricemaderighter"
   - username: "benjaminjgoldman"
     fullname: >-
-      BENJAMIN J. GOLDMAN
+      ben goldman
     location: "United States"
-    followers: 24362
-    engagement: 229
-    commentsToLikes: 0.030002
+    followers: 23770
+    engagement: 139
+    commentsToLikes: 0.043055
     id: ck13b1ygytakj0i19vby0zdle
     verified: false
-    hashtags: ""
-  - username: "cbsnewyork"
+    hashtags: "#mentalhealth, #attachmenttheory, #selflove, #knowthyself"
+  - username: "dandan.lee"
     fullname: >-
-      CBS New York
+      Danielle Wright 👑
     location: "United States"
-    followers: 31271
-    engagement: 78
-    commentsToLikes: 0.052440
-    id: ck137rfsxd0gr0i19jg3mlp8z
+    followers: 9855
+    engagement: 921
+    commentsToLikes: 0.063815
+    id: ck0w19ejyi7eo0i19s0y9owa6
+    verified: false
+    hashtags: "#bedstuy, #lifestyle, #filmphotography, #indigohouse"
+  - username: "alan_filauro"
+    fullname: >-
+      Alan Filauro ༄
+    location: "United States"
+    followers: 20806
+    engagement: 244
+    commentsToLikes: 0.127668
+    id: ck8szjxkwoqh90j78i18t8hg9
+    verified: false
+    hashtags: "#instadaily, #food, #photooftheday, #trainhard"
+  - username: "al3xandrova"
+    fullname: >-
+      Al3xAndrovA
+    location: "United States"
+    followers: 17450
+    engagement: 931
+    commentsToLikes: 0.014604
+    id: ck0uekuu8livk0i193b01oqp3
+    verified: false
+    hashtags: "#femaledjs, #amazonfire, #isitpinkenough, #cupanifashion"
+  - username: "sunstatecustoms"
+    fullname: >-
+      Sun State Customs
+    location: "United States"
+    followers: 30079
+    engagement: 622
+    commentsToLikes: 0.017206
+    id: ck0ttcayg23lp0i19cv09bd0x
+    verified: false
+    hashtags: "#pretty, #stayhealthy, #bunny, #oceanview"
+  - username: "claudiasaezfromm"
+    fullname: >-
+      Claudia Saez-Fromm
+    location: "United States"
+    followers: 17454
+    engagement: 68
+    commentsToLikes: 0.073954
+    id: ck0w77882c40n0i19oexw1985
+    verified: false
+    hashtags: "#chelsea, #blairwaldorf, #monday, #replanoly"
+  - username: "felixfischerhair"
+    fullname: >-
+      BESPOKE FELIX FISCHER
+    location: "United States"
+    followers: 236145
+    engagement: 128
+    commentsToLikes: 0.002392
+    id: ck15r37kd5wz90i19bul49wvp
     verified: true
-    hashtags: "#fridaynight, #firstresponders, #timessquare, #learningthroughplay"
-  - username: "jessicaadamson"
-    fullname: >-
-      J E S S
-    location: "United States"
-    followers: 7845
-    engagement: 508
-    commentsToLikes: 0.094856
-    id: ck0uelpfilmvb0i19jcj5gsvn
-    verified: false
-    hashtags: "#sun, #quarantine, #reflection, #couplegoals"
-  - username: "ashleymlands"
-    fullname: >-
-      ASHLEY M. LANDS ✖️𝙉𝙔𝘾✖️
-    location: "United States"
-    followers: 47277
-    engagement: 257
-    commentsToLikes: 0.051117
-    id: ck6ubzdqcckny0j71hkye1qxl
-    verified: false
-    hashtags: "#city, #exumas, #glamour, #strength"
-  - username: "dominiquevblake"
-    fullname: >-
-      Dominique Blake, Oly
-    location: "United States"
-    followers: 69224
-    engagement: 274
-    commentsToLikes: 0.046294
-    id: ck135xhsu3qiv0i19qbcu0s6k
-    verified: true
-    hashtags: "#instagram, #gorgeous, #fitnesslifestyle, #somethingnew"
-  - username: "nickdompierre"
-    fullname: >-
-      Nick Dompierre
-    location: "United States"
-    followers: 87215
-    engagement: 574
-    commentsToLikes: 0.040708
-    id: ck5qa1vpje4gl0i1140jytjp5
-    verified: false
-    hashtags: "#physique, #positivity, #lifegains, #motivated"
-  - username: "theeditorialnail"
-    fullname: >-
-      TEN by Gracie J 🇭🇹
-    location: "United States"
-    followers: 27769
-    engagement: 288
-    commentsToLikes: 0.062443
-    id: ck0w6q1dt9r750i1928fe9lon
-    verified: false
-    hashtags: "#hydrate, #nailswag, #naturalhair, #saturdayvibes"
+    hashtags: "#sayuribloom, #love, #healthylifestyle, #dontrepeatyourself"
 ---

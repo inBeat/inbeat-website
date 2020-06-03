@@ -1,69 +1,69 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Dallas In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Dallas in 2020. Most popular hashtags: #graphicdesigner #graphicdesign #art #miami.
+  Find top graphic-designers Instagram influencers in Dallas in 2020. Most popular hashtags: #graphicdesign #photoshop #nba #nfl.
 platform: Instagram
 profiles:
-  - username: "anabeth.jpg"
-    fullname: >-
-      Anabeth.jpg
-    location: "United States"
-    followers: 17975
-    engagement: 255
-    commentsToLikes: 0.073752
-    id: ck5q8s75i7qp00i11ivduhogc
-    verified: false
-    hashtags: "#imwithjessica, #girlssupportgirls, #happybirthday, #netflix"
-  - username: "magdiellop"
-    fullname: >-
-      Magdiel • Artist
-    location: "United States"
-    followers: 86669
-    engagement: 276
-    commentsToLikes: 0.009129
-    id: ck1393gvajbuj0i19fswps9o9
-    verified: false
-    hashtags: "#mozzy, #visualgraphc, #adobe, #daily"
   - username: "paigeforrest"
     fullname: >-
       Paige Martindell
     location: "United States"
-    followers: 10578
-    engagement: 746
-    commentsToLikes: 0.060795
+    followers: 11045
+    engagement: 773
+    commentsToLikes: 0.070908
     id: ck0ucamt0gcsl0i199uow2uol
     verified: false
-    hashtags: "#foodisfuel, #juicelandpowered, #choosejoy, #coolcats"
+    hashtags: "#psadventuring, #spreadlove, #lovefromclass, #coolcats"
   - username: "temi.coker"
     fullname: >-
       Temi Coker
     location: "United States"
-    followers: 58490
-    engagement: 255
-    commentsToLikes: 0.025614
+    followers: 59627
+    engagement: 235
+    commentsToLikes: 0.024406
     id: ck15px7u5033u0i19yn0mty9x
     verified: false
-    hashtags: "#aposteraday, #shapesxportraits, #aposteraday, #temixbhm"
+    hashtags: "#adobe, #temicoker, #artwork, #temixbhm"
+  - username: "lunarkris"
+    fullname: >-
+      🌙 KRIS ✨ DFW Model
+    location: "United States"
+    followers: 6773
+    engagement: 617
+    commentsToLikes: 0.065339
+    id: ck6tmm1kh838u0j71xawbnzgq
+    verified: false
+    hashtags: "#makeupinstagram, #dfweventplanner, #makeupinspo, #eatyourheartout"
+  - username: "calliecolwick"
+    fullname: >-
+      Callie Colwick
+    location: "United States"
+    followers: 11131
+    engagement: 461
+    commentsToLikes: 0.115332
+    id: ck5bvhmr8jnqq0i11lnru2rho
+    verified: false
+    hashtags: "#rain, #socialdistancing, #quarantinedwithatoddler, #calliecan"
   - username: "redcorn"
     fullname: >-
       Ryan RedCorn
     location: "United States"
-    followers: 21203
-    engagement: 418
-    commentsToLikes: 0.027044
+    followers: 21739
+    engagement: 369
+    commentsToLikes: 0.027204
     id: ck0vxwnsk13yp0i19h5gqelui
     verified: false
-    hashtags: "#auction, #graduationpictures, #sunshine, #mediumformat"
-  - username: "lunarkris"
+    hashtags: "#army, #dakota, #blackandwhite, #kofm"
+  - username: "srelix"
     fullname: >-
-      🌙 KRIS ✨
+      Mikey Halim
     location: "United States"
-    followers: 6773
-    engagement: 632
-    commentsToLikes: 0.072017
-    id: ck6tmm1kh838u0j71xawbnzgq
+    followers: 67165
+    engagement: 1049
+    commentsToLikes: 0.028020
+    id: ck8tbi6mnvs150j78gd4afe13
     verified: false
-    hashtags: "#dfwphotographer, #eventplanner, #laphotographer, #selfportraits"
+    hashtags: "#mavericks, #houstonrockets, #knicks, #okcthunder"
   - username: "gillie_edits"
     fullname: >-
       GillieEdits
@@ -74,34 +74,34 @@ profiles:
     id: ck13d16o8357m0i19vxn12x2y
     verified: false
     hashtags: "#espn, #battlehawks, #bigred, #patrickmahomes"
-  - username: "drawntothegame"
+  - username: "elfusernwv"
     fullname: >-
-      Drawn To The Game 🔥🐉 🏈⚡️
+      EL-Fuser
     location: "United States"
-    followers: 6685
-    engagement: 1674
-    commentsToLikes: 0.044866
-    id: ck0w18jqyi2u70i19k9vnne1e
+    followers: 23435
+    engagement: 243
+    commentsToLikes: 0.026070
+    id: ck6uhze5ic58u0j71fzx45bas
     verified: false
-    hashtags: "#framed8x10, #100seasons, #defensivebacks, #pitt"
-  - username: "cheligfx"
+    hashtags: "#rocklanone, #fearless, #tekashi69, #austin"
+  - username: "aqueousband"
     fullname: >-
-      Che1ique
+      Aqueous
     location: "United States"
-    followers: 5059
-    engagement: 1882
-    commentsToLikes: 0.059198
-    id: ck5qb4i8qjroe0i11wubzm7lu
-    verified: false
-    hashtags: "#kentucky, #cleveland, #johnwall, #butterfly"
-  - username: "anyasiberia"
+    followers: 16696
+    engagement: 118
+    commentsToLikes: 0.035632
+    id: ck6tow60lgft40j718cqxevtf
+    verified: true
+    hashtags: "#springtour, #screenprint, #illustration, #tx"
+  - username: "anabeth.jpg"
     fullname: >-
-      ANYA SIBERIA
+      Anabeth.jpg
     location: "United States"
-    followers: 11980
-    engagement: 1488
-    commentsToLikes: 0.027440
-    id: ck5hjzcyhhin00i113idjhk3h
+    followers: 20857
+    engagement: 269
+    commentsToLikes: 0.076748
+    id: ck5q8s75i7qp00i11ivduhogc
     verified: false
-    hashtags: "#anyatakeone, #siberiaaboutacting"
+    hashtags: "#nataliesoj, #stylevideo, #stopsign, #hutchdesign"
 ---

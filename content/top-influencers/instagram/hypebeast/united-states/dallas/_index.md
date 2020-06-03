@@ -1,107 +1,107 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Dallas In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Dallas in 2020. Most popular hashtags: #hypebeast #mensfashion #portraitpage #bleachmyfilm.
+  Find top hypebeast Instagram influencers in Dallas in 2020. Most popular hashtags: #hypebeast #covid19 #offwhite #fashion.
 platform: Instagram
 profiles:
-  - username: "lati_orihie"
+  - username: "reederone"
     fullname: >-
-      Lati Orihie
+      MICHAEL ✖️ REEDER
     location: "United States"
-    followers: 3567
-    engagement: 2202
-    commentsToLikes: 0.048005
-    id: ck15q0n5t0j2y0i19i71tzq0i
-    verified: false
-    hashtags: "#dallasmakeupartist, #nikontop, #fashionmodel, #fashioneditorial"
-  - username: "luismcara"
+    followers: 123979
+    engagement: 357
+    commentsToLikes: 0.024345
+    id: ck0u0x617v5jw0i19439zxx6u
+    verified: true
+    hashtags: "#matthewstone, #powwowhawaii, #collab, #graffiti"
+  - username: "sareepilla"
     fullname: >-
-      Luis M. Cara
+      SareePilla
     location: "United States"
-    followers: 148524
-    engagement: 255
-    commentsToLikes: 0.031709
-    id: ck0tt45oz12we0i199l25m5hk
+    followers: 16018
+    engagement: 271
+    commentsToLikes: 0.133380
+    id: ck8td55ix1x520j786hie1rp6
     verified: false
-    hashtags: "#earth, #lingerienova, #lafamilianectar, #planotx"
-  - username: "queyoun"
+    hashtags: "#workwear, #quarantinelife, #hypebeast, #anokhijaipur"
+  - username: "officialmarebear"
     fullname: >-
-      Q.
+      MARE BEAR™🧸 Marian Mekhail
     location: "United States"
-    followers: 84904
-    engagement: 474
-    commentsToLikes: 0.026459
-    id: ck13d0yks340q0i19yw7xovk6
+    followers: 15780
+    engagement: 517
+    commentsToLikes: 0.039480
+    id: ckaoydqw9h35w0i789q6vr8ym
     verified: false
-    hashtags: "#timeless, #raincoat, #firstshot, #airmax"
-  - username: "carlosdharrisjr_"
-    fullname: >-
-      Carlos| Deloye| Harris| Jr
-    location: "United States"
-    followers: 107314
-    engagement: 133
-    commentsToLikes: 0.268161
-    id: ck5c3n0bbznla0i119ax9a8v6
-    verified: false
-    hashtags: "#forbes8, #sneakerhead, #nikeboys, #chillvibesonly"
+    hashtags: "#wbcchampion, #luxor, #handpainted, #graffiti"
   - username: "junjdm"
     fullname: >-
       Jun 🌀
     location: "United States"
-    followers: 11839
-    engagement: 507
-    commentsToLikes: 0.034734
+    followers: 12081
+    engagement: 588
+    commentsToLikes: 0.043699
     id: ck6tm9svd7fuv0j71xlmjab0k
     verified: false
-    hashtags: "#kevindurant, #airmaxday, #airjordan, #skate"
-  - username: "xstyles_00"
+    hashtags: "#airmax90, #kobe4undefeated, #conversebasketball, #kd2scoringtitle"
+  - username: "msppj"
     fullname: >-
-      ❌style Creation II DALLAS, TX
+      Payal
     location: "United States"
-    followers: 2232
-    engagement: 1268
-    commentsToLikes: 0.062196
-    id: ck8tdnl6e42az0j78t83fchld
-    verified: false
-    hashtags: "#humaneffect, #portraitsvisuals, #special, #portraitenvy"
-  - username: "z_ramsey"
+    followers: 24027
+    engagement: 272
+    commentsToLikes: 0.137027
+    id: ck0vy7lum2mb00i191fcxuw7g
+    verified: true
+    hashtags: "#saswatisen, #devanand, #kareenakapoor, #rekha"
+  - username: "spidagrfx"
     fullname: >-
-      Zach Ramsey
+      "MICAH" 🕷 // 6 K ⚡️
     location: "United States"
-    followers: 37376
-    engagement: 306
-    commentsToLikes: 0.057195
-    id: ck14ivdbihbqr0i1961uk4c38
+    followers: 7614
+    engagement: 6640
+    commentsToLikes: 0.024778
+    id: ckap0e728pw0q0i784sxvno26
     verified: false
-    hashtags: "#shag, #clothes, #btconeshot2020, #btcbigshot2020"
+    hashtags: "#keenanallen, #titans, #hypebeast, #losangelesrams"
   - username: "alandiseharris"
     fullname: >-
       Alandise Harris
     location: "United States"
-    followers: 65961
-    engagement: 255
-    commentsToLikes: 0.083092
+    followers: 66880
+    engagement: 195
+    commentsToLikes: 0.082624
     id: ck8tcw15n0wjd0j782rd9b9m5
     verified: true
-    hashtags: "#gains, #photooftheday, #hypebeast, #sneakercon"
-  - username: "diego_djdgaf"
+    hashtags: "#recruitment, #quickworkout, #insta, #hoopmixtape"
+  - username: "tamournails"
     fullname: >-
-      Diego Elizarraras ✪
+      T’Amour Nails
     location: "United States"
-    followers: 148055
-    engagement: 121
-    commentsToLikes: 0.056632
-    id: ck6tp1jkyhbfg0j71af8ewr3i
+    followers: 54226
+    engagement: 154
+    commentsToLikes: 0.014376
+    id: ck14iglgdfaq10i190ifgja1t
     verified: false
-    hashtags: "#sandiego, #kobebryant, #gucci, #portland"
-  - username: "bapehawk"
+    hashtags: "#miaminailtech, #cheyennesnails, #pastel, #make4glam"
+  - username: "donwelchmusic"
     fullname: >-
-      BapeHawk
+      DON WELCH
     location: "United States"
-    followers: 3071
-    engagement: 1637
-    commentsToLikes: 0.073314
-    id: ck6tj33no1wya0j71i7w9isit
+    followers: 17577
+    engagement: 319
+    commentsToLikes: 0.301859
+    id: ck0vux70lmkm00i19kjcq7ohf
     verified: false
-    hashtags: "#dfwphotographer, #throwbackthursday, #srt8fam, #portlandcars"
+    hashtags: "#austintexas, #comingsoon, #dirtrock, #beardlife"
+  - username: "logan.loiselle"
+    fullname: >-
+      𝐋𝐨𝐠𝐚𝐧 𝐋𝐨𝐢𝐬𝐞𝐥𝐥𝐞
+    location: "United States"
+    followers: 41565
+    engagement: 372
+    commentsToLikes: 0.028089
+    id: ck1368tif5bae0i19khmtnd31
+    verified: false
+    hashtags: "#exoticcars, #dogportrait, #painter, #drawing"
 ---

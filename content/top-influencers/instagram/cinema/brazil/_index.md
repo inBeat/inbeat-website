@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Brazil In 2020
 description: >-
-  Find top cinema Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #quarentena #labios #ruivinha.
+  Find top cinema Instagram influencers in Brazil in 2020. Most popular hashtags: #quarentena #tbt #lacasadepapel #ccxp2019.
 platform: Instagram
 profiles:
-  - username: "tainabastosphoto"
+  - username: "ma_montellato"
     fullname: >-
-      Tainá Bastos
+      Marcela Montellato
     location: "Brazil"
-    followers: 17606
-    engagement: 405
-    commentsToLikes: 0.220248
-    id: ck602sg5xiwq20i145k4uqn1y
+    followers: 42569
+    engagement: 1121
+    commentsToLikes: 0.021766
+    id: ck9wp49m87qki0j78515ypx8d
     verified: false
     hashtags: ""
+  - username: "doisadoisph"
+    fullname: >-
+      Dois a Dois
+    location: "Brazil"
+    followers: 5758
+    engagement: 745
+    commentsToLikes: 0.150566
+    id: ck0tt52ft16x60i194uo4any4
+    verified: false
+    hashtags: "#tbt"
+  - username: "bfaulin"
+    fullname: >-
+      Bruno Faulin
+    location: "Brazil"
+    followers: 21739
+    engagement: 363
+    commentsToLikes: 0.137266
+    id: ck15pircfy39q0i199gpozacp
+    verified: false
+    hashtags: "#cinemaepipoca, #littlemonster, #netflixbrasil, #oreidoshow"
   - username: "euanapaulasantosreal"
     fullname: >-
       Ana Paula Santos
     location: "Brazil"
-    followers: 15748
-    engagement: 656
-    commentsToLikes: 0.059198
+    followers: 16319
+    engagement: 604
+    commentsToLikes: 0.064869
     id: ck15sbxkac8dq0i1912wvzaip
     verified: false
-    hashtags: "#rockinrio, #anapaulasantosrep, #riodejaneiro, #diadojornalista"
-  - username: "selma_lopes_oficial"
-    fullname: >-
-      Selma Lopes
-    location: "Brazil"
-    followers: 2634
-    engagement: 1948
-    commentsToLikes: 0.076528
-    id: ck5q4u8jbq9si0i11eeu4dlbw
-    verified: false
-    hashtags: "#dubladoresdobrasil, #cabeloazul, #vacinadagripe, #dublagem"
+    hashtags: "#vempraglobo, #carnaval, #repost, #parab"
   - username: "sarapaesoficial"
     fullname: >-
       Sara Paes 🦊
     location: "Brazil"
-    followers: 62843
-    engagement: 189
-    commentsToLikes: 0.151142
+    followers: 70055
+    engagement: 194
+    commentsToLikes: 0.219086
     id: ck8t1kj9fw4en0j78mjd1weh8
     verified: false
-    hashtags: "#whatiwore, #hairstyle, #ruivaacobreada, #olhosazuisesverdeados"
-  - username: "mayarabertolini"
+    hashtags: "#ruivaacobreada, #luznatural, #belezanatural, #whatiwore"
+  - username: "fiosargenti"
     fullname: >-
-      Mayara Bertolini
+      Fio Sargenti
     location: "Brazil"
-    followers: 25044
-    engagement: 222
-    commentsToLikes: 0.075881
-    id: ck8t35ytj20c10j78x94e8nu8
-    verified: false
-    hashtags: "#tatuagem, #tattoo"
-  - username: "yasminthinqi"
+    followers: 55951
+    engagement: 336
+    commentsToLikes: 0.043079
+    id: ck139i2g9lev90i19fe0ofheb
+    verified: true
+    hashtags: "#hodorhodorhodor, #quedateencasa, #canci, #unidos"
+  - username: "catarinavictori"
     fullname: >-
-      戚静 🧿
+      CATY
     location: "Brazil"
-    followers: 2635
-    engagement: 1825
-    commentsToLikes: 0.070722
-    id: ck6ueo2c7s37b0j71moj5taf3
+    followers: 5642
+    engagement: 625
+    commentsToLikes: 0.129033
+    id: ck9wose046ex60j78yc0m056w
     verified: false
-    hashtags: "#eunaosouumvirus, #iamnotavirus, #vempracomp, #vivaporesporte"
+    hashtags: "#frozen, #quarentena"
   - username: "amandawolf_"
     fullname: >-
       Amanda Wolf
     location: "Brazil"
-    followers: 6689
-    engagement: 1095
-    commentsToLikes: 0.026617
+    followers: 6711
+    engagement: 1093
+    commentsToLikes: 0.037783
     id: ck5zkm1pajq140i14dlimpiw7
     verified: false
-    hashtags: "#thatzaradress, #tbt, #quarentena"
-  - username: "davideoliveiraator"
+    hashtags: "#shelfie, #tbt, #quarentena, #quarenteners"
+  - username: "selmalopesoficial"
     fullname: >-
-      Davi De Oliveira
+      Selma Lopes
     location: "Brazil"
-    followers: 17088
-    engagement: 593
-    commentsToLikes: 0.024467
-    id: ck5ca6ng0csvn0i11atdddiu1
+    followers: 3976
+    engagement: 1578
+    commentsToLikes: 0.083111
+    id: ck5q4u8jbq9si0i11eeu4dlbw
     verified: false
-    hashtags: "#move, #fantasiacarnaval, #cultura, #literatura"
-  - username: "larizaidan"
+    hashtags: "#dubladoresdobrasil, #saoluis, #diversao, #workshop"
+  - username: "gipreviero"
     fullname: >-
-      larissa zaidan
+      Giovana Serracini Previero
     location: "Brazil"
-    followers: 9169
-    engagement: 872
-    commentsToLikes: 0.028637
-    id: ck55nac785seo0i11brbd4wn3
+    followers: 170195
+    engagement: 418
+    commentsToLikes: 0.015267
+    id: ck5pykgs5wg9e0i114469dws5
     verified: false
-    hashtags: "#somosaudiovisual, #somoscinema, #somoscultura"
-  - username: "katiabotto"
-    fullname: >-
-      Katia Botto
-    location: "Brazil"
-    followers: 19301
-    engagement: 305
-    commentsToLikes: 0.051829
-    id: ck137xahidibw0i196ovqspoj
-    verified: false
-    hashtags: "#quarentena, #cacheadas, #instagood, #photography"
+    hashtags: "#lacasadepapelchallenge, #publi, #lacasadepapel"
 ---

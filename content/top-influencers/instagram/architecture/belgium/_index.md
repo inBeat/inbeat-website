@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Belgium In 2020
 description: >-
-  Find top architecture Instagram influencers in Belgium in 2020. Most popular hashtags: #travel #love #architecture #brussels.
+  Find top architecture Instagram influencers in Belgium in 2020. Most popular hashtags: #architecture #symmetryhunters #antwerp #salon.
 platform: Instagram
 profiles:
+  - username: "jenm_xx"
+    fullname: >-
+      Jennifer Marckx
+    location: "Belgium"
+    followers: 13618
+    engagement: 586
+    commentsToLikes: 0.053248
+    id: ckap0nnygr3ar0i78hcf6z78c
+    verified: false
+    hashtags: "#dallas, #butdomesticatthesametime, #dontaskwhatiam, #reminiscing"
+  - username: "traveltower"
+    fullname: >-
+      Nick V P 🇧🇪
+    location: "Belgium"
+    followers: 2202
+    engagement: 2027
+    commentsToLikes: 0.061338
+    id: ckap26rq1xmek0i78asjnjow1
+    verified: false
+    hashtags: "#belgica, #europetrip, #kecommunity, #tajmahal"
   - username: "bildgestalter"
     fullname: >-
       Andreas Paehge Photography
     location: "Belgium"
-    followers: 21087
-    engagement: 305
-    commentsToLikes: 0.010792
+    followers: 20733
+    engagement: 317
+    commentsToLikes: 0.011532
     id: ck0vv206gn6cb0i19uo48sgmb
     verified: false
-    hashtags: "#abandoned, #fineart, #fineartphotography, #architecture"
+    hashtags: "#lumecube, #lumecubeair"
+  - username: "happelcornelisseverhoeven"
+    fullname: >-
+      HCVA
+    location: "Belgium"
+    followers: 5740
+    engagement: 580
+    commentsToLikes: 0.007166
+    id: ckaoqqymxjyil0i78ych55qdd
+    verified: false
+    hashtags: "#baywindow, #visualization, #concretebrick, #socialhousing"
   - username: "dennisdtj"
     fullname: >-
       Dennis T'Jampens
     location: "Belgium"
-    followers: 14524
-    engagement: 582
-    commentsToLikes: 0.028493
+    followers: 15910
+    engagement: 553
+    commentsToLikes: 0.028145
     id: ck5q362jjje200i11j9nsxhy6
     verified: false
-    hashtags: "#happy2020, #happynewyear, #antwerp, #2000"
-  - username: "maartenvda"
+    hashtags: "#2000, #dennistjampens, #newyear2020, #myboys"
+  - username: "photo_sebastian"
     fullname: >-
-      Maarten Van der Auwera
+      Hamburg & traveling
     location: "Belgium"
-    followers: 7552
-    engagement: 1316
-    commentsToLikes: 0.188156
-    id: ck55ll4yg1tsz0i113p90q0ik
+    followers: 2575
+    engagement: 1528
+    commentsToLikes: 0.067465
+    id: ck5chsw2erej30i111zktkfnz
     verified: false
-    hashtags: "#disneychannel, #sunsetphotography, #webyme, #covid"
+    hashtags: "#stayhomechallenge, #archdaily, #urbanromantix, #valencia"
+  - username: "vandervelpen"
+    fullname: >-
+      Dieter Vander Velpen
+    location: "Belgium"
+    followers: 62332
+    engagement: 295
+    commentsToLikes: 0.020668
+    id: ck5hn88sdndvv0i11dul2g4f2
+    verified: false
+    hashtags: "#kitchenisland, #remodeling, #detailing, #understatedluxury"
   - username: "el.vino"
     fullname: >-
-      • Eʟ Vɪɴᴏ🍷
+      • Eʟ Vɪɴᴏ®
     location: "Belgium"
-    followers: 113391
-    engagement: 284
-    commentsToLikes: 0.042880
+    followers: 111615
+    engagement: 290
+    commentsToLikes: 0.042806
     id: ck0vwctltt4el0i191mgre2tw
     verified: false
-    hashtags: "#sponsored, #france, #architectureparis, #parisarchitecture"
+    hashtags: "#repost, #suitopia, #france, #champselysees"
   - username: "valentinbruneau"
     fullname: >-
       Valentin bruneau
     location: "Belgium"
-    followers: 43716
-    engagement: 423
-    commentsToLikes: 0.069482
+    followers: 43438
+    engagement: 447
+    commentsToLikes: 0.058707
     id: ck0w6zn3mb0xk0i1935o5l4v1
     verified: false
-    hashtags: "#chelseaboots, #shaving, #leather, #brussels"
+    hashtags: "#sportsclothes, #streetstyleman, #heatedrazor, #hoodiestyle"
   - username: "fovelfabien"
     fullname: >-
       FovelFabien
     location: "Belgium"
-    followers: 2025
-    engagement: 1639
-    commentsToLikes: 0.060512
+    followers: 2005
+    engagement: 1658
+    commentsToLikes: 0.060430
     id: ck6tib4an0dsf0j71d2mghuqs
     verified: false
-    hashtags: "#mariage, #style, #like, #expofilm"
-  - username: "lorigavalda"
-    fullname: >-
-      Lori  ✨IPhone only✨ Belgium 🇧🇪
-    location: "Belgium"
-    followers: 54205
-    engagement: 570
-    commentsToLikes: 0.036132
-    id: ck0u07jynsxlw0i19l9vrsncd
-    verified: false
-    hashtags: "#theprettycities, #ourplanetdaily, #ig, #living"
-  - username: "my_daily_life_belgium"
-    fullname: >-
-      Barbara Maas
-    location: "Belgium"
-    followers: 2354
-    engagement: 1393
-    commentsToLikes: 0.154011
-    id: ck55ke0nuz3u10i11bfn9rvmg
-    verified: false
-    hashtags: "#buitenleven, #ilovebelgium, #stapaf, #opdefiets"
-  - username: "desiree_deridder"
-    fullname: >-
-      desiree de ridder
-    location: "Belgium"
-    followers: 7134
-    engagement: 558
-    commentsToLikes: 0.098343
-    id: ck6ucgjt7fh540j71tpgv3btd
-    verified: false
-    hashtags: "#escultura, #argentinafumigada, #lovewhippets, #fuckmonsantobayer"
-  - username: "belge_une_fois"
-    fullname: >-
-      Belge une fois
-    location: "Belgium"
-    followers: 18125
-    engagement: 254
-    commentsToLikes: 0.134048
-    id: ck6uhdx6g8jzx0j71q5fwy9u1
-    verified: false
-    hashtags: "#pontadapiedade, #welovebrussels, #concoursbelgique, #bougie"
+    hashtags: "#traveler, #mountain, #brussels, #sexy"
 ---

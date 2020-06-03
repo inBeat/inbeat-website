@@ -1,59 +1,79 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Bali In 2020
 description: >-
-  Find top mothers Instagram influencers in Bali in 2020. Most popular hashtags: #bali #indonesia #travel #balilife.
+  Find top mothers Instagram influencers in Bali in 2020. Most popular hashtags: #bali #dirumahaja #healthy #baliindonesia.
 platform: Instagram
 profiles:
-  - username: "violettekramer"
+  - username: "fredericlagrange"
     fullname: >-
-      Vιoᥣᥱttᥱ Krᥲmᥱr
+      Frédéric Lagrange
     location: "Indonesia"
-    followers: 2310
-    engagement: 2386
-    commentsToLikes: 0.048768
-    id: ck15ugchdn1th0i19eb7icyvd
+    followers: 21227
+    engagement: 527
+    commentsToLikes: 0.013653
+    id: ck6uei4p6r2500j7192avuyrw
     verified: false
-    hashtags: "#boats, #blondies, #love, #happiness"
-  - username: "tjasa_perko"
+    hashtags: "#pamir, #mongoliathebook, #eastgobi, #kyrgyz"
+  - username: "alenika_pro"
     fullname: >-
-      TJAŠA PERKO 🍃moj svet 🍃
+      🔥Фитнес ТРЕНЕР ОНЛАЙН🔥ДИЕТОЛОГ
     location: "Indonesia"
-    followers: 16473
-    engagement: 449
-    commentsToLikes: 0.017564
-    id: ck6u6ob20gro60j7134ypins2
+    followers: 51481
+    engagement: 91
+    commentsToLikes: 0.035807
+    id: ck5hokoj1pq850i11manr37sm
     verified: false
-    hashtags: "#feedtomysoul, #bestfriend, #roadtrippin, #outdooradventures"
-  - username: "traveltoescapes"
+    hashtags: "#modelbali, #balitravel, #pool, #blogger"
+  - username: "dominiquediyose"
     fullname: >-
-      ~Travel
+      Dominique Diyose
     location: "Indonesia"
-    followers: 23924
-    engagement: 272
-    commentsToLikes: 0.046502
-    id: ck5zu2ibg1k5f0i14id81i7c8
+    followers: 176121
+    engagement: 107
+    commentsToLikes: 0.017630
+    id: ck8sws7njf2190j780aisvkth
+    verified: true
+    hashtags: "#baliorganicskincare, #gilimeno, #indonesia, #slowmorning"
+  - username: "ellaputri13"
+    fullname: >-
+      אהבתי
+    location: "Indonesia"
+    followers: 31398
+    engagement: 155
+    commentsToLikes: 0.104245
+    id: ck139547xjkop0i19j4yn50co
     verified: false
-    hashtags: "#mombasakenya, #blacktravelers, #dianibeach, #blacktravelculture"
+    hashtags: "#leicaq, #jesusbless, #bursa, #preciousmoments"
   - username: "jaydekemp12"
     fullname: >-
       jaydekemp12
     location: "Indonesia"
-    followers: 9377
-    engagement: 734
-    commentsToLikes: 0.033278
+    followers: 9303
+    engagement: 743
+    commentsToLikes: 0.033644
     id: ck5hjgegdgkxt0i11fwbj91ae
     verified: false
-    hashtags: "#longhairdontcare, #balilife, #hai, #weekendgym"
-  - username: "evahorvathofficial"
+    hashtags: "#gymdaily, #allblackeverything, #luxuryhotel, #ithinkimturningjapanese"
+  - username: "agathasahell"
     fullname: >-
-      Horváth Éva
+      Ａｇａｔｈａ☽
     location: "Indonesia"
-    followers: 158030
-    engagement: 169
-    commentsToLikes: 0.020499
-    id: ck5zo6sw1pvzs0i14gbrze6ss
-    verified: true
-    hashtags: "#bestplacetogo, #visitbali, #imissingbali, #pampersnapok"
+    followers: 20839
+    engagement: 426
+    commentsToLikes: 0.018027
+    id: ck6uca1hfedrv0j71wwi2biq3
+    verified: false
+    hashtags: "#earthday, #haveagoodweekend, #quarantineandchill, #eidmubarak"
+  - username: "farwalikazmi"
+    fullname: >-
+      Farwa Ali
+    location: "Indonesia"
+    followers: 32307
+    engagement: 148
+    commentsToLikes: 0.030868
+    id: ck0w2bv48nktp0i19wtcdverb
+    verified: false
+    hashtags: "#bali, #meat20challenge, #savage, #staypositive"
   - username: "tatianakovylina"
     fullname: >-
       Tatiana Kovylina
@@ -63,45 +83,25 @@ profiles:
     commentsToLikes: 0.030667
     id: ck0w2ncnlp8q20i1906fr1fro
     verified: false
-    hashtags: "#siloulondon, #work, #womenofsilou, #bali"
-  - username: "farwakazmiofficial"
+    hashtags: "#bali, #siloulondon, #work, #womenofsilou"
+  - username: "tanialitadevi"
     fullname: >-
-      Farwa Kazmi
+      PUTU TANIA LITA DEVI
     location: "Indonesia"
-    followers: 32245
-    engagement: 151
-    commentsToLikes: 0.025827
-    id: ck0w2bv48nktp0i19wtcdverb
+    followers: 57916
+    engagement: 185
+    commentsToLikes: 0.013629
+    id: ck0vy73oe2jro0i1934djc7ni
     verified: false
-    hashtags: "#staypositive, #staysafe, #rejuvenation, #healthfirst"
-  - username: "lizzvictoriaann"
+    hashtags: "#rahajengmagicmirror, #label8summer2020, #ootd, #phototips"
+  - username: "nidanatsir"
     fullname: >-
-      Lizz Magasiva
+      Hj.Nida Amalia Natsir
     location: "Indonesia"
-    followers: 8231
-    engagement: 701
-    commentsToLikes: 0.078207
-    id: ck5zyqe91ac3m0i144mu3xwhq
+    followers: 39012
+    engagement: 115
+    commentsToLikes: 0.070089
+    id: ck5zoxuz2rky00i14b5jhxqo9
     verified: false
-    hashtags: "#oneyeardown, #bali, #tired, #teacherlife"
-  - username: "amotherdesigner"
-    fullname: >-
-      Anna
-    location: "Indonesia"
-    followers: 7813
-    engagement: 634
-    commentsToLikes: 0.084195
-    id: ck5zt1u21zl220i14fuqjngrn
-    verified: false
-    hashtags: "#mygorgeousgaff, #bohointeriorinspo, #myhomeforhp, #theartofslowliving"
-  - username: "itssheilamj"
-    fullname: >-
-      Sheila Marcia Joseph
-    location: "Indonesia"
-    followers: 631420
-    engagement: 204
-    commentsToLikes: 0.008914
-    id: ck55k6gi0yl4z0i11jri11x3j
-    verified: true
-    hashtags: "#djs, #ladidayhoneymoon, #motorkawasaki, #w175"
+    hashtags: "#waerebokids, #positivemindset, #wordlhijabers, #keepcalm"
 ---

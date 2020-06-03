@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Austin In 2020
 description: >-
-  Find top travel Instagram influencers in Austin in 2020. Most popular hashtags: #travel #love #austin #fashion.
+  Find top travel Instagram influencers in Austin in 2020. Most popular hashtags: #travel #ad #flattenthecurve #.
 platform: Instagram
 profiles:
-  - username: "nailed_by_becky"
+  - username: "rodrigosdlp"
     fullname: >-
-      BECKY WITH THE GOOD NAILS
+      Rodrigo Silva
     location: "United States"
-    followers: 31258
-    engagement: 178
-    commentsToLikes: 0.036749
-    id: ck6tk5n3o41r70j71oizdxx9j
+    followers: 8671
+    engagement: 653
+    commentsToLikes: 0.024096
+    id: ck5zvolgc4mir0i14yfnq0qph
     verified: false
-    hashtags: "#coffinshapenails, #feminism, #business, #jokes"
+    hashtags: "#waterbottles, #swiftwick, #omnibioticlife, #staystrong"
+  - username: "samdeemd"
+    fullname: >-
+      Samantha Dallefeld, MD
+    location: "United States"
+    followers: 8401
+    engagement: 253
+    commentsToLikes: 0.106014
+    id: ck9hakc1gcuyj0j787z7crw4h
+    verified: false
+    hashtags: "#vaccines, #goalsetting, #loveconquersall, #familyhiking"
   - username: "jabegg"
     fullname: >-
       Jenny Abegg
     location: "United States"
-    followers: 7729
-    engagement: 675
+    followers: 7654
+    engagement: 681
     commentsToLikes: 0.024929
     id: ck55pjl7uap7o0i1105o0vn2r
     verified: false
     hashtags: ""
+  - username: "somuchlifeblog"
+    fullname: >-
+      Kelsey | Austin Food Blogger
+    location: "United States"
+    followers: 25137
+    engagement: 214
+    commentsToLikes: 0.072403
+    id: ck139701ujulw0i19tz1i0nny
+    verified: false
+    hashtags: "#restaurantstrong, #lovemilkagain, #supportrestaurants, #atxlivingroompicnic"
   - username: "swiftwellness"
     fullname: >-
-      Ashley Rademacher
+      Ashley | Wellness Blogger 🌱
     location: "United States"
-    followers: 45903
-    engagement: 207
-    commentsToLikes: 0.007534
+    followers: 48212
+    engagement: 228
+    commentsToLikes: 0.041874
     id: ck13aefwvpzo30i19wk2hd7jb
     verified: false
-    hashtags: "#running, #fashionblog, #amazonmusthaves, #beautyroutine"
+    hashtags: "#plantsofinstagram, #swiftstories, #woodburningart, #happymothersday"
   - username: "jamieivey"
     fullname: >-
       Jamie Ivey
     location: "United States"
-    followers: 95187
-    engagement: 117
-    commentsToLikes: 0.035369
+    followers: 96314
+    engagement: 129
+    commentsToLikes: 0.158658
     id: ck0u7jqkd4zxr0i190hczbvwx
     verified: false
-    hashtags: "#fabfitfun, #rebeccabender, #hopeheals, #katherinewolf"
-  - username: "yourtrendytherapist"
+    hashtags: "#austinstoneworship, #lovewithcards, #onlinewomensretreat, #thehappyhourwithjamieivey"
+  - username: "_exiles_"
     fullname: >-
-      Mary
+      E❌ILES
     location: "United States"
-    followers: 57385
-    engagement: 134
-    commentsToLikes: 0.082696
-    id: ck6tnjjdz9z120j71dwhdvc3c
+    followers: 13609
+    engagement: 360
+    commentsToLikes: 0.024728
+    id: ck0w4s76h05gq0i196ma4f2bf
     verified: false
-    hashtags: "#adventure, #fableticspartner, #coronavirus, #atx"
-  - username: "katerinavillegas"
+    hashtags: "#foodies, #tiktokvideo, #pause, #kangstawok"
+  - username: "whereismalia"
     fullname: >-
-      KATERINA VILLEGAS
+      Malia ⭐️ Austin Travel Blogger
     location: "United States"
-    followers: 30517
-    engagement: 194
-    commentsToLikes: 0.046725
-    id: ck5zvou9d4n0d0i14o1b4uqt8
+    followers: 4037
+    engagement: 1888
+    commentsToLikes: 0.035503
+    id: ck5q26vkxek0c0i11gxnpndsr
     verified: false
-    hashtags: "#hair, #missusa, #snoqualmie, #daneudas"
-  - username: "dam_sluncan"
+    hashtags: ""
+  - username: "readysetjetset"
     fullname: >-
-      Laura Duncan
+      Haley • Austin Travel Blogger
     location: "United States"
-    followers: 7081
-    engagement: 1361
-    commentsToLikes: 0.060036
-    id: ck0w5ll5448uw0i19ua9fga43
+    followers: 128037
+    engagement: 69
+    commentsToLikes: 0.051844
+    id: ck0tw45qrdy0w0i19dq26ib5k
     verified: false
-    hashtags: "#throwbackthursday, #austin, #austintexas, #travelstroke"
-  - username: "timonunez_official"
+    hashtags: "#slowthespread, #hellofreshpartner, #getcooking, #hundredforhospitality"
+  - username: "mylifeintastes"
     fullname: >-
-      Timo Nuñez (Geronimo)
+      bre mcdede
     location: "United States"
-    followers: 40753
-    engagement: 208
-    commentsToLikes: 0.037894
-    id: ck5q408j0n5xg0i11aalhyldk
-    verified: true
-    hashtags: "#powerversa, #ball, #austin, #travel"
-  - username: "turnitupworld"
-    fullname: >-
-      Tanya & Dave • THAT TRAVEL DUO
-    location: "United States"
-    followers: 9735
-    engagement: 687
-    commentsToLikes: 0.058786
-    id: ck5btyeypgtyt0i11cosrdpve
+    followers: 3491
+    engagement: 1428
+    commentsToLikes: 0.181985
+    id: ck5hmple0me0y0i117ozh6f7u
     verified: false
-    hashtags: "#roadto10k, #disneyshollywoodstudios, #motivation, #hollywoodstudios"
-  - username: "dom_blan"
-    fullname: >-
-      Dom 🔹🔸
-    location: "United States"
-    followers: 87806
-    engagement: 744
-    commentsToLikes: 0.013724
-    id: ck134jcrpwpoo0i19ifgvkdht
-    verified: false
-    hashtags: "#pictureperfect, #practicetillitsperfect, #shadow, #malemodel"
+    hashtags: "#ad, #sponsored, #nationalcupcakeloversday"
 ---

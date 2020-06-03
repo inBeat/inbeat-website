@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Austria In 2020
 description: >-
-  Find top home decor Instagram influencers in Austria in 2020. Most popular hashtags: #interior #homedecor #prettylittleiiinspo #stayathome.
+  Find top home decor Instagram influencers in Austria in 2020. Most popular hashtags: #homedecor #idealofsweden #gewinnspiel #mondaymood.
 platform: Instagram
 profiles:
   - username: "dayanamartinezzzz"
     fullname: >-
       𝗗𝗔𝗬𝗔𝗡𝗔
     location: "Austria"
-    followers: 35242
-    engagement: 608
-    commentsToLikes: 0.037656
+    followers: 37862
+    engagement: 439
+    commentsToLikes: 0.289178
     id: ck8swj0que91t0j78ncoqm66u
     verified: false
-    hashtags: "#instadaily, #hoopearrings, #highheels, #nudemakeup"
-  - username: "retegan.denisa"
+    hashtags: "#cute, #santamonica, #dressinspo, #bimmergirls"
+  - username: "_nyuszik_travel_couple_"
     fullname: >-
-      Denisa Retegan
+      Dóri & Ákos 💑👫
     location: "Austria"
-    followers: 41692
-    engagement: 535
-    commentsToLikes: 0.027896
-    id: ck13bwlevxhn40i190ehwdmbw
+    followers: 4198
+    engagement: 1528
+    commentsToLikes: 0.312036
+    id: ck6ttdmoea15q0j71j8feapjs
     verified: false
-    hashtags: "#city, #sunkissed, #heels, #austria"
-  - username: "theflyingdress"
-    fullname: >-
-      Iris 🌸 Travel & Style
-    location: "Austria"
-    followers: 4699
-    engagement: 1501
-    commentsToLikes: 0.094018
-    id: ck0w74t5ibre20i19j6ddt4hi
-    verified: false
-    hashtags: "#fallinspo, #visitvienna, #adventsverlosung, #carmushka"
-  - username: "leonie_rachel"
-    fullname: >-
-      Leonie-Rachel | Self Love Blog
-    location: "Austria"
-    followers: 26568
-    engagement: 190
-    commentsToLikes: 0.069682
-    id: ck5hfpkufyo0o0i11y78hoxge
-    verified: false
-    hashtags: "#narzisstischermissbrauch, #calmnessofmind, #yogajourney, #dogsofinstagram"
-  - username: "daisiesandglitter"
-    fullname: >-
-      Michaela | Lifestyle Blog
-    location: "Austria"
-    followers: 20770
-    engagement: 242
-    commentsToLikes: 0.074038
-    id: ck5hr0hmiu1rb0i11qv65e4b8
-    verified: false
-    hashtags: "#springnails, #itsallaboutdetails, #germanblogger, #sponsored"
-  - username: "falami_12"
-    fullname: >-
-      𝙴𝚍𝚒𝚝𝚑 🌾
-    location: "Austria"
-    followers: 4679
-    engagement: 1161
-    commentsToLikes: 0.068231
-    id: ck5c41hqb0ggt0i11eotkxajo
-    verified: false
-    hashtags: "#familytime, #selfietime, #therality, #kidslife"
-  - username: "never_forget_the_scars"
-    fullname: >-
-      ×• Nacho •×
-    location: "Austria"
-    followers: 111918
-    engagement: 1034
-    commentsToLikes: 0.009593
-    id: ck134lkinx0s40i19c6rqv7vd
-    verified: false
-    hashtags: "#plugs, #baby, #metro, #pixel"
-  - username: "_cocowho"
-    fullname: >-
-      Jovana
-    location: "Austria"
-    followers: 3836
-    engagement: 1364
-    commentsToLikes: 0.022967
-    id: ck0twkggzfsac0i19qmwrpaqc
-    verified: false
-    hashtags: "#fashionstyle, #interiors, #snowy, #zarawoman"
-  - username: "not.only.mummy"
-    fullname: >-
-      Katerina
-    location: "Austria"
-    followers: 37352
-    engagement: 348
-    commentsToLikes: 0.197511
-    id: ck14l29dfshfx0i19l450lnln
-    verified: false
-    hashtags: "#homesweethome, #minibookclubdays, #decorforkids, #krcmoveplaycreate"
+    hashtags: "#flatlayflowers, #visitdubai, #letsgosomewhere, #nyeremenyjatek"
   - username: "anjelasgallery"
     fullname: >-
       𝓐𝓷𝓳𝓮𝓵𝓪 📸
     location: "Austria"
-    followers: 25684
-    engagement: 371
-    commentsToLikes: 0.103589
+    followers: 25947
+    engagement: 344
+    commentsToLikes: 0.119102
     id: ck8t8oedjl4sn0j78im03mvf7
     verified: false
-    hashtags: "#pinterest, #wohnzimmer, #idealofsweden, #zalando"
+    hashtags: "#giveaway, #sunday, #portreitmood, #homedetails"
+  - username: "manu.ela.aa"
+    fullname: >-
+      𝙁𝙖𝙨𝙝𝙞𝙤𝙣 I 𝙏𝙧𝙖𝙫𝙚𝙡 I 𝙄𝙣𝙩𝙚𝙧𝙞𝙤𝙧
+    location: "Austria"
+    followers: 6760
+    engagement: 1862
+    commentsToLikes: 0.055845
+    id: ck14je88cjvsg0i19uc8xdse9
+    verified: false
+    hashtags: "#sportwear, #dhigaliresort, #spring, #vipdeal"
+  - username: "retegan.denisa"
+    fullname: >-
+      Denisa Retegan
+    location: "Austria"
+    followers: 44564
+    engagement: 693
+    commentsToLikes: 0.024395
+    id: ck13bwlevxhn40i190ehwdmbw
+    verified: false
+    hashtags: "#case, #posterstore, #bikini, #museum"
+  - username: "katrindieminger"
+    fullname: >-
+      KATRIN DIEMINGER
+    location: "Austria"
+    followers: 46267
+    engagement: 512
+    commentsToLikes: 0.027571
+    id: ck8t4atws63ag0j78gbrd52bx
+    verified: false
+    hashtags: "#quotes, #idealofsweden, #ideal, #homeishere"
+  - username: "frankly.alina"
+    fullname: >-
+      » Alina | VEGAN & LIFESTYLE«
+    location: "Austria"
+    followers: 49373
+    engagement: 740
+    commentsToLikes: 0.011574
+    id: ck5q2j33rg9ok0i11diwm1bmv
+    verified: false
+    hashtags: "#coffeetime, #inbloom, #pandorabracelet, #veganista"
+  - username: "theflyingdress"
+    fullname: >-
+      Iris 🌸 Travel & Style
+    location: "Austria"
+    followers: 4553
+    engagement: 1513
+    commentsToLikes: 0.087599
+    id: ck0w74t5ibre20i19j6ddt4hi
+    verified: false
+    hashtags: "#promotion, #giveawaytime, #desenio, #deseniocode"
+  - username: "lissi.maria"
+    fullname: >-
+      LISSI | INSPO | POSITIVITY
+    location: "Austria"
+    followers: 6529
+    engagement: 1351
+    commentsToLikes: 0.066094
+    id: ck8t7ib1ngwsh0j78kew66xgv
+    verified: false
+    hashtags: "#lifequotes, #balkon, #gewinnspiel, #selflove"
+  - username: "waldfrau_art"
+    fullname: >-
+      𝙒𝙖𝙩𝙚𝙧𝙘𝙤𝙡𝙤𝙧 & 𝙈𝙞𝙭𝙚𝙙 𝙈𝙚𝙙𝙞𝙖 𝘼𝙧𝙩 🎨
+    location: "Austria"
+    followers: 18677
+    engagement: 1146
+    commentsToLikes: 0.126741
+    id: ck0vxr3el0ac00i19pjqhojhr
+    verified: false
+    hashtags: "#archesart, #gouachelove, #looseflorals, #colorfulart"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Guitar Instagram Influencers In Germany In 2020
 description: >-
-  Find top guitar Instagram influencers in Germany in 2020. Most popular hashtags: #musician #guitar #guitarist #music.
+  Find top guitar Instagram influencers in Germany in 2020. Most popular hashtags: #germany #stayathome #guitars #performance.
 platform: Instagram
 profiles:
-  - username: "casperstarreveld"
+  - username: "marceatsfood"
     fullname: >-
-      Casper Starreveld
+      marc okubo
     location: "Germany"
-    followers: 12443
-    engagement: 1197
-    commentsToLikes: 0.036275
-    id: ck6trlj36zobw0j71hsoqx1qo
+    followers: 53397
+    engagement: 754
+    commentsToLikes: 0.023063
+    id: ck0vvxqhtr8sp0i19xn83wtca
+    verified: true
+    hashtags: ""
+  - username: "marcussiepen"
+    fullname: >-
+      Marcus Siepen
+    location: "Germany"
+    followers: 7244
+    engagement: 1191
+    commentsToLikes: 0.051808
+    id: ck9wox4f46y8y0j78xbqqv9yr
     verified: false
-    hashtags: "#vval, #ahoy, #spotifysingles, #ziggodome"
+    hashtags: "#corona, #whynot, #fruits, #runningoutoftime"
+  - username: "taylr_the_g"
+    fullname: >-
+      
+    location: "Germany"
+    followers: 7882
+    engagement: 817
+    commentsToLikes: 0.067586
+    id: ck5zs7angxytl0i147oj7lckm
+    verified: false
+    hashtags: "#roland, #portraits, #fenderdeville, #gifted"
   - username: "martinablazeska"
     fullname: >-
       Martina Blazeska
     location: "Germany"
-    followers: 15437
-    engagement: 962
-    commentsToLikes: 0.024316
+    followers: 15595
+    engagement: 971
+    commentsToLikes: 0.024598
     id: ck14gg8w652lo0i19p30pja4z
     verified: false
-    hashtags: "#thenammshow, #badguy, #elixirstrings, #telecaster"
-  - username: "g.force.club"
+    hashtags: "#originalmusic, #thenammshow, #guitars, #somebodyelse"
+  - username: "casperstarreveld"
     fullname: >-
-      G-Force Club
+      Casper Starreveld
     location: "Germany"
-    followers: 8548
-    engagement: 1188
-    commentsToLikes: 0.013980
-    id: ck0w4voey0mwo0i19cgwy5v4q
+    followers: 12392
+    engagement: 1207
+    commentsToLikes: 0.036106
+    id: ck6trlj36zobw0j71hsoqx1qo
     verified: false
-    hashtags: "#guitarist, #ernieball, #peavey, #floydrose"
-  - username: "missalliemusic"
+    hashtags: "#myguitarlookslikealamp, #linkinbio, #spotifysingles, #ziggodome"
+  - username: "_micklas_"
     fullname: >-
-      Miss Allie
+      Michael G.
     location: "Germany"
-    followers: 15458
-    engagement: 523
-    commentsToLikes: 0.066559
-    id: ck5hlsqusksg80i11azoresd6
+    followers: 26725
+    engagement: 3366
+    commentsToLikes: 0.100150
+    id: ckapcf53a3k780i78ciu2wlpb
     verified: false
-    hashtags: "#musikerin, #auftour, #gender, #locken"
+    hashtags: "#seasideview, #luxuryhomes, #lifeisbeautiful, #dahoam"
   - username: "panchitocia"
     fullname: >-
       Pancho Cia
     location: "Germany"
-    followers: 77186
-    engagement: 995
-    commentsToLikes: 0.038808
+    followers: 76979
+    engagement: 926
+    commentsToLikes: 0.036578
     id: ck5hgylja5gsj0i11msck8wws
     verified: false
     hashtags: "#qvtour, #quierovolvertour"
-  - username: "julius_imhood"
-    fullname: >-
-      Julius Imhäuser
-    location: "Germany"
-    followers: 7956
-    engagement: 1605
-    commentsToLikes: 0.041495
-    id: ck6tv298djrbi0j71604a6lzj
-    verified: false
-    hashtags: "#suhrcustom, #guitarra, #drums, #drumsdrumsdrums"
-  - username: "josiestickdorn"
-    fullname: >-
-      Josie Stickdorn
-    location: "Germany"
-    followers: 118903
-    engagement: 1707
-    commentsToLikes: 0.039601
-    id: ck5hdhei7nfxb0i11u292w2q6
-    verified: false
-    hashtags: "#18, #birthday, #linkinpark, #tribute"
   - username: "albert_draufgaenger"
     fullname: >-
       Albert-Mario Lampel
     location: "Germany"
-    followers: 16729
-    engagement: 801
-    commentsToLikes: 0.007240
+    followers: 17240
+    engagement: 792
+    commentsToLikes: 0.008267
     id: ck14ljudvv1v20i19zn2fyo1k
     verified: false
-    hashtags: "#diedraufg, #coronavirus, #danke, #tourlife"
-  - username: "dyepainter"
+    hashtags: "#master, #stayathome, #dankedankedanke, #outnow"
+  - username: "missalliemusic"
     fullname: >-
-      Bulli
+      Miss Allie
     location: "Germany"
-    followers: 10309
-    engagement: 1475
-    commentsToLikes: 0.038639
-    id: ck55n8tvv5p8u0i11uecwx3nj
+    followers: 15700
+    engagement: 557
+    commentsToLikes: 0.056131
+    id: ck5hlsqusksg80i11azoresd6
     verified: false
-    hashtags: "#vwbus, #classicvw, #photooftheday, #naturaleza"
-  - username: "iljajohnlappin"
+    hashtags: "#tickets, #draussen, #gesund, #sportmotivation"
+  - username: "yaroslava.ihnatenko"
     fullname: >-
-      Ilja John Lappin
+      Yaroslava Ihnatenko
     location: "Germany"
-    followers: 5833
-    engagement: 697
-    commentsToLikes: 0.021512
-    id: ck5cjfbbzulxe0i11b1a5h59y
+    followers: 19541
+    engagement: 2265
+    commentsToLikes: 0.032188
+    id: ck9hc30tyjj480j7807xe430a
     verified: false
-    hashtags: "#touring, #filming, #wirtz, #thankyou"
+    hashtags: "#guitars, #paraguay, #folksong, #brouwer"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Finland In 2020
 description: >-
-  Find top architecture Instagram influencers in Finland in 2020. Most popular hashtags: #architecture #ig #loves #nature.
+  Find top architecture Instagram influencers in Finland in 2020. Most popular hashtags: #architecture #arkkitehtuuri #marimekko #finland.
 platform: Instagram
 profiles:
-  - username: "tomipics"
+  - username: "omarelmrabt"
     fullname: >-
-      Tomi
+      Omar El Mrabt | Helsinki 🇫🇮
     location: "Finland"
-    followers: 34397
-    engagement: 820
-    commentsToLikes: 0.043915
-    id: ck0u80l8w638a0i19evevvwau
-    verified: false
-    hashtags: ""
-  - username: "arch_shovel"
+    followers: 34479
+    engagement: 270
+    commentsToLikes: 0.021935
+    id: ck0ubx90tfgu50i196dhhgupj
+    verified: true
+    hashtags: "#punavuori, #winterwonderland, #colorfullife, #keva"
+  - username: "shahad_alshawk"
     fullname: >-
-      Architecture | Design | 3D 🌐
+      SHAHAD AL-SHAWK     شهد الشوك
     location: "Finland"
-    followers: 66744
-    engagement: 161
-    commentsToLikes: 0.002300
-    id: ck0w6ll9995rv0i19aw7ralti
+    followers: 28565
+    engagement: 165
+    commentsToLikes: 0.188829
+    id: ck9wisobi3slb0j7807zufmyv
     verified: false
-    hashtags: "#architectureape, #architecturalsketch, #gwanggyo, #flatdesign"
-  - username: "marjawickman"
+    hashtags: "#nature, #dontrushchallenge, #interiordesign, #nice"
+  - username: "katarinaruusu"
     fullname: >-
-      MUSTA OVI
+      Katarina
     location: "Finland"
-    followers: 33060
-    engagement: 315
-    commentsToLikes: 0.054429
-    id: ck0tumzey7tgw0i197y3omiio
+    followers: 5086
+    engagement: 959
+    commentsToLikes: 0.020960
+    id: ck8szpwpjpa710j78lucyp04y
     verified: false
-    hashtags: "#festivemood, #scandinavianbedroom, #hovimestari, #iittalatsaikka"
-  - username: "helsinkifacades"
+    hashtags: "#nickstosugar, #potretti, #coffee, #outfit"
+  - username: "petrimastphotography"
     fullname: >-
-      Kristo Vedenoja | Helsinki
+      P E T R I M A S T
     location: "Finland"
-    followers: 21598
-    engagement: 834
-    commentsToLikes: 0.022429
-    id: ck13739nm9jui0i1963cjribb
+    followers: 20151
+    engagement: 419
+    commentsToLikes: 0.002915
+    id: ck0w16yljhuv00i19jtzt0w8a
     verified: false
-    hashtags: "#hfkansallismuseo, #jugendstil, #bestcitybreaks, #arkkitehtuuri"
-  - username: "piiatuuli"
+    hashtags: "#mercedes, #photography, #awesomeness, #lahdensatama"
+  - username: "anna_from_finland"
     fullname: >-
-      Interior by Piia
+      Влюбленная в ФИНЛЯНДИЮ
     location: "Finland"
-    followers: 82181
-    engagement: 220
-    commentsToLikes: 0.033190
-    id: ck14losg9vqgw0i19p5ki6pzb
+    followers: 15788
+    engagement: 597
+    commentsToLikes: 0.086303
+    id: ck6u8d73aqvua0j71dmvkjuol
     verified: false
-    hashtags: "#skandinaviskahem, #livingroominspo, #goodmorning, #nordicstyle"
+    hashtags: "#live, #lovestory, #sea, #baby"
+  - username: "tuulaslife"
+    fullname: >-
+      Tuula / Tuula's life
+    location: "Finland"
+    followers: 5483
+    engagement: 694
+    commentsToLikes: 0.062448
+    id: ck13a03b6nykf0i19nnzso8q7
+    verified: false
+    hashtags: "#byraili, #vesille, #procare, #nelkyplusblogit"
+  - username: "travelbucketlist_tbl"
+    fullname: >-
+      𝙏𝙧𝙖𝙫𝙚𝙡 𝘽𝙪𝙘𝙠𝙚𝙩 𝙇𝙞𝙨𝙩 🌍
+    location: "Finland"
+    followers: 9549
+    engagement: 911
+    commentsToLikes: 0.023812
+    id: ck9hbnn6khn930j78gvqlrmq8
+    verified: false
+    hashtags: "#palace, #dreamcatcher, #exploremore, #monument"
   - username: "linna_vuori"
     fullname: >-
-      Riikka | skandinavian home
+      Riikka | scandinavian interior
     location: "Finland"
-    followers: 4175
-    engagement: 919
-    commentsToLikes: 0.103107
+    followers: 4851
+    engagement: 830
+    commentsToLikes: 0.117565
     id: ck5q3hkwaks3p0i11y988umxq
     verified: false
-    hashtags: "#parolanrottinki, #aurinko, #ruusupuukouvola, #annocollection"
-  - username: "namastediary"
+    hashtags: "#marimekko, #aitous, #lapsetleipoo, #sunnuntai"
+  - username: "instakodit"
     fullname: >-
-      namastediary
+      Instakodit.fi
     location: "Finland"
-    followers: 2795
-    engagement: 2053
-    commentsToLikes: 0.035074
-    id: ck5zwu0b96rj20i145rkkf9cv
+    followers: 17489
+    engagement: 239
+    commentsToLikes: 0.003950
+    id: ck6tpot3klaho0j715ovts7ih
     verified: false
-    hashtags: "#porvoooldtown, #eesti, #streetpixelz, #igersbelgium"
-  - username: "robsig1"
+    hashtags: "#exoticdecor, #vmcarpet, #carlandhanson, #naturaltones"
+  - username: "scandinaviastandard"
     fullname: >-
-      
+      Scandinavia Standard
     location: "Finland"
-    followers: 30168
-    engagement: 364
-    commentsToLikes: 0.010800
-    id: ck5cj8vm2u8aa0i113cyq83hc
+    followers: 36655
+    engagement: 138
+    commentsToLikes: 0.014821
+    id: ck15rsewq9gqf0i19yz9v4gwz
     verified: false
-    hashtags: "#travel, #sunsets, #naturelovers, #nofilter"
-  - username: "worlds_beautiful_photos"
-    fullname: >-
-      
-    location: "Finland"
-    followers: 35428
-    engagement: 152
-    commentsToLikes: 0.024528
-    id: ck14il3hjfy600i19k7h1tpyb
-    verified: false
-    hashtags: "#wbpsamuel, #bird, #nature, #heart"
-  - username: "joonaspoytaniemi"
-    fullname: >-
-      Joonas Pöytäniemi
-    location: "Finland"
-    followers: 6102
-    engagement: 461
-    commentsToLikes: 0.012289
-    id: ck0uak0necgig0i19lgizrii0
-    verified: false
-    hashtags: "#minimalism, #visitsweden, #travel, #munymp"
+    hashtags: "#sigurdlewerentz, #muuto, #nomaburger, #codroe"
 ---

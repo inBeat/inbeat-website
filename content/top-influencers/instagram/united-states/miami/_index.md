@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Miami In 2020
 description: >-
-  Find top Instagram influencers in Miami in 2020. Most popular hashtags: #miami #foryoupage #viral #comment.
+  Find top Instagram influencers in Miami in 2020. Most popular hashtags: #coronavirus #teorema # #26.
 platform: Instagram
 profiles:
-  - username: "isalanaro"
+  - username: "alienxboyz"
     fullname: >-
-      Isabella Lanaro
+      ALIEN BOYZ
     location: "United States"
-    followers: 17000
-    engagement: 298
-    commentsToLikes: 0.040032
-    id: ck55m14ks2xsg0i11pozz16m4
+    followers: 213962
+    engagement: 946
+    commentsToLikes: 0.064287
+    id: ck0u9hqxl9was0i19l3pzz9ah
     verified: false
+    hashtags: "#sanvalentin, #amor, #valentine, #friends"
+  - username: "isaiahreese13"
+    fullname: >-
+      
+    location: "United States"
+    followers: 3474
+    engagement: 2531
+    commentsToLikes: 0.065278
+    id: ck8sydrcpkj140j78ub03t451
+    verified: true
     hashtags: ""
+  - username: "_frenchtok"
+    fullname: >-
+      JP Tokoto
+    location: "United States"
+    followers: 44751
+    engagement: 598
+    commentsToLikes: 0.023053
+    id: ck5q5sda4udey0i11stn1evp2
+    verified: true
+    hashtags: "#2020, #iplaytoomuch, #dripszn3, #fiesta"
+  - username: "stefruiz"
+    fullname: >-
+      Estefania Ruiz.
+    location: "United States"
+    followers: 19303
+    engagement: 308
+    commentsToLikes: 0.047808
+    id: ckap27s5dxqus0i78690fygaa
+    verified: false
+    hashtags: "#goldendoodle"
   - username: "emilyperezz_"
     fullname: >-
-      Emily
+      Emily Perez
     location: "United States"
-    followers: 5602
-    engagement: 2620
-    commentsToLikes: 0.028482
+    followers: 6244
+    engagement: 2533
+    commentsToLikes: 0.028560
     id: ck5c9f18bbbet0i11tf0spu8p
     verified: false
     hashtags: "#swimwithicon"
-  - username: "willytube"
+  - username: "joshwolff_"
     fullname: >-
-      Willytube
+      
     location: "United States"
-    followers: 87743
-    engagement: 837
-    commentsToLikes: 0.051741
-    id: ck8weivlee4580j783h5dc7v9
+    followers: 5801
+    engagement: 4977
+    commentsToLikes: 0.049425
+    id: ck14jx8w7mnch0i19ifnjmy6z
     verified: false
-    hashtags: "#foryoupage, #comedy, #bigklitenergy, #transition"
-  - username: "_anabelladiaz_"
+    hashtags: "#linkinbio"
+  - username: "malaamante"
     fullname: >-
-      🍱🐲🧘🏼‍♀️💮
+      Tiffany Giraldo
     location: "United States"
-    followers: 5343
-    engagement: 2664
-    commentsToLikes: 0.104049
-    id: ck8wg44p2gpfk0j78x6m26os9
+    followers: 9336
+    engagement: 1426
+    commentsToLikes: 0.021227
+    id: ck13axqwyspc50i19kwb0un28
     verified: false
-    hashtags: "#like, #thanksgiving, #naturaltypeofhair, #foryourpage"
-  - username: "shlyakisroman"
+    hashtags: "#siliconeprosthetics, #deadalive, #braindead, #fx"
+  - username: "thelifeofcarinaa"
     fullname: >-
-      Roman 🌪
+      Carina Coria
     location: "United States"
-    followers: 313521
-    engagement: 1272
-    commentsToLikes: 0.034595
-    id: ck8t7sqowhvcs0j78v4neb4oo
+    followers: 5119
+    engagement: 3005
+    commentsToLikes: 0.052434
+    id: ckaoxzgucff090i78v169s45d
     verified: false
-    hashtags: "#stayhome, #besafe, #home"
-  - username: "alienxboyz"
+    hashtags: "#pltxmiami"
+  - username: "jnevilus"
     fullname: >-
-      Alien 👽
+      Jordan Nevilus
     location: "United States"
-    followers: 206814
-    engagement: 903
-    commentsToLikes: 0.064769
-    id: ck0u9hqxl9was0i19l3pzz9ah
+    followers: 27399
+    engagement: 148
+    commentsToLikes: 0.030574
+    id: ck8sys5evlsr10j78qjnmxvyy
     verified: false
-    hashtags: "#trap, #elmenor, #friends, #chile"
-  - username: "anaxpena"
+    hashtags: "#miami"
+  - username: "lisbetnicole"
     fullname: >-
-      Ana
+      Lisbet Hernandez
     location: "United States"
-    followers: 9779
-    engagement: 1339
-    commentsToLikes: 0.065299
-    id: ck5c7rtnp82n00i110o42im44
+    followers: 2230
+    engagement: 4330
+    commentsToLikes: 0.120252
+    id: ck9weneb2l1mw0j78axttwwhf
     verified: false
-    hashtags: "#danceclass, #rave, #festival, #brickell"
-  - username: "qiguguer"
-    fullname: >-
-      💖 Ivy Gu 💕
-    location: "United States"
-    followers: 22225
-    engagement: 818
-    commentsToLikes: 0.098111
-    id: ck0u7dnru4jd00i19n5c5nyty
-    verified: false
-    hashtags: "#fruittea, #ccdcholidays, #hikingday, #cabin"
-  - username: "frizzydesi"
-    fullname: >-
-      Frizzy Desi
-    location: "United States"
-    followers: 98200
-    engagement: 583
-    commentsToLikes: 0.130584
-    id: ck6ueryrmsqxg0j71h2ymna27
-    verified: false
-    hashtags: "#rebelgal, #outfitinspiration, #crespa, #curlyhair"
-  - username: "miryam_itzhaki"
-    fullname: >-
-      MIRYAM 🇮🇱 | מרים
-    location: "United States"
-    followers: 57402
-    engagement: 668
-    commentsToLikes: 0.041812
-    id: ck5hfd0p9wwrr0i114qt3290y
-    verified: false
-    hashtags: "#2020, #humpday, #miami, #ohhhnoooo"
+    hashtags: "#ymiinquarantine, #tigercherrybabe, #ad"
 ---

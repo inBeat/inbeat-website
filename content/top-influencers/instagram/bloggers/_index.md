@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In 2020
 description: >-
-  Find top bloggers Instagram influencers in 2020. Most popular hashtags: #travelcouple #creativetravelcouples #fashionblogger #travelblogger.
+  Find top bloggers Instagram influencers in 2020. Most popular hashtags: #giveaway #nakdfashion #pinterest #mondaymood.
 platform: Instagram
 profiles:
-  - username: "therealkatiewaldow"
+  - username: "aslam_azzi"
     fullname: >-
-      Hey Katie: A Lifestyle Blog
-    location: "United States"
-    followers: 10401
-    engagement: 1296
-    commentsToLikes: 0.074021
-    id: ck5q6mn1fy11f0i112o6c0l6g
+      R ⭕ W D Y
+    location: ""
+    followers: 2359
+    engagement: 4140
+    commentsToLikes: 0.369201
+    id: ck9wi95sx19bv0j78s3u61tjk
     verified: false
-    hashtags: "#whoworeitbetter, #suchagoodcatholic, #noragrets, #socialdistancing"
-  - username: "alishadhuka"
+    hashtags: "#duke200, #banglore, #keralaatraction, #gaintrick"
+  - username: "leronyrony"
     fullname: >-
-      Alisha Dhuka
-    location: "United States"
-    followers: 13960
-    engagement: 1370
-    commentsToLikes: 0.232468
-    id: ck0u7qf9a5i470i19g5z14ff4
-    verified: false
-    hashtags: "#howirawsugar, #socialdistancing, #sheingals, #tendskin"
-  - username: "ourtasteforlife"
-    fullname: >-
-      CHARLOTTE ♡ NATALIE 𖤥 UK
-    location: "United Kingdom"
-    followers: 20199
-    engagement: 1153
-    commentsToLikes: 0.108506
-    id: ck5zqz6k2vl810i14cmyqbzfl
-    verified: false
-    hashtags: "#lovehasnogender, #lgbtposts, #beautifultravelcouples, #lesbianlove"
-  - username: "simlipullu"
-    fullname: >-
-      Simay Çetinkaya Pullu
-    location: "Turkey"
-    followers: 5120
-    engagement: 2198
-    commentsToLikes: 0.131060
-    id: ck8t3cgo62qsy0j78b6gwj87u
-    verified: false
-    hashtags: "#geziyorum, #pazarkeyfi, #traveling, #stayhome"
-  - username: "_m_a_d_l_e_n"
-    fullname: >-
-      Madina Mamadalieva
+      Valeria Anastasina
     location: "Russia"
-    followers: 1050138
-    engagement: 1103
-    commentsToLikes: 0.032410
-    id: ck5hhlkzj8uzu0i118dobokxm
+    followers: 13043
+    engagement: 2180
+    commentsToLikes: 0.131030
+    id: ck0ty5lgvlqdw0i19i3erm7j8
     verified: false
-    hashtags: "#stayhome, #staysafe"
-  - username: "planbviajero"
+    hashtags: ""
+  - username: "amybnt"
     fullname: >-
-      Camilo & Gaby | Travel Couple
-    location: "Mexico"
-    followers: 36931
-    engagement: 910
-    commentsToLikes: 0.058672
-    id: ck0vx2fpywt630i19cpp5vqli
+      Amélie
+    location: "France"
+    followers: 10454
+    engagement: 2121
+    commentsToLikes: 0.083965
+    id: ck9wfappco01d0j78r4pvho9g
     verified: false
-    hashtags: "#viajesdescubria, #conocemexico, #creativetravelcouples, #instagood"
-  - username: "rosshannabracho"
+    hashtags: "#heishizlook, #benakd, #giveaway, #inesmaphoto"
+  - username: "adi__ina"
     fullname: >-
-      Miss Monroe
-    location: "Mexico"
-    followers: 293471
-    engagement: 1070
-    commentsToLikes: 0.055367
-    id: ck0u8fb4678g60i19j0ggv1y9
-    verified: true
-    hashtags: "#allthingshairmex, #fashionfest, #cali, #ca"
+      𝑨𝒅𝒊𝒏𝒂’𝒔 𝑴𝒂𝒈𝒊𝒄𝒂𝒍 𝑬𝒅𝒊𝒕𝒔 ✨
+    location: "Italy"
+    followers: 8624
+    engagement: 1553
+    commentsToLikes: 0.237843
+    id: ck8t5ssvsb4am0j78mim6re1r
+    verified: false
+    hashtags: "#beautygiveaway, #imaginative, #oradea, #instaromania"
+  - username: "popy.__"
+    fullname: >-
+      وشنُ🦋
+    location: "India"
+    followers: 8227
+    engagement: 1528
+    commentsToLikes: 0.164624
+    id: ck9wgp8i1udha0j78pjte341g
+    verified: false
+    hashtags: "#trivandrum, #keralatourism, #kannur, #malayali"
   - username: "inesdailylove"
     fullname: >-
       FASHION | INSPO | BEAUTY
     location: "Germany"
-    followers: 12328
-    engagement: 1477
-    commentsToLikes: 0.408235
+    followers: 13646
+    engagement: 1508
+    commentsToLikes: 0.417351
     id: ck14k5tfsnvf30i19k3iqr72x
     verified: false
-    hashtags: "#annaix, #carodaur, #ciaowinterhallofr, #aldibox"
-  - username: "manonlaime"
+    hashtags: "#springflatlay, #fashiongermany, #rapsfelder, #zaralook"
+  - username: "simlipullu"
     fullname: >-
-      ManonLaime
-    location: "France"
-    followers: 107490
-    engagement: 1086
-    commentsToLikes: 0.084083
-    id: ck1362bnm4esl0i19gnrxd3e3
+      Simay Çetinkaya Pullu
+    location: "Turkey"
+    followers: 9594
+    engagement: 1394
+    commentsToLikes: 0.161409
+    id: ck8t3cgo62qsy0j78b6gwj87u
     verified: false
-    hashtags: "#strongertogether, #prioritiesfirst, #pregnancy, #homedecor"
-  - username: "ellesenparlent"
+    hashtags: "#styhmbsf, #cumal, #dekorasyon, #gezi"
+  - username: "nthambe633"
     fullname: >-
-      Coralie L.
-    location: "France"
-    followers: 203094
-    engagement: 981
-    commentsToLikes: 0.061945
-    id: ck0u74czs3p6r0i192wxrrn1s
+      Nthambe Raselabe 🇿🇦
+    location: "United States"
+    followers: 22511
+    engagement: 1295
+    commentsToLikes: 0.078711
+    id: ckapa7hngv1290i78ln4q3jn4
     verified: false
-    hashtags: ""
+    hashtags: "#zarawomen, #bikerjackets, #easylook, #ootdfashion"
+  - username: "1corinthians13_love"
+    fullname: >-
+      💗Emma Mae Jenkins☀️
+    location: "United States"
+    followers: 147184
+    engagement: 1286
+    commentsToLikes: 0.062456
+    id: ckaovrecf5tto0i78vvi7owtu
+    verified: false
+    hashtags: "#makemeamcdaniel, #healthcare"
+  - username: "ourtasteforlife"
+    fullname: >-
+      CHARLOTTE ♡ NATALIE 𖤥 UK
+    location: "United Kingdom"
+    followers: 24570
+    engagement: 1278
+    commentsToLikes: 0.095989
+    id: ck5zqz6k2vl810i14cmyqbzfl
+    verified: false
+    hashtags: "#lesbianstyle, #winter, #bakingfun, #brighton"
 ---

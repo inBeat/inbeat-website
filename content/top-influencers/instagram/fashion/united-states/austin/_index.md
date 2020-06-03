@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Austin In 2020
 description: >-
-  Find top fashion Instagram influencers in Austin in 2020. Most popular hashtags: #austin #fashion #love #austintexas.
+  Find top fashion Instagram influencers in Austin in 2020. Most popular hashtags: #fashion #hair #eyes #austin.
 platform: Instagram
 profiles:
-  - username: "jannaortiz1"
-    fullname: >-
-      𝙅𝘼𝙉𝙉𝘼 𝙊𝙍𝙏𝙄𝙕
-    location: "United States"
-    followers: 2686
-    engagement: 1700
-    commentsToLikes: 0.062274
-    id: ck5q6e1jrx0dy0i11ssc44sp5
-    verified: false
-    hashtags: "#forever21, #softmakeup, #moodygrams, #makeuplooks"
-  - username: "matthewkazarianism"
-    fullname: >-
-      Matthew Kazarian
-    location: "United States"
-    followers: 15399
-    engagement: 298
-    commentsToLikes: 0.032887
-    id: ck5ciz2h3tnta0i1147vdl6a9
-    verified: false
-    hashtags: "#theriseofskywalker, #elevatehairacademy, #avedaartists, #elevatecolor"
-  - username: "queenofthesouth512"
-    fullname: >-
-      Patricia Plymire
-    location: "United States"
-    followers: 36637
-    engagement: 237
-    commentsToLikes: 0.036346
-    id: ck5chuczerhae0i11obepzebi
-    verified: false
-    hashtags: "#normal, #frequency, #barberevo, #conciousness"
-  - username: "serenitylange"
-    fullname: >-
-      Serenity Lange™
-    location: "United States"
-    followers: 38978
-    engagement: 369
-    commentsToLikes: 0.026055
-    id: ck13cm2gt10f40i19yye65hkf
-    verified: false
-    hashtags: "#livefully, #weight, #noapologies, #laugh"
-  - username: "anapeli_"
-    fullname: >-
-      ANA
-    location: "United States"
-    followers: 5905
-    engagement: 459
-    commentsToLikes: 0.057906
-    id: ck8syjs62l12a0j780ed09gnj
-    verified: false
-    hashtags: "#tomboystyle, #satxfashionblogger, #messageoftheday, #fashioninfluencer"
   - username: "zestysups"
     fullname: >-
       Supriya|Austin Fashion Blogger
     location: "United States"
-    followers: 20894
-    engagement: 224
-    commentsToLikes: 0.175563
+    followers: 20432
+    engagement: 244
+    commentsToLikes: 0.203204
     id: ck5q9r750ckgr0i11mhonf321
     verified: false
-    hashtags: "#hairflip, #browngirlbloggers, #offshoulderdress, #fashionista"
-  - username: "topdrawerboudoir"
+    hashtags: "#blingedup, #mvmtforher, #makeupaddict, #springdecor"
+  - username: "rosie.newberry"
     fullname: >-
-      Jamie
+      Rosie Newberry
     location: "United States"
-    followers: 14799
-    engagement: 260
-    commentsToLikes: 0.017467
-    id: ck5c7gx877imk0i116to8ewck
+    followers: 2456
+    engagement: 1528
+    commentsToLikes: 0.117058
+    id: ck15rhiep7yk30i190boijt2n
     verified: false
-    hashtags: "#lover, #beach, #topdrawerboudoir, #boudoir"
-  - username: "lacedandfound"
+    hashtags: "#trainer, #journaling, #makeitsweetatx, #shopbartoncreek"
+  - username: "andressgarcia1"
     fullname: >-
-      LACED AND FOUND LLC
+      Andres Garcia
     location: "United States"
-    followers: 3136
-    engagement: 403
-    commentsToLikes: 0.074664
-    id: ck6ttll01bahk0j71sthbvcl1
+    followers: 17556
+    engagement: 549
+    commentsToLikes: 0.051662
+    id: ck6u1yp0moohb0j71sbzdr9iq
     verified: false
-    hashtags: "#graffitiuniverse, #graff, #bronxgraff, #angryvandals"
+    hashtags: "#ipanema, #cheatmeal, #foodporn, #instafood"
+  - username: "marianazarag"
+    fullname: >-
+      Mariana | Austin Mom + Fashion
+    location: "United States"
+    followers: 5870
+    engagement: 786
+    commentsToLikes: 0.186959
+    id: ck0w2v728qbn70i193zi2qpx2
+    verified: false
+    hashtags: "#seekthepositivegiveaway, #ltkbaby, #ltkhome, #redefinebeauty"
+  - username: "treysphotostudio"
+    fullname: >-
+      Carlos Trey Salazar
+    location: "United States"
+    followers: 36517
+    engagement: 215
+    commentsToLikes: 0.022640
+    id: ck0u7dmlb4j800i19smx609sw
+    verified: false
+    hashtags: "#mensfashionpost, #nature, #rope, #numeromagazine"
+  - username: "nickwspalding"
+    fullname: >-
+      Nick Spalding
+    location: "United States"
+    followers: 14421
+    engagement: 751
+    commentsToLikes: 0.015285
+    id: ck15r7wt86l8t0i1922mdwsbw
+    verified: false
+    hashtags: "#nyc, #fitness, #california, #mensfashion"
+  - username: "str8upgayawards"
+    fullname: >-
+      Str8UpGayPorn Awards
+    location: "United States"
+    followers: 6033
+    engagement: 458
+    commentsToLikes: 0.013934
+    id: ck5zuadlb1zkf0i143aaze8dg
+    verified: false
+    hashtags: "#gayfashion, #gayadultfilmstar, #austinwolf, #str8upgaysummit"
   - username: "sopo.snaps"
     fullname: >-
       Sopo Snaps
     location: "United States"
-    followers: 239810
+    followers: 236812
     engagement: 338
-    commentsToLikes: 0.011436
+    commentsToLikes: 0.012583
     id: ck14lrfnlw4cw0i19ufea0ink
     verified: false
-    hashtags: "#kidshairstyles, #vogue, #menshair, #christmas"
-  - username: "mckennamalonemolt"
+    hashtags: "#learnathome, #vlogmas, #viralvideos, #kidinfluencers"
+  - username: "og_dick_run_claire"
     fullname: >-
-      MCKENNA MOLT ♡
+      Claire Wyckoff
     location: "United States"
-    followers: 6599
-    engagement: 857
-    commentsToLikes: 0.045508
-    id: ck13bo8drwd2i0i198t165fob
+    followers: 13008
+    engagement: 326
+    commentsToLikes: 0.101014
+    id: ck1360j9045m20i19y15hq3vi
     verified: false
-    hashtags: "#lollipopbabymonitor, #lollipopbabycamera, #liketkit, #ltkunder50"
+    hashtags: "#summer, #dicktoot, #workout, #fitness"
+  - username: "ultraviolentmakeup"
+    fullname: >-
+      ｄａｖｉｄ  🌸  ｓｔｅｒｎｂｅｒｇ
+    location: "United States"
+    followers: 97286
+    engagement: 69
+    commentsToLikes: 0.033503
+    id: ck0vx3b9nwxbv0i198b8ydj9r
+    verified: false
+    hashtags: "#panicatthedisco, #kendrascott, #devacurl, #devil"
 ---

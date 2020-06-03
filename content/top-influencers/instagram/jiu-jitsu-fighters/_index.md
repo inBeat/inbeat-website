@@ -1,107 +1,107 @@
 ---
 title: Top 10 Jiu-Jitsu Fighters Instagram Influencers In 2020
 description: >-
-  Find top jiu-jitsu fighters Instagram influencers in 2020. Most popular hashtags: #jiujitsu #bjj #ibjjf #jiujitsu4life.
+  Find top jiu-jitsu fighters Instagram influencers in 2020. Most popular hashtags: #bjjgirls #love #jiujitsu4life #jiujiteiras.
 platform: Instagram
 profiles:
+  - username: "ellem_hm"
+    fullname: >-
+      Ellem HM
+    location: "Brazil"
+    followers: 19240
+    engagement: 1489
+    commentsToLikes: 0.063356
+    id: ck9hb49oefcf40j78m2tasjoe
+    verified: false
+    hashtags: "#nutricionista, #marrentasbjj, #nutrition, #vidareal"
+  - username: "claracardoso.bjj"
+    fullname: >-
+      🔱🦊👑
+    location: "Brazil"
+    followers: 3344
+    engagement: 2670
+    commentsToLikes: 0.106544
+    id: ck8t7pdi2hjvd0j78818bi0u9
+    verified: false
+    hashtags: "#jiujitsuwomen, #jiujitsuraiz, #jiujitsufamily, #jiujitsubrasil"
   - username: "ju_amaral_bjj"
     fullname: >-
       Juliana Amaral
     location: "Brazil"
-    followers: 31646
-    engagement: 887
-    commentsToLikes: 0.057292
+    followers: 34360
+    engagement: 869
+    commentsToLikes: 0.039530
     id: ck8t3srub4col0j78jxdz24b9
     verified: false
-    hashtags: "#jiujitsu, #bjj, #flamengo"
-  - username: "yodchatri"
-    fullname: >-
-      Chatri Sityodtong
-    location: "Brazil"
-    followers: 63288
-    engagement: 853
-    commentsToLikes: 0.268064
-    id: ck5bzyyfos3xs0i11rcvxr9t9
-    verified: true
-    hashtags: "#weareone, #apprenticeone, #gratitude"
-  - username: "pedromachadooo"
-    fullname: >-
-      Pedro Machado
-    location: "Brazil"
-    followers: 10395
-    engagement: 978
-    commentsToLikes: 0.070931
-    id: ck1392rejj87a0i19jwg811ms
-    verified: false
-    hashtags: "#repost, #ibjjflasvegasopen, #repost, #ibjjfeuropean2020"
-  - username: "claracardoso.bjj"
-    fullname: >-
-      japoquinha 🔥🦊
-    location: "Brazil"
-    followers: 2951
-    engagement: 2528
-    commentsToLikes: 0.089948
-    id: ck8t7pdi2hjvd0j78818bi0u9
-    verified: false
-    hashtags: "#jiujitsuforlife, #jiujitsubrasil, #jiujitsuraiz, #jiujitsuvideos"
-  - username: "mika.cristina_"
-    fullname: >-
-      Micaelle Cristina
-    location: "Brazil"
-    followers: 6332
-    engagement: 1340
-    commentsToLikes: 0.052796
-    id: ck5znucqtp63w0i146jvt7t0e
-    verified: false
-    hashtags: "#fightergirl, #luta, #sundayfunday, #bjjgirls"
+    hashtags: "#modelo, #liveliberdadeprovisoria, #xoxo, #errejota"
   - username: "ron_.levi"
     fullname: >-
       Ron Levi
     location: "Brazil"
-    followers: 218575
-    engagement: 1224
-    commentsToLikes: 0.018072
+    followers: 218936
+    engagement: 1078
+    commentsToLikes: 0.019723
     id: ck5hgspdp4jz00i11xbfssplu
     verified: false
-    hashtags: ""
-  - username: "sdotb"
+    hashtags: "#ninjaisrael2019"
+  - username: "abdula__isaev"
     fullname: >-
-      BJJ Purple Belt 🇦🇲
-    location: "Brazil"
-    followers: 18264
-    engagement: 442
-    commentsToLikes: 0.073304
-    id: ck0vyttvr5qqi0i19mib3epen
+      Abdula Isaev
+    location: "Russia"
+    followers: 24065
+    engagement: 469
+    commentsToLikes: 0.063655
+    id: ckaoyxbm4jfuo0i78m12g33gn
     verified: false
-    hashtags: "#muaythai, #dreamville, #martialarts, #muaythaitraining"
+    hashtags: "#fightnights, #bugatti, #tommyhilfiger, #carloscondit"
+  - username: "eduardoroquee"
+    fullname: >-
+      eduardo roque
+    location: "Brazil"
+    followers: 29033
+    engagement: 860
+    commentsToLikes: 0.023118
+    id: ckap2q1i9ztt30i78at9o17c4
+    verified: false
+    hashtags: "#supporttheunknown"
+  - username: "mika.cristina_"
+    fullname: >-
+      Micaelle
+    location: "Brazil"
+    followers: 7417
+    engagement: 1385
+    commentsToLikes: 0.056521
+    id: ck5znucqtp63w0i146jvt7t0e
+    verified: false
+    hashtags: "#challenge, #workhard, #treinorespons, #bjjvideos"
   - username: "amalamjahid"
     fullname: >-
       Amal Amjahid
     location: "Brazil"
-    followers: 13724
-    engagement: 2082
-    commentsToLikes: 0.025011
+    followers: 13792
+    engagement: 2001
+    commentsToLikes: 0.024573
     id: ck6tr0au5vzz30j718ezhptg2
     verified: false
-    hashtags: "#restezchezvous, #mfwb, #beactive, #merrychristmas"
+    hashtags: "#instagram, #mfwb, #fijlkam, #beactive"
   - username: "mestrearmandowriedt"
     fullname: >-
       Armando Wriedt
     location: "Brazil"
-    followers: 19894
-    engagement: 1244
-    commentsToLikes: 0.025305
+    followers: 19710
+    engagement: 1140
+    commentsToLikes: 0.023724
     id: ck5c7c5ni79140i11xzdhqkmp
     verified: false
-    hashtags: "#acrediteemvoce, #fighterwomen, #lembrancas, #judoka"
-  - username: "fabioarboleda"
+    hashtags: "#mestrearmandoviveemnossos, #armandowriedt, #fighterwomen, #redbelts"
+  - username: "emersonskill"
     fullname: >-
-      FABIO ARBOLEDA L⚡️
-    location: "Colombia"
-    followers: 34254
-    engagement: 463
-    commentsToLikes: 0.051378
-    id: ck6tuwi1jithm0j71puf9ijn1
+      Emerson Skill Pereira
+    location: "Brazil"
+    followers: 30783
+    engagement: 950
+    commentsToLikes: 0.023182
+    id: ckap3smdi4dxj0i78rg7mahai
     verified: false
-    hashtags: "#jiujitsu, #superregioneschallenge, #quedateencasa, #man"
+    hashtags: "#mscfantasia, #bbc2020, #crossfitgames, #teamsiri"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Music Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top music Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubai #dubailife #music #uae.
+  Find top music Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #love #corona #stayhome #blondehair.
 platform: Instagram
 profiles:
-  - username: "creightons"
-    fullname: >-
-      Sam Creighton
-    location: "United Arab Emirates"
-    followers: 5311
-    engagement: 986
-    commentsToLikes: 0.087494
-    id: ck15qcx3i295l0i19p0goc7dp
-    verified: false
-    hashtags: "#gotohellchallenge"
   - username: "richageorges"
     fullname: >-
       RICHA
     location: "United Arab Emirates"
-    followers: 18861
-    engagement: 622
-    commentsToLikes: 0.055932
+    followers: 18532
+    engagement: 660
+    commentsToLikes: 0.091157
     id: ck6tpuo7tn4xj0j71uredtbe7
     verified: true
-    hashtags: "#staysafe, #2020, #marketpanic"
-  - username: "lami_lachu"
-    fullname: >-
-      𝓛𝓪𝓴𝓼𝓱𝓶𝓲 𝓛𝓪𝓬𝓱𝓾𝔃
-    location: "United Arab Emirates"
-    followers: 369792
-    engagement: 305
-    commentsToLikes: 0.025806
-    id: ck15r7jxk6jbs0i19xqzqtvg4
-    verified: false
-    hashtags: "#godsowncountry, #keralaattraction, #keralagodsowncountry, #kerala360"
-  - username: "vivianhawat"
-    fullname: >-
-      Vivian Hawat
-    location: "United Arab Emirates"
-    followers: 19219
-    engagement: 1314
-    commentsToLikes: 0.014127
-    id: ck15uc8pxmg250i19zh51a8yw
-    verified: false
-    hashtags: "#familytime, #roadtrip, #whydis, #mynights"
+    hashtags: "#tb, #2020, #marketpanic, #staysafe"
   - username: "myglamgypsy"
     fullname: >-
       Rosh
     location: "United Arab Emirates"
-    followers: 25135
-    engagement: 184
-    commentsToLikes: 0.080610
+    followers: 29550
+    engagement: 192
+    commentsToLikes: 0.073428
     id: ck0w5yzr8641j0i193jsgznso
     verified: false
-    hashtags: "#seetheworld, #wonderwomanmakeup, #huaweiarabia, #igtravel"
-  - username: "stefanxredjimi"
+    hashtags: "#makeuptrend, #theartistedit, #tomfordbeauty, #foodie"
+  - username: "vivianhawat"
     fullname: >-
-      The Algerian With Attitude
+      Vivian Hawat
     location: "United Arab Emirates"
-    followers: 85744
-    engagement: 1028
-    commentsToLikes: 0.008124
-    id: ck5zr52t1vx4q0i14clwb6dww
+    followers: 19808
+    engagement: 1272
+    commentsToLikes: 0.014238
+    id: ck15uc8pxmg250i19zh51a8yw
     verified: false
-    hashtags: "#believethat, #otgenasis, #casanova2x, #lunchin"
+    hashtags: "#canttouchthis, #khamsamwah, #thursdayquotes, #whatisthis"
   - username: "harpistdubai"
     fullname: >-
       HARYOT | Harpist&Violist
     location: "United Arab Emirates"
-    followers: 5424
-    engagement: 1269
-    commentsToLikes: 0.061392
+    followers: 5472
+    engagement: 1325
+    commentsToLikes: 0.075836
     id: ck6tygihk3lcj0j71ilq0kjyw
     verified: false
-    hashtags: "#uae, #sharjahghosttown, #nationalday, #dress"
+    hashtags: "#video, #newvideo, #vienna, #entertainment"
   - username: "bellapapikyan"
     fullname: >-
       Bella Papikyan
     location: "United Arab Emirates"
-    followers: 6450
-    engagement: 637
-    commentsToLikes: 0.048832
+    followers: 6829
+    engagement: 663
+    commentsToLikes: 0.058874
     id: ck6tv3l5tjz5d0j714o9l09bj
     verified: false
-    hashtags: "#atlantisthepalm, #coffee, #dubailifestyle, #musiciansofdubai"
+    hashtags: "#savetheworld, #victory, #stayhome, #shooting"
+  - username: "swathi_kriz_nahh"
+    fullname: >-
+      Swathi Krishna
+    location: "United Arab Emirates"
+    followers: 10108
+    engagement: 1139
+    commentsToLikes: 0.018065
+    id: ck9wg94mfsdgz0j78mdiglgk2
+    verified: false
+    hashtags: "#nightout, #6epowerofpositivity, #quarantinelife, #flowers"
   - username: "linah.majali"
     fullname: >-
       Linah Majali | TV • Presenter
     location: "United Arab Emirates"
-    followers: 25393
-    engagement: 401
-    commentsToLikes: 0.022496
+    followers: 27604
+    engagement: 414
+    commentsToLikes: 0.022878
     id: ck5zqsjx7v7pu0i146il85hhq
     verified: false
-    hashtags: "#jordan, #captinandqueen, #feb2020, #thursday"
-  - username: "shillongchamberchoir"
+    hashtags: "#love, #stayhealthy, #liveyourlife, #blondehair"
+  - username: "lami_lachu"
     fullname: >-
-      Shillong Chamber Choir
+      𝓛𝓪𝓴𝓼𝓱𝓶𝓲 𝓛𝓪𝓬𝓱𝓾𝔃
     location: "United Arab Emirates"
-    followers: 7918
-    engagement: 1122
-    commentsToLikes: 0.011480
-    id: ck6uhfow38upb0j717i1nuf8p
+    followers: 463763
+    engagement: 160
+    commentsToLikes: 0.020752
+    id: ck15r7jxk6jbs0i19xqzqtvg4
     verified: false
-    hashtags: "#dubaitourism, #choirmusic, #choralmusic, #thebritishschoolnewdelhi"
+    hashtags: "#kerala, #may25, #keralaattraction, #may21st"
+  - username: "kenzamorsli"
+    fullname: >-
+      Kenza Morsli كنزة مرسلي
+    location: "United Arab Emirates"
+    followers: 1625630
+    engagement: 163
+    commentsToLikes: 0.047625
+    id: ck135el5t11ad0i19efmurthe
+    verified: false
+    hashtags: "#colors, #bohostyle, #corona, #boho"
+  - username: "ahmedhassan"
+    fullname: >-
+      Ahmed Hassan   أحمد حسن
+    location: "United Arab Emirates"
+    followers: 482865
+    engagement: 112
+    commentsToLikes: 0.022118
+    id: ck8td2gqi1l570j78d73a0rr3
+    verified: true
+    hashtags: "#lovindubai, #photolifestyle, #ahmedhassanstar, #mbcthexfactor"
 ---

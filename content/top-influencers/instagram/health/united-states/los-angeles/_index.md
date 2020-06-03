@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top health Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #model #la #fashion.
+  Find top health Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #health #selfcare #taylorswift.
 platform: Instagram
 profiles:
-  - username: "ninabaumer"
+  - username: "spinvillain"
     fullname: >-
-      NINA BAUMER
+      David Zint
     location: "United States"
-    followers: 7296
-    engagement: 625
-    commentsToLikes: 0.078203
-    id: ck6u1pydln6up0j71bqwwhvkd
+    followers: 15822
+    engagement: 445
+    commentsToLikes: 0.084669
+    id: ck0w68kzc7dro0i19jxcr2wgn
     verified: false
-    hashtags: "#fila, #womenempowerment, #selfie, #songoftheday"
-  - username: "maury_bruce"
+    hashtags: "#outnow, #unity, #fitspo, #motivation"
+  - username: "amal_saidanaa"
     fullname: >-
-      Maury B.
+      Amal saidana Mechergui👰🤵❤
     location: "United States"
-    followers: 3163
-    engagement: 1061
-    commentsToLikes: 0.086913
-    id: ck0u2n96g0gbt0i19tbtyo94j
+    followers: 22250
+    engagement: 352
+    commentsToLikes: 0.200736
+    id: ck6ufv1myzarh0j71a6tl26fm
     verified: false
-    hashtags: "#photoshoot, #birthday, #fitnessmotivation, #hypebeaststyle"
-  - username: "realfoodology"
-    fullname: >-
-      COURTNEY SWAN Realfoodology™
-    location: "United States"
-    followers: 108036
-    engagement: 113
-    commentsToLikes: 0.044895
-    id: ck0w0wt05gf1g0i19ij1ohw4s
-    verified: false
-    hashtags: "#itsjustperfect, #lesserevilsnacks, #medterrapartner, #medterrabroadspectrum"
-  - username: "lyricspoetic"
-    fullname: >-
-      Lyric Perez 🇵🇷
-    location: "United States"
-    followers: 10542
-    engagement: 497
-    commentsToLikes: 0.058403
-    id: ck5ztni500rm10i14lv8rlugq
-    verified: false
-    hashtags: "#lighter, #love, #thegettymuseum, #reiki"
-  - username: "iamalexandreossey"
-    fullname: >-
-      Alexandre Ossey
-    location: "United States"
-    followers: 171770
-    engagement: 544
-    commentsToLikes: 0.005677
-    id: ck5pyee49vm1r0i11xb4s1cmw
-    verified: false
-    hashtags: "#mode, #travel, #women, #enjoy"
-  - username: "monti_wheeler"
-    fullname: >-
-      Monti Wheeler
-    location: "United States"
-    followers: 42859
-    engagement: 257
-    commentsToLikes: 0.068175
-    id: ck6u155h9jnlp0j71uo2jl2tn
-    verified: false
-    hashtags: "#happymonday, #myfabletics, #moveinfabletics"
+    hashtags: "#happylife, #fashiongram, #clothes, #beautyofnature"
   - username: "michellecarigma"
     fullname: >-
       MICHELLE CARIGMA
     location: "United States"
-    followers: 29577
-    engagement: 550
-    commentsToLikes: 0.036667
+    followers: 29796
+    engagement: 447
+    commentsToLikes: 0.039174
     id: ck6tshhcx4snf0j71tkgg1r0m
     verified: false
-    hashtags: "#redefiningfilipino, #nikesportswear, #ad, #sponsored"
-  - username: "mikemuellner"
+    hashtags: "#redefiningfilipino, #internationalwomensday, #ad, #medterrapartner"
+  - username: "kim_strother"
     fullname: >-
-      Mike Muellner, M.D.
+      Kim Strother
     location: "United States"
-    followers: 51553
-    engagement: 155
-    commentsToLikes: 0.056246
-    id: ck0vyamed31880i19xcu3g9tp
+    followers: 17762
+    engagement: 170
+    commentsToLikes: 0.122187
+    id: ck0vy0qgv1nzc0i191977v1hz
     verified: false
-    hashtags: "#socialdistancing, #flattenthecurve, #minutemd, #coronavirus"
+    hashtags: "#selfcare, #cbdhealth, #lymedisease, #memorialdayweekend"
   - username: "soukeyna"
     fullname: >-
       SouKeyna Diouf
     location: "United States"
-    followers: 87482
-    engagement: 934
-    commentsToLikes: 0.015457
+    followers: 86640
+    engagement: 860
+    commentsToLikes: 0.018150
     id: ck0vz37o872dh0i19x5qcj376
     verified: false
-    hashtags: "#foryourmoodboard, #bts, #linkinbio, #giftedbyadidas"
+    hashtags: "#foryourdamnself, #digitals, #fridaymood"
   - username: "mybeautybunny"
     fullname: >-
       Jen M 🐰 My Beauty Bunny Blog
     location: "United States"
-    followers: 80806
-    engagement: 140
-    commentsToLikes: 0.050124
+    followers: 79456
+    engagement: 130
+    commentsToLikes: 0.063038
     id: ck0vvybkjrbjk0i19alnpo9ez
     verified: false
-    hashtags: "#gifted, #kosascosmetics, #biohacking, #calmercanine"
+    hashtags: "#indiebeauty, #savepartner, #leapingbunnycertified, #urbandecaywired"
+  - username: "cori.story"
+    fullname: >-
+      Corinne Nicewick
+    location: "United States"
+    followers: 26375
+    engagement: 980
+    commentsToLikes: 0.015840
+    id: ck1384lfueh0w0i196kmj6kt2
+    verified: false
+    hashtags: "#push, #fitnesschallenge, #acro, #acrobat"
+  - username: "penberly"
+    fullname: >-
+      𝐏𝐞𝐧
+    location: "United States"
+    followers: 115250
+    engagement: 1011
+    commentsToLikes: 0.017410
+    id: ck8t1ukhqx34k0j78qpmcrxxc
+    verified: false
+    hashtags: "#updo, #clothingbrand, #princess, #cameratest"
+  - username: "iamkmishae"
+    fullname: >-
+      Kyi
+    location: "United States"
+    followers: 4904
+    engagement: 1110
+    commentsToLikes: 0.059077
+    id: ck8sy7s2pk0r20j78b41gffqk
+    verified: false
+    hashtags: "#pisces, #mommiana, #girlmom, #bossmami"
+  - username: "nitajonez"
+    fullname: >-
+      PRETTY SAVAGE
+    location: "United States"
+    followers: 5303
+    engagement: 470
+    commentsToLikes: 0.119301
+    id: ck6uhbtys87m40j71jx8co1uq
+    verified: false
+    hashtags: "#lafemaleartist, #femaleartist, #maillady, #candy"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Peru In 2020
 description: >-
-  Find top food Instagram influencers in Peru in 2020. Most popular hashtags: #peru #lima #yomequedoencasa #travel.
+  Find top food Instagram influencers in Peru in 2020. Most popular hashtags: #hamburguesa #sopa #churros #dulces.
 platform: Instagram
 profiles:
   - username: "veggienazi"
     fullname: >-
       NAZARENA GARCÍA-RADA
     location: "Peru"
-    followers: 39106
-    engagement: 2107
-    commentsToLikes: 0.050599
+    followers: 40683
+    engagement: 2173
+    commentsToLikes: 0.042279
     id: ck6u7eyral4910j71g3r37h1k
     verified: false
     hashtags: "#blankitosoutofcontext"
+  - username: "traveloveroma"
+    fullname: >-
+      Sandra℠
+    location: "Peru"
+    followers: 66462
+    engagement: 242
+    commentsToLikes: 0.054374
+    id: ck0u6gva120ht0i19m2dnegse
+    verified: false
+    hashtags: "#perutravel, #miraflores, #newyorknewyork, #cahuita"
+  - username: "placeresculpososblog"
+    fullname: >-
+      Magda Pérez G.
+    location: "Peru"
+    followers: 8696
+    engagement: 1182
+    commentsToLikes: 0.057975
+    id: ck9haxy7nejmw0j788nvfr17v
+    verified: false
+    hashtags: "#almuerzo, #chifa, #comidafusion, #arroztapado"
   - username: "manu___mg"
     fullname: >-
       Manu
     location: "Peru"
-    followers: 3042
-    engagement: 2647
-    commentsToLikes: 0.027905
+    followers: 3331
+    engagement: 2712
+    commentsToLikes: 0.029323
     id: ck6tucbacfiqx0j71qsyjhil9
     verified: false
-    hashtags: "#yungry, #instatravelling, #sceneryphotography, #naturelovers"
+    hashtags: "#fontana, #lights, #foodmarket, #park"
   - username: "enjoy_eat_lima"
     fullname: >-
       Enjoy Eat Lima
     location: "Peru"
-    followers: 20731
-    engagement: 158
-    commentsToLikes: 0.116528
+    followers: 22728
+    engagement: 182
+    commentsToLikes: 0.085739
     id: ck8swpuivetqi0j78gdt4cwt0
     verified: false
-    hashtags: "#enjoy, #foodlover, #comidaperuana, #piedelimon"
+    hashtags: "#lomosaltado, #empanada, #aceituna, #hamburguesas"
+  - username: "turtleswithoutboundaries"
+    fullname: >-
+      CHRIS & ANGEL | Travel Writers
+    location: "Peru"
+    followers: 5172
+    engagement: 856
+    commentsToLikes: 0.042021
+    id: ck14j8kgfj3bq0i194yf68g9c
+    verified: false
+    hashtags: "#lakeperu, #londonersabroad, #exploreindonesia, #castleinthesky"
+  - username: "tirifilo.foodphotography"
+    fullname: >-
+      Food Photography
+    location: "Peru"
+    followers: 3995
+    engagement: 1715
+    commentsToLikes: 0.039484
+    id: ckaotpxnkwyya0i78nyhu215v
+    verified: false
+    hashtags: "#pineapple, #zucaritas, #aguadito, #pizzalove"
   - username: "instafoodperu"
     fullname: >-
       Peruvian Food
     location: "Peru"
-    followers: 92510
-    engagement: 199
-    commentsToLikes: 0.019352
+    followers: 101969
+    engagement: 189
+    commentsToLikes: 0.014362
     id: ck15qse6e4end0i19vdt5b7b6
     verified: false
-    hashtags: "#yococinoencasa, #instafoodperu"
+    hashtags: ""
+  - username: "buenazotuplato"
+    fullname: >-
+      Diana Zegarra | buenazotuplato
+    location: "Peru"
+    followers: 7996
+    engagement: 1234
+    commentsToLikes: 0.042499
+    id: ck9wf8cw5nnya0j78y6hzpt3i
+    verified: false
+    hashtags: "#lunesdelentejas, #paparellena, #sanguche, #throwback"
   - username: "mohsinkazmitakespictures"
     fullname: >-
       Mohsin Kazmi
     location: "Peru"
-    followers: 30273
-    engagement: 121
-    commentsToLikes: 0.017721
+    followers: 30250
+    engagement: 110
+    commentsToLikes: 0.017580
     id: ck0u7nwlj56it0i195xbvaxf4
     verified: false
     hashtags: ""
-  - username: "copenhagen_foodie"
-    fullname: >-
-      Peter Atzen
-    location: "Peru"
-    followers: 43954
-    engagement: 122
-    commentsToLikes: 0.014005
-    id: ck15sv0ezextg0i19rqo0144a
-    verified: false
-    hashtags: "#beayni, #todayforyoutomorrowforme, #quarentinefood, #burger"
-  - username: "chinozumaeta"
-    fullname: >-
-      Chino Zumaeta
-    location: "Peru"
-    followers: 6988
-    engagement: 577
-    commentsToLikes: 0.028624
-    id: ck8szensio46q0j78jttcllvb
-    verified: false
-    hashtags: "#skateperu, #backward, #peru, #elpamponavirus"
-  - username: "healthy_pleasure"
-    fullname: >-
-      𝗦𝘆𝗹𝘃𝗶𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 𝗩𝗲𝗹𝗲𝘇
-    location: "Peru"
-    followers: 44969
-    engagement: 202
-    commentsToLikes: 0.029373
-    id: ck5zlrnnbl9gc0i14k1khb4zx
-    verified: true
-    hashtags: "#hotelroyalhoian, #vietnam, #seamossolidarios, #chinesenewyear2020"
-  - username: "pechufree_glutenfree"
-    fullname: >-
-      PechuFree | Glutenfree Blog 🌿
-    location: "Peru"
-    followers: 42104
-    engagement: 80
-    commentsToLikes: 0.032518
-    id: ck0vz0aet6nki0i19p280n3c3
-    verified: false
-    hashtags: "#corona, #per, #keepcalm, #mentalhealth"
-  - username: "catrina.catstyle"
-    fullname: >-
-      FABICATRINA💙
-    location: "Peru"
-    followers: 19176
-    engagement: 494
-    commentsToLikes: 0.109813
-    id: ck0w1gfctj7vm0i196s2nzml5
-    verified: false
-    hashtags: "#photooftheday, #lookoftheday, #culturapositiva, #styleoftheday"
 ---

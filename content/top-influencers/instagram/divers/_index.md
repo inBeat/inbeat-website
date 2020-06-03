@@ -1,107 +1,107 @@
 ---
 title: Top 10 Divers Instagram Influencers In 2020
 description: >-
-  Find top divers Instagram influencers in 2020. Most popular hashtags: #ocean #travel #quarantine #dressedindisney.
+  Find top divers Instagram influencers in 2020. Most popular hashtags: #sunsets #ladiestraveller #period #leuser.
 platform: Instagram
 profiles:
-  - username: "modismagic"
+  - username: "jaixbooks"
     fullname: >-
-      M O R G A N ✨
-    location: "United States"
-    followers: 3089
-    engagement: 1617
-    commentsToLikes: 0.152283
-    id: ck15rp7r490rx0i19nk5hvuwb
-    verified: false
-    hashtags: "#cheetahsisters, #pintrading, #avengerscampus, #disneychannel"
-  - username: "mariajazzi"
-    fullname: >-
-      Maria|ماريا
-    location: ""
-    followers: 5676
-    engagement: 866
-    commentsToLikes: 0.109343
-    id: ck6tj70j524ov0j71isqiljk5
-    verified: false
-    hashtags: "#snowday, #snowdays, #photooftheday, #canonphotography"
-  - username: "lalenetta"
-    fullname: >-
-      Elena - EMS the travel girl
-    location: "Italy"
-    followers: 25061
-    engagement: 339
-    commentsToLikes: 0.127966
-    id: ck8tae3rcrdyp0j785kboi5r6
-    verified: false
-    hashtags: "#pool, #instatravel, #lowcost, #travelguide"
-  - username: "mari_mep"
-    fullname: >-
-      Maristela
+      Jai | Aprendi Com os Livros 📚
     location: "Brazil"
-    followers: 2634
-    engagement: 1966
-    commentsToLikes: 0.102909
-    id: ck8t8wlkvm48e0j78rccfe836
+    followers: 9432
+    engagement: 1911
+    commentsToLikes: 0.637676
+    id: ckaoxp66pe7dw0i78phxwomru
     verified: false
-    hashtags: "#carnario, #minasgerais, #sheisnotlost, #meurio"
-  - username: "lifein20kg"
+    hashtags: "#jaixresenha, #osoldameianoite, #midnightsun, #annedegreengables"
+  - username: "mylyf_in_a_bag"
     fullname: >-
-      Martyna Skura || Scuba Diving
-    location: "Poland"
-    followers: 30129
-    engagement: 283
-    commentsToLikes: 0.060323
-    id: ck6toduigdicp0j719wan070l
+      Manya Vittal | Travel & 📸
+    location: "India"
+    followers: 8383
+    engagement: 1669
+    commentsToLikes: 0.086352
+    id: ckaov6iha39rj0i788iz6esf7
     verified: false
-    hashtags: "#walentynkibezbalon, #blondegirlincaribbean, #zrozumiecchiny, #walentynkibezbrokatu"
-  - username: "finfelicia"
+    hashtags: "#dubai, #sunflower, #simplyabudhabi, #mydubailife"
+  - username: "downsyndrome_queen"
     fullname: >-
-      Felicia 🇲🇽🌼🇻🇳
+      Enya
     location: "United States"
-    followers: 4196
-    engagement: 1675
-    commentsToLikes: 0.104666
-    id: ck14hvt62cdom0i19ljyppdmy
+    followers: 14019
+    engagement: 1289
+    commentsToLikes: 0.119003
+    id: ck8ta9xrmqy2s0j78i2xwrx07
     verified: false
-    hashtags: "#almostthere, #dapperday, #nightmarebeforechristmas, #hocuspocus"
-  - username: "jugandoconaby"
+    hashtags: "#dontrushchallenge, #downsyndrome, #sindromededown, #girlsdownsyndrome"
+  - username: "mikkechickk"
     fullname: >-
-      Jugando con Aby
-    location: "Argentina"
-    followers: 107894
-    engagement: 366
-    commentsToLikes: 0.037393
-    id: ck0w442itwpaz0i19hulemnr0
-    verified: false
-    hashtags: "#japon, #locosporelslime, #mandallachallenge, #barcos"
-  - username: "jovankalexndra"
-    fullname: >-
-      ✨🌜Jovanka R Alexandra🌛✨
-    location: "Indonesia"
-    followers: 39833
-    engagement: 786
-    commentsToLikes: 0.015371
-    id: ck14i7k21e1920i19ebi6p017
-    verified: false
-    hashtags: "#exsportxshanetortilla, #campinaicecream, #campinaconcerto, #instaxgives"
-  - username: "emrehoogduijn"
-    fullname: >-
-      Emre Hoogduijn
+      Mikky
     location: "Netherlands"
-    followers: 2516
-    engagement: 2032
-    commentsToLikes: 0.083537
-    id: ck5zxkqku876t0i14v2nfsig6
+    followers: 5686
+    engagement: 1862
+    commentsToLikes: 0.063766
+    id: ck8t32j2n1lmo0j78t2352zjd
     verified: false
-    hashtags: "#klimaatstaking, #jarig, #d66, #quarantine"
-  - username: "emkirley"
+    hashtags: "#tbt, #throwback, #egypt, #hurghada"
+  - username: "leenaalfishawyofficial"
     fullname: >-
-      Em
-    location: "United States"
-    followers: 6525
-    engagement: 962
-    commentsToLikes: 0.052220
-    id: ck8wgi3pehesc0j78zt6wpf4o
+      LEENA FAROUK ALFISHAWY
+    location: "United Kingdom"
+    followers: 42279
+    engagement: 490
+    commentsToLikes: 0.059927
+    id: ckap6agsvf2tq0i78hyrj98qg
     verified: false
-    hashtags: "#surgergirk, #remotework, #waterfilter, #kook"
+    hashtags: "#reneezellweger, #ntu, #influencer, #creativity"
+  - username: "brydenhattie"
+    fullname: >-
+      Bryden Hattie
+    location: "Canada"
+    followers: 8943
+    engagement: 1654
+    commentsToLikes: 0.043029
+    id: ck9hcy43cng0e0j78b9l5p5un
+    verified: false
+    hashtags: "#yougotadollar, #uptown, #diving, #period"
+  - username: "maryamcheriff"
+    fullname: >-
+      Maryam Cherif
+    location: "Italy"
+    followers: 349384
+    engagement: 1441
+    commentsToLikes: 0.020477
+    id: ck8wd13azd9p10j78ujz2jdi6
+    verified: false
+    hashtags: "#techno, #dance, #hiphopdance, #technogirl"
+  - username: "satyawinnie"
+    fullname: >-
+      Satya Winnie | Travel Blogger
+    location: "Indonesia"
+    followers: 33605
+    engagement: 436
+    commentsToLikes: 0.093384
+    id: ck138jc7ggi650i19vaskllcv
+    verified: false
+    hashtags: "#leuserecosystem, #kupang, #ketambe, #goproid"
+  - username: "stephanies_travels"
+    fullname: >-
+      STEPHANIE | TRAVEL
+    location: "United States"
+    followers: 4050
+    engagement: 1744
+    commentsToLikes: 0.165456
+    id: ckaosvz62t9g60i78614ogsld
+    verified: false
+    hashtags: "#barcelonaspain, #dametraveler, #switzerland, #coronacoaster"
+  - username: "giannibismark"
+    fullname: >-
+      Gianni Bismark
+    location: "Italy"
+    followers: 131571
+    engagement: 1833
+    commentsToLikes: 0.019476
+    id: ckaouanq5zjgs0i78cq0cdklu
+    verified: true
+    hashtags: ""
 ---

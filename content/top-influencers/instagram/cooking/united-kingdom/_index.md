@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top cooking Instagram influencers in United Kingdom in 2020. Most popular hashtags: #london #staysafe #ad #cornerofmyhome.
+  Find top cooking Instagram influencers in United Kingdom in 2020. Most popular hashtags: #london #summervibes #pasta #lockdownlife.
 platform: Instagram
 profiles:
+  - username: "theblondeflamingo"
+    fullname: >-
+      Dominika| London Blogger
+    location: "United Kingdom"
+    followers: 81314
+    engagement: 235
+    commentsToLikes: 0.185141
+    id: ck0tu5ihf5q9m0i197h6xrhfk
+    verified: false
+    hashtags: "#coastalhome, #blooooms, #bambooladder, #athomespa"
   - username: "stealmystyle40"
     fullname: >-
       Abi 💕
     location: "United Kingdom"
-    followers: 42857
-    engagement: 226
-    commentsToLikes: 0.309244
+    followers: 43698
+    engagement: 258
+    commentsToLikes: 0.294060
     id: ck0u27hw9z1q00i19fcmfrdjt
     verified: false
-    hashtags: "#eclecticdecor, #goldbracelet, #hallwayinspo, #asseenonme"
+    hashtags: "#laddershelf, #myhouseandhome, #pewithjoe, #happyathome"
   - username: "olga_manciu"
     fullname: >-
       Olga Manciu
     location: "United Kingdom"
-    followers: 43504
-    engagement: 488
-    commentsToLikes: 0.030988
+    followers: 44194
+    engagement: 452
+    commentsToLikes: 0.026348
     id: ck15thjsji3x60i19lqmij61g
     verified: false
-    hashtags: "#after, #londonbridge, #shooting, #virus"
-  - username: "jodiekiddoffical"
-    fullname: >-
-      Jodie Kidd
-    location: "United Kingdom"
-    followers: 86711
-    engagement: 129
-    commentsToLikes: 0.067567
-    id: ck0u8kp3q7jyt0i194evrlnmg
-    verified: true
-    hashtags: "#restaurant, #fundraising, #bodenbyme, #grateful"
+    hashtags: "#questions, #walks, #sunset, #part"
   - username: "kendal_o"
     fullname: >-
       Kendal Yoga
     location: "United Kingdom"
-    followers: 65605
-    engagement: 229
-    commentsToLikes: 0.033316
+    followers: 65198
+    engagement: 233
+    commentsToLikes: 0.036661
     id: ck6tt4j808k1v0j7189zuzn96
     verified: false
-    hashtags: "#fancythat, #london, #pregnant, #pregnancyannouncement"
+    hashtags: "#babybump, #gratitude, #fancythat, #london"
+  - username: "marwahabaoui"
+    fullname: >-
+      𝗖𝘂𝗿𝗹𝘆 𝙈𝙖𝙧𝙬𝙖 🇲🇦🇬🇧
+    location: "United Kingdom"
+    followers: 31557
+    engagement: 359
+    commentsToLikes: 0.031586
+    id: ck6u5nr9aap0b0j719pa2razl
+    verified: false
+    hashtags: "#ramadan, #ramadan2020, #eid2020"
+  - username: "letsdothissteph"
+    fullname: >-
+      Stephanie Louise Ede
+    location: "United Kingdom"
+    followers: 8218
+    engagement: 876
+    commentsToLikes: 0.021732
+    id: ck0twxmuxh6pv0i19zzd6d8e6
+    verified: false
+    hashtags: "#garmin, #helpforheroes, #runforheroes, #myhappyplace"
   - username: "ratatouille_london"
     fullname: >-
       Ratatouille
     location: "United Kingdom"
-    followers: 4012
-    engagement: 2084
-    commentsToLikes: 0.425440
+    followers: 5235
+    engagement: 2203
+    commentsToLikes: 0.443230
     id: ck5zzt6fwcdry0i148udzuopp
     verified: false
-    hashtags: "#peas, #eathealthy, #foodpics, #eeeeats"
-  - username: "clarezerny"
+    hashtags: "#plates, #summervibes, #heresmyfood, #eating"
+  - username: "swoon_love"
     fullname: >-
-      The Vintage Kitchen
+      Emma
     location: "United Kingdom"
-    followers: 20408
-    engagement: 659
-    commentsToLikes: 0.058514
-    id: ck0tu6wdn5whj0i19adazhh7h
+    followers: 13484
+    engagement: 302
+    commentsToLikes: 0.180855
+    id: ck55jh3e3x0r10i11jk09sp31
     verified: false
-    hashtags: "#shakerkitchen, #sulkingroompink, #peterrabbit, #help"
-  - username: "tashalitas"
+    hashtags: "#fuckoffcorona, #themadhatter, #missmygirls, #fuckyoucorona"
+  - username: "compassionatelynatalie"
     fullname: >-
-      Natasha Halevi (Gunn)
+      Natalie 🌻
     location: "United Kingdom"
-    followers: 9043
-    engagement: 455
-    commentsToLikes: 0.054939
-    id: ck0tvi31abg8d0i1918s3011g
+    followers: 2948
+    engagement: 2229
+    commentsToLikes: 0.402222
+    id: ck6txgg9cxp3y0j71omcwd6tb
     verified: false
-    hashtags: "#bathtub, #thebusiness, #weddinginspiration, #weddingbouquet"
-  - username: "frankiepdarling"
+    hashtags: "#timeofthemonthproblems"
+  - username: "where2eatlondon"
     fullname: >-
-      
+      Finding The Best Food For You.
     location: "United Kingdom"
-    followers: 9970
-    engagement: 3432
-    commentsToLikes: 0.008718
-    id: ck8t0ybiyts9j0j78fz0sy4wa
+    followers: 6673
+    engagement: 1056
+    commentsToLikes: 0.100823
+    id: ckaoyo4m0ibtr0i78662i0k62
     verified: false
-    hashtags: "#milkmakeup, #inbeautmag, #crueltyfreebeauty, #lockdownlooks"
-  - username: "british_cook"
-    fullname: >-
-      🇬🇧 BRITISH COOK 🇬🇧 TASTY FOOD
-    location: "United Kingdom"
-    followers: 9007
-    engagement: 735
-    commentsToLikes: 0.172784
-    id: ck8tdfhk135tu0j78s268ouk3
-    verified: false
-    hashtags: "#chutney, #englishfood, #cookingskills, #eatitright"
-  - username: "foodieglobetrotter"
-    fullname: >-
-      Foodie Globetrotter (Lilia)
-    location: "United Kingdom"
-    followers: 3358
-    engagement: 1353
-    commentsToLikes: 0.118642
-    id: ck5zzqph6c90n0i14o1tubcqo
-    verified: false
-    hashtags: "#wien, #europethisway, #maltaphotography, #loves"
+    hashtags: "#shrimptank, #fishdinner, #smoothiebowl, #foodislove"
 ---

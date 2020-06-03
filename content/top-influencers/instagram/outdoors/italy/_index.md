@@ -1,107 +1,107 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In Italy In 2020
 description: >-
-  Find top outdoors Instagram influencers in Italy in 2020. Most popular hashtags: #nature #mountains #alps #mountaingirl.
+  Find top outdoors Instagram influencers in Italy in 2020. Most popular hashtags: #mountainlovers #mountainlife #iorestoacasa #italy.
 platform: Instagram
 profiles:
+  - username: "patrizia_ambrosi"
+    fullname: >-
+      PATRIZIA AMBROSI
+    location: "Italy"
+    followers: 17380
+    engagement: 550
+    commentsToLikes: 0.047486
+    id: ck55nazt65tx10i11135blg7z
+    verified: false
+    hashtags: "#motto, #happy, #gardalake, #poser"
   - username: "liiisaho"
     fullname: >-
       Lisa Hofer
     location: "Italy"
-    followers: 7146
-    engagement: 1611
-    commentsToLikes: 0.014086
+    followers: 7322
+    engagement: 1543
+    commentsToLikes: 0.014966
     id: ck13ae6wgpybs0i19wv4c9r3w
     verified: false
-    hashtags: "#magic, #getoutside, #placetobe, #mountainstories"
-  - username: "98sotty"
-    fullname: >-
-      Stefano Sottile
-    location: "Italy"
-    followers: 6349
-    engagement: 1838
-    commentsToLikes: 0.011372
-    id: ck55o2ama7hno0i11lplniovp
-    verified: false
-    hashtags: "#tokyo2021, #highjump, #legend, #decathlon"
-  - username: "jenniferstieler_photography"
-    fullname: >-
-      Jennifer Stieler • Weddings
-    location: "Italy"
-    followers: 6193
-    engagement: 705
-    commentsToLikes: 0.216249
-    id: ck0ubsnrff9sy0i19y5yqmweo
-    verified: false
-    hashtags: "#toskanahochzeit, #voguebride, #pnwedding, #ruedeseinebridal"
-  - username: "nadiadelago"
-    fullname: >-
-      Nᴀᴅɪᴀ Dᴇʟᴀɢᴏ
-    location: "Italy"
-    followers: 8473
-    engagement: 1583
-    commentsToLikes: 0.015515
-    id: ck5q3219piugf0i11moftriy8
-    verified: false
-    hashtags: "#vallunga, #visitsouthtyrol, #hometraining, #leki"
+    hashtags: "#sunshine, #livelifeoitside, #skilocal, #quarantinelife"
   - username: "cekotto"
     fullname: >-
       FOUNDER of 👑@KINGS_HUBS_STAFF
     location: "Italy"
-    followers: 11541
-    engagement: 1781
-    commentsToLikes: 0.120775
+    followers: 11498
+    engagement: 1826
+    commentsToLikes: 0.118672
     id: ck0tznsvlr2jb0i19hswf7nix
     verified: false
     hashtags: ""
-  - username: "magdalenamst"
+  - username: "ninomiklavec"
     fullname: >-
-      Magdalena Mittersteiner
+      Nino - GoPro Adventures
     location: "Italy"
-    followers: 93798
-    engagement: 453
-    commentsToLikes: 0.007562
-    id: ck0vw6vr7sdmm0i191lg8vicc
+    followers: 8024
+    engagement: 1358
+    commentsToLikes: 0.018764
+    id: ck5cimvthsyb10i11khwudni9
     verified: false
-    hashtags: "#running, #mammut, #nordic, #iorestoacasa"
-  - username: "running_ida"
+    hashtags: "#havingfun, #koper, #seaside, #camplife"
+  - username: "kimimesco"
     fullname: >-
-      Ida-Sophie Hegemann
+      Michele Mescolin | Italy
     location: "Italy"
-    followers: 5828
-    engagement: 1962
-    commentsToLikes: 0.013062
-    id: ck0vv404infvz0i19fz0y3puz
+    followers: 17467
+    engagement: 633
+    commentsToLikes: 0.051002
+    id: ck6tossjffwor0j71naew7hy2
     verified: false
-    hashtags: "#timetoplay, #silva, #relive, #italy"
-  - username: "mougly1976"
+    hashtags: "#heatednectar, #kobeoptics, #primetonez, #liveoutdoors"
+  - username: "filpix"
     fullname: >-
-      Gianluca Musmeci | Landscape
+      FILIP | travel photographer
     location: "Italy"
-    followers: 7367
-    engagement: 1874
-    commentsToLikes: 0.069214
-    id: ck13582u906150i19crhoctt6
+    followers: 67152
+    engagement: 549
+    commentsToLikes: 0.024507
+    id: ck8t50ksu8gb50j783qm4u3y5
     verified: false
-    hashtags: "#colors, #moodygrams, #welcometosicilia, #italy"
-  - username: "wernerheel"
+    hashtags: ""
+  - username: "whiteyienz"
     fullname: >-
-      Werner Heel ⛷🤗🚀😁😃
+      Vincenzo Puzzo
     location: "Italy"
-    followers: 26075
-    engagement: 305
-    commentsToLikes: 0.011540
-    id: ck5ztjoke0jlc0i14h007xga6
-    verified: true
-    hashtags: "#altoadige, #passi, #steveandfriends, #vinschgaubike"
-  - username: "federesega"
-    fullname: >-
-      Federico Resega
-    location: "Italy"
-    followers: 20469
-    engagement: 718
-    commentsToLikes: 0.065643
-    id: ck5pyhetuw1810i111ua17z81
+    followers: 14409
+    engagement: 823
+    commentsToLikes: 0.043544
+    id: ck8t3qqjd44x00j78t36cxyvs
     verified: false
-    hashtags: "#scendila, #bataleonsurfer, #seggiovirus, #spruzzala"
+    hashtags: "#northernlights, #iorestoacasa, #explorersffa, #snow"
+  - username: "gianluca.crocco"
+    fullname: >-
+      Gianluca Crocco | Landscape
+    location: "Italy"
+    followers: 2323
+    engagement: 1988
+    commentsToLikes: 0.067968
+    id: ckap32y0c1buk0i78nlx9tmhj
+    verified: false
+    hashtags: "#eisacktal, #antelao, #italia360gradi, #dronestagram"
+  - username: "pierpaolosa"
+    fullname: >-
+      Pierpaolo Salvatore | Photos
+    location: "Italy"
+    followers: 3824
+    engagement: 1949
+    commentsToLikes: 0.050148
+    id: ck8t3qef443jf0j78ocipqn08
+    verified: false
+    hashtags: "#yourabruzzo, #yallersabruzzo, #wildlifeaddicts, #animal"
+  - username: "wol.ph"
+    fullname: >-
+      Wild • Outdoor • Landscapes
+    location: "Italy"
+    followers: 4287
+    engagement: 2055
+    commentsToLikes: 0.037059
+    id: ck6ti8kx508vi0j71l2ssb65q
+    verified: false
+    hashtags: "#stayathome"
 ---

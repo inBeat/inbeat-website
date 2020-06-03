@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In New York In 2020
 description: >-
-  Find top christian Instagram influencers in New York in 2020. Most popular hashtags: #christian #newyork #coronavirus #quarantine.
+  Find top christian Instagram influencers in New York in 2020. Most popular hashtags: #christian #sponsored #beauty #ad.
 platform: Instagram
 profiles:
   - username: "thejudge44"
     fullname: >-
       Aaron Judge
     location: "United States"
-    followers: 1172041
-    engagement: 859
-    commentsToLikes: 0.009186
+    followers: 1183744
+    engagement: 769
+    commentsToLikes: 0.009861
     id: ck0tsyfl00g710i19xh9yb120
     verified: true
-    hashtags: "#sutro, #oakleyprizm, #waybackwednesday, #hometeam"
-  - username: "mclovinmartinez"
+    hashtags: "#givemealsgivehope, #jblxjudge, #sutro, #oakleyprizm"
+  - username: "justinmpacker"
     fullname: >-
-      Jacob Martinez
+      JUSTIN MARK PACKER
     location: "United States"
-    followers: 3324
-    engagement: 1446
-    commentsToLikes: 0.055448
-    id: ck0u29mamzbz60i19mxfq0fde
+    followers: 41064
+    engagement: 591
+    commentsToLikes: 0.065483
+    id: ck8szs3enpian0j78tzf3wc28
     verified: false
-    hashtags: "#pose, #edits, #roads, #print"
-  - username: "janvi_shelley"
-    fullname: >-
-      Janvi Shelley
-    location: "United States"
-    followers: 84416
-    engagement: 682
-    commentsToLikes: 0.066643
-    id: ck13anf58r8mo0i19kqhb6ad3
-    verified: false
-    hashtags: "#galileo, #ajna, #emerson, #bogota"
+    hashtags: "#christian, #instautah, #homedecoration, #newyorkbound"
   - username: "bnimmo24"
     fullname: >-
       Brandon Nimmo
     location: "United States"
-    followers: 62642
-    engagement: 928
-    commentsToLikes: 0.018013
+    followers: 62731
+    engagement: 766
+    commentsToLikes: 0.017256
     id: ck6txf275xgxu0j71w23yg932
     verified: true
-    hashtags: "#springtraining, #shotguns, #fl, #shimanofishing"
+    hashtags: "#fl, #shimano, #inshore, #citifield"
+  - username: "christianbendek"
+    fullname: >-
+      CHRISTIAN BENDEK
+    location: "United States"
+    followers: 152664
+    engagement: 299
+    commentsToLikes: 0.030197
+    id: ck55jpf8jxi1x0i11afnpfbtz
+    verified: true
+    hashtags: "#findinspirationineverything, #music, #rem, #afsquad"
+  - username: "jewelser"
+    fullname: >-
+      Julianna Grogan Makeup Artist
+    location: "United States"
+    followers: 6735
+    engagement: 523
+    commentsToLikes: 0.135033
+    id: ckaor8ydhm8fq0i783f7cw0zc
+    verified: false
+    hashtags: "#20"
   - username: "connorkelly21"
     fullname: >-
       Connor Kelly
     location: "United States"
-    followers: 18790
-    engagement: 869
-    commentsToLikes: 0.009829
+    followers: 18739
+    engagement: 870
+    commentsToLikes: 0.011086
     id: ck0ttving4htl0i19yy2h25k6
     verified: false
-    hashtags: "#beavers, #ridethetide, #gameday, #fanfriday"
-  - username: "morgane_martini"
-    fullname: >-
-      morgane_martini
-    location: "United States"
-    followers: 80374
-    engagement: 111
-    commentsToLikes: 0.013833
-    id: ck0ttc90823ag0i19mb36uqtf
-    verified: true
-    hashtags: "#style, #beauty, #stayhome, #liquidseequins"
+    hashtags: "#ourbarn, #decadechallenge, #2020, #stickuptocancer"
   - username: "abnerhimely"
     fullname: >-
       Angel 👼🏼
     location: "United States"
-    followers: 37734
-    engagement: 521
-    commentsToLikes: 0.019648
+    followers: 39408
+    engagement: 582
+    commentsToLikes: 0.023085
     id: ck5ciwpf5tiyj0i115bi3453n
     verified: false
-    hashtags: "#staysafe, #youtuber, #stayhome, #viral"
-  - username: "angelycarucci"
+    hashtags: "#comingsoon, #newrelease, #subscribe, #zoom"
+  - username: "_oohlalaland"
     fullname: >-
-      Angely Carucci
+      L.Shaneen Smith
     location: "United States"
-    followers: 15868
-    engagement: 351
-    commentsToLikes: 0.050565
-    id: ck5c2q2j8xqy90i11n5y6g3ri
+    followers: 2922
+    engagement: 1146
+    commentsToLikes: 0.168950
+    id: ck9wcxvg5d5b80j78onvf4p1t
     verified: false
-    hashtags: "#angelycaruccichoreographer, #handmade, #luxury, #lindovers"
-  - username: "sadesolomon"
+    hashtags: "#basics, #positivemindset, #afrocurls, #microblogger"
+  - username: "kyledavidmalone"
     fullname: >-
-      Sade Solomon | Fashion + Faith
+      KYLE MALONE
     location: "United States"
-    followers: 18407
-    engagement: 257
-    commentsToLikes: 0.121185
-    id: ck0u9af7w9c470i19dj99il9z
+    followers: 20557
+    engagement: 185
+    commentsToLikes: 0.056236
+    id: ck5c00sv6s7se0i11oxtis5wl
     verified: false
-    hashtags: "#holyweek, #takenweeksago, #bkrowned, #speaker"
+    hashtags: "#mariaborges, #production, #artdirection, #assistants"
   - username: "ryanalexandra.petit"
     fullname: >-
-      Ryan Alexandra 🇻🇪🇭🇹
+      Ryan | Content Creator
     location: "United States"
-    followers: 5406
-    engagement: 1212
-    commentsToLikes: 0.089566
+    followers: 5321
+    engagement: 1136
+    commentsToLikes: 0.104085
     id: ck8synv9vle3e0j783dkjqiy6
     verified: false
-    hashtags: "#blackmicroinfluencers, #wickslocs, #skincareblogger, #ss2020"
+    hashtags: "#loclivin, #blackcouples, #chocolatehearts, #howtolook90s"
 ---

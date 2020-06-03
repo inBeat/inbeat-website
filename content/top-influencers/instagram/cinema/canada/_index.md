@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Canada In 2020
 description: >-
-  Find top cinema Instagram influencers in Canada in 2020. Most popular hashtags: #cinematography #dop #tamilwedding #fashiondesigner.
+  Find top cinema Instagram influencers in Canada in 2020. Most popular hashtags: #stayhome #sonyalpha #fashionart #videoproduction.
 platform: Instagram
 profiles:
+  - username: "thatoliviacheng"
+    fullname: >-
+      Olivia Cheng
+    location: "Canada"
+    followers: 18235
+    engagement: 705
+    commentsToLikes: 0.060932
+    id: ck0w3vn0avigw0i191z79oivz
+    verified: false
+    hashtags: "#liberty2me, #lesspantsmoredance, #asianpride, #cinemax"
   - username: "benleclair"
     fullname: >-
       benleclair
     location: "Canada"
-    followers: 14077
-    engagement: 691
-    commentsToLikes: 0.043402
+    followers: 14111
+    engagement: 657
+    commentsToLikes: 0.041286
     id: ck15ty1wykgpu0i19zptpw75z
     verified: false
-    hashtags: "#dontgiveup, #goskateboardingday2019, #physicaltherapy, #reeveseeus"
-  - username: "adammadrzyk"
+    hashtags: "#worldoceansday, #rehab, #leanbackandenjoy, #memories"
+  - username: "kellyschusterphotography"
     fullname: >-
-      Adam Madrzyk
+      Kelly Schuster Photography ❂
     location: "Canada"
-    followers: 9984
-    engagement: 747
-    commentsToLikes: 0.028288
-    id: ck13cbyt7zlo90i19aprd6qs9
+    followers: 2491
+    engagement: 1203
+    commentsToLikes: 0.111648
+    id: ck9hcdcglkuyv0j78w4yt1buv
     verified: false
-    hashtags: "#wearyourworld, #ad, #partner, #danielwellington"
+    hashtags: "#gameoftones, #beautifulwomen, #quietthechaos, #moodyports"
   - username: "nikpilecki"
     fullname: >-
       Nik Pilecki DP
     location: "Canada"
-    followers: 10988
-    engagement: 1374
-    commentsToLikes: 0.053644
+    followers: 11388
+    engagement: 1352
+    commentsToLikes: 0.058106
     id: ck0u0r6t9uorq0i19jo8meyj5
     verified: false
-    hashtags: "#camgear, #ursaminipro, #quasarscience, #bmpcc6k"
+    hashtags: "#leicar, #narrative, #bmpcc6k, #commerciadp"
+  - username: "adammadrzyk"
+    fullname: >-
+      Adam Madrzyk
+    location: "Canada"
+    followers: 10032
+    engagement: 755
+    commentsToLikes: 0.031367
+    id: ck13cbyt7zlo90i19aprd6qs9
+    verified: false
+    hashtags: "#wethenorth, #uniqlout, #uniqlocftec, #ad"
   - username: "qassim_photographie"
     fullname: >-
       Qassim mohebbi
     location: "Canada"
-    followers: 10878
-    engagement: 518
-    commentsToLikes: 0.037036
+    followers: 10939
+    engagement: 543
+    commentsToLikes: 0.041294
     id: ck5q8vhsp854a0i11g9pehelz
     verified: false
-    hashtags: "#love, #instagramer, #fashionkids, #capture"
+    hashtags: "#fashions, #capture, #picture, #igaddict"
   - username: "formatsfilmco"
     fullname: >-
       Taylor Hanley DP
     location: "Canada"
-    followers: 7900
-    engagement: 252
-    commentsToLikes: 0.044473
+    followers: 7834
+    engagement: 256
+    commentsToLikes: 0.044430
     id: ck13bsk8qwyv10i19s5heko07
     verified: false
-    hashtags: "#editor, #r3d, #model, #trailers"
+    hashtags: "#videographer, #ikan, #filmmaking, #roninmx"
+  - username: "alexandre_halle"
+    fullname: >-
+      Alex Hallé | Cinematographer
+    location: "Canada"
+    followers: 18995
+    engagement: 246
+    commentsToLikes: 0.026716
+    id: ck8t0jguys9ji0j78ealgzzh4
+    verified: false
+    hashtags: ""
+  - username: "rza"
+    fullname: >-
+      RZA
+    location: "Canada"
+    followers: 1154353
+    engagement: 76
+    commentsToLikes: 0.014500
+    id: ck0tvxt85d9a70i194zims7yv
+    verified: true
+    hashtags: "#classic, #stayhome, #wutattoo, #wuart"
   - username: "saffron.media"
     fullname: >-
       SAFFRON MEDIA
     location: "Canada"
-    followers: 5747
-    engagement: 1939
-    commentsToLikes: 0.060342
+    followers: 5876
+    engagement: 1824
+    commentsToLikes: 0.061242
     id: ck15pklk8ycfc0i192npd3jjr
     verified: false
-    hashtags: "#gujuratiwedding, #torontomuslimwedding, #floralweddingdecor, #cinematicwedding"
-  - username: "jordanoramdp"
-    fullname: >-
-      Jordan Oram
-    location: "Canada"
-    followers: 9211
-    engagement: 1002
-    commentsToLikes: 0.076765
-    id: ck5hh4j9b6cg00i110z92hhz9
-    verified: false
-    hashtags: "#lifeisgood, #drake, #dolbylabs, #postmalone"
-  - username: "cbenfey"
-    fullname: >-
-      Christoph Benfey
-    location: "Canada"
-    followers: 18885
-    engagement: 1407
-    commentsToLikes: 0.068608
-    id: ck0tuxboh93760i1925gxmmc7
-    verified: false
-    hashtags: "#whistler, #dollyzoomerang, #stunts, #droneception"
-  - username: "russell69"
-    fullname: >-
-      Russell Chai
-    location: "Canada"
-    followers: 10532
-    engagement: 968
-    commentsToLikes: 0.012996
-    id: ck0u8f3at77if0i19mlf4lhf6
-    verified: false
-    hashtags: ""
-  - username: "cole__graham"
-    fullname: >-
-      cole graham
-    location: "Canada"
-    followers: 4202
-    engagement: 1237
-    commentsToLikes: 0.053198
-    id: ck0u75znl3wp00i19keby5f25
-    verified: false
-    hashtags: "#cinematography, #newwest, #alanferguson, #whenigethome"
+    hashtags: "#mothersday, #filmproduction, #nikka, #weddingring"
 ---

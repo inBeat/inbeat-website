@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Finland In 2020
 description: >-
-  Find top wellness Instagram influencers in Finland in 2020. Most popular hashtags: #wellnessmalli #barebells #arvonta #barebellsfinland.
+  Find top wellness Instagram influencers in Finland in 2020. Most popular hashtags: #mothersday #happy #motivation #iciw.
 platform: Instagram
 profiles:
-  - username: "johanna.tahtinen"
-    fullname: >-
-      JOHANNA 🤍
-    location: "Finland"
-    followers: 8112
-    engagement: 1476
-    commentsToLikes: 0.514814
-    id: ck6uhi6h2999y0j711cdidlro
-    verified: false
-    hashtags: "#iciwfamily, #girls, #postpartumbody, #trainingmotivation"
   - username: "karoliinamakela"
     fullname: >-
       Karoliina | Osteopathy Student
     location: "Finland"
-    followers: 6580
-    engagement: 1451
-    commentsToLikes: 0.179908
+    followers: 7515
+    engagement: 1566
+    commentsToLikes: 0.142046
     id: ck5hfiuu8xosh0i1112ksidwk
     verified: false
-    hashtags: "#stadium, #houseoforganic, #kaupallinenyhteisty, #ruokah"
+    hashtags: "#staysafe, #woltattu, #cailap, #kaupallinenyhteistyo"
+  - username: "johanna.tahtinen"
+    fullname: >-
+      WELLNESSMALLI SEMIFINALISTI 🤍
+    location: "Finland"
+    followers: 10254
+    engagement: 1306
+    commentsToLikes: 0.081147
+    id: ck6uhi6h2999y0j711cdidlro
+    verified: false
+    hashtags: "#chanelring, #confidence, #treenihaaste, #herkkusalaatti"
+  - username: "anni.vallius"
+    fullname: >-
+      BOSS LADY | NAISYRITTÄJÄ
+    location: "Finland"
+    followers: 24105
+    engagement: 496
+    commentsToLikes: 0.101307
+    id: ck6tn4plf94qv0j71v1oz1wht
+    verified: false
+    hashtags: "#pillowchallenge, #trainingwithilona, #ellosfashion, #wmkoulutus"
+  - username: "satwii"
+    fullname: >-
+      Satu Perätalo | Valmentaja
+    location: "Finland"
+    followers: 4008
+    engagement: 2044
+    commentsToLikes: 0.116510
+    id: ck9hcne2lm5wk0j78cmdv0s0f
+    verified: false
+    hashtags: "#iciwfamily, #relationship, #koronavirus, #storytel"
+  - username: "ritanic0le"
+    fullname: >-
+      𝓡𝓲𝓽𝓪 | MINISTYLE | LIFESTYLE |
+    location: "Finland"
+    followers: 2406
+    engagement: 1454
+    commentsToLikes: 0.307440
+    id: ck5zrwmvfxe4e0i14okh0xken
+    verified: false
+    hashtags: "#phonecase, #easter, #springstyle, #mamasgirl"
+  - username: "idajemina"
+    fullname: >-
+      IDA JEMINA
+    location: "Finland"
+    followers: 691394
+    engagement: 553
+    commentsToLikes: 0.016743
+    id: ck136ehmk63fg0i19q083wf49
+    verified: false
+    hashtags: "#friday, #womensbestwear, #motivation, #supportedby"
   - username: "sonjaaiello"
     fullname: >-
       SONJA AIELLO 🇫🇮
     location: "Finland"
-    followers: 35214
-    engagement: 1699
-    commentsToLikes: 0.014460
+    followers: 35612
+    engagement: 1713
+    commentsToLikes: 0.015641
     id: ck5qa5wf4epdd0i117jvjyhnj
     verified: false
-    hashtags: "#barebellsfinland, #el, #yhteisty, #teambarebells"
+    hashtags: "#jooga, #iloveyou, #billebeino, #teambarebells"
   - username: "martinaaitolehtiofficial"
     fullname: >-
       Martina Aitolehti
     location: "Finland"
-    followers: 101245
-    engagement: 215
-    commentsToLikes: 0.012853
+    followers: 134716
+    engagement: 521
+    commentsToLikes: 0.018388
     id: ck139zvzznxgw0i19wf8kx5t9
     verified: true
-    hashtags: "#rottweilermama, #ironmantraining, #uutisaamu, #coreonfire"
+    hashtags: "#mothersday, #trainingwithmartina, #musthave, #21p"
   - username: "elinaadasofia"
     fullname: >-
       ELINA LESKINEN/ WELLNESS
     location: "Finland"
-    followers: 12686
-    engagement: 526
-    commentsToLikes: 0.046042
+    followers: 12966
+    engagement: 614
+    commentsToLikes: 0.121564
     id: ck5hfiw4nxp1w0i11d3mvjot6
     verified: false
-    hashtags: "#linkkibiossa, #vartalo, #kissanp, #yksimeista"
-  - username: "veerakononen"
+    hashtags: "#sarjat, #rv13, #nobebeauty, #aamupala"
+  - username: "peppipietikainen"
     fullname: >-
-      Veera Könönen | Wellnessmalli
+      MODERNI ÄITIYS
     location: "Finland"
-    followers: 7321
-    engagement: 1745
-    commentsToLikes: 0.063056
-    id: ck5cl1g6wy23f0i11jz1ltjjk
+    followers: 2086
+    engagement: 1286
+    commentsToLikes: 0.099782
+    id: ck9wfkkt7p97v0j7811qmg4yw
     verified: false
-    hashtags: "#motivaatio, #helsinki, #ptvgym, #ptvatanen"
-  - username: "vanelja"
-    fullname: >-
-      VANELJA | by Virpi Mikkonen
-    location: "Finland"
-    followers: 164667
-    engagement: 167
-    commentsToLikes: 0.034787
-    id: ck0w5lnd1498u0i197kec14dz
-    verified: true
-    hashtags: "#toasttuesday, #inbedwithvanelja, #ilmanvehn, #sandwiches"
-  - username: "valentinaaiello"
-    fullname: >-
-      Sofia Aiello-Tikka
-    location: "Finland"
-    followers: 30710
-    engagement: 2007
-    commentsToLikes: 0.005022
-    id: ck5qa5xlieply0i11oub9m0xa
-    verified: false
-    hashtags: "#iloveyou, #jotex, #springstyle, #mylove"
-  - username: "saanaopacic"
-    fullname: >-
-      Saana Opacic
-    location: "Finland"
-    followers: 1952
-    engagement: 1353
-    commentsToLikes: 0.207348
-    id: ck8t21x8exx4z0j787fxarlig
-    verified: false
-    hashtags: "#newweek, #doubletrouble, #fingers, #covid"
-  - username: "nanna.koo"
-    fullname: >-
-      Nanna Karalahti | Herotreeni
-    location: "Finland"
-    followers: 103671
-    engagement: 344
-    commentsToLikes: 0.032812
-    id: ck139zwmknxl60i196rbdo1id
-    verified: false
-    hashtags: "#kokkaakotona, #kulttuurinmuutos"
+    hashtags: "#delicious, #syntym, #scandinavianho, #granola"
 ---

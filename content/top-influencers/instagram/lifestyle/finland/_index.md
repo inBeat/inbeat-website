@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Finland In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Finland in 2020. Most popular hashtags: #ad #bloggaaja #ootd #travelgirl.
+  Find top lifestyle Instagram influencers in Finland in 2020. Most popular hashtags: #giveaway #gladavappen #kidsroom #arvonta.
 platform: Instagram
 profiles:
-  - username: "tarukatarina"
+  - username: "sinimalist"
     fullname: >-
-      Taru Kallionpää | FINLAND
+      S I N I
     location: "Finland"
-    followers: 11197
-    engagement: 1441
-    commentsToLikes: 0.098984
-    id: ck14lqhh5vz9q0i191rkmk9dk
+    followers: 6333
+    engagement: 2039
+    commentsToLikes: 0.221644
+    id: ck5c0w74qtyn00i11wrwzpguy
     verified: false
-    hashtags: "#babyontheway, #timetoshine, #keepitcrispy, #beunique"
-  - username: "sallasalmela"
+    hashtags: "#palkinto, #tulppaani, #kalevalakoru, #finnishfashion"
+  - username: "annituuliali"
     fullname: >-
-      𝓢𝓪𝓵𝓵𝓪 🇫🇮
+      ANNI LIPPONEN 🇫🇮
     location: "Finland"
-    followers: 9475
-    engagement: 1364
-    commentsToLikes: 0.109950
-    id: ck5c593272zzl0i111sdkcwz1
+    followers: 3127
+    engagement: 2200
+    commentsToLikes: 0.163960
+    id: ckap4wbp796e40i788mk2eyzb
     verified: false
-    hashtags: "#matkustus, #woltattu, #travelfever, #brunchtime"
-  - username: "imsagr"
+    hashtags: "#vappu2020, #gladavappen"
+  - username: "ninnupinnu"
     fullname: >-
-      Sagr Hamdan | صقر حمدان
+      Niina-Maria Lavonen
     location: "Finland"
-    followers: 30944
-    engagement: 215
-    commentsToLikes: 0.325854
-    id: ck0w4e6rey53j0i19svsiy9od
+    followers: 6528
+    engagement: 1020
+    commentsToLikes: 0.148080
+    id: ckap9hjohsn600i787zzpj3qo
     verified: false
-    hashtags: "#myplywood, #gifted, #mydubai, #kaupallinenyhteisty"
-  - username: "jannixo"
+    hashtags: "#lastenhuone, #pregnancyweek41, #minitude, #jollyroom"
+  - username: "fitoona"
     fullname: >-
-      
+      COACH - Oona Tolppanen
     location: "Finland"
-    followers: 15342
-    engagement: 532
-    commentsToLikes: 0.059772
-    id: ck6uhhvx697fw0j71cqqnh961
-    verified: false
-    hashtags: "#lahjoita, #travelbook, #finnishgirl, #koronteeni"
-  - username: "lifestyle_by_nicole"
-    fullname: >-
-      Nicole
-    location: "Finland"
-    followers: 5292
-    engagement: 625
-    commentsToLikes: 0.192789
-    id: ck15r78wh6hos0i19xri1t1z4
-    verified: false
-    hashtags: "#collaboration, #scandinavianfashion, #kukkia, #modeblogg"
-  - username: "lindavanska"
-    fullname: >-
-      LINDA OKSANEN
-    location: "Finland"
-    followers: 11532
-    engagement: 490
-    commentsToLikes: 0.074145
-    id: ck8syl4kll5g40j78qodg55tt
-    verified: false
-    hashtags: "#vauvavuosi, #luontoon, #jooei, #twinmom"
-  - username: "janniehari"
-    fullname: >-
-      Janni-Amanda
-    location: "Finland"
-    followers: 14693
-    engagement: 1326
-    commentsToLikes: 0.008553
-    id: ck8szpvh2pa3a0j78ybk8gl9w
-    verified: false
-    hashtags: "#marchbaby2020, #maaliskuiset2020, #oneweekold, #marchbaby"
-  - username: "imthalyaa"
-    fullname: >-
-      𓂀 Thalya 𓂀
-    location: "Finland"
-    followers: 5842
-    engagement: 711
-    commentsToLikes: 0.318993
-    id: ck5hjk35qgrop0i11v3j3ro3o
-    verified: false
-    hashtags: "#fashion, #dubaijbr, #ilovememessut, #iloveme"
+    followers: 64913
+    engagement: 361
+    commentsToLikes: 0.058552
+    id: ck13aofdwrdz60i19491jk19l
+    verified: true
+    hashtags: "#werderbremen, #missing, #summervibes, #soccer"
   - username: "sartorial_finn"
     fullname: >-
       The Sartorial Finn || Johan W.
     location: "Finland"
-    followers: 2498
-    engagement: 2132
-    commentsToLikes: 0.046008
+    followers: 6138
+    engagement: 1173
+    commentsToLikes: 0.065787
     id: ck8tdck3y2t650j78rre7ous2
     verified: false
-    hashtags: "#styleforum, #sartorial, #sartorialstyle, #menstyle"
-  - username: "vilmape"
+    hashtags: ""
+  - username: "ronjaemmiina"
     fullname: >-
-      VILMA P. - Yoga & Wellbeing
+      RONJA IKONEN
     location: "Finland"
-    followers: 26327
-    engagement: 264
-    commentsToLikes: 0.028229
-    id: ck0w715ibb8p40i19htyk1fp9
+    followers: 6756
+    engagement: 1095
+    commentsToLikes: 0.064530
+    id: ck6tu03j1djo20j71unecko6y
     verified: false
-    hashtags: "#nature, #oddlygoodbarista, #bond, #organiccosmetics"
+    hashtags: "#kohtaamisia, #proteinshake, #oddmolly, #shakeittillyoumakeit"
+  - username: "ritanic0le"
+    fullname: >-
+      𝓡𝓲𝓽𝓪 | MINISTYLE | LIFESTYLE |
+    location: "Finland"
+    followers: 2406
+    engagement: 1454
+    commentsToLikes: 0.307440
+    id: ck5zrwmvfxe4e0i14okh0xken
+    verified: false
+    hashtags: "#phonecase, #easter, #springstyle, #mamasgirl"
+  - username: "janniehari"
+    fullname: >-
+      Janni-Amanda
+    location: "Finland"
+    followers: 16153
+    engagement: 807
+    commentsToLikes: 0.037757
+    id: ck8szpvh2pa3a0j78ybk8gl9w
+    verified: false
+    hashtags: "#throughtheroughseas, #strollers, #parasvalintavauvallesi, #viaplayviikonloppu"
+  - username: "imsagr"
+    fullname: >-
+      Sagr Hamdan | صقر حمدان
+    location: "Finland"
+    followers: 30774
+    engagement: 226
+    commentsToLikes: 0.299416
+    id: ck0w4e6rey53j0i19svsiy9od
+    verified: false
+    hashtags: "#tbt, #laspalmas, #agaete, #myplywood"
+  - username: "lifestyle_by_nicole"
+    fullname: >-
+      Nicole
+    location: "Finland"
+    followers: 5195
+    engagement: 661
+    commentsToLikes: 0.173799
+    id: ck15r78wh6hos0i19xri1t1z4
+    verified: false
+    hashtags: "#silkscarf, #guccibag, #giveaways, #cultgaia"
 ---

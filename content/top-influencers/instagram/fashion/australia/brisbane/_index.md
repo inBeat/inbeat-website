@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top fashion Instagram influencers in Brisbane in 2020. Most popular hashtags: #brisbane #fashion #love #ootd.
+  Find top fashion Instagram influencers in Brisbane in 2020. Most popular hashtags: #fashion #stayathome #bohemiantraders #dress.
 platform: Instagram
 profiles:
-  - username: "melgreen_x"
+  - username: "the_classy_lad"
     fullname: >-
-      BIKINI PRO 👙 PEScience Athlete
+      Hamza 🇦🇺🇿🇼🇵🇰
     location: "Australia"
-    followers: 49622
-    engagement: 107
-    commentsToLikes: 0.149294
-    id: ck6tykp8j4at90j71h28e8yqi
+    followers: 47123
+    engagement: 186
+    commentsToLikes: 0.066902
+    id: ck0vxrdmp0bx80i19dd0rhzq7
     verified: false
-    hashtags: "#classycasual, #oxygenmagazine, #sunshine, #macros"
-  - username: "tessandluke"
+    hashtags: "#capadocia, #losangeles, #suitstyle, #gettymuseum"
+  - username: "shanigrimmond"
     fullname: >-
-      Tess and Luke
+      SHANI GRIMMOND
     location: "Australia"
-    followers: 53424
-    engagement: 503
-    commentsToLikes: 0.015628
-    id: ck0u1aintwayr0i19yl41xoe7
-    verified: false
-    hashtags: "#bathroomstyling, #staycation, #stayhome, #dogsofinstagram"
-  - username: "isabella.grace.model"
+    followers: 1457419
+    engagement: 341
+    commentsToLikes: 0.004108
+    id: ck14lcplpu08v0i190vpnxefr
+    verified: true
+    hashtags: "#camillawithlove, #danielwellington"
+  - username: "foodieinheels"
     fullname: >-
-      ➕ISABELLA➕
+      Blogging in heels since 2015.
     location: "Australia"
-    followers: 44605
-    engagement: 197
-    commentsToLikes: 0.058716
-    id: ck5qc0i9yo9ke0i1190j31smr
+    followers: 17218
+    engagement: 233
+    commentsToLikes: 0.333308
+    id: ckaore5rcmszb0i78ygdjrb7x
     verified: false
-    hashtags: "#rustic, #wushilandboba, #vscouting, #veganhair"
-  - username: "alarnataylor_hair_mua"
-    fullname: >-
-      Alarna Taylor Hair Stylist/MUA
-    location: "Australia"
-    followers: 17861
-    engagement: 291
-    commentsToLikes: 0.019967
-    id: ck5c6636c4sss0i117sv699dj
-    verified: false
-    hashtags: "#closeup, #armanibeauty, #thatglow, #sunkissed"
-  - username: "liz.amaya.style"
-    fullname: >-
-      L I Z  A M A Y A
-    location: "Australia"
-    followers: 63131
-    engagement: 94
-    commentsToLikes: 0.160028
-    id: ck0vxe68myght0i19j3z1lyj9
-    verified: false
-    hashtags: "#sale, #denim, #sofa, #coronavirus"
+    hashtags: "#supportsmallbusiness"
   - username: "what_brooke_wore"
     fullname: >-
       Brooke Falvey
     location: "Australia"
-    followers: 32739
-    engagement: 117
-    commentsToLikes: 0.072708
+    followers: 32876
+    engagement: 138
+    commentsToLikes: 0.069910
     id: ck5cgl5owp2a50i11j6s9mo5j
     verified: false
-    hashtags: "#uonsunday, #selfcare, #brisbaneblogger, #whatimwearing"
-  - username: "lauren.higgs"
+    hashtags: "#activewear, #bonjovi, #mixmatchoutfits, #fashiondiaries"
+  - username: "amyaela"
     fullname: >-
-      Lauren Higgs
+      Amy | Australia-India
     location: "Australia"
-    followers: 27097
-    engagement: 157
-    commentsToLikes: 0.151547
-    id: ck5hmhdjalyda0i117v7rfm9a
+    followers: 301360
+    engagement: 333
+    commentsToLikes: 0.020172
+    id: ck600bsdwday30i143e2jxb98
     verified: false
-    hashtags: "#boyfriendintheback, #matching, #highwaisted, #isolationcreation"
+    hashtags: "#radha, #maybeshesjustbrown, #buttabomma, #comingsoon"
+  - username: "mohithir"
+    fullname: >-
+      Mohit Hir
+    location: "Australia"
+    followers: 64252
+    engagement: 307
+    commentsToLikes: 0.013178
+    id: ck8wfake6ff7v0j78bz97gdv0
+    verified: false
+    hashtags: "#exercise, #gymselfie, #ocean, #summer"
   - username: "masphoto.official"
     fullname: >-
       Masterpiece Art Studio 📸🌴👙
     location: "Australia"
-    followers: 5329
-    engagement: 535
-    commentsToLikes: 0.104884
+    followers: 5281
+    engagement: 545
+    commentsToLikes: 0.089941
     id: ck6u339dyvfx90j71bhrei5ev
     verified: false
-    hashtags: "#fitnesslife, #selflove, #vibes, #model"
-  - username: "jennybeeen"
+    hashtags: "#competition, #canon, #kicking, #kidmodels"
+  - username: "curvysam"
     fullname: >-
-      Jenny Blenk | Content Creator
+      CurvySam ~ Your Virtual BFF
     location: "Australia"
-    followers: 4246
-    engagement: 930
-    commentsToLikes: 0.233495
-    id: ck5honakipv940i114q4oggvy
+    followers: 29788
+    engagement: 150
+    commentsToLikes: 0.072518
+    id: ck14gj7xo5hzk0i19h5v4t52t
     verified: false
-    hashtags: "#ashblonde, #balayageathome, #idealcase, #haircurler"
-  - username: "themagicalozfamily"
+    hashtags: "#boho, #fosterdog, #styleinspiration, #celebratemysize"
+  - username: "jannesphoto"
     fullname: >-
-      🌟🇦🇺 𝗧𝗵𝗲 𝗠𝗮𝗴𝗶𝗰𝗮𝗹 𝗢𝘇 𝗙𝗮𝗺𝗶𝗹𝘆 🇦🇺 🌟
+      JannesPhoto
     location: "Australia"
-    followers: 21256
-    engagement: 256
-    commentsToLikes: 0.129164
-    id: ck5heb7fms0k80i11budywgdn
+    followers: 25966
+    engagement: 209
+    commentsToLikes: 0.067479
+    id: ck8t7qdwshn7y0j78vgbijp62
     verified: false
-    hashtags: "#onlineweightlossprogram, #perthmums, #familylifeaustralia, #socialmedia"
+    hashtags: "#nswmodel, #modelingshoot, #prettyeyes, #agencygoals"
+  - username: "thesilverlining_70"
+    fullname: >-
+      L U I S A   D U N N
+    location: "Australia"
+    followers: 21593
+    engagement: 1075
+    commentsToLikes: 0.072465
+    id: ck9hboj9fhrl00j7868rq2imh
+    verified: false
+    hashtags: "#saltandpepper, #gogrombre, #aginggracefully, #growsilver"
 ---

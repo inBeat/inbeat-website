@@ -1,107 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Montreal In 2020
 description: >-
-  Find top stylists Instagram influencers in Montreal in 2020. Most popular hashtags: #stylist #photography #fashion #montreal.
+  Find top stylists Instagram influencers in Montreal in 2020. Most popular hashtags: #blackdress #trending #hair #yellow.
 platform: Instagram
 profiles:
-  - username: "davidkidd_portfolio"
+  - username: "lapetitevengeance"
     fullname: >-
-      David Kidd | Photographer
+      M a r i k a  D’ A u t e u i l
     location: "Canada"
-    followers: 6887
-    engagement: 498
-    commentsToLikes: 0.093516
-    id: ck5ciu4n9tdjh0i11bg2j10aa
+    followers: 134572
+    engagement: 192
+    commentsToLikes: 0.027264
+    id: ck0ttuthi4ek60i197h03p64o
     verified: false
-    hashtags: "#blondehair, #crown, #bodysuit, #blackgirl"
-  - username: "annita_mompellert"
-    fullname: >-
-      Anne Laura
-    location: "Canada"
-    followers: 54801
-    engagement: 328
-    commentsToLikes: 0.099232
-    id: ck0w0jffuei2p0i19um5n3392
-    verified: false
-    hashtags: "#mtlphotography, #mtlfriday, #christiancreative, #styleblogger"
+    hashtags: "#makeupforever, #marikamoscow, #buttercupcake, #love"
   - username: "eatwithjessie"
     fullname: >-
       J e s s i c a  E m i n
     location: "Canada"
-    followers: 8964
-    engagement: 486
-    commentsToLikes: 0.051442
+    followers: 9185
+    engagement: 513
+    commentsToLikes: 0.055834
     id: ck5zzbysrbgh00i14uckoa7ut
     verified: false
-    hashtags: "#pink, #februaryisforfoodies, #hotdogs, #eat"
-  - username: "vanilla_picture"
+    hashtags: "#icing, #foodporn, #parmesan, #eatermtl"
+  - username: "caillebot"
     fullname: >-
-      VANILLA PICTURE
+      Claire • FOOD & 📸
     location: "Canada"
-    followers: 15108
-    engagement: 556
-    commentsToLikes: 0.043548
-    id: ck5hipkhdeq5v0i11mqoux891
+    followers: 3870
+    engagement: 1474
+    commentsToLikes: 0.169335
+    id: ck5cezx50m1tj0i11hknvtool
     verified: false
-    hashtags: "#portrait, #torontoportraitphotographer, #vintagestyle, #canonphotography"
-  - username: "lathe"
+    hashtags: "#coconut, #recipet, #veggiebagel, #glutenfree"
+  - username: "mariegabrielle.r"
     fullname: >-
-      Lathe
+      𝓜𝓪𝓻𝓲𝓮-𝓖𝓪𝓫𝓻𝓲𝓮𝓵𝓵𝓮
     location: "Canada"
-    followers: 3317
-    engagement: 660
-    commentsToLikes: 0.045200
-    id: ck55mdd3o3phc0i11exblch1x
+    followers: 39651
+    engagement: 384
+    commentsToLikes: 0.109646
+    id: ckap8djm0nuss0i78ajf2m0sb
     verified: false
-    hashtags: "#museedesbeauxarts, #beauty, #snow, #medialights"
-  - username: "hairwitch_x"
+    hashtags: "#redwhiteandblue, #modellifestyle, #fypage, #niceview"
+  - username: "davidkidd_portfolio"
     fullname: >-
-      † Alison Alexander †
+      🦉David Kidd | Photographer🦉
     location: "Canada"
-    followers: 6628
-    engagement: 483
-    commentsToLikes: 0.030605
-    id: ck5c6w6696bqr0i1146mczvjo
+    followers: 6887
+    engagement: 471
+    commentsToLikes: 0.092888
+    id: ck5ciu4n9tdjh0i11bg2j10aa
     verified: false
-    hashtags: "#yellowhair, #moodygrams, #charactermodel, #devilish"
-  - username: "jennabitovenaumovich"
+    hashtags: "#fire, #actionphotoshop, #family, #blackmen"
+  - username: "sherbatov"
     fullname: >-
-      Jenna Bitove Freda
+      Eliezer Sherbatov
     location: "Canada"
-    followers: 17454
-    engagement: 429
-    commentsToLikes: 0.066103
-    id: ck137xel1diye0i197tz0xm9d
+    followers: 29586
+    engagement: 491
+    commentsToLikes: 0.047912
+    id: ck5cgfgqyoqgj0i113j7go62b
     verified: false
-    hashtags: "#canfar, #becomingfamily"
-  - username: "shann.hardy"
-    fullname: >-
-      Shannon Hardy
-    location: "Canada"
-    followers: 2337
-    engagement: 1478
-    commentsToLikes: 0.405565
-    id: ck5zu70ma1sz10i14xj1wr3nm
-    verified: false
-    hashtags: "#forbelovedone, #gifted, #123presets, #selfcarewithdrteals"
+    hashtags: "#mustang, #findyourself, #challenge, #menshair"
   - username: "justinebrouill"
     fullname: >-
       JUSTINE BROUILLETTE
     location: "Canada"
-    followers: 38083
-    engagement: 480
-    commentsToLikes: 0.047508
+    followers: 38372
+    engagement: 620
+    commentsToLikes: 0.092252
     id: ck55mvs7w4xmt0i11ri5jgn7h
     verified: false
-    hashtags: "#urbanplanet, #bohostyle, #ivyboutique, #pub"
+    hashtags: "#st1lite, #innerambitions, #giveaway, #lechateaustyle"
   - username: "josiestevens"
     fullname: >-
       Josie Stevens
     location: "Canada"
-    followers: 45268
-    engagement: 289
-    commentsToLikes: 0.061871
+    followers: 45532
+    engagement: 292
+    commentsToLikes: 0.062588
     id: ck0vw9j9wspmu0i1933ue7baz
     verified: true
-    hashtags: "#2020, #happynewyear, #cowgirl, #heartofbone"
+    hashtags: "#tbt, #2009vs2019, #fbcnip, #giddyup"
+  - username: "blondehanes"
+    fullname: >-
+      S A R A  W E L L S
+    location: "Canada"
+    followers: 5440
+    engagement: 811
+    commentsToLikes: 0.176184
+    id: ck14hujp9c7nx0i19asz7qr08
+    verified: false
+    hashtags: "#bumble, #f21xme, #styletip, #stylethebump"
+  - username: "shann.hardy"
+    fullname: >-
+      Shannon Hardy
+    location: "Canada"
+    followers: 2535
+    engagement: 1445
+    commentsToLikes: 0.363237
+    id: ck5zu70ma1sz10i14xj1wr3nm
+    verified: false
+    hashtags: "#gifted, #caseapp"
 ---

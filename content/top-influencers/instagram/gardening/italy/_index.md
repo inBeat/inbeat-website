@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Italy In 2020
 description: >-
-  Find top gardening Instagram influencers in Italy in 2020. Most popular hashtags: #photography #nature #sunset #travel.
+  Find top gardening Instagram influencers in Italy in 2020. Most popular hashtags: #gardening #passion #iorestoacasa #freedom.
 platform: Instagram
 profiles:
   - username: "ville_e_casali"
     fullname: >-
       Ville&Casali
     location: "Italy"
-    followers: 17758
-    engagement: 219
-    commentsToLikes: 0.006365
+    followers: 20202
+    engagement: 318
+    commentsToLikes: 0.011045
     id: ck6u77ex7jwmp0j71vixklf5q
     verified: false
-    hashtags: "#chalet, #artdeco, #luxuryrealestate, #branding"
-  - username: "clara_bona"
+    hashtags: "#doccia, #luxuryvillas, #naturelovers, #instagarden"
+  - username: "liciafertz"
     fullname: >-
-      Clara Bona
+      Buongiorno Nonna
     location: "Italy"
-    followers: 20822
-    engagement: 739
-    commentsToLikes: 0.094626
-    id: ck5hi0086axty0i11mh8o9r44
+    followers: 89828
+    engagement: 842
+    commentsToLikes: 0.057907
+    id: ck0udckjriqkd0i194s5mm8ad
     verified: false
-    hashtags: "#bath, #jackrussel, #kitchenideas, #decor"
+    hashtags: "#stronggirls, #nurse, #omosessuale, #ageless"
+  - username: "francescabelussitv"
+    fullname: >-
+      francesca belussi
+    location: "Italy"
+    followers: 73444
+    engagement: 272
+    commentsToLikes: 0.082150
+    id: ck6ualfql47qi0j71mtlbt5na
+    verified: false
+    hashtags: "#domenica, #mother, #freedom, #cybexchallenge"
   - username: "giselladonadoni"
     fullname: >-
       Gisella Donadoni
     location: "Italy"
-    followers: 135550
-    engagement: 190
-    commentsToLikes: 0.080027
+    followers: 145835
+    engagement: 176
+    commentsToLikes: 0.119087
     id: ck15rpvgr93h30i19ctw6rlkm
     verified: false
-    hashtags: "#librichepassione, #milanogram, #amicizia, #familyphotos"
-  - username: "ambernicholemiller"
+    hashtags: "#albumfoto, #feetselfie, #tutorialhair, #modafashion"
+  - username: "fabiodevivo"
     fullname: >-
-      Amber Nichole Miller
+      Fabio De Vivo
     location: "Italy"
-    followers: 83386
-    engagement: 131
-    commentsToLikes: 0.058519
-    id: ck5bxawvhnd9w0i11qsi2w039
+    followers: 140221
+    engagement: 110
+    commentsToLikes: 0.056609
+    id: ck0txn0z5jp7y0i19g5m72os1
     verified: true
-    hashtags: "#amaremagazinecover, #mylove, #editorial, #willowlv"
+    hashtags: "#bicycle, #primopiano, #sandiego, #tommycaldwell"
+  - username: "kiramarcocristoferi"
+    fullname: >-
+      Kira Marco Cristoferi
+    location: "Italy"
+    followers: 6700
+    engagement: 1030
+    commentsToLikes: 0.019147
+    id: ck5zy1yzr92ww0i14as1f76y0
+    verified: false
+    hashtags: "#mind, #grazie, #puntaserauta, #stupid"
   - username: "giuseppe_pintoo"
     fullname: >-
       Giuseppe Pinto
     location: "Italy"
-    followers: 7210
-    engagement: 463
-    commentsToLikes: 0.042779
+    followers: 7316
+    engagement: 607
+    commentsToLikes: 0.120977
     id: ck8tav2kmt6o30j78pu942dvs
     verified: false
-    hashtags: "#streetstyle, #freedom, #style, #fashion"
+    hashtags: "#shirtstyle, #argentina, #modelitalia, #iorestoacasa"
+  - username: "s.t.e_f.a_n.o"
+    fullname: >-
+      Stefano Mazzoli
+    location: "Italy"
+    followers: 21664
+    engagement: 719
+    commentsToLikes: 0.019675
+    id: ck5bwkitclvmv0i11fj52t0lo
+    verified: false
+    hashtags: "#scarletmacaw, #arenadiverona, #shootingday, #alanpasotti"
+  - username: "carolyneroehm"
+    fullname: >-
+      Carolyne Roehm
+    location: "Italy"
+    followers: 43661
+    engagement: 636
+    commentsToLikes: 0.078587
+    id: ck5qd0lept8wc0i116sogqfo6
+    verified: true
+    hashtags: "#orchard, #goodluckcharm, #butterfly, #rome"
   - username: "_ludovicavaccari_"
     fullname: >-
       𝖫𝗎𝖽𝗈𝗏𝗂𝖼𝖺🐒 𝖳𝗋𝖺𝗏𝖾𝗅 𝗍𝗁𝖾 𝖶𝗈𝗋𝗅𝖽✈
     location: "Italy"
-    followers: 5342
-    engagement: 1295
-    commentsToLikes: 0.109198
+    followers: 5340
+    engagement: 1343
+    commentsToLikes: 0.106612
     id: ck6toswklfxe90j71tuczb2y1
     verified: false
-    hashtags: "#visitgreece, #bolognatoday, #nymphaeaceae, #travelling"
-  - username: "marco.__90"
-    fullname: >-
-      Marco
-    location: "Italy"
-    followers: 5916
-    engagement: 1478
-    commentsToLikes: 0.055537
-    id: ck8tcmt47zyki0j78dvkrg1xn
-    verified: false
-    hashtags: "#sunsetlover, #sunsetlovers, #fregene, #visitvienna"
-  - username: "paolo.trapella"
-    fullname: >-
-      paolo
-    location: "Italy"
-    followers: 4242
-    engagement: 2314
-    commentsToLikes: 0.087429
-    id: ck15t0rkvfrrl0i19a6zdy2j1
-    verified: false
-    hashtags: "#campanili, #venetofoto, #gardening, #venezia"
-  - username: "enrica.y"
-    fullname: >-
-      Enrica 🔸️ Ferrara/Italy
-    location: "Italy"
-    followers: 2920
-    engagement: 4239
-    commentsToLikes: 0.089983
-    id: ck134d6kzvvd40i19ffxiazfv
-    verified: false
-    hashtags: "#loveferrara, #streetphotography, #buonannonuovo, #instacool"
-  - username: "lorussofa"
-    fullname: >-
-      Fabio
-    location: "Italy"
-    followers: 72194
-    engagement: 207
-    commentsToLikes: 0.020122
-    id: ck5zk5e1viuhb0i144lam1g15
-    verified: false
-    hashtags: "#teamo, #archive, #student, #blackandwhitephotography"
+    hashtags: "#mantovaeventi, #girltravelling, #earth, #rhodesoldtown"
 ---

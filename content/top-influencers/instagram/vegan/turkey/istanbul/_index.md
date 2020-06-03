@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Istanbul In 2020
 description: >-
-  Find top vegan Instagram influencers in Istanbul in 2020. Most popular hashtags: #evdekal #vegan #istanbul #healthyfood.
+  Find top vegan Instagram influencers in Istanbul in 2020. Most popular hashtags: #vegan #veganfood #foodblogger #hediye.
 platform: Instagram
 profiles:
-  - username: "dyt_pelinyuksel"
+  - username: "aloosh_al_ameer"
     fullname: >-
-      Diyetisyen Pelin YÜKSEL
+      Ali Abdulameer neamah 🔵
     location: "Turkey"
-    followers: 15789
-    engagement: 508
-    commentsToLikes: 0.150576
-    id: ck6ue7ax1p8h10j71pw5gzdg6
+    followers: 1392532
+    engagement: 863
+    commentsToLikes: 0.173578
+    id: ck13ax1y7slj20i19awrn0zaz
     verified: false
-    hashtags: "#hurriyetcomtr, #ankaraetkinlikleri, #foodstagram, #kahvalt"
-  - username: "themagger"
+    hashtags: "#photography, #motivation, #model, #2020"
+  - username: "batchablog"
     fullname: >-
-      Magger | theMagger.com
+      Biyçe | 🏡 sağlıklı tarifler
     location: "Turkey"
-    followers: 241407
-    engagement: 128
-    commentsToLikes: 0.011360
-    id: ck0uao8opcm6o0i190dqgiq7d
+    followers: 24603
+    engagement: 447
+    commentsToLikes: 0.210454
+    id: ck8t09hierah00j78hp7h7s2b
     verified: false
-    hashtags: "#film, #beyo, #berlin, #themaggeristanbul"
-  - username: "mentat_gamze"
+    hashtags: "#hummus, #dinner, #pide, #chocolate"
+  - username: "colourfulkitchen_"
     fullname: >-
-      MENTAT • GAMZE
+      colourfulkitchen_
     location: "Turkey"
-    followers: 85757
-    engagement: 213
-    commentsToLikes: 0.008361
-    id: ck6tmlkm982bs0j710j61btfi
-    verified: true
-    hashtags: "#femininetattoo, #france, #drawing, #instagram"
-  - username: "merihguzelarda"
-    fullname: >-
-      Merih Güzelarda
-    location: "Turkey"
-    followers: 30169
-    engagement: 212
-    commentsToLikes: 0.074567
-    id: ck15s8n25bs750i1939pmcuqr
+    followers: 6457
+    engagement: 712
+    commentsToLikes: 0.136561
+    id: ckapaswisxcdy0i78o39tw8n7
     verified: false
-    hashtags: "#cardio, #fitnessgirl, #hiit, #hepbenimle"
+    hashtags: "#salad, #tasty, #foodpic, #chickpeas"
+  - username: "ahushealthylife"
+    fullname: >-
+      Ahu 🍒
+    location: "Turkey"
+    followers: 13036
+    engagement: 533
+    commentsToLikes: 0.210111
+    id: ck9wfhlm1ouhq0j78ulqrskw6
+    verified: false
+    hashtags: "#apple, #smoothiebowls, #ramazan, #spaghetti"
   - username: "yesene_catering"
     fullname: >-
       Dilek Pfeiffer
     location: "Turkey"
-    followers: 3597
-    engagement: 967
-    commentsToLikes: 0.288170
+    followers: 4248
+    engagement: 959
+    commentsToLikes: 0.282059
     id: ck5q4ijthp56n0i114o1hsbcv
     verified: false
-    hashtags: "#drinks, #tasty, #artin, #sunum"
-  - username: "delicioustastebyib"
+    hashtags: "#tarifsunum, #inmykitchen, #urnisayorumyap, #teatime"
+  - username: "busrasanay"
     fullname: >-
-      Ecz.İnci Bulut
+      Büşra Sanay
     location: "Turkey"
-    followers: 127701
-    engagement: 248
-    commentsToLikes: 0.142865
-    id: ck0w6v4qyaf270i197vb1rr8z
+    followers: 48414
+    engagement: 422
+    commentsToLikes: 0.018824
+    id: ck5q03jz342l50i117uuf0dsq
     verified: false
-    hashtags: "#dinner, #meatless, #cheddar, #sekaktifprobiyotik"
-  - username: "seranintarifleri"
+    hashtags: "#bread, #everydayyoga, #yogawithmydog, #sagliklitarifler"
+  - username: "bilgecediyet"
     fullname: >-
-      Sağlıklı & Fit Tarifler
+      
     location: "Turkey"
-    followers: 57857
-    engagement: 189
-    commentsToLikes: 0.142083
-    id: ck5q9yigydnjm0i11jioe53ea
+    followers: 9907
+    engagement: 681
+    commentsToLikes: 0.025334
+    id: ck8tc41ksy7br0j78626mk0gl
     verified: false
-    hashtags: "#bread, #pancar, #bulgur, #snacks"
-  - username: "locosmetico"
+    hashtags: "#pizzaforever, #cookies, #muffin, #fitpo"
+  - username: "sevimligurme"
     fullname: >-
-      ✨Ebru✨ Influencer 💫 Blogger
+      Sevimligurme🥝🍕🍗🍒
     location: "Turkey"
-    followers: 37006
-    engagement: 63
-    commentsToLikes: 0.117362
-    id: ck5hrov4lv8670i11r3w0la7b
+    followers: 70854
+    engagement: 159
+    commentsToLikes: 1.027585
+    id: ck14khehzpj090i19tduc0bg5
     verified: false
-    hashtags: "#maskara, #naturepro, #creamblush, #lansman"
-  - username: "cildimiseviyorum1"
+    hashtags: "#asia, #ruhhalim, #gondol, #mekan"
+  - username: "nihankececiofficial"
     fullname: >-
-      Kübra Nur FİDAN/Youtube&Blog
+      Nihan 💻Influencer/Blogger
     location: "Turkey"
-    followers: 23920
-    engagement: 501
-    commentsToLikes: 0.023525
-    id: ck0vzh8rx939z0i19qd7amdum
+    followers: 15340
+    engagement: 853
+    commentsToLikes: 0.246968
+    id: ck8tdj56p3iv30j78uhk8r5q1
     verified: false
-    hashtags: "#gratisindirimi, #makeuprevolution, #travel, #befit"
-  - username: "chefaydinoglu__official"
+    hashtags: "#goldbiogelplus, #corona, #badenatural, #yuzserumu"
+  - username: "hobicenneti_"
     fullname: >-
-      Aydın Aydınoğlu
+      Hobi Cenneti
     location: "Turkey"
-    followers: 21995
-    engagement: 337
-    commentsToLikes: 0.023456
-    id: ck14irx7ngww40i19ka7fo192
+    followers: 42118
+    engagement: 500
+    commentsToLikes: 1.721278
+    id: ck15pvsr1zvqb0i19k8dm89bd
     verified: false
-    hashtags: "#easyveg, #vege, #cakelover, #pastalar"
+    hashtags: "#pril, #pratik, #sabun, #polisil"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Italy In 2020
 description: >-
-  Find top illustrators Instagram influencers in Italy in 2020. Most popular hashtags: #illustration #sketch #art #digitalart.
+  Find top illustrators Instagram influencers in Italy in 2020. Most popular hashtags: #eyes #blackandwhite #painting #illustration.
 platform: Instagram
 profiles:
+  - username: "elisatalentino"
+    fullname: >-
+      Elisa Talentino Illustration
+    location: "Italy"
+    followers: 18900
+    engagement: 472
+    commentsToLikes: 0.013839
+    id: ck0w5p5eq4rca0i19fi6c5nq8
+    verified: false
+    hashtags: "#astadipasquetta, #leggereiventi"
+  - username: "gloriabiagetti"
+    fullname: >-
+      GLORIA ☾ bodypainting | makeup
+    location: "Italy"
+    followers: 6901
+    engagement: 2242
+    commentsToLikes: 0.103734
+    id: ck8t9x04bpnf00j78ycfnj54k
+    verified: false
+    hashtags: "#muasfeaturing, #makeupeffects, #facedraw, #colorfulmakeup"
+  - username: "x718_"
+    fullname: >-
+      Gabriella D.
+    location: "Italy"
+    followers: 36888
+    engagement: 564
+    commentsToLikes: 0.039971
+    id: ck6tnszfvaiif0j71kokb36ez
+    verified: false
+    hashtags: "#animation, #fairy, #watercolor, #ko"
   - username: "sashaa.art"
     fullname: >-
       SASHA
     location: "Italy"
-    followers: 29230
-    engagement: 2885
-    commentsToLikes: 0.016410
+    followers: 28496
+    engagement: 2958
+    commentsToLikes: 0.016344
     id: ck0udk68djb1y0i19ps8koy6w
     verified: false
-    hashtags: "#bukumurah, #bukubestseller, #untungngoleksi, #sasha"
-  - username: "_asmoday"
-    fullname: >-
-      死神
-    location: "Italy"
-    followers: 7342
-    engagement: 1414
-    commentsToLikes: 0.029258
-    id: ck5hit6ctf93y0i117uyd90hx
-    verified: false
-    hashtags: "#artist, #masterpiece, #idsoftware, #coversong"
+    hashtags: "#loveasale, #untungngoleksi, #asokaaksara, #jungkook"
   - username: "carakozik"
     fullname: >-
       Cara Brown
     location: "Italy"
-    followers: 11159
-    engagement: 747
-    commentsToLikes: 0.028252
+    followers: 11366
+    engagement: 710
+    commentsToLikes: 0.037170
     id: ck5c5z3uq4eup0i11cj2yxn7o
     verified: false
-    hashtags: "#carakozikmug, #painting, #momentsketchers, #carakozik"
-  - username: "replica004"
+    hashtags: "#bookish, #carakozikmug, #sketchbook, #artist"
+  - username: "conigliettorosa"
     fullname: >-
-      Sara Camponeschi
+      Phuong
     location: "Italy"
-    followers: 6086
-    engagement: 2215
-    commentsToLikes: 0.019921
-    id: ck14liwpiuwum0i19rw7roeub
+    followers: 33236
+    engagement: 201
+    commentsToLikes: 0.100655
+    id: ck5cga9buofvs0i11todywxa3
     verified: false
-    hashtags: "#anime, #digitalpainting, #gif, #cloutgoggles"
+    hashtags: "#weakness, #blackandwhite, #gabbia, #espacioelle"
+  - username: "_asmoday"
+    fullname: >-
+      RE INTESTINO
+    location: "Italy"
+    followers: 7224
+    engagement: 1327
+    commentsToLikes: 0.028218
+    id: ck5hit6ctf93y0i117uyd90hx
+    verified: false
+    hashtags: "#rinascimento, #paint, #chromehearts, #latex"
   - username: "devildisorders"
     fullname: >-
       ☽ASTRALL☾
     location: "Italy"
-    followers: 3096
-    engagement: 1901
-    commentsToLikes: 0.032147
+    followers: 3658
+    engagement: 1830
+    commentsToLikes: 0.028597
     id: ck8tagwfarpb50j78eaj7d8ba
     verified: false
-    hashtags: "#cisza, #dark, #emptiness, #bathgoals"
-  - username: "_eyelight"
+    hashtags: "#torch, #whitehair, #papieros, #aestheticvibes"
+  - username: "alfiomartireillustrator"
     fullname: >-
-      Valentina Contini Art
+      ALFIO MARTIRE
     location: "Italy"
-    followers: 9622
-    engagement: 1721
-    commentsToLikes: 0.058155
-    id: ck15ppneoz1430i19vvbd47jq
+    followers: 91006
+    engagement: 456
+    commentsToLikes: 0.005210
+    id: ck6tin91i11k90j71z01uceq4
     verified: false
-    hashtags: "#sixfanartchallenge, #artistsupport, #christmaschallenge, #sleepingbeauty"
-  - username: "__alex_drawing_"
+    hashtags: "#alfiomartire, #newyorkcity, #istanbullu, #moscheablu"
+  - username: "replica004"
     fullname: >-
-      Alessandro muscio 30k+✨
+      Sara Camponeschi
     location: "Italy"
-    followers: 34564
-    engagement: 1019
-    commentsToLikes: 0.113797
-    id: ck5cb4vineqm90i11kelahcu3
+    followers: 6470
+    engagement: 1941
+    commentsToLikes: 0.006908
+    id: ck14liwpiuwum0i19rw7roeub
     verified: false
-    hashtags: "#illustration, #instaartist, #kawaii, #mangastyle"
-  - username: "sonia.goodarzi"
-    fullname: >-
-      🦒Gallery Zarrafeh|سونيا گودرزي
-    location: "Italy"
-    followers: 24070
-    engagement: 427
-    commentsToLikes: 0.063077
-    id: ck8t5zrrmbrky0j789riqyoz2
-    verified: false
-    hashtags: "#lovelydog, #diego, #artistsoninstagram, #green"
-  - username: "ithilnaur_"
-    fullname: >-
-      Nicoletta Migaldi
-    location: "Italy"
-    followers: 11723
-    engagement: 2445
-    commentsToLikes: 0.019143
-    id: ck6tzv5gpc1xl0j71lz43lipw
-    verified: false
-    hashtags: "#tvseries, #inking, #love, #warmup"
-  - username: "n_a_l_i_v_k_a"
-    fullname: >-
-      Алёна Наливкина / Графика
-    location: "Italy"
-    followers: 79224
-    engagement: 344
-    commentsToLikes: 0.037593
-    id: ck5cb4ewqepmd0i11ajqs16bj
-    verified: false
-    hashtags: "#leuchtturm1917, #alena, #fabercastell"
+    hashtags: "#siriusgibson, #trishuna, #coral, #witcherfanart"
 ---

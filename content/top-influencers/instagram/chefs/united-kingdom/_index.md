@@ -1,39 +1,49 @@
 ---
 title: Top 10 Chefs Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top chefs Instagram influencers in United Kingdom in 2020. Most popular hashtags: #motivation #london #health #totalbellas.
+  Find top chefs Instagram influencers in United Kingdom in 2020. Most popular hashtags: #lockdown #staysafe #throwback #love.
 platform: Instagram
 profiles:
-  - username: "theartemc"
+  - username: "toniabuxton"
     fullname: >-
-      Artem
+      Tonia Buxton
     location: "United Kingdom"
-    followers: 643509
-    engagement: 858
-    commentsToLikes: 0.010045
-    id: ck0vx5l1jx92v0i19ozp0vrfy
+    followers: 17700
+    engagement: 318
+    commentsToLikes: 0.064767
+    id: ck6tot19ufy480j718iv4kad4
     verified: true
-    hashtags: "#theritz, #france, #eentertainment, #nikkibella"
+    hashtags: "#toniasstyle, #sundaybrunch, #gbwchallenge, #lockdownbirthday"
   - username: "mellows_catering"
     fullname: >-
       Chef Beezy 🍝🍴
     location: "United Kingdom"
-    followers: 15233
-    engagement: 663
-    commentsToLikes: 0.041225
+    followers: 15371
+    engagement: 592
+    commentsToLikes: 0.045448
     id: ck6ty7itl23n80j71a1jgp790
     verified: false
-    hashtags: "#uksfinest, #artist, #brumtalent, #coronavirus"
-  - username: "isabelleman2"
+    hashtags: "#theywasntready, #2030ting, #rtkal, #wereback"
+  - username: "tomaszpachura"
     fullname: >-
-      Isabelle Man
+      Tomasz Pachura
     location: "United Kingdom"
-    followers: 9762
-    engagement: 527
-    commentsToLikes: 0.090689
-    id: ck0tyggo2mpog0i191owr96k3
+    followers: 6887
+    engagement: 1704
+    commentsToLikes: 0.013130
+    id: ck15uo4olo4290i19qads5yw2
     verified: false
-    hashtags: "#unitedkingdom, #singlelife, #enjoy, #horse"
+    hashtags: "#whitsundays, #pickdistrict, #dayoff, #bestfriend"
+  - username: "shapla11"
+    fullname: >-
+      S H A P L A • H O Q U E💋
+    location: "United Kingdom"
+    followers: 51825
+    engagement: 127
+    commentsToLikes: 0.126921
+    id: ck5c9dfjtb8c00i11rxq1yyjd
+    verified: false
+    hashtags: "#make4glam, #eidmubarak, #inssta, #makeupfanatic"
   - username: "green_noexcuses"
     fullname: >-
       
@@ -43,65 +53,55 @@ profiles:
     commentsToLikes: 0.034269
     id: ck0vvxtgqr97p0i19xtu1b75u
     verified: false
-    hashtags: "#back, #abs, #fitnessaddict, #motivation"
-  - username: "gzdgoksel"
+    hashtags: ""
+  - username: "1ogidigirl"
     fullname: >-
-      G Ö Z D E G Ö K S E L ™
+      Ijeoma Akwue
     location: "United Kingdom"
-    followers: 18315
-    engagement: 579
-    commentsToLikes: 0.016076
-    id: ck14i6rswdxap0i19u7pjd8tc
+    followers: 3265
+    engagement: 1034
+    commentsToLikes: 0.105958
+    id: ckapchek33tbq0i78c0e8a9y6
     verified: false
-    hashtags: "#cgvacation, #cgvacationfrance, #ribeauvill, #coffee"
+    hashtags: "#myfavoritesong, #stayhomecovid, #staysafe, #isawaytolearnmore"
   - username: "ogemodebelu"
     fullname: >-
       Oge Modebelu
     location: "United Kingdom"
-    followers: 5333
-    engagement: 940
-    commentsToLikes: 0.063598
+    followers: 5281
+    engagement: 954
+    commentsToLikes: 0.062165
     id: ck15rtm9p9n290i19be6n4km9
     verified: false
-    hashtags: "#bubu, #iloveboozelikethat, #lagosnights, #happynewyear"
-  - username: "toniabuxton"
+    hashtags: "#lagosnights, #happynewyear, #babyad, #family"
+  - username: "aehglory"
     fullname: >-
-      Tonia Buxton
+      Aeh Pannasorn^^
     location: "United Kingdom"
-    followers: 16114
-    engagement: 182
-    commentsToLikes: 0.046846
-    id: ck6tot19ufy480j718iv4kad4
-    verified: true
-    hashtags: "#toniasfood, #toniasfitness, #tbt, #supportlocal"
-  - username: "sugsean"
-    fullname: >-
-      Mr Sean Webster | London
-    location: "United Kingdom"
-    followers: 47497
-    engagement: 419
-    commentsToLikes: 0.049170
-    id: ck14i1hxad7570i19lf14yljz
+    followers: 70460
+    engagement: 162
+    commentsToLikes: 0.020409
+    id: ck5zqr26pv4mg0i147foxsy93
     verified: false
-    hashtags: "#londonsockcompany, #thankyounhs, #brrrrbon, #florence"
+    hashtags: "#justrun, #conceptspeed, #iloverunning, #runnerspace"
   - username: "georgie_kid"
     fullname: >-
       ⚡️GEORGIE⚡️
     location: "United Kingdom"
-    followers: 21594
-    engagement: 824
-    commentsToLikes: 0.057011
+    followers: 22338
+    engagement: 735
+    commentsToLikes: 0.062165
     id: ck8td3oee1qgm0j78m2o2topo
     verified: false
-    hashtags: "#staysafe, #spreadlove, #loveislove, #internationalwomensday"
-  - username: "denaimoore"
+    hashtags: "#goals, #loveintimesofquarantine, #loveislove, #love"
+  - username: "salvatorezanca"
     fullname: >-
-      Denai Moore
+      Salvatorezanca
     location: "United Kingdom"
-    followers: 8595
-    engagement: 399
-    commentsToLikes: 0.049446
-    id: ck15u2dijl32r0i19m30n6zos
-    verified: true
-    hashtags: "#tothebrink, #bbcmusiclife, #moderndread"
+    followers: 7018
+    engagement: 713
+    commentsToLikes: 0.017161
+    id: ckap5mhzycbuq0i783dd0wkw2
+    verified: false
+    hashtags: "#stockybear, #suntan, #bear, #amici"
 ---

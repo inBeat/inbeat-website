@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Madrid In 2020
 description: >-
-  Find top models Instagram influencers in Madrid in 2020. Most popular hashtags: #madrid #fashion #yomequedoencasa #model.
+  Find top models Instagram influencers in Madrid in 2020. Most popular hashtags: #model #madrid #smile #quarantinelife.
 platform: Instagram
 profiles:
-  - username: "joselu_zapata"
+  - username: "ducckye"
     fullname: >-
-      JOSELU ZAPATA
+      Pato
     location: "Spain"
-    followers: 15377
-    engagement: 552
-    commentsToLikes: 0.101881
-    id: ck15u9353m0w70i19xler85y2
+    followers: 15376
+    engagement: 897
+    commentsToLikes: 0.016266
+    id: ckap1g3xyug360i78uu9fenet
     verified: false
-    hashtags: "#cuarentenacoronavirus, #nieve, #cuarentena, #yoentrenoencasa"
-  - username: "sergio.loshak.photography"
+    hashtags: "#theintimmatesnewspaper, #timnp1, #photosbyluisvenegas, #havanalatigo"
+  - username: "xuanyl7"
     fullname: >-
-      Sergio Loshak
+      Xuan Yin
     location: "Spain"
-    followers: 23327
-    engagement: 273
-    commentsToLikes: 0.054572
-    id: ck6u51i6271ai0j714r0704cu
+    followers: 10102
+    engagement: 1763
+    commentsToLikes: 0.109805
+    id: ck5zrgjg8wje20i1419ezo7o3
     verified: false
-    hashtags: "#boudoirphotograpy, #lengerie, #pasi, #sesi"
-  - username: "tarek_del_moreno_photography"
+    hashtags: "#portraitgames, #creative, #archi, #reflectiongram"
+  - username: "charlynighter"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀TAREK DEL MORENO®
+      Charly
     location: "Spain"
-    followers: 32599
-    engagement: 280
-    commentsToLikes: 0.018096
-    id: ck55q9tibcm8z0i11zr6tzi30
+    followers: 32966
+    engagement: 420
+    commentsToLikes: 0.096955
+    id: ck5hctw8njy6w0i11b7vu8u9g
     verified: false
-    hashtags: "#photographe, #modelo, #playa, #belami"
-  - username: "palomaszalai"
-    fullname: >-
-      🕊️
-    location: "Spain"
-    followers: 2563
-    engagement: 1006
-    commentsToLikes: 0.137216
-    id: ck6tk3maa3xte0j71siy0i687
-    verified: false
-    hashtags: "#modelportraiture, #modelopsespa, #portraitphotographer, #gatofoto"
-  - username: "lour_homedes"
-    fullname: >-
-      Lourdes Homedes Ibáñez
-    location: "Spain"
-    followers: 52830
-    engagement: 237
-    commentsToLikes: 0.058358
-    id: ck5hoovdppydn0i11r3krg8ga
-    verified: false
-    hashtags: "#zaradaily, #communitymanager, #retrato, #zapatos"
+    hashtags: "#reflexion, #silencio, #swag, #youtubegamer"
   - username: "kryspasiecznik"
     fullname: >-
       Krys Pasiecznik
     location: "Spain"
-    followers: 128039
-    engagement: 203
-    commentsToLikes: 0.039674
+    followers: 127274
+    engagement: 208
+    commentsToLikes: 0.053477
     id: ck55neqlc62590i11ognehm5c
     verified: false
-    hashtags: "#happychristmas, #hear, #bnwmood, #madrid"
-  - username: "the_viktoor"
+    hashtags: "#catsofinstagram, #phoneclone, #dieseldenim, #stayathome"
+  - username: "lour_homedes"
     fullname: >-
-      VIKTOR V.®•🇧🇬|🇬🇧|🇷🇸
+      Lourdes Homedes Ibáñez
     location: "Spain"
-    followers: 8721
-    engagement: 1565
-    commentsToLikes: 0.027668
-    id: ck14hsh28bwjm0i19sscp8lcf
+    followers: 52670
+    engagement: 156
+    commentsToLikes: 0.101604
+    id: ck5hoovdppydn0i11r3krg8ga
     verified: false
-    hashtags: "#crueltyfreebeauty, #teatreepower"
+    hashtags: "#pasta, #celebracion, #filadisruptor, #vestidoslargos"
   - username: "annabellhaef"
     fullname: >-
       Annabell Häfner
     location: "Spain"
-    followers: 3292
-    engagement: 1861
-    commentsToLikes: 0.035483
+    followers: 3313
+    engagement: 1723
+    commentsToLikes: 0.036940
     id: ck55pg80uahwn0i11rh0t0d8r
     verified: false
-    hashtags: "#lfwm, #london, #barcelona, #multiblack"
-  - username: "hans_varaderey"
+    hashtags: "#viviennewestwood, #barcelona, #honey, #multiblack"
+  - username: "jaimeastrain"
     fullname: >-
-      INSTAGRAM OFICIAL • HANS • 🌀
+      Jaime Astrain
     location: "Spain"
-    followers: 30570
-    engagement: 585
-    commentsToLikes: 0.178918
-    id: ck8sxmbk7hvaa0j78hdhm811c
-    verified: false
-    hashtags: "#instagood, #beer, #like4like, #sevilla"
-  - username: "javierbalboa"
-    fullname: >-
-      Balboa
-    location: "Spain"
-    followers: 33093
-    engagement: 582
-    commentsToLikes: 0.018450
-    id: ck5zzloi6byzi0i14kfhy061r
+    followers: 170960
+    engagement: 728
+    commentsToLikes: 0.019270
+    id: ck5hgue2z4t2a0i11eg9dufq1
     verified: true
-    hashtags: "#happiness, #sunday, #madrid, #model"
+    hashtags: "#confinamiento, #sunday, #clonchallenge, #simba"
+  - username: "lady.loah"
+    fullname: >-
+      Lorena Alvarez • Active Living
+    location: "Spain"
+    followers: 18750
+    engagement: 784
+    commentsToLikes: 0.087431
+    id: ck5c3lahazjwv0i11uaxqcuv9
+    verified: false
+    hashtags: "#zerowastelife, #athomefitness, #bodybuilding, #foodie"
+  - username: "jaraburgos"
+    fullname: >-
+      J A R A  B U R G O S
+    location: "Spain"
+    followers: 6366
+    engagement: 606
+    commentsToLikes: 0.138433
+    id: ck6u5jsgba17i0j7114itazbe
+    verified: false
+    hashtags: "#staysafe, #family, #moodoftheday, #friends"
+  - username: "alvarocordero7"
+    fullname: >-
+      A L V A R O ⚔️
+    location: "Spain"
+    followers: 49821
+    engagement: 901
+    commentsToLikes: 0.024148
+    id: ck0w3hr96th5o0i19qbc8np6m
+    verified: false
+    hashtags: "#needsupps, #clothingbrand, #vqfit, #fitnessjourney"
 ---

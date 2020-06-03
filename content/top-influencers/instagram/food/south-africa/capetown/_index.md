@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Capetown In 2020
 description: >-
-  Find top food Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #southafrica #love #food.
+  Find top food Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #beauty #love #food.
 platform: Instagram
 profiles:
-  - username: "_lee_who_"
+  - username: "kunene_ayanda"
     fullname: >-
-      Leeaquadth Khan
+      Ayanda Kunene
     location: "South Africa"
-    followers: 16229
-    engagement: 404
-    commentsToLikes: 0.071095
-    id: ck15t91rmgxct0i19mxpt1jxw
+    followers: 3500
+    engagement: 616
+    commentsToLikes: 0.080905
+    id: ck138fd3bfyxf0i199d208qt8
     verified: false
-    hashtags: "#25thbirthday, #photooftheday, #content, #foodies"
-  - username: "neillanthony"
+    hashtags: "#throwback, #twinsofinstagram, #wellness, #ideas"
+  - username: "catcaitlinn"
     fullname: >-
-      Neill Anthony
+      Cato Vermeulen
     location: "South Africa"
-    followers: 14033
-    engagement: 525
-    commentsToLikes: 0.027118
-    id: ck5znyge0peao0i14kglzwm3b
+    followers: 23247
+    engagement: 281
+    commentsToLikes: 0.040516
+    id: ck6toqvexfleh0j71ecgsht2u
     verified: false
-    hashtags: "#cooking, #openfire, #kitchensamurai, #knives"
-  - username: "zeenatkh_"
+    hashtags: "#mindpower, #wilderness, #luxe, #goddessenergy"
+  - username: "amber_brits"
     fullname: >-
-      Z e e n a t   K h a n
+      A M B E R. BRITS.
     location: "South Africa"
-    followers: 7972
-    engagement: 1103
-    commentsToLikes: 0.254048
-    id: ck5zt80vuzwqc0i140ooagtz6
+    followers: 16410
+    engagement: 324
+    commentsToLikes: 0.075938
+    id: ck5c26a7twmdj0i11124h90ib
     verified: false
-    hashtags: "#giveaway, #claires, #myclairespiercing, #blackandwhitechallenge"
-  - username: "marcbuckner"
+    hashtags: "#sexy, #retro, #supportlocal, #vogue"
+  - username: "chimocollate"
     fullname: >-
-      Marc Buckner
+      Vina .W 🌹CHIMOCOLLATE BLOG🌹🧿
     location: "South Africa"
-    followers: 72304
-    engagement: 435
-    commentsToLikes: 0.041790
-    id: ck5qeisvd0p580i11yvigwyqx
-    verified: true
-    hashtags: "#happy, #socialdistancing, #quotes, #blue"
-  - username: "drizzleanddip"
-    fullname: >-
-      Sam Linsell
-    location: "South Africa"
-    followers: 34043
-    engagement: 312
-    commentsToLikes: 0.201106
-    id: ck5zryynlxii60i14ronnukt6
+    followers: 6143
+    engagement: 702
+    commentsToLikes: 0.030938
+    id: ck1363j3j4l4l0i19pf7hq0r0
     verified: false
-    hashtags: "#vegetarianrecipe, #italy, #vegandinner, #thefeedfeed"
-  - username: "buddytravelr"
+    hashtags: "#stayhealthy, #boomerang, #whatsinmyglass, #mondaymotivation"
+  - username: "diariesofanislandergirl"
     fullname: >-
-      Winston WhereRU
+      ZAINAH | LIFESTYLE BLOGGER
     location: "South Africa"
-    followers: 12451
-    engagement: 542
-    commentsToLikes: 0.176121
-    id: ck8t6pk2qedgi0j7807x9egyf
+    followers: 8945
+    engagement: 828
+    commentsToLikes: 0.029388
+    id: ck5hqose9tghk0i11u4gxah0n
     verified: false
-    hashtags: "#luxuryhotel, #underpressure, #romanticdinner, #glampinglife"
-  - username: "golden_hny"
+    hashtags: "#threadingeyebrows, #facialrazor, #skincareaddict, #egglessmarblecake"
+  - username: "alwynuys"
     fullname: >-
-      N A R D O S 🍯
+      Alwyn Uys
     location: "South Africa"
-    followers: 5461
-    engagement: 1245
-    commentsToLikes: 0.061159
-    id: ck8tcekxaz7hh0j78nryqtc01
+    followers: 13512
+    engagement: 648
+    commentsToLikes: 0.133659
+    id: ck6ue92jdpj2m0j71uc1bfje4
     verified: false
-    hashtags: "#2020vibe, #golden, #lagos, #beach"
-  - username: "bloomingroseblog"
+    hashtags: "#winning, #level4, #expectations, #happy"
+  - username: "fayros"
     fullname: >-
-      Aminah Gallie
+      F A Y R O S  J A F F E R فیروز
     location: "South Africa"
-    followers: 42336
-    engagement: 19
-    commentsToLikes: 0.101214
-    id: ck136p5yx7ksg0i19ai5exdqp
+    followers: 7031
+    engagement: 594
+    commentsToLikes: 0.173834
+    id: ck0vw1zz2rque0i19ygyfjeo7
     verified: false
-    hashtags: "#huskypuppy, #streetwear, #summer, #muse"
-  - username: "samuperty_zulu"
+    hashtags: "#yoga, #white, #dejavu, #skincare"
+  - username: "mrszahmarty"
     fullname: >-
-      Pertunia  Samukelisiwe Zulu
+      Zahirah Marty
     location: "South Africa"
-    followers: 37283
-    engagement: 508
-    commentsToLikes: 0.025727
-    id: ck5zu2qjq1kkr0i14qr4v3q5t
+    followers: 26041
+    engagement: 196
+    commentsToLikes: 0.040113
+    id: ck0u1vrygy6cm0i19i1mikoq3
     verified: false
-    hashtags: "#nofilter, #sandton, #world, #tiktok"
-  - username: "inthemidnightkitchen"
+    hashtags: "#birthday, #sunsetlover, #australia, #mylittlebestie"
+  - username: "justtbaked"
     fullname: >-
-      Zorah Booley | Food Lifestyle
+      Lameez Abrahams
     location: "South Africa"
-    followers: 20573
-    engagement: 277
-    commentsToLikes: 0.094659
-    id: ck0w5b3zo2sal0i19tlqpd6ws
+    followers: 49880
+    engagement: 545
+    commentsToLikes: 0.098866
+    id: ckapcntwu4hxc0i78zqhkbfem
     verified: false
-    hashtags: "#lunchtime, #veganrecipes, #fsdripdrizzledust, #pastalover"
+    hashtags: "#tart, #lamingtoncake, #pistachio, #dessert"
+  - username: "jen1649"
+    fullname: >-
+      Jenny Smith
+    location: "South Africa"
+    followers: 2492
+    engagement: 1725
+    commentsToLikes: 0.451666
+    id: ck8t9ssaop87j0j7876yag304
+    verified: false
+    hashtags: "#redlips, #birthdayboy, #extra, #nhatrang"
 ---

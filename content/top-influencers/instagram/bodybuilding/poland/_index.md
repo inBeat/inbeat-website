@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Poland In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Poland in 2020. Most popular hashtags: #bodybuilding #smile #polishgirl #training.
+  Find top bodybuilding Instagram influencers in Poland in 2020. Most popular hashtags: #bodybuilding #motywacja #szpilki #motivation.
 platform: Instagram
 profiles:
-  - username: "karolstuglik"
-    fullname: >-
-      Karol Stuglik
-    location: "Poland"
-    followers: 25392
-    engagement: 382
-    commentsToLikes: 0.017223
-    id: ck14gqb0f6ih30i19crejfv8y
-    verified: false
-    hashtags: "#muscles, #fitfam, #polishdzik, #supplement"
   - username: "gainzdesire"
     fullname: >-
       Mikołaj Żegliński
     location: "Poland"
-    followers: 21204
-    engagement: 439
-    commentsToLikes: 0.017638
+    followers: 21241
+    engagement: 429
+    commentsToLikes: 0.016676
     id: ck6tybuep2tmk0j71edexwgya
     verified: false
-    hashtags: "#debiutynpc, #bikinifitness, #inozytol, #sylwetka"
+    hashtags: "#kalistenika, #przypinka, #dobreszkolenie, #cholina"
+  - username: "inspektorin"
+    fullname: >-
+      Magda
+    location: "Poland"
+    followers: 5253
+    engagement: 1480
+    commentsToLikes: 0.029838
+    id: ckap5hhukbpdk0i78zh93olmk
+    verified: false
+    hashtags: "#omlette, #brzoskwinia, #omletpizza, #deser"
   - username: "fornalskimaciek"
     fullname: >-
       maciek fornalski
     location: "Poland"
-    followers: 2694
-    engagement: 1535
-    commentsToLikes: 0.043112
+    followers: 2636
+    engagement: 1569
+    commentsToLikes: 0.043057
     id: ck15tcsnkhgrh0i19xwq4vtdv
     verified: false
-    hashtags: "#suple, #kreatyna, #drumtattoo, #tatua"
-  - username: "wysockaaga"
+    hashtags: "#tatoos, #inkedboy, #tattoostyle, #bcaa"
+  - username: "natalisia237"
     fullname: >-
-      Agnieszka Wysocka
+      Natalia
     location: "Poland"
-    followers: 140737
-    engagement: 800
-    commentsToLikes: 0.064869
-    id: ck5hrvhamvjr10i11jxdjii7z
+    followers: 11565
+    engagement: 1164
+    commentsToLikes: 0.081312
+    id: ckaorg8t5n2q10i78658n5h1c
     verified: false
-    hashtags: "#photoshoot, #coffeelover, #summer2019, #selfie"
-  - username: "dominika_wisniewska2"
+    hashtags: "#instapiatek, #happy, #shopping, #merribeleu"
+  - username: "ppmieszko"
     fullname: >-
-      Dominika Wiśniewska
+      Ppmieszko
     location: "Poland"
-    followers: 108705
-    engagement: 619
-    commentsToLikes: 0.055724
-    id: ck8t1rewdwqkv0j78cj59oftk
+    followers: 9075
+    engagement: 1274
+    commentsToLikes: 0.086679
+    id: ck5pyduylvjhw0i11bi9bacjr
     verified: false
-    hashtags: "#carpatree, #gymtime, #shoot, #video"
-  - username: "mamikoyoko"
-    fullname: >-
-      Weronika Heck
-    location: "Poland"
-    followers: 778106
-    engagement: 628
-    commentsToLikes: 0.030690
-    id: ck5c6zv9o6j5p0i11qugor9ez
-    verified: true
-    hashtags: "#sportbra, #voiceeffects, #samsunggalaxyzflip, #gesturecapture"
-  - username: "magda_biala"
-    fullname: >-
-      MAGDALENA BIAŁACHOWSKA🏋️‍♀️
-    location: "Poland"
-    followers: 6207
-    engagement: 1599
-    commentsToLikes: 0.063806
-    id: ck8t60bm1bt1y0j78ybqk23ci
-    verified: false
-    hashtags: "#photooftheday, #pompujedlafranka, #fitgirl, #tattoo"
-  - username: "kasia_dzierzanowska"
-    fullname: >-
-      Kasia
-    location: "Poland"
-    followers: 8236
-    engagement: 1765
-    commentsToLikes: 0.055863
-    id: ck8t3q16w41zv0j78akzvxrfv
-    verified: false
-    hashtags: "#si, #farmabialka, #gymglamour, #gymhero"
-  - username: "zetesis1727"
-    fullname: >-
-      
-    location: "Poland"
-    followers: 83655
-    engagement: 541
-    commentsToLikes: 0.059053
-    id: ck6tv3poxjzz60j71z7zgvycd
-    verified: false
-    hashtags: "#obsessivelingerie, #blondynka, #blackdress, #instadaily"
+    hashtags: "#nagrywki, #trener, #leginsy, #silownia"
   - username: "summerszysz"
     fullname: >-
       Aneta
     location: "Poland"
-    followers: 96738
-    engagement: 700
-    commentsToLikes: 0.028637
+    followers: 96250
+    engagement: 695
+    commentsToLikes: 0.028159
     id: ck8tds92n4l4p0j78vkzkldjk
     verified: false
-    hashtags: "#vege, #glutes, #potreningu, #girlswithtattoo"
+    hashtags: "#lovely, #shorthair, #girlswithtattoo, #outfit"
+  - username: "asia.siudak"
+    fullname: >-
+      𝐀𝐬𝐢𝐚 𝐒𝐢𝐮𝐝𝐚𝐤
+    location: "Poland"
+    followers: 8744
+    engagement: 1068
+    commentsToLikes: 0.100511
+    id: ck8t2f1gfz8pu0j78km9wygn6
+    verified: false
+    hashtags: "#bluza, #ss2020, #springvibes, #girllook"
+  - username: "nikolabasta_"
+    fullname: >-
+      Nikola🏋🏼‍♀️ | FITNESS | FOOD |
+    location: "Poland"
+    followers: 18305
+    engagement: 1154
+    commentsToLikes: 0.034766
+    id: ck8t18l1but9i0j788l4d8lm6
+    verified: false
+    hashtags: "#hello, #treningwdomu, #boredinthehouse, #lazy"
+  - username: "daro_mnswr"
+    fullname: >-
+      Darek Kozdraś
+    location: "Poland"
+    followers: 60143
+    engagement: 366
+    commentsToLikes: 0.049432
+    id: ck14gjb5j5ih20i199ocgb4mu
+    verified: false
+    hashtags: "#tinytinymoments, #springmood, #streetstyle, #springenergy"
+  - username: "oliwia_cyminska"
+    fullname: >-
+      Oliwia Cymińska
+    location: "Poland"
+    followers: 31758
+    engagement: 362
+    commentsToLikes: 0.099085
+    id: ck6txi4xpxyzk0j71vq0q25nw
+    verified: false
+    hashtags: "#fashionblogger, #polska, #instafashion, #friendship"
 ---

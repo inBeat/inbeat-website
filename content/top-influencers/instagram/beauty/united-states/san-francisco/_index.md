@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top beauty Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #revolveme #ad #beauty.
+  Find top beauty Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #beauty #stayathome #beautyshooting.
 platform: Instagram
 profiles:
+  - username: "junjunsquare"
+    fullname: >-
+      Jun Jun Square
+    location: "United States"
+    followers: 24208
+    engagement: 695
+    commentsToLikes: 0.013914
+    id: ckap41xh05hhe0i780ivuyrd4
+    verified: false
+    hashtags: "#happymothersday, #throwback, #hawaii, #goyardalpinmini"
   - username: "dgsc"
     fullname: >-
       daniel gorostieta
     location: "United States"
-    followers: 52251
-    engagement: 611
-    commentsToLikes: 0.030435
+    followers: 55572
+    engagement: 680
+    commentsToLikes: 0.029893
     id: ck0tt38xh0yqq0i19usw2plry
     verified: false
-    hashtags: "#biggerthanabar, #ad, #protectwhatyoulove, #liveinmyblundstones"
+    hashtags: "#betterplanet, #boxedwater"
+  - username: "traciedang"
+    fullname: >-
+      MEDIA CEO⚡MODEL⚡ACTRESS
+    location: "United States"
+    followers: 3701
+    engagement: 533
+    commentsToLikes: 0.092790
+    id: ck15sok0me1gw0i197kowx64l
+    verified: false
+    hashtags: "#lamodelswomen, #directionsscout, #flowerdesigns, #tiburon"
   - username: "twopeasinaprada"
     fullname: >-
       Ashley Zeal & Emily Wieczorek
     location: "United States"
-    followers: 286094
-    engagement: 85
-    commentsToLikes: 0.204645
+    followers: 297508
+    engagement: 81
+    commentsToLikes: 0.232133
     id: ck0w4dyeay3vs0i19wyu36zz8
     verified: false
-    hashtags: "#pavlikharnessjourney, #colleenrothschild, #twopeas10k, #walmartfashion"
-  - username: "misakuranaga"
+    hashtags: "#ltkcurves, #ritualpartner, #scalpgoals, #ltkswim"
+  - username: "marie.louwes"
     fullname: >-
-      Misa Kuranaga  倉永美沙
+      Marie Louwes
     location: "United States"
-    followers: 140528
-    engagement: 279
-    commentsToLikes: 0.004003
-    id: ck15uberumcm90i19j0llxgbg
-    verified: true
-    hashtags: "#nature, #earth, #mothernature, #cindiesballetclass"
-  - username: "precisionmdca"
-    fullname: >-
-      Precision MD Cosmetic Center
-    location: "United States"
-    followers: 80682
-    engagement: 168
-    commentsToLikes: 0.000313
-    id: ck6u5xj68cbuf0j71b7op4ze4
+    followers: 2163
+    engagement: 1794
+    commentsToLikes: 0.027354
+    id: ck6ubh0o89is70j71qsxe8wp2
     verified: false
-    hashtags: "#coolsculpting, #antiaging, #slim, #lipo"
-  - username: "sepideh_usa_lifestyle"
+    hashtags: "#crimpedhair, #shooting, #bnw, #fredericgeorges"
+  - username: "arinagri"
     fullname: >-
-      سپیده🧿🇺🇸مهاجرتم به آمریکا
+      Arina Grishanina
     location: "United States"
-    followers: 7671
-    engagement: 2082
-    commentsToLikes: 0.091979
-    id: ck8t7e18zgglb0j78e3gq8g2v
+    followers: 5726
+    engagement: 1108
+    commentsToLikes: 0.015645
+    id: ck6tyomu54ygx0j71jz03kcj9
     verified: false
-    hashtags: "#akon, #model, #girlpower, #quarantine"
-  - username: "derekgphoto"
-    fullname: >-
-      ɪɴғʟᴜᴇɴᴄᴇʀ ᴘᴏʀᴛʀᴀɪᴛs • ᴅᴇʀᴇᴋ ɢ
-    location: "United States"
-    followers: 34083
-    engagement: 187
-    commentsToLikes: 0.135720
-    id: ck138oiuah8nz0i19nmuc1im4
-    verified: false
-    hashtags: "#ccbcommunity, #saccityshutter, #supportlocal, #parkvicslam"
+    hashtags: "#utah, #dancers, #professionals, #inspiration"
   - username: "thebeautyvanity"
     fullname: >-
       ALYSON
     location: "United States"
-    followers: 28665
-    engagement: 137
-    commentsToLikes: 0.073662
+    followers: 28501
+    engagement: 131
+    commentsToLikes: 0.074194
     id: ck6ufmto6xyhf0j717ulxutiq
     verified: false
-    hashtags: "#liketkit, #heputaringonit, #chicagohome, #stayathome"
-  - username: "kateogata"
+    hashtags: "#offtheshoulder, #tortoisenails, #apresfs, #auratenewyork"
+  - username: "gabrielarec"
     fullname: >-
-      Kate Ogata
+      Gabriela Recalde
     location: "United States"
-    followers: 143886
-    engagement: 184
-    commentsToLikes: 0.007993
-    id: ck0vwepgitcwp0i19t1ueln2c
+    followers: 45134
+    engagement: 68
+    commentsToLikes: 0.117492
+    id: ck8wdel80dq5p0j78fxbk0pu2
     verified: false
-    hashtags: "#ad, #mtwtfss, #thisisann, #sscollective"
-  - username: "nehaltenany"
+    hashtags: "#quarantinenights, #uniformteeth, #beautyproductsshelflife, #sunset"
+  - username: "sarowly"
     fullname: >-
-      Nehal Tenany
+      Sarah Rzepka
     location: "United States"
-    followers: 10895
-    engagement: 1275
-    commentsToLikes: 0.106335
-    id: ck5zih6f1fp060i14t0tos3b1
+    followers: 9614
+    engagement: 921
+    commentsToLikes: 0.065211
+    id: ck6u9bka1wlgh0j71mu8buhx6
     verified: false
-    hashtags: "#missguided, #fashion, #fashiondaily, #sf"
-  - username: "alessa"
+    hashtags: "#cityscapes, #travelpassion, #polishexplorers, #damestravel"
+  - username: "nbcbayarea"
     fullname: >-
-      Alessa | アレッサ 💫
+      NBC BAY AREA
     location: "United States"
-    followers: 12759
-    engagement: 930
-    commentsToLikes: 0.092588
-    id: ck14gwkbf7e1m0i191nzti4t0
-    verified: false
-    hashtags: "#revolveme, #ad, #gsqbyglamsquad"
+    followers: 62587
+    engagement: 95
+    commentsToLikes: 0.038362
+    id: ck6tpk911kc8r0j7153j662vp
+    verified: true
+    hashtags: "#stayathome, #zerowaste, #frontrow40, #hiking"
 ---

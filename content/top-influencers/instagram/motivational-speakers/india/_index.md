@@ -1,107 +1,107 @@
 ---
 title: Top 10 Motivational Speakers Instagram Influencers In India In 2020
 description: >-
-  Find top motivational speakers Instagram influencers in India in 2020. Most popular hashtags: #coronavirus #iamjayakishori #corona #india.
+  Find top motivational speakers Instagram influencers in India in 2020. Most popular hashtags: #love #quotes #women #positivevibes.
 platform: Instagram
 profiles:
-  - username: "nikitasharma_official"
+  - username: "valerie_dish"
     fullname: >-
-      Nikita Sharma
+      Valerie Dish Udemba
     location: "India"
-    followers: 931990
-    engagement: 321
-    commentsToLikes: 0.017213
-    id: ck0txab1aigmi0i1957i3izdh
-    verified: true
-    hashtags: "#grateful, #sunistheonlyfilterneeded, #inspire, #publicspeaker"
-  - username: "sodhi_gcs"
-    fullname: >-
-      Gurucharan Singh sodhi - GCS
-    location: "India"
-    followers: 85397
-    engagement: 729
-    commentsToLikes: 0.012941
-    id: ck15q03zf0hcj0i19olznz7k8
+    followers: 6086
+    engagement: 1103
+    commentsToLikes: 0.104745
+    id: ck6tuztzzjdbp0j71qhlbs5qj
     verified: false
-    hashtags: "#love, #thankful, #guru, #ardas"
-  - username: "iamjayakishori"
-    fullname: >-
-      Jaya Sharma
-    location: "India"
-    followers: 747223
-    engagement: 336
-    commentsToLikes: 0.013419
-    id: ck13bluztw1nq0i193l35yfcg
-    verified: false
-    hashtags: "#dailyinspiration, #fightback, #hardwork, #expectbig"
-  - username: "mahendradogneofficial"
-    fullname: >-
-      mahendradogney
-    location: "India"
-    followers: 76360
-    engagement: 879
-    commentsToLikes: 0.016130
-    id: ck8wfaa3zfenz0j78gcxio718
-    verified: false
-    hashtags: "#deshkedoubt, #doubtnut, #heloapp, #learnfromhome"
-  - username: "shri_krishnapriya_ji"
-    fullname: >-
-      Shri krishnapriya Ji
-    location: "India"
-    followers: 100925
-    engagement: 269
-    commentsToLikes: 0.039539
-    id: ck14ham2x9dq70i19ca9w69zy
-    verified: false
-    hashtags: "#maachandraghanta, #ramkatha, #nature, #quarantine"
+    hashtags: "#bellanaija, #ootd, #glowup, #grow"
   - username: "mr_jsb_07"
     fullname: >-
       Jyoti Sankar Bharali [ JSB ]
     location: "India"
-    followers: 37129
-    engagement: 697
-    commentsToLikes: 0.028725
+    followers: 47119
+    engagement: 555
+    commentsToLikes: 0.028723
     id: ck8wfb3gofg9q0j78luhpvwgf
     verified: false
-    hashtags: "#foryou, #trending, #actor, #jsb1"
-  - username: "ianamtanveer"
+    hashtags: ""
+  - username: "nikitasharma_official"
     fullname: >-
-      Anam Tanveer
+      Nikita Sharma
     location: "India"
-    followers: 68081
-    engagement: 127
-    commentsToLikes: 0.011704
-    id: ck15tuyevk15v0i19j5z19zgg
-    verified: false
-    hashtags: "#tasveer, #actorsofinstagram, #caronavirusoutbreakandshooting, #stayhomestaysafe"
-  - username: "anupampkher"
-    fullname: >-
-      Anupam Kher
-    location: "India"
-    followers: 3151735
-    engagement: 134
-    commentsToLikes: 0.018304
-    id: ck0w1anlmidzy0i19gyglta00
+    followers: 1073901
+    engagement: 312
+    commentsToLikes: 0.018230
+    id: ck0txab1aigmi0i1957i3izdh
     verified: true
-    hashtags: "#season2, #lovestory, #selfisolation, #handwashchallege"
-  - username: "harman_fitness_mommy"
+    hashtags: "#1millionofus, #1million, #noslutshaming, #selftimer"
+  - username: "ipsindianpoliceservice"
     fullname: >-
-      Harman Sidhu
+      Indian Police Service
     location: "India"
-    followers: 118073
-    engagement: 154
-    commentsToLikes: 0.071542
-    id: ck6ueijgfr4qu0j71kxmhbqym
+    followers: 54231
+    engagement: 494
+    commentsToLikes: 0.002475
+    id: ckaovdqm445n30i78vi33l5w1
     verified: false
-    hashtags: "#parentingtips, #protein, #shadowbanned, #bodypositivity"
-  - username: "aarish_world"
+    hashtags: "#rambocop, #youngofficer, #khakiswag, #tagpolicelover"
+  - username: "sodhi_gcs"
     fullname: >-
-      🖐ᎪᎪᏒᎥsh ᏦhᎪn🇮🇳 /____ / mr_Ak😊😎
+      Gurucharan Singh sodhi - GCS
     location: "India"
-    followers: 34647
-    engagement: 415
-    commentsToLikes: 0.025911
-    id: ck0tyvrujo9ob0i19sf7izuz2
+    followers: 88673
+    engagement: 777
+    commentsToLikes: 0.013640
+    id: ck15q03zf0hcj0i19olznz7k8
     verified: false
-    hashtags: "#popularcreator, #2linestatus, #stayathome, #boysfeeling"
+    hashtags: "#friends, #ardas, #gururamdassji, #goldentemple"
+  - username: "shri_krishnapriya_ji"
+    fullname: >-
+      Shri krishnapriya Ji
+    location: "India"
+    followers: 119362
+    engagement: 283
+    commentsToLikes: 0.032200
+    id: ck14ham2x9dq70i19ca9w69zy
+    verified: false
+    hashtags: "#happymothersday, #indianculture, #idolworship, #motivation"
+  - username: "priya__1602"
+    fullname: >-
+      Priya Sharma
+    location: "India"
+    followers: 13364
+    engagement: 4563
+    commentsToLikes: 0.034934
+    id: ckaosv788t5p60i78wlrhc08d
+    verified: false
+    hashtags: "#livemusic, #coversong, #chainsmokers, #singers"
+  - username: "karinaleblanc"
+    fullname: >-
+      Karina LeBlanc
+    location: "India"
+    followers: 18614
+    engagement: 698
+    commentsToLikes: 0.058671
+    id: ck15sz7eqfk2n0i19sl9dnufc
+    verified: true
+    hashtags: "#footballchangeslives, #my1standlasttime, #momlife, #1stmothersday"
+  - username: "bojana_strength_girl"
+    fullname: >-
+      Bojana Corilic
+    location: "India"
+    followers: 5277
+    engagement: 471
+    commentsToLikes: 0.019922
+    id: ckaor546dlrrl0i78yekgb6ny
+    verified: false
+    hashtags: "#littleme, #village, #funny, #workout"
+  - username: "iamjayakishori"
+    fullname: >-
+      Jaya Sharma
+    location: "India"
+    followers: 1017802
+    engagement: 303
+    commentsToLikes: 0.015374
+    id: ck13bluztw1nq0i193l35yfcg
+    verified: false
+    hashtags: "#inspire, #mothersday, #dreams, #love"
 ---

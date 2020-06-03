@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Switzerland in 2020. Most popular hashtags: #tattoo #tattooartist #tattoos #inked.
+  Find top tattoo-artists Instagram influencers in Switzerland in 2020. Most popular hashtags: #artist #friends #tattooed #tattooartist.
 platform: Instagram
 profiles:
-  - username: "pedrotattoo_ribeiro"
+  - username: "rynarya"
     fullname: >-
-      PedroTattoo_Ribeiro
+      R Y N A
     location: "Switzerland"
-    followers: 26750
-    engagement: 137
-    commentsToLikes: 0.021309
-    id: ck5bub1ovhgwv0i113r1rw30x
+    followers: 46295
+    engagement: 1672
+    commentsToLikes: 0.010519
+    id: ck9wecv48jqgu0j78dxih5un3
     verified: false
-    hashtags: "#zuri, #wallisellen, #boat, #zeustattoo"
+    hashtags: "#lettering, #giveaway, #contest, #concours"
+  - username: "miss.lava.tattoo"
+    fullname: >-
+      Lava
+    location: "Switzerland"
+    followers: 8745
+    engagement: 491
+    commentsToLikes: 0.025230
+    id: ck6tz2lgs79cy0j71rnzt66qv
+    verified: false
+    hashtags: "#instagoodday, #littledoll, #followmee, #tiger"
+  - username: "sashakiseleva"
+    fullname: >-
+      Sasha Kiseleva
+    location: "Switzerland"
+    followers: 44371
+    engagement: 177
+    commentsToLikes: 0.013224
+    id: ckaothej9vxhc0i78vp7t8xwu
+    verified: false
+    hashtags: "#arts, #waterblog, #tinyhouse, #cabin"
   - username: "lostswissmiss"
     fullname: >-
       Sarah Hernandez
     location: "Switzerland"
-    followers: 68962
-    engagement: 144
-    commentsToLikes: 0.003025
+    followers: 68951
+    engagement: 136
+    commentsToLikes: 0.006231
     id: ck0u8a3f76xta0i19wpoyqzk4
     verified: false
-    hashtags: "#instaart, #illustrate, #artdiscover, #swissartist"
+    hashtags: "#swisstattooers, #ladytattooers, #blackwork"
   - username: "audeladureeltattoobysandry"
     fullname: >-
       Sandry Riffard
     location: "Switzerland"
-    followers: 202091
-    engagement: 480
-    commentsToLikes: 0.016261
+    followers: 206928
+    engagement: 357
+    commentsToLikes: 0.014111
     id: ck5q2x52bi7k50i111e5djj4g
     verified: false
-    hashtags: "#inkedmag, #skull, #raven, #cathedrale"
+    hashtags: "#planet, #rose, #winniethepooh, #covid"
   - username: "anaquintana_tattoo"
     fullname: >-
       Ana Quintana
     location: "Switzerland"
-    followers: 24707
-    engagement: 683
-    commentsToLikes: 0.027676
+    followers: 24907
+    engagement: 684
+    commentsToLikes: 0.027302
     id: ck5hlsdlekrt20i11tg5vicv7
     verified: false
-    hashtags: "#silverblackink, #latattoo, #tattooart, #ilustration"
-  - username: "deni_esteves"
+    hashtags: "#proyectoobnoxia, #tattooartist, #girltattoo, #madrid"
+  - username: "mathiasthalmann"
     fullname: >-
-      DENI ESTEVES†
+      MATHIAS
     location: "Switzerland"
-    followers: 8189
-    engagement: 993
-    commentsToLikes: 0.056861
-    id: ck0w3loxdu1jp0i19puzlo3x2
+    followers: 14954
+    engagement: 522
+    commentsToLikes: 0.044731
+    id: ck0u9h0vv9sy70i19e1i66jpy
     verified: false
-    hashtags: "#summer, #japanesetattoo, #streetart, #work"
-  - username: "alexey.cubas"
+    hashtags: "#switzerland, #gift, #traveladdict, #feelblessed"
+  - username: "sionmaville"
     fullname: >-
-      Alexey Cubas 🎨
+      Sion | Valais | Suisse
     location: "Switzerland"
-    followers: 25652
-    engagement: 435
-    commentsToLikes: 0.024153
-    id: ck136vp378h2d0i19u8wrlcox
+    followers: 12265
+    engagement: 661
+    commentsToLikes: 0.554396
+    id: ck5bw5cg6l10b0i11qux53g5v
     verified: false
-    hashtags: "#manualidades, #videosdibujo, #pintandoencuarentena, #grefg"
-  - username: "moducommun"
+    hashtags: "#swisswinevalais, #selflove, #silo, #swisswine"
+  - username: "donnazed"
     fullname: >-
-      𝕸𝖔 𝕯𝖚𝖈𝖔𝖒𝖒𝖚𝖓
+      D O N N A       Z E D
     location: "Switzerland"
-    followers: 7450
-    engagement: 738
-    commentsToLikes: 0.015368
-    id: ck0vztktsau3r0i1911pnwud2
+    followers: 3216
+    engagement: 1450
+    commentsToLikes: 0.084367
+    id: ck9h9ptl49h3q0j78a3mvtl2t
     verified: false
-    hashtags: "#taot, #kneemandala, #tattoos, #tarottattoo"
-  - username: "pkg_photography"
+    hashtags: "#bronzemakeup, #swiss, #thailand, #alternative"
+  - username: "remoschmidofficial"
     fullname: >-
-      📷THE TATTOO PHOTOGRAPHER
+      Remo Schmid
     location: "Switzerland"
-    followers: 27455
-    engagement: 301
-    commentsToLikes: 0.015452
-    id: ck0vvb5reoctz0i19umjy1bqh
+    followers: 10437
+    engagement: 485
+    commentsToLikes: 0.068353
+    id: ck13cum9e28qt0i193xh5lmc5
     verified: false
-    hashtags: "#photoshoot, #woman, #jeans, #shooting"
-  - username: "daniele_lo_scritto"
-    fullname: >-
-      Daniele Lo Scritto
-    location: "Switzerland"
-    followers: 52549
-    engagement: 155
-    commentsToLikes: 0.017039
-    id: ck5hhuswna6o60i11t9y0kadj
-    verified: false
-    hashtags: "#essen, #illusion, #tuttoandr, #blktt"
-  - username: "pulgamarconetto"
-    fullname: >-
-      Pulga Marconetto
-    location: "Switzerland"
-    followers: 42090
-    engagement: 335
-    commentsToLikes: 0.029711
-    id: ck5buuba8igfq0i11hne2hjhq
-    verified: false
-    hashtags: "#tattoos, #budatattoo, #tattoojoker, #tattoogranada"
+    hashtags: "#juliendebourg, #soccerskills, #event, #stolz"
 ---

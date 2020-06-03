@@ -1,87 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In South Korea In 2020
 description: >-
-  Find top vegan Instagram influencers in South Korea in 2020. Most popular hashtags: #korea #homestyling #100 #femaletravelbloggers.
+  Find top vegan Instagram influencers in South Korea in 2020. Most popular hashtags: #vegan #korea #travelblogger #korean.
 platform: Instagram
 profiles:
   - username: "courtneytheexplorer"
     fullname: >-
       Courtney | Travel Blogger
     location: "South Korea"
-    followers: 2615
-    engagement: 1102
-    commentsToLikes: 0.070100
+    followers: 3327
+    engagement: 1181
+    commentsToLikes: 0.101494
     id: ck8t1anriv1fk0j782gwqp1sc
     verified: false
-    hashtags: "#imagineyourkorea, #esl, #koreatravel, #igkorea"
+    hashtags: "#veganjanuary, #cominghome, #nomadicnetwork, #veganbloggers"
   - username: "sanga_yonini"
     fullname: >-
-      상아 요니니
+      상아 요니니
     location: "South Korea"
-    followers: 316605
-    engagement: 292
-    commentsToLikes: 0.017992
+    followers: 322410
+    engagement: 283
+    commentsToLikes: 0.018046
     id: ck8tc5vc2ye4q0j78sn46rtde
     verified: false
-    hashtags: "#spring"
+    hashtags: "#spring, #breathe"
+  - username: "ddweji"
+    fullname: >-
+      뙈지뙈윤ಣ🐽ഒ
+    location: "South Korea"
+    followers: 20701
+    engagement: 200
+    commentsToLikes: 0.043150
+    id: ckap1b86jtu1m0i788m2hrgxd
+    verified: false
+    hashtags: ""
+  - username: "haruharu_us"
+    fullname: >-
+      Haruharu US Official
+    location: "South Korea"
+    followers: 7036
+    engagement: 904
+    commentsToLikes: 0.405404
+    id: ckaoqwxc6ks4n0i78c0qzirbw
+    verified: false
+    hashtags: "#fridaywisdom, #haruharu, #journey, #supportthedoctors"
   - username: "_elena0428_"
     fullname: >-
-      💜오늘도 긍정 밝음💜
+      💜운동하는 엘💜
     location: "South Korea"
-    followers: 4061
-    engagement: 2951
-    commentsToLikes: 0.056027
+    followers: 4071
+    engagement: 2618
+    commentsToLikes: 0.050634
     id: ck15uk0t7nk0v0i19vq2aqsq5
     verified: false
-    hashtags: "#hydrogel, #eyemask, #tmi, #lalarecipe"
-  - username: "nana.ming"
+    hashtags: "#glittermask, #tmi, #vegancosmetic, #lalarecipe"
+  - username: "mirme_sudal"
     fullname: >-
-      그리다오늘 / 민지
+      미르메 장영근
     location: "South Korea"
-    followers: 19618
-    engagement: 283
-    commentsToLikes: 0.059287
-    id: ck6uidwqleink0j71vybf977a
+    followers: 11348
+    engagement: 1851
+    commentsToLikes: 0.013570
+    id: ck15q2fqd0rs40i19x7j3pyzd
     verified: false
-    hashtags: "#bomvoyage, #roominterior, #selfie, #housedecor"
-  - username: "yi_eee_"
+    hashtags: "#4tpfitness, #kpop, #yadah, #tutorial"
+  - username: "f1stfaloo"
     fullname: >-
-      수 지
+      !'  Panutchakorn
     location: "South Korea"
-    followers: 15312
-    engagement: 798
-    commentsToLikes: 0.032003
-    id: ck15phojlxxll0i19r893w0am
+    followers: 43558
+    engagement: 253
+    commentsToLikes: 0.022173
+    id: ck6u0q3xxh54i0j71tnuowlt3
     verified: false
-    hashtags: "#shakeshackburger, #vacantshop, #bomvoyage, #accessories"
-  - username: "thekoreandreamfr"
+    hashtags: "#falooluvudon, #withgalaxy, #savechiangmai, #cookies"
+  - username: "nothing__a11"
     fullname: >-
-      Thekoreandreamfr 🇰🇷🎎
+      🧘🏻‍♂️ Yoga instructor ryt200
     location: "South Korea"
-    followers: 18404
-    engagement: 842
-    commentsToLikes: 0.020507
-    id: ck5zlu4i0ldzz0i148y6he8i6
+    followers: 111698
+    engagement: 121
+    commentsToLikes: 0.023251
+    id: ck0w3zsfew36s0i192xlpgnwo
     verified: false
-    hashtags: "#insadong, #cerisiers, #shooting, #bouffecoreennes"
-  - username: "beautybemused"
+    hashtags: "#dailylook, #latergram, #instadaily, #summernight"
+  - username: "raemi_lip"
     fullname: >-
-      Lisa
+      래미 / RAEMI
     location: "South Korea"
-    followers: 14658
-    engagement: 176
-    commentsToLikes: 0.113223
-    id: ck13585fk06eb0i19vvfs36x5
+    followers: 187496
+    engagement: 384
+    commentsToLikes: 0.013968
+    id: ck0ttk92j33hk0i19x2b3hdei
     verified: false
-    hashtags: "#morningroutine, #glowingskin, #ontheblog, #lazysundaymorning"
-  - username: "bhog_log"
+    hashtags: "#glowskin, #heralipsticks, #lipswatch, #foundationmakeup"
+  - username: "jaeyeong_choi_m"
     fullname: >-
-      bhog_log
+      미르메 주장 최재영
     location: "South Korea"
-    followers: 4990
-    engagement: 1119
-    commentsToLikes: 0.194547
-    id: ck0vw2i7trt3r0i19agmadzo5
+    followers: 19313
+    engagement: 1137
+    commentsToLikes: 0.011619
+    id: ck0udexllj1gs0i190boml34j
     verified: false
-    hashtags: "#100, #360"
+    hashtags: "#taekwondotraining, #fithing, #new, #yadahcosmetics"
 ---

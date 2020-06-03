@@ -1,107 +1,107 @@
 ---
 title: Top 10 Djs Instagram Influencers In Germany In 2020
 description: >-
-  Find top djs Instagram influencers in Germany in 2020. Most popular hashtags: #djlife #dj #stayhome #berlin.
+  Find top djs Instagram influencers in Germany in 2020. Most popular hashtags: #happy #pioneerdj #stayhome #djsnake.
 platform: Instagram
 profiles:
   - username: "djmetino"
     fullname: >-
       DJ Metino
     location: "Germany"
-    followers: 5527
-    engagement: 1304
-    commentsToLikes: 0.028869
+    followers: 5533
+    engagement: 1318
+    commentsToLikes: 0.028588
     id: ck5zxgfsy7yw80i147camo1rp
     verified: false
-    hashtags: "#maghrebgang, #instatravel, #sapporo, #frompartytoparty"
-  - username: "harris_and_ford"
-    fullname: >-
-      HARRIS & FORD
-    location: "Germany"
-    followers: 36088
-    engagement: 357
-    commentsToLikes: 0.016002
-    id: ck0w0rukgfq5q0i19h132codf
-    verified: true
-    hashtags: "#harderstyles, #track, #bootshaus, #weeekend"
+    hashtags: "#maghreb, #monkeybeach, #japantour, #tokyo"
   - username: "pro_zeiko"
     fullname: >-
       DJ PRO-ZEIKO 🌟🌟🌟
     location: "Germany"
-    followers: 22921
-    engagement: 207
-    commentsToLikes: 0.041765
+    followers: 22729
+    engagement: 205
+    commentsToLikes: 0.043113
     id: ck0w49l3uxh1b0i191evxtzwm
     verified: false
-    hashtags: "#nojukebox, #sandstorm, #superherodjs, #genrebndr"
+    hashtags: "#purpleswag, #tbt, #ranedj, #idaworldfinals"
   - username: "djsaywhaat"
     fullname: >-
       𝑺𝑨𝒀 𝑾𝑯𝑨𝑨𝑻
     location: "Germany"
-    followers: 8425
-    engagement: 378
-    commentsToLikes: 0.081742
+    followers: 8320
+    engagement: 385
+    commentsToLikes: 0.080825
     id: ck5ce7k0vkhnz0i11cd8bd0ep
     verified: false
-    hashtags: "#hollywoodsbleeding, #rakimallah, #lilpump, #workoutdone"
-  - username: "djstephcakes"
-    fullname: >-
-      DJ 🎂🇩🇴
-    location: "Germany"
-    followers: 40384
-    engagement: 343
-    commentsToLikes: 0.058231
-    id: ck55ok0qy8iat0i117kobqbae
-    verified: false
-    hashtags: "#lecheminduroi, #hoodheritage, #wcw, #liveatfivemix"
+    hashtags: "#generaldegree, #luciddreams, #snoopdogg, #thedoggfather"
   - username: "parookaville"
     fullname: >-
       PAROOKAVILLE
     location: "Germany"
-    followers: 147134
-    engagement: 246
-    commentsToLikes: 0.019248
+    followers: 147386
+    engagement: 268
+    commentsToLikes: 0.023611
     id: ck0u6kvea27a90i19g31cogi4
     verified: true
-    hashtags: "#parookaville2020, #parookaville, #savethesummer, #flattenthecurve"
+    hashtags: "#parookaville2015, #parookaville2017, #parookaville2016, #parookaville2020"
+  - username: "jugglerz"
+    fullname: >-
+      𝙅𝙐𝙂𝙂𝙇𝙀𝙍𝙕
+    location: "Germany"
+    followers: 27438
+    engagement: 153
+    commentsToLikes: 0.053569
+    id: ck55jqoruxknv0i11qz4skfxz
+    verified: true
+    hashtags: "#caribbean, #jugglerz, #norules, #water"
   - username: "shizgarawedding"
     fullname: >-
       ShizGaraStudio
     location: "Germany"
-    followers: 7416
-    engagement: 676
-    commentsToLikes: 0.011313
+    followers: 7283
+    engagement: 688
+    commentsToLikes: 0.010701
     id: ck5zxqfmw8h3a0i144t5bteck
     verified: false
-    hashtags: "#weddinginmonaco, #hochzeitinmallorca, #hochzeitplanen, #evian"
-  - username: "vanessa_sukowski"
+    hashtags: "#santorinihochzeit, #hochzeitinsantorini, #weddinginmonaco, #pasrshootings"
+  - username: "alexandergieber"
     fullname: >-
-      Techno ᴰᴶ
+      Alex Gieber
     location: "Germany"
-    followers: 33531
-    engagement: 388
-    commentsToLikes: 0.055091
-    id: ck5ck9l7ewf5o0i119nqqbjpy
-    verified: true
-    hashtags: "#watchusplay, #djdiaries, #shadym, #technomusic"
-  - username: "i.v.i.ivana"
-    fullname: >-
-      Ivana
-    location: "Germany"
-    followers: 6436
-    engagement: 810
-    commentsToLikes: 0.050267
-    id: ck8wffal5fn9p0j78vkmr5ssz
+    followers: 50838
+    engagement: 266
+    commentsToLikes: 0.079266
+    id: ck13432z7ugfp0i191gwhvrth
     verified: false
-    hashtags: "#berlinerin, #rtl, #power, #dankemama"
-  - username: "stereo.express"
+    hashtags: "#yogahomeworkout, #hemd, #leipzig, #mothersday"
+  - username: "olivermagenta"
     fullname: >-
-      STEREO EXPRESS
+      Oliver Magenta
     location: "Germany"
-    followers: 19310
-    engagement: 228
-    commentsToLikes: 0.060366
-    id: ck5c1xh6rw4790i11pyf3yoyd
+    followers: 19217
+    engagement: 509
+    commentsToLikes: 0.042197
+    id: ck5c2kubjxg7x0i11wsib13l9
     verified: false
-    hashtags: "#wintertour, #irisyasisland, #ubud, #stayproductive"
+    hashtags: "#stayhome, #arbeitslos, #tiesto, #vizemusic"
+  - username: "marvxxjones"
+    fullname: >-
+      Marvin †
+    location: "Germany"
+    followers: 3372
+    engagement: 1815
+    commentsToLikes: 0.070408
+    id: ck8t7chazgb6w0j78ld8oxfjb
+    verified: false
+    hashtags: "#djslife, #pioneerdj, #mixtapes, #housedance"
+  - username: "leonierosella"
+    fullname: >-
+      Leonie Rosella
+    location: "Germany"
+    followers: 14943
+    engagement: 960
+    commentsToLikes: 0.021588
+    id: ck8tb4uwbua8r0j78ojbaqg8o
+    verified: false
+    hashtags: "#mothersday, #stayhealthy, #blumeexclusiv, #bluejeans"
 ---

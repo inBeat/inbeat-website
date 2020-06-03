@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In South Korea In 2020
 description: >-
-  Find top athletes Instagram influencers in South Korea in 2020. Most popular hashtags: #onekickman #athlete #instagood #gopromax.
+  Find top athletes Instagram influencers in South Korea in 2020. Most popular hashtags: #repost #4tp #brother #abs.
 platform: Instagram
 profiles:
+  - username: "mohammad.dodange.pro1"
+    fullname: >-
+      Men’s Physique
+    location: "South Korea"
+    followers: 10023
+    engagement: 1365
+    commentsToLikes: 0.096870
+    id: ckaozgyb5lukf0i78p44l6n4d
+    verified: false
+    hashtags: "#brother"
+  - username: "iamtj_jones"
+    fullname: >-
+      ‍‍‍‍‍TJ Jones
+    location: "South Korea"
+    followers: 14714
+    engagement: 712
+    commentsToLikes: 0.030190
+    id: ck0w3vdabvgzo0i196zrbp50v
+    verified: true
+    hashtags: "#sweetfeet, #canttakeheranywhere, #whyhegrownnow, #startingcollegeapplications"
   - username: "itsleonardlim"
     fullname: >-
       Leonard Lim 🇦🇺🇸🇬🇰🇷
     location: "South Korea"
-    followers: 25960
-    engagement: 438
-    commentsToLikes: 0.033256
+    followers: 30244
+    engagement: 582
+    commentsToLikes: 0.015264
     id: ck5chhpt4qsy50i11nz7ahmfy
     verified: false
-    hashtags: "#tangleteezer, #dollypartonchallenge"
+    hashtags: "#dollypartonchallenge, #facetimephotoshoot"
+  - username: "iding410"
+    fullname: >-
+      이딩(eding)
+    location: "South Korea"
+    followers: 107518
+    engagement: 291
+    commentsToLikes: 0.020302
+    id: ck5pywb22y4050i11rryh1jxt
+    verified: true
+    hashtags: "#enup, #ootd, #mlbdisney, #mlbcrew"
   - username: "matheusgabrieljj"
     fullname: >-
       M. Gabriel
     location: "South Korea"
-    followers: 17017
-    engagement: 904
-    commentsToLikes: 0.017429
+    followers: 17230
+    engagement: 847
+    commentsToLikes: 0.021374
     id: ck5hruj3lvi4s0i113qzfd0h5
     verified: false
-    hashtags: "#muae, #seoul, #neverevergiveup, #gratitude"
-  - username: "ifbb_pro_kimjunho"
+    hashtags: "#bjjlifestyle, #jsca, #amazon, #gratidao"
+  - username: "bjj_izidor"
     fullname: >-
-      보디빌더 김준호
+      포토그래퍼 이지도르. 이진화
     location: "South Korea"
-    followers: 48733
-    engagement: 308
-    commentsToLikes: 0.019666
-    id: ck8sx3dvpg2tz0j78uk9kj54l
+    followers: 9842
+    engagement: 558
+    commentsToLikes: 0.022083
+    id: ck0vxuzpq0v7a0i19974d5u6z
     verified: false
-    hashtags: "#c4, #8time8time, #event"
+    hashtags: "#kanjibelt, #repost, #helpme, #nogijiujitsu"
+  - username: "kidocaro"
+    fullname: >-
+      caro Vlogs🇰🇷
+    location: "South Korea"
+    followers: 41251
+    engagement: 519
+    commentsToLikes: 0.038088
+    id: ckaozqrhjmzwd0i782bcp23h9
+    verified: false
+    hashtags: "#ootdguide, #moonbluechallenge, #aomg, #grayground"
+  - username: "estherflowerbae"
+    fullname: >-
+      Esther Bae (힘쎈언니) 💪🏻
+    location: "South Korea"
+    followers: 9842
+    engagement: 515
+    commentsToLikes: 0.061152
+    id: ckap6rhcxh4cw0i78oplq6jjs
+    verified: false
+    hashtags: "#halfnattylighting, #babygotback, #linkinbio, #powerbuilding"
   - username: "shinmincheol"
     fullname: >-
       미르메 신민철
     location: "South Korea"
-    followers: 204994
-    engagement: 411
-    commentsToLikes: 0.008284
+    followers: 210896
+    engagement: 424
+    commentsToLikes: 0.008538
     id: ck0udewzvj1d10i191bzzoqxx
     verified: true
-    hashtags: "#kickfull, #hometraining, #jackknife, #shinmincheol"
+    hashtags: "#getup, #8k, #recovapro, #mbc"
   - username: "mirme_lee"
     fullname: >-
       이동영
     location: "South Korea"
-    followers: 6522
-    engagement: 842
-    commentsToLikes: 0.023283
+    followers: 6467
+    engagement: 746
+    commentsToLikes: 0.025578
     id: ck0udey7cj1kj0i191hfl984s
     verified: false
-    hashtags: "#2019, #spotv, #picture, #photooftheday"
-  - username: "lutce"
-    fullname: >-
-      Lucía Fresco
-    location: "South Korea"
-    followers: 32195
-    engagement: 1000
-    commentsToLikes: 0.018896
-    id: ck5hdi9cjnkdm0i11mnctukmp
-    verified: false
-    hashtags: "#asics, #athlete, #voley, #thankyou"
-  - username: "felipebandero"
-    fullname: >-
-      Felipe  Bandero
-    location: "South Korea"
-    followers: 8755
-    engagement: 825
-    commentsToLikes: 0.018294
-    id: ck0vzp6ria7kf0i195yt4zruj
-    verified: false
-    hashtags: "#sportslife, #workhard, #playhard, #coach"
-  - username: "moonchanigraphy"
-    fullname: >-
-      ᴍᴏᴏɴᴄʜᴀɴɪɢʀᴀᴘʜʏ
-    location: "South Korea"
-    followers: 5433
-    engagement: 502
-    commentsToLikes: 0.048594
-    id: ck5c4wvpp2a970i11lgo6slwq
-    verified: false
-    hashtags: "#slalom, #climbing, #quarantinelife, #nyepiday"
-  - username: "florian.korea"
-    fullname: >-
-      Florian 플로리안 🇩🇪🇰🇷
-    location: "South Korea"
-    followers: 21572
-    engagement: 225
-    commentsToLikes: 0.027673
-    id: ck5cew9xulu7l0i11iertd75p
-    verified: false
-    hashtags: "#flyn, #bodycheck, #crossfit, #poster"
-  - username: "_leehyobi"
-    fullname: >-
-      아역배우 이효비 (Viviana Hyobi Lee)
-    location: "South Korea"
-    followers: 54201
-    engagement: 198
-    commentsToLikes: 0.039057
-    id: ck14kij0bpo6q0i19nap7rj4k
-    verified: false
-    hashtags: "#descentyoungathlete, #mlbkids, #nike, #descendant"
+    hashtags: "#saitama, #repost, #hookkick, #2019"
 ---

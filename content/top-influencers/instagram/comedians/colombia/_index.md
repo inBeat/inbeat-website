@@ -1,107 +1,107 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Colombia In 2020
 description: >-
-  Find top comedians Instagram influencers in Colombia in 2020. Most popular hashtags: #comedia #cuarentena #colombia #yomequedoencasa.
+  Find top comedians Instagram influencers in Colombia in 2020. Most popular hashtags: #tiktok #bogot #standupcomedy #bogota.
 platform: Instagram
 profiles:
-  - username: "pedroruminot"
-    fullname: >-
-      Pedro
-    location: "Colombia"
-    followers: 487437
-    engagement: 1037
-    commentsToLikes: 0.012590
-    id: ck5zztalscdy70i14352so6qo
-    verified: true
-    hashtags: "#tbt, #galaxys20, #teamgalaxy"
-  - username: "gatoderisa"
-    fullname: >-
-      Jonathan Gato
-    location: "Colombia"
-    followers: 41979
-    engagement: 470
-    commentsToLikes: 0.042335
-    id: ck0vy0lyt1neh0i19kgpjrjvx
-    verified: false
-    hashtags: "#gato, #freddiemercury, #world, #colours"
-  - username: "elhipsterbarato"
-    fullname: >-
-      Sebastián Rincón Comediante
-    location: "Colombia"
-    followers: 95753
-    engagement: 389
-    commentsToLikes: 0.012966
-    id: ck5ci7aszs5e60i11eucxeyw1
-    verified: false
-    hashtags: "#photograph, #photography, #picoftheday, #anime"
-  - username: "yosoychimuelo"
-    fullname: >-
-      Sergio Castro
-    location: "Colombia"
-    followers: 12653
-    engagement: 394
-    commentsToLikes: 0.034361
-    id: ck5ci6n18s4fo0i11pq4on0j0
-    verified: false
-    hashtags: "#comedia, #reflexiondeloslunes, #yomequedoencasa, #feo"
-  - username: "martinianocons"
-    fullname: >-
-      Martiniano Constantino
-    location: "Colombia"
-    followers: 27193
-    engagement: 279
-    commentsToLikes: 0.174729
-    id: ck5qatar8i5000i11dut3uhk7
-    verified: false
-    hashtags: "#viralvideos, #what, #toxica, #yomequedoencasa"
   - username: "soychispavital"
     fullname: >-
       Chispa Vital
     location: "Colombia"
-    followers: 85987
-    engagement: 645
-    commentsToLikes: 0.008850
+    followers: 89741
+    engagement: 571
+    commentsToLikes: 0.008755
     id: ck5ci6qffs4md0i11zkr7dib1
     verified: false
-    hashtags: "#serieronyquedograbado, #tbt, #chispavital"
+    hashtags: "#tbt, #chispavital"
+  - username: "gatoderisa"
+    fullname: >-
+      Jonathan Gato
+    location: "Colombia"
+    followers: 41686
+    engagement: 488
+    commentsToLikes: 0.044156
+    id: ck0vy0lyt1neh0i19kgpjrjvx
+    verified: false
+    hashtags: "#halloween, #queen, #marcha, #beach"
+  - username: "deiviscorrea"
+    fullname: >-
+      Deivis Correa
+    location: "Colombia"
+    followers: 323103
+    engagement: 173
+    commentsToLikes: 0.077333
+    id: ck14hmm44b3040i19ckujlfqn
+    verified: false
+    hashtags: "#lacatira, #venezuela, #chinazo, #humorconcorrea"
+  - username: "yosoychimuelo"
+    fullname: >-
+      Sergio Castro
+    location: "Colombia"
+    followers: 13827
+    engagement: 364
+    commentsToLikes: 0.033645
+    id: ck5ci6n18s4fo0i11pq4on0j0
+    verified: false
+    hashtags: "#villavocomica, #villavicencio, #suaves, #happier"
   - username: "brayanjacksonn"
     fullname: >-
       JACKSON🃏
     location: "Colombia"
-    followers: 25609
-    engagement: 194
-    commentsToLikes: 0.021102
+    followers: 30196
+    engagement: 190
+    commentsToLikes: 0.034994
     id: ck8sxakc3gp760j78sc1sj0ns
     verified: false
-    hashtags: "#divaencuarentena, #memesespa, #espa, #colombia"
+    hashtags: "#humornegro, #justinbieber, #yummy, #com"
   - username: "unamalformacion"
     fullname: >-
       Brayan Mora
     location: "Colombia"
-    followers: 97240
-    engagement: 241
-    commentsToLikes: 0.007256
+    followers: 100870
+    engagement: 260
+    commentsToLikes: 0.007734
     id: ck5ci6g22s3yx0i11okj0my49
     verified: false
-    hashtags: "#ela, #stickers, #newillustration, #comedy"
-  - username: "julianbeltran_actor"
+    hashtags: "#newillustration, #elbitri, #tbt, #unamalformaci"
+  - username: "elpeloparado"
     fullname: >-
-      JULIAN BELTRAN
+      Tato Devia 💪
     location: "Colombia"
-    followers: 94297
-    engagement: 60
-    commentsToLikes: 0.035893
-    id: ck6u1mmhpmnay0j714og3voyk
-    verified: false
-    hashtags: "#conciencia, #juaquin, #comidarapida, #abrazosybesosdechocolate"
+    followers: 90485
+    engagement: 100
+    commentsToLikes: 0.089937
+    id: ck15szi78floz0i19504d46ge
+    verified: true
+    hashtags: "#cuarentenacreativa, #taxistas, #quedateencasa, #expectativa"
   - username: "quedecencia"
     fullname: >-
       Cristian Abril 🇨🇴
     location: "Colombia"
-    followers: 102506
-    engagement: 188
-    commentsToLikes: 0.020730
+    followers: 101594
+    engagement: 165
+    commentsToLikes: 0.026737
     id: ck5ci7ckzs5gz0i11mt2wua1c
     verified: false
-    hashtags: "#colombia, #standup, #comediante, #paronacional2019"
+    hashtags: "#badbunny, #dance, #bogota, #yoperreosola"
+  - username: "elhipsterbarato"
+    fullname: >-
+      Sebastián Rincón Comediante
+    location: "Colombia"
+    followers: 96633
+    engagement: 346
+    commentsToLikes: 0.012800
+    id: ck5ci7aszs5e60i11eucxeyw1
+    verified: false
+    hashtags: "#podcast, #underground, #anime, #comedy"
+  - username: "elpropiocucuta"
+    fullname: >-
+      Jorge Sánchez
+    location: "Colombia"
+    followers: 16936
+    engagement: 187
+    commentsToLikes: 0.033323
+    id: ck5ci6o3ws4i10i110rqj50qs
+    verified: false
+    hashtags: "#magicolor, #boom, #podcast, #atodaconheriberto"
 ---

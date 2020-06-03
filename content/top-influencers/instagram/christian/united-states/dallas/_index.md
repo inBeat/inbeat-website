@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Dallas In 2020
 description: >-
-  Find top christian Instagram influencers in Dallas in 2020. Most popular hashtags: #dallas #dallasblogger #fashion #dfw.
+  Find top christian Instagram influencers in Dallas in 2020. Most popular hashtags: #stayhome #christian #motivation #mothersday.
 platform: Instagram
 profiles:
-  - username: "kimmienicolegreen"
-    fullname: >-
-      kimkimkimkimmie
-    location: "United States"
-    followers: 2406
-    engagement: 1082
-    commentsToLikes: 0.106649
-    id: ck6tzcgrc8w5r0j7153pnorp1
-    verified: false
-    hashtags: "#blackgirlmagic, #gymshark, #bodybuilding, #positiveattitude"
   - username: "sweetandpetitemama"
     fullname: >-
       Kourtnilyns
     location: "United States"
-    followers: 5192
-    engagement: 461
-    commentsToLikes: 0.458176
+    followers: 5374
+    engagement: 606
+    commentsToLikes: 0.454188
     id: ck8t2wo9a0z5n0j78l8kf1gvi
     verified: false
-    hashtags: "#sunlesstanning, #fitmoms, #womenownedbusiness, #converseshoes"
-  - username: "jojotruperez"
-    fullname: >-
-      J o j o
-    location: "United States"
-    followers: 7330
-    engagement: 634
-    commentsToLikes: 0.157161
-    id: ck6u0o6kegts50j71huv2soze
-    verified: false
-    hashtags: "#raoshomemade, #consciouseaterbook, #hempzofficial, #threadsbabe"
-  - username: "christian.covington"
-    fullname: >-
-      Christian Covington
-    location: "United States"
-    followers: 29411
-    engagement: 717
-    commentsToLikes: 0.023362
-    id: ck5znhscxohms0i14c81doz53
-    verified: true
-    hashtags: "#cursed, #mnf, #4touchdownsinonegame, #amen"
-  - username: "inspiredbyhimart"
-    fullname: >-
-      S t e p h a n i e  L.
-    location: "United States"
-    followers: 45480
-    engagement: 228
-    commentsToLikes: 0.026269
-    id: ck6to6c8tccp80j71ys41f3eo
-    verified: false
-    hashtags: "#friscotx, #lonestarstate, #abideinme, #drawingwithpaint"
+    hashtags: "#targetswim, #dressingup, #walmartfinds, #healthyhair"
   - username: "sabrinamharrison"
     fullname: >-
       Sabrina Harrison
     location: "United States"
-    followers: 12130
-    engagement: 633
-    commentsToLikes: 0.021077
+    followers: 12076
+    engagement: 546
+    commentsToLikes: 0.019577
     id: ck60073pgd2fv0i14n1l5fa0s
     verified: false
-    hashtags: "#mintdentistry, #nyfw, #newyorkfashionweek, #unicefdallas"
-  - username: "thefunkisreal"
+    hashtags: "#chanel, #hope, #cousins, #lovemyjob"
+  - username: "1buttah"
     fullname: >-
-      Elias La Funk
+      Adam Davis
     location: "United States"
-    followers: 5421
-    engagement: 1403
-    commentsToLikes: 0.166981
-    id: ck5hi3jbjbgzb0i11ha17topj
+    followers: 18166
+    engagement: 753
+    commentsToLikes: 0.019992
+    id: ck9wf4ecqn5h90j78b9y1tgg5
     verified: false
-    hashtags: "#congo, #megantheestallion, #habesha, #pipe"
-  - username: "fashionablylateboymom"
+    hashtags: "#model, #street, #rooftop, #dtxmodels"
+  - username: "thehautechristian"
     fullname: >-
-      Letty Long | DFW Influencer
+      ⇺TᕼE ᕼᗩᑌTE ᑕᕼᖇIᔕTIᗩᑎ⇻
     location: "United States"
-    followers: 17541
-    engagement: 149
-    commentsToLikes: 0.538369
-    id: ck5qaykpxixhm0i11xg3o2xkk
+    followers: 16491
+    engagement: 417
+    commentsToLikes: 0.138535
+    id: ck0w00ug2bttp0i19vc6y7nsw
     verified: false
-    hashtags: "#stayathome, #stayin, #jeans, #dailywear"
-  - username: "emptynestblessed"
+    hashtags: "#purses, #influenster, #blackhair, #jewellrylove"
+  - username: "camila.tonello"
     fullname: >-
-      Over 50 + Empty Nester | Suzy
+      🅂🄸🄼🄿🄻🄴 🄼🄾🅃🄷🄴🅁🄷🄾🄾🄳
     location: "United States"
-    followers: 15869
-    engagement: 192
-    commentsToLikes: 0.296069
-    id: ck0twpb3tg9vy0i19m8fc4w0s
+    followers: 17503
+    engagement: 326
+    commentsToLikes: 0.057212
+    id: ck5q8gthn645u0i11ap8mk0lb
     verified: false
-    hashtags: "#believer, #newnormal, #boden, #fashionover60"
-  - username: "sunflowerman"
+    hashtags: "#homeschoolmom, #vidacomdeus, #sabedoria, #ministry"
+  - username: "inspiredbyhimart"
     fullname: >-
-      Sunflowerman
+      S t e p h a n i e  L.
     location: "United States"
-    followers: 47985
-    engagement: 112
-    commentsToLikes: 0.055738
-    id: ck5c1w5ocw1rv0i11yb4kl2zj
+    followers: 46981
+    engagement: 207
+    commentsToLikes: 0.029600
+    id: ck6to6c8tccp80j71ys41f3eo
     verified: false
-    hashtags: "#painter, #happyholidays, #happyvalentinesday, #fashion"
+    hashtags: "#texasaggies, #godisgood, #choosejoy, #womenoffaith"
+  - username: "palmermusic"
+    fullname: >-
+      PAŁMER
+    location: "United States"
+    followers: 20643
+    engagement: 456
+    commentsToLikes: 0.036696
+    id: ck6ufquxpymsb0j71tf2koc8c
+    verified: false
+    hashtags: "#transisbeautiful, #femaletomale, #transandinked, #transgendermen"
+  - username: "chriscaniff"
+    fullname: >-
+      Christian Caniff
+    location: "United States"
+    followers: 40073
+    engagement: 1116
+    commentsToLikes: 0.034896
+    id: ck14i5oz8drjr0i19fskjbfu1
+    verified: false
+    hashtags: "#happynewyears, #lmaomemes, #lmfao, #hyna"
+  - username: "jeenawilder"
+    fullname: >-
+      Motherhood & Adoption
+    location: "United States"
+    followers: 13816
+    engagement: 1201
+    commentsToLikes: 0.036335
+    id: ck9wopr5n633e0j784k34lijv
+    verified: false
+    hashtags: "#mommy, #ketolife, #drinkwater, #ldsfamian"
+  - username: "shotdiva"
+    fullname: >-
+      Michelle Carter
+    location: "United States"
+    followers: 37061
+    engagement: 106
+    commentsToLikes: 0.063046
+    id: ck5hsbo8dwbje0i11uqknbkin
+    verified: true
+    hashtags: "#wwjd, #pushyourself, #frisco, #texas"
 ---

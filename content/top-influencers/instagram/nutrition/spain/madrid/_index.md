@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Madrid In 2020
 description: >-
-  Find top nutrition Instagram influencers in Madrid in 2020. Most popular hashtags: #yomequedoencasa #fit #training #fitness.
+  Find top nutrition Instagram influencers in Madrid in 2020. Most popular hashtags: #nutrition #madrid #healthy #barcelona.
 platform: Instagram
 profiles:
-  - username: "nuriagaro"
+  - username: "calderonchris_oficial"
     fullname: >-
-      Nuria Garrido | Nuriagaro
+      Christopher calderon 🇪🇸 🇪🇺
     location: "Spain"
-    followers: 20287
-    engagement: 310
-    commentsToLikes: 0.341904
-    id: ck14jg2z3k5rz0i19c0bj2lpx
+    followers: 36029
+    engagement: 143
+    commentsToLikes: 0.088437
+    id: ckap22yggx5it0i78gelwp0zs
     verified: false
-    hashtags: "#foodblogger, #healthyfoodshare, #nottoosweet, #ketotorrijas"
+    hashtags: "#merrychristmas, #valencia, #happy, #liketime"
+  - username: "borja_garcia.10"
+    fullname: >-
+      Borja Garcia Freire
+    location: "Spain"
+    followers: 5422
+    engagement: 2100
+    commentsToLikes: 0.025442
+    id: ckap0kr6eqqlq0i78lv2t79yp
+    verified: true
+    hashtags: "#pokebowl, #bienestar, #organiccoffee, #fitness"
   - username: "artfox_official"
     fullname: >-
       Art Fox
     location: "Spain"
-    followers: 46937
-    engagement: 560
-    commentsToLikes: 0.115519
+    followers: 46789
+    engagement: 493
+    commentsToLikes: 0.106495
     id: ck14gxyg47keu0i19e165tict
     verified: false
-    hashtags: "#traveller, #travellers, #workout, #gymmotivation"
-  - username: "sheyarcoiris"
+    hashtags: "#spain2020, #crossfit, #biglittlelies, #nutrition"
+  - username: "druny.williams"
     fullname: >-
-      Sheyla Gutiérrez Ruiz
+      Druny Williams
     location: "Spain"
-    followers: 7587
-    engagement: 1073
-    commentsToLikes: 0.016484
-    id: ck5c33ntyyjlv0i1133en1cre
+    followers: 7654
+    engagement: 754
+    commentsToLikes: 0.031833
+    id: ck5pzmfi41p4b0i11xnupm86j
     verified: false
-    hashtags: "#ole, #equipo, #blackandwhitephotography, #forest"
-  - username: "timonedatv"
+    hashtags: "#gayselfie, #movistaplus, #keepcalm, #gayworld"
+  - username: "alicia.landivar"
     fullname: >-
-      𝘼𝙡𝙚𝙟𝙖𝙣𝙙𝙧𝙤 𝙏𝙞𝙢𝙤𝙣𝙚𝙙𝙖 ⚡️⚡️
+      Alicia M. Landivar
     location: "Spain"
-    followers: 67935
-    engagement: 272
-    commentsToLikes: 0.025284
-    id: ck5hnaicpngwp0i11fkc8ag3k
+    followers: 42930
+    engagement: 183
+    commentsToLikes: 0.026838
+    id: ck13d15ox353b0i19xhx3ve1t
     verified: false
-    hashtags: "#reflexiones, #tips, #pushup, #motivacion"
-  - username: "juanmariajimenez"
+    hashtags: "#puertorico, #bsas, #reflexion, #seguiradelante"
+  - username: "newbody_fc"
     fullname: >-
-      Juan Maria Jimenez Llorens
+      Javi New Body
     location: "Spain"
-    followers: 18383
-    engagement: 478
-    commentsToLikes: 0.018929
-    id: ck6tpv9zwnc220j71uzyrxbrl
+    followers: 45726
+    engagement: 111
+    commentsToLikes: 0.112663
+    id: ck5bunv4ni4440i111upnu00l
     verified: false
-    hashtags: "#ciclisme, #velo, #trailrun, #everesting"
-  - username: "blancanutri"
+    hashtags: "#fitnessworkouts, #bookstagram, #rise, #vegan"
+  - username: "luisypedroj"
     fullname: >-
-      B L A N C A nutricionista👩🏽‍⚕️
+      Luis Y Pedro
     location: "Spain"
-    followers: 218880
-    engagement: 353
-    commentsToLikes: 0.064275
-    id: ck5hjjl7agqu90i11w1mndz7v
-    verified: true
-    hashtags: "#recetassaludables, #dieta, #ensalada, #merienda"
-  - username: "albafityoga"
-    fullname: >-
-      Alba Safe
-    location: "Spain"
-    followers: 7154
-    engagement: 774
-    commentsToLikes: 0.149890
-    id: ck13bfdf6v5r20i1970j9ei5p
+    followers: 6227
+    engagement: 538
+    commentsToLikes: 0.083855
+    id: ck8t9ki0nofhy0j78tn76f658
     verified: false
-    hashtags: "#anaga, #chocolatefriday, #ametllademar, #caturanga"
-  - username: "isabellejunot"
+    hashtags: "#cuarentenatime, #familiayamigos, #wish, #lovebooks"
+  - username: "daniegm27"
     fullname: >-
-      ιѕαbelle Jυиσɬ ☺︎
+      Dani Garcia
     location: "Spain"
-    followers: 10510
-    engagement: 496
-    commentsToLikes: 0.064383
-    id: ck0vye9vz3jii0i190j3s2q0x
+    followers: 13610
+    engagement: 815
+    commentsToLikes: 0.032670
+    id: ck8t6t5e1elxa0j78opsz9sy8
     verified: false
-    hashtags: "#tachabeauty, #ellodge, #pickle, #cosmicus"
-  - username: "simona_soo"
+    hashtags: "#foodporn, #foodielove, #quedateencasa, #foodiegrammer"
+  - username: "tulipwonderland_"
     fullname: >-
-      🌸 S I M O N A 🌸
+      TulipWonderland
     location: "Spain"
-    followers: 21857
-    engagement: 714
-    commentsToLikes: 0.010732
-    id: ck15tbxfyhc640i19bpqywc34
+    followers: 12993
+    engagement: 584
+    commentsToLikes: 0.137394
+    id: ck8tcw34e0wpn0j78ji9gl0e9
     verified: false
-    hashtags: ""
-  - username: "vanrvel"
+    hashtags: "#pulsera, #cuidadodelapiel, #birra, #retrato"
+  - username: "franguilln"
     fullname: >-
-      Vanessa Veloso | 🗺️
+      Fran LifeStyle📍Madrid • Spain
     location: "Spain"
-    followers: 5017
-    engagement: 1784
-    commentsToLikes: 0.266693
-    id: ck5zr1dw8vpjj0i14i7r971ip
+    followers: 15883
+    engagement: 196
+    commentsToLikes: 0.044267
+    id: ckaotp82rwvkp0i78ueuky5na
     verified: false
-    hashtags: "#dontloosehope, #fuentesdelalgar, #guimaraes, #london"
+    hashtags: "#mentalidad, #siguientefase, #nights, #empecemos"
 ---

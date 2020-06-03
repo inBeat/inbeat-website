@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top fitness Instagram influencers in San Francisco in 2020. Most popular hashtags: #california #sanfrancisco #fitness #stayhome.
+  Find top fitness Instagram influencers in San Francisco in 2020. Most popular hashtags: #fitness #sanfrancisco #workout #sunset.
 platform: Instagram
 profiles:
-  - username: "babybu9"
+  - username: "sunny_crockett_"
     fullname: >-
-      Babybug
+      
     location: "United States"
-    followers: 18135
-    engagement: 991
-    commentsToLikes: 0.038243
-    id: ck0ub8gv5dzb30i19utladh4y
+    followers: 13815
+    engagement: 1433
+    commentsToLikes: 0.008423
+    id: ck14jsnl2lz8n0i19n4mv6l0u
     verified: false
-    hashtags: "#motivation, #dedication, #mitts, #padwork"
-  - username: "aditya_rana"
+    hashtags: "#mojavedesert, #activity, #openroad, #walk"
+  - username: "chlomoneyfit"
     fullname: >-
-      Aditya rana
+      Chloe Zomnir
     location: "United States"
-    followers: 56832
-    engagement: 105
-    commentsToLikes: 0.051875
-    id: ck8t46xld5pl60j78q8a8q24r
+    followers: 13340
+    engagement: 801
+    commentsToLikes: 0.255311
+    id: ck5c45vj10nzn0i11u5ywnock
     verified: false
-    hashtags: "#sanddunes, #adityarana, #lookbook, #miami"
-  - username: "jesslitras"
+    hashtags: "#followers, #followtrain, #supporteachother, #follower"
+  - username: "welton.lewis"
     fullname: >-
-      JESS LITRAS ✨ TRAVEL
+      Welton
     location: "United States"
-    followers: 7267
-    engagement: 909
-    commentsToLikes: 0.221382
-    id: ck8t3y1254wnl0j78w1asepqi
+    followers: 35249
+    engagement: 290
+    commentsToLikes: 0.012588
+    id: ck0w4olfnzma00i19t74kg2wy
     verified: false
-    hashtags: "#stayhome"
-  - username: "sepideh_usa_lifestyle"
+    hashtags: "#losangeles, #bodybuilding, #lamodel, #nycmodel"
+  - username: "timurdc"
     fullname: >-
-      سپیده🧿🇺🇸مهاجرتم به آمریکا
+      Timur Tuğberk
     location: "United States"
-    followers: 7671
-    engagement: 2082
-    commentsToLikes: 0.091979
-    id: ck8t7e18zgglb0j78e3gq8g2v
+    followers: 13711
+    engagement: 854
+    commentsToLikes: 0.037998
+    id: ck0w1j2w0jlbr0i1974x3cshd
     verified: false
-    hashtags: "#akon, #model, #girlpower, #quarantine"
-  - username: "kate_tova"
+    hashtags: "#happiness, #lewk, #spaday, #dogs"
+  - username: "runnylegs"
     fullname: >-
-      Artist • San Francisco
+      Jenny
     location: "United States"
-    followers: 33284
-    engagement: 482
-    commentsToLikes: 0.038158
-    id: ck5bzhxl0r6h10i11dz9o885l
+    followers: 23357
+    engagement: 366
+    commentsToLikes: 0.027528
+    id: ck5pvh3behun40i11s757rbdz
     verified: false
-    hashtags: "#ilovesf, #sflove, #flowers, #women"
-  - username: "yeniffergonzalezz"
+    hashtags: "#coronado, #southtyrol, #tunnelview, #teacuptrail"
+  - username: "natalielosangeles"
     fullname: >-
-      Yeniffer González
+      @brandedbynla
     location: "United States"
-    followers: 41377
-    engagement: 175
-    commentsToLikes: 0.096738
-    id: ck6u3xuaw0icl0j71u3afjpk4
+    followers: 200982
+    engagement: 538
+    commentsToLikes: 0.020600
+    id: ck0vzn3g89x3k0i197et1pu0x
     verified: false
-    hashtags: "#venezolana, #womansoccer, #motivation, #blackhumor"
-  - username: "sanfrancisco.city"
+    hashtags: "#socal, #artistsoninstagram, #lasvegas, #cosmopolitanlasvegas"
+  - username: "mymodernfitlife"
     fullname: >-
-      🌉Sᴀɴ Fʀᴀɴᴄɪsᴄᴏ Cɪᴛʏ 🌉
+      Kimberlie | Vinyasa Yoga
     location: "United States"
-    followers: 176317
-    engagement: 219
-    commentsToLikes: 0.011730
-    id: ck0u1bd62wezl0i193tx9gq19
+    followers: 3768
+    engagement: 1823
+    commentsToLikes: 0.173647
+    id: ckaou1elwyd750i78r6o8zhg0
     verified: false
-    hashtags: "#abc7eyewitness, #bostoncommon, #usaprimeshot, #bayarea"
-  - username: "liamharrison__"
+    hashtags: "#halasana, #shoulderstand, #sungoddessyogis, #headstand"
+  - username: "flydrianna"
     fullname: >-
-      Liam Harrison
+      𝓐𝓭𝓪 🦋
     location: "United States"
-    followers: 2493
-    engagement: 2419
-    commentsToLikes: 0.098296
-    id: ck0ty1uvyl97c0i19fhzw7a61
+    followers: 6570
+    engagement: 1146
+    commentsToLikes: 0.052878
+    id: ck9half64cyyy0j78cqu76bva
     verified: false
-    hashtags: "#extra, #meanmuggin, #gratitude, #twerk"
+    hashtags: "#unitedemirates, #messyhair, #trailridgeroad, #fitgirl"
+  - username: "arikittee"
+    fullname: >-
+      Ari
+    location: "United States"
+    followers: 47173
+    engagement: 561
+    commentsToLikes: 0.108991
+    id: ckap9xyj5u04p0i78t77v73ps
+    verified: false
+    hashtags: "#quarantine, #italian, #knowyourworth, #bosslady"
   - username: "harperbf"
     fullname: >-
       Harper
     location: "United States"
-    followers: 32426
-    engagement: 1105
-    commentsToLikes: 0.033525
+    followers: 31969
+    engagement: 1125
+    commentsToLikes: 0.034826
     id: ck0tyerjmmi8p0i193o1f823g
     verified: false
-    hashtags: "#interiors, #weekend, #adventure, #selfie"
-  - username: "jyo_shankar"
-    fullname: >-
-      Jyo | Travel & Style
-    location: "United States"
-    followers: 113558
-    engagement: 125
-    commentsToLikes: 0.050973
-    id: ck0typ95jnmrt0i19wgqsewjd
-    verified: false
-    hashtags: "#hairtutorials, #springbeauty, #fy, #greece"
+    hashtags: "#citylife, #corona, #travel, #valentinesday"
 ---

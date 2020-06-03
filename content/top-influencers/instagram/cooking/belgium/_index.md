@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Belgium In 2020
 description: >-
-  Find top cooking Instagram influencers in Belgium in 2020. Most popular hashtags: #stayhome #nature #cooking #love.
+  Find top cooking Instagram influencers in Belgium in 2020. Most popular hashtags: #cooking #purec #foodstagram #cadzand.
 platform: Instagram
 profiles:
-  - username: "chantalecoun"
+  - username: "katiacvl"
     fullname: >-
-      Chantale’s Look At The World
+      Katia Carvalho 🇵🇹 | Traveler
     location: "Belgium"
-    followers: 2908
-    engagement: 1647
-    commentsToLikes: 0.053406
-    id: ck15uleglnr7d0i19i5v0m913
+    followers: 6774
+    engagement: 1170
+    commentsToLikes: 0.130479
+    id: ck8t0oghfspf20j78klwh52tf
     verified: false
-    hashtags: "#sunrise, #sunrisephotography, #limburg, #visitlimburg"
-  - username: "charlotte_collard"
-    fullname: >-
-      Charlotte Collard’s Kitchen
-    location: "Belgium"
-    followers: 77349
-    engagement: 145
-    commentsToLikes: 0.095372
-    id: ck5hpqdgmrstc0i11pos0j9zs
-    verified: true
-    hashtags: "#cake, #elephant, #coconutoil, #katemoss"
-  - username: "joy__puzzle"
-    fullname: >-
-      Justine
-    location: "Belgium"
-    followers: 2155
-    engagement: 1482
-    commentsToLikes: 0.121838
-    id: ck6tz62bj7tw20j7129sd3514
-    verified: false
-    hashtags: "#homeworking, #monbureau, #thebunkers, #souper"
+    hashtags: "#foodlover, #belgien, #photoshop, #bouffe"
   - username: "thatgirlwithherblog"
     fullname: >-
       ⚡️ JOLIEN ⚡️
     location: "Belgium"
-    followers: 27892
-    engagement: 209
-    commentsToLikes: 0.156707
+    followers: 27913
+    engagement: 265
+    commentsToLikes: 0.266549
     id: ck5zzekd4bla00i14eejmw1pz
     verified: false
-    hashtags: "#bracelet, #hotspot, #loveyou, #catsofinstagram"
-  - username: "jerome_carlier"
-    fullname: >-
-      Jerome Carlier
-    location: "Belgium"
-    followers: 86625
-    engagement: 565
-    commentsToLikes: 0.035169
-    id: ck5hfero7x4ne0i11p4vvoioq
-    verified: false
-    hashtags: "#vegan, #sebman, #beforequarantine, #restaurant"
-  - username: "freyy"
-    fullname: >-
-      𝓕𝓻𝓮𝔂𝓳𝓪 𝓥𝓪𝓷𝓭𝓮𝓷 𝓑𝓻𝓸𝓾𝓬𝓴𝓮
-    location: "Belgium"
-    followers: 14908
-    engagement: 637
-    commentsToLikes: 0.012168
-    id: ck15s8w28btj50i19lz6mcrf8
-    verified: false
-    hashtags: "#walkies, #cats, #camplife, #pinupmodel"
+    hashtags: "#staypositive, #cuddle, #candle, #mydomoexpress"
   - username: "welowcook"
     fullname: >-
       WelOwcook ~ Food Blogger
     location: "Belgium"
-    followers: 8970
-    engagement: 514
-    commentsToLikes: 0.097384
+    followers: 8694
+    engagement: 537
+    commentsToLikes: 0.096132
     id: ck13d6g8p3wqd0i19oxcl6olh
     verified: false
-    hashtags: "#recettebrunch, #recettedujour, #potimarroncurry, #potimarrons"
+    hashtags: "#solemeuniere, #platsain, #cuisineauwok, #organicfood"
+  - username: "emmanastasis"
+    fullname: >-
+      || Emma ||
+    location: "Belgium"
+    followers: 4463
+    engagement: 1498
+    commentsToLikes: 0.087899
+    id: ck8t5icowa7jg0j78wjnqu51r
+    verified: false
+    hashtags: "#ripe, #music, #bruxelles, #greenfood"
+  - username: "ronnmoss"
+    fullname: >-
+      ronn moss
+    location: "Belgium"
+    followers: 233928
+    engagement: 219
+    commentsToLikes: 0.021037
+    id: ck0w1ntbek93q0i19jpljh0ip
+    verified: true
+    hashtags: "#loveitaly, #musicislife, #pets, #reaganlibrary"
+  - username: "lafilleagateaux"
+    fullname: >-
+      Kristel - Travel Blogger
+    location: "Belgium"
+    followers: 33233
+    engagement: 158
+    commentsToLikes: 0.058823
+    id: ck13anyz9rbif0i198idr8gqq
+    verified: false
+    hashtags: "#travel, #lavieestbelle, #france, #istayhome"
+  - username: "marti_mac.fly"
+    fullname: >-
+      Crossfiteur - Model - Pompier
+    location: "Belgium"
+    followers: 11922
+    engagement: 571
+    commentsToLikes: 0.163809
+    id: ck5pwvikkot7s0i11e8sbxech
+    verified: false
+    hashtags: "#onenparle, #reaction, #suisse, #servicdesecours"
+  - username: "hoppy_franky"
+    fullname: >-
+      Frank
+    location: "Belgium"
+    followers: 7349
+    engagement: 544
+    commentsToLikes: 0.014646
+    id: ck5c02yadsc520i117shqpjd6
+    verified: false
+    hashtags: "#cookingathome, #brasseriedubocq, #tripelkarmeliet, #blackandwhite"
+  - username: "syrcobakker"
+    fullname: >-
+      Syrco Bakker
+    location: "Belgium"
+    followers: 26954
+    engagement: 223
+    commentsToLikes: 0.024275
+    id: ck5c8ysctagfe0i11vvj7269f
+    verified: false
+    hashtags: "#love, #sixbeliefs, #caviar, #ecocups"
   - username: "devindevasquez"
     fullname: >-
       Devin DeVasquez
     location: "Belgium"
-    followers: 161060
-    engagement: 312
-    commentsToLikes: 0.011111
+    followers: 171479
+    engagement: 241
+    commentsToLikes: 0.004721
     id: ck6u4froh3gmp0j712j0km236
     verified: true
-    hashtags: "#salon, #modeling, #love, #springishere"
-  - username: "audrey_marshmaloo"
-    fullname: >-
-      Audrey Marshmaloo
-    location: "Belgium"
-    followers: 168812
-    engagement: 154
-    commentsToLikes: 0.019878
-    id: ck6tuv2piilex0j71ynzfj7cy
-    verified: false
-    hashtags: "#coachny, #coffeelover, #foodie, #greytransition"
-  - username: "ella_fairytale"
-    fullname: >-
-      Anca Moraru
-    location: "Belgium"
-    followers: 6147
-    engagement: 265
-    commentsToLikes: 0.321434
-    id: ck0vva5e2o8240i19rlegpkyj
-    verified: false
-    hashtags: "#beautyaddict, #myson, #catphoto, #sanomaximapowergel"
+    hashtags: "#iloveitalia, #marriage, #jumpforjoy, #harmony"
 ---

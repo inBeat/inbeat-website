@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Miami In 2020
 description: >-
-  Find top fashion Instagram influencers in Miami in 2020. Most popular hashtags: #miami #fashion #miamibeach #quarantine.
+  Find top fashion Instagram influencers in Miami in 2020. Most popular hashtags: #fashion #miami #stayhome #love.
 platform: Instagram
 profiles:
-  - username: "blondemouse"
+  - username: "gmousalli"
+    fullname: >-
+      Georgette Mousalli
+    location: "United States"
+    followers: 10237
+    engagement: 996
+    commentsToLikes: 0.197784
+    id: ck8t8f6cck8dp0j78yqkv9elz
+    verified: false
+    hashtags: "#hollistercollective"
+  - username: "ivan_baranchyk"
+    fullname: >-
+      Ivan Baranchyk
+    location: "United States"
+    followers: 12599
+    engagement: 1245
+    commentsToLikes: 0.029301
+    id: ck6u1s49gnk3n0j71vppd5awr
+    verified: true
+    hashtags: "#wilder, #staystrong, #champion, #fashion"
+  - username: "misterlouieg"
+    fullname: >-
+      Louie G • Cicero Applegate
+    location: "United States"
+    followers: 20702
+    engagement: 245
+    commentsToLikes: 0.060502
+    id: ck5zno67dou260i14sy5wgn7u
+    verified: false
+    hashtags: "#lgsdirty30, #valentinesday, #male, #bdsm"
+  - username: "andressgarcia1"
+    fullname: >-
+      Andres Garcia
+    location: "United States"
+    followers: 17556
+    engagement: 549
+    commentsToLikes: 0.051662
+    id: ck6u1yp0moohb0j71sbzdr9iq
+    verified: false
+    hashtags: "#ipanema, #cheatmeal, #foodporn, #instafood"
+  - username: "rollsroyce_universe"
+    fullname: >-
+      Rolls Royce Universe Fan
+    location: "United States"
+    followers: 104720
+    engagement: 316
+    commentsToLikes: 0.005120
+    id: ck14km2hdq6jo0i195hyy1nxg
+    verified: false
+    hashtags: "#fashion, #miami, #gangsta, #mansory"
+  - username: "greatfrankfx"
     fullname: >-
       
     location: "United States"
-    followers: 62826
-    engagement: 657
-    commentsToLikes: 0.033424
-    id: ck15v0x14pcic0i190f28hz5c
+    followers: 43843
+    engagement: 10
+    commentsToLikes: 0.029175
+    id: ck139ykv7nrgv0i19ausyjnxd
     verified: false
-    hashtags: "#hairsandstyles, #backhome, #monaco, #sunset"
-  - username: "88_vibes_"
+    hashtags: "#rich, #stockmarket, #socialmedia, #ghana"
+  - username: "riamichelle"
     fullname: >-
-      ⚡️88 VIBES⚡️
+      Ria Michelle - Miami Blogger
     location: "United States"
-    followers: 16208
-    engagement: 669
-    commentsToLikes: 0.033528
-    id: ck5hs51m5w04k0i11i72a7fvy
+    followers: 25183
+    engagement: 259
+    commentsToLikes: 0.056254
+    id: ck6ufiir7x99v0j71acvxs051
     verified: false
-    hashtags: "#nextmodels, #hollistercollective, #hollisterco, #feelings"
-  - username: "ivanacrochet_"
+    hashtags: "#thenoisetier, #bloggerfashion, #inmyscrubs, #moneyback"
+  - username: "angelinalavo"
     fullname: >-
-      Ivana Matos
+      Angelina Lavo
     location: "United States"
-    followers: 28897
-    engagement: 126
-    commentsToLikes: 0.114270
-    id: ck5hnzineonxw0i11bkzg5ejy
-    verified: false
-    hashtags: "#cuarentena, #selflove, #quarantinetips, #miamifashion"
-  - username: "haniset91"
-    fullname: >-
-      Haniset Rodriguez
-    location: "United States"
-    followers: 54587
-    engagement: 415
-    commentsToLikes: 0.042587
-    id: ck6tlskxx6k9k0j713lgcw1cp
-    verified: false
-    hashtags: "#style, #boutiques, #pembrokepines, #northmiami"
-  - username: "frankylustig"
-    fullname: >-
-      Franky
-    location: "United States"
-    followers: 30687
-    engagement: 351
-    commentsToLikes: 0.029982
-    id: ck14irf31gulm0i19b1tqp88e
-    verified: false
-    hashtags: "#fashion, #handsome, #dogs, #handsomemen"
-  - username: "adrianapaniaguaof"
-    fullname: >-
-      Adriana Paniagua
-    location: "United States"
-    followers: 246025
-    engagement: 310
-    commentsToLikes: 0.009458
-    id: ck6udo4tfm7oj0j717gecwill
+    followers: 628130
+    engagement: 132
+    commentsToLikes: 0.026125
+    id: ck6ue9eeypl340j712md7771x
     verified: true
-    hashtags: "#misses, #yomequedoencasa, #chicmagazine, #photoshoot"
-  - username: "v_lavoie"
+    hashtags: "#traveler, #pillowchallenge, #beautybloggers, #hollywoodhills"
+  - username: "nataliiamakeupartist"
     fullname: >-
-      Vincent Lavoie
+      Nataliia Nosokas
     location: "United States"
-    followers: 5930
-    engagement: 490
-    commentsToLikes: 0.041751
-    id: ck6tner7d9p020j71snmj4s2u
+    followers: 14922
+    engagement: 154
+    commentsToLikes: 0.368588
+    id: ck14kyxbps0yi0i19qxl5xwsi
     verified: false
-    hashtags: "#doitforthegram, #betterdays, #heready, #graffiti"
-  - username: "officialcharo"
+    hashtags: "#food, #makeupblogger, #glammakeup, #colorfullmakeup"
+  - username: "neidyparraphotography"
     fullname: >-
-      Charo
+      Neidy Parra Photography
     location: "United States"
-    followers: 118493
-    engagement: 486
-    commentsToLikes: 0.037254
-    id: ck15ufri2mysh0i19zxi9fuch
-    verified: true
-    hashtags: "#art, #stage, #vegetables, #loveyou"
-  - username: "anthony_consiglio"
-    fullname: >-
-      Anthony Consiglio
-    location: "United States"
-    followers: 61277
-    engagement: 164
-    commentsToLikes: 0.027800
-    id: ck0u7usib5pc90i196cwozbdg
+    followers: 16637
+    engagement: 348
+    commentsToLikes: 0.041700
+    id: ck0uea5jukxn30i19ii90ptpk
     verified: false
-    hashtags: "#millionaires, #photoshoot, #fashionshow, #thesuicidesquad"
-  - username: "journeyofabraid"
-    fullname: >-
-      Danié Gómez-Ortigoza | Miami
-    location: "United States"
-    followers: 33293
-    engagement: 131
-    commentsToLikes: 0.071587
-    id: ck0tycbdbmebf0i194ul7921h
-    verified: false
-    hashtags: "#volcano, #miami, #seedsforchange, #artistresidency"
+    hashtags: "#winwoodwalls, #winwood, #mothersdaygift, #mothersday"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Ankara In 2020
 description: >-
-  Find top photographers Instagram influencers in Ankara in 2020. Most popular hashtags: #ankara #turkey #photooftheday #photographer.
+  Find top photographers Instagram influencers in Ankara in 2020. Most popular hashtags: #photographer #ankara #atat #instagram.
 platform: Instagram
 profiles:
+  - username: "emreturkmetin06"
+    fullname: >-
+      Emre Türkmetin
+    location: "Turkey"
+    followers: 2457
+    engagement: 2817
+    commentsToLikes: 0.062140
+    id: ck0w13j6ohdt00i19g3jkxerx
+    verified: false
+    hashtags: "#mavidunym, #simyac, #orhanveli, #georgeorwell"
   - username: "enozelanimiz"
     fullname: >-
       Düğün Fotoğrafçısı ANKARA
     location: "Turkey"
-    followers: 23298
-    engagement: 604
-    commentsToLikes: 0.001314
+    followers: 23173
+    engagement: 606
+    commentsToLikes: 0.001316
     id: ck14i44fadjry0i19c7orwytf
     verified: false
-    hashtags: "#wedding, #gelin, #ankara, #dugunfotografcisi"
+    hashtags: "#bridaldress"
   - username: "sabripesmenofficial"
     fullname: >-
       Sabri Peşmen
     location: "Turkey"
-    followers: 7193
-    engagement: 461
-    commentsToLikes: 0.041850
+    followers: 7142
+    engagement: 472
+    commentsToLikes: 0.035338
     id: ck14hm3shb0bm0i19z6yaefmy
     verified: false
-    hashtags: "#camper, #wedding, #lugat365, #vanlifediaries"
+    hashtags: "#kurumsalkimlik, #landscape, #tropical, #bodrum"
+  - username: "photoartsmine"
+    fullname: >-
+      Aşkım Mine Babaoğlu
+    location: "Turkey"
+    followers: 11395
+    engagement: 1026
+    commentsToLikes: 0.058855
+    id: ck0w0n8ypf2cx0i19uu5ra03p
+    verified: false
+    hashtags: "#niceplace, #kapadokyaturu, #galatatower, #blanket"
+  - username: "__madamblogger"
+    fullname: >-
+      Bir Madam’ın Sunum günlüğü🥳
+    location: "Turkey"
+    followers: 12710
+    engagement: 608
+    commentsToLikes: 0.197468
+    id: ck8tdmbms3wno0j78p1hqzo6j
+    verified: false
+    hashtags: "#pizza, #ikeaturkiye, #benimkadrajimke, #aktuelurunler"
+  - username: "ankaraandmore_"
+    fullname: >-
+      @ankaraandmore_
+    location: "Turkey"
+    followers: 10126
+    engagement: 486
+    commentsToLikes: 0.064393
+    id: ck0vyeudp3moa0i19ylvtjlzo
+    verified: false
+    hashtags: "#uluo, #naturelovers, #natgeoyourshot, #band"
   - username: "ozden0628"
     fullname: >-
       Özden
     location: "Turkey"
-    followers: 4684
-    engagement: 1971
-    commentsToLikes: 0.193308
+    followers: 4637
+    engagement: 1973
+    commentsToLikes: 0.188607
     id: ck15s457wb4pb0i19zw1px7qb
     verified: false
-    hashtags: "#superhubs, #nallihan, #worldprime, #erzurum"
+    hashtags: "#italy, #bestphoto, #adanastagram, #sayg"
+  - username: "hamityalcn"
+    fullname: >-
+      Hamit Yalçın 🇹🇷
+    location: "Turkey"
+    followers: 36780
+    engagement: 396
+    commentsToLikes: 0.048396
+    id: ck5bvjjztjrq60i114fq10ao8
+    verified: false
+    hashtags: "#tarihiyolculuk, #19may, #stayhome, #evdefoto"
+  - username: "profdrhakanyardimci"
+    fullname: >-
+      Prof. Dr. Hakan YARDIMCI
+    location: "Turkey"
+    followers: 4672
+    engagement: 1129
+    commentsToLikes: 0.110943
+    id: ckap95wr0rag70i786fydzrut
+    verified: false
+    hashtags: "#zoonoz, #smile, #anne, #covid"
   - username: "fansserhattutumluer"
     fullname: >-
       Serhat TUTUMLUER FAN
     location: "Turkey"
-    followers: 54075
-    engagement: 312
-    commentsToLikes: 0.010995
+    followers: 65083
+    engagement: 349
+    commentsToLikes: 0.010076
     id: ck8ta0m45q0p90j7874sf2rb6
     verified: false
-    hashtags: "#tbt, #efsanelerunutulmaz, #sahra, #serhattutumluer"
-  - username: "hamityalcn"
-    fullname: >-
-      Hamit Yalçın 🇹🇷
-    location: "Turkey"
-    followers: 36810
-    engagement: 323
-    commentsToLikes: 0.042297
-    id: ck5bvjjztjrq60i114fq10ao8
-    verified: false
-    hashtags: "#atakuleofficial, #atakuleyeniden, #evdekal, #evdekalt"
-  - username: "ankaraandmore_"
-    fullname: >-
-      ankara.and.more
-    location: "Turkey"
-    followers: 10061
-    engagement: 450
-    commentsToLikes: 0.051660
-    id: ck0vyeudp3moa0i19ylvtjlzo
-    verified: false
-    hashtags: "#photography, #photoshoots, #mogang, #photooftheday"
-  - username: "semadogan._"
-    fullname: >-
-      Sema Doğan
-    location: "Turkey"
-    followers: 12228
-    engagement: 1171
-    commentsToLikes: 0.032965
-    id: ck8t4usuj7zk50j78c5kfpexf
-    verified: false
-    hashtags: "#kamp, #kapadokyabalon, #instagram, #antalyaalanya"
-  - username: "frt.slymn"
-    fullname: >-
-      Süleyman FIRAT
-    location: "Turkey"
-    followers: 3274
-    engagement: 1703
-    commentsToLikes: 0.054787
-    id: ck8t95f5gmy5x0j78176lug1d
-    verified: false
-    hashtags: "#covid, #drfahrettinkoca, #liketime, #cocuk"
-  - username: "nabeelalasmer"
-    fullname: >-
-      Nabeel Alasmer
-    location: "Turkey"
-    followers: 32000
-    engagement: 102
-    commentsToLikes: 0.025428
-    id: ck5zt326hzngs0i14tqcv00g1
-    verified: false
-    hashtags: "#photo, #photographysouls, #gloss, #mascara"
-  - username: "photoartsmine"
-    fullname: >-
-      Aşkım Mine Babaoğlu
-    location: "Turkey"
-    followers: 11257
-    engagement: 1013
-    commentsToLikes: 0.076225
-    id: ck0w0n8ypf2cx0i19uu5ra03p
-    verified: false
-    hashtags: "#cultureltravel, #hurriyetseyahat, #antikkent, #natgeoanimal"
+    hashtags: "#backstage, #desperatehousewives, #turkishactress, #desparatehousewives"
 ---

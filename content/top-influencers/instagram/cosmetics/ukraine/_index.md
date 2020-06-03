@@ -1,16 +1,16 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Ukraine in 2020. Most popular hashtags: #makeup #cosmetics #makeuptutorial #makeupartist.
+  Find top cosmetics Instagram influencers in Ukraine in 2020. Most popular hashtags: #giveaway #cosmetics # #happynewyear.
 platform: Instagram
 profiles:
   - username: "daria_prybylova"
     fullname: >-
       🌏 Travel, Beauty & Lifestyle
     location: "Ukraine"
-    followers: 16667
-    engagement: 1160
-    commentsToLikes: 0.030559
+    followers: 15464
+    engagement: 1172
+    commentsToLikes: 0.037373
     id: ck55nipqd6aiw0i11nt9l3fak
     verified: false
     hashtags: "#coolpntngs, #giveaway"
@@ -18,9 +18,9 @@ profiles:
     fullname: >-
       Cosmetologist Varya Nadraga
     location: "Ukraine"
-    followers: 35046
-    engagement: 826
-    commentsToLikes: 0.017840
+    followers: 37076
+    engagement: 929
+    commentsToLikes: 0.017518
     id: ck13cncbh17al0i197by19lst
     verified: false
     hashtags: ""
@@ -28,80 +28,80 @@ profiles:
     fullname: >-
       Alla Baranovskaya🕊
     location: "Ukraine"
-    followers: 331082
-    engagement: 316
-    commentsToLikes: 0.046584
+    followers: 353455
+    engagement: 419
+    commentsToLikes: 0.047835
     id: ck5c3cvqwz28b0i11835e8dzn
     verified: true
     hashtags: ""
+  - username: "evavoronova"
+    fullname: >-
+      ▪️EVA VORONOVA▪️
+    location: "Ukraine"
+    followers: 47122
+    engagement: 351
+    commentsToLikes: 0.007149
+    id: ckaox73gic2p60i78viaajx3a
+    verified: false
+    hashtags: "#wedding, #badroom, #followme, #urkaine"
+  - username: "alena_sonnikova"
+    fullname: >-
+      𝐀𝐋𝐄𝐍𝐀 𝟐𝟓𝐲.𝐨
+    location: "Ukraine"
+    followers: 6117
+    engagement: 568
+    commentsToLikes: 0.016376
+    id: ck9whf3b1xkry0j78gzz9r8g4
+    verified: false
+    hashtags: "#nude, #backstage, #wekeend, #memories"
   - username: "dnepr.kosmetolog.alina"
     fullname: >-
       Алина • Косметолог • Днепр ❤️
     location: "Ukraine"
-    followers: 5396
-    engagement: 549
-    commentsToLikes: 0.144185
+    followers: 5954
+    engagement: 412
+    commentsToLikes: 0.036494
     id: ck6tqnb9sseaf0j71hwq2e0o1
     verified: false
-    hashtags: "#dnepr, #dneprgirls, #flamingo, #cosmetologydnepr"
-  - username: "anna_gomonova_official"
+    hashtags: "#flamingo, #dnepr, #phyto, #phytopeel"
+  - username: "maryanapetrushka"
     fullname: >-
-      Anna Gomonova
+      MK_makeup
     location: "Ukraine"
-    followers: 46554
-    engagement: 471
-    commentsToLikes: 0.039804
-    id: ck6uhkx1x9pk30j71z4eb0kfp
+    followers: 18954
+    engagement: 692
+    commentsToLikes: 0.162344
+    id: ck13a8i6gp5g10i19w4fo25rs
     verified: false
-    hashtags: "#photoshooting, #fashionweekdubai, #newcollection, #fashion"
-  - username: "irina_rubinshtein"
+    hashtags: "#nyxliner, #makeupchallenge, #closeupshots, #repeatmakeup"
+  - username: "andriana.limka"
     fullname: >-
-      Визажист💄Макияж💄Обучение💄
+      Andriana Olishkevych
     location: "Ukraine"
-    followers: 23800
-    engagement: 264
-    commentsToLikes: 0.058221
-    id: ck15swrscf71d0i19u62rlzbp
+    followers: 19360
+    engagement: 905
+    commentsToLikes: 0.105504
+    id: ck8t2xbjo11wz0j78v4edkpt7
     verified: false
-    hashtags: "#selfmademakeup, #whiteskin, #weddingday, #weekend"
-  - username: "nataliiakrasii"
+    hashtags: "#ukrainegirl, #lvivtopface, #happynewyear, #haveaniceday"
+  - username: "chechella_7"
     fullname: >-
-      НАТАЛІЯ КРАСІЙ
+      Katerina Chechelenko
     location: "Ukraine"
-    followers: 10143
-    engagement: 633
-    commentsToLikes: 0.028818
-    id: ck6tv3f8yjy690j717v6yse7p
+    followers: 49236
+    engagement: 2257
+    commentsToLikes: 0.014674
+    id: ck6tr8cldxipl0j71f74h8ast
     verified: false
-    hashtags: "#coralclub, #executivevacation, #10kfollowers, #privilege"
-  - username: "samechick"
+    hashtags: "#cosmetics, #models, #beauty"
+  - username: "malenaparlicova"
     fullname: >-
       
     location: "Ukraine"
-    followers: 46382
-    engagement: 302
-    commentsToLikes: 0.111684
-    id: ck14iifepfk7u0i19vw0s5z9a
+    followers: 21382
+    engagement: 500
+    commentsToLikes: 0.059716
+    id: ck6u48svy2cgw0j71ayh170yg
     verified: false
-    hashtags: "#modelshoot, #london, #poland, #meditation"
-  - username: "michael_fedorak"
-    fullname: >-
-      📸 PHOTOGRAPHER / ФОТОГРАФ КИЕВ
-    location: "Ukraine"
-    followers: 16157
-    engagement: 306
-    commentsToLikes: 0.023469
-    id: ck0vvj2ampd0t0i19hu0a9c2v
-    verified: false
-    hashtags: "#desert, #basketball, #piatov, #dj"
-  - username: "diana_suvorova"
-    fullname: >-
-      𝗗𝗶𝗮𝗻𝗮 𝗦𝘂𝘃𝗼𝗿𝗼𝘃𝗮
-    location: "Ukraine"
-    followers: 100744
-    engagement: 571
-    commentsToLikes: 0.155383
-    id: ck13clfx80x4w0i191o1s3lac
-    verified: false
-    hashtags: "#beautyblog, #sohonyc, #thewave, #lips"
+    hashtags: "#cosmeticsgiveaway, #nofilter, #wipeitdownchallenge, #wipe"
 ---

@@ -1,26 +1,26 @@
 ---
 title: Top 10 Guitar Instagram Influencers In Australia In 2020
 description: >-
-  Find top guitar Instagram influencers in Australia in 2020. Most popular hashtags: #guitarist #guitar #metalhead #guitaristsofinstagram.
+  Find top guitar Instagram influencers in Australia in 2020. Most popular hashtags: # #a7xfamily #metallica #bossfxpedals.
 platform: Instagram
 profiles:
   - username: "jayden_tatasciore"
     fullname: >-
       Jayden Tatasciore 🎸🇦🇺
     location: "Australia"
-    followers: 151008
-    engagement: 696
-    commentsToLikes: 0.019233
+    followers: 156858
+    engagement: 690
+    commentsToLikes: 0.020477
     id: ck0w0ap2vd8yj0i19cwy50qxq
     verified: false
-    hashtags: "#schoolofrockint, #jackblack, #music, #mikedirnt"
+    hashtags: "#epiphoneguitars, #paulgilbert, #music, #kirkhammett"
   - username: "pat.wilde"
     fullname: >-
       PAT
     location: "Australia"
-    followers: 17573
-    engagement: 1683
-    commentsToLikes: 0.025009
+    followers: 17216
+    engagement: 1725
+    commentsToLikes: 0.024875
     id: ck13a00ywny7t0i19owrm7ffy
     verified: true
     hashtags: ""
@@ -28,49 +28,39 @@ profiles:
     fullname: >-
       Mitchell Black | SUSPYRIA
     location: "Australia"
-    followers: 23152
-    engagement: 341
-    commentsToLikes: 0.067657
+    followers: 23006
+    engagement: 344
+    commentsToLikes: 0.071105
     id: ck6twicsjs5mt0j711gtxwsse
     verified: false
-    hashtags: "#guitarsolo, #tattooedgirls, #guitar, #metalheadsofinstagram"
+    hashtags: "#bluehair, #alternativerock, #inkedmen, #daddariostrings"
   - username: "zubin_t"
     fullname: >-
       Zubin
     location: "Australia"
-    followers: 142864
-    engagement: 2004
-    commentsToLikes: 0.011815
+    followers: 137685
+    engagement: 2084
+    commentsToLikes: 0.011762
     id: ck55mehsr3rxr0i11clsorm5q
     verified: true
-    hashtags: "#theend, #lover, #shawnmendes, #jessiesgirl"
-  - username: "jacksonbenjamin"
+    hashtags: "#buenosaires, #thejoshuatreetour2019, #auckland, #bestsongever"
+  - username: "avishek_kc"
     fullname: >-
-      Jackson
+      Avishek KC
     location: "Australia"
-    followers: 15278
-    engagement: 1136
-    commentsToLikes: 0.018564
-    id: ck14hqz4gbots0i19nk93u5mb
+    followers: 16376
+    engagement: 1309
+    commentsToLikes: 0.004881
+    id: ck5ccgt9khbvi0i11bb0rul3b
     verified: false
-    hashtags: ""
-  - username: "trevlukather"
-    fullname: >-
-      Trev Lukather
-    location: "Australia"
-    followers: 12592
-    engagement: 646
-    commentsToLikes: 0.067794
-    id: ck0vwu6bjvm6v0i19obo5z1jy
-    verified: false
-    hashtags: "#session, #epic, #holidayseason, #follow"
+    hashtags: "#fuckoffcorona, #theworldwehavebuilt, #emptystreets, #coronav"
   - username: "rickschhh"
     fullname: >-
       Rick Schneider
     location: "Australia"
-    followers: 7728
-    engagement: 1197
-    commentsToLikes: 0.019391
+    followers: 8016
+    engagement: 1220
+    commentsToLikes: 0.021586
     id: ck5bujaduhw3h0i11jez2e6pc
     verified: false
     hashtags: ""
@@ -78,29 +68,39 @@ profiles:
     fullname: >-
       Dave Leslie
     location: "Australia"
-    followers: 2351
-    engagement: 1082
-    commentsToLikes: 0.088813
+    followers: 2383
+    engagement: 1071
+    commentsToLikes: 0.088850
     id: ck5zyb9y79kft0i14y5nja5h8
     verified: false
-    hashtags: "#dollypartonchallenge, #squeezingoneout, #brierleypickups, #betterthannothing"
-  - username: "chrisbrooksguitarist"
+    hashtags: "#musicmanevh, #washburnn4, #redhotsummertour2020, #souldierguitarstraps"
+  - username: "cesiraaitken"
     fullname: >-
-      Chris Brooks
+      Cesira Aitken
     location: "Australia"
-    followers: 43348
-    engagement: 207
-    commentsToLikes: 0.054912
-    id: ck0vzihov99qa0i19xxp2gsrv
-    verified: true
-    hashtags: "#legato, #guitarshredding, #geartalk, #floydrose"
+    followers: 8395
+    engagement: 808
+    commentsToLikes: 0.012872
+    id: ck5c0dt57sy4u0i11h8xogxp5
+    verified: false
+    hashtags: ""
+  - username: "simeonbaker"
+    fullname: >-
+      PHOTOGRAPHY | MUSIC | 📍AUSTRIA
+    location: "Australia"
+    followers: 73751
+    engagement: 615
+    commentsToLikes: 0.030501
+    id: ck14h9z6i9a6q0i19kx0dpiew
+    verified: false
+    hashtags: ""
   - username: "philsgrosso"
     fullname: >-
       Phil Sgrosso
     location: "Australia"
-    followers: 18690
-    engagement: 684
-    commentsToLikes: 0.023843
+    followers: 20300
+    engagement: 788
+    commentsToLikes: 0.027863
     id: ck5q80v9n3ydm0i11ewih7arw
     verified: true
     hashtags: "#tbt"

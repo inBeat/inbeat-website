@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top nutrition Instagram influencers in San Francisco in 2020. Most popular hashtags: #stayhome #nutrition #love #fitness.
+  Find top nutrition Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #nutrition #stayhome #positivity.
 platform: Instagram
 profiles:
-  - username: "tanukidi"
-    fullname: >-
-      Judy
-    location: "United States"
-    followers: 18633
-    engagement: 211
-    commentsToLikes: 0.028328
-    id: ck5hp1ge9qlda0i11ovej18m4
-    verified: false
-    hashtags: "#lensloveandbeyond, #spring2020, #minimalism, #trenchcoat"
-  - username: "ms.jaimelee"
-    fullname: >-
-      𝓜𝓼. 𝓙𝓪𝓲𝓶𝓮 𝓛𝓮𝓮🇺🇸
-    location: "United States"
-    followers: 102976
-    engagement: 135
-    commentsToLikes: 0.025727
-    id: ck5c7mx5p7tr50i115cq9so6t
-    verified: false
-    hashtags: "#hotelworkout, #luxor, #repost, #hiitworkout"
   - username: "thekatelync"
     fullname: >-
       Katelyn Ribero
     location: "United States"
-    followers: 34333
-    engagement: 222
-    commentsToLikes: 0.062764
+    followers: 34220
+    engagement: 212
+    commentsToLikes: 0.062056
     id: ck0u1t467xtqm0i198zgyih5g
     verified: false
-    hashtags: "#giveaway, #notaninfluencer, #moveyourbody, #homefitness"
-  - username: "channelfoods"
+    hashtags: "#virtualtraining, #easyrecipes, #thankful, #sad"
+  - username: "tanukidi"
     fullname: >-
-      Channel Foods
+      Judy
     location: "United States"
-    followers: 1082228
-    engagement: 96
-    commentsToLikes: 0.009057
-    id: ck0tuao3h6cnm0i191qg6fu63
+    followers: 17883
+    engagement: 202
+    commentsToLikes: 0.033697
+    id: ck5hp1ge9qlda0i11ovej18m4
     verified: false
-    hashtags: "#veganfood, #cheese, #dieta, #lowcarblifestyle"
+    hashtags: "#exfoliating, #girly, #superfood, #inspiration"
+  - username: "thecaliforniabowl"
+    fullname: >-
+      N  A T A L I E
+    location: "United States"
+    followers: 8050
+    engagement: 553
+    commentsToLikes: 0.336553
+    id: ckaorsftvojn70i78tu42dv2r
+    verified: false
+    hashtags: "#rawnicesmoothiechallenge, #coffeeculture, #coffeeaddicts, #coffeeshopcorners"
   - username: "fit.full.life"
     fullname: >-
       Julie
     location: "United States"
-    followers: 7327
-    engagement: 2415
-    commentsToLikes: 0.559087
+    followers: 7589
+    engagement: 2381
+    commentsToLikes: 0.520398
     id: ck6tukukugwtw0j718rwi641a
     verified: false
-    hashtags: "#homegym, #stayhealthy, #rangeofmotion, #acaibowl"
-  - username: "melu103"
+    hashtags: "#covi, #baree, #fitlife, #vacationmode"
+  - username: "sportgirl_kris"
     fullname: >-
-      𝘔𝘦𝘭𝘪𝘯𝘢 ❥
+      𝓗𝓮𝓻𝓮 𝓸𝓷𝓵𝔂 𝓯𝓸𝓻 𝓵𝓸𝓿𝓮 🥐💕
     location: "United States"
-    followers: 10126
-    engagement: 690
-    commentsToLikes: 0.170026
-    id: ck6ua4ehe1f2h0j719d0ie3wx
+    followers: 18263
+    engagement: 975
+    commentsToLikes: 0.032647
+    id: ck5hs5tz3w1gq0i110k0tn7gw
     verified: false
-    hashtags: "#nature, #picoftheday, #fitness, #fitnessmotivation"
-  - username: "lawrencezarian"
+    hashtags: "#liketime, #america, #loveyou, #life"
+  - username: "colleen_km"
     fullname: >-
-      lawrence zarian
+      Colleen K.M
     location: "United States"
-    followers: 56647
-    engagement: 535
-    commentsToLikes: 0.015310
-    id: ck15s5noubcih0i197fotoewu
+    followers: 10480
+    engagement: 539
+    commentsToLikes: 0.023409
+    id: ck6u73u6rjbe90j7100xnrnm1
+    verified: false
+    hashtags: "#ss20, #concept, #lacedetails, #fashionweek2020"
+  - username: "turnipvegan"
+    fullname: >-
+      Turnip Vegan
+    location: "United States"
+    followers: 29967
+    engagement: 304
+    commentsToLikes: 0.052484
+    id: ck6txp1plz1ml0j71cngqzhxn
+    verified: false
+    hashtags: "#2020, #veganiseasy, #vegans, #yogalife"
+  - username: "sunkissed_curlz"
+    fullname: >-
+      Zephra I Model
+    location: "United States"
+    followers: 20475
+    engagement: 282
+    commentsToLikes: 0.091363
+    id: ck5zj2vhaguhz0i14nvo1oitc
+    verified: false
+    hashtags: "#shortcurlyhair, #quarentine, #hazy, #rollerskating"
+  - username: "kittiefactory"
+    fullname: >-
+      The Kittie Factory
+    location: "United States"
+    followers: 56833
+    engagement: 157
+    commentsToLikes: 0.014818
+    id: ck0u80y0t64ts0i199utiddr4
+    verified: false
+    hashtags: "#cateyes, #mypet, #paseo, #gato"
+  - username: "vrodrigueziii"
+    fullname: >-
+      Vincent Rodriguez III
+    location: "United States"
+    followers: 82721
+    engagement: 357
+    commentsToLikes: 0.017200
+    id: ck5qacomcfplq0i11lsa39unz
     verified: true
-    hashtags: "#visionboard, #bodybuilding, #fight, #models"
-  - username: "adriano_sosa"
-    fullname: >-
-      Adriano Sosa
-    location: "United States"
-    followers: 55917
-    engagement: 214
-    commentsToLikes: 0.071510
-    id: ck13bz3qcxumx0i19wrzz28zw
-    verified: false
-    hashtags: "#positive, #smize, #fitnes, #birthday"
-  - username: "thetattooedhusband"
-    fullname: >-
-      Johnny Eastman
-    location: "United States"
-    followers: 42731
-    engagement: 430
-    commentsToLikes: 0.055730
-    id: ck6tvyum3p1mz0j71vboba1xe
-    verified: false
-    hashtags: "#familysessions, #mamaleben, #dalgonacoffee, #model"
-  - username: "fit.full.life"
-    fullname: >-
-      Julie
-    location: "United States"
-    followers: 7327
-    engagement: 2415
-    commentsToLikes: 0.559087
-    id: ck6tukukugwtw0j718rwi641a
-    verified: false
-    hashtags: "#homegym, #stayhealthy, #rangeofmotion, #acaibowl"
+    hashtags: "#creativity, #improv, #netflix, #journal"
 ---

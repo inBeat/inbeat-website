@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Germany In 2020
 description: >-
-  Find top nutrition Instagram influencers in Germany in 2020. Most popular hashtags: #fitnessmotivation #lifestyle #hamburg #blogger.
+  Find top nutrition Instagram influencers in Germany in 2020. Most popular hashtags: #inspiration #homeworkout #fitgirl #nature.
 platform: Instagram
 profiles:
+  - username: "anni_aesthetic"
+    fullname: >-
+      Annika Wagner | Bikini Fitness
+    location: "Germany"
+    followers: 5639
+    engagement: 1573
+    commentsToLikes: 0.113954
+    id: ckaoywuqhjdke0i78pdzgrsyj
+    verified: false
+    hashtags: "#athlete, #summer, #vibing, #pflanzen"
+  - username: "mariiisa_hofi"
+    fullname: >-
+      HEALTHY FOOD I LIFESTYLE
+    location: "Germany"
+    followers: 27554
+    engagement: 978
+    commentsToLikes: 0.067217
+    id: ck0txg2zcizdk0i19ulv1zs53
+    verified: false
+    hashtags: "#animalprint, #bikinishoot, #mundpflege, #abschiednehmen"
+  - username: "giuljana.wolf"
+    fullname: >-
+      GIULJANA 🌸
+    location: "Germany"
+    followers: 5777
+    engagement: 1442
+    commentsToLikes: 0.087915
+    id: ckaoycklggxwq0i78x5l695ni
+    verified: false
+    hashtags: ""
+  - username: "vitaminfede_"
+    fullname: >-
+      FEDERICA | FITNESS ACCOUNT
+    location: "Germany"
+    followers: 4188
+    engagement: 2189
+    commentsToLikes: 0.189662
+    id: ckaovkd7s4xte0i78k3sqyscg
+    verified: false
+    hashtags: "#gymwear, #fitinfluencer, #fitnessjourney, #views"
   - username: "emiromeragic"
     fullname: >-
       Emir Omeragic
     location: "Germany"
-    followers: 20506
-    engagement: 1105
-    commentsToLikes: 0.045648
+    followers: 20489
+    engagement: 1125
+    commentsToLikes: 0.048380
     id: ck6u6txvkhpie0j71bgk0n8sy
     verified: false
-    hashtags: "#talkischeap, #teamtuor, #bignews, #fatandhappy"
-  - username: "joelnaranjo_"
+    hashtags: "#fatandhappy"
+  - username: "janine_berger96"
     fullname: >-
-      J O E L  |  N A R A N J O 🇪🇸🇩🇪
+      Olympic gymnast 🇩🇪
     location: "Germany"
-    followers: 19571
-    engagement: 523
-    commentsToLikes: 0.089024
-    id: ck8t4a37960h60j78nwtw2h4m
-    verified: false
-    hashtags: ""
-  - username: "vanessalouis__official"
-    fullname: >-
-      Ꮩᴀᴎᴇѕѕᴀ Ꮮ౦uіs
-    location: "Germany"
-    followers: 111933
-    engagement: 454
-    commentsToLikes: 0.025871
-    id: ck55o5l1u7o830i111e62h81i
-    verified: false
-    hashtags: "#models, #goodlife, #cars, #bikinigirls"
-  - username: "nastja_rmk"
-    fullname: >-
-      Nastja | 23
-    location: "Germany"
-    followers: 72055
-    engagement: 209
-    commentsToLikes: 0.051177
-    id: ck0vx3uaix07u0i19qeu4mxtk
-    verified: false
-    hashtags: "#girlsnight, #wannacomewithme, #staysafe, #hoppla"
-  - username: "niannatv"
-    fullname: >-
-      Nianna
-    location: "Germany"
-    followers: 5736
-    engagement: 2495
-    commentsToLikes: 0.025041
-    id: ck8tdle5v3sml0j78q4x7be51
-    verified: false
-    hashtags: ""
-  - username: "umut.fit_official"
-    fullname: >-
-      Umut Yildirim
-    location: "Germany"
-    followers: 14402
-    engagement: 579
-    commentsToLikes: 0.102038
-    id: ck14lcrlfu0gv0i19o26uljba
-    verified: false
-    hashtags: "#gymlife, #fitness, #body, #weights"
-  - username: "steph.ernst"
-    fullname: >-
-      𝑺𝒕𝒆𝒑𝒉𝒂𝒏𝒊𝒆 𝑬𝒓𝒏𝒔𝒕
-    location: "Germany"
-    followers: 8001
-    engagement: 573
-    commentsToLikes: 0.094447
-    id: ck14h3yj78fl40i19triqin3i
-    verified: false
-    hashtags: "#flowerprint, #topshopjeans, #beautyblogger, #bloggerhamburg"
-  - username: "ker.yoga"
-    fullname: >-
-      Kerstin 🌸 YOGA & LIFE & LOVE
-    location: "Germany"
-    followers: 75270
-    engagement: 176
-    commentsToLikes: 0.059506
-    id: ck13ajhzcqodm0i19y0pe5hja
-    verified: false
-    hashtags: "#mindfulness, #dreamingoftravel, #yogainthesun, #yogachallenge"
-  - username: "sarahbrandner"
-    fullname: >-
-      Sarah Brandner
-    location: "Germany"
-    followers: 18871
-    engagement: 620
-    commentsToLikes: 0.033574
-    id: ck6twalliqx330j71v71nic5d
+    followers: 42992
+    engagement: 465
+    commentsToLikes: 0.070507
+    id: ck8szih9aokmn0j781umj8jjk
     verified: true
-    hashtags: "#plantbasedfood, #eatclean, #loveyourlife, #doglove"
-  - username: "mirjam_rodrigues.da.silva"
+    hashtags: "#friday, #missit, #stretching, #push"
+  - username: "jessi.a"
     fullname: >-
-      Mirjam Rodrigues da Silva💪🏻🔥❤️
+      Jessica Bloß
     location: "Germany"
-    followers: 162010
-    engagement: 157
-    commentsToLikes: 0.034130
-    id: ck8tch1zazg640j78z5ke8hpn
+    followers: 32172
+    engagement: 389
+    commentsToLikes: 0.080400
+    id: ck6tw3l7eptix0j717savuzrj
     verified: false
-    hashtags: "#legdayathome, #stayathome, #wirkoutideas, #absday"
+    hashtags: "#birne, #aloevera, #essbarebl, #boyfriendstyle"
+  - username: "anne__kat"
+    fullname: >-
+      Anne Kat || MindBodySoul
+    location: "Germany"
+    followers: 40105
+    engagement: 301
+    commentsToLikes: 0.059151
+    id: ck6trg3cuys9i0j710ylpssy3
+    verified: false
+    hashtags: "#ichhalteeuchaufdemlaufenden, #amen, #nursoeingedanke, #schokomus"
+  - username: "martinmichelius"
+    fullname: >-
+      Martin Michelius
+    location: "Germany"
+    followers: 31843
+    engagement: 339
+    commentsToLikes: 0.259105
+    id: ck6toa7vrcysh0j71llotzzvg
+    verified: false
+    hashtags: "#streetclassics, #couples, #defshop, #earphone"
+  - username: "hoffelnerfitness"
+    fullname: >-
+      Nutrition | Coaching & Support
+    location: "Germany"
+    followers: 13128
+    engagement: 668
+    commentsToLikes: 0.220006
+    id: ck6ttcy639x1s0j71qk9c5vj9
+    verified: false
+    hashtags: "#befit, #epix, #canada, #noccouk"
 ---

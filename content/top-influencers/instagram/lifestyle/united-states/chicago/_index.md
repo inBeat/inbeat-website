@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Chicago In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Chicago in 2020. Most popular hashtags: #chicago #instachicago #artofchi #igerschicago.
+  Find top lifestyle Instagram influencers in Chicago in 2020. Most popular hashtags: #sponsored #lifestyle #style #ad.
 platform: Instagram
 profiles:
-  - username: "thelensoftruth"
+  - username: "rotaractpower"
     fullname: >-
-      The Lens of Truth
+      Rotaract
     location: "United States"
-    followers: 9004
-    engagement: 1021
-    commentsToLikes: 0.040469
-    id: ck5c52pm72lyr0i11qtslht4b
+    followers: 25878
+    engagement: 282
+    commentsToLikes: 0.005905
+    id: ck0tvbk8yapkn0i19chlliicf
     verified: false
-    hashtags: "#street, #depthobsessed, #bravogreatphoto, #strangertonez"
-  - username: "ricp2206"
+    hashtags: "#voluntarios, #camposnovos, #conarc, #roue"
+  - username: "therealchristophe"
     fullname: >-
-      Ricardo
+      Christophe
     location: "United States"
-    followers: 20573
-    engagement: 369
-    commentsToLikes: 0.021858
-    id: ck5c41qnt0gsm0i11ed88e80f
+    followers: 11668
+    engagement: 263
+    commentsToLikes: 0.054946
+    id: ck6ub9oko8az40j71oz9ih2zp
     verified: false
-    hashtags: "#shotaward, #global, #chiarchitecture, #urbanosaires"
-  - username: "likechicago"
+    hashtags: "#street, #chicagobulls, #dragon, #boxes"
+  - username: "marienailz"
     fullname: >-
-      Like Chicago
+      Marie Nailz
     location: "United States"
-    followers: 52552
-    engagement: 254
-    commentsToLikes: 0.010298
-    id: ck5znec1noasn0i146zbqa6tf
+    followers: 65819
+    engagement: 200
+    commentsToLikes: 0.030925
+    id: ck0tzes7qq3hm0i197j67q134
     verified: false
-    hashtags: "#chicago, #abc7chicago, #chicity, #enjoyillinois"
-  - username: "conexao.america"
+    hashtags: "#momsday, #unicornnails, #hair, #beautytutorial"
+  - username: "tammelo_"
     fullname: >-
-      conexaoamerica
+      Tamires Mello
     location: "United States"
-    followers: 8706
-    engagement: 498
-    commentsToLikes: 0.007069
-    id: ck5q2yd9didcp0i11kxkjc1wh
+    followers: 40785
+    engagement: 246
+    commentsToLikes: 0.065503
+    id: ck55ol00l8ka00i11kkkb2ewh
     verified: false
-    hashtags: "#newyorklife, #sinfrancisco, #covid19, #conexaoamerica"
+    hashtags: "#visitchicago, #fblog, #vintagestyle, #lackofcolor"
   - username: "sascha.r.smith"
     fullname: >-
       Sascha Renée Smith
     location: "United States"
-    followers: 9240
-    engagement: 1319
-    commentsToLikes: 0.082489
+    followers: 9326
+    engagement: 1323
+    commentsToLikes: 0.081564
     id: ck5qayvsxiz1r0i11whmpbb8s
     verified: false
-    hashtags: "#mylook, #instamood, #ilovefood, #holidaycheer"
-  - username: "thelivstyle"
+    hashtags: "#foodandwine, #whatiwore, #christmaslove, #christmas"
+  - username: "jeniraitz"
     fullname: >-
-      Olivia Chan
+      Jeni Raitz
     location: "United States"
-    followers: 25348
-    engagement: 319
-    commentsToLikes: 0.108546
-    id: ck5cdur4mjt9y0i11h8xlxm4c
+    followers: 43317
+    engagement: 215
+    commentsToLikes: 0.067003
+    id: ck5cdiebmj83w0i11yzg8s6e3
     verified: false
-    hashtags: "#shopthemint, #ootd, #marcfisher, #revolveambassador"
+    hashtags: "#clarinsskincare, #silk, #happyeaster, #clarinsgiftedme"
+  - username: "asailorswifeblog"
+    fullname: >-
+      Kristal Leon| A Sailors Wife
+    location: "United States"
+    followers: 27197
+    engagement: 434
+    commentsToLikes: 0.081249
+    id: ck6tut8smia230j71n2o5heos
+    verified: false
+    hashtags: "#here4u, #bsfstarbucks, #abcmousepartner, #abcmousefromhome"
   - username: "paulinanako"
     fullname: >-
       P A U L I N A
     location: "United States"
-    followers: 5952
-    engagement: 1285
-    commentsToLikes: 0.405638
+    followers: 6528
+    engagement: 1429
+    commentsToLikes: 0.458763
     id: ck8tdeglf319y0j78wgwiyxls
     verified: false
-    hashtags: "#lulus, #lulusambassador, #ltkit, #rydel"
-  - username: "leehocampo"
-    fullname: >-
-      ALESSANDRA OCAMPO
-    location: "United States"
-    followers: 59692
-    engagement: 145
-    commentsToLikes: 0.027567
-    id: ck6tzf0mu9b030j71013ug1gu
-    verified: false
-    hashtags: "#sheingals, #ommgtour2020, #brandpartner, #shein"
+    hashtags: "#liketkit, #lulus, #lulusambassador, #ltkit"
   - username: "beccabogle"
     fullname: >-
       Becca Bogle
     location: "United States"
-    followers: 20458
-    engagement: 447
-    commentsToLikes: 0.006154
+    followers: 21547
+    engagement: 354
+    commentsToLikes: 0.033355
     id: ck5hhb9f47ce50i11m6il2o0y
     verified: false
-    hashtags: "#gamenight, #allthingspink, #hairstyles, #ltkstyletip"
-  - username: "ddiazphotography"
+    hashtags: "#margaritas, #nordstrom, #shein, #sunnies"
+  - username: "zibalennox"
     fullname: >-
-      Danny Diaz
+      Ziba Lennox
     location: "United States"
-    followers: 6128
-    engagement: 295
-    commentsToLikes: 0.030970
-    id: ck8sypz6hlk190j78a8ij6lc7
+    followers: 97106
+    engagement: 169
+    commentsToLikes: 0.078591
+    id: ck14j7xdaizy20i19nbvsa1x0
     verified: false
-    hashtags: "#newfaces, #pulsefilm, #chicagomarathon, #nurse"
+    hashtags: "#sponsored, #loungeinspo, #fashionweeknyc, #bucktown"
 ---

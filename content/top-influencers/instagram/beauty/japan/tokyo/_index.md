@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top beauty Instagram influencers in Tokyo in 2020. Most popular hashtags: #pr #fashion #tokyo #beauty.
+  Find top beauty Instagram influencers in Tokyo in 2020. Most popular hashtags: #beauty #flower #favorina #flowers.
 platform: Instagram
 profiles:
-  - username: "aishadayo"
+  - username: "aikotsang"
     fullname: >-
-      AISHA
+      Aiko Tsang
     location: "Japan"
-    followers: 27913
-    engagement: 355
-    commentsToLikes: 0.012369
-    id: ck5px5avvq60f0i11x640z2c6
+    followers: 16781
+    engagement: 233
+    commentsToLikes: 0.043779
+    id: ck6uazmxz6mjk0j71pek5fty0
     verified: false
-    hashtags: "#zentokyo, #alfie, #24, #braids"
+    hashtags: "#follow, #style, #modeling, #sporty"
+  - username: "julia_beauty_tokyo"
+    fullname: >-
+      Julia • ユリア🌎
+    location: "Japan"
+    followers: 3617
+    engagement: 1370
+    commentsToLikes: 0.808188
+    id: ckaoz5bqkkfqu0i78q0xx239p
+    verified: false
+    hashtags: "#indy, #portraitmode, #beautybattlepost, #strawberrynet"
   - username: "asamikotake"
     fullname: >-
       ASAMI KOTAKE
     location: "Japan"
-    followers: 32235
-    engagement: 161
-    commentsToLikes: 0.008559
+    followers: 31910
+    engagement: 141
+    commentsToLikes: 0.008949
     id: ck5cen5tllbia0i11vjzwoj2c
     verified: false
-    hashtags: "#cottonhousehotel, #ecoresort, #googlepixel, #hawaiiwedding"
-  - username: "suuchamav3v"
-    fullname: >-
-      sumika mendoza
-    location: "Japan"
-    followers: 27114
-    engagement: 424
-    commentsToLikes: 0.028378
-    id: ck15qn9ur3op50i19xkqjpwl1
-    verified: false
-    hashtags: "#reame, #me, #artisanspirits, #no104"
+    hashtags: "#elxampanyet, #ginza, #pr, #stayhome"
   - username: "pyon_1211"
     fullname: >-
       𝕪𝕦𝕦𝕡𝕪𝕠𝕟 🐰💗
     location: "Japan"
-    followers: 67858
-    engagement: 488
-    commentsToLikes: 0.004416
+    followers: 67022
+    engagement: 461
+    commentsToLikes: 0.005215
     id: ck0w208ctm0600i19okgbfbpw
     verified: false
-    hashtags: "#cosme, #winter, #sakura, #japanesegirl"
-  - username: "as_sakana.dot"
+    hashtags: "#orangemakeup, #sunset, #purikura, #17kg"
+  - username: "kaneko_"
     fullname: >-
-      イトウハルヒ/Haruhi
+      Misaki.K
     location: "Japan"
-    followers: 8382
-    engagement: 483
-    commentsToLikes: 0.004915
-    id: ck139dpanksvr0i19oyvo5dsu
+    followers: 5575
+    engagement: 704
+    commentsToLikes: 0.012539
+    id: ck5qarkt1hwg40i11tbozrg00
     verified: false
-    hashtags: "#fashion, #model, #japanesegirl, #makeup"
-  - username: "shihoriiin49"
+    hashtags: "#31philliplim, #lingerietop5, #selfportrait, #manhood"
+  - username: "ayasuke_0516"
     fullname: >-
-      ʂᴴᴵᴴᵒᴿᴵᴺ❤︎
+      長谷川あや🙃
     location: "Japan"
-    followers: 38482
-    engagement: 175
-    commentsToLikes: 0.004343
-    id: ck0tzgwv7qdsg0i19ph0woceo
+    followers: 53206
+    engagement: 158
+    commentsToLikes: 0.017649
+    id: ck6ugl6fe3ohc0j7140nunj24
     verified: false
-    hashtags: "#slinkydog, #makeup, #thankyou, #whomee"
-  - username: "kazukovalentine"
+    hashtags: "#bijoudemer, #withbic, #pancake, #cafe"
+  - username: "ayako__miyata"
     fullname: >-
-      Kazuko Hayasaka
+      宮田綾子 Ayako Miyata
     location: "Japan"
-    followers: 87369
-    engagement: 146
-    commentsToLikes: 0.010587
-    id: ck5hrnkenv5zf0i11z1cm0wpg
+    followers: 111797
+    engagement: 313
+    commentsToLikes: 0.043977
+    id: ck0w20nmgm2h50i190ajelphw
     verified: false
-    hashtags: "#femmue, #bdt, #eros, #lipserum"
-  - username: "ayapooh_22"
-    fullname: >-
-      ayako
-    location: "Japan"
-    followers: 137779
-    engagement: 136
-    commentsToLikes: 0.013076
-    id: ck14j482nijxh0i19vp57hqx1
-    verified: false
-    hashtags: "#larcobaleno, #excelmake, #gift, #pierreherm"
+    hashtags: "#flowerpierced, #highheelslover, #fashionista, #iphone"
   - username: "kyoko1903"
     fullname: >-
       Kyoko  Ueda
     location: "Japan"
-    followers: 53208
-    engagement: 757
-    commentsToLikes: 0.016961
+    followers: 54472
+    engagement: 800
+    commentsToLikes: 0.019095
     id: ck0vyp2ki53fs0i19hk3v958b
     verified: false
-    hashtags: "#lostintime, #cherryblooms, #kirschbl, #buddha"
+    hashtags: "#chiba, #fuji, #lantern, #nagano"
+  - username: "sadamayumi"
+    fullname: >-
+      SADA MAYUMI
+    location: "Japan"
+    followers: 442448
+    engagement: 107
+    commentsToLikes: 0.003807
+    id: ck14h3o7m8e080i198jgfpeio
+    verified: true
+    hashtags: "#thankyouessentialworkers, #diorcapturetotale, #relay, #homecare"
   - username: "ruri_ikeda"
     fullname: >-
       ruriikeda
     location: "Japan"
-    followers: 55096
-    engagement: 268
-    commentsToLikes: 0.031372
+    followers: 55789
+    engagement: 275
+    commentsToLikes: 0.031684
     id: ck14kn1fbqbp90i19h8hx2dhb
     verified: false
-    hashtags: "#hawaii, #shampoo, #australiawine, #pr"
+    hashtags: "#fauchoncheese, #fujimi, #denimjacket, #dessert"
 ---

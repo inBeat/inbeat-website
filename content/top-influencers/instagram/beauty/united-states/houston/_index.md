@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Houston In 2020
 description: >-
-  Find top beauty Instagram influencers in Houston in 2020. Most popular hashtags: #houston #sheingals #houstonmodels #ootd.
+  Find top beauty Instagram influencers in Houston in 2020. Most popular hashtags: #houston #naturalhair #amazonfinds #afro.
 platform: Instagram
 profiles:
-  - username: "anaalvarezblog"
+  - username: "braidsbykamesha"
     fullname: >-
-      ana alvarez
+      Ka’Mesha Cathcart
     location: "United States"
-    followers: 35611
-    engagement: 224
-    commentsToLikes: 0.367992
-    id: ck14kwr6krpga0i199eex5bjc
+    followers: 20203
+    engagement: 1302
+    commentsToLikes: 0.024172
+    id: ck15pc7izx5gk0i19c1oz3noz
     verified: false
-    hashtags: "#vicidolls, #vicicollab, #lovelulus, #lulusambassador"
-  - username: "thelhway"
-    fullname: >-
-      Laie Holloway
-    location: "United States"
-    followers: 34884
-    engagement: 312
-    commentsToLikes: 0.026615
-    id: ck5c7qorh80ew0i11qahbcf1o
-    verified: false
-    hashtags: "#cuckforona, #happybirthday, #candy, #photooftheday"
-  - username: "emilypokora"
-    fullname: >-
-      Emily Pokora
-    location: "United States"
-    followers: 27110
-    engagement: 82
-    commentsToLikes: 0.045352
-    id: ck14kmth5qamp0i19qhig1jk2
-    verified: false
-    hashtags: "#mexico, #mayanculture, #riveroakshouston, #goodvibesonly"
+    hashtags: "#blackwomen, #eyelashes, #knotlessboxbraids, #jumboboxbraids"
   - username: "juanyyasminn"
     fullname: >-
-      Juany Yasmin - Beautybyyasmin_
+      Juany Yasmin
     location: "United States"
-    followers: 67011
-    engagement: 798
-    commentsToLikes: 0.016347
+    followers: 72924
+    engagement: 826
+    commentsToLikes: 0.098356
     id: ck0tyv6l5o70l0i19bh6lou6e
     verified: false
-    hashtags: "#lb, #babyfashion, #babyfashionista, #boymom"
-  - username: "tiffanynicholsdesign"
+    hashtags: "#vaquera, #laninafresa, #dailyparenting, #mommyblogger"
+  - username: "bagd_pnda"
     fullname: >-
-      Tiffany Nichols
+      
     location: "United States"
-    followers: 44718
-    engagement: 152
-    commentsToLikes: 0.062153
-    id: ck15rsds39gk60i19fcqndpm8
+    followers: 14130
+    engagement: 537
+    commentsToLikes: 0.023715
+    id: ck5zoagtdq4bh0i14qmizco4m
     verified: false
-    hashtags: "#tiffanynicholsdesign, #relaxrelaterelease, #onecremesomanyuses, #shoedazzlepartner"
-  - username: "keepingupwithmaribel"
+    hashtags: "#socialmustang, #mustangsofinstagram, #travelphotography, #mustangnation"
+  - username: "mena_adubea"
     fullname: >-
-      𝙼𝚊𝚛𝚒𝚋𝚎𝚕 𝚅𝚒𝚕𝚕𝚊𝚗𝚞𝚎𝚟𝚊 🌱
+      HOUSTON BEAUTY CONTENT CREATOR
     location: "United States"
-    followers: 2570
-    engagement: 1346
-    commentsToLikes: 0.463854
-    id: ck135acw20i8h0i19vgpnt81m
+    followers: 60795
+    engagement: 330
+    commentsToLikes: 0.027877
+    id: ck5hm3snflbo30i11l4hql6ek
     verified: false
-    hashtags: "#birthdayoutfit, #hope, #wiwtd, #outfitinspiration"
+    hashtags: "#naturalnails, #instaskincare, #wighack, #naturalhair"
   - username: "lifetolauren"
     fullname: >-
       Lifestyle Blog
     location: "United States"
-    followers: 72182
-    engagement: 153
-    commentsToLikes: 0.045195
+    followers: 73657
+    engagement: 178
+    commentsToLikes: 0.058193
     id: ck0txw805kprq0i19y8nl6w6j
     verified: false
-    hashtags: "#firstpregnancy, #tiedyefashion, #bumpstyle, #athleticwear"
-  - username: "jessicamelgoza_"
-    fullname: >-
-      𝐉 𝐄 𝐒 𝐒 𝐈 𝐂 𝐀
-    location: "United States"
-    followers: 11078
-    engagement: 494
-    commentsToLikes: 0.688197
-    id: ck14j9uovja5r0i19msnx1s88
-    verified: false
-    hashtags: "#gifted, #livelovelayer, #thephylaeffect, #liketkit"
+    hashtags: "#selfcare, #ltkmothersday, #bumpstyle, #summerstyle"
   - username: "charmingcharltonphotos"
     fullname: >-
       CHARMING  CHARLTON
     location: "United States"
-    followers: 57331
-    engagement: 81
-    commentsToLikes: 0.043443
+    followers: 57133
+    engagement: 56
+    commentsToLikes: 0.039330
     id: ck0tt00bc0k950i19fns6158u
     verified: false
-    hashtags: "#charmingcharlton, #lightedit, #houstonphotographers, #jackskellington"
-  - username: "urgirladrie"
+    hashtags: "#charmingcharlton, #houstonphotographer, #uneditedphoto, #irunwithahmaud"
+  - username: "nadiaisabelmakeup"
     fullname: >-
-      Adrieanna Sauceda
+      Nadia Isabel Tabban
     location: "United States"
-    followers: 10639
-    engagement: 2321
-    commentsToLikes: 0.047380
-    id: ck8wfow35g1b80j78hos5iwhh
+    followers: 11435
+    engagement: 516
+    commentsToLikes: 0.142205
+    id: ck15q6nso1d7i0i193pwrhoyl
     verified: false
-    hashtags: "#fallinginlove, #prettygirls, #tiktok, #dollskill"
+    hashtags: "#20, #privatesocietycosmetics, #identidad, #pixipretties"
+  - username: "jessicamelgoza_"
+    fullname: >-
+      𝐉 𝐄 𝐒 𝐒 𝐈 𝐂 𝐀
+    location: "United States"
+    followers: 12410
+    engagement: 556
+    commentsToLikes: 0.322708
+    id: ck14j9uovja5r0i19msnx1s88
+    verified: false
+    hashtags: "#designerdupes, #tiedyefashion, #whiteteamoments, #cincodemayo"
+  - username: "luxebeemakeuplounge"
+    fullname: >-
+      Houston’s #1 Beauty Store 💁‍♀️
+    location: "United States"
+    followers: 20934
+    engagement: 15
+    commentsToLikes: 0.014822
+    id: ck15rg7s47rxm0i19uhtxymne
+    verified: false
+    hashtags: ""
+  - username: "elianedjema"
+    fullname: >-
+      Eliane Djema, Esq. 🇨🇩
+    location: "United States"
+    followers: 10863
+    engagement: 964
+    commentsToLikes: 0.073983
+    id: ck14jsacrlxan0i19hoiht9zb
+    verified: false
+    hashtags: "#iaintscared, #fashion, #blogger, #wcw"
 ---

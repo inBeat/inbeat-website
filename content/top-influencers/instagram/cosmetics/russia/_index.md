@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Russia In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Russia in 2020. Most popular hashtags: #makeup #longhair #overwatchplays #cosplaybabe.
+  Find top cosmetics Instagram influencers in Russia in 2020. Most popular hashtags: # #pillowchallenge #sharovaprofessional #artistrystudio.
 platform: Instagram
 profiles:
+  - username: "sasha_nikolina"
+    fullname: >-
+      MAKEUP ARTIST FROM RUSSIA
+    location: "Russia"
+    followers: 100906
+    engagement: 376
+    commentsToLikes: 0.162536
+    id: ck5hggwff2pa70i11rn7cfdcu
+    verified: false
+    hashtags: ""
   - username: "kristinasadova"
     fullname: >-
-      Семья ✨Путешествия✨Бизнес
+      Семья✨Путешествия✨Бизнес
     location: "Russia"
-    followers: 50463
-    engagement: 328
-    commentsToLikes: 0.067480
+    followers: 85665
+    engagement: 336
+    commentsToLikes: 0.044500
     id: ck8t2102jxtn40j78rzp4ioud
     verified: false
     hashtags: ""
+  - username: "roxys_choice"
+    fullname: >-
+      ⭐RAXANA SAMOKHVALOVA ✨
+    location: "Russia"
+    followers: 532937
+    engagement: 252
+    commentsToLikes: 0.040102
+    id: ck13cbadwzi890i191zv9px97
+    verified: false
+    hashtags: "#kerastase, #cafemimi, #nivea, #roxyschoicelipart"
+  - username: "guzeliusha_"
+    fullname: >-
+      Гузелия Хамитовна
+    location: "Russia"
+    followers: 25748
+    engagement: 302
+    commentsToLikes: 0.279332
+    id: ck6tpdtb8jak80j71zlhex8r8
+    verified: false
+    hashtags: "#mpower, #bmwm3, #m2, #beamer"
   - username: "leemilaya"
     fullname: >-
       Mila Lee
     location: "Russia"
-    followers: 16283
-    engagement: 540
-    commentsToLikes: 0.055261
+    followers: 16378
+    engagement: 404
+    commentsToLikes: 0.098471
     id: ck5hkylurj9d50i11nbi9a5h0
     verified: false
-    hashtags: "#eveline, #evelinerussia, #leemilaya, #makeup"
-  - username: "artem_chek"
+    hashtags: "#trendyboxspb, #faberlicinfluencer, #styleclothes, #beautybomb"
+  - username: "nyuta_shatat"
     fullname: >-
-      Артем Чекалин
+      МАМА 💜 УКРАИНА 💜 ДЕКРЕТ
     location: "Russia"
-    followers: 3600062
-    engagement: 1085
-    commentsToLikes: 0.080967
-    id: ck6u7drubkx240j71elui307u
+    followers: 3576
+    engagement: 909
+    commentsToLikes: 0.575856
+    id: ck8t3ncmg3t3y0j78gov3cxw6
+    verified: false
+    hashtags: ""
+  - username: "_inna_demchenko"
+    fullname: >-
+      INNA 🦂
+    location: "Russia"
+    followers: 21847
+    engagement: 320
+    commentsToLikes: 0.040918
+    id: ck6u4mtm24mdj0j71e2oh0i87
+    verified: false
+    hashtags: ""
+  - username: "kseniaid_"
+    fullname: >-
+      Ксюша
+    location: "Russia"
+    followers: 5944
+    engagement: 628
+    commentsToLikes: 0.046915
+    id: ckap0eobopy6f0i78krzv33qr
     verified: false
     hashtags: ""
   - username: "ler_chek"
     fullname: >-
       Валерия Чекалина
     location: "Russia"
-    followers: 5312084
-    engagement: 1447
-    commentsToLikes: 0.096301
+    followers: 5396972
+    engagement: 1445
+    commentsToLikes: 0.351140
     id: ck13b1hvvt88k0i19n6vycbnq
     verified: false
-    hashtags: "#viviennesabo, #tonedecabaret, #pillowchallenge"
-  - username: "nanara_berezina"
+    hashtags: "#pillowchallenge, #lays"
+  - username: "artem_chek"
     fullname: >-
-      Нанара Березина Make-up artist
+      Артем Чекалин
     location: "Russia"
-    followers: 36919
-    engagement: 115
-    commentsToLikes: 0.033420
-    id: ck5qehly30j5v0i11r7dgd9gt
-    verified: false
-    hashtags: "#worldchempionship, #vizaj, #paris, #mekeup"
-  - username: "lacquorice"
-    fullname: >-
-      lacquorice@yandex.ru
-    location: "Russia"
-    followers: 16277
-    engagement: 448
-    commentsToLikes: 0.018580
-    id: ck5hlkw4lkebk0i11fxvo3n3g
-    verified: false
-    hashtags: "#pinkupgellacquer12, #americanapparelnailpolish, #lavellenailpolish, #opinaillacquer"
-  - username: "prozhanna"
-    fullname: >-
-      Zhanna| Pixie•Girl |BeautyBlog
-    location: "Russia"
-    followers: 17969
-    engagement: 289
-    commentsToLikes: 0.024866
-    id: ck6u8qdpdt1yv0j71ihe7gmnt
-    verified: false
-    hashtags: "#35"
-  - username: "sasha_nikolina"
-    fullname: >-
-      MAKEUP ARTIST FROM RUSSIA
-    location: "Russia"
-    followers: 91050
-    engagement: 224
-    commentsToLikes: 0.041272
-    id: ck5hggwff2pa70i11rn7cfdcu
-    verified: false
-    hashtags: "#smokyeyes, #primer, #19, #mknikolina"
-  - username: "agentmakeup"
-    fullname: >-
-      🌿 Обзоры Косметики 🌿
-    location: "Russia"
-    followers: 32892
-    engagement: 404
-    commentsToLikes: 0.031635
-    id: ck0w3n8deu9ru0i19ljm1mzfy
+    followers: 3575961
+    engagement: 1152
+    commentsToLikes: 0.114210
+    id: ck6u7drubkx240j71elui307u
     verified: false
     hashtags: ""
-  - username: "vixena_siren"
-    fullname: >-
-      Alice Varshavskaya cosplay 🦊
-    location: "Russia"
-    followers: 11509
-    engagement: 927
-    commentsToLikes: 0.017215
-    id: ck0vyk9lz4f3e0i19614pxqvi
-    verified: false
-    hashtags: "#cosplayworld, #xmencosplay, #gamecosplay, #witch"
 ---

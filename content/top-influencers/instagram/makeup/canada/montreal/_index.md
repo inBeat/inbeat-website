@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Montreal In 2020
 description: >-
-  Find top makeup Instagram influencers in Montreal in 2020. Most popular hashtags: #makeup #mtl #fashion #montreal.
+  Find top makeup Instagram influencers in Montreal in 2020. Most popular hashtags: #makeuptutorials #selfcare #makeupartist #makeuplife.
 platform: Instagram
 profiles:
-  - username: "libartystudios"
+  - username: "sanssoleil"
     fullname: >-
-      Libarty®
+      MONTREAL MAKEUP ARTIST
     location: "Canada"
-    followers: 33404
-    engagement: 238
-    commentsToLikes: 0.033038
-    id: ck15pthubzjl50i19tb6zunu7
+    followers: 2476
+    engagement: 1438
+    commentsToLikes: 0.617486
+    id: ckaoyexbrh8dn0i788vkl7fm8
     verified: false
-    hashtags: "#headshot, #headshots, #love, #coronavirus"
-  - username: "beautybyabyy"
-    fullname: >-
-      B E A U T Y x A B Y .
-    location: "Canada"
-    followers: 30690
-    engagement: 75
-    commentsToLikes: 0.217135
-    id: ck0tyawjfm7vl0i19kawnqjr3
-    verified: false
-    hashtags: "#wocmakeup, #hudabeautyobsessions, #abhxalyssaedwards, #hydraliner"
-  - username: "pythia.queen"
-    fullname: >-
-      Christos 🔮 Pythia
-    location: "Canada"
-    followers: 7762
-    engagement: 1064
-    commentsToLikes: 0.053251
-    id: ck5qdi2d7vov70i11cz1b0ros
-    verified: false
-    hashtags: "#lgbtq, #pinup, #thewitcher, #babylon"
+    hashtags: "#supportlocal, #weddingmakeup, #makeupgiveaway, #mualife"
   - username: "lapetitevengeance"
     fullname: >-
       M a r i k a  D’ A u t e u i l
     location: "Canada"
-    followers: 133880
-    engagement: 452
-    commentsToLikes: 0.018044
+    followers: 134572
+    engagement: 192
+    commentsToLikes: 0.027264
     id: ck0ttuthi4ek60i197h03p64o
     verified: false
-    hashtags: "#instagramisnotreality, #youregoingtobefine"
-  - username: "gabriellecaron_humoriste"
+    hashtags: "#makeupforever, #marikamoscow, #buttercupcake, #love"
+  - username: "beautybyabyy"
     fullname: >-
-      Gabrielle Caron
+      B E A U T Y x A B Y ♡
     location: "Canada"
-    followers: 6282
-    engagement: 398
-    commentsToLikes: 0.029170
-    id: ck5cexho1lwuj0i112t8btboo
+    followers: 30498
+    engagement: 78
+    commentsToLikes: 0.228071
+    id: ck0tyawjfm7vl0i19kawnqjr3
     verified: false
-    hashtags: "#downtown, #wokeuplikethis, #maman, #maisonsimons"
-  - username: "imvelvetbones"
+    hashtags: "#brownskingirls, #flatlaymakeup, #abhsoftglam, #neutralmakeup"
+  - username: "samanthasito"
     fullname: >-
-      ♥ Velvet Bones ♥
+      SAMANTHA SITO • Style Blogger
     location: "Canada"
-    followers: 13948
-    engagement: 749
-    commentsToLikes: 0.050670
-    id: ck5pzvs7y2zq20i11oi0du2mr
+    followers: 37601
+    engagement: 65
+    commentsToLikes: 0.267961
+    id: ck8swi5dye62u0j7813xydgdt
     verified: false
-    hashtags: "#rip"
+    hashtags: "#iiheartchanel, #zarawoman, #weekendstyle, #coffeeaddicts"
+  - username: "malikaberube"
+    fullname: >-
+      Montreal Bridal Makeup Artist
+    location: "Canada"
+    followers: 12644
+    engagement: 148
+    commentsToLikes: 0.065657
+    id: ck15tuhxnjyro0i19kgiu5y6y
+    verified: false
+    hashtags: "#beauty, #abhsultry, #makeuplover, #colorfulmakeup"
+  - username: "beautybycarlydara"
+    fullname: >-
+      Carly Dara 🦋 LIVE GIVEAWAYS 🎉
+    location: "Canada"
+    followers: 13409
+    engagement: 551
+    commentsToLikes: 0.512203
+    id: ckap3770h1u6z0i78g1580xik
+    verified: false
+    hashtags: "#vitamiccday"
+  - username: "pythia.queen"
+    fullname: >-
+      🔮PYTHIA🔮
+    location: "Canada"
+    followers: 11537
+    engagement: 1580
+    commentsToLikes: 0.037808
+    id: ck5qdi2d7vov70i11cz1b0ros
+    verified: false
+    hashtags: "#dragmarriage, #monsterhigh, #reddevilmakeup, #harleyquinn"
+  - username: "mimisemaan"
+    fullname: >-
+      𝓜
+    location: "Canada"
+    followers: 6215
+    engagement: 1312
+    commentsToLikes: 0.042754
+    id: ck9h9z1hzaj9d0j781s84oedy
+    verified: false
+    hashtags: ""
   - username: "miss.sugar.peach"
     fullname: >-
-      ♡ A R I E L L E ♡
+      𝑨𝑹𝑰𝑬𝑳𝑳𝑬
     location: "Canada"
-    followers: 269748
-    engagement: 826
-    commentsToLikes: 0.006104
+    followers: 267540
+    engagement: 804
+    commentsToLikes: 0.005965
     id: ck0u0v0w3uvzb0i19anozkw3r
     verified: false
-    hashtags: "#loungeunderwear, #femalefamily, #makeupforever, #betterthansex"
-  - username: "nenemss__"
+    hashtags: "#stayathome, #ad, #sleekmakeup, #fentybeauty"
+  - username: "alexandrajaye"
     fullname: >-
-      ⵉⵏⴻⵙ | إيناس
+      Alex Weinstein
     location: "Canada"
-    followers: 6909
-    engagement: 1689
-    commentsToLikes: 0.040475
-    id: ck0u7xa1a60q90i19t3pj228t
+    followers: 18549
+    engagement: 188
+    commentsToLikes: 0.021571
+    id: ck5hhpd2y9f9h0i11b2sbxiui
     verified: false
-    hashtags: "#tunisie, #curlyhairvideos, #naturalhaircommunity, #curlyhairproducts"
-  - username: "pieragnese"
-    fullname: >-
-      Pier-Anne Bilodeau💋
-    location: "Canada"
-    followers: 5097
-    engagement: 3274
-    commentsToLikes: 0.026968
-    id: ck8t8u8smludn0j786tkthp4j
-    verified: false
-    hashtags: "#doglover, #curve, #curvy, #makeuplover"
-  - username: "itsbylka"
-    fullname: >-
-      D E H I A 🌺
-    location: "Canada"
-    followers: 137813
-    engagement: 479
-    commentsToLikes: 0.015693
-    id: ck6tomo9zex120j71xpl1abqy
-    verified: false
-    hashtags: "#yoins, #yoinsstyle, #mtl, #stayhome"
+    hashtags: "#liketkit, #backoncanadiansoil, #happyshopping, #quarantinebuddies"
 ---

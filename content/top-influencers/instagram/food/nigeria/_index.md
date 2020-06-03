@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top food Instagram influencers in Nigeria in 2020. Most popular hashtags: #africanfoods #foodblogger #africanfood #recipecreator.
+  Find top food Instagram influencers in Nigeria in 2020. Most popular hashtags: #friedrice #dodo #noodles #birthdaygirl.
 platform: Instagram
 profiles:
-  - username: "adaohh"
+  - username: "jbums"
     fullname: >-
-      /ah-dah/
+      Mrs Black
     location: "Nigeria"
-    followers: 3381
-    engagement: 1570
-    commentsToLikes: 0.061397
-    id: ck15v0vf0pc9l0i192gp57l9b
+    followers: 39944
+    engagement: 248
+    commentsToLikes: 0.041957
+    id: ck6tu8eqoew750j71srno3x1a
     verified: false
-    hashtags: "#instagrammers, #savage, #nailedit, #fenty"
-  - username: "diaryofakitchenlover"
-    fullname: >-
-      Omotolani | Can | Cook
-    location: "Nigeria"
-    followers: 152399
-    engagement: 229
-    commentsToLikes: 0.054912
-    id: ck6u7zfb1ojwn0j71n5dcn904
-    verified: false
-    hashtags: "#fishsauce, #breakfastinspo, #atarice, #agoyin"
-  - username: "ifys.kitchen"
-    fullname: >-
-      Ify's Kitchen (KITCHEN QUEEN)⭐
-    location: "Nigeria"
-    followers: 507865
-    engagement: 117
-    commentsToLikes: 0.055813
-    id: ck13ay30csr050i1982459fz6
-    verified: false
-    hashtags: ""
-  - username: "omolola_unbothered"
-    fullname: >-
-      KING Olabiyi Omolola !!!
-    location: "Nigeria"
-    followers: 15836
-    engagement: 222
-    commentsToLikes: 0.093931
-    id: ck6tx9mx1wm130j71zuh6vz9g
-    verified: false
-    hashtags: "#melanin, #butt, #liptontea, #marich2020"
-  - username: "officialmakepeace"
-    fullname: >-
-      Ugbojiaku Makepeace
-    location: "Nigeria"
-    followers: 13013
-    engagement: 294
-    commentsToLikes: 0.104092
-    id: ck55kas5oyvs40i11uztfwtrg
-    verified: false
-    hashtags: "#cov, #fitfamlagos, #wizkid, #biceps"
-  - username: "aromaarena"
-    fullname: >-
-      Cooking solutions
-    location: "Nigeria"
-    followers: 62009
-    engagement: 179
-    commentsToLikes: 0.031270
-    id: ck6ug8mpm1k580j712dwgagam
-    verified: false
-    hashtags: "#liversauce, #breakfast, #lagosfoodie, #instachef"
-  - username: "yewande_komolafe"
-    fullname: >-
-      Yewande
-    location: "Nigeria"
-    followers: 10761
-    engagement: 493
-    commentsToLikes: 0.050394
-    id: ck6u39pm6wjlm0j712bkc2f4m
-    verified: false
-    hashtags: "#naija"
-  - username: "tukemorgan"
-    fullname: >-
-      Mrs Oso| Saxophonist| Blogger
-    location: "Nigeria"
-    followers: 18783
-    engagement: 239
-    commentsToLikes: 0.109731
-    id: ck8ta7euzqqf80j78fyfk5go0
-    verified: false
-    hashtags: "#tiktok, #throwback, #stayhomestaysafe, #stayhomesavelives"
+    hashtags: "#warriorprincess, #feastingathistable, #whoistheadulthere, #belongingtothekingoftheearth"
   - username: "hadizaalawal"
     fullname: >-
       Wovenblends
     location: "Nigeria"
-    followers: 24600
-    engagement: 156
-    commentsToLikes: 0.038937
+    followers: 25235
+    engagement: 207
+    commentsToLikes: 0.056015
     id: ck8t4u9wc7yai0j78mldvs768
     verified: false
-    hashtags: "#quarantinelife, #quarantineliving, #mypolaroidnow, #quarantimes"
-  - username: "moagusto"
+    hashtags: "#quarantinebirthday, #birthdaygirl, #taurusbirthday, #sheaonthebeach"
+  - username: "omolola_unbothered"
     fullname: >-
-      Mo Agusto
+      KING Olabiyi Omolola !!!
     location: "Nigeria"
-    followers: 6317
-    engagement: 467
-    commentsToLikes: 0.042524
-    id: ck5q76glj06570i1119lk6mwy
+    followers: 15874
+    engagement: 268
+    commentsToLikes: 0.118014
+    id: ck6tx9mx1wm130j71zuh6vz9g
     verified: false
-    hashtags: "#smwlagos, #onepanmeal, #cooking, #chicken"
+    hashtags: "#chef, #happychild, #musicartist, #roddyricch"
+  - username: "rustyjem"
+    fullname: >-
+      JEM
+    location: "Nigeria"
+    followers: 2559
+    engagement: 1447
+    commentsToLikes: 0.103485
+    id: ckaox4c3lbq900i78bpcsygws
+    verified: false
+    hashtags: "#lips, #earings, #stayhome, #savelives"
+  - username: "lazywrita"
+    fullname: >-
+      Anda Damisa
+    location: "Nigeria"
+    followers: 61551
+    engagement: 288
+    commentsToLikes: 0.084055
+    id: ck5hq6z6wsm6m0i11mceycuhd
+    verified: false
+    hashtags: "#showmaxnigeria, #merike, #explore, #behappychallenge"
+  - username: "ola_young"
+    fullname: >-
+      OLABISI OlaMoney Adesona
+    location: "Nigeria"
+    followers: 4249
+    engagement: 1091
+    commentsToLikes: 0.094944
+    id: ck6tvj3m6mhho0j71ymha1mmi
+    verified: false
+    hashtags: "#yourgirlcannowmakeyummyjollofrice, #notconcotion, #dontskipbecauseyouthinkyoudonthaveany, #weareheretocheeryouon"
+  - username: "bigbellylamba"
+    fullname: >-
+      B.H | Brains and Belly
+    location: "Nigeria"
+    followers: 2472
+    engagement: 1334
+    commentsToLikes: 0.071026
+    id: ck0w0uligg40w0i19qiy182ee
+    verified: false
+    hashtags: "#lifeiseazi, #youngrare, #watchthemix, #mountainbiking"
+  - username: "diaryofakitchenlover"
+    fullname: >-
+      Tolani | Can | Cook
+    location: "Nigeria"
+    followers: 175756
+    engagement: 244
+    commentsToLikes: 0.061745
+    id: ck6u7zfb1ojwn0j71n5dcn904
+    verified: false
+    hashtags: "#ricenoodles, #moimoirecipe, #yamandbeans, #beansporridge"
+  - username: "dolapogrey"
+    fullname: >-
+      D o l a p o  G r e y
+    location: "Nigeria"
+    followers: 40600
+    engagement: 232
+    commentsToLikes: 0.057736
+    id: ck9haztgwerot0j785bhiq4au
+    verified: false
+    hashtags: "#coffee, #beefstew, #baking, #rice"
+  - username: "tijesu.o"
+    fullname: >-
+      Lifestyle With Tijesu
+    location: "Nigeria"
+    followers: 10360
+    engagement: 990
+    commentsToLikes: 0.173724
+    id: ck0tvv3bfcx2x0i19qum3r0op
+    verified: false
+    hashtags: ""
 ---

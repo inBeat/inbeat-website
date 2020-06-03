@@ -1,89 +1,79 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Argentina In 2020
 description: >-
-  Find top mothers Instagram influencers in Argentina in 2020. Most popular hashtags: #look #ootd #fashion #cute.
+  Find top mothers Instagram influencers in Argentina in 2020. Most popular hashtags: # #photography #beauty #familia.
 platform: Instagram
 profiles:
   - username: "sofifernandez2"
     fullname: >-
-      Sofi Fernandez
+      tengo el pene pequeño
     location: "Argentina"
-    followers: 45386
-    engagement: 2113
-    commentsToLikes: 0.006803
+    followers: 58646
+    engagement: 1742
+    commentsToLikes: 0.008183
     id: ck6030u26kdtl0i14kkcxm3ew
     verified: false
     hashtags: ""
-  - username: "nicolas_strack"
-    fullname: >-
-      Nicolás
-    location: "Argentina"
-    followers: 16384
-    engagement: 1561
-    commentsToLikes: 0.008888
-    id: ck0ucnx8vh9dr0i19oxtyolpw
-    verified: false
-    hashtags: "#aztrek, #soloenjaguar"
-  - username: "cristinafaguas"
-    fullname: >-
-      Cristina Faguás
-    location: "Argentina"
-    followers: 2379
-    engagement: 1985
-    commentsToLikes: 0.084309
-    id: ck15pxvta06dg0i19bvuaoxdq
-    verified: false
-    hashtags: "#canalsur, #bornos, #magia, #ganasdemar"
-  - username: "vazquez.camila2"
-    fullname: >-
-      Camila Vazquez
-    location: "Argentina"
-    followers: 2242
-    engagement: 1255
-    commentsToLikes: 0.050373
-    id: ck55lmsen1xra0i116558yzoq
-    verified: false
-    hashtags: ""
-  - username: "alofashionn"
-    fullname: >-
-      ☆ ASESORA DE IMAGEN ☆
-    location: "Argentina"
-    followers: 30174
-    engagement: 190
-    commentsToLikes: 0.070788
-    id: ck6tye7mi37te0j71ewp9h9et
-    verified: false
-    hashtags: "#cute, #playa, #pregnancyphotography, #familyblogger"
-  - username: "irocorona"
-    fullname: >-
-      💎Iro 🇩🇴 📺
-    location: "Argentina"
-    followers: 218768
-    engagement: 143
-    commentsToLikes: 0.042685
-    id: ck5zza0obbcwt0i14n2tyubbx
-    verified: false
-    hashtags: "#qtvshow, #giveaway, #lapara, #repost"
-  - username: "undiagris"
-    fullname: >-
-      Marta Garrido
-    location: "Argentina"
-    followers: 25658
-    engagement: 1034
-    commentsToLikes: 0.010480
-    id: ck15syfqkffyn0i19logiql4l
-    verified: false
-    hashtags: "#dramaking, #fantasticathome"
   - username: "soficantilo"
     fullname: >-
       Sofi Cantilo
     location: "Argentina"
-    followers: 16874
-    engagement: 168
-    commentsToLikes: 0.106684
+    followers: 15731
+    engagement: 184
+    commentsToLikes: 0.110900
     id: ck8t06o5pqzcs0j78i2evz70l
     verified: false
+    hashtags: "#100k, #family, #tmxteam, #mendoza"
+  - username: "carodottori"
+    fullname: >-
+      Caro Dottori
+    location: "Argentina"
+    followers: 12550
+    engagement: 546
+    commentsToLikes: 0.041497
+    id: ck0w5ziea66pb0i19k4385lel
+    verified: false
+    hashtags: "#paulkalkbrenner, #wine, #fashion, #photography"
+  - username: "cristinafaguas"
+    fullname: >-
+      Cristina Faguás
+    location: "Argentina"
+    followers: 2399
+    engagement: 2012
+    commentsToLikes: 0.082468
+    id: ck15pxvta06dg0i19bvuaoxdq
+    verified: false
+    hashtags: "#willmissyoualot, #predentadora, #beach, #adf47"
+  - username: "vazquez.camila2"
+    fullname: >-
+      Camila Vazquez
+    location: "Argentina"
+    followers: 2250
+    engagement: 1254
+    commentsToLikes: 0.050298
+    id: ck55lmsen1xra0i116558yzoq
+    verified: false
     hashtags: ""
+  - username: "undiagris"
+    fullname: >-
+      Marta Garrido
+    location: "Argentina"
+    followers: 25592
+    engagement: 1029
+    commentsToLikes: 0.009087
+    id: ck15syfqkffyn0i19logiql4l
+    verified: false
+    hashtags: "#fantasticathome, #todayilookfantastic"
+  - username: "phromibustelo"
+    fullname: >-
+      Fotografía infantil y bebés
+    location: "Argentina"
+    followers: 3282
+    engagement: 1021
+    commentsToLikes: 0.437327
+    id: ckaowp64w9tzj0i78eq7ut4o3
+    verified: false
+    hashtags: "#transfer, #kidsinaction, #picturetokeep, #still"
   - username: "bb____g"
     fullname: >-
       G I N A 🦂
@@ -93,15 +83,25 @@ profiles:
     commentsToLikes: 0.027008
     id: ck13746a29osi0i19aw7igvme
     verified: false
-    hashtags: "#photography, #brunette, #sunset, #lingerie"
-  - username: "dallysferreira"
+    hashtags: "#maxibendahan, #goldenhour, #la, #photography"
+  - username: "zetadouka"
     fullname: >-
-      Dallys Ferreira
+      Zeta Douka
     location: "Argentina"
-    followers: 457438
-    engagement: 186
-    commentsToLikes: 0.020566
-    id: ck15r9sai6v1s0i199nu4qu02
-    verified: true
-    hashtags: "#showroom, #quedateencasa, #cuarentena, #itbaby"
+    followers: 202258
+    engagement: 407
+    commentsToLikes: 0.014358
+    id: ck0tz0oe0oogy0i196i2mr63h
+    verified: false
+    hashtags: "#spring, #skinhealth, #travelling, #babybelgr"
+  - username: "irocorona"
+    fullname: >-
+      💎Iro 🇩🇴 📺
+    location: "Argentina"
+    followers: 225720
+    engagement: 91
+    commentsToLikes: 0.022094
+    id: ck5zza0obbcwt0i14n2tyubbx
+    verified: false
+    hashtags: ""
 ---

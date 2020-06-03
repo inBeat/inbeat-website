@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Colombia In 2020
 description: >-
-  Find top models Instagram influencers in Colombia in 2020. Most popular hashtags: #quedateencasa #model #margarita #playa.
+  Find top models Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #dance #like #photography.
 platform: Instagram
 profiles:
-  - username: "kimberlyhookern"
-    fullname: >-
-      Kimberly Hooker Naranjo
-    location: "Colombia"
-    followers: 29171
-    engagement: 1019
-    commentsToLikes: 0.179767
-    id: ck5zzybf5cmiq0i14mewm58y1
-    verified: false
-    hashtags: "#selfietime, #tb, #tbt, #polastime"
-  - username: "juliaticaofficialone"
-    fullname: >-
-      Julia Tica
-    location: "Colombia"
-    followers: 43400
-    engagement: 1313
-    commentsToLikes: 0.031857
-    id: ck8t73npgfjes0j78hqja6a35
-    verified: false
-    hashtags: "#nobra, #comfy, #amazing, #fluffy"
-  - username: "ilmio_of"
-    fullname: >-
-      𝐀𝐍𝐀 𝐌𝐀𝐑𝐈𝐀 𝐁𝐎𝐍𝐈𝐋𝐋𝐀
-    location: "Colombia"
-    followers: 43222
-    engagement: 362
-    commentsToLikes: 0.059355
-    id: ck6ub58fr7jg10j71j2v6lxuh
-    verified: false
-    hashtags: "#throwbackthursday, #blackhair, #december, #mybody"
-  - username: "edgargabrielpr"
-    fullname: >-
-      Edgar Gabriel
-    location: "Colombia"
-    followers: 48310
-    engagement: 890
-    commentsToLikes: 0.021348
-    id: ck5hphdyhrd550i11tots5m5n
-    verified: false
-    hashtags: "#wapa2020, #happymonday, #leones, #numedhealth"
-  - username: "andremontoyaa_"
-    fullname: >-
-      ANDREA M ♡
-    location: "Colombia"
-    followers: 172765
-    engagement: 274
-    commentsToLikes: 0.034669
-    id: ck5hfjw44xtl50i1109gdfpk8
-    verified: false
-    hashtags: "#tbt, #throwbackthursday"
   - username: "yeniferdalmasi"
     fullname: >-
       Y E N I F E R  D A L M A S I
     location: "Colombia"
-    followers: 4784
-    engagement: 1228
-    commentsToLikes: 0.469143
+    followers: 5638
+    engagement: 1273
+    commentsToLikes: 0.439450
     id: ck6u99m00w9wb0j71rdddv8zl
     verified: false
-    hashtags: "#playa, #playallday, #saman, #motivacion"
-  - username: "joha_yepes"
+    hashtags: "#archivos, #fotografer, #verano2019, #paradisebeach"
+  - username: "kimberlyhookern"
     fullname: >-
-      Joha Yepes 🇨🇴🇨🇷
+      Kimberly Hooker Naranjo
     location: "Colombia"
-    followers: 30246
-    engagement: 230
-    commentsToLikes: 0.060336
-    id: ck5pzfadf0oy90i117pvn6tst
+    followers: 29431
+    engagement: 835
+    commentsToLikes: 0.040973
+    id: ck5zzybf5cmiq0i14mewm58y1
     verified: false
-    hashtags: "#sunday, #athome, #mommylife, #quedateencasa"
-  - username: "valenpinedap"
+    hashtags: "#afropower, #polastime, #apoyalonacional, #apoyalonuestro"
+  - username: "leidygomez063"
     fullname: >-
-      𝓥𝓪𝓵𝓮𝓷𝓽𝓲𝓷𝓪  𝓟𝓲𝓷𝓮𝓭𝓪
+      ⚜️ 𝐋𝐞𝐢𝐢𝐝𝐲 𝐆𝐨́𝐦𝐞𝐳  ⚜️
     location: "Colombia"
-    followers: 85772
-    engagement: 1069
-    commentsToLikes: 0.011857
-    id: ck6uchwwwfpa30j719dtgy2nq
+    followers: 254897
+    engagement: 456
+    commentsToLikes: 0.131269
+    id: ck8t0qyfwsytv0j7846clzuqm
     verified: false
-    hashtags: "#elite, #carlaelite, #cuarentena"
-  - username: "ashlyfadul"
+    hashtags: "#tucacas, #manizale, #modeloscolombia, #regalamelanoche"
+  - username: "camilacruzg1"
     fullname: >-
-      Ashly Fadul
+      CAMILA
     location: "Colombia"
-    followers: 23495
-    engagement: 832
-    commentsToLikes: 0.015386
-    id: ck5zvregj4s8y0i1494tz3api
+    followers: 3845
+    engagement: 2872
+    commentsToLikes: 0.301062
+    id: ck9wfionyozeb0j785cndm6xt
     verified: false
-    hashtags: "#tbt"
-  - username: "veronicaweffer"
+    hashtags: "#bloggers, #viajaresvivir, #sanandresislas, #inversiones"
+  - username: "juliaticaofficialone"
     fullname: >-
-      Veronica Weffer
+      J U L I A 🦋
     location: "Colombia"
-    followers: 383725
-    engagement: 394
-    commentsToLikes: 0.020404
-    id: ck15tapufh6000i198iul4w5x
+    followers: 136561
+    engagement: 919
+    commentsToLikes: 0.023146
+    id: ck8t73npgfjes0j78hqja6a35
     verified: false
-    hashtags: "#medita, #madeira, #actitud, #guanacaste"
+    hashtags: "#breeze, #comfortable, #love, #2020"
+  - username: "carolinafrancov"
+    fullname: >-
+      Carolina Franco Villegas
+    location: "Colombia"
+    followers: 52921
+    engagement: 369
+    commentsToLikes: 0.058152
+    id: ck5bwvxkemiqi0i11a3j02jli
+    verified: false
+    hashtags: "#almendras, #colombia, #postresaludable, #chocolate"
+  - username: "loingrid.rivero"
+    fullname: >-
+      yaxu
+    location: "Colombia"
+    followers: 15730
+    engagement: 602
+    commentsToLikes: 0.152883
+    id: ckaoxl48ddqhw0i78i5etyrg4
+    verified: false
+    hashtags: "#quedateemcasa, #cuarentine, #desdecasa, #mood"
+  - username: "ilmio_of"
+    fullname: >-
+      𝐀𝐍𝐀 𝐌𝐀𝐑𝐈𝐀 𝐁𝐎𝐍𝐈𝐋𝐋𝐀
+    location: "Colombia"
+    followers: 43722
+    engagement: 359
+    commentsToLikes: 0.060896
+    id: ck6ub58fr7jg10j71j2v6lxuh
+    verified: false
+    hashtags: "#tattoedgirls, #dance, #babydoll, #home"
+  - username: "angeliquebancelin"
+    fullname: >-
+      Tutyzulu
+    location: "Colombia"
+    followers: 27165
+    engagement: 2668
+    commentsToLikes: 0.024652
+    id: ck9whimh0y16x0j78ivw9vd8p
+    verified: false
+    hashtags: "#goldenhour, #makeup, #freakles, #aesthetic"
+  - username: "itaromaa"
+    fullname: >-
+      I T A       R O M A 🌙
+    location: "Colombia"
+    followers: 3735
+    engagement: 1978
+    commentsToLikes: 0.097054
+    id: ckapby1s21px90i783y6xjjjn
+    verified: false
+    hashtags: ""
 ---

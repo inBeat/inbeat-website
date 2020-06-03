@@ -1,107 +1,107 @@
 ---
 title: Top 10 Chefs Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top chefs Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubai #delicious #food #foodporn.
+  Find top chefs Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #cheflife #cooking #gateaudevoyage #staysafe.
 platform: Instagram
 profiles:
   - username: "sudqinaddaf"
     fullname: >-
       Chef Sudqi Naddaf صدقي نداف
     location: "United Arab Emirates"
-    followers: 151733
-    engagement: 389
-    commentsToLikes: 0.048834
+    followers: 220891
+    engagement: 298
+    commentsToLikes: 0.044190
     id: ck8sww3cqfgaf0j78nc1teyac
     verified: true
-    hashtags: "#mansaf, #stayhome"
-  - username: "gregmaloufchef"
-    fullname: >-
-      Greg Malouf
-    location: "United Arab Emirates"
-    followers: 8159
-    engagement: 630
-    commentsToLikes: 0.048710
-    id: ck5hl3eziji230i116yerotj1
-    verified: false
-    hashtags: "#middleeasternmaster, #newfeastvegetarian, #cheflife, #restaurantfood"
+    hashtags: "#vegan, #vegetarian, #birthday"
   - username: "chefhalaayash"
     fullname: >-
       Hala Ayash هلا عياش
     location: "United Arab Emirates"
-    followers: 236347
-    engagement: 141
-    commentsToLikes: 0.020028
+    followers: 263357
+    engagement: 189
+    commentsToLikes: 0.025632
     id: ck6u1r87snenl0j71ogfnq5ak
     verified: true
-    hashtags: "#dynamite, #meditation, #peace, #dreambig"
-  - username: "karim.bourgi"
+    hashtags: "#sweetenyourramadan, #heinz, #food, #mybella"
+  - username: "gregmaloufchef"
     fullname: >-
-      Karim Bourgi
+      Greg Malouf
     location: "United Arab Emirates"
-    followers: 484144
-    engagement: 137
-    commentsToLikes: 0.029418
-    id: ck0w72rhzbgml0i193luusszn
+    followers: 8440
+    engagement: 566
+    commentsToLikes: 0.049644
+    id: ck5hl3eziji230i116yerotj1
     verified: false
-    hashtags: "#creation, #travelcake, #entremet, #quarentined"
+    hashtags: "#beirutfoodporn, #persian, #lebanesecuisine, #russianfood"
+  - username: "chef.b"
+    fullname: >-
+      Bader Najeeb بدر نجيب
+    location: "United Arab Emirates"
+    followers: 123154
+    engagement: 112
+    commentsToLikes: 0.027404
+    id: ck0u049pnsibx0i196hs06kin
+    verified: false
+    hashtags: "#withchefb, #chocolatexchefb, #sweetenyourramadan, #dettolalways"
   - username: "chefilkerciftci"
     fullname: >-
       ilker Çiftçi
     location: "United Arab Emirates"
-    followers: 32808
-    engagement: 312
-    commentsToLikes: 0.013238
+    followers: 32319
+    engagement: 331
+    commentsToLikes: 0.014557
     id: ck5hh2v2m63el0i11pgkgebi2
     verified: false
-    hashtags: "#delicious, #eat, #chef, #best"
+    hashtags: "#hiking, #sushi, #life, #beeftartare"
+  - username: "karim.bourgi"
+    fullname: >-
+      Karim Bourgi
+    location: "United Arab Emirates"
+    followers: 504968
+    engagement: 210
+    commentsToLikes: 0.022290
+    id: ck0w72rhzbgml0i193luusszn
+    verified: false
+    hashtags: "#vote, #emotions, #tempting, #fruit"
+  - username: "alielbourji"
+    fullname: >-
+      Ali El Bourji  علي البرجي
+    location: "United Arab Emirates"
+    followers: 83997
+    engagement: 105
+    commentsToLikes: 0.024745
+    id: ckaorfz8sn1gx0i78wpnmjydf
+    verified: false
+    hashtags: "#mydubai, #bourjifamily, #lebanesewedding, #iftar"
   - username: "daliaskitchen"
     fullname: >-
       Dalia  داليا
     location: "United Arab Emirates"
-    followers: 46746
+    followers: 54178
     engagement: 95
-    commentsToLikes: 0.137956
+    commentsToLikes: 0.156992
     id: ck6tr9s4axqx20j71vbkgq6gi
     verified: true
-    hashtags: "#hummus, #quarantinelife, #quarantine, #hummusrecipe"
-  - username: "chefsilvena"
-    fullname: >-
-      Chef Silvena Rowe  🇦🇪روح دبي1
-    location: "United Arab Emirates"
-    followers: 119990
-    engagement: 236
-    commentsToLikes: 0.013883
-    id: ck15pjdkay6c70i19788fp4in
-    verified: false
-    hashtags: "#vegan, #happiness, #uaefitnessmovement, #vitaminc"
+    hashtags: "#zoomparty, #baklava, #lugaimat, #reeses"
   - username: "wassim_orfali"
     fullname: >-
       Wassim Orfali وسيم أورفه لي
     location: "United Arab Emirates"
-    followers: 24519
-    engagement: 130
-    commentsToLikes: 0.016965
+    followers: 24545
+    engagement: 129
+    commentsToLikes: 0.019927
     id: ck134b1hqvkd50i1956s9wi5a
     verified: false
-    hashtags: "#aleppo, #pastrychef, #myvalrhona, #sweets"
-  - username: "zainabmsadiq"
+    hashtags: "#kazakhstan, #turkish, #parisbrest, #sainthonore"
+  - username: "chefsilvena"
     fullname: >-
-      zainab
+      Chef Silvena Rowe  🇦🇪روح دبي1
     location: "United Arab Emirates"
-    followers: 47229
-    engagement: 699
-    commentsToLikes: 0.022417
-    id: ck0vxg4s8yq6z0i19ecfikicp
+    followers: 128012
+    engagement: 249
+    commentsToLikes: 0.010140
+    id: ck15pjdkay6c70i19788fp4in
     verified: false
-    hashtags: "#isolationbaking, #mydailymakeup, #beautybloggersuk, #arket"
-  - username: "homemade.me"
-    fullname: >-
-      Monica Janet
-    location: "United Arab Emirates"
-    followers: 12571
-    engagement: 1278
-    commentsToLikes: 0.070686
-    id: ck0w1hnjqje9f0i19r4riffec
-    verified: false
-    hashtags: "#chickengheeroast, #nestle, #orange, #netholifry"
+    hashtags: "#facebooklive, #cancer, #dairyfree, #mydubai"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Philadelphia In 2020
 description: >-
-  Find top nutrition Instagram influencers in Philadelphia in 2020. Most popular hashtags: #positivevibes #plantbased #girlswholift #stayhome.
+  Find top nutrition Instagram influencers in Philadelphia in 2020. Most popular hashtags: #stayhome #corona #mindset #covid19.
 platform: Instagram
 profiles:
-  - username: "jfraank"
-    fullname: >-
-      Jes Franklin 🦊
-    location: "United States"
-    followers: 46389
-    engagement: 711
-    commentsToLikes: 0.008768
-    id: ck6uhmijz9zbj0j71u1o0bo1j
-    verified: false
-    hashtags: "#weightlifting, #squats, #athletedrivenpatriotinspired, #progenex"
   - username: "langernutrition"
     fullname: >-
       Abby Langer RD
     location: "United States"
-    followers: 26878
-    engagement: 199
-    commentsToLikes: 0.069329
+    followers: 27196
+    engagement: 196
+    commentsToLikes: 0.080548
     id: ck5hjrxjvh5bj0i11g9pjcrf4
     verified: false
-    hashtags: "#gatheringslikethese, #eathappy, #imsomartha, #highprotein"
+    hashtags: "#lemon, #foodpics, #foodforthought, #ketofriendly"
   - username: "livwell_nutrition"
     fullname: >-
       LivWell Nutrition
     location: "United States"
-    followers: 40535
-    engagement: 121
-    commentsToLikes: 0.348617
+    followers: 41685
+    engagement: 140
+    commentsToLikes: 0.410372
     id: ck5cgydt4przy0i113o7qi453
     verified: false
     hashtags: "#fiber, #protein"
-  - username: "veggiekins"
+  - username: "clayharbs82"
     fullname: >-
-      Remy Morimoto Park | NYC Vegan
+      Clay Harbor
     location: "United States"
-    followers: 120723
-    engagement: 195
-    commentsToLikes: 0.067927
-    id: ck0tuwuxm916o0i19b6xg53zx
+    followers: 262134
+    engagement: 352
+    commentsToLikes: 0.013699
+    id: ck0w0lei2eskx0i19jgicaqdq
     verified: true
-    hashtags: "#nationalnutritionmonth, #matcha, #stayhome, #quickrecipe"
+    hashtags: "#saturdayvibes, #readysetavail, #bearup, #socialdistancing"
+  - username: "syngin_colchester"
+    fullname: >-
+      Syngin
+    location: "United States"
+    followers: 167851
+    engagement: 269
+    commentsToLikes: 0.076928
+    id: ck6txx8mb0dsw0j71rnibvfgk
+    verified: false
+    hashtags: "#ecolife, #loveearth, #chess, #insidefun"
+  - username: "willina.rodriguez"
+    fullname: >-
+      👑𝙒𝙞𝙡𝙡𝙞𝙣𝙖 𝙍𝙤𝙙𝙧𝙞𝙜𝙪𝙚𝙯 💋𝙈𝙤𝙙𝙚𝙡
+    location: "United States"
+    followers: 5419
+    engagement: 504
+    commentsToLikes: 0.106957
+    id: ck5hi5jzabrc00i111iv9ajx8
+    verified: false
+    hashtags: "#videomusical, #gracioso, #nosalgasdecasa, #ecuador"
   - username: "fit.full.life"
     fullname: >-
       Julie
     location: "United States"
-    followers: 7327
-    engagement: 2415
-    commentsToLikes: 0.559087
+    followers: 7589
+    engagement: 2381
+    commentsToLikes: 0.520398
     id: ck6tukukugwtw0j718rwi641a
     verified: false
-    hashtags: "#homegym, #stayhealthy, #rangeofmotion, #acaibowl"
-  - username: "_tiffanyvictoria_"
+    hashtags: "#covi, #baree, #fitlife, #vacationmode"
+  - username: "hannah_hussein13"
     fullname: >-
-      𝒯𝒾𝒻𝒻𝒶𝓃𝓎
+      Hannah Hussein
     location: "United States"
-    followers: 16028
-    engagement: 1003
-    commentsToLikes: 0.054801
-    id: ck6013mugeruo0i14yimyms53
+    followers: 20690
+    engagement: 924
+    commentsToLikes: 0.064458
+    id: ckap1bjpptvj70i78055lxwck
     verified: false
-    hashtags: "#confidence, #friendship, #beatiful, #couplesgoals"
+    hashtags: "#fitnessphotos, #offseasongains, #flexingvideo, #throwback"
+  - username: "jamesissmiling"
+    fullname: >-
+      James Rose ✨ they/them
+    location: "United States"
+    followers: 8581
+    engagement: 1204
+    commentsToLikes: 0.079771
+    id: ck5qc2aaxoir60i11zpinn8pz
+    verified: false
+    hashtags: "#100happydates, #cov, #singer, #gohome"
   - username: "giannafae"
     fullname: >-
       Gianna Vassilakos
     location: "United States"
-    followers: 11892
-    engagement: 1125
-    commentsToLikes: 0.108088
+    followers: 12070
+    engagement: 1138
+    commentsToLikes: 0.102544
     id: ck5zp1w7frtwm0i149rjeefd1
     verified: false
-    hashtags: "#hairwellness, #mindset, #holidays, #wellnesswednesday"
-  - username: "mandyhmeehan"
+    hashtags: "#nutrafolpartner, #holidayseason, #wellnesswednesday, #miamimarathon"
+  - username: "michellkaylee"
     fullname: >-
-      Mandy Meehan, FNTP
+      Michell Kaylee 🇨🇭
     location: "United States"
-    followers: 23134
-    engagement: 705
-    commentsToLikes: 0.079248
-    id: ck0u9mi6qa4gt0i19dwlr0zux
+    followers: 271046
+    engagement: 565
+    commentsToLikes: 0.037543
+    id: ckaovf9ax4cxk0i78yt3my5b4
     verified: false
-    hashtags: "#affiliate"
-  - username: "ashleymarietta"
-    fullname: >-
-      M A R I E T T A  🧿
-    location: "United States"
-    followers: 15760
-    engagement: 948
-    commentsToLikes: 0.047219
-    id: ck8taku1ps6n70j785k0psopa
-    verified: false
-    hashtags: "#curlytostraight, #ootd, #blackgirljoy, #handshake"
-  - username: "tiff._._"
-    fullname: >-
-      Tiffany Nance
-    location: "United States"
-    followers: 25702
-    engagement: 535
-    commentsToLikes: 0.079100
-    id: ck5hg8ijf1hki0i1197z0bk7v
-    verified: false
-    hashtags: "#onelife, #mebeingme, #success, #transformation"
+    hashtags: "#happiness, #life, #power, #nutrition"
 ---

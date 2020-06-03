@@ -1,107 +1,107 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Japan In 2020
 description: >-
-  Find top barbers Instagram influencers in Japan in 2020. Most popular hashtags: #barber #japan #mizutaniscissors #menshair.
+  Find top barbers Instagram influencers in Japan in 2020. Most popular hashtags: #stayhome #barber #barbershop #pomade.
 platform: Instagram
 profiles:
   - username: "mr.brothers_cutclub"
     fullname: >-
       MR.BROTHERS CUT CLUB
     location: "Japan"
-    followers: 56313
-    engagement: 160
-    commentsToLikes: 0.000759
+    followers: 58411
+    engagement: 145
+    commentsToLikes: 0.000901
     id: ck0w56m2r25ba0i1948cma66p
     verified: false
-    hashtags: "#barber, #mensfashion, #pabst, #mrbrothers"
+    hashtags: "#worldmensgrooming, #photocontest, #haircutsformen, #hair"
   - username: "shinri_shioura"
     fullname: >-
       Shinri Shioura
     location: "Japan"
-    followers: 12313
-    engagement: 827
-    commentsToLikes: 0.010830
+    followers: 12622
+    engagement: 798
+    commentsToLikes: 0.009770
     id: ck14h5umf8ong0i19nihyxnmm
     verified: false
-    hashtags: "#sunloverreefcruises, #sydney, #golflefleur, #universityofhawaii"
+    hashtags: "#labseries, #akira, #blkperformancecentre, #kosukekitajimacup2020"
   - username: "shimekakeshinji"
     fullname: >-
       七五三掛 慎二
     location: "Japan"
-    followers: 31770
-    engagement: 432
-    commentsToLikes: 0.003086
+    followers: 31454
+    engagement: 407
+    commentsToLikes: 0.002987
     id: ck0w56ksr255i0i19hqgbxqd9
     verified: false
-    hashtags: "#schorem, #barberstyle, #skinfade, #barbershop"
-  - username: "l.l.wood"
+    hashtags: "#mizutani, #barberstyle, #gradetioncolor, #mohawk"
+  - username: "owethawk"
     fullname: >-
-      L.L.Wood
+      owethawk
     location: "Japan"
-    followers: 27773
-    engagement: 251
-    commentsToLikes: 0.003656
-    id: ck5hiaz7lckci0i11blw6m2mp
+    followers: 7670
+    engagement: 1222
+    commentsToLikes: 0.010694
+    id: ckapcmqpg4dr60i78wnk5pyhh
     verified: false
-    hashtags: "#dailystyle, #60s, #redwing, #pt91"
-  - username: "mrpotatohead59"
+    hashtags: "#vans, #starbuckscoffee, #bedwinandtheheartbreakers, #dickies"
+  - username: "mifusuyaqua"
     fullname: >-
-      Tomoya Nishimori/MR.BROTHERS
+      yasufumi
     location: "Japan"
-    followers: 18824
-    engagement: 245
-    commentsToLikes: 0.004370
-    id: ck13cdzcczw2s0i19do8ucedp
+    followers: 28551
+    engagement: 489
+    commentsToLikes: 0.011600
+    id: ck138dblzfon30i191rxlgo3o
     verified: false
-    hashtags: "#grooming, #zaimasu, #menscut, #barbershopconnect"
-  - username: "sakuraan"
+    hashtags: "#ricefish, #barber, #tomica"
+  - username: "owe_yamamura"
     fullname: >-
-      💎Sakura Nakamura💎
+      山村武寛 / TakehiroYamamura
     location: "Japan"
-    followers: 5654
-    engagement: 770
-    commentsToLikes: 0.043720
-    id: ck6u1gc51lkhf0j71c4s38t6w
+    followers: 5396
+    engagement: 1084
+    commentsToLikes: 0.017485
+    id: ckap8sjhcpox50i78zos2qsfs
     verified: false
-    hashtags: "#bartenders, #gwinin, #svccessdjs, #infernoent"
+    hashtags: "#skinfade, #battleartfesta, #barbershopjam, #sthcrew"
   - username: "kenshi098"
     fullname: >-
       Kenshi Shiroma
     location: "Japan"
-    followers: 24984
-    engagement: 498
-    commentsToLikes: 0.001976
+    followers: 26980
+    engagement: 544
+    commentsToLikes: 0.002132
     id: ck0w56ler257d0i19xusd8f6n
     verified: false
-    hashtags: "#mrbrothers, #hold, #mrbrotherscutclub, #broshpomade"
-  - username: "makino.5_official"
+    hashtags: "#yuntakuparlor, #mensgrooming, #original, #hold"
+  - username: "takec824"
     fullname: >-
-      槙野智章 Tomoaki Makino
+      TAKESHI
     location: "Japan"
-    followers: 437605
-    engagement: 330
-    commentsToLikes: 0.002502
-    id: ck14h9o3b98k80i19hqebcfn6
-    verified: true
-    hashtags: "#casetify, #dhlxcasetify, #dhl, #new"
+    followers: 8814
+    engagement: 694
+    commentsToLikes: 0.015450
+    id: ck5q4471inore0i11zwbk75qy
+    verified: false
+    hashtags: "#stayhome, #atelierbeton, #fivethirtypark, #elosskateboards"
   - username: "daiasian"
     fullname: >-
       Daia
     location: "Japan"
-    followers: 6942
-    engagement: 719
-    commentsToLikes: 0.004700
+    followers: 7041
+    engagement: 751
+    commentsToLikes: 0.005140
     id: ck0w56lyn259z0i19dv4fkjjq
     verified: false
-    hashtags: "#koza, #tokyo, #2019, #osaka"
-  - username: "shinovi.jpn"
+    hashtags: "#ep1, #tattoo, #bigup, #mr"
+  - username: "danielyoneta"
     fullname: >-
-      SHINOVI Panchita AyaKa
+      DaisukeDanielYoneta/米田大輔
     location: "Japan"
-    followers: 6206
-    engagement: 660
-    commentsToLikes: 0.010747
-    id: ck14krfzrqy160i19znuko2ci
+    followers: 10616
+    engagement: 597
+    commentsToLikes: 0.013602
+    id: ck5pxcaa0r3kw0i11l1g0evj7
     verified: false
-    hashtags: "#shinovi, #retumba, #retumba2019, #primeracc"
+    hashtags: "#chimeragames, #rockershairdesign, #howtobmx, #tattoodesign"
 ---

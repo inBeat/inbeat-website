@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top yoga Instagram influencers in Ukraine in 2020. Most popular hashtags: #yoga #ukraine #model #motivation.
+  Find top yoga Instagram influencers in Ukraine in 2020. Most popular hashtags: #motivation #fitness #yoga #sport.
 platform: Instagram
 profiles:
   - username: "bloodymary013"
     fullname: >-
       MARIIA BOBROBNA🇺🇦
     location: "Ukraine"
-    followers: 19871
-    engagement: 1185
-    commentsToLikes: 0.032639
+    followers: 20680
+    engagement: 1033
+    commentsToLikes: 0.033237
     id: ck6tq3zl9p91s0j7150651t12
     verified: false
-    hashtags: "#lfc, #kievgram, #gnoce, #quarantine"
-  - username: "kira_habibi_lal"
-    fullname: >-
-      Kira Lebedeva
-    location: "Ukraine"
-    followers: 23594
-    engagement: 811
-    commentsToLikes: 0.044111
-    id: ck6ubyv10chka0j71mzt33uto
-    verified: false
-    hashtags: "#kirahabibilal, #tribalfusiondance, #iamhappygirl, #newme"
-  - username: "anna_life_journey"
-    fullname: >-
-      Anna Moro
-    location: "Ukraine"
-    followers: 19834
-    engagement: 348
-    commentsToLikes: 0.075254
-    id: ck6ttdnp1a1cz0j71n3t3ffmy
-    verified: false
-    hashtags: "#elevate, #love, #goal, #freedom"
+    hashtags: "#gnocejewelry, #liverpool, #lfcfans, #gymtime"
   - username: "sandra.san13"
     fullname: >-
       🔳 Señorita Shpagata
     location: "Ukraine"
-    followers: 29834
-    engagement: 268
-    commentsToLikes: 0.037281
+    followers: 31088
+    engagement: 238
+    commentsToLikes: 0.039675
     id: ck8swtg0xf6ih0j78rb0h4alq
     verified: false
-    hashtags: "#fitnessmodel, #yogamama, #wonderful, #photoshoot"
+    hashtags: "#photography, #naturalbeauty, #wonderful, #lady"
+  - username: "nastyatoledo"
+    fullname: >-
+      Анастасия Степина
+    location: "Ukraine"
+    followers: 22994
+    engagement: 311
+    commentsToLikes: 0.037600
+    id: ck5pv9r12gtnq0i118l272lpc
+    verified: false
+    hashtags: "#urdhvakukkutasana, #tittibhasana, #sport, #kapotasana"
+  - username: "anna_life_journey"
+    fullname: >-
+      Anna Moro
+    location: "Ukraine"
+    followers: 19659
+    engagement: 247
+    commentsToLikes: 0.085540
+    id: ck6ttdnp1a1cz0j71n3t3ffmy
+    verified: false
+    hashtags: "#foreverlove, #yogainspiration, #organic, #choreographer"
   - username: "ilonkis___"
     fullname: >-
       ☾ Ilonа
     location: "Ukraine"
-    followers: 89663
-    engagement: 606
-    commentsToLikes: 0.018023
+    followers: 87915
+    engagement: 638
+    commentsToLikes: 0.012128
     id: ck5zphkiksoj20i1489crdq6p
     verified: false
     hashtags: "#ilonkis"
+  - username: "ruslankvinta"
+    fullname: >-
+      Ruslan Kvinta
+    location: "Ukraine"
+    followers: 47048
+    engagement: 158
+    commentsToLikes: 0.022644
+    id: ck6tv3gb5jydq0j71drimuj2a
+    verified: false
+    hashtags: "#school1plus1, #detalipr, #premier, #earthhour"
   - username: "mila_kucherenko"
     fullname: >-
       
     location: "Ukraine"
-    followers: 17427
-    engagement: 720
-    commentsToLikes: 0.110736
+    followers: 18162
+    engagement: 681
+    commentsToLikes: 0.103469
     id: ck5c3lof1zkqt0i11rqlbmyow
     verified: false
-    hashtags: "#ternopil, #gym, #fitness, #yoga"
+    hashtags: "#giveaways, #girl, #fitness, #yoga"
+  - username: "dobraira"
+    fullname: >-
+      Візажист/Бровіст- Іра Добра
+    location: "Ukraine"
+    followers: 8161
+    engagement: 907
+    commentsToLikes: 0.095525
+    id: ck14iic4jfjqc0i19gzh10vi9
+    verified: false
+    hashtags: "#study, #online, #stayhome, #makeupjunkie"
+  - username: "dayana_yastremskay"
+    fullname: >-
+      Dayana Yastremska 👑
+    location: "Ukraine"
+    followers: 71429
+    engagement: 896
+    commentsToLikes: 0.021583
+    id: ck5q4nsi2po4t0i118n2eqrqo
+    verified: true
+    hashtags: "#butwealsosmile, #staypositive, #radisson, #life"
   - username: "anna_gomonova_official"
     fullname: >-
       Anna Gomonova
     location: "Ukraine"
-    followers: 46554
-    engagement: 471
-    commentsToLikes: 0.039804
+    followers: 46616
+    engagement: 420
+    commentsToLikes: 0.062572
     id: ck6uhkx1x9pk30j71z4eb0kfp
     verified: false
-    hashtags: "#photoshooting, #fashionweekdubai, #newcollection, #fashion"
-  - username: "likusya.01"
-    fullname: >-
-      AnzheLika Terliuga
-    location: "Ukraine"
-    followers: 63952
-    engagement: 1406
-    commentsToLikes: 0.008827
-    id: ck0u0ce2xtail0i19m4lvxpio
-    verified: false
-    hashtags: "#odessa, #favouriteplace, #grandwinner2019, #dreambig"
-  - username: "lidiyataran"
-    fullname: >-
-      Лідія Таран Lidiya Taran
-    location: "Ukraine"
-    followers: 104615
-    engagement: 405
-    commentsToLikes: 0.018515
-    id: ck5c9ee54ba3q0i11maub8daq
-    verified: false
-    hashtags: "#nomakeup, #coronavirus, #stayhome, #keepcalm"
-  - username: "dayana_yastremskay"
-    fullname: >-
-      Dayana Yastremska 📎
-    location: "Ukraine"
-    followers: 67604
-    engagement: 966
-    commentsToLikes: 0.018354
-    id: ck5q4nsi2po4t0i118n2eqrqo
-    verified: true
-    hashtags: "#womeninblack, #restgood, #team, #teamdy"
+    hashtags: "#awards, #jumping, #photoshooting, #travelling"
 ---

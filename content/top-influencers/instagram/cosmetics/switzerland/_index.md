@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #fashion #instagood #beauty.
+  Find top cosmetics Instagram influencers in Switzerland in 2020. Most popular hashtags: #cosmetics #instagram #stayathome #lashes.
 platform: Instagram
 profiles:
-  - username: "quentindecaillet"
+  - username: "andreiajessica"
     fullname: >-
-      Quentin Decaillet Photographer
+      jessica 🌸
     location: "Switzerland"
-    followers: 23726
-    engagement: 298
-    commentsToLikes: 0.020998
-    id: ck5pydesfvh5p0i119ygd47nm
+    followers: 29892
+    engagement: 505
+    commentsToLikes: 0.222509
+    id: ck5bzfwd9r2710i11kw9xfqsv
     verified: false
-    hashtags: "#retoucher, #redlipstick, #swissphotographer, #beautymodel"
+    hashtags: "#palmsprings, #urbanistalife, #makeuplook, #bubbleteatime"
+  - username: "mirjana__mija"
+    fullname: >-
+      Mira-Mija
+    location: "Switzerland"
+    followers: 7853
+    engagement: 1295
+    commentsToLikes: 0.088224
+    id: ck8td6up624t90j78jxw1bdqq
+    verified: false
+    hashtags: "#beauty, #stylepositive, #jagodina, #odessa"
   - username: "marionkaelin"
     fullname: >-
       MARION KAELIN 🌸🍍
     location: "Switzerland"
-    followers: 30908
-    engagement: 156
-    commentsToLikes: 0.071807
+    followers: 30634
+    engagement: 200
+    commentsToLikes: 0.064126
     id: ck6ueoin1s5ve0j71ex6aweva
     verified: false
-    hashtags: "#fashion, #lipstick, #digitalinfluencer, #nakdhaul"
+    hashtags: "#gato, #team, #bathroom, #dress"
+  - username: "sorayabakhtiar"
+    fullname: >-
+      ❤️  🧡  💛  💚  💙  💜  🤍
+    location: "Switzerland"
+    followers: 126885
+    engagement: 107
+    commentsToLikes: 0.029125
+    id: ck136j52e6qtw0i19c5el9tia
+    verified: true
+    hashtags: "#notspon, #stayathome, #photooftheday, #happy"
   - username: "satyaoblette"
     fullname: >-
       SATYA OBLETTE
     location: "Switzerland"
-    followers: 6050
-    engagement: 842
-    commentsToLikes: 0.109267
+    followers: 6010
+    engagement: 682
+    commentsToLikes: 0.104576
     id: ck6tv1xqejpix0j716dqkfkfn
     verified: false
-    hashtags: "#valentinesday, #maharajacollection, #blue, #green"
-  - username: "djgetygets"
-    fullname: >-
-      DJ Gety Gets🇬🇭
-    location: "Switzerland"
-    followers: 16114
-    engagement: 863
-    commentsToLikes: 0.022317
-    id: ck6tom7pueuc50j71wa34j99i
-    verified: false
-    hashtags: "#shoot, #comment, #dead, #distributor"
-  - username: "ohheyvivi"
-    fullname: >-
-      FASHION | BEAUTY | LIFESTYLE
-    location: "Switzerland"
-    followers: 8092
-    engagement: 685
-    commentsToLikes: 0.266486
-    id: ck5hppjbcrrbo0i11avgftyjb
-    verified: false
-    hashtags: "#protectyourselfandothers, #styleiswhat, #express, #smile"
+    hashtags: "#happyfriday, #modelphoto, #gulfstreamg650, #fashionblogger"
   - username: "jonny__fischer"
     fullname: >-
       Jonny Fischer
     location: "Switzerland"
-    followers: 71206
-    engagement: 750
-    commentsToLikes: 0.018098
+    followers: 73613
+    engagement: 752
+    commentsToLikes: 0.018006
     id: ck6trmkkkzutq0j712z7rbuoq
     verified: true
-    hashtags: "#sosch, #lovethisgirl, #athome, #helpingothers"
-  - username: "symmetria_socialmedia"
+    hashtags: "#face, #headache, #expectations, #romantic"
+  - username: "djgetygets"
     fullname: >-
-      SYMMETRIA
+      DJ Gety Gets🇬🇭
     location: "Switzerland"
-    followers: 37421
-    engagement: 353
-    commentsToLikes: 0.003324
-    id: ck5pvf4inhks10i11lxx8nhwu
+    followers: 16026
+    engagement: 781
+    commentsToLikes: 0.026052
+    id: ck6tom7pueuc50j71wa34j99i
     verified: false
-    hashtags: "#breastsurgery, #threadlift, #brand, #saudiarabia"
-  - username: "andreiajessica"
+    hashtags: "#dress, #design, #distributor, #producers"
+  - username: "___c.a.r.i.n.a.___"
     fullname: >-
-      jessica 🍦
+      Carina
     location: "Switzerland"
-    followers: 29385
-    engagement: 424
-    commentsToLikes: 0.232054
-    id: ck5bzfwd9r2710i11kw9xfqsv
+    followers: 6423
+    engagement: 1362
+    commentsToLikes: 0.354614
+    id: ck8szi5obojbq0j78q1yetewc
     verified: false
-    hashtags: "#swissinfluencer, #outfitdujour, #momentsofchic, #moscowgirl"
-  - username: "elena_miras"
+    hashtags: "#dknyperfume, #beautyhacks, #bruenette, #beautyexpert"
+  - username: "lorika.mirena"
     fullname: >-
-      Elena Miras
+      Lorika
     location: "Switzerland"
-    followers: 584192
-    engagement: 822
-    commentsToLikes: 0.009757
-    id: ck13at138s1dj0i19c8t37ohm
-    verified: true
-    hashtags: "#smile, #sunny, #dubaisafari, #stayathome"
-  - username: "foxfell"
-    fullname: >-
-      Amanda Alice Forman
-    location: "Switzerland"
-    followers: 319004
-    engagement: 278
-    commentsToLikes: 0.013272
-    id: ck136cdca5si70i19baohtxms
+    followers: 31874
+    engagement: 1097
+    commentsToLikes: 0.031794
+    id: ckap6x1hmhpk70i78zwzurmlc
     verified: false
-    hashtags: "#vsco, #naturalmakeuptutorial, #arthistory, #dumbledoresarmy"
+    hashtags: ""
+  - username: "slayedbyonik"
+    fullname: >-
+      Slayed by Onik
+    location: "Switzerland"
+    followers: 29563
+    engagement: 2629
+    commentsToLikes: 0.023152
+    id: ck5hqxshutwz60i11sw68rrdm
+    verified: false
+    hashtags: "#perfection, #thebomb, #abhprsearch, #barbie"
 ---

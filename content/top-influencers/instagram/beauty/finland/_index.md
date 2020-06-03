@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Finland In 2020
 description: >-
-  Find top beauty Instagram influencers in Finland in 2020. Most popular hashtags: #kaupallinenyhteisty #arvonta #tytt #stayhome.
+  Find top beauty Instagram influencers in Finland in 2020. Most popular hashtags: #stayhome #bubbleroomstyle #marimekkohome #interiordesign.
 platform: Instagram
 profiles:
-  - username: "sinimalist"
+  - username: "instyle.by.anne"
     fullname: >-
-      S I N I
+      Anne Hirsmäki
     location: "Finland"
-    followers: 6068
-    engagement: 2086
-    commentsToLikes: 0.264886
-    id: ck5c0w74qtyn00i11wrwzpguy
+    followers: 19707
+    engagement: 322
+    commentsToLikes: 0.102809
+    id: ck0tyisjin04s0i19tmoy379u
     verified: false
-    hashtags: "#dirtybootsandmessyhair, #kilpailu, #revealyourinnerswanqueen, #palkinto"
-  - username: "lindseybeljaars"
+    hashtags: "#beltedcoat, #forestlovers, #pathway, #stylebeyondage"
+  - username: "mikaelakosk"
     fullname: >-
-      Lindsey | lindseybeljaars.nl
+      Mikaela Koskela▪️Bloggaaja
     location: "Finland"
-    followers: 11302
-    engagement: 888
-    commentsToLikes: 0.221605
-    id: ck6trcmtwy8560j71u3lnjmju
+    followers: 5302
+    engagement: 614
+    commentsToLikes: 0.179143
+    id: ck5zwvke76udp0i143rpfqg9g
     verified: false
-    hashtags: "#pandoragarden, #fitnesslife, #bodyandbeastplan, #shotforpandora"
-  - username: "lovingwhitestyle"
+    hashtags: "#greenwall, #marimekkohome, #lehtikuningas, #honeyblonde"
+  - username: "imtvorchestvo"
     fullname: >-
-      Marjut Keski-Korpi
+      Elina Garipova /photographer
     location: "Finland"
-    followers: 55193
-    engagement: 126
-    commentsToLikes: 0.058660
-    id: ck5hf928dwdly0i11odmz93d1
+    followers: 16289
+    engagement: 500
+    commentsToLikes: 0.042823
+    id: ck8syzeyumm4b0j78qm0c4i0w
     verified: false
-    hashtags: "#lehtikuningas, #tunnev, #stayhome, #newbie10years"
+    hashtags: "#artphotography, #35awards2019, #germanshepherd, #photography"
   - username: "hennyharjusola"
     fullname: >-
       Henny Harjusola
     location: "Finland"
-    followers: 81656
-    engagement: 1235
-    commentsToLikes: 0.003890
+    followers: 80566
+    engagement: 1253
+    commentsToLikes: 0.004088
     id: ck6uf3ywvur3e0j71olcwwcn5
     verified: true
-    hashtags: "#glow, #cocopanda, #fenty, #loreal"
-  - username: "mikaelakosk"
+    hashtags: "#mainos, #cocopanda, #decadechallenge"
+  - username: "jolagerroos"
     fullname: >-
-      Mikaela Koskela▪️Blogger
+      Johanna - rock chic blogger
     location: "Finland"
-    followers: 5089
-    engagement: 415
-    commentsToLikes: 0.117404
-    id: ck5zwvke76udp0i143rpfqg9g
+    followers: 5998
+    engagement: 1408
+    commentsToLikes: 0.018309
+    id: ckaoumryi0yex0i78nv6y6tky
     verified: false
-    hashtags: "#geminiproblems, #microbladinghelsinki, #remontti, #sonyalphasclub"
+    hashtags: "#homeofficelook, #tealeyeshadow, #bluedress, #camisole"
   - username: "imthalyaa"
     fullname: >-
-      𓂀 Thalya 𓂀
+      𓂀 Thalya 𓂀 Content Creator 𓂀
     location: "Finland"
-    followers: 5842
-    engagement: 711
-    commentsToLikes: 0.318993
+    followers: 5784
+    engagement: 687
+    commentsToLikes: 0.308626
     id: ck5hjk35qgrop0i11v3j3ro3o
     verified: false
-    hashtags: "#fashion, #dubaijbr, #ilovememessut, #iloveme"
+    hashtags: "#laureauas, #dubaijbr, #seamless, #iloveme2019"
+  - username: "lovingwhitestyle"
+    fullname: >-
+      Marjut Keski-Korpi
+    location: "Finland"
+    followers: 54713
+    engagement: 119
+    commentsToLikes: 0.048878
+    id: ck5hf928dwdly0i11odmz93d1
+    verified: false
+    hashtags: "#kashmir, #bubbleroom, #bubbleroomstyle, #ellosfeatured"
   - username: "erikacaroliina"
     fullname: >-
-      
+      𝐸𝓇𝒾𝓀𝒶 𝒞𝒶𝓇𝑜𝓁𝒾𝒾𝓃𝒶
     location: "Finland"
-    followers: 8945
-    engagement: 735
-    commentsToLikes: 0.015582
+    followers: 9063
+    engagement: 758
+    commentsToLikes: 0.021502
     id: ck5zoikdmqn7i0i14m00k6fse
     verified: false
-    hashtags: "#icaniwill, #jdsports, #stayhome, #staysafe"
+    hashtags: "#kaupallinenyhteisty, #nostress, #tiet, #sudio"
   - username: "mrs.tews"
     fullname: >-
       Claudia Tews
     location: "Finland"
-    followers: 28630
-    engagement: 588
-    commentsToLikes: 0.031703
+    followers: 30075
+    engagement: 585
+    commentsToLikes: 0.028850
     id: ck8tdd7jp2w240j78hvvgm76u
     verified: false
-    hashtags: "#schmuck, #kinderkleidung, #geburtstagskind, #lebenliebenlachen"
+    hashtags: "#haustier, #freude, #dankbarkeit, #twingirls"
   - username: "tiinamurro"
     fullname: >-
       T I I N A 🤘🏻
     location: "Finland"
-    followers: 4136
-    engagement: 775
-    commentsToLikes: 0.403081
+    followers: 4317
+    engagement: 1045
+    commentsToLikes: 0.331765
     id: ck6tirvbo1ay00j71dqzbf4aa
     verified: false
-    hashtags: "#syntym, #siskojasenveli, #thisisme, #huonoa"
-  - username: "eevakolu"
-    fullname: >-
-      Eeva Kolu
-    location: "Finland"
-    followers: 19612
-    engagement: 363
-    commentsToLikes: 0.043403
-    id: ck1373f9g9koi0i196bjth1qa
-    verified: false
-    hashtags: "#naturalbeauty, #matchalatte, #myhome, #japanesefood"
+    hashtags: "#mina, #photography, #neilikka, #nimip"
 ---

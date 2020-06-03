@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Brazil In 2020
 description: >-
-  Find top christian Instagram influencers in Brazil in 2020. Most popular hashtags: #gratid #photography #photooftheday #godisgood.
+  Find top christian Instagram influencers in Brazil in 2020. Most popular hashtags: #godisincontrol #photography #smile #photooftheday.
 platform: Instagram
 profiles:
+  - username: "julianapriscilaofc"
+    fullname: >-
+      Juliana Priscila
+    location: "Brazil"
+    followers: 503178
+    engagement: 1301
+    commentsToLikes: 0.814618
+    id: ck9wh2n51vywv0j78zp24ep8k
+    verified: false
+    hashtags: ""
   - username: "jonas.christian"
     fullname: >-
-      christian
+      jonas christian
     location: "Brazil"
-    followers: 16142
-    engagement: 423
-    commentsToLikes: 0.049021
+    followers: 15788
+    engagement: 406
+    commentsToLikes: 0.057050
     id: ck6u0ph61h16w0j710juy82yy
     verified: false
     hashtags: "#xvdaminhairm"
-  - username: "andressa_dangelo"
+  - username: "gabriel1rm"
     fullname: >-
-      Andressa D’Angelo Ruiv@
+      🔆 Gabriel Rocha 🔆
     location: "Brazil"
-    followers: 14275
-    engagement: 695
-    commentsToLikes: 0.028416
-    id: ck8t1kkblw4ie0j785eq2ni51
+    followers: 5639
+    engagement: 1965
+    commentsToLikes: 0.012447
+    id: ck9wem50skvkq0j78hwbonwzn
     verified: false
-    hashtags: "#nike, #ruivice, #cabelogrande, #ruivasdobrasil"
+    hashtags: "#domingodosenhor, #tbtcatedral, #indotravellers, #happy"
   - username: "gibranmarten"
     fullname: >-
       Gibran Marten
     location: "Brazil"
-    followers: 79488
-    engagement: 254
-    commentsToLikes: 0.021616
+    followers: 79341
+    engagement: 252
+    commentsToLikes: 0.029558
     id: ck5zyssroagrk0i14p13rfzxl
     verified: false
-    hashtags: "#staydirumah, #corona, #untiltomorrow, #prayfortheworld"
+    hashtags: "#stayhome, #jurassicpark, #jurassicworld, #museum"
+  - username: "andressa.dangelo"
+    fullname: >-
+      Ruiv@
+    location: "Brazil"
+    followers: 14431
+    engagement: 672
+    commentsToLikes: 0.034526
+    id: ck8t1kkblw4ie0j785eq2ni51
+    verified: false
+    hashtags: "#photooftheday, #quarentena, #foxy, #selfie"
+  - username: "philmrw"
+    fullname: >-
+      Phil Davis
+    location: "Brazil"
+    followers: 96015
+    engagement: 235
+    commentsToLikes: 0.023632
+    id: ck0vxve260x9n0i19olgpmb88
+    verified: true
+    hashtags: "#supportlocal, #flashbackfriday, #memorialday, #cookiemonster"
+  - username: "mariahfrezza"
+    fullname: >-
+      𝕸𝖆𝖗𝖎𝖆𝖍 𝕲𝖆𝖎𝖆 𝕱𝖗𝖊𝖟𝖟𝖆
+    location: "Brazil"
+    followers: 2385
+    engagement: 1221
+    commentsToLikes: 0.089936
+    id: ck9h9nwi098nj0j78siqntjew
+    verified: false
+    hashtags: "#jemimacatlin, #victorianbook, #edwardianstyle, #classicbooks"
   - username: "natanschulte"
     fullname: >-
       Natan Schulte #Russo
     location: "Brazil"
-    followers: 18849
-    engagement: 509
-    commentsToLikes: 0.054622
+    followers: 23716
+    engagement: 411
+    commentsToLikes: 0.053243
     id: ck0ucb7uggfou0i19o7foni3z
     verified: true
-    hashtags: "#countdown, #miketyson, #concentration, #dream"
-  - username: "vanessinhapereira_"
-    fullname: >-
-      VANESSA P. RIBEIRO 🐎🐮💕
-    location: "Brazil"
-    followers: 3754
-    engagement: 1877
-    commentsToLikes: 0.042632
-    id: ck8t2c6avyxe00j78tbm266um
-    verified: false
-    hashtags: "#medieval, #parauapebas, #igersfrance, #fairyfort"
+    hashtags: "#godbless, #faith, #jesusfirst, #fight"
   - username: "pamela_oficial_divulga_geral"
     fullname: >-
-      Pamela_oficial_divulga_geral✨💎
+      Pamela_oficial_perfect_24k
     location: "Brazil"
-    followers: 17750
-    engagement: 800
-    commentsToLikes: 0.476680
+    followers: 24361
+    engagement: 437
+    commentsToLikes: 0.367392
     id: ck8t20byjxr6y0j78lvt2kgp3
     verified: false
-    hashtags: "#chuvadeamor, #sdv, #chuvadelikes, #instachile"
-  - username: "gael"
+    hashtags: "#photoofthedaysl, #facials, #esteticafacial, #pelelimpinha"
+  - username: "andreasonea"
     fullname: >-
-      GAEL
+      Andreas Onea
     location: "Brazil"
-    followers: 1953207
-    engagement: 1674
-    commentsToLikes: 0.005327
-    id: ck14ihnwdfg500i19ip2lhk9h
-    verified: true
-    hashtags: "#chateado, #chicco, #chiccobrasil, #bbb20"
-  - username: "evenybraga"
-    fullname: >-
-      E V E N Y  B R A G A®
-    location: "Brazil"
-    followers: 69816
-    engagement: 215
-    commentsToLikes: 0.079567
-    id: ck6tsazhn3qyr0j71qm7qo8tz
-    verified: true
-    hashtags: "#gratid, #ele, #evenybraga, #palavracantada"
-  - username: "carolgarciapr"
-    fullname: >-
-      Carol G.
-    location: "Brazil"
-    followers: 33293
-    engagement: 1333
-    commentsToLikes: 0.010419
-    id: ck14gw2wc7bgh0i1989rf4hsh
+    followers: 4397
+    engagement: 1477
+    commentsToLikes: 0.060641
+    id: ck15s2fx9awhc0i19goooystb
     verified: false
-    hashtags: "#desenho, #commissionsopen, #digitalartist, #star"
-  - username: "letylribeiro"
-    fullname: >-
-      LETÍCIA CHRISTIANELLI
-    location: "Brazil"
-    followers: 17897
-    engagement: 206
-    commentsToLikes: 0.238053
-    id: ck8t39dvg2fch0j786zzw1ctr
-    verified: false
-    hashtags: "#amordamamae, #confian, #positividade, #mamaebabona"
+    hashtags: "#dublin2018, #silver, #praisegod, #sportsforgood"
 ---

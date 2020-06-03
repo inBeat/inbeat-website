@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Berlin In 2020
 description: >-
-  Find top architecture Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #architecture #ig #thattoweragain.
+  Find top architecture Instagram influencers in Berlin in 2020. Most popular hashtags: #architecture #travelgram #berlin #germany.
 platform: Instagram
 profiles:
-  - username: "mart.lindner"
-    fullname: >-
-      Martin Lindner
-    location: "Germany"
-    followers: 25417
-    engagement: 287
-    commentsToLikes: 0.039870
-    id: ck5c3bo4iyzdr0i1199ojzwye
-    verified: false
-    hashtags: "#shotoniphone, #visitsingapore, #librariesofinstagram, #floatingutopias"
-  - username: "berlin_ickliebedir"
-    fullname: >-
-      BERLIN ICK LIEBE DIR
-    location: "Germany"
-    followers: 63329
-    engagement: 268
-    commentsToLikes: 0.016774
-    id: ck14h0rjq7ytp0i19zflerxt1
-    verified: false
-    hashtags: "#ihavethisthingwithberlin, #nightshots, #iphone11pro, #berlinfeature"
   - username: "asek.berlin"
     fullname: >-
       Alex
     location: "Germany"
-    followers: 19396
-    engagement: 298
-    commentsToLikes: 0.064791
+    followers: 19892
+    engagement: 334
+    commentsToLikes: 0.065020
     id: ck6u4aa2v2lgj0j71dh755i00
     verified: false
-    hashtags: "#lookupclub, #puddlereflection, #panorama, #sky"
-  - username: "timmy_hendrix"
+    hashtags: "#ente, #grundvigskirken, #vwbulli, #kopenhagen"
+  - username: "lifabea"
     fullname: >-
-      ᴛɪᴍ | 📍ʜᴀᴍʙᴜʀɢ
+      Steph | Creator - Fashion
     location: "Germany"
-    followers: 10421
-    engagement: 696
-    commentsToLikes: 0.148822
-    id: ck5c2nf3jxlme0i118fla2g50
+    followers: 10493
+    engagement: 731
+    commentsToLikes: 0.081077
+    id: ck136gxnl6g2m0i19ogr01j9x
     verified: false
-    hashtags: "#sport, #mensstyle, #happynewyear, #tomripley"
-  - username: "xxaaykayxx"
+    hashtags: "#neweracap, #bluetones, #architektur, #shopping"
+  - username: "mike_travels84"
     fullname: >-
-      Anne-Kathrin Ertl
+      Michael
     location: "Germany"
-    followers: 5602
-    engagement: 566
-    commentsToLikes: 0.040070
-    id: ck139ynwznrur0i198c4mh4hm
+    followers: 5519
+    engagement: 1820
+    commentsToLikes: 0.098713
+    id: ckaor0sp9l8100i78otj3jx77
     verified: false
-    hashtags: "#goosebumps, #alleyesonyou, #stayathome, #staypositive"
-  - username: "mulinarius"
+    hashtags: "#germany, #potsdamerplatz, #sonycenter, #lovetraveling"
+  - username: "katerina_wp"
     fullname: >-
-      Matthias | Berlin
+      Katerina Themeli 🇬🇷
     location: "Germany"
-    followers: 15057
-    engagement: 599
-    commentsToLikes: 0.122776
-    id: ck0vyl9t34kae0i19ow3mhutl
+    followers: 11451
+    engagement: 563
+    commentsToLikes: 0.056110
+    id: ckapbr8sz11bu0i787iubpi5k
     verified: false
-    hashtags: "#lensflare, #sunsetphotography, #visitberlinlater, #brandenburgertor"
-  - username: "lucavegetti"
-    fullname: >-
-      Luca Vegetti
-    location: "Germany"
-    followers: 5397
-    engagement: 1192
-    commentsToLikes: 0.039428
-    id: ck5q4arz6oe540i119kykct42
-    verified: false
-    hashtags: "#minimaldotcom, #helsinki, #zurich, #tv"
+    hashtags: "#berlinwall, #mscquared, #airbnb, #deutschland"
   - username: "berlin"
     fullname: >-
       Berlin
     location: "Germany"
-    followers: 134336
-    engagement: 491
-    commentsToLikes: 0.020693
+    followers: 134487
+    engagement: 504
+    commentsToLikes: 0.020330
     id: ck0tyirj7n00s0i19vcqo4j4y
     verified: false
     hashtags: "#berlin, #architecture"
-  - username: "_andresjasso"
+  - username: "vanschneider"
     fullname: >-
-      Andres Daniel Jasso
+      Tobias van Schneider
     location: "Germany"
-    followers: 5635
-    engagement: 444
-    commentsToLikes: 0.027973
-    id: ck0u6lucd2buf0i19usthr7wj
-    verified: false
-    hashtags: "#editorialdesign, #travelling, #minimalcar, #blackandwhite"
-  - username: "berliner_fernsehturm"
-    fullname: >-
-      Berliner Fernsehturm
-    location: "Germany"
-    followers: 8413
-    engagement: 1073
-    commentsToLikes: 0.032480
-    id: ck1356mvbzzbu0i19bn1vynec
+    followers: 54740
+    engagement: 152
+    commentsToLikes: 0.006342
+    id: ck0vuzgybmule0i19c7n6ab6c
     verified: true
-    hashtags: "#bestviewofberlin, #weilwirdichlieben, #didihallervorden, #liebe"
+    hashtags: "#berlin, #architecture"
+  - username: "berlinstyle"
+    fullname: >-
+      Berlin
+    location: "Germany"
+    followers: 38466
+    engagement: 348
+    commentsToLikes: 0.015110
+    id: ck5hnjtzunwkt0i11cvhmc6ew
+    verified: false
+    hashtags: "#blackandwhite, #monochromatic, #igeurope, #djimavicpro"
+  - username: "holger.nimtz"
+    fullname: >-
+      Holger Nimtz
+    location: "Germany"
+    followers: 6171
+    engagement: 1647
+    commentsToLikes: 0.017848
+    id: ck8tbe2uavaf80j784348zn86
+    verified: false
+    hashtags: "#awesomebnw, #visit, #archilovers, #lakem"
+  - username: "augenbl.icke"
+    fullname: >-
+      Stefanie
+    location: "Germany"
+    followers: 18434
+    engagement: 286
+    commentsToLikes: 0.111044
+    id: ck0uccl5dgm880i197krvd2sh
+    verified: false
+    hashtags: "#harzliebe, #myseasonalstory, #streetview, #german"
+  - username: "niklaskamp_"
+    fullname: >-
+      NIKLAS ©
+    location: "Germany"
+    followers: 3781
+    engagement: 2648
+    commentsToLikes: 0.070410
+    id: ck13bp6h2why60i1972swdjbc
+    verified: false
+    hashtags: "#paris, #deutschrap, #parismodel, #soccerskills"
 ---

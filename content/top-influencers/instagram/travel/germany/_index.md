@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Germany In 2020
 description: >-
-  Find top travel Instagram influencers in Germany in 2020. Most popular hashtags: #travel #fitness #travelling #blogger.
+  Find top travel Instagram influencers in Germany in 2020. Most popular hashtags: #giveaway #model #gewinnspiel #thursday.
 platform: Instagram
 profiles:
-  - username: "vanessaa.hn"
-    fullname: >-
-      V Λ N E S S Λ HN
-    location: "Germany"
-    followers: 9438
-    engagement: 1889
-    commentsToLikes: 0.181116
-    id: ck8tby4o8xn2d0j78b2x5x0v2
-    verified: false
-    hashtags: "#creative, #smile, #ootdgoals, #bvlck"
-  - username: "valerie_s_secret"
-    fullname: >-
-      Fashion | Travel | Lifestyle 🌸
-    location: "Germany"
-    followers: 7787
-    engagement: 1920
-    commentsToLikes: 0.125443
-    id: ck8t37kdj27710j78o6sv6tis
-    verified: false
-    hashtags: "#kirschbaum, #rosenbl, #colmar, #blossom"
   - username: "sabrina_melissa"
     fullname: >-
       🎀Сабрина 🎀
     location: "Germany"
-    followers: 3412
-    engagement: 2975
-    commentsToLikes: 0.145180
+    followers: 3591
+    engagement: 3014
+    commentsToLikes: 0.152024
     id: ck6ucb6fcekry0j710xu0v3t0
     verified: false
     hashtags: ""
   - username: "jacquelinemeetsworld"
     fullname: >-
-      JACQUELINE ✈️🌎
+      JACQUELINE ✈ Travel Blogger
     location: "Germany"
-    followers: 3480
-    engagement: 2762
-    commentsToLikes: 0.176348
+    followers: 3641
+    engagement: 3006
+    commentsToLikes: 0.227419
     id: ck5zv5sgn3n2b0i14xavnqep1
     verified: false
-    hashtags: "#journeybook, #jacquelinemeetsgermany, #lalalab, #erinnerungsfoto"
-  - username: "yobaemaya"
+    hashtags: "#jacquelinemeetsbelgium, #trexpenseapp, #urlaubserinnerung, #reisefotografie"
+  - username: "kathamariie"
     fullname: >-
-      Hai Anh 🍋 travel girl
+      FASHION | INSPO | BEAUTY
     location: "Germany"
-    followers: 7958
-    engagement: 1731
-    commentsToLikes: 0.122961
-    id: ck5q3n8vlljqv0i11x3469m2o
+    followers: 6233
+    engagement: 2166
+    commentsToLikes: 0.113500
+    id: ck9wenpgil35y0j78son8gwru
     verified: false
-    hashtags: "#munich, #cotedazurfrance, #travelling, #wanderlust"
-  - username: "leon_dude"
-    fullname: >-
-      Leon
-    location: "Germany"
-    followers: 65322
-    engagement: 2660
-    commentsToLikes: 0.052309
-    id: ck5c8rsdia3pw0i11mjnq9303
-    verified: false
-    hashtags: "#fitnessmotivation, #humpday, #leondudepresets, #travelgram"
-  - username: "travelina"
-    fullname: >-
-      ᴛʀᴀᴠᴇʟɪɴᴀ | ᴇʟɪɴᴀ 🌴🌺🌏
-    location: "Germany"
-    followers: 7555
-    engagement: 1470
-    commentsToLikes: 0.077780
-    id: ck15sr9yqefhi0i19jjx4194w
-    verified: false
-    hashtags: "#kurzurlaub, #fitness, #pool, #tubkaekbeach"
-  - username: "katharina_eisenblut_"
-    fullname: >-
-      ⇢ Katharina Eisenblut  ⇠
-    location: "Germany"
-    followers: 81163
-    engagement: 654
-    commentsToLikes: 0.076127
-    id: ck15ru07r9p3j0i198sl1g2i2
-    verified: false
-    hashtags: "#gl, #cute, #allinblack, #selfie"
+    hashtags: "#liketimegermany, #vhlondon, #mapifulfamily"
   - username: "absolutkira"
     fullname: >-
       Kira 🌺✨ | Travel | Lifestyle
     location: "Germany"
-    followers: 9819
-    engagement: 2051
-    commentsToLikes: 0.098706
+    followers: 11026
+    engagement: 1977
+    commentsToLikes: 0.121452
     id: ck14lruizw6ii0i19pson1jkp
     verified: false
-    hashtags: "#safirashine, #dontcare"
-  - username: "mrs___jen"
+    hashtags: "#safirashine, #dontcare, #ad"
+  - username: "ontourwithbambi"
     fullname: >-
-      AACHEN-TRAVEL-BEAUTY-FASHION
+      TRAVEL | EUROPA | BUCKETLIST
     location: "Germany"
-    followers: 38528
-    engagement: 786
-    commentsToLikes: 0.125415
-    id: ck139ixdwlj650i19ixja4d83
+    followers: 6451
+    engagement: 1963
+    commentsToLikes: 0.086193
+    id: ck138z7nliqnj0i19sy479mu8
     verified: false
-    hashtags: "#paulhewitt, #cologne, #mrsjen, #vhlondon"
+    hashtags: "#frankfurt, #gartenshooting, #modeblogger, #tangirl"
+  - username: "valerie_s_secret"
+    fullname: >-
+      🌸Fashion | Travel | Lifestyle🌸
+    location: "Germany"
+    followers: 8989
+    engagement: 1813
+    commentsToLikes: 0.157470
+    id: ck8t37kdj27710j78o6sv6tis
+    verified: false
+    hashtags: "#crathescastle, #blumenfeld, #myposterde, #castletrail"
+  - username: "iamjeannyguapa"
+    fullname: >-
+      TRAVEL | FASHION | INSPO
+    location: "Germany"
+    followers: 7028
+    engagement: 1813
+    commentsToLikes: 0.116143
+    id: ckap75goripgz0i78or915ml8
+    verified: false
+    hashtags: "#petal, #babygirl, #tattooed, #completefood"
+  - username: "gianni027"
+    fullname: >-
+      Menswear | Gianni
+    location: "Germany"
+    followers: 6502
+    engagement: 1758
+    commentsToLikes: 0.244994
+    id: ck9hazsg2erl20j78s3kavoxa
+    verified: false
+    hashtags: "#menwithstyle, #menswearstyle, #casualoutfit, #fashion"
+  - username: "maximilianmueller.97"
+    fullname: >-
+      ᗰᗩ᙭IᗰIᒪIᗩᑎ ᗰᑌEᒪᒪEᖇ 🇩🇪
+    location: "Germany"
+    followers: 7906
+    engagement: 1545
+    commentsToLikes: 0.470467
+    id: ck9wdild7fsdh0j784cxagh5t
+    verified: false
+    hashtags: "#beauty, #shein, #mensblog, #schn"
+  - username: "burakdinc__"
+    fullname: >-
+      BURAK DINC
+    location: "Germany"
+    followers: 11027
+    engagement: 1388
+    commentsToLikes: 0.103672
+    id: ck0u1nqppxf210i19mljrs9l4
+    verified: false
+    hashtags: "#pullandbear, #eltern, #couplegoals, #baby"
 ---

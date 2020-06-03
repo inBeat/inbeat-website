@@ -1,16 +1,16 @@
 ---
 title: Top 10 Runners Instagram Influencers In Italy In 2020
 description: >-
-  Find top runners Instagram influencers in Italy in 2020. Most popular hashtags: #running #iocorroqui #asicsfrontrunner #runningmotivation.
+  Find top runners Instagram influencers in Italy in 2020. Most popular hashtags: #mylife #positivevibes #stretching #sole.
 platform: Instagram
 profiles:
   - username: "jonalbon"
     fullname: >-
       Jonathan Albon
     location: "Italy"
-    followers: 23642
-    engagement: 788
-    commentsToLikes: 0.013491
+    followers: 23520
+    engagement: 663
+    commentsToLikes: 0.011757
     id: ck1398ub1k3h70i19mezqsoxx
     verified: false
     hashtags: ""
@@ -18,90 +18,90 @@ profiles:
     fullname: >-
       Anna
     location: "Italy"
-    followers: 4352
-    engagement: 1761
-    commentsToLikes: 0.139162
+    followers: 4801
+    engagement: 1908
+    commentsToLikes: 0.135241
     id: ck8tdnhdr41um0j78t0igsput
     verified: false
-    hashtags: "#videogelso, #enertoritalia, #lung8, #asicseurope"
+    hashtags: "#vo2maxers, #compleanno, #wind, #nonmifermo"
+  - username: "veronica_di_menza"
+    fullname: >-
+      Veronica Di Menza
+    location: "Italy"
+    followers: 7882
+    engagement: 1319
+    commentsToLikes: 0.064566
+    id: ck135gj4l1ax70i19xzez9g0b
+    verified: false
+    hashtags: "#abbracci, #sifaperridere, #takeabreath, #timetorelax"
   - username: "camillina86_"
     fullname: >-
       Camilla Corsini
     location: "Italy"
-    followers: 9125
-    engagement: 1000
-    commentsToLikes: 0.070800
+    followers: 9950
+    engagement: 1088
+    commentsToLikes: 0.063441
     id: ck8t1zesbxnps0j78dtbmzkdb
     verified: false
-    hashtags: "#triathletes, #instaswim, #swimmingaddict, #athome"
+    hashtags: "#valdimello, #france, #sedie, #exams"
   - username: "stefanobaldini_net"
     fullname: >-
       Stefano Baldini
     location: "Italy"
-    followers: 22467
-    engagement: 800
-    commentsToLikes: 0.044054
+    followers: 23192
+    engagement: 827
+    commentsToLikes: 0.047696
     id: ck5cl125uy1770i11f1ix8yuh
     verified: false
-    hashtags: "#training, #runningcoach, #runningmotivation, #health"
-  - username: "khosseini"
+    hashtags: "#alcastlein, #ridebianchi, #fitness, #runfast"
+  - username: "vanesssavilla"
     fullname: >-
-      Khaled Hosseini
+      Vanessa | Gentle Fighter 🦋
     location: "Italy"
-    followers: 98539
-    engagement: 1164
-    commentsToLikes: 0.015636
-    id: ck138gndqg5330i19mlblurjy
+    followers: 48950
+    engagement: 373
+    commentsToLikes: 0.041250
+    id: ck5c8s707a4kq0i11uzwhutg2
     verified: true
-    hashtags: "#refugees, #everyonecounts, #valentinesday, #withrefugees"
-  - username: "the_lucky_woman_"
+    hashtags: "#gentlefighter, #nikexschool, #ad, #cerealifitness"
+  - username: "whatkathydidnext"
     fullname: >-
-      E l i s a 🍀
+      Kathy 50+🇬🇧
     location: "Italy"
-    followers: 119927
-    engagement: 508
-    commentsToLikes: 0.032271
-    id: ck0u2nigi0hft0i19v7mpmiwj
+    followers: 28430
+    engagement: 199
+    commentsToLikes: 0.179489
+    id: ck0vzqj35aers0i19ony6i0o2
     verified: false
-    hashtags: "#runnershigh, #winners, #quedateencasa, #likeamountaingirl"
+    hashtags: "#mudhousewines, #baukjen, #cornersofmyhome, #buffetdress"
+  - username: "cosimo_run"
+    fullname: >-
+      Cosimo Run
+    location: "Italy"
+    followers: 37338
+    engagement: 193
+    commentsToLikes: 0.104043
+    id: ck9weke83knt60j78lpaapgra
+    verified: false
+    hashtags: "#bikelife, #taranto"
   - username: "veronicafabrianesi"
     fullname: >-
       𝐕𝐄𝐑𝐎𝐍𝐈𝐂𝐀 𝐅𝐀𝐁𝐑𝐈𝐀𝐍𝐄𝐒𝐈
     location: "Italy"
-    followers: 81874
-    engagement: 127
-    commentsToLikes: 0.104520
+    followers: 80841
+    engagement: 125
+    commentsToLikes: 0.118838
     id: ck8ta5dlqqhh30j78h4anw4w1
     verified: false
-    hashtags: "#iorestoacasa, #donnamodernarestaconme, #iorestoinforma, #happymonday"
-  - username: "lukaguglie"
-    fullname: >-
-      Luca 🏔
-    location: "Italy"
-    followers: 5897
-    engagement: 1009
-    commentsToLikes: 0.035389
-    id: ck8t6xunrf1010j782rqgb8og
-    verified: false
-    hashtags: "#trail, #asicstrabucopro, #imoveme, #runningtraining"
-  - username: "canemarzio"
-    fullname: >-
-      Francesco Marzio Sanna
-    location: "Italy"
-    followers: 5949
-    engagement: 747
-    commentsToLikes: 0.048712
-    id: ck5zm7bm3m1hv0i14l5qc1nn4
-    verified: false
-    hashtags: "#iocorroqui, #bolognamarathon, #quarantena, #covid"
+    hashtags: "#mondaymotivation, #personalbest, #motivazione, #positivevibes"
   - username: "run_and_the_city"
     fullname: >-
       Cristina Turini
     location: "Italy"
-    followers: 30033
-    engagement: 352
-    commentsToLikes: 0.027671
+    followers: 30404
+    engagement: 342
+    commentsToLikes: 0.036210
     id: ck6u9q1ewyywg0j71cs0i3vwo
     verified: false
-    hashtags: "#motivation, #saudade, #lockdown, #myptrainer"
+    hashtags: "#repost, #saturdaymood, #pegasus37, #addome"
 ---

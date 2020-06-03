@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In India In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in India in 2020. Most popular hashtags: #fitnessmotivation #fitness #bodybuilding #gym.
+  Find top bodybuilding Instagram influencers in India in 2020. Most popular hashtags: #workout #model #fitness #happy.
 platform: Instagram
 profiles:
+  - username: "tigresswholifts"
+    fullname: >-
+      TigressTrish
+    location: "India"
+    followers: 19098
+    engagement: 249
+    commentsToLikes: 0.056224
+    id: ck6uhbphb86uj0j7116mg2vqa
+    verified: false
+    hashtags: "#instafit, #athlete, #belatedbirthday, #eatclean"
+  - username: "gaurav_yadav_5575"
+    fullname: >-
+      Gaurav Yadav
+    location: "India"
+    followers: 72842
+    engagement: 971
+    commentsToLikes: 0.008476
+    id: ck8wfqo80g41y0j787iaq1fr5
+    verified: false
+    hashtags: "#mensphysic, #mensfashion, #gymlife, #posing"
+  - username: "drtonyhuge"
+    fullname: >-
+      Dr. Tony Huge®
+    location: "India"
+    followers: 102139
+    engagement: 123
+    commentsToLikes: 0.043623
+    id: ck5q8v5xe83k70i11073d41xx
+    verified: false
+    hashtags: "#workoutsathome, #upperchest, #calvinklein, #freedom"
+  - username: "vetriselvam_official"
+    fullname: >-
+      Fitness_Freek
+    location: "India"
+    followers: 3373
+    engagement: 1389
+    commentsToLikes: 0.056123
+    id: ck9wg8xy3sck50j78nr20ynkb
+    verified: false
+    hashtags: "#selfcare, #sunday, #challenge, #billa"
   - username: "karthikshekar6"
     fullname: >-
       Karthik Shekar Acharya
     location: "India"
-    followers: 11013
-    engagement: 1012
-    commentsToLikes: 0.008109
+    followers: 11275
+    engagement: 1000
+    commentsToLikes: 0.010088
     id: ck8wf4659f3iz0j78nhs5875x
     verified: false
-    hashtags: "#teamphg, #homefitness, #viral, #coronavirus"
+    hashtags: "#archanamosale, #bestyforever, #fightthedarkness"
+  - username: "the_indianbodybuilding"
+    fullname: >-
+      Indian Bodybuilding
+    location: "India"
+    followers: 133285
+    engagement: 298
+    commentsToLikes: 0.004787
+    id: ck13bgjh9vbfv0i193avrhy05
+    verified: false
+    hashtags: "#pro, #ihff, #sahilkhan, #homeworkout"
+  - username: "safu_ny_"
+    fullname: >-
+      Pottan❤️
+    location: "India"
+    followers: 3722
+    engagement: 3898
+    commentsToLikes: 0.175255
+    id: ck9wi281a0idm0j78gqstbcj4
+    verified: false
+    hashtags: "#quoteoftheday, #arms, #neck, #blonde"
   - username: "saketgokhale"
     fullname: >-
-      Saket Gokhale | YouTube 🇮🇳
+      Saket Gokhale
     location: "India"
-    followers: 10079
-    engagement: 2447
-    commentsToLikes: 0.082610
+    followers: 14360
+    engagement: 2245
+    commentsToLikes: 0.079408
     id: ck8t6pvbreebe0j78eukn84fh
     verified: false
-    hashtags: "#coronavirus, #naturalbodybuilding, #spiritualawakening, #happinessquotes"
-  - username: "keyvanshahgholi.ifbbpro"
+    hashtags: "#corona, #coronaworkout, #coronamemes, #naturalaesthetics"
+  - username: "sanchit_341"
     fullname: >-
-      keyvanshahgholi.ifbbpro
+      🇲​🇷​.🇸​🇦​🇳​🇨​🇭​🇮​🇹​ 🇸​🇪​🇳​
     location: "India"
-    followers: 18810
-    engagement: 1149
-    commentsToLikes: 0.042367
-    id: ck0w2ejvtnyn20i19oi4pzls5
+    followers: 2535
+    engagement: 3670
+    commentsToLikes: 0.399170
+    id: ck9wp634y7yys0j78tn2f1cbr
     verified: false
-    hashtags: "#strong, #fitlife, #sportclothing, #puruslabs"
-  - username: "asmitarora"
+    hashtags: "#ootd, #motivation, #vintage, #healthy"
+  - username: "sudev_y_zi"
     fullname: >-
-      Asmita arora🅰️ Fitness&Fashion
+      S U D E V  S U D H E E R
     location: "India"
-    followers: 403231
-    engagement: 235
-    commentsToLikes: 0.043048
-    id: ck6uawpgw63z80j711hz6tggn
+    followers: 17249
+    engagement: 524
+    commentsToLikes: 0.094133
+    id: ck8tbq650wog10j788ww9d2nm
     verified: false
-    hashtags: "#stayhomechallenge, #bepositive, #style, #sisterlove"
-  - username: "tanyakapoor05"
-    fullname: >-
-      Tanya Kapoor
-    location: "India"
-    followers: 189298
-    engagement: 623
-    commentsToLikes: 0.021769
-    id: ck15sq0hte8u40i199u83p3ps
-    verified: false
-    hashtags: "#lifestyleblogger, #nopainnogain, #postworkout, #girlwholifts"
-  - username: "amazingaditi"
-    fullname: >-
-      Aditi Bumb
-    location: "India"
-    followers: 19312
-    engagement: 718
-    commentsToLikes: 0.040622
-    id: ck8t9xdhipour0j789spljk22
-    verified: false
-    hashtags: "#staysafe, #gratefulheart, #hourglass, #loveyourself"
-  - username: "shourya___syal"
-    fullname: >-
-      S H O U R Y A     S Y A L 🧜‍♂️
-    location: "India"
-    followers: 19735
-    engagement: 790
-    commentsToLikes: 0.161089
-    id: ck8t2q8pd0c240j780d8o66x7
-    verified: false
-    hashtags: "#shirt, #cool, #influencer, #gym"
-  - username: "neha_strength"
-    fullname: >-
-      NEHA SAHA
-    location: "India"
-    followers: 47172
-    engagement: 445
-    commentsToLikes: 0.034835
-    id: ck5pze2n30ina0i11r4l1bkx2
-    verified: false
-    hashtags: "#shouldersboulders, #lehanga, #unicorn, #strongwomen"
-  - username: "navjeet_dhillon95"
-    fullname: >-
-      Navjeet Kaur Dhillon
-    location: "India"
-    followers: 12370
-    engagement: 1267
-    commentsToLikes: 0.016896
-    id: ck5cdwsqpjxmn0i11xhxken0m
-    verified: false
-    hashtags: "#yaaradagroup, #trainhard, #stayhappy, #kevasocks"
-  - username: "iamrohitbhati_1099"
-    fullname: >-
-      Rohit  Bhati  🇮🇳
-    location: "India"
-    followers: 42408
-    engagement: 790
-    commentsToLikes: 0.013605
-    id: ck0w14ko4hj550i19zk21dvo3
-    verified: false
-    hashtags: "#transformation, #leg, #fitness, #targetset"
+    hashtags: "#mine, #missingyou, #white, #cpim"
 ---

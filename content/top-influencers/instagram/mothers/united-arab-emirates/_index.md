@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top mothers Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #lifestyle #dubaiblogger #motherhood #fashion.
+  Find top mothers Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #tiktok #stayhome #parenting #blessings.
 platform: Instagram
 profiles:
-  - username: "diana_alkadri"
+  - username: "karadacosta"
     fullname: >-
-      Diana Alkadri | ديانا القادري
+      Kara Da Costa
     location: "United Arab Emirates"
-    followers: 41659
-    engagement: 834
-    commentsToLikes: 0.018913
-    id: ck8t2ph8a09ro0j78g5tggf49
+    followers: 19590
+    engagement: 2024
+    commentsToLikes: 0.025999
+    id: ck9hcelrul0nh0j78743kdlu6
     verified: false
-    hashtags: "#mommytobe, #mensfashion, #instagood, #parenting"
+    hashtags: "#girlygirls, #layeredpendants, #staysafe, #melaninpoppin"
   - username: "shahad_alkhattab"
     fullname: >-
       شهد الخطاب 🇮🇶
     location: "United Arab Emirates"
-    followers: 609415
-    engagement: 563
-    commentsToLikes: 0.021786
+    followers: 659842
+    engagement: 382
+    commentsToLikes: 0.018390
     id: ck0vy8upe2skf0i19sgff0300
     verified: false
-    hashtags: "#shein"
-  - username: "nina.ali"
+    hashtags: "#dontrushchallenge"
+  - username: "rawan"
     fullname: >-
-      LipstickMommy
+      Rawan Bin Hussain
     location: "United Arab Emirates"
-    followers: 621088
-    engagement: 77
-    commentsToLikes: 0.028802
-    id: ck0w631w46nr10i192dtx0wr9
+    followers: 4575889
+    engagement: 207
+    commentsToLikes: 0.017690
+    id: ck0ublnlvethp0i19owy83mzu
     verified: true
-    hashtags: "#levelup, #validation, #meghantrainor, #vday"
-  - username: "theshubhankitsharma"
+    hashtags: "#lab, #rawan"
+  - username: "eyes_and_spice"
     fullname: >-
-      SHUBHANKIT SHARMA
+      syeda
     location: "United Arab Emirates"
-    followers: 113362
-    engagement: 1787
-    commentsToLikes: 0.121749
-    id: ck6u9vzptzzsy0j71rol9wzoo
+    followers: 2478
+    engagement: 1439
+    commentsToLikes: 0.515398
+    id: ckaotqibax1kw0i78wcmp6kex
     verified: false
-    hashtags: "#latepost, #teamking, #travel, #newlifetour"
-  - username: "thealaakh"
+    hashtags: "#islamicposts, #sabr, #quarantine, #acne"
+  - username: "faiyzasayyed"
     fullname: >-
-      آلاء الحارثي • Ala’a
+      Faiyza
     location: "United Arab Emirates"
-    followers: 10667
-    engagement: 812
-    commentsToLikes: 0.131691
-    id: ck5c2dkkax1sg0i11qnh7tywx
+    followers: 10669
+    engagement: 597
+    commentsToLikes: 0.188749
+    id: ck15rek5h7jjn0i19dhxs6evs
     verified: false
-    hashtags: "#uaenationbrand, #majedphotosf, #motherhood, #arabpx"
-  - username: "zainabmsadiq"
+    hashtags: "#herbalexpert, #desi, #2020, #playdate"
+  - username: "noorodeh7"
     fullname: >-
-      zainab
+      Noor Odeh -نور عوده
     location: "United Arab Emirates"
-    followers: 47229
-    engagement: 699
-    commentsToLikes: 0.022417
-    id: ck0vxg4s8yq6z0i19ecfikicp
+    followers: 319489
+    engagement: 82
+    commentsToLikes: 0.045687
+    id: ck5c2dyt5x2hu0i11y5y5fssa
     verified: false
-    hashtags: "#isolationbaking, #mydailymakeup, #beautybloggersuk, #arket"
-  - username: "medinamaste"
+    hashtags: "#greenseries, #staysafe, #johnsonsbabyarabia, #choosegentle"
+  - username: "diana_alkadri"
     fullname: >-
-      Sarah Medina | Yoga Teacher
+      Diana Alkadri | ديانا القادري
     location: "United Arab Emirates"
-    followers: 30889
-    engagement: 226
-    commentsToLikes: 0.104584
-    id: ck0u9m4w2a2nt0i19h677hjcr
+    followers: 64217
+    engagement: 733
+    commentsToLikes: 0.018174
+    id: ck8t2ph8a09ro0j78g5tggf49
     verified: false
-    hashtags: "#representreality, #heart, #covid19, #ashtanga"
-  - username: "lenaluneva_dxb"
+    hashtags: "#dance, #mommytobe, #outfitoftheday, #tiktokers"
+  - username: "naturallynida"
     fullname: >-
-      𝐿𝑒𝓃𝒶 𝐿𝓊𝓃𝑒𝓋𝒶
+      Nida Siddiq
     location: "United Arab Emirates"
-    followers: 76706
-    engagement: 182
-    commentsToLikes: 0.091975
-    id: ck6u0g8ivfimt0j7184dhbs3n
+    followers: 11651
+    engagement: 676
+    commentsToLikes: 0.322892
+    id: ck9wp4g0o7rgq0j78rpdt3e52
     verified: false
-    hashtags: "#dressup, #lifestyleblogger, #nightout, #dubaibeautyblogger"
-  - username: "vivianhawat"
+    hashtags: "#pakistaniboys, #bossybaby, #toddlerfashion, #toddlertantrum"
+  - username: "sanae.ak"
     fullname: >-
-      Vivian Hawat
+      Sanae 🇲🇦
     location: "United Arab Emirates"
-    followers: 19219
-    engagement: 1314
-    commentsToLikes: 0.014127
-    id: ck15uc8pxmg250i19zh51a8yw
+    followers: 5170
+    engagement: 1941
+    commentsToLikes: 0.058942
+    id: ck6tso2if5unv0j71z0r07exv
     verified: false
-    hashtags: "#familytime, #roadtrip, #whydis, #mynights"
-  - username: "zoyashoukatbutt"
+    hashtags: "#pregnancy, #mumlife, #community, #selfie"
+  - username: "bucketofgirliness_"
     fullname: >-
-      ZOYA👑
+      Wàjiha ♡
     location: "United Arab Emirates"
-    followers: 13278
-    engagement: 508
-    commentsToLikes: 0.252001
-    id: ck14l7jmmt97r0i19fvf008tr
+    followers: 11308
+    engagement: 914
+    commentsToLikes: 0.652398
+    id: ck9wgenf6t3410j78w3vgazbr
     verified: false
-    hashtags: "#womencare, #uaeblogger, #makeup, #glitter"
+    hashtags: "#coronavirus, #photography, #mental, #liveandletlive"
 ---

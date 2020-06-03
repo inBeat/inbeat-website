@@ -1,99 +1,69 @@
 ---
 title: Top 10 Christian Instagram Influencers In Peru In 2020
 description: >-
-  Find top christian Instagram influencers in Peru in 2020. Most popular hashtags: #cuarentena #yomequedoencasa #peru #coronavirus.
+  Find top christian Instagram influencers in Peru in 2020. Most popular hashtags: #peru #black #stayhome #makeup.
 platform: Instagram
 profiles:
-  - username: "rolahits"
+  - username: "conciertosperu"
     fullname: >-
-      Rola Hits
+      Conciertos Perú 🇵🇪
     location: "Peru"
-    followers: 47603
-    engagement: 442
-    commentsToLikes: 0.020286
-    id: ck8tacijhr7ny0j783dzrvn22
+    followers: 64136
+    engagement: 78
+    commentsToLikes: 0.029774
+    id: ck5cknbg5x87d0i11gsk9a9mv
     verified: false
-    hashtags: "#carrerasdecaballos, #regional, #norte, #mexico"
-  - username: "loco_iori"
-    fullname: >-
-      Juan carlos balarezo CRAZIORI
-    location: "Peru"
-    followers: 39025
-    engagement: 208
-    commentsToLikes: 0.033476
-    id: ck8wf25wuf0310j78b0p8is8b
-    verified: false
-    hashtags: "#quarentena, #tiktok, #horasad, #plata"
+    hashtags: "#salimvera, #paulmccartney, #graciastotales, #violetaparra"
   - username: "catrina.catstyle"
     fullname: >-
-      FABICATRINA💙
+      𝕱𝖆𝖇𝖎𝕮𝖆𝖙𝖗𝖎𝖓𝖆💙
     location: "Peru"
-    followers: 19176
-    engagement: 494
-    commentsToLikes: 0.109813
+    followers: 19804
+    engagement: 479
+    commentsToLikes: 0.118461
     id: ck0w1gfctj7vm0i196s2nzml5
     verified: false
-    hashtags: "#photooftheday, #lookoftheday, #culturapositiva, #styleoftheday"
+    hashtags: "#moments, #loveyou, #xyzcba, #plateado"
+  - username: "javier_honorio"
+    fullname: >-
+      Javier Honorio
+    location: "Peru"
+    followers: 6838
+    engagement: 565
+    commentsToLikes: 0.066357
+    id: ck5hf524mvuxs0i11if6azhz1
+    verified: false
+    hashtags: "#drummbass, #recordingstudio, #recordingsession, #connected"
   - username: "dulcemaria"
     fullname: >-
       Dulce Maria
     location: "Peru"
-    followers: 7107253
-    engagement: 165
-    commentsToLikes: 0.010380
+    followers: 7221953
+    engagement: 149
+    commentsToLikes: 0.015808
     id: ck0ua0r4ab6ym0i19r5ta0gg6
     verified: true
-    hashtags: "#undiasinnosotras, #niunamas, #peaceandlove, #mastuyaquemia"
+    hashtags: "#seagradece, #photo, #diamundialdelatierra, #estotambi"
   - username: "veggienellaa"
     fullname: >-
-      |🌻Antonella Massé🌻| 19🍃
+      |Antonella Massé|
     location: "Peru"
-    followers: 7170
-    engagement: 949
-    commentsToLikes: 0.024109
+    followers: 7550
+    engagement: 957
+    commentsToLikes: 0.025611
     id: ck5q3ih2vkw4r0i118c32t6ll
     verified: false
-    hashtags: "#l4l, #women, #veganism, #eyeshadow"
-  - username: "arturobullard"
-    fullname: >-
-      Arturo Bullard - Fotógrafo
-    location: "Peru"
-    followers: 45712
-    engagement: 191
-    commentsToLikes: 0.076728
-    id: ck14i9u31ecaz0i19zz3waqmn
-    verified: false
-    hashtags: "#concursofotograf, #crianza, #bolivia, #puno"
-  - username: "marcelowongoficial"
-    fullname: >-
-      Marcelo Wong
-    location: "Peru"
-    followers: 53091
-    engagement: 202
-    commentsToLikes: 0.019184
-    id: ck5zyoqdqa96n0i14gj4e6de1
-    verified: true
-    hashtags: "#proceso, #publicidad, #ytutambien, #yomequedoencasa"
+    hashtags: "#leggings, #shredded, #edition, #muaythai"
   - username: "angelicajaimes19"
     fullname: >-
       A n g é l i c a J a i m e s ®
     location: "Peru"
-    followers: 23367
-    engagement: 195
-    commentsToLikes: 0.033290
+    followers: 24109
+    engagement: 192
+    commentsToLikes: 0.056281
     id: ck6u0ym95ii9k0j71q0nrgj46
     verified: false
-    hashtags: "#guardaespaldas, #ejerciciosencasa, #colombia, #tbt"
-  - username: "robertsgreen"
-    fullname: >-
-      R O B E R T   G R E E N
-    location: "Peru"
-    followers: 604851
-    engagement: 219
-    commentsToLikes: 0.018417
-    id: ck1351r6gz9ca0i199234veja
-    verified: false
-    hashtags: "#cuarentena, #familia, #instagramlive, #youtube"
+    hashtags: "#humor, #esper, #labiosrojos, #sobrina"
   - username: "rgonzaofficial"
     fullname: >-
       René González
@@ -104,4 +74,34 @@ profiles:
     id: ck5ciw2nothoo0i111k8m5u3p
     verified: false
     hashtags: "#spotify, #spotifywrapped"
+  - username: "christianbravooficial"
+    fullname: >-
+      Christian Bravo
+    location: "Peru"
+    followers: 68808
+    engagement: 176
+    commentsToLikes: 0.082179
+    id: ckap9t5ratk0p0i78cjbnzdlt
+    verified: true
+    hashtags: "#nutella, #castironcooking, #bechamelsauce, #peru"
+  - username: "christvizcarra"
+    fullname: >-
+      Christian Vizcarra
+    location: "Peru"
+    followers: 30115
+    engagement: 178
+    commentsToLikes: 0.031104
+    id: ck6u2p640t47e0j719egow3vi
+    verified: false
+    hashtags: "#designevents, #2020, #uxstages, #freelancetips"
+  - username: "fer_arceo_"
+    fullname: >-
+      Fer arceo
+    location: "Peru"
+    followers: 204538
+    engagement: 165
+    commentsToLikes: 0.028318
+    id: ckapcitdf3zl60i78mprgx6uc
+    verified: false
+    hashtags: "#comparte, #reflexiones, #panama, #monterrey"
 ---

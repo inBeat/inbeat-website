@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Capetown In 2020
 description: >-
-  Find top fashion Instagram influencers in Capetown in 2020. Most popular hashtags: #capetown #model #fashion #southafrica.
+  Find top fashion Instagram influencers in Capetown in 2020. Most popular hashtags: #beauty #selfisolation #capetown #fashion.
 platform: Instagram
 profiles:
-  - username: "amber_brits"
-    fullname: >-
-      A M B E R. BRITS.
-    location: "South Africa"
-    followers: 16120
-    engagement: 449
-    commentsToLikes: 0.087213
-    id: ck5c26a7twmdj0i11124h90ib
-    verified: false
-    hashtags: "#model, #chillin, #epixshoots, #allbodiesaregoodbodies"
-  - username: "deetzblom"
-    fullname: >-
-      Dieter Blom
-    location: "South Africa"
-    followers: 9673
-    engagement: 806
-    commentsToLikes: 0.072151
-    id: ck6tuzqp4jctj0j71j1mp2ymb
-    verified: false
-    hashtags: "#whatiwore, #fatalframes, #photoshoot, #dream"
   - username: "treven_moodley"
     fullname: >-
       Treven Moodley
     location: "South Africa"
-    followers: 18162
-    engagement: 271
-    commentsToLikes: 0.037381
+    followers: 17995
+    engagement: 304
+    commentsToLikes: 0.040289
     id: ck6u0k2klg5gz0j7150u2jdzy
     verified: false
-    hashtags: "#styleforman, #wineroute, #animalprint, #tiktoksa"
-  - username: "antoniapruy"
+    hashtags: "#suituptime, #pinkhair, #finalrose, #goldenhourlight"
+  - username: "amber_brits"
     fullname: >-
-      ANTONIA🦋
+      A M B E R. BRITS.
     location: "South Africa"
-    followers: 7357
-    engagement: 815
-    commentsToLikes: 0.026013
-    id: ck55okd2b8j2e0i11o2ldhgma
+    followers: 16410
+    engagement: 324
+    commentsToLikes: 0.075938
+    id: ck5c26a7twmdj0i11124h90ib
     verified: false
-    hashtags: "#potd, #vibes, #happy, #thephotoplug"
-  - username: "risunobushi"
+    hashtags: "#sexy, #retro, #supportlocal, #vogue"
+  - username: "iamtevivo"
     fullname: >-
-      Andrea Baioni
+      Bryn Gibbons
     location: "South Africa"
-    followers: 16246
-    engagement: 726
-    commentsToLikes: 0.021294
-    id: ck5c25imlwl4b0i11m1xupa5i
+    followers: 7984
+    engagement: 1376
+    commentsToLikes: 0.016254
+    id: ck6ufngqxy2180j71ynmcv2t2
     verified: false
-    hashtags: "#viallinthistogether, #femininmasculinvogueitalia, #fashionphotography, #portraitmood"
-  - username: "olivia_sang_"
+    hashtags: "#video, #sunset, #bokehphotography, #friends"
+  - username: "fashionbreed"
     fullname: >-
-      Olivia Sang
+      Aqeelah Harron Ally
     location: "South Africa"
-    followers: 12680
-    engagement: 643
-    commentsToLikes: 0.036485
-    id: ck0ttrmg240sf0i19ej19ig8w
-    verified: false
-    hashtags: "#sustainablebasics, #denim, #sunmet2020, #mustard"
-  - username: "sosheba"
+    followers: 65225
+    engagement: 412
+    commentsToLikes: 0.045530
+    id: ck6u4nqzg4s110j713ik5e211
+    verified: true
+    hashtags: "#homewithcanalwalk, #hmxme, #fashionbreedtravel, #socialdistancing"
+  - username: "lindylin.mua"
     fullname: >-
-      Soshee🌼
+      Lindy Lin
     location: "South Africa"
-    followers: 22026
-    engagement: 153
-    commentsToLikes: 0.071356
-    id: ck0tzh5gcqeyy0i19t4dehven
+    followers: 88338
+    engagement: 689
+    commentsToLikes: 0.029241
+    id: ck6u4o7hw4uru0j71p6lnmht1
     verified: false
-    hashtags: "#ss20, #repost, #beautyblender, #newyork"
-  - username: "jeffzimbris"
+    hashtags: "#yardley, #itsyourtime, #yardleylondonsa, #sponsored"
+  - username: "mariahmcalpin"
     fullname: >-
-      J E F F  Z I M B R I S  🔹
+      Mariah Ezra | 🇺🇸 🇿🇦
     location: "South Africa"
-    followers: 56771
-    engagement: 862
-    commentsToLikes: 0.042193
-    id: ck6tzqrxobaul0j71fftvyafa
+    followers: 36663
+    engagement: 195
+    commentsToLikes: 0.097993
+    id: ck5ci8ds3s7e10i11tkv4cmm6
     verified: false
-    hashtags: "#legsday, #happy, #cliftonbeach, #doglover"
-  - username: "rochelle_vv"
+    hashtags: "#hawaii, #sheisnotlost, #30, #lomoinstant"
+  - username: "nana.kwasi.wiafe"
     fullname: >-
-      Rochelle van Vuuren
+      NANA•KWASI•WIAFE 🇬🇭
     location: "South Africa"
-    followers: 19024
-    engagement: 791
-    commentsToLikes: 0.076655
-    id: ck5hhf70v7wkh0i11u0bw6tpu
+    followers: 12037
+    engagement: 721
+    commentsToLikes: 0.034641
+    id: ck55mkb0g45jm0i11430bi9dn
     verified: false
-    hashtags: "#woman, #happyskin, #kissthesky, #kisscloud"
-  - username: "zeenatkh_"
+    hashtags: "#afisa, #beauty, #creativejourney, #eyewear"
+  - username: "diariesofanislandergirl"
     fullname: >-
-      Z e e n a t   K h a n
+      ZAINAH | LIFESTYLE BLOGGER
     location: "South Africa"
-    followers: 7972
-    engagement: 1103
-    commentsToLikes: 0.254048
-    id: ck5zt80vuzwqc0i140ooagtz6
+    followers: 8945
+    engagement: 828
+    commentsToLikes: 0.029388
+    id: ck5hqose9tghk0i11u4gxah0n
     verified: false
-    hashtags: "#giveaway, #claires, #myclairespiercing, #blackandwhitechallenge"
+    hashtags: "#threadingeyebrows, #facialrazor, #skincareaddict, #egglessmarblecake"
+  - username: "alwynuys"
+    fullname: >-
+      Alwyn Uys
+    location: "South Africa"
+    followers: 13512
+    engagement: 648
+    commentsToLikes: 0.133659
+    id: ck6ue92jdpj2m0j71uc1bfje4
+    verified: false
+    hashtags: "#winning, #level4, #expectations, #happy"
+  - username: "seangoesnatural"
+    fullname: >-
+      Hair,Skin+Kinda Adulting|Sean
+    location: "South Africa"
+    followers: 2717
+    engagement: 1189
+    commentsToLikes: 0.216280
+    id: ck6u39s65wk240j71e8ku32l4
+    verified: false
+    hashtags: "#plants, #skincare, #bossbabe, #heforshe"
 ---

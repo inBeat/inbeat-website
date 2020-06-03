@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Vancouver In 2020
 description: >-
-  Find top health Instagram influencers in Vancouver in 2020. Most popular hashtags: #health #fitness #vancouver #quarantine.
+  Find top health Instagram influencers in Vancouver in 2020. Most popular hashtags: #health #fitness #workout #vancouver.
 platform: Instagram
 profiles:
-  - username: "praisevaughn"
+  - username: "internationalsingh"
     fullname: >-
-      Praise Vaughn
+      Sukhmeet Rohan Singh
     location: "Canada"
-    followers: 17436
-    engagement: 411
-    commentsToLikes: 0.055116
-    id: ck6tk1qdc3u3e0j71y20xt5vc
+    followers: 8012
+    engagement: 692
+    commentsToLikes: 0.088794
+    id: ck5zxagon7n4n0i14ka9yd3j4
     verified: false
-    hashtags: "#yourenotalone, #smallbusinessbigimpact, #boxingtraining, #training"
-  - username: "danieladibfitness"
+    hashtags: "#medstudent, #punoftheday, #toronto, #beautiful"
+  - username: "kym.lifts"
     fullname: >-
-      Daniela Dib Fitness
+      KYM LIFTS | VANCOUVER FITNESS
     location: "Canada"
-    followers: 16257
-    engagement: 970
-    commentsToLikes: 0.090375
-    id: ck5zns6e5p1xk0i14t0t4wygf
+    followers: 2268
+    engagement: 1670
+    commentsToLikes: 0.109296
+    id: ckapc9tbw2ypm0i787oi9cbo1
     verified: false
-    hashtags: "#health, #photographer, #kingstreet, #onesie"
-  - username: "michaella.shannon"
+    hashtags: "#bikiniprep2020, #teamhd, #naturalbodybuilding, #bodybuildingbikini"
+  - username: "muaeleni"
     fullname: >-
-      Michaella Shannon
+      Eleni
     location: "Canada"
-    followers: 7342
-    engagement: 554
-    commentsToLikes: 0.038847
-    id: ck6tiu8ro1fwb0j71j7kyy7fq
+    followers: 19115
+    engagement: 290
+    commentsToLikes: 0.231513
+    id: ck6tv85cxkpwl0j71jssaxj0w
     verified: false
-    hashtags: "#whitewedding, #highestself, #naturalskincare, #writer"
-  - username: "jasminnkate"
-    fullname: >-
-      
-    location: "Canada"
-    followers: 103253
-    engagement: 146
-    commentsToLikes: 0.043236
-    id: ck15uiq4qndcu0i19i1v2ebcl
-    verified: false
-    hashtags: "#covid19, #statement, #elevate, #politics"
-  - username: "thyme_to_nourish"
-    fullname: >-
-      Danielle Lindsay
-    location: "Canada"
-    followers: 2444
-    engagement: 1169
-    commentsToLikes: 0.576245
-    id: ck5pycmwrvdh30i118h4a7aog
-    verified: false
-    hashtags: "#snacktime, #foodprepping, #oatbowl, #smoothietime"
+    hashtags: "#brownsmokeyeye, #bluemakeup, #nailpolish, #kimkardashian"
   - username: "littlemissregina"
     fullname: >-
       Little Miss Regina 🌾
     location: "Canada"
-    followers: 5413
-    engagement: 928
-    commentsToLikes: 0.339239
+    followers: 5743
+    engagement: 788
+    commentsToLikes: 0.318828
     id: ck5zv1tgb3frv0i14foq1iywd
     verified: false
-    hashtags: "#milestones, #pastatime, #selfcaretips, #bigmove"
-  - username: "pilinemer"
-    fullname: >-
-      Pili Nemer
-    location: "Canada"
-    followers: 24622
-    engagement: 311
-    commentsToLikes: 0.035656
-    id: ck5zxcy527s3h0i14urigew6v
-    verified: false
-    hashtags: "#isolation, #relaxation, #imissthesun, #athomeworkouts"
+    hashtags: "#wascanalake, #reginalocal, #yvrcookie, #discountcode"
   - username: "caitlinfladager"
     fullname: >-
       Caitlin Fladager
     location: "Canada"
-    followers: 327294
-    engagement: 404
-    commentsToLikes: 0.056665
+    followers: 330838
+    engagement: 409
+    commentsToLikes: 0.059192
     id: ck5qeasnmzjza0i111jq4qj37
     verified: true
-    hashtags: "#ad, #peanutapp, #giftedexperience, #rantover"
+    hashtags: "#thankyouteami, #flashbackfriday, #momscanbesexy, #momswhosmokeweed"
+  - username: "camleeyoga"
+    fullname: >-
+      Cam Lee | Vancouver, Canada
+    location: "Canada"
+    followers: 42141
+    engagement: 221
+    commentsToLikes: 0.186192
+    id: ck5hdtr0zpc1b0i118fyiiurl
+    verified: false
+    hashtags: "#momlife, #100days, #forevermybaby, #realmomlife"
+  - username: "javelizz"
+    fullname: >-
+      Liz Gleadle
+    location: "Canada"
+    followers: 14114
+    engagement: 449
+    commentsToLikes: 0.018260
+    id: ck0u2f8g5zrgp0i19a5hs8lqm
+    verified: true
+    hashtags: "#westcoast, #spinehealth, #organize, #fitness"
   - username: "miawgordon"
     fullname: >-
       Mia Gordon McCardle
     location: "Canada"
-    followers: 20109
-    engagement: 71
-    commentsToLikes: 0.058663
+    followers: 20113
+    engagement: 64
+    commentsToLikes: 0.080862
     id: ck13db11n4jvi0i19ubd5o2cs
     verified: false
-    hashtags: "#culture, #stayhome, #hakubavalley, #japan"
-  - username: "naomikingofficial"
+    hashtags: "#stayhome, #reporterlife, #stopthespread, #naturewalks"
+  - username: "purelyplantpowered_"
     fullname: >-
-      Naomi King
+      CRISTINA 🦋 Plant-Based Recipes
     location: "Canada"
-    followers: 11255
-    engagement: 466
-    commentsToLikes: 0.037504
-    id: ck5heggxyss1y0i115qyylh0v
+    followers: 4729
+    engagement: 905
+    commentsToLikes: 0.288297
+    id: ck6trzfcy1yrf0j71r5m0osjh
     verified: false
-    hashtags: "#arthastheballpython, #ballpython, #blueeyedleucistic, #blueeyedlucy"
+    hashtags: "#veganfood, #glutenfree, #tacotuesday, #veganbaking"
+  - username: "milkstainsandmeltdowns"
+    fullname: >-
+      JESSYKA
+    location: "Canada"
+    followers: 25199
+    engagement: 124
+    commentsToLikes: 0.254735
+    id: ck55q1g3xbvsi0i11zwcjtrgq
+    verified: false
+    hashtags: "#howheasked, #weddingwire, #victimshaming, #makehomeyours"
 ---

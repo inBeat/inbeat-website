@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Poland In 2020
 description: >-
-  Find top bloggers Instagram influencers in Poland in 2020. Most popular hashtags: #zosta #makija #wiosna #stylizacja.
+  Find top bloggers Instagram influencers in Poland in 2020. Most popular hashtags: #goodday #piel #ootd #makeup.
 platform: Instagram
 profiles:
   - username: "ptysiablog"
     fullname: >-
       Patrycja Hoffmann
     location: "Poland"
-    followers: 6828
-    engagement: 1223
-    commentsToLikes: 0.099121
+    followers: 6804
+    engagement: 1421
+    commentsToLikes: 0.083639
     id: ck5zzj8vjbtur0i14nl3lleyh
     verified: false
-    hashtags: "#polkadots, #makeupaccessories, #goodday, #pr"
-  - username: "mrs__harmony"
-    fullname: >-
-      Kasia Harmony
-    location: "Poland"
-    followers: 31375
-    engagement: 430
-    commentsToLikes: 0.082671
-    id: ck5zx2fe577tv0i1434us37ir
-    verified: false
-    hashtags: "#bedroominspiration, #kobieco, #wdomujestbezpiecznie, #tattoo"
-  - username: "daisylineblog"
-    fullname: >-
-      Paulina | DaisyLine.pl
-    location: "Poland"
-    followers: 25701
-    engagement: 415
-    commentsToLikes: 0.175217
-    id: ck5zjnsb5hxax0i14oa6tfb8l
-    verified: false
-    hashtags: "#betonarchitektoniczny, #przyszlamama, #modeblogger, #interior"
+    hashtags: "#denimjacket, #czasnabuty, #robtocokochasz, #gliss4in1"
   - username: "klaudia_cukierpuder"
     fullname: >-
       KLAUDIA_CUKIERPUDER
     location: "Poland"
-    followers: 58877
-    engagement: 564
-    commentsToLikes: 0.041119
+    followers: 65658
+    engagement: 613
+    commentsToLikes: 0.074795
     id: ck0udksxmje6g0i19nktkpvoc
     verified: false
-    hashtags: "#girl, #skincarenatural, #freshmakeup, #krotkiewlosy"
-  - username: "misslilith"
+    hashtags: "#makeupvideos, #mondaymorning, #springoutfit, #makeuplife"
+  - username: "malgomaluje"
     fullname: >-
-      𝐌 𝐈 𝐒 𝐒 𝐋 𝐈 𝐋 𝐈 𝐓 𝐇
+      Małgorzata P
     location: "Poland"
-    followers: 33190
-    engagement: 1089
-    commentsToLikes: 0.021751
-    id: ck5c5oc5v3upd0i11rthi2we2
+    followers: 8633
+    engagement: 1195
+    commentsToLikes: 0.081462
+    id: ckaoyhwy0hlnq0i78s94hfdec
     verified: false
-    hashtags: "#makijazystka, #macrophotography, #glittermakeuplook, #makijaz"
+    hashtags: "#krem, #beautiful, #eyemakeuplook, #lovecosmetics"
+  - username: "mamine.skarby"
+    fullname: >-
+      Magda Jasińska
+    location: "Poland"
+    followers: 23434
+    engagement: 523
+    commentsToLikes: 0.082413
+    id: ck0w4cnraxxf20i19a6ssh5ms
+    verified: false
+    hashtags: "#gravitrax, #pancakes, #globus, #tata"
+  - username: "daisylineblog"
+    fullname: >-
+      Paulina | DaisyLine.pl
+    location: "Poland"
+    followers: 27082
+    engagement: 429
+    commentsToLikes: 0.145705
+    id: ck5zjnsb5hxax0i14oa6tfb8l
+    verified: false
+    hashtags: "#strojdnia, #nowemieszkanie, #nawil, #interiormilk"
+  - username: "roxy.jacobs"
+    fullname: >-
+      Roxy Jacobs
+    location: "Poland"
+    followers: 29638
+    engagement: 368
+    commentsToLikes: 0.129423
+    id: ckaoswbcftb4k0i78o10yq3ai
+    verified: false
+    hashtags: "#look, #sombre, #sugarbodyscrub, #frankivsk"
   - username: "mom.wife.woman"
     fullname: >-
       MODNA MAMA
     location: "Poland"
-    followers: 62621
-    engagement: 283
-    commentsToLikes: 0.054386
+    followers: 62986
+    engagement: 355
+    commentsToLikes: 0.093068
     id: ck15tjt97iftc0i19ktyeik52
     verified: false
-    hashtags: "#hair, #strojesienahomeoffisie, #promise, #morning"
-  - username: "patabloguje"
+    hashtags: "#soraya, #summer, #emolium, #lipstick"
+  - username: "sandrvczuraj"
     fullname: >-
-      Patrycja Kierońska
+      Sandra Maria Czuraj 🦋
     location: "Poland"
-    followers: 39121
-    engagement: 258
-    commentsToLikes: 0.053035
-    id: ck6trk5n8zggy0j717fnz0ewd
+    followers: 23936
+    engagement: 1413
+    commentsToLikes: 0.025983
+    id: ck8t1sohiwvar0j782d6xdu8b
     verified: false
-    hashtags: "#winterphoto, #womansdetails, #zdobieniepaznokcie, #cracowtown"
-  - username: "rozaliafashion"
+    hashtags: "#facemask, #haveaniceday, #childhood, #live"
+  - username: "mrs__harmony"
     fullname: >-
-      Rozalia Fashion
+      Kasia Harmony
     location: "Poland"
-    followers: 16491
-    engagement: 412
-    commentsToLikes: 0.183459
-    id: ck0ub8rube0pi0i19rip0mrgg
+    followers: 32597
+    engagement: 636
+    commentsToLikes: 0.058566
+    id: ck5zx2fe577tv0i1434us37ir
     verified: false
-    hashtags: "#womanstyle, #makijazpolska, #petsofinstagram, #blogerkaurodowa"
-  - username: "lifein20kg"
+    hashtags: "#waves, #kawa, #kawanabalkonie, #tatua"
+  - username: "sylka_ciekawska"
     fullname: >-
-      Martyna Skura || Scuba Diving
+      Sylka Ciekawska
     location: "Poland"
-    followers: 30129
-    engagement: 283
-    commentsToLikes: 0.060323
-    id: ck6toduigdicp0j719wan070l
+    followers: 23881
+    engagement: 459
+    commentsToLikes: 0.089252
+    id: ck5hq3ep7sfg40i114bf1a39q
     verified: false
-    hashtags: "#walentynkibezbalon, #blondegirlincaribbean, #zrozumiecchiny, #walentynkibezbrokatu"
-  - username: "ulaasi"
-    fullname: >-
-      CAREMORE.pl by Ula Sitarz
-    location: "Poland"
-    followers: 14533
-    engagement: 597
-    commentsToLikes: 0.100753
-    id: ck8t4azl663z40j78v3icw9bw
-    verified: false
-    hashtags: "#wspierampolskiemarki"
+    hashtags: "#nailartwow, #kokos, #goodday, #beautifulview"
 ---

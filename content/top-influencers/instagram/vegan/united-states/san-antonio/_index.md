@@ -1,19 +1,19 @@
 ---
 title: Top 10 Vegan Instagram Influencers In San Antonio In 2020
 description: >-
-  Find top vegan Instagram influencers in San Antonio in 2020. Most popular hashtags: #vegan #sanantonio #veganlife #stayhome.
+  Find top vegan Instagram influencers in San Antonio in 2020. Most popular hashtags: #vegan #cookies #vegancake #squats.
 platform: Instagram
 profiles:
   - username: "theveggiepilot"
     fullname: >-
       Vegan Airline Pilot
     location: "United States"
-    followers: 29464
-    engagement: 569
-    commentsToLikes: 0.035095
+    followers: 29046
+    engagement: 587
+    commentsToLikes: 0.034888
     id: ck0w63mxb6qry0i19pcn6dxqd
     verified: false
-    hashtags: "#sushipilot, #nationalcroissantday, #lentilrecipe, #vegannicaragua"
+    hashtags: "#vegandesserts, #hijodesumadre, #vegansushi, #veganegg"
   - username: "tarabaros"
     fullname: >-
       Tara Goetz-Baros
@@ -24,84 +24,84 @@ profiles:
     id: ck6u7oo9fmroh0j71vzregk5q
     verified: false
     hashtags: "#redaesthetic, #porta400"
-  - username: "eldereats"
+  - username: "abeeveryday"
     fullname: >-
-      David Elder | ABC KSAT 12 News
+      Abraham | Donut Connoisseur
     location: "United States"
-    followers: 22460
-    engagement: 322
-    commentsToLikes: 0.037813
-    id: ck5q7ahjl0mea0i110a3gm76c
+    followers: 7136
+    engagement: 644
+    commentsToLikes: 0.146045
+    id: ck5pzsgf82iyd0i11bt9qj55g
     verified: false
-    hashtags: "#nom, #sanantonio, #tigerking, #mixeddrinks"
-  - username: "greatfullgirl"
-    fullname: >-
-      Vegan Lifestyle Blogger 🌱
-    location: "United States"
-    followers: 6516
-    engagement: 615
-    commentsToLikes: 0.101912
-    id: ck6tymgp34lru0j71iy7lkwfb
-    verified: false
-    hashtags: "#sundaythoughts, #oahu, #hawaii, #travelhawaii"
-  - username: "docjazz4"
-    fullname: >-
-      David Erick Ramos (Docjazz4)
-    location: "United States"
-    followers: 5801
-    engagement: 833
-    commentsToLikes: 0.039816
-    id: ck5qd2f07thnv0i11jqdwi2z8
-    verified: false
-    hashtags: "#theamericana, #animalcrossingmemes, #darkcrystal, #megalovania"
-  - username: "luparkerla"
-    fullname: >-
-      Lu Parker
-    location: "United States"
-    followers: 15634
-    engagement: 455
-    commentsToLikes: 0.102570
-    id: ck1390u3uiyzr0i19n6ze8aev
-    verified: true
-    hashtags: "#teamwork, #enddomesticviolence, #tvnewslife, #greendress"
+    hashtags: "#lickyourphone, #drake, #safoodpics, #date"
   - username: "modernveganfam"
     fullname: >-
       Modern Vegan Familia
     location: "United States"
-    followers: 26038
-    engagement: 147
-    commentsToLikes: 0.087706
+    followers: 25743
+    engagement: 168
+    commentsToLikes: 0.103150
     id: ck0vw3p88rylr0i19by1o7z2o
     verified: false
-    hashtags: "#vegan, #poweredbyplants, #vegansunite, #nosingleuseplastic"
+    hashtags: "#pitaya, #thumbprintcookies, #tree, #veganmarshmallows"
   - username: "lizostyle"
     fullname: >-
-      ℝ 𝕠 𝕤 𝕖  𝔽 𝕖 𝕣 𝕣 𝕖 𝕚 𝕣 𝕒 🌹
+      𝑹𝒐𝒔𝒆 𝑭𝒆𝒓𝒓𝒆𝒊𝒓𝒂 🌹StylistBlogger
     location: "United States"
-    followers: 104137
-    engagement: 102
-    commentsToLikes: 0.030176
+    followers: 109008
+    engagement: 98
+    commentsToLikes: 0.114253
     id: ck6tou7spg4zc0j71tk0kxdun
     verified: false
-    hashtags: "#workingfromhome, #stayhome, #motivationmonday, #smudge"
-  - username: "christyclips"
+    hashtags: "#yogainspiration, #comfyoutfit, #consciousness, #vegan"
+  - username: "kommienezuspadt"
     fullname: >-
-      ChristyClips✂️
+      Lars Kommienezuspadt
     location: "United States"
-    followers: 71444
-    engagement: 195
-    commentsToLikes: 0.030906
-    id: ck13898lcf42v0i19axt3eyf7
+    followers: 38368
+    engagement: 351
+    commentsToLikes: 0.028821
+    id: ck0w1mpcpk3h30i19k3ilnfm8
     verified: false
-    hashtags: "#clippergiveaway, #booksybiz, #hair, #goligummy"
-  - username: "gustavo_arellano"
+    hashtags: "#patreon, #westcoast, #lisadeltoro, #southern"
+  - username: "josephbrycetattoo"
     fullname: >-
-      Gustavo Arellano
+      JOSEPH BRYCE
     location: "United States"
-    followers: 19949
-    engagement: 371
-    commentsToLikes: 0.060118
-    id: ck15urnr5o9m50i197ah1cifk
+    followers: 56586
+    engagement: 96
+    commentsToLikes: 0.012965
+    id: ck1384rkzehzw0i196lnrxv5c
     verified: false
-    hashtags: "#latimesplants, #chefs, #students, #chicanahistory"
+    hashtags: ""
+  - username: "vegicano"
+    fullname: >-
+      Rudy Ramos
+    location: "United States"
+    followers: 42287
+    engagement: 194
+    commentsToLikes: 0.032078
+    id: ck135fab314mb0i19g5dgg7mf
+    verified: false
+    hashtags: "#vegan"
+  - username: "kyliedennison"
+    fullname: >-
+      K Y L I E •🦄✨
+    location: "United States"
+    followers: 28288
+    engagement: 1011
+    commentsToLikes: 0.080815
+    id: ck5pwdjtzmbjy0i11nizuw21w
+    verified: false
+    hashtags: "#experienceihg, #hamiltonisoverparty, #bellamihair, #expresspartner"
+  - username: "silversparklesonme"
+    fullname: >-
+      K r i s t e l
+    location: "United States"
+    followers: 6016
+    engagement: 3808
+    commentsToLikes: 0.139101
+    id: ck9wftswjqij20j78jzzzm8m0
+    verified: false
+    hashtags: "#ditchingthedye, #pareidepintar, #quarantine, #silvervixens"
 ---

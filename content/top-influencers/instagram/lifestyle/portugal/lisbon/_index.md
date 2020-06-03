@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Lisbon In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Lisbon in 2020. Most popular hashtags: #lifestyle #fashion #stayhome #outfitoftheday.
+  Find top lifestyle Instagram influencers in Lisbon in 2020. Most popular hashtags: #quarantine #blogger #outfits #travelgram.
 platform: Instagram
 profiles:
+  - username: "brunolexim"
+    fullname: >-
+      B R U N O    L E X I M
+    location: "Portugal"
+    followers: 3658
+    engagement: 2206
+    commentsToLikes: 0.286975
+    id: ck8t4nlcl7fh60j78xtp7cxlv
+    verified: false
+    hashtags: "#menshaircut, #tabacaria, #vacation, #instagram"
   - username: "catarina.fernandees"
     fullname: >-
       Catarina Fernandes
     location: "Portugal"
-    followers: 67545
-    engagement: 498
-    commentsToLikes: 0.044364
+    followers: 68815
+    engagement: 502
+    commentsToLikes: 0.071840
     id: ck1374d9y9pu80i19hpf69j8k
     verified: false
-    hashtags: "#looks, #homesweethome, #charlie, #mood"
-  - username: "andre_picarra"
+    hashtags: "#outfits, #cleaningmyhome, #happymothersday, #newproject"
+  - username: "thepinkelephantshoe"
     fullname: >-
-      André Piçarra
+      Cátia Rodrigues
     location: "Portugal"
-    followers: 25160
-    engagement: 912
-    commentsToLikes: 0.022599
-    id: ck5q5ff9qsn9z0i11xcbd4nix
+    followers: 19660
+    engagement: 763
+    commentsToLikes: 0.664124
+    id: ck0vv7ejrnvfu0i19lj715hn8
     verified: false
-    hashtags: "#photography, #2020, #hand, #paint"
+    hashtags: "#neutrogenapt, #cellularboost, #eyestories, #cuidadoslabiais"
+  - username: "heyandiehey"
+    fullname: >-
+      Andreia Lopes Costa
+    location: "Portugal"
+    followers: 29281
+    engagement: 638
+    commentsToLikes: 0.051478
+    id: ck134whrxyj250i190hpg9hst
+    verified: false
+    hashtags: "#heyandieheyporto, #stayathome, #25deabril, #covid"
   - username: "rubenrpvaz"
     fullname: >-
       ℝ 𝕌 𝔹 𝔼 ℕ  𝕍 𝔸 ℤ
     location: "Portugal"
-    followers: 10831
-    engagement: 1088
-    commentsToLikes: 0.142006
+    followers: 10840
+    engagement: 1115
+    commentsToLikes: 0.140023
     id: ck6ti80us07rt0j719wtmkxt0
     verified: false
-    hashtags: "#london, #lifestyle, #fashion, #classic"
-  - username: "monicalice"
+    hashtags: "#jointhemvmt, #fashionnova, #street, #styleoftheday"
+  - username: "diogooooooo"
     fullname: >-
-      Mónica Lice
+      D I O G O  R A M A L H O
     location: "Portugal"
-    followers: 24490
-    engagement: 154
-    commentsToLikes: 0.038201
-    id: ck8szikk0ol1o0j78kmytyv6a
+    followers: 13302
+    engagement: 521
+    commentsToLikes: 0.078483
+    id: ck6tjzumz3q5l0j71sxzgfigk
     verified: false
-    hashtags: "#ikeadecor, #monicalicehome, #decora, #rockingchairs"
+    hashtags: "#carolinaherrera, #ad, #pub, #depuralina"
   - username: "silviacatarina"
     fullname: >-
       Sílvia Catarina Silva
     location: "Portugal"
-    followers: 10118
-    engagement: 550
-    commentsToLikes: 0.056030
+    followers: 9998
+    engagement: 558
+    commentsToLikes: 0.075179
     id: ck0w082e6cupf0i19d6rgm90x
     verified: false
-    hashtags: "#makeupjunkie, #ad, #makeuplover, #makeup"
+    hashtags: "#essencecosmetics, #ootd, #nyc, #catricecosmetics"
   - username: "ineescosta"
     fullname: >-
-      Inês Costa| • Lifestyle
+      Inês Costa| Lifestyle
     location: "Portugal"
-    followers: 44159
-    engagement: 347
-    commentsToLikes: 0.034765
+    followers: 45179
+    engagement: 443
+    commentsToLikes: 0.039029
     id: ck0vx7dbfxig30i19tbikrl6u
     verified: false
-    hashtags: "#howtowear, #quarentena, #valentinesday, #pub"
-  - username: "natygui_tri"
+    hashtags: "#pub, #edi, #coffeechallenge, #coffee"
+  - username: "claudiadecastroferreira"
     fullname: >-
-      Natália
+      Claudia De Castro Ferreira
     location: "Portugal"
-    followers: 10206
-    engagement: 513
-    commentsToLikes: 0.024331
-    id: ck5zqrbt1v56k0i14xsuzcavl
+    followers: 8019
+    engagement: 621
+    commentsToLikes: 0.507302
+    id: ck5q4x3j3qkxn0i11gfm17qd0
     verified: false
-    hashtags: "#cascais, #triathlontrainning, #vem2020, #corremais"
-  - username: "bruna_danin"
+    hashtags: "#workoutwear, #homeinspiration, #coupleshoot, #topinfluencerpt"
+  - username: "brunoanjoss"
     fullname: >-
-      Brunadanin
+      𝗕 𝗥 𝗨 𝗡 𝗢    𝗔 𝗡 𝗝 𝗢 𝗦
     location: "Portugal"
-    followers: 11981
-    engagement: 912
-    commentsToLikes: 0.205262
-    id: ck5zp7pghs5dl0i14hz9ssf4l
+    followers: 4441
+    engagement: 1771
+    commentsToLikes: 0.378577
+    id: ck9womla25rjc0j78gw86m3wr
     verified: false
-    hashtags: "#ootd, #woman, #seaside, #instagram"
-  - username: "fabiosvalente"
-    fullname: >-
-      Fábio Santos Valente
-    location: "Portugal"
-    followers: 23185
-    engagement: 332
-    commentsToLikes: 0.021686
-    id: ck14k1tnxnauw0i19ox723474
-    verified: false
-    hashtags: "#dott, #dollypartonchallenge, #staythefuckhome, #pub"
-  - username: "dvfots"
-    fullname: >-
-      David Velez Fotografia
-    location: "Portugal"
-    followers: 18195
-    engagement: 365
-    commentsToLikes: 0.011903
-    id: ck0vzoy4ca6ew0i19iqm9bsjn
-    verified: false
-    hashtags: "#tattoo, #strong, #designer, #bubblebutt"
+    hashtags: "#topman, #healthy, #freedom, #streetwear"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Germany In 2020
 description: >-
-  Find top wellness Instagram influencers in Germany in 2020. Most popular hashtags: #fitness #happy #smile #fitnessgirl.
+  Find top wellness Instagram influencers in Germany in 2020. Most popular hashtags: #happyeaster #nature #wellness #froheostern.
 platform: Instagram
 profiles:
   - username: "anna_sieanna"
     fullname: >-
-      Anna | fitness & life
+      Anna | fitness & fashion
     location: "Germany"
-    followers: 3723
-    engagement: 2063
-    commentsToLikes: 0.077186
+    followers: 3733
+    engagement: 2177
+    commentsToLikes: 0.078397
     id: ck8tb6sy3uj0g0j787piwh8bl
     verified: false
-    hashtags: "#fitspo, #strongnotskinny, #gettingstronger, #instasport"
-  - username: "whathebronte"
-    fullname: >-
-      Danil Palma
-    location: "Germany"
-    followers: 73323
-    engagement: 565
-    commentsToLikes: 0.013186
-    id: ck5hdxfebpvl90i11tbrvfx1s
-    verified: false
-    hashtags: "#phshairscience, #brontetravels, #hydeoutfestival, #aldo"
+    hashtags: "#sportklamotten, #strongissexy, #girlpower, #fitnessgirl"
   - username: "honey_fit_l"
     fullname: >-
       honey_fit
     location: "Germany"
-    followers: 25975
-    engagement: 429
-    commentsToLikes: 0.007190
+    followers: 25809
+    engagement: 424
+    commentsToLikes: 0.007439
     id: ck5zo7p0bpy3n0i14m2h6d9za
     verified: false
-    hashtags: "#blackdresses, #mylove, #diet, #extrifitgirl"
+    hashtags: "#workout, #morning, #gymgirls, #nature"
   - username: "steko_s"
     fullname: >-
       Boxen | Kickboxen | Thaiboxen
     location: "Germany"
-    followers: 34687
-    engagement: 170
-    commentsToLikes: 0.031286
+    followers: 34268
+    engagement: 175
+    commentsToLikes: 0.034870
     id: ck0tz9yg1pokl0i19vcpn9oby
     verified: true
-    hashtags: "#fightpic, #backtotheroots, #youtube, #kickboxing"
+    hashtags: "#kids, #powerlifting, #sebastianpreuss, #stekosgirl"
   - username: "karateandi183"
     fullname: >-
       
     location: "Germany"
-    followers: 66137
-    engagement: 634
-    commentsToLikes: 0.017895
+    followers: 65792
+    engagement: 681
+    commentsToLikes: 0.016245
     id: ck5hqr7d6tkwp0i119q6363m0
     verified: true
-    hashtags: ""
+    hashtags: "#erstmaldiebasicsmachen"
   - username: "kaylagordine"
     fullname: >-
       Kayla Atkins-Gordine
     location: "Germany"
-    followers: 13525
-    engagement: 518
-    commentsToLikes: 0.022875
+    followers: 14988
+    engagement: 492
+    commentsToLikes: 0.019739
     id: ck6txjgfsy68f0j71bzi4d7fa
     verified: false
-    hashtags: "#adventuresatsea, #bodybalance, #newbalance, #team"
+    hashtags: "#hallelujah, #wewillrememberthem, #dynamic, #flow"
   - username: "sonnenalp_annamaria_faessler"
     fullname: >-
       Sonnenalp_Anna-Maria-Faessler
     location: "Germany"
-    followers: 2483
-    engagement: 1064
-    commentsToLikes: 0.074736
+    followers: 2570
+    engagement: 963
+    commentsToLikes: 0.062366
     id: ck55mxgfn518f0i11qjj2jk2n
     verified: false
-    hashtags: "#christmastree, #durchdickundd, #achtsam, #traurig"
-  - username: "mrsvictoria.b"
-    fullname: >-
-      Victoria ✨🌎
-    location: "Germany"
-    followers: 3018
-    engagement: 2550
-    commentsToLikes: 0.124697
-    id: ck13c7h45yzg40i195rwwql8e
-    verified: false
-    hashtags: "#missuniverse, #amazingthailand, #lostinthailand, #beachvibes"
+    hashtags: "#ordertime, #happy, #urlaub, #fashionable"
   - username: "_sicht_weise"
     fullname: >-
       Kathrin | 📍Augsburg
     location: "Germany"
-    followers: 10517
-    engagement: 1142
-    commentsToLikes: 0.081929
+    followers: 11183
+    engagement: 1374
+    commentsToLikes: 0.085945
     id: ck0tvvcizcy860i193wvocbnr
     verified: false
-    hashtags: "#hardlopen, #wellness, #marathonvorbereitung, #whyirun"
-  - username: "travellikeahurricane"
+    hashtags: "#easter, #tapering, #happyplace, #weightloss"
+  - username: "schlueter__"
     fullname: >-
-      Bergprinzessin
+      Schlüter
     location: "Germany"
-    followers: 47032
-    engagement: 790
-    commentsToLikes: 0.042569
-    id: ck0ubmkw5exp20i194xtpav41
+    followers: 11368
+    engagement: 2382
+    commentsToLikes: 0.271999
+    id: ck0tza5aspphc0i19gzn6742a
     verified: false
-    hashtags: "#tlpicks, #wintergoals, #banff, #girlsinsposupport"
+    hashtags: "#krohn, #bleibenzuhause, #hafen, #yachthafen"
+  - username: "mrs.juulia"
+    fullname: >-
+      BEAUTY I LIFESTYLE I INSPO
+    location: "Germany"
+    followers: 42918
+    engagement: 605
+    commentsToLikes: 0.069278
+    id: ck0u0q7a2uk920i192hd6x938
+    verified: false
+    hashtags: "#skincareproduct, #fieldofflowers, #bohovibes, #lockenohnehitze"
+  - username: "m.ii.c.h.e.ll.e"
+    fullname: >-
+      𝑀𝒾𝒸𝒽𝑒𝓁𝓁𝑒
+    location: "Germany"
+    followers: 38822
+    engagement: 601
+    commentsToLikes: 0.096060
+    id: ckaoy0sdcfl390i787lf9rxp6
+    verified: false
+    hashtags: "#froheostern, #diva, #beauty, #ipad"
 ---

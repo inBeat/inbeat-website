@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Konya In 2020
 description: >-
-  Find top food Instagram influencers in Konya in 2020. Most popular hashtags: #food #istanbul #instafood #lezzet.
+  Find top food Instagram influencers in Konya in 2020. Most popular hashtags: #konya #instafood #foodie #food.
 platform: Instagram
 profiles:
-  - username: "gezginyiyor"
+  - username: "selmabakar"
     fullname: >-
-      Gezgin Yiyor
+      Şifalı Mutfak 🍴
     location: "Turkey"
-    followers: 176527
-    engagement: 248
-    commentsToLikes: 0.008402
-    id: ck0vwja33u2wo0i19xwrc9ug0
+    followers: 64176
+    engagement: 141
+    commentsToLikes: 0.117911
+    id: ck8tbqhb7wprr0j782ikgmj16
     verified: false
-    hashtags: "#gebze, #latte, #gezginyiyor, #sefak"
+    hashtags: "#sahur, #bosnakboregi, #demirhindi, #salad"
   - username: "paylastikcaguzel_"
     fullname: >-
       PaylaştıkçaGüzel • Begüm Tekin
     location: "Turkey"
-    followers: 48501
-    engagement: 215
-    commentsToLikes: 0.080309
+    followers: 48085
+    engagement: 207
+    commentsToLikes: 0.078210
     id: ck14i28nxda050i19ylg2zy3c
     verified: false
-    hashtags: "#stayinside, #tealove, #teaoftheday, #kartoffelsalat"
-  - username: "z.e.e.i"
+    hashtags: "#cheesecake, #yummy, #smokedbbq, #butikkahvalt"
+  - username: "rabiasultansuna"
     fullname: >-
-      Emine Doğan / Elmaağaç
+      Rabia Sultan SUNA
     location: "Turkey"
-    followers: 90348
-    engagement: 147
-    commentsToLikes: 0.047079
-    id: ck5zux4gp372d0i14v2n8uzu2
+    followers: 82778
+    engagement: 87
+    commentsToLikes: 0.080110
+    id: ck8t8sbz4llzx0j78e16vddxj
     verified: false
-    hashtags: "#helva, #kahvalti, #breads, #mercimeklik"
-  - username: "neyesekcom"
+    hashtags: "#aynisan9, #cupcakes, #karadut, #follow4follow"
+  - username: "nurlamutfakta"
     fullname: >-
-      Yemek İçmek Gezmek Lazım❗️
+      Nur'un Mutfağı
     location: "Turkey"
-    followers: 36510
-    engagement: 422
-    commentsToLikes: 0.013409
-    id: ck15pjdily6ay0i19zyxz0sz1
+    followers: 2540
+    engagement: 1027
+    commentsToLikes: 0.126237
+    id: ck9hchljelfmj0j783qpjldis
     verified: false
-    hashtags: "#kaliteyib, #istiklalcaddesi, #tasty, #krep"
-  - username: "ozgeeeunal"
+    hashtags: "#bilgiler, #tariflerim, #salatalar, #silisyum"
+  - username: "sahanegurme"
     fullname: >-
-      Özge Ünal ♥
+      Şahane Gurme • Muhammed
     location: "Turkey"
-    followers: 9314
-    engagement: 1171
-    commentsToLikes: 0.009796
-    id: ck13a3ke0ogfy0i19fo5jidml
+    followers: 436487
+    engagement: 109
+    commentsToLikes: 0.132495
+    id: ck134i8xdwjz80i19d1m3kwg2
     verified: false
-    hashtags: "#tagsforhearts, #kbayessal, #instaturkiye, #turkishfollowers"
-  - username: "yesene_catering"
+    hashtags: "#ramazan, #karag, #special, #mardin"
+  - username: "alyagram_2017"
     fullname: >-
-      Dilek Pfeiffer
+      Alya' nın dünyası
     location: "Turkey"
-    followers: 3597
-    engagement: 967
-    commentsToLikes: 0.288170
-    id: ck5q4ijthp56n0i114o1hsbcv
+    followers: 12155
+    engagement: 1572
+    commentsToLikes: 0.025893
+    id: ckaovdxx146q40i78j8ailxye
     verified: false
-    hashtags: "#drinks, #tasty, #artin, #sunum"
-  - username: "gurme.chef"
+    hashtags: "#like, #mothernature, #bride, #eidmubarak"
+  - username: "emrekaracom"
     fullname: >-
-      Murat Gözal
+      GAZİANTEP I Emre KARA
     location: "Turkey"
-    followers: 48341
-    engagement: 125
-    commentsToLikes: 0.055336
-    id: ck5zo3k8gpot90i14l6skz02p
+    followers: 438649
+    engagement: 135
+    commentsToLikes: 0.186092
+    id: ck5q5ci1xs91j0i112ty1mfmd
     verified: false
-    hashtags: "#russia, #evdekal, #mizah, #kars"
-  - username: "eraykilic"
+    hashtags: "#annelergu, #paket, #ramazan, #foodlovers"
+  - username: "yemekneyiyelim"
     fullname: >-
-      Eray Kılıç 🍴Yemek & Gurme
+      YEMEKNEYİYELİM #evdekal
     location: "Turkey"
-    followers: 96721
-    engagement: 104
-    commentsToLikes: 0.052907
-    id: ck0vzprmhaajg0i19u3648hjf
+    followers: 96017
+    engagement: 177
+    commentsToLikes: 0.011527
+    id: ck9wf5pjsnb320j789lznfiur
     verified: false
-    hashtags: "#hamzaefendidondurma, #mustafakemal, #borek, #yerim"
-  - username: "antepliyiyorcom"
-    fullname: >-
-      Gaziantep
-    location: "Turkey"
-    followers: 54036
-    engagement: 667
-    commentsToLikes: 0.009774
-    id: ck8wd80p0dhnn0j78h5w3jpeh
-    verified: false
-    hashtags: "#adana, #breakfast, #eating, #erzurum"
+    hashtags: "#kolye, #toronto, #paris, #anvers"
   - username: "gurmecanlar"
     fullname: >-
       Gurmecanlar
     location: "Turkey"
-    followers: 271134
-    engagement: 91
-    commentsToLikes: 0.017170
+    followers: 271481
+    engagement: 131
+    commentsToLikes: 0.017603
     id: ck14jxg0rmoe70i19x1bswdvq
     verified: false
-    hashtags: "#gurmecanlarayd, #evdekal, #kemik, #adana"
+    hashtags: "#aciktim, #gaziantep, #homealone, #boyoz"
+  - username: "yemelerdeyizcom"
+    fullname: >-
+      Yemelerdeyiz
+    location: "Turkey"
+    followers: 155599
+    engagement: 145
+    commentsToLikes: 0.008900
+    id: ck6u9gjq4xfjg0j71z5pdicjy
+    verified: false
+    hashtags: "#dudakdolgusu, #chessecake, #restaurant, #germany"
 ---

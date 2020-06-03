@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top christian Instagram influencers in San Francisco in 2020. Most popular hashtags: #valentinesday #love #quarantine #repost.
+  Find top christian Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #filmphotography #weekend #spring.
 platform: Instagram
 profiles:
-  - username: "janvi_shelley"
+  - username: "mirthicat"
     fullname: >-
-      Janvi Shelley
+      𝕸 | BLOGGER | SAN FRANCISCO
     location: "United States"
-    followers: 84416
-    engagement: 682
-    commentsToLikes: 0.066643
-    id: ck13anf58r8mo0i19kqhb6ad3
+    followers: 3155
+    engagement: 1231
+    commentsToLikes: 0.062750
+    id: ckaothmi9vykf0i78lxne1x0y
     verified: false
-    hashtags: "#galileo, #ajna, #emerson, #bogota"
-  - username: "elysiamyers.wineart"
+    hashtags: "#alertnotanxious, #bloggers, #happynewyear, #chrissyteigen"
+  - username: "mir_random"
     fullname: >-
-      elysia🍷wine paintings
+      MIRANDA PERRY
     location: "United States"
-    followers: 5264
-    engagement: 712
-    commentsToLikes: 0.245212
-    id: ck15t9sknh16j0i19jzdwt91x
+    followers: 11335
+    engagement: 691
+    commentsToLikes: 0.055651
+    id: ckapa88x5v4nt0i783j1lg75q
     verified: false
-    hashtags: "#winetime, #winetravel, #letsexplore, #newnormal"
+    hashtags: "#business, #appreciate, #weddingszn, #happy"
+  - username: "christiandawdesign"
+    fullname: >-
+      Christian Daw
+    location: "United States"
+    followers: 281380
+    engagement: 657
+    commentsToLikes: 0.022429
+    id: ck0w79duucey70i19750um17m
+    verified: false
+    hashtags: "#coastalcharm, #modernstyle, #loveforhome, #bathroom"
   - username: "asobel"
     fullname: >-
       Adam  Sobel
     location: "United States"
-    followers: 22672
-    engagement: 565
-    commentsToLikes: 0.014909
+    followers: 22437
+    engagement: 493
+    commentsToLikes: 0.019055
     id: ck5zvziev56zq0i148cl7l3a9
     verified: true
-    hashtags: "#chevalblanc, #masterpiece, #frenchfood, #clown"
-  - username: "lizzieifbbpro"
+    hashtags: "#thepresident, #donaldtrump, #chevalblanc, #inspiration"
+  - username: "shwokevibes"
     fullname: >-
-      𝓛𝓲𝔃𝔃𝓲𝓮 𝓘𝓕𝓑𝓑 𝓑𝓲𝓴𝓲𝓷𝓲 𝓟𝓻𝓸
+      shwokevibes
     location: "United States"
-    followers: 38373
-    engagement: 164
-    commentsToLikes: 0.085882
-    id: ck6ufo4try5w40j71q7926qdt
+    followers: 2010
+    engagement: 1837
+    commentsToLikes: 0.029592
+    id: ck0vvrt34qhc30i1998nvy8bp
     verified: false
-    hashtags: "#giveback, #sweat, #stayhomestaysafe, #sponsored"
-  - username: "thesoberjunkieofficial"
+    hashtags: "#amazonforest, #china, #49ers, #fucktrump"
+  - username: "christinamcneill"
     fullname: >-
-      Christopher Michael
+      Christina McNeill
     location: "United States"
-    followers: 33852
-    engagement: 47
-    commentsToLikes: 0.088616
-    id: ck0w0z6degr960i19mqxeus5i
+    followers: 14793
+    engagement: 207
+    commentsToLikes: 0.041820
+    id: ck5c5t0f343iy0i11x6licmsq
     verified: false
-    hashtags: "#breakdance, #execprod, #onetribe, #dyna"
-  - username: "christiana.gabriele"
+    hashtags: "#italywedding, #hasselblad500cm, #villatoscana, #soundbath"
+  - username: "onechristina"
     fullname: >-
-      𝐂𝐇𝐑𝐈𝐒𝐓𝐈𝐀𝐍𝐀 𝐆𝐀𝐁𝐑𝐈𝐄𝐋𝐄
+      Christina Oné
     location: "United States"
-    followers: 68401
-    engagement: 635
-    commentsToLikes: 0.060516
-    id: ck0w3m3jju3ou0i193ss2smpm
+    followers: 19345
+    engagement: 974
+    commentsToLikes: 0.024149
+    id: ck0u2mm7g0df20i19faeyd897
     verified: false
-    hashtags: "#makeuprevolution, #hearts, #essencecosmetics, #purplehair"
-  - username: "christian.swett"
+    hashtags: "#california, #18april, #hisbirthday, #shore"
+  - username: "katerina__christina"
     fullname: >-
-      christian 👨🏾‍🚀
+      Katerina Christina
     location: "United States"
-    followers: 5414
-    engagement: 1935
-    commentsToLikes: 0.057648
-    id: ck6u6f48of8jo0j718vyi2z3j
+    followers: 7647
+    engagement: 597
+    commentsToLikes: 0.073996
+    id: ck5zr02vfvmzw0i14xlw04zx2
     verified: false
-    hashtags: "#mycalvins"
-  - username: "chrix.riot"
+    hashtags: "#kodakcolor, #artquarantined, #artforsale, #embarcadero"
+  - username: "christiancarnation"
     fullname: >-
-      Christian Colorado
+      Christian
     location: "United States"
-    followers: 7984
-    engagement: 1341
-    commentsToLikes: 0.049791
-    id: ck5hjmj8sgvxp0i11pvsrwaek
+    followers: 35714
+    engagement: 571
+    commentsToLikes: 0.021506
+    id: ck601qypfg0d90i14hhy2r8m0
     verified: false
-    hashtags: "#bcapital, #tbt, #grateful, #p4b"
-  - username: "milkgiver"
+    hashtags: "#humpday, #wheelwednesday, #tailighttuesday, #throwback"
+  - username: "cmpulisic"
     fullname: >-
-      Rachel Zacharias
+      Christian
     location: "United States"
-    followers: 21894
-    engagement: 634
-    commentsToLikes: 0.121904
-    id: ck5cd83txipdn0i11kqdn6xkk
-    verified: false
-    hashtags: "#orthodoxinamerica, #motherhood, #shereallydidwakeuplikethis, #orthodoxy"
-  - username: "lanicayetano"
-    fullname: >-
-      Lani Cayetano
-    location: "United States"
-    followers: 7029
-    engagement: 1450
-    commentsToLikes: 0.034442
-    id: ck6ubwy68c6kn0j71ws46bf5j
+    followers: 2649866
+    engagement: 675
+    commentsToLikes: 0.006918
+    id: ck0tuohdw80cw0i19xi6r6lqt
     verified: true
-    hashtags: "#blessedsunday, #thinkbigtaguig, #wewinasone, #2019seagames"
+    hashtags: "#nevertheeasyroad, #traineatrepeat, #theyearschallenge, #playerstogether"
 ---

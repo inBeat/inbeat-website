@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Turkey In 2020
 description: >-
-  Find top health Instagram influencers in Turkey in 2020. Most popular hashtags: #healthylifestyle #evdekal #stayhome #healthyfood.
+  Find top health Instagram influencers in Turkey in 2020. Most popular hashtags: #tbt #stayhome #sunset #pilates.
 platform: Instagram
 profiles:
   - username: "eceetuncel"
     fullname: >-
       Ece Tuncel
     location: "Turkey"
-    followers: 153649
-    engagement: 393
-    commentsToLikes: 0.092431
+    followers: 186838
+    engagement: 1773
+    commentsToLikes: 0.605199
     id: ck5ca19fwcin50i11te28n4nr
     verified: false
-    hashtags: "#staychicathomechallange, #evdekalt, #homesweethome, #italy"
-  - username: "aysegul.demirsoy"
-    fullname: >-
-      Aysegul Demirsoy
-    location: "Turkey"
-    followers: 152822
-    engagement: 114
-    commentsToLikes: 0.038578
-    id: ck5q297dqevcq0i110yr2n5dm
-    verified: false
-    hashtags: "#spor, #gymfreaks, #evdesporyap, #gymgirl"
-  - username: "colorfulcareer"
-    fullname: >-
-      Semra
-    location: "Turkey"
-    followers: 15926
-    engagement: 988
-    commentsToLikes: 0.027831
-    id: ck139cegxkm200i19cx5vbdqp
-    verified: false
-    hashtags: "#healthylifestyle, #color, #likesforfollow, #foll"
+    hashtags: "#ootd, #tbt, #yast, #stayhome"
   - username: "drhandeyagmurkaya"
     fullname: >-
       Hande Yağmur Kaya
     location: "Turkey"
-    followers: 92873
-    engagement: 1686
-    commentsToLikes: 2.806498
+    followers: 101032
+    engagement: 885
+    commentsToLikes: 0.817825
     id: ck135amm10jgc0i19meac7df1
     verified: false
-    hashtags: "#ak, #yksmatematik, #medicine, #coronailem"
-  - username: "bismoothie"
+    hashtags: "#stabilo, #kriterakademic, #yks2021, #fizik"
+  - username: "eylmbc"
     fullname: >-
-      Sibel Hoş
+      Eylem Abacı
     location: "Turkey"
-    followers: 44816
-    engagement: 256
-    commentsToLikes: 0.194819
-    id: ck1354piczp020i191jqc1zox
+    followers: 181558
+    engagement: 137
+    commentsToLikes: 0.135090
+    id: ck0u9o1p0abgw0i19ghjtaxcb
     verified: false
-    hashtags: "#yulafl, #sunnydays, #bluespirulinasmoothie, #chocolatesmoothie"
-  - username: "lifeofhazal"
+    hashtags: "#nosugar, #allwhite, #corona, #brownies"
+  - username: "colorfulcareer"
     fullname: >-
-      
+      Semra
     location: "Turkey"
-    followers: 4857
-    engagement: 1542
-    commentsToLikes: 0.060780
-    id: ck8t5b03a9grp0j78a6x0y1r7
+    followers: 16646
+    engagement: 898
+    commentsToLikes: 0.066005
+    id: ck139cegxkm200i19cx5vbdqp
     verified: false
-    hashtags: "#granola, #simit, #banana, #yoga"
-  - username: "seymasubasi"
+    hashtags: "#soufeel, #likeit, #follow4like, #amazondealsww"
+  - username: "erabiaediz"
     fullname: >-
-      Seyma
+      Emine Rabia Ediz
     location: "Turkey"
-    followers: 3143051
-    engagement: 308
-    commentsToLikes: 0.009640
-    id: ck6tm40gv754y0j7105uicqeg
-    verified: true
-    hashtags: "#stayhome, #besafe, #staychicathomechallenge, #stayhomestaysafe"
-  - username: "drfahrettinkoca"
+    followers: 11958
+    engagement: 676
+    commentsToLikes: 0.067325
+    id: ck13cpub01ku80i19yjxzhztt
+    verified: false
+    hashtags: "#stayathome, #pilates, #karantinagu, #dekor"
+  - username: "aysegul.demirsoy"
     fullname: >-
-      Dr. Fahrettin Koca
+      Aysegul Demirsoy
     location: "Turkey"
-    followers: 6720503
-    engagement: 604
-    commentsToLikes: 0.013307
-    id: ck0vymjda4ql70i19jqgxhuck
-    verified: true
-    hashtags: ""
-  - username: "fit_busra"
-    fullname: >-
-      Büşra 💁🏼‍♀️
-    location: "Turkey"
-    followers: 135780
+    followers: 155296
     engagement: 128
-    commentsToLikes: 0.036229
-    id: ck8tafzvnrlnm0j78jv18up83
+    commentsToLikes: 0.067619
+    id: ck5q297dqevcq0i110yr2n5dm
     verified: false
-    hashtags: "#diet, #motivasyon, #motivation, #sa"
-  - username: "ceydathecook"
+    hashtags: "#ayseguldemirsoy, #tb, #mutlubayramlar, #pilates"
+  - username: "emylawson"
     fullname: >-
-      Ceyda Öztekin
+      ᴇᴍᴀɴ | 𝔐𝔬𝔬𝔫 𝔴𝔦𝔱𝔠𝔥 𝔬𝔣 𝔱𝔥𝔢 𝔰𝔢𝔞 ☾
     location: "Turkey"
-    followers: 39444
-    engagement: 335
-    commentsToLikes: 0.015234
-    id: ck13aq6b9rmhk0i192sg99m2r
+    followers: 5072
+    engagement: 1030
+    commentsToLikes: 0.063256
+    id: ckaoz4f0zkbk00i78gsnsd8of
     verified: false
-    hashtags: "#pankek, #pankektarifi, #cips, #delicious"
+    hashtags: "#moroccan, #bimo, #snacktime, #ufosighting"
+  - username: "dytiremsilaunal"
+    fullname: >-
+      Diyetisyen İrem Sıla Ünal
+    location: "Turkey"
+    followers: 113008
+    engagement: 231
+    commentsToLikes: 0.023138
+    id: ckaozm0qomges0i78c8xrjual
+    verified: false
+    hashtags: "#onlinediyet, #beslenme, #tbt, #sag"
+  - username: "sedademirdogenn"
+    fullname: >-
+      SeD
+    location: "Turkey"
+    followers: 14545
+    engagement: 392
+    commentsToLikes: 0.064130
+    id: ckaoyr2utip9r0i780xqmdklm
+    verified: false
+    hashtags: "#antreman, #analiz, #pozitifdu, #doglife"
+  - username: "aysecakar"
+    fullname: >-
+      Ayşe Çakar
+    location: "Turkey"
+    followers: 45667
+    engagement: 167
+    commentsToLikes: 0.026187
+    id: ckap3bsep2e7x0i78e8nr1qrl
+    verified: false
+    hashtags: "#quarantineday22, #youtube, #lookslikeheaven, #krispykremedoughnuts"
 ---

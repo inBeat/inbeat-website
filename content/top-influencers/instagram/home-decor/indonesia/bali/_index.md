@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Bali In 2020
 description: >-
-  Find top home decor Instagram influencers in Bali in 2020. Most popular hashtags: #homedecor #dirumahaja #pojokfavorit #homedecorloversid.
+  Find top home decor Instagram influencers in Bali in 2020. Most popular hashtags: #homedecor #bali #idulfitri #stayathome.
 platform: Instagram
 profiles:
-  - username: "archi.reference"
+  - username: "tanjia.methela"
     fullname: >-
-      Architecture Reference
+      Tangia Zaman Methila 🇧🇩
     location: "Indonesia"
-    followers: 106991
-    engagement: 299
-    commentsToLikes: 0.004032
-    id: ck15s3bi1b0bv0i19mwluz826
+    followers: 154986
+    engagement: 350
+    commentsToLikes: 0.012665
+    id: ck5q24omke94x0i114m8tb7me
     verified: false
-    hashtags: "#homedecore, #concretehouse, #portoalegre, #jakarta"
+    hashtags: "#homedecor, #freedom, #hairstyles, #action"
+  - username: "milaparamita"
+    fullname: >-
+      m i l s
+    location: "Indonesia"
+    followers: 7686
+    engagement: 1099
+    commentsToLikes: 0.069871
+    id: ck5zzo246c3ms0i14bwhd19e7
+    verified: false
+    hashtags: "#internationalwomensday, #tropical, #salahbuahmurah, #nailart"
+  - username: "that_rahgeer_chick"
+    fullname: >-
+      Apoorvi Awasthi | Indian 🇮🇳
+    location: "Indonesia"
+    followers: 4103
+    engagement: 1072
+    commentsToLikes: 0.144688
+    id: ckap4qlur8fgr0i78jees4aud
+    verified: false
+    hashtags: "#instachallenges, #summervibes, #followforfollow, #travel"
   - username: "delavalent"
     fullname: >-
-      Dela Valentina Karim
+      Dela (Inspirasi Rumah Mungil)
     location: "Indonesia"
-    followers: 31353
-    engagement: 193
-    commentsToLikes: 0.409216
+    followers: 34194
+    engagement: 252
+    commentsToLikes: 0.310387
     id: ck5q85ocr4k9e0i11ftscn7of
     verified: false
-    hashtags: "#sambal, #instadecor, #terrace, #wallhanging"
-  - username: "greenvillagebali_"
+    hashtags: "#shabbyhome, #kartini2020, #urbanjungle, #roomtour"
+  - username: "adeirma.lov"
     fullname: >-
-      Green Village
+      Inspirasi Rumah Mungil
     location: "Indonesia"
-    followers: 31900
-    engagement: 133
-    commentsToLikes: 0.008149
-    id: ck5c3ev4oz6q80i11v409ofk7
+    followers: 25716
+    engagement: 159
+    commentsToLikes: 0.072816
+    id: ck55ocq1u83w30i116906b5oc
     verified: false
-    hashtags: "#ecofolks, #sustainability, #ecolife, #housegoals"
-  - username: "anneklopstra"
+    hashtags: "#homeinspo, #bismillah, #repost, #giveawaytime"
+  - username: "sumber_resep"
     fullname: >-
-      Bali | Fashion | Fitness
+      🍞 Kumpulan Resep & Video 🍞🍝
     location: "Indonesia"
-    followers: 28197
-    engagement: 632
-    commentsToLikes: 0.163838
-    id: ck5hr0q0uu26j0i11nl6m75z0
+    followers: 123091
+    engagement: 184
+    commentsToLikes: 0.014911
+    id: ck5hcm6ebisjp0i11f20t1wm8
     verified: false
-    hashtags: "#nusalembongan, #selfie, #swingswing, #fashionista"
-  - username: "onyah.pingky"
+    hashtags: "#dekorasirumahvintage, #lupadiet, #wisatakuliner, #slimeasmr"
+  - username: "susi.pudjiastuti_"
     fullname: >-
-      Inspirasi Rumah Peachy Pink
+      Susi Pudjiastuti
     location: "Indonesia"
-    followers: 13211
-    engagement: 627
-    commentsToLikes: 0.116458
-    id: ck5cho4tmr59y0i110zwu5z77
+    followers: 33481
+    engagement: 466
+    commentsToLikes: 0.055275
+    id: ckapazffmy1q90i78b0xmcxvx
     verified: false
-    hashtags: "#joojihoon, #tataruangrumah, #berbagi, #bedtime"
-  - username: "edelmacrame"
+    hashtags: "#lokerbali, #tanamankekinian, #tanamanbuahdalampot, #hiasanrumah"
+  - username: "bwi.banget"
     fullname: >-
-      edelmac
+      Banyuwangi Banget Official
     location: "Indonesia"
-    followers: 44082
-    engagement: 111
-    commentsToLikes: 0.016085
-    id: ck15u90ppm0jp0i19mqj1ik9v
+    followers: 10970
+    engagement: 543
+    commentsToLikes: 0.003014
+    id: ck8t10f1fu05u0j7898tfepzr
     verified: false
-    hashtags: "#scissor, #manik, #happychinesenewyear, #macramelover"
-  - username: "tampahhills"
+    hashtags: "#bakmandioval, #bakmandicantik, #bakmandidungdung, #diamdirumah"
+  - username: "cynthiavandoorn"
     fullname: >-
-      Tampah Hills
+      𝐂𝐲𝐧𝐭𝐡𝐢𝐚 🦋
     location: "Indonesia"
-    followers: 25336
-    engagement: 504
-    commentsToLikes: 0.007963
-    id: ck13ctb4321sv0i19mx8lnxt0
+    followers: 9015
+    engagement: 1400
+    commentsToLikes: 0.326278
+    id: ck8t2toif0o380j78xwp34o2r
     verified: false
-    hashtags: "#tampahhills, #oceanaddict, #throwbackthursday, #vitaminsea"
-  - username: "taruna_home"
+    hashtags: "#strongersweden, #garnierbio, #hairproduct, #smartphoto"
+  - username: "mrvahn"
     fullname: >-
-      🏠 Klasik  Modern Sederhana 🏡
+      Steven Setiono
     location: "Indonesia"
-    followers: 111819
-    engagement: 129
-    commentsToLikes: 0.067449
-    id: ck55ocq1683vl0i110h301hhq
+    followers: 42013
+    engagement: 312
+    commentsToLikes: 0.024367
+    id: ck0u0bsy2t7op0i19i5m1kn80
     verified: false
-    hashtags: "#hdltidurlagiyuk, #mejabelajar, #livingroomdecor, #coversofamurah"
-  - username: "nurrin_nurrinawati"
-    fullname: >-
-      nurrinawati
-    location: "Indonesia"
-    followers: 2236
-    engagement: 742
-    commentsToLikes: 0.266189
-    id: ck8t5048e8eqc0j78a1roxgpt
-    verified: false
-    hashtags: "#coffeetable, #dekorasitaman, #tkgiveaway2, #kamarshabbychic"
-  - username: "dina_rafasya"
-    fullname: >-
-      Dina
-    location: "Indonesia"
-    followers: 3577
-    engagement: 772
-    commentsToLikes: 0.435575
-    id: ck55ocnjj83t30i11zd6q6x6c
-    verified: false
-    hashtags: "#instadecor, #inspirasidapurmungil, #custombyorder, #rumahcantikidaman"
+    hashtags: "#whenitsover, #hotlatte, #dripcoffee, #cafe"
 ---

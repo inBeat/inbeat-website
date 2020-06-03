@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Brazil In 2020
 description: >-
-  Find top food Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #publi #lookdodia #influencer.
+  Find top food Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #dogs #traveldeeper #parcialbbb.
 platform: Instagram
 profiles:
   - username: "theluckysalamander"
     fullname: >-
       Lucky Salamander
     location: "Brazil"
-    followers: 34176
-    engagement: 1090
-    commentsToLikes: 0.055749
+    followers: 36602
+    engagement: 1071
+    commentsToLikes: 0.055409
     id: ck8szn8f1p2nx0j78atpg3bgj
     verified: false
     hashtags: "#e3, #e32019"
+  - username: "lauura.miranda"
+    fullname: >-
+      ʟᴀᴜʀᴀ ᴍɪʀᴀɴᴅᴀ
+    location: "Brazil"
+    followers: 201431
+    engagement: 545
+    commentsToLikes: 0.145305
+    id: ck5hcx4znke7f0i11v137r27c
+    verified: false
+    hashtags: "#tbt"
+  - username: "rafinhaaaaa"
+    fullname: >-
+      RAFA VALENÇA COUTINHO 🌈
+    location: "Brazil"
+    followers: 5614
+    engagement: 1078
+    commentsToLikes: 0.086362
+    id: ckaotdwnzvi7z0i78eazacr6i
+    verified: false
+    hashtags: "#atostaelinda, #doglover, #vscogram, #myfrenchie"
   - username: "gabriellfreitass"
     fullname: >-
       GABRIEL FREITAS
     location: "Brazil"
-    followers: 85019
-    engagement: 396
-    commentsToLikes: 0.049135
+    followers: 102348
+    engagement: 362
+    commentsToLikes: 0.048386
     id: ck8tbx7v3xjat0j78pej9cdno
     verified: false
-    hashtags: "#oxfordporcelanas, #lata, #clubewine, #publi"
+    hashtags: "#oxfordcookware, #mccainaoforno, #compartilhereceitas, #oxfordnasuarotina"
+  - username: "lyviaroberta_"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀Lyvia Roberta 🦋
+    location: "Brazil"
+    followers: 8473
+    engagement: 1674
+    commentsToLikes: 0.236941
+    id: ck8tauhayt3yc0j78f10meouk
+    verified: false
+    hashtags: "#agradecer, #amor, #foto, #finalbbb"
   - username: "kertes_"
     fullname: >-
       Bruna Kertes
     location: "Brazil"
-    followers: 14255
-    engagement: 854
-    commentsToLikes: 0.104890
+    followers: 15512
+    engagement: 798
+    commentsToLikes: 0.069259
     id: ck8t1xukqxh7w0j785qxr2ypi
     verified: false
-    hashtags: "#stayhome"
-  - username: "maygabrielle"
+    hashtags: "#stayhome, #ape41a"
+  - username: "laribbotelho"
     fullname: >-
-      May Gabrielle • 📍 CG - MS
+      Larissa Brandão Botelho
     location: "Brazil"
-    followers: 34373
-    engagement: 406
-    commentsToLikes: 0.123345
-    id: ck8t81txziswo0j78j84iqpoz
+    followers: 2497
+    engagement: 1450
+    commentsToLikes: 0.215901
+    id: ck8t26ww8yd620j780em7wfjm
     verified: false
     hashtags: "#tbt"
-  - username: "natialves87"
+  - username: "brrumaia"
     fullname: >-
-      Natalia Thais Alves
+      BRUNA MAIA
     location: "Brazil"
-    followers: 38782
-    engagement: 297
-    commentsToLikes: 0.054423
-    id: ck8t1to2nwzmq0j7856swjcts
+    followers: 26123
+    engagement: 261
+    commentsToLikes: 0.079440
+    id: ckap2c5ury7vo0i78uvxhduo4
     verified: false
-    hashtags: "#emcasa"
-  - username: "ana_gregory"
-    fullname: >-
-      Ana Gregory
-    location: "Brazil"
-    followers: 133351
-    engagement: 423
-    commentsToLikes: 0.028507
-    id: ck0vw54z1s5cv0i19d0u46j2y
-    verified: false
-    hashtags: "#cuidadoscomapele, #cuidadoscomorosto, #fiqueemcasa, #voude99"
-  - username: "samanthabraganca"
-    fullname: >-
-      Samantha Bragança Ferraz
-    location: "Brazil"
-    followers: 13832
-    engagement: 545
-    commentsToLikes: 0.283547
-    id: ck5buuneaigzy0i116awsdv6l
-    verified: false
-    hashtags: "#dentist, #cachorro, #brasil, #preenchimento"
+    hashtags: ""
   - username: "nessavalentini"
     fullname: >-
       Vanessa Valentini
     location: "Brazil"
-    followers: 30918
-    engagement: 196
-    commentsToLikes: 0.531419
+    followers: 30817
+    engagement: 239
+    commentsToLikes: 0.093376
     id: ck5q4zwfyqu3x0i11r6tff78c
     verified: false
-    hashtags: "#vibefunn, #funnsummer, #vibefunn"
-  - username: "luisa.ribeeiro"
+    hashtags: "#conselhodefarmacia, #jogatudochallenge, #5demaio"
+  - username: "franviana"
     fullname: >-
-      Luísa🏳️‍🌈
+      Fran viana
     location: "Brazil"
-    followers: 2852
-    engagement: 1109
-    commentsToLikes: 0.131941
-    id: ck8tckmkhzqem0j78lz4oid0s
+    followers: 123904
+    engagement: 207
+    commentsToLikes: 0.049841
+    id: ck0w1pkhwki960i19k6p9vqhj
     verified: false
-    hashtags: "#selfieclube, #selfiebr, #fotoderespiro, #nature"
-  - username: "benibarreto"
-    fullname: >-
-      Bernardo Barreto
-    location: "Brazil"
-    followers: 7404
-    engagement: 528
-    commentsToLikes: 0.071400
-    id: ck6tyuzfe60hp0j711wnjxf0v
-    verified: false
-    hashtags: "#tbt"
+    hashtags: "#tbt, #110kdafran"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Colombia In 2020
 description: >-
-  Find top cooking Instagram influencers in Colombia in 2020. Most popular hashtags: #yomequedoencasa #love #cooking #cuarentena.
+  Find top cooking Instagram influencers in Colombia in 2020. Most popular hashtags: #cooking #quedateencasa #food #medellin.
 platform: Instagram
 profiles:
+  - username: "mmarocchino"
+    fullname: >-
+      ManFashion & Lifestyle
+    location: "Colombia"
+    followers: 343639
+    engagement: 330
+    commentsToLikes: 0.025967
+    id: ck13bt0bax0tu0i19y0uylaz5
+    verified: true
+    hashtags: "#entrenamiento, #zapatillasparatodxs, #fashion, #masterchefchile"
   - username: "zuzana_klingrova"
     fullname: >-
       Zuzana Klingrova
     location: "Colombia"
-    followers: 26798
-    engagement: 585
-    commentsToLikes: 0.026829
+    followers: 27207
+    engagement: 600
+    commentsToLikes: 0.027077
     id: ck14ilv5yg22q0i19wu5yhqi6
     verified: false
-    hashtags: "#yogaoffthemat, #newyearintentions, #prirodnideodorant, #yoga"
-  - username: "chinitaperezs"
+    hashtags: "#myyoga, #joga, #yogatime, #yogamat"
+  - username: "juanpatetrae"
     fullname: >-
-      Rocio Perez Suarez
+      Juanpatetrae 🔪
     location: "Colombia"
-    followers: 17662
-    engagement: 236
-    commentsToLikes: 0.047739
-    id: ck5btv8p3go8s0i11dkdag9he
+    followers: 6226
+    engagement: 988
+    commentsToLikes: 0.045434
+    id: ck9wd786vedof0j78c7w5bgia
     verified: false
-    hashtags: "#marrakech, #nature, #lifeissharing, #yogui"
+    hashtags: "#room, #chilitaco, #mexitaco, #sunday"
   - username: "juanpablosamper"
     fullname: >-
       Juan Pablo
     location: "Colombia"
-    followers: 13153
-    engagement: 585
-    commentsToLikes: 0.058097
+    followers: 13016
+    engagement: 615
+    commentsToLikes: 0.059361
     id: ck13cgs3y09k70i19q1iddf8m
     verified: false
-    hashtags: "#cooking, #skin, #carnival, #nopongasnadaenclosefriends"
-  - username: "anasofiahenaoe"
+    hashtags: "#foodie, #healthy, #challenge, #carnival"
+  - username: "juanmaelcielo"
     fullname: >-
-      Ana Sofía Henao
+      Juan Manuel Barrientos
     location: "Colombia"
-    followers: 1249645
-    engagement: 153
-    commentsToLikes: 0.009954
-    id: ck55jps1ixiu60i11xipfj3zk
+    followers: 456874
+    engagement: 39
+    commentsToLikes: 0.022826
+    id: ck5qae5ppfx9n0i116imzd4l1
     verified: true
-    hashtags: "#fridaymood, #life, #saturdayvibes, #friday"
-  - username: "itsisabelbedoya"
+    hashtags: "#socialdistancing, #cocinarencasa, #strongfathersstrongdaughters, #manosseguras"
+  - username: "anibal_aniki"
     fullname: >-
-      Isabel Bedoya
+      Anibal Valdés Faúndez
     location: "Colombia"
-    followers: 3544587
-    engagement: 443
-    commentsToLikes: 0.037084
-    id: ck0w1gsopj9tw0i190cabepr6
-    verified: true
-    hashtags: "#itsshowtime, #makeup, #slowmo, #glowdownunder"
-  - username: "saramontoyam"
-    fullname: >-
-      Sara Montoya
-    location: "Colombia"
-    followers: 60369
-    engagement: 177
-    commentsToLikes: 0.114609
-    id: ck5qckk8br1650i118bulbd5p
+    followers: 40219
+    engagement: 1430
+    commentsToLikes: 0.027763
+    id: ck5zmplo2mzrd0i14mm8epvea
     verified: false
-    hashtags: "#traveler, #atracciones, #manitobaconsciente, #prayfortheworld"
+    hashtags: "#lulo, #alejandro, #tecitobajativo, #woaaa"
   - username: "julioc_herrera_"
     fullname: >-
       Julio Cesar Herrera
     location: "Colombia"
-    followers: 184775
-    engagement: 339
-    commentsToLikes: 0.035128
+    followers: 190917
+    engagement: 290
+    commentsToLikes: 0.035416
     id: ck0uefiiwl8040i196ztkgeym
     verified: false
-    hashtags: "#play, #actorcooking, #encrespadodepesta, #juntossomosm"
+    hashtags: "#portada, #parido, #cojaoficio, #aventura"
   - username: "gatoderisa"
     fullname: >-
       Jonathan Gato
     location: "Colombia"
-    followers: 41979
-    engagement: 470
-    commentsToLikes: 0.042335
+    followers: 41686
+    engagement: 488
+    commentsToLikes: 0.044156
     id: ck0vy0lyt1neh0i19kgpjrjvx
     verified: false
-    hashtags: "#gato, #freddiemercury, #world, #colours"
-  - username: "kmiitorresp"
+    hashtags: "#halloween, #queen, #marcha, #beach"
+  - username: "foodiehub_baq"
     fullname: >-
-      Camila Torres
+      Foodiehub_baq | Food blog
     location: "Colombia"
-    followers: 26469
-    engagement: 262
-    commentsToLikes: 0.085144
-    id: ck6u9eudmx5mt0j7108uih0pe
+    followers: 7152
+    engagement: 638
+    commentsToLikes: 0.117513
+    id: ck8tae96crejy0j78nosmvr0e
     verified: false
-    hashtags: "#moveon, #keto, #motivation, #warrior"
-  - username: "davidorozcococina"
+    hashtags: "#junkfood, #streetfood, #milo, #chocolatecake"
+  - username: "babyfriendlycolombia"
     fullname: >-
-      Chef David Orozco
+      Babyfriendlycolombia
     location: "Colombia"
-    followers: 25025
-    engagement: 272
-    commentsToLikes: 0.076130
-    id: ck0w4u4y50fn10i19rukdzylu
+    followers: 27409
+    engagement: 146
+    commentsToLikes: 0.190790
+    id: ck5camli0dp2b0i11soiyunl3
     verified: false
-    hashtags: "#srarice, #domicilioencuarentena, #arrosconcoco, #tapeo"
+    hashtags: "#tiktokviral, #54genq, #sorpresa, #funnyquotes"
 ---

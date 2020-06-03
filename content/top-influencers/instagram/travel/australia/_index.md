@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Australia In 2020
 description: >-
-  Find top travel Instagram influencers in Australia in 2020. Most popular hashtags: #visitsydney #travelcouple #travel #sydney.
+  Find top travel Instagram influencers in Australia in 2020. Most popular hashtags: #travelblogger #indonesia #quarantinelife #kualalumpur.
 platform: Instagram
 profiles:
-  - username: "kellympreston"
+  - username: "travels.mood"
     fullname: >-
-      Kelly Preston
+      TRAVEL!
     location: "Australia"
-    followers: 136567
-    engagement: 683
-    commentsToLikes: 0.046459
-    id: ck0u1bzaxwhw00i199j4biujl
+    followers: 488712
+    engagement: 92
+    commentsToLikes: 0.011773
+    id: ck137fjj8b9w30i190gqfw6t9
     verified: false
-    hashtags: "#fitness, #freshface, #blueeyes, #styleinspo"
+    hashtags: "#europetravel, #glaciers, #yucatan, #duba"
+  - username: "thetwobohemians"
+    fullname: >-
+      MINDFUL TRAVEL & LIFESTYLE 💫✨
+    location: "Australia"
+    followers: 57226
+    engagement: 379
+    commentsToLikes: 0.056560
+    id: ck0u6dt101m860i1921ad3kl5
+    verified: false
+    hashtags: "#hikkaduwa, #hikkaduwabeach, #energy, #ukblogger"
+  - username: "traveling.gypsyy"
+    fullname: >-
+      Megan Weldon ✈️ Travel
+    location: "Australia"
+    followers: 5670
+    engagement: 1946
+    commentsToLikes: 0.085606
+    id: ck5zv92nu3sky0i14eavhkm4z
+    verified: false
+    hashtags: ""
+  - username: "always_vacay"
+    fullname: >-
+      Hanie
+    location: "Australia"
+    followers: 5397
+    engagement: 1398
+    commentsToLikes: 0.159418
+    id: ck9hcf488l36u0j78yshwu4bh
+    verified: false
+    hashtags: "#praguestagram, #bluemountain, #praguecity, #travelaustralia"
   - username: "_kassielee"
     fullname: >-
-      KASSIE LEE 🇧🇧🇦🇺
+      KASSIE LEE | 🇧🇧🇦🇺
     location: "Australia"
-    followers: 10023
-    engagement: 1007
-    commentsToLikes: 0.106177
+    followers: 10206
+    engagement: 1086
+    commentsToLikes: 0.124561
     id: ck8t3jy3a3i5y0j78dw5el6ea
     verified: false
-    hashtags: "#milosgreece, #isolationcreation, #southwestaustralia, #visitaustralia"
-  - username: "daniellissing"
+    hashtags: "#lakeatitlan, #guatemala, #maldivesislands, #maldives"
+  - username: "watchaswewander"
     fullname: >-
-      Daniel Lissing
+      JAMES ❃ EVANGELINE
     location: "Australia"
-    followers: 272757
-    engagement: 661
-    commentsToLikes: 0.022117
-    id: ck5q7aike0mh90i110xlv78bj
-    verified: true
-    hashtags: "#hawaii, #brotherandsister, #actor, #family"
-  - username: "thatwanderlustboho"
-    fullname: >-
-      Hannah Jean ☽ Travel
-    location: "Australia"
-    followers: 10427
-    engagement: 911
-    commentsToLikes: 0.230963
-    id: ck5qbv56bnjau0i11fq2jhy1q
+    followers: 3155
+    engagement: 1894
+    commentsToLikes: 0.148146
+    id: ck8tdr5t94h5f0j784vzzdn32
     verified: false
-    hashtags: "#sydneysider, #beautifulcambodia, #newzealandroadtrip, #sydney"
-  - username: "love.christina.xo"
+    hashtags: "#visitgoldcoast, #grateful, #itsoknottobeok, #kickinggoals"
+  - username: "suvarnaarora"
     fullname: >-
-      ✨Christina✨
+      Suvarna❤️ Travel & Photography
     location: "Australia"
-    followers: 155448
-    engagement: 412
-    commentsToLikes: 0.092206
-    id: ck13c84lqz1y50i192xk9bkvq
+    followers: 9046
+    engagement: 1537
+    commentsToLikes: 0.234984
+    id: ck0tzsxzmri0r0i19gpo7cjbq
     verified: false
-    hashtags: "#sydneyblogger, #mcaaustralia, #bondiboost, #biodegradable"
+    hashtags: "#igersdubai, #balilife, #thediscoverer, #vacations"
+  - username: "joostvanwilligenburg"
+    fullname: >-
+      Joost van Willigenburg
+    location: "Australia"
+    followers: 6453
+    engagement: 1502
+    commentsToLikes: 0.050069
+    id: ck5zp40e2ry3n0i141ch3iix5
+    verified: false
+    hashtags: "#maramegmegbeachbar, #thegirlismine, #lakepukaki, #ditzijnwel"
   - username: "jetsetmama"
     fullname: >-
       Claire Alexander-Johnston
     location: "Australia"
-    followers: 122080
-    engagement: 965
-    commentsToLikes: 0.044909
+    followers: 121110
+    engagement: 979
+    commentsToLikes: 0.044963
     id: ck5hoq5gyq0ti0i11me6qpkin
     verified: false
-    hashtags: "#andbins, #awkward, #citizensage, #babyblessing"
+    hashtags: "#sacredwomensbusiness, #38weeks, #fuckmylyfe, #jetsetmamalovestory"
   - username: "jordanandjessica"
     fullname: >-
       Jordan & Jessica || Australia
     location: "Australia"
-    followers: 8358
-    engagement: 917
-    commentsToLikes: 0.123769
+    followers: 8161
+    engagement: 961
+    commentsToLikes: 0.122828
     id: ck5hg389m0p190i11t3llae0o
     verified: false
-    hashtags: "#torontodateideas, #torontoblogher, #ontariotourism, #campbellville"
-  - username: "hautevoyages"
-    fullname: >-
-      Danielle & Jared
-    location: "Australia"
-    followers: 86635
-    engagement: 380
-    commentsToLikes: 0.091926
-    id: ck6tvvs5yojvv0j71jofzb5hh
-    verified: false
-    hashtags: "#thecooltravel, #sydneyoperahouse, #prettylittlecities, #londonstyle"
-  - username: "adamjhardy"
-    fullname: >-
-      A D A M  H A R D Y
-    location: "Australia"
-    followers: 33506
-    engagement: 381
-    commentsToLikes: 0.063284
-    id: ck0u06ukfsubb0i19d6gqgr88
-    verified: false
-    hashtags: "#merryxmas, #wwmd, #whatwouldmaxxydo, #fbf"
-  - username: "krystinesc"
-    fullname: >-
-      KRYSTINE ❀ Travel Girl
-    location: "Australia"
-    followers: 107036
-    engagement: 342
-    commentsToLikes: 0.051014
-    id: ck0tviiu6bi8r0i19vn0eaw7y
-    verified: false
-    hashtags: "#citirewardsme, #38weekspregnant, #abouttime, #mamatobe"
+    hashtags: "#couplewhotravel, #frozenwaterfall, #torontoblogher, #seetorontonow"
 ---

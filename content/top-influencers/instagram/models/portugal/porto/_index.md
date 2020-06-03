@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Porto In 2020
 description: >-
-  Find top models Instagram influencers in Porto in 2020. Most popular hashtags: #portugal #fashion #stayhome #model.
+  Find top models Instagram influencers in Porto in 2020. Most popular hashtags: #porto #stayhome #beach #coronavirus.
 platform: Instagram
 profiles:
-  - username: "viksoza"
+  - username: "iamfabioteles"
     fullname: >-
-      Vinicius | Porto Photographer
+      F A B I O • T E L E S
     location: "Portugal"
-    followers: 33135
-    engagement: 302
-    commentsToLikes: 0.030525
-    id: ck0ttzs2l51cc0i19fzpdv5fy
+    followers: 85047
+    engagement: 1218
+    commentsToLikes: 0.013822
+    id: ck5qdynmfxw7z0i118o9xwukj
     verified: false
-    hashtags: "#fashioneditorial, #makeup, #pursuitofportraits, #germany"
-  - username: "sara.bartolomeu"
+    hashtags: "#tranquilidade, #menstyle, #testshoot, #fiqueemcasa"
+  - username: "dr_marta_beauty"
     fullname: >-
-      Sara Bartolomeu🌹
+      ✨ THE ART OF CREATING BEAUTY ✨
     location: "Portugal"
-    followers: 6391
-    engagement: 1816
-    commentsToLikes: 0.009279
-    id: ck5qc2dadoj9i0i11wh6u7l2m
+    followers: 38640
+    engagement: 146
+    commentsToLikes: 0.209021
+    id: ck6u70lbhirwx0j71rhw2a3ho
     verified: false
-    hashtags: "#instamodels, #piano, #newobjetives, #photgraphy"
-  - username: "_andrebrito_"
+    hashtags: "#repost, #gorgeous, #keepsafe, #newbeginnings"
+  - username: "nicolasartorte"
     fullname: >-
-      André Brito
+      Nicolas Sartorte
     location: "Portugal"
-    followers: 12176
-    engagement: 331
-    commentsToLikes: 0.031128
-    id: ck5pzko9p1fzv0i11lu61z9qt
+    followers: 2135
+    engagement: 1346
+    commentsToLikes: 0.095533
+    id: ckap2ajw3y14n0i78bh3881to
     verified: false
-    hashtags: "#bwphotography, #naturallook, #sessions, #ballerina"
-  - username: "mercheromero.oficial"
+    hashtags: "#friends, #novosbaianos, #tudovaificarbem, #nature"
+  - username: "mapesii"
     fullname: >-
-      Merche Romero
+      Marília Pedrosa
     location: "Portugal"
-    followers: 56996
-    engagement: 161
-    commentsToLikes: 0.030708
-    id: ck5q4fow7ovrq0i117oi8rngz
+    followers: 6333
+    engagement: 849
+    commentsToLikes: 0.231614
+    id: ck9weaecnje0z0j780lugg4np
     verified: false
-    hashtags: "#madrinha, #letsdoit, #soldeinverno, #semfiltros"
-  - username: "sandra___figueiredo"
+    hashtags: "#challengegroup, #padraodosdescobrimentos, #praiadaursa, #challengerfam"
+  - username: "pilotelton"
     fullname: >-
-      𝕊𝕒𝕟𝕕𝕣𝕒 𝔽𝕚𝕘𝕦𝕖𝕚𝕣𝕖𝕕𝕠
+      Elton
     location: "Portugal"
-    followers: 13330
-    engagement: 206
-    commentsToLikes: 0.040188
-    id: ck5hcplhgjax90i112t0vx4iv
+    followers: 24116
+    engagement: 728
+    commentsToLikes: 0.014424
+    id: ck8t82wajiwsp0j78k7cof1uc
     verified: false
-    hashtags: "#almostspring, #mychoice, #aggressors, #passeios"
-  - username: "kevinsampaiotwin"
+    hashtags: "#andorra, #crossfitboy, #timeoff, #mountain"
+  - username: "ritalopesalmeida"
     fullname: >-
-      Kevin Sampaio
+      Rita Almeida
     location: "Portugal"
-    followers: 94111
-    engagement: 666
-    commentsToLikes: 0.029005
-    id: ck5btkddmg4fv0i11z5m30slo
-    verified: true
-    hashtags: "#nyc"
-  - username: "jonathansampaio"
-    fullname: >-
-      Jonathan Sampaio
-    location: "Portugal"
-    followers: 82321
-    engagement: 672
-    commentsToLikes: 0.030407
-    id: ck5btkc5pg4d30i11y71l0q03
-    verified: true
-    hashtags: "#vogue, #jiujitsu, #goodmorning, #picture"
-  - username: "_sofiaazevedo_"
-    fullname: >-
-      Sofia Azevedo
-    location: "Portugal"
-    followers: 14611
-    engagement: 904
-    commentsToLikes: 0.071098
-    id: ck5zp2cm4rusf0i142go1gqhj
+    followers: 6368
+    engagement: 1875
+    commentsToLikes: 0.024380
+    id: ck8t6t58aelw10j78oe42y4jf
     verified: false
-    hashtags: "#streetstyleinspo, #valentinesgiveaway, #zarawoman, #ootdpost"
-  - username: "megmmorais"
-    fullname: >-
-      Margarida Morais
-    location: "Portugal"
-    followers: 31381
-    engagement: 481
-    commentsToLikes: 0.074457
-    id: ck0twpai2g9s70i197zk1o98z
-    verified: false
-    hashtags: "#foundation, #theoutdoorfolk, #swim, #mylook"
+    hashtags: "#lookinspiracao, #womenartists, #body, #partystyling"
   - username: "gabriell_boss"
     fullname: >-
       Gabriell Boss
     location: "Portugal"
-    followers: 16413
-    engagement: 1033
-    commentsToLikes: 0.032084
+    followers: 16848
+    engagement: 1070
+    commentsToLikes: 0.028334
     id: ck6tlp2386d6z0j718imm6o92
     verified: false
-    hashtags: "#hair, #newphoto, #style, #quarantine"
+    hashtags: "#american, #azul, #drawing, #thanks"
+  - username: "megmmorais"
+    fullname: >-
+      Margarida Morais
+    location: "Portugal"
+    followers: 31636
+    engagement: 500
+    commentsToLikes: 0.061917
+    id: ck0twpai2g9s70i197zk1o98z
+    verified: false
+    hashtags: "#vergegirl, #margarida, #love, #getfit"
+  - username: "jonathansampaio"
+    fullname: >-
+      Jonathan Sampaio
+    location: "Portugal"
+    followers: 79440
+    engagement: 629
+    commentsToLikes: 0.028914
+    id: ck5btkc5pg4d30i11y71l0q03
+    verified: true
+    hashtags: "#maisonsimons, #paris, #polaroid, #modellife"
+  - username: "kevinsampaiotwin"
+    fullname: >-
+      Kevin Sampaio
+    location: "Portugal"
+    followers: 90902
+    engagement: 583
+    commentsToLikes: 0.025701
+    id: ck5btkddmg4fv0i11z5m30slo
+    verified: true
+    hashtags: "#deuxsampaio, #nyc"
 ---

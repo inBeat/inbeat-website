@@ -1,66 +1,66 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Seoul In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Seoul in 2020. Most popular hashtags: #colortattoo #tattoo #tattooartist #tattoodo.
+  Find top tattoo-artists Instagram influencers in Seoul in 2020. Most popular hashtags: #tattooartist #tattoo #colortattoo #drawingtattoo.
 platform: Instagram
 profiles:
-  - username: "tattooer_manda"
+  - username: "graycodetattoo"
     fullname: >-
-      STUDIOBYSOL_MANDA
+      Tattoo Artist GRAYCODE
     location: "South Korea"
-    followers: 30939
-    engagement: 888
-    commentsToLikes: 0.006748
-    id: ck8tbm6tgw7f70j78r26dugp2
+    followers: 26528
+    engagement: 1084
+    commentsToLikes: 0.014338
+    id: ckaovj61o4s5q0i788zhkb7dt
     verified: false
-    hashtags: "#wip, #mermaid, #poppytattoo, #blackmamba"
+    hashtags: "#wavetattoo, #moontattoo, #letteringtattoos, #tinytattoo"
   - username: "q_tattoos"
     fullname: >-
       Dongkyu Lee
     location: "South Korea"
-    followers: 236917
-    engagement: 103
-    commentsToLikes: 0.015075
+    followers: 235293
+    engagement: 104
+    commentsToLikes: 0.015130
     id: ck6udf9mvkr5q0j711k6r62zm
     verified: true
-    hashtags: "#oscar, #qtattoo, #realismtattoo, #tattoo"
-  - username: "mumi_ink"
+    hashtags: "#ifeltsomething, #kwadron, #savetattookorea, #pasteldrawing"
+  - username: "tattooer_nadi"
     fullname: >-
-      무미
+      NADi
     location: "South Korea"
-    followers: 71185
-    engagement: 747
-    commentsToLikes: 0.006898
-    id: ck5hk1pqhhmxx0i11uopvcq15
+    followers: 154354
+    engagement: 183
+    commentsToLikes: 0.008739
+    id: ck9wdk9d2g17j0j78tmxnw39x
     verified: false
-    hashtags: "#cherub, #feathertattoo, #pomegranatetattoo, #microrealismtattoo"
-  - username: "tattooist_yammy"
+    hashtags: "#drawingtattoo, #inked, #chesttattoo, #tattooed"
+  - username: "robineggstudio"
     fullname: >-
-      타투이스트 야미
+      로빈에그 𝐓𝐚𝐭𝐭𝐨𝐨 𝐒𝐭𝐮𝐝𝐢𝐨
     location: "South Korea"
-    followers: 66094
-    engagement: 249
-    commentsToLikes: 0.013519
-    id: ck0vvso3mql730i19n0qcop3d
+    followers: 24132
+    engagement: 154
+    commentsToLikes: 0.015664
+    id: ck15ttxe7jvqx0i19rmzc5vzk
     verified: false
-    hashtags: "#tattooinspiration, #bngtattoo, #sphynxcat, #animaltattoo"
-  - username: "dino_tats"
+    hashtags: "#tattoodesign, #polc, #powerpuffgirls, #garou"
+  - username: "artist.haneul"
     fullname: >-
-      문신하는집 DINO🦖
+      Haneul
     location: "South Korea"
-    followers: 12624
-    engagement: 576
-    commentsToLikes: 0.054882
-    id: ck5c40mgl0eq30i11g15x6jxw
+    followers: 69418
+    engagement: 233
+    commentsToLikes: 0.004051
+    id: ck0w0ei8cdsk40i1943nd6wbh
     verified: false
-    hashtags: "#tigertattoo, #japanesetattoos, #japaneseink, #blxckink"
+    hashtags: "#peachtattoo, #seoul, #pinkrosetattoo, #healedtattoo"
   - username: "lighthouse_professional_tattoo"
     fullname: >-
       ⚓️Lighthouse Tattoo Studio
     location: "South Korea"
-    followers: 29511
-    engagement: 216
-    commentsToLikes: 0.004690
+    followers: 31756
+    engagement: 297
+    commentsToLikes: 0.004626
     id: ck5qebx8vzpxx0i1141dpfof7
     verified: false
     hashtags: ""
@@ -68,40 +68,40 @@ profiles:
     fullname: >-
       💥 션엘 / $E🔺N  L ☄
     location: "South Korea"
-    followers: 5904
-    engagement: 929
-    commentsToLikes: 0.013647
+    followers: 6073
+    engagement: 907
+    commentsToLikes: 0.024251
     id: ck5cjpsrfv8er0i11h6i46cln
     verified: false
-    hashtags: "#neon, #shootingday, #dope, #goodvibes"
-  - username: "jemma_le_e_"
+    hashtags: "#goodbye2019, #raggae, #showsomelove, #time"
+  - username: "korea_b0ys_"
     fullname: >-
-      Jemma Lee
+      🥀||[ASIA BOY]||🥀62k
     location: "South Korea"
-    followers: 6841
-    engagement: 704
-    commentsToLikes: 0.016655
-    id: ck6tm2l5f72k60j71on2wvmrx
+    followers: 61019
+    engagement: 701
+    commentsToLikes: 0.011638
+    id: ck8tbrhwvwu5z0j78xcnuuee6
     verified: false
-    hashtags: "#photography, #expression, #ofdstudio, #secondproject"
-  - username: "who_is_ryu"
+    hashtags: "#koreanmusic, #happyday, #eyebrows, #poolplayer"
+  - username: "tattooer_nadi"
     fullname: >-
-      문신하는집 류(流)
+      NADi
     location: "South Korea"
-    followers: 5481
-    engagement: 523
-    commentsToLikes: 0.064915
-    id: ck5c40ob00evi0i1166fh7rf4
+    followers: 154354
+    engagement: 183
+    commentsToLikes: 0.008739
+    id: ck9wdk9d2g17j0j78tmxnw39x
     verified: false
-    hashtags: "#colortattoo, #darkart, #kisstattoo, #sketchtattoo"
-  - username: "mumi_ink"
+    hashtags: "#drawingtattoo, #inked, #chesttattoo, #tattooed"
+  - username: "jumbo_tattoo"
     fullname: >-
-      무미
+      ✑𝗝𝗨𝗠𝗕𝗢
     location: "South Korea"
-    followers: 71185
-    engagement: 747
-    commentsToLikes: 0.006898
-    id: ck5hk1pqhhmxx0i11uopvcq15
+    followers: 11263
+    engagement: 498
+    commentsToLikes: 0.017781
+    id: ck5qec4aozqrq0i11zwc388vc
     verified: false
-    hashtags: "#cherub, #feathertattoo, #pomegranatetattoo, #microrealismtattoo"
+    hashtags: "#dailylook, #swordtattoo, #godtattoo, #palmtreetattoo"
 ---

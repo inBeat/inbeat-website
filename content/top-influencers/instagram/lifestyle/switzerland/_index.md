@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #swissblogger #blogger #zurich.
+  Find top lifestyle Instagram influencers in Switzerland in 2020. Most popular hashtags: #throwback #stayhome #sunset #weekendvibes.
 platform: Instagram
 profiles:
-  - username: "nicolasstajic"
+  - username: "deliastefanii"
     fullname: >-
-      NICOLAS STAJIC
+      DELIA STEFANI
     location: "Switzerland"
-    followers: 78518
-    engagement: 726
-    commentsToLikes: 0.094614
-    id: ck14i3gnydgbm0i19lsdg36op
+    followers: 2390
+    engagement: 3971
+    commentsToLikes: 0.122752
+    id: ckap3amn528zq0i78t7igsxdt
     verified: false
-    hashtags: "#concours, #screenshootnico, #exploreinari, #collaboration"
+    hashtags: ""
   - username: "dominiquesallaum"
     fullname: >-
       Dominique Scarlett Sallaum
     location: "Switzerland"
-    followers: 17666
-    engagement: 656
-    commentsToLikes: 0.078037
+    followers: 21261
+    engagement: 733
+    commentsToLikes: 0.113248
     id: ck8t1syxbwwl80j78601m2jik
     verified: false
-    hashtags: "#myboy, #family, #mirage, #home"
-  - username: "massixda"
-    fullname: >-
-      Massimo
-    location: "Switzerland"
-    followers: 28936
-    engagement: 550
-    commentsToLikes: 0.076829
-    id: ck6u3kk6tybjm0j71mr7mpp06
-    verified: false
-    hashtags: "#trowback, #marrakech, #seyu, #switzerland"
-  - username: "danielkaay_"
-    fullname: >-
-      DΛNIEL KΛΛY
-    location: "Switzerland"
-    followers: 4072
-    engagement: 1785
-    commentsToLikes: 0.172516
-    id: ck5cahyisdg1v0i11a8gf1jjx
-    verified: false
-    hashtags: "#menwithstyle, #getsyossed, #redefiningluxury, #gentlemanstyle"
+    hashtags: "#stayhome, #sisterhood, #bekaa, #myboy"
   - username: "manuelkrasniqi"
     fullname: >-
       MANUEL KRASNIQI
     location: "Switzerland"
-    followers: 7409
-    engagement: 1647
-    commentsToLikes: 0.043901
+    followers: 7948
+    engagement: 1524
+    commentsToLikes: 0.053225
     id: ck8wghgayhdez0j78bt0kofkr
     verified: false
-    hashtags: "#snipesknows, #stayhome, #lamborghini, #sound"
+    hashtags: "#fitnessmode, #styledayfriday, #adidas, #mensoutfit"
   - username: "di_aaanaa"
     fullname: >-
       D.M. ✨ Sankt Gallen 🔁 Belgrade
     location: "Switzerland"
-    followers: 16314
-    engagement: 596
-    commentsToLikes: 0.236138
+    followers: 17005
+    engagement: 660
+    commentsToLikes: 0.199051
     id: ck8szi6dzojfh0j78tksrkwv9
     verified: false
-    hashtags: "#discoverunder20k, #zurich, #rixoshotel, #pregnacy"
+    hashtags: "#22weeks, #yummyday, #happyester, #takecareofyou"
+  - username: "amelia.averescu"
+    fullname: >-
+      𝑨𝑴𝑬𝑳𝑰𝑨 𝑨𝑽𝑬𝑹𝑬𝑺𝑪𝑼
+    location: "Switzerland"
+    followers: 49499
+    engagement: 448
+    commentsToLikes: 0.059092
+    id: ck5bxe0fhnjj30i114pg1omyq
+    verified: false
+    hashtags: "#instagood, #goldenhour, #schwarzweiss, #earth"
   - username: "yoli24fit"
     fullname: >-
       Wellness*Coach* Lifestyle
     location: "Switzerland"
-    followers: 15539
-    engagement: 621
-    commentsToLikes: 0.064761
+    followers: 15639
+    engagement: 637
+    commentsToLikes: 0.077781
     id: ck6u6liw5gara0j71z3m19fkb
     verified: false
-    hashtags: "#comosea, #cuarentena, #lavatusmanos, #stayathome"
-  - username: "hejitsmeela"
+    hashtags: "#workoutdone, #danke, #miercoles, #adesayunar"
+  - username: "massixda"
     fullname: >-
-      Daniela | MYLIFEandMORE 🇨🇭
+      Massimo
     location: "Switzerland"
-    followers: 6868
-    engagement: 846
-    commentsToLikes: 0.137299
-    id: ck1380bisdvxo0i19izgjiyt5
+    followers: 29668
+    engagement: 406
+    commentsToLikes: 0.101853
+    id: ck6u3kk6tybjm0j71mr7mpp06
     verified: false
-    hashtags: "#enjoylife, #travelphotography, #pool, #perfect"
-  - username: "slavia_karlen"
+    hashtags: "#radicalskincare, #marrakech, #throwback, #ad"
+  - username: "danielkaay_"
     fullname: >-
-      Slavia Karlen
+      DΛNIEL KΛΛY
     location: "Switzerland"
-    followers: 30375
-    engagement: 340
-    commentsToLikes: 0.113590
-    id: ck15u6q7alol00i19zder1ye4
+    followers: 4050
+    engagement: 1658
+    commentsToLikes: 0.197576
+    id: ck5cahyisdg1v0i11a8gf1jjx
     verified: false
-    hashtags: "#valentinesday2020, #unleashtheartistwithin, #jointflexibility, #womenempoweringwomen"
-  - username: "simona.sgier"
+    hashtags: "#mensbeauty, #grooming, #mensskincare, #truewireless"
+  - username: "iamclaudiadias"
     fullname: >-
-      Simona Sgier
+      𝒞𝓁𝒶𝓊𝒹𝒾𝒶 𝒟𝒾𝒶𝓈
     location: "Switzerland"
-    followers: 30721
-    engagement: 337
-    commentsToLikes: 0.091180
-    id: ck14l0usksb0i0i19wy6nj75o
+    followers: 12516
+    engagement: 1125
+    commentsToLikes: 0.062534
+    id: ck6tyrotj5gm20j71vxml8uxh
     verified: false
-    hashtags: "#zalando, #newi10, #newhyundaii10, #weiterbildung"
+    hashtags: "#makeupchallenge, #dontrushchallenge, #girlpower, #passatempo"
+  - username: "michaela_berezantev"
+    fullname: >-
+      MIMI 🇨🇭
+    location: "Switzerland"
+    followers: 25121
+    engagement: 384
+    commentsToLikes: 0.080183
+    id: ck55oz5039g040i11ho4hjqg2
+    verified: false
+    hashtags: "#mybestsecret, #familytime, #stracciatella, #movenpicksensations"
 ---

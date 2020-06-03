@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Montreal In 2020
 description: >-
-  Find top Instagram influencers in Montreal in 2020. Most popular hashtags: #montreal #cigarlife #dressedtokill #sheamoisture.
+  Find top Instagram influencers in Montreal in 2020. Most popular hashtags: # #fashion #canada #manoutfits.
 platform: Instagram
 profiles:
   - username: "izzyright"
     fullname: >-
       izzy
     location: "Canada"
-    followers: 7879
-    engagement: 1151
-    commentsToLikes: 0.053336
+    followers: 8654
+    engagement: 1019
+    commentsToLikes: 0.065091
     id: ck55mznl056150i11l8tyionr
     verified: false
-    hashtags: "#jilsander, #staysafeoutthere, #staysafepeople"
+    hashtags: "#yeezyslides, #jilsander, #staysafeoutthere, #staysafepeople"
   - username: "chicobrodie"
     fullname: >-
-      Jay
+      Jeremy Pare
     location: "Canada"
-    followers: 3609
-    engagement: 1150
-    commentsToLikes: 0.041984
+    followers: 3607
+    engagement: 1134
+    commentsToLikes: 0.041631
     id: ck5hhty27a2820i117iyc8oz5
     verified: false
     hashtags: ""
+  - username: "studioskateboards"
+    fullname: >-
+      Studio Skateboards
+    location: "Canada"
+    followers: 9377
+    engagement: 525
+    commentsToLikes: 0.020158
+    id: ck55lhg1u1kpy0i118d7bq364
+    verified: false
+    hashtags: "#quarantine"
   - username: "tessy_abtc"
     fullname: >-
-      T e s s y
+      T e s s y ♊︎
     location: "Canada"
-    followers: 28786
-    engagement: 1304
-    commentsToLikes: 0.060639
+    followers: 29339
+    engagement: 1213
+    commentsToLikes: 0.068951
     id: ck13ab306piqj0i193x2bthdp
     verified: false
-    hashtags: "#concours, #nikeairforce1, #igsneakercommunity, #sneakersmurah"
-  - username: "noemibaz"
+    hashtags: "#cluseclub, #sneakerhead, #fashion, #lunettes"
+  - username: "lenswithoutacause"
     fullname: >-
-      Noemi Bazinet
+      Styles, Outfits, Fashion 👓
     location: "Canada"
-    followers: 120922
-    engagement: 856
-    commentsToLikes: 0.036777
-    id: ck5hjbnrogchn0i11uvo7sv30
+    followers: 6715
+    engagement: 1221
+    commentsToLikes: 0.129228
+    id: ckapa03rru6bp0i78n4sfz2fq
     verified: false
-    hashtags: "#shorthair, #zenbymarielahoud, #pikachu, #inkedgirlsig"
-  - username: "elisabeth.buu"
+    hashtags: "#selfiemen, #streetstyleman, #fashionforman, #greenshirts"
+  - username: "nitya_"
     fullname: >-
-      E L I S A B E T H
+      𝐧 𝐢 𝐭 𝐲 𝐚 🦋
     location: "Canada"
-    followers: 6325
-    engagement: 1058
-    commentsToLikes: 0.180479
-    id: ck5btlv66g7550i11xd4ejbuv
-    verified: false
-    hashtags: "#sponsored, #suzystyle, #lunarnewyear, #mejuri"
-  - username: "nenemss__"
-    fullname: >-
-      ⵉⵏⴻⵙ | إيناس
-    location: "Canada"
-    followers: 6909
-    engagement: 1689
-    commentsToLikes: 0.040475
-    id: ck0u7xa1a60q90i19t3pj228t
-    verified: false
-    hashtags: "#tunisie, #curlyhairvideos, #naturalhaircommunity, #curlyhairproducts"
-  - username: "vanessa.anna"
-    fullname: >-
-      Vanessa Luttrell
-    location: "Canada"
-    followers: 5299
-    engagement: 921
-    commentsToLikes: 0.183585
-    id: ck0w4rrzb036i0i19s3yp8vlk
-    verified: false
-    hashtags: "#idealofswedencanada, #ad, #mejuri"
-  - username: "andalina._"
-    fullname: >-
-      ♡ ♱ 🎀𝒜𝓃𝒹𝒶🎀 ♱ ♡
-    location: "Canada"
-    followers: 23174
-    engagement: 1329
-    commentsToLikes: 0.028745
-    id: ck8szdis1o0150j78npw38os5
+    followers: 10183
+    engagement: 1198
+    commentsToLikes: 0.111045
+    id: ckaozcogdla150i78r1v4dqpo
     verified: false
     hashtags: ""
-  - username: "jmlgold"
+  - username: "planetajuan"
     fullname: >-
-      James-Michael Lavigne
+      Planeta Juan 🍁
     location: "Canada"
-    followers: 26243
-    engagement: 864
-    commentsToLikes: 0.028032
-    id: ck15tdyz8hm4e0i19su2qhjs2
-    verified: false
-    hashtags: "#cigarsociety, #silverbeards, #manly, #cigarsandbeards"
-  - username: "curtismason"
-    fullname: >-
-      Curtis Mason
-    location: "Canada"
-    followers: 6005
-    engagement: 1648
-    commentsToLikes: 0.034934
-    id: ck6ubucspbrhx0j71xehwccu8
+    followers: 116393
+    engagement: 1048
+    commentsToLikes: 0.037782
+    id: ckap4ltx87v2n0i78d8t8mq0a
     verified: false
     hashtags: ""
+  - username: "celia_thouin"
+    fullname: >-
+      Cil✨
+    location: "Canada"
+    followers: 9515
+    engagement: 1758
+    commentsToLikes: 0.048156
+    id: ck6tn33ov91cx0j71kagll5ne
+    verified: false
+    hashtags: "#thowback, #bodypositive, #graduated, #jerestecheznous"
+  - username: "normelnomads"
+    fullname: >-
+      Norm&Mel | Travel Couple
+    location: "Canada"
+    followers: 3733
+    engagement: 2055
+    commentsToLikes: 0.143632
+    id: ckaozrx8zn4xx0i780nawyun9
+    verified: false
+    hashtags: "#hikingadventure, #discovercanada, #coupletravels, #travelust"
+  - username: "tresduchelle"
+    fullname: >-
+      DUCHELLE
+    location: "Canada"
+    followers: 26868
+    engagement: 853
+    commentsToLikes: 0.038549
+    id: ck8t41w0i57qf0j78ef3r4l7a
+    verified: false
+    hashtags: "#carethatgoesfurther, #plasticwastefight, #washtocare, #cover"
 ---

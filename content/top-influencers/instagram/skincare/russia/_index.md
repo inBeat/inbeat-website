@@ -1,16 +1,26 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Russia In 2020
 description: >-
-  Find top skincare Instagram influencers in Russia in 2020. Most popular hashtags: #makeup #skincare #beauty #fashion.
+  Find top skincare Instagram influencers in Russia in 2020. Most popular hashtags: #skincare #nomakeup #fashion #work.
 platform: Instagram
 profiles:
+  - username: "daryabogemovna"
+    fullname: >-
+      Darya Bogemovna 💄
+    location: "Russia"
+    followers: 14067
+    engagement: 571
+    commentsToLikes: 0.033366
+    id: ckaovo18y5erv0i78n5v375m9
+    verified: false
+    hashtags: "#shineis, #faberlicoxicarboxy, #faberlic, #faberlicinfluencer"
   - username: "petit_chablis"
     fullname: >-
       Anara Kukiyeva
     location: "Russia"
-    followers: 15001
-    engagement: 499
-    commentsToLikes: 0.018358
+    followers: 15093
+    engagement: 503
+    commentsToLikes: 0.016554
     id: ck8szi4jroj7u0j783hhg2lgw
     verified: false
     hashtags: ""
@@ -18,90 +28,80 @@ profiles:
     fullname: >-
       ДАША КОЗЛОВСКАЯ
     location: "Russia"
-    followers: 3059925
-    engagement: 1029
-    commentsToLikes: 0.048938
+    followers: 2996907
+    engagement: 1020
+    commentsToLikes: 0.042176
     id: ck5c14at3ufnx0i11cbl7qd6w
     verified: false
-    hashtags: "#girlboss, #philipssonicare, #royalsamplesru, #ad"
+    hashtags: "#beauty, #beautybox, #skin, #skincare"
   - username: "sarahswagss"
     fullname: >-
       S A R A H  S A W A G E D
     location: "Russia"
-    followers: 8087
-    engagement: 1403
-    commentsToLikes: 0.057517
+    followers: 7879
+    engagement: 1466
+    commentsToLikes: 0.056836
     id: ck55mpa4p4gfi0i113x2rnmmn
     verified: false
-    hashtags: "#fashion, #mixedmodels, #wlyg, #mc2scouting"
-  - username: "nastyajoymakeup"
-    fullname: >-
-      Анастасия визажист СПб
-    location: "Russia"
-    followers: 2496
-    engagement: 2008
-    commentsToLikes: 0.123367
-    id: ck5q084js4pjf0i11vw1zzgy4
-    verified: false
-    hashtags: "#makeup, #skinlite, #fashionskin, #macrobeauty"
+    hashtags: "#itouchwearables, #bratz, #artistic, #headshot"
   - username: "dukhonina"
     fullname: >-
       Даша Духонина 🔫
     location: "Russia"
-    followers: 214886
-    engagement: 1099
-    commentsToLikes: 0.012665
+    followers: 201989
+    engagement: 1127
+    commentsToLikes: 0.013766
     id: ck139i1bhlep00i19mtmjd9gy
     verified: false
-    hashtags: "#foreo, #softgirlmakeup, #foreoufo2, #led"
+    hashtags: "#liketime, #skincare, #softgirlmakeup, #foreoufo2"
+  - username: "uzyaofficial"
+    fullname: >-
+      ☆ 𝐔𝐙𝐘𝐀 𝐀𝐋𝐈𝐌
+    location: "Russia"
+    followers: 304136
+    engagement: 219
+    commentsToLikes: 0.143032
+    id: ck6ty957a2d540j71kpekrelm
+    verified: false
+    hashtags: "#madeinrussia, #professionalscincare, #larocheposayrussia, #makemeuptote"
+  - username: "angelina.____"
+    fullname: >-
+      Angelina
+    location: "Russia"
+    followers: 6951
+    engagement: 1278
+    commentsToLikes: 0.175621
+    id: ck9wozwu277ft0j78isqbo85d
+    verified: false
+    hashtags: "#sunny, #girls, #rosa, #mood"
   - username: "alina_voynova"
     fullname: >-
       Alina Voynova
     location: "Russia"
-    followers: 205550
-    engagement: 504
-    commentsToLikes: 0.077371
+    followers: 211931
+    engagement: 477
+    commentsToLikes: 0.091438
     id: ck5zn2ydmnone0i14tz0qg2dl
     verified: false
-    hashtags: "#newyear2020, #presents, #erborian, #beautygiveaway"
-  - username: "nika_nikapelka"
+    hashtags: "#parfum, #jabraelite75t, #christinarussia, #foodporn"
+  - username: "alisasabirova"
     fullname: >-
-      N I K A👑
+      Alisa♥️Sabirova
     location: "Russia"
-    followers: 228641
-    engagement: 829
-    commentsToLikes: 0.007492
-    id: ck5q2rw9dhi8t0i11k1mkq73h
+    followers: 104857
+    engagement: 115
+    commentsToLikes: 0.045798
+    id: ck0ty81lqlusi0i19co0rd8at
     verified: false
-    hashtags: "#cleanyourskin, #liketime, #covid, #cleanyourskin"
-  - username: "katyamakhlay"
+    hashtags: "#erborian, #ss20, #challenge, #sportchallenge"
+  - username: "dessie_stoyanova"
     fullname: >-
-      Катя Махлай
+      Dessislava Stoyanova
     location: "Russia"
-    followers: 34375
-    engagement: 296
-    commentsToLikes: 0.045872
-    id: ck14ii8x6fj9b0i19fbil0cwd
+    followers: 34226
+    engagement: 592
+    commentsToLikes: 0.016950
+    id: ck6tuyy9nj85p0j71k8fb03v9
     verified: false
-    hashtags: "#highendbeauty, #makeup, #wakeupandmakeup, #makeupclips"
-  - username: "beautycosblog"
-    fullname: >-
-      BEAUTY & LIFESTYLE
-    location: "Russia"
-    followers: 82038
-    engagement: 126
-    commentsToLikes: 0.162914
-    id: ck6u6bi5cemt20j71ouj8w64p
-    verified: false
-    hashtags: "#doctorbrant, #lumenerussia, #beautyblogger, #marina"
-  - username: "diana_skitova"
-    fullname: >-
-      Diana Skitova
-    location: "Russia"
-    followers: 485845
-    engagement: 88
-    commentsToLikes: 0.032480
-    id: ck5zspjxsyy750i14ap76ka5l
-    verified: false
-    hashtags: "#organickitchen, #diorparfums, #diorskincare, #bvlgariparfums"
+    hashtags: "#crisis, #lovethesun, #samsunghealth, #tvshow"
 ---

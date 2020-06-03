@@ -1,36 +1,56 @@
 ---
 title: Top 10 Instagram Influencers In Busan In 2020
 description: >-
-  Find top Instagram influencers in Busan in 2020. Most popular hashtags: #bts #jin #btsmemes #orienttattooshop.
+  Find top Instagram influencers in Busan in 2020. Most popular hashtags: # #canom600d #narcissus #sope.
 platform: Instagram
 profiles:
+  - username: "mightyworks_"
+    fullname: >-
+      강종주(마이티웍스) / Mightyworks
+    location: "South Korea"
+    followers: 6501
+    engagement: 1642
+    commentsToLikes: 0.030376
+    id: ck9wozrqp76sz0j78mq5olhfe
+    verified: false
+    hashtags: ""
   - username: "bts.jungkook"
     fullname: >-
       BTS JUNGKOOK
     location: "South Korea"
-    followers: 6669690
-    engagement: 784
-    commentsToLikes: 0.008229
+    followers: 6774590
+    engagement: 727
+    commentsToLikes: 0.009311
     id: ck0u7k4zx520a0i19ju84aeth
     verified: false
-    hashtags: "#connect"
-  - username: "jiminize.d"
+    hashtags: "#bts, #connect, #botd"
+  - username: "jeon__chopa"
     fullname: >-
-      BTS JIMIN🐣
+      전쵸파
     location: "South Korea"
-    followers: 89120
-    engagement: 567
-    commentsToLikes: 0.022637
-    id: ck8swp8w6esbj0j78622z3ca7
+    followers: 29670
+    engagement: 525
+    commentsToLikes: 0.032834
+    id: ck9hcbpsxknx50j78yssexdd1
     verified: false
-    hashtags: "#junghoseok, #btsjungkook, #bangtan, #taehyung"
+    hashtags: "#canom600d"
+  - username: "gorgeousalice_"
+    fullname: >-
+      Alicefilm
+    location: "South Korea"
+    followers: 61876
+    engagement: 208
+    commentsToLikes: 0.013656
+    id: ck9wdov53gl0o0j789s7sugmo
+    verified: false
+    hashtags: ""
   - username: "bleu_the_k"
     fullname: >-
       BLEU THE K
     location: "South Korea"
-    followers: 51245
-    engagement: 329
-    commentsToLikes: 0.004554
+    followers: 53495
+    engagement: 303
+    commentsToLikes: 0.003874
     id: ck5q24we1ea670i11oq1laf1y
     verified: false
     hashtags: ""
@@ -38,9 +58,9 @@ profiles:
     fullname: >-
       부산을 엽서에 담아요📮BUSAN 釜山
     location: "South Korea"
-    followers: 6706
-    engagement: 1288
-    commentsToLikes: 0.048484
+    followers: 7405
+    engagement: 1310
+    commentsToLikes: 0.041599
     id: ck6tzs1axbite0j7180e0tkg2
     verified: false
     hashtags: "#narcissus, #freewallpaper"
@@ -48,9 +68,9 @@ profiles:
     fullname: >-
       Rohatattoo
     location: "South Korea"
-    followers: 19315
-    engagement: 358
-    commentsToLikes: 0.017176
+    followers: 20511
+    engagement: 434
+    commentsToLikes: 0.016596
     id: ck5qec21nzqci0i117hmi3ffv
     verified: false
     hashtags: ""
@@ -58,50 +78,30 @@ profiles:
     fullname: >-
       BTS JIMIN 지민
     location: "South Korea"
-    followers: 88025
-    engagement: 3297
-    commentsToLikes: 0.003520
+    followers: 94877
+    engagement: 3349
+    commentsToLikes: 0.003398
     id: ck15seg1jclgg0i19dcn2jomo
     verified: false
-    hashtags: "#junghoseok, #parkjimin, #kimtaehyung, #kimseokjin"
-  - username: "qsun_ots"
+    hashtags: ""
+  - username: "vasak__"
     fullname: >-
-      
+      Vasak Tattoo
     location: "South Korea"
-    followers: 14736
-    engagement: 512
-    commentsToLikes: 0.019240
-    id: ck13abtqopmma0i19kwnsfw36
+    followers: 9798
+    engagement: 557
+    commentsToLikes: 0.012838
+    id: ck5zqy01tvipc0i14vcxnp5hy
     verified: false
-    hashtags: "#pinkpanther, #magazine, #knife, #pottery"
-  - username: "lapoetique_"
+    hashtags: ""
+  - username: "jiminize.d"
     fullname: >-
-      Flower Studio 라 포에티크
+      BTS JIMIN🐣
     location: "South Korea"
-    followers: 56940
-    engagement: 268
-    commentsToLikes: 0.010765
-    id: ck15ub85lmboi0i19k15u25um
+    followers: 228117
+    engagement: 1035
+    commentsToLikes: 0.017631
+    id: ck8swp8w6esbj0j78622z3ca7
     verified: false
-    hashtags: "#lapoetique, #flowerclass, #flowerlesson, #lapoetiqueflowerclass"
-  - username: "baki_ots"
-    fullname: >-
-      🇰🇷BAKI🇰🇷[부산] ࿉刃鬼࿉
-    location: "South Korea"
-    followers: 50311
-    engagement: 199
-    commentsToLikes: 0.009169
-    id: ck13abuw0pmrv0i19daes8vrl
-    verified: false
-    hashtags: "#design, #baki, #freehand, #tattoodesign"
-  - username: "busantravel"
-    fullname: >-
-      부산핫플[부산맛집.부산카페.부산여행]
-    location: "South Korea"
-    followers: 85443
-    engagement: 110
-    commentsToLikes: 0.170678
-    id: ck0vw9wscsra90i19tfv5bbx6
-    verified: false
-    hashtags: "#209st"
+    hashtags: "#sope, #btsedits, #taemin, #btslove"
 ---

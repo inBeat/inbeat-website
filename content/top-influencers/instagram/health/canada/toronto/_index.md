@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Toronto In 2020
 description: >-
-  Find top health Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #health #canada #fitness.
+  Find top health Instagram influencers in Toronto in 2020. Most popular hashtags: #health #workout #ad #cleanbeauty.
 platform: Instagram
 profiles:
-  - username: "littlemissregina"
-    fullname: >-
-      Little Miss Regina 🌾
-    location: "Canada"
-    followers: 5413
-    engagement: 928
-    commentsToLikes: 0.339239
-    id: ck5zv1tgb3frv0i14foq1iywd
-    verified: false
-    hashtags: "#milestones, #pastatime, #selfcaretips, #bigmove"
-  - username: "cbcthenational"
-    fullname: >-
-      CBC News: The National
-    location: "Canada"
-    followers: 54921
-    engagement: 119
-    commentsToLikes: 0.048864
-    id: ck5q7gbc71f7b0i115c4j7ie7
-    verified: true
-    hashtags: "#cbcinvestigates, #peacharch, #gloves, #canadianmusic"
-  - username: "eatwithfarrah"
-    fullname: >-
-      Farrah | SF & Toronto foodie
-    location: "Canada"
-    followers: 2893
-    engagement: 1940
-    commentsToLikes: 0.465004
-    id: ck6to2e0ybq260j71m7iegdwd
-    verified: false
-    hashtags: "#nomnom, #yelpsf, #cake, #icecream"
-  - username: "mondinosaur"
-    fullname: >-
-      ✨Sonia Mondino✨
-    location: "Canada"
-    followers: 2947
-    engagement: 1012
-    commentsToLikes: 0.100784
-    id: ck5hcjonsif3h0i11jfj6g27m
-    verified: false
-    hashtags: "#health, #bunnies, #fitness, #toronto"
-  - username: "flaviacristina_to"
-    fullname: >-
-      Fℓαviα Crisτiทα
-    location: "Canada"
-    followers: 23005
-    engagement: 141
-    commentsToLikes: 0.024641
-    id: ck8t7lij4h8uy0j78xuea4whw
-    verified: false
-    hashtags: "#ttctoronto, #gym, #fitnessmotivation, #storejayjay"
   - username: "wakeupandsmelltherosay"
     fullname: >-
       Natalie Rosay🌹
     location: "Canada"
-    followers: 61374
-    engagement: 703
-    commentsToLikes: 0.035862
+    followers: 64936
+    engagement: 567
+    commentsToLikes: 0.043020
     id: ck0vv0bkwmyid0i19657gixxc
     verified: false
-    hashtags: "#staypositive, #mindbodywellness, #sponsor, #beflorahealthy"
-  - username: "rachels_news"
+    hashtags: "#mindbodyhealth, #eatthecookieifyouwantit, #glutenfree, #refinedsugarfree"
+  - username: "vivianwong_"
     fullname: >-
-      Rachel Parent 🌎
+      V
     location: "Canada"
-    followers: 6766
-    engagement: 630
-    commentsToLikes: 0.057691
-    id: ck6tnzaflb80q0j719igp0uir
+    followers: 18279
+    engagement: 816
+    commentsToLikes: 0.031065
+    id: ck0vww6iuvvt90i19rap5fjx1
     verified: false
-    hashtags: "#compassion, #corporateknights, #coronavirus, #valentines"
-  - username: "roxannedenobregamakeup"
+    hashtags: "#igfit, #lifestyle, #noheavyperfume, #trip"
+  - username: "yayjoon"
     fullname: >-
-      Roxanne De Nobrega
+      joon!
     location: "Canada"
-    followers: 12718
-    engagement: 624
-    commentsToLikes: 0.048105
-    id: ck14jben2jhm80i19cmeusxbq
+    followers: 2112
+    engagement: 2782
+    commentsToLikes: 0.397448
+    id: ckaorspayol0x0i78xnu5d8er
     verified: false
-    hashtags: "#silver, #givingback, #pouch, #makeup"
-  - username: "sameerayounesi"
+    hashtags: "#cincodemayo, #quarantinekitchen, #quarantinedatenight, #pastalove"
+  - username: "thecityismineto"
     fullname: >-
-      samEEra
+      The City Is Mine | Mili Jain
     location: "Canada"
-    followers: 23726
-    engagement: 1480
-    commentsToLikes: 0.023234
-    id: ck5ck91mewe070i11cuzzh0bo
+    followers: 6839
+    engagement: 422
+    commentsToLikes: 0.198824
+    id: ck6ttuhd0cnnl0j71ik2bmavx
     verified: false
-    hashtags: "#fit, #yummy, #memories, #staysafe"
-  - username: "samanthayounger_"
+    hashtags: "#makeuplove, #caeserdrinks, #sundaymornings, #getinmybelly"
+  - username: "ayenomz"
     fullname: >-
-      Samantha Younger
+      Irene | Food & Lifestyle
     location: "Canada"
-    followers: 4749
-    engagement: 2192
-    commentsToLikes: 0.102998
-    id: ck14ib7eyejlt0i19s8o9w0uv
+    followers: 3743
+    engagement: 2617
+    commentsToLikes: 0.532725
+    id: ck5zu6zoi1swj0i14dsezsu7h
     verified: false
-    hashtags: "#workouttights, #sleepyhead, #canadagiveaway, #babyclothes"
+    hashtags: "#globallylocal, #birthday, #chatimecanada, #sweatypic"
+  - username: "juliettelouie"
+    fullname: >-
+      Juliette Louie 雷莊𠒇
+    location: "Canada"
+    followers: 18203
+    engagement: 192
+    commentsToLikes: 0.037205
+    id: ck6u5j1s89x5q0j71sfyjp0dj
+    verified: false
+    hashtags: "#radio, #summer2017, #happymothersday, #happyearthday"
+  - username: "itscindym"
+    fullname: >-
+      🇨🇦 Cindy Marie
+    location: "Canada"
+    followers: 46288
+    engagement: 151
+    commentsToLikes: 0.075741
+    id: ck6u1lq1ymhz20j71yqgs32wh
+    verified: false
+    hashtags: "#torontomom, #boysandtoys, #kidapprovedfood, #endypartner"
+  - username: "thefitfatale"
+    fullname: >-
+      Samantha E Cutler
+    location: "Canada"
+    followers: 32937
+    engagement: 139
+    commentsToLikes: 0.103623
+    id: ck5buoqlwi5na0i11i0026ejj
+    verified: false
+    hashtags: "#ad, #bumblepartner, #championsofsinai, #cloutforgood"
+  - username: "xmaii.d"
+    fullname: >-
+      Mai
+    location: "Canada"
+    followers: 20766
+    engagement: 1466
+    commentsToLikes: 0.055933
+    id: ckapasf0qxae60i78928qye0i
+    verified: false
+    hashtags: "#instagoo, #fabumakeup4u, #aritzia, #pheobebuffay"
+  - username: "ownitbabe"
+    fullname: >-
+      Rini Frey
+    location: "Canada"
+    followers: 171228
+    engagement: 536
+    commentsToLikes: 0.031547
+    id: ck5pxdi35r9jc0i1186hp3wt2
+    verified: true
+    hashtags: "#bodyimage, #recovery, #selfcare, #stayhome"
 ---

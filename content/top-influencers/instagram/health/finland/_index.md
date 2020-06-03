@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Finland In 2020
 description: >-
-  Find top health Instagram influencers in Finland in 2020. Most popular hashtags: #korona #weekend #motivation #healthyfood.
+  Find top health Instagram influencers in Finland in 2020. Most popular hashtags: #monday #nature #springvibes #arvonta.
 platform: Instagram
 profiles:
   - username: "petrakorpi"
     fullname: >-
       P E T R A  W
     location: "Finland"
-    followers: 19938
-    engagement: 751
-    commentsToLikes: 0.081820
+    followers: 20355
+    engagement: 696
+    commentsToLikes: 0.082864
     id: ck13cwag72h8p0i19yuspamka
     verified: false
-    hashtags: "#lahjavinkit, #happiness, #itcosmetics, #kauneussalaisuus"
-  - username: "linden.emilia"
+    hashtags: "#tiilih, #uniikki, #happiness, #kuusamo"
+  - username: "mindbodyhealth_mia"
     fullname: >-
-      Emilia Lindén Fitness Coach🇫🇮
+      Mia
     location: "Finland"
-    followers: 36935
-    engagement: 477
-    commentsToLikes: 0.013668
-    id: ck0w1mxq1k4n60i194231cxqm
+    followers: 2398
+    engagement: 1857
+    commentsToLikes: 0.087057
+    id: ckaos1gg8pq6x0i78e3kteybb
     verified: false
-    hashtags: "#vitaminerich, #springvibes, #mondaymood, #5minmeal"
+    hashtags: "#inkedgirls, #shoulderworkout, #unikko, #workingwoman"
+  - username: "veerabianca"
+    fullname: >-
+      VEERA BIANCA »
+    location: "Finland"
+    followers: 33702
+    engagement: 305
+    commentsToLikes: 0.041022
+    id: ck14lqh86vz8h0i19952flo07
+    verified: false
+    hashtags: "#doggosforlife, #togetherintravel, #dalgonacoffee, #selfisolation"
   - username: "vilmabergenheim"
     fullname: >-
       Vilma Bergenheim
     location: "Finland"
-    followers: 7743
-    engagement: 577
-    commentsToLikes: 0.060724
+    followers: 7970
+    engagement: 606
+    commentsToLikes: 0.059361
     id: ck15rhcxs7xtu0i1950h06xcx
     verified: false
-    hashtags: "#lovemylumene, #womensday, #terveethiukset, #earthhour"
-  - username: "karitatykka"
+    hashtags: "#maidoton, #luomua, #tgif, #newproject"
+  - username: "linden.emilia"
     fullname: >-
-      KARITA TYKKÄ
+      Emilia Lindén Fitness Coach🇫🇮
     location: "Finland"
-    followers: 46576
-    engagement: 164
-    commentsToLikes: 0.065925
-    id: ck5q6dxxzwzzj0i11k4z9rmwf
+    followers: 37308
+    engagement: 499
+    commentsToLikes: 0.013035
+    id: ck0w1mxq1k4n60i194231cxqm
     verified: false
-    hashtags: "#healthylifestyle, #hypementfamily, #sunsweetluumu, #worldvision"
+    hashtags: "#hang, #weekendoff, #chillevening, #monday"
+  - username: "sallanyholm"
+    fullname: >-
+      Redhead, hsp, different
+    location: "Finland"
+    followers: 13659
+    engagement: 325
+    commentsToLikes: 0.083458
+    id: ck5pxwwkht9k80i11fhp94wh9
+    verified: false
+    hashtags: "#youmatter, #peersupport, #magic, #bodypositivity"
+  - username: "romeolicciardotoivola"
+    fullname: >-
+      Romeo Romeo Licciardo Toivola
+    location: "Finland"
+    followers: 20013
+    engagement: 1785
+    commentsToLikes: 0.024124
+    id: ck14kv5utrgrv0i196xm1m5ho
+    verified: false
+    hashtags: "#iloveanimals, #releasedalive, #life, #hair"
+  - username: "minna_vauhkonen"
+    fullname: >-
+      Food Photography - Minna
+    location: "Finland"
+    followers: 3547
+    engagement: 2806
+    commentsToLikes: 0.107748
+    id: ckaosb0jyqx4b0i78yui9xiie
+    verified: false
+    hashtags: "#perheenruokavuosi, #fruitshootcollab, #veryveryblueberries, #belightinspireddrinks"
   - username: "petra.mustonen"
     fullname: >-
       Petra Mustonen | Fitness
     location: "Finland"
-    followers: 2612
-    engagement: 1989
-    commentsToLikes: 0.050451
+    followers: 2721
+    engagement: 2170
+    commentsToLikes: 0.087373
     id: ck6uhiee59amf0j719jqsu1n4
     verified: false
-    hashtags: "#fitnessjourney, #solgar, #mypuls, #ad"
-  - username: "johanna.tahtinen"
+    hashtags: "#solgar, #fitnessclassic2020, #blondehighlights, #finland"
+  - username: "tuuliatalvio"
     fullname: >-
-      JOHANNA 🤍
+      TUULIA TALVIO
     location: "Finland"
-    followers: 8112
-    engagement: 1476
-    commentsToLikes: 0.514814
-    id: ck6uhi6h2999y0j711cdidlro
+    followers: 23612
+    engagement: 263
+    commentsToLikes: 0.027239
+    id: ck55k2sv7ybmu0i11n435241o
     verified: false
-    hashtags: "#iciwfamily, #girls, #postpartumbody, #trainingmotivation"
-  - username: "lindseybeljaars"
-    fullname: >-
-      Lindsey | lindseybeljaars.nl
-    location: "Finland"
-    followers: 11302
-    engagement: 888
-    commentsToLikes: 0.221605
-    id: ck6trcmtwy8560j71u3lnjmju
-    verified: false
-    hashtags: "#pandoragarden, #fitnesslife, #bodyandbeastplan, #shotforpandora"
-  - username: "hannalehi"
-    fullname: >-
-      
-    location: "Finland"
-    followers: 5675
-    engagement: 931
-    commentsToLikes: 0.076864
-    id: ck8swn5ylelid0j783bpb0op3
-    verified: false
-    hashtags: "#calendargirl, #wandakalenteri, #arkimeikki, #myglamko"
-  - username: "ttaruannikas"
-    fullname: >-
-      Taru Annika
-    location: "Finland"
-    followers: 2240
-    engagement: 1508
-    commentsToLikes: 0.435779
-    id: ck6u6m0wngdro0j71gfciv63x
-    verified: false
-    hashtags: "#ministylefinland, #giveaway, #strong, #selflove"
-  - username: "lottaharala"
-    fullname: >-
-      Lotta Harala
-    location: "Finland"
-    followers: 36939
-    engagement: 635
-    commentsToLikes: 0.037378
-    id: ck5q5tezhuhw50i1174b4r3o2
-    verified: true
-    hashtags: "#hurdles, #tampereenpyrint, #nationals, #stepbystep"
+    hashtags: "#summermemories, #hugconcept, #glutenfree, #eatingwell"
 ---

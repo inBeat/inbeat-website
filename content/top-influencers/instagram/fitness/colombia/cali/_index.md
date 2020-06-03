@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Cali In 2020
 description: >-
-  Find top fitness Instagram influencers in Cali in 2020. Most popular hashtags: #fitness #colombia #cali #love.
+  Find top fitness Instagram influencers in Cali in 2020. Most popular hashtags: #quedateencasa #covid #fitness #tbt.
 platform: Instagram
 profiles:
-  - username: "javihanaazul"
-    fullname: >-
-      Javihana Azul
-    location: "Colombia"
-    followers: 119510
-    engagement: 170
-    commentsToLikes: 0.033847
-    id: ck5qbgmcnliuz0i11dl3yd8c7
-    verified: false
-    hashtags: "#bodybuilding, #video, #team, #woman"
-  - username: "hablame_menor"
-    fullname: >-
-      HABLAME_MENOR 🔞 😂
-    location: "Colombia"
-    followers: 781715
-    engagement: 353
-    commentsToLikes: 0.228541
-    id: ck5pw1rmskoni0i11h73df8bx
-    verified: false
-    hashtags: "#cali, #palanteypatras, #fitness, #colombia"
-  - username: "andreslermadance"
-    fullname: >-
-      Andrés Lerma
-    location: "Colombia"
-    followers: 26801
-    engagement: 345
-    commentsToLikes: 0.044389
-    id: ck0w757zxbtfu0i19mi71unnz
-    verified: false
-    hashtags: "#lifestyle, #victormanuelle, #juntos, #coronavirusitalianews"
-  - username: "pura_calistenia"
-    fullname: >-
-      Calistenia ~Street Workout 🌎🇦🇷
-    location: "Colombia"
-    followers: 17412
-    engagement: 479
-    commentsToLikes: 0.029135
-    id: ck6tum1kbh42h0j71rrrshahf
-    verified: false
-    hashtags: "#barbrothers, #calisteniamemes, #calisteniaespa, #fails"
   - username: "brothers_twinz"
     fullname: >-
       Daniel & Nicolás García
     location: "Colombia"
-    followers: 33744
-    engagement: 549
-    commentsToLikes: 0.049162
+    followers: 38744
+    engagement: 471
+    commentsToLikes: 0.050909
     id: ck1396l5rjsdw0i19u7nha11g
     verified: false
-    hashtags: "#zumbavirtual, #relajados, #felices, #zumba"
-  - username: "cristianarangoo"
+    hashtags: "#jbalvin, #fotodeldia, #calama, #lunes"
+  - username: "anacespedesc"
     fullname: >-
-      Cristian Arango
+      ANA C.
     location: "Colombia"
-    followers: 53485
-    engagement: 603
-    commentsToLikes: 0.035860
-    id: ck8tc6vqoyhzc0j78e599429f
+    followers: 352905
+    engagement: 429
+    commentsToLikes: 0.022083
+    id: ck8sz2flhmx4e0j78jyq6uyfm
     verified: false
-    hashtags: "#sanvalentin, #fitment, #abs, #martes"
-  - username: "lulubarrera13"
+    hashtags: "#tbt, #nofilters"
+  - username: "melanieliz1"
     fullname: >-
-      🌟LULU🌟MaZeL ToV❤️🐱
+      Melanie Liz
     location: "Colombia"
-    followers: 94587
-    engagement: 93
-    commentsToLikes: 0.028410
-    id: ck5qchn9cqm4z0i11rtgkcgof
+    followers: 65787
+    engagement: 408
+    commentsToLikes: 0.008897
+    id: ck6u3phesz4ie0j71e0swh4ad
     verified: false
-    hashtags: "#activatucuerpoencasa, #loveyourself, #lulutips, #happylife"
-  - username: "calicolfit"
+    hashtags: "#elpoderdesertu, #quedateencasa, #yomequedoencasa, #amoinfinitek"
+  - username: "energym.fitness.col"
     fullname: >-
-      LUZ MARINA GARCIA A 🐼🦄
+      Ener Gym Fitness
     location: "Colombia"
-    followers: 33801
-    engagement: 78
-    commentsToLikes: 0.084970
-    id: ck5zufszw2a0r0i14z8wpyi8c
+    followers: 23819
+    engagement: 335
+    commentsToLikes: 0.015185
+    id: ckaouiq4g0g0x0i78qmw8nsin
     verified: false
-    hashtags: "#gluteos, #chocolate, #banano, #lifestyle"
-  - username: "camilasernab_"
+    hashtags: "#fitnesshumor, #yoamoelgym, #fitnesslifestyle, #memesgym"
+  - username: "nanis44"
     fullname: >-
-      CAMILA SERNA 🦁
+      𝕯𝖎𝖆𝖓𝖆 𝕵𝖎𝖒𝖊𝖓𝖊𝖟
     location: "Colombia"
-    followers: 19260
-    engagement: 334
-    commentsToLikes: 0.026164
-    id: ck5bt8dz4fim50i114bng2ma6
+    followers: 167054
+    engagement: 118
+    commentsToLikes: 0.027594
+    id: ckaorayu7mhe50i78sklndpx9
     verified: false
-    hashtags: "#bachata, #happyweekend, #love, #zumbawear"
+    hashtags: "#fitness, #phase10tnt, #creatinetnt, #deportistas"
   - username: "lauritafitness"
     fullname: >-
       Lau Tamayo 🎀
     location: "Colombia"
-    followers: 4014
-    engagement: 1023
-    commentsToLikes: 0.117094
+    followers: 4189
+    engagement: 1063
+    commentsToLikes: 0.115666
     id: ck8szo35bp3ov0j789prcl2ok
     verified: false
-    hashtags: "#portrait, #motivacionales, #model, #fashion"
+    hashtags: "#tbt, #classy, #fashion, #photography"
+  - username: "calicolfit"
+    fullname: >-
+      LUZ MARINA GARCIA A 🐼🦄
+    location: "Colombia"
+    followers: 35443
+    engagement: 96
+    commentsToLikes: 0.054930
+    id: ck5zufszw2a0r0i14z8wpyi8c
+    verified: false
+    hashtags: "#facil, #glutes, #gluteo, #fresas"
+  - username: "juanseayala"
+    fullname: >-
+      Juan Sebastián Ayala
+    location: "Colombia"
+    followers: 57400
+    engagement: 88
+    commentsToLikes: 0.052126
+    id: ck6u3hplkxujx0j71bhhxaa90
+    verified: false
+    hashtags: "#quinua, #apio, #entrenaencasa, #macros"
+  - username: "lulabarriosc"
+    fullname: >-
+      Luisa Barrios
+    location: "Colombia"
+    followers: 121546
+    engagement: 486
+    commentsToLikes: 0.019891
+    id: ck14kjunypv330i19iag2r0df
+    verified: false
+    hashtags: "#funcionalfit, #asana, #happymothersday, #surprise"
+  - username: "david_artpe"
+    fullname: >-
+      David Peñalver Art
+    location: "Colombia"
+    followers: 25229
+    engagement: 1006
+    commentsToLikes: 0.375321
+    id: ck6tny43sb1al0j712gnsb9rm
+    verified: false
+    hashtags: "#ibague, #stationery, #barranquilla, #antioquia"
 ---

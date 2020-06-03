@@ -1,87 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Japan In 2020
 description: >-
-  Find top wellness Instagram influencers in Japan in 2020. Most popular hashtags: #nike #running #explorekyoto #explorejapan.
+  Find top wellness Instagram influencers in Japan in 2020. Most popular hashtags: #wellness #lifestyle #staysafe #ootd.
 platform: Instagram
 profiles:
-  - username: "learningtolovesarah"
+  - username: "mr.yuk1"
     fullname: >-
-      Sarah Jane🌻
+      Matthew：Sustainability🌎
     location: "Japan"
-    followers: 9829
-    engagement: 508
-    commentsToLikes: 0.080516
-    id: ck55l0mdj0hyg0i11y0nqx39e
+    followers: 15512
+    engagement: 226
+    commentsToLikes: 0.011003
+    id: ck6ugjp043fd10j713dg2wyzc
     verified: false
-    hashtags: "#antidietculture, #edrecovery, #nakedcurve, #womanempowerment"
-  - username: "moekofukuda"
+    hashtags: "#disneyseatokyo, #gripchallenge, #yukis, #buzzcut"
+  - username: "travelwithkwen"
     fullname: >-
-      #moekofukuda (福田萌子)
+      Kwen - Travel & Lifestyle
     location: "Japan"
-    followers: 35305
-    engagement: 377
-    commentsToLikes: 0.013677
-    id: ck15uws26ovo20i190kg7w2ep
+    followers: 11524
+    engagement: 1440
+    commentsToLikes: 0.271691
+    id: ck14jebadjwb70i19j0zmu54p
     verified: false
-    hashtags: "#feelbeautiful, #takanawagatewaystation, #ultraboost, #hometeam"
+    hashtags: "#travelpicture, #womensday, #travelstribe, #winmymicrogap"
   - username: "haa_co85"
     fullname: >-
       Haco ⋆ はあこ ⋆ ฮาโกะ
     location: "Japan"
-    followers: 14272
-    engagement: 583
-    commentsToLikes: 0.023441
+    followers: 15006
+    engagement: 556
+    commentsToLikes: 0.020863
     id: ck0tw16vtdktg0i19r7t64y70
     verified: false
-    hashtags: "#2019bestnine, #yimsstylemassage, #chiropractic, #ignite"
+    hashtags: "#chiropractic, #bodyconciousbkk, #happychinesenewyear, #goodmorningbangkok"
+  - username: "maripo_jp"
+    fullname: >-
+      M A R I 🌐 神林真里
+    location: "Japan"
+    followers: 28583
+    engagement: 203
+    commentsToLikes: 0.012663
+    id: ck14i2zyrddu80i19pfnkl5to
+    verified: false
+    hashtags: "#sunglassesstyle, #ignis, #hairtreatment, #mimc"
+  - username: "emiyanagimoto"
+    fullname: >-
+      えみりー/柳本 絵美(Emi Yanagimoto)
+    location: "Japan"
+    followers: 44837
+    engagement: 329
+    commentsToLikes: 0.014407
+    id: ck5hopgi2pzgm0i116dxszsz7
+    verified: true
+    hashtags: "#vqfitwoman, #staycoolathome, #stayhomebesafe, #birthday"
   - username: "grace.oura"
     fullname: >-
       G r a c e  ☺︎ *･ﾟ
     location: "Japan"
-    followers: 5752
-    engagement: 523
-    commentsToLikes: 0.033145
+    followers: 5960
+    engagement: 482
+    commentsToLikes: 0.031426
     id: ck5ck0enlvv830i113h52vefc
     verified: false
-    hashtags: "#summeroutfit, #travelvibes, #enoshima, #faithfulness"
-  - username: "galina_kerimova_jp"
+    hashtags: "#ferriswheel, #values, #wellnessjourney, #snow"
+  - username: "vivy_pit"
     fullname: >-
-      Japan Adventures 📍Kyoto
+      Vɪvy~7🌷
     location: "Japan"
-    followers: 7284
-    engagement: 263
-    commentsToLikes: 0.061176
-    id: ck0w3sk59v1vk0i191bl9wczf
+    followers: 27591
+    engagement: 328
+    commentsToLikes: 0.043285
+    id: ck9ha4w5eb5sq0j78tnms4l7v
     verified: false
-    hashtags: "#japanesegarden, #japanexpat, #wellness, #japanlover"
+    hashtags: "#jeulia, #photo, #dolcepausa, #ecofriendly"
+  - username: "wakanozawa"
+    fullname: >-
+      WAKA_NOZAWA
+    location: "Japan"
+    followers: 91361
+    engagement: 216
+    commentsToLikes: 0.015327
+    id: ck0tv67jqa42e0i192zotzc0w
+    verified: false
+    hashtags: "#wellnesstogo, #happyjournal"
   - username: "be_story_official"
     fullname: >-
       美ST編集部
     location: "Japan"
-    followers: 37812
-    engagement: 156
-    commentsToLikes: 0.004617
+    followers: 39699
+    engagement: 118
+    commentsToLikes: 0.037024
     id: ck13akirpqtmi0i197yida15e
     verified: false
-    hashtags: "#cosme, #cosmedecorte, #snowman, #beautyfood"
-  - username: "eriomochi3"
+    hashtags: "#clarins, #amisbyair, #lovefm, #skincare"
+  - username: "syk__2525"
     fullname: >-
-      🅴̤̬ 🆁࿆ 🅸⃞̤̬☕︎
+      sayaka
     location: "Japan"
-    followers: 4547
-    engagement: 2931
-    commentsToLikes: 0.060475
-    id: ck135nyh72ct30i19ydk397bb
+    followers: 17731
+    engagement: 1010
+    commentsToLikes: 0.021946
+    id: ck0w4qn8nzx000i19bnqwsv3f
     verified: false
-    hashtags: "#foreathlete45s, #ig, #runonclouds, #pegasusturbo"
-  - username: "cho_so_"
-    fullname: >-
-      Hikaru*॰¨̮
-    location: "Japan"
-    followers: 55325
-    engagement: 299
-    commentsToLikes: 0.015290
-    id: ck55q8xdnc95z0i114k8sbsu0
-    verified: false
-    hashtags: "#hamee, #rubychocolate, #buzzlightyear, #tokyodisneyresort"
+    hashtags: "#regbody, #ring, #accessory, #sudiomoments"
 ---

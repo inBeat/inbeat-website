@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top rappers Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #2020 #untiltomorrow #stayhome.
+  Find top rappers Instagram influencers in Indonesia in 2020. Most popular hashtags: #covid19 #dirumahaja #corona #stayathome.
 platform: Instagram
 profiles:
+  - username: "real_anjaroxs"
+    fullname: >-
+      ANJAR OX'S
+    location: "Indonesia"
+    followers: 72330
+    engagement: 213
+    commentsToLikes: 0.045279
+    id: ck8sx34dcg1ye0j78ta33urmq
+    verified: false
+    hashtags: "#musician, #elbmgang, #berantakan, #10tahunyanglalu"
   - username: "dohyon.x1"
     fullname: >-
       Nam Dohyon 남도현 X1
     location: "Indonesia"
-    followers: 98113
-    engagement: 377
-    commentsToLikes: 0.006065
+    followers: 95372
+    engagement: 411
+    commentsToLikes: 0.006523
     id: ck0vxbffzy2w50i19ushqhd6c
     verified: false
-    hashtags: "#dohyon, #bisnismudah, #bisnisonline, #bisnisanakmudakekinian"
+    hashtags: "#dongypo"
   - username: "92_hak_off"
     fullname: >-
       Hak O F F I C I A L P A G E
     location: "Indonesia"
-    followers: 27784
-    engagement: 822
-    commentsToLikes: 0.037783
+    followers: 26874
+    engagement: 814
+    commentsToLikes: 0.035701
     id: ck6udaczcjyk30j71xpih3wh4
     verified: false
-    hashtags: "#miks, #sevsevacher, #unlimit, #arihakihamergin"
-  - username: "hdiizt_14"
-    fullname: >-
-      pujia
-    location: "Indonesia"
-    followers: 2403
-    engagement: 1703
-    commentsToLikes: 0.352609
-    id: ck5zyu969ajf60i14xf5qdz0s
-    verified: false
-    hashtags: "#r15holic, #bike, #sportbike, #bikelive"
-  - username: "riandianp_"
-    fullname: >-
-      Riandi Angga Permana
-    location: "Indonesia"
-    followers: 2473
-    engagement: 1423
-    commentsToLikes: 0.280627
-    id: ck5zyu86majco0i14zhw2rrrw
-    verified: false
-    hashtags: "#ourmoodygrams, #cityports, #moodyportrait, #womenbad"
-  - username: "andry_rhyme"
-    fullname: >-
-      andryzaldi
-    location: "Indonesia"
-    followers: 11728
-    engagement: 1645
-    commentsToLikes: 0.016901
-    id: ck5zsmwdsyt4d0i14a559sefw
-    verified: false
-    hashtags: "#keepitreal, #dirgahayutniau, #tni, #masihdikantor"
-  - username: "insanaoi"
-    fullname: >-
-      Aoi
-    location: "Indonesia"
-    followers: 102718
-    engagement: 495
-    commentsToLikes: 0.020731
-    id: ck0u7dzx74l290i19xk9rdwtz
-    verified: false
-    hashtags: "#sony, #sonyaplha, #untiltomorrow, #dirumahaja"
+    hashtags: "#mimnamenak, #miks, #comingsoon, #hak92"
   - username: "sexygoath"
     fullname: >-
-      TIDAKMENYEDIAKANMUNAFIKVIBES
+      SEXY GOATH
     location: "Indonesia"
-    followers: 131478
-    engagement: 456
-    commentsToLikes: 0.017911
+    followers: 139182
+    engagement: 615
+    commentsToLikes: 0.016245
     id: ck5zml8rbmrnf0i142uott3ha
     verified: false
-    hashtags: "#vampire, #astagahbonie, #tetapsemangat, #dindingpadindingdance"
-  - username: "rizkyritongaa"
-    fullname: >-
-      RIZKY RITONGA
-    location: "Indonesia"
-    followers: 59486
-    engagement: 773
-    commentsToLikes: 0.023274
-    id: ck15p9sxvwt2u0i19n5anw7kz
-    verified: false
-    hashtags: "#bagikebaikan, #teamclawblue, #vapestore, #clawpod"
+    hashtags: "#tiktok, #ontheway, #anakartis, #bellajanetta"
   - username: "jeritaufik"
     fullname: >-
       Jeri Taufik Lizam
     location: "Indonesia"
-    followers: 51594
-    engagement: 413
-    commentsToLikes: 0.018368
+    followers: 64362
+    engagement: 591
+    commentsToLikes: 0.031673
     id: ck5c8hr2j9id30i11w9ce9tc1
     verified: false
-    hashtags: "#rip, #musicvideo, #indonesia, #dirumahaja"
-  - username: "nalello"
+    hashtags: "#jeritaufiklizam, #drama, #sarahkeihl, #bersamakitamampu"
+  - username: "fatbrotherhood"
     fullname: >-
-      nael tjin
+      YUSRI DIAZ DARMAWAN
     location: "Indonesia"
-    followers: 5426
-    engagement: 798
-    commentsToLikes: 0.080021
-    id: ck139o4s9ma8p0i19mo5n83ei
+    followers: 2658
+    engagement: 1607
+    commentsToLikes: 0.056599
+    id: ck6u8v0u5tuiq0j71k3vik75y
     verified: false
-    hashtags: "#rapmusic, #jakartaundercover, #salahapaaku, #yummy"
+    hashtags: "#sumaterabarat, #busmaniacom, #ahhsudahlah, #streetwear"
+  - username: "killthedj"
+    fullname: >-
+      Marzuki Mohamad
+    location: "Indonesia"
+    followers: 67424
+    engagement: 491
+    commentsToLikes: 0.016575
+    id: ck1372m659gmx0i198akmdu5s
+    verified: true
+    hashtags: "#coronajancok, #udanarkisari, #mayday, #jogjalawancorna"
+  - username: "itsyacko"
+    fullname: >-
+      Yacko
+    location: "Indonesia"
+    followers: 24784
+    engagement: 315
+    commentsToLikes: 0.036217
+    id: ck55nxtau77t70i11tkthi1az
+    verified: false
+    hashtags: "#bethemeister, #sahkanruupenghapusankekerasanseksual, #gerakperempuan, #jagermeisterindonesia"
+  - username: "p__frozen"
+    fullname: >-
+      P Frozen
+    location: "Indonesia"
+    followers: 5419
+    engagement: 674
+    commentsToLikes: 0.056678
+    id: ck5q874xp4ran0i1128mz3bc9
+    verified: false
+    hashtags: "#eastcoast, #adidasindonesia, #godzilla, #salusincruce"
+  - username: "andry_rhyme"
+    fullname: >-
+      • Andry Zaldi •
+    location: "Indonesia"
+    followers: 14458
+    engagement: 1891
+    commentsToLikes: 0.012995
+    id: ck5zsmwdsyt4d0i14a559sefw
+    verified: false
+    hashtags: "#keepitreal, #waktuyangsalah, #pedulicovid19, #jagakebersihan"
 ---

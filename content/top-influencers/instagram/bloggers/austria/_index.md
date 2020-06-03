@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Austria In 2020
 description: >-
-  Find top bloggers Instagram influencers in Austria in 2020. Most popular hashtags: #fashionblogger #blogger #vienna #coronavirus.
+  Find top bloggers Instagram influencers in Austria in 2020. Most popular hashtags: #flowers #hope #girl #covid.
 platform: Instagram
 profiles:
-  - username: "the_uniquetraveler"
+  - username: "nadinechristine__"
     fullname: >-
-      Aline _In Wonderland_
+      📍AUSTRIA | TRAVEL & LIFESTYLE✨
     location: "Austria"
-    followers: 43328
-    engagement: 214
-    commentsToLikes: 0.115933
-    id: ck14ieonxf1xi0i19omfql18k
+    followers: 27285
+    engagement: 861
+    commentsToLikes: 0.093817
+    id: ck0vxql5t07nx0i19qoimwvir
     verified: false
-    hashtags: "#sundaymornings, #letstravel, #passportlife, #pregnancyphotography"
+    hashtags: "#nakdfashion, #viennaaustria, #beautifulplaces, #bohostyle"
+  - username: "blondiebrownie.sis"
+    fullname: >-
+      Fashion | Travel | Lifestyle
+    location: "Austria"
+    followers: 37278
+    engagement: 309
+    commentsToLikes: 0.067327
+    id: ck9wfgojfotf60j78688p30qx
+    verified: false
+    hashtags: "#innova, #ootd, #gipsybrand, #stylebloggers"
   - username: "_claudiabella_"
     fullname: >-
       Claudia L.
     location: "Austria"
-    followers: 31298
-    engagement: 249
-    commentsToLikes: 0.256162
+    followers: 31301
+    engagement: 272
+    commentsToLikes: 0.245865
     id: ck8t7ibjjgww80j78seccgsss
     verified: false
-    hashtags: "#lesphotographes, #margusha, #karibik, #franziskaelea"
-  - username: "descude.blog"
+    hashtags: "#gesundesfr, #magnolia, #juliejulsen, #radtour"
+  - username: "die_kollands"
     fullname: >-
-      Simona Nemțanu
+      Karina kolland
     location: "Austria"
-    followers: 16061
-    engagement: 297
-    commentsToLikes: 0.311085
-    id: ck6u11bmniyx70j71i4rahh33
+    followers: 13600
+    engagement: 591
+    commentsToLikes: 0.142032
+    id: ck5c60n5n4hin0i11h13uw7iz
     verified: false
-    hashtags: "#memories, #gatacuiarna, #scentfragrance, #90vintage"
+    hashtags: "#cutnessoverload, #gewinnspiel, #blogger, #deutschrap"
   - username: "laelae.life"
     fullname: >-
       Laura Zöhrer 🌿🌼
     location: "Austria"
-    followers: 37632
-    engagement: 175
-    commentsToLikes: 0.053276
+    followers: 37406
+    engagement: 210
+    commentsToLikes: 0.063030
     id: ck5zp0aecrqib0i143wm04kc4
     verified: false
-    hashtags: "#makeuplook, #hairstyle, #vintage, #businesscasual"
-  - username: "hank_ge"
+    hashtags: "#posterdesign, #scarlet, #hochzeitskleid, #bossbabe"
+  - username: "descude.blog"
     fullname: >-
-      Hank_ge
+      Simona Nemțanu
     location: "Austria"
-    followers: 350397
-    engagement: 418
-    commentsToLikes: 0.010715
-    id: ck0tym4oxn80x0i194wpl73kr
+    followers: 16611
+    engagement: 249
+    commentsToLikes: 0.167122
+    id: ck6u11bmniyx70j71i4rahh33
     verified: false
-    hashtags: "#iceicebaby, #oldschooltattoo, #tattoosketch, #manbun"
-  - username: "menstylefashionblog"
-    fullname: >-
-      Dario Rizzardi 🇦🇹| Mensfashion
-    location: "Austria"
-    followers: 27654
-    engagement: 122
-    commentsToLikes: 0.060649
-    id: ck5bw2opgkvuj0i11c4rbrs1s
-    verified: false
-    hashtags: "#menswear, #fashionblogger, #bluesuit, #wolfofwallstreet"
+    hashtags: "#femmeluxe, #parlins, #animalprint, #nudeoutfit"
   - username: "katarzyna_czulek"
     fullname: >-
       Katarzyna Czułek
     location: "Austria"
-    followers: 250381
-    engagement: 89
-    commentsToLikes: 0.022791
+    followers: 253295
+    engagement: 110
+    commentsToLikes: 0.037137
     id: ck5hhidmw8dsx0i11l652abqo
     verified: false
-    hashtags: "#makeuplover, #fashionblog, #playboybeauty, #selfietime"
-  - username: "matej_unicorn"
+    hashtags: "#instaphoto, #weekendtime, #husbandandwife, #bestfriends"
+  - username: "hank_ge"
     fullname: >-
-      Matej Svancer🐥 Mato
+      Hank_ge
     location: "Austria"
-    followers: 12275
-    engagement: 2663
-    commentsToLikes: 0.029775
-    id: ck55izur8vwe00i11jjnulali
+    followers: 350033
+    engagement: 395
+    commentsToLikes: 0.011345
+    id: ck0tym4oxn80x0i194wpl73kr
     verified: false
-    hashtags: "#drinkbutter, #downdays, #ygskicontest, #railskiing"
-  - username: "kathikara"
+    hashtags: "#huaweip40pro, #withhuawei, #cyberobicslive, #itrainathome"
+  - username: "jolie_janine"
     fullname: >-
-      KATHI | VIENNA LIFESTYLE VIBES
+      fashion |fitness |food
     location: "Austria"
-    followers: 8862
-    engagement: 704
-    commentsToLikes: 0.071659
-    id: ck6ugnmt642c00j71ssgma9y1
+    followers: 82651
+    engagement: 226
+    commentsToLikes: 0.027678
+    id: ckaoxrw55egwb0i786dr6d23f
     verified: false
-    hashtags: "#fashionblogger, #door, #kaffeemaschine, #mitfahren"
-  - username: "gohar.beauty"
+    hashtags: "#igersaustria, #nails, #styleinspo, #ootdshare"
+  - username: "menstylefashionblog"
     fullname: >-
-      GOHAR 🇵🇰🇦🇹
+      Dario Rizzardi 🇦🇹| Mensfashion
     location: "Austria"
-    followers: 31502
-    engagement: 251
-    commentsToLikes: 0.226659
-    id: ck15rsxyu9jjl0i19zaep5f62
+    followers: 27452
+    engagement: 137
+    commentsToLikes: 0.064753
+    id: ck5bw2opgkvuj0i11c4rbrs1s
     verified: false
-    hashtags: "#verlosungen, #pixigewinnspiel, #haarpflege, #applegiveaway"
+    hashtags: "#bowling, #vintagefashion, #glasses, #details"
 ---

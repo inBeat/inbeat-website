@@ -1,16 +1,16 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top stylists Instagram influencers in Los Angeles in 2020. Most popular hashtags: #fashion #losangeles #losangelesmodel #tiktok.
+  Find top stylists Instagram influencers in Los Angeles in 2020. Most popular hashtags: #quarantinelife #tbt #photoshoot #youtube.
 platform: Instagram
 profiles:
   - username: "alexusshefts"
     fullname: >-
       Alexus Shefts
     location: "United States"
-    followers: 33885
-    engagement: 158
-    commentsToLikes: 0.044372
+    followers: 33369
+    engagement: 160
+    commentsToLikes: 0.043224
     id: ck5qdh2bfvjq20i11vihewjna
     verified: false
     hashtags: "#stylebyalexusshefts, #ryujiimaichi, #ryuji, #jsoulbrothers"
@@ -18,90 +18,90 @@ profiles:
     fullname: >-
       Jake Sammis
     location: "United States"
-    followers: 9169
-    engagement: 646
-    commentsToLikes: 0.031749
+    followers: 9073
+    engagement: 650
+    commentsToLikes: 0.031157
     id: ck0w4cr5pxxui0i19xhtez5v2
     verified: false
     hashtags: "#outtake, #euphoria"
-  - username: "jacfleurant"
+  - username: "torylynnbrows"
     fullname: >-
-      jac fleurant
+      TORY-LYNN WILLIAMS
     location: "United States"
-    followers: 17158
-    engagement: 134
-    commentsToLikes: 0.029771
-    id: ck55jd56fwsgw0i111hvwthc6
+    followers: 59294
+    engagement: 168
+    commentsToLikes: 0.025046
+    id: ck15ugiwsn2oq0i192g6u5jl3
+    verified: false
+    hashtags: "#nocompetition, #sunday, #essential, #fentybeauty"
+  - username: "kentaveryphoto"
+    fullname: >-
+      Kent Avery
+    location: "United States"
+    followers: 53285
+    engagement: 176
+    commentsToLikes: 0.024149
+    id: ck5cb2hadelod0i11oc3n4tc9
+    verified: false
+    hashtags: "#style, #losangeles, #cali, #la"
+  - username: "jacobshinall"
+    fullname: >-
+      Jacob Shinall
+    location: "United States"
+    followers: 5376
+    engagement: 615
+    commentsToLikes: 0.080731
+    id: ckap08eblp7300i78tc80esey
+    verified: false
+    hashtags: "#quarantinelife"
+  - username: "thatgirlsalina"
+    fullname: >-
+      SALINA
+    location: "United States"
+    followers: 11170
+    engagement: 559
+    commentsToLikes: 0.048097
+    id: ck6tstb356q750j717k2aencf
     verified: false
     hashtags: ""
-  - username: "jamaljosef"
-    fullname: >-
-      Jamal Josef
-    location: "United States"
-    followers: 7762
-    engagement: 818
-    commentsToLikes: 0.061846
-    id: ck5zo7yugpys40i14e1q0m8dc
-    verified: false
-    hashtags: "#uptown, #2019, #moesha, #hbcutimes"
-  - username: "fashionablysurfed"
-    fullname: >-
-      A L L Y S A 🐚
-    location: "United States"
-    followers: 28987
-    engagement: 383
-    commentsToLikes: 0.099521
-    id: ck0u0ds25thaj0i19ilx2u3j2
-    verified: false
-    hashtags: "#revolvearoundthehouse, #grlfrnddenim, #shopwillow, #lastreetstyle"
-  - username: "bonitarebel"
-    fullname: >-
-      TikTok: Bonitarebel
-    location: "United States"
-    followers: 67550
-    engagement: 915
-    commentsToLikes: 0.016691
-    id: ck55pgkhwaiot0i117yu5ns4k
-    verified: true
-    hashtags: "#curly, #melaninpoppin, #melaningoddess, #goddesslocs"
   - username: "joshandsnow"
     fullname: >-
       Josh White And Snow White🐩🌀
     location: "United States"
-    followers: 6227
-    engagement: 1725
-    commentsToLikes: 0.052410
+    followers: 6575
+    engagement: 1695
+    commentsToLikes: 0.055308
     id: ck5hgt0jx4lmq0i117cewv4p7
     verified: false
-    hashtags: "#lemkelooks"
+    hashtags: "#love, #animals, #menanddogs, #lemkelooks"
   - username: "dureen"
     fullname: >-
       DUREEN.COM
     location: "United States"
-    followers: 2777
-    engagement: 896
-    commentsToLikes: 0.100003
+    followers: 2781
+    engagement: 937
+    commentsToLikes: 0.105407
     id: ck6ua79651wvn0j71wbt0pdy0
     verified: false
-    hashtags: "#stayhome, #youtube, #wakeupcallfest, #35mm"
-  - username: "madelinesideras"
+    hashtags: "#setlife, #earthday, #youtube, #quarantinelife"
+  - username: "mayabookbinder"
     fullname: >-
-      Madeline Sideras
+      Maya Bookbinder
     location: "United States"
-    followers: 2376
-    engagement: 1171
-    commentsToLikes: 0.076343
-    id: ck5cbbb8vf3g60i11rhiyj5ue
+    followers: 3025
+    engagement: 944
+    commentsToLikes: 0.053001
+    id: ck6tu59rpedrq0j71y6cu7l3i
     verified: false
-    hashtags: "#downtown, #platinumblonde, #beautyeditorial, #jouercosmetics"
-  - username: "brytnijean"
+    hashtags: "#tbt, #hangoutfromhome, #geminiseason, #watermelonsugar"
+  - username: "thepaulbecker1"
     fullname: >-
-      Brytni Jean
+      Paul Becker
     location: "United States"
-    followers: 9740
-    engagement: 595
-    commentsToLikes: 0.024266
-    id: ck0w5f71u3cn00i19axi3soiv
+    followers: 25938
+    engagement: 169
+    commentsToLikes: 0.034061
+    id: ck6uhyhocbzm20j71g6b35017
     verified: false
-    hashtags: "#badforthegoodtimes"
+    hashtags: "#coronaheadshotchallenge, #stayhome, #freedom, #hsm"
 ---

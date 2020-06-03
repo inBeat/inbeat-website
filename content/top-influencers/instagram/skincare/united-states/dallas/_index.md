@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Dallas In 2020
 description: >-
-  Find top skincare Instagram influencers in Dallas in 2020. Most popular hashtags: #dallasblogger #skincareroutine #skincare #dallastexas.
+  Find top skincare Instagram influencers in Dallas in 2020. Most popular hashtags: #skincare #beauty #sundayfunday #ootd.
 platform: Instagram
 profiles:
-  - username: "laurynlately"
+  - username: "katnazz001"
     fullname: >-
-      Lauryn Henry
+      Kat D-Villano
     location: "United States"
-    followers: 15082
-    engagement: 599
-    commentsToLikes: 0.320326
-    id: ck5zxuutd8pgk0i14b89ayddp
+    followers: 32813
+    engagement: 109
+    commentsToLikes: 0.293939
+    id: ck15shvfbd30g0i19t7jbnc05
     verified: false
-    hashtags: "#ootd, #proteinbars, #shophopes, #secretdeopartner"
-  - username: "thestyleride"
+    hashtags: "#cleanscent, #may3rd, #skincareblogger, #womenwholift"
+  - username: "heleniye"
     fullname: >-
-      Mahi Chaurasia
+      heleniye
     location: "United States"
-    followers: 115575
-    engagement: 83
-    commentsToLikes: 0.065784
-    id: ck5q9cqi1ag5l0i11frmsb2u9
+    followers: 2738
+    engagement: 1336
+    commentsToLikes: 0.054407
+    id: ckap9059tqnci0i7831a1v8d2
     verified: false
-    hashtags: "#beautyproducts, #blogger, #dallaslifestyleblogger, #dallasbloggers"
-  - username: "joannaczechofficial"
+    hashtags: "#weddingideas, #model, #interiorstyling, #engaged"
+  - username: "shelsealuxe"
     fullname: >-
-      Joanna Czech
+      PRO MAKEUP ARTIST
     location: "United States"
-    followers: 118038
-    engagement: 101
-    commentsToLikes: 0.044214
-    id: ck0twg5kjf8700i19uda4ecfr
-    verified: true
-    hashtags: "#czechlist, #linkinbio, #water, #vitamind"
-  - username: "camila.tonello"
-    fullname: >-
-      🇧🇷 living in 🇺🇸
-    location: "United States"
-    followers: 18290
-    engagement: 308
-    commentsToLikes: 0.048782
-    id: ck5q8gthn645u0i11ap8mk0lb
+    followers: 20648
+    engagement: 291
+    commentsToLikes: 0.037522
+    id: ck15pc5iax58k0i19wxzukwr5
     verified: false
-    hashtags: "#pixi, #quinttoupovo, #dfwinfluencers, #collaboration"
-  - username: "cryscastles"
+    hashtags: "#dontrushchallenge, #glittercutcrease, #dallasweddings, #dallasdontrush"
+  - username: "ginelleeverything"
     fullname: >-
-      Crystal
+      Ginelle | Fitness Enthusiast
     location: "United States"
-    followers: 8729
-    engagement: 702
-    commentsToLikes: 0.108393
-    id: ck0vyexom3n3y0i19khmhjork
+    followers: 11991
+    engagement: 741
+    commentsToLikes: 0.104086
+    id: ck137jai2btn50i194cxeazi7
     verified: false
-    hashtags: "#militarymen, #moveinfabletics, #latinasriseup, #citypalace"
-  - username: "itsdaniellleee"
-    fullname: >-
-      Danielle Matern
-    location: "United States"
-    followers: 5936
-    engagement: 478
-    commentsToLikes: 0.062955
-    id: ck6tnuxthaml30j71xpyxv29q
-    verified: false
-    hashtags: "#tomboyx, #styleoftheday, #instastyle, #blackgirlmagic"
+    hashtags: "#fitandthick, #fitblackwomen, #skincareroutine, #housechronicles"
   - username: "marypadian"
     fullname: >-
       Mary Padian
     location: "United States"
-    followers: 244799
-    engagement: 924
-    commentsToLikes: 0.031560
+    followers: 257475
+    engagement: 951
+    commentsToLikes: 0.032388
     id: ck5bu8iekhc7i0i117gheps9v
     verified: true
-    hashtags: "#finds, #rummage, #deepellum, #texas"
-  - username: "tamie_lawson"
+    hashtags: "#imagine, #naturalskincare, #salvage, #homedecor"
+  - username: "joannaczechofficial"
     fullname: >-
-      𝒯𝒶𝓂𝒾𝑒 𝐿𝒶𝓌𝓈𝑜𝓃
+      Joanna Czech
     location: "United States"
-    followers: 19937
-    engagement: 251
-    commentsToLikes: 0.026828
-    id: ck5bzbosbqtwi0i11olbz3yiy
-    verified: false
-    hashtags: "#darkskinkillingit, #facial, #fashionstyle, #softglam"
-  - username: "emilygoldglows"
+    followers: 124749
+    engagement: 110
+    commentsToLikes: 0.042973
+    id: ck0twg5kjf8700i19uda4ecfr
+    verified: true
+    hashtags: "#candiceswanepoel, #joansmalls, #cleansers, #metball"
+  - username: "andrezzaminotto"
     fullname: >-
-      Emily Gold✨
+      ANDREZZA 💋
     location: "United States"
-    followers: 90739
-    engagement: 1600
-    commentsToLikes: 0.082747
-    id: ck55n2bsi5bt30i118ctic2ay
+    followers: 95171
+    engagement: 101
+    commentsToLikes: 0.124436
+    id: ck6ui02pbc9l20j71rlq96n2e
     verified: false
-    hashtags: "#makeupfortheday, #giveaways, #free, #competition"
-  - username: "thedallasaesthetician"
+    hashtags: "#kitdemaquiagem, #skinaqua, #maquiador, #nails"
+  - username: "camila.tonello"
     fullname: >-
-      SAVANNA BODA AESTHETICS
+      🅂🄸🄼🄿🄻🄴 🄼🄾🅃🄷🄴🅁🄷🄾🄾🄳
     location: "United States"
-    followers: 70897
-    engagement: 339
-    commentsToLikes: 0.034590
-    id: ck14hr9tebqeu0i19s63j2izy
+    followers: 17503
+    engagement: 326
+    commentsToLikes: 0.057212
+    id: ck5q8gthn645u0i11ap8mk0lb
     verified: false
-    hashtags: "#dallasaesthetician, #rebeccablack, #estheticianeducation, #dallastexas"
+    hashtags: "#homeschoolmom, #vidacomdeus, #sabedoria, #ministry"
+  - username: "blakeswanner"
+    fullname: >-
+      Blake Swanner
+    location: "United States"
+    followers: 36248
+    engagement: 390
+    commentsToLikes: 0.101798
+    id: ck55ogguy8axc0i11y7rti230
+    verified: false
+    hashtags: "#ily, #inspo, #23, #skincare"
+  - username: "lifewcasey_"
+    fullname: >-
+      Casey|
+    location: "United States"
+    followers: 5946
+    engagement: 899
+    commentsToLikes: 0.164431
+    id: ck5q272edekwl0i11sh9v8vvm
+    verified: false
+    hashtags: "#texas, #winterootd, #liquidivpartner, #myfabletics"
 ---

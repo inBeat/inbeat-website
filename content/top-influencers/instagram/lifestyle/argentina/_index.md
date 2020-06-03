@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Argentina In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Argentina in 2020. Most popular hashtags: #style #yomequedoencasa #look #ootd.
+  Find top lifestyle Instagram influencers in Argentina in 2020. Most popular hashtags: #yomequedoencasa #sorteo #makeup #playa.
 platform: Instagram
 profiles:
-  - username: "marumaruela"
-    fullname: >-
-      M A R U
-    location: "Argentina"
-    followers: 5186
-    engagement: 609
-    commentsToLikes: 0.099659
-    id: ck6tmwys18ou60j71kswybf39
-    verified: false
-    hashtags: "#oopschallenge, #renuevatupelo, #tusachallenge"
-  - username: "nicoogarciaph"
-    fullname: >-
-      Nicolás García Laszuk
-    location: "Argentina"
-    followers: 13701
-    engagement: 478
-    commentsToLikes: 0.297825
-    id: ck8t39jbk2fx30j78lrpktovp
-    verified: false
-    hashtags: "#portraitsquad, #agameoftones, #igportraits, #human"
   - username: "naramieres"
     fullname: >-
       Nara 🌾
     location: "Argentina"
-    followers: 35538
-    engagement: 1200
-    commentsToLikes: 0.009951
+    followers: 40083
+    engagement: 1620
+    commentsToLikes: 0.156485
     id: ck6u60emfctfn0j71mbi9gqw1
     verified: false
-    hashtags: "#modoroaming, #internationalwomensday"
-  - username: "marysolorzano"
+    hashtags: "#pillowchallenge, #apoyalonacional, #modoroaming, #internationalwomensday"
+  - username: "barbylaliter"
     fullname: >-
-      Mary Wears Boots
+      Barby Laliter
     location: "Argentina"
-    followers: 40466
-    engagement: 88
-    commentsToLikes: 0.099126
-    id: ck14lnjxvvk4i0i19tzqlu47c
+    followers: 54477
+    engagement: 1863
+    commentsToLikes: 0.029158
+    id: ckaoy1it1fo890i785tugvsfs
     verified: false
-    hashtags: "#mwbideasfotos, #mwbfashionfilms, #photoinspo, #streetstyleinspo"
-  - username: "fedecastelo"
+    hashtags: "#sorteo, #sorteonavide, #alisados, #maquillarg"
+  - username: "mammaminas"
     fullname: >-
-      Federico Castelo.
+      ⚡️Jua Repetto ⚡️Vicky Gils
     location: "Argentina"
-    followers: 7818
-    engagement: 822
-    commentsToLikes: 0.025480
-    id: ck6tid1r90hhb0j71jgieym66
-    verified: false
-    hashtags: ""
-  - username: "lixusupermoto"
+    followers: 135319
+    engagement: 408
+    commentsToLikes: 0.206400
+    id: ck5ccde4nh5g70i112fthqxtg
+    verified: true
+    hashtags: "#masa, #nosvamos, #yomequedoencasa, #mamadedos"
+  - username: "que_monet"
     fullname: >-
-      Lixu
+      Qué Monet
     location: "Argentina"
-    followers: 7563
-    engagement: 2758
-    commentsToLikes: 0.009086
-    id: ck6tyo8vy4w2a0j71ckesmki6
+    followers: 33303
+    engagement: 356
+    commentsToLikes: 0.614060
+    id: ck5q38fn1jpvo0i113v5y1c5m
     verified: false
-    hashtags: "#wheeliewednesday, #akrapovic, #airoh, #grenzgaenger"
+    hashtags: "#ropainterior, #whitedress, #outfitoftheday, #nomakeup"
+  - username: "cynthiakern"
+    fullname: >-
+      Cynthia Kern
+    location: "Argentina"
+    followers: 71264
+    engagement: 291
+    commentsToLikes: 0.060214
+    id: ck14ke5tvp32c0i19i1f8kel5
+    verified: true
+    hashtags: "#thinkpositive, #cuarentenacreativa, #yomequedoencasa"
+  - username: "viviannamena"
+    fullname: >-
+      Vivianna Mena
+    location: "Argentina"
+    followers: 23443
+    engagement: 1040
+    commentsToLikes: 0.016412
+    id: ck5cix6oatjzj0i11h96aslgy
+    verified: false
+    hashtags: "#yomequedoencasa, #hondurasquedateencasa, #noplanetb, #renuevatupelo"
+  - username: "marumaruela"
+    fullname: >-
+      M A R U
+    location: "Argentina"
+    followers: 5128
+    engagement: 616
+    commentsToLikes: 0.099659
+    id: ck6tmwys18ou60j71kswybf39
+    verified: false
+    hashtags: "#renuevatupelo, #tusachallenge, #oopschallenge"
   - username: "invitadatrendy"
     fullname: >-
       Invitada Trendy By Conde
     location: "Argentina"
-    followers: 168231
-    engagement: 164
-    commentsToLikes: 0.013709
+    followers: 180376
+    engagement: 144
+    commentsToLikes: 0.069108
     id: ck0ublbn2ery60i19hjkhjdnx
     verified: false
-    hashtags: "#noviasdiferentes, #blogguer, #tendencia, #tendenciabodas"
-  - username: "davidmussi"
+    hashtags: "#sorteo, #sorteos, #georgeclooney, #amalclooney"
+  - username: "marysolorzano"
     fullname: >-
-      David Mussi Bécker
+      Mary wears boots
     location: "Argentina"
-    followers: 287254
-    engagement: 104
-    commentsToLikes: 0.015845
-    id: ck6u60ckyct760j710r3s2zdc
+    followers: 40098
+    engagement: 142
+    commentsToLikes: 0.092517
+    id: ck14lnjxvvk4i0i19tzqlu47c
     verified: false
-    hashtags: "#quedateencasa, #pumapy, #producecitoquinas, #estimulaanticuerpos"
-  - username: "alofashionn"
+    hashtags: "#maryengesell, #earthday, #tumblrinspo, #1camisa8estilos"
+  - username: "thisispaulopolis"
     fullname: >-
-      ☆ ASESORA DE IMAGEN ☆
+      Paulova Palacios ⚡️
     location: "Argentina"
-    followers: 30174
-    engagement: 190
-    commentsToLikes: 0.070788
-    id: ck6tye7mi37te0j71ewp9h9et
+    followers: 47336
+    engagement: 591
+    commentsToLikes: 0.015948
+    id: ck9wp1ayu7d6z0j78yyvf1vgj
     verified: false
-    hashtags: "#cute, #playa, #pregnancyphotography, #familyblogger"
-  - username: "que_monet"
-    fullname: >-
-      Qué Monet
-    location: "Argentina"
-    followers: 31025
-    engagement: 420
-    commentsToLikes: 0.643608
-    id: ck5q38fn1jpvo0i113v5y1c5m
-    verified: false
-    hashtags: "#smartfit, #johnfoos, #maybellinearg, #gift"
+    hashtags: "#tb"
 ---

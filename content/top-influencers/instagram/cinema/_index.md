@@ -1,7 +1,7 @@
 ---
 title: Top 10 Cinema Instagram Influencers In 2020
 description: >-
-  Find top cinema Instagram influencers in 2020. Most popular hashtags: #stayhome #staysafe #cinematographer #dop.
+  Find top cinema Instagram influencers in 2020. Most popular hashtags: # #drawnfromhere #covid #wonderfulgirls.
 platform: Instagram
 profiles:
   - username: "nimbus_independent"
@@ -14,94 +14,94 @@ profiles:
     id: ck55q0qnvbtyw0i11cmq96akx
     verified: false
     hashtags: "#drawfromhere, #drawnfromhere"
+  - username: "lynncinema"
+    fullname: >-
+      Cinéma
+    location: "India"
+    followers: 124113
+    engagement: 294
+    commentsToLikes: 0.015809
+    id: ck13440czulad0i19xnj7a4yv
+    verified: false
+    hashtags: "#redweapon, #cameras, #camerasetup, #films"
+  - username: "chalta_firtaa"
+    fullname: >-
+      Chetan S Uike | NAGPUR📍
+    location: "India"
+    followers: 6246
+    engagement: 1816
+    commentsToLikes: 0.082713
+    id: ck55lg1m01hdb0i11s28r5jew
+    verified: false
+    hashtags: "#street, #dogsofinstagram, #pune, #35awards"
+  - username: "daniele.davi"
+    fullname: >-
+      Daniele Daví
+    location: "Italy"
+    followers: 465559
+    engagement: 1397
+    commentsToLikes: 0.025062
+    id: ck8wescqdejjx0j78e46z11c8
+    verified: false
+    hashtags: ""
   - username: "greenfolk_girl"
     fullname: >-
       EXPLORER🌍
     location: ""
-    followers: 20661
-    engagement: 788
-    commentsToLikes: 0.064018
+    followers: 21694
+    engagement: 735
+    commentsToLikes: 0.079291
     id: ck5c5uip046760i11l8ltyibi
     verified: false
-    hashtags: "#beautybloggers, #coronanews, #socialdistancing, #dametraveler"
-  - username: "chalta_firtaa"
-    fullname: >-
-      Chetan S Uike | NAGPUR
-    location: "India"
-    followers: 5725
-    engagement: 1826
-    commentsToLikes: 0.062715
-    id: ck55lg1m01hdb0i11s28r5jew
-    verified: false
-    hashtags: "#cricket, #nustaharamkhor, #mypixeldiary, #coronavirus"
-  - username: "abrahamwilliamsdp"
-    fullname: >-
-      Abraham Williams
-    location: "United States"
-    followers: 5712
-    engagement: 1415
-    commentsToLikes: 0.057441
-    id: ck6tjx74f3lhz0j71m9ye1w71
-    verified: false
-    hashtags: "#hawaii, #cinematographer, #setlife, #dop"
+    hashtags: "#wanderwomeninc, #travelsrilanka, #urbanexplorer, #explorervibes"
   - username: "shotbyalberto"
     fullname: >-
       
     location: "United States"
-    followers: 7130
-    engagement: 1086
-    commentsToLikes: 0.121620
+    followers: 7960
+    engagement: 1181
+    commentsToLikes: 0.118324
     id: ck6u3u0d9zvfd0j71eqvmtbek
     verified: false
-    hashtags: "#valentinesday, #blackmamba, #newyorktough"
-  - username: "dhruwal.patel"
+    hashtags: "#valentinesday, #newyorktough"
+  - username: "wonder_kid__"
     fullname: >-
-      Dhruwal patel
-    location: "India"
-    followers: 12990
-    engagement: 1594
-    commentsToLikes: 0.044926
-    id: ck5cib262sbp00i112ozlpo5v
+      ani mathew _ant of idukki
+    location: ""
+    followers: 5513
+    engagement: 2132
+    commentsToLikes: 0.055056
+    id: ckaoxiqdsdg120i78hmmxok3t
     verified: false
-    hashtags: "#sidnaaz, #shoottime, #arri, #dop"
-  - username: "shotbycones"
+    hashtags: "#yamaha, #keralablasters"
+  - username: "kh1i1i"
     fullname: >-
-      Cones
+      alkhalili
+    location: ""
+    followers: 27634
+    engagement: 1147
+    commentsToLikes: 0.038563
+    id: ck5hpqlysrt660i11ugkm4zdq
+    verified: false
+    hashtags: "#vine, #quarantine, #coronavirus, #covid"
+  - username: "sabaizadpanah"
+    fullname: >-
+      Saba Izadpanah | صبآ ایزدپناه
     location: "United States"
-    followers: 26737
-    engagement: 1116
-    commentsToLikes: 0.036404
-    id: ck5c060jxsigs0i113u4rg1bt
+    followers: 16356
+    engagement: 1122
+    commentsToLikes: 0.044440
+    id: ck9wixl4j4dbq0j78oqe1d438
+    verified: false
+    hashtags: "#rumihandcraft, #jewelrug, #rug, #necklace"
+  - username: "theweddingstoriesuk"
+    fullname: >-
+      The Wedding Stories
+    location: "United Kingdom"
+    followers: 12075
+    engagement: 1376
+    commentsToLikes: 0.040424
+    id: ck5zmfslcmhuw0i14ahgyp1l1
     verified: false
     hashtags: ""
-  - username: "_kwadwoagyapong"
-    fullname: >-
-      Kwadwo Agyapong
-    location: "United States"
-    followers: 8200
-    engagement: 804
-    commentsToLikes: 0.130518
-    id: ck5hnpiplo6540i11lc0mao9p
-    verified: false
-    hashtags: "#ijustputlotionon, #iseeyoulookingatmyknuckles, #passthesheabutter, #muscletech"
-  - username: "clara_segura_actriu"
-    fullname: >-
-      Clara Segura
-    location: ""
-    followers: 8278
-    engagement: 1347
-    commentsToLikes: 0.033458
-    id: ck6tp1hmahb230j71uh0rslbi
-    verified: false
-    hashtags: "#canquel, #coberturacomedia, #yomecorono"
-  - username: "tbailes875"
-    fullname: >-
-      Tyler Bailey
-    location: "United States"
-    followers: 13078
-    engagement: 1110
-    commentsToLikes: 0.058591
-    id: ck5q6j9i2xm4j0i11xwk7r1b7
-    verified: false
-    hashtags: "#ifitdiesitdies"
 ---

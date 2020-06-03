@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mma Fighters Instagram Influencers In United States In 2020
 description: >-
-  Find top mma fighters Instagram influencers in United States in 2020. Most popular hashtags: #mma #athlete #mmafighter #fight.
+  Find top mma fighters Instagram influencers in United States in 2020. Most popular hashtags: #mma #ganggang #mmatraining #tbt.
 platform: Instagram
 profiles:
-  - username: "jayhieron"
+  - username: "kennethberghmma"
     fullname: >-
-      JAYHIERON
+      Kenneth Bergh
     location: "United States"
-    followers: 21649
-    engagement: 738
-    commentsToLikes: 0.036449
-    id: ck15pwtxh013c0i19aku2957z
+    followers: 21736
+    engagement: 903
+    commentsToLikes: 0.034968
+    id: ck6u4m9z64j1c0j71h29sz821
+    verified: false
+    hashtags: "#njie, #juicery, #viaplay, #gamebred"
+  - username: "jayde_sheeley"
+    fullname: >-
+      Jayde Raquel
+    location: "United States"
+    followers: 17382
+    engagement: 977
+    commentsToLikes: 0.028042
+    id: ck6trqjk50i5w0j7130cmbxrt
+    verified: false
+    hashtags: "#photography, #overtherhine, #productivity, #iam1stphorm"
+  - username: "alyseanderson21"
+    fullname: >-
+      Alyse Anderson
+    location: "United States"
+    followers: 27287
+    engagement: 578
+    commentsToLikes: 0.056107
+    id: ck9hcy0vtnfky0j78psob87mn
+    verified: false
+    hashtags: "#amazhang, #mmagirls, #graffiti, #mmatraining"
+  - username: "liampitts03"
+    fullname: >-
+      Liam Pitts
+    location: "United States"
+    followers: 101111
+    engagement: 1619
+    commentsToLikes: 0.013688
+    id: ck5c9118sakoa0i11ai2n7bli
     verified: true
-    hashtags: "#getawaydriver, #64, #classic, #miami"
+    hashtags: "#teamtigerbalsam, #dubai"
   - username: "kaytlinkatnissmma"
     fullname: >-
       Kaytlin Neil
     location: "United States"
-    followers: 73788
-    engagement: 165
-    commentsToLikes: 0.056645
+    followers: 74085
+    engagement: 184
+    commentsToLikes: 0.060788
     id: ck0w6xmalaqwo0i19jf7f9z58
     verified: false
-    hashtags: "#bada, #joggers, #maverikcenter, #fightnight"
-  - username: "johnnysd"
+    hashtags: "#model, #giveaway, #womenshealth, #energypowder"
+  - username: "jayhieron"
     fullname: >-
-      Johnny Faria
+      JAYHIERON
     location: "United States"
-    followers: 29916
-    engagement: 153
-    commentsToLikes: 0.057021
-    id: ck6ty61691vw80j71zh9y8baw
-    verified: false
-    hashtags: "#hyperfly, #tbt, #jiujitsulifestyle, #alliancesd"
+    followers: 21733
+    engagement: 742
+    commentsToLikes: 0.032438
+    id: ck15pwtxh013c0i19aku2957z
+    verified: true
+    hashtags: "#canecorso, #latnighttrailhead, #wolvesgottaeat, #wolfpack"
   - username: "melanymarieward"
     fullname: >-
       Melany Marie Ward
     location: "United States"
-    followers: 32281
-    engagement: 1428
-    commentsToLikes: 0.028624
+    followers: 38435
+    engagement: 1272
+    commentsToLikes: 0.026802
     id: ck6tmsu5y8gu70j71r14hpu5q
     verified: false
-    hashtags: "#1stphormathletesearch, #1stphorm, #boyfriend, #quarentinelife"
-  - username: "beneildariush"
+    hashtags: "#thankful, #1strfc, #firstrespondersstrong, #1stphormathletesearch"
+  - username: "johnnysd"
     fullname: >-
-      Beneil Dariush
+      Johnny Faria
     location: "United States"
-    followers: 39689
-    engagement: 620
-    commentsToLikes: 0.036089
-    id: ck0vys7ud5jcf0i19gx0xjq72
-    verified: true
-    hashtags: "#ufc248, #israeladesanya, #xtremecouture, #ufc248"
+    followers: 29680
+    engagement: 149
+    commentsToLikes: 0.065906
+    id: ck6ty61691vw80j71zh9y8baw
+    verified: false
+    hashtags: "#alliancesd, #jiujitsuphotography, #alybjj, #ycth"
   - username: "kyle_stewart0331"
     fullname: >-
       Kyle Stewart
     location: "United States"
-    followers: 8409
-    engagement: 883
-    commentsToLikes: 0.028562
+    followers: 8781
+    engagement: 867
+    commentsToLikes: 0.028603
     id: ck5zk915tj1t10i146msuyppt
     verified: true
-    hashtags: "#bringtheviolence, #makefightingfunagain, #martialartschallenge, #lfa84"
+    hashtags: "#bellator, #limacompany, #helmandprovince, #sangin"
   - username: "joeyblackicedavis_"
     fullname: >-
       Joey Davis
     location: "United States"
-    followers: 15208
-    engagement: 627
-    commentsToLikes: 0.022710
+    followers: 15186
+    engagement: 609
+    commentsToLikes: 0.021581
     id: ck138m3y1gwm60i19t7gj4nrl
     verified: false
-    hashtags: "#cptthat, #god1, #whatever, #keepgod1st"
-  - username: "blanchfield_mma"
-    fullname: >-
-      Erin Blanchfield
-    location: "United States"
-    followers: 5881
-    engagement: 637
-    commentsToLikes: 0.027472
-    id: ck6tnlpcwa3jw0j71s3fbw6an
-    verified: false
-    hashtags: "#fuckcorona, #quarantine"
-  - username: "vincetheanomaly"
-    fullname: >-
-      Vince Cachero
-    location: "United States"
-    followers: 9881
-    engagement: 512
-    commentsToLikes: 0.024014
-    id: ck15tuagojxpd0i1960bsuw9z
-    verified: false
-    hashtags: "#mma, #defendhawaii, #mmatraining, #losangeles"
-  - username: "laura_sanko"
-    fullname: >-
-      Laura Sanko
-    location: "United States"
-    followers: 99729
-    engagement: 503
-    commentsToLikes: 0.045084
-    id: ck6tt37q58cb70j71950pw833
-    verified: true
-    hashtags: "#valentinashevchenko, #ufc248, #danawhite, #ufc246"
+    hashtags: "#teambodyshop, #god1st, #cptthat, #god1"
 ---

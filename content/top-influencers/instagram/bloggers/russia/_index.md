@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Russia In 2020
 description: >-
-  Find top bloggers Instagram influencers in Russia in 2020. Most popular hashtags: #liketime #hm #ufacity #promo.
+  Find top bloggers Instagram influencers in Russia in 2020. Most popular hashtags: # #stayhome #abh #revolutionscincare.
 platform: Instagram
 profiles:
-  - username: "_m_a_d_l_e_n"
+  - username: "leronyrony"
     fullname: >-
-      Madina Mamadalieva
+      Valeria Anastasina
     location: "Russia"
-    followers: 1050138
-    engagement: 1103
-    commentsToLikes: 0.032410
-    id: ck5hhlkzj8uzu0i118dobokxm
+    followers: 13043
+    engagement: 2180
+    commentsToLikes: 0.131030
+    id: ck0ty5lgvlqdw0i19i3erm7j8
     verified: false
-    hashtags: "#stayhome, #staysafe"
-  - username: "mar_kovaleva"
+    hashtags: ""
+  - username: "victoriaportfolio"
     fullname: >-
-      FASHION ▫️ BEAUTY▫️ INSPO
+      Victoria Bykova
     location: "Russia"
-    followers: 49189
-    engagement: 574
-    commentsToLikes: 0.360416
-    id: ck14k2m95nf5w0i1960u98zh9
+    followers: 1236854
+    engagement: 1040
+    commentsToLikes: 0.110434
+    id: ck0w4a674xk2o0i19spqv59ax
     verified: false
-    hashtags: "#yummy, #jomalone, #bathandbodyworksrussia, #photoedit"
-  - username: "evgenyfist"
+    hashtags: "#pillowchallendge, #rasism, #sexism, #poland"
+  - username: "natalinamua"
     fullname: >-
-      EVGENY FIST
+      Наталина Всея Руси
     location: "Russia"
-    followers: 174574
-    engagement: 467
-    commentsToLikes: 0.044283
-    id: ck13c3ek9yfgg0i19vmpgtqef
+    followers: 379929
+    engagement: 564
+    commentsToLikes: 0.080001
+    id: ck0w4b05zxoji0i195nvnw6yl
     verified: false
-    hashtags: "#evgenyfist, #cadillacxt6, #xt6, #tomford"
+    hashtags: "#anastasiabeverlyhills, #limecrimerussia, #maccosmeticsrussia, #revolutionscincare"
+  - username: "sashka_stone"
+    fullname: >-
+      Alexander Zarubin
+    location: "Russia"
+    followers: 2142624
+    engagement: 649
+    commentsToLikes: 0.033516
+    id: ck5c1b5tiutjz0i115h345mb5
+    verified: false
+    hashtags: "#amg, #w213, #mercedes, #2020"
+  - username: "tanya_strelova"
+    fullname: >-
+      Tаня Стрелова
+    location: "Russia"
+    followers: 123409
+    engagement: 1021
+    commentsToLikes: 0.030091
+    id: ck6u4nlen4r2h0j71uaiomvhm
+    verified: false
+    hashtags: "#nails, #happybirthday"
   - username: "anayporter"
     fullname: >-
       АНЯ ПОРТЕР ФЕЯ ВИНКС
     location: "Russia"
-    followers: 674715
-    engagement: 1021
-    commentsToLikes: 0.019477
+    followers: 648863
+    engagement: 1056
+    commentsToLikes: 0.018455
     id: ck0tudgma6pu00i19nyel180t
     verified: false
     hashtags: "#starbucksrtd, #frappuccino, #matcha"
-  - username: "pa_shutka"
-    fullname: >-
-      👮‍♂️АРТУР ПАШУТИН 🔥MOSCOW🇷🇺
-    location: "Russia"
-    followers: 209548
-    engagement: 397
-    commentsToLikes: 0.085743
-    id: ck6ubpfq0axgn0j71tzx3yigw
-    verified: false
-    hashtags: "#kinolift, #kinoliftru"
-  - username: "red_autumn"
-    fullname: >-
-      OlyaRedAutumn | Moscow
-    location: "Russia"
-    followers: 114053
-    engagement: 688
-    commentsToLikes: 0.021543
-    id: ck55q126hbuxq0i11s0y5q972
-    verified: false
-    hashtags: "#shiseidorussia, #evelinecelebration, #got2brussia, #colourpop"
-  - username: "anastasia.hm"
-    fullname: >-
-      С ДУШОЙ ПУТЕШЕСТВЕННИКА
-    location: "Russia"
-    followers: 96220
-    engagement: 357
-    commentsToLikes: 0.092786
-    id: ck0w4c665xulu0i19eod2a79t
-    verified: false
-    hashtags: "#cacharelparfums, #uniqlo, #lifewear, #mysunlight"
-  - username: "yanina_kod"
-    fullname: >-
-      Kodesnikova Yana💫
-    location: "Russia"
-    followers: 6087
-    engagement: 1944
-    commentsToLikes: 0.039354
-    id: ck0w63yeh6sgv0i19k8ipf8t6
-    verified: false
-    hashtags: "#ufacity, #ideaforphoto, #ufahockey, #iwant"
-  - username: "bers_review"
-    fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ❀ Bersik ❀
-    location: "Russia"
-    followers: 304322
-    engagement: 608
-    commentsToLikes: 0.026657
-    id: ck0tuqhft89ik0i19d7r5i5od
-    verified: false
-    hashtags: "#rizmo, #lolsurprise, #bersikbmr, #lolsurpriseomg"
   - username: "zharikova_zhozefina"
     fullname: >-
       JOSEPHINE
     location: "Russia"
-    followers: 168171
-    engagement: 303
-    commentsToLikes: 0.038943
+    followers: 176632
+    engagement: 361
+    commentsToLikes: 0.036341
     id: ck15rz27baezw0i1928nnzduy
     verified: false
-    hashtags: "#nepachka"
+    hashtags: ""
+  - username: "anastasia.hm"
+    fullname: >-
+      С ДУШОЙ ПУТЕШЕСТВЕННИКА
+    location: "Russia"
+    followers: 92853
+    engagement: 332
+    commentsToLikes: 0.153378
+    id: ck0w4c665xulu0i19eod2a79t
+    verified: false
+    hashtags: "#lifewear, #stayhome, #sunlightmoments, #mysunlight"
+  - username: "bers_review"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ❀ Bersik ❀
+    location: "Russia"
+    followers: 302253
+    engagement: 613
+    commentsToLikes: 0.024217
+    id: ck0tuqhft89ik0i19d7r5i5od
+    verified: false
+    hashtags: "#lolsurpriseomg, #licca, #rizmo, #lolsurprise"
+  - username: "roxys_choice"
+    fullname: >-
+      ⭐RAXANA SAMOKHVALOVA ✨
+    location: "Russia"
+    followers: 532937
+    engagement: 252
+    commentsToLikes: 0.040102
+    id: ck13cbadwzi890i191zv9px97
+    verified: false
+    hashtags: "#kerastase, #cafemimi, #nivea, #roxyschoicelipart"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Toronto In 2020
 description: >-
-  Find top athletes Instagram influencers in Toronto in 2020. Most popular hashtags: #fitness #toronto #athlete #workout.
+  Find top athletes Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #fitness #motivation #goals.
 platform: Instagram
 profiles:
-  - username: "samanthayounger_"
+  - username: "jahjahbanks"
     fullname: >-
-      Samantha Younger
+      Jahmeek Taylor
     location: "Canada"
-    followers: 4749
-    engagement: 2192
-    commentsToLikes: 0.102998
-    id: ck14ib7eyejlt0i19s8o9w0uv
+    followers: 6082
+    engagement: 571
+    commentsToLikes: 0.129798
+    id: ck5q9nqr4c2110i110t8tkh0j
     verified: false
-    hashtags: "#workouttights, #sleepyhead, #canadagiveaway, #babyclothes"
-  - username: "spinellle"
+    hashtags: "#fitness, #womenwholift, #trainer, #athlete"
+  - username: "thejasmincull"
     fullname: >-
-      𝐍𝐈𝐑𝐕𝐀𝐍𝐀 𝐇𝐎𝐖𝐄𝐋𝐋
+      Jasmin Cull | PGA Tour Driven
     location: "Canada"
-    followers: 8035
-    engagement: 620
-    commentsToLikes: 0.032331
-    id: ck5c10afnu74y0i11cp3k832w
+    followers: 2485
+    engagement: 1239
+    commentsToLikes: 0.062399
+    id: ck6ui4hncd0in0j71taxyr0mw
     verified: false
-    hashtags: "#fitnessmotivation, #lifestyle, #photoposes, #torontophotography"
-  - username: "julie.maheu"
-    fullname: >-
-      SPORTS & FITNESS | JULIE
-    location: "Canada"
-    followers: 2220
-    engagement: 985
-    commentsToLikes: 0.200673
-    id: ck5q77ynk0cb90i11ztdnicoy
-    verified: false
-    hashtags: "#titikaxme, #soccer, #socialdistancing, #sweat"
-  - username: "tucker_77_2009"
-    fullname: >-
-      Tucker Whalen
-    location: "Canada"
-    followers: 9384
-    engagement: 1046
-    commentsToLikes: 0.012591
-    id: ck0txrc6pk8zm0i199b0t0si1
-    verified: false
-    hashtags: "#shotski, #hockeyequipment, #equipment, #shot"
-  - username: "optimize.physiotherapy"
-    fullname: >-
-      Optimize Physiotherapy
-    location: "Canada"
-    followers: 119627
-    engagement: 81
-    commentsToLikes: 0.012853
-    id: ck0u2ehwfzo740i191mmr2y3b
-    verified: false
-    hashtags: "#stretching, #rest, #mind, #foot"
+    hashtags: "#loveofmylife, #loveyou, #health, #coursesopen"
   - username: "jacobshaff"
     fullname: >-
       Jacob Shaffelburg
     location: "Canada"
-    followers: 5016
-    engagement: 3079
-    commentsToLikes: 0.037439
+    followers: 5099
+    engagement: 3041
+    commentsToLikes: 0.037166
     id: ck0w09maxd32c0i19ho8y8t5a
     verified: true
-    hashtags: "#iamthemlspa, #tfc, #allforone, #tfc"
-  - username: "farnaz.esmaeilzadeh"
+    hashtags: "#allforone, #thanksgiving, #hometeam, #createdwithadidas"
+  - username: "poweredbydush"
     fullname: >-
-      🔹️Farnaz Esmaeilzadeh فرناز🔹️
+      Dushane🇨🇦
     location: "Canada"
-    followers: 20000
-    engagement: 990
-    commentsToLikes: 0.033614
-    id: ck0tt1uae0sg20i199kstqer6
+    followers: 42548
+    engagement: 215
+    commentsToLikes: 0.165417
+    id: ck0w3jsj7ts1v0i19lkajabhr
     verified: false
-    hashtags: "#clouds, #woman, #goal, #climbers"
-  - username: "coachmattchapman"
+    hashtags: "#routine, #puma, #postivevibes, #diet"
+  - username: "eshagh.ghavidel.ifbbpro"
     fullname: >-
-      M A T T  C H A P M A N
+      اسحاق قویدل 🤲🏼
     location: "Canada"
-    followers: 18712
-    engagement: 1079
-    commentsToLikes: 0.012200
-    id: ck6tt9gwp9d320j71ubh7itfk
-    verified: false
-    hashtags: "#peoplebouldering, #bouldering, #championships, #socialdistancing"
-  - username: "vincent.bouchard.9"
-    fullname: >-
-      Vincent Bouchard
-    location: "Canada"
-    followers: 10902
-    engagement: 2107
-    commentsToLikes: 0.029863
-    id: ck5hiw9t6fktk0i11l5h2jjj5
-    verified: false
-    hashtags: "#backlever, #handstand, #summertime, #holdit"
-  - username: "sarahwells400mh"
-    fullname: >-
-      Sarah Wells
-    location: "Canada"
-    followers: 22915
-    engagement: 222
-    commentsToLikes: 0.032499
-    id: ck6uclo3tgc290j71tkkyc168
+    followers: 278959
+    engagement: 266
+    commentsToLikes: 0.035859
+    id: ckap3v0jz4lr80i78dmtbknmx
     verified: true
-    hashtags: "#futurelaunch, #rbcfuturelaunch, #running, #womenoftheday"
+    hashtags: "#eshaghghavidel, #mylife, #golebita, #persianbodybuilder"
+  - username: "athleticfitworld"
+    fullname: >-
+      ⚡️AMAZING ATHLETICS ⚡️
+    location: "Canada"
+    followers: 10254
+    engagement: 457
+    commentsToLikes: 0.040514
+    id: ck0u2eik5zo8g0i19ojoa2zfy
+    verified: false
+    hashtags: "#igmarketing, #dallasfitness, #igstreet, #battleropes"
+  - username: "heyits_monika"
+    fullname: >-
+      monika k.
+    location: "Canada"
+    followers: 12154
+    engagement: 1237
+    commentsToLikes: 0.023762
+    id: ckaozyo9cnzyo0i78qx612b76
+    verified: false
+    hashtags: "#thesweatlife, #sweatwithme, #lululemon, #lululemonambassador"
+  - username: "_skalsi"
+    fullname: >-
+      
+    location: "Canada"
+    followers: 2825
+    engagement: 1843
+    commentsToLikes: 0.067064
+    id: ck8wftmtug8ov0j78bswrls8t
+    verified: false
+    hashtags: "#nike, #customsneakers, #customart, #dufflebag"
+  - username: "veronicawangco"
+    fullname: >-
+      v e r o n ι c a · w a n g
+    location: "Canada"
+    followers: 176915
+    engagement: 654
+    commentsToLikes: 0.031627
+    id: ck13ayin4st6m0i19rq47dnep
+    verified: false
+    hashtags: "#ad, #trulocal, #scottishfold, #catsofinstagram"
+  - username: "cor_kashif"
+    fullname: >-
+      Corey Kashif
+    location: "Canada"
+    followers: 6898
+    engagement: 1634
+    commentsToLikes: 0.026141
+    id: ck55kp7bfzsuo0i11pkveqewo
+    verified: false
+    hashtags: "#miami, #served, #tueaday, #motivation"
 ---

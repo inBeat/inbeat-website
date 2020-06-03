@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Colombia In 2020
 description: >-
-  Find top athletes Instagram influencers in Colombia in 2020. Most popular hashtags: #yomequedoencasa #stayhome #cuarentena #staysafe.
+  Find top athletes Instagram influencers in Colombia in 2020. Most popular hashtags: #gymnastics #tbt #training #love.
 platform: Instagram
 profiles:
-  - username: "osiris_martinezm"
+  - username: "kuhubhosle"
     fullname: >-
-      •OSIRIS MARTINEZ•
+      Kuhu Bhosle
     location: "Colombia"
-    followers: 495316
-    engagement: 232
-    commentsToLikes: 0.034850
-    id: ck5pzivaf16zf0i112jlggpls
+    followers: 7310
+    engagement: 874
+    commentsToLikes: 0.021578
+    id: ck6tsfsdk4isj0j71yy3w18e5
     verified: false
-    hashtags: "#homeworkout, #yomequedoencasa, #stayathome, #staystrong"
-  - username: "danieladiez"
+    hashtags: "#womencrushwednesday, #rideordie, #love, #sheruclassiclatinamerica"
+  - username: "orianavalenti89"
     fullname: >-
-      Danii🌸
+      Oriana Valenti | Dentist
     location: "Colombia"
-    followers: 7266
-    engagement: 1086
-    commentsToLikes: 0.035034
-    id: ck8t2a6ieypcf0j784l1kegeh
+    followers: 31323
+    engagement: 322
+    commentsToLikes: 0.042083
+    id: ckapb0xwdy7t60i78vz5s4wf7
     verified: false
-    hashtags: "#dreambig, #fitspirations, #workoutgeat, #amate"
+    hashtags: "#gymnastics, #dentistgirl, #barcelona, #venezolana"
   - username: "caro_toro"
     fullname: >-
       Carolina Toro Raigosa
     location: "Colombia"
-    followers: 176586
-    engagement: 213
-    commentsToLikes: 0.012987
+    followers: 179998
+    engagement: 253
+    commentsToLikes: 0.015423
     id: ck0w3tqyxv87p0i19cy9ozkrz
     verified: false
-    hashtags: "#stayhome, #tbt, #expofitness2020, #yomequedoencasa"
+    hashtags: "#yomequedoencasa, #stayhome, #tb"
   - username: "tatianaugirardi"
     fullname: >-
       Tatiana USSA GIRARDI
     location: "Colombia"
-    followers: 1700260
-    engagement: 143
-    commentsToLikes: 0.011153
+    followers: 1727380
+    engagement: 160
+    commentsToLikes: 0.011152
     id: ck5znbvv9o5x70i143pee9whu
     verified: true
-    hashtags: "#powergirl, #loveday, #loveyourbody, #night"
+    hashtags: "#honesty, #dots, #lifestyle, #barcelona"
+  - username: "londonotri"
+    fullname: >-
+      Eduardo Londoño Naranjo
+    location: "Colombia"
+    followers: 3194
+    engagement: 1496
+    commentsToLikes: 0.043627
+    id: ck5c0qpavtnxr0i11qtwulf91
+    verified: false
+    hashtags: "#specializedshivencartagena, #hermanoslondo, #bbvaresponsable, #deportistabbva"
+  - username: "danieladiez"
+    fullname: >-
+      Danii👑
+    location: "Colombia"
+    followers: 8027
+    engagement: 1105
+    commentsToLikes: 0.049720
+    id: ck8t2a6ieypcf0j784l1kegeh
+    verified: false
+    hashtags: "#bikinimodel, #monatskincare, #fitlife, #staysafe"
+  - username: "suevygramer"
+    fullname: >-
+      Anabelle sᴜᴇᴠʏ
+    location: "Colombia"
+    followers: 59927
+    engagement: 140
+    commentsToLikes: 0.017490
+    id: ck6u879q9pudr0j71zonz7f7s
+    verified: false
+    hashtags: "#happybirthday, #teamo, #warmup, #yomequedoencasa"
+  - username: "sofia__iriarte"
+    fullname: >-
+      Sofía Iriarte ♛
+    location: "Colombia"
+    followers: 2891
+    engagement: 1624
+    commentsToLikes: 0.047423
+    id: ckap6ap3bf3if0i78dxo4p4zd
+    verified: false
+    hashtags: "#run, #triathlon, #gym, #snatch"
   - username: "laura_manrique13"
     fullname: >-
       Laura Manrique
     location: "Colombia"
-    followers: 33424
-    engagement: 213
-    commentsToLikes: 0.018898
+    followers: 33366
+    engagement: 223
+    commentsToLikes: 0.019366
     id: ck6tmt8738hn60j71nllvp2a8
     verified: false
     hashtags: "#tbt"
-  - username: "littleharry15"
-    fullname: >-
-      LITTLE HARRY
-    location: "Colombia"
-    followers: 248762
-    engagement: 748
-    commentsToLikes: 0.012312
-    id: ck6ufdhabwe7y0j71afaksorp
-    verified: false
-    hashtags: "#collectivebikes, #priusdead, #stayhome, #covid19"
   - username: "mariaclaraceballos89"
     fullname: >-
       Maria Clara Ceballos
     location: "Colombia"
-    followers: 459355
-    engagement: 208
-    commentsToLikes: 0.045097
+    followers: 458771
+    engagement: 174
+    commentsToLikes: 0.030731
     id: ck8sxh8y1hdyg0j78njfdve7w
     verified: true
-    hashtags: "#9monthsold, #increible, #mehizoeldia, #babymodel"
-  - username: "alex3marin"
-    fullname: >-
-      Alex Marin ♧
-    location: "Colombia"
-    followers: 26226
-    engagement: 856
-    commentsToLikes: 0.020214
-    id: ck1377ov4a7ih0i195dbxb6xt
-    verified: false
-    hashtags: "#fullblack, #pinkbike, #missthis, #inside"
-  - username: "lalajv92"
-    fullname: >-
-      Laura Jaillier 👑
-    location: "Colombia"
-    followers: 17499
-    engagement: 436
-    commentsToLikes: 0.380260
-    id: ck8sxha8vhe4p0j78applpxe1
-    verified: false
-    hashtags: "#familiahakuna, #soyhakuna, #secalvio, #amoloquehago"
-  - username: "mulatafit"
-    fullname: >-
-      Wbff Diva Champion Usa🇺🇸
-    location: "Colombia"
-    followers: 510836
-    engagement: 201
-    commentsToLikes: 0.027945
-    id: ck5q5bhkks4yj0i11prd3sjk9
-    verified: false
-    hashtags: "#yomequedoencasa, #tbt, #tbtmegaplexstars, #tygamacarena"
+    hashtags: "#love, #masqueunbox, #estamoslistos, #mividacomomama"
 ---

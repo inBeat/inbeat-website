@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Philadelphia In 2020
 description: >-
-  Find top fashion Instagram influencers in Philadelphia in 2020. Most popular hashtags: #philadelphia #fashion #style #philly.
+  Find top fashion Instagram influencers in Philadelphia in 2020. Most popular hashtags: #philadelphia #stayhome #coffeelover #summer.
 platform: Instagram
 profiles:
-  - username: "philly.dentist"
+  - username: "lattesandlabcoats"
     fullname: >-
-      Dr. Kunal Parikh ✪
+      Dani D
     location: "United States"
-    followers: 34239
-    engagement: 244
-    commentsToLikes: 0.130601
-    id: ck5zv9kdt3te50i14wtjanf7f
+    followers: 7309
+    engagement: 2040
+    commentsToLikes: 0.030253
+    id: ckaou5lv0ywhz0i78kb5rv5l4
     verified: false
-    hashtags: "#rocnation, #phillies, #livelifenice, #brasil"
-  - username: "dougspearman"
-    fullname: >-
-      Doug Spearman
-    location: "United States"
-    followers: 6375
-    engagement: 451
-    commentsToLikes: 0.060380
-    id: ck5q9l74mbnwv0i112nt6zkxt
-    verified: false
-    hashtags: "#foundobjects, #artistandwriter, #moviestar, #handsome"
+    hashtags: "#liketkit, #ltkholidaystyle, #ltkholidayathome, #ltkholidaygiftguide"
   - username: "ukiy0_"
     fullname: >-
-      Sanniyah: Fashion Influencer
+      Sanniyah Antoinette: Musician
     location: "United States"
-    followers: 8094
-    engagement: 915
-    commentsToLikes: 0.134129
+    followers: 9844
+    engagement: 770
+    commentsToLikes: 0.133062
     id: ck8ta4158qe250j785c9s6zu1
     verified: false
-    hashtags: "#gothaesthetic, #takecareofyourskin, #skincarereview, #nastygalsdoitbetter"
-  - username: "annikamichelle1"
+    hashtags: "#blackcraftcult, #denimjacket, #mustang, #ghostemane"
+  - username: "lombardoptkt"
     fullname: >-
-      Annika Michelle
+      Antonio | DPT | NY
     location: "United States"
-    followers: 59036
-    engagement: 781
-    commentsToLikes: 0.042993
-    id: ck137q5spctbh0i19syo4wbtf
-    verified: true
-    hashtags: "#sunnies, #uktravel, #athomeworkouts, #happymind"
+    followers: 5960
+    engagement: 413
+    commentsToLikes: 0.047977
+    id: ck15r66tm6c1r0i19exkjzx91
+    verified: false
+    hashtags: "#visitphilly, #donut, #donutlover, #movies"
+  - username: "vanapartida"
+    fullname: >-
+      Ivanna
+    location: "United States"
+    followers: 14171
+    engagement: 700
+    commentsToLikes: 0.031693
+    id: ck55p1c279ls70i119qno05lz
+    verified: false
+    hashtags: "#boricua, #livebetter, #christmas, #dodolashes"
   - username: "bunch.ofbs"
     fullname: >-
       Becca Scholes I Bunch of BS
     location: "United States"
-    followers: 10407
-    engagement: 700
-    commentsToLikes: 0.163115
+    followers: 10337
+    engagement: 783
+    commentsToLikes: 0.158315
     id: ck5hn3o7an5830i113z3lyblr
     verified: false
-    hashtags: "#sponsored, #fabletics, #affordablefashion, #targetstyle"
-  - username: "remixliving"
+    hashtags: "#fueloriginality, #myfabletics, #saladworksofart, #cincodemayo"
+  - username: "katebudzinski"
     fullname: >-
-      REMIX LIVING
+      kate budzinski
     location: "United States"
-    followers: 42278
-    engagement: 173
-    commentsToLikes: 0.032201
-    id: ck6to30tnbtmy0j7152qjzd50
+    followers: 17336
+    engagement: 199
+    commentsToLikes: 0.072915
+    id: ck5hnqxkfo8nc0i113d640kv4
     verified: false
-    hashtags: "#blackhistorymonth, #blackart, #furniture, #quarantinelive"
-  - username: "jake_thebarber1"
-    fullname: >-
-      JTB💔
-    location: "United States"
-    followers: 50245
-    engagement: 447
-    commentsToLikes: 0.023673
-    id: ck14jwbtrmild0i19gbo2ic82
-    verified: false
-    hashtags: "#barstool, #venicebeach, #fashion, #mensfashion"
-  - username: "highvol_tage"
-    fullname: >-
-      T-Agé Anadi
-    location: "United States"
-    followers: 3408
-    engagement: 1537
-    commentsToLikes: 0.095582
-    id: ck5hm5dqjle0e0i111uczg33q
-    verified: false
-    hashtags: "#allinmotion, #spinalflexibility, #cafe, #yogaeverydamnday"
-  - username: "trevstudio"
-    fullname: >-
-      Trevor Dixon
-    location: "United States"
-    followers: 5348
-    engagement: 421
-    commentsToLikes: 0.039659
-    id: ck5bzos3qrkdj0i11z73jhlzo
-    verified: false
-    hashtags: "#philadelphiaphotographer, #dark, #bird, #trees"
+    hashtags: "#fabletics, #mdw2020, #coffeeaddict, #balt"
   - username: "stylesofman"
     fullname: >-
-      Frank
+      Frank Tkachenko
     location: "United States"
-    followers: 261251
-    engagement: 145
-    commentsToLikes: 0.009121
+    followers: 261489
+    engagement: 161
+    commentsToLikes: 0.010634
     id: ck135ifx81l160i19nhbxyndo
     verified: false
-    hashtags: "#fisherandbaker, #thursdayboots, #fieldjacket, #whitetee"
+    hashtags: "#watch, #mensjackets, #desksetup, #gantriathome"
+  - username: "ramirezanavil"
+    fullname: >-
+      Anavil Ramirez 🎙
+    location: "United States"
+    followers: 29426
+    engagement: 503
+    commentsToLikes: 0.030961
+    id: ck5q5gdm7srjs0i11ymyozwk0
+    verified: false
+    hashtags: "#elsue, #fashiondesigner, #manhattannyc, #boysclothes"
+  - username: "clint_lucas"
+    fullname: >-
+      Clint Lucas
+    location: "United States"
+    followers: 54302
+    engagement: 470
+    commentsToLikes: 0.110626
+    id: ck0w55wwu21o40i19vqqljp9g
+    verified: false
+    hashtags: "#mensfashionph, #armoredge, #bullstrap, #fashionnova"
+  - username: "coffeestainedlace"
+    fullname: >-
+      Sydney Paige
+    location: "United States"
+    followers: 7496
+    engagement: 659
+    commentsToLikes: 0.077143
+    id: ck6uefk8yqmaa0j717icpgteo
+    verified: false
+    hashtags: "#denim, #martini, #discovernepa, #theknot"
 ---

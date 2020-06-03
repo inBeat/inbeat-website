@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Italy In 2020
 description: >-
-  Find top fitness Instagram influencers in Italy in 2020. Most popular hashtags: #iorestoacasa #fitness #fitnessaddict #workout.
+  Find top fitness Instagram influencers in Italy in 2020. Most popular hashtags: #workout #giveaway #quarantine #andr.
 platform: Instagram
 profiles:
-  - username: "barbara_busnelli"
+  - username: "lovefit_girl"
     fullname: >-
-      Barbara Busnelli
+      fitness
     location: "Italy"
-    followers: 28286
-    engagement: 751
-    commentsToLikes: 0.206002
-    id: ck8ta4gv1qfwq0j78k5xbwlgf
+    followers: 8271
+    engagement: 1394
+    commentsToLikes: 0.152030
+    id: ck0vv6j7hnrfu0i19g45powzl
     verified: false
-    hashtags: "#womanphotography, #donna, #italianwomen, #semplicit"
+    hashtags: "#tortasacher, #chocomuffin, #dessertrecipes, #almond"
   - username: "angelicaceci95"
     fullname: >-
       Angelica 💙
     location: "Italy"
-    followers: 3037
-    engagement: 3177
-    commentsToLikes: 0.115896
+    followers: 3574
+    engagement: 3013
+    commentsToLikes: 0.137509
     id: ck8t5wrudbi500j78diegkd83
     verified: false
-    hashtags: "#fititalia, #style, #beauty, #health"
+    hashtags: "#beautiful, #exercise, #love, #prozisitalia"
+  - username: "nerinafrancesca"
+    fullname: >-
+      Francesca Nerina 💎
+    location: "Italy"
+    followers: 249928
+    engagement: 710
+    commentsToLikes: 0.037159
+    id: ck8t5753n90v00j78mkte5hhx
+    verified: false
+    hashtags: "#nature, #moon, #cute, #sexy"
   - username: "_sara.grossi_"
     fullname: >-
       Sara Grossi
     location: "Italy"
-    followers: 2776
-    engagement: 2688
-    commentsToLikes: 0.103946
+    followers: 3326
+    engagement: 2557
+    commentsToLikes: 0.120389
     id: ck8tb53ltubc50j782zij5rdn
     verified: false
-    hashtags: "#volere, #instagramers, #times, #desideri"
-  - username: "thefashionjogger"
+    hashtags: "#nature, #verdenatura, #sperlonga, #lovophotography"
+  - username: "serefitfun"
     fullname: >-
-      Lisa Migliorini
+      Serena 🇮🇹28 FITMOM
     location: "Italy"
-    followers: 109293
-    engagement: 455
-    commentsToLikes: 0.041574
-    id: ck8t2jmt5zqv70j78e1rieuey
+    followers: 33033
+    engagement: 877
+    commentsToLikes: 0.052904
+    id: ck5q1b5moa5fh0i11gd1fbr2z
     verified: false
-    hashtags: "#runnergirl, #cardio, #laufen, #fitwomen"
-  - username: "valentina.fitmum"
+    hashtags: "#papa, #koalababycare, #38weekspregnant, #premamanlook"
+  - username: "barbara_busnelli"
     fullname: >-
-      🏋️‍♂️FITMOM🏋️‍♂️
+      Barbara Busnelli
     location: "Italy"
-    followers: 5243
-    engagement: 1897
-    commentsToLikes: 0.205335
-    id: ck5zshjxzyibf0i14l9nnc87z
+    followers: 29027
+    engagement: 736
+    commentsToLikes: 0.222590
+    id: ck8ta4gv1qfwq0j78k5xbwlgf
     verified: false
-    hashtags: "#fitnesslifestyle, #instaworkout, #instamoment, #instamakeup"
-  - username: "leo__em"
+    hashtags: "#sensazioni, #your, #cuore, #coronavirusita"
+  - username: "daniele.gaiti"
     fullname: >-
-      LEO EM
+      Daniele Gaiti
     location: "Italy"
-    followers: 15276
-    engagement: 994
-    commentsToLikes: 0.038361
-    id: ck5c5ma3i3qvt0i111wqr5dva
+    followers: 7808
+    engagement: 1278
+    commentsToLikes: 0.173640
+    id: ck8t50bq08fhu0j78ttv20nhq
     verified: false
-    hashtags: "#nudecolors, #fitnessmodel, #vienna, #greenhoodie"
-  - username: "sonia_dedo"
+    hashtags: "#fashiondiaries, #dapper, #instafashion, #andr"
+  - username: "domenicocamarda_"
     fullname: >-
-      Sonia Barreca💎👑
+      DOMENICO | PERSONAL TRAINER
     location: "Italy"
-    followers: 15564
-    engagement: 996
-    commentsToLikes: 0.035677
-    id: ck8wd0kj4d8xs0j78f76looq7
+    followers: 11617
+    engagement: 1134
+    commentsToLikes: 0.655745
+    id: ck8t45qff5lmx0j78grye67of
     verified: false
-    hashtags: "#biomeccanica, #getmoving, #picoftheday, #6secondi"
-  - username: "anselmoprestini_"
+    hashtags: "#ptonline, #natale2019, #milanomoda, #cute"
+  - username: "anselmoprestinigram"
     fullname: >-
       ANSELMO PRESTINI
     location: "Italy"
-    followers: 81121
-    engagement: 330
-    commentsToLikes: 0.073780
+    followers: 94277
+    engagement: 499
+    commentsToLikes: 0.077981
     id: ck5zrz7awxj0x0i14328g7aca
     verified: false
-    hashtags: "#milanfashionweek, #missonifw20, #tb, #torneremoaviaggiare"
-  - username: "mattia_ceccacci"
+    hashtags: "#40shadesofgym, #quarantine, #milano, #technogym"
+  - username: "stella_pagliuca"
     fullname: >-
-      Mattia Ceccacci
+      Stella Pagliuca
     location: "Italy"
-    followers: 8424
-    engagement: 827
-    commentsToLikes: 0.077894
-    id: ck8tbrz5rwwa10j78msnbbi3q
+    followers: 8967
+    engagement: 1004
+    commentsToLikes: 0.214086
+    id: ck8t6wtxbey2e0j78ya8bzn4b
     verified: false
-    hashtags: ""
-  - username: "instaflaviaso"
-    fullname: >-
-      Flavia Sodano
-    location: "Italy"
-    followers: 55100
-    engagement: 326
-    commentsToLikes: 0.071161
-    id: ck8t5wt06bi6u0j78rmruzfe8
-    verified: false
-    hashtags: "#quarantinelife, #training, #walking, #makeup"
+    hashtags: "#allmomheart, #shein, #influencer, #motivation"
 ---

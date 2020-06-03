@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In India In 2020
 description: >-
-  Find top gardening Instagram influencers in India in 2020. Most popular hashtags: #covid #spi #gardening #photography.
+  Find top gardening Instagram influencers in India in 2020. Most popular hashtags: #corona #plants #gardening #covid19.
 platform: Instagram
 profiles:
-  - username: "mrscookbook"
-    fullname: >-
-      AnitaDas | Indian Food Blogger
-    location: "India"
-    followers: 13882
-    engagement: 1416
-    commentsToLikes: 0.056869
-    id: ck8t85qmrj7fg0j78mzuddnt5
-    verified: false
-    hashtags: "#rice, #bengalicuisine, #food52grams, #easyrecipes"
   - username: "sarmistha_bera"
     fullname: >-
       Sarmistha Bera
     location: "India"
-    followers: 9407
-    engagement: 826
-    commentsToLikes: 0.074733
+    followers: 10497
+    engagement: 1132
+    commentsToLikes: 0.076043
     id: ck14ltkvrwez10i19iffczu8h
     verified: false
-    hashtags: "#life, #ourfotoworld, #instagram, #urbanstreetphotogallery"
+    hashtags: "#colours, #bird, #lockdown, #stayhome"
+  - username: "mrscookbook"
+    fullname: >-
+      AnitaDas | Indian Food Blogger
+    location: "India"
+    followers: 14053
+    engagement: 1219
+    commentsToLikes: 0.063401
+    id: ck8t85qmrj7fg0j78mzuddnt5
+    verified: false
+    hashtags: "#drinks, #ilish, #baking, #mangosmoothie"
   - username: "designdecoranddisha"
     fullname: >-
       Disha Mishra Dubey
     location: "India"
-    followers: 46650
-    engagement: 192
-    commentsToLikes: 0.032428
+    followers: 48712
+    engagement: 205
+    commentsToLikes: 0.033818
     id: ck8t3pabj3z5l0j78ahmk8x6g
     verified: false
-    hashtags: "#indiandecorblogger, #dotart, #green, #homebound"
-  - username: "dabi_tina"
+    hashtags: "#entrywaydecor, #mask, #diyblogger, #indoorplants"
+  - username: "supermom_mitali"
     fullname: >-
-      Tina Dabi
+      Mitali Jakatdar
     location: "India"
-    followers: 525185
-    engagement: 1654
-    commentsToLikes: 0.007316
-    id: ck15q6riz1dnr0i19zvkf02wv
+    followers: 35251
+    engagement: 297
+    commentsToLikes: 0.091798
+    id: ckaosp0e0sfxs0i7883kqlmcx
+    verified: false
+    hashtags: "#color, #sunset, #sundayfunday, #supermom"
+  - username: "duskymusky_"
+    fullname: >-
+      Arch! Lifestyle|Travel 🤟
+    location: "India"
+    followers: 19564
+    engagement: 1101
+    commentsToLikes: 0.061236
+    id: ck9wg02ffraes0j78225lymm0
+    verified: false
+    hashtags: "#colors, #inspire, #neverbackdown, #beingsocial"
+  - username: "madhura1307"
+    fullname: >-
+      Jaan
+    location: "India"
+    followers: 6715
+    engagement: 1085
+    commentsToLikes: 0.058219
+    id: ck8t6h8u1dmkz0j78dqytiq89
+    verified: false
+    hashtags: "#punjabisongs, #travelislife, #bohotgarmihaiaj, #jawlinegoals"
+  - username: "officialgarimajain"
+    fullname: >-
+      Garima Jain
+    location: "India"
+    followers: 160931
+    engagement: 386
+    commentsToLikes: 0.027131
+    id: ck5zkt1knk3zc0i14t0e2ogca
     verified: true
-    hashtags: "#gardening"
-  - username: "majestic_mum"
+    hashtags: "#handmade, #shivji, #influencerlife, #fashionblogger"
+  - username: "saii.ranade"
     fullname: >-
-      Riya Mitra | Kolkata Blogger
+      Saii Ranade-Sane
     location: "India"
-    followers: 3108
-    engagement: 2172
-    commentsToLikes: 0.124170
-    id: ck8t73p31fjin0j78bzz43v9g
+    followers: 45485
+    engagement: 260
+    commentsToLikes: 0.044375
+    id: ck15qafjz1vz40i19frlfs5dt
     verified: false
-    hashtags: "#coronagoaway, #chalubhaluz, #onemoment, #stayhealthy"
-  - username: "kareshdesai"
+    hashtags: "#winter, #iloveyou, #girlpower, #letsfight"
+  - username: "aashiiwadhwa"
     fullname: >-
-      “KARESH DESAI” |GOA || INDIA |
+      Aashi Wadhwa
     location: "India"
-    followers: 6515
-    engagement: 2949
-    commentsToLikes: 0.014512
-    id: ck8tcbswiyz1l0j7886zngo1h
+    followers: 298707
+    engagement: 634
+    commentsToLikes: 0.010088
+    id: ck0vwujtzvnzv0i19lx21d2e4
     verified: false
-    hashtags: "#anotherelement, #waterfallsofinstagram, #redbullmusic, #mumbai"
-  - username: "monica_sharma15"
+    hashtags: "#lockdown2, #selfportrait, #playgames, #aesthetics"
+  - username: "breathtaking.postcards"
     fullname: >-
-      Monica Sharma
+      Breathtaking Postcards
     location: "India"
-    followers: 347482
-    engagement: 442
-    commentsToLikes: 0.010148
-    id: ck138mjjmgymn0i19y3j7smg2
-    verified: true
-    hashtags: "#outfits, #letsplay, #denim, #influencer"
-  - username: "jstn_pol"
-    fullname: >-
-      Justin Paul
-    location: "India"
-    followers: 13432
-    engagement: 546
-    commentsToLikes: 0.014661
-    id: ck0w245n4mjad0i19jsfrkge9
+    followers: 34672
+    engagement: 345
+    commentsToLikes: 0.022386
+    id: ck0u0e2r1tirc0i19b8m710tj
     verified: false
-    hashtags: "#mohanlal, #kochi, #love, #mensday"
-  - username: "vikramsingh_chauhan"
-    fullname: >-
-      Vikram Singh Chauhan
-    location: "India"
-    followers: 472989
-    engagement: 1908
-    commentsToLikes: 0.012962
-    id: ck15t143mftof0i190euo6ygx
-    verified: true
-    hashtags: "#momentslikethese, #seaview, #shravan, #gardening"
-  - username: "indrajit_patil"
-    fullname: >-
-      Indrajit Patil
-    location: "India"
-    followers: 2965
-    engagement: 2336
-    commentsToLikes: 0.082447
-    id: ck0w4e7pmy55f0i197sim6y9e
-    verified: false
-    hashtags: "#dumplings, #creativity, #lonelyplanetindia, #globe"
+    hashtags: "#southeastasia, #vietnamtravel, #voyager, #homedecor"
 ---

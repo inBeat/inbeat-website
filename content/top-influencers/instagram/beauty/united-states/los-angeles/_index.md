@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top beauty Instagram influencers in Los Angeles in 2020. Most popular hashtags: #fashion #makeup #beauty #style.
+  Find top beauty Instagram influencers in Los Angeles in 2020. Most popular hashtags: #beauty #tiktok #ad #losangeles.
 platform: Instagram
 profiles:
   - username: "haleygable"
     fullname: >-
-      Haley Gable
+      Haley Gable ∙ #thebtcteam
     location: "United States"
-    followers: 6859
-    engagement: 655
-    commentsToLikes: 0.097444
+    followers: 7486
+    engagement: 648
+    commentsToLikes: 0.122258
     id: ck13agq92qazw0i190wwc6lb1
     verified: false
-    hashtags: "#behindthechair, #isse, #colorstyletrophy, #lorealprous"
+    hashtags: "#colorstyletrophy, #btconeshot2020, #quarantinehair, #tiktok"
   - username: "morebeverlycherie"
     fullname: >-
-      BEVERLYCHERIE
+      
     location: "United States"
-    followers: 2065
-    engagement: 983
-    commentsToLikes: 0.184381
+    followers: 2158
+    engagement: 1124
+    commentsToLikes: 0.200158
     id: ck5q7jy241x3e0i11awiu1c5y
     verified: false
-    hashtags: "#nars, #ultabeauty, #briogeo, #selfcaresunday"
-  - username: "cityangelic"
+    hashtags: "#kkwbeauty, #ultabeauty, #lilahb, #sharethecare"
+  - username: "gisela_colon_"
     fullname: >-
-      Angelic Brockman | Model
+      Gisela Colon
     location: "United States"
-    followers: 3314
-    engagement: 1182
-    commentsToLikes: 0.134283
-    id: ck137pfjmcpi60i19mdzfvrho
+    followers: 8679
+    engagement: 459
+    commentsToLikes: 0.032876
+    id: ck6tsux4f6ywg0j710m3lg6zr
     verified: false
-    hashtags: "#texasmodels, #modelspower, #lashes, #modelsofinstagram"
-  - username: "itsambermariee"
+    hashtags: "#elyunquerainforest, #vivianyee, #inspirex, #energy"
+  - username: "brittanycarel"
     fullname: >-
-      Amber Marie💋
+      BRITTANY CAREL
     location: "United States"
-    followers: 11665
-    engagement: 479
-    commentsToLikes: 0.097315
-    id: ck8t0bjzari8m0j78xhush243
+    followers: 18360
+    engagement: 345
+    commentsToLikes: 0.051667
+    id: ck5zys49fafd10i14zi702mny
     verified: false
-    hashtags: "#tuesday, #cast, #portrait, #health"
-  - username: "muhlisa_n"
-    fullname: >-
-      ⋇⋆✦⋆⋇ Mᴜʜʟɪsᴀ ⋇⋆✦⋆⋇
-    location: "United States"
-    followers: 77100
-    engagement: 190
-    commentsToLikes: 0.017961
-    id: ck138g7sxg2v50i19lcn64xfn
-    verified: false
-    hashtags: "#sunset, #sincity, #landscapephotography, #newyorklife"
-  - username: "amandadiazdotcom"
-    fullname: >-
-      Amanda Diaz
-    location: "United States"
-    followers: 57864
-    engagement: 218
-    commentsToLikes: 0.015748
-    id: ck5zmvr7pnb0a0i14x1z6cpry
-    verified: false
-    hashtags: "#freckles, #80sfashion, #braids, #lemons"
-  - username: "adriana.brito_"
-    fullname: >-
-      Adriana Brito
-    location: "United States"
-    followers: 29740
-    engagement: 303
-    commentsToLikes: 0.069068
-    id: ck8t7e68kgh4r0j78jf1s7pda
-    verified: false
-    hashtags: "#givenchy, #inspo, #palmspringsstyle, #photography"
-  - username: "lipstickittty"
-    fullname: >-
-      tiktok: lipstickittty
-    location: "United States"
-    followers: 54887
-    engagement: 147
-    commentsToLikes: 0.033011
-    id: ck8t1oq6vwgur0j78w3ocg849
-    verified: false
-    hashtags: "#curlyhair, #facemorph, #colourpopme, #crueltyfreebeauty"
-  - username: "monti_wheeler"
-    fullname: >-
-      Monti Wheeler
-    location: "United States"
-    followers: 42859
-    engagement: 257
-    commentsToLikes: 0.068175
-    id: ck6u155h9jnlp0j71uo2jl2tn
-    verified: false
-    hashtags: "#happymonday, #myfabletics, #moveinfabletics"
+    hashtags: "#sportsillustrated, #78, #beautyphotography, #beautyretouch"
   - username: "claudiagraziano"
     fullname: >-
-      CLAUDIA GRAZIANO
+      claudia graziano
     location: "United States"
-    followers: 168787
-    engagement: 351
-    commentsToLikes: 0.019902
+    followers: 183595
+    engagement: 439
+    commentsToLikes: 0.022395
     id: ck0u740863nii0i19spw7yfn0
     verified: false
-    hashtags: "#superpuff, #goisolateyourself, #pleasewashyourhands, #tigerking"
+    hashtags: "#stayweird, #thisisann, #ad, #boloneyewear"
+  - username: "theglamannequin"
+    fullname: >-
+      KEELA | Style Influencer
+    location: "United States"
+    followers: 24901
+    engagement: 504
+    commentsToLikes: 0.287095
+    id: ck55q9h5qch6r0i11pr3glojs
+    verified: false
+    hashtags: "#realfashionforrealpeople, #leather, #staypositive, #lovedclotheslast"
+  - username: "rorygaudio"
+    fullname: >-
+      Rory Gaudio Makeup Artist
+    location: "United States"
+    followers: 2425
+    engagement: 1985
+    commentsToLikes: 0.074857
+    id: ck5zu31gr1l600i14h2ck6ykz
+    verified: false
+    hashtags: "#naturalglam, #hotgirlsummer, #redlipstick, #naturalmakeuplook"
+  - username: "hodaya_c"
+    fullname: >-
+      H O D A Y A  C O H E N
+    location: "United States"
+    followers: 107149
+    engagement: 322
+    commentsToLikes: 0.011224
+    id: ck5pzaunv02uz0i117t0usff7
+    verified: false
+    hashtags: "#goodsquad, #okaytoslay, #revolvefestival, #nochella"
+  - username: "tommy_flanagan"
+    fullname: >-
+      LOS ANGELES PHOTOGRAPHER
+    location: "United States"
+    followers: 32359
+    engagement: 184
+    commentsToLikes: 0.056676
+    id: ck0w56bbz23qj0i192rni55op
+    verified: false
+    hashtags: ""
+  - username: "melissasandora"
+    fullname: >-
+      melissa sandora
+    location: "United States"
+    followers: 2542
+    engagement: 1093
+    commentsToLikes: 0.107374
+    id: ck5zmintsmn730i141cc8a5d6
+    verified: false
+    hashtags: "#paris, #muahawards2020, #modernfamilymakeupandhair, #local706"
 ---

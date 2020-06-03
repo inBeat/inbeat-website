@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #tattoo #tattoos #love.
+  Find top tattoo-artists Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #tattooartist #tattoo #tattoos.
 platform: Instagram
 profiles:
-  - username: "sabinakelley"
+  - username: "lealigot"
     fullname: >-
-      Sabina Kelley
+      𝓛𝓮𝓪 𝓛𝓲𝓰𝓸𝓽 🌸✨
     location: "United States"
-    followers: 199017
-    engagement: 89
-    commentsToLikes: 0.022978
-    id: ck0u049lasiao0i1907xsdsrz
-    verified: true
-    hashtags: "#camohat, #countryshow, #retrofashion, #sabinakelleycalendar"
-  - username: "inked.exclusives"
-    fullname: >-
-      
-    location: "United States"
-    followers: 30762
-    engagement: 70
-    commentsToLikes: 0.003824
-    id: ck5cffuv2mvc10i116l0bvdiq
+    followers: 12554
+    engagement: 564
+    commentsToLikes: 0.013789
+    id: ckap74yuainph0i78vay5tf5a
     verified: false
-    hashtags: "#inkedbabe, #pretty, #dmade, #inkedmodels"
-  - username: "noelinwheeler"
+    hashtags: "#animalcrossinglily, #kawaiitattoo, #sailormoon, #rilakkuma"
+  - username: "painfulreminders"
     fullname: >-
-      Noelin Wheeler
+      Schwab
     location: "United States"
-    followers: 33989
-    engagement: 163
-    commentsToLikes: 0.043933
-    id: ck5q7wkhg3dzl0i11ycxuseuz
+    followers: 43631
+    engagement: 105
+    commentsToLikes: 0.035030
+    id: ck55mghuh3ws60i11mxzllvaj
     verified: false
-    hashtags: "#planetiers, #tattoo, #captainamerica, #events"
+    hashtags: "#greta, #ink, #skull, #frankenweenie"
+  - username: "mannysrevolution"
+    fullname: >-
+      Las Vegas Tattoo Artist
+    location: "United States"
+    followers: 16454
+    engagement: 348
+    commentsToLikes: 0.024756
+    id: ck55km9j8znat0i11yvjnur3a
+    verified: false
+    hashtags: "#summerlin, #tattoos, #goldenknights, #lasvegasblvd"
   - username: "heidi_dangerouslychicbrows"
     fullname: >-
       Heidi Lynne
     location: "United States"
-    followers: 26932
-    engagement: 111
-    commentsToLikes: 0.018511
+    followers: 26430
+    engagement: 38
+    commentsToLikes: 0.047644
     id: ck136pg3c7m6p0i19oge4fa2x
     verified: false
-    hashtags: "#estetica, #browtrainer, #dbrows, #lashlift"
+    hashtags: "#loves, #lipblushing, #freedom, #bosslady"
   - username: "robert_pho"
     fullname: >-
       Robert Pho
     location: "United States"
-    followers: 45383
-    engagement: 402
-    commentsToLikes: 0.031384
+    followers: 47045
+    engagement: 421
+    commentsToLikes: 0.032638
     id: ck6tr001cvwpm0j719y9nzgv9
     verified: false
-    hashtags: "#carcollector, #japanesepioneer, #lasvegas, #leadthefollowers"
-  - username: "ellepleure"
+    hashtags: "#lasvegas, #collaboration, #palilookout, #stayblessed"
+  - username: "mdanielsphoto"
     fullname: >-
-      Ellepleure
+      Malik Daniels
     location: "United States"
-    followers: 111815
-    engagement: 665
-    commentsToLikes: 0.004154
-    id: ck136zmls91y40i19cw1efwvu
+    followers: 8553
+    engagement: 291
+    commentsToLikes: 0.102663
+    id: ck0vx2lr5wu1a0i19c5ra2hin
     verified: false
-    hashtags: "#flashtattoo, #snaketattoo, #watercolorillustration, #dumb"
-  - username: "vaultt_tec"
-    fullname: >-
-      Hoagie
-    location: "United States"
-    followers: 6234
-    engagement: 546
-    commentsToLikes: 0.023977
-    id: ck6ug9dap1okp0j71r14uvxb1
-    verified: false
-    hashtags: "#holbiengouache, #sparrowtattoo, #borderlands3, #pins"
+    hashtags: "#lamakeupartist, #nhie, #netflixoriginal, #beautylook"
   - username: "kommienezuspadt"
     fullname: >-
       Lars Kommienezuspadt
     location: "United States"
-    followers: 38219
-    engagement: 332
-    commentsToLikes: 0.023946
+    followers: 38368
+    engagement: 351
+    commentsToLikes: 0.028821
     id: ck0w1mpcpk3h30i19k3ilnfm8
     verified: false
-    hashtags: "#editorial, #curves, #goth, #newyorkcity"
-  - username: "tupac_shakkur"
-    fullname: >-
-      Tupac Amaru Shakur
-    location: "United States"
-    followers: 41151
-    engagement: 1325
-    commentsToLikes: 0.024922
-    id: ck0u60tn50lra0i19bayn9c6d
-    verified: false
-    hashtags: "#2pacshakur, #rappers, #westcoasthiphop, #great"
+    hashtags: "#patreon, #westcoast, #lisadeltoro, #southern"
   - username: "joekillmeister"
     fullname: >-
       JOE KILLMEISTER
     location: "United States"
-    followers: 15878
-    engagement: 286
-    commentsToLikes: 0.048112
+    followers: 17670
+    engagement: 263
+    commentsToLikes: 0.046100
     id: ck5cbg4k4fcxz0i113ylde75n
     verified: false
-    hashtags: "#pumpkin, #sideshowclown, #circuscircus, #insane"
+    hashtags: "#smoke, #idiot, #killertattooguy, #igtattoo"
+  - username: "missmaelaroux"
+    fullname: >-
+      Mae La Roux
+    location: "United States"
+    followers: 84764
+    engagement: 204
+    commentsToLikes: 0.013469
+    id: ck6u74ovgjgpp0j71fcf0tm97
+    verified: false
+    hashtags: "#mickeyears, #hauntedmansionbride, #poker, #californiaadventure"
+  - username: "henna.videos"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀• B E A U T I F U L  •
+    location: "United States"
+    followers: 45171
+    engagement: 156
+    commentsToLikes: 0.007316
+    id: ck0u7d93c4hni0i19q6sontmm
+    verified: false
+    hashtags: "#pakistan, #fresno, #instadaily, #sandiego"
 ---

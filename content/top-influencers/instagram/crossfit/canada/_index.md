@@ -1,107 +1,107 @@
 ---
 title: Top 10 Crossfit Instagram Influencers In Canada In 2020
 description: >-
-  Find top crossfit Instagram influencers in Canada in 2020. Most popular hashtags: #crossfit #fitness #crossfitgames #workout.
+  Find top crossfit Instagram influencers in Canada in 2020. Most popular hashtags: #deadlift #vacation #blackandwhite #throwback.
 platform: Instagram
 profiles:
   - username: "aaparker1"
     fullname: >-
       Alex Parker
     location: "Canada"
-    followers: 50039
-    engagement: 349
-    commentsToLikes: 0.020269
+    followers: 49660
+    engagement: 347
+    commentsToLikes: 0.026513
     id: ck0vweg7wtbpd0i19s7p5by66
     verified: false
-    hashtags: "#selfisolation, #crossfitopen2020, #crossfitgames, #supplements"
+    hashtags: "#synchro, #benchpress, #bornprimitive, #crossfitgirls"
+  - username: "etienneaudet"
+    fullname: >-
+      Etienne Audet
+    location: "Canada"
+    followers: 8336
+    engagement: 1404
+    commentsToLikes: 0.019856
+    id: ck5zmuo1en91q0i148ziw2v70
+    verified: false
+    hashtags: "#gaymer, #newlook, #swimsuit, #sunsoutgunsout"
   - username: "natbeers"
     fullname: >-
       nat beers
     location: "Canada"
-    followers: 20660
-    engagement: 390
-    commentsToLikes: 0.022657
+    followers: 20796
+    engagement: 283
+    commentsToLikes: 0.025673
     id: ck8tb6fizuhi90j78qmurt7bm
     verified: false
-    hashtags: "#personalspaceenthusiast"
-  - username: "_raychkay"
+    hashtags: "#imthefunniestpersoniknow, #diybangs, #personalspaceenthusiast, #getit"
+  - username: "melodieallard"
     fullname: >-
-      Rachel Kenney🏋🏼‍♀️☠️
+      Mélodie Allard
     location: "Canada"
-    followers: 123601
-    engagement: 529
-    commentsToLikes: 0.015980
-    id: ck0w4scr4068x0i19egc4lbup
+    followers: 126240
+    engagement: 359
+    commentsToLikes: 0.015130
+    id: ck5c6vbrz69tb0i11hcjn6wc7
     verified: false
-    hashtags: "#backintheusa, #quarentine, #coffeeaddict, #positivity"
-  - username: "cprevost27"
+    hashtags: "#barbellcartel, #stayput, #montreal, #lockdown2020"
+  - username: "sportybethcf"
     fullname: >-
-      Carolyne Prevost
+      🏋🏼‍♀️Bethany Robinson SASWDW⚔️
     location: "Canada"
-    followers: 6611
-    engagement: 619
-    commentsToLikes: 0.069470
-    id: ck14jy99amrqk0i19ekjrpotj
+    followers: 19185
+    engagement: 331
+    commentsToLikes: 0.041306
+    id: ck6u5c0318r4p0j71s6izbty0
     verified: false
-    hashtags: "#quarantining, #blessedyear, #crossfit, #multitasking"
-  - username: "juiceboxxofficial"
+    hashtags: "#mentalhealthweek, #haes"
+  - username: "emily_rolfe19"
     fullname: >-
-      JuiceBoxx 💋
+      Emily Rolfe
     location: "Canada"
-    followers: 10751
-    engagement: 711
-    commentsToLikes: 0.035567
-    id: ck5zsu6qtz71t0i14vhgauquy
+    followers: 9284
+    engagement: 694
+    commentsToLikes: 0.050012
+    id: ck6tvc0b7ld820j710i3mp25u
     verified: false
-    hashtags: "#crossfit, #dragqueen, #backonmybullshit"
+    hashtags: "#acrobatics, #dreamitdoit, #uniteinmovement, #staystrong"
   - username: "pvellner"
     fullname: >-
       Patrick Vellner
     location: "Canada"
-    followers: 541089
-    engagement: 182
-    commentsToLikes: 0.005916
+    followers: 564429
+    engagement: 156
+    commentsToLikes: 0.005047
     id: ck0vuzmz0mvc50i192pzozulu
     verified: true
-    hashtags: "#reebok, #training, #heyhowwasthat, #bemerry"
+    hashtags: "#socialdistancing, #obstaclecourse, #wodproofapp, #covid"
   - username: "fikowski"
     fullname: >-
       Brent Fikowski
     location: "Canada"
-    followers: 601213
-    engagement: 137
-    commentsToLikes: 0.006837
+    followers: 626703
+    engagement: 194
+    commentsToLikes: 0.010802
     id: ck0twflq6f5h00i190rbyi6rp
     verified: true
-    hashtags: "#peopleexercising, #fitness, #vikingsweightliftingclub, #theofficialsponsorofhardwork"
-  - username: "athleticfitworld"
+    hashtags: "#redhair, #tablesideflambeplease, #arewethereyet, #graboidgang"
+  - username: "adamevans"
     fullname: >-
-      ⚡️AMAZING ATHLETICS ⚡️
+      Adam Evans 道 æ मैत् ॐ
     location: "Canada"
-    followers: 10428
-    engagement: 855
-    commentsToLikes: 0.051772
-    id: ck0u2eik5zo8g0i19ojoa2zfy
+    followers: 69295
+    engagement: 914
+    commentsToLikes: 0.043490
+    id: ckap0zgz1sh880i788327jvdu
     verified: false
-    hashtags: "#forearmbalance, #orangetheoryfitness, #boxjump, #pullupbar"
-  - username: "itsmarshallw"
+    hashtags: "#hikingworldwide, #natureaddict, #hikemore, #hikingtheglobe"
+  - username: "sniggyblog"
     fullname: >-
-      Marshall Williams
+      Snigdha Choudhury
     location: "Canada"
-    followers: 125013
-    engagement: 394
-    commentsToLikes: 0.019844
-    id: ck0ueabybkyjh0i198w3b8fc6
-    verified: true
-    hashtags: "#community, #scubadiver, #baliindonesia, #canggubali"
-  - username: "jakeberman44"
-    fullname: >-
-      Jake Berman
-    location: "Canada"
-    followers: 4485
-    engagement: 1213
-    commentsToLikes: 0.051945
-    id: ck6tvc1vhldhn0j717n82j6mu
+    followers: 10355
+    engagement: 591
+    commentsToLikes: 0.230474
+    id: ck9wf6zkkngoe0j787jelpq1m
     verified: false
-    hashtags: "#20point2, #crossfitgames, #intheopen, #20point4"
+    hashtags: "#zarawoman, #chicwishfashion, #misstheheat, #mumbaiblogger"
 ---

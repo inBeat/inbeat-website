@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top food Instagram influencers in San Francisco in 2020. Most popular hashtags: #repost #sffoodie #bayareafoodie #bayareaeats.
+  Find top food Instagram influencers in San Francisco in 2020. Most popular hashtags: #food #sanfrancisco #ad #stayhome.
 platform: Instagram
 profiles:
   - username: "chefaaronmay"
     fullname: >-
       Aaron May
     location: "United States"
-    followers: 16506
-    engagement: 565
-    commentsToLikes: 0.050801
+    followers: 17833
+    engagement: 490
+    commentsToLikes: 0.051343
     id: ck5zvxnga53qa0i14l4w0sngu
     verified: true
-    hashtags: "#tournamentofchampions, #ruizing, #guysgrocerygames, #foodnetwork"
-  - username: "sanfrancisco.city"
-    fullname: >-
-      🌉Sᴀɴ Fʀᴀɴᴄɪsᴄᴏ Cɪᴛʏ 🌉
-    location: "United States"
-    followers: 176317
-    engagement: 219
-    commentsToLikes: 0.011730
-    id: ck0u1bd62wezl0i193tx9gq19
-    verified: false
-    hashtags: "#abc7eyewitness, #bostoncommon, #usaprimeshot, #bayarea"
+    hashtags: "#guysbiggame, #guysranchkitchen, #rainbowtacochallenge, #food"
   - username: "alessa"
     fullname: >-
       Alessa | アレッサ 💫
     location: "United States"
-    followers: 12759
-    engagement: 930
-    commentsToLikes: 0.092588
+    followers: 13915
+    engagement: 907
+    commentsToLikes: 0.088473
     id: ck14gwkbf7e1m0i191nzti4t0
     verified: false
-    hashtags: "#revolveme, #ad, #gsqbyglamsquad"
+    hashtags: "#lifeathome, #coachny, #ad, #lovemyvoloom"
   - username: "nick_muncy"
     fullname: >-
       Nick Muncy
     location: "United States"
-    followers: 16005
-    engagement: 332
-    commentsToLikes: 0.024277
+    followers: 16218
+    engagement: 299
+    commentsToLikes: 0.029784
     id: ck139xxmvno6e0i194nbmpxfc
     verified: false
-    hashtags: "#forchefsbychefs, #pride, #pyramidofmuncy, #losingyourmindwithchriscosentino"
+    hashtags: "#saverestaurants, #togetherwecan, #toothachemag, #forchefsbychefs"
+  - username: "sfshock"
+    fullname: >-
+      San Francisco Shock
+    location: "United States"
+    followers: 115263
+    engagement: 374
+    commentsToLikes: 0.016924
+    id: ck139907lk4a60i1932cr7fjn
+    verified: true
+    hashtags: "#road, #show, #chewbacca, #ever"
   - username: "allie.eats"
     fullname: >-
       Allie Tong | Food + Travel
     location: "United States"
-    followers: 36945
-    engagement: 277
-    commentsToLikes: 0.112981
+    followers: 37152
+    engagement: 284
+    commentsToLikes: 0.125924
     id: ck0u0hjaztpnv0i194lniunog
     verified: false
-    hashtags: "#sanfrancisco, #sfeats, #bayarea, #ithacahummusatwholefoods"
-  - username: "betweenballoons"
+    hashtags: "#photoshop, #editingtutorial, #foodphotographer, #bayarea"
+  - username: "the_happyepicurean"
     fullname: >-
-      Between Balloons 🎈Bay Area
+      Tim Delgado Macalino
     location: "United States"
-    followers: 10319
-    engagement: 507
-    commentsToLikes: 0.191922
-    id: ck5caelewd9qp0i118wsxj5ik
+    followers: 8072
+    engagement: 1373
+    commentsToLikes: 0.097063
+    id: ck14i4kmedm3p0i19a6a4gntb
     verified: false
-    hashtags: "#gongcha, #bpatisserie, #boba, #denvereats"
-  - username: "therealkristenmarie"
+    hashtags: "#lchfsnack, #giveawayalert, #lowsugardiet, #coffee"
+  - username: "kevinkwanloucks"
     fullname: >-
-      KRISTEN | 🍷Wine Country Chick
+      KEVIN KWAN LOUCKS
     location: "United States"
-    followers: 29988
-    engagement: 283
-    commentsToLikes: 0.112390
-    id: ck5hj4epffzb80i11rvsk2i3j
+    followers: 9052
+    engagement: 974
+    commentsToLikes: 0.001034
+    id: ckap7awnqja590i78fybbcrzc
     verified: false
-    hashtags: "#nationaldrinkwineday, #wineaboutit, #stayhome, #snacks"
+    hashtags: "#myhero, #conference, #picasso, #education"
+  - username: "asideofsweet"
+    fullname: >-
+      San Francisco Food + Travel
+    location: "United States"
+    followers: 33732
+    engagement: 306
+    commentsToLikes: 0.097179
+    id: ck0tvwfxpd3350i19hnphbesd
+    verified: false
+    hashtags: "#reformation, #flatlaysquad, #girlgang, #flowerwall"
+  - username: "photogenicfoodies"
+    fullname: >-
+      San Francisco Food & Creative
+    location: "United States"
+    followers: 15011
+    engagement: 281
+    commentsToLikes: 0.024651
+    id: ck5q60mh2ve9c0i119fjhtuqx
+    verified: false
+    hashtags: "#restaurantweek"
   - username: "nantuck3t"
     fullname: >-
       nanette
     location: "United States"
-    followers: 48185
-    engagement: 109
-    commentsToLikes: 0.114434
+    followers: 47947
+    engagement: 112
+    commentsToLikes: 0.115029
     id: ck6u3vh8i04e70j71t7moub0j
     verified: false
-    hashtags: "#saintjosephsartssociety, #amexambassador, #ad, #footonsink"
-  - username: "peachonomics"
-    fullname: >-
-      P E A C H O N O M I C S
-    location: "United States"
-    followers: 113811
-    engagement: 377
-    commentsToLikes: 0.047654
-    id: ck0uapkypcskl0i19pfl0mapw
-    verified: false
-    hashtags: "#sproutedgrain, #ramennoodles, #fishfriday, #nakanoflavors"
-  - username: "valeriefidan"
-    fullname: >-
-      Valerie
-    location: "United States"
-    followers: 34295
-    engagement: 153
-    commentsToLikes: 0.055708
-    id: ck0u8kndl7jra0i19384wxxcx
-    verified: false
-    hashtags: "#jdvhotels, #worththelaugh, #smoothiebowls, #selfquarantine"
+    hashtags: "#chicagohome, #takemebacktochicago, #enrichthejourney, #neverstopexploring"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Berlin In 2020
 description: >-
-  Find top rappers Instagram influencers in Berlin in 2020. Most popular hashtags: #rap #berlin #rapper #deutschrap.
+  Find top rappers Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #rapper #live #hiphop.
 platform: Instagram
 profiles:
-  - username: "djcraftkiz"
-    fullname: >-
-      Sil-Yan Bori
-    location: "Germany"
-    followers: 20752
-    engagement: 263
-    commentsToLikes: 0.017381
-    id: ck5pzvwqz30bk0i119tnz42zy
-    verified: true
-    hashtags: "#party, #hiphop, #jam, #rap"
-  - username: "ursapremik"
-    fullname: >-
-      Ursa Premik 📷
-    location: "Germany"
-    followers: 17479
-    engagement: 369
-    commentsToLikes: 0.003512
-    id: ck5cdx8sejyhj0i119pslvnn6
-    verified: false
-    hashtags: "#portrait, #nederland, #queen, #singer"
-  - username: "bangsaob"
-    fullname: >-
-      ❌ALLES GEFICKT - OUT NOW❌
-    location: "Germany"
-    followers: 5652
-    engagement: 963
-    commentsToLikes: 0.054885
-    id: ck6uhaing7zp10j71hoiw6el8
-    verified: false
-    hashtags: "#luvre47, #berliner, #rap, #musik"
-  - username: "bantunationofficial"
-    fullname: >-
-      BantuNation
-    location: "Germany"
-    followers: 7357
-    engagement: 452
-    commentsToLikes: 0.026954
-    id: ck5c3lwguzl7x0i11o3dz9xem
-    verified: false
-    hashtags: "#tickets, #neuemusik, #music, #release"
-  - username: "amewu777"
-    fullname: >-
-      Amewu
-    location: "Germany"
-    followers: 9184
-    engagement: 565
-    commentsToLikes: 0.065246
-    id: ck6tw2m6ypnoz0j719cu05nr2
-    verified: false
-    hashtags: "#ontour, #newsingle, #acapella, #kleineseelen"
-  - username: "kingkaan545"
-    fullname: >-
-      KINGKAAN
-    location: "Germany"
-    followers: 6555
-    engagement: 2616
-    commentsToLikes: 0.043876
-    id: ck8t37ieq26yr0j780ifls0jp
-    verified: false
-    hashtags: "#heim, #frankfurt, #granate, #deutschrap"
-  - username: "yoz7i"
-    fullname: >-
-      Yoz¡
-    location: "Germany"
-    followers: 8269
-    engagement: 2044
-    commentsToLikes: 0.029661
-    id: ck5zvw52650pq0i148gg0gdu1
-    verified: false
-    hashtags: "#real, #siewartenalleschon, #2020dasjahrderver, #ripnatedogg"
-  - username: "aletik_original"
-    fullname: >-
-      𝗔𝗹𝗲𝘁𝗶𝗸
-    location: "Germany"
-    followers: 10655
-    engagement: 2977
-    commentsToLikes: 0.026116
-    id: ck8t15zn2uj9x0j78rss4ldoe
-    verified: false
-    hashtags: "#germanhiphop, #music, #bonezmc, #azet"
-  - username: "aello.offiziell"
-    fullname: >-
-      Ällo
-    location: "Germany"
-    followers: 8132
-    engagement: 689
-    commentsToLikes: 0.231835
-    id: ck5hg8bi91gjs0i11k24nigmq
-    verified: false
-    hashtags: "#beatmakers, #song, #berlin, #bonezmc"
   - username: "benrashots"
     fullname: >-
       Benjamin Rapp
     location: "Germany"
-    followers: 27777
-    engagement: 372
-    commentsToLikes: 0.075927
+    followers: 26982
+    engagement: 389
+    commentsToLikes: 0.074950
     id: ck13a2ke3obes0i19orrcfzss
     verified: false
-    hashtags: "#justaddsole, #sonyphotography, #portraitstream, #manportrait"
+    hashtags: "#way2ill, #visualart, #agameoftones, #highsnobiety"
+  - username: "sido_shawnstein"
+    fullname: >-
+      Sido
+    location: "Germany"
+    followers: 21225
+    engagement: 454
+    commentsToLikes: 0.022451
+    id: ckap4jdr07mqx0i78xg7wx3o6
+    verified: false
+    hashtags: "#youtube"
+  - username: "fabianstuertz"
+    fullname: >-
+      Fabian Stürtz
+    location: "Germany"
+    followers: 5128
+    engagement: 373
+    commentsToLikes: 0.013217
+    id: ck5cbmxkmfro70i116bupk8lx
+    verified: false
+    hashtags: "#viagem, #ocean, #poetryslam, #atmosphere"
+  - username: "bzberlin"
+    fullname: >-
+      B.Z.-Berlin
+    location: "Germany"
+    followers: 21701
+    engagement: 473
+    commentsToLikes: 0.080419
+    id: ck5hgmk8o3l9e0i116k78dv6z
+    verified: true
+    hashtags: "#teamcapi, #coronahelden, #teslafabrik, #lesbisch"
+  - username: "miki_malochersohn"
+    fullname: >-
+      M.I.K.I
+    location: "Germany"
+    followers: 22697
+    engagement: 556
+    commentsToLikes: 0.029667
+    id: ck5zxn1gl8bdj0i14veuienng
+    verified: true
+    hashtags: "#herzschmerz, #gemeinsam, #stoneisland, #alleskomisch"
+  - username: "ayben"
+    fullname: >-
+      Ayben
+    location: "Germany"
+    followers: 120806
+    engagement: 881
+    commentsToLikes: 0.016054
+    id: ck5hsncfgwvke0i11755k28u5
+    verified: true
+    hashtags: "#karanl, #breakthesilence, #ayband, #milyonbeachfest"
+  - username: "drobdynamic"
+    fullname: >-
+      Drob Dynamic
+    location: "Germany"
+    followers: 6521
+    engagement: 964
+    commentsToLikes: 0.024802
+    id: ck5ce7iykkhla0i11yoegqsb7
+    verified: false
+    hashtags: "#jebemti, #2020kannkommen, #happy, #berlin"
+  - username: "thelifeofcurly"
+    fullname: >-
+      Curly
+    location: "Germany"
+    followers: 10298
+    engagement: 465
+    commentsToLikes: 0.037365
+    id: ck6trmri1zvxv0j71ty7scqto
+    verified: true
+    hashtags: "#venicebeachtour, #badhairday, #precorona, #sorrynotsorry"
+  - username: "rillaoffiziell"
+    fullname: >-
+      RILLA
+    location: "Germany"
+    followers: 9639
+    engagement: 706
+    commentsToLikes: 0.045280
+    id: ck6tlvvgt6qdj0j71jgcbf4hv
+    verified: false
+    hashtags: "#beachlife, #masterofceremonies, #nnocmedia, #musik"
+  - username: "yassofficial040"
+    fullname: >-
+      Yass // Yasmin K
+    location: "Germany"
+    followers: 5811
+    engagement: 942
+    commentsToLikes: 0.068932
+    id: ck6tvfghslxp50j71kbpwtdh5
+    verified: false
+    hashtags: "#photographer, #nightout, #shootingday, #backwhite"
 ---

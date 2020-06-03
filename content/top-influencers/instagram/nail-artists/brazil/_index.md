@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nail Artists Instagram Influencers In Brazil In 2020
 description: >-
-  Find top nail artists Instagram influencers in Brazil in 2020. Most popular hashtags: #nails #unhas #unhaslindas #unhasdecoradas.
+  Find top nail artists Instagram influencers in Brazil in 2020. Most popular hashtags: #nailartist #manicure #nailsart #esmaltes.
 platform: Instagram
 profiles:
+  - username: "danimoraesx"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀ ❥ 𝕯𝖆𝖓𝖎 𝕸𝖔𝖗𝖆𝖊𝖘 🥀
+    location: "Brazil"
+    followers: 9283
+    engagement: 1504
+    commentsToLikes: 0.469973
+    id: ckap4ahdf6he50i78xmtl4d8n
+    verified: false
+    hashtags: "#tbt"
   - username: "robertamunis"
     fullname: >-
       Roberta Munis
     location: "Brazil"
-    followers: 29068
-    engagement: 128
-    commentsToLikes: 0.054473
+    followers: 30231
+    engagement: 132
+    commentsToLikes: 0.035858
     id: ck5bzkvh5rck40i11wwx24w8p
     verified: false
-    hashtags: "#jewelrynails, #frech, #publi, #perolas"
-  - username: "mary_unhas_belas"
+    hashtags: "#once, #fashion, #challenge, #streetart"
+  - username: "piresunhas"
     fullname: >-
-      Mary unhas belas
+      N A T H Á L I A P I R E S
     location: "Brazil"
-    followers: 6071
-    engagement: 841
-    commentsToLikes: 0.166954
-    id: ck5zpop0nt1yf0i14sd8t0i85
+    followers: 25463
+    engagement: 414
+    commentsToLikes: 0.022291
+    id: ck0txf3p3iv5l0i19xf2rwzcw
     verified: false
-    hashtags: "#unhasalongadas, #esmalteimpala, #artaunhas, #cliqueunhas"
-  - username: "milenamaiaol"
+    hashtags: "#artesanal, #combinacao, #vult, #minie"
+  - username: "dantasgiulia"
     fullname: >-
-      Milena Maia
+      Giulia Dantas
     location: "Brazil"
-    followers: 48059
-    engagement: 172
-    commentsToLikes: 0.074442
-    id: ck0vwkovku9wl0i195qe8g34d
+    followers: 33401
+    engagement: 593
+    commentsToLikes: 0.062357
+    id: ck8t061meqwsa0j78ayfwjj4t
     verified: false
-    hashtags: "#modapameninas, #fashionstyle, #3em1, #ootd"
+    hashtags: "#nailsart, #bazar, #influencers, #summer"
+  - username: "anameliaunhasfinas"
+    fullname: >-
+      𝐴𝑛𝑎 𝐴𝑚𝑒́𝑙𝑖𝑎 𝑈𝑛ℎ𝑎𝑠 𝐹𝑖𝑛𝑎𝑠®
+    location: "Brazil"
+    followers: 21102
+    engagement: 447
+    commentsToLikes: 0.065695
+    id: ck8tb5l5zudll0j789mm0e498
+    verified: false
+    hashtags: "#unhas, #nailslife, #essielove, #domingando"
   - username: "carlacarrilho_"
     fullname: >-
       𝑪𝑨𝑹𝑳𝑨  𝑺𝑶𝑭𝑰𝑨
     location: "Brazil"
-    followers: 26842
-    engagement: 440
-    commentsToLikes: 0.009007
+    followers: 26268
+    engagement: 403
+    commentsToLikes: 0.011604
     id: ck134y0bvyqmd0i19c3d3lisy
     verified: false
-    hashtags: "#praiadorelogio, #suplementosalimentares, #amazing, #portugal"
-  - username: "luana_nailfashion"
+    hashtags: "#furrendsupclose, #praiaevidaboa, #makeupblogger, #saudavel"
+  - username: "lily_lima34"
     fullname: >-
-      𝓛𝓾𝓪𝓷𝓪  𝓝𝓪𝓲𝓵  𝓕𝓪𝓼𝓱𝓲𝓸𝓷
+      Lily Lima
     location: "Brazil"
-    followers: 30691
-    engagement: 217
-    commentsToLikes: 0.048150
-    id: ck0vz7rx67qie0i19f7q4mzu0
+    followers: 28620
+    engagement: 293
+    commentsToLikes: 0.057363
+    id: ck6tutgecibf10j711yq3sxxw
     verified: false
-    hashtags: "#unhas, #deus, #repost, #unhasgoiania"
-  - username: "andressasotooka"
-    fullname: >-
-      Nails 💁🏻🎙️🎙💅🏻💋
-    location: "Brazil"
-    followers: 34247
-    engagement: 202
-    commentsToLikes: 0.085927
-    id: ck6toov7rf9kx0j71i2uynttq
-    verified: false
-    hashtags: "#instawag, #muito, #suamohda, #makeup"
-  - username: "nails_decoradas"
-    fullname: >-
-      Luciana Karine
-    location: "Brazil"
-    followers: 159544
-    engagement: 137
-    commentsToLikes: 0.106028
-    id: ck0txf458iv9c0i19al9zznp8
-    verified: false
-    hashtags: "#cores, #nails, #coloramadasemana, #instagood"
-  - username: "anameliaunhasfinas"
-    fullname: >-
-      Ana Amelia 🌷
-    location: "Brazil"
-    followers: 14439
-    engagement: 338
-    commentsToLikes: 0.017758
-    id: ck8tb5l5zudll0j789mm0e498
-    verified: false
-    hashtags: "#instanaturelover, #sereia, #nailsmagazine, #nailsartaddict"
+    hashtags: "#bloguinhodeunhas, #clubedasadesivetes, #esmaltebeautycolor, #artesanatodeluxo"
   - username: "yasmedeir0s"
     fullname: >-
-      YASMIM MEDEIROS
+      Y A S M I M  M E D E I R O S
     location: "Brazil"
-    followers: 6860
-    engagement: 663
-    commentsToLikes: 0.131638
+    followers: 8386
+    engagement: 921
+    commentsToLikes: 0.205589
     id: ck8tb1mlztz540j786wgmzxf4
     verified: false
-    hashtags: "#unhasdediva, #maquiagembrasil, #unhasdegel, #collabchallenge"
-  - username: "joanafreitasaraujo"
+    hashtags: "#nailartist, #maquiagensbrasil, #quarentenou, #franjinhadenovo"
+  - username: "nailsdixiana"
     fullname: >-
-      Joana Araújo
+      Nails Artist | Panama City
     location: "Brazil"
-    followers: 51337
-    engagement: 171
-    commentsToLikes: 0.034555
-    id: ck5hpp9g1rqz60i1121zlk90j
-    verified: true
-    hashtags: "#stayhome, #europe, #photooftheday, #turismo"
+    followers: 26112
+    engagement: 469
+    commentsToLikes: 0.018184
+    id: ck8tbjgw5vxuo0j78od0550iu
+    verified: false
+    hashtags: "#nailsflowers, #nailsturquoise, #bananacolor, #turquoisenails"
+  - username: "nayyfirens"
+    fullname: >-
+      Nay Firens
+    location: "Brazil"
+    followers: 72988
+    engagement: 598
+    commentsToLikes: 0.109240
+    id: ck6tkv7235gti0j71xtu6asof
+    verified: false
+    hashtags: "#anos90, #pinup, #alternativegirl, #instapet"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Singapore In 2020
 description: >-
-  Find top fitness Instagram influencers in Singapore in 2020. Most popular hashtags: #stayhome #sgunited #circuitbreaker #singapore.
+  Find top fitness Instagram influencers in Singapore in 2020. Most popular hashtags: #sgunited #homeworkout #fitness #hiit.
 platform: Instagram
 profiles:
   - username: "kennethseet"
     fullname: >-
       Kenneth Seet
     location: "Singapore"
-    followers: 44398
-    engagement: 390
-    commentsToLikes: 0.037670
+    followers: 46086
+    engagement: 413
+    commentsToLikes: 0.039643
     id: ck5hiz142fptd0i11ebg0lum6
     verified: false
-    hashtags: "#sgstrong, #strong, #santorini, #plankchallenge"
-  - username: "mirchelley"
+    hashtags: "#abs, #sales, #sudio, #glutes"
+  - username: "aimeechengbradshaw"
     fullname: >-
-      MICHELLE 💚
+      Aimee Cheng-Bradshaw (程珮蕓)
     location: "Singapore"
-    followers: 151645
-    engagement: 125
-    commentsToLikes: 0.053196
-    id: ck5cl54biy9ly0i11lek7l1mf
+    followers: 103365
+    engagement: 402
+    commentsToLikes: 0.023088
+    id: ck55jn7nsxd3r0i11s2wl5m3n
+    verified: true
+    hashtags: "#adidassg, #alphabounce, #ultraboost, #superdown"
+  - username: "danielfongwc"
+    fullname: >-
+      Daniel Fong
+    location: "Singapore"
+    followers: 44080
+    engagement: 327
+    commentsToLikes: 0.018676
+    id: ck6ttezj3a94j0j714dlje3r3
     verified: false
-    hashtags: "#barbiedoll, #happyilogirls, #pomelogirls, #barbie"
+    hashtags: "#dudukrumahchallenge, #uvcut, #uniqlomy, #simplemadebetter"
+  - username: "craziben"
+    fullname: >-
+      Ben Siew 🇸🇬
+    location: "Singapore"
+    followers: 29344
+    engagement: 360
+    commentsToLikes: 0.018651
+    id: ck0w5dmvg34jj0i19bxuxh5no
+    verified: false
+    hashtags: "#huatwithshopee, #sp, #lggram, #lggram17"
   - username: "rachwsj"
     fullname: >-
       RACHEL ALEXA WONG | 黄诗珺
     location: "Singapore"
-    followers: 24444
-    engagement: 259
-    commentsToLikes: 0.013785
+    followers: 24412
+    engagement: 261
+    commentsToLikes: 0.019562
     id: ck6u86uw9prxs0j71n1g2peeq
     verified: false
-    hashtags: "#hydroboost, #pomelogirls, #purpursg, #getskinhappy"
-  - username: "estherquek"
-    fullname: >-
-      ESTHER QUEK   🇸🇬
-    location: "Singapore"
-    followers: 38644
-    engagement: 155
-    commentsToLikes: 0.036274
-    id: ck5hjyp3ohhge0i111xpamwo3
-    verified: true
-    hashtags: "#noartificialflavours, #cny, #followeqtosingapore, #japanesemacaque"
-  - username: "aimeechengbradshaw"
-    fullname: >-
-      Aimee Cheng-Bradshaw 程珮蕓
-    location: "Singapore"
-    followers: 94304
-    engagement: 211
-    commentsToLikes: 0.018183
-    id: ck55jn7nsxd3r0i11s2wl5m3n
-    verified: true
-    hashtags: "#inbloom, #adidassg, #charleskeithofficial, #gentlemonster"
-  - username: "jmeteo"
-    fullname: >-
-      Jaime Teo
-    location: "Singapore"
-    followers: 107204
-    engagement: 204
-    commentsToLikes: 0.051342
-    id: ck8wgf87dh8on0j78z4hexpjv
-    verified: true
-    hashtags: "#stretch, #homeworkout, #cleanhouse, #shadowclones"
-  - username: "rachelwongggg"
-    fullname: >-
-      Rachel Wong
-    location: "Singapore"
-    followers: 12160
-    engagement: 350
-    commentsToLikes: 0.019420
-    id: ck5zvedfd42qt0i140vr1e7tp
-    verified: false
-    hashtags: "#westworld, #sp, #luge15, #skylinelugesentosa"
+    hashtags: "#koreanlash, #apmmonaco, #pomelogirls, #nextgenhydration"
   - username: "paulfosterrr"
     fullname: >-
       Paul Foster
     location: "Singapore"
-    followers: 30432
-    engagement: 200
-    commentsToLikes: 0.052711
+    followers: 30911
+    engagement: 161
+    commentsToLikes: 0.041787
     id: ck5bzgi1jr3hz0i11m5lwqyhc
     verified: true
-    hashtags: "#circuitbreaker, #sustainablefashion, #makeadifference, #shesaidhesaid"
-  - username: "thatmomoffour"
+    hashtags: "#scalpcare, #dill, #onepodatatime, #madeforme"
+  - username: "roxannegan_"
     fullname: >-
-      Dawn Sim
+      ROXANNE GAN
     location: "Singapore"
-    followers: 41777
-    engagement: 241
-    commentsToLikes: 0.022145
-    id: ck5qd6i52u1v70i11vuu501jc
+    followers: 124928
+    engagement: 134
+    commentsToLikes: 0.011821
+    id: ck0vxnqw9zteb0i190sr9gudl
     verified: false
-    hashtags: "#prenatalworkout, #smile, #luxuryhotels, #rescuedismyfavoritebreed"
-  - username: "zolalfredo"
+    hashtags: "#plankchallenge, #yogaeveryday, #hiit, #couplethings"
+  - username: "estherquek"
     fullname: >-
-      Alfred Sim 沈志豪
+      ESTHER QUEK   🇸🇬
     location: "Singapore"
-    followers: 19745
-    engagement: 269
-    commentsToLikes: 0.015512
-    id: ck5c8ugrna8xl0i1122iij9qe
+    followers: 38325
+    engagement: 166
+    commentsToLikes: 0.036034
+    id: ck5hjyp3ohhge0i111xpamwo3
     verified: true
-    hashtags: "#ishikawa, #mastfitness, #blissfulmarriage, #twinningwithdaddy"
+    hashtags: "#japanesemacaque, #homeworkout, #socialdistancing, #sugarfree"
+  - username: "mirchelley"
+    fullname: >-
+      MICHELLE TAN 💚
+    location: "Singapore"
+    followers: 152334
+    engagement: 103
+    commentsToLikes: 0.010597
+    id: ck5cl54biy9ly0i11lek7l1mf
+    verified: false
+    hashtags: "#mood, #quarantine, #stayhome, #workoutchallenge"
+  - username: "leodoesalot"
+    fullname: >-
+      LEO | MODEL. FITNESS. DANCE 🇸🇬
+    location: "Singapore"
+    followers: 7396
+    engagement: 591
+    commentsToLikes: 0.032530
+    id: ck5zk68k9iw790i145uxn8lek
+    verified: false
+    hashtags: "#lifestyle, #tattoos, #positivity, #enough"
 ---

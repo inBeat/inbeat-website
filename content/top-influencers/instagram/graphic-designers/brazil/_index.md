@@ -1,36 +1,56 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Brazil In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Brazil in 2020. Most popular hashtags: #carnaval #bloodlust #makeuptutorial #morphebabe.
+  Find top graphic-designers Instagram influencers in Brazil in 2020. Most popular hashtags: # #diego #mufcfans #happybirthday.
 platform: Instagram
 profiles:
-  - username: "bruhuli"
+  - username: "hftxart"
     fullname: >-
-      Bruna Huli
+      Helena | Digital illustrator
     location: "Brazil"
-    followers: 103134
-    engagement: 633
-    commentsToLikes: 0.013358
-    id: ck14l67att25l0i1983l1ki78
+    followers: 10998
+    engagement: 1705
+    commentsToLikes: 0.041685
+    id: ckaosncpzs7ui0i78cg18wqc3
     verified: false
-    hashtags: "#motelrocks"
-  - username: "jaimecoburn"
+    hashtags: "#sailormoon"
+  - username: "matoslissa"
     fullname: >-
-      Jaime Coburn
+      Melissa Matos
     location: "Brazil"
-    followers: 10497
-    engagement: 738
-    commentsToLikes: 0.108890
-    id: ck5zzlasnby6j0i14pvq9yvja
+    followers: 68839
+    engagement: 590
+    commentsToLikes: 0.030329
+    id: ckap71v1yia2g0i78vyoo9q45
     verified: false
-    hashtags: "#artistmilk1422, #tattoodesign, #floral, #valentine"
+    hashtags: ""
+  - username: "lais_tom"
+    fullname: >-
+      Laís Tomaselli | Florianópolis
+    location: "Brazil"
+    followers: 7314
+    engagement: 1073
+    commentsToLikes: 0.040060
+    id: ck1386keheq810i19s7u1a9vy
+    verified: false
+    hashtags: ""
+  - username: "romarinhoart"
+    fullname: >-
+      Romárinho dos Teclados (em 🏠)
+    location: "Brazil"
+    followers: 7478
+    engagement: 929
+    commentsToLikes: 0.125710
+    id: ckaoyg5wuhdwu0i785fh2fkeg
+    verified: false
+    hashtags: "#fiqueemcasa, #manowalter, #sergipe, #teclas"
   - username: "giulia.yeyo"
     fullname: >-
       Giulia Giugno (줄리아)
     location: "Brazil"
-    followers: 24417
-    engagement: 1069
-    commentsToLikes: 0.004344
+    followers: 23818
+    engagement: 1058
+    commentsToLikes: 0.004772
     id: ck14gtit86yac0i19npcca3ri
     verified: false
     hashtags: ""
@@ -38,70 +58,50 @@ profiles:
     fullname: >-
       Paolo Lacava
     location: "Brazil"
-    followers: 5292
-    engagement: 1409
-    commentsToLikes: 0.019708
+    followers: 5211
+    engagement: 1343
+    commentsToLikes: 0.016558
     id: ck8tasolfswfi0j78yamo62w7
     verified: false
-    hashtags: "#camisadogremio, #grizou, #lucasleiva, #cristiano"
-  - username: "eudener"
-    fullname: >-
-      DENER BORDÃN™
-    location: "Brazil"
-    followers: 13977
-    engagement: 741
-    commentsToLikes: 0.024438
-    id: ck0w5t77d5bpp0i19jghacbvo
-    verified: false
-    hashtags: "#hidrocortopazio, #lentesdecontatocolor, #hidrocorsolotica"
+    hashtags: "#socceredits, #antogriezmann, #serieatim, #adobe"
   - username: "palumalerba"
     fullname: >-
       Palu | Living my best life ✈️
     location: "Brazil"
-    followers: 8604
-    engagement: 742
-    commentsToLikes: 0.025739
+    followers: 8839
+    engagement: 620
+    commentsToLikes: 0.023214
     id: ck6tsugr76wbk0j71c3m6sj6v
     verified: false
     hashtags: ""
-  - username: "nathyro7"
+  - username: "rezamhassani"
     fullname: >-
-      Nathalia Ro7
+      RezaMHassani
     location: "Brazil"
-    followers: 16253
-    engagement: 627
-    commentsToLikes: 0.126066
-    id: ck8t5xxrrbm4o0j78smve9mix
+    followers: 2387
+    engagement: 1448
+    commentsToLikes: 0.188634
+    id: ck6trs66g0s270j71ikcnqeuy
     verified: false
-    hashtags: "#couples, #crazy, #followme, #nofilter"
-  - username: "lais_tom"
+    hashtags: "#roozbehbemani, #guitar, #actor, #model"
+  - username: "durcot_art"
     fullname: >-
-      Laís Tomaselli | Florianópolis
+      Durcot
     location: "Brazil"
-    followers: 7105
-    engagement: 996
-    commentsToLikes: 0.039150
-    id: ck1386keheq810i19s7u1a9vy
+    followers: 8150
+    engagement: 2920
+    commentsToLikes: 0.022278
+    id: ck8t5cfk69mv40j78qldmtd5c
+    verified: false
+    hashtags: "#color, #dise, #artstationhq, #instaartist"
+  - username: "takad444"
+    fullname: >-
+      Takada ∆³
+    location: "Brazil"
+    followers: 19251
+    engagement: 1328
+    commentsToLikes: 0.013151
+    id: ck5c89sym91m70i110ky9xwcd
     verified: false
     hashtags: ""
-  - username: "ullycorrea"
-    fullname: >-
-      Ully Correa
-    location: "Brazil"
-    followers: 46091
-    engagement: 476
-    commentsToLikes: 0.012285
-    id: ck5zu59nm1pgk0i14gq0qlkyq
-    verified: false
-    hashtags: "#fujixtra400, #surrealemcasa, #27, #ektar100"
-  - username: "kakaunog"
-    fullname: >-
-      Camila Nogueira
-    location: "Brazil"
-    followers: 7505
-    engagement: 390
-    commentsToLikes: 0.041024
-    id: ck5qdfl0nvbtr0i11u8he96fu
-    verified: false
-    hashtags: "#pratigi, #praia, #carnaval, #vembrilh"
 ---

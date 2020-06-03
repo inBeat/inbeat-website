@@ -1,107 +1,87 @@
 ---
 title: Top 10 Djs Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top djs Instagram influencers in Nigeria in 2020. Most popular hashtags: #wavylordvisuals #2020 #angeli #obim.
+  Find top djs Instagram influencers in Nigeria in 2020. Most popular hashtags: #stayhome #wellness #ghana #coronavirus.
 platform: Instagram
 profiles:
-  - username: "niyass4real"
+  - username: "official_singah"
     fullname: >-
-      Allah 1st☝️Niyass Of Lagos 🌃
+      sin-gah
     location: "Nigeria"
-    followers: 48412
-    engagement: 771
-    commentsToLikes: 0.012313
-    id: ck5hhgw4985vr0i11y63f9llp
+    followers: 40645
+    engagement: 263
+    commentsToLikes: 0.060700
+    id: ck5zjeox1hge60i140ouenpl0
     verified: false
-    hashtags: "#mcm, #its, #2020, #tbt"
-  - username: "iamdjprince"
-    fullname: >-
-      Freshest DeeJay Prince
-    location: "Nigeria"
-    followers: 17980
-    engagement: 258
-    commentsToLikes: 0.069693
-    id: ck0w4pjfczrg20i19eb3pm555
-    verified: false
-    hashtags: "#cactusontheroof, #thefreshestpartywithdjprince, #jafo"
-  - username: "pclapez"
-    fullname: >-
-      Official Pc Lapez
-    location: "Nigeria"
-    followers: 48779
-    engagement: 275
-    commentsToLikes: 0.054411
-    id: ck5c57q2q2wss0i11icsx53sq
-    verified: true
-    hashtags: "#osan, #obim, #isolation, #socialdistancing"
+    hashtags: "#moonboy, #climaxchallenge"
   - username: "queenadamma__"
     fullname: >-
-      ADA  AYUK 👑👑
+      ADA EBUTA AYUK 👑👑
     location: "Nigeria"
-    followers: 38087
-    engagement: 799
-    commentsToLikes: 0.025898
+    followers: 47692
+    engagement: 943
+    commentsToLikes: 0.024627
     id: ck0w2ht96ofnx0i190tu9ff4l
     verified: false
-    hashtags: "#afrodaily, #worldafrodance, #kekeke, #greaterheights"
+    hashtags: "#nigeriamusic, #ownit, #throwback, #kompa"
   - username: "akintundebtr"
     fullname: >-
       ÓLÓRIN OBA 🔊🔊
     location: "Nigeria"
-    followers: 22962
-    engagement: 286
-    commentsToLikes: 0.067247
+    followers: 22746
+    engagement: 227
+    commentsToLikes: 0.073073
     id: ck5c1evi0v1pn0i11fgv6naig
     verified: false
-    hashtags: "#angeliseason, #marlians, #akintunde, #akintundebtr"
-  - username: "jacobzibe"
+    hashtags: "#marlians, #angeliakintunde, #sleekjamzrecords, #repost"
+  - username: "iamdjprince"
     fullname: >-
-      Zibe Jacob
+      Freshest DeeJay Prince
     location: "Nigeria"
-    followers: 33261
-    engagement: 150
-    commentsToLikes: 0.064834
-    id: ck0tt2vl60x8b0i19vpjj1b6l
+    followers: 17810
+    engagement: 276
+    commentsToLikes: 0.075611
+    id: ck0w4pjfczrg20i19eb3pm555
     verified: false
-    hashtags: "#kalamama, #mrhood, #astronomia, #repost"
-  - username: "donflexx"
+    hashtags: "#cactusontheroof, #staysafeandstayhome"
+  - username: "officialseyiawo"
     fullname: >-
-      Nonso Asobe
+      Seyi Awolowo 🇳🇬
     location: "Nigeria"
-    followers: 103809
-    engagement: 115
-    commentsToLikes: 0.069906
-    id: ck14hzx2ucysv0i19o6o0t864
-    verified: true
-    hashtags: "#okbye, #judgesduties, #dontplayyourself, #goodnight"
-  - username: "harteezofficial"
-    fullname: >-
-      Attention Everybody 🧢
-    location: "Nigeria"
-    followers: 23981
-    engagement: 663
-    commentsToLikes: 0.162021
-    id: ck5hoai5up8700i11z9jnbfbn
+    followers: 792344
+    engagement: 171
+    commentsToLikes: 0.028425
+    id: ck15pto0rzkkb0i19dz0d6s78
     verified: false
-    hashtags: "#kilokanboss, #pain, #newjamnextweek, #figofreestylechallenge"
+    hashtags: "#sandals, #pepperdem, #winner, #bopdaddy"
+  - username: "deangelictouchstylist"
+    fullname: >-
+      John J. Angel
+    location: "Nigeria"
+    followers: 39783
+    engagement: 106
+    commentsToLikes: 0.040829
+    id: ck6u3h7h0xrm10j71godtf2ex
+    verified: false
+    hashtags: "#girls, #mercyandikeshow, #tbt, #ciroc"
   - username: "manolospanky"
     fullname: >-
       Patrick Osagie
     location: "Nigeria"
-    followers: 18306
-    engagement: 275
-    commentsToLikes: 0.077924
+    followers: 18764
+    engagement: 303
+    commentsToLikes: 0.107144
     id: ck15sf453cp4a0i19ek5xpn54
     verified: false
-    hashtags: "#ghana, #charliewagwan, #aztecfashion, #balanga4life"
-  - username: "wavylord"
+    hashtags: "#bigdrip, #ultimatemixer, #funkyhouse, #charliewagwan"
+  - username: "amplifyafrica"
     fullname: >-
-      WAVYLORDVISUALS©
+      Amplify Africa Inc.
     location: "Nigeria"
-    followers: 28278
-    engagement: 208
-    commentsToLikes: 0.119464
-    id: ck135uff73ahh0i19o7dlq0pr
+    followers: 71713
+    engagement: 79
+    commentsToLikes: 0.033655
+    id: ck0vy356i20ad0i19gccvm2bx
     verified: false
-    hashtags: "#artschool, #tund3, #fightforme, #blackmagic4k"
+    hashtags: "#haiti, #squadgoals, #tiwasavage, #international"
 ---

@@ -1,16 +1,16 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top photographers Instagram influencers in Malaysia in 2020. Most popular hashtags: #pursuitofportraits #womengrams #malaysia #portraitshubmy.
+  Find top photographers Instagram influencers in Malaysia in 2020. Most popular hashtags: # #sepang #night #maafzahirdanbatin.
 platform: Instagram
 profiles:
   - username: "gavinlim"
     fullname: >-
       Gavin Lim
     location: "Malaysia"
-    followers: 8184
-    engagement: 965
-    commentsToLikes: 0.033676
+    followers: 8098
+    engagement: 976
+    commentsToLikes: 0.033640
     id: ck15rkb4w8c6q0i19ppuygdzh
     verified: false
     hashtags: ""
@@ -18,90 +18,90 @@ profiles:
     fullname: >-
       ﷽
     location: "Malaysia"
-    followers: 39573
-    engagement: 657
-    commentsToLikes: 0.011691
+    followers: 41503
+    engagement: 649
+    commentsToLikes: 0.011540
     id: ck5ce9n08km5x0i11nzrmxske
     verified: false
     hashtags: "#midnightcity, #summer"
-  - username: "sarah.narimany"
-    fullname: >-
-      سارا به کُردی یعنی هلال ماه
-    location: "Malaysia"
-    followers: 2702
-    engagement: 1458
-    commentsToLikes: 0.069640
-    id: ck6tzx70acee50j71cal857qy
-    verified: false
-    hashtags: "#riri, #portrait, #closeup, #being"
-  - username: "lesliepng"
-    fullname: >-
-      LESLIE PNG
-    location: "Malaysia"
-    followers: 59016
-    engagement: 210
-    commentsToLikes: 0.014702
-    id: ck5cj2z4etvjb0i117gur1gnz
-    verified: false
-    hashtags: "#foodinspiration, #shotoniphone11, #misshome, #dudukrumah"
   - username: "dyanaea"
     fullname: >-
       𝓛𝓪𝓭𝔂  D Y A N A E A
     location: "Malaysia"
-    followers: 3813
-    engagement: 1475
-    commentsToLikes: 0.061483
+    followers: 3745
+    engagement: 1520
+    commentsToLikes: 0.091869
     id: ck55iw303vo470i11afuhl5hg
     verified: false
-    hashtags: "#loveandwildhearts, #anakmudajohor, #yourvisiongallery, #malaysiaweddings"
-  - username: "december19"
+    hashtags: "#agameoftones, #fatalframes, #explorejpn, #pengantinpkp"
+  - username: "lesliepng"
     fullname: >-
-      19ธันวา
+      LESLIE PNG
     location: "Malaysia"
-    followers: 23020
-    engagement: 650
-    commentsToLikes: 0.060373
-    id: ck0w2d764nrlm0i19e45uhs2z
+    followers: 59808
+    engagement: 218
+    commentsToLikes: 0.013417
+    id: ck5cj2z4etvjb0i117gur1gnz
     verified: false
-    hashtags: "#galaxynote10th, #withgalaxy, #teamgalaxy, #khunbyyoobyme"
-  - username: "anwarsenyumikhlas"
-    fullname: >-
-      Anwar Abu Bakar
-    location: "Malaysia"
-    followers: 6456
-    engagement: 760
-    commentsToLikes: 0.016259
-    id: ck5hd8hidm2zm0i11p76bbu12
-    verified: false
-    hashtags: "#theanhoutemple, #yacht, #dengankameraakumerantau, #cikgusuraya"
+    hashtags: "#520, #mywonderlab, #sundaymorning, #throwback"
   - username: "thepictualist"
     fullname: >-
       Ameer Hakim
     location: "Malaysia"
-    followers: 5873
-    engagement: 581
-    commentsToLikes: 0.024707
+    followers: 5885
+    engagement: 593
+    commentsToLikes: 0.029704
     id: ck5cebfh0kptg0i11axwspokr
     verified: false
-    hashtags: "#nikon, #jual, #thewiesel, #nikonmalaysia"
-  - username: "sesat_in_malaysia"
+    hashtags: "#50zine, #modenas, #kawasaki, #slamchallenge"
+  - username: "drsean_l"
     fullname: >-
-      Leon | Sabah, Malaysian Borneo
+      Sean Lim
     location: "Malaysia"
-    followers: 10941
-    engagement: 547
-    commentsToLikes: 0.023851
-    id: ck5hmp1gimd2b0i11861770ay
+    followers: 3561
+    engagement: 3137
+    commentsToLikes: 0.131106
+    id: ckaow8hdb7td90i78a9868ty0
     verified: false
-    hashtags: "#ilovetanjungaru, #wonderful, #awesome, #tanjungperapat"
-  - username: "kevin.voon"
+    hashtags: "#sonyalpha, #streetshots, #streetlife, #streettogether"
+  - username: "december19"
     fullname: >-
-      Kevin Voon • Coffee | Travel
+      19ธันวา
     location: "Malaysia"
-    followers: 7459
-    engagement: 670
-    commentsToLikes: 0.029961
-    id: ck55q9k0zcic00i11s0pts82u
+    followers: 22940
+    engagement: 628
+    commentsToLikes: 0.060907
+    id: ck0w2d764nrlm0i19e45uhs2z
     verified: false
-    hashtags: "#malaysiancafes, #ournomadphuket, #menstyleguide, #fashionbloggers"
+    hashtags: "#khunbyyoobyme, #khunbyyoo, #sansiriluxurycollection"
+  - username: "anwarsenyumikhlas"
+    fullname: >-
+      Anwar Abu Bakar
+    location: "Malaysia"
+    followers: 6415
+    engagement: 771
+    commentsToLikes: 0.016147
+    id: ck5hd8hidm2zm0i11p76bbu12
+    verified: false
+    hashtags: "#teampikakiyot, #cikgusuraya, #vscomag, #portraitmood"
+  - username: "terrirosa"
+    fullname: >-
+      
+    location: "Malaysia"
+    followers: 2131
+    engagement: 2096
+    commentsToLikes: 0.049602
+    id: ckaoszrovtqg90i78hnki1grh
+    verified: false
+    hashtags: ""
+  - username: "fydography"
+    fullname: >-
+      azmanfydo amin
+    location: "Malaysia"
+    followers: 17894
+    engagement: 413
+    commentsToLikes: 0.013527
+    id: ck0w0cyzddka00i19bannmft6
+    verified: false
+    hashtags: "#stingergt, #cool, #inspira, #perodua"
 ---

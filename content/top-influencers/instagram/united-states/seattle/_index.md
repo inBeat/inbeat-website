@@ -1,16 +1,16 @@
 ---
 title: Top 10 Instagram Influencers In Seattle In 2020
 description: >-
-  Find top Instagram influencers in Seattle in 2020. Most popular hashtags: #winetasting #wine #winewinewine #winery.
+  Find top Instagram influencers in Seattle in 2020. Most popular hashtags: # #cocktails #thinking #usarmy.
 platform: Instagram
 profiles:
   - username: "angelanicole7"
     fullname: >-
       Angela 🖤
     location: "United States"
-    followers: 11620
-    engagement: 1025
-    commentsToLikes: 0.059327
+    followers: 11441
+    engagement: 1019
+    commentsToLikes: 0.061408
     id: ck13am3sxr1mk0i19hz42ubx1
     verified: false
     hashtags: ""
@@ -18,90 +18,90 @@ profiles:
     fullname: >-
       💟 Josie 💟
     location: "United States"
-    followers: 6061
-    engagement: 462
-    commentsToLikes: 0.052103
+    followers: 5958
+    engagement: 483
+    commentsToLikes: 0.051582
     id: ck5hl3hs3ji730i11tkawh5ij
     verified: false
     hashtags: ""
-  - username: "sweetisraelx"
-    fullname: >-
-      Israel Maldonado
-    location: "United States"
-    followers: 20079
-    engagement: 1236
-    commentsToLikes: 0.132173
-    id: ck8weye0vetet0j780ch80xp8
-    verified: false
-    hashtags: "#couple, #couplegoals, #fyp, #bangenergy"
-  - username: "jazminejolt"
-    fullname: >-
-      jazmine 🦋
-    location: "United States"
-    followers: 8359
-    engagement: 1354
-    commentsToLikes: 0.104650
-    id: ck5q37ml3jlsf0i113tqfw0h9
-    verified: false
-    hashtags: ""
-  - username: "thiswaywithtay"
-    fullname: >-
-      TAYLOR | wine + travel
-    location: "United States"
-    followers: 8836
-    engagement: 1573
-    commentsToLikes: 0.123528
-    id: ck15q0h990ibj0i19gdehc4x3
-    verified: false
-    hashtags: "#frenchwine, #winelife, #champagne, #style"
-  - username: "diya.alexander"
-    fullname: >-
-      DIYA ALEXANDER
-    location: "United States"
-    followers: 11942
-    engagement: 1486
-    commentsToLikes: 0.067894
-    id: ck8t42fj859jx0j783w8744d1
-    verified: false
-    hashtags: "#valentines2020, #reallove, #internationalwomensday, #internationalwomensday2020"
-  - username: "bonvoyagechloe"
-    fullname: >-
-      C H L O E ✦ W O N G
-    location: "United States"
-    followers: 5097
-    engagement: 1721
-    commentsToLikes: 0.175579
-    id: ck5q8vwwe87h60i11nxxmo7dz
-    verified: false
-    hashtags: "#lovelulus, #neutrogenamakeup, #seattleblogger, #iwd2020"
-  - username: "carliarene"
-    fullname: >-
-      Carlia
-    location: "United States"
-    followers: 17611
-    engagement: 1339
-    commentsToLikes: 0.056812
-    id: ck5q8fudv5z1e0i11xr7cnaym
-    verified: false
-    hashtags: "#divasweardiva, #katchme, #rebelgal"
-  - username: "alyssamarielowe"
-    fullname: >-
-      Alyssa | Seattle Photographer
-    location: "United States"
-    followers: 9133
-    engagement: 1495
-    commentsToLikes: 0.060205
-    id: ck55o76aa7s4f0i11g1sntfps
-    verified: false
-    hashtags: "#herpnwlife, #wanderwashington, #roamtheplanet, #seattlephotographer"
   - username: "romejohns"
     fullname: >-
       Rome Johnson | Style
     location: "United States"
-    followers: 2848
-    engagement: 3566
-    commentsToLikes: 0.103073
+    followers: 15044
+    engagement: 4156
+    commentsToLikes: 0.069704
     id: ck8t1v9nix65e0j78gkeeieo6
     verified: false
-    hashtags: "#blackfamily, #parents, #valentinesday, #pfeiffersyndromeawarenessmonth"
+    hashtags: "#blackparents, #blackdads, #nicugraduate, #trachbaby"
+  - username: "thiswaywithtay"
+    fullname: >-
+      TAYLOR | wine + travel
+    location: "United States"
+    followers: 14365
+    engagement: 1710
+    commentsToLikes: 0.106102
+    id: ck15q0h990ibj0i19gdehc4x3
+    verified: false
+    hashtags: "#vineyard, #rose, #scottsdale, #spain"
+  - username: "kimberlylinh"
+    fullname: >-
+      Kimberly Nguyen
+    location: "United States"
+    followers: 11884
+    engagement: 1622
+    commentsToLikes: 0.160918
+    id: ckaoyyro9jmed0i786i97mrmw
+    verified: false
+    hashtags: ""
+  - username: "alyssamarielowe"
+    fullname: >-
+      Alyssa | Seattle Photographer
+    location: "United States"
+    followers: 9158
+    engagement: 1555
+    commentsToLikes: 0.085098
+    id: ck55o76aa7s4f0i11g1sntfps
+    verified: false
+    hashtags: "#wanderwashington, #seattlephotography, #pnwphotographer"
+  - username: "diya.alexander"
+    fullname: >-
+      DIYA ALEXANDER
+    location: "United States"
+    followers: 12564
+    engagement: 1378
+    commentsToLikes: 0.075733
+    id: ck8t42fj859jx0j783w8744d1
+    verified: false
+    hashtags: "#valentines2020, #kobebryant, #internationalwomensday, #who"
+  - username: "sweetisraelx"
+    fullname: >-
+      Israel Maldonado
+    location: "United States"
+    followers: 27802
+    engagement: 1123
+    commentsToLikes: 0.106160
+    id: ck8weye0vetet0j780ch80xp8
+    verified: false
+    hashtags: ""
+  - username: "jazminejolt"
+    fullname: >-
+      jazmine 🦋
+    location: "United States"
+    followers: 8344
+    engagement: 1395
+    commentsToLikes: 0.107990
+    id: ck5q37ml3jlsf0i113tqfw0h9
+    verified: false
+    hashtags: ""
+  - username: "alexandr_ford"
+    fullname: >-
+      ALEXANDRA FORD HAMILTON
+    location: "United States"
+    followers: 86038
+    engagement: 688
+    commentsToLikes: 0.041723
+    id: ck5hnicghntzc0i11lz4uv5eu
+    verified: false
+    hashtags: "#selfcare, #mountains, #carved, #sustainability"
 ---

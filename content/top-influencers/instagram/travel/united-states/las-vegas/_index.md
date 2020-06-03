@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top travel Instagram influencers in Las Vegas in 2020. Most popular hashtags: #travel #lasvegas #travelgram #travelphotography.
+  Find top travel Instagram influencers in Las Vegas in 2020. Most popular hashtags: #travel #lasvegas #hawaii #latina.
 platform: Instagram
 profiles:
   - username: "anna.sauce"
     fullname: >-
       🌸 Anna Nguyen 🌸
     location: "United States"
-    followers: 9015
-    engagement: 1506
-    commentsToLikes: 0.022062
+    followers: 9949
+    engagement: 1454
+    commentsToLikes: 0.025098
     id: ck14h4yi28jx30i19oye3rns2
     verified: false
-    hashtags: "#ahaubalcony, #fashiongram, #naturebridge, #waterfall"
-  - username: "chantellenicolemrowka"
-    fullname: >-
-      Chantelle Mrowka
-    location: "United States"
-    followers: 40843
-    engagement: 1685
-    commentsToLikes: 0.028589
-    id: ck14hii82ah9h0i19dfqi5z86
-    verified: false
-    hashtags: "#handstands, #lafitness, #dancer, #create"
-  - username: "oliviafierro"
-    fullname: >-
-      Olivia Fierro
-    location: "United States"
-    followers: 17863
-    engagement: 291
-    commentsToLikes: 0.049760
-    id: ck0vvb4spocoy0i19z7405f37
-    verified: true
-    hashtags: "#celebration, #mazeltov, #marchofdimesaz, #travel"
+    hashtags: "#missmyfriends, #instahair, #iphonecamera, #blackbikini"
   - username: "travel_is_my_therapyyy"
     fullname: >-
       🇲🇪 Travel is my therapy 🇦🇱
     location: "United States"
-    followers: 3342
-    engagement: 1030
-    commentsToLikes: 0.078030
+    followers: 3343
+    engagement: 1131
+    commentsToLikes: 0.080153
     id: ck8wfkva6fvbc0j78bejmw4ko
     verified: false
-    hashtags: "#arizonatiktokers, #4u, #usatravel, #bridgesofinstagram"
-  - username: "ioannatri"
+    hashtags: "#gondola, #livetotravel, #bayofkotor, #magicalmoments"
+  - username: "askjillian"
     fullname: >-
-      Ioanna Triantafyllidou
+      Jillian Barberie
     location: "United States"
-    followers: 316737
-    engagement: 325
-    commentsToLikes: 0.003831
-    id: ck13ccn81zp150i19rbu8kpo0
+    followers: 54975
+    engagement: 246
+    commentsToLikes: 0.032329
+    id: ck5zwol9f6htn0i149yw99ys1
     verified: true
-    hashtags: "#tiktok, #staythefuckhome, #dress, #strictlybusiness"
-  - username: "el_robotico"
+    hashtags: "#travel, #lasvegas, #ibiza, #bradybunch"
+  - username: "vegasenvy"
     fullname: >-
-      ɆⱠ ⱤØ฿Ø₮ł₵Ø🤖
+      Las Vegas
     location: "United States"
-    followers: 27253
-    engagement: 182
-    commentsToLikes: 0.111744
-    id: ck5hlkoh2kdyh0i114dgo1e4j
+    followers: 51358
+    engagement: 367
+    commentsToLikes: 0.015004
+    id: ck5qb0nc7j8ao0i11sovshyln
     verified: false
-    hashtags: "#repdom, #losintocables, #cosculluela, #lyanno"
-  - username: "taylorjackson"
+    hashtags: "#vegas2020, #neverstopexploring, #travels, #sloth"
+  - username: "_lariella"
     fullname: >-
-      📷 Taylor Jackson
+      Lo
     location: "United States"
-    followers: 125909
-    engagement: 307
-    commentsToLikes: 0.025168
-    id: ck5hlswn4ksrl0i11sdfaftdn
+    followers: 2275
+    engagement: 1542
+    commentsToLikes: 0.052067
+    id: ck6uf3u46uq5o0j71vg0t16wf
     verified: false
-    hashtags: "#godox, #weddingphotographers, #miami, #havana"
+    hashtags: "#redlipsforthewin, #philippines, #southeastasiatour, #yoga"
+  - username: "jorgphoto"
+    fullname: >-
+      JORG | PHOTO
+    location: "United States"
+    followers: 10570
+    engagement: 289
+    commentsToLikes: 0.045629
+    id: ck0u7e9zl4mci0i19tvlklsot
+    verified: false
+    hashtags: "#bestdressedrunnerup, #snowglobemusicfestival, #yesthegreenroomwillbethere, #dustyart"
   - username: "ayanda_zebe"
     fullname: >-
       Ayanda Vesi Zebe
     location: "United States"
-    followers: 10661
-    engagement: 1010
-    commentsToLikes: 0.013970
+    followers: 10558
+    engagement: 1037
+    commentsToLikes: 0.013742
     id: ck0u8yfbl8kj30i19tu7yigih
     verified: false
-    hashtags: "#valentinesday2019, #beautyandthebeast, #beauty, #makeuptutorial"
+    hashtags: "#makeuptutorial, #aquarius, #valentinesday2019, #beautyandthebeast"
   - username: "vincethomaspardo"
     fullname: >-
-      Vince Thomas Pardo
+      VINCE | Travel Photography
     location: "United States"
-    followers: 10426
-    engagement: 760
-    commentsToLikes: 0.037117
+    followers: 10470
+    engagement: 819
+    commentsToLikes: 0.037261
     id: ck8td7xnw29k60j78gj0xesjm
     verified: false
-    hashtags: "#elcapitan, #earthfocus, #philippines, #yosemitefalls"
+    hashtags: "#sanfrancisco, #christmasday, #marinabay, #bohol"
   - username: "lasvegas"
     fullname: >-
       Las Vegas
     location: "United States"
-    followers: 74286
-    engagement: 446
-    commentsToLikes: 0.017326
+    followers: 73890
+    engagement: 451
+    commentsToLikes: 0.017524
     id: ck0ttcc1723pg0i19mypjd48u
     verified: false
-    hashtags: "#lasvegas, #travel, #vegasnow, #vegas"
+    hashtags: "#vegas, #lasvegas, #travel, #vegasnow"
+  - username: "soulmatesbroadcast"
+    fullname: >-
+      Claudia & Abbey | Travel
+    location: "United States"
+    followers: 6148
+    engagement: 551
+    commentsToLikes: 0.049565
+    id: ckaorh6s5n77o0i78bywz4px0
+    verified: false
+    hashtags: "#jaspernationalpark, #canadianbloggers, #rockiemountains, #mauiphotographer"
 ---

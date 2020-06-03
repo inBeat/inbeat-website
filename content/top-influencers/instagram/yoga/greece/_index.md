@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Greece In 2020
 description: >-
-  Find top yoga Instagram influencers in Greece in 2020. Most popular hashtags: #yoga #yogainspiration #fitness #yogaeverydamnday.
+  Find top yoga Instagram influencers in Greece in 2020. Most popular hashtags: #stayhome #photography #sunnyday #greece.
 platform: Instagram
 profiles:
   - username: "samantha__elizabeth_"
     fullname: >-
       Samantha Elizabeth
     location: "Greece"
-    followers: 19748
-    engagement: 472
-    commentsToLikes: 0.035851
+    followers: 19802
+    engagement: 480
+    commentsToLikes: 0.034495
     id: ck6u7yci7odz40j717n7m5k2n
     verified: false
-    hashtags: "#excited, #beach, #fitnessmodel, #birthdaywishes"
-  - username: "andreeamadlen"
-    fullname: >-
-      A N D R E E A  M A D L E N
-    location: "Greece"
-    followers: 46343
-    engagement: 63
-    commentsToLikes: 0.096333
-    id: ck6ua2zwq16p20j71q8zdhrxd
-    verified: false
-    hashtags: "#yogaathome, #melia, #preizolare, #celebrateyourself"
+    hashtags: "#a1sinceday1, #thankful, #coronavirus, #beachlife"
   - username: "memevictim2000x"
     fullname: >-
       Sauced
     location: "Greece"
-    followers: 2170
-    engagement: 2003
-    commentsToLikes: 0.040783
+    followers: 2156
+    engagement: 1999
+    commentsToLikes: 0.040222
     id: ck1354cwgzn6y0i19zghp7ny9
     verified: false
-    hashtags: "#gbf, #wcw"
+    hashtags: "#wcw, #gbf"
+  - username: "ellie.st"
+    fullname: >-
+      e l l i e
+    location: "Greece"
+    followers: 3896
+    engagement: 1071
+    commentsToLikes: 0.067352
+    id: ck55ovdri97db0i11u7g7hffs
+    verified: false
+    hashtags: "#warning, #foreverall"
   - username: "thanasis_bou"
     fullname: >-
       thanasis_bounas
     location: "Greece"
-    followers: 2487
-    engagement: 1587
-    commentsToLikes: 0.036356
+    followers: 2564
+    engagement: 1688
+    commentsToLikes: 0.034396
     id: ck6tuw2seiqzt0j71355bm6jb
     verified: false
-    hashtags: "#mens, #yogaphoto, #flexibility, #yogainspired"
-  - username: "aleksandra_yoga"
+    hashtags: "#photoshoot, #yogagram, #bodyshape, #yogatherapist"
+  - username: "ninayogaflow"
     fullname: >-
-      Aleksandra_yoga🌸
+      Nina Soutsou
     location: "Greece"
-    followers: 26132
-    engagement: 340
-    commentsToLikes: 0.035069
-    id: ck6tuw0iriqng0j71vzdt6wny
+    followers: 2610
+    engagement: 1057
+    commentsToLikes: 0.084044
+    id: ck5bzltq2rejg0i11e1wz5lsl
     verified: false
-    hashtags: "#glutes, #veganrecipes, #armbalancetransitions, #cockpose"
+    hashtags: "#fitflow, #activewear, #armbalance, #happyfirstofmay"
+  - username: "sophitata"
+    fullname: >-
+      Sofia Dozorets
+    location: "Greece"
+    followers: 37713
+    engagement: 309
+    commentsToLikes: 0.025573
+    id: ck0twat5reo5h0i190pxl1pm6
+    verified: false
+    hashtags: "#philipssonicare, #selfcare"
   - username: "sofiayoga"
     fullname: >-
       Sofiaxirotyri
     location: "Greece"
-    followers: 37485
-    engagement: 169
-    commentsToLikes: 0.026522
+    followers: 38267
+    engagement: 164
+    commentsToLikes: 0.019361
     id: ck8t0h0njs16e0j78as8sjtn7
     verified: false
-    hashtags: "#healthybody, #houseofyogatogether, #yogatutorials, #yogavinyasaflow"
-  - username: "angelicayassemi"
+    hashtags: "#natarajasana, #splits, #armbalances, #lovealliscoming"
+  - username: "rafaelaspanoudaki"
     fullname: >-
-      𝘈𝘯𝘨𝘦𝘭𝘪𝘤𝘢 𝘠𝘢𝘴𝘴𝘦𝘮𝘪
+      Rafaela Spanoudaki
     location: "Greece"
-    followers: 31872
-    engagement: 478
-    commentsToLikes: 0.736510
-    id: ck0w1yq3vlsj00i191bcfjecm
+    followers: 11765
+    engagement: 1247
+    commentsToLikes: 0.251956
+    id: ck5chpvzcr8jb0i11m9nq49id
     verified: false
-    hashtags: "#coffee, #lorealparisgr, #influencer, #potd"
-  - username: "kostnas2877"
+    hashtags: "#president, #believe, #nocomments, #thoughts"
+  - username: "maria_louiza_real"
     fullname: >-
-      Kostas Anagnostopoulos
+      Maria Louiza Vourou
     location: "Greece"
-    followers: 22393
-    engagement: 1365
-    commentsToLikes: 0.007690
-    id: ck13c5yzgys110i19ij5jcbdm
+    followers: 64125
+    engagement: 277
+    commentsToLikes: 0.100118
+    id: ck55n9iwk5quk0i11bdztjjlt
     verified: false
-    hashtags: "#ersi, #directing, #moodofthespring, #8lexeis"
-  - username: "dominika_rides"
+    hashtags: "#haircolor, #fitness, #gifts, #detoxsmoothie"
+  - username: "ilianapapageorgiou"
     fullname: >-
-      Dominika Grnova
+      ILIANA PAPAGEORGIOU
     location: "Greece"
-    followers: 52148
-    engagement: 399
-    commentsToLikes: 0.015903
-    id: ck15th76zi2570i194frs92zz
-    verified: false
-    hashtags: "#stayinghome, #athens, #rolandsandsdesign, #supermotard"
-  - username: "georgefyntanidis"
-    fullname: >-
-      George Fyntanidis
-    location: "Greece"
-    followers: 11510
-    engagement: 677
-    commentsToLikes: 0.007821
-    id: ck13afs3iq6pz0i1969kqmva3
-    verified: false
-    hashtags: "#cali, #fitnessmotivation, #photographer, #inspiration"
+    followers: 507152
+    engagement: 1283
+    commentsToLikes: 0.008863
+    id: ck55lkxd81tc60i11uumkv3ke
+    verified: true
+    hashtags: "#wecandothis, #teamgalaxy, #supportmazi, #nyc"
 ---

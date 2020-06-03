@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Bangkok In 2020
 description: >-
-  Find top Instagram influencers in Bangkok in 2020. Most popular hashtags: #bangkok #stayhome #cebuphilippines #pinoy.
+  Find top Instagram influencers in Bangkok in 2020. Most popular hashtags: #thailand #nature #bangkok #pool.
 platform: Instagram
 profiles:
   - username: "phka_studio"
     fullname: >-
       PHKA
     location: "Thailand"
-    followers: 36009
-    engagement: 99
-    commentsToLikes: 0.005605
+    followers: 36620
+    engagement: 107
+    commentsToLikes: 0.004123
     id: ck5hsbrr1wbqd0i11gfxt1ua8
     verified: false
-    hashtags: "#vickteerutss20, #floweroftheday, #kaetothenoon, #weddingreception"
+    hashtags: "#weddingstage, #aunutbigdaybaby, #weddingflorist, #phkahandtied"
+  - username: "davidbala99"
+    fullname: >-
+      David Bala | The Prince👑
+    location: "Thailand"
+    followers: 50460
+    engagement: 704
+    commentsToLikes: 0.030015
+    id: ck13bopbvwfep0i193ks2wuxu
+    verified: false
+    hashtags: "#changmaifc"
   - username: "sajadsattarii"
     fullname: >-
       Sajad "The Superman" Sattari
     location: "Thailand"
-    followers: 19109
-    engagement: 1081
-    commentsToLikes: 0.032836
+    followers: 19372
+    engagement: 1060
+    commentsToLikes: 0.036717
     id: ck5zjlk5phsut0i14gnwfoc7z
     verified: false
-    hashtags: "#alwaysbehappy, #mancity, #tbt, #bangkok"
-  - username: "lifeofduma"
+    hashtags: "#tiktaak, #sleep, #travel, #fight"
+  - username: "orav.angel"
     fullname: >-
-      MATHIAS DUMA🥀
+      Angelica Orav
     location: "Thailand"
-    followers: 38217
-    engagement: 768
-    commentsToLikes: 0.023736
-    id: ck8t9dlvlnp730j78z6vqpcxq
+    followers: 34713
+    engagement: 280
+    commentsToLikes: 0.062430
+    id: ckapb8122yxbe0i78welwauad
     verified: false
-    hashtags: ""
+    hashtags: "#braveanimals, #aerialcubetricks, #acrobaticnewbie, #cubegirl"
   - username: "genevemiller"
     fullname: >-
       geneve
     location: "Thailand"
-    followers: 8543
-    engagement: 1312
-    commentsToLikes: 0.023224
+    followers: 9367
+    engagement: 1442
+    commentsToLikes: 0.021497
     id: ck8wfbu31fhpz0j78fmkaxfik
     verified: false
-    hashtags: "#singing, #bruises, #transition, #xyzbca"
+    hashtags: ""
   - username: "anitabye"
     fullname: >-
       Anita Bye/อันนิต้า บี Thailand
     location: "Thailand"
-    followers: 39910
-    engagement: 192
-    commentsToLikes: 0.061417
+    followers: 39743
+    engagement: 226
+    commentsToLikes: 0.063001
     id: ck8taypvztmid0j7889mj9a69
     verified: false
-    hashtags: "#homeworkout, #covid19, #funk, #cryo"
-  - username: "yamy2p"
+    hashtags: "#quarantinelife, #thecubicfitness, #netflix, #kingdom"
+  - username: "timoruu"
     fullname: >-
-      Yam Poramate
+      Timo 🙋🏻‍♂️
     location: "Thailand"
-    followers: 6754
-    engagement: 1458
-    commentsToLikes: 0.014987
-    id: ck5q253yqebb40i11e69r5di2
+    followers: 27693
+    engagement: 2194
+    commentsToLikes: 0.016577
+    id: ck9wgkalxtsv90j78vt7sq26x
     verified: false
-    hashtags: "#aumloveshop, #blued, #seksakol1982, #sportswear"
-  - username: "journeytojunipero"
+    hashtags: "#tb"
+  - username: "alelironi"
     fullname: >-
-      Journey to Junipero
+      Aleliro
     location: "Thailand"
-    followers: 12588
-    engagement: 415
-    commentsToLikes: 0.132454
-    id: ck6tlnucq6b0z0j71568uu1dq
+    followers: 9777
+    engagement: 792
+    commentsToLikes: 0.063664
+    id: ck0tvufavcu3o0i19nupvpik5
     verified: false
-    hashtags: "#moodlighting, #siraogarden, #bangkokthailand, #bangkoklife"
-  - username: "kanokkarn_tan"
+    hashtags: "#jaipur, #agra, #italia, #brazil"
+  - username: "mmintsiri"
     fullname: >-
-      Kanokkarn Tempithak
+      CHANAKARN S.
     location: "Thailand"
-    followers: 41430
-    engagement: 451
-    commentsToLikes: 0.021628
-    id: ck5hodu90pe190i11rm64a2cz
+    followers: 20188
+    engagement: 1735
+    commentsToLikes: 0.012642
+    id: ck9wp772g83mt0j78fpn9fcrd
     verified: false
-    hashtags: "#goodvibes, #xliftingmask, #agefreeskincare, #botanical"
-  - username: "janny.thitipan"
+    hashtags: "#mikemintmix, #mmikesiribd26th, #mikechinnarat"
+  - username: "thekittyway"
     fullname: >-
-      𝓟𝓻𝓲𝓷𝓬𝓮𝓼𝓼 𝓙𝓪𝓷𝓷𝔂 🦋
+      Fashion Travel Lifestyle Inspo
     location: "Thailand"
-    followers: 16722
-    engagement: 376
-    commentsToLikes: 0.041983
-    id: ck8taylk2tlwn0j78rrtc4u0e
+    followers: 28780
+    engagement: 399
+    commentsToLikes: 0.132627
+    id: ck14kgjfqpeth0i19xhv4ztx1
     verified: false
-    hashtags: "#nicetime, #kolourinthepark2020, #sunrisebeachkohlipe, #princessjanny"
-  - username: "wander.ness"
-    fullname: >-
-      𝐖𝐀𝐍𝐃𝐄𝐑 𝕏 𝐍𝐄𝐒𝐒𝐀 𝐊𝐎𝐋𝐄
-    location: "Thailand"
-    followers: 6614
-    engagement: 849
-    commentsToLikes: 0.037019
-    id: ck8syqz9plo840j78698h3xoj
-    verified: false
-    hashtags: ""
+    hashtags: "#carin, #maisonmollerus, #mollerusswiss, #marly"
 ---

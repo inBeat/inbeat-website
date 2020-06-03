@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In New Delhi In 2020
 description: >-
-  Find top Instagram influencers in New Delhi in 2020. Most popular hashtags: #ootd #delhiblogger #quarantinelife #staysafe.
+  Find top Instagram influencers in New Delhi in 2020. Most popular hashtags: #eidmubarak #festival #stayhome #washyourhands.
 platform: Instagram
 profiles:
   - username: "sheoran_ani"
     fullname: >-
       Anita Sheoran
     location: "India"
-    followers: 7221
-    engagement: 1611
-    commentsToLikes: 0.129720
+    followers: 8242
+    engagement: 1218
+    commentsToLikes: 0.167926
     id: ck134t2i8y27n0i19bylzcuf5
     verified: false
-    hashtags: "#allskintypes, #happyskin, #crueltyfree, #aromatherapeutic"
-  - username: "miss_preet__"
+    hashtags: "#madeinindia, #leisure, #selfportrait, #shotononeplus"
+  - username: "the_ankita_gupta_"
     fullname: >-
-      Preet Kaur | Blogger
+      Ankita Gupta
     location: "India"
-    followers: 3255
-    engagement: 2179
-    commentsToLikes: 0.115197
-    id: ck8tc5kzcycwv0j78m6t6krq8
+    followers: 10467
+    engagement: 1209
+    commentsToLikes: 0.098333
+    id: ckaov5oul361p0i78o45c14hk
     verified: false
-    hashtags: "#indianblog, #indianwear, #voguemagazine, #giveaway"
-  - username: "veneloppeblack"
+    hashtags: "#saynotocolorism, #bodyshame, #creativemakeup, #glitch"
+  - username: "anjimaxuofficially"
     fullname: >-
-      veneno
+      Anjali Arora💎
     location: "India"
-    followers: 6439
-    engagement: 1465
-    commentsToLikes: 0.044211
-    id: ck6tk6r7d43xp0j71h0u3pb0p
+    followers: 297024
+    engagement: 2122
+    commentsToLikes: 0.022020
+    id: ck9hcsffkms7e0j78no50xhzi
     verified: false
-    hashtags: "#rome, #italia, #holiday, #india"
-  - username: "_abix_"
-    fullname: >-
-      Abhinav Mathur
-    location: "India"
-    followers: 72678
-    engagement: 445
-    commentsToLikes: 0.033687
-    id: ck5qaj0k5gnsp0i117mb3mv42
-    verified: false
-    hashtags: "#megamonster, #movielife, #shotoniphone11promax, #onlinepoker"
-  - username: "inshitamittal"
-    fullname: >-
-      Inshita Mittal
-    location: "India"
-    followers: 95437
-    engagement: 553
-    commentsToLikes: 0.065122
-    id: ck137psmbcrix0i198ex2bnvw
-    verified: false
-    hashtags: "#maintainsocialdistancing, #lvbag, #danceislife, #fridaynight"
+    hashtags: "#entertainerno1"
   - username: "ishitanand"
     fullname: >-
       Ishita Anand
     location: "India"
-    followers: 47942
-    engagement: 432
-    commentsToLikes: 0.032984
+    followers: 58214
+    engagement: 717
+    commentsToLikes: 0.033795
     id: ck0u9toa4anvi0i19jlyjj5rd
     verified: false
-    hashtags: "#sodelhi, #cocktaildress, #nikhilsharmahairdressing, #ilovebeer"
-  - username: "stylebykritika"
+    hashtags: "#summertrends, #playdateedit, #eidcollection, #pinkdress"
+  - username: "pragya.acp"
     fullname: >-
-      KRITIKA GULATI | Fashion Blog
+      Pragya Anand
     location: "India"
-    followers: 11286
-    engagement: 892
-    commentsToLikes: 0.074874
-    id: ck8t95v5vmziw0j78sqh10a6q
+    followers: 11813
+    engagement: 1721
+    commentsToLikes: 0.039724
+    id: ck9wefuddk2pw0j782k6rh44k
     verified: false
-    hashtags: "#sbk, #indianfashionblog, #fashion, #quaraaantineeee143"
-  - username: "adil_alinoor"
+    hashtags: "#everyonematters, #mindbodysoul, #dowhatyoulove, #lockdown4"
+  - username: "miss_preet__"
     fullname: >-
-      ADIL
+      Preet Kaur | Blogger
     location: "India"
-    followers: 186637
-    engagement: 1386
-    commentsToLikes: 0.009288
-    id: ck5zvfcon44lm0i14i51tnt55
+    followers: 4911
+    engagement: 1295
+    commentsToLikes: 0.129325
+    id: ck8tc5kzcycwv0j78m6t6krq8
     verified: false
-    hashtags: "#adil, #fitnessmotivation, #underwater, #staystrong"
-  - username: "tenzingwang"
+    hashtags: "#lockdown, #foryoumom, #chaiwaliselfie, #kolkatablogger"
+  - username: "inshaghaii"
     fullname: >-
-      Tenzing Wang ™
+      Insha Ghai 🧿
     location: "India"
-    followers: 26883
-    engagement: 1935
-    commentsToLikes: 0.008898
-    id: ck6uciypwfvnr0j71ghesdtsz
+    followers: 628934
+    engagement: 267
+    commentsToLikes: 0.033334
+    id: ck0vw9tt6sqxr0i19dse5jbxj
     verified: false
-    hashtags: "#2020, #happy, #fashionblogger, #sunset"
-  - username: "lisa_travelstories"
+    hashtags: "#mothersday"
+  - username: "ashimasaxena_official"
     fullname: >-
-      Ewe Lisa || Poland || India
+      Ria 👻
     location: "India"
-    followers: 21582
-    engagement: 878
-    commentsToLikes: 0.028954
-    id: ck6tmjrja7ysf0j7134wfcpog
+    followers: 56124
+    engagement: 3019
+    commentsToLikes: 0.019361
+    id: ck9hcsayemrnl0j789buz7ees
     verified: false
-    hashtags: "#gulmarg, #indiaclicks, #himalayangirls, #moodyports"
+    hashtags: "#ashimaxfam"
+  - username: "inshitamittal"
+    fullname: >-
+      Inshita Mittal
+    location: "India"
+    followers: 96952
+    engagement: 589
+    commentsToLikes: 0.066966
+    id: ck137psmbcrix0i198ex2bnvw
+    verified: false
+    hashtags: "#winter, #happyness, #day37, #goodtimes"
+  - username: "veneloppeblack"
+    fullname: >-
+      veneno
+    location: "India"
+    followers: 7031
+    engagement: 1366
+    commentsToLikes: 0.042405
+    id: ck6tk6r7d43xp0j71h0u3pb0p
+    verified: false
+    hashtags: "#holiday, #india, #happyholi, #newdelhi"
 ---

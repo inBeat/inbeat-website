@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top architecture Instagram influencers in Las Vegas in 2020. Most popular hashtags: #architecture #travel #losangeles #lasvegas.
+  Find top architecture Instagram influencers in Las Vegas in 2020. Most popular hashtags: #architecture #lasvegas #stayhome #nature.
 platform: Instagram
 profiles:
-  - username: "gabchappel"
+  - username: "pai.esther"
     fullname: >-
-      Gabrielle Chappel
+      Esther Pai
     location: "United States"
-    followers: 20560
-    engagement: 683
-    commentsToLikes: 0.036512
-    id: ck0w3j8d7toz80i19vtavbpd3
+    followers: 6977
+    engagement: 1191
+    commentsToLikes: 0.057097
+    id: ck8t7ia9fgwpz0j78wc6u2ac1
     verified: false
-    hashtags: "#lostmyfavturtlenecktoo, #fashion, #promenade, #palosanto"
-  - username: "dabnation"
+    hashtags: "#acryliconcanvas, #hotelsuite, #waterscape, #acrylicpainting"
+  - username: "juliem1809"
     fullname: >-
-      Dab Nation
+      ❥ᴛʀᴀᴠᴇʟ& ʟɪғᴇsᴛʏʟᴇ🛫
     location: "United States"
-    followers: 25316
-    engagement: 58
-    commentsToLikes: 0.052463
-    id: ck0vy1s3y1tkk0i19gt4c3gbh
+    followers: 3798
+    engagement: 2186
+    commentsToLikes: 0.038464
+    id: ckapa0ewau7pw0i78d7dvt865
     verified: false
-    hashtags: "#legend, #bongs, #bron, #organic"
+    hashtags: "#sunsetshot, #positivemind, #arizona, #view"
   - username: "daniellibeskind"
     fullname: >-
       Studio Libeskind
     location: "United States"
-    followers: 191694
+    followers: 193911
     engagement: 138
-    commentsToLikes: 0.005865
+    commentsToLikes: 0.006255
     id: ck13734yl9j610i19tncrtmj4
     verified: false
-    hashtags: "#studiolibeskind, #dutchmonuments, #ontheroadwithsdl, #cooperunion"
-  - username: "cillehoegh"
+    hashtags: "#storm, #jewishmuseumberlin, #milano, #wuhan"
+  - username: "refikanadol"
     fullname: >-
-      Cecilie Høgh
+      Refik Anadol
     location: "United States"
-    followers: 3976
-    engagement: 794
-    commentsToLikes: 0.116366
-    id: ck14ib6cwejgu0i196fa2wqfv
-    verified: false
-    hashtags: "#couplegoals, #greatsanddunes, #wine, #learnandhavefun"
-  - username: "leavingfromla"
-    fullname: >-
-      STEVE DEAN
-    location: "United States"
-    followers: 10772
-    engagement: 1889
-    commentsToLikes: 0.034435
-    id: ck14gzw5r7uk70i19uzdk7wwy
-    verified: false
-    hashtags: "#nvoutdoors, #divine, #ghostadventures, #nye2020"
-  - username: "chantellenicolemrowka"
-    fullname: >-
-      Chantelle Mrowka
-    location: "United States"
-    followers: 40843
-    engagement: 1685
-    commentsToLikes: 0.028589
-    id: ck14hii82ah9h0i19dfqi5z86
-    verified: false
-    hashtags: "#handstands, #lafitness, #dancer, #create"
+    followers: 254564
+    engagement: 478
+    commentsToLikes: 0.019852
+    id: ck0u95g5i93ft0i1919pi4cki
+    verified: true
+    hashtags: "#wdchdreams, #quantumdatapainting, #dubai, #painting"
   - username: "allied_works"
     fullname: >-
       Allied Works
     location: "United States"
-    followers: 5246
-    engagement: 461
-    commentsToLikes: 0.012112
+    followers: 5429
+    engagement: 453
+    commentsToLikes: 0.014589
     id: ck6tx9dpiwkrs0j71gr5qui82
     verified: false
-    hashtags: "#alliedworks, #solstice, #residence, #lasvegas"
-  - username: "margoes_around"
+    hashtags: "#woodblock, #designwithinreach, #bchs, #kitchen"
+  - username: "graphiknation"
     fullname: >-
-      | 𝑀𝒶𝓇𝑔𝑜 | ♣
+      Lauren Holley
     location: "United States"
-    followers: 2638
-    engagement: 797
-    commentsToLikes: 0.097776
-    id: ck5hp7vobqwep0i11em4o2xth
+    followers: 7023
+    engagement: 592
+    commentsToLikes: 0.048785
+    id: ck5zs7hytxz7f0i14f9kakdnm
     verified: false
-    hashtags: "#handmade, #latteart, #breakfasttime, #losangelesfood"
-  - username: "anna.sauce"
+    hashtags: "#citycolors, #giftideas, #moon, #leavinglasvegas"
+  - username: "deluxeversionmagazine"
     fullname: >-
-      🌸 Anna Nguyen 🌸
+      Deluxe Version Magazine®️
     location: "United States"
-    followers: 9015
-    engagement: 1506
-    commentsToLikes: 0.022062
-    id: ck14h4yi28jx30i19oye3rns2
+    followers: 52325
+    engagement: 202
+    commentsToLikes: 0.002144
+    id: ck0vv554onlcy0i197dl8g0bf
     verified: false
-    hashtags: "#ahaubalcony, #fashiongram, #naturebridge, #waterfall"
-  - username: "boogie_shotz"
+    hashtags: "#cosmeticsurgery, #summerready, #breastaugmentation, #happybirthday"
+  - username: "casperjanning"
     fullname: >-
-      Rodrigo Hernandez | Las Vegas
+      Casper Janning
     location: "United States"
-    followers: 6357
-    engagement: 1141
-    commentsToLikes: 0.153597
-    id: ck5zz39h8azw40i14pcoolbdu
+    followers: 12549
+    engagement: 230
+    commentsToLikes: 0.072341
+    id: ck15uxp7loztm0i19v4k4se65
     verified: false
-    hashtags: "#landscape, #tuesdaytrails, #themadtitan, #reflection"
+    hashtags: "#beach, #sunrise, #orangebeach, #udogse"
+  - username: "live.collegiate.shag"
+    fullname: >-
+      Live.Collegiate.Shag
+    location: "United States"
+    followers: 47177
+    engagement: 964
+    commentsToLikes: 0.036552
+    id: ck5cahwbidfxb0i117wxuim7c
+    verified: false
+    hashtags: "#roaring20s, #thuncastle, #paintedstones, #1800s"
+  - username: "realhistoryuncovered"
+    fullname: >-
+      History Uncovered
+    location: "United States"
+    followers: 372788
+    engagement: 185
+    commentsToLikes: 0.013086
+    id: ck55jlvr9xa860i115561135f
+    verified: false
+    hashtags: "#historyofmexico, #science, #cannibalism, #saharadesert"
 ---

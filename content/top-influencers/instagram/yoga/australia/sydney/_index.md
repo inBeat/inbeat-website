@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Sydney In 2020
 description: >-
-  Find top yoga Instagram influencers in Sydney in 2020. Most popular hashtags: #yoga #fitness #covid #australia.
+  Find top yoga Instagram influencers in Sydney in 2020. Most popular hashtags: #yoga #workout #model #quarantine.
 platform: Instagram
 profiles:
-  - username: "calebjudepackhamyoga"
+  - username: "nicolekastoun"
     fullname: >-
-      THE WELLNESS WARRIOR
+      Nicole McPherson Kastoun
     location: "Australia"
-    followers: 30360
-    engagement: 415
-    commentsToLikes: 0.030442
-    id: ck8sztxi2pp370j78v2szapb6
+    followers: 11447
+    engagement: 791
+    commentsToLikes: 0.158779
+    id: ck5zm9ff1m5bf0i14yx1eswhf
     verified: false
-    hashtags: "#sattvayoga, #yogapose, #wellness, #mindfulness"
-  - username: "yogiinbeirut"
-    fullname: >-
-      Hala Okeili
-    location: "Australia"
-    followers: 20790
-    engagement: 262
-    commentsToLikes: 0.076013
-    id: ck15pn17qyo7v0i19jbyc0f6j
-    verified: false
-    hashtags: "#hanumanasana, #acroyoga, #selflove, #vinyasa"
-  - username: "miguel_hand_balance"
-    fullname: >-
-      Miguel Sant'ana
-    location: "Australia"
-    followers: 102366
-    engagement: 235
-    commentsToLikes: 0.016433
-    id: ck0vxf3csyl6z0i194w0qmbij
-    verified: false
-    hashtags: "#workout, #hkyoga, #armbalance, #inversions"
-  - username: "marathoner_dale"
-    fullname: >-
-      Dale Marie
-    location: "Australia"
-    followers: 15137
-    engagement: 236
-    commentsToLikes: 0.026306
-    id: ck138xswcijt20i19eu99hwao
-    verified: false
-    hashtags: "#allthecoffee, #maybeillsurf, #usolympictrials, #justrun"
-  - username: "ryanpierse"
-    fullname: >-
-      Ryan Pierse
-    location: "Australia"
-    followers: 14512
-    engagement: 481
-    commentsToLikes: 0.009908
-    id: ck0tu4ry45ms40i19748xsh7g
-    verified: false
-    hashtags: "#cmonaussie, #tbt, #untiltomorrow, #rollandgarros"
-  - username: "cheeky_palm"
-    fullname: >-
-      ⚡️ CHEEKY PALM ⚡️
-    location: "Australia"
-    followers: 80628
-    engagement: 488
-    commentsToLikes: 0.004706
-    id: ck0uchy42gw4j0i1923zogu4a
-    verified: false
-    hashtags: "#iso2020, #selfisolation, #savethegrandparents, #stayathome"
-  - username: "sophiehearts_com"
-    fullname: >-
-      Sophie | Lifestyle Blog Wien
-    location: "Australia"
-    followers: 35950
-    engagement: 285
-    commentsToLikes: 0.029128
-    id: ck5c0sqp1ts380i11tql1idga
-    verified: false
-    hashtags: "#kaffee, #dontbeanasshole, #lesezeichen, #visitnewyork"
+    hashtags: "#peaceful, #yogaanywhere, #barreinstructor, #happyyogi"
   - username: "simongougnard"
     fullname: >-
       Simon Gougnard
     location: "Australia"
-    followers: 11196
-    engagement: 905
-    commentsToLikes: 0.031314
+    followers: 11320
+    engagement: 886
+    commentsToLikes: 0.028314
     id: ck6tw6fh9q96k0j71kmerhxl4
     verified: true
-    hashtags: "#mensfashion, #solidarity, #yoga, #coogeebeach"
-  - username: "charlih"
+    hashtags: "#redlions, #road2tokyo, #teambelgium, #asicsfieldhockey"
+  - username: "sugarplumtree_mama"
     fullname: >-
-      Charli Hoffmann
+      Nic @sugarplumtree_mama
     location: "Australia"
-    followers: 42328
-    engagement: 279
-    commentsToLikes: 0.071614
-    id: ck14i8ctse5cl0i19u4mobskq
+    followers: 23587
+    engagement: 221
+    commentsToLikes: 0.068764
+    id: ck0vzqnrtafd80i199tm66sfe
     verified: false
-    hashtags: "#strava, #deewhy, #holidayherethisyear, #cervelor5disc"
-  - username: "deanogladstone"
+    hashtags: "#transformation, #toddlerplay, #nomessplay, #homereno"
+  - username: "marathoner_dale"
     fullname: >-
-      Dean Gladstone
+      Dale Marie
     location: "Australia"
-    followers: 45362
-    engagement: 324
-    commentsToLikes: 0.020260
-    id: ck6u1856ok67e0j71jmoce5yt
+    followers: 15013
+    engagement: 304
+    commentsToLikes: 0.033113
+    id: ck138xswcijt20i19eu99hwao
     verified: false
-    hashtags: "#drowning, #physio, #wimhof, #healing"
+    hashtags: "#sprinklecheer, #coastalwalk, #littlethings, #hangingin"
+  - username: "urb4n_gr33n"
+    fullname: >-
+      🌿 Nige 🌿
+    location: "Australia"
+    followers: 9421
+    engagement: 1321
+    commentsToLikes: 0.030628
+    id: ck9wfax0go14g0j78ijwqn45v
+    verified: false
+    hashtags: "#hydroculture, #yogapractice, #lifewithplants, #airlayer"
+  - username: "shaneus88"
+    fullname: >-
+      𝕊ℍ𝔸ℕ𝔼𝕆
+    location: "Australia"
+    followers: 25536
+    engagement: 463
+    commentsToLikes: 0.014166
+    id: ck5q2jhusgbs60i11d4x9zn2s
+    verified: false
+    hashtags: "#poolside, #beyou, #ansonbay, #arms"
+  - username: "tarynwilliams"
+    fullname: >-
+      Taryn Williams
+    location: "Australia"
+    followers: 20064
+    engagement: 221
+    commentsToLikes: 0.034109
+    id: ck6to0ho6beyc0j71wfgda4ai
+    verified: false
+    hashtags: "#artist, #curve, #winkmodels, #laprairie"
+  - username: "calebjudepackhamyoga"
+    fullname: >-
+      THE WELLNESS WARRIOR
+    location: "Australia"
+    followers: 31995
+    engagement: 429
+    commentsToLikes: 0.030527
+    id: ck8sztxi2pp370j78v2szapb6
+    verified: false
+    hashtags: "#covid19, #upwardfacingdog, #bestof2019, #kundaliniyoga"
+  - username: "iamshimakhosravi"
+    fullname: >-
+      🧿shima khosravi 🧿
+    location: "Australia"
+    followers: 15046
+    engagement: 247
+    commentsToLikes: 0.147713
+    id: ck6tq2ll0p2040j71ojmm7o19
+    verified: false
+    hashtags: "#catlovers, #life, #photo, #hairsalon"
+  - username: "theycallmezuzu"
+    fullname: >-
+      Zuzu Galova
+    location: "Australia"
+    followers: 31822
+    engagement: 63
+    commentsToLikes: 0.089139
+    id: ck5hhir0g8fry0i11uhd51lff
+    verified: false
+    hashtags: "#morning, #filmphotography, #staymotivated, #siemreap"
 ---

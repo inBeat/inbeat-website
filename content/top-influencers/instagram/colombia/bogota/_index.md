@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Bogotá In 2020
 description: >-
-  Find top Instagram influencers in Bogotá in 2020. Most popular hashtags: #colombia #colombiatravel #colombiatravellers #tbt.
+  Find top Instagram influencers in Bogotá in 2020. Most popular hashtags: #tbt #bogota # #lifestyle.
 platform: Instagram
 profiles:
-  - username: "marianamosquera"
+  - username: "soyjorgebernal"
     fullname: >-
-      Mariana Mosquera
+      Jorge Bernal
     location: "Colombia"
-    followers: 6424
-    engagement: 1353
-    commentsToLikes: 0.075913
-    id: ck5bug4o8hpvx0i11bxt8ex4t
+    followers: 7099
+    engagement: 1763
+    commentsToLikes: 0.180423
+    id: ck9hcvq9an61y0j78ktzkrs7w
     verified: false
-    hashtags: "#birthdaygirl, #20"
+    hashtags: "#happybirthday, #mejoresamigos, #like, #tbt"
+  - username: "soydylann"
+    fullname: >-
+      dylan🦋
+    location: "Colombia"
+    followers: 34128
+    engagement: 1472
+    commentsToLikes: 0.111269
+    id: ck9whicx4xzqs0j78f2zsqtww
+    verified: false
+    hashtags: ""
   - username: "davidvisuals_ph"
     fullname: >-
       David Pinilla
     location: "Colombia"
-    followers: 33709
-    engagement: 979
-    commentsToLikes: 0.037038
+    followers: 37964
+    engagement: 847
+    commentsToLikes: 0.111113
     id: ck5hmy57bmuih0i11uont2ws2
     verified: false
-    hashtags: "#igpodium, #sonyimages, #earth, #collectivetrend"
+    hashtags: "#sonyimages, #igpodium, #ftwotw, #ftmedd"
+  - username: "maitegarciag"
+    fullname: >-
+      Maite García Girgenti
+    location: "Colombia"
+    followers: 78348
+    engagement: 723
+    commentsToLikes: 0.031651
+    id: ck0vw10ixrmeh0i19myshj5qk
+    verified: false
+    hashtags: "#tbt, #lakw, #funciona, #paramu"
+  - username: "leidygomez063"
+    fullname: >-
+      ⚜️ 𝐋𝐞𝐢𝐢𝐝𝐲 𝐆𝐨́𝐦𝐞𝐳  ⚜️
+    location: "Colombia"
+    followers: 254897
+    engagement: 456
+    commentsToLikes: 0.131269
+    id: ck8t0qyfwsytv0j7846clzuqm
+    verified: false
+    hashtags: "#tucacas, #manizale, #modeloscolombia, #regalamelanoche"
+  - username: "jessica.zabala"
+    fullname: >-
+      Jessica Zabala
+    location: "Colombia"
+    followers: 59094
+    engagement: 1461
+    commentsToLikes: 0.029326
+    id: ck9wghcvxtf430j788scdohfk
+    verified: false
+    hashtags: ""
+  - username: "chrisgarzoncph"
+    fullname: >-
+      Cristian Garzon Carrero
+    location: "Colombia"
+    followers: 31019
+    engagement: 446
+    commentsToLikes: 0.066140
+    id: ck15ukzinnp0m0i19sn6v36zb
+    verified: false
+    hashtags: "#facetimephotoshoot, #facetime, #polaroid, #quedateencasa"
+  - username: "marianamorenovm"
+    fullname: >-
+      M  a  r  i  a  n  a
+    location: "Colombia"
+    followers: 6384
+    engagement: 886
+    commentsToLikes: 0.092401
+    id: ck6txc714x0as0j71y22tlkxl
+    verified: false
+    hashtags: "#video, #naturephotography, #cover, #ny"
   - username: "juanda_aldana"
     fullname: >-
       JUAN DAVID ALDANA
     location: "Colombia"
-    followers: 389991
-    engagement: 735
-    commentsToLikes: 0.017561
+    followers: 383307
+    engagement: 754
+    commentsToLikes: 0.017572
     id: ck5ci7d94s5ie0i11plstqfw8
     verified: false
-    hashtags: "#energydrink, #pleasure, #relax, #summer"
+    hashtags: "#tbt, #nature, #siemprefuerte, #vpxsports"
   - username: "branorozcom"
     fullname: >-
       Bran Orozco Muñoz
     location: "Colombia"
-    followers: 17188
-    engagement: 527
-    commentsToLikes: 0.110827
+    followers: 16967
+    engagement: 538
+    commentsToLikes: 0.109629
     id: ck15ux3olox5w0i19y3al30ix
     verified: false
-    hashtags: "#travelcolombia, #hotelhilton, #barranquilla, #style"
-  - username: "caromejiaaraujo"
-    fullname: >-
-      Carolina Mejía Araújo
-    location: "Colombia"
-    followers: 32981
-    engagement: 630
-    commentsToLikes: 0.051243
-    id: ck5hj6hllg3cw0i118da5szy1
-    verified: false
-    hashtags: "#style, #selflove, #quarantine, #starjumps"
-  - username: "monimolano"
-    fullname: >-
-      MONI MOLANO
-    location: "Colombia"
-    followers: 281513
-    engagement: 301
-    commentsToLikes: 0.037537
-    id: ck5c17g6fulmx0i11pa2p2qsw
-    verified: true
-    hashtags: "#mera, #cuarentena, #yomequedoencasa, #quedateencasa"
-  - username: "_omnia.x"
-    fullname: >-
-      O M N I A
-    location: "Colombia"
-    followers: 26757
-    engagement: 1432
-    commentsToLikes: 0.027958
-    id: ck55kllvdzlpk0i1159j074ii
-    verified: false
-    hashtags: "#sonyalphaportrait, #majestic, #collateral, #sonyalphaclub"
-  - username: "yelenkalindy"
-    fullname: >-
-      Yelen Avila C
-    location: "Colombia"
-    followers: 15910
-    engagement: 863
-    commentsToLikes: 0.058806
-    id: ck13cbnv4zk400i1932oeogu7
-    verified: false
-    hashtags: "#guitarra, #tanto, #singingvideo, #reggaeton"
-  - username: "unarolaviajera"
-    fullname: >-
-      Leidy 🏃‍♀️Una Rola Viajera🌏
-    location: "Colombia"
-    followers: 6597
-    engagement: 812
-    commentsToLikes: 0.197423
-    id: ck14gpr4t6fl00i199vowlfur
-    verified: false
-    hashtags: "#puebloscolombianos, #colombiaentusojos, #elparosigue, #aguinaldos"
-  - username: "stevensalme"
-    fullname: >-
-      Steven Salme
-    location: "Colombia"
-    followers: 61623
-    engagement: 288
-    commentsToLikes: 0.088990
-    id: ck6tvbmo0lark0j71e4tw3lsr
-    verified: false
-    hashtags: "#films, #flicks, #quedateencasa, #comedia"
+    hashtags: "#laguajira, #blogger, #turismo, #formen"
 ---

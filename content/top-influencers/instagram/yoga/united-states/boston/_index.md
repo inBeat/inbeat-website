@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Boston In 2020
 description: >-
-  Find top yoga Instagram influencers in Boston in 2020. Most popular hashtags: #fitness #yoga #boston #quarantine.
+  Find top yoga Instagram influencers in Boston in 2020. Most popular hashtags: #yoga #boston #love #bostonstrong.
 platform: Instagram
 profiles:
-  - username: "africarubiop"
+  - username: "littlefrenchtaco"
     fullname: >-
-      Africa Rubio Pastor
+      Taco the Frenchie 🐾
     location: "United States"
-    followers: 7824
-    engagement: 380
-    commentsToLikes: 0.037485
-    id: ck14jacm1jby30i194h487oqj
+    followers: 5300
+    engagement: 1511
+    commentsToLikes: 0.023560
+    id: ckaormgmpnvy60i781mu784pe
     verified: false
-    hashtags: "#yoga, #movingtogether, #popup, #corepoweryoga"
-  - username: "triandrungirl"
+    hashtags: "#nuglife, #dogexercise, #stayhome, #workschmerk"
+  - username: "annabr8nnan"
     fullname: >-
-      Heather Jenson 🏊🏻‍♀️🚴🏼‍♀️🏃🏼‍♀️
+      𝐴𝑁𝑁𝐴 𝐵𝑅𝐸𝑁𝑁𝐴𝑁
     location: "United States"
-    followers: 46065
-    engagement: 181
-    commentsToLikes: 0.066206
-    id: ck55p6spt9xlm0i112b6twjd0
+    followers: 2666
+    engagement: 1126
+    commentsToLikes: 0.072440
+    id: ck8svyb0sd5go0j784v3n4qrf
     verified: false
-    hashtags: "#vitavibe, #bostonmarathon2020, #idealfit, #runnersbestfriend"
-  - username: "antennaemusic"
+    hashtags: "#ridgeydidge, #covid19, #tomhanks, #sheila"
+  - username: "amandarunsboston"
     fullname: >-
-      An-Ten-Nae
+      AMANDA NURSE
     location: "United States"
-    followers: 17822
-    engagement: 395
-    commentsToLikes: 0.106323
-    id: ck15uwfegotzv0i1962km17n2
+    followers: 19101
+    engagement: 270
+    commentsToLikes: 0.073673
+    id: ck5hjh5bcgme50i11qohikmjs
     verified: false
-    hashtags: "#dubstep, #edclasvegas, #performanceart, #globalbass"
+    hashtags: "#silverlinings, #instagramlive, #maine, #love"
   - username: "yogagolfdad"
     fullname: >-
       Ronan O'Connor
     location: "United States"
-    followers: 20814
-    engagement: 919
-    commentsToLikes: 0.027374
+    followers: 20556
+    engagement: 807
+    commentsToLikes: 0.028795
     id: ck14jabt8jbtv0i19ar16c9aw
     verified: false
-    hashtags: "#wtf, #yogaadjustments, #wetrynasleep, #freeyoga"
-  - username: "rx.photography"
+    hashtags: "#covid, #theopen, #poweryoga, #yogasculpt"
+  - username: "reverethecat"
     fullname: >-
-      Brandon Mui
+      Revere 💜
     location: "United States"
-    followers: 18582
-    engagement: 543
-    commentsToLikes: 0.019533
-    id: ck0vw2qs2ru6r0i19eqkm4pq8
+    followers: 33337
+    engagement: 403
+    commentsToLikes: 0.096170
+    id: ck5qbm889m9zo0i11c8pzxmmb
     verified: false
-    hashtags: "#tattoos, #inkedout, #comebackkid, #holidaydeals"
-  - username: "zackzerbephotography"
-    fullname: >-
-      Zack Zerbe
-    location: "United States"
-    followers: 11050
-    engagement: 436
-    commentsToLikes: 0.023679
-    id: ck6tmiuit7x2j0j71izyusl3d
-    verified: false
-    hashtags: "#hotguy, #hunk, #nycphotographer, #manhattanmen"
-  - username: "alyraymer"
-    fullname: >-
-      ALY RAYMER
-    location: "United States"
-    followers: 30790
-    engagement: 154
-    commentsToLikes: 0.047351
-    id: ck0w4t74j0an00i19x53ktavn
-    verified: false
-    hashtags: "#valentinesday2020, #paradigmshift, #inspo, #selfawareness"
-  - username: "amandarunsboston"
-    fullname: >-
-      Amanda Nurse
-    location: "United States"
-    followers: 19153
-    engagement: 526
-    commentsToLikes: 0.068730
-    id: ck5hjh5bcgme50i11qohikmjs
-    verified: false
-    hashtags: "#strollerrun, #runners, #athletemamas, #runner"
+    hashtags: "#workfromhome, #meowmy, #cuddles, #catzoom2face"
   - username: "tolakinyo54"
     fullname: >-
       Tola Morakinyo
     location: "United States"
-    followers: 21708
-    engagement: 687
-    commentsToLikes: 0.015502
+    followers: 21822
+    engagement: 677
+    commentsToLikes: 0.015956
     id: ck5zua9vz1zdy0i14eqz5kvab
     verified: false
-    hashtags: "#dumdum, #maskoff, #heroswearnobulls, #snatch"
-  - username: "andrewmolen"
+    hashtags: "#playgood, #wutinthewut, #weightlifting, #wakandaforever"
+  - username: "alyraymer"
     fullname: >-
-      Andrew Molen
+      ALY RAYMER
     location: "United States"
-    followers: 39841
-    engagement: 301
-    commentsToLikes: 0.032790
-    id: ck5cfy6fsnt5r0i1132qbzjea
+    followers: 30395
+    engagement: 175
+    commentsToLikes: 0.068129
+    id: ck0w4t74j0an00i19x53ktavn
     verified: false
-    hashtags: "#thankyou, #foodiegram, #foodjokes, #eathealthy"
+    hashtags: "#miami, #virtuallearning, #capecod, #bueller"
+  - username: "seanecorn"
+    fullname: >-
+      Seane Corn
+    location: "United States"
+    followers: 104361
+    engagement: 111
+    commentsToLikes: 0.057275
+    id: ck0vwvem1vscp0i19yhcuv1wm
+    verified: false
+    hashtags: "#onlineyogaworkshop, #earth, #selfapprovalsummit, #lookagainpodcast"
+  - username: "zaynagold"
+    fullname: >-
+      Pilates Teacher Training
+    location: "United States"
+    followers: 39447
+    engagement: 76
+    commentsToLikes: 0.195718
+    id: ck5q436manjst0i1145k5e4mg
+    verified: false
+    hashtags: "#pilatestrainer, #blessed, #flattummy, #birddog"
+  - username: "bspokestudios"
+    fullname: >-
+      B/SPOKE Studios
+    location: "United States"
+    followers: 28046
+    engagement: 90
+    commentsToLikes: 0.032475
+    id: ck55lj7wt1p6v0i11fjwc7avl
+    verified: false
+    hashtags: "#vybes, #createdtoimprovelife, #liveworkouts, #challenge"
 ---

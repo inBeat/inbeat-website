@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top health Instagram influencers in Nigeria in 2020. Most popular hashtags: #naturalhairstyles #naturalhairjourney #amazingnaturalhair #naturallyshesdope.
+  Find top health Instagram influencers in Nigeria in 2020. Most popular hashtags: #smile #girl #naturalhair #healthy.
 platform: Instagram
 profiles:
-  - username: "andikan_"
+  - username: "jbums"
     fullname: >-
-      
+      Mrs Black
     location: "Nigeria"
-    followers: 7531
-    engagement: 818
-    commentsToLikes: 0.065498
-    id: ck5hha2ub76g50i11oqki9mn3
+    followers: 39944
+    engagement: 248
+    commentsToLikes: 0.041957
+    id: ck6tu8eqoew750j71srno3x1a
     verified: false
-    hashtags: "#lagos, #stayhealthy, #pictureperfect, #photography"
-  - username: "tasalahq"
+    hashtags: "#warriorprincess, #feastingathistable, #whoistheadulthere, #belongingtothekingoftheearth"
+  - username: "afroliciousmuna"
     fullname: >-
-      Healthy Hair Experts
+      Muna| 4c Natural Hair
     location: "Nigeria"
-    followers: 82390
-    engagement: 228
-    commentsToLikes: 0.027518
-    id: ck5c1foziv3jy0i11f4xj3dd3
+    followers: 12957
+    engagement: 903
+    commentsToLikes: 0.137158
+    id: ckaor2lgnlgo10i788wae3dlg
     verified: false
-    hashtags: "#morenikg19, #tbt, #teamtasala, #dayones"
-  - username: "mocheddah"
+    hashtags: "#naturalhair, #afroliciouswomen, #kinkychicks, #naturallyshesdope"
+  - username: "thegenevievefadeh_"
     fullname: >-
-      Mo Olateru-Olagbegi
+      CHEF GENEVIEVE FADEH👩🏻‍🍳
     location: "Nigeria"
-    followers: 326081
-    engagement: 70
-    commentsToLikes: 0.045025
-    id: ck0w4y3cs0z5o0i19stid18nn
+    followers: 21406
+    engagement: 317
+    commentsToLikes: 0.047984
+    id: ck5byv8xhpwz60i117acn4y7h
+    verified: false
+    hashtags: "#thankful, #cheersto27, #wcw, #2020"
+  - username: "maureenkunga"
+    fullname: >-
+      Maureen Kunga
+    location: "Nigeria"
+    followers: 273757
+    engagement: 91
+    commentsToLikes: 0.059883
+    id: ck5zqdvs1ufaj0i14cbzgbjta
     verified: true
-    hashtags: "#nigerians, #mstinaknowels, #lockdown, #crabs"
-  - username: "potofflavours"
+    hashtags: "#elani, #music, #singer, #sing"
+  - username: "artejiro"
     fullname: >-
-      Pot of  Flavours
+      Artist Ejiro 🇳🇬
     location: "Nigeria"
-    followers: 5524
-    engagement: 583
-    commentsToLikes: 0.044257
-    id: ck13aedflpz9j0i19rt8zm189
+    followers: 15106
+    engagement: 629
+    commentsToLikes: 0.037959
+    id: ck9wd1c64dm8h0j78kh7et3px
     verified: false
-    hashtags: "#lockdown, #ugusauce, #fishpeppersoup, #abujachef"
-  - username: "tamara.aig"
+    hashtags: "#timelapse, #pencildrawing, #lagosart, #mayor"
+  - username: "angel.zee"
     fullname: >-
-      Tamara |Hair Beauty Fashion🇳🇬
+      Zaynab Yusuf Abdul-Raheem
     location: "Nigeria"
-    followers: 8482
-    engagement: 1198
-    commentsToLikes: 0.070096
-    id: ck5hdea8mmyju0i11dmzcoeux
+    followers: 28448
+    engagement: 150
+    commentsToLikes: 0.052017
+    id: ck9wezzawmnin0j78gwc5c8rv
     verified: false
-    hashtags: "#skincaretips, #contentcreator, #niveang, #nigeriancontentcreator"
-  - username: "whitehotwhitehair"
+    hashtags: "#monday, #day9, #beach, #model"
+  - username: "lyriklondon"
     fullname: >-
-      C A R O L I N E
+      Lyrik London
     location: "Nigeria"
-    followers: 27555
-    engagement: 560
-    commentsToLikes: 0.049044
-    id: ck0vvk27epham0i19ri6a6yc5
+    followers: 35469
+    engagement: 89
+    commentsToLikes: 0.155577
+    id: ck6ua1al10wn10j71894q01w9
     verified: false
-    hashtags: "#silversister, #graypride, #selfsufficiency, #onebreathatatime"
-  - username: "favournelson"
+    hashtags: "#dababy, #megantheestallion, #nasty, #keepemcoming"
+  - username: "preciousokoye"
     fullname: >-
-      NNEAMAKA
+      PRECIOUS OKOYE
     location: "Nigeria"
-    followers: 5817
-    engagement: 1383
-    commentsToLikes: 0.119223
-    id: ck602iygahhip0i14z44acq6w
+    followers: 18090
+    engagement: 640
+    commentsToLikes: 0.096218
+    id: ck15q0t2i0jvp0i19i0hj91yd
     verified: false
-    hashtags: "#sundayspecial, #instacute, #transform, #art"
-  - username: "curlyhairedchik"
+    hashtags: "#checkonneighbours, #livinginbondagebreakingfree, #privatehostess, #giversneverlack"
+  - username: "manu.sainii"
     fullname: >-
-      Kristen Desiree
+      Manu Saini
     location: "Nigeria"
-    followers: 13481
-    engagement: 1221
-    commentsToLikes: 0.019032
-    id: ck55lk9ng1ric0i11oxklab8u
+    followers: 10082
+    engagement: 2007
+    commentsToLikes: 0.129296
+    id: ck9wfx3f3qw2a0j78i53fxb47
     verified: false
-    hashtags: "#blackgirlmagic, #weddingsonpoint, #hmxme, #kinkychicks"
-  - username: "theladyvhodka"
+    hashtags: "#instagramhub, #fitspo, #killshot, #nature"
+  - username: "miss_tera"
     fullname: >-
-      Jennifer Oseh
+      Tera ♥
     location: "Nigeria"
-    followers: 82125
-    engagement: 314
-    commentsToLikes: 0.041666
-    id: ck5c8xpjeaece0i11x03yvedd
+    followers: 16882
+    engagement: 776
+    commentsToLikes: 0.033882
+    id: ck8szn5wyp2f10j78dylemj4o
     verified: false
-    hashtags: "#archive, #forwardisforward, #gedebe, #healtheworld"
-  - username: "simplycrystalmichelle"
-    fullname: >-
-      Natural Hair Influencer
-    location: "Nigeria"
-    followers: 6149
-    engagement: 1169
-    commentsToLikes: 0.027686
-    id: ck5ztahic01kt0i147mksxoxx
-    verified: false
-    hashtags: "#proposalstory, #passiontwists, #naturalhairblogger, #falllooks"
+    hashtags: "#kinkychics, #luvyourmane, #curlywurly, #igcurlss"
 ---

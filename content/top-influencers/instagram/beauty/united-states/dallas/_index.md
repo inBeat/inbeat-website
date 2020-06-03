@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Dallas In 2020
 description: >-
-  Find top beauty Instagram influencers in Dallas in 2020. Most popular hashtags: #liketkit #makeuptutorial #ltkspring #ad.
+  Find top beauty Instagram influencers in Dallas in 2020. Most popular hashtags: #beauty #fashion #naturalhair #ltkmothersday.
 platform: Instagram
 profiles:
-  - username: "three_pedal_life"
-    fullname: >-
-      Louie
-    location: "United States"
-    followers: 15726
-    engagement: 1535
-    commentsToLikes: 0.045596
-    id: ck6uao5r04o380j71xy0ooo37
-    verified: false
-    hashtags: "#dodgenation, #moparian, #moparworlwide, #scatpackchallenger"
-  - username: "sidesmilestyle"
-    fullname: >-
-      by ASHLEY BUTTERFIELD
-    location: "United States"
-    followers: 170007
-    engagement: 308
-    commentsToLikes: 0.009819
-    id: ck6tq4t4zpe4z0j718rnfx03w
-    verified: false
-    hashtags: "#ltkstyletip, #ltksalealert, #grandcayman, #sidesmilewedding"
   - username: "msnaturallymary_"
     fullname: >-
       Msnaturally Mary
     location: "United States"
-    followers: 26968
-    engagement: 715
-    commentsToLikes: 0.022527
+    followers: 33947
+    engagement: 946
+    commentsToLikes: 0.024756
     id: ck55nylg979o70i11gb7liqgn
     verified: false
-    hashtags: "#helpasistaout, #quarantinelife, #quarantine, #passiontwists"
-  - username: "najahartistry"
+    hashtags: "#hairgrowthoil, #crochetbraids, #crochetbraid, #nationalsiblingsday"
+  - username: "sidesmilestyle"
     fullname: >-
-      NAJAH AHMED
+      by ASHLEY BUTTERFIELD
     location: "United States"
-    followers: 23684
-    engagement: 106
-    commentsToLikes: 0.074727
-    id: ck14luhx6wjvd0i19uvnhazpr
+    followers: 166387
+    engagement: 275
+    commentsToLikes: 0.006304
+    id: ck6tq4t4zpe4z0j718rnfx03w
     verified: false
-    hashtags: "#norvinavol3, #maccosmetics, #nailvideos, #fentybeauty"
-  - username: "littlelexicheer"
+    hashtags: "#breakerswedding, #stopwaitaminute, #paris, #revolveme"
+  - username: "ashleysummarell_"
     fullname: >-
-      𝗟𝗶𝘁𝘁𝗹𝗲 𝗟𝗲𝘅𝗶 𝗖𝗵𝗲𝗲𝗿
+      Ashley Summarell💋
     location: "United States"
-    followers: 39641
-    engagement: 240
-    commentsToLikes: 0.029448
-    id: ck0vuvbttmbx00i19yv43k1i0
+    followers: 8464
+    engagement: 600
+    commentsToLikes: 0.075610
+    id: ck0vz2ehy6y230i19cpwrkftt
     verified: false
-    hashtags: "#madeinamericatour, #girlsfashion, #royaltyqueen, #teenfashion"
-  - username: "jaayrashawn"
+    hashtags: "#butterflymakeup, #dallasdollhaus, #acebeaute, #flatlay"
+  - username: "lexalealiiee"
     fullname: >-
-      Jaren Higgins
+      Lexa Lealiiee🇦🇸
     location: "United States"
-    followers: 5960
-    engagement: 902
-    commentsToLikes: 0.071693
-    id: ck15snqandx3p0i19a34p8aoi
+    followers: 8701
+    engagement: 681
+    commentsToLikes: 0.028632
+    id: ck5pw62dula3i0i11w9vjw0nr
     verified: false
-    hashtags: "#beautyphotography, #retouch, #dallasphotographer, #beauty"
-  - username: "themiddlepageblog"
+    hashtags: "#curls, #portrait, #beautifulballers, #willyscouts"
+  - username: "daniellespotz"
     fullname: >-
-      Cathy Williamson
+      Danielle Spotz
     location: "United States"
-    followers: 55629
-    engagement: 92
-    commentsToLikes: 0.190018
-    id: ck15uw6jvosrw0i194sl69gal
+    followers: 7222
+    engagement: 605
+    commentsToLikes: 0.089967
+    id: ck0vznwfva16a0i19p2vxgoga
     verified: false
-    hashtags: "#discoverwhatsgood, #ltksalealert, #shessuchagirl, #stayhomewithltk"
+    hashtags: "#workwear, #papadias, #beforestayingathome, #ltkworkwear"
   - username: "itsjessicaacy"
     fullname: >-
       Jessica Acy
     location: "United States"
-    followers: 8807
-    engagement: 1211
-    commentsToLikes: 0.048273
+    followers: 8956
+    engagement: 1362
+    commentsToLikes: 0.050722
     id: ck0uavdfyd4pm0i198imw6xgh
     verified: false
-    hashtags: "#therona, #travel, #ad, #volitionbeauty"
+    hashtags: "#ponds, #pregnantlife, #pregnantandperfect, #stayhome"
+  - username: "themiddlepageblog"
+    fullname: >-
+      Cathy Williamson
+    location: "United States"
+    followers: 56261
+    engagement: 105
+    commentsToLikes: 0.209528
+    id: ck15uw6jvosrw0i194sl69gal
+    verified: false
+    hashtags: "#companycapture, #ltkhome, #saloninabotttle, #incircle"
   - username: "platinum_d"
     fullname: >-
       Nikki Darden
     location: "United States"
-    followers: 46758
-    engagement: 122
-    commentsToLikes: 0.024011
+    followers: 46710
+    engagement: 131
+    commentsToLikes: 0.061277
     id: ck5hgea1y2br70i11o3r52gac
     verified: false
-    hashtags: "#myxblendbar, #sweetdaze, #buzzybooth, #vdayfit"
-  - username: "uniquely_created_mua"
+    hashtags: "#mayvennhair, #pressonnails, #mentalhealthmatters, #beautyroom"
+  - username: "notyouravg_mom"
     fullname: >-
-      Patrice M Marshall
+      Brenda Garza
     location: "United States"
-    followers: 8013
-    engagement: 528
-    commentsToLikes: 0.115872
-    id: ck6tx9o13wm7x0j71jmnlschf
+    followers: 21873
+    engagement: 518
+    commentsToLikes: 0.060543
+    id: ckap0ncegr1y10i780nlz0oh0
     verified: false
-    hashtags: "#makeuptutorial, #glossylips, #ombrelipstick, #crayoncutie"
+    hashtags: "#winetime, #booklover, #2020senior, #teachersofig"
+  - username: "braidsbykamesha"
+    fullname: >-
+      Ka’Mesha Cathcart
+    location: "United States"
+    followers: 20203
+    engagement: 1302
+    commentsToLikes: 0.024172
+    id: ck15pc7izx5gk0i19c1oz3noz
+    verified: false
+    hashtags: "#blackwomen, #eyelashes, #knotlessboxbraids, #jumboboxbraids"
 ---

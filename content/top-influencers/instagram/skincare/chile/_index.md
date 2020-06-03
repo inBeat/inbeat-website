@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Chile In 2020
 description: >-
-  Find top skincare Instagram influencers in Chile in 2020. Most popular hashtags: #chile #love #makeup #summer.
+  Find top skincare Instagram influencers in Chile in 2020. Most popular hashtags: #skincare #love #chile #baby.
 platform: Instagram
 profiles:
+  - username: "valemiaaaaau"
+    fullname: >-
+      Valentina Leni 🔥Maquillaje 🇨🇱
+    location: "Chile"
+    followers: 17751
+    engagement: 611
+    commentsToLikes: 0.397151
+    id: ck1382qs7e85m0i19qjp0c1lo
+    verified: false
+    hashtags: "#3inaencasa, #blog, #naturachile, #puentealto"
+  - username: "chilean.passport"
+    fullname: >-
+      CONI▪︎TRAVEL & SELFCARE
+    location: "Chile"
+    followers: 6921
+    engagement: 646
+    commentsToLikes: 0.134457
+    id: ck8t7klmeh5s30j78x8ygr7ih
+    verified: false
+    hashtags: "#lookgalaxyzflip, #argentina, #workingholiday, #earthday"
   - username: "nicoledegiorgis"
     fullname: >-
       ➖Nico DGR➖Maquillaje➖Peinados➖
     location: "Chile"
-    followers: 99329
-    engagement: 329
-    commentsToLikes: 0.046011
+    followers: 102082
+    engagement: 317
+    commentsToLikes: 0.043021
     id: ck5ccpgzehrwe0i1157acfpqw
     verified: false
-    hashtags: "#novias, #since2011, #weddingmode, #santiselmandegiorgis"
+    hashtags: "#pregnant, #merrychristmas, #happybirthdaytome, #babyonboard"
+  - username: "mrslana.banana"
+    fullname: >-
+      ✿ C a t ✿ Makeup Artist
+    location: "Chile"
+    followers: 5562
+    engagement: 651
+    commentsToLikes: 0.172957
+    id: ck8t9yqalpu4g0j78h1nok7j2
+    verified: false
+    hashtags: "#mallplazaegan, #hair, #cutecouple, #shampoo"
   - username: "geekandchic"
     fullname: >-
       Geek and chic
     location: "Chile"
-    followers: 28669
-    engagement: 226
-    commentsToLikes: 0.088302
+    followers: 29743
+    engagement: 182
+    commentsToLikes: 0.085733
     id: ck5znzy6rphct0i14gyknirp3
     verified: false
-    hashtags: "#piesbonitos, #mott, #urinariofemenino, #maquillaje"
-  - username: "mrslana.banana"
-    fullname: >-
-      ✿𝑪𝒂𝒕𝒂𝒍𝒊𝒏𝒂✿
-    location: "Chile"
-    followers: 5018
-    engagement: 607
-    commentsToLikes: 0.114235
-    id: ck8t9yqalpu4g0j78h1nok7j2
-    verified: false
-    hashtags: "#muainspo, #life, #couplegoals, #caracterizacion"
+    hashtags: "#remoto, #micuidado, #thatsthepoint, #urbandecaychile"
   - username: "camila_marchantf"
     fullname: >-
       cami marchant 🌼
     location: "Chile"
-    followers: 14624
-    engagement: 519
-    commentsToLikes: 0.006265
+    followers: 15096
+    engagement: 470
+    commentsToLikes: 0.005407
     id: ck6u9nq5mykz10j71i0itekop
     verified: false
-    hashtags: "#sibilia, #buenlunes, #entrenamiento, #elite"
+    hashtags: "#good, #video, #liketime, #deporte"
   - username: "valerialunacs"
     fullname: >-
       Valeria Luna
     location: "Chile"
-    followers: 39556
-    engagement: 583
-    commentsToLikes: 0.022943
+    followers: 40812
+    engagement: 689
+    commentsToLikes: 0.040892
     id: ck15so06xdykx0i193ne9b4ig
     verified: false
-    hashtags: "#alcineconlasamikas, #todoesmejorfrito, #tbt, #freedom"
+    hashtags: "#alcineconlasamikas, #todoesmejorfrito, #tbt, #pordiosquerecuerdos"
   - username: "bambi_juju"
     fullname: >-
       Jürgen Preüss ✨
     location: "Chile"
-    followers: 2763
-    engagement: 1176
-    commentsToLikes: 0.069144
+    followers: 2771
+    engagement: 1136
+    commentsToLikes: 0.066439
     id: ck5zynda1a6rj0i1477hoyxym
     verified: false
-    hashtags: "#nudes, #coronavirusmemes, #ulzzangboy, #classyvision"
+    hashtags: "#versace, #nudes, #nike, #cumfycushchile"
+  - username: "trinidad_nucera00"
+    fullname: >-
+      Trinidad Sol Nucera
+    location: "Chile"
+    followers: 166861
+    engagement: 5462
+    commentsToLikes: 1.373040
+    id: ck5hempkvtpm40i119o9sgt3s
+    verified: false
+    hashtags: "#skincare"
   - username: "romiiventura"
     fullname: >-
       Romina Constanza Ventura
     location: "Chile"
-    followers: 23767
-    engagement: 1033
-    commentsToLikes: 0.074815
+    followers: 28168
+    engagement: 961
+    commentsToLikes: 0.075695
     id: ck8t0p5wfss2f0j78ss8g71vz
     verified: false
-    hashtags: "#newyork, #amor, #chilenosporelmundo, #clasesonline"
-  - username: "nanrodriguez.cl"
-    fullname: >-
-      Nan Rodríguez
-    location: "Chile"
-    followers: 25858
-    engagement: 807
-    commentsToLikes: 0.102136
-    id: ck6u5bp6z8pch0j7176vpfgp1
-    verified: false
-    hashtags: "#studioghubli, #31daysofhalloweenmakeup, #makeuplifestyle, #muasfam"
-  - username: "basmanicx"
-    fullname: >-
-      𝕬𝖓𝖓𝖆 𝕭𝖆𝖑𝖒𝖆𝖓𝖎𝖈𝖆
-    location: "Chile"
-    followers: 26628
-    engagement: 864
-    commentsToLikes: 0.027802
-    id: ck14ld1ovu2340i19wzc6pgep
-    verified: false
-    hashtags: "#lgbt, #performance, #yoapruebo, #apocalypsenow"
-  - username: "javieramolc"
-    fullname: >-
-      Javiera Molina
-    location: "Chile"
-    followers: 5970
-    engagement: 826
-    commentsToLikes: 0.079170
-    id: ck0w3b3lxshqo0i194dc9sib9
-    verified: false
-    hashtags: "#cubotoy, #latinoamerica, #santiagodechile, #atacama"
+    hashtags: "#recetaf, #skincare, #chile, #brooklyn"
 ---

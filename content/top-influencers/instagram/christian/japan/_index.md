@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Japan In 2020
 description: >-
-  Find top christian Instagram influencers in Japan in 2020. Most popular hashtags: #ootd #pr #zara #instafashion.
+  Find top christian Instagram influencers in Japan in 2020. Most popular hashtags: #zara #orange #denim #ootd.
 platform: Instagram
 profiles:
   - username: "wimpievdwalt"
     fullname: >-
       Wimpie van der Walt  ヴィンピー
     location: "Japan"
-    followers: 22216
-    engagement: 1475
-    commentsToLikes: 0.009886
+    followers: 21956
+    engagement: 1372
+    commentsToLikes: 0.010559
     id: ck5znrpo8p15q0i146kifjjw3
     verified: false
-    hashtags: "#redhurricanes, #nttdocomoredhurricanes, #weddinganniversary, #saffasinjapan"
-  - username: "jpduminy"
-    fullname: >-
-      JP Duminy
-    location: "Japan"
-    followers: 645734
-    engagement: 135
-    commentsToLikes: 0.010427
-    id: ck8symsdclarh0j78jv4kw70b
-    verified: true
-    hashtags: "#wearestrongertogether, #creativity, #staysafe, #lockdown"
+    hashtags: "#merrychristmas, #boer, #oneteam, #wolfpack"
   - username: "artfromjapan"
     fullname: >-
       Japanese Art 💮🇯🇵
     location: "Japan"
-    followers: 92343
-    engagement: 488
-    commentsToLikes: 0.004171
+    followers: 113982
+    engagement: 550
+    commentsToLikes: 0.004142
     id: ck13b5op6tsxv0i19lr7w8iq9
     verified: false
     hashtags: ""
+  - username: "jpduminy"
+    fullname: >-
+      JP Duminy
+    location: "Japan"
+    followers: 648614
+    engagement: 97
+    commentsToLikes: 0.008758
+    id: ck8symsdclarh0j78jv4kw70b
+    verified: true
+    hashtags: "#planetearthhugsagain, #junglebeatthemovie, #3stripefamily, #smoothcriminal"
   - username: "hayashinlaters"
     fullname: >-
       はやしん
     location: "Japan"
-    followers: 80291
-    engagement: 843
-    commentsToLikes: 0.020326
+    followers: 79071
+    engagement: 830
+    commentsToLikes: 0.023157
     id: ck55px5jnbl040i11sjqej1g0
     verified: false
-    hashtags: "#driesvannoten, #31philliplim, #softbank, #googlepixel"
-  - username: "ayako__miyata"
+    hashtags: "#chromehearts, #gucci, #lanvin, #driesvannoten"
+  - username: "katorena_ktrn"
     fullname: >-
-      宮田綾子
+      加藤 玲奈
     location: "Japan"
-    followers: 109684
-    engagement: 249
-    commentsToLikes: 0.037970
-    id: ck0w20nmgm2h50i190ajelphw
-    verified: false
-    hashtags: "#theritzcarlton, #spring, #miranda, #sakurafestival"
-  - username: "gakuspace"
-    fullname: >-
-      Gaku Space
-    location: "Japan"
-    followers: 88588
-    engagement: 1044
-    commentsToLikes: 0.020651
-    id: ck1349ph6vdts0i19q29nyl2j
+    followers: 178773
+    engagement: 370
+    commentsToLikes: 0.011868
+    id: ck6u2rpn8tjie0j710i7lfevh
     verified: true
-    hashtags: "#burnblue, #genji, #legend, #lovefamily"
-  - username: "chibayuka"
+    hashtags: "#nanananaofficial, #rady, #sakura, #nananana"
+  - username: "k61ze"
     fullname: >-
-      ちばゆか/千葉由佳
+      𝙆𝙊𝙕𝙐𝙀
     location: "Japan"
-    followers: 138279
-    engagement: 173
-    commentsToLikes: 0.019049
-    id: ck0u00xw8sc1e0i19e4ip2f9i
+    followers: 20446
+    engagement: 299
+    commentsToLikes: 0.026186
+    id: ck5zzyj4pcmz30i145hir5xdo
     verified: false
-    hashtags: "#terracelunch, #rougehermes, #playwithsun, #cafetime"
-  - username: "ainyan12131"
+    hashtags: "#hoodie, #happynewyear, #anap, #3150"
+  - username: "tomimama1116"
     fullname: >-
-      アンジェラ愛
+      とみmama
     location: "Japan"
-    followers: 96373
-    engagement: 164
-    commentsToLikes: 0.017457
-    id: ck5cky9mqxusk0i11lqqqn0xr
+    followers: 51829
+    engagement: 291
+    commentsToLikes: 0.005031
+    id: ck5ckye85xv1t0i11v555jmvk
     verified: false
-    hashtags: "#lobor, #christianlouboutin, #lexus, #mustang"
-  - username: "yoshid8s"
+    hashtags: "#ootd, #marmeid, #marmeiddress, #weddingaisle"
+  - username: "tamamin05"
     fullname: >-
-      yoshifumi takeuchi
+      Tamami
     location: "Japan"
-    followers: 4107
-    engagement: 968
-    commentsToLikes: 0.058810
-    id: ck5hndengnlat0i116el6c2jq
+    followers: 14282
+    engagement: 872
+    commentsToLikes: 0.098796
+    id: ck6u7bshaklro0j71paxc5f60
     verified: false
-    hashtags: "#sarto, #vintagemix, #suits, #casualstyle"
-  - username: "ayaka_wakao"
+    hashtags: "#cosmelounge, #supplements, #atenasia, #soap"
+  - username: "__fu__ka__"
     fullname: >-
-      若尾綾香⁎ 𝐀𝐘𝐀𝐊𝐀 𝐖𝐀𝐊𝐀𝐎 ⁎
+      ふうか
     location: "Japan"
-    followers: 42546
-    engagement: 226
-    commentsToLikes: 0.012189
-    id: ck6tuvoynios80j71h359sz4n
-    verified: true
-    hashtags: "#nail, #cosme, #birthdaybash, #zara"
+    followers: 22482
+    engagement: 235
+    commentsToLikes: 0.015227
+    id: ck6tn4gop946r0j71ge8tgcdw
+    verified: false
+    hashtags: "#hotspring, #richardhennessy, #thehiramatsuhotelsresorts, #logbyurealm"
+  - username: "iorikuntv"
+    fullname: >-
+      いおりくんTV
+    location: "Japan"
+    followers: 13383
+    engagement: 1251
+    commentsToLikes: 0.045215
+    id: ck9haa7eqbre20j78at39s6te
+    verified: false
+    hashtags: "#comearoundmechallenge, #tiktokjapan, #openingceremony, #marceloburlon"
 ---

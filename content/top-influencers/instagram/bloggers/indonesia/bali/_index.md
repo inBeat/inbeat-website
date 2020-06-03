@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Bali In 2020
 description: >-
-  Find top bloggers Instagram influencers in Bali in 2020. Most popular hashtags: #bali #balilife #travelblogger #sheisnotlost.
+  Find top bloggers Instagram influencers in Bali in 2020. Most popular hashtags: #blogger #stayhome #bali #model.
 platform: Instagram
 profiles:
   - username: "krsty_d"
     fullname: >-
       Kristina Dimitrova
     location: "Indonesia"
-    followers: 3226
-    engagement: 1001
-    commentsToLikes: 0.042541
+    followers: 3238
+    engagement: 818
+    commentsToLikes: 0.053184
     id: ck6tipsz416sb0j71grayqgyn
     verified: false
-    hashtags: "#bloggerparadise, #balimodels, #photoshoottime, #foodlovers"
-  - username: "anneklopstra"
+    hashtags: "#healthylife, #beautyeditorial, #sunnydays, #fashionmagazine"
+  - username: "latin.spirit"
     fullname: >-
-      Bali | Fashion | Fitness
+      Erika | Travel Blogger | Bali
     location: "Indonesia"
-    followers: 28197
-    engagement: 632
-    commentsToLikes: 0.163838
-    id: ck5hr0q0uu26j0i11nl6m75z0
+    followers: 73964
+    engagement: 326
+    commentsToLikes: 0.106541
+    id: ck0ttpaza3plj0i19215cpu4l
     verified: false
-    hashtags: "#nusalembongan, #selfie, #swingswing, #fashionista"
-  - username: "thewayfaress"
-    fullname: >-
-      Alexandra Saper
-    location: "Indonesia"
-    followers: 105434
-    engagement: 456
-    commentsToLikes: 0.042484
-    id: ck0w1lom8jyqe0i198rkg3j0p
-    verified: false
-    hashtags: ""
+    hashtags: "#dreaming, #german, #quarintene, #thankful"
   - username: "alenika_pro"
     fullname: >-
       🔥Фитнес ТРЕНЕР ОНЛАЙН🔥ДИЕТОЛОГ
     location: "Indonesia"
-    followers: 52769
-    engagement: 187
-    commentsToLikes: 0.018527
+    followers: 51481
+    engagement: 91
+    commentsToLikes: 0.035807
     id: ck5hokoj1pq850i11manr37sm
     verified: false
-    hashtags: "#flywithbaby, #swimwear, #blogger, #motivation"
-  - username: "theorangeepistles"
+    hashtags: "#modelbali, #balitravel, #pool, #blogger"
+  - username: "walidestinations"
     fullname: >-
-      Sayan Bakshi
+      Walid 🇫🇷 | World Traveler
     location: "Indonesia"
-    followers: 241407
-    engagement: 195
-    commentsToLikes: 0.025594
-    id: ck55kg4r0z8800i11nr9gkt5t
-    verified: true
-    hashtags: "#outfit, #gentlemaninyou, #thelalithotels, #limitlesshospitality"
-  - username: "jennnnypa"
-    fullname: >-
-      INSPO | TRAVEL | LIFESTYLE
-    location: "Indonesia"
-    followers: 2328
-    engagement: 1547
-    commentsToLikes: 0.184828
-    id: ck8t2nwo004qe0j78wxz9emdz
+    followers: 30603
+    engagement: 505
+    commentsToLikes: 0.048888
+    id: ck0vxipdlz3b90i19pq0k1hoe
     verified: false
-    hashtags: "#stayathome, #instagrammableplaces, #changi, #momdaughtergoals"
-  - username: "onihoironi"
+    hashtags: "#cebu, #siargao, #salardeuyuni, #planetearth"
+  - username: "c.linetravels"
     fullname: >-
-      Travel & Lifestyle | Jakarta
+      CÉLINE 👣🌕🕉🦋🌱♎
     location: "Indonesia"
-    followers: 20407
-    engagement: 398
-    commentsToLikes: 0.191821
-    id: ck0vybx2l37zl0i19at00lylk
+    followers: 61454
+    engagement: 82
+    commentsToLikes: 0.042027
+    id: ck55jyl83y2j70i1198tgo7dj
     verified: false
-    hashtags: "#semarakfestivalikma2019, #ditjenikma, #bankbri, #kuisberhadiah"
-  - username: "latin.spirit"
+    hashtags: "#croatia, #travellife, #maldivesresorts, #airballoons"
+  - username: "yakimovakat"
     fullname: >-
-      Travel Blogger | Erika Calle
+      Katrin Yakimova
     location: "Indonesia"
-    followers: 72841
-    engagement: 274
-    commentsToLikes: 0.097539
-    id: ck0ttpaza3plj0i19215cpu4l
+    followers: 42876
+    engagement: 233
+    commentsToLikes: 0.018909
+    id: ckap7wu09lwtq0i782lwremgi
     verified: false
-    hashtags: "#reise, #balibible, #indo, #thisistravel"
-  - username: "rianbudisantoso"
+    hashtags: "#postcard, #travelblogger, #mulia, #bluesky"
+  - username: "xiaoyuebiie"
     fullname: >-
-      Rian Budi Santoso | รวิพล
+      ʙᴇᴀᴜᴛʏ | Fashion |Lifestyle
     location: "Indonesia"
-    followers: 70258
-    engagement: 104
-    commentsToLikes: 0.048838
-    id: ck5c1yrncw6yf0i112nc37d1b
+    followers: 93016
+    engagement: 176
+    commentsToLikes: 0.083468
+    id: ck5c1zcgvw83y0i11gncsozbj
     verified: false
-    hashtags: "#shanghaistreet, #alilahotels, #winterholiday, #myclickhouse"
-  - username: "lilmsawkward"
+    hashtags: "#vitc, #pkvgamesonline, #livebigoid, #tamakiako"
+  - username: "tanjia.methela"
     fullname: >-
-      Alexa
+      Tangia Zaman Methila 🇧🇩
     location: "Indonesia"
-    followers: 2960
-    engagement: 2673
-    commentsToLikes: 0.054822
-    id: ck600a98md83i0i1482nxrqzy
+    followers: 154986
+    engagement: 350
+    commentsToLikes: 0.012665
+    id: ck5q24omke94x0i114m8tb7me
     verified: false
-    hashtags: "#travelblogger, #wanderlust, #visitghana, #beijing"
+    hashtags: "#homedecor, #freedom, #hairstyles, #action"
+  - username: "nilla_listya"
+    fullname: >-
+      NILLA | BALI TOUR GUIDE
+    location: "Indonesia"
+    followers: 12428
+    engagement: 722
+    commentsToLikes: 0.033670
+    id: ck0w6fzis8dvn0i197agopsti
+    verified: false
+    hashtags: "#balicultures, #advebture, #contentcreator, #asiatrip"
+  - username: "putu.w__"
+    fullname: >-
+      Widy
+    location: "Indonesia"
+    followers: 2924
+    engagement: 1509
+    commentsToLikes: 0.051774
+    id: ck9whp83kyxci0j78di3nmlvw
+    verified: false
+    hashtags: "#potraitmode, #potraits, #mood, #indonesia"
 ---

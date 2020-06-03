@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Seattle In 2020
 description: >-
-  Find top models Instagram influencers in Seattle in 2020. Most popular hashtags: #model #photoshoot #seattle #instagood.
+  Find top models Instagram influencers in Seattle in 2020. Most popular hashtags: #covid #model #quarantinelife #easter.
 platform: Instagram
 profiles:
-  - username: "campbellboydre"
+  - username: "lesliek____"
     fullname: >-
-      DiAndre Campbell
+      Leslie Kay
     location: "United States"
-    followers: 39636
-    engagement: 1743
-    commentsToLikes: 0.031000
-    id: ck6023a0qgnpf0i14rjdvjj3p
-    verified: true
-    hashtags: "#body, #training, #collegefootball, #evolvetheday"
-  - username: "sydneymcmodel"
-    fullname: >-
-      Sydney
-    location: "United States"
-    followers: 10492
-    engagement: 1221
-    commentsToLikes: 0.035495
-    id: ck0ucbmtkgho00i190mv0j02e
+    followers: 18873
+    engagement: 490
+    commentsToLikes: 0.025662
+    id: ck6u23xhspkd00j71j2mnes27
     verified: false
-    hashtags: "#fashion, #holiday, #redhead, #girlpower"
-  - username: "wade_smith9"
+    hashtags: "#tbt"
+  - username: "tcarstens09"
     fullname: >-
-      Wade Smith
+      Trevor Carstens
     location: "United States"
-    followers: 18611
-    engagement: 716
-    commentsToLikes: 0.022453
-    id: ck13bsyzzx0nl0i19awqw3gnf
+    followers: 44940
+    engagement: 796
+    commentsToLikes: 0.024086
+    id: ckap758woiooh0i786ma66ros
     verified: false
-    hashtags: "#malemodel, #seattlemodel, #breathe, #throwback"
-  - username: "mdelay"
-    fullname: >-
-      Molly Delay
-    location: "United States"
-    followers: 2581
-    engagement: 3232
-    commentsToLikes: 0.018841
-    id: ck0w0updwg4jd0i19cpz48jtd
-    verified: false
-    hashtags: ""
-  - username: "natali1ya"
-    fullname: >-
-      Natalie Kalini
-    location: "United States"
-    followers: 2756
-    engagement: 2031
-    commentsToLikes: 0.063251
-    id: ck15pkq0lyd1b0i19fzm4n76b
-    verified: false
-    hashtags: "#luxurystylist, #businesslady, #videogram, #christmastree"
-  - username: "_ginabeck"
-    fullname: >-
-      Gina Beck
-    location: "United States"
-    followers: 10270
-    engagement: 1225
-    commentsToLikes: 0.077339
-    id: ck5zijhtrftss0i14bh6ane48
-    verified: false
-    hashtags: "#versace, #whatadaytobealive, #exposed, #beaware"
-  - username: "phoebe_campbell13"
-    fullname: >-
-      Phoebe Noelle Campbell
-    location: "United States"
-    followers: 6605
-    engagement: 536
-    commentsToLikes: 0.035588
-    id: ck14kpqvoqp3l0i19z76w0zmb
-    verified: false
-    hashtags: "#newadventures, #leap, #cruising, #teenmodel"
+    hashtags: "#california, #nurse, #couchella, #covid"
   - username: "thepreetsartistry"
     fullname: >-
       ThePreet’s Artistry
     location: "United States"
-    followers: 6632
-    engagement: 495
-    commentsToLikes: 0.013910
+    followers: 6606
+    engagement: 523
+    commentsToLikes: 0.018778
     id: ck8tceqdwz7t60j7820p71a30
     verified: false
-    hashtags: "#shadijitters, #seattleskyline, #seattlehenna, #thepreetsartistry"
+    hashtags: "#seattlehairstylist, #bridalmehndi, #hennainspire, #anklethenna"
+  - username: "sydneymcmodel"
+    fullname: >-
+      Sydney
+    location: "United States"
+    followers: 10818
+    engagement: 1287
+    commentsToLikes: 0.035205
+    id: ck0ucbmtkgho00i190mv0j02e
+    verified: false
+    hashtags: "#newface, #teengirl, #glitter, #holiday"
+  - username: "wade_smith9"
+    fullname: >-
+      Wade Smith
+    location: "United States"
+    followers: 19559
+    engagement: 674
+    commentsToLikes: 0.021046
+    id: ck13bsyzzx0nl0i19awqw3gnf
+    verified: false
+    hashtags: "#follow, #showerthoughts, #showersunday, #moon"
+  - username: "mdelay"
+    fullname: >-
+      Molly Delay
+    location: "United States"
+    followers: 2561
+    engagement: 3258
+    commentsToLikes: 0.018845
+    id: ck0w0updwg4jd0i19cpz48jtd
+    verified: false
+    hashtags: ""
+  - username: "la_joby"
+    fullname: >-
+      Pow·er·house·
+    location: "United States"
+    followers: 250464
+    engagement: 67
+    commentsToLikes: 0.039254
+    id: ck0w1z0v5lu200i19rgt8hx9e
+    verified: false
+    hashtags: "#lechateau, #cheerleader, #justme, #practicingmykata"
+  - username: "thealexishenry"
+    fullname: >-
+      Lex ⭐️
+    location: "United States"
+    followers: 28209
+    engagement: 247
+    commentsToLikes: 0.026560
+    id: ck14iilrpfl690i19kq703u98
+    verified: false
+    hashtags: "#mentalhealth, #quarantiness21, #youswimfromhome, #lailatriespatience"
+  - username: "steakandbuttergal"
+    fullname: >-
+      The Steak & Butter Gal
+    location: "United States"
+    followers: 5378
+    engagement: 845
+    commentsToLikes: 0.131452
+    id: ckaouq5681bpp0i78r4rradlb
+    verified: false
+    hashtags: "#meateater, #transformation, #mediumrare, #ketogenicdiet"
   - username: "aelflaedmodel"
     fullname: >-
       Aelflaed
     location: "United States"
-    followers: 27175
-    engagement: 353
-    commentsToLikes: 0.018174
+    followers: 26781
+    engagement: 420
+    commentsToLikes: 0.016991
     id: ck15pbp22x2vl0i195l2aksta
     verified: false
-    hashtags: "#valentines, #creepy, #monikacosplay, #monika"
-  - username: "3colorfulyorkies"
-    fullname: >-
-      ℝ𝕪𝕝𝕖𝕖 • ℤ𝕠𝕖𝕪 • 𝕂𝕪𝕣𝕒
-    location: "United States"
-    followers: 22341
-    engagement: 415
-    commentsToLikes: 0.538599
-    id: ck0u1chxnwkau0i193iqjwjhr
-    verified: false
-    hashtags: "#stayhomestaysafe, #ichooseyou, #bloomwhereyouareplanted, #redbow"
+    hashtags: "#acnh, #desserts, #easter, #demon"
 ---

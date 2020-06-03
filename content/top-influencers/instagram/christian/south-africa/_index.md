@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In South Africa In 2020
 description: >-
-  Find top christian Instagram influencers in South Africa in 2020. Most popular hashtags: #bible #capetown #god #southafrica.
+  Find top christian Instagram influencers in South Africa in 2020. Most popular hashtags: #corona #quarantine #fitness #christian.
 platform: Instagram
 profiles:
   - username: "heartofhorton"
     fullname: >-
       Cassie Horton
     location: "South Africa"
-    followers: 3773
-    engagement: 1329
-    commentsToLikes: 0.029168
+    followers: 4053
+    engagement: 1287
+    commentsToLikes: 0.032108
     id: ck0vvm3axpq0g0i19nx2og7sz
     verified: false
-    hashtags: "#birthdayboy, #wizardingworldofharrypotter, #dreamvacation, #ocean"
+    hashtags: "#socialdistancing, #healthyhabits, #easterbasket, #heisgettingold"
   - username: "aaron.borrill"
     fullname: >-
       Aaron Borrill
     location: "South Africa"
-    followers: 20557
-    engagement: 204
-    commentsToLikes: 0.029059
+    followers: 20376
+    engagement: 234
+    commentsToLikes: 0.030798
     id: ck5hryftwvp1e0i11ym85rap4
     verified: false
-    hashtags: "#noexcuses, #blacksheepcycling, #squirtlube, #wedopalta"
+    hashtags: "#sworks, #trail, #invani, #goprocycling"
   - username: "alwynuys"
     fullname: >-
       Alwyn Uys
     location: "South Africa"
-    followers: 13384
-    engagement: 666
-    commentsToLikes: 0.069614
+    followers: 13512
+    engagement: 648
+    commentsToLikes: 0.133659
     id: ck6ue92jdpj2m0j71uc1bfje4
     verified: false
-    hashtags: "#tacklingcancer, #winning, #versussocks, #ironmantraining"
-  - username: "kgothiiman"
-    fullname: >-
-      KGOTHI "IMAN" DITHEBE
-    location: "South Africa"
-    followers: 63625
-    engagement: 1273
-    commentsToLikes: 0.014796
-    id: ck14hvzjacemg0i19n7itts8h
-    verified: false
-    hashtags: "#kgothiforhumanity, #fashionmodel, #billboard, #leaveyourmark"
+    hashtags: "#winning, #level4, #expectations, #happy"
   - username: "leilaaigbedion"
     fullname: >-
       Leila Onome Aigbedion🇳🇬🇳🇱
     location: "South Africa"
-    followers: 23391
-    engagement: 508
-    commentsToLikes: 0.032716
+    followers: 23154
+    engagement: 343
+    commentsToLikes: 0.071115
     id: ck13aca8dpo460i19y5v8qx1r
     verified: false
-    hashtags: "#melanin, #protectivestyles, #womanofgpd, #coronadrama"
+    hashtags: "#truelove, #couple, #africanhair, #fitnessjourney"
   - username: "marcellebosman"
     fullname: >-
       Marcelle Bosman
     location: "South Africa"
-    followers: 6669
-    engagement: 1843
-    commentsToLikes: 0.004366
+    followers: 6629
+    engagement: 1855
+    commentsToLikes: 0.002315
     id: ck6u39j6xwij20j71w1ba8dxr
     verified: false
-    hashtags: "#greenpoint, #showtime, #photolover, #disnieplastieknie"
+    hashtags: "#heatwave, #family, #godfirst, #grandfather"
   - username: "jesseleepeterson"
     fullname: >-
       Rev. Jesse Lee Peterson
     location: "South Africa"
-    followers: 36123
-    engagement: 196
-    commentsToLikes: 0.097478
+    followers: 36878
+    engagement: 249
+    commentsToLikes: 0.122569
     id: ck0w414mfw9rv0i19as7suven
     verified: true
-    hashtags: "#chinesevirus, #wild, #christian, #lgbtq"
-  - username: "naazilaher_"
+    hashtags: "#advice, #children, #interview, #blacktwitter"
+  - username: "rudi.ct"
     fullname: >-
-      Naazi Laher
+      Rudi Nieuwenhuys - Male Model
     location: "South Africa"
-    followers: 4283
-    engagement: 589
-    commentsToLikes: 0.082828
-    id: ck14ijxphfs940i19ugaex2c1
+    followers: 16858
+    engagement: 456
+    commentsToLikes: 0.051844
+    id: ck5q9xnaddiyr0i113v2a92t5
     verified: false
-    hashtags: "#blackandwhitephotography, #summerlove, #siberiancat, #hazeleyes"
-  - username: "mikearemu"
+    hashtags: "#lifenow, #whatarewe, #divided, #stayaway"
+  - username: "melissabrownza"
     fullname: >-
-      King Mike Aremu
+      Melissa Brown
     location: "South Africa"
-    followers: 47532
-    engagement: 129
-    commentsToLikes: 0.030294
-    id: ck5c9rc4ebyuc0i11393f5rkr
+    followers: 12851
+    engagement: 562
+    commentsToLikes: 0.053381
+    id: ck135sn0q313k0i19s8wn0tay
+    verified: false
+    hashtags: "#longboarding, #djiglobal, #lionsheadct, #mpumalanga"
+  - username: "carlholman"
+    fullname: >-
+      Carl  |  Cape Town
+    location: "South Africa"
+    followers: 2658
+    engagement: 1306
+    commentsToLikes: 0.245244
+    id: ck0w019xkbw5g0i193ty57vrz
+    verified: false
+    hashtags: ""
+  - username: "yannisdavy"
+    fullname: >-
+      Yannis Davy Guibinga
+    location: "South Africa"
+    followers: 56386
+    engagement: 165
+    commentsToLikes: 0.011746
+    id: ck602r9zziqaq0i14mc8pb5yv
     verified: true
-    hashtags: "#gospel, #worship, #prayer, #pastor"
-  - username: "reformedbychrist"
-    fullname: >-
-      Marnus & Jacques Stadler
-    location: "South Africa"
-    followers: 131450
-    engagement: 266
-    commentsToLikes: 0.027551
-    id: ck0vwotrluusl0i19kw5ccgp7
-    verified: false
-    hashtags: "#godisgreat, #faith, #sermon, #verseoftheday"
+    hashtags: "#nikonz50"
 ---

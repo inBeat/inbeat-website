@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Turkey In 2020
 description: >-
-  Find top home decor Instagram influencers in Turkey in 2020. Most popular hashtags: #instagram #homedecor #like4likes #evdekal.
+  Find top home decor Instagram influencers in Turkey in 2020. Most popular hashtags: #homedecor #coffee #homemade #stayhome.
 platform: Instagram
 profiles:
   - username: "sed_myhome"
     fullname: >-
-      𝙎𝙚𝙙𝙤ş❤️ Seda Ada Zeyrekgündüz
+      Seda Ada Zeyrekgündüz
     location: "Turkey"
-    followers: 7024
-    engagement: 1402
-    commentsToLikes: 0.175192
+    followers: 15124
+    engagement: 875
+    commentsToLikes: 0.274845
     id: ck6u377c7w4pp0j71egfwib09
     verified: false
-    hashtags: "#kahvekeyfi, #aksesuar, #bahar, #likeforlikes"
+    hashtags: "#papatya, #homedekor, #fiyonk, #hijyen"
   - username: "girlafikir"
     fullname: >-
       gırla fikir
     location: "Turkey"
-    followers: 16254
-    engagement: 402
-    commentsToLikes: 0.047910
+    followers: 18129
+    engagement: 412
+    commentsToLikes: 0.051712
     id: ck139k8nylpyw0i19znaiosrh
     verified: false
-    hashtags: "#tv, #annewithane, #defnemucyasinda, #babasininelemegi"
+    hashtags: "#babasininelemegi, #defnemucyasinda, #tumcocuklarmutluolsun, #makeyourownjungle"
   - username: "kaktusistan"
     fullname: >-
       K A K T U S İ S T A N 🌸
     location: "Turkey"
-    followers: 5473
-    engagement: 1042
-    commentsToLikes: 0.024511
+    followers: 9260
+    engagement: 644
+    commentsToLikes: 0.030270
     id: ck8tdcum42uge0j78fl581750
     verified: false
-    hashtags: "#cactilover, #book, #succulent, #cactus"
-  - username: "zeybahar"
+    hashtags: "#relaxing, #samsun, #nature, #relax"
+  - username: "simlipullu"
     fullname: >-
-      Zeynep Bahar Ahıskalı
+      Simay Çetinkaya Pullu
     location: "Turkey"
-    followers: 43299
-    engagement: 661
-    commentsToLikes: 0.340003
-    id: ck0u00deus99e0i199oy52vsz
+    followers: 9594
+    engagement: 1394
+    commentsToLikes: 0.161409
+    id: ck8t3cgo62qsy0j78b6gwj87u
     verified: false
-    hashtags: "#sundayvibes, #wishlist, #fashion, #monsteralove"
-  - username: "silannekk"
+    hashtags: "#styhmbsf, #cumal, #dekorasyon, #gezi"
+  - username: "yagmurguren__kulfel"
     fullname: >-
-      Şilan Adar Güven
+      Yağmur Güren Kulfel
     location: "Turkey"
-    followers: 4557
-    engagement: 2982
-    commentsToLikes: 0.421163
-    id: ck8t56vuo8zsi0j78nvieeypn
+    followers: 17335
+    engagement: 703
+    commentsToLikes: 0.108225
+    id: ck0txr8a1k8hn0i19udsydld0
     verified: false
-    hashtags: "#mardin, #look, #ombre, #fashion"
-  - username: "dunyayigezenkiz"
+    hashtags: "#banyo, #babyroomdecor, #goldspraypaint, #tasar"
+  - username: "niranhurel"
     fullname: >-
-      AHSEN TALYA ÇEBİ KURTUL
+      Niran Hürel Herder
     location: "Turkey"
-    followers: 10298
-    engagement: 663
-    commentsToLikes: 0.228603
-    id: ck0w5c75o2xop0i19ty31txma
+    followers: 16505
+    engagement: 1269
+    commentsToLikes: 0.523820
+    id: ck5hslyftwsyz0i11g27870d7
     verified: false
-    hashtags: "#beautifuldestinations, #trendyol, #discoveryplanet, #evdekal"
-  - username: "gezgin_ogretmen09"
+    hashtags: "#henna, #comfy, #chic, #wedding"
+  - username: "busrakurt"
     fullname: >-
-      Gezgin Öğretmen
+      B U S R A  K U R T S O N M E Z
     location: "Turkey"
-    followers: 21080
-    engagement: 704
-    commentsToLikes: 0.193407
-    id: ck8tdlx1e3uys0j78k7lm76vv
+    followers: 18494
+    engagement: 506
+    commentsToLikes: 0.106679
+    id: ck6ufwmddzk320j71yjmnsn5p
     verified: false
-    hashtags: "#ke, #dekorasyon, #mother, #ma"
-  - username: "ipek.inn"
+    hashtags: "#punchnak, #edirne, #kotor, #oilpainting"
+  - username: "hakankutahya"
     fullname: >-
-      𝒾𝓅𝑒𝓀 𝒾𝓃𝒶𝓃 🦄
+      Hakan Kütahya
     location: "Turkey"
-    followers: 15885
-    engagement: 677
-    commentsToLikes: 0.665759
-    id: ck0w61k4z6gz50i19eakoh4xu
+    followers: 269655
+    engagement: 300
+    commentsToLikes: 0.060053
+    id: ck0u1i2uzwz9o0i192qcl6xkl
     verified: false
-    hashtags: "#like4likes, #yeniyilkonsepti, #carioca, #family"
-  - username: "burcinburakcan"
+    hashtags: "#mimari, #kadar, #abeilleroyale, #homedekor"
+  - username: "silan.yakar"
     fullname: >-
-      ᗷᑌGᖇᗩᑎIᑎ ᗩᑎᑎᕮᔕI ❥
+      
     location: "Turkey"
-    followers: 24298
-    engagement: 601
-    commentsToLikes: 0.032059
-    id: ck1347q9xv4lg0i198rdk8vxt
+    followers: 8284
+    engagement: 767
+    commentsToLikes: 0.084868
+    id: ckap95d12r7up0i78gg1wbvc0
     verified: false
-    hashtags: "#mom, #temizlik, #babyboy, #cocukgiyim"
-  - username: "selmanigar"
+    hashtags: "#homedesign, #colorvibes, #happyday, #reading"
+  - username: "gokhanbensiz"
     fullname: >-
-      S E L M A N I G A R
+      Gökhan Bensiz
     location: "Turkey"
-    followers: 10518
-    engagement: 515
-    commentsToLikes: 0.047574
-    id: ck8t9dr5onpsg0j78r4tafufy
+    followers: 71049
+    engagement: 1036
+    commentsToLikes: 0.011676
+    id: ck5hsjrrhwpju0i117sbtozpi
     verified: false
-    hashtags: "#interiordesign, #amsterdam, #quarantinelife, #best"
+    hashtags: "#travelblogger, #foodie, #strawberry, #starbucks"
 ---

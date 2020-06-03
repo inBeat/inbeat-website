@@ -1,87 +1,107 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Japan In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Japan in 2020. Most popular hashtags: #tokyo #japan #travel #design.
+  Find top graphic-designers Instagram influencers in Japan in 2020. Most popular hashtags: #stayhome #graphic #creative #artwork.
 platform: Instagram
 profiles:
   - username: "chispipika"
     fullname: >-
       ♡ 忘れられない鋼 🍂
     location: "Japan"
-    followers: 8273
-    engagement: 2012
-    commentsToLikes: 0.054720
+    followers: 8322
+    engagement: 2040
+    commentsToLikes: 0.053542
     id: ck5zyixk79yx80i14nnz9e6zn
     verified: false
-    hashtags: "#eclectic, #art, #instagram, #simplycooldesign"
+    hashtags: "#alphahype, #animals, #theuniversalart, #postureos"
   - username: "hantaraki"
     fullname: >-
       Hunter
     location: "Japan"
-    followers: 64528
-    engagement: 2168
-    commentsToLikes: 0.007984
+    followers: 62295
+    engagement: 2300
+    commentsToLikes: 0.008202
     id: ck8wdayv0dl140j78zbt1bzaa
     verified: false
-    hashtags: "#myinstaxshoutout, #ad, #duet"
+    hashtags: ""
   - username: "eric_flowerboy"
     fullname: >-
       Eric Aleson
     location: "Japan"
-    followers: 57948
-    engagement: 232
-    commentsToLikes: 0.005498
+    followers: 57685
+    engagement: 215
+    commentsToLikes: 0.006122
     id: ck5hnu9z2oejl0i11mvdin5qk
     verified: false
-    hashtags: "#tokyo, #travel, #sunday, #florist"
+    hashtags: "#tgif, #weekend, #versace, #valentines"
   - username: "yeelaine_"
     fullname: >-
-      ELAINE YEE 🐯
+      E L🐯I N E  Y E E
     location: "Japan"
-    followers: 48680
-    engagement: 345
-    commentsToLikes: 0.014440
+    followers: 48288
+    engagement: 330
+    commentsToLikes: 0.015748
     id: ck0w5hytn3qi40i19kyrmxbnu
     verified: false
-    hashtags: "#triples, #yeelainetravels, #mood, #prada"
+    hashtags: "#rsnap, #balenciaga, #geddit, #gucci"
   - username: "ai_mogmog"
     fullname: >-
       Ai Horikawa
     location: "Japan"
-    followers: 20522
-    engagement: 369
-    commentsToLikes: 0.018760
+    followers: 26569
+    engagement: 371
+    commentsToLikes: 0.016233
     id: ck55pkg82aqyt0i115qp1f7g6
     verified: false
     hashtags: ""
+  - username: "dorimiiiiiii"
+    fullname: >-
+      M!DOR!
+    location: "Japan"
+    followers: 10037
+    engagement: 567
+    commentsToLikes: 0.011549
+    id: ckaor0r8bl7un0i78a9hy1k6p
+    verified: false
+    hashtags: "#trump, #gallery, #boxart, #night"
   - username: "obatasaki"
     fullname: >-
       obatasaki
     location: "Japan"
-    followers: 21857
-    engagement: 288
-    commentsToLikes: 0.003837
+    followers: 22217
+    engagement: 255
+    commentsToLikes: 0.003902
     id: ck5q6dqw5wzmv0i11frdd2wd6
     verified: false
-    hashtags: "#repost, #togoyamanashi"
-  - username: "igor_eezo"
+    hashtags: "#stayhome, #indoor, #yamanashi, #repost"
+  - username: "wagashi_art"
     fullname: >-
-      Igor Khrupin
+      YUKI FUJIWARA
     location: "Japan"
-    followers: 21124
-    engagement: 265
-    commentsToLikes: 0.006257
-    id: ck14kbrz2oqjf0i19vlgjzw7y
+    followers: 18194
+    engagement: 758
+    commentsToLikes: 0.008154
+    id: ck5zsc5d5y7y10i14je0i3xlq
     verified: false
-    hashtags: "#eplorejpn, #artoftheday, #urbanphoto, #beautifuldestinations"
+    hashtags: "#workshop, #uchuwagashi, #shuuemura, #stayhome"
   - username: "kohyamada"
     fullname: >-
       𝔎𝔬𝔥 𝔜𝔞𝔪𝔞𝔡𝔞
     location: "Japan"
-    followers: 5030
-    engagement: 520
-    commentsToLikes: 0.013804
+    followers: 4985
+    engagement: 521
+    commentsToLikes: 0.014020
     id: ck5pz1ub9yuqm0i11sk3zqvvs
     verified: false
-    hashtags: "#bearbrick, #coldrain, #truenorth, #whileiremember"
+    hashtags: "#airmax, #tokyocameraclub, #portraitpage, #paris"
+  - username: "althafyaseen_photography"
+    fullname: >-
+      Althaf yaseen
+    location: "Japan"
+    followers: 6800
+    engagement: 607
+    commentsToLikes: 0.055860
+    id: ck8t74n6tfmrs0j78hhym6nm0
+    verified: false
+    hashtags: "#keralaquotes, #keralite, #artistic, #vsco"
 ---

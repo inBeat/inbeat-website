@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Brazil In 2020
 description: >-
-  Find top health Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #workout #instagood #stayhome.
+  Find top health Instagram influencers in Brazil in 2020. Most popular hashtags: #love #sorteio #diadasmaes #ootd.
 platform: Instagram
 profiles:
-  - username: "correaleh"
+  - username: "alicetrewinnard"
     fullname: >-
-      Leticia Corrêa
+      Alice Trewinnard
     location: "Brazil"
-    followers: 21055
-    engagement: 445
-    commentsToLikes: 0.172289
-    id: ck8td3qmw1qq50j78lynlgdxn
-    verified: false
-    hashtags: "#fitness, #trainingmotivation, #dicadequarentena, #vai"
-  - username: "natialves87"
+    followers: 216196
+    engagement: 950
+    commentsToLikes: 0.036389
+    id: ck134v13sybqz0i19a00owtxx
+    verified: true
+    hashtags: "#hairstyles, #hairvideos, #cas, #diadam"
+  - username: "hathane"
     fullname: >-
-      Natalia Thais Alves
+      Hathane Rezende
     location: "Brazil"
-    followers: 38782
-    engagement: 297
-    commentsToLikes: 0.054423
-    id: ck8t1to2nwzmq0j7856swjcts
+    followers: 28794
+    engagement: 625
+    commentsToLikes: 0.888117
+    id: ck0tvwqw1d4en0i19or1md6x8
     verified: false
-    hashtags: "#emcasa"
-  - username: "alessandradelduque"
+    hashtags: "#nomakeup, #charth, #fashion, #inspiration"
+  - username: "rodolfo_rachid"
     fullname: >-
-      Alessandra Delduque
+      Rodolfo Rachid
     location: "Brazil"
-    followers: 26171
-    engagement: 324
-    commentsToLikes: 0.109068
-    id: ck6u6wsczi63l0j71mq2m35ud
+    followers: 5184
+    engagement: 1666
+    commentsToLikes: 0.064220
+    id: ckap305te12km0i78sq00gpvh
     verified: false
-    hashtags: "#coisasboasacontecem, #harmonizacaofacial, #treinao, #tbt"
+    hashtags: "#quarenteners, #menstyle, #tbt, #gymaddict"
   - username: "larissalunav"
     fullname: >-
       Larissa Luna
     location: "Brazil"
-    followers: 28944
-    engagement: 566
-    commentsToLikes: 0.053287
+    followers: 28897
+    engagement: 474
+    commentsToLikes: 0.069976
     id: ck5zqic7aunjm0i14hf5fap9x
     verified: false
-    hashtags: "#ariana, #casa99nocarnaval, #pipa, #sunday"
-  - username: "paulacastrobr"
+    hashtags: "#esperan, #emcasa, #bdaygirl, #treinolivre"
+  - username: "jupabis"
     fullname: >-
-      PAULA CASTRO
+      Julia Pabis
     location: "Brazil"
-    followers: 14204
-    engagement: 610
-    commentsToLikes: 0.065682
-    id: ck14l9ga1tiex0i19ox7dlz5e
+    followers: 40174
+    engagement: 383
+    commentsToLikes: 0.132685
+    id: ck8t5l8wyaglu0j78wvm23btf
     verified: false
-    hashtags: "#maquiagemtutorials, #makeinspiracao, #intimasdaray, #maquiagem"
-  - username: "drwillyammenezes"
+    hashtags: "#publi, #planner, #vidasaudavel, #foconojaleco"
+  - username: "britoo.lay"
     fullname: >-
-      Willyam Menezes
+      Lay Brito
     location: "Brazil"
-    followers: 8418
-    engagement: 1484
-    commentsToLikes: 0.023685
-    id: ck0vuzgiqmuhn0i1911fkmhat
+    followers: 5874
+    engagement: 1014
+    commentsToLikes: 1.075245
+    id: ckapc2fy427mb0i78u9sdjngf
     verified: false
-    hashtags: "#healthyoptions, #foconofoco, #keepactive, #longevidade"
-  - username: "daianesodre"
+    hashtags: "#brasil, #praiamole, #quarentenafitness, #blindagym"
+  - username: "bpinhoxx"
     fullname: >-
-      Daiane Sodré
+      𝗕𝗶𝗮𝗻𝗰𝗮 𝗣𝗶𝗻𝗵𝗼 ✨
     location: "Brazil"
-    followers: 360173
-    engagement: 191
-    commentsToLikes: 0.037541
-    id: ck1371hvt9bhi0i19dvnz2cie
-    verified: true
-    hashtags: "#felicidade, #studio, #juntosaqui, #billclinton"
-  - username: "samanthabraganca"
-    fullname: >-
-      Samantha Bragança Ferraz
-    location: "Brazil"
-    followers: 13832
-    engagement: 545
-    commentsToLikes: 0.283547
-    id: ck5buuneaigzy0i116awsdv6l
+    followers: 12158
+    engagement: 1262
+    commentsToLikes: 0.052245
+    id: ck8tbkq44w0st0j7805z2p4zo
     verified: false
-    hashtags: "#dentist, #cachorro, #brasil, #preenchimento"
-  - username: "mebarbosafit"
+    hashtags: ""
+  - username: "erik_michels"
     fullname: >-
-      ✨✨Meire✨✨
+      Erik Michels
     location: "Brazil"
-    followers: 26333
-    engagement: 214
-    commentsToLikes: 0.060669
-    id: ck8t6mpdwe5i10j781bn1ulrt
+    followers: 156956
+    engagement: 816
+    commentsToLikes: 0.018099
+    id: ck15ushrcod230i19flefoho9
     verified: false
-    hashtags: "#quarentine, #fitnation, #musasfitness, #instafit"
-  - username: "karolquedas"
+    hashtags: "#connoisseur, #sunday, #myths, #bulking"
+  - username: "dudurodrigues_oficial"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     Кαяσℓιиє Qυє∂αѕ
+      Eduardo Rodrigues
     location: "Brazil"
-    followers: 20556
-    engagement: 262
-    commentsToLikes: 0.113416
-    id: ck6ugf9ph2os00j71omfifhj1
+    followers: 45965
+    engagement: 340
+    commentsToLikes: 0.363439
+    id: ck9hcgb5el91m0j78p6xffxhx
     verified: false
-    hashtags: "#14weekspregnant, #happyvalentinesday, #casamentocarolerick, #11weekspregnant"
+    hashtags: "#mom, #love, #happymothersday, #am"
+  - username: "laradelatorre"
+    fullname: >-
+      Lara Delatorre
+    location: "Brazil"
+    followers: 11342
+    engagement: 1230
+    commentsToLikes: 0.048124
+    id: ck8t2tlif0nqq0j78u8dkkfjf
+    verified: false
+    hashtags: "#light, #nature, #instarun, #treinoemcasa"
 ---

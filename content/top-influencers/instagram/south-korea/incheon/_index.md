@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Incheon In 2020
 description: >-
-  Find top Instagram influencers in Incheon in 2020. Most popular hashtags: #incheonairport #seoul #dreadlocks #beach.
+  Find top Instagram influencers in Incheon in 2020. Most popular hashtags: #incheon #seoul #dancing #quarantine.
 platform: Instagram
 profiles:
-  - username: "felipebandero"
+  - username: "2silverrainn"
     fullname: >-
-      Felipe  Bandero
+      Eunbi Lee / 이은비
     location: "South Korea"
-    followers: 8755
-    engagement: 825
-    commentsToLikes: 0.018294
-    id: ck0vzp6ria7kf0i195yt4zruj
-    verified: false
-    hashtags: "#sportslife, #workhard, #playhard, #coach"
-  - username: "4.7.4.7"
-    fullname: >-
-      Dra. Gina ⚡️(지나)
-    location: "South Korea"
-    followers: 56775
-    engagement: 265
-    commentsToLikes: 0.018518
-    id: ck5qcd48cpz8k0i11b4x9ytow
-    verified: false
-    hashtags: "#8m2020, #shibuyahmo, #australiagram, #sydneylife"
-  - username: "manyo_yoojin"
-    fullname: >-
-      짜증대마녀 / Korean blogger
-    location: "South Korea"
-    followers: 561503
-    engagement: 106
-    commentsToLikes: 0.014799
-    id: ck6ttinj6atjg0j71ff3e882x
-    verified: false
-    hashtags: "#ailedelapeau, #ootd, #10, #andazseoulgangnam"
-  - username: "aviation_ki"
-    fullname: >-
-      Jayden Ki
-    location: "South Korea"
-    followers: 6641
-    engagement: 1009
-    commentsToLikes: 0.014316
-    id: ck5zno8duou6j0i14tx60v4nw
-    verified: false
-    hashtags: "#fedex, #atlasair, #b748, #aviationlove"
-  - username: "travelgram_korea"
-    fullname: >-
-      travelgram_korea
-    location: "South Korea"
-    followers: 328081
-    engagement: 318
-    commentsToLikes: 0.006461
-    id: ck0tyq4g0nqqt0i19qgo4zlqw
-    verified: false
-    hashtags: "#busan, #daejeon, #jeju, #cheonan"
-  - username: "juhyoun__"
-    fullname: >-
-      주발이
-    location: "South Korea"
-    followers: 28642
-    engagement: 114
-    commentsToLikes: 0.072531
-    id: ck6uief9welw00j71dhjasqwv
-    verified: false
-    hashtags: "#moumouchou, #ivenetmom, #repost, #356"
-  - username: "yumdda"
-    fullname: >-
-      염따 YUMDDA
-    location: "South Korea"
-    followers: 370715
-    engagement: 929
-    commentsToLikes: 0.041500
-    id: ck137gwjlbh9d0i19a7owl5s6
+    followers: 79851
+    engagement: 261
+    commentsToLikes: 0.034184
+    id: ck5zonunjqxya0i14b78mapns
     verified: true
-    hashtags: ""
-  - username: "x_ming_0_"
+    hashtags: "#vibes, #shot, #bali, #food"
+  - username: "raul_4802"
     fullname: >-
-      민  영
+      김창환
     location: "South Korea"
-    followers: 2685
-    engagement: 3057
-    commentsToLikes: 0.311181
-    id: ck0ua62lnbho30i19f8uww2gr
+    followers: 2206
+    engagement: 1127
+    commentsToLikes: 0.042932
+    id: ck5zzsv4gcd580i14t3gejoxe
     verified: false
-    hashtags: ""
-  - username: "victor_thedrummer"
+    hashtags: "#basic, #feelow, #solsow, #15"
+  - username: "etland_elephants"
     fullname: >-
-      드럼좌 Victor the drum destroyer
+      인천 전자랜드 엘리펀츠
     location: "South Korea"
-    followers: 42133
-    engagement: 2028
-    commentsToLikes: 0.131191
-    id: ck8tdebdi30n80j78c80w1q2i
+    followers: 7072
+    engagement: 385
+    commentsToLikes: 0.032686
+    id: ck5c4lmlm1lpv0i11l68jvz7y
     verified: false
-    hashtags: "#bts, #rm, #led, #quiz"
-  - username: "kky_.s2"
+    hashtags: "#2020, #fa, #19, #0415"
+  - username: "elenakhvan_korea"
     fullname: >-
-      김경윤 (+🇰🇷)
+      Elena Khvan/Корея
     location: "South Korea"
-    followers: 2705
-    engagement: 2526
-    commentsToLikes: 0.224527
-    id: ck8t65y2uccba0j78s46u4oj8
+    followers: 3713
+    engagement: 1792
+    commentsToLikes: 0.109551
+    id: ckap8fyk7o52w0i78gp6a6oo9
     verified: false
-    hashtags: "#cudercutter, #cdct"
+    hashtags: "#southkorea, #incheon, #seoul"
+  - username: "mary_land__"
+    fullname: >-
+      매리🍒Mary😷
+    location: "South Korea"
+    followers: 19586
+    engagement: 857
+    commentsToLikes: 0.029280
+    id: ck8tc0gr8xu720j78hotz5s1o
+    verified: false
+    hashtags: "#drc60, #longskirt, #spring, #cosmetic"
+  - username: "stellakim516"
+    fullname: >-
+      Stella kim 스텔라🌟김가람
+    location: "South Korea"
+    followers: 11994
+    engagement: 732
+    commentsToLikes: 0.034791
+    id: ck6u7g21zlat80j71nan7e2jc
+    verified: false
+    hashtags: "#adrianalicea, #pier59studios, #nyfw20, #nyfw2020fw"
+  - username: "jihyun_sung"
+    fullname: >-
+      Ji Hyun Sung(성지현)
+    location: "South Korea"
+    followers: 25443
+    engagement: 762
+    commentsToLikes: 0.020042
+    id: ck15qp1jb3y6q0i19bu2ojcd6
+    verified: false
+    hashtags: "#baseshorts, #cepcalfsleeves, #badminton, #footfoot"
+  - username: "stellajang_official"
+    fullname: >-
+      스텔라장 Stella Jang 공식 인스타그램
+    location: "South Korea"
+    followers: 23964
+    engagement: 592
+    commentsToLikes: 0.014832
+    id: ck138kil3goh00i19sowoisd0
+    verified: false
+    hashtags: "#arirangtv, #imlive, #inotherwords, #incheon"
+  - username: "samdstagram"
+    fullname: >-
+      Sam(d)stagram
+    location: "South Korea"
+    followers: 5050
+    engagement: 537
+    commentsToLikes: 0.154178
+    id: ck5c4aqjc0yjp0i11p4lvdez7
+    verified: false
+    hashtags: "#reblok, #koreanwonders, #youlooksosexy, #foryou"
+  - username: "35_landscape"
+    fullname: >-
+      이종환
+    location: "South Korea"
+    followers: 2544
+    engagement: 1500
+    commentsToLikes: 0.041217
+    id: ckap0gpelq7bs0i783iv1fr58
+    verified: false
+    hashtags: "#deltaair, #seoulsky, #lotteworld, #lotteworldmall"
 ---

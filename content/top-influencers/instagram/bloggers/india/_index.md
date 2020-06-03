@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In India In 2020
 description: >-
-  Find top bloggers Instagram influencers in India in 2020. Most popular hashtags: #delhiblogger #blogger #fashionblogger #lifestyleblogger.
+  Find top bloggers Instagram influencers in India in 2020. Most popular hashtags: #kerala #influencer #india #kochi.
 platform: Instagram
 profiles:
-  - username: "taukeer_editz"
+  - username: "popy.__"
     fullname: >-
-      𝐓 🔥 𝐔 𝐊 𝐄 𝐄 𝐑  𝐄 𝐃 𝐈 𝐓 𝐙  👑
+      وشنُ🦋
     location: "India"
-    followers: 170076
-    engagement: 1507
-    commentsToLikes: 0.033853
-    id: ck15r3put5zoz0i19o97av7e3
+    followers: 8227
+    engagement: 1528
+    commentsToLikes: 0.164624
+    id: ck9wgp8i1udha0j78pjte341g
     verified: false
-    hashtags: "#orange, #moodblue, #happyholidays, #picsart"
-  - username: "miss_preet__"
+    hashtags: "#trivandrum, #keralatourism, #kannur, #malayali"
+  - username: "mr_charmer_tejas"
     fullname: >-
-      Preet Kaur | Blogger
+      👑MR TEJA$ PANDHARE👑
     location: "India"
-    followers: 3255
-    engagement: 2179
-    commentsToLikes: 0.115197
-    id: ck8tc5kzcycwv0j78m6t6krq8
+    followers: 2948
+    engagement: 3318
+    commentsToLikes: 0.175062
+    id: ck9wfpqdipyf10j78tfb8wr2k
     verified: false
-    hashtags: "#indianblog, #indianwear, #voguemagazine, #giveaway"
-  - username: "komalvermaofficial"
+    hashtags: "#fashion, #nightphotoshoot, #sunday, #keepsupporting"
+  - username: "ansu_emoboy"
     fullname: >-
-      @KomalVerma
+      🤘Anshad_Ansu🤪🤙
     location: "India"
-    followers: 18116
-    engagement: 858
-    commentsToLikes: 0.068874
-    id: ck136dy8e60n70i19deinga64
+    followers: 7182
+    engagement: 2858
+    commentsToLikes: 0.087437
+    id: ck9whp5e7ywxw0j786tw6li19
     verified: false
-    hashtags: "#oldsong, #fashiongirl, #delhigram, #sareeinspiration"
+    hashtags: "#mideling"
+  - username: "thakku__zayn"
+    fullname: >-
+      Aju is great
+    location: "India"
+    followers: 11325
+    engagement: 1777
+    commentsToLikes: 0.107407
+    id: ck9wganbmskvu0j78uhinj6fk
+    verified: false
+    hashtags: "#instavibes, #keralafood, #quarantine, #hijqbiblogger"
+  - username: "mr_maji_4.12"
+    fullname: >-
+      𝐏𝐚𝐫𝐭𝐡 𝐌𝐚𝐣𝐢𝐰𝐚𝐥𝐚 💖
+    location: "India"
+    followers: 75489
+    engagement: 1424
+    commentsToLikes: 0.048508
+    id: ck9wg2dfhrlbk0j78wq0hmz56
+    verified: false
+    hashtags: "#bloggerlife, #newlook, #look, #fashion"
   - username: "aamir_khhan"
     fullname: >-
       AAMIR KHAN  Men's fashion
     location: "India"
-    followers: 24950
-    engagement: 684
-    commentsToLikes: 0.090948
+    followers: 25193
+    engagement: 726
+    commentsToLikes: 0.123717
     id: ck8t7gnatgq7a0j7803v0m16d
     verified: false
-    hashtags: "#delhi, #socialawareness, #influencerswanted, #caronavirus"
-  - username: "callmeprince"
-    fullname: >-
-      N I G 🔥 M  N A Y A K
-    location: "India"
-    followers: 19648
-    engagement: 740
-    commentsToLikes: 0.064036
-    id: ck8tbnwg9wepi0j78vgzetnem
-    verified: false
-    hashtags: "#fashiondaily, #modelife, #fashionindia, #india"
+    hashtags: "#covid, #facewash, #quarantinelife, #socialawareness"
   - username: "mayank_1o"
     fullname: >-
-      🌙
+      Use me 😁 🌙
     location: "India"
-    followers: 35071
-    engagement: 1140
-    commentsToLikes: 0.044651
+    followers: 33696
+    engagement: 1136
+    commentsToLikes: 0.054154
     id: ck14jtur8m5o50i19g2m49ori
     verified: false
-    hashtags: "#actionmovie, #soundcloud, #styleoftheday, #protrait"
-  - username: "fanaa_20"
+    hashtags: "#corona"
+  - username: "raizy_hasan"
     fullname: >-
-      ﷽ ¦ 𝙉𝙖𝙗𝙞𝙡𝙖 𝙨𝙖𝙮𝙮𝙖𝙙 🇮🇳 🇴🇲
+      RaizY_JunaiD
     location: "India"
-    followers: 5090
-    engagement: 1438
-    commentsToLikes: 0.127447
-    id: ck8sxnyyxi1cu0j78m0z2mzvw
+    followers: 84738
+    engagement: 1028
+    commentsToLikes: 0.037300
+    id: ckapby3o31q7d0i787wgpkxd6
     verified: false
-    hashtags: "#fanaafam, #quarantinemood, #hijabiqueen, #modestwear"
-  - username: "dimitra__zaf"
+    hashtags: "#model, #dubaimodel, #keepsmile, #pet"
+  - username: "komalvermaofficial"
     fullname: >-
-      dimitra_zaf
+      @KomalVerma
     location: "India"
-    followers: 7301
-    engagement: 966
-    commentsToLikes: 0.513967
-    id: ck5q409lxn62p0i11z1lnhv6l
+    followers: 18796
+    engagement: 795
+    commentsToLikes: 0.073450
+    id: ck136dy8e60n70i19deinga64
     verified: false
-    hashtags: "#magneticblocks, #styling, #dogmum, #kidsdecoration"
+    hashtags: "#newmommy, #fabuloussong, #fishingaddict, #fashiongirl"
   - username: "thebuddingtraveler"
     fullname: >-
       Pooja Yadav
     location: "India"
-    followers: 8574
-    engagement: 2288
-    commentsToLikes: 0.043064
+    followers: 11909
+    engagement: 1911
+    commentsToLikes: 0.048922
     id: ck0w0ispkef390i19xrdhw48d
     verified: false
-    hashtags: "#breaks, #journeys, #nationalparks, #bhaaratchitra"
-  - username: "i.am.pragati"
-    fullname: >-
-      👑 PRAGATI 👑
-    location: "India"
-    followers: 178164
-    engagement: 1017
-    commentsToLikes: 0.019167
-    id: ck13861fgenhm0i19wg4k5hsm
-    verified: false
-    hashtags: "#punjabilook, #tukallahisohnani, #fashionnova, #tiktokindo"
+    hashtags: "#contentcreator, #chhoriionroad, #instapic, #roadtrippin"
 ---

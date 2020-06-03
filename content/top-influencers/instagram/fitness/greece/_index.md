@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Greece In 2020
 description: >-
-  Find top fitness Instagram influencers in Greece in 2020. Most popular hashtags: #greece #fashionforboys #fashionblogger #hoscos.
+  Find top fitness Instagram influencers in Greece in 2020. Most popular hashtags: #stayhome #photography #running #fitness.
 platform: Instagram
 profiles:
-  - username: "ster_eleni"
-    fullname: >-
-      🎀Eleni Ster🎀
-    location: "Greece"
-    followers: 67463
-    engagement: 2249
-    commentsToLikes: 0.068940
-    id: ck6tspc4s628n0j71mqeapn3a
-    verified: false
-    hashtags: "#beatbox, #womanhood, #blessed, #valentines"
   - username: "vasou_lina"
     fullname: >-
       Vasou Lina
     location: "Greece"
-    followers: 11909
-    engagement: 1668
-    commentsToLikes: 0.329674
+    followers: 12075
+    engagement: 1539
+    commentsToLikes: 0.450800
     id: ck5znqqvtozbs0i14uin4hjkz
     verified: false
-    hashtags: "#boots, #black, #heraklioncity, #lovelyplace"
+    hashtags: "#triponwinter, #upsidedown, #goodmorning, #newyear"
   - username: "kos_slou16"
     fullname: >-
       Kostas Sloukas
     location: "Greece"
-    followers: 171344
-    engagement: 1385
-    commentsToLikes: 0.023287
+    followers: 167927
+    engagement: 1390
+    commentsToLikes: 0.023422
     id: ck5c20eiawaf00i11mfpu1mzs
     verified: true
-    hashtags: "#kingbill, #fenerbah, #hellasbasketball, #hairplay"
-  - username: "sokratisrom"
+    hashtags: "#headandshoulders, #neverenough, #kingbill, #fenerbah"
+  - username: "maria_louiza_real"
     fullname: >-
-      Socratis Rom
+      Maria Louiza Vourou
     location: "Greece"
-    followers: 28410
-    engagement: 1277
-    commentsToLikes: 0.008203
-    id: ck8t363a920uk0j78mrvostfg
+    followers: 64125
+    engagement: 277
+    commentsToLikes: 0.100118
+    id: ck55n9iwk5quk0i11bdztjjlt
     verified: false
-    hashtags: "#barbado, #beardguy, #thebeardedway, #ig"
-  - username: "missdelilaaah"
+    hashtags: "#haircolor, #fitness, #gifts, #detoxsmoothie"
+  - username: "yulia_spirina_fit"
     fullname: >-
-      💋 Delilah
+      Yulia Spirina
     location: "Greece"
-    followers: 16032
-    engagement: 288
-    commentsToLikes: 0.090778
-    id: ck5hniey3nu220i11fxlfpkg3
+    followers: 5040
+    engagement: 1611
+    commentsToLikes: 0.051465
+    id: ckap1r9wtvs600i78nrcb5bfy
     verified: false
-    hashtags: "#nbatogether, #prokind, #maldivesedition, #goddessvibesonly"
+    hashtags: "#workout, #fitnesslife, #rowing, #singlearmrow"
+  - username: "evdoxia_dm"
+    fullname: >-
+      Evdoxia Dima Xalatsi
+    location: "Greece"
+    followers: 42124
+    engagement: 718
+    commentsToLikes: 0.896290
+    id: ck8swmw6pekjz0j78m3ljmq79
+    verified: false
+    hashtags: "#gymgirl, #cutebaby, #kids, #fitnessgirl"
+  - username: "koulourisdim"
+    fullname: >-
+      Dimitris Koulouris
+    location: "Greece"
+    followers: 12133
+    engagement: 886
+    commentsToLikes: 0.067147
+    id: ck8svsuwwckio0j78fv4nfwb1
+    verified: false
+    hashtags: "#keepontraining, #core, #ziseathlitika, #wewill"
+  - username: "annienikoli"
+    fullname: >-
+      Annie Nikoli
+    location: "Greece"
+    followers: 28179
+    engagement: 698
+    commentsToLikes: 0.006746
+    id: ck5chaa5bqebo0i11n4r3rzmj
+    verified: false
+    hashtags: "#doyouunderstandlol, #loveislove, #different, #tranquilo"
   - username: "memevictim2000x"
     fullname: >-
       Sauced
     location: "Greece"
-    followers: 2170
-    engagement: 2003
-    commentsToLikes: 0.040783
+    followers: 2156
+    engagement: 1999
+    commentsToLikes: 0.040222
     id: ck1354cwgzn6y0i19zghp7ny9
     verified: false
-    hashtags: "#gbf, #wcw"
-  - username: "francescamantione13"
-    fullname: >-
-      🎈Francesca Mantione 🎈
-    location: "Greece"
-    followers: 30661
-    engagement: 197
-    commentsToLikes: 0.019925
-    id: ck6u4zblu6o0a0j713sity32i
-    verified: false
-    hashtags: "#paolobonolis, #lucalaurenti, #honesty, #finoadomani"
-  - username: "marx_ps"
-    fullname: >-
-      MarX Ps
-    location: "Greece"
-    followers: 6223
-    engagement: 668
-    commentsToLikes: 0.023268
-    id: ck6udj6itleru0j710hfhwqb7
-    verified: false
-    hashtags: "#itsme, #happyvalentinesday, #israel, #greekbeautyblogger"
+    hashtags: "#wcw, #gbf"
   - username: "ismini_fab"
     fullname: >-
       Ismini Fabiatou🍩🍫
     location: "Greece"
-    followers: 50195
-    engagement: 356
-    commentsToLikes: 0.004284
+    followers: 50341
+    engagement: 443
+    commentsToLikes: 0.005683
     id: ck8t0anlnrezk0j78v31dg0oe
     verified: false
-    hashtags: "#thoughts, #germany, #glutes, #todayiwillchallenge"
-  - username: "georgia_papadopoulou_"
+    hashtags: "#blueeyes, #giftedbyreebok, #stayhome, #poweredbyglo"
+  - username: "_.haoh._"
     fullname: >-
-      Georgia Papadopoulou
+      Alexander
     location: "Greece"
-    followers: 5120
-    engagement: 863
-    commentsToLikes: 0.019958
-    id: ck6txhiqjxvd90j71undqgz8k
+    followers: 2260
+    engagement: 3757
+    commentsToLikes: 0.024626
+    id: ck9wg10etrezj0j78o73vzpyv
     verified: false
-    hashtags: "#strength, #perfit, #fitness, #personal"
+    hashtags: "#pumped, #cute, #artistic, #goodmorning"
 ---

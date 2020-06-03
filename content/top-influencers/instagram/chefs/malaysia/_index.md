@@ -1,97 +1,87 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top chefs Instagram influencers in Malaysia in 2020. Most popular hashtags: #staysafe #stayathome #stayhome #malaysia.
+  Find top chefs Instagram influencers in Malaysia in 2020. Most popular hashtags: #foodie #yummy #lunch #fashion.
 platform: Instagram
 profiles:
-  - username: "melvinegar"
-    fullname: >-
-      M E L  V I N E G A R
-    location: "Malaysia"
-    followers: 25836
-    engagement: 1390
-    commentsToLikes: 0.031650
-    id: ck15pxdh603vc0i19b0lqhgq1
-    verified: false
-    hashtags: "#newyearnewme, #wuhanvirus, #9gag, #toiletpapercrisis"
   - username: "zortan"
     fullname: >-
       Zor Tan 陳茳誔
     location: "Malaysia"
-    followers: 2793
-    engagement: 878
-    commentsToLikes: 0.040655
+    followers: 2831
+    engagement: 854
+    commentsToLikes: 0.039671
     id: ck133vboyu8vy0i19yg7l4ez2
     verified: false
-    hashtags: "#friendship, #earlycnydinner, #3rdimportantladiesinmylife, #peachblossom"
+    hashtags: "#pickles, #michelin, #2stars, #thankyoumyteam"
   - username: "shersonlian"
     fullname: >-
       Sherson Lian
     location: "Malaysia"
-    followers: 53800
-    engagement: 237
-    commentsToLikes: 0.035912
+    followers: 57212
+    engagement: 266
+    commentsToLikes: 0.038565
     id: ck6udgxojl1fg0j716gcbzp51
     verified: true
-    hashtags: "#covid19malaysia, #tlcfest19, #makansudah, #guinnesstime"
+    hashtags: "#suck, #tuckintoasia, #ramadanmubarak, #ramadhan"
+  - username: "foody.monk"
+    fullname: >-
+      Suhas M | Bengaluru
+    location: "Malaysia"
+    followers: 5592
+    engagement: 669
+    commentsToLikes: 0.078927
+    id: ckaoxqareecdk0i78njg5srwy
+    verified: false
+    hashtags: "#vegpizza, #breakfastclub, #aamras, #bangalorean"
   - username: "wangpix"
     fullname: >-
       Phil Wang
     location: "Malaysia"
-    followers: 45523
-    engagement: 411
-    commentsToLikes: 0.015524
+    followers: 48032
+    engagement: 402
+    commentsToLikes: 0.015390
     id: ck0tyafsom5ml0i199gnn0mtk
     verified: true
-    hashtags: "#pork, #glastonburyfestival, #toiletpaper, #ad"
+    hashtags: "#toiletpaper, #wangsruin, #wanghammock, #glastonburyfestival"
   - username: "jeffrey__tan"
     fullname: >-
       Jeffrey Tan
     location: "Malaysia"
-    followers: 47134
-    engagement: 218
-    commentsToLikes: 0.004849
+    followers: 50114
+    engagement: 183
+    commentsToLikes: 0.005650
     id: ck5zm91lqm4g20i148fe9l90q
     verified: false
-    hashtags: "#bringmeback, #mango, #chocolate, #design"
-  - username: "peterhughdavis"
+    hashtags: "#limited, #bakingclass, #baking, #class"
+  - username: "hello_tothe_necessities_blog"
     fullname: >-
-      🇲🇾 Davis 🇬🇧
+      kanwal usman
     location: "Malaysia"
-    followers: 38414
-    engagement: 178
-    commentsToLikes: 0.092245
-    id: ck134fmy3w77o0i194nv4in5z
+    followers: 11241
+    engagement: 640
+    commentsToLikes: 0.367097
+    id: ck9wgp9dcudmu0j78gscy2bhd
+    verified: false
+    hashtags: "#tipsntricks, #sale, #together, #loveforcheese"
+  - username: "coyarcocina"
+    fullname: >-
+      Chef Alejandro Cuellar
+    location: "Malaysia"
+    followers: 44646
+    engagement: 225
+    commentsToLikes: 0.056474
+    id: ck5c26je0wmvt0i11acy6650i
     verified: true
-    hashtags: "#wantonmee, #hilo, #onset, #flightjacket"
-  - username: "sarahmaylow"
+    hashtags: "#foodgasm, #instafood, #sukhumvit, #bajubangkok"
+  - username: "azirahalyanie"
     fullname: >-
-      Malaysia No.1 Tarot Reader 🔮🃏
+      not a professional chef 👩🏽‍🍳
     location: "Malaysia"
-    followers: 30572
-    engagement: 542
-    commentsToLikes: 0.029871
-    id: ck5hdx1pdptcl0i11m5ynfrid
+    followers: 142790
+    engagement: 382
+    commentsToLikes: 0.006276
+    id: ck14irp6cgw240i19ctfsrlc2
     verified: false
-    hashtags: "#cleomalaysia, #chinesenewyear, #divination, #hustlers"
-  - username: "myfoodiescorner"
-    fullname: >-
-      Foodie's Corner
-    location: "Malaysia"
-    followers: 15739
-    engagement: 557
-    commentsToLikes: 0.008363
-    id: ck15pq435z3jf0i1918nnoq53
-    verified: false
-    hashtags: "#malabar, #mrinalsblog, #kannurian, #eeeeeats"
-  - username: "rean.rahman_"
-    fullname: >-
-      #ReanRahman 🇧🇩
-    location: "Malaysia"
-    followers: 6044
-    engagement: 902
-    commentsToLikes: 0.015355
-    id: ck5bx9teynapw0i11pdzd5oyb
-    verified: false
-    hashtags: "#music, #streetphotomag, #cricket, #streetcricket"
+    hashtags: "#okimalaysia, #okirecipe, #recipe, #evaporatedmilk"
 ---

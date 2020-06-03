@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Austin In 2020
 description: >-
-  Find top rappers Instagram influencers in Austin in 2020. Most popular hashtags: #hiphop #rap #artist #music.
+  Find top rappers Instagram influencers in Austin in 2020. Most popular hashtags: #rapper #love #singer #happybirthday.
 platform: Instagram
 profiles:
-  - username: "noelashman"
+  - username: "robot_boii"
     fullname: >-
-      noel ashman
+      Mzee Mbuli
     location: "United States"
-    followers: 186063
-    engagement: 162
-    commentsToLikes: 0.010021
-    id: ck5pwr0dyo5yt0i11y8f1npkf
+    followers: 119275
+    engagement: 467
+    commentsToLikes: 0.022867
+    id: ck0w6uusnadxs0i1929xv1pzz
+    verified: false
+    hashtags: "#realhelp, #vocal, #family, #shimiyolus"
+  - username: "clintonthebrink"
+    fullname: >-
+      CLINT BRINK
+    location: "United States"
+    followers: 40832
+    engagement: 120
+    commentsToLikes: 0.037926
+    id: ckap3ik3c356b0i78i72cazxb
+    verified: false
+    hashtags: "#kingdomofheaven, #paarlvalley, #setetiquette, #godgivengifting"
+  - username: "mphooseitutu"
+    fullname: >-
+      Mpho Osei-Tutu
+    location: "United States"
+    followers: 30212
+    engagement: 116
+    commentsToLikes: 0.025907
+    id: ckapbo88n0obm0i78kqaql0m0
+    verified: false
+    hashtags: "#colorsofheaven, #filmfridays, #matrix, #lockdown"
+  - username: "therealtwandadude"
+    fullname: >-
+      TWAN DA DUDE
+    location: "United States"
+    followers: 131996
+    engagement: 135
+    commentsToLikes: 0.078636
+    id: ck5zqg1aruiy10i14gzkib2po
     verified: true
-    hashtags: "#naughtybynature, #rockstar, #producing, #lgbtq"
-  - username: "wspac"
+    hashtags: "#classicep, #yungtycoon, #djdrama, #hynaken"
+  - username: "sorrykhary"
     fullname: >-
-      Au$tin The Pacman
+      Khary
     location: "United States"
-    followers: 15931
-    engagement: 1687
-    commentsToLikes: 0.031546
-    id: ck6tqhob0rire0j716dil4usy
+    followers: 21199
+    engagement: 670
+    commentsToLikes: 0.072368
+    id: ck15qnox33qyz0i19c1xduesn
     verified: false
-    hashtags: "#divisionstreet, #freethehomies, #freedusty, #freebambam"
-  - username: "artbylinzo"
+    hashtags: "#kharymerchday, #iwishyoulove, #hiphop, #lofi"
+  - username: "vsxtoons"
     fullname: >-
-      💫LINZO💫
+      💕
     location: "United States"
-    followers: 7348
-    engagement: 2162
-    commentsToLikes: 0.038407
-    id: ck5zw5ml05j1n0i140hwtmg7y
+    followers: 18552
+    engagement: 1183
+    commentsToLikes: 0.012210
+    id: ckap8msjqp11q0i78rvy86nq8
     verified: false
-    hashtags: "#macmillerart, #texas, #badvibesforever, #glass"
-  - username: "kelseylynnmusic"
+    hashtags: "#offsetcardib, #janniferaniston, #madelyncline, #wowedits"
+  - username: "jerdfigs"
     fullname: >-
-      Kelsey Lynn
+      jordy
     location: "United States"
-    followers: 29142
-    engagement: 474
-    commentsToLikes: 0.045390
-    id: ck5zurcts2wrs0i14i05o5e3j
+    followers: 4096
+    engagement: 2411
+    commentsToLikes: 0.029977
+    id: ck5zkw0u0k9kj0i14im3s9nje
     verified: false
-    hashtags: "#primesuspects, #explorepage, #girl, #songs"
-  - username: "yungla_"
+    hashtags: "#thedude, #albumart, #halloween, #queen"
+  - username: "tubared"
     fullname: >-
-      Yung LA
+      ♦️DEVON  TAYLOR
     location: "United States"
-    followers: 21866
-    engagement: 198
-    commentsToLikes: 0.120724
-    id: ck6tt0f697v9z0j714w2g899b
+    followers: 8005
+    engagement: 576
+    commentsToLikes: 0.047827
+    id: ck15pf5snxl2u0i19q0li1sht
     verified: false
-    hashtags: "#safe, #yungla, #atl, #sharkcake"
-  - username: "slayercarito"
+    hashtags: "#club, #studion, #cello, #classical"
+  - username: "beatdemons"
     fullname: >-
-      Carolina Martinez
+      BEATDEMONS.COM
     location: "United States"
-    followers: 18151
-    engagement: 964
-    commentsToLikes: 0.024173
-    id: ck14itgukh3770i19njgkd6mu
+    followers: 35021
+    engagement: 328
+    commentsToLikes: 0.049156
+    id: ck5hq509qsie70i11cosi98py
     verified: false
-    hashtags: "#glamrock, #thighhighs, #purplevinyl, #rsdblackfriday"
-  - username: "theloniouslove"
+    hashtags: "#studiolife, #musicians, #caption, #lifestyle"
+  - username: "zofficialmusic_"
     fullname: >-
-      Theo Love
+      Z
     location: "United States"
-    followers: 6123
-    engagement: 783
-    commentsToLikes: 0.011821
-    id: ck6u430yc1e9p0j71z7v035gp
+    followers: 6801
+    engagement: 636
+    commentsToLikes: 0.045975
+    id: ck6tt0l5z7w8p0j714au9k3wr
     verified: false
-    hashtags: "#photography, #jurnt, #liveband, #rockstar"
-  - username: "migs718"
-    fullname: >-
-      Migs718
-    location: "United States"
-    followers: 8207
-    engagement: 735
-    commentsToLikes: 0.160280
-    id: ck8syrtw4lrgv0j78vd82hrs1
-    verified: false
-    hashtags: "#artist, #paris, #chicago, #statenisland"
-  - username: "0ceanz_"
-    fullname: >-
-      ☯Lil Wave🌊
-    location: "United States"
-    followers: 6374
-    engagement: 595
-    commentsToLikes: 0.098155
-    id: ck5bvsprckbsu0i11i0ffnect
-    verified: false
-    hashtags: "#sxswdj, #areyouraw, #newmusic, #wetordry"
-  - username: "snipt"
-    fullname: >-
-      Snipt
-    location: "United States"
-    followers: 39040
-    engagement: 317
-    commentsToLikes: 0.017222
-    id: ck15rlycz8kji0i19tib9pjzk
-    verified: false
-    hashtags: "#streetarteverywhere, #fineart, #kingofrock, #pasteup"
+    hashtags: "#studio, #jeepwrangler, #wildwingscafe, #photography"
 ---

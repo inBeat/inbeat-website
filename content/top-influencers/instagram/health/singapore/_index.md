@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Singapore In 2020
 description: >-
-  Find top health Instagram influencers in Singapore in 2020. Most popular hashtags: #singapore #stayhome #love #instagood.
+  Find top health Instagram influencers in Singapore in 2020. Most popular hashtags: #mothersday #circuitbreaker #staysafe #sunday.
 platform: Instagram
 profiles:
-  - username: "mirchelley"
-    fullname: >-
-      MICHELLE 💚
-    location: "Singapore"
-    followers: 151645
-    engagement: 125
-    commentsToLikes: 0.053196
-    id: ck5cl54biy9ly0i11lek7l1mf
-    verified: false
-    hashtags: "#barbiedoll, #happyilogirls, #pomelogirls, #barbie"
   - username: "fonekekho"
     fullname: >-
       Foneke
     location: "Singapore"
     followers: 38408
-    engagement: 643
-    commentsToLikes: 0.013996
+    engagement: 630
+    commentsToLikes: 0.017517
     id: ck5c1rmipvs9k0i11xuudp5qi
     verified: false
-    hashtags: "#stayhome, #minustwelvedegrees, #pakuwonsurabaya, #staysafe"
-  - username: "asianfoodninja"
+    hashtags: "#friendship, #mask, #fashionista, #eightdegrees"
+  - username: "mirchelley"
     fullname: >-
-      SYDNEY FOOD NINJA
+      MICHELLE TAN 💚
     location: "Singapore"
-    followers: 81449
-    engagement: 385
-    commentsToLikes: 0.051520
-    id: ck0ttrkq640iw0i19puxv8g13
+    followers: 152334
+    engagement: 103
+    commentsToLikes: 0.010597
+    id: ck5cl54biy9ly0i11lek7l1mf
     verified: false
-    hashtags: "#kingscrossstation, #desserts, #toshihikokakigori, #michelinguidetaipei"
+    hashtags: "#mood, #quarantine, #stayhome, #workoutchallenge"
   - username: "chennaifoodtalkies"
     fullname: >-
-      The Munching Advocate🇮🇳
+      DEBHASRI VISVANANDAM
     location: "Singapore"
-    followers: 13584
-    engagement: 1003
-    commentsToLikes: 0.052237
+    followers: 14717
+    engagement: 1033
+    commentsToLikes: 0.057933
     id: ck0ue2iyikdu50i19fosopd9r
     verified: false
-    hashtags: "#raiseatoast, #chennaifoodtalkies, #chennaifood, #girlpower"
+    hashtags: "#bride, #makeup, #27042019, #makeuplooks"
   - username: "applehong"
     fullname: >-
       Apple Hong 洪乙心
     location: "Singapore"
-    followers: 53387
-    engagement: 131
-    commentsToLikes: 0.026150
+    followers: 54159
+    engagement: 117
+    commentsToLikes: 0.030998
     id: ck5qd6r84u34r0i11u9fsig2r
     verified: true
-    hashtags: "#fukuokatower, #faithhopelove, #strengthenimmunesystem, #happywomensday"
-  - username: "_mrschia_"
+    hashtags: "#massivewine, #furryfriends, #2005, #avocado"
+  - username: "coolmommy_konnect"
     fullname: >-
-      Cynthia Tee
+      Namita Sinha
     location: "Singapore"
-    followers: 7050
-    engagement: 754
-    commentsToLikes: 0.930020
-    id: ck5zlpshzl5qy0i14ewhorinm
+    followers: 6793
+    engagement: 1042
+    commentsToLikes: 0.109385
+    id: ck8syei3fkle90j78fr5e1273
     verified: false
-    hashtags: "#breastfeedingmom, #momstyle, #marriedcouple, #bepresent"
-  - username: "angeliqueteo"
+    hashtags: "#cleaningsilver, #mommybloggers, #superspicemix, #kp9850"
+  - username: "rarecray"
     fullname: >-
-      Angelique Nicolette Teo
+      Dan Ng
     location: "Singapore"
-    followers: 18285
-    engagement: 634
-    commentsToLikes: 0.123427
-    id: ck5hnkcnnnxiw0i11iok283vh
+    followers: 56547
+    engagement: 902
+    commentsToLikes: 0.013544
+    id: ck6ugmdui3vpy0j71uhim1vdo
     verified: false
-    hashtags: "#baubles, #december, #yearoftherat, #vegan"
-  - username: "jonbyjonsam"
+    hashtags: "#uncovertheultimate, #reno3pro, #clearineveryshot, #mentalhealthawareness"
+  - username: "sharamorr"
     fullname: >-
-      Jonsam
+      Shara Maria Morada✨🌸
     location: "Singapore"
-    followers: 16129
-    engagement: 874
-    commentsToLikes: 0.032823
-    id: ck0w6auwr7ous0i19pqq0ci1c
+    followers: 2834
+    engagement: 2513
+    commentsToLikes: 0.068178
+    id: ck6tyenya3a640j71fcw457q2
     verified: false
-    hashtags: "#balitrip, #thebalibible, #wanderlust, #trip"
+    hashtags: "#takemebacktotaiwan, #fillicafedubai, #traveldubai, #igerdubai"
   - username: "qinlovesmacaronsss"
     fullname: >-
       мαʏα ʜᴀᴢᴇʟ ǫɪɴ マヤ • sɪɴɢᴀᴘᴏʀᴇ
     location: "Singapore"
-    followers: 24385
-    engagement: 512
-    commentsToLikes: 0.147471
+    followers: 25141
+    engagement: 509
+    commentsToLikes: 0.105823
     id: ck6ugweze5kk90j71irog1i1v
     verified: false
-    hashtags: "#sgfoodie, #2019ncov, #makeuptalk, #sgeats"
+    hashtags: "#sunblock, #aveenosg, #eczema, #mhrasia"
+  - username: "_mrschia_"
+    fullname: >-
+      Cynthia Tee
+    location: "Singapore"
+    followers: 7260
+    engagement: 546
+    commentsToLikes: 0.514206
+    id: ck5zlpshzl5qy0i14ewhorinm
+    verified: false
+    hashtags: "#unwind, #sgeat, #reusing, #babyblanket"
   - username: "lyzpopz"
     fullname: >-
       Sherly Devonne Ng 黄艺萱
     location: "Singapore"
-    followers: 43122
-    engagement: 1178
-    commentsToLikes: 0.008989
+    followers: 48334
+    engagement: 1014
+    commentsToLikes: 0.009045
     id: ck5qapi5ohlpj0i11ku22z7uk
     verified: false
-    hashtags: "#happynewyear2020, #cny2020, #nomnomnomnom, #goodbyesushiface"
+    hashtags: "#spicybae, #nutritionhelper, #throwingitback, #staystrong"
 ---

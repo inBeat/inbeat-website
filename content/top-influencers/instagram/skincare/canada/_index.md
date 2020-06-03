@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Canada In 2020
 description: >-
-  Find top skincare Instagram influencers in Canada in 2020. Most popular hashtags: #ootd #makeuptutorial #covid19 #kyliecosmetics.
+  Find top skincare Instagram influencers in Canada in 2020. Most popular hashtags: #makeuptutorial #makeupartist #urbandecay #colourpop.
 platform: Instagram
 profiles:
-  - username: "mayakapouranis"
-    fullname: >-
-      Maya Veronika Kapouranis✨💓🌞🌈🌴
-    location: "Canada"
-    followers: 21876
-    engagement: 426
-    commentsToLikes: 0.081611
-    id: ck5hl86jijqzt0i11hr5e6qjw
-    verified: false
-    hashtags: "#revolve, #topshopstyle, #fabricofyou, #topshopstyle"
-  - username: "fatimacaser"
-    fullname: >-
-      𝖋𝖆𝖙𝖎𝖒𝖆 𝖈𝖆𝖘𝖊𝖗 ✨
-    location: "Canada"
-    followers: 26735
-    engagement: 726
-    commentsToLikes: 0.045651
-    id: ck15tfjhxhtzw0i19wlxwykgu
-    verified: false
-    hashtags: "#glamcor, #penny4uthots, #underdawg, #stunna"
   - username: "kgmtl"
     fullname: >-
       Katherine Garbarino
     location: "Canada"
-    followers: 63241
-    engagement: 429
-    commentsToLikes: 0.025653
+    followers: 63255
+    engagement: 535
+    commentsToLikes: 0.035732
     id: ck55ke17yz3wj0i11cnnamu23
     verified: false
-    hashtags: "#ronalife, #staytuned, #killingit, #onepickris"
+    hashtags: "#missmygirls, #kgchallenge, #sephoracanada, #freshbeauty"
+  - username: "guneetbenipal"
+    fullname: >-
+      RASMALAI
+    location: "Canada"
+    followers: 4096
+    engagement: 1219
+    commentsToLikes: 0.216098
+    id: ckap7d7injk6w0i78ee3qs4iu
+    verified: false
+    hashtags: "#recreation, #explorepage, #hudabeautyshop, #madhuridixit"
+  - username: "nilaharan"
+    fullname: >-
+      Nila Haran
+    location: "Canada"
+    followers: 47687
+    engagement: 174
+    commentsToLikes: 0.050847
+    id: ck5hp2bnyqmu60i11cq7pd6xf
+    verified: false
+    hashtags: "#reallife, #saree, #chiffonsaree, #indianfashion"
+  - username: "sincerelyambermarie"
+    fullname: >-
+      fashion + beauty + lifestyle
+    location: "Canada"
+    followers: 16078
+    engagement: 244
+    commentsToLikes: 0.192017
+    id: ckaorpj3uo8zh0i788fgkgjbk
+    verified: false
+    hashtags: "#wakeupmakeup, #stayinginwithnastygal, #analuisa, #goldjewelry"
+  - username: "fatimacaser"
+    fullname: >-
+      𝖋𝖆𝖙𝖎𝖒𝖆 𝖈𝖆𝖘𝖊𝖗✨
+    location: "Canada"
+    followers: 26539
+    engagement: 739
+    commentsToLikes: 0.045713
+    id: ck15tfjhxhtzw0i19wlxwykgu
+    verified: false
+    hashtags: "#staynaked, #70cb, #tfpeachesandcream, #colourpop"
   - username: "carlingliski"
     fullname: >-
       Carling Liski
     location: "Canada"
-    followers: 14757
-    engagement: 246
-    commentsToLikes: 0.085890
+    followers: 14656
+    engagement: 284
+    commentsToLikes: 0.098992
     id: ck0twl3bmfv460i19cy6ppqrd
     verified: false
-    hashtags: "#homeworkout, #community, #flattenthecurve, #traveldiaries"
+    hashtags: "#freshiiessentials, #prairieswim, #cottagecountry, #eatenergize"
   - username: "icingandglitter"
     fullname: >-
       Siffat Haider
     location: "Canada"
-    followers: 59201
-    engagement: 93
-    commentsToLikes: 0.084020
+    followers: 58418
+    engagement: 86
+    commentsToLikes: 0.082401
     id: ck0vxutiv0ucj0i19gnagvv1a
     verified: false
-    hashtags: "#beautyjunkie, #healthyfood, #casualoutfit, #coffeelover"
-  - username: "hanantehaili"
+    hashtags: "#popsugarfood, #mothersday, #makeuptutorial, #outfittoday"
+  - username: "dominique.baker"
     fullname: >-
-      H A N A N  T E H A I L I
+      Dominique Baker
     location: "Canada"
-    followers: 443555
-    engagement: 148
-    commentsToLikes: 0.024713
-    id: ck134m6d8x3zc0i19q2h4edmj
-    verified: true
-    hashtags: "#100kgiveaway, #bigteethdontcare, #stayhome, #bekind"
+    followers: 34679
+    engagement: 228
+    commentsToLikes: 0.141791
+    id: ck14gyl0f7np60i19usawtxg3
+    verified: false
+    hashtags: "#styledbyshea, #sheafamnorth, #104, #sheamoisturecanada"
   - username: "nvxncy"
     fullname: >-
-      Nancy Virdi✨
+      N A N C Y • V I R D I
     location: "Canada"
-    followers: 29580
-    engagement: 538
-    commentsToLikes: 0.055700
+    followers: 30604
+    engagement: 643
+    commentsToLikes: 0.070502
     id: ck14gq2ev6h7v0i19o4qduo3x
     verified: false
-    hashtags: "#grwm, #bobbibrown, #dewymakeup, #comedy"
-  - username: "meaaghanmay"
+    hashtags: "#tiktokindia, #kimkinspired, #beccacosmetics, #amrezy"
+  - username: "kennawhitnell"
     fullname: >-
-      ✨Meaghan May✨
+      Kenna Whitnell
     location: "Canada"
-    followers: 3385
-    engagement: 1027
-    commentsToLikes: 0.200790
-    id: ck13ce3uzzwqn0i19xt61t98h
+    followers: 15656
+    engagement: 793
+    commentsToLikes: 0.046670
+    id: ck5q9qz4ycjc60i11pnnu02gx
     verified: false
-    hashtags: "#workout, #fitnessmotivation, #victoriasecretmodels, #rihanna"
-  - username: "yzellebeauty"
-    fullname: >-
-      ✨ y z e l l e
-    location: "Canada"
-    followers: 11549
-    engagement: 796
-    commentsToLikes: 0.437685
-    id: ck0vwrb5jv7nb0i199dtxhczw
-    verified: false
-    hashtags: ""
-  - username: "boyuba"
-    fullname: >-
-      BOYU BA | VANCOUVER
-    location: "Canada"
-    followers: 79266
-    engagement: 112
-    commentsToLikes: 0.061193
-    id: ck137ff1ab98x0i198o6n2926
-    verified: false
-    hashtags: "#pokebowl, #happyfebruary, #revolverepost, #grandmavibes"
+    hashtags: "#60smakeup, #lush, #ultraplant, #cleanskincare"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Sydney In 2020
 description: >-
-  Find top fashion Instagram influencers in Sydney in 2020. Most popular hashtags: #fashion #sydney #stayhome #sydneyblogger.
+  Find top fashion Instagram influencers in Sydney in 2020. Most popular hashtags: #fashion #sydney #stayhome #aussie.
 platform: Instagram
 profiles:
-  - username: "kyratavernier"
-    fullname: >-
-      KYRA-JADE
-    location: "Australia"
-    followers: 20625
-    engagement: 270
-    commentsToLikes: 0.061848
-    id: ck5he9zi2ru2z0i11tmjsp5bo
-    verified: false
-    hashtags: "#model, #10yearchallenge, #rap, #reefy"
-  - username: "shane.emmerson"
-    fullname: >-
-      失恋した
-    location: "Australia"
-    followers: 82685
-    engagement: 1607
-    commentsToLikes: 0.018313
-    id: ck14hucqmc6ox0i19x7m27173
-    verified: false
-    hashtags: "#sydney, #trending, #streetclothing, #streetstyleguys"
   - username: "chloe.a.reid"
     fullname: >-
       C H L O E
     location: "Australia"
-    followers: 5983
-    engagement: 630
-    commentsToLikes: 0.157475
+    followers: 6082
+    engagement: 685
+    commentsToLikes: 0.190400
     id: ck6tknarz51ii0j71u9cwrn4m
     verified: false
-    hashtags: "#vintagesydney, #palmbeachlighthouse, #vaucluse, #instabookshop"
+    hashtags: "#kimonofashion, #sleepwithkoala, #creativebath, #sydneylifestyle"
+  - username: "manard_illustration"
+    fullname: >-
+      Fru Farkas
+    location: "Australia"
+    followers: 7933
+    engagement: 548
+    commentsToLikes: 0.026587
+    id: ck6typdhe52zo0j7191brskfl
+    verified: false
+    hashtags: "#lemon, #claybrooches, #popupshop, #lady"
+  - username: "jannesphoto"
+    fullname: >-
+      JannesPhoto
+    location: "Australia"
+    followers: 25966
+    engagement: 209
+    commentsToLikes: 0.067479
+    id: ck8t7qdwshn7y0j78vgbijp62
+    verified: false
+    hashtags: "#nswmodel, #modelingshoot, #prettyeyes, #agencygoals"
   - username: "ali.baxter"
     fullname: >-
       ALI BAXTER
     location: "Australia"
-    followers: 154431
-    engagement: 186
-    commentsToLikes: 0.060864
+    followers: 163901
+    engagement: 243
+    commentsToLikes: 0.054199
     id: ck55p98zta30w0i1149zym1du
     verified: false
-    hashtags: "#summerbaby, #dayslikethese, #goldcoasttrip, #activewear"
-  - username: "nawalsari"
-    fullname: >-
-      NAWAL
-    location: "Australia"
-    followers: 133784
-    engagement: 490
-    commentsToLikes: 0.013970
-    id: ck13bmrnsw6e60i19yj7boh5o
-    verified: false
-    hashtags: "#styletips, #kuwtk, #tiktoktrivia, #onlineclass"
+    hashtags: "#sunbaking, #zalaponytail, #isolife, #freestyle"
   - username: "congcongh"
     fullname: >-
       子时当归
     location: "Australia"
-    followers: 91276
-    engagement: 463
-    commentsToLikes: 0.009158
+    followers: 94526
+    engagement: 453
+    commentsToLikes: 0.008047
     id: ck14k2cb0ndpe0i19l3fyji0s
     verified: false
-    hashtags: "#quinoasalad, #coffeelovers, #yogurtbowl, #healthyliving"
-  - username: "debbie_sugrue"
+    hashtags: "#potato, #unhealthyfood, #pancakes, #potatoepancakes"
+  - username: "taizetaylor"
     fullname: >-
-      Debbie Sugrue
+      Taize Taylor
     location: "Australia"
-    followers: 67393
-    engagement: 192
-    commentsToLikes: 0.116281
-    id: ck15qp5y13ytg0i19rgexc9ge
+    followers: 13793
+    engagement: 1024
+    commentsToLikes: 0.033487
+    id: ck8tcl5xfzsg40j78fl21o903
     verified: false
-    hashtags: "#prep, #youtube, #loungewear, #skin"
-  - username: "tahliamcvie"
+    hashtags: "#duke390, #isolation, #jeerbodyspray, #gratitude"
+  - username: "exploringwildsouls"
     fullname: >-
-      Tahlia McVie
+      Anna & Ben
     location: "Australia"
-    followers: 8004
-    engagement: 875
-    commentsToLikes: 0.121822
-    id: ck6tohq3ve5gk0j71zxgb5hmf
+    followers: 15388
+    engagement: 278
+    commentsToLikes: 0.046848
+    id: ck6tuze1cjau30j714qwsvcyv
     verified: false
-    hashtags: "#oscarwylee, #glassons"
+    hashtags: "#eastcoast, #germany, #vintage, #explore"
+  - username: "elynnn_ng"
+    fullname: >-
+      Elyn Ng👸🏻| Candour🌍亚洲第一互联网企业
+    location: "Australia"
+    followers: 21456
+    engagement: 389
+    commentsToLikes: 0.012114
+    id: ck5qd6kvau28t0i11x9u9fbyc
+    verified: false
+    hashtags: "#quotes, #followforfollowback, #kiama, #sea"
+  - username: "slaywithajmakeup"
+    fullname: >-
+      𝗔𝗦𝗛𝗟𝗘𝗘 𝗝𝗔𝗗𝗘 𝗦𝗡𝗘𝗗𝗗𝗢𝗡
+    location: "Australia"
+    followers: 2178
+    engagement: 1480
+    commentsToLikes: 0.409155
+    id: ckap8u67wpwi50i782pwe42e9
+    verified: false
+    hashtags: "#slave2beauty, #makeup, #blueeyeshadow, #disneymakeup"
   - username: "nath_page"
     fullname: >-
       𝐍𝐀𝐓𝐇𝐀𝐍 𝐏𝐀𝐆𝐄
     location: "Australia"
-    followers: 64637
-    engagement: 293
-    commentsToLikes: 0.070746
+    followers: 67772
+    engagement: 342
+    commentsToLikes: 0.060973
     id: ck8szdaqdnz700j78jj9bye27
     verified: false
     hashtags: ""
-  - username: "daialarie"
-    fullname: >-
-      Daia Larie
-    location: "Australia"
-    followers: 24595
-    engagement: 468
-    commentsToLikes: 0.056426
-    id: ck0w4api6xmy50i19r7x0glw0
-    verified: false
-    hashtags: "#wanderlust, #fruitstand, #siargao, #wonderful"
 ---

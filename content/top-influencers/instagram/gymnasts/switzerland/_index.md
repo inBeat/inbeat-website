@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top gymnasts Instagram influencers in Switzerland in 2020. Most popular hashtags: #gymnastics #yoga #switzerland #gym.
+  Find top gymnasts Instagram influencers in Switzerland in 2020. Most popular hashtags: #winter #summer #sunset #gymnastics.
 platform: Instagram
 profiles:
+  - username: "claire._obscure"
+    fullname: >-
+      Claire ⚡ Handstand Flexibility
+    location: "Switzerland"
+    followers: 2885
+    engagement: 2213
+    commentsToLikes: 0.063900
+    id: ck9we41mlihhp0j78iarrq7e0
+    verified: false
+    hashtags: "#hollowback, #yogaportrait, #yogamood, #yogavideo"
   - username: "oliver.hegi"
     fullname: >-
       Oliver Hegi
     location: "Switzerland"
-    followers: 8552
-    engagement: 2143
-    commentsToLikes: 0.004359
+    followers: 8525
+    engagement: 2148
+    commentsToLikes: 0.003935
     id: ck5pxfuumrk7k0i1156khbebx
     verified: false
-    hashtags: "#neardeathexperience, #winter, #cold, #old"
-  - username: "fredvaudroz"
+    hashtags: "#toocold, #fail, #neardeathexperience, #kekse"
+  - username: "ksenia_dzhalaganiya"
     fullname: >-
-      Fred Vaudroz
+      KSENIA
     location: "Switzerland"
-    followers: 12692
-    engagement: 1330
-    commentsToLikes: 0.016592
-    id: ck0vuvc5mmbzi0i19bppich89
-    verified: false
-    hashtags: "#ballet, #handstandpractice, #yogaoutdoors, #standingsplit"
-  - username: "julian_pagel_sw"
+    followers: 1011510
+    engagement: 173
+    commentsToLikes: 0.024669
+    id: ck0vx2qynwuuo0i199t78crfn
+    verified: true
+    hashtags: "#istanbulpage, #gymnastics, #takemeback, #dolomitesitaly"
+  - username: "tobias.bolliger"
     fullname: >-
-      Julian Pagel
+      Tobias Bolliger
     location: "Switzerland"
-    followers: 6026
-    engagement: 1468
-    commentsToLikes: 0.043118
-    id: ck5zq94lbu62w0i144159kd5h
+    followers: 12185
+    engagement: 1184
+    commentsToLikes: 0.034461
+    id: ckaosn6kts7130i78r498tyos
     verified: false
-    hashtags: "#baristiworkout, #mundocalist, #planche, #workout"
-  - username: "roxy_the_traveling_yogi"
-    fullname: >-
-      Roxy 🌏
-    location: "Switzerland"
-    followers: 12670
-    engagement: 465
-    commentsToLikes: 0.109352
-    id: ck8sydhkfkie80j78v61veaxg
-    verified: false
-    hashtags: "#yoga, #yogainversions, #yogastretching, #yogasoul"
+    hashtags: "#handstand365, #weights, #handstandlove, #handbalance"
   - username: "marie__sw"
     fullname: >-
       Marie Pons🌚
     location: "Switzerland"
-    followers: 5048
-    engagement: 2654
-    commentsToLikes: 0.045290
+    followers: 5071
+    engagement: 2604
+    commentsToLikes: 0.043171
     id: ck55lgh8q1ic70i11kzf61k4z
     verified: false
-    hashtags: "#streetworkout, #straightfromcam, #mountains, #health"
+    hashtags: "#happiness, #peaceful, #pants, #pushups"
   - username: "christelleheitz"
     fullname: >-
-      Souplesse   Force   Équilibre
+      Actor   |   Model   |   Dancer
     location: "Switzerland"
-    followers: 23175
-    engagement: 751
-    commentsToLikes: 0.011535
+    followers: 25214
+    engagement: 744
+    commentsToLikes: 0.014035
     id: ck0ueqw42lw9k0i19hm3gnl4m
     verified: false
-    hashtags: "#teamfitcats, #morning, #playagame, #reddress"
-  - username: "yannarnophoto"
+    hashtags: "#snow, #earth, #forest, #view"
+  - username: "roxy_the_traveling_yogi"
     fullname: >-
-      Yann Arnaud
+      Roxane Marti - Yoga Teacher
     location: "Switzerland"
-    followers: 16927
-    engagement: 989
-    commentsToLikes: 0.059785
-    id: ck5zrahy5w7ru0i1464qqgqaa
+    followers: 13326
+    engagement: 536
+    commentsToLikes: 0.123473
+    id: ck8sydhkfkie80j78v61veaxg
     verified: false
-    hashtags: "#awesome, #cirquedusoleil, #cirfitapparel, #love"
-  - username: "flips_by_robin"
+    hashtags: "#yogavideo, #inflexibleyogis, #inversions, #yogaswitzerland"
+  - username: "ekaterinalevy"
     fullname: >-
-      巨ROBIN 巨
+      【﻿Ｅｋａｔｅｒｉｎａ　Ｌｅｖｙ】
     location: "Switzerland"
-    followers: 11696
-    engagement: 3386
-    commentsToLikes: 0.110853
-    id: ck5c0ealesyyt0i11hgv0hxik
+    followers: 6347
+    engagement: 712
+    commentsToLikes: 0.057088
+    id: ck8swq8rieuzu0j78j9c8hlth
     verified: false
-    hashtags: "#trampoline, #clutchedaf, #codyfag, #gopro"
-  - username: "tivodemon"
+    hashtags: "#sonygermany, #musicvideo, #qualitytime, #family"
+  - username: "matthieu.pk"
     fullname: >-
-      DEMON
+      MATT | PARKOUR
     location: "Switzerland"
-    followers: 14808
-    engagement: 1399
-    commentsToLikes: 0.028343
-    id: ck0u6kezd25ac0i199nwy3p82
+    followers: 8259
+    engagement: 2032
+    commentsToLikes: 0.015595
+    id: ck5cjw9l6vmow0i11qc2n9u8y
     verified: false
-    hashtags: "#challengeyourself, #bboying, #powermoves, #chilling"
-  - username: "leo.moves"
+    hashtags: "#quarantine, #coronavirus, #freerunningtv, #lucia"
+  - username: "sebastianmagnani"
     fullname: >-
-      Leandro Fornito
+      SEBASTIAN MAGNANI
     location: "Switzerland"
-    followers: 42148
-    engagement: 375
-    commentsToLikes: 0.038125
-    id: ck6tyyjzr6lla0j71pset3l6w
+    followers: 11226
+    engagement: 1309
+    commentsToLikes: 0.018042
+    id: ck14iyqbghsbo0i19ix9s0g81
     verified: false
-    hashtags: "#beastmode, #livingroomsgottalent, #peopleareawesome, #breakdance"
+    hashtags: "#tanningbed, #cappuccino, #actor, #swisscom"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top christian Instagram influencers in Nigeria in 2020. Most popular hashtags: #lagos #nigeria #creartmood #staysafe.
+  Find top christian Instagram influencers in Nigeria in 2020. Most popular hashtags: #style #covid19 #womancrushwednesday #quarantinelife.
 platform: Instagram
 profiles:
+  - username: "emnzeribe"
+    fullname: >-
+      Okegbue Nzeribe Emmanuel
+    location: "Nigeria"
+    followers: 3432
+    engagement: 2634
+    commentsToLikes: 0.092010
+    id: ck6tvgo4gm4mk0j71wrlw6c7f
+    verified: false
+    hashtags: "#staypostive, #stayproductive, #covid19, #covid19nigeria"
   - username: "hafizayahayabello"
     fullname: >-
       HAFIZA YAHAYA BELLO
     location: "Nigeria"
-    followers: 21456
-    engagement: 337
-    commentsToLikes: 0.054851
+    followers: 21603
+    engagement: 358
+    commentsToLikes: 0.060026
     id: ck5hrdf2auon80i11ph027lbx
     verified: false
-    hashtags: "#kogidecides2019"
-  - username: "rekiyayusuf"
-    fullname: >-
-      REKIYA/ MIMI/ FLATMATES
-    location: "Nigeria"
-    followers: 33963
-    engagement: 488
-    commentsToLikes: 0.062567
-    id: ck5chi9apqu050i11ajwebpkj
-    verified: false
-    hashtags: "#bestthingontv, #africamagic, #io4ever20, #yawnaijatv"
+    hashtags: "#ramadankareem, #stayhome, #staysafe, #happymothersday"
   - username: "ifbnw"
     fullname: >-
       Ifeoma B. Nwobu
     location: "Nigeria"
-    followers: 5868
-    engagement: 1586
-    commentsToLikes: 0.046806
+    followers: 5991
+    engagement: 1659
+    commentsToLikes: 0.048616
     id: ck55ki3tezcqe0i11nr2azqh9
     verified: false
-    hashtags: "#bloodofjesussetmefree, #streetstyle, #yellowoflagos, #nigeria"
+    hashtags: "#occupylagos, #portrait, #march, #foundation"
+  - username: "rekiyayusuf"
+    fullname: >-
+      REKIYA/ MIMI/ FLATMATES
+    location: "Nigeria"
+    followers: 35752
+    engagement: 436
+    commentsToLikes: 0.057325
+    id: ck5chi9apqu050i11ajwebpkj
+    verified: false
+    hashtags: "#instaquiz, #instalive, #characterbiblestudy, #premiumhumour"
+  - username: "diimejii"
+    fullname: >-
+      Oladimeji Ajegbile
+    location: "Nigeria"
+    followers: 6822
+    engagement: 805
+    commentsToLikes: 0.299045
+    id: ckap9cl9xs3y50i78fmsqmvs9
+    verified: false
+    hashtags: "#pricing, #designyourworkspace, #uidesign, #designthink"
   - username: "oliveemodi"
     fullname: >-
       Olive Emodi
     location: "Nigeria"
-    followers: 59985
-    engagement: 84
-    commentsToLikes: 0.123911
+    followers: 62862
+    engagement: 95
+    commentsToLikes: 0.131659
     id: ck5bv7cygj48n0i11awagfpxh
     verified: true
-    hashtags: "#workout, #endsingleuseplasticnow, #love, #cutevideo"
-  - username: "thedarkamberryy"
+    hashtags: "#comedy, #ootd, #fashion, #inspirational"
+  - username: "cassiedaves"
     fullname: >-
-      SHARON||Beauty$ChristianLiving
+      Cassandra Ikegbune
     location: "Nigeria"
-    followers: 17902
-    engagement: 421
-    commentsToLikes: 0.047549
-    id: ck15s85d4bpp10i19hj6krt18
+    followers: 49075
+    engagement: 141
+    commentsToLikes: 0.066818
+    id: ck5qb8mp1kd5h0i11ll7x2onk
     verified: false
-    hashtags: "#blackhairdontcare, #naijafoodie, #tiktokvideos, #love"
-  - username: "ogbogu_dan"
+    hashtags: "#thelittlejoys, #corporatelife, #tattoolife, #kachieloka"
+  - username: "plato_15"
     fullname: >-
-      Daniel Ogbogu 🐉
+      Plato Gabriel
     location: "Nigeria"
-    followers: 2785
-    engagement: 994
-    commentsToLikes: 0.087188
-    id: ck5zkdlm3jaam0i147fvzb4rl
+    followers: 58885
+    engagement: 142
+    commentsToLikes: 0.105760
+    id: ck6u3sxrlzp620j71m2f7ahlb
     verified: false
-    hashtags: "#fitness, #patinastreet, #poetry, #knowledge"
-  - username: "deleomowoli_mideoladimeji"
-    fullname: >-
-      Mide Oladimeji
-    location: "Nigeria"
-    followers: 372231
-    engagement: 54
-    commentsToLikes: 0.095297
-    id: ck5c9qzavby5w0i11ix4zzic3
-    verified: false
-    hashtags: "#donmoen, #gospel, #worshipmusic, #covid19"
+    hashtags: "#fun, #food, #churchoflaugh, #challenge"
   - username: "cheeamaka_xx"
     fullname: >-
       🦄Chinedu Chiamaka🦄
     location: "Nigeria"
-    followers: 53548
-    engagement: 466
-    commentsToLikes: 0.021078
+    followers: 58046
+    engagement: 488
+    commentsToLikes: 0.031199
     id: ck5bxesc6nl3n0i11dwidntqr
     verified: false
-    hashtags: "#staysafe, #sanitize"
-  - username: "kemi_ii"
+    hashtags: "#siblings, #flashbackfriday"
+  - username: "mz_kupsy"
     fullname: >-
-      Kemi
+      Oluwaseunfunmi Oyebanjo
     location: "Nigeria"
-    followers: 4425
-    engagement: 1007
-    commentsToLikes: 0.103728
-    id: ck13a8ubxp72p0i19aoac7my0
+    followers: 3359
+    engagement: 788
+    commentsToLikes: 0.074965
+    id: ck0w4324fwk710i198f4p3atf
     verified: false
-    hashtags: "#xceptionaledits, #creartmood, #psduniverse, #edit"
-  - username: "sylvestermadu"
-    fullname: >-
-      sylvestermadu
-    location: "Nigeria"
-    followers: 171948
-    engagement: 91
-    commentsToLikes: 0.040800
-    id: ck5hotwlyq8170i11yet18hxd
-    verified: false
-    hashtags: "#saynotoantichristspirit, #truthmustbetold, #lmam, #laughalways"
+    hashtags: "#quarantinelife, #gtfashionweekend, #bestmonth, #monthoflove"
 ---

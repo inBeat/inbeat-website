@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Chicago In 2020
 description: >-
-  Find top makeup Instagram influencers in Chicago in 2020. Most popular hashtags: #makeup #chicagomua #chicago #makeupartist.
+  Find top makeup Instagram influencers in Chicago in 2020. Most popular hashtags: #makeup #superbowl #makeuptutorial #coronavirus.
 platform: Instagram
 profiles:
-  - username: "itsdeon"
+  - username: "hairbybano"
     fullname: >-
-      Deon 𝒯𝐻𝐸 𝓓𝑜𝓁𝓁
+      Ayesha Bano
     location: "United States"
-    followers: 11380
-    engagement: 674
-    commentsToLikes: 0.094728
-    id: ck0vv83f3nyn90i19fk7d73jl
+    followers: 6832
+    engagement: 437
+    commentsToLikes: 0.054354
+    id: ck6ub90w286vr0j71kf1ejmam
     verified: false
-    hashtags: "#chicagoblogger, #chicagogrammers, #neutrogenapartner, #dontrushchallenge"
-  - username: "chanelle_tru"
-    fullname: >-
-      Chanelle Truvillion
-    location: "United States"
-    followers: 23017
-    engagement: 219
-    commentsToLikes: 0.096985
-    id: ck1345c79us5m0i196edbeam7
-    verified: false
-    hashtags: "#chicagomua, #faceitchallenge, #explore, #shaderoom"
-  - username: "_nailfanatic"
-    fullname: >-
-      I DO NAILS 💅🏽 20yo
-    location: "United States"
-    followers: 66977
-    engagement: 214
-    commentsToLikes: 0.011253
-    id: ck6u5afs88hor0j7154f175qo
-    verified: false
-    hashtags: "#chicagonails, #coffinnails, #youtubenails, #swarovski"
-  - username: "hairbylilliandion"
-    fullname: >-
-      Lillian Dion
-    location: "United States"
-    followers: 2228
-    engagement: 611
-    commentsToLikes: 0.198520
-    id: ck15q054x0hi00i19g97seuff
-    verified: false
-    hashtags: "#nashvilleopera, #lizziemcguire, #hotonbeauty, #lacewigs"
+    hashtags: "#ramadan, #eid, #beauty, #makeup"
   - username: "iomakeupofficial"
     fullname: >-
       Irina Odobescu💄
     location: "United States"
-    followers: 28632
-    engagement: 776
-    commentsToLikes: 0.025563
+    followers: 37376
+    engagement: 922
+    commentsToLikes: 0.026235
     id: ck8svs0suchen0j78n6dv7mbr
     verified: false
-    hashtags: "#morphebrushes, #makeuplooks, #flawlessskin, #firstaidbeauty"
-  - username: "makeupbyjerlicia"
-    fullname: >-
-      
-    location: "United States"
-    followers: 3860
-    engagement: 405
-    commentsToLikes: 0.043063
-    id: ck8sxibvghi4u0j786ty61s7w
-    verified: false
-    hashtags: "#hesincontrol, #chicagomua, #engagement, #makeupforblackwomen"
+    hashtags: "#instapic, #instagram, #skincarejunkie, #makeupjunkie"
   - username: "sdkmakeup"
     fullname: >-
       Sameen Khan
     location: "United States"
-    followers: 21550
-    engagement: 231
-    commentsToLikes: 0.078917
+    followers: 21654
+    engagement: 240
+    commentsToLikes: 0.095003
     id: ck0w21pt7m7lc0i19vtc838af
     verified: false
-    hashtags: "#pakistan, #receptiondress, #hijabfashion, #lillyghalichi"
+    hashtags: "#wingliner, #glosslid, #eidmakeup, #glossylids"
+  - username: "laur_elyse"
+    fullname: >-
+      Lauren Elyse
+    location: "United States"
+    followers: 274249
+    engagement: 226
+    commentsToLikes: 0.010125
+    id: ck5cbvecog8go0i11d8ps87mj
+    verified: false
+    hashtags: "#pmglablove, #creativemakeup, #abh, #thathighlighttho"
   - username: "ionathemua"
     fullname: >-
       Iona Dee
     location: "United States"
-    followers: 58281
-    engagement: 147
-    commentsToLikes: 0.035310
+    followers: 59145
+    engagement: 207
+    commentsToLikes: 0.041618
     id: ck15uxvnlp0on0i19kdt3fu04
     verified: false
-    hashtags: ""
-  - username: "emilygualdoniphoto"
+    hashtags: "#carelessblendmore"
+  - username: "kbadowski"
     fullname: >-
-      Chicago Fashion Photographer
+      Katrina Badowski
     location: "United States"
-    followers: 17770
-    engagement: 1320
-    commentsToLikes: 0.046528
-    id: ck5c1cu8kux0g0i11643v1o34
+    followers: 10999
+    engagement: 1347
+    commentsToLikes: 0.078441
+    id: ck6tq2938p0150j71w96vnzml
     verified: false
-    hashtags: "#makeportraits, #portraitisreligion, #fashionstyle, #chicagomodels"
-  - username: "elise_spicer"
+    hashtags: "#bookstagram, #nola, #chicagoluvabulls, #growth"
+  - username: "glammedbydena"
     fullname: >-
-      E L I S E    S P I C E R
+      Dena Elmasry
     location: "United States"
-    followers: 3839
-    engagement: 1234
-    commentsToLikes: 0.075499
-    id: ck6trp1ry097k0j71w2cy01k6
+    followers: 64658
+    engagement: 177
+    commentsToLikes: 0.068019
+    id: ck0u0vk6nuyfn0i192wosw1iq
     verified: false
-    hashtags: "#hair, #nars, #letthelightin, #french"
+    hashtags: "#ammanstylez, #makeuptutorial, #naturalskincare, #dubai"
+  - username: "everythingjennytaylor"
+    fullname: >-
+      Jenny Taylor💕SparkleSprinkler✨
+    location: "United States"
+    followers: 96070
+    engagement: 63
+    commentsToLikes: 0.091479
+    id: ck6uhg2oc8x3u0j71zjo9kaaw
+    verified: false
+    hashtags: "#dollypartonchallenge, #newbook, #endofdecade, #selflove"
+  - username: "beautybymclau"
+    fullname: >-
+      Makeup Artist Chicago
+    location: "United States"
+    followers: 5967
+    engagement: 647
+    commentsToLikes: 0.171913
+    id: ck9wd5zgce7l80j78n1stif9c
+    verified: false
+    hashtags: "#limonademakeup, #muasupport, #makeuptip, #familytime"
+  - username: "natashaziaxo"
+    fullname: >-
+      Natasha Zia 👼♥️
+    location: "United States"
+    followers: 9574
+    engagement: 812
+    commentsToLikes: 0.268701
+    id: ck5hrwyn1vmdg0i117e3cralm
+    verified: false
+    hashtags: "#grain, #skinwinbynk, #pullandbear, #hoodie"
 ---

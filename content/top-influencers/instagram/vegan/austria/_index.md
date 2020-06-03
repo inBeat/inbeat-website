@@ -1,49 +1,69 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Austria In 2020
 description: >-
-  Find top vegan Instagram influencers in Austria in 2020. Most popular hashtags: #vegan #plantbased #fr #veganrecipes.
+  Find top vegan Instagram influencers in Austria in 2020. Most popular hashtags: #nature #veganathlete #figureathlete #competitiondiet.
 platform: Instagram
 profiles:
-  - username: "rebeccachelbea"
+  - username: "corinna.schober"
     fullname: >-
-      ⋒ Conscious Content Creator ⋒
+      TRAVEL | LIFESTYLE | VEGAN
     location: "Austria"
-    followers: 25972
-    engagement: 1077
-    commentsToLikes: 0.037364
-    id: ck6tu7briepxl0j719z690fyo
+    followers: 6855
+    engagement: 695
+    commentsToLikes: 0.098630
+    id: ck6txyj710lcq0j716ap5m5s5
     verified: false
-    hashtags: "#balidaily, #coronavirus, #nachhaltigleben, #vanlifers"
+    hashtags: "#selflove, #blueeyes, #mondays, #travelling"
+  - username: "chrissi_greeen"
+    fullname: >-
+      C H R I S S I  ॐ
+    location: "Austria"
+    followers: 2271
+    engagement: 3821
+    commentsToLikes: 0.217043
+    id: ckaox98k3cc7m0i78t94lil7s
+    verified: false
+    hashtags: "#colorcrush, #ootd, #smileeveryday, #namastayathome"
   - username: "frankly.alina"
     fullname: >-
       » Alina | VEGAN & LIFESTYLE«
     location: "Austria"
-    followers: 41819
-    engagement: 813
-    commentsToLikes: 0.013369
+    followers: 49373
+    engagement: 740
+    commentsToLikes: 0.011574
     id: ck5q2j33rg9ok0i11diwm1bmv
     verified: false
-    hashtags: "#saturdaze, #hoferat, #summermood, #veganesnacks"
-  - username: "julesvogel"
+    hashtags: "#coffeetime, #inbloom, #pandorabracelet, #veganista"
+  - username: "lisakuschka"
     fullname: >-
-      Julia Vogel
+      LISA 👩‍🦳🌸
     location: "Austria"
-    followers: 78228
-    engagement: 291
-    commentsToLikes: 0.016955
-    id: ck5q2w4a9i2rq0i11fhcxojfu
+    followers: 153599
+    engagement: 606
+    commentsToLikes: 0.034089
+    id: ck5zri0cywm830i14bg1tdqrw
     verified: false
-    hashtags: "#capetownbeach, #armbalances, #upperbodyworkout, #glutenfrei"
+    hashtags: "#hotpants, #citywalk, #fashionlover, #happyday"
+  - username: "patrick_mayrhofer_"
+    fullname: >-
+      ♦️Patrick Mayrhofer♦️
+    location: "Austria"
+    followers: 80895
+    engagement: 332
+    commentsToLikes: 0.035208
+    id: ck5cl16s3y1hq0i1130hnn270
+    verified: false
+    hashtags: "#stayfit, #racing, #carlover, #veganfood"
   - username: "alina_lami"
     fullname: >-
       Alina L
     location: "Austria"
-    followers: 25564
-    engagement: 159
-    commentsToLikes: 0.031004
+    followers: 25480
+    engagement: 180
+    commentsToLikes: 0.036419
     id: ck5q8ed5f5r7e0i119v9vrfif
     verified: false
-    hashtags: "#camelphat, #goodlife, #atombodyhomeworkout, #passthesoap"
+    hashtags: "#sunday, #atombody, #goodvibes, #homeworkout"
   - username: "katharina_fitglam"
     fullname: >-
       Katharina Stütz
@@ -56,52 +76,32 @@ profiles:
     hashtags: "#thegrindneverstops, #progresspics, #summerbodyinprogress, #summerbody"
   - username: "vanillaholica"
     fullname: >-
-      WIEN | VEGAN | NACHHALTIG
+      Vivien Belschner - VEGAN WIEN
     location: "Austria"
-    followers: 23149
-    engagement: 444
-    commentsToLikes: 0.059665
+    followers: 25400
+    engagement: 559
+    commentsToLikes: 0.070916
     id: ck5ckt0pdxk090i11c2tkgp6i
     verified: false
-    hashtags: "#vanillaholicasrezepte, #spr, #dankbarf, #stayandplay"
-  - username: "martinsmahel"
+    hashtags: "#befristetbewo, #ma, #netzstreikf, #fighteverycrisis"
+  - username: "jessy_ciia"
     fullname: >-
-      Martin Šmahel
+      JessicaSchaffler
     location: "Austria"
-    followers: 37591
-    engagement: 189
-    commentsToLikes: 0.036747
-    id: ck0w5kf9l42u10i19ht8nudf4
+    followers: 8873
+    engagement: 596
+    commentsToLikes: 0.012899
+    id: ck5bxon2ro46h0i11lyt0gde0
     verified: false
-    hashtags: "#endlessslove, #nutritious, #safety, #nofilter"
-  - username: "beets.and.treats"
+    hashtags: "#smile, #prinz, #natural, #dankbar"
+  - username: "rebeccachelbea"
     fullname: >-
-      Julia | Gesunde Rezepte
+      ⋒ Conscious Content Creator ⋒
     location: "Austria"
-    followers: 3481
-    engagement: 1440
-    commentsToLikes: 0.341829
-    id: ck13b3uhqtjd70i19mjq4hi59
+    followers: 36794
+    engagement: 986
+    commentsToLikes: 0.031529
+    id: ck6tu7briepxl0j719z690fyo
     verified: false
-    hashtags: "#fitnessessen, #itsfridayyyay, #kalorienarmerezepte, #fitfamdeutschland"
-  - username: "cutecumber.isi"
-    fullname: >-
-      Isabella Kiss | Cutecumber
-    location: "Austria"
-    followers: 22675
-    engagement: 532
-    commentsToLikes: 0.014407
-    id: ck15q7r2m1ht80i19pw8un607
-    verified: false
-    hashtags: "#veganlifestyle, #cutecumber, #bestofvegan, #veganliving"
-  - username: "mat_____k"
-    fullname: >-
-      mät
-    location: "Austria"
-    followers: 5576
-    engagement: 450
-    commentsToLikes: 0.021609
-    id: ck5hk2ib5hoa80i11jb4r8mzd
-    verified: false
-    hashtags: ""
+    hashtags: "#yogawear, #oceanfriendly, #wienliebe, #cbdgermany"
 ---

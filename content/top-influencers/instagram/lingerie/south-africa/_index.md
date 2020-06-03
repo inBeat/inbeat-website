@@ -1,87 +1,97 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In South Africa In 2020
 description: >-
-  Find top lingerie Instagram influencers in South Africa in 2020. Most popular hashtags: #model #photography #lingerie #beauty.
+  Find top lingerie Instagram influencers in South Africa in 2020. Most popular hashtags: #lingerie #makeup #love #lockdown.
 platform: Instagram
 profiles:
   - username: "loopphoto"
     fullname: >-
       Preyen Moodley
     location: "South Africa"
-    followers: 198187
-    engagement: 114
-    commentsToLikes: 0.010448
+    followers: 196990
+    engagement: 93
+    commentsToLikes: 0.008003
     id: ck55p9beja3790i11wshmcmug
     verified: false
-    hashtags: "#bts, #nophotoshop"
-  - username: "amber_brits"
+    hashtags: "#nophotoshop, #fridgelove, #lockdown"
+  - username: "michelle.b.sampaio"
     fullname: >-
-      A M B E R. BRITS.
+      Michelle Sampaio
     location: "South Africa"
-    followers: 16120
-    engagement: 449
-    commentsToLikes: 0.087213
-    id: ck5c26a7twmdj0i11124h90ib
+    followers: 10237
+    engagement: 796
+    commentsToLikes: 0.043892
+    id: ck5hnxbgfojxa0i11spbww8lm
     verified: false
-    hashtags: "#model, #chillin, #epixshoots, #allbodiesaregoodbodies"
-  - username: "garrethbarclayphoto"
+    hashtags: "#jewelry, #andratuttobene, #nomundo, #awakening"
+  - username: "phumzatiya"
     fullname: >-
-      GARRETH BARCLAY | PHOTOGRAPHER
+      𝕄𝕖𝕝𝕒𝕟𝕚𝕟 𝕄𝕦𝕤𝕖
     location: "South Africa"
-    followers: 55675
-    engagement: 146
-    commentsToLikes: 0.037010
-    id: ck0vvz6s4rfa20i193tcpbiln
+    followers: 9240
+    engagement: 564
+    commentsToLikes: 0.045345
+    id: ck6ui15ikcfwc0j71un83kw3w
     verified: false
-    hashtags: "#ocean, #tamarafrancesconi, #betabeach, #dress"
+    hashtags: "#melaninpopping, #hairindustry, #unit, #cubandoctors"
   - username: "sean.levitt.photographer"
     fullname: >-
       SL Fitness Photographer
     location: "South Africa"
-    followers: 16670
-    engagement: 249
-    commentsToLikes: 0.030821
+    followers: 16649
+    engagement: 278
+    commentsToLikes: 0.035050
     id: ck134xb7bynaw0i19ci7fd7rc
     verified: false
-    hashtags: "#shootingintherain, #fitness, #retocuhing, #lightleak"
+    hashtags: "#curlyhair, #lightleak, #goals, #ginger"
+  - username: "_nicolecapper"
+    fullname: >-
+      NICOLE CAPPER
+    location: "South Africa"
+    followers: 45841
+    engagement: 177
+    commentsToLikes: 0.044909
+    id: ck14ivoanhd8m0i19ft6ld7m8
+    verified: false
+    hashtags: "#ootd, #happyplace, #mothersday, #winning"
   - username: "miss_nikkiduplessis"
     fullname: >-
       Nikki du Plessis
     location: "South Africa"
-    followers: 62132
-    engagement: 149
-    commentsToLikes: 0.028139
+    followers: 61910
+    engagement: 155
+    commentsToLikes: 0.026395
     id: ck15pebdjxgob0i190hdw0c6q
     verified: false
-    hashtags: "#sexy, #lingerie, #valentinesshoot, #stayhome"
-  - username: "portalcpt"
+    hashtags: "#naughties, #cowgirl, #chill, #weekend"
+  - username: "melissa_willis_"
     fullname: >-
-      Portal cpt
+      Fashion | Fitness | Beauty
     location: "South Africa"
-    followers: 4541
-    engagement: 475
-    commentsToLikes: 0.019634
-    id: ck8szysm7q8n80j786j0hwg5l
+    followers: 16745
+    engagement: 1297
+    commentsToLikes: 0.030098
+    id: ck14jtwdxm5ww0i19qmu6hgvk
     verified: false
-    hashtags: "#hair, #abs, #underwear, #sun"
-  - username: "phumzatiya"
+    hashtags: "#jewelry, #picture, #smile, #cosmopolitan"
+  - username: "eviannewiegersphotography"
     fullname: >-
-      ᑭᕼᑌᗰᘔᗩ TIYᗩ
+      Evianne Wiegers Photography
     location: "South Africa"
-    followers: 5892
-    engagement: 539
-    commentsToLikes: 0.048803
-    id: ck6ui15ikcfwc0j71un83kw3w
+    followers: 9226
+    engagement: 414
+    commentsToLikes: 0.016508
+    id: ck5cd1va6ie4f0i113s68dg7g
     verified: false
-    hashtags: "#styling, #zara, #lingerie, #creativephotography"
-  - username: "brookellb"
+    hashtags: "#blauw, #pants, #women, #sunglasses"
+  - username: "amber_brits"
     fullname: >-
-      Brookell
+      A M B E R. BRITS.
     location: "South Africa"
-    followers: 25408
-    engagement: 343
-    commentsToLikes: 0.031267
-    id: ck5cihvkaso660i11bvgcc0f2
+    followers: 16410
+    engagement: 324
+    commentsToLikes: 0.075938
+    id: ck5c26a7twmdj0i11124h90ib
     verified: false
-    hashtags: "#models, #photography, #voguemagazine, #beauty"
+    hashtags: "#sexy, #retro, #supportlocal, #vogue"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Peru In 2020
 description: >-
-  Find top chefs Instagram influencers in Peru in 2020. Most popular hashtags: #yomequedoencasa #peru #quedateencasa #cuarentena.
+  Find top chefs Instagram influencers in Peru in 2020. Most popular hashtags: #peru #chef #chicken #cooking.
 platform: Instagram
 profiles:
   - username: "thedaarick28"
     fullname: >-
       Daarick💢
     location: "Peru"
-    followers: 81492
-    engagement: 2020
-    commentsToLikes: 0.027748
+    followers: 82767
+    engagement: 2025
+    commentsToLikes: 0.027482
     id: ck5zpxsr0tk1p0i14vfge9e7r
     verified: false
     hashtags: "#sinfiltros, #cholasabstenerse"
+  - username: "ceciliatupac"
+    fullname: >-
+      Cecilia Tupac
+    location: "Peru"
+    followers: 11165
+    engagement: 707
+    commentsToLikes: 0.076536
+    id: ck8tdfg6635o30j78u9o0b5lc
+    verified: false
+    hashtags: "#cursoonline, #foodporn, #chefperuano, #ganache"
+  - username: "christianbravooficial"
+    fullname: >-
+      Christian Bravo
+    location: "Peru"
+    followers: 68808
+    engagement: 176
+    commentsToLikes: 0.082179
+    id: ckap9t5ratk0p0i78cjbnzdlt
+    verified: true
+    hashtags: "#nutella, #castironcooking, #bechamelsauce, #peru"
   - username: "diegomunozchef"
     fullname: >-
       Diego Munoz
     location: "Peru"
-    followers: 29443
-    engagement: 163
-    commentsToLikes: 0.030659
+    followers: 29426
+    engagement: 176
+    commentsToLikes: 0.031029
     id: ck0udwdf5k1050i193xrt2z71
     verified: false
-    hashtags: "#somoshistorias, #volverproject, #volverencuarentena, #cuarentena"
+    hashtags: "#yalikavak, #yt, #somoshistorias, #volverproject"
   - username: "endlesscurl_"
     fullname: >-
       Chime 🥑
     location: "Peru"
-    followers: 17981
-    engagement: 776
-    commentsToLikes: 0.019516
+    followers: 18273
+    engagement: 705
+    commentsToLikes: 0.020400
     id: ck0w4233qwf6r0i194ttr1luq
     verified: false
-    hashtags: "#novacasaeditorial, #countervillebooks, #novacasaeditorial, #leyendoanova"
+    hashtags: "#novacasaeditorial, #leyendoanova, #proyectolma, #vierneslma"
   - username: "healthy_pleasure"
     fullname: >-
       𝗦𝘆𝗹𝘃𝗶𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 𝗩𝗲𝗹𝗲𝘇
     location: "Peru"
-    followers: 44969
-    engagement: 202
-    commentsToLikes: 0.029373
+    followers: 48424
+    engagement: 169
+    commentsToLikes: 0.041205
     id: ck5zlrnnbl9gc0i14k1khb4zx
     verified: true
-    hashtags: "#hotelroyalhoian, #vietnam, #seamossolidarios, #chinesenewyear2020"
+    hashtags: "#lasagna, #avena, #gingerbeer, #plantprotein"
+  - username: "raes_official"
+    fullname: >-
+      Raes
+    location: "Peru"
+    followers: 40360
+    engagement: 210
+    commentsToLikes: 0.055717
+    id: ck1386rileraf0i19qa2k48xn
+    verified: false
+    hashtags: "#yatusabes, #starwars, #cumplea, #contigosiempre"
+  - username: "laespatulaverde"
+    fullname: >-
+      Karen Lema | La Espátula Verde
+    location: "Peru"
+    followers: 88658
+    engagement: 167
+    commentsToLikes: 0.074536
+    id: ck13cqhvt1o2l0i19xu2swugr
+    verified: false
+    hashtags: "#cremadezapallo, #brunch, #quedateencasa, #atun"
   - username: "jamesberckemeyer"
     fullname: >-
       James Berckemeyer A
     location: "Peru"
-    followers: 27209
-    engagement: 215
-    commentsToLikes: 0.058001
+    followers: 33498
+    engagement: 179
+    commentsToLikes: 0.061727
     id: ck0vwlmixuemm0i19q4pyf21k
     verified: false
-    hashtags: "#latinamerica, #cooking, #lechedetigre, #equipoalado"
-  - username: "peruvianknife"
+    hashtags: "#asianfood, #yummy, #marchablanca, #worldcruise"
+  - username: "copenhagen_foodie"
     fullname: >-
-      Guillermo Velásquez
+      Peter Atzen
     location: "Peru"
-    followers: 25189
-    engagement: 208
-    commentsToLikes: 0.075708
-    id: ck6u1dtj2l53v0j71xjqfg5hc
+    followers: 45442
+    engagement: 211
+    commentsToLikes: 0.021084
+    id: ck15sv0ezextg0i19rqo0144a
     verified: false
-    hashtags: "#portrait, #frenchtoast, #peru, #comidaperuana"
-  - username: "germanrozz"
-    fullname: >-
-      GERMAN ROZ (Thenutrichef)
-    location: "Peru"
-    followers: 36682
-    engagement: 231
-    commentsToLikes: 0.046417
-    id: ck5hp9uwcqzwv0i11jlp6xy4w
-    verified: false
-    hashtags: "#quarentinecooking, #vegan, #govegan, #chickpeas"
-  - username: "miamont"
-    fullname: >-
-      Mia Mont
-    location: "Peru"
-    followers: 80756
-    engagement: 191
-    commentsToLikes: 0.026933
-    id: ck55kohvuzrj70i111qcaqxg0
-    verified: true
-    hashtags: "#cover, #cuarentena, #dia2, #follow"
-  - username: "chef.timour"
-    fullname: >-
-      Timour Ghoneim
-    location: "Peru"
-    followers: 41657
-    engagement: 613
-    commentsToLikes: 0.034026
-    id: ck5hrn34lv57h0i113nxlkzp5
-    verified: false
-    hashtags: "#comidaperuana, #helado, #noamoalperusoloporteneratencion, #amorverdaderoporelperu"
-  - username: "wariqueando"
-    fullname: >-
-      Wariqueando
-    location: "Peru"
-    followers: 73425
-    engagement: 259
-    commentsToLikes: 0.159120
-    id: ck0ucpcithfzy0i194pvw4fpu
-    verified: false
-    hashtags: "#yomequeencasa, #fuerzaper, #qu, #ricopecausa"
+    hashtags: "#gastronomy, #gourmetparadise, #chefselection, #chefwork"
 ---

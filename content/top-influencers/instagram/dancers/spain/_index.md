@@ -1,16 +1,36 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Spain In 2020
 description: >-
-  Find top dancers Instagram influencers in Spain in 2020. Most popular hashtags: #dance #heels #barcelona #sexy.
+  Find top dancers Instagram influencers in Spain in 2020. Most popular hashtags: #barcelona #dancer #freestyle #dancelife.
 platform: Instagram
 profiles:
+  - username: "brjpalacios"
+    fullname: >-
+      BORJA PALACIOS
+    location: "Spain"
+    followers: 4898
+    engagement: 1087
+    commentsToLikes: 0.057718
+    id: ckap015sxo97r0i78r1q16suf
+    verified: false
+    hashtags: "#physical, #operaciontriunfo2020, #ot, #drinksmokedancevibealittlebit"
+  - username: "mariacocol"
+    fullname: >-
+      𝗠 𝗔 𝗥 𝗜 𝗔 🌸 𝗖 𝗢 𝗖 𝗢 𝗟
+    location: "Spain"
+    followers: 46875
+    engagement: 1108
+    commentsToLikes: 0.079611
+    id: ck6u99t96watx0j71ihpsfjub
+    verified: false
+    hashtags: "#onevibechallenge, #comearoundmechallenge, #unrinconmaravilloso, #bestmumever"
   - username: "quiqueegonzalez"
     fullname: >-
       •Quique González•
     location: "Spain"
-    followers: 2168
-    engagement: 2433
-    commentsToLikes: 0.130975
+    followers: 2237
+    engagement: 2401
+    commentsToLikes: 0.129155
     id: ck6udnmvym4qs0j71qg03adil
     verified: false
     hashtags: ""
@@ -18,90 +38,70 @@ profiles:
     fullname: >-
       SIFER
     location: "Spain"
-    followers: 2765
-    engagement: 2037
-    commentsToLikes: 0.138580
+    followers: 2997
+    engagement: 2044
+    commentsToLikes: 0.138774
     id: ck55l71fk0wq70i11s77bh8cx
     verified: false
-    hashtags: "#canaryisland, #battle, #funk, #expottato"
-  - username: "itslaiafidalgo"
+    hashtags: "#france, #huelva, #coronavirus, #life"
+  - username: "crisllusa"
     fullname: >-
-      L A I A   F I D A L G O
+      Cristina Gómez Llusá
     location: "Spain"
-    followers: 27811
-    engagement: 1399
-    commentsToLikes: 0.032357
-    id: ck5cdgjzrj56o0i118eon8b58
+    followers: 5337
+    engagement: 1964
+    commentsToLikes: 0.140950
+    id: ck15qtyib4mpd0i19vlajd9ht
     verified: false
-    hashtags: "#moradochallenge, #reggaeton, #badbunny, #bailoencasa"
-  - username: "angel__lara"
+    hashtags: "#egbtributo"
+  - username: "joseramvar_"
     fullname: >-
-      Angel Lara
+      Jose Ramirez 💎
     location: "Spain"
-    followers: 7236
-    engagement: 1747
-    commentsToLikes: 0.025242
-    id: ck5zkjfzpjl8i0i14vk86uxdt
+    followers: 286673
+    engagement: 402
+    commentsToLikes: 0.029206
+    id: ck8t74qpgfn4a0j78kin2wmr3
     verified: false
-    hashtags: "#tbt"
+    hashtags: "#amarillo, #julietasenger, #joseramires, #dato"
   - username: "gonzalo_alnso"
     fullname: >-
       Gonzalo Alonso
     location: "Spain"
-    followers: 5257
-    engagement: 1579
-    commentsToLikes: 0.032334
+    followers: 5282
+    engagement: 1700
+    commentsToLikes: 0.034940
     id: ck6tntjv0ajli0j71dg5cjeip
     verified: false
     hashtags: "#absolutmanifesto20"
-  - username: "maribel_del_pino"
+  - username: "antonibachatasalsa"
     fullname: >-
-      Maribel Del Pino Perez
+      Antoni6
     location: "Spain"
-    followers: 30609
-    engagement: 708
-    commentsToLikes: 0.016982
-    id: ck5hoqzjkq2f30i11tid8sgx2
+    followers: 13982
+    engagement: 677
+    commentsToLikes: 0.071946
+    id: ck6ubmu9caia50j719qdxg395
     verified: false
-    hashtags: "#studio, #arte, #unpocodepostu, #party"
-  - username: "benjipoirier"
+    hashtags: "#bachatasalsaworld, #nicephotography, #bachateao, #bachatapasion"
+  - username: "angel__lara"
     fullname: >-
-      Benji Poirier
+      Angel Lara
     location: "Spain"
-    followers: 51154
-    engagement: 594
-    commentsToLikes: 0.024138
-    id: ck139lp23lxvu0i19rzzaufqo
+    followers: 7699
+    engagement: 1706
+    commentsToLikes: 0.025798
+    id: ck5zkjfzpjl8i0i14vk86uxdt
     verified: false
-    hashtags: "#instatravel, #cndontour, #gayabs, #gaykiss"
-  - username: "caroline_caroline_blg"
+    hashtags: "#tbt"
+  - username: "itslaiafidalgo"
     fullname: >-
-      C A R O L
+      LAIA FIDALGO
     location: "Spain"
-    followers: 41020
-    engagement: 178
-    commentsToLikes: 0.062527
-    id: ck5zywk34anmu0i14bwklxlxy
+    followers: 32218
+    engagement: 1171
+    commentsToLikes: 0.049104
+    id: ck5cdgjzrj56o0i118eon8b58
     verified: false
-    hashtags: "#perfilador, #bailes, #disfraz, #style"
-  - username: "jeisantana"
-    fullname: >-
-      • Jennifer Santana •
-    location: "Spain"
-    followers: 9507
-    engagement: 957
-    commentsToLikes: 0.037350
-    id: ck6u6hzoufpc30j71cewx0ro5
-    verified: false
-    hashtags: "#playtour, #stage, #captions, #happywomensday"
-  - username: "raymondnaval"
-    fullname: >-
-      Raymond Naval
-    location: "Spain"
-    followers: 37616
-    engagement: 817
-    commentsToLikes: 0.011768
-    id: ck55k5k6ryilj0i11e3t5kvaw
-    verified: true
-    hashtags: ""
+    hashtags: "#choreography, #yhlqmdlg, #acting, #freestyle"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Boston In 2020
 description: >-
-  Find top fashion Instagram influencers in Boston in 2020. Most popular hashtags: #boston #bostonblogger #liketkit #love.
+  Find top fashion Instagram influencers in Boston in 2020. Most popular hashtags: #fashion #ootd #happymothersday #casualstyle.
 platform: Instagram
 profiles:
-  - username: "lasantavega"
+  - username: "kadixhe"
     fullname: >-
-      Jessenia
+      Kadi
     location: "United States"
-    followers: 2334
-    engagement: 971
-    commentsToLikes: 0.100006
-    id: ck0w2ow32ph1e0i19c9f3l4ql
+    followers: 3371
+    engagement: 1604
+    commentsToLikes: 0.203089
+    id: ck9hcgto6lblk0j780y5lvc41
     verified: false
-    hashtags: "#nydesigner, #casting, #modelagency, #mua"
-  - username: "ashleykaylamakeup"
+    hashtags: "#moroccangirl, #runwaywalk, #bostonbloggers, #dopeports"
+  - username: "alainapinto"
     fullname: >-
-      Ashley
+      A L A I N A  P I N T O
     location: "United States"
-    followers: 844687
-    engagement: 316
-    commentsToLikes: 0.014845
-    id: ck5c4ghj11b1e0i11i31j553a
-    verified: false
-    hashtags: "#givenchybeauty, #streetstyledaily, #wingedliner, #smokeyliner"
-  - username: "sarahkbecker"
+    followers: 14145
+    engagement: 683
+    commentsToLikes: 0.122871
+    id: ck6ugzmgo649c0j713eu4xygu
+    verified: true
+    hashtags: "#curls, #ootd, #amnews, #woah"
+  - username: "cutest_animals10"
     fullname: >-
-      Sarah Kate | Boston Blogger
+      Cute Animals 🐼 Dogs 🐶 Cats 🐈
     location: "United States"
-    followers: 8881
-    engagement: 666
-    commentsToLikes: 0.152251
-    id: ck0w684rt7bqa0i19bu4455fc
+    followers: 43616
+    engagement: 223
+    commentsToLikes: 0.011107
+    id: ck0u2mq3c0dvb0i193fm8jwq7
     verified: false
-    hashtags: "#linkinbio, #fighttheburn, #becomingbross, #manimonday"
+    hashtags: "#huskypuppy, #cuteanimalsco, #lovemydog, #funnypictures"
   - username: "styledbyjeanne"
     fullname: >-
       Jeanne Curry Mooney
     location: "United States"
-    followers: 15767
-    engagement: 336
-    commentsToLikes: 0.370469
+    followers: 15784
+    engagement: 361
+    commentsToLikes: 0.405927
     id: ck5btac2iflxd0i11rfovlvjf
     verified: false
-    hashtags: "#yellow, #quarantinestyle, #florals, #beaded"
-  - username: "lisaalamode"
-    fullname: >-
-      Lisa Jean-Francois 🇭🇹
-    location: "United States"
-    followers: 37383
-    engagement: 262
-    commentsToLikes: 0.065513
-    id: ck0tuqtqm8b3b0i19soj22888
-    verified: false
-    hashtags: "#naturalhair, #naturalista, #blackboy, #pisces"
+    hashtags: "#orange, #springbreak, #20yroldribbon, #sweatshirt"
   - username: "alyssakstevens"
     fullname: >-
       Alyssa Stevens
     location: "United States"
-    followers: 6955
-    engagement: 553
-    commentsToLikes: 0.092185
+    followers: 7068
+    engagement: 730
+    commentsToLikes: 0.077137
     id: ck0vy42r3253f0i198ybfafo9
     verified: false
-    hashtags: "#longweekendvibes, #citystreets, #hermes, #floridasun"
-  - username: "ashley15c"
+    hashtags: "#skylineview, #covid, #urbangarden, #cocktail"
+  - username: "fleurbys.rose"
     fullname: >-
-      Ashley Cunningham
+      S. Rose
     location: "United States"
-    followers: 23406
-    engagement: 415
-    commentsToLikes: 0.033512
-    id: ck5zo02w4phkj0i14ngq5281w
+    followers: 167994
+    engagement: 238
+    commentsToLikes: 0.099813
+    id: ck15qq2t343mz0i19u3jxuh90
     verified: false
-    hashtags: "#bostonma, #instadaily, #confidentlybeautiful, #boston"
-  - username: "loannemenezes"
+    hashtags: "#cherryblossom, #throwback, #boston, #fashion"
+  - username: "justinehuxley"
     fullname: >-
-      LOANNE MENEZES
+      Justine Huxley
     location: "United States"
-    followers: 45980
-    engagement: 187
-    commentsToLikes: 0.106116
-    id: ck55jz3vty3va0i11wgy1kl6b
+    followers: 7606
+    engagement: 1664
+    commentsToLikes: 0.022917
+    id: ck9hbek88ghhw0j78s647kj52
     verified: false
-    hashtags: "#shoetrend, #capsuljewelry, #h2rosepartner, #pillowchallenge"
+    hashtags: "#aiannouncer, #masks, #voiceoverartist, #wattsonapexlegends"
   - username: "sarah_rose_stuart"
     fullname: >-
       SRS
     location: "United States"
-    followers: 18911
-    engagement: 262
-    commentsToLikes: 0.062524
+    followers: 19225
+    engagement: 287
+    commentsToLikes: 0.066335
     id: ck15tnipqiyq90i197oz8stj1
     verified: false
-    hashtags: "#dsgives, #smallbusiness, #averystuartstpaddys, #colormedudley"
+    hashtags: "#ltkkids, #ltkfamily, #kule, #averystuartbirthday"
   - username: "just.ador"
     fullname: >-
       Ador Hashani 🇽🇰🇺🇸
     location: "United States"
-    followers: 12469
-    engagement: 329
-    commentsToLikes: 0.081417
+    followers: 12515
+    engagement: 340
+    commentsToLikes: 0.079185
     id: ck15s1s0hasz30i19prbs2c4z
     verified: false
-    hashtags: "#bostonmodel, #feedthekids, #coronaviruslife, #trendsetter"
+    hashtags: "#contest, #inspiration, #style, #lifestyleblogger"
+  - username: "diamondsfordimes"
+    fullname: >-
+      Kelly Schneider
+    location: "United States"
+    followers: 40160
+    engagement: 164
+    commentsToLikes: 0.041862
+    id: ck0u8f8d6784x0i194j7fwiv4
+    verified: false
+    hashtags: "#drinkarcticsummer, #craftedwithpolar, #gucci, #mdw"
 ---

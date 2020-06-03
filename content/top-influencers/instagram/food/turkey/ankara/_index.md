@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Ankara In 2020
 description: >-
-  Find top food Instagram influencers in Ankara in 2020. Most popular hashtags: #ankara #istanbul #food #yemek.
+  Find top food Instagram influencers in Ankara in 2020. Most popular hashtags: #food #photooftheday #ankara #pasta.
 platform: Instagram
 profiles:
-  - username: "ozlemcemasal"
+  - username: "yolduslerim"
     fullname: >-
-      cekikgozunannnesii
+      AYKUT ÇOBAN
     location: "Turkey"
-    followers: 27098
-    engagement: 288
-    commentsToLikes: 0.069291
-    id: ck5cez8k6m0d70i11anunhev9
+    followers: 6814
+    engagement: 1090
+    commentsToLikes: 0.032044
+    id: ckaot6hkpulg10i78qcehseuc
     verified: false
-    hashtags: "#corona, #lezzet, #istanbul, #travel"
+    hashtags: "#asya, #shenzhen, #interrailturkiye, #instago"
+  - username: "lezzetitadinda"
+    fullname: >-
+      Gülşah'ın mutfağı
+    location: "Turkey"
+    followers: 19234
+    engagement: 444
+    commentsToLikes: 0.071260
+    id: ckap7r541l7630i78ig7do13w
+    verified: false
+    hashtags: "#cekilis, #foodie, #despacitopastas, #ucak29staryelda"
+  - username: "biranneblogu"
+    fullname: >-
+      gul
+    location: "Turkey"
+    followers: 30149
+    engagement: 391
+    commentsToLikes: 0.519177
+    id: ck15pvu08zvxt0i190bmy21nz
+    verified: false
+    hashtags: "#enlezzetlitarifler, #yemekrium, #alisveris, #sunumduragi"
+  - username: "gulsahsenalpsevinc"
+    fullname: >-
+      𝗚𝘂𝗹𝘀𝗮𝗵 𝗦𝗲𝗻𝗮𝗹𝗽 𝗦𝗲𝘃i𝗻𝗰
+    location: "Turkey"
+    followers: 15279
+    engagement: 652
+    commentsToLikes: 0.027868
+    id: ckaoyf7emh9pn0i78g75bpriq
+    verified: false
+    hashtags: "#safari, #evim, #avonbeauty, #avusturya"
+  - username: "evdengez"
+    fullname: >-
+      Keşfetmeyi Seven Adam
+    location: "Turkey"
+    followers: 15216
+    engagement: 635
+    commentsToLikes: 0.227203
+    id: ck14i448sdjpg0i193oxsnu3o
+    verified: false
+    hashtags: "#vlogger, #dogsofinstagram, #band, #yummy"
   - username: "ervaervaa_"
     fullname: >-
       Erva 🍭
     location: "Turkey"
-    followers: 16180
-    engagement: 542
-    commentsToLikes: 0.066537
+    followers: 15822
+    engagement: 629
+    commentsToLikes: 0.066966
     id: ck15rk21s8azl0i195rp257g2
     verified: false
-    hashtags: "#food, #beauty, #ankara, #islandlife"
-  - username: "sahanegurme"
-    fullname: >-
-      Şahane Gurme • Muhammed
-    location: "Turkey"
-    followers: 437330
-    engagement: 133
-    commentsToLikes: 0.010266
-    id: ck134i8xdwjz80i19d1m3kwg2
-    verified: false
-    hashtags: "#breakfasttime, #ni, #lezzetli, #seylantea"
-  - username: "burcusavasciofficial"
-    fullname: >-
-      Burcu Savaşçı
-    location: "Turkey"
-    followers: 55870
-    engagement: 119
-    commentsToLikes: 0.121615
-    id: ck5cezhcgm0xf0i11xysp3pw1
-    verified: false
-    hashtags: "#foodstyling, #mutluluk, #madparf, #foodphotography"
-  - username: "bloemen_catering"
-    fullname: >-
-      BLOEMEN_CATERING
-    location: "Turkey"
-    followers: 15755
-    engagement: 307
-    commentsToLikes: 0.159550
-    id: ck8t9f1ounumi0j78vcl7s2bk
-    verified: false
-    hashtags: "#sarma, #antepf, #turkishfood, #ankara"
-  - username: "gkcegokdemir"
-    fullname: >-
-      ꧁*•.¸❁ 𝓟𝓪𝓹𝓪𝓽𝔂𝓪  ❁¸.•*꧂
-    location: "Turkey"
-    followers: 95249
-    engagement: 166
-    commentsToLikes: 0.089591
-    id: ck15pspdtzgke0i1972l7w39v
-    verified: false
-    hashtags: "#kaptanpenguvearkada, #pratiktarifler, #tariflerim, #malatya"
-  - username: "biranneblogu"
-    fullname: >-
-      noname
-    location: "Turkey"
-    followers: 12163
-    engagement: 1076
-    commentsToLikes: 0.585289
-    id: ck15pvu08zvxt0i190bmy21nz
-    verified: false
-    hashtags: "#etyemekleri, #resimteknikleri, #sanat, #gulhanfemoji"
-  - username: "seyyarholding"
-    fullname: >-
-      SEYYAR HOLDİNG TAVUKLU PİLAV
-    location: "Turkey"
-    followers: 75888
-    engagement: 178
-    commentsToLikes: 0.011467
-    id: ck134i9alwk1q0i19sl62o7ji
-    verified: false
-    hashtags: "#idlib, #seyyarholding, #turkey, #millie"
-  - username: "oglakkiziofficial"
-    fullname: >-
-      Oğlak kızı
-    location: "Turkey"
-    followers: 27839
-    engagement: 446
-    commentsToLikes: 0.024808
-    id: ck8t9357amsqf0j781t2ajfbr
-    verified: false
-    hashtags: "#balay, #followback, #commentback, #commentbelow"
+    hashtags: "#baharaksmi, #inspiration, #dress, #carantinasday"
   - username: "ozgeeeunal"
     fullname: >-
-      Özge Ünal ♥
+      Özge Ünal ♥
     location: "Turkey"
-    followers: 9314
-    engagement: 1171
-    commentsToLikes: 0.009796
+    followers: 9014
+    engagement: 1301
+    commentsToLikes: 0.007923
     id: ck13a3ke0ogfy0i19fo5jidml
     verified: false
-    hashtags: "#tagsforhearts, #kbayessal, #instaturkiye, #turkishfollowers"
+    hashtags: "#kadrajas, #iphoneonly, #instago, #colorful"
+  - username: "meleginbalmutfagi"
+    fullname: >-
+      Melek BAL
+    location: "Turkey"
+    followers: 15179
+    engagement: 711
+    commentsToLikes: 0.123291
+    id: ckaoyg4cuhdqh0i789zrc4ht2
+    verified: false
+    hashtags: "#ezme, #mezetarifleri, #karn, #food"
+  - username: "ikizler_huseyin"
+    fullname: >-
+      Hüseyin Durmaz
+    location: "Turkey"
+    followers: 8700
+    engagement: 793
+    commentsToLikes: 0.005543
+    id: ck5zmd13ymck70i14bhbqc4p6
+    verified: false
+    hashtags: "#bosphorus, #ramazan, #eating, #foodpic"
+  - username: "kubragelinn"
+    fullname: >-
+      🏆FARMASİ ALTIN MÜDÜR🏆🇹🇷
+    location: "Turkey"
+    followers: 34709
+    engagement: 321
+    commentsToLikes: 0.173527
+    id: ck8t6l81qdzx00j78ootjs0h1
+    verified: false
+    hashtags: "#instagood, #ortasehpa, #coffetime, #photo"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Japan In 2020
 description: >-
-  Find top makeup Instagram influencers in Japan in 2020. Most popular hashtags: #makeup #cosplay #makeuptutorial #makeupartist.
+  Find top makeup Instagram influencers in Japan in 2020. Most popular hashtags: #sakura #makeuplover #cosmetics #toystory.
 platform: Instagram
 profiles:
   - username: "_saratrigo"
     fullname: >-
       SARA
     location: "Japan"
-    followers: 21098
-    engagement: 1131
-    commentsToLikes: 0.059349
+    followers: 22977
+    engagement: 1209
+    commentsToLikes: 0.047518
     id: ck5ci927fs81v0i11ylnj7ifp
     verified: false
-    hashtags: "#makeupscience, #mulan, #bravemakeup, #darkness"
+    hashtags: "#pokemon, #mulan, #disneymakeup, #james"
   - username: "makiiiy_makeup"
     fullname: >-
       maki
     location: "Japan"
-    followers: 28150
-    engagement: 1023
-    commentsToLikes: 0.007567
+    followers: 28509
+    engagement: 586
+    commentsToLikes: 0.030499
     id: ck5zsd62oya3h0i146jhd718z
     verified: false
-    hashtags: "#instabeauty, #makeuptutorial, #macgoodform, #sudiomoments"
+    hashtags: "#giveafig, #macpowderkiss, #missha, #mapleroad"
   - username: "aya__m02"
     fullname: >-
       福山絢水(あやみん)
     location: "Japan"
-    followers: 184939
-    engagement: 1329
-    commentsToLikes: 0.005950
+    followers: 189826
+    engagement: 1325
+    commentsToLikes: 0.006386
     id: ck135pwvh2ndb0i19nrdpld04
     verified: false
-    hashtags: "#innisfree, #clayge, #playcasual, #hawaii"
+    hashtags: "#loft, #pr, #bershka, #playcasual"
+  - username: "ayako__miyata"
+    fullname: >-
+      宮田綾子 Ayako Miyata
+    location: "Japan"
+    followers: 111797
+    engagement: 313
+    commentsToLikes: 0.043977
+    id: ck0w20nmgm2h50i190ajelphw
+    verified: false
+    hashtags: "#flowerpierced, #highheelslover, #fashionista, #iphone"
+  - username: "makeupandinked"
+    fullname: >-
+      𝐓𝐞𝐠 💁🏻‍♀️
+    location: "Japan"
+    followers: 8873
+    engagement: 1424
+    commentsToLikes: 0.031653
+    id: ck5c14wfrugxc0i112yrlby3t
+    verified: false
+    hashtags: "#pressonnails, #alien, #norvinavol1, #bloodsugar"
+  - username: "lince_theo"
+    fullname: >-
+      LINCE |Open Collab/Endorse
+    location: "Japan"
+    followers: 74015
+    engagement: 76
+    commentsToLikes: 0.581216
+    id: ck5q85fqt4j200i11garg4veq
+    verified: false
+    hashtags: "#takemeback, #yummy, #babyprotection, #chickenbbq"
+  - username: "wantmagazine"
+    fullname: >-
+      ▀▄▀ Alice 愛麗 ▀▄▀
+    location: "Japan"
+    followers: 12255
+    engagement: 763
+    commentsToLikes: 0.027746
+    id: ck0vv1fyyn3ny0i192i1ln1cq
+    verified: false
+    hashtags: "#mor584, #fairygarden, #duochrome, #kate"
   - username: "evilchocobunny"
     fullname: >-
       Jojo
     location: "Japan"
-    followers: 23198
-    engagement: 452
-    commentsToLikes: 0.035614
+    followers: 23049
+    engagement: 437
+    commentsToLikes: 0.040921
     id: ck0w6r3px9w7g0i19xlwqqoot
     verified: false
-    hashtags: "#killstar, #alternativeoutfit, #harajuku, #ootd"
+    hashtags: "#yelloshoes, #laforet, #punk, #sneakers"
   - username: "nurfatinzakki"
     fullname: >-
       Nur Fatin Zakki
     location: "Japan"
-    followers: 47996
-    engagement: 405
-    commentsToLikes: 0.006318
+    followers: 47852
+    engagement: 419
+    commentsToLikes: 0.007311
     id: ck5hlur7ykwcn0i11lw879mdh
     verified: false
-    hashtags: "#yslbeautymy, #garniermalaysia, #garnier1sentuhan"
-  - username: "reivaille"
+    hashtags: "#teamrayadenganlangsir, #garniermalaysia, #garnier1sentuhan, #mykiehls"
+  - username: "ohta_seiya"
     fullname: >-
-      ｒｅｉ👩🏻‍🦰
+      太田 晴也
     location: "Japan"
-    followers: 100044
-    engagement: 238
-    commentsToLikes: 0.024311
-    id: ck5hkefzkia2d0i11zvjcdbfz
+    followers: 70024
+    engagement: 415
+    commentsToLikes: 0.003492
+    id: ck5zvdnv741aw0i14qrb3q7tp
     verified: false
-    hashtags: "#styleinspiration, #alternativefashion, #aseasonalshift, #muaawesome"
-  - username: "roxettearisa"
-    fullname: >-
-      ROXETTE ARISA HOWE
-    location: "Japan"
-    followers: 323641
-    engagement: 604
-    commentsToLikes: 0.007252
-    id: ck0vyvrf060r10i19r7x9si6y
-    verified: true
-    hashtags: "#sponsored, #ultabeauty, #instagraminvite, #covergirlpartner"
-  - username: "who3_"
-    fullname: >-
-      Who
-    location: "Japan"
-    followers: 46110
-    engagement: 233
-    commentsToLikes: 0.006171
-    id: ck13775hra4lp0i19ybf01rzd
-    verified: false
-    hashtags: "#qora, #starryeyestohypnotise, #charlottetilbury, #maccosmetics"
-  - username: "ken_nagasaka"
-    fullname: >-
-      Paulxavier Ken Nagasaka
-    location: "Japan"
-    followers: 7195
-    engagement: 521
-    commentsToLikes: 0.015990
-    id: ck15uk4hfnkjm0i1946mxqimv
-    verified: false
-    hashtags: "#hair, #makeup, #liz, #film"
-  - username: "lushlumi"
-    fullname: >-
-      lumi <3
-    location: "Japan"
-    followers: 197742
-    engagement: 941
-    commentsToLikes: 0.005176
-    id: ck13a0ll3o0xv0i19jlklu4oj
-    verified: false
-    hashtags: "#colourpop, #trend, #abh, #coronavirus"
+    hashtags: ""
 ---

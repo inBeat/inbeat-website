@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Argentina In 2020
 description: >-
-  Find top fashion Instagram influencers in Argentina in 2020. Most popular hashtags: #ootd #look #fashion #style.
+  Find top fashion Instagram influencers in Argentina in 2020. Most popular hashtags: #makeup #yomequedoencasa #sundaymood #summervibes.
 platform: Instagram
 profiles:
-  - username: "talibaron_"
-    fullname: >-
-      T A L I • B A R O N
-    location: "Argentina"
-    followers: 14305
-    engagement: 1333
-    commentsToLikes: 0.051187
-    id: ck0w6hzhn8nmm0i19gt2f2cq1
-    verified: false
-    hashtags: "#tutorial, #eyeliner, #makeup, #delineado"
-  - username: "ohmytips.oficial"
-    fullname: >-
-      ANA • Youtuber 🎥
-    location: "Argentina"
-    followers: 20534
-    engagement: 646
-    commentsToLikes: 0.436345
-    id: ck137466w9oq40i19c7jbt6ye
-    verified: false
-    hashtags: "#monoprenda, #thrifting, #ootd, #feliza"
-  - username: "thestyleoflucia"
-    fullname: >-
-      LUCIA MARTINEZ NASH
-    location: "Argentina"
-    followers: 85497
-    engagement: 200
-    commentsToLikes: 0.216686
-    id: ck0w1kj4rjsy50i19bufokn4k
-    verified: false
-    hashtags: "#lulitip, #bicsoleil, #diariodeestilo, #stayathome"
-  - username: "ponete.linda"
-    fullname: >-
-      *° Marian °*  (No vendo ropa)
-    location: "Argentina"
-    followers: 31327
-    engagement: 161
-    commentsToLikes: 0.225353
-    id: ck5cdzpn5k2jp0i11ewgtt5qo
-    verified: false
-    hashtags: "#fashionblogger, #mono, #whatiwore, #oscars2020"
   - username: "naramieres"
     fullname: >-
       Nara 🌾
     location: "Argentina"
-    followers: 35538
-    engagement: 1200
-    commentsToLikes: 0.009951
+    followers: 40083
+    engagement: 1620
+    commentsToLikes: 0.156485
     id: ck6u60emfctfn0j71mbi9gqw1
     verified: false
-    hashtags: "#modoroaming, #internationalwomensday"
-  - username: "soymamafashion"
+    hashtags: "#pillowchallenge, #apoyalonacional, #modoroaming, #internationalwomensday"
+  - username: "talibaron_"
     fullname: >-
-      Ꮲaz Dominguez 🧿
+      T A L I • B A R O N
     location: "Argentina"
-    followers: 24877
-    engagement: 162
-    commentsToLikes: 0.073295
-    id: ck6tmt44r8heb0j71s10xlh6q
+    followers: 15008
+    engagement: 1311
+    commentsToLikes: 0.046165
+    id: ck0w6hzhn8nmm0i19gt2f2cq1
     verified: false
-    hashtags: "#amor, #moverlascachas, #sigamosencasa, #actitud"
-  - username: "karolinesmode"
+    hashtags: "#maybelline, #versaceeyewear, #sorteo, #tutorial"
+  - username: "eunicefrancoblog"
     fullname: >-
-      Carolina Berro Madero
+      Eunice Franco
     location: "Argentina"
-    followers: 48215
-    engagement: 107
-    commentsToLikes: 0.077798
-    id: ck6ti9kmg0aqj0j710ytmk41b
+    followers: 4638
+    engagement: 1922
+    commentsToLikes: 0.392935
+    id: ckaouof7v15wz0i78g33onxpv
     verified: false
-    hashtags: "#stayathome, #myhome, #selfies, #stayhome"
-  - username: "lunicamino"
+    hashtags: "#mafalda, #momday, #mejor, #volver"
+  - username: "ohmytips.oficial"
     fullname: >-
-      ☾ 𝐋𝐔𝐍𝐀 𝐋𝐔𝐍𝐀 ! 🧿✨🌊🌴🥥🌙🌸
+      ANA • Youtuber 🎥
     location: "Argentina"
-    followers: 97381
-    engagement: 461
-    commentsToLikes: 0.012313
-    id: ck5zre5gcwez80i14nlqk1fvb
+    followers: 20305
+    engagement: 641
+    commentsToLikes: 0.423338
+    id: ck137466w9oq40i19c7jbt6ye
     verified: false
-    hashtags: "#instagramfiltros, #latinagarage, #domingo, #memes"
-  - username: "priscilaschischlo"
+    hashtags: "#chicfilters, #outfitoftheday, #trend, #hairturorial"
+  - username: "barbylaliter"
     fullname: >-
-      𝐏𝐫𝐢𝐬𝐜𝐢𝐥𝐚 𝐬𝐜𝐡𝐢𝐬𝐜𝐡𝐥𝐨
+      Barby Laliter
     location: "Argentina"
-    followers: 27539
-    engagement: 218
-    commentsToLikes: 0.042970
-    id: ck5zqa3xju7zq0i140uolg6aj
+    followers: 54477
+    engagement: 1863
+    commentsToLikes: 0.029158
+    id: ckaoy1it1fo890i785tugvsfs
     verified: false
-    hashtags: "#luxury, #ootd, #lifestyle, #fitnessmodel"
-  - username: "flaviapintosuy"
+    hashtags: "#sorteo, #sorteonavide, #alisados, #maquillarg"
+  - username: "ivolendranz"
     fullname: >-
-      Flavia Pintos
+      Ivo Lendranz
     location: "Argentina"
-    followers: 28920
-    engagement: 272
-    commentsToLikes: 0.033081
-    id: ck602slagixho0i14438l2c6b
+    followers: 75240
+    engagement: 413
+    commentsToLikes: 0.069532
+    id: ck13brhffwtk50i19uvjhxrds
     verified: false
-    hashtags: "#instagood, #photooftheday, #beach, #uruguay"
+    hashtags: "#aovportraits, #portraitsshotz, #makeportraits, #fineartphg"
+  - username: "lusedova"
+    fullname: >-
+      Lú Sedova 👽
+    location: "Argentina"
+    followers: 36542
+    engagement: 382
+    commentsToLikes: 0.060225
+    id: ck13d4een3mjm0i19kuhel935
+    verified: false
+    hashtags: "#112a, #yomequedoencasa, #picsartedit, #stayhome"
+  - username: "que_monet"
+    fullname: >-
+      Qué Monet
+    location: "Argentina"
+    followers: 33303
+    engagement: 356
+    commentsToLikes: 0.614060
+    id: ck5q38fn1jpvo0i113v5y1c5m
+    verified: false
+    hashtags: "#ropainterior, #whitedress, #outfitoftheday, #nomakeup"
+  - username: "merygaravilla"
+    fullname: >-
+      Mery Garavilla
+    location: "Argentina"
+    followers: 55661
+    engagement: 275
+    commentsToLikes: 0.169911
+    id: ck602nfqli52q0i14393krnpt
+    verified: false
+    hashtags: "#galaxys20ar, #hagamosloimposiblejuntos, #tuprimeracasa"
+  - username: "abrilcassella"
+    fullname: >-
+      ABRIL
+    location: "Argentina"
+    followers: 10701
+    engagement: 1229
+    commentsToLikes: 0.045071
+    id: ck5zwxx7d6yy90i14xvdhcwd4
+    verified: false
+    hashtags: "#secondskin, #ss20, #summersweet, #summervibes"
 ---

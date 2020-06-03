@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In New Delhi In 2020
 description: >-
-  Find top health Instagram influencers in New Delhi in 2020. Most popular hashtags: #newdelhi #delhi #india #love.
+  Find top health Instagram influencers in New Delhi in 2020. Most popular hashtags: #health #newdelhi #lockdown #love.
 platform: Instagram
 profiles:
-  - username: "wanderfulpassport"
+  - username: "delhifundos"
     fullname: >-
-      The Wanderful Pooja 🌴
+      Food and Travel Bloggers
     location: "India"
-    followers: 19017
-    engagement: 641
-    commentsToLikes: 0.038665
-    id: ck15rb4ar726y0i19bgo2ja9y
+    followers: 59604
+    engagement: 108
+    commentsToLikes: 0.168586
+    id: ck9woypj372a20j78gwkbsgqq
     verified: false
-    hashtags: "#beautifulplaces, #model, #temples, #stayhomechallenge"
-  - username: "unionpublicservicecommission"
+    hashtags: "#travelstories, #silk, #ramadaan, #disney"
+  - username: "delhikikhansahiba_"
     fullname: >-
-      Union Public ServiceCommission
+      Delhi Ki Khan Sahiba
     location: "India"
-    followers: 68737
-    engagement: 625
-    commentsToLikes: 0.002208
-    id: ck0w6lsru96ww0i19f5i9upg9
+    followers: 2342
+    engagement: 1940
+    commentsToLikes: 0.150204
+    id: ckaos2pa7pw740i784xphng2p
     verified: false
-    hashtags: "#ujjain, #covid19, #health, #nirbhaya"
+    hashtags: "#indiatravelgram, #delhiwale, #travelcaptures, #travellove"
+  - username: "kashvichauhanofficial"
+    fullname: >-
+      Kashvi
+    location: "India"
+    followers: 88151
+    engagement: 106
+    commentsToLikes: 0.044496
+    id: ck14j2f7xiafu0i19ulhn960q
+    verified: false
+    hashtags: "#couple, #blog, #stylingvideo, #stylingsession"
   - username: "styleonair_"
     fullname: >-
       Harsh Ronak Singh
     location: "India"
-    followers: 244868
-    engagement: 301
-    commentsToLikes: 0.041984
+    followers: 247113
+    engagement: 116
+    commentsToLikes: 0.071194
     id: ck14jm50jl1h00i19ggh4xdnm
     verified: false
-    hashtags: "#mumbai, #weekendvibes, #fashionblogger, #instalike"
+    hashtags: "#nofilter, #instanew, #instalove, #ootdfashion"
+  - username: "himanshuchwdhary"
+    fullname: >-
+      Himanshu Choudhary
+    location: "India"
+    followers: 22164
+    engagement: 266
+    commentsToLikes: 0.032627
+    id: ckapaz00ky04c0i78xsuuaxro
+    verified: false
+    hashtags: "#workout, #splitsvilla, #privika, #fall"
   - username: "playingpreppy"
     fullname: >-
       Raunak Mathur 🌸
     location: "India"
-    followers: 2696
-    engagement: 966
-    commentsToLikes: 0.070134
+    followers: 2592
+    engagement: 1009
+    commentsToLikes: 0.072015
     id: ck5zy45r597400i14g2oc0jqu
     verified: false
-    hashtags: "#fashionphotography, #styleonabudget, #follow, #black"
-  - username: "thecurlypoet"
+    hashtags: "#bemotivated, #shopping, #postoftheday, #cannaughtplace"
+  - username: "theyogagirlmohini"
     fullname: >-
-      Nitin Soni
+      Mohini Bhatia
     location: "India"
-    followers: 148509
-    engagement: 340
-    commentsToLikes: 0.014750
-    id: ck0ub77f6dtm30i19kqrpv8ep
-    verified: true
-    hashtags: "#vikrantmassey, #scrawledstories, #college, #newdelhi"
-  - username: "itsallaboutaish"
-    fullname: >-
-      AISHWARI SURVE👑
-    location: "India"
-    followers: 10068
-    engagement: 998
-    commentsToLikes: 0.013626
-    id: ck13codsu1cyb0i19oleqpfnb
+    followers: 18140
+    engagement: 443
+    commentsToLikes: 0.048967
+    id: ck9haztpjersj0j78b0wjx2vd
     verified: false
-    hashtags: "#sunkiss, #autumn, #autumnleaves, #tjori"
-  - username: "theforkeddiaries"
+    hashtags: "#instagramgoodis, #homemadefood, #lovelock009x, #breakgonnaend"
+  - username: "wanderfulpassport"
     fullname: >-
-      Tanish Sharma 🔥/  Delhi Food
+      The Wanderful Pooja 🌴
     location: "India"
-    followers: 104085
-    engagement: 178
-    commentsToLikes: 0.026808
-    id: ck15pf7b6xlbl0i190cyl7r9m
+    followers: 19015
+    engagement: 647
+    commentsToLikes: 0.038733
+    id: ck15rb4ar726y0i19bgo2ja9y
     verified: false
-    hashtags: "#likeforlikes, #likes, #mumbaifoodie, #foodloversmumbai"
-  - username: "msisodia.aap"
+    hashtags: "#bollywood, #makeportraits, #shetravels, #akshaykumar"
+  - username: "nehadesai.blog"
     fullname: >-
-      Manish Sisodia
+      Neha Desai | Chica Next Door
     location: "India"
-    followers: 182340
-    engagement: 180
-    commentsToLikes: 0.014453
-    id: ck5c4njfw1psn0i11eu13jlq0
+    followers: 104164
+    engagement: 111
+    commentsToLikes: 0.050148
+    id: ck14i5fh0dq690i1937r5cdbh
     verified: true
-    hashtags: "#saddidilli, #healthcareworkers, #healthcare, #spreadlove"
+    hashtags: "#eurotravel, #happyholi2020, #nature, #travelblog"
   - username: "abhiandniyu"
     fullname: >-
       Abhi&Niyu | Following Love 🇮🇳
     location: "India"
-    followers: 238073
-    engagement: 1462
-    commentsToLikes: 0.025781
+    followers: 298946
+    engagement: 1724
+    commentsToLikes: 0.024093
     id: ck15ueb0imr390i19cjb09sqz
     verified: false
-    hashtags: "#history, #climatechange, #coronavirussafety, #indiafightscorona"
-  - username: "positive__reminders_"
-    fullname: >-
-      POSITIVE REMINDERS
-    location: "India"
-    followers: 12947
-    engagement: 823
-    commentsToLikes: 0.016524
-    id: ck15qp03y3xz80i19ie7mgdh6
-    verified: false
-    hashtags: "#mercyofkrishna, #sitarama, #healing, #janakivallabha"
+    hashtags: "#bird, #hallstatt, #carryon, #naturelover"
 ---

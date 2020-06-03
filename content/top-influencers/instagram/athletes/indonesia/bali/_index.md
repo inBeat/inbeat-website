@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Bali In 2020
 description: >-
-  Find top athletes Instagram influencers in Bali in 2020. Most popular hashtags: #bali #baliunited #balancetraining #baliindonesia.
+  Find top athletes Instagram influencers in Bali in 2020. Most popular hashtags: #athlete #bali #family #dirumahaja.
 platform: Instagram
 profiles:
   - username: "harikadiputra"
     fullname: >-
       Komang Harik Adi Putra S.Pd
     location: "Indonesia"
-    followers: 44868
-    engagement: 701
-    commentsToLikes: 0.008847
+    followers: 45904
+    engagement: 677
+    commentsToLikes: 0.012116
     id: ck6ud452zj1ci0j71984i98bs
     verified: true
-    hashtags: "#bestnine2019, #baktinegarabali, #baktinegara, #pencaksilat"
-  - username: "earnygg"
+    hashtags: "#bestnine2019, #localan, #pencaksilatindonesia, #baktinegarabali"
+  - username: "elaynnnie"
     fullname: >-
-      Earnnnny
+      Eaynnie GaGa
     location: "Indonesia"
-    followers: 7013
-    engagement: 1080
-    commentsToLikes: 0.014596
+    followers: 7376
+    engagement: 1111
+    commentsToLikes: 0.015958
     id: ck1347qogv4ny0i19a6f453em
     verified: false
-    hashtags: "#gangga, #balilovers, #lifeisbeautiful, #bangkokthailand"
-  - username: "devibration"
+    hashtags: "#girlpower, #balilife, #newyork, #happyhalloween"
+  - username: "vickovicko"
     fullname: >-
-      DEVI
+      A. Vicko H
     location: "Indonesia"
-    followers: 40938
-    engagement: 1330
-    commentsToLikes: 0.007757
-    id: ck6tyhgov3r3h0j71z63kzoei
+    followers: 24309
+    engagement: 263
+    commentsToLikes: 0.036945
+    id: ck14h16yh812k0i194bacvr1l
     verified: false
-    hashtags: ""
-  - username: "yotiefish"
-    fullname: >-
-      
-    location: "Indonesia"
-    followers: 13116
-    engagement: 978
-    commentsToLikes: 0.018387
-    id: ck6tmfu5t7rs60j717dihzwmu
-    verified: false
-    hashtags: "#freediving, #girlsthatfreedive, #oceanerwetsuits, #oceaner"
+    hashtags: "#guilderton, #imlek, #coconut, #joke"
   - username: "sisiliaora"
     fullname: >-
       Sisilia Agustiani Ora
     location: "Indonesia"
-    followers: 22278
-    engagement: 741
-    commentsToLikes: 0.009172
+    followers: 22168
+    engagement: 733
+    commentsToLikes: 0.008723
     id: ck13a44wcojfz0i19c1twjd06
     verified: false
-    hashtags: "#friendshipgoals, #bussinesswoman, #covid, #athletelife"
-  - username: "gunawandwicahyo13"
+    hashtags: "#denpasarfestival2019, #throwback, #fitnessgirl, #ciputra"
+  - username: "devibration"
     fullname: >-
-      gunawan dwi cahyo 13
+      DEVI
     location: "Indonesia"
-    followers: 489354
-    engagement: 152
-    commentsToLikes: 0.006157
-    id: ck6ud4h3cj39v0j71tc1mjplz
+    followers: 44220
+    engagement: 1399
+    commentsToLikes: 0.009857
+    id: ck6tyhgov3r3h0j71z63kzoei
+    verified: false
+    hashtags: "#cultivtoimeme, #customaf1"
+  - username: "yotiefish"
+    fullname: >-
+      
+    location: "Indonesia"
+    followers: 12923
+    engagement: 996
+    commentsToLikes: 0.018266
+    id: ck6tmfu5t7rs60j717dihzwmu
+    verified: false
+    hashtags: "#freediver, #oceaner, #onebreath, #freediving"
+  - username: "bobbyida"
+    fullname: >-
+      ⏩2Ninefit Indonesia⏪
+    location: "Indonesia"
+    followers: 245110
+    engagement: 215
+    commentsToLikes: 0.015575
+    id: ck5zkkpwyjno50i14s7rwxzhi
     verified: true
-    hashtags: "#bersyukur, #gdcfamily, #mmaindonesia, #selalubersyukur"
+    hashtags: "#happybirthday, #blasteran, #lemon, #rolemodel"
   - username: "charlietaylor"
     fullname: >-
       Charlie Taylor
     location: "Indonesia"
-    followers: 392227
-    engagement: 389
-    commentsToLikes: 0.020389
+    followers: 393296
+    engagement: 343
+    commentsToLikes: 0.035308
     id: ck5pzmkxc1pvb0i1148ww6s74
     verified: true
-    hashtags: "#3yearsago, #soznotzoz, #backworkout, #ropeclimb"
+    hashtags: "#prankindonesia, #savageprank, #couplewar, #love"
   - username: "lerby12"
     fullname: >-
       lerby elyandri pong babu
     location: "Indonesia"
-    followers: 118484
-    engagement: 519
-    commentsToLikes: 0.008278
+    followers: 118304
+    engagement: 367
+    commentsToLikes: 0.009844
     id: ck5cedoi9ktto0i11nn2pyg97
     verified: false
-    hashtags: "#samarindaseberang, #godbless, #janganlupangopi, #baliunitedfc"
-  - username: "bellmando"
+    hashtags: "#loveyouboth, #unity, #selalubersyukur, #ibelongtojesus"
+  - username: "fitnessbymarko"
     fullname: >-
-      Anton B. 📍 Bali
+      Circus Performer 🎭🇬🇧🇷🇸
     location: "Indonesia"
-    followers: 43824
-    engagement: 147
-    commentsToLikes: 0.008672
-    id: ck0vyhd2b405h0i19lwpbqmgq
+    followers: 34833
+    engagement: 280
+    commentsToLikes: 0.024993
+    id: ckap0xcans8600i780ddtnlfz
     verified: false
-    hashtags: "#fruits, #stabilizationtraining, #bodyweightworkout, #workoutprogram"
-  - username: "nicolasiong"
-    fullname: >-
-      Nicolas Iong Lee 🇰🇷🇨🇭
-    location: "Indonesia"
-    followers: 685904
-    engagement: 270
-    commentsToLikes: 0.019591
-    id: ck13aaerrpf6d0i1928vu3lf5
-    verified: false
-    hashtags: "#happiness, #waterfall, #finns, #hardwork"
+    hashtags: ""
 ---

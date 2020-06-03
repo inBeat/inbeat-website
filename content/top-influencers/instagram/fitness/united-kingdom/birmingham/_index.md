@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Birmingham In 2020
 description: >-
-  Find top fitness Instagram influencers in Birmingham in 2020. Most popular hashtags: #love #fitness #travel #instagood.
+  Find top fitness Instagram influencers in Birmingham in 2020. Most popular hashtags: #fitness #birmingham #stayhome #travel.
 platform: Instagram
 profiles:
-  - username: "shutkeverofficial"
+  - username: "helenjtea"
     fullname: >-
-      Leah Shutkever | PRO. EATER
+      Helen
     location: "United Kingdom"
-    followers: 69047
-    engagement: 418
-    commentsToLikes: 0.056212
-    id: ck55izwbrvwk90i11fj6a53xz
+    followers: 86748
+    engagement: 211
+    commentsToLikes: 0.132594
+    id: ck0u0v7z7uwvt0i19tsjkoem1
     verified: false
-    hashtags: "#pancakeweek, #restaurant, #notsoholy, #teamgsn"
-  - username: "tabslifts"
+    hashtags: "#sweetgains, #cakebar, #reeses, #giveaways"
+  - username: "nxvelouise"
     fullname: >-
-      🌻TABS LOFTS🌻
+      N e v e y ♡
     location: "United Kingdom"
-    followers: 10751
-    engagement: 1333
-    commentsToLikes: 0.090203
-    id: ck8takzw3s7990j78ziiid6f7
+    followers: 9876
+    engagement: 1088
+    commentsToLikes: 0.226005
+    id: ck9hbsqxeia6e0j78tsjyzpp3
     verified: false
-    hashtags: "#isolationadvice, #motivation, #fitnessmotivation, #crossfit"
+    hashtags: "#gymsharkleggings, #gettoknowme, #10factsaboutme, #femmeluxefinery"
   - username: "elizas_everyday"
     fullname: >-
       Eliza's_everyday
     location: "United Kingdom"
-    followers: 15848
-    engagement: 338
-    commentsToLikes: 0.408472
+    followers: 16627
+    engagement: 393
+    commentsToLikes: 0.406422
     id: ck5bw68vel2m20i11vebkj9bq
     verified: false
-    hashtags: "#staypositive, #streetwear, #frenchiesofinstagram, #polkadots"
-  - username: "peaky.blinders_shelby"
+    hashtags: "#dressupfriday, #beautybox, #green, #asseenonme"
+  - username: "_lucymayfinnegan"
     fullname: >-
-      Peaky Blinders
+      Lucy May
     location: "United Kingdom"
-    followers: 10467
-    engagement: 4049
-    commentsToLikes: 0.003110
-    id: ck14l40hosqla0i19qzxozxhv
+    followers: 149577
+    engagement: 303
+    commentsToLikes: 0.063928
+    id: ck0u6e45h1nre0i19crikpnmz
     verified: false
-    hashtags: "#peakyblindersitalia, #quotes, #food, #love"
+    hashtags: "#gym, #intense, #resistancebands, #butt"
   - username: "russ___________"
     fullname: >-
       Eat. Sleep. Wifi. Repeat.
     location: "United Kingdom"
-    followers: 9916
-    engagement: 863
-    commentsToLikes: 0.034652
+    followers: 10014
+    engagement: 937
+    commentsToLikes: 0.034486
     id: ck0twyarvh9mw0i19fpezd84h
     verified: false
-    hashtags: "#fuchs, #thefacup, #rashford, #crokepark"
+    hashtags: "#travel, #comics, #photo, #cafu"
   - username: "thekayday"
     fullname: >-
       Kulsum Bismillah
     location: "United Kingdom"
-    followers: 22003
-    engagement: 269
-    commentsToLikes: 0.196742
+    followers: 21798
+    engagement: 253
+    commentsToLikes: 0.173985
     id: ck0w5z8u465930i196c85g139
     verified: false
-    hashtags: "#foodgram, #makeup, #giveaways, #skincare"
-  - username: "independentbirmingham"
+    hashtags: "#makeuplife, #nails, #foodpics, #holiday"
+  - username: "ollie.ollerton"
     fullname: >-
-      Independent Birmingham
+      OLLIE OLLERTON
     location: "United Kingdom"
-    followers: 29072
-    engagement: 133
-    commentsToLikes: 0.040289
-    id: ck6tpw3ypnlud0j71cgoyqkk5
-    verified: false
-    hashtags: "#streetfood, #indianfood, #bonehead, #museum"
+    followers: 321603
+    engagement: 371
+    commentsToLikes: 0.018368
+    id: ck55ps2lwb93h0i11bu4b7e10
+    verified: true
+    hashtags: "#nhs, #mentalwealth, #mindset, #lockdown"
   - username: "liveuptohername"
     fullname: >-
       Lexi 🎀
     location: "United Kingdom"
-    followers: 16298
-    engagement: 727
-    commentsToLikes: 0.001623
+    followers: 16365
+    engagement: 688
+    commentsToLikes: 0.003090
     id: ck5cik16gsslf0i11w5ovnhua
     verified: false
-    hashtags: "#mustdo, #cappuccino, #birthdaycake, #caribbean"
-  - username: "mrsvmummyto3"
+    hashtags: "#homeoffice, #malta, #bnwphotography, #fitfam"
+  - username: "chloee.fitness97"
     fullname: >-
-      Mum of 3 Little V's
+      Chloe | Fitness 🏋🏼‍♀️
     location: "United Kingdom"
-    followers: 24817
-    engagement: 426
-    commentsToLikes: 0.077452
-    id: ck15qqdg945330i1960tr6x8g
+    followers: 8872
+    engagement: 1797
+    commentsToLikes: 0.097173
+    id: ck13b8ry0u9fi0i19s4ex8y9k
     verified: false
-    hashtags: "#gymnastics, #bespokegifts, #weather, #babyshop"
-  - username: "sarahamcdonald"
+    hashtags: "#fitlife, #hiitworkout, #sale, #squats"
+  - username: "sc_figure"
     fullname: >-
-      Sarah McDonald
+      Sarah Cowin
     location: "United Kingdom"
-    followers: 6480
-    engagement: 792
-    commentsToLikes: 0.016310
-    id: ck15r34gl5wlo0i199ifwgum4
+    followers: 3407
+    engagement: 2831
+    commentsToLikes: 0.401740
+    id: ckapcimrv3yne0i78op3a32bh
     verified: false
-    hashtags: "#teamnb, #goals, #race, #wegotnow"
+    hashtags: "#mindsetmonday, #selfworth, #lifeisgood, #bodybuilder"
 ---

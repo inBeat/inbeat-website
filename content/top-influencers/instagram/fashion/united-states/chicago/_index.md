@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Chicago In 2020
 description: >-
-  Find top fashion Instagram influencers in Chicago in 2020. Most popular hashtags: #fashion #chicagomodel #model #portrait.
+  Find top fashion Instagram influencers in Chicago in 2020. Most popular hashtags: #fashion #chicago #chicagoartists #throwback.
 platform: Instagram
 profiles:
-  - username: "leehocampo"
+  - username: "erikmarthaler"
     fullname: >-
-      ALESSANDRA OCAMPO
+      E r i k  M a r t h a l e r
     location: "United States"
-    followers: 59692
-    engagement: 145
-    commentsToLikes: 0.027567
-    id: ck6tzf0mu9b030j71013ug1gu
+    followers: 30487
+    engagement: 267
+    commentsToLikes: 0.040246
+    id: ck15pvc2dzta60i19k0w41s1x
     verified: false
-    hashtags: "#sheingals, #ommgtour2020, #brandpartner, #shein"
-  - username: "oliviaromannn"
+    hashtags: "#jj"
+  - username: "yvettemayorga"
     fullname: >-
-      Olivia
+      🍭🍰🍒Yvette Mayorga🍒🍰🍭
     location: "United States"
-    followers: 5965
-    engagement: 1028
-    commentsToLikes: 0.027358
-    id: ck6tlnoe56aoh0j7184sgq0e0
+    followers: 6819
+    engagement: 494
+    commentsToLikes: 0.024191
+    id: ck6tto1sobnxr0j71krfp9f0o
     verified: false
-    hashtags: "#newyorkmodel, #freelancemodel, #studioshoot, #indybased"
-  - username: "kiahoptima"
+    hashtags: "#ilysm4artists, #4creativesbycreatives, #ilysm4artistsweek9, #ilysmart"
+  - username: "arturoalvaphoto"
     fullname: >-
-      Kiah | Chicago Photographer
+      Arturo Alva
     location: "United States"
-    followers: 2813
-    engagement: 1352
-    commentsToLikes: 0.073909
-    id: ck0w2ex8vo0k60i19a5l8zhp5
+    followers: 7046
+    engagement: 791
+    commentsToLikes: 0.024420
+    id: ck0ucc0abgjh50i19efyjqx6q
     verified: false
-    hashtags: "#chicago, #reflection, #fashion, #chicagophotographer"
-  - username: "jackmarinhair"
+    hashtags: "#chitown, #chicagogrammers, #chicagoland, #travelmodel"
+  - username: "okankesanxz"
     fullname: >-
-      Jack Marin
+      
     location: "United States"
-    followers: 28308
-    engagement: 323
-    commentsToLikes: 0.021260
-    id: ck5zr7u21w2mx0i14uw3jrvp1
+    followers: 101838
+    engagement: 240
+    commentsToLikes: 0.014547
+    id: ck6tzl2gwabzz0j7198i75swv
     verified: false
-    hashtags: "#chicago, #chicagostyle, #fashionista, #chihuahua"
-  - username: "hailey_smith_official"
+    hashtags: "#brightfuture, #fashion, #chicagoartists, #blackhistory365"
+  - username: "tubsz_illa"
     fullname: >-
-      Hᴀɪʟᴇʏ Jᴀʏɴᴇ  ᴹᴼᴰᴱᴸ|ᴵᴺᶠᴸᵁᴱᴺᶜᴱᴿ
+      𝕿𝖚𝖇𝖘
     location: "United States"
-    followers: 37291
-    engagement: 317
-    commentsToLikes: 0.136521
-    id: ck15rwpbca2q70i19w6rvvyfb
+    followers: 27310
+    engagement: 278
+    commentsToLikes: 0.039287
+    id: ck0w64zgz6xcg0i19fanape7h
     verified: false
-    hashtags: "#flexible, #glccshowdown, #bestdaughter, #blessed"
-  - username: "kraseroner"
-    fullname: >-
-      ᴋʀᴀꜱᴇʀɪꜱᴍ © 💎
-    location: "United States"
-    followers: 23607
-    engagement: 321
-    commentsToLikes: 0.028296
-    id: ck5cfa74kmk2d0i11uymalv4z
-    verified: false
-    hashtags: "#branding, #art, #logotype, #graffitiartist"
-  - username: "lcphotodesign"
-    fullname: >-
-      LC Photography & Multimedia
-    location: "United States"
-    followers: 8520
-    engagement: 700
-    commentsToLikes: 0.003021
-    id: ck6txz4oc0pa10j718mmn2fwj
-    verified: false
-    hashtags: "#fashionista, #hypebeast, #chicagofashion, #hypebae"
+    hashtags: "#latino, #artexhibition, #tshirt, #custompaint"
   - username: "emilygualdoniphoto"
     fullname: >-
       Chicago Fashion Photographer
     location: "United States"
-    followers: 17770
-    engagement: 1320
-    commentsToLikes: 0.046528
+    followers: 17673
+    engagement: 1331
+    commentsToLikes: 0.045608
     id: ck5c1cu8kux0g0i11643v1o34
     verified: false
-    hashtags: "#makeportraits, #portraitisreligion, #fashionstyle, #chicagomodels"
+    hashtags: "#bestphotogram, #quietthechaos, #manicurist, #portraitstream"
   - username: "alexamorelli"
     fullname: >-
       Alexa Morelli
     location: "United States"
-    followers: 17461
-    engagement: 525
-    commentsToLikes: 0.187982
+    followers: 17806
+    engagement: 592
+    commentsToLikes: 0.215283
     id: ck0w3rx3duyt20i19wx82fi7g
     verified: false
-    hashtags: "#sugarlipsxme, #happysundayeveryone, #smallbusinesslove, #timemanagement"
+    hashtags: "#selftanning, #pandoramothersday, #livewiths3, #ltkhome"
   - username: "heyitsnatalie"
     fullname: >-
       Natalie Hartzell
     location: "United States"
-    followers: 17296
-    engagement: 388
-    commentsToLikes: 0.276037
+    followers: 17676
+    engagement: 374
+    commentsToLikes: 0.318239
     id: ck6tzfgfr9dow0j71mebsgbxs
     verified: false
-    hashtags: "#fableticspartner, #springbreak2020, #ltkwedding, #booksbeforeboys"
+    hashtags: "#ruggablepartner, #ltkfamily, #irunwithmaud, #thisiskirei"
+  - username: "annaxmargaret"
+    fullname: >-
+      Anna Margaret
+    location: "United States"
+    followers: 7602
+    engagement: 1218
+    commentsToLikes: 0.182514
+    id: ck1381xuee40t0i19mmp910pw
+    verified: false
+    hashtags: "#fabletics, #aexme, #justfab, #fableticspartner"
+  - username: "justynajarmula"
+    fullname: >-
+      justyna
+    location: "United States"
+    followers: 58799
+    engagement: 156
+    commentsToLikes: 0.039746
+    id: ck15tvg9yk3rq0i19xls0h3ea
+    verified: false
+    hashtags: "#katespade, #kbeautylover, #unitedcenter, #kimptonmonaco"
 ---

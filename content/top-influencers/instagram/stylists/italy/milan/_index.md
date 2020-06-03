@@ -1,107 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Milan In 2020
 description: >-
-  Find top stylists Instagram influencers in Milan in 2020. Most popular hashtags: #fashion #paris #fashionphotography #milano.
+  Find top stylists Instagram influencers in Milan in 2020. Most popular hashtags: #happynewyear #milano #fashion #quarantine.
 platform: Instagram
 profiles:
-  - username: "riccardomariachiacchio"
+  - username: "leonid_smith"
     fullname: >-
-      Riccardo Maria Chiacchio
+      Wedding Videographer in Europe
     location: "Italy"
-    followers: 5703
-    engagement: 557
-    commentsToLikes: 0.020504
-    id: ck0vwfx1sthv60i19xx5nydbf
+    followers: 15258
+    engagement: 241
+    commentsToLikes: 0.084785
+    id: ck0vxsm580ijs0i196nsdfcon
     verified: false
-    hashtags: "#napoli, #perdono, #detail, #stvalentinesday"
-  - username: "amirjamshidiii"
-    fullname: >-
-      amir jamshidi
-    location: "Italy"
-    followers: 10281
-    engagement: 1051
-    commentsToLikes: 0.038949
-    id: ck5ck940cwe5w0i119obz7ml4
-    verified: false
-    hashtags: "#paris, #retouch, #suit, #streetphotography"
-  - username: "olenina_nastya"
-    fullname: >-
-      
-    location: "Italy"
-    followers: 2242
-    engagement: 1329
-    commentsToLikes: 0.045005
-    id: ck139x7u2nkn70i19gspdvhg8
-    verified: false
-    hashtags: "#repost, #bvlgari, #milanfashionweek, #tokyoglam"
-  - username: "giulianabattaglia"
-    fullname: >-
-      GIULIANA
-    location: "Italy"
-    followers: 6606
-    engagement: 868
-    commentsToLikes: 0.015229
-    id: ck8t8xg95m73k0j78h7mw7u75
-    verified: false
-    hashtags: "#family, #beautiful, #milano, #photography"
-  - username: "giovannahoang"
-    fullname: >-
-      Giovanna Hoang
-    location: "Italy"
-    followers: 31267
-    engagement: 370
-    commentsToLikes: 0.068214
-    id: ck14kcku3ouqk0i19wftk94cn
-    verified: false
-    hashtags: "#mangiarebene, #dailyfoodfeed, #swissmeringue, #foodblogfeed"
-  - username: "simonafloresta"
-    fullname: >-
-      𝚂𝚒𝚖𝚘𝚗𝚊 𝙵𝚕𝚘𝚛𝚎𝚜𝚝𝚊 ✨
-    location: "Italy"
-    followers: 26574
-    engagement: 344
-    commentsToLikes: 0.090584
-    id: ck13anyzorbj00i19iew4d4pd
-    verified: false
-    hashtags: "#christmasdecorations, #redmoon, #christmasmood, #redoutfits"
-  - username: "thediaryofsonia"
-    fullname: >-
-      Sonia Paladini
-    location: "Italy"
-    followers: 52535
-    engagement: 197
-    commentsToLikes: 0.344449
-    id: ck5zso1apyvbn0i14gw5ljd43
-    verified: false
-    hashtags: "#mattino, #tradizionedifamiglia, #crostatadifrutta, #cucinatradizionale"
-  - username: "yleniapuglia"
-    fullname: >-
-      Y&P Consulting
-    location: "Italy"
-    followers: 26430
-    engagement: 134
-    commentsToLikes: 0.015938
-    id: ck55oprxq8v670i11kozx433f
-    verified: false
-    hashtags: "#throwback"
+    hashtags: "#lumixrussia, #adaptbasketball, #35mmfilmphoto, #videocolor"
   - username: "irina_chernyak"
     fullname: >-
       Fashion Stylist Milan
     location: "Italy"
-    followers: 26608
-    engagement: 208
-    commentsToLikes: 0.030849
+    followers: 26269
+    engagement: 167
+    commentsToLikes: 0.021787
     id: ck0vyojr550o50i19inkioh9v
     verified: false
-    hashtags: "#styleindetailsnyc, #fashionstylistnewyork, #hautecouturedress, #newyorkfashionweek"
-  - username: "edoscilla"
+    hashtags: "#video, #mikimoto, #bestwishes, #embroidery"
+  - username: "angystearoom"
     fullname: >-
-      •Ed Oscilla•
+      ANGELICA ARDASHEVA GRASSANO
     location: "Italy"
-    followers: 12923
-    engagement: 1052
-    commentsToLikes: 0.030276
-    id: ck15sngjjdvog0i19ln1y434y
+    followers: 87087
+    engagement: 63
+    commentsToLikes: 0.035455
+    id: ck6tzoe19awdt0j711d6vxn74
     verified: false
-    hashtags: "#softcolor, #lines, #blackandwhite, #softlight"
+    hashtags: "#fashionblogger, #ladydianastyle, #bookreading, #movienight"
+  - username: "riccardomariachiacchio"
+    fullname: >-
+      Riccardo Maria Chiacchio
+    location: "Italy"
+    followers: 5721
+    engagement: 615
+    commentsToLikes: 0.021685
+    id: ck0vwfx1sthv60i19xx5nydbf
+    verified: false
+    hashtags: "#napoli, #perdono, #detail, #quarantine"
+  - username: "giulianabattaglia"
+    fullname: >-
+      GIULIANA
+    location: "Italy"
+    followers: 6555
+    engagement: 836
+    commentsToLikes: 0.013587
+    id: ck8t8xg95m73k0j78h7mw7u75
+    verified: false
+    hashtags: "#easter, #attention, #follow, #mylove"
+  - username: "amirjamshidiii"
+    fullname: >-
+      amir jamshidi
+    location: "Italy"
+    followers: 10291
+    engagement: 1111
+    commentsToLikes: 0.042983
+    id: ck5ck940cwe5w0i119obz7ml4
+    verified: false
+    hashtags: "#spain"
+  - username: "giovannahoang"
+    fullname: >-
+      Giovanna Hoang
+    location: "Italy"
+    followers: 31836
+    engagement: 418
+    commentsToLikes: 0.079186
+    id: ck14kcku3ouqk0i19wftk94cn
+    verified: false
+    hashtags: "#sweetbreakfast, #food52gram, #tart, #babysmile"
+  - username: "carolinabenvenga"
+    fullname: >-
+      Carolina Benvenga
+    location: "Italy"
+    followers: 43705
+    engagement: 844
+    commentsToLikes: 0.020949
+    id: ck0w1kpsdjtvu0i19mdv9hzr3
+    verified: false
+    hashtags: "#kidsmusic, #torino, #home, #arenadiverona"
+  - username: "simonafloresta"
+    fullname: >-
+      𝐒𝐢𝐦𝐨𝐧𝐚 𝐅𝐥𝐨𝐫𝐞𝐬𝐭𝐚✨|𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐈𝐧𝐬𝐩𝐨
+    location: "Italy"
+    followers: 26620
+    engagement: 358
+    commentsToLikes: 0.097887
+    id: ck13anyzorbj00i19iew4d4pd
+    verified: false
+    hashtags: "#songofstyle, #blackootd, #style, #aesthetically"
+  - username: "yleniapuglia"
+    fullname: >-
+      Y&P Consulting
+    location: "Italy"
+    followers: 26447
+    engagement: 129
+    commentsToLikes: 0.023374
+    id: ck55oprxq8v670i11kozx433f
+    verified: false
+    hashtags: ""
 ---

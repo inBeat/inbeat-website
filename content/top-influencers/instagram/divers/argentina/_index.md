@@ -1,107 +1,107 @@
 ---
 title: Top 10 Divers Instagram Influencers In Argentina In 2020
 description: >-
-  Find top divers Instagram influencers in Argentina in 2020. Most popular hashtags: #argentina #photography #venezuela #makeup.
+  Find top divers Instagram influencers in Argentina in 2020. Most popular hashtags: #cuarentena #yomequedoencasa #neptuno #monday.
 platform: Instagram
 profiles:
   - username: "jugandoconaby"
     fullname: >-
       Jugando con Aby
     location: "Argentina"
-    followers: 107894
-    engagement: 366
-    commentsToLikes: 0.037393
+    followers: 109944
+    engagement: 387
+    commentsToLikes: 0.037727
     id: ck0w442itwpaz0i19hulemnr0
     verified: false
-    hashtags: "#japon, #locosporelslime, #mandallachallenge, #barcos"
-  - username: "candesoliz_"
+    hashtags: "#teamred, #japon, #barcos, #elcari"
+  - username: "johnvalverdea"
     fullname: >-
-      cande soliz
+      Jᴏʜɴ Vᴀʟᴠᴇʀᴅᴇ 🇪🇨
     location: "Argentina"
-    followers: 2377
-    engagement: 1344
-    commentsToLikes: 0.077342
-    id: ck6u2skuetopr0j71whbne0v3
+    followers: 13678
+    engagement: 1005
+    commentsToLikes: 0.028361
+    id: ck9hbnxdwhoh20j78efizmkiu
     verified: false
-    hashtags: "#skateargentino, #skateisfun, #skategirl, #skategirls"
-  - username: "little_brako"
-    fullname: >-
-      Don Brako
-    location: "Argentina"
-    followers: 13701
-    engagement: 789
-    commentsToLikes: 0.035571
-    id: ck6ti7whr07hs0j71xpeqapg2
-    verified: false
-    hashtags: "#home, #legs, #drawing, #ilustration"
+    hashtags: "#latino, #peru, #paramo, #bolivia"
   - username: "emilianomedinaok"
     fullname: >-
       Emiliano Medina
     location: "Argentina"
-    followers: 5609
-    engagement: 837
-    commentsToLikes: 0.035217
+    followers: 5529
+    engagement: 803
+    commentsToLikes: 0.049406
     id: ck5hpx871s4ji0i115796o6ck
     verified: false
-    hashtags: "#anitta, #waacking, #repreznt, #veneno"
-  - username: "eligomezalcorta"
+    hashtags: "#veneno, #waackingargentina, #cuarentena, #repreznt"
+  - username: "little_brako"
     fullname: >-
-      Elizabeth Gomez Alcorta
+      Don Brako
     location: "Argentina"
-    followers: 45912
-    engagement: 447
-    commentsToLikes: 0.013100
-    id: ck55offbg88xz0i11d07gkoud
-    verified: true
-    hashtags: "#derechoalasalud, #graciascient, #xivconferenciamujer, #leymicaela"
+    followers: 13947
+    engagement: 852
+    commentsToLikes: 0.021843
+    id: ck6ti7whr07hs0j71xpeqapg2
+    verified: false
+    hashtags: "#drawing, #lgtbiq, #light, #husar"
+  - username: "candesoliz_"
+    fullname: >-
+      Cande Soliz
+    location: "Argentina"
+    followers: 2392
+    engagement: 1307
+    commentsToLikes: 0.077577
+    id: ck6u2skuetopr0j71whbne0v3
+    verified: false
+    hashtags: "#skategirl, #skateboading, #skateordie, #fail"
+  - username: "cami__barreto"
+    fullname: >-
+      Negra
+    location: "Argentina"
+    followers: 5824
+    engagement: 587
+    commentsToLikes: 0.088586
+    id: ckap4652960ih0i78fdlmj4pf
+    verified: false
+    hashtags: "#press, #factoria, #lumaykaricoreo, #yobailoconemir"
+  - username: "analisis_dxtivo"
+    fullname: >-
+      Análisis Dxtivo🏅
+    location: "Argentina"
+    followers: 28379
+    engagement: 593
+    commentsToLikes: 0.014279
+    id: ck9harbnmds5n0j788uk0q4kc
+    verified: false
+    hashtags: "#footballtime, #futbolfemenino, #futsaljakarta, #soccerlife"
   - username: "ricardo.chiri"
     fullname: >-
       Ricardo Chirinos
     location: "Argentina"
-    followers: 2056
-    engagement: 1058
-    commentsToLikes: 0.188369
+    followers: 2033
+    engagement: 1081
+    commentsToLikes: 0.185898
     id: ck5zn859onylm0i14ju855yud
     verified: false
-    hashtags: "#monday, #experiencia, #argentina, #captura"
-  - username: "ciervospampas"
+    hashtags: "#septiembre, #pareja, #batalla, #comediaenvivo"
+  - username: "eligomezalcorta"
     fullname: >-
-      Ciervos Pampas Rugby Club
+      Elizabeth Gomez Alcorta
     location: "Argentina"
-    followers: 7356
-    engagement: 219
-    commentsToLikes: 0.025448
-    id: ck5zxevzm7vqe0i1446v6toid
-    verified: false
-    hashtags: "#gayrugby, #argentina, #derechoshumanos, #deportesocial"
-  - username: "kullakamusica"
+    followers: 50113
+    engagement: 227
+    commentsToLikes: 0.014321
+    id: ck55offbg88xz0i11d07gkoud
+    verified: true
+    hashtags: "#leymicaela, #evita, #argentinaunida, #graciascient"
+  - username: "astrolo.gi"
     fullname: >-
-      Kullaka🌸
+      𝙰𝚂𝚃𝚁𝙾𝙻𝙾𝙶𝙸𝙰 𝙿𝙰𝚁𝙰 𝚅𝙸𝚅𝙸𝚁𝙻𝙰
     location: "Argentina"
-    followers: 10366
-    engagement: 1204
-    commentsToLikes: 0.065499
-    id: ck139164rj0p80i19bqrvb5oh
+    followers: 33740
+    engagement: 358
+    commentsToLikes: 0.052526
+    id: ck5q1hfkab01z0i11bvhvhrv7
     verified: false
-    hashtags: "#hermana, #toystory, #lanietadelabrujalibros, #mareafeminista"
-  - username: "barbi_cabo"
-    fullname: >-
-      𝘉𝘢𝘳𝘣𝘪𝘦 𝘊𝘢𝘣𝘰
-    location: "Argentina"
-    followers: 67039
-    engagement: 245
-    commentsToLikes: 0.339498
-    id: ck5hpwfdns32o0i11ginfm4q8
-    verified: false
-    hashtags: "#instamusic, #entretenimiento, #hairstyle, #photography"
-  - username: "andrelizeche"
-    fullname: >-
-      A n d y
-    location: "Argentina"
-    followers: 2771
-    engagement: 2398
-    commentsToLikes: 0.053632
-    id: ck5znyy1mpf9w0i142sqwl6ns
-    verified: false
-    hashtags: "#ph, #mars, #tomboystyle, #diversidad"
+    hashtags: "#acuario, #quir, #marte, #resilvestrar"
 ---

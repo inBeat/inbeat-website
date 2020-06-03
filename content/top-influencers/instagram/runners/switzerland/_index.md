@@ -1,107 +1,107 @@
 ---
 title: Top 10 Runners Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top runners Instagram influencers in Switzerland in 2020. Most popular hashtags: #training #trainingcamp #running #trailrunning.
+  Find top runners Instagram influencers in Switzerland in 2020. Most popular hashtags: #quarantine #covid #family #training.
 platform: Instagram
 profiles:
   - username: "sarah_atcho"
     fullname: >-
       Sarah Atcho
     location: "Switzerland"
-    followers: 15521
-    engagement: 947
-    commentsToLikes: 0.014703
+    followers: 15495
+    engagement: 948
+    commentsToLikes: 0.014476
     id: ck5cbwhdtgak70i11zpg39uae
     verified: false
-    hashtags: "#swissathletics, #love, #aikon, #ambassador"
+    hashtags: "#aikonic, #premiumgin, #is, #watch"
   - username: "charlie_hofmann_"
     fullname: >-
       Runner of the 🌍 and Around 😎
     location: "Switzerland"
-    followers: 9240
-    engagement: 674
-    commentsToLikes: 0.031956
+    followers: 9139
+    engagement: 689
+    commentsToLikes: 0.034394
     id: ck6u39xovwkxb0j71hkkadgzk
     verified: false
-    hashtags: "#icehockey, #bestofrunning, #positivevibes, #positiveenergy"
+    hashtags: "#enjoylife, #ibeliveicanfly, #lavercup, #playfortheworld"
   - username: "dega1977"
     fullname: >-
       Marco De Gasperi
     location: "Switzerland"
-    followers: 17254
-    engagement: 781
-    commentsToLikes: 0.010273
+    followers: 17699
+    engagement: 795
+    commentsToLikes: 0.010705
     id: ck55m0k3k2wfm0i110cwy6uln
     verified: false
-    hashtags: "#alagna, #fenix6x, #garmin, #trailrunning"
+    hashtags: "#hokaoneone, #moonlightshadow, #family, #vilamoura"
   - username: "rabina17"
     fullname: >-
       Peter Lewis
     location: "Switzerland"
-    followers: 8068
-    engagement: 1072
-    commentsToLikes: 0.010630
+    followers: 8192
+    engagement: 1090
+    commentsToLikes: 0.012880
     id: ck0u9g1me9obw0i197dl4ob56
     verified: false
     hashtags: ""
+  - username: "barla81"
+    fullname: >-
+      Marco Barla
+    location: "Switzerland"
+    followers: 5582
+    engagement: 633
+    commentsToLikes: 0.022798
+    id: ck9wfwlt5qtqk0j78u3es08wc
+    verified: false
+    hashtags: "#covid, #gritstone, #dyno, #lockdown"
+  - username: "prorunner71"
+    fullname: >-
+      Gionatan Paglialunga
+    location: "Switzerland"
+    followers: 5987
+    engagement: 1513
+    commentsToLikes: 0.009950
+    id: ckap2t2b6072y0i781pa8w3ds
+    verified: false
+    hashtags: "#humvee, #fullyloaded, #plymouthcuda, #classy"
+  - username: "premekvida"
+    fullname: >-
+      Přemysl Vida
+    location: "Switzerland"
+    followers: 15585
+    engagement: 234
+    commentsToLikes: 0.019789
+    id: ck5cezcuum0n10i11xptyuim6
+    verified: false
+    hashtags: "#motherearth, #dillon, #sunrisephotography, #weloveprague"
+  - username: "remi_bonnet"
+    fullname: >-
+      remi_bonnet
+    location: "Switzerland"
+    followers: 52977
+    engagement: 449
+    commentsToLikes: 0.004538
+    id: ck0tzk9m4qlxb0i19ytuotwyd
+    verified: true
+    hashtags: "#staymotivated, #staysafe, #homesweethome, #timetoplayinside"
   - username: "pascalegli"
     fullname: >-
       PASCAL EGLI
     location: "Switzerland"
-    followers: 6753
-    engagement: 481
-    commentsToLikes: 0.018047
+    followers: 6885
+    engagement: 467
+    commentsToLikes: 0.017011
     id: ck6tyyceh6kcd0j71fkpu6ass
     verified: false
-    hashtags: "#siblingslove, #summit, #thankyou, #myswitzerland"
-  - username: "janvberkel"
+    hashtags: "#wearefairphone, #solidarity, #athome, #transvulcania"
+  - username: "aniahimsa"
     fullname: >-
-      Jan van Berkel
+      Anina | vegan + eco lifestyle
     location: "Switzerland"
-    followers: 10243
-    engagement: 873
-    commentsToLikes: 0.020329
-    id: ck15q8et61l650i19tq6ickfk
+    followers: 74675
+    engagement: 285
+    commentsToLikes: 0.055051
+    id: ck0vyo0mf4y1v0i19m1bn9fbo
     verified: false
-    hashtags: "#mondaymotivation, #runnershigh, #ironmanhawaii, #workoutwednesday"
-  - username: "___ariice___"
-    fullname: >-
-      Beatrice Cesari
-    location: "Switzerland"
-    followers: 2865
-    engagement: 2928
-    commentsToLikes: 0.169230
-    id: ck134d0z5vupd0i19qjontvad
-    verified: false
-    hashtags: "#agepositive, #dogwalks, #50plusblogger, #grazie"
-  - username: "selina_buechel"
-    fullname: >-
-      Selina Büchel
-    location: "Switzerland"
-    followers: 8470
-    engagement: 1237
-    commentsToLikes: 0.003279
-    id: ck5hea0l7ru7u0i11rtd1yw8l
-    verified: false
-    hashtags: "#montegordo, #goodcompany, #paradise, #lovethisgame"
-  - username: "kariemhussein"
-    fullname: >-
-      Kariem Hussein
-    location: "Switzerland"
-    followers: 17189
-    engagement: 717
-    commentsToLikes: 0.014190
-    id: ck5zoaosiq4u40i149y1oqs1s
-    verified: false
-    hashtags: "#leichtathletik, #myhomeworkout, #travel, #fashion"
-  - username: "kimmy_repond"
-    fullname: >-
-      Kimmy
-    location: "Switzerland"
-    followers: 82201
-    engagement: 244
-    commentsToLikes: 0.077007
-    id: ck134wg4ryite0i19bku73bq7
-    verified: false
-    hashtags: "#tiktokdance, #pattinaggio, #athleticperformance, #mindsetpx"
+    hashtags: "#wochenmarkt, #erdbeeren, #mood, #zerowastebad"
 ---

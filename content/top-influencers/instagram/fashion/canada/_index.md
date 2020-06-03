@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Canada In 2020
 description: >-
-  Find top fashion Instagram influencers in Canada in 2020. Most popular hashtags: #model #dailyhivestyle #fashionkilla #toronto.
+  Find top fashion Instagram influencers in Canada in 2020. Most popular hashtags: #ootd #fashion #fashiongram #stylepost.
 platform: Instagram
 profiles:
-  - username: "vanora.lo"
+  - username: "xox.loveandfashion"
     fullname: >-
-      VANORA LO | Vancouver
+      𝐆𝐥𝐞𝐧𝐧 & 𝐊𝐡𝐚𝐲 | Fashion 🇵🇭🇨🇦
     location: "Canada"
-    followers: 2211
-    engagement: 2644
-    commentsToLikes: 0.148548
-    id: ck6u7woqbo3bo0j71tq5w83f0
+    followers: 17539
+    engagement: 409
+    commentsToLikes: 0.123654
+    id: ck55ja79lwlq60i11r5nr177w
     verified: false
-    hashtags: "#vintagevibes, #fendivintage, #fashionbruh, #verre"
-  - username: "thestylishwordsmith"
+    hashtags: "#couplesconnect, #vancitywears, #coupleselfie, #sneakers"
+  - username: "sofsenisi"
     fullname: >-
-      debbie poh
+      Sof senisi👑💖✨
     location: "Canada"
-    followers: 16406
-    engagement: 892
-    commentsToLikes: 0.594812
-    id: ck14itmkxh4140i19bnzl0j3q
+    followers: 5384
+    engagement: 2239
+    commentsToLikes: 0.247767
+    id: ckap0fxu8q3qd0i781qxasrxq
     verified: false
-    hashtags: "#prettyinparisian, #thebeverlyhillshotel, #vancouverisawesome, #abeauty"
+    hashtags: "#collab, #goldenhour, #glowingskin, #ootd"
   - username: "alicedlee"
     fullname: >-
       𝓐𝓵𝓲𝓬𝓮
     location: "Canada"
-    followers: 35557
-    engagement: 783
-    commentsToLikes: 0.106644
+    followers: 35171
+    engagement: 757
+    commentsToLikes: 0.102569
     id: ck1364tzc4r480i19wyysbfic
     verified: false
-    hashtags: "#birthdayturnedintoproposal, #birthdaydinner, #monamourflowers, #fashionnovaambassador"
-  - username: "beingjulia_"
+    hashtags: "#monamourflowers, #fashionnovaambassador, #liketkit, #ootd"
+  - username: "lenswithoutacause"
     fullname: >-
-      Julia
+      Styles, Outfits, Fashion 👓
     location: "Canada"
-    followers: 5938
-    engagement: 2410
-    commentsToLikes: 0.173533
-    id: ck0vw213arr0n0i19hh5r731e
+    followers: 6715
+    engagement: 1221
+    commentsToLikes: 0.129228
+    id: ckapa03rru6bp0i78n4sfz2fq
     verified: false
-    hashtags: "#myanthropologie, #internationalwomensday, #ltkspring, #liketkit"
-  - username: "sinasalehi_pix"
-    fullname: >-
-      عکاس
-    location: "Canada"
-    followers: 5068
-    engagement: 1882
-    commentsToLikes: 0.075979
-    id: ck6u022tmd6y00j71vkzsi0mb
-    verified: false
-    hashtags: "#photoshop, #expersionism, #dailyfashionlooks, #lipstic"
-  - username: "simranahmed30"
-    fullname: >-
-      Simran Ahmed | Vancouver 🇨🇦
-    location: "Canada"
-    followers: 16853
-    engagement: 686
-    commentsToLikes: 0.646084
-    id: ck5q3gvq6koz10i11g628xc4w
-    verified: false
-    hashtags: "#contest, #giftcardgiveaway, #mysilknsolution, #tuesdayinspiration"
-  - username: "makeupbyliraz"
-    fullname: >-
-      Makeup By Liraz
-    location: "Canada"
-    followers: 84564
-    engagement: 504
-    commentsToLikes: 0.363870
-    id: ck8sx6vm8gcr60j78tm8otbs4
-    verified: false
-    hashtags: "#keepingitreal, #makeupgiveaway, #businessowner, #vaughn"
+    hashtags: "#selfiemen, #streetstyleman, #fashionforman, #greenshirts"
   - username: "shalini_matt"
     fullname: >-
       Shaluuu🌹
     location: "Canada"
-    followers: 2726
-    engagement: 2940
-    commentsToLikes: 0.091320
+    followers: 2746
+    engagement: 2812
+    commentsToLikes: 0.087200
     id: ck6uernicsp5o0j71ntftvyov
     verified: false
-    hashtags: "#models, #fashionnova, #fallshoots, #ootn"
+    hashtags: "#modelling, #photoshoot, #models, #flashbackformal"
+  - username: "vanora.lo"
+    fullname: >-
+      VANORA LO | Vancouver
+    location: "Canada"
+    followers: 2376
+    engagement: 2039
+    commentsToLikes: 0.187076
+    id: ck6u7woqbo3bo0j71tq5w83f0
+    verified: false
+    hashtags: "#skincarereviews, #whatiwore, #goldenhour, #aestheticpost"
   - username: "becrayonized"
     fullname: >-
       Patricia-Ann Que
     location: "Canada"
-    followers: 2827
-    engagement: 2558
-    commentsToLikes: 0.087311
+    followers: 2938
+    engagement: 3084
+    commentsToLikes: 0.086967
     id: ck5ceykr7lyxw0i11v8xy3e0x
     verified: false
-    hashtags: "#turban, #weekendlook, #thematrix, #pinafore"
+    hashtags: "#mood, #headwear, #pursuepretty, #longshorts"
+  - username: "beingjulia_"
+    fullname: >-
+      Julia
+    location: "Canada"
+    followers: 6077
+    engagement: 2391
+    commentsToLikes: 0.198815
+    id: ck0vw213arr0n0i19hh5r731e
+    verified: false
+    hashtags: "#myanthropologie, #anthropartner, #mejuri, #ltkunder100"
   - username: "mr_romeo._07"
     fullname: >-
       Matthew James Warris
     location: "Canada"
-    followers: 5685
-    engagement: 2222
-    commentsToLikes: 0.104095
+    followers: 5481
+    engagement: 2283
+    commentsToLikes: 0.099175
     id: ck8wfvl3fgbur0j78bynvwz1t
     verified: false
-    hashtags: "#fashionidea, #musically, #musicallyindia, #act"
+    hashtags: "#funny, #youtube, #halifax, #tiktokpakistan"
+  - username: "samhz"
+    fullname: >-
+      SAM HOSHIZAKI
+    location: "Canada"
+    followers: 11276
+    engagement: 2224
+    commentsToLikes: 0.043842
+    id: ck5q1x1uld76n0i11nycgzmfr
+    verified: false
+    hashtags: "#stayhome"
 ---

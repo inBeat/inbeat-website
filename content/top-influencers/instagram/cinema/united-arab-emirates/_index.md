@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cinema Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top cinema Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubai #dubailife #uae #cinematography.
+  Find top cinema Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #love #dubaimall #fashion #photographer.
 platform: Instagram
 profiles:
   - username: "zaki.oukazi"
     fullname: >-
       Zakarya Oukazi
     location: "United Arab Emirates"
-    followers: 10585
-    engagement: 659
-    commentsToLikes: 0.031439
+    followers: 10605
+    engagement: 661
+    commentsToLikes: 0.040747
     id: ck6tm5j3q77vg0j71aohse8xu
     verified: false
-    hashtags: "#visuals, #bangtkharbicha, #perspective, #blackblondehair"
-  - username: "tomlebaric"
+    hashtags: "#outfit, #videoclip, #downtown, #dreads"
+  - username: "alhadithyphotography"
     fullname: >-
-      cinematographer.ae
+      ابراهيم الحديثيAlhadithy.
     location: "United Arab Emirates"
-    followers: 11941
-    engagement: 506
-    commentsToLikes: 0.006770
-    id: ck5c6i52b5hhm0i11b3nn0w27
+    followers: 44854
+    engagement: 102
+    commentsToLikes: 0.032318
+    id: ck0vy8vkz2soj0i19sw7upcap
     verified: false
-    hashtags: "#dubaitrinityoperator, #filmsetdubai, #soa, #underwatercameraman"
+    hashtags: "#maroc, #weddingday, #saudigoldph, #hautecouture"
   - username: "awaisjavedphotography"
     fullname: >-
       Awais Javed Photography
     location: "United Arab Emirates"
-    followers: 140843
-    engagement: 51
-    commentsToLikes: 0.002514
+    followers: 139924
+    engagement: 64
+    commentsToLikes: 0.005253
     id: ck13ci3pj0gk90i195oqjeb62
     verified: false
-    hashtags: "#instashot, #pakistanifashion, #awaisjaved, #love"
-  - username: "larstegelaars"
+    hashtags: "#eidmubarak, #eid2020, #eidgifts, #royal"
+  - username: "tomlebaric"
     fullname: >-
-      Lars Tegelaars
+      cinematographer.ae
     location: "United Arab Emirates"
-    followers: 19761
-    engagement: 443
-    commentsToLikes: 0.070873
-    id: ck0w4d6vcy01j0i19qv09d2h2
+    followers: 13150
+    engagement: 478
+    commentsToLikes: 0.007949
+    id: ck5c6i52b5hhm0i11b3nn0w27
     verified: false
-    hashtags: "#mensfashiondaily, #bestofmenstyle, #bodyandfit, #corona"
-  - username: "i_4hmad"
+    hashtags: "#tiffencompany, #underwatercameraman, #dubaidroneoperator, #mbcdrama"
+  - username: "serg_z_film"
     fullname: >-
-      Ahmad Ebadi | احمد عبادی
+      Serg Z
     location: "United Arab Emirates"
-    followers: 24090
-    engagement: 731
-    commentsToLikes: 0.020945
-    id: ck15sbbmgc57l0i19xexdqsh6
-    verified: false
-    hashtags: "#portraitstream, #retouching, #wedding, #beautygirl"
-  - username: "rima.mayyas"
-    fullname: >-
-      ريما ميّاس🕊
-    location: "United Arab Emirates"
-    followers: 33879
-    engagement: 224
-    commentsToLikes: 0.042799
-    id: ck14j33nuidwy0i19fbil9k93
-    verified: false
-    hashtags: "#green, #hairstyles, #photoshoot, #fashion"
-  - username: "zet_flix"
-    fullname: >-
-      Sergei Zvorygin
-    location: "United Arab Emirates"
-    followers: 10384
-    engagement: 1031
-    commentsToLikes: 0.018873
+    followers: 10199
+    engagement: 1047
+    commentsToLikes: 0.018664
     id: ck5pymi8dwqhu0i11wzbj8jec
     verified: false
-    hashtags: "#vocation, #dubai, #stoplie, #dubaimarina"
-  - username: "behzad.rad"
+    hashtags: "#goodvibes, #audi, #stoplie, #movie"
+  - username: "shirinvandort"
     fullname: >-
-      Behzad Dubai Photographer 🇦🇪
+      Shirin Van Dort
     location: "United Arab Emirates"
-    followers: 93611
-    engagement: 116
-    commentsToLikes: 0.081110
-    id: ck5hpoi4nrpjh0i113cojr3vm
+    followers: 180690
+    engagement: 33
+    commentsToLikes: 0.078938
+    id: ck136qf9z7r2d0i191qfnrwx2
     verified: false
-    hashtags: "#tommyhilfiger, #fashioninspo, #dubaiblogger, #photographerdubai"
-  - username: "rahul.bejjarapu"
-    fullname: >-
-      R A H U L • B E J J A R A P U
-    location: "United Arab Emirates"
-    followers: 5078
-    engagement: 6794
-    commentsToLikes: 0.007663
-    id: ck14ict4qeryc0i19ymz0pcy4
-    verified: false
-    hashtags: "#alseef, #zaraman, #photoftheday, #kannada"
+    hashtags: "#fashionblogger, #looseglitter, #buynyxonline, #selfies"
   - username: "dima.aljundi"
     fullname: >-
       Dima Aljundi
     location: "United Arab Emirates"
-    followers: 1057330
-    engagement: 164
-    commentsToLikes: 0.021402
+    followers: 1055531
+    engagement: 166
+    commentsToLikes: 0.021349
     id: ck5zqup5zvbsu0i14pyok4t1a
     verified: true
-    hashtags: "#mybirthday, #dima, #birthdaygirl, #dance"
+    hashtags: "#thea, #dance, #newyear, #myeverything"
+  - username: "anastasiya_pogyba"
+    fullname: >-
+      • 𝓐𝓷𝓪𝓼𝓽𝓪𝓼𝓲𝔂𝓪  𝓟𝓸𝓰𝔂𝓫𝓪 •
+    location: "United Arab Emirates"
+    followers: 5022
+    engagement: 500
+    commentsToLikes: 0.015753
+    id: ck5hhst189wou0i11be3mkkas
+    verified: false
+    hashtags: "#acaibowl, #studioshoots, #dubaiopera, #bestcoffeeindubai"
+  - username: "_mustafasyed_"
+    fullname: >-
+      Mustafa Syed | MSP
+    location: "United Arab Emirates"
+    followers: 17571
+    engagement: 393
+    commentsToLikes: 0.051588
+    id: ck136y40v8twu0i19kaauuqz2
+    verified: false
+    hashtags: "#theimaged, #picsdubai, #dailycaptures, #horsepower"
+  - username: "behzad.rad"
+    fullname: >-
+      Behzad Photographer 🇦🇪
+    location: "United Arab Emirates"
+    followers: 93263
+    engagement: 101
+    commentsToLikes: 0.072860
+    id: ck5hpoi4nrpjh0i113cojr3vm
+    verified: false
+    hashtags: "#bikini, #sepandarmazgan, #quarantine, #humanedge"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Italy In 2020
 description: >-
-  Find top cinema Instagram influencers in Italy in 2020. Most popular hashtags: #iorestoacasa #adv #milano #coronavirusitaly.
+  Find top cinema Instagram influencers in Italy in 2020. Most popular hashtags: #quarantine #quarantena #photooftheday #earthday.
 platform: Instagram
 profiles:
-  - username: "vittoria_schisano"
+  - username: "daniele.davi"
     fullname: >-
-      Vittoria Schisano
+      Daniele Daví
     location: "Italy"
-    followers: 44797
-    engagement: 278
-    commentsToLikes: 0.057553
-    id: ck8t45pev5lhx0j78fg0t06fn
+    followers: 465559
+    engagement: 1397
+    commentsToLikes: 0.025062
+    id: ck8wescqdejjx0j78e46z11c8
     verified: false
-    hashtags: "#rome, #buonadomenica, #morning, #carpet"
-  - username: "franciseme"
+    hashtags: ""
+  - username: "sofi_baranovskaya"
     fullname: >-
-      Francesca Semenza
+      🆂🅾🅵🅸  🅱🅰🆁🅰🅽🅾🆅🆂🅺🅰🆈🅰 ✌🏼
     location: "Italy"
-    followers: 36040
-    engagement: 278
-    commentsToLikes: 0.058001
-    id: ck5hrjswsuzhu0i118xxe94y4
+    followers: 6948
+    engagement: 959
+    commentsToLikes: 0.189616
+    id: ckaozf3uillrj0i781zh88pyt
     verified: false
-    hashtags: "#blackandwhite, #photography, #tuscany, #shoot"
-  - username: "dexter___89"
-    fullname: >-
-      Gianluca (Dexter)
-    location: "Italy"
-    followers: 8822
-    engagement: 1581
-    commentsToLikes: 0.026439
-    id: ck15q1qu80ols0i19okirssga
-    verified: false
-    hashtags: "#jackbonaventura, #argentina, #weareacmilan, #weareateam"
-  - username: "iamwinter"
-    fullname: >-
-      Paolo Barretta
-    location: "Italy"
-    followers: 90381
-    engagement: 795
-    commentsToLikes: 0.012605
-    id: ck0w0gkjge34k0i19xk370sth
-    verified: false
-    hashtags: "#staythefuckhome, #istayhome, #myquarantine"
+    hashtags: "#pillowchallenge, #loveis, #quarantinelife, #buonaquarantena"
   - username: "alenaseredova"
     fullname: >-
       Alena Šeredová
     location: "Italy"
-    followers: 480390
-    engagement: 328
-    commentsToLikes: 0.023001
+    followers: 523542
+    engagement: 491
+    commentsToLikes: 0.024839
     id: ck14gluh75uvv0i1957zbz4jv
     verified: true
-    hashtags: "#vsichnipohromade, #selfieconlalucegiusta, #ad, #primavera"
-  - username: "thereal_giorgia"
+    hashtags: "#25aprile, #gift, #1maggio, #prvnimaj"
+  - username: "dexter___89"
     fullname: >-
-      Giorgia Gianetiempo
+      Gianluca (Dexter)
     location: "Italy"
-    followers: 164836
-    engagement: 695
-    commentsToLikes: 0.009264
-    id: ck14htds4c1fa0i19stsncy8q
-    verified: true
-    hashtags: "#bringhome, #finteofalsies, #adv, #suppliedby"
-  - username: "andreadianetti"
-    fullname: >-
-      ANDREA DIANETTI
-    location: "Italy"
-    followers: 252924
-    engagement: 470
-    commentsToLikes: 0.015291
-    id: ck5cg3fleo3ny0i11mbytia3y
-    verified: true
-    hashtags: "#cioccolata, #film, #dollypartonchallenge, #brotherhood"
-  - username: "miriam_denicolo"
-    fullname: >-
-      Miriam
-    location: "Italy"
-    followers: 41869
-    engagement: 121
-    commentsToLikes: 0.261871
-    id: ck6uc5nr5dnx20j71iaz9vl3q
+    followers: 8645
+    engagement: 1445
+    commentsToLikes: 0.025828
+    id: ck15q1qu80ols0i19okirssga
     verified: false
-    hashtags: "#coronavirus, #lipstick, #bag, #pensieridellamezzanotte"
+    hashtags: "#pasquetta, #coronavirus, #italia, #morgan"
+  - username: "franciseme"
+    fullname: >-
+      Francesca Semenza
+    location: "Italy"
+    followers: 35794
+    engagement: 272
+    commentsToLikes: 0.064925
+    id: ck5hrjswsuzhu0i118xxe94y4
+    verified: false
+    hashtags: "#movie, #fitgirl, #gymtime, #sunglasses"
+  - username: "jurgita.jakstaite"
+    fullname: >-
+      Jurgita Jakstaite
+    location: "Italy"
+    followers: 4618
+    engagement: 2250
+    commentsToLikes: 0.078291
+    id: ckaosfmrhreme0i78jspdo8pg
+    verified: false
+    hashtags: "#rwanda, #israel, #southafrica, #namibia"
+  - username: "__meggola"
+    fullname: >-
+      Margherita
+    location: "Italy"
+    followers: 4685
+    engagement: 1219
+    commentsToLikes: 0.234485
+    id: ckaotw0mkxr500i78fw1rbqrr
+    verified: false
+    hashtags: "#capelli, #lazio, #quarantena, #viso"
+  - username: "carment93"
+    fullname: >-
+      Carmen Testa 🌸
+    location: "Italy"
+    followers: 15930
+    engagement: 1008
+    commentsToLikes: 0.055839
+    id: ck8syf32fkneo0j78v2nkoosr
+    verified: false
+    hashtags: "#adventure, #mayycosmetics, #cosmetics, #lifestyle"
+  - username: "iamwinter"
+    fullname: >-
+      Paolo Barretta
+    location: "Italy"
+    followers: 91218
+    engagement: 773
+    commentsToLikes: 0.012513
+    id: ck0w0gkjge34k0i19xk370sth
+    verified: false
+    hashtags: "#staythefuckhome, #istayhome, #myquarantine"
   - username: "annasafroncik"
     fullname: >-
       Anna Safroncik
     location: "Italy"
-    followers: 468878
-    engagement: 397
-    commentsToLikes: 0.013762
+    followers: 484938
+    engagement: 516
+    commentsToLikes: 0.016278
     id: ck15s9dgrbvzf0i19gg2b558m
     verified: true
-    hashtags: "#healthylifestyle, #portraits, #omathome, #casa"
-  - username: "picchiopicchiato"
-    fullname: >-
-      Pietro Masotti
-    location: "Italy"
-    followers: 21242
-    engagement: 1443
-    commentsToLikes: 0.024385
-    id: ck6u1tl98nt1q0j71512ha00j
-    verified: false
-    hashtags: "#quarantena, #noinonsiamocontagiosi, #ricordi, #teatro"
+    hashtags: "#primevideoit, #nomakeup, #rinascita, #finally"
 ---

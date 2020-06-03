@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Sydney In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Sydney in 2020. Most popular hashtags: #makeup #love #makeupartist #fashion.
+  Find top cosmetics Instagram influencers in Sydney in 2020. Most popular hashtags: #beauty #beach #shoot #house.
 platform: Instagram
 profiles:
-  - username: "barbara_nogo"
-    fullname: >-
-      ♔ 𝓑𝓪𝓻𝓫𝓲𝓮 ♔
-    location: "Australia"
-    followers: 108477
-    engagement: 415
-    commentsToLikes: 0.046147
-    id: ck1343srauk5g0i19f7i17gej
-    verified: false
-    hashtags: "#byebmw, #mbsydney, #womeninbusiness, #60"
-  - username: "aimankhawarr"
-    fullname: >-
-      Aiman Daniyal ||🌹
-    location: "Australia"
-    followers: 5139
-    engagement: 1246
-    commentsToLikes: 0.220370
-    id: ck6u0iqdefxd80j71e0ffkqlw
-    verified: false
-    hashtags: "#eyelooks, #fashion, #instagram, #fooddiaries"
   - username: "christinaplay"
     fullname: >-
       CHRISTINA
     location: "Australia"
-    followers: 62712
-    engagement: 156
-    commentsToLikes: 0.068968
+    followers: 61851
+    engagement: 151
+    commentsToLikes: 0.069283
     id: ck6tt4uzh8m0b0j716j3egmpo
     verified: false
-    hashtags: "#datenight, #wife, #nye2020, #couplegoals"
-  - username: "i.am.browngirl"
+    hashtags: "#glow, #roomdecor, #pool, #firstchristmas"
+  - username: "barbara_nogo"
     fullname: >-
-      ____Browngirl.Barsha
+      ♔ 𝓑𝓪𝓻𝓫𝓲𝓮 ♔
     location: "Australia"
-    followers: 16591
-    engagement: 181
-    commentsToLikes: 0.098051
-    id: ck5zwec4f5zbj0i14tf4gmef9
+    followers: 107813
+    engagement: 417
+    commentsToLikes: 0.046147
+    id: ck1343srauk5g0i19f7i17gej
     verified: false
-    hashtags: "#makeupideas, #modeling, #beauty, #igtv"
+    hashtags: "#mercedesbenzstarlounge, #a250amg, #byebmw, #mbsydney"
+  - username: "mitch.greer"
+    fullname: >-
+      M I T C H   G R E E R
+    location: "Australia"
+    followers: 26279
+    engagement: 488
+    commentsToLikes: 0.038584
+    id: ckapcg8x63op70i78pttbjv69
+    verified: false
+    hashtags: "#dysonhair, #workingwithdyson, #luxuryforprincess"
   - username: "helensmakeupartist"
     fullname: >-
       Helen Samaryan - Makeup Artist
     location: "Australia"
-    followers: 26940
-    engagement: 224
-    commentsToLikes: 0.029762
+    followers: 27270
+    engagement: 290
+    commentsToLikes: 0.036978
     id: ck5hkgs6cie2z0i11gsku50l7
     verified: false
-    hashtags: "#freelancemua, #glassskin, #esteelauder, #bridalmakeupartist"
+    hashtags: "#wedding, #esteelauder, #meccamoment, #bronzemakeup"
   - username: "suziemcintosh"
     fullname: >-
-      Suzie Mcintosh
+      Suzie Mcintosh Brows ®
     location: "Australia"
-    followers: 43739
-    engagement: 106
-    commentsToLikes: 0.088377
+    followers: 43549
+    engagement: 109
+    commentsToLikes: 0.092189
     id: ck14hxh8acmnr0i19dysbyjo8
     verified: false
-    hashtags: "#covid, #naturalbeauty, #worthit, #healedfeathering"
-  - username: "makeup.by.debs"
+    hashtags: "#wowbrows, #glowup, #bosslady, #bootybuilding"
+  - username: "alexperrinmua"
     fullname: >-
-      MAKEUP SKINCARE BEAUTY
+      SYDNEY MAKEUP ARTIST
     location: "Australia"
-    followers: 19533
-    engagement: 219
-    commentsToLikes: 0.252526
-    id: ck134pkdwxky30i19zoarlte1
+    followers: 35194
+    engagement: 165
+    commentsToLikes: 0.081819
+    id: ck0uby0mxfk9y0i19oyzbeduy
     verified: false
-    hashtags: "#foundation, #hydration, #innisfreeaustralia, #cleanser"
+    hashtags: "#foxyeyes"
   - username: "zachope"
     fullname: >-
       Zac Hope
     location: "Australia"
-    followers: 4734
-    engagement: 1268
-    commentsToLikes: 0.032545
+    followers: 5203
+    engagement: 1333
+    commentsToLikes: 0.047595
     id: ck14kypv5rzue0i19atg0eknx
     verified: false
-    hashtags: "#heart, #shred, #trainer, #stuckinside"
-  - username: "krystal.brooke"
+    hashtags: "#hiit, #puppylove, #trainingathome, #evil"
+  - username: "makeup.by.debs"
     fullname: >-
-      KRYSTAL
+      MAKEUP SKINCARE BEAUTY
     location: "Australia"
-    followers: 30556
-    engagement: 106
-    commentsToLikes: 0.130403
-    id: ck0u06vdisued0i19uv082eye
+    followers: 19784
+    engagement: 268
+    commentsToLikes: 0.319226
+    id: ck134pkdwxky30i19zoarlte1
     verified: false
-    hashtags: "#homeworkouts, #fitnesstransformation, #vscomom, #fashiondiaries"
-  - username: "dr.davidattia"
+    hashtags: "#makeupaustralia, #lipgloss, #creamcleanser, #acneproneskin"
+  - username: "aimankhawarr"
     fullname: >-
-      Dr David Attia
+      Aiman Daniyal ||🌹 Sydney
     location: "Australia"
-    followers: 17190
-    engagement: 164
-    commentsToLikes: 0.169038
-    id: ck5q5w724uuel0i11wtpf1fx3
+    followers: 7864
+    engagement: 964
+    commentsToLikes: 0.345028
+    id: ck6u0iqdefxd80j71e0ffkqlw
     verified: false
-    hashtags: "#photooftheday, #beforeandafter, #dentaleducation, #makefggsgreatagain"
+    hashtags: "#review, #sydneymakeup, #brisbane, #netflixandchill"
+  - username: "astridelken"
+    fullname: >-
+      Astrid Elken 🦋
+    location: "Australia"
+    followers: 33917
+    engagement: 374
+    commentsToLikes: 0.028630
+    id: ck5c6p40e5whw0i11q6n6v919
+    verified: false
+    hashtags: "#swimmers, #healthyfood, #spontaneous, #sunset"
 ---

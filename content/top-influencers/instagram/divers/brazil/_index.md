@@ -1,107 +1,107 @@
 ---
 title: Top 10 Divers Instagram Influencers In Brazil In 2020
 description: >-
-  Find top divers Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #diversidade #inclusao #inclus.
+  Find top divers Instagram influencers in Brazil in 2020. Most popular hashtags: #fiqueemcasa # #quarentine #stayhome.
 platform: Instagram
 profiles:
+  - username: "jaixbooks"
+    fullname: >-
+      Jai | Aprendi Com os Livros 📚
+    location: "Brazil"
+    followers: 9432
+    engagement: 1911
+    commentsToLikes: 0.637676
+    id: ckaoxp66pe7dw0i78phxwomru
+    verified: false
+    hashtags: "#jaixresenha, #osoldameianoite, #midnightsun, #annedegreengables"
+  - username: "beatrice"
+    fullname: >-
+      Beatrice Stopa
+    location: "Brazil"
+    followers: 42625
+    engagement: 272
+    commentsToLikes: 0.198230
+    id: ck0vwf3chte2b0i19ilgilit8
+    verified: false
+    hashtags: "#tbt, #mirandapriestly, #justinbieber, #abraceseupet"
+  - username: "mundodamariapaula33"
+    fullname: >-
+      MARIA PAULA COUTINHO 💓
+    location: "Brazil"
+    followers: 41439
+    engagement: 267
+    commentsToLikes: 1.327994
+    id: ck8t934xfmsnx0j78o79xl1vc
+    verified: false
+    hashtags: "#instaphoto, #frio, #inverno, #maternidadereal"
   - username: "mari_mep"
     fullname: >-
       Maristela
     location: "Brazil"
-    followers: 2634
-    engagement: 1966
-    commentsToLikes: 0.102909
+    followers: 2597
+    engagement: 1992
+    commentsToLikes: 0.102503
     id: ck8t8wlkvm48e0j78rccfe836
     verified: false
-    hashtags: "#carnario, #minasgerais, #sheisnotlost, #meurio"
+    hashtags: "#blackgirl, #instabeach, #sunset, #stayhome"
   - username: "dea_schwarz"
     fullname: >-
       Andrea Schwarz
     location: "Brazil"
-    followers: 5894
-    engagement: 581
-    commentsToLikes: 0.087909
+    followers: 11970
+    engagement: 669
+    commentsToLikes: 0.104295
     id: ck8t40p5g55he0j78swmytdwh
     verified: false
-    hashtags: "#empatia, #personalidadeforte, #belezanatural, #novashabilidades"
-  - username: "downlicia_oficial"
+    hashtags: "#resiliencia, #novonormal, #felicidade, #trip"
+  - username: "laucpatron"
     fullname: >-
-      DOWNLICIA | Gabriel Bernardes
+      Lau Patrón
     location: "Brazil"
-    followers: 70408
-    engagement: 148
-    commentsToLikes: 0.078978
-    id: ck5btdz86fso60i110mh4slql
+    followers: 28433
+    engagement: 614
+    commentsToLikes: 0.038537
+    id: ck5zpchavsf410i14glcuu9kp
     verified: false
-    hashtags: "#inclusion, #inclus, #eventocorporativo, #memebrasil"
-  - username: "orlandices"
+    hashtags: ""
+  - username: "dinafernandes"
     fullname: >-
-      MARINA - Orlandices
+      Se fala dína, e não diná ✨
     location: "Brazil"
-    followers: 76328
-    engagement: 120
-    commentsToLikes: 0.070815
-    id: ck0w0ps4jffvv0i19h1ndio2g
+    followers: 15661
+    engagement: 514
+    commentsToLikes: 0.061061
+    id: ck8t0sstct68m0j78hvphh2jd
     verified: false
-    hashtags: "#minniemouse, #coronavirus, #isolamentosocial, #happyanniversary"
-  - username: "kate_feet"
+    hashtags: "#carnaval, #sambodromo, #makeupartist, #brazil"
+  - username: "claud1o_"
     fullname: >-
-      👑Katia Marques
+      Claudio Ribeiro
     location: "Brazil"
-    followers: 53435
-    engagement: 184
-    commentsToLikes: 0.041351
-    id: ck8t7gwb2gr6f0j78ynwwarhw
+    followers: 20491
+    engagement: 405
+    commentsToLikes: 0.061449
+    id: ck9weu8rjluxi0j78kj1kas1z
     verified: false
-    hashtags: "#tbt"
-  - username: "felipesaab"
+    hashtags: "#happy, #bestofday, #riodejaneiro, #tweegram"
+  - username: "paulodivulgador"
     fullname: >-
-      Felipe Saab
+      Paulo Bragança | O Divulgador
     location: "Brazil"
-    followers: 63357
-    engagement: 332
-    commentsToLikes: 0.037254
-    id: ck0tu7znu5zw20i19ye4r3rkr
-    verified: true
-    hashtags: "#tbt, #domingou, #honeymoon, #selfiepelomundo"
-  - username: "blogdoprince"
-    fullname: >-
-      Ary, mãe de Prince
-    location: "Brazil"
-    followers: 21290
-    engagement: 268
-    commentsToLikes: 0.098777
-    id: ck15plij0yhaw0i19xjrbcj2e
+    followers: 62715
+    engagement: 136
+    commentsToLikes: 0.091519
+    id: ck8tcgcoazdlq0j78gnhnzudb
     verified: false
-    hashtags: "#talpaitalfilho, #18meses, #diadospais, #vestiutapronto"
-  - username: "hey_wellington"
+    hashtags: "#estilomasculino, #teamodivulgador, #lavanderia, #sextou"
+  - username: "princesa_sophiafranco"
     fullname: >-
-      TIMEDBEGAMER🛸👽🕹
+      Sophia Franco
     location: "Brazil"
-    followers: 9782
-    engagement: 1982
-    commentsToLikes: 0.090281
-    id: ck5q4pltepu7q0i11nnj4kgmw
+    followers: 35806
+    engagement: 125
+    commentsToLikes: 0.432209
+    id: ckaosv8q4t5wd0i78om9alkgj
     verified: false
-    hashtags: "#instagamers, #ps4gaming, #nerds, #deathstranding"
-  - username: "mauronakada"
-    fullname: >-
-      Mauro Nakada
-    location: "Brazil"
-    followers: 1509144
-    engagement: 250
-    commentsToLikes: 0.008147
-    id: ck5zyd6cg9nzo0i14izadyt2j
-    verified: true
-    hashtags: "#ad, #tbt, #shotoniphone, #publi"
-  - username: "danibortman"
-    fullname: >-
-      Dra. Daniela Bortman
-    location: "Brazil"
-    followers: 2987
-    engagement: 1132
-    commentsToLikes: 0.065249
-    id: ck5bxrzspob870i118camwfor
-    verified: false
-    hashtags: "#southafricatrip, #danielabortman, #trabalho, #inclusaosocial"
+    hashtags: ""
 ---

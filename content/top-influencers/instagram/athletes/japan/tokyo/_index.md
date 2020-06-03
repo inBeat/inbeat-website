@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top athletes Instagram influencers in Tokyo in 2020. Most popular hashtags: #tokyo #japan #tokyo2020 #workout.
+  Find top athletes Instagram influencers in Tokyo in 2020. Most popular hashtags: #japan #tokyo #repost #cycling.
 platform: Instagram
 profiles:
-  - username: "parasapo"
-    fullname: >-
-      パラサポ公式
-    location: "Japan"
-    followers: 13216
-    engagement: 512
-    commentsToLikes: 0.001019
-    id: ck6tw1ls2phiy0j714yklhyoe
-    verified: false
-    hashtags: "#cameragirl, #inclusion, #braille, #robot"
   - username: "cfowl22"
     fullname: >-
       Cory Fowler
     location: "Japan"
-    followers: 6663
-    engagement: 990
-    commentsToLikes: 0.017424
+    followers: 6589
+    engagement: 952
+    commentsToLikes: 0.016233
     id: ck0tskwuj07nu0i19gko2uqyn
     verified: false
-    hashtags: "#throwback, #cosplaybabes, #honeylemon, #pokemon"
-  - username: "emiyanagimoto"
+    hashtags: "#japan, #triton, #airforce, #johnstewert"
+  - username: "christoph_hanke"
     fullname: >-
-      えみりー/柳本 絵美(Emi Yanagimoto)
+      Christoph Hanke
     location: "Japan"
-    followers: 44590
-    engagement: 363
-    commentsToLikes: 0.010433
-    id: ck5hopgi2pzgm0i116dxszsz7
-    verified: true
-    hashtags: "#positivequotes, #vqfitwomen, #iamvanquish, #tokyo"
+    followers: 6265
+    engagement: 711
+    commentsToLikes: 0.012879
+    id: ck55jts4sxq9e0i11tc0ftj93
+    verified: false
+    hashtags: "#beatiful, #city, #bouldering, #muscles"
+  - username: "jorgefonsca"
+    fullname: >-
+      World Champion Tokyo 2019 🇵🇹
+    location: "Japan"
+    followers: 26494
+    engagement: 842
+    commentsToLikes: 0.009915
+    id: ck0ue30d3kg6w0i19opwivpeu
+    verified: false
+    hashtags: "#saynotoracism, #naoaoracismo, #umhomemtbchora, #stayathome"
   - username: "arslan.ash"
     fullname: >-
       Arslan Ash
     location: "Japan"
-    followers: 12851
-    engagement: 1576
-    commentsToLikes: 0.018834
+    followers: 13660
+    engagement: 1527
+    commentsToLikes: 0.018305
     id: ck5ca4ukccp270i114mctkl2v
     verified: false
-    hashtags: "#awesomeisforeveryone, #kingoffighter, #newyork, #arslanash"
-  - username: "bjorndunkerbeck"
+    hashtags: "#sundaymotovation, #redbullpakistan, #emaadirfani, #twitchstream"
+  - username: "taka_volatricks"
     fullname: >-
-      Björn Dunkerbeck
+      Takahiro Enomoto
     location: "Japan"
-    followers: 29546
-    engagement: 423
-    commentsToLikes: 0.009346
-    id: ck0w009xabr5k0i194pe6g5pn
+    followers: 59412
+    engagement: 543
+    commentsToLikes: 0.021962
+    id: ck0w3sbyhv0kf0i197a2g4slb
     verified: false
-    hashtags: "#film, #photos, #youtube, #avboards"
+    hashtags: "#takeover, #pr, #stayhome, #prst"
   - username: "pkcorkytk"
     fullname: >-
       Corky_uu_jiyo
     location: "Japan"
-    followers: 13524
-    engagement: 1380
-    commentsToLikes: 0.018251
+    followers: 13581
+    engagement: 916
+    commentsToLikes: 0.019197
     id: ck0tyqlc8nt0k0i19ziv4ej77
     verified: false
-    hashtags: "#if, #freerunlife, #impact, #more"
+    hashtags: "#actually, #football, #kong, #nagoya"
   - username: "noguchi_akiyo"
     fullname: >-
       NoguchiAkiyo / 野口啓代 / のぐちあきよ
     location: "Japan"
-    followers: 118389
-    engagement: 515
-    commentsToLikes: 0.004567
+    followers: 119402
+    engagement: 500
+    commentsToLikes: 0.006136
     id: ck0tw7ynyeavg0i19a2sgvvf3
     verified: true
-    hashtags: "#zeta, #hypervoltplus, #olympic, #catstagram"
-  - username: "koennaert"
+    hashtags: "#stayhome, #tbt, #officialvideogame, #play2020"
+  - username: "ayayumin0725"
     fullname: >-
-      Koen Naert
+      植草歩 uekusa ayumi
     location: "Japan"
-    followers: 12010
-    engagement: 937
-    commentsToLikes: 0.020360
-    id: ck5hp90spqye80i11717hlbhs
-    verified: false
-    hashtags: "#moretocome, #asicseurope, #nature, #basecamp"
-  - username: "ayaka_zombie"
+    followers: 44249
+    engagement: 607
+    commentsToLikes: 0.021348
+    id: ck5cfivthn1uc0i11tbf7u5ad
+    verified: true
+    hashtags: "#happymothersday, #adidas, #eggsnthings, #repost"
+  - username: "peterhughdavis"
     fullname: >-
-      三浦彩佳 Ayaka zombie Miura🇯🇵
+      🇲🇾 Pistol Pete 🇬🇧
     location: "Japan"
-    followers: 15707
-    engagement: 724
-    commentsToLikes: 0.013105
-    id: ck5hjraonh44p0i11ww8lhdas
-    verified: false
-    hashtags: "#atlete, #ayauamiura, #k1, #ske48"
-  - username: "_natsumitakeda_"
+    followers: 38356
+    engagement: 162
+    commentsToLikes: 0.089263
+    id: ck134fmy3w77o0i194nv4in5z
+    verified: true
+    hashtags: "#roadcycling, #localloop, #jumpstart, #trainingdummy"
+  - username: "sloveniaolympicteam"
     fullname: >-
-      Natsumi Takeda / 武田奈津美
+      Slovenia Olympic Team
     location: "Japan"
-    followers: 50346
-    engagement: 335
-    commentsToLikes: 0.022540
-    id: ck15s4wf8b8qe0i19kk4sfw6i
-    verified: false
-    hashtags: "#medicalflow, #jrskiski, #factorygirl, #bodymake"
+    followers: 23521
+    engagement: 124
+    commentsToLikes: 0.002176
+    id: ck5hfxrfrzvu50i116vh9wzgw
+    verified: true
+    hashtags: "#miroslavcerar, #gimnastika, #tokio, #kolajna"
 ---

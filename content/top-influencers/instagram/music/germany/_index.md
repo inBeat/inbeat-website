@@ -1,107 +1,107 @@
 ---
 title: Top 10 Music Instagram Influencers In Germany In 2020
 description: >-
-  Find top music Instagram influencers in Germany in 2020. Most popular hashtags: #love #fashion #happy #selfie.
+  Find top music Instagram influencers in Germany in 2020. Most popular hashtags: #selfie #staysafe #singing #festival.
 platform: Instagram
 profiles:
+  - username: "leon.gartmann"
+    fullname: >-
+      Leon🌹
+    location: "Germany"
+    followers: 146083
+    engagement: 1335
+    commentsToLikes: 0.073241
+    id: ck6u1939qkc2g0j71zah4tecc
+    verified: false
+    hashtags: "#smile, #stayathome, #picyajob, #gewinnen"
+  - username: "juliaa___07"
+    fullname: >-
+      Julia  ❥
+    location: "Germany"
+    followers: 50023
+    engagement: 1622
+    commentsToLikes: 0.045667
+    id: ck0ubezlgee010i19y28tza0t
+    verified: false
+    hashtags: "#blondehair, #outfit, #beyourself, #pictureoftheday"
   - username: "katharina_eisenblut_"
     fullname: >-
       ⇢ Katharina Eisenblut  ⇠
     location: "Germany"
-    followers: 81163
-    engagement: 654
-    commentsToLikes: 0.076127
+    followers: 86822
+    engagement: 642
+    commentsToLikes: 0.077458
     id: ck15ru07r9p3j0i198sl1g2i2
     verified: false
-    hashtags: "#gl, #cute, #allinblack, #selfie"
-  - username: "saengerin_melina"
+    hashtags: "#rosa, #frankfurtcity, #white, #dsds2020"
+  - username: "fepaka"
     fullname: >-
-      𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄 ▪️𝐌𝐔𝐒𝐈𝐂 ▪️𝐈𝐍𝐒𝐏𝐎
+      FELICITAS PAULA KADELKE
     location: "Germany"
-    followers: 3235
-    engagement: 3966
-    commentsToLikes: 0.337761
-    id: ck8t1t0sjwwuf0j78b5kn1wqk
+    followers: 6270
+    engagement: 1279
+    commentsToLikes: 0.098737
+    id: ckaotimdow2qd0i781nrqen5m
     verified: false
-    hashtags: "#liketimes, #safety, #aprilm, #monday"
+    hashtags: "#instadaily, #photohunted, #portraits, #training"
   - username: "denniszwickert"
     fullname: >-
       Musician | Dennis | 🇩🇪🇬🇧
     location: "Germany"
-    followers: 5363
-    engagement: 1284
-    commentsToLikes: 0.142548
+    followers: 6508
+    engagement: 1247
+    commentsToLikes: 0.130517
     id: ck5zq4cbytwue0i14e2zlw12e
     verified: false
-    hashtags: "#love, #musicmaker, #studio, #magdeburger"
-  - username: "kristinashloma.official"
+    hashtags: "#amazongutschein, #whateverittakes, #lauv, #ostern"
+  - username: "bramboender"
     fullname: >-
-      KRISTINA SHLOMA 🎤 DSDS 2020
+      Ⲃⲅⲇⲙ Ⲃⲟⲉⲛ𝖽ⲉⲅ 🎶
     location: "Germany"
-    followers: 6216
-    engagement: 1344
-    commentsToLikes: 0.051409
-    id: ck8t313yk1hz90j78n434kt9i
-    verified: false
-    hashtags: "#beautiful, #sky, #eyes, #nice"
-  - username: "caro.krueger"
-    fullname: >-
-      Caroline Krüger
-    location: "Germany"
-    followers: 51974
-    engagement: 452
-    commentsToLikes: 0.048230
-    id: ck5hjacnyga7e0i11acrqz0qr
+    followers: 33533
+    engagement: 525
+    commentsToLikes: 0.055896
+    id: ck6u5et8s980l0j713pc32jir
     verified: true
-    hashtags: "#strongertogether"
-  - username: "fabianfarell"
+    hashtags: "#memories, #staysafe, #zingenvoorsaamhorigheid, #love"
+  - username: "joweil_official"
     fullname: >-
-      Fabian Farell
+      Jo Weil
     location: "Germany"
-    followers: 21804
-    engagement: 458
-    commentsToLikes: 0.075193
-    id: ck5cjvafgvkoj0i11uz16rahq
-    verified: false
-    hashtags: "#mustanggt, #krefeld, #airport, #hollywoodsign"
-  - username: "tijan.njie"
-    fullname: >-
-      Tijan Njie
-    location: "Germany"
-    followers: 128324
-    engagement: 891
-    commentsToLikes: 0.017686
-    id: ck55jbutqwpw20i11d7vhu50w
+    followers: 50864
+    engagement: 696
+    commentsToLikes: 0.037049
+    id: ck14igpcjfb8w0i19n10uoqvl
     verified: true
-    hashtags: "#childhood, #newyear, #spirit, #positivevibes"
-  - username: "nerogreco"
+    hashtags: "#skudi, #intothewoods, #poolday, #sunnysunday"
+  - username: "todayisthedeepest"
     fullname: >-
-      LIGHT
+      Nicole | 47 | Crazy but lovely
     location: "Germany"
-    followers: 283135
-    engagement: 2353
-    commentsToLikes: 0.015717
-    id: ck0uaki6hciy20i19xrnooblm
-    verified: true
-    hashtags: "#somethingbetter, #voulwseto, #myblufans, #andeneinaimemas"
-  - username: "saico_moonwalker"
-    fullname: >-
-      𝕊𝕒𝕚𝕔𝕠 🍂
-    location: "Germany"
-    followers: 26896
-    engagement: 822
-    commentsToLikes: 0.027775
-    id: ck1368m9z5a6e0i19svb5g704
+    followers: 10042
+    engagement: 1005
+    commentsToLikes: 0.212947
+    id: ck5qel0n20zqk0i112ytpahse
     verified: false
-    hashtags: "#coloredhair, #michaeljackson, #gaycouple, #pride"
-  - username: "julia_magdalena_"
+    hashtags: "#sweatpant, #mycrazylife, #mylifestory, #styleathome"
+  - username: "l_tashina.official"
     fullname: >-
-      Julia Magdalena
+      Laura Tashina | artist
     location: "Germany"
-    followers: 35813
-    engagement: 304
-    commentsToLikes: 0.125347
-    id: ck55mkk8l465b0i11d0zag057
+    followers: 27682
+    engagement: 496
+    commentsToLikes: 0.088375
+    id: ck15qzdzy5d330i19y4eomxta
     verified: false
-    hashtags: "#weltfrauentag, #denim, #bachelor, #fashionblogger"
+    hashtags: "#girlsinsuits, #artistslife, #tomboylifestyle, #alphawoman"
+  - username: "brianziff"
+    fullname: >-
+      Brian Ziff
+    location: "Germany"
+    followers: 50481
+    engagement: 861
+    commentsToLikes: 0.030715
+    id: ck0w3xvqzvu500i19f8a8km6m
+    verified: false
+    hashtags: "#papermagazine, #fangophilia, #noahcyrus, #halloween"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Chile In 2020
 description: >-
-  Find top Instagram influencers in Chile in 2020. Most popular hashtags: #instagramers #outfitoftheday #instagood #picoftheday.
+  Find top Instagram influencers in Chile in 2020. Most popular hashtags: #skincare #yomequedoencasa #amordelbueno #8m.
 platform: Instagram
 profiles:
-  - username: "romiiventura"
+  - username: "begofsaez"
     fullname: >-
-      Romina Constanza Ventura
+      @igna_alvarado
     location: "Chile"
-    followers: 23767
-    engagement: 1033
-    commentsToLikes: 0.074815
-    id: ck8t0p5wfss2f0j78ss8g71vz
+    followers: 6988
+    engagement: 2307
+    commentsToLikes: 0.155504
+    id: ck5zjkso9hrid0i14q42vpus5
     verified: false
-    hashtags: "#newyork, #amor, #chilenosporelmundo, #clasesonline"
-  - username: "nanrodriguez.cl"
+    hashtags: "#skateboarding, #girlsshredclips, #skatecrunch, #girlshredclips"
+  - username: "iamferv"
     fullname: >-
-      Nan Rodríguez
+      🤍🏹𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖆🏹🤍
     location: "Chile"
-    followers: 25858
-    engagement: 807
-    commentsToLikes: 0.102136
-    id: ck6u5bp6z8pch0j7176vpfgp1
+    followers: 1519562
+    engagement: 1711
+    commentsToLikes: 0.040677
+    id: ck13cq12q1luh0i19rvvv2gj2
     verified: false
-    hashtags: "#studioghubli, #31daysofhalloweenmakeup, #makeuplifestyle, #muasfam"
+    hashtags: "#subeloquetegusta, #eligealwaystodoslosdias, #ad, #tbt"
   - username: "pardesneakers"
     fullname: >-
       𝙎𝙣𝙠𝙧𝙝𝙙𝙨 ♥𝘾𝙤𝙪𝙥𝙡𝙚 👟
     location: "Chile"
-    followers: 23627
-    engagement: 1605
-    commentsToLikes: 0.472921
+    followers: 23800
+    engagement: 1648
+    commentsToLikes: 0.437698
     id: ck5znwt7hpaos0i14hlar31hv
     verified: false
-    hashtags: "#bestofstreetwear, #hypebae, #streetwearstyle, #outfitoftheday"
-  - username: "begofsaez"
-    fullname: >-
-      Begoña Fernández Sáez
-    location: "Chile"
-    followers: 7169
-    engagement: 2247
-    commentsToLikes: 0.155288
-    id: ck5zjkso9hrid0i14q42vpus5
-    verified: false
-    hashtags: "#skateboarding, #girlsshredclips, #skatecrunch, #girlshredclips"
+    hashtags: "#8m, #challenge, #pardesnkrshome"
   - username: "arielholanok"
     fullname: >-
       Ariel Holan
     location: "Chile"
-    followers: 50883
-    engagement: 1273
-    commentsToLikes: 0.083423
+    followers: 50985
+    engagement: 1095
+    commentsToLikes: 0.074919
     id: ck5pyq8m3x9iy0i11i89teonr
     verified: true
-    hashtags: "#estoescat, #lomashockey, #hoyescat, #loscruzados"
-  - username: "colovonunger_"
+    hashtags: "#nuncam, #lomashockey, #pepemujica, #lascruzadas"
+  - username: "angeles_araya_"
     fullname: >-
-      C
+      Ángeles Araya
     location: "Chile"
-    followers: 2914
-    engagement: 2403
-    commentsToLikes: 0.123186
-    id: ck14h66df8qeq0i19ugy6ts5k
+    followers: 26992
+    engagement: 991
+    commentsToLikes: 0.073491
+    id: ck0vvt55tqne30i19twpips75
     verified: false
-    hashtags: "#glasses, #lespecs, #fashionstyle, #switzerland"
-  - username: "chofirouge"
+    hashtags: "#muypronto, #aquisomostodos, #bienvenidos, #coronavirus"
+  - username: "romiiventura"
     fullname: >-
-      Sofía Iglesias 👩🏻‍🦰
+      Romina Constanza Ventura
     location: "Chile"
-    followers: 54108
-    engagement: 1011
-    commentsToLikes: 0.046196
-    id: ck0w58zzw2hn40i19s2rkd7qv
+    followers: 28168
+    engagement: 961
+    commentsToLikes: 0.075695
+    id: ck8t0p5wfss2f0j78ss8g71vz
     verified: false
-    hashtags: "#chile, #vapepics, #transition, #sanfelipechile"
-  - username: "cotineja"
+    hashtags: "#recetaf, #skincare, #chile, #brooklyn"
+  - username: "nanrodriguez.cl"
     fullname: >-
-      c o t i
+      Nan Rodríguez
     location: "Chile"
-    followers: 129787
-    engagement: 1344
-    commentsToLikes: 0.047437
-    id: ck6u4dz5636pw0j711717e15o
+    followers: 26550
+    engagement: 808
+    commentsToLikes: 0.073666
+    id: ck6u5bp6z8pch0j7176vpfgp1
     verified: false
-    hashtags: "#adidassuperstar, #changeisateamsport, #coronalook, #creandoconadidas"
-  - username: "rachelcolinas"
+    hashtags: "#firemakeup, #quedateencasa, #dalecontodo, #kaonashi"
+  - username: "trinidad_nucera00"
     fullname: >-
-      Raquel Fernandez Colinas
+      Trinidad Sol Nucera
     location: "Chile"
-    followers: 3220
-    engagement: 2585
-    commentsToLikes: 0.444924
-    id: ck6u1jwjxm6j00j71vizk3ukf
+    followers: 166861
+    engagement: 5462
+    commentsToLikes: 1.373040
+    id: ck5hempkvtpm40i119o9sgt3s
     verified: false
-    hashtags: "#style, #outfitoftheday, #oitfitideas, #styleinspo"
-  - username: "juanmozol"
+    hashtags: "#skincare"
+  - username: "t_alonsob"
     fullname: >-
-      Juan Esteban Mozó
+      Tomás Alonso
     location: "Chile"
-    followers: 2338
-    engagement: 2847
-    commentsToLikes: 0.138718
-    id: ck6tmzriw8uhu0j71nectqezf
+    followers: 15698
+    engagement: 3453
+    commentsToLikes: 0.103191
+    id: ck9wh5iyywcl10j78vjezhb4n
     verified: false
-    hashtags: "#kleancolor, #party, #cuarentena, #fakesmiles"
+    hashtags: ""
+  - username: "sofiakotoras.l"
+    fullname: >-
+      Sofia Paz
+    location: "Chile"
+    followers: 5285
+    engagement: 2876
+    commentsToLikes: 0.109108
+    id: ck6ti71c705r20j71lgver4lk
+    verified: false
+    hashtags: ""
 ---

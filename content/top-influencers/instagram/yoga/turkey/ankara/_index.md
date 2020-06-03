@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Ankara In 2020
 description: >-
-  Find top yoga Instagram influencers in Ankara in 2020. Most popular hashtags: #yoga #ankara #love #istanbul.
+  Find top yoga Instagram influencers in Ankara in 2020. Most popular hashtags: #yoga #ankara #istanbul #antalya.
 platform: Instagram
 profiles:
   - username: "yogasoultr"
     fullname: >-
       Ceren Bodur
     location: "Turkey"
-    followers: 5586
-    engagement: 154
-    commentsToLikes: 0.019822
+    followers: 5501
+    engagement: 199
+    commentsToLikes: 0.026393
     id: ck5px23wspq6i0i11znz6ja7v
     verified: false
-    hashtags: "#health, #breath, #yenilik, #ileti"
-  - username: "uygunadimdoga"
+    hashtags: "#onlineegzersiz, #onlineyogastudio, #grupseksendort, #travma"
+  - username: "midyat_burada47"
     fullname: >-
-      Dilara Özkan •Travel ✧☽
+      Midyat Tanıtım Platformu
     location: "Turkey"
-    followers: 44275
-    engagement: 470
-    commentsToLikes: 0.034603
-    id: ck6uaemel34gi0j716tbk0y1o
+    followers: 11194
+    engagement: 553
+    commentsToLikes: 0.020337
+    id: ck8tc4b7oy8g10j782o4t6my9
+    verified: false
+    hashtags: "#instafood, #amigurumi, #latepost, #roses"
+  - username: "handekaptan"
+    fullname: >-
+      hande kaptan
+    location: "Turkey"
+    followers: 61563
+    engagement: 340
+    commentsToLikes: 0.104345
+    id: ck5cgc922ojtk0i117ld62s85
     verified: true
-    hashtags: "#sonyalpha6000, #stayhomesafe, #kazbegitravel, #iphonexr"
-  - username: "tugbahasbal"
-    fullname: >-
-      Tugba Hasbal
-    location: "Turkey"
-    followers: 6144
-    engagement: 685
-    commentsToLikes: 0.041366
-    id: ck0w3iezctkqp0i19zflc2yam
-    verified: false
-    hashtags: "#instayoga, #alak, #yogaeverywhere, #yogaeverydamnday"
-  - username: "anilcanofficial"
-    fullname: >-
-      Anıl Can
-    location: "Turkey"
-    followers: 166856
-    engagement: 1297
-    commentsToLikes: 1.010945
-    id: ck15t42q5g8wr0i19u38ralei
-    verified: false
-    hashtags: "#dolunay, #astroloji, #startv, #ankara"
+    hashtags: "#kediler, #istanbul, #handekaptan, #gaziantep"
   - username: "sdlasln"
     fullname: >-
       Sıdal 🦁
     location: "Turkey"
-    followers: 8628
-    engagement: 1403
-    commentsToLikes: 0.012611
+    followers: 9888
+    engagement: 1350
+    commentsToLikes: 0.010246
     id: ck8t35skq1zk20j78td5n794m
     verified: false
-    hashtags: "#beyou, #pool, #feels, #pinksky"
-  - username: "pt_mstfkeskin"
+    hashtags: "#spoiled, #choice, #sadbuttrue, #power"
+  - username: "ozkastamonutv"
     fullname: >-
-      Mustafa Keskin
+      Öz Kastamonu Tv
     location: "Turkey"
-    followers: 73416
-    engagement: 233
-    commentsToLikes: 0.058496
-    id: ck15s8l83brx50i19pmf3mvue
+    followers: 67274
+    engagement: 749
+    commentsToLikes: 0.058072
+    id: ckaotc48gv9jw0i782fx3zf6e
     verified: false
-    hashtags: "#sporcu, #fitfamilylife, #gym, #abs"
-  - username: "belcimbilgincom"
+    hashtags: "#iyigeceler, #komik, #izmir, #karikat"
+  - username: "ilknurozdemir61"
     fullname: >-
-      Belcim Bilgin
+      İlknur Özdemir
     location: "Turkey"
-    followers: 491253
-    engagement: 155
-    commentsToLikes: 0.015799
-    id: ck0udwt1hk2yk0i190wxdmiil
-    verified: true
-    hashtags: "#lastesis, #proudsis, #meditasyonyap, #kendinley"
-  - username: "sirinkilavuzsevinc"
-    fullname: >-
-      Şirin Kılavuz Sevinç
-    location: "Turkey"
-    followers: 27718
-    engagement: 695
-    commentsToLikes: 0.019687
-    id: ck0w1g76jj6p90i19v57rvrq0
+    followers: 27223
+    engagement: 374
+    commentsToLikes: 0.153290
+    id: ck8t3cgp12qtl0j78glw4h0kg
     verified: false
-    hashtags: "#fark, #kedilera, #2020, #elelesnowyogaweekend"
-  - username: "gulcinergul"
+    hashtags: "#mardingezi, #viewforview, #iloveyou, #yazkombinleri"
+  - username: "fitixm"
     fullname: >-
-      Gülçin Ergül 🇹🇷
+      ❗️Sağlıklı Yaşa FİT Kal❗️
     location: "Turkey"
-    followers: 119741
-    engagement: 312
-    commentsToLikes: 0.026996
-    id: ck5c9w8zfc8tt0i1172i623s7
-    verified: true
-    hashtags: "#2yearsago, #lizzo, #stayhome, #dancerpose"
-  - username: "chrischavezyoga"
-    fullname: >-
-      Chris Chavez
-    location: "Turkey"
-    followers: 18392
-    engagement: 358
-    commentsToLikes: 0.035448
-    id: ck14hs24fbucv0i1936c7z32v
+    followers: 14646
+    engagement: 545
+    commentsToLikes: 0.107329
+    id: ck8t6nrrxe8la0j780gdobyba
     verified: false
-    hashtags: "#teamwork, #happynewyear2020, #loveyou, #evdehareket"
+    hashtags: "#ipatlamak, #kerevizyeme, #sunum, #yumurta"
+  - username: "netpsikolojim"
+    fullname: >-
+      Kişisel Gelişim Motivasyon
+    location: "Turkey"
+    followers: 106177
+    engagement: 88
+    commentsToLikes: 0.019586
+    id: ck14ie3f7eyts0i197x2cbptf
+    verified: false
+    hashtags: "#yoga, #kadirgecesi, #allah, #evren"
+  - username: "prof.dr.sevtaphamdemirkilic"
+    fullname: >-
+      TüpBebek Gebelik Takibi Ankara
+    location: "Turkey"
+    followers: 25181
+    engagement: 104
+    commentsToLikes: 0.056527
+    id: ckapbor2q0qc20i7813tsq68l
+    verified: false
+    hashtags: "#action, #arefe, #bayra, #tupbebek"
+  - username: "melek_.x01"
+    fullname: >-
+      〰 XATUNEE 〰
+    location: "Turkey"
+    followers: 2230
+    engagement: 1915
+    commentsToLikes: 0.162843
+    id: ck9hb9317fv620j78yog6xid0
+    verified: false
+    hashtags: "#takipplus, #likeforfollow, #evde, #moda"
 ---

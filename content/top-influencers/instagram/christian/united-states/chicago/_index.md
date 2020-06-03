@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Chicago In 2020
 description: >-
-  Find top christian Instagram influencers in Chicago in 2020. Most popular hashtags: #mywheaton #chicago #diy #positivevibesonly.
+  Find top christian Instagram influencers in Chicago in 2020. Most popular hashtags: #covid19 #love #chicago #covid.
 platform: Instagram
 profiles:
-  - username: "javisdmays"
+  - username: "oluchizelda"
     fullname: >-
-      Javis Mays, M.S.Ed
+      ZELDA Short Hair + Hair Color
     location: "United States"
-    followers: 30813
-    engagement: 156
-    commentsToLikes: 0.023045
-    id: ck0w2pi0ypjkh0i19rb64xwks
+    followers: 53940
+    engagement: 117
+    commentsToLikes: 0.057559
+    id: ck0w07p36cso30i197oh79mp4
     verified: false
-    hashtags: "#twinning, #stayathome, #worship, #devotion"
-  - username: "rwsharpejr"
-    fullname: >-
-      Reginald Wayne Sharpe Jr.
-    location: "United States"
-    followers: 40271
-    engagement: 289
-    commentsToLikes: 0.056571
-    id: ck55pz2tabphc0i119wxat1fb
-    verified: false
-    hashtags: "#restbeyondtheriver, #theyearoffellowship, #faithandwisdomprayercall, #whatafellowship"
+    hashtags: "#chicagohair, #naturalhairchicago, #haircolor, #thinkviv"
   - username: "angelicagallegosmusica"
     fullname: >-
       Angelica Gallegos
     location: "United States"
-    followers: 26176
-    engagement: 398
-    commentsToLikes: 0.026219
+    followers: 26903
+    engagement: 355
+    commentsToLikes: 0.023056
     id: ck5qcnt0srh8a0i11c980niwz
     verified: false
-    hashtags: "#sitevas, #discoencamino, #novuelvas, #losmandados"
+    hashtags: "#sitevas, #miprimeralbum, #chulaychingona, #mayo1"
+  - username: "cohv_ink"
+    fullname: >-
+      Christian 🌈
+    location: "United States"
+    followers: 6647
+    engagement: 383
+    commentsToLikes: 0.038413
+    id: ck5hpcvror5bg0i11s78nn6uf
+    verified: false
+    hashtags: "#rosetattoo, #mylittlepony, #chicagofacemask, #chicagotattoo"
+  - username: "rwsharpejr"
+    fullname: >-
+      Reginald Wayne Sharpe Jr.
+    location: "United States"
+    followers: 46493
+    engagement: 292
+    commentsToLikes: 0.038132
+    id: ck55pz2tabphc0i119wxat1fb
+    verified: false
+    hashtags: "#godwilltakecareofyou, #happymothersday2020, #covid19, #staysafe"
   - username: "wheatoncollegeil"
     fullname: >-
       Wheaton College IL
     location: "United States"
-    followers: 11617
-    engagement: 682
-    commentsToLikes: 0.014449
+    followers: 12041
+    engagement: 656
+    commentsToLikes: 0.015354
     id: ck0udp8w3jjl80i19nia2zc7x
     verified: false
-    hashtags: "#grateful, #decadechallenge, #enditmovement, #wheatonon"
+    hashtags: "#wheatonpeoplewednesday, #memorialday, #goodfriday, #petsofwheaton"
   - username: "peanuttillman"
     fullname: >-
       Charles Tillman
     location: "United States"
-    followers: 131286
-    engagement: 358
-    commentsToLikes: 0.015239
+    followers: 132150
+    engagement: 365
+    commentsToLikes: 0.017489
     id: ck15utxltoim90i19bzw654bh
     verified: true
-    hashtags: "#tbt, #thatdancetho, #ripkobe, #65dollarsfor65miles"
+    hashtags: "#65miles, #beckley, #ad, #ronaldmcdonaldhouse"
   - username: "askthemartins"
     fullname: >-
       Kenyon & Taccara Martin
     location: "United States"
-    followers: 43399
-    engagement: 350
-    commentsToLikes: 0.044616
+    followers: 43306
+    engagement: 167
+    commentsToLikes: 0.039680
     id: ck13ajewmqnym0i19240pvnpq
     verified: false
-    hashtags: "#servants, #datingtips, #godlymarriage, #dating101"
-  - username: "tiffboni"
+    hashtags: "#socialdistancing, #marriagestory, #wife, #godlyhusband"
+  - username: "papalninja"
     fullname: >-
-      Tiffany Huba Bonilla
+      Sean Bryan
     location: "United States"
-    followers: 28479
-    engagement: 744
-    commentsToLikes: 0.128926
-    id: ck5q339f0j0ds0i11so8nnyeh
+    followers: 27330
+    engagement: 384
+    commentsToLikes: 0.022734
+    id: ck13ak2x8qrcw0i19ehqaf9vb
     verified: false
-    hashtags: "#genderreveal, #apostolichair, #modeststyle, #wood"
-  - username: "regchapmanjr"
+    hashtags: "#divinemercy, #dayjob, #jumpingspider, #parkour"
+  - username: "officialblairchristian"
     fullname: >-
-      Reginald Chapman
+      Blair Christian (🗣BC MEDIA 📺)
     location: "United States"
-    followers: 6703
-    engagement: 633
-    commentsToLikes: 0.021672
-    id: ck5qbo13emjdp0i11qjoit7y8
+    followers: 19174
+    engagement: 278
+    commentsToLikes: 0.039462
+    id: ck9wd22codpwn0j78jkgl90wz
     verified: false
-    hashtags: "#brassscenekid, #toronto, #aacb13, #brass"
-  - username: "ig.tones"
+    hashtags: "#letsgetit, #beauty, #gobegreat, #24"
+  - username: "theaaronwolf"
     fullname: >-
-      IG.TONES™
+      𝗔𝗮𝗿𝗼𝗻 𝗪𝗼𝗹𝗳
     location: "United States"
-    followers: 82736
-    engagement: 142
-    commentsToLikes: 0.010473
-    id: ck0w23jaimg9w0i195mg464d7
-    verified: false
-    hashtags: "#sunrise, #globe, #wildernesslifestyle, #bokeh"
-  - username: "martincomic"
-    fullname: >-
-      Martin Moreno
-    location: "United States"
-    followers: 84304
-    engagement: 199
-    commentsToLikes: 0.028705
-    id: ck5cdv3k9ju4g0i11xlnom3r9
+    followers: 32463
+    engagement: 382
+    commentsToLikes: 0.012846
+    id: ck6uhrgdrat4z0j711q6k2tho
     verified: true
-    hashtags: "#beto, #comedy, #marticalopez, #comedy"
+    hashtags: "#smile, #love, #baseball, #washingtonpost"
 ---

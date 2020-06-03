@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Brisbane in 2020. Most popular hashtags: #lifestyle #brisbane #smile #queensland.
+  Find top lifestyle Instagram influencers in Brisbane in 2020. Most popular hashtags: #staysafe #brisbane #coffee #dailyroutine.
 platform: Instagram
 profiles:
   - username: "rachelthaiday"
     fullname: >-
       Rachel Thaiday
     location: "Australia"
-    followers: 16316
-    engagement: 183
-    commentsToLikes: 0.045590
+    followers: 16317
+    engagement: 185
+    commentsToLikes: 0.038158
     id: ck5c5mwgv3s0y0i11ad78wen6
     verified: false
-    hashtags: "#bekind, #inkgin, #smoothietime, #saturdayfun"
-  - username: "_christopherrobert_"
-    fullname: >-
-      Chris Smith | Melbourne
-    location: "Australia"
-    followers: 28878
-    engagement: 372
-    commentsToLikes: 0.021574
-    id: ck0vwleytudmn0i199u7gmemy
-    verified: false
-    hashtags: "#emotive, #lingerie, #sunet, #swimming"
+    hashtags: "#throwbackthaiday, #dailyroutine, #cantwait, #goodhairday"
   - username: "katebennett70"
     fullname: >-
       Kate Bennett 📷
     location: "Australia"
-    followers: 4024
-    engagement: 885
-    commentsToLikes: 0.118949
+    followers: 4018
+    engagement: 919
+    commentsToLikes: 0.118600
     id: ck5c2g9bax79f0i11vu2wddnl
     verified: false
-    hashtags: "#passionpassport, #girlswhodrone, #newfarmpark, #beautifuldestinations"
+    hashtags: "#moretonbay, #turtles, #underover, #hike"
   - username: "julietaroldann"
     fullname: >-
       Julieta Roldan 🇦🇺 🇦🇷
     location: "Australia"
-    followers: 79914
-    engagement: 153
-    commentsToLikes: 0.040072
+    followers: 79181
+    engagement: 134
+    commentsToLikes: 0.041640
     id: ck0ud6ywjigcn0i19d8n00v30
     verified: false
-    hashtags: "#lowfatdiet, #doggifts, #christmaspresents, #bestdonuts"
-  - username: "summertimenic"
+    hashtags: "#uncertaintimes, #mangojuice, #glowinskin, #caffeineaddict"
+  - username: "shanigrimmond"
     fullname: >-
-      Nicole
+      SHANI GRIMMOND
     location: "Australia"
-    followers: 3970
-    engagement: 1780
-    commentsToLikes: 0.249393
-    id: ck14j94c4j6al0i19cvkbgm9i
-    verified: false
-    hashtags: "#mididress, #bowral, #ourfriend, #ourchampion"
-  - username: "ronjaedsmo"
+    followers: 1457419
+    engagement: 341
+    commentsToLikes: 0.004108
+    id: ck14lcplpu08v0i190vpnxefr
+    verified: true
+    hashtags: "#camillawithlove, #danielwellington"
+  - username: "lachlanfort"
     fullname: >-
-      RONJA EDSMO
+      LOCKY ZEE
     location: "Australia"
-    followers: 32343
-    engagement: 571
-    commentsToLikes: 0.014963
-    id: ck15ti7vji7g40i19dtvdbfw0
+    followers: 2209
+    engagement: 1541
+    commentsToLikes: 0.080169
+    id: ckaoqq89njuy10i78l3a9soeh
     verified: false
-    hashtags: "#revolveme"
+    hashtags: "#flight, #wakeupcall, #breakfast, #energy"
   - username: "cassywallfood"
     fullname: >-
       Cassy Wall
     location: "Australia"
-    followers: 15177
-    engagement: 300
-    commentsToLikes: 0.104313
+    followers: 15229
+    engagement: 303
+    commentsToLikes: 0.120070
     id: ck5q8eixm5s460i11iaskv34s
     verified: false
     hashtags: "#deliveredaustralia"
-  - username: "masphoto.official"
+  - username: "mishandkirk"
     fullname: >-
-      Masterpiece Art Studio 📸🌴👙
+      Mish & Kirk
     location: "Australia"
-    followers: 5329
-    engagement: 535
-    commentsToLikes: 0.104884
-    id: ck6u339dyvfx90j71bhrei5ev
+    followers: 166096
+    engagement: 161
+    commentsToLikes: 0.063322
+    id: ck15phzc7xz5d0i19yxlrf9bu
     verified: false
-    hashtags: "#fitnesslife, #selflove, #vibes, #model"
-  - username: "tomgayusa"
+    hashtags: "#hiking, #elopement, #bohopresets, #mountainlife"
+  - username: "_passportoflove_"
     fullname: >-
-      Tom Gay
+      𝐌𝐀𝐓 ╳ 𝐅𝐀𝐍𝐍𝐘
     location: "Australia"
-    followers: 8702
-    engagement: 463
-    commentsToLikes: 0.094317
-    id: ck5q0bv1i58pv0i11z2zgn73z
+    followers: 3221
+    engagement: 1368
+    commentsToLikes: 0.084771
+    id: ck13cyyyj2tyl0i19mcmgtwz3
     verified: false
-    hashtags: "#fitness, #gayusa, #darkskin, #lgbtqia"
-  - username: "lauren.higgs"
+    hashtags: "#inspiration, #volcan, #instadog, #puppy"
+  - username: "jamieazzopardi"
     fullname: >-
-      Lauren Higgs
+      Jamie Azzopardi
     location: "Australia"
-    followers: 27097
-    engagement: 157
-    commentsToLikes: 0.151547
-    id: ck5hmhdjalyda0i117v7rfm9a
+    followers: 168690
+    engagement: 400
+    commentsToLikes: 0.009164
+    id: ck14l0irws96d0i19oitjaa2v
     verified: false
-    hashtags: "#boyfriendintheback, #matching, #highwaisted, #isolationcreation"
+    hashtags: "#sydfest, #alanparkinson, #googlegames, #penation"
+  - username: "lalasplate"
+    fullname: >-
+      L A R A 💗
+    location: "Australia"
+    followers: 11045
+    engagement: 1147
+    commentsToLikes: 0.146818
+    id: ck15tte3pjswb0i19uj4bboe5
+    verified: false
+    hashtags: "#organic, #iamwellandgood, #watertips, #nicecream"
 ---

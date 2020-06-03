@@ -1,86 +1,96 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Russia In 2020
 description: >-
-  Find top cinema Instagram influencers in Russia in 2020. Most popular hashtags: #interpetersburg #manshin #mixit #.
+  Find top cinema Instagram influencers in Russia in 2020. Most popular hashtags: # #life #vs #newyork.
 platform: Instagram
 profiles:
   - username: "mansh1n"
     fullname: >-
       ГУРУ ФОТОРЕЖИССУРЫ 🎥 | Алексей
     location: "Russia"
-    followers: 4499
-    engagement: 1061
-    commentsToLikes: 0.156471
+    followers: 5536
+    engagement: 967
+    commentsToLikes: 0.138329
     id: ck6uby0xkcch00j71jrdy7u81
     verified: false
-    hashtags: "#nightmodechallenge, #manshin, #gorillapod, #shotoniphone"
+    hashtags: "#manshin, #gorillapod, #shotoniphone, #nightmodechallenge"
+  - username: "mariya_mironova_actress"
+    fullname: >-
+      Мария Миронова Менакер
+    location: "Russia"
+    followers: 238415
+    engagement: 704
+    commentsToLikes: 0.015239
+    id: ck6tr2uaswm350j71janoa8vv
+    verified: true
+    hashtags: "#astoriahotel, #covid2019"
+  - username: "xenichez"
+    fullname: >-
+      Xenie Zasetskaya
+    location: "Russia"
+    followers: 112001
+    engagement: 1133
+    commentsToLikes: 0.011229
+    id: ck55njq4q6cm10i11o3oa0xfw
+    verified: false
+    hashtags: "#xenichezballet, #mamiya645, #filmphotography, #lghtmovesxenie"
   - username: "ingaleps"
     fullname: >-
       INGA LEPS
     location: "Russia"
-    followers: 30746
-    engagement: 354
-    commentsToLikes: 0.044453
+    followers: 31033
+    engagement: 145
+    commentsToLikes: 0.053804
     id: ck6u4mjgv4kmn0j715fx1q7dq
     verified: false
-    hashtags: "#hellorussia, #oscars, #leonardodicaprio, #timotheechalamet"
+    hashtags: "#subway, #dreamers, #apocalipsenow, #aboutdesouffle"
   - username: "lilya_manukian"
     fullname: >-
       Lilya #Manukian
     location: "Russia"
-    followers: 29711
-    engagement: 918
-    commentsToLikes: 0.086257
+    followers: 33316
+    engagement: 856
+    commentsToLikes: 0.077990
     id: ck5q2rx8ghie60i11y7tejiqq
     verified: false
-    hashtags: "#video, #actress, #life, #live"
+    hashtags: "#beautiful, #coronavirusitaly, #funny, #fun"
   - username: "ivanetsss"
     fullname: >-
       Григорий Иванец
     location: "Russia"
-    followers: 5491
-    engagement: 687
-    commentsToLikes: 0.028538
+    followers: 5460
+    engagement: 734
+    commentsToLikes: 0.030607
     id: ck5cdfo53j3le0i11x6gdtbs0
     verified: false
-    hashtags: "#mobe5, #yamaguchi, #shooting, #flat"
-  - username: "ivanfilippovich"
-    fullname: >-
-      Ivan Yankovskiy
-    location: "Russia"
-    followers: 69091
-    engagement: 1304
-    commentsToLikes: 0.015258
-    id: ck5c0jj3ct9990i116i69pcc4
-    verified: true
-    hashtags: ""
+    hashtags: "#cinema, #mobe5, #flat, #backtoblinde"
   - username: "klimova_queen"
     fullname: >-
       Екатерина Климова (fan)❤️
     location: "Russia"
-    followers: 7396
-    engagement: 2545
-    commentsToLikes: 0.026617
+    followers: 7791
+    engagement: 1821
+    commentsToLikes: 0.024565
     id: ck15rp2d690000i19zijxt80f
     verified: false
     hashtags: ""
-  - username: "interalma"
+  - username: "ivanfilippovich"
     fullname: >-
-      𝐑𝐎𝐌𝐀𝐍
+      Ivan Yankovskiy
     location: "Russia"
-    followers: 116815
-    engagement: 536
-    commentsToLikes: 0.115297
-    id: ck0vz191h6s4p0i19rd7jaelk
-    verified: false
-    hashtags: "#interpetersburg, #gh5, #djimavic, #djimavicpro"
+    followers: 69076
+    engagement: 1371
+    commentsToLikes: 0.014440
+    id: ck5c0jj3ct9990i116i69pcc4
+    verified: true
+    hashtags: ""
   - username: "andrey_kryzhniy"
     fullname: >-
       🎥🎬Андрей Крыжний™
     location: "Russia"
-    followers: 28650
-    engagement: 113
-    commentsToLikes: 0.025203
+    followers: 28564
+    engagement: 131
+    commentsToLikes: 0.022575
     id: ck5hgc82a20yd0i114mvv5fnz
     verified: false
     hashtags: ""
@@ -88,20 +98,10 @@ profiles:
     fullname: >-
       Pavel Kling
     location: "Russia"
-    followers: 5441
-    engagement: 659
-    commentsToLikes: 0.006873
+    followers: 5304
+    engagement: 764
+    commentsToLikes: 0.009515
     id: ck6tlqs7h6gzy0j710tfs9mp4
     verified: false
     hashtags: "#35mm, #fujifilm"
-  - username: "nickbulanov"
-    fullname: >-
-      Nikita Bulanov
-    location: "Russia"
-    followers: 8907
-    engagement: 2202
-    commentsToLikes: 0.025279
-    id: ck15t49uvg9zl0i1927nueg3r
-    verified: false
-    hashtags: "#ursaminipro, #siberia, #cinematic, #filmmaking"
 ---

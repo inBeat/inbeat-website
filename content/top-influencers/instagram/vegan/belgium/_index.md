@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Belgium In 2020
 description: >-
-  Find top vegan Instagram influencers in Belgium in 2020. Most popular hashtags: #love #stayhome #vegan #giveaway.
+  Find top vegan Instagram influencers in Belgium in 2020. Most popular hashtags: #vegan #throwback #mothersday #idealofsweden.
 platform: Instagram
 profiles:
   - username: "lexharlee"
     fullname: >-
       alexis
     location: "Belgium"
-    followers: 45809
-    engagement: 480
-    commentsToLikes: 0.018369
+    followers: 46083
+    engagement: 503
+    commentsToLikes: 0.019088
     id: ck5hf8yliwd0b0i118glo6s22
     verified: false
     hashtags: "#vegan"
-  - username: "kelly_van.looy"
+  - username: "jelkalepever"
     fullname: >-
-      💎IFBB Bikini Fitness💙
+      JELKA LEPEVER
     location: "Belgium"
-    followers: 15894
-    engagement: 268
-    commentsToLikes: 0.105327
-    id: ck6u7y53xocrg0j71w1mvr61z
+    followers: 18455
+    engagement: 226
+    commentsToLikes: 0.083747
+    id: ck14hlad3avwr0i19zu8at26i
     verified: false
-    hashtags: "#physiqueupdate, #shredded, #brunettegirl, #glutesonfire"
-  - username: "tomvmakeup"
+    hashtags: "#gratefulheart, #throwback, #mentalwellness, #zerowaste"
+  - username: "ari_amaru"
     fullname: >-
-      Tom Vandewalle
+      Ariana • あり
     location: "Belgium"
-    followers: 8164
-    engagement: 418
-    commentsToLikes: 0.030404
-    id: ck5qdc5v7uv340i11r9y4i5vi
+    followers: 2821
+    engagement: 859
+    commentsToLikes: 0.045405
+    id: ck9ha5dxub8000j78tr889vck
     verified: false
-    hashtags: "#glitter, #color, #mens, #makeuplover"
+    hashtags: "#gothiclolita, #lafore, #livingdoll, #dryad"
   - username: "les.biscuits.d.eden"
     fullname: >-
       𝕃𝕖𝕤 𝔹𝕚𝕤𝕔𝕦𝕚𝕥𝕤 𝕕’𝔼𝕕𝕖𝕟 🍃
     location: "Belgium"
-    followers: 7660
-    engagement: 508
-    commentsToLikes: 0.064377
+    followers: 8741
+    engagement: 492
+    commentsToLikes: 0.070878
     id: ck5byk6y4pb410i11agrwnvq1
     verified: false
-    hashtags: "#aliceinwonderland, #happynewyearcookies, #babyboy, #christmascookies"
-  - username: "thisischaris"
+    hashtags: "#birthdaycookies, #christening, #sabl, #safaricookies"
+  - username: "celinemaufor"
     fullname: >-
-      CHARIS
+      Céline Maufor
     location: "Belgium"
-    followers: 2608
-    engagement: 2362
-    commentsToLikes: 0.205722
-    id: ck8tagk70rnuf0j780zj4pscq
+    followers: 13162
+    engagement: 885
+    commentsToLikes: 0.179380
+    id: ck14gsa5r6rv10i198hq8u1pl
     verified: false
-    hashtags: "#abeautifulmess, #ethicalinfluencers, #quarantinelife, #lockdown"
+    hashtags: "#concours, #signenature, #liptonbe, #paulhewitt"
   - username: "nathaliemeskensofficial"
     fullname: >-
       Nathalie Meskens
     location: "Belgium"
-    followers: 201164
-    engagement: 983
-    commentsToLikes: 0.019378
+    followers: 213658
+    engagement: 1139
+    commentsToLikes: 0.018728
     id: ck15q8ikm1ls10i1929c6dm67
     verified: false
-    hashtags: "#samentegencorona, #cybex, #alcoholvrij, #relax"
-  - username: "jerome_carlier"
+    hashtags: "#deeplove, #tourneeminerale, #blijmetmijnkot, #floradixijzer"
+  - username: "thisischaris"
     fullname: >-
-      Jerome Carlier
+      CHARIS
     location: "Belgium"
-    followers: 86625
-    engagement: 565
-    commentsToLikes: 0.035169
-    id: ck5hfero7x4ne0i11p4vvoioq
+    followers: 2775
+    engagement: 2180
+    commentsToLikes: 0.239135
+    id: ck8tagk70rnuf0j780zj4pscq
     verified: false
-    hashtags: "#vegan, #sebman, #beforequarantine, #restaurant"
-  - username: "kevin_dc96"
+    hashtags: "#happyeaster, #giftidea, #veganlife, #pinkhouse"
+  - username: "veedici"
     fullname: >-
-      Kevin De Clercq ®
+      𝓥𝓮𝓮𝓻𝓵𝓮 𝓟𝓮𝓮𝓽𝓮𝓻𝓼-
     location: "Belgium"
-    followers: 77036
-    engagement: 97
-    commentsToLikes: 0.055651
-    id: ck5hnud6uoepu0i11rhku72qo
+    followers: 18663
+    engagement: 304
+    commentsToLikes: 0.185097
+    id: ck9wdvwh9hi310j78zesjfr29
     verified: false
-    hashtags: "#gryffindor, #chocolate, #selfie, #ringshoppingkortrijk"
+    hashtags: "#belgiumgirl, #bettertimeswillcome, #tiktokchallenge, #mombodytransformation"
+  - username: "coleenaupresent"
+    fullname: >-
+      COLEEN ♥
+    location: "Belgium"
+    followers: 9187
+    engagement: 513
+    commentsToLikes: 0.112122
+    id: ckaotohaawsbv0i78eba8dnm6
+    verified: false
+    hashtags: "#mangerequilibre, #naturopathie, #stayathome, #girlinbath"
   - username: "pomshine"
     fullname: >-
       Pom
     location: "Belgium"
-    followers: 27759
-    engagement: 411
-    commentsToLikes: 0.024412
+    followers: 27114
+    engagement: 368
+    commentsToLikes: 0.038326
     id: ck5zs3x8gxrz90i14v0t1uq4w
     verified: false
-    hashtags: "#legtattoos, #kisswhoever, #sleeve, #sleevetattoo"
-  - username: "afashiontaste"
-    fullname: >-
-      Pauline Grossen.Travel Fashion
-    location: "Belgium"
-    followers: 106404
-    engagement: 151
-    commentsToLikes: 0.065533
-    id: ck0w4l8b4z4qk0i19mtdehj4r
-    verified: false
-    hashtags: "#ontmoetzuidafrika, #igtv, #outfit, #tutorial"
+    hashtags: "#veal, #introvert, #rabbits, #milk"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Poland In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Poland in 2020. Most popular hashtags: #zosta #polskadziewczyna #ootd #kobieta.
+  Find top lifestyle Instagram influencers in Poland in 2020. Most popular hashtags: #polishwoman #sunday #stylowka #happy.
 platform: Instagram
 profiles:
   - username: "angelika_rysz"
     fullname: >-
       Angelika
     location: "Poland"
-    followers: 2708
-    engagement: 2110
-    commentsToLikes: 0.343054
+    followers: 3225
+    engagement: 2173
+    commentsToLikes: 0.306699
     id: ck5zizhb5gnvu0i14guq3n633
     verified: false
-    hashtags: "#evelinecosmetics, #mood, #mojewszystko, #naturalbeauties"
-  - username: "mamikoyoko"
-    fullname: >-
-      Weronika Heck
-    location: "Poland"
-    followers: 778106
-    engagement: 628
-    commentsToLikes: 0.030690
-    id: ck5c6zv9o6j5p0i11qugor9ez
-    verified: true
-    hashtags: "#sportbra, #voiceeffects, #samsunggalaxyzflip, #gesturecapture"
-  - username: "_kolorowykwiat_"
-    fullname: >-
-      Małgorzata Kwiatkowska(Opara)
-    location: "Poland"
-    followers: 5652
-    engagement: 1400
-    commentsToLikes: 0.085690
-    id: ck8t8f0p1k7p90j78p36x4mbv
-    verified: false
-    hashtags: "#bedziedobrze, #piatekpiateczekpiatunio, #wardrobe, #tastebuds"
+    hashtags: "#beautyissimple, #artystycznezdj, #boymom, #jestemmama"
   - username: "carolinee.es"
     fullname: >-
       Karolina Szymbara
     location: "Poland"
-    followers: 5798
-    engagement: 1351
-    commentsToLikes: 0.104006
+    followers: 6006
+    engagement: 1374
+    commentsToLikes: 0.098245
     id: ck6udqywvmn9e0j71f5n2mbts
     verified: false
-    hashtags: "#kosmetykidomakija, #nails4today, #nailsofinstagram, #shoppingtime"
+    hashtags: "#spring, #redroses, #dziewczyna, #polish"
+  - username: "blonde.lady"
+    fullname: >-
+      Aneta Putowska 👰🏼🔒🇵🇱
+    location: "Poland"
+    followers: 114776
+    engagement: 673
+    commentsToLikes: 0.040232
+    id: ck9hb8ylufun20j78n1zm26rz
+    verified: false
+    hashtags: "#motywacja, #styl, #styleinspo, #skincare"
+  - username: "joanna.walkow"
+    fullname: >-
+      Joanna 💎
+    location: "Poland"
+    followers: 4372
+    engagement: 2172
+    commentsToLikes: 0.131822
+    id: ck9wekanbknaa0j7834my2xx2
+    verified: false
+    hashtags: "#gymhero, #zaradress, #kwiatki, #zdrowe"
+  - username: "dulcysiowe"
+    fullname: >-
+      | Po prostu Aga |
+    location: "Poland"
+    followers: 2885
+    engagement: 2154
+    commentsToLikes: 0.373001
+    id: ck8t9xugdpqqf0j784o2ww3iy
+    verified: false
+    hashtags: "#styl, #srebro, #flowersmood, #seeksimplicity"
+  - username: "_kolorowykwiat_"
+    fullname: >-
+      Małgorzata Kwiatkowska(Opara)
+    location: "Poland"
+    followers: 9482
+    engagement: 1727
+    commentsToLikes: 0.060453
+    id: ck8t8f0p1k7p90j78p36x4mbv
+    verified: false
+    hashtags: "#neutralshades, #eyepalette, #scarf, #boots"
+  - username: "whitestparadise"
+    fullname: >-
+      Natalia Kacprzyk
+    location: "Poland"
+    followers: 12307
+    engagement: 1317
+    commentsToLikes: 0.059225
+    id: ckaoswanmtb0u0i78xldlausi
+    verified: false
+    hashtags: "#photoshootday, #photoshootlover, #krak, #blondesgirls"
+  - username: "kamapsiamama"
+    fullname: >-
+      Hau, hau 🐶
+    location: "Poland"
+    followers: 15015
+    engagement: 1020
+    commentsToLikes: 0.095686
+    id: ck14hqhcbbmbs0i198xbf4g1a
+    verified: false
+    hashtags: "#blacknails, #koloryzacja3d, #pinknails, #instatips"
   - username: "lucas.zavo"
     fullname: >-
       Lucas Zavo
     location: "Poland"
-    followers: 20516
-    engagement: 2022
-    commentsToLikes: 0.048661
+    followers: 20280
+    engagement: 2044
+    commentsToLikes: 0.048688
     id: ck5pz8trazs440i113531crak
     verified: false
-    hashtags: "#saturday, #gent, #thursday, #man"
-  - username: "gajanagalstjan"
+    hashtags: "#fashionista, #gent, #thursday, #tuesday"
+  - username: "ma.laaa"
     fullname: >-
-      Gajana Galstjan
+      ᴾᴬᵁᴸᴵᴺᴬ 🌿
     location: "Poland"
-    followers: 26646
-    engagement: 842
-    commentsToLikes: 0.043624
-    id: ck6tpueosn20i0j713s14y72c
+    followers: 10664
+    engagement: 1067
+    commentsToLikes: 0.074901
+    id: ck14i32b8de8m0i19orimww6w
     verified: false
-    hashtags: "#gundolls, #gajanagalstjan"
-  - username: "pprzygrodzka"
-    fullname: >-
-      Paulina Przygrodzka
-    location: "Poland"
-    followers: 27761
-    engagement: 516
-    commentsToLikes: 0.111935
-    id: ck5c9bne8b57f0i111lidtjs4
-    verified: false
-    hashtags: "#flatlaystyle, #springdress, #streetfashion, #styleguide"
-  - username: "oliwiasudomir"
-    fullname: >-
-      o l i w i a 👩🏼
-    location: "Poland"
-    followers: 29753
-    engagement: 1468
-    commentsToLikes: 0.039751
-    id: ck15tgt3wi0ai0i19kui08z0n
-    verified: false
-    hashtags: "#fashionista, #bibs, #pregnancy, #maluszek"
-  - username: "nikkisetnik"
-    fullname: >-
-      Nikki Setnik
-    location: "Poland"
-    followers: 23389
-    engagement: 639
-    commentsToLikes: 0.064416
-    id: ck15qb5z21zv40i19tpe5behf
-    verified: false
-    hashtags: "#sroda, #fithome, #sportowo, #dieta"
-  - username: "mrs__harmony"
-    fullname: >-
-      Kasia Harmony
-    location: "Poland"
-    followers: 31375
-    engagement: 430
-    commentsToLikes: 0.082671
-    id: ck5zx2fe577tv0i1434us37ir
-    verified: false
-    hashtags: "#bedroominspiration, #kobieco, #wdomujestbezpiecznie, #tattoo"
+    hashtags: "#polskakobieta, #health, #diet, #dzie"
 ---

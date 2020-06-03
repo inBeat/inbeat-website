@@ -1,107 +1,107 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top dancers Instagram influencers in Ukraine in 2020. Most popular hashtags: #dancer #ukraine #dance #model.
+  Find top dancers Instagram influencers in Ukraine in 2020. Most popular hashtags: #fashion #dancers #ukraine #weekend.
 platform: Instagram
 profiles:
+  - username: "kaznova.karyna"
+    fullname: >-
+      KARYNA KAZNOVA
+    location: "Ukraine"
+    followers: 4261
+    engagement: 1828
+    commentsToLikes: 0.074369
+    id: ck5py4fsvu9my0i11uka96zym
+    verified: false
+    hashtags: "#lockdown, #tylerthecreator, #iaintgottime, #kaytranada"
+  - username: "alisia_krasnova"
+    fullname: >-
+      💙 Алисия 💙
+    location: "Ukraine"
+    followers: 2881
+    engagement: 2448
+    commentsToLikes: 0.271835
+    id: ck9wop0pw5zxc0j78cixi6vg2
+    verified: false
+    hashtags: "#dancerflying, #italianvacation, #lovesport, #lovepointe"
   - username: "ostap_is"
     fullname: >-
       Ostap Kobrin🔥
     location: "Ukraine"
-    followers: 7605
-    engagement: 2210
-    commentsToLikes: 0.025329
+    followers: 7917
+    engagement: 2225
+    commentsToLikes: 0.025445
     id: ck5hhdt1m7pk00i116feniso3
     verified: false
-    hashtags: "#myinspiration, #dance, #dancer, #vogue"
+    hashtags: "#choreographer, #myinspiration, #dance, #dancer"
   - username: "sakalyova"
     fullname: >-
       ▫️SVETLANA SAKAL’
     location: "Ukraine"
-    followers: 13244
-    engagement: 926
-    commentsToLikes: 0.041168
+    followers: 13033
+    engagement: 779
+    commentsToLikes: 0.038216
     id: ck5c9e0lqb9dd0i11bf3n8600
     verified: false
-    hashtags: "#tiktokukraine, #love, #khaleesi, #droneshmot"
-  - username: "s.daryshka"
+    hashtags: "#lviv, #fashion, #sakalyova, #khaleesis"
+  - username: "ukropnekrupa"
     fullname: >-
-      🕊DASHA
+      Lena.
     location: "Ukraine"
-    followers: 2185
-    engagement: 2945
-    commentsToLikes: 0.095106
-    id: ck0u89mtw6vn60i19r1mjdqhj
+    followers: 9452
+    engagement: 1219
+    commentsToLikes: 0.023915
+    id: ck55kipvdze4x0i11hxjb9ct2
     verified: false
-    hashtags: "#follower, #followback, #like4like, #follow4follow"
-  - username: "kate_nhuen"
+    hashtags: "#kyiv"
+  - username: "rishamaryna"
     fullname: >-
-      Нгуен Катя
+      Risha
     location: "Ukraine"
-    followers: 14346
-    engagement: 808
-    commentsToLikes: 0.040539
-    id: ck55kilgezdut0i118wl0ujtf
+    followers: 11329
+    engagement: 440
+    commentsToLikes: 0.096768
+    id: ck5cevd20lsb40i11dh0hin4k
+    verified: false
+    hashtags: "#sensitive, #dancetrends, #dance, #igotlove"
+  - username: "olesyabulletka"
+    fullname: >-
+      OlesyaBulletka
+    location: "Ukraine"
+    followers: 25578
+    engagement: 347
+    commentsToLikes: 0.034911
+    id: ck15rz0anaer50i19xjik4xax
     verified: false
     hashtags: ""
-  - username: "kira_habibi_lal"
+  - username: "sasha_prohor"
     fullname: >-
-      Kira Lebedeva
+      Aleksandr Prokhorov
     location: "Ukraine"
-    followers: 23594
-    engagement: 811
-    commentsToLikes: 0.044111
-    id: ck6ubyv10chka0j71mzt33uto
+    followers: 13190
+    engagement: 1288
+    commentsToLikes: 0.016361
+    id: ck5c9eapub9xw0i11xl9rtbm0
     verified: false
-    hashtags: "#kirahabibilal, #tribalfusiondance, #iamhappygirl, #newme"
-  - username: "viktoriia_chaban_"
+    hashtags: "#relaxation, #calm, #sport, #thevoice"
+  - username: "alja_biokukly"
     fullname: >-
-      DANCER
+      Аля Калиниченко
     location: "Ukraine"
-    followers: 21327
-    engagement: 367
-    commentsToLikes: 0.032871
-    id: ck15sqhi7ebbs0i19qvylpkn9
+    followers: 33465
+    engagement: 227
+    commentsToLikes: 0.035877
+    id: ckap1lj51v29v0i780lght59d
     verified: false
-    hashtags: "#vinnitsa, #giveaway, #giv, #sport"
-  - username: "_ilin"
+    hashtags: "#leddance, #ledshowkiev, #artshow, #martinigirl"
+  - username: "elizabell.g"
     fullname: >-
-      Миша Ильин / Michael ILIN
+      GONCHAR ELIZABETH
     location: "Ukraine"
-    followers: 6090
-    engagement: 840
-    commentsToLikes: 0.026953
-    id: ck5q798ib0ha40i11yq3rc8yk
+    followers: 5466
+    engagement: 1404
+    commentsToLikes: 0.138585
+    id: ck6tjt4pj3dbm0j717zoj85og
     verified: false
-    hashtags: "#choreography, #myway, #moral, #ilinm"
-  - username: "zotova_sofi"
-    fullname: >-
-      Sofi
-    location: "Ukraine"
-    followers: 2106
-    engagement: 2193
-    commentsToLikes: 0.034859
-    id: ck5zoz2kfrnrn0i14ktd6zqm7
-    verified: false
-    hashtags: "#covid, #mugshot, #mugshotchallenge"
-  - username: "gurych_yurii"
-    fullname: >-
-      Гурич Юрий
-    location: "Ukraine"
-    followers: 8849
-    engagement: 691
-    commentsToLikes: 0.025487
-    id: ck6tzqgmlb8vd0j718dx7yr4l
-    verified: false
-    hashtags: "#35mm"
-  - username: "flawlessbonchinche"
-    fullname: >-
-      Christina Makarenko
-    location: "Ukraine"
-    followers: 9462
-    engagement: 740
-    commentsToLikes: 0.022935
-    id: ck0w2r8wfpsem0i19q5yqqvgh
-    verified: false
-    hashtags: "#stayfuckinghome, #untiltomorrow, #misstraveling, #flawlessvogueonline"
+    hashtags: "#theweeknd, #weekend, #blindinglights, #blindinglightschallenge"
 ---

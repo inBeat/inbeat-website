@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In United States In 2020
 description: >-
-  Find top lifestyle Instagram influencers in United States in 2020. Most popular hashtags: #pregnant #dress #fashionnova #stylethebump.
+  Find top lifestyle Instagram influencers in United States in 2020. Most popular hashtags: #ltkbeauty # #igstyle #ltkunder100.
 platform: Instagram
 profiles:
-  - username: "madpuplife"
+  - username: "trueoutfit"
     fullname: >-
-      Sydney | Mad Pup Life
+      True Outfit
     location: "United States"
-    followers: 6190
-    engagement: 1584
-    commentsToLikes: 0.083706
-    id: ck5hptv7nrylg0i11bee3vq1i
+    followers: 36275
+    engagement: 105
+    commentsToLikes: 0.014743
+    id: ckap2jvlez5i50i7848fj4ts4
     verified: false
-    hashtags: "#dogtreats, #officeinspo, #ootd, #targetdoesitagain"
-  - username: "therealrjm"
+    hashtags: ""
+  - username: "romejohns"
     fullname: >-
-      
+      Rome Johnson | Style
     location: "United States"
-    followers: 9688
-    engagement: 1512
-    commentsToLikes: 0.067227
-    id: ck5cca3x6gzme0i114xkkhnh8
+    followers: 15044
+    engagement: 4156
+    commentsToLikes: 0.069704
+    id: ck8t1v9nix65e0j78gkeeieo6
     verified: false
-    hashtags: "#aesthetic, #naturalhairstyle, #quarantineideas, #championcozystyle"
-  - username: "judithlan"
+    hashtags: "#blackparents, #blackdads, #nicugraduate, #trachbaby"
+  - username: "thechiclyeffect"
     fullname: >-
-      JUDITH LANDESBERGEN ©
+      Erin
     location: "United States"
-    followers: 28778
-    engagement: 925
-    commentsToLikes: 0.062968
-    id: ck14izrw0hxk70i199xqzdf9a
+    followers: 2256
+    engagement: 3099
+    commentsToLikes: 0.278467
+    id: ckaoucltjzphu0i78mre133xp
     verified: false
-    hashtags: "#fun, #zomer, #sting, #jurk"
-  - username: "gillzvacay"
+    hashtags: "#ltkweekendstyle, #oldnavystyle, #loftimist, #rdbabe"
+  - username: "cassidymprice"
     fullname: >-
-      Aleena Gillani ✈︎Travel Addict
+      Cassidy Price
     location: "United States"
-    followers: 9876
-    engagement: 1775
-    commentsToLikes: 0.394578
-    id: ck1356n1vzzec0i19omczht3o
+    followers: 3096
+    engagement: 2788
+    commentsToLikes: 0.183297
+    id: ck9wd8y46emb60j78dyjblq50
     verified: false
-    hashtags: "#customhome, #buildingourhome, #strongertogether, #medicalprofessionals"
-  - username: "crystalxdanielle"
+    hashtags: "#americaneagle, #sundayfunday, #aerie, #tryonhaul"
+  - username: "emikfabian"
     fullname: >-
-      Crystal Danielle
+      Emi Fabian • Preppy & Pink
     location: "United States"
-    followers: 10084
-    engagement: 1408
-    commentsToLikes: 0.098673
-    id: ck0w3ee5jszeh0i19408zbd0a
+    followers: 2236
+    engagement: 2746
+    commentsToLikes: 0.364867
+    id: ckapav34gxkwj0i780tt669ls
     verified: false
-    hashtags: "#pregnancyannouncment, #stonyfieldorganic, #avalon, #hotmomsummer"
-  - username: "withlove.sandra"
+    hashtags: "#expeessie, #stayhomewithltk, #ltkspring, #ltkitbag"
+  - username: "ohheyamy"
     fullname: >-
-      sandra🌹 nyc | philly
+      Amy Phu
     location: "United States"
-    followers: 23252
-    engagement: 892
-    commentsToLikes: 0.062114
-    id: ck0vy5qmj2d5m0i19ezvhit1q
+    followers: 2916
+    engagement: 2488
+    commentsToLikes: 0.235903
+    id: ckap3q17q425t0i78v4biefle
     verified: false
-    hashtags: "#elliepartner, #februaryellie, #strongersweden, #sugarbearhair"
-  - username: "makeupbypita"
+    hashtags: "#mapifulfamily, #lovelulus, #lulusambassador, #mejuri"
+  - username: "hossainishrat"
     fullname: >-
-      Lupita
+      Ishrat Hossain
     location: "United States"
-    followers: 137437
-    engagement: 1840
-    commentsToLikes: 0.083426
-    id: ck0vv5hz8nn3i0i19n3s9ejgo
+    followers: 5060
+    engagement: 2112
+    commentsToLikes: 0.261415
+    id: ckaou140nybzx0i78pm5no76d
     verified: false
-    hashtags: "#momblogger, #pregnantbelly, #instagood, #lagirlcosmetics"
-  - username: "andybenavidesm"
+    hashtags: "#bengaliblogger, #knowledge, #modesty, #bengalihijabi"
+  - username: "youreastcoastgirl"
     fullname: >-
-      Andy Benavides
+      Sarah Krous
     location: "United States"
-    followers: 696203
-    engagement: 955
-    commentsToLikes: 0.565976
-    id: ck0u23mcmyugz0i19aotwd7le
-    verified: true
-    hashtags: "#stylethebump, #pandoracontigo, #nopegobackhome, #preggo"
-  - username: "diya.alexander"
-    fullname: >-
-      DIYA ALEXANDER
-    location: "United States"
-    followers: 11942
-    engagement: 1486
-    commentsToLikes: 0.067894
-    id: ck8t42fj859jx0j783w8744d1
+    followers: 7380
+    engagement: 1916
+    commentsToLikes: 0.336776
+    id: ck137gzccbhoo0i19wjbyudx2
     verified: false
-    hashtags: "#valentines2020, #reallove, #internationalwomensday, #internationalwomensday2020"
-  - username: "karlavegaz"
+    hashtags: "#beachlife, #otkboots, #shopthemint, #outfitoftheday"
+  - username: "winnietangneedsaninstagram"
     fullname: >-
-      Karla Vega
+      WINNIE | Fashion & Travel Blog
     location: "United States"
-    followers: 14564
-    engagement: 1254
-    commentsToLikes: 0.081304
-    id: ck5zz5dp2b45e0i14s159n2j1
+    followers: 5159
+    engagement: 1847
+    commentsToLikes: 0.098672
+    id: ck9haz0zhenum0j78jtsij2k1
     verified: false
-    hashtags: "#jmbabe, #honeybum, #gitigirl, #iconswim"
+    hashtags: ""
+  - username: "peytonjohnsonnn"
+    fullname: >-
+      PEYTON JOHNSON / DC BLOGGER
+    location: "United States"
+    followers: 5311
+    engagement: 1755
+    commentsToLikes: 0.218793
+    id: ckaot25cqu19m0i78qqoapkbl
+    verified: false
+    hashtags: ""
 ---

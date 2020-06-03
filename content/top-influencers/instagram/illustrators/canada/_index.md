@@ -1,107 +1,107 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Canada In 2020
 description: >-
-  Find top illustrators Instagram influencers in Canada in 2020. Most popular hashtags: #procreate #illustration #drawing #art.
+  Find top illustrators Instagram influencers in Canada in 2020. Most popular hashtags: #rapunzel #fanart #aestheticart #disney.
 platform: Instagram
 profiles:
+  - username: "nivspo"
+    fullname: >-
+      🌷 Nivy 🌷
+    location: "Canada"
+    followers: 2380
+    engagement: 3064
+    commentsToLikes: 0.090935
+    id: ckaowyya9b3450i78d2fhe4fu
+    verified: false
+    hashtags: "#sailormoonredraw, #dtiys, #janicesungdtiys, #toonme"
+  - username: "felice.xu"
+    fullname: >-
+      Felice Xu
+    location: "Canada"
+    followers: 31472
+    engagement: 1747
+    commentsToLikes: 0.024060
+    id: ck8t1u468x1it0j78da1h6dxd
+    verified: false
+    hashtags: "#disneycharacter, #illustragram, #galaxymermaid, #mermaidlove"
   - username: "tess.laf"
     fullname: >-
       Tess
     location: "Canada"
-    followers: 50021
-    engagement: 876
-    commentsToLikes: 0.017237
+    followers: 51873
+    engagement: 834
+    commentsToLikes: 0.018427
     id: ck601t0dfg4bu0i14lgw6906k
     verified: false
-    hashtags: "#fashionillustrators, #dollypartonchallenge, #digitaldraws, #portraitdraws"
-  - username: "ink.dust"
+    hashtags: "#pillowchallenge, #digitaldrawings, #digitaldraw, #ilustrationart"
+  - username: "eris_tran"
     fullname: >-
-      𝓈𝓉𝑒𝓅𝒽
+      Eris Tran
     location: "Canada"
-    followers: 26477
-    engagement: 283
-    commentsToLikes: 0.008219
-    id: ck5zqq13vv2cx0i14wfdq7qi4
-    verified: false
-    hashtags: "#botanicaldrawing, #forearmtattoo, #art, #spring"
+    followers: 223415
+    engagement: 206
+    commentsToLikes: 0.014824
+    id: ckaozsefwn70x0i783cwboeg4
+    verified: true
+    hashtags: "#mermaid, #versace, #dress, #couture"
   - username: "allabouteve6000"
     fullname: >-
       Eve 6000
     location: "Canada"
-    followers: 5298
-    engagement: 553
-    commentsToLikes: 0.052405
+    followers: 5316
+    engagement: 558
+    commentsToLikes: 0.052737
     id: ck5hhigel8e8p0i11qdkiipnf
     verified: false
-    hashtags: "#whoisshe, #canadacontinental, #kissmyfatass"
+    hashtags: "#canadacontinental, #kissmyfatass, #whoisshe"
   - username: "laurakottlowski"
     fullname: >-
-      Creative Director | Mtn Skater
+      Laura Kottlowski | 🎨🏔⛸
     location: "Canada"
-    followers: 6111
-    engagement: 2406
-    commentsToLikes: 0.032243
+    followers: 5992
+    engagement: 2462
+    commentsToLikes: 0.032203
     id: ck5hrqqitvbfu0i11se8kbi84
     verified: false
-    hashtags: "#sheisnotlost, #forceofnature, #discoverearth, #artofvisuals"
+    hashtags: "#adultsskatetoo, #film, #movies, #moodygrams"
+  - username: "leafhug"
+    fullname: >-
+      Janelle
+    location: "Canada"
+    followers: 12126
+    engagement: 2797
+    commentsToLikes: 0.021828
+    id: ck137ef9nb4rz0i199o88lhfn
+    verified: false
+    hashtags: "#tinyart, #aesthetic, #artistic, #firetype"
+  - username: "imawonder"
+    fullname: >-
+      Tina Tran
+    location: "Canada"
+    followers: 86973
+    engagement: 1013
+    commentsToLikes: 0.015273
+    id: ck0ttm38e3b0o0i19tgjh4t5s
+    verified: false
+    hashtags: "#rorygilmore, #mermay2020, #witchyaesthetic, #toshirohitsugaya"
   - username: "lauracatrinella"
     fullname: >-
-      Laura Catrinella †
+      LAURA CATRINELLA
     location: "Canada"
-    followers: 105275
-    engagement: 710
-    commentsToLikes: 0.014920
+    followers: 109230
+    engagement: 675
+    commentsToLikes: 0.014987
     id: ck139qyxqmpev0i19659ntwa0
     verified: false
-    hashtags: "#characterdesign, #drawing, #procreate, #illustratorsoninstagram"
-  - username: "amiefarrellart"
-    fullname: >-
-      Amie Farrell
-    location: "Canada"
-    followers: 3675
-    engagement: 2611
-    commentsToLikes: 0.049860
-    id: ck8t46jkc5odk0j782qset87o
-    verified: false
-    hashtags: "#sixfanartchallenge, #drawing, #stevenuniversefanart, #willdeletelater"
+    hashtags: "#happyfamilyday, #sudio, #sixfanarts, #usuitakumi"
   - username: "yaboymegan"
     fullname: >-
       m e g u
     location: "Canada"
-    followers: 20999
+    followers: 20648
     engagement: 1462
-    commentsToLikes: 0.018828
+    commentsToLikes: 0.020460
     id: ck15pkcr6yb7g0i19scy86uuz
     verified: false
-    hashtags: "#devilmaycrycosplay, #devilmaycry4, #asheubert, #asheubertcosplay"
-  - username: "_skalsi"
-    fullname: >-
-      
-    location: "Canada"
-    followers: 2664
-    engagement: 1877
-    commentsToLikes: 0.071709
-    id: ck8wftmtug8ov0j78bswrls8t
-    verified: false
-    hashtags: "#artistsoninstagram, #nikeshoes, #torontoart, #screenprint"
-  - username: "chanteii_"
-    fullname: >-
-      🌷 Butter the cat 🌷
-    location: "Canada"
-    followers: 60632
-    engagement: 880
-    commentsToLikes: 0.008723
-    id: ck13bl7ahvyao0i1911q2osn3
-    verified: false
-    hashtags: "#comics, #lapelpin, #froggy, #coffee"
-  - username: "tfiddlerart"
-    fullname: >-
-      Taran Fiddler
-    location: "Canada"
-    followers: 67275
-    engagement: 830
-    commentsToLikes: 0.004600
-    id: ck5q2ar4jf33v0i11tdsyppy7
-    verified: false
-    hashtags: "#crystals, #desert, #character, #ipad"
+    hashtags: "#dmcnero, #dmcv, #devilmaycrynico, #oathkeeper"
 ---

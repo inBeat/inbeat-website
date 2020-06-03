@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In San Diego In 2020
 description: >-
-  Find top health Instagram influencers in San Diego in 2020. Most popular hashtags: #sandiego #sunset #travel #health.
+  Find top health Instagram influencers in San Diego in 2020. Most popular hashtags: #luxury #covid #stayhome #blessed.
 platform: Instagram
 profiles:
-  - username: "slightlystoopid"
+  - username: "madeleinekkennedy"
     fullname: >-
-      🆂🆃🅾🅾🅿🅸🅳
+      MADELEINE KENNEDY
     location: "United States"
-    followers: 319219
-    engagement: 154
-    commentsToLikes: 0.036376
-    id: ck0tte94s2d0c0i1910l9am4f
+    followers: 115744
+    engagement: 543
+    commentsToLikes: 0.056445
+    id: ck0w2hhxhodxm0i19bdfiff9c
     verified: true
-    hashtags: "#theshining, #sundays, #saturdays, #stoopidshit"
-  - username: "sandiego.city"
+    hashtags: "#instagood, #comiccon2019, #nakhair, #donate"
+  - username: "iamrochelleheatly"
     fullname: >-
-      Official San Diego Page
+      Rochelle Heatly
     location: "United States"
-    followers: 133316
-    engagement: 215
-    commentsToLikes: 0.017232
-    id: ck5pvukg1jpio0i11o1rgzzx5
+    followers: 12527
+    engagement: 504
+    commentsToLikes: 0.090385
+    id: ck14iaz5qeicq0i19pv6z40wn
     verified: false
-    hashtags: "#seniorportraits, #oceanside, #carlsbad, #artofvisuals"
+    hashtags: "#businesscoach, #innovation, #yourself, #growth"
   - username: "vainlyblush"
     fullname: >-
       VEE 🤍
     location: "United States"
-    followers: 17751
-    engagement: 797
-    commentsToLikes: 0.085472
+    followers: 20846
+    engagement: 727
+    commentsToLikes: 0.084265
     id: ck5c6pchi5wyc0i11ccuu10cw
     verified: false
-    hashtags: "#stayhome, #loungeturns4"
-  - username: "lisslobos"
-    fullname: >-
-      Lissette 🇲🇽
-    location: "United States"
-    followers: 24682
-    engagement: 1010
-    commentsToLikes: 0.026135
-    id: ck137zt27dtf70i195jn1qrkf
-    verified: false
-    hashtags: "#gopro, #joshuatree, #airplane, #blogger"
-  - username: "james.young.photos"
-    fullname: >-
-      James Young ™
-    location: "United States"
-    followers: 17535
-    engagement: 223
-    commentsToLikes: 0.077945
-    id: ck5q9ngucc0et0i11r2dad7kg
-    verified: false
-    hashtags: "#lookslikefilm, #outfit, #moodyports, #firstsandlasts"
+    hashtags: "#loungeturns4, #stayhome"
   - username: "sophiachamitoff"
     fullname: >-
       🇬🇷Sophia Anastasia Chamitoff🇷🇺
     location: "United States"
-    followers: 69194
-    engagement: 449
-    commentsToLikes: 0.009381
+    followers: 68533
+    engagement: 443
+    commentsToLikes: 0.008743
     id: ck6ugbp6q22fh0j71aie5aznb
     verified: false
-    hashtags: "#hawaiiankempo, #photographer, #innovative, #future"
+    hashtags: "#roses, #goodtimes, #happy, #instasummer"
+  - username: "alexafuelednaturally"
+    fullname: >-
+      Alexa Soto
+    location: "United States"
+    followers: 202808
+    engagement: 348
+    commentsToLikes: 0.055895
+    id: ck0ty1taul8xc0i19d944lh7p
+    verified: false
+    hashtags: "#easyrecipe, #buzzfeast, #rice, #bake"
   - username: "matinsdreams"
     fullname: >-
       Matin Nazari, MPH | San Diego
     location: "United States"
-    followers: 23861
-    engagement: 770
-    commentsToLikes: 0.098458
+    followers: 25735
+    engagement: 709
+    commentsToLikes: 0.116334
     id: ck0vyyexv6ebh0i19b9mhxel8
     verified: false
-    hashtags: "#moodygrams, #depthobsessed, #igerssandiego, #imaginatones"
-  - username: "thiagocalixtobjj"
+    hashtags: "#undiscover, #cwp022, #mavicpro, #nectaroptica"
+  - username: "lyndsay.sutherland"
     fullname: >-
-      THIAGO CALIXTO
+      ♡L Y N D S A Y♡
     location: "United States"
-    followers: 2366
-    engagement: 1187
-    commentsToLikes: 0.088689
-    id: ck5heh0wksuyc0i11ge0vf3ue
+    followers: 3858
+    engagement: 2872
+    commentsToLikes: 0.140588
+    id: ckap2gd3gyphf0i780trfcrnk
     verified: false
-    hashtags: "#califa, #atoshq, #champions, #sanjoseopen"
-  - username: "ohh_rebecca"
+    hashtags: ""
+  - username: "gabrielasage"
     fullname: >-
-      Fuzz🥀
+      Gabby Sage Masuda Ambata
     location: "United States"
-    followers: 2906
-    engagement: 2214
-    commentsToLikes: 0.050014
-    id: ck15qkjzn3asv0i19oy1f7oho
+    followers: 6722
+    engagement: 1239
+    commentsToLikes: 0.070653
+    id: ck14jntl0lafx0i19ix71idmh
     verified: false
-    hashtags: "#wyndam, #bronze, #ghost, #target"
+    hashtags: "#sponsored, #paradetogether, #bagguinuse, #mentalhealthawarenessmonth"
   - username: "beautyandthebenchpress"
     fullname: >-
       j e n  l o p e z
     location: "United States"
-    followers: 53043
-    engagement: 115
-    commentsToLikes: 0.058805
+    followers: 52913
+    engagement: 134
+    commentsToLikes: 0.074460
     id: ck5zr2eyvvroq0i1429u29lv6
     verified: false
-    hashtags: "#januarywhole30, #tessemaes, #foodbloggersstayinghome, #stayhomesavelives"
+    hashtags: "#winning, #iwannagrowoldwithyou, #paleo, #pelotonbike"
+  - username: "liz_luna664"
+    fullname: >-
+      Liz Luna
+    location: "United States"
+    followers: 5167
+    engagement: 1114
+    commentsToLikes: 0.033492
+    id: ckaozicypm0pl0i7812kr4e3k
+    verified: false
+    hashtags: "#bodybuilding, #fitnessmodel, #lyrics, #quarantine"
 ---

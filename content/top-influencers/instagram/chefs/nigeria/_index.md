@@ -1,107 +1,107 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Nigeria In 2020
 description: >-
-  Find top chefs Instagram influencers in Nigeria in 2020. Most popular hashtags: #nigerianfoods #africancuisine #nigerianfood #friedfish.
+  Find top chefs Instagram influencers in Nigeria in 2020. Most popular hashtags: #quarantine #photography #brownskingirl #hotsauce.
 platform: Instagram
 profiles:
-  - username: "keturah_king"
-    fullname: >-
-      Keturah King
-    location: "Nigeria"
-    followers: 50554
-    engagement: 604
-    commentsToLikes: 0.068862
-    id: ck5zuocrt2qvv0i14ylyuhdrx
-    verified: true
-    hashtags: "#herstory, #themarathoncontinues, #phenomenalwoman, #hbcu"
-  - username: "glamprince"
-    fullname: >-
-      snap/skype/twitter @glamprince
-    location: "Nigeria"
-    followers: 2114
-    engagement: 1450
-    commentsToLikes: 0.184028
-    id: ck6tvg0z5m10k0j719qlnie68
-    verified: false
-    hashtags: "#skylounge, #abujafct, #ciroc, #bankheadentertainment"
   - username: "ikemeamara"
     fullname: >-
       amysneh
     location: "Nigeria"
-    followers: 55986
-    engagement: 202
-    commentsToLikes: 0.076929
+    followers: 56831
+    engagement: 258
+    commentsToLikes: 0.089595
     id: ck14lr89lw3aq0i19jrobt85w
     verified: false
-    hashtags: ""
-  - username: "taylaw_tamod"
+    hashtags: "#audiomack, #kandiboi, #soundcloud"
+  - username: "glamprince"
     fullname: >-
-      Chef Taylor
+      snap/skype/twitter @glamprince
     location: "Nigeria"
-    followers: 11471
-    engagement: 280
-    commentsToLikes: 0.066137
-    id: ck5cdatdbiu9i0i11rg4b52qd
+    followers: 2041
+    engagement: 1503
+    commentsToLikes: 0.183793
+    id: ck6tvg0z5m10k0j719qlnie68
     verified: false
-    hashtags: "#genderequality, #covid19, #guinessnightfootballgrandfinale, #cheftaylorxmezzileroy"
+    hashtags: "#bankheadentertainment, #grillatthepent, #skylounge, #abujafct"
+  - username: "alex_ifunaya"
+    fullname: >-
+      Ifunaya Ahavah🇳🇬🇮🇱
+    location: "Nigeria"
+    followers: 8344
+    engagement: 891
+    commentsToLikes: 0.095994
+    id: ck8syqnjzlmw90j78ta6hba8z
+    verified: false
+    hashtags: "#bikini, #like4like, #sunkissed, #birthdaygirl"
+  - username: "thegenevievefadeh_"
+    fullname: >-
+      CHEF GENEVIEVE FADEH👩🏻‍🍳
+    location: "Nigeria"
+    followers: 21406
+    engagement: 317
+    commentsToLikes: 0.047984
+    id: ck5byv8xhpwz60i117acn4y7h
+    verified: false
+    hashtags: "#thankful, #cheersto27, #wcw, #2020"
+  - username: "chef_muse"
+    fullname: >-
+      Chef Muse
+    location: "Nigeria"
+    followers: 11382
+    engagement: 674
+    commentsToLikes: 0.068175
+    id: ckap6y1d3huaa0i78ytftxqy9
+    verified: false
+    hashtags: "#thefeedfeed, #issamusething, #netflixfood, #kidsofinstagram"
   - username: "thefatgirlwithin_"
     fullname: >-
       Chef• Food Stylist & Blogger🇳🇬
     location: "Nigeria"
-    followers: 8491
-    engagement: 619
-    commentsToLikes: 0.045357
+    followers: 8882
+    engagement: 651
+    commentsToLikes: 0.043484
     id: ck5hrd6i2uo950i110h65tkbn
     verified: false
-    hashtags: "#foodplacesinlagos, #thefatgirlwithindoesnteat, #foodblog, #cafeinteriors"
+    hashtags: "#thefatgirlwithincreates, #thefatgirlwithinbakes, #culinaryarts, #mybully"
   - username: "modernafricankitchen"
     fullname: >-
       Modern African Kitchen
     location: "Nigeria"
-    followers: 44088
-    engagement: 67
-    commentsToLikes: 0.012802
+    followers: 46479
+    engagement: 153
+    commentsToLikes: 0.016533
     id: ck13cnr4119k20i19o4atl14v
     verified: false
-    hashtags: "#beautifulplate, #9jafood, #scrambledeggs, #friedricerecipe"
-  - username: "potofflavours"
+    hashtags: "#grilledbream, #magusafoodvendor, #grilledrice, #peppersaucekw"
+  - username: "pretty_tonia1_"
     fullname: >-
-      Pot of  Flavours
+      👻 @prettytonia1 🧿
     location: "Nigeria"
-    followers: 5524
-    engagement: 583
-    commentsToLikes: 0.044257
-    id: ck13aedflpz9j0i19rt8zm189
+    followers: 69751
+    engagement: 76
+    commentsToLikes: 0.015615
+    id: ck5q80m0f3x0s0i11b42qnygg
     verified: false
-    hashtags: "#lockdown, #ugusauce, #fishpeppersoup, #abujachef"
+    hashtags: ""
   - username: "omolola_unbothered"
     fullname: >-
       KING Olabiyi Omolola !!!
     location: "Nigeria"
-    followers: 15836
-    engagement: 222
-    commentsToLikes: 0.093931
+    followers: 15874
+    engagement: 268
+    commentsToLikes: 0.118014
     id: ck6tx9mx1wm130j71zuh6vz9g
     verified: false
-    hashtags: "#melanin, #butt, #liptontea, #marich2020"
+    hashtags: "#chef, #happychild, #musicartist, #roddyricch"
   - username: "thebillionairechef"
     fullname: >-
-      Chef Eros #BC
+      Chef Eros #TheBillionaireChef
     location: "Nigeria"
-    followers: 35872
-    engagement: 98
-    commentsToLikes: 0.045396
+    followers: 38557
+    engagement: 241
+    commentsToLikes: 0.067416
     id: ck5zwevyr60bw0i147q6al71j
     verified: false
-    hashtags: "#thebeginingofforever, #chefsathome, #flashbackfriday, #thankful"
-  - username: "foodblogafrica"
-    fullname: >-
-      FOOD BLOG AFRICA
-    location: "Nigeria"
-    followers: 91780
-    engagement: 86
-    commentsToLikes: 0.023694
-    id: ck13cnqwg19hk0i19kcz09o1k
-    verified: false
-    hashtags: "#welovefood, #foodlover, #goodmoodfood, #greenseasoning"
+    hashtags: "#newgoals, #chefsroll, #lockdown, #myerosrecipe"
 ---

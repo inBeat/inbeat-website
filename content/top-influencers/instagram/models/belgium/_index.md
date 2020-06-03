@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Belgium In 2020
 description: >-
-  Find top models Instagram influencers in Belgium in 2020. Most popular hashtags: #model #photography #stevemaddeneu #portrait.
+  Find top models Instagram influencers in Belgium in 2020. Most popular hashtags: #photography #girl #wine #ad.
 platform: Instagram
 profiles:
-  - username: "tatiana.sassoye"
+  - username: "statiana.model"
     fullname: >-
       Tatiana🎀
     location: "Belgium"
-    followers: 32851
-    engagement: 747
-    commentsToLikes: 0.063547
+    followers: 44202
+    engagement: 764
+    commentsToLikes: 0.060273
     id: ck8sxaggdgot90j78p5x5ww8u
     verified: false
-    hashtags: "#glamour, #luxury, #modelagency, #morning"
+    hashtags: "#mondayvibes, #undizfamily, #sunday, #fridaymood"
+  - username: "jottiverbruggen"
+    fullname: >-
+      ♥ JOTTI VERBRUGGEN
+    location: "Belgium"
+    followers: 17454
+    engagement: 599
+    commentsToLikes: 0.220941
+    id: ck5py0gootqr30i1112cyzzpw
+    verified: false
+    hashtags: "#gucci, #iphonecase, #ad, #lancaster"
   - username: "fiosrs"
     fullname: >-
       FIONA
     location: "Belgium"
-    followers: 44824
-    engagement: 702
-    commentsToLikes: 0.035756
+    followers: 48533
+    engagement: 663
+    commentsToLikes: 0.039169
     id: ck8tah9thrqvz0j78dkrv3ncl
     verified: false
     hashtags: ""
-  - username: "lauren.versnick"
-    fullname: >-
-      LAUREN VERSNICK
-    location: "Belgium"
-    followers: 33526
-    engagement: 950
-    commentsToLikes: 0.017603
-    id: ck55mo3mz4doe0i119rxja9yb
-    verified: false
-    hashtags: "#blijfinuwkot, #selectedbylauren, #strongertogether, #selectedbylauren"
-  - username: "nathannuyts"
-    fullname: >-
-      NATHAN | REBELIEVE
-    location: "Belgium"
-    followers: 29120
-    engagement: 1887
-    commentsToLikes: 0.013321
-    id: ck6u50y4h6y710j71phpt1cgv
-    verified: false
-    hashtags: "#pushup, #mindset, #rebelieve, #motivation"
-  - username: "melocst"
-    fullname: >-
-      M E L O D Y
-    location: "Belgium"
-    followers: 26399
-    engagement: 1375
-    commentsToLikes: 0.012337
-    id: ck5hddpdvmv0b0i11ctq9d1jm
-    verified: false
-    hashtags: ""
-  - username: "laura.oliveiragranja"
-    fullname: >-
-      𝐿𝑎𝑢𝑟𝑎 𝑂𝑙𝑖𝑣𝑒𝑖𝑟𝑎 𝐺𝑟𝑎𝑛𝑗𝑎
-    location: "Belgium"
-    followers: 13065
-    engagement: 401
-    commentsToLikes: 0.112796
-    id: ck6txv5tn019a0j71dktpndhx
-    verified: false
-    hashtags: "#vintage, #glamchallenge, #helpeachother, #motivation"
-  - username: "julesstagrm"
-    fullname: >-
-      J u l e s
-    location: "Belgium"
-    followers: 23310
-    engagement: 198
-    commentsToLikes: 0.070999
-    id: ck55lnc8v1zee0i11yg5l23fc
-    verified: false
-    hashtags: "#europe, #wlyg, #brunette, #vintage"
   - username: "margaux.marissen"
     fullname: >-
       𝐌𝐚𝐫𝐠𝐚𝐮𝐱🥀𝐌𝐚𝐫𝐢𝐬𝐬𝐞𝐧
     location: "Belgium"
-    followers: 7840
-    engagement: 696
-    commentsToLikes: 0.127218
+    followers: 8038
+    engagement: 751
+    commentsToLikes: 0.112480
     id: ck135h1qv1do20i192pqimwg5
     verified: false
-    hashtags: "#parisfrance, #parisphoto, #photographer, #birds"
-  - username: "chloevandenbussche"
+    hashtags: "#soleil, #flowers, #birds, #party"
+  - username: "loukavdt"
     fullname: >-
-      Chloé Vandenbussche
+      Louka Van Der Taelen
     location: "Belgium"
-    followers: 18406
-    engagement: 359
-    commentsToLikes: 0.084760
-    id: ck5hgftnq2jqn0i11bknqkrq9
+    followers: 13531
+    engagement: 2757
+    commentsToLikes: 0.021636
+    id: ck9wgvhm1v6570j78pkbx08lc
     verified: false
-    hashtags: "#letsrecycletogether, #neuvillebags, #aveda, #loavies"
-  - username: "margotweeda"
+    hashtags: "#inweekday, #homeinweekday"
+  - username: "lauren.versnick"
     fullname: >-
-      Margot Weeda
+      LAUREN VERSNICK
     location: "Belgium"
-    followers: 7320
-    engagement: 706
-    commentsToLikes: 0.039051
-    id: ck14i7frxe0n40i19l8li2w6i
+    followers: 42543
+    engagement: 914
+    commentsToLikes: 0.017916
+    id: ck55mo3mz4doe0i119rxja9yb
     verified: false
-    hashtags: "#workshops, #splash, #moderndance, #progress"
+    hashtags: "#christmascountdown, #cksfashion, #blijfinuwkot, #nationalenaaiactie"
+  - username: "mbee_model"
+    fullname: >-
+      Model - Based In Belgium 🐝🐝
+    location: "Belgium"
+    followers: 25955
+    engagement: 539
+    commentsToLikes: 0.050935
+    id: ck6u6mnpzghsi0j71fs451a2g
+    verified: false
+    hashtags: "#photoshoot, #model, #girl, #photography"
+  - username: "nathannuyts"
+    fullname: >-
+      NATHAN | REBELIEVE
+    location: "Belgium"
+    followers: 41490
+    engagement: 1923
+    commentsToLikes: 0.015531
+    id: ck6u50y4h6y710j71phpt1cgv
+    verified: false
+    hashtags: "#kettlebell, #hiit"
+  - username: "julesstagrm"
+    fullname: >-
+      J u l i e
+    location: "Belgium"
+    followers: 24696
+    engagement: 284
+    commentsToLikes: 0.102237
+    id: ck55lnc8v1zee0i11yg5l23fc
+    verified: false
+    hashtags: "#lancaster, #nalu, #newtaste, #ootd"
+  - username: "jennatp"
+    fullname: >-
+      ᴊᴇɴɴᴀ ᴘᴇɪᴊ🦋
+    location: "Belgium"
+    followers: 42357
+    engagement: 563
+    commentsToLikes: 0.030513
+    id: ck0u8kj0t7j8j0i19wqe201t7
+    verified: false
+    hashtags: "#workout, #yeshkm, #stayinwithbabyliss, #hm"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Spain In 2020
 description: >-
-  Find top chefs Instagram influencers in Spain in 2020. Most popular hashtags: #gastronomia #chocolate #foodporn #foodie.
+  Find top chefs Instagram influencers in Spain in 2020. Most popular hashtags: #quedateencasa #cocinero #yomequedoencasa #cuarentena.
 platform: Instagram
 profiles:
-  - username: "danielmchef6"
-    fullname: >-
-      Daniel MasterChef 6
-    location: "Spain"
-    followers: 20983
-    engagement: 489
-    commentsToLikes: 0.150863
-    id: ck0w46d4tx1f70i19j694bc3f
-    verified: false
-    hashtags: "#bomberococinero, #pinktailsghi, #healthyfood, #salvemoselplaneta"
   - username: "alma_cupcakes"
     fullname: >-
       Alma
     location: "Spain"
-    followers: 260422
-    engagement: 279
-    commentsToLikes: 0.102746
+    followers: 286018
+    engagement: 264
+    commentsToLikes: 0.046108
     id: ck55j5tg3wc7b0i11wuxctpaq
     verified: true
-    hashtags: "#mujeresimparables, #scotchbriteconalma, #embajadorascotchbrite, #yocorroencasa"
-  - username: "vanessabreuer1"
+    hashtags: "#hacerlacompracon, #scotchbriteconalma, #colaboraci"
+  - username: "danielmchef6"
     fullname: >-
-      Vanessa Breuer
+      Daniel MasterChef 6
     location: "Spain"
-    followers: 40354
-    engagement: 302
-    commentsToLikes: 0.026072
-    id: ck0vxjujxz8zf0i19lervhvvv
+    followers: 22399
+    engagement: 444
+    commentsToLikes: 0.151649
+    id: ck0w46d4tx1f70i19j694bc3f
     verified: false
-    hashtags: "#lamb, #returntonature, #sendingpositivevibes, #mangokids"
-  - username: "jacksflavours"
+    hashtags: "#arroz, #croquetas, #pullandbearcommunity, #hallocake"
+  - username: "maxalonsor"
     fullname: >-
-      Jack's Flavours
+      Max Alonso
     location: "Spain"
-    followers: 22292
-    engagement: 708
-    commentsToLikes: 0.196877
-    id: ck6ty9fa22evr0j71kliadtre
-    verified: false
-    hashtags: "#jacksflavours, #recetascaseras, #cocina, #barcelonafood"
-  - username: "chefbenben"
+    followers: 75452
+    engagement: 1119
+    commentsToLikes: 0.016945
+    id: ck5q12ioo8yhh0i115jfihhai
+    verified: true
+    hashtags: "#instafoodie, #instagood, #chilena, #gaycouple"
+  - username: "carlosoleramos"
     fullname: >-
-      Benjamin Bensoussan
+      ᴄ ᴀ ʀ ʟ ᴏ s  s ᴏ ʟ ᴇ ʀ
     location: "Spain"
-    followers: 34032
-    engagement: 194
-    commentsToLikes: 0.028893
-    id: ck0vwgb65tk810i19vp8okwxh
+    followers: 146015
+    engagement: 217
+    commentsToLikes: 0.099215
+    id: ck5hq4rn5shvg0i11d9y4lys8
     verified: false
-    hashtags: "#repost, #manabi, #honestgreenslisbon, #love"
+    hashtags: "#cuarentena, #quesosveganos, #yomequedoencasa, #couplegoals"
+  - username: "ramonfreixa"
+    fullname: >-
+      Ramon Freixa
+    location: "Spain"
+    followers: 46297
+    engagement: 181
+    commentsToLikes: 0.050340
+    id: ck0vyxwno6bs10i19ka6pse51
+    verified: true
+    hashtags: "#rfm10a, #hosteleria, #juegaterapia, #diadelpadre"
   - username: "pepebara"
     fullname: >-
       José Barahona Rais
     location: "Spain"
-    followers: 107799
-    engagement: 448
-    commentsToLikes: 0.002613
+    followers: 108882
+    engagement: 472
+    commentsToLikes: 0.002786
     id: ck5hihtasdkkx0i11bet64ktd
     verified: false
-    hashtags: "#jeep, #yosoynova, #castillo, #veroynonowedd2020"
-  - username: "pepe_rodriguezrey"
+    hashtags: "#tb, #recordaresvolveravivir, #memories, #cheers"
+  - username: "jacksflavours"
     fullname: >-
-      Pepe Rodriguez
+      Jack's Flavours
     location: "Spain"
-    followers: 184268
-    engagement: 447
-    commentsToLikes: 0.020814
-    id: ck5cbm6nxfpz50i11xz4fjrlc
-    verified: true
-    hashtags: "#gastronomiaespa, #migranodearena, #restaurante, #peperodriguez"
-  - username: "fjmigoya"
-    fullname: >-
-      Francisco Migoya
-    location: "Spain"
-    followers: 35648
-    engagement: 413
-    commentsToLikes: 0.038024
-    id: ck0vwkexku8mn0i191guzmtxp
-    verified: true
-    hashtags: "#pizza, #pizzaathome, #modernistbread, #valentines"
-  - username: "rocsuri"
-    fullname: >-
-      Roc Suñé Rius
-    location: "Spain"
-    followers: 8789
-    engagement: 698
-    commentsToLikes: 0.060782
-    id: ck6tuuellihb60j71lstnma3x
+    followers: 22248
+    engagement: 719
+    commentsToLikes: 0.200681
+    id: ck6ty9fa22evr0j71kliadtre
     verified: false
-    hashtags: "#food52, #foodporn, #calvados, #poma"
+    hashtags: "#veganrecipes, #navidad2019, #yomequedoencasa, #fitness"
+  - username: "jhonnathanmerchan"
+    fullname: >-
+      Jhonnathan Merchan
+    location: "Spain"
+    followers: 15979
+    engagement: 1438
+    commentsToLikes: 0.177952
+    id: ck8t9ficqnwdg0j788snye5a4
+    verified: false
+    hashtags: "#dale, #estilourbano, #venezuela, #actor"
+  - username: "chefbosquet"
+    fullname: >-
+      Roberto ChefBosquet
+    location: "Spain"
+    followers: 395005
+    engagement: 285
+    commentsToLikes: 0.037009
+    id: ck14i3pdtdhkm0i1905h2uszc
+    verified: true
+    hashtags: "#yomequwdoencasa, #brownie, #pizza, #muffins"
   - username: "angelocantore"
     fullname: >-
       Angelica Locantore
     location: "Spain"
-    followers: 21319
-    engagement: 324
-    commentsToLikes: 0.050179
+    followers: 22038
+    engagement: 348
+    commentsToLikes: 0.064481
     id: ck6tiwxn61l6p0j71amd8hing
     verified: false
-    hashtags: "#chocolat, #efectos, #easterbunny, #pasteleriaprofesional"
+    hashtags: "#arrozconmango, #cookies, #french, #institutoculinario"
 ---

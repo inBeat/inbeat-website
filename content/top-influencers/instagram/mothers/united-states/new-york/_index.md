@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In New York In 2020
 description: >-
-  Find top mothers Instagram influencers in New York in 2020. Most popular hashtags: #love #fashion #newyork #photography.
+  Find top mothers Instagram influencers in New York in 2020. Most popular hashtags: #mother #mothersday #family #mama.
 platform: Instagram
 profiles:
   - username: "rachelbayjones"
     fullname: >-
       Rachel Bay Jones
     location: "United States"
-    followers: 62812
-    engagement: 486
-    commentsToLikes: 0.008109
+    followers: 62113
+    engagement: 485
+    commentsToLikes: 0.008167
     id: ck6ubbrws8nyr0j71wrzhaldv
     verified: true
-    hashtags: "#natalieandhenry, #englishsettersofinstagram, #englishsetter, #michaelgreif"
-  - username: "laraalcantara"
+    hashtags: "#englishsettersofinstagram, #michaelgreif, #fanart, #natalieandhenry"
+  - username: "daler_sport"
     fullname: >-
-      Lara Alcantara
+      Daler Amri
     location: "United States"
-    followers: 16767
-    engagement: 174
-    commentsToLikes: 0.393476
-    id: ck1353vuxzkmz0i19u62fv8uk
+    followers: 7824
+    engagement: 716
+    commentsToLikes: 0.040990
+    id: ck5c0rlnvtpu90i11briahtfs
     verified: false
-    hashtags: "#creating, #springishere, #entrepeneur, #keeppositive"
-  - username: "mrredbeard"
-    fullname: >-
-      Ben Martin
-    location: "United States"
-    followers: 2684
-    engagement: 923
-    commentsToLikes: 0.154656
-    id: ck0u2kpbf050w0i198nt77zdk
-    verified: false
-    hashtags: "#sharonstoned, #party, #braziliangirl, #brunette"
+    hashtags: "#matin, #051220, #zarrukhadashev, #unitednation"
   - username: "barbraleegrant"
     fullname: >-
       Barbra-Lee Grant
     location: "United States"
-    followers: 2573
-    engagement: 1092
-    commentsToLikes: 0.064495
+    followers: 2558
+    engagement: 1047
+    commentsToLikes: 0.069015
     id: ck14k245pncge0i193h8unusm
     verified: false
-    hashtags: "#christmas, #2020, #beasaint, #smilejamaica"
-  - username: "kin_derka"
+    hashtags: "#wakeupandsmile, #goodfood, #spreadinglove, #shoot"
+  - username: "et_in_nyc"
     fullname: >-
-      Kinga Trojan
+      ET_IN_NYC
     location: "United States"
-    followers: 6552
-    engagement: 1313
-    commentsToLikes: 0.012909
-    id: ck0w6xs2parpt0i19kelkqvfr
+    followers: 7772
+    engagement: 553
+    commentsToLikes: 0.035139
+    id: ck0vw2wipruxi0i19ebvok1vq
     verified: false
-    hashtags: "#bestsiblings, #model, #mood, #tbt"
+    hashtags: "#blackmamba, #sports, #architectureporn, #forkyeah"
+  - username: "lapatbol"
+    fullname: >-
+      Patricia Bolaños
+    location: "United States"
+    followers: 8502
+    engagement: 578
+    commentsToLikes: 0.032447
+    id: ck5c6uqn268hd0i11puh0c25j
+    verified: false
+    hashtags: "#life, #island, #cigarretes, #wesanderson"
+  - username: "creativesposts"
+    fullname: >-
+      Creatives Posts ⚡️
+    location: "United States"
+    followers: 205496
+    engagement: 134
+    commentsToLikes: 0.050416
+    id: ck8td5dp21y8o0j78l6w0uybi
+    verified: false
+    hashtags: "#cutie, #pandemic, #donationsneeded, #family"
+  - username: "tj.cunningham"
+    fullname: >-
+      TJ Cunningham
+    location: "United States"
+    followers: 18860
+    engagement: 375
+    commentsToLikes: 0.028682
+    id: ck13bhnwdvg630i19jdewdu51
+    verified: false
+    hashtags: "#sketchbook, #ranch, #birdlovers, #earth"
+  - username: "bbellaawhite"
+    fullname: >-
+      Bella White ♒︎
+    location: "United States"
+    followers: 9446
+    engagement: 940
+    commentsToLikes: 0.135904
+    id: ck137cifyav000i19n4s7i7nl
+    verified: false
+    hashtags: "#maximcovergirl2020"
+  - username: "lorindabreeze"
+    fullname: >-
+      Lorinda
+    location: "United States"
+    followers: 20589
+    engagement: 287
+    commentsToLikes: 0.066058
+    id: ck14l2ejasi7x0i192qk03brw
+    verified: false
+    hashtags: "#toasttoppers, #soothyoursoul, #cincodemayo, #tacotuesday"
   - username: "avonmalaysia_"
     fullname: >-
       |Pronounced Aye-Von|
     location: "United States"
-    followers: 5950
-    engagement: 1296
-    commentsToLikes: 0.059096
+    followers: 5997
+    engagement: 1302
+    commentsToLikes: 0.058174
     id: ck15si38rd47l0i19w2h05tka
     verified: false
-    hashtags: "#queensmua, #brooklynmua, #thatmakeuplife, #nycm"
-  - username: "tandafrancis"
-    fullname: >-
-      Tanda Francis
-    location: "United States"
-    followers: 5845
-    engagement: 786
-    commentsToLikes: 0.054090
-    id: ck5zsah2qy4jv0i14m7zz5w9b
-    verified: false
-    hashtags: "#photographers, #metaphysical, #white, #largescaledrawing"
-  - username: "beautybyanuja"
-    fullname: >-
-      ᴬᴺᵁJᴬᴬᴴHAIR|ᴍᴀᴋᴇᴜᴘ
-    location: "United States"
-    followers: 26279
-    engagement: 218
-    commentsToLikes: 0.011784
-    id: ck15swrcaf6y30i197d6yz6kd
-    verified: false
-    hashtags: "#austinmakeupartist, #bride, #wed2be, #dresstoimpress"
-  - username: "marinalarroude"
-    fullname: >-
-      Marina Larroude
-    location: "United States"
-    followers: 65907
-    engagement: 80
-    commentsToLikes: 0.049529
-    id: ck5c2vjzdy2rb0i11ib9hlyq7
-    verified: true
-    hashtags: "#supportsmallbusiness, #staysafe, #esperan, #bny"
-  - username: "kbromberg"
-    fullname: >-
-      K (Kristy) Bromberg �
-    location: "United States"
-    followers: 31049
-    engagement: 226
-    commentsToLikes: 0.057431
-    id: ck15uyz3bp5h50i19zqovlu3f
-    verified: false
-    hashtags: "#authorsofig, #romanceauthors, #ultimateromance, #everydayheroesworld"
+    hashtags: "#bronxmua"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Colombia In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #travel #lifestyle #yomequedoencasa.
+  Find top lifestyle Instagram influencers in Colombia in 2020. Most popular hashtags: #lifestyle #instagood #nature #felicidad.
 platform: Instagram
 profiles:
   - username: "folliedolliebeaute"
     fullname: >-
-      #FollieDollieTips 🌿
+      #FollieDollieTips 🌿 كارلا
     location: "Colombia"
-    followers: 53284
-    engagement: 895
-    commentsToLikes: 0.122599
+    followers: 62727
+    engagement: 1175
+    commentsToLikes: 0.204695
     id: ck15qy8xd58i10i199uk0b5pn
     verified: false
-    hashtags: "#folliedollietips, #sundaywisdom, #nofilter, #panama"
+    hashtags: "#wedontknowher, #abhxamrezy, #follielivexmacpanama, #makeup"
   - username: "ikeoficial"
     fullname: >-
       Cesar  🔱  ike   Ⓜ️
     location: "Colombia"
-    followers: 9055
-    engagement: 1074
-    commentsToLikes: 0.130959
+    followers: 10232
+    engagement: 1097
+    commentsToLikes: 0.140959
     id: ck138cyppfmu50i19cr7vx1iz
     verified: false
-    hashtags: "#styletravel, #italia, #artpicture, #relax"
-  - username: "branorozcom"
-    fullname: >-
-      Bran Orozco Muñoz
-    location: "Colombia"
-    followers: 17188
-    engagement: 527
-    commentsToLikes: 0.110827
-    id: ck15ux3olox5w0i19y3al30ix
-    verified: false
-    hashtags: "#travelcolombia, #hotelhilton, #barranquilla, #style"
-  - username: "_omnia.x"
-    fullname: >-
-      O M N I A
-    location: "Colombia"
-    followers: 26757
-    engagement: 1432
-    commentsToLikes: 0.027958
-    id: ck55kllvdzlpk0i1159j074ii
-    verified: false
-    hashtags: "#sonyalphaportrait, #majestic, #collateral, #sonyalphaclub"
+    hashtags: "#domingoencasa, #stayhome, #brutalman, #luxurylifestyle"
   - username: "dr.tonni"
     fullname: >-
       GORDO PERO CHIMBA MI AMOR
     location: "Colombia"
-    followers: 251028
-    engagement: 537
-    commentsToLikes: 0.024576
+    followers: 1734108
+    engagement: 999
+    commentsToLikes: 0.018024
     id: ck8wg6z05gu3j0j78mcrw9qau
     verified: false
-    hashtags: "#comedia, #fyp, #blondehair, #fryp"
-  - username: "marceloperamontoya"
+    hashtags: "#cuarentena, #cuidateencasa, #covid, #quarantine"
+  - username: "kaoutaroughriiss"
     fullname: >-
-      MARCELA LOPERA
+      Social Media Manager
     location: "Colombia"
-    followers: 18942
-    engagement: 386
-    commentsToLikes: 0.084637
-    id: ck6u1n4k2mqcm0j71zuv5tsou
+    followers: 49683
+    engagement: 457
+    commentsToLikes: 0.077570
+    id: ckaoved0p48sn0i78qk5teilp
     verified: false
-    hashtags: "#loreta, #2020, #loretaonboard, #26weeks"
-  - username: "benjamin_batz"
-    fullname: >-
-      Benjamin Batz
-    location: "Colombia"
-    followers: 24282
-    engagement: 766
-    commentsToLikes: 0.032009
-    id: ck15t4mr9gbop0i19w25yjbum
-    verified: false
-    hashtags: "#mykayakguide"
-  - username: "manumontoz"
-    fullname: >-
-      MANU MONTOYA🦋
-    location: "Colombia"
-    followers: 436880
-    engagement: 185
-    commentsToLikes: 0.029507
-    id: ck5zutgbp30cx0i14hmrkznmq
-    verified: false
-    hashtags: "#abh, #instagirls, #makeupmoodboards, #lipicing"
-  - username: "angelperez_ignacio"
-    fullname: >-
-      Angel Ignacio Pérez
-    location: "Colombia"
-    followers: 125609
-    engagement: 853
-    commentsToLikes: 0.011387
-    id: ck5c7hztc7l2p0i11w8yrm541
-    verified: false
-    hashtags: "#dollypartonchallenge, #tbt, #yomequedoencasa, #qued"
+    hashtags: "#hijabinspo, #hijabers, #caftandress, #picsart"
   - username: "leidygomez063"
     fullname: >-
       ⚜️ 𝐋𝐞𝐢𝐢𝐝𝐲 𝐆𝐨́𝐦𝐞𝐳  ⚜️
     location: "Colombia"
-    followers: 220982
-    engagement: 452
-    commentsToLikes: 0.018715
+    followers: 254897
+    engagement: 456
+    commentsToLikes: 0.131269
     id: ck8t0qyfwsytv0j7846clzuqm
     verified: false
-    hashtags: "#studiolife, #newyork, #studio, #mixtape"
+    hashtags: "#tucacas, #manizale, #modeloscolombia, #regalamelanoche"
+  - username: "jessica.zabala"
+    fullname: >-
+      Jessica Zabala
+    location: "Colombia"
+    followers: 59094
+    engagement: 1461
+    commentsToLikes: 0.029326
+    id: ck9wghcvxtf430j788scdohfk
+    verified: false
+    hashtags: ""
+  - username: "mcarolinapadilla"
+    fullname: >-
+      María Carolina Padilla Durán
+    location: "Colombia"
+    followers: 7221
+    engagement: 1585
+    commentsToLikes: 0.040135
+    id: ckap4b8sf6kuo0i782a68d4ls
+    verified: false
+    hashtags: "#family, #cool, #vsco, #fit"
+  - username: "branorozcom"
+    fullname: >-
+      Bran Orozco Muñoz
+    location: "Colombia"
+    followers: 16967
+    engagement: 538
+    commentsToLikes: 0.109629
+    id: ck15ux3olox5w0i19y3al30ix
+    verified: false
+    hashtags: "#laguajira, #blogger, #turismo, #formen"
+  - username: "_omnia.x"
+    fullname: >-
+      O M N I A
+    location: "Colombia"
+    followers: 27039
+    engagement: 1433
+    commentsToLikes: 0.027580
+    id: ck55kllvdzlpk0i1159j074ii
+    verified: false
+    hashtags: "#bodylanguage, #collateral, #thefashionpr0ject, #sonyalpha"
+  - username: "angelperez_ignacio"
+    fullname: >-
+      Angel Ignacio Pérez
+    location: "Colombia"
+    followers: 124608
+    engagement: 693
+    commentsToLikes: 0.017321
+    id: ck5c7hztc7l2p0i11w8yrm541
+    verified: false
+    hashtags: "#yomequedoencasa, #tbt, #stayathome, #lifestyle"
 ---

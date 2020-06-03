@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In South Korea In 2020
 description: >-
-  Find top models Instagram influencers in South Korea in 2020. Most popular hashtags: #ad #honeycinnamon #tmt #cameo.
+  Find top models Instagram influencers in South Korea in 2020. Most popular hashtags: #ootd #epine #brandyusa #yo.
 platform: Instagram
 profiles:
   - username: "bangjooho"
     fullname: >-
       방주호
     location: "South Korea"
-    followers: 85542
-    engagement: 243
-    commentsToLikes: 0.007246
+    followers: 83653
+    engagement: 240
+    commentsToLikes: 0.006902
     id: ck15svzncf2w60i193ejs9of0
     verified: true
-    hashtags: "#jeju, #kivuli, #leader, #ootd"
+    hashtags: "#leader, #paris, #daily, #london"
+  - username: "haadiya90"
+    fullname: >-
+      #요가강사 하디야
+    location: "South Korea"
+    followers: 5522
+    engagement: 1938
+    commentsToLikes: 0.041751
+    id: ckaowdxc88id90i78qif9ud3i
+    verified: false
+    hashtags: "#yogainstructor, #natarajasana, #gopromax, #earlypick"
+  - username: "channnv"
+    fullname: >-
+      이종찬 (Lee JongChan)
+    location: "South Korea"
+    followers: 96806
+    engagement: 780
+    commentsToLikes: 0.019068
+    id: ck8t9k361oe210j78d5vanbs0
+    verified: false
+    hashtags: "#20ss, #natureneedsheroes, #timberland, #findkapoor"
   - username: "otani_emiri"
     fullname: >-
       大谷映美里
     location: "South Korea"
-    followers: 130570
-    engagement: 707
-    commentsToLikes: 0.013375
+    followers: 137524
+    engagement: 728
+    commentsToLikes: 0.014381
     id: ck0vzd5ls8ihj0i19n7zixo92
     verified: true
-    hashtags: "#cameo, #cimer, #canone, #ricafrosh"
-  - username: "j_in_young"
+    hashtags: "#bubka, #kate, #ricafrosh, #liquem"
+  - username: "seung_bi_ahn"
     fullname: >-
-      진영 (金眞瑛)
+      안승비/Seungbi Ahn
     location: "South Korea"
-    followers: 14560
-    engagement: 1139
-    commentsToLikes: 0.034281
-    id: ck138jgsjgirm0i19sktv4fq9
+    followers: 24016
+    engagement: 333
+    commentsToLikes: 0.086355
+    id: ck13acxmiprnw0i19akd2ujc6
     verified: false
-    hashtags: "#techwear"
-  - username: "whstlskzzz"
-    fullname: >-
-      고현빈
-    location: "South Korea"
-    followers: 10102
-    engagement: 956
-    commentsToLikes: 0.046606
-    id: ck55o2fqo7hwn0i11wnabbsxa
-    verified: false
-    hashtags: ""
-  - username: "h04rang"
-    fullname: >-
-      김현영
-    location: "South Korea"
-    followers: 22477
-    engagement: 314
-    commentsToLikes: 0.061583
-    id: ck8tbx005xiiz0j78z359far1
-    verified: false
-    hashtags: ""
-  - username: "areummon"
-    fullname: >-
-      아름
-    location: "South Korea"
-    followers: 59576
-    engagement: 928
-    commentsToLikes: 0.011759
-    id: ck0turboc8dhq0i19hl3lj436
-    verified: false
-    hashtags: "#love, #findingv, #anysongchallenge, #metrocity"
-  - username: "iamhollynicole"
-    fullname: >-
-      Holly Nicole
-    location: "South Korea"
-    followers: 16354
-    engagement: 633
-    commentsToLikes: 0.080382
-    id: ck8t0huczs3w60j78umip2igl
-    verified: false
-    hashtags: "#brandyusa"
+    hashtags: "#blackyakkids, #kbeauty, #instamakeup, #11"
   - username: "sujipark01"
     fullname: >-
       박수지
     location: "South Korea"
-    followers: 18644
-    engagement: 762
-    commentsToLikes: 0.030344
+    followers: 17452
+    engagement: 756
+    commentsToLikes: 0.036528
     id: ck5zn3v7onqg00i14x1s0rfen
     verified: false
-    hashtags: "#hconnecter, #malaysia, #bts, #korean"
-  - username: "itsleonardlim"
+    hashtags: "#philippines, #cpcomapnay, #coevo, #bts"
+  - username: "youxmind"
     fullname: >-
-      Leonard Lim 🇦🇺🇸🇬🇰🇷
+      안민지
     location: "South Korea"
-    followers: 25960
-    engagement: 438
-    commentsToLikes: 0.033256
-    id: ck5chhpt4qsy50i11nz7ahmfy
+    followers: 82886
+    engagement: 1036
+    commentsToLikes: 0.011677
+    id: ck8t168nzukaw0j78g8txx61v
     verified: false
-    hashtags: "#tangleteezer, #dollypartonchallenge"
-  - username: "przemyslawkrompiec"
+    hashtags: "#3ce, #3cex"
+  - username: "whstlskzzz"
     fullname: >-
-      Przem | Polche | 프셰므스와브 | 폴최
+      고현빈
     location: "South Korea"
-    followers: 26203
-    engagement: 289
-    commentsToLikes: 0.046196
-    id: ck6u852crphei0j71a818x2qz
+    followers: 10032
+    engagement: 935
+    commentsToLikes: 0.045992
+    id: ck55o2fqo7hwn0i11wnabbsxa
     verified: false
-    hashtags: "#mymomsays, #seoul, #polche, #bijongsang"
+    hashtags: ""
+  - username: "iamhollynicole"
+    fullname: >-
+      holly 🦋
+    location: "South Korea"
+    followers: 16417
+    engagement: 702
+    commentsToLikes: 0.077532
+    id: ck8t0huczs3w60j78umip2igl
+    verified: false
+    hashtags: "#brandyusa"
+  - username: "rural_jun"
+    fullname: >-
+      Jun
+    location: "South Korea"
+    followers: 43790
+    engagement: 640
+    commentsToLikes: 0.022968
+    id: ckaox933gcbh00i78l2jp2zbm
+    verified: false
+    hashtags: "#esteelauder, #ckeveryone, #ckone"
 ---

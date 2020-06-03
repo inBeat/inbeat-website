@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Dallas In 2020
 description: >-
-  Find top health Instagram influencers in Dallas in 2020. Most popular hashtags: #liketkit #fitness #friends #happy.
+  Find top health Instagram influencers in Dallas in 2020. Most popular hashtags: #health #vision #daughters #happiness.
 platform: Instagram
 profiles:
   - username: "lccblog"
     fullname: >-
       ALAINA ATWOOD // LCCBLOG
     location: "United States"
-    followers: 5759
-    engagement: 1253
-    commentsToLikes: 0.093615
+    followers: 5856
+    engagement: 1643
+    commentsToLikes: 0.080530
     id: ck6uhajpm7zu60j71q2q6a5fy
     verified: false
-    hashtags: "#liketkit, #ltkunder100, #ltkstyletip, #ltkunder50"
+    hashtags: "#40weekspregnant, #liketkit, #36weekspregnant, #37weekspregnant"
   - username: "pumps.and.paws"
     fullname: >-
       Skye Polk-Fashion Blogger
     location: "United States"
-    followers: 9297
-    engagement: 442
-    commentsToLikes: 0.322333
+    followers: 9496
+    engagement: 445
+    commentsToLikes: 0.276216
     id: ck15qcbo525yd0i1965dbvfdg
     verified: false
-    hashtags: "#ltkspring, #liketkit, #pinklilyambassador, #ltksalealert"
+    hashtags: "#ltkfit, #ltksalealert"
   - username: "storyofstyle"
     fullname: >-
-      Hina J. Cheema MD
+      Dr. Hina Cheema
     location: "United States"
-    followers: 239117
-    engagement: 127
-    commentsToLikes: 0.055680
+    followers: 240180
+    engagement: 201
+    commentsToLikes: 0.095030
     id: ck14gsstz6ugu0i19i0r1apnz
     verified: false
-    hashtags: "#texas, #alonetogether, #beatthezombiefunk, #vulva"
+    hashtags: "#ramadanrecipes, #doctor, #obgyn, #ltkhome"
   - username: "ty_static"
     fullname: >-
       Ty Cain, The Model
     location: "United States"
-    followers: 6128
-    engagement: 730
-    commentsToLikes: 0.064745
+    followers: 6096
+    engagement: 683
+    commentsToLikes: 0.072734
     id: ck8syrsdglra40j78honc5wab
     verified: false
-    hashtags: "#entrepreneur, #lost, #hawaii, #patpat"
-  - username: "claremorrow_ifbbpro"
-    fullname: >-
-      Clare Morrow
-    location: "United States"
-    followers: 44222
-    engagement: 101
-    commentsToLikes: 0.063183
-    id: ck5c48lpn0trt0i11kjc1du29
-    verified: false
-    hashtags: "#fun, #fitness, #flashbackfriday, #gymfails"
-  - username: "aleahstander"
-    fullname: >-
-      Aleah Stander | Fitness Expert
-    location: "United States"
-    followers: 17464
-    engagement: 316
-    commentsToLikes: 0.089319
-    id: ck8t1vdgkx6np0j7827hnknnp
-    verified: false
-    hashtags: "#liketkit, #ltkfit, #ad, #ltkunder50"
-  - username: "michelleleighlifts"
-    fullname: >-
-      Michelle Leigh
-    location: "United States"
-    followers: 28878
-    engagement: 80
-    commentsToLikes: 0.035147
-    id: ck0tvbdq6aorh0i191cge8bfc
-    verified: false
-    hashtags: "#wereallinthistogether, #dancecardio, #canttouchthis, #mask"
+    hashtags: "#amazing, #phenomenalwoman, #skin, #bday"
   - username: "curlybeviie"
     fullname: >-
       Auntie Bev, MS🌼
     location: "United States"
-    followers: 179153
-    engagement: 647
-    commentsToLikes: 0.010798
+    followers: 193911
+    engagement: 946
+    commentsToLikes: 0.010634
     id: ck5cbnpwqftey0i11mfpnd1mw
     verified: false
-    hashtags: "#girlbosslife, #blackqueens, #loveyourself, #naturallyshesdope"
-  - username: "accordingtotia"
+    hashtags: "#melaninqueen, #naturalhairstyles, #twists, #healthyhair"
+  - username: "aleahstander"
     fullname: >-
-      Tia | TheMillennialWivesClub
+      Aleah Stander | Fitness Expert
     location: "United States"
-    followers: 23262
-    engagement: 199
-    commentsToLikes: 0.033708
-    id: ck5cgu2rnpjrl0i11yueer1as
+    followers: 17303
+    engagement: 336
+    commentsToLikes: 0.079805
+    id: ck8t1vdgkx6np0j7827hnknnp
     verified: false
-    hashtags: "#millennialwife, #vitamins, #couplesandcocktails, #inspiration"
-  - username: "cheyann_maria"
+    hashtags: "#stayhomewithltk, #workoutideas, #fitspo, #betterwithglg"
+  - username: "lyndsayyxoxo"
     fullname: >-
-      Cheyann Saenz
+      Lyndsay
     location: "United States"
-    followers: 8337
-    engagement: 1303
-    commentsToLikes: 0.039868
-    id: ck6u5t827bllw0j71359nuhak
+    followers: 10621
+    engagement: 1948
+    commentsToLikes: 0.045031
+    id: ck9ham3tbd1xk0j785m5kf7i4
     verified: false
-    hashtags: "#fitness, #health, #stayhome, #texas"
+    hashtags: "#dogs, #health, #puppygram, #fitsgirls"
+  - username: "janellepaigebrandom"
+    fullname: >-
+      Janelle Paige Brandom
+    location: "United States"
+    followers: 73066
+    engagement: 375
+    commentsToLikes: 0.072355
+    id: ck0w745zgbo0a0i19vsflcbuj
+    verified: false
+    hashtags: "#amazonfinds, #amazonfashion, #saturday, #pinklilystyle"
+  - username: "humbly_bald"
+    fullname: >-
+      HumblyBaggYo 🏄🏾‍♂️💰 | Dallas📍
+    location: "United States"
+    followers: 2145
+    engagement: 1771
+    commentsToLikes: 0.133321
+    id: ckaoxawaccjnn0i78n2bfbqqt
+    verified: false
+    hashtags: "#jameshardenbday, #nevada, #bestfriends, #health"
+  - username: "love.carrington"
+    fullname: >-
+      ᴄᴀʀʀɪɴɢᴛᴏɴ ғʀᴀɴᴋʟɪɴ-ɴᴀᴋᴡᴀᴀsᴀʜ💕
+    location: "United States"
+    followers: 58104
+    engagement: 1252
+    commentsToLikes: 0.015101
+    id: ck5ho5ji1oz3o0i11y4x0fuhc
+    verified: false
+    hashtags: "#jordan1, #inmyjs, #baylor, #sicem"
 ---

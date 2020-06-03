@@ -6,13 +6,18 @@
 </section>
 
 <section class="container mobile-adjusted" id="top-profiles-list">
+    {{- $forTiktok := eq .Params.platform "TikTok" -}}
     {{- range $i, $e := .Params.profiles -}}
     <div class="row ctn">
         <div class="col-1">
             <span>{{- add $i 1 -}}</span>
         </div>
         <div class="col-2">
+            {{- if $forTiktok -}}
+            <img src="https://d3ohwuhzxp1dp0.cloudfront.net/tiktok/{{- $e.id -}}.jpeg" alt="{{- $e.username -}}">
+            {{- else -}}
             <img src="https://d3ohwuhzxp1dp0.cloudfront.net/instagram/{{- $e.id -}}.jpeg" alt="{{- $e.username -}}">
+            {{- end -}}
         </div>
         <div class="col-3">
             <div class="row">

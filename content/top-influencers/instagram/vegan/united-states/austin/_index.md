@@ -1,19 +1,9 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Austin In 2020
 description: >-
-  Find top vegan Instagram influencers in Austin in 2020. Most popular hashtags: #vegan #plantbased #glutenfree #model.
+  Find top vegan Instagram influencers in Austin in 2020. Most popular hashtags: #austin #earthday #quarantinelife #vegan.
 platform: Instagram
 profiles:
-  - username: "tdl_does_life"
-    fullname: >-
-      🅃🄰🅈🄻🄾🅁 ☠︎ 🄳🄰🅈🄽🄴 - ᴄᴏᴀᴄʜ
-    location: "United States"
-    followers: 83015
-    engagement: 193
-    commentsToLikes: 0.023294
-    id: ck6to740bcgx70j71smh85v08
-    verified: false
-    hashtags: "#healthy, #staywild, #staytrue, #irritable"
   - username: "tarabaros"
     fullname: >-
       Tara Goetz-Baros
@@ -24,84 +14,94 @@ profiles:
     id: ck6u7oo9fmroh0j71vzregk5q
     verified: false
     hashtags: "#redaesthetic, #porta400"
-  - username: "naturally_natalieeng"
+  - username: "unhealthyvegan"
     fullname: >-
-      Natalie | Health+Wellness Blog
+      Dickstraction
     location: "United States"
-    followers: 5805
-    engagement: 1259
-    commentsToLikes: 0.298663
-    id: ck6tnpg9qab2k0j718opwe65o
+    followers: 31000
+    engagement: 106
+    commentsToLikes: 0.035164
+    id: ck5zz7nlwb8du0i14gkk5go0r
     verified: false
-    hashtags: "#potion, #snapyourway, #giveawaytime, #probiotics"
+    hashtags: "#veganatdisneyland, #followyourheart, #plantbasedparty, #plantbased"
+  - username: "jadewinston"
+    fullname: >-
+      
+    location: "United States"
+    followers: 17993
+    engagement: 480
+    commentsToLikes: 0.019328
+    id: ck55n61085k6f0i1178lk0ugx
+    verified: false
+    hashtags: ""
   - username: "modernveganfam"
     fullname: >-
       Modern Vegan Familia
     location: "United States"
-    followers: 26038
-    engagement: 147
-    commentsToLikes: 0.087706
+    followers: 25743
+    engagement: 168
+    commentsToLikes: 0.103150
     id: ck0vw3p88rylr0i19by1o7z2o
     verified: false
-    hashtags: "#vegan, #poweredbyplants, #vegansunite, #nosingleuseplastic"
+    hashtags: "#pitaya, #thumbprintcookies, #tree, #veganmarshmallows"
+  - username: "recordsafari"
+    fullname: >-
+      Alex Rodriguez
+    location: "United States"
+    followers: 33957
+    engagement: 275
+    commentsToLikes: 0.070277
+    id: ck0w5yz9y63ya0i1963hgry5o
+    verified: false
+    hashtags: "#bluenote, #tigers, #mothernature, #instadaily"
   - username: "twoolf29"
     fullname: >-
       Troy Woolfolk
     location: "United States"
-    followers: 33600
-    engagement: 221
-    commentsToLikes: 0.064571
+    followers: 34042
+    engagement: 209
+    commentsToLikes: 0.065117
     id: ck13cw6uy2gph0i19f8vqrdl9
     verified: false
-    hashtags: "#pottytraining, #firstdayofschool, #fitness, #quarantine"
-  - username: "littlebabylinda"
+    hashtags: "#quarantinefamily, #toosieslide, #battleropes, #quarantinelife"
+  - username: "urbanbettysalon"
     fullname: >-
-      Little Linda 🐆
+      Urban Betty™
     location: "United States"
-    followers: 160622
-    engagement: 197
-    commentsToLikes: 0.015194
-    id: ck5zv2svk3hko0i14orhk5ii9
+    followers: 42324
+    engagement: 126
+    commentsToLikes: 0.017516
+    id: ck134zfpyyy520i1908j8eqgs
     verified: false
-    hashtags: "#texas, #tttism, #darkartists, #finelinetattoo"
+    hashtags: "#sustainablebeauty, #goodvibes, #kerastasefreshaffair, #babylights"
+  - username: "andressgarcia1"
+    fullname: >-
+      Andres Garcia
+    location: "United States"
+    followers: 17556
+    engagement: 549
+    commentsToLikes: 0.051662
+    id: ck6u1yp0moohb0j71sbzdr9iq
+    verified: false
+    hashtags: "#ipanema, #cheatmeal, #foodporn, #instafood"
   - username: "ammeb"
     fullname: >-
       🌸Amme B🌸
     location: "United States"
-    followers: 82528
-    engagement: 253
-    commentsToLikes: 0.016659
+    followers: 82174
+    engagement: 279
+    commentsToLikes: 0.014812
     id: ck14gretu6n9v0i19kcgnedzg
     verified: false
-    hashtags: "#pastel, #girlygirl, #spring, #momjeans"
-  - username: "novaruu"
+    hashtags: "#clouds, #pale, #lamb, #warm"
+  - username: "truebluewill"
     fullname: >-
-      ✨ Novaruu ✨
+      Just Will
     location: "United States"
-    followers: 112591
-    engagement: 816
-    commentsToLikes: 0.014547
-    id: ck5cabm73d3w40i11gaecjbym
+    followers: 10829
+    engagement: 417
+    commentsToLikes: 0.032977
+    id: ck13ad1hrps800i19uyed2apq
     verified: false
-    hashtags: "#girlgamer, #manhattanbeach, #gamergirls, #21stbirthday"
-  - username: "alisha.griffin_"
-    fullname: >-
-      Alisha Griffin {Model/Actress}
-    location: "United States"
-    followers: 2239
-    engagement: 829
-    commentsToLikes: 0.209974
-    id: ck6tltwla6mpu0j71jq98wyu2
-    verified: false
-    hashtags: "#modelposes, #magazinecover, #runwayfashion, #dermablend"
-  - username: "turmerictshirt"
-    fullname: >-
-      Nivedita Dravid|TurmericTshirt
-    location: "United States"
-    followers: 2050
-    engagement: 1707
-    commentsToLikes: 0.096516
-    id: ck8talnt6s9xo0j78x9ica0cs
-    verified: false
-    hashtags: "#preggo, #indianfood, #eattheworld, #festivevibes"
+    hashtags: "#intention, #hadtodoit, #shibastagram, #drillweekends"
 ---

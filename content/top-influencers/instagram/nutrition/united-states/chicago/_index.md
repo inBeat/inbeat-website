@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Chicago In 2020
 description: >-
-  Find top nutrition Instagram influencers in Chicago in 2020. Most popular hashtags: #justalkalinevegan #nutrition #sponsored #fitness.
+  Find top nutrition Instagram influencers in Chicago in 2020. Most popular hashtags: #healthyfood #nature #stayhome #healthyliving.
 platform: Instagram
 profiles:
-  - username: "richmwilliams"
+  - username: "nutritionhappens"
     fullname: >-
-      Rich Williams
+      May Zhu, MBA, RDN, LDN
     location: "United States"
-    followers: 12956
-    engagement: 1674
-    commentsToLikes: 0.039020
-    id: ck0vziuxm9bq10i19ol9uqwmp
+    followers: 39123
+    engagement: 86
+    commentsToLikes: 0.110402
+    id: ck0vw7ld2sgjr0i192a7lddbv
     verified: false
-    hashtags: "#chicagocat, #healthandfitness, #newyear, #catobsessed"
-  - username: "justalkalinevegan"
+    hashtags: "#ad, #breakfastideas, #vitalproteins, #plainextraordinary"
+  - username: "chefgrahamcampbell"
     fullname: >-
-      Alkaline Meals & Inspiration🌱
+      Chef Graham Campbell
     location: "United States"
-    followers: 68162
-    engagement: 102
-    commentsToLikes: 0.022484
-    id: ck0u87bb16l9t0i19hndhvcay
-    verified: false
-    hashtags: "#newmom, #miscarriage, #divinemasculine, #dandeliongreens"
-  - username: "forsakenwarrior"
-    fullname: >-
-      Steve Johnson
-    location: "United States"
-    followers: 51209
-    engagement: 213
-    commentsToLikes: 0.029185
-    id: ck134plm9xl5p0i19z94zwng2
-    verified: false
-    hashtags: "#animalpak, #fuckyourdeadlift, #deadlifttillimdead, #garagegym"
-  - username: "clayharbs82"
-    fullname: >-
-      Clay Harbor
-    location: "United States"
-    followers: 265575
-    engagement: 339
-    commentsToLikes: 0.013784
-    id: ck0w0lei2eskx0i19jgicaqdq
+    followers: 40056
+    engagement: 125
+    commentsToLikes: 0.033237
+    id: ck55k4vy5ygqa0i11eo8lpaft
     verified: true
-    hashtags: "#stomachstillhurts, #saturdayvibes, #offensedefense, #proofwebothsurvivedparadise"
-  - username: "atstasia"
-    fullname: >-
-      Anastasia🦋
-    location: "United States"
-    followers: 22084
-    engagement: 618
-    commentsToLikes: 0.016531
-    id: ck5ch7dubq8g10i11lbvg6xp9
-    verified: false
-    hashtags: "#love, #sundayfunday, #power, #iwontgiveup"
+    hashtags: "#comesayhi, #family, #picoftheday, #quarantinelife"
   - username: "maria_birova"
     fullname: >-
       Maria 💎 WBFF BIKINI DIVA
     location: "United States"
-    followers: 32003
-    engagement: 598
-    commentsToLikes: 0.019867
+    followers: 36408
+    engagement: 522
+    commentsToLikes: 0.020501
     id: ck5qd34hptkzg0i11vwt45y2q
     verified: false
-    hashtags: "#workoutroutine, #ifbb, #wbff, #bikinimodel"
-  - username: "corttanie"
+    hashtags: "#mindsetmatters, #workfromhome, #homeprogram, #sweatlife"
+  - username: "thebalancedwhisk"
     fullname: >-
-      C O R T T A N I E
+      Abby Marie
     location: "United States"
-    followers: 65983
-    engagement: 326
-    commentsToLikes: 0.042573
-    id: ck5hlb88ljwpk0i11ejqgauea
+    followers: 4322
+    engagement: 2285
+    commentsToLikes: 0.336554
+    id: ck55m77vv3dpd0i11ciohqm9d
     verified: false
-    hashtags: "#modeling, #workout, #corona, #swimsuit"
-  - username: "iam_stevana"
+    hashtags: "#npcnationals, #veggieburger, #mocktailrecipe, #healthyliving"
+  - username: "clayharbs82"
+    fullname: >-
+      Clay Harbor
+    location: "United States"
+    followers: 262134
+    engagement: 352
+    commentsToLikes: 0.013699
+    id: ck0w0lei2eskx0i19jgicaqdq
+    verified: true
+    hashtags: "#saturdayvibes, #readysetavail, #bearup, #socialdistancing"
+  - username: "atstasia"
+    fullname: >-
+      Anastasia🦋
+    location: "United States"
+    followers: 21938
+    engagement: 605
+    commentsToLikes: 0.016400
+    id: ck5ch7dubq8g10i11lbvg6xp9
+    verified: false
+    hashtags: "#bestoftheday, #organic, #bikini, #print"
+  - username: "richmwilliams"
+    fullname: >-
+      Rich Williams
+    location: "United States"
+    followers: 13151
+    engagement: 1738
+    commentsToLikes: 0.037928
+    id: ck0vziuxm9bq10i19ol9uqwmp
+    verified: false
+    hashtags: "#moving, #blackberrypuree, #catpoetry, #healthyeating"
+  - username: "iamstevana"
     fullname: >-
       Steve 👽
     location: "United States"
-    followers: 68674
-    engagement: 631
-    commentsToLikes: 0.035962
+    followers: 217766
+    engagement: 459
+    commentsToLikes: 0.034059
     id: ck5c3p7uzzs510i11boj6aemi
     verified: false
-    hashtags: "#chicago, #bendandsnap"
+    hashtags: "#bendandsnap, #happymothersday, #bendandsnapglobal"
   - username: "thewellnutt"
     fullname: >-
       Karli Nutter | The WellNutt
     location: "United States"
-    followers: 2187
-    engagement: 971
-    commentsToLikes: 0.281332
+    followers: 2413
+    engagement: 1054
+    commentsToLikes: 0.343690
     id: ck5hnfwwknps50i11uusl67kc
     verified: false
-    hashtags: "#greens, #tacotuesday"
-  - username: "veggieworldrecipes"
+    hashtags: ""
+  - username: "joeythurmanfit"
     fullname: >-
-      Gaby Dimova
+      Joey Thurman | CES CPT FNS
     location: "United States"
-    followers: 12242
-    engagement: 526
-    commentsToLikes: 0.539296
-    id: ck5zjt6mqi7i00i146qhjfdwp
-    verified: false
-    hashtags: "#gonuts, #kaysnaturals, #guthealth, #vegan"
+    followers: 76703
+    engagement: 202
+    commentsToLikes: 0.097195
+    id: ck5q1x8edd86x0i11m9dkdpz2
+    verified: true
+    hashtags: "#sixpackabs, #getfit, #hiit, #fitnessathome"
 ---

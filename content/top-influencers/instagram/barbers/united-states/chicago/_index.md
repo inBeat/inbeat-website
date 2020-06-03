@@ -1,107 +1,107 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Chicago In 2020
 description: >-
-  Find top barbers Instagram influencers in Chicago in 2020. Most popular hashtags: #barber #barbershopconnect #barberlife #barbershop.
+  Find top barbers Instagram influencers in Chicago in 2020. Most popular hashtags: #stayhome #menshair #model #chicago.
 platform: Instagram
 profiles:
-  - username: "repostsocialbarbers"
+  - username: "nour_barber"
     fullname: >-
-      SOCIAL  BARBERS 🌎
+      Noureddin Bishawi
     location: "United States"
-    followers: 232910
-    engagement: 60
-    commentsToLikes: 0.006915
-    id: ck14kvtiyrkbs0i19h0pnuj3y
+    followers: 329523
+    engagement: 105
+    commentsToLikes: 0.024946
+    id: ck5zn1gshnlj50i14nk42vtek
     verified: false
-    hashtags: "#gentleman, #barberpost, #cutjunkies, #mensfashion"
-  - username: "barbergreg"
+    hashtags: "#inshalla, #quarantine, #quaratine, #lifeisgoodremix"
+  - username: "get_beamed"
     fullname: >-
-      Barber Greg 💈
+      CHICAGO BARBER💈(BEAM)
     location: "United States"
-    followers: 18844
-    engagement: 286
-    commentsToLikes: 0.055220
-    id: ck13a5uw2org30i19h7e704ra
+    followers: 46549
+    engagement: 462
+    commentsToLikes: 0.045384
+    id: ck8sxdi5hgzya0j78sty5asts
     verified: false
-    hashtags: "#barbershopconnect, #hardlinehorseshoe, #longhair, #flattophaircut"
-  - username: "alvinailey"
+    hashtags: "#neworleanslostfiles, #shapeshifting, #200k, #200ksubs"
+  - username: "shortyblends"
     fullname: >-
-      Alvin Ailey
+      Chicago Barber•emilio
     location: "United States"
-    followers: 245657
-    engagement: 187
-    commentsToLikes: 0.011647
-    id: ck0tsk4ha04bg0i19ayxtdm4k
-    verified: true
-    hashtags: "#acaseofyou, #openingnight, #aileyinlondon, #aileyinmemphis"
-  - username: "vincethebarber"
-    fullname: >-
-      V I N C E T H E B A R B E R ✪
-    location: "United States"
-    followers: 63689
-    engagement: 225
-    commentsToLikes: 0.026154
-    id: ck0vxl8frzgac0i19a7r60tpi
+    followers: 26970
+    engagement: 1437
+    commentsToLikes: 0.012130
+    id: ck9wf4cuen5ai0j78rby6a6wv
     verified: false
-    hashtags: "#vincethebarber, #torontonatives, #lakeshow, #covid19"
+    hashtags: ""
   - username: "jesse.elite87"
     fullname: >-
       Chicago Barber/influencer 🇲🇽
     location: "United States"
-    followers: 252879
-    engagement: 117
-    commentsToLikes: 0.025076
+    followers: 258382
+    engagement: 176
+    commentsToLikes: 0.023536
     id: ck13873xket3u0i19zgadt5mw
     verified: false
-    hashtags: "#barberlove, #kitlens1650mm, #30mmf14, #chicagohairstylist"
-  - username: "jldabarber"
+    hashtags: "#jaguarxjv8, #barberlove, #newyorkcitylife, #skate"
+  - username: "alisac_thebarber"
     fullname: >-
-      Jose C ✪
+      Chicago Barber
     location: "United States"
-    followers: 38439
-    engagement: 546
-    commentsToLikes: 0.009377
-    id: ck5zt8u4qzyg50i14wtz93oh2
+    followers: 14363
+    engagement: 1075
+    commentsToLikes: 0.020063
+    id: ck8wcxh1ad4kt0j78hk7mmp3v
     verified: false
     hashtags: ""
+  - username: "alvinailey"
+    fullname: >-
+      Alvin Ailey
+    location: "United States"
+    followers: 258477
+    engagement: 144
+    commentsToLikes: 0.012587
+    id: ck0tsk4ha04bg0i19ayxtdm4k
+    verified: true
+    hashtags: "#dancersofinstagram, #studentdancer, #multitalented, #independentstudy"
   - username: "lisa.jski"
     fullname: >-
-      Lisa J
+      Lisa J / Lishoo
     location: "United States"
-    followers: 17091
-    engagement: 654
-    commentsToLikes: 0.043923
+    followers: 17425
+    engagement: 678
+    commentsToLikes: 0.040770
     id: ck5ch56whq4rt0i11unrm56vf
     verified: false
-    hashtags: "#breaderlatethannever, #powerposechallenge, #hbtmarvel, #findyourpower"
-  - username: "h3dimensions"
+    hashtags: "#hbtmarvel, #apocalyptic, #alternativeclothing, #altmodel"
+  - username: "barbergreg"
     fullname: >-
-      ApplyingPressure™
+      Barber Greg 💈
     location: "United States"
-    followers: 18512
-    engagement: 225
-    commentsToLikes: 0.083369
-    id: ck6to3dnzbvtl0j71vcdxolwk
+    followers: 18705
+    engagement: 256
+    commentsToLikes: 0.053461
+    id: ck13a5uw2org30i19h7e704ra
     verified: false
-    hashtags: "#icutprofraternity, #houstonbarbers, #barberhub, #houstonwehaveaproblem"
-  - username: "eddie_rtb"
+    hashtags: "#flattops, #stayhealthy, #flow, #chicagbarber"
+  - username: "notoriousbarbers"
     fullname: >-
-      Eddie Rosado ✪ CT.
+      Notorious Barbers ✪
     location: "United States"
-    followers: 40927
-    engagement: 165
-    commentsToLikes: 0.122379
-    id: ck6ui2q5ycpqp0j71a23kjg9g
+    followers: 50076
+    engagement: 234
+    commentsToLikes: 0.027266
+    id: ck0txtsl9ke9n0i1938emz4gm
     verified: false
-    hashtags: "#riseofhair, #covid, #gym, #mensgrooming"
-  - username: "nour_barber"
+    hashtags: "#chicagomodels, #chicago, #topedgeshears, #lakers"
+  - username: "mannyortiz"
     fullname: >-
-      Noureddin Bishawi ✪
+      Manny Ortiz
     location: "United States"
-    followers: 333991
-    engagement: 116
-    commentsToLikes: 0.024072
-    id: ck5zn1gshnlj50i14nk42vtek
+    followers: 184726
+    engagement: 582
+    commentsToLikes: 0.025937
+    id: ck14k4hexnodj0i19y7733lx3
     verified: false
-    hashtags: "#quarantine, #alhamdillah, #allstarweekend, #inshalla"
+    hashtags: "#chicagophotographer, #lasvegas, #valleyoffire, #valleyoffirestatepark"
 ---

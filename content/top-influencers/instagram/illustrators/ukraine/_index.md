@@ -1,107 +1,107 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top illustrators Instagram influencers in Ukraine in 2020. Most popular hashtags: #illustration #illustrator #artistsoninstagram #artist.
+  Find top illustrators Instagram influencers in Ukraine in 2020. Most popular hashtags: #doodle #artist #savetheplanet #stayhome.
 platform: Instagram
 profiles:
-  - username: "andrishak_art"
+  - username: "lanaillustrations"
     fullname: >-
-      Andrey Andrishak 🌟 illustrator
+      SVITLANA ❣️ ILLUSTRATOR
     location: "Ukraine"
-    followers: 25641
-    engagement: 1920
-    commentsToLikes: 0.029810
-    id: ck15pg8rtxpzh0i1924ihvn2f
+    followers: 6642
+    engagement: 1100
+    commentsToLikes: 0.023860
+    id: ck134d4wnvv6v0i19kqmbxnb6
     verified: false
-    hashtags: "#art, #plants, #inktober2019, #fanart"
+    hashtags: "#homewear, #sweden, #timelapse, #shopping"
+  - username: "victoria_kagalovska"
+    fullname: >-
+      Artist Victoria Kagalovska
+    location: "Ukraine"
+    followers: 102061
+    engagement: 202
+    commentsToLikes: 0.110948
+    id: ck55minkc41rn0i115o7uqxk3
+    verified: false
+    hashtags: "#artbrushchallenge"
   - username: "dukhovnoe_litso"
     fullname: >-
       Maria Oz
     location: "Ukraine"
-    followers: 136694
-    engagement: 308
-    commentsToLikes: 0.032837
+    followers: 135909
+    engagement: 270
+    commentsToLikes: 0.011290
     id: ck5zxhkuu80tt0i14cufsav5i
     verified: true
-    hashtags: ""
-  - username: "victoria_kagalovska"
-    fullname: >-
-      Victoria Kagalovska
-    location: "Ukraine"
-    followers: 91721
-    engagement: 149
-    commentsToLikes: 0.038083
-    id: ck55minkc41rn0i115o7uqxk3
-    verified: false
-    hashtags: ""
+    hashtags: "#honorview30pro"
   - username: "sadova_art"
     fullname: >-
       SADOVA IRYNA ☾ ILLUSTRATOR
     location: "Ukraine"
-    followers: 13334
-    engagement: 434
-    commentsToLikes: 0.034394
+    followers: 13349
+    engagement: 476
+    commentsToLikes: 0.033087
     id: ck0vuvwpzmej40i192rivv97v
     verified: false
-    hashtags: "#digitalillustration, #adventures, #fantasyartwork, #protea"
+    hashtags: "#inthecastle, #bookcharacter, #oldlibrary, #workplace"
+  - username: "anni_tett"
+    fullname: >-
+      Tania Yakunova
+    location: "Ukraine"
+    followers: 6016
+    engagement: 1565
+    commentsToLikes: 0.028249
+    id: ckaotc3ysv9i40i78j4dt2lav
+    verified: false
+    hashtags: "#leadership, #bookcoverdesign, #doodlesofinstagram, #womenillustrators"
+  - username: "tanyachulkova"
+    fullname: >-
+      Fashion illustrator - Ukraine
+    location: "Ukraine"
+    followers: 52264
+    engagement: 219
+    commentsToLikes: 0.011144
+    id: ck6uht1znb2w90j716uepdbrr
+    verified: false
+    hashtags: "#chanellelift, #sketbook, #dior, #covid"
   - username: "nataly_owl"
     fullname: >-
       Natalia Shaloshvili
     location: "Ukraine"
-    followers: 9820
-    engagement: 1210
-    commentsToLikes: 0.022806
+    followers: 16948
+    engagement: 1411
+    commentsToLikes: 0.019656
     id: ck8t5hlt1a6g30j78w17u23is
     verified: false
-    hashtags: "#picturebooks, #booksforkids, #etsy, #childrenspainting"
-  - username: "ooh_lily"
+    hashtags: "#painter, #acrylicpaint, #childrensbooks, #childrenbookart"
+  - username: "dashahorb"
     fullname: >-
-      𝙻𝚒𝚕𝚢 ♡
+      Dasha Horb | Illustrator
     location: "Ukraine"
-    followers: 26101
-    engagement: 752
-    commentsToLikes: 0.008721
-    id: ck6tqd2bjqr6s0j71mu7lh1hx
+    followers: 6301
+    engagement: 1084
+    commentsToLikes: 0.043656
+    id: ck6tuecsrfupo0j71doinmhrm
     verified: false
-    hashtags: "#by, #oohlily"
+    hashtags: "#illustrationart, #artwork, #watercolorartwork, #illust"
   - username: "oliamuza"
     fullname: >-
       muza
     location: "Ukraine"
-    followers: 10544
-    engagement: 831
-    commentsToLikes: 0.023253
+    followers: 10820
+    engagement: 838
+    commentsToLikes: 0.023878
     id: ck5zrdzuhwenv0i14pl4x7hea
     verified: false
-    hashtags: "#cinderella, #fairytail, #inartwetrust, #aquarelle"
-  - username: "kirp2016"
+    hashtags: "#watercolor, #vegan, #creepy, #inktober2019"
+  - username: "marthaoborska"
     fullname: >-
-      Infographic Paradise
+      Martha’s aesthetic daybook
     location: "Ukraine"
-    followers: 18808
-    engagement: 607
-    commentsToLikes: 0.026162
-    id: ck6u53q717f5i0j71xqvma7rj
+    followers: 17554
+    engagement: 361
+    commentsToLikes: 0.032543
+    id: ck0w14uevhkgf0i19946zbnxk
     verified: false
-    hashtags: "#behance, #abstractdesign, #draw, #illustratorsoninstagram"
-  - username: "chervona_vorona_photography"
-    fullname: >-
-      Дарья Ворона фотограф в Киеве
-    location: "Ukraine"
-    followers: 59155
-    engagement: 527
-    commentsToLikes: 0.010355
-    id: ck14kxinvrtgn0i19w5j12d62
-    verified: false
-    hashtags: "#endlessgallery, #fatalframes, #color, #photowall"
-  - username: "tavianise"
-    fullname: >-
-      TaVi Anise
-    location: "Ukraine"
-    followers: 27114
-    engagement: 369
-    commentsToLikes: 0.014261
-    id: ck13b0z9bt5lg0i19avxwhoh9
-    verified: false
-    hashtags: "#gipsy, #vintageclothing, #lookoftheday, #vintageglamour"
+    hashtags: "#nastyaivleeva, #billieeilish, #vibe, #onobeauty"
 ---

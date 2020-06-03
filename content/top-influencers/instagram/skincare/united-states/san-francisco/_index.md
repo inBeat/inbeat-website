@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top skincare Instagram influencers in San Francisco in 2020. Most popular hashtags: #skincare #quarantine #beauty #stayhome.
+  Find top skincare Instagram influencers in San Francisco in 2020. Most popular hashtags: #skincare #sanfrancisco #summer #cleanbeauty.
 platform: Instagram
 profiles:
-  - username: "fashionbymichele"
+  - username: "vera_frances_photography"
     fullname: >-
-      MICHELE EL KHOURY ميشال الخوري
+      Vera Rappa
     location: "United States"
-    followers: 163352
-    engagement: 147
-    commentsToLikes: 0.020382
-    id: ck5zjdc3thdrr0i14a2faimp3
+    followers: 6615
+    engagement: 327
+    commentsToLikes: 0.028496
+    id: ck6twbpvdr3c00j71d6g7124b
     verified: false
-    hashtags: "#timessquare, #fbmdiaries, #fashionbymichele, #samsungevent"
-  - username: "joseph.lucido"
+    hashtags: "#selfcare, #pocket, #stunningbabies, #selflove"
+  - username: "mingparttimewanderer"
     fullname: >-
-      Joseph Lucido
+      Melji ✨ Travel & Lifestyle
     location: "United States"
-    followers: 255104
-    engagement: 149
-    commentsToLikes: 0.006792
-    id: ck6ttqx4tc3m20j71iv2e92y4
+    followers: 9885
+    engagement: 522
+    commentsToLikes: 0.128288
+    id: ck6u3ukg7zyvc0j71a4bi9mxy
     verified: false
-    hashtags: "#nattitude, #expresspartner, #stacyadams, #skincareproducts"
-  - username: "timurdc"
-    fullname: >-
-      Timur Tuğberk
-    location: "United States"
-    followers: 13878
-    engagement: 878
-    commentsToLikes: 0.038682
-    id: ck0w1j2w0jlbr0i1974x3cshd
-    verified: false
-    hashtags: "#ad, #miamibloggers, #washington, #visitwashingtondc"
+    hashtags: "#phoenix, #scoochcase, #likeforfollow, #palaceoffinearts"
   - username: "superlative.beauty"
     fullname: >-
-      𝕙 𝕒 𝕚 𝕝 𝕖 𝕪 *LIVE GIVEAWAY*
+      𝕙 𝕒 𝕚 𝕝 𝕖 𝕪
     location: "United States"
-    followers: 8099
-    engagement: 690
-    commentsToLikes: 0.199597
+    followers: 9358
+    engagement: 1062
+    commentsToLikes: 0.190481
     id: ck5hfg9knxbv60i110ijdkr1s
     verified: false
-    hashtags: "#ptrskinsiders, #octolyfamily, #beautyreview, #beautysleep"
-  - username: "shanbensonstudio"
+    hashtags: "#texturethursday, #impossiblebouquets, #cryoandchill, #amikapartner"
+  - username: "vanessaevelynh"
     fullname: >-
-      S H A N B E N S O N
+      Vanessa Evelyn H.
     location: "United States"
-    followers: 1915
-    engagement: 661
-    commentsToLikes: 0.081357
-    id: ck8t0mhuqskh30j78cbrpyg60
+    followers: 48246
+    engagement: 391
+    commentsToLikes: 0.043195
+    id: ck5byco8jowwi0i11vdsq5xj6
     verified: false
-    hashtags: "#productphotography, #cosmeticbeauty, #sfmua, #bayareabeautyphotographer"
-  - username: "sherminehghane"
+    hashtags: "#evahairnyc, #bighairdontcare, #everlane, #vans"
+  - username: "alleyesonmax"
     fullname: >-
-      Shermineh
+      Max Showalter
     location: "United States"
-    followers: 17025
-    engagement: 261
-    commentsToLikes: 0.030760
-    id: ck8td1qne1hun0j78kjra8lm7
+    followers: 6616
+    engagement: 889
+    commentsToLikes: 0.091201
+    id: ck14iq1zrgnr10i195eyvrknp
     verified: false
-    hashtags: "#styledsustainable, #cleanbeauty, #aroundtheworldpix, #liveauthentic"
-  - username: "tanukidi"
-    fullname: >-
-      Judy
-    location: "United States"
-    followers: 18633
-    engagement: 211
-    commentsToLikes: 0.028328
-    id: ck5hp1ge9qlda0i11ovej18m4
-    verified: false
-    hashtags: "#lensloveandbeyond, #spring2020, #minimalism, #trenchcoat"
+    hashtags: "#pridemonth, #morphe35b, #inspired, #trip"
   - username: "anettemarweld"
     fullname: >-
       A N E T T E   M A R W E L D
     location: "United States"
-    followers: 5631
-    engagement: 493
-    commentsToLikes: 0.034246
+    followers: 5558
+    engagement: 461
+    commentsToLikes: 0.032766
     id: ck0vzusw1b05t0i19cz9e5uxo
     verified: false
-    hashtags: "#happy, #lifelonglearner, #filmisnotdead, #wilhelminamodels"
+    hashtags: "#contemplation, #roses, #nature, #pacificocean"
+  - username: "ckanani"
+    fullname: >-
+      CHRISTIE ✈︎ San Francisco
+    location: "United States"
+    followers: 81764
+    engagement: 75
+    commentsToLikes: 0.029260
+    id: ck0uccefbglcx0i19jyvlljcg
+    verified: false
+    hashtags: "#barrysbayarea, #liketkit, #whodisbitch, #themoreyouknow"
   - username: "bayareafashionista"
     fullname: >-
       Cathy
     location: "United States"
-    followers: 49560
-    engagement: 292
-    commentsToLikes: 0.010482
+    followers: 49750
+    engagement: 273
+    commentsToLikes: 0.010917
     id: ck6tv9sjjkzo70j717zzii8b2
     verified: false
-    hashtags: "#maskalternatives, #ltkunder100, #ltkshoecrush, #springstreetstyle"
-  - username: "sarahjeangirl"
+    hashtags: "#running, #ltkcurves, #phonecases, #handbagtrends"
+  - username: "misshamino"
     fullname: >-
-      Sarahjeangirl
+      Miki Hamano 🌿⛰✨
     location: "United States"
-    followers: 17087
-    engagement: 324
-    commentsToLikes: 0.247660
-    id: ck13c6zd4yww10i19grm8jaba
+    followers: 179803
+    engagement: 590
+    commentsToLikes: 0.015194
+    id: ck0tyozkxnli30i1941de18p7
     verified: false
-    hashtags: "#lipbalmaddict, #antiacne, #beautylish, #breakouts"
+    hashtags: "#sanfrancisco, #comeasyouare, #everydaywear, #denim"
+  - username: "bybrittanybrown"
+    fullname: >-
+      Brittany Brown
+    location: "United States"
+    followers: 5778
+    engagement: 603
+    commentsToLikes: 0.117910
+    id: ck5py1wogtxe10i1162x2226n
+    verified: false
+    hashtags: "#streetlife, #visitcalifornia, #smoothie, #cycling"
 ---

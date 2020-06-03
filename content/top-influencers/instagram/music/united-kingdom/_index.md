@@ -1,26 +1,16 @@
 ---
 title: Top 10 Music Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top music Instagram influencers in United Kingdom in 2020. Most popular hashtags: #newmusic #songwritersfirst #contemporaryartist #oilpainting.
+  Find top music Instagram influencers in United Kingdom in 2020. Most popular hashtags: #nature #love #monday #artist.
 platform: Instagram
 profiles:
-  - username: "yellowdayss"
-    fullname: >-
-      Yellow Days
-    location: "United Kingdom"
-    followers: 118775
-    engagement: 1513
-    commentsToLikes: 0.009348
-    id: ck6u1hko1lruz0j717zsz1cav
-    verified: true
-    hashtags: ""
   - username: "juliaholter"
     fullname: >-
       julia shammas holter
     location: "United Kingdom"
-    followers: 18859
-    engagement: 338
-    commentsToLikes: 0.017122
+    followers: 19172
+    engagement: 336
+    commentsToLikes: 0.017317
     id: ck0w02qa7c3d90i19vh1t72mb
     verified: false
     hashtags: ""
@@ -28,32 +18,52 @@ profiles:
     fullname: >-
       Massimiliano Pironti
     location: "United Kingdom"
-    followers: 14105
-    engagement: 1557
-    commentsToLikes: 0.048127
+    followers: 14887
+    engagement: 1447
+    commentsToLikes: 0.048711
     id: ck6u6fxyffdo20j71i2sj06qq
     verified: false
-    hashtags: "#realistic, #artworks, #selfportrait, #pitturaolio"
-  - username: "eddiejonesmusic"
+    hashtags: "#charcoal, #sketching, #selfportrait, #instaart"
+  - username: "esmemarks"
     fullname: >-
-      Eddie Jones
+      Esme Marks
     location: "United Kingdom"
-    followers: 10710
-    engagement: 960
-    commentsToLikes: 0.167405
-    id: ck0vxzj2h1i7z0i19mcsafucy
+    followers: 2452
+    engagement: 1895
+    commentsToLikes: 0.172729
+    id: ckaoyz1xajnn20i78rnw993gl
     verified: false
-    hashtags: "#londonmusic, #londonsinger, #londonmusicvenues, #roxanne"
-  - username: "tenitinks"
+    hashtags: "#earfashion, #jewellery, #iphone, #21buttons"
+  - username: "murphose"
     fullname: >-
-      Teni Tinks
+      Pamela Olender ✨
     location: "United Kingdom"
-    followers: 26812
-    engagement: 439
-    commentsToLikes: 0.062266
-    id: ck5c7100i6lja0i11haisgm3z
+    followers: 10590
+    engagement: 1388
+    commentsToLikes: 0.117248
+    id: ck9weg93qk4ij0j78023d7dnb
     verified: false
-    hashtags: "#royalalberthall, #imnotluckyimblessed, #swipeleft, #healthylife"
+    hashtags: "#morningpost, #kosmetyki, #photoshooting, #dlawas"
+  - username: "amyflightx"
+    fullname: >-
+      A M Y   F L I G H T
+    location: "United Kingdom"
+    followers: 29686
+    engagement: 737
+    commentsToLikes: 0.033614
+    id: ck13bwc2uxg900i19hiyi5h3i
+    verified: false
+    hashtags: "#myboux, #musicmonday"
+  - username: "eveantoi"
+    fullname: >-
+      𝐸𝑣𝑒 𝐴𝑛𝑡𝑜𝑖 𒊹︎ 𝑆𝑖𝑛𝑔𝑒𝑟 𝑆𝑜𝑛𝑔𝑤𝑟𝑖𝑡𝑒𝑟
+    location: "United Kingdom"
+    followers: 2365
+    engagement: 1955
+    commentsToLikes: 0.253892
+    id: ckaoy9vu2gm1a0i78clc7uc3r
+    verified: false
+    hashtags: "#independentartist, #musicgoals, #acousticversion, #upcomingartists"
   - username: "imdestinyrogers"
     fullname: >-
       Destiny Rogers
@@ -64,44 +74,34 @@ profiles:
     id: ck0u0qk5zulyb0i19uoz1jer7
     verified: true
     hashtags: "#acuraxgenius, #freetimetour"
-  - username: "jdxuk"
+  - username: "gulpanra.official"
     fullname: >-
-      
+      Gul Panra
     location: "United Kingdom"
-    followers: 5421
-    engagement: 815
-    commentsToLikes: 0.097473
-    id: ck0w3h70hte2w0i19eb2gz3cv
-    verified: false
-    hashtags: "#21, #jdxuk, #goodvibes, #happymonday"
-  - username: "littledonatella"
-    fullname: >-
-      Donatella
-    location: "United Kingdom"
-    followers: 159180
-    engagement: 272
-    commentsToLikes: 0.063024
-    id: ck6u8o90fsq6k0j71o93go53p
+    followers: 354358
+    engagement: 326
+    commentsToLikes: 0.035718
+    id: ck6tjv2sr3hau0j7152k51wdo
     verified: true
-    hashtags: "#happypeach, #blessed, #grateful, #peachyapproved"
-  - username: "connie_orange"
+    hashtags: "#londondairies, #beautifulpakistan, #happyeid, #eventvibes"
+  - username: "tyla"
     fullname: >-
-      Konnie Slyziut
+      Tyla Seethal
     location: "United Kingdom"
-    followers: 111612
-    engagement: 272
-    commentsToLikes: 0.049905
-    id: ck6tzdusk94ef0j71bw6saw05
+    followers: 61845
+    engagement: 1037
+    commentsToLikes: 0.024016
+    id: ckaosl630ry270i78b78zcyb9
     verified: false
-    hashtags: "#archives, #fitness, #humpday"
-  - username: "afriqqa"
+    hashtags: "#wipeitdownchallenge"
+  - username: "albertogiurioli"
     fullname: >-
-      HARI 🇬🇧
+      Alberto Giurioli
     location: "United Kingdom"
-    followers: 78977
-    engagement: 611
-    commentsToLikes: 0.027772
-    id: ck0u03xoesgv60i19km497hc7
-    verified: false
-    hashtags: "#birthdaygirl, #womenareeverything"
+    followers: 36314
+    engagement: 345
+    commentsToLikes: 0.092611
+    id: ck0tyjorpn4610i19abn749xt
+    verified: true
+    hashtags: "#halloffame, #virus, #playing, #video"
 ---

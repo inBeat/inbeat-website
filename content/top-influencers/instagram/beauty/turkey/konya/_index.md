@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Konya In 2020
 description: >-
-  Find top beauty Instagram influencers in Konya in 2020. Most popular hashtags: #beauty #instagram #evdekal #konya.
+  Find top beauty Instagram influencers in Konya in 2020. Most popular hashtags: #beauty #konya #ramazan #ankara.
 platform: Instagram
 profiles:
-  - username: "arzuyanardag"
+  - username: "cocopocco"
     fullname: >-
-      Arzu Yanardağ
+      ŞEYMA
     location: "Turkey"
-    followers: 46596
-    engagement: 219
-    commentsToLikes: 0.022287
-    id: ck5q7s0z82utv0i11vsrraqko
+    followers: 106811
+    engagement: 823
+    commentsToLikes: 1.200791
+    id: ck8t9d0iann5q0j78vuia4pzx
     verified: false
-    hashtags: "#houstonportraits, #cute, #instagrammers, #fashion"
-  - username: "sesversus"
+    hashtags: "#flu10052020, #flu18052020, #hediye, #flu07052020"
+  - username: "cokdeliminikaile"
     fullname: >-
-      SesVerSus
+      Ali Elif Köylü
     location: "Turkey"
-    followers: 44414
-    engagement: 190
-    commentsToLikes: 0.007983
-    id: ck14i68ljduhg0i19f1ys04le
-    verified: true
-    hashtags: "#instacool, #night, #turkey, #newsong"
-  - username: "_ozi_can_"
-    fullname: >-
-      Ozi Can
-    location: "Turkey"
-    followers: 7561
-    engagement: 1066
-    commentsToLikes: 0.226522
-    id: ck8t82dpfiv0m0j78n6i7c3tr
+    followers: 13012
+    engagement: 800
+    commentsToLikes: 0.047489
+    id: ckaowe5048ja80i78k8422dvv
     verified: false
-    hashtags: "#mevlanas, #evdekal, #konyainstagram, #natural"
-  - username: "siginagimantep"
+    hashtags: "#minime, #instababygirl, #bebegiminkadraj, #beautiful"
+  - username: "alyagram_2017"
     fullname: >-
-      Sığınağım Antep
+      Alya' nın dünyası
     location: "Turkey"
-    followers: 44997
-    engagement: 295
-    commentsToLikes: 0.042516
-    id: ck0tui5oa79om0i193qhnk3lt
+    followers: 12155
+    engagement: 1572
+    commentsToLikes: 0.025893
+    id: ckaovdxx146q40i78j8ailxye
     verified: false
-    hashtags: "#nazimhikmet, #medine, #hayat, #namaz"
+    hashtags: "#like, #mothernature, #bride, #eidmubarak"
+  - username: "elfinzeyno"
+    fullname: >-
+      Prof.Dr.Elif Şahin Horasan
+    location: "Turkey"
+    followers: 73203
+    engagement: 188
+    commentsToLikes: 0.124861
+    id: ck8t1tab6wxyf0j78d3jqwfxz
+    verified: false
+    hashtags: "#kanola, #lake, #754850, #hair"
+  - username: "yemelerdeyizcom"
+    fullname: >-
+      Yemelerdeyiz
+    location: "Turkey"
+    followers: 155599
+    engagement: 145
+    commentsToLikes: 0.008900
+    id: ck6u9gjq4xfjg0j71z5pdicjy
+    verified: false
+    hashtags: "#dudakdolgusu, #chessecake, #restaurant, #germany"
+  - username: "unescoturkiye"
+    fullname: >-
+      UNESCO Türkiye®️
+    location: "Turkey"
+    followers: 7744
+    engagement: 366
+    commentsToLikes: 0.011651
+    id: ck5bvjgsdjrip0i11yxk8chen
+    verified: false
+    hashtags: "#cami, #beautiful, #karab, #hattu"
   - username: "rikki.roath"
     fullname: >-
       Rikki Lee Roath
     location: "Turkey"
-    followers: 13721
-    engagement: 1287
-    commentsToLikes: 0.024773
+    followers: 13655
+    engagement: 1324
+    commentsToLikes: 0.024579
     id: ck6u8f17zr7p70j71f2lrayp0
     verified: false
-    hashtags: "#treesofinstagram, #livesimply, #maceralar, #plasticfree"
-  - username: "sha1kiba"
+    hashtags: "#travellocal, #yeniyerler, #byebye, #biking"
+  - username: "_ozi_can_"
     fullname: >-
-      🧿Shakiba | شَکیبا
+      Ozi Can
     location: "Turkey"
-    followers: 132317
-    engagement: 1072
-    commentsToLikes: 0.137320
-    id: ck0vyosug522k0i19f3uv676u
+    followers: 8231
+    engagement: 1274
+    commentsToLikes: 0.197439
+    id: ck8t82dpfiv0m0j78n6i7c3tr
     verified: false
-    hashtags: "#blueeyeshadoe, #eyelinertutorial, #pinkymakeup, #hudabeautychallenge"
-  - username: "mervinstablog"
+    hashtags: "#esed, #edebiyatkulu, #turkiye, #instamood"
+  - username: "ankaraetkinlik"
     fullname: >-
-      Merve Özçelik
+      Ankara Etkinlik ®™
     location: "Turkey"
-    followers: 25991
-    engagement: 744
-    commentsToLikes: 0.780781
-    id: ck8tcvdwi0txa0j78tuwjg12t
+    followers: 63820
+    engagement: 195
+    commentsToLikes: 0.049448
+    id: ck0u6kgjj25gl0i1933eqbbi0
     verified: false
-    hashtags: "#youtube, #glowyskin, #ootd, #kombin"
-  - username: "burcucanuysal"
+    hashtags: "#togoc, #togo1937, #drorhanayd, #tablo"
+  - username: "izgisimal"
     fullname: >-
-      Burcu 🖤 Can
+      Şimal İzgi 🍒
     location: "Turkey"
-    followers: 97636
-    engagement: 556
-    commentsToLikes: 0.103633
-    id: ck14jyytlmvkz0i19p0x6sawx
+    followers: 2764
+    engagement: 2747
+    commentsToLikes: 0.133969
+    id: ckaot27amu1im0i78imlj088h
     verified: false
-    hashtags: "#love, #valentinesday2019, #surprise, #amsterdam"
-  - username: "ilaydasurucuu"
-    fullname: >-
-      İlayda Sürücü
-    location: "Turkey"
-    followers: 116720
-    engagement: 423
-    commentsToLikes: 0.230241
-    id: ck5chrszhrc9o0i11xoh37l4u
-    verified: false
-    hashtags: "#5mmigroskadinlargunu"
-  - username: "idilunuvaar"
-    fullname: >-
-      İdil Ünüvar
-    location: "Turkey"
-    followers: 11078
-    engagement: 855
-    commentsToLikes: 0.152036
-    id: ck0w6qn389u1q0i1962yt50ug
-    verified: false
-    hashtags: "#sevgllrgnu, #seemyigtv, #fashion, #mutluhaftasonlar"
+    hashtags: "#purple, #lilacmakeup, #makeuplook, #quarantine"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bakers Instagram Influencers In United States In 2020
 description: >-
-  Find top bakers Instagram influencers in United States in 2020. Most popular hashtags: #sanfranciscobakinginstitute #leaven #fermentation #conductor.
+  Find top bakers Instagram influencers in United States in 2020. Most popular hashtags: #mothersday #netflix #easter #puffpastry.
 platform: Instagram
 profiles:
   - username: "simons_bread"
     fullname: >-
       Simon Bowden
     location: "United States"
-    followers: 6065
-    engagement: 669
-    commentsToLikes: 0.058851
+    followers: 7602
+    engagement: 764
+    commentsToLikes: 0.072450
     id: ck6u13xirjfly0j71bzfjd23x
     verified: false
-    hashtags: "#realbread, #whitebread, #fermentation, #orangemarmalade"
+    hashtags: "#bakeathome, #wholegrainbread, #crackers, #focaccia"
+  - username: "thealexxvaldivia"
+    fullname: >-
+      alex valdivia🪐
+    location: "United States"
+    followers: 12599
+    engagement: 1578
+    commentsToLikes: 0.333588
+    id: ck14juiwem9a20i199jxh0l60
+    verified: false
+    hashtags: "#softboyaesthetic, #valentines2020, #tiktoks, #yup"
+  - username: "real_tim_othy"
+    fullname: >-
+      Tim Othy
+    location: "United States"
+    followers: 17566
+    engagement: 1527
+    commentsToLikes: 0.045313
+    id: ck9hb12frexd20j7894363rx2
+    verified: false
+    hashtags: "#winecountry, #peludo, #hotguys, #coronabop"
   - username: "gemma_stafford"
     fullname: >-
       Gemma Stafford
     location: "United States"
-    followers: 115986
-    engagement: 559
-    commentsToLikes: 0.044133
+    followers: 121567
+    engagement: 536
+    commentsToLikes: 0.036183
     id: ck0w1xhqelmhc0i19k0tesijh
     verified: true
-    hashtags: "#newmom, #ilovepie, #34weekspregnant, #keepingitreal"
+    hashtags: "#firsttimedad, #saintpatricksday, #babyshark, #newbaby"
   - username: "parmezana"
     fullname: >-
       Natalia I
     location: "United States"
-    followers: 10263
-    engagement: 1148
-    commentsToLikes: 0.035495
+    followers: 10367
+    engagement: 1173
+    commentsToLikes: 0.034847
     id: ck5zmhkcsml0y0i14ratdynvo
     verified: false
     hashtags: "#honeycake, #homemade"
-  - username: "yayisvc"
-    fullname: >-
-      Yayis A. Villarreal Cantú
-    location: "United States"
-    followers: 33476
-    engagement: 433
-    commentsToLikes: 0.196719
-    id: ck0vvzh2trg7t0i19p3crdvi1
-    verified: false
-    hashtags: "#nyfwtheshows, #anxietyrelief, #stayhome, #jlotiktokchallenge"
-  - username: "joecastlebaker"
-    fullname: >-
-      joe castle baker
-    location: "United States"
-    followers: 12000
-    engagement: 935
-    commentsToLikes: 0.029397
-    id: ck5hm4amslcc20i1129pxhvn6
-    verified: false
-    hashtags: "#myqueeranthem"
   - username: "runningwithmoxie"
     fullname: >-
       𝓐𝓶𝓫𝓮𝓻 🏃🏻‍♀️
     location: "United States"
-    followers: 23476
-    engagement: 334
-    commentsToLikes: 0.055293
+    followers: 23682
+    engagement: 445
+    commentsToLikes: 0.055803
     id: ck13544xbzlyl0i19o9elya71
     verified: false
-    hashtags: ""
-  - username: "realbrittbaker"
+    hashtags: "#irunwithmaud, #racialinjustice, #blackmenrun, #friyay"
+  - username: "biancavierra"
     fullname: >-
-      Britt Baker
+      b. 🐝
     location: "United States"
-    followers: 178197
-    engagement: 659
-    commentsToLikes: 0.017476
-    id: ck0w57tha2bof0i19ss0jdqlv
+    followers: 35450
+    engagement: 430
+    commentsToLikes: 0.075291
+    id: ck1381wzie3wf0i196bq18n4u
     verified: true
-    hashtags: "#mrstarbucks, #rolemodel, #aewdynamite, #prowrestler"
-  - username: "greer_grammer"
+    hashtags: "#formalfriday"
+  - username: "graciethecosplaylass"
     fullname: >-
-      Greer Grammer
+      GracieTheCosplayLass
     location: "United States"
-    followers: 172592
-    engagement: 309
-    commentsToLikes: 0.018188
-    id: ck14iopvbggkl0i19ay6gtcvg
-    verified: true
-    hashtags: "#fbf, #thebellhotel, #tacobellhotel, #rolltide"
-  - username: "_adjovi"
-    fullname: >-
-      ashlen Adjo..💕
-    location: "United States"
-    followers: 12846
-    engagement: 1747
-    commentsToLikes: 0.018887
-    id: ck6tnjssx9zl60j71ca2jknci
+    followers: 32979
+    engagement: 422
+    commentsToLikes: 0.033498
+    id: ck8szdfpfnzom0j78a2pw74z7
     verified: false
-    hashtags: ""
-  - username: "maxim.eshkenazy"
+    hashtags: "#covid, #harleyquinn, #harleyquinshow, #quarantine"
+  - username: "marvelous.mrs.hufflepuff"
     fullname: >-
-      Maxim Eshkenazy, Conductor
+      Sabrina ⚯͛ | Witchy Lifestyle
     location: "United States"
-    followers: 5435
-    engagement: 523
-    commentsToLikes: 0.066322
-    id: ck55pcl3aaa830i11fv6o8yc0
+    followers: 2786
+    engagement: 2649
+    commentsToLikes: 0.068384
+    id: ck6u49buk2fos0j71ucnfnzka
     verified: false
-    hashtags: "#maxim, #maximeshkenazy, #classicalmusiclover, #earthhour"
+    hashtags: "#quarantinebaking, #magicherwaychallenge, #magicunderthestairschallenge, #cake"
+  - username: "thefunamentals"
+    fullname: >-
+      Funa Maduka
+    location: "United States"
+    followers: 10221
+    engagement: 437
+    commentsToLikes: 0.088188
+    id: ck8t00dozqexk0j78wk7x4dyg
+    verified: false
+    hashtags: "#ladjly, #celinesciamma, #pedroalmodovar, #afterparty"
 ---

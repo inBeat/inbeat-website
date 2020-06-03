@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Poland In 2020
 description: >-
-  Find top vegan Instagram influencers in Poland in 2020. Most popular hashtags: #zosta #polishgirl #love #brunettegirl.
+  Find top vegan Instagram influencers in Poland in 2020. Most popular hashtags: #love #happybirthday #smile #home.
 platform: Instagram
 profiles:
   - username: "tainalicciardotoivola"
     fullname: >-
       T A I N A  LICCIARDO-TOIVOLA
     location: "Poland"
-    followers: 177276
-    engagement: 1082
-    commentsToLikes: 0.031533
+    followers: 177445
+    engagement: 1077
+    commentsToLikes: 0.030066
     id: ck14kv5whrgup0i19q83wf8na
     verified: true
-    hashtags: "#mascaraonly, #momof10, #musicalsiblings, #nunstower"
-  - username: "rithabarbaritha"
+    hashtags: "#loveyourchildren, #vegantoddler, #makingmemories, #myminime"
+  - username: "hadar.shamir"
     fullname: >-
-      Ritha Barbaritha
+      Hadar Shamir
     location: "Poland"
-    followers: 8986
-    engagement: 690
-    commentsToLikes: 0.092480
-    id: ck8t8sc7blm2f0j7805ldpedp
+    followers: 12347
+    engagement: 1204
+    commentsToLikes: 0.065273
+    id: ck9wdcx5df3730j78n231b4gf
     verified: false
-    hashtags: "#bezsennosc, #ojosnegros, #poledancelover, #sesjakobieca"
-  - username: "agata.buzek_official"
+    hashtags: "#itscoronatime, #tiktok"
+  - username: "helena_kulma"
     fullname: >-
-      Agata Buzek Official
+      Helena Nel Kulma
     location: "Poland"
-    followers: 18658
-    engagement: 740
-    commentsToLikes: 0.032142
-    id: ck5hittksfcn50i11rcws19hl
+    followers: 3163
+    engagement: 2943
+    commentsToLikes: 0.053529
+    id: ckaozxagcntkt0i78obp45sxe
     verified: false
-    hashtags: "#dobromirdymecki, #dzienmatki, #athome, #stayhome"
+    hashtags: "#natureshot, #quarantinelife, #israelinstagram, #pinkdress"
+  - username: "pomalomani"
+    fullname: >-
+      Ewa  ~  p o m a l o m a n i
+    location: "Poland"
+    followers: 10594
+    engagement: 610
+    commentsToLikes: 0.106573
+    id: ck5chxwlyrnju0i114g961p12
+    verified: false
+    hashtags: "#posterdesign, #ootdsubmit, #90saesthetic, #nudetones"
+  - username: "oleleeeee"
+    fullname: >-
+      Aleksandra
+    location: "Poland"
+    followers: 15668
+    engagement: 376
+    commentsToLikes: 0.105978
+    id: ck0w6poqc9pq30i19n3ucrzw4
+    verified: false
+    hashtags: "#maladama, #easterbunny, #happybirthday, #dwulatka"
   - username: "olivia_funky_"
     fullname: >-
       Olivia Lubieniecka
     location: "Poland"
-    followers: 5636
-    engagement: 1018
-    commentsToLikes: 0.053073
+    followers: 5921
+    engagement: 1052
+    commentsToLikes: 0.052761
     id: ck13a11hjo38q0i199333oq86
     verified: false
-    hashtags: "#island, #przygody, #beachgirl, #polskieg"
-  - username: "klaudia_strzyzewska"
+    hashtags: "#travel, #balisunset, #miedzyseriami, #surfmagic"
+  - username: "agata.buzek_official"
     fullname: >-
-      Klaudia #topmodel 🕊
+      Agata Buzek Official
     location: "Poland"
-    followers: 15801
-    engagement: 745
-    commentsToLikes: 0.027957
-    id: ck5zt5sx2zsh10i146xcsd8bo
+    followers: 18876
+    engagement: 738
+    commentsToLikes: 0.032065
+    id: ck5hittksfcn50i11rcws19hl
     verified: false
-    hashtags: "#kochamksi, #blacklingerie, #perfectshape, #highheelslover"
+    hashtags: "#pola, #theatreontour, #mama, #mothersday"
   - username: "juszes"
     fullname: >-
       Justyna Żak
     location: "Poland"
-    followers: 205303
-    engagement: 805
-    commentsToLikes: 0.008606
+    followers: 200307
+    engagement: 778
+    commentsToLikes: 0.008821
     id: ck5bw4r7nl01r0i1175fr7uyx
     verified: true
-    hashtags: "#icomeinpeace, #vegandessert, #catselfie, #oshee"
+    hashtags: "#whatveganseat, #kosmetyki, #zostanwdomu, #pommum"
   - username: "katt.markiewicz"
     fullname: >-
       Katt Markiewicz
     location: "Poland"
-    followers: 19794
-    engagement: 529
-    commentsToLikes: 0.029117
+    followers: 20217
+    engagement: 521
+    commentsToLikes: 0.040721
     id: ck5chvnykrk3k0i11hddn0h0w
     verified: false
-    hashtags: "#walcz, #flowers, #woman, #people"
-  - username: "agastachurska"
+    hashtags: "#shine, #knowledge, #self, #obserwuj"
+  - username: "rithabarbaritha"
     fullname: >-
-      𝑨𝑮𝑵𝑰𝑬𝑺𝒁𝑲𝑨 𝑺𝑻𝑨𝑪𝑯𝑼𝑹𝑺𝑲𝑨
+      Ritha Barbaritha
     location: "Poland"
-    followers: 341981
-    engagement: 908
-    commentsToLikes: 0.002739
-    id: ck8sxl1xmhseg0j78crrizj95
+    followers: 11266
+    engagement: 488
+    commentsToLikes: 0.131137
+    id: ck8t8sc7blm2f0j7805ldpedp
     verified: false
-    hashtags: "#snowfest2020, #snowfest, #partyspirit, #cccshoesbags"
-  - username: "sylwiasajchta"
-    fullname: >-
-      Sylwia Sajchta
-    location: "Poland"
-    followers: 17365
-    engagement: 634
-    commentsToLikes: 0.016830
-    id: ck5bytctgpt5z0i1174o6gfhz
-    verified: false
-    hashtags: "#newyearsevemakeup, #makeuplover, #smokey, #prommakeup"
-  - username: "agapatoka"
-    fullname: >-
-      AGAPATOKA.COM 🚴‍♀️
-    location: "Poland"
-    followers: 10274
-    engagement: 1131
-    commentsToLikes: 0.011725
-    id: ck15uyozhp48n0i19bnthwv6o
-    verified: false
-    hashtags: "#workout, #cyclinglif, #gopropl, #polishgirl"
+    hashtags: "#traininggirl, #veganpower, #majowka2020, #lokomotywa"
 ---

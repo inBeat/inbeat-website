@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In United States In 2020
 description: >-
-  Find top travel Instagram influencers in United States in 2020. Most popular hashtags: #winewinewine #wine #winery #winetasting.
+  Find top travel Instagram influencers in United States in 2020. Most popular hashtags: #love #sunnyday #ourportraitdays #summerdress.
 platform: Instagram
 profiles:
   - username: "nicoleneissany"
     fullname: >-
       nicole | petite style & travel
     location: "United States"
-    followers: 7733
-    engagement: 1644
-    commentsToLikes: 0.332762
+    followers: 8717
+    engagement: 1993
+    commentsToLikes: 0.262858
     id: ck134abe3vgtr0i19zeycgvjt
     verified: false
-    hashtags: "#centralnj, #skincaretreatment, #ootdblogger, #travelblogger"
-  - username: "credit"
+    hashtags: "#catmoms, #winelove, #rompers, #beachvibes"
+  - username: "romejohns"
     fullname: >-
-      Stephen Liao
+      Rome Johnson | Style
     location: "United States"
-    followers: 243165
-    engagement: 1336
-    commentsToLikes: 0.699115
-    id: ck5zps1ddt8mz0i14pz0pkw1w
-    verified: true
-    hashtags: "#poolparty, #jakepaul, #duet, #fliptheswitchchallenge"
-  - username: "shelby_photo"
-    fullname: >-
-      Shelby Mullen
-    location: "United States"
-    followers: 7222
-    engagement: 1371
-    commentsToLikes: 0.121528
-    id: ck5pze2e10ilj0i11km8ezuya
+    followers: 15044
+    engagement: 4156
+    commentsToLikes: 0.069704
+    id: ck8t1v9nix65e0j78gkeeieo6
     verified: false
-    hashtags: "#utahelopementphotographer, #portraitpage, #creativeportraits, #artofportrait"
-  - username: "madpuplife"
+    hashtags: "#blackparents, #blackdads, #nicugraduate, #trachbaby"
+  - username: "ohheyamy"
     fullname: >-
-      Sydney | Mad Pup Life
+      Amy Phu
     location: "United States"
-    followers: 6190
-    engagement: 1584
-    commentsToLikes: 0.083706
-    id: ck5hptv7nrylg0i11bee3vq1i
+    followers: 2916
+    engagement: 2488
+    commentsToLikes: 0.235903
+    id: ckap3q17q425t0i78v4biefle
     verified: false
-    hashtags: "#dogtreats, #officeinspo, #ootd, #targetdoesitagain"
-  - username: "_jasminvanessa"
+    hashtags: "#mapifulfamily, #lovelulus, #lulusambassador, #mejuri"
+  - username: "laurencristine_"
     fullname: >-
-      JΛSMIN ╳ VΛNESSΛ
+      L A U R E N
     location: "United States"
-    followers: 24536
-    engagement: 1903
-    commentsToLikes: 0.154995
-    id: ck55mxhoz51bd0i11q9fhs1x0
+    followers: 5073
+    engagement: 2220
+    commentsToLikes: 0.259245
+    id: ck5pznknf1uwu0i117izy289j
     verified: false
-    hashtags: "#revolve, #empirestatebldg, #winenot, #lastyle"
+    hashtags: "#layerup, #quarantinemood, #shortgirlproblems, #quarantinelife"
+  - username: "hossainishrat"
+    fullname: >-
+      Ishrat Hossain
+    location: "United States"
+    followers: 5060
+    engagement: 2112
+    commentsToLikes: 0.261415
+    id: ckaou140nybzx0i78pm5no76d
+    verified: false
+    hashtags: "#bengaliblogger, #knowledge, #modesty, #bengalihijabi"
+  - username: "petitelife_incolors"
+    fullname: >-
+      Natalia| Petite Style & Travel
+    location: "United States"
+    followers: 5262
+    engagement: 1866
+    commentsToLikes: 0.355552
+    id: ck9wfk74ap7cm0j78egmaovjd
+    verified: false
+    hashtags: "#romperseason, #ghig010, #styletip, #styledaily"
+  - username: "winnietangneedsaninstagram"
+    fullname: >-
+      WINNIE | Fashion & Travel Blog
+    location: "United States"
+    followers: 5159
+    engagement: 1847
+    commentsToLikes: 0.098672
+    id: ck9haz0zhenum0j78jtsij2k1
+    verified: false
+    hashtags: ""
   - username: "thiswaywithtay"
     fullname: >-
       TAYLOR | wine + travel
     location: "United States"
-    followers: 8836
-    engagement: 1573
-    commentsToLikes: 0.123528
+    followers: 14365
+    engagement: 1710
+    commentsToLikes: 0.106102
     id: ck15q0h990ibj0i19gdehc4x3
     verified: false
-    hashtags: "#frenchwine, #winelife, #champagne, #style"
-  - username: "anna.beilin"
+    hashtags: "#vineyard, #rose, #scottsdale, #spain"
+  - username: "chlobellexx"
     fullname: >-
-      ANNA🧿BEILIN
+      Chloe | Content Creator
     location: "United States"
-    followers: 66475
-    engagement: 670
-    commentsToLikes: 0.059120
-    id: ck14keanup3ou0i19vkvgu702
+    followers: 6893
+    engagement: 1636
+    commentsToLikes: 0.180185
+    id: ck5zio1r5g2ik0i14vbdlrxg4
     verified: false
-    hashtags: "#tbthursday, #quarantinereminiscing, #monday, #friday"
-  - username: "crisonaderra"
+    hashtags: "#launchparty, #beauty, #targetgiveaway, #travelwithme"
+  - username: "sweettravelphotos"
     fullname: >-
-      ✨ Cris ⇢ The Traveler ✨
+      Shirin
     location: "United States"
-    followers: 5775
-    engagement: 2404
-    commentsToLikes: 0.108803
-    id: ck13azjm9syer0i19djxhaqt2
+    followers: 11260
+    engagement: 1623
+    commentsToLikes: 0.095265
+    id: ck8t7et32gjex0j78ntbxknm4
     verified: false
-    hashtags: ""
-  - username: "sotodaywefound"
-    fullname: >-
-      Sam & Kez | Lifestyle & Travel
-    location: "United States"
-    followers: 29997
-    engagement: 823
-    commentsToLikes: 0.057985
-    id: ck13agiclqa290i19fhqgojyv
-    verified: false
-    hashtags: "#trespasshavemyback, #bluemonday, #lovehoney, #valentinesisforlovers"
-  - username: "ourkindlife"
-    fullname: >-
-      Heather+Martin | Vegan Travel
-    location: "United States"
-    followers: 46106
-    engagement: 709
-    commentsToLikes: 0.061846
-    id: ck13a3b7fof6z0i19gkpurao8
-    verified: false
-    hashtags: "#wanderwomeninc, #thetravellingnomads, #sunsetlover, #beautifuldestinations"
+    hashtags: "#stairsdesign, #longdresses, #lakecomo, #jumpsuits"
 ---

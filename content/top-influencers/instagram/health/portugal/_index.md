@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Portugal In 2020
 description: >-
-  Find top health Instagram influencers in Portugal in 2020. Most popular hashtags: #love #quarantine #glutenfree #stayhome.
+  Find top health Instagram influencers in Portugal in 2020. Most popular hashtags: #lifestyle #fashion #fashionstyle #healthychoices.
 platform: Instagram
 profiles:
-  - username: "adrianaromasimoes"
+  - username: "nescp"
     fullname: >-
-      ADRIANA・DAILY INSPO
+      Inês Costa Pereira
     location: "Portugal"
-    followers: 3185
-    engagement: 1414
-    commentsToLikes: 0.268116
-    id: ck8td8rf62d2v0j78dx3wttlz
+    followers: 8490
+    engagement: 1579
+    commentsToLikes: 0.047608
+    id: ck6012z18eqtz0i14zh0znn8z
     verified: false
-    hashtags: "#reallife, #tbt, #brandbassador"
-  - username: "rubisero"
+    hashtags: "#loavies, #flowerfilteritlikemichele, #strongersweden, #stayinloavies"
+  - username: "florindalopes"
     fullname: >-
-      Rubisero | 🇬🇧🇵🇹
+      FLO | LIFESTYLE BLOGGER
     location: "Portugal"
-    followers: 4737
-    engagement: 1688
-    commentsToLikes: 0.066201
-    id: ck8tagnk4ro9f0j78l9wzfqfn
+    followers: 6651
+    engagement: 1104
+    commentsToLikes: 0.080495
+    id: ck0u8yved8msd0i19xe8fbdjx
     verified: false
-    hashtags: "#mensblog, #zumub, #stayhealthy, #muscle"
-  - username: "alicetrewinnard"
+    hashtags: "#tumblrvibes, #tezzaapp, #vscofilters, #balitravel"
+  - username: "brunoanjoss"
     fullname: >-
-      Alice Trewinnard
+      𝗕 𝗥 𝗨 𝗡 𝗢    𝗔 𝗡 𝗝 𝗢 𝗦
     location: "Portugal"
-    followers: 207944
-    engagement: 755
-    commentsToLikes: 0.002998
-    id: ck134v13sybqz0i19a00owtxx
-    verified: true
-    hashtags: "#fuckingfinally, #batistehair, #stayathome, #euficoemcasa"
-  - username: "gabrielamuniz1"
-    fullname: >-
-      Gabriela Muniz Leal
-    location: "Portugal"
-    followers: 5678
-    engagement: 515
-    commentsToLikes: 0.074911
-    id: ck5q5e88vshwa0i119kikivoy
+    followers: 4441
+    engagement: 1771
+    commentsToLikes: 0.378577
+    id: ck9womla25rjc0j78gw86m3wr
     verified: false
-    hashtags: "#tb, #gpsfoundation, #poliemilk, #casamentoraeruy"
-  - username: "anotherday_inheaven"
+    hashtags: "#topman, #healthy, #freedom, #streetwear"
+  - username: "brunoodiaz"
     fullname: >-
-      MATILDA 🇸🇪 & ROBERT 🇵🇱
+      Bruno Dias
     location: "Portugal"
-    followers: 32738
-    engagement: 918
-    commentsToLikes: 0.085974
-    id: ck0w064j5ckdf0i19k9lee35o
+    followers: 10426
+    engagement: 911
+    commentsToLikes: 0.099122
+    id: ck9wf0kgemqk60j78g9aexnxm
     verified: false
-    hashtags: "#cutecouples, #relationship, #travelcouples, #kohmak"
+    hashtags: "#ootdpost, #mvmtwatch, #menfashion, #mensaccessories"
+  - username: "idireito"
+    fullname: >-
+      Inês Gomes Direito
+    location: "Portugal"
+    followers: 21689
+    engagement: 335
+    commentsToLikes: 0.144293
+    id: ck9we42r0ihoi0j78g69ssdlt
+    verified: false
+    hashtags: "#gymgirl, #science, #oatmeal, #tulips"
+  - username: "maede3gemeos"
+    fullname: >-
+      Mãede3Gémeos JoanaReis
+    location: "Portugal"
+    followers: 17754
+    engagement: 327
+    commentsToLikes: 0.139091
+    id: ck8t0xklstpgu0j788ibl6u2g
+    verified: false
+    hashtags: "#homedecor, #remodela, #diasemcasa, #coffeetime"
+  - username: "anacatarinamar"
+    fullname: >-
+      Ana Martins • Health Lifestyle
+    location: "Portugal"
+    followers: 6740
+    engagement: 582
+    commentsToLikes: 0.145664
+    id: ck8szqhampc8g0j78yx1fhlvk
+    verified: false
+    hashtags: "#believewomen, #healthybites, #comersemculpa, #loveyourself"
+  - username: "allexiamatos"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  Alexia Matos
+    location: "Portugal"
+    followers: 6705
+    engagement: 548
+    commentsToLikes: 0.205369
+    id: ck9wfei37oijr0j780e5jarud
+    verified: false
+    hashtags: "#hapyness, #receitas, #happymoments, #vaificartudobem"
   - username: "marcooliveira9"
     fullname: >-
       ᴹᴬᴿᶜᴼ ᴼᴸᴵⱽᴱᴵᴿᴬ
     location: "Portugal"
-    followers: 8895
-    engagement: 488
-    commentsToLikes: 0.221410
+    followers: 8936
+    engagement: 477
+    commentsToLikes: 0.207406
     id: ck6txuu04zzd20j7173f0cfvi
     verified: false
-    hashtags: "#streetmenstyle, #dapperfashion, #streetwearstyle, #stayathome"
-  - username: "healthybitespt"
+    hashtags: "#withcoffee, #gentlemanstyle, #outfitsociety, #skinguard"
+  - username: "filipabordalo"
     fullname: >-
-      Teresa D'Abreu
+      FILIPA BORDALO
     location: "Portugal"
-    followers: 29651
-    engagement: 350
-    commentsToLikes: 0.106464
-    id: ck6txdrhfx8z40j710y7hhguy
+    followers: 6386
+    engagement: 453
+    commentsToLikes: 0.126231
+    id: ck15sv8r3eyyp0i19c1crwplw
     verified: false
-    hashtags: "#digitalentrepreneur, #behealthy, #airfryer, #healthyfood"
-  - username: "tjwellness"
-    fullname: >-
-      Tine Johansen
-    location: "Portugal"
-    followers: 24155
-    engagement: 220
-    commentsToLikes: 0.253903
-    id: ck55j3pm1w6vr0i118gtnv0po
-    verified: false
-    hashtags: "#selflove, #kidsyoga, #dancervariation, #aloyogachallenge"
-  - username: "mycasualbrunch"
-    fullname: >-
-      Luísa Fortes da Cunha
-    location: "Portugal"
-    followers: 45808
-    engagement: 320
-    commentsToLikes: 0.061052
-    id: ck0w426g6wfnx0i19eh5f65ko
-    verified: false
-    hashtags: "#pinkladyapple, #veganportugal, #ficaremcasa, #vegetarian"
-  - username: "glutenfree.com.paixao"
-    fullname: >-
-      Sofia Paixão
-    location: "Portugal"
-    followers: 34711
-    engagement: 267
-    commentsToLikes: 0.136349
-    id: ck5hj2cd6fvm90i115tvhr29q
-    verified: false
-    hashtags: "#wholeliving, #glutenfreefood, #airfryer, #wholefoods"
+    hashtags: "#motivationalmonday, #viajarsemsairdecasa, #lazymonday, #homebasedtales"
 ---

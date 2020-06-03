@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top architecture Instagram influencers in United Kingdom in 2020. Most popular hashtags: #london #moodygrams #architecture #uk.
+  Find top architecture Instagram influencers in United Kingdom in 2020. Most popular hashtags: #travelblog #traveldeeper #vacationmode #england.
 platform: Instagram
 profiles:
-  - username: "gabbyfdias"
-    fullname: >-
-      GABZILLA
-    location: "United Kingdom"
-    followers: 48323
-    engagement: 1119
-    commentsToLikes: 0.016364
-    id: ck6tj5uzd22ej0j71xhoftmxb
-    verified: false
-    hashtags: "#homemade, #stayfit, #glutes, #luxegal"
-  - username: "makeupbydobreva"
-    fullname: >-
-      Maro 💄
-    location: "United Kingdom"
-    followers: 3766
-    engagement: 1222
-    commentsToLikes: 0.363883
-    id: ck6uf3xucuqx40j71npmhgih6
-    verified: false
-    hashtags: "#makeupoftheday, #valentinesmakeup, #reisen, #fakelashes"
-  - username: "thefoodyproject"
-    fullname: >-
-      Cindy | London
-    location: "United Kingdom"
-    followers: 9183
-    engagement: 1747
-    commentsToLikes: 0.096892
-    id: ck0w3oh11ug8m0i19g2d6vbw5
-    verified: false
-    hashtags: "#architect, #tasteintravel, #foodandwine, #nomnomnom"
-  - username: "ottoberkeley"
-    fullname: >-
-      Otto Berkeley
-    location: "United Kingdom"
-    followers: 18931
-    engagement: 1169
-    commentsToLikes: 0.072476
-    id: ck0u07i8esxee0i197ohrwrh0
-    verified: false
-    hashtags: "#moodnation, #trappingtones, #urbanandstreet, #ourdailyplanet"
-  - username: "nwlondonvibe"
-    fullname: >-
-      Olena | NW London Vibes
-    location: "United Kingdom"
-    followers: 10212
-    engagement: 1286
-    commentsToLikes: 0.063226
-    id: ck5pvts99jlqg0i119ljc0xjq
-    verified: false
-    hashtags: "#london, #asecondofwhimsey, #christmascountdown, #londonlove"
   - username: "crisswaddle"
     fullname: >-
       Criss Waddle
     location: "United Kingdom"
-    followers: 364509
-    engagement: 742
-    commentsToLikes: 0.019566
+    followers: 384163
+    engagement: 692
+    commentsToLikes: 0.019523
     id: ck6u5rw4ubde90j71d3y71d7h
     verified: true
-    hashtags: "#amgbizness, #amgbeyondkontrol, #amgbusiness, #amgceo"
-  - username: "iggythewiggy"
+    hashtags: "#amgbizness"
+  - username: "trill.rxnny"
     fullname: >-
-      ᴛʀᴀᴠᴇʟ | ᴘʜᴏᴛᴏɢʀᴀᴘʜʏ | ᴜʀʙᴀɴ
+      ℜ𝔬𝔥𝔞𝔫 ₳₭₳ ℜ𝔬𝔫𝔫𝔶
     location: "United Kingdom"
-    followers: 6670
-    engagement: 1314
-    commentsToLikes: 0.066700
-    id: ck5c6nkl45tc80i11u41k73ik
+    followers: 3863
+    engagement: 1423
+    commentsToLikes: 0.125334
+    id: ck5qd0dqgt7ti0i1165ejavlr
     verified: false
-    hashtags: "#japan, #symmetryhunters, #cityphotography, #hbouthere"
-  - username: "garlailau"
+    hashtags: "#lfw20, #typicalindianfilmsetting, #stayathome"
+  - username: "gabbyfdias"
     fullname: >-
-      Gar Lai
+      GABZILLA
     location: "United Kingdom"
-    followers: 6922
-    engagement: 1330
-    commentsToLikes: 0.030100
-    id: ck8ta698tqld60j78dir16y7m
+    followers: 56535
+    engagement: 829
+    commentsToLikes: 0.016226
+    id: ck6tj5uzd22ej0j71xhoftmxb
     verified: false
-    hashtags: "#architecturedrawing, #architecturephotography, #sketchday, #sketching"
-  - username: "pantelart"
+    hashtags: "#luxegal, #femmeluxe, #loungewear, #blueberryfaygo"
+  - username: "thefoodyproject"
     fullname: >-
-      Alex Pantela
+      Cindy | London
     location: "United Kingdom"
-    followers: 72882
-    engagement: 947
-    commentsToLikes: 0.014645
-    id: ck136znqh923x0i190lr8tq0f
+    followers: 9522
+    engagement: 1693
+    commentsToLikes: 0.095560
+    id: ck0w3oh11ug8m0i19g2d6vbw5
+    verified: false
+    hashtags: "#turkishcoffee, #europeantour, #quarantine, #thelensbible"
+  - username: "ottoberkeley"
+    fullname: >-
+      Otto Berkeley
+    location: "United Kingdom"
+    followers: 19472
+    engagement: 1151
+    commentsToLikes: 0.079641
+    id: ck0u07i8esxee0i197ohrwrh0
+    verified: false
+    hashtags: "#splendid, #streetmobs, #gramslayers, #streetleaks"
+  - username: "kyleshanem"
+    fullname: >-
+      Kyle
+    location: "United Kingdom"
+    followers: 3913
+    engagement: 1289
+    commentsToLikes: 0.061429
+    id: ckap1aeestqc30i78b2nfy7a1
     verified: false
     hashtags: ""
-  - username: "niteatday"
+  - username: "nwlondonvibe"
     fullname: >-
-      niteatday
+      Olena | NW London Vibes
     location: "United Kingdom"
-    followers: 60848
-    engagement: 696
-    commentsToLikes: 0.016589
-    id: ck0tvk2jfbpmf0i198m3dvkey
+    followers: 11593
+    engagement: 1182
+    commentsToLikes: 0.075934
+    id: ck5pvts99jlqg0i119ljc0xjq
     verified: false
-    hashtags: "#london, #skyscraper, #gallery, #archisketcher"
+    hashtags: "#peonies, #londonist, #roses, #englishcottage"
+  - username: "ckvivalajourney"
+    fullname: >-
+      Chirag | Khyati
+    location: "United Kingdom"
+    followers: 19415
+    engagement: 302
+    commentsToLikes: 0.013967
+    id: ck8t7qzr8hp7n0j78gj9m0bq9
+    verified: false
+    hashtags: "#manarola, #italianstyles, #instatravels, #onthebeach"
+  - username: "drew.erskine"
+    fullname: >-
+      Drew Erskine
+    location: "United Kingdom"
+    followers: 3611
+    engagement: 2593
+    commentsToLikes: 0.073425
+    id: ckap6xd9shr4g0i78445emlec
+    verified: false
+    hashtags: ""
+  - username: "demilangart"
+    fullname: >-
+      𝗗𝗲𝗺𝗶 𝗟𝗮𝗻𝗴
+    location: "United Kingdom"
+    followers: 39166
+    engagement: 756
+    commentsToLikes: 0.027518
+    id: ck15t0sz5frz60i195qynp78d
+    verified: false
+    hashtags: "#drawingaday, #creativearts, #realisticart, #oxfordshire"
 ---

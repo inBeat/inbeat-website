@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Jakarta In 2020
 description: >-
-  Find top health Instagram influencers in Jakarta in 2020. Most popular hashtags: #covid19 #jakarta #dirumahaja #health.
+  Find top health Instagram influencers in Jakarta in 2020. Most popular hashtags: #health #covid19 #repost #jakarta.
 platform: Instagram
 profiles:
-  - username: "kepinhelmy"
+  - username: "antiwulandari98"
     fullname: >-
-      KEPIN HELMY - Hotel Reviewer
+      Wulandari
     location: "Indonesia"
-    followers: 71720
-    engagement: 154
-    commentsToLikes: 0.140787
-    id: ck5hlvduykxn00i118tdwxcri
+    followers: 93468
+    engagement: 37
+    commentsToLikes: 0.382641
+    id: ck5hqijrct65p0i110100ka1d
     verified: false
-    hashtags: "#aryadutahotelmakassar, #instafood, #delicious, #healthy"
-  - username: "jakpostimages"
-    fullname: >-
-      The Jakarta Post
-    location: "Indonesia"
-    followers: 51827
-    engagement: 90
-    commentsToLikes: 0.007824
-    id: ck15pskcnzfsw0i190mvilf2b
-    verified: true
-    hashtags: "#transportation, #library, #jokowi, #unbraw"
-  - username: "infia_fact"
-    fullname: >-
-      INFIA - Fact
-    location: "Indonesia"
-    followers: 3112945
-    engagement: 92
-    commentsToLikes: 0.010525
-    id: ck15pe6tqxg0y0i19tspvf3rq
-    verified: false
-    hashtags: "#umbre, #corona, #jokowidodo, #england"
+    hashtags: "#challengeyourself, #ramadhan, #jakarta, #brushchallenge"
   - username: "kamalh24"
     fullname: >-
       Kamal hafid
     location: "Indonesia"
-    followers: 21628
-    engagement: 488
-    commentsToLikes: 0.026472
+    followers: 21525
+    engagement: 501
+    commentsToLikes: 0.028321
     id: ck6u0ru3ahejt0j71q2wakpei
     verified: false
-    hashtags: "#menstyle, #consistency, #parfumpremium, #bisnisanakmedan"
+    hashtags: "#calisthenics, #fashion, #entreprenuere, #bisnisviral"
+  - username: "catwomanizer"
+    fullname: >-
+      ANDREA GUNAWAN
+    location: "Indonesia"
+    followers: 222173
+    engagement: 461
+    commentsToLikes: 0.016313
+    id: ck5c59yu531zq0i11ech4pazz
+    verified: true
+    hashtags: "#lifetimeoriginal, #ctwmnzrintaiwan, #virtualphotoshoot, #repost"
+  - username: "dndea"
+    fullname: >-
+      DEANANDA AYUSAPUTRI
+    location: "Indonesia"
+    followers: 43726
+    engagement: 201
+    commentsToLikes: 0.039534
+    id: ck6u1rseeni680j71memslvt6
+    verified: false
+    hashtags: "#britishrose, #ancol, #collagen, #hanyang"
+  - username: "ndemun_prasojo"
+    fullname: >-
+      NDEMUN NGAPLO
+    location: "Indonesia"
+    followers: 22910
+    engagement: 346
+    commentsToLikes: 0.021736
+    id: ck6u1s8clnkmo0j71v5nh6x92
+    verified: false
+    hashtags: "#beepolen, #gasgas5758, #ngawingangeni, #lily"
+  - username: "evelynsumarli"
+    fullname: >-
+      Evelyn Sumarli
+    location: "Indonesia"
+    followers: 35722
+    engagement: 134
+    commentsToLikes: 0.381916
+    id: ck8t2wose0z850j78nc5u9h7e
+    verified: false
+    hashtags: "#saturdayvibes, #foryourpage, #kuekering, #momlife"
   - username: "emihacikenz"
     fullname: >-
       emi
     location: "Indonesia"
-    followers: 24518
-    engagement: 271
-    commentsToLikes: 0.443989
+    followers: 26416
+    engagement: 283
+    commentsToLikes: 0.335150
     id: ck14iai5hefu30i19ygtt17q3
     verified: false
-    hashtags: "#sarangwalet, #wowkuliner, #meat, #life"
-  - username: "nonamelinda"
+    hashtags: "#food52, #chinesefood, #bolumacan, #takjil"
+  - username: "yuanitapermana"
     fullname: >-
-      Melinda イチゴ Niswantari
+      Mommy • Influencer • Giveaway
     location: "Indonesia"
-    followers: 7692
-    engagement: 389
-    commentsToLikes: 0.020006
-    id: ck0vybtxl37i80i19rzjf514y
+    followers: 115818
+    engagement: 162
+    commentsToLikes: 0.629879
+    id: ck5c669jh4t7b0i11maicalhg
     verified: false
-    hashtags: "#bloggerhangout, #inovasikalahkankanker, #shortstaycation, #allsedayuhotel"
+    hashtags: "#workfromhome, #momlife, #lifestyleinfluencer, #maduasli"
+  - username: "dhika.dr"
+    fullname: >-
+      dr. Andhika Raspati, SpKO
+    location: "Indonesia"
+    followers: 12336
+    engagement: 678
+    commentsToLikes: 0.127371
+    id: ck6tshdrx4s7j0j715vta555d
+    verified: false
+    hashtags: "#hydroclean, #indonesiakuat, #weightloss, #jagajaraksehat"
   - username: "ricky_rangers"
     fullname: >-
-      ricky shatrie
+      Ricky M Safir
     location: "Indonesia"
-    followers: 14788
-    engagement: 777
-    commentsToLikes: 0.047146
+    followers: 14839
+    engagement: 789
+    commentsToLikes: 0.047226
     id: ck0vven8rospb0i194pqjc4g3
     verified: false
-    hashtags: "#oakleycrew, #oakleyaro, #colnago, #shimano"
-  - username: "kikianugraha"
-    fullname: >-
-      Kiki Anugraha
-    location: "Indonesia"
-    followers: 110697
-    engagement: 346
-    commentsToLikes: 0.012707
-    id: ck14j6m4miu4d0i1916ep2mqm
-    verified: false
-    hashtags: "#libertywalk, #karmabodykit86, #fadegame, #barberlife"
-  - username: "gonzalogastons"
-    fullname: >-
-      Gonzalo Gastón Sánchez
-    location: "Indonesia"
-    followers: 20153
-    engagement: 988
-    commentsToLikes: 0.028885
-    id: ck0tyqg6qnsab0i197c9go8on
-    verified: false
-    hashtags: "#siesta, #seville, #island, #relax"
-  - username: "donnyhermatra"
-    fullname: >-
-      Donny Hermawan Saputra
-    location: "Indonesia"
-    followers: 7379
-    engagement: 777
-    commentsToLikes: 0.054441
-    id: ck14j7u56izht0i1984npm1kj
-    verified: false
-    hashtags: "#natuna, #lagugalau, #pewarta, #boys"
+    hashtags: "#evzero, #cycling, #oakleyaro, #colnago"
 ---

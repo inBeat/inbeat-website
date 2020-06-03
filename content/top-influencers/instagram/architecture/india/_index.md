@@ -1,36 +1,46 @@
 ---
 title: Top 10 Architecture Instagram Influencers In India In 2020
 description: >-
-  Find top architecture Instagram influencers in India in 2020. Most popular hashtags: #india #incredibleindia #nikon #uttarakhand.
+  Find top architecture Instagram influencers in India in 2020. Most popular hashtags: #stayhome #quarantinelife #stepwell #himachalpradesh.
 platform: Instagram
 profiles:
-  - username: "richaphotos"
+  - username: "ilishask"
     fullname: >-
-      Richa Kashelkar
+      RAMPHAL
     location: "India"
-    followers: 21363
-    engagement: 672
-    commentsToLikes: 0.008313
-    id: ck5zy4nic985m0i14xqrtn2s3
+    followers: 11075
+    engagement: 1542
+    commentsToLikes: 0.042616
+    id: ck8t6c8c0d2d90j78truf7005
     verified: false
-    hashtags: "#indianweddingphptography, #wedmegood, #indianwedding, #firstlook"
-  - username: "wintersockss"
+    hashtags: "#happydaughtersday, #best7years"
+  - username: "nupur__deshmukh"
     fullname: >-
-      Shraddha🌻Travel•Mindfullness🇮🇳
+      Nupur👅
     location: "India"
-    followers: 37124
-    engagement: 459
-    commentsToLikes: 0.026710
-    id: ck6tqqb5ut85w0j71cd85b85k
+    followers: 7398
+    engagement: 724
+    commentsToLikes: 0.187098
+    id: ck15tdcaqhjqg0i19mqwskvbq
     verified: false
-    hashtags: "#bestplacestogo, #exploretheworld, #shotoniphone, #selfgrowth"
+    hashtags: "#spoylinfluencer, #limeselife, #colourfulmakeup, #stbotanicaindia"
+  - username: "theanujamulawkar"
+    fullname: >-
+      ANUJA MULAWKAR
+    location: "India"
+    followers: 44557
+    engagement: 250
+    commentsToLikes: 0.031967
+    id: ck0vy0dev1m5e0i19to0i2aow
+    verified: false
+    hashtags: "#norush, #desigirls, #passthebrushchallengeindia, #quarantinelife"
   - username: "nanna.phatt"
     fullname: >-
       Nanna.phat💋
     location: "India"
-    followers: 2586
-    engagement: 1441
-    commentsToLikes: 0.052049
+    followers: 2801
+    engagement: 1482
+    commentsToLikes: 0.055752
     id: ck8szpn0lp9ab0j78dovmsv8x
     verified: false
     hashtags: "#throwback"
@@ -38,70 +48,60 @@ profiles:
     fullname: >-
       George Kutty™ דיבוק
     location: "India"
-    followers: 21066
-    engagement: 552
-    commentsToLikes: 0.007671
+    followers: 20833
+    engagement: 549
+    commentsToLikes: 0.007941
     id: ck15qtnp74l7d0i19xyzdknmq
     verified: false
-    hashtags: "#unedited, #inspiration, #dy, #blackandwhite"
-  - username: "nupur__deshmukh"
+    hashtags: "#women, #hides, #ocean, #visibility"
+  - username: "stanish.stanishev"
     fullname: >-
-      Nupur👅
+      Stano
     location: "India"
-    followers: 7390
-    engagement: 663
-    commentsToLikes: 0.041606
-    id: ck15tdcaqhjqg0i19mqwskvbq
+    followers: 13991
+    engagement: 1012
+    commentsToLikes: 0.161206
+    id: ck5q4aw9ooekt0i11dyqpwvay
     verified: false
-    hashtags: "#fashionpuneinfluencer, #clearskincare, #giveaway, #applecidervinegar"
-  - username: "photosbymaharshi"
+    hashtags: "#rainbow, #whpcolorwheel"
+  - username: "richaphotos"
     fullname: >-
-      Maharshi Patel 🇮🇳
+      Richa Kashelkar
     location: "India"
-    followers: 43580
-    engagement: 837
-    commentsToLikes: 0.034165
-    id: ck5hgxqr25bre0i11ju77e8k0
+    followers: 21122
+    engagement: 682
+    commentsToLikes: 0.008142
+    id: ck5zy4nic985m0i14xqrtn2s3
     verified: false
-    hashtags: "#colours, #exploringtheglobe, #indiaclicks, #bbctravel"
+    hashtags: "#kolkatawedding, #blackandwhite, #ohnaiyonaiyo"
   - username: "saahilrahman"
     fullname: >-
       SAAHIL RAHMAN
     location: "India"
-    followers: 31716
-    engagement: 1272
-    commentsToLikes: 0.026391
+    followers: 32269
+    engagement: 1396
+    commentsToLikes: 0.026893
     id: ck0w5whyo5rvr0i19jispigbx
     verified: false
-    hashtags: "#shotoniphone11pro, #alzubara, #qatarmetrorail, #wildernessculture"
-  - username: "awara_raahi"
+    hashtags: "#timelapse, #aluva, #pathiramanal, #indiaclicks"
+  - username: "hari_krishna__hk"
     fullname: >-
-      Rahul Sethi
+      Hari Krishna
     location: "India"
-    followers: 4970
-    engagement: 807
-    commentsToLikes: 0.093228
-    id: ck0w1assciert0i19c7dk4mnc
+    followers: 6759
+    engagement: 810
+    commentsToLikes: 0.052086
+    id: ck9wp1dd17dig0j78vu7c7kyy
     verified: false
-    hashtags: "#travelgram, #lbbdelhincr, #shutterhubindia, #traveling"
-  - username: "nitinpasricha"
+    hashtags: "#colorful, #feed, #tamilmusic, #kollywoodcinema"
+  - username: "photosbymaharshi"
     fullname: >-
-      Nitin Pasricha
+      Maharshi Patel 🇮🇳
     location: "India"
-    followers: 6750
-    engagement: 958
-    commentsToLikes: 0.058603
-    id: ck5pydzznvk8z0i11rd2re508
+    followers: 43666
+    engagement: 695
+    commentsToLikes: 0.040671
+    id: ck5hgxqr25bre0i11ju77e8k0
     verified: false
-    hashtags: "#birdcaptures, #greateryellownaped, #nikon, #bird"
-  - username: "ronitvohra"
-    fullname: >-
-      Ronit Vohra
-    location: "India"
-    followers: 29337
-    engagement: 220
-    commentsToLikes: 0.056674
-    id: ck6u40quh10bf0j71m2opidz6
-    verified: false
-    hashtags: "#unpluggedvibes, #musicianforlife, #staymusical, #hive"
+    hashtags: "#forahappymoment, #pangonglake, #bombay, #mulund"
 ---

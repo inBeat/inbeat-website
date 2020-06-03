@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In New York In 2020
 description: >-
-  Find top home decor Instagram influencers in New York in 2020. Most popular hashtags: #homedecor #nycblogger #interiordesign #quarantine.
+  Find top home decor Instagram influencers in New York in 2020. Most popular hashtags: #homedecor #newyorkcity #couplegoals #love.
 platform: Instagram
 profiles:
-  - username: "mansi.basandrai"
+  - username: "ofleatherandlace"
     fullname: >-
-      MANSI | SHE.LABELS.EVERYTHING
+      Tina Lee | Content Creator
     location: "United States"
-    followers: 25711
-    engagement: 257
-    commentsToLikes: 0.107687
-    id: ck6u16gqijvpy0j71f2p646ez
+    followers: 213180
+    engagement: 304
+    commentsToLikes: 0.049009
+    id: ck0txunniki980i19daeless7
     verified: false
-    hashtags: "#usblogger, #covid, #stayhome, #hotpinklips"
-  - username: "ladyhattan"
+    hashtags: "#loveactually, #travelingcouple, #winelover, #amazingview"
+  - username: "paisleyraelynn"
     fullname: >-
-      Ladyhattan • NYC & Travel
+      ★ ᏢᎪᎥsᏞᎬᎽ ❥ ᏒᎪᎬ ★
     location: "United States"
-    followers: 60314
-    engagement: 197
-    commentsToLikes: 0.058494
-    id: ck8t04f77qsp10j78tbzzwy95
+    followers: 18957
+    engagement: 583
+    commentsToLikes: 0.099588
+    id: ck0vwjhs7u4480i194f3d056o
     verified: false
-    hashtags: "#damehotels, #hometour, #storefront, #holidayspirit"
-  - username: "architects__vision"
+    hashtags: "#love, #betterwithwear, #weddingstyle, #fallstyle"
+  - username: "shannon_sells_sea_shells"
     fullname: >-
-      Architect  Vision
+      Shannon Murphy
     location: "United States"
-    followers: 337570
-    engagement: 85
-    commentsToLikes: 0.007129
-    id: ck0w7adc6cjzj0i19wq6bg2w5
+    followers: 2864
+    engagement: 1285
+    commentsToLikes: 0.106896
+    id: ck5zv4jjh3kti0i14c28moq3h
     verified: false
-    hashtags: "#jalisco, #productdesign, #designmilk, #archdaily"
-  - username: "angelarummans"
+    hashtags: "#night, #modelscout, #neuralink, #flowerstagram"
+  - username: "coquelicot_lifestyle"
     fullname: >-
-      Angela Rummans
+      coquelicot💕
     location: "United States"
-    followers: 312431
-    engagement: 334
-    commentsToLikes: 0.013882
-    id: ck13747e39owd0i19t26966s6
+    followers: 37613
+    engagement: 597
+    commentsToLikes: 0.011086
+    id: ckaoy583jg1gv0i787cuznx0a
+    verified: false
+    hashtags: "#babylovers, #animal, #sunrise, #partner"
+  - username: "xtenlovesyou"
+    fullname: >-
+      XTEN 🤍 Home + Travel + Dance
+    location: "United States"
+    followers: 7147
+    engagement: 904
+    commentsToLikes: 0.127357
+    id: ck6udmve6m0430j712pc51tw0
+    verified: false
+    hashtags: "#travelinglife, #collab, #energy, #celebrating"
+  - username: "fashioncoveted"
+    fullname: >-
+      FASHION COVETED ©
+    location: "United States"
+    followers: 575915
+    engagement: 75
+    commentsToLikes: 0.025185
+    id: ck14lbxlxtvzu0i19u0dzxs5a
+    verified: false
+    hashtags: "#women, #charming, #prayfornewyork, #therona"
+  - username: "awesome7videos"
+    fullname: >-
+      Awesome Videos 💯
+    location: "United States"
+    followers: 77828
+    engagement: 517
+    commentsToLikes: 0.009502
+    id: ckap1ro7xvu000i78de36gbah
+    verified: false
+    hashtags: "#visual, #food, #asmrrelax, #canada"
+  - username: "mrjoeiconis"
+    fullname: >-
+      Joe Iconis
+    location: "United States"
+    followers: 52800
+    engagement: 461
+    commentsToLikes: 0.008287
+    id: ck0ttzjug508c0i19qwyerzia
     verified: true
-    hashtags: "#dubai, #maneivyleague, #hiltonhead, #sponsored"
-  - username: "realejimoo"
+    hashtags: "#54below, #marconiswedding, #newmusictheatre, #musicals"
+  - username: "rayparisi"
     fullname: >-
-      EJIMOO
+      Ray Parisi
     location: "United States"
-    followers: 8539
-    engagement: 82
-    commentsToLikes: 0.034509
-    id: ck5c2bk59wxdo0i119twou296
+    followers: 9331
+    engagement: 150
+    commentsToLikes: 0.049170
+    id: ck14lp9s4vsyu0i19ae80e13x
     verified: false
-    hashtags: "#talent, #giveaway, #nycblogger, #hijabfab"
-  - username: "aspiredesignandhome"
+    hashtags: "#roadtrippin, #mtsinai, #success, #mansion"
+  - username: "ardentlylovebooks"
     fullname: >-
-      ASPIRE DESIGN AND HOME
+      Donna
     location: "United States"
-    followers: 21616
-    engagement: 187
-    commentsToLikes: 0.008530
-    id: ck1367kxj54sw0i19tavidt1w
+    followers: 21394
+    engagement: 1262
+    commentsToLikes: 0.033807
+    id: ck15u07m2ks0d0i19kokjfeqx
     verified: false
-    hashtags: "#cosentino, #glamdesign, #wallpapergoals, #moodydecor"
-  - username: "thecupcakesiate"
-    fullname: >-
-      Sumaira & Rivayah
-    location: "United States"
-    followers: 10926
-    engagement: 692
-    commentsToLikes: 0.057641
-    id: ck5zu736b1t410i14skc2aev2
-    verified: false
-    hashtags: "#flattenthecurve, #newyeargoals, #rebeltoddler, #countyourblessings"
-  - username: "thelandladyreads"
-    fullname: >-
-      Molly
-    location: "United States"
-    followers: 4215
-    engagement: 1533
-    commentsToLikes: 0.170946
-    id: ck6ua52441j230j71ugma0wgq
-    verified: false
-    hashtags: "#reviewsneedlovetoo, #readersgonnaread, #booksaremagic, #arcbooks"
-  - username: "nextwithnita"
-    fullname: >-
-      Nita Mann
-    location: "United States"
-    followers: 324988
-    engagement: 95
-    commentsToLikes: 0.078733
-    id: ck0txjdb5jdwt0i19g01yj4d6
-    verified: true
-    hashtags: "#highlightonpoint, #sandals, #vineyardvines, #nwnhome"
-  - username: "theamericanmansion"
-    fullname: >-
-      The American Man$ion
-    location: "United States"
-    followers: 69149
-    engagement: 121
-    commentsToLikes: 0.012959
-    id: ck5hpsd27rvzi0i11d48qz71f
-    verified: false
-    hashtags: "#hamptons, #pizzahut, #virginia, #embassy"
+    hashtags: "#hilarymantel, #mothersday, #emma, #bookerprize"
 ---

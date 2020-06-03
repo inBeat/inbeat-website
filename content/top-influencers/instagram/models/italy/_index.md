@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Italy In 2020
 description: >-
-  Find top models Instagram influencers in Italy in 2020. Most popular hashtags: #iorestoacasa #gretarayofficial #tbt #suppliedby.
+  Find top models Instagram influencers in Italy in 2020. Most popular hashtags: #portrait #iorestoacasa #style #greymodel.
 platform: Instagram
 profiles:
-  - username: "anej_sosic"
+  - username: "ciccirillina_"
     fullname: >-
-      Anej Sosic
+      Beatrice Marchetti
     location: "Italy"
-    followers: 44446
-    engagement: 766
-    commentsToLikes: 0.116799
-    id: ck6ufp29jyboh0j71ap3j3rvu
+    followers: 15440
+    engagement: 884
+    commentsToLikes: 0.020958
+    id: ck5hsd1itwe8v0i11l8igp70k
     verified: false
-    hashtags: "#venice, #pose, #repost, #comingsoon"
+    hashtags: "#milan, #animalier, #restateacasa, #junglestyle"
   - username: "liciafertz"
     fullname: >-
       Buongiorno Nonna
     location: "Italy"
-    followers: 86482
-    engagement: 812
-    commentsToLikes: 0.049052
+    followers: 89828
+    engagement: 842
+    commentsToLikes: 0.057907
     id: ck0udckjriqkd0i194s5mm8ad
     verified: false
-    hashtags: "#donna, #suppliedby, #gift, #nonnalicia"
-  - username: "jessicafiammetta"
+    hashtags: "#stronggirls, #nurse, #omosessuale, #ageless"
+  - username: "andrea_croin"
     fullname: >-
-      JESSICA FIAMMETTA ©️
+      #Andrea Croin 🇮🇹
     location: "Italy"
-    followers: 12299
-    engagement: 1118
-    commentsToLikes: 0.133679
-    id: ck6uc6cc1drw10j718tl8t0xc
+    followers: 9731
+    engagement: 1266
+    commentsToLikes: 0.395473
+    id: ckaoysvdmixca0i78ade9bm85
     verified: false
-    hashtags: "#model, #girl, #milan, #shoesaddict"
-  - username: "grace.fazio"
-    fullname: >-
-      grace fazio
-    location: "Italy"
-    followers: 6027
-    engagement: 1889
-    commentsToLikes: 0.058586
-    id: ck8w3ebnv7dqc0j78t2yj0ege
-    verified: false
-    hashtags: "#hoco, #peachscone, #fyp, #happyathome"
-  - username: "christieperuso"
-    fullname: >-
-      Christie Peruso
-    location: "Italy"
-    followers: 27096
-    engagement: 572
-    commentsToLikes: 0.119374
-    id: ck0w220pjm98g0i19k5227w9r
-    verified: false
-    hashtags: "#celafaremo, #forzaitalia, #thatshot, #quarantinelooksreallygoodonyou"
+    hashtags: "#portrait, #modaitaliana, #modello, #quarantena"
   - username: "alessiadonesss"
     fullname: >-
       Alessia Dones
     location: "Italy"
-    followers: 20080
-    engagement: 1380
-    commentsToLikes: 0.044017
+    followers: 20522
+    engagement: 1153
+    commentsToLikes: 0.059193
     id: ck55kao69yvl70i11vafc1d62
     verified: false
-    hashtags: "#happiness, #eicma2019, #work, #milanoautoclassica"
-  - username: "cocochristina_"
+    hashtags: "#aftershow, #party, #swimwear, #givova"
+  - username: "regyqueen"
     fullname: >-
-      Sijia Chen Christina👉🏻Actress
+      Regy Queen 🌺
     location: "Italy"
-    followers: 18892
-    engagement: 628
-    commentsToLikes: 0.060038
-    id: ck5q63msrvtmn0i11co8bpmbp
+    followers: 193298
+    engagement: 627
+    commentsToLikes: 0.055584
+    id: ck15tiwe2ib0u0i19dmm67mdj
     verified: false
-    hashtags: "#happynewyear, #photo, #love, #positivealways"
-  - username: "jenesy.js"
+    hashtags: "#pajamas, #red, #estate, #estate2020"
+  - username: "deanpelic"
     fullname: >-
-      Gianni musella
+      Dean Pelić
     location: "Italy"
-    followers: 539248
-    engagement: 1586
-    commentsToLikes: 0.019405
-    id: ck5c3htazzct10i11akznap1k
+    followers: 99744
+    engagement: 680
+    commentsToLikes: 0.034382
+    id: ckaot6kuzulyw0i78czzjitvf
     verified: true
-    hashtags: "#iorestoacasa"
-  - username: "chiara.busetti"
+    hashtags: "#unreleasedphotos, #unreleasedphoto, #tuesdaygoals, #malestvari"
+  - username: "anej_sosic"
     fullname: >-
-      Photo  Model  Lifestyle
+      Anej Sosic
     location: "Italy"
-    followers: 21201
-    engagement: 571
-    commentsToLikes: 0.158983
-    id: ck6uenubys1qq0j71r8otrodg
+    followers: 53043
+    engagement: 619
+    commentsToLikes: 0.096188
+    id: ck6ufp29jyboh0j71ap3j3rvu
     verified: false
-    hashtags: "#quarantenamood"
+    hashtags: "#venice, #pose, #repost, #comingsoon"
+  - username: "anastasiyagoulimova_official"
+    fullname: >-
+      Анастасия Гулимова
+    location: "Italy"
+    followers: 32538
+    engagement: 1066
+    commentsToLikes: 0.047380
+    id: ck8t6mcdje43t0j78vc7zuk5r
+    verified: false
+    hashtags: ""
   - username: "greta_ray_official"
     fullname: >-
       G R E T A    R A Y
     location: "Italy"
-    followers: 378741
-    engagement: 391
-    commentsToLikes: 0.089764
+    followers: 463589
+    engagement: 540
+    commentsToLikes: 0.081398
     id: ck5q3s3jam6bg0i11fyuw8q93
     verified: true
-    hashtags: "#unitisivince, #newsound, #vivalamusica, #iorestoacasa"
+    hashtags: "#gretaray"
+  - username: "__gaiaaaaaa__"
+    fullname: >-
+      𝓖𝓪𝓲𝓪 𝓟𝓪𝓰𝓪𝓷𝓮𝓵𝓵𝓲👸🏽
+    location: "Italy"
+    followers: 2878
+    engagement: 2119
+    commentsToLikes: 0.125689
+    id: ckaozjlpnm65d0i784q5lcpcl
+    verified: false
+    hashtags: "#milano"
 ---

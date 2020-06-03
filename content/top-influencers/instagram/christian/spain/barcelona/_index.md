@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top christian Instagram influencers in Barcelona in 2020. Most popular hashtags: #spain #photooftheday #abruzzosweater #espa.
+  Find top christian Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #deadpool #equipo #dembow.
 platform: Instagram
 profiles:
-  - username: "caffeineandchemistry"
+  - username: "carlosfabra.cosafina"
     fullname: >-
-      bella بيلا | premed | español
+      Carlos Fabra | CosaFina Tattoo
     location: "Spain"
-    followers: 17177
-    engagement: 283
-    commentsToLikes: 0.035073
-    id: ck5zrfwljwi9d0i14i8hcoja4
+    followers: 245278
+    engagement: 298
+    commentsToLikes: 0.042149
+    id: ck0w432vqwkbb0i19uigow0yj
     verified: false
-    hashtags: "#spainwedding, #spainlove, #washyourhands, #flattenthecurve"
-  - username: "david_griso"
+    hashtags: "#venom, #human, #birras, #arte"
+  - username: "brianbarber_"
     fullname: >-
-      David Griso⚡️Storyteller
+      βrιαη Pεrεz Qυιrσs ✪
     location: "Spain"
-    followers: 16780
-    engagement: 408
-    commentsToLikes: 0.113450
-    id: ck5c9tia9c3fm0i11z1qdiwve
+    followers: 21460
+    engagement: 296
+    commentsToLikes: 0.023191
+    id: ck6ubn6jqakew0j71x4ffqen3
     verified: false
-    hashtags: "#iamphotographer, #pride, #lesbian, #artistsupportartists"
-  - username: "latiajuanamx"
+    hashtags: "#challenge, #barbertattoo, #happy, #party"
+  - username: "havanadprimera"
     fullname: >-
-      La Tia Juana comida•mexicana
+      Havana D' Primera
     location: "Spain"
-    followers: 68999
-    engagement: 29
-    commentsToLikes: 0.224511
-    id: ck6tnr08yaeav0j71szsziizn
+    followers: 66255
+    engagement: 244
+    commentsToLikes: 0.023397
+    id: ck0ud6uovifsb0i19d4okz1p9
     verified: false
-    hashtags: "#influencers, #latiajuanamx, #franquiciaespa, #barcelona"
-  - username: "davidrodenas"
+    hashtags: "#linkinbio, #giraeuropa2020, #concierto, #barcelona"
+  - username: "ink.yeik"
     fullname: >-
-      David
+      CRISTIAN CARRIÓN
     location: "Spain"
-    followers: 27300
-    engagement: 468
-    commentsToLikes: 0.032227
-    id: ck5cdnizajgaa0i115o8l32dz
+    followers: 42197
+    engagement: 930
+    commentsToLikes: 0.022320
+    id: ck6tm9evo7f4m0j712epmql27
     verified: false
-    hashtags: "#juntspersempre, #cuarentena, #littlebigplanet, #ourlittlebigplanet"
-  - username: "oscarmarquezxl"
+    hashtags: "#kingdomhearts, #natutotattoo, #kimetsunoyaiba, #dragonball"
+  - username: "cristianvilax"
     fullname: >-
-      Oscar Marquez Official
+      CRISTIAN VILA
     location: "Spain"
-    followers: 49469
-    engagement: 385
-    commentsToLikes: 0.026790
-    id: ck5q9kgl9bk3p0i11cbjms1m0
+    followers: 4624
+    engagement: 1047
+    commentsToLikes: 0.128336
+    id: ck6traosaxw8z0j7137imlpk8
     verified: false
-    hashtags: "#fitness, #oscarmarquezxl1, #loveman, #openyourlegsmen"
-  - username: "caffeineandchemistry"
+    hashtags: "#photographer, #bcn, #visualsoflife, #portraitsvision"
+  - username: "_cristianvalen"
     fullname: >-
-      bella بيلا | premed | español
+      Cristian Valencia
     location: "Spain"
-    followers: 17177
-    engagement: 283
-    commentsToLikes: 0.035073
-    id: ck5zrfwljwi9d0i14i8hcoja4
+    followers: 3663
+    engagement: 617
+    commentsToLikes: 0.054837
+    id: ck135rnw02vvg0i19go9hoq01
     verified: false
-    hashtags: "#spainwedding, #spainlove, #washyourhands, #flattenthecurve"
-  - username: "oscarmarquezxl1"
+    hashtags: "#joaquinphoenix, #viuartsdestiu, #cristinaprunell, #letsgotothebeach"
+  - username: "topfoodbcn"
     fullname: >-
-      Oscar marquez
+      Top food BCN ⭐️ Foodie
     location: "Spain"
-    followers: 11308
-    engagement: 638
-    commentsToLikes: 0.030701
-    id: ck5q9ki88bkcy0i116azz97c9
+    followers: 19846
+    engagement: 516
+    commentsToLikes: 0.810399
+    id: ck6u9bwxqwniy0j7192wjxcry
     verified: false
-    hashtags: "#actrophyboys, #madrid, #oscarmarquezxl1, #ilustraciones"
-  - username: "seilskipetchristianradich"
+    hashtags: "#recetas, #fruta, #instafood, #furikake"
+  - username: "cerverixx"
     fullname: >-
-      Christian Radich
+      CRISTIAN CERVERA
     location: "Spain"
-    followers: 6073
-    engagement: 497
-    commentsToLikes: 0.013423
-    id: ck5cbk2dvfl780i11b5titb1f
+    followers: 2427
+    engagement: 1604
+    commentsToLikes: 0.072154
+    id: ck5hdj5sjnpbw0i11lyiyiqqi
     verified: false
-    hashtags: "#sunrise, #windjammervoyage4, #cake, #voyage4"
-  - username: "abcdeele"
+    hashtags: "#ride4fun, #vigo"
+  - username: "khryys"
     fullname: >-
-      abcdeEle - Christian Andrades
+      Cristian Giraldo
     location: "Spain"
-    followers: 27698
-    engagement: 77
-    commentsToLikes: 0.066107
-    id: ck14idyudey610i194hfrhc7p
+    followers: 3892
+    engagement: 1489
+    commentsToLikes: 0.105568
+    id: ck5znagzco31k0i14oiu9q48n
     verified: false
-    hashtags: "#claustrodeig, #profesdeinstagram, #kumuspace, #profedeele"
-  - username: "hinocc"
+    hashtags: "#bailaronline, #sevennationarmy, #dancechallenge, #djyayo"
+  - username: "nubo_one"
     fullname: >-
-      Carles Hinojosa
+      SOFIAN OFFICIAL
     location: "Spain"
-    followers: 7690
-    engagement: 1309
-    commentsToLikes: 0.145810
-    id: ck5hr3ps5u7os0i11w48higj9
+    followers: 9454
+    engagement: 404
+    commentsToLikes: 0.061467
+    id: ck600lrxidtxt0i14sfraf5px
     verified: false
-    hashtags: "#architecture, #exposure, #marcosalberca, #yeyophotos"
+    hashtags: "#sofiane, #reyes, #hardcore, #vida"
 ---

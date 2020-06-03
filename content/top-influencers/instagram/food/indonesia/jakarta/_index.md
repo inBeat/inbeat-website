@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Jakarta In 2020
 description: >-
-  Find top food Instagram influencers in Jakarta in 2020. Most popular hashtags: #dirumahaja #jktfoodbang #kulinerjakarta #foodblogger.
+  Find top food Instagram influencers in Jakarta in 2020. Most popular hashtags: #foodporn #dirumahaja #foodstagram #healthyfood.
 platform: Instagram
 profiles:
-  - username: "jajansamakoko"
-    fullname: >-
-      Kuliner Bekasi Jakarta
-    location: "Indonesia"
-    followers: 17457
-    engagement: 838
-    commentsToLikes: 0.037579
-    id: ck5cjky33uxtu0i1183bwzrow
-    verified: false
-    hashtags: "#taiwancrispychicken, #foodblogger, #instafood, #hungry"
-  - username: "ngunyahberdua"
-    fullname: >-
-      septia & wennie | JKT FOODIES
-    location: "Indonesia"
-    followers: 44371
-    engagement: 362
-    commentsToLikes: 0.045789
-    id: ck8t9x4g9pnuz0j78ec3bac7u
-    verified: false
-    hashtags: "#donat, #cookies, #laperbener, #laperbaper"
   - username: "jktfoodmap"
     fullname: >-
       Kelvin Tan
     location: "Indonesia"
-    followers: 23907
-    engagement: 186
-    commentsToLikes: 0.110143
+    followers: 25774
+    engagement: 232
+    commentsToLikes: 0.128353
     id: ck6u7wnpbo3490j71ix0a5xzx
     verified: false
-    hashtags: "#dirumahaja, #favoritjfm, #tanboy, #popcornchicken"
-  - username: "luminousdreamsphotoworks"
-    fullname: >-
-      Luminousdreamsphotoworks
-    location: "Indonesia"
-    followers: 20954
-    engagement: 313
-    commentsToLikes: 0.056456
-    id: ck5zj65d4h0hy0i148ptafesh
-    verified: false
-    hashtags: "#fashionphotography, #femalemodel, #male, #dominican"
+    hashtags: "#dirumahaja, #anekasambal, #idebukapuasa, #menuberbuka"
   - username: "nitalanaf"
     fullname: >-
       Food Blogger | Nita Lana Faera
     location: "Indonesia"
-    followers: 7846
-    engagement: 434
-    commentsToLikes: 0.106954
+    followers: 8612
+    engagement: 387
+    commentsToLikes: 0.094281
     id: ck0vybsbl37810i199r7boqg2
     verified: false
-    hashtags: "#penang, #vm2020, #restorankapitan, #resepminuman"
+    hashtags: "#gulasemut, #minumanaceh, #kalio, #rendang"
+  - username: "luminousdreamsphotoworks"
+    fullname: >-
+      Luminousdreamsphotoworks
+    location: "Indonesia"
+    followers: 20865
+    engagement: 316
+    commentsToLikes: 0.056942
+    id: ck5zj65d4h0hy0i148ptafesh
+    verified: false
+    hashtags: "#hijab, #muslim, #dominican, #fitness"
+  - username: "jktfoodead"
+    fullname: >-
+      Kuliner Jakarta // Food & Eat
+    location: "Indonesia"
+    followers: 49559
+    engagement: 164
+    commentsToLikes: 0.073914
+    id: ck5hej6ert6gv0i11elapur3b
+    verified: false
+    hashtags: "#mieinstan, #bulgogi, #nasipadang, #hakutiramisucup"
+  - username: "jullie.jong"
+    fullname: >-
+      OPEN ENDORSEMENT | GIVEAWAY
+    location: "Indonesia"
+    followers: 74967
+    engagement: 124
+    commentsToLikes: 0.107439
+    id: ck5q856bj4hj40i11qa92t0ir
+    verified: false
+    hashtags: "#foodlovers, #coffeelover, #minumankekinian, #skincareroutine"
   - username: "kepinhelmy"
     fullname: >-
       KEPIN HELMY - Hotel Reviewer
     location: "Indonesia"
-    followers: 71720
-    engagement: 154
-    commentsToLikes: 0.140787
+    followers: 71146
+    engagement: 152
+    commentsToLikes: 0.141243
     id: ck5hlvduykxn00i118tdwxcri
     verified: false
-    hashtags: "#aryadutahotelmakassar, #instafood, #delicious, #healthy"
-  - username: "kulinersamacici"
+    hashtags: "#accor, #archipelago, #personaltrainer, #healthy"
+  - username: "jktfoodseeker"
     fullname: >-
-      KULINER JAKARTA - BEKASI
+      JKTFoodSeeker
     location: "Indonesia"
-    followers: 22260
-    engagement: 856
-    commentsToLikes: 0.025921
-    id: ck5zmkroomqlp0i14q08sjjk5
+    followers: 44135
+    engagement: 120
+    commentsToLikes: 0.236790
+    id: ck14iiv6tfmku0i19drkzqpqt
     verified: false
-    hashtags: "#wowlaper, #streetboba, #minumankekinian, #kuliner"
+    hashtags: "#ptkorinhub, #dimsumbenhil, #thegaring265, #frenchpastry"
+  - username: "brigidalourdes"
+    fullname: >-
+      🌈 Welcome to my dreamy world 🌈
+    location: "Indonesia"
+    followers: 26515
+    engagement: 326
+    commentsToLikes: 0.027031
+    id: ck0tvg84tb7tf0i19npgjwh98
+    verified: false
+    hashtags: "#jogjawithdp, #instadaily, #bestieforlife, #eiffeltower"
   - username: "yohanes.cahya"
     fullname: >-
       YOHANES | JKT - BEKASI FOODIES
     location: "Indonesia"
-    followers: 4609
-    engagement: 1205
-    commentsToLikes: 0.215123
+    followers: 5472
+    engagement: 779
+    commentsToLikes: 0.288123
     id: ck5hnvt45ohb50i11td8s9x7y
     verified: false
-    hashtags: "#tenderloin, #breads, #jajansd, #siomai"
-  - username: "allabout.kuliner"
+    hashtags: "#gyozas, #risolesenak, #dirumahaja, #kulogroup"
+  - username: "kosmassantosaphotography"
     fullname: >-
-      KulinerJakarta
+      Kosmas Santosa Photography
     location: "Indonesia"
-    followers: 120780
-    engagement: 50
-    commentsToLikes: 0.012404
-    id: ck5hcm7gzispv0i11yr33oy6z
+    followers: 2108
+    engagement: 1093
+    commentsToLikes: 0.087537
+    id: ck9wd3q77dxrw0j78icagwh30
     verified: false
-    hashtags: "#kulinerdepok, #tetapdirumah, #depok24jam, #nikmatilebihnya"
-  - username: "dewsari09"
-    fullname: >-
-      DEWI SARINA
-    location: "Indonesia"
-    followers: 15087
-    engagement: 399
-    commentsToLikes: 0.091208
-    id: ck136ovmu7j930i19wej8bdg3
-    verified: false
-    hashtags: "#putraputribatakindonesia, #lembang, #tendercare, #tiktok"
+    hashtags: "#instagood, #igcreative, #stillife, #sombresociety"
 ---

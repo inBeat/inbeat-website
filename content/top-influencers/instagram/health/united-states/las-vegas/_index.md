@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top health Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #health #fashion #solarcar.
+  Find top health Instagram influencers in Las Vegas in 2020. Most popular hashtags: #health #lasvegas #stayhome #fashion.
 platform: Instagram
 profiles:
-  - username: "angeladomanico_"
-    fullname: >-
-      Angela Domanico
-    location: "United States"
-    followers: 44780
-    engagement: 224
-    commentsToLikes: 0.019497
-    id: ck5hqvne2tsxj0i114c8iyy7b
-    verified: false
-    hashtags: "#sfxmakeupartist, #smokeyeye, #fila, #blackandwhite"
-  - username: "codystrongsongs"
-    fullname: >-
-      cody | angrypicnic
-    location: "United States"
-    followers: 147258
-    engagement: 307
-    commentsToLikes: 0.018636
-    id: ck6ubq02xb0uz0j71dse0ws86
-    verified: true
-    hashtags: "#love, #sadlife, #valentines, #foryoupage"
   - username: "roxannelavin"
     fullname: >-
       Roxanne Lavin
     location: "United States"
-    followers: 18749
-    engagement: 326
-    commentsToLikes: 0.042220
+    followers: 19226
+    engagement: 323
+    commentsToLikes: 0.045193
     id: ck6tmohne87zw0j71z41cgl4f
     verified: false
-    hashtags: "#grateful, #ecofriendly, #progressnotperfection, #animallover"
-  - username: "two_platez"
+    hashtags: "#naturesmedicine, #veganrecipes, #neverlettinggo, #garden"
+  - username: "brakrindustries"
     fullname: >-
-      TWO_PLATEZ
+      Brakr Industries
     location: "United States"
-    followers: 16203
-    engagement: 343
-    commentsToLikes: 0.227596
-    id: ck5c1q6gpvp7a0i1111wtiol6
+    followers: 5528
+    engagement: 290
+    commentsToLikes: 0.013983
+    id: ck0w0yoc0goi10i19lf8ohwji
     verified: false
-    hashtags: "#eatyourveggies, #bomb, #meatlover, #wireless"
-  - username: "leacouture"
+    hashtags: "#lakebed, #deaversuspension, #customtruck, #cargirl"
+  - username: "ohmitstudios"
     fullname: >-
-      Lea Romero-Barczak
+      
     location: "United States"
-    followers: 6734
-    engagement: 767
-    commentsToLikes: 0.079401
-    id: ck6u86c6apoqt0j71uzrqj390
+    followers: 95468
+    engagement: 141
+    commentsToLikes: 0.055661
+    id: ck6u1lra2mi620j71rt2cm1a9
     verified: false
-    hashtags: "#movedin, #bossbabetribe, #staysafe, #vibes"
-  - username: "mrsyvettepriscilla"
+    hashtags: "#gunrange, #ledflashlight, #lumens, #knifepics"
+  - username: "ryan_jerome"
     fullname: >-
-      Yvette Priscilla 🍔
+      Ryan Jerome
     location: "United States"
-    followers: 10800
-    engagement: 860
-    commentsToLikes: 0.016785
-    id: ck6uchboefm0l0j714ii087gn
+    followers: 103978
+    engagement: 242
+    commentsToLikes: 0.017237
+    id: ck0vzpesga8pa0i19h0outvab
     verified: false
-    hashtags: "#lasvegaslocal, #snow, #nevadalocal, #youtube"
-  - username: "lightyear_cars"
+    hashtags: "#chloe, #visiticeland, #vegasbaby, #menswear"
+  - username: "909_jc"
     fullname: >-
-      Lightyear
+      Joel Cullinane
     location: "United States"
-    followers: 7640
-    engagement: 430
-    commentsToLikes: 0.014344
-    id: ck5pzne111tyq0i11kwxv41oj
+    followers: 2364
+    engagement: 2297
+    commentsToLikes: 0.054798
+    id: ck0w48qsaxcpy0i191dnjj8sj
     verified: false
-    hashtags: "#redrockcanyon, #2019, #wef2020, #transportation"
-  - username: "byrdmena"
+    hashtags: "#venice, #experience, #scenery, #yolo"
+  - username: "oliviafierro"
     fullname: >-
-      SharpFade 🇻🇪
+      Olivia Fierro
     location: "United States"
-    followers: 54759
-    engagement: 126
-    commentsToLikes: 0.038080
-    id: ck0w55fgj1zih0i19h3iwjsra
-    verified: false
-    hashtags: "#haircolor, #roamluggage, #connecticut, #laspalmasdegrancanaria"
-  - username: "corymarksmusic"
-    fullname: >-
-      Cory Marks
-    location: "United States"
-    followers: 45109
-    engagement: 311
-    commentsToLikes: 0.034789
-    id: ck5pxzj00tm6k0i11fv1y04lk
-    verified: false
-    hashtags: "#rocksnotdead, #live, #amanda, #devilsgrin"
-  - username: "stevenoleksy"
-    fullname: >-
-      Steven Oleksy
-    location: "United States"
-    followers: 9655
-    engagement: 638
-    commentsToLikes: 0.025296
-    id: ck5pwxgn3p3000i11cqnxhgmc
+    followers: 18307
+    engagement: 323
+    commentsToLikes: 0.041777
+    id: ck0vvb4spocoy0i19z7405f37
     verified: true
-    hashtags: "#stylish, #thebest, #rollerhockey, #willferrell"
+    hashtags: "#oliviasbookclub, #coloringpages, #quarantine, #wfhstyle"
+  - username: "ashleenicolemua"
+    fullname: >-
+      Ashlee Zavala
+    location: "United States"
+    followers: 179979
+    engagement: 314
+    commentsToLikes: 0.075049
+    id: ck14kpg6fqnkc0i190odgr9eq
+    verified: false
+    hashtags: "#posing, #babybear, #basics, #throwback"
+  - username: "antoncorbijn4real"
+    fullname: >-
+      Anton Corbijn
+    location: "United States"
+    followers: 156522
+    engagement: 493
+    commentsToLikes: 0.014582
+    id: ck0twg1f9f7o80i19sozzrljp
+    verified: true
+    hashtags: "#torbenulrich, #anselmkiefer, #tea, #amsterdam"
+  - username: "sandiego.city"
+    fullname: >-
+      Official San Diego Page
+    location: "United States"
+    followers: 134159
+    engagement: 200
+    commentsToLikes: 0.016912
+    id: ck5pvukg1jpio0i11o1rgzzx5
+    verified: false
+    hashtags: "#food, #coastline, #rutadelvino, #sdsu"
+  - username: "lady_physique"
+    fullname: >-
+      IFBB Pro Victoria Flores
+    location: "United States"
+    followers: 24268
+    engagement: 446
+    commentsToLikes: 0.030653
+    id: ck8sx1rezfx6l0j78s08k0zs2
+    verified: false
+    hashtags: "#ronaabs, #personaltrainer, #fit4lifebodies, #fitnessjourney"
 ---

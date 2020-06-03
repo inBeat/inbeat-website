@@ -1,29 +1,49 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Phoenix In 2020
 description: >-
-  Find top fashion Instagram influencers in Phoenix in 2020. Most popular hashtags: #ootd #liketkit #stayhome #style.
+  Find top fashion Instagram influencers in Phoenix in 2020. Most popular hashtags: #phoenix #fashion #outfit #summer.
 platform: Instagram
 profiles:
-  - username: "makennachristinexo"
+  - username: "curtbangz"
     fullname: >-
-      MAKENNA WILLHITE
+      Curtis Okafor
     location: "United States"
-    followers: 136499
-    engagement: 179
-    commentsToLikes: 0.094672
-    id: ck0u6ncjm2isl0i19shvkt5gr
+    followers: 6192
+    engagement: 778
+    commentsToLikes: 0.027470
+    id: ck8t0a2asrcom0j78ep2b646u
     verified: false
-    hashtags: "#ootd, #ltkunder100, #ltksalealert, #ltkfit"
+    hashtags: "#clearskin, #thelookout, #wescoutusa, #sedonahiking"
   - username: "beautifulomar"
     fullname: >-
       Ayan  🇸🇴🇨🇦
     location: "United States"
-    followers: 15721
-    engagement: 731
-    commentsToLikes: 0.026787
+    followers: 15555
+    engagement: 732
+    commentsToLikes: 0.027005
     id: ck15qruft4bu40i19lhudacv9
     verified: false
-    hashtags: "#makeupinspiration, #hijabi, #fallmakeup, #schoolmakeup"
+    hashtags: "#1minutemakeup, #makeupinspo, #hotdropzverifiedmua, #datenight"
+  - username: "amandavalentine"
+    fullname: >-
+      Amanda Valentine
+    location: "United States"
+    followers: 14363
+    engagement: 323
+    commentsToLikes: 0.074003
+    id: ck0w1mrwnk3t20i19tnazvi14
+    verified: false
+    hashtags: "#laurenwk, #blush, #lightandshadow, #gelsfordays"
+  - username: "cassidymendezona"
+    fullname: >-
+      Cassidy Mendezona
+    location: "United States"
+    followers: 33005
+    engagement: 201
+    commentsToLikes: 0.117596
+    id: ckaoss42nsupf0i785wryg7se
+    verified: false
+    hashtags: "#immunetihealth, #cbd, #cbdoil, #immuneti"
   - username: "madisonsavannahhh"
     fullname: >-
       Madison Savannah
@@ -33,75 +53,55 @@ profiles:
     commentsToLikes: 0.042064
     id: ck5zudhi525iu0i14drkdqxiz
     verified: false
-    hashtags: "#fitnessmotivation, #bunny, #insomniac, #edmlifestyle"
-  - username: "melanysguydlines"
+    hashtags: "#bikinimodel, #hawaiilife, #sunkissed, #freaknight2019"
+  - username: "sydneymcmodel"
     fullname: >-
-      Melanysguydlines.com
+      Sydney
     location: "United States"
-    followers: 313021
-    engagement: 115
-    commentsToLikes: 0.117440
-    id: ck6tqnxf7skez0j715kf3mj0d
+    followers: 10818
+    engagement: 1287
+    commentsToLikes: 0.035205
+    id: ck0ucbmtkgho00i190mv0j02e
     verified: false
-    hashtags: "#friendshipgoals, #scottsdalestadium, #teamhighvolume, #charmedavenue"
-  - username: "saramonicosplay"
+    hashtags: "#newface, #teengirl, #glitter, #holiday"
+  - username: "sakuraconsidine"
     fullname: >-
-      Sara Moni ✨
+      Sakura Considine • phoenix, az
     location: "United States"
-    followers: 48642
-    engagement: 329
-    commentsToLikes: 0.049707
-    id: ck6u3rlm3zh7u0j717xxoul1a
+    followers: 37975
+    engagement: 548
+    commentsToLikes: 0.063294
+    id: ck0udxy5jk8ca0i19z7pt3bpl
     verified: false
-    hashtags: "#videogamecosplay, #avengersendgame, #ombrehair, #supportlocalbusiness"
-  - username: "iraisbeautyy"
+    hashtags: "#archives, #sundays, #happyweekend, #omgimturning30"
+  - username: "withlovefromkimberly"
     fullname: >-
-      Beauty | Fashion
+      Kimberly Jo 🤓
     location: "United States"
-    followers: 10898
-    engagement: 658
-    commentsToLikes: 0.023632
-    id: ck0udpl2xjl6p0i19aazo9q8r
+    followers: 21456
+    engagement: 327
+    commentsToLikes: 0.342945
+    id: ck55on2u78p5j0i11mmtcq9mm
     verified: false
-    hashtags: "#fashiondiaries, #lifestyleblogger, #stylist, #hdr"
-  - username: "isabella_radovan"
+    hashtags: "#happymothersday, #festivaloutfit, #distressedjeans, #fedorahat"
+  - username: "msppj"
     fullname: >-
-      Isabella Radovan
+      Payal
     location: "United States"
-    followers: 7089
-    engagement: 948
-    commentsToLikes: 0.128449
-    id: ck5zsbcf2y6el0i143za2i7a8
-    verified: false
-    hashtags: "#quay, #nets, #kobebryant, #togetherwearestronger"
-  - username: "tacchi.phoenix"
-    fullname: >-
-      Tacchi Phoenix©️
-    location: "United States"
-    followers: 12548
-    engagement: 1666
-    commentsToLikes: 0.169175
-    id: ck6tsqapr67x60j714ow90n0d
-    verified: false
-    hashtags: "#thoseredbottomstho, #fashionphotography, #quarantinelife, #passionpassport"
-  - username: "kelly_rodenburg"
-    fullname: >-
-      Kelly Rodenburg RN, BSN
-    location: "United States"
-    followers: 6265
-    engagement: 587
-    commentsToLikes: 0.128444
-    id: ck5ztaklp01r20i14ircn4klw
-    verified: false
-    hashtags: "#registerednurse, #liketkit, #internationalwomensday, #travel"
+    followers: 24027
+    engagement: 272
+    commentsToLikes: 0.137027
+    id: ck0vy7lum2mb00i191fcxuw7g
+    verified: true
+    hashtags: "#saswatisen, #devanand, #kareenakapoor, #rekha"
   - username: "stylesrevealed"
     fullname: >-
       SUSAN
     location: "United States"
-    followers: 33695
-    engagement: 330
-    commentsToLikes: 0.049251
+    followers: 34703
+    engagement: 319
+    commentsToLikes: 0.051518
     id: ck5c23bwtwguc0i111agtwl57
     verified: false
-    hashtags: "#myfirstlove, #dukeslajolla, #communalcoffee, #ournewweekendactivity"
+    hashtags: "#quarantine, #netflix, #wishfulthinking, #happyfriday"
 ---

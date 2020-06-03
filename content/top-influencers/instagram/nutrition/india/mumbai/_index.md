@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Mumbai In 2020
 description: >-
-  Find top nutrition Instagram influencers in Mumbai in 2020. Most popular hashtags: #fitness #love #stayhome #instagood.
+  Find top nutrition Instagram influencers in Mumbai in 2020. Most popular hashtags: #nutrition #fashionista #stayhome #love.
 platform: Instagram
 profiles:
-  - username: "jasmine_simplyperfect"
+  - username: "parth_chauhanpc"
     fullname: >-
-      Renuka Pahade
+      Parth Chauhan
     location: "India"
-    followers: 194729
-    engagement: 665
-    commentsToLikes: 0.024452
-    id: ck135xr903ru40i19nz8l5de1
+    followers: 5764
+    engagement: 1054
+    commentsToLikes: 0.060933
+    id: ck8wer19weh8k0j78jcjt9q5u
     verified: false
-    hashtags: "#happiness, #goals, #fitgirls, #health"
-  - username: "karan_h_02"
+    hashtags: "#friendsforever, #hilsstetion, #proteinpowder, #athlete"
+  - username: "fitness.aditya"
     fullname: >-
-      Karan Hegiste
+      Fitness | Gym | motivation
     location: "India"
-    followers: 2635
-    engagement: 4031
-    commentsToLikes: 0.057743
-    id: ck6tyzf7m6r570j71xt6wnbne
+    followers: 16828
+    engagement: 762
+    commentsToLikes: 0.134336
+    id: ck8t754qcfodn0j78oqnut973
     verified: false
-    hashtags: "#newyear2019, #seashore, #zaramen, #runfast"
-  - username: "world.awaits.her"
+    hashtags: "#safeprotocols, #31declasttag, #fitandhappy, #bekindbehumbled"
+  - username: "poppyjabbal"
     fullname: >-
-      Ankita J
+      Poppy Jabbal
     location: "India"
-    followers: 24960
-    engagement: 443
-    commentsToLikes: 0.042064
-    id: ck5qajc7xgpeq0i11o9jje7th
-    verified: false
-    hashtags: "#jaipurdiaries, #youtube, #firstvideo, #mumbaidiaries"
-  - username: "subhasis17"
-    fullname: >-
-      Subhasish Bose
-    location: "India"
-    followers: 47179
-    engagement: 358
-    commentsToLikes: 0.004299
-    id: ck5pwbgn9m19f0i11ip5o2rzm
+    followers: 136411
+    engagement: 122
+    commentsToLikes: 0.025283
+    id: ck0vzx6fxbbq70i19d14tbqr8
     verified: true
-    hashtags: "#fridayfeeling, #sport, #eatinghabits, #brothers"
-  - username: "parth.fitness.lifestyle"
+    hashtags: "#freedom, #chill, #princess, #friends"
+  - username: "beingmom_andbeyond"
     fullname: >-
-      Parth Budhiraja
+      Zahra Jani
     location: "India"
-    followers: 15455
-    engagement: 815
-    commentsToLikes: 0.010362
-    id: ck5pze1ub0ij40i11sx4ye1hr
+    followers: 14495
+    engagement: 479
+    commentsToLikes: 0.443051
+    id: ck136ae3u5jcb0i190pz4opam
     verified: false
-    hashtags: "#diettips, #recipes, #pump, #traveldiaries"
-  - username: "pinkpeppercorn_sonal"
+    hashtags: "#covid19relieffunds, #model, #createabetterworld, #momsinfluencers"
+  - username: "karrankharas"
     fullname: >-
-      Sonal Agrawal
+      Karran Kharas
     location: "India"
-    followers: 111041
-    engagement: 137
-    commentsToLikes: 0.037494
-    id: ck5ztqsxu0yc30i14lvs7w4a9
-    verified: true
-    hashtags: "#gentlemonster, #petsofinstagram, #stayhome, #lonelyplanetindia"
+    followers: 70750
+    engagement: 291
+    commentsToLikes: 0.012385
+    id: ckaosoj1bsdpp0i78gb4r7al5
+    verified: false
+    hashtags: "#hairymen, #natureatitsbest, #life, #vitamindguru"
+  - username: "glamprotocol"
+    fullname: >-
+      Sejal Jain
+    location: "India"
+    followers: 238185
+    engagement: 55
+    commentsToLikes: 0.068483
+    id: ck6u8abm0qdij0j71ofypn2p3
+    verified: false
+    hashtags: "#workout, #aatmanirbhar, #fashioninspo, #fashionpost"
   - username: "sahilaroras_universe"
     fullname: >-
-      Sahil Radhakrishan Arora
+      Sahil Radhakrishan Arora    ੴ
     location: "India"
-    followers: 9854
-    engagement: 392
-    commentsToLikes: 0.026851
+    followers: 10130
+    engagement: 417
+    commentsToLikes: 0.033592
     id: ck14j2wf5icth0i19902rqhcb
     verified: false
-    hashtags: "#indialeadingmalepageant, #envywear, #bestoftheday, #beautiful"
+    hashtags: "#pictures, #stayhealthy, #pants, #polo"
+  - username: "bumpandbabyy"
+    fullname: >-
+      Ananta Goyal
+    location: "India"
+    followers: 38652
+    engagement: 103
+    commentsToLikes: 0.099019
+    id: ck8t7ilfkgxzf0j786yq2fa0o
+    verified: false
+    hashtags: "#flavourfulsoups, #wagamamarecipe, #tobetanmomos, #riceandcurry"
   - username: "sandeepsawale"
     fullname: >-
       Sandeep Sawale
     location: "India"
-    followers: 3024
-    engagement: 1155
-    commentsToLikes: 0.027774
+    followers: 3477
+    engagement: 1052
+    commentsToLikes: 0.031283
     id: ck6tnolg9a9e00j71xh7xugn4
     verified: false
-    hashtags: "#strength, #model, #love, #nopainnogain"
-  - username: "kaizzadcapadia"
+    hashtags: "#arms, #flex, #chestworkout, #benchpress"
+  - username: "yuvi.says"
     fullname: >-
-      Kaizzad Capadia
+      Yuvika Abrol
     location: "India"
-    followers: 43457
-    engagement: 568
-    commentsToLikes: 0.026819
-    id: ck6tox0fvgkwq0j71tfdz7rp3
-    verified: true
-    hashtags: "#themoreyouknow, #school, #weshallprevail, #dignity"
-  - username: "rohanhingorani"
-    fullname: >-
-      rohan 👑
-    location: "India"
-    followers: 266700
-    engagement: 598
-    commentsToLikes: 0.003003
-    id: ck0w5uzrx5k8g0i199s1zwy0x
-    verified: true
-    hashtags: "#fresh, #swarovski, #evoque, #design"
+    followers: 41404
+    engagement: 221
+    commentsToLikes: 0.207960
+    id: ck55n0dtj57q10i1162oi9hj1
+    verified: false
+    hashtags: "#gameswithfamily, #watertime, #pampersindia, #turmeric"
 ---

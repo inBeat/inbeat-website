@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Venezuela in 2020. Most popular hashtags: #makeup #venezuela #beauty #makeupartist.
+  Find top cosmetics Instagram influencers in Venezuela in 2020. Most popular hashtags: #quedateencasa #venezuela #beauty #makeup.
 platform: Instagram
 profiles:
   - username: "kathyoficial"
     fullname: >-
       Kαthy  |  S u α r ɛ z
     location: "Venezuela"
-    followers: 6034
-    engagement: 524
-    commentsToLikes: 0.074912
+    followers: 6191
+    engagement: 535
+    commentsToLikes: 0.082293
     id: ck5pxcpbcr5fj0i11xd0q1s9p
     verified: false
-    hashtags: "#world, #demonslayer, #modelo, #womansecret"
-  - username: "carelquezada"
-    fullname: >-
-      C a r e l  Q u e z a d a💕
-    location: "Venezuela"
-    followers: 8728
-    engagement: 458
-    commentsToLikes: 0.040017
-    id: ck6ud9ysljw7u0j71roknow1s
-    verified: false
-    hashtags: "#automaquillaje, #styleblogger, #makeupblogger, #skincare"
-  - username: "dra.marcelamolina"
-    fullname: >-
-      Dra. Marcela Molina Poblete
-    location: "Venezuela"
-    followers: 55633
-    engagement: 138
-    commentsToLikes: 0.063076
-    id: ck5buy54mimyj0i11ocor8hx1
-    verified: false
-    hashtags: "#ilovesurgery, #cirugiaresponsable, #venezuela, #cuerpoperfecto"
+    hashtags: "#felicidad, #franco, #rock, #mirrorselfie"
   - username: "gabrielhacedor"
     fullname: >-
       ɢᴀʙʀɪᴇʟ ʙ.
     location: "Venezuela"
-    followers: 25842
-    engagement: 141
-    commentsToLikes: 0.069656
+    followers: 26526
+    engagement: 113
+    commentsToLikes: 0.060781
     id: ck8t0qtpmsyc90j78ozhj8ftc
     verified: false
-    hashtags: "#aceitedeargan, #picoftheday, #beauty, #makeup"
-  - username: "musucosmetics"
+    hashtags: "#italia, #repost, #beauty, #cosmetics"
+  - username: "drnelsonleon"
     fullname: >-
-      Musu Cosmetics
+      Nelson León - Maxilofacial
     location: "Venezuela"
-    followers: 69239
-    engagement: 71
-    commentsToLikes: 0.017677
-    id: ck0w6uldiacv80i19o4o3h21p
+    followers: 112514
+    engagement: 158
+    commentsToLikes: 0.036701
+    id: ck15ryt16ads10i19mtlodxcg
     verified: false
-    hashtags: "#cosmetics, #latodouso, #delineado, #maquillaje"
-  - username: "estefaniaramirezmakeup"
+    hashtags: "#cosmeticdentistry, #healing, #teeh, #quedateencasa"
+  - username: "makeupbyfabi_"
     fullname: >-
-      Estefanía Ramírez
+      FABIOLA
     location: "Venezuela"
-    followers: 9739
-    engagement: 1871
-    commentsToLikes: 0.235032
-    id: ck5c8lit49qpl0i113dncncnq
+    followers: 5979
+    engagement: 1685
+    commentsToLikes: 0.080381
+    id: ck8tcdzkuz5co0j7862p3f2i4
     verified: false
-    hashtags: "#spookymakeup, #abh, #flamingocolorspr, #brightmakeup"
+    hashtags: "#tiktokvenezuela, #makeupclass, #butterflymakeup, #challenge"
   - username: "edduraf"
     fullname: >-
       Eduardo Mata
     location: "Venezuela"
-    followers: 43569
-    engagement: 588
-    commentsToLikes: 0.084111
+    followers: 44512
+    engagement: 543
+    commentsToLikes: 0.059854
     id: ck1397mqpjxvn0i19px3eoziq
     verified: false
-    hashtags: "#beautycreations, #maquillajevenezuela, #skin, #makeupgeek"
+    hashtags: "#butterfly, #hairstyle, #video, #tiktok"
+  - username: "yayomakeup"
+    fullname: >-
+      Y A Y O 🖤
+    location: "Venezuela"
+    followers: 13016
+    engagement: 774
+    commentsToLikes: 0.112506
+    id: ck6u5vg2bbz8s0j7151y13d98
+    verified: false
+    hashtags: "#makeup, #socialdistancing, #soymuavzla, #yayotips"
   - username: "martinezcmakeup"
     fullname: >-
       MARILEXI MARTINEZ
     location: "Venezuela"
-    followers: 5362
-    engagement: 562
-    commentsToLikes: 0.184786
+    followers: 5401
+    engagement: 514
+    commentsToLikes: 0.055280
     id: ck5cesb8elm380i11f15qy6ih
     verified: false
-    hashtags: "#maquillajeartistico, #morpheus8, #soymua, #maquillagem"
-  - username: "asvanbeauty"
-    fullname: >-
-      BEAUTY BY ANDREA VAN GRIEKEN
-    location: "Venezuela"
-    followers: 6870
-    engagement: 530
-    commentsToLikes: 0.049727
-    id: ck8tceep6z6sd0j78y6c05h54
-    verified: false
-    hashtags: "#hudabeauty, #makeupartistvzla, #makeupartist, #muavzla"
+    hashtags: "#video, #makeupchallenge, #maquillajes, #glam"
   - username: "itsgardeniia"
     fullname: >-
       𝐶𝑜𝑚𝑜 𝐿𝑎 𝐹𝑙𝑜𝑟 🌸
     location: "Venezuela"
-    followers: 3705
-    engagement: 995
-    commentsToLikes: 0.192280
+    followers: 4119
+    engagement: 942
+    commentsToLikes: 0.180733
     id: ck6031hw7kh1o0i14cw6m7kxa
     verified: false
-    hashtags: "#events, #valentinesdaymakeuplook, #diadelamorylaamistad, #event"
+    hashtags: "#smilealways, #happy, #selfcarethreads, #specialday"
+  - username: "josebranchs"
+    fullname: >-
+      JOSE BRANCHS
+    location: "Venezuela"
+    followers: 3013
+    engagement: 930
+    commentsToLikes: 0.146566
+    id: ckap282zsxs760i78rqtvgr9q
+    verified: false
+    hashtags: "#makeupvenezuela, #fitme, #lipsonpoint, #lips"
+  - username: "angelesspereira"
+    fullname: >-
+      A  N  G  E L   E  S
+    location: "Venezuela"
+    followers: 9891
+    engagement: 615
+    commentsToLikes: 0.078941
+    id: ck9h9nw6b98ma0j7844xm4lcf
+    verified: false
+    hashtags: "#vzla, #kimkardashian, #makeupcreation, #redkiss"
 ---

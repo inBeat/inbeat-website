@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Canada In 2020
 description: >-
-  Find top rappers Instagram influencers in Canada in 2020. Most popular hashtags: #deemc #makeup #motd #beauty.
+  Find top rappers Instagram influencers in Canada in 2020. Most popular hashtags: #tracksuit #family #highfashion #rapper.
 platform: Instagram
 profiles:
-  - username: "larykidd"
+  - username: "16locs"
     fullname: >-
-      Lary Kidd
+      LOC. 🔒🎤
     location: "Canada"
-    followers: 14534
-    engagement: 459
-    commentsToLikes: 0.045450
-    id: ck5hle7hok25q0i116bbw2if9
-    verified: true
-    hashtags: ""
+    followers: 3023
+    engagement: 1704
+    commentsToLikes: 0.089418
+    id: ck9we45jtii210j78bl5ajfil
+    verified: false
+    hashtags: "#acousticmusic, #digitalartworks, #thebestfriends, #coronacation"
   - username: "deepa_deemc"
     fullname: >-
       Deepa Unnikrishnan (Dee MC)
     location: "Canada"
-    followers: 25419
-    engagement: 1103
-    commentsToLikes: 0.008708
+    followers: 25937
+    engagement: 1028
+    commentsToLikes: 0.011326
     id: ck8szmkb4p0940j78inbytd05
     verified: false
-    hashtags: "#redbullspotlight, #socialempowerment, #mumbairap, #vivalahiphop"
-  - username: "mcsai_official"
+    hashtags: "#desifest, #pumaindia, #delhirap, #nykaa"
+  - username: "snaktheripper"
     fullname: >-
-      MC SAI
+      SNAK THE RIPPER
     location: "Canada"
-    followers: 137940
-    engagement: 409
-    commentsToLikes: 0.014397
-    id: ck8t03usrqqsk0j78srncjhw8
-    verified: false
-    hashtags: "#gana, #orunation, #mystro, #tamilkuthu"
-  - username: "ashleyhawmakeup"
-    fullname: >-
-      Ashley Haw🙋🏻‍♀️
-    location: "Canada"
-    followers: 535175
-    engagement: 72
-    commentsToLikes: 0.108115
-    id: ck55q13lwbv1l0i11favfom49
-    verified: false
-    hashtags: "#morphegirl, #neutralmakeup, #makeupartistworldwide, #royallangnickel"
-  - username: "connorprice_"
-    fullname: >-
-      Connor Price
-    location: "Canada"
-    followers: 7729
-    engagement: 992
-    commentsToLikes: 0.177405
-    id: ck6tlxwmw6u3s0j71vpnndoao
+    followers: 111594
+    engagement: 395
+    commentsToLikes: 0.108000
+    id: ck5zof03lqezm0i14t1woykpu
     verified: true
-    hashtags: "#yummy, #connorprice, #freestyle, #toronto"
-  - username: "vialsss"
+    hashtags: "#history, #covid19, #imgood, #aerialassault1"
+  - username: "alexander_panetta"
     fullname: >-
-      vials
+      Alexander Panetta
     location: "Canada"
-    followers: 18891
-    engagement: 417
-    commentsToLikes: 0.075372
-    id: ck8wfwq8ugdk00j78o0f9k3m7
-    verified: true
-    hashtags: "#tigerking, #myaesthetic, #devil, #wishmeluck"
-  - username: "rapmarathon"
-    fullname: >-
-      RapMarathon™️🏁
-    location: "Canada"
-    followers: 41375
-    engagement: 3217
-    commentsToLikes: 0.032720
-    id: ck8tcyxll17tl0j780hghl4w8
+    followers: 56677
+    engagement: 335
+    commentsToLikes: 0.151795
+    id: ckaoz9jy3kymf0i78lw1pbpgc
     verified: false
-    hashtags: "#joebudden, #toosieslide, #torontoartist, #marquise"
-  - username: "everyonesaweirdo"
+    hashtags: "#juliandeguzmanchoreography, #asapferg, #shayathome, #checkonme"
+  - username: "mellowdofficial"
     fullname: >-
-      Nate Husser
+      Mellow ⚡️
     location: "Canada"
-    followers: 10547
-    engagement: 605
-    commentsToLikes: 0.083976
-    id: ck5hin2yued510i11gzbtn4rb
-    verified: false
-    hashtags: "#comedy, #quarantinelife, #stayinside, #styleinspo"
-  - username: "charronkotd"
-    fullname: >-
-      Corey Charron
-    location: "Canada"
-    followers: 133449
-    engagement: 166
-    commentsToLikes: 0.027586
-    id: ck5c4vela26t50i112qyixkc1
+    followers: 33394
+    engagement: 270
+    commentsToLikes: 0.029809
+    id: ck138o282h6890i19uaajc75x
     verified: true
-    hashtags: "#mensfashion, #redsquad, #ad"
-  - username: "aardeeofficial"
+    hashtags: "#stayhigh, #red, #swagdev, #instagood"
+  - username: "gaia_is_i"
+    fullname: >-
+      🌎 Gaiaisi - Gaia's Eye 🌍
+    location: "Canada"
+    followers: 11161
+    engagement: 642
+    commentsToLikes: 0.034885
+    id: ck0w1btcpik6v0i19v0olh5uz
+    verified: false
+    hashtags: "#corona, #earth, #horses, #bears"
+  - username: "aardeemusic"
     fullname: >-
       Aardee
     location: "Canada"
-    followers: 8657
-    engagement: 619
-    commentsToLikes: 0.039260
+    followers: 8695
+    engagement: 648
+    commentsToLikes: 0.039624
     id: ck0w1gwuujag10i19e60pnfkq
     verified: false
     hashtags: "#singhsdoingthings, #aardee, #tracksuit, #channinattan"
+  - username: "microbrulant"
+    fullname: >-
+      MB 🇩🇿🇨🇦
+    location: "Canada"
+    followers: 25501
+    engagement: 828
+    commentsToLikes: 0.023433
+    id: ck601tb7mg4ug0i14rzizumik
+    verified: true
+    hashtags: "#rap, #mtl, #toutpourlegang, #nouveauprojet"
+  - username: "derrelhoshingportraits"
+    fullname: >-
+      Derrel Ho-Shing - Toronto
+    location: "Canada"
+    followers: 20169
+    engagement: 315
+    commentsToLikes: 0.060463
+    id: ck5cfquvbngxr0i11x8jdb34u
+    verified: false
+    hashtags: "#family, #gamer, #vintage, #headwraps"
+  - username: "amiwnrk"
+    fullname: >-
+      𝕬𝖒𝖎𝖓 𝕽𝕶
+    location: "Canada"
+    followers: 11908
+    engagement: 699
+    commentsToLikes: 0.097550
+    id: ck135nvxs2ce30i19n1m0nrwu
+    verified: false
+    hashtags: "#musically, #rapper, #musicvideos, #instagram"
 ---

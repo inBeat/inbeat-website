@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Germany In 2020
 description: >-
-  Find top vegan Instagram influencers in Germany in 2020. Most popular hashtags: #travelblogger #vegan #stayhome #blondesandcookies.
+  Find top vegan Instagram influencers in Germany in 2020. Most popular hashtags: #bodypositivity #style #corona #dresses.
 platform: Instagram
 profiles:
   - username: "juleunddiemedizin"
     fullname: >-
       jule | medstudent | leipzig
     location: "Germany"
-    followers: 18884
-    engagement: 953
-    commentsToLikes: 0.087506
+    followers: 18841
+    engagement: 959
+    commentsToLikes: 0.077486
     id: ck5ckp4q3xc760i11bra02nhz
     verified: false
-    hashtags: "#staysafe, #createdonthate, #supportistkeinmord, #nurliebe"
-  - username: "andherflowers"
-    fullname: >-
-      V a l e r i e
-    location: "Germany"
-    followers: 114520
-    engagement: 542
-    commentsToLikes: 0.045110
-    id: ck13ctwk9250w0i19khnmjb6l
-    verified: false
-    hashtags: "#positivemind, #tattooart, #kidsroom, #mysunshine"
+    hashtags: "#lebensmittelverschwendung, #staysafe, #keinbockmehr, #supportistkeinmord"
   - username: "nicia_unlovelier"
     fullname: >-
       hi, I'm Nicia! 🦔
     location: "Germany"
-    followers: 104468
-    engagement: 529
-    commentsToLikes: 0.042841
+    followers: 103987
+    engagement: 546
+    commentsToLikes: 0.045543
     id: ck8t3ia6l3ejk0j78x0m5xpz5
     verified: false
     hashtags: "#unpaidad"
-  - username: "mutimbauch"
+  - username: "lauramadeleineb"
     fullname: >-
-      SINA ♡ Sei die Veränderung
+      💗  LAURA MADELEINE  💗
     location: "Germany"
-    followers: 12834
-    engagement: 1239
-    commentsToLikes: 0.041885
-    id: ck14kwf3nrnm30i1912d0e4p1
+    followers: 5726
+    engagement: 2146
+    commentsToLikes: 0.069469
+    id: ck8t4axjn63p40j78iki5pavc
     verified: false
-    hashtags: "#mentalhealthawareness, #pinkyandthebrain, #loveyourselffirst, #brotherandsister"
-  - username: "sarah.sellnau"
+    hashtags: "#travel, #sunset, #macedonia, #language"
+  - username: "vivianereinhardt"
+    fullname: >-
+      TRAVEL & HEALTHY LIFESTYLE
+    location: "Germany"
+    followers: 23172
+    engagement: 633
+    commentsToLikes: 0.103966
+    id: ck0vxqmbf07qu0i19aakhr9g9
+    verified: false
+    hashtags: "#hometown, #lightroomfilter, #oceanvibes, #sigiriyarock"
+  - username: "sarahsellnau"
     fullname: >-
       𝐅𝐀𝐒𝐇𝐈𝐎𝐍✨𝐁𝐄𝐀𝐔𝐓𝐘✨𝐈𝐍𝐒𝐏𝐎
     location: "Germany"
-    followers: 4314
-    engagement: 1811
-    commentsToLikes: 0.184237
+    followers: 4746
+    engagement: 1750
+    commentsToLikes: 0.191975
     id: ck0w07udgctfl0i19eyg8prqb
     verified: false
-    hashtags: "#blondesandcookies, #body, #fasching, #sedcardshooting"
-  - username: "annrahel"
-    fullname: >-
-      Ann Rahel || FITNESS & INSPO
-    location: "Germany"
-    followers: 20925
-    engagement: 1115
-    commentsToLikes: 0.036128
-    id: ck8t3zaur51280j78qnyba369
-    verified: false
-    hashtags: "#icedcoffee, #granola, #healthyrecipe, #bootygainz"
-  - username: "marenanita"
-    fullname: >-
-      Maren Anita Metoja 🇩🇪 Würzburg
-    location: "Germany"
-    followers: 57387
-    engagement: 322
-    commentsToLikes: 0.064038
-    id: ck6tjn0wy317d0j710r9b5kzm
-    verified: false
-    hashtags: "#kitzb, #spreadlove, #sommerzeit, #achimwinter"
-  - username: "mariercvry"
-    fullname: >-
-      MaryThoner
-    location: "Germany"
-    followers: 28830
-    engagement: 374
-    commentsToLikes: 0.058309
-    id: ck14krpeqqza20i198c7zi8uj
-    verified: false
-    hashtags: "#weddingday, #artzt, #faszienmassage, #dontpanic"
-  - username: "anniandtimo"
-    fullname: >-
-      TRAVEL ~ SUSTAINABILITY
-    location: "Germany"
-    followers: 23055
-    engagement: 382
-    commentsToLikes: 0.127823
-    id: ck0ttz5kl4ye30i1992etp16a
-    verified: false
-    hashtags: "#scubagirls, #oceanview, #mindfuladventurer, #mountainstories"
+    hashtags: "#flower, #aestheticedits, #yellow, #safirashine"
   - username: "carinamononoke"
     fullname: >-
       Compassion & Empathy🌱🌙
     location: "Germany"
-    followers: 7177
-    engagement: 1160
-    commentsToLikes: 0.057738
+    followers: 8258
+    engagement: 995
+    commentsToLikes: 0.085455
     id: ck8t3m4fp3p8j0j7841aif4kd
     verified: false
-    hashtags: "#dogsthathike, #dogstagram, #straydog, #selbstliebe"
+    hashtags: "#wanderlust, #dogstagram, #antifaschismus, #brixton"
+  - username: "love.palmtrees"
+    fullname: >-
+      RAMONA & STEFAN 🤍🌴
+    location: "Germany"
+    followers: 14017
+    engagement: 831
+    commentsToLikes: 0.148859
+    id: ck5cl1aday1qb0i11r80x03uf
+    verified: false
+    hashtags: "#couplephoto, #beachview, #friendshipgoal, #kamera"
+  - username: "lisagetslost.x"
+    fullname: >-
+      𝕷 𝖎 𝖘 𝖆.𝕷 𝖔 𝖘 𝖙 ⚡
+    location: "Germany"
+    followers: 30927
+    engagement: 765
+    commentsToLikes: 0.029450
+    id: ck134are3viwd0i19vnuab3yl
+    verified: false
+    hashtags: "#tattoolove, #womenshair, #sunsetlovers, #facetattoo"
+  - username: "mariercvry"
+    fullname: >-
+      MaryThoner
+    location: "Germany"
+    followers: 28533
+    engagement: 370
+    commentsToLikes: 0.067460
+    id: ck14krpeqqza20i198c7zi8uj
+    verified: false
+    hashtags: "#togetherness, #coronar, #smarthelmet, #vegan"
+  - username: "picturing.spirit"
+    fullname: >-
+      Johanna ✨ Yoga
+    location: "Germany"
+    followers: 5061
+    engagement: 1925
+    commentsToLikes: 0.086352
+    id: ck9hazujierui0j78teooufdv
+    verified: false
+    hashtags: "#practiceyogachangeyourworld, #fogafam, #homapractice"
 ---

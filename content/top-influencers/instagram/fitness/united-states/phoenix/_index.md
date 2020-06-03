@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Phoenix In 2020
 description: >-
-  Find top fitness Instagram influencers in Phoenix in 2020. Most popular hashtags: #fitness #fitnessmotivation #phoenix #lifestylejules.
+  Find top fitness Instagram influencers in Phoenix in 2020. Most popular hashtags: #fitness #phoenix #arizona #fitfam.
 platform: Instagram
 profiles:
   - username: "charlottepolepower"
     fullname: >-
       Charlotte Adams
     location: "United States"
-    followers: 19718
-    engagement: 390
-    commentsToLikes: 0.029523
+    followers: 21937
+    engagement: 323
+    commentsToLikes: 0.032178
     id: ck5bwiy9ylskv0i110w65r3t5
     verified: false
-    hashtags: "#desert, #lovealungewednesday, #fitnessmodel, #trending"
-  - username: "minharoni"
+    hashtags: "#polestudio, #yogaposes, #flexyfriday, #workoutathome"
+  - username: "frittellivision"
     fullname: >-
-      ▫️Minh
+      Dylan Frittelli
     location: "United States"
-    followers: 7558
-    engagement: 850
-    commentsToLikes: 0.069154
-    id: ck8t22t3vy0dn0j78i8qcrjz3
-    verified: false
-    hashtags: "#virtualriot, #rave, #arizonahiking, #naturelover"
-  - username: "yvette.cassandra"
+    followers: 13631
+    engagement: 455
+    commentsToLikes: 0.039798
+    id: ck0u8m59d7qmj0i192utdiy9b
+    verified: true
+    hashtags: "#yabbadabbadoo, #southafrica, #germany, #mastersrewind"
+  - username: "cjmearsgang"
     fullname: >-
-      Yvette.Cassandra
+      Casey Mears
     location: "United States"
-    followers: 27702
-    engagement: 261
-    commentsToLikes: 0.029666
-    id: ck5zyaz2d9jpk0i14g8b5lvcz
-    verified: false
-    hashtags: "#fitstagram, #tattooart, #fitnessmotivation, #girlswithtattoos"
-  - username: "elchin_ahmadov_"
+    followers: 24761
+    engagement: 223
+    commentsToLikes: 0.028706
+    id: ck5hfuoxlzfn60i11vqzjocz1
+    verified: true
+    hashtags: "#fitnessgoals, #jeep, #homestyle, #coke600"
+  - username: "curtbangz"
     fullname: >-
-      Elchin Ahmadov
+      Curtis Okafor
     location: "United States"
-    followers: 48984
-    engagement: 115
-    commentsToLikes: 0.032876
-    id: ck8t66m6ycfbt0j78bymtg65x
+    followers: 6192
+    engagement: 778
+    commentsToLikes: 0.027470
+    id: ck8t0a2asrcom0j78ep2b646u
     verified: false
-    hashtags: "#squats, #newyorkcit, #fatburningworkout, #baltimore"
-  - username: "facesbyrachie"
+    hashtags: "#clearskin, #thelookout, #wescoutusa, #sedonahiking"
+  - username: "arcanine_rawr"
     fullname: >-
-      Rachel Hollon
+      Meagan
     location: "United States"
-    followers: 14634
-    engagement: 596
-    commentsToLikes: 0.183516
-    id: ck8t63fpnc45s0j788xt6u8fv
+    followers: 86028
+    engagement: 305
+    commentsToLikes: 0.018772
+    id: ck8t2spqo0ker0j78rndfx0yn
     verified: false
-    hashtags: "#birthdaybabe, #bathtime, #lolita, #beautyaddicts"
-  - username: "phoenixkazree"
+    hashtags: "#renaissancefaire, #hufflepuff, #siblingday, #brbg"
+  - username: "cbashbfit"
     fullname: >-
-      Phoenix Kazree
+      Christina “TWO GUNS” Bashara
     location: "United States"
-    followers: 71411
-    engagement: 140
-    commentsToLikes: 0.025640
-    id: ck55psnw7baea0i11byf80kiw
+    followers: 19615
+    engagement: 236
+    commentsToLikes: 0.060812
+    id: ck137c32casqi0i191qiaemwg
     verified: false
-    hashtags: "#sipsnacks, #phoenixkazree, #phoenixkazreeworkshop, #polewithabm"
-  - username: "whitney_wil_run"
+    hashtags: "#qveenherby, #keepfuckinggoing, #tuffwraps, #stayhome"
+  - username: "phxrunnergurl"
     fullname: >-
-      W H I T N E Y•W I L B E R T S
+      Brandilynn☀️🌵
     location: "United States"
-    followers: 7757
-    engagement: 544
-    commentsToLikes: 0.049478
-    id: ck1354419zluu0i19a2mr9i8k
+    followers: 6643
+    engagement: 610
+    commentsToLikes: 0.176532
+    id: ck0tx5qevi18w0i19nf7uuwrv
     verified: false
-    hashtags: "#speedworkout, #middleagedrunner, #getdirty, #staysafe"
-  - username: "laurchkaa"
+    hashtags: "#healthy, #halfmarathon, #keepgoing, #idhikethat"
+  - username: "madisonsavannahhh"
     fullname: >-
-      Lauren 🌻
+      Madison Savannah
     location: "United States"
-    followers: 41751
-    engagement: 491
-    commentsToLikes: 0.007449
-    id: ck0vxaggixyp30i19fyymwim7
+    followers: 2001
+    engagement: 1445
+    commentsToLikes: 0.042064
+    id: ck5zudhi525iu0i14drkdqxiz
     verified: false
-    hashtags: "#phoenix, #motovlog, #cardo, #rideclutch"
-  - username: "lifestylejules"
+    hashtags: "#bikinimodel, #hawaiilife, #sunkissed, #freaknight2019"
+  - username: "jamihjones"
     fullname: >-
-      Lifestyle Jules
+      Jami Jones
     location: "United States"
-    followers: 44641
-    engagement: 198
-    commentsToLikes: 0.082511
-    id: ck5hkn3tdiq760i11cn7nyfgt
+    followers: 13598
+    engagement: 900
+    commentsToLikes: 0.043962
+    id: ck5qdjpxovx1e0i11b0yk872o
     verified: false
-    hashtags: "#vosjcc, #onlineworkout, #tabatavideo, #dysonvacuum"
-  - username: "antwonkeith"
+    hashtags: "#selflove, #iwasparked, #yourewelcome, #socialdistancing"
+  - username: "yogamaris"
     fullname: >-
-      Antwon Keith Collier
+      maris degener
     location: "United States"
-    followers: 29826
-    engagement: 270
-    commentsToLikes: 0.063957
-    id: ck0txbmn4immo0i19x42pb2jd
+    followers: 68203
+    engagement: 354
+    commentsToLikes: 0.022349
+    id: ck0u8rs0783vx0i19h7eiobib
     verified: false
-    hashtags: "#handsanitizer, #andwashedmyhands, #personaltrainer, #fullbodyworkout"
+    hashtags: "#mentalillnessawarenessweek, #la, #iammaris, #20ytoc"
 ---

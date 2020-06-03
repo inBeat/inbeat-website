@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Bali In 2020
 description: >-
-  Find top makeup Instagram influencers in Bali in 2020. Most popular hashtags: #makeupbali #muabali #makeupartist #makeupjakarta.
+  Find top makeup Instagram influencers in Bali in 2020. Most popular hashtags: #makeupbali #makeup #bali #designer.
 platform: Instagram
 profiles:
   - username: "nutsdaria"
     fullname: >-
       BALI MODEL / INFLUENCER 🇲🇨
     location: "Indonesia"
-    followers: 26448
-    engagement: 215
-    commentsToLikes: 0.038303
+    followers: 26595
+    engagement: 202
+    commentsToLikes: 0.041070
     id: ck6tq2poxp2oi0j71gmr14jpq
     verified: false
-    hashtags: "#beautymodelbali, #cerclemusic, #omniabali, #beachclubbali"
-  - username: "iszakeszti"
+    hashtags: "#beachclubbali, #dayclubbali, #baliindonesia2020, #makeupbali"
+  - username: "ita_paidjan"
     fullname: >-
-      iszakeszti
+      Natural makeup
     location: "Indonesia"
-    followers: 202053
-    engagement: 295
-    commentsToLikes: 0.004967
-    id: ck5byg1nip2qf0i11cbbk7pns
+    followers: 17121
+    engagement: 149
+    commentsToLikes: 0.031618
+    id: ck15u62xxll7r0i19y626ufxi
+    verified: false
+    hashtags: "#makeupjunkies, #braids, #bohostyle, #fiercesociety"
+  - username: "furiharun"
+    fullname: >-
+      Furi Harun
+    location: "Indonesia"
+    followers: 67917
+    engagement: 209
+    commentsToLikes: 0.037646
+    id: ck0vx52xux6jm0i19qqidxdk6
     verified: true
-    hashtags: "#protein, #adidas, #playa, #biotechrestore"
-  - username: "sarikayana_wedding"
+    hashtags: "#birthdaygift, #bajuboneka, #nightcream, #indigochild"
+  - username: "helodiyan"
     fullname: >-
-      Sarikayana Wedding Organizer
+      ℂ𝕠𝕟𝕥𝕖𝕟 𝕔𝕣𝕖𝕒𝕥𝕠𝕣 & 𝕀𝕟𝕗𝕝𝕦𝕖𝕟𝕔𝕖𝕣
     location: "Indonesia"
-    followers: 48619
-    engagement: 95
-    commentsToLikes: 0.007382
-    id: ck5bzrjb8rplh0i11o7dbrbvv
+    followers: 41520
+    engagement: 139
+    commentsToLikes: 0.409601
+    id: ck9wh3f79w2js0j789yjd8w0p
     verified: false
-    hashtags: "#acaralamaran, #makeup2013, #afterbeforemakeup, #by"
-  - username: "yasmin.arisandi"
+    hashtags: "#jualaplikasi, #jualaplikasimurah, #lipsyncwithhanum, #facepaitingdenpasar"
+  - username: "annisafawziyah"
     fullname: >-
-      Yasmin Arisandi
+      Annisa Al-hadist
     location: "Indonesia"
-    followers: 6975
-    engagement: 934
-    commentsToLikes: 0.026487
-    id: ck6udg6i6kwn30j71u275jp2u
+    followers: 6837
+    engagement: 519
+    commentsToLikes: 0.032993
+    id: ck9wgkxpotvcq0j78nzft8rad
     verified: false
-    hashtags: "#muabali, #makeupbanyuwangi, #muabanyuwangi, #muajawatengah"
-  - username: "angelamericimakeup"
+    hashtags: "#ceritayuks, #ootdarmy, #ootdindo, #soflens"
+  - username: "dela_deni"
     fullname: >-
-      angela merici
+      D_d
     location: "Indonesia"
-    followers: 46863
-    engagement: 203
-    commentsToLikes: 0.029301
-    id: ck5cj5uwtu1gl0i11ro75bw2v
+    followers: 9890
+    engagement: 358
+    commentsToLikes: 0.079544
+    id: ck5zq9s9ju7bz0i148esrqe4c
     verified: false
-    hashtags: "#1hoursleep, #edisikangenmakeupinbridebride, #makeupartistangerang, #weddingjkt"
-  - username: "bellabonita_r.a"
+    hashtags: "#modellife, #womenfashion, #bianca, #pose"
+  - username: "blessedvenuss"
     fullname: >-
-      BELLBON
+      Evgeniya Korchagina
     location: "Indonesia"
-    followers: 23601
-    engagement: 329
-    commentsToLikes: 0.003234
-    id: ck6tqu9o2ucr60j71053ptlbr
+    followers: 9612
+    engagement: 906
+    commentsToLikes: 0.044976
+    id: ck5zrjoo2wpid0i141nf39wfp
     verified: false
-    hashtags: "#weddingidea, #weddingmakeup, #indonesianbrides, #hijabfashion"
-  - username: "pengantinnusantara"
+    hashtags: "#tumpaksewu, #waterfall, #underwear, #nature"
+  - username: "danellailene"
     fullname: >-
-      Inspirasi Pengantin Nusantara
+      ILENE | BALI MODEL | MUA BALI
     location: "Indonesia"
-    followers: 133619
-    engagement: 115
-    commentsToLikes: 0.004974
-    id: ck15pa06iwu2u0i19863s2qow
+    followers: 18863
+    engagement: 323
+    commentsToLikes: 0.017708
+    id: ck5hkl5ihimdu0i11injipbmy
     verified: false
-    hashtags: "#padang, #surabayawedding, #fujifilm, #weddingrembang"
-  - username: "amospabali"
+    hashtags: "#makeupinspiration, #tbt, #noneditedphotos, #awch"
+  - username: "zhukovanatasha"
     fullname: >-
-      Amo Spa Bali
+      Tash✨
     location: "Indonesia"
-    followers: 25902
-    engagement: 274
-    commentsToLikes: 0.019749
-    id: ck5zq5ri7tzn10i1413tqhwy8
+    followers: 22615
+    engagement: 250
+    commentsToLikes: 0.026806
+    id: ck13951n6jk9p0i19czwqdg0b
     verified: false
-    hashtags: "#hairspa, #nailsbali, #balievent, #balidelicious"
-  - username: "leoafandi_makeup"
+    hashtags: "#balibabes, #bali"
+  - username: "rachelgilbert"
     fullname: >-
-      Makeup Artist Jakarta
+      Rachelgilbert
     location: "Indonesia"
-    followers: 14478
-    engagement: 146
-    commentsToLikes: 0.073015
-    id: ck8sxxf1qj0v70j78mu4geux1
+    followers: 2969
+    engagement: 1369
+    commentsToLikes: 0.104361
+    id: ckaoqokcvjmxg0i78cu4yfjf2
     verified: false
-    hashtags: "#instamakeup, #makeupbali, #makeupjakarta, #jakartamakeupartist"
-  - username: "aw.jaya"
-    fullname: >-
-      𝐀𝐠𝐮𝐧𝐠 𝐖𝐢𝐫𝐚 𝐉𝐚𝐲𝐚
-    location: "Indonesia"
-    followers: 36088
-    engagement: 312
-    commentsToLikes: 0.017239
-    id: ck5bwhqkelq2q0i11tsqupsvw
-    verified: false
-    hashtags: "#homeworkout, #workoutinspiration, #flawlessmakeup, #makeupjakarta"
+    hashtags: "#blondie, #islandlife, #dolly, #ootd"
 ---

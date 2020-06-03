@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Brazil In 2020
 description: >-
-  Find top fashion Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #carnaval #quarentena #selfie.
+  Find top fashion Instagram influencers in Brazil in 2020. Most popular hashtags: #quarentena #summer #lookdodia #makeup.
 platform: Instagram
 profiles:
-  - username: "luanauyara"
+  - username: "helenacoelhooo"
     fullname: >-
-      𝐋𝐔𝐀𝐍𝐀 𝐔𝐘𝐀𝐑𝐀
+      𝐇 𝐄 𝐋 𝐄 𝐍 𝐀  𝐂 𝐎 𝐄 𝐋 𝐇 𝐎
     location: "Brazil"
-    followers: 6276
-    engagement: 1403
-    commentsToLikes: 0.192291
-    id: ck8t8v7pklyiu0j781lpx9kre
+    followers: 455499
+    engagement: 2440
+    commentsToLikes: 1.664794
+    id: ck0u0az0ut4qf0i19ylg3kdyp
     verified: false
-    hashtags: "#carnaval"
-  - username: "yasminlsilva"
+    hashtags: "#foreoportugal, #ikeaportugal, #hboportugal, #pub"
+  - username: "gabsxaviier"
     fullname: >-
-      YASMIN SILVA
+      Gabriella
     location: "Brazil"
-    followers: 56080
-    engagement: 882
-    commentsToLikes: 0.272536
-    id: ck6u8dc5sqwsj0j714efl18hg
+    followers: 10480
+    engagement: 2206
+    commentsToLikes: 0.079332
+    id: ck14j5f1nipvs0i19c2sna5h2
     verified: false
-    hashtags: "#tudosobcontrole, #filmesonline, #rel, #bbb20"
-  - username: "jamillerafic"
+    hashtags: "#lookdodia, #blogueirinha, #goodvibes, #modafeminina"
+  - username: "wladyapinheiro_"
     fullname: >-
-      Jamille Rafic
+      W L A D Y A  P I N H E I R O
     location: "Brazil"
-    followers: 16564
-    engagement: 873
-    commentsToLikes: 0.191657
-    id: ck0w6esn8881i0i19x2ta5b7t
+    followers: 19243
+    engagement: 1170
+    commentsToLikes: 0.072770
+    id: ck9wdwvc5hmpd0j788ol4m86j
     verified: false
-    hashtags: "#makeuplife, #underratedmua, #makeupaddict, #makeupblogger"
+    hashtags: "#summer, #joseavelino, #laion, #lifestyle"
+  - username: "paulavaccari"
+    fullname: >-
+      Paula Vaccari
+    location: "Brazil"
+    followers: 696731
+    engagement: 977
+    commentsToLikes: 0.089197
+    id: ck14gl4gz5r7d0i19ckwgyh9l
+    verified: true
+    hashtags: "#grupozanon, #riachuelovivaamusicaemcasa, #pietra3aninhos, #essaprincesaadisneyn"
   - username: "tai.antunes"
     fullname: >-
       TAI ANTUNES
     location: "Brazil"
-    followers: 18564
-    engagement: 978
-    commentsToLikes: 0.082832
+    followers: 19425
+    engagement: 932
+    commentsToLikes: 0.084472
     id: ck0w2g0uro6ad0i19hjjvnkv1
     verified: false
-    hashtags: "#calcajogger, #filmes, #posthaus, #lookposthaus"
-  - username: "manzonca"
+    hashtags: "#esmaltesecores, #modaplussizebr, #carnaval2020, #fatfashion"
+  - username: "yasminlsilva"
     fullname: >-
-      Amanda Kassardjian
+      YASMIN SILVA
     location: "Brazil"
-    followers: 19496
-    engagement: 1113
-    commentsToLikes: 0.190543
-    id: ck0vziqdp9b150i199i07t5he
+    followers: 55529
+    engagement: 701
+    commentsToLikes: 0.254202
+    id: ck6u8dc5sqwsj0j714efl18hg
     verified: false
-    hashtags: "#sobrancelhas, #umf, #tbt, #sotrackbloco"
-  - username: "mariscarsi"
-    fullname: >-
-      MARINA SCARSI ✨
-    location: "Brazil"
-    followers: 3143
-    engagement: 2365
-    commentsToLikes: 0.472273
-    id: ck8t287qtyhzd0j78vjq8lglu
-    verified: false
-    hashtags: ""
-  - username: "todiih"
-    fullname: >-
-      F e l i p e   L o u r e n ç o
-    location: "Brazil"
-    followers: 8971
-    engagement: 1324
-    commentsToLikes: 0.105877
-    id: ck6uguwvz5b8e0j71u6d8okb2
-    verified: false
-    hashtags: "#tbt, #forabolsonaro, #forabozo, #emcasa"
-  - username: "lilianefariass_"
-    fullname: >-
-      Liliane Farias ✨
-    location: "Brazil"
-    followers: 22244
-    engagement: 842
-    commentsToLikes: 0.193493
-    id: ck14gny8y664q0i196hve8svl
-    verified: false
-    hashtags: "#tbt, #emcasa, #whiteparty"
-  - username: "menezesjhonatas"
-    fullname: >-
-      Jhonatas Menezes
-    location: "Brazil"
-    followers: 81374
-    engagement: 698
-    commentsToLikes: 0.610825
-    id: ck137cfznaum90i19nc1i95b6
-    verified: false
-    hashtags: "#sorteiorolando, #proximosorteio, #tbt, #homemfashion"
+    hashtags: "#ficaadica, #tumblrgirl, #thelmacampe, #lovecosmetics"
   - username: "dapariz"
     fullname: >-
       Dainara Pariz
     location: "Brazil"
-    followers: 3251867
-    engagement: 575
-    commentsToLikes: 0.078174
+    followers: 3369950
+    engagement: 659
+    commentsToLikes: 0.250451
     id: ck6u0v78uhx7k0j710h8lsfjp
     verified: true
-    hashtags: ""
+    hashtags: "#sorteio, #sorteios"
+  - username: "marianamachado____"
+    fullname: >-
+      Mariana Machado
+    location: "Brazil"
+    followers: 118785
+    engagement: 647
+    commentsToLikes: 0.322100
+    id: ck0vv7g1fnvnc0i19u58h2uir
+    verified: false
+    hashtags: "#ring, #teatime, #cutephotography, #sunset"
+  - username: "ninabackes_"
+    fullname: >-
+      NINA
+    location: "Brazil"
+    followers: 6874
+    engagement: 1537
+    commentsToLikes: 0.629638
+    id: ck9wopaxn610v0j78oibu9671
+    verified: false
+    hashtags: "#maquiadoro, #visual, #allstar, #quarentine"
+  - username: "maabelcosta"
+    fullname: >-
+      MABEL COSTA 💕
+    location: "Brazil"
+    followers: 43278
+    engagement: 964
+    commentsToLikes: 2.405081
+    id: ckaould2t0rr60i788x52fipz
+    verified: false
+    hashtags: "#muscletee, #treinoemcasa, #movimentese, #vemparticipar"
 ---

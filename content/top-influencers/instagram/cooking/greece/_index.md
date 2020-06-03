@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Greece In 2020
 description: >-
-  Find top cooking Instagram influencers in Greece in 2020. Most popular hashtags: #menoumespiti #cooking #greece #stayhome.
+  Find top cooking Instagram influencers in Greece in 2020. Most popular hashtags: #summer #cooking #quarantine #saturday.
 platform: Instagram
 profiles:
+  - username: "argiris_aggelou_official"
+    fullname: >-
+      Argiris Aggelou Official
+    location: "Greece"
+    followers: 99079
+    engagement: 662
+    commentsToLikes: 0.008017
+    id: ck15sovvhe2ze0i193batt4h6
+    verified: false
+    hashtags: "#icantwait, #soon, #happyface, #pastryporn"
   - username: "alexis_panagiotis"
     fullname: >-
       Alexis Panagiotis 🇬🇷
     location: "Greece"
-    followers: 6355
-    engagement: 751
-    commentsToLikes: 0.020771
+    followers: 6319
+    engagement: 722
+    commentsToLikes: 0.020764
     id: ck13a81msp32p0i19kparu4gv
     verified: false
-    hashtags: "#tbt, #quarantinelife"
-  - username: "alsi_sinanaj"
+    hashtags: "#quarantinelife, #tbt"
+  - username: "chefkostasmagoulas"
+    fullname: >-
+      Kostas Magoulas
+    location: "Greece"
+    followers: 26472
+    engagement: 94
+    commentsToLikes: 0.155752
+    id: ck55mb87e3l4l0i1111cxengz
+    verified: false
+    hashtags: ""
+  - username: "alsisinanaj"
     fullname: >-
       Alsi Sinanaj
     location: "Greece"
-    followers: 27326
-    engagement: 460
-    commentsToLikes: 0.015712
+    followers: 26676
+    engagement: 494
+    commentsToLikes: 0.020412
     id: ck6uelf2armi10j715roaoxrm
     verified: false
-    hashtags: "#street, #love, #foodlover, #youtubechannel"
+    hashtags: "#roots, #slowcooking, #stayhealthy, #streetfood"
   - username: "fofo_ntemiri"
     fullname: >-
       Fotini Ntemiri
     location: "Greece"
-    followers: 14154
-    engagement: 674
-    commentsToLikes: 0.012469
+    followers: 14424
+    engagement: 695
+    commentsToLikes: 0.013848
     id: ck5pzbt6j07d70i113kyyi72i
     verified: false
-    hashtags: "#actor, #to, #coronov, #ant1tv"
-  - username: "christianaari"
+    hashtags: "#comment, #kolokotronitsi, #bigbossmikie, #giwrgosgallos"
+  - username: "terzidoudespoina_dietitian"
     fullname: >-
-      Christiana
+      Δέσποινα Τερζίδου
     location: "Greece"
-    followers: 93987
-    engagement: 659
-    commentsToLikes: 0.014465
-    id: ck5hjtc58h7sp0i11bithce8z
+    followers: 7693
+    engagement: 855
+    commentsToLikes: 0.017544
+    id: ckaoxm55ydub50i78odtcuxly
     verified: false
-    hashtags: "#show, #cheesepie, #beaute, #hat"
-  - username: "vicky_ath"
+    hashtags: "#healthybreakfast, #honey, #youareunique, #summer"
+  - username: "nancyzabetoglou"
     fullname: >-
-      Vicky • Micropreemie mom
+      nancyzabetoglou
     location: "Greece"
-    followers: 6324
-    engagement: 702
-    commentsToLikes: 0.219793
-    id: ck5znqawuoymt0i14b1hu1cw7
+    followers: 47167
+    engagement: 725
+    commentsToLikes: 0.065741
+    id: ck13a8aoqp4ef0i19vqyp4kjs
     verified: false
-    hashtags: "#flatlaytoday, #pixel, #onthetableproject, #montessorikids"
-  - username: "iankateris"
-    fullname: >-
-      Ian Kateris
-    location: "Greece"
-    followers: 19833
-    engagement: 861
-    commentsToLikes: 0.037813
-    id: ck0ucvwrnhvf10i19indzce04
-    verified: false
-    hashtags: "#birthday, #myproteinuk, #patrinokarnavali, #quarantine"
-  - username: "missbloublou_"
-    fullname: >-
-      🔹Alexia Zaradouka🔺Beauty Coach
-    location: "Greece"
-    followers: 35037
-    engagement: 325
-    commentsToLikes: 0.413224
-    id: ck0twck3jew3t0i19hp4vee2e
-    verified: false
-    hashtags: "#huawei, #lifestyle, #missbloublou, #poems"
+    hashtags: "#athens, #athensbynight, #may9, #mybaby"
   - username: "ftbletsas"
     fullname: >-
       Ευτύχης Μπλέτσας
     location: "Greece"
-    followers: 153202
-    engagement: 579
-    commentsToLikes: 0.010977
+    followers: 165045
+    engagement: 744
+    commentsToLikes: 0.021426
     id: ck5zmitrfmnga0i14wittnlwk
     verified: true
-    hashtags: "#greece, #thermopyles, #etk, #travelvlog"
+    hashtags: "#womansday, #kouzinatiskarantinas, #kouzina, #travelfromhome"
   - username: "fotinipetrogianni"
     fullname: >-
       Fotini Petrogiànni
     location: "Greece"
-    followers: 49604
-    engagement: 546
-    commentsToLikes: 0.013596
+    followers: 51508
+    engagement: 564
+    commentsToLikes: 0.045403
     id: ck5pveu2thj970i11evew32nb
     verified: false
-    hashtags: "#memories, #xrisizimi, #goodnight, #athens"
-  - username: "christosglossidis"
+    hashtags: "#memories, #hydration, #life, #summer2019"
+  - username: "official_mariospriamos"
     fullname: >-
-      Χρηστος Γλωσσιδης
+      Marios  Priamos
     location: "Greece"
-    followers: 28871
-    engagement: 789
-    commentsToLikes: 0.004208
-    id: ck13cg2lp05wk0i19xnqb7vaq
-    verified: false
-    hashtags: "#almost, #hotellife, #seeyousoon, #chilling"
+    followers: 172680
+    engagement: 287
+    commentsToLikes: 0.060467
+    id: ck5zmdv5ume2m0i14oi5nqogx
+    verified: true
+    hashtags: "#photooftheday, #travel, #shooting, #myepic"
 ---

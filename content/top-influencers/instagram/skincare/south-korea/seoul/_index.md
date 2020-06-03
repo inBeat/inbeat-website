@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Seoul In 2020
 description: >-
-  Find top skincare Instagram influencers in Seoul in 2020. Most popular hashtags: #ad #skincare #jeju #lifestyle.
+  Find top skincare Instagram influencers in Seoul in 2020. Most popular hashtags: #skincare #kbeauty #ad #giveaway.
 platform: Instagram
 profiles:
   - username: "ascia"
     fullname: >-
       Ascia • آسيا
     location: "South Korea"
-    followers: 2716832
-    engagement: 116
-    commentsToLikes: 0.011630
+    followers: 2713620
+    engagement: 129
+    commentsToLikes: 0.011855
     id: ck0u6lb5j29c00i19e2bsbsa0
     verified: true
-    hashtags: "#scandal, #osn, #nonstopentertainment, #ad"
-  - username: "sy__nini"
+    hashtags: "#openup, #nonstopentertainment, #momscan, #quarantine"
+  - username: "lapaisible_ss"
     fullname: >-
-      ⛰
+      라파지블 플로리스트 자매 Florist sisters
     location: "South Korea"
-    followers: 11811
-    engagement: 1360
-    commentsToLikes: 0.032446
-    id: ck5zybxfi9loq0i143ylg115r
+    followers: 27266
+    engagement: 253
+    commentsToLikes: 0.016652
+    id: ck14grffa6ndm0i190n7yseu8
     verified: false
-    hashtags: "#jeju, #lifestyle, #bodyscrub, #100"
-  - username: "beautybemused"
+    hashtags: "#repost, #10, #fresh, #musical"
+  - username: "shawn_issure"
     fullname: >-
-      Lisa
+      
     location: "South Korea"
-    followers: 14658
-    engagement: 176
-    commentsToLikes: 0.113223
-    id: ck13585fk06eb0i19vvfs36x5
+    followers: 42982
+    engagement: 512
+    commentsToLikes: 0.042376
+    id: ck0w30nxbr1du0i19btqzux0p
     verified: false
-    hashtags: "#morningroutine, #glowingskin, #ontheblog, #lazysundaymorning"
-  - username: "ri__ta__"
+    hashtags: "#koreabeauty, #mensmakeup, #insta, #time2mini"
+  - username: "so_beauty0501"
     fullname: >-
-      리타
+      진율♥️
     location: "South Korea"
-    followers: 60708
-    engagement: 155
-    commentsToLikes: 0.007425
-    id: ck135fyz8188c0i19six0fhww
+    followers: 45001
+    engagement: 74
+    commentsToLikes: 0.035081
+    id: ck136f9ld67h60i19ugb5dz8x
     verified: false
-    hashtags: "#macpowderkissliquidlipcolour, #ad, #selfie, #br10"
+    hashtags: "#ootdfashion, #bobbibrownlipstick, #pinkpinkpink, #20"
   - username: "byjeannine"
     fullname: >-
       JEANNINE
     location: "South Korea"
-    followers: 467466
-    engagement: 478
-    commentsToLikes: 0.034932
+    followers: 484677
+    engagement: 609
+    commentsToLikes: 0.033975
     id: ck135e2am0ypn0i19495uu3c4
     verified: false
-    hashtags: "#23, #clown, #flatlayinspo, #makeupflatlay"
+    hashtags: "#skincaregiveaway, #dontrushchallenge, #xmasgiveaway, #makeupgiveaways"
+  - username: "koreanboywoogie"
+    fullname: >-
+      Woogie 🇰🇷🇬🇧
+    location: "South Korea"
+    followers: 12631
+    engagement: 467
+    commentsToLikes: 0.033836
+    id: ck5hkmtokipn30i11hn6b414f
+    verified: false
+    hashtags: "#kbeauty, #supermlondon, #londonexo, #yourcity"
   - username: "teoyang"
     fullname: >-
       Teo Yang 양태오
     location: "South Korea"
-    followers: 68662
-    engagement: 165
-    commentsToLikes: 0.018462
+    followers: 70475
+    engagement: 168
+    commentsToLikes: 0.021315
     id: ck5zwlc7j6brv0i145d16j0s3
     verified: false
-    hashtags: "#degournay, #sponsoredby, #mmca, #morningspa"
+    hashtags: "#cutnessoverload, #happiness, #puppylove, #danielboyd"
   - username: "ascia"
     fullname: >-
       Ascia • آسيا
     location: "South Korea"
-    followers: 2716832
-    engagement: 116
-    commentsToLikes: 0.011630
+    followers: 2713620
+    engagement: 129
+    commentsToLikes: 0.011855
     id: ck0u6lb5j29c00i19e2bsbsa0
     verified: true
-    hashtags: "#scandal, #osn, #nonstopentertainment, #ad"
-  - username: "sy__nini"
-    fullname: >-
-      ⛰
-    location: "South Korea"
-    followers: 11811
-    engagement: 1360
-    commentsToLikes: 0.032446
-    id: ck5zybxfi9loq0i143ylg115r
-    verified: false
-    hashtags: "#jeju, #lifestyle, #bodyscrub, #100"
+    hashtags: "#openup, #nonstopentertainment, #momscan, #quarantine"
   - username: "kjin_717"
     fullname: >-
       Kwang Jin
     location: "South Korea"
-    followers: 25785
-    engagement: 1097
-    commentsToLikes: 0.027316
+    followers: 25873
+    engagement: 1114
+    commentsToLikes: 0.027042
     id: ck0w2jcbqonqf0i19vm1d7lb2
     verified: false
-    hashtags: "#holiday, #fotoconmijefe, #elpialaderodeguadalajara, #trickeye"
+    hashtags: "#oldfacechallenge, #yoalos80, #26, #antara"
   - username: "byjeannine"
     fullname: >-
       JEANNINE
     location: "South Korea"
-    followers: 467466
-    engagement: 478
-    commentsToLikes: 0.034932
+    followers: 484677
+    engagement: 609
+    commentsToLikes: 0.033975
     id: ck135e2am0ypn0i19495uu3c4
     verified: false
-    hashtags: "#23, #clown, #flatlayinspo, #makeupflatlay"
+    hashtags: "#skincaregiveaway, #dontrushchallenge, #xmasgiveaway, #makeupgiveaways"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Houston In 2020
 description: >-
-  Find top photographers Instagram influencers in Houston in 2020. Most popular hashtags: #houston #photography #love #photographer.
+  Find top photographers Instagram influencers in Houston in 2020. Most popular hashtags: # #spring #photographer #isitfridayyet.
 platform: Instagram
 profiles:
   - username: "infphy_"
     fullname: >-
       Houston🌹
     location: "United States"
-    followers: 9059
-    engagement: 534
-    commentsToLikes: 0.065362
+    followers: 9126
+    engagement: 450
+    commentsToLikes: 0.059491
     id: ck6tnhwjz9vhs0j71lw7hjdn6
     verified: false
     hashtags: ""
-  - username: "jarrellelee"
-    fullname: >-
-      King of Quality
-    location: "United States"
-    followers: 32153
-    engagement: 110
-    commentsToLikes: 0.118735
-    id: ck0u00b4us8yq0i194b7k2616
-    verified: false
-    hashtags: "#skindeep, #makeuppalettes, #jarrellelee, #freckledmodel"
   - username: "christianpena.photos"
     fullname: >-
       HOUSTON PHOTOGRAPHER
     location: "United States"
-    followers: 44868
-    engagement: 215
-    commentsToLikes: 0.076260
+    followers: 46215
+    engagement: 244
+    commentsToLikes: 0.031949
     id: ck0vy66z82f3z0i19tx5dm3iw
     verified: false
-    hashtags: "#portraitphotographer, #austintexas, #igportrait, #earth"
-  - username: "jorgey"
+    hashtags: ""
+  - username: "thefitlook"
     fullname: >-
-      Jorgey
+      
     location: "United States"
-    followers: 22624
-    engagement: 283
-    commentsToLikes: 0.075447
-    id: ck6tvzap4p4ba0j71q0bb4fyj
+    followers: 129233
+    engagement: 155
+    commentsToLikes: 0.015560
+    id: ck5hdsor1p6c30i11pywweig1
     verified: false
-    hashtags: "#nationalirishcoffeeday, #paidinfull, #htowncounts, #fromthesouth"
-  - username: "joeytphoto"
+    hashtags: ""
+  - username: "the_o_gm"
     fullname: >-
-      Joey T Photography
+      Theo Moore Photography
     location: "United States"
-    followers: 5641
-    engagement: 709
-    commentsToLikes: 0.061285
-    id: ck5zj4bn4gx5j0i14lfb5n5al
+    followers: 2212
+    engagement: 1542
+    commentsToLikes: 0.076801
+    id: ckaoufdpd01a90i78xd0b2nzc
     verified: false
-    hashtags: "#mua, #mlweddingshouston, #bridal, #weddingphotographer"
-  - username: "aricaamariaa"
+    hashtags: "#abandon"
+  - username: "snapshotsandmythoughts"
     fullname: >-
-      A R I C A
+      Ailee Semple Petrovic
     location: "United States"
-    followers: 6600
-    engagement: 916
-    commentsToLikes: 0.031277
-    id: ck6uh4kmb6ymk0j71nbooan2v
+    followers: 44116
+    engagement: 188
+    commentsToLikes: 0.038753
+    id: ck6tzbiew8qbg0j71mbbiflcb
     verified: false
-    hashtags: "#veteran, #barbados, #belize, #montserrat"
-  - username: "samuelsolisvideo"
+    hashtags: "#makeitfashion, #liketoknowithome, #gotexanday, #letthembelittle"
+  - username: "acausi"
     fullname: >-
-      SAMUEL SOLIS JR
+      Anthony Causi
     location: "United States"
-    followers: 15635
-    engagement: 235
-    commentsToLikes: 0.104024
-    id: ck14kqvxhqv2t0i19m8e0kz46
+    followers: 21317
+    engagement: 1049
+    commentsToLikes: 0.028610
+    id: ck5qcqwt8rwo00i11jqj2kaoa
     verified: false
-    hashtags: "#video, #fitnessedit, #vlogs, #videographer"
-  - username: "topdrawerboudoir"
+    hashtags: "#worldseries, #knicks, #davidwright, #sanfrancisco"
+  - username: "bethanytakesphotosss"
     fullname: >-
-      Jamie
+      Houston Photographer
     location: "United States"
-    followers: 14799
-    engagement: 260
-    commentsToLikes: 0.017467
-    id: ck5c7gx877imk0i116to8ewck
+    followers: 2391
+    engagement: 1172
+    commentsToLikes: 0.126925
+    id: ckaor0mdcl7fa0i78k7v8wncs
     verified: false
-    hashtags: "#lover, #beach, #topdrawerboudoir, #boudoir"
+    hashtags: "#dabrewzas, #brienneofarf, #cirquedebrewza, #smallbusinesssaturday"
+  - username: "banavenuephotog"
+    fullname: >-
+      YASH I Houston Photographer
+    location: "United States"
+    followers: 49137
+    engagement: 76
+    commentsToLikes: 0.079316
+    id: ck0vycwc83cv70i19dprdcwey
+    verified: false
+    hashtags: "#princesstayler, #happybirthday, #tbt, #photoshoot"
+  - username: "angelgarcia1.0"
+    fullname: >-
+      Houston Photographer
+    location: "United States"
+    followers: 8963
+    engagement: 422
+    commentsToLikes: 0.045588
+    id: ck6ude4e1kkju0j71cokg2iru
+    verified: false
+    hashtags: "#nudemakeup, #beautyshooting, #earthportraits, #implied"
   - username: "steviedphotos"
     fullname: >-
       Stevie D.
     location: "United States"
-    followers: 29806
-    engagement: 159
-    commentsToLikes: 0.030984
+    followers: 29479
+    engagement: 129
+    commentsToLikes: 0.034395
     id: ck0u23fnsyto70i198c716u41
     verified: false
-    hashtags: "#profoto, #houston, #creatives, #commercial"
-  - username: "alex.de.haan"
-    fullname: >-
-      Alex Bierens de Haan
-    location: "United States"
-    followers: 12153
-    engagement: 578
-    commentsToLikes: 0.008396
-    id: ck0u6mz4e2h3c0i19j4y6m1t2
-    verified: false
-    hashtags: "#springtraining, #houston, #houstonastros, #westbrook"
+    hashtags: "#savagebackdrop, #hardlight"
 ---

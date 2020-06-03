@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Turkey In 2020
 description: >-
-  Find top yoga Instagram influencers in Turkey in 2020. Most popular hashtags: #yoga #tbt #blackandwhite #life.
+  Find top yoga Instagram influencers in Turkey in 2020. Most popular hashtags: #hanumanasana #yogaeverywhere #hanuman #nike.
 platform: Instagram
 profiles:
+  - username: "handekaptan"
+    fullname: >-
+      hande kaptan
+    location: "Turkey"
+    followers: 61563
+    engagement: 340
+    commentsToLikes: 0.104345
+    id: ck5cgc922ojtk0i117ld62s85
+    verified: true
+    hashtags: "#kediler, #istanbul, #handekaptan, #gaziantep"
+  - username: "healthyfoodbreak"
+    fullname: >-
+      SEZİN GÜLERYÜZ
+    location: "Turkey"
+    followers: 95055
+    engagement: 218
+    commentsToLikes: 0.051421
+    id: ck5c9w3rkc8is0i11takmv18e
+    verified: false
+    hashtags: "#sa"
+  - username: "gulcinergul"
+    fullname: >-
+      Gülçin Ergül 🇹🇷
+    location: "Turkey"
+    followers: 146065
+    engagement: 290
+    commentsToLikes: 0.033192
+    id: ck5c9w8zfc8tt0i1172i623s7
+    verified: true
+    hashtags: "#yeni, #yak, #her, #socialdistancing"
+  - username: "cetincetintas"
+    fullname: >-
+      Cetin Cetintas | Yoga
+    location: "Turkey"
+    followers: 276591
+    engagement: 172
+    commentsToLikes: 0.055346
+    id: ck0u6qx1l2ncd0i19hp9sphks
+    verified: false
+    hashtags: "#youtubeyoga, #yoga, #withme, #yogakioo"
   - username: "sirinkilavuzsevinc"
     fullname: >-
       Şirin Kılavuz Sevinç
     location: "Turkey"
-    followers: 27718
-    engagement: 695
-    commentsToLikes: 0.019687
+    followers: 28038
+    engagement: 670
+    commentsToLikes: 0.019496
     id: ck0w1g76jj6p90i19v57rvrq0
     verified: false
-    hashtags: "#fark, #kedilera, #2020, #elelesnowyogaweekend"
-  - username: "gulcinergul"
+    hashtags: "#kedilera, #ekim, #ipekdargailesnowyoga, #treepose"
+  - username: "yoganikoo"
     fullname: >-
-      Gülçin Ergül 🇹🇷
+      Nihan Yönel
     location: "Turkey"
-    followers: 119741
-    engagement: 312
-    commentsToLikes: 0.026996
-    id: ck5c9w8zfc8tt0i1172i623s7
-    verified: true
-    hashtags: "#2yearsago, #lizzo, #stayhome, #dancerpose"
+    followers: 2019
+    engagement: 3282
+    commentsToLikes: 0.020598
+    id: ckapc3ywb2ddl0i780qh9katr
+    verified: false
+    hashtags: "#nike, #powergirl, #yogapants, #quarantine"
   - username: "chrischavezyoga"
     fullname: >-
       Chris Chavez
     location: "Turkey"
-    followers: 18392
-    engagement: 358
-    commentsToLikes: 0.035448
+    followers: 18973
+    engagement: 374
+    commentsToLikes: 0.038567
     id: ck14hs24fbucv0i1936c7z32v
     verified: false
-    hashtags: "#teamwork, #happynewyear2020, #loveyou, #evdehareket"
+    hashtags: "#trust, #positivevibes, #onearmhandstand, #yogapose"
+  - username: "pelindindar"
+    fullname: >-
+      Pelin Dindar
+    location: "Turkey"
+    followers: 27989
+    engagement: 291
+    commentsToLikes: 0.030706
+    id: ck8t593ls98iy0j78ywz7kzcj
+    verified: false
+    hashtags: "#handstandscorpion, #yogaeverywhere, #blissful, #yogalove"
   - username: "tugceinam"
     fullname: >-
       Tuğçe İnam Zırtıloğlu
     location: "Turkey"
-    followers: 14848
+    followers: 15652
     engagement: 607
-    commentsToLikes: 0.055480
+    commentsToLikes: 0.060159
     id: ck135h0bs1dfb0i1961jxkwc4
     verified: false
-    hashtags: "#huzursuzlu, #livrododesassossego, #fernandopessoa, #yoga"
-  - username: "tunaapari"
+    hashtags: "#hanumanasana, #yoga, #alexwebb, #magnumphotos"
+  - username: "nuray_uzunbayir"
     fullname: >-
-      Tuna Yüksel
+      Nuray Uzunbayir
     location: "Turkey"
-    followers: 89531
-    engagement: 542
-    commentsToLikes: 0.033568
-    id: ck6tu5311ecnw0j71qcz84e5i
+    followers: 13796
+    engagement: 529
+    commentsToLikes: 0.034062
+    id: ckaoxx96of5c90i78jy8yut6h
     verified: false
-    hashtags: "#beautifulnature, #lifequotes, #fold, #backbending"
-  - username: "ebru_kcr"
-    fullname: >-
-      Ebru Kaçar Photography
-    location: "Turkey"
-    followers: 3640
-    engagement: 2033
-    commentsToLikes: 0.121480
-    id: ck6u706d6iplg0j71m18fkds2
-    verified: false
-    hashtags: "#streetizm, #silhouette, #arelkalender, #lightstain"
-  - username: "arrianneaukes"
-    fullname: >-
-      Arrianne Aukes
-    location: "Turkey"
-    followers: 18370
-    engagement: 273
-    commentsToLikes: 0.013343
-    id: ck5ziubuhge7o0i146caybjyi
-    verified: false
-    hashtags: "#tbt, #psychology, #openminded, #inspiring"
-  - username: "farzam_feyzaghaei"
-    fullname: >-
-      Farzam    فرزام
-    location: "Turkey"
-    followers: 18088
-    engagement: 225
-    commentsToLikes: 0.036532
-    id: ck6tyqh7z59e60j71cw000n9r
-    verified: false
-    hashtags: "#fashionnova, #fashionista, #cowboy, #fashionlover"
-  - username: "gizem.kerimoglu"
-    fullname: >-
-      Kerimoglu Gizem
-    location: "Turkey"
-    followers: 178819
-    engagement: 205
-    commentsToLikes: 0.005523
-    id: ck5c2nt8qxmdj0i11zozcbgpy
-    verified: true
-    hashtags: "#becomingbudokon, #yoga, #budokonminds, #yogapath"
-  - username: "sporcu_anne"
-    fullname: >-
-      Meral Öztürk
-    location: "Turkey"
-    followers: 289345
-    engagement: 151
-    commentsToLikes: 0.044674
-    id: ck8t90vrkmjol0j786du0zmuu
-    verified: false
-    hashtags: "#sweatathomechallenge, #hayateves, #sa, #formtut"
+    hashtags: "#herbal9y, #19may, #esenxc4, #mdemiralpp"
 ---

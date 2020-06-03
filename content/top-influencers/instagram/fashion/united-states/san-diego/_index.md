@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In San Diego In 2020
 description: >-
-  Find top fashion Instagram influencers in San Diego in 2020. Most popular hashtags: #ootd #sandiego #losangeles #socal.
+  Find top fashion Instagram influencers in San Diego in 2020. Most popular hashtags: #fashion #sandiego #style #styleinspo.
 platform: Instagram
 profiles:
-  - username: "marandalunaa"
+  - username: "diego_djdgaf"
     fullname: >-
-      Maranda Moon
+      Diego Elizarraras  ✪
     location: "United States"
-    followers: 16821
-    engagement: 893
-    commentsToLikes: 0.031413
-    id: ck5zkz9s3kfny0i14dv8rksjo
+    followers: 148082
+    engagement: 115
+    commentsToLikes: 0.054477
+    id: ck6tp1jkyhbfg0j71af8ewr3i
     verified: false
-    hashtags: "#portrait, #muse, #unicornhair, #myprotein"
-  - username: "polsantos"
+    hashtags: "#tayway, #evento, #quarantine, #sharpfade"
+  - username: "lilla.keresztely"
     fullname: >-
-      Pol Santos Photographer 📸
+      L I L L A
     location: "United States"
-    followers: 2251
-    engagement: 1231
-    commentsToLikes: 0.059747
-    id: ck5q88qpz4zin0i11xcp89v14
+    followers: 84276
+    engagement: 164
+    commentsToLikes: 0.180472
+    id: ck136slzr82bl0i19djuypf95
     verified: false
-    hashtags: "#hike, #sandiegomusic, #puuohulu, #elevation"
-  - username: "whytrbbt"
+    hashtags: "#trendyoutfits, #fashionfreak, #spikelouboutin, #greeneyes"
+  - username: "erica_shawty"
     fullname: >-
-      WHYT RBBT
+      erica shutty
     location: "United States"
-    followers: 19809
-    engagement: 391
-    commentsToLikes: 0.089724
-    id: ck0w3rtmvuy720i1919184ywq
+    followers: 10743
+    engagement: 773
+    commentsToLikes: 0.128362
+    id: ck9hc8fb1k89h0j78pvrujhbh
     verified: false
-    hashtags: "#womensempowerment, #independentartists, #darkfashion, #sacredfeminine"
-  - username: "sandiego.city"
-    fullname: >-
-      Official San Diego Page
-    location: "United States"
-    followers: 133316
-    engagement: 215
-    commentsToLikes: 0.017232
-    id: ck5pvukg1jpio0i11o1rgzzx5
-    verified: false
-    hashtags: "#seniorportraits, #oceanside, #carlsbad, #artofvisuals"
+    hashtags: "#ad, #thisiskirei, #mykireimoments"
   - username: "jasmin_soroush"
     fullname: >-
       Jasmin Soroush
     location: "United States"
-    followers: 22003
-    engagement: 176
-    commentsToLikes: 0.079108
+    followers: 21474
+    engagement: 150
+    commentsToLikes: 0.091621
     id: ck0w0n60kf1wk0i198t4hkf2h
     verified: false
-    hashtags: "#meandotherstories, #revolveme, #liketkit, #vicidolls"
-  - username: "officialmattkirk"
+    hashtags: "#crateandbarrel, #theouai, #haircare, #napavalley"
+  - username: "aarondellavedova_art"
     fullname: >-
-      M A T T
+      Aaron Della Vedova
     location: "United States"
-    followers: 7481
-    engagement: 576
-    commentsToLikes: 0.087220
-    id: ck8t5hg91a6740j781ss379oz
+    followers: 53400
+    engagement: 155
+    commentsToLikes: 0.021980
+    id: ck55k5m1tyiqn0i11biq60cb2
     verified: false
-    hashtags: "#viralvideo, #smile, #weekend, #sunmertime"
-  - username: "slimshayedy"
+    hashtags: "#unicornpig, #tattoomodel, #phoenix, #sketch"
+  - username: "jazzyylovee"
     fullname: >-
-      Shaye Babb
+      Jazmine De La Torre
     location: "United States"
-    followers: 15921
-    engagement: 528
-    commentsToLikes: 0.053020
-    id: ck0u9burd9iyu0i19wogbwlxa
+    followers: 2515
+    engagement: 710
+    commentsToLikes: 0.134982
+    id: ck14hviw6cc340i19ksxuay40
     verified: false
-    hashtags: ""
+    hashtags: "#dior, #staypositive, #pinkinspo, #weekendmood"
+  - username: "kotineru"
+    fullname: >-
+      A Darling Dream Kayla Smith
+    location: "United States"
+    followers: 46623
+    engagement: 195
+    commentsToLikes: 0.083355
+    id: ck8t456045jlr0j78rlejdhe7
+    verified: false
+    hashtags: "#aeriereal, #forever21, #amazonfashion, #ltkmothersday"
   - username: "thestylishbisou"
     fullname: >-
       THE STYLISH BISOU
     location: "United States"
-    followers: 31772
-    engagement: 147
-    commentsToLikes: 0.051921
+    followers: 31719
+    engagement: 149
+    commentsToLikes: 0.057962
     id: ck6u5lv72adrd0j71so3rmgme
     verified: false
-    hashtags: "#sheletme, #pugprom, #alwayshungry, #selfcare"
-  - username: "kotineru"
+    hashtags: "#supportsmallbusiness, #quarantinelife, #sistersquad, #happyeaster"
+  - username: "cherish_alexis"
     fullname: >-
-      A Darling Dream Kayla Otineru
+      Cherish Alexis
     location: "United States"
-    followers: 40685
-    engagement: 167
-    commentsToLikes: 0.074999
-    id: ck8t456045jlr0j78rlejdhe7
+    followers: 5924
+    engagement: 2042
+    commentsToLikes: 0.055782
+    id: ck5ztrwh6109l0i14gzj2k69s
     verified: false
-    hashtags: "#comfystyle, #ootd, #ltkshoecrush, #socialdistancing"
-  - username: "simplytandya"
+    hashtags: "#traveldreamseeker, #blogger, #bloggerlife, #zara"
+  - username: "ken.is.in"
     fullname: >-
-      Tandya
+      Ken X Y
     location: "United States"
-    followers: 80440
-    engagement: 159
-    commentsToLikes: 0.030625
-    id: ck5c84rso8rqb0i11s255ood2
+    followers: 36161
+    engagement: 911
+    commentsToLikes: 0.016998
+    id: ck55kwsg509uc0i11kxih1590
     verified: false
-    hashtags: "#nudelife, #theparisguru, #youtuber, #ss20"
+    hashtags: "#outfit, #coyotejocks, #meninkilts, #homestudio"
 ---

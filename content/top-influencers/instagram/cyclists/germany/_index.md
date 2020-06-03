@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Germany In 2020
 description: >-
-  Find top cyclists Instagram influencers in Germany in 2020. Most popular hashtags: #trackcycling #cycling #asics #boracookingsystems.
+  Find top cyclists Instagram influencers in Germany in 2020. Most popular hashtags: #stayhome #cyclingshots #bikelife #cycling.
 platform: Instagram
 profiles:
+  - username: "justcapturethelife"
+    fullname: >-
+      Franz Hüttner
+    location: "Germany"
+    followers: 6646
+    engagement: 1418
+    commentsToLikes: 0.034779
+    id: ck14lk6jzv3pa0i19fzc66vao
+    verified: false
+    hashtags: "#2wie3, #amberg, #moodygrams, #winterliebe"
   - username: "clippedinandfree"
     fullname: >-
       Alina Jäger
     location: "Germany"
-    followers: 70973
-    engagement: 470
-    commentsToLikes: 0.024879
+    followers: 73263
+    engagement: 573
+    commentsToLikes: 0.021088
     id: ck5zs18lrxmqn0i148cz2x1v8
     verified: false
-    hashtags: "#giveway, #internationalwomensday, #earneditcauseiburnedit"
-  - username: "elodiekuijper"
+    hashtags: "#flattenthecurve, #pancakesunday, #throwback, #goldilocksrule"
+  - username: "_pascal_ackermann_"
     fullname: >-
-      𝐄𝐥𝐨𝐝𝐢𝐞.
+      Pascal Ackermann 🇩🇪
     location: "Germany"
-    followers: 63874
-    engagement: 951
-    commentsToLikes: 0.009859
-    id: ck1398t92k3dc0i194edjqtxh
+    followers: 55220
+    engagement: 907
+    commentsToLikes: 0.007016
+    id: ck0tvgfhlb8px0i192fmv1bdf
     verified: true
-    hashtags: "#supportyourlocalbusiness, #safetyfirst, #strakinmijntrainingspak, #morenewscoming"
+    hashtags: "#radklassikerdaheim, #stagewin, #rainorshine, #covid"
+  - username: "geradeaus.at"
+    fullname: >-
+      geradeaus - cycling blog
+    location: "Germany"
+    followers: 6041
+    engagement: 869
+    commentsToLikes: 0.033105
+    id: ck8t06a2nqxos0j7862z2l6x4
+    verified: false
+    hashtags: "#zwiftsetup, #schauaufdich, #indoorparty, #ridetogether"
   - username: "_michael.schwarzmann_"
     fullname: >-
       Michael Schwarzmann
     location: "Germany"
-    followers: 6725
-    engagement: 1418
-    commentsToLikes: 0.007326
+    followers: 6713
+    engagement: 1431
+    commentsToLikes: 0.007272
     id: ck5qa7uacezzg0i11vnw7ah0h
     verified: false
-    hashtags: "#liveit, #rideshimano, #australia, #bandofbrothers"
-  - username: "kelsey.mitchell9"
+    hashtags: "#australia, #italy, #adelaide, #giro"
+  - username: "mgconfa"
     fullname: >-
-      Kelsey Mitchell
+      MARIA GIULIA CONFALONIERI
     location: "Germany"
-    followers: 3426
-    engagement: 2069
-    commentsToLikes: 0.034477
-    id: ck5hndtdrnm010i11v8eoipby
+    followers: 5186
+    engagement: 1166
+    commentsToLikes: 0.014519
+    id: ck6tynulh4tle0j71o82wvgg6
     verified: false
-    hashtags: "#ucitrackcycling, #canfund, #raceday, #sprint"
-  - username: "mandymarquardt"
-    fullname: >-
-      Mandy Marquardt
-    location: "Germany"
-    followers: 5554
-    engagement: 889
-    commentsToLikes: 0.028743
-    id: ck5cf1ixvm51a0i11ln1sq9ft
-    verified: false
-    hashtags: "#lehighvalley, #thesweatlife, #betalainsunleashed, #changingdiabetes"
-  - username: "ivoliveira1"
-    fullname: >-
-      Ivo Oliveira
-    location: "Germany"
-    followers: 10368
-    engagement: 1217
-    commentsToLikes: 0.007715
-    id: ck8sxocj0i2q30j78dvb0onsv
-    verified: false
-    hashtags: "#worldchampionship, #trackworlds, #timetrial, #uaeteamemirates"
+    hashtags: "#orbeachallenges2020, #partnerincrime, #iorestoacasa, #distantimauniti"
   - username: "martialzi13"
     fullname: >-
       Martina Alzini
     location: "Germany"
-    followers: 14333
-    engagement: 850
-    commentsToLikes: 0.009298
+    followers: 14497
+    engagement: 853
+    commentsToLikes: 0.009457
     id: ck55lpj52242m0i11r80y5rmb
     verified: false
-    hashtags: "#cyclingtrack, #italiateam, #adv, #tuttoandr"
-  - username: "andyastfalck"
+    hashtags: "#tappadopotappa, #brisbane, #worldcup, #teampursuit"
+  - username: "maschamulder"
     fullname: >-
-      Andy Astfalck
+      Mascha Mulder
     location: "Germany"
-    followers: 4293
-    engagement: 1237
-    commentsToLikes: 0.042174
-    id: ck6two3vht4880j71z1qsu48z
+    followers: 6134
+    engagement: 660
+    commentsToLikes: 0.027013
+    id: ckaoyomvjiedc0i782i1vrfyp
     verified: false
-    hashtags: "#gravelgrinding, #cyclingpics, #asicsfrontrunner, #runinspiration"
+    hashtags: "#cyclades, #soonplease, #bikergirl, #friends"
   - username: "emma_hinzee"
     fullname: >-
       Emma Hinze
     location: "Germany"
-    followers: 9138
-    engagement: 1149
-    commentsToLikes: 0.017173
+    followers: 10414
+    engagement: 1123
+    commentsToLikes: 0.016876
     id: ck5bv0xk2ishq0i115a1eepah
     verified: true
-    hashtags: "#hirzlgrippp, #wirbleibenzuhause, #sixdayberlin, #idealofsweden"
+    hashtags: "#hirzlgloves, #ridebmc, #hirzlgrippp, #wirbleibenzuhause"
   - username: "jamesl_w"
     fullname: >-
       James Lowsley-Williams
     location: "Germany"
-    followers: 18033
-    engagement: 850
-    commentsToLikes: 0.014930
+    followers: 20548
+    engagement: 875
+    commentsToLikes: 0.014160
     id: ck134mu0px7j70i19f2ceh0y2
     verified: false
-    hashtags: "#gcninspiration, #gcn, #quarantine, #atacamadesert"
+    hashtags: "#donttrythisathome, #cycling, #getoutstayout, #quarantine"
 ---

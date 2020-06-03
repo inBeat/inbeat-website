@@ -1,107 +1,107 @@
 ---
 title: Top 10 Djs Instagram Influencers In Poland In 2020
 description: >-
-  Find top djs Instagram influencers in Poland in 2020. Most popular hashtags: #dj #polishgirl #party #beautiful.
+  Find top djs Instagram influencers in Poland in 2020. Most popular hashtags: #djset #music #rotterdam #rave.
 platform: Instagram
 profiles:
+  - username: "dj_damnlady"
+    fullname: >-
+      Female DJ 🎧 | Girl Traveler ✈
+    location: "Poland"
+    followers: 7288
+    engagement: 611
+    commentsToLikes: 0.035546
+    id: ck9wour7z6o7p0j785wz7i2vm
+    verified: false
+    hashtags: "#meraki"
   - username: "zieniuphoto"
     fullname: >-
       Tomasz Zienkiewicz 📷 zieniu
     location: "Poland"
-    followers: 25516
-    engagement: 703
-    commentsToLikes: 0.031530
+    followers: 26043
+    engagement: 709
+    commentsToLikes: 0.032143
     id: ck136oorn7ib80i199n7y4sgn
     verified: false
-    hashtags: "#pieknepolki, #blondegirl, #weekendvibes, #blondynka"
-  - username: "ola_ciupa"
-    fullname: >-
-      Dj SLAVIC🎧👱🏻‍♀️🖤🎵
-    location: "Poland"
-    followers: 520205
-    engagement: 828
-    commentsToLikes: 0.006178
-    id: ck0w4e519y4sf0i195diap7u8
-    verified: true
-    hashtags: "#lesswaste, #stayhome, #djslavic, #puntacana"
+    hashtags: "#pieknepolki, #portraiture, #poskadziewczyna, #kobiecasesja"
   - username: "djmaddson"
     fullname: >-
       DJ  M A D D S O N
     location: "Poland"
-    followers: 7489
-    engagement: 1399
-    commentsToLikes: 0.010772
+    followers: 8090
+    engagement: 1492
+    commentsToLikes: 0.011718
     id: ck8t33v3j1r230j785o7pi55k
     verified: false
-    hashtags: "#live, #djanetop, #bvx, #haveaniceday"
-  - username: "gizmusic"
+    hashtags: "#case, #hairstyle, #haveaniceday, #birthday"
+  - username: "gigee6"
     fullname: >-
-      GiZ
+      GIGĒE
     location: "Poland"
-    followers: 2274
-    engagement: 732
-    commentsToLikes: 0.091893
-    id: ck13cdst4zv440i19ls4y12fg
+    followers: 22377
+    engagement: 596
+    commentsToLikes: 0.027622
+    id: ck9weq3h1lere0j78maxnotv6
     verified: false
-    hashtags: "#plant, #femaledjs, #noguests, #soundcloud"
-  - username: "dj.taek"
+    hashtags: "#spotify, #birdtattoo, #stayhealthy, #kewgardens"
+  - username: "melokidsmusic"
     fullname: >-
-      Michał Taek
+      MELO.KIDS
     location: "Poland"
-    followers: 17429
-    engagement: 764
-    commentsToLikes: 0.014107
-    id: ck139uvzxn8e00i19bwgej08j
+    followers: 21623
+    engagement: 441
+    commentsToLikes: 0.107426
+    id: ckap1fl78udyj0i78yr7ywlu1
     verified: false
-    hashtags: "#djtaek, #wedding, #40kaczki, #wife"
-  - username: "malach_mrcrew"
-    fullname: >-
-      Małach MR CREW
-    location: "Poland"
-    followers: 54079
-    engagement: 527
-    commentsToLikes: 0.011290
-    id: ck6uhb909841c0j71npnskg86
-    verified: false
-    hashtags: "#malach, #rufuz, #malachrufuz, #djshoodee"
-  - username: "braindeadslon"
-    fullname: >-
-      braindeadslon
-    location: "Poland"
-    followers: 133818
-    engagement: 597
-    commentsToLikes: 0.007894
-    id: ck55nyu1g7a650i11yzceqzoe
-    verified: false
-    hashtags: "#skitsvicious, #bober, #meatrpg, #wsrh"
+    hashtags: "#melokidsmusic, #newmusicsoon, #mustangfanclub, #djparty"
   - username: "ugly_digital"
     fullname: >-
       UGLYDIGITAL™
     location: "Poland"
-    followers: 2120
-    engagement: 1530
-    commentsToLikes: 0.061097
+    followers: 2068
+    engagement: 1571
+    commentsToLikes: 0.063015
     id: ck5qbd46kl0840i11yr09e9jn
     verified: false
-    hashtags: "#surowiecwroclaw, #electro, #loaszala, #animation"
-  - username: "malachrufuzofficial"
+    hashtags: "#hardcore, #albumart, #spicollective, #biohacking"
+  - username: "malach_mrcrew"
     fullname: >-
-      Małach/Rufuz
+      Małach MR CREW
     location: "Poland"
-    followers: 83143
-    engagement: 232
-    commentsToLikes: 0.011422
-    id: ck6uhb7ga83rk0j71uu4oadx7
+    followers: 56661
+    engagement: 387
+    commentsToLikes: 0.021024
+    id: ck6uhb909841c0j71npnskg86
     verified: false
-    hashtags: "#360stopni, #msd, #music, #360travel"
-  - username: "dj_hazel"
+    hashtags: "#rufuz, #malachrufuz, #360clth, #mr"
+  - username: "niziol_official"
     fullname: >-
-      Dj Hazel
+      Banita Rec.
     location: "Poland"
-    followers: 38685
-    engagement: 243
-    commentsToLikes: 0.011054
-    id: ck0w2svs8q0l60i19on5nkso2
+    followers: 37631
+    engagement: 416
+    commentsToLikes: 0.019433
+    id: ck5cd5t4cil720i11cl105uo3
     verified: false
-    hashtags: "#hazelszwecja, #explosionborkowo, #malyartysta, #tommorowland2021"
+    hashtags: "#szacunek, #realtalk, #proceder, #klucz"
+  - username: "kevincrownmusic"
+    fullname: >-
+      D.J. KEVIN CROWN
+    location: "Poland"
+    followers: 43488
+    engagement: 166
+    commentsToLikes: 0.026941
+    id: ck5cfrfrgnhrf0i1127j03c15
+    verified: false
+    hashtags: "#djkevincrowne, #planetlynx, #djyoungchow, #female"
+  - username: "daawidrakowski"
+    fullname: >-
+      Dawid Rakowski💥
+    location: "Poland"
+    followers: 22510
+    engagement: 1224
+    commentsToLikes: 0.125163
+    id: ck8wgjv0nhhpv0j781vbxmzmj
+    verified: false
+    hashtags: ""
 ---

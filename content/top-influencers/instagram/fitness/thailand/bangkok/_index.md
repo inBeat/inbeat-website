@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Bangkok In 2020
 description: >-
-  Find top fitness Instagram influencers in Bangkok in 2020. Most popular hashtags: #fitness #thailand #motivation #gym.
+  Find top fitness Instagram influencers in Bangkok in 2020. Most popular hashtags: #bangkok #nature #swimming #redwalls.
 platform: Instagram
 profiles:
-  - username: "newwy_official"
+  - username: "kwan_phuwamet"
     fullname: >-
-      Be Humble🌸💓
+      Personal Trainer
     location: "Thailand"
-    followers: 57839
-    engagement: 130
-    commentsToLikes: 0.024681
-    id: ck55oxbb99boi0i11sdxrlv2b
+    followers: 104921
+    engagement: 327
+    commentsToLikes: 0.005283
+    id: ckaoyt076ixwj0i78j5yp1a6w
     verified: false
-    hashtags: "#stayfit, #photography, #cute, #squats"
+    hashtags: ""
   - username: "tayastarling"
     fullname: >-
       Taya Rogers
     location: "Thailand"
-    followers: 362884
-    engagement: 94
-    commentsToLikes: 0.007285
+    followers: 363779
+    engagement: 102
+    commentsToLikes: 0.008603
     id: ck5hl0f6rjchp0i11n589zt5h
     verified: true
-    hashtags: "#nationalmargaritaday, #classpasscrew, #runbkk, #istayhomefor"
-  - username: "k_one_muaythai_gym"
+    hashtags: "#aloyoga, #plantforward, #earthmonth, #orderin"
+  - username: "orav.angel"
     fullname: >-
-      K.ONE MUAY THAI GYM
+      Angelica Orav
     location: "Thailand"
-    followers: 7622
-    engagement: 669
-    commentsToLikes: 0.010524
-    id: ck5zjlfr1hspt0i14z619ie45
+    followers: 34713
+    engagement: 280
+    commentsToLikes: 0.062430
+    id: ckapb8122yxbe0i78welwauad
     verified: false
-    hashtags: "#thaifight, #team, #experience, #kicking"
-  - username: "anitabye"
+    hashtags: "#braveanimals, #aerialcubetricks, #acrobaticnewbie, #cubegirl"
+  - username: "bomskeet"
     fullname: >-
-      Anita Bye/อันนิต้า บี Thailand
+      🖤 B O M S Y 🖤
     location: "Thailand"
-    followers: 39910
-    engagement: 192
-    commentsToLikes: 0.061417
-    id: ck8taypvztmid0j7889mj9a69
+    followers: 6515
+    engagement: 534
+    commentsToLikes: 0.057023
+    id: ckaow9rgv7z7z0i78q5qht8gs
     verified: false
-    hashtags: "#homeworkout, #covid19, #funk, #cryo"
+    hashtags: "#takeabreak, #queen, #shadesofpurple, #summer2020"
   - username: "saharat_k"
     fullname: >-
       ▪️SAHARAT KLUABMAS▪️
     location: "Thailand"
-    followers: 30739
-    engagement: 155
-    commentsToLikes: 0.008251
+    followers: 30606
+    engagement: 163
+    commentsToLikes: 0.009507
     id: ck55oxajl9blz0i11cg8s1hfr
     verified: false
-    hashtags: "#loveu, #saharatprecompetition, #mensportphysique, #btu"
-  - username: "pang.saifon"
+    hashtags: "#saharatjeju, #mensportphysique, #bangkokthonburiuniversity, #hvd"
+  - username: "fah_jilamika"
     fullname: >-
-      Pang HealthyRoutine
+      Fah  : 💖
     location: "Thailand"
-    followers: 27394
-    engagement: 111
-    commentsToLikes: 0.031547
-    id: ck5zkbfezj64g0i14gtq5brqw
+    followers: 123804
+    engagement: 138
+    commentsToLikes: 0.012925
+    id: ckap7egt5jq3e0i7885smdc0g
     verified: false
-    hashtags: "#veganwrap, #valentines, #restaurant, #fitnessgirl"
+    hashtags: "#fahhandstand, #aerialist, #sportbra, #top"
   - username: "yuvalohayonn"
     fullname: >-
       𝕐𝕦𝕧𝕒𝕝, 𝕋𝕖𝕝-𝔸𝕧𝕚𝕧, 𝟚𝟡
     location: "Thailand"
-    followers: 12802
-    engagement: 1965
-    commentsToLikes: 0.088391
+    followers: 13507
+    engagement: 2076
+    commentsToLikes: 0.086233
     id: ck14lovy8vqz90i192uov048r
     verified: false
-    hashtags: "#nikeswim, #relaxmode, #seaporn, #keemala"
-  - username: "miska_kanuscakova"
+    hashtags: "#bestvacation, #morningtime, #mustachestyle, #bythepool"
+  - username: "daniella_shoot"
     fullname: >-
-      Fitness Coach & IFBB Bikini
+      daniella❤️shutov
     location: "Thailand"
-    followers: 21817
-    engagement: 266
-    commentsToLikes: 0.011731
-    id: ck0vx5ksfx8zw0i19vhqju03o
+    followers: 68666
+    engagement: 1070
+    commentsToLikes: 0.018998
+    id: ck8tcmf40zxdh0j78yptvq0yc
     verified: false
-    hashtags: "#booty, #homeworkout, #bikinifitness, #hot"
-  - username: "saharat_k"
+    hashtags: "#like, #shadowbox, #warmup, #sparing"
+  - username: "orav.angel"
     fullname: >-
-      ▪️SAHARAT KLUABMAS▪️
+      Angelica Orav
     location: "Thailand"
-    followers: 30739
-    engagement: 155
-    commentsToLikes: 0.008251
-    id: ck55oxajl9blz0i11cg8s1hfr
+    followers: 34713
+    engagement: 280
+    commentsToLikes: 0.062430
+    id: ckapb8122yxbe0i78welwauad
     verified: false
-    hashtags: "#loveu, #saharatprecompetition, #mensportphysique, #btu"
-  - username: "teetee_athlete1"
+    hashtags: "#braveanimals, #aerialcubetricks, #acrobaticnewbie, #cubegirl"
+  - username: "warriorstyle"
     fullname: >-
-      TEETEE
+      Warrior Style
     location: "Thailand"
-    followers: 79333
-    engagement: 245
-    commentsToLikes: 0.007156
-    id: ck5hh09th5q4l0i11eht00u9m
+    followers: 22669
+    engagement: 448
+    commentsToLikes: 0.082801
+    id: ck0u6xrau37290i197l57u0dk
     verified: false
-    hashtags: "#projectrock, #motivation, #ducati, #ducati1098s"
+    hashtags: "#brucelee, #sawadeekrap, #hudsonriver"
 ---

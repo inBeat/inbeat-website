@@ -1,46 +1,56 @@
 ---
 title: Top 10 Journalists Instagram Influencers In 2020
 description: >-
-  Find top journalists Instagram influencers in 2020. Most popular hashtags: #life #travel #vsco #moscow.
+  Find top journalists Instagram influencers in 2020. Most popular hashtags: #quarantena #merrychristmas # #italy.
 platform: Instagram
 profiles:
+  - username: "hamishnews"
+    fullname: >-
+      Hamish Macdonald
+    location: "Australia"
+    followers: 34011
+    engagement: 708
+    commentsToLikes: 0.024491
+    id: ck1389fhyf5380i19lvsvz72d
+    verified: false
+    hashtags: "#squad, #qanda"
   - username: "mostapha_raf.at"
     fullname: >-
       مصطفی رفعت‌
     location: "Iran"
-    followers: 19242
-    engagement: 1333
-    commentsToLikes: 0.008975
+    followers: 19171
+    engagement: 1330
+    commentsToLikes: 0.009158
     id: ck5zjp7tvhzz00i14w6l4kvy3
     verified: false
     hashtags: ""
   - username: "ira_chaykovskaya"
     fullname: >-
-      Ира Чайковская
+      Ира Чайковская
     location: "Russia"
-    followers: 45234
-    engagement: 262
-    commentsToLikes: 0.028514
+    followers: 46754
+    engagement: 202
+    commentsToLikes: 0.047622
     id: ck5hmzin4mxca0i11aavphpms
     verified: false
-    hashtags: "#paris, #simplewine, #fairytalelovebyyana, #shangrilabarraljissah"
+    hashtags: "#sephorapressday2020, #themacallanedition5, #fuckcorona, #clifftopretreats"
   - username: "tantoo19"
     fullname: >-
       Tanviya de Girval Sapru
     location: "Italy"
-    followers: 17851
-    engagement: 1769
-    commentsToLikes: 0.006855
+    followers: 20835
+    engagement: 1855
+    commentsToLikes: 0.006583
     id: ck138q0pwhfx90i19ffo94wgx
     verified: false
-    hashtags: "#love, #ihavethehigherground, #siblings, #brosforlife"
+    hashtags: "#breaking, #sistersforever, #positano, #amazing"
   - username: "amirmoosakazemi"
     fullname: >-
       امیر موسی کاظمی
     location: "Iran"
-    followers: 11260
-    engagement: 595
-    commentsToLikes: 0.020187
+    followers: 11230
+    engagement: 593
+    commentsToLikes: 0.020220
     id: ck5q8wi3g8alt0i11srt3sgyj
     verified: false
     hashtags: ""
@@ -48,60 +58,50 @@ profiles:
     fullname: >-
       Zineb El Rhazoui
     location: "France"
-    followers: 8105
-    engagement: 2467
-    commentsToLikes: 1.717716
+    followers: 8318
+    engagement: 2456
+    commentsToLikes: 1.710390
     id: ck5ca20vkcjzd0i11yrbcwuw1
     verified: false
-    hashtags: "#diam, #middleatlas, #joburgfreedomforum2018, #thibaultdemontbrial"
-  - username: "keturah_king"
+    hashtags: "#oslofreedomforum, #cabu, #moroccanfashion, #womensrights"
+  - username: "tasosdousis"
     fullname: >-
-      Keturah King
-    location: "Nigeria"
-    followers: 50554
-    engagement: 604
-    commentsToLikes: 0.068862
-    id: ck5zuocrt2qvv0i14ylyuhdrx
-    verified: true
-    hashtags: "#herstory, #themarathoncontinues, #phenomenalwoman, #hbcu"
-  - username: "rawatrahul9"
-    fullname: >-
-      Rahul Rawat
-    location: "India"
-    followers: 17657
-    engagement: 1419
-    commentsToLikes: 0.057863
-    id: ck14ivo46hd4v0i19z28fyeat
-    verified: false
-    hashtags: "#biking, #luck, #kapil, #life"
-  - username: "florbarbeira"
-    fullname: >-
-      flora💚🌱
-    location: "Argentina"
-    followers: 29337
-    engagement: 933
-    commentsToLikes: 0.051083
-    id: ck5hcf84ehrid0i11r179g9fv
-    verified: false
-    hashtags: "#reveillon, #copacabana, #seraley, #viernes"
-  - username: "eva_basi"
-    fullname: >-
-      Eva Basi 🐅
+      Tasos Dousis
     location: "Greece"
-    followers: 39801
-    engagement: 564
-    commentsToLikes: 0.093677
-    id: ck5q40sfqn8fz0i11swey2z4q
+    followers: 63977
+    engagement: 1388
+    commentsToLikes: 0.373283
+    id: ck5hcdoulhiwd0i11c8ao5hs1
     verified: false
-    hashtags: "#opentv, #notbad, #wintermood, #happynewyear2020"
-  - username: "la_paillette"
+    hashtags: "#merrychristmas, #kalyteroskosmos, #renaultgreece, #menoumespiti"
+  - username: "darlene4ny"
     fullname: >-
-      ✨𝓣𝓪𝓷𝔂𝓪  𝓢𝓱𝓶𝔂𝓻𝓮𝓿𝓪✨
-    location: "Russia"
-    followers: 11368
-    engagement: 1068
-    commentsToLikes: 0.173706
-    id: ck8tdolh946do0j78plrmzla3
+      Darlene Rodriguez
+    location: "United States"
+    followers: 19142
+    engagement: 1110
+    commentsToLikes: 0.127103
+    id: ck6ua8z74277z0j7173spglr6
+    verified: true
+    hashtags: "#collegegrad, #mysonshine, #motthaven, #iceskating"
+  - username: "bonaldiconcetta"
+    fullname: >-
+      Concetta Bonaldi
+    location: "Italy"
+    followers: 79007
+    engagement: 1067
+    commentsToLikes: 0.064535
+    id: ckaoyj912hp6o0i78d6n73bt3
     verified: false
-    hashtags: "#girl, #friday, #photo, #vscocam"
+    hashtags: "#fase3, #alliesoftheplanet, #ichbleibezuhause, #mochi"
+  - username: "kurlyand"
+    fullname: >-
+      ✨ Yevgeniya Kurlyand ✨
+    location: "Italy"
+    followers: 21042
+    engagement: 826
+    commentsToLikes: 0.066978
+    id: ckaot2hquu32r0i78zbmfk0tf
+    verified: false
+    hashtags: "#ufficio, #spoileralert, #quarentena, #staysafestayhome"
 ---

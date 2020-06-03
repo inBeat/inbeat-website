@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Norway In 2020
 description: >-
-  Find top christian Instagram influencers in Norway in 2020. Most popular hashtags: #norge #norway #portrait #vikingmentality.
+  Find top christian Instagram influencers in Norway in 2020. Most popular hashtags: #artofvisuals #oslo #earthofficial #exploreourearth.
 platform: Instagram
 profiles:
-  - username: "beachvolleyvikings"
-    fullname: >-
-      Beachvolley Vikings
-    location: "Norway"
-    followers: 23368
-    engagement: 1168
-    commentsToLikes: 0.011643
-    id: ck0tu5fl75pvv0i19jbzuzioy
-    verified: false
-    hashtags: "#sport, #quarantinelife, #vikings, #vikingmentality"
-  - username: "lady_gumi"
-    fullname: >-
-      Karolina Wojciechowska
-    location: "Norway"
-    followers: 26786
-    engagement: 288
-    commentsToLikes: 0.096142
-    id: ck6udr24emnsf0j718mz5093e
-    verified: false
-    hashtags: "#warszawa, #zosta, #kosmetyki, #wygrajnagrody"
   - username: "christiantrustrup"
     fullname: >-
       CHRISTIAN TRUSTRUP
     location: "Norway"
-    followers: 51520
-    engagement: 608
-    commentsToLikes: 0.029240
+    followers: 54572
+    engagement: 601
+    commentsToLikes: 0.027721
     id: ck0u7nijh54pt0i19fkfm20bw
     verified: false
-    hashtags: "#mittlekeland, #visittrondheim, #lofoten, #icelandair"
+    hashtags: "#dscvr, #lonelyplanet, #birdfreaks, #droneoftheday"
   - username: "raw_norway"
     fullname: >-
       Norway |Norge |Norwegian
     location: "Norway"
-    followers: 18219
+    followers: 18716
     engagement: 196
-    commentsToLikes: 0.018665
+    commentsToLikes: 0.023020
     id: ck0vxvb0z0wtj0i19r5kku3ff
     verified: false
-    hashtags: "#contest, #godmorgennorge, #nortrip, #norges"
-  - username: "tomhowse_"
+    hashtags: "#letsallbewell, #killershots, #photochallenge, #photocontest"
+  - username: "hilvees"
     fullname: >-
-      Tom Howse
+      Hildegunn Taipale
     location: "Norway"
-    followers: 9517
-    engagement: 1296
-    commentsToLikes: 0.039242
-    id: ck1383gp1ebkc0i19vdx55tjt
-    verified: false
-    hashtags: "#jazz, #ufos, #chimps, #green"
-  - username: "ganeshfoto"
-    fullname: >-
-      Ganesh
-    location: "Norway"
-    followers: 13791
-    engagement: 488
-    commentsToLikes: 0.018404
-    id: ck15trn00jjkl0i19bqgxhf56
-    verified: false
-    hashtags: "#repostmyfujifilm, #vacation, #travelphotography, #sigma50mm"
-  - username: "jeppeblinsta"
-    fullname: >-
-      Jeppe Beck Laursen
-    location: "Norway"
-    followers: 10216
-    engagement: 727
-    commentsToLikes: 0.050323
-    id: ck5q5udkbumx10i1111twj8ws
+    followers: 464650
+    engagement: 339
+    commentsToLikes: 0.007090
+    id: ck0u0cgbhtasf0i19uaeuo3zw
     verified: true
-    hashtags: "#kjetilrekdal, #shenanigans, #jajaspisn, #tlk2019"
+    hashtags: "#christianjokes, #hxepresets, #ad, #stokkebeat"
   - username: "stylingbymalla"
     fullname: >-
       Malin Nilsen 🇳🇴
     location: "Norway"
-    followers: 143746
-    engagement: 65
-    commentsToLikes: 0.095117
+    followers: 142187
+    engagement: 49
+    commentsToLikes: 0.086636
     id: ck5hmssrdmk0p0i11uw0ylehm
     verified: false
-    hashtags: "#soveromsinspirasjon, #easterdecor, #legeskumdk, #skumm"
+    hashtags: "#borddekking, #tablesettings, #tables, #kidsootd"
+  - username: "jeppeblinsta"
+    fullname: >-
+      Jeppe Beck Laursen
+    location: "Norway"
+    followers: 21152
+    engagement: 473
+    commentsToLikes: 0.050217
+    id: ck5q5udkbumx10i1111twj8ws
+    verified: true
+    hashtags: "#pinnebr, #stunts, #fight, #letsdothis"
+  - username: "nordicnature_vackrastenatur"
+    fullname: >-
+      Pure Nordic Nature 🇳🇴🇸🇪🇫🇮🇦🇽🇫🇴
+    location: "Norway"
+    followers: 10201
+    engagement: 705
+    commentsToLikes: 0.013490
+    id: ck6tk91bs48iu0j71gi1vvh8y
+    verified: false
+    hashtags: "#laowa, #princely, #your, #naturyst"
   - username: "gorgorothofficial"
     fullname: >-
       Gorgoroth Official
     location: "Norway"
-    followers: 22805
-    engagement: 720
-    commentsToLikes: 0.008230
+    followers: 24616
+    engagement: 719
+    commentsToLikes: 0.008233
     id: ck6u3ntvnyufi0j71jzw0vmgj
     verified: false
-    hashtags: "#infernobeer, #thronefest, #deathrow, #infernometalfestival"
-  - username: "christiansorum"
+    hashtags: "#christianmisje, #killerlineup, #ladoobscurodelaluna, #gorgorotharticle"
+  - username: "ulrikkeofficial"
     fullname: >-
-      Christian Sandlie Sørum
+      ULRIKKE BRANDSTORP
     location: "Norway"
-    followers: 24792
-    engagement: 1479
-    commentsToLikes: 0.010980
-    id: ck0tu5ecz5ptd0i19daohlrn2
+    followers: 30742
+    engagement: 1362
+    commentsToLikes: 0.022840
+    id: ck5zrxr1bxg6v0i14tl9hgtn4
     verified: false
-    hashtags: "#birthday, #future, #italy, #havefun"
+    hashtags: "#sammenmotdritten, #hugforesc2020, #ulrikkeofficial, #esc2020"
+  - username: "tanjacg"
+    fullname: >-
+      Tanja🏃🏻‍♀️
+    location: "Norway"
+    followers: 2779
+    engagement: 3064
+    commentsToLikes: 0.045945
+    id: ckaot45qiub3i0i78ako3024c
+    verified: false
+    hashtags: "#topoathletic, #thankful, #zurichmaratobcn, #hellofriday"
+  - username: "marie_murstad"
+    fullname: >-
+      Marie Murstad
+    location: "Norway"
+    followers: 61120
+    engagement: 251
+    commentsToLikes: 0.019887
+    id: ck135ak3p0j8u0i19ywbpbs3t
+    verified: false
+    hashtags: "#stokkebeat"
 ---

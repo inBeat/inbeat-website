@@ -1,107 +1,107 @@
 ---
 title: Top 10 Divers Instagram Influencers In Chile In 2020
 description: >-
-  Find top divers Instagram influencers in Chile in 2020. Most popular hashtags: #cuarentena #summer #coronavirus #verano.
+  Find top divers Instagram influencers in Chile in 2020. Most popular hashtags: #diversidad #cumplea #quedateencasa #cuarentena.
 platform: Instagram
 profiles:
-  - username: "jesusothers"
+  - username: "tallasparatodes"
     fullname: >-
-      María Jesús Sothers Arregui
+      TallasParaTodes | BodyPosiTour
     location: "Chile"
-    followers: 67613
-    engagement: 435
-    commentsToLikes: 0.009763
-    id: ck135qt2j2s500i19w51x4lwq
+    followers: 21278
+    engagement: 790
+    commentsToLikes: 0.038232
+    id: ck13a47tdojw80i19tr3xgtqv
     verified: false
-    hashtags: "#bcn"
+    hashtags: "#postparto, #talleuniconoesunicotalle, #antofagasta, #marcha8m"
   - username: "colorvibe5krd"
     fullname: >-
       Color Vibe 5K Rep. Dominicana
     location: "Chile"
-    followers: 44334
-    engagement: 204
-    commentsToLikes: 0.029224
+    followers: 43067
+    engagement: 128
+    commentsToLikes: 0.019040
     id: ck5hgqnfv483l0i11gjifc1vq
     verified: false
-    hashtags: "#traetucolor, #colorvibers, #colorviber, #coronavirus"
-  - username: "negracesante"
-    fullname: >-
-      Angela Díaz Camus
-    location: "Chile"
-    followers: 30619
-    engagement: 884
-    commentsToLikes: 0.054817
-    id: ck15so05qdyk70i190rukxmtd
-    verified: false
-    hashtags: "#tigerking, #backtoschool, #conlaayudademisamikas, #8m"
+    hashtags: "#coronavirus, #cuarentena, #quedateencasa, #ciudadcorazon"
   - username: "ignaciauribe"
     fullname: >-
       Ignacia Uribe R.
     location: "Chile"
-    followers: 17350
-    engagement: 631
-    commentsToLikes: 0.073088
+    followers: 17227
+    engagement: 616
+    commentsToLikes: 0.074494
     id: ck5q5jnedt7570i11ttmun56a
     verified: false
-    hashtags: "#summerinitaly, #matrimoneando, #chile, #pregnant"
+    hashtags: "#embarazovegano, #agosto, #sanfrancisco, #pucon"
   - username: "virginiademariaoficial"
     fullname: >-
       Virginia Demaria
     location: "Chile"
-    followers: 560476
-    engagement: 296
-    commentsToLikes: 0.022151
+    followers: 608401
+    engagement: 291
+    commentsToLikes: 0.026988
     id: ck55lklbf1s8g0i112mphcsao
     verified: true
-    hashtags: "#xilofor, #decoarte, #pinturas, #pascuadelaimaginaci"
+    hashtags: "#pinturas, #pizarra, #babyalive, #ceresita"
+  - username: "juanangelmallorca"
+    fullname: >-
+      𝐉𝐔𝐀𝐍  𝐀𝐍𝐆𝐄𝐋
+    location: "Chile"
+    followers: 139056
+    engagement: 636
+    commentsToLikes: 0.037593
+    id: ck5c38x68ytmi0i114bhk5kn9
+    verified: true
+    hashtags: "#studios, #brooklynbridge, #elamorquequer, #hogar"
   - username: "gabytaaraujo"
     fullname: >-
       Gaby Araujo!
     location: "Chile"
-    followers: 71318
-    engagement: 437
-    commentsToLikes: 0.031467
+    followers: 71665
+    engagement: 301
+    commentsToLikes: 0.032690
     id: ck5hnqb3go7gq0i11xmm1f1zm
     verified: false
-    hashtags: "#esteeseldiariode, #loveme, #linfoedema, #yoinscollection"
+    hashtags: "#mybodymychoice, #denim, #cocacola, #linfoedema"
+  - username: "nicole_.fit"
+    fullname: >-
+      Ｎｉｃｏｌｅ
+    location: "Chile"
+    followers: 2754
+    engagement: 996
+    commentsToLikes: 0.056104
+    id: ck5zn43d4nqvb0i14tr2ejnix
+    verified: false
+    hashtags: "#pool, #model, #dance, #weichafe"
   - username: "fran_sw_"
     fullname: >-
       FRAN DIAZ 🌺
     location: "Chile"
-    followers: 5201
-    engagement: 1729
-    commentsToLikes: 0.048659
+    followers: 5370
+    engagement: 1716
+    commentsToLikes: 0.048575
     id: ck14jwjhemjr50i19g3kk450a
     verified: false
-    hashtags: "#pasion, #chilenadecorazon, #ginger, #workout"
-  - username: "nicole_.fit"
+    hashtags: "#chilenadecorazon, #skin, #sw, #disloque"
+  - username: "jaimesanchezbarcelo"
     fullname: >-
-      Nicole🌸
+      Psicologo Positivo 😉✌️♥️
     location: "Chile"
-    followers: 2626
-    engagement: 1070
-    commentsToLikes: 0.054663
-    id: ck5zn43d4nqvb0i14tr2ejnix
+    followers: 36415
+    engagement: 230
+    commentsToLikes: 0.060652
+    id: ck5qeg2xj0be30i11uw3tkcoc
     verified: false
-    hashtags: "#fitnessaddict, #fashion, #autumn, #love"
+    hashtags: "#brujasbelgica, #jardininfantil, #yomequedoencasa, #vidasana"
   - username: "kenitalarraincalderon"
     fullname: >-
       María Eugenia Larrain c.
     location: "Chile"
-    followers: 126205
-    engagement: 202
-    commentsToLikes: 0.052826
+    followers: 126060
+    engagement: 204
+    commentsToLikes: 0.052624
     id: ck6u5bawg8mx10j71siel1h6c
     verified: true
-    hashtags: "#sabiduria, #salud, #parrilla, #planeta"
-  - username: "gustavohuertaardiles"
-    fullname: >-
-      Gustavo Huerta
-    location: "Chile"
-    followers: 36456
-    engagement: 328
-    commentsToLikes: 0.050883
-    id: ck6txieg6y0lb0j71h8dpqbw9
-    verified: true
-    hashtags: "#qu, #coronavirus, #atonxtvn, #deporte"
+    hashtags: "#animals, #marzo, #mente, #diversion"
 ---

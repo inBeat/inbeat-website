@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In New York In 2020
 description: >-
-  Find top makeup Instagram influencers in New York in 2020. Most popular hashtags: #makeup #beauty #fashion #newyork.
+  Find top makeup Instagram influencers in New York in 2020. Most popular hashtags: #makeup #newyork #stayhome #timessquare.
 platform: Instagram
 profiles:
-  - username: "diangriesel"
-    fullname: >-
-      Dian Griesel
-    location: "United States"
-    followers: 28097
-    engagement: 500
-    commentsToLikes: 0.123819
-    id: ck5c2jkqfxdgt0i114a31he7w
-    verified: false
-    hashtags: "#naturallightphotography, #behindthescenes, #believeit, #streetfashion"
-  - username: "susanbowlusphoto"
-    fullname: >-
-      Susan Bowlus
-    location: "United States"
-    followers: 4813
-    engagement: 1056
-    commentsToLikes: 0.066380
-    id: ck5zoicypqmqb0i14bwkgcjyh
-    verified: false
-    hashtags: "#cleanskin, #beautyblog, #fashionblogger, #silver"
-  - username: "leacouture"
-    fullname: >-
-      Lea Romero-Barczak
-    location: "United States"
-    followers: 6734
-    engagement: 767
-    commentsToLikes: 0.079401
-    id: ck6u86c6apoqt0j71uzrqj390
-    verified: false
-    hashtags: "#movedin, #bossbabetribe, #staysafe, #vibes"
   - username: "maite.mua"
     fullname: >-
       M Λ I T E
     location: "United States"
-    followers: 10395
-    engagement: 607
-    commentsToLikes: 0.087194
+    followers: 10692
+    engagement: 650
+    commentsToLikes: 0.077364
     id: ck6tlqbhr6g2w0j718ihaldtp
     verified: false
-    hashtags: "#makeupartist, #bklynmua, #plouise, #veganmakeup"
-  - username: "nargisfakhri"
+    hashtags: "#redlips, #veganmakeup, #veganburgers, #muanyc"
+  - username: "ka_jamie"
     fullname: >-
-      Nargis Fakhri
+      
     location: "United States"
-    followers: 6987509
-    engagement: 151
-    commentsToLikes: 0.007516
-    id: ck6u7a1hbkb9k0j71dcwvrspl
-    verified: true
-    hashtags: "#sanitize, #letsgo, #getstrong, #recipes"
-  - username: "dollhousemermaid"
-    fullname: >-
-      VIKI DIAZ
-    location: "United States"
-    followers: 16519
-    engagement: 180
-    commentsToLikes: 0.071717
-    id: ck0w30dj8qzxu0i19qi5fwnj4
+    followers: 2140
+    engagement: 1475
+    commentsToLikes: 0.040979
+    id: ck8svzjx3da7j0j78a18yee30
     verified: false
-    hashtags: "#fentybeauty, #jeffreestarcosmetics, #glam, #sisters"
+    hashtags: "#challenge, #ticha, #fashiongirls, #summerdress"
+  - username: "_curlsandroses"
+    fullname: >-
+      Geralyn Cecilia 🌹
+    location: "United States"
+    followers: 2486
+    engagement: 1609
+    commentsToLikes: 0.048627
+    id: ck5bzq79drmvl0i11zp9tykfi
+    verified: false
+    hashtags: "#newyorkmodels, #abercrombie, #makeup, #newyork"
   - username: "nataliiamakeupartist"
     fullname: >-
       Nataliia Nosokas
     location: "United States"
-    followers: 14648
-    engagement: 160
-    commentsToLikes: 0.376033
+    followers: 14922
+    engagement: 154
+    commentsToLikes: 0.368588
     id: ck14kyxbps0yi0i19qxl5xwsi
     verified: false
-    hashtags: "#modelmiami, #beautyphotography, #romanovamakeup, #nycmakeupartist"
-  - username: "_breezyobama"
-    fullname: >-
-      BREEZYOBAMA
-    location: "United States"
-    followers: 10640
-    engagement: 474
-    commentsToLikes: 0.069934
-    id: ck5qapx0shnps0i11kauhk88k
-    verified: false
-    hashtags: "#cheapflights, #allblackeverything, #highfashion, #mensproducts"
+    hashtags: "#food, #makeupblogger, #glammakeup, #colorfullmakeup"
   - username: "christina_vannuis"
     fullname: >-
       Christina Van Nuis
     location: "United States"
-    followers: 5405
-    engagement: 1047
-    commentsToLikes: 0.026192
+    followers: 5423
+    engagement: 1072
+    commentsToLikes: 0.026393
     id: ck5bud5owhkda0i11ozxbdq5s
     verified: false
-    hashtags: "#capricornseason, #nofilter, #swipe, #deciosantos"
+    hashtags: "#deciosantos, #mfw, #capricornseason, #nofilter"
   - username: "pattielepugh"
     fullname: >-
       Patrice Pugh
     location: "United States"
-    followers: 7246
-    engagement: 620
-    commentsToLikes: 0.046892
+    followers: 7309
+    engagement: 724
+    commentsToLikes: 0.060089
     id: ck0w14awzhhqm0i191dir5j0y
     verified: false
-    hashtags: "#piscesseason, #nyfw, #thelipbar, #nicolebus"
+    hashtags: "#ecofriendlyfashion, #solangeknowles, #bts, #nicolebus"
+  - username: "freak_a_leekvegas"
+    fullname: >-
+      Leeka 🎀
+    location: "United States"
+    followers: 16099
+    engagement: 290
+    commentsToLikes: 0.102440
+    id: ck5q6rnc4ykvb0i11ul54wcc8
+    verified: false
+    hashtags: "#barbie, #antigua, #bedazzled, #darkblonde"
+  - username: "sammyrubin"
+    fullname: >-
+      Samantha Rubin
+    location: "United States"
+    followers: 50729
+    engagement: 593
+    commentsToLikes: 0.023578
+    id: ck14jbfpvjhr80i191o6pnz7p
+    verified: false
+    hashtags: "#witcher3, #captainmarvel, #calm, #outtakes"
+  - username: "sohotsomealex"
+    fullname: >-
+      ALEXA CAROLINA
+    location: "United States"
+    followers: 287400
+    engagement: 169
+    commentsToLikes: 0.015016
+    id: ck5cenorclckt0i11vq1a1z03
+    verified: true
+    hashtags: "#matteinklover, #makeup, #redlips, #newyork"
+  - username: "mooistemooi_"
+    fullname: >-
+      Marí Conradie
+    location: "United States"
+    followers: 7402
+    engagement: 449
+    commentsToLikes: 0.028381
+    id: ck0w3oxuluisb0i19gwiu0kan
+    verified: false
+    hashtags: "#makeup, #manhattan, #newyorkcity, #44thstreet"
 ---

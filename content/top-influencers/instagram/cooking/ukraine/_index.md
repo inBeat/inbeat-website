@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top cooking Instagram influencers in Ukraine in 2020. Most popular hashtags: #cooking #home #tamerlanalena #stayhome.
+  Find top cooking Instagram influencers in Ukraine in 2020. Most popular hashtags: #cooking #style #friends #training.
 platform: Instagram
 profiles:
   - username: "andreylavruk"
     fullname: >-
       ᴘʜᴏᴛᴏɢʀᴀᴘʜᴇʀ   📷
     location: "Ukraine"
-    followers: 7878
-    engagement: 642
-    commentsToLikes: 0.038352
+    followers: 7803
+    engagement: 516
+    commentsToLikes: 0.041545
     id: ck15qkkoj3avd0i19u9iye2ne
     verified: false
-    hashtags: "#andreylavruk, #kyivmodel, #kyivmap, #kyivcity"
-  - username: "nevhorosheva"
+    hashtags: "#photoday, #85mm14, #kievmodel, #weddingkiev"
+  - username: "annagirm"
     fullname: >-
-      Настя🦊Чубар
+      A.n.n.a G.i.r Malowany 🌺
     location: "Ukraine"
-    followers: 24087
-    engagement: 198
-    commentsToLikes: 0.024775
-    id: ck5hfd2otwx0h0i11qpc8q02w
+    followers: 6122
+    engagement: 2006
+    commentsToLikes: 0.184386
+    id: ck0tyggvvmppp0i19v8scrgo5
     verified: false
-    hashtags: "#carantine, #covidkindness, #covid2020, #giveaway"
+    hashtags: "#funmoment, #sweetpotato, #sunglasses, #puppylove"
   - username: "dikushnir"
     fullname: >-
       Diana Kushnir
     location: "Ukraine"
-    followers: 14565
-    engagement: 640
-    commentsToLikes: 0.202478
+    followers: 13400
+    engagement: 635
+    commentsToLikes: 0.177217
     id: ck15tpmwoj9um0i19alk1gcf5
     verified: false
-    hashtags: "#babyboy, #11, #giveaways, #taobaofashion"
-  - username: "yaroslavskyi_vova"
+    hashtags: "#babyboy, #happyeaster, #bff, #tiramisu"
+  - username: "lenaovchynnikova"
     fullname: >-
-      Владимир Ярославский
+      Lena "the Hunter" Ovchynnikova
     location: "Ukraine"
-    followers: 80914
-    engagement: 412
-    commentsToLikes: 0.041818
-    id: ck5hee4dnsfml0i1122hqv5dc
+    followers: 53993
+    engagement: 390
+    commentsToLikes: 0.030981
+    id: ck5c3gf3cz9rz0i115274212c
     verified: true
-    hashtags: "#masterchef, #world, #happy, #raw"
-  - username: "sifood.com.ua"
+    hashtags: "#kickboxingworld, #doglove, #parashute, #grandpa"
+  - username: "ivankrylenko"
     fullname: >-
-      Сильвия Бронецкая
+      Иван
     location: "Ukraine"
-    followers: 26575
-    engagement: 434
-    commentsToLikes: 0.069069
-    id: ck13cigsb0id90i194quzf45u
+    followers: 14979
+    engagement: 263
+    commentsToLikes: 0.083320
+    id: ck6u9e10bx0f10j71kmklx7t2
     verified: false
-    hashtags: "#spaghetti, #colorpancakes, #culiflower, #foodlover"
-  - username: "yulya_olifirenko"
+    hashtags: "#calistenic, #weapon, #croasfit, #wakepark"
+  - username: "timurrex2"
     fullname: >-
-      Юля Шматко (Олифиренко)
+      Тимур Rex2
     location: "Ukraine"
-    followers: 17751
-    engagement: 358
-    commentsToLikes: 0.154571
-    id: ck6u3sldmzn2v0j7171zpmtyj
+    followers: 39776
+    engagement: 155
+    commentsToLikes: 0.049616
+    id: ckap7zj6um6ui0i78q2n4zrj5
     verified: false
-    hashtags: "#planet, #photo, #clothes, #coffeetime"
-  - username: "alya_small"
+    hashtags: "#may, #kiev, #yangordienko, #beautifulday"
+  - username: "kotik__vb"
     fullname: >-
-      -   A S       B L O G   -
+      Хей -це я Вікусик 🐯
     location: "Ukraine"
-    followers: 51665
-    engagement: 386
-    commentsToLikes: 0.019967
-    id: ck8t1pdgtwj720j78mjqhko6z
+    followers: 3333
+    engagement: 2143
+    commentsToLikes: 0.041936
+    id: ck8tcapypyvew0j78io4ryujx
     verified: false
-    hashtags: "#cakes, #cooking, #chocolate, #cakeideasfoto"
-  - username: "xena_axyenna"
+    hashtags: "#instagram, #vinnitsa, #astetic, #cooking"
+  - username: "liana_buvaltseva"
     fullname: >-
-      Ксения Логинова
+      𝐋𝐢𝐚𝐧𝐚 𝐁𝐮𝐯𝐚𝐥𝐭𝐬𝐞𝐯𝐚
     location: "Ukraine"
-    followers: 11422
-    engagement: 749
-    commentsToLikes: 0.021691
-    id: ck6u8e6mtr29p0j71l2tjjtff
+    followers: 36066
+    engagement: 1194
+    commentsToLikes: 0.038539
+    id: ck5c09bqmsolw0i11n4z4848o
     verified: false
-    hashtags: "#kophangan, #phangan, #traveler, #tastygram"
-  - username: "tamerlan_alena"
+    hashtags: "#travelgram, #vintagelook, #coffeebean, #myparisstyle"
+  - username: "shura.i.am"
     fullname: >-
-      ᴛᴀᴍᴇʀʟᴀɴᴀʟᴇɴᴀ
+      ＡＬＥＫＳＡＮＤＲＡ
     location: "Ukraine"
-    followers: 178362
-    engagement: 106
-    commentsToLikes: 0.023207
-    id: ck13b6wx0tz9h0i190sweucuk
-    verified: true
-    hashtags: "#unicef, #karantina, #zvikabrand, #stayathome"
-  - username: "polisha124"
-    fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀ ᴘᴏʟɪɴᴀ ɪᴠᴀɴʏᴜᴋ ⠀⠀⠀
-    location: "Ukraine"
-    followers: 11189
-    engagement: 683
-    commentsToLikes: 0.026726
-    id: ck5c9dw68b97r0i11ogkeyjvo
+    followers: 7158
+    engagement: 610
+    commentsToLikes: 0.030400
+    id: ckap4x14899mk0i78smyym246
     verified: false
-    hashtags: "#pristash, #love, #maxbarskih, #onlineclass"
+    hashtags: "#louvre, #vscofood, #fitnessmodel, #styleblogger"
+  - username: "vovatrozkii1"
+    fullname: >-
+      Владимир Троцкий
+    location: "Ukraine"
+    followers: 54431
+    engagement: 573
+    commentsToLikes: 0.038592
+    id: ck9wf1tc7mwqf0j78isdjn75y
+    verified: false
+    hashtags: "#smart, #heppybirthday, #anniversary, #honey"
 ---

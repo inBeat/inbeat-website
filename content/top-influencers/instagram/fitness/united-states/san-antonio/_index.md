@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In San Antonio In 2020
 description: >-
-  Find top fitness Instagram influencers in San Antonio in 2020. Most popular hashtags: #sanantonio #texas #fitness #quarantine.
+  Find top fitness Instagram influencers in San Antonio in 2020. Most popular hashtags: #fitness #satx #photoshoot #sanantonio.
 platform: Instagram
 profiles:
-  - username: "texas__abby"
+  - username: "amandajlin23"
     fullname: >-
-      Abigail
+      Amanda Lin🦋
     location: "United States"
-    followers: 9403
-    engagement: 1134
-    commentsToLikes: 0.054761
-    id: ck8wfyn27ggrt0j78d479r7ag
+    followers: 10165
+    engagement: 739
+    commentsToLikes: 0.042578
+    id: ckaoui4sh0dgu0i78mlchovqi
     verified: false
-    hashtags: "#tiktokgirls, #texasbby, #thedrop, #feelingempty"
-  - username: "jess_cavasshole"
-    fullname: >-
-      Jess Cavazos(Corpus Christi,TX
-    location: "United States"
-    followers: 18799
-    engagement: 420
-    commentsToLikes: 0.041164
-    id: ck5hec0kps4q80i119q85zyy6
-    verified: false
-    hashtags: "#sailormoon, #sailorbutthole, #instagram, #kellyeden"
-  - username: "_biggthebarber"
-    fullname: >-
-      Ｂｉｇ Ｇ Ｔｈｅ Ｂａｒｂｅｒ🇲🇽
-    location: "United States"
-    followers: 21821
-    engagement: 240
-    commentsToLikes: 0.052460
-    id: ck6u002dmcv140j71pvzhjdf9
-    verified: false
-    hashtags: "#andis, #howtofadehair, #sickestbarbers, #100kbarbers"
-  - username: "_maddiemason_cosplay"
-    fullname: >-
-      𝑀𝒶𝒹𝒹𝒾𝑒 𝑀𝒶𝓈𝑜𝓃💋
-    location: "United States"
-    followers: 14423
-    engagement: 504
-    commentsToLikes: 0.062740
-    id: ck6ui5ku0d76g0j71ea21muiy
-    verified: false
-    hashtags: "#wonderchamber, #coronavir, #quarantineandchill, #shillouette"
-  - username: "myriahlynn_"
-    fullname: >-
-      Myriah
-    location: "United States"
-    followers: 3083
-    engagement: 1183
-    commentsToLikes: 0.056603
-    id: ck5pzshir2j510i118rk555b7
-    verified: false
-    hashtags: "#keepgoing, #determination, #shotoniphone, #womenempowerment"
-  - username: "abeeveryday"
-    fullname: >-
-      Abraham | Donut Connoisseur
-    location: "United States"
-    followers: 7013
-    engagement: 494
-    commentsToLikes: 0.138286
-    id: ck5pzsgf82iyd0i11bt9qj55g
-    verified: false
-    hashtags: "#bodybuilder, #myfab5, #foodlover, #balance"
-  - username: "dreaming_with_dawson"
-    fullname: >-
-      B. Dawson
-    location: "United States"
-    followers: 61166
-    engagement: 118
-    commentsToLikes: 0.034691
-    id: ck5znntyhotek0i14ek8tute7
-    verified: false
-    hashtags: "#familyroom, #neutralbedroom, #graydecor, #bluedecor"
+    hashtags: "#fashionnova, #lockdown, #quarantena, #blue"
   - username: "nickwspalding"
     fullname: >-
       Nick Spalding
     location: "United States"
-    followers: 14670
-    engagement: 701
-    commentsToLikes: 0.015418
+    followers: 14421
+    engagement: 751
+    commentsToLikes: 0.015285
     id: ck15r7wt86l8t0i1922mdwsbw
     verified: false
-    hashtags: "#designer, #picoftheday, #satx, #atx"
+    hashtags: "#nyc, #fitness, #california, #mensfashion"
+  - username: "_maddiemason_cosplay"
+    fullname: >-
+      𝑀𝒶𝒹𝒹𝒾𝑒 𝑀𝒶𝓈𝑜𝓃💋
+    location: "United States"
+    followers: 16311
+    engagement: 570
+    commentsToLikes: 0.051753
+    id: ck6ui5ku0d76g0j71ea21muiy
+    verified: false
+    hashtags: "#japanesefashion, #promdress, #bodypainting, #fitnessmom"
+  - username: "myriahlynn_"
+    fullname: >-
+      Myriah
+    location: "United States"
+    followers: 3162
+    engagement: 1246
+    commentsToLikes: 0.065855
+    id: ck5pzshir2j510i118rk555b7
+    verified: false
+    hashtags: "#spraytan, #coronawho, #birthdaygirl, #workmodeon"
+  - username: "misssanantonious2020"
+    fullname: >-
+      Miss Guyana 2020 👑
+    location: "United States"
+    followers: 6046
+    engagement: 579
+    commentsToLikes: 0.070729
+    id: ck6u4j0sy3ztk0j710is8q2s2
+    verified: false
+    hashtags: "#branding, #skincare, #cleanbeauty, #pleasedonate"
+  - username: "mo_z1lla"
+    fullname: >-
+      MAURICE
+    location: "United States"
+    followers: 9714
+    engagement: 311
+    commentsToLikes: 0.197794
+    id: ck8tc0kqsxuma0j7822o7f5fp
+    verified: false
+    hashtags: "#wweuniverse, #workouts, #whiteteeth, #savemoney"
   - username: "isabella_radovan"
     fullname: >-
       Isabella Radovan
     location: "United States"
-    followers: 7089
-    engagement: 948
-    commentsToLikes: 0.128449
+    followers: 6965
+    engagement: 1008
+    commentsToLikes: 0.121445
     id: ck5zsbcf2y6el0i143za2i7a8
     verified: false
-    hashtags: "#quay, #nets, #kobebryant, #togetherwearestronger"
-  - username: "littlejewlia"
+    hashtags: "#denim, #chihaircare, #bags, #friends"
+  - username: "texas__abby"
     fullname: >-
-      Julia Galloway
+      Abigail
     location: "United States"
-    followers: 4235
-    engagement: 1502
-    commentsToLikes: 0.041370
-    id: ck5q0ritf7el40i11vet1d8bh
+    followers: 10874
+    engagement: 1314
+    commentsToLikes: 0.055083
+    id: ck8wfyn27ggrt0j78d479r7ag
     verified: false
-    hashtags: "#lifttoneburn, #morningworkout, #tink, #dancer"
+    hashtags: "#texasliving, #missingthegym, #friday, #fakepeople"
+  - username: "chasitymorales_"
+    fullname: >-
+      Chasity Morales
+    location: "United States"
+    followers: 28778
+    engagement: 331
+    commentsToLikes: 0.039356
+    id: ck6tnmnwma5e00j71fcd9iug8
+    verified: false
+    hashtags: "#f45banderapointe, #morethanjustagym, #funtionaltraining, #sanantoniofitness"
+  - username: "elchin_ahmadov_"
+    fullname: >-
+      Elchin Ahmadov
+    location: "United States"
+    followers: 50084
+    engagement: 161
+    commentsToLikes: 0.032906
+    id: ck8t66m6ycfbt0j78bymtg65x
+    verified: false
+    hashtags: "#knockout, #iam1stphorm, #pushupchallenge, #vloglife"
 ---

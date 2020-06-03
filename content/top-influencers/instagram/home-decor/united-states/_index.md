@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In United States In 2020
 description: >-
-  Find top home decor Instagram influencers in United States in 2020. Most popular hashtags: #homedecor #interior #stayhome #art.
+  Find top home decor Instagram influencers in United States in 2020. Most popular hashtags: #bedroomdecor #staysafe #livingroomdecor #kitchen.
 platform: Instagram
 profiles:
+  - username: "letiespadas"
+    fullname: >-
+      Lety Espadas
+    location: "United States"
+    followers: 28112
+    engagement: 192
+    commentsToLikes: 0.459626
+    id: ck0vzx5csbbkn0i19smj5hx8k
+    verified: false
+    hashtags: "#fashionisinthehair, #handmadeinfrance, #colorwowhairgiftedme, #colorwowhair"
   - username: "angeliquecooper"
     fullname: >-
       Angelique Cooper
     location: "United States"
-    followers: 102590
-    engagement: 293
-    commentsToLikes: 0.008804
+    followers: 102952
+    engagement: 280
+    commentsToLikes: 0.011267
     id: ck0w75r7gbw9n0i19kvf4x6jv
     verified: true
-    hashtags: "#bondiboostusa, #ad, #internationalwomensday, #boostyourroots"
+    hashtags: "#deardahlia, #veganfriendly, #biorenosebest, #hawaii"
+  - username: "karen_t_style"
+    fullname: >-
+      Karen
+    location: "United States"
+    followers: 8918
+    engagement: 900
+    commentsToLikes: 0.261905
+    id: ck9wfvjulqohp0j78fg7a806r
+    verified: false
+    hashtags: "#elegantliving, #moodytones, #coffeebar, #classicinterior"
   - username: "mygorgeousmessylife"
     fullname: >-
       ♡𑁍 𝑨𝒍𝒚𝒔𝒔𝒂 𑁍♡
     location: "United States"
-    followers: 16349
-    engagement: 477
-    commentsToLikes: 0.139319
+    followers: 16686
+    engagement: 564
+    commentsToLikes: 0.136416
     id: ck15s0swdanyh0i19dikuvot1
     verified: false
-    hashtags: "#cheerleading, #collagenpeptides, #quarantineandchill, #findingjoy"
-  - username: "casagrella"
+    hashtags: "#giftideasforher, #socalliving, #sponsor, #socallife"
+  - username: "vintagewhisperer"
     fullname: >-
-      Liz | Modern Farmhouse
+      Sandy-{vintage whisperer
     location: "United States"
-    followers: 34450
-    engagement: 312
-    commentsToLikes: 0.251319
-    id: ck0tymq6ynasb0i19xaeuouuz
+    followers: 8409
+    engagement: 863
+    commentsToLikes: 0.093113
+    id: ck9h9sog39t6q0j78ri6pnak5
     verified: false
-    hashtags: "#farmhousefeatures, #ikeasectional, #porchdecor, #candles"
+    hashtags: "#senecastrong, #springdecor, #senecasc, #staysafe"
   - username: "lifes_little_luxuries_1"
     fullname: >-
       Lifeslittleluxuries1
     location: "United States"
-    followers: 14777
-    engagement: 480
-    commentsToLikes: 0.404712
+    followers: 16810
+    engagement: 397
+    commentsToLikes: 0.248581
     id: ck6u5vfv8bz7j0j713pufc1x2
     verified: false
-    hashtags: "#stayhomechallenge, #sunsout, #redrosesbouquet, #homeofinstagram"
+    hashtags: "#girlsroomideas, #designedby, #festivallife, #campinggear"
+  - username: "mycountrylife_idaho"
+    fullname: >-
+      Brandi
+    location: "United States"
+    followers: 4598
+    engagement: 1009
+    commentsToLikes: 0.349060
+    id: ck9wd69tfe90q0j78o6p9x4jc
+    verified: false
+    hashtags: "#waterfall, #mothersdaygift, #bathroom, #hearhim"
   - username: "rebeccarobeson"
     fullname: >-
       Rebecca Robeson
     location: "United States"
-    followers: 129604
-    engagement: 174
-    commentsToLikes: 0.078255
+    followers: 136583
+    engagement: 189
+    commentsToLikes: 0.078777
     id: ck14ij2sufnou0i197ruv5odl
     verified: false
-    hashtags: "#livingroom, #summerfun, #dysonv11outsize, #livingroomdesign"
-  - username: "sabrina_soto"
-    fullname: >-
-      Sabrina Soto
-    location: "United States"
-    followers: 74405
-    engagement: 130
-    commentsToLikes: 0.032149
-    id: ck5ccf506h8u00i119a5fiwhs
-    verified: true
-    hashtags: "#thesotohouse, #sscleanout, #stayhealthy, #washyourhands"
+    hashtags: "#beautifulbaby, #hummingbirds, #bedroomideas, #designcourses"
   - username: "copper_pig_fine_woodworking"
     fullname: >-
       Copper Pig Woodworking
     location: "United States"
-    followers: 38447
-    engagement: 149
-    commentsToLikes: 0.070424
+    followers: 39582
+    engagement: 205
+    commentsToLikes: 0.067856
     id: ck0u1hq71wxlo0i194rbxvqr9
     verified: false
-    hashtags: "#modernheirloom, #sculptureart, #cov, #lineart"
-  - username: "justjillbauer"
+    hashtags: "#keepsakebox, #finewoodworking, #bftype, #makermovement"
+  - username: "sabrina_soto"
     fullname: >-
-      Jill Bauer
+      Sabrina Soto
     location: "United States"
-    followers: 42739
-    engagement: 410
-    commentsToLikes: 0.047578
-    id: ck5qd0stxt9tc0i11e5gpdiv4
-    verified: false
-    hashtags: "#familytimeisthebesttime, #organizedliving, #buildinganewlife, #justjill"
-  - username: "place_ofmy_taste"
-    fullname: >-
-      A n i k o
-    location: "United States"
-    followers: 60676
-    engagement: 107
-    commentsToLikes: 0.038901
-    id: ck55lcfdm19ii0i11vvm9s9rm
-    verified: false
-    hashtags: "#goldendoodlemoments, #kitchen, #neutraldecor, #colorismyjam"
-  - username: "ello_betty"
-    fullname: >-
-      Jaclyn Dryden
-    location: "United States"
-    followers: 21049
-    engagement: 297
-    commentsToLikes: 0.004895
-    id: ck6ud0sbtigh20j71uw5mytgq
-    verified: false
-    hashtags: "#happyholidays, #instatravel, #trip, #interior"
+    followers: 74681
+    engagement: 157
+    commentsToLikes: 0.033885
+    id: ck5ccf506h8u00i119a5fiwhs
+    verified: true
+    hashtags: "#nationalsiblingday, #plantbased, #washyourhands, #sotohouse"
 ---

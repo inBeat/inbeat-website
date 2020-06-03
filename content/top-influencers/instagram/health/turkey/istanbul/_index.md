@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Istanbul In 2020
 description: >-
-  Find top health Instagram influencers in Istanbul in 2020. Most popular hashtags: #istanbul #health #evdekal #food.
+  Find top health Instagram influencers in Istanbul in 2020. Most popular hashtags: #health #istanbul #anatolia #healthy.
 platform: Instagram
 profiles:
-  - username: "serhatkaradagproduction"
+  - username: "aslidogruu"
     fullname: >-
-      Serhat Karadağ
+      Aslı Doğru
     location: "Turkey"
-    followers: 12638
-    engagement: 416
-    commentsToLikes: 0.112975
-    id: ck5ca41jncno20i1123hh6zv1
+    followers: 34928
+    engagement: 659
+    commentsToLikes: 0.035172
+    id: ck0ttn38h3fn30i19kfeeljun
     verified: false
-    hashtags: "#jaw, #offroading, #moonrise, #universetoday"
-  - username: "delicioustastebyib"
+    hashtags: "#cekilis, #karadenizs, #otel, #tesettur"
+  - username: "raykakumru"
     fullname: >-
-      Ecz.İnci Bulut
+      Rayka Kumru, MSx, M.A
     location: "Turkey"
-    followers: 127701
-    engagement: 248
-    commentsToLikes: 0.142865
-    id: ck0w6v4qyaf270i197vb1rr8z
+    followers: 99764
+    engagement: 365
+    commentsToLikes: 0.010085
+    id: ck15rubw39qw10i19u0g28ssc
     verified: false
-    hashtags: "#dinner, #meatless, #cheddar, #sekaktifprobiyotik"
-  - username: "dr.hsynakca"
-    fullname: >-
-      Hüseyin Akça
-    location: "Turkey"
-    followers: 101931
-    engagement: 667
-    commentsToLikes: 0.019939
-    id: ck8t13f66ubvf0j78okpgq7kd
-    verified: false
-    hashtags: "#doctor, #gazimustafakemalatat, #tipfakultesi, #evdekal"
-  - username: "yunusemreakkor"
-    fullname: >-
-      Sertabbah
-    location: "Turkey"
-    followers: 138256
-    engagement: 324
-    commentsToLikes: 0.049229
-    id: ck5zo3lkvpov80i1467ijxhnx
-    verified: true
-    hashtags: "#instadaily, #happy, #breakfast, #kahvalt"
-  - username: "seranintarifleri"
-    fullname: >-
-      Sağlıklı & Fit Tarifler
-    location: "Turkey"
-    followers: 57857
-    engagement: 189
-    commentsToLikes: 0.142083
-    id: ck5q9yigydnjm0i11jioe53ea
-    verified: false
-    hashtags: "#bread, #pancar, #bulgur, #snacks"
-  - username: "berrakberroo"
-    fullname: >-
-      Berrakberroo
-    location: "Turkey"
-    followers: 114053
-    engagement: 141
-    commentsToLikes: 0.112778
-    id: ck5q5c9kcs7tu0i11r3qlv3hf
-    verified: false
-    hashtags: "#besiktas, #yemektarifleri, #picnic, #lemontea"
-  - username: "sevimligurme"
-    fullname: >-
-      Sevimligurme🥝🍕🍗🍒
-    location: "Turkey"
-    followers: 67845
-    engagement: 113
-    commentsToLikes: 0.269962
-    id: ck14khehzpj090i19tduc0bg5
-    verified: false
-    hashtags: "#enfes, #balat, #tarabya, #sariyer"
-  - username: "muhammedbasdag"
-    fullname: >-
-      Muhammed Başdağ
-    location: "Turkey"
-    followers: 329714
-    engagement: 292
-    commentsToLikes: 0.015531
-    id: ck14gn6d161xk0i19semkuqst
-    verified: false
-    hashtags: "#turkey, #health, #tezgelyarim, #cicero"
+    hashtags: "#dijitalfl, #akl, #birazdag, #srhr"
   - username: "hakanchelik"
     fullname: >-
       Hakan Celik
     location: "Turkey"
-    followers: 40965
-    engagement: 169
-    commentsToLikes: 0.041583
+    followers: 41338
+    engagement: 181
+    commentsToLikes: 0.043918
     id: ck5c8dfas98zt0i11zegb5o2m
     verified: true
-    hashtags: "#gambia, #dream, #putin, #paris"
-  - username: "dr.yerebakan"
+    hashtags: "#docohotelvienna, #clio, #radyo, #landrover"
+  - username: "cilgsplate"
     fullname: >-
-      Dr. Halit Yerebakan
+      Cilgs Plate | Çılga’nın Tabağı
     location: "Turkey"
-    followers: 123314
-    engagement: 291
-    commentsToLikes: 0.016071
-    id: ck0udpeayjka80i199tgrm8rj
-    verified: true
-    hashtags: "#trip, #trt1, #istanbul, #koronavir"
+    followers: 41077
+    engagement: 220
+    commentsToLikes: 0.106121
+    id: ck9hb3ooyf9ng0j788xjdl0te
+    verified: false
+    hashtags: "#light, #cikolatalikek, #stayhome, #hindistancevizi"
+  - username: "diyetisyenmelekveyisoglu"
+    fullname: >-
+      Dyt. Melek Veyisoğlu
+    location: "Turkey"
+    followers: 5513
+    engagement: 525
+    commentsToLikes: 0.028179
+    id: ck9wf5chrn9n10j787a5zmvge
+    verified: false
+    hashtags: "#ramazankilokontrolu, #diyetyemekleri, #saglik, #diyetisyen"
+  - username: "emreturkmen"
+    fullname: >-
+      Emre Turkmen
+    location: "Turkey"
+    followers: 11743
+    engagement: 509
+    commentsToLikes: 0.052352
+    id: ck5q4l5tapekb0i11jj0x4u26
+    verified: false
+    hashtags: "#steviewonder, #smile, #bassplayunited, #tatl"
+  - username: "timseyfi"
+    fullname: >-
+      Tim Seyfi
+    location: "Turkey"
+    followers: 4141
+    engagement: 1669
+    commentsToLikes: 0.062852
+    id: ck5zux6wq37680i14h88djlhr
+    verified: false
+    hashtags: "#atiyethegift, #lookingforward, #100years, #happybayram"
+  - username: "aycasarc"
+    fullname: >-
+      Ayca Sarc
+    location: "Turkey"
+    followers: 90144
+    engagement: 178
+    commentsToLikes: 0.108940
+    id: ck15q7es41g1k0i19eojewmw5
+    verified: false
+    hashtags: "#chictshirts, #visualoflife, #cesmebook, #lilacstime"
+  - username: "ahushealthylife"
+    fullname: >-
+      Ahu 🍒
+    location: "Turkey"
+    followers: 13036
+    engagement: 533
+    commentsToLikes: 0.210111
+    id: ck9wfhlm1ouhq0j78ulqrskw6
+    verified: false
+    hashtags: "#apple, #smoothiebowls, #ramazan, #spaghetti"
+  - username: "serhatkaradagproduction"
+    fullname: >-
+      Serhat Karadağ
+    location: "Turkey"
+    followers: 12510
+    engagement: 425
+    commentsToLikes: 0.104632
+    id: ck5ca41jncno20i1123hh6zv1
+    verified: false
+    hashtags: "#producerjams, #astro, #hiking, #nightsky"
 ---

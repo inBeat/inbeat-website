@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Cali In 2020
 description: >-
-  Find top photographers Instagram influencers in Cali in 2020. Most popular hashtags: #cali #colombia #photography #photographer.
+  Find top photographers Instagram influencers in Cali in 2020. Most popular hashtags: #photographer #covid #photooftheday #cali.
 platform: Instagram
 profiles:
-  - username: "cisstian"
-    fullname: >-
-      Cristian Y. Ceron Diaz
-    location: "Colombia"
-    followers: 11572
-    engagement: 743
-    commentsToLikes: 0.034844
-    id: ck6uci6l3fqy50j71dblfy9ux
-    verified: false
-    hashtags: "#streetfashion, #photograpy, #calico, #fashionformen"
-  - username: "fabioarboleda"
-    fullname: >-
-      FABIO ARBOLEDA L⚡️
-    location: "Colombia"
-    followers: 34254
-    engagement: 463
-    commentsToLikes: 0.051378
-    id: ck6tuwi1jithm0j71puf9ijn1
-    verified: false
-    hashtags: "#jiujitsu, #superregioneschallenge, #quedateencasa, #man"
-  - username: "roberttposs"
-    fullname: >-
-      Roberttposs
-    location: "Colombia"
-    followers: 28581
-    engagement: 165
-    commentsToLikes: 0.070774
-    id: ck0w5tne55dvh0i19hwzfpz88
-    verified: false
-    hashtags: "#ginebravalle, #agropecuario, #idcolombia, #marzo16totaligers"
-  - username: "juliethbeltran.s"
-    fullname: >-
-      ℒ𝒶  ℐ𝓃𝒹𝒾𝒶👻🎭
-    location: "Colombia"
-    followers: 11808
-    engagement: 1085
-    commentsToLikes: 0.022778
-    id: ck0w0n4ytf1t30i1911guz9k8
-    verified: false
-    hashtags: "#emprender, #calicolombia, #photooftheday, #luchaportussue"
-  - username: "thomycast"
-    fullname: >-
-      T  H O M Y   C A S T A Ñ O
-    location: "Colombia"
-    followers: 16102
-    engagement: 255
-    commentsToLikes: 0.105315
-    id: ck6txc6k7x0910j71y4itmjut
-    verified: false
-    hashtags: "#outfit, #aesthetics, #moda, #denim"
-  - username: "lucius.ph"
-    fullname: >-
-      ・ＬＵＣＩＵＳ • ＰＨ・
-    location: "Colombia"
-    followers: 2176
-    engagement: 1502
-    commentsToLikes: 0.049186
-    id: ck5zknppsjtci0i149c4cckq6
-    verified: false
-    hashtags: "#lifestyle, #thinkverylittle, #colombia, #medellin"
   - username: "traveloving_colombia"
     fullname: >-
       TRAVELOVING_COLOMBIA
     location: "Colombia"
-    followers: 9545
-    engagement: 706
-    commentsToLikes: 0.463184
+    followers: 9822
+    engagement: 729
+    commentsToLikes: 0.505377
     id: ck0w0n3rnf1jg0i19co3mz5m1
     verified: false
-    hashtags: "#calilasucursaldelcielo, #feb03totaligers, #encasaesmejor, #semanasanta"
-  - username: "ferriveraruiz"
+    hashtags: "#marzodaily, #idlatino, #mayocolo11p, #urbanocali"
+  - username: "andreaswarz"
     fullname: >-
-      Fernando Rivera
+      Andrea Swarz
     location: "Colombia"
-    followers: 41552
-    engagement: 80
-    commentsToLikes: 0.036316
-    id: ck14k0520n1tm0i19mw92y2yp
+    followers: 21659
+    engagement: 195
+    commentsToLikes: 0.013196
+    id: ck55lxq452p5p0i11zmr14925
     verified: false
-    hashtags: "#actoral, #fashionista, #makeupideas, #cediel"
-  - username: "mell_lazala_"
+    hashtags: "#2016, #archives, #wip, #lahavana"
+  - username: "michelleh.lly"
     fullname: >-
-      Mell Lazala
+      Michelle Herrera.
     location: "Colombia"
-    followers: 36496
-    engagement: 928
-    commentsToLikes: 0.022314
-    id: ck15sfxlrctg70i19pbo3nmq8
+    followers: 80807
+    engagement: 1130
+    commentsToLikes: 0.011341
+    id: ck5ch3tm2q27j0i11ygxpgho3
     verified: false
-    hashtags: "#photostudio, #camara, #monteria, #fuego"
-  - username: "javihanaazul"
+    hashtags: "#cuarentena, #beautygirl, #bestoftheday, #baile"
+  - username: "lucius.ph"
     fullname: >-
-      Javihana Azul
+      ・ＬＵＣＩＵＳ • ＰＨ・
     location: "Colombia"
-    followers: 119510
-    engagement: 170
-    commentsToLikes: 0.033847
-    id: ck5qbgmcnliuz0i11dl3yd8c7
+    followers: 2092
+    engagement: 1574
+    commentsToLikes: 0.048279
+    id: ck5zknppsjtci0i149c4cckq6
     verified: false
-    hashtags: "#bodybuilding, #video, #team, #woman"
+    hashtags: "#35mm, #afternoon, #darkqueen"
+  - username: "kodachiphotos"
+    fullname: >-
+      KODACHI 🕶️
+    location: "Colombia"
+    followers: 16457
+    engagement: 179
+    commentsToLikes: 0.048740
+    id: ck5zuf1y828nk0i143w6tpouj
+    verified: false
+    hashtags: "#palms, #gorgeous, #espa, #covergirl"
+  - username: "lulabarriosc"
+    fullname: >-
+      Luisa Barrios
+    location: "Colombia"
+    followers: 121546
+    engagement: 486
+    commentsToLikes: 0.019891
+    id: ck14kjunypv330i19iag2r0df
+    verified: false
+    hashtags: "#funcionalfit, #asana, #happymothersday, #surprise"
+  - username: "supreet_sahoo_"
+    fullname: >-
+      Supreet Sahoo
+    location: "Colombia"
+    followers: 107291
+    engagement: 211
+    commentsToLikes: 0.020350
+    id: ck0tvni19c1190i19j81v5wr3
+    verified: false
+    hashtags: "#coffee, #lockdown, #waterbirds, #cocoichibanya"
+  - username: "juliethbeltran.s"
+    fullname: >-
+      India🖤☠
+    location: "Colombia"
+    followers: 11994
+    engagement: 885
+    commentsToLikes: 0.021552
+    id: ck0w0n4ytf1t30i1911guz9k8
+    verified: false
+    hashtags: "#sonr, #amateconlocura, #photographs, #vive"
+  - username: "alejosses"
+    fullname: >-
+      Alejandro Osses
+    location: "Colombia"
+    followers: 5644
+    engagement: 507
+    commentsToLikes: 0.059921
+    id: ckaortrvpopqp0i787n3dcqch
+    verified: false
+    hashtags: "#comidacallejera, #haypatodos, #medellin, #cultura"
+  - username: "davidvisuals_ph"
+    fullname: >-
+      David Pinilla
+    location: "Colombia"
+    followers: 37964
+    engagement: 847
+    commentsToLikes: 0.111113
+    id: ck5hmy57bmuih0i11uont2ws2
+    verified: false
+    hashtags: "#sonyimages, #igpodium, #ftwotw, #ftmedd"
 ---

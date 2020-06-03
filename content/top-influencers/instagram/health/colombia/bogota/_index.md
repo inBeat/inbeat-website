@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Bogotá In 2020
 description: >-
-  Find top health Instagram influencers in Bogotá in 2020. Most popular hashtags: #colombia #health #medellin #quedateencasa.
+  Find top health Instagram influencers in Bogotá in 2020. Most popular hashtags: #bogota #quedateencasa #colombia #love.
 platform: Instagram
 profiles:
   - username: "juanda_aldana"
     fullname: >-
       JUAN DAVID ALDANA
     location: "Colombia"
-    followers: 389991
-    engagement: 735
-    commentsToLikes: 0.017561
+    followers: 383307
+    engagement: 754
+    commentsToLikes: 0.017572
     id: ck5ci7d94s5ie0i11plstqfw8
     verified: false
-    hashtags: "#energydrink, #pleasure, #relax, #summer"
-  - username: "foodfromtheheart"
+    hashtags: "#tbt, #nature, #siemprefuerte, #vpxsports"
+  - username: "the_runaddict"
     fullname: >-
-      Lauren Arboleda
+      George | Running & Tri Junkie
     location: "Colombia"
-    followers: 82975
-    engagement: 127
-    commentsToLikes: 0.031613
-    id: ck0typeagnnfk0i19tbu4o2t8
+    followers: 9292
+    engagement: 811
+    commentsToLikes: 0.102786
+    id: ckaozhml1lxdo0i78gltg1vkd
     verified: false
-    hashtags: "#fruits, #receta, #tostadafrancesa, #mclatinotv"
-  - username: "fitnessbyjanice"
+    hashtags: "#gayfit, #pride, #igrunner, #coparunners"
+  - username: "alitaclimbing"
     fullname: >-
-      Janice Betancourt
+      alita climbing
     location: "Colombia"
-    followers: 89286
-    engagement: 615
-    commentsToLikes: 0.048905
-    id: ck6tvbpwelbdg0j71dzv7ptjr
+    followers: 28409
+    engagement: 263
+    commentsToLikes: 0.052228
+    id: ck6u2l2hcsfge0j71ufj1bcx3
     verified: false
-    hashtags: "#swipeup, #timetorelax, #fitnesslifestyle, #celsiuslivefit"
-  - username: "kevinherreramx"
+    hashtags: "#coordination, #instalive, #ejercicios, #adventuregirl"
+  - username: "juanseayala"
     fullname: >-
-      Kevin Herrera
+      Juan Sebastián Ayala
     location: "Colombia"
-    followers: 32872
-    engagement: 624
-    commentsToLikes: 0.051008
-    id: ck0vwy7mew6fb0i19uj97e22a
+    followers: 57400
+    engagement: 88
+    commentsToLikes: 0.052126
+    id: ck6u3hplkxujx0j71bhhxaa90
     verified: false
-    hashtags: "#lights, #fitness, #latinos, #poloralphlauren"
-  - username: "marianelamodel"
+    hashtags: "#quinua, #apio, #entrenaencasa, #macros"
+  - username: "nata.diazg"
     fullname: >-
-      Marianela💋Ramos
+      Natalia Diaz
     location: "Colombia"
-    followers: 44684
-    engagement: 657
-    commentsToLikes: 0.021936
-    id: ck5q3ihpokw7e0i11gl42nznm
+    followers: 3258
+    engagement: 557
+    commentsToLikes: 0.023196
+    id: ck137de6eazkg0i197e8smifp
     verified: false
-    hashtags: "#argentina, #tendencia, #miss, #blondehair"
-  - username: "melissalopez302"
+    hashtags: "#gymfitness, #legday, #fitvideos, #likeforlikes"
+  - username: "giannimichielin"
     fullname: >-
-      Melylopez🇨🇴
+      Giannina Michielin Roa
     location: "Colombia"
-    followers: 111553
-    engagement: 108
-    commentsToLikes: 0.025672
-    id: ck5c7ld9p7qsh0i11qryq9pd1
+    followers: 39018
+    engagement: 133
+    commentsToLikes: 0.115684
+    id: ck0w3n7rnu9n80i19d99jvcmt
     verified: false
-    hashtags: "#beauty, #virus, #corana, #chef"
-  - username: "crissgeithner"
+    hashtags: "#endlesslove, #cocacolalover, #yocreoencali, #amor"
+  - username: "rickymt28"
     fullname: >-
-      Aura Cristina Geithner
+      Ricky 🎖
     location: "Colombia"
-    followers: 498093
-    engagement: 321
-    commentsToLikes: 0.030707
-    id: ck0uabjx7bs1c0i19j1qfk3sm
-    verified: true
-    hashtags: "#lapotradelabanda, #instalike, #mujeres, #bogota"
-  - username: "fhervargasofficial"
-    fullname: >-
-      F H E R   V A R G A S
-    location: "Colombia"
-    followers: 58585
-    engagement: 95
-    commentsToLikes: 0.050598
-    id: ck8t72aepfe960j788yrrlw29
+    followers: 12899
+    engagement: 1243
+    commentsToLikes: 0.004747
+    id: ck1385wmremus0i19uwx884pz
     verified: false
-    hashtags: "#bailemosconfher, #dance, #champeta, #freestyle"
-  - username: "ginapaola"
+    hashtags: "#fotoelevador, #meninsuit, #sanandres, #gymlovers"
+  - username: "marrana.eats"
     fullname: >-
-      Gina Barranco🔮
+      MARRANA Eats
     location: "Colombia"
-    followers: 12032
-    engagement: 921
-    commentsToLikes: 0.045978
-    id: ck5qbsdbxn6c60i11duhnjvfp
+    followers: 21232
+    engagement: 490
+    commentsToLikes: 0.539433
+    id: ck5ch6qvwq7de0i11f0c2mnfo
     verified: false
-    hashtags: "#dogillustration, #bunny, #traveldrawing, #staythefhome"
-  - username: "juandaimond"
+    hashtags: "#frenchtoast, #foodaholic, #marrana, #alitas"
+  - username: "fancyfitfun"
     fullname: >-
-      JUANDAIMOND
+      𝕔𝕒𝕣𝕠𝕝𝕚𝕟𝕒 ✩ 𝕤𝕒𝕞𝕡𝕖𝕣 ®
     location: "Colombia"
-    followers: 47003
-    engagement: 516
-    commentsToLikes: 0.026475
-    id: ck6u91mx3uyoz0j71kuvli029
+    followers: 28644
+    engagement: 107
+    commentsToLikes: 0.010233
+    id: ck8t01ne6qj2w0j780tkp5wfu
     verified: false
-    hashtags: "#stayhome, #mequedoencasa, #stayhappy, #stayathome"
+    hashtags: "#snacks, #lentils, #foodgram, #myhappiness"
+  - username: "mcarolinapadilla"
+    fullname: >-
+      María Carolina Padilla Durán
+    location: "Colombia"
+    followers: 7221
+    engagement: 1585
+    commentsToLikes: 0.040135
+    id: ckap4b8sf6kuo0i782a68d4ls
+    verified: false
+    hashtags: "#family, #cool, #vsco, #fit"
 ---

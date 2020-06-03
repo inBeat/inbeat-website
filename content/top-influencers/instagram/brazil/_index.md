@@ -1,109 +1,109 @@
 ---
 title: Top 10 Instagram Influencers In Brazil In 2020
 description: >-
-  Find top Instagram influencers in Brazil in 2020. Most popular hashtags: #pov #fyp #dueto #foryou.
+  Find top Instagram influencers in Brazil in 2020. Most popular hashtags: #looks #girls #moda #model.
 platform: Instagram
 profiles:
-  - username: "jotaperibeiro"
+  - username: "diogoanjosr_"
     fullname: >-
-      Jotape
+      𝗗𝗶𝗼𝗴𝗼 𝗔𝗻𝗷𝗼𝘀
     location: "Brazil"
-    followers: 60634
-    engagement: 744
-    commentsToLikes: 0.089924
-    id: ck8wf64wwf6uu0j787fwirnju
+    followers: 2271
+    engagement: 5313
+    commentsToLikes: 0.150009
+    id: ck9wf5u8fnbni0j78za2ahgsy
     verified: false
-    hashtags: "#fuicancelado, #reagir, #dueto, #mundodorock"
-  - username: "brenogonzalez"
+    hashtags: "#homesweethome, #summer, #fitness, #madrid"
+  - username: "ana_lidya"
     fullname: >-
-      Breno Gonzalez
+      Ana Lídia
     location: "Brazil"
-    followers: 83329
-    engagement: 1620
-    commentsToLikes: 0.105033
-    id: ck8wenv9pecea0j78ggtlzjai
+    followers: 3395
+    engagement: 4439
+    commentsToLikes: 1.242019
+    id: ckap1g6x0ugjf0i785oq4xeza
     verified: false
-    hashtags: "#dueto, #foryou, #pov, #piscadinhadobreno"
-  - username: "gabrielle.maiaa"
+    hashtags: "#joyalyfashion, #princesasifb, #lookevangelico, #blogueiragospel"
+  - username: "naaymacedo"
     fullname: >-
-      Gabrielle Maia
+      Nayara Macedo 🦋
     location: "Brazil"
-    followers: 71240
-    engagement: 1048
-    commentsToLikes: 0.046841
-    id: ck8wel545e7tl0j78fq6pvm7x
+    followers: 17658
+    engagement: 4169
+    commentsToLikes: 0.155186
+    id: ck0w19nxdi8uw0i1907eb6swb
     verified: false
-    hashtags: "#dueto, #reagir, #pov, #voltatiktok"
-  - username: "190pietro"
+    hashtags: ""
+  - username: "beatriz_albertins"
     fullname: >-
-      Pietro Guedes
+      bea ツ
     location: "Brazil"
-    followers: 140433
-    engagement: 2759
-    commentsToLikes: 0.047233
-    id: ck8wgjru5hhjr0j78g7md8l67
+    followers: 3264
+    engagement: 3840
+    commentsToLikes: 0.281472
+    id: ck8tdch1w2stf0j78ij8lu8jp
     verified: false
-    hashtags: "#lomotif, #dueto, #pov"
-  - username: "_luhsetra_"
+    hashtags: "#tbt"
+  - username: "luca912.s"
     fullname: >-
-      Luiza Setra
+      Luca | Böblingen 📍
     location: "Brazil"
-    followers: 351375
-    engagement: 1924
-    commentsToLikes: 0.032142
-    id: ck6udhdlul4bo0j713z69jx6n
+    followers: 2138
+    engagement: 3785
+    commentsToLikes: 0.550711
+    id: ckap2mykjzjqh0i78zhxjqmtt
     verified: false
-    hashtags: "#teamcupnoodles, #duet, #pov, #voltatiktok"
-  - username: "isabelle.rosa"
+    hashtags: "#blackfashion, #menswearblog, #outfitoftheday, #werbung"
+  - username: "sah_figueiredo_"
     fullname: >-
-      Isabelle Rosa♡
+      Sarah Figueiredo
     location: "Brazil"
-    followers: 46402
-    engagement: 692
-    commentsToLikes: 0.052366
-    id: ck8wczsnid8250j78eaqj5tte
+    followers: 3885
+    engagement: 3398
+    commentsToLikes: 0.131679
+    id: ckaoxx3nyf4ma0i784j54o8cl
     verified: false
-    hashtags: "#pov, #paravoce, #fyp, #fy"
-  - username: "amanda_mora3ss"
+    hashtags: "#jovenselegantes, #saialonga, #verde, #lookdodia"
+  - username: "vitoriagomez5887"
     fullname: >-
-      𝓪𝓶𝓪𝓷𝓭𝓪 𝓶𝓸𝓻𝓪𝓮𝓼🌺
+      Vitória Gomez
     location: "Brazil"
-    followers: 9544
-    engagement: 2202
-    commentsToLikes: 0.064746
-    id: ck8wepespeexu0j78qgu5wk63
+    followers: 2184
+    engagement: 3390
+    commentsToLikes: 0.174310
+    id: ck8t32x1q1nby0j788frbh3ys
     verified: false
-    hashtags: "#magic, #fyou, #whirlpool, #fory"
-  - username: "its.leite"
+    hashtags: "#emcasadeboa, #quinta, #grataadeus, #tebete"
+  - username: "hugo.milgrau"
     fullname: >-
-      Tiago Leite
+      Hugo Ferreira
     location: "Brazil"
-    followers: 52421
-    engagement: 978
-    commentsToLikes: 0.048516
-    id: ck5zq9csvu6iw0i14d80ke45g
+    followers: 2025526
+    engagement: 3363
+    commentsToLikes: 1.705999
+    id: ck14llbw7v8tu0i192xnt7vbc
     verified: false
-    hashtags: "#fyp, #coronavirus, #famleite, #fyp"
-  - username: "joshbeauchamp"
+    hashtags: "#r1200gsa, #bmwr1200gs, #quarentena, #bmw"
+  - username: "sweetcarolinnee"
     fullname: >-
-      Josh Beauchamp
+      Caroline Machado
     location: "Brazil"
-    followers: 2654181
-    engagement: 1466
-    commentsToLikes: 0.054656
-    id: ck13ck5840r110i19eic2gro9
-    verified: true
-    hashtags: "#minirexonanowunited, #nowunited, #jackboys, #outwest"
-  - username: "biaa.rabelo"
-    fullname: >-
-      ♡ bia rabelo ♡
-    location: "Brazil"
-    followers: 324364
-    engagement: 1388
-    commentsToLikes: 0.554185
-    id: ck0w6x5i5aol60i19ipx64e5q
+    followers: 2238
+    engagement: 3127
+    commentsToLikes: 0.167319
+    id: ckaosfv2jrfmm0i788hlvbuev
     verified: false
-    hashtags: "#rockinrio, #pov, #routine, #nighroutine"
+    hashtags: "#segredosdebelezachallenge"
+  - username: "kelly__faria"
+    fullname: >-
+      KV.
+    location: "Brazil"
+    followers: 2234
+    engagement: 2899
+    commentsToLikes: 0.147308
+    id: ck9wh5a9bwbbq0j78bgfzcp5y
+    verified: false
+    hashtags: "#atedaquiaporto, #adventurenordeste"
 cities:
   - name: Rio de Janeiro
     link: /instagram/brazil/rio-de-janeiro

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In Japan In 2020
 description: >-
-  Find top outdoors Instagram influencers in Japan in 2020. Most popular hashtags: #japan #camp #outdoor #fishing.
+  Find top outdoors Instagram influencers in Japan in 2020. Most popular hashtags: #outdoors #relax #beach #instagood.
 platform: Instagram
 profiles:
-  - username: "mii_raja"
-    fullname: >-
-      mii
-    location: "Japan"
-    followers: 10658
-    engagement: 1673
-    commentsToLikes: 0.054539
-    id: ck0w2psf8pkwy0i194dlivzka
-    verified: false
-    hashtags: "#kitty, #ilovemycat, #outdoor, #pierce"
-  - username: "cgerock"
-    fullname: >-
-      cgeRock
-    location: "Japan"
-    followers: 54746
-    engagement: 670
-    commentsToLikes: 0.023076
-    id: ck14kr41lqwak0i191t5g2slt
-    verified: false
-    hashtags: "#toyphotography, #toyzsnap, #graphicroozane, #toyphotographer"
-  - username: "ri1ho"
-    fullname: >-
-      りほ
-    location: "Japan"
-    followers: 36783
-    engagement: 483
-    commentsToLikes: 0.012692
-    id: ck5q15gxm9dl40i11stkaquuz
-    verified: false
-    hashtags: "#touring, #fujimi, #jse, #workout"
-  - username: "my_life_in_trek"
-    fullname: >-
-      Marika Ciaccia
-    location: "Japan"
-    followers: 21216
-    engagement: 206
-    commentsToLikes: 0.039316
-    id: ck14j0e0ahzvz0i1995zlfsn5
-    verified: false
-    hashtags: "#fuckthevirus, #salomonwmn"
   - username: "kasemaru.good.old.days"
     fullname: >-
       kasemaru
     location: "Japan"
-    followers: 15348
-    engagement: 1033
-    commentsToLikes: 0.022110
+    followers: 17209
+    engagement: 938
+    commentsToLikes: 0.024016
     id: ck0w6vq29ahqt0i19u6svyvbg
     verified: false
-    hashtags: "#wildcamp, #sunbeam, #backpacking, #japanesefood"
-  - username: "mym__h"
+    hashtags: "#campzine, #trekking, #happymum, #treephotography"
+  - username: "mh_alexandra"
     fullname: >-
-      まゆみです。
+      𝑨𝒍𝒆𝒙𝒂𝒏𝒅𝒓𝒂
     location: "Japan"
-    followers: 6026
-    engagement: 1887
-    commentsToLikes: 0.018275
-    id: ck5hqcyfrswk20i11sje3kfek
+    followers: 6272
+    engagement: 863
+    commentsToLikes: 0.090149
+    id: ck9wozpkw76ir0j78vqeli40r
     verified: false
-    hashtags: "#okamadon, #tekkotsucamping, #hinataoutdoor, #fashion"
-  - username: "joelmcdowell"
+    hashtags: "#cute, #laughter, #houseparty, #recipe"
+  - username: "debbieontheroad"
     fullname: >-
-      JOEL MCDOWELL | New Zealand
+      GoPro | Travel | Underwater 💎
     location: "Japan"
-    followers: 10138
-    engagement: 636
-    commentsToLikes: 0.046274
-    id: ck0w60vs16dl90i19sdskpm3o
+    followers: 15067
+    engagement: 477
+    commentsToLikes: 0.117757
+    id: ckap59a57aqp50i78qbn0yvmv
     verified: false
-    hashtags: "#matsumoto, #yudanaka, #kathmandugear, #limpopo"
-  - username: "ippei.janine"
+    hashtags: "#scubadiving, #underwaterworld, #wisdom, #pensieri"
+  - username: "johnyeo5561"
     fullname: >-
-      Ippei & Janine Photography
+      John Yeo
     location: "Japan"
-    followers: 5174
-    engagement: 758
-    commentsToLikes: 0.042220
-    id: ck6ugrxn84t1d0j71t5hymu5w
+    followers: 8850
+    engagement: 1604
+    commentsToLikes: 0.020017
+    id: ck55ptkzbbcls0i11le42phwy
     verified: false
-    hashtags: "#sonya9, #tokyofamilyweekend, #tokyopreweddingphotographer, #kidsatplay"
-  - username: "mecan_"
+    hashtags: "#mazdared, #vietnamtravel, #sixpacks, #cabincrewdays"
+  - username: "momojuicypeach"
     fullname: >-
-      Steven West
+      MIDORI❤︎
     location: "Japan"
-    followers: 9198
-    engagement: 1403
-    commentsToLikes: 0.029719
-    id: ck0u19wnyw8190i190sze4nj5
+    followers: 10707
+    engagement: 525
+    commentsToLikes: 0.049736
+    id: ck5hia0jfcf8e0i113u84sjzl
     verified: false
-    hashtags: "#jaws, #palau, #scubadiving, #dolphins"
-  - username: "chizuru_1030"
+    hashtags: "#love, #wanderlust, #outdoors, #mtfuji"
+  - username: "ltietjens"
     fullname: >-
-      釣りガール💜CHIZURU
+      Lotta 🇸🇪 Sweden / ❤️
     location: "Japan"
-    followers: 3345
-    engagement: 1730
-    commentsToLikes: 0.021184
-    id: ck5cde2lqj0eh0i11613eqf1v
+    followers: 2350
+    engagement: 3391
+    commentsToLikes: 0.235456
+    id: ckap4p6xj895u0i78odjnbbz2
     verified: false
-    hashtags: "#shimano, #dewycel, #preciousvaluabledewycel, #cat"
+    hashtags: "#orchidea, #rapsfa, #fiftyshades, #instasunset"
+  - username: "jerometraveller"
+    fullname: >-
+      JÉRÔME • NYC • Spiderman 🕷
+    location: "Japan"
+    followers: 24931
+    engagement: 666
+    commentsToLikes: 0.073594
+    id: ck0w2ijneojfo0i1994eoyr3c
+    verified: false
+    hashtags: "#glow, #discovertokyo, #hotel, #torreeiffel"
+  - username: "saayaai"
+    fullname: >-
+      Saaya
+    location: "Japan"
+    followers: 7192
+    engagement: 1570
+    commentsToLikes: 0.023084
+    id: ck9wf6t2qnfsl0j78qo8pyz7l
+    verified: false
+    hashtags: "#outdoorlifestyle, #woodcraft, #outdoorlife, #mountainscape"
+  - username: "planetx44"
+    fullname: >-
+      𝕠𝕙𝕥𝕒𝕜𝕖✿𝘀𝗵𝗶𝘇𝘂𝗼𝗸𝗮🍵
+    location: "Japan"
+    followers: 14587
+    engagement: 896
+    commentsToLikes: 0.048920
+    id: ck5hnjegrnvqh0i11w2k8e9nk
+    verified: false
+    hashtags: "#numa, #adobepartner, #meetsurugabay, #lightroomweek"
+  - username: "honor_valencia"
+    fullname: >-
+      Honor Valencia
+    location: "Japan"
+    followers: 65225
+    engagement: 46
+    commentsToLikes: 0.137834
+    id: ck0ucp8ushfjp0i19l6oikwb3
+    verified: false
+    hashtags: "#warmup, #calisthenics, #corestrengthening, #hydrogenwater"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top yoga Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #yogapractice #yoga #yogalove.
+  Find top yoga Instagram influencers in Switzerland in 2020. Most popular hashtags: #yogapractice #selflove #yogaflow #staystrong.
 platform: Instagram
 profiles:
-  - username: "vanessaciliberto"
+  - username: "_tamayoga"
     fullname: >-
-      Vanessa Ciliberto
+      Tam 🤸🏼‍♀️ Genève
     location: "Switzerland"
-    followers: 31706
-    engagement: 235
-    commentsToLikes: 0.055074
-    id: ck13818dje0cm0i19wc2t5wyc
+    followers: 8632
+    engagement: 912
+    commentsToLikes: 0.139799
+    id: ck9wewvnmm7gp0j78g4k2bokx
     verified: false
-    hashtags: "#familyfirst, #gobig, #medicom, #babysister"
+    hashtags: ""
   - username: "geraldine.antoinette"
     fullname: >-
       Geraldine Antoinette Yoga ૐ
     location: "Switzerland"
-    followers: 8518
-    engagement: 597
-    commentsToLikes: 0.231257
+    followers: 8856
+    engagement: 700
+    commentsToLikes: 0.189804
     id: ck5zoznc1rp4w0i14wjljzi0q
     verified: false
-    hashtags: "#boredinthehouse, #gypsysoul, #feelinggood, #glowingskin"
-  - username: "roxy_the_traveling_yogi"
+    hashtags: "#spiderman, #athome, #ramones, #nogravity"
+  - username: "neyvabaudelaire"
     fullname: >-
-      Roxy 🌏
+      Aivah En El Trance
     location: "Switzerland"
-    followers: 12670
-    engagement: 465
-    commentsToLikes: 0.109352
-    id: ck8sydhkfkie80j78v61veaxg
+    followers: 10975
+    engagement: 739
+    commentsToLikes: 0.027120
+    id: ck138a21bf8hc0i19tq99i8d4
     verified: false
-    hashtags: "#yoga, #yogainversions, #yogastretching, #yogasoul"
+    hashtags: "#morning, #altstadt, #skulllover, #staystrong"
+  - username: "linda_eden"
+    fullname: >-
+      Linda Eden 🧘🏽‍♀️
+    location: "Switzerland"
+    followers: 2799
+    engagement: 1221
+    commentsToLikes: 0.088125
+    id: ck6tyyjik6ljk0j717d056aoj
+    verified: false
+    hashtags: "#paradise, #city, #gianthammock, #stayathome"
   - username: "clemeyoga"
     fullname: >-
       Clementine Evrard
     location: "Switzerland"
-    followers: 30683
-    engagement: 271
-    commentsToLikes: 0.089148
+    followers: 30890
+    engagement: 216
+    commentsToLikes: 0.108554
     id: ck0w16bw9hrm40i19sxxdse3v
     verified: false
-    hashtags: "#balancingpose, #yoagvideo, #myyoga, #crowpose"
+    hashtags: "#yogablogger, #tiptoeintospring, #yogaforfun, #yogaposes"
+  - username: "chloe_sillieres"
+    fullname: >-
+      Chloé Sillieres
+    location: "Switzerland"
+    followers: 6574
+    engagement: 513
+    commentsToLikes: 0.027402
+    id: ck6u7ujkxnq5v0j71cso5ggke
+    verified: false
+    hashtags: "#happydance, #familyfirst, #getlost, #goodluck"
   - username: "satyaoblette"
     fullname: >-
       SATYA OBLETTE
     location: "Switzerland"
-    followers: 6050
-    engagement: 842
-    commentsToLikes: 0.109267
+    followers: 6010
+    engagement: 682
+    commentsToLikes: 0.104576
     id: ck6tv1xqejpix0j716dqkfkfn
     verified: false
-    hashtags: "#valentinesday, #maharajacollection, #blue, #green"
+    hashtags: "#happyfriday, #modelphoto, #gulfstreamg650, #fashionblogger"
   - username: "naturellymichaela"
     fullname: >-
-      Michaela | Nature & Yoga 🇨🇭
+      Michaela | Hiking & Yoga 🇨🇭
     location: "Switzerland"
-    followers: 11675
-    engagement: 872
-    commentsToLikes: 0.107534
+    followers: 12410
+    engagement: 788
+    commentsToLikes: 0.115745
     id: ck5q428yenfmb0i11boehhrcy
     verified: false
-    hashtags: "#winter, #bloggersgiveaway, #sauna, #schneeschuharena"
+    hashtags: "#ballstad, #earthdayquotes, #doyoga, #fisherboat"
   - username: "chriscarpnter"
     fullname: >-
       Chris Carpenter
     location: "Switzerland"
-    followers: 25774
-    engagement: 216
-    commentsToLikes: 0.042019
+    followers: 25581
+    engagement: 218
+    commentsToLikes: 0.042270
     id: ck137jug6bwly0i19bkgwqwvp
     verified: false
-    hashtags: "#skydiving, #squirrel, #speedflying, #zicatela"
-  - username: "malerindeskosmos"
+    hashtags: "#zicatela, #lovingnature, #speedflying, #surfergirl"
+  - username: "luviyo"
     fullname: >-
-      KOSMOS YOGA
+      L U V I Y O
     location: "Switzerland"
-    followers: 2240
-    engagement: 1128
-    commentsToLikes: 0.060016
-    id: ck5q8e1ui5pu80i11o7w4k63s
+    followers: 40126
+    engagement: 165
+    commentsToLikes: 0.024969
+    id: ck8tc4pi9ya0t0j7897zq68re
     verified: false
-    hashtags: "#travelthoughts"
-  - username: "chloe_sillieres"
-    fullname: >-
-      Chloé Sillieres
-    location: "Switzerland"
-    followers: 6521
-    engagement: 533
-    commentsToLikes: 0.025139
-    id: ck6u7ujkxnq5v0j71cso5ggke
-    verified: false
-    hashtags: "#rideonjake, #motherearth, #happydance, #goodluck"
-  - username: "jea.ruh"
-    fullname: >-
-      Jeannette Ruh | Food Styling
-    location: "Switzerland"
-    followers: 26208
-    engagement: 122
-    commentsToLikes: 0.040436
-    id: ck5hk9z6ni1tm0i11pl6v05aa
-    verified: false
-    hashtags: "#tarte, #pizza, #biotta, #health"
+    hashtags: "#luviyo, #yogamat, #guidedbyangie, #yogamatchallenge"
 ---

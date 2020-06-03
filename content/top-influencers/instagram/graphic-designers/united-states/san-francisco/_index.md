@@ -1,69 +1,79 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in San Francisco in 2020. Most popular hashtags: #graphicdesign #graphicdesigner #sanfrancisco #funny.
+  Find top graphic-designers Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #graphicdesign #graphicdesigner #newyork.
 platform: Instagram
 profiles:
   - username: "lunarkris"
     fullname: >-
-      🌙 KRIS ✨
+      🌙 KRIS ✨ DFW Model
     location: "United States"
     followers: 6773
-    engagement: 632
-    commentsToLikes: 0.072017
+    engagement: 617
+    commentsToLikes: 0.065339
     id: ck6tmm1kh838u0j71xawbnzgq
     verified: false
-    hashtags: "#dfwphotographer, #eventplanner, #laphotographer, #selfportraits"
+    hashtags: "#makeupinstagram, #dfweventplanner, #makeupinspo, #eatyourheartout"
+  - username: "abarcasv21"
+    fullname: >-
+      Angel Abarca
+    location: "United States"
+    followers: 6108
+    engagement: 398
+    commentsToLikes: 0.030564
+    id: ck6uddfnokgvr0j719wj11jvg
+    verified: false
+    hashtags: "#beachdays, #dopeports, #portraitfolk, #elsalvador"
   - username: "monimonanabanana"
     fullname: >-
       Moni Monana Banana 🍌
     location: "United States"
-    followers: 11000
-    engagement: 858
-    commentsToLikes: 0.040054
+    followers: 10912
+    engagement: 882
+    commentsToLikes: 0.039298
     id: ck6ufgnypwxx80j713pke2up8
     verified: false
-    hashtags: "#goprohero, #enmemoriadelosrosales, #puespamiprimalacoja, #goproes"
-  - username: "jakeisco0l"
+    hashtags: "#glorydays, #bohol, #staythefuckhome, #ridestore"
+  - username: "bakon_one"
     fullname: >-
-      Jake Russell Gavino
+      Joey
     location: "United States"
-    followers: 2467
-    engagement: 2009
-    commentsToLikes: 0.041454
-    id: ck5zt92fazyyf0i14r8jsysgi
+    followers: 33668
+    engagement: 371
+    commentsToLikes: 0.018282
+    id: ck0tvqnhacfq80i192gemsjtg
     verified: false
-    hashtags: "#digitalart, #missyelliot, #merryhalloween, #ballpit"
-  - username: "jermie_jerms"
-    fullname: >-
-      💎 Jeremy (𝕵𝖊𝖗𝖒) Co
-    location: "United States"
-    followers: 11166
-    engagement: 952
-    commentsToLikes: 0.024914
-    id: ck14htklvc2hb0i198p9yir8y
-    verified: false
-    hashtags: "#vectorart, #behance, #occultart, #streetstyle"
-  - username: "createbymadden"
-    fullname: >-
-      Create by madden LLC
-    location: "United States"
-    followers: 22478
-    engagement: 308
-    commentsToLikes: 0.292887
-    id: ck6tqpknht0ck0j71wwgurctc
-    verified: false
-    hashtags: "#customsigns, #gown, #baby, #branding"
+    hashtags: "#tattoos, #puttininwork, #sanfrancisco49ers, #ninergang"
   - username: "cg_geeks"
     fullname: >-
       CG Geek
     location: "United States"
-    followers: 16964
-    engagement: 834
-    commentsToLikes: 0.020578
+    followers: 22190
+    engagement: 784
+    commentsToLikes: 0.020132
     id: ck6ubiuaw9ua40j71766urpnx
     verified: false
-    hashtags: "#cinema4d, #3d, #graphicdesign, #rocks"
+    hashtags: "#openstreetmap, #clay, #googlemaps, #mountains"
+  - username: "createbymadden"
+    fullname: >-
+      Create by madden LLC
+    location: "United States"
+    followers: 24503
+    engagement: 371
+    commentsToLikes: 0.735130
+    id: ck6tqpknht0ck0j71wwgurctc
+    verified: false
+    hashtags: "#eventorganizer, #flowers, #learning, #reclaimedwood"
+  - username: "wrenchbone"
+    fullname: >-
+      Vjeko (v-ye-ko)
+    location: "United States"
+    followers: 34591
+    engagement: 214
+    commentsToLikes: 0.013768
+    id: ck8t02rzmqmxs0j785d5ahios
+    verified: false
+    hashtags: "#pencilart, #legos, #motorbikes, #legominifigures"
   - username: "gillie_edits"
     fullname: >-
       GillieEdits
@@ -74,34 +84,24 @@ profiles:
     id: ck13d16o8357m0i19vxn12x2y
     verified: false
     hashtags: "#espn, #battlehawks, #bigred, #patrickmahomes"
-  - username: "drawntothegame"
+  - username: "logosix"
     fullname: >-
-      Drawn To The Game 🔥🐉 🏈⚡️
+      Logosix ⭐ Design
     location: "United States"
-    followers: 6685
-    engagement: 1674
-    commentsToLikes: 0.044866
-    id: ck0w18jqyi2u70i19k9vnne1e
+    followers: 175959
+    engagement: 113
+    commentsToLikes: 0.014336
+    id: ck8t0t2ejt7930j78clz1ttdq
     verified: false
-    hashtags: "#framed8x10, #100seasons, #defensivebacks, #pitt"
-  - username: "manchildmanor"
+    hashtags: "#customlogo, #cinema, #designer, #logotutorial"
+  - username: "misslucyfleur"
     fullname: >-
-      ManchildManor.com
+      Lucy 🌼
     location: "United States"
-    followers: 15603
-    engagement: 1410
-    commentsToLikes: 0.007356
-    id: ck0w33u3nrgxn0i19ndq61hbc
+    followers: 6938
+    engagement: 841
+    commentsToLikes: 0.075535
+    id: ck9hbjbiih3340j78ozin00x9
     verified: false
-    hashtags: "#kitchen, #chemicalreaction, #noir, #cake"
-  - username: "sa_arteaga"
-    fullname: >-
-      Sergio Arteaga
-    location: "United States"
-    followers: 9540
-    engagement: 364
-    commentsToLikes: 0.038792
-    id: ck5c0z6plu4p90i114h9ertnd
-    verified: false
-    hashtags: "#youtubechannel, #aligners, #interactiondesign, #adobexd"
+    hashtags: "#film, #witchy, #vintageedits, #hippiestyle"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top bloggers Instagram influencers in Venezuela in 2020. Most popular hashtags: #venezuela #fashion #blogger #fashionblogger.
+  Find top bloggers Instagram influencers in Venezuela in 2020. Most popular hashtags: #blogger #encasa #fashionblogger #bloggerstyle.
 platform: Instagram
 profiles:
-  - username: "ariannapitino"
-    fullname: >-
-      ARIANNA PITINO🦂
-    location: "Venezuela"
-    followers: 46047
-    engagement: 752
-    commentsToLikes: 0.104050
-    id: ck0tw1ckedlh80i19e0e7a89q
-    verified: false
-    hashtags: "#foryoustore, #scarface, #fashion, #photoshoot"
-  - username: "katherinearr"
-    fullname: >-
-      KATHERINE RODRÍGUEZ
-    location: "Venezuela"
-    followers: 577594
-    engagement: 562
-    commentsToLikes: 0.014721
-    id: ck5hoid69pmba0i11qayu2u2f
-    verified: false
-    hashtags: "#stayathome, #crondonmathome"
   - username: "ma.alexandra27"
     fullname: >-
       Alexandra Marulanda💋
     location: "Venezuela"
-    followers: 23011
-    engagement: 434
-    commentsToLikes: 0.077163
+    followers: 23291
+    engagement: 430
+    commentsToLikes: 0.061832
     id: ck0vw2vferutr0i19ntwz1f7p
     verified: false
-    hashtags: "#nyxlipstick, #healthylifestyle, #genderrevealparty, #hairfashion"
-  - username: "petitepaulette_"
+    hashtags: "#healthy, #unicorn, #lashes, #2019"
+  - username: "soniassabati"
     fullname: >-
-      Petite Paulette.
+      TE AMO
     location: "Venezuela"
-    followers: 10463
-    engagement: 767
-    commentsToLikes: 0.048863
-    id: ck0tuora781lw0i193zuy5afp
+    followers: 3455
+    engagement: 1644
+    commentsToLikes: 0.101436
+    id: ckap49kbx6cyq0i78jlt8rz5q
     verified: false
-    hashtags: "#pattern, #vestuarista, #fashioninspo, #pandemia"
-  - username: "giuliomottola"
-    fullname: >-
-      giulio
-    location: "Venezuela"
-    followers: 535407
-    engagement: 159
-    commentsToLikes: 0.137058
-    id: ck5ces5vrlluc0i11rxqol1pn
-    verified: false
-    hashtags: "#misdulces16, #casa, #espa, #yummy"
+    hashtags: "#styleinspiration, #fashionblogger, #bloggerstyle, #inspo"
   - username: "isabelcarolinav"
     fullname: >-
       Isαbel Cαrolinα
     location: "Venezuela"
-    followers: 26604
-    engagement: 160
-    commentsToLikes: 0.040768
+    followers: 27554
+    engagement: 168
+    commentsToLikes: 0.119695
     id: ck55lgnje1it80i11wzq6pc0n
     verified: false
-    hashtags: "#muavzla, #participa, #quaretinemakeup, #makeupartist"
-  - username: "dailizmorillo"
+    hashtags: "#labiosmordidos, #benefitmexico, #morphebabe, #benebrows"
+  - username: "fenebeauty"
     fullname: >-
-      Dailiz | FASHION & LIFESTYLE
+      Fenelope Cuadro-Blogguer
     location: "Venezuela"
-    followers: 21178
-    engagement: 323
-    commentsToLikes: 0.089501
-    id: ck5hr53vaua1f0i11mp4uyxtf
+    followers: 6277
+    engagement: 368
+    commentsToLikes: 0.368873
+    id: ckap6jy1ug5vs0i781expdfvg
     verified: false
-    hashtags: "#cuarentena, #tannig, #modellook, #beachbodys"
-  - username: "itschily"
+    hashtags: "#tictok, #mascarillas, #semanaproductiva, #mua"
+  - username: "themarianamontoya"
     fullname: >-
-      ⚓Chily Taramasco⚓
+      Mariana Montoya
     location: "Venezuela"
-    followers: 10715
-    engagement: 1136
-    commentsToLikes: 0.125216
-    id: ck13d9j864cbo0i19alujr7cd
+    followers: 8668
+    engagement: 229
+    commentsToLikes: 0.119769
+    id: ck6ub73fe7vas0j710pcouaqu
     verified: false
-    hashtags: "#babynoah, #live, #blog, #tattoostyle"
-  - username: "kimloewenthal"
+    hashtags: "#lorealparis, #coronavirus, #selfcare, #makuep"
+  - username: "giuliomottola"
     fullname: >-
-      𝒦𝒾𝓂 ℒ𝑜𝑒𝓌𝑒𝓃𝓉𝒽𝒶𝓁👁
+      giulio
     location: "Venezuela"
-    followers: 25868
-    engagement: 191
-    commentsToLikes: 0.056383
-    id: ck6uhlmyx9u180j71w3xd5oa5
+    followers: 537377
+    engagement: 142
+    commentsToLikes: 0.095537
+    id: ck5ces5vrlluc0i11rxqol1pn
     verified: false
-    hashtags: "#cinex, #alzarlavoz, #foodlover, #blogger"
+    hashtags: "#chile, #espa, #nosalgasdecasa, #justinbieber"
+  - username: "petitepaulette_"
+    fullname: >-
+      Petite Paulette.
+    location: "Venezuela"
+    followers: 10733
+    engagement: 840
+    commentsToLikes: 0.068702
+    id: ck0tuora781lw0i193zuy5afp
+    verified: false
+    hashtags: "#selfie, #quarantinemood, #coronavirus, #birthdayideas"
+  - username: "kevinbeauty"
+    fullname: >-
+      𝕂𝕖𝕧𝕚𝕟 ℝ𝕠𝕕𝕣𝕚𝕘𝕦𝕖𝕫. 𝐌𝐚𝐤𝐞𝐮𝐩 𝐀𝐫𝐭𝐢𝐬𝐭
+    location: "Venezuela"
+    followers: 4574
+    engagement: 1570
+    commentsToLikes: 0.293691
+    id: ck6ti4o9n013y0j717lymxztk
+    verified: false
+    hashtags: "#instagay, #eyerlingpulido, #fashionblogger, #style"
+  - username: "_carloste"
+    fullname: >-
+      Carlos Te
+    location: "Venezuela"
+    followers: 28764
+    engagement: 1273
+    commentsToLikes: 0.029108
+    id: ckap3pljn402l0i78ddwmpmdt
+    verified: false
+    hashtags: "#disneyland, #onewithnature, #solo, #random"
   - username: "michellemouarib"
     fullname: >-
       MICHI🐱🍓  الله
     location: "Venezuela"
-    followers: 6323
-    engagement: 1140
-    commentsToLikes: 0.035038
+    followers: 7456
+    engagement: 984
+    commentsToLikes: 0.038912
     id: ck5zwzwsb72q80i14c3sp7ru5
     verified: false
-    hashtags: "#beachvibes, #venezuela, #swim, #quarantine"
+    hashtags: "#lecheria, #quotes, #siswimsuit, #encasa"
 ---

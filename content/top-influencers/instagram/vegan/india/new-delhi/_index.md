@@ -1,69 +1,69 @@
 ---
 title: Top 10 Vegan Instagram Influencers In New Delhi In 2020
 description: >-
-  Find top vegan Instagram influencers in New Delhi in 2020. Most popular hashtags: #vegan #mumbai #love #sodelhi.
+  Find top vegan Instagram influencers in New Delhi in 2020. Most popular hashtags: #india #vegan #dalalstreet #bollywood.
 platform: Instagram
 profiles:
-  - username: "whatsupdilli"
+  - username: "ebgiii"
     fullname: >-
-      Palak Kapoor
+      Edward B. Gieda III
     location: "India"
-    followers: 45400
-    engagement: 901
-    commentsToLikes: 0.012334
-    id: ck8tc16q5xx2v0j78tqvtrjuu
+    followers: 3935
+    engagement: 1156
+    commentsToLikes: 0.049323
+    id: ck5zqwb9kvf5n0i14boitpp94
     verified: false
-    hashtags: "#shot, #delicious, #foodporn, #tofu"
-  - username: "delhicravings"
+    hashtags: "#kaliyuga, #meditation, #indiarunning, #plantbased"
+  - username: "virus_sharma"
     fullname: >-
-      Naman Jain
+      Vikas Sharma - DELHI FOODIE 🇮🇳
     location: "India"
-    followers: 52508
-    engagement: 108
-    commentsToLikes: 0.038194
-    id: ck5zxau3a7nzw0i145nm281du
+    followers: 38257
+    engagement: 197
+    commentsToLikes: 0.021412
+    id: ck8t2uger0qzv0j78wm98wp0y
     verified: false
-    hashtags: "#faluda, #sandwich, #maaza, #kolkatafood"
-  - username: "hot_for_food"
+    hashtags: "#coffee, #foodindia, #dessertheaven, #mountains"
+  - username: "justinpluslauren"
     fullname: >-
-      Vidhi and Mansi
+      Lauren | Travel | Vegan
     location: "India"
-    followers: 53777
-    engagement: 82
-    commentsToLikes: 0.022757
-    id: ck0w41usewdss0i19sym1ygcd
-    verified: false
-    hashtags: "#eatlocal, #coffeeaddict, #lunch, #indochinese"
-  - username: "foodtravelstories"
-    fullname: >-
-      FoodTravelStories
-    location: "India"
-    followers: 165905
-    engagement: 257
-    commentsToLikes: 0.004559
-    id: ck1382b53e5xs0i19rj8mt6ur
-    verified: false
-    hashtags: "#homecooking, #foodpics, #tandoori, #trellingfood"
-  - username: "shayoon_"
-    fullname: >-
-      Shayoon Mendeluk
-    location: "India"
-    followers: 73837
-    engagement: 303
-    commentsToLikes: 0.063833
-    id: ck136tqcv87pd0i199ld3egwr
+    followers: 64025
+    engagement: 197
+    commentsToLikes: 0.037906
+    id: ck14juou8ma4u0i19hjri8fux
     verified: true
-    hashtags: "#environmentalism, #pyramid, #winter, #morningroutine"
-  - username: "ingenious_foodie"
+    hashtags: "#hudsonyards, #yurtliving, #acolorstory, #wildernessvibes"
+  - username: "thedelhifoodiecouple"
     fullname: >-
-      Keshanth
+      thefoodiecouple
     location: "India"
-    followers: 19403
-    engagement: 1420
-    commentsToLikes: 0.017336
-    id: ck6u25yuepwv70j71h7hoarbx
+    followers: 4065
+    engagement: 1249
+    commentsToLikes: 0.159299
+    id: ck8t1s7kkwtl50j78v2pwej5v
     verified: false
-    hashtags: "#biryani, #pondicherry, #savefromcorona, #kabab"
+    hashtags: "#imlovinit, #thurzzday2020, #indiandessert, #sundayspecial"
+  - username: "delhincrhangouts"
+    fullname: >-
+      DelhiNCR Hangouts
+    location: "India"
+    followers: 31034
+    engagement: 1607
+    commentsToLikes: 0.008988
+    id: ck8tdh60v3af40j78r4ly6ns1
+    verified: false
+    hashtags: "#gurgaon, #bombay, #sidedish, #amazingfood"
+  - username: "mrscookbook"
+    fullname: >-
+      AnitaDas | Indian Food Blogger
+    location: "India"
+    followers: 14053
+    engagement: 1219
+    commentsToLikes: 0.063401
+    id: ck8t85qmrj7fg0j78mzuddnt5
+    verified: false
+    hashtags: "#drinks, #ilish, #baking, #mangosmoothie"
   - username: "ashmitpatel"
     fullname: >-
       ÃŚHMÏT PÅTĘŁ
@@ -74,34 +74,34 @@ profiles:
     id: ck5hmpzv5merf0i11m9fc5puv
     verified: true
     hashtags: "#gymlife, #truefitt, #netflix, #technomusic"
-  - username: "reshma_kaurase_"
+  - username: "itisinthename"
     fullname: >-
-      reshma
+      Prakriti Varshney 🇮🇳
     location: "India"
-    followers: 9300
-    engagement: 1097
-    commentsToLikes: 0.014247
-    id: ck0u6m1rf2cts0i19dv73jewi
+    followers: 52745
+    engagement: 464
+    commentsToLikes: 0.052368
+    id: ck601qf2ifz7w0i14tamj5fe3
     verified: false
-    hashtags: "#instagood, #shootings, #balckandwhite, #lovemyjob"
+    hashtags: "#bumpyride, #mountaindrive, #mountaindogs, #covid"
   - username: "bijendra_s"
     fullname: >-
       Bijendra Singh🇮🇳
     location: "India"
-    followers: 24087
-    engagement: 2629
-    commentsToLikes: 0.031417
+    followers: 23762
+    engagement: 2705
+    commentsToLikes: 0.031006
     id: ck0w14l5ehj7n0i19rxwp6h2q
     verified: false
-    hashtags: "#beastmode, #npc, #dedication, #mensphysique"
-  - username: "naki.earth"
+    hashtags: "#respect, #pulwama, #weareone, #india"
+  - username: "kuntalj"
     fullname: >-
-      Annachiara 🌿
+      Kuntal A. Joisher
     location: "India"
-    followers: 22424
-    engagement: 986
-    commentsToLikes: 0.025514
-    id: ck5pxylmmthrg0i11scerm36n
+    followers: 12303
+    engagement: 539
+    commentsToLikes: 0.078815
+    id: ck0vv0jv8mzfd0i19dqiakf3u
     verified: false
-    hashtags: "#loveallbeings, #rainbowlove, #femminista, #thankyou"
+    hashtags: "#veganrunner, #veganclimbing, #veganmuscle, #veganchallenge"
 ---

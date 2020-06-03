@@ -3,6 +3,8 @@ col1:
     link: pricing
   - anchor: Top Instagram Influencers
     link: top-influencers/instagram
+  - anchor: Top TikTok Influencers
+    link: top-influencers/tiktok
   # - anchor: Search
   #   link: search
   # - anchor: Export

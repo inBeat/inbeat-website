@@ -1,26 +1,36 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Philadelphia In 2020
 description: >-
-  Find top vegan Instagram influencers in Philadelphia in 2020. Most popular hashtags: #vegan #philadelphia #quarantine #nyc.
+  Find top vegan Instagram influencers in Philadelphia in 2020. Most popular hashtags: #vegan #philadelphia #cats #dairyfree.
 platform: Instagram
 profiles:
+  - username: "officialdavidyost"
+    fullname: >-
+      David Yost
+    location: "United States"
+    followers: 178587
+    engagement: 219
+    commentsToLikes: 0.087203
+    id: ck0w2le72oy4m0i19yn2p6le3
+    verified: true
+    hashtags: "#lamolecomiccon, #albuquerque, #blackranger, #pyramids"
   - username: "phillyvegans"
     fullname: >-
       Philly Vegans
     location: "United States"
-    followers: 16766
-    engagement: 235
-    commentsToLikes: 0.023263
+    followers: 16827
+    engagement: 273
+    commentsToLikes: 0.024322
     id: ck6u2r1j7tfhd0j71uyg3bcrx
     verified: false
-    hashtags: "#vegan, #veganoptions, #latergram"
+    hashtags: "#vegan, #veganoptions"
   - username: "missmaryleigh"
     fullname: >-
       Mary-Leigh Maxwell
     location: "United States"
-    followers: 128091
-    engagement: 132
-    commentsToLikes: 0.048233
+    followers: 126252
+    engagement: 134
+    commentsToLikes: 0.055246
     id: ck8t0fw6krxpg0j78bpl8nywd
     verified: false
     hashtags: "#govegan, #watchthegamechangers, #watchearthlings"
@@ -28,80 +38,70 @@ profiles:
     fullname: >-
       Brooke Neal
     location: "United States"
-    followers: 24550
-    engagement: 498
-    commentsToLikes: 0.043340
+    followers: 26041
+    engagement: 593
+    commentsToLikes: 0.043446
     id: ck6tq03d8onbn0j71esq3noos
     verified: false
-    hashtags: "#nedaweek, #giveaway, #womensday, #arbonne30"
-  - username: "juliangreene2"
-    fullname: >-
-      Julian Greene
-    location: "United States"
-    followers: 44434
-    engagement: 393
-    commentsToLikes: 0.033857
-    id: ck0udveocjw7r0i19vbp85yf0
-    verified: false
-    hashtags: "#tattooedmen, #howtobehuman, #mentalhealthawareness, #viral"
-  - username: "spinachandbacon"
-    fullname: >-
-      Erin | Healthy Recipes
-    location: "United States"
-    followers: 6124
-    engagement: 493
-    commentsToLikes: 0.142671
-    id: ck6tqthldu4540j71njeb8092
-    verified: false
-    hashtags: "#paleo, #grainfree, #glutenfree, #whatsonmyplate"
-  - username: "phillyinsider"
-    fullname: >-
-      Michael Klein
-    location: "United States"
-    followers: 14391
-    engagement: 261
-    commentsToLikes: 0.034449
-    id: ck8swn6hgelk70j788vy49p2o
-    verified: false
-    hashtags: "#quarantine, #quarantinelife, #coronapocalypse, #bbq"
-  - username: "officialdavidyost"
-    fullname: >-
-      David Yost
-    location: "United States"
-    followers: 173041
-    engagement: 184
-    commentsToLikes: 0.091674
-    id: ck0w2le72oy4m0i19yn2p6le3
-    verified: true
-    hashtags: "#texas, #vegan, #newmexico, #mmpr"
-  - username: "shaylynnedwards"
-    fullname: >-
-      Shay
-    location: "United States"
-    followers: 5243
-    engagement: 539
-    commentsToLikes: 0.026370
-    id: ck8wdgvlhdtl90j7825rwuyaq
-    verified: false
-    hashtags: "#quarantine, #lesbian, #brunch, #fory"
+    hashtags: "#gtc2020, #nedaawarenessweek, #30daystohealthyliving, #giveaway"
   - username: "realdonshea"
     fullname: >-
       Donshea Hopkins 👸🏽
     location: "United States"
-    followers: 141601
-    engagement: 121
-    commentsToLikes: 0.048992
+    followers: 141168
+    engagement: 126
+    commentsToLikes: 0.057925
     id: ck5cd851pipgh0i1169pd4eee
     verified: true
-    hashtags: "#foodvlog, #entertainment, #shopping, #target"
-  - username: "theblondetravelsx0"
+    hashtags: "#april, #newyoker, #gucci, #embrassing"
+  - username: "shaylynnedwards"
     fullname: >-
-      JAMIE RIVERO  | Philly Blogger
+      Shay
     location: "United States"
-    followers: 20486
-    engagement: 264
-    commentsToLikes: 0.175851
-    id: ck6tvd4a1ljt30j71pwjlidnd
+    followers: 6145
+    engagement: 602
+    commentsToLikes: 0.024230
+    id: ck8wdgvlhdtl90j7825rwuyaq
     verified: false
-    hashtags: "#maldives, #lightstim, #haircare, #freshrose"
+    hashtags: ""
+  - username: "phillyinsider"
+    fullname: >-
+      Michael Klein
+    location: "United States"
+    followers: 17422
+    engagement: 191
+    commentsToLikes: 0.027001
+    id: ck8swn6hgelk70j788vy49p2o
+    verified: false
+    hashtags: "#fishtown, #wings, #bakedgoods, #cake"
+  - username: "studiokolowski"
+    fullname: >-
+      Jason Kolowski
+    location: "United States"
+    followers: 20667
+    engagement: 1062
+    commentsToLikes: 0.025814
+    id: ck15tzb19knam0i19cgyc3vam
+    verified: false
+    hashtags: "#vegan, #camera, #travel, #saverestaurants"
+  - username: "kinessajohnson"
+    fullname: >-
+      Kinessa Johnson
+    location: "United States"
+    followers: 140014
+    engagement: 306
+    commentsToLikes: 0.017428
+    id: ck13cknk20ts80i19kn7ckfvu
+    verified: true
+    hashtags: "#stayhealthy, #innerpeace, #blackheart, #gains"
+  - username: "langernutrition"
+    fullname: >-
+      Abby Langer RD
+    location: "United States"
+    followers: 27196
+    engagement: 196
+    commentsToLikes: 0.080548
+    id: ck5hjrxjvh5bj0i11g9pjcrf4
+    verified: false
+    hashtags: "#lemon, #foodpics, #foodforthought, #ketofriendly"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Germany In 2020
 description: >-
-  Find top chefs Instagram influencers in Germany in 2020. Most popular hashtags: #foodporn #chefmoebetta #streetcornerkitchen #foodphotography.
+  Find top chefs Instagram influencers in Germany in 2020. Most popular hashtags: #corona #dessert #anzeige #comingsoon.
 platform: Instagram
 profiles:
+  - username: "corneliapoletto"
+    fullname: >-
+      Cornelia Poletto
+    location: "Germany"
+    followers: 23360
+    engagement: 324
+    commentsToLikes: 0.028417
+    id: ck13550ahzqlk0i19fook9pfy
+    verified: true
+    hashtags: "#china, #cannellinibeans, #echtpolettoout, #fish"
   - username: "kaktuspoooo"
     fullname: >-
       Lisa
     location: "Germany"
-    followers: 5358
-    engagement: 1036
-    commentsToLikes: 0.038434
+    followers: 5552
+    engagement: 1124
+    commentsToLikes: 0.037485
     id: ck5hd61etloj30i11cmcienl9
     verified: false
-    hashtags: "#cologne, #mallorca, #awesome, #inthe"
+    hashtags: "#meet, #your, #muscles, #sunday"
   - username: "misloop"
     fullname: >-
       Jin/Janet/Neukölln Chinagirl
     location: "Germany"
-    followers: 5922
-    engagement: 598
-    commentsToLikes: 0.059997
+    followers: 5839
+    engagement: 603
+    commentsToLikes: 0.060425
     id: ck5ztaobu01yk0i14bqs7geoc
     verified: false
     hashtags: "#signupforthis, #whenilostmywisdom, #3in1"
-  - username: "marco.pogo"
-    fullname: >-
-      Marco Pogo
-    location: "Germany"
-    followers: 11307
-    engagement: 840
-    commentsToLikes: 0.013828
-    id: ck5zmfenvmh320i14rkwn3prv
-    verified: true
-    hashtags: "#turbobier, #bier, #zeitreise, #gutewaldgeist"
   - username: "chefmoebetta"
     fullname: >-
       Chef MoeBetta
     location: "Germany"
-    followers: 84716
-    engagement: 430
-    commentsToLikes: 0.057394
+    followers: 87991
+    engagement: 721
+    commentsToLikes: 0.051539
     id: ck0ubek17ec9j0i191dnl1we4
     verified: false
-    hashtags: "#yummy, #foodie, #seafoodlover, #superbowlmiami"
-  - username: "beate_meinl_reisinger"
+    hashtags: "#socheesy, #shrimpscampi, #seafoodboil, #friedlobster"
+  - username: "marco.pogo"
     fullname: >-
-      Beate Meinl-Reisinger
+      Marco Pogo
     location: "Germany"
-    followers: 20830
-    engagement: 342
-    commentsToLikes: 0.053320
-    id: ck5q1e3imajwr0i118gp9zjx8
+    followers: 11689
+    engagement: 839
+    commentsToLikes: 0.013790
+    id: ck5zmfenvmh320i14rkwn3prv
     verified: true
-    hashtags: "#klarheit, #imzentrum, #corona, #europa"
-  - username: "thepberg"
+    hashtags: "#corona, #bierlauch, #soccer, #alleinimrausch"
+  - username: "leonievonhase"
     fullname: >-
-      eva padberg
+      Leonie von Hase
     location: "Germany"
-    followers: 45793
-    engagement: 182
-    commentsToLikes: 0.020551
-    id: ck15uhxohna0t0i19r85pfdjt
-    verified: true
-    hashtags: "#nightout, #stillgetnervous, #healthylife, #weihnachten"
+    followers: 18912
+    engagement: 317
+    commentsToLikes: 0.025823
+    id: ck6ud388nivqb0j71kiqw6ddv
+    verified: false
+    hashtags: "#tbt, #kiel, #buysecondhandfirst, #linkinbio"
   - username: "tohrunakamura"
     fullname: >-
       Tohru Nakamura
     location: "Germany"
-    followers: 25988
-    engagement: 361
-    commentsToLikes: 0.244776
+    followers: 27848
+    engagement: 355
+    commentsToLikes: 0.129416
     id: ck134m52qx3ru0i19umezolgo
     verified: true
-    hashtags: "#adventszeit, #sharpasknife, #yoshikouenom, #persimmon"
+    hashtags: "#chefsmate, #sakebegleitung, #neuesjahrzehnt, #biolebensmittel"
+  - username: "christianlindner"
+    fullname: >-
+      Christian Lindner
+    location: "Germany"
+    followers: 164459
+    engagement: 281
+    commentsToLikes: 0.043583
+    id: ck0twafkcemez0i19ne6t0j6h
+    verified: true
+    hashtags: "#investitionen, #berlin, #coronaeltern, #eu"
   - username: "miljuschka"
     fullname: >-
       Miljuschka
     location: "Germany"
-    followers: 530963
-    engagement: 228
-    commentsToLikes: 0.037901
+    followers: 588288
+    engagement: 277
+    commentsToLikes: 0.064115
     id: ck15so6y5dzka0i19n6pltupe
     verified: true
-    hashtags: "#10tipsvoorbudgetvriendelijkshoppen, #bakalongflorandmil, #bakkenmetfloraplant, #floraplantnl"
-  - username: "roland_trettl"
+    hashtags: "#neproken, #theoriginal, #keepcalmandeggon, #sharingiscaring"
+  - username: "thepberg"
     fullname: >-
-      Roland Trettl
+      eva padberg
     location: "Germany"
-    followers: 235242
-    engagement: 205
-    commentsToLikes: 0.043326
-    id: ck5hgmgzn3kqf0i119pcj6rsl
+    followers: 45497
+    engagement: 179
+    commentsToLikes: 0.020340
+    id: ck15uhxohna0t0i19r85pfdjt
     verified: true
-    hashtags: "#kochenmachtspass, #hangover, #fenchel, #schafsk"
-  - username: "robertocortez08"
-    fullname: >-
-      Bobby Cortez CR8 Dining
-    location: "Germany"
-    followers: 23648
-    engagement: 624
-    commentsToLikes: 0.034666
-    id: ck0vy0kjx1n890i19angy71pb
-    verified: false
-    hashtags: "#instagood, #sogoodmag, #sensesinsucrose, #fujifilm"
+    hashtags: "#uckermarkstyle, #dressupformyself, #vanillekipferl, #throwback"
 ---

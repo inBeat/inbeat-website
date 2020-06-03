@@ -1,107 +1,107 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Greece In 2020
 description: >-
-  Find top dancers Instagram influencers in Greece in 2020. Most popular hashtags: #portrait #dance #danijane #2020.
+  Find top dancers Instagram influencers in Greece in 2020. Most popular hashtags: #black #summer #spring #thedancecartel.
 platform: Instagram
 profiles:
-  - username: "vrisiida_andrio"
-    fullname: >-
-      Βρισηίδα Ανδριώτου
-    location: "Greece"
-    followers: 86080
-    engagement: 870
-    commentsToLikes: 0.025928
-    id: ck55p8pe5a1r00i118dwacbz9
-    verified: false
-    hashtags: ""
-  - username: "_danijane"
-    fullname: >-
-      DaniJane
-    location: "Greece"
-    followers: 9431
-    engagement: 924
-    commentsToLikes: 0.070989
-    id: ck5zpxi77tjk30i14l63rg0f4
-    verified: false
-    hashtags: "#danijane, #americanairlinesarena, #maluma1111tour, #showday"
   - username: "mel.k.arts"
     fullname: >-
       Meliti K.♡ | Artist
     location: "Greece"
-    followers: 17956
-    engagement: 2025
-    commentsToLikes: 0.029721
+    followers: 18658
+    engagement: 2030
+    commentsToLikes: 0.030211
     id: ck6u2vwjju83x0j7127fatp7i
     verified: false
-    hashtags: "#newyear, #artrealism, #balloons, #christmasart"
-  - username: "_marialena._"
+    hashtags: "#artcollab, #flowers, #colouredpencil, #fanart"
+  - username: "gella.el"
     fullname: >-
-      Marialena
+      Gella Eleftheriou
     location: "Greece"
-    followers: 5368
-    engagement: 1011
-    commentsToLikes: 0.048800
-    id: ck5hd9cdwm7gh0i11xk4fevvd
+    followers: 17395
+    engagement: 1054
+    commentsToLikes: 0.017813
+    id: ckap274z8xo2q0i78m9qca04q
     verified: false
-    hashtags: "#thistooshallpass, #basilicaroyal, #barreroyalty, #basilicadancewear"
-  - username: "danouuz"
-    fullname: >-
-      Danae Pappa
-    location: "Greece"
-    followers: 184815
-    engagement: 1156
-    commentsToLikes: 0.005217
-    id: ck15tvywuk6gg0i19ypwvgv9q
-    verified: false
-    hashtags: "#goodday, #pinkwoman, #portrait, #style"
+    hashtags: "#athletics, #bikini, #suit, #easter"
   - username: "constantine.stergiou"
     fullname: >-
       Konstantinos Stergiou 👨🏻‍🦰🇬🇷
     location: "Greece"
-    followers: 18209
-    engagement: 126
-    commentsToLikes: 0.079586
+    followers: 18062
+    engagement: 136
+    commentsToLikes: 0.079011
     id: ck15qvwjt4wdc0i19aenxbrd3
     verified: false
-    hashtags: "#tiktokgreece, #partytime, #fashion, #nightlife"
-  - username: "konikou_official"
-    fullname: >-
-      Konstantina Koutra
-    location: "Greece"
-    followers: 5797
-    engagement: 1123
-    commentsToLikes: 0.055203
-    id: ck5pvipiai2g00i11btrxi33l
-    verified: false
-    hashtags: "#bieber, #devil, #gokuchoreography, #girls"
+    hashtags: "#follow, #modeling, #terrytsiolis, #brotherhood"
   - username: "memevictim2000x"
     fullname: >-
       Sauced
     location: "Greece"
-    followers: 2170
-    engagement: 2003
-    commentsToLikes: 0.040783
+    followers: 2156
+    engagement: 1999
+    commentsToLikes: 0.040222
     id: ck1354cwgzn6y0i19zghp7ny9
     verified: false
-    hashtags: "#gbf, #wcw"
-  - username: "jul_nk"
+    hashtags: "#wcw, #gbf"
+  - username: "tzenistef"
     fullname: >-
-      𝗝𝘂𝗹𝗶𝗮 𝗡𝗶𝗸𝗼𝗹𝗮𝗸𝗼𝗽𝗼𝘂𝗹𝗼𝘂🪐
+      Jenny Stefanidou🧿
     location: "Greece"
-    followers: 2940
-    engagement: 1414
-    commentsToLikes: 0.056453
-    id: ck8t2c32dyx090j782x5asyv3
+    followers: 5940
+    engagement: 953
+    commentsToLikes: 0.016205
+    id: ckapbru9z13qu0i78euzr57zl
     verified: false
-    hashtags: "#patras2k20, #danceclass, #dance, #dancevideo"
+    hashtags: "#night, #acropolis, #summer, #song"
+  - username: "lna.music"
+    fullname: >-
+      LNA (Elena)👑
+    location: "Greece"
+    followers: 15370
+    engagement: 502
+    commentsToLikes: 0.017638
+    id: ckap4kz8e7rd70i780l2gjduq
+    verified: false
+    hashtags: ""
   - username: "marx_ps"
     fullname: >-
       MarX Ps
     location: "Greece"
-    followers: 6223
-    engagement: 668
-    commentsToLikes: 0.023268
+    followers: 6463
+    engagement: 739
+    commentsToLikes: 0.016946
     id: ck6udj6itleru0j710hfhwqb7
     verified: false
-    hashtags: "#itsme, #happyvalentinesday, #israel, #greekbeautyblogger"
+    hashtags: "#italy, #dolcegabbana, #picoftheday, #lovelife"
+  - username: "manechkasharafet"
+    fullname: >-
+      Mariia Sharafetdinova🌪
+    location: "Greece"
+    followers: 10859
+    engagement: 700
+    commentsToLikes: 0.032893
+    id: ck14gu9u672670i191u90joqy
+    verified: false
+    hashtags: "#milk, #nofilter, #saturdaymood, #blueeyes"
+  - username: "marilenamaouni"
+    fullname: >-
+      Marilena Maouni
+    location: "Greece"
+    followers: 2106
+    engagement: 1995
+    commentsToLikes: 0.045399
+    id: ck5pviol6i2970i11lt0tr0v2
+    verified: false
+    hashtags: "#pussycat, #dolls, #crystallia, #instadance"
+  - username: "ariadniskokou"
+    fullname: >-
+      А R И А • С К О К О С
+    location: "Greece"
+    followers: 10034
+    engagement: 696
+    commentsToLikes: 0.042474
+    id: ck5pxbvf6r1ko0i11xwm5d9at
+    verified: false
+    hashtags: "#bozikis, #internationaldanceday, #worldwidedance, #goodmorning"
 ---

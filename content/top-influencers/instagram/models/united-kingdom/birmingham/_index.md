@@ -1,46 +1,36 @@
 ---
 title: Top 10 Models Instagram Influencers In Birmingham In 2020
 description: >-
-  Find top models Instagram influencers in Birmingham in 2020. Most popular hashtags: #makeup #model #mua #fashion.
+  Find top models Instagram influencers in Birmingham in 2020. Most popular hashtags: #model #london #birmingham #.
 platform: Instagram
 profiles:
-  - username: "karina_fitdoll"
+  - username: "liliana__anaya"
     fullname: >-
-      K A R I N A   S P A R K S
+      𝓛𝓲𝓵𝓲𝓪𝓷𝓪 𝓐𝓷𝓪𝔂𝓪❥
     location: "United Kingdom"
-    followers: 19004
-    engagement: 546
-    commentsToLikes: 0.057382
-    id: ck8tbuj7dx7fd0j78xqk234fm
+    followers: 4286
+    engagement: 1087
+    commentsToLikes: 0.526695
+    id: ckap6rfcph4400i78kanuxqvp
     verified: false
-    hashtags: "#happyvibes, #visionary, #tb, #tbt"
+    hashtags: ""
   - username: "little.wolff"
     fullname: >-
       
     location: "United Kingdom"
-    followers: 12792
-    engagement: 640
-    commentsToLikes: 0.031093
+    followers: 12811
+    engagement: 609
+    commentsToLikes: 0.030801
     id: ck0ttqg4a3v350i195jt0ts5y
     verified: false
-    hashtags: "#comiccon, #latexjoker, #voiceforthevoiceless, #veganfit"
-  - username: "xseasickx"
-    fullname: >-
-      Kym  Williams
-    location: "United Kingdom"
-    followers: 63825
-    engagement: 288
-    commentsToLikes: 0.017655
-    id: ck6u10jt9iu5d0j71fv8gsv5a
-    verified: false
-    hashtags: "#portrait, #portraitphotography, #photography, #dreadlocks"
+    hashtags: "#gothamsirens, #backpacker, #laos, #mazerunner"
   - username: "georgieriot"
     fullname: >-
-      GEORGIE RIOT
+      Georgie Riot
     location: "United Kingdom"
-    followers: 36998
-    engagement: 206
-    commentsToLikes: 0.027446
+    followers: 36959
+    engagement: 211
+    commentsToLikes: 0.025734
     id: ck60087hsd4jr0i14i2gzs8p4
     verified: false
     hashtags: ""
@@ -48,60 +38,70 @@ profiles:
     fullname: >-
       Kiran Kaur Singher
     location: "United Kingdom"
-    followers: 2178
-    engagement: 1261
-    commentsToLikes: 0.054873
+    followers: 2164
+    engagement: 1269
+    commentsToLikes: 0.057145
     id: ck5qbrxoun45s0i11oml6tgxm
     verified: false
     hashtags: ""
-  - username: "iramh27_"
-    fullname: >-
-      Iram H✨
-    location: "United Kingdom"
-    followers: 23057
-    engagement: 1096
-    commentsToLikes: 0.037623
-    id: ck5qduhypxdn50i11f3jitw0r
-    verified: false
-    hashtags: "#pakistanilookbook, #needmoresleep, #makeup, #shoot"
-  - username: "maddisongregoryx"
-    fullname: >-
-      
-    location: "United Kingdom"
-    followers: 7049
-    engagement: 603
-    commentsToLikes: 0.041988
-    id: ck5zsf8abydve0i14ryzqnojr
-    verified: false
-    hashtags: "#28daysofblackcosplay, #goofyroxanne, #creative, #costumemakeup"
-  - username: "misszodi"
+  - username: "theonlyzodi"
     fullname: >-
       ZODI
     location: "United Kingdom"
-    followers: 14484
-    engagement: 640
-    commentsToLikes: 0.047844
+    followers: 14558
+    engagement: 685
+    commentsToLikes: 0.059489
     id: ck5pzpxq926tt0i11vedsth6z
     verified: false
-    hashtags: "#cabaret, #dragconuk, #sequindress, #festive"
+    hashtags: "#draghaus, #snow, #lgbt, #eurodrag"
+  - username: "daisymay_demetre"
+    fullname: >-
+      Daisy-May Demetre
+    location: "United Kingdom"
+    followers: 24673
+    engagement: 409
+    commentsToLikes: 0.023722
+    id: ck0tzuglhrp3i0i19t4wxsu3q
+    verified: false
+    hashtags: "#tiktokdance, #like, #beauty, #runwaymodel"
   - username: "iulia_david_photography"
     fullname: >-
       Iulia David
     location: "United Kingdom"
-    followers: 66475
-    engagement: 449
-    commentsToLikes: 0.017919
+    followers: 67302
+    engagement: 323
+    commentsToLikes: 0.038746
     id: ck0u1vifey5140i19oyckvt3d
     verified: false
-    hashtags: "#pink, #fashion, #makeupartist, #wewillbeatthis"
-  - username: "mattleachphotography"
+    hashtags: "#pink, #beautybloggers, #macro, #closeup"
+  - username: "mattleachphoto"
     fullname: >-
       Matt Leach
     location: "United Kingdom"
-    followers: 18171
-    engagement: 303
-    commentsToLikes: 0.045814
+    followers: 17994
+    engagement: 306
+    commentsToLikes: 0.027821
     id: ck0w392g5s7380i19fkaiazc2
     verified: false
-    hashtags: "#cowboy, #magazine, #maxmara, #stylish"
+    hashtags: "#emotion, #narsissist, #gloss, #maxmara"
+  - username: "zaradurose"
+    fullname: >-
+      Zara DuRose
+    location: "United Kingdom"
+    followers: 53233
+    engagement: 144
+    commentsToLikes: 0.030813
+    id: ck15pk75xyafc0i19qcgei6xe
+    verified: false
+    hashtags: "#lockdownend, #pleaserheels, #throwback, #powerwand"
+  - username: "shani_ross7"
+    fullname: >-
+      Shani Ross
+    location: "United Kingdom"
+    followers: 2624
+    engagement: 1286
+    commentsToLikes: 0.119987
+    id: ck0w12j3vh8wr0i19ab78h2sc
+    verified: false
+    hashtags: "#bendlow, #lxd, #2020, #choreography"
 ---

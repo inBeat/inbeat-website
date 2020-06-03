@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Montreal In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Montreal in 2020. Most popular hashtags: #tattooartist #tattoo #montrealtattoo #inked.
+  Find top tattoo-artists Instagram influencers in Montreal in 2020. Most popular hashtags: #skulltattoo #starwars #portraittattoo #dragontattoo.
 platform: Instagram
 profiles:
   - username: "lukalajoie"
     fullname: >-
       Luka lajoie
     location: "Canada"
-    followers: 272620
-    engagement: 139
-    commentsToLikes: 0.012920
+    followers: 273821
+    engagement: 152
+    commentsToLikes: 0.010986
     id: ck5buaythhgrf0i11wozlkgzk
     verified: false
-    hashtags: ""
+    hashtags: "#stayhome"
   - username: "robinlabreche"
     fullname: >-
       Robin Labreche
     location: "Canada"
-    followers: 25614
-    engagement: 226
-    commentsToLikes: 0.078504
+    followers: 25436
+    engagement: 223
+    commentsToLikes: 0.076572
     id: ck5qecpkhzubh0i11x55p4ne3
     verified: false
-    hashtags: "#battle, #fytcartridges, #mtlartist, #starwars"
+    hashtags: "#bikertattoo, #raventattoo, #vancouver, #wolftattoo"
   - username: "draworking"
     fullname: >-
       Andrei 𝕯ʀᴀᴡ φʀ Ҟɪɴɢ Tattoo
     location: "Canada"
-    followers: 17215
-    engagement: 576
-    commentsToLikes: 0.018642
+    followers: 17440
+    engagement: 533
+    commentsToLikes: 0.017609
     id: ck5ho6mswp18d0i11fu87jub0
     verified: false
-    hashtags: "#retrofuture, #realistictattoo, #montrealtattoo, #yvrtattoo"
-  - username: "julya_art"
-    fullname: >-
-      Julya Art
-    location: "Canada"
-    followers: 7240
-    engagement: 425
-    commentsToLikes: 0.021080
-    id: ck15tm9qhis150i19nwxrsmwc
-    verified: false
-    hashtags: "#rose, #flowerstattoo, #pinnochiotattoo, #lavenders"
-  - username: "hansdeslauriers"
-    fullname: >-
-      ⒸⓄⓁⓄⓇⒻⓊⓁ ⒹⒶⓇⓀⓃⒺⓈⓈ
-    location: "Canada"
-    followers: 24822
-    engagement: 327
-    commentsToLikes: 0.011443
-    id: ck0ubylgafmzz0i19x1x0xurq
-    verified: false
-    hashtags: "#horrortattoo, #blacktattoo, #statue, #darkness"
-  - username: "dopethroneband"
-    fullname: >-
-      Dopethrone
-    location: "Canada"
-    followers: 19026
-    engagement: 409
-    commentsToLikes: 0.016164
-    id: ck55kdgjjz27z0i11z9wftuyq
-    verified: false
-    hashtags: "#slutch, #eurotour2019, #nofuture, #pepper"
+    hashtags: "#robot, #commissionedart, #marveluniverse, #retrofuturism"
   - username: "_november_rush"
     fullname: >-
       November Rush
     location: "Canada"
-    followers: 10621
-    engagement: 1245
-    commentsToLikes: 0.008495
+    followers: 10677
+    engagement: 1194
+    commentsToLikes: 0.008640
     id: ck0u8to2z8chx0i19353xx2vs
     verified: false
-    hashtags: "#blackandgrey, #swords, #cooltattoo, #floraltattoo"
-  - username: "paultougas"
-    fullname: >-
-      Paul Tougas
-    location: "Canada"
-    followers: 30471
-    engagement: 192
-    commentsToLikes: 0.085007
-    id: ck5bub0kbhgu30i11610caqnr
-    verified: false
-    hashtags: "#oilpainting, #leonidas, #bngtttoo, #joaquinphoenix"
-  - username: "wildfirepunch"
-    fullname: >-
-      🅟🅐🅜 🔥
-    location: "Canada"
-    followers: 10369
-    engagement: 332
-    commentsToLikes: 0.012654
-    id: ck14knss1qfs40i19guuel8ew
-    verified: false
-    hashtags: "#dogsofinstagram, #tattoo, #animetattoo, #blackandgreytattoo"
+    hashtags: "#tattooflow, #crystaltattoo, #ribstattoo, #legtattoo"
   - username: "ladykateyes"
     fullname: >-
       Lady Kat Eyes
     location: "Canada"
-    followers: 124291
-    engagement: 271
-    commentsToLikes: 0.031525
+    followers: 122183
+    engagement: 276
+    commentsToLikes: 0.031702
     id: ck0u63yfd0zwu0i190vfgy9no
     verified: false
-    hashtags: "#gothmakeup, #altgirls, #animalskull, #gothgoth"
+    hashtags: "#wiglife, #latexmodel, #redlips, #witchfashion"
+  - username: "mad_ink_art"
+    fullname: >-
+      Chris Telle
+    location: "Canada"
+    followers: 49926
+    engagement: 116
+    commentsToLikes: 0.028539
+    id: ck5q77sfn0bc10i11rg5dpfbz
+    verified: false
+    hashtags: "#animalportrait, #staystrong, #blackandgrey, #ragnartattoo"
+  - username: "inkandwatertattoo"
+    fullname: >-
+      INK & WATER
+    location: "Canada"
+    followers: 119297
+    engagement: 163
+    commentsToLikes: 0.009620
+    id: ck136mfs877kj0i1972c956wx
+    verified: false
+    hashtags: "#doublescoop, #scripttattoo, #customfont, #japaneseart"
+  - username: "nezetseguin"
+    fullname: >-
+      Yannick Nézet-Séguin
+    location: "Canada"
+    followers: 43140
+    engagement: 386
+    commentsToLikes: 0.032638
+    id: ck0twg0d7f7j90i19n1ljsnvn
+    verified: true
+    hashtags: "#choir, #tech, #fetedesmeres, #home"
+  - username: "luxelipstudio"
+    fullname: >-
+      Luxe Lip Studio | Lip Blush ˙💋
+    location: "Canada"
+    followers: 6094
+    engagement: 1220
+    commentsToLikes: 0.266963
+    id: ckapam6ukwnv90i7895iwpifp
+    verified: false
+    hashtags: "#tinadavieslipblush, #iloveinklips"
+  - username: "robinlabreche"
+    fullname: >-
+      Robin Labreche
+    location: "Canada"
+    followers: 25436
+    engagement: 223
+    commentsToLikes: 0.076572
+    id: ck5qecpkhzubh0i11x55p4ne3
+    verified: false
+    hashtags: "#bikertattoo, #raventattoo, #vancouver, #wolftattoo"
 ---

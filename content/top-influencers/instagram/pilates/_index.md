@@ -1,107 +1,107 @@
 ---
 title: Top 10 Pilates Instagram Influencers In 2020
 description: >-
-  Find top pilates Instagram influencers in 2020. Most popular hashtags: #coronavirus #sponsored #throwback #ad.
+  Find top pilates Instagram influencers in 2020. Most popular hashtags: #photography #smile #beach #happymothersday.
 platform: Instagram
 profiles:
   - username: "andreitalevin"
     fullname: >-
       Andreita Levin ॐ
     location: "India"
-    followers: 18074
-    engagement: 821
-    commentsToLikes: 0.052163
+    followers: 18634
+    engagement: 815
+    commentsToLikes: 0.056150
     id: ck0u7h3mp4njc0i19m5nnh9yv
     verified: false
-    hashtags: "#internationalwomanday, #instagramproblems"
+    hashtags: "#internationalwomanday"
   - username: "caro.lina.gil"
     fullname: >-
       Cäro
     location: "Portugal"
-    followers: 9858
-    engagement: 1403
-    commentsToLikes: 0.083617
+    followers: 9654
+    engagement: 1433
+    commentsToLikes: 0.083478
     id: ck0u0x6rzv5ow0i19vvpq2udd
     verified: false
-    hashtags: "#curingcancer, #frontsplit, #stretching, #curingsleep"
-  - username: "debby_the_chocoholic"
-    fullname: >-
-      𝐃𝐞𝐛𝐨𝐫𝐚𝐡 🌸 Yogi & Blogger
-    location: ""
-    followers: 38672
-    engagement: 524
-    commentsToLikes: 0.087082
-    id: ck0u1mk1nx9ka0i19juor7rxb
-    verified: false
-    hashtags: "#marchchallenge, #flexible, #bowpose, #yogalover"
+    hashtags: "#door, #graffiti, #loveyourself, #caisdosodre"
   - username: "brynny_md"
     fullname: >-
       ʙʀʏɴɴ | ʟɪғᴇsᴛʏʟᴇ ɪɴғʟᴜᴇɴᴄᴇʀ
     location: "United States"
-    followers: 17653
-    engagement: 984
-    commentsToLikes: 0.163760
+    followers: 20242
+    engagement: 960
+    commentsToLikes: 0.221576
     id: ck6u7lnilm95p0j71ofqzp7x0
     verified: false
-    hashtags: "#green, #shopsmallbusiness, #woman, #womenshealth"
-  - username: "_elena0428_"
+    hashtags: "#repost, #vitamind, #vegandrinks, #yogaclass"
+  - username: "sarita_me_myself"
     fullname: >-
-      💜오늘도 긍정 밝음💜
-    location: "South Korea"
-    followers: 4061
-    engagement: 2951
-    commentsToLikes: 0.056027
-    id: ck15uk0t7nk0v0i19vq2aqsq5
+      Sara ❤️
+    location: "Spain"
+    followers: 30599
+    engagement: 571
+    commentsToLikes: 0.060443
+    id: ckap72oopidpw0i786v19bm29
     verified: false
-    hashtags: "#hydrogel, #eyemask, #tmi, #lalarecipe"
-  - username: "junglejohanna"
+    hashtags: "#covid, #joyas, #bikinilife, #oleo"
+  - username: "nicolekastoun"
     fullname: >-
-      JOHANNA THOMPSON
-    location: "United States"
-    followers: 54228
-    engagement: 439
-    commentsToLikes: 0.040763
-    id: ck55lk8kb1rfp0i111gckz3dl
+      Nicole McPherson Kastoun
+    location: "Australia"
+    followers: 11447
+    engagement: 791
+    commentsToLikes: 0.158779
+    id: ck5zm9ff1m5bf0i14yx1eswhf
     verified: false
-    hashtags: "#stayhome, #staysafe, #superbowl, #backup"
-  - username: "chichilifenyc"
+    hashtags: "#peaceful, #yogaanywhere, #barreinstructor, #happyyogi"
+  - username: "maria_louiza_real"
     fullname: >-
-      Lauren Chiarello, Chi Chi Life
-    location: "United States"
-    followers: 10331
-    engagement: 653
-    commentsToLikes: 0.120709
-    id: ck5qdjygsvy390i113im73w70
+      Maria Louiza Vourou
+    location: "Greece"
+    followers: 64125
+    engagement: 277
+    commentsToLikes: 0.100118
+    id: ck55n9iwk5quk0i11bdztjjlt
     verified: false
-    hashtags: "#babiesftercancer, #infertilitysupport, #11weekspostpartum, #ayaware"
+    hashtags: "#haircolor, #fitness, #gifts, #detoxsmoothie"
+  - username: "talyta_suchara"
+    fullname: >-
+      Talyta Suchara Nicolau
+    location: "Brazil"
+    followers: 13882
+    engagement: 1269
+    commentsToLikes: 0.040851
+    id: ck13ab9hhpjoe0i1917f7jfcc
+    verified: false
+    hashtags: "#gravidas, #friendship, #minhamenina, #elevive"
+  - username: "birsenbekgoz"
+    fullname: >-
+      BİRSEN BEKGÖZ
+    location: "Turkey"
+    followers: 294023
+    engagement: 237
+    commentsToLikes: 0.044471
+    id: ck0tywumgoejk0i19jd220opb
+    verified: true
+    hashtags: "#inspiration, #healtyfood, #hiitcardio, #absworkout"
+  - username: "callymell"
+    fullname: >-
+      Cally Mello
+    location: "Brazil"
+    followers: 12380
+    engagement: 672
+    commentsToLikes: 0.121972
+    id: ck9hadrnyc60v0j78aw1a35zd
+    verified: false
+    hashtags: "#photo, #love, #biquinis, #makeup"
   - username: "heatherandersen_"
     fullname: >-
       HEATHER ANDERSEN
     location: "United States"
-    followers: 44810
-    engagement: 217
-    commentsToLikes: 0.055609
+    followers: 45053
+    engagement: 222
+    commentsToLikes: 0.055130
     id: ck0w6d8dp80zu0i199981gds2
     verified: true
-    hashtags: "#alwaysgetdressed, #worklook, #newyorkpilates, #workworkworkworkwork"
-  - username: "anyellesouza"
-    fullname: >-
-      Anyelle Souza
-    location: "Brazil"
-    followers: 2577
-    engagement: 1572
-    commentsToLikes: 0.102842
-    id: ck8syzr15mng70j78q85qvisn
-    verified: false
-    hashtags: "#nyformou, #nyfisioterapeuta, #gratid"
-  - username: "itskelsitaylor"
-    fullname: >-
-      Kelsi Taylor
-    location: "United States"
-    followers: 31325
-    engagement: 172
-    commentsToLikes: 0.071593
-    id: ck0ucoecnhbpg0i19jpj6c1di
-    verified: false
-    hashtags: "#imcrying, #livelovelayer, #myfabletics, #moveinfabletics"
+    hashtags: "#girltime, #hazelnutthepilatesdog, #nypworld, #neo"
 ---

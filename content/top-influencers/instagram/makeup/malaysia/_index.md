@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top makeup Instagram influencers in Malaysia in 2020. Most popular hashtags: #muamalaysia #makeupartist #sephoramy #stayathome.
+  Find top makeup Instagram influencers in Malaysia in 2020. Most popular hashtags: #makeup #sephoramy #w7cosmeticsmy #stayhome.
 platform: Instagram
 profiles:
   - username: "snenbdm"
     fullname: >-
       Emaleen Minhad (Official)
     location: "Malaysia"
-    followers: 192806
-    engagement: 701
-    commentsToLikes: 0.002956
+    followers: 190135
+    engagement: 716
+    commentsToLikes: 0.002938
     id: ck0tv5rdba1ze0i19oxnzc84b
     verified: false
-    hashtags: "#datenight, #datelook, #date, #makeup"
-  - username: "eatzzz7"
-    fullname: >-
-      !           🍒紀卜心
-    location: "Malaysia"
-    followers: 733957
-    engagement: 439
-    commentsToLikes: 0.007853
-    id: ck15suceaeuag0i19c5n98gtx
-    verified: true
-    hashtags: "#realmebudsair, #doublewear, #no1, #guerlaintw"
+    hashtags: "#skincare, #azam2020, #meletop, #stayhome"
   - username: "aishaliyana"
     fullname: >-
       Aisha Liyana
     location: "Malaysia"
-    followers: 201863
-    engagement: 351
-    commentsToLikes: 0.007942
+    followers: 202268
+    engagement: 344
+    commentsToLikes: 0.006249
     id: ck5pyqizjxayz0i113wlvbdd7
     verified: false
-    hashtags: "#exposed, #findmyid, #whitelucent, #sarahtiebackscarf"
-  - username: "ushahairandmakeup"
+    hashtags: "#sulwhasoomalaysia, #wonderyourbeauty, #etudemalaysia, #pondsmineralclaymy"
+  - username: "maymichelle"
     fullname: >-
-      U S H A  R A N I
+      Michelle Yong 🇲🇾
     location: "Malaysia"
-    followers: 54181
-    engagement: 232
-    commentsToLikes: 0.006619
-    id: ck8sy0elxjaqz0j78dqotg1tk
+    followers: 34200
+    engagement: 360
+    commentsToLikes: 0.007763
+    id: ckap6rwcah67x0i78cx7g3qsi
     verified: false
-    hashtags: "#makeupartist, #uhm, #makeupguide, #stayhome"
+    hashtags: "#day2quarantine, #rm77, #rmofficial, #rmangels"
+  - username: "eatzzz7"
+    fullname: >-
+      !           🍒紀卜心
+    location: "Malaysia"
+    followers: 756070
+    engagement: 373
+    commentsToLikes: 0.003407
+    id: ck15suceaeuag0i19c5n98gtx
+    verified: true
+    hashtags: "#happinessisawayoflife, #lancometw, #149, #139"
   - username: "bellefleurmakeup"
     fullname: >-
       𝐁𝐄𝐋𝐋𝐄𝐅𝐋𝐄𝐔𝐑 𝐌𝐀𝐊𝐄𝐔𝐏®️
     location: "Malaysia"
-    followers: 62933
-    engagement: 1136
-    commentsToLikes: 0.010169
+    followers: 63118
+    engagement: 973
+    commentsToLikes: 0.010398
     id: ck5c1992xup8i0i11jvqjpifq
     verified: false
-    hashtags: "#stpauli, #ad, #babymama, #archiv"
-  - username: "yuszulkifli"
+    hashtags: "#ad, #babymama, #archiv"
+  - username: "gresiazumardam"
     fullname: >-
-      Yus Zulkifli 🇲🇾
+      Gresia Marthatiana
     location: "Malaysia"
-    followers: 19239
-    engagement: 423
-    commentsToLikes: 0.103134
-    id: ck13a30pzodsi0i19ip6oqeom
+    followers: 3075
+    engagement: 1079
+    commentsToLikes: 0.060761
+    id: ck5zimkmbfzmg0i1446dcxcuy
     verified: false
-    hashtags: "#apsaraasiamalaysia, #mulanandcolourpop, #marvelrunmalaysia2019, #johanistiktok"
+    hashtags: "#staysafe, #charcoalmask, #ramadhanday19, #daicilik"
   - username: "annacjmakeover_oficial"
     fullname: >-
       AnnaCj
     location: "Malaysia"
-    followers: 9382
-    engagement: 1167
-    commentsToLikes: 0.009208
+    followers: 9381
+    engagement: 1124
+    commentsToLikes: 0.008682
     id: ck5q8352i47w50i11buo2x7j1
     verified: false
-    hashtags: "#tunang, #iamellymazlein, #makeup, #makeupwedding"
-  - username: "zamaeraaa"
+    hashtags: "#weddingdress, #perkahwinan, #weddingmalaysia, #meletop"
+  - username: "flackitsman"
     fullname: >-
-      ZAMAERA
+      • Aiman Shahiran •
     location: "Malaysia"
-    followers: 51872
-    engagement: 776
-    commentsToLikes: 0.009995
-    id: ck135jkhk1qzc0i195x37srye
-    verified: true
-    hashtags: "#teamnike, #happywomensday, #stayhome, #makanje"
-  - username: "fizakamaruzzaman"
-    fullname: >-
-      Hafizah Kamaruzzaman
-    location: "Malaysia"
-    followers: 50519
-    engagement: 173
-    commentsToLikes: 0.069557
-    id: ck0w2dfvqnsum0i19shak0hu2
+    followers: 83934
+    engagement: 389
+    commentsToLikes: 0.013023
+    id: ck5chx30jrmcx0i11a1ho2zww
     verified: false
-    hashtags: "#flightattendant, #seoulkorea, #heathrowairport, #kohgendomalaysia"
+    hashtags: "#puasaselfie, #fentybeauty, #sephoramy, #w7makeup"
+  - username: "chris_tan_mua"
+    fullname: >-
+      ℂ𝕙𝕣𝕚𝕤 𝕋𝕒𝕟 𝕄𝕦𝕒
+    location: "Malaysia"
+    followers: 17750
+    engagement: 207
+    commentsToLikes: 0.010741
+    id: ck5hlun8vkw550i11m1sib014
+    verified: false
+    hashtags: "#appreciated, #letsbegin, #thanksgod, #lovedessert"
   - username: "erinleolamakeupartist"
     fullname: >-
       Celebrity MUA • Entrepreneur
     location: "Malaysia"
-    followers: 218619
-    engagement: 47
-    commentsToLikes: 0.022213
+    followers: 220838
+    engagement: 39
+    commentsToLikes: 0.017594
     id: ck0tv5roea20n0i19a4eomb1w
     verified: false
-    hashtags: "#muamalaysia, #bridalmakeup, #anysong, #bobbibrownmy"
+    hashtags: "#december2019, #w7makeup, #tiktokdance, #narsissist"
 ---

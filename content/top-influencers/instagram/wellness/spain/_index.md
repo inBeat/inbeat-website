@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Spain In 2020
 description: >-
-  Find top wellness Instagram influencers in Spain in 2020. Most popular hashtags: #yomequedoencasa #lookoftheday #salud #bienestar.
+  Find top wellness Instagram influencers in Spain in 2020. Most popular hashtags: #nutricion #love #madrid #saludmental.
 platform: Instagram
 profiles:
   - username: "carlasanchez.well"
     fullname: >-
       Carla Sánchez
     location: "Spain"
-    followers: 17377
-    engagement: 250
-    commentsToLikes: 0.076984
+    followers: 17966
+    engagement: 263
+    commentsToLikes: 0.068519
     id: ck5qegbpa0ckr0i11oqp6dldh
     verified: false
-    hashtags: "#meditation, #yogainspiration, #saludable, #greece"
-  - username: "bonnieschan"
-    fullname: >-
-      Bonnie S. Chan 陳雅思 🦋
-    location: "Spain"
-    followers: 49947
-    engagement: 170
-    commentsToLikes: 0.041689
-    id: ck5zvu9ab4x6k0i14ihm29ega
-    verified: true
-    hashtags: "#springfashion, #throwback, #socialdistancing, #earthday"
+    hashtags: "#familia, #greece, #martasmoreno, #madrid"
   - username: "anne_cathrine_fit"
     fullname: >-
       𝑨𝒏𝒏𝒆-𝑪𝒂𝒕𝒉𝒓𝒊𝒏𝒆 𝑾
     location: "Spain"
-    followers: 55229
-    engagement: 129
-    commentsToLikes: 0.031202
+    followers: 54658
+    engagement: 171
+    commentsToLikes: 0.027525
     id: ck5hna4pvngdy0i11z6xcjxbh
     verified: false
-    hashtags: "#valentinesday, #human, #china, #takecareofyourbody"
-  - username: "emmablondevoyage"
-    fullname: >-
-      Emma Franklin
-    location: "Spain"
-    followers: 4404
-    engagement: 1281
-    commentsToLikes: 0.178206
-    id: ck8tdfiws35zc0j78jdfnkdge
-    verified: false
-    hashtags: ""
+    hashtags: "#frontline, #nikeair, #fitgoals, #happymood"
   - username: "lapaulettefitness"
     fullname: >-
       Maria Paulette IFBB PRO® 🇪🇸
     location: "Spain"
-    followers: 251574
-    engagement: 116
-    commentsToLikes: 0.028653
+    followers: 252203
+    engagement: 106
+    commentsToLikes: 0.141258
     id: ck5zm3sodluej0i143g7waslm
     verified: false
-    hashtags: "#breakfast, #extensiones, #backworkout, #bootygains"
+    hashtags: "#legworkout, #diva, #extensiones, #rollergirl"
+  - username: "rube_13"
+    fullname: >-
+      Rubén García
+    location: "Spain"
+    followers: 31239
+    engagement: 160
+    commentsToLikes: 0.028082
+    id: ck6ucdngsezmj0j71ev8ucu2j
+    verified: false
+    hashtags: "#aniversario4minds, #daniboom, #tallerh, #wellnesscorporativo"
   - username: "marcefitness"
     fullname: >-
-      RUTINAS EN CASA GRATIS 💜
+      RUTINAS RECETAS Y NUTRICION
     location: "Spain"
-    followers: 264165
-    engagement: 122
-    commentsToLikes: 0.018837
+    followers: 289589
+    engagement: 126
+    commentsToLikes: 0.241238
     id: ck5cj8v8fu88w0i11sa24v86p
     verified: false
-    hashtags: "#partnerworkout, #healthy, #sana, #choconuts"
+    hashtags: "#juntossomosmas, #estyourgreens, #musculo, #rutina"
   - username: "blogdewellness"
     fullname: >-
-      Yael Kritzer | Nutricionista 🍃
+      Yael Kritzer | Nutricionista
     location: "Spain"
-    followers: 34953
-    engagement: 120
-    commentsToLikes: 0.060705
+    followers: 35079
+    engagement: 110
+    commentsToLikes: 0.068053
     id: ck6ugmixf3wn10j71qeb68s3a
     verified: false
-    hashtags: "#matchalatte, #zucchini, #consciencia, #dulce"
-  - username: "eliafernandezartist"
+    hashtags: "#cuarentena, #covid, #sustentable, #culturadedieta"
+  - username: "paulasblue"
     fullname: >-
-      Elia Fernandez
+      P a u l a ☽  Holistic Coach
     location: "Spain"
-    followers: 38360
-    engagement: 551
-    commentsToLikes: 0.061674
-    id: ck15ucp61midw0i197itwa2j7
+    followers: 2350
+    engagement: 1053
+    commentsToLikes: 0.077121
+    id: ck55q0a72bsk30i11ezw85qgh
     verified: false
-    hashtags: "#salsatotaloutfit, #delicadeza, #sealovers, #sorteojoyas"
+    hashtags: "#iamfree, #tenerifereviews, #zerowastecanarias, #ipadart"
+  - username: "alicia.landivar"
+    fullname: >-
+      Alicia M. Landivar
+    location: "Spain"
+    followers: 42930
+    engagement: 183
+    commentsToLikes: 0.026838
+    id: ck13d15ox353b0i19xhx3ve1t
+    verified: false
+    hashtags: "#puertorico, #bsas, #reflexion, #seguiradelante"
   - username: "mad.leineblog"
     fullname: >-
       M∀D.L∃INE
     location: "Spain"
-    followers: 5471
-    engagement: 2503
-    commentsToLikes: 0.133206
+    followers: 6882
+    engagement: 1945
+    commentsToLikes: 0.116824
     id: ck6ttzokjdh6x0j71j3d7vowv
     verified: false
-    hashtags: "#recycledpaperdesign, #thoughtsonlife, #slowfashionstyle, #humanempowerment"
-  - username: "laragon22"
+    hashtags: "#crueltyfree, #norahjones, #hawaiianquilt, #ethicaltime"
+  - username: "eliafernandezartist"
     fullname: >-
-      Lara González Ortega
+      Elia Fernandez
     location: "Spain"
-    followers: 13468
-    engagement: 1332
-    commentsToLikes: 0.023042
-    id: ck6006okpd1rr0i14bmane8k0
+    followers: 38895
+    engagement: 568
+    commentsToLikes: 0.056430
+    id: ck15ucp61midw0i197itwa2j7
     verified: false
-    hashtags: "#guerreras, #withlove, #achuchones, #yomequedoencasa"
+    hashtags: "#grafittiwall, #quarentinelife, #stayathome, #arcomadrid2020"
 ---

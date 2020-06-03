@@ -1,16 +1,16 @@
 ---
 title: Top 10 Soccer-Players Instagram Influencers In Brazil In 2020
 description: >-
-  Find top soccer-players Instagram influencers in Brazil in 2020. Most popular hashtags: #vocenaoebobo #repost #persebaya #cleansheet.
+  Find top soccer-players Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #soccer #stan #fiquememcasa.
 platform: Instagram
 profiles:
   - username: "luisinho___10"
     fullname: >-
-      Luis Felipe Rezende
+      eu sento pros fx🥋
     location: "Brazil"
-    followers: 2314
-    engagement: 2256
-    commentsToLikes: 0.131265
+    followers: 2340
+    engagement: 2220
+    commentsToLikes: 0.129396
     id: ck6ui9p0xdvri0j71vb28ovbr
     verified: false
     hashtags: ""
@@ -18,90 +18,90 @@ profiles:
     fullname: >-
       Diogo Campos
     location: "Brazil"
-    followers: 77846
-    engagement: 2993
-    commentsToLikes: 0.027729
+    followers: 77458
+    engagement: 2858
+    commentsToLikes: 0.025827
     id: ck5cedkgaktky0i119jl5owso
     verified: false
-    hashtags: "#borneofc, #samarinda, #manyalaaaaa, #vapo"
+    hashtags: "#vapo, #borneofc, #samarinda, #manyalaaaaa"
+  - username: "souza0808"
+    fullname: >-
+      Souza
+    location: "Brazil"
+    followers: 87999
+    engagement: 311
+    commentsToLikes: 0.050283
+    id: ckaoxdijucssv0i784nnyq1mk
+    verified: true
+    hashtags: "#niverderyann10anos, #obgdeus"
   - username: "dtenenbaum19"
     fullname: >-
       Daniel Tenenbaum
     location: "Brazil"
-    followers: 11067
-    engagement: 1743
-    commentsToLikes: 0.050357
+    followers: 11339
+    engagement: 1679
+    commentsToLikes: 0.049472
     id: ck15q5aym166f0i19zanpzatv
     verified: false
-    hashtags: "#preseason, #cleansheet, #shalomgame, #practise"
+    hashtags: "#practise, #record, #19, #weareback"
+  - username: "lucastaba_"
+    fullname: >-
+      Lucas Taba⚡
+    location: "Brazil"
+    followers: 4217
+    engagement: 1804
+    commentsToLikes: 0.091787
+    id: ck6ugfub72sfj0j718j13u48e
+    verified: false
+    hashtags: "#vaicorinthians, #tbt"
   - username: "victor_cuesta14"
     fullname: >-
       Victor Cuesta 🇦🇷
     location: "Brazil"
-    followers: 345362
-    engagement: 1225
-    commentsToLikes: 0.018613
+    followers: 346091
+    engagement: 1208
+    commentsToLikes: 0.017877
     id: ck5zj8amzh4g90i14acsbmbip
     verified: true
-    hashtags: "#vamointer, #todosjuntos, #stan, #fogni"
+    hashtags: "#2m, #vamointer, #todosjuntos, #stan"
+  - username: "sennaa_04"
+    fullname: >-
+      Vitor $enna 💥
+    location: "Brazil"
+    followers: 5517
+    engagement: 565
+    commentsToLikes: 0.188045
+    id: ckaovxgdx6ie30i78eameh9d7
+    verified: false
+    hashtags: "#futebol, #soccer, #nike, #fpfs"
+  - username: "kathellensousa"
+    fullname: >-
+      Kathellen Sousa
+    location: "Brazil"
+    followers: 123318
+    engagement: 454
+    commentsToLikes: 0.016090
+    id: ckap0uajsrtu90i78kf8yaddw
+    verified: true
+    hashtags: "#skateboard, #skategirl, #fitnessmodel, #tbtuesday"
   - username: "railanoficial02"
     fullname: >-
       Railan Reis
     location: "Brazil"
-    followers: 35960
-    engagement: 429
-    commentsToLikes: 0.025078
+    followers: 35153
+    engagement: 401
+    commentsToLikes: 0.025681
     id: ck6u3gopoxogt0j71j0ohp37a
     verified: true
-    hashtags: "#vocenaoebobo, #treino, #fiquememcasa, #brasiliense"
+    hashtags: "#esquadraozinho, #ningu, #familiajacupa, #chapatrezeguetinvertida"
   - username: "daniweatherholt"
     fullname: >-
       Dani Weatherholt
     location: "Brazil"
-    followers: 19881
-    engagement: 571
-    commentsToLikes: 0.014079
+    followers: 19599
+    engagement: 566
+    commentsToLikes: 0.013658
     id: ck5qe401bylpf0i11r3kq7rs8
     verified: true
-    hashtags: "#111day, #imperfectfoods, #teamfusia, #unplugtorecharge"
-  - username: "leo9"
-    fullname: >-
-      Leonardo 🇧🇷🇯🇵 レオナルド
-    location: "Brazil"
-    followers: 21770
-    engagement: 1127
-    commentsToLikes: 0.019860
-    id: ck5c5v7fa47me0i11ji9tu20n
-    verified: true
-    hashtags: "#wearereds, #maiorclubedojapao, #coronaout, #ficaemcasa"
-  - username: "baldinlucas"
-    fullname: >-
-      Lucas Baldin
-    location: "Brazil"
-    followers: 3839
-    engagement: 1194
-    commentsToLikes: 0.100046
-    id: ck14gnsj3659h0i19lt8fj15y
-    verified: false
-    hashtags: "#trainhard, #gym, #newyearseve, #family"
-  - username: "davidasilva14"
-    fullname: >-
-      David Da Silva
-    location: "Brazil"
-    followers: 211963
-    engagement: 1819
-    commentsToLikes: 0.010667
-    id: ck13674qu52bc0i191fvk0w2l
-    verified: true
-    hashtags: "#pesepakbolabersatu, #repost, #apapunmomennya, #persebaya"
-  - username: "santitrellez7"
-    fullname: >-
-      Santiago Trellez Vivero
-    location: "Brazil"
-    followers: 213618
-    engagement: 300
-    commentsToLikes: 0.012507
-    id: ck6uels41rot60j71m86gaxh1
-    verified: true
-    hashtags: "#camarotearpoador, #sapuca, #yomequedoencasa, #covid"
+    hashtags: "#teamfusia, #unplugtorecharge, #111day, #imperfectfoods"
 ---

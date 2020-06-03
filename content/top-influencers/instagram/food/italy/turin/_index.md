@@ -1,79 +1,49 @@
 ---
 title: Top 10 Food Instagram Influencers In Turin In 2020
 description: >-
-  Find top food Instagram influencers in Turin in 2020. Most popular hashtags: #foodporn #turin #torino #iorestoacasa.
+  Find top food Instagram influencers in Turin in 2020. Most popular hashtags: #food #turin #amazing #pasta.
 platform: Instagram
 profiles:
-  - username: "sarapiovano__"
+  - username: "santo.dr"
     fullname: >-
-      Sara Piovano
+      Santo.DR ©
     location: "Italy"
-    followers: 13173
-    engagement: 816
-    commentsToLikes: 0.023560
-    id: ck15qlzt63hs60i193s04um34
+    followers: 6042
+    engagement: 540
+    commentsToLikes: 0.030061
+    id: ck0uct05rhi280i190hw9q395
     verified: false
-    hashtags: "#bestchampagne, #camionisti, #langheroero, #guidemichelin"
+    hashtags: "#clip, #siciliamondotramonti, #1972, #esercitoitaliano"
   - username: "vitofoodplanner"
     fullname: >-
       Vito Mansueto
     location: "Italy"
-    followers: 6122
-    engagement: 645
-    commentsToLikes: 0.421570
+    followers: 6196
+    engagement: 750
+    commentsToLikes: 0.434625
     id: ck15s4dx7b6020i19k8flbyuo
     verified: false
-    hashtags: "#green, #torta, #criollo, #fisioterapia"
-  - username: "fabio.fi"
+    hashtags: "#capra, #primosale, #cheese, #blueberries"
+  - username: "riccardochina"
     fullname: >-
-      F A B I O ®
+      𝐆 𝐑 𝐈 𝐆 𝐈 𝐎
     location: "Italy"
-    followers: 20154
-    engagement: 598
-    commentsToLikes: 0.056506
-    id: ck15r7zzl6lpm0i19s1e95m9l
+    followers: 91869
+    engagement: 506
+    commentsToLikes: 0.047555
+    id: ck5ho24fboso60i11i13hnnz0
     verified: false
-    hashtags: "#menwhitclass, #menfashion, #guywhitstyle, #creta"
-  - username: "noemi_trm"
-    fullname: >-
-      Noemi Trombetta
-    location: "Italy"
-    followers: 16440
-    engagement: 317
-    commentsToLikes: 0.055818
-    id: ck6uejrxrrc400j715q3z6stj
-    verified: false
-    hashtags: "#colors, #healtyfood, #makeawish, #cicciopancake"
-  - username: "art___of___food"
-    fullname: >-
-      Roberta || Food Blogger
-    location: "Italy"
-    followers: 16126
-    engagement: 629
-    commentsToLikes: 0.117473
-    id: ck8tdtj3g4ppo0j78bqfi7f1h
-    verified: false
-    hashtags: "#healthylifestyle, #relaxing, #healthyfood, #foodies"
+    hashtags: "#food, #funny, #streetstyle, #turin"
   - username: "serena_filomena"
     fullname: >-
-      Serena Filomena
+      SERENA FILOMENA ✨
     location: "Italy"
-    followers: 15890
-    engagement: 162
-    commentsToLikes: 0.055135
+    followers: 16279
+    engagement: 182
+    commentsToLikes: 0.057789
     id: ck6u6fiztfb4i0j71uwtevple
     verified: false
-    hashtags: "#cosmeticinaturali, #eyeshadow, #naturalproducts, #igersoftheday"
-  - username: "piedmontfood"
-    fullname: >-
-      • PIEDMONT FOOD •
-    location: "Italy"
-    followers: 29702
-    engagement: 119
-    commentsToLikes: 0.009138
-    id: ck55o4tpn7mfm0i113z4dregv
-    verified: false
-    hashtags: "#italianfood, #romano, #roma, #italyfoodorntorino"
+    hashtags: "#plants, #natgeohub, #happybirthday, #splendid"
   - username: "peanutbutterandcrunches"
     fullname: >-
       Nocciolina 🥜
@@ -83,25 +53,55 @@ profiles:
     commentsToLikes: 0.036834
     id: ck6u5x4bnc9ff0j71timrjyvb
     verified: false
-    hashtags: "#scorpio, #aquarius, #aries, #patisserie"
-  - username: "riccardochina"
+    hashtags: "#moving, #fitgirl, #sagittarius, #localingredients"
+  - username: "_ilaria_quaranta_"
     fullname: >-
-      𝐆 𝐑 𝐈 𝐆 𝐈 𝐎
+      Ilaria Quaranta
     location: "Italy"
-    followers: 81045
-    engagement: 489
-    commentsToLikes: 0.049999
-    id: ck5ho24fboso60i11i13hnnz0
+    followers: 2418
+    engagement: 1686
+    commentsToLikes: 0.023907
+    id: ckap8dqatnvpq0i78e21d902e
     verified: false
-    hashtags: "#body, #coffee, #fyp, #duetto"
-  - username: "sourdoughpizza_lovecchiopiero"
+    hashtags: "#clouds, #summer, #amsterdamcanals, #bedlover"
+  - username: "sarabello_"
     fullname: >-
-      Piero Lovecchio
+      👠Sara🎓
     location: "Italy"
-    followers: 6877
-    engagement: 645
-    commentsToLikes: 0.067151
-    id: ck602h03jhdg90i14sgtd4tao
+    followers: 38706
+    engagement: 264
+    commentsToLikes: 0.017474
+    id: ck0u60fc50jx70i19ka703vcc
     verified: false
-    hashtags: "#fermentiamo, #noyeast, #ferment, #fermenting"
+    hashtags: "#interior, #inspofinds, #myself, #nature"
+  - username: "gabrielegalimbertiphoto"
+    fullname: >-
+      Gabriele Galimberti
+    location: "Italy"
+    followers: 213126
+    engagement: 315
+    commentsToLikes: 0.013135
+    id: ck0ucadumgbod0i19ffkc9mx0
+    verified: true
+    hashtags: "#greengrocer, #mothersday, #zanzibar, #bergamo"
+  - username: "henriaymonod"
+    fullname: >-
+      ℋ𝑒𝓃𝓇𝒾 𝒜𝓎𝓂𝑜𝓃𝑜𝒹
+    location: "Italy"
+    followers: 9921
+    engagement: 1044
+    commentsToLikes: 0.006535
+    id: ck0w4s9k605ti0i19rggh8biv
+    verified: false
+    hashtags: "#graduationday, #forest, #braccialetto, #tourdurutor"
+  - username: "jimmy.spagnesi"
+    fullname: >-
+      Gianmarco Spagnesi
+    location: "Italy"
+    followers: 7578
+    engagement: 704
+    commentsToLikes: 0.008231
+    id: ck6u5x1jcc8ws0j71xre41ie1
+    verified: false
+    hashtags: "#wave, #foodporn, #design, #view"
 ---

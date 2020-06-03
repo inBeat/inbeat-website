@@ -1,76 +1,96 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #art #outfitoftheday #painting.
+  Find top graphic-designers Instagram influencers in Indonesia in 2020. Most popular hashtags: #quarantine # #stayathome #tiktok.
 platform: Instagram
 profiles:
+  - username: "poseijon"
+    fullname: >-
+      John Matakena
+    location: "Indonesia"
+    followers: 3564
+    engagement: 1819
+    commentsToLikes: 0.079361
+    id: ckap1m824v58v0i788zgus23x
+    verified: false
+    hashtags: "#throwback"
   - username: "ulynovita"
     fullname: >-
       Uly Novita Siahaan
     location: "Indonesia"
-    followers: 60305
-    engagement: 1004
-    commentsToLikes: 0.053000
+    followers: 63216
+    engagement: 1014
+    commentsToLikes: 0.050268
     id: ck6u7x0lho5ir0j712o3w2czy
     verified: false
-    hashtags: "#makeupartistsworldwide, #dazedbeauty, #couplegoals, #workfromhome"
+    hashtags: "#colorblock, #gloomy, #makeupremover, #dream"
   - username: "michellindw"
     fullname: >-
       Mich
     location: "Indonesia"
-    followers: 31009
-    engagement: 151
-    commentsToLikes: 0.125633
+    followers: 30437
+    engagement: 154
+    commentsToLikes: 0.132433
     id: ck8sxwu5giymm0j78c6ro44am
     verified: false
-    hashtags: "#dirumahaja, #senkaindonesia, #senkaxtokopedia, #stayinyourcolor"
+    hashtags: "#tshirt, #stayathome, #oral, #tigersugar"
+  - username: "torydene"
+    fullname: >-
+      the influence
+    location: "Indonesia"
+    followers: 18686
+    engagement: 277
+    commentsToLikes: 0.028987
+    id: ckap24ua5xdmm0i789vb7e6af
+    verified: false
+    hashtags: ""
   - username: "turanggaaaa"
     fullname: >-
       Turangga Setra Yudha
     location: "Indonesia"
-    followers: 3287
-    engagement: 4272
-    commentsToLikes: 0.023747
+    followers: 3624
+    engagement: 2761
+    commentsToLikes: 0.020366
     id: ck6u2h0o9rrvm0j71p5ahdtr0
     verified: false
-    hashtags: "#adidasclassic, #knalpotvesparacing, #rotary, #indobike"
-  - username: "ovisa___"
+    hashtags: "#indobikers, #vansshoes, #vanssk8hi, #crf250l"
+  - username: "yosiaraduck"
     fullname: >-
-      𝘰𝘷𝘪𝘴𝘢ᴰᵃⁱˡʸ
+      Yosia Raduck
     location: "Indonesia"
-    followers: 28313
-    engagement: 138
-    commentsToLikes: 0.060848
-    id: ck5zil4ybfwxl0i14iahes3vw
+    followers: 14048
+    engagement: 1685
+    commentsToLikes: 0.024102
+    id: ck0vxk4bgzabb0i19vzcxy701
     verified: false
-    hashtags: "#weekend, #icannoooot, #trypomelo, #hmindonesia"
-  - username: "rachelajeng"
+    hashtags: "#artproduct, #maskingfluid, #tutorial, #birds"
+  - username: "kevinswork"
     fullname: >-
-      rachelajengputri@gmail.com
+      Kevin Lagona
     location: "Indonesia"
-    followers: 29916
-    engagement: 791
-    commentsToLikes: 0.038443
-    id: ck0w750xpbsfu0i19rywsher5
+    followers: 39418
+    engagement: 603
+    commentsToLikes: 0.059286
+    id: ck5hieui2d5na0i11e7oxh8c9
     verified: false
-    hashtags: "#tapakhening, #dreamillustration, #paintings, #mutedflorals"
-  - username: "talenta.priyatmojo"
+    hashtags: "#repost, #nikexcarhartt, #topcollectionbykevin, #outfitgrid"
+  - username: "adhityaprimadi_s"
     fullname: >-
-      talenta priyatmojo
+      Adhitya Primadi Art Account
     location: "Indonesia"
-    followers: 15630
-    engagement: 501
-    commentsToLikes: 0.020837
-    id: ck6trq4x30fo90j71rnvfzv1q
+    followers: 6284
+    engagement: 1184
+    commentsToLikes: 0.043942
+    id: ckap5cc4yb1800i78n5z13y9k
     verified: false
-    hashtags: "#calendarsurakarya, #typography, #letter, #typespire"
+    hashtags: "#zenitsuagatsuma, #sketch, #art4, #tanjiro"
   - username: "joliecactus"
     fullname: >-
-      Jolie Cactus
+      JolieCactus
     location: "Indonesia"
-    followers: 26688
-    engagement: 234
-    commentsToLikes: 0.027687
+    followers: 28334
+    engagement: 258
+    commentsToLikes: 0.035282
     id: ck0vxhgz6ywwf0i19dki0tdaw
     verified: false
     hashtags: ""
@@ -78,30 +98,10 @@ profiles:
     fullname: >-
       Shella Mulia 🐈
     location: "Indonesia"
-    followers: 3063
-    engagement: 1099
-    commentsToLikes: 0.031826
+    followers: 3054
+    engagement: 1192
+    commentsToLikes: 0.040568
     id: ck1381cxbe0zt0i19of6q387f
     verified: false
-    hashtags: "#postthepeople, #bangkok, #wanderlust, #malaysiatrulyasia"
-  - username: "kevinswork"
-    fullname: >-
-      Kevin Lagona
-    location: "Indonesia"
-    followers: 31596
-    engagement: 345
-    commentsToLikes: 0.024971
-    id: ck5hieui2d5na0i11e7oxh8c9
-    verified: false
-    hashtags: "#dirumahaja, #airmaxday2020, #ntlandfriendsberbagi, #repost"
-  - username: "cnlulaby"
-    fullname: >-
-      CINDY LULABY
-    location: "Indonesia"
-    followers: 48156
-    engagement: 140
-    commentsToLikes: 0.041728
-    id: ck6twvwuvuei00j71k3b2i2qu
-    verified: false
-    hashtags: "#eskrimcheetos, #kopikanto, #jastipjkt, #satebabisewan"
+    hashtags: "#bangkok, #pennylane, #garden, #explorejogja"
 ---

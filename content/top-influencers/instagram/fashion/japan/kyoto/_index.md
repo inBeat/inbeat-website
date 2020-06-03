@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Kyoto In 2020
 description: >-
-  Find top fashion Instagram influencers in Kyoto in 2020. Most popular hashtags: #fashion #instagood #ootd #pr.
+  Find top fashion Instagram influencers in Kyoto in 2020. Most popular hashtags: #kyoto #fashion #kyotocafe #accessory.
 platform: Instagram
 profiles:
-  - username: "kozu1240"
+  - username: "ryo2610"
     fullname: >-
-      Ryuji ＆ Koki
+      Ryo
     location: "Japan"
-    followers: 5963
-    engagement: 1883
-    commentsToLikes: 0.022915
-    id: ck0w6bqcg7tim0i19i6ldz3zb
+    followers: 41310
+    engagement: 418
+    commentsToLikes: 0.004561
+    id: ck6to4zftc4gl0j71xad9p399
     verified: false
-    hashtags: "#berrykiss, #dance, #vocal, #repost"
-  - username: "lattice_lessignes_y_m_g_c_"
+    hashtags: "#libete, #cafe, #ryotakashima, #notsoape"
+  - username: "yukico_twingram"
     fullname: >-
-      𝒦𝐸𝐸𝒞𝒪
+      𝓨𝒖𝒌𝒊𝒄𝒐 ♥︎
     location: "Japan"
-    followers: 29553
-    engagement: 165
-    commentsToLikes: 0.000506
-    id: ck14iz8z6hv0v0i19ao9ppnh8
+    followers: 40880
+    engagement: 156
+    commentsToLikes: 0.007244
+    id: ck0w6lg5c950l0i19ivtszcm3
     verified: false
-    hashtags: "#gucci, #lessignes, #happybag2020, #accessories"
-  - username: "cluelmagazine"
+    hashtags: "#whim, #blooms, #cinnamonrolls, #flowertalking"
+  - username: "canon27canon"
     fullname: >-
-      CLUÉLmagazine
+      岸本花音🦄CANON💋ママ管理🔑
     location: "Japan"
-    followers: 176500
-    engagement: 137
-    commentsToLikes: 0.000234
-    id: ck5q16wnk9ka10i119penslrr
+    followers: 3833
+    engagement: 1310
+    commentsToLikes: 0.118691
+    id: ckapc8nw42u9c0i78ytfw6qrp
     verified: false
-    hashtags: "#cluelhomme, #magazine, #bilitis, #baycrews"
-  - username: "3sv_18pink"
+    hashtags: "#openingsale, #zebaby, #zebabyclothing, #summer"
+  - username: "niiyama_chiharu"
     fullname: >-
-      ちびさや 🌻 関西グルメ（ −36kgダイエット ）
+      🌹新山千春🌹𝕠𝕗𝕗𝕚𝕔𝕚𝕒𝕝
     location: "Japan"
-    followers: 19291
-    engagement: 375
-    commentsToLikes: 0.001662
-    id: ck5q8z1ya8mbk0i11w3tfot5q
-    verified: false
-    hashtags: "#model, #f4f, #hakone, #cafeohzan"
-  - username: "o_o1137n_n"
+    followers: 31436
+    engagement: 382
+    commentsToLikes: 0.000000
+    id: ck6tze9bf96ut0j71s2p84d2c
+    verified: true
+    hashtags: "#cosmetics, #silver, #casualcoordinate, #moa"
+  - username: "nyanchutagram9"
     fullname: >-
-      
+      Mizuki‪(*˙˘˙*)❥❥
     location: "Japan"
-    followers: 59489
-    engagement: 203
-    commentsToLikes: 0.016756
-    id: ck5hopm7qpzrv0i11z8c1yq05
+    followers: 5925
+    engagement: 1020
+    commentsToLikes: 0.012844
+    id: ck9hbj2r6h1z70j78bl77lnk7
     verified: false
-    hashtags: "#iphone11promax, #lobor, #temple, #photographs"
-  - username: "ayu888ayu"
+    hashtags: "#likelike, #kimonofashion, #kimonolovers, #ungrid"
+  - username: "raimumama88"
     fullname: >-
-      ❤️❤️❤️ 𝚊𝚢𝚞 ❤️❤️❤️
+      らいむ
     location: "Japan"
-    followers: 22710
-    engagement: 795
-    commentsToLikes: 0.039727
-    id: ck8sy23uqjgsa0j78ox8ik1pn
+    followers: 28444
+    engagement: 202
+    commentsToLikes: 0.065907
+    id: ck0u1uafixz500i19w0zsxyxw
     verified: false
-    hashtags: "#phantom, #fivestar, #menu, #coodinate"
-  - username: "yuria930"
-    fullname: >-
-      優梨亜
-    location: "Japan"
-    followers: 5115
-    engagement: 1157
-    commentsToLikes: 0.019392
-    id: ck8t0xlzntplu0j7892l64p9d
-    verified: false
-    hashtags: "#hair, #travel, #sweets, #gion"
-  - username: "buritei"
-    fullname: >-
-      buri_chan🦄🌈💕
-    location: "Japan"
-    followers: 42412
-    engagement: 234
-    commentsToLikes: 0.054421
-    id: ck138y1viikwq0i19qtl7tnic
-    verified: false
-    hashtags: "#powerofadrop, #artesoielady, #supported, #sesekira"
+    hashtags: "#itunes, #some, #letalon, #ilpiuvero"
   - username: "222roseeee"
     fullname: >-
       
     location: "Japan"
-    followers: 7371
-    engagement: 977
+    followers: 7292
+    engagement: 988
     commentsToLikes: 0.039484
     id: ck138uvrai5800i19l1yn1nd3
     verified: false
-    hashtags: "#kobe, #yummyfood, #hotel, #yoga"
+    hashtags: "#fittness, #lunch, #restaurant, #hotel"
+  - username: "mich_viljoen"
+    fullname: >-
+      Michelle Viljoen
+    location: "Japan"
+    followers: 28444
+    engagement: 433
+    commentsToLikes: 0.032009
+    id: ck0vvfctpovyt0i19uzjb68jb
+    verified: false
+    hashtags: "#lensculture, #artofvisuals, #visualsoflife, #london"
+  - username: "pakio999"
+    fullname: >-
+      近藤アリー（パキ男）
+    location: "Japan"
+    followers: 6946
+    engagement: 718
+    commentsToLikes: 0.031007
+    id: ckap63hnhe8cz0i78hmj171rg
+    verified: false
+    hashtags: "#giovannirossi, #ginza, #life, #tcss"
   - username: "balanceftboy"
     fullname: >-
       Satoru
     location: "Japan"
-    followers: 16729
-    engagement: 331
-    commentsToLikes: 0.030978
+    followers: 16493
+    engagement: 326
+    commentsToLikes: 0.035412
     id: ck5zkq6tpjyde0i144jcxxr0l
     verified: false
-    hashtags: "#samuraistyle, #hotels, #hotelroom, #merelymadeforyou"
+    hashtags: "#monotonecode, #merelymade20ss, #vans, #nigelcabourn"
 ---

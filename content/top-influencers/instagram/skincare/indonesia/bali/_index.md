@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Bali In 2020
 description: >-
-  Find top skincare Instagram influencers in Bali in 2020. Most popular hashtags: #bali #skincare #indonesia #dirumahaja.
+  Find top skincare Instagram influencers in Bali in 2020. Most popular hashtags: #skincare #bali #tiktok #surabaya.
 platform: Instagram
 profiles:
-  - username: "dina.amandaa_"
+  - username: "mar_jetsetter"
     fullname: >-
-      DINA AMANDA
+      Jet ✈︎ Bali | Travel | AR
     location: "Indonesia"
-    followers: 55086
-    engagement: 97
-    commentsToLikes: 0.018313
-    id: ck15qyrls5a8b0i19hap7go07
+    followers: 43916
+    engagement: 181
+    commentsToLikes: 0.177032
+    id: ck6udvvcsnezi0j712cs5vpmv
     verified: false
-    hashtags: "#cantik, #selebgram, #generasi, #purbalingga"
-  - username: "amospabali"
+    hashtags: "#balifitness, #support, #canggupole, #nusapenidagoals"
+  - username: "nitibhakaul"
     fullname: >-
-      Amo Spa Bali
+      Nitibha Kaul
     location: "Indonesia"
-    followers: 25902
-    engagement: 274
-    commentsToLikes: 0.019749
-    id: ck5zq5ri7tzn10i1413tqhwy8
-    verified: false
-    hashtags: "#hairspa, #nailsbali, #balievent, #balidelicious"
-  - username: "awrelalifiaa"
+    followers: 741361
+    engagement: 96
+    commentsToLikes: 0.014762
+    id: ck0vzgmq7906h0i19ol0d99h7
+    verified: true
+    hashtags: "#vintage, #quarantinelife, #makeuplover, #salonlikeglowathome"
+  - username: "bungaciitralestari_"
     fullname: >-
-      Aurel Alifia
+      Bunga Citra Lestari
     location: "Indonesia"
-    followers: 316793
-    engagement: 465
-    commentsToLikes: 0.006478
-    id: ck6ueff50qlfo0j71lkok3r0o
+    followers: 36624
+    engagement: 184
+    commentsToLikes: 0.008394
+    id: ck8t4xptv871j0j78mpfr96rn
     verified: false
-    hashtags: "#judionline, #workformhome, #daftarqq, #jualluvenaglitzcosmetic"
+    hashtags: "#optrimaxplum, #karhutla, #jualansis, #sulawesi"
+  - username: "dndea"
+    fullname: >-
+      DEANANDA AYUSAPUTRI
+    location: "Indonesia"
+    followers: 43726
+    engagement: 201
+    commentsToLikes: 0.039534
+    id: ck6u1rseeni680j71memslvt6
+    verified: false
+    hashtags: "#britishrose, #ancol, #collagen, #hanyang"
   - username: "farahdibaferreira"
     fullname: >-
       Farahdiba Ferreira
     location: "Indonesia"
-    followers: 153996
-    engagement: 114
-    commentsToLikes: 0.017532
+    followers: 166634
+    engagement: 180
+    commentsToLikes: 0.019407
     id: ck5cgtc7upig30i11d6oq6ebn
     verified: false
-    hashtags: "#summervibes, #balibible, #balidaily, #coronamemes"
-  - username: "clara.sovia"
+    hashtags: "#skincarelover, #photography, #dwindonesia, #sharingiscaring"
+  - username: "chealseachristyy"
     fullname: >-
-      Clara Sovia
+      Christy Chealsea Umboh
     location: "Indonesia"
-    followers: 490170
-    engagement: 41
-    commentsToLikes: 0.020598
-    id: ck0w0egi0dsd60i19tuuallo8
+    followers: 62571
+    engagement: 1084
+    commentsToLikes: 0.013668
+    id: ck13c8slmz5en0i19f5gznw1l
     verified: false
-    hashtags: "#bersih, #infoloker, #gamis, #tinggi"
-  - username: "harriotte_"
+    hashtags: "#friendlylombok, #beachvibes, #wonderfulplaces, #mangrove"
+  - username: "theglobalite"
     fullname: >-
-      Harriotte 👑🇬🇧
+      SONYA ↠ Travel & Lifestyle
     location: "Indonesia"
-    followers: 66108
-    engagement: 301
-    commentsToLikes: 0.104483
-    id: ck5hrev5iur8o0i11pnjzulvb
-    verified: true
-    hashtags: "#travelling, #misssupranational, #holiday, #vacation"
-  - username: "galuhlanovems_"
-    fullname: >-
-      🇬​🇦​🇱​🇺​🇭​ 🇱​🇦​🇳​🇴​🇻​🇪​🇲​ 🇸
-    location: "Indonesia"
-    followers: 144283
-    engagement: 925
-    commentsToLikes: 0.016283
-    id: ck14i13pld50y0i19ae7h7sg4
+    followers: 190377
+    engagement: 96
+    commentsToLikes: 0.075428
+    id: ck5pw6wawlehe0i11n5avf8rh
     verified: false
-    hashtags: "#padang, #maskerspirulina, #makeup, #batam"
-  - username: "stephaniegunawan2310"
+    hashtags: "#poolvilla, #bathroomgoals, #minimaliststyle, #baliismylife"
+  - username: "xiaoyuebiie"
     fullname: >-
-      Stephanie Gunawan
+      ʙᴇᴀᴜᴛʏ | Fashion |Lifestyle
     location: "Indonesia"
-    followers: 107847
-    engagement: 173
-    commentsToLikes: 0.019727
-    id: ck5c51xm22kat0i11zyo1lvha
+    followers: 93016
+    engagement: 176
+    commentsToLikes: 0.083468
+    id: ck5c1zcgvw83y0i11gncsozbj
     verified: false
-    hashtags: "#potd, #weekendgetaway, #cny2020, #oneightybali"
-  - username: "devinasaritaa"
+    hashtags: "#vitc, #pkvgamesonline, #livebigoid, #tamakiako"
+  - username: "ria_gu"
     fullname: >-
-      Devιna Ѕarιтa
+      Beauty, Life Style SURABAYA
     location: "Indonesia"
-    followers: 63529
-    engagement: 223
-    commentsToLikes: 0.087775
-    id: ck6ud2huaiqsw0j717ld09khi
+    followers: 14956
+    engagement: 577
+    commentsToLikes: 0.220242
+    id: ck9wgizo3tn3b0j78y7pqhovq
     verified: false
-    hashtags: "#tuesdaymood, #covid19, #sundaymornings, #beautybloggers"
-  - username: "alintzaa"
+    hashtags: "#tiktok, #saladstop, #videoviral, #kulinersurabaya"
+  - username: "waneetacantik"
     fullname: >-
-      Alintzaa
+      Skincare Sehari hari!
     location: "Indonesia"
-    followers: 21458
-    engagement: 302
-    commentsToLikes: 0.129769
-    id: ck5c3fio4z8880i11ivk1g8i1
+    followers: 26709
+    engagement: 689
+    commentsToLikes: 0.005662
+    id: ck9wh27rcvwyy0j78sgiadv2y
     verified: false
-    hashtags: "#poolpictures, #canggu, #giliislands, #tanahlot"
+    hashtags: "#jualanonlen, #skincare, #sheetmask, #tipssekar"
 ---

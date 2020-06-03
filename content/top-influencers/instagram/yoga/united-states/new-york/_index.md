@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In New York In 2020
 description: >-
-  Find top yoga Instagram influencers in New York in 2020. Most popular hashtags: #love #losangeles #yoga #california.
+  Find top yoga Instagram influencers in New York in 2020. Most popular hashtags: #yoga #newyork #paris #earthday.
 platform: Instagram
 profiles:
-  - username: "krista_kimberly"
+  - username: "natashashumny"
     fullname: >-
-      Krista DeBono
+      Natasha Shumny
     location: "United States"
-    followers: 148714
-    engagement: 326
-    commentsToLikes: 0.063294
-    id: ck0tuvigz8uyf0i19rkbgx08y
+    followers: 29416
+    engagement: 155
+    commentsToLikes: 0.014901
+    id: ck6udm14iluv80j71gxbj0mrd
+    verified: false
+    hashtags: "#strength, #lakelife, #leggings, #goforawalk"
+  - username: "lorelay_bove"
+    fullname: >-
+      Lorelay Bove
+    location: "United States"
+    followers: 110539
+    engagement: 274
+    commentsToLikes: 0.006281
+    id: ck0w65spq710n0i192bvrfega
     verified: true
-    hashtags: "#naples, #travelinfluencer, #ciao, #bright"
-  - username: "fly_girl_rn"
+    hashtags: "#minipainting, #alice, #animation, #best9of2019"
+  - username: "laurigrisales"
     fullname: >-
-      ᴺ ᴵ ᴷ ᴷ ᴵ
+      Lauri Grisales - Yoga
     location: "United States"
-    followers: 20027
-    engagement: 465
-    commentsToLikes: 0.033083
-    id: ck5hpsfcwrw240i11io67e9d1
+    followers: 25635
+    engagement: 236
+    commentsToLikes: 0.125966
+    id: ck6tigzzu0p7s0j71s804cjtv
     verified: false
-    hashtags: "#cheers, #veteranfilmmakers, #rice, #leftofgreg"
-  - username: "annaoris_official"
+    hashtags: "#newyorknewyork, #wearenytough, #modocuarentena, #yogagilr"
+  - username: "lovecandice.c"
     fullname: >-
-      Аnna Oris
+      趙希洛  Candice .C
     location: "United States"
-    followers: 193915
-    engagement: 50
-    commentsToLikes: 0.231622
-    id: ck5zyjq30a0mk0i14z525b142
+    followers: 201030
+    engagement: 241
+    commentsToLikes: 0.013262
+    id: ck55mlm7z48j50i11il2ilg4g
     verified: false
-    hashtags: "#video, #familytraditions, #judge, #life"
-  - username: "jasmine_balais"
+    hashtags: "#makeithappen, #tgif, #mothersday, #imissunyc"
+  - username: "gigidiazofficial"
     fullname: >-
-      Jasmine Balais
+      GISELLE || ACTRESS & YOUTUBER
     location: "United States"
-    followers: 26210
-    engagement: 483
-    commentsToLikes: 0.067657
-    id: ck13998eck5hc0i19gtg0lmr7
+    followers: 12403
+    engagement: 543
+    commentsToLikes: 0.056186
+    id: ck602i67vhfpw0i1497l1rnfe
     verified: false
-    hashtags: "#happysunday, #giveaway, #lazysunday, #selfcare"
-  - username: "lila__ash"
+    hashtags: "#urbanstreetwear, #smallbusiness, #boyfriend, #voiceoverartist"
+  - username: "shihpoogeorge"
     fullname: >-
-      lila ash
+      Shihpoo George
     location: "United States"
-    followers: 9319
-    engagement: 860
-    commentsToLikes: 0.020389
-    id: ck5qbsfpjn6pa0i11r13xit7m
+    followers: 4255
+    engagement: 1873
+    commentsToLikes: 0.037791
+    id: ck8t392772e0s0j78js48dps1
     verified: false
-    hashtags: "#theamericanbystander, #tarantino, #cartoons, #babyyoda"
-  - username: "danatyne"
-    fullname: >-
-      Dana Tyne
-    location: "United States"
-    followers: 21909
-    engagement: 481
-    commentsToLikes: 0.027545
-    id: ck135i6881jti0i19az6bsrk0
-    verified: false
-    hashtags: "#swimsuit, #dogpoundla, #positiveselftalk, #workhard"
-  - username: "catpowerofficial"
-    fullname: >-
-      CAT POWER
-    location: "United States"
-    followers: 204492
-    engagement: 110
-    commentsToLikes: 0.036744
-    id: ck55pqxnmb6au0i11upcvb2h4
-    verified: true
-    hashtags: "#planetaryhealing, #covid, #reiki, #halwilner"
+    hashtags: "#dogsof512, #stpatricksday, #camel, #draftday"
   - username: "jennyclise_"
     fullname: >-
       Jenny Clise
     location: "United States"
-    followers: 33512
-    engagement: 611
-    commentsToLikes: 0.046526
+    followers: 35072
+    engagement: 546
+    commentsToLikes: 0.045940
     id: ck5cbx4o0gbr70i11zexbfmd0
     verified: false
-    hashtags: "#practiceyoga, #myyogajourney, #yogajournal, #myyogapractice"
-  - username: "olesia.nyc"
+    hashtags: "#shelterinplace"
+  - username: "danilo"
     fullname: >-
-      Olesia Anisimovich
+      Danilo
     location: "United States"
-    followers: 39710
-    engagement: 190
-    commentsToLikes: 0.074105
-    id: ck55q9jdgci2z0i11fbnfy44z
-    verified: false
-    hashtags: "#stayhome, #mymrk, #ad, #quarantinelife"
-  - username: "lily_janneck"
+    followers: 103680
+    engagement: 80
+    commentsToLikes: 0.042225
+    id: ck0w34zahrmvb0i1977g1845s
+    verified: true
+    hashtags: "#pixelart, #mexico, #teleport, #jonburgerman"
+  - username: "baratunde"
     fullname: >-
-      Lily Janneck
+      Baratunde Thurston
     location: "United States"
-    followers: 24533
-    engagement: 1733
-    commentsToLikes: 0.023577
-    id: ck5hmyogdmvlg0i114afe65iu
+    followers: 28383
+    engagement: 106
+    commentsToLikes: 0.064517
+    id: ck0vyocov4zmp0i19qqazu3j9
+    verified: true
+    hashtags: "#antivaxxers, #maskingforafriend, #dating, #newyorkstate"
+  - username: "dbear1294"
+    fullname: >-
+      Dani Barry
+    location: "United States"
+    followers: 14865
+    engagement: 792
+    commentsToLikes: 0.019884
+    id: ck8wdfng3drw00j78xaobbyi1
     verified: false
-    hashtags: "#goldleo, #ballet, #winterfashion, #youvealwayshadthepower"
+    hashtags: "#mondayvibes, #throwback, #leaves, #roses"
 ---

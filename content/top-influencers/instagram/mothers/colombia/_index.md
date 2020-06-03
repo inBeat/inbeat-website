@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Colombia In 2020
 description: >-
-  Find top mothers Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #love #travel #happy.
+  Find top mothers Instagram influencers in Colombia in 2020. Most popular hashtags: #mothersday #cuarentena #quedateencasa #diadelamadre.
 platform: Instagram
 profiles:
   - username: "maracifuentes1"
     fullname: >-
       Mara Cifuentes
     location: "Colombia"
-    followers: 1004262
-    engagement: 406
-    commentsToLikes: 0.007599
+    followers: 1035830
+    engagement: 334
+    commentsToLikes: 0.007319
     id: ck13cafkgze140i192w2zwsap
     verified: true
-    hashtags: "#jupiter, #skxheritage"
-  - username: "oliverolivellam"
+    hashtags: "#mesdelatierra, #elplanetaestuverdaderacasa"
+  - username: "veztalone"
     fullname: >-
-      OLIVER OLIVELLA
+      Veztalone
     location: "Colombia"
-    followers: 24115
-    engagement: 316
-    commentsToLikes: 0.094929
-    id: ck5q2menfgqbz0i11m68o65hk
-    verified: false
-    hashtags: "#stayathome, #mothernature, #streetstyle, #mishkyxtali"
-  - username: "dianabermudez"
-    fullname: >-
-      Díana Bermudez (Dee•ana)
-    location: "Colombia"
-    followers: 13150
-    engagement: 811
-    commentsToLikes: 0.059223
-    id: ck6uh9fnm7swa0j71e9ukxlij
-    verified: false
-    hashtags: "#stayhomeselfie, #lovelondon, #lighting, #filmtrailer"
-  - username: "alejandrosanchezlejo"
-    fullname: >-
-      Brayan&Alejandro (Lejo)
-    location: "Colombia"
-    followers: 2515
-    engagement: 1110
-    commentsToLikes: 0.057506
-    id: ck13aawduphq20i1943st8aht
-    verified: false
-    hashtags: "#myart, #film, #strangerthings, #nature"
-  - username: "shaa_minou"
-    fullname: >-
-      Aude Salomé Porsan Clémenté
-    location: "Colombia"
-    followers: 5488
-    engagement: 682
-    commentsToLikes: 0.015254
-    id: ck15q0dox0htx0i19pkb7iqxe
-    verified: false
-    hashtags: "#shadow, #city, #hair, #cocktail"
-  - username: "yirkosivirichgarma"
-    fullname: >-
-      Yirko Sivirich Garma
-    location: "Colombia"
-    followers: 42796
-    engagement: 286
-    commentsToLikes: 0.069909
-    id: ck5hryichvp6e0i1174n0y4ko
-    verified: false
-    hashtags: "#ilovedogs, #doglover, #friend, #primas"
-  - username: "tutibarrerastyle"
-    fullname: >-
-      Tuti Barrera
-    location: "Colombia"
-    followers: 74016
-    engagement: 110
-    commentsToLikes: 0.012253
-    id: ck55prz11b8qr0i11uk8esdni
-    verified: false
-    hashtags: "#myhusbandthephotographer, #sanvalentinesday, #graffitourcomuna13, #countrylife"
-  - username: "dani3palacios"
-    fullname: >-
-      Dani 3palacios
-    location: "Colombia"
-    followers: 395178
-    engagement: 120
-    commentsToLikes: 0.039847
-    id: ck6u9fezux8xy0j71digw05l0
+    followers: 12715
+    engagement: 702
+    commentsToLikes: 0.049598
+    id: ck5zpttoltbzr0i149l68bwtb
     verified: true
-    hashtags: "#adventure, #coronavirus, #travel, #lionking"
-  - username: "gruuving"
+    hashtags: "#lapiscinitarascaburda, #montatupiscinita, #21, #co"
+  - username: "canelabayona"
     fullname: >-
-      GRUUVING
+      𝕮𝖆𝖓𝖊𝖑𝖆
     location: "Colombia"
-    followers: 10736
-    engagement: 910
-    commentsToLikes: 0.033507
-    id: ck8t9ap7vnf5j0j78uk1219tz
+    followers: 86430
+    engagement: 615
+    commentsToLikes: 0.044238
+    id: ck5c5i08p3ibc0i11te34dwms
     verified: false
-    hashtags: "#discow, #fabrik, #argentina, #matjoe"
-  - username: "crissgeithner"
+    hashtags: "#90svintage, #analogportraits, #filmcommunity, #cityports"
+  - username: "megumihasebep"
     fullname: >-
-      Aura Cristina Geithner
+      Megumi Hasebe Perdomo
     location: "Colombia"
-    followers: 498093
-    engagement: 321
-    commentsToLikes: 0.030707
-    id: ck0uabjx7bs1c0i19j1qfk3sm
-    verified: true
-    hashtags: "#lapotradelabanda, #instalike, #mujeres, #bogota"
+    followers: 143474
+    engagement: 685
+    commentsToLikes: 0.030837
+    id: ck5cg6y8xo9cj0i11p9ji7wn4
+    verified: false
+    hashtags: "#paris, #paz, #quedateentucasa, #beach"
+  - username: "thebigbrowneyes"
+    fullname: >-
+      Ana Lucia Gutierrez
+    location: "Colombia"
+    followers: 46604
+    engagement: 381
+    commentsToLikes: 0.055322
+    id: ck0uaqsdncyac0i19ic7mpq4m
+    verified: false
+    hashtags: "#madeinbolivia, #thebigbrowneyes, #pink, #nycstrong"
+  - username: "andreitamtb"
+    fullname: >-
+      🚵ANDREITA💣
+    location: "Colombia"
+    followers: 50074
+    engagement: 563
+    commentsToLikes: 0.039105
+    id: ck138u2fli0r60i19nx75j4z0
+    verified: false
+    hashtags: "#girlgamer, #cuarentena, #powergirl, #mtbcolombia"
+  - username: "juantrotamundos"
+    fullname: >-
+      Juan🏃 Trotamundos 🌎
+    location: "Colombia"
+    followers: 148983
+    engagement: 240
+    commentsToLikes: 0.074006
+    id: ck0vx2jlewtqw0i19exnqrrki
+    verified: false
+    hashtags: "#hogar, #concurso, #costarica, #aguastermales"
+  - username: "hannamusik"
+    fullname: >-
+      Hanna
+    location: "Colombia"
+    followers: 175686
+    engagement: 213
+    commentsToLikes: 0.112044
+    id: ck5q7rphj2tm50i11m75huh9d
+    verified: false
+    hashtags: "#donatonporelmeta, #piano, #comuna13, #ayuda"
+  - username: "dulcejimnz"
+    fullname: >-
+      Dulce Jimenez
+    location: "Colombia"
+    followers: 72822
+    engagement: 189
+    commentsToLikes: 0.066059
+    id: ck5zzooehc4x70i14ve7vn008
+    verified: false
+    hashtags: "#quarantine, #passthebrush, #glam, #mothersday"
+  - username: "colombiajero"
+    fullname: >-
+      🇨🇴 Colombiajero 🇨🇴
+    location: "Colombia"
+    followers: 15315
+    engagement: 341
+    commentsToLikes: 0.168016
+    id: ck14gpq666fh90i192n9xwbd1
+    verified: false
+    hashtags: "#thisiscolombia, #amoamiperro, #vivirviajando, #meencantan"
 ---

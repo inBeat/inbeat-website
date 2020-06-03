@@ -1,107 +1,107 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top dancers Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #model #dance #photography.
+  Find top dancers Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #choreography #2020 #shadow.
 platform: Instagram
 profiles:
   - username: "stylouz_cosplay"
     fullname: >-
       Stylouz
     location: "Switzerland"
-    followers: 23836
-    engagement: 938
-    commentsToLikes: 0.047234
+    followers: 25440
+    engagement: 898
+    commentsToLikes: 0.050531
     id: ck0w4uulj0ilv0i19y5r8uetg
     verified: false
-    hashtags: "#cosplay, #mihawkcosplay, #jjbacosplay, #truedamagecosplay"
+    hashtags: "#popping, #cosplay, #ff15, #tetsuroukuroo"
   - username: "dominiquesallaum"
     fullname: >-
       Dominique Scarlett Sallaum
     location: "Switzerland"
-    followers: 17666
-    engagement: 656
-    commentsToLikes: 0.078037
+    followers: 21261
+    engagement: 733
+    commentsToLikes: 0.113248
     id: ck8t1syxbwwl80j78601m2jik
     verified: false
-    hashtags: "#myboy, #family, #mirage, #home"
+    hashtags: "#stayhome, #sisterhood, #bekaa, #myboy"
   - username: "chrismif"
     fullname: >-
       Chris
     location: "Switzerland"
-    followers: 7891
-    engagement: 1507
-    commentsToLikes: 0.027355
+    followers: 8139
+    engagement: 1534
+    commentsToLikes: 0.027015
     id: ck5c2qebzxro20i113qoav1dl
     verified: false
-    hashtags: "#life, #lyrical, #onmyown, #mustache"
+    hashtags: "#legday, #postgym, #spring, #towerbridge"
+  - username: "giomaphoto"
+    fullname: >-
+      Giovanni Malandrino
+    location: "Switzerland"
+    followers: 37848
+    engagement: 656
+    commentsToLikes: 0.029355
+    id: ck8t2694jyavx0j7822lrusse
+    verified: false
+    hashtags: "#balletto, #bologna, #bailarina"
   - username: "paulineschopfer"
     fullname: >-
       Pauline Schopfer 💃
     location: "Switzerland"
-    followers: 10090
-    engagement: 611
-    commentsToLikes: 0.055510
+    followers: 9924
+    engagement: 629
+    commentsToLikes: 0.054811
     id: ck15urtqloae70i19p53c3dy0
     verified: false
-    hashtags: "#like, #lifestyle, #white, #stayathome"
-  - username: "marcoandredasilva"
+    hashtags: "#lights, #shadow, #world, #night"
+  - username: "sascharodriquez"
     fullname: >-
-      Marco Andre Da Silva
+      KING RODRIQUEZ 🤴🏻
     location: "Switzerland"
-    followers: 20542
-    engagement: 641
-    commentsToLikes: 0.037896
-    id: ck5hppft8rr460i118dbsp2c7
+    followers: 2283
+    engagement: 1791
+    commentsToLikes: 0.075510
+    id: ck5zneb2foaq60i141oytnejq
     verified: false
-    hashtags: "#starbucksrtd, #quotes, #weekend, #headsup"
+    hashtags: "#fashionnova, #spoiler, #bep, #dance"
+  - username: "leonildetorrini"
+    fullname: >-
+      Léonilde Torrini
+    location: "Switzerland"
+    followers: 9511
+    engagement: 596
+    commentsToLikes: 0.062134
+    id: ck5cjn45dv2me0i11otxftfh2
+    verified: false
+    hashtags: "#handstand, #belgium, #flexiblelegs, #mslaurynhill"
   - username: "marce_hl"
     fullname: >-
       Marcelo Letra
     location: "Switzerland"
-    followers: 2505
-    engagement: 1385
-    commentsToLikes: 0.068283
+    followers: 2560
+    engagement: 1476
+    commentsToLikes: 0.066428
     id: ck5cimgtrsxct0i11mzs5d3jw
     verified: false
-    hashtags: "#street, #polaroid, #trash, #dancevideo"
-  - username: "jennifer_rissi"
+    hashtags: "#days, #shows, #hairstyle, #nude"
+  - username: "albinakireeva"
     fullname: >-
-      Jennifer Rissi 🇨🇭
+      Albina Kireeva
     location: "Switzerland"
-    followers: 8591
-    engagement: 500
-    commentsToLikes: 0.026866
-    id: ck8t7x12bi98o0j78qn2a4f1u
+    followers: 16746
+    engagement: 202
+    commentsToLikes: 0.059480
+    id: ck5byec5dozlo0i118ovz4xmq
     verified: false
-    hashtags: "#model, #ink, #cafe, #lingerie"
-  - username: "sohailzavahir"
+    hashtags: "#paper, #prettybird, #leecooper, #orsaymodel"
+  - username: "rodneychonia"
     fullname: >-
-      Sohail Zavahir
+      Rodney Chonia
     location: "Switzerland"
-    followers: 5335
-    engagement: 789
-    commentsToLikes: 0.013569
-    id: ck8swn2uael870j78uzyq5gdi
+    followers: 9341
+    engagement: 337
+    commentsToLikes: 0.059924
+    id: ck5hs1e8evtun0i1181y1dscd
     verified: false
-    hashtags: "#obey, #travisscott, #marrakech, #defshop"
-  - username: "poppinc_official_wg"
-    fullname: >-
-      Poppin’C - RED BULL  DANCER
-    location: "Switzerland"
-    followers: 22517
-    engagement: 580
-    commentsToLikes: 0.054484
-    id: ck6txv8xb01sq0j71vzx8t457
-    verified: false
-    hashtags: "#happy, #redbulldance, #beautiful, #steeetdance"
-  - username: "arinaluisa"
-    fullname: >-
-      A R I N A 🌈
-    location: "Switzerland"
-    followers: 34733
-    engagement: 576
-    commentsToLikes: 0.027403
-    id: ck5hk4xhmhsnr0i11nhzpws2l
-    verified: false
-    hashtags: "#arinaluisa, #musical, #mood, #housemusic"
+    hashtags: "#stayneutral, #coatnbeanie, #rooftop, #swisslightskinrep"
 ---

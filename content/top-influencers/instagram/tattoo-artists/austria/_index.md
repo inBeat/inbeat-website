@@ -1,97 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Austria In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Austria in 2020. Most popular hashtags: #tattoo #art #inked #vienna.
+  Find top tattoo-artists Instagram influencers in Austria in 2020. Most popular hashtags: #tattooartist #quarantine #drawing #tattoostyle.
 platform: Instagram
 profiles:
+  - username: "julesboho.tattoo"
+    fullname: >-
+      Jules Boho
+    location: "Austria"
+    followers: 48936
+    engagement: 214
+    commentsToLikes: 0.015844
+    id: ck0u83d8h6g4a0i196353gfnx
+    verified: false
+    hashtags: "#turtlepainting, #maoao, #goodmorning, #brokenheart"
+  - username: "kisakisenka"
+    fullname: >-
+      Vladimir Arhipkin
+    location: "Austria"
+    followers: 29446
+    engagement: 165
+    commentsToLikes: 0.014854
+    id: ckaoucgwozov40i78vdeh4erf
+    verified: false
+    hashtags: "#tattoomagazine, #illustration, #tattoosleeve, #tattooconvention"
   - username: "ninasphynx"
     fullname: >-
       Nina
     location: "Austria"
-    followers: 109301
-    engagement: 407
-    commentsToLikes: 0.009569
+    followers: 108830
+    engagement: 315
+    commentsToLikes: 0.009256
     id: ck5q7wr3t3eoj0i11c81qgfmg
     verified: false
-    hashtags: "#puppygram, #girlwithink, #dackelwelpe, #dogworld"
-  - username: "carola_deutsch"
+    hashtags: "#familytime, #paris, #dackel, #welpe"
+  - username: "suhai_tattoo"
     fullname: >-
-      Carola Deutsch
+      Sūhai Tattoo Artist
     location: "Austria"
-    followers: 15349
-    engagement: 187
-    commentsToLikes: 0.030812
-    id: ck55ocpah83uc0i1114gyr3x7
+    followers: 10064
+    engagement: 450
+    commentsToLikes: 0.024608
+    id: ck5qbqx08myun0i11dm2wu7u4
     verified: false
-    hashtags: "#painting, #graztattoo, #watercolour, #drinks"
-  - username: "hank_ge"
+    hashtags: "#birdtattoo, #tulip, #medusa, #argenina"
+  - username: "dani_huana_vienna"
     fullname: >-
-      Hank_ge
+      Dani Huana
     location: "Austria"
-    followers: 350397
-    engagement: 418
-    commentsToLikes: 0.010715
-    id: ck0tym4oxn80x0i194wpl73kr
+    followers: 26346
+    engagement: 404
+    commentsToLikes: 0.044707
+    id: ck9weqvnclg0m0j78yz0vxt9t
     verified: false
-    hashtags: "#iceicebaby, #oldschooltattoo, #tattoosketch, #manbun"
+    hashtags: "#ontheblog, #tattoogirls, #inkedbabes, #cbdoil"
   - username: "mercedes_tsangaras"
     fullname: >-
       𝕄ercedes𝕀ℕ𝕂  Ⓡ
     location: "Austria"
-    followers: 20616
-    engagement: 417
-    commentsToLikes: 0.031214
+    followers: 21122
+    engagement: 436
+    commentsToLikes: 0.035657
     id: ck6ued6w9q8d00j71w7tmeans
     verified: false
-    hashtags: "#whitelingerieedition, #tattoosandmuscles, #pinkshoot, #sexybabes"
-  - username: "michaelhackerillustration"
+    hashtags: "#tattoosforwomen, #blackbeauty, #instalike, #tattooedchics"
+  - username: "ninadelianin"
     fullname: >-
-      Michael Hacker
+      Nina de Lianin
     location: "Austria"
-    followers: 24394
-    engagement: 227
-    commentsToLikes: 0.015235
-    id: ck0uaotrxcozx0i19r9t52a8w
+    followers: 19975
+    engagement: 287
+    commentsToLikes: 0.048460
+    id: ck5q88rrs4zof0i11tps6w42j
     verified: false
-    hashtags: "#illo, #gigpostershow, #craftbeer, #comicfestival"
-  - username: "anatolknotek"
-    fullname: >-
-      anatol knotek | artist & poet
-    location: "Austria"
-    followers: 35097
-    engagement: 518
-    commentsToLikes: 0.013683
-    id: ck0u89k8y6vdx0i19btanlhzr
-    verified: false
-    hashtags: "#artistoninstagram, #over, #problemsolution, #hairart"
+    hashtags: "#highfashion, #souncheck, #edpiks, #donsphynx"
   - username: "belmoxoxo"
     fullname: >-
       belmo
     location: "Austria"
-    followers: 25779
-    engagement: 676
-    commentsToLikes: 0.010001
+    followers: 25988
+    engagement: 674
+    commentsToLikes: 0.010574
     id: ck14kvg3wri9f0i19jxk6dqc8
     verified: false
-    hashtags: "#art, #blackwork, #blacktattooart, #patterntattoo"
+    hashtags: "#tattoodo, #poltergeist, #painting, #drawing"
   - username: "elaimenai"
     fullname: >-
       Elai Van Menai
     location: "Austria"
-    followers: 57711
-    engagement: 784
-    commentsToLikes: 0.017905
+    followers: 56170
+    engagement: 825
+    commentsToLikes: 0.017561
     id: ck5ztvb2w16ux0i14jit1kh7k
     verified: false
-    hashtags: "#twinkles, #gifted, #easymakeup, #fanart"
-  - username: "vesna.jugovic"
+    hashtags: "#drawing, #twinkles, #upcycle, #artofinstagram"
+  - username: "flowsofly"
     fullname: >-
-      PhiAcademy Vienna
+      flowsofly
     location: "Austria"
-    followers: 57252
-    engagement: 59
-    commentsToLikes: 0.085344
-    id: ck15qi9gd2z1x0i194spxtgim
+    followers: 424353
+    engagement: 292
+    commentsToLikes: 0.004133
+    id: ck0twyl7ahaxh0i19vlkeumly
     verified: false
-    hashtags: "#australien, #uniphication, #divider, #wien"
+    hashtags: "#sculpture, #tasty, #interior, #lines"
 ---

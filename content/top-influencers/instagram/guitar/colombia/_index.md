@@ -1,107 +1,107 @@
 ---
 title: Top 10 Guitar Instagram Influencers In Colombia In 2020
 description: >-
-  Find top guitar Instagram influencers in Colombia in 2020. Most popular hashtags: #love #guitarrista #musica #supresenciaencasa.
+  Find top guitar Instagram influencers in Colombia in 2020. Most popular hashtags: #guitar #tbt #energia #video.
 platform: Instagram
 profiles:
   - username: "tobytobon"
     fullname: >-
       Toby Tobon
     location: "Colombia"
-    followers: 30644
-    engagement: 686
-    commentsToLikes: 0.031561
+    followers: 31304
+    engagement: 577
+    commentsToLikes: 0.037457
     id: ck6u9983mw7fm0j71cvpetyxl
     verified: false
-    hashtags: "#babeldiscos, #kramerasault220, #guitarplayer, #hondaherida"
-  - username: "titomanjarresm"
-    fullname: >-
-      RAMM
-    location: "Colombia"
-    followers: 7678
-    engagement: 1246
-    commentsToLikes: 0.041965
-    id: ck6u5ym1pcib10j716m44hd4h
-    verified: false
-    hashtags: "#tequierobesar, #quesuene, #daleplay, #23"
+    hashtags: "#ceremonial, #raices, #guitarplayer, #loqueesmejorsinti"
   - username: "wills_music"
     fullname: >-
       Wills ⚡
     location: "Colombia"
-    followers: 7539
-    engagement: 821
-    commentsToLikes: 0.056103
+    followers: 7386
+    engagement: 831
+    commentsToLikes: 0.053332
     id: ck139x63unkfl0i19cnzv9ebn
     verified: false
-    hashtags: "#jean, #butik, #hairstyle, #aovportraits"
+    hashtags: "#musicians, #concalma, #izmir, #jacket"
   - username: "sergioflecken"
     fullname: >-
-      Sergio Flecken
+      Sergio Martín Flecken
     location: "Colombia"
-    followers: 5356
-    engagement: 549
-    commentsToLikes: 0.033292
+    followers: 5678
+    engagement: 629
+    commentsToLikes: 0.034366
     id: ck8sykxh2l4ug0j78ryk5nvzg
     verified: false
-    hashtags: "#kixcountryfest2017, #yoanteseraadulto, #musico, #guitarrist"
+    hashtags: "#postugram101, #bluesdiminished, #loqueesnuestro, #verdequetequieronorte"
+  - username: "davegiraldo"
+    fullname: >-
+      DAVE GIRALDO
+    location: "Colombia"
+    followers: 25866
+    engagement: 1117
+    commentsToLikes: 0.110517
+    id: ck5cge3tfont30i11yugcnh0g
+    verified: false
+    hashtags: "#tour, #gibson, #pickupmusic, #gospelguitar"
   - username: "genogamez"
     fullname: >-
-      Geño Gamez🎸
+      Geño Gamez🎸
     location: "Colombia"
-    followers: 73114
-    engagement: 157
-    commentsToLikes: 0.041884
+    followers: 74299
+    engagement: 156
+    commentsToLikes: 0.040790
     id: ck5qd7qqju8aj0i11q4kbbw7y
     verified: false
-    hashtags: "#estoesreal, #sanjuan, #elsofage, #tbt"
+    hashtags: "#juanchorois, #qu, #losgigantes, #sanjuan"
+  - username: "prsandres"
+    fullname: >-
+      Andres Castro
+    location: "Colombia"
+    followers: 6331
+    engagement: 775
+    commentsToLikes: 0.038881
+    id: ckaorqve3ockc0i7886ozovv8
+    verified: false
+    hashtags: "#guitarpedals, #diosmecuida, #guitareffects, #guitarist"
   - username: "zak_ospina"
     fullname: >-
       isaac ospina o
     location: "Colombia"
-    followers: 3027
-    engagement: 1082
-    commentsToLikes: 0.063628
+    followers: 3078
+    engagement: 1118
+    commentsToLikes: 0.074557
     id: ck5zjixbshodp0i14o0cd2jeb
     verified: false
-    hashtags: "#sprayart, #graffitiporn, #quechimbadamivida, #brunomars"
+    hashtags: "#stayathome, #sprayart, #voxcorpuscrew, #pasteup"
   - username: "stevie2791"
     fullname: >-
       Stevie Sánchez
     location: "Colombia"
-    followers: 22849
-    engagement: 334
-    commentsToLikes: 0.007740
+    followers: 23859
+    engagement: 338
+    commentsToLikes: 0.010002
     id: ck15ulfr6nrf10i1999m7fo6l
     verified: false
-    hashtags: "#mequedoencasa, #malasnoticias, #nxtwave, #supresencia"
-  - username: "danbystereo"
-    fullname: >-
-      Dan Palmer
-    location: "Colombia"
-    followers: 10282
-    engagement: 483
-    commentsToLikes: 0.037750
-    id: ck0u7pdea5d7t0i19cunb14c2
-    verified: false
-    hashtags: "#evhgear, #braininvaders, #berlin, #bitchenviews"
+    hashtags: "#chops, #supresenciabandencasa, #subapresente, #quieroplaya"
   - username: "andresf.meza"
     fullname: >-
       Andres Meza "El Burro" 🐴
     location: "Colombia"
-    followers: 5757
-    engagement: 478
-    commentsToLikes: 0.030861
+    followers: 5913
+    engagement: 453
+    commentsToLikes: 0.030755
     id: ck5zvroq14svo0i140hz7w1pd
     verified: false
-    hashtags: "#musicians, #talent, #showtime, #guitarrista"
-  - username: "yelenkalindy"
+    hashtags: "#steviewonder, #concert, #sing, #recordingstudio"
+  - username: "geogymills"
     fullname: >-
-      Yelen Avila C
+      Geogy Mills
     location: "Colombia"
-    followers: 15910
-    engagement: 863
-    commentsToLikes: 0.058806
-    id: ck13cbnv4zk400i1932oeogu7
+    followers: 31791
+    engagement: 638
+    commentsToLikes: 0.105406
+    id: ck6u99adaw7vd0j71ke0h4f02
     verified: false
-    hashtags: "#guitarra, #tanto, #singingvideo, #reggaeton"
+    hashtags: "#wonderboom2, #memphis, #srv, #moneyfornothing"
 ---

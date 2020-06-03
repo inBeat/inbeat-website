@@ -1,26 +1,16 @@
 ---
 title: Top 10 Djs Instagram Influencers In 2020
 description: >-
-  Find top djs Instagram influencers in 2020. Most popular hashtags: #pioneerdj #reggaeton #dembow #gopro8.
+  Find top djs Instagram influencers in 2020. Most popular hashtags: #housemusic #dance #music #.
 platform: Instagram
 profiles:
-  - username: "djmireiadg"
-    fullname: >-
-      MIREIA DG 🦁
-    location: "Spain"
-    followers: 3916
-    engagement: 1996
-    commentsToLikes: 0.657571
-    id: ck6tyef3l390q0j71v732qrcf
-    verified: false
-    hashtags: "#party, #greeneyes, #music, #longhair"
   - username: "raquelrodallegas"
     fullname: >-
       r a q q ⚡️
     location: "United Kingdom"
-    followers: 2268
-    engagement: 3243
-    commentsToLikes: 0.100670
+    followers: 2315
+    engagement: 3220
+    commentsToLikes: 0.102458
     id: ck5zthvko0fv50i145zxhbrap
     verified: false
     hashtags: ""
@@ -28,80 +18,90 @@ profiles:
     fullname: >-
       Danique L
     location: ""
-    followers: 8126
-    engagement: 3326
-    commentsToLikes: 0.051546
+    followers: 8172
+    engagement: 3278
+    commentsToLikes: 0.047826
     id: ck8wfxytqgfnm0j7812200gmz
     verified: false
-    hashtags: "#noticeme, #tiktoktraditions, #lgbt, #lesbian"
-  - username: "iamkittens"
+    hashtags: "#mothersday"
+  - username: "djmireiadg"
     fullname: >-
-      KITTENS
-    location: "United States"
-    followers: 139707
-    engagement: 470
-    commentsToLikes: 0.024705
-    id: ck134guk2wcm90i19ueqt4w9h
-    verified: true
-    hashtags: "#jamesonpartner, #jamesoncoldbrew, #beyourownicon, #ad"
+      MIREIA DG 🦁
+    location: "Spain"
+    followers: 4023
+    engagement: 1891
+    commentsToLikes: 0.485803
+    id: ck6tyef3l390q0j71v732qrcf
+    verified: false
+    hashtags: "#dance, #wavyhair, #tech, #tutorial"
   - username: "reggiomusic"
     fullname: >-
       REGGIO
-    location: ""
-    followers: 33587
-    engagement: 367
-    commentsToLikes: 0.054998
+    location: "Spain"
+    followers: 37021
+    engagement: 319
+    commentsToLikes: 0.067815
     id: ck0u7auyo46cj0i19gb18xlx6
     verified: false
-    hashtags: "#readyfor2020, #2020, #deeplove"
-  - username: "mayakarunna"
+    hashtags: "#reggio, #2020, #music, #deeplove"
+  - username: "official_cat"
     fullname: >-
-      Maya Karunna 🎤💃🎧💪🍏✈️
-    location: "Mexico"
-    followers: 218607
-    engagement: 173
-    commentsToLikes: 0.046154
-    id: ck5cao22xds4h0i11nignizg0
+      Catherine Poulain
+    location: "Italy"
+    followers: 477469
+    engagement: 253
+    commentsToLikes: 0.060975
+    id: ck0uaug6id0bc0i19aelrcvj9
     verified: true
-    hashtags: "#arte, #tulum, #breathlessrivieracancun, #encasaconmayaykarenka"
+    hashtags: "#quarantene, #cooking, #foundation, #stayhome"
+  - username: "phantooom_"
+    fullname: >-
+      Gabriel Fuentes U.
+    location: "Chile"
+    followers: 5372
+    engagement: 1188
+    commentsToLikes: 0.069034
+    id: ck6ti72jp05tk0j71b1ld11sl
+    verified: false
+    hashtags: "#steveaoki, #lollapalooza, #lollacl, #cakeme"
+  - username: "tommyd4li"
+    fullname: >-
+      TOMMY DALI
+    location: "Italy"
+    followers: 6268
+    engagement: 2795
+    commentsToLikes: 0.026081
+    id: ck6trtov0117c0j71tjcj5qa2
+    verified: true
+    hashtags: "#dovegliocchinonarrivanotour, #longrun"
   - username: "nicolapigini"
     fullname: >-
       NICOLA PIGINI
     location: "Italy"
-    followers: 19000
-    engagement: 288
-    commentsToLikes: 0.064102
+    followers: 18762
+    engagement: 324
+    commentsToLikes: 0.073157
     id: ck5c0socktryj0i112dv3n31h
     verified: false
-    hashtags: "#respiraquestalibert"
-  - username: "kevin_kopp"
-    fullname: >-
-      Kevin Kopp
-    location: "Argentina"
-    followers: 19439
-    engagement: 443
-    commentsToLikes: 0.052403
-    id: ck5cdtbrljqif0i11ewt2gggi
-    verified: false
     hashtags: ""
-  - username: "becomingdakota"
+  - username: "thehesstwins"
     fullname: >-
-      Dakota (DJ)
+      kat + ashley
     location: "United States"
-    followers: 35075
-    engagement: 928
-    commentsToLikes: 0.011886
-    id: ck0w2awoznftz0i195l3ic1vx
+    followers: 25554
+    engagement: 445
+    commentsToLikes: 0.040311
+    id: ck5hqpr03ti630i11lhbfnk7d
     verified: false
-    hashtags: "#human, #transforbernie, #transisbeautiful, #2020goals"
-  - username: "sergialesdj"
+    hashtags: "#eqxambassador"
+  - username: "mayakarunna"
     fullname: >-
-      𝙎𝙀𝙍𝙂𝙄 𝘼𝙇𝙀𝙎
-    location: "Spain"
-    followers: 7484
-    engagement: 875
-    commentsToLikes: 0.223117
-    id: ck6ufsfe9yvbu0j71fmx5z03y
-    verified: false
-    hashtags: "#cuarentena, #mixing, #tech, #reggeton"
+      Maya Karunna 🎤💃🎧💪🍏✈️
+    location: "Mexico"
+    followers: 245708
+    engagement: 148
+    commentsToLikes: 0.040933
+    id: ck5cao22xds4h0i11nignizg0
+    verified: true
+    hashtags: "#djshow, #dancelover, #dancer, #mujersegura"
 ---

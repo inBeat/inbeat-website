@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Bali In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Bali in 2020. Most popular hashtags: #bali #inked #tattoos #tattoo.
+  Find top tattoo-artists Instagram influencers in Bali in 2020. Most popular hashtags: #tattoo #balilife #tattoobali #canggu.
 platform: Instagram
 profiles:
-  - username: "_.kobrin._"
-    fullname: >-
-      Jake Kobrin
-    location: "Indonesia"
-    followers: 30780
-    engagement: 124
-    commentsToLikes: 0.052786
-    id: ck5zisk5kgao70i14jd0kp9yg
-    verified: false
-    hashtags: "#tool, #illo, #baliindonesia, #drawing"
   - username: "dodepras_lumina"
     fullname: >-
       dodepras_tattoo
     location: "Indonesia"
-    followers: 262487
-    engagement: 267
-    commentsToLikes: 0.014685
+    followers: 264281
+    engagement: 282
+    commentsToLikes: 0.014740
     id: ck5cbxj9pgci10i11tzsj1dnx
     verified: false
-    hashtags: "#harleydavidson, #roadglidecvo, #salammatadua, #dirumahaja"
-  - username: "surantyyasaa_tattoo"
-    fullname: >-
-      KUPIT’S ✠ GodGoldTattooBali ✠
-    location: "Indonesia"
-    followers: 21273
-    engagement: 349
-    commentsToLikes: 0.009110
-    id: ck6u0s4dfhfqm0j71tws23uxf
-    verified: false
-    hashtags: "#liontattoo, #nativeamericangirl, #bali, #tattoobali"
-  - username: "simone.folliero.tattoo"
-    fullname: >-
-      simone.folliero.tattoo
-    location: "Indonesia"
-    followers: 22458
-    engagement: 224
-    commentsToLikes: 0.010050
-    id: ck5q0wpmu84w80i112b83aqaz
-    verified: false
-    hashtags: "#trafficantidarte, #balitrip, #mind, #ink"
+    hashtags: "#salammatadua, #stayhomestaysafe, #fuckcorona"
   - username: "thetattooroomcanggu"
     fullname: >-
       The Tattoo Room
     location: "Indonesia"
-    followers: 28138
-    engagement: 142
-    commentsToLikes: 0.002368
+    followers: 27716
+    engagement: 143
+    commentsToLikes: 0.002392
     id: ck1396qn2jt6n0i19c0i4utex
     verified: false
-    hashtags: "#snaketattoo, #blackworktattoo, #tattoo, #blacktattoo"
-  - username: "zombiejambula"
+    hashtags: "#balitattoo, #blackworktattoo, #tattoo, #blacktattoo"
+  - username: "krisgoman"
     fullname: >-
-      @ luxury Ink Bali
+      Kri$ Goman | Lil Pilly
     location: "Indonesia"
-    followers: 42704
-    engagement: 185
-    commentsToLikes: 0.023763
-    id: ck1372l1n9gff0i19qkeddi7z
+    followers: 145635
+    engagement: 93
+    commentsToLikes: 0.020688
+    id: ck55polm8b14i0i11aywzhrse
     verified: false
-    hashtags: "#sullenaustralia, #joker, #inked, #spidertattoo"
-  - username: "magicinkmagz"
+    hashtags: "#changeyourself, #detox, #mountain, #weliveinblack"
+  - username: "rit.kit.tattoo"
     fullname: >-
-      Magic Ink Magazine
+      tattoo-artist🌿
     location: "Indonesia"
-    followers: 81631
-    engagement: 109
-    commentsToLikes: 0.006268
-    id: ck5zyuv2rakn90i14tmbgjhrq
+    followers: 626778
+    engagement: 325
+    commentsToLikes: 0.005677
+    id: ckap6axlwf4lp0i78ic8j52iw
     verified: false
-    hashtags: "#magicinkmagz, #tattooidea, #fullsleevetattoo, #inkeeze"
-  - username: "jakesfilms"
-    fullname: >-
-      JakesFilms I Artist & Creator.
-    location: "Indonesia"
-    followers: 20748
-    engagement: 247
-    commentsToLikes: 0.069792
-    id: ck6u32i1lvbeo0j715y1ugnle
-    verified: false
-    hashtags: "#beach, #balimodel, #holiday, #shootfilm"
-  - username: "surantyyasaa_tattoo"
-    fullname: >-
-      KUPIT’S ✠ GodGoldTattooBali ✠
-    location: "Indonesia"
-    followers: 21273
-    engagement: 349
-    commentsToLikes: 0.009110
-    id: ck6u0s4dfhfqm0j71tws23uxf
-    verified: false
-    hashtags: "#liontattoo, #nativeamericangirl, #bali, #tattoobali"
+    hashtags: "#floraltattoo, #drawing, #geraniumtattoo, #champaka"
   - username: "simone.folliero.tattoo"
     fullname: >-
       simone.folliero.tattoo
     location: "Indonesia"
-    followers: 22458
-    engagement: 224
-    commentsToLikes: 0.010050
+    followers: 22095
+    engagement: 114
+    commentsToLikes: 0.008148
     id: ck5q0wpmu84w80i112b83aqaz
     verified: false
-    hashtags: "#trafficantidarte, #balitrip, #mind, #ink"
+    hashtags: "#balitrip, #mind, #tirtaempul, #balilife"
+  - username: "magicinkmagz"
+    fullname: >-
+      Magic Ink Magazine
+    location: "Indonesia"
+    followers: 81758
+    engagement: 119
+    commentsToLikes: 0.009063
+    id: ck5zyuv2rakn90i14tmbgjhrq
+    verified: false
+    hashtags: "#tattoobali, #balinesestyletattoo, #tattoosurabaya, #japanesetattoo"
+  - username: "kevin_baldini"
+    fullname: >-
+      Tattoo artist
+    location: "Indonesia"
+    followers: 16894
+    engagement: 311
+    commentsToLikes: 0.005868
+    id: ck1396q8pjt5e0i19fa760aiq
+    verified: false
+    hashtags: "#thetattooroomcanggu, #tattoobali, #bali, #rosetattoo"
+  - username: "bohemien.chic"
+    fullname: >-
+      BohoChic
+    location: "Indonesia"
+    followers: 25536
+    engagement: 268
+    commentsToLikes: 0.006543
+    id: ck15tvnwsk4up0i193bljhlmm
+    verified: false
+    hashtags: "#alohavibes, #starfishjewellery, #crystalring, #elven"
+  - username: "aninaglunk"
+    fullname: >-
+      ᗩᑎIᑎᗩ GᒪᑌᑎK
+    location: "Indonesia"
+    followers: 10340
+    engagement: 860
+    commentsToLikes: 0.198769
+    id: ck6tlq6926frn0j718e53a1r8
+    verified: false
+    hashtags: "#orange, #ootd, #tattoogirl, #mydogs"
+  - username: "magica.doll"
+    fullname: >-
+      ⚡️🔹[🅱🅰🅳 🅱🅾🆈🆉 🅲🅻🆄🅱]🔹⚡️
+    location: "Indonesia"
+    followers: 8364
+    engagement: 760
+    commentsToLikes: 0.023509
+    id: ck8t5ulylbay50j78ztnealjd
+    verified: false
+    hashtags: "#socute, #denimguy, #beautifulguy, #bjdclothes"
 ---

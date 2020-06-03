@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Chile In 2020
 description: >-
-  Find top fitness Instagram influencers in Chile in 2020. Most popular hashtags: #chile #fitness #love #photooftheday.
+  Find top fitness Instagram influencers in Chile in 2020. Most popular hashtags: #cuarentena #yomequedoencasa #yoentrenoencasa #fitness.
 platform: Instagram
 profiles:
+  - username: "pretadealma"
+    fullname: >-
+      Preta de Alma 💎
+    location: "Chile"
+    followers: 80102
+    engagement: 771
+    commentsToLikes: 0.026181
+    id: ckap6q1v2gxza0i78bzqgum1o
+    verified: false
+    hashtags: "#intuicion, #conciencia, #despertar, #valpara"
   - username: "cami4senjo"
     fullname: >-
       Camila Asenjo
     location: "Chile"
-    followers: 54084
-    engagement: 735
-    commentsToLikes: 0.019658
+    followers: 53585
+    engagement: 733
+    commentsToLikes: 0.020769
     id: ck0ua4pslbb8k0i19ejwq0gqz
     verified: false
     hashtags: ""
-  - username: "maxalonsor"
+  - username: "nattynatooo"
     fullname: >-
-      MaxiAlonso
+      Natalia Carrasco 💓👑🍀🎶🌎✈✨🐾🏋️‍♀️
     location: "Chile"
-    followers: 71096
-    engagement: 1396
-    commentsToLikes: 0.011948
-    id: ck5q12ioo8yhh0i115jfihhai
-    verified: true
-    hashtags: "#gaylove, #santiagodechile, #yomequedoencasa, #netflix"
+    followers: 17976
+    engagement: 429
+    commentsToLikes: 0.078384
+    id: ckap7in9ok8i40i784t4ska85
+    verified: false
+    hashtags: "#chilena, #mujerestatuadas, #queen, #buenasnochesmundo"
   - username: "veronica_vieyra"
     fullname: >-
       Verito Vieyra
     location: "Chile"
-    followers: 72203
-    engagement: 185
-    commentsToLikes: 0.038740
+    followers: 72485
+    engagement: 190
+    commentsToLikes: 0.047671
     id: ck0u1exuiwlq20i19o8iamidb
     verified: false
-    hashtags: "#onelove, #truelove, #bendecida, #fitness"
+    hashtags: "#frenchie, #truelove, #cuartena, #sincronicidad"
   - username: "landoraffe"
     fullname: >-
       Lando
     location: "Chile"
-    followers: 29756
-    engagement: 1398
-    commentsToLikes: 0.017813
+    followers: 32255
+    engagement: 1199
+    commentsToLikes: 0.015744
     id: ck6u6rw9uhcv00j719g597j03
     verified: false
-    hashtags: "#smiley, #background, #party, #plaid"
+    hashtags: "#shower, #whitetrunks, #nude, #hump"
   - username: "nachovelascoh"
     fullname: >-
       Nacho
     location: "Chile"
-    followers: 10933
-    engagement: 548
-    commentsToLikes: 0.029450
+    followers: 11173
+    engagement: 567
+    commentsToLikes: 0.028696
     id: ck15q5ep216qo0i19gm7yjyax
     verified: false
     hashtags: "#todo, #quedateencasa"
+  - username: "giselahulala"
+    fullname: >-
+      GISELA HU'LALA SANTANDER
+    location: "Chile"
+    followers: 109662
+    engagement: 261
+    commentsToLikes: 0.023065
+    id: ckap19edmtm2q0i78gt7axsml
+    verified: false
+    hashtags: "#quarantine, #yomequedoencasa, #photooftheday, #likeforlikes"
   - username: "ferresmaxi"
     fullname: >-
       Maxi Ferres
     location: "Chile"
-    followers: 576745
-    engagement: 166
-    commentsToLikes: 0.015383
+    followers: 580860
+    engagement: 176
+    commentsToLikes: 0.022302
     id: ck5zjfnuthi4v0i14e9z0kia8
     verified: true
-    hashtags: "#chile, #love, #runners, #coronavirus"
+    hashtags: "#cuidadopersonal, #natural, #ayuda, #dise"
+  - username: "camiladelapena"
+    fullname: >-
+      ɢɪʀʟ•ғɪᴛ•ᴘᴏᴡᴇʀ
+    location: "Chile"
+    followers: 28411
+    engagement: 422
+    commentsToLikes: 0.043344
+    id: ck15q5jy917i60i193oudxswe
+    verified: false
+    hashtags: "#cuarentena"
   - username: "fabysanhueza"
     fullname: >-
       ~ • F  A  B  Y 🌿
     location: "Chile"
-    followers: 8509
-    engagement: 447
-    commentsToLikes: 0.147580
+    followers: 11748
+    engagement: 495
+    commentsToLikes: 0.105448
     id: ck8t0cxbprn390j78ya086cyp
     verified: false
-    hashtags: "#amordemama, #diadeldeporte, #happy, #fitness"
-  - username: "memo_andres28"
-    fullname: >-
-      𝗠𝗲𝗺𝗼 𝗔𝗻𝗱𝗿𝗲𝘀 
-    location: "Chile"
-    followers: 25344
-    engagement: 349
-    commentsToLikes: 0.011333
-    id: ck8tbl5d0w2s60j78te3pfkjk
-    verified: false
-    hashtags: "#photooftheday, #instagram, #instalike, #landscape"
-  - username: "rodrigodiazrioseco"
-    fullname: >-
-      Rodrigo Diaz Rioseco
-    location: "Chile"
-    followers: 284670
-    engagement: 68
-    commentsToLikes: 0.065224
-    id: ck14ky0jerw3r0i19sjqd8i8y
-    verified: true
-    hashtags: "#zumbakidsjr, #yobailoencasa, #academiardvirtual, #zumbaenvivo"
-  - username: "michi_mm_"
-    fullname: >-
-      Michelle Matos 🖤
-    location: "Chile"
-    followers: 37325
-    engagement: 68
-    commentsToLikes: 0.045691
-    id: ck0ubkqfjep320i19oa8hw9o2
-    verified: false
-    hashtags: "#stayhome, #repost, #tbt, #cancer"
+    hashtags: "#muscle, #keto, #lowcarb, #momlife"
 ---

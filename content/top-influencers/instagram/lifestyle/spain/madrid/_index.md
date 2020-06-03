@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Madrid In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Madrid in 2020. Most popular hashtags: #madrid #lifestyle #yomequedoencasa #love.
+  Find top lifestyle Instagram influencers in Madrid in 2020. Most popular hashtags: #lifestyle #cuarentena #inspiration #stayhome.
 platform: Instagram
 profiles:
-  - username: "sweetmadness_sv"
+  - username: "benjithorpe"
     fullname: >-
-      𝚂𝚊𝚛𝚊𝚒 𝚅𝚎𝚐𝚊
+      BENJAMIN THORPE
     location: "Spain"
-    followers: 6672
-    engagement: 672
-    commentsToLikes: 0.322664
-    id: ck5zminjpmn5u0i14bnqxou7g
+    followers: 138826
+    engagement: 455
+    commentsToLikes: 0.039879
+    id: ck0tsqpal0bd40i19xqooprlr
     verified: false
-    hashtags: "#tendencia, #hotelesbonitos, #covid, #spain"
-  - username: "_palomalago"
+    hashtags: "#bored, #covid19, #friday, #bodyandfit"
+  - username: "luciadot_"
     fullname: >-
-      PALOMA LAGO
+      L u c i a D o t
     location: "Spain"
-    followers: 17450
-    engagement: 425
-    commentsToLikes: 0.127491
-    id: ck5c4ji061hfa0i11n3qnbbhl
+    followers: 2354
+    engagement: 1164
+    commentsToLikes: 0.083636
+    id: ckaoynocti9sw0i789r689kqp
     verified: false
-    hashtags: "#outfitoftheday, #ensusmanos, #beautiful, #gold"
-  - username: "manu.canadas"
-    fullname: >-
-      Manu Cañadas
-    location: "Spain"
-    followers: 12096
-    engagement: 551
-    commentsToLikes: 0.062622
-    id: ck6tlrzbj6j6z0j71s8c7fgcp
-    verified: false
-    hashtags: "#style, #instatravel, #men, #skullst"
-  - username: "gemavalentinafg"
-    fullname: >-
-      VALENTINAFG
-    location: "Spain"
-    followers: 30311
-    engagement: 341
-    commentsToLikes: 0.045607
-    id: ck13994ykk4xx0i19schrucpf
-    verified: false
-    hashtags: "#mexicana, #humor, #bisexual, #humorespa"
+    hashtags: "#africa, #travelgram, #desdemiventana, #visitvalencia"
   - username: "chabelseijo"
     fullname: >-
       Chabel Seijo
     location: "Spain"
-    followers: 33311
-    engagement: 483
-    commentsToLikes: 0.085130
+    followers: 32982
+    engagement: 471
+    commentsToLikes: 0.088432
     id: ck13bpzy1wmaq0i19duu56lbq
     verified: false
-    hashtags: "#autumn, #bijoux, #teddycoat, #newco"
+    hashtags: "#todopasara, #aussie, #teddycoat, #todopasa"
   - username: "josesuareza"
     fullname: >-
-      Jose Suárez
+      Jose Suárez
     location: "Spain"
-    followers: 87108
-    engagement: 389
-    commentsToLikes: 0.118724
+    followers: 86570
+    engagement: 420
+    commentsToLikes: 0.121123
     id: ck6tivjcl1ihs0j7180cbnurw
     verified: false
-    hashtags: "#lifestyle, #nature, #yoelijosalvarvidas, #nohayexcusas"
+    hashtags: "#covid19, #running, #naturaleza, #cuarentena"
   - username: "jcabezas0912"
     fullname: >-
       Javier Cabezas
     location: "Spain"
-    followers: 18698
-    engagement: 651
-    commentsToLikes: 0.184856
+    followers: 17733
+    engagement: 688
+    commentsToLikes: 0.184238
     id: ck15q0tar0jzg0i1962leu0id
     verified: false
-    hashtags: "#kalenjirunning, #sorteazo, #piano, #music"
-  - username: "juanmidiez"
+    hashtags: "#zara, #modelshoot, #music, #myvonvogelwatch"
+  - username: "ale90cb"
     fullname: >-
-      Juanmi 🐱
+      ••Sandra••
     location: "Spain"
-    followers: 25736
-    engagement: 422
-    commentsToLikes: 0.029506
-    id: ck5hhqi289leg0i11xt8mou62
+    followers: 41381
+    engagement: 302
+    commentsToLikes: 0.043949
+    id: ck0w50h0k1b2a0i198g2peyh8
     verified: false
-    hashtags: "#artsfestival, #coronavirus, #jaiwolf, #2wel"
+    hashtags: "#selfiemania, #sunglassess, #whatiwear, #outfitideas4you"
+  - username: "javierortegobenito"
+    fullname: >-
+      🚀Javier Ortego Benito
+    location: "Spain"
+    followers: 10070
+    engagement: 518
+    commentsToLikes: 0.045119
+    id: ck9hav3vje9n00j78qln5jn0u
+    verified: false
+    hashtags: "#manfashionstyle, #santander, #coronavirus, #lugaresmagicos"
+  - username: "belenapar"
+    fullname: >-
+      Belén Aparicio
+    location: "Spain"
+    followers: 5231
+    engagement: 1181
+    commentsToLikes: 0.115159
+    id: ck14grpdg6ot40i19ygsoaeuq
+    verified: false
+    hashtags: "#earthbestshots, #timeoutmadrid, #instaprague, #todayfanphoto"
   - username: "elmundo.en.mispies"
     fullname: >-
       Ｆａｍｉｌｙ  Ｔｒａｖｅｌｅｒ
     location: "Spain"
-    followers: 23813
-    engagement: 304
-    commentsToLikes: 0.359709
+    followers: 23873
+    engagement: 347
+    commentsToLikes: 0.471146
     id: ck6ufkapuxk9m0j71i3xk822p
     verified: false
-    hashtags: "#fesmorocco, #collectmoments, #everydayiceland, #wanderlife"
-  - username: "memoriasdeunamesa"
+    hashtags: "#globelletravels, #home, #picsarttutorial, #madridcityworld"
+  - username: "vanetrasolini"
     fullname: >-
-      Ana Cristina
+      VANESSA TRASOLINI
     location: "Spain"
-    followers: 5536
-    engagement: 594
-    commentsToLikes: 0.228955
-    id: ck6trv9cx1a8s0j71bec5l8f4
+    followers: 14358
+    engagement: 526
+    commentsToLikes: 0.067021
+    id: ckap4i97v7htv0i78fudsdcf9
     verified: false
-    hashtags: "#dsfloral, #panbrioche, #d2colores, #darkmood"
+    hashtags: "#skincarebyvane, #sunset, #relaxingtime, #happiness"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Miami In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Miami in 2020. Most popular hashtags: #makeup #beauty #miami #photography.
+  Find top cosmetics Instagram influencers in Miami in 2020. Most popular hashtags: #skincare #cosmetics #lips #skincareproducts.
 platform: Instagram
 profiles:
-  - username: "davidbenolielphotography"
+  - username: "mspriscillanyc"
     fullname: >-
-      David Benoliel
+      💄Priscilla DiStasio
     location: "United States"
-    followers: 39504
-    engagement: 144
-    commentsToLikes: 0.019336
-    id: ck5zn9nd0o1bt0i14vcqzfp4g
+    followers: 107302
+    engagement: 94
+    commentsToLikes: 0.062101
+    id: ck6tqoy5xsunt0j716md397go
     verified: false
-    hashtags: "#beauty, #designer, #magazine, #photobyme"
+    hashtags: "#lavalashes, #rainbowchallenge, #tiktok, #rhonjseason10"
+  - username: "shinobay"
+    fullname: >-
+      Dr Shino Bay Aguilera
+    location: "United States"
+    followers: 61928
+    engagement: 75
+    commentsToLikes: 0.150194
+    id: ck0w71uuybch40i1951bhpo3k
+    verified: false
+    hashtags: "#instagramlive, #noninvasive, #fitness, #gratitude"
   - username: "drjanellevega"
     fullname: >-
       Dr. Janelle Vega
     location: "United States"
-    followers: 112927
-    engagement: 106
-    commentsToLikes: 0.059489
+    followers: 114054
+    engagement: 64
+    commentsToLikes: 0.095828
     id: ck5q7hbg71kd00i11f3hzpjz7
     verified: true
-    hashtags: "#lipo, #socialdistancing, #medicalgradeproducts, #sculptra"
-  - username: "gabi.greeneyes"
-    fullname: >-
-      Gаbi Andrews
-    location: "United States"
-    followers: 36862
-    engagement: 293
-    commentsToLikes: 0.017695
-    id: ck5q2yusfifl20i11jqehcqu2
-    verified: false
-    hashtags: "#lashextensions, #happyfriday, #pinkponymiami, #atlanta"
-  - username: "tygrathunderkat"
-    fullname: >-
-      Tygra T. Slarii
-    location: "United States"
-    followers: 6621
-    engagement: 648
-    commentsToLikes: 0.030763
-    id: ck8svwanwcxwr0j78qr9bs3un
-    verified: false
-    hashtags: "#blue, #photoftheday, #oldpic, #everybodywantstobeacat"
-  - username: "gabyteemua"
-    fullname: >-
-      Gabriela Trujillo
-    location: "United States"
-    followers: 56039
-    engagement: 471
-    commentsToLikes: 0.023793
-    id: ck6uh08j2682f0j71ntcb87ga
-    verified: false
-    hashtags: "#nails, #makeupvideos, #nailinspo, #alamarmami"
-  - username: "glam_by_mel"
-    fullname: >-
-      Mel • Pelaez
-    location: "United States"
-    followers: 173193
-    engagement: 224
-    commentsToLikes: 0.022207
-    id: ck5c49tno0whz0i11y8yavjpf
-    verified: false
-    hashtags: "#makeup, #makeuptutorial, #beauty, #dragunbeauty"
-  - username: "islobodianik"
-    fullname: >-
-      IVANA SLOBODIANIK (IVI)
-    location: "United States"
-    followers: 65888
-    engagement: 537
-    commentsToLikes: 0.180845
-    id: ck6ti489i00ab0j719uvih9j6
-    verified: false
-    hashtags: "#instagram, #miamimakeupartist, #glam, #tartecosmetics"
-  - username: "kandidkinks"
-    fullname: >-
-      Alexia
-    location: "United States"
-    followers: 17912
-    engagement: 415
-    commentsToLikes: 0.051991
-    id: ck0vwcqiht3zl0i19xdbxgcmz
-    verified: false
-    hashtags: "#naturalhairspot, #makeupinspiration, #makeuplife, #nikeairmax95"
-  - username: "pattyzrihenmakeup"
-    fullname: >-
-      MAKEUP ARTIST Patty Zrihen
-    location: "United States"
-    followers: 21026
-    engagement: 165
-    commentsToLikes: 0.063275
-    id: ck5hfcaq7wtay0i118tfrcx8y
-    verified: false
-    hashtags: "#maquillajeypeinado, #romanticbride, #blondehair, #dermatologist"
+    hashtags: "#kysse, #glowup, #stress, #quarantini"
   - username: "coopaloop28"
     fullname: >-
       Garrett Cooper
     location: "United States"
-    followers: 10382
-    engagement: 883
-    commentsToLikes: 0.023959
+    followers: 10414
+    engagement: 869
+    commentsToLikes: 0.027050
     id: ck5c3higczc790i1191hiksvm
     verified: true
-    hashtags: "#ballers, #brickelldentist, #fisherisland, #downtownmiami"
+    hashtags: "#yankees, #cosmeticdentist, #playersweekend, #franklinfamily"
+  - username: "gabyteemua"
+    fullname: >-
+      Gabriela Trujillo
+    location: "United States"
+    followers: 56711
+    engagement: 468
+    commentsToLikes: 0.029422
+    id: ck6uh08j2682f0j71ntcb87ga
+    verified: false
+    hashtags: "#overlinedlips, #supportsmallbusiness, #nailrepair, #nye"
+  - username: "kravekay"
+    fullname: >-
+      ♡ KAY KAY ♡
+    location: "United States"
+    followers: 121238
+    engagement: 61
+    commentsToLikes: 0.021990
+    id: ck0w396a3s7q20i19k4pwgpui
+    verified: false
+    hashtags: "#miamihair, #kravekaykollection, #atlvendor, #atlclosures"
+  - username: "islobodianik"
+    fullname: >-
+      IVANA SLOBODIANIK (IVI)
+    location: "United States"
+    followers: 70254
+    engagement: 585
+    commentsToLikes: 0.220622
+    id: ck6ti489i00ab0j719uvih9j6
+    verified: false
+    hashtags: "#islomakeup, #jaclyncosmetics, #benefit, #colormakeup"
+  - username: "ablondebeyond"
+    fullname: >-
+      𝐾 𝐴 𝑌 𝐿 𝐴
+    location: "United States"
+    followers: 29003
+    engagement: 395
+    commentsToLikes: 0.084331
+    id: ck5zxx6jq8twr0i14b95q7x09
+    verified: false
+    hashtags: "#fitnessinspo, #active, #athlete, #cheerleader"
+  - username: "ramsesbane"
+    fullname: >-
+      ＲＡＭＳＥＳ ＢＡＮＥ
+    location: "United States"
+    followers: 5698
+    engagement: 967
+    commentsToLikes: 0.172379
+    id: ck138wle4iddi0i19k96bikuk
+    verified: false
+    hashtags: "#stupidlove, #makeupcolab, #cowmakeup, #stpatricksday"
+  - username: "pattyzrihenmakeup"
+    fullname: >-
+      MAKEUP ARTIST Patty Zrihen
+    location: "United States"
+    followers: 21615
+    engagement: 155
+    commentsToLikes: 0.066235
+    id: ck5hfcaq7wtay0i118tfrcx8y
+    verified: false
+    hashtags: "#blueeyedgirl, #metalicshadow, #drbaum, #rubias"
 ---

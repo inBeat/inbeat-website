@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Chicago In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Chicago in 2020. Most popular hashtags: #chicago #love #chicagohairstylist #cosmetics.
+  Find top cosmetics Instagram influencers in Chicago in 2020. Most popular hashtags: #cosmetics #fashionista #hair #quarantine.
 platform: Instagram
 profiles:
   - username: "thearielpryor"
     fullname: >-
       Ariel Pryor
     location: "United States"
-    followers: 36107
-    engagement: 258
-    commentsToLikes: 0.014479
+    followers: 36392
+    engagement: 274
+    commentsToLikes: 0.014360
     id: ck6tx9p76wmdk0j71ph2nmxcc
     verified: false
-    hashtags: "#chicagodancer, #lahairstylist, #yummychallenge, #16yearoldslayer"
-  - username: "cityangelic"
-    fullname: >-
-      Angelic Brockman | Model
-    location: "United States"
-    followers: 3314
-    engagement: 1182
-    commentsToLikes: 0.134283
-    id: ck137pfjmcpi60i19mdzfvrho
-    verified: false
-    hashtags: "#texasmodels, #modelspower, #lashes, #modelsofinstagram"
+    hashtags: "#quickweave, #savagechallenge, #melted, #atlhairstylist"
   - username: "minipennyblog"
     fullname: >-
       Jessie Barber
     location: "United States"
-    followers: 30112
-    engagement: 140
-    commentsToLikes: 0.018677
+    followers: 29919
+    engagement: 142
+    commentsToLikes: 0.024904
     id: ck5zzfciqbmsb0i147m25f5z2
     verified: false
     hashtags: "#shoedazzlepartner, #liketkit, #randcolove, #fabfitfunpartner"
-  - username: "themisstoto"
+  - username: "cityangelic"
     fullname: >-
-      THE MISS TOTO LLC
+      Angelic Brockman | Model
     location: "United States"
-    followers: 18116
-    engagement: 841
-    commentsToLikes: 0.024678
-    id: ck0w6gmd28gvz0i19x3jem3yf
+    followers: 3272
+    engagement: 1215
+    commentsToLikes: 0.139332
+    id: ck137pfjmcpi60i19mdzfvrho
     verified: false
-    hashtags: "#iminlovewithmisstoto, #cheer, #blackgirlmagic, #quarantingz"
-  - username: "realsircruse"
+    hashtags: "#igmodels, #instamodels, #hair, #lashes"
+  - username: "lechicdiaries"
     fullname: >-
-      Sir Cruse
+      L E  C H I C  D I A R I E S
     location: "United States"
-    followers: 343158
-    engagement: 225
-    commentsToLikes: 0.018287
-    id: ck5c6ejz359yd0i11zgy9b3lo
+    followers: 11237
+    engagement: 751
+    commentsToLikes: 0.044291
+    id: ck5buaznnhgsu0i11zx80khhu
     verified: false
-    hashtags: "#barbershopconnect, #nychairstylist, #sircruse, #life"
-  - username: "sdkmakeup"
+    hashtags: "#beauty, #makeupartist, #makeuplover, #chicagofashion"
+  - username: "kasandraxmua"
     fullname: >-
-      Sameen Khan
+      K A S A N D R A   F L O R E S
     location: "United States"
-    followers: 21550
-    engagement: 231
-    commentsToLikes: 0.078917
-    id: ck0w21pt7m7lc0i19vtc838af
+    followers: 7179
+    engagement: 807
+    commentsToLikes: 0.219543
+    id: ck5zxz6av8xrw0i14xoclrp7j
     verified: false
-    hashtags: "#pakistan, #receptiondress, #hijabfashion, #lillyghalichi"
+    hashtags: "#frankierosecosmetics, #maybelline, #ootn, #cindysrooftop"
   - username: "chrismychael"
     fullname: >-
       ✨💋 The Chris Mychael 💋✨
     location: "United States"
-    followers: 34252
-    engagement: 679
-    commentsToLikes: 0.020779
+    followers: 41696
+    engagement: 277
+    commentsToLikes: 0.036891
     id: ck5hngumgnrcd0i11ag61u4q0
     verified: false
-    hashtags: "#glambychrismychael, #throwback"
+    hashtags: "#glambychrismychael, #throwbackglam, #chrismychaelvibe"
+  - username: "natashaziaxo"
+    fullname: >-
+      Natasha Zia 👼♥️
+    location: "United States"
+    followers: 9574
+    engagement: 812
+    commentsToLikes: 0.268701
+    id: ck5hrwyn1vmdg0i117e3cralm
+    verified: false
+    hashtags: "#grain, #skinwinbynk, #pullandbear, #hoodie"
   - username: "atstasia"
     fullname: >-
       Anastasia🦋
     location: "United States"
-    followers: 22084
-    engagement: 618
-    commentsToLikes: 0.016531
+    followers: 21938
+    engagement: 605
+    commentsToLikes: 0.016400
     id: ck5ch7dubq8g10i11lbvg6xp9
     verified: false
-    hashtags: "#love, #sundayfunday, #power, #iwontgiveup"
-  - username: "misslailamcqueen"
+    hashtags: "#bestoftheday, #organic, #bikini, #print"
+  - username: "karenncamargo_"
     fullname: >-
-      Laila McQueen
+      Karen 👩🏻‍🎨
     location: "United States"
-    followers: 255835
-    engagement: 280
-    commentsToLikes: 0.007728
-    id: ck55ndlic5zb10i11hqidhv2w
-    verified: true
-    hashtags: "#wowpresentsplus"
-  - username: "juliabrueckler"
-    fullname: >-
-      Julia Brueckler
-    location: "United States"
-    followers: 31480
-    engagement: 840
-    commentsToLikes: 0.039114
-    id: ck0u8h3rw7gor0i1979k4coiw
+    followers: 49777
+    engagement: 2525
+    commentsToLikes: 0.038883
+    id: ck15umb6knvgr0i19qidx1web
     verified: false
-    hashtags: "#texas, #skateclipsdaily, #texasskateboarding, #skatetimes"
+    hashtags: "#benefitclubpink, #doseofcolors, #georgia"
+  - username: "abbystahlschmidt"
+    fullname: >-
+      Abigail SIGNED MODEL/VIOLINIST
+    location: "United States"
+    followers: 24911
+    engagement: 278
+    commentsToLikes: 0.038893
+    id: ck6ts173p27s50j71p9lrkf6d
+    verified: false
+    hashtags: "#italy, #apparel, #lynyrdskynyrd, #portraits"
 ---

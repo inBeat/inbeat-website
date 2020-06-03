@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Durban In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Durban in 2020. Most popular hashtags: #southafrica #lockdown #tflers #igers.
+  Find top lifestyle Instagram influencers in Durban in 2020. Most popular hashtags: #lifestyle #covid19 #portrait #sundayfunday.
 platform: Instagram
 profiles:
-  - username: "shanfourie.coza"
-    fullname: >-
-      Shan Fourie | Content Creator
-    location: "South Africa"
-    followers: 10358
-    engagement: 333
-    commentsToLikes: 0.094025
-    id: ck5byusqtpvzh0i11n6hkr2k7
-    verified: false
-    hashtags: "#selfisolation, #sharethelove, #lockdown, #mexicanparty"
   - username: "treven_moodley"
     fullname: >-
       Treven Moodley
     location: "South Africa"
-    followers: 18162
-    engagement: 271
-    commentsToLikes: 0.037381
+    followers: 17995
+    engagement: 304
+    commentsToLikes: 0.040289
     id: ck6u0k2klg5gz0j7150u2jdzy
     verified: false
-    hashtags: "#styleforman, #wineroute, #animalprint, #tiktoksa"
-  - username: "kunene_ayanda"
+    hashtags: "#suituptime, #pinkhair, #finalrose, #goldenhourlight"
+  - username: "littlejaneflorals"
     fullname: >-
-      Ayanda Kunene
+      Amy-Jane (Little Jane)
     location: "South Africa"
-    followers: 3500
-    engagement: 581
-    commentsToLikes: 0.083673
-    id: ck138fd3bfyxf0i199d208qt8
+    followers: 7863
+    engagement: 580
+    commentsToLikes: 0.142533
+    id: ck8t7a3ldg32v0j789uibk8cf
     verified: false
-    hashtags: "#editorial, #birthday, #cryotherapy, #ideas"
-  - username: "shawnee_reid"
+    hashtags: "#modernflorals, #saffa, #exploreflorals, #instaartlovers"
+  - username: "londy_mazwide_eventdesigner"
     fullname: >-
-      Shawnee Reid
+      Londiwe Ndwandwe Ngcobo
     location: "South Africa"
-    followers: 23963
-    engagement: 305
-    commentsToLikes: 0.063959
-    id: ck15tn2y6iwd90i198x1nvvko
+    followers: 148673
+    engagement: 108
+    commentsToLikes: 0.035773
+    id: ck0vw8gnysknh0i19lidhl65f
     verified: false
-    hashtags: "#southafrica, #instagood, #food, #quiz"
-  - username: "uncork_sa"
+    hashtags: "#strongertogether, #strong, #positivemindset, #acrylicmenu"
+  - username: "sothogirldiaries"
     fullname: >-
-      Uncork SA 🍷🇿🇦  Fred Hart
+      African Print | Mapitso Thaisi
     location: "South Africa"
-    followers: 28588
-    engagement: 132
-    commentsToLikes: 0.123339
-    id: ck6u2ckozr0xq0j71q7d199w5
+    followers: 6155
+    engagement: 503
+    commentsToLikes: 0.093151
+    id: ck5qdkvlcw2sj0i11h1d4h3hw
     verified: false
-    hashtags: "#helderberg, #napa, #sangiovese, #londondrygin"
-  - username: "kylieshanay"
+    hashtags: "#proteahotels, #stayindoors, #sunsets, #poolsidevibes"
+  - username: "senz_m"
     fullname: >-
-      𝐊𝐘𝐋𝐈𝐄 𝐒𝐇𝐀𝐍𝐀𝐘 | 𝐁𝐄𝐀𝐔𝐓𝐘 🤍
+      TRAVEL & LIFESTYLE
     location: "South Africa"
-    followers: 6979
-    engagement: 1922
-    commentsToLikes: 0.760394
-    id: ck0vvdzuvopko0i19s0o59y26
+    followers: 5617
+    engagement: 1283
+    commentsToLikes: 0.105114
+    id: ck6to4ihic1yv0j71t7n9wy4h
     verified: false
-    hashtags: "#loveguess, #maybelline, #maybellinemasterbronze, #proudsouthafrican"
-  - username: "ismaeelbagus"
+    hashtags: "#solotravel, #stayhome, #localbrands, #airbnb"
+  - username: "iambriandsp"
     fullname: >-
-      Ishy | Men’s Style
+      B R I A ND ES A I N TP E R N
     location: "South Africa"
-    followers: 2904
-    engagement: 2141
-    commentsToLikes: 0.159787
-    id: ck136233x4dks0i19e0kr7qsm
+    followers: 40995
+    engagement: 96
+    commentsToLikes: 0.014714
+    id: ck6tozkcvgznj0j71n70fwtao
     verified: false
-    hashtags: "#merrychristmas, #mrpmystyle"
-  - username: "imancoovadia_"
+    hashtags: "#photography, #durban, #apartmentliving, #deckie"
+  - username: "kore_thando"
     fullname: >-
-      Iman Coovadia
+      Kore Thando
     location: "South Africa"
-    followers: 6561
-    engagement: 753
-    commentsToLikes: 0.187492
-    id: ck5bvjl4djrt60i11vbw5ih01
+    followers: 2484
+    engagement: 939
+    commentsToLikes: 0.074426
+    id: ck5ho2wmhou3v0i116ua86fwa
     verified: false
-    hashtags: "#dior, #diorbeautylovers, #dior, #makeup"
-  - username: "nikitajoshua"
+    hashtags: "#dreams, #swag, #hoodie, #mcm"
+  - username: "lilyonthemove"
     fullname: >-
-      Nikita | Model & Makeup Artist
+      Lily | Travel | Lifestyle
     location: "South Africa"
-    followers: 29064
-    engagement: 545
-    commentsToLikes: 0.045047
-    id: ck5q1k1wmbddf0i113a465475
+    followers: 2365
+    engagement: 2933
+    commentsToLikes: 0.119557
+    id: ck5hmf4r7lu4p0i11pahq0cw1
     verified: false
-    hashtags: "#beauty, #contentcreator, #femaleentrepreneurship, #engagedcouple"
-  - username: "holymane_"
+    hashtags: "#explorequebec, #epicshotz5k, #starscape, #networkbangers"
+  - username: "themauricebullard"
     fullname: >-
-      MELY 💋💕
+      Maurice Bullard♐️
     location: "South Africa"
-    followers: 6601
-    engagement: 721
-    commentsToLikes: 0.075886
-    id: ck5ck71lew9r20i11dymoz57z
+    followers: 29193
+    engagement: 488
+    commentsToLikes: 0.036693
+    id: ck8swq5dkeup40j78oczzrngz
     verified: false
-    hashtags: "#noscheveuxsontmagiques, #bijouxfaitmain, #earthexplorer, #ilovekiabiantillesguyane"
+    hashtags: "#fox29goodday, #milcmagazine, #gymlife, #powerade"
+  - username: "foodiewithafro"
+    fullname: >-
+      Talicia J
+    location: "South Africa"
+    followers: 10601
+    engagement: 454
+    commentsToLikes: 0.118375
+    id: ck0ttkssh366a0i19q69zgo12
+    verified: false
+    hashtags: "#quote, #inspirationalquotes, #grateful, #beer"
 ---

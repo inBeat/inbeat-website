@@ -1,107 +1,107 @@
 ---
 title: Top 10 Music Instagram Influencers In Chile In 2020
 description: >-
-  Find top music Instagram influencers in Chile in 2020. Most popular hashtags: #yomequedoencasa #tbt #instagood #music.
+  Find top music Instagram influencers in Chile in 2020. Most popular hashtags: #tbt #nature #rm #pejerrey.
 platform: Instagram
 profiles:
-  - username: "maxdonosos"
+  - username: "nickgcl_"
     fullname: >-
-      Max Donoso
+      Nick G
     location: "Chile"
-    followers: 14357
-    engagement: 1186
-    commentsToLikes: 0.061865
-    id: ck6ti7e0f06ex0j71usnjz7de
+    followers: 16161
+    engagement: 689
+    commentsToLikes: 0.102581
+    id: ck6uhuan4bala0j718ei3wsyr
     verified: false
-    hashtags: "#tedaaaalas, #tiktok"
-  - username: "raysaortizv"
-    fullname: >-
-      Raysa Ortiz
-    location: "Chile"
-    followers: 819413
-    engagement: 802
-    commentsToLikes: 0.019950
-    id: ck6u94clkvfci0j71jdzuigmu
-    verified: true
-    hashtags: "#eonlatino, #yomequedoencasa, #experienciaelvive, #elvive"
-  - username: "nicoalamoj"
-    fullname: >-
-      𝗡𝗜𝗖𝗢𝗟𝗔́𝗦 𝗔𝗟𝗔𝗠𝗢
-    location: "Chile"
-    followers: 27593
-    engagement: 458
-    commentsToLikes: 0.095200
-    id: ck5hfos5xyjmu0i11j0fuetnp
-    verified: false
-    hashtags: "#colorful, #contravientoymarea, #mahshi, #portrait"
+    hashtags: "#333, #renunciapi"
   - username: "gblumel"
     fullname: >-
       Gonzalo Blumel
     location: "Chile"
-    followers: 13282
-    engagement: 886
-    commentsToLikes: 0.943674
+    followers: 14884
+    engagement: 809
+    commentsToLikes: 0.742166
     id: ck55j9x3nwlb10i112ayyrk3z
     verified: true
-    hashtags: "#pymesmotordechile, #atacama, #pensiones, #terreno"
-  - username: "tomas_felds"
-    fullname: >-
-      Tomás Feldstedt
-    location: "Chile"
-    followers: 86993
-    engagement: 775
-    commentsToLikes: 0.051571
-    id: ck5hqzjnmu06v0i114x6v80re
-    verified: false
-    hashtags: "#giraenmoto2020"
+    hashtags: "#semanadelapyme, #terreno, #diadelrock, #eltiemponoesexcusa"
   - username: "aldho"
     fullname: >-
       Aldo  Martinez
     location: "Chile"
-    followers: 23697
-    engagement: 1009
-    commentsToLikes: 0.029257
+    followers: 24486
+    engagement: 1007
+    commentsToLikes: 0.030457
     id: ck15p9qc5wsp60i19yeuz5j5l
     verified: false
-    hashtags: "#vapechile, #marchadelorgullo, #cerveza, #oldchallenge"
-  - username: "agustinjunior_"
+    hashtags: "#oldchallenge, #feliz2020, #fesiluzchile, #cerveza"
+  - username: "nicoalamoj"
     fullname: >-
-      AGUSTINJUNIOR_OFICIAL
+      𝗡𝗜𝗖𝗢𝗟𝗔́𝗦 𝗔𝗟𝗔𝗠𝗢
     location: "Chile"
-    followers: 95530
-    engagement: 878
-    commentsToLikes: 0.017242
-    id: ck138ha72g86w0i19d6nhlp3x
+    followers: 27699
+    engagement: 379
+    commentsToLikes: 0.109709
+    id: ck5hfos5xyjmu0i11j0fuetnp
     verified: false
-    hashtags: "#laserena, #worldwide, #sellonacional, #caletacoquimbo"
+    hashtags: "#rojotvn, #rojofamacontrafama, #newmusic, #retrofest"
   - username: "pipogormaz"
     fullname: >-
       Francisco Gormaz Arteaga
     location: "Chile"
-    followers: 47399
-    engagement: 642
-    commentsToLikes: 0.034126
+    followers: 48921
+    engagement: 669
+    commentsToLikes: 0.033102
     id: ck55mn5xl4bit0i11yudfhirg
     verified: false
-    hashtags: "#gemelaschv, #cortaelcable, #hardfired, #comoyoquiera"
+    hashtags: "#challengeaccepted, #ni, #catfriendscl, #vichoylasgaviotas"
+  - username: "vinnatti"
+    fullname: >-
+      Vale Chica
+    location: "Chile"
+    followers: 32046
+    engagement: 1482
+    commentsToLikes: 0.019365
+    id: ck5q54jr8rcjx0i114gnumxt9
+    verified: false
+    hashtags: "#passthekpopbrush, #ksquad, #disneychallenge, #passthebrushchallenge"
   - username: "tommypervan"
     fullname: >-
       José Tomás Pervan
     location: "Chile"
-    followers: 16491
-    engagement: 1162
-    commentsToLikes: 0.022177
+    followers: 18807
+    engagement: 1192
+    commentsToLikes: 0.021366
     id: ck6tii09p0r5f0j71dkz3rvf2
     verified: false
-    hashtags: "#paviliomgaming, #hppaviliongaming, #hp, #gamer"
+    hashtags: "#sorteo, #navidad, #ma, #tommypascuero"
+  - username: "floberner"
+    fullname: >-
+      flo♭erner 🧿
+    location: "Chile"
+    followers: 16120
+    engagement: 638
+    commentsToLikes: 0.065808
+    id: ck5can2cldq210i11hm8ht0hu
+    verified: false
+    hashtags: "#sunsetmirador, #feriapets, #escuela, #sing"
   - username: "laloiensen"
     fullname: >-
-      Iensen
+      Lalo Iensen 🦍
     location: "Chile"
-    followers: 19121
-    engagement: 1023
-    commentsToLikes: 0.044386
+    followers: 18792
+    engagement: 977
+    commentsToLikes: 0.041655
     id: ck5q5jrt2t7ue0i11z3zok466
     verified: false
-    hashtags: "#monstruo, #nofilter, #tbt, #karmasutra"
+    hashtags: "#tbt, #karmasutra, #quenopare"
+  - username: "maria_carrascoj"
+    fullname: >-
+      María Carrasco
+    location: "Chile"
+    followers: 37535
+    engagement: 650
+    commentsToLikes: 0.020458
+    id: ck6tiuo3g1gqj0j71i98sro6f
+    verified: true
+    hashtags: "#lailiada, #8demarzo, #tbt, #womenpower"
 ---

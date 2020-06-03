@@ -1,26 +1,16 @@
 ---
 title: Top 10 Models Instagram Influencers In Turin In 2020
 description: >-
-  Find top models Instagram influencers in Turin in 2020. Most popular hashtags: #torino #shooting #turin #italiangirl.
+  Find top models Instagram influencers in Turin in 2020. Most popular hashtags: #model #quarantine #monday #details.
 platform: Instagram
 profiles:
-  - username: "giulia_kefalas"
-    fullname: >-
-      Giulia Kefalas Model
-    location: "Italy"
-    followers: 5544
-    engagement: 1178
-    commentsToLikes: 0.074144
-    id: ck8t89arejjrx0j78cpga4up7
-    verified: false
-    hashtags: "#happiness, #stateacasa, #completo, #occhialidavista"
   - username: "marty__muse"
     fullname: >-
       ༺MARTINA RAMUNDO༻
     location: "Italy"
-    followers: 40865
-    engagement: 171
-    commentsToLikes: 0.199766
+    followers: 40147
+    engagement: 205
+    commentsToLikes: 0.223817
     id: ck6u6mviogjau0j71oddxhlt1
     verified: false
     hashtags: ""
@@ -28,80 +18,90 @@ profiles:
     fullname: >-
       Silvia Di Santo♡
     location: "Italy"
-    followers: 91807
-    engagement: 519
-    commentsToLikes: 0.004737
+    followers: 92774
+    engagement: 633
+    commentsToLikes: 0.005465
     id: ck8wgojylhris0j781y7zz7eb
     verified: false
-    hashtags: "#adv, #valencia, #perte, #neiperte"
-  - username: "sonia_dedo"
+    hashtags: "#adv, #mugshot, #pyrexshoes, #shopartshoes"
+  - username: "milejuveofficial"
     fullname: >-
-      Sonia Barreca💎👑
+      🤍🖤 Milena Garreffa 🤍🖤
     location: "Italy"
-    followers: 15564
-    engagement: 996
-    commentsToLikes: 0.035677
-    id: ck8wd0kj4d8xs0j78f76looq7
+    followers: 23644
+    engagement: 1484
+    commentsToLikes: 0.034726
+    id: ck8t66o44cfip0j787rsra0xs
     verified: false
-    hashtags: "#biomeccanica, #getmoving, #picoftheday, #6secondi"
+    hashtags: "#juventus, #newjob, #takeyourtime, #lookfitness"
+  - username: "marcotaddeiofficial"
+    fullname: >-
+      Marco Taddei
+    location: "Italy"
+    followers: 75877
+    engagement: 308
+    commentsToLikes: 0.023170
+    id: ck0ub7ioudv0r0i19yhcn4sc1
+    verified: false
+    hashtags: "#sunday, #theroyalfamily, #weekend, #vibes"
   - username: "martadimatteo__"
     fullname: >-
       🌸 MARTA DI MATTEO 🌸
     location: "Italy"
-    followers: 35213
-    engagement: 868
-    commentsToLikes: 0.030959
+    followers: 36135
+    engagement: 835
+    commentsToLikes: 0.036078
     id: ck8szh5zhofe00j78w2gx6kik
     verified: false
-    hashtags: "#crushquarantine, #photooftheday, #hjchelmets, #globepeople"
-  - username: "alice.fiorini_"
+    hashtags: "#postcard, #modelpop, #blackandwhite, #quarantinlife"
+  - username: "enri76to"
     fullname: >-
-      A L I C E
+      Enrica
     location: "Italy"
-    followers: 17589
-    engagement: 792
-    commentsToLikes: 0.052883
-    id: ck6tzxekacfn50j717bethzy2
+    followers: 15317
+    engagement: 882
+    commentsToLikes: 0.047162
+    id: ck9wez8nvmjp90j78g67dab4y
     verified: false
-    hashtags: "#kryolanmakeup, #avangarde, #cloud, #animalcrossing"
+    hashtags: "#crossedlegs, #biondina, #outfit, #night"
+  - username: "iaiapixie"
+    fullname: >-
+      IAIA PIXIE
+    location: "Italy"
+    followers: 20462
+    engagement: 324
+    commentsToLikes: 0.089704
+    id: ck8tbj43xvwa30j78yx8exgj7
+    verified: false
+    hashtags: "#plush, #shootingday, #flowerstagram, #sparkling"
+  - username: "ireneflame"
+    fullname: >-
+      Irene Gamarra Curvy
+    location: "Italy"
+    followers: 8042
+    engagement: 1537
+    commentsToLikes: 0.041477
+    id: ck9wf7ukbnla40j78hqa6kz44
+    verified: false
+    hashtags: "#face, #occhi, #curvyplussize, #mechanicgirl"
+  - username: "carola_bianco_"
+    fullname: >-
+      Carola Bianco
+    location: "Italy"
+    followers: 8348
+    engagement: 849
+    commentsToLikes: 0.032681
+    id: ck6ufbfr2w2590j71nlmz3inb
+    verified: false
+    hashtags: "#palms, #room, #maiorca, #staysafe"
   - username: "edmea_sg"
     fullname: >-
       Edmea Suicide
     location: "Italy"
-    followers: 8287
-    engagement: 867
-    commentsToLikes: 0.071641
+    followers: 9260
+    engagement: 706
+    commentsToLikes: 0.071938
     id: ck6txe515xbbc0j71ovgw9gqi
     verified: false
-    hashtags: "#details, #quarantena, #portrait, #suicidegirlsitaly"
-  - username: "fabio.fi"
-    fullname: >-
-      F A B I O ®
-    location: "Italy"
-    followers: 20154
-    engagement: 598
-    commentsToLikes: 0.056506
-    id: ck15r7zzl6lpm0i19s1e95m9l
-    verified: false
-    hashtags: "#menwhitclass, #menfashion, #guywhitstyle, #creta"
-  - username: "vanekatv"
-    fullname: >-
-      Vanessa Gomez
-    location: "Italy"
-    followers: 77155
-    engagement: 427
-    commentsToLikes: 0.013176
-    id: ck134up4sy9z00i19s616fqt2
-    verified: false
-    hashtags: "#colombia, #fashiondiaries, #model, #love"
-  - username: "noemi_trm"
-    fullname: >-
-      Noemi Trombetta
-    location: "Italy"
-    followers: 16440
-    engagement: 317
-    commentsToLikes: 0.055818
-    id: ck6uejrxrrc400j715q3z6stj
-    verified: false
-    hashtags: "#colors, #healtyfood, #makeawish, #cicciopancake"
+    hashtags: "#poledancer, #lace, #tattooedgirls, #tattooed"
 ---

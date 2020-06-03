@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Mumbai In 2020
 description: >-
-  Find top fashion Instagram influencers in Mumbai in 2020. Most popular hashtags: #fashion #mumbai #india #style.
+  Find top fashion Instagram influencers in Mumbai in 2020. Most popular hashtags: #fashion #picoftheday #tiktok #mumbaifashion.
 platform: Instagram
 profiles:
+  - username: "facesbyzaarakhan"
+    fullname: >-
+      Zaara    🇦🇫 (زحرا)
+    location: "India"
+    followers: 6079
+    engagement: 598
+    commentsToLikes: 0.108793
+    id: ckaotmx93wko70i78wx7bsczb
+    verified: false
+    hashtags: "#punjabiwedding, #smokeyeye, #skin, #unity"
+  - username: "ashrafshaikh313"
+    fullname: >-
+      ASHRAF SHAIKH(🅼🅾🅳🅴🅻)❄️
+    location: "India"
+    followers: 2706
+    engagement: 1112
+    commentsToLikes: 0.085386
+    id: ck9wgby4wsr140j784borz0gn
+    verified: false
+    hashtags: "#tiktok, #danishdesign, #zarafashion, #modelpose"
+  - username: "iamfaisal___07"
+    fullname: >-
+      🍁 FAISAL SHAIKH      فیصل شیخ🍁
+    location: "India"
+    followers: 18612
+    engagement: 154
+    commentsToLikes: 0.100931
+    id: ck8tbnl1rwdgw0j78niaset7e
+    verified: false
+    hashtags: "#like4likes, #model, #pune, #instalove"
+  - username: "akash.s.nair_photography"
+    fullname: >-
+      🐞🌴AKASH. S. NAIR📸🌻
+    location: "India"
+    followers: 2227
+    engagement: 5996
+    commentsToLikes: 0.044773
+    id: ckap1pf9evjmo0i78235omuar
+    verified: false
+    hashtags: "#kottayam, #follow, #like, #instagood"
   - username: "purtika_shree_dutt"
     fullname: >-
       Purtika
     location: "India"
-    followers: 5764
-    engagement: 725
-    commentsToLikes: 0.150825
+    followers: 5769
+    engagement: 745
+    commentsToLikes: 0.150980
     id: ck6uexjfvtmhk0j71h64cqk09
     verified: false
-    hashtags: "#lucknowbytes, #mumbaibloggers, #goabloggers, #mumbaidiaries"
-  - username: "amritasahneyy"
+    hashtags: "#mumbaimodels, #instacorona, #lucknowmodels, #mycoronaphoto"
+  - username: "shirinmorani"
     fullname: >-
-      Amrita Sahney
+      Shirin Morani
     location: "India"
-    followers: 22418
-    engagement: 265
-    commentsToLikes: 0.096504
-    id: ck8tcu9qy0pfp0j78v3bc7pua
+    followers: 24141
+    engagement: 604
+    commentsToLikes: 0.017840
+    id: ck0vvcqa8ok480i19v1w4ylwr
     verified: false
-    hashtags: "#fashionbloggersindia, #mumbailifestyleblogger, #fashionindian, #streetstylelook"
-  - username: "bhati_brothers_7773"
+    hashtags: "#omniabali, #workandplay, #bollywood, #hotnessoverload"
+  - username: "_radhikajagtap"
     fullname: >-
-      BHATI BROTHERS😎
+      Radhika | CONTENT THAT HELP
     location: "India"
-    followers: 7515
-    engagement: 1074
-    commentsToLikes: 0.009659
-    id: ck135bg4u0nmg0i19v4yda1um
+    followers: 48946
+    engagement: 121
+    commentsToLikes: 0.071259
+    id: ck5bwqxd9m8ih0i116v7p7eoc
     verified: false
-    hashtags: "#mallu, #kozhikode, #kannur, #rajputboy"
-  - username: "bhagyashree.sonvane"
+    hashtags: "#filmoraedit, #colourfulart, #easyhairstyles, #blacklonghair"
+  - username: "tulipfazal_"
     fullname: >-
-      Bhagyashree Sonvane❄
+      TulipFazal
     location: "India"
-    followers: 31093
-    engagement: 396
-    commentsToLikes: 0.024263
-    id: ck8weflk4dzi40j78mxk1l5dq
+    followers: 28574
+    engagement: 366
+    commentsToLikes: 0.062948
+    id: ckap7fpr9jvbu0i78e5hbzn4s
     verified: false
-    hashtags: "#fashion, #mumbai, #90s, #videographer"
-  - username: "shruti_borgohain_"
+    hashtags: "#outfitinspo, #facepaint, #black, #morning"
+  - username: "natashasalian"
     fullname: >-
-      Shruti Borgohain
+      Natasha Salian
     location: "India"
-    followers: 5906
-    engagement: 2397
-    commentsToLikes: 0.012616
-    id: ck8t2t0zg0lge0j78h0tlxbu0
+    followers: 18069
+    engagement: 2809
+    commentsToLikes: 0.020585
+    id: ck9wp2g8i7ih90j78j3zbzoxx
     verified: false
-    hashtags: "#viewpoint, #love, #picoftheday, #water"
-  - username: "rajashreesinghaofficial"
+    hashtags: "#imfluencer, #infulencer, #ootd, #keeloving"
+  - username: "abuzar_kazi"
     fullname: >-
-      Rajashree Singha
+      badboi😈⚜️ ( 𝙁𝙀𝘼𝙍 𝙊𝙁 𝙂𝙊𝘿 )
     location: "India"
-    followers: 36611
-    engagement: 217
-    commentsToLikes: 0.017852
-    id: ck0vwugi7vnld0i19vchyax4j
+    followers: 4077
+    engagement: 2155
+    commentsToLikes: 0.121836
+    id: ckap4sdti8ntn0i78pkq8iekf
     verified: false
-    hashtags: "#bodygoals, #thankyouuniverse, #accessories, #workoutroutine"
-  - username: "roma.jani"
-    fullname: >-
-      Roma Jani 🔺
-    location: "India"
-    followers: 59861
-    engagement: 160
-    commentsToLikes: 0.017536
-    id: ck6u1bkpfkrgj0j71rmb5ojif
-    verified: false
-    hashtags: "#instamovies, #ilovefashion, #videography, #fuleyourhappy"
-  - username: "sneha.gautam"
-    fullname: >-
-      S N E H A 💮
-    location: "India"
-    followers: 31493
-    engagement: 355
-    commentsToLikes: 0.206660
-    id: ck13b9um3uebf0i19lgmf9gdq
-    verified: false
-    hashtags: "#winteroutfits, #cuteoutfits, #personalcaptions, #gramstyle"
-  - username: "darkknitestudios"
-    fullname: >-
-      Rahul Kizhakke Veettil
-    location: "India"
-    followers: 7020
-    engagement: 1106
-    commentsToLikes: 0.063217
-    id: ck6trx9ro1llh0j71onqqyx94
-    verified: false
-    hashtags: "#indianblogger, #indianclicks, #out, #35mmphotography"
-  - username: "vishalprajapati_23"
-    fullname: >-
-      V I S H A L
-    location: "India"
-    followers: 592293
-    engagement: 883
-    commentsToLikes: 0.011499
-    id: ck0u9i8kk9yns0i19cti43laa
-    verified: false
-    hashtags: "#upichalega, #foryou, #influencer, #fashion"
+    hashtags: "#prateekpardeshi, #king, #starboination, #eidmubarak"
 ---

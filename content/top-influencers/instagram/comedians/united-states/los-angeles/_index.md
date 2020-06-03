@@ -1,107 +1,107 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top comedians Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #comedy #repost #instagood.
+  Find top comedians Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #comedian #comedy #california.
 platform: Instagram
 profiles:
   - username: "vanessavjohnston"
     fullname: >-
       Vanessa Johnston
     location: "United States"
-    followers: 53347
-    engagement: 408
-    commentsToLikes: 0.037047
+    followers: 56509
+    engagement: 404
+    commentsToLikes: 0.037116
     id: ck13bj6xlvnyn0i19dmwflu29
     verified: true
-    hashtags: "#love, #oscars2020, #comedy, #ad"
-  - username: "ianedwardscomic"
+    hashtags: "#podcast, #relationshipgoals, #pokerface, #soooaggressive"
+  - username: "tomgreen"
     fullname: >-
-      Ian Edwards / Premier League
+      Tom Green
     location: "United States"
-    followers: 64370
-    engagement: 142
-    commentsToLikes: 0.108657
-    id: ck5bvj6eejr040i11qv0gwf48
+    followers: 391383
+    engagement: 64
+    commentsToLikes: 0.071638
+    id: ck9h9qi789k7a0j786trz95ic
     verified: true
-    hashtags: "#coronavirus, #lockdown, #antidefamationleague, #ericidle"
-  - username: "localoneway"
-    fullname: >-
-      Andrew Delman
-    location: "United States"
-    followers: 13671
-    engagement: 413
-    commentsToLikes: 0.017346
-    id: ck5bwhnt8lpvg0i11l5ijhny0
-    verified: false
-    hashtags: "#wcw, #repost, #iconicimages, #actress"
+    hashtags: "#socialdistancing, #tomgreen, #birdfeeders, #bigbrother"
   - username: "officialsebastianjames"
     fullname: >-
       S E B A S T I A N   J A M E S
     location: "United States"
-    followers: 18015
-    engagement: 378
-    commentsToLikes: 0.257720
+    followers: 18385
+    engagement: 409
+    commentsToLikes: 0.237103
     id: ck5q0zuvf8kmu0i11k90i03t2
     verified: false
-    hashtags: "#primeday, #facebook, #lakers, #entrepreneur"
-  - username: "j_ivy"
+    hashtags: "#dollypartonchallenge, #lol, #acting, #scary"
+  - username: "localoneway"
     fullname: >-
-      J. Ivy
+      Andrew Delman
     location: "United States"
-    followers: 18234
-    engagement: 172
-    commentsToLikes: 0.106542
-    id: ck6ts8ihj3byz0j71fcjg4hbe
-    verified: true
-    hashtags: "#love, #nationalpoetrymonth, #poetryandconversation, #poetry"
+    followers: 13513
+    engagement: 314
+    commentsToLikes: 0.017092
+    id: ck5bwhnt8lpvg0i11l5ijhny0
+    verified: false
+    hashtags: "#tbt, #fbf, #internationalpetsday"
+  - username: "_ginabeck"
+    fullname: >-
+      Gina Beck
+    location: "United States"
+    followers: 11504
+    engagement: 1066
+    commentsToLikes: 0.074888
+    id: ck5zijhtrftss0i14bh6ane48
+    verified: false
+    hashtags: "#staysafe, #blueeyes, #subscribe, #beautiful"
   - username: "jonicatgibbs"
     fullname: >-
       Jojo T Gibbs
     location: "United States"
-    followers: 11687
-    engagement: 1080
-    commentsToLikes: 0.076793
+    followers: 18589
+    engagement: 1228
+    commentsToLikes: 0.079380
     id: ck6tnn6yya6gg0j717juw87zt
     verified: true
-    hashtags: "#blackstarpower, #imageawards, #talenttowatch, #dasme"
-  - username: "carlisleforrester"
+    hashtags: "#staymacro, #justiceforahmaud, #jojotgibbs, #season2"
+  - username: "jkingla"
     fullname: >-
-      Carlisle Forrester
+      Jeffery King
     location: "United States"
-    followers: 5807
-    engagement: 651
-    commentsToLikes: 0.055356
-    id: ck8t6xrwtf0q10j78yoryjzy4
+    followers: 48113
+    engagement: 244
+    commentsToLikes: 0.026511
+    id: ckap8bs5gnpbw0i78efz1gtec
     verified: false
-    hashtags: "#comedian, #selfie, #bartending, #votd"
-  - username: "jesustrejo1"
+    hashtags: "#community, #gaydean, #plasmafibroblast, #coolsculpting"
+  - username: "megsdick"
     fullname: >-
-      Jesus Trejo
+      Meg Dick
     location: "United States"
-    followers: 19223
-    engagement: 403
-    commentsToLikes: 0.052351
-    id: ck55mvztd4y5b0i11lt4xswvw
-    verified: true
-    hashtags: "#lounge, #picoftheday, #date, #broomchallenge"
-  - username: "rachelsafety"
-    fullname: >-
-      Rachel Scanlon
-    location: "United States"
-    followers: 6533
-    engagement: 762
-    commentsToLikes: 0.030574
-    id: ck5hrevm7ur9x0i11pghrv1ov
+    followers: 8071
+    engagement: 773
+    commentsToLikes: 0.164734
+    id: ck5c93agfap8d0i1179812wqw
     verified: false
-    hashtags: "#twodykesandamic, #bignaturals, #softbutch, #lesbian"
-  - username: "sgf_foto"
+    hashtags: "#healthyliving, #ketomeals, #pumpkinpicking, #poppies"
+  - username: "davidmullerphotography"
     fullname: >-
-      SHAWN FERJANEC
+      David Muller | Headshots
     location: "United States"
-    followers: 10720
-    engagement: 368
-    commentsToLikes: 0.044225
-    id: ck0w0wzivgfzb0i19v48i9z66
+    followers: 17107
+    engagement: 315
+    commentsToLikes: 0.030196
+    id: ck14lko9tv68h0i1926w0v6lx
     verified: false
-    hashtags: "#dexter, #waltdisneyconcerthall, #instafame, #alternativegirl"
+    hashtags: "#curlsfordays, #gingerman, #elegantstyle, #mothersday2020"
+  - username: "taylor_lia_"
+    fullname: >-
+      Taylor Lia 👑
+    location: "United States"
+    followers: 47138
+    engagement: 358
+    commentsToLikes: 0.025963
+    id: ck0tvh920bcax0i19vdjpys9i
+    verified: false
+    hashtags: "#playislife, #abercrombiepartner"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Japan In 2020
 description: >-
-  Find top fashion Instagram influencers in Japan in 2020. Most popular hashtags: #ootd #art #beauty #photography.
+  Find top fashion Instagram influencers in Japan in 2020. Most popular hashtags: #selfie #spain #youtube #fifth.
 platform: Instagram
 profiles:
-  - username: "seika____official"
-    fullname: >-
-      田向星華（せいせい）🎀
-    location: "Japan"
-    followers: 70218
-    engagement: 727
-    commentsToLikes: 0.035455
-    id: ck5hjz5lehibf0i1137w1rlsd
-    verified: false
-    hashtags: "#hair, #blue, #fashion, #lapis"
-  - username: "risaokamoto_"
-    fullname: >-
-      RISA OKAMOTO
-    location: "Japan"
-    followers: 13658
-    engagement: 1024
-    commentsToLikes: 0.266231
-    id: ck55nsw916wn40i11jv6gomvf
-    verified: false
-    hashtags: "#fathombracelets, #bracelets, #hapkristen, #stayhome"
   - username: "max__reeves"
     fullname: >-
       MAX REEVES
     location: "Japan"
-    followers: 70362
-    engagement: 551
-    commentsToLikes: 0.049622
+    followers: 71119
+    engagement: 592
+    commentsToLikes: 0.050165
     id: ck0vvjbnepe7j0i19fkelt9x6
     verified: false
-    hashtags: "#coronavirus"
-  - username: "takuro.ohno"
+    hashtags: ""
+  - username: "helitiiamaria"
     fullname: >-
-      大野拓朗
+      𝒯𝒾𝓃𝓀𝑒𝓇𝒷𝑒𝓁𝓁𝒶
     location: "Japan"
-    followers: 66955
-    engagement: 699
-    commentsToLikes: 0.030816
-    id: ck15s3xeob3ie0i19iokesmup
+    followers: 14404
+    engagement: 1792
+    commentsToLikes: 0.028821
+    id: ckap3dwfb2ntp0i78htwfh769
+    verified: false
+    hashtags: "#parastakanaa, #kolmasraskaus, #jollyroom, #naapurinmaalaiskana"
+  - username: "otoshima_risa"
+    fullname: >-
+      音嶋莉沙
+    location: "Japan"
+    followers: 31966
+    engagement: 1401
+    commentsToLikes: 0.026143
+    id: ckaovcxj041sf0i786pq7zkpt
     verified: true
-    hashtags: "#fendi, #riceball, #brooklynnets, #newyork"
-  - username: "aana.kawaii"
+    hashtags: "#risa, #bnbbles, #evelyn, #gu"
+  - username: "mh_alexandra"
     fullname: >-
-      Aana ♡ Kawaii Fashion Blogger
+      𝑨𝒍𝒆𝒙𝒂𝒏𝒅𝒓𝒂
     location: "Japan"
-    followers: 7156
-    engagement: 1419
-    commentsToLikes: 0.142630
-    id: ck5hq660tskjf0i11jvv13pmj
+    followers: 6272
+    engagement: 863
+    commentsToLikes: 0.090149
+    id: ck9wozpkw76ir0j78vqeli40r
     verified: false
-    hashtags: "#pastelgrungegirl, #gummy, #pastelscenehair, #kawaiisquad"
-  - username: "sundailove"
-    fullname: >-
-      Sundai love
-    location: "Japan"
-    followers: 41623
-    engagement: 720
-    commentsToLikes: 0.020283
-    id: ck5c0qylitogn0i110hr7582q
-    verified: false
-    hashtags: "#iseehair, #haul, #traveljapan, #travelkyoto"
-  - username: "proskurnyasofiia"
-    fullname: >-
-      🌟Sofiia Proskurnia model
-    location: "Japan"
-    followers: 15633
-    engagement: 438
-    commentsToLikes: 0.089785
-    id: ck0tzpxrpr4jc0i19go5sap75
-    verified: false
-    hashtags: "#kidsmodel, #beauty, #portraitmood, #londonmodel"
+    hashtags: "#cute, #laughter, #houseparty, #recipe"
   - username: "izumin_golf"
     fullname: >-
       いづみん/izumi Ishizeki
     location: "Japan"
-    followers: 27827
-    engagement: 565
-    commentsToLikes: 0.042328
+    followers: 28934
+    engagement: 625
+    commentsToLikes: 0.049850
     id: ck8t8zl4ymeoi0j78z5xoocee
     verified: false
-    hashtags: "#tcb, #beauty, #izumingolf, #riendasuelta"
+    hashtags: "#190g, #fivestar, #sloli, #adidasgolf"
+  - username: "o.aya_1127"
+    fullname: >-
+      あやち
+    location: "Japan"
+    followers: 60228
+    engagement: 496
+    commentsToLikes: 0.041008
+    id: ck5zn8370nyjn0i14jgpkl45a
+    verified: false
+    hashtags: "#fuwarie, #pr, #disney"
+  - username: "hidehisa0717"
+    fullname: >-
+      Hidehisa🔹Ohtsubo
+    location: "Japan"
+    followers: 7073
+    engagement: 1528
+    commentsToLikes: 0.072572
+    id: ck13abcdjpk290i19a8dw37a4
+    verified: false
+    hashtags: "#repost, #jacketstyle"
+  - username: "seika____official"
+    fullname: >-
+      田向星華(せいせい)🎀
+    location: "Japan"
+    followers: 69841
+    engagement: 615
+    commentsToLikes: 0.028661
+    id: ck5hjz5lehibf0i1137w1rlsd
+    verified: false
+    hashtags: "#goodnight, #libere, #pink, #hairstyle"
   - username: "loverara.loverara"
     fullname: >-
       KEIKO
     location: "Japan"
-    followers: 55348
-    engagement: 226
-    commentsToLikes: 0.073863
+    followers: 59032
+    engagement: 234
+    commentsToLikes: 0.050904
     id: ck5q14zum9ato0i11k4tjwxpe
     verified: false
-    hashtags: "#zara, #converse, #codenate, #fifthtl"
-  - username: "hana.nyanya"
+    hashtags: "#moussy, #freesmart, #2way, #fifthtl"
+  - username: "rrri_ho"
     fullname: >-
-      Hana
+      飯田りほ
     location: "Japan"
-    followers: 60156
-    engagement: 461
-    commentsToLikes: 0.033038
-    id: ck8sy22j4jgn90j789kks8ln6
+    followers: 19631
+    engagement: 698
+    commentsToLikes: 0.043214
+    id: ckaoxh606d8oz0i78g2mgyows
     verified: false
-    hashtags: "#vesti, #uv, #pvcbag, #lanicon"
+    hashtags: "#yummyfood, #jamonserrano, #barcelona, #spainfood"
 ---

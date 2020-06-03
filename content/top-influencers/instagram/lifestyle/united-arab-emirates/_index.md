@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top lifestyle Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubai #mydubai #staysafe #stayhome.
+  Find top lifestyle Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #mood #ootdinspiration #ootd #london.
 platform: Instagram
 profiles:
   - username: "madaboutella"
     fullname: >-
       DUBAI LIFESTYLE BLOGGER🏝
     location: "United Arab Emirates"
-    followers: 23633
-    engagement: 598
-    commentsToLikes: 0.169328
+    followers: 28604
+    engagement: 496
+    commentsToLikes: 0.154359
     id: ck0w4tfys0bwr0i19i7ag9tri
     verified: false
-    hashtags: "#socialdistancing, #madaboutella, #selfie, #stayhome"
-  - username: "ban_adnan_dawood"
+    hashtags: "#madaboutella, #tbt"
+  - username: "sofyabaker"
     fullname: >-
-      Ban 🇮🇶🇨🇦
+      Sofya Baker
     location: "United Arab Emirates"
-    followers: 389794
-    engagement: 336
-    commentsToLikes: 0.031130
-    id: ck5c4gq7x1bk50i1174csluom
+    followers: 7419
+    engagement: 934
+    commentsToLikes: 0.138894
+    id: ck5zqt271v8ro0i14daa9rfmt
     verified: false
-    hashtags: "#staysafe, #stayhealthy, #ibnnafeesmedicalcenter, #inmc"
-  - username: "amanda_nawfal_sayde"
+    hashtags: "#staysafe, #sugarbearhair, #ad"
+  - username: "a_hinda"
     fullname: >-
-      Amanda Sayde   اماندا نوفل
+      Hinda
     location: "United Arab Emirates"
-    followers: 125670
-    engagement: 277
-    commentsToLikes: 0.039513
-    id: ck13ccv25zq520i19n0bs2hq9
+    followers: 220755
+    engagement: 332
+    commentsToLikes: 0.094383
+    id: ck14leddpu9cl0i19mtyz7c11
     verified: false
-    hashtags: "#beirut, #lebanon, #meetsupersophie, #period"
-  - username: "zena_louay"
+    hashtags: "#awalrshop, #awalrgiveaway, #mydubai, #honorx9pro"
+  - username: "ironfulat"
     fullname: >-
-      Zena Louay🧿 زينه لؤي
+      Imran
     location: "United Arab Emirates"
-    followers: 528263
-    engagement: 287
-    commentsToLikes: 0.067423
-    id: ck136a6fz5ic80i19pvs0y8ml
+    followers: 20043
+    engagement: 514
+    commentsToLikes: 0.071982
+    id: ckap0za2zsgcj0i78zco8w800
     verified: false
-    hashtags: "#thezeestyel, #style, #stayhealthy, #lovedubai"
-  - username: "_imakeuplikethis_"
+    hashtags: "#bulkingtime, #stayhomestaysafe, #strongasfulat, #homehustlewithfio"
+  - username: "andaslife"
     fullname: >-
-      ALIYA BARADIA - UAE 🇦🇪
+      Anda | Fashion Blogger | Dubai
     location: "United Arab Emirates"
-    followers: 12396
-    engagement: 730
-    commentsToLikes: 0.093064
-    id: ck8t7baceg72q0j78y1al4x86
+    followers: 23171
+    engagement: 473
+    commentsToLikes: 0.166679
+    id: ck134ukz6y9d90i19h6qa52qi
     verified: false
-    hashtags: "#undiscoveredvideos, #mumtobe, #benefitmiddleeast, #hudaboss"
+    hashtags: "#outfitdujour, #kellypink, #ladydior, #ootdinspiration"
+  - username: "dubai_gentle"
+    fullname: >-
+      El Nasser
+    location: "United Arab Emirates"
+    followers: 94143
+    engagement: 327
+    commentsToLikes: 0.069800
+    id: ck6ubley4a9ml0j71n3u6gg29
+    verified: false
+    hashtags: "#morocco, #visitdubai, #fendi, #burjkhalifa"
+  - username: "mahsaghazanfari20"
+    fullname: >-
+      Mahsaghazanfari
+    location: "United Arab Emirates"
+    followers: 147056
+    engagement: 300
+    commentsToLikes: 0.066894
+    id: ck6ug43j00t0c0j7133ha67ck
+    verified: false
+    hashtags: "#shoes, #lifestyle, #dolgonacoffee, #personalstylist"
   - username: "youmi.kh"
     fullname: >-
       Youmi
     location: "United Arab Emirates"
-    followers: 471005
-    engagement: 282
-    commentsToLikes: 0.050769
+    followers: 490436
+    engagement: 272
+    commentsToLikes: 0.053046
     id: ck5hlalt0jvjv0i11vghv7e6o
     verified: false
-    hashtags: "#youmionlineshop, #youmilashes, #youmilenses, #natural"
-  - username: "philipe0410"
+    hashtags: "#dubai, #dessert, #internationalwomensday, #strongertogether"
+  - username: "amanda_nawfal_sayde"
     fullname: >-
-      Felipe
+      Amanda Sayde   اماندا نوفل
     location: "United Arab Emirates"
-    followers: 85439
-    engagement: 256
-    commentsToLikes: 0.040770
-    id: ck0w1yt1alsxz0i19hfhq8wbn
+    followers: 123208
+    engagement: 282
+    commentsToLikes: 0.039737
+    id: ck13ccv25zq520i19n0bs2hq9
     verified: false
-    hashtags: "#lifestyleblogger, #addresshotels, #hotels, #icecream"
-  - username: "_murilotavares"
+    hashtags: "#skinfirming, #luna3, #poweryourbeauty, #beirut"
+  - username: "bossgirlpriya1792"
     fullname: >-
-      Murilo Tavares 🇧🇷
+      Queen of Jet lags 🛫🇮🇳🇦🇪
     location: "United Arab Emirates"
-    followers: 6651
-    engagement: 1035
-    commentsToLikes: 0.056603
-    id: ck5zyt8q0ahn90i145ae1gs8j
+    followers: 24822
+    engagement: 386
+    commentsToLikes: 0.109225
+    id: ck9webz5qjm2c0j784c8117oi
     verified: false
-    hashtags: "#bjjlifestyle"
-  - username: "alberto_makeup"
-    fullname: >-
-      ▫️A L B E R T O▫️
-    location: "United Arab Emirates"
-    followers: 30356
-    engagement: 242
-    commentsToLikes: 0.079346
-    id: ck6u4dcr3338e0j71jyuqag7e
-    verified: false
-    hashtags: "#quarantineposts"
-  - username: "ayakhayyat.official"
-    fullname: >-
-      Aya Al-Khayyat Sabra 🧿
-    location: "United Arab Emirates"
-    followers: 323840
-    engagement: 622
-    commentsToLikes: 0.011485
-    id: ck5zqseh9v7ee0i14hde52exy
-    verified: true
-    hashtags: "#amman, #tb, #wecandoit, #godblessus"
+    hashtags: "#foodblogging, #etihadcrew, #flowerlove, #fridgesituation"
 ---

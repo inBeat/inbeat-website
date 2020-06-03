@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Toronto In 2020
 description: >-
-  Find top gardening Instagram influencers in Toronto in 2020. Most popular hashtags: #runwildmychild #gardening #discoveron #hiking.
+  Find top gardening Instagram influencers in Toronto in 2020. Most popular hashtags: #gardening #toronto #spring #selfcare.
 platform: Instagram
 profiles:
+  - username: "urbanveggiegarden"
+    fullname: >-
+      Luay - Urban Gardener
+    location: "Canada"
+    followers: 20729
+    engagement: 330
+    commentsToLikes: 0.044642
+    id: ckaor4yxdlr450i7803ll30a4
+    verified: false
+    hashtags: "#fromthearchives, #fridayharvest, #tbt, #tomatotuesday"
   - username: "sam.daveena"
     fullname: >-
       Eighth House 88
     location: "Canada"
-    followers: 1748
-    engagement: 1112
-    commentsToLikes: 0.079534
+    followers: 2108
+    engagement: 1075
+    commentsToLikes: 0.081566
     id: ck8t8vilalzuk0j787tdy8mpq
     verified: false
-    hashtags: "#visionaryart, #spiritualart, #saturnreturn, #thighpiece"
+    hashtags: "#consciousart, #earthelement, #tattootalisman, #marrakeshstyle"
+  - username: "terinrothernel"
+    fullname: >-
+      Terin Rothernel
+    location: "Canada"
+    followers: 6333
+    engagement: 758
+    commentsToLikes: 0.076828
+    id: ck8t3684f21gl0j78ksf7n1l8
+    verified: false
+    hashtags: "#throwback, #piscesgirl, #piscesmodel, #womenssuits"
   - username: "lisa.eats"
     fullname: >-
       Lisa Z 💚
     location: "Canada"
-    followers: 25678
-    engagement: 296
-    commentsToLikes: 0.163178
+    followers: 25467
+    engagement: 283
+    commentsToLikes: 0.173067
     id: ck13ajaz8qndd0i191ibjag0c
     verified: false
-    hashtags: "#veganpasta, #selfisolation, #antioxidants, #cake"
+    hashtags: "#babykitten, #gardensbythebay, #heartymeal, #growtogether"
   - username: "colourfyme"
     fullname: >-
       🌸 Colourfy Me 🌸
     location: "Canada"
-    followers: 12496
-    engagement: 623
-    commentsToLikes: 0.038410
+    followers: 12453
+    engagement: 632
+    commentsToLikes: 0.038376
     id: ck14k76kqo2t70i19smslod1s
     verified: false
-    hashtags: "#sakurakinomoto, #acnh, #katrina, #cloud"
-  - username: "kristalii"
+    hashtags: "#cherryblossom, #plush, #waddledee, #cherryblossoms"
+  - username: "uoftengineering"
     fullname: >-
-      Krista Lii
+      U of T Engineering
     location: "Canada"
-    followers: 32155
-    engagement: 267
-    commentsToLikes: 0.194880
-    id: ck14hg4pga5ny0i198fwd2pin
+    followers: 8670
+    engagement: 338
+    commentsToLikes: 0.009770
+    id: ck6tj0fb51s310j71m7cnvlky
     verified: false
-    hashtags: "#travellingfamily, #whatevertheweather, #gardening, #tpphotooftheday"
-  - username: "tarahurstdesign"
+    hashtags: "#theyareback, #geese, #uoftclassof2020, #showcase"
+  - username: "mandy_stans"
     fullname: >-
-      Tara Hurst
+      𝕝𝕚𝕗𝕖𝕤𝕥𝕪𝕝𝕖 𝕠𝕧𝕖𝕣 𝟜𝟘
     location: "Canada"
-    followers: 7144
-    engagement: 430
-    commentsToLikes: 0.052045
-    id: ck5hrp4etv8n80i11qlnc4g63
+    followers: 11614
+    engagement: 1580
+    commentsToLikes: 0.091661
+    id: ck8t5djed9rfz0j78xth8scsv
     verified: false
-    hashtags: ""
-  - username: "the_simple_green"
+    hashtags: "#canadiangirl, #sweetiepie, #tellmeasecret, #sunnysunday"
+  - username: "frankferragine"
     fullname: >-
-      Heidi | The Simple Green
+      Frankie Flowers
     location: "Canada"
-    followers: 11806
-    engagement: 551
-    commentsToLikes: 0.150614
-    id: ck5cewi6zluqh0i1171mfq1zg
-    verified: false
-    hashtags: "#chocolateganache, #igeats, #foodphotographer, #applepicking"
-  - username: "antoniovalenteflowers"
+    followers: 42466
+    engagement: 440
+    commentsToLikes: 0.058000
+    id: ck5cduxm7jtpm0i11isipfje8
+    verified: true
+    hashtags: "#november, #happy, #smile, #annualplant"
+  - username: "amyin613"
     fullname: >-
-      Antonio Valente Flowers
+      Amy in 613 • blogger in Ottawa
     location: "Canada"
-    followers: 39108
-    engagement: 336
-    commentsToLikes: 0.047582
-    id: ck0w6j69i8t6z0i19ezril67v
+    followers: 17123
+    engagement: 650
+    commentsToLikes: 0.381918
+    id: ck5pzkx451hac0i11twq5hqer
     verified: false
-    hashtags: ""
-  - username: "seldabelda"
+    hashtags: "#localdelivery, #barre, #beautyblogger, #traveltips"
+  - username: "juniper_the_oldgirl"
     fullname: >-
-      anna aromin
+      Juniper
     location: "Canada"
-    followers: 33241
-    engagement: 371
-    commentsToLikes: 0.102901
-    id: ck14kkiiwpyiz0i19q3we0t10
+    followers: 12139
+    engagement: 1032
+    commentsToLikes: 0.011731
+    id: ck6tqfi38r5ld0j71lhty4bxp
     verified: false
-    hashtags: "#my, #littleadventures, #houseplantcommunity, #fadedaesthetics"
-  - username: "kristalii"
-    fullname: >-
-      Krista Lii
-    location: "Canada"
-    followers: 32155
-    engagement: 267
-    commentsToLikes: 0.194880
-    id: ck14hg4pga5ny0i198fwd2pin
-    verified: false
-    hashtags: "#travellingfamily, #whatevertheweather, #gardening, #tpphotooftheday"
-  - username: "angharada.model"
-    fullname: >-
-      𝒜 𝓃 𝑔 𝒽 𝒶 𝓇 𝒶 𝒹 𝒶
-    location: "Canada"
-    followers: 29141
-    engagement: 357
-    commentsToLikes: 0.044830
-    id: ck15tn028ivx00i19vaaw8j0q
-    verified: false
-    hashtags: "#ethereal, #gardening, #power, #photographyart"
+    hashtags: "#haircut, #fetch, #seeyousoon, #cold"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Miami In 2020
 description: >-
-  Find top athletes Instagram influencers in Miami in 2020. Most popular hashtags: #miami #athlete #miamibeach #health.
+  Find top athletes Instagram influencers in Miami in 2020. Most popular hashtags: #athlete #stayhome #athletes #workout.
 platform: Instagram
 profiles:
-  - username: "joselynnn_v"
+  - username: "gabspaz2"
     fullname: >-
-      Joselyn Vallejo
+      Gaby Paz
     location: "United States"
-    followers: 80570
-    engagement: 410
-    commentsToLikes: 0.024211
-    id: ck5hkg1uuicus0i11g8w4hhfj
+    followers: 18742
+    engagement: 507
+    commentsToLikes: 0.036139
+    id: ck14k25yencqe0i19djcmll25
     verified: false
-    hashtags: "#power, #hiptrust, #girlswholift, #beachlife"
-  - username: "juan_rodriguezk"
+    hashtags: "#balcony, #tenniscoachlife, #coaching, #peaceofmind"
+  - username: "itssylina"
     fullname: >-
-      Juan Pablo Rodriguez
+      Sylina Ruiz
     location: "United States"
-    followers: 8598
-    engagement: 1121
-    commentsToLikes: 0.020669
-    id: ck6to75bvch490j71cwfp5uwb
+    followers: 19180
+    engagement: 349
+    commentsToLikes: 0.026283
+    id: ck0u00fq3s9n50i19daf516pt
     verified: false
-    hashtags: "#wodapalooza, #weightlifting, #crossfitgames2018, #teamra"
-  - username: "iwilliams93"
+    hashtags: "#face, #selfie, #olay, #positivity"
+  - username: "aka_mcfierce"
     fullname: >-
-      Ian Williams
+      Paige McPherson
     location: "United States"
-    followers: 28461
-    engagement: 688
-    commentsToLikes: 0.035392
-    id: ck6tj20g31urv0j71vdj2al31
+    followers: 13604
+    engagement: 529
+    commentsToLikes: 0.029390
+    id: ckap6t2mphawx0i78v6ubzbo8
     verified: true
-    hashtags: "#athlete, #miami, #sports, #laugh"
-  - username: "prospect_pipeline"
-    fullname: >-
-      Steve Fiorindo
-    location: "United States"
-    followers: 33057
-    engagement: 275
-    commentsToLikes: 0.007810
-    id: ck15rcgb578dq0i195ny9ctrt
-    verified: false
-    hashtags: "#collegebaseball, #ballislife, #florida, #games"
+    hashtags: "#resilience, #taekwondotrainings, #peaknation, #grinddontstop"
   - username: "athletixrehab"
     fullname: >-
       ATHLETIX REHAB & RECOVERY
     location: "United States"
-    followers: 25946
-    engagement: 196
-    commentsToLikes: 0.017163
+    followers: 29091
+    engagement: 153
+    commentsToLikes: 0.021780
     id: ck55nehjj61g10i118bp2hakd
     verified: false
-    hashtags: "#bloodflowrestriction, #miamiphysicaltherapy, #beatcovid19, #bloodflowrestrictiontherapy"
-  - username: "melissajarquin"
+    hashtags: "#athletixrehab, #adjustment, #rehabathome, #beaneducatedconsumer"
+  - username: "karinatio"
     fullname: >-
-      Nutrition + Performance Coach
+      Kurly Karina 🦁
     location: "United States"
-    followers: 18408
-    engagement: 673
-    commentsToLikes: 0.131951
-    id: ck5c5o0u03u370i114h3pqltb
+    followers: 11549
+    engagement: 844
+    commentsToLikes: 0.042279
+    id: ck6u2b7peqsva0j710gvcxtkq
     verified: false
-    hashtags: "#browardcounty, #resteraialamaison, #feedfeedvegan, #sportsperformance"
-  - username: "a_schuster"
+    hashtags: "#artist, #madmax, #basketball, #gains"
+  - username: "juan_rodriguezk"
     fullname: >-
-      allison schuster
+      Juan Pablo Rodriguez
     location: "United States"
-    followers: 18651
-    engagement: 345
-    commentsToLikes: 0.020681
-    id: ck6tjzp5z3pvd0j7119jzvi28
+    followers: 8591
+    engagement: 1145
+    commentsToLikes: 0.021338
+    id: ck6to75bvch490j71cwfp5uwb
     verified: false
-    hashtags: "#bayfrontpark, #bebetter, #selfie, #memories"
-  - username: "elchin_ahmadov_"
-    fullname: >-
-      Elchin Ahmadov
-    location: "United States"
-    followers: 48984
-    engagement: 115
-    commentsToLikes: 0.032876
-    id: ck8t66m6ycfbt0j78bymtg65x
-    verified: false
-    hashtags: "#squats, #newyorkcit, #fatburningworkout, #baltimore"
-  - username: "ifbbpro_stevenwain"
-    fullname: >-
-      
-    location: "United States"
-    followers: 6634
-    engagement: 370
-    commentsToLikes: 0.051400
-    id: ck5hlbhibjx7a0i111abq45cc
-    verified: false
-    hashtags: "#throwback, #bodybuilding, #fitnessmotivation, #supplementsthatwork"
+    hashtags: "#wodapalooza, #jacobharden, #puertorico, #crossfitgames2018"
   - username: "itsmissbryan"
     fullname: >-
       Miss Bryan
     location: "United States"
-    followers: 9179
-    engagement: 356
-    commentsToLikes: 0.110343
+    followers: 9104
+    engagement: 388
+    commentsToLikes: 0.102072
     id: ck6tzrr9dbgy80j71u9sdnmzd
     verified: false
-    hashtags: "#miami, #corona, #radiolife, #meettheteam"
+    hashtags: "#adele, #wfh, #donation, #disney"
+  - username: "fitness_by_nesbitt"
+    fullname: >-
+      Antonio Nesbitt, M.S & CPT
+    location: "United States"
+    followers: 9427
+    engagement: 421
+    commentsToLikes: 0.119781
+    id: ck5hojxhjpp8k0i114noec01a
+    verified: false
+    hashtags: "#summerready, #naturalingredients, #recycledmaterials, #activelifestyle"
+  - username: "plopezserra"
+    fullname: >-
+      Pablo López Serra
+    location: "United States"
+    followers: 5749
+    engagement: 1300
+    commentsToLikes: 0.041164
+    id: ck6u2vywlu8h40j712hbxhpal
+    verified: true
+    hashtags: "#baseballfamily, #gofish, #openingdayathome, #gomarlins"
+  - username: "osvaldo_lugones"
+    fullname: >-
+      Osvaldo Lugones
+    location: "United States"
+    followers: 326943
+    engagement: 1139
+    commentsToLikes: 0.013562
+    id: ck5zqdac1ue590i14cl69zmmr
+    verified: false
+    hashtags: ""
 ---

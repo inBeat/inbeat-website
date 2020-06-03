@@ -1,59 +1,69 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In 2020
 description: >-
-  Find top illustrators Instagram influencers in 2020. Most popular hashtags: #illustration # #chrisbuzelli #amybethmcnulty.
+  Find top illustrators Instagram influencers in 2020. Most popular hashtags: #herm #humidifier #artbooks #mileven.
 platform: Instagram
 profiles:
-  - username: "medyabulduk"
+  - username: "sashakru"
     fullname: >-
-      Medya Bulduk
-    location: "Sweden"
-    followers: 65727
-    engagement: 390
-    commentsToLikes: 0.020951
-    id: ck6uhmk7a9zl10j71d5g7i1at
+      Illustrator
+    location: "Russia"
+    followers: 75925
+    engagement: 357
+    commentsToLikes: 0.063432
+    id: ck5zrha72wkor0i1497ut0ns4
     verified: false
-    hashtags: "#collaboration, #repost"
+    hashtags: "#lil"
+  - username: "illustasha"
+    fullname: >-
+      Natasha Goncharova
+    location: "Russia"
+    followers: 17566
+    engagement: 946
+    commentsToLikes: 0.024295
+    id: ckaov8dzs3hq20i78cif48t3g
+    verified: false
+    hashtags: "#forest, #best, #christmasdecor, #watercolor"
   - username: "joseramos1972"
     fullname: >-
       Jose Ramos
     location: ""
-    followers: 30980
-    engagement: 752
-    commentsToLikes: 0.007222
+    followers: 30261
+    engagement: 765
+    commentsToLikes: 0.015796
     id: ck0w1rc12krd40i19q701akoy
     verified: false
-    hashtags: "#marvel, #elijahwood, #ianmckellen, #amybethmcnulty"
-  - username: "chrisbuzelli"
+    hashtags: "#kyloren, #mileven, #reyloedit, #shawnlevy"
+  - username: "niatudor"
     fullname: >-
-      Chris Buzelli
+      Illustrator
     location: ""
-    followers: 17584
-    engagement: 534
-    commentsToLikes: 0.049555
-    id: ck5zrm4khwu4n0i1401i79u4l
+    followers: 15374
+    engagement: 939
+    commentsToLikes: 0.029305
+    id: ck8t28u5xykll0j78pir6rs4f
     verified: false
-    hashtags: "#themandalorian, #library, #books, #queenelizabeth"
+    hashtags: "#drawthisinyourstyle"
   - username: "nimuradaisuke"
     fullname: >-
       Nimura daisuke
     location: "Japan"
-    followers: 20582
-    engagement: 810
-    commentsToLikes: 0.007212
+    followers: 21105
+    engagement: 848
+    commentsToLikes: 0.006958
     id: ck5buvx1piixp0i11y1pefk11
     verified: false
-    hashtags: ""
-  - username: "beccastadtlander"
+    hashtags: "#stayhome"
+  - username: "elisatalentino"
     fullname: >-
-      Becca Stadtlander
-    location: ""
-    followers: 29640
-    engagement: 392
-    commentsToLikes: 0.015123
-    id: ck15uik84nck30i195prfhct0
+      Elisa Talentino Illustration
+    location: "Italy"
+    followers: 18900
+    engagement: 472
+    commentsToLikes: 0.013839
+    id: ck0w5p5eq4rca0i19fi6c5nq8
     verified: false
-    hashtags: "#eta26, #qacstilllife, #quarantineartclub"
+    hashtags: "#astadipasquetta, #leggereiventi"
   - username: "rebeccaclarke"
     fullname: >-
       Rebecca Clarke
@@ -74,34 +84,24 @@ profiles:
     id: ck6u5lks0abzz0j71qea1oex0
     verified: false
     hashtags: "#oldstuff"
-  - username: "robbaileystudio"
+  - username: "vandubovik"
     fullname: >-
-      Rob Bailey
+      Ivan Dubovik
     location: ""
-    followers: 24644
-    engagement: 337
-    commentsToLikes: 0.010897
-    id: ck5q5zmbuv9pt0i114dclyo9d
+    followers: 26617
+    engagement: 412
+    commentsToLikes: 0.008318
+    id: ck9ha44bwb29e0j78glt2jfmy
     verified: false
-    hashtags: "#fredflintsone, #georgejetson, #barneyrubble"
+    hashtags: "#foodicons, #agriculture, #elevator, #mattress"
   - username: "lizrowland"
     fullname: >-
       Liz Rowland
     location: ""
-    followers: 18127
-    engagement: 314
-    commentsToLikes: 0.016203
+    followers: 18088
+    engagement: 321
+    commentsToLikes: 0.017294
     id: ck8t295haylwu0j78stn5h4t7
-    verified: false
-    hashtags: ""
-  - username: "katepugsley"
-    fullname: >-
-      kate pugsley
-    location: ""
-    followers: 211194
-    engagement: 151
-    commentsToLikes: 0.007103
-    id: ck15uiio6nca30i19q9m2bvdo
     verified: false
     hashtags: ""
 ---

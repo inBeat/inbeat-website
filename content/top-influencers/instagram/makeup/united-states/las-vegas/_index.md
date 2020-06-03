@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top makeup Instagram influencers in Las Vegas in 2020. Most popular hashtags: #makeup #lasvegasmakeupartist #makeupartist #makeuplook.
+  Find top makeup Instagram influencers in Las Vegas in 2020. Most popular hashtags: #quarantinelife #makeup #lasvegas #youtube.
 platform: Instagram
 profiles:
-  - username: "angeladomanico_"
+  - username: "olivia__makeup"
     fullname: >-
-      Angela Domanico
+      Olivia Hernandez 🦋💫
     location: "United States"
-    followers: 44780
-    engagement: 224
-    commentsToLikes: 0.019497
-    id: ck5hqvne2tsxj0i114c8iyy7b
+    followers: 113879
+    engagement: 1490
+    commentsToLikes: 0.024970
+    id: ck5c5hgf63hac0i11e7obg1oy
     verified: false
-    hashtags: "#sfxmakeupartist, #smokeyeye, #fila, #blackandwhite"
+    hashtags: "#norvinaecl, #cowprint, #hotwheels, #brightmakeup"
+  - username: "film_krue"
+    fullname: >-
+      Film_Krue
+    location: "United States"
+    followers: 5223
+    engagement: 651
+    commentsToLikes: 0.101356
+    id: ck5zr3kb3vtvy0i14p7gqqgmq
+    verified: false
+    hashtags: "#emoforever, #badboyhair, #emoboy, #veganjackets"
   - username: "danielllestrada"
     fullname: >-
       Danielle Estrada
     location: "United States"
-    followers: 2549
-    engagement: 1343
-    commentsToLikes: 0.069440
+    followers: 2572
+    engagement: 1378
+    commentsToLikes: 0.068290
     id: ck5q1ro2acg0t0i11sbh1l8yr
     verified: false
-    hashtags: "#makeup, #makeupartist, #lasvegasmakeupartist, #mua"
-  - username: "mandyhansennw"
+    hashtags: "#24, #makeup, #makeupartist, #lasvegasmakeupartist"
+  - username: "andrewsaintandrew"
     fullname: >-
-      🇳🇴Mandy Hansen🇳🇴
+      Andrew Saint Andrew 👑
     location: "United States"
-    followers: 42485
-    engagement: 900
-    commentsToLikes: 0.024898
-    id: ck13brg73wten0i19wk9kd71d
+    followers: 26095
+    engagement: 143
+    commentsToLikes: 0.067754
+    id: ck5q52o1zr4rz0i112x5e82kq
     verified: false
-    hashtags: "#alaska, #creativeartsemmys, #dancingwiththestars, #sunset"
-  - username: "forouzan.zad"
+    hashtags: "#enews, #diamondlightsfinisher"
+  - username: "laura.roeper"
     fullname: >-
-      Forouzan Zad
+      In Little Words
     location: "United States"
-    followers: 39175
-    engagement: 494
-    commentsToLikes: 0.191474
-    id: ck13bs0agww2c0i197mwdc0qf
+    followers: 3292
+    engagement: 1317
+    commentsToLikes: 0.248290
+    id: ck5q7y11o3kk70i11r9kliuhz
     verified: false
-    hashtags: "#shein, #newyear, #iranianstyle, #newyork"
-  - username: "genbthegem"
+    hashtags: "#puppyphotobomb, #randcolove, #lashesonfleek, #magneticlashes"
+  - username: "itsam0re"
     fullname: >-
-      GENESIS HERRERA
+      Las Vegas Makeup Artist
     location: "United States"
-    followers: 15257
-    engagement: 1660
-    commentsToLikes: 0.012800
-    id: ck5bxkiimnwnn0i11inatjn9z
+    followers: 27739
+    engagement: 167
+    commentsToLikes: 0.073193
+    id: ck55olhmn8lhe0i11qc6th3oh
     verified: false
-    hashtags: "#linkinbio, #wetnwildbeauty, #sephorasquad, #undiscoveredmuas"
-  - username: "zee.clemente"
+    hashtags: "#mommybloggers, #flatlaystyle, #lips, #cwkgirls"
+  - username: "sincitymua"
     fullname: >-
-      MakeupandhairbyZee
+      Las Vegas Makeup Artist + Hair
     location: "United States"
-    followers: 39000
-    engagement: 233
-    commentsToLikes: 0.054804
-    id: ck0w4n3hkze8s0i19ekl506vu
+    followers: 36944
+    engagement: 109
+    commentsToLikes: 0.075114
+    id: ck8szxgpxq30f0j78gp1hckrm
     verified: false
-    hashtags: "#pageantmakeup, #pinkandblueeyeshadow, #makeupandhairbyzee, #pinkeyeshadowlook"
-  - username: "makeupxsteff"
+    hashtags: "#whirllipliner, #liquidstrobe, #thirtiesclub, #scammer"
+  - username: "_baeleia"
     fullname: >-
-      Estef🦋
+      Las Vegas Makeup Artist💄
     location: "United States"
-    followers: 18898
-    engagement: 1493
-    commentsToLikes: 0.029594
-    id: ck6uai71p3p0f0j71xu23pxuw
+    followers: 16294
+    engagement: 1855
+    commentsToLikes: 0.028917
+    id: ck15qqkfy46500i19xs3syxnu
     verified: false
-    hashtags: "#loreal, #tiktokmemes, #beautycreations, #chihaircare"
-  - username: "montanaefaw"
+    hashtags: ""
+  - username: "steffanie.a.mua"
     fullname: >-
-      MONTANA
+      ✨M A K E U P  M A G I C I A N✨
     location: "United States"
-    followers: 26177
-    engagement: 794
-    commentsToLikes: 0.043503
-    id: ck5zm14ynlpsn0i1472a3jb1z
+    followers: 5343
+    engagement: 877
+    commentsToLikes: 0.094368
+    id: ck135gz7x1dab0i19w0fjn7cc
     verified: false
-    hashtags: "#parrisgoebel, #hausofgaga, #cabo, #montanaefaw"
-  - username: "josefigz"
-    fullname: >-
-      José Antonio Figueroa
-    location: "United States"
-    followers: 49298
-    engagement: 309
-    commentsToLikes: 0.015941
-    id: ck0tu2c5u5bsm0i19rjbgrmgb
-    verified: true
-    hashtags: "#leleponsxtarte, #loca, #bffs, #quierovolver"
+    hashtags: "#glam, #grungemakeup, #90saesthetic, #wedding"
   - username: "raciney"
     fullname: >-
       Raciney
     location: "United States"
-    followers: 33494
-    engagement: 204
-    commentsToLikes: 0.041572
+    followers: 33260
+    engagement: 215
+    commentsToLikes: 0.043394
     id: ck5hdqbleosti0i11jjg0p0rw
     verified: false
-    hashtags: "#palmsprings, #hippieshit, #vidakush, #cheersfriends"
+    hashtags: "#wildatheart, #happymonday, #readyforthis, #staycalm"
 ---

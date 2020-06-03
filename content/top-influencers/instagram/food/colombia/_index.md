@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Colombia In 2020
 description: >-
-  Find top food Instagram influencers in Colombia in 2020. Most popular hashtags: #quedateencasa #bogota #stayhome #cuarentena.
+  Find top food Instagram influencers in Colombia in 2020. Most popular hashtags: #stayhome #love #foodporn #couplegoals.
 platform: Instagram
 profiles:
   - username: "danielabohor"
     fullname: >-
       Daniela Bohórquez
     location: "Colombia"
-    followers: 53069
-    engagement: 480
-    commentsToLikes: 0.029582
+    followers: 57084
+    engagement: 496
+    commentsToLikes: 0.052890
     id: ck5q540fgra840i11cnw458ni
     verified: false
-    hashtags: "#outfitinspiration, #lookoftheday, #stayhome, #ootdanibohor"
+    hashtags: "#quiltchallenge, #styleblogger, #aerolook, #summervibes"
   - username: "mikevsfood_oficial"
     fullname: >-
       MikeVsFood
     location: "Colombia"
-    followers: 22650
-    engagement: 309
-    commentsToLikes: 0.163737
+    followers: 22930
+    engagement: 342
+    commentsToLikes: 0.176206
     id: ck0w4u3pm0ffj0i19xnl72mes
     verified: false
-    hashtags: "#nutella, #elmejorregaloesllegarbienacasa, #precaution, #love"
-  - username: "juandaimond"
+    hashtags: "#beer, #felizdiamama, #bogota, #beerlover"
+  - username: "mmarocchino"
     fullname: >-
-      JUANDAIMOND
+      ManFashion & Lifestyle
     location: "Colombia"
-    followers: 47003
-    engagement: 516
-    commentsToLikes: 0.026475
-    id: ck6u91mx3uyoz0j71kuvli029
-    verified: false
-    hashtags: "#stayhome, #mequedoencasa, #stayhappy, #stayathome"
-  - username: "giulioiannelli"
-    fullname: >-
-      Giulio Iannelli
-    location: "Colombia"
-    followers: 20463
-    engagement: 593
-    commentsToLikes: 0.026516
-    id: ck5qbbludkry10i11pevsb0ia
-    verified: false
-    hashtags: "#40anni, #navidad, #restaurant, #sanvalentino"
+    followers: 343639
+    engagement: 330
+    commentsToLikes: 0.025967
+    id: ck13bt0bax0tu0i19y0uylaz5
+    verified: true
+    hashtags: "#entrenamiento, #zapatillasparatodxs, #fashion, #masterchefchile"
   - username: "natyperezp"
     fullname: >-
       Natalia 🧿
     location: "Colombia"
-    followers: 35252
-    engagement: 175
-    commentsToLikes: 0.064397
+    followers: 34950
+    engagement: 136
+    commentsToLikes: 0.065594
     id: ck55jprfkxir60i116991tv2j
     verified: false
-    hashtags: "#35weekspregnant, #almostreadytopop, #quedateencasa, #lookoftheday"
+    hashtags: "#looks, #tips, #yomequedoencasa, #fashionstyle"
+  - username: "giulioiannelli"
+    fullname: >-
+      Giulio Iannelli
+    location: "Colombia"
+    followers: 21016
+    engagement: 615
+    commentsToLikes: 0.024831
+    id: ck5qbbludkry10i11pevsb0ia
+    verified: false
+    hashtags: "#santamarialaantigua, #xmas, #40anni, #selladosporsaturno"
+  - username: "cristinavivesj"
+    fullname: >-
+      Makeup • Beauty • Lifestyle
+    location: "Colombia"
+    followers: 35057
+    engagement: 207
+    commentsToLikes: 0.043510
+    id: ck0tx48ijhubb0i19y9rokavw
+    verified: false
+    hashtags: "#brows, #color, #lips, #quedateencasa"
+  - username: "camilabarbosa_s"
+    fullname: >-
+      Camila ☼
+    location: "Colombia"
+    followers: 3927
+    engagement: 1416
+    commentsToLikes: 0.064785
+    id: ckaozitdpm2m90i785zisy6k0
+    verified: false
+    hashtags: "#lavenselasmanos"
+  - username: "saracorrales"
+    fullname: >-
+      SARA ✮ CORRALES
+    location: "Colombia"
+    followers: 2601414
+    engagement: 67
+    commentsToLikes: 0.021446
+    id: ck5ch6h9aq6z60i11in5hk731
+    verified: true
+    hashtags: "#tbt, #losroques, #venezuela, #beach"
   - username: "ssanint"
     fullname: >-
       Sebastian Sanint
     location: "Colombia"
-    followers: 18682
-    engagement: 251
-    commentsToLikes: 0.040218
+    followers: 18747
+    engagement: 248
+    commentsToLikes: 0.041837
     id: ck6tk6chx433d0j71t0dx5roo
     verified: false
-    hashtags: "#ssanintfotografia, #redessociales, #pereira, #ssanint"
-  - username: "foodiehub_baq"
+    hashtags: "#acrylicpack, #laaceituna, #coupletravel, #bmwmotorsport"
+  - username: "juanpatetrae"
     fullname: >-
-      Foodiehub_baq | Food blog
+      Juanpatetrae 🔪
     location: "Colombia"
-    followers: 6608
-    engagement: 730
-    commentsToLikes: 0.096438
-    id: ck8tae96crejy0j78nosmvr0e
+    followers: 6226
+    engagement: 988
+    commentsToLikes: 0.045434
+    id: ck9wd786vedof0j78c7w5bgia
     verified: false
-    hashtags: "#fries, #maplesyrup, #mediterraneanfood, #sanremo"
-  - username: "valblogs"
-    fullname: >-
-      Cómo Vivir En El Covid
-    location: "Colombia"
-    followers: 16544
-    engagement: 408
-    commentsToLikes: 0.063019
-    id: ck0w2v3qeqb5f0i19tnfkz6d3
-    verified: false
-    hashtags: "#ginco, #candybars, #beachliving, #cafecolombiano"
-  - username: "theclub1991"
-    fullname: >-
-      G a s t r o n o m i c o ®
-    location: "Colombia"
-    followers: 21111
-    engagement: 197
-    commentsToLikes: 0.618033
-    id: ck6u9mpqkyezz0j71p26ise4j
-    verified: false
-    hashtags: "#caliescali, #yocreoencali, #theclub1991, #foodie"
-  - username: "vlasna"
-    fullname: >-
-      ↟↟↟ Natasha Vlasenco ↟↟↟
-    location: "Colombia"
-    followers: 9382
-    engagement: 408
-    commentsToLikes: 0.068104
-    id: ck14ldllou5580i19x0wv2d5l
-    verified: false
-    hashtags: "#roses, #quickandeasyfood, #homy, #galletas"
+    hashtags: "#room, #chilitaco, #mexitaco, #sunday"
 ---

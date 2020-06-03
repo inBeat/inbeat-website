@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Sydney In 2020
 description: >-
-  Find top food Instagram influencers in Sydney in 2020. Most popular hashtags: #sydney #food #sydneyfood #sydneyfoodblogger.
+  Find top food Instagram influencers in Sydney in 2020. Most popular hashtags: #igerssydney #food #japanesefood #foodforfoodies.
 platform: Instagram
 profiles:
-  - username: "duskavenue"
+  - username: "aaliyahchloemakeup"
     fullname: >-
-      Najima Rasool
+      Sydney Makeup Artist
     location: "Australia"
-    followers: 56617
-    engagement: 111
-    commentsToLikes: 0.026071
-    id: ck5c76lf76x6d0i11a3yyofef
+    followers: 16486
+    engagement: 331
+    commentsToLikes: 0.101190
+    id: ckaorlamznqdw0i785py40cgc
     verified: false
-    hashtags: "#throwback, #harrypotter, #canberrainfluencer, #newstarkebabrestaurant"
-  - username: "vivifean"
-    fullname: >-
-      🌸 VIVIAN | SYDNEY FOODIE 🌸
-    location: "Australia"
-    followers: 7307
-    engagement: 558
-    commentsToLikes: 0.265475
-    id: ck5zm1k4tlqha0i14t9qdeeuq
-    verified: false
-    hashtags: "#goobnechicken, #hongkongfood, #sydneybreakfast, #coffee"
-  - username: "tuscan_baker"
-    fullname: >-
-      Brock
-    location: "Australia"
-    followers: 78630
-    engagement: 727
-    commentsToLikes: 0.025253
-    id: ck0vvi2hhp8i70i19bp80vpm0
-    verified: false
-    hashtags: "#recipe, #food52grams, #pastrychef, #2019"
-  - username: "the_chew_crew"
-    fullname: >-
-      CHEW CREW MEDIA
-    location: "Australia"
-    followers: 39823
-    engagement: 115
-    commentsToLikes: 0.018551
-    id: ck8t08ctgr66d0j78pojtoxhp
-    verified: false
-    hashtags: "#goodfood, #chewcrew, #chewcrewmelbourne, #eat"
-  - username: "ftlblog"
-    fullname: >-
-      FTLblog
-    location: "Australia"
-    followers: 2710
-    engagement: 1129
-    commentsToLikes: 0.052939
-    id: ck5zs0idcxlet0i14e4aid6b0
-    verified: false
-    hashtags: "#sydneyfood, #igers, #instagood, #unesco"
+    hashtags: "#sydney, #lilacobsessions, #foodie, #makeupvideos"
   - username: "cynthiaeats_"
     fullname: >-
       CYNTHIA • Food Photographer
     location: "Australia"
-    followers: 14582
-    engagement: 871
-    commentsToLikes: 0.062728
+    followers: 14301
+    engagement: 895
+    commentsToLikes: 0.059803
     id: ck0ttrk2640ge0i19aw6ys53x
     verified: false
-    hashtags: "#asianfood, #vegemite, #beverlyhills, #sydneyfoodblogger"
+    hashtags: "#nasilemak, #mosman, #granola, #anime"
   - username: "ramvespa"
     fullname: >-
       Sydney Food|Travel|Biz
     location: "Australia"
-    followers: 8160
-    engagement: 806
-    commentsToLikes: 0.027186
+    followers: 8036
+    engagement: 792
+    commentsToLikes: 0.028537
     id: ck5zr10igvoo30i14ngfmggjg
     verified: false
-    hashtags: "#pricelineau, #noleftovers, #melbournecafes, #sydneyphotographer"
-  - username: "biggerperm"
+    hashtags: "#contessacafe, #foodstylist, #supportlocals, #travelisfun"
+  - username: "kerabeareats"
     fullname: >-
-      Jamie Ray ..aka "BIGPERM" (tm)
+      Flatlay & Content Creator
     location: "Australia"
-    followers: 5326
-    engagement: 536
-    commentsToLikes: 0.049255
-    id: ck0udee16iyys0i19i4bbel9s
+    followers: 23150
+    engagement: 257
+    commentsToLikes: 0.107685
+    id: ck0u6krg426v90i19e8vss7ao
     verified: false
-    hashtags: "#e430, #detailing, #spoon, #w114"
-  - username: "kukuwaassan"
+    hashtags: "#italiandessert, #foodstylish, #mothersdaycard, #japangram"
+  - username: "somersivrioglu"
     fullname: >-
-      Kukuwa
+      Somer Sivrioglu
     location: "Australia"
-    followers: 3917
-    engagement: 1892
-    commentsToLikes: 0.100425
-    id: ck5q0boyv57st0i11wxh4i9u2
-    verified: false
-    hashtags: "#austoghana, #repost, #model, #strawberry"
-  - username: "lyndlkean"
-    fullname: >-
-      Lyndl Kean
-    location: "Australia"
-    followers: 55529
-    engagement: 112
-    commentsToLikes: 0.030882
-    id: ck5cfcpcimp5o0i1126g1yq8u
+    followers: 680612
+    engagement: 203
+    commentsToLikes: 0.011457
+    id: ck0txk5nojhhc0i19ugvrwwby
     verified: true
-    hashtags: "#groundupfitness, #stayhome, #inthistogether, #womensbest"
+    hashtags: "#yerelbugday, #sbscomfort, #twogoodworkwork, #budage"
+  - username: "asianfoodninja"
+    fullname: >-
+      SYDNEY FOOD NINJA
+    location: "Australia"
+    followers: 81014
+    engagement: 357
+    commentsToLikes: 0.057930
+    id: ck0ttrkq640iw0i19puxv8g13
+    verified: false
+    hashtags: "#afganfood, #burgerporn, #matchagreentea, #sydneychinatown"
+  - username: "mishytales"
+    fullname: >-
+      Michelle | Syd Foodie 🦄🌸🌷
+    location: "Australia"
+    followers: 3956
+    engagement: 1319
+    commentsToLikes: 0.301474
+    id: ck5bt9ufdfl1r0i11caf9mw3o
+    verified: false
+    hashtags: "#flatlaystyle, #freshdonuts, #baking, #breakfastinbed"
+  - username: "chookie_tran"
+    fullname: >-
+      Chook Tran
+    location: "Australia"
+    followers: 5242
+    engagement: 657
+    commentsToLikes: 0.019965
+    id: ck13ads6tpw660i19pcf5ojup
+    verified: false
+    hashtags: "#virago, #toyota, #lexus, #likeaboss"
+  - username: "thelifeofpaopao"
+    fullname: >-
+      Paopao🎀 Food,Travel,Lifestyle
+    location: "Australia"
+    followers: 10944
+    engagement: 841
+    commentsToLikes: 0.196953
+    id: ck5hlm4zhkgk00i11az6t4wzq
+    verified: false
+    hashtags: "#dumplings, #igerssydney, #parramattafood, #cafe"
+  - username: "bydanawang"
+    fullname: >-
+      Dana Wang
+    location: "Australia"
+    followers: 59216
+    engagement: 342
+    commentsToLikes: 0.088224
+    id: ckaowfy5q8rm70i78qlhe1osb
+    verified: false
+    hashtags: ""
 ---

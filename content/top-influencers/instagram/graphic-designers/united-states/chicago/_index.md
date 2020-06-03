@@ -1,107 +1,107 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Chicago In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Chicago in 2020. Most popular hashtags: #nba #chicago #graphicdesign #art.
+  Find top graphic-designers Instagram influencers in Chicago in 2020. Most popular hashtags: #kawhileonard #kawhi #kobe #graphicdesigner.
 platform: Instagram
 profiles:
   - username: "tahitian_treat"
     fullname: >-
-      art director+creative creature
+      The Grand Tahiti
     location: "United States"
-    followers: 3247
-    engagement: 1376
-    commentsToLikes: 0.110731
+    followers: 3299
+    engagement: 1372
+    commentsToLikes: 0.120743
     id: ck0twx2zvh4980i19vrbq9kfl
     verified: false
-    hashtags: "#veuveclicquotpoloclassic, #branding, #beinspired, #9to5life"
+    hashtags: "#shemakeschicago, #veuveclicquot, #branding, #womenempowerment"
+  - username: "hometown_designs"
+    fullname: >-
+      Jimmy Mitchell
+    location: "United States"
+    followers: 62066
+    engagement: 1951
+    commentsToLikes: 0.013340
+    id: ck5qb3owzjnt30i11pefzp2rk
+    verified: false
+    hashtags: "#zach, #rodman, #curry, #laclippers"
+  - username: "ghosttraveler"
+    fullname: >-
+      ↟ 𝗚𝗵𝗼𝘀𝘁𝘁𝗿𝗮𝘃𝗲𝗹𝗲𝗿 ↟
+    location: "United States"
+    followers: 7663
+    engagement: 892
+    commentsToLikes: 0.037998
+    id: ck138t3nbhvom0i1928w0nzwy
+    verified: false
+    hashtags: "#pingame, #artvsartist, #animalcrossingart, #mothman"
   - username: "catcybul"
     fullname: >-
       Venezuelan in Chicago📍
     location: "United States"
-    followers: 30342
-    engagement: 160
-    commentsToLikes: 0.050339
+    followers: 30249
+    engagement: 169
+    commentsToLikes: 0.059777
     id: ck0u052q1slwo0i19u30xkquv
     verified: false
-    hashtags: "#snuba, #quarentena, #mondaymood, #beachclub"
+    hashtags: "#paidadvertisement, #tiktok, #throwbackthursday, #makeup"
   - username: "hawkedits_"
     fullname: >-
       JH
     location: "United States"
-    followers: 6532
-    engagement: 1417
-    commentsToLikes: 0.023014
+    followers: 6497
+    engagement: 1358
+    commentsToLikes: 0.024629
     id: ck14i3jeudgpd0i19x5n4pl7z
     verified: false
-    hashtags: "#bron, #bucks, #warriord, #photography"
-  - username: "shotsbypaula"
-    fullname: >-
-      Paula Stopka
-    location: "United States"
-    followers: 2867
-    engagement: 1295
-    commentsToLikes: 0.040066
-    id: ck6u9bj7zwl9p0j7127zhdb6y
-    verified: false
-    hashtags: "#portraitphoto, #tonesofnyc, #portraitmode, #citykillerz"
+    hashtags: "#diakite, #braxtonkey, #nuggets, #brooklynnets"
   - username: "jazzalba.jpg"
     fullname: >-
       Jazz Alba
     location: "United States"
-    followers: 8704
-    engagement: 1361
-    commentsToLikes: 0.115500
+    followers: 9107
+    engagement: 1405
+    commentsToLikes: 0.077095
     id: ck8sz93fmnjj30j78bvdck789
     verified: false
-    hashtags: "#iykyk, #benchmob, #kickstagram, #netflix"
-  - username: "nostalchris"
+    hashtags: "#aarongordon, #orlandomagic, #choreography, #whoworeitbetter"
+  - username: "cottonwood312"
     fullname: >-
-      Chris Rosario
+      Jane Wongjirad
     location: "United States"
-    followers: 8801
-    engagement: 411
-    commentsToLikes: 0.057354
-    id: ck134gph8wbx30i19vk1yvhvb
+    followers: 6456
+    engagement: 1032
+    commentsToLikes: 0.039379
+    id: ck9wd5mo4e5z30j78gf0fq1ls
     verified: false
-    hashtags: "#nbaallstargame, #airmaxday, #vivalaflight89, #vivalaflight"
-  - username: "amandajanejones"
+    hashtags: "#ampersand, #motherslove, #showrespect, #flowers"
+  - username: "eg.studios"
     fullname: >-
-      Amanda Jane Jones
+      
     location: "United States"
-    followers: 134695
-    engagement: 185
-    commentsToLikes: 0.043835
-    id: ck0tx0ygdhg5e0i190o2le31r
-    verified: true
-    hashtags: "#chicagorealestate, #apartmentforsale, #nokidhungry, #ad"
-  - username: "srelix"
-    fullname: >-
-      Mikey Halim
-    location: "United States"
-    followers: 35039
-    engagement: 690
-    commentsToLikes: 0.040746
-    id: ck8tbi6mnvs150j78gd4afe13
+    followers: 14211
+    engagement: 485
+    commentsToLikes: 0.028022
+    id: ck5qb37syjldq0i11d8szvwgz
     verified: false
-    hashtags: "#nflfans, #magic, #seattlewashington, #hoop"
-  - username: "gillie_edits"
+    hashtags: "#houstonrockets, #sneaker, #houseofheat, #celtics"
+  - username: "bayareadesigns"
     fullname: >-
-      GillieEdits
+      Jeremy Jae Aguinaldo
     location: "United States"
-    followers: 14525
-    engagement: 1235
-    commentsToLikes: 0.011654
-    id: ck13d16o8357m0i19vxn12x2y
+    followers: 14767
+    engagement: 953
+    commentsToLikes: 0.044018
+    id: ck14lqe3tvys80i19o3vklwl6
     verified: false
-    hashtags: "#espn, #battlehawks, #bigred, #patrickmahomes"
-  - username: "drawntothegame"
+    hashtags: ""
+  - username: "lv_visuals"
     fullname: >-
-      Drawn To The Game 🔥🐉 🏈⚡️
+      LV | Sports Designer
     location: "United States"
-    followers: 6685
-    engagement: 1674
-    commentsToLikes: 0.044866
-    id: ck0w18jqyi2u70i19k9vnne1e
+    followers: 5067
+    engagement: 2864
+    commentsToLikes: 0.020833
+    id: ckap1kkiuuxjk0i786lejq4z2
     verified: false
-    hashtags: "#framed8x10, #100seasons, #defensivebacks, #pitt"
+    hashtags: "#memphis, #apple, #cleveland, #brodie"
 ---

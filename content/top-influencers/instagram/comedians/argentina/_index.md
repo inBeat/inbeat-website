@@ -1,107 +1,107 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Argentina In 2020
 description: >-
-  Find top comedians Instagram influencers in Argentina in 2020. Most popular hashtags: #cuarentena #humor #quedateencasa #coronavirus.
+  Find top comedians Instagram influencers in Argentina in 2020. Most popular hashtags: #comedia #quedateencasa #tiktok #love.
 platform: Instagram
 profiles:
+  - username: "belen_monteroi"
+    fullname: >-
+      Belén Montero
+    location: "Argentina"
+    followers: 29444
+    engagement: 785
+    commentsToLikes: 0.021973
+    id: ck6tzo6bmav1m0j714xz5ldqz
+    verified: false
+    hashtags: "#quedateencasa, #dia55decuarentena, #podcast, #hastalavistabeibi"
   - username: "goofygonzalez1"
     fullname: >-
       Goofy Gonzalez
     location: "Argentina"
-    followers: 694196
-    engagement: 597
-    commentsToLikes: 0.026001
+    followers: 720022
+    engagement: 528
+    commentsToLikes: 0.020170
     id: ck5hceptbhopx0i11glvx816e
     verified: false
-    hashtags: "#elestereotipoalabasura, #bautismobirrero, #fotosquenuncasubi"
+    hashtags: "#elestereotipoalabasura, #bautismobirrero"
   - username: "pablitocastilloo"
     fullname: >-
       Pablito Castillo
     location: "Argentina"
-    followers: 1524116
-    engagement: 1625
-    commentsToLikes: 0.446775
+    followers: 1665786
+    engagement: 1238
+    commentsToLikes: 0.067969
     id: ck5znn8owos3x0i14jpw0d16h
     verified: false
-    hashtags: "#joda, #love, #iphone, #sorteo"
+    hashtags: "#yoperreosola, #cuarentena, #mequedoencasa, #amigas"
   - username: "fermledesma"
     fullname: >-
       Fer Ledesma
     location: "Argentina"
-    followers: 30174
-    engagement: 638
-    commentsToLikes: 0.071118
+    followers: 32210
+    engagement: 753
+    commentsToLikes: 0.094317
     id: ck15tqyd5jgu20i191u74i2qg
     verified: false
-    hashtags: "#cerraniasdelhornocal, #cerrodelos14colores, #viernesalanoche, #diadelosenamorados"
+    hashtags: "#experiencias, #catlover, #graciasportanto, #homenaje"
+  - username: "vichocomediante"
+    fullname: >-
+      Vicho Viciani
+    location: "Argentina"
+    followers: 63463
+    engagement: 789
+    commentsToLikes: 0.037572
+    id: ck5c38yfaytph0i11qlwecb8h
+    verified: false
+    hashtags: "#25, #27, #laf, #28"
+  - username: "alearauz"
+    fullname: >-
+      Alejandra Araúz
+    location: "Argentina"
+    followers: 28149
+    engagement: 105
+    commentsToLikes: 0.023242
+    id: ck13bdj1guwrl0i19oce97mlm
+    verified: false
+    hashtags: "#cultiplenas, #zoomparty, #partydigitalcontraelhambre, #javierstanziola"
+  - username: "geniodemente"
+    fullname: >-
+      Rafael Lecaro Manrique
+    location: "Argentina"
+    followers: 108415
+    engagement: 359
+    commentsToLikes: 0.064070
+    id: ckap37n781w3i0i78r7db6ast
+    verified: false
+    hashtags: "#kylochallenge, #kungfuchallenge"
+  - username: "chamojung"
+    fullname: >-
+      Julio Jung Duvauchelle
+    location: "Argentina"
+    followers: 146859
+    engagement: 294
+    commentsToLikes: 0.045545
+    id: ck5zjcbsahc9j0i14uayzaig8
+    verified: true
+    hashtags: "#instachile, #amordelbueno, #luto, #papachocho"
   - username: "moraleando"
     fullname: >-
       Gustavo Morales
     location: "Argentina"
-    followers: 97145
-    engagement: 337
-    commentsToLikes: 0.011878
+    followers: 99127
+    engagement: 211
+    commentsToLikes: 0.014225
     id: ck5zz0ujjavdt0i140oku3c5d
     verified: false
-    hashtags: "#tbt, #karaoke, #feliz2020, #quedateencasa"
-  - username: "camilonicolasok"
+    hashtags: "#poledance, #bailarcomoidiota, #stayhomestayhigh, #tiktoker"
+  - username: "molinerd"
     fullname: >-
-      Camilo Nicolás
+      Pablo Molinari
     location: "Argentina"
-    followers: 348340
-    engagement: 360
-    commentsToLikes: 0.112400
-    id: ck14h71km8v0p0i19rgx1elyt
+    followers: 569634
+    engagement: 414
+    commentsToLikes: 0.026615
+    id: ck0u89aem6u4y0i19m2tmi9v8
     verified: true
-    hashtags: "#hermano, #diadelahermana, #tiktok, #coronavirus"
-  - username: "juampigon"
-    fullname: >-
-      Juampi González️️️ 🤓
-    location: "Argentina"
-    followers: 435940
-    engagement: 293
-    commentsToLikes: 0.055961
-    id: ck6u9ymar0fq40j71mjm0lu39
-    verified: true
-    hashtags: "#nomellamesnuncam, #tbt, #vamosaestarbien, #quedatem"
-  - username: "mayalandes"
-    fullname: >-
-      MAYA LANDESMAN
-    location: "Argentina"
-    followers: 24502
-    engagement: 346
-    commentsToLikes: 0.067224
-    id: ck8wdelbidq6y0j78p8o7oyja
-    verified: false
-    hashtags: "#risa, #parody, #reciclar, #moda"
-  - username: "soyrada"
-    fullname: >-
-      Agustín Aristarán
-    location: "Argentina"
-    followers: 1472438
-    engagement: 348
-    commentsToLikes: 0.019408
-    id: ck15pt0kazi5o0i19iavmiql7
-    verified: true
-    hashtags: "#esnertosarrasqueta, #codoacodochallenge, #nuevoscaminosencasa, #relatordecosas"
-  - username: "andy.ini"
-    fullname: >-
-      Andrés Ini
-    location: "Argentina"
-    followers: 92030
-    engagement: 121
-    commentsToLikes: 0.115981
-    id: ck5ccd0nth4rs0i11zz2mka1x
-    verified: true
-    hashtags: "#historias, #stories, #contagio, #primeracita"
-  - username: "rodrigoesmella"
-    fullname: >-
-      • RODRIGO ESMELLA •
-    location: "Argentina"
-    followers: 5243
-    engagement: 508
-    commentsToLikes: 0.145558
-    id: ck8szxzkhq58s0j780yz7yo9h
-    verified: false
-    hashtags: "#2deabrildiamundialdelautismo, #tbt, #selfie, #picture"
+    hashtags: "#morirderisa, #humorespa, #colas, #videos"
 ---

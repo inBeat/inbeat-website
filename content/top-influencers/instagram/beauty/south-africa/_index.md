@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In South Africa In 2020
 description: >-
-  Find top beauty Instagram influencers in South Africa in 2020. Most popular hashtags: #southafrica #ootd #style #instagood.
+  Find top beauty Instagram influencers in South Africa in 2020. Most popular hashtags: #giveaway #lockdown #styleinspo #tiktok.
 platform: Instagram
 profiles:
   - username: "kylieshanay"
     fullname: >-
       𝐊𝐘𝐋𝐈𝐄 𝐒𝐇𝐀𝐍𝐀𝐘 | 𝐁𝐄𝐀𝐔𝐓𝐘 🤍
     location: "South Africa"
-    followers: 6979
-    engagement: 1922
-    commentsToLikes: 0.760394
+    followers: 6814
+    engagement: 1966
+    commentsToLikes: 0.762247
     id: ck0vvdzuvopko0i19s0o59y26
     verified: false
     hashtags: "#loveguess, #maybelline, #maybellinemasterbronze, #proudsouthafrican"
-  - username: "marielmypictures"
+  - username: "siya_hashe"
     fullname: >-
-      M A R I E  L I N E
+      Siyamthanda Hashe
     location: "South Africa"
-    followers: 11421
-    engagement: 1028
-    commentsToLikes: 0.079966
-    id: ck6u6nsolgotf0j71tpjum2of
+    followers: 5591
+    engagement: 1804
+    commentsToLikes: 0.069504
+    id: ckaoziugtm2q40i78y3toxzf0
     verified: false
-    hashtags: "#socialsteeze, #mytravelgram, #safari, #africanlodge"
-  - username: "imancoovadia_"
+    hashtags: ""
+  - username: "nicole.gibbons"
     fullname: >-
-      Iman Coovadia
+      NICOLE T. GIBBONS
     location: "South Africa"
-    followers: 6561
-    engagement: 753
-    commentsToLikes: 0.187492
-    id: ck5bvjl4djrt60i11vbw5ih01
+    followers: 12505
+    engagement: 744
+    commentsToLikes: 0.136125
+    id: ck9wfav3fo0v00j782q0ik9xq
     verified: false
-    hashtags: "#dior, #diorbeautylovers, #dior, #makeup"
-  - username: "nikitajoshua"
+    hashtags: "#2020, #healthyathome, #lovetolounge, #lawstudent"
+  - username: "cindy_nell"
     fullname: >-
-      Nikita | Model & Makeup Artist
+      Cindy Nell-Roberts
     location: "South Africa"
-    followers: 29064
-    engagement: 545
-    commentsToLikes: 0.045047
-    id: ck5q1k1wmbddf0i113a465475
-    verified: false
-    hashtags: "#beauty, #contentcreator, #femaleentrepreneurship, #engagedcouple"
-  - username: "holymane_"
+    followers: 50448
+    engagement: 253
+    commentsToLikes: 0.054636
+    id: ck0w5vsud5nwv0i192cbxhgra
+    verified: true
+    hashtags: "#beautyqueens, #lookgoodfeelbetter, #internationalmodels, #tvpresenters"
+  - username: "kissblushandtell"
     fullname: >-
-      MELY 💋💕
+      KISS, BLUSH & TELL
     location: "South Africa"
-    followers: 6601
-    engagement: 721
-    commentsToLikes: 0.075886
-    id: ck5ck71lew9r20i11dymoz57z
+    followers: 37394
+    engagement: 254
+    commentsToLikes: 0.070006
+    id: ck5q8fzye5ztx0i11tha1d1zz
     verified: false
-    hashtags: "#noscheveuxsontmagiques, #bijouxfaitmain, #earthexplorer, #ilovekiabiantillesguyane"
+    hashtags: "#kbtmademedoit, #ad, #retinolrules, #skinrepublic"
   - username: "rochelle_vv"
     fullname: >-
       Rochelle van Vuuren
     location: "South Africa"
-    followers: 19024
-    engagement: 791
-    commentsToLikes: 0.076655
+    followers: 19007
+    engagement: 788
+    commentsToLikes: 0.089776
     id: ck5hhf70v7wkh0i11u0bw6tpu
     verified: false
-    hashtags: "#woman, #happyskin, #kissthesky, #kisscloud"
-  - username: "fabulousoverfifty_"
+    hashtags: "#ifbbsa, #5coursemeal, #photoinspo, #healthy"
+  - username: "lerato_seuoe"
     fullname: >-
-      Diana Bellingan🇿🇦
+      Lerato Seuoe
     location: "South Africa"
-    followers: 39645
-    engagement: 337
-    commentsToLikes: 0.060566
-    id: ck14jt8lsm2g50i19yzhj6fmg
+    followers: 51813
+    engagement: 457
+    commentsToLikes: 0.033366
+    id: ck6tu97h8f0kc0j71bf3m9ucj
     verified: false
-    hashtags: "#summerstyle, #coronavid19, #mybreastcancerstory, #easterweekend"
+    hashtags: "#wcw, #davidtlalexavon, #clicksbeauty, #veuverichxnomzamo"
+  - username: "nikitajoshua"
+    fullname: >-
+      Nikita | Model & Makeup Artist
+    location: "South Africa"
+    followers: 29546
+    engagement: 538
+    commentsToLikes: 0.025717
+    id: ck5q1k1wmbddf0i113a465475
+    verified: false
+    hashtags: "#obedient, #ilovethelot, #fyp, #beautymode"
+  - username: "meranda_meerra"
+    fullname: >-
+      Meranda Pillay
+    location: "South Africa"
+    followers: 7134
+    engagement: 557
+    commentsToLikes: 0.097356
+    id: ck6to4q7pc2yq0j718rh58n8p
+    verified: false
+    hashtags: "#glam, #sweats, #positivevibes, #facial"
   - username: "her.scattered.petals"
     fullname: >-
       Loren Best | Content Creator
     location: "South Africa"
-    followers: 5832
-    engagement: 423
-    commentsToLikes: 0.228509
+    followers: 6704
+    engagement: 461
+    commentsToLikes: 0.239296
     id: ck6u2dkpzr77g0j71ew4vlafs
     verified: false
-    hashtags: "#ourgenerationdolls, #ivfsuccess, #coronavirus, #cottononkidscrew"
-  - username: "golden_hny"
-    fullname: >-
-      N A R D O S 🍯
-    location: "South Africa"
-    followers: 5461
-    engagement: 1245
-    commentsToLikes: 0.061159
-    id: ck8tcekxaz7hh0j78nryqtc01
-    verified: false
-    hashtags: "#2020vibe, #golden, #lagos, #beach"
-  - username: "mariahmcalpin"
-    fullname: >-
-      Mariah Ezra | 🇺🇸 🇿🇦
-    location: "South Africa"
-    followers: 36628
-    engagement: 242
-    commentsToLikes: 0.071643
-    id: ck5ci8ds3s7e10i11tkv4cmm6
-    verified: false
-    hashtags: "#strongersweden, #happilyezraafter, #30, #lomoinstant"
+    hashtags: "#lockdown, #gift, #onlinestore, #naturalbeauty"
 ---

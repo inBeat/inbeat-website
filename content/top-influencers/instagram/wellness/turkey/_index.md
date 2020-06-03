@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Turkey In 2020
 description: >-
-  Find top wellness Instagram influencers in Turkey in 2020. Most popular hashtags: #evdekal #instagood #tbt #instamood.
+  Find top wellness Instagram influencers in Turkey in 2020. Most popular hashtags: #wellness #pilates #workout #karantina.
 platform: Instagram
 profiles:
+  - username: "sedademirdogenn"
+    fullname: >-
+      SeD
+    location: "Turkey"
+    followers: 14545
+    engagement: 392
+    commentsToLikes: 0.064130
+    id: ckaoyr2utip9r0i780xqmdklm
+    verified: false
+    hashtags: "#antreman, #analiz, #pozitifdu, #doglife"
+  - username: "duygucirak.fitpilates"
+    fullname: >-
+      DUYGU ÇIRAK
+    location: "Turkey"
+    followers: 130075
+    engagement: 210
+    commentsToLikes: 0.009668
+    id: ckapbsto317pv0i788jxngket
+    verified: false
+    hashtags: "#19may"
   - username: "abaciogluburak"
     fullname: >-
-      Burak Abacıoğlu
+      Burak Abacıoğlu
     location: "Turkey"
-    followers: 10457
-    engagement: 587
-    commentsToLikes: 0.015476
+    followers: 11018
+    engagement: 525
+    commentsToLikes: 0.015601
     id: ck13cx6uv2lsg0i195khcy74a
     verified: false
-    hashtags: "#runnershigh, #berlinmarathon, #playfortheworld, #playinside"
+    hashtags: "#steptember, #sosyalsorumluluk, #crossfitmotivation, #evdehareket"
   - username: "ebrarozllpkoca"
     fullname: >-
       ZiN™𝔼𝕓𝕣𝕒𝕣 𝕄𝕦𝕤𝕥𝕒𝕗𝕒 𝕂𝕠𝕔𝕒
     location: "Turkey"
-    followers: 5510
-    engagement: 1158
-    commentsToLikes: 0.030795
+    followers: 4817
+    engagement: 1323
+    commentsToLikes: 0.021387
     id: ck8tdn2d0400n0j78jkzqepkk
     verified: false
-    hashtags: "#anneyim, #fitnessmotivation, #happyday, #korona"
-  - username: "pinardilseker"
+    hashtags: "#pilates, #iyiki, #colombia, #zumbabeto"
+  - username: "buseeburus"
     fullname: >-
-      Pınar Dilşeker
+      Buse Buruş 🕊
     location: "Turkey"
-    followers: 106391
-    engagement: 160
-    commentsToLikes: 0.035864
-    id: ck14jwansmiei0i194i3fbdap
-    verified: true
-    hashtags: "#vogue, #tracking, #evindekal, #likeetmeyiunutmayin"
+    followers: 15050
+    engagement: 1009
+    commentsToLikes: 0.108398
+    id: ck8t4rqyv7sm50j78mcw4fgc4
+    verified: false
+    hashtags: "#evdegu, #can, #wellness, #wednesdaygirlll"
   - username: "pelinburcin"
     fullname: >-
       𝐏𝐞𝐥𝐢𝐧 ༗ 𝐓𝐫𝐚𝐯𝐞𝐥 ༗ 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞
     location: "Turkey"
-    followers: 10064
-    engagement: 1490
-    commentsToLikes: 0.123092
+    followers: 10972
+    engagement: 1539
+    commentsToLikes: 0.110190
     id: ck8t93qizmuvv0j78i1orvfgh
     verified: false
-    hashtags: "#roamersclublife, #wellness, #provence, #shetravels"
-  - username: "gezenlerkulubu"
+    hashtags: "#europe, #picoftheday, #nisan, #homesweethome"
+  - username: "emresil"
     fullname: >-
-      Özlem
+      Emre Abi
     location: "Turkey"
-    followers: 77276
-    engagement: 291
-    commentsToLikes: 0.407207
-    id: ck0tzlthxqtbk0i196rj0wi79
+    followers: 4281
+    engagement: 1558
+    commentsToLikes: 0.049719
+    id: ckapcduf43f3k0i781eih2gnh
     verified: false
-    hashtags: "#greece, #bursa, #tarif, #mauritius"
-  - username: "fadikatasoy"
+    hashtags: "#mademevdeyiz, #dreamscometrue, #ketorecipes, #geceyar"
+  - username: "ha.akyl"
     fullname: >-
-      Fadik Sevin Atasoy
+      🔵🤸🏻‍♀️
     location: "Turkey"
-    followers: 30138
-    engagement: 166
-    commentsToLikes: 0.268345
-    id: ck5q04mn5480p0i11oz1df86q
+    followers: 5923
+    engagement: 747
+    commentsToLikes: 0.018625
+    id: ckapcj4r040tw0i7891eb1rg7
     verified: false
-    hashtags: "#evdekal, #selflove, #kitapokuyorum, #whatelseyougottodo"
+    hashtags: "#nature, #throw, #cadillac, #yellow"
   - username: "gizemozdilli"
     fullname: >-
       Gizem Özdilli
     location: "Turkey"
-    followers: 141040
-    engagement: 140
-    commentsToLikes: 0.115714
+    followers: 143864
+    engagement: 209
+    commentsToLikes: 0.137389
     id: ck0vvmm8upsiz0i19rxixxdt1
     verified: true
-    hashtags: "#sevgi, #moda, #bahar, #erbapura"
-  - username: "akasyasilturkmen"
+    hashtags: "#video, #cooking, #longhair, #toprak"
+  - username: "mineyilmazbilek"
     fullname: >-
-      Akasya Asıltürkmen
+      Mine Yilmazbilek
     location: "Turkey"
-    followers: 178520
-    engagement: 218
-    commentsToLikes: 0.020010
-    id: ck0w14czrhi1h0i19fklzhhl0
-    verified: true
-    hashtags: "#cesaretanave, #covid, #ruhe, #palosanto"
-  - username: "sirinsever"
-    fullname: >-
-      Şirin Sever
-    location: "Turkey"
-    followers: 19794
-    engagement: 263
-    commentsToLikes: 0.061708
-    id: ck5cikpq0styf0i11v7lgctun
+    followers: 39531
+    engagement: 195
+    commentsToLikes: 0.036664
+    id: ck6u8r4sft6ot0j71f6j4ixmq
     verified: false
-    hashtags: "#instamood, #summervibes, #friends, #masterofceremony"
-  - username: "bestofzumba"
-    fullname: >-
-      zumba®network
-    location: "Turkey"
-    followers: 48279
-    engagement: 229
-    commentsToLikes: 0.028577
-    id: ck14kxx34rvl00i194t2ftj8s
-    verified: false
-    hashtags: "#fitness, #familytime, #diet, #gains"
+    hashtags: "#betight, #hope, #uluslararas, #mydaughter"
 ---

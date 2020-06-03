@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Japan In 2020
 description: >-
-  Find top architecture Instagram influencers in Japan in 2020. Most popular hashtags: #streets #japan #street #night.
+  Find top architecture Instagram influencers in Japan in 2020. Most popular hashtags: #stayhome #nagano #chiba #ginza.
 platform: Instagram
 profiles:
+  - username: "nomurushka"
+    fullname: >-
+      Veronika Nomura /ヴェロニカ Tokyo
+    location: "Japan"
+    followers: 14094
+    engagement: 597
+    commentsToLikes: 0.042359
+    id: ck0vviw8zpc9b0i19gxyv1pej
+    verified: false
+    hashtags: "#quarantinepillowchallenge, #nofilter, #nastygalfaceofpremier"
+  - username: "hari.srg"
+    fullname: >-
+      Hari Hajaruddin Siregar
+    location: "Japan"
+    followers: 12124
+    engagement: 572
+    commentsToLikes: 0.036648
+    id: ck6u1rkyzngtq0j71lpvclva1
+    verified: false
+    hashtags: "#stayathome"
   - username: "harutin2"
     fullname: >-
       Harumi
     location: "Japan"
-    followers: 40686
-    engagement: 336
-    commentsToLikes: 0.068799
+    followers: 40541
+    engagement: 341
+    commentsToLikes: 0.068224
     id: ck5bxkasnnw450i11it7labru
     verified: false
-    hashtags: "#tg, #shoton, #shotoniphone"
+    hashtags: "#stayhome"
+  - username: "johnstonanthony"
+    fullname: >-
+      Anthony 🇨🇦
+    location: "Japan"
+    followers: 21420
+    engagement: 309
+    commentsToLikes: 0.078333
+    id: ck5bvyj2pkngc0i11yfhwow3h
+    verified: false
+    hashtags: "#artofvisual, #natgeo, #fatalframes, #depthobsessed"
   - username: "seven85654"
     fullname: >-
       SEVEN
     location: "Japan"
-    followers: 22080
-    engagement: 2593
-    commentsToLikes: 0.002586
+    followers: 23157
+    engagement: 1686
+    commentsToLikes: 0.003097
     id: ck13aqdbnrnjq0i19wmlvok8n
     verified: false
-    hashtags: "#minecraftlover, #mojang, #games, #minecraftdrawing"
+    hashtags: "#minecraftjava, #alta, #mcbuilds, #minecraftideas"
   - username: "petestew"
     fullname: >-
       Peter Stewart
     location: "Japan"
-    followers: 21009
-    engagement: 418
-    commentsToLikes: 0.021880
+    followers: 20921
+    engagement: 425
+    commentsToLikes: 0.021604
     id: ck601jcpdfljt0i14ruzyqlhg
     verified: false
-    hashtags: "#chinaairlines, #taipeitravel, #hoiantravel, #hoianancienttown"
-  - username: "benrich__"
-    fullname: >-
-      Ben Richards
-    location: "Japan"
-    followers: 4315
-    engagement: 1637
-    commentsToLikes: 0.036189
-    id: ck6uaj6ul3v1t0j71gwgyi3u4
-    verified: false
-    hashtags: "#tokyobike, #tokyobikemono"
+    hashtags: "#hoiantravel, #hoianoldtown, #ginzatokyo, #quangnamtourism"
   - username: "japantravelphoto"
     fullname: >-
       Japan Travel Photo
     location: "Japan"
-    followers: 60938
-    engagement: 467
-    commentsToLikes: 0.003442
+    followers: 63372
+    engagement: 566
+    commentsToLikes: 0.003556
     id: ck8t4zg7b8c950j78c9woocz7
     verified: false
-    hashtags: "#riverside, #shibuya, #starrynight, #onomichi"
-  - username: "mura_kyami53"
+    hashtags: "#boatlife, #shibuya, #honshu, #museum"
+  - username: "benrich__"
     fullname: >-
-      むらきゃみだいち🇯🇵(Murakyami Daichi)
+      Ben Richards
     location: "Japan"
-    followers: 7805
-    engagement: 1798
-    commentsToLikes: 0.016432
-    id: ck5zwcnq35wd70i149xpmudpc
+    followers: 4770
+    engagement: 1284
+    commentsToLikes: 0.033879
+    id: ck6uaj6ul3v1t0j71gwgyi3u4
     verified: false
-    hashtags: "#streetmobs, #rsa, #jj, #leagueoflenses"
+    hashtags: "#suitcasetravels, #stayhome"
+  - username: "redtank2013"
+    fullname: >-
+      yumi🐤🐦🐧
+    location: "Japan"
+    followers: 5143
+    engagement: 642
+    commentsToLikes: 0.008205
+    id: ckapbnv9a0mlc0i78cqvbqpx3
+    verified: false
+    hashtags: "#ginza, #yusukeasai, #cosmicgarden, #rebornartfestival"
   - username: "sajilo_kayo"
     fullname: >-
       kayoko kawai
     location: "Japan"
-    followers: 21774
-    engagement: 198
-    commentsToLikes: 0.005961
+    followers: 21902
+    engagement: 229
+    commentsToLikes: 0.005068
     id: ck139utsan83c0i19ref4fgh2
     verified: false
-    hashtags: "#hotelshanker, #harmoniasajilo, #ageratum, #sajilocafeforest"
-  - username: "pranala.associates"
-    fullname: >-
-      Pranala Associates
-    location: "Japan"
-    followers: 28363
-    engagement: 302
-    commentsToLikes: 0.003080
-    id: ck0ucut4hhqe30i19pajdeako
-    verified: false
-    hashtags: "#bestnine2019, #iyashihouse, #bouwatelier, #pranalajapantrip"
-  - username: "rinsta_gram1002"
-    fullname: >-
-      Rintaro Oyaizu / 小柳津林太郎 バチェラー2
-    location: "Japan"
-    followers: 71515
-    engagement: 352
-    commentsToLikes: 0.011257
-    id: ck6to52btc4z70j71oendh2pn
-    verified: true
-    hashtags: "#mamba, #path, #ghost, #pr"
-  - username: "bobtakespics"
-    fullname: >-
-      BobTakesPics
-    location: "Japan"
-    followers: 8783
-    engagement: 1400
-    commentsToLikes: 0.093811
-    id: ck0twg2zvf7vr0i191p7gxrb8
-    verified: false
-    hashtags: "#temples, #travelinggram, #yosemitevalley, #nightskyline"
+    hashtags: "#sajilocafelinden, #stayhome"
 ---

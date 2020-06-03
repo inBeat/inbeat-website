@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Phoenix In 2020
 description: >-
-  Find top models Instagram influencers in Phoenix in 2020. Most popular hashtags: #phoenix #instagood #throwback #instagram.
+  Find top models Instagram influencers in Phoenix in 2020. Most popular hashtags: #phoenix #model #igdaily #models.
 platform: Instagram
 profiles:
-  - username: "destineequinn"
+  - username: "jasminesienna"
     fullname: >-
-      Destinee Quinn
+      Jasmine Möllenkamp
     location: "United States"
-    followers: 16956
-    engagement: 259
-    commentsToLikes: 0.034634
-    id: ck6tkwxnv5kdi0j716h5zd028
+    followers: 2541
+    engagement: 913
+    commentsToLikes: 0.070193
+    id: ck5px041apgby0i11oekwucpt
     verified: false
-    hashtags: "#whatsup, #loveonthebrain, #stillsingle, #foryou"
+    hashtags: "#beautyiswhatyoufeel, #sixty6model"
+  - username: "lallis_world"
+    fullname: >-
+      Lalli
+    location: "United States"
+    followers: 11507
+    engagement: 751
+    commentsToLikes: 0.044662
+    id: ck5zpslr5t9oa0i14b8ncdwr7
+    verified: false
+    hashtags: "#stretching, #laughter, #shaderoom, #twerk"
   - username: "kelseyloren"
     fullname: >-
       Kelsey Loren Van Soest
     location: "United States"
-    followers: 6400
-    engagement: 968
-    commentsToLikes: 0.050474
+    followers: 6634
+    engagement: 977
+    commentsToLikes: 0.049557
     id: ck5zr7o0bw2bf0i14gl4930yw
     verified: false
     hashtags: "#imwithblush"
+  - username: "inked.exclusives"
+    fullname: >-
+      
+    location: "United States"
+    followers: 30863
+    engagement: 57
+    commentsToLikes: 0.006846
+    id: ck5cffuv2mvc10i116l0bvdiq
+    verified: false
+    hashtags: "#dopemagazine, #highstandards, #houston, #boudoir"
   - username: "peachy.goodness"
     fullname: >-
       Suicide Girl Hopeful
     location: "United States"
-    followers: 27590
-    engagement: 576
-    commentsToLikes: 0.008803
+    followers: 27164
+    engagement: 586
+    commentsToLikes: 0.008902
     id: ck6tkx58n5ktr0j71kiflqddr
     verified: false
     hashtags: "#suicidegirls, #abqstreetmeet"
-  - username: "ezgi_zaman"
+  - username: "theomcdermott"
     fullname: >-
-      Ezgi Zaman Dance Project 🌎
+      
     location: "United States"
-    followers: 33317
-    engagement: 467
-    commentsToLikes: 0.036734
-    id: ck8tbbt04v1xj0j78d04vcrzn
+    followers: 5628
+    engagement: 1046
+    commentsToLikes: 0.037602
+    id: ck9whlqp7yfzh0j78imntydad
     verified: false
-    hashtags: "#danceshoes, #dancerlife, #travelingtheworld, #ezgizamanchallenge"
+    hashtags: ""
+  - username: "w.e.n.d.y.a.l.i.c.i.a"
+    fullname: >-
+      wendy🌹👑👑
+    location: "United States"
+    followers: 10739
+    engagement: 1068
+    commentsToLikes: 0.042152
+    id: ck8tbkrnrw11j0j78yp8bafki
+    verified: false
+    hashtags: "#gainwithdreamer, #kenyamemes, #gainwithpozzie, #10over10"
+  - username: "phenyxrose"
+    fullname: >-
+      Phenyx
+    location: "United States"
+    followers: 126617
+    engagement: 482
+    commentsToLikes: 0.024120
+    id: ck5cj29auttzm0i1162yrfur6
+    verified: false
+    hashtags: "#blacktravelclub, #destinationvacation, #internationalmodels, #blueseas"
   - username: "jamesfelixraw"
     fullname: >-
       James Felix
     location: "United States"
-    followers: 323162
+    followers: 334281
     engagement: 338
-    commentsToLikes: 0.007305
+    commentsToLikes: 0.007874
     id: ck15q3qng0y8o0i197e529lp9
     verified: false
-    hashtags: ""
-  - username: "ambernovella"
-    fullname: >-
-      𝐴𝑚𝑏𝑒𝑟 𝑆𝑘𝑎𝑔𝑔𝑠 🌸
-    location: "United States"
-    followers: 66452
-    engagement: 704
-    commentsToLikes: 0.010350
-    id: ck0u0om72udaw0i19cbjtxek8
-    verified: false
-    hashtags: "#masterballetacademy, #balletbarre, #ballettraining, #evilqueen"
-  - username: "honeyylove_llc"
-    fullname: >-
-      Honeyy Love
-    location: "United States"
-    followers: 25334
-    engagement: 312
-    commentsToLikes: 0.035125
-    id: ck5c1k3cbvc6o0i11klyj1cf8
-    verified: false
-    hashtags: "#legsfordays, #focus, #swimmingpool, #littleblackdress"
+    hashtags: "#facetimephotoshoot"
   - username: "leanna_prater00"
     fullname: >-
       Leanna Prater
     location: "United States"
-    followers: 5711
-    engagement: 1596
-    commentsToLikes: 0.004141
+    followers: 5837
+    engagement: 1557
+    commentsToLikes: 0.004795
     id: ck5hpsffurw3d0i11ss4iyjsn
     verified: false
-    hashtags: "#ariat, #barlife, #downtownarkansas, #mountainview"
-  - username: "marisa_babe312"
-    fullname: >-
-      Marisa Valdovinos💋
-    location: "United States"
-    followers: 10392
-    engagement: 862
-    commentsToLikes: 0.055540
-    id: ck5c3al3gyx0n0i11i2w5ssq9
-    verified: false
-    hashtags: "#countdown, #sundayfunday, #cholalocaclothing, #dukesphotography"
-  - username: "mikayla_howley3"
-    fullname: >-
-      Mikayla Howley
-    location: "United States"
-    followers: 2233
-    engagement: 2446
-    commentsToLikes: 0.039098
-    id: ck5zy0t5f90vc0i14t1v8ima2
-    verified: false
-    hashtags: ""
+    hashtags: "#grandlake, #countrymusic, #snake, #bricktown"
 ---

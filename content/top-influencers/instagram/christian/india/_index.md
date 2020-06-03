@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In India In 2020
 description: >-
-  Find top christian Instagram influencers in India in 2020. Most popular hashtags: #instagram #india #photography #nature.
+  Find top christian Instagram influencers in India in 2020. Most popular hashtags: #love #giveaway #covid19 #religion.
 platform: Instagram
 profiles:
   - username: "maruati_tekawki_hnamte"
     fullname: >-
       H.Lalremruati
     location: "India"
-    followers: 23374
-    engagement: 1309
-    commentsToLikes: 0.014418
+    followers: 27949
+    engagement: 1417
+    commentsToLikes: 0.016396
     id: ck6u0lh9qge9m0j71gq2rcd88
     verified: false
-    hashtags: "#newvideo, #gospel, #worshipper, #newsong"
+    hashtags: "#gocorona, #stayhome, #giveaway, #lockdown"
   - username: "ch_asermusic"
     fullname: >-
-      #G4Chase🐝
+      G4Chase🥤
     location: "India"
-    followers: 5873
-    engagement: 1538
-    commentsToLikes: 0.076150
+    followers: 6948
+    engagement: 1570
+    commentsToLikes: 0.055337
     id: ck6u812u4otgw0j71962h6hpg
     verified: false
-    hashtags: "#g4szn, #christiandiorchallenge, #christiandiortrillerchallenge, #cd"
-  - username: "anchorshivanishreen"
-    fullname: >-
-      शिवानी शिरीन
-    location: "India"
-    followers: 34032
-    engagement: 386
-    commentsToLikes: 0.010393
-    id: ck8wexndqes1v0j78z5b5qc1i
-    verified: false
-    hashtags: "#mumbai, #support, #selfie, #like4likes"
+    hashtags: "#cd, #cdwaay, #g4szn, #christiandiorchallenge"
   - username: "ashik2025"
     fullname: >-
       Ashik Thomas
     location: "India"
-    followers: 13434
-    engagement: 1630
-    commentsToLikes: 0.009810
+    followers: 13327
+    engagement: 1687
+    commentsToLikes: 0.009349
     id: ck134ohbcxf2i0i19itpkg4ho
     verified: false
-    hashtags: "#gs1200, #godsowncountry, #390adventure, #sideprofilechallenge"
+    hashtags: "#fmx4ever, #villagelife, #splendidspiti, #theschoolofdirt"
+  - username: "aakash_atanikar_1088"
+    fullname: >-
+      COME FLIP WITH ME😇
+    location: "India"
+    followers: 16164
+    engagement: 615
+    commentsToLikes: 0.020964
+    id: ck8wf21syezua0j78m4n4ljs3
+    verified: false
+    hashtags: "#goodfriday, #republicday, #practice, #instagram"
+  - username: "anchorshivanishreen"
+    fullname: >-
+      Shivani Shreen
+    location: "India"
+    followers: 36431
+    engagement: 282
+    commentsToLikes: 0.015247
+    id: ck8wexndqes1v0j78z5b5qc1i
+    verified: false
+    hashtags: "#mothersday, #peace, #like, #hashtag"
+  - username: "salvationarmymemes"
+    fullname: >-
+      Salvation Army Memes
+    location: "India"
+    followers: 2180
+    engagement: 7795
+    commentsToLikes: 0.011511
+    id: ckaox6cw2bzb40i78xpbyhbua
+    verified: false
+    hashtags: "#worship, #religion, #entertainment"
   - username: "oyinbraithwaite"
     fullname: >-
       Oyinkan Braithwaite
     location: "India"
-    followers: 5349
-    engagement: 425
-    commentsToLikes: 0.055511
+    followers: 5752
+    engagement: 457
+    commentsToLikes: 0.070190
     id: ck6u1avupknb90j71jsskerg9
     verified: false
-    hashtags: "#repost, #partnersincrime, #book, #berry"
-  - username: "______a_r_j_u_n______"
+    hashtags: "#krimfestivalen2020, #krimfestivalen, #nibbies, #instagramisraeli"
+  - username: "artifex_aadi"
     fullname: >-
-      Arjun sathyan
+      Adhil Noushad
     location: "India"
-    followers: 10988
-    engagement: 694
-    commentsToLikes: 0.118221
-    id: ck14i1atcd63p0i19xiv6tgpt
+    followers: 7739
+    engagement: 1453
+    commentsToLikes: 0.185093
+    id: ck9wgbrk9sq620j78b0l075db
     verified: false
-    hashtags: "#ridersofkerala, #mobilephotographyindia, #mobiledit, #mthelmets"
-  - username: "zivkoren1"
+    hashtags: "#malayalamtrolls, #mohanlal, #christian, #malayalammovie"
+  - username: "fearofjoker"
     fullname: >-
-      Ziv Koren
+      Joker
     location: "India"
-    followers: 52396
-    engagement: 269
-    commentsToLikes: 0.033798
-    id: ck5bu1jyfh0bt0i11poqz4ejb
-    verified: true
-    hashtags: "#pigeon, #coronavirus, #afar, #teakwood"
-  - username: "naina_thapa"
-    fullname: >-
-      Naina ★네나★
-    location: "India"
-    followers: 6926
-    engagement: 1345
-    commentsToLikes: 0.025905
-    id: ck6uevqevtcty0j718rd4gh5w
+    followers: 211322
+    engagement: 1357
+    commentsToLikes: 0.008080
+    id: ck1357uqj050h0i19tzo9z8sx
     verified: false
-    hashtags: "#likepostlike, #instagirls, #natureloversforlife, #memorable"
-  - username: "gabriel__son_of__meena__"
+    hashtags: "#putonhappyface, #conceptart, #wonderwoman, #jaredle"
+  - username: "nitesh.paswan2"
     fullname: >-
-      കത്തിക്കരിഞ്ഞ മാലാഖാ ( AJAY )
+      ꧁☆☬𝓝𝓲𝓽𝓮𝓼𝓱☬☆꧂
     location: "India"
-    followers: 12188
-    engagement: 845
-    commentsToLikes: 0.054438
-    id: ck13bxqz6xnjt0i19n7zys2fm
+    followers: 88192
+    engagement: 374
+    commentsToLikes: 0.061808
+    id: ck8wf9ol2fdic0j78fv9eoqpl
     verified: false
-    hashtags: "#windsorcastle, #classicaldancer, #monthsold, #weddingplanner"
-  - username: "thestylejurist"
-    fullname: >-
-      𝙏𝙝𝙚𝙨𝙩𝙮𝙡𝙚𝙟𝙪𝙧𝙞𝙨𝙩 🌸
-    location: "India"
-    followers: 33459
-    engagement: 155
-    commentsToLikes: 0.087622
-    id: ck6tmx02a8owo0j7142c26lib
-    verified: false
-    hashtags: "#gurugram, #sbl, #delhifashion, #influencer"
+    hashtags: "#fashiondesigner, #motogp, #shayeri, #10kfollowers"
 ---

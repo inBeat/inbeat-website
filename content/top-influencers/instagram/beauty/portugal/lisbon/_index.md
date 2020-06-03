@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Lisbon In 2020
 description: >-
-  Find top beauty Instagram influencers in Lisbon in 2020. Most popular hashtags: #lisbon #beauty #portugal #stayhome.
+  Find top beauty Instagram influencers in Lisbon in 2020. Most popular hashtags: #makeup #staysafe #pink #happyeaster.
 platform: Instagram
 profiles:
-  - username: "nomen_graffiti"
+  - username: "joanamoreira_makeup"
     fullname: >-
-      Nomen
+      Joana Moreira_makeup
     location: "Portugal"
-    followers: 17177
-    engagement: 207
-    commentsToLikes: 0.064337
-    id: ck15qw0cu4wxc0i19ckkeconz
+    followers: 22092
+    engagement: 373
+    commentsToLikes: 0.083298
+    id: ck9h9qk9x9kew0j78npxs9q1j
     verified: false
-    hashtags: "#streetphotography, #strangerthings, #artcollectorworld, #graffitiporn"
-  - username: "dr_marta_beauty"
+    hashtags: "#hair, #sparkleeffect, #editorialmakeup, #face"
+  - username: "rutesimao"
     fullname: >-
-      ✨ THE ART OF AESTHETICS ✨
+      RUTE SIMÃO
     location: "Portugal"
-    followers: 38595
-    engagement: 137
-    commentsToLikes: 0.142844
-    id: ck6u70lbhirwx0j71rhw2a3ho
+    followers: 14768
+    engagement: 956
+    commentsToLikes: 0.541296
+    id: ck0tybitomaou0i19lvaih9nb
     verified: false
-    hashtags: "#lisboa, #dubaiaesthetics, #challenge, #world"
+    hashtags: "#winterootd, #juntossomosmais, #outfitchallenge, #mapifulsecret"
   - username: "ineescosta"
     fullname: >-
-      Inês Costa| • Lifestyle
+      Inês Costa| Lifestyle
     location: "Portugal"
-    followers: 44159
-    engagement: 347
-    commentsToLikes: 0.034765
+    followers: 45179
+    engagement: 443
+    commentsToLikes: 0.039029
     id: ck0vx7dbfxig30i19tbikrl6u
     verified: false
-    hashtags: "#howtowear, #quarentena, #valentinesday, #pub"
-  - username: "alicetrewinnard"
+    hashtags: "#pub, #edi, #coffeechallenge, #coffee"
+  - username: "thepinkelephantshoe"
     fullname: >-
-      Alice Trewinnard
+      Cátia Rodrigues
     location: "Portugal"
-    followers: 207944
-    engagement: 755
-    commentsToLikes: 0.002998
-    id: ck134v13sybqz0i19a00owtxx
+    followers: 19660
+    engagement: 763
+    commentsToLikes: 0.664124
+    id: ck0vv7ejrnvfu0i19lj715hn8
+    verified: false
+    hashtags: "#neutrogenapt, #cellularboost, #eyestories, #cuidadoslabiais"
+  - username: "marianacardia"
+    fullname: >-
+      Mαяιαηα 🌹
+    location: "Portugal"
+    followers: 15273
+    engagement: 653
+    commentsToLikes: 0.131552
+    id: ck8t6uh2eeqch0j78kg2sj6w0
+    verified: false
+    hashtags: "#gillette, #pink, #lipgloss, #pinkroom"
+  - username: "jufcarreira"
+    fullname: >-
+      ju
+    location: "Portugal"
+    followers: 63667
+    engagement: 185
+    commentsToLikes: 0.037232
+    id: ckap80d5ymaj60i78bqtco3d5
     verified: true
-    hashtags: "#fuckingfinally, #batistehair, #stayathome, #euficoemcasa"
-  - username: "karina_kukshtel"
+    hashtags: "#weekend, #sunday, #mobilephotography, #happyearthday"
+  - username: "tarlajb"
     fullname: >-
-      KARINA KUKSHTEL
+      Tarla Barbosa
     location: "Portugal"
-    followers: 58157
-    engagement: 441
-    commentsToLikes: 0.006975
-    id: ck0w49xeixit90i19nebma9v2
+    followers: 28237
+    engagement: 129
+    commentsToLikes: 0.029793
+    id: ck55j31a2w5710i11jw6lnuzb
     verified: false
-    hashtags: "#modeling, #lisbon, #photo, #fashion"
-  - username: "monicalice"
-    fullname: >-
-      Mónica Lice
-    location: "Portugal"
-    followers: 24490
-    engagement: 154
-    commentsToLikes: 0.038201
-    id: ck8szikk0ol1o0j78kmytyv6a
-    verified: false
-    hashtags: "#ikeadecor, #monicalicehome, #decora, #rockingchairs"
+    hashtags: "#nature, #hithelookface, #satindress, #roupasfemininas"
   - username: "anneachim"
     fullname: >-
       Ana Achim
     location: "Portugal"
-    followers: 11453
-    engagement: 901
-    commentsToLikes: 0.015464
+    followers: 11481
+    engagement: 940
+    commentsToLikes: 0.013858
     id: ck5hqkdgyt8vx0i115jx1s3qy
     verified: false
-    hashtags: "#bikinibottom, #girls, #retr, #streetsofportugal"
-  - username: "susanachaves"
+    hashtags: "#girls, #lisboaportugal, #algarveportugal, #bookstagrammer"
+  - username: "dr_marta_beauty"
     fullname: >-
-      Susana Persson Chaves
+      ✨ THE ART OF CREATING BEAUTY ✨
     location: "Portugal"
-    followers: 12301
-    engagement: 220
-    commentsToLikes: 0.170921
-    id: ck5c5eg5r3bft0i114fg1lyfq
+    followers: 38640
+    engagement: 146
+    commentsToLikes: 0.209021
+    id: ck6u70lbhirwx0j71rhw2a3ho
     verified: false
-    hashtags: "#scentoftheday, #flightmode, #vintageairplane, #newbeauty"
-  - username: "rutesimao"
+    hashtags: "#repost, #gorgeous, #keepsafe, #newbeginnings"
+  - username: "carinacaldeira_"
     fullname: >-
-      RUTE SIMÃO
+      Carina Caldeira
     location: "Portugal"
-    followers: 14602
-    engagement: 1014
-    commentsToLikes: 0.513438
-    id: ck0tybitomaou0i19lvaih9nb
-    verified: false
-    hashtags: "#instahealth, #wanderlusting, #blackfriday, #photographylovers"
-  - username: "bruna_danin"
-    fullname: >-
-      Brunadanin
-    location: "Portugal"
-    followers: 11981
-    engagement: 912
-    commentsToLikes: 0.205262
-    id: ck5zp7pghs5dl0i14hz9ssf4l
-    verified: false
-    hashtags: "#ootd, #woman, #seaside, #instagram"
+    followers: 58116
+    engagement: 162
+    commentsToLikes: 0.055141
+    id: ck5cdqiqrjlzo0i11j8hrqino
+    verified: true
+    hashtags: "#wheatandrose, #happyeaster, #glitterlifephotography, #fashion"
 ---

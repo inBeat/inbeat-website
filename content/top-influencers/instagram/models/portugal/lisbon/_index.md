@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Lisbon In 2020
 description: >-
-  Find top models Instagram influencers in Lisbon in 2020. Most popular hashtags: #model #beauty #fashion #love.
+  Find top models Instagram influencers in Lisbon in 2020. Most popular hashtags: #sunset #beach #lisbon #model.
 platform: Instagram
 profiles:
-  - username: "sarapebre"
-    fullname: >-
-      SARA PEBRE | Influencer
-    location: "Portugal"
-    followers: 11503
-    engagement: 660
-    commentsToLikes: 0.346321
-    id: ck8szqih6pccn0j78hojrkqe7
-    verified: false
-    hashtags: "#nortemoda, #fashionaddict, #giveaway, #influencerportugal"
   - username: "fabiosvalente"
     fullname: >-
-      Fábio Santos Valente
+      Fábio Santos Valente
     location: "Portugal"
-    followers: 23185
-    engagement: 332
-    commentsToLikes: 0.021686
+    followers: 23121
+    engagement: 344
+    commentsToLikes: 0.024032
     id: ck14k1tnxnauw0i19ox723474
     verified: false
-    hashtags: "#dott, #dollypartonchallenge, #staythefuckhome, #pub"
+    hashtags: "#pub, #noponto, #dott, #dollypartonchallenge"
   - username: "jessicajjpereira"
     fullname: >-
       Jéssica Pereira
     location: "Portugal"
-    followers: 12739
-    engagement: 508
-    commentsToLikes: 0.044625
+    followers: 13563
+    engagement: 593
+    commentsToLikes: 0.015268
     id: ck13atzy3s6fj0i19enyhos0h
     verified: false
-    hashtags: "#calzedonialovesyou, #italianlegwear, #onatalchriraasurpresa, #campanha"
-  - username: "kiko_cabrita"
+    hashtags: "#20, #calzedonia, #calzedonialovesyou, #italianlegwear"
+  - username: "brunolexim"
     fullname: >-
-      Kiko Cabrita
+      B R U N O    L E X I M
     location: "Portugal"
-    followers: 24248
-    engagement: 396
-    commentsToLikes: 0.033016
-    id: ck5zpn996sz1n0i14tamn9sdl
+    followers: 3658
+    engagement: 2206
+    commentsToLikes: 0.286975
+    id: ck8t4nlcl7fh60j78xtp7cxlv
     verified: false
-    hashtags: "#portugalfit, #pushday, #homegym, #muclefit"
-  - username: "karina_kukshtel"
+    hashtags: "#menshaircut, #tabacaria, #vacation, #instagram"
+  - username: "iamfabioteles"
     fullname: >-
-      KARINA KUKSHTEL
+      F A B I O • T E L E S
     location: "Portugal"
-    followers: 58157
-    engagement: 441
-    commentsToLikes: 0.006975
-    id: ck0w49xeixit90i19nebma9v2
+    followers: 85047
+    engagement: 1218
+    commentsToLikes: 0.013822
+    id: ck5qdynmfxw7z0i118o9xwukj
     verified: false
-    hashtags: "#modeling, #lisbon, #photo, #fashion"
-  - username: "sara.bartolomeu"
+    hashtags: "#tranquilidade, #menstyle, #testshoot, #fiqueemcasa"
+  - username: "nuno.gemeos.moreira"
     fullname: >-
-      Sara Bartolomeu🌹
+      Nuno Moreira
     location: "Portugal"
-    followers: 6391
-    engagement: 1816
-    commentsToLikes: 0.009279
-    id: ck5qc2dadoj9i0i11wh6u7l2m
+    followers: 100518
+    engagement: 230
+    commentsToLikes: 0.040115
+    id: ckaozbg76l4od0i782zr49zhr
     verified: false
-    hashtags: "#instamodels, #piano, #newobjetives, #photgraphy"
-  - username: "italo_limaa"
-    fullname: >-
-      Italo Lima
-    location: "Portugal"
-    followers: 89817
-    engagement: 329
-    commentsToLikes: 0.018023
-    id: ck5qc3r3dopkd0i11yvzxmjbj
-    verified: false
-    hashtags: "#fashionstyle, #vidasaudavel, #aerobico, #homemtatuado"
+    hashtags: "#lisboa, #tv, #influencer, #happy"
   - username: "_vitoriamota"
     fullname: >-
       Vitória Mota
     location: "Portugal"
-    followers: 45008
-    engagement: 141
-    commentsToLikes: 0.064343
+    followers: 45749
+    engagement: 176
+    commentsToLikes: 0.063333
     id: ck0vxre5m0c0z0i19deeooo6e
     verified: false
-    hashtags: "#acholidays, #pretty, #shorthair, #inspiring"
-  - username: "luismiguelferreiraa"
+    hashtags: "#smile, #beachlife, #moments, #nomakeup"
+  - username: "dr_marta_beauty"
     fullname: >-
-      𝗟𝗨𝗜𝗦 𝗠𝗜𝗚𝗨𝗘𝗟
+      ✨ THE ART OF CREATING BEAUTY ✨
     location: "Portugal"
-    followers: 55494
-    engagement: 475
-    commentsToLikes: 0.046711
-    id: ck6tiiamt0rrx0j71siov3t0m
+    followers: 38640
+    engagement: 146
+    commentsToLikes: 0.209021
+    id: ck6u70lbhirwx0j71rhw2a3ho
     verified: false
-    hashtags: "#instaselfie, #laboutiqueofficielle, #beachlovers, #beachphotoshoot"
-  - username: "dvfots"
+    hashtags: "#repost, #gorgeous, #keepsafe, #newbeginnings"
+  - username: "nicolasartorte"
     fullname: >-
-      David Velez Fotografia
+      Nicolas Sartorte
     location: "Portugal"
-    followers: 18195
-    engagement: 365
-    commentsToLikes: 0.011903
-    id: ck0vzoy4ca6ew0i19iqm9bsjn
+    followers: 2135
+    engagement: 1346
+    commentsToLikes: 0.095533
+    id: ckap2ajw3y14n0i78bh3881to
     verified: false
-    hashtags: "#tattoo, #strong, #designer, #bubblebutt"
+    hashtags: "#friends, #novosbaianos, #tudovaificarbem, #nature"
+  - username: "prazeresm"
+    fullname: >-
+      Mariana Prazeres
+    location: "Portugal"
+    followers: 17148
+    engagement: 625
+    commentsToLikes: 0.011259
+    id: ck139c5u2kkr80i19l840390m
+    verified: false
+    hashtags: "#girlsgoneloavies, #bodypositive, #35mm, #lisbonrestaurants"
+  - username: "jacistarpais"
+    fullname: >-
+      Jacira Pais🇬🇼🇵🇹
+    location: "Portugal"
+    followers: 13602
+    engagement: 656
+    commentsToLikes: 0.058495
+    id: ck5qb8ln5kcyz0i119art49km
+    verified: false
+    hashtags: "#glamorous, #africa, #challenge, #balenciaga"
 ---

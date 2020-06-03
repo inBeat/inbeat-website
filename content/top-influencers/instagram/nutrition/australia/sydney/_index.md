@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Sydney In 2020
 description: >-
-  Find top nutrition Instagram influencers in Sydney in 2020. Most popular hashtags: #nutrition #healthylifestyle #love #muscle.
+  Find top nutrition Instagram influencers in Sydney in 2020. Most popular hashtags: #supportlocal #stayhome #isolation #appreciation.
 platform: Instagram
 profiles:
+  - username: "foodbyzeebee"
+    fullname: >-
+      Sydney Foodie and Teacher
+    location: "Australia"
+    followers: 3625
+    engagement: 729
+    commentsToLikes: 0.340575
+    id: ck14l8pwiteja0i19ohnfce9t
+    verified: false
+    hashtags: "#momentslikemine, #feedyoursoull, #southeastasia, #crispynoodlesalad"
+  - username: "simonehegyes"
+    fullname: >-
+      
+    location: "Australia"
+    followers: 5490
+    engagement: 542
+    commentsToLikes: 0.040408
+    id: ckap0nirsr2oe0i78odmkqkn6
+    verified: false
+    hashtags: ""
+  - username: "majamilicevic_"
+    fullname: >-
+      MAJA MILICEVIC
+    location: "Australia"
+    followers: 6785
+    engagement: 700
+    commentsToLikes: 0.102478
+    id: ck5c45s850nu30i11v30xcxye
+    verified: false
+    hashtags: "#ariesseason, #realgirlsofbody, #cottonon"
   - username: "dancavalcante90"
     fullname: >-
       Daniel Cavalcante
     location: "Australia"
-    followers: 6217
-    engagement: 882
-    commentsToLikes: 0.062188
+    followers: 6198
+    engagement: 893
+    commentsToLikes: 0.064862
     id: ck6topxnbffo60j71qrx6q4t6
     verified: false
-    hashtags: "#fitfam, #tropicalfruits, #abs, #fitspo"
-  - username: "mattoreilly_wbffpro"
+    hashtags: "#igfitness, #wonderwoman, #gaymuscle, #bodybuilding"
+  - username: "nickyprice_"
     fullname: >-
-      Matt O'Reilly WBFF PRO
+      Nicky Price
     location: "Australia"
-    followers: 22741
-    engagement: 257
-    commentsToLikes: 0.059927
-    id: ck14ieukgf2sr0i19adhu87kt
+    followers: 45173
+    engagement: 480
+    commentsToLikes: 0.022369
+    id: ck0udruw2jv800i19pl55sia6
     verified: false
-    hashtags: "#supportthelocal, #fit, #love, #me"
+    hashtags: "#ck"
   - username: "jessienorbz"
     fullname: >-
       J E S S I E  N O R B U R Y
     location: "Australia"
-    followers: 13353
-    engagement: 618
-    commentsToLikes: 0.048740
+    followers: 14430
+    engagement: 535
+    commentsToLikes: 0.050960
     id: ck13c71xkyxbe0i19kvzguau6
     verified: false
-    hashtags: "#openaircinemas, #amexopenair"
-  - username: "sarahsspoonful"
-    fullname: >-
-      SARAH
-    location: "Australia"
-    followers: 18271
-    engagement: 626
-    commentsToLikes: 0.081201
-    id: ck5hry501vogi0i11zy1izreh
-    verified: false
-    hashtags: "#taste, #balance, #yfsummermenu, #coronavirus"
+    hashtags: "#isolation, #quarantinelife, #new, #quarantine"
   - username: "teganpaigechapman"
     fullname: >-
       TEGAN | WEIGHTLOSS -36kgs 💪🏻
     location: "Australia"
-    followers: 192273
-    engagement: 274
-    commentsToLikes: 0.023562
+    followers: 211333
+    engagement: 252
+    commentsToLikes: 0.026171
     id: ck0u87rse6nc50i196p5a66zx
     verified: false
-    hashtags: "#australiaday, #binchicken, #loungeunderwear, #travelblogger"
-  - username: "walla_abueid"
+    hashtags: "#snack, #traveltheworld, #fatfreezing, #bathingboxes"
+  - username: "tristan_hodder"
     fullname: >-
-      Walla Abu-Eid
+      T
     location: "Australia"
-    followers: 34407
-    engagement: 282
-    commentsToLikes: 0.149817
-    id: ck5hhkq108qgb0i11cfrv5y52
+    followers: 9700
+    engagement: 745
+    commentsToLikes: 0.040440
+    id: ck6txphjqz4by0j71ihew104q
     verified: false
-    hashtags: "#biscoff, #bakinglove, #share, #sweet"
+    hashtags: ""
   - username: "betterbeingsteph"
     fullname: >-
       Steph
     location: "Australia"
-    followers: 80957
-    engagement: 250
-    commentsToLikes: 0.073799
+    followers: 83869
+    engagement: 223
+    commentsToLikes: 0.111502
     id: ck13cn5fe16b40i19cswnzh72
     verified: false
-    hashtags: "#betterbeingblends, #staytuned, #workplayperform"
-  - username: "krystal.brooke"
+    hashtags: "#sp, #bfreefoods, #ninjapartner, #madewithchobani"
+  - username: "shenanigansofadietitian"
     fullname: >-
-      KRYSTAL
+      Anika Rouf | Dietitian ✨
     location: "Australia"
-    followers: 30556
-    engagement: 106
-    commentsToLikes: 0.130403
-    id: ck0u06vdisued0i19uv082eye
+    followers: 5192
+    engagement: 806
+    commentsToLikes: 0.275495
+    id: ckapa73akuz600i78ceewhvox
     verified: false
-    hashtags: "#homeworkouts, #fitnesstransformation, #vscomom, #fashiondiaries"
-  - username: "julzjulzjulzz"
-    fullname: >-
-      Julia Woodford WBFF PRO
-    location: "Australia"
-    followers: 51706
-    engagement: 166
-    commentsToLikes: 0.036547
-    id: ck0w2vnadqe0k0i19fpx35xwe
-    verified: false
-    hashtags: "#fitcoveraustralia, #wbff, #strongerthanyouthink, #soulharbour"
-  - username: "billy_simmonds"
-    fullname: >-
-      Billy Simmonds Ⓥ
-    location: "Australia"
-    followers: 6182
-    engagement: 623
-    commentsToLikes: 0.089658
-    id: ck6try8ru1rge0j71nxwf3uk6
-    verified: false
-    hashtags: "#business, #natural, #fire, #ifbb"
+    hashtags: "#eidulfitr, #ripebananas, #spreadawareness, #dietitianeats"
 ---

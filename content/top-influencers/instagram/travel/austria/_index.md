@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Austria In 2020
 description: >-
-  Find top travel Instagram influencers in Austria in 2020. Most popular hashtags: #wearetravelgirls #vienna #blogger #austria.
+  Find top travel Instagram influencers in Austria in 2020. Most popular hashtags: #blogger #flowers #sommer #happygirl.
 platform: Instagram
 profiles:
-  - username: "nadinechristine__"
+  - username: "lisarie__"
     fullname: >-
-      Vienna Travel & Inspo Girl ❤️
+      🌸 Lisa
     location: "Austria"
-    followers: 26109
-    engagement: 565
-    commentsToLikes: 0.099476
-    id: ck0vxql5t07nx0i19qoimwvir
+    followers: 14347
+    engagement: 3350
+    commentsToLikes: 0.105724
+    id: ck0w6s6fla1h80i19p1zndbpg
     verified: false
-    hashtags: "#blogger, #flatlayfriday, #posterdesigns, #breakfastbowl"
-  - username: "dori.traveldiary"
+    hashtags: "#europetravel, #nycdotgram, #rapeseedfield, #travlcouples"
+  - username: "katharina_momlife"
     fullname: >-
-      Kövesdi Dóra 🌍✈️
+      Katharina
     location: "Austria"
-    followers: 3240
-    engagement: 1793
-    commentsToLikes: 0.116146
-    id: ck5hhdd0k7nax0i11hsu0v3ij
+    followers: 7422
+    engagement: 1121
+    commentsToLikes: 0.083801
+    id: ck9wovv796tav0j78svueniw0
     verified: false
-    hashtags: "#hungary, #couplegoals, #dubaioldtown, #mik"
+    hashtags: "#handgemacht, #babyshower, #stoffe, #sisters"
+  - username: "gerid_rux"
+    fullname: >-
+      GERID RUX🦋
+    location: "Austria"
+    followers: 321751
+    engagement: 406
+    commentsToLikes: 0.046096
+    id: ck55jpz9hxja90i11rkatzq9l
+    verified: true
+    hashtags: "#tb, #nakdfashion"
+  - username: "michellestaudenherz"
+    fullname: >-
+      𝑀𝒾𝒸𝒽𝑒𝓁𝓁𝑒 ☼
+    location: "Austria"
+    followers: 16869
+    engagement: 634
+    commentsToLikes: 0.162329
+    id: ck136krb56zkx0i1909lteccd
+    verified: false
+    hashtags: "#aloyoga, #onzie, #yogagirl, #onzieambassador"
+  - username: "miettedierckx"
+    fullname: >-
+      Miette dierckx
+    location: "Austria"
+    followers: 36166
+    engagement: 355
+    commentsToLikes: 0.064992
+    id: ck6ucepcff5y20j71x56z22n9
+    verified: false
+    hashtags: "#mycoffeemyway, #somethingaboutyou, #giveaway, #man"
   - username: "deertraveler"
     fullname: >-
-      ZSUZSI & DANTE ⚘ TRAVEL COUPLE
+      Zsuzsi&Dante| travel couple👫
     location: "Austria"
-    followers: 15419
-    engagement: 623
-    commentsToLikes: 0.131324
+    followers: 15309
+    engagement: 556
+    commentsToLikes: 0.186344
     id: ck0ud6szwifkt0i19woqx719g
     verified: false
-    hashtags: "#goexplore, #keepexploring, #livetoconnect, #wheniniceland"
-  - username: "dennyinked_"
+    hashtags: "#amoradistancia, #longdistance, #lovemywife, #travelingcouple"
+  - username: "vici_dream"
     fullname: >-
-      Denny🐙
+      𝙑𝙞𝙘𝙩𝙤𝙧𝙞𝙖 𝘽𝙞𝙢𝙢𝙚𝙡𝙢𝙖𝙞𝙧 ©
     location: "Austria"
-    followers: 197962
-    engagement: 368
-    commentsToLikes: 0.026663
-    id: ck8sxa8zhgo530j78gph6mpct
+    followers: 3784
+    engagement: 2480
+    commentsToLikes: 0.094736
+    id: ckap7zhh3m6lr0i78avis5k5t
     verified: false
-    hashtags: "#fashionstyle, #fashionable, #blonde, #aerobic"
-  - username: "dielaulis"
+    hashtags: "#happyforthislife, #happygirl, #fin, #happyme"
+  - username: "geniakleinerfisch"
     fullname: >-
-      Lisa & Laurin
+      Genia Karasek
     location: "Austria"
-    followers: 12726
-    engagement: 601
-    commentsToLikes: 0.066366
-    id: ck5zxmy0s8b5g0i14n4lhksd4
+    followers: 3830
+    engagement: 1338
+    commentsToLikes: 0.265021
+    id: ck13d9zlx4eog0i19y7mi35jm
     verified: false
-    hashtags: "#babypflege, #liebe, #heilung, #magic"
-  - username: "adamrustman"
+    hashtags: "#homesweethome, #laugh, #home, #adventures"
+  - username: "corinna.schober"
     fullname: >-
-      The Overdressed Photographer
+      TRAVEL | LIFESTYLE | VEGAN
     location: "Austria"
-    followers: 19868
-    engagement: 478
-    commentsToLikes: 0.060477
-    id: ck5c0gj86t3c20i1121ph2yhj
+    followers: 6855
+    engagement: 695
+    commentsToLikes: 0.098630
+    id: ck6txyj710lcq0j716ap5m5s5
     verified: false
-    hashtags: "#globalwarmingisreal, #hallstatt, #wannabebadass, #ozeta"
-  - username: "the_uniquetraveler"
+    hashtags: "#selflove, #blueeyes, #mondays, #travelling"
+  - username: "mutausbrueche"
     fullname: >-
-      Aline _In Wonderland_
+      TONI 🌙 | DAILY MOMENTS & LIFE.
     location: "Austria"
-    followers: 43328
-    engagement: 214
-    commentsToLikes: 0.115933
-    id: ck14ieonxf1xi0i19omfql18k
+    followers: 41288
+    engagement: 641
+    commentsToLikes: 0.029400
+    id: ck8sw3i98dmwl0j78sbdlktuo
     verified: false
-    hashtags: "#sundaymornings, #letstravel, #passportlife, #pregnancyphotography"
-  - username: "ich_verstehe_es_blog"
-    fullname: >-
-      ELISABETH KLOPF
-    location: "Austria"
-    followers: 7026
-    engagement: 640
-    commentsToLikes: 0.123116
-    id: ck0w2k0g3orc90i19qiuq8p37
-    verified: false
-    hashtags: "#ichversteheesblog, #reisenmitkind, #weinempfehlung, #schwarzweiss"
-  - username: "sophielicious___"
-    fullname: >-
-      Sophie Pawlica-Rischko
-    location: "Austria"
-    followers: 2507
-    engagement: 2534
-    commentsToLikes: 0.044956
-    id: ck6tzqn7sba1p0j71l4uhx8hw
-    verified: false
-    hashtags: "#mom, #austria, #pink, #smile"
-  - username: "theflyingdress"
-    fullname: >-
-      Iris 🌸 Travel & Style
-    location: "Austria"
-    followers: 4699
-    engagement: 1501
-    commentsToLikes: 0.094018
-    id: ck0w74t5ibre20i19j6ddt4hi
-    verified: false
-    hashtags: "#fallinspo, #visitvienna, #adventsverlosung, #carmushka"
+    hashtags: "#orlando, #miele, #stra, #ichbinwieichbin"
 ---

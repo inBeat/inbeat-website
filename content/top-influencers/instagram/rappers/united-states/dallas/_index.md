@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Dallas In 2020
 description: >-
-  Find top rappers Instagram influencers in Dallas in 2020. Most popular hashtags: #dallas #hiphop #music #nyc.
+  Find top rappers Instagram influencers in Dallas in 2020. Most popular hashtags: #rapper #dallas #texas #music.
 platform: Instagram
 profiles:
-  - username: "lifeofsmorris"
-    fullname: >-
-      Scott Morris (The real one)
-    location: "United States"
-    followers: 16130
-    engagement: 438
-    commentsToLikes: 0.115715
-    id: ck5hlr5uqkpet0i118bkur8z5
-    verified: false
-    hashtags: "#shows, #planning, #tour, #entrepreneur"
-  - username: "threedaysnate"
-    fullname: >-
-      Nathaniel Montoya 🏈🔥🐐
-    location: "United States"
-    followers: 11990
-    engagement: 806
-    commentsToLikes: 0.036234
-    id: ck0w3wcanvm8n0i196dkjqvyz
-    verified: false
-    hashtags: "#artist, #dallas, #rap, #follow"
   - username: "cstruggs232"
     fullname: >-
       C.Struggs
     location: "United States"
-    followers: 115255
-    engagement: 75
-    commentsToLikes: 0.018321
+    followers: 113661
+    engagement: 96
+    commentsToLikes: 0.026596
     id: ck5bvei0fjhz20i11umykliwp
     verified: false
-    hashtags: "#dafatcrip, #clonefreegang, #iloveufoo, #prodigy"
-  - username: "kwdstyle"
+    hashtags: "#mood, #texas, #djs, #worldstarhiphop"
+  - username: "don_chief_"
     fullname: >-
-      Customade Original Style💎
+      The DonTheChief
     location: "United States"
-    followers: 34831
-    engagement: 167
-    commentsToLikes: 0.114156
-    id: ck5q1i7pub3up0i11h9fygy6h
+    followers: 4981
+    engagement: 656
+    commentsToLikes: 0.104360
+    id: ck0w2r108pr8c0i19iwqhzopa
     verified: false
-    hashtags: "#joeyfatone, #virginia, #lalakers, #lilboosie"
+    hashtags: "#chiefkeef, #gherbo, #southside, #firstshow"
   - username: "nekosavvymusic"
     fullname: >-
       NEKO SAVVY
     location: "United States"
-    followers: 7417
-    engagement: 564
-    commentsToLikes: 0.234686
+    followers: 7260
+    engagement: 579
+    commentsToLikes: 0.235368
     id: ck6u4351j1eve0j719epk40ml
     verified: false
     hashtags: "#rileyried, #nowayoutoftexas"
-  - username: "iamtiap"
+  - username: "tynsekhe"
     fullname: >-
-      Tia P.
+      Ty Nsekhe
     location: "United States"
-    followers: 16820
-    engagement: 105
-    commentsToLikes: 0.102692
-    id: ck0vw2jgtrt900i193g9a0aoy
-    verified: false
-    hashtags: "#placement, #postquarantinenppjamsesh, #supdupafly, #hiphop"
-  - username: "xomikelxo"
+    followers: 10164
+    engagement: 595
+    commentsToLikes: 0.045027
+    id: ck14k7y7co6u60i1951j9tu38
+    verified: true
+    hashtags: "#winning, #beyhive, #kevinhart, #cognac"
+  - username: "mack_a_fool"
     fullname: >-
-      ♏️IKEL
+      Mack
     location: "United States"
-    followers: 5268
-    engagement: 525
-    commentsToLikes: 0.059006
-    id: ck5hdstapp7410i11ccc2hebc
+    followers: 62721
+    engagement: 136
+    commentsToLikes: 0.156364
+    id: ck8t2j8i9zpgr0j78gjpsiy24
     verified: false
-    hashtags: "#love, #barber, #streetphotography, #socialdistancing"
-  - username: "cassimonae"
-    fullname: >-
-      𝓒𝓪𝓼𝓼𝓲 𝓜𝓸𝓷𝓪𝓮
-    location: "United States"
-    followers: 5744
-    engagement: 1043
-    commentsToLikes: 0.026707
-    id: ck5hocasspbc40i115patezsl
-    verified: false
-    hashtags: "#super, #makeuptutorial, #gain, #comment"
+    hashtags: "#challenge, #offensive, #legal, #heartonice"
   - username: "drubui"
     fullname: >-
       ANDREW BUI
     location: "United States"
-    followers: 6597
-    engagement: 981
-    commentsToLikes: 0.131362
+    followers: 6594
+    engagement: 949
+    commentsToLikes: 0.124047
     id: ck5px0ja6pi8c0i11j2on2omm
     verified: false
-    hashtags: "#dallastexas, #filmmaking, #dronevideo, #luckydaye"
-  - username: "blackzeusfit"
+    hashtags: "#followyournola, #notsupposed2behere, #bealpha, #deepellum"
+  - username: "willie_elmongoose_monroejr"
     fullname: >-
-      MarlonMTV
+      BrickByBrick Promitions LLC.
     location: "United States"
-    followers: 14233
-    engagement: 774
-    commentsToLikes: 0.064272
-    id: ck6tmu26v8j890j715mzl72ho
+    followers: 34527
+    engagement: 124
+    commentsToLikes: 0.057855
+    id: ck5zm9jcmm5k60i14r9uhxehz
+    verified: true
+    hashtags: "#naba, #brooklyn, #ringside, #texas"
+  - username: "normitajoven"
+    fullname: >-
+      NormitaJoven
+    location: "United States"
+    followers: 19247
+    engagement: 318
+    commentsToLikes: 0.030653
+    id: ck8swuw8mfbrm0j78jl8qikdb
     verified: false
-    hashtags: "#mensstyle, #texas, #hiphopculture, #morivation"
+    hashtags: "#celebrate, #iconicbae, #agent, #beachlife"
+  - username: "thecheydawn"
+    fullname: >-
+      Cheyenne Dawn
+    location: "United States"
+    followers: 9337
+    engagement: 707
+    commentsToLikes: 0.141822
+    id: ck5qdqa7rwt3e0i11bltc53rf
+    verified: false
+    hashtags: "#commercialmodel, #girlgangmeetup, #dallasplaces, #stayhome"
+  - username: "crying_star_loving_star"
+    fullname: >-
+      Crystal Fierro
+    location: "United States"
+    followers: 5780
+    engagement: 1126
+    commentsToLikes: 0.022448
+    id: ckaorckt1mm760i78ekgbr7nc
+    verified: false
+    hashtags: "#dfwcarmodel, #goodvibes, #bossbabe, #moparornocar"
 ---

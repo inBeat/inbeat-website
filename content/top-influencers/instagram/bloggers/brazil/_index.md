@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Brazil In 2020
 description: >-
-  Find top bloggers Instagram influencers in Brazil in 2020. Most popular hashtags: #lookdodia #moda #fashionista #style.
+  Find top bloggers Instagram influencers in Brazil in 2020. Most popular hashtags: #amor #quarentena #diadasmaes #life.
 platform: Instagram
 profiles:
   - username: "driellydrudi"
     fullname: >-
       Drielly Drudi
     location: "Brazil"
-    followers: 905958
-    engagement: 1125
-    commentsToLikes: 0.724212
+    followers: 960866
+    engagement: 1259
+    commentsToLikes: 1.043045
     id: ck15r24pe5rib0i19d485722o
     verified: false
-    hashtags: "#familiadrudichallenge"
+    hashtags: "#familiadrudichallenge, #sorteio, #sorteios, #driellycomemuito"
+  - username: "rafaelmelok"
+    fullname: >-
+      𝐑𝐀𝐅𝐀𝐄𝐋 𝐌𝐄𝐋𝐎
+    location: "Brazil"
+    followers: 39825
+    engagement: 1892
+    commentsToLikes: 4.006697
+    id: ck9wh2edkvxvc0j78i5pt9dqj
+    verified: false
+    hashtags: "#socacompressao, #bregafunk, #throwback"
+  - username: "ncdutra"
+    fullname: >-
+      Nathalia Dutra
+    location: "Brazil"
+    followers: 67699
+    engagement: 1106
+    commentsToLikes: 0.046152
+    id: ck138et1ufw4r0i19luujcu5y
+    verified: false
+    hashtags: ""
   - username: "barbara_dayaana"
     fullname: >-
       Bárbara Dayana
     location: "Brazil"
-    followers: 83932
-    engagement: 643
-    commentsToLikes: 0.282600
+    followers: 84835
+    engagement: 660
+    commentsToLikes: 0.246821
     id: ck5q5d8l3scmr0i1126ox80bs
     verified: false
-    hashtags: "#blog, #makeuptutorial, #totalblack, #energiapositiva"
+    hashtags: "#looknight, #hair, #fashionstyle, #styleoftheday"
+  - username: "julia.ogusuku"
+    fullname: >-
+      Júlia Ogusuku
+    location: "Brazil"
+    followers: 31584
+    engagement: 593
+    commentsToLikes: 0.162252
+    id: ck0w18jooi2sx0i19bmlpg754
+    verified: false
+    hashtags: "#tenisdemenina, #diadasmaes2020, #outonoinverno, #hairclips"
+  - username: "bettiefromhell"
+    fullname: >-
+      É a Bettie
+    location: "Brazil"
+    followers: 40485
+    engagement: 757
+    commentsToLikes: 0.037631
+    id: ck14gw6o07c2z0i19n2es4tqp
+    verified: false
+    hashtags: "#tbt"
   - username: "steffany_borges"
     fullname: >-
       Steffany Borges 🇧🇷
     location: "Brazil"
-    followers: 1352413
-    engagement: 556
-    commentsToLikes: 0.606094
+    followers: 1347689
+    engagement: 433
+    commentsToLikes: 0.281505
     id: ck0u198ebw4xr0i19kixs6r69
     verified: false
-    hashtags: "#maisquentemaisfresh, #neutrogena, #gimslowchallenge, #salonline"
+    hashtags: "#cachos, #sapatinhodeluxo, #mantecorpskincare, #felizpascoa"
+  - username: "lyviaroberta_"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀Lyvia Roberta 🦋
+    location: "Brazil"
+    followers: 8473
+    engagement: 1674
+    commentsToLikes: 0.236941
+    id: ck8tauhayt3yc0j78f10meouk
+    verified: false
+    hashtags: "#agradecer, #amor, #foto, #finalbbb"
   - username: "suelenmelloo"
     fullname: >-
-      S U E L E N  M E L L O
+      SUELEN MELLO
     location: "Brazil"
-    followers: 47808
-    engagement: 501
-    commentsToLikes: 0.346947
+    followers: 49951
+    engagement: 379
+    commentsToLikes: 0.253512
     id: ck0w3u050v9rz0i19kcyzqi7z
     verified: false
-    hashtags: "#passofundo, #brows, #eyebrows, #cursoonline"
-  - username: "mynameisglenn"
+    hashtags: "#cejasperfectas, #aerolook, #cursodesigndesobrancelhas, #marca"
+  - username: "evertonsiola"
     fullname: >-
-      Glena Martins
+      𝐸𝓋𝑒𝓇𝓉𝑜𝓃𝒮𝒾𝑜𝓁𝒶
     location: "Brazil"
-    followers: 53361
-    engagement: 761
-    commentsToLikes: 0.031760
-    id: ck15uamvum8in0i192xp32jik
+    followers: 28697
+    engagement: 388
+    commentsToLikes: 0.655502
+    id: ck0ty0ockl3w30i19w48gcf3x
     verified: false
-    hashtags: "#40tena, #tbt, #momjeans, #motelrocks"
-  - username: "anthoniathomazinisovete"
-    fullname: >-
-      Anthônia Tommasini
-    location: "Brazil"
-    followers: 3654
-    engagement: 1690
-    commentsToLikes: 0.403244
-    id: ck8tbdv0lv9ne0j78ml8boe3n
-    verified: false
-    hashtags: "#babyanth, #brasilemquarentena, #empatia, #modelomirim"
-  - username: "gecombr"
-    fullname: >-
-      Geovana Freitas | Moda Cristã🎀
-    location: "Brazil"
-    followers: 16161
-    engagement: 580
-    commentsToLikes: 0.222142
-    id: ck8t1ex85vi5v0j7840819vjo
-    verified: false
-    hashtags: "#ccbmoda, #ccbmocidade, #moda, #sdv"
-  - username: "saracastroneves"
-    fullname: >-
-      Welcome To My World ☀️
-    location: "Brazil"
-    followers: 3220
-    engagement: 1525
-    commentsToLikes: 0.558753
-    id: ck8ta8g4hqu0k0j787howgz4m
-    verified: false
-    hashtags: "#love, #selfie, #winteroutfit, #bloggerstyle"
-  - username: "alynelimamendonca"
-    fullname: >-
-      • Alyne Mendonça 👩🏼‍⚕️
-    location: "Brazil"
-    followers: 37269
-    engagement: 332
-    commentsToLikes: 0.285492
-    id: ck8t5m1ntaheu0j78tk5qql48
-    verified: false
-    hashtags: "#oculosdesol, #corinthians, #goiasemais, #meninasdegrife"
-  - username: "aricamargo_"
-    fullname: >-
-      Ariane Camargo
-    location: "Brazil"
-    followers: 16265
-    engagement: 435
-    commentsToLikes: 0.462266
-    id: ck8tdru1n4jld0j78ksp7j4px
-    verified: false
-    hashtags: "#ficaemcasa, #empatia"
+    hashtags: "#makeuoboy, #makeneon, #friends, #saopaulo"
 ---

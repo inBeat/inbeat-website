@@ -1,107 +1,107 @@
 ---
 title: Top 10 Kayak Instagram Influencers In 2020
 description: >-
-  Find top kayak Instagram influencers in 2020. Most popular hashtags: #canoesport #canoe #kayak #tokyo2020.
+  Find top kayak Instagram influencers in 2020. Most popular hashtags: #2020 #coronavirus #stayhome #planetcanoe.
 platform: Instagram
 profiles:
   - username: "amin.boudaghi"
     fullname: >-
       Amin Boudaghi
     location: "Iran"
-    followers: 3143
-    engagement: 2571
-    commentsToLikes: 0.139973
+    followers: 3159
+    engagement: 2603
+    commentsToLikes: 0.144962
     id: ck5hr71uiudia0i11rtfu8x7f
     verified: false
-    hashtags: "#2019, #health, #coronavirus, #buddy"
+    hashtags: "#family, #coronavid19, #my, #stayhome"
   - username: "tawnyskye_"
     fullname: >-
       Tawny 💛 Skye
     location: "United States"
-    followers: 49711
-    engagement: 592
-    commentsToLikes: 0.044597
+    followers: 49746
+    engagement: 606
+    commentsToLikes: 0.041759
     id: ck5c0ce4tsv690i11hkenqgz9
     verified: false
-    hashtags: "#freedive, #lobstertails, #freediving, #getinmybelly"
-  - username: "phyllisburchettphoto"
+    hashtags: "#dontcommentaskingwherethebikiniisat, #aussireel, #lobstertails, #shoredive"
+  - username: "arvand.darvish"
     fullname: >-
-      Phyllis Burchett
-    location: "United States"
-    followers: 28624
-    engagement: 647
-    commentsToLikes: 0.015265
-    id: ck5hooyffpyjw0i11cg96ldn2
+      Arvand Darvish
+    location: "Iran"
+    followers: 3155
+    engagement: 2238
+    commentsToLikes: 0.078362
+    id: ck602e9doh8440i14ede8r4n5
     verified: false
-    hashtags: "#barrelracer, #girlsandhorses, #valentinesday2020, #ranchinglife"
-  - username: "reneholtenpoulsen"
+    hashtags: ""
+  - username: "cesarporai"
     fullname: >-
-      René Holten Poulsen
-    location: "United Kingdom"
-    followers: 33567
-    engagement: 481
-    commentsToLikes: 0.048410
-    id: ck6uc9mmqeb7r0j71bm1tlan1
-    verified: true
-    hashtags: "#week1, #polarignite, #raw4, #roadtotokyo"
+      César Trifone | Viagens+Life
+    location: "Brazil"
+    followers: 81189
+    engagement: 186
+    commentsToLikes: 0.116489
+    id: ck5c70n9y6krb0i11w0976m12
+    verified: false
+    hashtags: "#cesarporinhotim, #meliaresorts, #cesarporbudapeste, #cesarpelaislandia"
+  - username: "kayakkidmd"
+    fullname: >-
+      Colt
+    location: "United States"
+    followers: 27468
+    engagement: 656
+    commentsToLikes: 0.019551
+    id: ck0vy8emt2q5d0i19dkijkaw2
+    verified: false
+    hashtags: "#gladihaveadog, #plantingflowers, #dontwanna, #couldbeworse"
+  - username: "pacocubelos"
+    fullname: >-
+      Francisco Cubelos Sánchez
+    location: "Spain"
+    followers: 9463
+    engagement: 1109
+    commentsToLikes: 0.064383
+    id: ck55p213y9ndd0i11tmd7qt7y
+    verified: false
+    hashtags: "#talavera, #brothers, #student, #tokio2020"
   - username: "tommybrady7"
     fullname: >-
       Tommy Brady
     location: "United Kingdom"
-    followers: 78364
-    engagement: 188
-    commentsToLikes: 0.031766
+    followers: 77446
+    engagement: 200
+    commentsToLikes: 0.034245
     id: ck5c04a05sf720i11cjtm5mdd
     verified: true
-    hashtags: "#newcupraleon, #staycalmandcarryon, #london, #crystalcrew"
+    hashtags: "#worldwhiskyday, #madebythesea, #london, #wavesofsustainability"
+  - username: "phyllisburchettphoto"
+    fullname: >-
+      Phyllis Burchett
+    location: "United States"
+    followers: 28765
+    engagement: 601
+    commentsToLikes: 0.016433
+    id: ck5hooyffpyjw0i11cg96ldn2
+    verified: false
+    hashtags: "#roanypony, #forgework, #aqhaproud, #ilovetheusa"
   - username: "antoniorossi_official"
     fullname: >-
       Antonio Rossi
     location: "Italy"
-    followers: 11853
-    engagement: 899
-    commentsToLikes: 0.019061
+    followers: 12195
+    engagement: 912
+    commentsToLikes: 0.019694
     id: ck5cirq5yt8re0i11u8x2xf2p
     verified: true
-    hashtags: "#milan, #lake, #mister, #filieracorta"
-  - username: "ff_canoekayak"
+    hashtags: "#buonanno2020, #soccer, #scuola, #dream"
+  - username: "pelayoroza"
     fullname: >-
-      FFCK
-    location: "France"
-    followers: 6387
-    engagement: 1014
-    commentsToLikes: 0.009089
-    id: ck5q9taw2cw7f0i11t9i68g08
-    verified: false
-    hashtags: "#shaoxing2019, #icfmarathon, #icfwildwater, #canoeslalom"
-  - username: "pacocubelos"
-    fullname: >-
-      Francisco Cubelos Sánchez
+      Pelayo Roza Fonticiella
     location: "Spain"
-    followers: 9333
-    engagement: 1038
-    commentsToLikes: 0.022595
-    id: ck55p213y9ndd0i11tmd7qt7y
+    followers: 5805
+    engagement: 1112
+    commentsToLikes: 0.011032
+    id: ck5zljpwvkxbl0i14whidqt6w
     verified: false
-    hashtags: "#elbierzo, #canedo, #talavera, #university"
-  - username: "canoekayak2.0"
-    fullname: >-
-      Canoe & Kayak 2.0
-    location: ""
-    followers: 7181
-    engagement: 847
-    commentsToLikes: 0.000839
-    id: ck5hg4tfw0x9n0i11mk0b3ah5
-    verified: false
-    hashtags: "#thisiscanoesprint"
-  - username: "imma_eat_this"
-    fullname: >-
-      Ian / NYC
-    location: "United States"
-    followers: 39046
-    engagement: 442
-    commentsToLikes: 0.115549
-    id: ck0ublcz0es2k0i19u60ji4qw
-    verified: false
-    hashtags: "#sausageandpeppers, #hotchicken, #margheritapizza, #noodleworship"
+    hashtags: "#newseason, #picadas, #missmyboat, #100m"
 ---

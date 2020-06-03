@@ -1,107 +1,107 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top barbers Instagram influencers in Los Angeles in 2020. Most popular hashtags: #losangeles #barber #menshair #barbers.
+  Find top barbers Instagram influencers in Los Angeles in 2020. Most popular hashtags: #barber #barbers #losangeles #barbering.
 platform: Instagram
 profiles:
-  - username: "jairostylemasterbarber"
+  - username: "sinahi.katy"
     fullname: >-
-      Jairo Maldonado🇵🇷 ☆
+      𝔅𝔯𝔞𝔦𝔡𝔢𝔯
     location: "United States"
-    followers: 37668
-    engagement: 478
-    commentsToLikes: 0.071358
-    id: ck8swrn64f04l0j78pzlcxelj
+    followers: 7709
+    engagement: 412
+    commentsToLikes: 0.020118
+    id: ck6tnl8lha2mv0j71463rvhzu
     verified: false
-    hashtags: "#yeahthatgreenvil, #booksy, #californiabarber, #newyorkbarber"
-  - username: "ulysses_benitez"
+    hashtags: "#haircuts, #skinfade, #barber, #menshair"
+  - username: "djshadowred"
     fullname: >-
-      ULYSSES BENITEZ
+      ShadowReD
     location: "United States"
-    followers: 147715
-    engagement: 432
-    commentsToLikes: 0.005022
-    id: ck5cckp3ehjgj0i11jgwxj9tq
+    followers: 32008
+    engagement: 146
+    commentsToLikes: 0.070250
+    id: ck5hgg5ly2lea0i11jxtf2op8
     verified: false
-    hashtags: "#haircut, #andis, #barbers, #barberlife"
-  - username: "jfadeit"
-    fullname: >-
-      LA Barber Joel Thompson
-    location: "United States"
-    followers: 101000
-    engagement: 374
-    commentsToLikes: 0.017912
-    id: ck5hoo1phpwrp0i118uo2rxck
-    verified: false
-    hashtags: "#barbergrind, #labarbers, #beverlybarber, #barberfire"
-  - username: "vincethebarber"
-    fullname: >-
-      V I N C E T H E B A R B E R ✪
-    location: "United States"
-    followers: 63689
-    engagement: 225
-    commentsToLikes: 0.026154
-    id: ck0vxl8frzgac0i19a7r60tpi
-    verified: false
-    hashtags: "#vincethebarber, #torontonatives, #lakeshow, #covid19"
-  - username: "bebelatino_thebarber"
-    fullname: >-
-      BEBE LATINO ✪
-    location: "United States"
-    followers: 102705
-    engagement: 70
-    commentsToLikes: 0.025742
-    id: ck5zn1ffynlgv0i142c1gtj5v
-    verified: false
-    hashtags: "#menshaircut, #aprende, #californiabarber, #haircutsformen"
-  - username: "pjbcustoms"
-    fullname: >-
-      Parker Ballard
-    location: "United States"
-    followers: 6853
-    engagement: 566
-    commentsToLikes: 0.024452
-    id: ck0vv1v09n5nb0i19dlmipsma
-    verified: false
-    hashtags: "#slam, #moodboost, #singlelife, #customkicks"
-  - username: "h3dimensions"
-    fullname: >-
-      ApplyingPressure™
-    location: "United States"
-    followers: 18512
-    engagement: 225
-    commentsToLikes: 0.083369
-    id: ck6to3dnzbvtl0j71vcdxolwk
-    verified: false
-    hashtags: "#icutprofraternity, #houstonbarbers, #barberhub, #houstonwehaveaproblem"
-  - username: "maury_bruce"
-    fullname: >-
-      Maury B.
-    location: "United States"
-    followers: 3163
-    engagement: 1061
-    commentsToLikes: 0.086913
-    id: ck0u2n96g0gbt0i19tbtyo94j
-    verified: false
-    hashtags: "#photoshoot, #birthday, #fitnessmotivation, #hypebeaststyle"
+    hashtags: "#hoodie, #haiti, #bitch, #suit"
   - username: "b_ruiz.la"
     fullname: >-
       Byron Ruiz ✪
     location: "United States"
-    followers: 2285
-    engagement: 1025
-    commentsToLikes: 0.119360
+    followers: 2336
+    engagement: 1020
+    commentsToLikes: 0.117955
     id: ck5zp47q1ryhk0i140sfxre08
     verified: false
     hashtags: "#hithimup, #apellido"
-  - username: "cristianblends"
+  - username: "itsdlai"
     fullname: >-
-      CRISTIAN • HERNANDEZ ✪
+      D'Lai
     location: "United States"
-    followers: 31568
-    engagement: 653
-    commentsToLikes: 0.016661
-    id: ck13cd3nxzriq0i19rst1vt22
+    followers: 221377
+    engagement: 124
+    commentsToLikes: 0.106118
+    id: ck135fkkg166h0i19v5xq2e59
     verified: false
-    hashtags: "#prank, #barber, #haircolor, #kids"
+    hashtags: "#fitspo, #comegetthisniggamane, #new, #author"
+  - username: "jfadeit"
+    fullname: >-
+      LA Barber Joel Thompson
+    location: "United States"
+    followers: 99728
+    engagement: 389
+    commentsToLikes: 0.017719
+    id: ck5hoo1phpwrp0i118uo2rxck
+    verified: false
+    hashtags: "#barberla"
+  - username: "mar_kutzz"
+    fullname: >-
+      Business Talk Only™️ ✪
+    location: "United States"
+    followers: 6761
+    engagement: 434
+    commentsToLikes: 0.286639
+    id: ck5q8qefa7hkm0i11n90752tp
+    verified: false
+    hashtags: "#vanessabryant, #puppylove, #cosmoprofbeauty, #fadehaircut"
+  - username: "omarbarberdiaz"
+    fullname: >-
+      MEN’S HAIR,BEARDS & STYLES,OBD
+    location: "United States"
+    followers: 66201
+    engagement: 82
+    commentsToLikes: 0.039337
+    id: ck14h0lzu7y1h0i19x7d5rsfa
+    verified: false
+    hashtags: "#barbergirl, #guys, #barbers, #hairstylemens"
+  - username: "jakiichu"
+    fullname: >-
+      JAKI
+    location: "United States"
+    followers: 204360
+    engagement: 354
+    commentsToLikes: 0.009685
+    id: ck14lq2xtvx620i19fo9vifhf
+    verified: false
+    hashtags: "#edit, #salonrepublic, #homeiswhereyoumakeit, #shoplocal"
+  - username: "blendgod"
+    fullname: >-
+      Luis Solis
+    location: "United States"
+    followers: 35074
+    engagement: 120
+    commentsToLikes: 0.024009
+    id: ck5zm5rqflybq0i141bbmtg69
+    verified: false
+    hashtags: "#crispy, #barbers, #superbowl, #sanjosebarber"
+  - username: "themarstouch"
+    fullname: >-
+      MARS™️
+    location: "United States"
+    followers: 9989
+    engagement: 588
+    commentsToLikes: 0.052735
+    id: ckaorycenpboz0i788hx3qqti
+    verified: false
+    hashtags: "#barberlessons, #gametime, #booksy, #melrose"
 ---

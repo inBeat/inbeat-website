@@ -1,107 +1,107 @@
 ---
 title: Top 10 Dancers Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top dancers Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #mydubai #stayhome #dubai #photography.
+  Find top dancers Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #tiktok #stayhome #stayathome #staysafe.
 platform: Instagram
 profiles:
-  - username: "margo__dancer"
+  - username: "madhuri.chavan7"
     fullname: >-
-      Margosha
+      Madhuri Chavan
     location: "United Arab Emirates"
-    followers: 5727
-    engagement: 970
-    commentsToLikes: 0.079737
-    id: ck6u3e8zmxbgf0j71k4ccc8vp
+    followers: 7586
+    engagement: 1025
+    commentsToLikes: 0.085444
+    id: ck15q0f1p0hzj0i197nafgoir
     verified: false
-    hashtags: "#happy, #cheers, #becareful, #lovly"
+    hashtags: "#sesamestreetbollywood, #internationalartistnight, #bollywooddanceroutine, #universalstudiosjapan"
+  - username: "demz_crawley"
+    fullname: >-
+      ᴅ ᴇ ᴍ ᴢ  ᴄ ʀ ᴀ ᴡ ʟ ᴇ ʏ
+    location: "United Arab Emirates"
+    followers: 26049
+    engagement: 343
+    commentsToLikes: 0.078434
+    id: ck5pzjp2w1b3v0i11zpw4g2i6
+    verified: false
+    hashtags: ""
   - username: "rapunzel_juliana"
     fullname: >-
       🌹Rapunzel ➴♡
     location: "United Arab Emirates"
-    followers: 11203
-    engagement: 753
-    commentsToLikes: 0.020611
+    followers: 11152
+    engagement: 761
+    commentsToLikes: 0.020591
     id: ck5zoq515r38t0i14kjp9p2g6
     verified: false
-    hashtags: "#hairstyle, #photography, #newyear, #2020"
-  - username: "karla_watt"
+    hashtags: "#photographer, #newyear, #happynewyear, #mamacita"
+  - username: "joyceamil"
     fullname: >-
-      Karla
+      J O Y C E
     location: "United Arab Emirates"
-    followers: 2951
-    engagement: 1036
-    commentsToLikes: 0.101636
-    id: ck6ufn10ixzoz0j71pixr5m7l
+    followers: 7153
+    engagement: 756
+    commentsToLikes: 0.071830
+    id: ck9wehingkaki0j78v3lv8ojc
     verified: false
-    hashtags: "#letgo, #prettylittlething, #zara, #instagram"
+    hashtags: "#coronavirus, #monaco, #staysafe, #tiktok"
   - username: "saanya_jain"
     fullname: >-
       S A N Y A  J A I N
     location: "United Arab Emirates"
-    followers: 2501
-    engagement: 1440
-    commentsToLikes: 0.043845
+    followers: 2518
+    engagement: 1471
+    commentsToLikes: 0.051598
     id: ck5qe4io1yolj0i116hx57kbv
     verified: false
-    hashtags: "#dubailife, #ootd, #modeling, #selfquarantine"
+    hashtags: "#nye2020, #dubaifashion, #quarantine2020, #mydubai"
+  - username: "alexandranashmodel"
+    fullname: >-
+      Alexandra Nash
+    location: "United Arab Emirates"
+    followers: 43394
+    engagement: 189
+    commentsToLikes: 0.041367
+    id: ck5ca9wk4czz80i11fofbezkl
+    verified: false
+    hashtags: "#lockdown2020, #stayhome, #southafricaza, #pinelakemarina"
   - username: "yasvocals"
     fullname: >-
       YAS ~ Dubai
     location: "United Arab Emirates"
-    followers: 125584
-    engagement: 260
-    commentsToLikes: 0.062183
+    followers: 129015
+    engagement: 318
+    commentsToLikes: 0.119341
     id: ck5pzjrqv1bhs0i11w66uod6y
     verified: false
-    hashtags: "#internationalwomensday, #shotoniphone, #hipsdontlie, #stayhome"
-  - username: "lyapunova_anna"
+    hashtags: "#stayhome, #movemoreathome, #jlosuperbowlchallenge"
+  - username: "veronika_vii"
     fullname: >-
-      Anna, Dubai, UAE 🇦🇪 UKK, KZ 🇰🇿
+      Veronika Vii
     location: "United Arab Emirates"
-    followers: 9730
-    engagement: 493
-    commentsToLikes: 0.046565
-    id: ck5q5bsohs5xh0i11buf69399
+    followers: 32314
+    engagement: 213
+    commentsToLikes: 0.021064
+    id: ck8szvub7pwl80j78s6upo2lk
     verified: false
-    hashtags: "#polelover, #aeriallife, #dance, #tiptoe"
+    hashtags: "#summervibes, #captain, #boats, #boatlife"
+  - username: "adra_davis"
+    fullname: >-
+      Adra Davis
+    location: "United Arab Emirates"
+    followers: 41367
+    engagement: 248
+    commentsToLikes: 0.038919
+    id: ck9wgw0pqv8fb0j78uaqrcmvi
+    verified: false
+    hashtags: "#lovetolove, #lovenature, #zumbawithadrauae, #zumbafitness"
   - username: "karinapalma"
     fullname: >-
-      Karina Palma
+      Karina Palmira
     location: "United Arab Emirates"
-    followers: 254024
-    engagement: 280
-    commentsToLikes: 0.022103
+    followers: 267039
+    engagement: 326
+    commentsToLikes: 0.023973
     id: ck0u0k9vtu2tz0i1942nthmoa
     verified: false
-    hashtags: "#triller, #socialdistancing, #beginningchallenge, #danceathome"
-  - username: "medinamaste"
-    fullname: >-
-      Sarah Medina | Yoga Teacher
-    location: "United Arab Emirates"
-    followers: 30889
-    engagement: 226
-    commentsToLikes: 0.104584
-    id: ck0u9m4w2a2nt0i19h677hjcr
-    verified: false
-    hashtags: "#representreality, #heart, #covid19, #ashtanga"
-  - username: "sarah_polefitdubai"
-    fullname: >-
-      Sarah
-    location: "United Arab Emirates"
-    followers: 116717
-    engagement: 201
-    commentsToLikes: 0.016487
-    id: ck0uc5vvog5c30i199uylxye7
-    verified: false
-    hashtags: "#poleshapes, #yogalife, #polephoto, #yogahandstand"
-  - username: "thedashingfrenchie"
-    fullname: >-
-      🌀 𝐃𝐀𝐒𝐇 🌀 𝐅𝐑𝐄𝐍𝐂𝐇𝐈𝐄🌀
-    location: "United Arab Emirates"
-    followers: 14532
-    engagement: 859
-    commentsToLikes: 0.100959
-    id: ck0u1chihwk8c0i196s7ohjbu
-    verified: false
-    hashtags: "#quarantine, #frenchiepost, #frenchiecrew, #goodboi"
+    hashtags: "#staystrong, #nocorona, #dancetutorial, #swaychallenge"
 ---

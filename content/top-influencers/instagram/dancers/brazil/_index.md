@@ -1,107 +1,107 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Brazil In 2020
 description: >-
-  Find top dancers Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #salvador #dance #danca.
+  Find top dancers Instagram influencers in Brazil in 2020. Most popular hashtags: #fiqueemcasa # #metedan #tbt.
 platform: Instagram
 profiles:
   - username: "tonza_batedeira"
     fullname: >-
       SWING DE RUA
     location: "Brazil"
-    followers: 382811
-    engagement: 889
-    commentsToLikes: 0.336487
+    followers: 400982
+    engagement: 800
+    commentsToLikes: 0.168129
     id: ck5cgnzu3p7ig0i11u8y7xibt
     verified: false
     hashtags: "#euteprometo, #coronavirus, #fiqueemcasa, #juntossomosmaisfortes"
-  - username: "brunnagoncalves"
+  - username: "eduardo.ofcl_"
     fullname: >-
-      BRUNNA GONÇALVES OLIVEIRA
+      Carlos Eduardo
     location: "Brazil"
-    followers: 2631493
-    engagement: 673
-    commentsToLikes: 0.019668
-    id: ck0vzb5so886y0i190go4njur
-    verified: true
-    hashtags: "#mascaraeuforic, #avonbrasil, #publi, #rtsbrasil"
-  - username: "renatoshippee"
-    fullname: >-
-      Renato Shippee
-    location: "Brazil"
-    followers: 109861
-    engagement: 933
-    commentsToLikes: 0.030527
-    id: ck8t3ure44kk30j78co17t0w8
+    followers: 9716
+    engagement: 1706
+    commentsToLikes: 0.205817
+    id: ck9wh4p0lw8i10j7847tsrg1q
     verified: false
-    hashtags: "#style, #bodypositive, #peace, #boot"
-  - username: "araujosabrii"
+    hashtags: "#coreografia, #photography, #fiqueemcasa, #covid"
+  - username: "nettosoares"
     fullname: >-
-      sasa
+      Netto Soares
     location: "Brazil"
-    followers: 15828
-    engagement: 2443
-    commentsToLikes: 0.134339
-    id: ck8wf0w57exs90j78gky81seu
+    followers: 42298
+    engagement: 670
+    commentsToLikes: 0.099345
+    id: ck5hn27tpn2gu0i112ttuubqg
     verified: false
-    hashtags: "#breakupsong, #loneliness, #unitercheck, #catfishchallenge"
-  - username: "mariopirees"
-    fullname: >-
-      Mário Pires
-    location: "Brazil"
-    followers: 4002
-    engagement: 1738
-    commentsToLikes: 0.124852
-    id: ck8t8hvfzkjf00j78ol44kl1x
-    verified: false
-    hashtags: "#surtada, #surtadachallenge, #dancas, #fitdance"
-  - username: "renatacerqueira__"
-    fullname: >-
-      •            Renata Cerqueira
-    location: "Brazil"
-    followers: 55375
-    engagement: 353
-    commentsToLikes: 0.258521
-    id: ck6u7h39zlh860j71bf5ooda5
-    verified: false
-    hashtags: "#morena, #vestigiosdocarnaval, #bronzeada, #amigos"
-  - username: "heliooliveiraoficial"
-    fullname: >-
-      Hélio Oliveira 🕊🗡
-    location: "Brazil"
-    followers: 17234
-    engagement: 481
-    commentsToLikes: 0.111411
-    id: ck5bxn35eo11d0i1125b6ent0
-    verified: false
-    hashtags: "#streetjazzheliooliveira, #sexyboy, #bookfotografico, #negroslindos"
+    hashtags: "#dancers, #encena, #sorteio, #danc"
   - username: "juamorim.r"
     fullname: >-
       Juliana Amorim 🌻
     location: "Brazil"
-    followers: 16758
-    engagement: 444
-    commentsToLikes: 0.444435
+    followers: 17424
+    engagement: 661
+    commentsToLikes: 0.167636
     id: ck8t5eywu9xje0j78o03bfx3i
     verified: false
     hashtags: "#tbt"
-  - username: "jheisonpadua"
+  - username: "renatacerqueira__"
     fullname: >-
-      Jheison Pádua
+      •            Renata Cerqueira
     location: "Brazil"
-    followers: 41715
-    engagement: 318
-    commentsToLikes: 0.117426
-    id: ck5hqsqd4tnwf0i11agcqcyyo
+    followers: 55070
+    engagement: 446
+    commentsToLikes: 0.300164
+    id: ck6u7h39zlh860j71bf5ooda5
     verified: false
-    hashtags: "#jheisonpadua, #caldascountry2019, #boy, #bsb"
+    hashtags: "#metedanca, #carnaval, #sqn, #pirraca"
+  - username: "araujosabrii"
+    fullname: >-
+      sasa
+    location: "Brazil"
+    followers: 18332
+    engagement: 1841
+    commentsToLikes: 0.125810
+    id: ck8wf0w57exs90j78gky81seu
+    verified: false
+    hashtags: "#nusinadeinertpictures, #facetimephotoshoot, #inmyblood, #sinadeinertedit"
+  - username: "gabriel_kiomi"
+    fullname: >-
+      Gabriel Kiomi きおみ
+    location: "Brazil"
+    followers: 14840
+    engagement: 821
+    commentsToLikes: 0.095406
+    id: ck9we61dmirjb0j78f68lhgq6
+    verified: false
+    hashtags: "#bts, #btsarmy, #blackswan, #jungkook"
+  - username: "nataliaferttinaly"
+    fullname: >-
+      Ferttinaly 🔥
+    location: "Brazil"
+    followers: 75370
+    engagement: 417
+    commentsToLikes: 0.053299
+    id: ckap67ht8eq4h0i7846vx9wnc
+    verified: false
+    hashtags: ""
   - username: "micadfuego"
     fullname: >-
       MicaDfuego
     location: "Brazil"
-    followers: 250418
-    engagement: 980
-    commentsToLikes: 0.013362
+    followers: 308098
+    engagement: 954
+    commentsToLikes: 0.017031
     id: ck6ty7awe22ep0j71or3jdtc3
     verified: false
-    hashtags: "#yomequedoencasaviendobia, #happybirthday, #itacarezinho, #oceano"
+    hashtags: "#disney, #style, #curvas, #pietrodancer"
+  - username: "_dream_0o0"
+    fullname: >-
+      驥: 𝚌𝚘𝚏𝚏𝚎.𝚎 🎨໑
+    location: "Brazil"
+    followers: 8645
+    engagement: 2076
+    commentsToLikes: 0.036137
+    id: ck9wgsl90uszp0j785ltdg2zx
+    verified: false
+    hashtags: ""
 ---

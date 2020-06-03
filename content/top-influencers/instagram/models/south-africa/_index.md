@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In South Africa In 2020
 description: >-
-  Find top models Instagram influencers in South Africa in 2020. Most popular hashtags: #southafrica #model #photography #summer.
+  Find top models Instagram influencers in South Africa in 2020. Most popular hashtags: #staysafe #mensstyle #memories #.
 platform: Instagram
 profiles:
-  - username: "jeffzimbris"
+  - username: "magaramirezz"
     fullname: >-
-      J E F F  Z I M B R I S  🔹
+      MARIA GABRIELA RAMIREZ 🦋
     location: "South Africa"
-    followers: 56771
-    engagement: 862
-    commentsToLikes: 0.042193
-    id: ck6tzqrxobaul0j71fftvyafa
+    followers: 6030
+    engagement: 1249
+    commentsToLikes: 0.086249
+    id: ckap0qc7qrepz0i78yrvmaxt0
     verified: false
-    hashtags: "#legsday, #happy, #cliftonbeach, #doglover"
-  - username: "audrey_lunda"
-    fullname: >-
-      MENS STYLE DESTINATION
-    location: "South Africa"
-    followers: 15879
-    engagement: 1433
-    commentsToLikes: 0.142327
-    id: ck5caa309d0du0i11f2eppcjt
-    verified: false
-    hashtags: "#blackmenwithstyle, #menstylefashion, #casualoutfit, #streetwearfashion"
+    hashtags: "#mumbai, #losangeles, #hamburg, #ny"
   - username: "deetzblom"
     fullname: >-
       Dieter Blom
     location: "South Africa"
-    followers: 9673
-    engagement: 806
-    commentsToLikes: 0.072151
+    followers: 9470
+    engagement: 839
+    commentsToLikes: 0.071197
     id: ck6tuzqp4jctj0j71j1mp2ymb
     verified: false
-    hashtags: "#whatiwore, #fatalframes, #photoshoot, #dream"
-  - username: "pure.soraya"
-    fullname: >-
-      sᴏ ʀᴀʏ ᴀ #ʙʟᴏᴡsᴏᴍᴇsᴛᴀʀᴅᴜsᴛ
-    location: "South Africa"
-    followers: 35198
-    engagement: 344
-    commentsToLikes: 0.056484
-    id: ck6tp7jhfi9io0j71nw8eb3hv
-    verified: false
-    hashtags: "#fashionista, #picoftheday, #unapologeticme, #sandyfeet"
+    hashtags: "#capetown, #portraitcentral, #sunrise, #december"
   - username: "footmistressza"
     fullname: >-
       Foot Mistress
     location: "South Africa"
-    followers: 34982
-    engagement: 1909
-    commentsToLikes: 0.026143
+    followers: 36144
+    engagement: 1745
+    commentsToLikes: 0.024764
     id: ck8td7vy929co0j78g0rxef98
     verified: false
-    hashtags: "#besafe, #mondayblues, #friyay, #sunshine"
+    hashtags: "#love, #stayhome, #quarantinelife, #saturdaymorning"
   - username: "tracymcgregor"
     fullname: >-
       Tracy McGregor
     location: "South Africa"
-    followers: 25876
-    engagement: 321
-    commentsToLikes: 0.100091
+    followers: 27499
+    engagement: 356
+    commentsToLikes: 0.164399
     id: ck6ue97chpjuk0j71p6xoc0mx
     verified: false
-    hashtags: "#bornthree, #houseboat, #22weekspregnant, #gym"
-  - username: "lorenjenneker"
+    hashtags: "#christmas, #beauty, #fitbit, #gifted"
+  - username: "karl_kugelmann"
     fullname: >-
-      Loren Leigh Jenneker
+      ＫＡＲＬ ＫＵＧＥＬＭＡＮＮ
     location: "South Africa"
-    followers: 6972
-    engagement: 1728
-    commentsToLikes: 0.029910
-    id: ck14hvyczceg30i19t4k2inym
+    followers: 326696
+    engagement: 1525
+    commentsToLikes: 0.013944
+    id: ck0u076lasvw30i19z0nt5852
     verified: false
-    hashtags: "#dontrushchallenge"
-  - username: "bleachbomb_"
+    hashtags: ""
+  - username: "thee.gabsterx"
     fullname: >-
-      I AM THE INFLUENCE
+      Im [The G)abrielle 🌹
     location: "South Africa"
-    followers: 7645
-    engagement: 1427
-    commentsToLikes: 0.027287
-    id: ck6tpan01ir7k0j71few75m91
+    followers: 102993
+    engagement: 1079
+    commentsToLikes: 0.018982
+    id: ckaozmz1bmkhb0i78f8432rsz
     verified: false
-    hashtags: "#wearetheparty, #desperados, #contentcreator, #sportscene"
-  - username: "nikitajoshua"
+    hashtags: ""
+  - username: "jessismerk"
     fullname: >-
-      Nikita | Model & Makeup Artist
+      Jessica Smerkovitz
     location: "South Africa"
-    followers: 29064
-    engagement: 545
-    commentsToLikes: 0.045047
-    id: ck5q1k1wmbddf0i113a465475
+    followers: 22841
+    engagement: 906
+    commentsToLikes: 0.026117
+    id: ck9ham6yyd2bg0j786b5lw2ou
     verified: false
-    hashtags: "#beauty, #contentcreator, #femaleentrepreneurship, #engagedcouple"
-  - username: "miekevisser23"
+    hashtags: "#babesofmissguided, #femalefamily, #dollskill, #beadoll"
+  - username: "cindy_nell"
     fullname: >-
-      South African Model 💕
+      Cindy Nell-Roberts
     location: "South Africa"
-    followers: 70829
-    engagement: 455
-    commentsToLikes: 0.042635
-    id: ck0w1irahjjv70i19h3rqxwpj
+    followers: 50448
+    engagement: 253
+    commentsToLikes: 0.054636
+    id: ck0w5vsud5nwv0i192cbxhgra
+    verified: true
+    hashtags: "#beautyqueens, #lookgoodfeelbetter, #internationalmodels, #tvpresenters"
+  - username: "olivermatthieu"
+    fullname: >-
+      Oliver Matthieu
+    location: "South Africa"
+    followers: 5038
+    engagement: 1682
+    commentsToLikes: 0.075509
+    id: ck15pkwu6ye0b0i19o3n9yx4s
     verified: false
-    hashtags: "#stayhome, #staysafe, #godheals, #supersoft"
+    hashtags: "#funtime, #gtracinggame, #sibling, #yummychips"
+  - username: "audrey_lunda"
+    fullname: >-
+      MENS STYLE DESTINATION
+    location: "South Africa"
+    followers: 34483
+    engagement: 1484
+    commentsToLikes: 0.053699
+    id: ck5caa309d0du0i11f2eppcjt
+    verified: false
+    hashtags: "#menscasualwear, #blackmen, #mycottonon, #classymen"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Austria In 2020
 description: >-
-  Find top wellness Instagram influencers in Austria in 2020. Most popular hashtags: #austria #mountains #wellness #winter.
+  Find top wellness Instagram influencers in Austria in 2020. Most popular hashtags: #wellness #corona #love #wellnesshotel.
 platform: Instagram
 profiles:
-  - username: "purealexiafast"
+  - username: "gabriel.hofi"
     fullname: >-
-      Alexia Fast
+      Gᴀʙʀɪᴇʟ *9K*
     location: "Austria"
-    followers: 24524
-    engagement: 235
-    commentsToLikes: 0.024967
-    id: ck14kts42ra8b0i19ulen1zzg
-    verified: true
-    hashtags: "#fluffy, #actorsheadshot, #vancouverbc, #repost"
+    followers: 9099
+    engagement: 1821
+    commentsToLikes: 0.041514
+    id: ck14jvjy4meii0i199i19zaw2
+    verified: false
+    hashtags: "#mirrowselfie, #enten, #bluetoothwatch, #drama"
   - username: "raffis_wonderland"
     fullname: >-
       🌸 Raffaela 🌸
     location: "Austria"
-    followers: 13097
-    engagement: 1118
-    commentsToLikes: 0.061847
+    followers: 13117
+    engagement: 1087
+    commentsToLikes: 0.063411
     id: ck13czxcz2z1x0i1943nck05b
     verified: false
-    hashtags: "#portraitvision, #whitedress, #colourpop, #austrianalps"
-  - username: "gabriel.hofi"
+    hashtags: "#meer, #selfiesunday, #igersgermany, #throwback"
+  - username: "susannaamarie"
     fullname: >-
-      Gᴀʙʀɪᴇʟ *8𝗞*
+      SUSANNA ✨
     location: "Austria"
-    followers: 8710
-    engagement: 1799
-    commentsToLikes: 0.043330
-    id: ck14jvjy4meii0i199i19zaw2
+    followers: 22513
+    engagement: 683
+    commentsToLikes: 0.047943
+    id: ck0vwof5fusk50i19y8syluuz
     verified: false
-    hashtags: "#pelz, #schlossesterhazy, #picturetwo, #valentinesday"
-  - username: "ramonaelsener"
+    hashtags: "#oceanlover, #springvibes, #ausblick, #altoadige"
+  - username: "juliexpayr"
     fullname: >-
-      RAMONA ELSENER
+      JULIE | BEAUTY, TRAVEL & MIND
     location: "Austria"
-    followers: 18330
-    engagement: 720
-    commentsToLikes: 0.025323
-    id: ck6tu9cd9f1cd0j71ash73fc0
-    verified: true
-    hashtags: "#thinkaboutit, #hotel, #arosakitzb, #spa"
-  - username: "lisa_weinberger"
-    fullname: >-
-      𝑩𝑬𝑨𝑼𝑻𝒀 | 𝑭𝑨𝑺𝑯𝑰𝑶𝑵 | 𝑳𝑰𝑭𝑬𝑺𝑻𝒀𝑳𝑬
-    location: "Austria"
-    followers: 86623
-    engagement: 1302
-    commentsToLikes: 0.015610
-    id: ck6trvuf51dtr0j71l9mu2u26
+    followers: 24212
+    engagement: 439
+    commentsToLikes: 0.041332
+    id: ckap3os2p3whr0i78hj92sxed
     verified: false
-    hashtags: "#quarantine, #instagood, #gym, #fashionweek"
+    hashtags: "#austrianalps, #mountaingirl, #girlsofinstgram, #homebound"
   - username: "patrickhonsal"
     fullname: >-
-      Patrick
+      Fashion | Lifestyle | Travel
     location: "Austria"
-    followers: 61309
-    engagement: 296
-    commentsToLikes: 0.044238
+    followers: 60124
+    engagement: 279
+    commentsToLikes: 0.049179
     id: ck0w2lx7tp1230i19o1aq9xi9
     verified: false
-    hashtags: "#keepitsimple, #shooting, #streetstylemen, #ootd"
+    hashtags: "#sneakers, #sunsetcity, #casuallook, #hotelblogger"
   - username: "melinamerkhoffer"
     fullname: >-
       Melina Merkhoffer
     location: "Austria"
-    followers: 15532
-    engagement: 633
-    commentsToLikes: 0.042946
+    followers: 16225
+    engagement: 720
+    commentsToLikes: 0.043809
     id: ck5hnoprso4qk0i112hgtnzo0
     verified: false
-    hashtags: "#powder, #madonnadicampiglio, #wilderkaiser, #passionpass"
-  - username: "francesverweij"
+    hashtags: "#tailgrab, #adventuretime, #europecup, #giro"
+  - username: "danistrailcooking"
     fullname: >-
-      FRANCES VERWEIJ 🇳🇱
+      Daniela/Austria
     location: "Austria"
-    followers: 11593
-    engagement: 1018
-    commentsToLikes: 0.024197
-    id: ck55npoo26p950i11rhnsmc62
+    followers: 45176
+    engagement: 545
+    commentsToLikes: 0.098897
+    id: ck13bnpiewajm0i19tgnvsand
     verified: false
-    hashtags: "#tbt, #reminiscing, #einfachmehrerleben, #skiing"
-  - username: "martinwieland"
+    hashtags: "#feedfeedbaking, #halthybreakfast, #spawater, #originmagazine"
+  - username: "karolinakopincova"
     fullname: >-
-      Martin Wieland
+      FINALIST MISS CZECH REPUBLIC
     location: "Austria"
-    followers: 32587
-    engagement: 176
-    commentsToLikes: 0.017617
-    id: ck6tq3v4up89e0j7192k96rqt
+    followers: 5058
+    engagement: 660
+    commentsToLikes: 0.071493
+    id: ck8szyzozq9ga0j78wn2k54rg
     verified: false
-    hashtags: "#indoor, #retrostyle, #darkhair, #vacation"
-  - username: "the_bird_view"
+    hashtags: "#smile, #coffe, #pose, #toulouse"
+  - username: "jfkfeichter"
     fullname: >-
-      
+      JFK Feichter
     location: "Austria"
-    followers: 8311
-    engagement: 1206
-    commentsToLikes: 0.039375
-    id: ck14ljzaav2mk0i19nba9h7x3
+    followers: 9563
+    engagement: 578
+    commentsToLikes: 0.007114
+    id: ck5bzz3j4s4a30i11miahd1yt
     verified: false
-    hashtags: "#livingthedream, #lifeisyourcanvas, #bergmomente, #sunrisehike"
+    hashtags: "#froheostern, #daka, #outdoortones, #uniladadventure"
+  - username: "aquadome_hotel.therme.spa"
+    fullname: >-
+      AQUA DOME
+    location: "Austria"
+    followers: 96751
+    engagement: 237
+    commentsToLikes: 0.027419
+    id: ck5chkpnlqykm0i11gh7xepk8
+    verified: true
+    hashtags: "#newyearsresolution, #christmasishere, #christmastime, #wintervacation"
 ---

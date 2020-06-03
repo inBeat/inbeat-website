@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top cooking Instagram influencers in Indonesia in 2020. Most popular hashtags: #stayathome #food #instagram #stayhome.
+  Find top cooking Instagram influencers in Indonesia in 2020. Most popular hashtags: #stayathome #staysafe #covid19 #resepminuman.
 platform: Instagram
 profiles:
-  - username: "kingcempaka"
+  - username: "lola.amaria"
     fullname: >-
-      Ida Ayu Rajarani Cempaka
+      Lola Amaria
     location: "Indonesia"
-    followers: 56413
-    engagement: 595
-    commentsToLikes: 0.011332
-    id: ck6u0s0othf4c0j713t2wv00w
+    followers: 32030
+    engagement: 88
+    commentsToLikes: 0.066257
+    id: ck13cwkdu2ilg0i19xjvsyuj3
+    verified: true
+    hashtags: "#steaklidahsapi, #lidahsapisauskeju, #bistiklidahsapi, #waisak"
+  - username: "randferdian"
+    fullname: >-
+      Randi Ferdiansyah
+    location: "Indonesia"
+    followers: 56513
+    engagement: 1371
+    commentsToLikes: 0.030905
+    id: ckaowm6m59gqp0i78v26mci5k
     verified: false
-    hashtags: "#bossbabe, #allbodiesarebeautiful"
+    hashtags: "#nonmsg, #cookfromhome, #dirumahaja, #dufan"
   - username: "onyah.pingky"
     fullname: >-
       Inspirasi Rumah Peachy Pink
     location: "Indonesia"
-    followers: 13211
-    engagement: 627
-    commentsToLikes: 0.116458
+    followers: 21831
+    engagement: 569
+    commentsToLikes: 0.148830
     id: ck5cho4tmr59y0i110zwu5z77
     verified: false
-    hashtags: "#joojihoon, #tataruangrumah, #berbagi, #bedtime"
-  - username: "putra99_____"
+    hashtags: "#hdlcandleholder, #ramadan2020, #toiletminimalis, #staysafe"
+  - username: "kadekarini"
     fullname: >-
-      putra pongsakorn
+      Kadek Arini | Travel blogger
     location: "Indonesia"
-    followers: 10899
-    engagement: 1238
-    commentsToLikes: 0.017321
-    id: ck8tdkqsg3ppo0j78miwvfbbc
-    verified: false
-    hashtags: "#pacar, #shoopetanamthr10m, #likeforlikealways, #likeaboss"
-  - username: "zahracinta79"
-    fullname: >-
-      Zᴀʜʀᴀ Cɪɴᴛᴀ 79
-    location: "Indonesia"
-    followers: 26345
-    engagement: 1869
-    commentsToLikes: 0.015454
-    id: ck8t5p3mdare70j78lzxk42rx
-    verified: false
-    hashtags: "#tiktokviral, #slowmotion, #slomo, #tiktokindo"
-  - username: "dhora_kusumadewi"
-    fullname: >-
-      Dewi Dhora
-    location: "Indonesia"
-    followers: 39023
-    engagement: 91
-    commentsToLikes: 0.093326
-    id: ck0w6gjwj8gi30i19dcljbw46
-    verified: false
-    hashtags: "#brownieskukus, #ukkwetradisyenel, #ukmotobiskuit, #bakingbareng140"
-  - username: "ardellaryana"
-    fullname: >-
-      نور الهداية
-    location: "Indonesia"
-    followers: 1284421
-    engagement: 414
-    commentsToLikes: 0.008752
-    id: ck136t1hc843g0i1937s4egcu
+    followers: 143674
+    engagement: 266
+    commentsToLikes: 0.014408
+    id: ck14iqiqegq1u0i191qah81nr
     verified: true
-    hashtags: "#solidaritiuntuksyria, #kitajagakita, #wintermissionsyria, #2020"
-  - username: "dapur.pandamerah"
+    hashtags: "#apartmentdecor, #cottoninkxidekuhandmade, #magnumindonesia, #mamaplant"
+  - username: "kingcempaka"
     fullname: >-
-      Menu diet sehat ❤️ lost 20kg
+      Ida Ayu Rajarani Cempaka
     location: "Indonesia"
-    followers: 41464
-    engagement: 232
-    commentsToLikes: 0.030918
-    id: ck5zn77adnws70i14lijhflrw
+    followers: 56553
+    engagement: 599
+    commentsToLikes: 0.011883
+    id: ck6u0s0othf4c0j713t2wv00w
     verified: false
-    hashtags: "#resepudang, #resepsayur, #berasjagung, #rujak"
-  - username: "gerrygirianza"
+    hashtags: "#bossbabe, #allbodiesarebeautiful"
+  - username: "nurma.direza"
     fullname: >-
-      Gerry Girianza
+      •ᴹᴼᴹˢᶠᴸᵁᴱᴺᶜᴱᴿ•ᶜᴬᴹᴾᴬᴵᴳᴺ•ᴮᵁᶻᶻᴱᴿ•
     location: "Indonesia"
-    followers: 101733
-    engagement: 222
-    commentsToLikes: 0.020399
-    id: ck6u8syzuthi30j71o44cdsai
+    followers: 29450
+    engagement: 213
+    commentsToLikes: 0.306634
+    id: ck9wp4bp57quu0j78qg8cxep4
     verified: false
-    hashtags: "#sensitiveexpertbypepsodent, #clickhousemelawai, #sudahkeclickhouse, #pedasgeneration"
-  - username: "emihacikenz"
+    hashtags: "#fiberisasi, #yuzubagiion, #youcanfixit, #kanzlersingles"
+  - username: "ganegani"
     fullname: >-
-      emi
+      Ayu Gani 🐘
     location: "Indonesia"
-    followers: 24518
-    engagement: 271
-    commentsToLikes: 0.443989
-    id: ck14iai5hefu30i19ygtt17q3
-    verified: false
-    hashtags: "#sarangwalet, #wowkuliner, #meat, #life"
-  - username: "mori_said"
+    followers: 216908
+    engagement: 153
+    commentsToLikes: 0.008524
+    id: ck6txtl4mzs4z0j71le2ay012
+    verified: true
+    hashtags: "#galaxy, #tempatsinggahpejuangmedis, #kopikenanganxtokopedia, #tokopediasaja"
+  - username: "clairesharrynroberto"
     fullname: >-
-      Mori Said Kitchen
+      PLANT-BASED ⋆ Vegan Chef
     location: "Indonesia"
-    followers: 184609
-    engagement: 177
-    commentsToLikes: 0.018964
-    id: ck0w5gnsc3jz50i19v78cz7ai
+    followers: 16919
+    engagement: 296
+    commentsToLikes: 0.082037
+    id: ck6tuzgzdjb7u0j718zu46nk3
     verified: false
-    hashtags: "#foodvideo, #ikangoreng, #gubahan, #foodiesfoodporn"
+    hashtags: "#doha, #ayurvedic, #easyrecipe, #enoughsaid"
+  - username: "eviwanq"
+    fullname: >-
+      Evi Wang
+    location: "Indonesia"
+    followers: 6377
+    engagement: 801
+    commentsToLikes: 0.393935
+    id: ckap3ekgo2qxp0i786qbudv27
+    verified: false
+    hashtags: "#sukungoreng, #tekwan, #anekakuker, #anekalapislegit"
+  - username: "masakan.simple"
+    fullname: >-
+      Resep Masakan Simple
+    location: "Indonesia"
+    followers: 103199
+    engagement: 676
+    commentsToLikes: 0.018163
+    id: ck9wdpwtkgq3x0j78cfzlfjse
+    verified: false
+    hashtags: "#actmalang, #toracafelced, #foryoupage, #pudingsusu"
 ---

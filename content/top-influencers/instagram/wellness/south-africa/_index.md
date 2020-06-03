@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In South Africa In 2020
 description: >-
-  Find top wellness Instagram influencers in South Africa in 2020. Most popular hashtags: #southafrica #lockdown #health #summer.
+  Find top wellness Instagram influencers in South Africa in 2020. Most popular hashtags: #wellness #lifestyle #health #nature.
 platform: Instagram
 profiles:
-  - username: "iamsihleg"
-    fullname: >-
-      Sihle Ntokozo Ganta
-    location: "South Africa"
-    followers: 53341
-    engagement: 672
-    commentsToLikes: 0.012343
-    id: ck5c25sqbwljc0i11fn7a0vj3
-    verified: false
-    hashtags: "#dearsummer, #superbme, #stayathome, #scarlethillbeauty"
-  - username: "shev_elle"
-    fullname: >-
-      SHEVELLE
-    location: "South Africa"
-    followers: 2093
-    engagement: 1226
-    commentsToLikes: 0.052452
-    id: ck0w2erh4nzrn0i19uz9kv055
-    verified: false
-    hashtags: "#fashionblogger, #quarantinelifestyle, #ecstatic, #portraitshared"
   - username: "katlego_masupa"
     fullname: >-
       Katlego Masupa
     location: "South Africa"
-    followers: 68150
-    engagement: 201
-    commentsToLikes: 0.033468
+    followers: 69806
+    engagement: 245
+    commentsToLikes: 0.081537
     id: ck5btyb4agtpq0i113f18sbs4
     verified: false
-    hashtags: "#dinnerpreps, #cookingmadeeasy, #stayhome, #wineclub"
-  - username: "mikiash"
+    hashtags: "#treatyourself, #nodebate, #babysoft, #throwbackthursday"
+  - username: "zeebalife"
     fullname: >-
-      citizen of the world 𓆃
+      CLAUDIA PADGETT | TRAVEL
     location: "South Africa"
-    followers: 165073
-    engagement: 101
-    commentsToLikes: 0.021083
-    id: ck5zuezuu28ik0i143syg5805
+    followers: 309383
+    engagement: 167
+    commentsToLikes: 0.023402
+    id: ck0uavzcqd7ns0i197zn8jja6
     verified: false
-    hashtags: "#afterpayambassador, #lovemikiash, #thehowbymikiash, #womenempoweringwomen"
-  - username: "onemodernmom"
+    hashtags: "#thankyouforcomingtomytedtalk, #earthday, #igreality, #ighusbands"
+  - username: "shev_elle"
     fullname: >-
-      Lisa || Content Creator
+      SHEVELLE
     location: "South Africa"
-    followers: 6746
-    engagement: 502
-    commentsToLikes: 0.344628
-    id: ck5cdvjtyjv0l0i1167gqqnar
+    followers: 2086
+    engagement: 1219
+    commentsToLikes: 0.052870
+    id: ck0w2erh4nzrn0i19uz9kv055
     verified: false
-    hashtags: "#floristsofinstagram, #flattenthecurve, #day1, #socialmedia"
-  - username: "khayrepublik"
+    hashtags: "#trending, #outfitgram, #starbucksgirl, #portraitmood"
+  - username: "ifathindes"
     fullname: >-
-      REPUBLIK
+      Ifat Hindes
     location: "South Africa"
-    followers: 20071
-    engagement: 1622
-    commentsToLikes: 0.013762
-    id: ck1363inc4l230i19rw5nygtk
+    followers: 30617
+    engagement: 69
+    commentsToLikes: 0.060989
+    id: ck0vv12s4n1uv0i19sjhh4v8i
     verified: false
-    hashtags: "#bostea, #superfood, #goforfun, #organic"
-  - username: "karimcmiller"
+    hashtags: "#positivelife, #womenwhohike, #australianmade, #nanotechnology"
+  - username: "aubreyngoma"
     fullname: >-
-      Kari Miller
+      Aubrey Ngoma
     location: "South Africa"
-    followers: 10657
-    engagement: 529
-    commentsToLikes: 0.050173
-    id: ck0ua5q00bfzt0i19z5urfu9y
+    followers: 31422
+    engagement: 243
+    commentsToLikes: 0.024041
+    id: ck0vyfw7i3s6h0i19nle0iqxc
     verified: false
-    hashtags: "#diversity, #frohawk, #naturalhairdreams, #painfree"
+    hashtags: "#staypositive, #throwback, #healthylifestyle, #premiumatmosphericwater"
+  - username: "katey_jola_xx"
+    fullname: >-
+      Coach Kate 💚🇿🇦
+    location: "South Africa"
+    followers: 34737
+    engagement: 298
+    commentsToLikes: 0.014253
+    id: ck8t3ia3w3eib0j78dm7e8hfl
+    verified: false
+    hashtags: "#healthylifestyle, #wellness, #tomboy, #entrepreneur"
+  - username: "natasha_joubert"
+    fullname: >-
+      Natasha Joubert
+    location: "South Africa"
+    followers: 24976
+    engagement: 418
+    commentsToLikes: 0.008188
+    id: ck14i08kxd0g40i19irpget6t
+    verified: false
+    hashtags: "#wellness, #opi, #ironwomen, #standtogether"
   - username: "crystalhulett"
     fullname: >-
       Crystal (Sugar) Hulett
     location: "South Africa"
-    followers: 9141
-    engagement: 646
-    commentsToLikes: 0.012991
+    followers: 9055
+    engagement: 694
+    commentsToLikes: 0.012800
     id: ck0w2rdyhpt660i19grford7u
     verified: false
-    hashtags: "#beachtrips, #healthylifestyle, #logginglife, #lifestyle"
-  - username: "kelly_ifbb.bikini.fit"
+    hashtags: "#beach, #nature, #beachtrips, #happy"
+  - username: "karimcmiller"
     fullname: >-
-      KellyAinsworth_Trainer
+      Kari Miller
     location: "South Africa"
-    followers: 17811
-    engagement: 304
-    commentsToLikes: 0.027393
-    id: ck5hf942lwdyb0i11oj3g0t9o
+    followers: 10655
+    engagement: 580
+    commentsToLikes: 0.050097
+    id: ck0ua5q00bfzt0i19z5urfu9y
     verified: false
-    hashtags: "#benefits, #girlsgottaeat, #eatsallthesnacks, #weirdflexbutok"
-  - username: "thobi_rose"
+    hashtags: "#lifestyle, #islandgirls, #noextensions, #heights"
+  - username: "mischkebosse"
     fullname: >-
-      TRAVEL & LIFESTYLE
+      mischke bosse
     location: "South Africa"
-    followers: 17020
-    engagement: 359
-    commentsToLikes: 0.232997
-    id: ck5hfk8v4xv5b0i11k697q0ml
+    followers: 6531
+    engagement: 396
+    commentsToLikes: 0.027823
+    id: ck6u0k4ajg5ra0j713hceiqw2
     verified: false
-    hashtags: "#wellnessblog, #serum, #welivetoexplore, #foragoodleaf"
+    hashtags: "#pjstopjs, #capetown, #feminism, #spirituality"
 ---

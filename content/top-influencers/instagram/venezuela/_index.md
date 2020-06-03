@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top Instagram influencers in Venezuela in 2020. Most popular hashtags: #venezuela #cuarentena #contenido #emconsejoscuentas.
+  Find top Instagram influencers in Venezuela in 2020. Most popular hashtags: #mexico #venezuela #giveaway #chile.
 platform: Instagram
 profiles:
+  - username: "estefaniaramirezmakeup"
+    fullname: >-
+      Estefanía Ramírez
+    location: "Venezuela"
+    followers: 10873
+    engagement: 1684
+    commentsToLikes: 0.181604
+    id: ck5c8lit49qpl0i113dncncnq
+    verified: false
+    hashtags: "#crueltyfree, #tfbornthisway, #elflove, #kvdveganbeauty"
+  - username: "andreavilchez1"
+    fullname: >-
+      Andrea Vilchez🦋
+    location: "Venezuela"
+    followers: 12559
+    engagement: 1590
+    commentsToLikes: 0.076468
+    id: ck0w42l9xwhu00i195i2lsqx6
+    verified: false
+    hashtags: "#lentotainy, #yoperreosola, #savage, #covertusa"
   - username: "sabrinasalvatierrac"
     fullname: >-
       Sabrina Salvatierra
     location: "Venezuela"
-    followers: 39426
-    engagement: 1437
-    commentsToLikes: 0.067620
+    followers: 65096
+    engagement: 1282
+    commentsToLikes: 0.051929
     id: ck6u5uzc2bwqw0j71w36vk8ye
     verified: false
-    hashtags: "#sorteos, #giveaway, #telefono, #iphone"
-  - username: "amalhalabi"
+    hashtags: "#concursos, #telefono, #mexico, #venezuela"
+  - username: "dieguisimo"
     fullname: >-
-      A m a l  H a l a b i
+      Diego Vallenilla Z
     location: "Venezuela"
-    followers: 7116
-    engagement: 1553
-    commentsToLikes: 0.253500
-    id: ck6031lfnkhky0i148gqhm0gx
+    followers: 29234
+    engagement: 1049
+    commentsToLikes: 0.083666
+    id: ck5bwyy64molw0i1113qluyao
     verified: false
-    hashtags: "#babyhairs, #domingos, #extra, #tbw"
-  - username: "emilygori"
-    fullname: >-
-      𝓔𝓶𝓲𝓵𝔂 𝓖𝓸𝓻𝓲👑
-    location: "Venezuela"
-    followers: 23255
-    engagement: 1483
-    commentsToLikes: 0.398285
-    id: ck602x5rajsvr0i14u14h0fx1
-    verified: false
-    hashtags: "#piropo, #safaerachallenger, #safaerachallenge"
-  - username: "yulimarrojas45"
-    fullname: >-
-      Yulimar Rojas🌈
-    location: "Venezuela"
-    followers: 257402
-    engagement: 800
-    commentsToLikes: 0.038118
-    id: ck5hndjprnlif0i11b048mo1o
-    verified: true
-    hashtags: ""
+    hashtags: "#tenemostodoembalado, #gastroviaje"
   - username: "ricardodiasx"
     fullname: >-
       Ricardo Dias 🐺🇻🇪
     location: "Venezuela"
-    followers: 302357
-    engagement: 1095
-    commentsToLikes: 0.713407
+    followers: 305574
+    engagement: 992
+    commentsToLikes: 0.579147
     id: ck5hjhkbtgn630i117cw086az
     verified: false
-    hashtags: "#selfie, #venezuela, #beso"
+    hashtags: "#selfie, #venezuela, #beso, #ayuda"
   - username: "liaryshernandez"
     fullname: >-
-      Liarys Hernández 👸🏼
+      Liarys Hernández 👸🏼
     location: "Venezuela"
-    followers: 545143
-    engagement: 1186
-    commentsToLikes: 0.112285
+    followers: 568920
+    engagement: 955
+    commentsToLikes: 0.114646
     id: ck5hizk0gfqrc0i1154s3rm5i
     verified: false
-    hashtags: "#postparto, #tbt"
-  - username: "alessandrasc1"
+    hashtags: "#postparto, #tbt, #passthebrushchallenge, #liah"
+  - username: "yulimarrojas45"
     fullname: >-
-      Alessandra Sánchez Cardola
+      Yulimar Rojas🌈
     location: "Venezuela"
-    followers: 54872
-    engagement: 855
-    commentsToLikes: 0.102235
-    id: ck5bxuvo0ogk10i11hljtmnbg
-    verified: false
-    hashtags: "#quarantine, #quedateencasa, #stayhome, #portadas"
-  - username: "yazigi"
-    fullname: >-
-      Santiago Yazigi
-    location: "Venezuela"
-    followers: 3455
-    engagement: 2297
-    commentsToLikes: 0.450756
-    id: ck8sy623wju0e0j7838vbtzl4
-    verified: false
-    hashtags: "#love, #soreto, #candys, #facetime"
-  - username: "eduardomendez"
-    fullname: >-
-      Eduardo Mendez
-    location: "Venezuela"
-    followers: 29834
-    engagement: 776
-    commentsToLikes: 0.091568
-    id: ck602z0j1k3gy0i14da2oqara
-    verified: false
-    hashtags: "#editarfotos, #cuarentena, #emapps, #emculturadigital"
-  - username: "luciagiannone"
-    fullname: >-
-      Lucia Giannone
-    location: "Venezuela"
-    followers: 80045
-    engagement: 698
-    commentsToLikes: 0.046076
-    id: ck5ces8jsllyq0i11zj9oigui
-    verified: false
+    followers: 257328
+    engagement: 800
+    commentsToLikes: 0.037299
+    id: ck5hndjprnlif0i11b048mo1o
+    verified: true
     hashtags: ""
+  - username: "makeupbyfabi_"
+    fullname: >-
+      FABIOLA
+    location: "Venezuela"
+    followers: 5979
+    engagement: 1685
+    commentsToLikes: 0.080381
+    id: ck8tcdzkuz5co0j7862p3f2i4
+    verified: false
+    hashtags: "#tiktokvenezuela, #makeupclass, #butterflymakeup, #challenge"
+  - username: "vanevanemchin"
+    fullname: >-
+      VANEVANE
+    location: "Venezuela"
+    followers: 134469
+    engagement: 1280
+    commentsToLikes: 0.056077
+    id: ck9haanf2bt5g0j78vorvvvrh
+    verified: false
+    hashtags: "#pantojita, #teamjukilop, #ootdstyle, #chile"
+  - username: "candeladiaz"
+    fullname: >-
+      Candy
+    location: "Venezuela"
+    followers: 1597404
+    engagement: 954
+    commentsToLikes: 0.063514
+    id: ck14ksmohr4340i19wyajpluf
+    verified: false
+    hashtags: "#uvpr"
 ---

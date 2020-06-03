@@ -1,36 +1,26 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top photographers Instagram influencers in Las Vegas in 2020. Most popular hashtags: #model #photographer #lasvegas #makeup.
+  Find top photographers Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #photographer #portrait #newyork.
 platform: Instagram
 profiles:
-  - username: "zee.clemente"
+  - username: "taylorjackson"
     fullname: >-
-      MakeupandhairbyZee
+      📷 Taylor Jackson
     location: "United States"
-    followers: 39000
-    engagement: 233
-    commentsToLikes: 0.054804
-    id: ck0w4n3hkze8s0i19ekl506vu
+    followers: 131448
+    engagement: 259
+    commentsToLikes: 0.027071
+    id: ck5hlswn4ksrl0i11sdfaftdn
     verified: false
-    hashtags: "#pageantmakeup, #pinkandblueeyeshadow, #makeupandhairbyzee, #pinkeyeshadowlook"
-  - username: "abe.visual"
-    fullname: >-
-      Abe 📷⚡️
-    location: "United States"
-    followers: 5467
-    engagement: 1028
-    commentsToLikes: 0.043082
-    id: ck5qe58reysbm0i11qteisoa4
-    verified: false
-    hashtags: "#2020, #focusvcarta, #coronavirus"
+    hashtags: "#santorini, #nikond780, #tacotuesday, #elopement"
   - username: "idorollers"
     fullname: >-
       Albert lira
     location: "United States"
-    followers: 37051
-    engagement: 1564
-    commentsToLikes: 0.007261
+    followers: 36849
+    engagement: 1570
+    commentsToLikes: 0.007328
     id: ck5zv88il3r5k0i14n5nsqk3v
     verified: false
     hashtags: "#urus, #mansory"
@@ -38,70 +28,80 @@ profiles:
     fullname: >-
       Albert lira
     location: "United States"
-    followers: 5457
-    engagement: 508
-    commentsToLikes: 0.013334
+    followers: 5440
+    engagement: 523
+    commentsToLikes: 0.015715
     id: ck5zv89wd3r6x0i148gm577hd
     verified: false
-    hashtags: "#luisleon"
+    hashtags: ""
+  - username: "josefigz"
+    fullname: >-
+      José Antonio Figueroa
+    location: "United States"
+    followers: 48109
+    engagement: 315
+    commentsToLikes: 0.016735
+    id: ck0tu2c5u5bsm0i19rjbgrmgb
+    verified: true
+    hashtags: "#lavidaescomounponche, #tartelete, #hannahstocking, #quierovolver"
   - username: "derique.hanche"
     fullname: >-
       (Deríque Hanché Photography)
     location: "United States"
-    followers: 16364
-    engagement: 580
-    commentsToLikes: 0.208583
+    followers: 16071
+    engagement: 590
+    commentsToLikes: 0.208823
     id: ck5btwugfgr080i116jp5vf34
     verified: false
     hashtags: ""
-  - username: "seannelsonphoto"
+  - username: "steve.swish"
     fullname: >-
-      Sean Nelson
+      Swish🦋 // Fijinobi🌋
     location: "United States"
-    followers: 63506
-    engagement: 157
-    commentsToLikes: 0.041916
-    id: ck0u0oabfubt50i19u2wtv7m9
+    followers: 9909
+    engagement: 1208
+    commentsToLikes: 0.061943
+    id: ck55q9cofcfbc0i11jp873ttb
     verified: false
-    hashtags: "#wbffbikini, #fitnesslifestyles, #dallasphotography, #wbffla"
-  - username: "adolfobarreto_r"
+    hashtags: "#filmphotography, #picoftheday, #film, #takashimurakami"
+  - username: "wayne_skiv04"
     fullname: >-
-      Adolfo Barreto 🇵🇷
+      Wayne Skivington
     location: "United States"
-    followers: 5892
-    engagement: 544
-    commentsToLikes: 0.058595
-    id: ck6ug9hib1pb60j71v2kj7ddp
-    verified: false
-    hashtags: "#alien, #faceoffsyfy, #modernalien, #faceoff"
-  - username: "georginavaughanphotography"
-    fullname: >-
-      Georgina Vaughan Photography
-    location: "United States"
-    followers: 21430
-    engagement: 312
-    commentsToLikes: 0.020558
-    id: ck5hngf21nqi70i11pzyxvg5u
-    verified: false
-    hashtags: "#misscausa, #henris, #kimberlyandres, #missusa"
-  - username: "corbo.76"
-    fullname: >-
-      Corbin Cunningham™
-    location: "United States"
-    followers: 3355
-    engagement: 1431
-    commentsToLikes: 0.050481
-    id: ck0u9m7mya31k0i199y8gzqji
-    verified: false
-    hashtags: "#llj, #modeling, #picture, #fashion"
-  - username: "levirandolph20"
-    fullname: >-
-      Levi Randolph
-    location: "United States"
-    followers: 14700
-    engagement: 582
-    commentsToLikes: 0.056045
-    id: ck6tv8y4qkuok0j71aaxitbqn
+    followers: 124409
+    engagement: 181
+    commentsToLikes: 0.015221
+    id: ck5cbx3vfgbpr0i11by6m8u3d
     verified: true
-    hashtags: "#grindhard, #nike, #art, #unclelee"
+    hashtags: "#tiktok, #titangames, #concrete, #workoutathome"
+  - username: "oscarpicazophotographer"
+    fullname: >-
+      Las Vegas Photographer
+    location: "United States"
+    followers: 20996
+    engagement: 194
+    commentsToLikes: 0.067648
+    id: ck5q6rn3pyksc0i11fx5m9xre
+    verified: false
+    hashtags: "#5demayo, #bronze, #booty, #fashionmodel"
+  - username: "codiports"
+    fullname: >-
+      Codi | Las Vegas Photographer
+    location: "United States"
+    followers: 53194
+    engagement: 490
+    commentsToLikes: 0.035469
+    id: ck13d37k63g1m0i19hg06l6xy
+    verified: false
+    hashtags: "#supportlocal, #portrait, #fashionable, #staysafe"
+  - username: "patrick_rivera_photography"
+    fullname: >-
+      Las Vegas Photographer
+    location: "United States"
+    followers: 60936
+    engagement: 323
+    commentsToLikes: 0.017614
+    id: ck5hfqqzayucq0i11dc3fh5n5
+    verified: false
+    hashtags: "#jeans, #positivevibes, #warm, #boho"
 ---

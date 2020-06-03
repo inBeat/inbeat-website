@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Houston In 2020
 description: >-
-  Find top food Instagram influencers in Houston in 2020. Most popular hashtags: #houston #houstonfood #foodporn #htown.
+  Find top food Instagram influencers in Houston in 2020. Most popular hashtags: #hungry #supportlocal #cookies #sponsored.
 platform: Instagram
 profiles:
-  - username: "foodwithtory.htx"
-    fullname: >-
-      Houston Foodie♡Torylicious
-    location: "United States"
-    followers: 4760
-    engagement: 1886
-    commentsToLikes: 0.285088
-    id: ck5q8sl0e7sp20i117f49k17a
-    verified: false
-    hashtags: "#curry, #beardpapas, #khaosoi, #houstonicecream"
-  - username: "misstrangiee"
-    fullname: >-
-      📍Houston 📍Bmt Foodie
-    location: "United States"
-    followers: 2086
-    engagement: 1436
-    commentsToLikes: 0.315173
-    id: ck5hnfa02noj50i11xeqw6mlo
-    verified: false
-    hashtags: "#cinnamon, #sugar, #chubby, #lifestyle"
   - username: "cshepherd13"
     fullname: >-
       Chris Shepherd
     location: "United States"
-    followers: 28368
-    engagement: 346
-    commentsToLikes: 0.030653
+    followers: 29048
+    engagement: 191
+    commentsToLikes: 0.029830
     id: ck5c47f1e0r8w0i11lxhck6ds
     verified: false
-    hashtags: "#htown, #chefs, #foodies, #cheflife"
+    hashtags: "#htown, #coronavirus, #saverestaurants, #restaurants"
   - username: "posthtx"
     fullname: >-
       POST Houston
     location: "United States"
-    followers: 18784
-    engagement: 188
-    commentsToLikes: 0.013354
+    followers: 19352
+    engagement: 235
+    commentsToLikes: 0.016230
     id: ck5zjga97hjbc0i14djyf8te3
     verified: false
-    hashtags: "#chinesenewyear, #htx, #worldseries, #downtownhouston"
-  - username: "houston_lets_eat"
+    hashtags: "#mail, #baseball, #design, #lions"
+  - username: "alatte.toeat"
     fullname: >-
-      Fᴏᴏᴅ Eɴᴛʜᴜsɪᴀsᴛs🔸Rᴏxᴀɴɴᴇ
+      Coffee & Food | Houston
     location: "United States"
-    followers: 2871
-    engagement: 1623
-    commentsToLikes: 0.531980
-    id: ck5hr2uziu64c0i11w7wnhdmf
+    followers: 2443
+    engagement: 2886
+    commentsToLikes: 0.214539
+    id: ck6tmpbdc89ne0j71jgf880dx
     verified: false
-    hashtags: "#sugarlandboba, #houstonfoodscene, #delish, #dirtyboba"
-  - username: "houstontips"
+    hashtags: "#nationalpizzaday, #sorrynosalad, #foodblogger, #dailypizza"
+  - username: "houstonfoodiess"
     fullname: >-
-      Houston Tips
+      Houston Food
     location: "United States"
-    followers: 48156
-    engagement: 98
-    commentsToLikes: 0.037085
-    id: ck14kmr35qa7q0i19n94gfgiu
+    followers: 27204
+    engagement: 707
+    commentsToLikes: 0.444655
+    id: ck5q8sh3g7s230i116ttijkp6
     verified: false
-    hashtags: "#customhomebuilder, #djimavicpro, #bayoucity, #explorehouston"
-  - username: "houstoneateries"
+    hashtags: "#hkfrenchtoast, #cincodemayo, #supportlocal, #toast"
+  - username: "diningwithdestiny"
     fullname: >-
-      Houston Texas Food & Lifestyle
+      Destiny • Houston Food
     location: "United States"
-    followers: 21128
-    engagement: 510
-    commentsToLikes: 0.429941
-    id: ck0u9gqrb9rlg0i195i51vz5g
+    followers: 2878
+    engagement: 1682
+    commentsToLikes: 0.218702
+    id: ck6tusw7hi7zy0j71lribhgl6
     verified: false
-    hashtags: "#ad, #bestincraft, #msg421, #24"
-  - username: "djshante"
+    hashtags: "#eatlocalhouston"
+  - username: "fooodeelicious"
     fullname: >-
-      HOUSTON’S #1 FEMALE DJ
+      Houston Food | Duc Hoang
     location: "United States"
-    followers: 38980
-    engagement: 230
-    commentsToLikes: 0.136364
-    id: ck0tszzky0k6n0i19dsp54zum
+    followers: 43906
+    engagement: 448
+    commentsToLikes: 0.404722
+    id: ck5pyhjqnw1vt0i11yc2um1l0
     verified: false
-    hashtags: "#nevernotworking, #checkmyresume, #socialjunkie, #weekend"
-  - username: "brittanyroseblog"
+    hashtags: "#openfortakeout, #sponsored, #closestcinco, #ad"
+  - username: "for.twoplease"
     fullname: >-
-      ★ Brittany ★
+      Joeli l Houston Food Couple
     location: "United States"
-    followers: 3200
-    engagement: 1284
-    commentsToLikes: 0.162343
-    id: ck5zp5270s00z0i14zvlzgsn1
+    followers: 2777
+    engagement: 1224
+    commentsToLikes: 0.239582
+    id: ck139sv4jmy9j0i1995y7mgy7
     verified: false
-    hashtags: "#nationalpizzaday, #nationalmargaritaday, #liketkit, #ltksalealert"
-  - username: "itsnothouitsme"
+    hashtags: "#supportlocalbusiness, #goodfriday, #springbakingchampionship, #nationalgarlicday"
+  - username: "imafoodaddictx"
     fullname: >-
-      It's Not Hou It's Me
+      Houston Food | Amity
     location: "United States"
-    followers: 57549
-    engagement: 176
-    commentsToLikes: 0.053240
-    id: ck5ztx8lf1aci0i14jtg4p2hp
+    followers: 9985
+    engagement: 953
+    commentsToLikes: 0.157815
+    id: ck14ii1esfi530i19dcvfxboy
     verified: false
-    hashtags: "#explorehou, #cbd, #ommgtour2020, #missinghou"
+    hashtags: "#spicyfood, #filipino, #life, #seafoodlover"
+  - username: "whatayishaeats"
+    fullname: >-
+      𝐀𝐘𝐈𝐒𝐇𝐀 | Houston Food Blogger
+    location: "United States"
+    followers: 2518
+    engagement: 1386
+    commentsToLikes: 0.118291
+    id: ck9weodr9l6730j78h8c0olsm
+    verified: false
+    hashtags: "#3for10, #foodgasam, #fastfood, #cookiesandcream"
+  - username: "theeatingant"
+    fullname: >-
+      Anthony | Houston Food Blogger
+    location: "United States"
+    followers: 23664
+    engagement: 194
+    commentsToLikes: 0.258633
+    id: ck0u2fzzwzuv40i19ay3ej9gm
+    verified: false
+    hashtags: "#chocolatelover, #friedribs, #friedlobster, #pizzagram"
 ---

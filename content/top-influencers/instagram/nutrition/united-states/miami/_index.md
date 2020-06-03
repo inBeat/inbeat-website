@@ -1,39 +1,89 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Miami In 2020
 description: >-
-  Find top nutrition Instagram influencers in Miami in 2020. Most popular hashtags: #fitness #miami #crossfit #health.
+  Find top nutrition Instagram influencers in Miami in 2020. Most popular hashtags: #nutrition #miami #health #happymothersday.
 platform: Instagram
 profiles:
-  - username: "salt.n.peppah"
+  - username: "livlangdon"
     fullname: >-
-      Nikki Pepper
+      Olivia Langdon
     location: "United States"
-    followers: 11869
-    engagement: 338
-    commentsToLikes: 0.062134
-    id: ck5pvsynvjhdm0i11oxg8ovsn
+    followers: 21708
+    engagement: 582
+    commentsToLikes: 0.059640
+    id: ck5cfjcbon2rx0i1148eyafls
     verified: false
-    hashtags: "#hipthrust, #weightlossjourney, #weightlossguide, #workoutplan"
+    hashtags: "#beherenow, #freedom, #miamiwellness, #nutrition"
+  - username: "dralejandrojunger"
+    fullname: >-
+      Alejandro Junger MD
+    location: "United States"
+    followers: 37016
+    engagement: 125
+    commentsToLikes: 0.058671
+    id: ck5cgy9hvprq40i116m2xvd2g
+    verified: false
+    hashtags: "#heartdisease, #healthiswealth, #wearewhatweeat, #bookstagram"
+  - username: "davescott6x"
+    fullname: >-
+      Dave Scott
+    location: "United States"
+    followers: 20010
+    engagement: 245
+    commentsToLikes: 0.021991
+    id: ck0vxjn1ez7ve0i19ati6sqgn
+    verified: false
+    hashtags: "#triathlete, #health, #swimming, #weareinthistogether"
+  - username: "danlikestoeat"
+    fullname: >-
+      Dan DuPraw
+    location: "United States"
+    followers: 6646
+    engagement: 537
+    commentsToLikes: 0.114166
+    id: ck13cqkni1og60i19uxdx4his
+    verified: false
+    hashtags: "#mimosa, #bakedgoods, #cachapareceta, #wanderlust"
+  - username: "modernveganfam"
+    fullname: >-
+      Modern Vegan Familia
+    location: "United States"
+    followers: 25743
+    engagement: 168
+    commentsToLikes: 0.103150
+    id: ck0vw3p88rylr0i19by1o7z2o
+    verified: false
+    hashtags: "#pitaya, #thumbprintcookies, #tree, #veganmarshmallows"
+  - username: "blondebomb_chel"
+    fullname: >-
+      Chel 🐚
+    location: "United States"
+    followers: 33842
+    engagement: 453
+    commentsToLikes: 0.042429
+    id: ck5q03j9d42gm0i1181orrc3g
+    verified: false
+    hashtags: "#fillers, #sexy, #yogafest, #brandambassador"
+  - username: "__beyondthesweat"
+    fullname: >-
+      Ellie & Virgil- FITNESS
+    location: "United States"
+    followers: 5904
+    engagement: 1269
+    commentsToLikes: 0.029221
+    id: ck5c9apa5b3i60i11f0v1q3nl
+    verified: false
+    hashtags: "#miamigirl, #backflexibility, #sweat, #timeforyourself"
   - username: "nutrillermo"
     fullname: >-
-      Guillermo Rodríguez Navarrete
+      Guillermo Rodríguez Navarrete
     location: "United States"
-    followers: 469585
-    engagement: 154
-    commentsToLikes: 0.081812
+    followers: 519313
+    engagement: 123
+    commentsToLikes: 0.129628
     id: ck0w6s3p5a13j0i198l666gtf
     verified: true
-    hashtags: "#covid19, #dietamental, #nutriesposa, #quefriocarajo"
-  - username: "newladygolfer"
-    fullname: >-
-      Alissa Kacar
-    location: "United States"
-    followers: 21358
-    engagement: 428
-    commentsToLikes: 0.101024
-    id: ck0vzvde2b2yl0i1910cepuco
-    verified: false
-    hashtags: "#enjoythejourney, #jerseygirl, #monarchbeach, #longdrive"
+    hashtags: "#nutribreakfat, #nutrillermoteam, #nutrimilagros, #nutrivilma"
   - username: "miami_problems_"
     fullname: >-
       🔞MIAMI UNCENSORED🔞
@@ -48,60 +98,10 @@ profiles:
     fullname: >-
       Bryan Abasolo D.C., CNS, CPT
     location: "United States"
-    followers: 375237
-    engagement: 290
-    commentsToLikes: 0.012878
+    followers: 373429
+    engagement: 200
+    commentsToLikes: 0.015409
     id: ck0vvc6rmohm80i19d99jgpoj
     verified: true
-    hashtags: "#health, #playoffs, #sundayfunday, #quarantine"
-  - username: "laudice8"
-    fullname: >-
-      🅛🅐🅤
-    location: "United States"
-    followers: 49547
-    engagement: 798
-    commentsToLikes: 0.015395
-    id: ck0ttd8xx289v0i19vbeyi2oi
-    verified: false
-    hashtags: "#roadtothegames2020, #coaching, #fitnessgirl, #functionalfitness"
-  - username: "rilde13"
-    fullname: >-
-      
-    location: "United States"
-    followers: 10889
-    engagement: 535
-    commentsToLikes: 0.021086
-    id: ck5bwin95lrwa0i11aslaqocw
-    verified: false
-    hashtags: "#ripped, #flex, #miami, #history"
-  - username: "rhino_robbie"
-    fullname: >-
-      Robbie Rodriguez
-    location: "United States"
-    followers: 9201
-    engagement: 718
-    commentsToLikes: 0.025757
-    id: ck5caa93zd0ta0i11ozyqa7k1
-    verified: false
-    hashtags: "#workworkwork, #miamifit, #deathbyrogueworm, #bdaytrip"
-  - username: "kellstone35"
-    fullname: >-
-      Kelly Stone, DPT, CSCS, Pn1
-    location: "United States"
-    followers: 66564
-    engagement: 852
-    commentsToLikes: 0.042719
-    id: ck6u3ngp6ys8e0j71iwstpeoo
-    verified: false
-    hashtags: "#mondaymotivation, #covid19, #tuesdaymotivation, #fitnessfreaks"
-  - username: "thee_keith"
-    fullname: >-
-      Keith Manecke
-    location: "United States"
-    followers: 13908
-    engagement: 579
-    commentsToLikes: 0.046182
-    id: ck5q7fmrd1bkk0i11xsxwb7cb
-    verified: false
-    hashtags: "#modeling, #greatestofalltime, #christmasinflorida, #almostchristmas"
+    hashtags: "#finance, #stocks, #confidence, #invest"
 ---

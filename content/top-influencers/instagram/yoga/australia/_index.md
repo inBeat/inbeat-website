@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Australia In 2020
 description: >-
-  Find top yoga Instagram influencers in Australia in 2020. Most popular hashtags: #yoga #fitness #yogapractice #love.
+  Find top yoga Instagram influencers in Australia in 2020. Most popular hashtags: #happiness #yogapose #pincha #yogacommunity.
 platform: Instagram
 profiles:
-  - username: "emmaceolin"
+  - username: "thelazytrotter"
     fullname: >-
-      Emma Ceolin
+      Cristina 🌸Travel Blogger
     location: "Australia"
-    followers: 25864
-    engagement: 215
-    commentsToLikes: 0.061740
-    id: ck5zoe7amqd1p0i14r5s8rk5x
+    followers: 22643
+    engagement: 575
+    commentsToLikes: 0.076140
+    id: ck5qdzfj0y0050i11dbxhqik1
     verified: false
-    hashtags: "#19weeks, #33weeks, #noprideingenocide, #5050by2020"
+    hashtags: "#thetravelisfemale, #gifted"
+  - username: "nicolekastoun"
+    fullname: >-
+      Nicole McPherson Kastoun
+    location: "Australia"
+    followers: 11447
+    engagement: 791
+    commentsToLikes: 0.158779
+    id: ck5zm9ff1m5bf0i14yx1eswhf
+    verified: false
+    hashtags: "#peaceful, #yogaanywhere, #barreinstructor, #happyyogi"
+  - username: "reneecanzoneri"
+    fullname: >-
+      Renee • Live in Discovery
+    location: "Australia"
+    followers: 19946
+    engagement: 289
+    commentsToLikes: 0.092209
+    id: ck14hj7hmakwr0i191zy9toc3
+    verified: false
+    hashtags: "#nontoxic, #primallypure, #shortgirlproblems"
+  - username: "gypsea_yogi"
+    fullname: >-
+      Mathilde ૐ
+    location: "Australia"
+    followers: 7432
+    engagement: 1456
+    commentsToLikes: 0.087646
+    id: ck8tb2l48u2q70j78z2282jjw
+    verified: false
+    hashtags: "#flexiblegirl, #kingcobra, #dailyyoga, #scorpionpose"
   - username: "clairefalconer__"
     fullname: >-
       C L A I R E  🍉
     location: "Australia"
-    followers: 40103
-    engagement: 164
-    commentsToLikes: 0.096686
+    followers: 39781
+    engagement: 158
+    commentsToLikes: 0.094526
     id: ck0tzgrzjqd5y0i19c5egbdw8
     verified: false
-    hashtags: "#tbt, #ad, #sponsored, #vanlife"
+    hashtags: "#happiness, #australia, #drone, #thisisfestive"
+  - username: "karinachorley"
+    fullname: >-
+      Karina Nicole
+    location: "Australia"
+    followers: 26691
+    engagement: 136
+    commentsToLikes: 0.087758
+    id: ck55pulacbezw0i11jzx7jjlw
+    verified: false
+    hashtags: ""
   - username: "calebjudepackhamyoga"
     fullname: >-
       THE WELLNESS WARRIOR
     location: "Australia"
-    followers: 30360
-    engagement: 415
-    commentsToLikes: 0.030442
+    followers: 31995
+    engagement: 429
+    commentsToLikes: 0.030527
     id: ck8sztxi2pp370j78v2szapb6
     verified: false
-    hashtags: "#sattvayoga, #yogapose, #wellness, #mindfulness"
-  - username: "tranquil_steph"
-    fullname: >-
-      Steph
-    location: "Australia"
-    followers: 21992
-    engagement: 210
-    commentsToLikes: 0.073435
-    id: ck6ub36rq776c0j71uori86te
-    verified: false
-    hashtags: "#dubaicompetition, #ultraboostissnationallab, #healthyfood, #stayfitwithhuawei"
+    hashtags: "#covid19, #upwardfacingdog, #bestof2019, #kundaliniyoga"
   - username: "lukassneale"
     fullname: >-
       Lukass ☀️
     location: "Australia"
-    followers: 790
-    engagement: 2054
-    commentsToLikes: 0.050136
+    followers: 9938
+    engagement: 1261
+    commentsToLikes: 0.052461
     id: ck8tbbnt3v1eo0j787m3jtubz
     verified: false
-    hashtags: "#uplift, #vulnerability, #yang, #enlightenment"
-  - username: "eliana_jordan"
+    hashtags: "#vibes, #connect, #progress, #believe"
+  - username: "tranquil_steph"
     fullname: >-
-      Eliana Jordan
+      Steph | Yoga & PT Abu Dhabi |
     location: "Australia"
-    followers: 30012
-    engagement: 217
-    commentsToLikes: 0.084383
-    id: ck6tkws645k3a0j71v1xcg8gr
+    followers: 21815
+    engagement: 196
+    commentsToLikes: 0.071234
+    id: ck6ub36rq776c0j71uori86te
     verified: false
-    hashtags: "#byron, #pyramids, #coral, #scubagirl"
-  - username: "nikimariahelena"
+    hashtags: "#yogacouple, #healthyfood, #ultraboostissnationallab, #giveawaydubai"
+  - username: "yogiinbeirut"
     fullname: >-
-      Niki | LIVING IN LOVE ♥
+      Hala Okeili
     location: "Australia"
-    followers: 15598
-    engagement: 621
-    commentsToLikes: 0.046590
-    id: ck15twywokbrq0i19lj8zl4dz
+    followers: 20440
+    engagement: 303
+    commentsToLikes: 0.050759
+    id: ck15pn17qyo7v0i19jbyc0f6j
     verified: false
-    hashtags: "#bringiton, #wearenature, #loveisalwaystheanswer, #wearetheworld"
-  - username: "acro_yoga_twins"
-    fullname: >-
-      Madi & Tallara
-    location: "Australia"
-    followers: 20514
-    engagement: 463
-    commentsToLikes: 0.018491
-    id: ck0w3vjrpvi0i0i19unv5g889
-    verified: false
-    hashtags: "#handstand, #yogavideo, #yogapractice, #gymsharkwomen"
-  - username: "junes_life"
-    fullname: >-
-      June
-    location: "Australia"
-    followers: 7540
-    engagement: 578
-    commentsToLikes: 0.034655
-    id: ck5pwegbnmg1c0i11iigmrtnc
-    verified: false
-    hashtags: "#headstand, #gym, #training, #workout"
-  - username: "emmamaidment_"
-    fullname: >-
-      Emma Maidment
-    location: "Australia"
-    followers: 24511
-    engagement: 214
-    commentsToLikes: 0.061422
-    id: ck5pv8b6hgmt40i11khjubmfe
-    verified: false
-    hashtags: "#prayer, #2020vision, #iwd2020, #ladies"
+    hashtags: "#armbalancea, #beauty, #bodybuilding, #yogaposture"
 ---

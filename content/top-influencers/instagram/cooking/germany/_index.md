@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Germany In 2020
 description: >-
-  Find top cooking Instagram influencers in Germany in 2020. Most popular hashtags: #stayathome #love #nature #bestofvegan.
+  Find top cooking Instagram influencers in Germany in 2020. Most popular hashtags: #staypositive #pancakes #rezeptefu #healthyfood.
 platform: Instagram
 profiles:
+  - username: "jana_luna_tattoo"
+    fullname: >-
+      🐱🌙  TATTOOART FROM THE HEART
+    location: "Germany"
+    followers: 13018
+    engagement: 732
+    commentsToLikes: 0.065386
+    id: ckap57iltais40i78opbuwdza
+    verified: false
+    hashtags: "#tattoofrankfurt, #freshfood, #superwoman, #stayathome"
   - username: "jan_stuehmer"
     fullname: >-
       Mister Grey 👨🏼‍🦳
     location: "Germany"
-    followers: 187354
-    engagement: 413
-    commentsToLikes: 0.038056
+    followers: 201003
+    engagement: 343
+    commentsToLikes: 0.035183
     id: ck5bv66cvj2au0i11evuuvo9r
     verified: false
-    hashtags: "#healthyfood, #stayathome, #foodinspiration, #mananddog"
+    hashtags: "#shooting, #shoot, #beachboy, #model"
   - username: "jonas.vonier"
     fullname: >-
       Jonas Vonier
     location: "Germany"
-    followers: 11765
-    engagement: 519
-    commentsToLikes: 0.113504
+    followers: 11505
+    engagement: 558
+    commentsToLikes: 0.111103
     id: ck134z0d7yvuh0i19v13k93jr
     verified: false
-    hashtags: "#stuttgart, #0711, #manbun, #longhairman"
+    hashtags: "#manbun, #longhairman, #menwithbeards, #0711"
+  - username: "_mk_cooks"
+    fullname: >-
+      MK-cooks
+    location: "Germany"
+    followers: 7884
+    engagement: 1427
+    commentsToLikes: 0.093297
+    id: ck9hb3g82f8jc0j78npj3fype
+    verified: false
+    hashtags: "#bakedbread, #suppen, #cologne, #feta"
   - username: "neleburgemstr"
     fullname: >-
       Nele
     location: "Germany"
-    followers: 34024
-    engagement: 369
-    commentsToLikes: 0.049394
+    followers: 34590
+    engagement: 396
+    commentsToLikes: 0.048191
     id: ck15tcq8lhgch0i19sousuqyt
     verified: false
-    hashtags: "#happythursday, #veggie, #breakfastlover, #energy"
+    hashtags: "#heat, #analogwork, #warmvibes, #hamburg"
+  - username: "just_another__foodblogger"
+    fullname: >-
+      FOOD | TRAVELING | WEIGHTLOSS
+    location: "Germany"
+    followers: 8486
+    engagement: 1111
+    commentsToLikes: 0.279663
+    id: ck5zp8f7js6up0i143mzb3bn5
+    verified: false
+    hashtags: "#cakedecorating, #fondantcakes, #backenistliebe, #buddhabowl"
   - username: "kikiskitchenyt"
     fullname: >-
       Kiki
     location: "Germany"
-    followers: 187982
-    engagement: 371
-    commentsToLikes: 0.093949
+    followers: 215210
+    engagement: 445
+    commentsToLikes: 0.532727
     id: ck0txg46lizi30i19b4lwp7gy
     verified: false
-    hashtags: "#mittagessen, #brownieswhitechocolate, #hotbrownies, #burgerlove"
-  - username: "umihito.vlog"
-    fullname: >-
-      Ümit Memisoglu
-    location: "Germany"
-    followers: 367615
-    engagement: 850
-    commentsToLikes: 0.017155
-    id: ck0vv0vj0n0uy0i19cuv0owxk
-    verified: false
-    hashtags: "#oonified, #outdoorchef, #swissgrillinnovation"
-  - username: "kuestenglut"
-    fullname: >-
-      Saschas Grill & BBQ
-    location: "Germany"
-    followers: 82074
-    engagement: 706
-    commentsToLikes: 0.020189
-    id: ck0txr6qek8bv0i19t217w0zf
-    verified: false
-    hashtags: "#grilled, #lechon, #porkbelly, #seafood"
+    hashtags: "#hackfleischf, #knafeh, #arabischeku, #ramazanbayram"
   - username: "jakobherrmann"
     fullname: >-
       Jakob Herrmann
     location: "Germany"
-    followers: 6788
-    engagement: 905
-    commentsToLikes: 0.007450
+    followers: 6800
+    engagement: 904
+    commentsToLikes: 0.016018
     id: ck6u1u30dnw2i0j71qhq80sbm
     verified: false
-    hashtags: "#lifeisbetterinthemountains, #greatday, #mountainboy, #martinisportswear"
-  - username: "pattikocht"
+    hashtags: "#verivalbio, #mountainboy, #stayathome, #takecare"
+  - username: "umihito.vlog"
     fullname: >-
-      Patti 🙋‍♀️ vegan foodie 🌱✌🏻
+      Ümit Memisoglu
     location: "Germany"
-    followers: 6578
-    engagement: 619
-    commentsToLikes: 0.122368
-    id: ck8t6dh85d7gz0j78vfd5hhop
+    followers: 432173
+    engagement: 896
+    commentsToLikes: 0.014875
+    id: ck0vv0vj0n0uy0i19cuv0owxk
     verified: false
-    hashtags: "#bananabread, #hclfvegan, #veganbreakfast, #thrivemags"
-  - username: "eatsleepgreen"
+    hashtags: "#besseramst, #graef, #graefallesschneider"
+  - username: "_lecker_abnehmen_rezepte"
     fullname: >-
-      Susanna Bingemer
+      𝑀𝒶𝓃𝓊𝑒𝓁𝒶| 𝐹𝑜𝑜𝒹𝓁𝑜𝓋𝑒𝓇 | 34
     location: "Germany"
-    followers: 35452
-    engagement: 170
-    commentsToLikes: 0.207829
-    id: ck5bzyd3ms2r10i11elv0gwk9
+    followers: 5909
+    engagement: 1425
+    commentsToLikes: 0.051528
+    id: ck9hc2r6fjhwh0j788unk8x0r
     verified: false
-    hashtags: "#avocadolove, #potato, #rhabarberkuchen, #gewinnspiele"
-  - username: "nordstrand_nf"
-    fullname: >-
-      Feluca
-    location: "Germany"
-    followers: 8108
-    engagement: 1360
-    commentsToLikes: 0.106497
-    id: ck15ttauejset0i1900xex1de
-    verified: false
-    hashtags: "#landliebe, #hattstedtermarsch, #habour, #sealife"
+    hashtags: "#meinleben, #backen, #ausreichend, #joggen"
 ---

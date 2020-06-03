@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gaming Instagram Influencers In France In 2020
 description: >-
-  Find top gaming Instagram influencers in France in 2020. Most popular hashtags: #paris #geek #gaming #fortnite.
+  Find top gaming Instagram influencers in France in 2020. Most popular hashtags: #nintendoswitch #instagram #sunset #concours.
 platform: Instagram
 profiles:
-  - username: "frenchcreature_"
+  - username: "shineez_olt"
     fullname: >-
-      Julie. ~90’s Child
+      🖤 𝙎𝙝𝙞𝙣𝙚𝙚𝙯 𝙊𝙡𝙩 🇻🇳
     location: "France"
-    followers: 28555
-    engagement: 922
-    commentsToLikes: 0.045775
-    id: ck6uhjcbj9glg0j71w5y4jjx5
+    followers: 6419
+    engagement: 2304
+    commentsToLikes: 0.085133
+    id: ck6tls2ui6jc30j71po5f1o2r
     verified: false
-    hashtags: "#fimocreation, #timburtontattoo, #makeup, #pencildrawing"
+    hashtags: "#airsoft, #confinement, #warframe, #frenchgirl"
+  - username: "k4t3x_onlin3"
+    fullname: >-
+      Kate | 🎮 | 🖱️ French gamer
+    location: "France"
+    followers: 3685
+    engagement: 3211
+    commentsToLikes: 0.082308
+    id: ck9h9wxwmaa6j0j78k2o3zt6z
+    verified: false
+    hashtags: "#ff7remake, #rdr2, #zelda, #switch"
   - username: "ayternel"
     fullname: >-
       
     location: "France"
-    followers: 12341
-    engagement: 2124
-    commentsToLikes: 0.029987
+    followers: 12487
+    engagement: 2117
+    commentsToLikes: 0.030540
     id: ck6tvrp0lnw250j71bybyi74s
     verified: false
-    hashtags: "#menswear, #marvel, #fashionweek, #battleroyal"
-  - username: "alex_en_vrai"
+    hashtags: "#papa, #popculture, #pokefan, #warzone"
+  - username: "arrrrow_off"
     fullname: >-
-      ɐɹpuɐxǝl∀
+      Christophe
     location: "France"
-    followers: 142141
-    engagement: 515
-    commentsToLikes: 0.136004
-    id: ck5zj53megyhx0i14n34cwjok
+    followers: 77210
+    engagement: 1639
+    commentsToLikes: 0.008890
+    id: ck9hculcln1dc0j7851epnk7g
     verified: false
-    hashtags: "#marseille, #modelephoto, #velvet, #agentprovocateur"
-  - username: "bysankahofficiel"
-    fullname: >-
-      bySankah
-    location: "France"
-    followers: 72413
-    engagement: 792
-    commentsToLikes: 0.134867
-    id: ck5zk8vxoj1jy0i14o5x1i96o
-    verified: false
-    hashtags: "#vacances, #serrechevalier, #winter, #roadtrip"
+    hashtags: "#travelphotography, #instagood, #summer, #instamoment"
   - username: "kai2music"
     fullname: >-
       KAI
     location: "France"
-    followers: 6593
-    engagement: 1156
-    commentsToLikes: 0.024821
+    followers: 6541
+    engagement: 1149
+    commentsToLikes: 0.025624
     id: ck5hgzam35ku00i112uivdxyx
     verified: false
-    hashtags: "#dancecover, #shoot, #nimes, #makeupforever"
-  - username: "at0mium"
+    hashtags: "#videoclip, #fokuza, #wine, #soiree"
+  - username: "maniraj_gaming"
     fullname: >-
-      At0mium
+      Maniraj Gaming
     location: "France"
-    followers: 9233
-    engagement: 974
-    commentsToLikes: 0.036623
-    id: ck5heioq9t3qx0i11b6di9vzs
+    followers: 15303
+    engagement: 1231
+    commentsToLikes: 0.054033
+    id: ck9hczjjwnkl50j781b8gd13a
     verified: false
-    hashtags: "#starwarsjedifallenorder, #xbox, #retrogaming, #twitch"
-  - username: "sullypopstar"
+    hashtags: "#bambi, #happy, #legends, #gta5"
+  - username: "mythixtrinity"
     fullname: >-
-      Sully
+      Trinity
     location: "France"
-    followers: 62017
-    engagement: 780
-    commentsToLikes: 0.006487
-    id: ck13bzv73xyl90i19lt5mw3zi
+    followers: 20240
+    engagement: 573
+    commentsToLikes: 0.011254
+    id: ck14gemvj4u070i19hxhp4f2n
     verified: false
-    hashtags: "#coronavirus"
-  - username: "xavierdang"
+    hashtags: "#nara, #globetrotter, #luxe, #thailand"
+  - username: "charlyportocarrero"
     fullname: >-
-      Xavier Dang (AKA mistermv)
+      Carlos Portocarrero
     location: "France"
-    followers: 73936
-    engagement: 868
-    commentsToLikes: 0.000742
-    id: ck5hej31at5xm0i11ta9npoox
+    followers: 112721
+    engagement: 317
+    commentsToLikes: 0.005717
+    id: ck14jmo5zl4f00i19gfsak0zs
     verified: false
-    hashtags: "#sunsetphotography, #synthwaveart, #stone, #mixology"
-  - username: "gamer_geek_ps4"
+    hashtags: "#rogfest2019, #guardianaestelar, #starguardians, #leagueofstarguardians"
+  - username: "darkghoulx"
     fullname: >-
-      💙🎮🔹️Gamer and Geek🔹️🎮💙
+      Marco R.
     location: "France"
-    followers: 36491
-    engagement: 415
-    commentsToLikes: 0.013159
-    id: ck15plh9uyh3e0i195kshg6b2
+    followers: 11813
+    engagement: 1830
+    commentsToLikes: 0.020993
+    id: ck14ka0xxoi3s0i19xu77nuk4
     verified: false
-    hashtags: "#gamersunite, #lovegaming, #dualshock4, #ps4"
-  - username: "teamgotaga"
+    hashtags: "#nintendoswitch, #gamer, #pokemonpearl, #teamrocket"
+  - username: "bysankahofficiel"
     fullname: >-
-      TeamGotaga 🎭
+      bySankah
     location: "France"
-    followers: 100192
-    engagement: 490
-    commentsToLikes: 0.004990
-    id: ck15polx6yw0t0i194heogg9e
+    followers: 83506
+    engagement: 927
+    commentsToLikes: 0.176613
+    id: ck5zk8vxoj1jy0i14o5x1i96o
     verified: false
-    hashtags: "#fifa19, #squeezie, #thebest, #shop"
+    hashtags: "#chat, #catoftheday, #agvhelmet, #dainesecrew"
 ---

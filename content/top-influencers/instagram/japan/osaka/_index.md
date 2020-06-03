@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Osaka In 2020
 description: >-
-  Find top Instagram influencers in Osaka in 2020. Most popular hashtags: #japan #ootd #code #pr.
+  Find top Instagram influencers in Osaka in 2020. Most popular hashtags: #stayhome #selfie #cool #kitashinchi.
 platform: Instagram
 profiles:
-  - username: "erina____n"
+  - username: "fishinggirljp"
     fullname: >-
-      鍋島 恵里奈 Nabeshima Erina
+      🎣あきピッピ 🎣🇯🇵
     location: "Japan"
-    followers: 7874
-    engagement: 590
-    commentsToLikes: 0.004465
-    id: ck14gnajr62k20i19o5uws2ey
+    followers: 10917
+    engagement: 3682
+    commentsToLikes: 0.065596
+    id: ck9hb5mvofhkw0j78x7l8mym4
     verified: false
-    hashtags: "#kate, #melirich, #stylesea, #ring"
-  - username: "chikaco03"
-    fullname: >-
-      kiyo
-    location: "Japan"
-    followers: 5261
-    engagement: 3244
-    commentsToLikes: 0.079816
-    id: ck13c0mxxy2hl0i191vd3ppql
-    verified: false
-    hashtags: "#runkeeper, #osaka, #2020, #garmin45s"
-  - username: "eikino.__"
-    fullname: >-
-      hitomi☁︎ .｡•⁎
-    location: "Japan"
-    followers: 7134
-    engagement: 1439
-    commentsToLikes: 0.034104
-    id: ck8tdtxmw4r8c0j78iny8ulon
-    verified: false
-    hashtags: "#sigma50mmart, #photoplusme, #team, #igersjp"
+    hashtags: "#tako, #ca, #stayhome, #seabream"
   - username: "chiho1128_i"
     fullname: >-
       五十川ちほ@ちーころ▶︎RIZINガール🧡RIZIN.21
     location: "Japan"
-    followers: 7026
-    engagement: 1485
-    commentsToLikes: 0.034041
+    followers: 7381
+    engagement: 1493
+    commentsToLikes: 0.033054
     id: ck8t33ovd1qe00j78gcv3g6lx
     verified: false
-    hashtags: "#girlsswimwear, #smileday, #gridgirls, #likeforlikeback"
-  - username: "yutahirop1"
+    hashtags: "#cosplay, #bunnystagram, #smileday, #liketolike"
+  - username: "miki0000000000"
     fullname: >-
-      yuyu
+      🔆poledancer_miki🔆
     location: "Japan"
-    followers: 7890
-    engagement: 1469
-    commentsToLikes: 0.029419
-    id: ck6tov4ksg9y90j71dntznmk2
+    followers: 33078
+    engagement: 686
+    commentsToLikes: 0.037628
+    id: ckap6xki3hs2l0i783gsdwkva
     verified: false
-    hashtags: "#surluster, #motorcycle, #motorbike, #motorcyclesync"
-  - username: "ayu888ayu"
+    hashtags: "#photography, #shingapore, #japanp, #dancer"
+  - username: "krk_818"
     fullname: >-
-      ❤️❤️❤️ 𝚊𝚢𝚞 ❤️❤️❤️
+      伊藤莉子 / riko ito♡✌︎
     location: "Japan"
-    followers: 22710
-    engagement: 795
-    commentsToLikes: 0.039727
-    id: ck8sy23uqjgsa0j78ox8ik1pn
+    followers: 55824
+    engagement: 784
+    commentsToLikes: 0.016026
+    id: ckaox7cppc3tj0i7848qrxlsg
     verified: false
-    hashtags: "#phantom, #fivestar, #menu, #coodinate"
-  - username: "asuka__3"
+    hashtags: "#rmk10, #makeup, #onebykose, #pr"
+  - username: "yu__1218__x"
     fullname: >-
-      𝐀𝐒𝐔𝐊𝐀
+      yurika
     location: "Japan"
-    followers: 7099
-    engagement: 999
-    commentsToLikes: 0.065892
-    id: ck5cbgq7hfe9n0i11y1yprdtp
+    followers: 29337
+    engagement: 743
+    commentsToLikes: 0.017426
+    id: ck8t9iwmwo9i60j78ieqrsjkm
     verified: false
-    hashtags: "#bobat, #eyelly, #mbh"
+    hashtags: "#hawaii, #horse, #horseriding, #cafe"
+  - username: "airigramxx"
+    fullname: >-
+      Airi
+    location: "Japan"
+    followers: 33549
+    engagement: 564
+    commentsToLikes: 0.032874
+    id: ck8tc22gly0830j78japxctix
+    verified: false
+    hashtags: "#snap, #likely, #murua, #murua2020ss"
   - username: "a.asuka.a"
     fullname: >-
       asuka
     location: "Japan"
-    followers: 30163
-    engagement: 248
-    commentsToLikes: 0.064830
+    followers: 30273
+    engagement: 229
+    commentsToLikes: 0.063038
     id: ck5hiace7cgwh0i11o7iuh993
     verified: false
-    hashtags: "#yagbeauty, #sponsored, #qpu, #coffeelover"
-  - username: "buritei"
+    hashtags: "#lilac, #tbyladuree, #selfie, #fifthtl"
+  - username: "ayu888ayu"
     fullname: >-
-      buri_chan🦄🌈💕
+      ❤️❤️❤️ 𝚊𝚢𝚞 ❤️❤️❤️
     location: "Japan"
-    followers: 42412
-    engagement: 234
-    commentsToLikes: 0.054421
-    id: ck138y1viikwq0i19qtl7tnic
+    followers: 37236
+    engagement: 978
+    commentsToLikes: 0.039379
+    id: ck8sy23uqjgsa0j78ox8ik1pn
     verified: false
-    hashtags: "#powerofadrop, #artesoielady, #supported, #sesekira"
-  - username: "raano666"
+    hashtags: "#foodie, #cosme, #travelholic, #stayhome"
+  - username: "meru_doll"
     fullname: >-
-      tomohiro︎️ kimura
+      ♥ кчокa ♥
     location: "Japan"
-    followers: 38992
-    engagement: 900
-    commentsToLikes: 0.012312
-    id: ck8tbela6vchk0j781ecbl55w
+    followers: 28357
+    engagement: 422
+    commentsToLikes: 0.045090
+    id: ckap0rowgrhwv0i78so3zvgre
     verified: false
-    hashtags: "#chromehearts, #tomo, #supreme, #essentials"
+    hashtags: "#code, #overtake, #throbbing, #3ce"
+  - username: "tsubasa.toshimizu"
+    fullname: >-
+      利水 つばさ toshimizu tsubasa
+    location: "Japan"
+    followers: 21694
+    engagement: 1660
+    commentsToLikes: 0.015541
+    id: ckapazmsyy2ng0i78zetrkucd
+    verified: false
+    hashtags: "#tsurinakibun, #spring"
 ---

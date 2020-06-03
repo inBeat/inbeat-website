@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Japan In 2020
 description: >-
-  Find top photographers Instagram influencers in Japan in 2020. Most popular hashtags: #portrait #ig #blackandwhite #japan.
+  Find top photographers Instagram influencers in Japan in 2020. Most popular hashtags: #portra400 #kyoto #blackandwhite #leescratchperry.
 platform: Instagram
 profiles:
   - username: "yuyatakahashi.monster"
     fullname: >-
       高橋優也 yuyatakahashi
     location: "Japan"
-    followers: 21327
-    engagement: 597
+    followers: 21583
+    engagement: 502
     commentsToLikes: 0.005613
     id: ck5q6mo89y1810i11p0fsn4w3
     verified: false
-    hashtags: "#repost, #inthehousestore, #kidsfashion, #scamp"
+    hashtags: "#sayaka, #inthehousetokyo, #inthehousestore, #milkfed"
   - username: "nikolaivonbismarck"
     fullname: >-
       Nikolai von Bismarck
     location: "Japan"
-    followers: 15744
-    engagement: 345
-    commentsToLikes: 0.030896
+    followers: 16161
+    engagement: 366
+    commentsToLikes: 0.032533
     id: ck6tzbuxq8sei0j71e1fq8bly
     verified: false
-    hashtags: "#verbalambush, #mamiyarz67, #eddieredmayne, #alexisrael"
+    hashtags: "#bobbygillespie, #violinist, #ambushofficial, #eddieredmayne"
   - username: "sotarogoto"
     fullname: >-
       sotaro goto
     location: "Japan"
-    followers: 9398
-    engagement: 1289
-    commentsToLikes: 0.003954
+    followers: 9343
+    engagement: 1217
+    commentsToLikes: 0.003675
     id: ck0vxot5fzz7z0i19ct5rdtit
     verified: false
     hashtags: "#film, #the1975, #cinestill800t, #portra400"
-  - username: "nagiyoshida"
-    fullname: >-
-      nagi yoshida / ヨシダナギ
-    location: "Japan"
-    followers: 187441
-    engagement: 1106
-    commentsToLikes: 0.017377
-    id: ck6ubctnf8th20j71jnked6wa
-    verified: true
-    hashtags: "#crazyjourney, #photography, #dreamland, #rupaul"
-  - username: "hiroshi_mizutani_060"
-    fullname: >-
-      Hiroshi Mizutani
-    location: "Japan"
-    followers: 2470
-    engagement: 2616
-    commentsToLikes: 0.068572
-    id: ck0vv1zjpn69t0i19gp4p7gpc
-    verified: false
-    hashtags: "#monochrome, #all, #americanshorthair, #landscapephotography"
-  - username: "offset_cray"
-    fullname: >-
-      AESTHETIC STREETWEAR™
-    location: "Japan"
-    followers: 54017
-    engagement: 269
-    commentsToLikes: 0.048697
-    id: ck6ucmibgggz30j71kiy3cm10
-    verified: false
-    hashtags: "#balenciaga"
   - username: "_icyphoto_"
     fullname: >-
       Photographer in Tokyo ジュリア
     location: "Japan"
-    followers: 18019
-    engagement: 1054
-    commentsToLikes: 0.023330
+    followers: 18225
+    engagement: 981
+    commentsToLikes: 0.023141
     id: ck5c1kyiive4i0i11svbdfe22
     verified: false
-    hashtags: "#bwportrait, #sigmalenses, #sonyalpha, #portraitphotography"
-  - username: "wa.mu.ba"
+    hashtags: "#portraiture, #85mm, #asia, #sigmaphoto"
+  - username: "hiroshi_mizutani_060"
     fullname: >-
-      wataru  wamuba
+      Hiroshi Mizutani
     location: "Japan"
-    followers: 5368
-    engagement: 1683
-    commentsToLikes: 0.016121
-    id: ck8tashzusvnv0j78sd6g5m0z
+    followers: 2513
+    engagement: 2368
+    commentsToLikes: 0.079453
+    id: ck0vv1zjpn69t0i19gp4p7gpc
     verified: false
-    hashtags: "#whim, #todays, #daily, #tokai"
-  - username: "deepnightjustin"
+    hashtags: "#flower, #flowerslovers, #kyototrip, #kyoto"
+  - username: "offset_cray"
     fullname: >-
-      深夜 名堂  - 謝名振
+      AESTHETIC STREETWEAR™
     location: "Japan"
-    followers: 220360
-    engagement: 598
-    commentsToLikes: 0.008965
-    id: ck5pzm2m61n6p0i11p3u7eqnq
+    followers: 55336
+    engagement: 318
+    commentsToLikes: 0.047166
+    id: ck6ucmibgggz30j71kiy3cm10
     verified: false
-    hashtags: "#worldaidsday2019, #communities, #tag, #taiwanize"
-  - username: "ch1kaphoto"
+    hashtags: "#nairobifashion, #heronpreston, #balenciaga, #publicity254"
+  - username: "peroshx"
     fullname: >-
-      ちかちゃ
+      P Ξ R O S H   Q A D Ξ R
     location: "Japan"
-    followers: 86058
-    engagement: 460
-    commentsToLikes: 0.010539
-    id: ck8t36a8521ql0j784m8wqr5l
+    followers: 2174
+    engagement: 1222
+    commentsToLikes: 0.123473
+    id: ckap6zrpqi1vz0i78tceokobj
     verified: false
-    hashtags: "#igersjp, #team, #whim, #portrait"
+    hashtags: "#staythefuckhome, #staythefuckoffline"
+  - username: "masatoshi_nagase_official"
+    fullname: >-
+      永瀬正敏  Masatoshi Nagase
+    location: "Japan"
+    followers: 31028
+    engagement: 557
+    commentsToLikes: 0.027052
+    id: ck6tx7bl7w88y0j71geei0jea
+    verified: false
+    hashtags: "#turkey, #qatar, #netherlands, #lalehmarzban"
+  - username: "mich_viljoen"
+    fullname: >-
+      Michelle Viljoen
+    location: "Japan"
+    followers: 28444
+    engagement: 433
+    commentsToLikes: 0.032009
+    id: ck0vvfctpovyt0i19uzjb68jb
+    verified: false
+    hashtags: "#lensculture, #artofvisuals, #visualsoflife, #london"
+  - username: "varlamov_roman"
+    fullname: >-
+      Roman Varlamov
+    location: "Japan"
+    followers: 5120
+    engagement: 791
+    commentsToLikes: 0.070778
+    id: ck5zsgpoyygox0i140hmq9v39
+    verified: false
+    hashtags: "#vogueitalia, #model, #viallinthistogether, #mcqueencreators"
 ---

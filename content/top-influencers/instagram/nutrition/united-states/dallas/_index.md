@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Dallas In 2020
 description: >-
-  Find top nutrition Instagram influencers in Dallas in 2020. Most popular hashtags: #fitfam #dallas #fitnessmotivation #weightlossjourney.
+  Find top nutrition Instagram influencers in Dallas in 2020. Most popular hashtags: #stayathome #skincare #texas #blackgirlmagic.
 platform: Instagram
 profiles:
-  - username: "jayfromhouston"
-    fullname: >-
-      J A Y  F R O M  H O U S T O N
-    location: "United States"
-    followers: 221235
-    engagement: 162
-    commentsToLikes: 0.025319
-    id: ck14jdo1djtkf0i195vgo5ns8
-    verified: true
-    hashtags: "#workharder, #selena, #tiktok, #scene"
-  - username: "ginelleeverything"
-    fullname: >-
-      Ginelle | Fitness Enthusiast
-    location: "United States"
-    followers: 12006
-    engagement: 726
-    commentsToLikes: 0.105923
-    id: ck137jai2btn50i194cxeazi7
-    verified: false
-    hashtags: "#linkedin, #weightloss, #womenwhosquat, #womenempowerment"
   - username: "em_balanced"
     fullname: >-
-      
+      ᗴᗰIᒪY ᗯᗩᖇᗴ
     location: "United States"
-    followers: 27921
-    engagement: 119
-    commentsToLikes: 0.025024
+    followers: 27345
+    engagement: 135
+    commentsToLikes: 0.033936
     id: ck5cf4icwm9j60i11t9ncz0aj
     verified: false
-    hashtags: "#ineedtotan, #lotsofchange, #ihavesomuchhomeworktodo, #dontbelikeme"
-  - username: "ketogoddessmama"
+    hashtags: "#dontcare, #mentalhealthawarenessmonth, #legday, #embalanced"
+  - username: "aleahstander"
     fullname: >-
-      Ciara Martinez✨
+      Aleah Stander | Fitness Expert
     location: "United States"
-    followers: 17168
-    engagement: 157
-    commentsToLikes: 0.102378
-    id: ck5q6jhdnxn6v0i110g2lz2wb
+    followers: 17303
+    engagement: 336
+    commentsToLikes: 0.079805
+    id: ck8t1vdgkx6np0j7827hnknnp
     verified: false
-    hashtags: "#fitmom, #abs, #goals, #transformation"
-  - username: "healthylife_bymg"
+    hashtags: "#stayhomewithltk, #workoutideas, #fitspo, #betterwithglg"
+  - username: "notyouravg_mom"
     fullname: >-
-      recetas & vida saludable •
+      Brenda Garza
     location: "United States"
-    followers: 65891
-    engagement: 182
-    commentsToLikes: 0.062871
-    id: ck6u1ldrvmfrm0j713j5cgc2f
+    followers: 21873
+    engagement: 518
+    commentsToLikes: 0.060543
+    id: ckap0ncegr1y10i780nlz0oh0
     verified: false
-    hashtags: "#healthychoices, #lunch, #mequedoencasa, #mexicanfood"
+    hashtags: "#winetime, #booklover, #2020senior, #teachersofig"
   - username: "ramfitness_d1"
     fullname: >-
       Ramiro Dominguez
     location: "United States"
-    followers: 5235
-    engagement: 1087
-    commentsToLikes: 0.053665
+    followers: 6343
+    engagement: 1269
+    commentsToLikes: 0.036971
     id: ck8t0vso1tifr0j782qa7q6zn
     verified: false
-    hashtags: "#fitnessmodel, #fitlife, #bodybuilding, #modeling"
-  - username: "thetrendytomboy"
+    hashtags: ""
+  - username: "ginelleeverything"
     fullname: >-
-      Rachel Spross | Style Blogger
+      Ginelle | Fitness Enthusiast
     location: "United States"
-    followers: 44856
-    engagement: 83
-    commentsToLikes: 0.055390
-    id: ck13bqq1awpys0i19pk57ql25
+    followers: 11991
+    engagement: 741
+    commentsToLikes: 0.104086
+    id: ck137jai2btn50i194cxeazi7
     verified: false
-    hashtags: "#gymselfie, #friyay, #donttouchme"
+    hashtags: "#fitandthick, #fitblackwomen, #skincareroutine, #housechronicles"
   - username: "_cecereneee"
     fullname: >-
       𝓢𝓲𝓮𝓻𝓻𝓪 🎀
     location: "United States"
-    followers: 6080
-    engagement: 3248
-    commentsToLikes: 0.072103
+    followers: 6592
+    engagement: 3091
+    commentsToLikes: 0.078854
     id: ck0w77irbc5ji0i19s0srz1in
     verified: false
-    hashtags: "#sponsored, #nursebae, #nursesofinstagram, #happysunday"
-  - username: "worldlytreat"
+    hashtags: "#babesinscrubs, #hazeleyes, #blackgirlmagic, #stayhome"
+  - username: "thetrendytomboy"
     fullname: >-
-      Maur celestine✨Easy Recipes✨
+      Rachel Spross | Lifestyle Blog
     location: "United States"
-    followers: 4052
-    engagement: 1273
-    commentsToLikes: 0.224030
-    id: ck5cep31zlfcu0i11ru152nkz
+    followers: 43919
+    engagement: 70
+    commentsToLikes: 0.042860
+    id: ck13bqq1awpys0i19pk57ql25
     verified: false
-    hashtags: "#alfredo, #ambrepublica, #ketorecipes, #italianfood"
-  - username: "therealdealjoerobinson"
+    hashtags: "#donttouchme, #takeablissbreak, #ad, #blissbreak"
+  - username: "healthylife_bymg"
     fullname: >-
-      Joe Robinson
+      recetas & vida saludable •
     location: "United States"
-    followers: 14638
-    engagement: 361
-    commentsToLikes: 0.015531
-    id: ck5zwvyem6v5b0i148pm8e4bj
+    followers: 73612
+    engagement: 198
+    commentsToLikes: 0.052606
+    id: ck6u1ldrvmfrm0j713j5cgc2f
     verified: false
-    hashtags: "#dedication, #inspire, #california, #nutrition"
+    hashtags: "#foodie, #aphilellie, #food, #today"
+  - username: "no_excuses_chick"
+    fullname: >-
+      Sarah Wilkins, BSc Dietetics
+    location: "United States"
+    followers: 21694
+    engagement: 2
+    commentsToLikes: 0.000000
+    id: ck15r6bwg6csf0i19wisne0b7
+    verified: false
+    hashtags: ""
+  - username: "momo_twofive"
+    fullname: >-
+      Ryan Moeller
+    location: "United States"
+    followers: 5170
+    engagement: 872
+    commentsToLikes: 0.039537
+    id: ck6tv594kk98x0j71w3kn99qx
+    verified: false
+    hashtags: "#utah, #kingofthemountain, #friendsandfamily, #homebody"
 ---

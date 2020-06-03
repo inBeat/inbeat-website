@@ -1,39 +1,9 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Cali In 2020
 description: >-
-  Find top fashion Instagram influencers in Cali in 2020. Most popular hashtags: #fashion #lifestyle #love #fashionblogger.
+  Find top fashion Instagram influencers in Cali in 2020. Most popular hashtags: #fashion #happy #cali #colombia.
 platform: Instagram
 profiles:
-  - username: "juan.ossa10"
-    fullname: >-
-      Juan Manuel O. ♛
-    location: "Colombia"
-    followers: 9342
-    engagement: 1241
-    commentsToLikes: 0.102032
-    id: ck5qc4i3iotdz0i112ahgra0x
-    verified: false
-    hashtags: "#photooftheday, #fashion, #cali, #stayathome"
-  - username: "cisstian"
-    fullname: >-
-      Cristian Y. Ceron Diaz
-    location: "Colombia"
-    followers: 11572
-    engagement: 743
-    commentsToLikes: 0.034844
-    id: ck6uci6l3fqy50j71dblfy9ux
-    verified: false
-    hashtags: "#streetfashion, #photograpy, #calico, #fashionformen"
-  - username: "rodwin.oficial"
-    fullname: >-
-      💲RODWIN MILLIONARY 💸
-    location: "Colombia"
-    followers: 11107
-    engagement: 680
-    commentsToLikes: 0.071931
-    id: ck5zknuj8jtk40i143p9gf3ro
-    verified: false
-    hashtags: "#instagood, #cute, #photooftheday, #tagblender"
   - username: "desocupe_masivo"
     fullname: >-
       DESOCUPE MASIVO  ®
@@ -44,64 +14,94 @@ profiles:
     id: ck5byrvowpq1t0i11t9o7chbp
     verified: false
     hashtags: "#amigos, #depilacion, #cine, #canicas"
-  - username: "thomycast"
+  - username: "rodwin.oficial"
     fullname: >-
-      T  H O M Y   C A S T A Ñ O
+      RODWIN MILLIONARY 💸
     location: "Colombia"
-    followers: 16102
-    engagement: 255
-    commentsToLikes: 0.105315
-    id: ck6txc6k7x0910j71y4itmjut
+    followers: 11241
+    engagement: 609
+    commentsToLikes: 0.089459
+    id: ck5zknuj8jtk40i143p9gf3ro
     verified: false
-    hashtags: "#outfit, #aesthetics, #moda, #denim"
+    hashtags: "#bestoftheday, #happy, #cali, #iphoneonly"
+  - username: "david_artpe"
+    fullname: >-
+      David Peñalver Art
+    location: "Colombia"
+    followers: 25229
+    engagement: 1006
+    commentsToLikes: 0.375321
+    id: ck6tny43sb1al0j712gnsb9rm
+    verified: false
+    hashtags: "#ibague, #stationery, #barranquilla, #antioquia"
+  - username: "michelleh.lly"
+    fullname: >-
+      Michelle Herrera.
+    location: "Colombia"
+    followers: 80807
+    engagement: 1130
+    commentsToLikes: 0.011341
+    id: ck5ch3tm2q27j0i11ygxpgho3
+    verified: false
+    hashtags: "#cuarentena, #beautygirl, #bestoftheday, #baile"
   - username: "giannimichielin"
     fullname: >-
       Giannina Michielin Roa
     location: "Colombia"
-    followers: 39239
-    engagement: 131
-    commentsToLikes: 0.117383
+    followers: 39018
+    engagement: 133
+    commentsToLikes: 0.115684
     id: ck0w3n7rnu9n80i19d99jvcmt
     verified: false
-    hashtags: "#apoyalocal, #pool, #americaneagle, #naturezasecreta"
-  - username: "ferriveraruiz"
+    hashtags: "#endlesslove, #cocacolalover, #yocreoencali, #amor"
+  - username: "traveloving_colombia"
     fullname: >-
-      Fernando Rivera
+      TRAVELOVING_COLOMBIA
     location: "Colombia"
-    followers: 41552
-    engagement: 80
-    commentsToLikes: 0.036316
-    id: ck14k0520n1tm0i19mw92y2yp
+    followers: 9822
+    engagement: 729
+    commentsToLikes: 0.505377
+    id: ck0w0n3rnf1jg0i19co3mz5m1
     verified: false
-    hashtags: "#actoral, #fashionista, #makeupideas, #cediel"
+    hashtags: "#marzodaily, #idlatino, #mayocolo11p, #urbanocali"
+  - username: "marialejamirandap"
+    fullname: >-
+      -M A R I A  A L E J A N D R A-
+    location: "Colombia"
+    followers: 4624
+    engagement: 1264
+    commentsToLikes: 0.032698
+    id: ckaouqrjw1esd0i78decx4wuk
+    verified: false
+    hashtags: "#fashionistas, #instalife, #smile, #ootd"
+  - username: "auraoro"
+    fullname: >-
+      Aura Maria Orozco
+    location: "Colombia"
+    followers: 25892
+    engagement: 150
+    commentsToLikes: 0.123790
+    id: ckap7vyvwlszz0i7805o7f2u5
+    verified: false
+    hashtags: "#stayhome, #glitter, #tutorial, #blonde"
+  - username: "kodachiphotos"
+    fullname: >-
+      KODACHI 🕶️
+    location: "Colombia"
+    followers: 16457
+    engagement: 179
+    commentsToLikes: 0.048740
+    id: ck5zuf1y828nk0i143w6tpouj
+    verified: false
+    hashtags: "#palms, #gorgeous, #espa, #covergirl"
   - username: "calicolfit"
     fullname: >-
       LUZ MARINA GARCIA A 🐼🦄
     location: "Colombia"
-    followers: 33801
-    engagement: 78
-    commentsToLikes: 0.084970
+    followers: 35443
+    engagement: 96
+    commentsToLikes: 0.054930
     id: ck5zufszw2a0r0i14z8wpyi8c
     verified: false
-    hashtags: "#gluteos, #chocolate, #banano, #lifestyle"
-  - username: "isabelvesga"
-    fullname: >-
-      M🌱
-    location: "Colombia"
-    followers: 9290
-    engagement: 679
-    commentsToLikes: 0.064935
-    id: ck8tcsh2n0i9l0j78rd38d8tm
-    verified: false
-    hashtags: "#miamilife, #girlswhotravelsolo, #valentines, #beach"
-  - username: "marianelamodel"
-    fullname: >-
-      Marianela💋Ramos
-    location: "Colombia"
-    followers: 44684
-    engagement: 657
-    commentsToLikes: 0.021936
-    id: ck5q3ihpokw7e0i11gl42nznm
-    verified: false
-    hashtags: "#argentina, #tendencia, #miss, #blondehair"
+    hashtags: "#facil, #glutes, #gluteo, #fresas"
 ---

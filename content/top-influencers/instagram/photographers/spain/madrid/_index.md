@@ -1,36 +1,56 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Madrid In 2020
 description: >-
-  Find top photographers Instagram influencers in Madrid in 2020. Most popular hashtags: #madrid #photography #spain #lugardeausencia.
+  Find top photographers Instagram influencers in Madrid in 2020. Most popular hashtags: #photography #covid19 #portraitphotography #home.
 platform: Instagram
 profiles:
+  - username: "ivanbermejo"
+    fullname: >-
+      Iván Bermejo
+    location: "Spain"
+    followers: 3021
+    engagement: 1845
+    commentsToLikes: 0.060695
+    id: ckap0cyckpswj0i78df1brqtq
+    verified: false
+    hashtags: "#blackwhite, #travelphotography, #lights, #vitaminad"
+  - username: "patriciasemirphotography"
+    fullname: >-
+      𝒫𝒶𝓉𝓇𝒾𝒸𝒾𝒶 𝒹𝑒  𝒮𝑒𝓂𝒾𝓇
+    location: "Spain"
+    followers: 18044
+    engagement: 203
+    commentsToLikes: 0.044178
+    id: ckaoqthw8kba70i78i2hr7yc0
+    verified: false
+    hashtags: "#mask, #fotosnin, #familyportraits, #tutorialesfotografiaespa"
   - username: "sanndrii"
     fullname: >-
       Sandra Casado
     location: "Spain"
-    followers: 6426
-    engagement: 231
-    commentsToLikes: 0.048562
+    followers: 6353
+    engagement: 254
+    commentsToLikes: 0.042562
     id: ck0ua00j6b3ev0i19e1rcl3c4
     verified: false
-    hashtags: "#realnick, #loveaholic, #ccme, #vivedial"
-  - username: "chechuphotography"
+    hashtags: "#tb, #realnick, #vivedial, #lamexicana"
+  - username: "dannielrojas"
     fullname: >-
-      Jesus Casero
+      DANNIEL ROJAS
     location: "Spain"
-    followers: 3828
-    engagement: 2218
-    commentsToLikes: 0.194486
-    id: ck5c79w1q748z0i11k4dudpf1
+    followers: 13789
+    engagement: 633
+    commentsToLikes: 0.080113
+    id: ckaor7lmsm27r0i78bik7nouz
     verified: false
-    hashtags: "#earthcapture, #silhouette, #collection, #dreams"
+    hashtags: "#glitter, #seventeen, #carlaelite, #valentinesday"
   - username: "marcobarsanti1"
     fullname: >-
       Marco Barsanti Rodriguez
     location: "Spain"
-    followers: 39481
-    engagement: 1398
-    commentsToLikes: 0.013986
+    followers: 39185
+    engagement: 1251
+    commentsToLikes: 0.015181
     id: ck15puy4kzr6f0i19oys1rqyb
     verified: false
     hashtags: ""
@@ -38,39 +58,39 @@ profiles:
     fullname: >-
       Sergio Loshak
     location: "Spain"
-    followers: 23327
-    engagement: 273
-    commentsToLikes: 0.054572
+    followers: 23171
+    engagement: 279
+    commentsToLikes: 0.052947
     id: ck6u51i6271ai0j714r0704cu
     verified: false
-    hashtags: "#boudoirphotograpy, #lengerie, #pasi, #sesi"
+    hashtags: "#icon, #elegance, #fashion, #lencer"
   - username: "cesarvaldesphoto"
     fullname: >-
       César Valdés
     location: "Spain"
-    followers: 18928
-    engagement: 371
-    commentsToLikes: 0.032018
+    followers: 18644
+    engagement: 366
+    commentsToLikes: 0.031932
     id: ck0u26o98yxtr0i19fpil0pmg
     verified: false
-    hashtags: "#portraitphotography, #fineartphotography, #likeapainting, #asturiasparaisonatural"
+    hashtags: "#purple, #fujifilmglobal, #fujifilm, #fotofamiliar"
   - username: "tomascmt"
     fullname: >-
       Tomas Mancheño
     location: "Spain"
-    followers: 6383
-    engagement: 429
-    commentsToLikes: 0.045434
+    followers: 6736
+    engagement: 486
+    commentsToLikes: 0.058682
     id: ck6uhkf5t9mt20j71n6lfkdyk
     verified: false
-    hashtags: "#lingerie, #dancer, #portrait, #madrid"
+    hashtags: "#portrait, #photography, #dancer, #blackandwhite"
   - username: "anabuho"
     fullname: >-
       Ana Alborés
     location: "Spain"
-    followers: 37033
-    engagement: 105
-    commentsToLikes: 0.015608
+    followers: 35809
+    engagement: 141
+    commentsToLikes: 0.014455
     id: ck8sx29x9fyyu0j78uwwowxeq
     verified: false
     hashtags: "#35mm"
@@ -78,30 +98,10 @@ profiles:
     fullname: >-
       Pierfrancesco Artini
     location: "Spain"
-    followers: 79476
-    engagement: 165
-    commentsToLikes: 0.042976
+    followers: 78599
+    engagement: 151
+    commentsToLikes: 0.043767
     id: ck5q2obkqgzo20i11ud8qzusd
     verified: false
-    hashtags: "#alejandrocabrera, #madrid, #photography, #gabrielshortfilm"
-  - username: "evadiez"
-    fullname: >-
-      Eva Díez
-    location: "Spain"
-    followers: 9520
-    engagement: 440
-    commentsToLikes: 0.038679
-    id: ck0udk7e3jb870i19swsm001w
-    verified: false
-    hashtags: "#lugardeausencia, #madrid, #justmadartfair, #water"
-  - username: "danielgonzalezphoto"
-    fullname: >-
-      Daniel González (Photographer)
-    location: "Spain"
-    followers: 8356
-    engagement: 819
-    commentsToLikes: 0.018570
-    id: ck5c9l3fibmp70i11yqtqlu7j
-    verified: false
-    hashtags: "#travelstagram, #spain, #picoftheday, #green"
+    hashtags: "#home, #shortfilm, #portraiture, #sonyalpha"
 ---

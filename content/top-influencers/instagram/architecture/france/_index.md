@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In France In 2020
 description: >-
-  Find top architecture Instagram influencers in France in 2020. Most popular hashtags: #paris #parismaville #igersfrance #hello.
+  Find top architecture Instagram influencers in France in 2020. Most popular hashtags: #archidaily #toureiffel #natgeoyourshot #parismaville.
 platform: Instagram
 profiles:
-  - username: "viva_a_viva"
-    fullname: >-
-      𝑲 𝑨 𝑹 𝑶 𝑳 𝑰 𝑵 𝑨   𝑾 𝑶 𝑱 𝑪 𝑰 𝑲
-    location: "France"
-    followers: 328407
-    engagement: 1023
-    commentsToLikes: 0.003157
-    id: ck55izqfqvvzh0i11x3suq10s
-    verified: false
-    hashtags: "#youtuber, #physiomikrobiom, #interior, #interiordesign"
   - username: "yves_parisian"
     fullname: >-
       Yves Sabrou
     location: "France"
-    followers: 10666
-    engagement: 985
-    commentsToLikes: 0.031877
+    followers: 10674
+    engagement: 978
+    commentsToLikes: 0.033590
     id: ck0w6bugd7u5j0i1981ribkij
     verified: false
-    hashtags: "#dancephotography, #valdemarne, #gymnasticsshoutouts, #worldbestgram"
-  - username: "julianoz_photographies"
+    hashtags: "#hubs, #unic, #freeze, #landscape"
+  - username: "mewpittinun"
     fullname: >-
-      Julianoz Photographies
+      Pittinun J.
     location: "France"
-    followers: 5156
-    engagement: 1449
-    commentsToLikes: 0.125549
-    id: ck13aawahphot0i19bdj150jp
+    followers: 54081
+    engagement: 347
+    commentsToLikes: 0.007343
+    id: ck0vv9fg8o4w00i19x8xpg9mm
     verified: false
-    hashtags: "#nikond850, #france4dreams, #artofvisuals, #parisonline"
+    hashtags: "#galaxynote10th, #toyoito, #rafaelvinoly, #stayapartstaytogether"
+  - username: "laurent_clement_photographe"
+    fullname: >-
+      Laurent Clément
+    location: "France"
+    followers: 17530
+    engagement: 94
+    commentsToLikes: 0.035750
+    id: ck0u8a7j76yct0i199v71cvsh
+    verified: false
+    hashtags: "#follow, #artphotography, #coiffeur, #seville"
   - username: "vuitor"
     fullname: >-
       Victor
     location: "France"
-    followers: 6522
-    engagement: 1075
-    commentsToLikes: 0.108387
+    followers: 6611
+    engagement: 1138
+    commentsToLikes: 0.092939
     id: ck0tzxa1oru4g0i19u5temi0h
     verified: false
-    hashtags: "#archi, #compositionkillers, #arcdetriomphe, #cieldeparis"
+    hashtags: "#londonvacation, #frenchvisuals, #lunerose, #visitbrittany"
+  - username: "julianoz_photographies"
+    fullname: >-
+      Julianoz Photographies
+    location: "France"
+    followers: 5238
+    engagement: 1059
+    commentsToLikes: 0.114981
+    id: ck13aawahphot0i19bdj150jp
+    verified: false
+    hashtags: "#streetartparis, #parisianstyle, #chaleur, #doublerainbow"
+  - username: "baldbarbu"
+    fullname: >-
+      A X E L 🇫🇷
+    location: "France"
+    followers: 2174
+    engagement: 2636
+    commentsToLikes: 0.076062
+    id: ckap1qqyivpnh0i78gdf07fnt
+    verified: false
+    hashtags: "#topmadridphoto, #ilovemadrid, #lyon6, #frenchboy"
+  - username: "lola_henn"
+    fullname: >-
+      L O L A 🦋
+    location: "France"
+    followers: 4673
+    engagement: 2185
+    commentsToLikes: 0.102741
+    id: ckaoyoew7idaw0i78eh0q0igb
+    verified: false
+    hashtags: "#vintageoutfit, #nakdfashion, #blogueusemode, #blogmodeparis"
+  - username: "zhytomyna"
+    fullname: >-
+      Photography Travel Germany 🇩🇪
+    location: "France"
+    followers: 5111
+    engagement: 928
+    commentsToLikes: 0.124101
+    id: ck8t9by50njgj0j788b7rico0
+    verified: false
+    hashtags: "#blauregen, #traveltofrance, #naturelove, #sight"
   - username: "emoi_iness"
     fullname: >-
-      Iness | PARISIENNE & MODEUSE
+      Iness | @emoi_iness
     location: "France"
-    followers: 5966
-    engagement: 1055
-    commentsToLikes: 0.072965
+    followers: 6270
+    engagement: 1103
+    commentsToLikes: 0.074706
     id: ck5zswduzzb2q0i14kmn3fl8i
     verified: false
-    hashtags: "#cluseclub, #eaucapitale, #diptyqueparis, #octolyfamily"
+    hashtags: "#safirashine, #chaneladdict, #cluseclub, #eaucapitale"
   - username: "kiks_way"
     fullname: >-
       Killian Roman
     location: "France"
-    followers: 33705
-    engagement: 255
-    commentsToLikes: 0.086852
+    followers: 33595
+    engagement: 247
+    commentsToLikes: 0.088012
     id: ck5hqekcnszft0i11h5sfig3q
     verified: false
-    hashtags: "#depthobsessed, #createcommune, #moodygrams, #hsinthefield"
-  - username: "afadingsummer"
-    fullname: >-
-      Aurélie
-    location: "France"
-    followers: 23828
-    engagement: 585
-    commentsToLikes: 0.032595
-    id: ck0vuzr2umvuw0i197a6xok48
-    verified: false
-    hashtags: "#igerslille, #villages, #accidentallywesanderson, #lillefrance"
-  - username: "les_compagnons_explorateurs"
-    fullname: >-
-      LES COMPAGNONS EXPLORATEURS
-    location: "France"
-    followers: 8128
-    engagement: 1305
-    commentsToLikes: 0.029556
-    id: ck13bm1prw2nz0i19mca4euac
-    verified: false
-    hashtags: "#durmitorpark, #snowday, #collongeslarouge, #tourisme"
-  - username: "geri_designs"
-    fullname: >-
-      Geri Designs | Interior Design
-    location: "France"
-    followers: 28325
-    engagement: 173
-    commentsToLikes: 0.076212
-    id: ck8t4g82f6ovs0j78xpfxeq73
-    verified: false
-    hashtags: "#geridesigns, #women, #internationalwomensday"
-  - username: "sylvieadigard"
-    fullname: >-
-      Sylvie Adigard
-    location: "France"
-    followers: 8324
-    engagement: 551
-    commentsToLikes: 0.117168
-    id: ck0vvfbb2ovrb0i19paptj91y
-    verified: false
-    hashtags: "#valdisere, #monpatou, #winner, #upcycling"
+    hashtags: "#onlylyon, #monlyon, #streetninja, #rustlord"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top fashion Instagram influencers in Tokyo in 2020. Most popular hashtags: #ootd #fashion #tokyo #makeup.
+  Find top fashion Instagram influencers in Tokyo in 2020. Most popular hashtags: #fashion #tokyo #repost #hermes.
 platform: Instagram
 profiles:
-  - username: "darayunya"
+  - username: "mensfudge"
     fullname: >-
-      yuri nakagawa👽FUTURISTIC GIRL
+      men'sFUDGE／メンズファッジ
     location: "Japan"
-    followers: 56357
-    engagement: 232
-    commentsToLikes: 0.037921
-    id: ck5c4wmuw29pw0i11jkq1vgkx
+    followers: 132246
+    engagement: 183
+    commentsToLikes: 0.000970
+    id: ck136bzuh5qmh0i19omr4ptse
     verified: false
-    hashtags: "#iwd, #japan, #bpm150, #japanese"
-  - username: "myunachy"
+    hashtags: "#streetsnap, #setupwear, #agnesbjeans, #newstandard"
+  - username: "hoshinoko728"
     fullname: >-
-      みゅなちぃ
+      𝕙𝕠𝕤𝕙𝕚𝕟𝕠𝕜𝕠
     location: "Japan"
-    followers: 22553
-    engagement: 415
-    commentsToLikes: 0.009430
-    id: ck0vuze43mu7j0i19g6c9nf4c
+    followers: 107585
+    engagement: 505
+    commentsToLikes: 0.012423
+    id: ck6ugjknq3ek20j71ex306fes
     verified: false
-    hashtags: "#make, #foodstagram, #photography, #laforte"
-  - username: "rororuko"
-    fullname: >-
-      るうこ📞⇨ rororuko@yahoo.co.jp
-    location: "Japan"
-    followers: 154784
-    engagement: 92
-    commentsToLikes: 0.005479
-    id: ck5hrrohavd440i1141afg3u5
-    verified: true
-    hashtags: "#fifth, #lanvinenblue, #makeup, #racinestore"
-  - username: "kame_kyo"
-    fullname: >-
-      Kyoko Kame
-    location: "Japan"
-    followers: 30684
-    engagement: 140
-    commentsToLikes: 0.017273
-    id: ck13akjf9qtre0i19hjjf9oro
-    verified: false
-    hashtags: "#madisonblue, #personalstyling, #stunning, #workday"
-  - username: "misono_koda_official"
-    fullname: >-
-      misono
-    location: "Japan"
-    followers: 36795
-    engagement: 148
-    commentsToLikes: 0.003855
-    id: ck136pccw7lny0i19zsdo1ze2
-    verified: true
-    hashtags: "#asami, #stage, #misonosuke, #kenbow"
-  - username: "shizunan"
-    fullname: >-
-      shizuna
-    location: "Japan"
-    followers: 51129
-    engagement: 128
-    commentsToLikes: 0.017275
-    id: ck5qc5lf7oysb0i111ntb80zi
-    verified: false
-    hashtags: "#gpsbot, #formesummer, #verystore, #kuruntokyo"
+    hashtags: "#coordinate, #instafashion, #fashion, #tokyodisneysea"
   - username: "tokyofashion"
     fullname: >-
       Harajuku Japan
     location: "Japan"
-    followers: 780500
-    engagement: 200
-    commentsToLikes: 0.004589
+    followers: 778249
+    engagement: 179
+    commentsToLikes: 0.004161
     id: ck15uvnpwoq5m0i198kqeptrb
     verified: false
     hashtags: ""
+  - username: "shizunan"
+    fullname: >-
+      shizuna
+    location: "Japan"
+    followers: 52107
+    engagement: 152
+    commentsToLikes: 0.008570
+    id: ck5qc5lf7oysb0i111ntb80zi
+    verified: false
+    hashtags: "#mothersday, #shizunascoordinateathome, #very, #hermes"
   - username: "ayaaa0707"
     fullname: >-
       ayakaneko
     location: "Japan"
-    followers: 139133
-    engagement: 149
-    commentsToLikes: 0.001891
+    followers: 142975
+    engagement: 147
+    commentsToLikes: 0.002624
     id: ck134x22lylyc0i197ev8c69o
     verified: false
-    hashtags: "#akcloset, #shootingday, #mywork, #stylingbyme"
+    hashtags: "#happymothersday, #macphee"
   - username: "chinenmikako"
     fullname: >-
       chinenmikako
     location: "Japan"
-    followers: 41651
-    engagement: 134
-    commentsToLikes: 0.009936
+    followers: 41039
+    engagement: 152
+    commentsToLikes: 0.011393
     id: ck6tu4a4we7zy0j71tkfnd2mc
     verified: false
-    hashtags: "#boysfashion, #nail, #adinamuse, #stylist"
-  - username: "ichirika_62"
+    hashtags: "#newhair, #newnail, #stylist, #ootm"
+  - username: "aaxxy2"
     fullname: >-
-      りか
+      ユウ
     location: "Japan"
-    followers: 194128
-    engagement: 274
-    commentsToLikes: 0.024462
-    id: ck5hn13vdn0ac0i11reqnsitj
-    verified: true
-    hashtags: "#ootd, #mie, #fruits, #movie"
+    followers: 103194
+    engagement: 258
+    commentsToLikes: 0.011929
+    id: ck15q8w4h1nr50i1992s18exi
+    verified: false
+    hashtags: "#alustandard, #converse, #fila, #music"
+  - username: "ippei.ds"
+    fullname: >-
+      Ippei Sawamura
+    location: "Japan"
+    followers: 5352
+    engagement: 928
+    commentsToLikes: 0.005346
+    id: ck55m8dq33fvu0i11h3kcg8z3
+    verified: false
+    hashtags: "#musicinsta, #zeppdivercitytokyo, #hiphop, #veatsshibuya"
+  - username: "ami_s_t"
+    fullname: >-
+      ᴀᴍɪ sᴜᴢᴜᴋɪ
+    location: "Japan"
+    followers: 161248
+    engagement: 359
+    commentsToLikes: 0.008663
+    id: ck0w53ai91od80i19kyya11wi
+    verified: false
+    hashtags: "#casita, #celford, #fendi, #etoupe"
+  - username: "_turner___"
+    fullname: >-
+      DAISUKE TANAKA 🇯🇵for the world
+    location: "Japan"
+    followers: 51449
+    engagement: 95
+    commentsToLikes: 0.005162
+    id: ck8t50xby8h9u0j78yapdbzx6
+    verified: false
+    hashtags: "#1000, #aktrsportssupply, #basketball, #lifestyle"
 ---

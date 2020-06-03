@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In South Africa In 2020
 description: >-
-  Find top lifestyle Instagram influencers in South Africa in 2020. Most popular hashtags: #ootd #giveaway #fashion #capetown.
+  Find top lifestyle Instagram influencers in South Africa in 2020. Most popular hashtags: #happy #competition #lockdown2020 #giveaway.
 platform: Instagram
 profiles:
   - username: "kylieshanay"
     fullname: >-
       𝐊𝐘𝐋𝐈𝐄 𝐒𝐇𝐀𝐍𝐀𝐘 | 𝐁𝐄𝐀𝐔𝐓𝐘 🤍
     location: "South Africa"
-    followers: 6979
-    engagement: 1922
-    commentsToLikes: 0.760394
+    followers: 6814
+    engagement: 1966
+    commentsToLikes: 0.762247
     id: ck0vvdzuvopko0i19s0o59y26
     verified: false
     hashtags: "#loveguess, #maybelline, #maybellinemasterbronze, #proudsouthafrican"
-  - username: "ismaeelbagus"
+  - username: "siya_hashe"
     fullname: >-
-      Ishy | Men’s Style
+      Siyamthanda Hashe
     location: "South Africa"
-    followers: 2904
-    engagement: 2141
-    commentsToLikes: 0.159787
-    id: ck136233x4dks0i19e0kr7qsm
+    followers: 5591
+    engagement: 1804
+    commentsToLikes: 0.069504
+    id: ckaoziugtm2q40i78y3toxzf0
     verified: false
-    hashtags: "#merrychristmas, #mrpmystyle"
-  - username: "imancoovadia_"
+    hashtags: ""
+  - username: "eh.mj"
     fullname: >-
-      Iman Coovadia
+      MJ STEENBERG❕
     location: "South Africa"
-    followers: 6561
-    engagement: 753
-    commentsToLikes: 0.187492
-    id: ck5bvjl4djrt60i11vbw5ih01
+    followers: 2512
+    engagement: 2877
+    commentsToLikes: 0.070700
+    id: ckap2rowf00y10i78qt83v8dx
     verified: false
-    hashtags: "#dior, #diorbeautylovers, #dior, #makeup"
-  - username: "nikitajoshua"
+    hashtags: "#love, #skate, #happy, #2020"
+  - username: "nicole.gibbons"
     fullname: >-
-      Nikita | Model & Makeup Artist
+      NICOLE T. GIBBONS
     location: "South Africa"
-    followers: 29064
-    engagement: 545
-    commentsToLikes: 0.045047
-    id: ck5q1k1wmbddf0i113a465475
+    followers: 12505
+    engagement: 744
+    commentsToLikes: 0.136125
+    id: ck9wfav3fo0v00j782q0ik9xq
     verified: false
-    hashtags: "#beauty, #contentcreator, #femaleentrepreneurship, #engagedcouple"
-  - username: "holymane_"
+    hashtags: "#2020, #healthyathome, #lovetolounge, #lawstudent"
+  - username: "kissblushandtell"
     fullname: >-
-      MELY 💋💕
+      KISS, BLUSH & TELL
     location: "South Africa"
-    followers: 6601
-    engagement: 721
-    commentsToLikes: 0.075886
-    id: ck5ck71lew9r20i11dymoz57z
+    followers: 37394
+    engagement: 254
+    commentsToLikes: 0.070006
+    id: ck5q8fzye5ztx0i11tha1d1zz
     verified: false
-    hashtags: "#noscheveuxsontmagiques, #bijouxfaitmain, #earthexplorer, #ilovekiabiantillesguyane"
+    hashtags: "#kbtmademedoit, #ad, #retinolrules, #skinrepublic"
   - username: "rochelle_vv"
     fullname: >-
       Rochelle van Vuuren
     location: "South Africa"
-    followers: 19024
-    engagement: 791
-    commentsToLikes: 0.076655
+    followers: 19007
+    engagement: 788
+    commentsToLikes: 0.089776
     id: ck5hhf70v7wkh0i11u0bw6tpu
     verified: false
-    hashtags: "#woman, #happyskin, #kissthesky, #kisscloud"
+    hashtags: "#ifbbsa, #5coursemeal, #photoinspo, #healthy"
+  - username: "mistrudy"
+    fullname: >-
+      Miss Trudy.
+    location: "South Africa"
+    followers: 20018
+    engagement: 975
+    commentsToLikes: 0.046457
+    id: ck600abbbd8790i14f6va765p
+    verified: false
+    hashtags: "#traveler, #travellover, #youtube, #kenya"
+  - username: "campsbaygirl"
+    fullname: >-
+      Campsbaygirl
+    location: "South Africa"
+    followers: 150451
+    engagement: 159
+    commentsToLikes: 0.047782
+    id: ck0ttiq542wak0i19n66hqud7
+    verified: false
+    hashtags: "#constancemoment, #visitseychelles, #cntraveler, #travelgirls"
   - username: "justin_uncorked"
     fullname: >-
       J U S T I N _ U N C O R K E D
     location: "South Africa"
-    followers: 5472
-    engagement: 992
-    commentsToLikes: 0.053797
+    followers: 5470
+    engagement: 985
+    commentsToLikes: 0.059925
     id: ck5bymf2wpfes0i11rn0gt3mt
     verified: false
-    hashtags: "#limitless, #ubud, #travelphotography, #gindrinker"
-  - username: "kwanda_photography"
+    hashtags: "#beering, #instabirthday, #redheart, #harvest"
+  - username: "nikitajoshua"
     fullname: >-
-      Kwanda Photography
+      Nikita | Model & Makeup Artist
     location: "South Africa"
-    followers: 28396
-    engagement: 172
-    commentsToLikes: 0.063211
-    id: ck6u4nwmh4t0s0j714gkg68yp
+    followers: 29546
+    engagement: 538
+    commentsToLikes: 0.025717
+    id: ck5q1k1wmbddf0i113a465475
     verified: false
-    hashtags: "#iflovehasnoboundarieswasacouple, #engagement, #mzansibride, #kwandaphotography"
-  - username: "lorettahove"
-    fullname: >-
-      LORETTA P HOVE
-    location: "South Africa"
-    followers: 33645
-    engagement: 370
-    commentsToLikes: 0.078028
-    id: ck0vw8jorsl1l0i19cm7i1ewu
-    verified: false
-    hashtags: "#makeup, #giveaway, #guccisunglasses, #foodstagram"
-  - username: "onemodernmom"
-    fullname: >-
-      Lisa || Content Creator
-    location: "South Africa"
-    followers: 6746
-    engagement: 502
-    commentsToLikes: 0.344628
-    id: ck5cdvjtyjv0l0i1167gqqnar
-    verified: false
-    hashtags: "#floristsofinstagram, #flattenthecurve, #day1, #socialmedia"
+    hashtags: "#obedient, #ilovethelot, #fyp, #beautymode"
 ---

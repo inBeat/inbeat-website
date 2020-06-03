@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Melbourne In 2020
 description: >-
-  Find top nutrition Instagram influencers in Melbourne in 2020. Most popular hashtags: #australia #melbourne #fitness #nutrition.
+  Find top nutrition Instagram influencers in Melbourne in 2020. Most popular hashtags: #nutrition #food #melbourne #stayhome.
 platform: Instagram
 profiles:
-  - username: "frizee09"
-    fullname: >-
-      Ryan Miller
-    location: "Australia"
-    followers: 37663
-    engagement: 484
-    commentsToLikes: 0.019529
-    id: ck6u37flxw6370j71gf2m8dna
-    verified: false
-    hashtags: "#theweekend, #wymtm, #beach, #adventure"
-  - username: "currentlylovingblog"
-    fullname: >-
-      Kenzie ⚡️ Digital MGMT ⚡️ PT
-    location: "Australia"
-    followers: 16186
-    engagement: 64
-    commentsToLikes: 0.329219
-    id: ck136c6uf5rll0i198j4xn8a7
-    verified: false
-    hashtags: "#therealrawexperience, #selfisolation, #classpassausnz, #marathontraining"
-  - username: "dani_byrnes"
-    fullname: >-
-      DANI | Gold Coast
-    location: "Australia"
-    followers: 23151
-    engagement: 536
-    commentsToLikes: 0.217467
-    id: ck8wggdjghb370j78993mys1i
-    verified: false
-    hashtags: "#14weeks, #sporttheunexpected, #reebokpartner, #babyboy"
   - username: "melbournefoodnerd"
     fullname: >-
       Adrian |Melbourne Food Blogger
     location: "Australia"
-    followers: 5599
-    engagement: 906
-    commentsToLikes: 0.451613
+    followers: 5704
+    engagement: 1002
+    commentsToLikes: 0.417512
     id: ck55n3llh5eax0i11hvpiifm6
     verified: false
-    hashtags: "#northside, #vegan, #sustainable, #flashback"
-  - username: "mama.duck.said"
+    hashtags: "#dairyfree, #sustainable, #flashback, #stayhome"
+  - username: "thelittlenutritionist"
     fullname: >-
-      Ange
+      Jenny Nguyen | Nutritionist
     location: "Australia"
-    followers: 27843
-    engagement: 151
-    commentsToLikes: 0.111561
-    id: ck14l4y00svk40i19l3ydxcow
+    followers: 2026
+    engagement: 1159
+    commentsToLikes: 0.096779
+    id: ckapaefhwvrrg0i78e1068lz1
     verified: false
-    hashtags: "#mango, #geelong, #food, #style"
-  - username: "walt_collins"
+    hashtags: "#buildyourbody, #chocolate, #recipeoftheday, #pbtoast"
+  - username: "teganpaigechapman"
     fullname: >-
-      Walt Collins
+      TEGAN | WEIGHTLOSS -36kgs 💪🏻
     location: "Australia"
-    followers: 22929
-    engagement: 342
-    commentsToLikes: 0.037118
-    id: ck137dn14b0s70i196rifcje9
+    followers: 211333
+    engagement: 252
+    commentsToLikes: 0.026171
+    id: ck0u87rse6nc50i196p5a66zx
     verified: false
-    hashtags: "#excavator, #martinis, #tennis, #pecks"
-  - username: "eleftherios_petrounias"
+    hashtags: "#snack, #traveltheworld, #fatfreezing, #bathingboxes"
+  - username: "joannaipsaros"
     fullname: >-
-      Eleftherios Petrounias
+      joanna ipsaros
     location: "Australia"
-    followers: 230094
-    engagement: 1144
-    commentsToLikes: 0.006343
-    id: ck0u0jhr0tyx70i19u2adiiva
-    verified: true
-    hashtags: "#letsdothis, #luck, #alterlife, #mercedesbenz"
-  - username: "melgreen_x"
-    fullname: >-
-      BIKINI PRO 👙 PEScience Athlete
-    location: "Australia"
-    followers: 49622
-    engagement: 107
-    commentsToLikes: 0.149294
-    id: ck6tykp8j4at90j71h28e8yqi
+    followers: 10267
+    engagement: 563
+    commentsToLikes: 0.188308
+    id: ck15rqywz999j0i196iwuffg3
     verified: false
-    hashtags: "#classycasual, #oxygenmagazine, #sunshine, #macros"
-  - username: "mohithir"
+    hashtags: "#makeup, #strong, #styleguide, #girlgym"
+  - username: "tegansteele_loves"
     fullname: >-
-      Mohit Hir
+      Tegan Steele 🦋
     location: "Australia"
-    followers: 65759
-    engagement: 299
-    commentsToLikes: 0.013097
-    id: ck8wfake6ff7v0j78bz97gdv0
+    followers: 27457
+    engagement: 70
+    commentsToLikes: 0.032390
+    id: ck6tm91177ebv0j719qjdawpi
     verified: false
-    hashtags: "#sweat, #smile, #tiktokaustralia, #wanderlust"
-  - username: "senseoffood"
+    hashtags: "#bigmac, #covid19, #gorgeousboy, #isolation"
+  - username: "jakewallwork"
     fullname: >-
-      Sense Of Food (SOF) | Faa
+      jakewallwork
     location: "Australia"
-    followers: 3103
-    engagement: 1041
-    commentsToLikes: 0.684354
-    id: ck55n3lix5e9o0i11pgi3ty9l
+    followers: 18577
+    engagement: 435
+    commentsToLikes: 0.016578
+    id: ck5hhurssa6h10i11o8t3bjvo
     verified: false
-    hashtags: "#japanesebun, #foodstagram, #squidink, #hongkongwaffles"
+    hashtags: "#battleofhastings, #tabletopchallenge, #fiseworld, #shoey"
+  - username: "unbeleafablefood"
+    fullname: >-
+      Jess - Vegan Food Melbourne
+    location: "Australia"
+    followers: 7112
+    engagement: 531
+    commentsToLikes: 0.475509
+    id: ck5c6i25y5hac0i1100fgq43o
+    verified: false
+    hashtags: "#melbournerestaurant, #nativeplants, #takeawaycoffee, #pizza"
+  - username: "hayleyvernon_"
+    fullname: >-
+      Hayley
+    location: "Australia"
+    followers: 59009
+    engagement: 457
+    commentsToLikes: 0.061722
+    id: ck6u3rux6zirc0j719s49gxry
+    verified: false
+    hashtags: "#brunette, #ride, #melbourne, #sundayfunday"
+  - username: "clairebonaccorso_ifbbpro"
+    fullname: >-
+      C B
+    location: "Australia"
+    followers: 88312
+    engagement: 99
+    commentsToLikes: 0.019097
+    id: ck6tuchc4fjqg0j718hfdyg42
+    verified: false
+    hashtags: "#homeworkout, #coaching, #roadtoo, #happyhumpday"
+  - username: "come.grill.with.me"
+    fullname: >-
+      Come Grill With Me
+    location: "Australia"
+    followers: 132327
+    engagement: 84
+    commentsToLikes: 0.052958
+    id: ck0vykgyv4g5u0i19orv3ynw9
+    verified: false
+    hashtags: "#woodfireoven, #ziggy, #carnivorediet, #camping"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top makeup Instagram influencers in Ukraine in 2020. Most popular hashtags: #makeupartist #makeup #eyemakeup #beauty.
+  Find top makeup Instagram influencers in Ukraine in 2020. Most popular hashtags: #makeupartist #makeuptutorial #dontrushchallenge #macroeye.
 platform: Instagram
 profiles:
   - username: "sulbieosmanova_makeup"
     fullname: >-
       СУЛЬБИЕ ОСМАНОВА
     location: "Ukraine"
-    followers: 30110
-    engagement: 609
-    commentsToLikes: 0.070832
+    followers: 29446
+    engagement: 635
+    commentsToLikes: 0.068737
     id: ck0u70jhm3jwh0i195vfuqdxs
     verified: false
-    hashtags: "#makeuplooks, #newyear2020, #sobeautylab, #soweddingdress"
-  - username: "antonova_makeup"
+    hashtags: "#dontrushchalleng, #qirimli, #dontrushchallenge, #ramadan2020"
+  - username: "maryanapetrushka"
     fullname: >-
-      💋 ᴀʟeɴᴀ ᴀɴᴛᴏɴᴏᴠᴀ  ᴍᴀᴋᴇ ᴜᴘ
+      MK_makeup
     location: "Ukraine"
-    followers: 63388
-    engagement: 231
-    commentsToLikes: 0.083494
-    id: ck6ufsondywxe0j7133ne0d9x
+    followers: 18954
+    engagement: 692
+    commentsToLikes: 0.162344
+    id: ck13a8i6gp5g10i19w4fo25rs
     verified: false
-    hashtags: "#makeupmoskow, #kimkardashianmakeup, #makeupnyc, #romanovamakeup"
-  - username: "vshehynska"
+    hashtags: "#nyxliner, #makeupchallenge, #closeupshots, #repeatmakeup"
+  - username: "simply_nastya"
     fullname: >-
-      🤍
+      
     location: "Ukraine"
-    followers: 2442
-    engagement: 1911
-    commentsToLikes: 0.077548
-    id: ck5hshta9wmhw0i11hwdv58ro
+    followers: 11313
+    engagement: 840
+    commentsToLikes: 0.098701
+    id: ckap7tw7qljl60i78gb2bcw7p
     verified: false
-    hashtags: "#makeup, #mua, #hairstyle, #hairstylist"
-  - username: "chudesasha"
+    hashtags: "#commercialmodel, #modellife, #homeparty, #coronameme"
+  - username: "egor_mua"
     fullname: >-
-      ФОТОГРАФ / ВИЗАЖИСТ | КИЕВ
+      Егор Андрюшин 🎨 Визажист Киев
     location: "Ukraine"
-    followers: 44021
-    engagement: 1527
-    commentsToLikes: 0.010805
-    id: ck0tys6nrntec0i197dcmn47w
+    followers: 91027
+    engagement: 1269
+    commentsToLikes: 0.021096
+    id: ck5cewhzalup80i11g2fam2iq
     verified: false
-    hashtags: "#makeupartist, #liner, #ravvebeauty, #norvinavol1"
-  - username: "_siempreteamo_"
+    hashtags: "#tiktok, #evelinecosmetics, #makeuptransformation, #drag"
+  - username: "sashakelbas"
     fullname: >-
-      Nataly☀️Ukraine🇺🇦💉Traveller🌎
+      Alexandra
     location: "Ukraine"
-    followers: 13380
-    engagement: 497
-    commentsToLikes: 0.118079
-    id: ck8t1p7okwiky0j78gns8dsm1
+    followers: 54733
+    engagement: 270
+    commentsToLikes: 0.177046
+    id: ck9whf2cvxkp80j78047kauuf
     verified: false
-    hashtags: "#kitty, #oceans, #seychelles, #modelshoot"
-  - username: "dushnaandriana"
+    hashtags: "#hudabeauty, #tomfordbeauty, #shiseidomakeup, #chanelbeauty"
+  - username: "krisdaniluk_makeup"
     fullname: >-
-      Andriana Dushna
+      ВІЗАЖИСТ 🔝ХРИСТИНА ДАНИЛЮК
     location: "Ukraine"
-    followers: 59197
-    engagement: 248
-    commentsToLikes: 0.042908
-    id: ck0w1vkw7lcge0i19tkg05ex0
+    followers: 22496
+    engagement: 378
+    commentsToLikes: 0.068188
+    id: ckaowpvsn9x8g0i78zpmz5agl
     verified: false
-    hashtags: "#liketime, #dushnaandriana"
-  - username: "anna_kondratenko"
-    fullname: >-
-      Анна
-    location: "Ukraine"
-    followers: 106697
-    engagement: 400
-    commentsToLikes: 0.019079
-    id: ck5c3koxvzins0i11wxj0hnha
-    verified: false
-    hashtags: "#yoins, #yoinsstyle"
-  - username: "_gul.besheker_"
-    fullname: >-
-      🦋Gulhanie Chelebi🦋
-    location: "Ukraine"
-    followers: 11170
-    engagement: 971
-    commentsToLikes: 0.011129
-    id: ck5q58grprsfo0i11rrw3bjyz
-    verified: false
-    hashtags: "#weddingmuhammedalie"
-  - username: "tavianise"
-    fullname: >-
-      TaVi Anise
-    location: "Ukraine"
-    followers: 27114
-    engagement: 369
-    commentsToLikes: 0.014261
-    id: ck13b0z9bt5lg0i19avxwhoh9
-    verified: false
-    hashtags: "#gipsy, #vintageclothing, #lookoftheday, #vintageglamour"
+    hashtags: ""
   - username: "mua.matveyeva"
     fullname: >-
       Anna Matveyeva • Анна Матвеева
     location: "Ukraine"
-    followers: 34401
-    engagement: 225
-    commentsToLikes: 0.022411
+    followers: 34709
+    engagement: 250
+    commentsToLikes: 0.115588
     id: ck5hcs719jp990i11qfk2cdb8
     verified: false
-    hashtags: "#muaawesome, #inglot, #weddingmakeup, #annamatveeva"
+    hashtags: "#phone, #fashionmakeup, #pigments, #skin"
+  - username: "blyskitka"
+    fullname: >-
+      Natalia | Self-taught MUA
+    location: "Ukraine"
+    followers: 23550
+    engagement: 1530
+    commentsToLikes: 0.016611
+    id: ck8t2y1gn14vg0j78onm23xv3
+    verified: false
+    hashtags: "#nyxcosmeticsfacechart, #colourpopme"
+  - username: "vshehynska"
+    fullname: >-
+      𝒱𝑒𝓇𝑜𝓃𝒾𝓀𝒶🤍
+    location: "Ukraine"
+    followers: 2455
+    engagement: 1944
+    commentsToLikes: 0.075866
+    id: ck5hshta9wmhw0i11hwdv58ro
+    verified: false
+    hashtags: "#hairstylist, #model, #vogue, #modeling"
+  - username: "anna_kondratenko"
+    fullname: >-
+      Анна
+    location: "Ukraine"
+    followers: 112063
+    engagement: 305
+    commentsToLikes: 0.028130
+    id: ck5c3koxvzins0i11wxj0hnha
+    verified: false
+    hashtags: "#yoinsstyle, #dontrush, #dontrushchallenge, #makeupartist"
 ---

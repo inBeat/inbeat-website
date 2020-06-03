@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Sydney In 2020
 description: >-
-  Find top architecture Instagram influencers in Sydney in 2020. Most popular hashtags: #architecture #australianarchitecture #sydney #australia.
+  Find top architecture Instagram influencers in Sydney in 2020. Most popular hashtags: #architecture #sydneyharbour #stayhome #sunset.
 platform: Instagram
 profiles:
-  - username: "markpoulierart"
+  - username: "durbachblockjaggers"
     fullname: >-
-      Architecture in pen & ink
+      Durbach Block Jaggers
     location: "Australia"
-    followers: 209518
-    engagement: 343
-    commentsToLikes: 0.006572
-    id: ck135syk932st0i19vsv9vsco
+    followers: 13187
+    engagement: 681
+    commentsToLikes: 0.025034
+    id: ck5zsviymz9fn0i14o709b1uf
     verified: false
-    hashtags: "#1990, #quiz, #melfi, #sketching"
+    hashtags: "#durbachblockjaggers, #triasstudio, #penrithcity, #phoenixcentralpark"
   - username: "trias.studio"
     fullname: >-
       T R I A S
     location: "Australia"
-    followers: 20904
-    engagement: 349
-    commentsToLikes: 0.009745
+    followers: 21449
+    engagement: 342
+    commentsToLikes: 0.008104
     id: ck14lh4ybun920i19mdzvcsx0
     verified: false
-    hashtags: "#architecturematerials, #crosslaminatedtimber, #australiandesign, #architecturemodel"
-  - username: "george_hall_art"
+    hashtags: "#tombabrion, #covid, #americanarchitecture, #byronbayarchitects"
+  - username: "julian.fares"
     fullname: >-
-      George Hall
+      Julian Fares
     location: "Australia"
-    followers: 35607
-    engagement: 167
-    commentsToLikes: 0.034268
-    id: ck0u8rmd7834o0i19pax1zrhy
+    followers: 5028
+    engagement: 2697
+    commentsToLikes: 0.024145
+    id: ck8t0r6v9szp40j78h7oprhfg
     verified: false
-    hashtags: "#abstractseascape, #expressionism, #new, #artnow"
+    hashtags: "#covid19, #australia, #melbourne, #nature"
   - username: "robmillsarchitects"
     fullname: >-
       Rob Mills Architects
     location: "Australia"
-    followers: 55140
-    engagement: 99
-    commentsToLikes: 0.013687
+    followers: 57913
+    engagement: 106
+    commentsToLikes: 0.014370
     id: ck5c5mjjc3rbq0i11kk3xy9uk
     verified: false
-    hashtags: "#career, #architecture, #robmills, #naturallight"
+    hashtags: "#naturalmaterial, #familyliving, #ceramics, #luxuryinteriros"
   - username: "peterbbennetts"
     fullname: >-
       Peter Bennetts
     location: "Australia"
-    followers: 14016
-    engagement: 291
-    commentsToLikes: 0.024613
+    followers: 15773
+    engagement: 324
+    commentsToLikes: 0.025530
     id: ck8t3zi5e51ri0j78mrcgjssq
     verified: false
-    hashtags: "#redwood, #sydneyharbour, #hassellstudio, #oma"
-  - username: "darkchest"
+    hashtags: "#inpraiseofshadows, #carlomollino, #bluespointtower, #niseko"
+  - username: "george_hall_art"
     fullname: >-
-      🅹🅾🅴 🅳🅰🆁🅺🅲🅷🅴🆂🆃 🅿🅷🅾🆃🅾🅶🆁🅰🅿🅷🆈🇪🇸📷🇦🇺
+      George Hall
     location: "Australia"
-    followers: 14367
-    engagement: 704
-    commentsToLikes: 0.036954
-    id: ck0w11wvqh5su0i19der4vmkv
+    followers: 38407
+    engagement: 160
+    commentsToLikes: 0.022865
+    id: ck0u8rmd7834o0i19pax1zrhy
     verified: false
-    hashtags: "#cntraveler, #kings, #urbexchampions, #abandonedplane"
-  - username: "alexander_andco"
+    hashtags: "#artsanity, #intuitivepainting, #largescalepainting, #architecturalart"
+  - username: "marlenesilver"
     fullname: >-
-      Alexander &CO.
+      MARLENE SILVER
     location: "Australia"
-    followers: 41654
-    engagement: 135
-    commentsToLikes: 0.018042
-    id: ck15t9irdgzsj0i193yl0tloa
+    followers: 18218
+    engagement: 116
+    commentsToLikes: 0.040379
+    id: ck6u3i89zxxqc0j71a3qhic93
     verified: false
-    hashtags: "#visitgoldcoast, #bedroomstyle, #artworks, #bondibeach"
-  - username: "foraggiophotographic"
+    hashtags: "#eyes, #fashionlook, #travelers, #congobars"
+  - username: "needtoroam"
     fullname: >-
-      Foraggio Photographic
+      Brian
     location: "Australia"
-    followers: 33310
-    engagement: 101
-    commentsToLikes: 0.017214
-    id: ck5px3wotpz330i11tie7293w
+    followers: 7107
+    engagement: 1283
+    commentsToLikes: 0.065215
+    id: ck8t9e9vgnrr40j78zs5pdima
     verified: false
-    hashtags: "#architecturelovers, #sydneylocal, #bushfires, #commute"
-  - username: "nearmap"
-    fullname: >-
-      Nearmap
-    location: "Australia"
-    followers: 32897
-    engagement: 254
-    commentsToLikes: 0.005711
-    id: ck0twdqwrf1r80i19e12exrzt
-    verified: false
-    hashtags: "#aerial, #california, #patterns, #orange"
+    hashtags: "#tromso, #boraborabeach, #instabolivia, #oceanview"
   - username: "aliceroberts_"
     fullname: >-
       |ALICE PAOLI ROBERTS|
     location: "Australia"
-    followers: 488089
-    engagement: 268
-    commentsToLikes: 0.018653
+    followers: 480870
+    engagement: 243
+    commentsToLikes: 0.016555
     id: ck0tsjiet01lz0i19z0yvxx03
     verified: false
-    hashtags: "#return2lurline, #whitefoxoasis"
+    hashtags: "#whitefoxoasis"
+  - username: "christinaplay"
+    fullname: >-
+      CHRISTINA
+    location: "Australia"
+    followers: 61851
+    engagement: 151
+    commentsToLikes: 0.069283
+    id: ck6tt4uzh8m0b0j716j3egmpo
+    verified: false
+    hashtags: "#glow, #roomdecor, #pool, #firstchristmas"
 ---

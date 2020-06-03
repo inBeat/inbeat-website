@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top gardening Instagram influencers in United Kingdom in 2020. Most popular hashtags: #gardening #organicgardening #growyourownfood #growyourown.
+  Find top gardening Instagram influencers in United Kingdom in 2020. Most popular hashtags: #mygardentoday #gardenfurniture #styleithappy #gardenlife.
 platform: Instagram
 profiles:
-  - username: "simply.weekend"
+  - username: "shegrowsveg"
     fullname: >-
-      Phoebe Miller
+      Lucy Start
     location: "United Kingdom"
-    followers: 28008
-    engagement: 294
-    commentsToLikes: 0.076729
-    id: ck6u6hc3hflev0j71sjmj7n7i
+    followers: 82277
+    engagement: 195
+    commentsToLikes: 0.050606
+    id: ck0w02aegc17l0i194a49dvub
     verified: false
-    hashtags: "#loafershomes, #thatsdarlingweekend, #schnauzer, #magnolia"
-  - username: "allotmentnotebook"
+    hashtags: "#hydroponic, #hack, #livehealthy, #aphids"
+  - username: "homeatthefarmhouse"
     fullname: >-
-      Natalie 👩🏻‍🌾
+      • J O •
     location: "United Kingdom"
-    followers: 6081
-    engagement: 462
-    commentsToLikes: 0.074885
-    id: ck0vzgun0918f0i19qho4ba8g
+    followers: 6364
+    engagement: 1455
+    commentsToLikes: 0.096001
+    id: ckapbdvcxzjv90i78x9ou5t96
     verified: false
-    hashtags: "#allotmentlife, #inmygarden, #mygardentoday, #greetthegrower"
+    hashtags: "#periodhome, #bakingscones, #gardenflowers, #lovecowparsley"
+  - username: "littlehouseinlondon"
+    fullname: >-
+      Amy Davies Pereira
+    location: "United Kingdom"
+    followers: 82876
+    engagement: 437
+    commentsToLikes: 0.374387
+    id: ck0uco0m3h9rj0i199nqa8b2h
+    verified: false
+    hashtags: "#kitchenchat, #pewithjoe, #rattanfurniture, #decking"
   - username: "belleskitchenph"
     fullname: >-
       Belle’s Kitchen PH
     location: "United Kingdom"
-    followers: 10870
-    engagement: 625
-    commentsToLikes: 0.061421
+    followers: 17874
+    engagement: 468
+    commentsToLikes: 0.068996
     id: ck8t3vevf4mzm0j78w8x1impa
     verified: false
-    hashtags: "#filipinofoodie, #quarantinefood, #quarantinestories, #pagkaingpinoy"
+    hashtags: "#newnormal, #tiktok, #pineapple, #lechonbelly"
+  - username: "simply.weekend"
+    fullname: >-
+      Phoebe Miller
+    location: "United Kingdom"
+    followers: 29866
+    engagement: 306
+    commentsToLikes: 0.049760
+    id: ck6u6hc3hflev0j71sjmj7n7i
+    verified: false
+    hashtags: "#lilacgin, #bedroominspo, #shopstamford, #countryfile"
+  - username: "1894home"
+    fullname: >-
+      Sophia
+    location: "United Kingdom"
+    followers: 6181
+    engagement: 1018
+    commentsToLikes: 0.045685
+    id: ckapblgx50bvp0i78n3upulzw
+    verified: false
+    hashtags: "#juterug, #tongueandgroove, #smallgardens, #renovating"
+  - username: "cherryoakmanor"
+    fullname: >-
+      Home Decor 🇬🇧 Karen
+    location: "United Kingdom"
+    followers: 58263
+    engagement: 306
+    commentsToLikes: 0.382131
+    id: ck13a8wt7p7fu0i19uxpy0lse
+    verified: false
+    hashtags: "#jottified, #luxurybedding, #selfcareday, #bathroomstyling"
   - username: "ourlittlechurchcottage"
     fullname: >-
       Our Little Church Cottage
     location: "United Kingdom"
-    followers: 37814
-    engagement: 493
-    commentsToLikes: 0.141484
+    followers: 41222
+    engagement: 617
+    commentsToLikes: 0.214252
     id: ck0w2gdjdo8a30i19bo9uyafl
     verified: false
-    hashtags: "#homesofinstagram, #bathroominspiration, #throughthewindow, #howwelive"
+    hashtags: "#kitchendesign, #peonyseason, #interioraddict, #countrylife"
+  - username: "englishcountryhelen"
+    fullname: >-
+      Helen
+    location: "United Kingdom"
+    followers: 3376
+    engagement: 1659
+    commentsToLikes: 0.063137
+    id: ckaovp3pq5jhr0i78n6pt075v
+    verified: false
+    hashtags: ""
   - username: "noughticulture"
     fullname: >-
       Alice Vincent
     location: "United Kingdom"
-    followers: 25301
-    engagement: 211
-    commentsToLikes: 0.067828
+    followers: 30224
+    engagement: 224
+    commentsToLikes: 0.063135
     id: ck0tuwjls8zox0i19atlog6m5
     verified: false
-    hashtags: "#staygardening, #saveprospectcottage, #rootboundbook, #libariesofinstagram"
-  - username: "sophiespatch"
-    fullname: >-
-      Sophie Thomson@Sophies Patch
-    location: "United Kingdom"
-    followers: 28326
-    engagement: 368
-    commentsToLikes: 0.026424
-    id: ck5cbdalsf7iw0i11p4lmgy3u
-    verified: false
-    hashtags: "#sweetpeamatucana, #fireaffectedcommunities, #regrowthgardenrecovery, #havingfun"
-  - username: "paulbommer"
-    fullname: >-
-      Paul Bommer
-    location: "United Kingdom"
-    followers: 10646
-    engagement: 536
-    commentsToLikes: 0.048634
-    id: ck5cd2pbmifos0i11g8wesn3t
-    verified: false
-    hashtags: "#totentanz, #hairybutt, #pleasingcracks, #posado"
-  - username: "mudnbloom"
-    fullname: >-
-      Mud & Bloom
-    location: "United Kingdom"
-    followers: 17914
-    engagement: 214
-    commentsToLikes: 0.107494
-    id: ck13857qheji80i19fbeubty5
-    verified: false
-    hashtags: "#kilvebeach, #gardeningwithchildren, #birdfeeder, #stickcrafts"
-  - username: "organicgardenermag"
-    fullname: >-
-      ABC Organic Gardener Magazine
-    location: "United Kingdom"
-    followers: 45790
-    engagement: 95
-    commentsToLikes: 0.021229
-    id: ck5q3024jil1r0i118geokvak
-    verified: false
-    hashtags: "#amazinggardens, #abcgardeningaustralia, #goorganic, #wombats"
-  - username: "gardens_illustrated"
-    fullname: >-
-      Gardens Illustrated
-    location: "United Kingdom"
-    followers: 39645
-    engagement: 356
-    commentsToLikes: 0.009560
-    id: ck138sthjhucs0i19j3p9w1c8
-    verified: false
-    hashtags: "#smallgardens, #derekjarman, #design, #houses"
+    hashtags: "#staygardening, #girlswhogrow, #smallspacegardening, #readinghour"
 ---

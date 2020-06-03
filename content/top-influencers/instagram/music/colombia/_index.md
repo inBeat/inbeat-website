@@ -1,107 +1,107 @@
 ---
 title: Top 10 Music Instagram Influencers In Colombia In 2020
 description: >-
-  Find top music Instagram influencers in Colombia in 2020. Most popular hashtags: #colombia #demasiadotarde #musica #tbt.
+  Find top music Instagram influencers in Colombia in 2020. Most popular hashtags: #tbt #medellin #gibson #mexico.
 platform: Instagram
 profiles:
+  - username: "_zenzei_"
+    fullname: >-
+      Z E N Z E I
+    location: "Colombia"
+    followers: 46429
+    engagement: 973
+    commentsToLikes: 0.058436
+    id: ck0tvvhv3cyw60i19e11u8igh
+    verified: false
+    hashtags: "#pegao, #repost, #adn, #zen"
+  - username: "sebasmusic1"
+    fullname: >-
+      Sebastián Peñaloza
+    location: "Colombia"
+    followers: 44780
+    engagement: 593
+    commentsToLikes: 0.087530
+    id: ck14iursgh8s90i190sgvld99
+    verified: false
+    hashtags: "#elreydelsapolapelicula, #tbt, #throwbackthursday, #yomequedoencasa"
   - username: "geogymills"
     fullname: >-
       Geogy Mills
     location: "Colombia"
-    followers: 31834
-    engagement: 660
-    commentsToLikes: 0.093290
+    followers: 31791
+    engagement: 638
+    commentsToLikes: 0.105406
     id: ck6u99adaw7vd0j71ke0h4f02
     verified: false
-    hashtags: "#memphis, #srv, #tucomovives, #direstraits"
-  - username: "sebasmusic1"
+    hashtags: "#wonderboom2, #memphis, #srv, #moneyfornothing"
+  - username: "santymolinab"
     fullname: >-
-      Sebastián Peñaloza
+      Santy Molina
     location: "Colombia"
-    followers: 44602
-    engagement: 578
-    commentsToLikes: 0.087157
-    id: ck14iursgh8s90i190sgvld99
+    followers: 31517
+    engagement: 626
+    commentsToLikes: 0.139923
+    id: ck6u1mo66mnlf0j71nr3mvdtf
     verified: false
-    hashtags: "#tbt, #throwbackthursday"
-  - username: "camilocampoo"
-    fullname: >-
-      Camilo Campo ♛
-    location: "Colombia"
-    followers: 32365
-    engagement: 556
-    commentsToLikes: 0.070132
-    id: ck5ch3wu8q2g60i11h6usuo9e
-    verified: false
-    hashtags: "#happynewyear, #medellin, #guaracha, #novios"
+    hashtags: "#stayathome, #seguimosporm, #modoangeldemivida, #ustedessonlomejor"
   - username: "ferlemdavid"
     fullname: >-
       F E R
     location: "Colombia"
-    followers: 62420
-    engagement: 438
-    commentsToLikes: 0.084488
+    followers: 62012
+    engagement: 451
+    commentsToLikes: 0.081930
     id: ck14iuvt4h9bu0i19izvkha8f
     verified: false
     hashtags: "#buenosaires, #argentina, #perreo"
-  - username: "amandapatricia_oficial"
+  - username: "camilocampoo"
     fullname: >-
-      Amanda Patricia
+      Camilo Campo ♛
     location: "Colombia"
-    followers: 53547
-    engagement: 397
-    commentsToLikes: 0.044752
-    id: ck6ty85z427m70j71t6yz424b
+    followers: 37053
+    engagement: 450
+    commentsToLikes: 0.069112
+    id: ck5ch3wu8q2g60i11h6usuo9e
     verified: false
-    hashtags: "#coronavirus, #mujerexitosa, #colombiana, #colombianas"
-  - username: "anaisvivas"
+    hashtags: "#diciembre, #giveawaytime, #guatape, #sorteointernacional"
+  - username: "trianaoficial_"
     fullname: >-
-      Anais Vivas
+      Triana
     location: "Colombia"
-    followers: 80277
-    engagement: 169
-    commentsToLikes: 0.049129
-    id: ck5ckmr0rx6yq0i11nxusl26p
-    verified: true
-    hashtags: "#tuamorparanavidad, #fiestademiami, #14sinti"
-  - username: "niksalazar"
-    fullname: >-
-      Nik Salazar
-    location: "Colombia"
-    followers: 25156
-    engagement: 234
-    commentsToLikes: 0.073599
-    id: ck15sxojcfbuk0i19io6cd325
+    followers: 150412
+    engagement: 310
+    commentsToLikes: 0.053618
+    id: ck0w4c2z4xu420i19hr0xo6l4
     verified: false
-    hashtags: "#caliescali, #conmigo, #napster, #elite"
-  - username: "karlawoficial"
+    hashtags: "#trianamusic, #microfono, #despecho, #motivacion"
+  - username: "omar_cascante"
     fullname: >-
-      KARLA W
+      Omar Cascante
     location: "Colombia"
-    followers: 34027
-    engagement: 472
-    commentsToLikes: 0.027198
-    id: ck134jhsnwqdo0i19jyjdielr
+    followers: 210794
+    engagement: 244
+    commentsToLikes: 0.038801
+    id: ck6u108ypisa90j71340k7ayf
     verified: false
-    hashtags: "#new, #bogota, #ukulele, #cute"
-  - username: "caritoagudelo"
+    hashtags: "#terapia, #sobredosruedas, #cafeterodecoraz, #complacenciasalinstante"
+  - username: "bryanpopular"
     fullname: >-
-      Carito Agudelo Baena
+      BRYAN MUÑOZ
     location: "Colombia"
-    followers: 116386
-    engagement: 514
-    commentsToLikes: 0.015965
-    id: ck14ixafahkrz0i19uv3unaeo
+    followers: 30700
+    engagement: 280
+    commentsToLikes: 0.097736
+    id: ck5bxui0cofsz0i11qozr1uqu
     verified: false
-    hashtags: "#2019, #sisters, #australia, #drinkingwine"
-  - username: "tezzel"
+    hashtags: "#sortilegiodeyarumalito, #loheperdidotodo, #unidosporsaman, #memorias"
+  - username: "lumaraparra"
     fullname: >-
-      Tezzel
+      Lumara Parra Henriquez
     location: "Colombia"
-    followers: 29721
-    engagement: 406
-    commentsToLikes: 0.032605
-    id: ck0vzsyeaaray0i19tczuupi8
+    followers: 9272
+    engagement: 1132
+    commentsToLikes: 0.039986
+    id: ck6tn4ltj94j90j71l6spjy6g
     verified: false
-    hashtags: "#outnow, #latingrammy, #08, #14"
+    hashtags: "#laguacherna2020"
 ---

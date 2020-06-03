@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Vancouver In 2020
 description: >-
-  Find top vegan Instagram influencers in Vancouver in 2020. Most popular hashtags: #vegan #vancouverbc #stayhome #vancity.
+  Find top vegan Instagram influencers in Vancouver in 2020. Most popular hashtags: #vegan #foodphotography #stayhome #vancouver.
 platform: Instagram
 profiles:
-  - username: "thechicacademic"
+  - username: "hairbyshawna_russell"
     fullname: >-
-      Dr. Mary M. | Ottawa 🇨🇦
+      SHAWNA RUSSELL
     location: "Canada"
-    followers: 18618
-    engagement: 474
-    commentsToLikes: 0.246249
-    id: ck5zv1sil3fqm0i14favxtahy
+    followers: 71003
+    engagement: 107
+    commentsToLikes: 0.048297
+    id: ck0u28a7ez5m00i19c3ktpyne
     verified: false
-    hashtags: "#canadianmusician, #chicover50, #vicktorandrolf, #anxiety"
+    hashtags: "#hairinspo, #giveaway, #morevibramce, #reversebalayage"
   - username: "naomikingofficial"
     fullname: >-
       Naomi King
     location: "Canada"
-    followers: 11255
-    engagement: 466
-    commentsToLikes: 0.037504
+    followers: 11338
+    engagement: 509
+    commentsToLikes: 0.032813
     id: ck5heggxyss1y0i115qyylh0v
     verified: false
-    hashtags: "#arthastheballpython, #ballpython, #blueeyedleucistic, #blueeyedlucy"
+    hashtags: "#ballpython, #blueeyedleucistic, #blueeyedlucy, #arthastheballpython"
   - username: "jenninaturally"
     fullname: >-
       Jenni
     location: "Canada"
-    followers: 19458
-    engagement: 228
-    commentsToLikes: 0.030696
+    followers: 19529
+    engagement: 249
+    commentsToLikes: 0.035739
     id: ck5pxy5ujtfiu0i11dr3f9fwe
     verified: false
     hashtags: ""
-  - username: "lisettexavier"
+  - username: "foodandtravel604"
     fullname: >-
-      Lisette Xavier
+      Food and Travel
     location: "Canada"
-    followers: 2950
-    engagement: 1306
-    commentsToLikes: 0.189631
-    id: ck5c5vr7x48mj0i112ixp2if7
+    followers: 13377
+    engagement: 696
+    commentsToLikes: 0.205303
+    id: ck138x7shigs40i19oj5wswde
     verified: false
-    hashtags: "#tourlife, #musician, #yycart, #calgary"
-  - username: "willow_faith"
+    hashtags: "#solowalk, #foodheaven, #drinks, #whitesangria"
+  - username: "monika.deol"
     fullname: >-
-      Willow Faith
+      Monika Deol
     location: "Canada"
-    followers: 24689
-    engagement: 670
-    commentsToLikes: 0.040987
-    id: ck14j1b8ri4qm0i19esnfl3b3
+    followers: 3908
+    engagement: 946
+    commentsToLikes: 0.099643
+    id: ck0vx6om4xeto0i19crecycj9
     verified: false
-    hashtags: "#sponsored, #foodmadefromfood, #toronto, #seetorontonow"
-  - username: "georgiastraight"
-    fullname: >-
-      Georgia Straight
-    location: "Canada"
-    followers: 50352
-    engagement: 61
-    commentsToLikes: 0.019215
-    id: ck5zzh213bq680i14bmsmfwk2
-    verified: false
-    hashtags: "#homecooking, #gaming, #facemask, #homedesign"
-  - username: "tofuelled"
-    fullname: >-
-      Georjah Erin - TOFUelled
-    location: "Canada"
-    followers: 3056
-    engagement: 1577
-    commentsToLikes: 0.047287
-    id: ck6uho0txa8bu0j7174fd351w
-    verified: false
-    hashtags: "#lowrider, #birthdaycake, #arizonasupershow, #smokegrenades"
+    hashtags: "#youpeople, #older, #queenofpunjabicinema, #muchmusic"
   - username: "anna.pelzer"
     fullname: >-
       Anna Pelzer
     location: "Canada"
-    followers: 48064
-    engagement: 537
-    commentsToLikes: 0.111066
+    followers: 47458
+    engagement: 546
+    commentsToLikes: 0.110543
     id: ck0vyfh7h3pxd0i19f9anakj4
     verified: false
-    hashtags: "#planteater, #nourishyourbody, #eatyourcolors, #veganvideos"
-  - username: "potspotting"
+    hashtags: "#playwithyourfood, #veganprotein, #tahini, #coconutbowls"
+  - username: "skyeshealthyeats"
     fullname: >-
-      potspotting 🗺|travel&eating 🍔
+      S K Y E’ S   E A T S
     location: "Canada"
-    followers: 4537
-    engagement: 668
-    commentsToLikes: 0.060911
-    id: ck14i23bld99w0i19hsqkymp2
-    verified: false
-    hashtags: "#loveisallyouneed, #traveltoeat, #balicili, #tacotuesday"
-  - username: "edenvonweiss"
-    fullname: >-
-      E D E N🕊
-    location: "Canada"
-    followers: 7126
+    followers: 6284
     engagement: 1427
-    commentsToLikes: 0.062527
-    id: ck602s8ixiv670i14ere9mjlx
+    commentsToLikes: 0.184846
+    id: ck6u7wy7oo52k0j716abyd4z5
     verified: false
-    hashtags: "#butterglosspop, #onlineclass, #bringitback, #learningtodog"
+    hashtags: ""
+  - username: "veroniqi"
+    fullname: >-
+      Veroniqi Hanssen
+    location: "Canada"
+    followers: 51651
+    engagement: 246
+    commentsToLikes: 0.021234
+    id: ck55jq4apxjlm0i11i3a18bpv
+    verified: false
+    hashtags: "#proshoveler, #vancouver, #ridelocal, #2021"
+  - username: "crumbs.and.caramel"
+    fullname: >-
+      Bronwyn | Crumbs & Caramel
+    location: "Canada"
+    followers: 18751
+    engagement: 437
+    commentsToLikes: 0.090274
+    id: ck0vxdzzyyfjz0i19vplcc41v
+    verified: false
+    hashtags: "#makeittogether, #beignets, #misoramen, #forkfeed"
+  - username: "delscookingtwist"
+    fullname: >-
+      Del | Del's cooking twist
+    location: "Canada"
+    followers: 30910
+    engagement: 214
+    commentsToLikes: 0.050280
+    id: ck0w1z6vgluw10i19eon4yu2k
+    verified: false
+    hashtags: "#forkfeed, #newborn, #kiddos, #instafriends"
 ---

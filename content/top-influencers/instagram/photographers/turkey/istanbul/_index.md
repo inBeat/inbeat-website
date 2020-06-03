@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Istanbul In 2020
 description: >-
-  Find top photographers Instagram influencers in Istanbul in 2020. Most popular hashtags: #istanbul #turkey #sunset #streetphotography.
+  Find top photographers Instagram influencers in Istanbul in 2020. Most popular hashtags: #photographer #istanbul #evdekal #instagood.
 platform: Instagram
 profiles:
   - username: "ugurdemir"
     fullname: >-
       Ugur Demir
     location: "Turkey"
-    followers: 58983
-    engagement: 460
-    commentsToLikes: 0.021267
+    followers: 58738
+    engagement: 463
+    commentsToLikes: 0.022126
     id: ck139uhyxn6cj0i19r349dcfa
     verified: false
-    hashtags: "#evdekal"
+    hashtags: "#evdekal, #zoom, #stayhome"
   - username: "aozturk.photo"
     fullname: >-
       Photographer. Istanbul,Turkey.
     location: "Turkey"
-    followers: 8847
-    engagement: 528
-    commentsToLikes: 0.056256
+    followers: 8782
+    engagement: 548
+    commentsToLikes: 0.052348
     id: ck5hp6tq8quoc0i11wfexq2r2
     verified: false
     hashtags: ""
-  - username: "danisaadatiphoto"
-    fullname: >-
-      Young God Images
-    location: "Turkey"
-    followers: 29756
-    engagement: 292
-    commentsToLikes: 0.053058
-    id: ck135nuhi2c580i19v2kl9ojn
-    verified: false
-    hashtags: "#couplephotography, #styleblogger, #coupleshoot, #streetwear"
-  - username: "yelizgazanferphotography"
-    fullname: >-
-      Yeliz Gazanfer
-    location: "Turkey"
-    followers: 5201
-    engagement: 856
-    commentsToLikes: 0.240492
-    id: ck8t1xgw4xfko0j78vnptcecx
-    verified: false
-    hashtags: "#kutupayilaribozulma, #silhouette, #sublimestreet, #womenstreetphotographers"
   - username: "ahmetshhn"
     fullname: >-
       Ahmet Şahin
     location: "Turkey"
-    followers: 16917
-    engagement: 983
-    commentsToLikes: 0.023657
+    followers: 17602
+    engagement: 950
+    commentsToLikes: 0.024068
     id: ck0txqqnpk6pd0i19erzr1yto
     verified: false
-    hashtags: "#canon, #emin, #catsofinstagram, #beylerbeyi"
+    hashtags: "#ayasofya, #sultanahmet, #kuzguncuk, #tramvay"
   - username: "mehmetshhn"
     fullname: >-
       Mehmet Ali Şahin
     location: "Turkey"
-    followers: 57861
-    engagement: 643
-    commentsToLikes: 0.028138
+    followers: 58880
+    engagement: 603
+    commentsToLikes: 0.029252
     id: ck0txqqprk6qm0i19k6qsw3b6
     verified: false
-    hashtags: "#istanbul, #sultanahmet, #evdekal, #stayhome"
+    hashtags: "#ayasofya, #ortak, #ayafosya, #sunrise"
   - username: "olayseven"
     fullname: >-
       Olay Seven
     location: "Turkey"
-    followers: 304969
-    engagement: 152
-    commentsToLikes: 0.026024
+    followers: 306970
+    engagement: 162
+    commentsToLikes: 0.025819
     id: ck0uadqvnc2060i191j8okuhx
     verified: false
-    hashtags: "#lake, #istanbul, #hellofrom, #galata"
-  - username: "emrephoto1907"
+    hashtags: "#arizona, #covid, #plotagraph, #phuket"
+  - username: "ismailgokbulut"
     fullname: >-
-      Emre
+      İsmail GÖKBULUT/Kuş Fotoğraf
     location: "Turkey"
-    followers: 9556
-    engagement: 2307
-    commentsToLikes: 0.123648
-    id: ck6txpvz8z6os0j71p46l8jcj
+    followers: 6288
+    engagement: 1098
+    commentsToLikes: 0.020783
+    id: ck8t1yigaxjw90j785owudqjt
     verified: false
-    hashtags: "#bumerangphoto, #kids, #natgeo, #8marchwomensday"
-  - username: "picsbylevo"
+    hashtags: "#birdplanet, #birdshots, #birdcaptures, #birdpics"
+  - username: "alpertorunn"
     fullname: >-
-      Pictures By Levo
+      Alper Torun
     location: "Turkey"
-    followers: 2167
-    engagement: 5115
-    commentsToLikes: 0.232767
-    id: ck0w2zy1iqxxr0i19jkwnl7qw
+    followers: 268229
+    engagement: 122
+    commentsToLikes: 0.022944
+    id: ckaot5m1muhe60i7816faz4cg
     verified: false
-    hashtags: "#igkids, #fotografemekcileri, #streetlife, #sunsetlovers"
-  - username: "ssemafarmasi"
+    hashtags: "#libertybridge, #istanbul"
+  - username: "shadiful"
     fullname: >-
-      FarmasiDenizli
+      Shadi 🤙🏽
     location: "Turkey"
-    followers: 5393
-    engagement: 686
-    commentsToLikes: 0.306845
-    id: ck8t9f1hhnul90j78ikxi3tbh
+    followers: 18340
+    engagement: 591
+    commentsToLikes: 0.048835
+    id: ck8syvbphm5ht0j781vilbprl
     verified: false
-    hashtags: "#bloggerkesiftagi, #makeuptutorial, #makeuptricks, #cosmetics"
+    hashtags: "#dancefloor, #alanya, #technolovers, #technolove"
+  - username: "ebru_kcr"
+    fullname: >-
+      Ebru Kaçar Photography
+    location: "Turkey"
+    followers: 4089
+    engagement: 2010
+    commentsToLikes: 0.118523
+    id: ck6u706d6iplg0j71m18fkds2
+    verified: false
+    hashtags: "#23nisan, #childeren, #italy, #indonesia"
+  - username: "enskpc"
+    fullname: >-
+      Enes Küpcü
+    location: "Turkey"
+    followers: 5924
+    engagement: 1943
+    commentsToLikes: 0.012314
+    id: ck5q7s9712vxa0i11fr7eo0bd
+    verified: false
+    hashtags: "#fotograf, #afilia, #repost, #naturephotography"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In New York In 2020
 description: >-
-  Find top fashion Instagram influencers in New York in 2020. Most popular hashtags: #fashion #newyork #nyc #ootd.
+  Find top fashion Instagram influencers in New York in 2020. Most popular hashtags: #fashion #newyorkcity #newyork #love.
 platform: Instagram
 profiles:
-  - username: "oliviacella"
+  - username: "tatyana_nagayeva"
     fullname: >-
-      Olivia Cella
+      Tatyana Nagaeva
     location: "United States"
-    followers: 25510
-    engagement: 280
-    commentsToLikes: 0.077141
-    id: ck5q45b96nu4f0i11mgdyrpmh
+    followers: 12714
+    engagement: 1025
+    commentsToLikes: 0.024131
+    id: ck15pkeyuybkp0i191g3y2beq
     verified: false
-    hashtags: "#model, #musicvideo, #travelphotography, #travel"
-  - username: "sylviesausse"
-    fullname: >-
-      S Y L V I E     S A U S S E
-    location: "United States"
-    followers: 5394
-    engagement: 678
-    commentsToLikes: 0.062588
-    id: ck6to4n1hc2es0j71m6zoe76q
-    verified: false
-    hashtags: "#2020, #newyork, #fashionshow, #ss2020collection"
-  - username: "monicaaksamit"
-    fullname: >-
-      🇺🇸MONICA AKSAMIT🇵🇱
-    location: "United States"
-    followers: 106978
-    engagement: 349
-    commentsToLikes: 0.094655
-    id: ck5hkgpctidz40i1124zlj0g9
-    verified: true
-    hashtags: "#portrait, #perfectilusa, #lifeinmotion, #homeworkout"
-  - username: "nattiescloset"
-    fullname: >-
-      Nattie/ NY Fashion Influencer
-    location: "United States"
-    followers: 17916
-    engagement: 476
-    commentsToLikes: 0.181267
-    id: ck6uefiteqm0i0j71w7zhomdz
-    verified: false
-    hashtags: "#weekend, #passover, #fashion, #newyork"
-  - username: "touelve"
-    fullname: >-
-      Sébastien Vergne
-    location: "United States"
-    followers: 15536
-    engagement: 2762
-    commentsToLikes: 0.027820
-    id: ck5q29uyxeynq0i11wt3sxm87
-    verified: false
-    hashtags: "#whatisawinnyc, #womens, #trump, #charlottesville"
-  - username: "kjmoody"
-    fullname: >-
-      kjmoody
-    location: "United States"
-    followers: 16386
-    engagement: 694
-    commentsToLikes: 0.063980
-    id: ck5hjlxc3guw40i11n0k5ir2o
-    verified: false
-    hashtags: "#headass, #trippled, #kashdoll, #fashion"
-  - username: "thecindycomer"
-    fullname: >-
-      CindyComer
-    location: "United States"
-    followers: 7352
-    engagement: 1295
-    commentsToLikes: 0.043055
-    id: ck5hkn59kiqax0i116hsh3a84
-    verified: false
-    hashtags: "#greatteamwork, #sewbreaux, #sotd, #filmphotography"
+    hashtags: "#nycartdirector, #flower, #twiggy, #flowereditorial"
   - username: "andreynikphoto"
     fullname: >-
       commercial photographer
     location: "United States"
-    followers: 41430
-    engagement: 474
-    commentsToLikes: 0.027501
+    followers: 40773
+    engagement: 485
+    commentsToLikes: 0.027937
     id: ck0tw8mj0edz70i19o8gor8xp
     verified: false
-    hashtags: "#newyorkfashion, #newyorkheadshoot, #newyorkfashionphotographer, #photographerinnewyork"
-  - username: "tangtangjulia"
+    hashtags: "#newyorkarea, #nyccommercialphotographer, #fashionmodeling, #photographernewyork"
+  - username: "iamjonathan_t"
     fullname: >-
-      陳翎瑀 Ling 👑 Queen Beauty CA
+      BE UNIQUE, BE YOURSELF 🇨🇴
     location: "United States"
-    followers: 85338
-    engagement: 467
-    commentsToLikes: 0.015600
-    id: ck6tnhdus9udg0j717rfnnfj5
+    followers: 2461
+    engagement: 1691
+    commentsToLikes: 0.503022
+    id: ck6u4isux3yvt0j712xgn5xpe
     verified: false
-    hashtags: "#azphotography, #swimwear, #sheinspringiton, #skincareroutine"
-  - username: "ashcash.cc"
+    hashtags: "#latino, #think, #food, #colombiano"
+  - username: "monsieurpoppi"
     fullname: >-
-      ash-cash !
+      𝑀𝑜𝑛𝑠𝑖𝑒𝑢𝑟 𝑃𝑜𝑝𝑝𝑖 🔆
     location: "United States"
-    followers: 5028
-    engagement: 2740
-    commentsToLikes: 0.033481
-    id: ck8t63lpyc4wz0j78shxxzoym
+    followers: 6454
+    engagement: 461
+    commentsToLikes: 0.049752
+    id: ck0vytixx5p810i19415dqnl9
     verified: false
-    hashtags: "#merrychristmas, #blue, #halfuphalfdownhairstyle, #toosieslide"
+    hashtags: "#summer, #accessories, #silversterling, #wearedandy"
+  - username: "cheryl.tv"
+    fullname: >-
+      Cheryl Martinez ®
+    location: "United States"
+    followers: 61214
+    engagement: 43
+    commentsToLikes: 0.140155
+    id: ck5zy79xf9cvu0i14ln0a1180
+    verified: false
+    hashtags: "#youtube, #kidsclothing, #onairhost, #health"
+  - username: "carlindarlin_"
+    fullname: >-
+      ⚡️carlincanter⚡️
+    location: "United States"
+    followers: 4162
+    engagement: 1300
+    commentsToLikes: 0.039290
+    id: ck5hcp32dj84e0i116ri45qfy
+    verified: false
+    hashtags: "#70s, #dj, #sanfrancisco, #sixties"
+  - username: "shilohpenfield"
+    fullname: >-
+      Shiloh Penfield
+    location: "United States"
+    followers: 3029
+    engagement: 3802
+    commentsToLikes: 0.028394
+    id: ck13bdicsuwn10i19unlde5ka
+    verified: false
+    hashtags: "#funinthesun, #instagood, #illustrationnow, #cage"
+  - username: "yamirodriguez._"
+    fullname: >-
+      Yamilet 🌸
+    location: "United States"
+    followers: 5101
+    engagement: 512
+    commentsToLikes: 0.064542
+    id: ck5hn6lpznayf0i11ohq32sf6
+    verified: false
+    hashtags: "#filashoes, #quarantine, #imancosmetics, #missguided"
+  - username: "czarinaofficial"
+    fullname: >-
+      C Z A R I N A ®
+    location: "United States"
+    followers: 31742
+    engagement: 269
+    commentsToLikes: 0.048476
+    id: ck0w2o1pnpcbu0i19w2iwyhck
+    verified: false
+    hashtags: "#robotech, #playstation4, #sephiroth, #drumandbass"
+  - username: "beylicious81"
+    fullname: >-
+      Beyoncé🐝👑
+    location: "United States"
+    followers: 29606
+    engagement: 150
+    commentsToLikes: 0.026999
+    id: ck8t66gw3ceml0j783byc0zmk
+    verified: false
+    hashtags: "#daughter, #nickiminaj, #eyes, #whatwouldyoudo"
 ---

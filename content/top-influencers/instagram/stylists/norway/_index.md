@@ -1,107 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Norway In 2020
 description: >-
-  Find top stylists Instagram influencers in Norway in 2020. Most popular hashtags: #homedecor #interior4inspo #interi #interior.
+  Find top stylists Instagram influencers in Norway in 2020. Most popular hashtags: # #fashionblogger #kitchen #fremsnakk.
 platform: Instagram
 profiles:
   - username: "almaheggland"
     fullname: >-
       Alma Heggland 🐍 SF/ OSLO
     location: "Norway"
-    followers: 9353
-    engagement: 1230
-    commentsToLikes: 0.098972
+    followers: 10106
+    engagement: 1241
+    commentsToLikes: 0.096233
     id: ck55ny7ai78tt0i11df36dcer
     verified: false
-    hashtags: "#zerofeel, #gowirefree"
+    hashtags: ""
+  - username: "hegeaurelie"
+    fullname: >-
+      Hege Aurelie Badendyck
+    location: "Norway"
+    followers: 58780
+    engagement: 118
+    commentsToLikes: 0.036982
+    id: ck5hd024gkssp0i11o5g5hjt7
+    verified: false
+    hashtags: "#inwearxscandinavianedition, #essielove, #essie, #stayhome"
   - username: "linelangmo"
     fullname: >-
       LINE LANGMO
     location: "Norway"
-    followers: 34593
-    engagement: 92
-    commentsToLikes: 0.039612
+    followers: 34407
+    engagement: 100
+    commentsToLikes: 0.042582
     id: ck1366nvu4zum0i19shsqe3g4
     verified: false
-    hashtags: "#jotex, #julegavetips, #julestemning, #knittersofinstagram"
+    hashtags: "#knittersofinstagram, #knitting, #ellosfashion, #fashionblogger"
   - username: "franciskasvakreverden"
     fullname: >-
       Interior Food Inspiration
     location: "Norway"
-    followers: 79779
-    engagement: 144
-    commentsToLikes: 0.224915
+    followers: 80407
+    engagement: 164
+    commentsToLikes: 0.126992
     id: ck137zpi1dswc0i195hlhf58z
     verified: false
-    hashtags: ""
+    hashtags: "#vakreverden, #fremsnakk"
   - username: "karenelieson"
     fullname: >-
       Karen Elieson
     location: "Norway"
-    followers: 6879
-    engagement: 686
-    commentsToLikes: 0.027678
+    followers: 6845
+    engagement: 697
+    commentsToLikes: 0.029033
     id: ck0u1gqxewttg0i195g1delvx
     verified: false
     hashtags: ""
-  - username: "pureinterior_"
+  - username: "pureelisabeth_"
     fullname: >-
-      Elisabeth Halbjørhus
+      ELISABETH | HALBJØRHUS
     location: "Norway"
-    followers: 39969
-    engagement: 81
-    commentsToLikes: 0.321911
+    followers: 40194
+    engagement: 79
+    commentsToLikes: 0.263359
     id: ck5bzscqurqwd0i11by906bjp
     verified: false
-    hashtags: "#stayhome"
+    hashtags: "#tr"
   - username: "vibekedesign"
     fullname: >-
       Vibeke Svenningsen
     location: "Norway"
-    followers: 129231
-    engagement: 175
-    commentsToLikes: 0.023416
+    followers: 132869
+    engagement: 189
+    commentsToLikes: 0.022721
     id: ck8sy1b9bjdzu0j78vnp8xi7p
     verified: false
-    hashtags: "#hagelivoguterom, #springfeeling, #eastertable, #landleben"
+    hashtags: ""
   - username: "casachicks"
     fullname: >-
       CC-styling
     location: "Norway"
-    followers: 268552
-    engagement: 105
-    commentsToLikes: 0.060274
+    followers: 267921
+    engagement: 130
+    commentsToLikes: 0.191613
     id: ck55q9rbmclb80i11222jlrc0
     verified: false
-    hashtags: "#sommer, #fjellhytte, #tablesetting, #interiorinspiration"
-  - username: "tonekrok"
+    hashtags: "#balconygarden, #renhold, #flower, #soveromsinspo"
+  - username: "polliani"
     fullname: >-
-      Tone Kroken
+      JANKA POLLIANI
     location: "Norway"
-    followers: 59251
-    engagement: 102
-    commentsToLikes: 0.086484
-    id: ck6twaz7yqzek0j71lal8z7ot
-    verified: false
-    hashtags: "#nordichome, #color, #elledecor, #hall"
-  - username: "ninawinthercom"
+    followers: 145705
+    engagement: 188
+    commentsToLikes: 0.023368
+    id: ck0vvqdzyqaj70i194iwul15s
+    verified: true
+    hashtags: "#pavlova, #17mai, #liner, #food"
+  - username: "rooms_bynina"
     fullname: >-
-      NINA WINTHER
+      Nina
     location: "Norway"
-    followers: 223513
-    engagement: 216
-    commentsToLikes: 0.011214
-    id: ck8tat6u0sydh0j78e9g45dg4
+    followers: 72507
+    engagement: 90
+    commentsToLikes: 0.061128
+    id: ck5hmjskmm2w80i11peczd5p3
     verified: false
-    hashtags: "#ad, #drinkignite, #hairextensions, #igniteyourlife"
-  - username: "eskenderuseinov"
-    fullname: >-
-      Свадебный фотограф Симферополь
-    location: "Norway"
-    followers: 9468
-    engagement: 684
-    commentsToLikes: 0.034598
-    id: ck5q57fclrol50i11yagz9eib
-    verified: false
-    hashtags: "#portrait, #bergen, #fl, #stayathome"
+    hashtags: "#lagerhausfavoriter, #homedecoration, #homeinspo, #mandagsinspo"
 ---

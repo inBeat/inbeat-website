@@ -1,16 +1,26 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Brazil In 2020
 description: >-
-  Find top nutrition Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #integralteam #treino #ficaemcasa.
+  Find top nutrition Instagram influencers in Brazil in 2020. Most popular hashtags: #emcasa #healthyfood #girls #bodybuilder.
 platform: Instagram
 profiles:
+  - username: "kilianhagen"
+    fullname: >-
+      Kilian Hagen
+    location: "Brazil"
+    followers: 17618
+    engagement: 945
+    commentsToLikes: 0.030053
+    id: ck6u6mupkgj4w0j71p47jkofg
+    verified: false
+    hashtags: "#teamhagen"
   - username: "alessandradelduque"
     fullname: >-
       Alessandra Delduque
     location: "Brazil"
-    followers: 26171
-    engagement: 324
-    commentsToLikes: 0.109068
+    followers: 26355
+    engagement: 326
+    commentsToLikes: 0.114151
     id: ck6u6wsczi63l0j71mq2m35ud
     verified: false
     hashtags: "#coisasboasacontecem, #harmonizacaofacial, #treinao, #tbt"
@@ -18,90 +28,80 @@ profiles:
     fullname: >-
       👸🏾CAROL CARDOSO WELLNESS🇧🇷
     location: "Brazil"
-    followers: 91691
-    engagement: 166
-    commentsToLikes: 0.072690
+    followers: 93226
+    engagement: 227
+    commentsToLikes: 0.127229
     id: ck139bk4hkhme0i194d36dqik
     verified: false
-    hashtags: "#knnutritionbr, #girl, #academias, #treinoemcasaporto"
-  - username: "brenabastos"
+    hashtags: "#bikini, #tumblr, #motivation, #semana"
+  - username: "taticoelhotati"
     fullname: >-
-      Brena  Bastos ✨
+      Tati Coelho
     location: "Brazil"
-    followers: 64139
-    engagement: 225
-    commentsToLikes: 0.043416
-    id: ck8sxrgqiie3p0j78ykod684x
+    followers: 15702
+    engagement: 561
+    commentsToLikes: 0.068958
+    id: ckaov5qtk36as0i78peoq4gp0
     verified: false
-    hashtags: "#love, #lovemyself, #pressets, #sunnyday"
-  - username: "luanabernz"
+    hashtags: "#blessed, #photoshoot, #waterfall, #inspiration"
+  - username: "jotta.mike"
     fullname: >-
-      Luana Bernz
+      Jônatas Guimarães
     location: "Brazil"
-    followers: 34130
-    engagement: 298
-    commentsToLikes: 0.035709
-    id: ck15q8t7o1nde0i19rn2uzwz3
+    followers: 107825
+    engagement: 452
+    commentsToLikes: 0.023966
+    id: ckap7pai3kz2h0i78g6sgo95d
     verified: false
-    hashtags: "#carnavrau"
-  - username: "igoramorelli"
+    hashtags: ""
+  - username: "maripsaad"
     fullname: >-
-      Igor Amorelli
+      🌻 MARIANA SAAD
     location: "Brazil"
-    followers: 51867
-    engagement: 848
-    commentsToLikes: 0.020218
-    id: ck5hcwtlmkcnz0i11ghwuxiu2
-    verified: true
-    hashtags: "#argon18brasil, #ironman703buenosaires, #newbalancebr, #haveabikeday"
-  - username: "talienespeer"
-    fullname: >-
-      Taliene Speer ॐ
-    location: "Brazil"
-    followers: 19499
-    engagement: 308
-    commentsToLikes: 0.047137
-    id: ck8t5br549k2b0j78y8onvkrv
+    followers: 15255
+    engagement: 325
+    commentsToLikes: 0.092814
+    id: ckaov5sbo36ie0i784hkzihmm
     verified: false
-    hashtags: "#minhamelhoramiga, #baby, #family, #leitematerno"
-  - username: "catarinamadureira_"
+    hashtags: "#flashbackfriday, #fbf, #crie, #inove"
+  - username: "fabianoguigas"
     fullname: >-
-      Catarina Madureira
+      Fabiano Dantas Guigas
     location: "Brazil"
-    followers: 27557
-    engagement: 1871
-    commentsToLikes: 0.003946
-    id: ck6tzettr9a9n0j71thwvgr3k
+    followers: 66972
+    engagement: 142
+    commentsToLikes: 0.365204
+    id: ck9wdedpof9j70j781dmzpt5e
     verified: false
-    hashtags: "#pullandbearcommunity, #embaixadorabenefit, #benefitcosmeticsportugal, #ganhaconfian"
-  - username: "pedrolimapro"
-    fullname: >-
-      IFBB PRO Pedro Lima
-    location: "Brazil"
-    followers: 48157
-    engagement: 161
-    commentsToLikes: 0.027306
-    id: ck6tqkimgrytu0j71o5150p70
-    verified: false
-    hashtags: "#rtfconcept, #tbt, #ifbbpro, #pretreino"
+    hashtags: "#zyzz, #academia, #bodasdepapel, #dragonball"
   - username: "anagomesliving"
     fullname: >-
       Ana Gomes amelhoramigadabarbie
     location: "Brazil"
-    followers: 65509
-    engagement: 117
-    commentsToLikes: 0.020231
+    followers: 65740
+    engagement: 126
+    commentsToLikes: 0.071830
     id: ck15tf08whr950i190acqlg1f
     verified: false
-    hashtags: "#whataboutkeepingsafe, #anagomesliving, #smoothie, #blendedfruit"
-  - username: "sandraborgeswellness"
+    hashtags: "#coffeescrub, #ajudacomgosto, #snacks, #parceria"
+  - username: "priscilacavilha"
     fullname: >-
-      Sandra Borges
+      PCCavilha
     location: "Brazil"
-    followers: 296548
-    engagement: 198
-    commentsToLikes: 0.046608
-    id: ck602ddl9h6dg0i14kjan87ah
+    followers: 97985
+    engagement: 247
+    commentsToLikes: 0.030170
+    id: ck602dcqnh6c70i14qn2398bq
     verified: false
-    hashtags: "#vamosvencer, #modafeminina, #muscle, #shape"
+    hashtags: "#knnutritionusa, #suicidio, #procoach, #teamcavilhas"
+  - username: "caamicavalcante"
+    fullname: >-
+      CAMILA
+    location: "Brazil"
+    followers: 15620
+    engagement: 227
+    commentsToLikes: 0.076466
+    id: ck8td40do1s0r0j78a810u1t6
+    verified: false
+    hashtags: "#paraiso, #mulheres, #quarentreina, #negocios"
 ---

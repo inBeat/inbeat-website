@@ -1,107 +1,107 @@
 ---
 title: Top 10 Divers Instagram Influencers In United States In 2020
 description: >-
-  Find top divers Instagram influencers in United States in 2020. Most popular hashtags: #quarantine #travel #dressedindisney #disneystyle.
+  Find top divers Instagram influencers in United States in 2020. Most popular hashtags: #ad #2020 #travelgirl #underwater.
 platform: Instagram
 profiles:
+  - username: "downsyndrome_queen"
+    fullname: >-
+      Enya
+    location: "United States"
+    followers: 14019
+    engagement: 1289
+    commentsToLikes: 0.119003
+    id: ck8ta9xrmqy2s0j78i2xwrx07
+    verified: false
+    hashtags: "#dontrushchallenge, #downsyndrome, #sindromededown, #girlsdownsyndrome"
+  - username: "stephanies_travels"
+    fullname: >-
+      STEPHANIE | TRAVEL
+    location: "United States"
+    followers: 4050
+    engagement: 1744
+    commentsToLikes: 0.165456
+    id: ckaosvz62t9g60i78614ogsld
+    verified: false
+    hashtags: "#barcelonaspain, #dametraveler, #switzerland, #coronacoaster"
   - username: "modismagic"
     fullname: >-
       M O R G A N ✨
     location: "United States"
-    followers: 3089
-    engagement: 1617
-    commentsToLikes: 0.152283
+    followers: 3247
+    engagement: 1668
+    commentsToLikes: 0.157782
     id: ck15rp7r490rx0i19nk5hvuwb
     verified: false
-    hashtags: "#cheetahsisters, #pintrading, #avengerscampus, #disneychannel"
-  - username: "finfelicia"
+    hashtags: "#cars, #fannypack, #2020, #lightside"
+  - username: "dirtymoneyuk"
     fullname: >-
-      Felicia 🇲🇽🌼🇻🇳
+      Dirt¥ Mon£¥
     location: "United States"
-    followers: 4196
-    engagement: 1675
-    commentsToLikes: 0.104666
-    id: ck14hvt62cdom0i19ljyppdmy
+    followers: 15794
+    engagement: 776
+    commentsToLikes: 0.046992
+    id: ck5zqgb8nujl60i14nb9k4kvk
     verified: false
-    hashtags: "#almostthere, #dapperday, #nightmarebeforechristmas, #hocuspocus"
+    hashtags: "#raamibusiness, #hoodshottest, #newmusic, #wemove"
+  - username: "kotaronis"
+    fullname: >-
+      Alexandra💚
+    location: "United States"
+    followers: 14228
+    engagement: 1444
+    commentsToLikes: 0.015939
+    id: ckaorx5b6p5rf0i78gv8xsujt
+    verified: false
+    hashtags: "#kawasakiz900, #motolovers, #badgirls, #fitchicks"
   - username: "emkirley"
     fullname: >-
       Em
     location: "United States"
-    followers: 6525
-    engagement: 962
-    commentsToLikes: 0.052220
+    followers: 7708
+    engagement: 939
+    commentsToLikes: 0.048895
     id: ck8wgi3pehesc0j78zt6wpf4o
     verified: false
-    hashtags: "#surgergirk, #remotework, #waterfilter, #kook"
+    hashtags: ""
   - username: "irietoaurora"
     fullname: >-
-      𝐃𝐮𝐬𝐭𝐢𝐧 + 𝐍𝐨𝐚𝐦𝐢 🇹🇹+ 𝐈𝐫𝐢𝐞
+      Dustin + Noami 🇹🇹 + Amara+Irie
     location: "United States"
-    followers: 39432
-    engagement: 489
-    commentsToLikes: 0.061217
+    followers: 39869
+    engagement: 433
+    commentsToLikes: 0.063972
     id: ck0vw628ss9r40i19dl3u0nx3
     verified: false
-    hashtags: "#barrhillpartner, #raiseyourbarr, #diversifyvanlife, #divapartner"
-  - username: "phillysteph"
-    fullname: >-
-      Stephanie Sersen
-    location: "United States"
-    followers: 73744
-    engagement: 480
-    commentsToLikes: 0.046409
-    id: ck6tuu73cig420j714ept7q2w
-    verified: true
-    hashtags: "#travelislife, #sand, #beachchristmas, #letsgo"
+    hashtags: "#diversifyvanlife, #nojusticenopeace, #diversifyoutdoors, #ad"
   - username: "isbeeracarb"
     fullname: >-
       megan ✻ beer ✻ travel ✻ style
     location: "United States"
-    followers: 32002
-    engagement: 763
-    commentsToLikes: 0.035849
+    followers: 32565
+    engagement: 779
+    commentsToLikes: 0.033414
     id: ck5c817tp8krs0i11qrqas6p2
     verified: false
-    hashtags: "#girlswithtattoosandpiercings, #beerlove, #beerunites, #womxncrushwednesday"
-  - username: "sydni_bennett"
+    hashtags: "#diversityispower, #diversityandinclusion, #sdbeer, #bumblepartner"
+  - username: "phillysteph"
     fullname: >-
-      Sydni Dion
+      Stephanie Sersen
     location: "United States"
-    followers: 3167
-    engagement: 1915
-    commentsToLikes: 0.068676
-    id: ck5chdyryql9y0i11po8b5ug4
-    verified: false
-    hashtags: "#19"
-  - username: "chrisssanaid"
+    followers: 78355
+    engagement: 414
+    commentsToLikes: 0.044961
+    id: ck6tuu73cig420j714ept7q2w
+    verified: true
+    hashtags: "#adventure, #bridetribe, #holidaydinner, #newyearsparade"
+  - username: "bacharhouli14"
     fullname: >-
-      Ｃｈｒｉｓｔｉａｎ ✦ Ａｎａｉｄ
+      Bachar Houli
     location: "United States"
-    followers: 5697
-    engagement: 518
-    commentsToLikes: 0.317952
-    id: ck5buk28thxjh0i11xtylh9y5
-    verified: false
-    hashtags: "#quarantine, #stayhome"
-  - username: "chiefmaine.navyscout"
-    fullname: >-
-      Chief Maine
-    location: "United States"
-    followers: 15450
-    engagement: 536
-    commentsToLikes: 0.042536
-    id: ck0w1lmp8jyfj0i19t3xkayo1
-    verified: false
-    hashtags: "#fitopsfoundation, #givingback, #veteransday, #forged"
-  - username: "karlawatkins"
-    fullname: >-
-      Karla Watkins
-    location: "United States"
-    followers: 14742
-    engagement: 537
-    commentsToLikes: 0.050033
-    id: ck5zmtfzan6zx0i1432z4gxer
-    verified: false
-    hashtags: ""
+    followers: 32302
+    engagement: 1344
+    commentsToLikes: 0.011720
+    id: ck0w3ir00tmev0i19ys8peo06
+    verified: true
+    hashtags: "#archiesfootwear, #keepyourdistance, #coronavirus, #ad"
 ---

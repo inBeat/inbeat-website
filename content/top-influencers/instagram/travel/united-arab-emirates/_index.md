@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top travel Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #mydubai #travel #dubai #dubailife.
+  Find top travel Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #staysafe #dubaibloggers #etihad #quarantinelife.
 platform: Instagram
 profiles:
-  - username: "ban_adnan_dawood"
+  - username: "madhuri.chavan7"
     fullname: >-
-      Ban 🇮🇶🇨🇦
+      Madhuri Chavan
     location: "United Arab Emirates"
-    followers: 389794
-    engagement: 336
-    commentsToLikes: 0.031130
-    id: ck5c4gq7x1bk50i1174csluom
+    followers: 7586
+    engagement: 1025
+    commentsToLikes: 0.085444
+    id: ck15q0f1p0hzj0i197nafgoir
     verified: false
-    hashtags: "#staysafe, #stayhealthy, #ibnnafeesmedicalcenter, #inmc"
-  - username: "travelwithmila_"
+    hashtags: "#sesamestreetbollywood, #internationalartistnight, #bollywooddanceroutine, #universalstudiosjapan"
+  - username: "bossgirlpriya1792"
     fullname: >-
-      𝐌 𝐈 𝐋 𝐀
+      Queen of Jet lags 🛫🇮🇳🇦🇪
     location: "United Arab Emirates"
-    followers: 2078
-    engagement: 1893
-    commentsToLikes: 0.113241
-    id: ck8t3vgwg4n4q0j78wjnqep7t
+    followers: 24822
+    engagement: 386
+    commentsToLikes: 0.109225
+    id: ck9webz5qjm2c0j784c8117oi
     verified: false
-    hashtags: "#travelblogger, #fashiongrammer, #styleinfluencer, #mylookoftheday"
-  - username: "philipe0410"
+    hashtags: "#foodblogging, #etihadcrew, #flowerlove, #fridgesituation"
+  - username: "aykadelacruz"
     fullname: >-
-      Felipe
+      𝗔𝘆𝗸𝗮 𝗧𝗮𝗳𝗮𝗹𝗹𝗮-𝗣𝗿𝗶𝗻𝗰𝗲
     location: "United Arab Emirates"
-    followers: 85439
-    engagement: 256
-    commentsToLikes: 0.040770
-    id: ck0w1yt1alsxz0i19hfhq8wbn
+    followers: 15447
+    engagement: 435
+    commentsToLikes: 0.604451
+    id: ck6ub8hxl83pa0j71eauuk4yq
     verified: false
-    hashtags: "#lifestyleblogger, #addresshotels, #hotels, #icecream"
+    hashtags: "#weddingdressshopping, #intimatewedding, #dubaibloggers, #travelgram"
   - username: "alberto_makeup"
     fullname: >-
       ▫️A L B E R T O▫️
     location: "United Arab Emirates"
-    followers: 30356
-    engagement: 242
-    commentsToLikes: 0.079346
+    followers: 35845
+    engagement: 240
+    commentsToLikes: 0.095008
     id: ck6u4dcr3338e0j71jyuqag7e
     verified: false
-    hashtags: "#quarantineposts"
-  - username: "sil_such"
+    hashtags: "#throwback, #tb, #quarantineposts"
+  - username: "wranglerson"
     fullname: >-
-      Sil
+      Jayson Rangel
     location: "United Arab Emirates"
-    followers: 6947
-    engagement: 599
-    commentsToLikes: 0.108479
-    id: ck0w4nid0zgi90i19xh6g4kz2
+    followers: 6627
+    engagement: 1073
+    commentsToLikes: 0.052658
+    id: ck6u26oagq16i0j716wj9g6lp
     verified: false
-    hashtags: "#travellers, #newyear2020, #travelcouple, #yoga"
-  - username: "raquell_feyh"
+    hashtags: "#pinoystyle, #finedining, #reflectionphoto, #dubaibloggers"
+  - username: "florina__toma"
     fullname: >-
-      Rachel 🦋🍄🦋
+      Florina Toma
     location: "United Arab Emirates"
-    followers: 29304
-    engagement: 499
-    commentsToLikes: 0.030990
-    id: ck134xgzsyo6g0i19n2c1r4vu
+    followers: 191762
+    engagement: 344
+    commentsToLikes: 0.028737
+    id: ck0vxi7f6z0o10i19sphfh688
     verified: false
-    hashtags: "#austria, #luxury, #iloveafrica, #brasil"
-  - username: "yallamelo"
+    hashtags: "#thechedimuscat, #chedimemories, #rcmemories, #composite"
+  - username: "faridaisrail"
     fullname: >-
-      Mel |travel & food inspiration
+      faridaisrail #Hertraveldiary
     location: "United Arab Emirates"
-    followers: 48605
-    engagement: 164
-    commentsToLikes: 0.077615
-    id: ck5zv7gbd3q1k0i14110cjqxq
+    followers: 23969
+    engagement: 294
+    commentsToLikes: 0.060385
+    id: ck55jaedewm5m0i11ouysfgrm
     verified: false
-    hashtags: "#green, #paris, #teal, #brussels"
+    hashtags: "#instadetox, #amazinguae, #eatrainbow, #healthworkers"
+  - username: "pun_sheth"
+    fullname: >-
+      Punam
+    location: "United Arab Emirates"
+    followers: 6912
+    engagement: 1182
+    commentsToLikes: 0.047188
+    id: ckap43k7o5osg0i78v9ciciaw
+    verified: false
+    hashtags: "#11, #family, #joy, #bluewaters"
   - username: "myglamgypsy"
     fullname: >-
       Rosh
     location: "United Arab Emirates"
-    followers: 25135
-    engagement: 184
-    commentsToLikes: 0.080610
+    followers: 29550
+    engagement: 192
+    commentsToLikes: 0.073428
     id: ck0w5yzr8641j0i193jsgznso
     verified: false
-    hashtags: "#seetheworld, #wonderwomanmakeup, #huaweiarabia, #igtravel"
-  - username: "heb_ash"
+    hashtags: "#makeuptrend, #theartistedit, #tomfordbeauty, #foodie"
+  - username: "ban_adnan_dawood"
     fullname: >-
-      Heba | هبة
+      Ban 🇮🇶🇨🇦
     location: "United Arab Emirates"
-    followers: 7599
-    engagement: 1207
-    commentsToLikes: 0.026366
-    id: ck8tco5vr03o60j78eiqif084
+    followers: 448825
+    engagement: 295
+    commentsToLikes: 0.025647
+    id: ck5c4gq7x1bk50i1174csluom
     verified: false
-    hashtags: "#makeoverchallenge, #instagramindia, #influencers, #portrait"
-  - username: "miss.everywhere"
-    fullname: >-
-      Mareen | Cologne | Germany
-    location: "United Arab Emirates"
-    followers: 524883
-    engagement: 257
-    commentsToLikes: 0.032526
-    id: ck0w0d1jfdkoy0i199g0aqx9r
-    verified: true
-    hashtags: "#flightreview, #dertour, #startyourdayright, #instameetsa"
+    hashtags: "#stayhome, #ramadan, #dubai, #urbanexplorer"
 ---

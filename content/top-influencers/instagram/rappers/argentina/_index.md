@@ -1,107 +1,97 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Argentina In 2020
 description: >-
-  Find top rappers Instagram influencers in Argentina in 2020. Most popular hashtags: #dtoke #fmsargentina #chuty #papo.
+  Find top rappers Instagram influencers in Argentina in 2020. Most popular hashtags: #rapper #free #encasa #quedateencasa.
 platform: Instagram
 profiles:
-  - username: "marithearap"
+  - username: "world_traveller_forever"
     fullname: >-
-      MARITHEA 🔥🎤
+      🔅 𝐍𝐮𝐫 𝐀𝐭𝐚 🔅 ✈ ☼ ⏅☆ 🔅
     location: "Argentina"
-    followers: 45322
-    engagement: 1428
-    commentsToLikes: 0.016084
-    id: ck5hq1ch1sbti0i11nudqgs7t
+    followers: 17612
+    engagement: 424
+    commentsToLikes: 0.029377
+    id: ck6toq26jfggm0j71dchynpgl
     verified: false
-    hashtags: ""
-  - username: "lolitolp"
+    hashtags: "#oasis, #april, #salta, #uyuni"
+  - username: "eli.almic"
     fullname: >-
-      Martin Delfino
+      ELI ALMIC 🎤✨
     location: "Argentina"
-    followers: 23275
-    engagement: 517
-    commentsToLikes: 0.018811
-    id: ck5pwofpnnsrf0i11m0c3rinj
+    followers: 18735
+    engagement: 317
+    commentsToLikes: 0.018044
+    id: ck5c2sxoixx4j0i11cmz6ktqv
     verified: false
-    hashtags: "#oxeyamor, #oxeyfamilia, #provinciaemergente"
-  - username: "delsurestilo"
+    hashtags: "#encasa, #showdecuarentena, #instagramlive, #instagramvivo"
+  - username: "ileanadigiorgio"
     fullname: >-
-      FRANE
+      Ileana Di Giorgio
     location: "Argentina"
-    followers: 15456
-    engagement: 1269
-    commentsToLikes: 0.017513
-    id: ck5hof7aapgeg0i11ztldsdtc
+    followers: 7947
+    engagement: 727
+    commentsToLikes: 0.125592
+    id: ck14k4jhcnoo10i194vxflwi0
     verified: false
-    hashtags: "#damn, #35mm, #interestelar"
-  - username: "lilxfry"
+    hashtags: "#coreworkout, #twerkgirls, #black, #girlswithmuscle"
+  - username: "nissaoficial"
     fullname: >-
-      🌹Lil Fry
+      LO SIENTO YA DISPONIBLE
     location: "Argentina"
-    followers: 2617
-    engagement: 2418
-    commentsToLikes: 0.046323
-    id: ck5qarru1hxe00i1149ll88d5
+    followers: 15405
+    engagement: 819
+    commentsToLikes: 0.144178
+    id: ck0u88bu96ppz0i19kki6y80h
     verified: false
-    hashtags: "#projectecomsonaleso"
-  - username: "pelarhs"
+    hashtags: "#versossimples, #trapitalia, #traps, #night"
+  - username: "sumeriaa"
     fullname: >-
-      Facu 👹
+      Sumeria
     location: "Argentina"
-    followers: 3453
-    engagement: 2414
-    commentsToLikes: 0.080159
-    id: ck5q4vdq1qdht0i11f85lipxh
+    followers: 17678
+    engagement: 784
+    commentsToLikes: 0.030538
+    id: ck602zigik6mq0i14p2fb1uvg
     verified: false
-    hashtags: ""
-  - username: "reconmc"
+    hashtags: "#redbull, #latinmusic, #latintrap, #nosquedamosencasa"
+  - username: "cucchipagani"
     fullname: >-
-      carlos arenas
+      Flor Cucchi + Lali Pagani
     location: "Argentina"
-    followers: 2072
-    engagement: 1964
-    commentsToLikes: 0.056435
-    id: ck5zptjwytbfm0i14j48o7jue
+    followers: 7520
+    engagement: 810
+    commentsToLikes: 0.023036
+    id: ck5chiumfquwo0i1132ypqu0q
     verified: false
-    hashtags: "#sorteodulcedolor"
-  - username: "freestyle.minutos"
+    hashtags: "#newsingle, #duki, #game, #khea"
+  - username: "nfs_fotografia"
     fullname: >-
-      FREESTYLE MINUTOS | 10k🚀
+      Nehuén F. Silva
     location: "Argentina"
-    followers: 10142
-    engagement: 4281
-    commentsToLikes: 0.004525
-    id: ck8t357ic1wwm0j78any4pnp1
+    followers: 10276
+    engagement: 971
+    commentsToLikes: 0.004746
+    id: ck55pmwvxawrm0i11coqe3ags
     verified: false
-    hashtags: "#zticma, #acertijo, #freestyle, #aczino"
-  - username: "freerapbattles"
-    fullname: >-
-      Freestyle
-    location: "Argentina"
-    followers: 80732
-    engagement: 579
-    commentsToLikes: 0.016415
-    id: ck15rj0kz85q70i19y4j0x26u
-    verified: false
-    hashtags: "#chuty, #fmsperu, #zasko, #fmsargentina"
-  - username: "elrincondelfreestyle"
-    fullname: >-
-      ❌EL RINCON DEL RAP❌
-    location: "Argentina"
-    followers: 28912
-    engagement: 630
-    commentsToLikes: 0.005661
-    id: ck15uj7ovnfv70i19mjfytlvf
-    verified: false
-    hashtags: "#chuty, #cacha, #daniribba, #nitro"
+    hashtags: "#fotografia, #recital, #stuartsub, #fmsdtoke"
   - username: "maloabrothers"
     fullname: >-
       🇲🅰️🇱⭕🅰️
     location: "Argentina"
-    followers: 8368
-    engagement: 363
-    commentsToLikes: 0.021234
+    followers: 8418
+    engagement: 410
+    commentsToLikes: 0.022751
     id: ck0w75yysbxe00i1938scczqu
     verified: false
-    hashtags: "#puravida, #onelove, #bars, #true"
+    hashtags: "#work, #studio, #resistance, #design"
+  - username: "sudametrica"
+    fullname: >-
+      Sudametrica Internacional
+    location: "Argentina"
+    followers: 135737
+    engagement: 142
+    commentsToLikes: 0.010656
+    id: ck6tnggyj9skk0j713s5nif0y
+    verified: false
+    hashtags: "#talleresudametrica, #punchline, #mexico, #sony"
 ---

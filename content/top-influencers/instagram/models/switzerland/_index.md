@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top models Instagram influencers in Switzerland in 2020. Most popular hashtags: #fashion #model #portrait #portraiture.
+  Find top models Instagram influencers in Switzerland in 2020. Most popular hashtags: #beauty #happy #happiness #outfit.
 platform: Instagram
 profiles:
+  - username: "anetmlcak0va"
+    fullname: >-
+      🌹♛ Anet MLČÁKOVÁ ♛ 𝓐. 𝓜 🌹
+    location: "Switzerland"
+    followers: 311693
+    engagement: 648
+    commentsToLikes: 0.034788
+    id: ck0w2scj9pxyh0i19hhmf1qu3
+    verified: false
+    hashtags: "#soutezim, #ysl, #italy, #krabi"
   - username: "leiafardel"
     fullname: >-
       Leia Ursula Fardel
     location: "Switzerland"
-    followers: 2205
-    engagement: 3057
-    commentsToLikes: 0.107978
+    followers: 2156
+    engagement: 3135
+    commentsToLikes: 0.107568
     id: ck5bvtmnekdn00i11k5gujisq
     verified: false
-    hashtags: "#valentinesday2019, #miss, #missteamcup, #freckles"
+    hashtags: "#partynight, #eyeliner, #valentineday, #weddinghair"
+  - username: "angelsaurora"
+    fullname: >-
+      𝐀𝐮𝐫𝐨𝐫𝐚
+    location: "Switzerland"
+    followers: 40197
+    engagement: 508
+    commentsToLikes: 0.359491
+    id: ckap24mwwxcl10i78d4d1wte6
+    verified: false
+    hashtags: "#car, #f1, #body, #saittropez"
   - username: "jangudde"
     fullname: >-
       🌿 J A N  G U D D E 🌿
     location: "Switzerland"
-    followers: 45947
-    engagement: 351
-    commentsToLikes: 0.240334
+    followers: 48810
+    engagement: 401
+    commentsToLikes: 0.208746
     id: ck5pwssmpof1p0i11o9igo68a
     verified: false
-    hashtags: "#parents, #apresski, #staystrong, #pregnant"
-  - username: "scooby75"
-    fullname: >-
-      Michael Walter Official🇨🇭
-    location: "Switzerland"
-    followers: 98549
-    engagement: 404
-    commentsToLikes: 0.046503
-    id: ck8t3j2lr3fbg0j784b4pbtbi
-    verified: false
-    hashtags: "#bearscubsandscruff, #guyswithbeards, #zurich, #beardgay"
-  - username: "josevitari"
-    fullname: >-
-      Josevi Tari
-    location: "Switzerland"
-    followers: 26785
-    engagement: 485
-    commentsToLikes: 0.395632
-    id: ck5hjldijgtwo0i114h28ac9n
-    verified: false
-    hashtags: "#menswears, #emprendedores, #followforfollowback, #denim"
-  - username: "laravogel_"
-    fullname: >-
-      Lara Vogel
-    location: "Switzerland"
-    followers: 27581
-    engagement: 560
-    commentsToLikes: 0.026436
-    id: ck5znj09soka80i14sw6mzki4
-    verified: false
-    hashtags: "#redhead, #photooftheday, #endlessportrait, #portraitmf"
-  - username: "fanny_beladona"
-    fullname: >-
-      Fanny Beladona
-    location: "Switzerland"
-    followers: 73318
-    engagement: 161
-    commentsToLikes: 0.056310
-    id: ck5cfqsevngv90i11hes3s290
-    verified: false
-    hashtags: "#geekette, #geeklife, #nakedplanet, #feetlove"
+    hashtags: "#easter, #chill, #sportmotivation, #pregnant"
   - username: "daniela_graf_"
     fullname: >-
       FASHION | BEAUTY | PORTRAIT
     location: "Switzerland"
-    followers: 16031
-    engagement: 551
-    commentsToLikes: 0.178991
+    followers: 16769
+    engagement: 494
+    commentsToLikes: 0.159019
     id: ck13c1wyky7zh0i190aek2hfv
     verified: false
-    hashtags: "#closeup, #portraitamazing, #females, #bestoftheday"
-  - username: "french.fashionista"
+    hashtags: "#quotes, #bunny, #boudoirgodess, #homeshoot"
+  - username: "trillprime"
     fullname: >-
-      french.fashionista
+      FASHION BLOGGER
     location: "Switzerland"
-    followers: 21205
-    engagement: 1720
-    commentsToLikes: 0.010719
-    id: ck0w4wvgq0t030i19rijss8mz
+    followers: 14623
+    engagement: 1519
+    commentsToLikes: 0.053114
+    id: ck6tmv4al8laf0j71jxpa9d41
     verified: false
-    hashtags: "#blackandwhite, #blackandwhitephotography, #happymoments, #quarantinelife"
-  - username: "zurichurbanphoto"
+    hashtags: "#todaysoutfit, #newbalance530, #astroworldtour, #cactusjack"
+  - username: "dilara.kx"
     fullname: >-
-      Portrait & Event Photographer
+      D I L A R A
     location: "Switzerland"
-    followers: 4422
-    engagement: 1291
-    commentsToLikes: 0.088718
-    id: ck5bzf7vir0tr0i11do63smdu
+    followers: 24450
+    engagement: 1026
+    commentsToLikes: 0.017656
+    id: ck9hcq5wqmjso0j78jq1terbo
     verified: false
-    hashtags: "#modelos, #girlsgonesporty, #mascarada, #tuesdaytip"
-  - username: "darkonyyx"
+    hashtags: "#fashion, #luxury, #prettylittlething, #newyearseve"
+  - username: "bella_zofia"
     fullname: >-
-      Anavrin
+      Bella♡Fashion |Beauty |Travel
     location: "Switzerland"
-    followers: 5777
-    engagement: 714
-    commentsToLikes: 0.079364
-    id: ck5q2yaxyicz20i1179gwn3po
+    followers: 9662
+    engagement: 1103
+    commentsToLikes: 0.075172
+    id: ck15qksrl3c4a0i19iz9ozoai
     verified: false
-    hashtags: "#ir, #blondhair, #portaitsinspire, #cocacola"
+    hashtags: "#fridayselfie, #ermannoscervino, #parisianvibes, #beautifulgeneva"
+  - username: "jenaya_model_official"
+    fullname: >-
+      ⚜️Jenaya 🇨🇭international model
+    location: "Switzerland"
+    followers: 82523
+    engagement: 509
+    commentsToLikes: 0.103066
+    id: ckapbt0eu18ic0i7810vawjhb
+    verified: false
+    hashtags: "#favoritemodel, #angelic, #soul, #justme"
+  - username: "lenny.iza"
+    fullname: >-
+      LENNY IZAGUIRE ‎⎊
+    location: "Switzerland"
+    followers: 84710
+    engagement: 2390
+    commentsToLikes: 0.010611
+    id: ck5pwxr6rp4kg0i11wo0iua2r
+    verified: false
+    hashtags: "#metro, #calvinklein, #swib, #square"
 ---

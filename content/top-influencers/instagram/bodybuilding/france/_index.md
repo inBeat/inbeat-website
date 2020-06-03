@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In France In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in France in 2020. Most popular hashtags: #bodybuilding #fitness #body #fitfam.
+  Find top bodybuilding Instagram influencers in France in 2020. Most popular hashtags: #bodybuilding #motivation #france #fitness.
 platform: Instagram
 profiles:
+  - username: "alex_ornq"
+    fullname: >-
+      Alex
+    location: "France"
+    followers: 2355
+    engagement: 2947
+    commentsToLikes: 0.037121
+    id: ckap5v52fdasj0i78gl8bag0m
+    verified: false
+    hashtags: "#fitfrance, #train, #classicphysique, #myprotein"
   - username: "petitpatapon_nunchaku"
     fullname: >-
       Petit PatapOn Nunchaku
     location: "France"
-    followers: 40811
-    engagement: 1008
-    commentsToLikes: 0.044300
+    followers: 44401
+    engagement: 995
+    commentsToLikes: 0.040492
     id: ck15reqik7kg50i1932axptcx
     verified: false
-    hashtags: "#storytime, #katanagirl, #activelife, #stayhyper"
-  - username: "alexandra_maia19"
+    hashtags: "#model, #determination, #tattoo, #lightsaber"
+  - username: "carine.workout"
     fullname: >-
-      Alexandra Maia 🇫🇷
+      Carine ~ Girl on bike
     location: "France"
-    followers: 9793
-    engagement: 1507
-    commentsToLikes: 0.061730
-    id: ck8t3yj7z4yew0j78vxrsns3q
+    followers: 7304
+    engagement: 1601
+    commentsToLikes: 0.082812
+    id: ckapaq3tax1u70i78w4belqnw
     verified: false
-    hashtags: "#train, #dansmabulle, #boxe, #puissance"
-  - username: "marie.cardona_"
+    hashtags: "#discount, #lagosbabes, #birthday, #cycle"
+  - username: "axelwino"
     fullname: >-
-      PROZIS -> CARDONA
+      La Win
     location: "France"
-    followers: 11125
-    engagement: 1626
-    commentsToLikes: 0.055329
-    id: ck8t4zb128brj0j78uc5eqnji
+    followers: 36803
+    engagement: 1260
+    commentsToLikes: 0.042752
+    id: ck9hcvy4rn6zm0j78rcfpcbec
     verified: false
-    hashtags: "#shape, #picoftheweek, #determination, #bodypositive"
-  - username: "stylish_star_ayush"
+    hashtags: "#couple, #menstyle, #overboard, #poidsdecorps"
+  - username: "maximeklinger"
     fullname: >-
-      Ayush Mehta
+      Maxime Klinger
     location: "France"
-    followers: 6752
-    engagement: 993
-    commentsToLikes: 0.147316
-    id: ck8ta0kz3q0le0j787iarxh9q
+    followers: 2724
+    engagement: 1953
+    commentsToLikes: 0.161521
+    id: ck6tkmg3a4zuu0j719pt8frxu
     verified: false
-    hashtags: "#gym, #gymmotivation, #colur, #kamkaronamkaro"
-  - username: "_passportoflove_"
+    hashtags: "#bodybuilding, #fhmencollection, #styledevie, #mannequinhead"
+  - username: "erwix_jvn"
     fullname: >-
-      𝐌𝐀𝐓 ╳ 𝐅𝐀𝐍𝐍𝐘
+      Erwan
     location: "France"
-    followers: 3109
-    engagement: 3293
-    commentsToLikes: 0.073598
-    id: ck13cyyyj2tyl0i19mcmgtwz3
+    followers: 18082
+    engagement: 586
+    commentsToLikes: 0.091432
+    id: ck6ttwnk1czxc0j71jmlfvqvo
     verified: false
-    hashtags: "#sweet, #goodvibes, #loveyou, #engaged"
-  - username: "newliiifestyle"
+    hashtags: "#audi, #performance, #training, #playinside"
+  - username: "fitclaire"
     fullname: >-
-      NEWLIIIFESTYLE
+      CLAIRE - fitness & lifestyle
     location: "France"
-    followers: 36610
-    engagement: 377
-    commentsToLikes: 0.086641
-    id: ck8t3fzv4341n0j7899uv37ee
+    followers: 102902
+    engagement: 703
+    commentsToLikes: 0.021365
+    id: ck0vwijkktyuv0i190puduh8z
     verified: false
-    hashtags: "#bodybuilder, #instagram, #selfconfidence, #lifestyle"
-  - username: "grekos_999"
+    hashtags: "#acidesamin, #parisienne, #stetch, #healthyfood"
+  - username: "claire__alx"
     fullname: >-
-      Gregory
+      CAL
     location: "France"
-    followers: 2498
-    engagement: 2383
-    commentsToLikes: 0.059463
-    id: ck0u9mavaa3ht0i19cj2hy7xe
+    followers: 3789
+    engagement: 4658
+    commentsToLikes: 0.067641
+    id: ck8tahzzyru9s0j78fnal4vxz
     verified: false
-    hashtags: "#plyometrics, #followforfollowback, #triplesalto, #jump"
-  - username: "ornellou_nsl"
+    hashtags: "#aussie, #natur, #drawing, #coronavirus"
+  - username: "guillaume_rouux"
     fullname: >-
-      Ornella Nesle
+      Guillaume Roux  🇫🇷
     location: "France"
-    followers: 10472
-    engagement: 1724
-    commentsToLikes: 0.024042
-    id: ck8t3fzoq340e0j78wqwa9fgb
+    followers: 6249
+    engagement: 1815
+    commentsToLikes: 0.031992
+    id: ckapc58hf2iou0i78uzk096s5
     verified: false
-    hashtags: "#instafitfam, #strongnotskinny, #igfit, #gymlifestyle"
-  - username: "tibonorman"
+    hashtags: "#forearms, #legs, #fctwitter, #fitnessing"
+  - username: "lydia.befit"
     fullname: >-
-      📸 Tibo Norman 🇨🇵
+      🎀 𝑳𝒚𝒅𝒊𝒂 🎀
     location: "France"
-    followers: 105892
-    engagement: 211
-    commentsToLikes: 0.044096
-    id: ck6ubrol6bb7k0j71ma0vq6no
+    followers: 29690
+    engagement: 301
+    commentsToLikes: 0.095039
+    id: ckap51qmy9skf0i78l56b4pu1
     verified: false
-    hashtags: "#tibonorman, #toronto, #summerbody, #coronavirus"
-  - username: "logfive"
-    fullname: >-
-      ＬＯＧＡＮ SICOLI PICASSO
-    location: "France"
-    followers: 9881
-    engagement: 1216
-    commentsToLikes: 0.088910
-    id: ck14lkg3xv5260i19p8yuk6ji
-    verified: false
-    hashtags: "#bomberjacket, #chicstyle, #aboutlastnight, #browneyes"
+    hashtags: "#shape, #ideerepas, #reequilibrage, #mangerequilibre"
 ---

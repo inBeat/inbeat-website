@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Denver In 2020
 description: >-
-  Find top yoga Instagram influencers in Denver in 2020. Most popular hashtags: #yoga #fitness #denver #yogaposes.
+  Find top yoga Instagram influencers in Denver in 2020. Most popular hashtags: #yoga #yogi #yogainspiration #quarantinelife.
 platform: Instagram
 profiles:
-  - username: "kyleweiger"
-    fullname: >-
-      Kyle Weiger
-    location: "United States"
-    followers: 45318
-    engagement: 83
-    commentsToLikes: 0.043009
-    id: ck5bypxmeplyi0i11px7xcoo1
-    verified: false
-    hashtags: "#iamlabs, #family, #partytricks, #fitnessbusiness"
-  - username: "ziamccabe"
-    fullname: >-
-      Zia McCabe~DJ Rescue
-    location: "United States"
-    followers: 9104
-    engagement: 574
-    commentsToLikes: 0.039426
-    id: ck6twvjvducac0j71ogn9ggrn
-    verified: false
-    hashtags: "#factorytheme, #bassplayer, #vintagefenderbass, #lasers"
-  - username: "karina.chancey"
-    fullname: >-
-      Karina Chancey
-    location: "United States"
-    followers: 141230
-    engagement: 208
-    commentsToLikes: 0.010037
-    id: ck5bzqgg4rnce0i116140rf7e
-    verified: false
-    hashtags: "#covergirl, #earthpix, #happymonday, #live"
-  - username: "sweetnattydee"
-    fullname: >-
-      Sweet Natty Yoga
-    location: "United States"
-    followers: 18506
-    engagement: 161
-    commentsToLikes: 0.198900
-    id: ck0txbw10innl0i1994iohz7e
-    verified: false
-    hashtags: "#crossfit, #fitgirl, #cleanandjerk, #trainiac"
-  - username: "picfoster"
-    fullname: >-
-      Hugh Foster
-    location: "United States"
-    followers: 14738
-    engagement: 385
-    commentsToLikes: 0.063486
-    id: ck15uyzzwp5kw0i192jx2x61o
-    verified: false
-    hashtags: "#fashion, #arialyoga, #travelphotography, #reikipractitioner"
-  - username: "jesenialis_fit"
-    fullname: >-
-      Jesenia
-    location: "United States"
-    followers: 4991
-    engagement: 875
-    commentsToLikes: 0.207357
-    id: ck8t7ca04gak60j78do13v01e
-    verified: false
-    hashtags: "#makeup, #mondaymotivation, #npcbikini, #homeworkout"
-  - username: "nataliaavegaa"
-    fullname: >-
-      NATALIA VEGA
-    location: "United States"
-    followers: 8776
-    engagement: 505
-    commentsToLikes: 0.021407
-    id: ck6uc7xdae0hh0j71x8mgeequ
-    verified: false
-    hashtags: "#ahimsa, #photoshopfix, #cleanpic, #vegantacos"
-  - username: "runner4cake"
-    fullname: >-
-      Margaret
-    location: "United States"
-    followers: 27559
-    engagement: 281
-    commentsToLikes: 0.053206
-    id: ck13ch9il0c7j0i19t7ybb00s
-    verified: false
-    hashtags: "#irun, #flattenthecurve, #mountainlovers, #quarantinecakes"
-  - username: "ashtonaugustyoga"
-    fullname: >-
-      Ashton August
-    location: "United States"
-    followers: 6551
-    engagement: 575
-    commentsToLikes: 0.109545
-    id: ck5zucfyk23gm0i145a9kx0ay
-    verified: false
-    hashtags: "#coloradoyoga, #hafizpoems, #lightoverdarkness, #freeyoga"
   - username: "hello_healthnut"
     fullname: >-
       cealia | yogini 🌺
     location: "United States"
-    followers: 21557
-    engagement: 657
-    commentsToLikes: 0.045320
+    followers: 27889
+    engagement: 511
+    commentsToLikes: 0.058376
     id: ck55mywdw54nm0i11y8hn11ea
     verified: false
-    hashtags: "#positivevibes, #healthylifestyle, #yogafun, #yogaclasses"
+    hashtags: "#awareness, #igyogachallenge, #vegantreats, #summervibes"
+  - username: "mannykess"
+    fullname: >-
+      Manny Kess
+    location: "United States"
+    followers: 35345
+    engagement: 73
+    commentsToLikes: 0.107730
+    id: ck5hqgwq3t3dk0i11lduc2p0j
+    verified: false
+    hashtags: "#shave, #beardgame, #strongmind, #reading"
+  - username: "maza.travel"
+    fullname: >-
+      Maza ☀️ Travel + Lifestyle
+    location: "United States"
+    followers: 3148
+    engagement: 1624
+    commentsToLikes: 0.449029
+    id: ck9hbr7n7i4sd0j78m2qz7vz2
+    verified: false
+    hashtags: "#topusapics, #travelpage, #borntotravel, #nomadgirls"
+  - username: "nataliaavegaa"
+    fullname: >-
+      NATALIA VEGA
+    location: "United States"
+    followers: 8575
+    engagement: 518
+    commentsToLikes: 0.021484
+    id: ck6uc7xdae0hh0j71x8mgeequ
+    verified: false
+    hashtags: "#miamibeach, #vegantacos, #greennature, #veganmiami"
+  - username: "iamashtonaugust"
+    fullname: >-
+      Ashton August
+    location: "United States"
+    followers: 7911
+    engagement: 534
+    commentsToLikes: 0.105545
+    id: ck5zucfyk23gm0i145a9kx0ay
+    verified: false
+    hashtags: "#denveryogachick, #yogavideo, #personalgrowthbooks, #ashtonaugust"
+  - username: "mike.aidala"
+    fullname: >-
+      Mike Aidala
+    location: "United States"
+    followers: 57501
+    engagement: 154
+    commentsToLikes: 0.080096
+    id: ck5hguutq4vy60i11yneq3kxb
+    verified: false
+    hashtags: "#quaranteam, #sponsored, #potatoesfuelyou, #whatareyoueating"
+  - username: "space.junkiee"
+    fullname: >-
+      Raechel Renae
+    location: "United States"
+    followers: 10320
+    engagement: 554
+    commentsToLikes: 0.030401
+    id: ck6u5pl8xazv00j71yrg9edq7
+    verified: false
+    hashtags: "#girlswholift, #pandemic, #moodyportraits, #babesofinsta"
+  - username: "meggm_fitness"
+    fullname: >-
+      Megan • NASM-CPT, CES
+    location: "United States"
+    followers: 10273
+    engagement: 175
+    commentsToLikes: 0.077240
+    id: ck0tthu1d2s4k0i19q6sgam3x
+    verified: false
+    hashtags: "#betterforit, #dumbbellworkout, #fitnessblog, #outdoorworkout"
+  - username: "modhippiehabits"
+    fullname: >-
+      Kait • Modern Hippie Habits
+    location: "United States"
+    followers: 20451
+    engagement: 436
+    commentsToLikes: 0.029491
+    id: ck0udef6ziz2j0i1974vbekbc
+    verified: false
+    hashtags: "#victorygarden, #northamericanherbandspice, #realpeoplerealneeds, #lovesprouts"
+  - username: "stylecrone"
+    fullname: >-
+      Judith Boyd
+    location: "United States"
+    followers: 55416
+    engagement: 275
+    commentsToLikes: 0.095825
+    id: ck0vvaq9voasv0i19lwn7emho
+    verified: false
+    hashtags: "#ralphpuccini, #climateactivist, #cronecrown, #iprotectyou"
 ---

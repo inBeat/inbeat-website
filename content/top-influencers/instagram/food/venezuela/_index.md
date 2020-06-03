@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top food Instagram influencers in Venezuela in 2020. Most popular hashtags: #caracas #venezuela #coronavirus #ccvchef.
+  Find top food Instagram influencers in Venezuela in 2020. Most popular hashtags: #cuarentena #coronavirus #eventos #diadelamadre.
 platform: Instagram
 profiles:
-  - username: "dailizmorillo"
-    fullname: >-
-      Dailiz | FASHION & LIFESTYLE
-    location: "Venezuela"
-    followers: 21178
-    engagement: 323
-    commentsToLikes: 0.089501
-    id: ck5hr53vaua1f0i11mp4uyxtf
-    verified: false
-    hashtags: "#cuarentena, #tannig, #modellook, #beachbodys"
-  - username: "kimloewenthal"
-    fullname: >-
-      𝒦𝒾𝓂 ℒ𝑜𝑒𝓌𝑒𝓃𝓉𝒽𝒶𝓁👁
-    location: "Venezuela"
-    followers: 25868
-    engagement: 191
-    commentsToLikes: 0.056383
-    id: ck6uhlmyx9u180j71w3xd5oa5
-    verified: false
-    hashtags: "#cinex, #alzarlavoz, #foodlover, #blogger"
-  - username: "arevalostephany"
-    fullname: >-
-      Stephany Arevalo
-    location: "Venezuela"
-    followers: 9834
-    engagement: 796
-    commentsToLikes: 0.048878
-    id: ck6ubvbf4bwwj0j71gpi5mmyd
-    verified: false
-    hashtags: "#goldenhour, #madrid, #quarantinelife, #mycity"
   - username: "teresagulin"
     fullname: >-
       TERESA GULÍN
     location: "Venezuela"
-    followers: 6172
-    engagement: 983
-    commentsToLikes: 0.034785
+    followers: 7036
+    engagement: 1029
+    commentsToLikes: 0.024815
     id: ck6ubvt1obzwq0j71e0gkbbsa
     verified: false
-    hashtags: "#odiotaparlelacaraaminoviopero, #dilenoalcuerpoeyuca, #happy, #pink"
+    hashtags: "#videazo, #plisnomedejenmorir, #boyfriend, #cumplea"
+  - username: "dailizmorillo"
+    fullname: >-
+      Dailiz | FASHION & LIFESTYLE
+    location: "Venezuela"
+    followers: 21883
+    engagement: 308
+    commentsToLikes: 0.031880
+    id: ck5hr53vaua1f0i11mp4uyxtf
+    verified: false
+    hashtags: "#hairlook, #happy, #spraytan, #tan"
   - username: "elgatogolosoblog"
     fullname: >-
       Maru Aveledo▪️Elgatogoloso.com
     location: "Venezuela"
-    followers: 31659
-    engagement: 250
-    commentsToLikes: 0.111740
+    followers: 33556
+    engagement: 274
+    commentsToLikes: 0.104797
     id: ck5hd17n3kz7r0i1123y7t6zp
     verified: false
-    hashtags: "#saturdaymood, #twinkies, #tvshow, #bananabreadrecipe"
+    hashtags: "#cafelover, #pastasalad, #mujerempoderada, #eatcaptureshare"
+  - username: "kimloewenthal"
+    fullname: >-
+      𝒦𝒾𝓂 ℒ𝑜𝑒𝓌𝑒𝓃𝓉𝒽𝒶𝓁👁
+    location: "Venezuela"
+    followers: 25790
+    engagement: 164
+    commentsToLikes: 0.052813
+    id: ck6uhlmyx9u180j71w3xd5oa5
+    verified: false
+    hashtags: "#fridaymood, #alzarlavoz, #aries, #subastabenefica"
   - username: "ray_hevia"
     fullname: >-
       RAY HEVIA | Cocinero / Cook
     location: "Venezuela"
-    followers: 17208
-    engagement: 320
-    commentsToLikes: 0.097099
+    followers: 17271
+    engagement: 314
+    commentsToLikes: 0.107123
     id: ck6tsv7nh70op0j71oah6m97e
     verified: false
-    hashtags: "#puertoordaz, #cocinerosvenezolanos, #foodislife, #stirfry"
-  - username: "elpiporamirez"
+    hashtags: "#valentines, #fruto, #seafood, #platingart"
+  - username: "chewithme"
     fullname: >-
-      Pipo Mermelada Bunch
+      Erika Lorenzo
     location: "Venezuela"
-    followers: 203337
-    engagement: 106
-    commentsToLikes: 0.077375
-    id: ck14kmcy4q86j0i19xm6d3hgj
+    followers: 40293
+    engagement: 173
+    commentsToLikes: 0.056189
+    id: ck6u3tqwaztr30j71j2ozzu3q
     verified: false
-    hashtags: "#mima, #quediosnoscuide, #terrible, #quedateencasa"
+    hashtags: "#cooktochew, #chewingcaracas, #chewtalks, #dalgonacoffee"
   - username: "comeresblog"
     fullname: >-
       Comer es:
     location: "Venezuela"
-    followers: 23248
-    engagement: 266
-    commentsToLikes: 0.042858
+    followers: 23132
+    engagement: 260
+    commentsToLikes: 0.051212
     id: ck5hpfyctralz0i11jjf6qulq
     verified: false
-    hashtags: "#igorgrischechkin, #cena, #catalunya, #armandoscannone"
-  - username: "alejandro.ruizs"
+    hashtags: "#tortelldereis, #teque, #2019, #macaron"
+  - username: "peireis"
     fullname: >-
-      Alejandro Ruiz Sevillano
+      Peireis
     location: "Venezuela"
-    followers: 35969
-    engagement: 291
-    commentsToLikes: 0.063660
-    id: ck5hk6j6bhvn00i117uezr3r6
+    followers: 89506
+    engagement: 176
+    commentsToLikes: 0.082352
+    id: ck5hqxl7ltwlb0i11ag4qryl2
     verified: false
-    hashtags: "#fortlauderdale, #gokutattoo, #spiritedaway, #blackwork"
-  - username: "asoteldo"
+    hashtags: "#maracay, #coffeelover, #peireisbeauty, #outfitdetails"
+  - username: "angeunda"
     fullname: >-
-      Alejandro Soteldo 🇻🇪
+      ANGE UNDA 👑
     location: "Venezuela"
-    followers: 21394
-    engagement: 592
-    commentsToLikes: 0.069011
-    id: ck602x1lzjs7m0i14chfvlftd
+    followers: 335162
+    engagement: 108
+    commentsToLikes: 0.070994
+    id: ck0vw0xdprm0q0i191jl13f6s
     verified: false
-    hashtags: "#xmas, #valencia, #bogot, #latenightpost"
+    hashtags: "#concurso, #libros, #quarantine, #purificador"
+  - username: "themarianamontoya"
+    fullname: >-
+      Mariana Montoya
+    location: "Venezuela"
+    followers: 8668
+    engagement: 229
+    commentsToLikes: 0.119769
+    id: ck6ub73fe7vas0j710pcouaqu
+    verified: false
+    hashtags: "#lorealparis, #coronavirus, #selfcare, #makuep"
 ---

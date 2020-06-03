@@ -1,59 +1,79 @@
 ---
 title: Top 10 Bmx Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top bmx Instagram influencers in Indonesia in 2020. Most popular hashtags: #bmx #dirumahaja #indonesia #builtforthethrill.
+  Find top bmx Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #stayathome #corona #league.
 platform: Instagram
 profiles:
-  - username: "samuelavrillian"
-    fullname: >-
-      Samuel Avrillian
-    location: "Indonesia"
-    followers: 8202
-    engagement: 490
-    commentsToLikes: 0.054895
-    id: ck5hqh798t3tw0i11fef3qz6l
-    verified: false
-    hashtags: "#bandung, #17agustus, #jawabarat, #ioxc"
-  - username: "tonisyarifudin"
-    fullname: >-
-      Toni Syarifudin
-    location: "Indonesia"
-    followers: 13859
-    engagement: 631
-    commentsToLikes: 0.019811
-    id: ck5zysz2qah0r0i147lo22erj
-    verified: false
-    hashtags: "#fun, #kaifight77, #grateful, #bestwife"
-  - username: "ardikawinata"
-    fullname: >-
-      AW
-    location: "Indonesia"
-    followers: 29980
-    engagement: 398
-    commentsToLikes: 0.013912
-    id: ck5hj1mf8fuf80i112igr6wdk
-    verified: false
-    hashtags: "#timtam, #lpsupportindonesia, #timtaminsenyumin, #fyc"
-  - username: "rio_karioakbar"
-    fullname: >-
-      Rio Akbar
-    location: "Indonesia"
-    followers: 12016
-    engagement: 712
-    commentsToLikes: 0.013796
-    id: ck5zyt0acah390i14hf6tbwad
-    verified: false
-    hashtags: "#bmxfamily, #indonesiancyclingfederation, #dirumahaja, #kelamaandirumah"
   - username: "botayagata"
     fullname: >-
       Botayagata
     location: "Indonesia"
-    followers: 32276
-    engagement: 145
-    commentsToLikes: 0.009842
+    followers: 32291
+    engagement: 153
+    commentsToLikes: 0.008604
     id: ck8szal6gnp040j780h1t92is
     verified: false
-    hashtags: "#quarantineday10, #ancolbeach, #botayataga, #bmx"
+    hashtags: "#coronavirus, #covid19, #ancolbeach, #superadventure"
+  - username: "samuelavrillian"
+    fullname: >-
+      Samuel Avrillian
+    location: "Indonesia"
+    followers: 8192
+    engagement: 466
+    commentsToLikes: 0.058163
+    id: ck5hqh798t3tw0i11fef3qz6l
+    verified: false
+    hashtags: "#cianjur, #bdgbmx, #dirumahaja, #bandung"
+  - username: "iwan_maruba_s"
+    fullname: >-
+      I. M. S
+    location: "Indonesia"
+    followers: 2201
+    engagement: 1055
+    commentsToLikes: 0.072239
+    id: ck9wd6fjie9vk0j78x62703b4
+    verified: false
+    hashtags: "#vrtcl, #flatindo, #rideinside, #flatindobmx"
+  - username: "tonisyarifudin"
+    fullname: >-
+      Toni Syarifudin
+    location: "Indonesia"
+    followers: 13960
+    engagement: 624
+    commentsToLikes: 0.018036
+    id: ck5zysz2qah0r0i147lo22erj
+    verified: false
+    hashtags: "#bmxinternationalbanyuwangi, #philippines, #fail, #olympic"
+  - username: "ardikawinata"
+    fullname: >-
+      AW
+    location: "Indonesia"
+    followers: 30042
+    engagement: 409
+    commentsToLikes: 0.016495
+    id: ck5hj1mf8fuf80i112igr6wdk
+    verified: false
+    hashtags: "#timtamsenyumin, #timtamgolden, #goldentimtam, #timtaminsenyumin"
+  - username: "uchinoyohei"
+    fullname: >-
+      内野洋平
+    location: "Indonesia"
+    followers: 11720
+    engagement: 626
+    commentsToLikes: 0.019452
+    id: ck6tumbymh5px0j71pl1elff4
+    verified: true
+    hashtags: "#jeeprealgames, #thepowerofreal, #dontstopskills, #repost"
+  - username: "rio_karioakbar"
+    fullname: >-
+      Rio Akbar
+    location: "Indonesia"
+    followers: 12097
+    engagement: 669
+    commentsToLikes: 0.013077
+    id: ck5zyt0acah390i14hf6tbwad
+    verified: false
+    hashtags: "#forthoveofsport, #dirumahaja, #lockdown2020, #onealracing"
   - username: "vicky_kalea19"
     fullname: >-
       𝑽𝒊𝒄𝒌𝒚 𝑲𝒂𝒍𝒆𝒂
@@ -63,45 +83,25 @@ profiles:
     commentsToLikes: 0.019441
     id: ck6twwgvtuht40j71yb6tjy0c
     verified: false
-    hashtags: "#nofilter, #happy, #interceptfilmcraft, #horor"
+    hashtags: "#instaphotos, #tflers, #igers, #iphoneonly"
   - username: "reynaldirere171"
     fullname: >-
       Reynaldi pradhana (rere)
     location: "Indonesia"
-    followers: 30207
-    engagement: 998
-    commentsToLikes: 0.010361
+    followers: 30512
+    engagement: 973
+    commentsToLikes: 0.010747
     id: ck13bh0covcvt0i194114wom9
     verified: false
-    hashtags: "#tuneup, #italiano, #racingramerame, #rxkingsuperpro"
-  - username: "satriavijie"
+    hashtags: "#mxking, #racikanbaru, #vespa, #2strokelovers"
+  - username: "fais_anggara"
     fullname: >-
-      SV
+      FAIS
     location: "Indonesia"
-    followers: 95078
-    engagement: 699
-    commentsToLikes: 0.008905
-    id: ck0vvvoajqyzr0i19cd9j736k
-    verified: true
-    hashtags: "#ayosemangat, #converseid, #fuckcorona, #tiktok"
-  - username: "ketekk_"
-    fullname: >-
-      # K E D A I G A U L
-    location: "Indonesia"
-    followers: 5051
-    engagement: 589
-    commentsToLikes: 0.041910
-    id: ck5zj74bth28u0i149xq6oqpc
+    followers: 7289
+    engagement: 815
+    commentsToLikes: 0.100566
+    id: ckap16m8pt9vb0i78pyi7b6pp
     verified: false
-    hashtags: "#fornasvkaltim, #skateboardindonesia, #skatelife, #kedaigaul"
-  - username: "rzkyprtmamz"
-    fullname: >-
-      ɾȥƙყρɾƚɱα
-    location: "Indonesia"
-    followers: 7049
-    engagement: 373
-    commentsToLikes: 0.059243
-    id: ck6tvu2o5oa5s0j71h0c2x6b8
-    verified: false
-    hashtags: "#asikinfeedsmu, #sorry, #monsterroad2020, #fingerboardtv"
+    hashtags: "#pendaki, #jejakpendaki, #mountains, #exploremalang"
 ---

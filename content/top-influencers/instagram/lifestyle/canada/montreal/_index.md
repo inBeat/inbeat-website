@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Montreal In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Montreal in 2020. Most popular hashtags: #stayhome #montreal #lifestyle #love.
+  Find top lifestyle Instagram influencers in Montreal in 2020. Most popular hashtags: #canada #montreal # #makeup.
 platform: Instagram
 profiles:
-  - username: "vanilla_picture"
+  - username: "bylauragdiaz"
     fullname: >-
-      VANILLA PICTURE
+      Laura Ⓥ Conscious Lifestyle
     location: "Canada"
-    followers: 15108
-    engagement: 556
-    commentsToLikes: 0.043548
-    id: ck5hipkhdeq5v0i11mqoux891
+    followers: 2553
+    engagement: 1173
+    commentsToLikes: 0.252800
+    id: ck13bok3gwepl0i19265dty97
     verified: false
-    hashtags: "#portrait, #torontoportraitphotographer, #vintagestyle, #canonphotography"
+    hashtags: "#dametraveler, #fvmtl, #mtlvegan, #veganbeautyblogger"
+  - username: "iam.neptuna"
+    fullname: >-
+      N E P T U N A 🧜🏼‍♀️
+    location: "Canada"
+    followers: 3469
+    engagement: 2309
+    commentsToLikes: 0.188764
+    id: ckap3q95n435q0i78tew2axmj
+    verified: false
+    hashtags: ""
+  - username: "la.mouette"
+    fullname: >-
+      Florence
+    location: "Canada"
+    followers: 22145
+    engagement: 545
+    commentsToLikes: 0.038750
+    id: ck55ptio1bcg80i11u9gk175z
+    verified: false
+    hashtags: "#sketching, #exploretocreate, #ipadprocreate, #scotlandtravel"
+  - username: "kamouchefly"
+    fullname: >-
+      Cαmille ♡
+    location: "Canada"
+    followers: 19947
+    engagement: 982
+    commentsToLikes: 0.012656
+    id: ckaoxzwdhfgyp0i78uocdov14
+    verified: false
+    hashtags: "#umithesam, #idealofsweden, #thankful, #instatravel"
   - username: "mollyyycardi"
     fullname: >-
-      M o l l y
+      Mollycardi👽
     location: "Canada"
-    followers: 23268
-    engagement: 350
-    commentsToLikes: 0.063511
+    followers: 23077
+    engagement: 299
+    commentsToLikes: 0.093991
     id: ck5q1vog1d05k0i11u2afkkvg
     verified: false
-    hashtags: "#sleevetattoo, #sleeve, #timesquare, #tattoosleeve"
-  - username: "tarachujunian"
-    fullname: >-
-      Tara Spinelli
-    location: "Canada"
-    followers: 5252
-    engagement: 483
-    commentsToLikes: 0.296602
-    id: ck6tux7weixqd0j7187z739a4
-    verified: false
-    hashtags: "#coolcoolcool, #ad, #bellletstalk, #depressionawareness"
-  - username: "fadikod"
-    fullname: >-
-      fadikod
-    location: "Canada"
-    followers: 37991
-    engagement: 141
-    commentsToLikes: 0.086704
-    id: ck14ix6xjhkh70i19v32mx63u
-    verified: false
-    hashtags: "#soul, #singer, #stayhome, #blessed"
+    hashtags: "#blush, #waffle, #bag, #coffee"
   - username: "yesmini_"
     fullname: >-
       Yesmine Boukhili
     location: "Canada"
-    followers: 11585
-    engagement: 490
-    commentsToLikes: 0.051997
+    followers: 11524
+    engagement: 462
+    commentsToLikes: 0.042066
     id: ck5hcjqu1iffe0i11b8ab16u7
     verified: false
-    hashtags: "#brooklyn, #chasinglight, #mtlmoments, #alhamdulillah"
-  - username: "ericbranover"
+    hashtags: "#mtlmoments, #noedit, #throwback, #morningslikethese"
+  - username: "instawanza"
     fullname: >-
-      🚧 Montreal | Canada 🍁
+      Wided
     location: "Canada"
-    followers: 20894
-    engagement: 219
-    commentsToLikes: 0.014353
-    id: ck0vzj1gq9cm60i1980c1zksn
+    followers: 168324
+    engagement: 557
+    commentsToLikes: 0.024845
+    id: ckaoynl0si9f10i784lhe6n3y
     verified: false
-    hashtags: "#imagesofcanada, #timeless, #bealpha, #igersflorida"
-  - username: "jessmegan"
+    hashtags: "#ramadankareem, #education, #quarantineinmtl, #mua"
+  - username: "trangreeny"
     fullname: >-
-      Jess
+      Trang | MTL Lifestyle
     location: "Canada"
-    followers: 47835
-    engagement: 590
-    commentsToLikes: 0.010717
-    id: ck0w1u8p6l5x70i19qwdq8tqt
+    followers: 10074
+    engagement: 564
+    commentsToLikes: 0.059581
+    id: ckaorli1qnrcl0i782zrqeflr
     verified: false
-    hashtags: "#billabongxsincerelyjules, #mamatobe, #miniplante, #mamatobe"
-  - username: "amoula__style"
+    hashtags: "#softserve, #flatlaystyle, #bouquet, #foodforlife"
+  - username: "welcome_to_montreal"
     fullname: >-
-      Amal Lassoued | Lifestyle
+      Welcome To Montreal
     location: "Canada"
-    followers: 16652
-    engagement: 276
-    commentsToLikes: 0.082520
-    id: ck0w0z38mgqtm0i19nkz6byk7
+    followers: 25214
+    engagement: 143
+    commentsToLikes: 0.014509
+    id: ck9wflx1ypfqm0j78kedrv5rr
     verified: false
-    hashtags: "#torontoblogger, #styleinspo, #travelling, #outfitinspo"
-  - username: "billionaire_life.styles"
+    hashtags: "#mtlart, #basiliquenotredame, #mtlblogger, #autumn"
+  - username: "charles.ferna"
     fullname: >-
-      Billionaire life style
+      CHARLES FERNANDEZ
     location: "Canada"
-    followers: 202941
-    engagement: 197
-    commentsToLikes: 0.040943
-    id: ck14l58lvsx340i19y0j0129a
+    followers: 10046
+    engagement: 1196
+    commentsToLikes: 0.024992
+    id: ckap4lqhb7umn0i7849ywuyz6
     verified: false
-    hashtags: "#breakfast, #mclaren720s, #viral, #rollsroyce"
-  - username: "annita_mompellert"
-    fullname: >-
-      Anne Laura
-    location: "Canada"
-    followers: 54801
-    engagement: 328
-    commentsToLikes: 0.099232
-    id: ck0w0jffuei2p0i19um5n3392
-    verified: false
-    hashtags: "#mtlphotography, #mtlfriday, #christiancreative, #styleblogger"
+    hashtags: ""
 ---

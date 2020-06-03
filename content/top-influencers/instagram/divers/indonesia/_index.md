@@ -1,107 +1,107 @@
 ---
 title: Top 10 Divers Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top divers Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #diving #slankingforever #underwaterphotography.
+  Find top divers Instagram influencers in Indonesia in 2020. Most popular hashtags: #throwback #freediving #leuserecosystem #repost.
 platform: Instagram
 profiles:
+  - username: "satyawinnie"
+    fullname: >-
+      Satya Winnie | Travel Blogger
+    location: "Indonesia"
+    followers: 33605
+    engagement: 436
+    commentsToLikes: 0.093384
+    id: ck138jc7ggi650i19vaskllcv
+    verified: false
+    hashtags: "#leuserecosystem, #kupang, #ketambe, #goproid"
   - username: "jovankalexndra"
     fullname: >-
       ✨🌜Jovanka R Alexandra🌛✨
     location: "Indonesia"
-    followers: 39833
-    engagement: 786
-    commentsToLikes: 0.015371
+    followers: 42512
+    engagement: 868
+    commentsToLikes: 0.015925
     id: ck14i7k21e1920i19ebi6p017
     verified: false
-    hashtags: "#exsportxshanetortilla, #campinaicecream, #campinaconcerto, #instaxgives"
-  - username: "agus_syach"
-    fullname: >-
-      Agus Syach
-    location: "Indonesia"
-    followers: 5669
-    engagement: 600
-    commentsToLikes: 0.074308
-    id: ck5ci2sbcrwqy0i11tnxi57dl
-    verified: false
-    hashtags: "#stayathome, #kecamatanbogortengah, #pajakkitauntukkita, #donasimaskerkain"
+    hashtags: "#campinaicecream, #concertochocobanana, #concertochocopassion, #concertocookiescreamy"
   - username: "clarestaufan"
     fullname: >-
       Claresta Taufan Kusumarina
     location: "Indonesia"
-    followers: 81962
-    engagement: 646
-    commentsToLikes: 0.009581
+    followers: 83248
+    engagement: 663
+    commentsToLikes: 0.011868
     id: ck13477xtv1v40i19bl0ij8nt
     verified: false
-    hashtags: "#nikeathlete, #clarestakick, #skincare, #playinside"
-  - username: "revyandhita"
+    hashtags: "#lebaran, #skortv, #diumbreinaja, #hiupaus"
+  - username: "agus_syach"
     fullname: >-
-      Revyandhita
+      Agus Syach
     location: "Indonesia"
-    followers: 10761
-    engagement: 766
-    commentsToLikes: 0.016995
-    id: ck0u1p0usxl1n0i19vn5do5c3
+    followers: 6088
+    engagement: 627
+    commentsToLikes: 0.074228
+    id: ck5ci2sbcrwqy0i11tnxi57dl
     verified: false
-    hashtags: "#hijabtravellers, #hijabtravelers, #dailyhijabstory, #hijabtraveller"
+    hashtags: "#cicingdiimah, #donasimaskerkain, #kotabogor, #abdibogor"
+  - username: "marischkaprue"
+    fullname: >-
+      Marischka Prudence
+    location: "Indonesia"
+    followers: 112978
+    engagement: 210
+    commentsToLikes: 0.085325
+    id: ck55mmcer49py0i110n8pwtbc
+    verified: true
+    hashtags: "#stayathome, #untiltomorrow, #jadibisalebihcepatlebihnyaman, #hidrasisehatku"
+  - username: "wiiiiza"
+    fullname: >-
+      Farwiza Farhan
+    location: "Indonesia"
+    followers: 7203
+    engagement: 735
+    commentsToLikes: 0.036105
+    id: ck5pzm7981nyz0i11bew290o1
+    verified: false
+    hashtags: "#websummit2019, #wellbeing, #plantbased, #meditation"
   - username: "yotiefish"
     fullname: >-
       
     location: "Indonesia"
-    followers: 13116
-    engagement: 978
-    commentsToLikes: 0.018387
+    followers: 12923
+    engagement: 996
+    commentsToLikes: 0.018266
     id: ck6tmfu5t7rs60j717dihzwmu
     verified: false
-    hashtags: "#freediving, #girlsthatfreedive, #oceanerwetsuits, #oceaner"
-  - username: "claraalverin"
+    hashtags: "#freediver, #oceaner, #onebreath, #freediving"
+  - username: "anton_maznyi"
     fullname: >-
-      Clara Alverina Law
+      Anton Maznyi
     location: "Indonesia"
-    followers: 20883
-    engagement: 268
-    commentsToLikes: 0.024999
-    id: ck8sz9etynkna0j78zbduqwyp
+    followers: 31707
+    engagement: 221
+    commentsToLikes: 0.034319
+    id: ck5hceh45hn9k0i11agvc28cj
     verified: false
-    hashtags: "#explorebanda, #wonderfulindonesia, #giveaway, #hippopowerbank"
-  - username: "finn.snow"
+    hashtags: "#uabestsurftrip, #goodsunset"
+  - username: "_charyse"
     fullname: >-
-      Philippines based filmmaker
+      Cʜᴀʀʏsᴇ Rᴇɪɴғᴇʟᴅᴇʀ, ʀɴ
     location: "Indonesia"
-    followers: 86588
-    engagement: 548
-    commentsToLikes: 0.022866
-    id: ck14kxu3qrv4r0i198olzb5pr
+    followers: 11444
+    engagement: 570
+    commentsToLikes: 0.025788
+    id: ck0u6dqql1lvo0i192xdy7f3a
     verified: false
-    hashtags: "#scubadiving, #earth, #keldan, #conservation"
-  - username: "kathrin_underwater"
+    hashtags: "#wedivelocal, #socialdistancing, #coronavirus, #selfisolation"
+  - username: "revyandhita"
     fullname: >-
-      Kathrin Landgraf-Kluge
+      Revyandhita
     location: "Indonesia"
-    followers: 17624
-    engagement: 481
-    commentsToLikes: 0.039771
-    id: ck1393i8bjc210i195yvr2s61
+    followers: 10644
+    engagement: 647
+    commentsToLikes: 0.020078
+    id: ck0u1p0usxl1n0i19vn5do5c3
     verified: false
-    hashtags: "#underwaterphotos, #scubadiver, #shrimp, #divelife"
-  - username: "fishgod"
-    fullname: >-
-      Kaka SLANK
-    location: "Indonesia"
-    followers: 446419
-    engagement: 346
-    commentsToLikes: 0.015527
-    id: ck0vwd246t5gy0i19d8l7erm4
-    verified: true
-    hashtags: "#slankgakadamatinya, #jadwalslank, #pandulaut, #mahakaryafestival2019"
-  - username: "iavnt"
-    fullname: >-
-      Ivan Torres
-    location: "Indonesia"
-    followers: 10384
-    engagement: 1054
-    commentsToLikes: 0.019606
-    id: ck0tzyv0fs1yw0i193y0fpb57
-    verified: false
-    hashtags: "#film, #optoutside, #35mm"
+    hashtags: "#merdekaitu, #healthyglowingskin, #kulitsehatsummertime, #dirumahaja"
 ---

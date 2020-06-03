@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Birmingham In 2020
 description: >-
-  Find top Instagram influencers in Birmingham in 2020. Most popular hashtags: #luxegal #ad #femmeluxe #gym.
+  Find top Instagram influencers in Birmingham in 2020. Most popular hashtags: #selflove #legday #nogymnoproblem #creativemakeup.
 platform: Instagram
 profiles:
   - username: "hollyxfoster"
     fullname: >-
-      H O L L Y F O S T E R🕊
+      H O L L Y F O S T E R
     location: "United Kingdom"
-    followers: 9308
-    engagement: 1160
-    commentsToLikes: 0.028559
+    followers: 10772
+    engagement: 1247
+    commentsToLikes: 0.029573
     id: ck6tijv4q0urm0j71k6q6gc7y
     verified: false
-    hashtags: "#welovesunkissed, #quarantinebutcute, #rebelgal"
-  - username: "tabslifts"
+    hashtags: "#quarantinebutcute"
+  - username: "dapzonthemap"
     fullname: >-
-      🌻TABS LOFTS🌻
+      Dapz On The Map
     location: "United Kingdom"
-    followers: 10751
-    engagement: 1333
-    commentsToLikes: 0.090203
-    id: ck8takzw3s7990j78ziiid6f7
+    followers: 22903
+    engagement: 458
+    commentsToLikes: 0.070517
+    id: ck6ty7hiq23ex0j71uohwdt9p
+    verified: true
+    hashtags: "#dsaw"
+  - username: "juannafitness"
+    fullname: >-
+      JUANNA 🤍
+    location: "United Kingdom"
+    followers: 3773
+    engagement: 2370
+    commentsToLikes: 0.269731
+    id: ckap0okftr6tw0i78m4w9nmto
     verified: false
-    hashtags: "#isolationadvice, #motivation, #fitnessmotivation, #crossfit"
+    hashtags: "#doyou, #mentalhealth, #health, #kitten"
+  - username: "samiya.styles"
+    fullname: >-
+      • S A M I Y A •
+    location: "United Kingdom"
+    followers: 15810
+    engagement: 770
+    commentsToLikes: 0.140428
+    id: ck6u2tdzmttul0j71ee09xysh
+    verified: false
+    hashtags: "#modestymatters, #skingoals, #fentyconcealer, #fbloggeruk"
+  - username: "nxvelouise"
+    fullname: >-
+      N e v e y ♡
+    location: "United Kingdom"
+    followers: 9876
+    engagement: 1088
+    commentsToLikes: 0.226005
+    id: ck9hbsqxeia6e0j78tsjyzpp3
+    verified: false
+    hashtags: "#gymsharkleggings, #gettoknowme, #10factsaboutme, #femmeluxefinery"
   - username: "benfrancis"
     fullname: >-
       Ben Francis
     location: "United Kingdom"
-    followers: 200224
-    engagement: 763
-    commentsToLikes: 0.024327
+    followers: 203021
+    engagement: 762
+    commentsToLikes: 0.023614
     id: ck0u2d0ufzhbp0i19gpvfuqkc
     verified: true
-    hashtags: ""
+    hashtags: "#nhssweatyselfie"
+  - username: "makeuppbycharlie"
+    fullname: >-
+      ✨🌈charlie✨🌈
+    location: "United Kingdom"
+    followers: 4390
+    engagement: 1725
+    commentsToLikes: 0.201935
+    id: ckap8u5bbpwgs0i78vstoe2t1
+    verified: false
+    hashtags: "#boots, #makeupjunkie, #featuremuas, #contouring"
+  - username: "mmaddiehill"
+    fullname: >-
+      𝓜𝓪𝓭𝓲𝓼𝓸𝓷
+    location: "United Kingdom"
+    followers: 6185
+    engagement: 1682
+    commentsToLikes: 0.036512
+    id: ck9ha30t5axe90j78uq1a9goz
+    verified: false
+    hashtags: "#thankyouheroes"
+  - username: "meandlucas"
+    fullname: >-
+      samira | family life & travel
+    location: "United Kingdom"
+    followers: 5107
+    engagement: 957
+    commentsToLikes: 0.158977
+    id: ckaoromawo4vn0i78wuvjk66k
+    verified: false
+    hashtags: "#thankyou, #nhs, #traumaticbraininjury, #giveaway"
   - username: "anniexsangharartistry"
     fullname: >-
       🦋 annie 🧿
     location: "United Kingdom"
-    followers: 8278
-    engagement: 898
-    commentsToLikes: 0.096026
+    followers: 11553
+    engagement: 785
+    commentsToLikes: 0.106315
     id: ck0tz1gfzos4d0i192guso8m9
     verified: false
-    hashtags: "#plouisemakeupacademy, #eyelooks, #lordchyna, #stepbystepmakeup"
-  - username: "scapegoat.cos"
-    fullname: >-
-      King Karma
-    location: "United Kingdom"
-    followers: 20996
-    engagement: 950
-    commentsToLikes: 0.030340
-    id: ck8wdbjcodlld0j7897tmb04p
-    verified: false
-    hashtags: "#kokichioumacosplay, #deadmanwonderland, #kawaiiboy, #yunoedit"
-  - username: "tashadamsx"
-    fullname: >-
-      Tash Adams
-    location: "United Kingdom"
-    followers: 21579
-    engagement: 450
-    commentsToLikes: 0.091820
-    id: ck0u640uh106v0i1984sapuos
-    verified: false
-    hashtags: "#gifted, #makeitpersonal, #idealofsweden, #4dplates"
-  - username: "makeupbyemapaulino"
-    fullname: >-
-      MAKEUP BY EMA
-    location: "United Kingdom"
-    followers: 7453
-    engagement: 1172
-    commentsToLikes: 0.056404
-    id: ck15th729i23y0i19gb1y2ihq
-    verified: false
-    hashtags: "#kl12, #makeupartist, #jeffreestarcosmetics, #kimkardashian"
-  - username: "aislinnok"
-    fullname: >-
-      Aislinn 🏳️‍🌈
-    location: "United Kingdom"
-    followers: 28040
-    engagement: 589
-    commentsToLikes: 0.039318
-    id: ck0w3a5r1scqt0i19q5sje16s
-    verified: false
-    hashtags: "#lesbiancouple, #femmecouple, #lesbianpride, #uklesbians"
-  - username: "karina_fitdoll"
-    fullname: >-
-      K A R I N A   S P A R K S
-    location: "United Kingdom"
-    followers: 19004
-    engagement: 546
-    commentsToLikes: 0.057382
-    id: ck8tbuj7dx7fd0j78xqk234fm
-    verified: false
-    hashtags: "#happyvibes, #visionary, #tb, #tbt"
-  - username: "thesilvermermaidxo"
-    fullname: >-
-      K A T I E   P E A K E
-    location: "United Kingdom"
-    followers: 54794
-    engagement: 230
-    commentsToLikes: 0.137459
-    id: ck0w711o1b83x0i191tm5qxtf
-    verified: false
-    hashtags: "#ltkshoecrush, #anothermirrorselfie, #stayathomepamper, #stayingathome"
+    hashtags: "#fluffybrows, #makeuppictorial, #eyeshadowtutorial, #blazin"
 ---

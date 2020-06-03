@@ -1,59 +1,39 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In New York In 2020
 description: >-
-  Find top cosmetics Instagram influencers in New York in 2020. Most popular hashtags: #makeup #fashion #skincare #cosmetics.
+  Find top cosmetics Instagram influencers in New York in 2020. Most popular hashtags: #cosmetics #makeuplook #makeuplover #makeuplife.
 platform: Instagram
 profiles:
+  - username: "kravekay"
+    fullname: >-
+      ♡ KAY KAY ♡
+    location: "United States"
+    followers: 121238
+    engagement: 61
+    commentsToLikes: 0.021990
+    id: ck0w396a3s7q20i19k4pwgpui
+    verified: false
+    hashtags: "#miamihair, #kravekaykollection, #atlvendor, #atlclosures"
   - username: "sdmedicalarts"
     fullname: >-
-      Svetlana M Danovich MD, FACS
+      Svetlana M. Danovich MD, FACS
     location: "United States"
-    followers: 34227
-    engagement: 296
-    commentsToLikes: 0.001820
+    followers: 33442
+    engagement: 346
+    commentsToLikes: 0.002638
     id: ck8sxtn7uimdh0j787km4s3wo
     verified: false
-    hashtags: "#advice, #internationalwomensday, #stayhome, #plasticsurgeon"
-  - username: "yukibomb"
+    hashtags: "#success, #believeinyourself, #healthlooksgood, #lookhealthy"
+  - username: "alejapineda1"
     fullname: >-
-      Yuki - Fashion & Beauty Model
+      ALEJANDRA PINEDA 🇨🇴
     location: "United States"
-    followers: 68169
-    engagement: 141
-    commentsToLikes: 0.051605
-    id: ck0vy7dbl2l1c0i19lrmprnw4
+    followers: 477899
+    engagement: 86
+    commentsToLikes: 0.053347
+    id: ck5zno1aaotso0i14dihlm323
     verified: false
-    hashtags: "#travel, #love, #kawaii, #sulwhasoo"
-  - username: "michellemoniquephoto"
-    fullname: >-
-      Michelle Monique
-    location: "United States"
-    followers: 105144
-    engagement: 95
-    commentsToLikes: 0.042549
-    id: ck15qlayy3e120i19kmfwkte2
-    verified: false
-    hashtags: "#kyliexbalmain, #blueeyeshadow, #editorialmakeup, #flowerart"
-  - username: "samanthakumiko"
-    fullname: >-
-      Samantha Kumiko 🌸
-    location: "United States"
-    followers: 55867
-    engagement: 591
-    commentsToLikes: 0.061405
-    id: ck55m930l3ham0i11obhkefl7
-    verified: false
-    hashtags: "#2020, #matchroomgirl, #wilwoodbrakes, #myro"
-  - username: "vivalapinkposh"
-    fullname: >-
-      VIVALAPINKPOSH
-    location: "United States"
-    followers: 36048
-    engagement: 147
-    commentsToLikes: 0.253633
-    id: ck14kzxi9s60d0i19xv668nlf
-    verified: false
-    hashtags: "#pinkwardrobe, #hairmakeupdiary, #lipglossboss, #lipswatches"
+    hashtags: "#miamidistric, #styles, #getnastygal, #worldstar"
   - username: "eusou.gisselldiaz"
     fullname: >-
       Gissell Díaz Tineo.
@@ -64,44 +44,64 @@ profiles:
     id: ck6uden3nknjg0j71sw3972nn
     verified: false
     hashtags: "#danessamyricks, #what, #bridalmakeup, #makeuptutorial"
-  - username: "allieballiemakeup"
+  - username: "shinobay"
     fullname: >-
-      Allie
+      Dr Shino Bay Aguilera
     location: "United States"
-    followers: 731425
-    engagement: 139
-    commentsToLikes: 0.164336
-    id: ck0u7j3k14x0y0i19fmpsmmwg
+    followers: 61928
+    engagement: 75
+    commentsToLikes: 0.150194
+    id: ck0w71uuybch40i1951bhpo3k
     verified: false
-    hashtags: "#makeupclips, #mnyitlook, #pinkhair, #tatcha"
+    hashtags: "#instagramlive, #noninvasive, #fitness, #gratitude"
+  - username: "makeupmelanin"
+    fullname: >-
+      MAKEUP MELANIN
+    location: "United States"
+    followers: 72570
+    engagement: 482
+    commentsToLikes: 0.019293
+    id: ck6u0steihk2y0j71yuxgag83
+    verified: false
+    hashtags: "#goddess, #attract, #waistbeadsmiami, #abundance"
+  - username: "dr.nickc"
+    fullname: >-
+      Dr. Nick 🦷
+    location: "United States"
+    followers: 88687
+    engagement: 324
+    commentsToLikes: 0.050280
+    id: ck6ttoi9gbqo70j71n8n0q2rd
+    verified: false
+    hashtags: "#smiledesign, #nurse, #dentalhygienost, #comedy"
   - username: "nadiakazakova"
     fullname: >-
       Nadia Kazakova
     location: "United States"
-    followers: 76691
-    engagement: 367
-    commentsToLikes: 0.029749
+    followers: 77623
+    engagement: 352
+    commentsToLikes: 0.031513
     id: ck15qq9z644kc0i19pphvutgu
     verified: false
-    hashtags: "#poland, #instagram, #travel, #glowingsky"
+    hashtags: "#modelphotoshoot, #mondays, #lovedogs, #moda2020"
   - username: "chrissysmalls_"
     fullname: >-
       🍒𝕮𝖍𝖗𝖎𝖘𝖘𝖞𝕾𝖒𝖆𝖑𝖑𝖘_🍒
     location: "United States"
-    followers: 4063
-    engagement: 2669
-    commentsToLikes: 0.062927
+    followers: 4012
+    engagement: 2703
+    commentsToLikes: 0.062906
     id: ck6udlheolrkq0j71a6vgvco0
     verified: false
-    hashtags: "#instaready, #newyork, #makeuplover, #bartiercardi"
+    hashtags: "#beauty, #morphebrushes, #ready, #ilovemakeup"
   - username: "makeupbyshanshan"
     fullname: >-
       Shannon Smart
     location: "United States"
-    followers: 18162
-    engagement: 380
-    commentsToLikes: 0.117478
+    followers: 18452
+    engagement: 407
+    commentsToLikes: 0.095475
     id: ck15rxkwla7ey0i19h12p5cwx
     verified: false
-    hashtags: "#softglam, #junoandco, #featuringmuas, #beautycreationslashes"
+    hashtags: "#gifted, #lipgloss, #kbeautyaddict, #kkwbeauty"
 ---

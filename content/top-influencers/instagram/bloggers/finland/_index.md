@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Finland In 2020
 description: >-
-  Find top bloggers Instagram influencers in Finland in 2020. Most popular hashtags: #helsinki #kaupallinenyhteisty #flattenthecurve #stayhome.
+  Find top bloggers Instagram influencers in Finland in 2020. Most popular hashtags: #yesitspizza #arvonta #sudiomoments #rv15.
 platform: Instagram
 profiles:
-  - username: "pashapooosh"
+  - username: "idajemina"
     fullname: >-
-      Miss Pasha | Youtuber
+      IDA JEMINA
     location: "Finland"
-    followers: 69504
-    engagement: 962
-    commentsToLikes: 0.020036
-    id: ck15uedaomrfr0i19oxqv7akp
+    followers: 691394
+    engagement: 553
+    commentsToLikes: 0.016743
+    id: ck136ehmk63fg0i19q083wf49
     verified: false
-    hashtags: "#plussizebeauties, #artmuseum, #babynetflix, #classystyle"
+    hashtags: "#friday, #womensbestwear, #motivation, #supportedby"
+  - username: "l.ndx"
+    fullname: >-
+      Linda Alho
+    location: "Finland"
+    followers: 8153
+    engagement: 1626
+    commentsToLikes: 0.017581
+    id: ck8t0d5b6rnv40j78it0ekumb
+    verified: false
+    hashtags: "#jointhechange, #laitilanjuomat, #wknd20, #fortum"
+  - username: "mikaelakosk"
+    fullname: >-
+      Mikaela Koskela▪️Bloggaaja
+    location: "Finland"
+    followers: 5302
+    engagement: 614
+    commentsToLikes: 0.179143
+    id: ck5zwvke76udp0i143rpfqg9g
+    verified: false
+    hashtags: "#greenwall, #marimekkohome, #lehtikuningas, #honeyblonde"
   - username: "umppu"
     fullname: >-
       umppu@hotmail.com
     location: "Finland"
-    followers: 25144
-    engagement: 235
-    commentsToLikes: 0.064802
+    followers: 25884
+    engagement: 371
+    commentsToLikes: 0.149529
     id: ck6tznnprarw20j716tbcv581
     verified: false
-    hashtags: "#hiuskorut, #hiuspanta, #maybeauty, #kampaajanel"
-  - username: "alexadagmar"
-    fullname: >-
-      ALEXA DAGMAR
-    location: "Finland"
-    followers: 45911
-    engagement: 602
-    commentsToLikes: 0.018531
-    id: ck0vyfb093p3q0i198gtojn41
-    verified: false
-    hashtags: "#realtechniquesfi, #anniversary, #essie, #throwback"
-  - username: "mikaelakosk"
-    fullname: >-
-      Mikaela Koskela▪️Blogger
-    location: "Finland"
-    followers: 5089
-    engagement: 415
-    commentsToLikes: 0.117404
-    id: ck5zwvke76udp0i143rpfqg9g
-    verified: false
-    hashtags: "#geminiproblems, #microbladinghelsinki, #remontti, #sonyalphasclub"
-  - username: "vilmape"
-    fullname: >-
-      VILMA P. - Yoga & Wellbeing
-    location: "Finland"
-    followers: 26327
-    engagement: 264
-    commentsToLikes: 0.028229
-    id: ck0w715ibb8p40i19htyk1fp9
-    verified: false
-    hashtags: "#nature, #oddlygoodbarista, #bond, #organiccosmetics"
-  - username: "ananasraastee"
-    fullname: >-
-      Sini Savolainen
-    location: "Finland"
-    followers: 55258
-    engagement: 350
-    commentsToLikes: 0.008348
-    id: ck14iz5m8hujs0i19fufj1g6d
-    verified: false
-    hashtags: "#rapunzelhelsinki, #staysafe, #comfortableaf, #jotexfi"
+    hashtags: "#tb, #eveliinantalo, #terassisisustus, #lahjakortti"
   - username: "maijumarkkanen"
     fullname: >-
       Maiju Markkanen | Wellness
     location: "Finland"
-    followers: 7455
-    engagement: 332
-    commentsToLikes: 0.095358
+    followers: 7404
+    engagement: 392
+    commentsToLikes: 0.110528
     id: ck0u7odq758ob0i19x2tw9l41
     verified: false
-    hashtags: "#wednesdaythoughts, #brunberg, #somessa, #somessacomxfonum"
-  - username: "viena_k"
+    hashtags: "#uusiel, #somessacomxfonum, #sudio, #yourhumble"
+  - username: "mettiforssell"
     fullname: >-
-      Viena
+      Metti Forssell
     location: "Finland"
-    followers: 15681
-    engagement: 518
-    commentsToLikes: 0.018449
-    id: ck0ubx861fgqe0i19bnmw8q2g
-    verified: false
-    hashtags: "#paulig, #tietystipauligin, #mielenrauhaa, #virtualbirthdayparty"
-  - username: "saijis"
+    followers: 40442
+    engagement: 568
+    commentsToLikes: 0.015983
+    id: ck0vyf9jb3ow30i1957lffhu6
+    verified: true
+    hashtags: "#puhdasis, #boredinthehouse, #koronavappu, #vappu"
+  - username: "alexadagmar"
     fullname: >-
-      Saija Ritamäki
+      ALEXA DAGMAR
     location: "Finland"
-    followers: 12019
-    engagement: 828
-    commentsToLikes: 0.166472
-    id: ck8szpykypade0j78u56okwga
+    followers: 49043
+    engagement: 674
+    commentsToLikes: 0.011308
+    id: ck0vyfb093p3q0i198gtojn41
     verified: false
-    hashtags: "#engaged, #5hyv, #bangerhead, #instakodit"
+    hashtags: "#rv15, #preggolife, #merinocool, #essielove"
+  - username: "aamukahvilla"
+    fullname: >-
+      HENRIIKKA REINMAN
+    location: "Finland"
+    followers: 28298
+    engagement: 623
+    commentsToLikes: 0.009830
+    id: ck5chb6kaqg3f0i11a16x2o60
+    verified: false
+    hashtags: "#suomenluonto, #oddlygoodveggie, #teijo, #kes"
+  - username: "natasalmela"
+    fullname: >-
+      Natalia Salmela
+    location: "Finland"
+    followers: 30282
+    engagement: 319
+    commentsToLikes: 0.013286
+    id: ck1373fzv9ks90i19ed3x78ca
+    verified: false
+    hashtags: "#itsetunto, #armorlux, #4dultra, #vege"
   - username: "vieruska"
     fullname: >-
-      Tyyliä metsästämässä/Veera K.
+      Tyyliä metsästämässä
     location: "Finland"
-    followers: 10227
-    engagement: 474
-    commentsToLikes: 0.014214
+    followers: 10388
+    engagement: 425
+    commentsToLikes: 0.025489
     id: ck8t0dcezrop40j78zg8j27al
     verified: false
-    hashtags: "#meikki, #thebodiesofwomen, #playfulpromises, #plustyyli"
+    hashtags: "#ompeluel, #veeranminimallisto, #verynice, #verynicefarkut"
 ---

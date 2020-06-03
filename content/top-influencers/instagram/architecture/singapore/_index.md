@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Singapore In 2020
 description: >-
-  Find top architecture Instagram influencers in Singapore in 2020. Most popular hashtags: #architecture #singapore #ig #visualambassadors.
+  Find top architecture Instagram influencers in Singapore in 2020. Most popular hashtags: #architecture #changiairport #gardensbythebay #circuitbreaker.
 platform: Instagram
 profiles:
   - username: "sensorshift"
     fullname: >-
-      Warren Liew
+      Warren Liew | Singapore 🇸🇬
     location: "Singapore"
-    followers: 3509
-    engagement: 2069
-    commentsToLikes: 0.068124
+    followers: 3553
+    engagement: 1735
+    commentsToLikes: 0.055280
     id: ck5chstwzref20i115spxmw5l
     verified: false
-    hashtags: "#breakfree, #olympussingapore, #olympusinspired, #em5markiii"
-  - username: "_moonmilk"
-    fullname: >-
-      
-    location: "Singapore"
-    followers: 33611
-    engagement: 1094
-    commentsToLikes: 0.011764
-    id: ck5zvhdax48me0i14pnou871a
-    verified: false
-    hashtags: ""
+    hashtags: "#jordhammondffa"
   - username: "suspendtime"
     fullname: >-
       Josh | 🇸🇬 Singapore
     location: "Singapore"
-    followers: 8261
-    engagement: 1020
-    commentsToLikes: 0.093497
+    followers: 8347
+    engagement: 911
+    commentsToLikes: 0.098672
     id: ck0w3kxp8txk50i19xk5sz3dy
     verified: false
-    hashtags: "#ig, #madaboutsingapore2020, #leanwithit, #beautifulmatters"
-  - username: "safdiearchitects"
-    fullname: >-
-      Safdie Architects
-    location: "Singapore"
-    followers: 25942
-    engagement: 304
-    commentsToLikes: 0.004792
-    id: ck0txuhcykhfn0i1963bfzrt2
-    verified: false
-    hashtags: "#water, #celebrate, #buildings, #marinabaysands"
+    hashtags: "#fubiz, #milkywaychasers, #arkiminimal, #visitvietnam"
   - username: "k7scott"
     fullname: >-
       Kevin Scott
     location: "Singapore"
-    followers: 5606
-    engagement: 647
-    commentsToLikes: 0.033262
+    followers: 5881
+    engagement: 654
+    commentsToLikes: 0.030004
     id: ck6tuqskxhvcq0j71lsg91ber
     verified: false
     hashtags: ""
-  - username: "danloo22"
+  - username: "_andyyong"
     fullname: >-
-      Dan
+      Andy Yong
     location: "Singapore"
-    followers: 6872
-    engagement: 701
-    commentsToLikes: 0.124004
-    id: ck5q4av9voegx0i116u6a4q23
+    followers: 32613
+    engagement: 443
+    commentsToLikes: 0.043610
+    id: ck0w6vgh6agjt0i19bs69o04e
     verified: false
-    hashtags: "#citygrammers, #creative, #houseplantsofig, #archi"
-  - username: "sgpoonie"
+    hashtags: "#globe, #thisisparis, #macroclique, #cineandcolour"
+  - username: "javan"
     fullname: >-
-      PK-龙 (Eric) / Archi & Travel
+      Javan Ng
     location: "Singapore"
-    followers: 11099
-    engagement: 473
-    commentsToLikes: 0.189677
-    id: ck0tyvuq9oa0t0i19ajngmeef
+    followers: 49940
+    engagement: 152
+    commentsToLikes: 0.103282
+    id: ck14j6kvwity40i19js6bflr4
     verified: false
-    hashtags: "#igworldclub, #longexpo, #sonysingapore, #passionmadepossible"
-  - username: "jlron"
+    hashtags: "#mothersday, #thepeak, #lookingup, #hongkonginsta"
+  - username: "nicolas.ipina"
     fullname: >-
-      J R
+      Nicolas Ipiña
     location: "Singapore"
-    followers: 16510
-    engagement: 668
-    commentsToLikes: 0.019704
-    id: ck14kah2mokjn0i19kmtbsvk1
+    followers: 3328
+    engagement: 1758
+    commentsToLikes: 0.072799
+    id: ck15ucf9gmh150i1985s5jx4a
     verified: false
-    hashtags: "#mountain, #japaneseshop, #alvindrafting, #shrubs"
+    hashtags: "#mandala, #geometric, #balletdancer, #ballet"
   - username: "dotzsoh"
     fullname: >-
       Dotz Soh
     location: "Singapore"
-    followers: 1022858
-    engagement: 214
-    commentsToLikes: 0.044589
+    followers: 1022060
+    engagement: 219
+    commentsToLikes: 0.044153
     id: ck0tyq3uznqn20i19mqrvikj0
     verified: false
-    hashtags: "#instatravel, #winter, #traveltheworld, #cruise"
-  - username: "timwah"
+    hashtags: "#bathtubgoals, #cruiselife, #travelsolo, #austria"
+  - username: "jlron"
     fullname: >-
-      Tim Wah | 𝕋𝕣𝕒𝕧𝕖𝕝𝕖𝕣
+      J R
     location: "Singapore"
-    followers: 25424
-    engagement: 312
-    commentsToLikes: 0.028353
-    id: ck0vxm745zlp00i195wbdhvv1
+    followers: 16519
+    engagement: 598
+    commentsToLikes: 0.018322
+    id: ck14kah2mokjn0i19kmtbsvk1
     verified: false
-    hashtags: "#highsnobiety, #architecturemodel, #opporeno2, #suspectmag"
+    hashtags: "#arch, #japan, #mangadrawing, #mysketch"
+  - username: "crummbcakes"
+    fullname: >-
+      Crummb
+    location: "Singapore"
+    followers: 58788
+    engagement: 334
+    commentsToLikes: 0.019517
+    id: ck5qcc55opunr0i11rvw62kze
+    verified: false
+    hashtags: "#homagecake, #cakecouture, #jesus, #birthdaycake"
+  - username: "singaporetoday"
+    fullname: >-
+      @SINGAPORETODAY Singapore
+    location: "Singapore"
+    followers: 65079
+    engagement: 295
+    commentsToLikes: 0.008956
+    id: ck15rqasz95qk0i19z41lpgek
+    verified: false
+    hashtags: "#airport, #ritzcarlton, #design, #artsciencemuseum"
 ---

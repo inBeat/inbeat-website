@@ -1,107 +1,107 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Germany In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Germany in 2020. Most popular hashtags: #film #illustration #tb #lfc.
+  Find top graphic-designers Instagram influencers in Germany in 2020. Most popular hashtags: #love #portrait #flexible #home.
 platform: Instagram
 profiles:
+  - username: "samuelyonireceivaa"
+    fullname: >-
+      Samuel Yoni Receiva Amarthani
+    location: "Germany"
+    followers: 11034
+    engagement: 2525
+    commentsToLikes: 0.069980
+    id: ck5hq9woksr7v0i11b8rvfq1l
+    verified: false
+    hashtags: "#murcheigen, #jadidirisendiri, #adobepremiereindonesia, #adobe"
+  - username: "alexander.silkin"
+    fullname: >-
+      Alexander Silkin
+    location: "Germany"
+    followers: 2478
+    engagement: 2655
+    commentsToLikes: 0.115517
+    id: ck5c7zv7o8hyb0i11zbojlk9j
+    verified: false
+    hashtags: "#dancegroup, #beautiful, #music, #carnivalcruise"
   - username: "maximeee"
     fullname: >-
       M A X I M E   H E R B O R D
     location: "Germany"
-    followers: 121363
-    engagement: 745
-    commentsToLikes: 0.014004
+    followers: 118464
+    engagement: 664
+    commentsToLikes: 0.014323
     id: ck13cju440pf10i19tfpneo4s
     verified: true
-    hashtags: "#smoothie, #pooltime, #mirrorpic, #aldis"
-  - username: "entiredesign"
-    fullname: >-
-      Jimmy O'Mara
-    location: "Germany"
-    followers: 22981
-    engagement: 612
-    commentsToLikes: 0.024234
-    id: ck5c7otg27xav0i11ch8qupan
-    verified: false
-    hashtags: "#graphic, #belgium, #etihad, #amsterdam"
+    hashtags: "#aldibeauty, #maldives, #maximeee, #aldibox"
   - username: "karlina"
     fullname: >-
-      Hi, I am Karolina.
+      Hi, I am Karolina. 🇵🇱🇩🇪
     location: "Germany"
-    followers: 34089
-    engagement: 234
-    commentsToLikes: 0.056812
+    followers: 33497
+    engagement: 250
+    commentsToLikes: 0.049358
     id: ck15phi61xwml0i195utp3gg0
     verified: false
-    hashtags: "#stayhome, #bestvacations, #alpen, #visualsoflife"
-  - username: "farzad.nikpey"
-    fullname: >-
-      PIC BY NIK Pʀᴏᴅᴜᴄᴛɪᴏɴ
-    location: "Germany"
-    followers: 26864
-    engagement: 814
-    commentsToLikes: 0.148718
-    id: ck15udqphmo2k0i19bdt9tcuc
-    verified: false
-    hashtags: "#director, #masih, #manoto, #towel"
-  - username: "carsontuna"
-    fullname: >-
-      Carsten Thun
-    location: "Germany"
-    followers: 27581
-    engagement: 148
-    commentsToLikes: 0.007387
-    id: ck6u3sa18zl5k0j71imwjws3o
-    verified: false
-    hashtags: "#backbend, #dancer, #yoga, #backbends"
-  - username: "katharinawildenhof"
-    fullname: >-
-      Katharina Wildenhof
-    location: "Germany"
-    followers: 17018
-    engagement: 629
-    commentsToLikes: 0.042686
-    id: ck0w0u5drg1p10i19nrv9leh6
-    verified: false
-    hashtags: "#bergliebe, #canon5dmarkiii, #skitouring, #daydreaming"
-  - username: "finjas_white_living"
-    fullname: >-
-      Finja | Mama und wohnverrückt
-    location: "Germany"
-    followers: 2743
-    engagement: 1059
-    commentsToLikes: 0.224289
-    id: ck5zkgiz1jfqr0i14b27wnrjj
-    verified: false
-    hashtags: "#puppenwagen, #momtogs, #bohokids, #krcwooden"
+    hashtags: "#americsnstyle, #ootdinspo, #1000rr, #hellofrom"
   - username: "benny.yeboah"
     fullname: >-
       Benny Yeboah
     location: "Germany"
-    followers: 5573
-    engagement: 1385
-    commentsToLikes: 0.031288
+    followers: 5345
+    engagement: 1528
+    commentsToLikes: 0.030419
     id: ck8t05wv1qw9f0j78dw6iyanh
     verified: false
-    hashtags: "#pufferjacket, #mountains, #waterways, #halfcast"
-  - username: "r6_miss"
+    hashtags: "#proveyourself, #artwork, #stayinghome, #highandlow"
+  - username: "bouncing_betti"
     fullname: >-
-      Lady Célanie 🐼
+      Betti  |  Salzburg
     location: "Germany"
-    followers: 4124
-    engagement: 2001
-    commentsToLikes: 0.046429
-    id: ck601vxu7g9vx0i14in58vsci
+    followers: 17111
+    engagement: 759
+    commentsToLikes: 0.025721
+    id: ck0u1iq3mx26o0i19n7pk3h7y
     verified: false
-    hashtags: "#promosport, #motard, #sharkracerpro, #ridersofinstagram"
-  - username: "joergasselborn"
+    hashtags: "#alps, #mountainlife, #womenwhoexplore, #cycling"
+  - username: "that_dachshund_guy"
     fullname: >-
-      Joerg Asselborn
+      That Dachshund Guy
     location: "Germany"
-    followers: 11909
-    engagement: 811
-    commentsToLikes: 0.027060
-    id: ck138zx4yiuf00i193f7i3ted
+    followers: 9704
+    engagement: 1101
+    commentsToLikes: 0.023774
+    id: ckaotpjfnwx2f0i78k0e9c4p5
     verified: false
-    hashtags: "#artofinstagram, #aquarelles, #uskworkshop, #illustratorsoninstagram"
+    hashtags: "#dachshund, #sunshine, #tongue, #spring"
+  - username: "sedaozer_s"
+    fullname: >-
+      Seda Özer | Myna
+    location: "Germany"
+    followers: 11055
+    engagement: 490
+    commentsToLikes: 0.060993
+    id: ck9wfi5anox4l0j78p7tuvy2c
+    verified: false
+    hashtags: "#karantina, #temsili, #18, #valentinesday"
+  - username: "made.by.min"
+    fullname: >-
+      Melinda Coleman
+    location: "Germany"
+    followers: 2084
+    engagement: 1607
+    commentsToLikes: 0.055839
+    id: ckaowyun4b2kv0i78tzvl6r5f
+    verified: false
+    hashtags: "#millenialsewist, #minervamakers, #sewist, #whomademyfabric"
+  - username: "carsontuna"
+    fullname: >-
+      Carsten Thun
+    location: "Germany"
+    followers: 27842
+    engagement: 183
+    commentsToLikes: 0.009507
+    id: ck6u3sa18zl5k0j71imwjws3o
+    verified: false
+    hashtags: "#stretching, #flexygirl, #doorstretch, #mistral33"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top fitness Instagram influencers in Switzerland in 2020. Most popular hashtags: #fitness #fashion #photooftheday #fitfam.
+  Find top fitness Instagram influencers in Switzerland in 2020. Most popular hashtags: #sunset #workout #travel #fitnessmodel.
 platform: Instagram
 profiles:
   - username: "manuelkrasniqi"
     fullname: >-
       MANUEL KRASNIQI
     location: "Switzerland"
-    followers: 7409
-    engagement: 1647
-    commentsToLikes: 0.043901
+    followers: 7948
+    engagement: 1524
+    commentsToLikes: 0.053225
     id: ck8wghgayhdez0j78bt0kofkr
     verified: false
-    hashtags: "#snipesknows, #stayhome, #lamborghini, #sound"
+    hashtags: "#fitnessmode, #styledayfriday, #adidas, #mensoutfit"
   - username: "yoli24fit"
     fullname: >-
       Wellness*Coach* Lifestyle
     location: "Switzerland"
-    followers: 15539
-    engagement: 621
-    commentsToLikes: 0.064761
+    followers: 15639
+    engagement: 637
+    commentsToLikes: 0.077781
     id: ck6u6liw5gara0j71z3m19fkb
     verified: false
-    hashtags: "#comosea, #cuarentena, #lavatusmanos, #stayathome"
+    hashtags: "#workoutdone, #danke, #miercoles, #adesayunar"
   - username: "chrismif"
     fullname: >-
       Chris
     location: "Switzerland"
-    followers: 7891
-    engagement: 1507
-    commentsToLikes: 0.027355
+    followers: 8139
+    engagement: 1534
+    commentsToLikes: 0.027015
     id: ck5c2qebzxro20i113qoav1dl
     verified: false
-    hashtags: "#life, #lyrical, #onmyown, #mustache"
+    hashtags: "#legday, #postgym, #spring, #towerbridge"
+  - username: "nicoceps"
+    fullname: >-
+      Nicolas Sandmeier
+    location: "Switzerland"
+    followers: 8119
+    engagement: 1337
+    commentsToLikes: 0.028289
+    id: ck9haymr3em1v0j78kjmpd8xl
+    verified: false
+    hashtags: "#mindset, #quotes, #goals, #hardwork"
   - username: "juliangehrke_"
     fullname: >-
       ▪️JULIAN▪️
     location: "Switzerland"
-    followers: 17961
-    engagement: 1633
-    commentsToLikes: 0.029382
+    followers: 17841
+    engagement: 1638
+    commentsToLikes: 0.029496
     id: ck139gbb6l5n00i19kaj52c3z
     verified: false
-    hashtags: "#lightroom, #esteem, #goodlife, #alexpohl"
-  - username: "garciamarta90"
+    hashtags: "#audirs6, #bali, #oldschool, #menstyle"
+  - username: "nicolas_arnoux"
     fullname: >-
-      Marta Garcia
+      Nicolas Arnoux
     location: "Switzerland"
-    followers: 7923
-    engagement: 1026
-    commentsToLikes: 0.022967
-    id: ck6u39xg6wkv40j71zjx85o34
+    followers: 15746
+    engagement: 521
+    commentsToLikes: 0.108319
+    id: ck0w55vmp21hb0i19allpfrn1
     verified: false
-    hashtags: "#love, #madrid, #osquiero, #timeforme"
-  - username: "normangarcia_"
-    fullname: >-
-      Men’s Fashion & Sport Blog
-    location: "Switzerland"
-    followers: 11165
-    engagement: 556
-    commentsToLikes: 0.050820
-    id: ck55ldwec1c4g0i11x1xlfndd
-    verified: false
-    hashtags: "#spanishblogger, #blogger, #venice, #venicebeach"
+    hashtags: "#prozisfrance, #bodypositive, #dogsledding, #travel"
   - username: "swissmuscle101"
     fullname: >-
       J. M.
     location: "Switzerland"
-    followers: 47048
-    engagement: 228
-    commentsToLikes: 0.026340
+    followers: 55508
+    engagement: 297
+    commentsToLikes: 0.025323
     id: ck5hlnb2nkik50i11ehsh7vcs
     verified: false
-    hashtags: "#instaboy, #ambassadeur, #ambassadors, #bodyfit"
-  - username: "_marisaofficial_"
+    hashtags: "#bodyfitnessgym, #artphotography, #influencerlife, #fitnessblogger"
+  - username: "fasbeam"
     fullname: >-
-      Marisa Urbano☀️
+      Faisal Khan
     location: "Switzerland"
-    followers: 17336
-    engagement: 171
-    commentsToLikes: 0.124136
-    id: ck5znr6gjp03w0i141vfumzjo
+    followers: 168309
+    engagement: 588
+    commentsToLikes: 0.007548
+    id: ck9hcwcr3n8u20j787nv9hysf
     verified: false
-    hashtags: "#bblogger, #photooftheday, #cino, #verlosung"
-  - username: "pamxcla"
+    hashtags: ""
+  - username: "sir_villforth"
     fullname: >-
-      PAM | CLA 45 AMG
+      David Villforth 🇸🇪🇨🇭
     location: "Switzerland"
-    followers: 4660
-    engagement: 7423
-    commentsToLikes: 0.034120
-    id: ck8t9bofvnijp0j78xgw42c83
+    followers: 26084
+    engagement: 653
+    commentsToLikes: 0.028645
+    id: ck5ck9hr5weyi0i11c853svtc
     verified: false
-    hashtags: "#carparts, #racemode, #grandtourofswitzerland, #carfreitag"
-  - username: "_vikicka_"
+    hashtags: "#composition, #missing, #adventure, #perspective"
+  - username: "melissa_ts_fitness"
     fullname: >-
-      Viki 💪
+      MELISSA
     location: "Switzerland"
-    followers: 6948
-    engagement: 1785
-    commentsToLikes: 0.012653
-    id: ck8t2ivqszo4p0j783hfphxed
+    followers: 12424
+    engagement: 1191
+    commentsToLikes: 0.061545
+    id: ckaos0lhupm630i78m43ahae8
     verified: false
-    hashtags: "#training, #peopledontcare, #thesearch, #partynigth"
+    hashtags: "#lgbt, #transgender, #transmodel, #transisbeautiful"
 ---

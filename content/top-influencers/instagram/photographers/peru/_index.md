@@ -1,59 +1,79 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Peru In 2020
 description: >-
-  Find top photographers Instagram influencers in Peru in 2020. Most popular hashtags: #peru #travel #travelgram #photography.
+  Find top photographers Instagram influencers in Peru in 2020. Most popular hashtags: #sonyalpha #summer #photoshoot #lima.
 platform: Instagram
 profiles:
-  - username: "diegomoralescc"
+  - username: "aixarosybel"
     fullname: >-
-      D I E G O  M O R A L E S 🔥
+      Aixa Aguilar Palacios 🌎
     location: "Peru"
-    followers: 23013
-    engagement: 418
-    commentsToLikes: 0.090530
-    id: ck8sxv1z6irva0j7872wq7owk
+    followers: 6662
+    engagement: 1789
+    commentsToLikes: 0.020734
+    id: ckapa5f7pus4h0i78dwrckj01
     verified: false
-    hashtags: "#white, #streetfashion, #devonartph, #777luckyfish"
+    hashtags: "#lagunaazul, #photograhy, #sonyalpha, #sonrisa"
   - username: "rafabertoriniph"
     fullname: >-
       Rafa Bertorini
     location: "Peru"
-    followers: 30393
-    engagement: 273
-    commentsToLikes: 0.044287
+    followers: 30316
+    engagement: 269
+    commentsToLikes: 0.047075
     id: ck5c5h91h3gzr0i11dg86mjl8
     verified: false
-    hashtags: "#landscape, #ocean, #bikini, #lifstyle"
+    hashtags: "#landscape, #tones, #goldenhour, #theshapeoflight"
+  - username: "luis_silvav"
+    fullname: >-
+      Luis Silva
+    location: "Peru"
+    followers: 15019
+    engagement: 712
+    commentsToLikes: 0.022451
+    id: ck0vvtbj1qo8v0i19sjxkpd7z
+    verified: false
+    hashtags: "#arts, #pineapple, #arthoe, #creative"
   - username: "ozzierisso"
     fullname: >-
       Ozzie Risso
     location: "Peru"
-    followers: 29689
-    engagement: 475
-    commentsToLikes: 0.024482
+    followers: 31345
+    engagement: 538
+    commentsToLikes: 0.025695
     id: ck5hq0bp4s9xc0i111bp6kcqk
     verified: false
-    hashtags: "#videoclip, #fotografia, #miami, #disney"
+    hashtags: "#urban, #yomequedoencasa, #fotografia, #lima"
   - username: "c.salazarfoto"
     fullname: >-
       CARLOS SALAZAR
     location: "Peru"
-    followers: 17679
-    engagement: 278
-    commentsToLikes: 0.029950
+    followers: 17873
+    engagement: 239
+    commentsToLikes: 0.035223
     id: ck0vymztj4syd0i19mtqch916
     verified: false
-    hashtags: "#imute, #model, #portfolio, #campaign"
+    hashtags: "#portfolio, #beautiful, #editorial, #sanblascusco"
+  - username: "mrjeanpierrediaz"
+    fullname: >-
+      Jean Pierre Díaz
+    location: "Peru"
+    followers: 27271
+    engagement: 140
+    commentsToLikes: 0.027126
+    id: ckap65qw3eihs0i78j14qxrl2
+    verified: false
+    hashtags: "#35mmfilm, #cuarentena, #filmsdiscovered, #savage"
   - username: "talia.escamilo"
     fullname: >-
-      Talia EC | Travel addict ✈
+      Talia EC | Travel & Photo ✈
     location: "Peru"
-    followers: 7226
-    engagement: 1217
-    commentsToLikes: 0.150015
+    followers: 8222
+    engagement: 1242
+    commentsToLikes: 0.132112
     id: ck5hfe87nx23v0i112dopztf2
     verified: false
-    hashtags: "#ytuqueplanes, #amazonriver, #letsgetlost, #viajesfalabella"
+    hashtags: "#cityphotography, #sunset, #giveaway, #discoverperu"
   - username: "mydetoxtravel"
     fullname: >-
       C A T H  S I M A R D
@@ -63,14 +83,14 @@ profiles:
     commentsToLikes: 0.032245
     id: ck0u2myti0ezb0i19b3h6guqn
     verified: false
-    hashtags: "#sonyalpha, #bealpha, #alphafemale, #aicdoesiceland"
+    hashtags: ""
   - username: "angelruizphotography"
     fullname: >-
       A n g e l  R u i z
     location: "Peru"
-    followers: 26737
-    engagement: 277
-    commentsToLikes: 0.009265
+    followers: 26647
+    engagement: 244
+    commentsToLikes: 0.007421
     id: ck5zpdwsisi230i147v2ntd3k
     verified: false
     hashtags: ""
@@ -78,30 +98,10 @@ profiles:
     fullname: >-
       J O R D A N  C Á R D E N A S
     location: "Peru"
-    followers: 5854
-    engagement: 807
-    commentsToLikes: 0.096499
+    followers: 6126
+    engagement: 903
+    commentsToLikes: 0.101499
     id: ck139eatukvy90i19j3yix7lr
     verified: false
-    hashtags: "#amazing, #thedailyadventurer, #cuarentena, #brasil"
-  - username: "mitchellkphotos"
-    fullname: >-
-      Mitchell Kanashkevich
-    location: "Peru"
-    followers: 25297
-    engagement: 459
-    commentsToLikes: 0.015217
-    id: ck5zxsyzn8lvu0i1418it8zwy
-    verified: false
-    hashtags: "#everydayperu, #worldplaces, #photorfaphytips, #travelportrait"
-  - username: "camrhoffman"
-    fullname: >-
-      CΛΜ ॐ
-    location: "Peru"
-    followers: 15596
-    engagement: 484
-    commentsToLikes: 0.049265
-    id: ck5zm4pbulw9j0i144cq6g1q1
-    verified: false
-    hashtags: "#photography, #exploretocreate, #explore, #roamtheplanet"
+    hashtags: "#marcona, #atardecer, #instaperu, #travelblogger"
 ---

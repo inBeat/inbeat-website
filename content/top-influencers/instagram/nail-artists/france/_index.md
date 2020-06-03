@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nail Artists Instagram Influencers In France In 2020
 description: >-
-  Find top nail artists Instagram influencers in France in 2020. Most popular hashtags: #nails #nailart #nailstagram #beauty.
+  Find top nail artists Instagram influencers in France in 2020. Most popular hashtags: #pinknails #nailart #stilettonails #confinement.
 platform: Instagram
 profiles:
-  - username: "corasunsetarts"
-    fullname: >-
-      Nail Artist
-    location: "France"
-    followers: 31004
-    engagement: 236
-    commentsToLikes: 0.040870
-    id: ck15r07jz5hhu0i19fvoxbkuc
-    verified: false
-    hashtags: "#boohoobabes, #makeup, #dailycharme, #popartnails"
   - username: "melison_ig"
     fullname: >-
-      MELIFICENT 🔥🌪💥
+      MELISON
     location: "France"
-    followers: 62530
-    engagement: 908
-    commentsToLikes: 0.003894
+    followers: 69648
+    engagement: 907
+    commentsToLikes: 0.028076
     id: ck15rd2797bmc0i19bq9933ir
     verified: false
-    hashtags: "#photography, #mongolia, #makeup, #vsco"
+    hashtags: "#squadzz, #udurtolonzurag, #dancechallenge, #dancevideos"
+  - username: "corasunsetarts"
+    fullname: >-
+      Nail Artist ϕ
+    location: "France"
+    followers: 31912
+    engagement: 245
+    commentsToLikes: 0.033312
+    id: ck15r07jz5hhu0i19fvoxbkuc
+    verified: false
+    hashtags: "#funnails, #cownails, #kirby, #tutonails"
   - username: "solisbeautys"
     fullname: >-
       Solis Beauty'S
     location: "France"
-    followers: 6004
-    engagement: 569
-    commentsToLikes: 0.070870
+    followers: 6043
+    engagement: 627
+    commentsToLikes: 0.058807
     id: ck5ck62bxw7q40i11dj9fcnsu
     verified: false
-    hashtags: "#rondeetbelle, #curvymodel, #martinique, #guyane"
+    hashtags: "#makeuponpoint, #makeupaddict, #addict, #beautifulwoman"
+  - username: "vanessa.nailart"
+    fullname: >-
+      Vanessa Nail Art
+    location: "France"
+    followers: 19390
+    engagement: 680
+    commentsToLikes: 0.019747
+    id: ck9wor30t68t00j78vsii456i
+    verified: false
+    hashtags: "#nailtutorial, #stepbystep, #leopardnails, #cartoonnails"
   - username: "alexandrasnobl"
     fullname: >-
       Alexandra Snóbl
     location: "France"
-    followers: 26743
-    engagement: 89
-    commentsToLikes: 0.012534
+    followers: 26654
+    engagement: 113
+    commentsToLikes: 0.013229
     id: ck13ac2b8pnwn0i19g9952unc
     verified: false
     hashtags: "#lovestamping, #moyrastamping, #dollypartonchallenge, #frenchnails"
-  - username: "naildbyk"
+  - username: "mel_beautynails"
     fullname: >-
-      HERE IS KATALINA
+      𝗠𝗲𝗹 𝗕𝗲𝗮𝘂𝘁𝘆𝗡𝗮𝗶𝗹𝘀
     location: "France"
-    followers: 25623
-    engagement: 260
-    commentsToLikes: 0.017445
-    id: ck5cie6ryshpi0i11o4p9imog
+    followers: 15351
+    engagement: 576
+    commentsToLikes: 0.042244
+    id: ckapamjo0wpfb0i78qouilw6x
     verified: false
-    hashtags: "#nailsmagazine, #nailsart, #niceongle06, #theglitternail"
-  - username: "galkabeauty"
+    hashtags: "#neonnails, #stilettonails, #bluenails, #painting"
+  - username: "bavardagesetmaquillage"
     fullname: >-
-      Galyna
+      Bavardages et Maquillage
     location: "France"
-    followers: 2839
-    engagement: 2254
-    commentsToLikes: 0.146740
-    id: ck6ufv489zb880j71f5jjfej0
+    followers: 3534
+    engagement: 1242
+    commentsToLikes: 0.399073
+    id: ck5cblofsfos40i11tfj70fh8
     verified: false
-    hashtags: "#masurathewalkingred, #dancelegend, #dancelegendofficial, #nailartlover"
-  - username: "gabrielakassis"
+    hashtags: "#1ermai, #moodoftheday, #dreamglowkit, #facepalette"
+  - username: "nora.knails"
     fullname: >-
-      Gabriela Kassis Bravo
+      Nails & Academy BORDEAUX/WORLD
     location: "France"
-    followers: 21361
-    engagement: 377
-    commentsToLikes: 0.227615
-    id: ck0vwdd5pt6st0i196pcr7d35
+    followers: 32716
+    engagement: 210
+    commentsToLikes: 0.064532
+    id: ck5hf8wpdwcpl0i11ko75bpap
     verified: false
-    hashtags: "#cabelo, #carnaval2020, #fantasiascarnaval, #naillife"
-  - username: "fatima_eljazouli_"
+    hashtags: "#forces, #nailsnailsnails, #ongleries, #mercibeaucoup"
+  - username: "retoschmidd"
     fullname: >-
-      fatima ezzhra
+      Reto Schmid
     location: "France"
-    followers: 11803
-    engagement: 481
-    commentsToLikes: 0.397818
-    id: ck6tv7dhrkla40j71l02mmmmj
+    followers: 7345
+    engagement: 371
+    commentsToLikes: 0.020168
+    id: ck0u0eoxhtlmu0i19ydxvh1at
     verified: false
-    hashtags: "#octolyfamily, #simpleisbeautiful, #creative, #minimalisttattoo"
-  - username: "nailsartparis_"
+    hashtags: "#vipparis, #hideshimanura, #stevenedwardmiller"
+  - username: "anais_cuticorn"
     fullname: >-
-      Nails Art By Lonna 💅🏻
+      Cuticorn 🦄
     location: "France"
-    followers: 37843
-    engagement: 550
-    commentsToLikes: 0.004032
-    id: ck5cb2wabemjg0i119z8zebyc
+    followers: 3566
+    engagement: 1887
+    commentsToLikes: 0.048938
+    id: ck55kiianzdo00i11pxp1h49j
     verified: false
-    hashtags: "#marbrenailseffect, #nailsonfleek, #orangenails, #nails"
-  - username: "mad_moiselle_t"
-    fullname: >-
-      Mad'moiselle T
-    location: "France"
-    followers: 80404
-    engagement: 67
-    commentsToLikes: 0.011704
-    id: ck0vzigd499jb0i193sc0nzh8
-    verified: false
-    hashtags: "#nailsoftheday, #nailstyle, #naillife, #tutonailart"
+    hashtags: "#greenmakeup, #sephora, #earthmakeup, #instinctpalette"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Music Instagram Influencers In Brazil In 2020
 description: >-
-  Find top music Instagram influencers in Brazil in 2020. Most popular hashtags: #love #hair #style #hairstyle.
+  Find top music Instagram influencers in Brazil in 2020. Most popular hashtags: #garanh #amorpelamusica #ador #clubedeleituramaisscifi.
 platform: Instagram
 profiles:
-  - username: "mariaclarajk"
+  - username: "catarinasantosoficial"
     fullname: >-
-      Maria Clara 💫
+      C A T A R I N A  S A N T O S
     location: "Brazil"
-    followers: 6177
-    engagement: 1810
-    commentsToLikes: 0.182994
-    id: ck5zu3blz1ltz0i143cwxg5om
+    followers: 123702
+    engagement: 840
+    commentsToLikes: 0.874161
+    id: ckaoyhzvhhm1p0i78kn4frfdz
     verified: false
-    hashtags: "#summer, #photooftheday, #friends, #tudonosigilochallenge"
-  - username: "guilherme_kmartins"
+    hashtags: "#sorteioo, #sorteiobrasil, #sorteioinsta, #sorteiooficial"
+  - username: "donas"
     fullname: >-
-      GUIZINHO NA VOZ
+      Donas 🇧🇷
     location: "Brazil"
-    followers: 34146
-    engagement: 795
-    commentsToLikes: 0.054905
-    id: ck0w1249qh6xd0i19pbr9fynb
+    followers: 852100
+    engagement: 5378
+    commentsToLikes: 2.488249
+    id: ckap94ijor48u0i78oi1t6m6z
     verified: false
-    hashtags: "#dance, #passinho, #funk, #portaldadanca"
+    hashtags: "#meiota, #helicoptera"
   - username: "sereia_literaria"
     fullname: >-
       🌻Letícia, 15y
     location: "Brazil"
-    followers: 18075
-    engagement: 1031
-    commentsToLikes: 0.049590
+    followers: 20219
+    engagement: 1281
+    commentsToLikes: 0.266381
     id: ck0ub0v23deyb0i19341sj80n
     verified: false
-    hashtags: "#sereiaindica5, #batepapocomasereia, #tagliter, #papocomasereia"
-  - username: "renatoshippee"
+    hashtags: "#livrosquesalvaram, #sorteios, #ador, #clubedeleituramaisscifi"
+  - username: "djgabicavallin"
     fullname: >-
-      Renato Shippee
+      Gabi Cavallin
     location: "Brazil"
-    followers: 109861
-    engagement: 933
-    commentsToLikes: 0.030527
-    id: ck8t3ure44kk30j78co17t0w8
+    followers: 116580
+    engagement: 656
+    commentsToLikes: 0.470515
+    id: ck6018dr1f0zp0i14hv0dqz42
     verified: false
-    hashtags: "#style, #bodypositive, #peace, #boot"
-  - username: "kecialopes_oficial"
+    hashtags: "#wiggle, #tb, #ukraine, #fiquemecasa"
+  - username: "arianagoiss"
     fullname: >-
-      Kécia Lopes🔹️
+      ✨
     location: "Brazil"
-    followers: 14631
-    engagement: 892
-    commentsToLikes: 1.684702
-    id: ck8tazpd7tre50j785fqp9c54
+    followers: 5776
+    engagement: 1381
+    commentsToLikes: 0.139405
+    id: ck9hbapmlg1zv0j78h8yyo7z3
     verified: false
-    hashtags: "#esperanca, #musicacrista, #photo, #fotoeditor"
-  - username: "amanda_lessa__"
+    hashtags: "#looks, #vemcarnaval, #lookcomsaia, #volum"
+  - username: "dudatorrez_"
     fullname: >-
-      🦋 Amanda Lessa🎙
+      duda torrez
     location: "Brazil"
-    followers: 6690
-    engagement: 988
-    commentsToLikes: 0.099348
-    id: ck6ttrovzc81v0j71aahpj49o
+    followers: 15331
+    engagement: 972
+    commentsToLikes: 0.074435
+    id: ck8weztg4evun0j786xu4c194
+    verified: false
+    hashtags: "#billieeilish, #khalid, #brabachallenge, #luisasonza"
+  - username: "jdonthatrack"
+    fullname: >-
+      JD On Tha Track
+    location: "Brazil"
+    followers: 60401
+    engagement: 588
+    commentsToLikes: 0.051976
+    id: ck55iy9nfvrw10i118vhf0vxl
+    verified: false
+    hashtags: "#2020"
+  - username: "reiroberto.carlos"
+    fullname: >-
+      
+    location: "Brazil"
+    followers: 16821
+    engagement: 855
+    commentsToLikes: 0.100744
+    id: ck9whfsv5xnmi0j78lcaq7kx9
+    verified: false
+    hashtags: "#gal, #garanh, #robertocarlos, #followforfollowback"
+  - username: "miichelemota"
+    fullname: >-
+      𝓜𝓲𝓬𝓱𝓮𝓵𝓮 𝓜𝓸𝓽𝓪
+    location: "Brazil"
+    followers: 4124
+    engagement: 2896
+    commentsToLikes: 0.095324
+    id: ck9ha8kjxbkjr0j786svhgazk
+    verified: false
+    hashtags: "#tumbrl, #fiquememcasa, #violao, #paixaopormusica"
+  - username: "niccolerodrigues"
+    fullname: >-
+      Niccole Rodrigues 👀
+    location: "Brazil"
+    followers: 195037
+    engagement: 1129
+    commentsToLikes: 0.024134
+    id: ck9wh78qgwkvs0j78ymv81n9i
     verified: false
     hashtags: ""
-  - username: "felipebernardo7"
-    fullname: >-
-      Felipe Bernardo
-    location: "Brazil"
-    followers: 6690
-    engagement: 1022
-    commentsToLikes: 0.075658
-    id: ck8tb9w97uux10j78mbfn22sa
-    verified: false
-    hashtags: "#sarrada, #style, #loja, #roupas"
-  - username: "elisalves3012"
-    fullname: >-
-      Elis ♡
-    location: "Brazil"
-    followers: 9233
-    engagement: 988
-    commentsToLikes: 0.066102
-    id: ck6ui223lcltg0j714ug36yk9
-    verified: false
-    hashtags: "#bielfaz23, #deus, #tmbt, #7deabril"
-  - username: "isalopes2009"
-    fullname: >-
-      Adm pela mãe  @maria_lopes_703
-    location: "Brazil"
-    followers: 21672
-    engagement: 495
-    commentsToLikes: 0.065529
-    id: ck0w70j7gb5gz0i198tjwqkp2
-    verified: false
-    hashtags: "#maisaperes, #thekidsuniverse, #minifashionista, #ensaiokids"
-  - username: "saritalorena"
-    fullname: >-
-      YOUR FAV MAMI 🇧🇷
-    location: "Brazil"
-    followers: 39012
-    engagement: 754
-    commentsToLikes: 0.026465
-    id: ck5c2gafcx7c30i111eq0xxdo
-    verified: true
-    hashtags: "#swipeleft, #linkinbio"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Canada In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Canada in 2020. Most popular hashtags: #tattoo #tattooartist #tattoos #inked.
+  Find top tattoo-artists Instagram influencers in Canada in 2020. Most popular hashtags: #pinup #flowers #sleevetattoo #raven.
 platform: Instagram
 profiles:
+  - username: "luxelipstudio"
+    fullname: >-
+      Luxe Lip Studio | Lip Blush ˙💋
+    location: "Canada"
+    followers: 6094
+    engagement: 1220
+    commentsToLikes: 0.266963
+    id: ckapam6ukwnv90i7895iwpifp
+    verified: false
+    hashtags: "#tinadavieslipblush, #iloveinklips"
   - username: "robinlabreche"
     fullname: >-
       Robin Labreche
     location: "Canada"
-    followers: 25614
-    engagement: 226
-    commentsToLikes: 0.078504
+    followers: 25436
+    engagement: 223
+    commentsToLikes: 0.076572
     id: ck5qecpkhzubh0i11x55p4ne3
     verified: false
-    hashtags: "#battle, #fytcartridges, #mtlartist, #starwars"
-  - username: "queenie_tattoo_ist"
+    hashtags: "#bikertattoo, #raventattoo, #vancouver, #wolftattoo"
+  - username: "kevin_poveda"
     fullname: >-
-      Queenie Yang
+      Kevin Poveda
     location: "Canada"
-    followers: 6093
-    engagement: 989
-    commentsToLikes: 0.006430
-    id: ck0vz476277uz0i19th0sk4yg
+    followers: 40454
+    engagement: 152
+    commentsToLikes: 0.061017
+    id: ck6udcqrskctv0j71r38wy8ka
     verified: false
-    hashtags: "#animals, #mapleleaf, #ship, #funtattoo"
-  - username: "starrlygladue"
-    fullname: >-
-      Starrly Gladue
-    location: "Canada"
-    followers: 50186
-    engagement: 160
-    commentsToLikes: 0.043318
-    id: ck5zmvri0nb1j0i142b8vpaje
-    verified: false
-    hashtags: "#minicontroversypalette"
+    hashtags: "#tomoffinland"
   - username: "cindy_chronicink"
     fullname: >-
       Cindy Liu
     location: "Canada"
-    followers: 9778
-    engagement: 615
-    commentsToLikes: 0.017214
+    followers: 10327
+    engagement: 702
+    commentsToLikes: 0.016425
     id: ck8t7l3uhh7mw0j783p8g7tkp
     verified: false
     hashtags: ""
-  - username: "ink.dust"
+  - username: "lukalajoie"
     fullname: >-
-      𝓈𝓉𝑒𝓅𝒽
+      Luka lajoie
     location: "Canada"
-    followers: 26477
-    engagement: 283
-    commentsToLikes: 0.008219
-    id: ck5zqq13vv2cx0i14wfdq7qi4
+    followers: 273821
+    engagement: 152
+    commentsToLikes: 0.010986
+    id: ck5buaythhgrf0i11wozlkgzk
     verified: false
-    hashtags: "#botanicaldrawing, #forearmtattoo, #art, #spring"
-  - username: "beautywithco"
+    hashtags: "#stayhome"
+  - username: "starrlygladue"
     fullname: >-
-      🇨🇦 BROW ARTIST | Crystal Khuu
+      
     location: "Canada"
-    followers: 5097
-    engagement: 441
-    commentsToLikes: 0.188091
-    id: ck8tcxayg11ez0j7881uqinti
+    followers: 49887
+    engagement: 147
+    commentsToLikes: 0.047582
+    id: ck5zmvri0nb1j0i142b8vpaje
     verified: false
-    hashtags: "#pmuartists, #microbladed, #yyceyebrows, #browartist"
-  - username: "linda_mua"
+    hashtags: "#karlkani, #kaniontherun, #minicontroversypalette"
+  - username: "queenie_tattoo_ist"
     fullname: >-
-      Linda Tran
+      Queenie Yang
     location: "Canada"
-    followers: 42261
-    engagement: 175
-    commentsToLikes: 0.040438
-    id: ck5q0a40t4zyi0i11byerc21r
+    followers: 6033
+    engagement: 698
+    commentsToLikes: 0.007827
+    id: ck0vz476277uz0i19th0sk4yg
     verified: false
-    hashtags: "#winterwonderland, #snowmobile, #2020, #makeupgiveaway"
-  - username: "draworking"
+    hashtags: "#cartoontattoo, #colourtattoos, #mapleleaftattoo, #orcatattoo"
+  - username: "ajmartinart"
     fullname: >-
-      Andrei 𝕯ʀᴀᴡ φʀ Ҟɪɴɢ Tattoo
+      Amanda Martin
     location: "Canada"
-    followers: 17215
-    engagement: 576
-    commentsToLikes: 0.018642
-    id: ck5ho6mswp18d0i11fu87jub0
+    followers: 26620
+    engagement: 434
+    commentsToLikes: 0.028486
+    id: ck8t0bxvwrjqh0j782ij2nrwm
     verified: false
-    hashtags: "#retrofuture, #realistictattoo, #montrealtattoo, #yvrtattoo"
+    hashtags: "#flowers, #cintiq, #latenightsketch, #tattooflasg"
+  - username: "naomikingofficial"
+    fullname: >-
+      Naomi King
+    location: "Canada"
+    followers: 11338
+    engagement: 509
+    commentsToLikes: 0.032813
+    id: ck5heggxyss1y0i115qyylh0v
+    verified: false
+    hashtags: "#ballpython, #blueeyedleucistic, #blueeyedlucy, #arthastheballpython"
   - username: "focustattoos"
     fullname: >-
       Sir Focus
     location: "Canada"
-    followers: 68552
-    engagement: 125
-    commentsToLikes: 0.013418
+    followers: 68264
+    engagement: 143
+    commentsToLikes: 0.017209
     id: ck5chtmx6rg1x0i115upebxxs
     verified: false
-    hashtags: "#sigsauer, #novascotia, #relax, #sigsauerp226"
-  - username: "sam.daveena"
-    fullname: >-
-      Eighth House 88
-    location: "Canada"
-    followers: 1748
-    engagement: 1112
-    commentsToLikes: 0.079534
-    id: ck8t8vilalzuk0j787tdy8mpq
-    verified: false
-    hashtags: "#visionaryart, #spiritualart, #saturnreturn, #thighpiece"
+    hashtags: "#ribs, #gunsandgirls, #gasmask, #artcollective"
 ---

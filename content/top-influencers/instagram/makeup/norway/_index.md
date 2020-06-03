@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Norway In 2020
 description: >-
-  Find top makeup Instagram influencers in Norway in 2020. Most popular hashtags: #anastasiabeverlyhills #nyxcosmetics #norway #wakeupandmakeup.
+  Find top makeup Instagram influencers in Norway in 2020. Most popular hashtags: #makeupvideos #halloweenmakeup #makeup #instagrammakeup.
 platform: Instagram
 profiles:
-  - username: "reallymili"
+  - username: "sannakhursheed"
     fullname: >-
-      Really Mili
+      Sanna khursheed
     location: "Norway"
-    followers: 22308
-    engagement: 360
-    commentsToLikes: 0.091955
-    id: ck55kj2oizf4p0i11acgax719
+    followers: 24789
+    engagement: 277
+    commentsToLikes: 0.103857
+    id: ck5c5bc6u34yv0i11pyzmz6wc
     verified: false
-    hashtags: "#norway, #thereseutfordrer"
-  - username: "sonaripley"
-    fullname: >-
-      Sona Ripley
-    location: "Norway"
-    followers: 7188
-    engagement: 2419
-    commentsToLikes: 0.028364
-    id: ck1383td7ed5h0i19bb7y219h
-    verified: false
-    hashtags: "#wingedliner, #nyxcosmeticsforsabrina, #makeupart, #cutcrease"
+    hashtags: "#nrk17mai"
   - username: "ritaermin"
     fullname: >-
       Rita Synnøve Sharma ☾
     location: "Norway"
-    followers: 109164
-    engagement: 611
-    commentsToLikes: 0.009570
+    followers: 107749
+    engagement: 597
+    commentsToLikes: 0.009865
     id: ck8t0f2v6ruqx0j78y1vqquhm
     verified: false
-    hashtags: "#universodamaquiagem, #eyeliner, #wakeupandmakeup, #shimycatsmua"
-  - username: "helenehemera"
+    hashtags: "#bratz, #flowers, #instagrammakeup, #amethyst"
+  - username: "reallymili"
     fullname: >-
-      HELENE HEMÉRA
+      Really Mili
     location: "Norway"
-    followers: 85047
-    engagement: 138
-    commentsToLikes: 0.017869
-    id: ck5chmyqjr2u60i114kmfnzy1
+    followers: 23340
+    engagement: 319
+    commentsToLikes: 0.124342
+    id: ck55kj2oizf4p0i11acgax719
     verified: false
-    hashtags: ""
-  - username: "makeupbyaida"
+    hashtags: "#thereseutfordrer, #ad, #onepiecesunday, #foxeyes"
+  - username: "skincarenoob"
     fullname: >-
-      Aida Fara ▪️roya Farahani▪️
+      Jonna
     location: "Norway"
-    followers: 354428
-    engagement: 235
-    commentsToLikes: 0.091136
-    id: ck5q8vpgd869n0i11azdt3cbf
+    followers: 6261
+    engagement: 831
+    commentsToLikes: 0.538293
+    id: ck9we6j1piu2x0j78iokc2gj4
     verified: false
-    hashtags: "#xmaslook, #oslostudio, #redlipstick, #stayhomestaysafe"
-  - username: "tomaserdismakeup"
-    fullname: >-
-      Tomas Erdis 🙋🏻‍♂️
-    location: "Norway"
-    followers: 10115
-    engagement: 551
-    commentsToLikes: 0.306475
-    id: ck5qa5tsjeozz0i11i8fmsmrn
-    verified: false
-    hashtags: "#makeupbyme, #ninja, #karatekid, #jackiechanislegend"
+    hashtags: "#beautygiveaway, #bluemonday, #friyayfaves, #kajabeauty"
   - username: "thereseaanonli"
     fullname: >-
       THERESE AANONLI
     location: "Norway"
-    followers: 58839
-    engagement: 81
-    commentsToLikes: 0.067456
+    followers: 59477
+    engagement: 118
+    commentsToLikes: 0.116530
     id: ck5bxebwynk6k0i11jin1uzyh
     verified: false
-    hashtags: "#makeupmekka, #thereseutfordrer, #corona, #makeup"
+    hashtags: "#tips, #makeup, #heltenkelt, #mittbarndomshjem"
+  - username: "sonaripley"
+    fullname: >-
+      Sona Ripley
+    location: "Norway"
+    followers: 7612
+    engagement: 1715
+    commentsToLikes: 0.028011
+    id: ck1383td7ed5h0i19bb7y219h
+    verified: false
+    hashtags: "#acnh, #norway, #wintermakeup, #softmakeup"
+  - username: "helenehemera"
+    fullname: >-
+      HELENE HEMÉRA
+    location: "Norway"
+    followers: 82318
+    engagement: 140
+    commentsToLikes: 0.019297
+    id: ck5chmyqjr2u60i114kmfnzy1
+    verified: false
+    hashtags: "#hudabeautydiamondbalm, #rainonme"
   - username: "beautybymsh"
     fullname: >-
       Maria Sofie H
     location: "Norway"
-    followers: 33731
-    engagement: 450
-    commentsToLikes: 0.017308
+    followers: 32685
+    engagement: 430
+    commentsToLikes: 0.014831
     id: ck15tg22lhwmy0i19q4s2ujb9
     verified: false
-    hashtags: "#kyliejenner, #lancome, #idealofsweden, #wakeupandmakeup"
-  - username: "saumiya"
+    hashtags: "#snickersshake, #browporn, #valentinesday, #homeishere"
+  - username: "makeupbyaida"
     fullname: >-
-      MIYA T. 🦋
+      Aida Fara ▪️roya Farahani▪️
     location: "Norway"
-    followers: 25162
-    engagement: 1029
-    commentsToLikes: 0.065655
-    id: ck8swuknrfagc0j7874qbjzbg
+    followers: 357885
+    engagement: 240
+    commentsToLikes: 0.097746
+    id: ck5q8vpgd869n0i11azdt3cbf
     verified: false
-    hashtags: "#browngirls, #desi, #makeup, #saree"
-  - username: "mamaidamarie"
+    hashtags: "#primer, #highlighter, #sweedishblogger, #glowupnorge"
+  - username: "tomaserdismakeup"
     fullname: >-
-      𝙸𝚍𝚊 𝙼𝚊𝚛𝚒𝚎
+      Tomas Erdis 🙋🏻‍♂️
     location: "Norway"
-    followers: 9245
-    engagement: 1021
-    commentsToLikes: 0.112400
-    id: ck137crbrawaz0i19ecllt5cy
+    followers: 10259
+    engagement: 486
+    commentsToLikes: 0.199110
+    id: ck5qa5tsjeozz0i11i8fmsmrn
     verified: false
-    hashtags: "#christmasmagic, #kidsroom, #cappuccino, #drikkeflaske"
+    hashtags: "#hairstylist, #geilo, #mineralmakeup, #newsingle"
 ---

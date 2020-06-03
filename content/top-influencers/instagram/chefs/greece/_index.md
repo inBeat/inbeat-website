@@ -1,107 +1,107 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Greece In 2020
 description: >-
-  Find top chefs Instagram influencers in Greece in 2020. Most popular hashtags: #cooking #menoumespiti #food #foodporn.
+  Find top chefs Instagram influencers in Greece in 2020. Most popular hashtags: #chef #masterchefgr #summer #staysafe.
 platform: Instagram
 profiles:
-  - username: "georgepapakostas"
-    fullname: >-
-      George Papakostas
-    location: "Greece"
-    followers: 26146
-    engagement: 630
-    commentsToLikes: 0.016151
-    id: ck5zkf7thjdgm0i14esrcsglx
-    verified: false
-    hashtags: "#travellife, #visitcuba, #quoteoftheday, #camparitonic"
   - username: "christosglossidis"
     fullname: >-
       Χρηστος Γλωσσιδης
     location: "Greece"
-    followers: 28871
-    engagement: 789
-    commentsToLikes: 0.004208
+    followers: 29586
+    engagement: 798
+    commentsToLikes: 0.004454
     id: ck13cg2lp05wk0i19xnqb7vaq
     verified: false
-    hashtags: "#almost, #hotellife, #seeyousoon, #chilling"
-  - username: "barkas_christos"
+    hashtags: "#lovemyjob, #throwback, #memories, #likethefirstday"
+  - username: "panostogias"
     fullname: >-
-      Christos Barkas
+      Panos Togias
     location: "Greece"
-    followers: 59797
-    engagement: 924
-    commentsToLikes: 0.040824
-    id: ck5btda0rfr890i11lnpoqjbr
-    verified: true
-    hashtags: "#strawberry, #enjoyfood, #spain, #pindos"
-  - username: "argirobarbarigou"
-    fullname: >-
-      Argiro Barbarigou
-    location: "Greece"
-    followers: 437340
-    engagement: 222
-    commentsToLikes: 0.031410
-    id: ck5pvfdqahm110i11229pair7
-    verified: true
-    hashtags: "#amazing, #wishlist, #cookies, #food"
-  - username: "savvas__lichanidis"
-    fullname: >-
-      Savvas Lixanidis
-    location: "Greece"
-    followers: 45439
-    engagement: 425
-    commentsToLikes: 0.015413
-    id: ck5q4upylqbml0i11anrn069q
+    followers: 34463
+    engagement: 954
+    commentsToLikes: 0.005292
+    id: ck6txhnxjxw5f0j71clm9lohv
     verified: false
-    hashtags: "#chefslife, #lichanidis, #foodporn, #backstage"
+    hashtags: "#tasty, #misenplace, #miss, #friends"
   - username: "iamvakiaros"
     fullname: >-
       Lambros Vakiaros
     location: "Greece"
-    followers: 62980
-    engagement: 513
-    commentsToLikes: 0.024801
+    followers: 66519
+    engagement: 538
+    commentsToLikes: 0.028061
     id: ck15qsfcc4esd0i190l4qabct
     verified: true
-    hashtags: "#lvrecipes, #stayhealhty, #stayhomeandfit, #vegetarian"
-  - username: "spiridoula_karampoutaki"
+    hashtags: "#masterchefgr, #staysafe, #anticovid, #popcornchicken"
+  - username: "savvas__lichanidis"
     fullname: >-
-      spiridoyla~karampoutaki
+      Savvas Lixanidis
     location: "Greece"
-    followers: 17866
-    engagement: 492
-    commentsToLikes: 0.120568
-    id: ck6txhn7yxw2q0j71z9hzm9rm
+    followers: 44683
+    engagement: 437
+    commentsToLikes: 0.015306
+    id: ck5q4upylqbml0i11anrn069q
     verified: false
-    hashtags: "#sweet, #lovequotes, #giveawaycontest, #giftsidea"
+    hashtags: "#river, #christmasdinner, #dish, #chefslife"
+  - username: "argirobarbarigou"
+    fullname: >-
+      Argiro Barbarigou
+    location: "Greece"
+    followers: 457704
+    engagement: 190
+    commentsToLikes: 0.023406
+    id: ck5pvfdqahm110i11229pair7
+    verified: true
+    hashtags: "#recipes, #eleni, #nochildalone, #foryou"
   - username: "charalamboshadjiprodromou"
     fullname: >-
       Charalambos Hadjiprodromou
     location: "Greece"
-    followers: 16320
-    engagement: 1188
-    commentsToLikes: 0.004221
+    followers: 15850
+    engagement: 1125
+    commentsToLikes: 0.003659
     id: ck6txhmq4xvys0j7150li7nql
     verified: false
-    hashtags: "#bad, #foodlover, #masterchef, #love"
+    hashtags: "#new, #couple, #healthyliving, #masterchefgr"
+  - username: "alsisinanaj"
+    fullname: >-
+      Alsi Sinanaj
+    location: "Greece"
+    followers: 26676
+    engagement: 494
+    commentsToLikes: 0.020412
+    id: ck6uelf2armi10j715roaoxrm
+    verified: false
+    hashtags: "#roots, #slowcooking, #stayhealthy, #streetfood"
   - username: "dimitris_konidaris"
     fullname: >-
       Dimitris konidaris
     location: "Greece"
-    followers: 30569
-    engagement: 382
-    commentsToLikes: 0.018844
+    followers: 31300
+    engagement: 395
+    commentsToLikes: 0.019936
     id: ck0w0bc9mdcb00i19yp40m6f4
     verified: false
-    hashtags: "#eclair, #yummy, #instafood, #foodpic"
-  - username: "alsi_sinanaj"
+    hashtags: "#ruby, #cook, #cookies, #summer"
+  - username: "spiridoula_karampoutaki"
     fullname: >-
-      Alsi Sinanaj
+      spiridoyla~karampoutaki
     location: "Greece"
-    followers: 27326
-    engagement: 460
-    commentsToLikes: 0.015712
-    id: ck6uelf2armi10j715roaoxrm
+    followers: 24689
+    engagement: 475
+    commentsToLikes: 0.046012
+    id: ck6txhn7yxw2q0j71z9hzm9rm
     verified: false
-    hashtags: "#street, #love, #foodlover, #youtubechannel"
+    hashtags: "#rosemary, #peinerli, #cream, #animallover"
+  - username: "lazaros_chatzisavvas"
+    fullname: >-
+      Lazaros Chatzisavvas
+    location: "Greece"
+    followers: 6915
+    engagement: 1071
+    commentsToLikes: 0.010458
+    id: ck5q6fxkpx8r90i11ixozhn9a
+    verified: false
+    hashtags: "#gastronomy, #lime, #chocolatelovers, #coconut"
 ---

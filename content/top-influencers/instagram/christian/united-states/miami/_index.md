@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In Miami In 2020
 description: >-
-  Find top christian Instagram influencers in Miami in 2020. Most popular hashtags: #tbt #coronavirus #cranchisettantotto #repost.
+  Find top christian Instagram influencers in Miami in 2020. Most popular hashtags: #miamilife #haircut #tiktokfamous #lifestyle.
 platform: Instagram
 profiles:
-  - username: "martincomic"
-    fullname: >-
-      Martin Moreno
-    location: "United States"
-    followers: 84304
-    engagement: 199
-    commentsToLikes: 0.028705
-    id: ck5cdv3k9ju4g0i11xlnom3r9
-    verified: true
-    hashtags: "#beto, #comedy, #marticalopez, #comedy"
   - username: "_alexulloaa_"
     fullname: >-
       Alex Ulloa
     location: "United States"
-    followers: 2304
-    engagement: 2005
-    commentsToLikes: 0.043649
+    followers: 2356
+    engagement: 2008
+    commentsToLikes: 0.042315
     id: ck6tt9iq19dem0j710xplbx16
     verified: false
-    hashtags: "#begreat, #letthekidsplay, #workingfromhome, #begreat"
-  - username: "cranchiyachts"
+    hashtags: "#highschoolbaseball, #collegebaseball, #travelbaseball, #baseballamerica"
+  - username: "lizzieifbbpro"
     fullname: >-
-      CRANCHI YACHTS
+      𝓛𝓲𝔃𝔃𝓲𝓮 𝓘𝓕𝓑𝓑 𝓑𝓲𝓴𝓲𝓷𝓲 𝓟𝓻𝓸
     location: "United States"
-    followers: 27661
-    engagement: 121
-    commentsToLikes: 0.005257
-    id: ck5zrxg6lxfj00i14d8toy9md
+    followers: 38189
+    engagement: 128
+    commentsToLikes: 0.097268
+    id: ck6ufo4try5w40j71q7926qdt
     verified: false
-    hashtags: "#cranchiboatshows, #testdrive, #preownedyachts, #domotic"
-  - username: "thatscrispi"
-    fullname: >-
-      Crispi 🇨🇴🇵🇸
-    location: "United States"
-    followers: 10850
-    engagement: 470
-    commentsToLikes: 0.085176
-    id: ck5c2x29ey5sd0i11ivz5rh9x
-    verified: false
-    hashtags: "#covershot, #directorslife, #canon5dmarkiii, #curlygirlmethod"
-  - username: "mizzk.o"
-    fullname: >-
-      Kendra “K.O” Oyesanya
-    location: "United States"
-    followers: 265726
-    engagement: 394
-    commentsToLikes: 0.021012
-    id: ck0tvz2kqdewp0i19beribmi9
-    verified: true
-    hashtags: "#watchnow, #tiktok, #captainhook, #music"
+    hashtags: "#christianrap, #roguefitness, #athomefitness, #zoomyogaclasses"
   - username: "maxhenryparkour"
     fullname: >-
       Max Henry
     location: "United States"
-    followers: 18359
-    engagement: 561
-    commentsToLikes: 0.024583
+    followers: 18360
+    engagement: 567
+    commentsToLikes: 0.025190
     id: ck6u2m9plsmfv0j71rlywro9y
     verified: false
-    hashtags: "#saveyourclips, #doitforthefuture"
-  - username: "islandboiphotography"
+    hashtags: "#doitforthefuture, #saveyourclips"
+  - username: "estradac11"
     fullname: >-
-      Joey Rosado
+      Christian Estrada
     location: "United States"
-    followers: 245112
-    engagement: 370
-    commentsToLikes: 0.014632
-    id: ck0tyvdnmo7vb0i19nx1lnwmb
+    followers: 56056
+    engagement: 283
+    commentsToLikes: 0.029264
+    id: ck5zxxo7l8uq60i14x2w6d85f
     verified: true
-    hashtags: "#myblackisbeautiful, #beautyphotographer, #faith, #strongwomen"
-  - username: "michael_vahl_artwork"
+    hashtags: "#exclivmen, #nicaragua, #cerronegrovolcano, #sandboarding"
+  - username: "chrisxmendez"
     fullname: >-
-      Michael Vahl
+      Christian
     location: "United States"
-    followers: 15435
-    engagement: 193
-    commentsToLikes: 0.063952
-    id: ck14jfbnuk1pq0i1907i1knr4
+    followers: 6593
+    engagement: 975
+    commentsToLikes: 0.020003
+    id: ck5qcbrpvpt0y0i11x97kc9lg
     verified: false
-    hashtags: "#thomasshelby, #portrait, #quarantineart, #colorado"
+    hashtags: "#socialdistancing, #rupaulsdragraceseason12, #miamibeachpride, #workingoutinthesunisnotfun"
   - username: "geraldstylist"
     fullname: >-
       Gerald Santiago
     location: "United States"
-    followers: 37821
-    engagement: 334
-    commentsToLikes: 0.036464
+    followers: 42690
+    engagement: 292
+    commentsToLikes: 0.037383
     id: ck135jh5v1qip0i19uu88fwqe
     verified: false
-    hashtags: "#bedifferent, #color, #losleo, #teamwork"
+    hashtags: "#cuarentena, #clasevirtual, #beforeandafter, #color"
+  - username: "jpark_fit"
+    fullname: >-
+      Jeremy Park
+    location: "United States"
+    followers: 32856
+    engagement: 662
+    commentsToLikes: 0.012939
+    id: ck14jv00imbpk0i1994ls6621
+    verified: false
+    hashtags: "#giving, #savethis, #yogamat, #gymlove"
+  - username: "littlemaneg"
+    fullname: >-
+      Savon  Romeo😎🚀
+    location: "United States"
+    followers: 23810
+    engagement: 409
+    commentsToLikes: 0.031476
+    id: ck8t0pqjrstzx0j7819583rt9
+    verified: false
+    hashtags: "#allmotor, #countyline, #jjautowerks, #smalltiremafia"
+  - username: "i_ambleu"
+    fullname: >-
+      Bleu Reese LLJ✨
+    location: "United States"
+    followers: 10419
+    engagement: 250
+    commentsToLikes: 0.100743
+    id: ck5ckx1qvxs840i11ovchczda
+    verified: false
+    hashtags: "#tiktoktrends, #eishafight, #fade, #dubsmashvideos"
   - username: "oliverdog"
     fullname: >-
       Christian Meier
     location: "United States"
-    followers: 739668
-    engagement: 105
-    commentsToLikes: 0.040778
+    followers: 751313
+    engagement: 141
+    commentsToLikes: 0.022856
     id: ck6tvbig6l9zk0j71twvakk83
     verified: true
-    hashtags: "#coronavirus, #directtv, #elmejorcanaldecineenespa, #usa"
+    hashtags: "#travel, #miamilife, #cocinanikkei, #nationalsiblingday"
 ---

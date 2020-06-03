@@ -1,79 +1,69 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In San Diego In 2020
 description: >-
-  Find top lifestyle Instagram influencers in San Diego in 2020. Most popular hashtags: #sandiego #lifestyle #jewelry #lajollacove.
+  Find top lifestyle Instagram influencers in San Diego in 2020. Most popular hashtags: #travel #lajolla #stayinghome #turtleneckguys.
 platform: Instagram
 profiles:
   - username: "jasmin_soroush"
     fullname: >-
       Jasmin Soroush
     location: "United States"
-    followers: 22003
-    engagement: 176
-    commentsToLikes: 0.079108
+    followers: 21474
+    engagement: 150
+    commentsToLikes: 0.091621
     id: ck0w0n60kf1wk0i198t4hkf2h
     verified: false
-    hashtags: "#meandotherstories, #revolveme, #liketkit, #vicidolls"
+    hashtags: "#crateandbarrel, #theouai, #haircare, #napavalley"
   - username: "tiffanyy_le_"
     fullname: >-
       San Diego Photographer
     location: "United States"
-    followers: 3074
-    engagement: 1135
-    commentsToLikes: 0.051906
+    followers: 3051
+    engagement: 1147
+    commentsToLikes: 0.052173
     id: ck5cdkrfqjbyz0i11z6662ndt
     verified: false
-    hashtags: "#sandiegophotographer, #windandsea, #blogger, #lowlightphoto"
-  - username: "paulizakmusic"
-    fullname: >-
-      𝑷𝒂𝒖𝒍 𝑰𝒛𝒂𝒌
-    location: "United States"
-    followers: 22604
-    engagement: 261
-    commentsToLikes: 0.058007
-    id: ck13cuhdw28130i19zb2wb2fo
-    verified: false
-    hashtags: "#namaste, #plantingprayers, #protection, #protectionprayers"
-  - username: "emilymyint"
-    fullname: >-
-      emily myint ☁️
-    location: "United States"
-    followers: 6416
-    engagement: 780
-    commentsToLikes: 0.087622
-    id: ck6u9tp35zlj00j71cdxx097n
-    verified: false
-    hashtags: "#ctheglow, #volitionambassador, #splendies, #ad"
+    hashtags: "#businesscasual, #lulusambassador, #breakfast, #latte"
   - username: "coffeewithjohanna"
     fullname: >-
       Johanna Hamilton ✨
     location: "United States"
-    followers: 160964
-    engagement: 107
-    commentsToLikes: 0.040517
+    followers: 156800
+    engagement: 79
+    commentsToLikes: 0.054944
     id: ck0ttz5zs4ygl0i19hhap81f8
     verified: false
-    hashtags: "#28, #galentinesday, #superdown, #yomequedoencasa"
+    hashtags: "#yomequedoencasa, #ootd, #marriedlife, #springtime"
+  - username: "emilymyint"
+    fullname: >-
+      emily myint
+    location: "United States"
+    followers: 7150
+    engagement: 715
+    commentsToLikes: 0.104483
+    id: ck6u9tp35zlj00j71cdxx097n
+    verified: false
+    hashtags: "#sponsored, #coola, #youinrue"
   - username: "selenaenriquez_"
     fullname: >-
       Selena
     location: "United States"
-    followers: 5759
-    engagement: 799
-    commentsToLikes: 0.055354
+    followers: 5779
+    engagement: 791
+    commentsToLikes: 0.058139
     id: ck0uchvvwgvuj0i1915shpyo1
     verified: false
-    hashtags: "#travel, #fibo, #selflove, #bestinthegame"
+    hashtags: "#cannabinoid, #stoneybaloney, #stoked, #medicineball"
   - username: "hmillerfit"
     fullname: >-
       Hannah Miller Gonzalez
     location: "United States"
-    followers: 42667
-    engagement: 333
-    commentsToLikes: 0.044312
+    followers: 42171
+    engagement: 336
+    commentsToLikes: 0.045818
     id: ck15u8gjhlxlg0i19p4laa1j3
     verified: false
-    hashtags: "#hipabduction, #womenthatlift, #gymideas, #fitnesstips"
+    hashtags: "#lats, #abexercise, #athomefitness, #hiitworkout"
   - username: "flickman"
     fullname: >-
       M A T T  H I C K M A N
@@ -84,24 +74,34 @@ profiles:
     id: ck5hhvb87a9bo0i11l805iuun
     verified: false
     hashtags: "#litbylume, #redbullcanyoumakeit, #turtleneckguys, #lumecube"
-  - username: "pascal_mouawad"
+  - username: "thefunkgypsy"
     fullname: >-
-      Pascal Mouawad
+      Michele Moss Design
     location: "United States"
-    followers: 631384
-    engagement: 34
-    commentsToLikes: 0.023745
-    id: ck0ubx1lcffxz0i19f5qp3hrb
-    verified: true
-    hashtags: "#inspirational, #emerald, #anastasiamouawad, #style"
-  - username: "chefwilliambradley"
-    fullname: >-
-      William Bradley
-    location: "United States"
-    followers: 6161
-    engagement: 500
-    commentsToLikes: 0.042757
-    id: ck0ttsekh44in0i19kmkcilf5
+    followers: 26198
+    engagement: 296
+    commentsToLikes: 0.241671
+    id: ck0vy969v2u8w0i19k0mgf73x
     verified: false
-    hashtags: "#craftmenship, #fridaynight, #relaischateaux60, #eatlocal"
+    hashtags: "#campthemeroom, #girlswhoblog, #spring2020, #disneylove"
+  - username: "xocarlarenee"
+    fullname: >-
+      Carla Snuggs ❤
+    location: "United States"
+    followers: 16654
+    engagement: 432
+    commentsToLikes: 0.030381
+    id: ck8swq5mdeuqd0j782s6w9kas
+    verified: false
+    hashtags: "#keto, #dailyharvest, #dailyharvesttastemaker, #ultabeauty"
+  - username: "sarahlovingly"
+    fullname: >-
+      S A R A H
+    location: "United States"
+    followers: 41199
+    engagement: 247
+    commentsToLikes: 0.011530
+    id: ck6uc5whcdph50j719mwelrmw
+    verified: false
+    hashtags: "#grateful, #morningfuel, #vacamindset, #26"
 ---

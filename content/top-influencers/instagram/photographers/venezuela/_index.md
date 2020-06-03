@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top photographers Instagram influencers in Venezuela in 2020. Most popular hashtags: #venezuela #portrait #photography #model.
+  Find top photographers Instagram influencers in Venezuela in 2020. Most popular hashtags: #photographer #photography #moda #fashion.
 platform: Instagram
 profiles:
   - username: "changophoto"
     fullname: >-
       Johan Chango
     location: "Venezuela"
-    followers: 26280
-    engagement: 527
-    commentsToLikes: 0.030056
+    followers: 26816
+    engagement: 462
+    commentsToLikes: 0.042098
     id: ck55pst4hbaur0i114a66uuyt
     verified: false
-    hashtags: "#nudeart, #beautyface, #skinretouch, #classicblue"
+    hashtags: "#mua, #fashionpost, #missvenezuela, #shooting"
   - username: "hamslight"
     fullname: >-
       Fotógrafa.🌸
     location: "Venezuela"
-    followers: 11093
-    engagement: 1020
-    commentsToLikes: 0.064439
+    followers: 11910
+    engagement: 853
+    commentsToLikes: 0.078051
     id: ck602ycpyjzqd0i14ihhuwav8
     verified: false
-    hashtags: "#discoverportrait, #kindcomments, #love, #muerte"
+    hashtags: "#muerte, #cuarentenatime, #margarita, #boss"
   - username: "lunanavarro"
     fullname: >-
       O. Luna Navarro
     location: "Venezuela"
-    followers: 14140
-    engagement: 523
-    commentsToLikes: 0.021025
+    followers: 14312
+    engagement: 490
+    commentsToLikes: 0.021040
     id: ck5c8yj56afz30i11wdsvm4n8
     verified: false
-    hashtags: "#materpower, #gabito, #portraitsdecuarentena"
+    hashtags: "#portraitsdecuarentena, #fashionphotography, #model, #canon"
   - username: "caosanchez"
     fullname: >-
       Cao
     location: "Venezuela"
-    followers: 5750
-    engagement: 764
-    commentsToLikes: 0.046248
+    followers: 5777
+    engagement: 700
+    commentsToLikes: 0.046199
     id: ck5hpliekrk650i11vrd3ojqx
     verified: false
-    hashtags: "#athletamagazine, #everydaylatinamerica, #everydayeverywhere, #migration"
+    hashtags: "#canaima, #fujix100f, #cvvisualdiary, #coronavirus"
+  - username: "alejandrosolo1"
+    fullname: >-
+      Alejandro Solo
+    location: "Venezuela"
+    followers: 17550
+    engagement: 346
+    commentsToLikes: 0.010446
+    id: ck5hqx76btvtl0i11adzjzgj4
+    verified: false
+    hashtags: "#boat, #barco, #boats, #barcos"
   - username: "alsantafe"
     fullname: >-
-      Fotógrafo📷 аleјаndго ѕaитаfé ️
+      soy el mejor
     location: "Venezuela"
-    followers: 5517
-    engagement: 862
-    commentsToLikes: 0.290905
+    followers: 5631
+    engagement: 845
+    commentsToLikes: 0.277938
     id: ck6tk6qm743wg0j71s87s862t
     verified: false
-    hashtags: "#fotografos, #venezuela, #zetitafoto, #yorkshireterrier"
-  - username: "alegfoto"
+    hashtags: "#moodygrams, #promociones, #bravoportraits, #portraitsociety"
+  - username: "alamoshoot"
     fullname: >-
-      Alejandro Gonzalez 🇻🇪
+      David alamo
     location: "Venezuela"
-    followers: 62799
-    engagement: 384
-    commentsToLikes: 0.075832
-    id: ck0ubyi0lfmm80i19jyt5bbm0
+    followers: 2303
+    engagement: 1118
+    commentsToLikes: 0.131892
+    id: ck8sztox3po7o0j78xvvoaw39
     verified: false
-    hashtags: "#instalike, #photoshoot, #art, #moodyports"
-  - username: "kathyoficial"
+    hashtags: "#canon, #photographer, #retoucher, #flowers"
+  - username: "instataniam"
     fullname: >-
-      Kαthy  |  S u α r ɛ z
+      Tania Mafilito
     location: "Venezuela"
-    followers: 6034
-    engagement: 524
-    commentsToLikes: 0.074912
-    id: ck5pxcpbcr5fj0i11xd0q1s9p
+    followers: 13984
+    engagement: 530
+    commentsToLikes: 0.056198
+    id: ck0tw1hdidm3q0i19wcp2feij
     verified: false
-    hashtags: "#world, #demonslayer, #modelo, #womansecret"
-  - username: "artgsamuel"
+    hashtags: "#valencia, #education, #argentina, #paint"
+  - username: "carlingil_"
     fullname: >-
-      ARTG SAMUEL
+      𝐂𝐀𝐑𝐋𝐈𝐍 𝐀𝐍𝐆𝐄𝐋𝐘 𝐀𝐍𝐆𝐔𝐋𝐎 𝐆𝐈𝐋 🌻🧿
     location: "Venezuela"
-    followers: 2109
-    engagement: 1013
-    commentsToLikes: 0.198350
-    id: ck6uhjsya9j100j71c30pqwge
+    followers: 12005
+    engagement: 622
+    commentsToLikes: 0.100510
+    id: ck5q43i7gnlfx0i11mbc5b8go
     verified: false
-    hashtags: "#video, #xmas, #model, #2020"
-  - username: "edwinrphoto"
-    fullname: >-
-      EDWIN RAMOS
-    location: "Venezuela"
-    followers: 7933
-    engagement: 452
-    commentsToLikes: 0.116247
-    id: ck55lgk1g1ijx0i11mysfzi1g
-    verified: false
-    hashtags: "#portrait, #venezuela, #love, #mobilephotography"
+    hashtags: "#mom, #gratitud, #reflection, #new"
   - username: "pedrojose.ph"
     fullname: >-
-      Fotógrafo - Pedro José
+      Pedro José
     location: "Venezuela"
-    followers: 5323
-    engagement: 658
-    commentsToLikes: 0.061410
+    followers: 5581
+    engagement: 632
+    commentsToLikes: 0.054512
     id: ck6ubvbv6bx0k0j71byvcmptf
     verified: false
-    hashtags: "#photograph, #limaperu, #photographersofinstagram, #streetshooter"
+    hashtags: "#tagify, #moda, #fashionstyle, #temacuarentena"
 ---

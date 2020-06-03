@@ -1,107 +1,107 @@
 ---
 title: Top 10 Christian Instagram Influencers In 2020
 description: >-
-  Find top christian Instagram influencers in 2020. Most popular hashtags: #makeupoftheday #love #anastasiabeverlyhills #colourpop.
+  Find top christian Instagram influencers in 2020. Most popular hashtags: # #galaxy #cherrylips #mermaid.
 platform: Instagram
 profiles:
-  - username: "christiana.gabriele"
+  - username: "christian_ehrnsperger"
     fullname: >-
-      𝐂𝐇𝐑𝐈𝐒𝐓𝐈𝐀𝐍𝐀 𝐆𝐀𝐁𝐑𝐈𝐄𝐋𝐄
+      Christian
+    location: "Germany"
+    followers: 35993
+    engagement: 151
+    commentsToLikes: 0.133798
+    id: ckaou6tdrz1xz0i78t67dgziv
+    verified: false
+    hashtags: "#wirelessspeaker, #stolzaufmich, #stylishmen, #karlkani"
+  - username: "christiancarnation"
+    fullname: >-
+      Christian
     location: "United States"
-    followers: 68401
-    engagement: 635
-    commentsToLikes: 0.060516
-    id: ck0w3m3jju3ou0i193ss2smpm
+    followers: 35714
+    engagement: 571
+    commentsToLikes: 0.021506
+    id: ck601qypfg0d90i14hhy2r8m0
     verified: false
-    hashtags: "#makeuprevolution, #hearts, #essencecosmetics, #purplehair"
-  - username: "emnzeribe"
+    hashtags: "#humpday, #wheelwednesday, #tailighttuesday, #throwback"
+  - username: "cmpulisic"
     fullname: >-
-      Okegbue Nzeribe Emmanuel
-    location: "United Kingdom"
-    followers: 3362
-    engagement: 2600
-    commentsToLikes: 0.095397
-    id: ck6tvgo4gm4mk0j71wrlw6c7f
+      Christian
+    location: "United States"
+    followers: 2649866
+    engagement: 675
+    commentsToLikes: 0.006918
+    id: ck0tuohdw80cw0i19xi6r6lqt
+    verified: true
+    hashtags: "#nevertheeasyroad, #traineatrepeat, #theyearschallenge, #playerstogether"
+  - username: "orangello_i30n"
+    fullname: >-
+      Christian
+    location: "Germany"
+    followers: 14779
+    engagement: 1963
+    commentsToLikes: 0.013488
+    id: ck0ttjke7307t0i191f13xbem
     verified: false
-    hashtags: "#stayproductive, #eko4show, #covid19, #covid19nigeria"
+    hashtags: ""
+  - username: "celinadijkstra"
+    fullname: >-
+      𝒞𝑒𝓁𝒾𝓃𝒶 𝒟𝒾𝒿𝓀𝓈𝓉𝓇𝒶🕊
+    location: "Netherlands"
+    followers: 2075
+    engagement: 3058
+    commentsToLikes: 0.154553
+    id: ckap0vqigs0ur0i78bm6lu4ie
+    verified: false
+    hashtags: "#eigenwijs, #seriously, #shooting, #blondje"
+  - username: "julianapriscilaofc"
+    fullname: >-
+      Juliana Priscila
+    location: "Brazil"
+    followers: 503178
+    engagement: 1301
+    commentsToLikes: 0.814618
+    id: ck9wh2n51vywv0j78zp24ep8k
+    verified: false
+    hashtags: ""
   - username: "goethes_welt"
     fullname: >-
       Goethes Welt
     location: "Germany"
-    followers: 27395
-    engagement: 906
-    commentsToLikes: 0.045517
+    followers: 29659
+    engagement: 862
+    commentsToLikes: 0.061651
     id: ck0w1joczjoig0i196zew7juz
     verified: false
-    hashtags: "#dressurpony, #pony, #paard, #dressurpferd"
-  - username: "christian.swett"
+    hashtags: "#silveroutfit, #springpony, #pferdezubeho, #ponylove"
+  - username: "christiana.gabriele"
     fullname: >-
-      christian 👨🏾‍🚀
+      𝐂𝐇𝐑𝐈𝐒𝐓𝐈𝐀𝐍𝐀 𝐆𝐀𝐁𝐑𝐈𝐄𝐋𝐄
     location: "United States"
-    followers: 5414
-    engagement: 1935
-    commentsToLikes: 0.057648
-    id: ck6u6f48of8jo0j718vyi2z3j
+    followers: 70090
+    engagement: 777
+    commentsToLikes: 0.054633
+    id: ck0w3m3jju3ou0i193ss2smpm
     verified: false
-    hashtags: "#mycalvins"
-  - username: "chrix.riot"
+    hashtags: "#abhxamrezy, #colourfulmakeup, #galaxy, #graphicliner"
+  - username: "clmfub"
     fullname: >-
-      Christian Colorado
-    location: "United States"
-    followers: 7984
-    engagement: 1341
-    commentsToLikes: 0.049791
-    id: ck5hjmj8sgvxp0i11pvsrwaek
-    verified: false
-    hashtags: "#bcapital, #tbt, #grateful, #p4b"
-  - username: "milkgiver"
-    fullname: >-
-      Rachel Zacharias
-    location: "United States"
-    followers: 21894
-    engagement: 634
-    commentsToLikes: 0.121904
-    id: ck5cd83txipdn0i11kqdn6xkk
-    verified: false
-    hashtags: "#orthodoxinamerica, #motherhood, #shereallydidwakeuplikethis, #orthodoxy"
-  - username: "mishamakeupartist"
-    fullname: >-
-      Misha Makeup | Melissa Batz
-    location: "Mexico"
-    followers: 24752
-    engagement: 568
-    commentsToLikes: 0.163702
-    id: ck5c7951972ma0i1191bxm7uj
-    verified: false
-    hashtags: "#like, #video, #neonmakeuplook, #peach"
-  - username: "hello.its.me.anni"
-    fullname: >-
-      Lifestyle ☼ Beauty ☼ Fashion
+      Clmfub
     location: "Germany"
-    followers: 17555
-    engagement: 531
-    commentsToLikes: 0.135343
-    id: ck6u18ii2k8hh0j71aer6lw4s
+    followers: 4710
+    engagement: 2176
+    commentsToLikes: 0.157799
+    id: ck6u986zzw23u0j716mtzf64l
     verified: false
-    hashtags: "#watch, #goals, #winter, #discoverunder20k"
-  - username: "euphriaxiv"
+    hashtags: "#hamburgcity, #hamburg, #sigmaphoto, #cinematic"
+  - username: "christianvierling"
     fullname: >-
-      𝒂𝒎𝒃𝒆𝒓 ☾✧
-    location: ""
-    followers: 10307
-    engagement: 1675
-    commentsToLikes: 0.038440
-    id: ck55ol4xn8kmq0i119dbiyj23
+      
+    location: "United States"
+    followers: 8638
+    engagement: 1803
+    commentsToLikes: 0.049921
+    id: ck9wh635swfg70j788r3eci1s
     verified: false
-    hashtags: "#minimalmakeup, #boldlips, #wetnwildbeauty, #liveyourlook"
-  - username: "femiondrums"
-    fullname: >-
-      Femi Koleoso
-    location: "United Kingdom"
-    followers: 15730
-    engagement: 1069
-    commentsToLikes: 0.036670
-    id: ck5hpyrhms73u0i11txrnshnn
-    verified: true
-    hashtags: "#stellamccartneyxthebeatles"
+    hashtags: ""
 ---

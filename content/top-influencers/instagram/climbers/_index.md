@@ -1,107 +1,107 @@
 ---
 title: Top 10 Climbers Instagram Influencers In 2020
 description: >-
-  Find top climbers Instagram influencers in 2020. Most popular hashtags: #climbing #rockclimbing #hiking #bouldering.
+  Find top climbers Instagram influencers in 2020. Most popular hashtags: #rockclimbing #tiktok #earthday #selfies.
 platform: Instagram
 profiles:
-  - username: "bethrodden"
+  - username: "climbersjp"
     fullname: >-
-      bethrodden
-    location: "United States"
-    followers: 51912
-    engagement: 918
-    commentsToLikes: 0.025939
-    id: ck5pyx3y6y8d70i117uecsj5b
+      CLIMBERS
+    location: "Japan"
+    followers: 10644
+    engagement: 470
+    commentsToLikes: 0.001003
+    id: ck0ttpt123rzw0i197qfuh1oe
     verified: false
-    hashtags: "#orambassador, #lastdaybestday, #yosemitebouldering, #orambassador"
-  - username: "vagabondhearts"
-    fullname: >-
-      andrea ference 🇨🇦🇦🇹
-    location: "Canada"
-    followers: 312683
-    engagement: 692
-    commentsToLikes: 0.016119
-    id: ck0u0dfketfqu0i19nuhrf5ia
-    verified: false
-    hashtags: "#dolomites, #fujifilmpartner, #ad, #bikini"
+    hashtags: "#climbershands, #handcare, #thenorthfacecup2020, #onlineshop"
   - username: "mariajazzi"
     fullname: >-
       Maria|ماريا
     location: ""
-    followers: 5676
-    engagement: 866
-    commentsToLikes: 0.109343
+    followers: 5753
+    engagement: 1059
+    commentsToLikes: 0.101246
     id: ck6tj70j524ov0j71isqiljk5
     verified: false
-    hashtags: "#snowday, #snowdays, #photooftheday, #canonphotography"
-  - username: "splatterflower"
+    hashtags: "#saltywater, #adventuretime, #summerlover, #leadclimbing"
+  - username: "bethrodden"
     fullname: >-
-      Phillip Booth
-    location: "Australia"
-    followers: 6629
-    engagement: 821
-    commentsToLikes: 0.077452
-    id: ck135oq522gzy0i19h7bo56e5
+      bethrodden
+    location: "United States"
+    followers: 55528
+    engagement: 905
+    commentsToLikes: 0.026357
+    id: ck5pyx3y6y8d70i117uecsj5b
     verified: false
-    hashtags: "#sydney, #hanoi, #vietnam, #phillipboothphotography"
-  - username: "sarahal06"
+    hashtags: "#lastdaybestday, #yosemitebouldering, #orambassador, #curiousclimberpodcast"
+  - username: "luce_douady"
     fullname: >-
-      Sarahal06
+      luce
     location: "France"
-    followers: 18355
-    engagement: 1757
-    commentsToLikes: 0.020156
-    id: ck8wgob5mhr0v0j78d84gwpze
+    followers: 5223
+    engagement: 3080
+    commentsToLikes: 0.038621
+    id: ck6tpu17jmxrs0j71ywdwit5i
     verified: false
-    hashtags: "#sigil, #eaudelune, #pagan, #blacksalt"
+    hashtags: "#cacahuetepower"
   - username: "semadogan._"
     fullname: >-
       Sema Doğan
     location: "Turkey"
-    followers: 12228
-    engagement: 1171
-    commentsToLikes: 0.032965
+    followers: 17139
+    engagement: 981
+    commentsToLikes: 0.029277
     id: ck8t4usuj7zk50j78c5kfpexf
     verified: false
-    hashtags: "#kamp, #kapadokyabalon, #instagram, #antalyaalanya"
-  - username: "imogenclimbs"
+    hashtags: "#nurgaz, #istanbulbalat, #hisar, #tbmm100ya"
+  - username: "vagabondhearts"
     fullname: >-
-      Imogen Horrocks
-    location: "United Kingdom"
-    followers: 42700
-    engagement: 723
-    commentsToLikes: 0.010884
-    id: ck15rj8sq86vg0i19uxr86ina
+      andrea ference 🇨🇦🇦🇹
+    location: "United States"
+    followers: 312616
+    engagement: 574
+    commentsToLikes: 0.017974
+    id: ck0u0dfketfqu0i19nuhrf5ia
     verified: false
-    hashtags: "#bestrong, #gbtitans, #domsaregreat, #homeboard"
+    hashtags: "#biggerthanabar, #fujifilmpartner, #jolyn, #ad"
+  - username: "kimmie.tu"
+    fullname: >-
+      KIMMIE TU | Rock Climber
+    location: "United States"
+    followers: 33361
+    engagement: 585
+    commentsToLikes: 0.057765
+    id: ck5heq7fvu82o0i11ck4f80n6
+    verified: false
+    hashtags: "#valentinesday, #fitgirls, #earthday, #sponsored"
+  - username: "sarahal06"
+    fullname: >-
+      Sarahal06
+    location: "France"
+    followers: 48527
+    engagement: 2118
+    commentsToLikes: 0.011936
+    id: ck8wgob5mhr0v0j78d84gwpze
+    verified: false
+    hashtags: "#nomakeup, #tiktok, #tiktokdance"
+  - username: "splatterflower"
+    fullname: >-
+      Phillip Booth
+    location: "Australia"
+    followers: 6604
+    engagement: 847
+    commentsToLikes: 0.064750
+    id: ck135oq522gzy0i19h7bo56e5
+    verified: false
+    hashtags: "#worldphotographyday, #hanoi, #vietnam, #30"
   - username: "eric.karlsson.bouldering"
     fullname: >-
       Eric Karlsson
     location: "Sweden"
-    followers: 29353
-    engagement: 750
-    commentsToLikes: 0.012416
+    followers: 29462
+    engagement: 748
+    commentsToLikes: 0.012471
     id: ck0vxlqd1zj7t0i198smx2t8a
     verified: false
-    hashtags: "#trainingday, #climbing, #training, #rockclimbing"
-  - username: "jakestormoen"
-    fullname: >-
-      Jake Stormoen
-    location: "United Kingdom"
-    followers: 11300
-    engagement: 1153
-    commentsToLikes: 0.064190
-    id: ck0w21nrym7ai0i19epig0ozk
-    verified: true
-    hashtags: "#favoriteperson, #extincttv, #castlediehard, #bookwormandthebeast"
-  - username: "anett.climbing"
-    fullname: >-
-      Climber⭐travel with dogs🐾🐾👣
-    location: "Poland"
-    followers: 37774
-    engagement: 333
-    commentsToLikes: 0.034795
-    id: ck5hhx8nbaivd0i11qqjexow6
-    verified: false
-    hashtags: "#gory, #letsgetwinterready, #natureisourplayground, #moderhiker"
+    hashtags: "#youtube, #trainingday, #climbinginspiration, #tryhard"
 ---

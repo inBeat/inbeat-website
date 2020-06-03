@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Chicago In 2020
 description: >-
-  Find top food Instagram influencers in Chicago in 2020. Most popular hashtags: #foodie #dinner #foodporn #food.
+  Find top food Instagram influencers in Chicago in 2020. Most popular hashtags: #stayhomesavelives #mothersday2020 #supportlocal #choosechicago.
 platform: Instagram
 profiles:
-  - username: "blackfoodlife"
+  - username: "bestdatefood"
     fullname: >-
-      Black Food Life TV
+      Best Date Food | Chicago
     location: "United States"
-    followers: 81548
-    engagement: 175
-    commentsToLikes: 0.048821
-    id: ck15toc0rj33w0i19ocks1117
+    followers: 15558
+    engagement: 434
+    commentsToLikes: 0.080870
+    id: ck5hlraaykpnr0i116t65d99k
     verified: false
-    hashtags: "#neworleansfoodie, #foodgasms, #blackwomenrun, #columbusfood"
-  - username: "rick_bayless"
+    hashtags: "#chicagorestaurantweek, #nationalmeatballday, #parmesancheese, #bestdatefood"
+  - username: "lettherebefood_"
     fullname: >-
-      Rick Bayless
+      Let There Be Food_ | Chicago
     location: "United States"
-    followers: 122926
-    engagement: 114
-    commentsToLikes: 0.023421
-    id: ck138nc19h2n30i1917vyb295
+    followers: 5322
+    engagement: 620
+    commentsToLikes: 0.320112
+    id: ckaornqyfo1hi0i78xhtxgo7f
     verified: false
-    hashtags: "#toosmalltofail, #saveamericasrestaurants, #saverestaurants, #bigmacorsmallfry"
+    hashtags: "#tacotuesday, #pressseltzer, #enjoypress, #hbtpress"
+  - username: "likefoodchicago"
+    fullname: >-
+      Like Food Chicago
+    location: "United States"
+    followers: 128157
+    engagement: 207
+    commentsToLikes: 0.023785
+    id: ck5zjfmt2hi2d0i14zhet6y7i
+    verified: false
+    hashtags: "#likefoodchicaho, #tacotuesday, #likefoodchicago, #vegan"
+  - username: "chicago.wine.dude"
+    fullname: >-
+      Nick
+    location: "United States"
+    followers: 38059
+    engagement: 360
+    commentsToLikes: 0.031782
+    id: ckaow43487c4u0i785cmvnwgb
+    verified: false
+    hashtags: "#itsfromnapa"
   - username: "fromuyenwithlove"
     fullname: >-
-      Uyen Tran
+      Uyen Tran ✨
     location: "United States"
-    followers: 16792
-    engagement: 206
-    commentsToLikes: 0.090272
+    followers: 16862
+    engagement: 238
+    commentsToLikes: 0.097010
     id: ck14kh6nypi0t0i19e83bp870
     verified: false
-    hashtags: "#happybirthdaychicago, #handsinframe, #comfortfoods, #jenisicecream"
+    hashtags: "#quarantinecooking, #pancake, #mochi, #mychicagothursday"
   - username: "fabsoopark"
     fullname: >-
       Chicago Food & Travel
     location: "United States"
-    followers: 36662
-    engagement: 88
-    commentsToLikes: 0.048763
+    followers: 37207
+    engagement: 122
+    commentsToLikes: 0.042160
     id: ck0w3iuzbtn160i199zlvm9qx
     verified: false
-    hashtags: "#dollypartonchallange, #evanstoneats, #fabfoodbaby, #chicagonorthshore"
+    hashtags: "#quarantinebirthday, #madetodeliver, #cerealboxhack, #cerealboxchallenge"
   - username: "312food"
     fullname: >-
       Chicago Food Blogger • 312food
     location: "United States"
-    followers: 107728
-    engagement: 118
-    commentsToLikes: 0.074325
+    followers: 109914
+    engagement: 134
+    commentsToLikes: 0.037378
     id: ck5zjfr9thicd0i14509zhc7z
     verified: false
-    hashtags: "#restaurantrecovery, #shamrockmcflurry, #contest, #sponsored"
-  - username: "chef.edtinoco"
+    hashtags: "#stayhomesavelives, #flattenthecurvechi, #alonetogether, #hellmannspartner"
+  - username: "wgnnews"
     fullname: >-
-      Ed Tinoco
+      WGN News
     location: "United States"
-    followers: 21052
-    engagement: 360
-    commentsToLikes: 0.028556
-    id: ck14iu9m2h7990i19tpi1feim
-    verified: false
-    hashtags: "#pistachio, #chefsofinstagram, #chefstable, #restaurant"
-  - username: "grbestbites"
+    followers: 147977
+    engagement: 78
+    commentsToLikes: 0.019546
+    id: ck6tnl143a26m0j71bqpwgrv6
+    verified: true
+    hashtags: "#chicagohome, #teachers, #followingchicago, #mothersday2020"
+  - username: "mallorykorol"
     fullname: >-
-      Marb + Shella
+      Chicago Food With Mal
     location: "United States"
-    followers: 12222
-    engagement: 621
-    commentsToLikes: 0.072502
-    id: ck6ueqhmpshw90j71i1ykkfu6
+    followers: 27310
+    engagement: 183
+    commentsToLikes: 0.109527
+    id: ck9hb1us6f0rt0j78i2izbw9g
     verified: false
-    hashtags: "#foodinfluencer, #tocino, #tonkatsu, #dailyfoodfeed"
-  - username: "halesyeahchi"
+    hashtags: "#tbt, #supportlocal, #thegreatamericantakeout"
+  - username: "inspiringkitchen"
     fullname: >-
-      Haley Kathryn ✨
+      Chicago Food🌷Travel🌷Lifestyle
     location: "United States"
-    followers: 7747
-    engagement: 716
-    commentsToLikes: 0.174962
-    id: ck8tdramq4ho60j78a7ipxz59
+    followers: 47738
+    engagement: 116
+    commentsToLikes: 0.116913
+    id: ck9wowj1k6voo0j785tdbhxiy
     verified: false
-    hashtags: "#itsthelittlethings"
-  - username: "brownskinbeautiful_"
-    fullname: >-
-      Chicago Blogger - Ebony
-    location: "United States"
-    followers: 43941
-    engagement: 209
-    commentsToLikes: 0.095748
-    id: ck134d76gvved0i19q7zcgydr
-    verified: false
-    hashtags: "#protectivestyles, #blackgirlmagic, #everevepartner, #headwrap"
-  - username: "emmierosenblum"
-    fullname: >-
-      Emmie
-    location: "United States"
-    followers: 17703
-    engagement: 361
-    commentsToLikes: 0.048044
-    id: ck5cishuntaci0i117n2a9el5
-    verified: false
-    hashtags: "#daylightphotography, #didierfarms, #winterbreak, #hanukkah"
+    hashtags: "#pizzapizzapizza, #chocolatecakes, #eeeeeats, #tacotuesdays"
 ---

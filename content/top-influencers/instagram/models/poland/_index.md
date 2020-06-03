@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Poland In 2020
 description: >-
-  Find top models Instagram influencers in Poland in 2020. Most popular hashtags: #model #poland #zosta #makeup.
+  Find top models Instagram influencers in Poland in 2020. Most popular hashtags: #portrait #smile #outfit #warsaw.
 platform: Instagram
 profiles:
-  - username: "emilka_photofashmodel"
+  - username: "evii.pl"
     fullname: >-
-      Emilka Rostek 🇵🇱
+      Evelina
     location: "Poland"
-    followers: 54657
-    engagement: 657
-    commentsToLikes: 0.083050
-    id: ck8t9zskwpxzw0j7812vwa9q7
+    followers: 6622
+    engagement: 1520
+    commentsToLikes: 0.083697
+    id: ck8t7c3y5g9zy0j78nxsv372k
     verified: false
-    hashtags: "#instamom, #stayathome, #pursuitofportraits, #dream"
-  - username: "iamveronikaradzivill"
-    fullname: >-
-      
-    location: "Poland"
-    followers: 45701
-    engagement: 1909
-    commentsToLikes: 0.041213
-    id: ck0w4th0s0c010i19gvu9buj1
-    verified: false
-    hashtags: ""
+    hashtags: "#poco, #makija, #blackandwhite, #pozytywnie"
   - username: "natalia.pigula"
     fullname: >-
       Natalia Piguła
     location: "Poland"
-    followers: 9297
-    engagement: 1616
-    commentsToLikes: 0.047547
+    followers: 9194
+    engagement: 1649
+    commentsToLikes: 0.046494
     id: ck5c9snjec1l40i11b9ucuwuw
     verified: false
-    hashtags: "#sweter, #makeupinspiration, #valentinesday2020, #morningroutine"
-  - username: "anastaziuk_"
+    hashtags: "#podr, #zmianaczasu, #portrait, #stok"
+  - username: "ulubiony_optometrysta"
     fullname: >-
-      𝑆𝑘𝑎𝑗𝑏𝑖 🔥 | MAKEUP | TUTORIALS
+      Emil Iman
     location: "Poland"
-    followers: 4108
-    engagement: 2305
-    commentsToLikes: 0.079219
-    id: ck5qdwra3xntw0i1114so527y
+    followers: 28335
+    engagement: 789
+    commentsToLikes: 0.029805
+    id: ck6u899nlq6uc0j71o5gfoolt
     verified: false
-    hashtags: "#plant, #muasreposting, #satinmatteveline, #darmowekosmetyki"
-  - username: "halinkawisniewska"
+    hashtags: "#prada, #home, #eyewear, #chill"
+  - username: "wiktoria.schab"
     fullname: >-
-      Halinka Wisniewska
+      WIKTORIA SCHAB
     location: "Poland"
-    followers: 189551
-    engagement: 348
-    commentsToLikes: 0.053001
-    id: ck5hkm49sio8z0i11rjfx7rmd
+    followers: 20265
+    engagement: 486
+    commentsToLikes: 0.078619
+    id: ck602s6eciuvu0i14o1u4btc9
     verified: false
-    hashtags: "#lingerie, #longweekend, #hairlove, #talizmany"
+    hashtags: "#shoot, #natural, #mango, #juicedetox"
+  - username: "roxy.jacobs"
+    fullname: >-
+      Roxy Jacobs
+    location: "Poland"
+    followers: 29638
+    engagement: 368
+    commentsToLikes: 0.129423
+    id: ckaoswbcftb4k0i78o10yq3ai
+    verified: false
+    hashtags: "#look, #sombre, #sugarbodyscrub, #frankivsk"
   - username: "biernatagata"
     fullname: >-
       MISS WORLD POLAND 2018👑
     location: "Poland"
-    followers: 80254
-    engagement: 324
-    commentsToLikes: 0.057907
+    followers: 82032
+    engagement: 326
+    commentsToLikes: 0.089927
     id: ck0udl13djf8y0i196fnwovvx
     verified: true
-    hashtags: "#jewellery, #timek, #yoga, #classy"
+    hashtags: "#gymismyhome, #healthy, #lips, #lipstick"
+  - username: "halinkawisniewska"
+    fullname: >-
+      Halinka Wisniewska
+    location: "Poland"
+    followers: 229225
+    engagement: 297
+    commentsToLikes: 0.050785
+    id: ck5hkm49sio8z0i11rjfx7rmd
+    verified: false
+    hashtags: "#sugarbabe, #lashesextension, #koszulka, #lunchtime"
   - username: "kristopko"
     fullname: >-
       stratenyvosvete.eu
     location: "Poland"
-    followers: 6206
-    engagement: 829
-    commentsToLikes: 0.118379
+    followers: 6183
+    engagement: 910
+    commentsToLikes: 0.112343
     id: ck5c0gu0yt3ze0i11d5j7dnty
     verified: false
-    hashtags: "#somfashionista, #allblackstyle, #onthepoint, #modamasculina"
-  - username: "ulubiony_optometrysta"
+    hashtags: "#kawa, #cupofcoffee, #menwithcoffee, #enjoylife"
+  - username: "sabrinalou28"
     fullname: >-
-      Iman Emil
+      𝙎𝙖𝙗𝙧𝙞𝙣𝙖 👑
     location: "Poland"
-    followers: 28403
-    engagement: 696
-    commentsToLikes: 0.034114
-    id: ck6u899nlq6uc0j71o5gfoolt
+    followers: 21570
+    engagement: 476
+    commentsToLikes: 0.072273
+    id: ck5zntvfcp59k0i14whtwwcm6
     verified: false
-    hashtags: "#carpatreesportswear, #unitedmen, #night, #water"
-  - username: "kerroraina"
+    hashtags: "#antalya, #motorsport, #stayathome, #thirstythursday"
+  - username: "ewalubert"
     fullname: >-
-      ✨ 𝔎𝔞𝔯𝔬𝔩𝔦𝔫𝔞 𝔅𝔢𝔯𝔢𝔱𝔱𝔞 ✨
+      FitMama Ewa Lubert
     location: "Poland"
-    followers: 33317
-    engagement: 275
-    commentsToLikes: 0.194499
-    id: ck0tzix5aqfk80i192bnmu52a
+    followers: 28024
+    engagement: 324
+    commentsToLikes: 0.138613
+    id: ck0u7uyjd5q190i19o1q7rnkm
     verified: false
-    hashtags: "#kerabione, #laminacjabrwi, #narzeczona, #kwiaty"
-  - username: "kineczka1"
-    fullname: >-
-      Kinga
-    location: "Poland"
-    followers: 26271
-    engagement: 516
-    commentsToLikes: 0.049676
-    id: ck15qei1j2g930i19jxy6zkm3
-    verified: false
-    hashtags: "#paznokcieinspiracje, #kozakizamszowe, #whitesmile, #ddobinsta"
+    hashtags: "#loveanimals, #fitnessmodel, #jamnik, #animalworld"
 ---

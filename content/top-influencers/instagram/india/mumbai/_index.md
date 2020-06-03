@@ -1,49 +1,79 @@
 ---
 title: Top 10 Instagram Influencers In Mumbai In 2020
 description: >-
-  Find top Instagram influencers in Mumbai in 2020. Most popular hashtags: #fashion #style #portrait #love.
+  Find top Instagram influencers in Mumbai in 2020. Most popular hashtags: #photography #love #iphone11 #india.
 platform: Instagram
 profiles:
+  - username: "kshitijkankaria"
+    fullname: >-
+      Kshitij Kankaria
+    location: "India"
+    followers: 16275
+    engagement: 337
+    commentsToLikes: 0.014564
+    id: ck5cbr2k3g0mn0i11ztonfq2k
+    verified: false
+    hashtags: "#outtake"
   - username: "dark_visionn"
     fullname: >-
       Rishikesh Shewale
     location: "India"
-    followers: 2517
-    engagement: 2914
-    commentsToLikes: 0.128418
+    followers: 2512
+    engagement: 2857
+    commentsToLikes: 0.127366
     id: ck5bxlv3inyws0i114pjjvnc8
     verified: false
-    hashtags: "#portraitsindia, #coffee, #lights, #sigma35mmart"
+    hashtags: "#portraitpage, #portraitsvision, #sigma35mm14, #portraitpic"
   - username: "stylodrun"
     fullname: >-
-      ▪ Paramꪜeer  rajρut 🍁
+      ▪ TOM❤
     location: "India"
-    followers: 14298
-    engagement: 1479
-    commentsToLikes: 0.077728
+    followers: 15223
+    engagement: 1121
+    commentsToLikes: 0.090821
     id: ck0vxsgqa0hoc0i19vk6u4rx6
     verified: false
-    hashtags: "#fambruhforever, #mrfaisu07dz, #gandhidham, #coolestbadboi"
-  - username: "khusha_02"
+    hashtags: "#starboy, #india, #poses, #photography"
+  - username: "theneha_joshi"
     fullname: >-
-      khusha_02
+      Neha Ila Joshi
     location: "India"
-    followers: 7797
-    engagement: 5140
-    commentsToLikes: 0.048410
-    id: ck8wfb945fgls0j78dcjf1o65
+    followers: 10645
+    engagement: 1498
+    commentsToLikes: 0.067961
+    id: ck5bxlxz7nz2x0i11d55ttj2b
     verified: false
-    hashtags: "#smiler, #teamgk02, #karameledit, #true"
-  - username: "sumit_mondal__"
+    hashtags: "#viacom, #lovemyoutfit, #poses, #traditionalmood"
+  - username: "kunholic"
     fullname: >-
-      Sumit Mondal
+      KunalRajpal🍎
     location: "India"
-    followers: 5939
-    engagement: 3098
-    commentsToLikes: 0.055912
-    id: ck5zkto2dk52v0i14b8oijsym
+    followers: 12798
+    engagement: 1207
+    commentsToLikes: 0.072555
+    id: ck9wg2bfqrl280j78r4ve85nv
     verified: false
-    hashtags: "#wonderwoman, #releasethesnydercut, #drwatson, #avengers"
+    hashtags: "#nagpur"
+  - username: "adnaan_07dz"
+    fullname: >-
+      Adnaan Shaikh🦁
+    location: "India"
+    followers: 5798538
+    engagement: 449
+    commentsToLikes: 0.025370
+    id: ck0u200ftye3j0i19s9v8joh6
+    verified: true
+    hashtags: "#goodlife, #chandmubarak, #dubai2020, #supercars"
+  - username: "raashiii__"
+    fullname: >-
+      R A A S H I 🌻
+    location: "India"
+    followers: 113633
+    engagement: 1439
+    commentsToLikes: 0.029967
+    id: ck13cw0172fup0i19tv3kz9ge
+    verified: false
+    hashtags: "#igexplore, #musicpage, #fashion, #tuesdaymood"
   - username: "mirzaali_official"
     fullname: >-
       Mirza Ali 👑
@@ -53,55 +83,25 @@ profiles:
     commentsToLikes: 0.073460
     id: ck0w5ajj72p9l0i1976q9zqhb
     verified: false
-    hashtags: "#mirzaali, #fashionblogger, #hmxcareers, #happynewyear2020"
+    hashtags: "#tiktokvideos, #love, #bestoftheday, #handm"
+  - username: "amaanshaikh115"
+    fullname: >-
+      Amaan Shaikh
+    location: "India"
+    followers: 11282
+    engagement: 2911
+    commentsToLikes: 0.043789
+    id: ck8wg2jk5gmt10j78wmq9brap
+    verified: false
+    hashtags: "#mugshot, #amaankingkhan, #sonusharma, #life"
   - username: "divyesh.vanzara"
     fullname: >-
       Divyesh Vanzara
     location: "India"
-    followers: 30404
-    engagement: 948
-    commentsToLikes: 0.034737
+    followers: 30505
+    engagement: 881
+    commentsToLikes: 0.035187
     id: ck0vvlmmcpntp0i1917zqfpq9
     verified: false
-    hashtags: "#mf, #bw, #gramkilla, #profotousa"
-  - username: "travelwithsearats"
-    fullname: >-
-      Travel & Adventure 🐭 Searats
-    location: "India"
-    followers: 43396
-    engagement: 785
-    commentsToLikes: 0.028060
-    id: ck0twjo2wfolw0i19shmpisfp
-    verified: false
-    hashtags: "#indiangirlstravel, #potrait, #aovpotraits, #neilisland"
-  - username: "shravyajamwal"
-    fullname: >-
-      Shravya Jamwal
-    location: "India"
-    followers: 21189
-    engagement: 918
-    commentsToLikes: 0.029699
-    id: ck5zm3rigluc10i14usxqoecl
-    verified: false
-    hashtags: "#fannybag, #beautyshot, #beautyinfluencer, #healthylifestyle"
-  - username: "tarini_shah"
-    fullname: >-
-      Tarini Shah
-    location: "India"
-    followers: 7393
-    engagement: 2633
-    commentsToLikes: 0.035195
-    id: ck14jr716lrmb0i197xvwsv9e
-    verified: false
-    hashtags: "#opareviews, #photooftheday, #youtuber, #influencerswanted"
-  - username: "zaveri_dhaval"
-    fullname: >-
-      Dhaval Zaveri
-    location: "India"
-    followers: 33958
-    engagement: 344
-    commentsToLikes: 0.081391
-    id: ck8tc5m6jyd1v0j787w66w34t
-    verified: false
-    hashtags: "#dhavalzaveri, #promises, #financialplanning, #dz"
+    hashtags: "#lowkeypotrait, #beautygirl, #monochromephoto, #butterflytattoo"
 ---

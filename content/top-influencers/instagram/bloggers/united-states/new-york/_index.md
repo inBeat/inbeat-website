@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In New York In 2020
 description: >-
-  Find top bloggers Instagram influencers in New York in 2020. Most popular hashtags: #fashion #ootd #coronavirus #newyork.
+  Find top bloggers Instagram influencers in New York in 2020. Most popular hashtags: #blogger #newyorkcity #covid19 #fashionblogger.
 platform: Instagram
 profiles:
-  - username: "dollyandoatmeal"
+  - username: "fashioncoveted"
     fullname: >-
-      Lindsey Silverman Love
+      FASHION COVETED ©
     location: "United States"
-    followers: 105646
-    engagement: 93
-    commentsToLikes: 0.028162
-    id: ck8swhp5se4l10j78o08eq5kf
+    followers: 575915
+    engagement: 75
+    commentsToLikes: 0.025185
+    id: ck14lbxlxtvzu0i19u0dzxs5a
     verified: false
-    hashtags: "#sponsored, #prepsaucesunday, #glutenfree, #cookwithwhatyougot"
-  - username: "naomisoms"
+    hashtags: "#women, #charming, #prayfornewyork, #therona"
+  - username: "johnnynailswag"
     fullname: >-
-      NAYONCÈ💋
+      Johnny “Swagger” Nguyen
     location: "United States"
-    followers: 46676
-    engagement: 216
-    commentsToLikes: 0.101056
-    id: ck5zmzk14nhx10i148ea0eqbb
+    followers: 12752
+    engagement: 271
+    commentsToLikes: 0.048534
+    id: ck8t5n4ppakqf0j7892qmgz9v
     verified: false
-    hashtags: "#jeans, #canttouchthis, #hairstyles, #sexy"
-  - username: "claudiasaezfromm"
+    hashtags: "#blogger, #newyorkcity, #makeupartist, #losangeles"
+  - username: "simplyshannah"
     fullname: >-
-      Claudia Saez-Fromm
+      Shannah
     location: "United States"
-    followers: 17424
-    engagement: 53
-    commentsToLikes: 0.082472
-    id: ck0w77882c40n0i19oexw1985
+    followers: 15466
+    engagement: 464
+    commentsToLikes: 0.085201
+    id: ck14l3r1jsp7a0i19ybtjz92l
     verified: false
-    hashtags: "#wellness, #corcorangroup, #interirordesign, #nycarchtectue"
-  - username: "louisecooney_"
-    fullname: >-
-      Louise Cooney
-    location: "United States"
-    followers: 197645
-    engagement: 448
-    commentsToLikes: 0.030050
-    id: ck6toqljifjpz0j71lkxjv89u
-    verified: true
-    hashtags: "#home, #ootn, #stayhome, #giveaway"
+    hashtags: "#flattenthecurve, #socialdistance, #saturdayvibes, #onehappyisland"
   - username: "veggiecurean"
     fullname: >-
       Veggiecurean (Shikha)
     location: "United States"
-    followers: 10661
-    engagement: 553
-    commentsToLikes: 0.025273
+    followers: 11744
+    engagement: 576
+    commentsToLikes: 0.058242
     id: ck8tdu4n04ry70j78nob71nrd
     verified: false
-    hashtags: ""
-  - username: "caitlin_eats_alot"
+    hashtags: "#covid19vegan, #vegan, #healthyeating, #dairyfree"
+  - username: "arbee_bee"
     fullname: >-
-      Caitlin Eats The East Coast
+      Arbee Bee
     location: "United States"
-    followers: 8169
-    engagement: 548
-    commentsToLikes: 0.257204
-    id: ck5cbl3vqfng60i11ese4n0ub
+    followers: 10668
+    engagement: 977
+    commentsToLikes: 0.124237
+    id: ckaox1xqpbept0i78us4j0x3v
     verified: false
-    hashtags: "#kopmall, #12pack, #foodphotograghy, #foodporn"
-  - username: "stilettofashions"
-    fullname: >-
-      Jessica Ghermezian Askari
-    location: "United States"
-    followers: 58764
-    engagement: 154
-    commentsToLikes: 0.022907
-    id: ck5hdulvypgc60i11x7sx1n4o
-    verified: false
-    hashtags: "#romper, #shein, #onpoint, #motivation"
+    hashtags: "#fallleaves, #nomadiclife, #travelquote, #theuprootedrose"
   - username: "the_huntswoman"
     fullname: >-
-      Brianne Huntsman 🏹
+      Brianne | Fashion & Finance
     location: "United States"
-    followers: 17328
-    engagement: 298
-    commentsToLikes: 0.097598
+    followers: 17272
+    engagement: 292
+    commentsToLikes: 0.088660
     id: ck6ugdn4i2eh60j711wfc8qfu
     verified: false
-    hashtags: "#uniquevintage, #lgbtartist, #fatshion, #witchesofig"
+    hashtags: "#remoteworker, #plussizestyle, #utahboudoir, #slcpride"
   - username: "urszulala"
     fullname: >-
       Urszula Makowska
     location: "United States"
-    followers: 221293
-    engagement: 115
-    commentsToLikes: 0.064350
+    followers: 238276
+    engagement: 151
+    commentsToLikes: 0.065857
     id: ck5hg52zc0ymg0i11htdz42kh
     verified: true
-    hashtags: "#fitnessinspo, #hairphilosophy, #traveldiary, #lovetotravel"
-  - username: "victoriakiell"
+    hashtags: "#miamibeach, #ftc, #girlswithtattoos, #dixitshop"
+  - username: "simplyaggie"
     fullname: >-
-      VK
+      aggie | nyc | lifestyle
     location: "United States"
-    followers: 3329
-    engagement: 1087
-    commentsToLikes: 0.135812
-    id: ck6tmson98ghp0j71lyycrt36
+    followers: 60676
+    engagement: 190
+    commentsToLikes: 0.041947
+    id: ck0ubtqi4ff070i1926wdj0so
     verified: false
-    hashtags: "#vacation, #postivevibes, #cutecafe, #styleblogger"
+    hashtags: "#wygrajrozdanie, #nagrody, #paznokciezelowe, #beforequarantine"
+  - username: "travisdharrison"
+    fullname: >-
+      TRAVIS H.
+    location: "United States"
+    followers: 34519
+    engagement: 479
+    commentsToLikes: 0.028514
+    id: ck5hopb7cpz6m0i11kzqi7nw6
+    verified: false
+    hashtags: "#lfmoments, #lucafaloni, #asos, #rebagofficial"
+  - username: "yuliyaivan"
+    fullname: >-
+      YULIYA IVAN
+    location: "United States"
+    followers: 66539
+    engagement: 671
+    commentsToLikes: 0.040659
+    id: ck0twcjf4evyt0i19euddlo16
+    verified: false
+    hashtags: "#home, #coronavirus, #bravogreatphoto, #streetstyle"
 ---

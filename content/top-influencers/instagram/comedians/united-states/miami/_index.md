@@ -1,107 +1,107 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Miami In 2020
 description: >-
-  Find top comedians Instagram influencers in Miami in 2020. Most popular hashtags: #comedy #coronavirus #miami #fitness.
+  Find top comedians Instagram influencers in Miami in 2020. Most popular hashtags: #miami #comedian #stayhome #funnyvideos.
 platform: Instagram
 profiles:
-  - username: "lapasqualotto"
+  - username: "i_ambleu"
     fullname: >-
-      Monica Pasqualotto
+      Bleu Reese LLJ✨
     location: "United States"
-    followers: 962151
-    engagement: 275
-    commentsToLikes: 0.035183
-    id: ck5q57v8srpx90i11drkzfbgu
-    verified: true
-    hashtags: "#sirenasystem, #asthma, #invitro, #eachforequal"
-  - username: "thefunnybombshell"
-    fullname: >-
-      Bombshell 💣✨
-    location: "United States"
-    followers: 51650
-    engagement: 523
-    commentsToLikes: 0.027217
-    id: ck5qa2qrbe9880i1165f3c81d
+    followers: 10419
+    engagement: 250
+    commentsToLikes: 0.100743
+    id: ck5ckx1qvxs840i11ovchczda
     verified: false
-    hashtags: "#ripkobeandgianna, #tagafriend, #iloveyou, #rippopsmoke"
+    hashtags: "#tiktoktrends, #eishafight, #fade, #dubsmashvideos"
   - username: "mario_ramil"
     fullname: >-
       MARIO RAMIL | Miami Comedian
     location: "United States"
-    followers: 31851
-    engagement: 534
-    commentsToLikes: 0.120974
+    followers: 33108
+    engagement: 486
+    commentsToLikes: 0.117015
     id: ck55lcwcl1afw0i11lx7x9g9q
     verified: false
-    hashtags: "#marioramimcomedy, #claims, #ramil, #business"
-  - username: "shirleydadiva_ffaceit"
+    hashtags: "#stayhome, #safe, #zoom, #1950s"
+  - username: "_fatandfunny"
     fullname: >-
-      Miami Makeup Artist 💄💋🎨
+      Miami Comedian Kitchen
     location: "United States"
-    followers: 32101
-    engagement: 284
-    commentsToLikes: 0.020671
-    id: ck55mz4lj551l0i11fslxhn0x
+    followers: 264822
+    engagement: 117
+    commentsToLikes: 0.059807
+    id: ck5cfndtmna6r0i11l45kfo2a
     verified: false
-    hashtags: "#celebritymua, #cartelcrew, #birthdaytheme, #premioslonuestro"
-  - username: "kevinmac"
+    hashtags: "#donk, #bigaaron, #accent, #pussyasshoe"
+  - username: "thefunnybombshell"
     fullname: >-
-      Kevin Mac
+      Bombshell 💣✨
     location: "United States"
-    followers: 110166
-    engagement: 198
-    commentsToLikes: 0.048420
-    id: ck5q0n0b86rny0i11buneeg2y
+    followers: 53187
+    engagement: 443
+    commentsToLikes: 0.033204
+    id: ck5qa2qrbe9880i1165f3c81d
     verified: false
-    hashtags: "#indian, #boss, #hiphop, #hoevid19"
-  - username: "jennifersterger"
-    fullname: >-
-      Jennifer Decker
-    location: "United States"
-    followers: 52148
-    engagement: 627
-    commentsToLikes: 0.022521
-    id: ck5q5jchvt5fd0i11r5e2lknt
-    verified: true
-    hashtags: "#floridaman, #notbarbazon, #pretendmodel, #prowrestling"
+    hashtags: "#alonetogether, #bombshell, #praisethelord, #comedyvideos"
   - username: "dr.raymiami"
     fullname: >-
       Dr. Ray Lopez
     location: "United States"
-    followers: 77699
-    engagement: 826
-    commentsToLikes: 0.019683
+    followers: 76734
+    engagement: 819
+    commentsToLikes: 0.023852
     id: ck602n3afi37x0i14j8081gbq
     verified: false
-    hashtags: "#tgif, #legend, #mondaymotivation, #execute"
-  - username: "jet_wavy"
+    hashtags: "#hauteliving, #workhardplayhard, #grind, #tgif"
+  - username: "omgno_c63"
     fullname: >-
-      JET Wavy 🐐
+      Omg No C63
     location: "United States"
-    followers: 350036
-    engagement: 177
-    commentsToLikes: 0.039471
-    id: ck5q5gh1tsryu0i11cicj4lhz
+    followers: 12024
+    engagement: 732
+    commentsToLikes: 0.030099
+    id: ck8t4odi37im60j78elzxmoal
     verified: false
-    hashtags: "#itunes, #atlanticstation, #baebae, #viralcontent"
-  - username: "chriskattanofficial"
+    hashtags: "#carsandcoffee, #w218, #twinturbo, #benz"
+  - username: "kingchocolatee"
     fullname: >-
-      Chris Kattan
+      Richard Munroe
     location: "United States"
-    followers: 75097
-    engagement: 253
-    commentsToLikes: 0.050250
-    id: ck0w0wpmhgelr0i19pwb472nm
+    followers: 30296
+    engagement: 133
+    commentsToLikes: 0.114464
+    id: ck5q2z19migao0i11heezjjaa
+    verified: false
+    hashtags: "#chrisbrown, #breezy, #massage, #massages"
+  - username: "shirleydadiva_ffaceit"
+    fullname: >-
+      Miami Makeup Artist 💄💋🎨
+    location: "United States"
+    followers: 30518
+    engagement: 288
+    commentsToLikes: 0.023175
+    id: ck55mz4lj551l0i11fslxhn0x
+    verified: false
+    hashtags: "#cartelcrew, #miamiartist, #superbowl2020, #nosharam"
+  - username: "lapasqualotto"
+    fullname: >-
+      Monica Pasqualotto
+    location: "United States"
+    followers: 993709
+    engagement: 286
+    commentsToLikes: 0.030073
+    id: ck5q57v8srpx90i11drkzfbgu
     verified: true
-    hashtags: "#washyourhands, #monkeybusiness, #levitylive, #peterscolari"
-  - username: "savvy_amusing"
+    hashtags: "#ivfsuccess, #revelaciondesexo, #sirena, #sirenavacuum"
+  - username: "papayua_y_pingua_kind_of_mom"
     fullname: >-
-      Sports & Pop Culture Parody
+      ❤️❤️❤️
     location: "United States"
-    followers: 307866
-    engagement: 165
-    commentsToLikes: 0.048152
-    id: ck0tvxvzjd9om0i19mdd4b8tf
+    followers: 4027
+    engagement: 552
+    commentsToLikes: 0.190447
+    id: ck14igqfcfbf50i19e37wrsel
     verified: false
-    hashtags: "#kanyewest, #mattbarnes, #berniemac, #milwaukeebucks"
+    hashtags: "#happymothersday, #portrait, #thursday, #thrust"
 ---

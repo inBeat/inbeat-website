@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Lisbon In 2020
 description: >-
-  Find top photographers Instagram influencers in Lisbon in 2020. Most popular hashtags: #igersportugal #portugal #lisboa #travel.
+  Find top photographers Instagram influencers in Lisbon in 2020. Most popular hashtags: #lisboa #home #quarentena #fashion.
 platform: Instagram
 profiles:
+  - username: "fotografaannabelova"
+    fullname: >-
+      Фотограф в Лиссабоне🚡
+    location: "Portugal"
+    followers: 2026
+    engagement: 1805
+    commentsToLikes: 0.104490
+    id: ck8t34oim1uk70j787usdzg2r
+    verified: false
+    hashtags: "#coronavirusbrasil, #nikonz, #lisboa, #djimavicpro"
   - username: "fernandogguerra"
     fullname: >-
       Fernando Guerra
     location: "Portugal"
-    followers: 189726
-    engagement: 140
-    commentsToLikes: 0.006291
+    followers: 199047
+    engagement: 108
+    commentsToLikes: 0.008552
     id: ck0tu20s15ac40i19jwlvacai
     verified: true
-    hashtags: "#fgdailydriven, #cardetail, #stayathome"
-  - username: "masimmo"
-    fullname: >-
-      Márcia Simões
-    location: "Portugal"
-    followers: 18171
-    engagement: 332
-    commentsToLikes: 0.036200
-    id: ck5zjwj0nie070i140pj0pjfj
-    verified: false
-    hashtags: "#staysafe, #stayhome, #selfportrait, #selfportraif"
-  - username: "fla5"
-    fullname: >-
-      Flavio | Photographer | Lisbon
-    location: "Portugal"
-    followers: 6760
-    engagement: 2310
-    commentsToLikes: 0.097866
-    id: ck15ugxfkn4ql0i197epccv4j
-    verified: false
-    hashtags: "#volgoitaly, #visitaltoadige, #altoadigedascoprire, #lisboalive"
-  - username: "andrenikita.photography"
-    fullname: >-
-      Portugal Wedding Photographer
-    location: "Portugal"
-    followers: 2026
-    engagement: 1849
-    commentsToLikes: 0.048145
-    id: ck8t34o2r1uhp0j78j9vfjmza
-    verified: false
-    hashtags: "#penicheportugal, #lisbonphotographer, #spainflamenco, #junebugwedding"
+    hashtags: "#staysharp, #stayhomeifyoucan, #home, #stayathome"
   - username: "miguelbmelo"
     fullname: >-
       Miguel Melo
     location: "Portugal"
-    followers: 6264
-    engagement: 949
-    commentsToLikes: 0.044310
+    followers: 6188
+    engagement: 881
+    commentsToLikes: 0.047549
     id: ck6tzj6b3a0dm0j7169txw0b7
     verified: false
-    hashtags: "#kodakektar100, #leica, #internationalwomensday, #stayathome"
+    hashtags: "#brasil, #ektar100, #leicasl, #streetphotography"
+  - username: "melissavieira.ph"
+    fullname: >-
+      Melissa Vieira
+    location: "Portugal"
+    followers: 5314
+    engagement: 670
+    commentsToLikes: 0.071036
+    id: ckaorhl9rn92x0i78afvz25ho
+    verified: false
+    hashtags: "#france, #corona, #fotojornalismo, #press"
+  - username: "masimmo"
+    fullname: >-
+      Márcia Simões
+    location: "Portugal"
+    followers: 18272
+    engagement: 298
+    commentsToLikes: 0.030872
+    id: ck5zjwj0nie070i140pj0pjfj
+    verified: false
+    hashtags: "#bnw, #tumblr, #aesthetic, #selfie"
+  - username: "carlosmuriongo"
+    fullname: >-
+      MuriongoFilms🎥👍
+    location: "Portugal"
+    followers: 38751
+    engagement: 477
+    commentsToLikes: 0.074587
+    id: ck5zpc6gtseg30i14ggbfqtra
+    verified: false
+    hashtags: "#vistiportugal, #gopro, #fashion, #mavicair"
   - username: "birdcageliving"
     fullname: >-
       Rui Gaiola // Birdcageliving
     location: "Portugal"
-    followers: 8895
-    engagement: 1282
-    commentsToLikes: 0.075910
+    followers: 9846
+    engagement: 1256
+    commentsToLikes: 0.077350
     id: ck0w69kmi7ikj0i19xfiym53t
     verified: false
-    hashtags: "#iwicdtrf, #roads, #lofoten, #nusfjord"
+    hashtags: "#flores, #corvo, #santacruz, #riocoa"
   - username: "nashdoeswork"
     fullname: >-
-      Queen Of Tones
+      Girl Blunt
     location: "Portugal"
-    followers: 9711
-    engagement: 764
-    commentsToLikes: 0.027404
+    followers: 9673
+    engagement: 776
+    commentsToLikes: 0.027218
     id: ck0twu6i7gr290i19s1xtroue
     verified: false
     hashtags: "#newboobs, #vhils, #nashdoeswork, #avantarte"
-  - username: "anneachim"
+  - username: "dvfots"
     fullname: >-
-      Ana Achim
+      David Velez Fotografia
     location: "Portugal"
-    followers: 11453
-    engagement: 901
-    commentsToLikes: 0.015464
-    id: ck5hqkdgyt8vx0i115jx1s3qy
+    followers: 18310
+    engagement: 425
+    commentsToLikes: 0.007485
+    id: ck0vzoy4ca6ew0i19iqm9bsjn
     verified: false
-    hashtags: "#bikinibottom, #girls, #retr, #streetsofportugal"
+    hashtags: "#models, #shower, #fitness, #artistic"
   - username: "andrechaica"
     fullname: >-
       André Chaíça
     location: "Portugal"
-    followers: 40149
-    engagement: 373
-    commentsToLikes: 0.124581
+    followers: 40025
+    engagement: 427
+    commentsToLikes: 0.107973
     id: ck0vz4vq97bht0i19ygdgfeoq
     verified: false
-    hashtags: "#igworldclub, #homedesign, #designmilk, #fourseasonsnewyork"
-  - username: "isa__m_"
-    fullname: >-
-      Isabel de Almeida
-    location: "Portugal"
-    followers: 4602
-    engagement: 2449
-    commentsToLikes: 0.047798
-    id: ck135b5lp0m8g0i19579egsxz
-    verified: false
-    hashtags: "#tlpicks, #citygrammers, #citykillerz, #artofvisuals"
+    hashtags: "#holanda, #liveinlevis, #smoothiebowl, #amsterdam"
 ---

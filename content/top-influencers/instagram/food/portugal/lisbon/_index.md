@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Lisbon In 2020
 description: >-
-  Find top food Instagram influencers in Lisbon in 2020. Most popular hashtags: #travel #lisbon #food #portugal.
+  Find top food Instagram influencers in Lisbon in 2020. Most popular hashtags: #food #quarantine #portugal #covid.
 platform: Instagram
 profiles:
-  - username: "jmigsimoes"
-    fullname: >-
-      João Miguel Simões
-    location: "Portugal"
-    followers: 88840
-    engagement: 203
-    commentsToLikes: 0.054430
-    id: ck5zzn4bvc1rj0i1453awqb62
-    verified: false
-    hashtags: "#euficoemcasa, #isolamento, #not, #iorestoacasa"
-  - username: "hungrymoey"
-    fullname: >-
-      Ｈｕｎｇｒｙ Ｍｏｅｙ🔆
-    location: "Portugal"
-    followers: 18133
-    engagement: 494
-    commentsToLikes: 0.058006
-    id: ck5cammu1dp6j0i11miv13rw6
-    verified: false
-    hashtags: "#nationaldestination, #tlpicks, #hungrymoeyrome, #instatravel"
-  - username: "papillespronzi"
-    fullname: >-
-      Luca Pronzato
-    location: "Portugal"
-    followers: 6313
-    engagement: 435
-    commentsToLikes: 0.069374
-    id: ck13b21n0tb0s0i19quidbu64
-    verified: false
-    hashtags: "#empiricalspirits, #buffet, #nomamexico, #netaontour"
-  - username: "catarina.fernandees"
-    fullname: >-
-      Catarina Fernandes
-    location: "Portugal"
-    followers: 67545
-    engagement: 498
-    commentsToLikes: 0.044364
-    id: ck1374d9y9pu80i19hpf69j8k
-    verified: false
-    hashtags: "#looks, #homesweethome, #charlie, #mood"
-  - username: "ricardofmlopes"
-    fullname: >-
-      Ricardo Lopes
-    location: "Portugal"
-    followers: 10114
-    engagement: 1421
-    commentsToLikes: 0.081787
-    id: ck8t9l12mohhi0j78sqhari9c
-    verified: false
-    hashtags: "#coimbra, #wanderlusters, #traveler, #traveladdict"
-  - username: "denise.de.assis"
-    fullname: >-
-      Denise de Assis
-    location: "Portugal"
-    followers: 35803
-    engagement: 103
-    commentsToLikes: 0.152620
-    id: ck55pejv6aecj0i11hofgff1q
-    verified: false
-    hashtags: "#whowhatwearing, #skyview, #blondehair, #euficoemcasa"
   - username: "andrechaica"
     fullname: >-
       André Chaíça
     location: "Portugal"
-    followers: 40149
-    engagement: 373
-    commentsToLikes: 0.124581
+    followers: 40025
+    engagement: 427
+    commentsToLikes: 0.107973
     id: ck0vz4vq97bht0i19ygdgfeoq
     verified: false
-    hashtags: "#igworldclub, #homedesign, #designmilk, #fourseasonsnewyork"
+    hashtags: "#holanda, #liveinlevis, #smoothiebowl, #amsterdam"
+  - username: "heyandiehey"
+    fullname: >-
+      Andreia Lopes Costa
+    location: "Portugal"
+    followers: 29281
+    engagement: 638
+    commentsToLikes: 0.051478
+    id: ck134whrxyj250i190hpg9hst
+    verified: false
+    hashtags: "#heyandieheyporto, #stayathome, #25deabril, #covid"
+  - username: "jmigsimoes"
+    fullname: >-
+      João Miguel Simões
+    location: "Portugal"
+    followers: 90433
+    engagement: 202
+    commentsToLikes: 0.102114
+    id: ck5zzn4bvc1rj0i1453awqb62
+    verified: false
+    hashtags: "#addressbookbyjms, #badhairday, #quarantine, #earthdayeveryday"
+  - username: "try_lisbon_with_alex"
+    fullname: >-
+      🎯 Tourism Expert
+    location: "Portugal"
+    followers: 29764
+    engagement: 238
+    commentsToLikes: 0.029946
+    id: ck5ceihihl2oh0i11il95m6ws
+    verified: false
+    hashtags: "#toplisbon, #repost, #lisbonworld, #lisboncity"
+  - username: "martinhagomez"
+    fullname: >-
+      Martinha Gomez
+    location: "Portugal"
+    followers: 26439
+    engagement: 498
+    commentsToLikes: 0.191096
+    id: ck0tybj33marc0i19b7w37ha9
+    verified: false
+    hashtags: "#balalaica, #outfitoftheday, #jeansmurah, #mimi"
+  - username: "catarina_bpinto"
+    fullname: >-
+      Catarina Pinto
+    location: "Portugal"
+    followers: 39391
+    engagement: 389
+    commentsToLikes: 0.370276
+    id: ck0u6xt2e37c80i19qb4765v1
+    verified: false
+    hashtags: "#sparkle, #sushilovers, #passatempo, #color"
+  - username: "tarlajb"
+    fullname: >-
+      Tarla Barbosa
+    location: "Portugal"
+    followers: 28237
+    engagement: 129
+    commentsToLikes: 0.029793
+    id: ck55j31a2w5710i11jw6lnuzb
+    verified: false
+    hashtags: "#nature, #hithelookface, #satindress, #roupasfemininas"
   - username: "mycasualbrunch"
     fullname: >-
       Luísa Fortes da Cunha
     location: "Portugal"
-    followers: 45808
-    engagement: 320
-    commentsToLikes: 0.061052
+    followers: 49415
+    engagement: 248
+    commentsToLikes: 0.128356
     id: ck0w426g6wfnx0i19eh5f65ko
     verified: false
-    hashtags: "#pinkladyapple, #veganportugal, #ficaremcasa, #vegetarian"
+    hashtags: "#criancassaudaveisfamiliasfelizes"
   - username: "dragtaste"
     fullname: >-
-      Drag Taste Lisbon
+      Drag Taste : Now ONLINE!
     location: "Portugal"
-    followers: 10872
-    engagement: 514
-    commentsToLikes: 0.052059
+    followers: 12146
+    engagement: 467
+    commentsToLikes: 0.050920
     id: ck5q5lbz7tf0p0i11etstg7vr
     verified: false
-    hashtags: "#josecastelobranco, #draglisbon, #liveshow, #dragqueensportugal"
-  - username: "gui.mps"
+    hashtags: "#qanda, #showcooking, #womendays, #sundayvibes"
+  - username: "maariyahscuisine"
     fullname: >-
-      ɢᴜɪ
+      Maariyah Noor
     location: "Portugal"
-    followers: 67676
-    engagement: 759
-    commentsToLikes: 0.002340
-    id: ck15tf0omhrbn0i19m1wy6oo7
+    followers: 11143
+    engagement: 597
+    commentsToLikes: 0.158368
+    id: ck9wgf2yet4ua0j78oqkriqu1
     verified: false
-    hashtags: "#joaofelix, #childhood, #levis, #maltapn"
+    hashtags: "#pizzarecipe, #milkpudding, #barfidessert, #iftarfood"
 ---

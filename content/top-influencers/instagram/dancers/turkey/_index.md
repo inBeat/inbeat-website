@@ -1,107 +1,107 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Turkey In 2020
 description: >-
-  Find top dancers Instagram influencers in Turkey in 2020. Most popular hashtags: #tbt #dance #dancer #istanbul.
+  Find top dancers Instagram influencers in Turkey in 2020. Most popular hashtags: #nature #instagood #white #.
 platform: Instagram
 profiles:
-  - username: "turuncuprenses"
+  - username: "duygusirkintii"
     fullname: >-
-      Melis Şeremet🧡
+      Duygu Sırkıntı
     location: "Turkey"
-    followers: 52703
-    engagement: 165
-    commentsToLikes: 0.055957
-    id: ck5hp6usoqupl0i11sksibbi1
+    followers: 8166
+    engagement: 1525
+    commentsToLikes: 0.022026
+    id: ckap6ntsdgomq0i78eai70fnp
     verified: false
-    hashtags: "#styling, #naturephotography, #mother, #kidafashion"
+    hashtags: ""
+  - username: "nikkiyadav009_official"
+    fullname: >-
+      👑Nikki Yadav👑
+    location: "Turkey"
+    followers: 20445
+    engagement: 641
+    commentsToLikes: 0.038285
+    id: ck8wevoz3eoee0j78du3s28mw
+    verified: false
+    hashtags: ""
+  - username: "amberverberck"
+    fullname: >-
+      amber🧸
+    location: "Turkey"
+    followers: 4553
+    engagement: 2292
+    commentsToLikes: 0.102023
+    id: ck0tyubc3o35b0i19g48zw380
+    verified: false
+    hashtags: "#pink, #danceismylife, #partyoutfit, #balletfeet"
   - username: "nazliakcayy"
     fullname: >-
       Nazlı Akçay / NAX
     location: "Turkey"
-    followers: 12050
-    engagement: 577
-    commentsToLikes: 0.031215
+    followers: 12347
+    engagement: 743
+    commentsToLikes: 0.036658
     id: ck1394ytsjjux0i192ybsw5k5
     verified: false
-    hashtags: "#dans, #whoareyou, #seninruhun, #beyondculture"
-  - username: "aysubegumbas"
+    hashtags: "#seninyolun, #eachoreography, #nazliakcaychoreography, #letsmove"
+  - username: "caglaralmendi"
     fullname: >-
-      Aysu Begüm Baş
+      Çağlar Almendi
     location: "Turkey"
-    followers: 13971
-    engagement: 847
-    commentsToLikes: 0.007456
-    id: ck0vws0bfvbce0i194frflckf
+    followers: 25712
+    engagement: 1977
+    commentsToLikes: 0.022568
+    id: ck5q04nm648690i113ilap7ik
     verified: false
-    hashtags: "#tb, #throwback, #aestetic, #reebok"
+    hashtags: ""
+  - username: "fatmagunduzofficial"
+    fullname: >-
+      Fatma Gündüz
+    location: "Turkey"
+    followers: 20848
+    engagement: 569
+    commentsToLikes: 0.050783
+    id: ckaos6b6sqac50i78x40dhak2
+    verified: false
+    hashtags: "#instagood, #quarantinelife, #staymotivated, #happy"
+  - username: "turuncuprenses"
+    fullname: >-
+      Melis Şeremet🧡
+    location: "Turkey"
+    followers: 51987
+    engagement: 202
+    commentsToLikes: 0.179877
+    id: ck5hp6usoqupl0i11sksibbi1
+    verified: false
+    hashtags: "#garden, #beach, #sportswear, #likeforlikes"
+  - username: "belizhnmgl0_"
+    fullname: >-
+      • ßeliz Su Yurieva 🇧🇬•♡
+    location: "Turkey"
+    followers: 4409
+    engagement: 1465
+    commentsToLikes: 0.086700
+    id: ck6u9i276xoqp0j71im3mdarc
+    verified: false
+    hashtags: "#2day, #boys, #couple, #addicted"
   - username: "sam_bajelan"
     fullname: >-
       Sami_Percussionist🥁🎶
     location: "Turkey"
-    followers: 5354
-    engagement: 1143
-    commentsToLikes: 0.118346
+    followers: 5620
+    engagement: 1136
+    commentsToLikes: 0.121220
     id: ck13cus1l29nb0i19h8m0vj9p
     verified: false
-    hashtags: "#competition, #istanbul, #oldsong, #drummer"
-  - username: "nurayalpaslanofficial"
+    hashtags: "#mahmutorhan, #rezasadeghi, #keremkirca, #darbuka"
+  - username: "can_ttnc"
     fullname: >-
-      ✌️NURAY ALPASLAN OFFICIAL
+      Umutcan Tütüncü 🔵
     location: "Turkey"
-    followers: 8695
-    engagement: 455
-    commentsToLikes: 0.024948
-    id: ck5c9wdiwc93g0i11zxjqcn7r
+    followers: 30749
+    engagement: 943
+    commentsToLikes: 0.050630
+    id: ck55omel08nkj0i11zk3rbcrd
     verified: false
-    hashtags: "#staytunedformore, #girls, #ultra, #pati"
-  - username: "nanuka_stambolishvili"
-    fullname: >-
-      👸🇬🇪
-    location: "Turkey"
-    followers: 9929
-    engagement: 538
-    commentsToLikes: 0.420898
-    id: ck13c8f46z3h50i19akngaw1l
-    verified: false
-    hashtags: "#makeup, #dress, #style, #dad"
-  - username: "selenozturk2day"
-    fullname: >-
-      Selen & Emre Öztürk 🏠👫
-    location: "Turkey"
-    followers: 13567
-    engagement: 1429
-    commentsToLikes: 0.031346
-    id: ck55lzh302u6l0i11gwtivdyp
-    verified: false
-    hashtags: "#tiktokdance, #tiktok, #kinjaz, #daily"
-  - username: "momo.site"
-    fullname: >-
-      TWICE MOMO 모모
-    location: "Turkey"
-    followers: 7251
-    engagement: 2199
-    commentsToLikes: 0.006734
-    id: ck8t3f9af31f80j787gr4geap
-    verified: false
-    hashtags: "#twice, #momo"
-  - username: "reyhanyildizzz"
-    fullname: >-
-      Reyhan Yıldız
-    location: "Turkey"
-    followers: 12105
-    engagement: 624
-    commentsToLikes: 0.040290
-    id: ck5zw23zs5bzw0i14omjonfwn
-    verified: false
-    hashtags: "#nefesalnefesver, #2daydance, #workshop, #umudunuyitirmerey"
-  - username: "aydanuysal"
-    fullname: >-
-      Aydan Uysal
-    location: "Turkey"
-    followers: 13093
-    engagement: 810
-    commentsToLikes: 0.046426
-    id: ck5catl9ke3sx0i11bdwh9b39
-    verified: false
-    hashtags: "#gezgin, #brooklyn, #theredqueen, #redbullbcone"
+    hashtags: "#dance, #istanbul, #boywithluv, #newmap"
 ---

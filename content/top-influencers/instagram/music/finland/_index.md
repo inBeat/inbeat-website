@@ -1,107 +1,107 @@
 ---
 title: Top 10 Music Instagram Influencers In Finland In 2020
 description: >-
-  Find top music Instagram influencers in Finland in 2020. Most popular hashtags: #asenteellatehty #repost #apocalyptica #koronakonsertit.
+  Find top music Instagram influencers in Finland in 2020. Most popular hashtags: #quarantine #coffeelover #kaupallinenyhteisty #koronavirus.
 platform: Instagram
 profiles:
   - username: "kaisaottelin"
     fullname: >-
       KAISA OTTELIN
     location: "Finland"
-    followers: 7714
-    engagement: 2178
-    commentsToLikes: 0.025982
+    followers: 7541
+    engagement: 2242
+    commentsToLikes: 0.027789
     id: ck14iz9cnhv3d0i19c50ku0as
     verified: false
-    hashtags: "#clown, #ideas, #igtv, #vlogi"
-  - username: "robinpackalen"
+    hashtags: "#vlogi, #igtv, #igtvblog, #giveaway"
+  - username: "mindbodyhealth_mia"
     fullname: >-
-      ROBIN PACKALEN
+      Mia
     location: "Finland"
-    followers: 380997
-    engagement: 339
-    commentsToLikes: 0.010490
-    id: ck0w1705jhv0u0i19yporwwa6
-    verified: true
-    hashtags: "#nohurrynoworry, #wewantmore, #monday, #emmagaala"
-  - username: "viewofficial"
-    fullname: >-
-      View / Juuso Ruohonen
-    location: "Finland"
-    followers: 10309
-    engagement: 528
-    commentsToLikes: 0.038066
-    id: ck5cbkih6fm420i115w4faxog
+    followers: 2398
+    engagement: 1857
+    commentsToLikes: 0.087057
+    id: ckaos1gg8pq6x0i78e3kteybb
     verified: false
-    hashtags: ""
+    hashtags: "#inkedgirls, #shoulderworkout, #unikko, #workingwoman"
   - username: "eiccatoppinen"
     fullname: >-
       Eicca Toppinen
     location: "Finland"
-    followers: 36726
-    engagement: 644
-    commentsToLikes: 0.017229
+    followers: 37841
+    engagement: 768
+    commentsToLikes: 0.016259
     id: ck0u2gz63zz8m0i19xpxxtjta
     verified: false
-    hashtags: "#corona, #husqvarna, #thegreattour, #apocalyptica"
-  - username: "siniyasemin"
+    hashtags: "#hagl, #sabaton, #springinhell, #headbanging"
+  - username: "ellinooramusiikki"
     fullname: >-
-      siniyasemin
+      Ellinoora
     location: "Finland"
-    followers: 15049
-    engagement: 490
-    commentsToLikes: 0.020350
-    id: ck6tzmurtan0g0j71msygj4ee
+    followers: 57667
+    engagement: 585
+    commentsToLikes: 0.021211
+    id: ck0w59k762kl80i19h32bbyve
     verified: true
-    hashtags: ""
-  - username: "kwamiewellbad"
+    hashtags: "#yleolohuone, #kaupallinenyhteisty, #ruutulive, #vaaleanpunainenvallankumous"
+  - username: "roopenieminen"
     fullname: >-
-      WILDCROCODILE🐊
+      Roope Nieminen | Muusikko
     location: "Finland"
-    followers: 4845
-    engagement: 1035
-    commentsToLikes: 0.040558
-    id: ck15q6set1dsk0i19le60bqiy
+    followers: 3540
+    engagement: 1842
+    commentsToLikes: 0.074990
+    id: ck6uenlmss02v0j71gfptdac2
     verified: false
-    hashtags: "#wellbad, #unruly, #tint, #greatness"
-  - username: "viena_k"
+    hashtags: "#hommissa, #drumcam, #arianagrande, #koronavirus"
+  - username: "vesalaofficial"
     fullname: >-
-      Viena
+      Vesala
     location: "Finland"
-    followers: 15681
-    engagement: 518
-    commentsToLikes: 0.018449
-    id: ck0ubx861fgqe0i19bnmw8q2g
+    followers: 138487
+    engagement: 448
+    commentsToLikes: 0.018404
+    id: ck13ck1850qfa0i19y0ynpnol
+    verified: true
+    hashtags: "#whatonearth, #iltapuku, #iltaa, #gaalailta"
+  - username: "viewofficial"
+    fullname: >-
+      View / Juuso Ruohonen
+    location: "Finland"
+    followers: 10335
+    engagement: 528
+    commentsToLikes: 0.031536
+    id: ck5cbkih6fm420i115w4faxog
     verified: false
-    hashtags: "#paulig, #tietystipauligin, #mielenrauhaa, #virtualbirthdayparty"
-  - username: "graciasgracias"
-    fullname: >-
-      Gracias / GRACIASI LP 1.5.2020
-    location: "Finland"
-    followers: 9746
-    engagement: 743
-    commentsToLikes: 0.018792
-    id: ck5zlz2relmeg0i148doj2qjq
-    verified: true
-    hashtags: "#cmoresuomi, #robatv, #graciasilp"
-  - username: "paavoab"
-    fullname: >-
-      Paavo Siljamäki 🌍
-    location: "Finland"
-    followers: 27976
-    engagement: 727
-    commentsToLikes: 0.027497
-    id: ck5pw5oizl8510i11otwf6d92
-    verified: true
-    hashtags: "#grouptherapy, #ultrasa, #martingarrix, #rukes"
+    hashtags: "#munloop, #rescuedog, #rescueyhdistyskulkurit"
   - username: "youngheartedmusic"
     fullname: >-
       YOUNGHEARTED
     location: "Finland"
-    followers: 7366
-    engagement: 1300
-    commentsToLikes: 0.046946
+    followers: 7498
+    engagement: 1295
+    commentsToLikes: 0.078822
     id: ck6tpwd9inoqg0j710d3dz114
     verified: true
-    hashtags: "#kolmaspy, #vapaa, #uudenedess"
+    hashtags: "#kolmaspy, #vapaa, #uudenedess, #elisalive"
+  - username: "rumpumbo023"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Ivan Rumpumbo
+    location: "Finland"
+    followers: 17573
+    engagement: 118
+    commentsToLikes: 0.029873
+    id: ck6u4jlwr43gg0j7171adn2pl
+    verified: false
+    hashtags: "#kewgardens, #cocktails, #caferegatta, #latepost"
+  - username: "kwamiewellbad"
+    fullname: >-
+      WILDCROCODILE🐊
+    location: "Finland"
+    followers: 4668
+    engagement: 1081
+    commentsToLikes: 0.040338
+    id: ck15q6set1dsk0i19le60bqiy
+    verified: false
+    hashtags: "#outnow, #wellbad, #unruly, #tint"
 ---

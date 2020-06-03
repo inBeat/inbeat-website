@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Berlin In 2020
 description: >-
-  Find top athletes Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #nike #fitness #athlete.
+  Find top athletes Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #athlete #sunday #weekend.
 platform: Instagram
 profiles:
   - username: "jjendryk21"
     fullname: >-
       Jeff Jendryk
     location: "Germany"
-    followers: 16934
-    engagement: 2017
-    commentsToLikes: 0.007762
+    followers: 17006
+    engagement: 1894
+    commentsToLikes: 0.007681
     id: ck5cku2e9xlsg0i11eauxltck
     verified: true
-    hashtags: "#100p, #choices, #slabs, #2ndplace"
+    hashtags: "#middlescanpass, #dripdrip, #100p, #weback"
+  - username: "bodybyadem"
+    fullname: >-
+      𝗔𝘁𝗵𝗹𝗲𝘁
+    location: "Germany"
+    followers: 4438
+    engagement: 1988
+    commentsToLikes: 0.047724
+    id: ck6tn0itt8w360j71nxfkdwl7
+    verified: false
+    hashtags: "#fullplanche, #diesel, #pringeles, #london"
+  - username: "sporthilfe"
+    fullname: >-
+      Deutsche Sporthilfe
+    location: "Germany"
+    followers: 25306
+    engagement: 245
+    commentsToLikes: 0.005121
+    id: ck0u0krcgu54c0i19zxa2vs8u
+    verified: true
+    hashtags: "#facts, #kumite, #worldcup, #racism"
+  - username: "sahra_ko"
+    fullname: >-
+      S A H R A - A N N A
+    location: "Germany"
+    followers: 10479
+    engagement: 750
+    commentsToLikes: 0.084696
+    id: ck8szysoyq8oh0j78gv9w7z5y
+    verified: false
+    hashtags: "#anahata, #yoga, #heartopener, #clifton"
+  - username: "sophie_wachter"
+    fullname: >-
+      Sophie Wachter
+    location: "Germany"
+    followers: 7923
+    engagement: 1009
+    commentsToLikes: 0.037781
+    id: ck0w4s62k059u0i19njtunxh2
+    verified: false
+    hashtags: "#sweetthirtyone, #enjoy, #vacation, #family"
   - username: "martinhermanns"
     fullname: >-
       Martin Hermannsson
     location: "Germany"
-    followers: 4927
-    engagement: 1927
-    commentsToLikes: 0.019136
+    followers: 5968
+    engagement: 1880
+    commentsToLikes: 0.026022
     id: ck8syafzck9v40j78o0ri2ke8
     verified: true
     hashtags: ""
-  - username: "airinepalsyte"
+  - username: "wrightnow74kg"
     fullname: >-
-      Airinė Palšytė OLY
+      Joshua (W)right
     location: "Germany"
-    followers: 21545
-    engagement: 536
-    commentsToLikes: 0.012184
-    id: ck5c7sid883yc0i1192rvvtwn
-    verified: true
-    hashtags: "#highjumper, #berlin2018, #havingfun, #athletes"
-  - username: "lisakwayie"
-    fullname: >-
-      Lisa Kwayie🕊
-    location: "Germany"
-    followers: 8994
-    engagement: 1304
-    commentsToLikes: 0.018197
-    id: ck0u94i3e8ysw0i19uqfz4v8o
+    followers: 2198
+    engagement: 1174
+    commentsToLikes: 0.096158
+    id: ckaowlks79gk90i78iirppm90
     verified: false
-    hashtags: "#ultraboost20, #030, #win, #staypositive"
-  - username: "rickhett"
+    hashtags: "#record, #nopeak, #quarintine, #romaniandeadlift"
+  - username: "fotorunners.es"
     fullname: >-
-      Ricco Ratajczyk
+      Fotorunners
     location: "Germany"
-    followers: 2164
-    engagement: 1791
-    commentsToLikes: 0.043995
-    id: ck8t70zdrfa830j782tev5jib
+    followers: 34361
+    engagement: 216
+    commentsToLikes: 0.027524
+    id: ck14h0giq7xbf0i19fmd5m70o
     verified: false
-    hashtags: "#healthandfitness, #stayathome, #lightweightbaby, #photography"
-  - username: "besart_m"
+    hashtags: "#marathon, #mequedoencasa, #arrasate, #greece"
+  - username: "pohl.michael1989"
     fullname: >-
-      Besart Miftaraj
+      Michael Pohl
     location: "Germany"
-    followers: 3115
-    engagement: 1599
-    commentsToLikes: 0.037357
-    id: ck5hq1b19sbqg0i1153grpobt
+    followers: 6968
+    engagement: 864
+    commentsToLikes: 0.021293
+    id: ck14hvcv5cb7v0i194xfvw15p
     verified: false
-    hashtags: "#body, #neosupps, #competition, #gnbf"
-  - username: "king_karl_schulze"
+    hashtags: "#sonnenschein, #emptycity, #psdbank, #100m"
+  - username: "storyofvanessa"
     fullname: >-
-      Karl Schulze
+      Bodylove | Fitness | Inspo
     location: "Germany"
-    followers: 22006
-    engagement: 697
-    commentsToLikes: 0.004431
-    id: ck6u0zljviojc0j71e2p7z5ip
+    followers: 40120
+    engagement: 388
+    commentsToLikes: 0.092858
+    id: ckaoybsqngug10i78t8xshcmi
     verified: false
-    hashtags: "#depressionhelp, #sporthilft, #olympia, #madebythesea"
-  - username: "marathon.princess"
-    fullname: >-
-      Marina Angela
-    location: "Germany"
-    followers: 20071
-    engagement: 585
-    commentsToLikes: 0.031752
-    id: ck5qa1cr1e1ld0i11b6shffoa
-    verified: false
-    hashtags: "#react, #jordan, #greenelixir, #superdry"
-  - username: "linus_duro"
-    fullname: >-
-      Tom Heiden | 📍Hamburg | 🇩🇪
-    location: "Germany"
-    followers: 231982
-    engagement: 220
-    commentsToLikes: 0.039905
-    id: ck8t64u7nc7ij0j788gxdhb8f
-    verified: false
-    hashtags: "#ootd, #selfie, #mensfashion, #outfit"
-  - username: "nadine__gina"
-    fullname: >-
-      Nadine-Personaltrainer-Berlin
-    location: "Germany"
-    followers: 26565
-    engagement: 218
-    commentsToLikes: 0.145670
-    id: ck6tidssy0ize0j7102qxhbmi
-    verified: false
-    hashtags: "#teatime, #beweglichkeit, #workout, #passionsport"
+    hashtags: "#0711, #fitnesstipps, #firgirls, #eibseelake"
 ---

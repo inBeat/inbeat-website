@@ -1,107 +1,107 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Colombia In 2020
 description: >-
-  Find top chefs Instagram influencers in Colombia in 2020. Most popular hashtags: #chef #fitness #colombia #tbt.
+  Find top chefs Instagram influencers in Colombia in 2020. Most popular hashtags: #medellin #colombia #encasa #cocina.
 platform: Instagram
 profiles:
   - username: "danielvz2"
     fullname: >-
       Daniel Velásquez Zuluaga
     location: "Colombia"
-    followers: 50863
-    engagement: 508
-    commentsToLikes: 0.013449
+    followers: 50253
+    engagement: 484
+    commentsToLikes: 0.013927
     id: ck5ch3ljiq1nv0i119lihg9bx
     verified: false
-    hashtags: "#wolf, #wakeup, #papa, #favorita"
-  - username: "davidorozcococina"
+    hashtags: "#chocoup, #entrenocasero, #naturaleza, #animals"
+  - username: "juanpatetrae"
     fullname: >-
-      Chef David Orozco
+      Juanpatetrae 🔪
     location: "Colombia"
-    followers: 25025
-    engagement: 272
-    commentsToLikes: 0.076130
-    id: ck0w4u4y50fn10i19rukdzylu
+    followers: 6226
+    engagement: 988
+    commentsToLikes: 0.045434
+    id: ck9wd786vedof0j78c7w5bgia
     verified: false
-    hashtags: "#srarice, #domicilioencuarentena, #arrosconcoco, #tapeo"
-  - username: "juandiegovanegasl"
-    fullname: >-
-      Juan Diego Vanegas
-    location: "Colombia"
-    followers: 202454
-    engagement: 484
-    commentsToLikes: 0.020896
-    id: ck0u2gs68zyem0i1902jvd95s
-    verified: true
-    hashtags: "#macncheese, #soulkitchen, #meatballs, #tbt"
+    hashtags: "#room, #chilitaco, #mexitaco, #sunday"
   - username: "marrana.eats"
     fullname: >-
       MARRANA Eats
     location: "Colombia"
-    followers: 19801
-    engagement: 263
-    commentsToLikes: 0.190008
+    followers: 21232
+    engagement: 490
+    commentsToLikes: 0.539433
     id: ck5ch6qvwq7de0i11f0c2mnfo
     verified: false
-    hashtags: "#mexican, #newyork, #nyeats, #hamburger"
-  - username: "michellebessudo"
+    hashtags: "#frenchtoast, #foodaholic, #marrana, #alitas"
+  - username: "davidorozcococina"
     fullname: >-
-      Michelle Bessudo
+      Chef David Orozco
     location: "Colombia"
-    followers: 12569
-    engagement: 360
-    commentsToLikes: 0.068084
-    id: ck14l37clsmay0i19psasn317
+    followers: 35437
+    engagement: 261
+    commentsToLikes: 0.064077
+    id: ck0w4u4y50fn10i19rukdzylu
     verified: false
-    hashtags: "#makesmewhole, #rezepte, #blueberrypancakes, #cookfromscratch"
+    hashtags: "#cordero, #pasteldeyuca, #markey, #corn"
+  - username: "juandiegovanegasl"
+    fullname: >-
+      Juan Diego Vanegas
+    location: "Colombia"
+    followers: 205766
+    engagement: 338
+    commentsToLikes: 0.022038
+    id: ck0u2gs68zyem0i1902jvd95s
+    verified: true
+    hashtags: "#ad, #irresitiblementedelicioso, #lamesadejuan, #tbt"
   - username: "leococinero"
     fullname: >-
       Leonardo Moran
     location: "Colombia"
-    followers: 199743
-    engagement: 123
-    commentsToLikes: 0.030272
+    followers: 203542
+    engagement: 117
+    commentsToLikes: 0.039282
     id: ck136xdv48qa10i19fm2liv12
     verified: true
-    hashtags: "#libros, #cocinafacil, #cook, #despertarespiritual"
-  - username: "katiadaguetalonso"
+    hashtags: "#cocinabuenaonda, #delish, #yummy, #encasa"
+  - username: "chriscarpentier"
     fullname: >-
-      Katia Daguet Alonso
+      chriscarpentier
     location: "Colombia"
-    followers: 10714
-    engagement: 1489
-    commentsToLikes: 0.006280
-    id: ck6tskhnq59up0j71zwx5nte9
-    verified: false
-    hashtags: "#cuisine, #rosas, #vacances, #chateauhospitalet"
-  - username: "juanpablosamper"
+    followers: 528467
+    engagement: 100
+    commentsToLikes: 0.033459
+    id: ck6twqzegtlgh0j71zg7g46vj
+    verified: true
+    hashtags: "#medellin, #facu, #cocina, #colombia"
+  - username: "elranty"
     fullname: >-
-      Juan Pablo
+      Rantés Verdugo
     location: "Colombia"
-    followers: 13153
-    engagement: 585
-    commentsToLikes: 0.058097
-    id: ck13cgs3y09k70i19q1iddf8m
+    followers: 826586
+    engagement: 960
+    commentsToLikes: 0.011908
+    id: ck5c7vn1289tn0i11v8fo9jl0
     verified: false
-    hashtags: "#cooking, #skin, #carnival, #nopongasnadaenclosefriends"
-  - username: "saramontoyam"
+    hashtags: "#notomestantotequieromucho, #leo, #cancer, #virgo"
+  - username: "michellebessudo"
     fullname: >-
-      Sara Montoya
+      Michelle Bessudo
     location: "Colombia"
-    followers: 60369
-    engagement: 177
-    commentsToLikes: 0.114609
-    id: ck5qckk8br1650i118bulbd5p
+    followers: 12624
+    engagement: 313
+    commentsToLikes: 0.065638
+    id: ck14l37clsmay0i19psasn317
     verified: false
-    hashtags: "#traveler, #atracciones, #manitobaconsciente, #prayfortheworld"
-  - username: "julioc_herrera_"
+    hashtags: "#christmasfood, #pancakesday, #kuchenbacken, #foodblogeats"
+  - username: "moirasigal"
     fullname: >-
-      Julio Cesar Herrera
+      Moira Sigal
     location: "Colombia"
-    followers: 184775
-    engagement: 339
-    commentsToLikes: 0.035128
-    id: ck0uefiiwl8040i196ztkgeym
+    followers: 63885
+    engagement: 112
+    commentsToLikes: 0.087602
+    id: ck5cjj9cduu4g0i11qo8w8ccn
     verified: false
-    hashtags: "#play, #actorcooking, #encrespadodepesta, #juntossomosm"
+    hashtags: "#cafecito, #cakepops, #regaloconamor, #panes"
 ---

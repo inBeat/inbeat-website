@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top mothers Instagram influencers in Tokyo in 2020. Most popular hashtags: #tokyo #family #pr #love.
+  Find top mothers Instagram influencers in Tokyo in 2020. Most popular hashtags: #stayhome #mother #totheseahawaii #iphone.
 platform: Instagram
 profiles:
-  - username: "samanthabarks"
+  - username: "1219asuka"
     fullname: >-
-      𝓢𝓪𝓶𝓪𝓷𝓽𝓱𝓪 𝓑𝓪𝓻𝓴𝓼
+      𝐀𝐬𝐮𝐤𝐚 𝐒𝐞𝐫𝐢𝐳𝐚𝐰𝐚／芹澤明日香
     location: "Japan"
-    followers: 120474
-    engagement: 641
-    commentsToLikes: 0.008207
-    id: ck55nklpy6edr0i116m9deqz1
-    verified: true
-    hashtags: "#dancelikenooneiswatching, #tokyo, #fusalp, #vegan"
-  - username: "shizunan"
-    fullname: >-
-      shizuna
-    location: "Japan"
-    followers: 51129
-    engagement: 128
-    commentsToLikes: 0.017275
-    id: ck5qc5lf7oysb0i111ntb80zi
+    followers: 51212
+    engagement: 310
+    commentsToLikes: 0.042200
+    id: ck8tb4jiau8ob0j78s8fys0lq
     verified: false
-    hashtags: "#gpsbot, #formesummer, #verystore, #kuruntokyo"
+    hashtags: "#madeinjapan, #sneakers, #samu, #1piu1uguale3"
+  - username: "reikamarianna"
+    fullname: >-
+      𝑅𝑒𝒾𝓀𝒶 🐥
+    location: "Japan"
+    followers: 96977
+    engagement: 437
+    commentsToLikes: 0.016841
+    id: ck5hia7xicg660i11dw587pue
+    verified: false
+    hashtags: "#orboot, #7cm, #mamagirl, #anelatokyo"
+  - username: "c.m.mika"
+    fullname: >-
+      MIKA
+    location: "Japan"
+    followers: 62009
+    engagement: 132
+    commentsToLikes: 0.023637
+    id: ck9wdeus2fc3b0j78zh30cs0q
+    verified: false
+    hashtags: "#mika2nail, #sweets, #lovemother, #pistachiocake"
+  - username: "yuri_s_official"
+    fullname: >-
+      桜井有里
+    location: "Japan"
+    followers: 112815
+    engagement: 176
+    commentsToLikes: 0.007742
+    id: ck15sqwueedkh0i19fdlly1os
+    verified: false
+    hashtags: "#media, #saba, #happybirthday, #1985"
   - username: "linaohashi"
     fullname: >-
       大橋リナ
     location: "Japan"
-    followers: 111287
-    engagement: 198
-    commentsToLikes: 0.001580
+    followers: 111747
+    engagement: 214
+    commentsToLikes: 0.001357
     id: ck6tr5re7x3d20j71uvn4oky8
     verified: false
-    hashtags: "#shiseidoginzatokyo, #saneibd, #beach, #naturalbeautybasic"
-  - username: "8miiiko9"
+    hashtags: "#shiseidoginzatokyo, #sakura, #pr, #aryurvist"
+  - username: "tsubasa_h0215"
     fullname: >-
-      8miiisa9
+      つーちゃん🌵🌞
     location: "Japan"
-    followers: 53184
-    engagement: 207
-    commentsToLikes: 0.002210
-    id: ck0tw7z42eaxy0i19hpql2to2
+    followers: 40110
+    engagement: 119
+    commentsToLikes: 0.009810
+    id: ck8sy2k4yjicz0j78c9zq12h8
     verified: false
-    hashtags: "#gustyle, #160cm, #editsheen, #titivate"
+    hashtags: "#setup, #goodmorning, #newhair, #bbq"
+  - username: "xxkana513xx"
+    fullname: >-
+      ✷kana✷
+    location: "Japan"
+    followers: 56176
+    engagement: 213
+    commentsToLikes: 0.012627
+    id: ck5ckyuejxw1k0i11yw4swa4n
+    verified: false
+    hashtags: "#iphone, #totheseahawaii, #seagreen, #jewelry"
+  - username: "nicolaibergmann"
+    fullname: >-
+      Nicolai Bergmann
+    location: "Japan"
+    followers: 93055
+    engagement: 506
+    commentsToLikes: 0.008145
+    id: ck55k0l4gy6p00i11teoyin6p
+    verified: false
+    hashtags: "#green, #flowers, #nicolaibergmannflowerbox, #sundayvibes"
+  - username: "kana0210kana"
+    fullname: >-
+      ⚘ 𝗞𝗮𝗻𝗮 ⚮…
+    location: "Japan"
+    followers: 38438
+    engagement: 493
+    commentsToLikes: 0.001832
+    id: ckap3ipsl35u30i78hxkvg9yj
+    verified: false
+    hashtags: "#bbq, #asca, #yummy, #delistagram"
   - username: "sasu_lyri"
     fullname: >-
       ＳＡＳＵ
     location: "Japan"
-    followers: 8279
-    engagement: 630
-    commentsToLikes: 0.005386
+    followers: 8374
+    engagement: 646
+    commentsToLikes: 0.006638
     id: ck6u0zvujiqby0j715ubbmeb9
     verified: false
-    hashtags: "#loveskateboardjapan2020, #nakameguro4chome4, #roadtrip, #harajuku"
-  - username: "tokyodame"
-    fullname: >-
-      Yoshiko Kris-Webb クリス-ウェブ佳子
-    location: "Japan"
-    followers: 127711
-    engagement: 167
-    commentsToLikes: 0.009536
-    id: ck6tmslaf8gbg0j71w363cwff
-    verified: false
-    hashtags: "#athletia, #hairsalon, #hairstyle, #stayhomeandgameon"
-  - username: "hug_me_mother"
-    fullname: >-
-      Wiki&Asia
-    location: "Japan"
-    followers: 8853
-    engagement: 1910
-    commentsToLikes: 0.008226
-    id: ck6tt5czf8p2g0j71ovgkmkvh
-    verified: false
-    hashtags: "#zosta, #asakusa, #travelmom, #borabora"
-  - username: "naomiayukawa"
-    fullname: >-
-      Naomi Ayukawa
-    location: "Japan"
-    followers: 8126
-    engagement: 512
-    commentsToLikes: 0.024094
-    id: ck14ib1p2eisi0i19nojhu4mb
-    verified: false
-    hashtags: "#italy, #northshore, #myfavbrand, #ginger13"
-  - username: "shiho_style"
-    fullname: >-
-      SHIHO
-    location: "Japan"
-    followers: 778686
-    engagement: 145
-    commentsToLikes: 0.003112
-    id: ck5pyo983wzir0i1187ybcjdk
-    verified: true
-    hashtags: "#elle, #teacher, #2020, #stylist"
-  - username: "ngs.rky.kuy"
-    fullname: >-
-      Ai.t
-    location: "Japan"
-    followers: 199214
-    engagement: 378
-    commentsToLikes: 0.002143
-    id: ck15t79vugoc10i195kt1k399
-    verified: false
-    hashtags: "#pr, #xt30, #reco, #nagisa"
+    hashtags: "#havinggreattimehere, #outsideandinside, #concrete, #stayfresh"
 ---

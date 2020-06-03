@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Morocco In 2020
 description: >-
-  Find top travel Instagram influencers in Morocco in 2020. Most popular hashtags: #travelblogger #marrakech #staysafe #travel.
+  Find top travel Instagram influencers in Morocco in 2020. Most popular hashtags: #stayhome #marrakech # #staystrong.
 platform: Instagram
 profiles:
   - username: "hermine_buhendwa"
     fullname: >-
       Hermine | TRAVEL BLOGGER🇧🇪🇨🇩
     location: "Morocco"
-    followers: 6817
-    engagement: 1635
-    commentsToLikes: 0.074399
+    followers: 7185
+    engagement: 1873
+    commentsToLikes: 0.067001
     id: ck8t99iwvnazw0j78qziwx2jx
     verified: false
-    hashtags: "#brownskingirltravel, #mytravelcrush, #themelanintravelclub, #blackwomentravel"
+    hashtags: "#morroco, #louvreabudhabi, #zaraoutfit, #blacktravelslay"
   - username: "katarzynaopiela9"
     fullname: >-
       Kasia Opiela
     location: "Morocco"
-    followers: 3997
-    engagement: 2397
-    commentsToLikes: 0.099624
+    followers: 4500
+    engagement: 2605
+    commentsToLikes: 0.089649
     id: ck8t2tmxf0nvq0j78j5ida5tg
     verified: false
-    hashtags: "#meczet, #phototrip, #tripaddicts, #traveling"
+    hashtags: "#palms, #bluesky, #marrakech, #tripaddicts"
+  - username: "sashannr"
+    fullname: >-
+      S A S H A⋆✈️🌿Travel + Wellness
+    location: "Morocco"
+    followers: 2558
+    engagement: 1919
+    commentsToLikes: 0.332658
+    id: ckap3ha6z2zxu0i78bws33m0g
+    verified: false
+    hashtags: "#nusapenida, #ubud, #seminyak, #africantectonicplate"
   - username: "nadaayamanii"
     fullname: >-
       Nada Yamani
     location: "Morocco"
-    followers: 110103
-    engagement: 356
-    commentsToLikes: 0.109173
+    followers: 109871
+    engagement: 342
+    commentsToLikes: 0.064282
     id: ck0uestgdm4uf0i19m4byagjc
     verified: false
-    hashtags: "#happyweek2youyanone, #girlboss, #sheinvday, #shein"
-  - username: "another_beautiful_day_official"
+    hashtags: "#coupdeblues, #dontrushmorocco, #girlboss"
+  - username: "blonde.travel"
     fullname: >-
-      CAT AND ELI
+      Caribbean Diary🌴
     location: "Morocco"
-    followers: 44610
-    engagement: 237
-    commentsToLikes: 0.055428
-    id: ck14jo65klca50i19jpjp7bhc
+    followers: 62831
+    engagement: 383
+    commentsToLikes: 0.053429
+    id: ck0w6i01i8nq50i19y6jkse4u
+    verified: false
+    hashtags: "#merzouga, #roamtheplanet, #happytraveler, #shewhowanders"
+  - username: "mayaabdelhamid_"
+    fullname: >-
+      Mayaabdelhamid
+    location: "Morocco"
+    followers: 182615
+    engagement: 516
+    commentsToLikes: 0.031678
+    id: ck13ah1xpqcmn0i19b78ukcil
     verified: false
     hashtags: ""
+  - username: "marinacomes"
+    fullname: >-
+      ᗰarina ᑕomes ✈︎
+    location: "Morocco"
+    followers: 301559
+    engagement: 199
+    commentsToLikes: 0.118615
+    id: ck0u9zwc3b2xd0i19z4vl61nd
+    verified: true
+    hashtags: "#namibia, #sossusvlei, #huaweinextimage, #tohoku"
   - username: "charlottikarrotti"
     fullname: >-
       Charlotte • Travel & Lifestyle
     location: "Morocco"
-    followers: 66649
-    engagement: 180
-    commentsToLikes: 0.063676
+    followers: 68237
+    engagement: 187
+    commentsToLikes: 0.063262
     id: ck8t11hz2u4bw0j78a5okgg73
     verified: false
-    hashtags: "#travelfarenoughtomeetyourself, #traveldeeper, #survivedtheheatlikeachamp, #selfquarantine"
-  - username: "misscindrich"
+    hashtags: "#staystrong, #presentmoment, #wakeupworld, #freedomthinkers"
+  - username: "viajandoporelmundomundial"
     fullname: >-
-      Christina Cindrich
+      Viajando por el Mundo Mundial
     location: "Morocco"
-    followers: 78889
-    engagement: 173
-    commentsToLikes: 0.079746
-    id: ck5zu6ypi1su10i14xfyrgjdb
+    followers: 15558
+    engagement: 341
+    commentsToLikes: 0.124608
+    id: ckaoswwc7tdyu0i787l36r7z0
     verified: false
-    hashtags: "#finnfulness, #internationalwomensday, #thirtyminutementors, #ripkobe"
-  - username: "thegreatyassin"
-    fullname: >-
-      Yassin Messoudi
-    location: "Morocco"
-    followers: 6669
-    engagement: 1123
-    commentsToLikes: 0.038050
-    id: ck6uh1yyu6iqb0j71vifxzu5p
-    verified: false
-    hashtags: "#liveshows, #fitness, #love, #family"
+    hashtags: ""
   - username: "asmaawk"
     fullname: >-
       Curlytraveler
     location: "Morocco"
-    followers: 25350
-    engagement: 401
-    commentsToLikes: 0.026407
+    followers: 26392
+    engagement: 343
+    commentsToLikes: 0.050292
     id: ck5hhkblh8oez0i11tb4psr2t
     verified: false
-    hashtags: "#goodvibes, #pawsup, #flowers, #summervibes"
-  - username: "malakiies"
-    fullname: >-
-      Malak
-    location: "Morocco"
-    followers: 160909
-    engagement: 462
-    commentsToLikes: 0.010257
-    id: ck6tjsfk83by10j712vsogvlg
-    verified: false
-    hashtags: "#coronavirus, #fashionblogger, #outfitstyle, #islascanarias"
-  - username: "travelgirl_pl"
-    fullname: >-
-      Travelgirl_pl
-    location: "Morocco"
-    followers: 7163
-    engagement: 722
-    commentsToLikes: 0.034878
-    id: ck8t9z0eepv5y0j78mt3ssdb6
-    verified: false
-    hashtags: "#shotoniphone, #natgeozpaula, #mydearmorocco, #thetravelpro"
+    hashtags: "#aswan, #pharaoh, #egyptianflag, #brazil"
 ---

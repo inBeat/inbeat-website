@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top athletes Instagram influencers in Malaysia in 2020. Most popular hashtags: #athlete #stayhome #stayathome #workout.
+  Find top athletes Instagram influencers in Malaysia in 2020. Most popular hashtags: #staysafe #2020 #stayathome #happymothersday.
 platform: Instagram
 profiles:
   - username: "theebaan_g"
     fullname: >-
       T H E E B A A N . G
     location: "Malaysia"
-    followers: 82692
-    engagement: 697
-    commentsToLikes: 0.004743
+    followers: 82663
+    engagement: 688
+    commentsToLikes: 0.005565
     id: ck14ipz1qgnba0i19qc12z2p6
     verified: true
-    hashtags: "#projectrock, #underarmour, #keepcalmwithlazada, #stayathometings"
+    hashtags: "#pasalkau, #towit, #protectthishouse, #teammyprotein"
+  - username: "mustikaayuni"
+    fullname: >-
+      Mustika Ayuni Dato' Mustofa
+    location: "Malaysia"
+    followers: 6047
+    engagement: 835
+    commentsToLikes: 0.042406
+    id: ck6u0l3o2gc110j710gwkzims
+    verified: false
+    hashtags: "#mountainbiking, #plbt, #endurophoto, #n8nutritions"
+  - username: "adligoldenboyhafidz"
+    fullname: >-
+      adli 'goldenboy' hafidz
+    location: "Malaysia"
+    followers: 17058
+    engagement: 830
+    commentsToLikes: 0.013614
+    id: ck5q3jm14l1p30i11z5ppw3z6
+    verified: false
+    hashtags: "#burnfat, #sudio, #roadto2020, #taylormade"
   - username: "roelbovendeert"
     fullname: >-
       Roel Bovendeert
     location: "Malaysia"
-    followers: 3567
-    engagement: 1721
-    commentsToLikes: 0.025836
+    followers: 3544
+    engagement: 1693
+    commentsToLikes: 0.024216
     id: ck6ufnolly36f0j71e22iun2y
     verified: false
-    hashtags: "#hockeylux, #createdwithadidas, #treble"
-  - username: "mrezanurhakim_"
+    hashtags: "#hockeylux, #createdwithadidas, #treble, #hometeam"
+  - username: "shaznishazwani"
     fullname: >-
-      
+      Shazni Shazwani
     location: "Malaysia"
-    followers: 2121
-    engagement: 2421
-    commentsToLikes: 0.031689
-    id: ck6txn903yqx70j71bsxrsl4i
+    followers: 29788
+    engagement: 534
+    commentsToLikes: 0.021527
+    id: ckapc42o72dua0i78813xzxty
     verified: false
-    hashtags: "#viralindonesia, #coverpurapuralupa, #corona, #hondacrf150l"
+    hashtags: "#fafauxmutiara, #malaysiaairlines, #naniexmh, #500subs"
+  - username: "varhoonvystra"
+    fullname: >-
+      Vystra | TRAIN & TRANSFORM
+    location: "Malaysia"
+    followers: 23185
+    engagement: 464
+    commentsToLikes: 0.015444
+    id: ck5qd3ommtnmd0i11g8colppm
+    verified: false
+    hashtags: "#proven, #lifehacks, #bodyprogress, #callofduty"
+  - username: "khalishan.alias"
+    fullname: >-
+      T A R Z A N
+    location: "Malaysia"
+    followers: 25673
+    engagement: 548
+    commentsToLikes: 0.034417
+    id: ck8t8fdtok96j0j78skxz4v9y
+    verified: false
+    hashtags: "#stayhealthy, #alone, #anakmak, #foodlovers"
   - username: "muhaizarmohamad"
     fullname: >-
       Muhaizar Mohamad
     location: "Malaysia"
-    followers: 13504
-    engagement: 605
-    commentsToLikes: 0.021283
+    followers: 13687
+    engagement: 506
+    commentsToLikes: 0.013477
     id: ck55o208n7gzd0i11ph6rya45
     verified: false
-    hashtags: "#novablast, #hammernutritionmy, #garminforerunner945, #seagames2019philippines"
-  - username: "alifsatar"
-    fullname: >-
-      Alif Satar™️
-    location: "Malaysia"
-    followers: 2880979
-    engagement: 115
-    commentsToLikes: 0.008199
-    id: ck134djovvx6d0i19artrcu3s
-    verified: true
-    hashtags: "#akuchallengekorangtengokfrozen7kalisehari, #futuremessageforalishaanugerah, #spykebersepai, #darlie"
-  - username: "ragunathan24"
-    fullname: >-
-      Ragunathan (Men Of Steel)
-    location: "Malaysia"
-    followers: 10199
-    engagement: 900
-    commentsToLikes: 0.031627
-    id: ck15sjqdkdcsh0i1948xpciq0
-    verified: false
-    hashtags: "#fitnessfreaks, #cutwithclass, #diet, #ifbbproleaguequalifier"
-  - username: "colleenspartanmma"
-    fullname: >-
-      Colleen Augustin
-    location: "Malaysia"
-    followers: 7752
-    engagement: 799
-    commentsToLikes: 0.020777
-    id: ck0u22cyoyooh0i19ffdyivtt
-    verified: false
-    hashtags: "#igers, #protection, #eatclean, #gymmotivation"
-  - username: "peterhughdavis"
-    fullname: >-
-      🇲🇾 Davis 🇬🇧
-    location: "Malaysia"
-    followers: 38414
-    engagement: 178
-    commentsToLikes: 0.092245
-    id: ck134fmy3w77o0i194nv4in5z
-    verified: true
-    hashtags: "#wantonmee, #hilo, #onset, #flightjacket"
+    hashtags: "#day10puasa, #stopcoronavirus, #ramadhantiba, #movefromhome"
   - username: "pandelela"
     fullname: >-
       𝕻𝖆𝖓𝖉𝖊𝖑𝖊𝖑𝖆 𝕽𝖎𝖓𝖔𝖓𝖌
     location: "Malaysia"
-    followers: 228906
-    engagement: 163
-    commentsToLikes: 0.006713
+    followers: 228564
+    engagement: 133
+    commentsToLikes: 0.009147
     id: ck6uebg1hpxur0j71v3d0gv0h
     verified: true
-    hashtags: "#legraises, #divingwarmup, #stayhome, #proudlymalaysian"
-  - username: "fikri_latif"
+    hashtags: "#bedisciplined, #justdoit, #stjohnambulance, #laborday"
+  - username: "hidilyndiaz"
     fullname: >-
-      Fikri Latif
+      Hidilyn Diaz OLY
     location: "Malaysia"
-    followers: 81665
-    engagement: 875
-    commentsToLikes: 0.010999
-    id: ck5hd8tdvm4dr0i11vt8gfpg4
+    followers: 24094
+    engagement: 149
+    commentsToLikes: 0.025184
+    id: ck15u144kkwru0i19ns6fkgjo
     verified: false
-    hashtags: "#2019bestnine, #tngewallet, #sterkproduction, #redbullmalaysia"
+    hashtags: "#stayhomestaycreative, #girlpower, #olympics, #frenchbulldogclub"
 ---

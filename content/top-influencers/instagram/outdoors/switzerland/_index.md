@@ -1,107 +1,107 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top outdoors Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #inlovewithswitzerland #awesome #nature.
+  Find top outdoors Instagram influencers in Switzerland in 2020. Most popular hashtags: #sunset #graub #switzerland #swissalps.
 platform: Instagram
 profiles:
-  - username: "nathan.salomon"
+  - username: "sixthlens"
     fullname: >-
-      Nathan / Switzerland
+      Matteo Mangano
     location: "Switzerland"
-    followers: 4440
-    engagement: 2889
-    commentsToLikes: 0.196192
-    id: ck15rf45g7mfe0i19oz2yivs8
+    followers: 4078
+    engagement: 2483
+    commentsToLikes: 0.174246
+    id: ckap9zt29u5es0i78h42tahbt
     verified: false
-    hashtags: "#landscape, #minimalism, #italytravel, #unlimitedplanet"
+    hashtags: ""
   - username: "phil_wenger"
     fullname: >-
       Phil Wenger Photography
     location: "Switzerland"
-    followers: 11331
-    engagement: 525
-    commentsToLikes: 0.018115
+    followers: 11377
+    engagement: 559
+    commentsToLikes: 0.019769
     id: ck5byfpqsp2710i118cmkswuv
     verified: false
-    hashtags: "#niesen, #wildlovestories, #elopementcollective, #canon"
-  - username: "helenapichler"
-    fullname: >-
-      Helena
-    location: "Switzerland"
-    followers: 10257
-    engagement: 1501
-    commentsToLikes: 0.045326
-    id: ck5hi2yynbe2l0i11qya2e3sp
-    verified: false
-    hashtags: "#dsvr, #inlovewithswitzerland, #global, #rsa"
+    hashtags: "#bestshoot, #heyheyhellomay, #intimatewedding, #radcouple"
   - username: "wunschengel"
     fullname: >-
       Julia // #intensifyinglife ✌🏼
     location: "Switzerland"
-    followers: 5734
-    engagement: 954
-    commentsToLikes: 0.074259
+    followers: 5814
+    engagement: 919
+    commentsToLikes: 0.075144
     id: ck0vximf6z2w30i19xxw3r4rg
     verified: false
-    hashtags: "#mountainlove, #huacachina, #droneoftheday, #wintercamping"
-  - username: "lisaplanzer"
+    hashtags: "#moon, #stayhome, #floatingislands, #jungfrau"
+  - username: "thefulfilment"
     fullname: >-
-      Lisa Planzer
+      Steven S.
     location: "Switzerland"
-    followers: 3227
-    engagement: 2195
-    commentsToLikes: 0.071797
-    id: ck0w0cu75djni0i19z60acaj8
+    followers: 12737
+    engagement: 822
+    commentsToLikes: 0.061770
+    id: ck5qa4lpeeiip0i118e64eub9
     verified: false
-    hashtags: "#engelberg, #schweiztourismus, #rothenthurm, #eclectic"
-  - username: "mywildswiss"
+    hashtags: "#lumixwinter"
+  - username: "the_crazy_life_of_kepi_and_b"
     fullname: >-
-      KAITO
+      Kepica & Bertha 🐶
     location: "Switzerland"
-    followers: 16753
-    engagement: 450
-    commentsToLikes: 0.059546
-    id: ck0u9nhila8vt0i1964vx6iq6
+    followers: 2897
+    engagement: 1148
+    commentsToLikes: 0.394885
+    id: ck6uijp8zfg6i0j71dz0it60j
     verified: false
-    hashtags: "#hurttaadventurecollar, #feelthealps, #merrellkindness, #plant"
+    hashtags: "#swisslife, #aloha, #hunde, #dogmodel"
   - username: "mickdorff"
     fullname: >-
       Mick Dierdorff
     location: "Switzerland"
-    followers: 6225
-    engagement: 1196
-    commentsToLikes: 0.031872
+    followers: 6160
+    engagement: 1211
+    commentsToLikes: 0.031797
     id: ck5hedxrpsepg0i11mb0iut8x
     verified: true
-    hashtags: "#superg, #snowboardcross, #sbxlife, #drone"
-  - username: "kevs.art"
-    fullname: >-
-      Kevin ☆ Jack
-    location: "Switzerland"
-    followers: 7243
-    engagement: 935
-    commentsToLikes: 0.037044
-    id: ck15rjucr89wu0i199l7xoc7p
-    verified: false
-    hashtags: "#createcommune, #reykjavikiceland, #zermattswitzerland, #newyork"
-  - username: "_p.r.i.s.m.a_"
-    fullname: >-
-      Simo Buch
-    location: "Switzerland"
-    followers: 17292
-    engagement: 354
-    commentsToLikes: 0.047742
-    id: ck0vw18dlrndh0i192g5a4x41
-    verified: false
-    hashtags: "#globalcapture, #sunrise, #gitzo, #natgeoadventure"
+    hashtags: "#europe, #fxr, #woodworking, #mtnbike"
   - username: "martinbissig"
     fullname: >-
       Martin Bissig
     location: "Switzerland"
-    followers: 47648
-    engagement: 579
-    commentsToLikes: 0.014783
+    followers: 47500
+    engagement: 559
+    commentsToLikes: 0.017218
     id: ck14llp5ovaro0i192hqa9f48
     verified: true
-    hashtags: "#livigno, #mtbpictureoftheday, #eosr, #bikegirls"
+    hashtags: "#swissalps, #rf70200, #graub, #mtbgirl"
+  - username: "kevs.art"
+    fullname: >-
+      Kevin ☆ Jack
+    location: "Switzerland"
+    followers: 7199
+    engagement: 950
+    commentsToLikes: 0.037834
+    id: ck15rjucr89wu0i199l7xoc7p
+    verified: false
+    hashtags: "#keepitwild, #architecture, #awakethesoul, #churchinthewild"
+  - username: "the__phonetographer"
+    fullname: >-
+      Dan | Hiking Travel Landscape
+    location: "Switzerland"
+    followers: 7954
+    engagement: 731
+    commentsToLikes: 0.039271
+    id: ck0u1uqhhy1b40i19uvhim07l
+    verified: false
+    hashtags: "#shotoniphone, #hikingphotography, #tbt, #outandabout"
+  - username: "nik_hartmann"
+    fullname: >-
+      Nik Hartmann
+    location: "Switzerland"
+    followers: 43280
+    engagement: 464
+    commentsToLikes: 0.016865
+    id: ck0ub33dzdp7b0i19owwcghbf
+    verified: true
+    hashtags: "#tvision, #winterwonderland, #blackandwhite, #corona"
 ---

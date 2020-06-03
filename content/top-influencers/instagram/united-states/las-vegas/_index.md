@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top Instagram influencers in Las Vegas in 2020. Most popular hashtags: #ad #selfportrait #ccc #maxpowered.
+  Find top Instagram influencers in Las Vegas in 2020. Most popular hashtags: # #24 #revolveme #blessed.
 platform: Instagram
 profiles:
-  - username: "marisalopek"
+  - username: "kaliannakali"
     fullname: >-
-      Marisa Salopek
+      Kalianna 🌈Las Vegas 📍
     location: "United States"
-    followers: 2168
-    engagement: 2402
-    commentsToLikes: 0.150666
-    id: ck6tz8fwm87uw0j71jun4mius
+    followers: 21986
+    engagement: 915
+    commentsToLikes: 0.105200
+    id: ck55ng1ab64t00i11s8gwgqek
     verified: false
-    hashtags: ""
+    hashtags: "#superdown, #boohoointhehouse, #afterpayday, #afterpayambassador"
+  - username: "freshprinceofhealthcare"
+    fullname: >-
+      James Kim [JMK], PA-C
+    location: "United States"
+    followers: 17203
+    engagement: 1658
+    commentsToLikes: 0.086074
+    id: ckaoy7d6fgb300i78hpgy4exx
+    verified: false
+    hashtags: "#blessed, #figsxdoctorsday, #pance, #grateful"
+  - username: "liz_v_rose"
+    fullname: >-
+      🌹 LIZ 🌹
+    location: "United States"
+    followers: 150498
+    engagement: 694
+    commentsToLikes: 0.037944
+    id: ck5hovbw9qath0i11u5ix299o
+    verified: false
+    hashtags: "#netflix, #quarantine, #tigerking"
   - username: "misslovelacee"
     fullname: >-
       𝔸𝕤𝕙𝕝𝕖𝕪 Mf 𝕃𝕠𝕧𝕖𝕝𝕒𝕔𝕖 🍒
     location: "United States"
-    followers: 578382
-    engagement: 3854
-    commentsToLikes: 0.025395
+    followers: 582972
+    engagement: 4032
+    commentsToLikes: 0.024705
     id: ck0w395hfs7my0i19zewh7f6b
     verified: false
     hashtags: ""
-  - username: "ivajorg"
+  - username: "marisalopek"
     fullname: >-
-      IVANA JORGENSEN
+      Marisa Salopek
     location: "United States"
-    followers: 43367
-    engagement: 617
-    commentsToLikes: 0.086143
-    id: ck0tsyyy00ijv0i19khbfw1d5
+    followers: 2176
+    engagement: 2374
+    commentsToLikes: 0.156010
+    id: ck6tz8fwm87uw0j71jun4mius
     verified: false
-    hashtags: "#logitech, #docmartens, #matissefootwear, #logitechpebble"
-  - username: "drea"
+    hashtags: ""
+  - username: "shadesofdrea"
     fullname: >-
-      Andrea Bergeron
+      Andrea Sheffer
     location: "United States"
-    followers: 305562
-    engagement: 897
-    commentsToLikes: 0.026721
-    id: ck5zkuuknk7840i14eoxolu4w
+    followers: 5852
+    engagement: 1271
+    commentsToLikes: 0.098657
+    id: ck13a8r0cp6nw0i19vhk1mvfi
     verified: false
-    hashtags: "#miamibeach, #valentines, #miami"
+    hashtags: "#rip, #24, #stayhome, #makeupbrushchallenge"
   - username: "thaboykee_3"
     fullname: >-
       Keelan Doss
     location: "United States"
-    followers: 44642
-    engagement: 1516
-    commentsToLikes: 0.039376
+    followers: 44282
+    engagement: 1568
+    commentsToLikes: 0.037408
     id: ck13adbv5ptr00i19j5ylujt0
     verified: true
-    hashtags: "#raidernation, #tonytoetap, #trainingcamp2019, #89"
+    hashtags: "#year2, #raidernation, #tonytoetap, #trainingcamp2019"
   - username: "bjaymakeup"
     fullname: >-
       Brittany Jay
     location: "United States"
-    followers: 10300
-    engagement: 1041
-    commentsToLikes: 0.074504
+    followers: 10129
+    engagement: 1007
+    commentsToLikes: 0.073655
     id: ck0twhpc6ffic0i198bl6rih8
     verified: false
-    hashtags: "#unleashyourinnerartist, #nationallashday"
-  - username: "euroz_"
+    hashtags: "#makeuptutorial, #makeupideas, #abhjunkies, #blazin"
+  - username: "roncikelv"
     fullname: >-
-      EuroZ
+      Renata Szalai
     location: "United States"
-    followers: 20044
-    engagement: 646
-    commentsToLikes: 0.063768
-    id: ck8sxiw0yhk8v0j787ji79o9e
+    followers: 233108
+    engagement: 369
+    commentsToLikes: 0.043325
+    id: ck9hcmutrm36o0j78akzl6j7i
     verified: false
-    hashtags: "#ccc, #dontforgetthez"
+    hashtags: "#novaandchill, #outfit, #memorialday"
   - username: "derique.hanche"
     fullname: >-
       (Deríque Hanché Photography)
     location: "United States"
-    followers: 16364
-    engagement: 580
-    commentsToLikes: 0.208583
+    followers: 16071
+    engagement: 590
+    commentsToLikes: 0.208823
     id: ck5btwugfgr080i116jp5vf34
     verified: false
     hashtags: ""
-  - username: "aaijai"
-    fullname: >-
-      AJ Montgomery
-    location: "United States"
-    followers: 8587
-    engagement: 1284
-    commentsToLikes: 0.040362
-    id: ck6u7d2zfkt6r0j716onwjy4m
-    verified: false
-    hashtags: "#china, #windowgaze, #priorities, #buildit"
-  - username: "danielleperea"
-    fullname: >-
-      DANIELLE PEREA
-    location: "United States"
-    followers: 8304
-    engagement: 936
-    commentsToLikes: 0.108272
-    id: ck6u4omih4x640j716f8b1ec1
-    verified: false
-    hashtags: "#livingthegoodlife, #skagenpartner, #hoptimist, #vegaspayitforward"
 ---

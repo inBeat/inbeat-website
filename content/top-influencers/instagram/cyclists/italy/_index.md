@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Italy In 2020
 description: >-
-  Find top cyclists Instagram influencers in Italy in 2020. Most popular hashtags: #cycling #cyclinglife #iorestoacasa #bike.
+  Find top cyclists Instagram influencers in Italy in 2020. Most popular hashtags: #stayathome #training #iorestoacasa #zwift.
 platform: Instagram
 profiles:
   - username: "leti_galva"
     fullname: >-
       Letizia Galvani
     location: "Italy"
-    followers: 10426
-    engagement: 1379
-    commentsToLikes: 0.035477
+    followers: 10857
+    engagement: 1392
+    commentsToLikes: 0.037519
     id: ck14k1z5pnbow0i194oav6afx
     verified: false
-    hashtags: "#travelpicture, #vitadimontagna, #unavitainviaggio, #winelover"
-  - username: "jarnoiotti"
+    hashtags: "#summerportrait, #sunsetlife, #valentinobags, #ritrattiamatita"
+  - username: "sofiacollinelli_official"
     fullname: >-
-      Jarno Iotti
+      Sofiacollinelli
     location: "Italy"
-    followers: 7190
-    engagement: 1372
-    commentsToLikes: 0.022433
-    id: ck0vxf9ccylyr0i19z86pfbkg
+    followers: 24460
+    engagement: 1428
+    commentsToLikes: 0.018739
+    id: ckap0gwn2q8ev0i78ap607vu7
     verified: false
-    hashtags: "#teatro, #film, #urbanandstreet, #sicily"
+    hashtags: "#biotexunderwear, #ravenna, #4maggio, #pancakes"
+  - username: "t.dumoulin"
+    fullname: >-
+      Tom Dumoulin
+    location: "Italy"
+    followers: 32513
+    engagement: 1707
+    commentsToLikes: 0.017689
+    id: ck6ue4eeforr90j71cmpvau96
+    verified: false
+    hashtags: "#supermarkthelden, #everydayriding"
+  - username: "daaniele_20"
+    fullname: >-
+      Daniele Mangiaterra🇮🇹
+    location: "Italy"
+    followers: 2574
+    engagement: 1312
+    commentsToLikes: 0.263929
+    id: ck0w5zagi65hs0i192mi4q67j
+    verified: false
+    hashtags: "#hiit, #staymotivated, #cyclingpasion, #giantbycicles"
+  - username: "whatkathydidnext"
+    fullname: >-
+      Kathy 50+🇬🇧
+    location: "Italy"
+    followers: 28430
+    engagement: 199
+    commentsToLikes: 0.179489
+    id: ck0vzqj35aers0i19ony6i0o2
+    verified: false
+    hashtags: "#mudhousewines, #baukjen, #cornersofmyhome, #buffetdress"
+  - username: "dimbal88"
+    fullname: >-
+      dimitri baldassarra
+    location: "Italy"
+    followers: 10486
+    engagement: 940
+    commentsToLikes: 0.039394
+    id: ck6tzfkna9edz0j71vak9xidf
+    verified: false
+    hashtags: "#realpower, #cyclingquotes, #turbotrainer, #escape"
   - username: "fausto_masnada"
     fullname: >-
       Fausto Masnada
     location: "Italy"
-    followers: 37676
-    engagement: 901
-    commentsToLikes: 0.027816
+    followers: 37610
+    engagement: 910
+    commentsToLikes: 0.030240
     id: ck5hcxhx4kfvq0i112d22ptra
     verified: true
-    hashtags: "#day5, #day6, #day9, #mangiate"
-  - username: "gianni_vermeersch"
-    fullname: >-
-      Gianni Vermeersch
-    location: "Italy"
-    followers: 9360
-    engagement: 1134
-    commentsToLikes: 0.024583
-    id: ck6u3wfj809w40j71z1evq8ji
-    verified: false
-    hashtags: "#mycanyon, #brabantsepijl, #alpecinfenixstaysfit, #kermiscross"
-  - username: "emidioland"
-    fullname: >-
-      Emidioland🎢
-    location: "Italy"
-    followers: 12714
-    engagement: 465
-    commentsToLikes: 0.094279
-    id: ck602tlakj2l90i14jr2gvbc7
-    verified: false
-    hashtags: "#sweetmoment, #ethicsport, #sunday, #cyclingkits"
+    hashtags: "#day6, #day9, #throwback, #mangiate"
   - username: "maximilian_schachmann"
     fullname: >-
       Maximilian Schachmann
     location: "Italy"
-    followers: 26406
-    engagement: 1156
-    commentsToLikes: 0.010336
+    followers: 27340
+    engagement: 1099
+    commentsToLikes: 0.010080
     id: ck5hnfi02noze0i11s5zit6me
     verified: false
-    hashtags: "#helpthemrise, #wecycleforthecookingrevolution, #excited, #bandofbrothers"
-  - username: "marta_cavalli"
+    hashtags: "#wearethecookingrevolution, #waytoride, #parisnice, #boracookingsystems"
+  - username: "chiara_consonnii"
     fullname: >-
-      MARTA CAVALLI | Cyclist
+      ⭐️Chiara Consonni⭐️
     location: "Italy"
-    followers: 5843
-    engagement: 1176
-    commentsToLikes: 0.016400
-    id: ck14l9o99tjl60i19cpc4cesr
+    followers: 21574
+    engagement: 1180
+    commentsToLikes: 0.008613
+    id: ck6tynrs24t5j0j71v0ybolqe
     verified: false
-    hashtags: "#christmas, #history, #noproblem, #thanks"
-  - username: "virginiacancellieri"
+    hashtags: "#christmas, #training, #setmanavalenciana, #pertera"
+  - username: "emidioland"
     fullname: >-
-      Virginia Cancellieri
+      Emidio Terra
     location: "Italy"
-    followers: 39726
-    engagement: 522
-    commentsToLikes: 0.009176
-    id: ck6txd02lx55g0j71vxgukn6k
+    followers: 13176
+    engagement: 401
+    commentsToLikes: 0.084542
+    id: ck602tlakj2l90i14jr2gvbc7
     verified: false
-    hashtags: "#surfgirl, #mtbgirls, #gravel, #gopro"
-  - username: "cimo89"
-    fullname: >-
-      Davide Cimolai
-    location: "Italy"
-    followers: 32220
-    engagement: 278
-    commentsToLikes: 0.015870
-    id: ck6ue48mioqrd0j71vy30vdot
-    verified: false
-    hashtags: "#amore, #larciano, #passionesportiva, #passione"
-  - username: "rebigariboldi"
-    fullname: >-
-      Rebecca Gariboldi
-    location: "Italy"
-    followers: 14591
-    engagement: 678
-    commentsToLikes: 0.012895
-    id: ck0w4tng30d1p0i1994iksuks
-    verified: false
-    hashtags: "#cxlover, #pinklover, #cruxlover, #cxlovers"
+    hashtags: "#shortfit, #mtbphotos, #gift, #wood"
 ---

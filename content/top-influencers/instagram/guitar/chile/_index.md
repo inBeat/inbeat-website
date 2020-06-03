@@ -1,107 +1,107 @@
 ---
 title: Top 10 Guitar Instagram Influencers In Chile In 2020
 description: >-
-  Find top guitar Instagram influencers in Chile in 2020. Most popular hashtags: #chile #quedateencasa #love #music.
+  Find top guitar Instagram influencers in Chile in 2020. Most popular hashtags: #cuarentena #musica #guitar #feliz.
 platform: Instagram
 profiles:
   - username: "blackenedbbx"
     fullname: >-
       Agustín Amaro
     location: "Chile"
-    followers: 10549
-    engagement: 1072
-    commentsToLikes: 0.040356
+    followers: 11107
+    engagement: 1115
+    commentsToLikes: 0.045068
     id: ck8t0cdomrl440j785sdpchdv
     verified: false
-    hashtags: "#gbb2020, #beatbox, #riddim, #ojo"
-  - username: "abeja_"
-    fullname: >-
-      Alejandro Abeijón
-    location: "Chile"
-    followers: 22962
-    engagement: 582
-    commentsToLikes: 0.027809
-    id: ck5hpxliks58m0i118cieua7i
-    verified: true
-    hashtags: "#tbt"
+    hashtags: "#throwdownwildcard, #beatboxchile, #nosabiasierabuenmomentoparasubiresto, #freestyle"
   - username: "alfalonxo"
     fullname: >-
       Alfredo Alonso
     location: "Chile"
-    followers: 29090
-    engagement: 303
-    commentsToLikes: 0.056132
+    followers: 29395
+    engagement: 301
+    commentsToLikes: 0.083338
     id: ck5hise8cf4v90i11gh7gxd4m
     verified: false
-    hashtags: "#prevenir, #vamoscontodo, #friends, #eduardo"
+    hashtags: "#granpaso, #lasadoro, #acuidarse, #2450003"
   - username: "angelparraorrego"
     fullname: >-
       Angel Parra Orrego
     location: "Chile"
-    followers: 33377
-    engagement: 342
-    commentsToLikes: 0.035419
+    followers: 34262
+    engagement: 382
+    commentsToLikes: 0.041404
     id: ck5pz59xiza7b0i11i62kjldi
     verified: false
-    hashtags: "#jazz, #araucania, #rock, #plazabogota"
-  - username: "sebastianaracena"
+    hashtags: "#future, #guitarteacher, #1997, #reharmonization"
+  - username: "kokebenavides"
     fullname: >-
-      Sebastian Aracena
+      Koke Benavides
     location: "Chile"
-    followers: 7182
-    engagement: 726
-    commentsToLikes: 0.040812
-    id: ck5cjq2a9v90n0i118wnq4eeo
+    followers: 8185
+    engagement: 594
+    commentsToLikes: 0.047035
+    id: ckaorz6otpfeh0i78xn2pq6wn
     verified: false
-    hashtags: "#gibsongram, #714cenylon, #musicalatina, #lamakinita"
+    hashtags: "#reneroco, #guitarslap, #collab, #guitarmelody"
+  - username: "abeja_"
+    fullname: >-
+      Alejandro Abeijón
+    location: "Chile"
+    followers: 23056
+    engagement: 597
+    commentsToLikes: 0.029187
+    id: ck5hpxliks58m0i118cieua7i
+    verified: true
+    hashtags: "#tbt"
   - username: "cfunk"
     fullname: >-
       C-Funk
     location: "Chile"
-    followers: 41449
-    engagement: 268
-    commentsToLikes: 0.033717
+    followers: 45190
+    engagement: 260
+    commentsToLikes: 0.032597
     id: ck8swsonbf3nv0j785951lv7z
     verified: true
-    hashtags: "#mequedoencasa, #bansheetalkbox, #losremos, #classic"
-  - username: "cami._vega"
+    hashtags: "#youtube, #funkophotography, #suerte, #ebgdae"
+  - username: "camivegachile"
     fullname: >-
-      Camila Vega
+      🇨 🇦 🇲 🇮 🇱 🇦
     location: "Chile"
-    followers: 13966
-    engagement: 1823
-    commentsToLikes: 0.030525
+    followers: 15004
+    engagement: 1734
+    commentsToLikes: 0.039671
     id: ck0vwudmpvn5l0i19pvirh52d
     verified: false
-    hashtags: "#face, #sunset, #weekend, #belleza"
+    hashtags: "#vanhalen, #video, #quarantine, #pets"
   - username: "valadiel"
     fullname: >-
       Vαʅαԃιҽʅ
     location: "Chile"
-    followers: 12793
-    engagement: 937
-    commentsToLikes: 0.030749
+    followers: 13731
+    engagement: 1012
+    commentsToLikes: 0.029842
     id: ck0u2jjwkzzvs0i198hqquasx
     verified: false
-    hashtags: "#pcgame, #stream, #blizzard, #kawaiigirls"
+    hashtags: "#waifu, #streaming, #concursochile, #catwoman"
   - username: "bj_zero_"
     fullname: >-
       🖤Bj_DOPPO_V👽
     location: "Chile"
-    followers: 6329
-    engagement: 1472
-    commentsToLikes: 0.028390
+    followers: 6554
+    engagement: 1435
+    commentsToLikes: 0.068603
     id: ck13avdn2sdmo0i19svf8jjoc
     verified: false
-    hashtags: "#valentines, #heart, #happyday, #ulzzangboy"
-  - username: "juliandesbats"
+    hashtags: "#toukenranbu, #lookoftheday, #eren, #school"
+  - username: "barijazz"
     fullname: >-
-      D E S B A T S
+      Diego Muñoz Chávez
     location: "Chile"
-    followers: 6059
-    engagement: 565
-    commentsToLikes: 0.062816
-    id: ck6u1w6vto96m0j717omn0vkl
+    followers: 17757
+    engagement: 447
+    commentsToLikes: 0.033940
+    id: ck5c397amyu710i119c5dfvbm
     verified: false
-    hashtags: "#vivir, #fuckyourself, #brasil, #noche"
+    hashtags: "#nuestramusica, #sitemarchas, #jazz, #marcareedschile"
 ---

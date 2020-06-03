@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Italy In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Italy in 2020. Most popular hashtags: #iorestoacasa #stayhome #quarantine #instamood.
+  Find top lifestyle Instagram influencers in Italy in 2020. Most popular hashtags: #iorestoacasa #eyes #classy #instagram.
 platform: Instagram
 profiles:
-  - username: "omarspaneshi"
+  - username: "gaiabegnis"
     fullname: >-
-      𝗠𝗘𝗡'𝗦 𝗙𝗔𝗦𝗛𝗜𝗢𝗡 | 𝗢𝗠𝗔𝗥 🇦🇱🇮🇹
+      Gaia Begnis
     location: "Italy"
-    followers: 80890
-    engagement: 585
-    commentsToLikes: 0.072135
-    id: ck14h3ixq8d9v0i19sh0wqibt
+    followers: 24186
+    engagement: 1567
+    commentsToLikes: 0.104119
+    id: ck0ty02inl0z30i19abgqhd4r
     verified: false
-    hashtags: "#poweryourstyle, #interrogazione, #instagram, #cinese"
-  - username: "_sara.grossi_"
+    hashtags: "#eauthermaleuriage, #stateacasa, #zuegg, #uriagebebe"
+  - username: "pilotasoglu"
     fullname: >-
-      Sara Grossi
+      Ahmet Asoğlu Official | Cadet
     location: "Italy"
-    followers: 2776
-    engagement: 2688
-    commentsToLikes: 0.103946
-    id: ck8tb53ltubc50j782zij5rdn
+    followers: 52000
+    engagement: 1108
+    commentsToLikes: 0.063158
+    id: ck5hh6x0e6oze0i11qh60msgv
     verified: false
-    hashtags: "#volere, #instagramers, #times, #desideri"
+    hashtags: "#insta360go"
   - username: "stefypeaceandlove"
     fullname: >-
       Stefania🌷
     location: "Italy"
-    followers: 96950
-    engagement: 616
-    commentsToLikes: 0.077282
+    followers: 120101
+    engagement: 925
+    commentsToLikes: 0.056465
     id: ck8t4hl996uib0j78buj58lfg
     verified: false
-    hashtags: "#ibelieveinyou, #reading, #happysoul, #godlovesyou"
-  - username: "tamershwaiter"
+    hashtags: "#classystyle, #keepsmiling, #relaxyourmind, #nomakeuplook"
+  - username: "nerinafrancesca"
     fullname: >-
-      Tamer Shwaiter|تامر شويطر
+      Francesca Nerina 💎
     location: "Italy"
-    followers: 20306
-    engagement: 950
-    commentsToLikes: 0.054298
-    id: ck5hrllznv2iz0i11wc3nrs7v
+    followers: 249928
+    engagement: 710
+    commentsToLikes: 0.037159
+    id: ck8t5753n90v00j78mkte5hhx
     verified: false
-    hashtags: "#happynewyear, #2020"
-  - username: "andreabzzz"
+    hashtags: "#nature, #moon, #cute, #sexy"
+  - username: "_sara.grossi_"
     fullname: >-
-      Andrea Moscon
+      Sara Grossi
     location: "Italy"
-    followers: 381684
-    engagement: 586
-    commentsToLikes: 0.033288
-    id: ck14jk34nkrcm0i19u4kn8iay
-    verified: true
-    hashtags: "#asuniqueasyou, #sundayfunday, #instacool, #menstyle"
-  - username: "sespo"
-    fullname: >-
-      Edoardo Esposito 👼🏻
-    location: "Italy"
-    followers: 1503173
-    engagement: 1073
-    commentsToLikes: 0.019730
-    id: ck5zrz3xcxitf0i14j92kyo1b
-    verified: true
-    hashtags: "#wearefamily, #ad, #iamthewatch, #lacasadepapel"
-  - username: "noorstars"
-    fullname: >-
-      نور ستارز | Noor Stars
-    location: "Italy"
-    followers: 7405312
-    engagement: 424
-    commentsToLikes: 0.099740
-    id: ck0w0idq9ecr30i19vnml5h1r
-    verified: true
-    hashtags: "#womeninternationalday, #stayhome, #abtalks"
-  - username: "ilariatrudu"
-    fullname: >-
-      𝓘𝓵𝓪𝓻𝓲𝓪 ✨💗| 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 | 𝐁𝐞𝐚𝐮𝐭𝐲
-    location: "Italy"
-    followers: 9381
-    engagement: 1161
-    commentsToLikes: 0.092807
-    id: ck15r011m5giu0i19mr2v5tsh
+    followers: 3326
+    engagement: 2557
+    commentsToLikes: 0.120389
+    id: ck8tb53ltubc50j782zij5rdn
     verified: false
-    hashtags: "#mercihandy, #desenio, #prodottooffertodaclarins, #clarins"
-  - username: "remalda"
+    hashtags: "#nature, #verdenatura, #sperlonga, #lovophotography"
+  - username: "giorgiaceci_"
     fullname: >-
-      Travel/Fashion/motherhood🇦🇱🇮🇹
+      Giorgia Ceci 🎠
     location: "Italy"
-    followers: 11201
-    engagement: 954
-    commentsToLikes: 0.149894
-    id: ck5zmzotkni710i1426xyuqcp
+    followers: 29240
+    engagement: 986
+    commentsToLikes: 0.052196
+    id: ck0vwv952vrm40i19udrzeo2o
     verified: false
-    hashtags: "#winteroutfits, #thinkingpositive, #cutemixedgirls, #lisbonportugal"
-  - username: "danstone8703"
+    hashtags: "#momtobe, #homeinspo, #myequait, #acasaconbottegaverde"
+  - username: "jessicaazannoni"
     fullname: >-
-      Dan Stone
+      J E S S I CA  Z.
     location: "Italy"
-    followers: 15499
-    engagement: 782
-    commentsToLikes: 0.073546
-    id: ck0uefva4l9ol0i19nbj8xvyg
+    followers: 48280
+    engagement: 650
+    commentsToLikes: 0.057283
+    id: ck8wgc1lch2yx0j785styl98l
     verified: false
-    hashtags: "#tamfashion, #scruffydaddy, #hairychest, #outdoor"
+    hashtags: "#elegantoutfit, #photoshoot, #modeling, #inspostyle"
+  - username: "omarspaneshi"
+    fullname: >-
+      𝗠𝗘𝗡'𝗦 𝗙𝗔𝗦𝗛𝗜𝗢𝗡 | 𝗢𝗠𝗔𝗥 🇦🇱🇮🇹
+    location: "Italy"
+    followers: 96174
+    engagement: 631
+    commentsToLikes: 0.075593
+    id: ck14h3ixq8d9v0i19sh0wqibt
+    verified: false
+    hashtags: "#outfitvideo, #hardwork, #floralshirt, #mensfashion"
+  - username: "fabbroguarnieri"
+    fullname: >-
+      𝘽𝙚𝙖𝙧𝙙 • 𝙂𝙧𝙤𝙤𝙢𝙞𝙣𝙜 • 𝙎𝙩𝙮𝙡𝙚
+    location: "Italy"
+    followers: 2895
+    engagement: 2951
+    commentsToLikes: 0.116339
+    id: ckaos23hipt160i78fs4tolh2
+    verified: false
+    hashtags: "#beardseason, #beardporno, #coronabeard, #beardyman"
+  - username: "joellenakad"
+    fullname: >-
+      J o W e L
+    location: "Italy"
+    followers: 6941
+    engagement: 1491
+    commentsToLikes: 0.107974
+    id: ck14k5bl3nsv50i19ripyz4d9
+    verified: false
+    hashtags: "#ischia, #pillowchallenge, #bcharre, #ootd"
 ---

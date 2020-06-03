@@ -1,16 +1,16 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Italy In 2020
 description: >-
-  Find top barbers Instagram influencers in Italy in 2020. Most popular hashtags: #barber #barbershop #hair #barbers.
+  Find top barbers Instagram influencers in Italy in 2020. Most popular hashtags: #hair #barbers #napoli #barber.
 platform: Instagram
 profiles:
   - username: "ivanromano_"
     fullname: >-
       Ivan Romano
     location: "Italy"
-    followers: 6712
-    engagement: 1387
-    commentsToLikes: 0.070002
+    followers: 6257
+    engagement: 1402
+    commentsToLikes: 0.074402
     id: ck8t1sr2mwvnd0j785ztuxkm6
     verified: false
     hashtags: ""
@@ -18,90 +18,90 @@ profiles:
     fullname: >-
       Nando Quaranta
     location: "Italy"
-    followers: 56363
-    engagement: 412
-    commentsToLikes: 0.014261
+    followers: 56101
+    engagement: 410
+    commentsToLikes: 0.014342
     id: ck5byp2napkdc0i117bx1abfi
     verified: false
-    hashtags: "#fuego, #quarantannperdona, #newlook, #razorfade"
+    hashtags: "#unitisipu, #napoli, #solopernumeri1, #redfade"
   - username: "francesco.amoroso_barber"
     fullname: >-
       ● HAIR LOVING
     location: "Italy"
-    followers: 19457
-    engagement: 208
-    commentsToLikes: 0.018851
+    followers: 20228
+    engagement: 187
+    commentsToLikes: 0.019091
     id: ck135g51018xl0i19ypx876j0
     verified: false
-    hashtags: "#barber, #sfumazor, #razorfade, #barbero"
-  - username: "gabrielli_barbershop"
-    fullname: >-
-      Daniel Gabrielli
-    location: "Italy"
-    followers: 4123
-    engagement: 1680
-    commentsToLikes: 0.061934
-    id: ck5c6gkob5e6u0i11advgbwcv
-    verified: false
-    hashtags: "#barber, #barbergang, #sharpfade, #guyshair"
-  - username: "alessiobuccheri"
-    fullname: >-
-      •𝑻𝑯𝑬 𝑩𝑨𝑹𝑩𝑬𝑹💈
-    location: "Italy"
-    followers: 50946
-    engagement: 80
-    commentsToLikes: 0.059619
-    id: ck8ta40mgqdzm0j7858nor7jt
-    verified: false
-    hashtags: "#industrial, #andr, #panasonicbarber, #barbershop"
+    hashtags: "#hairmanstyle, #livemusic, #napoli, #livesocial"
   - username: "mikyy.ella"
     fullname: >-
       Mihaela Stelniceanu
     location: "Italy"
-    followers: 94924
-    engagement: 556
-    commentsToLikes: 0.010595
+    followers: 95327
+    engagement: 439
+    commentsToLikes: 0.012133
     id: ck134rtgixw240i190yp4hnz5
     verified: false
-    hashtags: "#changelook, #bucharest, #btconeshot2020, #menshair"
+    hashtags: "#menshair, #haircolor, #colored, #barbers"
+  - username: "alessiobuccheri"
+    fullname: >-
+      •𝑻𝑯𝑬 𝑩𝑨𝑹𝑩𝑬𝑹💈
+    location: "Italy"
+    followers: 50388
+    engagement: 67
+    commentsToLikes: 0.068684
+    id: ck8ta40mgqdzm0j7858nor7jt
+    verified: false
+    hashtags: "#andr, #serieatim, #razorcuts, #industrial"
+  - username: "gabrielli_barbershop"
+    fullname: >-
+      Daniel Gabrielli
+    location: "Italy"
+    followers: 4547
+    engagement: 1498
+    commentsToLikes: 0.064747
+    id: ck5c6gkob5e6u0i11advgbwcv
+    verified: false
+    hashtags: ""
   - username: "luigimarchinitattoos"
     fullname: >-
       Luigi Marchini Tattoos
     location: "Italy"
-    followers: 38879
-    engagement: 127
-    commentsToLikes: 0.048281
+    followers: 40175
+    engagement: 165
+    commentsToLikes: 0.040013
     id: ck0w2kws2ovlg0i19l9au3lz8
     verified: false
-    hashtags: "#tatuatoripermilano, #maoribraccio, #tribal, #tuttoandr"
+    hashtags: "#tiki, #marquesan, #totalblack, #blackwork"
+  - username: "octavianbarber"
+    fullname: >-
+      Octavian Gabriel ✪
+    location: "Italy"
+    followers: 7181
+    engagement: 689
+    commentsToLikes: 0.019265
+    id: ck8t3b8nf2m1p0j78xc0dlarh
+    verified: false
+    hashtags: "#stayhome, #stamacasa, #staysafe, #staiacasa"
   - username: "axel_barber_comolli_abc"
     fullname: >-
-      𝐀𝐗𝐄𝐋 𝐁𝐀𝐑𝐁𝐄𝐑 𝐂𝐎𝐌𝐎𝐋𝐋𝐈 𝐀𝐁𝐂 💈
+      💈𝐀𝐗𝐄𝐋 𝐁𝐀𝐑𝐁𝐄𝐑 𝐂𝐎𝐌𝐎𝐋𝐋𝐈 𝐀𝐁𝐂
     location: "Italy"
-    followers: 60122
-    engagement: 143
-    commentsToLikes: 0.011876
+    followers: 60484
+    engagement: 153
+    commentsToLikes: 0.012784
     id: ck6ubn3cpajvv0j71uknjusg3
     verified: false
-    hashtags: "#seite, #hairtattoo, #italy, #tutorial"
-  - username: "cabeza.deperro.bearded"
+    hashtags: "#beard, #future, #menshairs, #fadegame"
+  - username: "giuseppe_blackrose14"
     fullname: >-
-      Cabeza 🇮🇹🔱 TITANS 🔱🇮🇹
+      ✖ Giuseppe Pala
     location: "Italy"
-    followers: 10705
-    engagement: 1229
-    commentsToLikes: 0.075425
-    id: ck15s7cwkbleb0i1990faq49e
+    followers: 18542
+    engagement: 869
+    commentsToLikes: 0.040905
+    id: ck0txtrxzke6l0i19wl2myz4r
     verified: false
-    hashtags: "#cabezadeperrobearded, #repost, #beardedworld, #stayhome"
-  - username: "fabiocorallo1"
-    fullname: >-
-      Fabio Corallo
-    location: "Italy"
-    followers: 12005
-    engagement: 689
-    commentsToLikes: 0.160596
-    id: ck6tqe7ubqxxk0j718bq13ra0
-    verified: false
-    hashtags: "#igtv, #athomewithasos, #deseniocode, #menstyle"
+    hashtags: "#barber, #barbershop, #hair, #btcontest2020"
 ---

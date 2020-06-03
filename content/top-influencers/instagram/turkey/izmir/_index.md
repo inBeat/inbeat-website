@@ -1,9 +1,29 @@
 ---
 title: Top 10 Instagram Influencers In Izmir In 2020
 description: >-
-  Find top Instagram influencers in Izmir in 2020. Most popular hashtags: #izmir #stayathome #photography #evdekal.
+  Find top Instagram influencers in Izmir in 2020. Most popular hashtags: #fashionstyle #haircolor #fashionblogger #evdekal.
 platform: Instagram
 profiles:
+  - username: "sudedora"
+    fullname: >-
+      𝓓𝓞𝓡𝓐
+    location: "Turkey"
+    followers: 5177
+    engagement: 1551
+    commentsToLikes: 0.000000
+    id: ck8wehmhhe2bo0j78rwqa66cs
+    verified: false
+    hashtags: ""
+  - username: "drhandeyagmurkaya"
+    fullname: >-
+      Hande Yağmur Kaya
+    location: "Turkey"
+    followers: 101032
+    engagement: 885
+    commentsToLikes: 0.817825
+    id: ck135amm10jgc0i19meac7df1
+    verified: false
+    hashtags: "#stabilo, #kriterakademic, #yks2021, #fizik"
   - username: "batuuzy"
     fullname: >-
       Batuhan Cengiz 💎
@@ -13,95 +33,75 @@ profiles:
     commentsToLikes: 0.243674
     id: ck8wf9tpjfduu0j78rpl0qxj3
     verified: false
-    hashtags: "#actingwar, #foryoupage, #izmir, #takipetkinli"
+    hashtags: "#aktiftakipci, #begeni, #manisa, #izmir"
+  - username: "ayse.kaya699"
+    fullname: >-
+      Ayse Kaya ❤️
+    location: "Turkey"
+    followers: 24315
+    engagement: 947
+    commentsToLikes: 0.074043
+    id: ck9ha624zbax70j78ze8jexlq
+    verified: false
+    hashtags: "#tiktokt, #cumaliko, #gazab, #dergilik"
+  - username: "yoncacalli"
+    fullname: >-
+      Yonca Calli
+    location: "Turkey"
+    followers: 21274
+    engagement: 854
+    commentsToLikes: 0.089152
+    id: ck8td7tch29060j78vzjlhh1g
+    verified: false
+    hashtags: "#pinkdress, #gucci, #fashionbag, #goldbracelet"
+  - username: "gorkemortulll"
+    fullname: >-
+      Görkem
+    location: "Turkey"
+    followers: 12770
+    engagement: 1067
+    commentsToLikes: 0.067203
+    id: ck9wem0rtkuzd0j78dg4lju49
+    verified: false
+    hashtags: "#aesthetictumblr, #grunge, #alternative, #aestheticboy"
+  - username: "dszgn"
+    fullname: >-
+      Deniz Sezgin
+    location: "Turkey"
+    followers: 6371
+    engagement: 1140
+    commentsToLikes: 0.139959
+    id: ck9hbt3usibwo0j78r1etvy9n
+    verified: false
+    hashtags: "#yeni, #visit, #haircolor, #girl"
+  - username: "sila.ozsevinc"
+    fullname: >-
+      Sıla Özsevinç
+    location: "Turkey"
+    followers: 3975
+    engagement: 2689
+    commentsToLikes: 0.205946
+    id: ck133vnnhuarg0i19hcd79cmd
+    verified: false
+    hashtags: ""
   - username: "trendyandmom"
     fullname: >-
       TRendyandmom
     location: "Turkey"
-    followers: 5439
-    engagement: 1906
-    commentsToLikes: 0.124825
+    followers: 5928
+    engagement: 1948
+    commentsToLikes: 0.105129
     id: ck8td979h2ev80j78fee6zget
     verified: false
-    hashtags: "#yenibirbirlesmeyoncalar, #darlingglc, #naturephotography, #mondaymotivation"
-  - username: "evetliva"
+    hashtags: "#sweat, #hairstyle, #instapict, #lifestyle"
+  - username: "iskenderyuksell"
     fullname: >-
-      Liva
+      iskender yüksel
     location: "Turkey"
-    followers: 34546
-    engagement: 331
-    commentsToLikes: 0.080831
-    id: ck133voiuuaty0i19niz0jcbx
+    followers: 26833
+    engagement: 413
+    commentsToLikes: 0.281586
+    id: ckap1frpquesz0i7871u8eo8u
     verified: false
-    hashtags: "#model, #modelinglife, #streetstyle, #nikewomen"
-  - username: "leo_xandre"
-    fullname: >-
-      Leo Xandre
-    location: "Turkey"
-    followers: 32349
-    engagement: 668
-    commentsToLikes: 0.044737
-    id: ck0tvya4xdbcm0i19cnqvfk0i
-    verified: false
-    hashtags: "#kaz"
-  - username: "nurdan_civici"
-    fullname: >-
-      🌱💦🌞🌲
-    location: "Turkey"
-    followers: 5251
-    engagement: 1201
-    commentsToLikes: 0.065859
-    id: ck8t96yf3n3200j783hfcwltv
-    verified: false
-    hashtags: "#loves, #gulumseaska, #bestfriend, #cofsat"
-  - username: "dr.meldademirtasoglu"
-    fullname: >-
-      Dr. Melda Demirtasoglu
-    location: "Turkey"
-    followers: 2737
-    engagement: 1967
-    commentsToLikes: 0.095458
-    id: ck8t0azm3rg510j784lsm55c7
-    verified: false
-    hashtags: "#diamondlift, #mdcodes, #mddynacodes, #galderma"
-  - username: "avhamzadag"
-    fullname: >-
-      Hamza Dağ
-    location: "Turkey"
-    followers: 36202
-    engagement: 892
-    commentsToLikes: 0.016322
-    id: ck0w4hd9oykq70i19mjj0r7r0
-    verified: true
-    hashtags: "#yerlioto, #bay, #tb"
-  - username: "berengencalp"
-    fullname: >-
-      Beren Gençalp
-    location: "Turkey"
-    followers: 239537
-    engagement: 1810
-    commentsToLikes: 0.008429
-    id: ck5cgalqvoglv0i11f9hmg3md
-    verified: false
-    hashtags: "#set, #sokakhayvanlar, #izmirguzeliajans, #evdekal"
-  - username: "emre.street"
-    fullname: >-
-      Emre Çakmak
-    location: "Turkey"
-    followers: 4520
-    engagement: 1865
-    commentsToLikes: 0.058831
-    id: ck0w5w2d65pev0i19ys9t8yz3
-    verified: false
-    hashtags: "#spi, #spicollective, #littleboxcollective, #hikaricreative"
-  - username: "canklnc5"
-    fullname: >-
-      Can kılınç
-    location: "Turkey"
-    followers: 6303
-    engagement: 1877
-    commentsToLikes: 0.013840
-    id: ck13bjv89vrga0i197i7fp55r
-    verified: false
-    hashtags: "#pomem, #bordobereli, #sahilg, #polis"
+    hashtags: "#ulricdevarens, #jacquessaintpres, #jsp, #parfum"
 ---

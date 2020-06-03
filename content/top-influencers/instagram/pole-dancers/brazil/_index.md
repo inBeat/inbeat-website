@@ -1,29 +1,69 @@
 ---
 title: Top 10 Pole Dancers Instagram Influencers In Brazil In 2020
 description: >-
-  Find top pole dancers Instagram influencers in Brazil in 2020. Most popular hashtags: #poledance #poledancer #photography #tbt.
+  Find top pole dancers Instagram influencers in Brazil in 2020. Most popular hashtags: #portrait #yoga #poledancing #contortion.
 platform: Instagram
 profiles:
-  - username: "bibi_babydoll"
+  - username: "lohanamonteiro"
     fullname: >-
-      ℬibi ℬabydoℓℓ   🎀
+      LOHANA MONTEIRO
     location: "Brazil"
-    followers: 22421
-    engagement: 789
-    commentsToLikes: 0.018925
-    id: ck5c99ldzb1dx0i11kg7fihq0
+    followers: 17004
+    engagement: 414
+    commentsToLikes: 0.083523
+    id: ckaorstsaolmi0i78d59loant
     verified: false
-    hashtags: "#whitegoth, #hoegachallenge, #punkstyle, #chernobyl"
+    hashtags: "#fiqueemcasa, #exotic, #ruivaspwr, #polecontortion"
+  - username: "littl3hell"
+    fullname: >-
+      Lais Galdino
+    location: "Brazil"
+    followers: 7892
+    engagement: 700
+    commentsToLikes: 0.351728
+    id: ck5zt2v5ezn1o0i1418urhq70
+    verified: false
+    hashtags: "#neddle, #mataborrao, #artesplasticas, #gatinho"
+  - username: "silsexypole"
+    fullname: >-
+      Silveline Lima
+    location: "Brazil"
+    followers: 19312
+    engagement: 420
+    commentsToLikes: 0.060345
+    id: ck6tu4tf3eb5f0j711lq4fu1l
+    verified: false
+    hashtags: "#tiktok, #chairdance, #sexypole, #poledancing"
+  - username: "renaslicious"
+    fullname: >-
+      Renas
+    location: "Brazil"
+    followers: 5520
+    engagement: 386
+    commentsToLikes: 0.161825
+    id: ck6tu4ulaebbp0j71dpilbjn2
+    verified: false
+    hashtags: "#friday, #chair, #jazz, #metamorfose"
   - username: "dudinhaav"
     fullname: >-
       Dudinha Vieira
     location: "Brazil"
-    followers: 61563
-    engagement: 290
-    commentsToLikes: 0.024367
+    followers: 63879
+    engagement: 289
+    commentsToLikes: 0.024645
     id: ck13cgac106y70i199xw22npb
     verified: false
-    hashtags: "#for, #flexin, #mente, #polefit"
+    hashtags: "#flexible, #poledancer, #largadaochallenge, #mulher"
+  - username: "beatrizjusti_"
+    fullname: >-
+      Beatriz Justi
+    location: "Brazil"
+    followers: 5999
+    engagement: 1064
+    commentsToLikes: 0.069324
+    id: ckaoskiplrvgz0i78067ed6x4
+    verified: false
+    hashtags: "#schutzlovers, #photography, #poledancebr, #poledancecampinas"
   - username: "lanavstheworld"
     fullname: >-
       svetlana a.k.a. lana ✨
@@ -33,75 +73,35 @@ profiles:
     commentsToLikes: 0.019428
     id: ck5c7ajju75oh0i11p702f4ai
     verified: false
-    hashtags: "#selfportrait, #alternativegirl, #sports, #sglatinas"
-  - username: "robertamartinsa"
+    hashtags: "#summerseason, #yoga, #meowgang, #sportlife"
+  - username: "caroltorreslages"
     fullname: >-
-      Roberta Martins
+      Carol Torres
     location: "Brazil"
-    followers: 53955
-    engagement: 636
-    commentsToLikes: 0.022748
-    id: ck5zsr6eaz1jc0i14ni759afi
+    followers: 8667
+    engagement: 534
+    commentsToLikes: 0.037225
+    id: ck9wdjsaofyt00j78k5rhf69r
     verified: false
-    hashtags: ""
+    hashtags: "#enfermagemoffshore, #feriado, #acabalogoquarentena, #rodagigante"
   - username: "jvmartinsa"
     fullname: >-
-      João Vitor Martins
+      João Martins
     location: "Brazil"
-    followers: 3834
-    engagement: 1099
-    commentsToLikes: 0.073186
+    followers: 4877
+    engagement: 1166
+    commentsToLikes: 0.051694
     id: ck8sybbqikcca0j78yljcv3r1
     verified: false
-    hashtags: ""
-  - username: "gui_ambrosio"
-    fullname: >-
-      Guilherme Ambrósio
-    location: "Brazil"
-    followers: 25548
-    engagement: 169
-    commentsToLikes: 0.029405
-    id: ck8sw2f92djo60j782aw0orn1
-    verified: false
-    hashtags: "#backsupportsplit, #pdtulipa, #pdpoisson, #pdunicorn"
+    hashtags: "#worldviewmag, #selfportrait, #portrait, #blackandwhite"
   - username: "venusssmodel"
     fullname: >-
       Ágata Balazina
     location: "Brazil"
-    followers: 37382
-    engagement: 446
-    commentsToLikes: 0.018608
+    followers: 39628
+    engagement: 501
+    commentsToLikes: 0.016438
     id: ck6u94dnevfjt0j719tdhbv7m
     verified: false
-    hashtags: "#happynewyear, #tbt, #photography, #projetobelezanaturalfeminina"
-  - username: "gikreischer_"
-    fullname: >-
-      𝔊𝔦𝔬𝔳𝔞𝔫𝔫𝔞 𝔎𝔯𝔢𝔦𝔰𝔠𝔥𝔢𝔯 🇧🇷
-    location: "Brazil"
-    followers: 6803
-    engagement: 484
-    commentsToLikes: 0.039477
-    id: ck6u9qvkkz3zt0j71pc0secvw
-    verified: false
-    hashtags: "#vibe, #foto, #sundayvibes, #aulive"
-  - username: "luizaalfenas"
-    fullname: >-
-      Luiza Alfenas - Pole Dance
-    location: "Brazil"
-    followers: 8465
-    engagement: 549
-    commentsToLikes: 0.040182
-    id: ck8sw2fitdjpf0j7885wf7ywn
-    verified: false
-    hashtags: "#quarentena, #sundaybumday"
-  - username: "daniponcedeleon"
-    fullname: >-
-      Daniela Ponce de Leon
-    location: "Brazil"
-    followers: 2182
-    engagement: 1161
-    commentsToLikes: 0.079142
-    id: ck8sybfwekcsp0j7824k8ytel
-    verified: false
-    hashtags: "#poleart, #poledancebrasil, #poledance"
+    hashtags: "#trance, #photography, #projetobelezanaturalfeminina, #photoshoots"
 ---

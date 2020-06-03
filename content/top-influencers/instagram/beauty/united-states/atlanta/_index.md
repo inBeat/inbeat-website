@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Atlanta In 2020
 description: >-
-  Find top beauty Instagram influencers in Atlanta in 2020. Most popular hashtags: #beauty #atlantamodels #fashion #melanin.
+  Find top beauty Instagram influencers in Atlanta in 2020. Most popular hashtags: #beauty #atlanta #fashion #melanin.
 platform: Instagram
 profiles:
+  - username: "curlfriendari"
+    fullname: >-
+      ARIELLE
+    location: "United States"
+    followers: 60004
+    engagement: 856
+    commentsToLikes: 0.017634
+    id: ckap9ah0pru9q0i78ghbv3hrl
+    verified: false
+    hashtags: "#miraclebabe, #inches, #girlandhair, #curlcloud"
   - username: "brownsugarglam"
     fullname: >-
       Shahntay Simpson
     location: "United States"
-    followers: 44173
-    engagement: 302
-    commentsToLikes: 0.022169
+    followers: 45607
+    engagement: 310
+    commentsToLikes: 0.010635
     id: ck0u0vqocuzaw0i19gbhyac7e
     verified: false
-    hashtags: "#taliahwaajidbrand, #bloggerphotographer, #mycurlswontbecompromised, #curly"
-  - username: "kanobipollard"
+    hashtags: "#sustainable, #naturallycurly, #blessedwithkurls, #iamdarkandlovely"
+  - username: "brentnahshon"
     fullname: >-
-      ATLANTA PHOTOGRAPHER
+      𝕭𝖗𝖊𝖓𝖙: 𝕮𝖊𝖑𝖊𝖇 𝕱𝖎𝖙𝖓𝖊𝖘𝖘 𝕱𝖆𝖘𝖍𝖎𝖔𝖓𝖊𝖗
     location: "United States"
-    followers: 2425
-    engagement: 1304
-    commentsToLikes: 0.167951
-    id: ck5cbxwqjgd470i11i5s1dm1g
+    followers: 33739
+    engagement: 446
+    commentsToLikes: 0.064641
+    id: ck6tj0qxf1spr0j71dtf8aaek
     verified: false
-    hashtags: "#mixedchicks, #blackandwhite, #wereengaged, #patentleather"
-  - username: "sandrabiancophoto"
+    hashtags: "#fitnessfreaks, #nipseyblue, #wakaflocka, #africa"
+  - username: "mcarsonphotography"
     fullname: >-
-      Sandra Bianco Photography
+      Michael Carson
     location: "United States"
-    followers: 36099
-    engagement: 114
-    commentsToLikes: 0.058842
-    id: ck134m7apx43r0i19gfx4bim5
+    followers: 18946
+    engagement: 247
+    commentsToLikes: 0.028161
+    id: ck5hntgktod0y0i11vp3w5trd
     verified: false
-    hashtags: "#gainfluencer, #teenlife, #light, #painterly"
+    hashtags: "#captivating, #shustringmagazine, #editorinchief, #melanin"
   - username: "thekaylawalker"
     fullname: >-
       Kayla A. Walker
     location: "United States"
-    followers: 6111
-    engagement: 571
-    commentsToLikes: 0.050905
+    followers: 6131
+    engagement: 572
+    commentsToLikes: 0.061904
     id: ck6tvjd0wmj220j71qc3vf0d3
     verified: false
-    hashtags: "#beauty, #atlantablogger, #girlboss, #plussizemodel"
-  - username: "kevonr_photography"
+    hashtags: "#blackbeauty, #blackyoutuber, #atlantablogger, #influencer"
+  - username: "sly_inspire_me"
     fullname: >-
-      Kevon Richardson Photography
+      Slay
     location: "United States"
-    followers: 39214
-    engagement: 114
-    commentsToLikes: 0.046076
-    id: ck15tqdc9jdo30i19e2vkllzk
+    followers: 152722
+    engagement: 199
+    commentsToLikes: 0.044759
+    id: ck0tzx7vdrtvp0i195g8k7b1g
     verified: false
-    hashtags: "#virginislands, #melanin, #models, #blackandwhitephotography"
-  - username: "theleslyt"
+    hashtags: "#beautifulhomes, #cleaning, #outdoordecor, #cleanhouse"
+  - username: "arielleantoinette_makeup"
     fullname: >-
-      Lesly Trejo🇲🇽 👑
+      Pro Makeup Artist | 30 Mins
     location: "United States"
-    followers: 3369
-    engagement: 1110
-    commentsToLikes: 0.053502
-    id: ck15v11nypd3x0i19cnrkdrov
+    followers: 28092
+    engagement: 91
+    commentsToLikes: 0.156703
+    id: ck14gscd96s510i19l9ox8e58
     verified: false
-    hashtags: "#chrisbrown, #likeforlikes, #camera, #followforfollowback"
-  - username: "iamcandychristine"
+    hashtags: "#lipglosspoppin, #beautytipsandtricks, #complimentary, #atlanta"
+  - username: "mindfulmizfitz"
     fullname: >-
-      Miss COVID-19
+      Mindful Mizfitz LLC
     location: "United States"
-    followers: 29142
-    engagement: 136
-    commentsToLikes: 0.100695
-    id: ck6tv4i5bk4wf0j71rltsmpxr
+    followers: 105273
+    engagement: 220
+    commentsToLikes: 0.007785
+    id: ck0tv71mva7te0i199mv7cfhy
     verified: false
-    hashtags: "#coronavirus, #tiktok, #likeforlike, #catchflights"
-  - username: "sugaa_b"
+    hashtags: "#decaturnailtech, #decaturnails, #atlnailtech, #atlantanailart"
+  - username: "londono_smiles"
     fullname: >-
-      Sugga B
+      PORCELAIN VENEERS Dr. LONDONO
     location: "United States"
-    followers: 6674
-    engagement: 939
-    commentsToLikes: 0.015813
-    id: ck6u7z2suohvj0j71oua8i46k
+    followers: 52783
+    engagement: 125
+    commentsToLikes: 0.017766
+    id: ck6ttx4j7d2lp0j71mxuyrarn
     verified: false
-    hashtags: "#libra, #beauty, #balenciagapurse, #atlanta"
-  - username: "msgreekgoddess"
+    hashtags: "#gucci, #disen, #smilemore, #louisvuitton"
+  - username: "braidsbykamesha"
     fullname: >-
-      Christina Zangas
+      Ka’Mesha Cathcart
     location: "United States"
-    followers: 16734
-    engagement: 247
-    commentsToLikes: 0.063496
-    id: ck5zk4oteisyw0i14ebgibbmr
+    followers: 20203
+    engagement: 1302
+    commentsToLikes: 0.024172
+    id: ck15pc7izx5gk0i19c1oz3noz
     verified: false
-    hashtags: "#atlantacasting, #beauty, #love, #nudemakeup"
-  - username: "mochateee"
-    fullname: >-
-      Tae Hopkins
-    location: "United States"
-    followers: 3547
-    engagement: 1486
-    commentsToLikes: 0.070429
-    id: ck5qaosrfhhy30i11sy879oj0
-    verified: false
-    hashtags: "#darkskinmodels, #editorialmakeup, #atlantahairstylists, #supermodel"
+    hashtags: "#blackwomen, #eyelashes, #knotlessboxbraids, #jumboboxbraids"
 ---

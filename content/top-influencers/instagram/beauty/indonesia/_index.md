@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top beauty Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #caffinopremiumuser #beauthentic #caffinoxlemon.
+  Find top beauty Instagram influencers in Indonesia in 2020. Most popular hashtags: #youmakeups #dinginlebihkrek #fyp #quarantine.
 platform: Instagram
 profiles:
+  - username: "gizkhadinda"
+    fullname: >-
+      Gizkha🦄
+    location: "Indonesia"
+    followers: 42168
+    engagement: 930
+    commentsToLikes: 0.062266
+    id: ck0w4r8py008n0i19jsxv8zdz
+    verified: false
+    hashtags: "#its3secondgirls, #makeupyouaja, #youxlazada, #aftershine"
+  - username: "titantyra"
+    fullname: >-
+      Titan Tyra
+    location: "Indonesia"
+    followers: 543083
+    engagement: 760
+    commentsToLikes: 0.029802
+    id: ck0tyzli0ojh30i19s0n1w7gr
+    verified: true
+    hashtags: "#milkygelliptint, #sponsored, #photoshootideas, #you36rougelipcream"
+  - username: "cynthiadelav"
+    fullname: >-
+      C y n t h i a
+    location: "Indonesia"
+    followers: 227111
+    engagement: 578
+    commentsToLikes: 0.141412
+    id: ck5qbggeglhyw0i11y2v7gr2r
+    verified: true
+    hashtags: "#runwaylook, #eyes, #preggo, #17"
+  - username: "dearizky.e"
+    fullname: >-
+      deyah🌻
+    location: "Indonesia"
+    followers: 173678
+    engagement: 1061
+    commentsToLikes: 0.031636
+    id: ckap5a975autf0i78x2n5qn6t
+    verified: false
+    hashtags: "#ngopidirumah, #lebaranjadisultancodm, #dirumahaja, #arahkopi"
+  - username: "elenacoffey777"
+    fullname: >-
+      Elena Coffey
+    location: "Indonesia"
+    followers: 19562
+    engagement: 697
+    commentsToLikes: 0.140559
+    id: ck8t5rzc5b1ce0j78bh9g5vsq
+    verified: false
+    hashtags: "#explorehk, #travelgirlsgo, #traveldiary, #beautifuldog"
   - username: "adikunc"
     fullname: >-
       Adi Kuncoro
     location: "Indonesia"
-    followers: 4419
-    engagement: 1831
-    commentsToLikes: 0.140180
+    followers: 4483
+    engagement: 1812
+    commentsToLikes: 0.139909
     id: ck0u7btz34b020i198534nztw
     verified: false
-    hashtags: "#loves, #insanindonesia, #ubar210120ii, #humanpotrait"
-  - username: "balqisalfilatifaahh_"
+    hashtags: "#xmas, #balerina, #ayamjago, #natal"
+  - username: "zelitaptr24"
     fullname: >-
-      Balqis🌺
+      Ikke Zelita Putri💫
     location: "Indonesia"
-    followers: 3576
-    engagement: 2596
-    commentsToLikes: 0.081164
-    id: ck8t3gb6335ou0j78obe62zro
+    followers: 14209
+    engagement: 912
+    commentsToLikes: 0.228940
+    id: ck9wh8ehrwqfy0j782jhdp4ri
     verified: false
-    hashtags: "#gaunpesta, #gaunmuslimah, #lfllfllfllfllfllfllfllfllfllfllfllfllfllfllfllfllfllfllfllfllfllfllfllfllfllfl, #lflf"
-  - username: "arumi_ningsih1"
+    hashtags: "#resellerbuku, #resellerdeepublish, #bersamalawancorona, #pekanbaru"
+  - username: "michellenathh"
     fullname: >-
-      Arumi ningsih
+      𝙈𝙄𝘾𝙃𝙀𝙇𝙇𝙀 || 𝐎𝐏𝐄𝐍 𝐂𝐎𝐋𝐋𝐀𝐁𝐒 🦄
     location: "Indonesia"
-    followers: 28995
-    engagement: 300
-    commentsToLikes: 0.271033
-    id: ck6u0t59qhm2e0j71fn9u5vls
+    followers: 25813
+    engagement: 390
+    commentsToLikes: 0.471110
+    id: ck6toxnp0gog90j7109f63rpx
     verified: false
-    hashtags: "#dermasterindonesia, #caffinopremiumuser, #indobeautysquad, #love"
-  - username: "putrii_hdyn"
+    hashtags: "#bonowatch, #somebyskincare, #premiumcosmetics, #nomorelepek"
+  - username: "virellaph"
     fullname: >-
-      Mpuut👑
+      Virella Phiby
     location: "Indonesia"
-    followers: 12888
-    engagement: 666
-    commentsToLikes: 0.202187
-    id: ck137jilgbuu30i190x9ft6i3
+    followers: 25729
+    engagement: 385
+    commentsToLikes: 0.097070
+    id: ck6u096huec160j71ivkqx6rr
     verified: false
-    hashtags: "#renyahnyaberlapislapis, #aswpeduli, #jualhandsanitizermurah, #premiumcosmetics"
-  - username: "sisca.yie"
+    hashtags: "#indobeautysquad, #makeuptutorial, #tiktokindonesia, #makeupyouaja"
+  - username: "anisaagrn"
     fullname: >-
-      Sisca yie
+      Anisa Anggraeni
     location: "Indonesia"
-    followers: 56333
-    engagement: 250
-    commentsToLikes: 0.170321
-    id: ck6u0rqj7he1s0j717bvrqhvi
+    followers: 17045
+    engagement: 446
+    commentsToLikes: 0.257578
+    id: ck9wh6ozuwia10j78sf37ii5m
     verified: false
-    hashtags: "#stokdarurattetapsehat, #eskrimenak, #dirumahaja, #theshonetdotcom"
-  - username: "kiaraleswara"
-    fullname: >-
-      Kiara Leswara
-    location: "Indonesia"
-    followers: 237174
-    engagement: 371
-    commentsToLikes: 0.026013
-    id: ck0tz6ox5p8xh0i19h4s5wx0m
-    verified: true
-    hashtags: "#hypelips, #motd, #fdxpinkberry, #berrybeautifulberryyou"
-  - username: "vinaarysthadewi"
-    fullname: >-
-      🦄 VINA ARYSTHA🖤
-    location: "Indonesia"
-    followers: 8011
-    engagement: 880
-    commentsToLikes: 0.055726
-    id: ck5hhvs5eabs90i11k16x0f2f
-    verified: false
-    hashtags: "#balilivin, #thebaliguru, #thebalibible, #balime"
-  - username: "dewsari09"
-    fullname: >-
-      DEWI SARINA
-    location: "Indonesia"
-    followers: 15087
-    engagement: 399
-    commentsToLikes: 0.091208
-    id: ck136ovmu7j930i19wej8bdg3
-    verified: false
-    hashtags: "#putraputribatakindonesia, #lembang, #tendercare, #tiktok"
-  - username: "helnbelle"
-    fullname: >-
-      🌸ᕼᕮᒪᑎᗷᕮᒪᒪᕮ🌸
-    location: "Indonesia"
-    followers: 11009
-    engagement: 863
-    commentsToLikes: 0.039517
-    id: ck5q914ga8w0d0i11lnzrhfwu
-    verified: false
-    hashtags: "#whowhatwearing, #fashionize, #octolyfamily, #richmondfinchcode"
-  - username: "zeinabalihammoud"
-    fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ZEINAB HAMMOUD
-    location: "Indonesia"
-    followers: 88078
-    engagement: 337
-    commentsToLikes: 0.027020
-    id: ck0tvopfcc6fl0i19gk2wfsa6
-    verified: false
-    hashtags: "#dollypartonchallenge, #bedriven, #supportlebanese, #allotaxiapp"
+    hashtags: "#kanzlersingles, #instagood, #lightroom, #indonesiaterserahsukasukakalian"
 ---

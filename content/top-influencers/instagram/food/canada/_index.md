@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Canada In 2020
 description: >-
-  Find top food Instagram influencers in Canada in 2020. Most popular hashtags: #ad #ootd #vancouver #travel.
+  Find top food Instagram influencers in Canada in 2020. Most popular hashtags: #stayhome #beach #pressplay #quarantinelife.
 platform: Instagram
 profiles:
-  - username: "cocacarlyxoxo"
-    fullname: >-
-      ©️arly ☁️💜🦄💜☁️
-    location: "Canada"
-    followers: 8093
-    engagement: 2000
-    commentsToLikes: 0.102197
-    id: ck8t3vsfz4oaf0j78rjcu5j8y
-    verified: false
-    hashtags: "#curves, #thick, #besties, #iconswim"
-  - username: "serinasu"
-    fullname: >-
-      𝒮𝑒𝓇𝒾𝓃𝒶 𝒮𝓊 慧珊
-    location: "Canada"
-    followers: 17561
-    engagement: 1088
-    commentsToLikes: 0.052594
-    id: ck8ta17h4q2ua0j780ne6jw45
-    verified: false
-    hashtags: "#sponsored, #myeotd, #partnership, #meshki"
-  - username: "mackenzieturner0"
-    fullname: >-
-      MACKENZIE TURNER
-    location: "Canada"
-    followers: 205164
-    engagement: 435
-    commentsToLikes: 0.038154
-    id: ck6tzqsx3bb1e0j71i19ozu6k
-    verified: false
-    hashtags: "#levelup, #bringitback, #tigerking, #quickrecipes"
-  - username: "sumrahjehan"
-    fullname: >-
-      Sumrah Jehan 🕊
-    location: "Canada"
-    followers: 46082
-    engagement: 391
-    commentsToLikes: 0.144666
-    id: ck15rfjm17olh0i19qt1axb6s
-    verified: false
-    hashtags: "#husky, #fashionblogger, #styleblogger, #makeupoftheday"
   - username: "deannawoo"
     fullname: >-
       Deanna Woo: Vancouver Foodie
     location: "Canada"
-    followers: 19081
-    engagement: 483
-    commentsToLikes: 0.174266
+    followers: 19969
+    engagement: 830
+    commentsToLikes: 0.575651
     id: ck0vv5ehynmlc0i19v5dv41dt
     verified: false
-    hashtags: "#vancouverfood, #handpullednoodles, #noodlepull, #supportlocal"
+    hashtags: "#kyotoeats, #friesforgood, #japan, #supportlocalbusinesses"
+  - username: "cocacarlyxoxo"
+    fullname: >-
+      ©️arly ☁️💜🦄💜☁️
+    location: "Canada"
+    followers: 25683
+    engagement: 1606
+    commentsToLikes: 0.093038
+    id: ck8t3vsfz4oaf0j78rjcu5j8y
+    verified: false
+    hashtags: "#selfworth, #winnipeg, #friendship, #cubalibre"
+  - username: "theasianprincess"
+    fullname: >-
+      Emily
+    location: "Canada"
+    followers: 151758
+    engagement: 376
+    commentsToLikes: 0.050895
+    id: ckapcjspn43n40i78u9t1l1fs
+    verified: false
+    hashtags: "#vegan, #quarantinebirthday, #stayhome, #aprilfoolsbaby"
+  - username: "sumrahjehan"
+    fullname: >-
+      Sumrah Jehan 🕊
+    location: "Canada"
+    followers: 46512
+    engagement: 345
+    commentsToLikes: 0.155025
+    id: ck15rfjm17olh0i19qt1axb6s
+    verified: false
+    hashtags: "#lillylashes, #sumrahjehan, #abhsoftglam, #sheingals"
   - username: "soniasunger"
     fullname: >-
       Sonia Sunger
     location: "Canada"
-    followers: 6413
-    engagement: 1195
-    commentsToLikes: 0.063082
+    followers: 6581
+    engagement: 1305
+    commentsToLikes: 0.069532
     id: ck5hs2m9evvvb0i11tzyy7l3t
     verified: false
-    hashtags: "#life, #secondtrimester, #globalnews, #geneosity"
+    hashtags: "#forourseniors, #canada, #earthday, #givingfeelsgood"
+  - username: "alexemichaud"
+    fullname: >-
+      Troublemaker -📍 Mtl
+    location: "Canada"
+    followers: 12368
+    engagement: 699
+    commentsToLikes: 0.095592
+    id: ck0vyr9wk5em40i19t0q8hhj5
+    verified: false
+    hashtags: "#happy, #beigeoutfit, #lululemon, #vans"
   - username: "eliseestrada"
     fullname: >-
       Elise Estrada 🇨🇦🇵🇭
     location: "Canada"
-    followers: 54435
-    engagement: 311
-    commentsToLikes: 0.141684
+    followers: 54333
+    engagement: 282
+    commentsToLikes: 0.166648
     id: ck55q1tq0bwo50i11u1cs4847
     verified: true
-    hashtags: "#ad, #fashionnova"
-  - username: "midnababy"
+    hashtags: "#throwback, #latepost, #ad, #fashionnova"
+  - username: "charobillard"
     fullname: >-
-      Midna
+      Charlotte Robillard Millette
     location: "Canada"
-    followers: 6333
-    engagement: 2054
-    commentsToLikes: 0.037531
-    id: ck13cdzzjzw770i19zsdb0ppi
-    verified: false
-    hashtags: "#cosplayphotography, #longhairdontcare, #sunny, #lasvegas"
-  - username: "carolinesomos"
+    followers: 53023
+    engagement: 773
+    commentsToLikes: 0.017686
+    id: ck5znp19aovtp0i14icp7q3n8
+    verified: true
+    hashtags: "#quarantinelife, #stayhome, #wethenorthbaby, #albumdroppingsoon"
+  - username: "bradcsmith"
     fullname: >-
-      Caroline Somos
+      Brad Smith
     location: "Canada"
-    followers: 5475
-    engagement: 1501
-    commentsToLikes: 0.037053
-    id: ck0ty9okum20l0i195ldkj23j
-    verified: false
-    hashtags: "#handmadewardrobe, #linenlove, #memademay2019plus, #honeylitter"
-  - username: "blondehanes"
+    followers: 26200
+    engagement: 553
+    commentsToLikes: 0.042775
+    id: ck5c6lm9r5p060i11v4xh8its
+    verified: true
+    hashtags: "#zoolander, #rookiemove, #mom, #food"
+  - username: "michaelchoosefood"
     fullname: >-
-      S A R A  W E L L S
+      Michael Chew
     location: "Canada"
-    followers: 5338
-    engagement: 781
-    commentsToLikes: 0.166386
-    id: ck14hujp9c7nx0i19asz7qr08
+    followers: 15480
+    engagement: 438
+    commentsToLikes: 0.211646
+    id: ck5qce2f7q3om0i11pmlmmcsi
     verified: false
-    hashtags: "#ad, #endypartner, #6feetapart, #wholeheartedpets"
+    hashtags: "#supportlocal, #stayhome, #takeoutchallenge, #perkheropicks"
 ---

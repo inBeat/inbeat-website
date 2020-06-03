@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Canada In 2020
 description: >-
-  Find top health Instagram influencers in Canada in 2020. Most popular hashtags: #healthylifestyle #blogger #love #winnipegblogger.
+  Find top health Instagram influencers in Canada in 2020. Most popular hashtags: #ad #stayhealthy #transformation #selflove.
 platform: Instagram
 profiles:
-  - username: "50shadesofpink"
+  - username: "nikkibigger"
     fullname: >-
-      🎀 annie miao ( 安寻 ) 🎀
+      𝗻𝗶𝗸𝗸𝗶 | 𝘃𝗮𝗻𝗹𝗶𝗳𝗲 | 𝗵𝗲𝗮𝗹𝘁𝗵
     location: "Canada"
-    followers: 54878
-    engagement: 1408
-    commentsToLikes: 0.015689
-    id: ck6u2ofozszp60j71ub0mfzm2
+    followers: 29281
+    engagement: 605
+    commentsToLikes: 0.061415
+    id: ck55q9l7ycit90i119kylx4o9
     verified: false
-    hashtags: "#myprimestudent, #modified, #fliptheswitch, #sugarthrillz"
-  - username: "gabriellettongol"
+    hashtags: "#staywild, #gentlefawn, #vanliving, #outfitinspo"
+  - username: "fitness_by_vivi"
     fullname: >-
-      Call Me GABS | IFBB Pro
+      Viviana Castro
     location: "Canada"
-    followers: 41121
-    engagement: 232
-    commentsToLikes: 0.119779
-    id: ck8sxlabxht8v0j78dy7rgxmu
+    followers: 14450
+    engagement: 895
+    commentsToLikes: 0.141624
+    id: ck5hn6kiqnauo0i11s6yx0brx
     verified: false
-    hashtags: "#novababe, #gabfam, #believesupplements, #arnoldsportsfestival"
-  - username: "missmaisaa"
+    hashtags: "#proudmom, #sisters, #teamfitnessbyvivi, #beachbody"
+  - username: "ownitbabe"
     fullname: >-
-      Maisa | Fashion Beauty Travel
+      Rini Frey
     location: "Canada"
-    followers: 53956
-    engagement: 228
-    commentsToLikes: 0.393914
-    id: ck0w4wji80r800i19r3o1c9cj
-    verified: false
-    hashtags: "#canada, #finderskeepers, #sephorafavorites, #vacationoutfit"
-  - username: "jordanshrinks"
-    fullname: >-
-      J O R D O 🕸
-    location: "Canada"
-    followers: 320454
-    engagement: 737
-    commentsToLikes: 0.009599
-    id: ck0vzixit9c0w0i1937jyxb1q
-    verified: false
-    hashtags: "#foodaddiction, #doodlesofinstagram, #poodlesofinstagram, #girlgang"
-  - username: "laceynelson"
-    fullname: >-
-      L A C E Y ⋆ N E L S O N
-    location: "Canada"
-    followers: 98094
-    engagement: 159
-    commentsToLikes: 0.041186
-    id: ck5hhdilt7o240i116tniixl6
-    verified: false
-    hashtags: "#happygirl, #ohcanada, #falala, #alalaallday"
+    followers: 171228
+    engagement: 536
+    commentsToLikes: 0.031547
+    id: ck5pxdi35r9jc0i1186hp3wt2
+    verified: true
+    hashtags: "#bodyimage, #recovery, #selfcare, #stayhome"
   - username: "kgmtl"
     fullname: >-
       Katherine Garbarino
     location: "Canada"
-    followers: 63241
-    engagement: 429
-    commentsToLikes: 0.025653
+    followers: 63255
+    engagement: 535
+    commentsToLikes: 0.035732
     id: ck55ke17yz3wj0i11cnnamu23
     verified: false
-    hashtags: "#ronalife, #staytuned, #killingit, #onepickris"
-  - username: "paigespath"
+    hashtags: "#missmygirls, #kgchallenge, #sephoracanada, #freshbeauty"
+  - username: "sameerayounesi"
     fullname: >-
-      Paige | Fitness | Self Love
+      samEEra
     location: "Canada"
-    followers: 14632
-    engagement: 1043
-    commentsToLikes: 0.026175
-    id: ck8t0w37stjmp0j78qe9jvj53
+    followers: 23652
+    engagement: 1515
+    commentsToLikes: 0.022272
+    id: ck5ck91mewe070i11cuzzh0bo
     verified: false
-    hashtags: "#fitcoverlover, #normalizenormalbodies"
-  - username: "lifeofshimmy"
+    hashtags: "#christmas, #memories, #summer, #staypositive"
+  - username: "princeofkelowna"
     fullname: >-
-      Shimmy
+      Dane Rupert
     location: "Canada"
-    followers: 3256
-    engagement: 1094
-    commentsToLikes: 0.127522
-    id: ck6tphaoujv5b0j7152lbnbth
+    followers: 29177
+    engagement: 1077
+    commentsToLikes: 0.021542
+    id: ck5q8kr7y6o5y0i11duofy4le
     verified: false
-    hashtags: "#morethanamom, #womanempowerment, #cute, #cutiepie"
-  - username: "samanthayounger_"
+    hashtags: "#ad, #happyhalloween, #prettyboys, #photoshoot"
+  - username: "jordanshrinks"
     fullname: >-
-      Samantha Younger
+      J O R D O ♡
     location: "Canada"
-    followers: 4749
-    engagement: 2192
-    commentsToLikes: 0.102998
-    id: ck14ib7eyejlt0i19s8o9w0uv
+    followers: 318769
+    engagement: 760
+    commentsToLikes: 0.013613
+    id: ck0vzixit9c0w0i1937jyxb1q
     verified: false
-    hashtags: "#workouttights, #sleepyhead, #canadagiveaway, #babyclothes"
-  - username: "bottlesnblondes"
+    hashtags: "#handtransformation, #birthday, #decadechallenge, #getshreddy2020"
+  - username: "letterstolalaland"
     fullname: >-
-      Kayla Murray & Ashley Trethart
+      Nermisa Omerovic
     location: "Canada"
-    followers: 5761
-    engagement: 832
-    commentsToLikes: 0.238344
-    id: ck6tuplthhoh30j71xpyfyu2g
+    followers: 21818
+    engagement: 394
+    commentsToLikes: 0.098609
+    id: ckap2hq25yvss0i787ifxtjs3
     verified: false
-    hashtags: "#selflove, #happythoughts, #motherhoodinspired, #dueinjune"
+    hashtags: "#shopandshout, #linkinbio, #yourauranutrition, #vitahealth"
+  - username: "yesmissy"
+    fullname: >-
+      Eileen Lazazzera
+    location: "Canada"
+    followers: 26277
+    engagement: 280
+    commentsToLikes: 0.119501
+    id: ck0tzy706rymy0i1904xmoqg5
+    verified: false
+    hashtags: "#babor, #baborlove, #gbeauty, #flowerbombdew"
+  - username: "ericawatsonfit"
+    fullname: >-
+      Erica
+    location: "Canada"
+    followers: 3104
+    engagement: 1397
+    commentsToLikes: 0.303463
+    id: ck9hbfl75glwj0j780pbbf5b3
+    verified: false
+    hashtags: "#progress, #honestytime, #cozyvibes, #quickworkout"
 ---

@@ -1,89 +1,89 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Bali In 2020
 description: >-
-  Find top beauty Instagram influencers in Bali in 2020. Most popular hashtags: #bali #beauty #balilife #love.
+  Find top beauty Instagram influencers in Bali in 2020. Most popular hashtags: #beauty #baliisland #dirumahaja #sunset.
 platform: Instagram
 profiles:
-  - username: "oskarmunar"
+  - username: "ikasanz"
     fullname: >-
-      Oscar Munar
+      Ikasanz Yoe ♠️
     location: "Indonesia"
-    followers: 25998
-    engagement: 279
-    commentsToLikes: 0.026895
-    id: ck5hklposingx0i11acybdtje
+    followers: 45189
+    engagement: 189
+    commentsToLikes: 0.642008
+    id: ck9wgk1f5trp10j78o2ldtyun
     verified: false
-    hashtags: "#model, #fashion, #brand, #magazine"
-  - username: "kate_shpak"
-    fullname: >-
-      Катерина
-    location: "Indonesia"
-    followers: 2432
-    engagement: 3062
-    commentsToLikes: 0.018365
-    id: ck0u7r6kt5lsq0i19evohvnu7
-    verified: false
-    hashtags: "#nightcity, #igsg, #riceterrace, #vsco"
+    hashtags: "#snack, #sunset, #cemilanenak, #purelemon"
   - username: "tolebaguswiyata"
     fullname: >-
       EXPLORE BALI ISLANDS 🌴
     location: "Indonesia"
-    followers: 2459
-    engagement: 1711
-    commentsToLikes: 0.176302
+    followers: 2461
+    engagement: 1657
+    commentsToLikes: 0.156245
     id: ck55oe23e868h0i113368mfcy
     verified: false
     hashtags: "#stayinsideffa"
-  - username: "_twiggy_13"
+  - username: "sveta_varganova"
     fullname: >-
-      T⠀A⠀T⠀I
+      Светлана Варганова
     location: "Indonesia"
-    followers: 136129
-    engagement: 270
-    commentsToLikes: 0.044676
-    id: ck5q5t0nbug340i11jt64sbkc
+    followers: 17083
+    engagement: 570
+    commentsToLikes: 0.027040
+    id: ck15s4hjib6ks0i19a6rmvlu5
     verified: false
-    hashtags: "#ubud, #sunlightbrilliant, #exploremore, #canggu"
-  - username: "lucycates"
+    hashtags: "#beautifulsrilanka, #udawalawe, #safari, #weligama"
+  - username: "lucubangetkk.reall"
     fullname: >-
-      Lucy Cates
+      lucubangetkk
     location: "Indonesia"
-    followers: 51399
-    engagement: 162
-    commentsToLikes: 0.023528
-    id: ck5qaoefahg450i11q82c5yal
+    followers: 184026
+    engagement: 119
+    commentsToLikes: 0.052026
+    id: ck9we1qp8i71y0j786wpeoloa
     verified: false
-    hashtags: "#fashionstyle, #meetthesupremeteam, #ootd, #alivetoday"
-  - username: "cobracow"
-    fullname: >-
-      Photographer
-    location: "Indonesia"
-    followers: 24691
-    engagement: 280
-    commentsToLikes: 0.021024
-    id: ck5hfcxtqwwfc0i11fjo8re7k
-    verified: false
-    hashtags: "#modelphotography, #bali, #beauty, #throwback"
-  - username: "fashionstatementsbyq"
-    fullname: >-
-      Querine Noëlle van Wijk
-    location: "Indonesia"
-    followers: 21179
-    engagement: 154
-    commentsToLikes: 0.036226
-    id: ck0tzz22ms2ve0i19ytkod7wc
-    verified: false
-    hashtags: "#ubudresort, #beautyroutine, #jannata, #roze"
+    hashtags: "#lord, #tesiq, #hijabers, #music"
   - username: "amospabali"
     fullname: >-
       Amo Spa Bali
     location: "Indonesia"
-    followers: 25902
-    engagement: 274
-    commentsToLikes: 0.019749
+    followers: 25599
+    engagement: 192
+    commentsToLikes: 0.024037
     id: ck5zq5ri7tzn10i1413tqhwy8
     verified: false
-    hashtags: "#hairspa, #nailsbali, #balievent, #balidelicious"
+    hashtags: "#balimanicure, #balihealthyfood, #magic, #smoothie"
+  - username: "ailana_ula"
+    fullname: >-
+      Ailana
+    location: "Indonesia"
+    followers: 9570
+    engagement: 854
+    commentsToLikes: 0.039835
+    id: ck55k6gpvyl680i119ixbro4h
+    verified: false
+    hashtags: "#love, #sonyplaystation, #balisunset, #beauty"
+  - username: "heidikhalid"
+    fullname: >-
+      هَـايــدِيْ
+    location: "Indonesia"
+    followers: 115038
+    engagement: 131
+    commentsToLikes: 0.013293
+    id: ck600qaafe2ep0i14tdw0161g
+    verified: false
+    hashtags: "#travellover, #whitedress, #emirates, #abyusif"
+  - username: "sayble"
+    fullname: >-
+      Sayble
+    location: "Indonesia"
+    followers: 54892
+    engagement: 73
+    commentsToLikes: 0.111268
+    id: ck0w4gt9uyhur0i1904ozj051
+    verified: false
+    hashtags: "#finnsbeachclub, #finnsrecclub, #instytutum, #findingflawless"
   - username: "igawinda"
     fullname: >-
       WINDA
@@ -94,14 +94,14 @@ profiles:
     id: ck5ce8ip3kjvg0i11sx78jynv
     verified: false
     hashtags: "#selfquarantine, #workfromhome, #plataranmenjangan, #plataranencounter"
-  - username: "wirda_mansur"
+  - username: "kate_shpak"
     fullname: >-
-      𝐖 𝐢 𝐫 𝐝 𝐚 𝐌 𝐚 𝐧 𝐬 𝐮 𝐫
+      Катерина
     location: "Indonesia"
-    followers: 2535499
-    engagement: 829
-    commentsToLikes: 0.007830
-    id: ck0twciutevv20i19polyszmw
-    verified: true
-    hashtags: "#visitindonesia, #bali, #dreamday2019, #beauty"
+    followers: 2391
+    engagement: 3125
+    commentsToLikes: 0.018013
+    id: ck0u7r6kt5lsq0i19evohvnu7
+    verified: false
+    hashtags: "#sevkabelport, #animals, #natural, #bestoftheday"
 ---

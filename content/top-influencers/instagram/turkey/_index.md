@@ -1,109 +1,109 @@
 ---
 title: Top 10 Instagram Influencers In Turkey In 2020
 description: >-
-  Find top Instagram influencers in Turkey in 2020. Most popular hashtags: #evdekal #ke #tbt #foryou.
+  Find top Instagram influencers in Turkey in 2020. Most popular hashtags: #stayhome #happymothersday #baby #tb.
 platform: Instagram
 profiles:
-  - username: "ladyhavucellaa"
+  - username: "nbuseyildiz"
     fullname: >-
-      
+      Buse Neslihan Yıldız
     location: "Turkey"
-    followers: 61917
-    engagement: 728
-    commentsToLikes: 0.074911
-    id: ck8wexmebes0m0j7811trsq55
+    followers: 17918
+    engagement: 3481
+    commentsToLikes: 0.199389
+    id: ck8t45y1v5mg00j78790d2a6x
     verified: false
-    hashtags: "#bubirdeneme, #titizde, #kan, #mertkocak"
-  - username: "ugurrbay"
+    hashtags: "#familyfirst, #donutgirl, #bablove, #donutmonster"
+  - username: "elifbbc"
     fullname: >-
-      
+      Cristina Elif Boboc 🤡
     location: "Turkey"
-    followers: 324468
-    engagement: 1089
-    commentsToLikes: 0.080307
-    id: ck602hb1bhe3l0i14yvd2gnba
+    followers: 211690
+    engagement: 2884
+    commentsToLikes: 0.552525
+    id: ck139k7k8lpug0i19m8udu3ca
     verified: false
-    hashtags: "#altin, #altinkolye, #cekilisvar, #firsat"
-  - username: "bayan.32dis"
+    hashtags: "#23nisan, #elifdaniwedding"
+  - username: "izgisimal"
     fullname: >-
-      Ebru Güneş 🎩
+      Şimal İzgi 🍒
     location: "Turkey"
-    followers: 126365
-    engagement: 668
-    commentsToLikes: 0.042314
-    id: ck8wf3d9kf29r0j78lneszht1
+    followers: 2764
+    engagement: 2747
+    commentsToLikes: 0.133969
+    id: ckaot27amu1im0i78imlj088h
     verified: false
-    hashtags: "#ohadoymad, #fyp, #evindekalt, #anasayfa"
-  - username: "batuuzy"
+    hashtags: "#purple, #lilacmakeup, #makeuplook, #quarantine"
+  - username: "berkriptepe"
     fullname: >-
-      Batuhan Cengiz 💎
+      Berk Tepe
     location: "Turkey"
-    followers: 7598
-    engagement: 1591
-    commentsToLikes: 0.243674
-    id: ck8wf9tpjfduu0j78rpl0qxj3
+    followers: 180049
+    engagement: 2639
+    commentsToLikes: 0.229496
+    id: ck15r51zv66so0i19cm463bfq
     verified: false
-    hashtags: "#actingwar, #foryoupage, #izmir, #takipetkinli"
-  - username: "onewaythreetickets"
+    hashtags: "#faceoffrocks, #gist2019, #fullperformans"
+  - username: "ahmetkerem.photogallery"
     fullname: >-
-      AYLİN▪️Travel Blog
+      Ahmet Kerem
     location: "Turkey"
-    followers: 6177
-    engagement: 1583
-    commentsToLikes: 0.102114
-    id: ck8t941jcmw040j78xqjh4bm7
+    followers: 5176
+    engagement: 2552
+    commentsToLikes: 0.095872
+    id: ck5cbjiqxfk3a0i113csc24f6
     verified: false
-    hashtags: "#onewayitaly, #omewayfrance, #kap, #schengencountry"
-  - username: "simlipullu"
+    hashtags: "#evindekalt, #kula, #cappadocia"
+  - username: "pqueen92"
     fullname: >-
-      Simay Çetinkaya Pullu
+      Pelin "Pqueen" Baynazoğlu
     location: "Turkey"
-    followers: 5120
-    engagement: 2198
-    commentsToLikes: 0.131060
-    id: ck8t3cgo62qsy0j78b6gwj87u
+    followers: 130481
+    engagement: 2413
+    commentsToLikes: 0.081830
+    id: ckap8hq5vocr90i784pnsmncw
     verified: false
-    hashtags: "#geziyorum, #pazarkeyfi, #traveling, #stayhome"
-  - username: "mustafacaglaa"
+    hashtags: "#forglory, #steelseriestr, #steelseries, #tb"
+  - username: "asliarslaan"
     fullname: >-
-      Mustafa Çağla Seçkin
+      Aslı Arslan
     location: "Turkey"
-    followers: 15692
-    engagement: 1401
-    commentsToLikes: 0.153348
-    id: ck6ucddlaexuk0j71o2zuyu2t
+    followers: 26628
+    engagement: 2348
+    commentsToLikes: 0.191849
+    id: ck5c86h4p8v8g0i11zpfkcvlz
     verified: false
-    hashtags: "#threemonthsold, #baby, #tbt, #evdekal"
-  - username: "ezgiiozturkk1"
+    hashtags: "#imzag, #emarets, #sokakn, #stayhome"
+  - username: "busrasaricayilmz"
     fullname: >-
-      Ezgi Öztürk
+      BÜŞRA YILMAZ
     location: "Turkey"
-    followers: 21456
-    engagement: 934
-    commentsToLikes: 0.184404
-    id: ck6typupd55vt0j71zkx82p3w
+    followers: 5578
+    engagement: 2218
+    commentsToLikes: 0.269443
+    id: ck8t5dp4r9s6p0j787zw7b1yn
     verified: false
-    hashtags: "#makeupparty, #makeuplover, #makeuplook, #makeuplovers"
-  - username: "hazretiyasuo"
+    hashtags: "#babyroom, #hayateves, #babygirl, #momlife"
+  - username: "seda.erdim"
     fullname: >-
-      Mustafa YAVUZ
+      Seda Erdim
     location: "Turkey"
-    followers: 627558
-    engagement: 875
-    commentsToLikes: 0.082471
-    id: ck6tkjcbm4thw0j71s48ta2p6
+    followers: 371118
+    engagement: 2162
+    commentsToLikes: 0.077837
+    id: ck136k37f6w0o0i19rl1ptxoz
     verified: true
-    hashtags: "#altin, #altinkolye, #cekilis, #cekiliszamani"
-  - username: "hakki_alkan"
+    hashtags: "#hikayedekalmas, #hayateves, #tb, #monkey"
+  - username: "gokberkdemirci"
     fullname: >-
-      Hakkı Alkan
+      Gökberk Demirci
     location: "Turkey"
-    followers: 197894
-    engagement: 646
-    commentsToLikes: 0.309967
-    id: ck5zvc1ra3y7c0i14cjpilo1u
-    verified: true
-    hashtags: "#365gunkadinlargunu, #tbt, #rome, #cowabunga"
+    followers: 322950
+    engagement: 2151
+    commentsToLikes: 0.060044
+    id: ck13bdc6juvuu0i19ymq1gb9i
+    verified: false
+    hashtags: "#yemin, #bestfriend, #blackandwhite, #wedding"
 cities:
   - name: Istanbul
     link: /instagram/turkey/istanbul

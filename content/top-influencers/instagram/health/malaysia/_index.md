@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top health Instagram influencers in Malaysia in 2020. Most popular hashtags: #love #tiktok #covid19 #fyp.
+  Find top health Instagram influencers in Malaysia in 2020. Most popular hashtags: #covid19 #throwback #indonesia #food.
 platform: Instagram
 profiles:
-  - username: "drkaylateh"
-    fullname: >-
-      Dr. Kayla Teh
-    location: "Malaysia"
-    followers: 26652
-    engagement: 517
-    commentsToLikes: 0.025908
-    id: ck15t2goag0fj0i19vfi3ldr6
-    verified: false
-    hashtags: "#sudio, #untiltomorrow, #memelord, #streettalk"
-  - username: "roshan_rb"
-    fullname: >-
-      Roshan Basheer
-    location: "Malaysia"
-    followers: 116843
-    engagement: 1087
-    commentsToLikes: 0.005496
-    id: ck13ae1yipxka0i1970tmkm7f
-    verified: true
-    hashtags: "#precaution, #singlepassanga, #janatacurfew, #killingtime"
-  - username: "mfmirafilzahlovers"
-    fullname: >-
-      MIRA FILZAH
-    location: "Malaysia"
-    followers: 18417
-    engagement: 1284
-    commentsToLikes: 0.012368
-    id: ck8tcm6slzwg10j78tbnspiyn
-    verified: false
-    hashtags: "#mirafilzah, #miraclegacy, #iloveyou1million, #iloveyouonemillion"
-  - username: "say_shazril"
-    fullname: >-
-      Dr Shazril Shaharuddin
-    location: "Malaysia"
-    followers: 263296
-    engagement: 227
-    commentsToLikes: 0.021062
-    id: ck0w05qxycif70i19ljie6dya
-    verified: false
-    hashtags: "#cleanhandschallenge, #floralfragrance, #myacer, #proacnesolution"
   - username: "nikitamenonv"
     fullname: >-
       nikita ☀️
     location: "Malaysia"
-    followers: 20911
-    engagement: 667
-    commentsToLikes: 0.015732
+    followers: 26237
+    engagement: 1005
+    commentsToLikes: 0.016862
     id: ck15sqjuxebls0i1990xy9eaw
     verified: false
-    hashtags: "#day10, #savagechallenge, #haircare, #skincare"
+    hashtags: "#day55, #downsyndrome, #culturalchallenge, #desi"
+  - username: "drkaylateh"
+    fullname: >-
+      Dr. Kayla Teh
+    location: "Malaysia"
+    followers: 31695
+    engagement: 512
+    commentsToLikes: 0.031854
+    id: ck15t2goag0fj0i19vfi3ldr6
+    verified: false
+    hashtags: "#giantlifeisthuglife, #dentists, #kitajagakita, #selamathariraya"
+  - username: "isabelleman2"
+    fullname: >-
+      Isabelle Man
+    location: "Malaysia"
+    followers: 9704
+    engagement: 421
+    commentsToLikes: 0.092717
+    id: ck0tyggo2mpog0i191owr96k3
+    verified: false
+    hashtags: "#video, #morning, #luck, #sweating"
+  - username: "saroop_roshi"
+    fullname: >-
+      S A R O O P   R O S H I
+    location: "Malaysia"
+    followers: 5457
+    engagement: 585
+    commentsToLikes: 0.041267
+    id: ckaoykag0hu0r0i7822vsaa3u
+    verified: false
+    hashtags: "#sunkissed, #nofoundationmakeup, #eidmubarak, #summerglow"
+  - username: "roshan_rb"
+    fullname: >-
+      Roshan Basheer
+    location: "Malaysia"
+    followers: 123767
+    engagement: 940
+    commentsToLikes: 0.007232
+    id: ck13ae1yipxka0i1970tmkm7f
+    verified: true
+    hashtags: "#happymothersday, #getbacktoitsoon, #carbonblackandwhite, #bnw"
+  - username: "goldisenna"
+    fullname: >-
+      Goldi Senna Prabowo
+    location: "Malaysia"
+    followers: 15840
+    engagement: 410
+    commentsToLikes: 0.049500
+    id: ck9wha7gywzln0j78pawveg3m
+    verified: false
+    hashtags: "#stopbullying, #passthetowelchallenge, #instagram, #indonesianidolathome"
+  - username: "sereneclaire_"
+    fullname: >-
+      Serene Claire 蔡咏彬
+    location: "Malaysia"
+    followers: 53682
+    engagement: 143
+    commentsToLikes: 0.015825
+    id: ck5q25az2ec9u0i11dax8gnxl
+    verified: false
+    hashtags: "#malaysia, #universeunited, #value, #covid19malaysia"
   - username: "adelinetsen"
     fullname: >-
       Barbie Tsen
     location: "Malaysia"
-    followers: 808984
+    followers: 820538
     engagement: 98
-    commentsToLikes: 0.012610
+    commentsToLikes: 0.009369
     id: ck5zu0xcl1h7b0i1400hepbm5
     verified: true
-    hashtags: "#workout, #40secchallenge, #movie, #selfie"
-  - username: "_boblow"
+    hashtags: "#mom, #mydashingdiva, #jamu, #kitajagakita"
+  - username: "auliyati.rahmi"
     fullname: >-
-      Bob Low 刘丝儿
+      KELAS DIET SPESIAL RAMADHAN
     location: "Malaysia"
-    followers: 36154
-    engagement: 624
-    commentsToLikes: 0.033788
-    id: ck5c5iynj3kba0i11q6datx22
+    followers: 23185
+    engagement: 5
+    commentsToLikes: 0.021334
+    id: ck0w0qn6xfkff0i19jxmkz14h
     verified: false
-    hashtags: "#sundayvibe, #hermesss20, #healthylifestyle, #saladatelier"
-  - username: "bibbideg"
+    hashtags: "#iedwithklamby2020, #raflesiadress, #malaysia, #bugar"
+  - username: "meddy_bear"
     fullname: >-
-      Bibbi Deg
+      Meddy Bear - Medical Community
     location: "Malaysia"
-    followers: 592956
-    engagement: 169
-    commentsToLikes: 0.039491
-    id: ck8wf2p49f12y0j78ew0wb5o2
+    followers: 258893
+    engagement: 78
+    commentsToLikes: 0.014664
+    id: ck5che9l6qlu60i11kz8ejvnx
     verified: false
-    hashtags: "#portrait, #ultrainstinct, #candy, #lgbtq"
-  - username: "loojialeeeee"
-    fullname: >-
-      大牛家樂 DanielLe
-    location: "Malaysia"
-    followers: 18716
-    engagement: 1399
-    commentsToLikes: 0.015795
-    id: ck5chwiurrlc70i117viql1sq
-    verified: false
-    hashtags: "#21stbirthday, #youtuber, #malaysian, #chor1"
-  - username: "pixiegoh"
-    fullname: >-
-      PixXie Goh 🧚🏽‍♀️
-    location: "Malaysia"
-    followers: 27934
-    engagement: 288
-    commentsToLikes: 0.053848
-    id: ck0vzrrafale30i19hgb2gxk2
-    verified: false
-    hashtags: "#ojeshdreamteam, #theme, #vacation, #alwayslearning"
+    hashtags: "#medicastudents, #pediatrics, #criticalcare, #flightmedicine"
 ---

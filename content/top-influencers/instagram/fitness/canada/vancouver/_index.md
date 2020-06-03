@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Vancouver In 2020
 description: >-
-  Find top fitness Instagram influencers in Vancouver in 2020. Most popular hashtags: #vancouver #vancouverbc #ad #stayhome.
+  Find top fitness Instagram influencers in Vancouver in 2020. Most popular hashtags: #vancouver #fitness #2020 #quarantine.
 platform: Instagram
 profiles:
-  - username: "dr.moravej"
+  - username: "phaedrafitness"
     fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𝐄𝐧𝐭𝐫𝐞𝐩𝐫𝐞𝐧𝐞𝐮𝐫
+      Phaedra Fitness
     location: "Canada"
-    followers: 19292
-    engagement: 724
-    commentsToLikes: 0.128933
-    id: ck5hr8g6fug1m0i11z86qyn2j
+    followers: 211245
+    engagement: 215
+    commentsToLikes: 0.033144
+    id: ck15r3dcd5xui0i195ny3gv86
     verified: false
-    hashtags: "#photooftheday, #follow, #club16, #nike"
-  - username: "_davisvasconcellos_"
+    hashtags: "#flexibilitytips, #flexibilitygoals, #2020fashiontrends, #reopening"
+  - username: "saschie"
     fullname: >-
-      Davis Vasconcellos
+      Saschie MacLean-Magbanua
     location: "Canada"
-    followers: 6238
-    engagement: 1133
-    commentsToLikes: 0.037338
-    id: ck0tyqjwhnst20i19aqv4fxpm
+    followers: 2138
+    engagement: 1440
+    commentsToLikes: 0.127969
+    id: ck6ublk5gaah10j71yt8k9dhv
     verified: false
-    hashtags: "#failarmy, #dontgetcaughtslippin, #nikepk, #athlete"
-  - username: "raianemacedo"
+    hashtags: "#vancouver, #fitness, #formationstudio, #goals"
+  - username: "okinfografia"
     fullname: >-
-      Raiane 🇧🇷
+      Carolina Jimenez G.
     location: "Canada"
-    followers: 18400
-    engagement: 322
-    commentsToLikes: 0.101975
-    id: ck15uiqx2ndhu0i19zp7oeqvz
+    followers: 7380
+    engagement: 646
+    commentsToLikes: 0.026433
+    id: ck8syfi7lkoff0j78c41twup2
     verified: false
-    hashtags: "#carnaval, #chattershairsalon, #sharethechatter, #wearealltogetherinthis"
-  - username: "terriling"
+    hashtags: "#stayhealthy, #staycreative, #selfies, #stayapart"
+  - username: "wil.loh"
     fullname: >-
-      Terri Ling
+      WILSON LOH | VANCOUVER FITNESS
     location: "Canada"
-    followers: 5196
-    engagement: 518
-    commentsToLikes: 0.033275
-    id: ck6tyqp7i5as30j71fscihmib
+    followers: 11797
+    engagement: 1229
+    commentsToLikes: 0.047146
+    id: ckap4u9908wjn0i78sn655hv2
     verified: false
-    hashtags: "#pursuepretty, #lookoftheday, #igfitness, #fitnessgirl"
-  - username: "georginastokes"
+    hashtags: "#flex, #paragonfitwear, #fitnessfanatic, #abs"
+  - username: "kym.lifts"
     fullname: >-
-      Georgina Stokes
+      KYM LIFTS | VANCOUVER FITNESS
     location: "Canada"
-    followers: 22522
-    engagement: 256
-    commentsToLikes: 0.231228
-    id: ck0u2m58p0bft0i19mptc9k27
+    followers: 2268
+    engagement: 1670
+    commentsToLikes: 0.109296
+    id: ckapc9tbw2ypm0i787oi9cbo1
     verified: false
-    hashtags: "#couplesquestions, #ad, #flattenthecurve, #glutenfree"
+    hashtags: "#bikiniprep2020, #teamhd, #naturalbodybuilding, #bodybuildingbikini"
+  - username: "mahtab_haghighi"
+    fullname: >-
+      Mahtab H
+    location: "Canada"
+    followers: 7162
+    engagement: 504
+    commentsToLikes: 0.058002
+    id: ck14ggbi952yv0i19vz1dw3ui
+    verified: false
+    hashtags: "#north, #singing, #annabelle, #britishcolumbia"
+  - username: "lifewithimran"
+    fullname: >-
+      Imran Rai✨| Blogger
+    location: "Canada"
+    followers: 3234
+    engagement: 1311
+    commentsToLikes: 0.051582
+    id: ckapbzsev1x4c0i780qd4fewz
+    verified: false
+    hashtags: "#quarantine"
+  - username: "thenovastevens"
+    fullname: >-
+      NOVA
+    location: "Canada"
+    followers: 15401
+    engagement: 266
+    commentsToLikes: 0.158709
+    id: ck0w45h9zwwvm0i196d0rjxe8
+    verified: false
+    hashtags: "#missuniverse, #highfashion, #disneyprincesses, #newyear"
+  - username: "jonniedanes"
+    fullname: >-
+      Jonnie Danes
+    location: "Canada"
+    followers: 13653
+    engagement: 527
+    commentsToLikes: 0.035467
+    id: ck0vy6o2f2hn90i195uf71yr0
+    verified: false
+    hashtags: "#livingmybestlife, #doglife, #dogslife, #greatdanesofig"
   - username: "alicia.waters"
     fullname: >-
       Alicia Waters
     location: "Canada"
-    followers: 2353
-    engagement: 1075
-    commentsToLikes: 0.076215
+    followers: 2296
+    engagement: 936
+    commentsToLikes: 0.077933
     id: ck0w31vv3r7n80i19w7s8n0ir
     verified: false
-    hashtags: "#saturdaynight, #fraservalleybuzz, #nature, #yvr"
-  - username: "daniellee.p"
-    fullname: >-
-      Danielle Pham
-    location: "Canada"
-    followers: 5669
-    engagement: 1595
-    commentsToLikes: 0.048974
-    id: ck6tsrcq56eis0j71802jl7ye
-    verified: false
-    hashtags: "#marketing, #fashionmodel, #golden, #smashdatunfollowifuski"
-  - username: "georgiastraight"
-    fullname: >-
-      Georgia Straight
-    location: "Canada"
-    followers: 50352
-    engagement: 61
-    commentsToLikes: 0.019215
-    id: ck5zzh213bq680i14bmsmfwk2
-    verified: false
-    hashtags: "#homecooking, #gaming, #facemask, #homedesign"
-  - username: "purelyplantpowered_"
-    fullname: >-
-      CRISTINA 🦋
-    location: "Canada"
-    followers: 4073
-    engagement: 801
-    commentsToLikes: 0.236844
-    id: ck6trzfcy1yrf0j71r5m0osjh
-    verified: false
-    hashtags: "#jordwatch, #silverhillsbakery, #shamrockshake, #socialdistancing"
-  - username: "deannawoo"
-    fullname: >-
-      Deanna Woo: Vancouver Foodie
-    location: "Canada"
-    followers: 19081
-    engagement: 483
-    commentsToLikes: 0.174266
-    id: ck0vv5ehynmlc0i19v5dv41dt
-    verified: false
-    hashtags: "#vancouverfood, #handpullednoodles, #noodlepull, #supportlocal"
+    hashtags: "#winterfun, #nyewithkids, #winterbreak, #girlshockey"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In India In 2020
 description: >-
-  Find top yoga Instagram influencers in India in 2020. Most popular hashtags: #yoga #stayhome #yogainspiration #love.
+  Find top yoga Instagram influencers in India in 2020. Most popular hashtags: #stayhome #yogapractice #yoga #beach.
 platform: Instagram
 profiles:
-  - username: "lukegraeber"
-    fullname: >-
-      LukeGraeber Yoga & Photography
-    location: "India"
-    followers: 20970
-    engagement: 491
-    commentsToLikes: 0.076532
-    id: ck0u9m50pa2p20i19pi4th3f1
-    verified: false
-    hashtags: "#stopthespread, #bhagavadgita"
-  - username: "naki.earth"
-    fullname: >-
-      Annachiara 🌿
-    location: "India"
-    followers: 22424
-    engagement: 986
-    commentsToLikes: 0.025514
-    id: ck5pxylmmthrg0i11scerm36n
-    verified: false
-    hashtags: "#loveallbeings, #rainbowlove, #femminista, #thankyou"
   - username: "yogafter40"
     fullname: >-
       Paola Pietri
     location: "India"
-    followers: 33967
-    engagement: 313
-    commentsToLikes: 0.054923
+    followers: 46283
+    engagement: 650
+    commentsToLikes: 0.054492
     id: ck8wgib4ihf8p0j78ayi94ilq
     verified: false
-    hashtags: "#yogaaddiction, #hipopener, #yogaflow, #yogamom"
-  - username: "yoguichimum"
+    hashtags: "#yogavibe, #splitvariation, #handstandlovers, #stretching"
+  - username: "ania17art"
     fullname: >-
-      ichi
+      ania17art_yoga
     location: "India"
-    followers: 18284
-    engagement: 726
-    commentsToLikes: 0.086168
-    id: ck5c5pkr33x8s0i11fqs0428k
-    verified: true
-    hashtags: "#dysonspain, #workhard, #tiempoenfamilia, #vacaciones"
-  - username: "choudhary_hema"
-    fullname: >-
-      Hema Choudhary
-    location: "India"
-    followers: 12832
-    engagement: 1393
-    commentsToLikes: 0.013277
-    id: ck6ufd50swc4l0j71mk1znmk9
+    followers: 8298
+    engagement: 1157
+    commentsToLikes: 0.086226
+    id: ckaoyhmybhke40i78yljrwual
     verified: false
-    hashtags: "#advgirl, #offroadlove, #inspiration, #travelling"
-  - username: "mariko_jpn_531"
+    hashtags: "#ania17ar, #falda, #aguacate, #yogapractice"
+  - username: "lukegraeber"
     fullname: >-
-      Mariko Nakagawa/中川 真理子🇯🇵
+      LukeGraeber Yoga & Photography
     location: "India"
-    followers: 10569
-    engagement: 2021
-    commentsToLikes: 0.013569
-    id: ck8t2ycl8164t0j782ru7na7h
+    followers: 21708
+    engagement: 485
+    commentsToLikes: 0.078512
+    id: ck0u9m50pa2p20i19pi4th3f1
     verified: false
-    hashtags: "#fitnessmotivation, #protein, #diet, #stayhome"
-  - username: "hautemissy"
+    hashtags: "#lukegraeber20k, #puppypose, #yogavideo, #namaste"
+  - username: "dee_sik"
     fullname: >-
-      Jaspreet Kaur(Nisha)
+      Ildikó Sik
     location: "India"
-    followers: 20273
-    engagement: 459
-    commentsToLikes: 0.081458
-    id: ck13bmp96w62t0i19rycvump0
+    followers: 4285
+    engagement: 1529
+    commentsToLikes: 0.193660
+    id: ck8t0oyzzsrc20j78d6a7lnor
     verified: false
-    hashtags: "#fashionblogger, #mumbai, #yoins, #ootdindian"
+    hashtags: "#toronto, #home, #desertlife, #tuesdaythoughts"
+  - username: "anjalikapoor159"
+    fullname: >-
+      Anjali kapoor
+    location: "India"
+    followers: 280948
+    engagement: 225
+    commentsToLikes: 0.064030
+    id: ck136e3l261ep0i19e326fbki
+    verified: false
+    hashtags: "#gymbro, #beachesmodel, #neonfit, #lockdownindia"
+  - username: "aratislife"
+    fullname: >-
+      Arati
+    location: "India"
+    followers: 18663
+    engagement: 1430
+    commentsToLikes: 0.020974
+    id: ck5hdoy2dol8c0i110ov8ygwc
+    verified: false
+    hashtags: "#island, #sealife, #stayhome, #ktm"
   - username: "rachelhunterx"
     fullname: >-
       Rachel Hunter
     location: "India"
-    followers: 117701
-    engagement: 215
-    commentsToLikes: 0.031264
+    followers: 118234
+    engagement: 204
+    commentsToLikes: 0.084623
     id: ck5q6p0p2yb530i11kmp4oq7l
     verified: true
-    hashtags: "#chasingthepresent, #1111, #spiritualpodcast, #motherhood"
-  - username: "monicadetomas"
+    hashtags: "#envyapples, #enjoyyournow, #ultimateappleexperience, #apples"
+  - username: "yoganama"
     fullname: >-
-      Monica De Tomas
+      Namita Chandra Piparaiya
     location: "India"
-    followers: 53375
-    engagement: 98
-    commentsToLikes: 0.076005
-    id: ck13b6qj2tyb40i19kdb1ack2
-    verified: true
-    hashtags: "#mamitutbereslamejor, #quarantinelife, #sunnies, #complementoalimenticio"
-  - username: "ethanashtanga"
-    fullname: >-
-      ᴇᴛʜᴀɴ ᴡᴀʀᴅ
-    location: "India"
-    followers: 5442
-    engagement: 926
-    commentsToLikes: 0.035818
-    id: ck6tyn90i4pzp0j717x5xiw38
+    followers: 19581
+    engagement: 546
+    commentsToLikes: 0.048378
+    id: ckaoqory8jo1l0i78kz6fu65k
     verified: false
-    hashtags: "#yogamen, #vrischikasana, #yoga, #ashtangalove"
+    hashtags: "#ayurvedaindia, #yogaheals, #virabhadrasana3, #moderationiskey"
+  - username: "nuri.lop"
+    fullname: >-
+      N U R I A   L Ó P E Z ® Actriz
+    location: "India"
+    followers: 5850
+    engagement: 1042
+    commentsToLikes: 0.118274
+    id: ck14kex9kp6x30i19dmce25qo
+    verified: false
+    hashtags: "#felicidad, #agradecida, #arteenlapared, #reydelpop"
+  - username: "lizalvarezgt"
+    fullname: >-
+      Liza Alvarez 🇬🇹
+    location: "India"
+    followers: 13369
+    engagement: 733
+    commentsToLikes: 0.063680
+    id: ck15rvdbd9whm0i19ujehy1a3
+    verified: false
+    hashtags: "#loveyourself, #smilealways, #miradaperfecta, #palmeras"
 ---

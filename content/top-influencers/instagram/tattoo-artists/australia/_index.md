@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Australia In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Australia in 2020. Most popular hashtags: #tattoo #blackandgrey #stayhome #tattooartist.
+  Find top tattoo-artists Instagram influencers in Australia in 2020. Most popular hashtags: #stayhome #tattooartist #healed #tattoos.
 platform: Instagram
 profiles:
-  - username: "chantellethongtattoos"
-    fullname: >-
-      Chantelle Thong
-    location: "Australia"
-    followers: 58528
-    engagement: 394
-    commentsToLikes: 0.029872
-    id: ck8syo7phlff20j789bva3j1o
-    verified: false
-    hashtags: "#bradpitt, #tomhanksdrawing, #drake, #drakeportrait"
   - username: "tessemilytattoos"
     fullname: >-
-      ☼ Perth WA
+      Tess Emily
     location: "Australia"
-    followers: 10362
-    engagement: 791
-    commentsToLikes: 0.049218
+    followers: 11229
+    engagement: 809
+    commentsToLikes: 0.038752
     id: ck8t12d59u7ne0j780iea9jiv
     verified: false
-    hashtags: "#kidscolouringpages, #isolation, #woody, #aladdin"
+    hashtags: "#spongebob, #disney, #tattoocolouringbook, #stayhome"
   - username: "fuhrichtattoo"
     fullname: >-
       Henrique Fuhrich
     location: "Australia"
-    followers: 6146
-    engagement: 571
-    commentsToLikes: 0.052587
+    followers: 6069
+    engagement: 650
+    commentsToLikes: 0.050828
     id: ck8t986szn6wn0j78hphyi6mx
     verified: false
-    hashtags: "#smalltattoo, #deertattoos, #tatuagem, #blackwork"
+    hashtags: "#bulldog, #deer, #bulldogfrances, #flores"
   - username: "callyjoart"
     fullname: >-
       Cally-Jo
     location: "Australia"
-    followers: 254224
-    engagement: 144
-    commentsToLikes: 0.011229
+    followers: 252387
+    engagement: 138
+    commentsToLikes: 0.013699
     id: ck5zs4v78xtz20i147rmocmlh
     verified: true
-    hashtags: "#sydney, #stayhome, #ipadproart, #ipaddrawing"
+    hashtags: "#plantbasedrecipes, #compassion, #veganfoodshare, #werisetogetherart"
   - username: "suziemcintosh"
     fullname: >-
-      Suzie Mcintosh
+      Suzie Mcintosh Brows ®
     location: "Australia"
-    followers: 43739
-    engagement: 106
-    commentsToLikes: 0.088377
+    followers: 43549
+    engagement: 109
+    commentsToLikes: 0.092189
     id: ck14hxh8acmnr0i19dysbyjo8
     verified: false
-    hashtags: "#covid, #naturalbeauty, #worthit, #healedfeathering"
+    hashtags: "#wowbrows, #glowup, #bosslady, #bootybuilding"
   - username: "jimimay"
     fullname: >-
       JIMI MΛY
     location: "Australia"
-    followers: 158368
-    engagement: 281
-    commentsToLikes: 0.031752
+    followers: 154780
+    engagement: 295
+    commentsToLikes: 0.029770
     id: ck8swfkmady420j78qprrx60k
     verified: false
-    hashtags: "#dinosaurtattoo, #skulltattoo, #ribtattoo, #lockdown"
+    hashtags: "#bear, #dogtattoo, #portrait, #halfsleeve"
   - username: "jacksonmay_tattooist"
     fullname: >-
       ℑ A C Ꮶ S Ꮎ N Ṁ A Ꮍ
     location: "Australia"
-    followers: 37329
-    engagement: 173
-    commentsToLikes: 0.037531
+    followers: 37044
+    engagement: 184
+    commentsToLikes: 0.042431
     id: ck14lh1ggumr30i19lzof971e
     verified: false
-    hashtags: "#repost, #ripkobebryant, #wwe, #kobe"
-  - username: "toddbaileytattoo"
+    hashtags: "#nbamemes, #singingintherain, #inkjecta, #lakersfan"
+  - username: "jesse_rix"
     fullname: >-
-      𝕿𝖔𝖉𝖉 𝕭𝖆𝖎𝖑𝖊𝖞 𝕿𝖆𝖙𝖙𝖔𝖔
+      Jesse Rix
     location: "Australia"
-    followers: 118040
-    engagement: 12
-    commentsToLikes: 0.077183
-    id: ck14iv73thau90i19tdezj53f
+    followers: 280933
+    engagement: 200
+    commentsToLikes: 0.012561
+    id: ck0vvsu2eqlxb0i19us14d1n6
+    verified: true
+    hashtags: "#spacetattoos, #inkedmag, #inkjectaflitex1, #keenestate"
+  - username: "chantellethongtattoos"
+    fullname: >-
+      Chantelle Thong
+    location: "Australia"
+    followers: 60288
+    engagement: 206
+    commentsToLikes: 0.016700
+    id: ck8syo7phlff20j789bva3j1o
     verified: false
-    hashtags: "#shiva, #cyborg, #toddbaileytattoo, #sydneyartist"
+    hashtags: "#newmexicogovernor, #sleeve, #petdrawing, #blackandgreysleeve"
   - username: "joel_speelman_tattoos"
     fullname: >-
-      Forbidden Ink
+      JS
     location: "Australia"
-    followers: 24913
-    engagement: 95
-    commentsToLikes: 0.035565
+    followers: 24742
+    engagement: 90
+    commentsToLikes: 0.036799
     id: ck5cggu2cotc80i119vnepqz6
     verified: false
-    hashtags: "#skinartmag, #blackandgrey, #tattooculture, #bambi"
-  - username: "crisrojasart"
+    hashtags: "#bambi, #inkersdownunder, #blackwork, #bngartist"
+  - username: "theleisurebandit"
     fullname: >-
-      Cris Rojas
+      The Leisure Bandit
     location: "Australia"
-    followers: 18035
-    engagement: 224
-    commentsToLikes: 0.043235
-    id: ck600x87uefw80i14p0b6x8xz
+    followers: 23921
+    engagement: 259
+    commentsToLikes: 0.019474
+    id: ck5cjxybyvpyt0i11gqvodh8k
     verified: false
-    hashtags: "#tattooartist, #besttattooartist, #staffy, #perthtattoos"
+    hashtags: "#tattoostyle, #saynotodrugs, #tmnt, #flamingo"
 ---

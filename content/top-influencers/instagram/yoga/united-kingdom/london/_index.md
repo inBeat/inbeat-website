@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In London In 2020
 description: >-
-  Find top yoga Instagram influencers in London in 2020. Most popular hashtags: #london #yoga #calisthenics #handstand.
+  Find top yoga Instagram influencers in London in 2020. Most popular hashtags: #yogalondon #yoga #bekind #squatchallenge.
 platform: Instagram
 profiles:
-  - username: "gladys.rchd"
+  - username: "rimadiaries"
     fullname: >-
-      Gladys Richard
+      💌Rima Diaries | London
     location: "United Kingdom"
-    followers: 14809
-    engagement: 361
-    commentsToLikes: 0.028300
-    id: ck5hocgd5pbkz0i11qqn7ag8p
+    followers: 7171
+    engagement: 1391
+    commentsToLikes: 0.120584
+    id: ck6u97zfhw0um0j712ly9d137
     verified: false
-    hashtags: "#rangeofmotion, #mobility, #mobilitytraining, #eastlondonproperty"
+    hashtags: "#luxe, #tweedplaysuit, #hello, #summerinlondon"
   - username: "rix.official"
     fullname: >-
       Ricky Warren BSc FRCms PT SMT
     location: "United Kingdom"
-    followers: 64818
-    engagement: 229
-    commentsToLikes: 0.032419
+    followers: 68654
+    engagement: 224
+    commentsToLikes: 0.036469
     id: ck5zk5psyiv2s0i14vz4umr15
     verified: false
-    hashtags: "#heartchakrahealing, #ekapadakoundinyasana1, #calisthenicscoach, #corestrengthening"
-  - username: "_alexnino_"
-    fullname: >-
-      Alex Nino
-    location: "United Kingdom"
-    followers: 18020
-    engagement: 309
-    commentsToLikes: 0.039587
-    id: ck5qcj8sdqulb0i11l59vu2ik
-    verified: false
-    hashtags: "#workshop, #hangingout, #qualitytraining, #crossfituk"
+    hashtags: "#strictmuscleup, #coronavirus, #yogastrong, #yogamenofcolor"
   - username: "mageesy"
     fullname: >-
       Chris Magee
     location: "United Kingdom"
-    followers: 30742
-    engagement: 113
-    commentsToLikes: 0.082920
+    followers: 31702
+    engagement: 120
+    commentsToLikes: 0.112022
     id: ck5hk7jj8hxel0i11213rylns
     verified: false
-    hashtags: "#londonyoga, #gomukhasana, #happyfridaythe13th, #homeworkouts"
-  - username: "emajoyc"
+    hashtags: "#yogatransition, #pincha, #needavacation, #yinning"
+  - username: "manueladiago"
     fullname: >-
-      💜𝙻𝚒𝚙𝚜𝚝𝚒𝚌𝚔 & 𝚃𝚛𝚊𝚒𝚗𝚎𝚛𝚜💜
+      Manuela Diago 🧿
     location: "United Kingdom"
-    followers: 6622
-    engagement: 549
-    commentsToLikes: 0.062518
-    id: ck5hpb57br2gx0i11k1f3ioiu
+    followers: 2245
+    engagement: 1760
+    commentsToLikes: 0.049128
+    id: ckap4u2ze8vxu0i78x776vxzw
     verified: false
-    hashtags: "#yogapractice, #flexibility, #nutritiongoals, #wethairdontcare"
-  - username: "iamcarmenlibra"
+    hashtags: "#nike, #nikeyoga, #poses, #model"
+  - username: "acroyogaballerina"
     fullname: >-
-      Carmen
+      P I P  E L Y S I U M
     location: "United Kingdom"
-    followers: 11376
-    engagement: 126
-    commentsToLikes: 0.029407
-    id: ck0vyt2wb5ng90i19skca6jm0
+    followers: 21928
+    engagement: 402
+    commentsToLikes: 0.057351
+    id: ck0tzgs96qd8g0i19ul6s5wf2
     verified: false
-    hashtags: "#sundayvibes, #fitcouple, #nature, #birdsofinstagram"
-  - username: "newlyness"
+    hashtags: "#wanderlustgb, #earthday, #catyoga, #takingbackcontrol"
+  - username: "flexibilitytraining"
     fullname: >-
-      Vanessa Wilson-Watson
+      𝗙𝗟𝗘𝗫𝗜𝗕𝗜𝗟𝗜𝗧𝗬 𝗧𝗥𝗔𝗜𝗡𝗜𝗡𝗚 |𝗬𝗢𝗚𝗔🧘‍♀️
     location: "United Kingdom"
-    followers: 35597
-    engagement: 153
-    commentsToLikes: 0.354628
-    id: ck8szu0zvppic0j78ftgq2n26
+    followers: 23017
+    engagement: 206
+    commentsToLikes: 0.021720
+    id: ckapbeyo7zoc60i78ojrr1ar1
     verified: false
-    hashtags: "#food, #hiit, #cookingathome, #chefness"
-  - username: "smallspartan_barsparta"
+    hashtags: "#loveyoga, #yogalovers, #armbalance, #yogafashion"
+  - username: "projectmarathongirl"
     fullname: >-
-      Jay Chris
+      Jordan 🏃🏻‍♀️
     location: "United Kingdom"
-    followers: 121102
-    engagement: 264
-    commentsToLikes: 0.028567
-    id: ck0vvdwimop610i196jth2hqf
+    followers: 21425
+    engagement: 392
+    commentsToLikes: 0.048488
+    id: ck5hpyss1s7530i11dmilf2lk
     verified: false
-    hashtags: "#fit, #pullups, #fitnessmotivation, #core"
-  - username: "renee_stewartt"
+    hashtags: "#runnincoach, #itsagirl, #coach, #couple"
+  - username: "blessedyoga"
     fullname: >-
-      R e n e e     S t e w a r t
+      Jen Landesberg | Yoga London
     location: "United Kingdom"
-    followers: 23127
-    engagement: 277
-    commentsToLikes: 0.037994
-    id: ck5c24ue2wjme0i118tfklvjx
+    followers: 59076
+    engagement: 850
+    commentsToLikes: 0.028102
+    id: ck5hsmfwiwtvp0i11aejo3lkv
     verified: false
-    hashtags: "#breathwork, #kriyayoga, #breath, #35mm"
-  - username: "mariahcastro__"
+    hashtags: "#ad, #dwcompletethelook, #danielwellington, #blessedtobeathome"
+  - username: "sg_skygarden"
     fullname: >-
-      Mariah Castro
+      Sky Garden
     location: "United Kingdom"
-    followers: 18117
-    engagement: 244
-    commentsToLikes: 0.061495
-    id: ck8t09z9ircdd0j789pjxyc5a
+    followers: 135944
+    engagement: 138
+    commentsToLikes: 0.029799
+    id: ck0tvs3oqcmnw0i19iki1cvbw
     verified: false
-    hashtags: "#yoga, #lfw, #londonfashionweek, #backstage"
+    hashtags: "#rooftop, #fenchurchrestaurant, #mydarlinglondon, #vscolondon"
+  - username: "paulinedelecour"
+    fullname: >-
+      Pauline Delecour
+    location: "United Kingdom"
+    followers: 32536
+    engagement: 436
+    commentsToLikes: 0.042199
+    id: ck14h4jfo8ht60i193b59l2ma
+    verified: false
+    hashtags: "#yoga, #fighteuse, #londoncitylife, #mondayawareness"
 ---

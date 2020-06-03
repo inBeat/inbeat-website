@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Greece In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Greece in 2020. Most popular hashtags: #beauty #stayhome #giveaway #menoumespiti.
+  Find top cosmetics Instagram influencers in Greece in 2020. Most popular hashtags: #cosmetics #summer #giveaway #easter.
 platform: Instagram
 profiles:
   - username: "dimitris__stamatiou"
     fullname: >-
       Dimitris Stamatiou Makeup
     location: "Greece"
-    followers: 34179
-    engagement: 184
-    commentsToLikes: 0.057695
+    followers: 34725
+    engagement: 161
+    commentsToLikes: 0.117716
     id: ck13599w50cbh0i19zcyvju31
     verified: false
-    hashtags: "#home, #bridalhair, #seminars, #lip"
-  - username: "rania_bountouri_"
-    fullname: >-
-      Rania Bountouri
-    location: "Greece"
-    followers: 37010
-    engagement: 200
-    commentsToLikes: 0.011562
-    id: ck5qel5qr10gh0i11rp3bdn16
-    verified: false
-    hashtags: "#stayhome"
-  - username: "avgerinoscosmetics"
-    fullname: >-
-      Avgerinos Cosmetics
-    location: "Greece"
-    followers: 71456
-    engagement: 161
-    commentsToLikes: 0.087578
-    id: ck5c6cetv55fu0i11adn71zpn
-    verified: false
-    hashtags: "#cosmetics, #katerinakainourgiou, #lovebox, #staysafe"
+    hashtags: "#eyeshadow, #eyelashes, #jlo, #giveaway"
   - username: "elinatheos"
     fullname: >-
       Elina Theos M.D., Ph.D.
     location: "Greece"
-    followers: 5251
-    engagement: 1979
-    commentsToLikes: 0.014306
+    followers: 6281
+    engagement: 1656
+    commentsToLikes: 0.013927
     id: ck5pzbhlz060b0i11ert403i6
     verified: false
-    hashtags: "#cool, #miami, #powpow, #alicesmith"
+    hashtags: "#m1makos, #lake, #skincare, #powder"
+  - username: "rania_bountouri_"
+    fullname: >-
+      Rania Bountouri
+    location: "Greece"
+    followers: 38023
+    engagement: 172
+    commentsToLikes: 0.021850
+    id: ck5qel5qr10gh0i11rp3bdn16
+    verified: false
+    hashtags: ""
   - username: "goldenrosegreece"
     fullname: >-
-      GOLDEN ROSE Greece
+      Golden Rose Greece
     location: "Greece"
-    followers: 41660
-    engagement: 118
-    commentsToLikes: 0.005491
+    followers: 41532
+    engagement: 162
+    commentsToLikes: 0.054815
     id: ck5pvdwn1he8q0i1183at24jh
     verified: false
-    hashtags: "#lips, #march2020, #makeupby, #shimmerandshine"
+    hashtags: "#jojoba, #makeupsponge, #wonderlashmascara, #blush"
+  - username: "avgerinoscosmetics"
+    fullname: >-
+      Avgerinos Cosmetics
+    location: "Greece"
+    followers: 70656
+    engagement: 155
+    commentsToLikes: 0.096694
+    id: ck5c6cetv55fu0i11adn71zpn
+    verified: false
+    hashtags: "#cellulite, #naturalcosmetics, #oriental, #bronzing"
+  - username: "katemyday_"
+    fullname: >-
+      𝐊𝐚𝐭𝐞𝐫𝐢𝐧𝐚 𝐂𝐡𝐫𝐢𝐬𝐭𝐨𝐟𝐨𝐫𝐢𝐝𝐨𝐮 ☆
+    location: "Greece"
+    followers: 19843
+    engagement: 1547
+    commentsToLikes: 0.988807
+    id: ck8t9ee2ans7l0j78qw07km3g
+    verified: false
+    hashtags: "#cosmetics, #picoftheday, #goodnight, #chandelier"
+  - username: "nana_petraki"
+    fullname: >-
+      Nana Petraki
+    location: "Greece"
+    followers: 24942
+    engagement: 976
+    commentsToLikes: 0.596754
+    id: ck6tsp8vw61pj0j717llaw30g
+    verified: false
+    hashtags: "#giveawaysgreece, #giveaway, #pinterestphoto, #fashion"
   - username: "sia_boo_"
     fullname: >-
       𝐒𝐢𝐚_𝐁𝐨𝐨_ 🧿
     location: "Greece"
-    followers: 72017
-    engagement: 901
-    commentsToLikes: 0.943643
+    followers: 77659
+    engagement: 1950
+    commentsToLikes: 1.277233
     id: ck5hkexreiay20i11swhlbyc6
     verified: false
-    hashtags: "#fashion, #vang, #homesweethome, #kids"
-  - username: "maria_ki_"
+    hashtags: "#bloggermom, #cosmetics, #summermood, #flowerstagram"
+  - username: "delidemie"
     fullname: >-
-      Maria Kiourtsidou
+      🌺 𝓓𝓮𝓶𝓲𝓮 🌺
     location: "Greece"
-    followers: 16594
-    engagement: 725
-    commentsToLikes: 0.572221
-    id: ck5znqpuhoza20i14z5p36rsl
+    followers: 19461
+    engagement: 1630
+    commentsToLikes: 1.300202
+    id: ck5q3zyd2n4jv0i11da39iend
     verified: false
-    hashtags: "#oriflamegreece, #flowers, #makeuplife, #girl"
-  - username: "dinaathns"
+    hashtags: "#lipscrub, #sneakers, #realitytv, #handmade"
+  - username: "dimitraeudaimon"
     fullname: >-
-      ᴅɪɴᴀ ᴀᴛʜᴀɴᴀꜱɪᴏᴜ | 🇬🇷
+      ❥ Δημητρα
     location: "Greece"
-    followers: 46573
-    engagement: 701
-    commentsToLikes: 1.346316
-    id: ck5hrvg7bvjps0i117h5xqbkp
+    followers: 55103
+    engagement: 768
+    commentsToLikes: 0.469648
+    id: ckap2l72ezbl90i78ojhhw15z
     verified: false
-    hashtags: "#gallery, #travelphotography, #instagram, #lifestyle"
-  - username: "nenatsim"
-    fullname: >-
-      *•.¸♡ Nena ♡¸.•*
-    location: "Greece"
-    followers: 11340
-    engagement: 729
-    commentsToLikes: 0.275245
-    id: ck6tl04uh5qdv0j71w4hreb2m
-    verified: false
-    hashtags: "#streetstyleinspo, #sunday, #flatlayinspiration, #morocco"
-  - username: "kitavina_mua"
-    fullname: >-
-      𝒦𝒾𝓉𝒶𝓋𝒾𝓃𝒶 𝐸𝓁𝑒𝓃𝒶
-    location: "Greece"
-    followers: 9696
-    engagement: 1274
-    commentsToLikes: 0.122399
-    id: ck5hdmzplob710i11eewj7d0w
-    verified: false
-    hashtags: "#fentybeautyhighlighter, #highquality, #liketime, #makeuptrends2020"
+    hashtags: "#beautiful, #inspiration, #athletics, #quarantine"
 ---

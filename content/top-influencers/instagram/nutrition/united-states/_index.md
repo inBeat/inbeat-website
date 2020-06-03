@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In United States In 2020
 description: >-
-  Find top nutrition Instagram influencers in United States in 2020. Most popular hashtags: #girlswholift #positivevibes #fitforlife #smile.
+  Find top nutrition Instagram influencers in United States in 2020. Most popular hashtags: #stayhome #love #nutrition #weekendvibes.
 platform: Instagram
 profiles:
   - username: "fit.full.life"
     fullname: >-
       Julie
     location: "United States"
-    followers: 7327
-    engagement: 2415
-    commentsToLikes: 0.559087
+    followers: 7589
+    engagement: 2381
+    commentsToLikes: 0.520398
     id: ck6tukukugwtw0j718rwi641a
     verified: false
-    hashtags: "#homegym, #stayhealthy, #rangeofmotion, #acaibowl"
-  - username: "_tiffanyvictoria_"
+    hashtags: "#covi, #baree, #fitlife, #vacationmode"
+  - username: "hannah_hussein13"
     fullname: >-
-      𝒯𝒾𝒻𝒻𝒶𝓃𝓎
+      Hannah Hussein
     location: "United States"
-    followers: 16028
-    engagement: 1003
-    commentsToLikes: 0.054801
-    id: ck6013mugeruo0i14yimyms53
+    followers: 20690
+    engagement: 924
+    commentsToLikes: 0.064458
+    id: ckap1bjpptvj70i78055lxwck
     verified: false
-    hashtags: "#confidence, #friendship, #beatiful, #couplesgoals"
+    hashtags: "#fitnessphotos, #offseasongains, #flexingvideo, #throwback"
+  - username: "jamesissmiling"
+    fullname: >-
+      James Rose ✨ they/them
+    location: "United States"
+    followers: 8581
+    engagement: 1204
+    commentsToLikes: 0.079771
+    id: ck5qc2aaxoir60i11zpinn8pz
+    verified: false
+    hashtags: "#100happydates, #cov, #singer, #gohome"
   - username: "giannafae"
     fullname: >-
       Gianna Vassilakos
     location: "United States"
-    followers: 11892
-    engagement: 1125
-    commentsToLikes: 0.108088
+    followers: 12070
+    engagement: 1138
+    commentsToLikes: 0.102544
     id: ck5zp1w7frtwm0i149rjeefd1
     verified: false
-    hashtags: "#hairwellness, #mindset, #holidays, #wellnesswednesday"
+    hashtags: "#nutrafolpartner, #holidayseason, #wellnesswednesday, #miamimarathon"
+  - username: "michellkaylee"
+    fullname: >-
+      Michell Kaylee 🇨🇭
+    location: "United States"
+    followers: 271046
+    engagement: 565
+    commentsToLikes: 0.037543
+    id: ckaovf9ax4cxk0i78yt3my5b4
+    verified: false
+    hashtags: "#happiness, #life, #power, #nutrition"
+  - username: "kellstone35"
+    fullname: >-
+      Kelly Stone, DPT, CSCS, Pn1
+    location: "United States"
+    followers: 84719
+    engagement: 511
+    commentsToLikes: 0.052461
+    id: ck6u3ngp6ys8e0j71iwstpeoo
+    verified: false
+    hashtags: "#anklemobility, #modeling, #pullup, #selfcare"
+  - username: "flexingphoebs"
+    fullname: >-
+      Phoebe Davis
+    location: "United States"
+    followers: 16238
+    engagement: 1144
+    commentsToLikes: 0.053844
+    id: ck5hf94ruwe260i11tp16qd5o
+    verified: false
+    hashtags: "#payitforward, #prozecbd, #glowprotans, #stressrelief"
+  - username: "_tiffanyvictoria_"
+    fullname: >-
+      𝒯𝒾𝒻𝒻𝒶𝓃𝓎
+    location: "United States"
+    followers: 15943
+    engagement: 1034
+    commentsToLikes: 0.053141
+    id: ck6013mugeruo0i14yimyms53
+    verified: false
+    hashtags: "#neverforgotten, #myrideordie, #likemodel, #gotyourback"
   - username: "mandyhmeehan"
     fullname: >-
       Mandy Meehan, FNTP
     location: "United States"
-    followers: 23134
-    engagement: 705
-    commentsToLikes: 0.079248
+    followers: 23453
+    engagement: 697
+    commentsToLikes: 0.074117
     id: ck0u9mi6qa4gt0i19dwlr0zux
     verified: false
     hashtags: "#affiliate"
-  - username: "ashleymarietta"
+  - username: "chloegottsfit"
     fullname: >-
-      M A R I E T T A  🧿
+      Chloe Gottschalk CPT
     location: "United States"
-    followers: 15760
-    engagement: 948
-    commentsToLikes: 0.047219
-    id: ck8taku1ps6n70j785k0psopa
+    followers: 179580
+    engagement: 457
+    commentsToLikes: 0.051537
+    id: ck0twxzhoh88w0i19z3o7o85g
     verified: false
-    hashtags: "#curlytostraight, #ootd, #blackgirljoy, #handshake"
-  - username: "tiff._._"
-    fullname: >-
-      Tiffany Nance
-    location: "United States"
-    followers: 25702
-    engagement: 535
-    commentsToLikes: 0.079100
-    id: ck5hg8ijf1hki0i1197z0bk7v
-    verified: false
-    hashtags: "#onelife, #mebeingme, #success, #transformation"
-  - username: "jamesissmiling"
-    fullname: >-
-      James Rose ✨🌈 they/them
-    location: "United States"
-    followers: 5169
-    engagement: 1303
-    commentsToLikes: 0.089550
-    id: ck5qc2aaxoir60i11zpinn8pz
-    verified: false
-    hashtags: "#24, #instagay, #singer, #nonbinary"
-  - username: "peachyemilyy"
-    fullname: >-
-      🍑🍑EMILY PICCINONNO🍑🍑
-    location: "United States"
-    followers: 29898
-    engagement: 489
-    commentsToLikes: 0.066673
-    id: ck55oc9g2833f0i112arbghni
-    verified: false
-    hashtags: "#flawsandall"
-  - username: "bodyfitbalance"
-    fullname: >-
-      Bailey Ducommun, NASM-CPT
-    location: "United States"
-    followers: 254642
-    engagement: 418
-    commentsToLikes: 0.041942
-    id: ck0twmsgjfy7a0i190b6qma76
-    verified: false
-    hashtags: "#realicecream, #teamnordictrack, #staywithnordictrack, #ad"
-  - username: "julianadfit"
-    fullname: >-
-      Juliana Duran
-    location: "United States"
-    followers: 3957
-    engagement: 2655
-    commentsToLikes: 0.083177
-    id: ck8tb6d2nuh890j78v8rvjvtq
-    verified: false
-    hashtags: ""
+    hashtags: "#getbellhop, #bellhopmoving, #gifted, #realgoodfoods"
 ---

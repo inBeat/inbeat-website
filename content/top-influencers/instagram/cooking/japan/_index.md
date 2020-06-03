@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Japan In 2020
 description: >-
-  Find top cooking Instagram influencers in Japan in 2020. Most popular hashtags: #fishing #fishinglife #wp #iegohanphoto.
+  Find top cooking Instagram influencers in Japan in 2020. Most popular hashtags: #jewelry #healthy #onepiece #amazon.
 platform: Instagram
 profiles:
   - username: "mii_raja"
     fullname: >-
       mii
     location: "Japan"
-    followers: 10658
-    engagement: 1673
-    commentsToLikes: 0.054539
+    followers: 10797
+    engagement: 1717
+    commentsToLikes: 0.056925
     id: ck0w2psf8pkwy0i194dlivzka
     verified: false
-    hashtags: "#kitty, #ilovemycat, #outdoor, #pierce"
+    hashtags: "#petstagra, #turtles, #bambooforest, #instacat"
   - username: "ruri_ikeda"
     fullname: >-
       ruriikeda
     location: "Japan"
-    followers: 55096
-    engagement: 268
-    commentsToLikes: 0.031372
+    followers: 55789
+    engagement: 275
+    commentsToLikes: 0.031684
     id: ck14kn1fbqbp90i19h8hx2dhb
     verified: false
-    hashtags: "#hawaii, #shampoo, #australiawine, #pr"
+    hashtags: "#fauchoncheese, #fujimi, #denimjacket, #dessert"
+  - username: "b.b.m.i"
+    fullname: >-
+      Mari
+    location: "Japan"
+    followers: 6559
+    engagement: 715
+    commentsToLikes: 0.037384
+    id: ck9haw79leeig0j78t4u5o6ws
+    verified: false
+    hashtags: "#kowa, #handmademask, #deadsea, #travelphotography"
+  - username: "hinapin_0210"
+    fullname: >-
+      姫奈
+    location: "Japan"
+    followers: 55851
+    engagement: 450
+    commentsToLikes: 0.011099
+    id: ck0txuomykicz0i19vtheipfj
+    verified: false
+    hashtags: "#spring, #weddingnail, #codenate, #passportcase"
   - username: "azecchi"
     fullname: >-
       畔地 香帆(あぜっち)
     location: "Japan"
-    followers: 9773
-    engagement: 1076
-    commentsToLikes: 0.009243
+    followers: 9923
+    engagement: 1022
+    commentsToLikes: 0.012538
     id: ck5cddt4oizwg0i11r5c5j73u
     verified: false
-    hashtags: "#cooking, #japanesefood, #fishdish, #cookingtime"
-  - username: "miyuki.meshi.ac"
+    hashtags: "#premierepro, #timetoblossom, #watermelon, #hulu"
+  - username: "norie_fitness"
     fullname: >-
-      miyuki
+      𝐍𝐎𝐑𝐈𝐄
     location: "Japan"
-    followers: 16141
-    engagement: 895
-    commentsToLikes: 0.038910
-    id: ck5zsde7kyakz0i145xyivz6u
+    followers: 14175
+    engagement: 571
+    commentsToLikes: 0.030889
+    id: ck0vwq2myv0wm0i19y7uytjpc
     verified: false
-    hashtags: "#toast, #tofu, #eggs, #ricebowl"
+    hashtags: "#japanese, #model, #2019, #check8146"
+  - username: "cac0o0"
+    fullname: >-
+      Caco⋆*
+    location: "Japan"
+    followers: 12705
+    engagement: 805
+    commentsToLikes: 0.004965
+    id: ck5ckxguaxt140i11oybhj5lz
+    verified: false
+    hashtags: "#tc, #alex, #higumadoughnuts, #hyperlitemountaingear"
+  - username: "mayu19900323"
+    fullname: >-
+      𝓜𝓐𝓨𝓤.
+    location: "Japan"
+    followers: 47907
+    engagement: 165
+    commentsToLikes: 0.014530
+    id: ckaoxh6idd8qc0i78cb5ofovf
+    verified: false
+    hashtags: "#emiriawiz, #onepiece, #esutorejasnap, #coodinate"
   - username: "hareyama_yuri"
     fullname: >-
       晴山由梨
     location: "Japan"
-    followers: 16266
-    engagement: 1287
-    commentsToLikes: 0.011707
+    followers: 16601
+    engagement: 1289
+    commentsToLikes: 0.013475
     id: ck13aoj9erej60i19yks60wni
     verified: false
-    hashtags: "#fishing, #fast23, #fishingtrip, #fish"
-  - username: "balancedlife.n.y"
+    hashtags: "#boatfishing, #angler, #tsurinews, #seaguar"
+  - username: "miyuki.meshi.ac"
     fullname: >-
-      Nats Y
+      miyuki
     location: "Japan"
-    followers: 2440
-    engagement: 1963
-    commentsToLikes: 0.161119
-    id: ck5higew6ddla0i11lxs1l3pb
+    followers: 17334
+    engagement: 1117
+    commentsToLikes: 0.019795
+    id: ck5zsde7kyakz0i145xyivz6u
     verified: false
-    hashtags: "#kaldi, #oatsbowl, #healthymeal, #feedfeed"
-  - username: "m_n_p_h"
-    fullname: >-
-      n
-    location: "Japan"
-    followers: 7689
-    engagement: 2828
-    commentsToLikes: 0.020499
-    id: ck14icl4cequd0i198xx9yg4o
-    verified: false
-    hashtags: "#thailand, #musicianlife, #ootd, #roomclip"
-  - username: "sylvia.wakana"
-    fullname: >-
-      Sylvia わかな
-    location: "Japan"
-    followers: 16572
-    engagement: 295
-    commentsToLikes: 0.144744
-    id: ck5caemc7d9td0i11bwymyy0c
-    verified: false
-    hashtags: "#strawberry, #japanesecurry, #easycooking, #eaterla"
-  - username: "ruriko_haraguchi24"
-    fullname: >-
-      原口るりこ Ruriko Haraguchi
-    location: "Japan"
-    followers: 55593
-    engagement: 788
-    commentsToLikes: 0.009811
-    id: ck13bqtitwqcn0i195jh7jkvn
-    verified: false
-    hashtags: "#2020, #hannover96, #christmasmarket, #germanychristmasmarket"
-  - username: "emit_0702"
-    fullname: >-
-      emi
-    location: "Japan"
-    followers: 3591
-    engagement: 2149
-    commentsToLikes: 0.021675
-    id: ck5hiijc5doks0i11bmvgnkm3
-    verified: false
-    hashtags: "#osusumegohan, #igersjp, #valentine, #curryandrice"
+    hashtags: "#sushi, #teriyaki, #4bwatches, #10"
 ---

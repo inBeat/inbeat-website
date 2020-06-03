@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Germany In 2020
 description: >-
-  Find top beauty Instagram influencers in Germany in 2020. Most popular hashtags: #blogger #carmushka #ootd #outfitoftheday.
+  Find top beauty Instagram influencers in Germany in 2020. Most popular hashtags: #portrait #corona #outfit #eidmubarak.
 platform: Instagram
 profiles:
-  - username: "sabrina_merlina"
+  - username: "dad.sheeran"
     fullname: >-
-      Sabrina-Merlina Binder
+      René 🏃‍♂️🏋️‍♂️👣👁🧠
     location: "Germany"
-    followers: 15158
-    engagement: 1458
-    commentsToLikes: 0.280401
-    id: ck6txs10uzio50j71jf6wv1rf
+    followers: 2275
+    engagement: 4797
+    commentsToLikes: 0.184506
+    id: ckapbh0cyztno0i78e4y94y3i
     verified: false
-    hashtags: "#nextvisualportraits, #zahnaufhellungsset, #throwbackthursday, #missecogermany2020"
+    hashtags: "#herbstliebe, #parisbynight, #street, #visualgrams"
+  - username: "irini_chrisa"
+    fullname: >-
+      Irini Chrisα ⚡️
+    location: "Germany"
+    followers: 5963
+    engagement: 3105
+    commentsToLikes: 0.084555
+    id: ck0u6ktdo272r0i19ymtlpbox
+    verified: false
+    hashtags: "#hellobody, #styleesecrets, #body, #outfit"
+  - username: "victoria_e__"
+    fullname: >-
+      victoria_e__
+    location: "Germany"
+    followers: 7007
+    engagement: 2181
+    commentsToLikes: 0.096562
+    id: ckaotijmhw2ch0i78k4c5rhlo
+    verified: false
+    hashtags: "#check0765, #wirm, #mild, #kein"
   - username: "bak_lifestyle"
     fullname: >-
       Yvonne
     location: "Germany"
-    followers: 10142
-    engagement: 1880
-    commentsToLikes: 0.191716
+    followers: 10088
+    engagement: 1894
+    commentsToLikes: 0.189752
     id: ck6tp2218hegf0j71wbb5mlvr
     verified: false
-    hashtags: "#happy, #trend, #casualstyle, #parisstreetstyle"
-  - username: "ranaalnsour"
+    hashtags: "#outfit, #fashionbloggers, #gewinnspiel, #fashionstyle"
+  - username: "laily.imi"
     fullname: >-
-      رنا النسور .
+      Laily  🤍
     location: "Germany"
-    followers: 22291
-    engagement: 1719
-    commentsToLikes: 0.135249
-    id: ck0uc5um3g5730i19k48bqr9h
+    followers: 6545
+    engagement: 1716
+    commentsToLikes: 0.092343
+    id: ckaowhku98z060i78ku8e0dxo
     verified: false
-    hashtags: "#sheinofficial, #stylist, #summer, #amman"
-  - username: "dana_natalli"
+    hashtags: "#hmxme, #inspo, #erfolg, #mamaleben"
+  - username: "evis_gomez"
     fullname: >-
-      Dana Natalli
+      Evis | The summer kind of girl
     location: "Germany"
-    followers: 110616
-    engagement: 665
-    commentsToLikes: 0.094520
-    id: ck8t49mxj5yvp0j78wq2ubfms
+    followers: 5325
+    engagement: 1619
+    commentsToLikes: 0.213513
+    id: ck0vyi8gq44jw0i19dksxvdzi
     verified: false
-    hashtags: "#lifestyle, #polishmodel, #bodygoals, #natalli"
-  - username: "margusha____"
+    hashtags: "#nightoutmakeup, #makeuplover, #makeupenthusiast, #igtvvideos"
+  - username: "sabrina_merlina"
     fullname: >-
-      Maggy🎀
+      Sabrina-Merlina Binder
     location: "Germany"
-    followers: 109127
-    engagement: 565
-    commentsToLikes: 0.039676
-    id: ck0tvw3nsd1kx0i19e47dyhvh
+    followers: 14981
+    engagement: 1508
+    commentsToLikes: 0.271455
+    id: ck6txs10uzio50j71jf6wv1rf
     verified: false
-    hashtags: "#sweetcandy, #umbrella, #tulpen, #hairgoals"
-  - username: "ipeek_oz_"
+    hashtags: "#desenio, #beautyblogs, #stylediaries, #newyeariscoming"
+  - username: "samia.jasmin"
     fullname: >-
-      𝐅𝐚𝐬𝐡𝐢𝐨𝐧 🌷 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞
+      𝐉 𝐀 𝐒 𝐌 𝐈 𝐍
     location: "Germany"
-    followers: 13824
-    engagement: 1110
-    commentsToLikes: 0.088429
-    id: ck0txvrtvkno90i198wpmb5gl
+    followers: 10386
+    engagement: 1326
+    commentsToLikes: 0.198980
+    id: ck8t31evi1j9q0j78t0xb4vdp
     verified: false
-    hashtags: "#nefes, #corona, #hausdesgeldes, #lovequotes"
-  - username: "flauschelle"
+    hashtags: "#fitness, #quotes, #thingpositive, #longhair"
+  - username: "cakilove"
     fullname: >-
-      ▪️Michelle ➰ Flauschelle▪️
+      Hasret Aslantas
     location: "Germany"
-    followers: 13410
-    engagement: 1058
-    commentsToLikes: 0.285482
-    id: ck5zpkc6fst9k0i14umrkisra
+    followers: 127074
+    engagement: 1257
+    commentsToLikes: 0.048524
+    id: ck136jc1a6rxc0i1995c73le3
     verified: false
-    hashtags: "#maxplusmgmt, #ohpolly, #verlosung, #mercedes"
-  - username: "lia.alexia"
+    hashtags: "#boysmom, #gessi, #flaconibeauty, #partnerlook"
+  - username: "gaamaya"
     fullname: >-
-      Alexia 🇬🇷
+      Gabriela Amaya
     location: "Germany"
-    followers: 7291
-    engagement: 1163
-    commentsToLikes: 0.089604
-    id: ck8t1spv3wvgk0j78mhkqml37
+    followers: 45018
+    engagement: 1173
+    commentsToLikes: 0.081863
+    id: ck8wgf46th8fw0j78mpjsb81j
     verified: false
-    hashtags: "#horstkirchberger, #ootdfashion, #redlips, #girlswholift"
-  - username: "aleksandra.makeup"
-    fullname: >-
-      Aleksandra ♡
-    location: "Germany"
-    followers: 22967
-    engagement: 663
-    commentsToLikes: 0.122547
-    id: ck8t6c34dd1s00j78lzkipxlx
-    verified: false
-    hashtags: "#happy, #ardelllashes, #benefitbrows, #love"
-  - username: "princessrosana_com"
-    fullname: >-
-      ROSANA FUNKE
-    location: "Germany"
-    followers: 23004
-    engagement: 658
-    commentsToLikes: 0.103747
-    id: ck5zph5bdsnns0i148dbe20eh
-    verified: false
-    hashtags: "#fashionista, #trendylook, #classy, #interiorinspiration"
+    hashtags: "#valentinosunglasses, #sneakerlover, #ootd, #sneakersstyle"
 ---

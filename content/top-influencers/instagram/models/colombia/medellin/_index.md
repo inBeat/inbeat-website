@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Medellín In 2020
 description: >-
-  Find top models Instagram influencers in Medellín in 2020. Most popular hashtags: #model #colombia #medellin #sexy.
+  Find top models Instagram influencers in Medellín in 2020. Most popular hashtags: #model #medellin #home #picoftheday.
 platform: Instagram
 profiles:
   - username: "ilmio_of"
     fullname: >-
       𝐀𝐍𝐀 𝐌𝐀𝐑𝐈𝐀 𝐁𝐎𝐍𝐈𝐋𝐋𝐀
     location: "Colombia"
-    followers: 43222
-    engagement: 362
-    commentsToLikes: 0.059355
+    followers: 43722
+    engagement: 359
+    commentsToLikes: 0.060896
     id: ck6ub58fr7jg10j71j2v6lxuh
     verified: false
-    hashtags: "#throwbackthursday, #blackhair, #december, #mybody"
+    hashtags: "#tattoedgirls, #dance, #babydoll, #home"
   - username: "johanaosornor"
     fullname: >-
       Johana Osorno Ruiz
     location: "Colombia"
-    followers: 64220
-    engagement: 110
-    commentsToLikes: 0.022876
+    followers: 63186
+    engagement: 132
+    commentsToLikes: 0.025666
     id: ck55ono068qgd0i11hw4iorpz
     verified: false
-    hashtags: "#love, #modelling, #girly, #loveislove"
-  - username: "vanessadonatoo"
+    hashtags: "#lovers, #style, #pijama, #johana"
+  - username: "dani.labelle"
     fullname: >-
-      Vanessa Donato
+      𝕷𝖆𝖇𝖊𝖑𝖑𝖊.
     location: "Colombia"
-    followers: 4297
-    engagement: 1285
-    commentsToLikes: 0.076882
-    id: ck5bwxdflmlf90i11xhqnxoqr
+    followers: 12335
+    engagement: 549
+    commentsToLikes: 0.047535
+    id: ck5c5ieb13iyz0i11g7jc49ac
     verified: false
-    hashtags: "#portrait, #inspirarion, #woman, #livenza"
-  - username: "soylatatag"
-    fullname: >-
-      Tatiana Gómez
-    location: "Colombia"
-    followers: 6219
-    engagement: 837
-    commentsToLikes: 0.049275
-    id: ck6ub52rj7igi0j71bu2x6lo5
-    verified: false
-    hashtags: "#colombia, #felicidad, #australia, #modelocolombianas"
-  - username: "la.negra.93"
-    fullname: >-
-      Angela Cano
-    location: "Colombia"
-    followers: 16287
-    engagement: 806
-    commentsToLikes: 0.021281
-    id: ck0w39koes9p70i197ny61rkv
-    verified: false
-    hashtags: "#lunessindescanso, #afropunk, #neoburlesque, #antioquia"
+    hashtags: "#yellow, #reality, #model, #cigarette"
   - username: "carolinafrancov"
     fullname: >-
       Carolina Franco Villegas
     location: "Colombia"
-    followers: 52036
-    engagement: 371
-    commentsToLikes: 0.035673
+    followers: 52921
+    engagement: 369
+    commentsToLikes: 0.058152
     id: ck5bwvxkemiqi0i11a3j02jli
     verified: false
-    hashtags: "#ciclismo, #colombia, #howweliv, #livcycling"
-  - username: "andre_wox"
+    hashtags: "#almendras, #colombia, #postresaludable, #chocolate"
+  - username: "carolinalgg"
     fullname: >-
-      Andrea Gordon
+      C A R O L I N A    G Ó M E Z ☆
     location: "Colombia"
-    followers: 59297
-    engagement: 299
-    commentsToLikes: 0.033654
-    id: ck5zvrqr94szj0i14g66akvqo
+    followers: 39953
+    engagement: 344
+    commentsToLikes: 0.112828
+    id: ck8tcvfbv0u3j0j78355yt6t5
     verified: false
-    hashtags: "#quedateencasa, #rojo, #casa, #est"
-  - username: "dianisnicol_oficial"
+    hashtags: "#pereira, #beautytips, #esperando, #collage"
+  - username: "raulmejia320"
     fullname: >-
-      𝓓’ 𝓝𝓲𝓬𝓸𝓵.🌸🍭🦄👙
+      Raul Mejia
     location: "Colombia"
-    followers: 37523
-    engagement: 207
-    commentsToLikes: 0.020383
-    id: ck6u4j9kh41dm0j71i1bcktvc
+    followers: 18108
+    engagement: 216
+    commentsToLikes: 0.337615
+    id: ck8sxh8y2hdyv0j787web52ew
     verified: false
-    hashtags: "#quehacen, #mujeressexys, #amigas, #labios"
-  - username: "atleticoguyoficial"
+    hashtags: "#beauty, #angel, #glory, #selfie"
+  - username: "cami.erre_"
     fullname: >-
-      Atleticoguyoficial
+      Camila Rendón
     location: "Colombia"
-    followers: 8221
-    engagement: 1222
-    commentsToLikes: 0.035579
-    id: ck6uapwgy4yfk0j71xsb0hqtg
+    followers: 9363
+    engagement: 653
+    commentsToLikes: 0.040129
+    id: ck13asfrcryak0i19lkojnh29
     verified: false
-    hashtags: "#training, #onlyfans, #gym, #gymtime"
-  - username: "felipebohorquez"
+    hashtags: "#tbt, #macarena, #model, #colombianmodel"
+  - username: "beatrizguerrerot"
     fullname: >-
-      Felipe Bohorquez G.F.M
+      Beatriz Guerrero
     location: "Colombia"
-    followers: 59283
-    engagement: 123
-    commentsToLikes: 0.008778
-    id: ck0w71qr2bbvc0i19gyj7q3os
+    followers: 2513
+    engagement: 1293
+    commentsToLikes: 0.036670
+    id: ck139h3zul9n40i19tmlhygv8
     verified: false
-    hashtags: "#couple, #sexy, #river, #bed"
+    hashtags: "#mompoxjazzfestival, #colombiatex, #colombiamoda2019, #memoriasdeltropico"
+  - username: "carolinajaramillomodel"
+    fullname: >-
+      Carolina Jaramillo C
+    location: "Colombia"
+    followers: 42053
+    engagement: 167
+    commentsToLikes: 0.025206
+    id: ck0w4n86szey20i190mpvnhsj
+    verified: false
+    hashtags: "#world, #fashionparis, #sandrafourqui, #editorial"
+  - username: "danicalo19"
+    fullname: >-
+      Fitfitfit
+    location: "Colombia"
+    followers: 200802
+    engagement: 141
+    commentsToLikes: 0.025997
+    id: ck5qck0ebqyis0i11qv5ut1pj
+    verified: false
+    hashtags: "#monday, #sabado, #picoftheday, #food"
 ---

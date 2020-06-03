@@ -1,107 +1,107 @@
 ---
 title: Top 10 Hip-Hop Instagram Influencers In 2020
 description: >-
-  Find top hip-hop Instagram influencers in 2020. Most popular hashtags: #wspolpraca #wsp #polskadziewczyna #photography.
+  Find top hip-hop Instagram influencers in 2020. Most popular hashtags: # #dankef #aprivateview #like.
 platform: Instagram
 profiles:
+  - username: "riza.dance"
+    fullname: >-
+      {HipHop}
+    location: "Iran"
+    followers: 2194
+    engagement: 1695
+    commentsToLikes: 0.083063
+    id: ck9wisqzh3sy10j78oj2fp8qs
+    verified: false
+    hashtags: "#freestyle, #hiphop, #classic, #photo"
+  - username: "soroushmostafaei"
+    fullname: >-
+      SOROUSH️💎
+    location: "Iran"
+    followers: 6426
+    engagement: 2232
+    commentsToLikes: 0.083816
+    id: ck9wj15ur4u5c0j78eazlwbuv
+    verified: false
+    hashtags: "#baran, #chord, #amirazimi, #soroush"
+  - username: "_.loko"
+    fullname: >-
+      Taha Bakhshi
+    location: "Iran"
+    followers: 5901
+    engagement: 1775
+    commentsToLikes: 0.243917
+    id: ckap1edgdu8ek0i78d6hornx3
+    verified: false
+    hashtags: "#loko"
   - username: "dj.bibb"
     fullname: >-
       Bibb
     location: ""
-    followers: 5135
-    engagement: 1788
-    commentsToLikes: 0.134643
+    followers: 5249
+    engagement: 1770
+    commentsToLikes: 0.133253
     id: ck6tj71ka24rd0j71u3a50pcl
+    verified: false
+    hashtags: ""
+  - username: "gokul_aadhi"
+    fullname: >-
+      G O K U L   A A D H I
+    location: ""
+    followers: 17116
+    engagement: 1074
+    commentsToLikes: 0.079237
+    id: ck9wfzlx7r8780j780hcopjrj
     verified: false
     hashtags: ""
   - username: "sonia_bulandra"
     fullname: >-
-      s t o n k a
+      s t o n k a  :)
     location: "Poland"
-    followers: 6983
-    engagement: 1923
-    commentsToLikes: 0.069982
+    followers: 7536
+    engagement: 2062
+    commentsToLikes: 0.074321
     id: ck8t1rjdtwr0n0j78jg3qvza9
     verified: false
-    hashtags: "#model, #hsstyle, #outfitsociety, #vscocam"
+    hashtags: "#jewerly, #annonce, #airforcejester, #outfits"
+  - username: "___manu_micko"
+    fullname: >-
+      M A N U 🍁
+    location: ""
+    followers: 66497
+    engagement: 2223
+    commentsToLikes: 0.151673
+    id: ck9wp9c0r8cky0j78rzntmxev
+    verified: false
+    hashtags: "#ktmrc390, #kasargod, #gt650, #kasargode"
+  - username: "mal_bytheway"
+    fullname: >-
+      MAL
+    location: "United States"
+    followers: 163196
+    engagement: 1252
+    commentsToLikes: 0.047515
+    id: ck0vxnw4mzu7q0i1941nt620m
+    verified: false
+    hashtags: ""
   - username: "federicostuart"
     fullname: >-
       DJ Stuart
     location: "Argentina"
-    followers: 16424
-    engagement: 571
-    commentsToLikes: 0.166057
+    followers: 16709
+    engagement: 507
+    commentsToLikes: 0.145166
     id: ck5zy1r2092f40i14cxr8ashz
     verified: false
-    hashtags: "#42m, #stuarttypebeat, #tbt, #batalladelosgallos"
-  - username: "leanflavoredkoolaid"
-    fullname: >-
-      lean📸
-    location: "Canada"
-    followers: 6056
-    engagement: 910
-    commentsToLikes: 0.129254
-    id: ck8tajfrxs0o60j78582dd8n5
-    verified: false
-    hashtags: ""
+    hashtags: "#autodidacta, #tbt, #acapellaapp, #ringo"
   - username: "lunamaxeiner.official"
     fullname: >-
       Luna Maxeiner
     location: "Germany"
-    followers: 7022
-    engagement: 1809
-    commentsToLikes: 0.038480
+    followers: 7734
+    engagement: 1979
+    commentsToLikes: 0.040124
     id: ck5byl7bupd070i11y5koxd8p
     verified: false
-    hashtags: "#karneval2020, #withmyhomies, #takeovervollvertauscht, #siblingsgoals"
-  - username: "morpheus_neo"
-    fullname: >-
-      Morpheus
-    location: "France"
-    followers: 39329
-    engagement: 268
-    commentsToLikes: 0.112879
-    id: ck0w18zt6i5930i19ic0j735x
-    verified: false
-    hashtags: "#acteur, #citadium, #reflective, #weshalors"
-  - username: "twintings"
-    fullname: >-
-      Alex
-    location: "United States"
-    followers: 16513
-    engagement: 377
-    commentsToLikes: 0.069417
-    id: ck6uh8zmh7q3w0j71dv48blys
-    verified: true
-    hashtags: "#twinning, #tbt"
-  - username: "charlenne.prscl"
-    fullname: >-
-      Charlenne🦋
-    location: ""
-    followers: 9070
-    engagement: 1211
-    commentsToLikes: 0.034360
-    id: ck5bwdlpmlhjp0i11n17ifrzg
-    verified: false
-    hashtags: "#everglow, #iniapa, #wannabe, #dancecoverkpop"
-  - username: "ty3kingz"
-    fullname: >-
-      Ty Ogunkoya.   📍🌎.      🇳🇬
-    location: "Germany"
-    followers: 51323
-    engagement: 545
-    commentsToLikes: 0.029907
-    id: ck5ck1i8lvxo30i11ojx9mdfk
-    verified: false
-    hashtags: "#ad, #kitesurfing, #dragracing"
-  - username: "ciesielska_maya"
-    fullname: >-
-      Maja Ciesielska
-    location: "Poland"
-    followers: 10715
-    engagement: 738
-    commentsToLikes: 0.057905
-    id: ck8tc73layivd0j78ob8l0fuz
-    verified: false
-    hashtags: "#mlodziez, #kochampsy, #zdjeciemiesiacacanon, #wearecropp"
+    hashtags: "#siblingsgoals, #brotherandsister, #dankef, #quarantine"
 ---

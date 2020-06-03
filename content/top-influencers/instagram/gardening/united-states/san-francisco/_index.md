@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top gardening Instagram influencers in San Francisco in 2020. Most popular hashtags: #garden #gardening #flowers #knitting.
+  Find top gardening Instagram influencers in San Francisco in 2020. Most popular hashtags: #gardening #sanfrancisco #mothersday #shelterinplace.
 platform: Instagram
 profiles:
-  - username: "tiny_acorn"
+  - username: "kristywicks"
     fullname: >-
-      Erica Stevens
+      KRISTY • WICKS
     location: "United States"
-    followers: 15073
-    engagement: 483
-    commentsToLikes: 0.048699
-    id: ck5hkdpggi8tm0i11839rdyy2
+    followers: 411429
+    engagement: 412
+    commentsToLikes: 0.036344
+    id: ck0u0jg9atyqy0i19dm88fu8d
     verified: false
-    hashtags: "#outfitoftheday, #purses, #houseplantsmakemehappy, #spring"
-  - username: "thesucculenthobbyist"
+    hashtags: "#gardenparty, #ltkspring, #chickensoup, #springstyle"
+  - username: "anettemarweld"
     fullname: >-
-      Jean
+      A N E T T E   M A R W E L D
     location: "United States"
-    followers: 33524
-    engagement: 221
-    commentsToLikes: 0.025884
-    id: ck136o4wn7g4z0i197jrdr0wq
+    followers: 5558
+    engagement: 461
+    commentsToLikes: 0.032766
+    id: ck0vzusw1b05t0i19cz9e5uxo
     verified: false
-    hashtags: "#gardenlover, #jardines, #succulenta, #succulentcollection"
-  - username: "welcome_to_mushroom_hour"
+    hashtags: "#contemplation, #roses, #nature, #pacificocean"
+  - username: "sfchronicle"
     fullname: >-
-      Mushroom Hour
+      San Francisco Chronicle
     location: "United States"
-    followers: 19253
-    engagement: 384
-    commentsToLikes: 0.082707
-    id: ck0u8keb67iks0i19xwgyfc86
-    verified: false
-    hashtags: "#eatwild, #dandelions, #invasivespecies, #chagamushrooms"
-  - username: "jeanniedouglasart"
+    followers: 108860
+    engagement: 84
+    commentsToLikes: 0.030567
+    id: ck5c10uulu89q0i11l1sq3g5a
+    verified: true
+    hashtags: "#garden, #gardening, #bayarea, #shelterinplace"
+  - username: "christiandawdesign"
     fullname: >-
-      ABSTRACT ACRYLIC ARTIST
+      Christian Daw
     location: "United States"
-    followers: 16512
-    engagement: 280
-    commentsToLikes: 0.097534
-    id: ck8tc138nxwnv0j78ihbokyhg
+    followers: 281380
+    engagement: 657
+    commentsToLikes: 0.022429
+    id: ck0w79duucey70i19750um17m
     verified: false
-    hashtags: "#floralart, #natureinspiration, #abstractpainting, #paintinginspiration"
-  - username: "prestigetree"
+    hashtags: "#coastalcharm, #modernstyle, #loveforhome, #bathroom"
+  - username: "theestatedirector"
     fullname: >-
-      Ty
+      Scott Gorelick | TGG Principal
     location: "United States"
-    followers: 183068
-    engagement: 55
-    commentsToLikes: 0.001352
-    id: ck14j2dqfia8c0i19i6xf8k6v
+    followers: 10048
+    engagement: 1548
+    commentsToLikes: 0.013686
+    id: ck136brxl5piw0i19qnecvdlg
     verified: false
-    hashtags: "#mexico, #plant, #spirits, #hula"
-  - username: "theladywholunches"
+    hashtags: "#florida, #compassopenhouse, #architecturaldigest, #igdaily"
+  - username: "heatherihnart"
     fullname: >-
-      Jenna Ingalls
+      Heather Ihn (“een”)  Martin
     location: "United States"
-    followers: 3503
-    engagement: 1228
-    commentsToLikes: 0.110915
-    id: ck5zobjeqq6wu0i146qvnwtx8
+    followers: 87265
+    engagement: 332
+    commentsToLikes: 0.008083
+    id: ck1358wrt0abs0i19gvh1qh29
     verified: false
-    hashtags: "#knittingforolive, #sizeinclusive, #westknits, #knitfastdiewarm"
+    hashtags: "#strawberries, #berry, #picnic, #pencilsharpener"
+  - username: "ritemediagroup"
+    fullname: >-
+      RiTE
+    location: "United States"
+    followers: 26872
+    engagement: 283
+    commentsToLikes: 0.028599
+    id: ck0tujneq7gr00i1992okeyxc
+    verified: false
+    hashtags: "#jcole, #family, #49rs, #chiefs"
+  - username: "hanwestby"
+    fullname: >-
+      Hannah Westby
+    location: "United States"
+    followers: 46539
+    engagement: 1125
+    commentsToLikes: 0.027252
+    id: ck135l57i1y7t0i19muvpwj2g
+    verified: false
+    hashtags: "#plantpowerineveryshower, #furbodognanny, #20weeks, #workingwithfracture"
+  - username: "faithfoxmama"
+    fullname: >-
+      
+    location: "United States"
+    followers: 23056
+    engagement: 171
+    commentsToLikes: 0.296186
+    id: ck6turib2hzj20j71vv26vxo1
+    verified: false
+    hashtags: "#trueinnerself, #earlymornings, #borageflowers, #heatherrose"
   - username: "ohoneycomb"
     fullname: >-
       miss macy
     location: "United States"
-    followers: 86446
-    engagement: 395
-    commentsToLikes: 0.011676
+    followers: 86887
+    engagement: 491
+    commentsToLikes: 0.010311
     id: ck1376ia7a16i0i19uj96ns5l
     verified: false
-    hashtags: ""
-  - username: "oaktreecottage17"
-    fullname: >-
-      
-    location: "United States"
-    followers: 10808
-    engagement: 1286
-    commentsToLikes: 0.057990
-    id: ck13bj9ofvoa00i192q6m7gqf
-    verified: false
-    hashtags: "#victoriangarden, #romanticgardens, #pinkflowers, #springiscoming"
-  - username: "susanbranchauthor"
-    fullname: >-
-      Susan Branch
-    location: "United States"
-    followers: 18981
-    engagement: 971
-    commentsToLikes: 0.040008
-    id: ck1389sscf72z0i192iuuxwfu
-    verified: false
-    hashtags: "#seasons, #heartofthehome, #shadow, #thegoodhandwriting"
-  - username: "tabi.gandee"
-    fullname: >-
-      Tabi (@awesome._.socks)
-    location: "United States"
-    followers: 9440
-    engagement: 916
-    commentsToLikes: 0.066734
-    id: ck5hgh64t2quw0i11rjd10u5d
-    verified: false
-    hashtags: "#quinceandco, #knittoy, #glowforge, #greenhouse"
+    hashtags: "#motelrocks, #onda, #loradicarlopartner"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Birmingham In 2020
 description: >-
-  Find top nutrition Instagram influencers in Birmingham in 2020. Most popular hashtags: #training #motivation #inspiration #gymlife.
+  Find top nutrition Instagram influencers in Birmingham in 2020. Most popular hashtags: #ad #fitnesslover #gifted #gymtherapy.
 platform: Instagram
 profiles:
-  - username: "charlotteemmma"
+  - username: "ben.gym.in_"
     fullname: >-
-      Charlotte
+      Benjamin Hutchings 🐢
     location: "United Kingdom"
-    followers: 31628
-    engagement: 362
-    commentsToLikes: 0.086621
-    id: ck0w36syfrvf10i19qhbolx1y
+    followers: 2972
+    engagement: 1262
+    commentsToLikes: 0.076943
+    id: ckaox6ykpc22b0i78crwteofs
     verified: false
-    hashtags: "#meatfreenottastefree, #maketheswap, #ratemybowl, #toasttuesday"
-  - username: "tabslifts"
-    fullname: >-
-      🌻TABS LOFTS🌻
-    location: "United Kingdom"
-    followers: 10751
-    engagement: 1333
-    commentsToLikes: 0.090203
-    id: ck8takzw3s7990j78ziiid6f7
-    verified: false
-    hashtags: "#isolationadvice, #motivation, #fitnessmotivation, #crossfit"
+    hashtags: "#strength, #crossfitworkout, #hipmobility, #yogaroutine"
   - username: "myleshesson"
     fullname: >-
       Myles Hesson
     location: "United Kingdom"
-    followers: 2960
-    engagement: 1375
-    commentsToLikes: 0.064126
+    followers: 2966
+    engagement: 1382
+    commentsToLikes: 0.064655
     id: ck5c9k4whbkwp0i1177fsj6g0
     verified: true
     hashtags: "#meinjd, #adidasalwayson, #ad, #beyourpersonalbest"
   - username: "steflikesplants"
     fullname: >-
-      stefanie
+      Stef | Health + Lifestyle ✨🌈
     location: "United Kingdom"
-    followers: 13331
-    engagement: 475
-    commentsToLikes: 0.054473
+    followers: 14126
+    engagement: 417
+    commentsToLikes: 0.092426
     id: ck5zua8o31za70i14zxd2ptpe
     verified: false
-    hashtags: ""
-  - username: "tabslifts"
+    hashtags: "#health, #ad, #gifted, #takefive"
+  - username: "charlotteemmma"
     fullname: >-
-      🌻TABS LOFTS🌻
+      Charl
     location: "United Kingdom"
-    followers: 10751
-    engagement: 1333
-    commentsToLikes: 0.090203
-    id: ck8takzw3s7990j78ziiid6f7
+    followers: 32482
+    engagement: 406
+    commentsToLikes: 0.114588
+    id: ck0w36syfrvf10i19qhbolx1y
     verified: false
-    hashtags: "#isolationadvice, #motivation, #fitnessmotivation, #crossfit"
-  - username: "kieliszkowskimateusz"
+    hashtags: "#ad, #isolationinspiration, #mentalhealthawareness"
+  - username: "giarnni_regini_moran"
     fullname: >-
-      Mateusz Kieliszkowski
+      ⠀⠀⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀>GIARNNI<
     location: "United Kingdom"
-    followers: 133183
-    engagement: 680
-    commentsToLikes: 0.019620
-    id: ck0w0glhoe39c0i199f2yofj1
-    verified: false
-    hashtags: "#dubai, #wus, #arnoldclassic, #muscle"
-  - username: "miki_ferris"
+    followers: 34960
+    engagement: 563
+    commentsToLikes: 0.006050
+    id: ck5q0r4437cix0i11c2s1ueou
+    verified: true
+    hashtags: "#gymnastics, #norestforthewicked, #teamgb, #birmingham"
+  - username: "lucynukesfit"
     fullname: >-
-      C O A C H    M  I  K  I
+      Lucy Newcombe😈
     location: "United Kingdom"
-    followers: 18348
-    engagement: 393
-    commentsToLikes: 0.287593
-    id: ck8t9mbx1olw90j78o48p0dq4
+    followers: 13088
+    engagement: 1550
+    commentsToLikes: 0.106753
+    id: ck8tdf6a734ey0j781wbv2fqi
     verified: false
-    hashtags: "#connected, #positivevibes, #theonlywayisthrough, #underarmour"
+    hashtags: "#homeworkout, #fitfam, #ohpolly, #gifted"
+  - username: "ornella.obrie"
+    fullname: >-
+      Ornella 💜
+    location: "United Kingdom"
+    followers: 9936
+    engagement: 1130
+    commentsToLikes: 0.210772
+    id: ck9hbouupht440j78sd9k1ys4
+    verified: false
+    hashtags: "#sub4subyoutube, #gymstagram, #instalifestyle, #trainathome"
   - username: "ciarafits"
     fullname: >-
       ciara
     location: "United Kingdom"
-    followers: 34406
-    engagement: 251
-    commentsToLikes: 0.102355
+    followers: 41105
+    engagement: 532
+    commentsToLikes: 0.105140
     id: ck6tvawgal6a50j7140s0ccpu
     verified: false
-    hashtags: "#strongwomen, #getstrong, #workoutroutine, #glutemotivation"
-  - username: "sheagillpatrick"
+    hashtags: "#pump, #instadaily, #train, #hiitworkout"
+  - username: "viennemarly"
     fullname: >-
-      Shea Gillpatrick
+      VIENNE MARLY
     location: "United Kingdom"
-    followers: 4434
-    engagement: 2207
-    commentsToLikes: 0.070342
-    id: ck6001kfbcskm0i14808znwke
+    followers: 20699
+    engagement: 1002
+    commentsToLikes: 0.030602
+    id: ck55lo2ft21410i11azonggdo
     verified: false
-    hashtags: "#michaeljordan, #inspiration, #internationalwomensday"
-  - username: "timabenbrahim_"
+    hashtags: "#lazywintersunday, #justcravingsummer, #fluffyhairdontcare, #bonditanday"
+  - username: "k.a.z.a.k.o.v.a"
     fullname: >-
-      Tima Ben Brahim, BSc MSc
+      ANASTASIYA KAZAKOVA
     location: "United Kingdom"
-    followers: 41088
-    engagement: 316
-    commentsToLikes: 0.038694
-    id: ck5hcvmpak76o0i112rece9lc
+    followers: 15653
+    engagement: 466
+    commentsToLikes: 0.104760
+    id: ckaot985cuvbn0i785b566wl2
     verified: false
-    hashtags: "#qatarinfluencers, #winter, #sorrynotsorry, #santa"
+    hashtags: "#vigornutritions, #fitnessaddict, #gymflow, #siksilk"
 ---

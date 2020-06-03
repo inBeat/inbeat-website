@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top nutrition Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #bali #love #indonesia.
+  Find top nutrition Instagram influencers in Indonesia in 2020. Most popular hashtags: #nature #stayhome #holiday #stayhomechallenge.
 platform: Instagram
 profiles:
   - username: "jihanherens"
     fullname: >-
       Jihan Salma Hereni
     location: "Indonesia"
-    followers: 3540
-    engagement: 2621
-    commentsToLikes: 0.081617
+    followers: 7465
+    engagement: 1413
+    commentsToLikes: 0.104116
     id: ck5hpf5kgr97l0i11fv1rzhfv
     verified: false
-    hashtags: "#inspirasiweddingindonesia, #smahitsbangets, #selebgramjogjakarta, #candidphotography"
+    hashtags: "#hijabselfie, #candidmoments, #bridalgown, #model"
+  - username: "tayanayarkaya"
+    fullname: >-
+      hey, I’m Tayana
+    location: "Indonesia"
+    followers: 109507
+    engagement: 322
+    commentsToLikes: 0.024537
+    id: ck0vz6tjz7ljc0i19ccgtmxs1
+    verified: false
+    hashtags: "#minimalismo, #minimalisticstyle, #stayhomechallenge, #cozyinteriors"
   - username: "faaam"
     fullname: >-
       Fahmi Ramadhan
     location: "Indonesia"
-    followers: 28857
-    engagement: 427
-    commentsToLikes: 0.015555
+    followers: 28958
+    engagement: 463
+    commentsToLikes: 0.016663
     id: ck0w5re1w529v0i19hsb9ji6r
     verified: false
-    hashtags: "#fashion, #magnumindonesia, #dirumahaja, #style"
-  - username: "lina.avilova"
+    hashtags: "#imigrasiindonesia, #magnumindonesia, #semuajadihappy, #campinaicecream"
+  - username: "amanda_strachan"
     fullname: >-
-      L I N A
+      AMANDA STRACHAN | TRAVEL
     location: "Indonesia"
-    followers: 2188
-    engagement: 1324
-    commentsToLikes: 0.045487
-    id: ck601h34sfh620i145vycpqbl
+    followers: 159623
+    engagement: 331
+    commentsToLikes: 0.024023
+    id: ck0vv2h8dn8kb0i199rg3n3qx
     verified: false
-    hashtags: ""
+    hashtags: "#plantbased, #stayhome, #staysafe, #exploring"
+  - username: "evelynmarietta"
+    fullname: >-
+      Evelyn Marieta (not Marietta)
+    location: "Indonesia"
+    followers: 25752
+    engagement: 229
+    commentsToLikes: 0.025532
+    id: ck5ce9eu6klqp0i11shp12u76
+    verified: false
+    hashtags: "#toloveisthebeginning, #diyprojects, #bellamariefrancemy, #iwd2020"
   - username: "janabrasnickova"
     fullname: >-
-      Mgr. Jana Brašničková
+      Jana Brašničková
     location: "Indonesia"
-    followers: 37176
-    engagement: 158
-    commentsToLikes: 0.017547
+    followers: 36774
+    engagement: 115
+    commentsToLikes: 0.017913
     id: ck5hkvzf6j4rl0i11u4ogau08
     verified: false
-    hashtags: "#superwoman, #sportlife, #bikinifitness, #holiday"
-  - username: "mariana___guerra"
-    fullname: >-
-      Mariana Guerra
-    location: "Indonesia"
-    followers: 3839
-    engagement: 1632
-    commentsToLikes: 0.128355
-    id: ck5hllggckfbx0i11o77eo193
-    verified: false
-    hashtags: "#travelmyanmar, #bangkok, #girlsthatwander, #travelvietnam"
-  - username: "jasonsani"
-    fullname: >-
-      Jason Sani
-    location: "Indonesia"
-    followers: 17155
-    engagement: 294
-    commentsToLikes: 0.032523
-    id: ck5q70z9pzjrh0i11izdmg3b5
-    verified: false
-    hashtags: "#stayhomeandplaywithfood, #liquidgoldsoup, #healthylivingforless, #doubledragon"
+    hashtags: "#fitfun, #happy, #manofmylife, #ticheroky"
   - username: "rucilk"
     fullname: >-
       Rudianto, S.Gz
     location: "Indonesia"
-    followers: 4179
-    engagement: 1256
-    commentsToLikes: 0.096020
+    followers: 4167
+    engagement: 1169
+    commentsToLikes: 0.104833
     id: ck6ui36p2csjc0j71rh9nyd3u
     verified: false
-    hashtags: "#fanslawan, #stayathome, #bersamamelawancorona, #bhinekatunggalika"
-  - username: "yasemenkaya7"
+    hashtags: "#bhinekatunggalika, #akutautapiakudiam, #bukansupporteralay, #satubangsasalingjaga"
+  - username: "mariana___guerra"
     fullname: >-
-      Yasemen Kaya
+      Mariana Guerra
     location: "Indonesia"
-    followers: 8522
-    engagement: 812
-    commentsToLikes: 0.027322
-    id: ck6tpqupilxrm0j71f7nk07gh
+    followers: 3864
+    engagement: 1271
+    commentsToLikes: 0.080856
+    id: ck5hllggckfbx0i11o77eo193
     verified: false
-    hashtags: "#pamukanneanne, #bendensana"
-  - username: "dietsantuy.id"
+    hashtags: "#femmetravel, #thebalibible, #girlslovetravel, #folktravel"
+  - username: "ashleemane"
     fullname: >-
-      𝗖𝗔𝗥𝗔 𝗗𝗜𝗘𝗧 𝗣𝗔𝗟𝗜𝗡𝗚 𝗦𝗔𝗡𝗧𝗨𝗬 !!!
+      Ashlee Mane IFBB Pro
     location: "Indonesia"
-    followers: 12768
-    engagement: 760
-    commentsToLikes: 0.059286
-    id: ck8t8s6vmlleo0j784q49cxcq
+    followers: 59321
+    engagement: 215
+    commentsToLikes: 0.027521
+    id: ck5q5gq9fst4o0i118tuvstw5
     verified: false
-    hashtags: "#kopidalgona, #dietenakbahagiamenyenangkan, #polahidupsehat, #dietkekinian"
-  - username: "ingeprasetyo"
+    hashtags: "#saam, #happycincodemayo, #protectivehairstyles, #dickenson"
+  - username: "sabrinabussandri"
     fullname: >-
-      Inge Prasetyo
+      Sabrina Bussandri
     location: "Indonesia"
-    followers: 5692
-    engagement: 596
-    commentsToLikes: 0.055005
-    id: ck6ufol7yy8pc0j71h096wfgk
+    followers: 85436
+    engagement: 161
+    commentsToLikes: 0.091665
+    id: ck6twtgw4tzwm0j71rmbefv60
     verified: false
-    hashtags: "#daretodream, #keephealthy, #diyworkout, #healthybreakfast"
+    hashtags: ""
 ---

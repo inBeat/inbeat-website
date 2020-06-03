@@ -1,107 +1,107 @@
 ---
 title: Top 10 Comedians Instagram Influencers In Chicago In 2020
 description: >-
-  Find top comedians Instagram influencers in Chicago in 2020. Most popular hashtags: #comedy #chicago #coronavirus #quarantine.
+  Find top comedians Instagram influencers in Chicago in 2020. Most popular hashtags: #comedian #bestfriends #standupcomedy #painting.
 platform: Instagram
 profiles:
-  - username: "darioncomedy"
+  - username: "seilerpaints"
     fullname: >-
-      Darion Adkins
+      Jason Seiler
     location: "United States"
-    followers: 18951
-    engagement: 39
-    commentsToLikes: 0.139845
-    id: ck0w42fhzwgyl0i19lycvds95
+    followers: 33711
+    engagement: 114
+    commentsToLikes: 0.028634
+    id: ck136qwwx7tjy0i19u812c742
     verified: false
-    hashtags: "#china, #fliptheswitch, #ebola, #stimuluspackage"
+    hashtags: "#purplerain, #gregorymanchess, #oilportraitpainting, #ipadpro"
+  - username: "jeffaustin10"
+    fullname: >-
+      Jeff Austin
+    location: "United States"
+    followers: 10710
+    engagement: 551
+    commentsToLikes: 0.026363
+    id: ck0u9noy9a9tk0i19qwytrl4c
+    verified: false
+    hashtags: "#happybirthdaysambush, #telluridebluegrassfestival, #gratefulball, #winterwondergrass"
+  - username: "mayadanz"
+    fullname: >-
+      Maya Danzig
+    location: "United States"
+    followers: 5573
+    engagement: 1121
+    commentsToLikes: 0.030596
+    id: ckap1jyz1uusu0i78zva4no4x
+    verified: false
+    hashtags: ""
   - username: "merediddys"
     fullname: >-
       Meredith Stepien
     location: "United States"
-    followers: 63262
-    engagement: 502
-    commentsToLikes: 0.004398
+    followers: 64342
+    engagement: 575
+    commentsToLikes: 0.005517
     id: ck0vuvfr9mcde0i19okhp01rq
     verified: true
-    hashtags: "#spring, #socialdistancing, #walk, #frommywindow"
-  - username: "jakersnoll"
+    hashtags: "#nature, #sky, #tellmehowimdoing, #theyloveeachother"
+  - username: "darioncomedy"
     fullname: >-
-      Jake Noll
+      Darion Adkins
     location: "United States"
-    followers: 6160
-    engagement: 435
-    commentsToLikes: 0.029338
-    id: ck5cd8907ipmv0i115vp0lxxe
+    followers: 18961
+    engagement: 22
+    commentsToLikes: 0.199740
+    id: ck0w42fhzwgyl0i19lycvds95
     verified: false
-    hashtags: "#bored, #bigbang, #queercomedy, #vegan"
+    hashtags: ""
   - username: "joenicastro"
     fullname: >-
       ᴴᴬˢᴴᵀᴬᴳ ᴺᴼᵀ ᴬᴺ ᴵᴺᶠᴸᵁᴱᴺᶜᴱᴿ
     location: "United States"
-    followers: 17774
-    engagement: 489
-    commentsToLikes: 0.033577
+    followers: 17586
+    engagement: 511
+    commentsToLikes: 0.048771
     id: ck5cfe3e7mrs90i11smfvlb3f
     verified: false
-    hashtags: "#dollypartonmemechallenge, #barrysbootcamp, #chevron, #metcon"
+    hashtags: "#faceyourself, #fitfam, #barrys, #nationalnutritionday"
   - username: "richmwilliams"
     fullname: >-
       Rich Williams
     location: "United States"
-    followers: 12956
-    engagement: 1674
-    commentsToLikes: 0.039020
+    followers: 13151
+    engagement: 1738
+    commentsToLikes: 0.037928
     id: ck0vziuxm9bq10i19ol9uqwmp
     verified: false
-    hashtags: "#chicagocat, #healthandfitness, #newyear, #catobsessed"
-  - username: "alia.janine"
+    hashtags: "#moving, #blackberrypuree, #catpoetry, #healthyeating"
+  - username: "leonardbernsteinofficial"
     fullname: >-
-      Alia Janine 🦄
+      Leonard Bernstein
     location: "United States"
-    followers: 18846
-    engagement: 188
-    commentsToLikes: 0.061550
-    id: ck5ce8zemkkvh0i11rtlzkx2l
+    followers: 49637
+    engagement: 173
+    commentsToLikes: 0.005796
+    id: ck8szlvkloxt80j78k79x2i4t
     verified: false
-    hashtags: "#legend, #sketchcomedy, #breakupjokes, #maybe6"
-  - username: "binkey1"
-    fullname: >-
-      Lawrence Tolefree
-    location: "United States"
-    followers: 5801
-    engagement: 688
-    commentsToLikes: 0.099505
-    id: ck5zp27z1ruh20i148onqsnil
-    verified: false
-    hashtags: "#espn, #ripnipsey, #iloveyou, #artistlife"
-  - username: "franklin_vanderbilt"
-    fullname: >-
-      FRANKLIN VANDERBILT
-    location: "United States"
-    followers: 7989
-    engagement: 478
-    commentsToLikes: 0.061514
-    id: ck6tz0ln66ycw0j71ee7vteq3
-    verified: false
-    hashtags: "#gunsnroses, #fashion, #hero, #paris"
+    hashtags: "#1962oscars, #musiccomedy, #leonardbersntein, #teacher"
   - username: "jennifersterger"
     fullname: >-
       Jennifer Decker
     location: "United States"
-    followers: 52148
-    engagement: 627
-    commentsToLikes: 0.022521
+    followers: 53901
+    engagement: 514
+    commentsToLikes: 0.020170
     id: ck5q5jchvt5fd0i11r5e2lknt
     verified: true
-    hashtags: "#floridaman, #notbarbazon, #pretendmodel, #prowrestling"
-  - username: "nphcomedy"
+    hashtags: "#doctorwho, #swingsandmrs, #workingfromhome, #podcast"
+  - username: "jaywalton_art"
     fullname: >-
-      Natasha Pearl Hansen
+      jay walton
     location: "United States"
-    followers: 26939
-    engagement: 135
-    commentsToLikes: 0.088486
-    id: ck15q4a6m10ya0i19uh84etfi
+    followers: 30019
+    engagement: 910
+    commentsToLikes: 0.026305
+    id: ck1399k17k76p0i195pk2fqlk
     verified: false
-    hashtags: "#sponsored, #bosspartner, #flipchallenge, #balls"
+    hashtags: "#bugsbunny, #ballislife, #nickelodeon, #cartoonetwork"
 ---

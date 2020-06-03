@@ -1,49 +1,59 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Kyoto In 2020
 description: >-
-  Find top photographers Instagram influencers in Kyoto in 2020. Most popular hashtags: #kyoto #japan #art #stayhome.
+  Find top photographers Instagram influencers in Kyoto in 2020. Most popular hashtags: #kyoto #pentax67 #photographer #portra400.
 platform: Instagram
 profiles:
-  - username: "otonatabi_japan"
+  - username: "yuu0715yuki"
     fullname: >-
-      【公式】オトナ旅。一度は訪れてみたい日本の名所
+      Yuki Murauchi -YUU
     location: "Japan"
-    followers: 187117
-    engagement: 445
-    commentsToLikes: 0.002098
-    id: ck0w40gfhw6d30i19y8bob0gc
+    followers: 24024
+    engagement: 523
+    commentsToLikes: 0.031187
+    id: ck13a298fo9oq0i19tfh7p1gh
     verified: false
-    hashtags: "#aichi, #mie, #ishikawa, #fuji"
-  - username: "kyotorabbits"
+    hashtags: "#heronpreston, #photogenic, #girlsswimwear, #photographer"
+  - username: "o_o1137n_n"
     fullname: >-
-      kyotorabbits@モテ写真クリエイター
+      
     location: "Japan"
-    followers: 30773
-    engagement: 90
-    commentsToLikes: 0.002263
-    id: ck0u8252m6acs0i19ln420v25
+    followers: 59489
+    engagement: 203
+    commentsToLikes: 0.016756
+    id: ck5hopm7qpzrv0i11z8c1yq05
     verified: false
-    hashtags: "#lovers, #art, #as, #daily"
-  - username: "yohei_sawamura"
+    hashtags: "#coordinate, #happy, #nicemoments, #haveagoodtime"
+  - username: "misha_saied"
     fullname: >-
-      Yōhei Sawamura / 澤村 洋兵
+      Misha Saied
     location: "Japan"
-    followers: 112184
-    engagement: 331
-    commentsToLikes: 0.003209
-    id: ck0tza9j5pq530i19u05w21mj
+    followers: 11852
+    engagement: 512
+    commentsToLikes: 0.040039
+    id: ck5zwafom5s1j0i14m9wau3k0
     verified: false
-    hashtags: "#luminar4, #pentax645z, #galaxys20, #ambassador"
+    hashtags: "#photographer, #vloggerslife, #kyoto, #dotonbori"
+  - username: "hakuchuu1882"
+    fullname: >-
+      Koichi
+    location: "Japan"
+    followers: 38924
+    engagement: 436
+    commentsToLikes: 0.007339
+    id: ck0w5rcsh522j0i19uuqrq84z
+    verified: false
+    hashtags: "#instagramjapan, #galaxy, #instakayama, #tgrgram"
   - username: "helvetica"
     fullname: >-
       hideyuki nakao
     location: "Japan"
-    followers: 20383
-    engagement: 367
-    commentsToLikes: 0.007951
+    followers: 20625
+    engagement: 332
+    commentsToLikes: 0.006718
     id: ck6ttlob8bawe0j715yvkk34a
     verified: false
-    hashtags: "#ryosukearuse, #kousagishagallery, #japan, #ohayobiscuit"
+    hashtags: "#polaroid, #sx70, #guimauve, #lessandmore"
   - username: "madoca_uchimura"
     fullname: >-
       madoca uchimura ○ 1989 Kyoto
@@ -54,54 +64,44 @@ profiles:
     id: ck0u1t1i3xtfd0i19cr81kje4
     verified: false
     hashtags: "#film, #ishootfilm, #lomography, #analoguephotography"
+  - username: "yohei_sawamura"
+    fullname: >-
+      Yōhei Sawamura / 澤村 洋兵
+    location: "Japan"
+    followers: 112459
+    engagement: 350
+    commentsToLikes: 0.003658
+    id: ck0tza9j5pq530i19u05w21mj
+    verified: false
+    hashtags: "#teamgalaxy, #fujifilm, #handsfreechallenge, #galaxys20"
   - username: "hiroshi_mizutani_060"
     fullname: >-
       Hiroshi Mizutani
     location: "Japan"
-    followers: 2470
-    engagement: 2616
-    commentsToLikes: 0.068572
+    followers: 2513
+    engagement: 2368
+    commentsToLikes: 0.079453
     id: ck0vv1zjpn69t0i19gp4p7gpc
     verified: false
-    hashtags: "#monochrome, #all, #americanshorthair, #landscapephotography"
+    hashtags: "#flower, #flowerslovers, #kyototrip, #kyoto"
+  - username: "mich_viljoen"
+    fullname: >-
+      Michelle Viljoen
+    location: "Japan"
+    followers: 28444
+    engagement: 433
+    commentsToLikes: 0.032009
+    id: ck0vvfctpovyt0i19uzjb68jb
+    verified: false
+    hashtags: "#lensculture, #artofvisuals, #visualsoflife, #london"
   - username: "ryography_713"
     fullname: >-
       Ryo Ogawa / 小川遼
     location: "Japan"
-    followers: 40911
-    engagement: 373
-    commentsToLikes: 0.007315
+    followers: 41944
+    engagement: 379
+    commentsToLikes: 0.006411
     id: ck134rvzgxwcd0i192wkhb8ma
     verified: false
-    hashtags: "#flower, #filmphotography, #tokyo2020, #chapel"
-  - username: "formgestalter"
-    fullname: >-
-      André Alexander | Germany
-    location: "Japan"
-    followers: 136559
-    engagement: 396
-    commentsToLikes: 0.048401
-    id: ck0ty25f5laiu0i19ee1qwd48
-    verified: false
-    hashtags: "#outdoors, #japan, #sunset, #deinbayern"
-  - username: "tokio_kid"
-    fullname: >-
-      YUTO / Berlin 🎭 Tokyo, Japan
-    location: "Japan"
-    followers: 80580
-    engagement: 673
-    commentsToLikes: 0.021119
-    id: ck138e1n8fs5e0i1965b9cn50
-    verified: false
-    hashtags: "#hellofrom, #flyjal, #lightroom, #japanairlines"
-  - username: "pedro_mrnunes"
-    fullname: >-
-      ↟ Pedro Nunes ↟
-    location: "Japan"
-    followers: 7089
-    engagement: 1227
-    commentsToLikes: 0.086538
-    id: ck5zlhprzkvdx0i14ubrqnjj1
-    verified: false
-    hashtags: "#streetgrammers, #earthpix, #team, #theimaged"
+    hashtags: "#yellow, #bali, #snap, #travelgram"
 ---

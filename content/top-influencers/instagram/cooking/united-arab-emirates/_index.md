@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top cooking Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #foodphotography #instafood #foodblogger #foodporn.
+  Find top cooking Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubailife #ramadan #eidmubarak #easyrecipes.
 platform: Instagram
 profiles:
   - username: "joyfulhomecooking"
     fullname: >-
       Joyce Mrad
     location: "United Arab Emirates"
-    followers: 28061
-    engagement: 344
-    commentsToLikes: 0.093943
+    followers: 37206
+    engagement: 347
+    commentsToLikes: 0.090932
     id: ck138wefhicbv0i19f898cdo1
     verified: false
-    hashtags: "#healthywaffles, #cookwithjoyce, #vegan, #thrivemags"
-  - username: "bongfusion_indianfooduae"
+    hashtags: "#copycatrecipes, #instagood, #veganeats, #veganrecipe"
+  - username: "afsheenowais"
+    fullname: >-
+      Blessed with the Best Mommy
+    location: "United Arab Emirates"
+    followers: 29871
+    engagement: 484
+    commentsToLikes: 0.179016
+    id: ck5pw3wplkz1b0i11xno2l07p
+    verified: false
+    hashtags: "#pepperchallenge, #bakingbasics, #iftarspecial, #2020"
+  - username: "rolakitchen.uae"
+    fullname: >-
+      Rola’s Kitchen
+    location: "United Arab Emirates"
+    followers: 8670
+    engagement: 445
+    commentsToLikes: 0.237946
+    id: ck9wggt86tcnt0j78p90exchv
+    verified: false
+    hashtags: "#soups, #recipe, #healthyfood, #ramadan"
+  - username: "bongfusion_indian_fooduae"
     fullname: >-
       Fusion_Indianfoodie_UAE
     location: "United Arab Emirates"
-    followers: 16393
-    engagement: 924
-    commentsToLikes: 0.028643
+    followers: 22425
+    engagement: 661
+    commentsToLikes: 0.039843
     id: ck8t7v8p5i2wh0j78p1awm6nz
     verified: false
-    hashtags: "#indianflavours, #koftacurry, #instafood, #abudhabiblogger"
-  - username: "suvis_kitchenstory"
+    hashtags: "#chickencurry, #spicyramen, #sodelhi, #dubailife"
+  - username: "diya.nair.14"
     fullname: >-
-      Subashvini Kannan
+      Diya Nair
     location: "United Arab Emirates"
-    followers: 6575
-    engagement: 1351
-    commentsToLikes: 0.038438
-    id: ck6u25wdjpwid0j712d3j24tm
+    followers: 5554
+    engagement: 779
+    commentsToLikes: 0.220631
+    id: ckaosarccqvzu0i7864h685if
     verified: false
-    hashtags: "#toodtalkindia, #indianfoodphotography, #lndlantoodleez, #indianfoodieez"
+    hashtags: "#mangoicecream, #healthydrinks, #homechefs, #worldfoodday"
+  - username: "bossgirlpriya1792"
+    fullname: >-
+      Queen of Jet lags 🛫🇮🇳🇦🇪
+    location: "United Arab Emirates"
+    followers: 24822
+    engagement: 386
+    commentsToLikes: 0.109225
+    id: ck9webz5qjm2c0j784c8117oi
+    verified: false
+    hashtags: "#foodblogging, #etihadcrew, #flowerlove, #fridgesituation"
   - username: "zainabmsadiq"
     fullname: >-
       zainab
     location: "United Arab Emirates"
-    followers: 47229
-    engagement: 699
-    commentsToLikes: 0.022417
+    followers: 54024
+    engagement: 684
+    commentsToLikes: 0.027101
     id: ck0vxg4s8yq6z0i19ecfikicp
     verified: false
-    hashtags: "#isolationbaking, #mydailymakeup, #beautybloggersuk, #arket"
-  - username: "homemade.me"
+    hashtags: "#recipevideo, #quarantineootd, #ramadandecor, #foodofpakistan"
+  - username: "karolyammine"
     fullname: >-
-      Monica Janet
+      Karol Yammine  كارول يميّن
     location: "United Arab Emirates"
-    followers: 12571
-    engagement: 1278
-    commentsToLikes: 0.070686
-    id: ck0w1hnjqje9f0i19r4riffec
+    followers: 80008
+    engagement: 472
+    commentsToLikes: 0.648848
+    id: ck6uf496but030j71qffezhcx
     verified: false
-    hashtags: "#chickengheeroast, #nestle, #orange, #netholifry"
-  - username: "paul_estorffe"
+    hashtags: "#hubby, #ss20, #tiktok, #quarentine"
+  - username: "amysworld.tv"
     fullname: >-
-      Paul Estorffe
+      Amy Kitchingman
     location: "United Arab Emirates"
-    followers: 6203
-    engagement: 746
-    commentsToLikes: 0.105089
-    id: ck15rjqxy89e90i19gtpli1oo
+    followers: 39177
+    engagement: 428
+    commentsToLikes: 0.021526
+    id: ck5zzdo22bjiu0i14yhbx5j5v
     verified: false
-    hashtags: "#family, #picoftheday, #tart, #goals"
-  - username: "instafunny_manan"
+    hashtags: "#emcee, #presenter, #foodshalakids, #ramadan"
+  - username: "bonjoursunset"
     fullname: >-
-      Manan Desai
+      Emma | Dubai 🛫🌍☀️🌅
     location: "United Arab Emirates"
-    followers: 59521
-    engagement: 708
-    commentsToLikes: 0.010945
-    id: ck5pwjdzun3d70i114mni37zw
+    followers: 6745
+    engagement: 540
+    commentsToLikes: 0.063198
+    id: ck6ub3kws79ff0j716tqo7ypd
     verified: false
-    hashtags: "#music, #focus2020, #happywomensday, #digitalcontent"
-  - username: "sandyskitchendxb"
-    fullname: >-
-      Sandra Boghos-Letayf
-    location: "United Arab Emirates"
-    followers: 5909
-    engagement: 506
-    commentsToLikes: 0.155323
-    id: ck8t2b1zxyssu0j78tsyec4uc
-    verified: false
-    hashtags: "#cremecaramel, #custard, #vegetarianrecipe, #feedfeed"
-  - username: "maharat.bymaha"
-    fullname: >-
-      Maha Ali
-    location: "United Arab Emirates"
-    followers: 7114
-    engagement: 458
-    commentsToLikes: 0.442456
-    id: ck5pw3vozkyxu0i11cu8o4uwl
-    verified: false
-    hashtags: "#dubaipr, #orangewheels, #paid, #lifestylebloggers"
-  - username: "minaalsheikhly"
-    fullname: >-
-      Mina Al Sheikhly  مينا الشيخلي
-    location: "United Arab Emirates"
-    followers: 1956152
-    engagement: 224
-    commentsToLikes: 0.017926
-    id: ck5cc16pogj3o0i11419z2f0l
-    verified: true
-    hashtags: "#quarantine, #sister, #breakfast, #maclipstick"
+    hashtags: "#beachlife, #womentravelers, #casualaf, #uaeblogger"
 ---

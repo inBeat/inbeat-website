@@ -1,69 +1,49 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Chicago In 2020
 description: >-
-  Find top athletes Instagram influencers in Chicago in 2020. Most popular hashtags: #athlete #fitness #training #fashion.
+  Find top athletes Instagram influencers in Chicago in 2020. Most popular hashtags: #dance #capoeira #family #quarantine.
 platform: Instagram
 profiles:
   - username: "heldilox"
     fullname: >-
       Ryan Held
     location: "United States"
-    followers: 19045
-    engagement: 984
-    commentsToLikes: 0.005812
+    followers: 19282
+    engagement: 958
+    commentsToLikes: 0.006052
     id: ck138ifmtgdbt0i19m1wz6k87
     verified: true
     hashtags: "#more, #staywavy, #tyrproseries, #wearenc"
-  - username: "tivancik_ifbbpro"
+  - username: "phildavila1"
     fullname: >-
-      Theresa Ivancik Ifbb Pro 💋
+      Phil
     location: "United States"
-    followers: 168464
-    engagement: 218
-    commentsToLikes: 0.052348
-    id: ck5zn5brent8j0i144e30rpue
+    followers: 5153
+    engagement: 1023
+    commentsToLikes: 0.033981
+    id: ck8szlj64owsi0j78uzol07qg
     verified: false
-    hashtags: "#feminineandfierce, #determination, #booty, #photography"
-  - username: "stephaaniee23"
+    hashtags: "#tattoos, #famousdex, #tylayaweh, #chicagobulls"
+  - username: "dannycolaprico"
     fullname: >-
-      
+      danielle jessica colaprico
     location: "United States"
-    followers: 16276
-    engagement: 596
-    commentsToLikes: 0.015476
-    id: ck6tt2r3d89gl0j71u3wvgv94
-    verified: false
-    hashtags: "#2020, #swipeleft"
-  - username: "joeshayne"
-    fullname: >-
-      Joe
-    location: "United States"
-    followers: 2195
-    engagement: 1341
-    commentsToLikes: 0.106269
-    id: ck15q27860qrv0i198vygj3ve
-    verified: false
-    hashtags: "#nycparks, #chimarathon, #chicagomarathon, #thankyou"
-  - username: "kenzmadison"
-    fullname: >-
-      Mackenzie Madison
-    location: "United States"
-    followers: 12236
-    engagement: 624
-    commentsToLikes: 0.048661
-    id: ck5bu9m0the250i113km5uik7
-    verified: false
-    hashtags: "#strength, #trailrunning, #recycle, #angelsrest"
-  - username: "triplett90"
-    fullname: >-
-      Matt triplett
-    location: "United States"
-    followers: 54589
-    engagement: 206
-    commentsToLikes: 0.008327
-    id: ck5zvn5zq4ju60i14bvudipy5
+    followers: 33228
+    engagement: 537
+    commentsToLikes: 0.010947
+    id: ck0txfhm9iwtl0i19tkmr3it7
     verified: true
-    hashtags: "#oklahomacity, #trump, #trump2020, #marshmallow"
+    hashtags: "#nwslchampionship, #oneteam, #allittakes, #onemore"
+  - username: "courtneygano"
+    fullname: >-
+      Courtney Gano
+    location: "United States"
+    followers: 26977
+    engagement: 860
+    commentsToLikes: 0.018700
+    id: ck6u5w7fhc3vo0j71cos3u642
+    verified: true
+    hashtags: "#31weekspregnant, #pregnancyworkout, #repost, #29weeks"
   - username: "1swiftmotion"
     fullname: >-
       Manny Chacón 🇵🇷🇬🇹
@@ -78,30 +58,50 @@ profiles:
     fullname: >-
       Brittany Galvin
     location: "United States"
-    followers: 19525
-    engagement: 567
-    commentsToLikes: 0.027062
+    followers: 20378
+    engagement: 612
+    commentsToLikes: 0.029136
     id: ck5zw83rf5ns90i140i42bps4
     verified: false
-    hashtags: "#goodnight, #imalovernotafighter, #mugshotmonday, #jordanyear"
+    hashtags: "#mugshotmonday, #imalovernotafighter"
   - username: "kenkenbeastmode"
     fullname: >-
       Kennedy Moore
     location: "United States"
-    followers: 15296
-    engagement: 588
-    commentsToLikes: 0.014704
+    followers: 15388
+    engagement: 570
+    commentsToLikes: 0.015026
     id: ck14jsrlolzv50i192uvhbjpc
     verified: false
-    hashtags: "#fierce, #beautiful, #siblings, #mixedkids"
-  - username: "prospect_pipeline"
+    hashtags: "#caring, #loveher, #stellakidd, #stefanrand"
+  - username: "drjcofthedc"
     fullname: >-
-      Steve Fiorindo
+      Jason “TikTok Doc” Campbell
     location: "United States"
-    followers: 33057
-    engagement: 275
-    commentsToLikes: 0.007810
-    id: ck15rcgb578dq0i195ny9ctrt
+    followers: 128556
+    engagement: 567
+    commentsToLikes: 0.026242
+    id: ck8t7kykxh75y0j78hggrgrzs
     verified: false
-    hashtags: "#collegebaseball, #ballislife, #florida, #games"
+    hashtags: "#quarantinediaries, #antibully, #buckeyes, #hatersgonnahate"
+  - username: "caseyshort"
+    fullname: >-
+      Casey Short
+    location: "United States"
+    followers: 33386
+    engagement: 823
+    commentsToLikes: 0.011774
+    id: ckapcmoae4dgu0i7879cclrq0
+    verified: true
+    hashtags: "#youcantstopus, #isiphotos, #magellancorporation, #indoorrelay"
+  - username: "tierna_davidson"
+    fullname: >-
+      Tierna Davidson
+    location: "United States"
+    followers: 64121
+    engagement: 1995
+    commentsToLikes: 0.003287
+    id: ck0vxgrezytf60i19gls82kqc
+    verified: true
+    hashtags: "#isiphotos"
 ---

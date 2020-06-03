@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Hamburg In 2020
 description: >-
-  Find top food Instagram influencers in Hamburg in 2020. Most popular hashtags: #hamburg #instagood #travel #photooftheday.
+  Find top food Instagram influencers in Hamburg in 2020. Most popular hashtags: #food #foodpics #germany #foodporn.
 platform: Instagram
 profiles:
   - username: "skueche"
     fullname: >-
       ✬ 𝗦-Küche | 𝗦imone
     location: "Germany"
-    followers: 24159
-    engagement: 247
-    commentsToLikes: 0.054376
+    followers: 24719
+    engagement: 307
+    commentsToLikes: 0.061438
     id: ck5hooe0epxef0i11waitcbll
     verified: false
-    hashtags: "#comfortfood, #lowcarb, #foodphotography, #foodpics"
+    hashtags: "#daubeprovenc, #schnellek, #familydinner, #meingarteninhh"
+  - username: "timmaelzer_official"
+    fullname: >-
+      Tim Mälzer
+    location: "Germany"
+    followers: 369485
+    engagement: 148
+    commentsToLikes: 0.012740
+    id: ck0vw6ddusb5v0i19urndbwpj
+    verified: true
+    hashtags: "#gastronomie, #trinken, #instafood, #gemeinsamgegencorona"
   - username: "ur_coach_tobi"
     fullname: >-
-      
+      Tobias Puck
     location: "Germany"
-    followers: 5762
-    engagement: 555
-    commentsToLikes: 0.023563
+    followers: 5753
+    engagement: 551
+    commentsToLikes: 0.025837
     id: ck5q5m3fkti7t0i116p53hfja
     verified: false
-    hashtags: "#sardegna, #hamburgphotography, #cold, #christmastree"
+    hashtags: "#medicineball, #weights, #heretocreate, #wewantyou"
+  - username: "marina_jkm"
+    fullname: >-
+      HAVING A LOVELY TIME 🤍
+    location: "Germany"
+    followers: 2086
+    engagement: 1500
+    commentsToLikes: 0.124147
+    id: ckap83avamn2u0i780jx0ns5v
+    verified: false
+    hashtags: "#dreambig, #tb, #burgerdelivery, #burgerliebe"
   - username: "luziapimpinella"
     fullname: >-
       nic hildebrandt
     location: "Germany"
-    followers: 15507
-    engagement: 387
-    commentsToLikes: 0.064001
+    followers: 15721
+    engagement: 510
+    commentsToLikes: 0.056748
     id: ck5c3alr6yx260i1181de5e6m
     verified: false
-    hashtags: "#luziapimpinellamakes, #neuimblog, #diyblogger, #ilovemykid"
-  - username: "trytrytryde"
+    hashtags: "#maskeauf, #reisbowl, #justsayin, #cewefotowelt"
+  - username: "die.muellers"
     fullname: >-
-      Laura
+      Wir sind die Müllers ⚓️👨‍👩‍👧‍👧
     location: "Germany"
-    followers: 31287
-    engagement: 190
-    commentsToLikes: 0.095060
-    id: ck0ud73e5igxw0i19ap8plngf
+    followers: 2858
+    engagement: 4023
+    commentsToLikes: 0.024297
+    id: ckap6deyoffdn0i78e97w7lp5
     verified: false
-    hashtags: "#paperflowers, #paperwork, #bastelnf, #pinata"
-  - username: "kate_notes"
+    hashtags: "#diymitkindern, #shabbyvintage, #kabeltrommel, #birthdaygirl"
+  - username: "pinkpersianunicorn"
     fullname: >-
-      katharina
+      Simone (Mösi) McMILF 💋
     location: "Germany"
-    followers: 35535
-    engagement: 966
-    commentsToLikes: 0.010616
-    id: ck15u0v9ukvi50i19iro6m44t
+    followers: 44048
+    engagement: 780
+    commentsToLikes: 0.101740
+    id: ck5hj9svmg99r0i11sss0cnbu
     verified: false
-    hashtags: "#evening, #newadventures, #baby2020, #pregnant"
-  - username: "antoniacanim"
+    hashtags: "#bloggerlife, #hair, #selfie, #32nd"
+  - username: "madam_oliviavon"
     fullname: >-
-      𝐓 𝐎 𝐍 𝐀
+      Timetraveler
     location: "Germany"
-    followers: 6785
-    engagement: 2689
-    commentsToLikes: 0.121081
-    id: ck8t3cvft2sat0j78squ0ffvv
+    followers: 3953
+    engagement: 2973
+    commentsToLikes: 0.038490
+    id: ckap85tv0myfi0i78mnu33k76
     verified: false
-    hashtags: "#blueeyes, #paypalme, #ostaragogirls, #cuxhaven"
-  - username: "yuna_11_00"
+    hashtags: "#spaziergang, #homesweethome, #cooking, #painting"
+  - username: "levs_goodfood"
     fullname: >-
-      
+      Micha
     location: "Germany"
-    followers: 10494
-    engagement: 970
-    commentsToLikes: 0.028016
-    id: ck6u56qxy7x3n0j714mjd708d
+    followers: 3993
+    engagement: 2169
+    commentsToLikes: 0.111034
+    id: ckapa4nlhuove0i78bwxqsbza
     verified: false
-    hashtags: "#gym, #instalike, #instamood, #moments"
-  - username: "carlatinkerbelli"
+    hashtags: "#spareribs, #traegerday, #italianfood, #firechefs"
+  - username: "jan_stuehmer"
     fullname: >-
-      𝕗𝕚𝕥𝕟𝕖𝕤𝕤, 𝕗𝕠𝕠𝕕 𝕒𝕟𝕕 𝕗𝕒𝕤𝕙𝕚𝕠𝕟
+      Mister Grey 👨🏼‍🦳
     location: "Germany"
-    followers: 9300
-    engagement: 1229
-    commentsToLikes: 0.336867
-    id: ck8ta6hqzqmg90j78r60s89l8
+    followers: 201003
+    engagement: 343
+    commentsToLikes: 0.035183
+    id: ck5bv66cvj2au0i11evuuvo9r
     verified: false
-    hashtags: "#blonde, #anajohnsonpreset, #prettylittletrip, #fashion"
-  - username: "paulgriffig"
-    fullname: >-
-      Paul Griffig
-    location: "Germany"
-    followers: 137629
-    engagement: 327
-    commentsToLikes: 0.012649
-    id: ck5pwpw2eo04v0i11mceftk0w
-    verified: false
-    hashtags: "#birthday, #holiday, #motivation, #nivea"
-  - username: "marcelljansen"
-    fullname: >-
-      Marcell Jansen
-    location: "Germany"
-    followers: 39868
-    engagement: 475
-    commentsToLikes: 0.013894
-    id: ck0u9tgt2amx80i19x7gswmhg
-    verified: true
-    hashtags: "#nurderhsv, #kinneloa, #1euroticketspende, #shots"
+    hashtags: "#shooting, #shoot, #beachboy, #model"
 ---

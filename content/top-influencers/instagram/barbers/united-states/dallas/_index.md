@@ -1,107 +1,107 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Dallas In 2020
 description: >-
-  Find top barbers Instagram influencers in Dallas in 2020. Most popular hashtags: #barber #barbershopconnect #dallasbarber #dallas.
+  Find top barbers Instagram influencers in Dallas in 2020. Most popular hashtags: #dallas #beard #quarantine #freshcut.
 platform: Instagram
 profiles:
-  - username: "jcthabarber"
+  - username: "thestarsbarber"
     fullname: >-
-      JC ThaBarber 🐼
+      Barry Hairston /TheStarsBarber
     location: "United States"
-    followers: 102180
-    engagement: 73
-    commentsToLikes: 0.034872
-    id: ck5q381s0jnw40i11ja4gn1xu
+    followers: 35176
+    engagement: 205
+    commentsToLikes: 0.006297
+    id: ck5q89pw353pb0i111ops9k9v
     verified: false
-    hashtags: "#quarantineandchill, #newyorkbarber, #newyork, #portland"
-  - username: "kdemery_"
+    hashtags: "#physique, #barberconnect, #buzzfeed, #hairstyles"
+  - username: "bhonstylez"
     fullname: >-
-      Mentor
+      Dallas Barber • Angel
     location: "United States"
-    followers: 6083
-    engagement: 915
-    commentsToLikes: 0.057820
-    id: ck15rsofo9i4f0i19ibvl3m7q
+    followers: 7569
+    engagement: 2327
+    commentsToLikes: 0.008799
+    id: ckaoshlqwrjvm0i785cw6bruk
     verified: false
-    hashtags: "#dallastx, #kdemery, #barbershop, #faded"
-  - username: "byrdmena"
-    fullname: >-
-      SharpFade 🇻🇪
-    location: "United States"
-    followers: 54759
-    engagement: 126
-    commentsToLikes: 0.038080
-    id: ck0w55fgj1zih0i19h3iwjsra
-    verified: false
-    hashtags: "#haircolor, #roamluggage, #connecticut, #laspalmasdegrancanaria"
-  - username: "diego_djdgaf"
-    fullname: >-
-      Diego Elizarraras ✪
-    location: "United States"
-    followers: 148055
-    engagement: 121
-    commentsToLikes: 0.056632
-    id: ck6tp1jkyhbfg0j71af8ewr3i
-    verified: false
-    hashtags: "#sandiego, #kobebryant, #gucci, #portland"
-  - username: "c10cuin"
-    fullname: >-
-      Ana Cuin
-    location: "United States"
-    followers: 49369
-    engagement: 975
-    commentsToLikes: 0.028079
-    id: ck5hkg4noiczs0i111dwvnhaq
-    verified: false
-    hashtags: "#saturdaynight, #shortpeopleproblems, #family, #dfwphotography"
-  - username: "abelthebarber"
-    fullname: >-
-      Abel Hernandez
-    location: "United States"
-    followers: 17117
-    engagement: 567
-    commentsToLikes: 0.029387
-    id: ck15rspkg9ia20i19y65rx7xa
-    verified: false
-    hashtags: "#hairstyle, #curls, #menshairworld, #butterfade"
-  - username: "emilygoldglows"
-    fullname: >-
-      Emily Gold✨
-    location: "United States"
-    followers: 90739
-    engagement: 1600
-    commentsToLikes: 0.082747
-    id: ck55n2bsi5bt30i118ctic2ay
-    verified: false
-    hashtags: "#makeupfortheday, #giveaways, #free, #competition"
-  - username: "lizcooktattoo"
-    fullname: >-
-      Liz Cook
-    location: "United States"
-    followers: 229550
-    engagement: 107
-    commentsToLikes: 0.024896
-    id: ck5zs29ofxoos0i149feme48h
-    verified: false
-    hashtags: "#pmumachinetraining, #tattooeducation, #maletattoos, #bishopwand"
+    hashtags: ""
   - username: "acyisfaster"
     fullname: >-
       Tremayne “Turbo🚀” Acy
     location: "United States"
-    followers: 11225
-    engagement: 641
-    commentsToLikes: 0.055553
+    followers: 11058
+    engagement: 600
+    commentsToLikes: 0.051288
     id: ck5zollupqtp60i14gezaql9b
     verified: false
-    hashtags: "#big25, #explore, #viral, #big26"
-  - username: "imagesbyahmadj"
+    hashtags: "#big25, #shewaytaller, #tmis, #dallas"
+  - username: "rickey_ricvrdo"
     fullname: >-
-      Pitcha Mane
+      🖤 RICARDO JR. ™
     location: "United States"
-    followers: 11942
-    engagement: 322
-    commentsToLikes: 0.106360
-    id: ck5c4u1sa23sd0i11g92huzwk
+    followers: 6722
+    engagement: 406
+    commentsToLikes: 0.056258
+    id: ck6tk5jjn41jp0j7189f196hv
     verified: false
-    hashtags: "#pitchamane, #flirty30, #spring, #summer"
+    hashtags: "#ncaafootball, #dreads, #nflbarber, #dallasnightlife"
+  - username: "mack_a_fool"
+    fullname: >-
+      Mack
+    location: "United States"
+    followers: 62721
+    engagement: 136
+    commentsToLikes: 0.156364
+    id: ck8t2j8i9zpgr0j78gjpsiy24
+    verified: false
+    hashtags: "#challenge, #offensive, #legal, #heartonice"
+  - username: "abelthebarber"
+    fullname: >-
+      Abel Hernandez
+    location: "United States"
+    followers: 17020
+    engagement: 542
+    commentsToLikes: 0.031912
+    id: ck15rspkg9ia20i19y65rx7xa
+    verified: false
+    hashtags: "#dallascowboys, #scribble, #statecapital, #labarber"
+  - username: "azimi.fades"
+    fullname: >-
+      Samir Azimi 🇦🇫
+    location: "United States"
+    followers: 2128
+    engagement: 1030
+    commentsToLikes: 0.056773
+    id: ckaovbltw3va60i7824c4ean9
+    verified: false
+    hashtags: "#worldofbarbers"
+  - username: "lizcooktattoo"
+    fullname: >-
+      Liz Cook
+    location: "United States"
+    followers: 230462
+    engagement: 103
+    commentsToLikes: 0.024202
+    id: ck5zs29ofxoos0i149feme48h
+    verified: false
+    hashtags: "#denvertattoos, #tattooart, #tattoorealistic, #sleevetattoos"
+  - username: "elitebarberslounge"
+    fullname: >-
+      Joliet, Chicago
+    location: "United States"
+    followers: 243396
+    engagement: 48
+    commentsToLikes: 0.008074
+    id: ck5bw39qgkwxy0i119oy52wni
+    verified: false
+    hashtags: "#parkridge, #degrademasculino, #barbeiromoderno, #repostacorte"
+  - username: "iamfatpimp"
+    fullname: >-
+      Fat Pimp
+    location: "United States"
+    followers: 47920
+    engagement: 77
+    commentsToLikes: 0.088020
+    id: ck5zqfzxguivj0i14r2xnvvo5
+    verified: true
+    hashtags: "#suc, #quarantinedancechallenge, #hidalgo, #ciroc"
 ---

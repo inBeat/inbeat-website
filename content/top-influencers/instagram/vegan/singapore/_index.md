@@ -1,87 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Singapore In 2020
 description: >-
-  Find top vegan Instagram influencers in Singapore in 2020. Most popular hashtags: #vegan #stayhome #singapore #staysafe.
+  Find top vegan Instagram influencers in Singapore in 2020. Most popular hashtags: #veganfood #staysafe #vegan #stayhome.
 platform: Instagram
 profiles:
+  - username: "doozy.sg"
+    fullname: >-
+      
+    location: "Singapore"
+    followers: 11290
+    engagement: 544
+    commentsToLikes: 0.019791
+    id: ck6tucqnpfl6c0j71d6w8d9wk
+    verified: false
+    hashtags: "#plants, #strelitzia, #weneedtostandstrong, #suicidegirls"
   - username: "cravings4vegan"
     fullname: >-
       Nisha🙏
     location: "Singapore"
-    followers: 8277
-    engagement: 929
-    commentsToLikes: 0.442915
+    followers: 9146
+    engagement: 975
+    commentsToLikes: 0.529783
     id: ck134qfltxp6r0i19bk4o1m7h
     verified: false
-    hashtags: "#organic, #pinkoctober, #dahivada, #potatotomatocurry"
-  - username: "ampliobeauty_by_nmita"
-    fullname: >-
-      Nmita Doak
-    location: "Singapore"
-    followers: 15795
-    engagement: 100
-    commentsToLikes: 0.119196
-    id: ck5q80p9j3xjz0i11su471e6b
-    verified: false
-    hashtags: "#dubaiglutenfree, #indianfashion, #lipliner, #singaporestyle"
+    hashtags: "#fenugreek, #instafollow, #mangoes, #freshsalad"
   - username: "angeliqueteo"
     fullname: >-
       Angelique Nicolette Teo
     location: "Singapore"
-    followers: 18285
-    engagement: 634
-    commentsToLikes: 0.123427
+    followers: 18140
+    engagement: 659
+    commentsToLikes: 0.119655
     id: ck5hnkcnnnxiw0i11iok283vh
     verified: false
-    hashtags: "#baubles, #december, #yearoftherat, #vegan"
+    hashtags: "#workhard, #celebrateyou, #earthhour2020, #solitude"
+  - username: "qingxiangsqx"
+    fullname: >-
+      Qx's Food Journal
+    location: "Singapore"
+    followers: 10689
+    engagement: 764
+    commentsToLikes: 0.134611
+    id: ck6u10dfiit2c0j71ir7z5jl8
+    verified: false
+    hashtags: "#klooksgfoodie, #giveawaysg, #sgpromo, #veganfood"
+  - username: "lalinderosa"
+    fullname: >-
+      Rosalinde | Bali Model
+    location: "Singapore"
+    followers: 26286
+    engagement: 297
+    commentsToLikes: 0.034572
+    id: ck0tz3k35p1qs0i19cswxpk9v
+    verified: false
+    hashtags: "#modeling, #sunny, #bohemiandiesel, #covid19"
   - username: "nikolai_wee"
     fullname: >-
       Nikolai Wee
     location: "Singapore"
-    followers: 11911
-    engagement: 495
-    commentsToLikes: 0.084615
+    followers: 12671
+    engagement: 592
+    commentsToLikes: 0.085434
     id: ck8ta1ffxq3mp0j78afbzyijl
     verified: false
-    hashtags: "#hightealover, #sggooddeal, #nothingstandinginmyway, #jellyart"
-  - username: "iamjamieyeo"
+    hashtags: "#gelatolovers, #cocasg, #lollasg, #mosanco"
+  - username: "jjkatherine"
     fullname: >-
-      Jamie Yeo
+      Katherine Tan
     location: "Singapore"
-    followers: 99232
-    engagement: 134
-    commentsToLikes: 0.021844
-    id: ck5zql7zput2r0i14ldqsc3a0
-    verified: true
-    hashtags: "#shotwithiphone11promax, #thingstodosanfrancisco, #enterogermina, #lastfridaynight"
-  - username: "jshraddhagaurav"
-    fullname: >-
-      Life_is_beYOUtiful
-    location: "Singapore"
-    followers: 3472
-    engagement: 925
-    commentsToLikes: 0.424985
-    id: ck0w1hlyvje1a0i19cmpk4ec9
+    followers: 37787
+    engagement: 183
+    commentsToLikes: 0.150812
+    id: ck5zkb3dwj5f40i14v96ewal9
     verified: false
-    hashtags: "#positivequote, #mumbaifoodies, #rice, #blooming"
-  - username: "daylightpotato"
+    hashtags: "#homecooking, #hamcheese, #freshlove, #bbqporkribs"
+  - username: "notveron"
     fullname: >-
-      Life of a Potato 🥔
+      veronica ♡
     location: "Singapore"
-    followers: 49333
-    engagement: 1235
-    commentsToLikes: 0.010666
-    id: ck0w0mc7dexmj0i19unbivzfq
+    followers: 12885
+    engagement: 466
+    commentsToLikes: 0.043215
+    id: ck5py4mqeual70i11t3ma7vxt
     verified: false
-    hashtags: "#oranges, #stories, #tomato, #blessing"
-  - username: "lamamatropicana"
+    hashtags: "#shopee, #koreanbeauty, #ezbuysg, #style"
+  - username: "gayatriisingh"
     fullname: >-
-      Motherhood Blog & Shop 🌺
+      Gayatri Singh-Culinary Nirvana
     location: "Singapore"
-    followers: 62164
-    engagement: 205
-    commentsToLikes: 0.006792
-    id: ck8tbvnxfxbud0j780k3twih7
+    followers: 37286
+    engagement: 103
+    commentsToLikes: 0.226808
+    id: ck5q80oyr3xfs0i11vvgn5phe
     verified: false
-    hashtags: "#essentialoils, #vegan, #aromatherapy, #moanaskin"
+    hashtags: "#southindianfood, #nikond750, #frommykitchen, #baked"
+  - username: "iamchubbypotato"
+    fullname: >-
+      Chubby Potato
+    location: "Singapore"
+    followers: 2803
+    engagement: 1098
+    commentsToLikes: 0.064367
+    id: ck136ffj168as0i19d532nyct
+    verified: false
+    hashtags: "#homefood, #cappadocia, #bihu, #quickbiryani"
 ---

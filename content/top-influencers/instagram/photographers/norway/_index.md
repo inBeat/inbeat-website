@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Norway In 2020
 description: >-
-  Find top photographers Instagram influencers in Norway in 2020. Most popular hashtags: #norway #lofoten #iceland #photography.
+  Find top photographers Instagram influencers in Norway in 2020. Most popular hashtags: #nature #thebestofnorway #norwaytravel #visitnorway.
 platform: Instagram
 profiles:
   - username: "majamoan"
     fullname: >-
       Maja Moan
     location: "Norway"
-    followers: 12368
-    engagement: 569
-    commentsToLikes: 0.145737
+    followers: 12120
+    engagement: 585
+    commentsToLikes: 0.144669
     id: ck1385lcyel7x0i1977nwigj6
     verified: false
-    hashtags: "#nature, #goldinterior, #photography, #photoshoot"
+    hashtags: "#productphotography, #moody, #earthfocus, #portraitstream"
   - username: "damianpt.no"
     fullname: >-
       🇵🇱•Damian•🇳🇴
     location: "Norway"
-    followers: 184480
-    engagement: 389
-    commentsToLikes: 0.017690
+    followers: 192896
+    engagement: 518
+    commentsToLikes: 0.016403
     id: ck5c3emjez64i0i11f7cce85o
     verified: false
-    hashtags: "#friday, #personaltrainer, #stayfit, #nikon"
+    hashtags: "#southafrica, #plants, #chill, #homegym"
+  - username: "hispanicguava"
+    fullname: >-
+      Ava Caceres
+    location: "Norway"
+    followers: 6407
+    engagement: 969
+    commentsToLikes: 0.049758
+    id: ck9h9nbr4964m0j78gjv8w8d5
+    verified: false
+    hashtags: ""
+  - username: "kristian_andersen95"
+    fullname: >-
+      Kristian | Travel & 𝕃𝕚𝕗𝕖𝕤𝕥𝕪𝕝𝕖
+    location: "Norway"
+    followers: 12667
+    engagement: 854
+    commentsToLikes: 0.099319
+    id: ck5ccssmyhy4k0i11w7wnms5a
+    verified: false
+    hashtags: "#newhome, #adultish, #galaxys20plus, #quarantinelife"
   - username: "oscar_johansen"
     fullname: >-
       OSCAR ╳JOHANSEN / Fitness
     location: "Norway"
-    followers: 3184
-    engagement: 923
-    commentsToLikes: 0.169893
+    followers: 3156
+    engagement: 976
+    commentsToLikes: 0.175922
     id: ck14kw62jrm9x0i190b36msvx
     verified: false
-    hashtags: "#inspiration, #photographer, #creativity, #alphalete"
-  - username: "perheimly"
+    hashtags: "#dtla, #graffiti, #happynewyear, #workout"
+  - username: "geir_arne_rosvold"
     fullname: >-
-      perheimly
+      Geir Arne Rosvold
     location: "Norway"
-    followers: 15339
-    engagement: 579
-    commentsToLikes: 0.024832
-    id: ck5hl6njdjnxl0i111i5ekduz
+    followers: 16942
+    engagement: 962
+    commentsToLikes: 0.139247
+    id: ck5q13f5792yx0i11pjpwbts8
     verified: false
-    hashtags: "#kitschpainter, #window, #corona, #iceland"
+    hashtags: "#stovegolvet, #hunderinorge, #rabequipment, #country"
   - username: "hansgunnaraslaksen"
     fullname: >-
       Hans Gunnar Aslaksen
     location: "Norway"
-    followers: 31831
-    engagement: 859
-    commentsToLikes: 0.075973
+    followers: 36116
+    engagement: 830
+    commentsToLikes: 0.073075
     id: ck15q3rx60ye60i19y56g75ld
     verified: false
-    hashtags: "#exploreourearth, #norgefoto, #nationalearth, #passionpassport"
-  - username: "kflathaug"
+    hashtags: "#builtforwinter, #tgif, #bbcearth, #nisifilters"
+  - username: "perheimly"
     fullname: >-
-      Kenneth Flathaug Photography
+      perheimly
     location: "Norway"
-    followers: 12795
-    engagement: 1347
-    commentsToLikes: 0.060574
-    id: ck0u9mc1ba3mt0i19p8rq88x8
+    followers: 15457
+    engagement: 411
+    commentsToLikes: 0.021601
+    id: ck5hl6njdjnxl0i111i5ekduz
     verified: false
-    hashtags: ""
-  - username: "christineidephotography"
+    hashtags: "#photoartist, #hasselblad, #fashion, #catlover"
+  - username: "jadkaram"
     fullname: >-
-      Elopement Photographer Norway
+      Jad Karam
     location: "Norway"
-    followers: 6658
-    engagement: 391
-    commentsToLikes: 0.037168
-    id: ck5hgnff13qfh0i11fa93xkvb
+    followers: 11500
+    engagement: 1218
+    commentsToLikes: 0.190833
+    id: ck9wfowhxpu3a0j784zja6d86
     verified: false
-    hashtags: "#lofoten, #adventuresenja, #elopementnorway, #junebugweddings"
+    hashtags: "#special, #super, #dreamynorway, #igworld"
   - username: "morten_munthe"
     fullname: >-
       Morten Munthe
     location: "Norway"
-    followers: 14599
-    engagement: 1268
-    commentsToLikes: 0.054492
+    followers: 15456
+    engagement: 1319
+    commentsToLikes: 0.058641
     id: ck14km5jxq7010i19b7rd70nb
     verified: false
     hashtags: ""
-  - username: "geir_ketil_haga"
-    fullname: >-
-      Geir Ketil Haga 🇳🇴
-    location: "Norway"
-    followers: 9992
-    engagement: 1181
-    commentsToLikes: 0.069125
-    id: ck15u37fhl7ds0i19vcpmeui6
-    verified: false
-    hashtags: "#japanlighthouseclub, #sculpture, #trinitychurch, #arendal"
-  - username: "vsiras"
-    fullname: >-
-      Vasilis • The Daily Traveller
-    location: "Norway"
-    followers: 7222
-    engagement: 1052
-    commentsToLikes: 0.134536
-    id: ck0tvhwhebfci0i19tzin1fd1
-    verified: false
-    hashtags: "#igersiceland, #hotelsandresorts, #acropolis, #aroundiceland"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Canada In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Canada in 2020. Most popular hashtags: #bodybuilding #muscle #fitnessmotivation #fitnessmodel.
+  Find top bodybuilding Instagram influencers in Canada in 2020. Most popular hashtags: #motivation #muscle #supplements #liftheavy.
 platform: Instagram
 profiles:
   - username: "kevjbradley"
     fullname: >-
       Kevin Bradley
     location: "Canada"
-    followers: 22162
-    engagement: 1939
-    commentsToLikes: 0.019523
+    followers: 34579
+    engagement: 1499
+    commentsToLikes: 0.017450
     id: ck8t8cgi4jx630j78qveofmgz
     verified: false
-    hashtags: "#transformationtuesday, #covidhaircut"
-  - username: "jeffnippard"
-    fullname: >-
-      Jeff Nippard
-    location: "Canada"
-    followers: 489129
-    engagement: 528
-    commentsToLikes: 0.015419
-    id: ck0vwiutxu0k00i19adoqlt6m
-    verified: false
-    hashtags: "#weback, #couplesgymselfie, #pandemicedition, #teamrise"
+    hashtags: "#transformationtuesday, #novascotiastrong"
   - username: "mtsinkorang"
     fullname: >-
       MATT TSINKORANG 🇨🇦🇬🇭🇺🇦
     location: "Canada"
-    followers: 26404
-    engagement: 416
-    commentsToLikes: 0.038124
+    followers: 26266
+    engagement: 398
+    commentsToLikes: 0.055518
     id: ck6tvb178l73f0j71z3bgp0k1
     verified: false
-    hashtags: "#ifbbinternational, #ifbbpro, #fitness, #richmondbc"
+    hashtags: "#mutantnation, #healthyfood, #deltabc, #ubc"
+  - username: "jeffnippard"
+    fullname: >-
+      Jeff Nippard
+    location: "Canada"
+    followers: 500616
+    engagement: 493
+    commentsToLikes: 0.016207
+    id: ck0vwiutxu0k00i19adoqlt6m
+    verified: false
+    hashtags: "#weback, #couplesgymselfie, #sipcurls, #teamrise"
+  - username: "patty.lifts"
+    fullname: >-
+      Coach Patty Lifts | Natty Pro
+    location: "Canada"
+    followers: 42802
+    engagement: 306
+    commentsToLikes: 0.050743
+    id: ckap1zpy4wr9r0i78zdfp5o1i
+    verified: false
+    hashtags: "#fitnesslover, #weights, #beachbum, #fitgram"
   - username: "erica_nagy"
     fullname: >-
       Erica Nagy
     location: "Canada"
-    followers: 2226
-    engagement: 802
-    commentsToLikes: 0.053422
+    followers: 2229
+    engagement: 781
+    commentsToLikes: 0.059499
     id: ck5q0qroc7auy0i11egcmxrw1
     verified: false
-    hashtags: "#squats, #deadlift, #mobility, #coronaandchill"
+    hashtags: "#coronashutdown, #ijustmissmyfransss, #covidthoughts, #corona"
   - username: "rep300"
     fullname: >-
       Ron Partlow IFBB Pro🇨🇦
     location: "Canada"
-    followers: 42184
-    engagement: 105
-    commentsToLikes: 0.035825
+    followers: 42132
+    engagement: 99
+    commentsToLikes: 0.051267
     id: ck5cbz3wigfa40i11qhre8yhj
     verified: false
-    hashtags: "#supertraining, #powerprojectpodcast, #bodybuildingmotivation, #thefreak"
+    hashtags: "#5guys, #themuscledoc, #mountaindog, #flying"
   - username: "drsarasolomon"
     fullname: >-
       Dr. Sara Solomon, BSc PT, DMD
     location: "Canada"
-    followers: 47574
-    engagement: 99
-    commentsToLikes: 0.058067
+    followers: 48148
+    engagement: 103
+    commentsToLikes: 0.082304
     id: ck6ufo4rty5uw0j71gfc0sbho
     verified: false
-    hashtags: "#overheadmobility, #togetherapart, #strongerthanyouthink, #poledancer"
-  - username: "jednorthbodybuilding"
+    hashtags: "#reclinedhero, #sorcery, #stomachvacuum, #leggingsaddict"
+  - username: "hsimranofficial"
     fullname: >-
-      Jed North Bodybuilding
+      Harsimran Singh|Fitness Coach
     location: "Canada"
-    followers: 160026
-    engagement: 129
-    commentsToLikes: 0.021774
-    id: ck0tzuj5srph90i195l4hd2ci
+    followers: 47971
+    engagement: 255
+    commentsToLikes: 0.007633
+    id: ckap66w2menm20i78espsdrsu
     verified: false
-    hashtags: "#physique, #abs, #gymlife, #fitnessaddict"
-  - username: "akbar___sarbaz"
+    hashtags: "#healthylifestyle, #onedirection, #bodybuilding365, #jointeambodybuilding365"
+  - username: "amandaduplessisfit"
     fullname: >-
-      Ifbbpro Akbar Sarbaz
+      Amanda
     location: "Canada"
-    followers: 145377
-    engagement: 968
-    commentsToLikes: 0.016682
-    id: ck0vwqjpfv3fy0i19koeml9i1
+    followers: 10220
+    engagement: 938
+    commentsToLikes: 0.102225
+    id: ck5zk3ajjiqie0i148umapojy
     verified: false
-    hashtags: "#gymlife, #fitfam, #fitnessaddict, #fitness"
-  - username: "maral_tabatabaee"
+    hashtags: "#lasenza, #nomakeup, #springstyle, #scrunchbutt"
+  - username: "jmlgold"
     fullname: >-
-      M  A  R  A  L ©
+      James-Michael Lavigne
     location: "Canada"
-    followers: 7643
-    engagement: 1047
-    commentsToLikes: 0.056174
-    id: ck6ub2lqt73us0j71empyzndf
+    followers: 27670
+    engagement: 884
+    commentsToLikes: 0.034677
+    id: ck15tdyz8hm4e0i19su2qhjs2
     verified: false
-    hashtags: "#treatyourself, #teamludachirs, #newgoals, #2020failed"
-  - username: "cor_kashif"
-    fullname: >-
-      Corey Kashif
-    location: "Canada"
-    followers: 6544
-    engagement: 1652
-    commentsToLikes: 0.026617
-    id: ck55kp7bfzsuo0i11pkveqewo
-    verified: false
-    hashtags: "#shredded, #richardscountry, #fitman, #liberty"
+    hashtags: "#abouttorelax, #lookoutshark, #jamesbond, #happynewyear"
 ---

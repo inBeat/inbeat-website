@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In India In 2020
 description: >-
-  Find top models Instagram influencers in India in 2020. Most popular hashtags: #fashion #modeling #model #modellife.
+  Find top models Instagram influencers in India in 2020. Most popular hashtags: #nature #photography #travel #.
 platform: Instagram
 profiles:
-  - username: "pappya_gaikwad_official"
+  - username: "fashionarbaj"
     fullname: >-
-      PapPya Gaikwad
+      MODEL & fASHION PHOTOGRAPHY
     location: "India"
-    followers: 1785451
-    engagement: 947
-    commentsToLikes: 0.062626
-    id: ck0u2mcaj0c8k0i192zla88ka
+    followers: 4018
+    engagement: 2856
+    commentsToLikes: 0.562940
+    id: ckaowb49g85250i781g2y9w0k
     verified: false
-    hashtags: "#stayhome, #tiktok, #handwashchallenge, #staysafe"
-  - username: "aminsalmani1"
+    hashtags: ""
+  - username: "hater_kid__"
     fullname: >-
-      Amin Salmani
+      A D i T h Y a N /| ADHi |\ 🦋✨️
     location: "India"
-    followers: 51445
-    engagement: 644
-    commentsToLikes: 0.104292
-    id: ck5c81rzv8lqn0i11qzeudfka
+    followers: 11072
+    engagement: 2799
+    commentsToLikes: 0.119190
+    id: ckaoskpdrrw750i78gpmid1kg
     verified: false
-    hashtags: "#modellife, #magazine, #vogue, #video"
-  - username: "amitsharma0425"
+    hashtags: "#kerala, #godsowncountry, #viratkohli, #covid19"
+  - username: "aprilia_maniac"
     fullname: >-
-      Amit Sharma
+      SidHarth A S
+    location: "India"
+    followers: 4540
+    engagement: 2500
+    commentsToLikes: 0.299462
+    id: ck9whx132zv8s0j78644hu0g2
+    verified: false
+    hashtags: "#vishupic, #axor, #green, #greeny"
+  - username: "abu__omezz"
+    fullname: >-
+      💫__.ابو أوميز.__💫
     location: "India"
     followers: 2476
-    engagement: 2572
-    commentsToLikes: 0.130322
-    id: ck137powucqxo0i190ess7jr6
+    engagement: 5214
+    commentsToLikes: 0.257927
+    id: ck9whsom4zb7j0j78meagh5sy
     verified: false
-    hashtags: "#newdelhi, #duetwithamit, #phadiswag, #vbfam"
-  - username: "_smile.killer__"
+    hashtags: "#mens, #edits, #will, #once"
+  - username: "mr_charmer_tejas"
     fullname: >-
-      gagul_⏺
+      👑MR TEJA$ PANDHARE👑
     location: "India"
-    followers: 9896
-    engagement: 1142
-    commentsToLikes: 0.141502
-    id: ck8wf6mqrf7ru0j78ud58gtqd
+    followers: 2948
+    engagement: 3318
+    commentsToLikes: 0.175062
+    id: ck9wfpqdipyf10j78tfb8wr2k
     verified: false
-    hashtags: "#costume, #tiktokindia, #tiktok, #fashionculture"
-  - username: "jade__amber"
+    hashtags: "#fashion, #nightphotoshoot, #sunday, #keepsupporting"
+  - username: "pa_ru_3"
     fullname: >-
-      Jade Amber
+      BIYA BABY /✿TD G
     location: "India"
-    followers: 40747
-    engagement: 546
-    commentsToLikes: 0.074318
-    id: ck5c3lh0qzka20i11vock6iif
+    followers: 9825
+    engagement: 2873
+    commentsToLikes: 0.113272
+    id: ck9wisfyj3rla0j78e76d5qiv
     verified: false
-    hashtags: "#jarmostyle, #coronavirus, #wilhelminamiami, #catwoman"
-  - username: "anas.haneef"
+    hashtags: ""
+  - username: "vinit_gujjar_sadopur"
     fullname: >-
-      Muhammed Anas
+      tiger🐅 | 👑     🌐
     location: "India"
-    followers: 24734
-    engagement: 1976
-    commentsToLikes: 0.049141
-    id: ck0w480ltx92w0i19ergfu59l
+    followers: 8317
+    engagement: 1790
+    commentsToLikes: 0.079816
+    id: ckap1zngvwqxq0i78lhvg74qg
     verified: false
-    hashtags: "#photooftheday, #visualambassadors, #india, #vscoindia"
-  - username: "t__k_5"
+    hashtags: ""
+  - username: "vis_hnu_emo_boy"
     fullname: >-
-      Ashin Tk
+      vís Hñū eMø bØy✳️❇️
     location: "India"
-    followers: 12395
-    engagement: 1023
-    commentsToLikes: 0.102537
-    id: ck0tyq7sanr5t0i19nvdsfnpz
+    followers: 21104
+    engagement: 1735
+    commentsToLikes: 0.063749
+    id: ck8tcv1q60sit0j78uv8ybrx8
     verified: false
-    hashtags: "#photograpy, #happyholi, #banglorediaries, #calicut"
-  - username: "the_indian_messieurs"
+    hashtags: "#chennai, #malayalam, #kerala360, #kozhikoden"
+  - username: "vighnesh_vg_"
     fullname: >-
-      Shivam Gupta | Men's Fashion
+      ♛ 【GU 】V I G H N E S H  VG
     location: "India"
-    followers: 17834
-    engagement: 1098
-    commentsToLikes: 0.047510
-    id: ck6tmcgr07l2x0j71tc2tt54p
+    followers: 13465
+    engagement: 1635
+    commentsToLikes: 0.222587
+    id: ck9hb79r6folz0j781nzcl5bp
     verified: false
-    hashtags: "#manmatters, #malemodel, #floraljewelry, #indianathlete"
-  - username: "kaif_ansari__"
+    hashtags: "#modeling, #mensfashionblogger, #fashionblogger"
+  - username: "shanzz_shaza"
     fullname: >-
-      Kaif Ansari™
+      ghost _queen shanzz_shaza❣️
     location: "India"
-    followers: 27422
-    engagement: 424
-    commentsToLikes: 0.061399
-    id: ck15sy871feuh0i19ekmbs27w
+    followers: 27393
+    engagement: 1081
+    commentsToLikes: 0.086972
+    id: ckap88155n8ed0i780bhhwu1k
     verified: false
-    hashtags: "#foryoupage, #indiafashionphotographer, #mensfashion, #clothingbrand"
-  - username: "saiyed_anas_"
-    fullname: >-
-      SAIYED ANAS 👑          سيد أنس
-    location: "India"
-    followers: 35664
-    engagement: 1255
-    commentsToLikes: 0.023169
-    id: ck55kjn1fzgqa0i1102b8rxui
-    verified: false
-    hashtags: "#mugshot, #saiyedanas, #anasfame, #aaru"
+    hashtags: "#love, #tiktok, #bhfyp, #tamil"
 ---

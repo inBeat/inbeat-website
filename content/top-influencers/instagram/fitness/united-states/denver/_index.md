@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Denver In 2020
 description: >-
-  Find top fitness Instagram influencers in Denver in 2020. Most popular hashtags: #fitness #denver #quarantine #quarantinelife.
+  Find top fitness Instagram influencers in Denver in 2020. Most popular hashtags: #fitness #yoga #denver #stayhome.
 platform: Instagram
 profiles:
-  - username: "supdaily"
+  - username: "sweatden"
     fullname: >-
-      Chris Thompson
+      Kelsey Sheahan
     location: "United States"
-    followers: 57204
-    engagement: 493
-    commentsToLikes: 0.046588
-    id: ck14koscwqk5a0i19qfzwgj6f
-    verified: true
-    hashtags: "#covid19, #slideinthedms, #help, #aintnosunshine"
-  - username: "h.mariep"
-    fullname: >-
-      🖤heather
-    location: "United States"
-    followers: 7755
-    engagement: 657
-    commentsToLikes: 0.043871
-    id: ck5hsl7zmwruf0i11fj6u4xl0
+    followers: 6001
+    engagement: 610
+    commentsToLikes: 0.111848
+    id: ckap0kieuqpdj0i78tx5wf2bl
     verified: false
-    hashtags: "#coronavirus, #seekingthestars, #photographyislifee, #majestic"
-  - username: "can_dice_ifbbpro"
+    hashtags: "#heretocreate, #colorado, #ilysm, #heavenonearth"
+  - username: "laurenlamp"
     fullname: >-
-      Candice Henricks
+      lauren lamp
     location: "United States"
-    followers: 5588
-    engagement: 743
-    commentsToLikes: 0.041239
-    id: ck6u5iqn79vds0j71lrnrd1sl
+    followers: 12251
+    engagement: 830
+    commentsToLikes: 0.050683
+    id: ck0w187n9i1210i19m8i7epun
     verified: false
-    hashtags: "#helpingothers, #yellow, #chaos, #editfun"
-  - username: "marshall_fl"
+    hashtags: "#fitness, #workoutmotivation, #stayhome"
+  - username: "maza.travel"
     fullname: >-
-      Marshall ✪
+      Maza ☀️ Travel + Lifestyle
     location: "United States"
-    followers: 43280
-    engagement: 339
-    commentsToLikes: 0.019261
-    id: ck134bfyzvmf60i19wots33sa
+    followers: 3148
+    engagement: 1624
+    commentsToLikes: 0.449029
+    id: ck9hbr7n7i4sd0j78m2qz7vz2
     verified: false
-    hashtags: "#crossfit, #wheelwednesday, #1320video, #corvettec8"
+    hashtags: "#topusapics, #travelpage, #borntotravel, #nomadgirls"
+  - username: "mannykess"
+    fullname: >-
+      Manny Kess
+    location: "United States"
+    followers: 35345
+    engagement: 73
+    commentsToLikes: 0.107730
+    id: ck5hqgwq3t3dk0i11lduc2p0j
+    verified: false
+    hashtags: "#shave, #beardgame, #strongmind, #reading"
   - username: "kaileyykennedy"
     fullname: >-
       Kailey Kennedy
     location: "United States"
-    followers: 2364
-    engagement: 5118
-    commentsToLikes: 0.033137
+    followers: 2655
+    engagement: 4624
+    commentsToLikes: 0.034652
     id: ck8t1l0mrw5wm0j78r6ubz8xm
     verified: false
     hashtags: ""
-  - username: "_k.lo_"
-    fullname: >-
-      • Kelsie Sievers •
-    location: "United States"
-    followers: 11287
-    engagement: 568
-    commentsToLikes: 0.107404
-    id: ck13cfind033c0i195xxwiob8
-    verified: false
-    hashtags: "#fitchick, #workoutmotivation, #mentalhealth, #selflove"
-  - username: "alexcarneiro_"
-    fullname: >-
-      Alex Carneiro | Trainer | 🇧🇷🇺🇸
-    location: "United States"
-    followers: 39950
-    engagement: 422
-    commentsToLikes: 0.043474
-    id: ck5hh0xxl5tma0i11tqq929qt
-    verified: false
-    hashtags: "#colombiafitness, #entiendetusmetas, #metasfitness, #denverpersonaltraining"
   - username: "seeleyfoto"
     fullname: >-
       Brett Seeley
     location: "United States"
-    followers: 66009
-    engagement: 182
-    commentsToLikes: 0.095108
+    followers: 64740
+    engagement: 170
+    commentsToLikes: 0.100425
     id: ck15rtou49nii0i195wxku78x
     verified: false
-    hashtags: "#mykonos, #lockdown2020, #beyourvalentine, #yoga"
+    hashtags: "#fitnessgirl, #fitnessgoals, #glitter, #color"
   - username: "1000thingstodoindenver"
     fullname: >-
       Denver📍Things To Do in Denver
     location: "United States"
-    followers: 69603
-    engagement: 171
-    commentsToLikes: 0.225937
+    followers: 69753
+    engagement: 176
+    commentsToLikes: 0.115378
     id: ck14iedh6f09e0i19yn8q4p4e
     verified: false
-    hashtags: "#1000thingstodoindenver, #sponsored, #bedrest2019"
-  - username: "jesenialis_fit"
+    hashtags: "#1000thingstodoindenver"
+  - username: "j.scud"
     fullname: >-
-      Jesenia
+      Justin Scudney
     location: "United States"
-    followers: 4991
-    engagement: 875
-    commentsToLikes: 0.207357
-    id: ck8t7ca04gak60j78do13v01e
+    followers: 60946
+    engagement: 472
+    commentsToLikes: 0.020479
+    id: ck0txh143j3j30i1912nq3zk5
     verified: false
-    hashtags: "#makeup, #mondaymotivation, #npcbikini, #homeworkout"
+    hashtags: "#ad, #earthday, #cervezapatagonia, #thegreatindoors"
+  - username: "space.junkiee"
+    fullname: >-
+      Raechel Renae
+    location: "United States"
+    followers: 10320
+    engagement: 554
+    commentsToLikes: 0.030401
+    id: ck6u5pl8xazv00j71yrg9edq7
+    verified: false
+    hashtags: "#girlswholift, #pandemic, #moodyportraits, #babesofinsta"
+  - username: "military"
+    fullname: >-
+      MILITARY
+    location: "United States"
+    followers: 655598
+    engagement: 104
+    commentsToLikes: 0.007886
+    id: ck14j4usqimxz0i19n9t3z7cd
+    verified: false
+    hashtags: "#flag, #weightlifting, #speed, #armystrong"
 ---

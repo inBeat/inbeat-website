@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Belgium In 2020
 description: >-
-  Find top lingerie Instagram influencers in Belgium in 2020. Most popular hashtags: #model #photography #lingerie #portrait.
+  Find top lingerie Instagram influencers in Belgium in 2020. Most popular hashtags: #lingerie #sunday #stayhome #girls.
 platform: Instagram
 profiles:
-  - username: "tatiana.sassoye"
+  - username: "statiana.model"
     fullname: >-
       Tatiana🎀
     location: "Belgium"
-    followers: 32851
-    engagement: 747
-    commentsToLikes: 0.063547
+    followers: 44202
+    engagement: 764
+    commentsToLikes: 0.060273
     id: ck8sxaggdgot90j78p5x5ww8u
     verified: false
-    hashtags: "#glamour, #luxury, #modelagency, #morning"
+    hashtags: "#mondayvibes, #undizfamily, #sunday, #fridaymood"
   - username: "mbee_model"
     fullname: >-
       Model - Based In Belgium 🐝🐝
     location: "Belgium"
-    followers: 25293
-    engagement: 517
-    commentsToLikes: 0.050895
+    followers: 25955
+    engagement: 539
+    commentsToLikes: 0.050935
     id: ck6u6mnpzghsi0j71fs451a2g
     verified: false
-    hashtags: "#potd, #girl, #photography, #internationalwomensday"
+    hashtags: "#photoshoot, #model, #girl, #photography"
+  - username: "veedici"
+    fullname: >-
+      𝓥𝓮𝓮𝓻𝓵𝓮 𝓟𝓮𝓮𝓽𝓮𝓻𝓼-
+    location: "Belgium"
+    followers: 18663
+    engagement: 304
+    commentsToLikes: 0.185097
+    id: ck9wdvwh9hi310j78zesjfr29
+    verified: false
+    hashtags: "#belgiumgirl, #bettertimeswillcome, #tiktokchallenge, #mombodytransformation"
+  - username: "michellenmw"
+    fullname: >-
+      M I C H E L L E
+    location: "Belgium"
+    followers: 144332
+    engagement: 422
+    commentsToLikes: 0.018716
+    id: ck5byde29oy1v0i11qq64n8lc
+    verified: false
+    hashtags: "#belgium, #moodoftheday, #brandambassador, #photoshoot"
   - username: "katinkakempeneers"
     fullname: >-
-      Model | Katinka Kempeneers🌸
+      Model | Katinka Kempeneers🌺
     location: "Belgium"
-    followers: 7398
-    engagement: 662
-    commentsToLikes: 0.089902
+    followers: 9021
+    engagement: 691
+    commentsToLikes: 0.080665
     id: ck8t42efv59gc0j78s8ent8a2
     verified: false
-    hashtags: "#modellife, #blonde, #teethcare, #smokeyeye"
-  - username: "laura.oliveiragranja"
-    fullname: >-
-      𝐿𝑎𝑢𝑟𝑎 𝑂𝑙𝑖𝑣𝑒𝑖𝑟𝑎 𝐺𝑟𝑎𝑛𝑗𝑎
-    location: "Belgium"
-    followers: 13065
-    engagement: 401
-    commentsToLikes: 0.112796
-    id: ck6txv5tn019a0j71dktpndhx
-    verified: false
-    hashtags: "#vintage, #glamchallenge, #helpeachother, #motivation"
-  - username: "sophyfantasy"
-    fullname: >-
-      🆂🅾🅿🅷🅸🅴 ♡
-    location: "Belgium"
-    followers: 6804
-    engagement: 503
-    commentsToLikes: 0.087377
-    id: ck0tvlg5abv4k0i19mwa4mmby
-    verified: false
-    hashtags: "#standprive, #gualaplook, #teddy, #legrascestlavie"
+    hashtags: "#beyourownmuse, #trythem, #ladies, #fashionstyle"
   - username: "micketje"
     fullname: >-
       Micky Wenmakers
     location: "Belgium"
-    followers: 3750
-    engagement: 932
-    commentsToLikes: 0.082245
+    followers: 5270
+    engagement: 1042
+    commentsToLikes: 0.078126
     id: ck8t1j4fcvz070j780cdphsrh
     verified: false
-    hashtags: "#stayathome, #colorlights, #holland, #lovemytattoo"
-  - username: "ronpaologilman"
+    hashtags: "#koningsdag, #happysmile, #lovelylocation, #blijfinjekot"
+  - username: "sophisticatedbox"
     fullname: >-
-      Ron Gilman
+      Sophie Van de Vyver
     location: "Belgium"
-    followers: 19333
-    engagement: 201
-    commentsToLikes: 0.021010
-    id: ck5zwln7e6c940i14ea8speou
+    followers: 54935
+    engagement: 197
+    commentsToLikes: 0.078301
+    id: ck5hr0zy6u2qj0i11k88ura1p
     verified: false
-    hashtags: "#fusemagazineonline, #poolsidevibes, #creativityhasnolimits, #artislimitless"
-  - username: "filipmoermanphotography"
+    hashtags: "#minusfashion, #effortlesschic, #scarflovers, #romanticvibes"
+  - username: "chlovdw"
     fullname: >-
-      Filip Moerman
+      Chloë Van de Walle
     location: "Belgium"
-    followers: 7514
-    engagement: 599
-    commentsToLikes: 0.028008
-    id: ck5hg93qi1kn20i11x8wd9z7l
+    followers: 4953
+    engagement: 918
+    commentsToLikes: 0.065620
+    id: ck0vvf3s5ouu00i19aeaq98gh
     verified: false
-    hashtags: "#kickassmodel, #nikon, #goldenhour, #design"
-  - username: "ilona_wnt"
+    hashtags: "#maplesyrup, #panterprint, #halfwaythere, #veggiecue"
+  - username: "tatumdetroije"
     fullname: >-
-      Ilona 💋👌
+      𝚃𝚊𝚝𝚞𝚖✨
     location: "Belgium"
-    followers: 12327
-    engagement: 618
-    commentsToLikes: 0.073770
-    id: ck6u6moowghyo0j71zyo5ukf5
+    followers: 2157
+    engagement: 3129
+    commentsToLikes: 0.277041
+    id: ckaor2kwklglj0i785p1pf40c
     verified: false
-    hashtags: "#lingerie, #belgiangirl, #like, #window"
-  - username: "vandenberghekevin"
+    hashtags: "#outfitinspo, #likelike, #vans, #utrechthotspot"
+  - username: "annesophiedeckers"
     fullname: >-
-      Portrait photographer🇧🇪Waregem
+      Anne sophie Deckers
     location: "Belgium"
-    followers: 34097
-    engagement: 102
-    commentsToLikes: 0.008811
-    id: ck5qawhmvim4j0i11t5qxrqea
+    followers: 219500
+    engagement: 146
+    commentsToLikes: 0.208924
+    id: ck5zj56ccgyjw0i144z4n3c9g
     verified: false
-    hashtags: "#antwerpen, #paard, #weddingseason, #beachshoot"
+    hashtags: "#instago, #give, #moonlight, #kitessclothing"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Brazil In 2020
 description: >-
-  Find top barbers Instagram influencers in Brazil in 2020. Most popular hashtags: #fade #barbershop #barberlove #barbeirosbrasil.
+  Find top barbers Instagram influencers in Brazil in 2020. Most popular hashtags: #style #barberlife #navalha #mensfashion.
 platform: Instagram
 profiles:
-  - username: "gl3isi"
-    fullname: >-
-      𝕲𝖑𝖊𝖎𝖘𝖎
-    location: "Brazil"
-    followers: 4595
-    engagement: 3260
-    commentsToLikes: 0.072044
-    id: ck8t0vrvvtic00j78dhv5q2n8
-    verified: false
-    hashtags: ""
-  - username: "dioubarbeiro"
-    fullname: >-
-      Diou
-    location: "Brazil"
-    followers: 19860
-    engagement: 939
-    commentsToLikes: 0.034035
-    id: ck5pzj5tq18h30i116t834veh
-    verified: false
-    hashtags: "#brasilbarbers, #dilblack, #maiortorcidadomundo, #mengao"
-  - username: "carolinebonesi"
-    fullname: >-
-      Carol Bonesi
-    location: "Brazil"
-    followers: 20382
-    engagement: 287
-    commentsToLikes: 0.078969
-    id: ck6ugev692m800j71u274h2m1
-    verified: false
-    hashtags: "#yogapractice, #foodporn, #semrisadinha, #gl"
-  - username: "eddy.sumer"
-    fullname: >-
-      ÉDDY SUMER
-    location: "Brazil"
-    followers: 5546
-    engagement: 590
-    commentsToLikes: 0.073382
-    id: ck8swhck5e3c30j78t30vhmb6
-    verified: false
-    hashtags: "#barbershops, #barberrespect, #barberlifestyle, #barberart"
   - username: "samuelcarvalho_0"
     fullname: >-
       Samuel Carvalho
     location: "Brazil"
-    followers: 18452
-    engagement: 1470
-    commentsToLikes: 0.065391
+    followers: 21334
+    engagement: 1438
+    commentsToLikes: 0.069978
     id: ck15ra0qg6w9j0i19893dwxy7
     verified: false
-    hashtags: "#fiquememcasa, #quarentena"
-  - username: "josielschaper"
+    hashtags: "#garotocacheadochallenge, #garotocacheado"
+  - username: "natanaelsilvabarber"
     fullname: >-
-      J O S I E L   S C H A P E R•🌻
+      Natanael Silva Barber
     location: "Brazil"
-    followers: 265052
-    engagement: 832
-    commentsToLikes: 1.927119
-    id: ck1395vo2jonc0i19q5sltojl
+    followers: 46675
+    engagement: 690
+    commentsToLikes: 0.594437
+    id: ck0vzg7sm8yfa0i19o2uwu9ah
     verified: false
-    hashtags: "#tbt, #coronavirus, #pandemia, #josielschaper"
-  - username: "jacksonleoz"
+    hashtags: "#hair, #emcasa, #goodvibes, #duquefade"
+  - username: "gl3isi"
     fullname: >-
-      jackson leandro 🐼🏳️‍🌈
+      𝕲𝖑𝖊𝖎𝖘𝖎
     location: "Brazil"
-    followers: 13312
-    engagement: 808
-    commentsToLikes: 0.012485
-    id: ck8t9hptco4re0j78wx539uin
+    followers: 15597
+    engagement: 2199
+    commentsToLikes: 0.055370
+    id: ck8t0vrvvtic00j78dhv5q2n8
     verified: false
-    hashtags: "#barbado, #ursoslindosdobrasil, #barbaderespeito, #peludosebarbados"
-  - username: "yutintin"
+    hashtags: "#curlynatural, #afrohairstyle, #projetoarvore, #cachos"
+  - username: "_srlucaslima"
     fullname: >-
-      Tin Tin Yu
+      ✂️ L U C A S  L I M A
     location: "Brazil"
-    followers: 16439
-    engagement: 170
-    commentsToLikes: 0.036698
-    id: ck5hmcvpdlqcn0i11durccbxo
+    followers: 32110
+    engagement: 780
+    commentsToLikes: 0.017900
+    id: ck15t5g99gfrt0i192ixk8uyi
     verified: false
-    hashtags: "#personaljundiai, #glow, #diadamulher, #propaganda"
-  - username: "max_dossantos"
+    hashtags: "#corteemcasa"
+  - username: "dioubarbeiro"
     fullname: >-
-      .     MAX DOS SANTOS 🇧🇷
+      Diou
     location: "Brazil"
-    followers: 120026
-    engagement: 192
-    commentsToLikes: 0.012777
-    id: ck0u26gkuywpr0i19vekqcxqf
+    followers: 23402
+    engagement: 660
+    commentsToLikes: 0.039452
+    id: ck5pzj5tq18h30i116t834veh
     verified: false
-    hashtags: "#eleganceportugal, #porto, #degrade, #wahlcliperbrasil"
-  - username: "suellenmarquess"
+    hashtags: "#bolsonaro, #governofederal, #bbb20, #favelado"
+  - username: "jrbarber_rm"
     fullname: >-
-      Suellen Marques
+      J∆mes R ßruns 👑
     location: "Brazil"
-    followers: 102145
-    engagement: 1120
-    commentsToLikes: 0.037897
-    id: ck602dlqch6ug0i140azowj5b
+    followers: 9294
+    engagement: 599
+    commentsToLikes: 0.099270
+    id: ck9wf49itn4ye0j78fshqvs4t
     verified: false
-    hashtags: "#black, #girl, #comunidade, #flu"
+    hashtags: "#nicestbarbers, #barbelove, #cutjunkies, #halloweenmakeup"
+  - username: "pedroortet__"
+    fullname: >-
+      PEDRO ORTET
+    location: "Brazil"
+    followers: 61397
+    engagement: 282
+    commentsToLikes: 0.044514
+    id: ck6to62racb270j71rky9x4pi
+    verified: false
+    hashtags: "#fitness, #motivation, #stayhome, #model"
+  - username: "felsevero"
+    fullname: >-
+      FELIPE SEVERO
+    location: "Brazil"
+    followers: 2916
+    engagement: 1981
+    commentsToLikes: 0.072174
+    id: ckap535az9zjb0i785obmwg0i
+    verified: false
+    hashtags: "#avantipalestra, #lifeisgood"
+  - username: "raphaelbarbio"
+    fullname: >-
+      R A P H A E L   B A R B I O
+    location: "Brazil"
+    followers: 9375
+    engagement: 757
+    commentsToLikes: 0.045869
+    id: ck9wow8pb6uwi0j785064dozb
+    verified: false
+    hashtags: ""
+  - username: "eddy.sumer"
+    fullname: >-
+      ÉDDY SUMER
+    location: "Brazil"
+    followers: 5426
+    engagement: 577
+    commentsToLikes: 0.069795
+    id: ck8swhck5e3c30j78t30vhmb6
+    verified: false
+    hashtags: "#penteado, #barbers, #fadecut, #barba"
 ---

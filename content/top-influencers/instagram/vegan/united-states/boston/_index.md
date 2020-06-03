@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Boston In 2020
 description: >-
-  Find top vegan Instagram influencers in Boston in 2020. Most popular hashtags: #vegan #plantbased #dairyfree #quarantine.
+  Find top vegan Instagram influencers in Boston in 2020. Most popular hashtags: #vegan #mothersday #foodporn #healthyeating.
 platform: Instagram
 profiles:
-  - username: "vegan_kween"
+  - username: "livingwith4fromscratch"
     fullname: >-
-      Erica | Vegan Kween
+      Living With 4 From Scratch
     location: "United States"
-    followers: 7520
-    engagement: 595
-    commentsToLikes: 0.035642
-    id: ck6ug7zo01g5c0j714xfmgqto
+    followers: 4737
+    engagement: 1009
+    commentsToLikes: 0.448734
+    id: ck5byi2xip6pt0i11uu1eap3h
     verified: false
-    hashtags: "#donuts, #veganblogger, #bostonfoodie, #veganmassachusetts"
-  - username: "twotastebuddiez"
+    hashtags: "#vegansushi, #muesli, #earthday, #saladrecipe"
+  - username: "kristinamakris"
     fullname: >-
-      Boston Food
+      Kristina Makris ♥ EMPOWER
     location: "United States"
-    followers: 20546
-    engagement: 403
-    commentsToLikes: 0.078605
-    id: ck55pzowibr030i11e6mqck3x
+    followers: 10326
+    engagement: 696
+    commentsToLikes: 0.617134
+    id: ck5hllrfpkftz0i11ve4ntt2h
     verified: false
-    hashtags: "#munchkins, #cupcakes, #oysters, #everything"
-  - username: "augustenburroughs"
+    hashtags: "#makeupclass, #vegan, #life, #bostongirl"
+  - username: "afewcakes"
     fullname: >-
-      Augusten Burroughs
+      𝖠𝗆𝖺𝗇𝖽𝖺 | 𝖠 𝖥𝖾𝗐 𝖢𝖺𝗄𝖾𝗌
     location: "United States"
-    followers: 22385
-    engagement: 723
-    commentsToLikes: 0.039301
-    id: ck0w2gucsoaw30i199poofsdm
+    followers: 34919
+    engagement: 318
+    commentsToLikes: 0.127931
+    id: ck136bfpy5nvl0i19wfnxz73a
     verified: false
-    hashtags: "#gutfeeling, #nytimesbooks, #hartford, #macmillanpublishers"
-  - username: "biiancaalexx"
+    hashtags: "#eastercake, #desserts, #unicorns, #hulkcake"
+  - username: "parisvisone"
     fullname: >-
-      Bianca Alex
+      Paris Visone
     location: "United States"
-    followers: 43759
-    engagement: 282
-    commentsToLikes: 0.065888
-    id: ck5zor1x8r5bk0i148q78lxf5
+    followers: 16335
+    engagement: 337
+    commentsToLikes: 0.048062
+    id: ck15s9vombxnq0i19icb3mfv3
     verified: false
-    hashtags: "#workoutgoals, #marcjacobs, #boston, #happy"
-  - username: "theblondetravelsx0"
+    hashtags: "#richvos, #prettygirl, #edroland, #repost"
+  - username: "major_league_chefs"
     fullname: >-
-      JAMIE RIVERO  | Philly Blogger
+      Major League Chefs
     location: "United States"
-    followers: 20486
-    engagement: 264
-    commentsToLikes: 0.175851
-    id: ck6tvd4a1ljt30j71pwjlidnd
+    followers: 10926
+    engagement: 690
+    commentsToLikes: 0.026479
+    id: ckap039agoizz0i78qwprta77
     verified: false
-    hashtags: "#maldives, #lightstim, #haircare, #freshrose"
-  - username: "meredithduxbury"
+    hashtags: "#hotdogsofinstagram, #poppers, #beyondmeat, #dodgersausage"
+  - username: "nueva.etica"
     fullname: >-
-      meredith duxbury
+      NUEVA ETICA
     location: "United States"
-    followers: 3173
-    engagement: 1427
-    commentsToLikes: 0.227328
-    id: ck8sxgxr8hcr80j785cfwdazf
+    followers: 2861
+    engagement: 1521
+    commentsToLikes: 0.031114
+    id: ck8szklzxot3z0j78o47wfc52
     verified: false
-    hashtags: "#nice, #makeupideas, #luxury, #frenchriviera"
-  - username: "starinfinitefood"
+    hashtags: "#massachusetts, #warriorscrew, #deathbeforedishonor, #stillalive"
+  - username: "maeves_munchies"
     fullname: >-
-      Caitlin Greene
+      maeve rabbitt | food + inspo✨
     location: "United States"
-    followers: 205883
-    engagement: 201
-    commentsToLikes: 0.115098
-    id: ck0tu8qz363gs0i190h63fhbw
+    followers: 3157
+    engagement: 2264
+    commentsToLikes: 0.376807
+    id: ck6tsfzwk4k2k0j71efhz8hmv
     verified: false
-    hashtags: "#porridgebowl, #breakfastideas, #caesar, #pescatarian"
-  - username: "kayhezz"
-    fullname: >-
-      KyleChristine
-    location: "United States"
-    followers: 2422
-    engagement: 2016
-    commentsToLikes: 0.122588
-    id: ck5zwnay06fee0i14k7rq6nea
-    verified: false
-    hashtags: "#pickyeatersclub, #prettylittleinteriors, #motheringhonestly, #shareyourstyle"
-  - username: "alexandra.conza"
-    fullname: >-
-      Alexandra Conza
-    location: "United States"
-    followers: 2047
-    engagement: 1860
-    commentsToLikes: 0.079119
-    id: ck5zml37cmrax0i147e6at642
-    verified: false
-    hashtags: "#mango, #dreamingofspring, #blooms, #fitfam"
+    hashtags: "#podcast, #postgrad, #summerdinner, #homemade"
   - username: "plentysweet200"
     fullname: >-
       Plenty Sweet | Elif Y.
     location: "United States"
-    followers: 12792
-    engagement: 652
-    commentsToLikes: 0.057050
+    followers: 30187
+    engagement: 834
+    commentsToLikes: 0.042300
     id: ck8t8s8k7llm60j789wwmsr2i
     verified: false
-    hashtags: ""
+    hashtags: "#cellulit"
+  - username: "dolphia.nandi"
+    fullname: >-
+      Dolphia Nandi-Arnstein
+    location: "United States"
+    followers: 11607
+    engagement: 730
+    commentsToLikes: 0.402765
+    id: ck0w2z0g9qt9v0i195xxof1o0
+    verified: false
+    hashtags: "#businesswomen, #flattenthecurve, #foodtalkindia, #gettingcreative"
+  - username: "starinfinitefood"
+    fullname: >-
+      Caitlin Greene
+    location: "United States"
+    followers: 210480
+    engagement: 204
+    commentsToLikes: 0.120913
+    id: ck0tu8qz363gs0i190h63fhbw
+    verified: false
+    hashtags: "#healthytakeout, #fruitsalad, #vegetarian, #keto"
 ---

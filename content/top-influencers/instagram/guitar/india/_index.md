@@ -1,107 +1,107 @@
 ---
 title: Top 10 Guitar Instagram Influencers In India In 2020
 description: >-
-  Find top guitar Instagram influencers in India in 2020. Most popular hashtags: #guitar #instagood #love #instagram.
+  Find top guitar Instagram influencers in India in 2020. Most popular hashtags: #throwback #pictureoftheday #photography #guitar.
 platform: Instagram
 profiles:
   - username: "nickhipa"
     fullname: >-
       Nick Hipa
     location: "India"
-    followers: 27059
-    engagement: 1113
-    commentsToLikes: 0.031322
+    followers: 28677
+    engagement: 1086
+    commentsToLikes: 0.036601
     id: ck0w37lmyrzhe0i193inphxxk
     verified: false
     hashtags: "#stevanseagalpone, #blessed"
-  - username: "avishek_kc"
+  - username: "fkhais"
     fullname: >-
-      Avishek KC
+      Fazal Khais
     location: "India"
-    followers: 16267
-    engagement: 1254
-    commentsToLikes: 0.004913
-    id: ck5ccgt9khbvi0i11bb0rul3b
+    followers: 2764
+    engagement: 2005
+    commentsToLikes: 0.047443
+    id: ckapacfj5vjj50i78r9sm2i63
     verified: false
-    hashtags: "#coronav, #fuckoffcorona, #metalfromnepal, #underside"
-  - username: "arunsharmaax"
+    hashtags: "#acousticguitar, #bollywoodcover, #coversong, #bilalsaeed"
+  - username: "acousticflame"
     fullname: >-
-      Arun Sharma
+      Flame
     location: "India"
-    followers: 87292
-    engagement: 1430
-    commentsToLikes: 0.006644
-    id: ck5hl4ndpjkbm0i11158g8jgw
-    verified: true
-    hashtags: "#roadiesauditions, #goals, #mtv, #musicfestival"
+    followers: 11690
+    engagement: 575
+    commentsToLikes: 0.032910
+    id: ck6ud1lvdilb80j714svtbfr9
+    verified: false
+    hashtags: "#cortguitars, #guitarlife, #fingerstyleguitar, #ohohjanejana"
   - username: "moseskoul"
     fullname: >-
       Moses
     location: "India"
-    followers: 5268
-    engagement: 1451
-    commentsToLikes: 0.024492
+    followers: 5311
+    engagement: 1492
+    commentsToLikes: 0.024607
     id: ck6ufiuyrxbcy0j71rqrxebfz
     verified: false
-    hashtags: "#guitar, #beats, #cashmoney, #rawkstart"
+    hashtags: "#beat, #belieber, #beats, #options"
+  - username: "arjunaravind_"
+    fullname: >-
+      Arjun Aravind
+    location: "India"
+    followers: 2522
+    engagement: 1887
+    commentsToLikes: 0.129041
+    id: ck9wg8o7rsbge0j78g9mg4yzg
+    verified: false
+    hashtags: "#manichithrathazhu, #malayalamcover, #vidaparayukayano, #myname"
+  - username: "that.wayfaring.spirit"
+    fullname: >-
+      Kriti Aggarwal
+    location: "India"
+    followers: 3611
+    engagement: 1876
+    commentsToLikes: 0.144597
+    id: ck9hbexfxgiyq0j7832gifyb0
+    verified: false
+    hashtags: "#ratnadurg, #nahargarh, #grafitti, #traveladdiction"
+  - username: "viking.fox_"
+    fullname: >-
+      ᴀᴅɪᴛʏᴀ ᴅᴇʙɴᴀᴛʜ
+    location: "India"
+    followers: 15599
+    engagement: 203
+    commentsToLikes: 0.016432
+    id: ckap57fa8aif20i78rd2nnx2h
+    verified: false
+    hashtags: "#longhairmen, #beardbrothers, #kickboxing, #gray"
+  - username: "alibarter"
+    fullname: >-
+      ALI BARTER
+    location: "India"
+    followers: 21616
+    engagement: 440
+    commentsToLikes: 0.031759
+    id: ck5hg0x000cae0i11t0r41x9c
+    verified: true
+    hashtags: ""
   - username: "vaibhav_y10_"
     fullname: >-
       V A I B H A V • Y A D A V  🔥
     location: "India"
-    followers: 9561
-    engagement: 1928
-    commentsToLikes: 0.057366
+    followers: 11273
+    engagement: 1936
+    commentsToLikes: 0.056526
     id: ck8wf5c6hf5gi0j78apu01d25
     verified: false
-    hashtags: "#15svines, #makeitviral, #follow4like, #instagood"
-  - username: "akshay_pattanshetti_"
-    fullname: >-
-      AKSHAY PATTANSHETTI
-    location: "India"
-    followers: 3149
-    engagement: 4278
-    commentsToLikes: 0.052292
-    id: ck8t9sm31p7j40j78lzmc92pi
-    verified: false
-    hashtags: "#loved, #brodhav, #epic, #valentinesday2020"
+    hashtags: "#iloveindia, #videooftheday, #picture, #swing360"
   - username: "guitar_artz"
     fullname: >-
       Guitar Artz
     location: "India"
-    followers: 34406
-    engagement: 1248
-    commentsToLikes: 0.018623
+    followers: 40010
+    engagement: 494
+    commentsToLikes: 0.019244
     id: ck5zx42vd7axb0i148ox6axpx
     verified: false
-    hashtags: "#guitarshred, #guitarra, #guitarstrings, #guitarstagram"
-  - username: "ezra_helios_official"
-    fullname: >-
-      ezra helios
-    location: "India"
-    followers: 12969
-    engagement: 512
-    commentsToLikes: 0.039462
-    id: ck5hloj8pkkch0i11wm8gc2uo
-    verified: false
-    hashtags: "#heavymetal, #roadtrip, #bassguitar, #india"
-  - username: "elvisgab"
-    fullname: >-
-      Elvis Gabriel
-    location: "India"
-    followers: 2675
-    engagement: 2056
-    commentsToLikes: 0.054590
-    id: ck14ji64ckh020i19osbhk878
-    verified: false
-    hashtags: "#fender, #instamusicians, #popmusic, #suitedup"
-  - username: "borjacatanesi"
-    fullname: >-
-      Borja Catanesi
-    location: "India"
-    followers: 122665
-    engagement: 560
-    commentsToLikes: 0.021781
-    id: ck139er66kyh50i19gmz7rv9j
-    verified: false
-    hashtags: "#quedateencasa, #livingroomsgottalent, #quarantine, #stayhome"
+    hashtags: ""
 ---

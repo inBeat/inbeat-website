@@ -1,107 +1,107 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Chile In 2020
 description: >-
-  Find top barbers Instagram influencers in Chile in 2020. Most popular hashtags: #chile #quedateencasa #happy #barber.
+  Find top barbers Instagram influencers in Chile in 2020. Most popular hashtags: #barbershop #santiago #haircut #covid.
 platform: Instagram
 profiles:
+  - username: "pipematus_cracks"
+    fullname: >-
+      Felipe Matus 🇨🇱
+    location: "Chile"
+    followers: 58558
+    engagement: 285
+    commentsToLikes: 0.076073
+    id: ck5zkfv8xjejp0i14o51b8ubp
+    verified: false
+    hashtags: "#encuarentena, #chilegram, #friend, #amoreterno"
   - username: "jesuson.n"
     fullname: >-
       Jesus Rolon
     location: "Chile"
-    followers: 5777
-    engagement: 1046
-    commentsToLikes: 0.033223
+    followers: 5822
+    engagement: 986
+    commentsToLikes: 0.031378
     id: ck5zztviaceyn0i14fagcngzb
     verified: false
-    hashtags: "#militar, #militares, #stayhome, #colour"
-  - username: "mariazion"
+    hashtags: "#pi, #voguing, #diva, #beargay"
+  - username: "gonz.avi"
     fullname: >-
-      Maria Zion🎤
+      soy weco
     location: "Chile"
-    followers: 12878
-    engagement: 415
-    commentsToLikes: 0.025729
-    id: ck5q11oz08u6z0i11mj156ale
+    followers: 2052
+    engagement: 4574
+    commentsToLikes: 0.020532
+    id: ck9hb9wcmfyut0j78b2wflert
     verified: false
-    hashtags: "#comunidad420, #nails, #invazion, #happy"
-  - username: "domingomondongo"
+    hashtags: "#arbol, #rap, #fuerte, #adidas"
+  - username: "eddyreckless"
     fullname: >-
-      Jorge Parra
+      🅔🅓🅓🅨⚡🅡🅔🅒🅚🅛🅔🅢🅢
     location: "Chile"
-    followers: 52290
-    engagement: 268
-    commentsToLikes: 0.074924
-    id: ck14li9qeutde0i19go74biam
+    followers: 5057
+    engagement: 1061
+    commentsToLikes: 0.039816
+    id: ck14it4a8h1d40i19thwaquyr
     verified: false
-    hashtags: "#sexopreventivo, #cuarentenadivertida, #amigos, #paco"
+    hashtags: "#tatuajes, #barberlife, #mohawk, #chileblogger"
   - username: "il_tonino"
     fullname: >-
       Antonio Leiva F - Pro Rider
     location: "Chile"
-    followers: 11297
-    engagement: 1865
-    commentsToLikes: 0.037931
+    followers: 11294
+    engagement: 1870
+    commentsToLikes: 0.037981
     id: ck0u6gurr20e20i19pnw4vc72
     verified: false
-    hashtags: "#fun, #enduromountainbike, #team, #sports"
+    hashtags: "#riders, #cyclingtips, #high, #rocs"
+  - username: "memo_andres28"
+    fullname: >-
+      𝗠𝗲𝗺𝗼 𝗔𝗻𝗱𝗿𝗲𝘀 
+    location: "Chile"
+    followers: 25422
+    engagement: 351
+    commentsToLikes: 0.011475
+    id: ck8tbl5d0w2s60j78te3pfkjk
+    verified: false
+    hashtags: "#fitlife, #foodblogger, #bestfriend, #gayspain"
+  - username: "miguelakasiete"
+    fullname: >-
+      Atleta / juez / Coach 💪🏼🦁
+    location: "Chile"
+    followers: 20307
+    engagement: 277
+    commentsToLikes: 0.030674
+    id: ck55lbba517710i11r53o79nv
+    verified: false
+    hashtags: "#instasantiago, #entreamigos, #ladificil, #huasotransero"
   - username: "elilusionista.cl"
     fullname: >-
-      César Castillo Marquez
+      César Castillo Marquez
     location: "Chile"
-    followers: 101373
-    engagement: 215
-    commentsToLikes: 0.014057
+    followers: 101093
+    engagement: 212
+    commentsToLikes: 0.023105
     id: ck5hceemkhmw90i11vjn5kzwd
     verified: false
-    hashtags: "#mcu, #photomanipulation, #photomontage, #kickass2"
-  - username: "hksbarber"
-    fullname: >-
-      HKS-BARBER
-    location: "Chile"
-    followers: 10520
-    engagement: 282
-    commentsToLikes: 0.029761
-    id: ck5zyn1l3a63k0i14pqygjm17
-    verified: false
-    hashtags: "#barberoclasea, #elbarberodelosraperos, #cortesdepelohombres, #sharpfade"
-  - username: "patriota.king.barber"
-    fullname: >-
-      Patriota | Chile 🌅
-    location: "Chile"
-    followers: 30872
-    engagement: 60
-    commentsToLikes: 0.025815
-    id: ck5q1yfnkde3z0i11uagedqlw
-    verified: false
-    hashtags: ""
+    hashtags: "#suitdesign, #sixfanarts, #thelastofus, #superhero"
   - username: "barijazz"
     fullname: >-
       Diego Muñoz Chávez
     location: "Chile"
-    followers: 17915
-    engagement: 400
-    commentsToLikes: 0.027905
+    followers: 17757
+    engagement: 447
+    commentsToLikes: 0.033940
     id: ck5c397amyu710i119c5dfvbm
     verified: false
-    hashtags: "#puentealto, #musicachilena, #lavagancia, #renunciapi"
-  - username: "cris.qkj"
+    hashtags: "#nuestramusica, #sitemarchas, #jazz, #marcareedschile"
+  - username: "fusok.uno"
     fullname: >-
-      Cristian Núñez Manzo
+      ＬＶϟㅤＮＩＴＩＤＯ⫸
     location: "Chile"
-    followers: 4999
-    engagement: 1525
-    commentsToLikes: 0.077882
-    id: ck5zo0v74pj1r0i147km5dnud
+    followers: 352266
+    engagement: 466
+    commentsToLikes: 0.006744
+    id: ck5hotqw5q7pu0i11woi03d7l
     verified: false
-    hashtags: "#sech, #theavengers, #feid, #dojacatcandy"
-  - username: "martin.acertijo"
-    fullname: >-
-      Acertijo 🔺
-    location: "Chile"
-    followers: 289494
-    engagement: 507
-    commentsToLikes: 0.007481
-    id: ck14ix8czhkky0i19wu9swimg
-    verified: false
-    hashtags: "#cruceencasa"
+    hashtags: ""
 ---

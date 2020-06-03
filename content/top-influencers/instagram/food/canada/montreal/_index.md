@@ -1,36 +1,26 @@
 ---
 title: Top 10 Food Instagram Influencers In Montreal In 2020
 description: >-
-  Find top food Instagram influencers in Montreal in 2020. Most popular hashtags: #montreal #mtlblogger #tastemontreal #mtlblog.
+  Find top food Instagram influencers in Montreal in 2020. Most popular hashtags: #icecream #quarantine #pancakes #cake.
 platform: Instagram
 profiles:
-  - username: "carlarsenault"
-    fullname: >-
-      Carl is cooking
-    location: "Canada"
-    followers: 162533
-    engagement: 808
-    commentsToLikes: 0.009500
-    id: ck8wf2frnf0n10j78gw2azle0
-    verified: true
-    hashtags: "#souvenir, #hydrodipping, #sealovers, #heartchallenge"
   - username: "harleyplays"
     fullname: >-
       Harley Morenstein
     location: "Canada"
-    followers: 512564
-    engagement: 162
-    commentsToLikes: 0.028682
+    followers: 509771
+    engagement: 164
+    commentsToLikes: 0.028391
     id: ck5zok6dkqqd50i14erujlbde
     verified: true
-    hashtags: "#marybrowns, #ad, #riseofskywalkerto, #crashteamracing"
+    hashtags: "#crashteamracing, #crashontheshelf, #crash, #riseofskywalkerto"
   - username: "tastemontreal"
     fullname: >-
       TasteMontreal
     location: "Canada"
-    followers: 153334
-    engagement: 148
-    commentsToLikes: 0.015310
+    followers: 158137
+    engagement: 136
+    commentsToLikes: 0.087185
     id: ck14i8g66e5ul0i19x21yljmj
     verified: true
     hashtags: "#tastemontreal"
@@ -38,70 +28,80 @@ profiles:
     fullname: >-
       Nath | Montreal Food Blogger
     location: "Canada"
-    followers: 11505
-    engagement: 877
-    commentsToLikes: 0.253839
+    followers: 12400
+    engagement: 804
+    commentsToLikes: 0.255649
     id: ck0u68j5b18vz0i19tdk9l14t
     verified: false
-    hashtags: "#madebyme, #poke, #throwback, #mtlfoodies"
-  - username: "the_dailyjules"
+    hashtags: "#foodporn, #altaglio, #514eats, #pasta"
+  - username: "jeanniesfood"
     fullname: >-
-      Julie Petry
+      Jeannie | Montreal Food Blog 📸
     location: "Canada"
-    followers: 7370
-    engagement: 762
-    commentsToLikes: 0.037861
-    id: ck5cey69xlydd0i11vtz2jowg
+    followers: 2263
+    engagement: 878
+    commentsToLikes: 0.084264
+    id: ck55mdo9n3q0x0i11bxskwulj
     verified: false
-    hashtags: "#funnykids, #hockeyfam, #familyovereverything, #socialdistancing"
-  - username: "mtlspiceitup"
+    hashtags: "#supportlocal"
+  - username: "feedmemontreal"
     fullname: >-
-      Montreal Spice it up
+      #FeedMeMontreal
     location: "Canada"
-    followers: 3442
-    engagement: 1628
-    commentsToLikes: 0.166536
-    id: ck0u9tffgamnr0i192jiattus
+    followers: 16872
+    engagement: 93
+    commentsToLikes: 0.066483
+    id: ck8syr656loyy0j78ocpca8u5
     verified: false
-    hashtags: "#quarantinelife, #downtownmtl, #torontofoodie, #delicious"
-  - username: "mystikopoulos"
+    hashtags: "#greek, #mangezlocal, #hummus, #syrian"
+  - username: "christopher_the_pig"
     fullname: >-
-      Mystikopoulos Photography
+      Christopher the Pig
     location: "Canada"
-    followers: 3207
-    engagement: 1299
-    commentsToLikes: 0.162886
-    id: ck5zpvthitg520i143wv1b8f2
-    verified: false
-    hashtags: "#mystikopoulos, #eventphotographer, #stayhomechallenge, #snowday"
+    followers: 80000
+    engagement: 354
+    commentsToLikes: 0.017621
+    id: ck135rz2d2xiy0i19q8sd5mum
+    verified: true
+    hashtags: "#newyearseve, #roarrr, #montr, #kombuchalove"
   - username: "yingzge"
     fullname: >-
       yιng ge ❥
     location: "Canada"
-    followers: 2996
-    engagement: 1446
-    commentsToLikes: 0.051782
+    followers: 2965
+    engagement: 1485
+    commentsToLikes: 0.050106
     id: ck8szdifknzzw0j78rz5dla3a
     verified: false
     hashtags: ""
-  - username: "audreybeliveau"
+  - username: "valleeduhamel"
     fullname: >-
-      Audrey 🌿.
+      Vallée Duhamel
     location: "Canada"
-    followers: 29436
-    engagement: 301
-    commentsToLikes: 0.048679
-    id: ck5zmrplon3na0i1479y9ok0q
+    followers: 27151
+    engagement: 296
+    commentsToLikes: 0.022766
+    id: ckap4r9fd8it50i786500p4fg
     verified: false
-    hashtags: "#ad, #siliconefree, #achatlocal, #cidrelacroix"
-  - username: "amoula__style"
+    hashtags: "#chocolate, #magic, #valleeduhamel, #americanidol"
+  - username: "mtlfoodbuzz"
     fullname: >-
-      Amal Lassoued | Lifestyle
+      MTL Food Buzz | Food Blogger
     location: "Canada"
-    followers: 16652
-    engagement: 276
-    commentsToLikes: 0.082520
-    id: ck0w0z38mgqtm0i19nkz6byk7
+    followers: 10297
+    engagement: 901
+    commentsToLikes: 0.445346
+    id: ckaotuhkxxksk0i78v064feku
     verified: false
-    hashtags: "#torontoblogger, #styleinspo, #travelling, #outfitinspo"
+    hashtags: "#smashcake, #toast, #sangria, #bananabread"
+  - username: "trangreeny"
+    fullname: >-
+      Trang | MTL Lifestyle
+    location: "Canada"
+    followers: 10074
+    engagement: 564
+    commentsToLikes: 0.059581
+    id: ckaorli1qnrcl0i782zrqeflr
+    verified: false
+    hashtags: "#softserve, #flatlaystyle, #bouquet, #foodforlife"
 ---

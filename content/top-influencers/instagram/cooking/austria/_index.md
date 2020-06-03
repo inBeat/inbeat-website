@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Austria In 2020
 description: >-
-  Find top cooking Instagram influencers in Austria in 2020. Most popular hashtags: #stayathome #cooking #picoftheday #igersaustria.
+  Find top cooking Instagram influencers in Austria in 2020. Most popular hashtags: #cooking #weekendvibes #nature #weekend.
 platform: Instagram
 profiles:
+  - username: "cookingcatrin"
+    fullname: >-
+      cookingCatrin®
+    location: "Austria"
+    followers: 44933
+    engagement: 163
+    commentsToLikes: 0.085727
+    id: ck55kc4vmyylp0i110mwerzbf
+    verified: true
+    hashtags: "#muttertagsmission, #focacciagarden, #mothersday, #rooptop"
   - username: "nenifood"
     fullname: >-
       N E N I Restaurants
     location: "Austria"
-    followers: 62389
-    engagement: 136
-    commentsToLikes: 0.033062
+    followers: 63072
+    engagement: 172
+    commentsToLikes: 0.027066
     id: ck0ty70qhlqh90i19k7sj0gbs
     verified: false
-    hashtags: "#vegetarianfood, #vegan, #humus, #neniwien"
-  - username: "ich_verstehe_es_blog"
+    hashtags: "#telavivbyneni, #humus, #family, #nenirezepte"
+  - username: "baraabolat"
     fullname: >-
-      ELISABETH KLOPF
+      B A R A A •
     location: "Austria"
-    followers: 7026
-    engagement: 640
-    commentsToLikes: 0.123116
-    id: ck0w2k0g3orc90i19qiuq8p37
+    followers: 27813
+    engagement: 1345
+    commentsToLikes: 0.019991
+    id: ck5hjtjl8h85f0i11234llk9m
     verified: false
-    hashtags: "#ichversteheesblog, #reisenmitkind, #weinempfehlung, #schwarzweiss"
+    hashtags: "#song, #justforfun, #sponsored, #quarantine"
+  - username: "katarzyna_czulek"
+    fullname: >-
+      Katarzyna Czułek
+    location: "Austria"
+    followers: 253295
+    engagement: 110
+    commentsToLikes: 0.037137
+    id: ck5hhidmw8dsx0i11l652abqo
+    verified: false
+    hashtags: "#instaphoto, #weekendtime, #husbandandwife, #bestfriends"
   - username: "shannonroseblog"
     fullname: >-
       Shannon Rose 🌹
     location: "Austria"
-    followers: 6296
-    engagement: 454
-    commentsToLikes: 0.250031
+    followers: 6205
+    engagement: 506
+    commentsToLikes: 0.234046
     id: ck14ja06xjaqc0i19xofh57uz
     verified: false
-    hashtags: "#fauxfurcoat, #travelblogging, #solotraveller, #yslbag"
-  - username: "catharina_rf"
+    hashtags: "#sherpapullover, #sherpajacket, #travelootd, #ootd"
+  - username: "o.w.photography"
     fullname: >-
-      
+      __O l i v e R__W a l l n e R__
     location: "Austria"
-    followers: 77024
-    engagement: 461
-    commentsToLikes: 0.247571
-    id: ck13a1b3ro4my0i19uee3uvef
+    followers: 8318
+    engagement: 1858
+    commentsToLikes: 0.075246
+    id: ck8t9bb6bnhdc0j78ixxuo7a3
     verified: false
-    hashtags: "#familytime, #lifestyle, #interiorinspo, #meinbaellebad"
-  - username: "twosisterslivinglife"
+    hashtags: "#metro, #weekly, #artclassified, #igers"
+  - username: "lejla.enigma"
     fullname: >-
-      Aɴᴛᴏɴɪᴀ﹠Nɪɴᴀ AUT/World
+      𝔏𝔢𝔧𝔩𝔞
     location: "Austria"
-    followers: 5609
-    engagement: 1529
-    commentsToLikes: 0.275098
-    id: ck5bz9iezqpgi0i11ct15leo5
+    followers: 13976
+    engagement: 582
+    commentsToLikes: 0.014453
+    id: ck0w54vwc1wul0i19mmpgfram
     verified: false
-    hashtags: "#healthyfoodie, #onlyonebread, #daysofsmallthings, #greenfood"
-  - username: "kathikara"
+    hashtags: "#spring, #coffelover, #idealofsweden, #flowers"
+  - username: "kristina_rustikal_life"
     fullname: >-
-      KATHI | VIENNA LIFESTYLE VIBES
+      🌞🅚🅡🅘🅢🅣🅘🅝🅐 🇦🇹
     location: "Austria"
-    followers: 8862
-    engagement: 704
-    commentsToLikes: 0.071659
-    id: ck6ugnmt642c00j71ssgma9y1
+    followers: 4673
+    engagement: 1569
+    commentsToLikes: 0.178144
+    id: ck6u5d4vk8y1l0j712z6dy4pp
     verified: false
-    hashtags: "#fashionblogger, #door, #kaffeemaschine, #mitfahren"
+    hashtags: "#backideen, #nutellaliebe, #danke, #mutterliebe"
+  - username: "xonasti"
+    fullname: >-
+      Aɴᴀsᴛᴀsɪᴀ
+    location: "Austria"
+    followers: 5351
+    engagement: 564
+    commentsToLikes: 0.015319
+    id: ck5btcvzmfqk10i11auvu0mda
+    verified: false
+    hashtags: "#quarantine, #food, #chickenwings, #cheesecake"
   - username: "coach_romana"
     fullname: >-
       Romana Ramschak (Austria)
     location: "Austria"
-    followers: 33514
-    engagement: 198
-    commentsToLikes: 0.045343
+    followers: 33678
+    engagement: 220
+    commentsToLikes: 0.039034
     id: ck8t54k7k8qup0j78g31kga7f
     verified: false
-    hashtags: "#mentalcoaching, #fitathome, #staypositive, #highheels"
-  - username: "herumfotografiert"
-    fullname: >-
-      Dani/S\דניאל
-    location: "Austria"
-    followers: 7894
-    engagement: 959
-    commentsToLikes: 0.030282
-    id: ck6tpqdy2lsh40j719fljzlbq
-    verified: false
-    hashtags: "#bregenz, #genf, #moss, #stuben"
-  - username: "alexandragorsche"
-    fullname: >-
-      ALEXANDRA GORSCHE
-    location: "Austria"
-    followers: 24024
-    engagement: 197
-    commentsToLikes: 0.057288
-    id: ck8svtcxpcmag0j78uxrhd1at
-    verified: false
-    hashtags: "#winelover, #austria, #finedining, #gastronomie"
-  - username: "ninsch.la"
-    fullname: >-
-      ᑎIᑎᗩ
-    location: "Austria"
-    followers: 6313
-    engagement: 1658
-    commentsToLikes: 0.023381
-    id: ck0w1o9vmkbgm0i19ryllmkvn
-    verified: false
-    hashtags: "#runnersofinstagram, #stayathome, #adventuregroup, #climbingtour"
+    hashtags: "#faszienrolle, #girlwithmuscles, #stayhealthy, #influencer"
 ---

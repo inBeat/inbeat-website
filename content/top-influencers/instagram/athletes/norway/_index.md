@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Norway In 2020
 description: >-
-  Find top athletes Instagram influencers in Norway in 2020. Most popular hashtags: #workout #girlswholift #motivation #crossfit.
+  Find top athletes Instagram influencers in Norway in 2020. Most popular hashtags: #workout #health #lifestyle #fitnesstips.
 platform: Instagram
 profiles:
   - username: "back.guy"
     fullname: >-
       Anders Gjellan
     location: "Norway"
-    followers: 14854
-    engagement: 1458
-    commentsToLikes: 0.053922
+    followers: 19733
+    engagement: 1358
+    commentsToLikes: 0.073041
     id: ck8t7j7djh0du0j78qojlblsn
     verified: false
-    hashtags: "#throwback"
+    hashtags: "#gym, #homegymworkout, #backaesthetics, #hammerstrength"
   - username: "abdouharroui"
     fullname: >-
       Abdou Harroui
     location: "Norway"
-    followers: 5305
-    engagement: 1761
-    commentsToLikes: 0.063355
+    followers: 5524
+    engagement: 1832
+    commentsToLikes: 0.064163
     id: ck139qqwqmo8z0i19zqshi5kx
     verified: true
-    hashtags: "#vrct, #wepresent, #spartarotterdam, #hometeam"
-  - username: "beatewibe"
-    fullname: >-
-      Beate Wibe | FITNESS
-    location: "Norway"
-    followers: 19990
-    engagement: 968
-    commentsToLikes: 0.036140
-    id: ck5zo7idlpxod0i14hu15ynlx
-    verified: false
-    hashtags: "#fitnessoutfit, #selfie, #musclegirl, #home"
-  - username: "kjetilborch"
-    fullname: >-
-      Kjetil Borch
-    location: "Norway"
-    followers: 14340
-    engagement: 1293
-    commentsToLikes: 0.021130
-    id: ck0w55j8i1zyh0i19tk5pceuk
-    verified: false
-    hashtags: "#rolandslaget, #vikingstotokyo, #tokyo2020, #givesyouwings"
+    hashtags: "#vrct, #eredivisie, #spartarotterdam, #jongoranje"
   - username: "haakonevjen"
     fullname: >-
       Håkon Evjen👌🏻
     location: "Norway"
-    followers: 6337
-    engagement: 2957
-    commentsToLikes: 0.029740
+    followers: 6613
+    engagement: 2859
+    commentsToLikes: 0.029026
     id: ck6uf7a99vbzf0j71bwtojg22
     verified: true
-    hashtags: "#spill, #playinside, #playfortheworld, #opp"
-  - username: "hanneidee"
+    hashtags: "#opp, #spill, #playinside, #playfortheworld"
+  - username: "beatewibe"
     fullname: >-
-      Hanne Eide
+      Beate Wibe | FITNESS
     location: "Norway"
-    followers: 11931
-    engagement: 562
-    commentsToLikes: 0.063843
-    id: ck5zzekmxblb90i14vsqftcte
+    followers: 20758
+    engagement: 867
+    commentsToLikes: 0.040484
+    id: ck5zo7idlpxod0i14hu15ynlx
     verified: false
-    hashtags: "#gym, #healthylifestyle, #reversediet, #bikinifitness"
-  - username: "graham95"
-    fullname: >-
-      Caroline Graham Hansen
-    location: "Norway"
-    followers: 66041
-    engagement: 1035
-    commentsToLikes: 0.009842
-    id: ck13a9m8npayj0i19ebzas88s
-    verified: true
-    hashtags: "#vamos, #deilig, #nikefootball, #takesocialresponsibility"
-  - username: "synnekrokstad"
-    fullname: >-
-      Synne Krokstad
-    location: "Norway"
-    followers: 57400
-    engagement: 462
-    commentsToLikes: 0.022414
-    id: ck0u6azjw1klm0i19ys5kwh1n
-    verified: false
-    hashtags: "#crossfit, #coreworkout, #movewell, #unwind"
+    hashtags: "#jean, #hiit, #workoutvideos, #upperbodywork"
   - username: "elisabethsletten"
     fullname: >-
       Elisabeth Sletten
     location: "Norway"
-    followers: 135737
-    engagement: 807
-    commentsToLikes: 0.017759
+    followers: 133491
+    engagement: 501
+    commentsToLikes: 0.044243
     id: ck5hlbu26jxwi0i11fvabbqji
     verified: false
-    hashtags: "#spoton, #teamlifesum, #throwback, #tbt"
-  - username: "sarahschollathlete"
+    hashtags: "#strongbodyfamilien, #tbt, #bombshellsportswear, #teamstrongbody"
+  - username: "graham95"
     fullname: >-
-      Sarah Scholl ATHLETE and COACH
+      Caroline Graham Hansen
     location: "Norway"
-    followers: 87321
-    engagement: 208
-    commentsToLikes: 0.033156
-    id: ck5hcjprvifb00i11nkwb3cnn
+    followers: 66212
+    engagement: 1006
+    commentsToLikes: 0.009719
+    id: ck13a9m8npayj0i19ebzas88s
+    verified: true
+    hashtags: "#godstartp, #deilig, #takesocialresponsibility, #grandeequipo"
+  - username: "hogberglukas"
+    fullname: >-
+      Lukas | Crossfit | Athlete
+    location: "Norway"
+    followers: 105514
+    engagement: 434
+    commentsToLikes: 0.023073
+    id: ck5cjzv5gvtyr0i11gfkd3cp1
+    verified: true
+    hashtags: "#gymnasty, #garagegym, #liftingweights, #jumptraining"
+  - username: "synnekrokstad"
+    fullname: >-
+      Synne Krokstad
+    location: "Norway"
+    followers: 58888
+    engagement: 494
+    commentsToLikes: 0.022491
+    id: ck0u6azjw1klm0i19ys5kwh1n
     verified: false
-    hashtags: "#gains, #abs, #health, #nutrition"
+    hashtags: "#endurance, #weightlifting, #gaitline, #sundayvibes"
+  - username: "kolbruntholl"
+    fullname: >-
+      Kolbrún Þöll Þorradóttir
+    location: "Norway"
+    followers: 5601
+    engagement: 1887
+    commentsToLikes: 0.014848
+    id: ck8sze5pvo2620j787y0sdlgv
+    verified: false
+    hashtags: "#teamgym2020"
+  - username: "kjetilborch"
+    fullname: >-
+      Kjetil Borch
+    location: "Norway"
+    followers: 14415
+    engagement: 1248
+    commentsToLikes: 0.020320
+    id: ck0w55j8i1zyh0i19tk5pceuk
+    verified: false
+    hashtags: "#qicraft, #wakeboarding, #carantine, #norway"
 ---

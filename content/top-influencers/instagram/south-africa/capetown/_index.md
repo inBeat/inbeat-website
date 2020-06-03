@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Capetown In 2020
 description: >-
-  Find top Instagram influencers in Capetown in 2020. Most popular hashtags: #southafrica #capetown #capetownmag #westerncape.
+  Find top Instagram influencers in Capetown in 2020. Most popular hashtags: #getfit #motivation #lockdown #selfisolation.
 platform: Instagram
 profiles:
   - username: "capetown"
     fullname: >-
       Cape Town
     location: "South Africa"
-    followers: 23504
-    engagement: 227
-    commentsToLikes: 0.010986
+    followers: 23440
+    engagement: 230
+    commentsToLikes: 0.012114
     id: ck5hn5mrxn8yu0i11u1sibgrn
     verified: false
-    hashtags: "#edenonthebay, #cptmx, #campsbay, #visitsouthafrica"
-  - username: "jeffzimbris"
-    fullname: >-
-      J E F F  Z I M B R I S  🔹
-    location: "South Africa"
-    followers: 56771
-    engagement: 862
-    commentsToLikes: 0.042193
-    id: ck6tzqrxobaul0j71fftvyafa
-    verified: false
-    hashtags: "#legsday, #happy, #cliftonbeach, #doglover"
+    hashtags: "#yzerfontein, #lionshead, #nsri, #campsbay"
   - username: "audrey_lunda"
     fullname: >-
       MENS STYLE DESTINATION
     location: "South Africa"
-    followers: 15879
-    engagement: 1433
-    commentsToLikes: 0.142327
+    followers: 34483
+    engagement: 1484
+    commentsToLikes: 0.053699
     id: ck5caa309d0du0i11f2eppcjt
     verified: false
-    hashtags: "#blackmenwithstyle, #menstylefashion, #casualoutfit, #streetwearfashion"
-  - username: "pure.soraya"
-    fullname: >-
-      sᴏ ʀᴀʏ ᴀ #ʙʟᴏᴡsᴏᴍᴇsᴛᴀʀᴅᴜsᴛ
-    location: "South Africa"
-    followers: 35198
-    engagement: 344
-    commentsToLikes: 0.056484
-    id: ck6tp7jhfi9io0j71nw8eb3hv
-    verified: false
-    hashtags: "#fashionista, #picoftheday, #unapologeticme, #sandyfeet"
+    hashtags: "#menscasualwear, #blackmen, #mycottonon, #classymen"
   - username: "themarriedwanderers"
     fullname: >-
       Jen & Rudolph
     location: "South Africa"
-    followers: 17978
-    engagement: 329
-    commentsToLikes: 0.078160
+    followers: 18218
+    engagement: 345
+    commentsToLikes: 0.082140
     id: ck55q8m13c5180i112vj06y5u
     verified: false
-    hashtags: "#positivevibesonly, #paarl, #couplesborntotravel, #familyadventures"
-  - username: "amber_brits"
-    fullname: >-
-      A M B E R. BRITS.
-    location: "South Africa"
-    followers: 16120
-    engagement: 449
-    commentsToLikes: 0.087213
-    id: ck5c26a7twmdj0i11124h90ib
-    verified: false
-    hashtags: "#model, #chillin, #epixshoots, #allbodiesaregoodbodies"
+    hashtags: "#paarl, #travlcouple, #quarantinedate, #keepitwild"
   - username: "marcbuckner"
     fullname: >-
       Marc Buckner
     location: "South Africa"
-    followers: 72304
-    engagement: 435
-    commentsToLikes: 0.041790
+    followers: 84205
+    engagement: 526
+    commentsToLikes: 0.054334
     id: ck5qeisvd0p580i11yvigwyqx
     verified: true
-    hashtags: "#happy, #socialdistancing, #quotes, #blue"
+    hashtags: "#jawline, #ladies, #nutriwellsa, #lies"
+  - username: "marcbermanphotography"
+    fullname: >-
+      Marc Berman | Photographer
+    location: "South Africa"
+    followers: 15993
+    engagement: 241
+    commentsToLikes: 0.070445
+    id: ck5cdtxbzjrsk0i114cjcvvst
+    verified: false
+    hashtags: "#sports, #girls, #beta, #indoors"
+  - username: "treven_moodley"
+    fullname: >-
+      Treven Moodley
+    location: "South Africa"
+    followers: 17995
+    engagement: 304
+    commentsToLikes: 0.040289
+    id: ck6u0k2klg5gz0j7150u2jdzy
+    verified: false
+    hashtags: "#suituptime, #pinkhair, #finalrose, #goldenhourlight"
   - username: "kundaimurapa"
     fullname: >-
       Kundai Murapa
     location: "South Africa"
-    followers: 16506
-    engagement: 227
-    commentsToLikes: 0.040157
+    followers: 16817
+    engagement: 245
+    commentsToLikes: 0.046234
     id: ck15qf8zc2k2p0i19u271pu15
     verified: false
-    hashtags: "#tracefit, #isolationstation, #dineanddive, #chikencurry"
+    hashtags: "#dubaifitfam, #animalflow, #mindbody, #healthychoices"
   - username: "oliver.sutton"
     fullname: >-
       Oliver Sutton
     location: "South Africa"
-    followers: 4318
-    engagement: 869
-    commentsToLikes: 0.055583
+    followers: 4391
+    engagement: 793
+    commentsToLikes: 0.056209
     id: ck6toqt7ofl0c0j713akfrhu5
     verified: false
-    hashtags: "#capetown, #corsica, #yoga, #selflove"
+    hashtags: "#tanzania, #capetown, #corsica, #yoga"
+  - username: "doc.beats"
+    fullname: >-
+      Dr. B. Buchzik
+    location: "South Africa"
+    followers: 17025
+    engagement: 219
+    commentsToLikes: 0.105362
+    id: ckaovkrsl4zmb0i78smbhj569
+    verified: false
+    hashtags: "#medicalstuff, #paradise, #telemedizin, #westerncape"
   - username: "capetown.southafrica"
     fullname: >-
       CAPE TOWN 🇿🇦
     location: "South Africa"
-    followers: 50237
-    engagement: 496
-    commentsToLikes: 0.032062
+    followers: 50849
+    engagement: 494
+    commentsToLikes: 0.031708
     id: ck5qc8a91pbsq0i11zobtzzu2
     verified: false
-    hashtags: "#weheartsa, #capetowntourism, #meetcapetown, #capetownetc"
+    hashtags: ""
 ---

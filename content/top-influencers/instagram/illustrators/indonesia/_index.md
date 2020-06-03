@@ -1,107 +1,107 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top illustrators Instagram influencers in Indonesia in 2020. Most popular hashtags: #artwork #illustration #art #dirumahaja.
+  Find top illustrators Instagram influencers in Indonesia in 2020. Most popular hashtags: #anime #animeart #artist #illustrator.
 platform: Instagram
 profiles:
+  - username: "raunakart_empire"
+    fullname: >-
+      raunakart_ empire..
+    location: "Indonesia"
+    followers: 3436
+    engagement: 5047
+    commentsToLikes: 0.029824
+    id: ckaoztce6nb9a0i78732ekyqe
+    verified: false
+    hashtags: "#stylish, #gown, #likes, #painting"
   - username: "sendisiswadi"
     fullname: >-
       Sendi Siswadi
     location: "Indonesia"
-    followers: 3670
-    engagement: 2365
-    commentsToLikes: 0.039353
+    followers: 3742
+    engagement: 2115
+    commentsToLikes: 0.037190
     id: ck15sfs6ocsqh0i194v0o0ufn
     verified: false
-    hashtags: "#inspiring, #fruitteasosro, #ceritarakyat, #chopper"
+    hashtags: "#savetheearth, #mambacita, #pahlawan, #savetheforest"
   - username: "ulynovita"
     fullname: >-
       Uly Novita Siahaan
     location: "Indonesia"
-    followers: 60305
-    engagement: 1004
-    commentsToLikes: 0.053000
+    followers: 63216
+    engagement: 1014
+    commentsToLikes: 0.050268
     id: ck6u7x0lho5ir0j712o3w2czy
     verified: false
-    hashtags: "#makeupartistsworldwide, #dazedbeauty, #couplegoals, #workfromhome"
-  - username: "asma.niin"
-    fullname: >-
-      Asma Ninin Kurnia
-    location: "Indonesia"
-    followers: 85280
-    engagement: 445
-    commentsToLikes: 0.011438
-    id: ck0tugz7n748d0i193li62l0t
-    verified: false
-    hashtags: "#hand, #dirumahaja, #digitalart, #cupcakes"
-  - username: "ramzapsyru"
-    fullname: >-
-      Ramza Ardyputra
-    location: "Indonesia"
-    followers: 3011
-    engagement: 2005
-    commentsToLikes: 0.093592
-    id: ck14hlhdtawy90i1904tgag49
-    verified: false
-    hashtags: "#leagueoflegends, #idol, #originalcharacter, #juice"
+    hashtags: "#colorblock, #gloomy, #makeupremover, #dream"
   - username: "ggwp_riry"
     fullname: >-
       Riani Len Mochi
     location: "Indonesia"
-    followers: 27340
-    engagement: 756
-    commentsToLikes: 0.023219
+    followers: 27997
+    engagement: 814
+    commentsToLikes: 0.026738
     id: ck0tw5j17e4160i19by621sws
     verified: false
-    hashtags: "#earthhour2020, #gayadirumah, #selfie, #staysafe"
+    hashtags: "#earthhour2020, #photoshop, #moody, #earthhour"
+  - username: "yosiaraduck"
+    fullname: >-
+      Yosia Raduck
+    location: "Indonesia"
+    followers: 14048
+    engagement: 1685
+    commentsToLikes: 0.024102
+    id: ck0vxk4bgzabb0i19vzcxy701
+    verified: false
+    hashtags: "#artproduct, #maskingfluid, #tutorial, #birds"
+  - username: "ramzapsyru"
+    fullname: >-
+      Ramza Ardyputra
+    location: "Indonesia"
+    followers: 3018
+    engagement: 1983
+    commentsToLikes: 0.096040
+    id: ck14hlhdtawy90i1904tgag49
+    verified: false
+    hashtags: "#mermay, #kdaahri, #fanartist, #zerotwofanart"
+  - username: "kevinswork"
+    fullname: >-
+      Kevin Lagona
+    location: "Indonesia"
+    followers: 39418
+    engagement: 603
+    commentsToLikes: 0.059286
+    id: ck5hieui2d5na0i11e7oxh8c9
+    verified: false
+    hashtags: "#repost, #nikexcarhartt, #topcollectionbykevin, #outfitgrid"
+  - username: "bilx_art"
+    fullname: >-
+      #bilxdoodles
+    location: "Indonesia"
+    followers: 3466
+    engagement: 2179
+    commentsToLikes: 0.075297
+    id: ckaox9qb9cei20i78ztyshtqi
+    verified: false
+    hashtags: "#animeindonesia, #animeedit, #animeindo, #zerotwocosplay"
+  - username: "kunchevsky"
+    fullname: >-
+      Alex Kunchevsky
+    location: "Indonesia"
+    followers: 387777
+    engagement: 941
+    commentsToLikes: 0.009131
+    id: ck5hmunmsmnj50i111d21fq1d
+    verified: false
+    hashtags: "#digitalnomad, #artlovers, #animedrawing, #video"
   - username: "annepratamav"
     fullname: >-
       ZahraVoca
     location: "Indonesia"
-    followers: 6397
-    engagement: 1973
-    commentsToLikes: 0.013994
+    followers: 7063
+    engagement: 1958
+    commentsToLikes: 0.016613
     id: ck8t2cxczz01l0j78ecd6s3za
     verified: false
-    hashtags: "#ifrit, #hairstyle, #cf14, #socialdistancing"
-  - username: "harry_sandi"
-    fullname: >-
-      harry sandi
-    location: "Indonesia"
-    followers: 69406
-    engagement: 815
-    commentsToLikes: 0.006092
-    id: ck0tyw97iobte0i19rv5v4qtc
-    verified: false
-    hashtags: "#artfashion, #coloring, #dirumahajabarengjoyko, #today"
-  - username: "poppy_betha"
-    fullname: >-
-      Poy
-    location: "Indonesia"
-    followers: 28962
-    engagement: 2665
-    commentsToLikes: 0.004385
-    id: ck8t1u518x1lb0j78m7g6as17
-    verified: false
-    hashtags: "#sufanart, #peridot, #cartoon, #pinupgirl"
-  - username: "is.yuniarto"
-    fullname: >-
-      Is Yuniarto
-    location: "Indonesia"
-    followers: 27518
-    engagement: 585
-    commentsToLikes: 0.012683
-    id: ck8sxxsypj24t0j78kglm1tsx
-    verified: false
-    hashtags: "#bumilangitkomik, #guanyu, #kursuskomik, #komikindonesia"
-  - username: "rachelajeng"
-    fullname: >-
-      rachelajengputri@gmail.com
-    location: "Indonesia"
-    followers: 29916
-    engagement: 791
-    commentsToLikes: 0.038443
-    id: ck0w750xpbsfu0i19rywsher5
-    verified: false
-    hashtags: "#tapakhening, #dreamillustration, #paintings, #mutedflorals"
+    hashtags: "#fategrandorder, #bungoustraydogs, #executor, #neneyashiro"
 ---

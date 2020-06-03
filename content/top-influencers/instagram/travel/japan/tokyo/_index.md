@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top travel Instagram influencers in Tokyo in 2020. Most popular hashtags: #tokyo #japan #traveltokyo #retrip.
+  Find top travel Instagram influencers in Tokyo in 2020. Most popular hashtags: #travel #traveltokyo #tokyo #discoverjapan.
 platform: Instagram
 profiles:
-  - username: "chifan_07"
+  - username: "englishguideinjapan"
     fullname: >-
-      Chifan
+      HIRO⛩Anime&Culture Guide/Tokyo
     location: "Japan"
-    followers: 6963
-    engagement: 545
-    commentsToLikes: 0.039173
-    id: ck5chuzsfrip40i1148rh4kgs
+    followers: 9247
+    engagement: 2399
+    commentsToLikes: 0.006211
+    id: ckaoybkk4gteq0i78ok0lvnt9
     verified: false
-    hashtags: "#taipei, #couplelife, #inspirationcultmag, #streetphotography"
-  - username: "__butterfly67__"
+    hashtags: "#kimetsu, #visitjapanus, #instajapan, #cherrybloosoms"
+  - username: "japanko_official"
     fullname: >-
-      こーさ | Kosa
+      Japanko Official
     location: "Japan"
-    followers: 6799
-    engagement: 1769
-    commentsToLikes: 0.008876
-    id: ck8sxm9lahv1j0j78lgvmn18u
+    followers: 90581
+    engagement: 496
+    commentsToLikes: 0.008917
+    id: ck14h9vll99ob0i1980o3xwov
     verified: false
-    hashtags: "#nature, #awesometravel, #earth, #travel"
-  - username: "mousgamee"
-    fullname: >-
-      Just Mouss' ✌🏽👍🏽
-    location: "Japan"
-    followers: 2385
-    engagement: 869
-    commentsToLikes: 0.106283
-    id: ck6u3daidx5js0j71wjv4n3kb
-    verified: false
-    hashtags: "#share, #afro, #challenge, #chopdaily"
-  - username: "arielbissett"
-    fullname: >-
-      Ariel Bissett
-    location: "Japan"
-    followers: 63646
-    engagement: 953
-    commentsToLikes: 0.009969
-    id: ck1376yexa3hl0i19vwto0bpu
-    verified: true
-    hashtags: "#merinowool, #bookshelfdesign, #visitjapan, #visittokyo"
-  - username: "masashikuramochi"
-    fullname: >-
-      東京の夜景が好きな人 ᴳⁱᶠᵗ ᶠʳᵒᵐ ᴶᵃᵖᵃⁿ
-    location: "Japan"
-    followers: 12744
-    engagement: 1136
-    commentsToLikes: 0.029999
-    id: ck5pvjst6i8bg0i115jrscoc1
-    verified: false
-    hashtags: "#japan, #japanphoto, #discovertokyo, #moonshine"
+    hashtags: "#toriigates, #japantour, #geishagirl, #kabukicho"
   - username: "chihiro_in_japan"
     fullname: >-
       Chihiro🇯🇵
     location: "Japan"
-    followers: 27236
-    engagement: 960
-    commentsToLikes: 0.013590
+    followers: 26833
+    engagement: 964
+    commentsToLikes: 0.013551
     id: ck0w40updw8dc0i19p9jlmg9n
     verified: false
-    hashtags: "#japan, #discoverjapan, #hypebeastjp, #tokyostreets"
-  - username: "eatswithkayli"
-    fullname: >-
-      Kayli | Melbourne Foodie
-    location: "Japan"
-    followers: 7384
-    engagement: 413
-    commentsToLikes: 0.124122
-    id: ck14joyuslglv0i19r3j5haud
-    verified: false
-    hashtags: "#stickyrice, #acaibowl, #heartymeal, #mochidonuts"
+    hashtags: "#tokyocity, #tokyogram, #visitjapan, #exploretokyo"
   - username: "tsubasa_h0215"
     fullname: >-
       つーちゃん🌵🌞
     location: "Japan"
-    followers: 39532
-    engagement: 92
-    commentsToLikes: 0.013036
+    followers: 40110
+    engagement: 119
+    commentsToLikes: 0.009810
     id: ck8sy2k4yjicz0j78c9zq12h8
     verified: false
-    hashtags: "#anap, #jewelry, #rnail, #rollen"
+    hashtags: "#setup, #goodmorning, #newhair, #bbq"
   - username: "moron_non"
     fullname: >-
       もろんのん
     location: "Japan"
-    followers: 81481
-    engagement: 150
-    commentsToLikes: 0.005949
+    followers: 81040
+    engagement: 153
+    commentsToLikes: 0.006410
     id: ck0w1j1ohjl880i191z9t7ug3
     verified: false
-    hashtags: "#mrcheesecake, #hironakaayaka, #filmisnotdead, #moronnon"
-  - username: "watanabenagisa_"
+    hashtags: "#moronnon, #pr, #tanakamakoto, #hanako"
+  - username: "sakiiiya"
     fullname: >-
-      渡邊渚  Nagisa Watanabe
+      SAKIE
     location: "Japan"
-    followers: 8731
-    engagement: 1315
-    commentsToLikes: 0.025373
-    id: ck8t9ur6ypfir0j78qmbrdk6p
+    followers: 42265
+    engagement: 166
+    commentsToLikes: 0.007022
+    id: ck5hgnb963pst0i11x12ewcv8
     verified: false
-    hashtags: "#fashion, #coat, #2020, #desney"
+    hashtags: "#uberjapan, #myletsgetnude, #newyorkcity, #xperia"
+  - username: "rinapuu818"
+    fullname: >-
+      倉松里奈 りなぷぅ👨‍👩‍👧‍👦🌶🍿🍫🍺🍷🍖🍳
+    location: "Japan"
+    followers: 28942
+    engagement: 310
+    commentsToLikes: 0.022633
+    id: ck0w75qr9bw7m0i19iveg008o
+    verified: false
+    hashtags: "#curryrice, #chihuahua, #pet, #bob"
+  - username: "kellymisawa"
+    fullname: >-
+      Kelly Misawa | Wellness
+    location: "Japan"
+    followers: 63609
+    engagement: 309
+    commentsToLikes: 0.040037
+    id: ck55n669b5kgr0i112ceoz4ln
+    verified: false
+    hashtags: "#cotonfood, #japan, #summerdishes, #safelives"
+  - username: "yohei_sawamura"
+    fullname: >-
+      Yōhei Sawamura / 澤村 洋兵
+    location: "Japan"
+    followers: 112459
+    engagement: 350
+    commentsToLikes: 0.003658
+    id: ck0tza9j5pq530i19u05w21mj
+    verified: false
+    hashtags: "#teamgalaxy, #fujifilm, #handsfreechallenge, #galaxys20"
+  - username: "benjaminbeech"
+    fullname: >-
+      Benjamin Beech
+    location: "Japan"
+    followers: 9622
+    engagement: 484
+    commentsToLikes: 0.018866
+    id: ck5cky52uxujj0i114axizogs
+    verified: false
+    hashtags: ""
 ---

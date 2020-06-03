@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top cosmetics Instagram influencers in San Francisco in 2020. Most popular hashtags: #beauty #makeup #cosmetics #hair.
+  Find top cosmetics Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #cosmetics #lipgloss #eyeshadow.
 platform: Instagram
 profiles:
-  - username: "precisionmdca"
+  - username: "sarahjeangirl"
     fullname: >-
-      Precision MD Cosmetic Center
+      Sarahjeangirl
     location: "United States"
-    followers: 80682
-    engagement: 168
-    commentsToLikes: 0.000313
-    id: ck6u5xj68cbuf0j71b7op4ze4
+    followers: 17664
+    engagement: 347
+    commentsToLikes: 0.245120
+    id: ck13c6zd4yww10i19grm8jaba
     verified: false
-    hashtags: "#coolsculpting, #antiaging, #slim, #lipo"
-  - username: "mikki.shae"
-    fullname: >-
-      Mikki Shae💗
-    location: "United States"
-    followers: 49260
-    engagement: 74
-    commentsToLikes: 0.101251
-    id: ck5hczd5ikp3f0i1154jb1n0e
-    verified: false
-    hashtags: "#lemonheadla, #tomorrowland, #mylook, #illuminatinginireland"
+    hashtags: "#beautyjunkies, #makeupbrushes, #balayage, #dewymakeup"
   - username: "tanechkabeautifulady"
     fullname: >-
       Tatiana | Long Hair Model
     location: "United States"
-    followers: 45154
-    engagement: 147
-    commentsToLikes: 0.058458
+    followers: 45190
+    engagement: 154
+    commentsToLikes: 0.072675
     id: ck6ua7p2r1zmk0j71un2gnjsr
     verified: false
-    hashtags: "#workout, #yoga, #blogger, #squats"
+    hashtags: "#sanfrancisco, #princess, #hairfinity, #happybirthday"
   - username: "cjduronofficial"
     fullname: >-
       CJ Duron
     location: "United States"
-    followers: 7805
-    engagement: 915
-    commentsToLikes: 0.034411
+    followers: 7951
+    engagement: 885
+    commentsToLikes: 0.033733
     id: ck55kklngzjau0i11hjwk518q
     verified: false
-    hashtags: "#middleschool, #sephoria, #rainbowmakeup, #games"
-  - username: "carol_kaledzera"
+    hashtags: "#birthdays, #laguna, #tradition, #musicvideos"
+  - username: "abby_villaruel"
     fullname: >-
-      Carol Kaledzera🇲🇼
+      Abby Villaruel, BSN CANS
     location: "United States"
-    followers: 21591
-    engagement: 183
-    commentsToLikes: 0.077497
-    id: ck13a5aspopcw0i19vipvzx2s
+    followers: 170366
+    engagement: 465
+    commentsToLikes: 0.008093
+    id: ckaow1ouq70y10i78qlx5qr78
     verified: false
-    hashtags: "#bridemua, #makeupgoals, #ghostdemocracy, #makeupaddict"
+    hashtags: "#gratefulheart, #career, #stayinworkout, #makeupguru"
+  - username: "andrea.beautybay"
+    fullname: >-
+      A N D Y | Beauty blogger
+    location: "United States"
+    followers: 4061
+    engagement: 1296
+    commentsToLikes: 0.440008
+    id: ck5zpn5n6syst0i14sjbkmo38
+    verified: false
+    hashtags: "#makeupartists, #makeupparty, #mojecosmo, #maleupaddict"
   - username: "melu103"
     fullname: >-
       𝘔𝘦𝘭𝘪𝘯𝘢 ❥
     location: "United States"
-    followers: 10126
-    engagement: 690
-    commentsToLikes: 0.170026
+    followers: 10003
+    engagement: 545
+    commentsToLikes: 0.166779
     id: ck6ua4ehe1f2h0j719d0ie3wx
     verified: false
-    hashtags: "#nature, #picoftheday, #fitness, #fitnessmotivation"
-  - username: "justine_vivian"
+    hashtags: "#sport, #acne, #fitfam, #papasteves"
+  - username: "carol_kaledzera"
     fullname: >-
-      Justine
+      Carol Kaledzera🇲🇼
     location: "United States"
-    followers: 3906
-    engagement: 928
-    commentsToLikes: 0.067570
-    id: ck14jyadamrw10i19107pn6bf
+    followers: 21299
+    engagement: 199
+    commentsToLikes: 0.082967
+    id: ck13a5aspopcw0i19vipvzx2s
     verified: false
-    hashtags: "#projectrunway, #fentybeauty, #fashionblogger, #beautybeyondsize"
-  - username: "shanbensonstudio"
+    hashtags: "#lashesbylena, #lenalashes, #hairandmakeup, #makeuptutorial"
+  - username: "luxelife_cb"
     fullname: >-
-      S H A N B E N S O N
+      Candice Bar👑
     location: "United States"
-    followers: 1915
-    engagement: 661
-    commentsToLikes: 0.081357
-    id: ck8t0mhuqskh30j78cbrpyg60
+    followers: 65039
+    engagement: 10
+    commentsToLikes: 0.111587
+    id: ck6tknpep52cq0j71rhtsvrmb
     verified: false
-    hashtags: "#productphotography, #cosmeticbeauty, #sfmua, #bayareabeautyphotographer"
-  - username: "allanface"
+    hashtags: "#getit, #hazeleyes, #afterparty, #female"
+  - username: "carleensart"
     fullname: >-
-      ALLAN AVENDAÑO
+      ⭐️ KAROLINA ŁACH MAKE-UP 🇵🇱/🇩🇪
     location: "United States"
-    followers: 250049
-    engagement: 30
-    commentsToLikes: 0.049565
-    id: ck0ttz8xb4yt30i19qnw8gsxb
+    followers: 19278
+    engagement: 1066
+    commentsToLikes: 0.225410
+    id: ck6tuv3g2ilj20j71uogdthod
+    verified: false
+    hashtags: "#haul, #zostan, #lippen, #giveawaypolska"
+  - username: "reinerrahardja"
+    fullname: >-
+      Reiner Bonifasius Rahardja
+    location: "United States"
+    followers: 110223
+    engagement: 798
+    commentsToLikes: 0.038050
+    id: ck55nbupr5vnb0i1106qomexh
     verified: true
-    hashtags: "#allanface, #beauty, #bts, #dick"
-  - username: "moneymindnessa"
-    fullname: >-
-      Original Moneymind👑🗣
-    location: "United States"
-    followers: 12595
-    engagement: 693
-    commentsToLikes: 0.057287
-    id: ck6txrzovzifs0j71eptg1qfz
-    verified: false
-    hashtags: "#photography, #lilboosie, #halloween, #hyphymovement"
+    hashtags: "#milenialmelawancorona"
 ---

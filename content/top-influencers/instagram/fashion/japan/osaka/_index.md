@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Osaka In 2020
 description: >-
-  Find top fashion Instagram influencers in Osaka in 2020. Most popular hashtags: #ootd #fashion #pr #code.
+  Find top fashion Instagram influencers in Osaka in 2020. Most popular hashtags: #fashion #hairstyle #nike #travelgram.
 platform: Instagram
 profiles:
   - username: "_miuinoue_"
     fullname: >-
       海羽(みう)
     location: "Japan"
-    followers: 34821
-    engagement: 976
-    commentsToLikes: 0.008016
+    followers: 37089
+    engagement: 992
+    commentsToLikes: 0.009938
     id: ck0twcbzuev120i19iswb882f
     verified: false
-    hashtags: "#ring, #casetify, #fashion, #ootd"
-  - username: "ayu888ayu"
+    hashtags: "#frem, #anap, #cherryblossom, #xlarge"
+  - username: "kumika_iiio2"
     fullname: >-
-      ❤️❤️❤️ 𝚊𝚢𝚞 ❤️❤️❤️
+      kumika
     location: "Japan"
-    followers: 22710
-    engagement: 795
-    commentsToLikes: 0.039727
-    id: ck8sy23uqjgsa0j78ox8ik1pn
+    followers: 101858
+    engagement: 312
+    commentsToLikes: 0.005214
+    id: ckaouzeeo2gpf0i78dy1shnsw
     verified: false
-    hashtags: "#phantom, #fivestar, #menu, #coodinate"
-  - username: "ryo2610"
+    hashtags: "#antiqua, #mhl, #margarethowell, #bradybag"
+  - username: "yukico_twingram"
     fullname: >-
-      Ryo
+      𝓨𝒖𝒌𝒊𝒄𝒐 ♥︎
     location: "Japan"
-    followers: 41728
-    engagement: 417
-    commentsToLikes: 0.002861
-    id: ck6to4zftc4gl0j71xad9p399
+    followers: 40880
+    engagement: 156
+    commentsToLikes: 0.007244
+    id: ck0w6lg5c950l0i19ivtszcm3
     verified: false
-    hashtags: "#mensfashion, #cafe, #fashion, #osakacafe"
+    hashtags: "#whim, #blooms, #cinnamonrolls, #flowertalking"
+  - username: "chanmii__baby"
+    fullname: >-
+      𝕄𝕀𝕊𝔸𝕂𝕀🦄💕
+    location: "Japan"
+    followers: 3473
+    engagement: 1974
+    commentsToLikes: 0.180853
+    id: ckaou9735zdbv0i78h09rb5z1
+    verified: false
+    hashtags: "#pancakes, #fashion, #osakafood, #osakaseafood"
   - username: "jojoreon"
     fullname: >-
       ゆうや
     location: "Japan"
-    followers: 5813
-    engagement: 571
-    commentsToLikes: 0.042846
+    followers: 5752
+    engagement: 599
+    commentsToLikes: 0.035065
     id: ck6u69c99e9ji0j71t9c5mm54
     verified: false
-    hashtags: "#menwithstyle, #streetstyle, #japanblogger, #parker"
+    hashtags: "#coordinate, #sneaker, #instafashion, #nikesneakers"
+  - username: "_z.u_"
+    fullname: >-
+      Kazuha Hiraiwa
+    location: "Japan"
+    followers: 16325
+    engagement: 224
+    commentsToLikes: 0.021949
+    id: ckaoru3blor7z0i78ucebuosr
+    verified: false
+    hashtags: "#zu, #mothersday, #firstmothersday, #argital"
   - username: "sealbank"
     fullname: >-
-      金セアル KIM SEAL 김새알
+      金セアル KIM SEAL 김새알
     location: "Japan"
-    followers: 30388
-    engagement: 213
-    commentsToLikes: 0.011895
+    followers: 31217
+    engagement: 251
+    commentsToLikes: 0.013726
     id: ck55m6is93bx60i11rgtz1w1s
     verified: false
-    hashtags: "#stayhome, #bangle, #clausportojapan, #fresco"
-  - username: "aya.v_v.ka"
+    hashtags: "#c4, #kurkkufields, #belt, #wallet"
+  - username: "cherish.jp"
     fullname: >-
-      aya♥︎
+      ᑕᕼᕮᖇIᔕᕼ🌸ちぇりぐらむ
     location: "Japan"
-    followers: 123873
-    engagement: 168
-    commentsToLikes: 0.033421
-    id: ck8t3unm04k480j78l2pbr5l9
+    followers: 14297
+    engagement: 902
+    commentsToLikes: 0.030252
+    id: ck9webdv2jj4o0j78nmifa82o
     verified: false
-    hashtags: "#fashion, #sky, #osakafood, #instafood"
-  - username: "3sv_18pink"
-    fullname: >-
-      ちびさや 🌻 関西グルメ（ −36kgダイエット ）
-    location: "Japan"
-    followers: 19291
-    engagement: 375
-    commentsToLikes: 0.001662
-    id: ck5q8z1ya8mbk0i11w3tfot5q
-    verified: false
-    hashtags: "#model, #f4f, #hakone, #cafeohzan"
-  - username: "yunri420"
-    fullname: >-
-      Yunrisama🧸🍒
-    location: "Japan"
-    followers: 27489
-    engagement: 892
-    commentsToLikes: 0.015351
-    id: ck0w0qgd2fjer0i19evz8h3ec
-    verified: false
-    hashtags: "#ootd, #fashion, #rady, #gal"
+    hashtags: "#swimmingpool, #triplover, #pinkcolor, #thisisjapan"
   - username: "rikkyyucoco"
     fullname: >-
       Nao💜
     location: "Japan"
-    followers: 63119
-    engagement: 154
-    commentsToLikes: 0.022136
+    followers: 68745
+    engagement: 205
+    commentsToLikes: 0.037992
     id: ck5hmifc2m0b50i11553vmqu4
     verified: false
-    hashtags: "#chao, #trip, #happyday, #fashion"
-  - username: "kotori_mii"
+    hashtags: "#awajiwestcoast, #nijigennomori, #trip, #tavenal"
+  - username: "yunri420"
     fullname: >-
-      kotori ¨̮
+      Yunrisama🧸🍒
     location: "Japan"
-    followers: 189169
-    engagement: 178
-    commentsToLikes: 0.002007
-    id: ck15qdhy42c1l0i19uaspf1po
+    followers: 28821
+    engagement: 917
+    commentsToLikes: 0.016434
+    id: ck0w0qgd2fjer0i19evz8h3ec
     verified: false
-    hashtags: "#check6504, #converse, #reedit, #uniqlo"
+    hashtags: "#pink, #tops, #sporty, #parker"
 ---

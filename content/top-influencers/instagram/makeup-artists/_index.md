@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Artists Instagram Influencers In 2020
 description: >-
-  Find top makeup artists Instagram influencers in 2020. Most popular hashtags: #makeup #makeupartist #hudabeauty #colourpop.
+  Find top makeup artists Instagram influencers in 2020. Most popular hashtags: # #rozdanie #makeupgiveaway #makeuppoland.
 platform: Instagram
 profiles:
-  - username: "itskitsovain"
+  - username: "jewska.makeup"
     fullname: >-
-      👄Miss Kitty Sovain👄
-    location: "United States"
-    followers: 622136
-    engagement: 824
-    commentsToLikes: 0.027829
-    id: ck0tw32q1dt850i19k2v9fwwf
+      Jewska Makeup
+    location: "Poland"
+    followers: 4096
+    engagement: 3129
+    commentsToLikes: 0.183269
+    id: ck5qdwruaxnx10i113sbecb9m
     verified: false
-    hashtags: "#whatdidkittydonow, #sovainbeauty, #ilovemesomeme, #selfloveisthebestlove"
-  - username: "kaufmanmk"
+    hashtags: "#flatlaypoland, #wibo, #zmalowyzwanie, #makeuppoland"
+  - username: "jennseren"
     fullname: >-
-      Mark Kaufman
-    location: "Russia"
-    followers: 84950
-    engagement: 999
-    commentsToLikes: 0.169686
-    id: ck6uif8gseqnb0j717uwbwoqx
+      Jen Seren
+    location: "United Kingdom"
+    followers: 17585
+    engagement: 2441
+    commentsToLikes: 0.113329
+    id: ck6uai1xi3o4s0j71tijk15jw
+    verified: false
+    hashtags: "#tattooshop, #dropit, #zodiacmakeup, #tattoos"
+  - username: "paradisedapree"
+    fullname: >-
+      Paradise Dapree
+    location: "United States"
+    followers: 9340
+    engagement: 1841
+    commentsToLikes: 0.114620
+    id: ck9hadynic6tu0j78xt018iuo
     verified: false
     hashtags: ""
-  - username: "makeup_by_miish"
-    fullname: >-
-      Dominika Mierzwa
-    location: "Poland"
-    followers: 6063
-    engagement: 1638
-    commentsToLikes: 0.141402
-    id: ck14ji76mkh520i199ms0ec8h
-    verified: false
-    hashtags: "#makeuplover, #wearebrows, #makeupclips, #makegirlz"
   - username: "ixchel_agz"
     fullname: >-
       Ixchel Aguilar ©
     location: "Mexico"
-    followers: 9488
-    engagement: 1916
-    commentsToLikes: 0.078617
+    followers: 9626
+    engagement: 1810
+    commentsToLikes: 0.080837
     id: ck135on8e2gkb0i19d784fdtm
     verified: false
-    hashtags: "#colorfulskull, #skull, #makeupideas, #brandedlookus"
-  - username: "nosferotika"
-    fullname: >-
-      Rubia - NOSFEROTIKA
-    location: "Brazil"
-    followers: 92283
-    engagement: 1210
-    commentsToLikes: 0.126405
-    id: ck13cjlob0o5i0i1910ti4m2h
-    verified: false
-    hashtags: "#gothicbox, #altmodel, #egirlmakeup, #alternativegirlsbr"
-  - username: "jamillerafic"
-    fullname: >-
-      Jamille Rafic
-    location: "Brazil"
-    followers: 16564
-    engagement: 873
-    commentsToLikes: 0.191657
-    id: ck0w6esn8881i0i19x2ta5b7t
-    verified: false
-    hashtags: "#makeuplife, #underratedmua, #makeupaddict, #makeupblogger"
+    hashtags: "#brandedlookus, #grinch, #melloncolor, #makeupvideo"
   - username: "makeupbymcruz"
     fullname: >-
       Mariana Cruz🌙
     location: ""
-    followers: 8044
-    engagement: 1960
-    commentsToLikes: 0.074234
+    followers: 8793
+    engagement: 1799
+    commentsToLikes: 0.076194
     id: ck8tce5koz5ww0j78w4tgeogz
     verified: false
-    hashtags: "#cutcrease, #beauty, #makeupvzla, #colourpop"
-  - username: "inessjarak"
+    hashtags: "#fitme, #italiadeluxe, #cuarentena, #makeupclass"
+  - username: "imholsxo"
     fullname: >-
-      Ines Jarak
+      HOLLY DUNN
     location: ""
-    followers: 146847
-    engagement: 1195
-    commentsToLikes: 0.099469
-    id: ck5zz2q6hayyn0i1429yd0qgr
+    followers: 13072
+    engagement: 1775
+    commentsToLikes: 0.078202
+    id: ckaowgve88vra0i789o58n8yt
     verified: false
-    hashtags: "#momylife, #dad, #prayforzagreb, #daddysgirl"
-  - username: "eyerlingpulido"
+    hashtags: "#lookfantastic, #shrine, #norvinavol4, #maccosmetics"
+  - username: "aoife.cullen"
     fullname: >-
-      Eyerling Pulido
-    location: ""
-    followers: 30946
-    engagement: 776
-    commentsToLikes: 0.287425
-    id: ck5cjc00tuf2p0i11k9cuzysy
+      Aoife Cullen 👽
+    location: "United Kingdom"
+    followers: 5643
+    engagement: 1720
+    commentsToLikes: 0.095714
+    id: ck55jyv4uy3960i115dx9lh8t
     verified: false
-    hashtags: "#makeup, #makeupcaracas, #giveaway, #eyerlingpulido"
-  - username: "codrina.apostol"
+    hashtags: ""
+  - username: "darlensp"
     fullname: >-
-      Codrina Apostol
-    location: ""
-    followers: 26247
-    engagement: 925
-    commentsToLikes: 0.102532
-    id: ck5cavg01e7rb0i11ij3epx1l
+      D A R L E N S O U S A ✨
+    location: "Brazil"
+    followers: 8006
+    engagement: 1654
+    commentsToLikes: 0.074984
+    id: ck9wfmainph800j78ucxs7ezv
     verified: false
-    hashtags: "#stamacasa, #stauacasa"
+    hashtags: "#cachoscoloridos, #cachosbra, #youtube, #barbiechallenge"
+  - username: "sbenayas"
+    fullname: >-
+      Sara Benayas
+    location: "Spain"
+    followers: 6682
+    engagement: 1501
+    commentsToLikes: 0.083337
+    id: ck5hj6usxg40z0i112p7exbb0
+    verified: false
+    hashtags: ""
+  - username: "slaybyestell"
+    fullname: >-
+      Pati (16.2k)
+    location: "Poland"
+    followers: 17255
+    engagement: 1433
+    commentsToLikes: 0.099077
+    id: ck5bxe2lpnjon0i1192ub978d
+    verified: false
+    hashtags: "#pixibeauty, #lancome, #guerlain, #instabeauty"
 ---

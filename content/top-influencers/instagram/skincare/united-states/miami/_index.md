@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Miami In 2020
 description: >-
-  Find top skincare Instagram influencers in Miami in 2020. Most popular hashtags: #miami #skincare #beauty #makeup.
+  Find top skincare Instagram influencers in Miami in 2020. Most popular hashtags: #skincare #skincareroutine #miami #haircare.
 platform: Instagram
 profiles:
-  - username: "antwonmaxwellphotography"
+  - username: "_rosieromero"
     fullname: >-
-      Antwon Maxwell Photography LLC
+      Rosie | beauty influencer
     location: "United States"
-    followers: 13888
-    engagement: 937
-    commentsToLikes: 0.019988
-    id: ck55m0wza2x9d0i11tvn69tu2
+    followers: 4229
+    engagement: 853
+    commentsToLikes: 0.084660
+    id: ck5hlg7drk5yh0i11hbd2sbnk
     verified: false
-    hashtags: "#birthdayshoot, #iso1200magazine, #makeup, #beautyphotographer"
-  - username: "yohanarangelmua"
+    hashtags: "#haircare, #veganhaircare, #monat, #hairinfluencer"
+  - username: "iamabbeywilson"
     fullname: >-
-      By Yoha Rangel  @yberangelp
+      Abbey Wilson
     location: "United States"
-    followers: 36586
-    engagement: 236
-    commentsToLikes: 0.043226
-    id: ck5hjhhdpgmzu0i112gdhmcm1
+    followers: 35721
+    engagement: 91
+    commentsToLikes: 0.041594
+    id: ck0ty7c63lrq90i1916fkeu5a
     verified: false
-    hashtags: "#yomequedoencasa, #makeuppink, #juicylips, #cleanbrushes"
-  - username: "exploramiami"
+    hashtags: "#travel, #luxury, #luxurytravel, #levelstothegame"
+  - username: "danouuz"
     fullname: >-
-      Hi 👋🏻 I’m Eu
+      Danae Pappa
     location: "United States"
-    followers: 22480
-    engagement: 129
-    commentsToLikes: 0.118347
-    id: ck0w0g2t7e0jq0i19b59mcqq3
+    followers: 181901
+    engagement: 1097
+    commentsToLikes: 0.006370
+    id: ck15tvywuk6gg0i19ypwvgv9q
     verified: false
-    hashtags: "#giveaway, #miami, #workout, #wynwood"
-  - username: "thereallexdaddy"
+    hashtags: "#seasand, #themedbride, #hellomarch, #motivation"
+  - username: "araalnaiem"
     fullname: >-
-      Fine Ass Lex 🖤
+      Ara Alnaiem 🧿♡
     location: "United States"
-    followers: 32009
-    engagement: 159
-    commentsToLikes: 0.077254
-    id: ck5px05nypgig0i11m4fl0eh3
+    followers: 23556
+    engagement: 372
+    commentsToLikes: 0.079792
+    id: ck15rdosa7ezo0i190muzg17k
     verified: false
-    hashtags: "#superbowl, #skingoals, #skinhealth, #facials"
-  - username: "toska_europeanspa"
+    hashtags: "#doseofdesixkaty, #colourpopme, #glow, #hijab"
+  - username: "realdeanasophia"
     fullname: >-
-      Toska Husted
+      DEANA SOPHIA
     location: "United States"
-    followers: 45550
-    engagement: 107
-    commentsToLikes: 0.099183
-    id: ck5qa42mrefvh0i11twonskpb
-    verified: true
-    hashtags: "#travelgram, #quarantineselfcare, #stayhome, #serumplacenta"
-  - username: "lindceybeauty"
-    fullname: >-
-      Lindcey Nava
-    location: "United States"
-    followers: 116316
-    engagement: 643
-    commentsToLikes: 0.040732
-    id: ck139r3yrmq4h0i19qo8tgyll
+    followers: 41093
+    engagement: 316
+    commentsToLikes: 0.027132
+    id: ck6tkejim4jmn0j71bsj8b26r
     verified: false
-    hashtags: "#skincarevideos, #softskin, #giveaway, #9021glow"
-  - username: "shes_gorjess"
+    hashtags: "#blissbreak, #redlips, #technogirl, #technodj"
+  - username: "zennnnnnn"
     fullname: >-
-      Jessica Dykstra
+      Z E N
     location: "United States"
-    followers: 133429
-    engagement: 131
-    commentsToLikes: 0.057848
-    id: ck5hfooyxyj1j0i117u611ash
-    verified: true
-    hashtags: "#welcome2020, #natural, #westpalmbeach, #bbglow"
-  - username: "alessandrachiodini"
-    fullname: >-
-      Alessandra Chiodini
-    location: "United States"
-    followers: 101397
-    engagement: 30
-    commentsToLikes: 0.042640
-    id: ck136bw2k5q4e0i1944epwvy9
+    followers: 5672
+    engagement: 375
+    commentsToLikes: 0.034840
+    id: ck15sfc71cqct0i19oa0n0398
     verified: false
-    hashtags: "#noedit, #positive, #vibes, #pompom"
-  - username: "aglamlifestyle"
+    hashtags: "#emergenyfw, #ad, #temporarypost, #sayso"
+  - username: "ffstephenson"
     fullname: >-
-      Amanda Champion
+      Jonathan Stephenson
     location: "United States"
-    followers: 71899
-    engagement: 45
-    commentsToLikes: 0.186104
-    id: ck0vxbnqqy3ux0i19d3c4kk2l
+    followers: 19840
+    engagement: 717
+    commentsToLikes: 0.013082
+    id: ckapahnutw5hb0i785x4otnnv
     verified: false
-    hashtags: "#elvis, #aliandjay, #springstyle, #covid"
-  - username: "kristinasheiter"
+    hashtags: "#skincareblog, #friendsarefamily, #skincareproduct, #familypicture"
+  - username: "sobretacos"
     fullname: >-
-      Kristina Sheiter
+      NICOLE | Miami Blogger
     location: "United States"
-    followers: 109656
-    engagement: 238
-    commentsToLikes: 0.023025
-    id: ck5c49ylj0ws40i11gfgaxpax
-    verified: true
-    hashtags: "#makeupartist, #swimwear, #miamibeach, #retouch"
+    followers: 12171
+    engagement: 888
+    commentsToLikes: 0.050017
+    id: ck14hj20lak550i19nb1q7ie4
+    verified: false
+    hashtags: "#stylegram, #lookdamoda, #skingoals, #fashionblogger"
+  - username: "jahairacrystal__"
+    fullname: >-
+      JahairaCrystal Choreographer
+    location: "United States"
+    followers: 7185
+    engagement: 667
+    commentsToLikes: 0.113017
+    id: ck5hdmctso7ns0i11b60qd1i9
+    verified: false
+    hashtags: "#bohemianbraids, #worldwide, #chrisbreezy, #hustle"
+  - username: "la_taliana"
+    fullname: >-
+      la_taliana
+    location: "United States"
+    followers: 28543
+    engagement: 295
+    commentsToLikes: 0.055338
+    id: ck15rbeaj73nv0i195zmbjacd
+    verified: false
+    hashtags: "#raiseup, #newyork, #bikerboys, #colors"
 ---

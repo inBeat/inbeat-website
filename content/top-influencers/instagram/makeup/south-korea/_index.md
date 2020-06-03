@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In South Korea In 2020
 description: >-
-  Find top makeup Instagram influencers in South Korea in 2020. Most popular hashtags: #ad #makeup #kbeauty #koreanmakeup.
+  Find top makeup Instagram influencers in South Korea in 2020. Most popular hashtags: #maccosmetics #mlbkorea #missha #dailymakeup.
 platform: Instagram
 profiles:
-  - username: "m.weber.m"
+  - username: "veeronica.vh"
     fullname: >-
-      Beauty In South Korea
+      이소연 Maria Vero  Hostiadi
     location: "South Korea"
-    followers: 3261
-    engagement: 1383
-    commentsToLikes: 0.106001
-    id: ck55niqnj6amr0i11qu9c656e
+    followers: 53570
+    engagement: 254
+    commentsToLikes: 0.052038
+    id: ck5pz66c5zeqe0i115k9u4sdu
     verified: false
-    hashtags: "#avantgardmakeup, #mothershippalette, #vrneonpalette, #pearlmood"
+    hashtags: "#nongchatmakeupthailand, #bridalbali, #khurusmakeupbali, #softmakeup"
+  - username: "chungjaeeeeee"
+    fullname: >-
+      유충재 Crown
+    location: "South Korea"
+    followers: 35024
+    engagement: 890
+    commentsToLikes: 0.013513
+    id: ck0w00l10bspy0i19vz235sc1
+    verified: false
+    hashtags: "#viini, #lovethemoon, #onesater, #comearoundme"
+  - username: "h1003141592"
+    fullname: >-
+      
+    location: "South Korea"
+    followers: 327287
+    engagement: 164
+    commentsToLikes: 0.036023
+    id: ck15r5uw46a7j0i19uco53aql
+    verified: false
+    hashtags: "#tiktok, #studiojak, #lotteworld, #practicing"
+  - username: "smxmu"
+    fullname: >-
+      성무, 이
+    location: "South Korea"
+    followers: 59925
+    engagement: 369
+    commentsToLikes: 0.031178
+    id: ck6tuy2d6j2u60j7188h6u5ri
+    verified: false
+    hashtags: "#mlbkorea, #cp77, #steambase, #mlbcrew"
   - username: "ariarisom"
     fullname: >-
       아리솜의 짜릿한 뷰티 / ARISOM
     location: "South Korea"
-    followers: 101578
-    engagement: 95
-    commentsToLikes: 0.021660
+    followers: 102067
+    engagement: 80
+    commentsToLikes: 0.043184
     id: ck15s5uglbdgt0i19cnaaef8f
     verified: false
-    hashtags: "#schutz, #giverny, #telse, #uv"
-  - username: "koreanmakeupk"
-    fullname: >-
-      Korean Make Up/Tutorials 🇰🇷
-    location: "South Korea"
-    followers: 26351
-    engagement: 317
-    commentsToLikes: 0.000855
-    id: ck135uyu93dbz0i19hdd3reev
-    verified: false
-    hashtags: "#koreanfashion, #asianmakeup, #makeuptips, #korean"
-  - username: "ll0927ll"
-    fullname: >-
-      메이크업 아티스트 예은 ♥️
-    location: "South Korea"
-    followers: 5617
-    engagement: 521
-    commentsToLikes: 0.062591
-    id: ck0u6h29b21fk0i19wq6hf8s4
-    verified: false
-    hashtags: "#coffee, #motd, #macpowderkisslipstick, #toofaced"
+    hashtags: "#maxfactor, #2020, #diorskincare, #danskin"
   - username: "glee_makeup"
     fullname: >-
       글리 glee
     location: "South Korea"
-    followers: 51543
-    engagement: 247
-    commentsToLikes: 0.018172
+    followers: 55122
+    engagement: 225
+    commentsToLikes: 0.020615
     id: ck14jhftykd3u0i193zey1y1i
     verified: false
-    hashtags: "#makeup, #missha, #maybellinekorea, #laka"
-  - username: "o.min_dyo"
+    hashtags: "#hera, #romand, #sephorakorea, #isa"
+  - username: "bad__yoyo"
     fullname: >-
-      민됴
+      YOYO 요요
     location: "South Korea"
-    followers: 25010
-    engagement: 311
-    commentsToLikes: 0.023731
-    id: ck5hpg266rasc0i11b1b4fab7
+    followers: 29121
+    engagement: 379
+    commentsToLikes: 0.020214
+    id: ck5zns74np1yt0i145d4yw223
     verified: false
-    hashtags: "#betterthaneyes, #etude, #ad, #kiehlskorea"
-  - username: "florida_bay"
+    hashtags: "#instantfunk, #mlbkorea, #russianvelvetblue, #butterscotch"
+  - username: "cq_bq"
     fullname: >-
-      ФЛОРИДА 🔹️ СТУДЕНТКА 🔹️ КОРЕЯ
+      씨큐 CQ
     location: "South Korea"
-    followers: 14867
-    engagement: 1047
-    commentsToLikes: 0.114071
-    id: ck14h122m80c70i198vwa8ziq
+    followers: 118835
+    engagement: 86
+    commentsToLikes: 0.012779
+    id: ck5hlv98skxd00i11qtsuyrc5
     verified: false
-    hashtags: "#01, #03, #liptintkorea, #makeupkorea"
-  - username: "shim.anel"
+    hashtags: "#nightskincareroutine, #monparisintensement, #narscoolcrushcollection, #sponsored"
+  - username: "koreanmakeupk"
     fullname: >-
-      ♡🐇 심 아넬
+      Korean Make Up/Tutorials 🇰🇷
     location: "South Korea"
-    followers: 33099
-    engagement: 758
-    commentsToLikes: 0.018729
-    id: ck5hlg1axk5o50i117cccn4ac
+    followers: 26186
+    engagement: 292
+    commentsToLikes: 0.001230
+    id: ck135uyu93dbz0i19hdd3reev
     verified: false
-    hashtags: "#plushie, #koreanmodel, #ulzzanggirl, #cosplayer"
-  - username: "byjeannine"
+    hashtags: "#kidolmakeup, #koreangirl, #ullzanggirl, #maccosmetics"
+  - username: "ll0927ll"
     fullname: >-
-      JEANNINE
+      메이크업 아티스트 예은 ♥️
     location: "South Korea"
-    followers: 467466
-    engagement: 478
-    commentsToLikes: 0.034932
-    id: ck135e2am0ypn0i19495uu3c4
+    followers: 5973
+    engagement: 455
+    commentsToLikes: 0.054636
+    id: ck0u6h29b21fk0i19wq6hf8s4
     verified: false
-    hashtags: "#23, #clown, #flatlayinspo, #makeupflatlay"
-  - username: "seungsse2"
-    fullname: >-
-      승스이 / seungsse2 🇰🇷
-    location: "South Korea"
-    followers: 88606
-    engagement: 669
-    commentsToLikes: 0.010026
-    id: ck0w794mqcdt30i19zgt8hieh
-    verified: false
-    hashtags: "#messyhair, #daily, #tarte, #korea"
+    hashtags: "#16p, #dailymakeup, #peachmakeup, #amuse"
 ---

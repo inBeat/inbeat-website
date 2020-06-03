@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Argentina In 2020
 description: >-
-  Find top fitness Instagram influencers in Argentina in 2020. Most popular hashtags: #yomequedoencasa #quedateencasa #fitness #coronavirus.
+  Find top fitness Instagram influencers in Argentina in 2020. Most popular hashtags: #cuarentena #quedateencasa #argentina #yomequedoencasa.
 platform: Instagram
 profiles:
   - username: "kekorosen"
     fullname: >-
       Keko Rosenblum
     location: "Argentina"
-    followers: 11269
-    engagement: 1101
-    commentsToLikes: 0.046293
+    followers: 11026
+    engagement: 1056
+    commentsToLikes: 0.044928
     id: ck5pwnlrwnop00i11ovj5ip8o
     verified: false
-    hashtags: "#veg, #vegana, #argentina, #gimnasio"
-  - username: "gabrielambogado"
+    hashtags: "#popeye, #meditacion, #megatlon, #conexion"
+  - username: "maxitassi"
     fullname: >-
-      Gabii Bogado 👄
+      maxi tassi 🏳️‍🌈
     location: "Argentina"
-    followers: 80824
-    engagement: 352
-    commentsToLikes: 0.029168
-    id: ck5qb4hmnjrlf0i11ofb2smpg
+    followers: 25610
+    engagement: 1815
+    commentsToLikes: 0.011670
+    id: ck8sydj2tkijc0j78pj002fj6
     verified: false
-    hashtags: "#fitnesstrainer, #fitnessmotivation, #gbfitness, #yoentrenoencasa"
+    hashtags: "#pride, #orgullo, #cuarentena, #lgbt"
+  - username: "romiortegaa"
+    fullname: >-
+      ROMI🇦🇷
+    location: "Argentina"
+    followers: 88821
+    engagement: 477
+    commentsToLikes: 0.017821
+    id: ck6tkvoos5hvu0j71n5571f8w
+    verified: false
+    hashtags: "#tiktok, #quedatenecasa, #encasa, #solcitodeoton"
+  - username: "babykatira04"
+    fullname: >-
+      Gaby.!♥️🖤
+    location: "Argentina"
+    followers: 34687
+    engagement: 311
+    commentsToLikes: 0.035327
+    id: ck15q1ul60p310i19l79r4s4r
+    verified: false
+    hashtags: "#motivacion, #clothing, #sabado, #dress"
+  - username: "javitolop"
+    fullname: >-
+      🇦🇷 Javier Lopez 🇦🇷
+    location: "Argentina"
+    followers: 11793
+    engagement: 890
+    commentsToLikes: 0.024229
+    id: ckap0i04vqdiv0i78451bqcqk
+    verified: false
+    hashtags: "#cuarentena, #moustache, #recuerdos, #yomequedoencasa"
   - username: "andre_runnerarg"
     fullname: >-
       Andre🏃‍♀️🦋
     location: "Argentina"
-    followers: 3832
-    engagement: 1013
-    commentsToLikes: 0.133064
+    followers: 4504
+    engagement: 910
+    commentsToLikes: 0.110889
     id: ck6tsqy756bzs0j71pk6xu3nn
     verified: false
-    hashtags: "#vivirmejor, #vibras, #asicsfrontrunner, #womanrun"
-  - username: "soymamafashion"
+    hashtags: "#calma, #womanru, #alegria, #libre"
+  - username: "moriceparis"
     fullname: >-
-      Ꮲaz Dominguez 🧿
+      MORICE PARIS
     location: "Argentina"
-    followers: 24877
-    engagement: 162
-    commentsToLikes: 0.073295
-    id: ck6tmt44r8heb0j71s10xlh6q
+    followers: 24191
+    engagement: 429
+    commentsToLikes: 0.104870
+    id: ck8wfmzgbfygv0j789d8y4jjr
     verified: false
-    hashtags: "#amor, #moverlascachas, #sigamosencasa, #actitud"
-  - username: "guadimachado"
-    fullname: >-
-      G UA D I   M A C H A D O 🦁
-    location: "Argentina"
-    followers: 16846
-    engagement: 893
-    commentsToLikes: 0.017024
-    id: ck14k8ywpocff0i19ifn6oj4w
-    verified: false
-    hashtags: "#tbt, #crossfit, #latinpower, #quedateencasa"
+    hashtags: "#cuarentena"
   - username: "celestewellness"
     fullname: >-
       Fitness coach
     location: "Argentina"
-    followers: 64872
-    engagement: 277
-    commentsToLikes: 0.091695
+    followers: 64882
+    engagement: 231
+    commentsToLikes: 0.075289
     id: ck5zypmqhaamw0i143jtm1thh
     verified: false
-    hashtags: "#confidentes, #deficitcalorico, #airelibre, #desaf"
-  - username: "jenn_lifefit"
+    hashtags: "#uach, #ejercicios, #peliculas, #efermer"
+  - username: "pamelaecheverriaa"
     fullname: >-
-      💥Jenn Pure Energy💥
+      Pamela Echeverría
     location: "Argentina"
-    followers: 29991
-    engagement: 172
-    commentsToLikes: 0.018829
-    id: ck5hcfu1ihuwk0i11l5xb8r37
+    followers: 254187
+    engagement: 184
+    commentsToLikes: 0.010600
+    id: ck0w4srgz08dl0i1926f3ufd9
     verified: false
-    hashtags: "#aprendizaje, #energy, #smileface, #yomequedoencasa"
-  - username: "ndaniela.fit"
+    hashtags: "#runtheworld, #yosoyunacameltoepower, #cameltoepower, #jlosuperbowlchallenge"
+  - username: "dionisio.heiderscheid"
     fullname: >-
-      N I U R K I S🔥
+      Dionisio Heiderscheid
     location: "Argentina"
-    followers: 49200
-    engagement: 232
-    commentsToLikes: 0.019289
-    id: ck0u0heoztp1d0i192nbaq774
+    followers: 85879
+    engagement: 195
+    commentsToLikes: 0.025031
+    id: ckapcc6kh380j0i782ro0s86q
     verified: false
-    hashtags: "#lacuerpa, #sundayperfec, #happyday, #cremosos"
-  - username: "ileanadigiorgio"
-    fullname: >-
-      Ileana Di Giorgio
-    location: "Argentina"
-    followers: 7096
-    engagement: 816
-    commentsToLikes: 0.114928
-    id: ck14k4jhcnoo10i194vxflwi0
-    verified: false
-    hashtags: "#calistenics, #fitnesshouse, #polefit, #acro"
-  - username: "sergioveron"
-    fullname: >-
-      @sergioveron
-    location: "Argentina"
-    followers: 74067
-    engagement: 274
-    commentsToLikes: 0.073440
-    id: ck6tylt2c4hmy0j71h6i6axye
-    verified: false
-    hashtags: "#ahijado, #salud, #yomequedoencasa, #covid"
+    hashtags: "#dio, #home, #stayhome, #miami"
 ---

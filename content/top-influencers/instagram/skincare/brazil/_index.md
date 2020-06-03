@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Brazil In 2020
 description: >-
-  Find top skincare Instagram influencers in Brazil in 2020. Most popular hashtags: #makeup #skincare #style #fiqueemcasa.
+  Find top skincare Instagram influencers in Brazil in 2020. Most popular hashtags: #makeup #photography #make #quarentena.
 platform: Instagram
 profiles:
-  - username: "danielehernandess"
+  - username: "carolinemonratier"
     fullname: >-
-      𝕯𝖆𝖓𝖎𝖊𝖑𝖊 𝕳𝖊𝖗𝖓𝖆𝖓𝖉𝖊𝖘
+      CAROLINE MONRATIER 🌸
     location: "Brazil"
-    followers: 7645
-    engagement: 1054
-    commentsToLikes: 0.122201
-    id: ck8t1krcxw5200j78geazxo9k
+    followers: 44525
+    engagement: 327
+    commentsToLikes: 0.067993
+    id: ckap2w29a0kf20i785bdh6obi
     verified: false
-    hashtags: "#quarentena, #ficaremcasa, #coronav"
-  - username: "sanntoosmarii"
-    fullname: >-
-      Mari Santos
-    location: "Brazil"
-    followers: 2380
-    engagement: 3250
-    commentsToLikes: 0.028877
-    id: ck8t9kv61ogus0j78065ovzxr
-    verified: false
-    hashtags: "#negraslindas, #outfitgoals, #dicademodafeminina, #outfitsideas"
-  - username: "francielieloisa"
-    fullname: >-
-      FRANCIELI ELOISA
-    location: "Brazil"
-    followers: 22586
-    engagement: 242
-    commentsToLikes: 0.047558
-    id: ck6tjkngj2wfi0j71grbb17vk
-    verified: false
-    hashtags: "#fitnessaddict, #musasfitness, #style, #umportodosetodosporum"
-  - username: "maressaprado"
-    fullname: >-
-      💜🌻
-    location: "Brazil"
-    followers: 4003
-    engagement: 900
-    commentsToLikes: 0.110223
-    id: ck15u2xrvl5xi0i19gagcfg3b
-    verified: false
-    hashtags: "#happynewyear, #farmaceutica, #poramor, #porn"
-  - username: "urbanoflavia"
-    fullname: >-
-      Flavia Urbano 🧖🏻‍♀️
-    location: "Brazil"
-    followers: 34034
-    engagement: 85
-    commentsToLikes: 0.049579
-    id: ck137slild5zl0i194lje21or
-    verified: false
-    hashtags: "#oculosdasblogueiras, #roseallday, #lbashop, #oculosdesol"
-  - username: "blogueiravintage"
-    fullname: >-
-      Lili🌻
-    location: "Brazil"
-    followers: 12898
-    engagement: 593
-    commentsToLikes: 0.151166
-    id: ck6u1zldsotvy0j71mmbg1fr6
-    verified: false
-    hashtags: "#thankful, #selflove, #roomtoread, #blessed"
-  - username: "luciana.gabry"
-    fullname: >-
-      Makes & Skincare
-    location: "Brazil"
-    followers: 19539
-    engagement: 731
-    commentsToLikes: 0.073903
-    id: ck8t30wtd1h2n0j78xkzqb0li
-    verified: false
-    hashtags: "#luresenhasecativos, #25demarco, #dicasdemaquiagem, #dicasdecabelos"
+    hashtags: ""
   - username: "rafaellarondelli"
     fullname: >-
       Rafaella Rondelli
     location: "Brazil"
-    followers: 31346
-    engagement: 407
-    commentsToLikes: 0.065033
+    followers: 47782
+    engagement: 544
+    commentsToLikes: 0.035866
     id: ck8t2s3m90iay0j78uc2d7hbv
     verified: false
-    hashtags: "#89fm, #fiqueemcasa, #arte, #coronavirusbrazil"
-  - username: "anafariavasconcelos"
+    hashtags: "#rafazenaeuropa, #glowskin, #quarentena, #moletom"
+  - username: "fernandarosa10"
     fullname: >-
-      A N A   F A R I A ✨
+      Fernanda Rosa
     location: "Brazil"
-    followers: 45203
-    engagement: 258
-    commentsToLikes: 0.050626
-    id: ck5zo5x17pu440i14k445d072
+    followers: 21310
+    engagement: 295
+    commentsToLikes: 0.083563
+    id: ckap4wo0h97u50i78rqua995s
     verified: false
-    hashtags: "#escovinhafacial, #limpeza, #cuidadoscomapele, #custom"
-  - username: "apto_dicas"
+    hashtags: "#amese, #unhas, #esmalteavon, #quarentena"
+  - username: "nattycastelano"
     fullname: >-
-      Dicas|Michelle| Praia Grande
+      Natalia Castelano
     location: "Brazil"
-    followers: 44124
-    engagement: 195
-    commentsToLikes: 0.086913
-    id: ck6ugtp6m53xy0j713c96sftv
+    followers: 11359
+    engagement: 544
+    commentsToLikes: 0.263186
+    id: ck8t23vjqy1z70j78ldjq7h5j
     verified: false
-    hashtags: "#filhodequatropatas, #poodle, #vamosrir, #festadeaniversario"
+    hashtags: "#dailus, #diadasm, #make, #babosa"
+  - username: "carolvieli"
+    fullname: >-
+      Carolina
+    location: "Brazil"
+    followers: 5008
+    engagement: 701
+    commentsToLikes: 0.237124
+    id: ck9hbjfyoh3n80j78bevho1mo
+    verified: false
+    hashtags: "#pordosol, #prewedding, #outonoinverno, #paisagem"
+  - username: "carolinacalezani"
+    fullname: >-
+      𝓀𝒶𝓇𝓊
+    location: "Brazil"
+    followers: 18806
+    engagement: 394
+    commentsToLikes: 0.054696
+    id: ck135dlsh0x9w0i19m3wwqnru
+    verified: false
+    hashtags: "#maquiagemazul, #coloredhair, #tutorial, #sunsetmakeup"
+  - username: "emikimura_"
+    fullname: >-
+      Emillain Kimura 🇧🇷🇯🇵
+    location: "Brazil"
+    followers: 2200
+    engagement: 1771
+    commentsToLikes: 0.136793
+    id: ck9wffdh4on4h0j78ypo0kscs
+    verified: false
+    hashtags: "#makeupartist, #lovemakeup, #sakura, #nihon"
+  - username: "beatrizromano"
+    fullname: >-
+      BEATRIZ ROMANO
+    location: "Brazil"
+    followers: 52045
+    engagement: 116
+    commentsToLikes: 0.094288
+    id: ck8wgeuw0h7x50j786ma4jmgm
+    verified: false
+    hashtags: "#todosdemascara, #foxyeyes, #minibag, #quarentena"
+  - username: "furtadobianca"
+    fullname: >-
+      Lara Bianca ✨
+    location: "Brazil"
+    followers: 6495
+    engagement: 466
+    commentsToLikes: 0.090615
+    id: ck13cgjod08ba0i198zjo8rbl
+    verified: false
+    hashtags: "#efect, #conex, #hotfilter, #highthebeach"
+  - username: "arianapennacchia"
+    fullname: >-
+      Ariana Pennacchia ♡
+    location: "Brazil"
+    followers: 31036
+    engagement: 107
+    commentsToLikes: 0.065822
+    id: ck5pvzoaske300i11cd40wxf5
+    verified: false
+    hashtags: "#btrederose, #btglamlashes, #makeuptutorial, #blackeyes"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bmx Instagram Influencers In Brazil In 2020
 description: >-
-  Find top bmx Instagram influencers in Brazil in 2020. Most popular hashtags: #bmx #bmxbrasil #sp #lifestyle.
+  Find top bmx Instagram influencers in Brazil in 2020. Most popular hashtags: #lifestyle #tbt #bmx #bike.
 platform: Instagram
 profiles:
   - username: "booquiinhaa"
     fullname: >-
       Boquinha
     location: "Brazil"
-    followers: 1052776
-    engagement: 323
-    commentsToLikes: 0.074095
+    followers: 1173282
+    engagement: 378
+    commentsToLikes: 0.124398
     id: ck6u5ohefatgz0j71l23o42uu
     verified: false
-    hashtags: "#sorteios, #filhodorei"
-  - username: "dudapenso"
-    fullname: >-
-      ♡ EDUARDA PENSO BORDIGNON ♡
-    location: "Brazil"
-    followers: 12894
-    engagement: 1112
-    commentsToLikes: 0.023534
-    id: ck0w0dysmdpm40i190oo45wfq
-    verified: false
-    hashtags: "#vansgirls, #vans, #repost, #homeoffice"
+    hashtags: "#sorteios, #filhodorei, #momentooutbackemcasa"
   - username: "rezende500"
     fullname: >-
       Renato Rezende
     location: "Brazil"
-    followers: 38690
+    followers: 38591
     engagement: 733
-    commentsToLikes: 0.052681
+    commentsToLikes: 0.051024
     id: ck5pwrh2wo8cc0i11twc0jhtp
     verified: true
-    hashtags: "#eerestaurantes, #bmxemcasa, #fiqueemcasa, #bolsaatleta"
-  - username: "victorschbmx"
+    hashtags: "#nissantitan, #bmxemcasa, #fiqueemcasa, #inspira"
+  - username: "mayconduarte4pegs"
     fullname: >-
-      Victor Schmidt
+      Maycon Duarte
     location: "Brazil"
-    followers: 5299
-    engagement: 990
-    commentsToLikes: 0.060432
-    id: ck6tqmjvxs9s10j71n3wl2ax1
+    followers: 19378
+    engagement: 1385
+    commentsToLikes: 0.018337
+    id: ckaoz1anojy6y0i78iluq5zzg
     verified: false
-    hashtags: "#tbt, #santatereza, #vale, #lifestyle"
-  - username: "tickmola"
-    fullname: >-
-      Patrick Coelho
-    location: "Brazil"
-    followers: 5396
-    engagement: 611
-    commentsToLikes: 0.096826
-    id: ck601lvq5fqfd0i14ny9mpir2
-    verified: false
-    hashtags: "#rider, #lirioarma, #salvadorbahia, #chicletetrunk"
+    hashtags: "#bmxbrasil, #ourbmx, #bcn, #barcelona"
   - username: "jj_cunha__bmx_"
     fullname: >-
       Junior Cunha
     location: "Brazil"
-    followers: 4967
-    engagement: 1868
-    commentsToLikes: 0.054870
+    followers: 5120
+    engagement: 1850
+    commentsToLikes: 0.063252
     id: ck5bufv5chpbo0i11du76gwez
     verified: false
-    hashtags: "#bmx4life, #bmx, #bmxpark, #bmxlifestyle"
-  - username: "murilohenriquebmx"
+    hashtags: ""
+  - username: "jonathanschweigert"
     fullname: >-
-      Mυɾιʅσ Hҽɳɾιϙυҽ
+      Jonathan Schweigert
     location: "Brazil"
-    followers: 2790
-    engagement: 1811
-    commentsToLikes: 0.052460
-    id: ck6u9djchwxn80j7140c5eiqu
+    followers: 6428
+    engagement: 1481
+    commentsToLikes: 0.034976
+    id: ckaox01x2b5oc0i782292iawk
     verified: false
-    hashtags: "#bmx, #chillsnotskills, #chillsnotskillsbmx, #analog"
+    hashtags: "#vansbmx, #lifestyle, #trip, #overallbmx"
+  - username: "tickmola"
+    fullname: >-
+      Patrick Coelho
+    location: "Brazil"
+    followers: 5406
+    engagement: 610
+    commentsToLikes: 0.096826
+    id: ck601lvq5fqfd0i14ny9mpir2
+    verified: false
+    hashtags: "#aba, #pegruaryentry, #flatlandba, #salvadorbahia"
+  - username: "victorschbmx"
+    fullname: >-
+      Victor Schmidt
+    location: "Brazil"
+    followers: 5381
+    engagement: 918
+    commentsToLikes: 0.053168
+    id: ck6tqmjvxs9s10j71n3wl2ax1
+    verified: false
+    hashtags: "#bike, #fuckcorona, #sbc, #anhangabau"
   - username: "viniciusxavierbmx"
     fullname: >-
       Vinicius Xavier
     location: "Brazil"
-    followers: 20632
-    engagement: 718
-    commentsToLikes: 0.014483
+    followers: 24200
+    engagement: 638
+    commentsToLikes: 0.014277
     id: ck5bufuywhpaf0i114ygguimo
     verified: false
-    hashtags: "#meme, #bmx, #bmxtricks, #bmxgirl"
-  - username: "caiquebmxer"
+    hashtags: "#tbt, #aben, #obrigadodeus, #bmxgirl"
+  - username: "edimarmiranda"
     fullname: >-
-      NEW HIPPIE
+      Edimar Miranda
     location: "Brazil"
-    followers: 10805
-    engagement: 908
-    commentsToLikes: 0.038558
-    id: ck6tqmk59s9tv0j71wkfcmcit
+    followers: 2093
+    engagement: 1385
+    commentsToLikes: 0.131534
+    id: ck6u9disiwxj30j71ukrv95wm
     verified: false
-    hashtags: "#ridebmx, #2020, #somostodosums, #caiquegomescomp"
-  - username: "kakarotobmx"
+    hashtags: "#pracaroosevelt, #sbcbmx, #goodvibes, #pumptrack"
+  - username: "murilohenriquebmx"
     fullname: >-
-      Anderson Ribeiro
+      爪ㄩ尺丨ㄥㄖ   卄.
     location: "Brazil"
-    followers: 16942
-    engagement: 1116
-    commentsToLikes: 0.014913
-    id: ck0u1txc9xxdc0i191v7ucwyw
+    followers: 3160
+    engagement: 1528
+    commentsToLikes: 0.053693
+    id: ck6u9djchwxn80j7140c5eiqu
     verified: false
-    hashtags: "#bmxbrasil, #lifebehindbars, #bethemagic, #me"
+    hashtags: "#surf, #tbt, #squaaa, #bmx"
 ---

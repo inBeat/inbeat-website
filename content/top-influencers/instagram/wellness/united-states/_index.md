@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In United States In 2020
 description: >-
-  Find top wellness Instagram influencers in United States in 2020. Most popular hashtags: #ad #alomoves #stretching #quarantinelife.
+  Find top wellness Instagram influencers in United States in 2020. Most popular hashtags: #cleanbeauty #greenbeauty #mothersday #stayhome.
 platform: Instagram
 profiles:
-  - username: "_jasminvanessa"
-    fullname: >-
-      JΛSMIN ╳ VΛNESSΛ
-    location: "United States"
-    followers: 24536
-    engagement: 1903
-    commentsToLikes: 0.154995
-    id: ck55mxhoz51bd0i11q9fhs1x0
-    verified: false
-    hashtags: "#revolve, #empirestatebldg, #winenot, #lastyle"
   - username: "newtonbogue"
     fullname: >-
       Adam
     location: "United States"
-    followers: 6861
-    engagement: 1656
-    commentsToLikes: 0.193343
+    followers: 9492
+    engagement: 1654
+    commentsToLikes: 0.170403
     id: ck8sx6wa3gcto0j78hijxj1jd
     verified: false
-    hashtags: "#washyourhands, #shopsmall, #quarantinelife, #itshappyhoursomewhere"
+    hashtags: "#socialdistancing, #dogsofinstagram, #takeadip, #ppe"
+  - username: "danikafieldsforever"
+    fullname: >-
+      DANIKA FIELDS🦋creative artist
+    location: "United States"
+    followers: 18025
+    engagement: 1004
+    commentsToLikes: 0.091307
+    id: ck0w4kxujz37l0i19rgu7r93n
+    verified: false
+    hashtags: ""
   - username: "fit.full.life"
     fullname: >-
       Julie
     location: "United States"
-    followers: 7327
-    engagement: 2415
-    commentsToLikes: 0.559087
+    followers: 7589
+    engagement: 2381
+    commentsToLikes: 0.520398
     id: ck6tukukugwtw0j718rwi641a
     verified: false
-    hashtags: "#homegym, #stayhealthy, #rangeofmotion, #acaibowl"
+    hashtags: "#covi, #baree, #fitlife, #vacationmode"
   - username: "chloe__chamberlain"
     fullname: >-
       Chloe Chamberlain
     location: "United States"
-    followers: 52787
-    engagement: 900
-    commentsToLikes: 0.041540
+    followers: 55253
+    engagement: 909
+    commentsToLikes: 0.057106
     id: ck0uav00bd2xv0i19127d3k1s
     verified: false
     hashtags: "#stayhome, #flattenthecurve"
-  - username: "ashleymarietta"
+  - username: "kundaliniyoginiprasiddha"
     fullname: >-
-      M A R I E T T A  🧿
+      Prasiddha Ananda
     location: "United States"
-    followers: 15760
-    engagement: 948
-    commentsToLikes: 0.047219
-    id: ck8taku1ps6n70j785k0psopa
+    followers: 7471
+    engagement: 1262
+    commentsToLikes: 0.102476
+    id: ck9ha2pmsaw7d0j783nn2j00v
     verified: false
-    hashtags: "#curlytostraight, #ootd, #blackgirljoy, #handshake"
-  - username: "nelly_intense"
+    hashtags: "#feelbetter, #divine, #howto, #vegetarian"
+  - username: "joeyzauzig"
     fullname: >-
-      Nelly Cohen 💫 YOGA & FITNESS
+      Joey Zauzig
     location: "United States"
-    followers: 16151
-    engagement: 949
-    commentsToLikes: 0.045024
-    id: ck5hmoojimcd90i117esulft5
+    followers: 153976
+    engagement: 480
+    commentsToLikes: 0.046638
+    id: ck5c1dsy1uz3n0i11mp7y57c2
     verified: false
-    hashtags: "#yoga, #centralpark, #pelmeni, #whitebuttonmushroom"
-  - username: "britreynolds"
+    hashtags: "#avioncollab, #soonenough, #cincowithavion"
+  - username: "vanessaferraiolo"
     fullname: >-
-      Brittany Reynolds
+      Vanessa F | Philly Blogger
     location: "United States"
-    followers: 11140
-    engagement: 847
-    commentsToLikes: 0.221371
-    id: ck6udmjf7ly240j71pztmmarn
+    followers: 5232
+    engagement: 1263
+    commentsToLikes: 0.096680
+    id: ck1386x53es5v0i19usyl94zp
     verified: false
-    hashtags: "#ad, #gochiefs, #sponsored, #teambridgestone"
-  - username: "patday_allday"
+    hashtags: "#vitalinfluencer, #isleepwithcoop, #followyourgut, #vitalprotiens"
+  - username: "kansaswife"
     fullname: >-
-      Patrick Day
+      Rachel
     location: "United States"
-    followers: 14658
-    engagement: 1976
-    commentsToLikes: 0.084128
-    id: ck5zymuura5r20i14ayxb2hm9
+    followers: 6074
+    engagement: 1148
+    commentsToLikes: 0.229536
+    id: ck5zx9oyj7lw80i14q4bldg5p
     verified: false
-    hashtags: "#prettyboyjames, #thejackpot, #breastcancerawareness, #alldayeveryday"
-  - username: "itscameronhinkle"
+    hashtags: "#familyreunion, #reallife, #wearethehomemakers, #thankful"
+  - username: "_jasminvanessa"
     fullname: >-
-      Cameron Hinkle - Nashville
+      JΛSMIN ╳ VΛNESSΛ
     location: "United States"
-    followers: 15945
-    engagement: 569
-    commentsToLikes: 0.079248
-    id: ck5ckwxwlxryx0i11gmd6ti23
+    followers: 27975
+    engagement: 1779
+    commentsToLikes: 0.165785
+    id: ck55mxhoz51bd0i11q9fhs1x0
     verified: false
-    hashtags: "#forthemanwhocares, #cremo, #barbergrade, #preachintothechoir"
-  - username: "meiyin_lifestyle"
+    hashtags: "#headpeace, #pampasgrass, #fomo, #stircrazy"
+  - username: "allie_gooch"
     fullname: >-
-      Mei-Yin Lloyd 🇨🇦✈️🇺🇸
+      SIMPLY ALLIE • Youtube Mama
     location: "United States"
-    followers: 86449
-    engagement: 368
-    commentsToLikes: 0.064444
-    id: ck6u0gu5hfmai0j71y29evg24
+    followers: 37741
+    engagement: 471
+    commentsToLikes: 0.057433
+    id: ck137kqv9c1e00i19p0q6bl9d
     verified: false
-    hashtags: "#lifehacks"
+    hashtags: "#essentialoils, #oilylife, #knowyourfarmer, #spring2020"
 ---

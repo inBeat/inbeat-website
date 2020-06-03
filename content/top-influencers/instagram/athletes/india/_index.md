@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In India In 2020
 description: >-
-  Find top athletes Instagram influencers in India in 2020. Most popular hashtags: #stayhome #wearebfc #staysafe #roomformore.
+  Find top athletes Instagram influencers in India in 2020. Most popular hashtags: #happynewyear #throwback #homeworkout #beach.
 platform: Instagram
 profiles:
+  - username: "faraaz_zs"
+    fullname: >-
+      F A R A A Z   S A R A N G
+    location: "India"
+    followers: 168501
+    engagement: 1495
+    commentsToLikes: 0.027543
+    id: ck5zya3z19i6c0i14cfbovk7x
+    verified: false
+    hashtags: "#jummahmubarak, #pubgmobile, #chandmubarak, #mugshot"
   - username: "alphayash"
     fullname: >-
       Yash Sharma
     location: "India"
-    followers: 29826
-    engagement: 1422
-    commentsToLikes: 0.024825
+    followers: 34774
+    engagement: 1192
+    commentsToLikes: 0.030653
     id: ck8t0ziamtwq00j78vh1sdk7d
     verified: false
-    hashtags: ""
-  - username: "zareennikhat"
+    hashtags: "#staystrong, #togetherathome"
+  - username: "nami_rai"
     fullname: >-
-      Nikhat Zareen
+      Nami Rai
     location: "India"
-    followers: 17609
-    engagement: 1070
-    commentsToLikes: 0.026409
-    id: ck6trxnv41nvs0j716san1kld
-    verified: true
-    hashtags: "#sundayselfie, #child, #tokyodisneyland, #staysafe"
-  - username: "amazingaditi"
-    fullname: >-
-      Aditi Bumb
-    location: "India"
-    followers: 19312
-    engagement: 718
-    commentsToLikes: 0.040622
-    id: ck8t9xdhipour0j789spljk22
+    followers: 47124
+    engagement: 1348
+    commentsToLikes: 0.019172
+    id: ck8szmon0p0n00j783rtftsg6
     verified: false
-    hashtags: "#staysafe, #gratefulheart, #hourglass, #loveyourself"
-  - username: "arpinder_"
+    hashtags: "#beautiful, #picoftheday, #smile, #quarantine"
+  - username: "tina_jain27"
     fullname: >-
-      Arpinder Singh
+      TINA JAIN 👑
     location: "India"
-    followers: 28423
-    engagement: 1494
-    commentsToLikes: 0.013231
-    id: ck6tyzeh46qzv0j71bqgfu7u5
-    verified: true
-    hashtags: "#bestofthedayphoto, #indianathletes, #birthdaylove, #fitnessfreak"
-  - username: "sophiegraceholmes"
-    fullname: >-
-      Sophie Grace Holmes
-    location: "India"
-    followers: 39582
-    engagement: 188
-    commentsToLikes: 0.058208
-    id: ck6tms04a8f5k0j71gr9hqa14
-    verified: true
-    hashtags: "#fitnessisthecure, #quarentine, #reality, #dogsarethebest"
-  - username: "ashiquekuruniyan22"
-    fullname: >-
-      Ashique Kuruniyan
-    location: "India"
-    followers: 117150
-    engagement: 2050
-    commentsToLikes: 0.009820
-    id: ck6tmmwy985070j71nd5h7bhp
-    verified: true
-    hashtags: "#footballlovers, #stayathome, #bfcfamily, #play"
-  - username: "nishu_kumar22"
-    fullname: >-
-      Nishu Kumar
-    location: "India"
-    followers: 22108
-    engagement: 913
-    commentsToLikes: 0.014087
-    id: ck5qc7k5mp8ec0i11xajw3z4k
-    verified: true
-    hashtags: "#omnamahshivaya, #roomformore, #journeystartshere, #indianfootball"
+    followers: 5128
+    engagement: 2174
+    commentsToLikes: 0.033669
+    id: ck8t7e3fhggsy0j78anny9ayr
+    verified: false
+    hashtags: "#fightcorona, #bekind, #shirtstyle, #mentalhealth"
   - username: "abhishekh_singh07"
     fullname: >-
       Abhishek Singh
     location: "India"
-    followers: 6217
-    engagement: 2151
-    commentsToLikes: 0.020675
+    followers: 6666
+    engagement: 1642
+    commentsToLikes: 0.023070
     id: ck0w37etqryil0i19098p3kv9
     verified: false
-    hashtags: "#happynewyear, #bikelove, #freetime, #familyphotography"
-  - username: "m.a.y_45.21"
-    fullname: >-
-      Muhammed Anas Yahiya
-    location: "India"
-    followers: 13049
-    engagement: 2639
-    commentsToLikes: 0.013705
-    id: ck0w6gxz08icf0i19c3x8l8ku
-    verified: false
-    hashtags: "#gosportsvoices, #indianathletics, #fitindiamovement, #thisdaylastyear"
+    hashtags: "#homeworkout, #qurantinedays, #throwback, #hobby"
   - username: "neeraj____chopra"
     fullname: >-
       Neeraj Chopra
     location: "India"
-    followers: 62976
-    engagement: 1834
-    commentsToLikes: 0.011069
+    followers: 64289
+    engagement: 1738
+    commentsToLikes: 0.011127
     id: ck6tyzc9z6qla0j71nvjss368
     verified: true
-    hashtags: "#believer, #merrychristmas, #happydiwali, #throwback"
+    hashtags: "#proudlyindian, #amstrad, #believer, #oldmemories"
+  - username: "shabeer_dbz"
+    fullname: >-
+      shabeer_dbz
+    location: "India"
+    followers: 17167
+    engagement: 1299
+    commentsToLikes: 0.017098
+    id: ck55joobyxg4k0i113lqge2re
+    verified: false
+    hashtags: "#bajajdominar400, #stuntlife, #stuntrider, #deadlyriderz"
+  - username: "m.a.y_45.21"
+    fullname: >-
+      Muhammed Anas Yahiya
+    location: "India"
+    followers: 13148
+    engagement: 2624
+    commentsToLikes: 0.013732
+    id: ck0w6gxz08icf0i19c3x8l8ku
+    verified: false
+    hashtags: "#dedication, #nationalrecord, #jakarta, #meraki"
+  - username: "arpinder_"
+    fullname: >-
+      Arpinder Singh
+    location: "India"
+    followers: 28889
+    engagement: 1515
+    commentsToLikes: 0.013079
+    id: ck6tyzeh46qzv0j71bqgfu7u5
+    verified: true
+    hashtags: "#healthylife, #funtime, #coronatime, #lifeofathlete"
+  - username: "siddhantraisikand"
+    fullname: >-
+      Siddhant Rai Sikand | 🎥YouTube
+    location: "India"
+    followers: 8815
+    engagement: 1196
+    commentsToLikes: 0.031812
+    id: ck602my8vi2fq0i14qnn19kkn
+    verified: false
+    hashtags: "#sidfit, #happynewyear, #sleigh, #perspective"
 ---

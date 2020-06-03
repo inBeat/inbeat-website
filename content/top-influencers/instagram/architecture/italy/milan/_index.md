@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Milan In 2020
 description: >-
-  Find top architecture Instagram influencers in Milan in 2020. Most popular hashtags: #milano #igersitalia #milan #architecture.
+  Find top architecture Instagram influencers in Milan in 2020. Most popular hashtags: #milano #architecture #milan #arte.
 platform: Instagram
 profiles:
-  - username: "filippofiora"
+  - username: "_lagiuditta"
     fullname: >-
-      Filippo Fiora
+      Roberta Mazzone
     location: "Italy"
-    followers: 161056
-    engagement: 152
-    commentsToLikes: 0.014893
-    id: ck5c4mhg51nhk0i11y2brmhsx
-    verified: true
-    hashtags: "#camouflagechallenge, #domp, #home, #iosonomilano"
+    followers: 79937
+    engagement: 153
+    commentsToLikes: 0.071067
+    id: ck0vvaxkdobqm0i19ziuj7crf
+    verified: false
+    hashtags: "#phoneclone, #sdrammatizziamo, #huaweinextimage, #sezanelovers"
   - username: "carlo_stanga"
     fullname: >-
       Carlo Stanga Illustrator
     location: "Italy"
-    followers: 45145
-    engagement: 357
-    commentsToLikes: 0.029335
+    followers: 51567
+    engagement: 352
+    commentsToLikes: 0.027078
     id: ck0uba49be6y00i19e6pswk9y
     verified: false
-    hashtags: "#delivery, #quarantena, #happynewyear, #cityillustrations"
-  - username: "daydreamer_vibes"
+    hashtags: "#studio, #atelier, #mappa, #roughsketch"
+  - username: "sergiosierra67"
     fullname: >-
-      Chiara Bodini
+      TAXI MILAN TRAVELER🇮🇹🇬🇧🇪🇸🇵🇹🇫🇷
     location: "Italy"
-    followers: 16936
-    engagement: 257
-    commentsToLikes: 0.096817
-    id: ck5q9ra3tckwb0i115g9qjjos
+    followers: 27751
+    engagement: 209
+    commentsToLikes: 0.031767
+    id: ckap5tif5d3nd0i784n85s4xb
     verified: false
-    hashtags: "#vinbrul, #igersverona, #shoes, #loveisindetails"
-  - username: "marcoliuc"
+    hashtags: "#photooftheday, #generali, #toyotachr2020, #pandemie"
+  - username: "lucabravo"
     fullname: >-
-      MARCO LUCIGNANO
+      Luca Bravo
     location: "Italy"
-    followers: 18015
-    engagement: 487
-    commentsToLikes: 0.058598
-    id: ck5q06bq74gs50i11mvcvihpd
+    followers: 5567
+    engagement: 554
+    commentsToLikes: 0.019227
+    id: ck5cfhjfjmysv0i119bao9l4a
     verified: false
-    hashtags: "#igersnapoli, #italy, #milanotoday, #igersitalia"
-  - username: "ilsiciliano_"
+    hashtags: "#ishootfilm, #negativefb, #applestore, #leicam"
+  - username: "arianna_boehm"
     fullname: >-
-      Vito ™
+      Arianna Boehm ✈️🌍
     location: "Italy"
-    followers: 23476
-    engagement: 258
-    commentsToLikes: 0.187985
-    id: ck5zntayhp43y0i14ag33hbjk
+    followers: 9431
+    engagement: 1036
+    commentsToLikes: 0.096346
+    id: ck6ueki6qrglu0j71jlxx3mq5
     verified: false
-    hashtags: "#volgomilano, #master, #borghipiubelli, #siciliaphotos"
+    hashtags: "#peace, #volgoitalia, #travelling, #capodanno"
+  - username: "polimi"
+    fullname: >-
+      Politecnico di Milano
+    location: "Italy"
+    followers: 55920
+    engagement: 565
+    commentsToLikes: 0.005403
+    id: ck0tuvy0o8wxo0i1986dct00o
+    verified: false
+    hashtags: "#violenceagainstwomen, #campus, #laureepolimi, #weekend"
   - username: "jimmy.spagnesi"
     fullname: >-
       Gianmarco Spagnesi
     location: "Italy"
-    followers: 7587
-    engagement: 689
-    commentsToLikes: 0.008197
+    followers: 7578
+    engagement: 704
+    commentsToLikes: 0.008231
     id: ck6u5x1jcc8ws0j71xre41ie1
     verified: false
-    hashtags: "#choco, #neverstopexploring, #record, #workout"
-  - username: "milanstagramcom"
+    hashtags: "#wave, #foodporn, #design, #view"
+  - username: "matteothun"
     fullname: >-
-      Massimiliano Donghi
+      Matteo Thun Milano
     location: "Italy"
-    followers: 22928
-    engagement: 589
-    commentsToLikes: 0.028470
-    id: ck0vv45c1ngm80i195vkiwio0
+    followers: 28708
+    engagement: 96
+    commentsToLikes: 0.015728
+    id: ck6u11g6lizr10j715pj556us
     verified: false
-    hashtags: "#tigullio, #citylife, #maaprolarchiviofoto, #bibliotecadeglialberi"
-  - username: "luucapaagani"
+    hashtags: "#corneliapoletto, #kitchendecor, #hoteldesign, #igersardegna"
+  - username: "briblu12"
     fullname: >-
-      Luca Pagani
+      Cristina
     location: "Italy"
-    followers: 20426
-    engagement: 752
-    commentsToLikes: 0.003269
-    id: ck5zpzesdtn2n0i14xvqii15i
+    followers: 17724
+    engagement: 487
+    commentsToLikes: 0.016983
+    id: ck8t5jjwjabn10j782025a6k5
     verified: false
-    hashtags: "#gclub, #piazzadeisignori, #mariobiondi, #christmastime"
-  - username: "ranhelwa"
+    hashtags: "#volgopuglia, #parcodelbeigua, #buildings, #blucerchiati"
+  - username: "rossellaiacolare"
     fullname: >-
-      FASHION┇BEAUTY┇DAILY LIFE
+      𝓡𝓸𝓼𝓼𝓮𝓵𝓵𝓪 | ᴛʀᴀᴠᴇʟ ᴅɪᴀʀᴇꜱ
     location: "Italy"
-    followers: 28966
-    engagement: 126
-    commentsToLikes: 0.031571
-    id: ck0vwu37mvlsw0i19ri3534wp
+    followers: 6385
+    engagement: 520
+    commentsToLikes: 0.052288
+    id: ck5qbdt6el41x0i11uldi6u8k
     verified: false
-    hashtags: "#quarantine, #igersitalia, #iorestoacasa, #architecture"
-  - username: "gitan.amb"
-    fullname: >-
-      Ambra G.
-    location: "Italy"
-    followers: 5334
-    engagement: 1286
-    commentsToLikes: 0.028415
-    id: ck8t16o25ulus0j78hn3ni5mx
-    verified: false
-    hashtags: "#andalusia, #gitana, #bluepearl, #mamaafrica"
+    hashtags: "#brasilian, #messika, #pointofview, #portrait"
 ---

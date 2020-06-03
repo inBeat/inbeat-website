@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In France In 2020
 description: >-
-  Find top yoga Instagram influencers in France in 2020. Most popular hashtags: #yoga #confinement #yogapractice #yogagirl.
+  Find top yoga Instagram influencers in France in 2020. Most popular hashtags: #yoga #yogaflow #life #yogajournal.
 platform: Instagram
 profiles:
-  - username: "val_1152"
+  - username: "angeliquecarteryoga"
     fullname: >-
-      Valérie _ Fitness & Féminité
+      Angélique ☮️
     location: "France"
-    followers: 7465
-    engagement: 984
-    commentsToLikes: 0.124611
+    followers: 6375
+    engagement: 622
+    commentsToLikes: 0.054861
+    id: ck5q069nr4gew0i11a8xsb11q
+    verified: false
+    hashtags: "#chakra, #power, #handstand, #fear"
+  - username: "camicottani"
+    fullname: >-
+      🌔 Cami | yoga tutorials
+    location: "France"
+    followers: 7378
+    engagement: 1481
+    commentsToLikes: 0.124986
+    id: ck5cglknvp36h0i11igvhyy2u
+    verified: false
+    hashtags: "#yogaismytherapy, #yogatime, #yogastretches, #frenchyogi"
+  - username: "carolintuitive"
+    fullname: >-
+      Caroline ❃ Intuitive yoga
+    location: "France"
+    followers: 7424
+    engagement: 1182
+    commentsToLikes: 0.276764
+    id: ckaoqwslbkrhp0i78scweq6uz
+    verified: false
+    hashtags: "#vinyasayoga, #yogalife, #warrioryoga, #creativeyoga"
+  - username: "iamcarlamattei"
+    fullname: >-
+      Carla Mattei✨🕊🌙
+    location: "France"
+    followers: 8407
+    engagement: 1424
+    commentsToLikes: 0.053041
+    id: ckaotjjymw6yj0i782ey5g3d4
+    verified: false
+    hashtags: "#emotions, #life, #sunday, #corsica"
+  - username: "val_fitmood"
+    fullname: >-
+      Valérie
+    location: "France"
+    followers: 11225
+    engagement: 1042
+    commentsToLikes: 0.098430
     id: ck8t60cnbbt3t0j78ng1qwgmk
     verified: false
-    hashtags: "#teamsosobodyshape, #music, #fitmum, #after40"
+    hashtags: ""
   - username: "kinzingertonya"
     fullname: >-
       Tonya KINZINGER
     location: "France"
-    followers: 43529
-    engagement: 314
-    commentsToLikes: 0.053289
+    followers: 44605
+    engagement: 342
+    commentsToLikes: 0.059002
     id: ck5c7o0l47vuq0i11l539xjdv
     verified: true
-    hashtags: "#team, #beautiful, #grateful, #instamoment"
-  - username: "anais_gues"
+    hashtags: "#cold, #thinking, #family, #lost"
+  - username: "syn_m0"
     fullname: >-
-      Ana IS
+      SyN_m0   || YOGA ||
     location: "France"
-    followers: 6127
-    engagement: 1365
-    commentsToLikes: 0.030178
-    id: ck0u040a7sh7o0i19qa8z4q44
+    followers: 4355
+    engagement: 1330
+    commentsToLikes: 0.153420
+    id: ck9hc2ftnjghi0j78n83ul4gq
     verified: false
-    hashtags: "#yogalove, #healthy, #health, #yogaeverydamnday"
+    hashtags: "#yogavideos, #ashtanginiyoga, #yogalotus, #yogaphotography"
   - username: "tatianayoga"
     fullname: >-
       Tatiana AvilaBouru✨YogaTeacher
     location: "France"
-    followers: 38676
-    engagement: 528
-    commentsToLikes: 0.071408
+    followers: 47832
+    engagement: 595
+    commentsToLikes: 0.066004
     id: ck5pwzmcvpdox0i112sp3m0ue
     verified: false
-    hashtags: "#loveyourself, #presspause, #standingsplit, #handstand"
-  - username: "calimoralesm6"
-    fullname: >-
-      Cali Morales
-    location: "France"
-    followers: 10703
-    engagement: 1009
-    commentsToLikes: 0.076574
-    id: ck0u1ha1pwvl70i190lyon6uc
-    verified: false
-    hashtags: "#photo, #smile, #weathergirl, #coronavirus"
-  - username: "levsky.ink"
-    fullname: >-
-      Lesvky Ink Yoga / Spm Ta Mere
-    location: "France"
-    followers: 26897
-    engagement: 559
-    commentsToLikes: 0.066471
-    id: ck138t6ryhw2h0i196iqlcjc1
-    verified: false
-    hashtags: "#imdreamingof, #jesuisunevictime, #hmxme, #biodehautenbas"
-  - username: "girlinthelens"
-    fullname: >-
-      Natasha
-    location: "France"
-    followers: 22622
-    engagement: 415
-    commentsToLikes: 0.045193
-    id: ck6tvsev1o0ez0j71w0pm5q6b
-    verified: false
-    hashtags: "#internationalwomensday, #3698, #disabledpeoplearehot, #girlsofstormandshadow"
+    hashtags: "#thankyou, #puppy, #yogawithpuppy, #newproject"
   - username: "santamila_"
     fullname: >-
       SantaMila
     location: "France"
-    followers: 16215
-    engagement: 284
-    commentsToLikes: 0.064499
+    followers: 16589
+    engagement: 339
+    commentsToLikes: 0.067635
     id: ck5byntbfpi6u0i11a5ckzaxh
     verified: false
-    hashtags: "#yogalife, #coachingpriv, #gigaro, #mondaymood"
-  - username: "alisoncossenet"
+    hashtags: "#mangersainement, #tricotherapie, #phildar, #yogaalamaison"
+  - username: "calimoralesm6"
     fullname: >-
-      Alison Cossenet
+      Cali Morales
     location: "France"
-    followers: 26524
-    engagement: 441
-    commentsToLikes: 0.031512
-    id: ck5cex0aflvri0i11kop262aj
+    followers: 10858
+    engagement: 973
+    commentsToLikes: 0.076115
+    id: ck0u1ha1pwvl70i190lyon6uc
     verified: false
-    hashtags: "#chris, #aurelie, #dodo, #amaplace"
-  - username: "asnajda"
-    fullname: >-
-      Anne-Sophie
-    location: "France"
-    followers: 23664
-    engagement: 388
-    commentsToLikes: 0.038444
-    id: ck6u9f2mnx71n0j712ogxi7ht
-    verified: false
-    hashtags: "#homesweethome, #practiseandalliscoming, #travellingkids, #urdhvamukhasvanasana"
+    hashtags: "#tvhostess, #bienvenue, #instamoment, #8mars"
 ---

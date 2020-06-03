@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Colombia In 2020
 description: >-
-  Find top fitness Instagram influencers in Colombia in 2020. Most popular hashtags: #fitnessmotivation #fitness #lifestyle #colombia.
+  Find top fitness Instagram influencers in Colombia in 2020. Most popular hashtags: #tbt #sunday #quedateencasa #saturday.
 platform: Instagram
 profiles:
-  - username: "fitnessbyjanice"
+  - username: "steffyofficial"
     fullname: >-
-      Janice Betancourt
+      Steffy Moreno
     location: "Colombia"
-    followers: 89286
-    engagement: 615
-    commentsToLikes: 0.048905
-    id: ck6tvbpwelbdg0j71dzv7ptjr
+    followers: 374862
+    engagement: 398
+    commentsToLikes: 0.027847
+    id: ck6udohjom9rk0j71tlc3a4qe
     verified: false
-    hashtags: "#swipeup, #timetorelax, #fitnesslifestyle, #celsiuslivefit"
-  - username: "dr.tonni"
+    hashtags: "#tbt, #practicesocialdistancing, #practicadistanciamientosocial"
+  - username: "anacespedesc"
     fullname: >-
-      GORDO PERO CHIMBA MI AMOR
+      ANA C.
     location: "Colombia"
-    followers: 251028
-    engagement: 537
-    commentsToLikes: 0.024576
-    id: ck8wg6z05gu3j0j78mcrw9qau
+    followers: 352905
+    engagement: 429
+    commentsToLikes: 0.022083
+    id: ck8sz2flhmx4e0j78jyq6uyfm
     verified: false
-    hashtags: "#comedia, #fyp, #blondehair, #fryp"
-  - username: "delgado_af"
+    hashtags: "#tbt, #nofilters"
+  - username: "dulcejimnz"
     fullname: >-
-      𝐹𝑒𝑙𝑖𝑝𝑒 𝐷𝑒𝑙𝑔𝑎𝑑𝑜
+      Dulce Jimenez
     location: "Colombia"
-    followers: 55922
-    engagement: 159
-    commentsToLikes: 0.084233
-    id: ck5bt8lz3fj3g0i11a5v4cdua
+    followers: 72822
+    engagement: 189
+    commentsToLikes: 0.066059
+    id: ck5zzooehc4x70i14ve7vn008
     verified: false
-    hashtags: "#photography, #nye2020, #newyear, #polaroid"
-  - username: "kevinherreramx"
-    fullname: >-
-      Kevin Herrera
-    location: "Colombia"
-    followers: 32872
-    engagement: 624
-    commentsToLikes: 0.051008
-    id: ck0vwy7mew6fb0i19uj97e22a
-    verified: false
-    hashtags: "#lights, #fitness, #latinos, #poloralphlauren"
-  - username: "javihanaazul"
-    fullname: >-
-      Javihana Azul
-    location: "Colombia"
-    followers: 119510
-    engagement: 170
-    commentsToLikes: 0.033847
-    id: ck5qbgmcnliuz0i11dl3yd8c7
-    verified: false
-    hashtags: "#bodybuilding, #video, #team, #woman"
-  - username: "andreatorres_2"
-    fullname: >-
-      Andrea Torres
-    location: "Colombia"
-    followers: 79687
-    engagement: 410
-    commentsToLikes: 0.015580
-    id: ck5c101b9u6j90i11o7xitl6b
-    verified: false
-    hashtags: "#trabajoenequipo, #experienciasunicas, #loveyourself, #gymgirl"
-  - username: "miredyrivera"
-    fullname: >-
-      
-    location: "Colombia"
-    followers: 75509
-    engagement: 1392
-    commentsToLikes: 0.013398
-    id: ck5hphpnfrdpy0i11jvmo5j7j
-    verified: false
-    hashtags: "#teamsirena, #teamsandunguera, #lamanada, #funday"
+    hashtags: "#quarantine, #passthebrush, #glam, #mothersday"
   - username: "dahiabetancur"
     fullname: >-
       DaHiAnA BeTaNcUr  🌸 👀
     location: "Colombia"
-    followers: 20410
-    engagement: 313
-    commentsToLikes: 0.129269
+    followers: 21358
+    engagement: 281
+    commentsToLikes: 0.114714
     id: ck5zpekqcsj620i14rtne7liv
     verified: false
-    hashtags: "#bodyfitness, #marzograms, #goodvibes, #fitnessmodels"
-  - username: "locombia"
+    hashtags: "#cuerpower, #trensuperior, #abrilview, #positivelife"
+  - username: "didi_huf"
     fullname: >-
-      Locombia
+      Didi
     location: "Colombia"
-    followers: 23257
-    engagement: 307
-    commentsToLikes: 0.183419
-    id: ck5zw15bi5a3m0i148n3du114
+    followers: 347322
+    engagement: 443
+    commentsToLikes: 0.018541
+    id: ck6udotl8mbp20j71xgsj6rg9
     verified: false
-    hashtags: "#eachforequal, #organic, #sheadventures, #beautifuldestinations"
-  - username: "alejaslmella"
+    hashtags: "#fitnessmotivation, #cuarentena, #athome"
+  - username: "paulaellisfit"
     fullname: >-
-      Alejandra
+      PAULA ELLIS
     location: "Colombia"
-    followers: 161813
-    engagement: 307
-    commentsToLikes: 0.011654
-    id: ck0w3n4ruu9990i19q1ht76um
+    followers: 33537
+    engagement: 347
+    commentsToLikes: 0.073325
+    id: ck5hcfoq0hu560i11nl5nt23b
     verified: false
-    hashtags: "#kitetrip, #mipartner, #bellamargarita, #underarmour"
+    hashtags: "#diet, #happybirthday, #family, #legday"
+  - username: "andreatorres_2"
+    fullname: >-
+      Andrea Torres
+    location: "Colombia"
+    followers: 154667
+    engagement: 472
+    commentsToLikes: 0.016343
+    id: ck5c101b9u6j90i11o7xitl6b
+    verified: false
+    hashtags: "#girlspower, #gymmode, #gymlife, #godisgood"
+  - username: "vaneperegrina"
+    fullname: >-
+      Vanessa Nieto - Escritora
+    location: "Colombia"
+    followers: 20482
+    engagement: 332
+    commentsToLikes: 0.056724
+    id: ckapa0su0u9jf0i78hrsu5scq
+    verified: false
+    hashtags: "#denimjacket, #felizlunes, #mujereslatinas, #portaretrato"
+  - username: "carlosgrandedelg"
+    fullname: >-
+      Carlos Grande del Gallego
+    location: "Colombia"
+    followers: 366471
+    engagement: 225
+    commentsToLikes: 0.024551
+    id: ck8sxh9sqhe260j786hifyr2t
+    verified: false
+    hashtags: "#calvinklein, #live, #elfinaldelparaiso, #islamoradasopo"
+  - username: "mayitarojasb"
+    fullname: >-
+      Nini Mayerly
+    location: "Colombia"
+    followers: 17634
+    engagement: 500
+    commentsToLikes: 0.026603
+    id: ck8sx53l0g6xh0j78mu15ib2a
+    verified: false
+    hashtags: "#tunja, #mecuidoytecuido, #throwbackpic, #medellin"
 ---

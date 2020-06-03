@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Medellín In 2020
 description: >-
-  Find top beauty Instagram influencers in Medellín in 2020. Most popular hashtags: #beauty #colombia #medellin #makeup.
+  Find top beauty Instagram influencers in Medellín in 2020. Most popular hashtags: #beauty #friday #home #maquillaje.
 platform: Instagram
 profiles:
   - username: "chdermatologia"
     fullname: >-
       CLAUDIA HERNÁNDEZ
     location: "Colombia"
-    followers: 71707
-    engagement: 163
-    commentsToLikes: 0.023860
+    followers: 74191
+    engagement: 223
+    commentsToLikes: 0.017538
     id: ck0w71ryubc2d0i19xvjyd5io
     verified: false
-    hashtags: "#makeup, #retinoids, #coronavirus, #coronavirusalert"
-  - username: "vanessadonatoo"
+    hashtags: "#acnetreatment, #usesunscreen, #pesas, #liderazgo"
+  - username: "carogallegoca"
     fullname: >-
-      Vanessa Donato
+      Caro Gallego Ca.
     location: "Colombia"
-    followers: 4297
-    engagement: 1285
-    commentsToLikes: 0.076882
-    id: ck5bwxdflmlf90i11xhqnxoqr
+    followers: 31702
+    engagement: 263
+    commentsToLikes: 0.021529
+    id: ck5qaczd5fr190i11fj3cjksh
     verified: false
-    hashtags: "#portrait, #inspirarion, #woman, #livenza"
-  - username: "camiavellam"
-    fullname: >-
-      Camila Avella M 🦀
-    location: "Colombia"
-    followers: 354815
-    engagement: 220
-    commentsToLikes: 0.009240
-    id: ck5c0pucztm3s0i11gxfqsu1r
-    verified: true
-    hashtags: "#mondayvibes, #quarantine, #desafiosuperhumanos2018, #medellin"
-  - username: "jesusbarrios12"
-    fullname: >-
-      Jesús Barrios
-    location: "Colombia"
-    followers: 12916
-    engagement: 385
-    commentsToLikes: 0.035171
-    id: ck5zvrfhz4sbg0i14zg3iflq8
-    verified: false
-    hashtags: "#maratonista, #mihadamadrina, #fotografia, #dise"
-  - username: "axloz"
-    fullname: >-
-      Andres López
-    location: "Colombia"
-    followers: 295359
-    engagement: 358
-    commentsToLikes: 0.014560
-    id: ck5c5l7dv3on90i116368wzs8
-    verified: false
-    hashtags: "#hauslabs, #gayboy, #stayhome, #covid"
+    hashtags: ""
   - username: "hernanboterostudio"
     fullname: >-
       Hernán Botero
     location: "Colombia"
-    followers: 103270
-    engagement: 127
-    commentsToLikes: 0.016039
+    followers: 105226
+    engagement: 152
+    commentsToLikes: 0.009780
     id: ck5hgzj7y5m5g0i11a8ilenlg
     verified: false
-    hashtags: "#boudoir, #bodypositive, #women, #bedroom"
-  - username: "iamsebasquintero"
-    fullname: >-
-      Sebas Quintero 🇨🇴
-    location: "Colombia"
-    followers: 33678
-    engagement: 134
-    commentsToLikes: 0.011482
-    id: ck5ceserplmbt0i114va3kt1a
-    verified: false
-    hashtags: "#jewerly, #colombia, #gold, #madeinmedellin"
+    hashtags: "#frindge, #feetfetisworld, #nophotoshop, #glamour"
   - username: "ilmio_of"
     fullname: >-
       𝐀𝐍𝐀 𝐌𝐀𝐑𝐈𝐀 𝐁𝐎𝐍𝐈𝐋𝐋𝐀
     location: "Colombia"
-    followers: 43222
-    engagement: 362
-    commentsToLikes: 0.059355
+    followers: 43722
+    engagement: 359
+    commentsToLikes: 0.060896
     id: ck6ub58fr7jg10j71j2v6lxuh
     verified: false
-    hashtags: "#throwbackthursday, #blackhair, #december, #mybody"
-  - username: "manumontoz"
+    hashtags: "#tattoedgirls, #dance, #babydoll, #home"
+  - username: "raulmejia320"
     fullname: >-
-      MANU MONTOYA🦋
+      Raul Mejia
     location: "Colombia"
-    followers: 436880
-    engagement: 185
-    commentsToLikes: 0.029507
-    id: ck5zutgbp30cx0i14hmrkznmq
+    followers: 18108
+    engagement: 216
+    commentsToLikes: 0.337615
+    id: ck8sxh8y2hdyv0j787web52ew
     verified: false
-    hashtags: "#abh, #instagirls, #makeupmoodboards, #lipicing"
-  - username: "fersfantasy"
+    hashtags: "#beauty, #angel, #glory, #selfie"
+  - username: "johanaosornor"
     fullname: >-
-      fer 👑 Makeup Artist
+      Johana Osorno Ruiz
     location: "Colombia"
-    followers: 23606
-    engagement: 771
-    commentsToLikes: 0.047951
-    id: ck5cg6053o80l0i11ibyowhd6
+    followers: 63186
+    engagement: 132
+    commentsToLikes: 0.025666
+    id: ck55ono068qgd0i11hw4iorpz
     verified: false
-    hashtags: "#dragcolombia, #makeupcolombia, #beauty, #cejasbenefit"
+    hashtags: "#lovers, #style, #pijama, #johana"
+  - username: "toasmakeup"
+    fullname: >-
+      Angie Alvarado
+    location: "Colombia"
+    followers: 31661
+    engagement: 252
+    commentsToLikes: 0.039070
+    id: ck13a557doomn0i19nzl4fozm
+    verified: false
+    hashtags: "#maquillaje, #sunvibes, #colombia, #selflove"
+  - username: "shakiraeb"
+    fullname: >-
+      Shakira Colombia
+    location: "Colombia"
+    followers: 345284
+    engagement: 96
+    commentsToLikes: 0.013258
+    id: ck8t8veualzfg0j78qawzxejh
+    verified: false
+    hashtags: "#gold, #suegros, #hermosa, #happydaymom"
+  - username: "camilabedoyac1"
+    fullname: >-
+      Camila Bedoya
+    location: "Colombia"
+    followers: 64009
+    engagement: 203
+    commentsToLikes: 0.054516
+    id: ck5zkdz4rjb0a0i14hc690twm
+    verified: false
+    hashtags: "#pereira, #fashion, #beauty, #estetica"
+  - username: "alejo_arse"
+    fullname: >-
+      Alejandro Ramirez 케빈
+    location: "Colombia"
+    followers: 5882
+    engagement: 794
+    commentsToLikes: 0.010973
+    id: ck15u0bc2kskd0i19j38kqe3o
+    verified: false
+    hashtags: "#chevy, #gymlife, #landscape, #iloveyou"
 ---

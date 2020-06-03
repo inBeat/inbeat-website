@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Miami In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Miami in 2020. Most popular hashtags: #miami #lifestyle #miamibeach #fashion.
+  Find top lifestyle Instagram influencers in Miami in 2020. Most popular hashtags: #lifestylemiami #lifestyle #love #happy.
 platform: Instagram
 profiles:
   - username: "jfpazphoto"
     fullname: >-
       Miami PhotographerJuan F Paz 📸
     location: "United States"
-    followers: 20450
-    engagement: 242
-    commentsToLikes: 0.235320
+    followers: 20114
+    engagement: 231
+    commentsToLikes: 0.251712
     id: ck5cf0wn6m3sa0i11zeu3elco
     verified: false
-    hashtags: "#beach, #fashionmoda, #photoartwork, #studioportrait"
-  - username: "joselynnn_v"
+    hashtags: "#miamifashionweek, #filmakers, #professionalheadshots, #igmodel"
+  - username: "gogetta80"
     fullname: >-
-      Joselyn Vallejo
+      Omar Thompson - South Beach
     location: "United States"
-    followers: 80570
-    engagement: 410
-    commentsToLikes: 0.024211
-    id: ck5hkg1uuicus0i11g8w4hhfj
+    followers: 32153
+    engagement: 125
+    commentsToLikes: 0.099834
+    id: ck15u9sb0m4ge0i199t018dle
     verified: false
-    hashtags: "#power, #hiptrust, #girlswholift, #beachlife"
-  - username: "danilabory"
-    fullname: >-
-      Fashion • Lifestyle • Beauty
-    location: "United States"
-    followers: 25289
-    engagement: 399
-    commentsToLikes: 0.149506
-    id: ck55o5l197o7k0i112p0u34hd
-    verified: false
-    hashtags: "#redsandals, #cleanbeautyblogger, #danitip, #springfashion"
+    hashtags: "#wraith, #yachtsofinstagram, #manhattan, #stayhome"
   - username: "simply.jash"
     fullname: >-
       J A S H
     location: "United States"
-    followers: 5959
-    engagement: 720
-    commentsToLikes: 0.738154
+    followers: 5889
+    engagement: 800
+    commentsToLikes: 0.713166
     id: ck5zvm85g4hyr0i14e61xqpa4
     verified: false
-    hashtags: "#silverheels, #hairtreatments, #greendress, #fashionfacts"
-  - username: "lis.wonder"
-    fullname: >-
-      Lis Wonder
-    location: "United States"
-    followers: 73106
-    engagement: 606
-    commentsToLikes: 0.020750
-    id: ck0tzfpneq81s0i19ldpaclld
-    verified: false
-    hashtags: "#dress, #batmanvsuperman, #monochrome, #dcuniverse"
-  - username: "pauytc"
-    fullname: >-
-      PAUI TEROL 🌸
-    location: "United States"
-    followers: 2497
-    engagement: 2552
-    commentsToLikes: 0.044343
-    id: ck8t0gzvns13x0j78sz0w8iwl
-    verified: false
-    hashtags: "#siswimsuit, #model, #miamistyle, #portrait"
-  - username: "sierrakuhn11"
-    fullname: >-
-      Sierra Kuhn
-    location: "United States"
-    followers: 54945
-    engagement: 336
-    commentsToLikes: 0.030730
-    id: ck5q0zfa68ig80i11ty7aci44
-    verified: false
-    hashtags: "#wethair, #loveyourself, #bodyempowerment, #healthandfitness"
+    hashtags: "#brunchoutfit, #springlook, #blackoutfit, #hairtreatments"
   - username: "rivera_fotografi"
     fullname: >-
       Jonathan Rivera
     location: "United States"
-    followers: 17305
-    engagement: 816
-    commentsToLikes: 0.052659
+    followers: 17160
+    engagement: 773
+    commentsToLikes: 0.055870
     id: ck0tzno31r1wt0i19hly8003d
     verified: false
-    hashtags: "#photographermiami, #empirestatebuilding, #vibes, #a7riv"
-  - username: "antonykeane"
+    hashtags: "#pier, #tamron, #nycliving, #jetty"
+  - username: "theeishh"
     fullname: >-
-      Antony Keane
+      
     location: "United States"
-    followers: 2524
-    engagement: 1767
-    commentsToLikes: 0.109645
-    id: ck5hl86ikjqz50i11tl373j4n
+    followers: 3838
+    engagement: 1467
+    commentsToLikes: 0.028332
+    id: ck8t1uid7x2vp0j780iltfm0g
     verified: false
-    hashtags: "#mcarthurcauseway, #brickell, #miamidrone, #mavic2"
-  - username: "hieeangel"
+    hashtags: "#glutes, #roguefitness, #orlandofit, #traveling"
+  - username: "kristinasanta"
     fullname: >-
-      𝐀𝐧𝐠𝐞𝐥 𝐇𝐞𝐫𝐫𝐞𝐫𝐚
+      Kristina Santa
     location: "United States"
-    followers: 11210
-    engagement: 492
-    commentsToLikes: 0.033272
-    id: ck5hnx3l0oji60i112e3jgx14
+    followers: 17949
+    engagement: 590
+    commentsToLikes: 0.109033
+    id: ck9wgec38t1sv0j78y09ayq5t
     verified: false
-    hashtags: "#beachlover, #puppiesforsale, #potd, #sun"
+    hashtags: "#trump, #sunshine, #tigerking, #weather"
+  - username: "mr.eats305"
+    fullname: >-
+      George Arango | MIAMI FOOD🍴
+    location: "United States"
+    followers: 74355
+    engagement: 143
+    commentsToLikes: 0.186851
+    id: ck0txc4agiopo0i19oofqzvbr
+    verified: false
+    hashtags: "#macchialina, #elbagel, #hillstoneathome, #foodiechats"
+  - username: "chrissy.koulouris"
+    fullname: >-
+      Chrissy K | Travel & Lifestyle
+    location: "United States"
+    followers: 4969
+    engagement: 1210
+    commentsToLikes: 0.155749
+    id: ck9h9uduf9zz20j7888ifsqj9
+    verified: false
+    hashtags: "#travelinstagram, #travelsdames, #ambtravelbug, #travelwithme"
+  - username: "jonnymarden"
+    fullname: >-
+      Jonny
+    location: "United States"
+    followers: 6444
+    engagement: 1240
+    commentsToLikes: 0.053842
+    id: ck5zonjatqx870i1432qx8wcv
+    verified: false
+    hashtags: "#indianftr1200, #arttherapy, #workingdogs, #howdoyoutrain"
+  - username: "ana_atland"
+    fullname: >-
+      ANA ATLAND
+    location: "United States"
+    followers: 32999
+    engagement: 345
+    commentsToLikes: 0.038773
+    id: ck135ghkz1aqd0i19itbya0be
+    verified: false
+    hashtags: "#manifesting, #privatejetdaily, #lifestyle, #miamibeach"
 ---

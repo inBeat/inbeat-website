@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Greece In 2020
 description: >-
-  Find top Instagram influencers in Greece in 2020. Most popular hashtags: #giveaway #photooftheday #diagonismos #giveawaygreece.
+  Find top Instagram influencers in Greece in 2020. Most popular hashtags: #greece #fashion #insta #giveawaygr.
 platform: Instagram
 profiles:
-  - username: "ster_eleni"
+  - username: "matinabam"
     fullname: >-
-      🎀Eleni Ster🎀
+      𝔐𝔞𝔱𝔦𝔫𝔞™️
     location: "Greece"
-    followers: 67463
-    engagement: 2249
-    commentsToLikes: 0.068940
-    id: ck6tspc4s628n0j71mqeapn3a
+    followers: 4004
+    engagement: 3619
+    commentsToLikes: 0.125463
+    id: ckaozcwzrlb8c0i78pj66hvq8
     verified: false
-    hashtags: "#beatbox, #womanhood, #blessed, #valentines"
-  - username: "alexandra__panagiotarou"
+    hashtags: "#quarantine, #stayathome, #greece, #style"
+  - username: "athinaaki"
     fullname: >-
-      Αλεξάνδρα Παναγιώταρου
+      * A T H I N A *
     location: "Greece"
-    followers: 245734
-    engagement: 704
-    commentsToLikes: 0.429105
-    id: ck5zl0awnkhuw0i14oikiiafk
+    followers: 5564
+    engagement: 2252
+    commentsToLikes: 0.173525
+    id: ck8t7icltgwzz0j78q4x5t7fr
     verified: false
-    hashtags: "#betterdaysarecoming, #denimlook, #pianochallenge, #loveyourself"
-  - username: "dimitragl_"
+    hashtags: "#nycviews, #perfect, #baliliving, #ilovegreece"
+  - username: "j.touni"
     fullname: >-
-      Ντέμυ // 20
+      Ι ω ά ν ν α   Τ ο ύ ν η
     location: "Greece"
-    followers: 36003
-    engagement: 936
-    commentsToLikes: 0.505739
-    id: ck5q40lg4n7hd0i11nq2oruq6
+    followers: 481532
+    engagement: 1934
+    commentsToLikes: 0.236714
+    id: ck5c6cdjf55ea0i11rxshk3zt
+    verified: true
+    hashtags: "#vs, #quarantine, #myquarantine, #8monthstogether"
+  - username: "__mathild3__"
+    fullname: >-
+      M α т н ι ℓ ∂ ɛ   ➰
+    location: "Greece"
+    followers: 5179
+    engagement: 1904
+    commentsToLikes: 0.140406
+    id: ck13colwq1e620i19jd2lidmz
     verified: false
-    hashtags: "#mood, #instastyle, #bloggergiveaway, #lifestyle"
+    hashtags: "#newhome, #viedemaman, #home, #happyday"
+  - username: "katemyday_"
+    fullname: >-
+      𝐊𝐚𝐭𝐞𝐫𝐢𝐧𝐚 𝐂𝐡𝐫𝐢𝐬𝐭𝐨𝐟𝐨𝐫𝐢𝐝𝐨𝐮 ☆
+    location: "Greece"
+    followers: 19843
+    engagement: 1547
+    commentsToLikes: 0.988807
+    id: ck8t9ee2ans7l0j78qw07km3g
+    verified: false
+    hashtags: "#cosmetics, #picoftheday, #goodnight, #chandelier"
+  - username: "marina_grigoriou_"
+    fullname: >-
+      1st RunnerUp MISS HELLAS 2018👑
+    location: "Greece"
+    followers: 70677
+    engagement: 1509
+    commentsToLikes: 0.063604
+    id: ck5chpx39r8mk0i11a0nhx6ln
+    verified: true
+    hashtags: "#woltsouth, #dermatologyclinic, #facetreatment, #skincare"
   - username: "giorgosmanikas"
     fullname: >-
       Model & crazy daddy
     location: "Greece"
-    followers: 101243
-    engagement: 978
-    commentsToLikes: 0.086272
+    followers: 100272
+    engagement: 988
+    commentsToLikes: 0.088059
     id: ck5ckprj3xddg0i114ec63unx
     verified: false
-    hashtags: "#travell, #losangeles, #boys, #happynameday"
-  - username: "j.touni"
+    hashtags: "#daddysboy, #mani, #snow, #aloha"
+  - username: "nana_petraki"
     fullname: >-
-      Ι ω ά ν ν α   Τ ο ύ ν η
+      Nana Petraki
     location: "Greece"
-    followers: 474927
-    engagement: 2227
-    commentsToLikes: 0.387513
-    id: ck5c6cdjf55ea0i11rxshk3zt
-    verified: true
-    hashtags: "#throwback, #skg, #vs, #honor"
-  - username: "panosdent_official"
-    fullname: >-
-      Panos Eftaxias
-    location: "Greece"
-    followers: 193857
-    engagement: 1441
-    commentsToLikes: 0.049704
-    id: ck0w3mp4vu6zg0i19ldftfsyu
+    followers: 24942
+    engagement: 976
+    commentsToLikes: 0.596754
+    id: ck6tsp8vw61pj0j717llaw30g
     verified: false
-    hashtags: "#adidasgr, #fasterthan, #2020, #giveaway"
-  - username: "colorfulbonvoyage"
+    hashtags: "#giveawaysgreece, #giveaway, #pinterestphoto, #fashion"
+  - username: "dimitragl_"
     fullname: >-
-      miyuki4ever
+      Ντέμυ 🦋
     location: "Greece"
-    followers: 10718
-    engagement: 1645
-    commentsToLikes: 0.136512
-    id: ck8tdqiwh4eko0j78af03rqic
+    followers: 35588
+    engagement: 948
+    commentsToLikes: 0.320450
+    id: ck5q40lg4n7hd0i11nq2oruq6
     verified: false
-    hashtags: "#travelbucketlist, #visualcrush, #ilovegreece, #igersjaipur"
-  - username: "____ku_tt_uz___"
+    hashtags: "#greece, #fellsexy, #dresslily, #spring2019"
+  - username: "nancyzabetoglou"
     fullname: >-
-      𝐊𝐮_𝐭𝐭_𝐚𝐩𝐢_𝐲💋
+      nancyzabetoglou
     location: "Greece"
-    followers: 6060
-    engagement: 2563
-    commentsToLikes: 0.074443
-    id: ck8t67alqcid80j78qksay6tf
+    followers: 47167
+    engagement: 725
+    commentsToLikes: 0.065741
+    id: ck13a8aoqp4ef0i19vqyp4kjs
     verified: false
-    hashtags: "#rajkot, #varundhawan, #mallu, #keralatourism"
-  - username: "vasou_lina"
-    fullname: >-
-      Vasou Lina
-    location: "Greece"
-    followers: 11909
-    engagement: 1668
-    commentsToLikes: 0.329674
-    id: ck5znqqvtozbs0i14uin4hjkz
-    verified: false
-    hashtags: "#boots, #black, #heraklioncity, #lovelyplace"
-  - username: "sia_boo_"
-    fullname: >-
-      𝐒𝐢𝐚_𝐁𝐨𝐨_ 🧿
-    location: "Greece"
-    followers: 72017
-    engagement: 901
-    commentsToLikes: 0.943643
-    id: ck5hkexreiay20i11swhlbyc6
-    verified: false
-    hashtags: "#fashion, #vang, #homesweethome, #kids"
+    hashtags: "#athens, #athensbynight, #may9, #mybaby"
 ---

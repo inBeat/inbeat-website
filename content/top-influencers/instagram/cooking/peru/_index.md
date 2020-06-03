@@ -1,87 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Peru In 2020
 description: >-
-  Find top cooking Instagram influencers in Peru in 2020. Most popular hashtags: #yomequedoencasa #peru #quedateencasa #cuarentena.
+  Find top cooking Instagram influencers in Peru in 2020. Most popular hashtags: #cooking #peruvianfood #quedateencasa #stayhome.
 platform: Instagram
 profiles:
-  - username: "alonso_martinezvivanco"
+  - username: "vangers1"
     fullname: >-
-      Alonso Martinez Vivanco
+      Véronique
     location: "Peru"
-    followers: 15899
-    engagement: 845
-    commentsToLikes: 0.028936
-    id: ck55li2rz1mf90i112qvme7w2
+    followers: 42023
+    engagement: 781
+    commentsToLikes: 0.034166
+    id: ck5zkar2ij4pb0i140nig3zlr
     verified: false
-    hashtags: "#prayfortheworld, #heaven, #elegant, #gentleman"
+    hashtags: "#riodejaneiro, #selconfidence, #juice, #ipanema"
+  - username: "pattyblazquez"
+    fullname: >-
+      Patty Blázquez
+    location: "Peru"
+    followers: 6201
+    engagement: 601
+    commentsToLikes: 0.084793
+    id: ck5ckrogaxh6h0i11jqejpxg0
+    verified: false
+    hashtags: "#goodnight, #tardeo, #girlpower, #stong"
+  - username: "valeryrevello"
+    fullname: >-
+      Valery Revello🐆
+    location: "Peru"
+    followers: 38627
+    engagement: 976
+    commentsToLikes: 0.011345
+    id: ck5q8otfm78u40i111b69mm1k
+    verified: false
+    hashtags: "#cookingtime, #cookies, #tbt, #tiktok"
+  - username: "pierina_dg"
+    fullname: >-
+      Pierina De La Borda Gotuzzo
+    location: "Peru"
+    followers: 27955
+    engagement: 275
+    commentsToLikes: 0.047540
+    id: ck0u81ats66gj0i19ly75nquv
+    verified: false
+    hashtags: "#winelover, #love, #skincareroutine, #stayathome"
   - username: "the_running_cuy"
     fullname: >-
       Diego Casabonne
     location: "Peru"
-    followers: 10607
-    engagement: 445
-    commentsToLikes: 0.139888
+    followers: 10609
+    engagement: 353
+    commentsToLikes: 0.035048
     id: ck5zumgo92n7v0i147ooprfty
     verified: false
-    hashtags: "#manuelantonio, #waterfall, #seconsciente, #speedup"
-  - username: "giulliana.barrios"
-    fullname: >-
-      Giulliana Barrios
-    location: "Peru"
-    followers: 91458
-    engagement: 416
-    commentsToLikes: 0.055624
-    id: ck5zxgmtb7z960i14dqs4q0t8
-    verified: true
-    hashtags: "#brunella, #mathias, #burnergirls, #siempreregeasnuncainregeas"
-  - username: "jamesberckemeyer"
-    fullname: >-
-      James Berckemeyer A
-    location: "Peru"
-    followers: 27209
-    engagement: 215
-    commentsToLikes: 0.058001
-    id: ck0vwlmixuemm0i19q4pyf21k
-    verified: false
-    hashtags: "#latinamerica, #cooking, #lechedetigre, #equipoalado"
-  - username: "laespatulaverde"
-    fullname: >-
-      Karen Lema | La Espátula Verde
-    location: "Peru"
-    followers: 77543
-    engagement: 155
-    commentsToLikes: 0.063013
-    id: ck13cqhvt1o2l0i19xu2swugr
-    verified: false
-    hashtags: "#reposteriacasera, #torta, #ishopteam, #guisoscaseros"
+    hashtags: "#enjoylife, #piuray, #correr, #homemade"
   - username: "fernandamarsano"
     fullname: >-
       Maria Fernanda Marsano
     location: "Peru"
-    followers: 25279
-    engagement: 253
-    commentsToLikes: 0.025392
+    followers: 24954
+    engagement: 273
+    commentsToLikes: 0.041204
     id: ck6ucvulyhr0m0j7186ra4e96
     verified: false
-    hashtags: "#outfits, #peruviangirl, #mujer, #water"
-  - username: "papisporprimeravez"
+    hashtags: "#friends, #pink, #body, #comedy"
+  - username: "ceciliatupac"
     fullname: >-
-      Family Travel Vlogger
+      Cecilia Tupac
     location: "Peru"
-    followers: 33035
-    engagement: 62
-    commentsToLikes: 0.181654
-    id: ck136ua0v8ane0i19lcnqr1yl
+    followers: 11165
+    engagement: 707
+    commentsToLikes: 0.076536
+    id: ck8tdfg6635o30j78u9o0b5lc
     verified: false
-    hashtags: "#educaci, #pucallpa, #yomequedoencasa, #visitperu"
-  - username: "gianna.velarde"
+    hashtags: "#cursoonline, #foodporn, #chefperuano, #ganache"
+  - username: "laespatulaverde"
     fullname: >-
-      Gianna Velarde
+      Karen Lema | La Espátula Verde
     location: "Peru"
-    followers: 42346
-    engagement: 398
-    commentsToLikes: 0.025395
-    id: ck0uelbu7ll3k0i19xosxoq4v
+    followers: 88658
+    engagement: 167
+    commentsToLikes: 0.074536
+    id: ck13cqhvt1o2l0i19xu2swugr
     verified: false
-    hashtags: "#giannathewolf, #bioderma, #peronocomproporlashuevas, #yoentrenoencasa"
+    hashtags: "#cremadezapallo, #brunch, #quedateencasa, #atun"
+  - username: "jamesberckemeyer"
+    fullname: >-
+      James Berckemeyer A
+    location: "Peru"
+    followers: 33498
+    engagement: 179
+    commentsToLikes: 0.061727
+    id: ck0vwlmixuemm0i19q4pyf21k
+    verified: false
+    hashtags: "#asianfood, #yummy, #marchablanca, #worldcruise"
+  - username: "maritoymami"
+    fullname: >-
+      Milagros Saldaña🇵🇪
+    location: "Peru"
+    followers: 10664
+    engagement: 482
+    commentsToLikes: 0.113269
+    id: ckapa7blrv06g0i78p5erofvl
+    verified: false
+    hashtags: "#ladysnight, #myeverydaymagic, #homesohard, #blogger"
 ---

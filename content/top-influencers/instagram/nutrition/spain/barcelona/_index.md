@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top nutrition Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #training #workout #gym.
+  Find top nutrition Instagram influencers in Barcelona in 2020. Most popular hashtags: #nutrition #barcelona #fitness #workout.
 platform: Instagram
 profiles:
+  - username: "sinmkp"
+    fullname: >-
+      Sinmkp y con mascarilla
+    location: "Spain"
+    followers: 3056
+    engagement: 1620
+    commentsToLikes: 0.254254
+    id: ck5ci9cufs8m90i11d6bp2nsa
+    verified: false
+    hashtags: "#suscripci, #skincareadvice, #gold, #fragrancelover"
+  - username: "calderonchris_oficial"
+    fullname: >-
+      Christopher calderon 🇪🇸 🇪🇺
+    location: "Spain"
+    followers: 36029
+    engagement: 143
+    commentsToLikes: 0.088437
+    id: ckap22yggx5it0i78gelwp0zs
+    verified: false
+    hashtags: "#merrychristmas, #valencia, #happy, #liketime"
+  - username: "federikoleon"
+    fullname: >-
+      F E D E
+    location: "Spain"
+    followers: 25308
+    engagement: 669
+    commentsToLikes: 0.019560
+    id: ck5q9kfnabjxe0i11hw50u2lt
+    verified: false
+    hashtags: "#springbcn, #nipon, #barcelona, #boys"
+  - username: "laura.blancafort"
+    fullname: >-
+      Laura Blancafort
+    location: "Spain"
+    followers: 2533
+    engagement: 2033
+    commentsToLikes: 0.068170
+    id: ck5hr3tfju7wa0i112hnsk08c
+    verified: false
+    hashtags: "#beauty, #fitnessmodel, #fitnessgirl, #landscapephotography"
   - username: "alejandrogarciaworld"
     fullname: >-
       Alejandro Garcia
     location: "Spain"
-    followers: 75393
-    engagement: 372
-    commentsToLikes: 0.011325
+    followers: 74330
+    engagement: 379
+    commentsToLikes: 0.011308
     id: ck6u5jcmw9ym70j71zt8jpz8e
     verified: false
-    hashtags: "#happyweekend, #bodygoals, #beastmode, #fitnesslifestyle"
-  - username: "sinmkp"
+    hashtags: "#quarantine, #yagmen, #behome, #yomequedoencasa"
+  - username: "saulejakim"
     fullname: >-
-      sinmkp y con mascarilla
+      ✨Saulė Jakimavičiūtė✨
     location: "Spain"
-    followers: 3007
-    engagement: 1659
-    commentsToLikes: 0.256724
-    id: ck5ci9cufs8m90i11d6bp2nsa
+    followers: 2547
+    engagement: 1118
+    commentsToLikes: 0.051445
+    id: ckap7x7yelyqt0i78u6pz5k0n
     verified: false
-    hashtags: "#mascarillasfaciales, #irohanature, #twilly, #elemis"
-  - username: "mouradtrainer"
-    fullname: >-
-      Entrenador Personal
-    location: "Spain"
-    followers: 18340
-    engagement: 130
-    commentsToLikes: 0.015868
-    id: ck55k1ia9y8tf0i11apip0cdi
-    verified: false
-    hashtags: "#like, #onlinecoach, #workout, #gimnasio"
-  - username: "joohnfit"
-    fullname: >-
-      JohnFit
-    location: "Spain"
-    followers: 11260
-    engagement: 468
-    commentsToLikes: 0.021552
-    id: ck14itze5h5q90i19yvboq0le
-    verified: false
-    hashtags: "#gold, #mensphysic, #arnoldclassic2018, #bodybuilding"
-  - username: "carles_castillejo"
-    fullname: >-
-      Carles
-    location: "Spain"
-    followers: 32067
-    engagement: 400
-    commentsToLikes: 0.019302
-    id: ck5c0gpdut3pg0i11sc9upqfg
-    verified: true
-    hashtags: "#castinosepara, #castitraining, #athletics, #correr"
-  - username: "tonibuenog"
-    fullname: >-
-      ToniBuenoG
-    location: "Spain"
-    followers: 7468
-    engagement: 623
-    commentsToLikes: 0.033625
-    id: ck5cencddlbwq0i11hrmvz1if
-    verified: false
-    hashtags: "#nutrition, #clinic, #master, #world"
+    hashtags: "#montana, #fitnesslife, #goodvibes, #trails"
   - username: "artfox_official"
     fullname: >-
       Art Fox
     location: "Spain"
-    followers: 46937
-    engagement: 560
-    commentsToLikes: 0.115519
+    followers: 46789
+    engagement: 493
+    commentsToLikes: 0.106495
     id: ck14gxyg47keu0i19e165tict
     verified: false
-    hashtags: "#traveller, #travellers, #workout, #gymmotivation"
-  - username: "mikebodegas"
+    hashtags: "#spain2020, #crossfit, #biglittlelies, #nutrition"
+  - username: "lauralongauer"
     fullname: >-
-      Michael Alexandre Bodegas
+      MISS UNIVERSE SLOVAKIA 2019
     location: "Spain"
-    followers: 21405
-    engagement: 690
-    commentsToLikes: 0.012362
-    id: ck6twls38sqrl0j71i6q4dv4n
-    verified: true
-    hashtags: "#mambamentality, #mathis, #strivetobebetter, #plantbasedathlete"
-  - username: "juanmariajimenez"
-    fullname: >-
-      Juan Maria Jimenez Llorens
-    location: "Spain"
-    followers: 18383
-    engagement: 478
-    commentsToLikes: 0.018929
-    id: ck6tpv9zwnc220j71uzyrxbrl
+    followers: 11500
+    engagement: 713
+    commentsToLikes: 0.028897
+    id: ck0vvp20gq48y0i19zsadrght
     verified: false
-    hashtags: "#ciclisme, #velo, #trailrun, #everesting"
-  - username: "blancanutri"
+    hashtags: "#hopesoonagain, #streetstyle, #lovemylife, #nature"
+  - username: "alicia.landivar"
     fullname: >-
-      B L A N C A nutricionista👩🏽‍⚕️
+      Alicia M. Landivar
     location: "Spain"
-    followers: 218880
-    engagement: 353
-    commentsToLikes: 0.064275
-    id: ck5hjjl7agqu90i11w1mndz7v
-    verified: true
-    hashtags: "#recetassaludables, #dieta, #ensalada, #merienda"
+    followers: 42930
+    engagement: 183
+    commentsToLikes: 0.026838
+    id: ck13d15ox353b0i19xhx3ve1t
+    verified: false
+    hashtags: "#puertorico, #bsas, #reflexion, #seguiradelante"
+  - username: "davidbulky"
+    fullname: >-
+      D A V I D  B U L K Y 🚓
+    location: "Spain"
+    followers: 12356
+    engagement: 829
+    commentsToLikes: 0.025085
+    id: ck5hix9t0fmqv0i11s4ccfci6
+    verified: false
+    hashtags: "#lucesdenavidad, #summer, #eyesblue, #home"
 ---

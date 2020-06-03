@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Houston In 2020
 description: >-
-  Find top Instagram influencers in Houston in 2020. Most popular hashtags: #thebachelor #love #coronavirus #visitspain.
+  Find top Instagram influencers in Houston in 2020. Most popular hashtags: # #imissyallsomuch #babyfashionista #giveaway.
 platform: Instagram
 profiles:
-  - username: "houston_insta"
+  - username: "lauren_turton"
     fullname: >-
-      Houston, Texas
+      LAUREN K TURTON
     location: "United States"
-    followers: 115840
-    engagement: 94
-    commentsToLikes: 0.027222
-    id: ck0tvj1inbksf0i197fwpu1a1
+    followers: 2554
+    engagement: 2151
+    commentsToLikes: 0.058655
+    id: ckap6patsgut30i78si8e2c9n
     verified: false
-    hashtags: "#houston"
-  - username: "annechen_1"
+    hashtags: ""
+  - username: "juanyyasminn"
     fullname: >-
-      Anne Chen
+      Juany Yasmin
     location: "United States"
-    followers: 2664
-    engagement: 2751
-    commentsToLikes: 0.127877
-    id: ck5zvh5ag48760i14s6f4qhru
+    followers: 72924
+    engagement: 826
+    commentsToLikes: 0.098356
+    id: ck0tyv6l5o70l0i19bh6lou6e
     verified: false
-    hashtags: "#48, #lfg, #anajrinspiration, #caliwknd"
-  - username: "mahamfatima"
+    hashtags: "#vaquera, #laninafresa, #dailyparenting, #mommyblogger"
+  - username: "kxthyh"
     fullname: >-
-      Maham Fatima
+      Kathy Huynh
     location: "United States"
-    followers: 190090
-    engagement: 1192
-    commentsToLikes: 0.099106
-    id: ck5c1wq4yw2sj0i119w4cecln
+    followers: 2206
+    engagement: 2576
+    commentsToLikes: 0.115940
+    id: ckap6o06ggpiy0i78739oh8i5
     verified: false
-    hashtags: "#12daysofchristmas, #zarafashion, #iammyownshade, #ambassador"
-  - username: "gillzvacay"
+    hashtags: "#icemikesbabyyy, #imissyallsomuch, #seniorszn, #happy22"
+  - username: "diormoe"
     fullname: >-
-      Aleena Gillani ✈︎Travel Addict
+      Moe
     location: "United States"
-    followers: 9876
-    engagement: 1775
-    commentsToLikes: 0.394578
-    id: ck1356n1vzzec0i19omczht3o
+    followers: 12211
+    engagement: 1318
+    commentsToLikes: 0.063523
+    id: ck0w2fxxuo5sb0i19n05kzduq
     verified: false
-    hashtags: "#customhome, #buildingourhome, #strongertogether, #medicalprofessionals"
-  - username: "giansanity"
+    hashtags: ""
+  - username: "malinasutton"
     fullname: >-
-      Anthony Giansanti
+      ★ Malina Sutton ★
     location: "United States"
-    followers: 7728
-    engagement: 1358
-    commentsToLikes: 0.084886
-    id: ck6tt7os3935i0j71p7civpid
+    followers: 2243
+    engagement: 3478
+    commentsToLikes: 0.110821
+    id: ckap4d3cn6t1h0i78ocrdxqef
     verified: false
-    hashtags: "#contodo, #truth, #blindinglightschallenge, #finals"
+    hashtags: ""
   - username: "kellsskellyy"
     fullname: >-
-      Kels 🖤
+      Kels
     location: "United States"
-    followers: 9618
-    engagement: 1894
-    commentsToLikes: 0.057007
+    followers: 9760
+    engagement: 1971
+    commentsToLikes: 0.059919
     id: ck5ho4wcdoxuk0i11zulo26tn
     verified: false
     hashtags: ""
-  - username: "parisracquel_"
+  - username: "artsynya"
     fullname: >-
-      P💕
+      🇸🇽🇨🇳Nya Green🇹🇹
     location: "United States"
-    followers: 5318
-    engagement: 2126
-    commentsToLikes: 0.059860
-    id: ck5ho4w7yoxtb0i113tlq9rdm
+    followers: 7654
+    engagement: 1881
+    commentsToLikes: 0.063736
+    id: ck9ha3861ayda0j78nfejiajm
     verified: false
     hashtags: ""
-  - username: "_brittneymarshall"
+  - username: "_kringe_"
     fullname: >-
-      Brittney Marshall
+      KRINGE
     location: "United States"
-    followers: 8366
-    engagement: 1449
-    commentsToLikes: 0.049434
-    id: ck55pxzq8bmqx0i11d4rgggwt
+    followers: 6457
+    engagement: 1285
+    commentsToLikes: 0.104811
+    id: ck8wg0o4xgk1r0j78zvflymi7
     verified: false
     hashtags: ""
   - username: "ksalom"
     fullname: >-
       Katherine Salom
     location: "United States"
-    followers: 452863
-    engagement: 710
-    commentsToLikes: 0.019824
+    followers: 513818
+    engagement: 692
+    commentsToLikes: 0.019599
     id: ck0w10b8agx790i193kdh84mj
     verified: false
-    hashtags: "#baytowntx, #galvestonbay, #acro, #tiktoktravel"
-  - username: "__jasminenguyen"
+    hashtags: "#ad, #nationalunicornday, #grabawineski, #flattenthecurve"
+  - username: "primadawna_"
     fullname: >-
-      J A S M I N E  ☆  N G U Y E N
+      🌸🌼 Donna 🌼🌸
     location: "United States"
-    followers: 21233
-    engagement: 1416
-    commentsToLikes: 0.038125
-    id: ck5q72gdrzqh40i11ln01lc8f
+    followers: 3112
+    engagement: 1943
+    commentsToLikes: 0.427299
+    id: ckap83sjcmpdv0i78bg88n00d
     verified: false
-    hashtags: "#blowoutstyles, #truth, #thebachelor, #bachelornation"
+    hashtags: "#macaroons, #macarons"
 ---

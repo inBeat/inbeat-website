@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Rio De Janeiro In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #quarentena #fiqueemcasa #stayhome #quarantine.
+  Find top lifestyle Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #fiqueemcasa #bahia #fotorespiro #felizdiadasmaes.
 platform: Instagram
 profiles:
-  - username: "gabriellegoncalves"
+  - username: "izabella.aguiar_"
     fullname: >-
-      GABRIELLE GONÇALVES
+      • IZA•
     location: "Brazil"
-    followers: 7959
-    engagement: 873
-    commentsToLikes: 0.171829
-    id: ck5zr0qa2vo500i147m3hncm6
+    followers: 2384
+    engagement: 2713
+    commentsToLikes: 0.248419
+    id: ckapbap00z7e20i78zbw9m19a
     verified: false
-    hashtags: "#segredodabelezachallenge, #anonovochallenge, #natalchallenge, #achadinhosrenner"
-  - username: "euraissacastro"
+    hashtags: "#model, #marketingdigital, #digitalinfluencers, #make"
+  - username: "cardoznat"
     fullname: >-
-      RAISSA CASTRO TUCHLER
+      Natália Cardozo
     location: "Brazil"
-    followers: 772698
-    engagement: 519
-    commentsToLikes: 0.004057
-    id: ck602sfsriwm90i14n0qxc7ym
-    verified: true
-    hashtags: "#day1, #sosso7, #day10, #quarantine"
+    followers: 31311
+    engagement: 1203
+    commentsToLikes: 0.024304
+    id: ckap1bxt6txa20i785tgeewz0
+    verified: false
+    hashtags: "#jogatudochallenge, #boxbraidspenteados, #challenge, #blusachallenge"
+  - username: "lucasmartins"
+    fullname: >-
+      Lucas Martins
+    location: "Brazil"
+    followers: 57214
+    engagement: 467
+    commentsToLikes: 0.055154
+    id: ck8wfpegog2010j78ffu43si0
+    verified: false
+    hashtags: "#stayhome"
+  - username: "pilulasdaju"
+    fullname: >-
+      pilulasdaju
+    location: "Brazil"
+    followers: 16825
+    engagement: 333
+    commentsToLikes: 0.108650
+    id: ckaoy7c71gaz50i78ik5f1t5j
+    verified: false
+    hashtags: ""
+  - username: "pingoeninadalmatians"
+    fullname: >-
+      .• Pingo e Nina •.
+    location: "Brazil"
+    followers: 100047
+    engagement: 302
+    commentsToLikes: 0.042223
+    id: ck0w2vj2bqdg80i19whaoal3n
+    verified: false
+    hashtags: "#maedecachorro, #ficaemcasa, #skincare, #happymothersday"
+  - username: "maurosobrall"
+    fullname: >-
+      Mauro Sobral
+    location: "Brazil"
+    followers: 7477
+    engagement: 2285
+    commentsToLikes: 0.053336
+    id: ck9wdqf1ygsdh0j78954fors7
+    verified: false
+    hashtags: "#fiqueemcasa"
   - username: "comerrezarviajar"
     fullname: >-
       Marjorie e Saulo 👫✈️🌍
     location: "Brazil"
-    followers: 43548
-    engagement: 200
-    commentsToLikes: 0.032428
+    followers: 43868
+    engagement: 249
+    commentsToLikes: 0.085376
     id: ck14icqpgerlu0i19zv9yiyf6
     verified: false
-    hashtags: "#viagemeturismo, #arraialdajuda, #nordestebrasileiro, #verao2020"
+    hashtags: "#moorea, #destinosesonhos, #errejota, #noronhando"
   - username: "crispereirarezende"
     fullname: >-
       CRISTIANE REZENDE
     location: "Brazil"
-    followers: 35629
-    engagement: 136
-    commentsToLikes: 0.430617
+    followers: 43686
+    engagement: 120
+    commentsToLikes: 0.444395
     id: ck5hi8ewgc6ow0i116kjwb75r
     verified: false
-    hashtags: "#postoftheday, #selectumluxuryresort, #coronavirus, #stayhome"
-  - username: "erikapalmer"
+    hashtags: "#sentimentos, #fashionvideo, #postfashion, #fotorespiro"
+  - username: "matthcordeiro"
     fullname: >-
-      Erika Palmer
+      Matheus Cordeiro
     location: "Brazil"
-    followers: 40415
-    engagement: 186
-    commentsToLikes: 0.102970
-    id: ck5cksixvxiya0i1125l0gatx
+    followers: 30069
+    engagement: 240
+    commentsToLikes: 0.027229
+    id: ckaow386g77y10i78im9kuhpg
     verified: false
-    hashtags: "#bailedavogue, #surrealismotropical, #dolcegabbana, #erikapalmerdrops"
-  - username: "kawanacartier"
+    hashtags: "#tbt, #fiqueemcasa, #quarentena"
+  - username: "jessmonteiiro_"
     fullname: >-
-      Kawana Cartier
+      Jéssica 🌻
     location: "Brazil"
-    followers: 7105
-    engagement: 1108
-    commentsToLikes: 0.058744
-    id: ck8t6keagdysr0j78itn9wpvj
+    followers: 6721
+    engagement: 586
+    commentsToLikes: 0.083758
+    id: ckap3yq1o52tp0i782im83zyp
     verified: false
-    hashtags: "#lm, #lifestyle, #motiva, #3months"
-  - username: "gab.lobo"
-    fullname: >-
-      Gabriela Lobo
-    location: "Brazil"
-    followers: 35059
-    engagement: 110
-    commentsToLikes: 0.076231
-    id: ck0tyqas4nrl20i197e3zq8p8
-    verified: false
-    hashtags: "#selfie, #babiesanddogs, #parary, #saturday"
-  - username: "rotina.mae.casa"
-    fullname: >-
-      Ana Paula 🧿
-    location: "Brazil"
-    followers: 69368
-    engagement: 141
-    commentsToLikes: 0.070239
-    id: ck8t1fis8vkms0j787dpyq126
-    verified: false
-    hashtags: "#pillowchallenge, #talmaetalfilha"
-  - username: "ttaismoraes"
-    fullname: >-
-      Taís
-    location: "Brazil"
-    followers: 276953
-    engagement: 887
-    commentsToLikes: 0.010555
-    id: ck5c88vj38zsk0i11c4tjpoki
-    verified: false
-    hashtags: "#modelomorena, #calmaria, #crossfitgirls, #lookoftheday"
-  - username: "renatad1as"
-    fullname: >-
-      Renata Dias
-    location: "Brazil"
-    followers: 373903
-    engagement: 310
-    commentsToLikes: 0.007783
-    id: ck0ud81xuil6d0i19cyfdy5fs
-    verified: false
-    hashtags: "#exercicioemcasa, #verao2020, #love2shop, #stayhome"
+    hashtags: ""
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top bloggers Instagram influencers in United Kingdom in 2020. Most popular hashtags: #travelcouple #ootd #fashion #whatiwore.
+  Find top bloggers Instagram influencers in United Kingdom in 2020. Most popular hashtags: #staysafe #giveaway #blogger #stayhome.
 platform: Instagram
 profiles:
   - username: "ourtasteforlife"
     fullname: >-
       CHARLOTTE ♡ NATALIE 𖤥 UK
     location: "United Kingdom"
-    followers: 20199
-    engagement: 1153
-    commentsToLikes: 0.108506
+    followers: 24570
+    engagement: 1278
+    commentsToLikes: 0.095989
     id: ck5zqz6k2vl810i14cmyqbzfl
     verified: false
-    hashtags: "#lovehasnogender, #lgbtposts, #beautifultravelcouples, #lesbianlove"
+    hashtags: "#lesbianstyle, #winter, #bakingfun, #brighton"
+  - username: "charlotte_1999"
+    fullname: >-
+      Charlotte Hartman
+    location: "United Kingdom"
+    followers: 8115
+    engagement: 2594
+    commentsToLikes: 0.577523
+    id: ckap3mo5p3ne80i78a4xgqafn
+    verified: false
+    hashtags: "#streetblogger, #hotchocolate, #styleblogger, #inspo"
   - username: "americanandthebrit"
     fullname: >-
       TRAVEL COUPLE | GEORGE & HANNA
     location: "United Kingdom"
-    followers: 50701
-    engagement: 663
-    commentsToLikes: 0.063526
+    followers: 52175
+    engagement: 614
+    commentsToLikes: 0.073357
     id: ck0w78pqxcbrx0i19eh91belu
     verified: false
-    hashtags: "#sevenwondersoftheworld, #staysafe, #tulum, #meettheworld"
-  - username: "cassiesamji"
+    hashtags: "#weddingdress, #travelbuddy, #visitengland, #cutecouples"
+  - username: "lukeheywoodstyle"
     fullname: >-
-      Cassie | London Creator
+      Luke Heywood
     location: "United Kingdom"
-    followers: 98371
-    engagement: 612
-    commentsToLikes: 0.066120
-    id: ck0tu5irx5qc40i19az350ll9
+    followers: 7801
+    engagement: 1398
+    commentsToLikes: 0.431050
+    id: ckaovnsyi5dmq0i78itr5fxmq
     verified: false
-    hashtags: "#eyeturns20, #glitterfantasy, #tiffanyandco, #breakfastattiffanys"
-  - username: "drlouloubug"
+    hashtags: "#bloggervibes, #posingtips, #menstylelounge, #hopequotes"
+  - username: "lucyjgoddard"
     fullname: >-
-      Lauren Mulcahy-Ryan
+      lucy🕊🤍
     location: "United Kingdom"
-    followers: 6233
-    engagement: 1168
-    commentsToLikes: 0.657285
-    id: ck5q1qbhdc8zx0i11mlk74phg
+    followers: 12297
+    engagement: 1203
+    commentsToLikes: 0.326301
+    id: ck9wfbleho4r40j78twno7oor
     verified: false
-    hashtags: "#londoncalling, #streetstyle, #mytinyatlaslondon, #londonist"
-  - username: "galzahavi"
-    fullname: >-
-      Gal Malka Zehavi-גל מלכה זהבי
-    location: "United Kingdom"
-    followers: 145546
-    engagement: 662
-    commentsToLikes: 0.025872
-    id: ck5bthenufz4t0i11u6s1xjtn
-    verified: false
-    hashtags: "#ad, #yoplaittogo, #oreostyle, #mnmsmovies"
-  - username: "sarahlouiseporterxo"
-    fullname: >-
-      ✨ Sarah Louise Porter 👑
-    location: "United Kingdom"
-    followers: 26145
-    engagement: 586
-    commentsToLikes: 0.067961
-    id: ck8szy9jpq6iw0j7851th96hc
-    verified: false
-    hashtags: "#valentine, #valentineslookbook, #fashionvideo, #soon"
-  - username: "lenix_trenae"
-    fullname: >-
-      Lenix Trena'e🌹
-    location: "United Kingdom"
-    followers: 36633
-    engagement: 1025
-    commentsToLikes: 0.033506
-    id: ck136eu3m658k0i19x9qkxh5u
-    verified: false
-    hashtags: "#styleoftheday, #streetfashion, #streetstylelux, #quarantine"
+    hashtags: "#stayhomewithplt, #beautygiveaway, #fashiongiveaway, #jadedbabes"
   - username: "safiiyyaahh"
     fullname: >-
       safiyyah
     location: "United Kingdom"
-    followers: 7407
-    engagement: 969
-    commentsToLikes: 0.104572
+    followers: 10137
+    engagement: 1093
+    commentsToLikes: 0.090837
     id: ck8t4y3ge887c0j78vzssczqs
     verified: false
-    hashtags: "#model, #prettylittlething, #like, #pakistanifashion"
-  - username: "chloemelissabaker"
+    hashtags: "#eidwear, #makeuptutorial, #makeupideas, #makeup"
+  - username: "xmegx22"
     fullname: >-
-      Chloè Melissa Baker
+      Meg💓
     location: "United Kingdom"
-    followers: 42958
-    engagement: 464
-    commentsToLikes: 0.054460
-    id: ck0w3r20wutwl0i19n829iif0
+    followers: 20380
+    engagement: 654
+    commentsToLikes: 0.280683
+    id: ck5zxynxv8wr70i14wb5mni1w
     verified: false
-    hashtags: "#forgirlsbygirls, #keeplounging, #katchme, #pltstyle"
-  - username: "curlyproverbz"
+    hashtags: "#bloggerstyle, #giveawaycontest, #collab, #rebegal"
+  - username: "_naja.febin"
     fullname: >-
-      Farida Sharma
+      نجا فبن 🥀
     location: "United Kingdom"
-    followers: 37182
-    engagement: 427
-    commentsToLikes: 0.066338
-    id: ck6tmlmtt82fn0j71mb4n6aur
+    followers: 12443
+    engagement: 3972
+    commentsToLikes: 0.052148
+    id: ck9wp1i9i7e8n0j78oiflco2y
     verified: false
-    hashtags: "#mumlife, #strongersweden, #wheredidyougetyourlyricsfromjaiyah, #itsasundaysoithoughtiwouldtakeyoualltochurch"
+    hashtags: "#staysafe, #youtube, #nightroutine, #quarantine"
+  - username: "ks_samia_khan"
+    fullname: >-
+      Samia🇧🇩
+    location: "United Kingdom"
+    followers: 10833
+    engagement: 1048
+    commentsToLikes: 0.075677
+    id: ck8t84hhej2gq0j78wjadrt5n
+    verified: false
+    hashtags: "#bokeh, #desi, #lalbagh, #skin"
+  - username: "oliviabracyy_"
+    fullname: >-
+      O L I V I A   B R A C Y
+    location: "United Kingdom"
+    followers: 27096
+    engagement: 527
+    commentsToLikes: 0.133906
+    id: ck5byd3bvoxia0i11f39i07p1
+    verified: false
+    hashtags: "#competition, #forgirlsbygirls, #katchmeuk, #makeupdolls"
 ---

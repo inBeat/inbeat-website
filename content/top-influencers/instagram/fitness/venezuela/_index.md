@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top fitness Instagram influencers in Venezuela in 2020. Most popular hashtags: #venezuela #fitnessmotivation #fitness #gym.
+  Find top fitness Instagram influencers in Venezuela in 2020. Most popular hashtags: #playa #caracas #tbt #coronavirus.
 platform: Instagram
 profiles:
+  - username: "michymolero"
+    fullname: >-
+      Michy Molero
+    location: "Venezuela"
+    followers: 39618
+    engagement: 1897
+    commentsToLikes: 0.018224
+    id: ckap1f3vfubv10i78a0usbzm3
+    verified: false
+    hashtags: "#losamo, #cinaruco, #vamosvenezuela, #madrenaturaleza"
   - username: "bipsperez"
     fullname: >-
       Belinda Perez
     location: "Venezuela"
-    followers: 28938
-    engagement: 351
-    commentsToLikes: 0.065688
+    followers: 29072
+    engagement: 379
+    commentsToLikes: 0.064017
     id: ck15taqy6h6690i19ts5r2lfg
     verified: false
-    hashtags: "#musa, #happy, #summer, #carnavales2020"
-  - username: "luisedegwitz"
+    hashtags: "#charlotlover, #domingo, #extran, #vive"
+  - username: "solparra23"
     fullname: >-
-      Luis Enrique Degwitz
+      Sol Parra
     location: "Venezuela"
-    followers: 4406
-    engagement: 1775
-    commentsToLikes: 0.036947
-    id: ck0vxclqzy8i60i19fnjfx40q
+    followers: 147213
+    engagement: 291
+    commentsToLikes: 0.018676
+    id: ckap6678eekgs0i78ttpo2cde
     verified: false
-    hashtags: "#335, #bike, #265, #venezuela"
+    hashtags: "#cuarentenatime, #tbt"
+  - username: "brennokie"
+    fullname: >-
+      Brenda Orozco.
+    location: "Venezuela"
+    followers: 3041
+    engagement: 1531
+    commentsToLikes: 0.074311
+    id: ck5zp6uq1s3kp0i14asnuq1sb
+    verified: false
+    hashtags: "#stretching, #pole, #gymnast, #competition"
   - username: "maximo_simons"
     fullname: >-
-      MAXIMO SIMONS
+      MAXIMO SIMONS ♕
     location: "Venezuela"
-    followers: 55071
-    engagement: 180
-    commentsToLikes: 0.047871
+    followers: 55994
+    engagement: 220
+    commentsToLikes: 0.047420
     id: ck6ucdkg4ez3l0j7145dptlhs
     verified: false
-    hashtags: "#dancing, #food, #jocks, #goals"
+    hashtags: "#artdance, #challenge, #panama, #ritmo"
   - username: "dianavasquezve"
     fullname: >-
       DIANA VASQUEZ
     location: "Venezuela"
-    followers: 9287
-    engagement: 1079
-    commentsToLikes: 0.112150
+    followers: 10670
+    engagement: 1227
+    commentsToLikes: 0.114270
     id: ck8tdsjan4m2c0j78m724dumc
     verified: false
-    hashtags: "#patearcalle, #skincare, #fitfam, #makeuplover"
-  - username: "pilaterapia"
-    fullname: >-
-      Karla Pernía de Malavé 🌱
-    location: "Venezuela"
-    followers: 2283
-    engagement: 794
-    commentsToLikes: 0.105923
-    id: ck6ufldplxr0c0j716pqnsim4
-    verified: false
-    hashtags: "#proleaguestars, #fitlife, #sinfiltro, #quarentine"
-  - username: "izamorafit"
-    fullname: >-
-      Izamar Mora
-    location: "Venezuela"
-    followers: 103416
-    engagement: 163
-    commentsToLikes: 0.048783
-    id: ck8sztmdbpnys0j78eyamm0nu
-    verified: false
-    hashtags: "#fitness, #mujer, #fotografia, #maracay"
+    hashtags: "#workingfromhome, #playa, #periodistas, #fitfam"
   - username: "moveyourash.fit"
     fullname: >-
       Ashly Prieto Healthy Lifestyle
     location: "Venezuela"
-    followers: 37238
-    engagement: 354
-    commentsToLikes: 0.038937
+    followers: 40829
+    engagement: 435
+    commentsToLikes: 0.176710
     id: ck5cfpjwwnemm0i11bg26a6ow
     verified: false
-    hashtags: "#healthylifestyle, #motivationmonday, #moveyourash, #entrenaencasa"
-  - username: "marialerojas2"
-    fullname: >-
-      𝑴𝒂𝒓𝒊𝒂𝒍𝒆 𝑹𝒐𝒋𝒂𝒔
-    location: "Venezuela"
-    followers: 41473
-    engagement: 147
-    commentsToLikes: 0.205150
-    id: ck5zwzktl721k0i14g9uyzgdb
-    verified: false
-    hashtags: "#outfitoftheday, #lounge, #outfits, #goodtimes"
+    hashtags: "#ootd, #brownielowcarb, #lowcarb, #tbt"
   - username: "solimarpalencia"
     fullname: >-
       solymar palencia
     location: "Venezuela"
-    followers: 46664
-    engagement: 154
-    commentsToLikes: 0.207857
+    followers: 46762
+    engagement: 163
+    commentsToLikes: 0.224825
     id: ck5ch3fvbq1ep0i11vaj6qjub
     verified: false
-    hashtags: "#fitnessmodels, #madrid, #fitnessmodel, #vidaysalud"
+    hashtags: "#solidaridad, #modelfitness, #840, #seguimosencasa"
+  - username: "marialerojas2"
+    fullname: >-
+      𝑴𝒂𝒓𝒊𝒂𝒍𝒆 𝑹𝒐𝒋𝒂𝒔
+    location: "Venezuela"
+    followers: 40926
+    engagement: 142
+    commentsToLikes: 0.196931
+    id: ck5zwzktl721k0i14g9uyzgdb
+    verified: false
+    hashtags: "#cuerda, #style, #goodtimes, #kiss"
   - username: "xavy_munoz"
     fullname: >-
       Xavy Muñoz
     location: "Venezuela"
-    followers: 256618
+    followers: 257019
     engagement: 104
     commentsToLikes: 0.031935
     id: ck15qsrtx4gkp0i19movoxpil
     verified: false
-    hashtags: "#xavymu, #ellos, #venezuela, #elterrible"
+    hashtags: "#johanmu, #fotos, #dios, #running"
 ---

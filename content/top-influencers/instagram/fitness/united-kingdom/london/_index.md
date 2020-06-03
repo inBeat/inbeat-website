@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In London In 2020
 description: >-
-  Find top fitness Instagram influencers in London in 2020. Most popular hashtags: #london #fitness #ootd #capetown.
+  Find top fitness Instagram influencers in London in 2020. Most popular hashtags: #fitnesslondon #fitness #loungewear #spring.
 platform: Instagram
 profiles:
   - username: "isabellewagstaff"
     fullname: >-
       𝐼𝒮𝒜𝐵𝐸𝐿𝐿𝐸
     location: "United Kingdom"
-    followers: 23422
-    engagement: 324
-    commentsToLikes: 0.053911
+    followers: 23223
+    engagement: 299
+    commentsToLikes: 0.057255
     id: ck0tujkef7gc10i19xe1jblqz
     verified: false
     hashtags: "#amandaharringtonlondon, #amandaharringtontechnique, #myboux, #gifted"
-  - username: "austin.mfit"
+  - username: "indigogofit"
     fullname: >-
-      Austin Martin, CPT
+      Indigo - Fitness & Confidence
     location: "United Kingdom"
-    followers: 139964
-    engagement: 854
-    commentsToLikes: 0.011108
-    id: ck5q3kpezl7cl0i11y3lhi6zx
+    followers: 28794
+    engagement: 196
+    commentsToLikes: 0.298557
+    id: ck8td774126dm0j78550s57ld
     verified: false
-    hashtags: "#fitness, #londonfitness, #londonfit, #bulkingseason"
-  - username: "kiko_toth"
+    hashtags: "#myfabletics, #fridayfeelings, #femmeluxe, #newgymwear"
+  - username: "goddessbeautymakeup"
     fullname: >-
-      Kiko Toth
+      ✨ GoddessBeauty By Athena ✨
     location: "United Kingdom"
-    followers: 19255
-    engagement: 1310
-    commentsToLikes: 0.011092
-    id: ck8wdbfmzdlf40j78qzxbkpzb
+    followers: 22396
+    engagement: 460
+    commentsToLikes: 0.125579
+    id: ck0ttgeeo2lqi0i19btotzuk1
     verified: false
-    hashtags: "#cuba, #eggchallege, #medic, #onlywednesday"
-  - username: "orlandofimiani"
+    hashtags: "#make4glam, #cosmetics, #comfyclothes, #lashes"
+  - username: "cleanleanbakes"
     fullname: >-
-      ORLANDO FIMIANI
+      Vicky〰 Health Food Blogger
     location: "United Kingdom"
-    followers: 46743
-    engagement: 145
-    commentsToLikes: 0.013609
-    id: ck0w1xqxalnpr0i19mgzbrbei
+    followers: 16784
+    engagement: 703
+    commentsToLikes: 0.499534
+    id: ck6tn1hek8y590j71mzdvhtpo
     verified: false
-    hashtags: "#portraitphotography, #paris, #lifestyle, #merrychristmas"
-  - username: "mossproctor"
+    hashtags: "#sundaybaking, #oatmealbowl, #bodypositivity, #coconutbowls"
+  - username: "jukes718"
     fullname: >-
-      Moss.
+      D Jukes
     location: "United Kingdom"
-    followers: 7516
-    engagement: 831
-    commentsToLikes: 0.020205
-    id: ck6u5j6389xsm0j71birzd6de
-    verified: false
-    hashtags: "#getinthepow, #bloggerlife, #beirutlife, #hygge"
-  - username: "emilymouufit"
-    fullname: >-
-      HOME YOGA / WORKOUTS
-    location: "United Kingdom"
-    followers: 28154
-    engagement: 168
-    commentsToLikes: 0.095655
-    id: ck0w5ihy73sm50i19w1efkb6x
-    verified: false
-    hashtags: "#fableticsuk, #yogainspiration, #fitathome, #londonyogis"
-  - username: "bigcradds23"
-    fullname: >-
-      LEWIS C
-    location: "United Kingdom"
-    followers: 24646
-    engagement: 298
-    commentsToLikes: 0.062684
-    id: ck8td0fmv1eia0j78w2fyx43n
-    verified: false
-    hashtags: "#love, #physique, #pumped, #workout"
-  - username: "rowanrow"
-    fullname: >-
-      Rowan Row
-    location: "United Kingdom"
-    followers: 1265762
-    engagement: 404
-    commentsToLikes: 0.006760
-    id: ck0u6h4o621pk0i19i73sit11
+    followers: 131673
+    engagement: 630
+    commentsToLikes: 0.017745
+    id: ck6u80wpoosgu0j71xaroa02k
     verified: true
-    hashtags: "#tutorial, #iamwearingri, #besafe, #stayhomesavelives"
-  - username: "justin_stsmall"
+    hashtags: "#fitness, #londonactress, #theshaderoom, #newyorkmodels"
+  - username: "davidrinconj10"
     fullname: >-
-      Justin St Paul
+      David Rj | London Photographer
     location: "United Kingdom"
-    followers: 156856
-    engagement: 424
-    commentsToLikes: 0.016071
-    id: ck6tozzdgh25o0j71w9yu4ihp
+    followers: 2575
+    engagement: 1157
+    commentsToLikes: 0.273504
+    id: ck8t9h946o30t0j78v2blj857
     verified: false
-    hashtags: "#tb"
+    hashtags: "#timeoutlondon, #cherryblossoms, #sunsettimelapse, #worldwhiskyday"
+  - username: "roryspicer"
+    fullname: >-
+      ʀօʀʏ
+    location: "United Kingdom"
+    followers: 7480
+    engagement: 539
+    commentsToLikes: 0.013162
+    id: ck14kkg8lpy7q0i19xqnezb7d
+    verified: false
+    hashtags: "#family, #swimracing, #focus, #dedication"
+  - username: "annabel_fitness"
+    fullname: >-
+      Bel | Fitness & Health 🌸
+    location: "United Kingdom"
+    followers: 8477
+    engagement: 989
+    commentsToLikes: 0.167723
+    id: ck9hbl8wmhbwc0j78ri30x2xi
+    verified: false
+    hashtags: "#stayathomegals, #happyhumpday, #resistancebandworkout, #hairreview"
   - username: "monicaflowee"
     fullname: >-
       Flowe Monica🇨🇩
     location: "United Kingdom"
-    followers: 5787
-    engagement: 828
-    commentsToLikes: 0.106571
+    followers: 6153
+    engagement: 804
+    commentsToLikes: 0.096281
     id: ck15qrilr4ayb0i19d95r8uvu
     verified: false
-    hashtags: "#selfconfidence, #selflove"
+    hashtags: "#londonstreetstyle, #mango, #instafashion, #fashionable"
+  - username: "miss_robinson95"
+    fullname: >-
+      ❤️Miss Robinson❤️
+    location: "United Kingdom"
+    followers: 19755
+    engagement: 388
+    commentsToLikes: 0.193828
+    id: ck5zpzkhqtnd30i14x8quoee3
+    verified: false
+    hashtags: "#likeforlikes, #luxegal, #fashionista, #healthylifestyle"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Melbourne In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Melbourne in 2020. Most popular hashtags: #melbourne #ad #melbourneblogger #stayhome.
+  Find top lifestyle Instagram influencers in Melbourne in 2020. Most popular hashtags: #covid #naturalchipco #bigwaustralia #coffee.
 platform: Instagram
 profiles:
   - username: "kellykelly.h"
     fullname: >-
       K E L L Y   H O
     location: "Australia"
-    followers: 36942
-    engagement: 85
-    commentsToLikes: 0.093775
+    followers: 36620
+    engagement: 99
+    commentsToLikes: 0.102930
     id: ck14l4wa5svbd0i190oyfztsg
     verified: false
-    hashtags: "#melbourneigs, #australianinfluencer, #melbourneigers, #melbourneblog"
+    hashtags: "#australianwine, #currentmood, #austrianblogger, #fashionista"
+  - username: "annvictoriao"
+    fullname: >-
+      Ann Victoria
+    location: "Australia"
+    followers: 2305
+    engagement: 1135
+    commentsToLikes: 0.216622
+    id: ck9hbir1zh0ej0j781zf9wqeu
+    verified: false
+    hashtags: "#texturesunday, #sayaskin, #springsylookss, #kiehlsaustralia"
+  - username: "hanaramadan__"
+    fullname: >-
+      H A N A • R A M A D A N
+    location: "Australia"
+    followers: 17840
+    engagement: 179
+    commentsToLikes: 0.046947
+    id: ck0tvremdcj9z0i196jfh729z
+    verified: false
+    hashtags: "#skincarevideo, #oilyskin, #teethwhitening, #laneigelipmask"
   - username: "rhitaylor"
     fullname: >-
       Rhiannon Taylor
     location: "Australia"
-    followers: 13271
-    engagement: 496
-    commentsToLikes: 0.041410
+    followers: 15035
+    engagement: 435
+    commentsToLikes: 0.041370
     id: ck0w0jgncei9v0i197ph0r9ay
     verified: false
     hashtags: "#hirw"
-  - username: "designbyaikonik"
+  - username: "abcinmelbourne"
     fullname: >-
-      CARISSA SMART
+      ABC Melbourne
     location: "Australia"
-    followers: 95659
-    engagement: 132
-    commentsToLikes: 0.037112
-    id: ck0vvw94ur1qi0i1937kxyz5k
+    followers: 47240
+    engagement: 271
+    commentsToLikes: 0.025772
+    id: ck15rweoda16j0i19t7dou20f
+    verified: true
+    hashtags: "#tgif, #insiders, #florist, #droneshots"
+  - username: "stephily"
+    fullname: >-
+      𝖘𝖙𝖊𝖕𝖍𝖆𝖓𝖎𝖊 𝖗𝖔𝖘𝖊 🕊
+    location: "Australia"
+    followers: 24015
+    engagement: 285
+    commentsToLikes: 0.067374
+    id: ck5hdwc5mppct0i11c8jmhn6c
     verified: false
-    hashtags: "#stayhome, #iwd, #flattenthecurve, #rikilovesriki"
-  - username: "macarenapaz_xo"
+    hashtags: "#luxegal, #fibreonecollab, #bodababe, #kgactive"
+  - username: "macarenapaz.xo"
     fullname: >-
       Macarena
     location: "Australia"
-    followers: 23616
-    engagement: 312
-    commentsToLikes: 0.138092
+    followers: 23224
+    engagement: 269
+    commentsToLikes: 0.194742
     id: ck138kandgn5w0i19v036t07c
     verified: false
-    hashtags: "#melbournelockdown, #shoesandsox, #colllab, #australia"
-  - username: "stephily"
+    hashtags: "#betterbyhalf, #happymothersdaygift, #retreatyourself, #sp"
+  - username: "mystyleperspective"
     fullname: >-
-      stephanie didolis 🦋
+      N E H A
     location: "Australia"
-    followers: 23215
-    engagement: 264
-    commentsToLikes: 0.068610
-    id: ck5hdwc5mppct0i11c8jmhn6c
+    followers: 16096
+    engagement: 200
+    commentsToLikes: 0.321031
+    id: ck9wcxxljd5n10j78rwj47ul8
     verified: false
-    hashtags: "#sponsored, #bodababe, #winemachine, #bestchardyever"
+    hashtags: "#ded"
   - username: "nolan_and_us"
     fullname: >-
       Alex | Our Life In Melbourne
     location: "Australia"
-    followers: 22465
-    engagement: 237
-    commentsToLikes: 0.037809
+    followers: 21726
+    engagement: 249
+    commentsToLikes: 0.088779
     id: ck0vvxer4r75z0i19xrzwbsww
     verified: false
-    hashtags: "#discoveryunder30k, #naturalvitamine, #beautyblogger, #tictacxfreeze"
-  - username: "andrewkuypers"
+    hashtags: "#cutecatonline, #mumhacks, #shibamania, #savorycenters"
+  - username: "farrah.zaur"
     fullname: >-
-      Andrew Kuypers
+      Farrah Z
     location: "Australia"
-    followers: 5733
-    engagement: 866
-    commentsToLikes: 0.022492
-    id: ck5ccqsu6hu8f0i11ax75xf9b
+    followers: 27056
+    engagement: 392
+    commentsToLikes: 0.160519
+    id: ck9wd3mh9dxbf0j78437anf8y
     verified: false
-    hashtags: ""
-  - username: "morganwaterhouse"
-    fullname: >-
-      MORGAN WATERHOUSE †
-    location: "Australia"
-    followers: 32479
-    engagement: 493
-    commentsToLikes: 0.024553
-    id: ck5cihmewsnns0i1118b9ipfv
-    verified: false
-    hashtags: "#mistrpartner, #marriottbonvoymoments, #f1, #yougotthis"
-  - username: "fabiooliveiraweddings"
-    fullname: >-
-      Melbourne Wedding Photographer
-    location: "Australia"
-    followers: 9646
-    engagement: 453
-    commentsToLikes: 0.023441
-    id: ck6u6vrfyhzxb0j71jker8n0o
-    verified: false
-    hashtags: "#couplegoals, #dogs, #love, #engagement"
-  - username: "gentsempire"
-    fullname: >-
-      Simon | Gents Empire
-    location: "Australia"
-    followers: 21712
-    engagement: 191
-    commentsToLikes: 0.044529
-    id: ck8tbx9omxjjo0j7823gm8z9v
-    verified: false
-    hashtags: "#gentsempire"
+    hashtags: "#motherslove, #sunshine, #sadaqah, #sydneychocolate"
 ---

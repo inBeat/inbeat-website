@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Montreal In 2020
 description: >-
-  Find top models Instagram influencers in Montreal in 2020. Most popular hashtags: #montreal #model #photoshoot #quarantine.
+  Find top models Instagram influencers in Montreal in 2020. Most popular hashtags: #model #nature #flowers #mtlblog.
 platform: Instagram
 profiles:
   - username: "lisamaartinez"
     fullname: >-
       Olmands
     location: "Canada"
-    followers: 2477
-    engagement: 1670
-    commentsToLikes: 0.031032
+    followers: 2466
+    engagement: 1741
+    commentsToLikes: 0.034896
     id: ck5hs2garvvl70i11qt2xmi56
     verified: false
     hashtags: ""
-  - username: "therubygore"
+  - username: "milocurls"
     fullname: >-
-      𝑹𝑼𝑩𝒀 𝑮𝑶𝑹𝑬 🕷
+      Milo | Kid Model | Montreal
     location: "Canada"
-    followers: 42037
-    engagement: 92
-    commentsToLikes: 0.011461
-    id: ck55klzwezmq90i112lqh2ibz
+    followers: 2360
+    engagement: 885
+    commentsToLikes: 0.228524
+    id: ckaowqtbia1ao0i78z4exwis6
     verified: false
-    hashtags: "#neotraditionaltattoo, #vegantattoo, #girlswithtattoos, #manicpanic"
+    hashtags: "#smile, #happyquotes, #montrealmoments, #laugh"
   - username: "curtismason"
     fullname: >-
       Curtis Mason
     location: "Canada"
-    followers: 6005
-    engagement: 1648
-    commentsToLikes: 0.034934
+    followers: 6112
+    engagement: 1657
+    commentsToLikes: 0.033079
     id: ck6ubucspbrhx0j71xehwccu8
     verified: false
     hashtags: ""
-  - username: "yolieyolandaxo"
+  - username: "florencemrtl"
     fullname: >-
-      Yolanda
+      FLORENCE MARTEL
     location: "Canada"
-    followers: 15740
-    engagement: 436
-    commentsToLikes: 0.047830
-    id: ck8szv4sopts40j78v3zflmbw
+    followers: 6413
+    engagement: 1242
+    commentsToLikes: 0.272789
+    id: ckapbmk5g0gfp0i7814gcjzli
     verified: false
-    hashtags: "#newyear2020"
-  - username: "prissworldwide"
+    hashtags: "#spring, #moods, #skincare, #achatlocal"
+  - username: "evangeli_anteros"
     fullname: >-
-      Hey it’s PRISS 🖤🖤
+      ☆Evangeli Anteros☆
     location: "Canada"
-    followers: 2173
-    engagement: 1493
-    commentsToLikes: 0.074921
-    id: ck8swql75ewbw0j785kkimjt2
+    followers: 22521
+    engagement: 564
+    commentsToLikes: 0.040299
+    id: ck5q3cwksk99w0i11fukbvaz5
     verified: false
-    hashtags: "#meditation, #night, #photographer, #bluemood"
-  - username: "sam_finn_"
+    hashtags: "#sanddunes, #chill, #coconutoil, #butterfly"
+  - username: "libartystudios"
     fullname: >-
-      Samuel Finn
+      Libarty®
     location: "Canada"
-    followers: 10255
-    engagement: 1299
-    commentsToLikes: 0.040273
-    id: ck5c3sovzzzb50i11zharuj2z
+    followers: 33191
+    engagement: 208
+    commentsToLikes: 0.039401
+    id: ck15pthubzjl50i19tb6zunu7
     verified: false
-    hashtags: "#bestcoworkersever, #burpees4ced"
-  - username: "kenzaachiha"
-    fullname: >-
-      Kenza Chiha
-    location: "Canada"
-    followers: 203105
-    engagement: 287
-    commentsToLikes: 0.005664
-    id: ck139tgdtn12f0i19skwi3mz8
-    verified: false
-    hashtags: "#thankumomanddad, #quarantinelife, #memories, #chillvibes"
-  - username: "imvelvetbones"
-    fullname: >-
-      ♥ Velvet Bones ♥
-    location: "Canada"
-    followers: 13948
-    engagement: 749
-    commentsToLikes: 0.050670
-    id: ck5pzvs7y2zq20i11oi0du2mr
-    verified: false
-    hashtags: "#rip"
-  - username: "mariechristinelab"
-    fullname: >-
-      Marie-Christine Labonté
-    location: "Canada"
-    followers: 12704
-    engagement: 629
-    commentsToLikes: 0.062699
-    id: ck5c1p2rgvmxi0i11viuoppwe
-    verified: false
-    hashtags: "#wedding, #osheaga2019, #experienceosheaga"
+    hashtags: "#maleportrait, #montreal, #model, #fujifilmxt3"
   - username: "mtlpancakequeen"
     fullname: >-
       Pancake Queen
     location: "Canada"
-    followers: 5521
-    engagement: 598
-    commentsToLikes: 0.374754
+    followers: 5625
+    engagement: 564
+    commentsToLikes: 0.255735
     id: ck5cakztqdlw00i112ptviibo
     verified: false
-    hashtags: "#foodstagram, #instafood, #bestboyfriend, #valentines"
+    hashtags: "#lunchtime, #matchalover, #healthyfood, #mtldesserts"
+  - username: "ankh_one"
+    fullname: >-
+      Ankhone Artiste
+    location: "Canada"
+    followers: 3430
+    engagement: 847
+    commentsToLikes: 0.079685
+    id: ck14hz77qcvni0i19d6ph63bq
+    verified: false
+    hashtags: "#mileend, #influencer, #newconcept, #abstractflowers"
+  - username: "sam_finn_"
+    fullname: >-
+      Samuel Finn
+    location: "Canada"
+    followers: 10003
+    engagement: 1202
+    commentsToLikes: 0.037257
+    id: ck5c3sovzzzb50i11zharuj2z
+    verified: false
+    hashtags: "#bestcoworkersever, #burpees4ced, #sponsored"
+  - username: "mystikopoulos"
+    fullname: >-
+      Mystikopoulos Photography
+    location: "Canada"
+    followers: 3508
+    engagement: 1270
+    commentsToLikes: 0.160845
+    id: ck5zpvthitg520i143wv1b8f2
+    verified: false
+    hashtags: "#museum, #icapture, #killeverygram, #igtravel"
 ---

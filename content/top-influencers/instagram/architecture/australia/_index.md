@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Australia In 2020
 description: >-
-  Find top architecture Instagram influencers in Australia in 2020. Most popular hashtags: #italy #australianarchitecture #architecture #tree.
+  Find top architecture Instagram influencers in Australia in 2020. Most popular hashtags: #lestweforget #contemporaryart #anzacbridge #street.
 platform: Instagram
 profiles:
   - username: "aliceroberts_"
     fullname: >-
       |ALICE PAOLI ROBERTS|
     location: "Australia"
-    followers: 488089
-    engagement: 268
-    commentsToLikes: 0.018653
+    followers: 480870
+    engagement: 243
+    commentsToLikes: 0.016555
     id: ck0tsjiet01lz0i19z0yvxx03
     verified: false
-    hashtags: "#return2lurline, #whitefoxoasis"
+    hashtags: "#whitefoxoasis"
   - username: "janbreckwoldt_photography"
     fullname: >-
       Jan Breckwoldt
     location: "Australia"
-    followers: 6611
-    engagement: 1252
-    commentsToLikes: 0.070229
+    followers: 10243
+    engagement: 961
+    commentsToLikes: 0.064634
     id: ck5cc62vhgsbm0i113kjfjb6w
     verified: false
-    hashtags: "#sydneystravel, #sigmaphoto, #igerssouthcoastnsw, #unearthcentralnsw"
+    hashtags: "#valgardena, #explore, #street, #ruralaustralia"
   - username: "brisvegasdad"
     fullname: >-
       BrisVegas Dad
     location: "Australia"
-    followers: 13122
-    engagement: 767
-    commentsToLikes: 0.061003
+    followers: 13396
+    engagement: 837
+    commentsToLikes: 0.065913
     id: ck0w5k7t441rl0i192x48taum
     verified: false
-    hashtags: "#milleniumfalcon, #champagnepool, #wearetravelgays, #callofthewild"
-  - username: "__k__i__a__h__"
+    hashtags: "#vancouvercanada, #stayathome, #weekendfun, #disneylife"
+  - username: "minghan1004"
     fullname: >-
-      K I A H
+      Malaysia | Travel & Explore 🌏
     location: "Australia"
-    followers: 22537
-    engagement: 892
-    commentsToLikes: 0.019186
-    id: ck5zpneb2szar0i14wp7qtvyp
+    followers: 2928
+    engagement: 2093
+    commentsToLikes: 0.116582
+    id: ckaortdemonvl0i78xdxywvkk
     verified: false
-    hashtags: "#bondspride, #wfh, #wfm, #outnow"
-  - username: "uma.jeyaseelan"
+    hashtags: "#nightscape, #travelitaly, #cityview, #asiatravels"
+  - username: "_nancy_dc"
     fullname: >-
-      By Uma ©
+      NANCY | Currently in Budapest
     location: "Australia"
-    followers: 18129
-    engagement: 232
-    commentsToLikes: 0.054291
-    id: ck602llkdhvlh0i1457hyrvfx
+    followers: 54182
+    engagement: 267
+    commentsToLikes: 0.033289
+    id: ck0vwd0s9t59g0i19hg91bu7x
     verified: false
-    hashtags: "#tree, #valentinesiscoming, #linkinbio, #photoshop"
-  - username: "johngollings"
+    hashtags: "#adorama, #beautifuldestinations, #worldnomads, #next"
+  - username: "shaynebrooksimpson"
     fullname: >-
-      John Gollings
+      S H A Y N E | B R O O K
     location: "Australia"
-    followers: 21248
-    engagement: 281
-    commentsToLikes: 0.038194
-    id: ck0vyxk8p69y60i190kierm0c
+    followers: 42520
+    engagement: 209
+    commentsToLikes: 0.011253
+    id: ck5c09seispm70i11vh21hzut
     verified: false
-    hashtags: "#dentoncorkermarshall, #abstractphotography, #victoriaarchitecture, #visitsydney"
-  - username: "megalithicmarvels"
+    hashtags: "#dontarguewithyourbody, #microbag, #selfiemode, #artandfashion"
+  - username: "koola.suchus"
     fullname: >-
-      Megalithic Marvels
+      Koolasuchus
     location: "Australia"
-    followers: 77875
-    engagement: 687
-    commentsToLikes: 0.009840
-    id: ck135kxvg1x9z0i19267py693
+    followers: 19935
+    engagement: 1353
+    commentsToLikes: 0.015305
+    id: ckaoqqv7pjxye0i78j2unequ3
     verified: false
-    hashtags: "#dronevideo, #ancientworld, #cornwallcoast, #bolivia"
-  - username: "modernister"
-    fullname: >-
-      Tim Ross.
-    location: "Australia"
-    followers: 68817
-    engagement: 165
-    commentsToLikes: 0.050485
-    id: ck0ucobsdhbe70i19607e483d
-    verified: true
-    hashtags: "#lifebeinit, #30daylegochallenge"
-  - username: "stephentraversart"
-    fullname: >-
-      Stephen Travers
-    location: "Australia"
-    followers: 54217
-    engagement: 445
-    commentsToLikes: 0.021635
-    id: ck0u7upwb5p4r0i19zi7agisr
-    verified: false
-    hashtags: "#draws, #sketchy, #sketchinglesson, #sketching"
+    hashtags: "#instasculpture, #sculptureart, #interiorspace, #lightplay"
   - username: "adamkanearchitects"
     fullname: >-
       Adam Kane Architects
     location: "Australia"
-    followers: 23611
-    engagement: 302
-    commentsToLikes: 0.021853
+    followers: 24679
+    engagement: 316
+    commentsToLikes: 0.023885
     id: ck0w3xhxlvsa80i19rgqkfnug
     verified: false
-    hashtags: "#interiordesign, #australianarchitecture, #bathroom, #homestyle"
+    hashtags: "#homedesign, #interieur, #kitchen, #floorplan"
+  - username: "johngollings"
+    fullname: >-
+      John Gollings
+    location: "Australia"
+    followers: 21740
+    engagement: 266
+    commentsToLikes: 0.033777
+    id: ck0vyxk8p69y60i190kierm0c
+    verified: false
+    hashtags: "#photography, #melbourneuni, #contemporaryart, #broadmeadows"
+  - username: "robinson_architects"
+    fullname: >-
+      Jolyon Robinson
+    location: "Australia"
+    followers: 35424
+    engagement: 515
+    commentsToLikes: 0.018688
+    id: ck6tqt5uou0z00j71wip78n4j
+    verified: false
+    hashtags: ""
 ---

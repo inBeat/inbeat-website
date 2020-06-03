@@ -1,76 +1,66 @@
 ---
 title: Top 10 Surf Instagram Influencers In 2020
 description: >-
-  Find top surf Instagram influencers in 2020. Most popular hashtags: #ad #danceinpublic #wyattgradisnik #dance.
+  Find top surf Instagram influencers in 2020. Most popular hashtags: #beachbreak # #unawatunabeach #naturalportrait.
 platform: Instagram
 profiles:
   - username: "raonimonteirooficial"
     fullname: >-
       Raoni Monteiro
     location: "Brazil"
-    followers: 38931
-    engagement: 506
-    commentsToLikes: 0.040637
+    followers: 38816
+    engagement: 469
+    commentsToLikes: 0.043480
     id: ck0tz0wxbopny0i19n644y3kd
     verified: true
-    hashtags: "#saquarema, #localsonly, #fam, #novacbsurfja"
-  - username: "danikafieldsforever"
+    hashtags: "#fam, #novacbsurfja, #localsonly, #aproveitaqpassarapido"
+  - username: "surf___world"
     fullname: >-
-      DANIKA FIELDS🦋creative artist
+      SURF
     location: "United States"
-    followers: 18296
-    engagement: 989
-    commentsToLikes: 0.091253
-    id: ck0w4kxujz37l0i19rgu7r93n
+    followers: 58752
+    engagement: 331
+    commentsToLikes: 0.007669
+    id: ck14lqq72w0l80i19nle0kkip
     verified: false
-    hashtags: ""
+    hashtags: "#snow, #snowboardlove, #snowboarder, #skatevideo"
+  - username: "18secondsmagazine"
+    fullname: >-
+      SURF
+    location: "Australia"
+    followers: 77687
+    engagement: 256
+    commentsToLikes: 0.010775
+    id: ck0txat4qiiw00i19k8s1lo5t
+    verified: false
+    hashtags: "#goprohero8"
   - username: "sabrenorris"
     fullname: >-
       S A B R E   N O R R I S
-    location: ""
-    followers: 703045
-    engagement: 1387
-    commentsToLikes: 0.047357
+    location: "United States"
+    followers: 747195
+    engagement: 1358
+    commentsToLikes: 0.048515
     id: ck14lsvucwb9s0i19233rnyf6
     verified: true
-    hashtags: "#imdoingitfor, #ad, #woolworths, #legends"
-  - username: "repkatieporter"
+    hashtags: "#ad, #woolworths, #legends, #proud"
+  - username: "gioingeo_"
     fullname: >-
-      Rep. Katie Porter
-    location: "United States"
-    followers: 65545
-    engagement: 636
-    commentsToLikes: 0.044277
-    id: ck137zia6drv40i197r5im4e8
-    verified: true
-    hashtags: "#grace4pres, #ca45, #mlkday2020, #womensmarch"
-  - username: "todiih"
-    fullname: >-
-      F e l i p e   L o u r e n ç o
-    location: "Brazil"
-    followers: 8971
-    engagement: 1324
-    commentsToLikes: 0.105877
-    id: ck6uguwvz5b8e0j71u6d8okb2
+      Giorgia |Full-time Backpacker🌏
+    location: "Italy"
+    followers: 2424
+    engagement: 3057
+    commentsToLikes: 0.161437
+    id: ckap9uk5ftp040i78him1qlzn
     verified: false
-    hashtags: "#tbt, #forabolsonaro, #forabozo, #emcasa"
-  - username: "marshallgradisnik"
-    fullname: >-
-      Wyatt 🇦🇺
-    location: "Australia"
-    followers: 21751
-    engagement: 868
-    commentsToLikes: 0.231381
-    id: ck15uf48cmvfc0i19eqhu5yzq
-    verified: false
-    hashtags: "#falltrending, #daveblakephoto, #eurostyling, #closeupshots"
+    hashtags: "#openocean, #sudestasiatico, #travelp, #endlessocean"
   - username: "daniellesoceanwanders"
     fullname: >-
       💦✨
     location: ""
-    followers: 12007
-    engagement: 1540
-    commentsToLikes: 0.067994
+    followers: 11797
+    engagement: 1555
+    commentsToLikes: 0.069782
     id: ck5cjsg79veps0i11xe9qz83h
     verified: false
     hashtags: ""
@@ -78,9 +68,9 @@ profiles:
     fullname: >-
       N A Z    N O R R I S
     location: ""
-    followers: 543313
-    engagement: 1550
-    commentsToLikes: 0.040393
+    followers: 589034
+    engagement: 1507
+    commentsToLikes: 0.043837
     id: ck14lswjzwbdj0i19uzafvpr5
     verified: false
     hashtags: ""
@@ -88,20 +78,30 @@ profiles:
     fullname: >-
       Jenna Davis
     location: "United States"
-    followers: 933089
-    engagement: 611
-    commentsToLikes: 0.032096
+    followers: 1072676
+    engagement: 658
+    commentsToLikes: 0.032724
     id: ck5c6s42q62vi0i11usj3mzqx
     verified: true
-    hashtags: "#savage, #imasavage, #thisisme, #squad"
-  - username: "allonsrider"
+    hashtags: "#sweetsixteen"
+  - username: "marshallgradisnik"
     fullname: >-
-      Manon Lanza
-    location: "France"
-    followers: 138617
-    engagement: 729
-    commentsToLikes: 0.033271
-    id: ck0ttg3442kb90i19nkkbvun9
+      Wyatt 🇦🇺
+    location: "Australia"
+    followers: 22225
+    engagement: 855
+    commentsToLikes: 0.236753
+    id: ck15uf48cmvfc0i19eqhu5yzq
     verified: false
-    hashtags: "#stayathome, #ootd, #teasing, #movetoreconnect"
+    hashtags: "#modeling, #avenuemontaigne, #amourparis, #parisianamour"
+  - username: "repkatieporter"
+    fullname: >-
+      Rep. Katie Porter
+    location: "United States"
+    followers: 74954
+    engagement: 647
+    commentsToLikes: 0.043573
+    id: ck137zia6drv40i197r5im4e8
+    verified: true
+    hashtags: "#mlkday2020, #internationalholocaustremembranceday, #valentinesforvets, #2020census"
 ---

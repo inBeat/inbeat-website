@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Malaysia In 2020
 description: >-
-  Find top cooking Instagram influencers in Malaysia in 2020. Most popular hashtags: #stayhome #stayathome #tiktok #staysafe.
+  Find top cooking Instagram influencers in Malaysia in 2020. Most popular hashtags: #cooking #staystrong #stayhome #tiktok.
 platform: Instagram
 profiles:
-  - username: "khalishan.alias"
+  - username: "babyjen_jennyma"
     fullname: >-
-      T A R Z A N
+      💁🏻‍♀️让我为你的品牌讲故事吧📹𝕀𝕟𝕗𝕝𝕦𝕖𝕟𝕔𝕖𝕣✏️
     location: "Malaysia"
-    followers: 21603
-    engagement: 716
-    commentsToLikes: 0.034730
-    id: ck8t8fdtok96j0j78skxz4v9y
+    followers: 36397
+    engagement: 134
+    commentsToLikes: 0.061097
+    id: ck5hdx09apt4t0i11geeilkkw
     verified: false
-    hashtags: "#istayathome, #trasformationtuesday, #cooking, #staystrong"
-  - username: "scxkl_sammy"
+    hashtags: "#ilovedessert, #hairoil, #picarts, #uniquegiftideas"
+  - username: "aleyalee"
     fullname: >-
-      Sammy a.k.a SamGor
+      aleyalee
     location: "Malaysia"
-    followers: 93049
-    engagement: 115
-    commentsToLikes: 0.043755
-    id: ck5q8251g43z10i11n097t6lw
+    followers: 24234
+    engagement: 494
+    commentsToLikes: 0.017175
+    id: ck6tigsvo0ouc0j71ui3edjhb
     verified: false
-    hashtags: "#scxkltravels, #koreancosmetics, #liangkheetomyum, #myschemingmalaysia"
-  - username: "peterhughdavis"
+    hashtags: "#sambalkentang, #tiktok, #repost, #kaftanmurah"
+  - username: "dearcristina"
     fullname: >-
-      🇲🇾 Davis 🇬🇧
+      CRISTINA CHEW | Modest Fashion
     location: "Malaysia"
-    followers: 38414
-    engagement: 178
-    commentsToLikes: 0.092245
-    id: ck134fmy3w77o0i194nv4in5z
-    verified: true
-    hashtags: "#wantonmee, #hilo, #onset, #flightjacket"
-  - username: "benyeo23"
-    fullname: >-
-      Ben Yeo Official
-    location: "Malaysia"
-    followers: 79216
-    engagement: 143
-    commentsToLikes: 0.042154
-    id: ck6tjmust30uv0j71u8f80pfs
-    verified: true
-    hashtags: "#passion, #staysafe, #chickenstew, #imstayinghome"
-  - username: "mumbaifeast"
-    fullname: >-
-      Pooja Ramani
-    location: "Malaysia"
-    followers: 21524
-    engagement: 1651
-    commentsToLikes: 0.006670
-    id: ck5zza79sbdbt0i14gldrnb8n
+    followers: 63149
+    engagement: 165
+    commentsToLikes: 0.053752
+    id: ck6tqd611qrtu0j71yyygsy5i
     verified: false
-    hashtags: "#selfrspctmre, #gulabjamun, #bihu, #rockenjoyee"
-  - username: "amberchia"
+    hashtags: "#koreanstyles, #makeupaddicted, #rayasale, #tiktokasia"
+  - username: "mayablogs"
     fullname: >-
-      Amber Chia
+      Maya Khan
     location: "Malaysia"
-    followers: 261968
-    engagement: 86
-    commentsToLikes: 0.037114
-    id: ck135jpf41rpn0i19puvo5eii
-    verified: true
-    hashtags: "#throwback, #naturallatexmattress, #ikoin, #ashtonwong"
-  - username: "bomd13"
+    followers: 6835
+    engagement: 782
+    commentsToLikes: 0.388202
+    id: ck9wgy3wevgkm0j78bc2z5s8h
+    verified: false
+    hashtags: "#chocolateria, #lockdown2020, #millionsofmeals, #instagood"
+  - username: "redzuanmanaf"
     fullname: >-
-      Gogo Atom.Bomd🐻
+      Redzuan Abd Manaf
     location: "Malaysia"
-    followers: 26298
+    followers: 49617
+    engagement: 176
+    commentsToLikes: 0.077649
+    id: ckap6yg0yhvxx0i789gb4vi9h
+    verified: false
+    hashtags: "#little, #goodmorning, #ktmb, #simple"
+  - username: "ora.della"
+    fullname: >-
+      
+    location: "Malaysia"
+    followers: 23856
+    engagement: 730
+    commentsToLikes: 0.025011
+    id: ck8t4fqdt6mme0j78ri91pcpg
+    verified: false
+    hashtags: "#hairstyle, #happybirthday, #bolehkah, #friends"
+  - username: "kuna_saundarajan"
+    fullname: >-
+      Kuna Saundarajan
+    location: "Malaysia"
+    followers: 39013
+    engagement: 1111
+    commentsToLikes: 0.008107
+    id: ck5c28grlwr280i11jfgz7fk5
+    verified: false
+    hashtags: "#shihtzu, #newyear, #mcokindanewyear, #vegetarian"
+  - username: "rockyandmayur"
+    fullname: >-
+      Rocky Singh & Mayur Sharma
+    location: "Malaysia"
+    followers: 88207
     engagement: 166
-    commentsToLikes: 0.046756
-    id: ck6uih4yrf21d0j715ut4pk0g
-    verified: false
-    hashtags: "#ajpartyking, #happyweekend, #harness, #mermaid"
-  - username: "pojie.pidon"
+    commentsToLikes: 0.042574
+    id: ck5ccij46hfeh0i11tr9omnxo
+    verified: true
+    hashtags: "#nomnom, #healthyeating, #likeforlikes, #goafood"
+  - username: "pandelela"
     fullname: >-
-      𝓜𝓸𝓱𝓭 𝓕𝓪𝓾𝔃𝓲 𝓑𝓲𝓷 𝓐𝓶𝓲𝓭𝓮𝓷  🚭
+      𝕻𝖆𝖓𝖉𝖊𝖑𝖊𝖑𝖆 𝕽𝖎𝖓𝖔𝖓𝖌
     location: "Malaysia"
-    followers: 40115
-    engagement: 121
-    commentsToLikes: 0.048782
-    id: ck8t5f63w9yez0j787lz0ni9i
-    verified: false
-    hashtags: "#abambocey, #pendosa, #2bulan, #yangterindah"
-  - username: "sibungbung"
+    followers: 228564
+    engagement: 133
+    commentsToLikes: 0.009147
+    id: ck6uebg1hpxur0j71v3d0gv0h
+    verified: true
+    hashtags: "#bedisciplined, #justdoit, #stjohnambulance, #laborday"
+  - username: "sheila_khan"
     fullname: >-
-      Sibungbung|Jkt Food Aficionado
+      Sheila Khan D’Alessandro
     location: "Malaysia"
-    followers: 338782
-    engagement: 227
-    commentsToLikes: 0.014671
-    id: ck15unbyyo0bf0i19huyeotb5
+    followers: 49869
+    engagement: 113
+    commentsToLikes: 0.025857
+    id: ck5zsxk68zdad0i14gpsx7n6w
     verified: false
-    hashtags: "#igfood, #laperbaper, #socialdistancing, #restoonline"
-  - username: "cravefood_instyle"
-    fullname: >-
-      LONDON Food & Hotels
-    location: "Malaysia"
-    followers: 38799
-    engagement: 110
-    commentsToLikes: 0.008205
-    id: ck6ugrl2m4qt30j71zvlx1su2
-    verified: false
-    hashtags: "#londonpics, #sticksnsushilondon, #londonlife, #cravefood"
+    hashtags: "#jeffreystarcosmetics, #bookstagram, #selflove, #quarantinelife"
 ---

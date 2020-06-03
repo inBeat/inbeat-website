@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gaming Instagram Influencers In Germany In 2020
 description: >-
-  Find top gaming Instagram influencers in Germany in 2020. Most popular hashtags: #gamergirl #ootd #germany #photography.
+  Find top gaming Instagram influencers in Germany in 2020. Most popular hashtags: #nintendolife #gaminglife #gamecollector #stayhome.
 platform: Instagram
 profiles:
   - username: "serenagalway"
     fullname: >-
       Youtuber / Gamer
     location: "Germany"
-    followers: 16385
-    engagement: 2324
-    commentsToLikes: 0.065575
+    followers: 16392
+    engagement: 2341
+    commentsToLikes: 0.065340
     id: ck0u9hx7i9x610i19eprtbqle
     verified: false
-    hashtags: "#outfittoday, #selfiee, #newcamera, #happinessiskey"
+    hashtags: "#yogaclothes, #portraiture, #tattooedladies, #germanygirl"
   - username: "purple.gaming"
     fullname: >-
-      🎮Lena🎮
+      
     location: "Germany"
-    followers: 39052
-    engagement: 673
-    commentsToLikes: 0.066361
+    followers: 43236
+    engagement: 576
+    commentsToLikes: 0.063231
     id: ck8td9nnc2gsg0j78dojzabgy
     verified: false
-    hashtags: "#girlgaming, #indiegame, #codmobilecomminty, #geekgirls"
+    hashtags: "#fifa20, #mhwi, #callofduty4, #instagamerspain"
   - username: "jasmine_ninnemann"
     fullname: >-
-      Jasmine🌸lvl.28🌸Germany🌸Artist
+      Jasmine🌸lvl.29🌸Germany🌸Artist
     location: "Germany"
-    followers: 2612
-    engagement: 2107
-    commentsToLikes: 0.238486
+    followers: 2794
+    engagement: 1986
+    commentsToLikes: 0.230549
     id: ck15s5kckbc0k0i19ar01s1ic
     verified: false
-    hashtags: "#giveaway, #beauty, #strangerthings3, #fallinspiration"
-  - username: "miesilein"
-    fullname: >-
-      Fabienne 🤡
-    location: "Germany"
-    followers: 6628
-    engagement: 2271
-    commentsToLikes: 0.054854
-    id: ck14ky9f9rxe40i19noy1zar9
-    verified: false
-    hashtags: "#harleyquinnfan, #rockon, #rockmusic, #metalstyle"
+    hashtags: "#nerdmakeup, #facepainting, #opvbeauty, #ghostmakeup"
   - username: "zanzarahamzocken"
     fullname: >-
       Zanzarah
     location: "Germany"
-    followers: 8778
-    engagement: 959
-    commentsToLikes: 0.101015
+    followers: 8933
+    engagement: 967
+    commentsToLikes: 0.097041
     id: ck134nye6xcef0i19hb863zv3
     verified: false
-    hashtags: "#youtuber, #wahlen, #hamburgmeineperle, #playmobil"
+    hashtags: "#girlsday, #altgrrrl, #liebe, #ichliebesie"
   - username: "donlou_life"
     fullname: >-
       Streetstyle💯Sneakershead💯Food
     location: "Germany"
-    followers: 5281
-    engagement: 1010
-    commentsToLikes: 0.156014
+    followers: 5152
+    engagement: 1007
+    commentsToLikes: 0.144650
     id: ck8tbs4ilwwx00j78ngjl8do6
     verified: false
-    hashtags: "#styleoftheday, #fashionkilla, #nike, #thankyou"
+    hashtags: "#travelandlife, #outfitsociety, #whatiwore, #fashionweek"
+  - username: "jovlekaline"
+    fullname: >-
+      Nina
+    location: "Germany"
+    followers: 9150
+    engagement: 2302
+    commentsToLikes: 0.032693
+    id: ck9h9q0vm9i1h0j78ua9r8lqo
+    verified: false
+    hashtags: "#halbzeit, #catlover, #tattoo, #hoodie"
   - username: "cheveya_cosplay"
     fullname: >-
       Joleen
     location: "Germany"
-    followers: 4953
-    engagement: 1974
-    commentsToLikes: 0.035053
+    followers: 5431
+    engagement: 1959
+    commentsToLikes: 0.042136
     id: ck8td3f7h1p9f0j78648wrsy1
     verified: false
-    hashtags: "#punkrock, #water, #makeup, #ourlastnight"
-  - username: "vanz_ventura"
+    hashtags: "#drawing, #psianacosplay, #yuna, #makeup"
+  - username: "satanspg"
     fullname: >-
-      
+      Satans Playground
     location: "Germany"
-    followers: 10254
-    engagement: 627
-    commentsToLikes: 0.191432
-    id: ck6ufiou4xaa30j71e0pwqnns
+    followers: 4295
+    engagement: 2654
+    commentsToLikes: 0.064044
+    id: ck5q4pciipsxh0i117xl5q1fm
     verified: false
-    hashtags: "#ootdmagazine, #art, #casualstyle, #sneakerlover"
-  - username: "doktor_froid"
+    hashtags: "#metalchick, #drmartensstyle, #cleansetup, #gamerpet"
+  - username: "jazzmilczeniebaranow"
     fullname: >-
-      Doktor Froid
+      Jazz | Content Creator | Gamer
     location: "Germany"
-    followers: 17900
-    engagement: 656
-    commentsToLikes: 0.129641
-    id: ck0tyibgrmy1j0i19tx14jywf
+    followers: 7067
+    engagement: 1743
+    commentsToLikes: 0.034470
+    id: ck9wfmxwrpkbj0j780rhecquo
     verified: false
-    hashtags: "#ootd, #squareenix, #silver, #froidnachten"
-  - username: "eismelone"
+    hashtags: "#neonlights, #animalcrossing, #gamingmerch, #gamerlife"
+  - username: "juliversal"
     fullname: >-
-      Leonie
+      Julie
     location: "Germany"
-    followers: 13694
-    engagement: 1866
-    commentsToLikes: 0.012215
-    id: ck15tkx72ikvu0i19wtmu4ei1
+    followers: 5175
+    engagement: 2230
+    commentsToLikes: 0.031636
+    id: ck9wevjllm1130j78pzc9gcb5
     verified: false
-    hashtags: ""
+    hashtags: "#release, #songofhorror, #corona, #brezel"
 ---

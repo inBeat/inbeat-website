@@ -1,46 +1,76 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Portugal In 2020
 description: >-
-  Find top dancers Instagram influencers in Portugal in 2020. Most popular hashtags: #portugal #stayhome #dance #lisbon.
+  Find top dancers Instagram influencers in Portugal in 2020. Most popular hashtags: #fashionista #homemade #fashion #blond.
 platform: Instagram
 profiles:
+  - username: "camilaenribeiro4"
+    fullname: >-
+      𝐂𝐀𝐌𝐈𝐋𝐀 𝐑𝐈𝐁𝐄𝐈𝐑𝐎
+    location: "Portugal"
+    followers: 11691
+    engagement: 1448
+    commentsToLikes: 0.156284
+    id: ck8t6vzaoevei0j78vudxk1mz
+    verified: false
+    hashtags: "#lookoftheday, #carnaval2020, #mylook, #instastyle"
   - username: "caro.lina.gil"
     fullname: >-
       Cäro
     location: "Portugal"
-    followers: 9858
-    engagement: 1403
-    commentsToLikes: 0.083617
+    followers: 9654
+    engagement: 1433
+    commentsToLikes: 0.083478
     id: ck0u0x6rzv5ow0i19vvpq2udd
     verified: false
-    hashtags: "#curingcancer, #frontsplit, #stretching, #curingsleep"
+    hashtags: "#door, #graffiti, #loveyourself, #caisdosodre"
+  - username: "allexiamatos"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  Alexia Matos
+    location: "Portugal"
+    followers: 6705
+    engagement: 548
+    commentsToLikes: 0.205369
+    id: ck9wfei37oijr0j780e5jarud
+    verified: false
+    hashtags: "#hapyness, #receitas, #happymoments, #vaificartudobem"
+  - username: "claudiadias.oficial"
+    fullname: >-
+      𝙲𝚕𝚊𝚞𝚍𝚒𝚊 𝙳𝚒𝚊𝚜
+    location: "Portugal"
+    followers: 34298
+    engagement: 1428
+    commentsToLikes: 0.002823
+    id: ck13bn882w8ri0i19lsl0rjse
+    verified: false
+    hashtags: ""
   - username: "carolinatabarramendes"
     fullname: >-
       Carolina Mendes
     location: "Portugal"
-    followers: 7911
-    engagement: 1371
-    commentsToLikes: 0.010414
+    followers: 7774
+    engagement: 1074
+    commentsToLikes: 0.016181
     id: ck0tzqh04r6y00i19a0uhira1
     verified: false
-    hashtags: "#premiosimpala, #orgulhosamentesumol, #cocreatorbysumol, #tb"
+    hashtags: "#sumolsummerfest, #boutiquedosrelogios, #tb, #loveofmylife"
   - username: "house.of.labs"
     fullname: >-
       House of Labs
     location: "Portugal"
-    followers: 41837
-    engagement: 181
-    commentsToLikes: 0.029540
+    followers: 41074
+    engagement: 119
+    commentsToLikes: 0.019971
     id: ck5hk1bixhm670i11pqnao483
     verified: false
-    hashtags: "#menstyle, #musicistheanswer, #bestshootoftheday, #progressivehouse"
+    hashtags: "#empaz"
   - username: "sergioalegria22"
     fullname: >-
       Sérgio Alegria
     location: "Portugal"
-    followers: 5263
-    engagement: 1474
-    commentsToLikes: 0.036785
+    followers: 5226
+    engagement: 1485
+    commentsToLikes: 0.041997
     id: ck0tzqg9cr6uz0i198q432ez4
     verified: false
     hashtags: ""
@@ -48,60 +78,30 @@ profiles:
     fullname: >-
       Gina_Zafeiroudi🍑
     location: "Portugal"
-    followers: 2584
-    engagement: 1584
-    commentsToLikes: 0.086617
+    followers: 2577
+    engagement: 1676
+    commentsToLikes: 0.082451
     id: ck5pw20rlkpx20i116j9l419h
     verified: false
-    hashtags: "#visitazores, #saomiguel, #newyear, #atlanticocean"
+    hashtags: "#bomdia, #love, #homesweethome, #houseportrait"
   - username: "its_joanasousa"
     fullname: >-
       Joana Sousa (Mrs_skinny)
     location: "Portugal"
-    followers: 57161
-    engagement: 772
-    commentsToLikes: 0.015446
+    followers: 56511
+    engagement: 722
+    commentsToLikes: 0.015095
     id: ck5qc3u1ooq0t0i11crf8nbu5
     verified: false
-    hashtags: "#lisbon, #angola, #brazil, #mcjottape"
-  - username: "jessiicasilva10"
+    hashtags: "#thursday, #mcbryan, #friday, #eternasacanagem"
+  - username: "dianamatos"
     fullname: >-
-      Jéssica Silva
+      DIANA MATOS
     location: "Portugal"
-    followers: 103036
-    engagement: 445
-    commentsToLikes: 0.012547
-    id: ck5c7663w6w970i11kxlbawwu
+    followers: 118674
+    engagement: 604
+    commentsToLikes: 0.014913
+    id: ck5c9escvbax90i11ok8snu5w
     verified: true
-    hashtags: "#sealovers, #noonecanplaymypart, #warm, #styledbyjs10"
-  - username: "_andrebrito_"
-    fullname: >-
-      André Brito
-    location: "Portugal"
-    followers: 12176
-    engagement: 331
-    commentsToLikes: 0.031128
-    id: ck5pzko9p1fzv0i11lu61z9qt
-    verified: false
-    hashtags: "#bwphotography, #naturallook, #sessions, #ballerina"
-  - username: "tjwellness"
-    fullname: >-
-      Tine Johansen
-    location: "Portugal"
-    followers: 24155
-    engagement: 220
-    commentsToLikes: 0.253903
-    id: ck55j3pm1w6vr0i118gtnv0po
-    verified: false
-    hashtags: "#selflove, #kidsyoga, #dancervariation, #aloyogachallenge"
-  - username: "thiswhimsyme"
-    fullname: >-
-      Sara Paz
-    location: "Portugal"
-    followers: 118727
-    engagement: 588
-    commentsToLikes: 0.014587
-    id: ck13a7gcgozw20i19r6nk60i6
-    verified: false
-    hashtags: "#peonies, #toonme, #draweveryday, #stickers"
+    hashtags: "#day1s, #dontwastemytimechallenge, #quarantinechronicles, #quarantine"
 ---

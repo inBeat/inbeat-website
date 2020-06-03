@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top architecture Instagram influencers in Switzerland in 2020. Most popular hashtags: #architecture #switzerland #ig #minimal.
+  Find top architecture Instagram influencers in Switzerland in 2020. Most popular hashtags: #italy # #christmas #spiez.
 platform: Instagram
 profiles:
   - username: "nusretmurtezi"
     fullname: >-
       𝐍𝐮𝐬𝐫𝐞𝐭 𝐌𝐮𝐫𝐭𝐞𝐳𝐢
     location: "Switzerland"
-    followers: 21281
-    engagement: 333
-    commentsToLikes: 0.063773
+    followers: 21469
+    engagement: 416
+    commentsToLikes: 0.089039
     id: ck5hisy4lf7yo0i11vwd3drwg
     verified: false
-    hashtags: "#oiseaux, #urbanfashion, #classystreetwear, #calm"
-  - username: "scientistsusann"
+    hashtags: "#menlook, #menhighfashion, #blackandwhitestyle, #blackandwhitephotography"
+  - username: "kennykaany"
     fullname: >-
-      Susann Cattepoel
+      KENNY
     location: "Switzerland"
-    followers: 32704
-    engagement: 231
-    commentsToLikes: 0.099486
-    id: ck5cdob0mjhrw0i111z9dzhv8
+    followers: 13396
+    engagement: 1285
+    commentsToLikes: 0.011126
+    id: ck5c63dyv4mxh0i11p3zv8si7
     verified: false
-    hashtags: "#cherryblossom, #welovehh, #archi, #espacioenforma"
+    hashtags: "#boyfriend, #driigluegt, #magnumruby, #icecream"
+  - username: "harinehas"
+    fullname: >-
+      Srinis_photos📷🌏🌟
+    location: "Switzerland"
+    followers: 21140
+    engagement: 692
+    commentsToLikes: 0.024723
+    id: ck15qrf0m4af30i19vqav6pm7
+    verified: false
+    hashtags: "#chamonix, #matterhorn, #italy, #blausee"
+  - username: "wafai___"
+    fullname: >-
+      Wafai.Architecture
+    location: "Switzerland"
+    followers: 39704
+    engagement: 493
+    commentsToLikes: 0.016425
+    id: ck14kp0igqle40i19kmlazpu6
+    verified: false
+    hashtags: ""
   - username: "swiss.rudi"
     fullname: >-
       Ruedi Schneiter
     location: "Switzerland"
-    followers: 2300
-    engagement: 2649
-    commentsToLikes: 0.040739
+    followers: 2369
+    engagement: 2537
+    commentsToLikes: 0.039157
     id: ck5pz9gzrzvhg0i111ep32pc6
     verified: false
-    hashtags: "#fa18, #naturecolors, #jura, #microfourthird"
+    hashtags: "#playadefamara, #spain, #heimberg, #flyedelweiss"
+  - username: "rasdreamhouses"
+    fullname: >-
+      Dream Houses | Denmark 🇩🇰🇩🇰
+    location: "Switzerland"
+    followers: 43448
+    engagement: 260
+    commentsToLikes: 0.008669
+    id: ck0vygybw3xzi0i196skr73zn
+    verified: false
+    hashtags: "#genevaswitzerland, #weekend, #ferrari, #building"
   - username: "boris_zatko"
     fullname: >-
       Boris Zatko
     location: "Switzerland"
-    followers: 58306
-    engagement: 311
-    commentsToLikes: 0.015880
+    followers: 59670
+    engagement: 201
+    commentsToLikes: 0.010570
     id: ck0ua6awcbiub0i1934pjb0eq
     verified: false
-    hashtags: "#architecturesketch, #vitrahouse, #artistic, #skizze"
-  - username: "justin_murisier"
-    fullname: >-
-      Justin Murisier
-    location: "Switzerland"
-    followers: 22474
-    engagement: 998
-    commentsToLikes: 0.010273
-    id: ck6tu5ixjefcq0j71cxvf3zdx
-    verified: false
-    hashtags: "#18, #bestwatertechnology, #lacasadepapel, #pgs"
+    hashtags: "#rittergasse, #gemsberg, #hotel, #katze"
   - username: "_thinkarchitecture_"
     fullname: >-
       think architecture
     location: "Switzerland"
-    followers: 8947
-    engagement: 572
-    commentsToLikes: 0.007997
+    followers: 9357
+    engagement: 551
+    commentsToLikes: 0.008200
     id: ck136ija96nk10i1970nc04a4
     verified: false
-    hashtags: "#interiorporn, #interiors, #design, #archporn"
+    hashtags: "#courtyardhouse, #love, #terrazzo, #residential"
   - username: "zuerich_ch"
     fullname: >-
       🏂ZÜRICH_CH
     location: "Switzerland"
-    followers: 71292
-    engagement: 305
-    commentsToLikes: 0.009012
+    followers: 70639
+    engagement: 280
+    commentsToLikes: 0.008713
     id: ck6uh1f4r6f8m0j71t60f1k4k
     verified: false
-    hashtags: "#instaz, #dasischz, #switzerlandpictures, #europe"
+    hashtags: ""
   - username: "archibatch"
     fullname: >-
-      Alexander Arregui L.
+      Alexander Arregui Leszcz.
     location: "Switzerland"
-    followers: 11580
-    engagement: 724
-    commentsToLikes: 0.035805
+    followers: 11823
+    engagement: 690
+    commentsToLikes: 0.047188
     id: ck134d9xzvvsu0i19p60c8p9u
     verified: false
-    hashtags: "#brutal, #myvaud, #timeless, #designboom"
-  - username: "christgantenbein"
-    fullname: >-
-      Christ & Gantenbein
-    location: "Switzerland"
-    followers: 21153
-    engagement: 328
-    commentsToLikes: 0.006137
-    id: ck5ck2x3iw0rb0i115xbneybh
-    verified: false
-    hashtags: "#factorycampus, #verzinkerpreis2019, #newyorkcity, #luxguyer"
-  - username: "herzogdemeuron"
-    fullname: >-
-      Herzog & de Meuron
-    location: "Switzerland"
-    followers: 438028
-    engagement: 164
-    commentsToLikes: 0.005185
-    id: ck0vvagmgo9jv0i197q1q15jj
-    verified: false
-    hashtags: "#groundbreaking, #hdm415, #ronquoz, #switzerland"
+    hashtags: "#filter, #swissalpsartgallery, #polarizing, #architecturaldetails"
 ---

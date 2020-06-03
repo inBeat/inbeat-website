@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top fitness Instagram influencers in Indonesia in 2020. Most popular hashtags: #balilife #travel #travelblogger #travelphotography.
+  Find top fitness Instagram influencers in Indonesia in 2020. Most popular hashtags: # #corona #asia #covid.
 platform: Instagram
 profiles:
-  - username: "dutchielovestravel"
+  - username: "teiturskoubo"
     fullname: >-
-      Silvie van de Ree ✈ Travel
+      Teitur Skoubo
     location: "Indonesia"
-    followers: 17417
-    engagement: 831
-    commentsToLikes: 0.144093
-    id: ck8tb3qj2u5a60j786hwedusv
+    followers: 141746
+    engagement: 766
+    commentsToLikes: 0.046146
+    id: ck0twq076gd890i19o0cwj1fi
     verified: false
-    hashtags: "#femmetravel, #citizenfemme, #travelphoto, #travelphotography"
-  - username: "herulakbar21"
+    hashtags: "#tb, #sammenhverforsig"
+  - username: "maria_vaniaa"
     fullname: >-
-      HERUL AKBAR
+      Maria Vania
     location: "Indonesia"
-    followers: 3235
-    engagement: 1791
-    commentsToLikes: 0.091152
-    id: ck6tqvptvurbu0j716x5tmkxq
+    followers: 2224549
+    engagement: 536
+    commentsToLikes: 0.020413
+    id: ck14h0snc7yzc0i19mksznpm0
+    verified: true
+    hashtags: "#tangguhdarirumah, #danielwellington, #pejuangdjiwatangguh, #dalgonaolatte"
+  - username: "wiolettatuschnio"
+    fullname: >-
+      vegan ⦙ health ⦙ sustainable
+    location: "Indonesia"
+    followers: 16829
+    engagement: 611
+    commentsToLikes: 0.059006
+    id: ck0ttg76y2kre0i19q8ixjxqe
     verified: false
-    hashtags: "#feelinggood, #staysafe, #stayathome, #socialdistancing"
+    hashtags: "#sustainability, #selfcare, #granola, #vegansnack"
   - username: "hayley_"
     fullname: >-
       Hayley Vincent
     location: "Indonesia"
-    followers: 65218
-    engagement: 478
-    commentsToLikes: 0.023704
+    followers: 63923
+    engagement: 444
+    commentsToLikes: 0.027592
     id: ck0u9cbpf9lal0i19fo4d75jo
     verified: false
-    hashtags: "#dolomites"
-  - username: "jadejoselyn"
-    fullname: >-
-      Jade | Fitness & Life 📍 Bali
-    location: "Indonesia"
-    followers: 77504
-    engagement: 277
-    commentsToLikes: 0.039631
-    id: ck5q261l2efwr0i11yqwnwndb
-    verified: false
-    hashtags: "#alifeworthliving, #smallproblemsbigmoves, #wanderlustswim, #womensbest"
-  - username: "pavel_tl"
-    fullname: >-
-      👑 PAVEL 👑
-    location: "Indonesia"
-    followers: 62768
-    engagement: 513
-    commentsToLikes: 0.027746
-    id: ck0u9stviajqr0i19editvkyy
-    verified: false
-    hashtags: "#fashionmen, #beautifuldestinations, #skincare, #gaymodel"
-  - username: "hendrigeorge"
-    fullname: >-
-      Hendrí Georgé
-    location: "Indonesia"
-    followers: 42911
-    engagement: 551
-    commentsToLikes: 0.026130
-    id: ck5c1007uu6h30i11jkiinjlv
-    verified: false
-    hashtags: "#socialdistancing, #beach, #balinese, #sunrise"
+    hashtags: ""
   - username: "bobbi_wallace"
     fullname: >-
       Bobbi Wallace
     location: "Indonesia"
-    followers: 48122
-    engagement: 1129
-    commentsToLikes: 0.012700
+    followers: 50485
+    engagement: 1223
+    commentsToLikes: 0.013074
     id: ck0tysxh9nwv30i19akk9yety
     verified: false
     hashtags: ""
-  - username: "kenan__alii"
+  - username: "sweatwithkat"
     fullname: >-
-      Kenan Ali
+      Kathryn Lynne📍Bali
     location: "Indonesia"
-    followers: 66202
-    engagement: 2181
-    commentsToLikes: 0.021729
-    id: ck601y7gzgdz00i143qr2b18y
+    followers: 25475
+    engagement: 194
+    commentsToLikes: 0.073170
+    id: ck601b6egf67p0i14m8c4i1oj
     verified: false
-    hashtags: "#python"
-  - username: "brendapantja"
+    hashtags: ""
+  - username: "jadejoselyn"
     fullname: >-
-      Brenda Immanuella
+      Jade | Fitness Coach📍 Bali
     location: "Indonesia"
-    followers: 21775
-    engagement: 245
-    commentsToLikes: 0.029612
-    id: ck6u8z1gluj0h0j71qhgi7v52
+    followers: 76396
+    engagement: 249
+    commentsToLikes: 0.036463
+    id: ck5q261l2efwr0i11yqwnwndb
     verified: false
-    hashtags: "#beauty, #blogger, #mirrormesalon, #gandariacity"
-  - username: "rodpellegrino"
+    hashtags: "#alphaleteleggings, #abundancemindset, #alphaletegym, #showup"
+  - username: "amnamalia"
     fullname: >-
-      Rodrigo Pellegrino
+      Am Model📍 Bali
     location: "Indonesia"
-    followers: 16183
-    engagement: 2875
-    commentsToLikes: 0.004475
-    id: ck8td83pj2aaf0j78zvdhg8z4
+    followers: 146910
+    engagement: 620
+    commentsToLikes: 0.011964
+    id: ck5zpi25rsply0i14fklhuoee
     verified: false
-    hashtags: "#futuro, #bday, #aquecimento, #instafit"
+    hashtags: ""
+  - username: "pavel_tl"
+    fullname: >-
+      👑 PAVEL 👑
+    location: "Indonesia"
+    followers: 63067
+    engagement: 495
+    commentsToLikes: 0.028881
+    id: ck0u9stviajqr0i19editvkyy
+    verified: false
+    hashtags: "#photoshooting, #photo, #asia, #heaven"
+  - username: "dino.azizie"
+    fullname: >-
+      HERO COWAY 💧
+    location: "Indonesia"
+    followers: 30224
+    engagement: 328
+    commentsToLikes: 0.025046
+    id: ck9wou9bp6mde0j78rw3lpyle
+    verified: false
+    hashtags: "#ketuakeluarga, #covid, #dontpanic, #santuy"
 ---

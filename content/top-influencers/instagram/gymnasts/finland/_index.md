@@ -1,87 +1,107 @@
 ---
 title: Top 10 Gymnasts Instagram Influencers In Finland In 2020
 description: >-
-  Find top gymnasts Instagram influencers in Finland in 2020. Most popular hashtags: #finland #gymnastics #voimistelu #madeinfinland.
+  Find top gymnasts Instagram influencers in Finland in 2020. Most popular hashtags: #gymnastics #stayhome #arvonta #kotitreeni.
 platform: Instagram
 profiles:
-  - username: "jouki_"
+  - username: "joukiaino"
     fullname: >-
       Jouki Tikkanen
     location: "Finland"
-    followers: 7735
-    engagement: 1472
-    commentsToLikes: 0.011888
+    followers: 7694
+    engagement: 1487
+    commentsToLikes: 0.010796
     id: ck5qa5uryep7d0i11atl4s0i4
     verified: false
-    hashtags: "#lapirouette, #dowhatyoulove, #sencasion, #gymnasticsforlife"
+    hashtags: "#fallwinter, #focus, #flexibilitygoals, #balance"
   - username: "anttonlaine"
     fullname: >-
       Antton Laine
     location: "Finland"
-    followers: 6301
-    engagement: 575
-    commentsToLikes: 0.013524
+    followers: 6390
+    engagement: 582
+    commentsToLikes: 0.014134
     id: ck55midfh40xc0i11tv8vbwsv
     verified: false
-    hashtags: "#dancerlife, #enviyation, #cualitytime, #nice"
+    hashtags: "#walking, #relaxing, #waiting, #june"
   - username: "ovoteamfin"
     fullname: >-
       OVO Team
     location: "Finland"
-    followers: 12995
-    engagement: 1315
-    commentsToLikes: 0.010995
+    followers: 12909
+    engagement: 1242
+    commentsToLikes: 0.007085
     id: ck5hmxkxsmtd40i11t8qzg5q9
     verified: false
-    hashtags: "#maailmancup, #huippuurheilu, #monipuolisuus, #et"
+    hashtags: "#lumokodit, #mothersday2020, #happyday, #jumping"
+  - username: "laura.kaartinen"
+    fullname: >-
+      Laura | Lifestyle | Sport
+    location: "Finland"
+    followers: 4607
+    engagement: 1625
+    commentsToLikes: 0.162035
+    id: ck9hck99glsd90j78hx3r1844
+    verified: false
+    hashtags: "#bedroominspo, #helatorstai, #allnight, #workday"
+  - username: "camillaainsworth"
+    fullname: >-
+      ℭ𝔞𝔪𝔦𝔩𝔩𝔞🥜💘
+    location: "Finland"
+    followers: 41593
+    engagement: 400
+    commentsToLikes: 0.052552
+    id: ck15rojq58xii0i19kv3f9bq4
+    verified: true
+    hashtags: "#online, #jack1ttr1be, #sustainablefashion, #entrepreneur"
   - username: "linaz_jani"
     fullname: >-
       LINAZ
     location: "Finland"
-    followers: 26525
-    engagement: 348
-    commentsToLikes: 0.202873
+    followers: 26465
+    engagement: 360
+    commentsToLikes: 0.222024
     id: ck6uhy4qibxbh0j71b5cdkyha
     verified: false
-    hashtags: "#stonzwear, #twin, #prettylittleiiinspo, #kaupallinenyhteisty"
-  - username: "piruetti"
+    hashtags: "#hmxme, #kidschallenge, #purple, #stonzwear"
+  - username: "iidapeltonen"
     fullname: >-
-      Piruetti Oy
+      Iida Peltonen
     location: "Finland"
-    followers: 11632
-    engagement: 1156
-    commentsToLikes: 0.087589
-    id: ck5qa5veuep9a0i11wvkmhs0a
+    followers: 8126
+    engagement: 1084
+    commentsToLikes: 0.015381
+    id: ck8tbvy76xcxj0j78ec3duzjv
     verified: false
-    hashtags: "#wellness, #cheer, #voimistelu, #valentinesweekend"
-  - username: "brezhnyulia_"
+    hashtags: "#onearmhandstand, #lashes, #yoga, #calisthenics"
+  - username: "wilmamurto"
     fullname: >-
-      Yulia Belanovskaya
+      WILMA MURTO
     location: "Finland"
-    followers: 54838
-    engagement: 119
-    commentsToLikes: 0.019403
-    id: ck6u74w00jhzh0j71u6xiznjc
+    followers: 19641
+    engagement: 888
+    commentsToLikes: 0.006475
+    id: ck0u0htk7tqwv0i191ngrx28m
     verified: false
-    hashtags: "#videohair, #jewellery, #interior, #flowers"
-  - username: "rhythmicgym_rg"
+    hashtags: "#stayathome, #tokyo2020ne, #polevaultfamily, #strongertogether"
+  - username: "elinasofiaofficial"
     fullname: >-
-      RHYTHMIC GYMNASTICS 🌍
+      Elina Sofia
     location: "Finland"
-    followers: 29239
-    engagement: 1379
-    commentsToLikes: 0.008191
-    id: ck8tb42mzu6j20j78jv7rv2ft
+    followers: 23087
+    engagement: 1525
+    commentsToLikes: 0.055819
+    id: ck5qblo7jm7820i11h9h5c2iw
     verified: false
-    hashtags: "#bestspivots, #rhythmic, #gymnastics, #rhythmicgymnastics"
+    hashtags: "#travel, #koira, #herkku, #vikingline"
   - username: "vellusta"
     fullname: >-
       Veli-Matti Saarela
     location: "Finland"
-    followers: 70707
-    engagement: 328
-    commentsToLikes: 0.014795
+    followers: 71012
+    engagement: 331
+    commentsToLikes: 0.017237
     id: ck0vwd08rt5870i19ciyig56t
     verified: false
-    hashtags: "#passionintoprofession, #trickingbattle, #koronavirus, #memories"
+    hashtags: "#flips, #dancersofinstagram, #touchdownraiz, #freedom"
 ---

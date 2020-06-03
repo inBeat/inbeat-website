@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top health Instagram influencers in Ukraine in 2020. Most popular hashtags: #model #love #france #style.
+  Find top health Instagram influencers in Ukraine in 2020. Most popular hashtags: #stayhome #healthyfood #pizza #sunshine.
 platform: Instagram
 profiles:
-  - username: "anastasia_balabash"
-    fullname: >-
-      Anastasiya Balabash
-    location: "Ukraine"
-    followers: 13847
-    engagement: 512
-    commentsToLikes: 0.252040
-    id: ck5cawpvuea480i113o0f9bh9
-    verified: false
-    hashtags: "#april2020"
   - username: "solomiyavitvitska"
     fullname: >-
       Solomiya Vitvitska
     location: "Ukraine"
-    followers: 202364
-    engagement: 171
-    commentsToLikes: 0.020595
+    followers: 205602
+    engagement: 154
+    commentsToLikes: 0.019509
     id: ck6tytavq5q5s0j71waqcf3n1
     verified: true
-    hashtags: "#stayhome, #news, #me, #mam"
+    hashtags: "#newshost, #fashion, #yellow, #monday"
+  - username: "dara.avramenko"
+    fullname: >-
+      🔝Model ✈️Traveler💡SMM
+    location: "Ukraine"
+    followers: 31154
+    engagement: 211
+    commentsToLikes: 0.018731
+    id: ckapcg1xn3nte0i78zhj7akkl
+    verified: false
+    hashtags: "#lookylook, #ukraine, #gun, #montcalmparisjewelry"
   - username: "just_a_bad_guy"
     fullname: >-
       Bohdan
     location: "Ukraine"
-    followers: 6470
-    engagement: 528
-    commentsToLikes: 0.024247
+    followers: 6346
+    engagement: 579
+    commentsToLikes: 0.027515
     id: ck5zy6tph9bxn0i14i9e0iigv
     verified: false
     hashtags: ""
+  - username: "anastasia_balabash"
+    fullname: >-
+      Анастасія Балабаш
+    location: "Ukraine"
+    followers: 11915
+    engagement: 390
+    commentsToLikes: 0.011884
+    id: ck5cawpvuea480i113o0f9bh9
+    verified: false
+    hashtags: "#pillowchallenge, #happybirthdaytome, #april2020"
   - username: "anyanabieva"
     fullname: >-
       blogger’s diary 💄 🌷☕️
     location: "Ukraine"
-    followers: 16403
-    engagement: 416
-    commentsToLikes: 0.107972
+    followers: 16100
+    engagement: 429
+    commentsToLikes: 0.110137
     id: ck0w1ehsjixvb0i19k83am1fs
     verified: false
-    hashtags: "#maybelline, #lorealua, #14, #caudalieukraine"
+    hashtags: "#caudalieukraine, #falconerikiev, #hwb, #maybelline"
   - username: "vitsporter"
     fullname: >-
       V.S.🏐
     location: "Ukraine"
-    followers: 125961
-    engagement: 1688
-    commentsToLikes: 0.056983
+    followers: 191113
+    engagement: 1082
+    commentsToLikes: 0.067878
     id: ck8t95cgbmxwy0j788ztisp7q
     verified: false
-    hashtags: "#mood, #pizza, #foodblog, #horses"
+    hashtags: "#horse, #carpatians, #lovepizza, #pets"
+  - username: "annagirm"
+    fullname: >-
+      A.n.n.a G.i.r Malowany 🌺
+    location: "Ukraine"
+    followers: 6122
+    engagement: 2006
+    commentsToLikes: 0.184386
+    id: ck0tyggvvmppp0i19v8scrgo5
+    verified: false
+    hashtags: "#funmoment, #sweetpotato, #sunglasses, #puppylove"
   - username: "dr.tolstikova"
     fullname: >-
-      Doctor Tolstikova
+      DOCTOR TOLSTIKOVA
     location: "Ukraine"
-    followers: 35073
-    engagement: 515
-    commentsToLikes: 0.062594
+    followers: 42534
+    engagement: 440
+    commentsToLikes: 0.066344
     id: ck0w79ktkcfx20i190bhksy6c
     verified: false
-    hashtags: "#peanutbutter, #love, #life, #2020"
-  - username: "torythebest"
+    hashtags: "#2020, #bali, #science, #berry"
+  - username: "_antimodel_"
     fullname: >-
-      Виктория Хода
+      Julia Peters
     location: "Ukraine"
-    followers: 58115
-    engagement: 1058
-    commentsToLikes: 0.060900
-    id: ck5qdxhxxxqqh0i11k0rkvnw6
+    followers: 30077
+    engagement: 879
+    commentsToLikes: 0.095875
+    id: ck9hb9ozifxy70j78r8rpbt2q
     verified: false
-    hashtags: "#prmerul, #valentines, #crazy, #itsmylife"
-  - username: "janna_evstafeva"
+    hashtags: "#projects, #zurichcity, #bookcommunity, #vienna"
+  - username: "pylypchuk_vasyl"
     fullname: >-
-      ЖАННА ЕВСТАФЬЕВА
+      Фотограф Василь Пилипчук
     location: "Ukraine"
-    followers: 23080
-    engagement: 399
-    commentsToLikes: 0.061610
-    id: ck5q215zfdrl40i11fb4b1tck
+    followers: 32919
+    engagement: 445
+    commentsToLikes: 0.061072
+    id: ck14iibdofjml0i19t6ig8np2
     verified: false
-    hashtags: "#frankfurt, #2020, #firenze, #sunlight"
-  - username: "anna_gomonova_official"
-    fullname: >-
-      Anna Gomonova
-    location: "Ukraine"
-    followers: 46554
-    engagement: 471
-    commentsToLikes: 0.039804
-    id: ck6uhkx1x9pk30j71z4eb0kfp
-    verified: false
-    hashtags: "#photoshooting, #fashionweekdubai, #newcollection, #fashion"
-  - username: "valerialauren"
-    fullname: >-
-      i am VALERIA
-    location: "Ukraine"
-    followers: 46353
-    engagement: 234
-    commentsToLikes: 0.136832
-    id: ck5c361qzyo2v0i11rr42evtu
-    verified: false
-    hashtags: "#dogs, #girls, #naturalovers, #beautyroutine"
+    hashtags: "#weddingstory, #christmas, #dubaimall, #easterdecor"
 ---

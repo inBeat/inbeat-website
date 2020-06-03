@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In France In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in France in 2020. Most popular hashtags: #tattoo #tatouage #ink #tattooartist.
+  Find top tattoo-artists Instagram influencers in France in 2020. Most popular hashtags: #tattooed #drawing #healedtattoo #flowertattoo.
 platform: Instagram
 profiles:
   - username: "sampaguitajay_tattoo"
     fullname: >-
       Sampaguita Jay 🇵🇭🇫🇷
     location: "France"
-    followers: 43682
-    engagement: 547
-    commentsToLikes: 0.034160
+    followers: 48522
+    engagement: 556
+    commentsToLikes: 0.031103
     id: ck5qcw77isme10i11q7pjeh8q
     verified: false
-    hashtags: "#asian, #realism, #skinart, #worldofpencils"
-  - username: "mfcreativink"
+    hashtags: "#tribaltattoo, #tattoodace, #healedtattoo, #peinturealhuile"
+  - username: "alexbruz"
     fullname: >-
-      Tom Falgayras - ᴍғ ᴄʀᴇᴀᴛɪᴠ ɪɴᴋ
+      Alex Bruz
     location: "France"
-    followers: 15830
-    engagement: 366
-    commentsToLikes: 0.025241
-    id: ck8t1wt3sxcpi0j78k5qqzycs
+    followers: 508098
+    engagement: 131
+    commentsToLikes: 0.045941
+    id: ck5bw7ojfl5i40i11idntd1oz
     verified: false
-    hashtags: "#cutetattoos, #wolftattoo, #marveluniverse, #joaquinphoenix"
+    hashtags: "#corazondelmar, #tattoocolor, #tattoofeet, #history"
   - username: "zacatattoo"
     fullname: >-
       Ederson Zacarias
     location: "France"
-    followers: 42274
-    engagement: 98
-    commentsToLikes: 0.037979
+    followers: 44170
+    engagement: 116
+    commentsToLikes: 0.162326
     id: ck8t4lauh76220j78ltk9x6el
     verified: false
-    hashtags: "#tattoos, #sullenfamily, #francetattoo, #portoalegre"
-  - username: "madaliceliddell"
+    hashtags: "#aguia, #zeustattoo, #zeus, #vikings"
+  - username: "maaya_j"
     fullname: >-
-      ꧁𝕰𝖛𝖊𝕺𝖜𝖑꧂
+      Maaya J.
     location: "France"
-    followers: 198762
-    engagement: 336
-    commentsToLikes: 0.010748
-    id: ck0u6k3cy23ut0i19rwtusaop
+    followers: 13409
+    engagement: 655
+    commentsToLikes: 0.028318
+    id: ck8t9b08bng9s0j785znyjcdn
     verified: false
-    hashtags: "#staycold, #sexy, #supportus, #alternative"
+    hashtags: "#brotherhood, #tattooist, #equilatera, #darkcreature"
+  - username: "blum.ttt"
+    fullname: >-
+      ❈  Blum  ❈
+    location: "France"
+    followers: 103214
+    engagement: 375
+    commentsToLikes: 0.030064
+    id: ck6tp4kv5hsuf0j71beoc7r1c
+    verified: false
+    hashtags: "#forearmtattoo, #inkshop, #concoursinsta, #artwork"
+  - username: "no_tilusse_tattoo"
+    fullname: >-
+      No Tilusse Tattoo
+    location: "France"
+    followers: 23403
+    engagement: 773
+    commentsToLikes: 0.006589
+    id: ck15s21k0aucl0i192u8obf26
+    verified: false
+    hashtags: "#customtattoo, #otakutattoo, #blxckink, #sexy"
+  - username: "mfcreativink"
+    fullname: >-
+      Tom Falgayras - ᴍғ ᴄʀᴇᴀᴛɪᴠ ɪɴᴋ
+    location: "France"
+    followers: 17340
+    engagement: 343
+    commentsToLikes: 0.026616
+    id: ck8t1wt3sxcpi0j78k5qqzycs
+    verified: false
+    hashtags: "#disneylandparis, #russelcrowe, #boudha, #tattooed"
+  - username: "delphiechu"
+    fullname: >-
+      𝔻𝕖𝕝𝕡𝕙𝕚𝕖 ℂ𝕙𝕦
+    location: "France"
+    followers: 7310
+    engagement: 532
+    commentsToLikes: 0.031640
+    id: ck5qeckbfzteu0i11w4mz5aal
+    verified: false
+    hashtags: "#dotwork, #tattooing, #beret, #petittattouage"
   - username: "carolinekarenine"
     fullname: >-
       Caroline Karenine
     location: "France"
-    followers: 41042
-    engagement: 337
-    commentsToLikes: 0.017444
+    followers: 40745
+    engagement: 295
+    commentsToLikes: 0.021007
     id: ck0tzralwramh0i19xqdwyvpl
     verified: false
-    hashtags: "#japanesetattoo, #backpiece, #purplesunbrussels, #sleevetattoos"
+    hashtags: "#portraittattoo, #dotworktattoo, #collaboration, #birds"
   - username: "doryanben"
     fullname: >-
       Doryan Ben 🌙 Paris
     location: "France"
-    followers: 4148
-    engagement: 1497
-    commentsToLikes: 0.040239
+    followers: 4166
+    engagement: 1571
+    commentsToLikes: 0.049961
     id: ck5c29u5owtpm0i111ihb08db
     verified: false
-    hashtags: "#toilevivante, #cheveuxblancs, #smilebrightlikeadiamond, #backtattoo"
-  - username: "carinsilver"
-    fullname: >-
-      Carin Silver - Tattooartist
-    location: "France"
-    followers: 44743
-    engagement: 186
-    commentsToLikes: 0.006492
-    id: ck14jwwtcmlmr0i1953onbjic
-    verified: false
-    hashtags: "#tattoofloral, #hibiscustattoo, #lotustattoo, #inked"
-  - username: "eliot.kohek"
-    fullname: >-
-      Eliot Kohek
-    location: "France"
-    followers: 556076
-    engagement: 424
-    commentsToLikes: 0.013574
-    id: ck15rnp388t6l0i19fyk9ceql
-    verified: false
-    hashtags: "#digital, #dark, #eliotkohek, #realitistic"
-  - username: "kyriakaiju"
-    fullname: >-
-      ❄ Kyriä 🌸 Kin Kaiju Tattoo ❄
-    location: "France"
-    followers: 4021
-    engagement: 1063
-    commentsToLikes: 0.079997
-    id: ck5hebw38s41w0i119ro8wqig
-    verified: false
-    hashtags: "#pokemonbadges, #potterheadtattoo, #tattooapprentice, #colortattoo"
-  - username: "sashaunisex"
-    fullname: >-
-      Sasha Unisex
-    location: "France"
-    followers: 795189
-    engagement: 136
-    commentsToLikes: 0.017389
-    id: ck55mrjvt4lku0i11gmon8g98
-    verified: true
-    hashtags: "#lavendertattoo, #tattoo, #erborianlovers, #sashaunisexforerborian"
+    hashtags: "#unshortenhiver, #goodbyeeverybodyigottogo, #studiomood, #cheveuxblancs"
 ---

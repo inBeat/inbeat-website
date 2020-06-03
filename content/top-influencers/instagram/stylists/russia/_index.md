@@ -1,26 +1,36 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Russia In 2020
 description: >-
-  Find top stylists Instagram influencers in Russia in 2020. Most popular hashtags: #style #beautiful #colorful #happy.
+  Find top stylists Instagram influencers in Russia in 2020. Most popular hashtags: #pillowchallenge #hmbelarus #happy #hmtrend.
 platform: Instagram
 profiles:
-  - username: "albina.beauty_"
+  - username: "oooh_nadin_"
     fullname: >-
-      Визажист💄Честный Beauty Blog👧🏼
+      Nadin
     location: "Russia"
-    followers: 46424
-    engagement: 465
-    commentsToLikes: 0.225551
-    id: ck15s4hdob6ia0i19x9lj3i5a
+    followers: 26611
+    engagement: 697
+    commentsToLikes: 0.061850
+    id: ck5zmed65mevc0i14p06wmhyo
     verified: false
-    hashtags: "#merrytous, #diorbackstage, #diormakeup, #proteammb"
+    hashtags: "#instaxminiru, #instaxvibes, #kiehlsrussia"
+  - username: "mihaelaskripnik"
+    fullname: >-
+      ✮⋆  🎀  𝑀𝒾𝒽𝒶𝑒𝓁𝒶 𝒮𝒸𝓇𝒾𝓅𝓃𝒾𝒸 🎀⋆✮
+    location: "Russia"
+    followers: 43095
+    engagement: 508
+    commentsToLikes: 0.066663
+    id: ck5cav7l7e77v0i119cu2bm26
+    verified: false
+    hashtags: ""
   - username: "absolutlia"
     fullname: >-
       Lia Mstislavskaya
     location: "Russia"
-    followers: 60712
-    engagement: 713
-    commentsToLikes: 0.024587
+    followers: 60144
+    engagement: 677
+    commentsToLikes: 0.028741
     id: ck5c2ahlzwv5u0i111um9xplf
     verified: false
     hashtags: "#absolutliachallenge, #idontgiveafconvinceme"
@@ -28,80 +38,70 @@ profiles:
     fullname: >-
       Макияж |Прически |Обучение
     location: "Russia"
-    followers: 6156
-    engagement: 836
-    commentsToLikes: 0.084027
+    followers: 6003
+    engagement: 963
+    commentsToLikes: 0.086307
     id: ck6tr2pjuwlax0j715wh83cuo
     verified: false
-    hashtags: "#40"
-  - username: "style_by_kater1na__"
+    hashtags: "#40, #pillowchallenge, #3week"
+  - username: "victoria_solovyeva"
+    fullname: >-
+      Because I'm happy❤️👨‍👩‍👦❤️
+    location: "Russia"
+    followers: 202599
+    engagement: 245
+    commentsToLikes: 0.036492
+    id: ck5c42xoq0jfb0i112rzo9wh0
+    verified: false
+    hashtags: "#nature, #fashionista, #wedding, #styles"
+  - username: "kater1na_style"
     fullname: >-
       Катерина
     location: "Russia"
-    followers: 5919
-    engagement: 1157
-    commentsToLikes: 0.066704
+    followers: 5844
+    engagement: 1200
+    commentsToLikes: 0.065451
     id: ck6ui7qlsdjiq0j71pmdc9jwp
     verified: false
     hashtags: "#style, #hmbelarus"
   - username: "miss_bylucy"
     fullname: >-
-      СТИЛИСТ ИМИДЖМЕЙКЕР БЛОГЕР
+      СТИЛИСТ ИМИДЖМЕЙКЕР БЛОГЕР
     location: "Russia"
-    followers: 10026
-    engagement: 709
-    commentsToLikes: 0.085454
+    followers: 10904
+    engagement: 690
+    commentsToLikes: 0.091801
     id: ck14joe12ldht0i19spyn1mih
     verified: false
-    hashtags: "#toomuch, #notsponsored, #04"
+    hashtags: "#04, #stories, #toomuch, #notsponsored"
+  - username: "stylist_katy"
+    fullname: >-
+      Ekaterina|STYLIST
+    location: "Russia"
+    followers: 20066
+    engagement: 664
+    commentsToLikes: 0.049800
+    id: ck5znddpqo8pg0i14ryqsi2z1
+    verified: false
+    hashtags: "#stylewomen, #loewebag, #zarahome, #nanushka"
   - username: "ruslinka"
     fullname: >-
       Ruslana Karakhoeva
     location: "Russia"
-    followers: 40032
-    engagement: 485
-    commentsToLikes: 0.041634
+    followers: 42899
+    engagement: 450
+    commentsToLikes: 0.041994
     id: ck5ccnv8thp580i11vrywbqbk
     verified: false
     hashtags: "#iloveyou2019, #hmbelarus, #hmxme"
-  - username: "kate_rock666"
+  - username: "alinakovaleva"
     fullname: >-
-      Катя Рок, персональный стилист
+      Alina Kovaleva
     location: "Russia"
-    followers: 30748
-    engagement: 523
-    commentsToLikes: 0.040648
-    id: ck0ucoxu9he520i1932zrg19t
+    followers: 29059
+    engagement: 277
+    commentsToLikes: 0.116742
+    id: ck0vzmd589t8b0i19jm9pis58
     verified: false
-    hashtags: "#hmrussia, #hmstudio, #ss20, #hmxme"
-  - username: "victoria_solovyeva"
-    fullname: >-
-      Because I'm happy❤️👨‍👩‍👦❤️
-    location: "Russia"
-    followers: 205553
-    engagement: 348
-    commentsToLikes: 0.028074
-    id: ck5c42xoq0jfb0i112rzo9wh0
-    verified: false
-    hashtags: "#outfits, #styleoftheday, #styleblogger, #fashionstylist"
-  - username: "bayagorbusha"
-    fullname: >-
-      Baya Gorbunova
-    location: "Russia"
-    followers: 37201
-    engagement: 852
-    commentsToLikes: 0.014778
-    id: ck15rsg3p9gwo0i19mf273mxr
-    verified: false
-    hashtags: "#friends, #bayathetraveler, #alivebeauty, #shiseidomakeup"
-  - username: "kkostenko.ru"
-    fullname: >-
-      Katerina Kostenko
-    location: "Russia"
-    followers: 200542
-    engagement: 159
-    commentsToLikes: 0.066699
-    id: ck6ucuudhhly50j71k9ei3261
-    verified: false
-    hashtags: "#ad, #faberlic, #faberlicinfluencer, #braunbeauty"
+    hashtags: "#h2oplusrussia, #kupidoma, #4stepsystemsensitive, #pillowchallenge"
 ---

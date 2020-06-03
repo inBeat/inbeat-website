@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top athletes Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #fitness #dubai #mydubai #athlete.
+  Find top athletes Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubai #gymmotivation #crossfit #.
 platform: Instagram
 profiles:
-  - username: "dr_marcfit"
+  - username: "mikethurston"
     fullname: >-
-      Asem Marc™
+      Mike Thurston
     location: "United Arab Emirates"
-    followers: 5449
-    engagement: 1391
-    commentsToLikes: 0.038017
-    id: ck5zvl4zd4fw00i14r0yv8e36
+    followers: 659311
+    engagement: 496
+    commentsToLikes: 0.009713
+    id: ck0uak9xychs50i197sjtzy5a
     verified: false
-    hashtags: "#castingbarcelona, #nike, #yoga, #szechenyibaths"
+    hashtags: ""
   - username: "ysv_ysv"
     fullname: >-
       ✨YSV✨
     location: "United Arab Emirates"
-    followers: 24405
-    engagement: 983
-    commentsToLikes: 0.004251
+    followers: 24159
+    engagement: 691
+    commentsToLikes: 0.013947
     id: ck5ca3vz8cncb0i11vuth92oi
     verified: false
-    hashtags: "#2020, #buckwheat"
+    hashtags: "#balcony, #quarantine, #seasaltbath, #white"
+  - username: "shalan.mahmood"
+    fullname: >-
+      محمود شعلان
+    location: "United Arab Emirates"
+    followers: 3227
+    engagement: 1284
+    commentsToLikes: 0.056645
+    id: ck6tvb8p7l8d50j71vezwhdx9
+    verified: false
+    hashtags: "#tb, #crossfit, #competition, #sanctionals"
   - username: "walidyari"
     fullname: >-
       Walid Yari وليد يري
     location: "United Arab Emirates"
-    followers: 650004
-    engagement: 58
-    commentsToLikes: 0.040206
+    followers: 645413
+    engagement: 104
+    commentsToLikes: 0.065340
     id: ck13c5oufyqkr0i19yckam948
     verified: false
-    hashtags: "#stayhome, #hometeam, #covid, #thebeastofthemiddleeast"
+    hashtags: "#ad, #rollsroyce, #trustclorox"
   - username: "rashadsempire"
     fullname: >-
       Rashad Naقeeb
     location: "United Arab Emirates"
-    followers: 5565
-    engagement: 326
-    commentsToLikes: 0.329816
+    followers: 5500
+    engagement: 339
+    commentsToLikes: 0.319797
     id: ck136qfdl7r4v0i19xmziten6
     verified: false
-    hashtags: "#lifestyle, #crossfit, #fitrepublik, #success"
+    hashtags: "#brother, #iwill, #birthday, #transformation"
+  - username: "aeebeh"
+    fullname: >-
+      Ali Omar 🇮🇶 | علي عمر
+    location: "United Arab Emirates"
+    followers: 142086
+    engagement: 167
+    commentsToLikes: 0.072119
+    id: ck13ceb8yzxpq0i19vdq74msa
+    verified: false
+    hashtags: "#homeworkout, #dubaifitness, #dubaifitfam, #workout"
+  - username: "dr_marcfit"
+    fullname: >-
+      Asem Marc Bacha. DDS
+    location: "United Arab Emirates"
+    followers: 5903
+    engagement: 1245
+    commentsToLikes: 0.041355
+    id: ck5zvl4zd4fw00i14r0yv8e36
+    verified: false
+    hashtags: "#clinicadental, #balancetraining, #circus, #summer"
+  - username: "mohamed.farag"
+    fullname: >-
+      𝙈𝙊𝙃𝘼𝙈𝙀𝘿 𝙁𝘼𝙍𝘼𝙂 محمد فرج
+    location: "United Arab Emirates"
+    followers: 2303219
+    engagement: 268
+    commentsToLikes: 0.005927
+    id: ck6tn85hn9bor0j71mzyzwvi4
+    verified: false
+    hashtags: ""
   - username: "peymanrajabii"
     fullname: >-
       Peyman rajabi
     location: "United Arab Emirates"
-    followers: 591047
-    engagement: 529
-    commentsToLikes: 0.012352
+    followers: 632691
+    engagement: 539
+    commentsToLikes: 0.013875
     id: ck602eb5oh86r0i14gk69ir9r
     verified: true
-    hashtags: "#runner, #saudiarabia, #kuwaitcity, #jump"
-  - username: "antonyfleyhanphotography"
+    hashtags: "#gymmotivation, #gym, #trainer, #befit"
+  - username: "amiine.dxb"
     fullname: >-
-      FLEYSTARS
+      Amine
     location: "United Arab Emirates"
-    followers: 19179
-    engagement: 413
-    commentsToLikes: 0.017675
-    id: ck5q9avtna7gm0i11hxgossiy
+    followers: 83865
+    engagement: 57
+    commentsToLikes: 0.026116
+    id: ck0u14gx3vt460i19nytou03n
     verified: false
-    hashtags: "#repost, #schwarzkopf, #dubaifashion, #stylingtransformation"
-  - username: "ahbeeohla"
-    fullname: >-
-      Abiola AB Beckley
-    location: "United Arab Emirates"
-    followers: 2524
-    engagement: 1572
-    commentsToLikes: 0.059806
-    id: ck5zy9jz99gzz0i14l1ve8e9r
-    verified: false
-    hashtags: "#strongmind, #sitdown, #dubaipt, #dubaimarina"
-  - username: "lamia_lilwonderofuae"
-    fullname: >-
-      Lamia Tariq
-    location: "United Arab Emirates"
-    followers: 15369
-    engagement: 950
-    commentsToLikes: 0.018343
-    id: ck5zmawxym8f20i14twzno9y4
-    verified: false
-    hashtags: "#russiannationalteam, #roadtoolympics, #goals, #uaeyouth"
-  - username: "andrewjacked"
-    fullname: >-
-      Chinedu Andrew J
-    location: "United Arab Emirates"
-    followers: 110759
-    engagement: 982
-    commentsToLikes: 0.014959
-    id: ck5bv75ibj3v30i11uiv57eyf
-    verified: false
-    hashtags: "#challengeaccepted, #functionaltraining, #bodybuildingmotivation, #grindharder"
-  - username: "fares_calisthenics"
-    fullname: >-
-      Fares
-    location: "United Arab Emirates"
-    followers: 10419
-    engagement: 1138
-    commentsToLikes: 0.050672
-    id: ck55lhb3i1kau0i11wiwf3u3u
-    verified: false
-    hashtags: "#calisthenicsmovement, #fitness, #peopleareawesome, #calisthenicsfreestyle"
+    hashtags: "#model, #events, #burjkhalifa, #smile"
 ---

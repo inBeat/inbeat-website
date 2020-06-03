@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Bali In 2020
 description: >-
-  Find top vegan Instagram influencers in Bali in 2020. Most popular hashtags: #bali #balilife #vegan #indonesia.
+  Find top vegan Instagram influencers in Bali in 2020. Most popular hashtags: #stayhome #health #plantbasedfood #veganbali.
 platform: Instagram
 profiles:
   - username: "iamyunessa"
     fullname: >-
       y u n e s s a
     location: "Indonesia"
-    followers: 14828
-    engagement: 736
-    commentsToLikes: 0.024048
+    followers: 14632
+    engagement: 746
+    commentsToLikes: 0.023761
     id: ck15pjyucy96t0i196ufmw7ch
     verified: false
-    hashtags: "#fromnothingtosomethingtoeverything, #nycphotography, #vegannewyork, #vegan"
+    hashtags: "#feedissoclean, #bealpha, #winter, #nycphotography"
   - username: "justonewayticket"
     fullname: >-
       Hi, I'm Sab!
     location: "Indonesia"
-    followers: 33388
-    engagement: 99
-    commentsToLikes: 0.067273
+    followers: 33156
+    engagement: 101
+    commentsToLikes: 0.066467
     id: ck0tuxbii935x0i19avj9gp1w
     verified: false
-    hashtags: "#whatdoveganseat, #wonderlustsingapore, #housesitter, #cats"
-  - username: "passiondupain"
+    hashtags: "#loykratong, #ubudvegan, #plantbased, #womenretreat"
+  - username: "bybashair"
     fullname: >-
-      ᗩlexandra ♡ Muller
+      Bashair 🏡Jeddah
     location: "Indonesia"
-    followers: 20493
-    engagement: 191
-    commentsToLikes: 0.029666
-    id: ck5zwtu9y6r8y0i14qxfhprdh
+    followers: 103665
+    engagement: 297
+    commentsToLikes: 0.096679
+    id: ck55nwkn275590i11xb4rw97j
     verified: false
-    hashtags: "#riceterrace, #rawvegan, #gamechangers, #balitrip"
+    hashtags: "#vegantravel, #luxurytraveller, #luxurylistings, #discoverbali"
   - username: "axelschura"
     fullname: >-
       Axel Schurawlow 🥑
     location: "Indonesia"
-    followers: 19834
-    engagement: 575
-    commentsToLikes: 0.034409
+    followers: 20659
+    engagement: 573
+    commentsToLikes: 0.027563
     id: ck0ttg7i12ksr0i195fpjvruy
     verified: false
-    hashtags: "#couple, #veganfashion, #vegetarian, #gratitude"
-  - username: "chasingjuliawild"
+    hashtags: "#vegantraining, #mentalwellness, #mentalhealthsupport, #veganlondon"
+  - username: "rawtransitiondiet"
     fullname: >-
-      🌺 Julia Wild 🌺
+      Damian Gardynik 🌱
     location: "Indonesia"
-    followers: 15704
-    engagement: 685
-    commentsToLikes: 0.050880
-    id: ck1384ktfegye0i19yj88hzyy
-    verified: false
-    hashtags: "#acrodance, #travelstoke, #earthpix, #gltlove"
-  - username: "pavel_tl"
-    fullname: >-
-      👑 PAVEL 👑
-    location: "Indonesia"
-    followers: 62768
+    followers: 6700
     engagement: 513
-    commentsToLikes: 0.027746
-    id: ck0u9stviajqr0i19editvkyy
+    commentsToLikes: 0.062691
+    id: ck9wd2bi1dr640j780ut0ekly
     verified: false
-    hashtags: "#fashionmen, #beautifuldestinations, #skincare, #gaymodel"
-  - username: "alenika_pro"
+    hashtags: "#lockdown, #diversity, #earthday, #plumeria"
+  - username: "wiolettatuschnio"
     fullname: >-
-      🔥Фитнес ТРЕНЕР ОНЛАЙН🔥ДИЕТОЛОГ
+      vegan ⦙ health ⦙ sustainable
     location: "Indonesia"
-    followers: 52769
-    engagement: 187
-    commentsToLikes: 0.018527
-    id: ck5hokoj1pq850i11manr37sm
+    followers: 16829
+    engagement: 611
+    commentsToLikes: 0.059006
+    id: ck0ttg76y2kre0i19q8ixjxqe
     verified: false
-    hashtags: "#flywithbaby, #swimwear, #blogger, #motivation"
-  - username: "peru_family"
+    hashtags: "#sustainability, #selfcare, #granola, #vegansnack"
+  - username: "paulauchoa_"
     fullname: >-
-      Бизнес Семья Бали
+      | Paula Uchoa |
     location: "Indonesia"
-    followers: 44671
-    engagement: 128
-    commentsToLikes: 0.106179
-    id: ck5zp6xmbs3py0i14ff0x2jsr
+    followers: 5648
+    engagement: 1070
+    commentsToLikes: 0.092436
+    id: ck9h9mg4p92cc0j78v27dfacv
     verified: false
-    hashtags: "#vegan, #vegeterian, #covid19, #peru"
-  - username: "jasminelouisejones"
-    fullname: >-
-      🐉✖️Jasmine Loux✖️🐉
-    location: "Indonesia"
-    followers: 64173
-    engagement: 144
-    commentsToLikes: 0.021539
-    id: ck5c23jb7whbe0i11mugk0q16
-    verified: false
-    hashtags: "#outdoorbath, #tattooedmodel, #shiny, #selfisolation"
+    hashtags: "#stayhome, #rawvegan, #covid, #athome"
   - username: "malsvensson"
     fullname: >-
       ♌︎ Malin ☽                  🇸🇪
     location: "Indonesia"
-    followers: 25222
-    engagement: 203
-    commentsToLikes: 0.045273
+    followers: 25135
+    engagement: 209
+    commentsToLikes: 0.040479
     id: ck6u7m9f7mcvp0j71xbx98zbe
     verified: false
-    hashtags: "#nourishingfoods, #boho, #bohemian, #guatemala"
+    hashtags: "#ceremony, #dreamland, #lekelekewaterfall, #natureza"
+  - username: "clairesharrynroberto"
+    fullname: >-
+      PLANT-BASED ⋆ Vegan Chef
+    location: "Indonesia"
+    followers: 16919
+    engagement: 296
+    commentsToLikes: 0.082037
+    id: ck6tuzgzdjb7u0j718zu46nk3
+    verified: false
+    hashtags: "#doha, #ayurvedic, #easyrecipe, #enoughsaid"
+  - username: "aris_19"
+    fullname: >-
+      Kadek Aris Budiarta || Bali
+    location: "Indonesia"
+    followers: 4894
+    engagement: 891
+    commentsToLikes: 0.065741
+    id: ck0uehfw0lhd20i198g3jvla8
+    verified: false
+    hashtags: "#thegoldencity, #tsaongaf, #stayhome, #sunset"
 ---

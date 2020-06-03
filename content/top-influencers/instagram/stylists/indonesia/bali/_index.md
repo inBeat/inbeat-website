@@ -1,107 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Bali In 2020
 description: >-
-  Find top stylists Instagram influencers in Bali in 2020. Most popular hashtags: #bali #balimodel #balistylist #fashionstylist.
+  Find top stylists Instagram influencers in Bali in 2020. Most popular hashtags: #bali #lookbook #travel #makeupartist.
 platform: Instagram
 profiles:
   - username: "polisandraa"
     fullname: >-
       Polina Bokova
     location: "Indonesia"
-    followers: 20328
-    engagement: 130
-    commentsToLikes: 0.089440
+    followers: 20040
+    engagement: 124
+    commentsToLikes: 0.081744
     id: ck13cx8hd2m170i19z6m8oy66
     verified: false
-    hashtags: "#baliphotoshoot, #moscowmodel, #jupiter, #catalogue"
-  - username: "anatolievs"
-    fullname: >-
-      Фотограф Бали
-    location: "Indonesia"
-    followers: 27916
-    engagement: 107
-    commentsToLikes: 0.034602
-    id: ck5c4k3a31ip60i117itaw8ok
-    verified: false
-    hashtags: "#photographerdubai, #balimodel, #nikontakez, #bikinishootbali"
+    hashtags: "#catalogue, #bali, #jupiter, #balilife"
   - username: "marionmax_stylist"
     fullname: >-
       Marion Max
     location: "Indonesia"
-    followers: 8800
-    engagement: 317
-    commentsToLikes: 0.012863
+    followers: 8689
+    engagement: 323
+    commentsToLikes: 0.013179
     id: ck15r7iv96j6r0i19ou38msbe
     verified: false
-    hashtags: "#canggu, #lookbook, #productshoot, #makeupartist"
-  - username: "rifabimbi"
+    hashtags: "#canggubabe, #makeupartist, #balimodelagency, #styledbyme"
+  - username: "adimasreynard"
     fullname: >-
-      BIM
+      Adimas Reynard
     location: "Indonesia"
-    followers: 9837
-    engagement: 867
-    commentsToLikes: 0.014983
-    id: ck0u0vyxov0dn0i19u9jnsp4s
+    followers: 5769
+    engagement: 520
+    commentsToLikes: 0.014838
+    id: ckaornlydo0x30i785owiy0fg
     verified: false
-    hashtags: "#sunset, #sunsetlover, #photobali, #shoot"
-  - username: "marialerner"
+    hashtags: ""
+  - username: "genunerd"
     fullname: >-
-      Maria Lerner
+      W I S N U  G E N U
     location: "Indonesia"
-    followers: 10291
-    engagement: 556
-    commentsToLikes: 0.064106
-    id: ck5hkl8teimiy0i11q9a7f6ez
+    followers: 41210
+    engagement: 141
+    commentsToLikes: 0.031832
+    id: ck139fhrjl1hk0i197v73j2xs
     verified: false
-    hashtags: "#marialerner, #lifeinparadise, #balisunset, #morningthoughts"
-  - username: "bhavyagowda.07"
-    fullname: >-
-      Bhavya gowda
-    location: "Indonesia"
-    followers: 62696
-    engagement: 436
-    commentsToLikes: 0.001414
-    id: ck0vwa15esrqi0i19rowzzaq6
-    verified: false
-    hashtags: "#gooddaysahead, #bali, #sistersforlife, #picoftheyear"
-  - username: "brigidalourdes"
-    fullname: >-
-      🌈 Welcome to my dreamy world 🌈
-    location: "Indonesia"
-    followers: 26749
-    engagement: 330
-    commentsToLikes: 0.032924
-    id: ck0tvg84tb7tf0i19npgjwh98
-    verified: false
-    hashtags: "#happyvalentinesday, #blogger, #girls, #travelblogger"
-  - username: "glamazoid"
-    fullname: >-
-      Angie Anggoro
-    location: "Indonesia"
-    followers: 58429
-    engagement: 262
-    commentsToLikes: 0.002468
-    id: ck0uekzmqljkk0i193srltekq
-    verified: false
-    hashtags: "#flashbacksaturday, #fuckyeah, #repost, #angieanggoro"
+    hashtags: "#architecture, #outfit, #tiktok, #shotoniphone"
   - username: "christiotanada"
     fullname: >-
       𝐭𝐢𝐨.
     location: "Indonesia"
-    followers: 22967
-    engagement: 387
-    commentsToLikes: 0.015584
+    followers: 22792
+    engagement: 440
+    commentsToLikes: 0.006866
     id: ck0w6q9059sb30i194417s023
     verified: false
-    hashtags: "#geisha, #ootd, #tiomaintiktok, #invinciblezoom"
-  - username: "malavika_ak"
+    hashtags: "#bali, #portiofolio, #dirumahaja, #aj1lowshadow"
+  - username: "jessicaboediardjo"
     fullname: >-
-      Malavika //
+      JESSICA BOEDIARDJO
     location: "Indonesia"
-    followers: 8506
-    engagement: 678
-    commentsToLikes: 0.006444
-    id: ck15svyj1f2pd0i19auuglxur
+    followers: 7384
+    engagement: 257
+    commentsToLikes: 0.019678
+    id: ck0w6x1a0ao060i197stvbd2u
     verified: false
-    hashtags: "#pinspired, #beautifuldestinations, #malavikawrites, #throwback"
+    hashtags: "#wearone, #vinnalymarried, #mordengold, #stevduloveme"
+  - username: "pashnevaeo"
+    fullname: >-
+      Evgenia Pashneva
+    location: "Indonesia"
+    followers: 24872
+    engagement: 500
+    commentsToLikes: 0.015459
+    id: ck55ody1o86310i11hg1fk03o
+    verified: false
+    hashtags: "#nike, #ubudbali, #balilivin, #baliblogger"
+  - username: "glamazoid"
+    fullname: >-
+      Angie Anggoro
+    location: "Indonesia"
+    followers: 57907
+    engagement: 166
+    commentsToLikes: 0.007155
+    id: ck0uekzmqljkk0i193srltekq
+    verified: false
+    hashtags: "#reminiscing, #hypenoticinc, #missingthebeachesofmylife, #beingabimbo"
+  - username: "antonio_fernandes25"
+    fullname: >-
+      MODEL 190 cm | BLOGGER
+    location: "Indonesia"
+    followers: 18203
+    engagement: 292
+    commentsToLikes: 0.054815
+    id: ck5hcmm5ziv0n0i11l0dhvuwp
+    verified: false
+    hashtags: "#couplegoals, #modelling, #bookstagram, #love"
+  - username: "rinandinii"
+    fullname: >-
+      R. Andini S.M
+    location: "Indonesia"
+    followers: 3669
+    engagement: 786
+    commentsToLikes: 0.028707
+    id: ck14jb2fsjfry0i19gkgk4a7u
+    verified: false
+    hashtags: "#makeupideas, #makeupaddict, #makeupoftheday, #potd"
 ---

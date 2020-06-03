@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In Mumbai In 2020
 description: >-
-  Find top vegan Instagram influencers in Mumbai in 2020. Most popular hashtags: #indianfood #vegan #india #foodie.
+  Find top vegan Instagram influencers in Mumbai in 2020. Most popular hashtags: #vegan #dessert #mumbai #mumbaifood.
 platform: Instagram
 profiles:
-  - username: "ingenious_foodie"
+  - username: "the.gastronomical.voyage"
     fullname: >-
-      Keshanth
+      Anindita Ghosh (:
     location: "India"
-    followers: 19403
-    engagement: 1420
-    commentsToLikes: 0.017336
-    id: ck6u25yuepwv70j71h7hoarbx
+    followers: 18362
+    engagement: 327
+    commentsToLikes: 0.058709
+    id: ckap2hdejyu630i78kj1rj51z
     verified: false
-    hashtags: "#biryani, #pondicherry, #savefromcorona, #kabab"
-  - username: "niti_jaipur_homefood"
+    hashtags: "#homecooking, #postoftheday, #staypositive, #cyclone"
+  - username: "aamchi.m"
     fullname: >-
-      CookwithNiti
+      आमची  मुंबई
     location: "India"
-    followers: 26177
-    engagement: 344
-    commentsToLikes: 0.109529
-    id: ck6uewocqti620j71mxdlpy3p
+    followers: 8983
+    engagement: 677
+    commentsToLikes: 0.094399
+    id: ck8t78rncfz610j78e6mm7tob
     verified: false
-    hashtags: "#panipuri, #paobhaji, #mumbaidiaries, #vegan"
-  - username: "peachy_vibe"
+    hashtags: "#safetysimpz, #like, #stayhome, #pennelover"
+  - username: "ultra.foodie"
     fullname: >-
-      PV BY JESIKA • TWINKLE  JAIN
+      Ultra Foodie™️ I🇮🇳🇹🇷🇵🇸🇶🇦🇨🇭🇹🇭🇫🇷
     location: "India"
-    followers: 104578
-    engagement: 88
-    commentsToLikes: 0.039812
-    id: ck55kg15hz7xz0i11etosvls6
+    followers: 15358
+    engagement: 399
+    commentsToLikes: 0.491803
+    id: ck8wfwa01gcva0j78w3ah4w6x
     verified: false
-    hashtags: "#plankchallenge, #homechallenge, #boardgames, #friendsforever"
-  - username: "eat_travel_click"
+    hashtags: "#macaroni, #chutney, #caramel, #masala"
+  - username: "food_destination_"
     fullname: >-
-      Eat Travel Click™️
+      Blog by Ishika©️| Kota Blogger
     location: "India"
-    followers: 18967
-    engagement: 191
-    commentsToLikes: 0.048660
-    id: ck0w3tyeiv9hi0i19wdy5r9a0
+    followers: 8247
+    engagement: 685
+    commentsToLikes: 0.330591
+    id: ckaowe3608j1h0i78j54lgk2o
     verified: false
-    hashtags: "#dimsum, #illgrammers, #kindcomments, #broccoli"
-  - username: "lifefromlens"
+    hashtags: "#quarantinelife, #bloosom, #foodindia, #bright"
+  - username: "karpurmanjari"
     fullname: >-
-      Life From Lens
+      Karpurmanjari |Travel&Living
     location: "India"
-    followers: 31637
-    engagement: 147
-    commentsToLikes: 0.019106
-    id: ck15sqy6nedsj0i19ms3xgr23
+    followers: 2823
+    engagement: 1456
+    commentsToLikes: 0.208411
+    id: ckap22xiux5gb0i78m2slclkl
     verified: false
-    hashtags: "#gujratifood, #follow4follow, #mumbaifoodblogger, #delhite"
-  - username: "kolhapur_survey"
+    hashtags: "#vegetarian, #benatural, #makeupbrushes, #streetsofindia"
+  - username: "vineethvincentofficial"
     fullname: >-
-      Kolhapur Survey
+      Vineeth Vincent
     location: "India"
-    followers: 38585
-    engagement: 670
-    commentsToLikes: 0.006065
-    id: ck55lg56s1hmb0i11z7r0xk9y
-    verified: false
-    hashtags: "#nikonasia, #seekolhapurmyway, #bhaaratchitra, #vegetarianrecipes"
-  - username: "faim_bong"
-    fullname: >-
-      Kolkata Food Blogger | Anindya
-    location: "India"
-    followers: 5202
-    engagement: 1298
-    commentsToLikes: 0.046731
-    id: ck5cfhmzlmz1h0i118fkbekvf
-    verified: false
-    hashtags: "#nrcuccbccccc, #refreshing, #dayizdaytodayzqpostz, #foodphotography"
-  - username: "rohanhingorani"
-    fullname: >-
-      rohan 👑
-    location: "India"
-    followers: 266700
-    engagement: 598
-    commentsToLikes: 0.003003
-    id: ck0w5uzrx5k8g0i199s1zwy0x
+    followers: 13613
+    engagement: 790
+    commentsToLikes: 0.022176
+    id: ck0twjmuqfogw0i19qp01mclv
     verified: true
-    hashtags: "#fresh, #swarovski, #evoque, #design"
-  - username: "prettylilthingss1"
+    hashtags: "#urbantalkies, #onatankoffuel, #environment, #noiamnot"
+  - username: "babelicious_indiana"
     fullname: >-
-      Sarah T
+      DR.RITU SINGH || INFLUENCER
     location: "India"
-    followers: 63851
-    engagement: 121
-    commentsToLikes: 0.084788
-    id: ck15tile2i9e30i19y53ayea4
+    followers: 29666
+    engagement: 144
+    commentsToLikes: 0.148276
+    id: ck5bxlj67nygn0i11l5uuez5r
     verified: false
-    hashtags: "#mentalhoodonzee5, #lifequotestagram, #equalresponsibilities, #equalpartner"
-  - username: "akankshajindal08"
+    hashtags: "#hijab, #mothersday, #weekendpost, #stylehacks"
+  - username: "foodbhukkadz"
     fullname: >-
-      Akanksha Jindal
+      ғood внυĸĸadz
     location: "India"
-    followers: 45381
-    engagement: 81
-    commentsToLikes: 0.059827
-    id: ck0ucpjw6hgvv0i19o7xqinkp
-    verified: true
-    hashtags: "#stayhome, #throwback, #playwithcolor, #happyme"
+    followers: 2050
+    engagement: 2576
+    commentsToLikes: 0.351720
+    id: ckaoweeqb8knt0i78h14t54hm
+    verified: false
+    hashtags: "#refreshing, #golgappe, #parlegbiscuits, #pineapple"
+  - username: "trendelitee"
+    fullname: >-
+      Alfiya Karim Khan
+    location: "India"
+    followers: 44111
+    engagement: 883
+    commentsToLikes: 0.032815
+    id: ck9hbiwrjh17a0j782jyxvuv9
+    verified: false
+    hashtags: "#haircurlers, #noheatdamage, #hdmascara, #staysafe"
+  - username: "foodiefirewall"
+    fullname: >-
+      Foodiefirewall_Tejas
+    location: "India"
+    followers: 27952
+    engagement: 434
+    commentsToLikes: 0.086607
+    id: ck5hnhtv3nsxm0i11swcnh9jw
+    verified: false
+    hashtags: "#kitkatcakeph, #eveningvibes, #tikkamasala, #04aprilgg"
 ---

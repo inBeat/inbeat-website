@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Osaka In 2020
 description: >-
-  Find top health Instagram influencers in Osaka in 2020. Most popular hashtags: #japan #pr #tokyo #fujimi.
+  Find top health Instagram influencers in Osaka in 2020. Most popular hashtags: #ootd #osaka #health #japan.
 platform: Instagram
 profiles:
-  - username: "kahoyanagihara"
+  - username: "yukonano"
     fullname: >-
-      kahoyanagihara
+      yuko  /runたまにDJとお山
     location: "Japan"
-    followers: 23404
-    engagement: 73
-    commentsToLikes: 0.056974
-    id: ck13775wba4o70i19vickaq2c
+    followers: 12451
+    engagement: 872
+    commentsToLikes: 0.001973
+    id: ck6tzekzf98r10j713bxzq7zd
     verified: false
-    hashtags: "#locari, #tioo, #glam, #ootd"
-  - username: "kiki__cafe"
+    hashtags: "#propo, #romanholiday, #airmax90, #iphone11pro"
+  - username: "maripo_jp"
     fullname: >-
-      キキ。
+      M A R I 🌐 神林真里
     location: "Japan"
-    followers: 10356
-    engagement: 520
-    commentsToLikes: 0.001753
-    id: ck0ud8pa5io280i19m4vb3ato
+    followers: 28583
+    engagement: 203
+    commentsToLikes: 0.012663
+    id: ck14i2zyrddu80i19pfnkl5to
     verified: false
-    hashtags: "#asakusa, #bistro, #greentea, #torse"
-  - username: "shin_kuroobisan"
+    hashtags: "#sunglassesstyle, #ignis, #hairtreatment, #mimc"
+  - username: "twoplatesonespoon"
     fullname: >-
-      黒帯さん^ ^
+      Sydney Foodie | Jen
     location: "Japan"
-    followers: 53221
-    engagement: 265
-    commentsToLikes: 0.004391
-    id: ck14gn8qo62a00i19x842erjn
+    followers: 3733
+    engagement: 1530
+    commentsToLikes: 0.285889
+    id: ck0ttrk9m40hn0i197nb4pw8w
     verified: false
-    hashtags: "#fridayfeeling, #skincareindonesia, #lashesonfleek, #lashtech"
+    hashtags: "#dessertbae, #vscofood, #keepsafe, #instadrink"
   - username: "kenny_spicysol"
     fullname: >-
       ᴋᴇɴɴʏ  sᴘǐᴄʏs❂ʟ
     location: "Japan"
-    followers: 129789
-    engagement: 464
-    commentsToLikes: 0.004177
+    followers: 144834
+    engagement: 352
+    commentsToLikes: 0.005323
     id: ck5hspitdwzie0i11nhj9wgkc
     verified: true
-    hashtags: "#spicysol, #camping, #airstreamdreams, #20203030"
+    hashtags: "#goodvibesonly, #shibuya, #vintagecar, #longboard"
+  - username: "pakio999"
+    fullname: >-
+      近藤アリー（パキ男）
+    location: "Japan"
+    followers: 6946
+    engagement: 718
+    commentsToLikes: 0.031007
+    id: ckap63hnhe8cz0i78hmj171rg
+    verified: false
+    hashtags: "#giovannirossi, #ginza, #life, #tcss"
+  - username: "yukico_twingram"
+    fullname: >-
+      𝓨𝒖𝒌𝒊𝒄𝒐 ♥︎
+    location: "Japan"
+    followers: 40880
+    engagement: 156
+    commentsToLikes: 0.007244
+    id: ck0w6lg5c950l0i19ivtszcm3
+    verified: false
+    hashtags: "#whim, #blooms, #cinnamonrolls, #flowertalking"
   - username: "xobearhugs"
     fullname: >-
       🐼🌱🌸💕
     location: "Japan"
-    followers: 35480
-    engagement: 702
-    commentsToLikes: 0.089237
+    followers: 78854
+    engagement: 1493
+    commentsToLikes: 0.045870
     id: ck5q69hddwix00i11rfuqbahr
     verified: false
-    hashtags: "#grateful"
-  - username: "kellymisawa"
-    fullname: >-
-      Kelly Misawa | Wellness
-    location: "Japan"
-    followers: 57495
-    engagement: 268
-    commentsToLikes: 0.032510
-    id: ck55n669b5kgr0i112ceoz4ln
-    verified: false
-    hashtags: "#sanairesort, #vitamixjapan, #comingsoon, #happysunday"
-  - username: "ruqayyah_dp"
-    fullname: >-
-      STYLE BY RUQAYYAH
-    location: "Japan"
-    followers: 44569
-    engagement: 221
-    commentsToLikes: 0.034628
-    id: ck8t08bw7r64k0j78k8w1ater
-    verified: false
-    hashtags: "#farhan, #birthdayboy, #marchborn, #birthdaycountdown"
+    hashtags: ""
   - username: "tina.cohen"
     fullname: >-
-      TINA COHEN 🌺 ティナ コーヘン
+      TINA COHEN 🌺
     location: "Japan"
-    followers: 46177
-    engagement: 940
-    commentsToLikes: 0.009869
+    followers: 50160
+    engagement: 993
+    commentsToLikes: 0.009573
     id: ck0u1gvbvwu270i19wgpdj9vm
     verified: false
-    hashtags: "#ad, #bodyglovegirl, #createhappiness, #partner"
+    hashtags: "#chocolatelab, #earthday, #quarantine, #eastwaves"
+  - username: "sweetpea_miki"
+    fullname: >-
+      フォトグラファー Miki❤大阪北摂Sweetpea
+    location: "Japan"
+    followers: 35153
+    engagement: 269
+    commentsToLikes: 0.047534
+    id: ck6tn4c7k93wn0j71adit9dij
+    verified: false
+    hashtags: "#handsapp, #muse, #spout, #osiorganic"
   - username: "baby__lion"
     fullname: >-
       Baby Lion 🦁
     location: "Japan"
-    followers: 22357
-    engagement: 484
-    commentsToLikes: 0.006598
+    followers: 22554
+    engagement: 501
+    commentsToLikes: 0.005943
     id: ck5hdd3b6mrhz0i11ts4pz387
     verified: false
-    hashtags: "#bikikilife, #feelbetter, #smilemore, #catchthelight"
-  - username: "codvoid"
-    fullname: >-
-      mio
-    location: "Japan"
-    followers: 10495
-    engagement: 1335
-    commentsToLikes: 0.008707
-    id: ck6ugjp2y3feg0j7125ecydxe
-    verified: false
-    hashtags: "#rapha, #rodebike, #bianchi, #asiangirls"
+    hashtags: "#yogagirl, #maldives, #0321, #denimjumpsuit"
 ---

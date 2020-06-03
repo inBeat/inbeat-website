@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Turin In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Turin in 2020. Most popular hashtags: #iorestoacasa #style #beautiful #love.
+  Find top lifestyle Instagram influencers in Turin in 2020. Most popular hashtags: #torino #smile #gifted #lifestyle.
 platform: Instagram
 profiles:
-  - username: "andre_wave"
+  - username: "kata_morad"
     fullname: >-
-      Andrea Pavanello
+      Morad  Kata
     location: "Italy"
-    followers: 53530
-    engagement: 1018
-    commentsToLikes: 0.080242
-    id: ck0ue4wkekoms0i19b8wuqnm4
+    followers: 7965
+    engagement: 1528
+    commentsToLikes: 0.035384
+    id: ck8weuhv7emnp0j78r4qjey7r
     verified: false
-    hashtags: "#wednesday, #things, #wonderful, #genuine"
+    hashtags: "#life, #meat, #living, #nusret"
+  - username: "ely_2"
+    fullname: >-
+      Elisa Chiara♡
+    location: "Italy"
+    followers: 11568
+    engagement: 1572
+    commentsToLikes: 0.182988
+    id: ck9hb01teesqn0j78wigu0eq5
+    verified: false
+    hashtags: "#formentera, #santorinigreece, #glitter, #travelinladies"
   - username: "stefypeaceandlove"
     fullname: >-
       Stefania🌷
     location: "Italy"
-    followers: 96950
-    engagement: 616
-    commentsToLikes: 0.077282
+    followers: 120101
+    engagement: 925
+    commentsToLikes: 0.056465
     id: ck8t4hl996uib0j78buj58lfg
     verified: false
-    hashtags: "#ibelieveinyou, #reading, #happysoul, #godlovesyou"
-  - username: "floraiones"
+    hashtags: "#classystyle, #keepsmiling, #relaxyourmind, #nomakeuplook"
+  - username: "mappola_"
     fullname: >-
-      Flora Iones
+      INSPO ◦ FASHION ◦ LIFESTYLE
     location: "Italy"
-    followers: 14225
-    engagement: 2485
-    commentsToLikes: 0.087522
-    id: ck8tcby0wyzgl0j78xlcnxvwd
+    followers: 4927
+    engagement: 1033
+    commentsToLikes: 0.229278
+    id: ck13brp6awuj40i19uxzhcfg4
     verified: false
-    hashtags: "#covid19, #dream, #photo, #iorestoacasa"
-  - username: "rodvaveloce"
-    fullname: >-
-      Rodolfo B
-    location: "Italy"
-    followers: 3723
-    engagement: 2283
-    commentsToLikes: 0.107795
-    id: ck5hfshs6z3je0i11tux3uo6z
-    verified: false
-    hashtags: "#foto, #click, #italymagazine, #euro"
-  - username: "ornellapicciau"
-    fullname: >-
-      Ornella The Fashion Dance
-    location: "Italy"
-    followers: 40480
-    engagement: 96
-    commentsToLikes: 0.211099
-    id: ck136kp4i6z9p0i19skz60lqh
-    verified: false
-    hashtags: "#babyboy, #ciglione, #makuptutorial, #hotelcolaltodolomites"
+    hashtags: "#igerstorino, #palmpe, #pillowdress, #happyeaster"
   - username: "nasario_giubergia"
     fullname: >-
       Nasario Giubergia
     location: "Italy"
-    followers: 82949
-    engagement: 187
-    commentsToLikes: 0.081232
+    followers: 83834
+    engagement: 220
+    commentsToLikes: 0.074254
     id: ck8tb07qctteo0j78q8bz879f
     verified: false
-    hashtags: "#igers, #peakyblinders, #pittiuomo, #iorestoacasa"
-  - username: "my_anasa"
-    fullname: >-
-      My Anasa Travel Blogger
-    location: "Italy"
-    followers: 46023
-    engagement: 93
-    commentsToLikes: 0.024320
-    id: ck13buolrx83v0i193ux23yhh
-    verified: false
-    hashtags: "#stayhome, #trips, #turin, #florence"
+    hashtags: "#besafe, #fashionweek, #redcoral, #smile"
   - username: "serena_filomena"
     fullname: >-
-      Serena Filomena
+      SERENA FILOMENA ✨
     location: "Italy"
-    followers: 15890
-    engagement: 162
-    commentsToLikes: 0.055135
+    followers: 16279
+    engagement: 182
+    commentsToLikes: 0.057789
     id: ck6u6fiztfb4i0j71uwtevple
     verified: false
-    hashtags: "#cosmeticinaturali, #eyeshadow, #naturalproducts, #igersoftheday"
-  - username: "pininfarina_official"
+    hashtags: "#plants, #natgeohub, #happybirthday, #splendid"
+  - username: "rodvaveloce"
     fullname: >-
-      Pininfarina
+      Rodolfo B
     location: "Italy"
-    followers: 84145
-    engagement: 185
-    commentsToLikes: 0.005900
-    id: ck0w4oynhzob90i1905u9nhzg
+    followers: 3666
+    engagement: 2321
+    commentsToLikes: 0.106130
+    id: ck5hfshs6z3je0i11tux3uo6z
     verified: false
-    hashtags: "#italystaystrong, #woman, #trains, #alps"
-  - username: "bcoolcityguide"
+    hashtags: "#worlderlust, #wonderlust, #clickvision, #placesofturin"
+  - username: "marco_canepa_"
     fullname: >-
-      BCOOL GUIDE
+      Marco Canepa
     location: "Italy"
-    followers: 72626
-    engagement: 49
-    commentsToLikes: 0.003275
-    id: ck0tuyre999gf0i19m9b4h8qj
+    followers: 6447
+    engagement: 649
+    commentsToLikes: 0.019954
+    id: ckap59kq1arxl0i78l6gtcfbi
     verified: false
-    hashtags: "#casacrimea, #piattiitaliani, #vivotorino, #loves"
+    hashtags: "#photography, #sea, #summer, #jacketstyle"
+  - username: "ornellapicciau"
+    fullname: >-
+      Ornella The Fashion Dance
+    location: "Italy"
+    followers: 47757
+    engagement: 109
+    commentsToLikes: 0.178000
+    id: ck136kp4i6z9p0i19skz60lqh
+    verified: false
+    hashtags: "#tuttoandr, #happybirthday, #sponsored, #quarantine"
+  - username: "nicole_pinkbow"
+    fullname: >-
+      Nicole Lifestyle Lover
+    location: "Italy"
+    followers: 4132
+    engagement: 1185
+    commentsToLikes: 0.084617
+    id: ck9hat96ie1el0j785128sc9e
+    verified: false
+    hashtags: "#flowers, #books, #myaestheticroutine, #casely"
 ---

@@ -1,79 +1,69 @@
 ---
 title: Top 10 Graphic-Designers Instagram Influencers In Miami In 2020
 description: >-
-  Find top graphic-designers Instagram influencers in Miami in 2020. Most popular hashtags: #graphicdesign #art #graphicdesigner #nba.
+  Find top graphic-designers Instagram influencers in Miami in 2020. Most popular hashtags: #graphicdesigner #miami #graphicdesign #goat.
 platform: Instagram
 profiles:
+  - username: "catcybul"
+    fullname: >-
+      Venezuelan in Chicago📍
+    location: "United States"
+    followers: 30249
+    engagement: 169
+    commentsToLikes: 0.059777
+    id: ck0u052q1slwo0i19u30xkquv
+    verified: false
+    hashtags: "#paidadvertisement, #tiktok, #throwbackthursday, #makeup"
   - username: "sa_arteaga"
     fullname: >-
       Sergio Arteaga
     location: "United States"
-    followers: 9540
-    engagement: 364
-    commentsToLikes: 0.038792
+    followers: 9743
+    engagement: 311
+    commentsToLikes: 0.038766
     id: ck5c0z6plu4p90i114h9ertnd
     verified: false
-    hashtags: "#youtubechannel, #aligners, #interactiondesign, #adobexd"
+    hashtags: "#mono, #cleary, #webstagram, #gadgetshop"
   - username: "designedbyjohnny"
     fullname: >-
       Johnny Silva
     location: "United States"
-    followers: 6135
-    engagement: 1435
-    commentsToLikes: 0.033476
+    followers: 9631
+    engagement: 1506
+    commentsToLikes: 0.032095
     id: ck8tcu3fg0oqg0j78aa7b52g3
     verified: false
-    hashtags: "#finsup, #gobills, #airjordan, #hockeyislife"
-  - username: "cwphoto_"
+    hashtags: "#whodeynation, #bengalsfootball, #toddgurley, #billsmafia"
+  - username: "hometown_designs"
     fullname: >-
-      Charles Williams Photography
+      Jimmy Mitchell
     location: "United States"
-    followers: 124152
-    engagement: 112
-    commentsToLikes: 0.004554
-    id: ck5hlhb8pk7yj0i11and1ota6
+    followers: 62066
+    engagement: 1951
+    commentsToLikes: 0.013340
+    id: ck5qb3owzjnt30i11pefzp2rk
     verified: false
-    hashtags: ""
-  - username: "srelix"
+    hashtags: "#zach, #rodman, #curry, #laclippers"
+  - username: "glitziegal"
     fullname: >-
-      Mikey Halim
+      #GLITZIEGAL 💖 queen of pink
     location: "United States"
-    followers: 35039
-    engagement: 690
-    commentsToLikes: 0.040746
-    id: ck8tbi6mnvs150j78gd4afe13
+    followers: 21627
+    engagement: 215
+    commentsToLikes: 0.090687
+    id: ck14iz24xhu2a0i19lqzpe5zz
     verified: false
-    hashtags: "#nflfans, #magic, #seattlewashington, #hoop"
-  - username: "anabeth.jpg"
+    hashtags: "#watercolor, #miami, #walkincloset, #colorful"
+  - username: "madmax_fluffyroad"
     fullname: >-
-      Anabeth.jpg
+      🐶 Maxine the Fluffy Corgi
     location: "United States"
-    followers: 17975
-    engagement: 255
-    commentsToLikes: 0.073752
-    id: ck5q8s75i7qp00i11ivduhogc
-    verified: false
-    hashtags: "#imwithjessica, #girlssupportgirls, #happybirthday, #netflix"
-  - username: "cheligfx"
-    fullname: >-
-      Che1ique
-    location: "United States"
-    followers: 5059
-    engagement: 1882
-    commentsToLikes: 0.059198
-    id: ck5qb4i8qjroe0i11wubzm7lu
-    verified: false
-    hashtags: "#kentucky, #cleveland, #johnwall, #butterfly"
-  - username: "jayxclay"
-    fullname: >-
-      Jay Clay
-    location: "United States"
-    followers: 6567
-    engagement: 964
-    commentsToLikes: 0.039711
-    id: ck0vym0q74nul0i19cboaoj18
-    verified: false
-    hashtags: "#sportsvideo, #creative, #drawing, #logodesigner"
+    followers: 482776
+    engagement: 790
+    commentsToLikes: 0.006867
+    id: ck0w57uhd2bu50i19jalczay1
+    verified: true
+    hashtags: "#clueless, #cuteanimals, #drseuss, #scarface"
   - username: "gillie_edits"
     fullname: >-
       GillieEdits
@@ -84,24 +74,34 @@ profiles:
     id: ck13d16o8357m0i19vxn12x2y
     verified: false
     hashtags: "#espn, #battlehawks, #bigred, #patrickmahomes"
-  - username: "drawntothegame"
+  - username: "mochamommy_nyc"
     fullname: >-
-      Drawn To The Game 🔥🐉 🏈⚡️
+      Nia Lawrence
     location: "United States"
-    followers: 6685
-    engagement: 1674
-    commentsToLikes: 0.044866
-    id: ck0w18jqyi2u70i19k9vnne1e
+    followers: 12351
+    engagement: 310
+    commentsToLikes: 0.114411
+    id: ck0ube92leayt0i19dkupbde7
     verified: false
-    hashtags: "#framed8x10, #100seasons, #defensivebacks, #pitt"
-  - username: "artisthaileynolin"
+    hashtags: "#travelwithkids, #travelgram, #childhoodunplugged, #familyisforever"
+  - username: "elfusernwv"
     fullname: >-
-      HAILEY NOLIN
+      EL-Fuser
     location: "United States"
-    followers: 3595
-    engagement: 622
-    commentsToLikes: 0.056070
-    id: ck8wczez2d7iy0j781ggefnm7
+    followers: 23435
+    engagement: 243
+    commentsToLikes: 0.026070
+    id: ck6uhze5ic58u0j71fzx45bas
     verified: false
-    hashtags: "#foryoupage, #pantonecolor, #pinterestart, #droneart"
+    hashtags: "#rocklanone, #fearless, #tekashi69, #austin"
+  - username: "colt10smith"
+    fullname: >-
+      𝘾𝙤𝙡𝙩𝙤𝙣 𝙎𝙢𝙞𝙩𝙝
+    location: "United States"
+    followers: 14477
+    engagement: 389
+    commentsToLikes: 0.117914
+    id: ck8t9pnciovu40j7825msyuyy
+    verified: false
+    hashtags: "#bassfishing, #2shoes, #zerogravity, #floridakeys"
 ---

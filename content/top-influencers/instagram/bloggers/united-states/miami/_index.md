@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Miami In 2020
 description: >-
-  Find top bloggers Instagram influencers in Miami in 2020. Most popular hashtags: #miami #blogger #ootd #miamiblogger.
+  Find top bloggers Instagram influencers in Miami in 2020. Most popular hashtags: #quarantine #miami #blogger #staysafe.
 platform: Instagram
 profiles:
   - username: "nandaquero"
     fullname: >-
       Nanda Quero
     location: "United States"
-    followers: 33693
-    engagement: 361
-    commentsToLikes: 0.069018
+    followers: 34370
+    engagement: 324
+    commentsToLikes: 0.079968
     id: ck0w76yd2c2fd0i19f3ztzb5i
     verified: false
-    hashtags: "#livemakeup, #editorialmakeup, #softglam, #nudenouveau"
-  - username: "mariandre_vs"
+    hashtags: "#gimmebrow, #quarantinemood, #props, #editorialmakeup"
+  - username: "danilabory"
     fullname: >-
-      Мaría Andreína Vera
+      Dani | Lifestyle Blogger
     location: "United States"
-    followers: 30548
-    engagement: 396
-    commentsToLikes: 0.054774
-    id: ck5q90ek48srj0i11fvsx0eik
+    followers: 28683
+    engagement: 410
+    commentsToLikes: 0.133185
+    id: ck55o5l197o7k0i112p0u34hd
     verified: false
-    hashtags: "#bloggerlife, #fashionblog, #christmas, #fallfashion"
-  - username: "chipilahrssen"
+    hashtags: "#beachwear, #workingfromhome, #latinablogger, #pompanobeach"
+  - username: "melanie_ortz"
     fullname: >-
-      ｃｈｉｐｉ ｌａｈｒｓｓｅｎ
+      ♥Melanie♥
     location: "United States"
-    followers: 14713
-    engagement: 488
-    commentsToLikes: 0.016821
-    id: ck5hs44elvyfq0i11qmitlm2o
+    followers: 136785
+    engagement: 330
+    commentsToLikes: 0.062366
+    id: ck5c31rciyfix0i113s4ifc2f
     verified: false
-    hashtags: "#gopro, #postivevibes, #photo, #photography"
-  - username: "balutorresmx"
+    hashtags: "#blogger, #miamibloggers, #tbt, #fthecorona"
+  - username: "nstantremedy"
     fullname: >-
-      Balu⚡️Torres
+      VI.XXIV.MMXIV
     location: "United States"
-    followers: 15804
-    engagement: 247
-    commentsToLikes: 0.141356
-    id: ck5q61tflvjnt0i115ex4ugjg
+    followers: 2695
+    engagement: 1971
+    commentsToLikes: 0.049189
+    id: ck5cd42sfii1i0i11q5clbph1
     verified: false
-    hashtags: "#friendshipgoals, #amigo, #passion, #mexican"
-  - username: "anahablinski"
+    hashtags: "#godneverfails, #bars, #weddingszn, #getintoit"
+  - username: "theworld_ofalice"
     fullname: >-
-      Ana Hablinski
+      Alice In the Real Wonderland🦋
     location: "United States"
-    followers: 38639
-    engagement: 316
-    commentsToLikes: 0.021160
-    id: ck6u3493ovm5n0j71aqrscdqq
+    followers: 5582
+    engagement: 498
+    commentsToLikes: 0.034484
+    id: ck9hb9syzfyi70j78lubl4uka
     verified: false
-    hashtags: "#valentineshoot, #beachlife, #happyvalentinesday, #lacerobe"
+    hashtags: "#trendingphoto, #curvegirl, #naturegeography, #stateofmind"
+  - username: "linet_inspirations"
+    fullname: >-
+      CLEAN BEAUTY•LIFESTYLE•FASHION
+    location: "United States"
+    followers: 5783
+    engagement: 781
+    commentsToLikes: 0.349877
+    id: ckapbx2wk1m7h0i78spz9dfwg
+    verified: false
+    hashtags: "#thecloud, #bloggerstyle, #pendantlights, #contests"
   - username: "sonikhanem"
     fullname: >-
       Sonia Sani D.O.
     location: "United States"
-    followers: 38317
-    engagement: 371
-    commentsToLikes: 0.041798
+    followers: 38048
+    engagement: 357
+    commentsToLikes: 0.046058
     id: ck6uax43p66ie0j71y5iv3imn
     verified: false
-    hashtags: "#avgeek, #covid19, #covid, #staysafe"
-  - username: "alexxhensley"
+    hashtags: "#whoamiforgetting, #avgeek, #doctorlife, #wingviewwednesday"
+  - username: "jlondonostyle"
     fullname: >-
-      alex hensley
+      Juanita Londono
     location: "United States"
-    followers: 4501
-    engagement: 1540
-    commentsToLikes: 0.433590
-    id: ck6tmj35f7xj00j71urf39uvx
+    followers: 97588
+    engagement: 287
+    commentsToLikes: 0.058173
+    id: ck0udwvmvk3b20i19tswvpc6y
     verified: false
-    hashtags: "#amazonstyle, #targetclearance, #ltkshoes, #sunlesstanning"
-  - username: "cammpie"
+    hashtags: "#beautytips, #nycblogger, #dress, #balance"
+  - username: "nishpan"
     fullname: >-
-      𝑪𝒂𝒎 | Petite Miami Blogger
+      Nisha Panjabi
     location: "United States"
-    followers: 19905
-    engagement: 538
-    commentsToLikes: 0.060280
-    id: ck55j4i08w8xt0i11il6i2nkj
+    followers: 5427
+    engagement: 1745
+    commentsToLikes: 0.109471
+    id: ck8t491cm5x080j78qaep3fnb
     verified: false
-    hashtags: "#pinklilystyle, #dontrushchallenge, #sundayfunday, #date"
-  - username: "bymartistry"
+    hashtags: "#quarantinelife, #makeupvideox, #sneakerheads, #fashionaddict"
+  - username: "dj_sarcastic"
     fullname: >-
-      B.Y.M 🦋 BeYOUtifully Made LLC
+      💣
     location: "United States"
-    followers: 21174
-    engagement: 443
-    commentsToLikes: 0.059392
-    id: ck15rdyya7gfs0i19e4aj2bta
+    followers: 20371
+    engagement: 176
+    commentsToLikes: 0.049519
+    id: ck5zxpfhn8f5z0i14ff4r7btv
     verified: false
-    hashtags: "#blue, #destinationweddingmakeupartist, #february14, #blackballerinas"
-  - username: "rebecalupi"
-    fullname: >-
-      QueenR
-    location: "United States"
-    followers: 38655
-    engagement: 219
-    commentsToLikes: 0.272717
-    id: ck5cjilohuso00i11s8tgbp9p
-    verified: false
-    hashtags: "#girls, #outfits, #motivacion, #happywomensday"
+    hashtags: "#babyhair, #beauty, #djsarcastic, #artist"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top health Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #health #motivation #stayhome.
+  Find top health Instagram influencers in San Francisco in 2020. Most popular hashtags: #health #healthy #life #flashbackfriday.
 platform: Instagram
 profiles:
-  - username: "linaxkamb"
-    fullname: >-
-      lina
-    location: "United States"
-    followers: 3954
-    engagement: 1159
-    commentsToLikes: 0.065835
-    id: ck8wg94pygxth0j784dnahbeq
-    verified: false
-    hashtags: "#adventcalendar, #partytime, #veganfood, #springbreak2020"
-  - username: "skyfrost"
-    fullname: >-
-      Sky Frost | Travel
-    location: "United States"
-    followers: 17331
-    engagement: 215
-    commentsToLikes: 0.116663
-    id: ck0vzcnjp8fx00i19brqwt2rx
-    verified: false
-    hashtags: "#bigblanket, #optoutside, #arialattner, #thehempdivision"
   - username: "livewithsyd"
     fullname: >-
       sydney bricklin
     location: "United States"
-    followers: 2363
-    engagement: 1775
-    commentsToLikes: 0.327511
+    followers: 2719
+    engagement: 1923
+    commentsToLikes: 0.263521
     id: ck6uax9r367gj0j716yuomv3w
     verified: false
-    hashtags: "#quarantinelife, #whatsonmyplate, #certifiedorganichemp, #humpday"
-  - username: "adriano_sosa"
+    hashtags: "#facebehindthefeed, #meatlessmonday, #womenshistorymonth, #dailyharvest"
+  - username: "909_jc"
     fullname: >-
-      Adriano Sosa
+      Joel Cullinane
     location: "United States"
-    followers: 55917
-    engagement: 214
-    commentsToLikes: 0.071510
-    id: ck13bz3qcxumx0i19wrzz28zw
+    followers: 2364
+    engagement: 2297
+    commentsToLikes: 0.054798
+    id: ck0w48qsaxcpy0i191dnjj8sj
     verified: false
-    hashtags: "#positive, #smize, #fitnes, #birthday"
-  - username: "brendenbrown"
+    hashtags: "#venice, #experience, #scenery, #yolo"
+  - username: "chlomoneyfit"
     fullname: >-
-      Brenden Brown
+      Chloe Zomnir
     location: "United States"
-    followers: 21803
-    engagement: 200
-    commentsToLikes: 0.063070
-    id: ck6uama9q4cgc0j71mqschpzh
+    followers: 13340
+    engagement: 801
+    commentsToLikes: 0.255311
+    id: ck5c45vj10nzn0i11u5ywnock
     verified: false
-    hashtags: "#epidermolysisbullosa, #coronavir, #coronavid19, #staysafe"
-  - username: "ms.jaimelee"
+    hashtags: "#followers, #followtrain, #supporteachother, #follower"
+  - username: "theseangreen"
     fullname: >-
-      𝓜𝓼. 𝓙𝓪𝓲𝓶𝓮 𝓛𝓮𝓮🇺🇸
+      Sean C. Green
     location: "United States"
-    followers: 102976
-    engagement: 135
-    commentsToLikes: 0.025727
-    id: ck5c7mx5p7tr50i115cq9so6t
-    verified: false
-    hashtags: "#hotelworkout, #luxor, #repost, #hiitworkout"
-  - username: "bett_yu"
-    fullname: >-
-      Betty Yu
-    location: "United States"
-    followers: 6442
-    engagement: 487
-    commentsToLikes: 0.110570
-    id: ck5q4ykycqpts0i11oqs9jyxn
+    followers: 28782
+    engagement: 177
+    commentsToLikes: 0.112804
+    id: ck5cab6kbd2um0i11xepd6iku
     verified: true
-    hashtags: "#shelterinplace, #alamedacounty, #doctors, #chefs"
+    hashtags: "#keys2thegym, #3ballchallenge, #thanks, #goodvibes"
+  - username: "reggieaqui"
+    fullname: >-
+      Reggieaqui
+    location: "United States"
+    followers: 8208
+    engagement: 508
+    commentsToLikes: 0.079811
+    id: ck6ubiari9qup0j71d8nacjyg
+    verified: false
+    hashtags: "#mentalhealthawareness, #castrotheater, #rainonme, #galaxysedge"
+  - username: "ednacfree"
+    fullname: >-
+      Edna Freeman | San Francisco
+    location: "United States"
+    followers: 48180
+    engagement: 233
+    commentsToLikes: 0.449700
+    id: ckap3cdti2gx70i78phf1x9fx
+    verified: false
+    hashtags: "#breastfeed, #collabs, #maereal, #bayareabloggers"
   - username: "tanyuanyuansf"
     fullname: >-
       Yuan Yuan Tan 谭元元
     location: "United States"
-    followers: 23721
-    engagement: 391
-    commentsToLikes: 0.013602
+    followers: 23847
+    engagement: 383
+    commentsToLikes: 0.016456
     id: ck5qe1mc7yacn0i117lewzfj8
     verified: false
-    hashtags: "#blue, #awards, #lovely, #balance"
-  - username: "escobar415"
+    hashtags: "#feeling, #stayhealthy, #care, #color"
+  - username: "channelfoods"
     fullname: >-
-      ESCOBAR BOXING
+      Channel Foods
     location: "United States"
-    followers: 87399
-    engagement: 258
-    commentsToLikes: 0.013862
-    id: ck0ub8g4odz7c0i192z9en6rf
+    followers: 1114127
+    engagement: 92
+    commentsToLikes: 0.007335
+    id: ck0tuao3h6cnm0i191qg6fu63
     verified: false
-    hashtags: "#punchesinbunches, #fitfam, #fitlife, #mayweather"
-  - username: "pete_and_rachael_herschelman"
+    hashtags: "#nutritioncoach, #fuelyourbody, #cooking, #calcium"
+  - username: "ucsf"
     fullname: >-
-      Pete and Rachael Herschelman
+      UC San Francisco (UCSF)
     location: "United States"
-    followers: 8544
-    engagement: 593
-    commentsToLikes: 0.007502
-    id: ck14k750zo2kg0i19ynjqwl62
+    followers: 11734
+    engagement: 555
+    commentsToLikes: 0.016174
+    id: ck0w5xh225wxh0i1959svsdzz
     verified: false
-    hashtags: "#peacefulmind, #budget, #health, #marriedlife"
+    hashtags: "#foodbank, #dentistry, #nurses, #nursing"
+  - username: "mir_random"
+    fullname: >-
+      MIRANDA PERRY
+    location: "United States"
+    followers: 11335
+    engagement: 691
+    commentsToLikes: 0.055651
+    id: ckapa88x5v4nt0i783j1lg75q
+    verified: false
+    hashtags: "#business, #appreciate, #weddingszn, #happy"
 ---

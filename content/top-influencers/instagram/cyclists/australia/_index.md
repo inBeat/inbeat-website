@@ -1,66 +1,76 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Australia In 2020
 description: >-
-  Find top cyclists Instagram influencers in Australia in 2020. Most popular hashtags: #tourdownunder #cycling #ridetogether #thewolfpack.
+  Find top cyclists Instagram influencers in Australia in 2020. Most popular hashtags: #tourdownunder #flashbackfriday #yorkshire2019 #tourforall.
 platform: Instagram
 profiles:
-  - username: "jasperphilipsen"
+  - username: "calebewan"
     fullname: >-
-      Jasper Philipsen
+      Caleb Ewan
     location: "Australia"
-    followers: 12529
-    engagement: 1571
-    commentsToLikes: 0.040841
-    id: ck5qe0jr7y5a20i11miq9mp2f
+    followers: 104035
+    engagement: 721
+    commentsToLikes: 0.010066
+    id: ck0vwfldrtgcs0i19jz0fuofi
     verified: false
-    hashtags: "#cycling, #sprint, #beach, #teamwork"
+    hashtags: "#brisbanecitylandrover, #tourdownunder, #tdu, #racetorquay"
+  - username: "liane_lippert"
+    fullname: >-
+      ᴸᴵᴬᴺᴱ ᴸᴵᴾᴾᴱᴿᵀ
+    location: "Australia"
+    followers: 10295
+    engagement: 1325
+    commentsToLikes: 0.010221
+    id: ck14kg8nspdbi0i19co518oud
+    verified: false
+    hashtags: "#trainingmotivation, #mallorca, #torquay, #cervelobikes"
+  - username: "shannonmccurley_"
+    fullname: >-
+      Shannon McCurley             🍪
+    location: "Australia"
+    followers: 28088
+    engagement: 666
+    commentsToLikes: 0.011495
+    id: ck5c1qimsvpwv0i11pfzvb53t
+    verified: true
+    hashtags: "#nevergofullshan, #igotitfrommymama, #lads, #ftp"
   - username: "elllaharrris"
     fullname: >-
       Ella Harris
     location: "Australia"
-    followers: 7890
-    engagement: 1473
-    commentsToLikes: 0.011538
+    followers: 8576
+    engagement: 1428
+    commentsToLikes: 0.012514
     id: ck5zrxx49xgi40i14ng6fcmgj
     verified: false
-    hashtags: "#wtdu, #tdu, #flexiknees, #keepmecompany"
-  - username: "liane_lippert"
-    fullname: >-
-      Liane Lippert
-    location: "Australia"
-    followers: 10071
-    engagement: 1329
-    commentsToLikes: 0.010369
-    id: ck14kg8nspdbi0i19co518oud
-    verified: false
-    hashtags: "#palmademallorca, #challenging, #trainingcamp, #wirsindteamsunweb"
+    hashtags: "#sramwomenstour, #zippspeed, #etapaxs, #realme"
   - username: "riabushenko95"
     fullname: >-
       ALEKSANDR RIABUSHENKO
     location: "Australia"
-    followers: 6444
-    engagement: 1195
-    commentsToLikes: 0.017953
+    followers: 6392
+    engagement: 1213
+    commentsToLikes: 0.017984
     id: ck0w5iez13s290i196ni01q05
     verified: false
-    hashtags: "#cyclingphotos, #ciclismo, #roadcycling, #piazzaduomo"
-  - username: "maceystewart"
+    hashtags: "#australia, #milano, #yorkshire19, #yearoftolerance"
+  - username: "nettieedmo"
     fullname: >-
-      MACEY STEWART
+      Annette Edmondson
     location: "Australia"
-    followers: 43949
-    engagement: 535
-    commentsToLikes: 0.009898
-    id: ck15r4bqo62yh0i19heezpkb6
-    verified: false
-    hashtags: "#aintnopokerface, #tascarnivals, #repost, #yewwwww"
+    followers: 36781
+    engagement: 363
+    commentsToLikes: 0.014280
+    id: ckap5vk1wdclo0i78m2iveqi6
+    verified: true
+    hashtags: "#shininglight, #homegymworkout, #canrecommend, #besafebeseen"
   - username: "dylanvanbaarle"
     fullname: >-
       Dylan Van Baarle
     location: "Australia"
-    followers: 23689
-    engagement: 956
-    commentsToLikes: 0.011595
+    followers: 24124
+    engagement: 946
+    commentsToLikes: 0.011790
     id: ck0twxow9h6w50i19bll6bts0
     verified: true
     hashtags: "#linksrechts, #stayinside"
@@ -68,40 +78,30 @@ profiles:
     fullname: >-
       sam bennett
     location: "Australia"
-    followers: 49488
-    engagement: 921
-    commentsToLikes: 0.007516
+    followers: 51386
+    engagement: 865
+    commentsToLikes: 0.006047
     id: ck0tvggc6b8to0i193no7k5c2
     verified: true
-    hashtags: "#r58, #coffee, #deceuninck, #cancer"
-  - username: "michaelmorkov"
-    fullname: >-
-      Michael Mørkøv
-    location: "Australia"
-    followers: 14732
-    engagement: 1203
-    commentsToLikes: 0.009464
-    id: ck0udr1s1jrsz0i1966xtij6t
-    verified: false
-    hashtags: "#thoughtstoaustralia, #tourmalet, #ville, #oakleycustom"
-  - username: "keitsuji"
-    fullname: >-
-      Kei Tsuji
-    location: "Australia"
-    followers: 19045
-    engagement: 607
-    commentsToLikes: 0.002415
-    id: ck5qazu9fj4360i11mixvqjju
-    verified: false
-    hashtags: "#adelaide, #tobishimakaido, #saitamacriterium, #outsideisfree"
+    hashtags: "#sponsorship, #stayhome, #alwaystherightprofile, #2020"
   - username: "pavel_sivakov"
     fullname: >-
       Pavel Sivakov
     location: "Australia"
-    followers: 17155
-    engagement: 1306
-    commentsToLikes: 0.006981
+    followers: 17327
+    engagement: 1266
+    commentsToLikes: 0.006834
     id: ck0w1fj6fj3550i19r26egy7z
     verified: false
     hashtags: ""
+  - username: "mariannevosofficial"
+    fullname: >-
+      Marianne Vos
+    location: "Australia"
+    followers: 91361
+    engagement: 617
+    commentsToLikes: 0.010612
+    id: ck0u142j8vrb60i1977u5t6ee
+    verified: true
+    hashtags: "#cxishere, #tomr, #eurosport, #teamknwu"
 ---

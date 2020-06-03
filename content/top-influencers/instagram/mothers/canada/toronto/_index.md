@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Toronto In 2020
 description: >-
-  Find top mothers Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #quarantine #city #paperflower.
+  Find top mothers Instagram influencers in Toronto in 2020. Most popular hashtags: #mothers #mothersday #mother #family.
 platform: Instagram
 profiles:
+  - username: "afifa.aadil"
+    fullname: >-
+      Afifa Aadil 🇵🇰 🇨🇦
+    location: "Canada"
+    followers: 28698
+    engagement: 229
+    commentsToLikes: 0.355460
+    id: ck9wgiexotk0a0j78jtb7wa5n
+    verified: false
+    hashtags: "#quarantinelife, #momsofinstagram, #desibabe, #desibloggers"
+  - username: "mrmeadowsss"
+    fullname: >-
+      PowerCircle
+    location: "Canada"
+    followers: 6120
+    engagement: 1014
+    commentsToLikes: 0.088082
+    id: ck5hgcu7x24a40i11h0tvcvwr
+    verified: false
+    hashtags: "#goodlife, #2019, #judging, #leoseason"
   - username: "lisamaartinez"
     fullname: >-
       Olmands
     location: "Canada"
-    followers: 2477
-    engagement: 1670
-    commentsToLikes: 0.031032
+    followers: 2466
+    engagement: 1741
+    commentsToLikes: 0.034896
     id: ck5hs2garvvl70i11qt2xmi56
     verified: false
     hashtags: ""
-  - username: "jessikasecrett"
+  - username: "lovebtntheracks"
     fullname: >-
-      Jessika 🤍
+      L I N A  D I N H
     location: "Canada"
-    followers: 635664
-    engagement: 97
-    commentsToLikes: 0.039360
-    id: ck5c9ny2abs010i11524x3j81
+    followers: 26303
+    engagement: 225
+    commentsToLikes: 0.112333
+    id: ck8symjwgl9zy0j78tjj6edn1
     verified: false
-    hashtags: "#starfish"
+    hashtags: "#gifts, #shopsmall, #islandtime, #eathealthy"
+  - username: "sistersisterbean"
+    fullname: >-
+      Modeling/Creative Photography
+    location: "Canada"
+    followers: 3208
+    engagement: 1249
+    commentsToLikes: 0.493541
+    id: ck8tdecba30qw0j780wajk3lb
+    verified: false
+    hashtags: "#stylishkids, #mothersdaylove, #instagoodness, #covergirl"
+  - username: "celiacandthe6ix"
+    fullname: >-
+      Ashley Gismondi🍁
+    location: "Canada"
+    followers: 5421
+    engagement: 920
+    commentsToLikes: 0.267251
+    id: ck6tzz7h5cpr00j716sem0cpj
+    verified: false
+    hashtags: "#pursuepretty, #leafsforever, #paleo, #twomonths"
+  - username: "neemanaz"
+    fullname: >-
+      Neema Nazeri
+    location: "Canada"
+    followers: 43833
+    engagement: 594
+    commentsToLikes: 0.091313
+    id: ck5q3rxipm5ej0i11to9mh99m
+    verified: false
+    hashtags: "#content, #gsauce, #iranian, #battle"
   - username: "through_my_scorpio_eyes"
     fullname: >-
-      Toronto, Ontario
+      Tina 🇨🇦🇮🇹
     location: "Canada"
-    followers: 4096
-    engagement: 1105
-    commentsToLikes: 0.337781
+    followers: 4487
+    engagement: 1184
+    commentsToLikes: 0.319975
     id: ck8tck90czp7v0j784ohx3iht
     verified: false
-    hashtags: "#discoveron, #ready2, #gta, #tdot"
-  - username: "bunni_walker"
+    hashtags: "#photoediting, #torontofriday, #tourism, #streetmood"
+  - username: "knucklesthecorgi"
     fullname: >-
-      bunni walker \\ sean fimio
+      Knuckles The Corgi
     location: "Canada"
-    followers: 15827
-    engagement: 559
-    commentsToLikes: 0.012719
-    id: ck5hleo76k31h0i11c679sf4t
+    followers: 7529
+    engagement: 1250
+    commentsToLikes: 0.035006
+    id: ckapajsq5we3j0i78qrh0rl5r
     verified: false
-    hashtags: "#showmethatgrime, #loveireland, #hotrod, #aband0n"
-  - username: "emphotography_1"
+    hashtags: "#dogbirthday, #corgipup, #derpydog, #mothers"
+  - username: "3_frenchie_girls"
     fullname: >-
-      EM Photography
+      Ellie, Luna & Charley Girl
     location: "Canada"
-    followers: 46595
-    engagement: 287
-    commentsToLikes: 0.011719
-    id: ck13a675not9l0i198ujr46o7
+    followers: 18756
+    engagement: 539
+    commentsToLikes: 0.088269
+    id: ck8t85ru8j7kk0j78z9h73km0
     verified: false
-    hashtags: "#torontoindianwedding, #southasianbride, #fashion, #photography"
-  - username: "withloveangelika"
-    fullname: >-
-      αηgєℓιкα
-    location: "Canada"
-    followers: 3621
-    engagement: 441
-    commentsToLikes: 0.257059
-    id: ck0w6hhh88l3u0i19o72bjt5u
-    verified: false
-    hashtags: "#watchthemgrow, #breastfeedingmoms, #breastfeedingbaby, #badassmoms"
-  - username: "drtarasunshine"
-    fullname: >-
-      Tara
-    location: "Canada"
-    followers: 18799
-    engagement: 304
-    commentsToLikes: 0.423863
-    id: ck15tjhl1ie1l0i19an32h2oy
-    verified: false
-    hashtags: "#pesto, #paleorecipes, #balanceddiet, #healthymeals"
-  - username: "jessieatcraftedtobloom"
-    fullname: >-
-      Jessie Chui | Crafted To Bloom
-    location: "Canada"
-    followers: 11736
-    engagement: 693
-    commentsToLikes: 0.063442
-    id: ck0txd32oit1x0i19zzprthu1
-    verified: false
-    hashtags: "#paperartist, #floristry, #forflowerlovers, #roses"
-  - username: "lovebylynzie"
-    fullname: >-
-      L Y N Z I E  K E N T ♥️
-    location: "Canada"
-    followers: 21518
-    engagement: 200
-    commentsToLikes: 0.044104
-    id: ck14i2fmvdawn0i19qdkxqco9
-    verified: false
-    hashtags: "#ceremonybackdrop, #blogto, #abmlovesmurals, #theateliercollective"
-  - username: "racchhbrown"
-    fullname: >-
-      rach
-    location: "Canada"
-    followers: 2656
-    engagement: 3243
-    commentsToLikes: 0.040790
-    id: ck8wgamtjh0jg0j78uahrp0r0
-    verified: false
-    hashtags: "#wakingup, #foryoupage, #cottagecore, #charcuterie"
+    hashtags: "#instadog, #please, #whatdayisit, #ilovemydog"
 ---

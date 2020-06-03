@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Seoul In 2020
 description: >-
-  Find top beauty Instagram influencers in Seoul in 2020. Most popular hashtags: #seoul #makeup #beauty #fashion.
+  Find top beauty Instagram influencers in Seoul in 2020. Most popular hashtags: #beauty #seoul #pasta #mask.
 platform: Instagram
 profiles:
   - username: "beautybemused"
     fullname: >-
       Lisa
     location: "South Korea"
-    followers: 14658
-    engagement: 176
-    commentsToLikes: 0.113223
+    followers: 14484
+    engagement: 163
+    commentsToLikes: 0.112776
     id: ck13585fk06eb0i19vvfs36x5
     verified: false
-    hashtags: "#morningroutine, #glowingskin, #ontheblog, #lazysundaymorning"
-  - username: "andreatresgallo"
+    hashtags: "#amskincare, #beautystash, #jbeauty, #smoother"
+  - username: "hantograph"
     fullname: >-
-      Andrea Tresgallo
+      hantograph, 은서
     location: "South Korea"
-    followers: 5695
-    engagement: 904
-    commentsToLikes: 0.060313
-    id: ck5hsjwiewps50i116g63r5wi
+    followers: 175149
+    engagement: 537
+    commentsToLikes: 0.005419
+    id: ck15tnzklj1a10i19672w10v1
     verified: false
-    hashtags: "#ootd, #fashion, #trend, #fashionphoto"
-  - username: "dohyunkims"
+    hashtags: "#hanbok, #blackpink, #repost, #colors"
+  - username: "gracement"
     fullname: >-
-      김도현/ Dohyun Kim
+      
     location: "South Korea"
-    followers: 2449
-    engagement: 1232
-    commentsToLikes: 0.044684
-    id: ck5hlt85wktew0i11tqcwz4oh
+    followers: 220015
+    engagement: 323
+    commentsToLikes: 0.008766
+    id: ck1377qv7a7sh0i19zi0tw87y
     verified: false
-    hashtags: "#tb, #gq, #digitals, #aimons"
+    hashtags: "#darkselfiechallenge, #earthday, #nokisschallenge, #sisters"
+  - username: "har_326"
+    fullname: >-
+      har ( ハル )
+    location: "South Korea"
+    followers: 134030
+    engagement: 194
+    commentsToLikes: 0.004854
+    id: ck15s3857azud0i19y2u4jisb
+    verified: false
+    hashtags: "#stayhome, #perverze, #har, #mrcheesecake"
+  - username: "jjjj_yuri"
+    fullname: >-
+      ෆ 유리 ෆ
+    location: "South Korea"
+    followers: 3477
+    engagement: 1360
+    commentsToLikes: 0.094399
+    id: ckaoz5j97kgqe0i781birsyac
+    verified: false
+    hashtags: "#fashion, #beauty, #kbeauty, #pasta"
+  - username: "hanna.co.kr"
+    fullname: >-
+      Hanna Kim 김한나
+    location: "South Korea"
+    followers: 18262
+    engagement: 303
+    commentsToLikes: 0.018796
+    id: ck5zm77ftm18b0i145hym7m16
+    verified: false
+    hashtags: "#instapet, #outdoors, #views, #livinglife"
+  - username: "yangkko"
+    fullname: >-
+      Yang A Reum
+    location: "South Korea"
+    followers: 35959
+    engagement: 148
+    commentsToLikes: 0.011795
+    id: ck5hltbtbktm10i11zy9ispxq
+    verified: false
+    hashtags: ""
   - username: "won_tattooer"
     fullname: >-
       ᵂᴼᴺ
     location: "South Korea"
-    followers: 39651
-    engagement: 209
-    commentsToLikes: 0.009344
+    followers: 41364
+    engagement: 221
+    commentsToLikes: 0.006780
     id: ck8tatjdkszub0j78ubtfka3v
     verified: false
     hashtags: "#wontattoo"
-  - username: "come2david"
+  - username: "mary_land__"
     fullname: >-
-      정준구
+      매리🍒Mary😷
     location: "South Korea"
-    followers: 294117
-    engagement: 415
-    commentsToLikes: 0.007194
-    id: ck0w1k4lvjqz90i19vph5do8v
+    followers: 19586
+    engagement: 857
+    commentsToLikes: 0.029280
+    id: ck8tc0gr8xu720j78hotz5s1o
     verified: false
-    hashtags: "#ad, #colortheben, #p31, #makeup"
-  - username: "10mag"
+    hashtags: "#drc60, #longskirt, #spring, #cosmetic"
+  - username: "andreatresgallo"
     fullname: >-
-      10 Magazine Korea
+      Andrea Tresgallo
     location: "South Korea"
-    followers: 20987
-    engagement: 336
-    commentsToLikes: 0.005896
-    id: ck5hj90v5g7xt0i116g3ghmlg
+    followers: 5839
+    engagement: 902
+    commentsToLikes: 0.064196
+    id: ck5hsjwiewps50i116g63r5wi
     verified: false
-    hashtags: "#itaewonclass, #yoojaemyung, #gakwonsa, #landingcoffee"
-  - username: "4.7.4.7"
-    fullname: >-
-      Dra. Gina ⚡️(지나)
-    location: "South Korea"
-    followers: 56775
-    engagement: 265
-    commentsToLikes: 0.018518
-    id: ck5qcd48cpz8k0i11b4x9ytow
-    verified: false
-    hashtags: "#8m2020, #shibuyahmo, #australiagram, #sydneylife"
-  - username: "lem0n"
-    fullname: >-
-      Chi Lemon
-    location: "South Korea"
-    followers: 64750
-    engagement: 334
-    commentsToLikes: 0.005428
-    id: ck15suwqkexap0i19s5j8v1wa
-    verified: false
-    hashtags: "#vycdd, #chanelholiday, #chanelfragrance, #diorvietnam"
-  - username: "alannam1"
-    fullname: >-
-      남훈 Alan Nam
-    location: "South Korea"
-    followers: 25708
-    engagement: 318
-    commentsToLikes: 0.006342
-    id: ck55kafkvyv460i111bta3lsf
-    verified: false
-    hashtags: "#bari, #lifemustgoon, #friends, #alexrosson"
-  - username: "sun_j_28"
-    fullname: >-
-      장예진
-    location: "South Korea"
-    followers: 16163
-    engagement: 671
-    commentsToLikes: 0.010116
-    id: ck5ch0ovlpvxb0i11kkxpxwte
-    verified: false
-    hashtags: "#parrisgoebel, #moana, #company, #freak"
+    hashtags: "#yieyie, #samsungcard, #nailart, #artlab"
 ---

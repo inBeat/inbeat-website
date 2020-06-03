@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top food Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #beautiful #fashionblogger #swissblogger.
+  Find top food Instagram influencers in Switzerland in 2020. Most popular hashtags: #stayhome #friends #food #quarantine.
 platform: Instagram
 profiles:
-  - username: "dieyvie"
+  - username: "ana_carugati"
     fullname: >-
-      DieYvie
+      ⬜️◻️◽️▫️Ana Carugati ▫️◽️◻️⬜️
     location: "Switzerland"
-    followers: 2506
-    engagement: 1512
-    commentsToLikes: 0.178737
-    id: ck14kp3rtqlsc0i1983zhyhjx
+    followers: 9120
+    engagement: 1383
+    commentsToLikes: 0.087997
+    id: ck9hanl2rd92o0j781ai90s05
     verified: false
-    hashtags: "#mansworld, #vitamind, #thankful, #winterlover"
+    hashtags: "#japanesefood, #padr, #stayhome, #quarantine"
+  - username: "aniahimsa"
+    fullname: >-
+      Anina | vegan + eco lifestyle
+    location: "Switzerland"
+    followers: 74675
+    engagement: 285
+    commentsToLikes: 0.055051
+    id: ck0vyo0mf4y1v0i19m1bn9fbo
+    verified: false
+    hashtags: "#wochenmarkt, #erdbeeren, #mood, #zerowastebad"
+  - username: "djallysson_luis"
+    fullname: >-
+      Allysson Luis
+    location: "Switzerland"
+    followers: 40800
+    engagement: 441
+    commentsToLikes: 0.031583
+    id: ck6u341xgvkw30j71gjshii8h
+    verified: false
+    hashtags: "#art, #juntospodemos, #positivevibes, #easter"
   - username: "dr.roger_thegentleman"
     fullname: >-
       𝓓𝓻.𝓡𝓸𝓰𝓮𝓻 ~ 𝓣𝓱𝓮 𝓖𝓮𝓷𝓽𝓵𝓮𝓶𝓪𝓷
     location: "Switzerland"
-    followers: 10648
-    engagement: 726
-    commentsToLikes: 0.051689
+    followers: 11027
+    engagement: 755
+    commentsToLikes: 0.054510
     id: ck0uaxctcddms0i19lfcttkbp
     verified: false
-    hashtags: "#travelwithstyle, #threepiecesuit, #havannastyle, #gentlemanstyle"
+    hashtags: "#allaboutstyle, #sartorial, #family, #vierwaldst"
   - username: "ewaszabatin"
     fullname: >-
       Ewa Szabatin | FitFashionFreak
     location: "Switzerland"
-    followers: 57390
-    engagement: 106
-    commentsToLikes: 0.092452
+    followers: 57028
+    engagement: 97
+    commentsToLikes: 0.111543
     id: ck5c35fgvymva0i11e9p6muyf
     verified: true
-    hashtags: "#dancechallenge, #przepisy, #dancelikenooneiswatching, #bepositive"
-  - username: "paolalicciardello"
+    hashtags: "#getoutdoors, #livestreaming, #yogalovers, #hereandnow"
+  - username: "fasbeam"
     fullname: >-
-      PAOLA LICCIARDELLO
+      Faisal Khan
     location: "Switzerland"
-    followers: 17212
-    engagement: 553
-    commentsToLikes: 0.025612
-    id: ck6ucb24oejzq0j71et8nk3td
+    followers: 168309
+    engagement: 588
+    commentsToLikes: 0.007548
+    id: ck9hcwcr3n8u20j787nv9hysf
     verified: false
-    hashtags: "#wtf, #sudio, #sudiomoments"
-  - username: "belickaitee"
-    fullname: >-
-      Dalia Belickaitė
-    location: "Switzerland"
-    followers: 54510
-    engagement: 1062
-    commentsToLikes: 0.005365
-    id: ck14kmsboqaf80i1987s8pggs
-    verified: false
-    hashtags: "#cebu, #naturebox, #music, #mountain"
-  - username: "jonnekoski"
-    fullname: >-
-      Jonne Koski
-    location: "Switzerland"
-    followers: 60707
-    engagement: 303
-    commentsToLikes: 0.007707
-    id: ck5hd308el8tg0i11sceleqfb
-    verified: true
-    hashtags: "#backtowork, #gotime, #canyoudoit, #livingroomcup"
+    hashtags: ""
   - username: "marionkaelin"
     fullname: >-
       MARION KAELIN 🌸🍍
     location: "Switzerland"
-    followers: 30908
-    engagement: 156
-    commentsToLikes: 0.071807
+    followers: 30634
+    engagement: 200
+    commentsToLikes: 0.064126
     id: ck6ueoin1s5ve0j71ex6aweva
     verified: false
-    hashtags: "#fashion, #lipstick, #digitalinfluencer, #nakdhaul"
-  - username: "madame.caviar"
+    hashtags: "#gato, #team, #bathroom, #dress"
+  - username: "ready4meat"
     fullname: >-
-      • O p h é l i a 🥐 •
+      Patrick Manhard
     location: "Switzerland"
-    followers: 5704
-    engagement: 915
-    commentsToLikes: 0.166389
-    id: ck5hjzz7qhjr20i11nr78pv3p
+    followers: 7815
+    engagement: 1812
+    commentsToLikes: 0.110438
+    id: ckaorrt35ogm10i78pzf4t1f1
     verified: false
-    hashtags: "#outfit, #genevabloggersquad, #cinnamonrolls, #pancakes"
-  - username: "satyaoblette"
+    hashtags: "#entenbrust, #porkribs, #bbqparty, #teriyaki"
+  - username: "clairycherry_"
     fullname: >-
-      SATYA OBLETTE
+      Claire D.
     location: "Switzerland"
-    followers: 6050
-    engagement: 842
-    commentsToLikes: 0.109267
-    id: ck6tv1xqejpix0j716dqkfkfn
+    followers: 9433
+    engagement: 1080
+    commentsToLikes: 0.023730
+    id: ckap666vwekfj0i78rwfj70pe
     verified: false
-    hashtags: "#valentinesday, #maharajacollection, #blue, #green"
-  - username: "grosjeanromain"
+    hashtags: "#blasian, #rain, #adventure, #blackabdwhite"
+  - username: "sarah_atcho"
     fullname: >-
-      Romain Grosjean
+      Sarah Atcho
     location: "Switzerland"
-    followers: 773244
-    engagement: 217
-    commentsToLikes: 0.009844
-    id: ck0u8l1cz7lms0i19hhql7oht
-    verified: true
-    hashtags: "#pancake, #home, #fiaformula2, #neck"
+    followers: 15495
+    engagement: 948
+    commentsToLikes: 0.014476
+    id: ck5cbwhdtgak70i11zpg39uae
+    verified: false
+    hashtags: "#aikonic, #premiumgin, #is, #watch"
 ---

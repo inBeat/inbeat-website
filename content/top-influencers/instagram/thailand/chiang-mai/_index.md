@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Chiang Mai In 2020
 description: >-
-  Find top Instagram influencers in Chiang Mai in 2020. Most popular hashtags: #travelbloggerlife #thailand #travel #chiangmai.
+  Find top Instagram influencers in Chiang Mai in 2020. Most popular hashtags: #chiangmai #portrait #fashion #musclegay.
 platform: Instagram
 profiles:
-  - username: "totay168"
+  - username: "pansakul_pb"
     fullname: >-
-      ToTay Natthakit Chanthrasut
+      Pansakul_PB
     location: "Thailand"
-    followers: 65144
-    engagement: 591
-    commentsToLikes: 0.015327
-    id: ck13a0fvco07m0i19tcbsjk2v
+    followers: 41275
+    engagement: 96
+    commentsToLikes: 0.024875
+    id: ck0txojufjwfx0i19deeens7j
     verified: false
-    hashtags: "#fujifilm, #travedeeper, #travelbloggerlife, #galaxynote10th"
+    hashtags: "#smoothie, #cheatmeal, #detox, #dinner"
   - username: "pai_wichwasin"
     fullname: >-
       Pai.wichwasin
     location: "Thailand"
-    followers: 21524
-    engagement: 830
-    commentsToLikes: 0.005433
+    followers: 24012
+    engagement: 1025
+    commentsToLikes: 0.005773
     id: ck5q254euebek0i11v0w0fd3s
     verified: false
-    hashtags: "#asianpride, #ais5g, #activewear, #lineman"
-  - username: "shesbbtsw_"
+    hashtags: "#covid, #lineman, #dongstyling, #ais5g"
+  - username: "katmatcha"
     fullname: >-
-      Belinda 🌹
+      KATT’s Gallery
     location: "Thailand"
-    followers: 5558
-    engagement: 781
-    commentsToLikes: 0.019634
-    id: ck8t3puzd41bs0j7845aiya1k
+    followers: 38288
+    engagement: 784
+    commentsToLikes: 0.003661
+    id: ck9wf1zyhmxn50j78w11zrrcg
     verified: false
-    hashtags: "#portraitvision, #cafehopper, #rooftop, #shesbbtsw"
-  - username: "lltangtangll"
+    hashtags: "#travelwithcath, #tanachira, #reviewchiangmai, #adayinthailand"
+  - username: "bomes_kaweeya"
     fullname: >-
-      𝙈𝙖𝙧𝙞𝙩𝙙𝙖𝙧𝙖 𝙇. (ตังตัง)💸
+      🍃บ๋ อ ม 🍃
     location: "Thailand"
-    followers: 51527
-    engagement: 276
-    commentsToLikes: 0.005871
-    id: ck5zme4ezmehd0i14lk8xaihj
+    followers: 146794
+    engagement: 423
+    commentsToLikes: 0.008136
+    id: ckaotbrnxv7q20i78mbbk6982
     verified: false
-    hashtags: "#quarantine, #dojacat, #tiktok, #suaysomethepersian"
+    hashtags: "#sossensechiangmai, #sodaprinting, #movebibbelt, #arirunning"
+  - username: "krupim_buranasilpin"
+    fullname: >-
+      KRUPIM🎹
+    location: "Thailand"
+    followers: 35953
+    engagement: 236
+    commentsToLikes: 0.006968
+    id: ck0ucougchdqp0i191cm40qwp
+    verified: false
+    hashtags: "#salonpas, #chiangmai2020, #phiphiisland, #adidasrunning"
   - username: "pinsrrp"
     fullname: >-
       P
     location: "Thailand"
-    followers: 16394
-    engagement: 339
-    commentsToLikes: 0.003429
+    followers: 16495
+    engagement: 299
+    commentsToLikes: 0.004342
     id: ck13ay9c1srxw0i19w02n7o8u
     verified: false
-    hashtags: "#scgcircularway, #pantenerosewater, #highstreetglam"
-  - username: "krupim_buranasilpin"
-    fullname: >-
-      K R U P I M 💕
-    location: "Thailand"
-    followers: 36068
-    engagement: 198
-    commentsToLikes: 0.006213
-    id: ck0ucougchdqp0i191cm40qwp
-    verified: false
-    hashtags: "#salonpas, #evoride, #asicsth, #chiangmai2020"
-  - username: "mae_rii"
-    fullname: >-
-      Mae Rii
-    location: "Thailand"
-    followers: 11914
-    engagement: 387
-    commentsToLikes: 0.014040
-    id: ck5c64uhd4q220i115qi3dx8s
-    verified: false
-    hashtags: "#throwback, #tanachira, #cathkidstonth, #travelwithcath"
+    hashtags: "#pantenerosewater, #highstreetglam, #iaura, #iaurathailand"
   - username: "b.thanakran"
     fullname: >-
       b.thanakran
     location: "Thailand"
-    followers: 14107
-    engagement: 508
-    commentsToLikes: 0.005031
+    followers: 15192
+    engagement: 365
+    commentsToLikes: 0.008296
     id: ck0w6qrwk9uqt0i19drorjo73
     verified: false
-    hashtags: "#chiangmaicafe, #reviewchiangmai, #chiangmaithailand, #aroii"
+    hashtags: "#saveamask, #chiangmaicafe"
   - username: "yuvalohayonn"
     fullname: >-
       𝕐𝕦𝕧𝕒𝕝, 𝕋𝕖𝕝-𝔸𝕧𝕚𝕧, 𝟚𝟡
     location: "Thailand"
-    followers: 12802
-    engagement: 1965
-    commentsToLikes: 0.088391
+    followers: 13507
+    engagement: 2076
+    commentsToLikes: 0.086233
     id: ck14lovy8vqz90i192uov048r
     verified: false
-    hashtags: "#nikeswim, #relaxmode, #seaporn, #keemala"
-  - username: "cherprang.bnk48official"
+    hashtags: "#bestvacation, #morningtime, #mustachestyle, #bythepool"
+  - username: "guypiyapol"
     fullname: >-
-      Cherprang BNK48
+      𝗚𝗨𝗬𝗣𝗜
     location: "Thailand"
-    followers: 852456
-    engagement: 522
-    commentsToLikes: 0.008895
-    id: ck8tajomfs1se0j78duva05nl
-    verified: true
-    hashtags: "#cherprangbnk48, #workfromhome, #socialdistancing, #homestudio"
+    followers: 13254
+    engagement: 764
+    commentsToLikes: 0.001947
+    id: ck15qazc71yxd0i19jgtziti8
+    verified: false
+    hashtags: "#masscomm, #celebrate, #centralfestivalchiangmai, #centeroflife"
+  - username: "bear_pakornkrit"
+    fullname: >-
+      หนุ่มน่ากอด ปกรณ์กฤษณ์
+    location: "Thailand"
+    followers: 5527
+    engagement: 786
+    commentsToLikes: 0.035634
+    id: ck6u9v2c9zu1l0j71jkxo0w8e
+    verified: false
+    hashtags: "#tshirt, #lick, #chubby, #followme"
 ---

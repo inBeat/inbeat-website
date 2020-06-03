@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In Colombia In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in Colombia in 2020. Most popular hashtags: #tattoo #colombia #realistictattoo #ink.
+  Find top tattoo-artists Instagram influencers in Colombia in 2020. Most popular hashtags: #tattooed #tattooartist #wolftattoo #blackandgrey.
 platform: Instagram
 profiles:
   - username: "sophie_suicide"
     fullname: >-
       Sophie Suicide 💋
     location: "Colombia"
-    followers: 52647
-    engagement: 206
-    commentsToLikes: 0.027064
+    followers: 53582
+    engagement: 225
+    commentsToLikes: 0.094616
     id: ck5hgf21t2fj70i116egb4wh2
     verified: false
-    hashtags: "#amorindeleble, #amoeindeleble, #joalca, #premio"
+    hashtags: "#paintingaselfportraitchallenge"
   - username: "davidmention"
     fullname: >-
-      Juan David Rendón
+      Juan David Rendón
     location: "Colombia"
-    followers: 68871
-    engagement: 603
-    commentsToLikes: 0.015568
+    followers: 73065
+    engagement: 684
+    commentsToLikes: 0.015418
     id: ck6tz0x3r70cq0j71cjio7jav
     verified: false
-    hashtags: "#barcelonatattoo, #skull, #neotradeu, #love"
+    hashtags: "#finalfantasyvii, #colombiaink, #rabbit, #matryoshka"
   - username: "hernanyepes_art"
     fullname: >-
       ⭕Hernan Yepes
     location: "Colombia"
-    followers: 73968
-    engagement: 215
-    commentsToLikes: 0.029880
+    followers: 77952
+    engagement: 229
+    commentsToLikes: 0.029188
     id: ck5ho6cflp0o90i11ihe5z39i
     verified: false
-    hashtags: "#tattoocollecte, #realistictattoo, #dobleexposicion, #milanotattooconvention"
+    hashtags: "#blackandgreyink, #cheyennesolnova, #realisticart, #naturetattoo"
   - username: "pabon.art"
     fullname: >-
       Jhonatan Pabon
     location: "Colombia"
-    followers: 30100
-    engagement: 147
-    commentsToLikes: 0.050831
+    followers: 30706
+    engagement: 151
+    commentsToLikes: 0.049323
     id: ck55osusa927v0i11ix4c50ni
     verified: false
-    hashtags: "#portrait, #bodyart, #father, #lion"
-  - username: "juanpajo"
-    fullname: >-
-      pajo
-    location: "Colombia"
-    followers: 95553
-    engagement: 52
-    commentsToLikes: 0.025610
-    id: ck8szknvlotcq0j78wgn2bq4a
-    verified: false
-    hashtags: ""
+    hashtags: "#filigrana, #mantra, #blue, #fangs"
   - username: "andarkness_tattoo"
     fullname: >-
       A n D a r k n e s s
     location: "Colombia"
-    followers: 6994
-    engagement: 550
-    commentsToLikes: 0.095207
+    followers: 7486
+    engagement: 604
+    commentsToLikes: 0.087322
     id: ck6tz0z8h70oq0j71g2tvt1g9
     verified: false
-    hashtags: "#teemofanart, #diablo4lilith, #neotradi, #neotraditionalcolombia"
+    hashtags: "#dark, #hannyamask, #dogtattooportrait, #conceptartist"
+  - username: "juanpajo"
+    fullname: >-
+      pajo
+    location: "Colombia"
+    followers: 95742
+    engagement: 27
+    commentsToLikes: 0.013757
+    id: ck8szknvlotcq0j78wgn2bq4a
+    verified: false
+    hashtags: "#unmundoinciertown"
   - username: "taz_artist"
     fullname: >-
       TAZ.
     location: "Colombia"
-    followers: 20187
-    engagement: 329
-    commentsToLikes: 0.046099
+    followers: 21350
+    engagement: 297
+    commentsToLikes: 0.039528
     id: ck8szl7i9ovjk0j78mm6kahwm
     verified: false
-    hashtags: "#tattoos, #tatuadorescolombia, #tattoo, #tattoobucaramanga"
-  - username: "jenny.pedraza21"
+    hashtags: "#tattoogohan, #irezumi, #dragonballsuper, #tattoorealistic"
+  - username: "stevetattoo1"
     fullname: >-
-      Jenny Pedraza M.
+      •𝕾𝖙𝖊𝖛𝖊 𝕹𝖎ñ𝖔•
     location: "Colombia"
-    followers: 18333
-    engagement: 621
-    commentsToLikes: 0.018150
-    id: ck5zkpae0jwik0i143p3rh8vu
+    followers: 39805
+    engagement: 201
+    commentsToLikes: 0.024329
+    id: ck15ukzcznozd0i19saqgdsgb
     verified: false
-    hashtags: "#afrobeats, #thejukebox, #push, #colombia"
-  - username: "carlos_piedrahita_art"
+    hashtags: "#blueink, #covid19, #headyaf, #kittens"
+  - username: "sebastiangomeztattoo"
     fullname: >-
-      ℭ𝔞𝔯𝔩𝔬𝔰 𝔓𝔦𝔢𝔡𝔯𝔞𝔥𝔦𝔱𝔞
+      Sebastian gomez zuluaga
     location: "Colombia"
-    followers: 55868
-    engagement: 325
-    commentsToLikes: 0.032681
-    id: ck6tk4nnz3zy70j715yqnrvgd
+    followers: 42837
+    engagement: 224
+    commentsToLikes: 0.049092
+    id: ck15shueud2vg0i19ewqv6jcp
     verified: false
-    hashtags: "#painted, #eagletattoo, #tattooink, #tatted"
-  - username: "alain_rocben"
+    hashtags: "#budismo, #tattoostyle, #tattooink, #tattooing"
+  - username: "sergio_rojastattoo"
     fullname: >-
-      Alain
+      Alejandro Rojas
     location: "Colombia"
-    followers: 385761
-    engagement: 87
-    commentsToLikes: 0.035179
-    id: ck6tnj8729ydm0j71w3t8yu0a
-    verified: true
-    hashtags: "#lookslikefilm, #grafiti, #sportmotivation, #tattoomodel"
+    followers: 8117
+    engagement: 387
+    commentsToLikes: 0.037829
+    id: ck136ne4i7chr0i19j50by89q
+    verified: false
+    hashtags: "#therockofages, #tradtattoos, #tattooworld, #merchandising"
 ---

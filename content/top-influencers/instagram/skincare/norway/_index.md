@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Norway In 2020
 description: >-
-  Find top skincare Instagram influencers in Norway in 2020. Most popular hashtags: #skincare #momlife #parentlife #liveterbestute.
+  Find top skincare Instagram influencers in Norway in 2020. Most popular hashtags: #skincare #skincareroutine #love #17mai.
 platform: Instagram
 profiles:
-  - username: "mamaidamarie"
+  - username: "skincarenoob"
     fullname: >-
-      𝙸𝚍𝚊 𝙼𝚊𝚛𝚒𝚎
+      Jonna
     location: "Norway"
-    followers: 9245
-    engagement: 1021
-    commentsToLikes: 0.112400
-    id: ck137crbrawaz0i19ecllt5cy
+    followers: 6261
+    engagement: 831
+    commentsToLikes: 0.538293
+    id: ck9we6j1piu2x0j78iokc2gj4
     verified: false
-    hashtags: "#christmasmagic, #kidsroom, #cappuccino, #drikkeflaske"
-  - username: "the_optimisticgirl"
+    hashtags: "#beautygiveaway, #bluemonday, #friyayfaves, #kajabeauty"
+  - username: "facebymalin"
     fullname: >-
-      Amara Jakobsen.
+      Malin Lossius Sørensen🇳🇴
     location: "Norway"
-    followers: 16636
-    engagement: 321
-    commentsToLikes: 0.124847
-    id: ck6u4yexg6igx0j714n8zdm31
+    followers: 14338
+    engagement: 722
+    commentsToLikes: 0.065135
+    id: ck15th5gri1wg0i19mge7hvo1
     verified: false
-    hashtags: "#melaninbeauty, #mybeigelife, #bloggerin, #pregnancydiary"
+    hashtags: "#christmasglam, #combinationskin, #skintype, #skinessentials"
+  - username: "hogberglukas"
+    fullname: >-
+      Lukas | Crossfit | Athlete
+    location: "Norway"
+    followers: 105514
+    engagement: 434
+    commentsToLikes: 0.023073
+    id: ck5cjzv5gvtyr0i11gfkd3cp1
+    verified: true
+    hashtags: "#gymnasty, #garagegym, #liftingweights, #jumptraining"
+  - username: "real_elena864"
+    fullname: >-
+      real_elena864
+    location: "Norway"
+    followers: 207536
+    engagement: 468
+    commentsToLikes: 0.016497
+    id: ck15tsnmbjoy10i19a5kmp9h7
+    verified: false
+    hashtags: "#elena864nails, #elena864, #iherb, #skincareroutine"
+  - username: "mona_grudt"
+    fullname: >-
+      Mona Grudt
+    location: "Norway"
+    followers: 9497
+    engagement: 626
+    commentsToLikes: 0.036429
+    id: ck138c6i9fily0i19yvy4pp7p
+    verified: false
+    hashtags: "#bil, #hage, #zoe, #kj"
   - username: "camillaabry"
     fullname: >-
       CAMILLA ABRY
     location: "Norway"
-    followers: 24259
-    engagement: 250
-    commentsToLikes: 0.078391
+    followers: 24584
+    engagement: 243
+    commentsToLikes: 0.036971
     id: ck0w1k6tbjr8j0i190uq9hkjk
     verified: false
-    hashtags: "#cphfw, #skincareproducts, #stayin, #ellos"
-  - username: "mslotvik"
-    fullname: >-
-      Martine Slotvik
-    location: "Norway"
-    followers: 11079
-    engagement: 508
-    commentsToLikes: 0.220000
-    id: ck5znioltojjv0i14r015bkge
-    verified: false
-    hashtags: "#inspiration, #twerk, #bod, #utno"
-  - username: "edituotoja"
-    fullname: >-
-      🌸Edith
-    location: "Norway"
-    followers: 13690
-    engagement: 429
-    commentsToLikes: 0.159360
-    id: ck8sy5imsjrxi0j78n799f3mo
-    verified: false
-    hashtags: "#toddler, #familieliv, #newmom, #postpartum"
-  - username: "christina_ygre_skorve"
-    fullname: >-
-      ᑕᕼᖇISTIᑎᗩ YGᖇᕮ SKOᖇᐯᕮ
-    location: "Norway"
-    followers: 10884
-    engagement: 450
-    commentsToLikes: 0.297478
-    id: ck5c3zm6y0ckj0i11z23phtit
-    verified: false
-    hashtags: "#skincareproducts, #stokketrailz, #allnatural, #saastor"
-  - username: "idawulff.no"
-    fullname: >-
-      Ida Wulff
-    location: "Norway"
-    followers: 33007
-    engagement: 297
-    commentsToLikes: 0.036025
-    id: ck14jnp84l9s60i19rdyft5bv
-    verified: true
-    hashtags: "#harmfreeoralhealth, #spotlightoralcare, #bergansofnorway, #eleniandchris"
+    hashtags: "#whenstayinghome, #hallwaydecor, #hydration, #bedroom"
   - username: "gustav_iden"
     fullname: >-
       Gustav Iden
     location: "Norway"
-    followers: 37331
-    engagement: 1184
-    commentsToLikes: 0.010319
+    followers: 38743
+    engagement: 1101
+    commentsToLikes: 0.008215
     id: ck0vycqnu3c3e0i1948bpcvg0
     verified: false
-    hashtags: "#bluejersey, #idrettsgallaen, #skincareroutine, #roadtokona"
-  - username: "austulyys"
+    hashtags: "#thatswhatwecallguttastemninghereinnorway, #mrworldwide, #deboerwetsuits, #threshold"
+  - username: "sandrasiff"
     fullname: >-
-      A U S T Ė J A ✨
+      𝐒𝐀𝐍𝐃𝐑𝐀 𝐒𝐈𝐅
     location: "Norway"
-    followers: 7728
-    engagement: 1091
-    commentsToLikes: 0.174130
-    id: ck6uayss96h9x0j71h4ypuhoy
+    followers: 19665
+    engagement: 719
+    commentsToLikes: 0.052840
+    id: ck0ttz8nn4yql0i192u2iln9m
     verified: false
-    hashtags: "#quarantineandchill, #gwlook, #girlslook, #frenchstyle"
-  - username: "facebymalin"
+    hashtags: "#benefit, #graphiceyeliner, #glowymakeup, #glittermakeup"
+  - username: "the_optimisticgirl"
     fullname: >-
-      Malin Lossius Sørensen
+      Amara🇳🇬|Mom&Lifestyle Blogger
     location: "Norway"
-    followers: 14069
-    engagement: 884
-    commentsToLikes: 0.064118
-    id: ck15th5gri1wg0i19mge7hvo1
+    followers: 17459
+    engagement: 282
+    commentsToLikes: 0.052818
+    id: ck6u4yexg6igx0j714n8zdm31
     verified: false
-    hashtags: "#tiktokmua, #muaxdiscover, #jeffreestarcosmetics, #colourpopme"
+    hashtags: "#naturalbeauty, #colorventures, #myuniconlife, #babyboy"
+  - username: "missisgerda"
+    fullname: >-
+      Gerda
+    location: "Norway"
+    followers: 67298
+    engagement: 122
+    commentsToLikes: 0.035828
+    id: ck8t7vi70i3sz0j782x4obbsp
+    verified: false
+    hashtags: "#myliu, #asgaliu, #meskartu, #fashionista"
 ---

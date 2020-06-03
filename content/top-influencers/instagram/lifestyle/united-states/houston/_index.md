@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Houston In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Houston in 2020. Most popular hashtags: #houston #houstonblogger #liketkit #ltkunder50.
+  Find top lifestyle Instagram influencers in Houston in 2020. Most popular hashtags: #houston #life #positivevibes #houstonbloggers.
 platform: Instagram
 profiles:
   - username: "pattytellsall"
     fullname: >-
       Patty | Blogging HTX Babe
     location: "United States"
-    followers: 10901
-    engagement: 419
-    commentsToLikes: 0.217334
+    followers: 11114
+    engagement: 363
+    commentsToLikes: 0.126347
     id: ck0tx6bcui3zn0i19jqjyefrq
     verified: false
-    hashtags: "#texaslatina, #katyblogger, #texasblogger, #rodeohouston2020"
-  - username: "marlonaltirs"
-    fullname: >-
-      Marlon Altirs
-    location: "United States"
-    followers: 49634
-    engagement: 140
-    commentsToLikes: 0.072939
-    id: ck8t0r6yoszqd0j784hazbigz
-    verified: false
-    hashtags: "#loveher, #life, #carinstagram, #carporn"
-  - username: "martigrizzle"
-    fullname: >-
-      Marti Grizzle
-    location: "United States"
-    followers: 4166
-    engagement: 1050
-    commentsToLikes: 0.340209
-    id: ck6tseyvb4dyf0j71lj1jc7yh
-    verified: false
-    hashtags: "#vicicollab, #ltkfashion, #ltksalealert, #ad"
+    hashtags: "#stayhealthy, #earthday, #alieftx, #drivein"
   - username: "iamjustinejustine"
     fullname: >-
-      Justine! Justine!
+      Content Creator
     location: "United States"
-    followers: 64246
-    engagement: 146
-    commentsToLikes: 0.050522
+    followers: 64370
+    engagement: 142
+    commentsToLikes: 0.055262
     id: ck5ccyvc7i8jn0i11ldsqiqsh
     verified: false
-    hashtags: "#melaninmonday, #grotogether, #naturalaf, #positivevibes"
+    hashtags: "#mood, #shoedazzle, #hairproducts, #flattummyco"
   - username: "styledbynellikal"
     fullname: >-
       Nelli Kalinyuk
     location: "United States"
-    followers: 17879
-    engagement: 228
-    commentsToLikes: 0.129181
+    followers: 17250
+    engagement: 238
+    commentsToLikes: 0.133083
     id: ck8tbhanovo7u0j788he7trhd
     verified: false
-    hashtags: "#mondaymotivation, #datenightoutfit, #marriedmybestfriend, #mommylife"
+    hashtags: "#mydsw, #thewoodlands, #florals, #leopardbag"
+  - username: "martigrizzle"
+    fullname: >-
+      Marti Grizzle
+    location: "United States"
+    followers: 4968
+    engagement: 881
+    commentsToLikes: 0.344192
+    id: ck6tseyvb4dyf0j71lj1jc7yh
+    verified: false
+    hashtags: "#valentines, #revolve, #ltkfashion, #riveroaks"
   - username: "jessicamelgoza_"
     fullname: >-
       𝐉 𝐄 𝐒 𝐒 𝐈 𝐂 𝐀
     location: "United States"
-    followers: 11078
-    engagement: 494
-    commentsToLikes: 0.688197
+    followers: 12410
+    engagement: 556
+    commentsToLikes: 0.322708
     id: ck14j9uovja5r0i19msnx1s88
     verified: false
-    hashtags: "#gifted, #livelovelayer, #thephylaeffect, #liketkit"
-  - username: "belowhtx"
+    hashtags: "#designerdupes, #tiedyefashion, #whiteteamoments, #cincodemayo"
+  - username: "lisamsanders"
     fullname: >-
-      Below (Bee-low)
+      Lisa Marie Sanders
     location: "United States"
-    followers: 3665
-    engagement: 1661
-    commentsToLikes: 0.133696
-    id: ck8szidmuok7i0j78fn37hrjx
+    followers: 42511
+    engagement: 282
+    commentsToLikes: 0.024020
+    id: ckap3j5ko37pl0i78h7pg4w53
     verified: false
-    hashtags: "#yeezy350v2, #podcast, #lifestyle, #textmetheaddress"
-  - username: "mena_adubea"
+    hashtags: "#proathlete, #indianbeach, #lasvegas, #life"
+  - username: "alandiseharris"
     fullname: >-
-      HOUSTON BEAUTY CONTENT CREATOR
+      Alandise Harris
     location: "United States"
-    followers: 48360
-    engagement: 457
-    commentsToLikes: 0.030562
-    id: ck5hm3snflbo30i11l4hql6ek
-    verified: false
-    hashtags: "#houston, #houstonlife, #nailsofinstagram, #nail"
-  - username: "katelynbmelton"
+    followers: 66880
+    engagement: 195
+    commentsToLikes: 0.082624
+    id: ck8tcw15n0wjd0j782rd9b9m5
+    verified: true
+    hashtags: "#recruitment, #quickworkout, #insta, #hoopmixtape"
+  - username: "heygabyarria"
     fullname: >-
-      Katelyn Melton
+      GABY | Beauty Blogger
     location: "United States"
-    followers: 56662
-    engagement: 68
-    commentsToLikes: 0.233287
-    id: ck6ttfjrsacad0j71aakorm47
+    followers: 16621
+    engagement: 329
+    commentsToLikes: 0.077454
+    id: ck139h3h6l9k40i191had6cmk
     verified: false
-    hashtags: "#ltkkids, #quarantinelife, #momlifebelike, #ltkspring"
-  - username: "stacieluraann"
+    hashtags: "#eyeshadow, #beautybloggers, #nudemakeup, #outdoorspaces"
+  - username: "brendacubac"
     fullname: >-
-      Stacie ❥
+      BRENDA CUBA
     location: "United States"
-    followers: 8275
-    engagement: 608
-    commentsToLikes: 0.032087
-    id: ck5zzx2oecki80i14353h17t2
+    followers: 7213
+    engagement: 1124
+    commentsToLikes: 0.040416
+    id: ck0w6b5x37qhz0i19pl3k1pd1
     verified: false
-    hashtags: "#bootyexercise, #smiles, #stayhome, #health"
+    hashtags: "#france98, #bocajr, #quedateencasa, #yankeeshat"
+  - username: "houstonaaronray"
+    fullname: >-
+      Houston Ray
+    location: "United States"
+    followers: 7890
+    engagement: 845
+    commentsToLikes: 0.065123
+    id: ck5cjdf9quhyd0i11jmavnlfo
+    verified: false
+    hashtags: "#charlottenc, #thenewnormal"
 ---

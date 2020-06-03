@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In 2020
 description: >-
-  Find top health Instagram influencers in 2020. Most popular hashtags: #health #fitness #mentalhealth #fitfam.
+  Find top health Instagram influencers in 2020. Most popular hashtags: #stayhome #recovery #quotes #giveaway.
 platform: Instagram
 profiles:
-  - username: "juanacosta__"
+  - username: "romejohns"
     fullname: >-
-      Juan Acosta
+      Rome Johnson | Style
     location: "United States"
-    followers: 9533
-    engagement: 1432
-    commentsToLikes: 0.064713
-    id: ck13989u0k1a90i19i5s7don7
+    followers: 15044
+    engagement: 4156
+    commentsToLikes: 0.069704
+    id: ck8t1v9nix65e0j78gkeeieo6
     verified: false
-    hashtags: "#mexico, #timetothrive, #gaga, #lgbtq"
-  - username: "courtneytoliver"
+    hashtags: "#blackparents, #blackdads, #nicugraduate, #trachbaby"
+  - username: "eceetuncel"
     fullname: >-
-      Courtney Toliver Guthrie
-    location: "United States"
-    followers: 77016
-    engagement: 811
-    commentsToLikes: 0.083753
-    id: ck0u9mj1oa4jb0i1918cu2zft
+      Ece Tuncel
+    location: "Turkey"
+    followers: 186838
+    engagement: 1773
+    commentsToLikes: 0.605199
+    id: ck5ca19fwcin50i11te28n4nr
     verified: false
-    hashtags: "#onlineshopping, #sponsored, #tilt, #mygreenchef"
-  - username: "berinakadric"
+    hashtags: "#ootd, #tbt, #yast, #stayhome"
+  - username: "cizzyew"
     fullname: >-
-      Berina  🌙  poet ∽ writer
-    location: "South Africa"
-    followers: 12612
-    engagement: 1456
-    commentsToLikes: 0.075497
-    id: ck5q3jchsl0ao0i11zs0zkbqv
+      Cecilia ॐ
+    location: "Denmark"
+    followers: 5933
+    engagement: 1736
+    commentsToLikes: 0.125436
+    id: ck8tcnakl00f10j78o6hs3gd4
     verified: false
-    hashtags: "#genderviolence, #enoughisenough"
+    hashtags: "#forearmstand, #pyramidpose, #frogpose, #flexibility"
+  - username: "daisyliftsuk"
+    fullname: >-
+      ➖ Daisy ➖
+    location: "United Kingdom"
+    followers: 13044
+    engagement: 1572
+    commentsToLikes: 0.092554
+    id: ck9hbov1fht5d0j78ske6at0h
+    verified: false
+    hashtags: "#food, #determination, #fridayvibes, #sundayfunday"
   - username: "xobearhugs"
     fullname: >-
       🐼🌱🌸💕
     location: "Japan"
-    followers: 35480
-    engagement: 702
-    commentsToLikes: 0.089237
+    followers: 78854
+    engagement: 1493
+    commentsToLikes: 0.045870
     id: ck5q69hddwix00i11rfuqbahr
     verified: false
-    hashtags: "#grateful"
-  - username: "anej_sosic"
+    hashtags: ""
+  - username: "beautiful_jasminemarie"
     fullname: >-
-      Anej Sosic
-    location: "Italy"
-    followers: 44446
-    engagement: 766
-    commentsToLikes: 0.116799
-    id: ck6ufp29jyboh0j71ap3j3rvu
-    verified: false
-    hashtags: "#venice, #pose, #repost, #comingsoon"
-  - username: "healthylifemary"
-    fullname: >-
-      Mary • Lifestyle •
-    location: "France"
-    followers: 187708
-    engagement: 752
-    commentsToLikes: 0.074896
-    id: ck55kt2ia019b0i11mya4o985
-    verified: false
-    hashtags: "#generation, #nivea, #nenouslachonspas, #healthylife"
-  - username: "savethebestforpax"
-    fullname: >-
-      chenae
+      Jasmine Marie BSN, RN
     location: "United States"
-    followers: 2969
-    engagement: 2947
-    commentsToLikes: 0.131689
-    id: ck5zwn9r76fbw0i14gzlgpc9x
+    followers: 21026
+    engagement: 1169
+    commentsToLikes: 0.065206
+    id: ckap5hg7jbp6c0i78ezp6qut3
     verified: false
-    hashtags: "#petsofinstagram, #venacbd, #nationalcookieday, #visitdisney"
-  - username: "jean_marienp"
+    hashtags: "#pandemic, #prettypractice, #shecandoboth, #squadgoals"
+  - username: "viora.nl"
     fullname: >-
-      Jean FNP-BC
+      Viora
+    location: "Australia"
+    followers: 36773
+    engagement: 1093
+    commentsToLikes: 0.063607
+    id: ck0u015sjsd0e0i19ip98025x
+    verified: false
+    hashtags: "#kualalumpur, #ikhebgelukkigweertijdvoorgrootsedromen, #10km, #heliplatform"
+  - username: "wiki.bre"
+    fullname: >-
+      MAKEUP • BEAUTY • LIFESTYLE
+    location: "Poland"
+    followers: 15793
+    engagement: 1072
+    commentsToLikes: 0.158301
+    id: ck5pytbc9xpan0i11sgqfjiog
+    verified: false
+    hashtags: "#blackoutfit, #highlight, #loveyourskin, #quarantine"
+  - username: "danikafieldsforever"
+    fullname: >-
+      DANIKA FIELDS🦋creative artist
     location: "United States"
-    followers: 6441
-    engagement: 1360
-    commentsToLikes: 0.290456
-    id: ck5ckxlx4xtd80i11cgcvjm0r
+    followers: 18025
+    engagement: 1004
+    commentsToLikes: 0.091307
+    id: ck0w4kxujz37l0i19rgu7r93n
     verified: false
-    hashtags: "#blogger, #loving, #grig040720, #sprinklesfordays"
-  - username: "hayleyfituk"
+    hashtags: ""
+  - username: "mariiisa_hofi"
     fullname: >-
-      HAYLEY GREEN | Fitness
-    location: "United Kingdom"
-    followers: 4649
-    engagement: 3304
-    commentsToLikes: 0.306090
-    id: ck8tal093s7b70j787yjbeay9
+      HEALTHY FOOD I LIFESTYLE
+    location: "Germany"
+    followers: 27554
+    engagement: 978
+    commentsToLikes: 0.067217
+    id: ck0txg2zcizdk0i19ulv1zs53
     verified: false
-    hashtags: "#healthyliving, #inspo, #discoverunder5k, #muscle"
-  - username: "jasonpfrank"
-    fullname: >-
-      Jason
-    location: "United Kingdom"
-    followers: 2610
-    engagement: 2980
-    commentsToLikes: 0.126394
-    id: ck6u81up3oy0v0j71f3up96z9
-    verified: false
-    hashtags: "#power, #dubai, #fitnesslifestyle, #resitsncebands"
+    hashtags: "#animalprint, #bikinishoot, #mundpflege, #abschiednehmen"
 ---

@@ -1,19 +1,19 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top skincare Instagram influencers in Tokyo in 2020. Most popular hashtags: #pr #skincare #tokyo #ootd.
+  Find top skincare Instagram influencers in Tokyo in 2020. Most popular hashtags: #skincare #coordinate #instagood #instalike.
 platform: Instagram
 profiles:
-  - username: "wadateni"
+  - username: "risa_tokyo_"
     fullname: >-
-      Teni W. 🎌 Tokyo🗼Japan
+      Risato
     location: "Japan"
-    followers: 34946
-    engagement: 367
-    commentsToLikes: 0.027310
-    id: ck5hope1fpzbm0i11d832b0f0
+    followers: 7270
+    engagement: 985
+    commentsToLikes: 0.007818
+    id: ck1375pnu9x1w0i19wv6bf9d5
     verified: false
-    hashtags: "#goodmorning, #kagamibiraki, #todaysoutfit, #lakekitaura"
+    hashtags: "#lobor, #bikini, #khosamui, #cafe"
   - username: "sh10110"
     fullname: >-
       SHIORI
@@ -24,84 +24,84 @@ profiles:
     id: ck5hibzplcq0d0i11spzr2i9e
     verified: false
     hashtags: "#tokyocafe, #20ss, #teatime, #dior"
-  - username: "mekoto.come"
-    fullname: >-
-      mekoto.come
-    location: "Japan"
-    followers: 47575
-    engagement: 339
-    commentsToLikes: 0.012957
-    id: ck5zzwx8ick8p0i14pxa7rywx
-    verified: false
-    hashtags: "#grefas, #24, #nanoa, #pr"
-  - username: "baby__lion"
-    fullname: >-
-      Baby Lion 🦁
-    location: "Japan"
-    followers: 22357
-    engagement: 484
-    commentsToLikes: 0.006598
-    id: ck5hdd3b6mrhz0i11ts4pz387
-    verified: false
-    hashtags: "#bikikilife, #feelbetter, #smilemore, #catchthelight"
-  - username: "ciiinana"
-    fullname: >-
-      熙愛 Adrianna Chiu
-    location: "Japan"
-    followers: 24797
-    engagement: 278
-    commentsToLikes: 0.004399
-    id: ck5c8u09ya7x40i11tary6q7t
-    verified: false
-    hashtags: "#daily, #dermaangel, #welcome2020, #travel"
   - username: "mayuko958"
     fullname: >-
-      𝓶𝓪𝔂𝓾𝓴𝓸
+      MAYUKO
     location: "Japan"
-    followers: 6339
-    engagement: 435
-    commentsToLikes: 0.013861
+    followers: 6272
+    engagement: 356
+    commentsToLikes: 0.014202
     id: ck8t1oxvlwhlc0j78oetx097o
     verified: false
-    hashtags: "#japan, #trip, #orientalhotel, #kobe"
-  - username: "aaaya.22"
+    hashtags: "#girls, #matcha, #travel, #bathtime"
+  - username: "sen.jp____"
     fullname: >-
-      ☻ A Y A K A ☻
+      ⌇ 𝗰𝗵𝗶𝗻𝗮𝘁𝘀𝘂 🎠 ⌇
     location: "Japan"
-    followers: 108557
-    engagement: 187
-    commentsToLikes: 0.106401
-    id: ck13aot9erfzo0i1975e5imkq
+    followers: 62759
+    engagement: 478
+    commentsToLikes: 0.001631
+    id: ck9wegvwtk7rc0j785a4skus5
     verified: false
-    hashtags: "#principeprive, #bettyboop, #photography, #hipanda"
-  - username: "megumitomihari"
+    hashtags: "#nailart, #ajew, #printemps, #applewatch"
+  - username: "marcy_yu"
     fullname: >-
-      Megumi Tomihari(冨張 愛)
+      Adventure | Luxury | Travel
     location: "Japan"
-    followers: 54130
-    engagement: 110
-    commentsToLikes: 0.017186
-    id: ck5hrnoe0v6860i11m6bw3lsu
+    followers: 112483
+    engagement: 174
+    commentsToLikes: 0.070080
+    id: ck5c6g7oy5dfv0i11qcn48lqh
     verified: false
-    hashtags: "#denim, #beauty, #valentine, #sweets"
-  - username: "haruka_takahashi0127"
+    hashtags: "#riad, #travelmemories, #marruecos, #roadtrip"
+  - username: "runasuzuki"
     fullname: >-
-      高橋晴香
+      🌜L U N A🌛
     location: "Japan"
-    followers: 91209
-    engagement: 152
-    commentsToLikes: 0.114411
-    id: ck0w7911ocdbw0i196up7cwdg
+    followers: 8824
+    engagement: 994
+    commentsToLikes: 0.048820
+    id: ck5cfisa8n1lu0i118wcdzmt1
     verified: false
-    hashtags: "#nailchange, #americantourister, #tapioca, #owndays"
-  - username: "cjd_mika"
+    hashtags: "#cousins, #chubz, #tb, #skincare"
+  - username: "1219asuka"
     fullname: >-
-      💋 Mika Pinkviolet 💋
+      𝐀𝐬𝐮𝐤𝐚 𝐒𝐞𝐫𝐢𝐳𝐚𝐰𝐚／芹澤明日香
     location: "Japan"
-    followers: 327019
-    engagement: 255
-    commentsToLikes: 0.016591
-    id: ck5he6ak3r9s50i11qkibvulf
+    followers: 51212
+    engagement: 310
+    commentsToLikes: 0.042200
+    id: ck8tb4jiau8ob0j78s8fys0lq
     verified: false
-    hashtags: "#newhair, #haircolor, #tokyo, #selectclinic"
+    hashtags: "#madeinjapan, #sneakers, #samu, #1piu1uguale3"
+  - username: "cchan_fee4"
+    fullname: >-
+      ひよん♡희영
+    location: "Japan"
+    followers: 253120
+    engagement: 673
+    commentsToLikes: 0.006536
+    id: ck14il019fxo00i19oqyejl91
+    verified: true
+    hashtags: "#instalive, #cordinate, #pr, #louangetokyo"
+  - username: "punsumi"
+    fullname: >-
+      KASUMI
+    location: "Japan"
+    followers: 9644
+    engagement: 747
+    commentsToLikes: 0.032108
+    id: ck6tlis9d62pp0j71qb0mnfmm
+    verified: false
+    hashtags: "#repost, #journaldelauramercier, #frenchbeauty, #beauty"
+  - username: "sadamomodayo"
+    fullname: >-
+      佐達ももこ Momoko Sadachi
+    location: "Japan"
+    followers: 20464
+    engagement: 373
+    commentsToLikes: 0.030676
+    id: ck5hiboi1coa10i11805fkylq
+    verified: false
+    hashtags: "#cnplaboratory, #fcmm, #morugi, #snow"
 ---

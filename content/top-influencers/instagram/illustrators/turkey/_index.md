@@ -1,107 +1,107 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Turkey In 2020
 description: >-
-  Find top illustrators Instagram influencers in Turkey in 2020. Most popular hashtags: #illustration #art #drawing #evdekal.
+  Find top illustrators Instagram influencers in Turkey in 2020. Most popular hashtags: #digitalart #repost #aprile2020 #stayhome.
 platform: Instagram
 profiles:
   - username: "merttugen"
     fullname: >-
       Mert Tugen
     location: "Turkey"
-    followers: 27818
+    followers: 28061
     engagement: 433
-    commentsToLikes: 0.009229
+    commentsToLikes: 0.010368
     id: ck0vzlrby9q4x0i19uc4zx7p4
     verified: false
-    hashtags: "#selfportrait, #thebeatles, #nowhereman, #tamagotchi"
+    hashtags: "#firstdatewithme, #comic, #yellowsubmarine, #soloshow"
+  - username: "huliaozdemir"
+    fullname: >-
+      hülya özdemir
+    location: "Turkey"
+    followers: 53596
+    engagement: 628
+    commentsToLikes: 0.015461
+    id: ck0vz85i57sks0i19fotqqsdp
+    verified: false
+    hashtags: "#maggio2020, #magazine, #video, #antiage"
+  - username: "azadeh.prk"
+    fullname: >-
+      
+    location: "Turkey"
+    followers: 16720
+    engagement: 347
+    commentsToLikes: 0.036188
+    id: ckapb7s6yyw960i78ohjzrp44
+    verified: false
+    hashtags: ""
+  - username: "crystal_arts_"
+    fullname: >-
+      Ş • M u t l u
+    location: "Turkey"
+    followers: 145310
+    engagement: 745
+    commentsToLikes: 0.033141
+    id: ck8t7htzpguum0j78o75bwg8a
+    verified: false
+    hashtags: "#wip"
+  - username: "enversarac"
+    fullname: >-
+      Enver Saraç 🦀
+    location: "Turkey"
+    followers: 39745
+    engagement: 598
+    commentsToLikes: 0.079526
+    id: ckap0p6rvr9ps0i78zh6xgk8i
+    verified: false
+    hashtags: "#mugler, #makeup, #tubab, #kadirdo"
+  - username: "mustafasoydan"
+    fullname: >-
+      MXS - Mustafa Soydan
+    location: "Turkey"
+    followers: 36714
+    engagement: 160
+    commentsToLikes: 0.011504
+    id: ck8syumgam2j90j781cfz9pc4
+    verified: false
+    hashtags: "#madewithipadpro, #tbt, #pancake, #100y"
+  - username: "lilsebbb"
+    fullname: >-
+      Şebnur Günay
+    location: "Turkey"
+    followers: 8873
+    engagement: 1185
+    commentsToLikes: 0.015979
+    id: ck5zw1ybi5bm50i14x9kgz8ac
+    verified: false
+    hashtags: "#stayhome"
   - username: "ayseinanillustration"
     fullname: >-
       Ayşe İnan Illustration
     location: "Turkey"
-    followers: 5233
-    engagement: 969
-    commentsToLikes: 0.080690
+    followers: 5532
+    engagement: 946
+    commentsToLikes: 0.077515
     id: ck14h43u58gbe0i19v4d0ze54
     verified: false
-    hashtags: "#mardin, #conceptualart, #akrilik, #illustrasyon"
+    hashtags: "#idada, #kumru, #yenikitap, #fall"
+  - username: "forceoner"
+    fullname: >-
+      ozan x forceoner
+    location: "Turkey"
+    followers: 5740
+    engagement: 653
+    commentsToLikes: 0.207032
+    id: ck5hsn9nmwves0i11iecu1740
+    verified: false
+    hashtags: "#kobebryant, #khontkar, #rdkyszn, #coverartwork"
   - username: "magn0liaa"
     fullname: >-
       Magnolia Nazemi
     location: "Turkey"
-    followers: 12355
-    engagement: 1035
-    commentsToLikes: 0.024351
+    followers: 12634
+    engagement: 1048
+    commentsToLikes: 0.025248
     id: ck0vyo1nm4y450i1935qip8mo
     verified: false
-    hashtags: "#repost, #flight752, #saveplanet, #internationalwomensday"
-  - username: "haakankeles"
-    fullname: >-
-      Hakan Keleş
-    location: "Turkey"
-    followers: 66443
-    engagement: 1013
-    commentsToLikes: 0.007164
-    id: ck0vyxiba69l70i1906j77a4i
-    verified: false
-    hashtags: "#gaziantep, #design, #gotham, #worldanimalday"
-  - username: "erencanerpolat"
-    fullname: >-
-      Eren Caner Polat
-    location: "Turkey"
-    followers: 49375
-    engagement: 1616
-    commentsToLikes: 0.003412
-    id: ck137ks7pc1kw0i19jhenv2hc
-    verified: false
-    hashtags: "#evdekal, #stayathome"
-  - username: "sedatgirgin"
-    fullname: >-
-      Sedat Girgin
-    location: "Turkey"
-    followers: 38497
-    engagement: 440
-    commentsToLikes: 0.006255
-    id: ck55l5erh0syx0i110qtm54f7
-    verified: false
-    hashtags: "#ayhansicimo, #theguideistanbul, #evdeg, #ne"
-  - username: "gulsah_alcin_ozek"
-    fullname: >-
-      Gülşah Alçın Özek
-    location: "Turkey"
-    followers: 3387
-    engagement: 1580
-    commentsToLikes: 0.019391
-    id: ck14l6kd0t41i0i19vry8ww46
-    verified: false
-    hashtags: "#childrenbook, #artmash, #littleprincebook, #evdekalkitapoku"
-  - username: "pembeyazkedi"
-    fullname: >-
-      Seda Koru-Dijital Art
-    location: "Turkey"
-    followers: 67437
-    engagement: 482
-    commentsToLikes: 0.028243
-    id: ck5c598rw30c40i11owrh7ajx
-    verified: false
-    hashtags: "#8mart, #okul, #evdekal, #kitapa"
-  - username: "ertacaltinoz"
-    fullname: >-
-      Ertaç Altınöz
-    location: "Turkey"
-    followers: 19439
-    engagement: 695
-    commentsToLikes: 0.028039
-    id: ck0ubsnimf9rp0i19voc1e6se
-    verified: false
-    hashtags: "#inoctober, #diablo4, #pera, #fanartsunday"
-  - username: "muratkalkaman"
-    fullname: >-
-      murat kalkavan
-    location: "Turkey"
-    followers: 5931
-    engagement: 846
-    commentsToLikes: 0.025500
-    id: ck137wgksde4g0i19vl39m2yn
-    verified: false
-    hashtags: "#kazda, #dribbblers, #eidmubarak, #sticker"
+    hashtags: "#yolkporn, #flight752, #saveplanet, #saynotoplastic"
 ---

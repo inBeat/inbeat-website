@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Colombia In 2020
 description: >-
-  Find top lingerie Instagram influencers in Colombia in 2020. Most popular hashtags: #lingerie #model #photography #colombia.
+  Find top lingerie Instagram influencers in Colombia in 2020. Most popular hashtags: #lingerie #latina #black #photo.
 platform: Instagram
 profiles:
-  - username: "lagutgirl"
+  - username: "canelabayona"
     fullname: >-
-      Laura Gutiérrez Méndez ✨
+      𝕮𝖆𝖓𝖊𝖑𝖆
     location: "Colombia"
-    followers: 17723
-    engagement: 606
-    commentsToLikes: 0.086712
-    id: ck15ul0j3np5m0i198bpauon8
+    followers: 86430
+    engagement: 615
+    commentsToLikes: 0.044238
+    id: ck5c5i08p3ibc0i11te34dwms
     verified: false
-    hashtags: "#shooting, #quedateencasa, #swimwear, #leatherjacket"
+    hashtags: "#90svintage, #analogportraits, #filmcommunity, #cityports"
   - username: "ilmio_of"
     fullname: >-
       𝐀𝐍𝐀 𝐌𝐀𝐑𝐈𝐀 𝐁𝐎𝐍𝐈𝐋𝐋𝐀
     location: "Colombia"
-    followers: 43222
-    engagement: 362
-    commentsToLikes: 0.059355
+    followers: 43722
+    engagement: 359
+    commentsToLikes: 0.060896
     id: ck6ub58fr7jg10j71j2v6lxuh
     verified: false
-    hashtags: "#throwbackthursday, #blackhair, #december, #mybody"
-  - username: "vanessadonatoo"
+    hashtags: "#tattoedgirls, #dance, #babydoll, #home"
+  - username: "savafe_"
     fullname: >-
-      Vanessa Donato
+      🥀🕷𝖘𝖆𝖗𝖆𝖍  𝕭𝖆𝖗𝖗𝖔𝖘🕷🥀
     location: "Colombia"
-    followers: 4297
-    engagement: 1285
-    commentsToLikes: 0.076882
-    id: ck5bwxdflmlf90i11xhqnxoqr
+    followers: 5942
+    engagement: 2150
+    commentsToLikes: 0.032971
+    id: ckaoxo46re2wj0i78dmiok4id
     verified: false
-    hashtags: "#portrait, #inspirarion, #woman, #livenza"
+    hashtags: "#photographer, #outfitstyle, #fashion, #modeling"
   - username: "marianelamodel"
     fullname: >-
       Marianela💋Ramos
     location: "Colombia"
-    followers: 44684
-    engagement: 657
-    commentsToLikes: 0.021936
+    followers: 46488
+    engagement: 712
+    commentsToLikes: 0.048889
     id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
-    hashtags: "#argentina, #tendencia, #miss, #blondehair"
-  - username: "elicethcastro"
+    hashtags: "#gymtime, #fitnesswomen, #nice, #topmodel"
+  - username: "kellymolina22"
     fullname: >-
-      E L Y S S
+      𝕽𝖔𝖏𝖆🍓
     location: "Colombia"
-    followers: 14114
-    engagement: 464
-    commentsToLikes: 0.128284
-    id: ck55j63awwcva0i116qp9l8mp
+    followers: 23895
+    engagement: 606
+    commentsToLikes: 0.029043
+    id: ck6tk562j40zx0j714447wxs1
     verified: false
-    hashtags: "#friends, #photo, #adventure, #shoes"
-  - username: "dani.labelle"
+    hashtags: "#art, #lingerie, #carnavaldebarranquilla, #pelirroja"
+  - username: "nanis8a"
     fullname: >-
-      𝕷𝖆𝖇𝖊𝖑𝖑𝖊’𝖘 𝖑𝖎𝖋𝖊.
+      Nanis Ochoa
     location: "Colombia"
-    followers: 12433
-    engagement: 519
-    commentsToLikes: 0.049778
-    id: ck5c5ieb13iyz0i11g7jc49ac
-    verified: false
-    hashtags: "#actress, #resiliencia, #espiral, #colorful"
-  - username: "hernanboterostudio"
+    followers: 714802
+    engagement: 205
+    commentsToLikes: 0.021620
+    id: ck0tvdik6ayzn0i1919jwpzd1
+    verified: true
+    hashtags: "#wine, #night, #tbt, #latina"
+  - username: "vanessadonatoo"
     fullname: >-
-      Hernán Botero
+      Vanessa Donato
     location: "Colombia"
-    followers: 103270
-    engagement: 127
-    commentsToLikes: 0.016039
-    id: ck5hgzj7y5m5g0i11a8ilenlg
+    followers: 4345
+    engagement: 1299
+    commentsToLikes: 0.075764
+    id: ck5bwxdflmlf90i11xhqnxoqr
     verified: false
-    hashtags: "#boudoir, #bodypositive, #women, #bedroom"
-  - username: "esadicen"
+    hashtags: "#mornings, #love, #modeling, #mood"
+  - username: "tatianaugirardi"
     fullname: >-
-      SULAY
+      Tatiana USSA GIRARDI
     location: "Colombia"
-    followers: 5520
-    engagement: 656
-    commentsToLikes: 0.041988
-    id: ck5qaspmgi2620i11z3bgei5g
-    verified: false
-    hashtags: "#medellintours, #merob, #malditoinsomnio, #escritos"
+    followers: 1727380
+    engagement: 160
+    commentsToLikes: 0.011152
+    id: ck5znbvv9o5x70i143pee9whu
+    verified: true
+    hashtags: "#honesty, #dots, #lifestyle, #barcelona"
   - username: "jenncortes27"
     fullname: >-
       Jennifer Cortés 🌙
     location: "Colombia"
-    followers: 42048
-    engagement: 402
-    commentsToLikes: 0.013991
+    followers: 42228
+    engagement: 438
+    commentsToLikes: 0.015211
     id: ck55pt2uhbbiy0i11jqef9voa
     verified: false
-    hashtags: "#redhead, #adidasoriginals, #tattooedass, #coreytaylortattoo"
-  - username: "sasagonzalezg"
+    hashtags: "#blacklove, #streetstyle, #blackoutfit, #tattoostuff"
+  - username: "dani.labelle"
     fullname: >-
-      Sasa González💞
+      𝕷𝖆𝖇𝖊𝖑𝖑𝖊.
     location: "Colombia"
-    followers: 32762
-    engagement: 445
-    commentsToLikes: 0.029132
-    id: ck5zvs3ay4tjv0i14vx100z7b
+    followers: 12335
+    engagement: 549
+    commentsToLikes: 0.047535
+    id: ck5c5ieb13iyz0i11g7jc49ac
     verified: false
-    hashtags: "#tutorialmakeup, #bulldogfrances, #makeupideas, #ligths"
+    hashtags: "#yellow, #reality, #model, #cigarette"
 ---

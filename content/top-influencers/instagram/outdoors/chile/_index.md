@@ -1,69 +1,39 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In Chile In 2020
 description: >-
-  Find top outdoors Instagram influencers in Chile in 2020. Most popular hashtags: #chile #nature #visitchile #chiletravel.
+  Find top outdoors Instagram influencers in Chile in 2020. Most popular hashtags: #outdoors #earth #sunset #argentina.
 platform: Instagram
 profiles:
-  - username: "jaimekunstmann"
-    fullname: >-
-      Nature • Outsider 🌋
-    location: "Chile"
-    followers: 26801
-    engagement: 982
-    commentsToLikes: 0.032404
-    id: ck0vv159vn2670i19nr9biysk
-    verified: false
-    hashtags: "#thisischile, #cozyhome, #superluna2020, #yoamoviajarporchile"
   - username: "thegipsyjourney"
     fullname: >-
-      Rossanna 🇫🇷 Travel Vlogger
+      Rossanna 🇫🇷 Adventure Travel
     location: "Chile"
-    followers: 14477
-    engagement: 430
-    commentsToLikes: 0.119587
+    followers: 12266
+    engagement: 526
+    commentsToLikes: 0.131090
     id: ck6tzkl68a8y50j71szryl6wt
     verified: false
-    hashtags: "#doyourpart, #goaldigga, #femalehustler, #selfreflect"
+    hashtags: "#thiswillpass, #speakyourtruth, #focusonthegood, #girlpreneur"
   - username: "xsebastien"
     fullname: >-
-      Quedate en casa
+      Sébastien G. Mora
     location: "Chile"
-    followers: 85716
-    engagement: 395
-    commentsToLikes: 0.018413
+    followers: 85686
+    engagement: 349
+    commentsToLikes: 0.017706
     id: ck14h01wd7vcy0i19po5h2h67
     verified: false
-    hashtags: "#chile, #quedateencasa, #cuarentena, #mequedoencasa"
-  - username: "fede.goldschmidt"
+    hashtags: "#appgallery, #huaweip40pro, #huaweip40series, #wespeakphotography"
+  - username: "sebaoos"
     fullname: >-
-      Federico Goldschmidt
+      Sebastián Ojeda S.
     location: "Chile"
-    followers: 9311
-    engagement: 760
-    commentsToLikes: 0.027992
-    id: ck14hyyy6cufr0i195ag2155t
+    followers: 24731
+    engagement: 561
+    commentsToLikes: 0.013025
+    id: ck0w5yppz62qq0i192q90f611
     verified: false
-    hashtags: "#chilemegusta, #chilenature, #disfrutandolanaturaleza, #amigosdechile"
-  - username: "jm.wildlife"
-    fullname: >-
-      Javier Mery M.
-    location: "Chile"
-    followers: 20109
-    engagement: 573
-    commentsToLikes: 0.015822
-    id: ck0twrgaygjdt0i1951m0nhmi
-    verified: false
-    hashtags: "#photography, #patagonia, #santiagoadicto, #farellones"
-  - username: "david_cossio"
-    fullname: >-
-      David Cossio 🍃
-    location: "Chile"
-    followers: 5360
-    engagement: 745
-    commentsToLikes: 0.034859
-    id: ck5q2r1oahdqh0i11qgf1e7ho
-    verified: false
-    hashtags: "#glaciar, #cordilleradeloandes, #lagunaverde, #adobephotoshop"
+    hashtags: "#sebas, #sebaos, #planetearth"
   - username: "trepandoxchile"
     fullname: >-
       Y u l i a n  ☼ A s t o r g a
@@ -73,35 +43,65 @@ profiles:
     commentsToLikes: 0.009041
     id: ck5zz882lb9hr0i14s4enc9r8
     verified: false
-    hashtags: "#tbt, #lake, #hiking, #trepandoxchile"
-  - username: "benjamunozm"
+    hashtags: "#moonlight, #bird, #beach, #earth"
+  - username: "natibainotti"
     fullname: >-
-      𝐁𝐞𝐧𝐣𝐚𝐦𝐢𝐧 𝐌𝐮𝐧𝐨𝐳 ®️
+      Nati Bainotti
     location: "Chile"
-    followers: 3464
-    engagement: 918
-    commentsToLikes: 0.048896
-    id: ck55prhasb7840i113q8hzlh0
+    followers: 6951
+    engagement: 487
+    commentsToLikes: 0.042458
+    id: ck5q1ia37b47v0i117p039whj
     verified: false
-    hashtags: "#noaltomaipo, #huelgageneral, #nuevaconstitucion, #coronavirus"
-  - username: "andresvejarl"
+    hashtags: "#bikewonder, #outdoors, #viajeeneltiempo, #argentina"
+  - username: "alejandroopride"
     fullname: >-
-      • Andrés Vejar •
+      ADVENTURE🏕
     location: "Chile"
-    followers: 2583
-    engagement: 969
-    commentsToLikes: 0.047113
-    id: ck5zyoxsaa9j50i1419wytv73
+    followers: 25978
+    engagement: 307
+    commentsToLikes: 0.066173
+    id: ck9hcb1vmkkys0j788y8ia6jw
     verified: false
-    hashtags: "#yourshotphotographer, #waterfall, #landscapephotohub, #nature"
-  - username: "austerra_society"
+    hashtags: "#cerromesonalto, #mesonalto, #homeclimbinggym, #araucania"
+  - username: "cristinaharboephoto"
     fullname: >-
-      🌿A U S T E R R A🌿
+      Cristina Harboe | Fine Art
     location: "Chile"
-    followers: 61940
-    engagement: 334
-    commentsToLikes: 0.022936
-    id: ck0turcvi8dnz0i19ivivcubr
+    followers: 10471
+    engagement: 671
+    commentsToLikes: 0.061734
+    id: ck15qnym23she0i196g16foi1
     verified: false
-    hashtags: "#reflexiones, #cultura, #inspiracion, #providencia"
+    hashtags: "#puertopir, #modernfamily, #biobiochile, #leonaamarga"
+  - username: "jordi.ulen"
+    fullname: >-
+      | Drone Fotografía | Outdoor |
+    location: "Chile"
+    followers: 9656
+    engagement: 888
+    commentsToLikes: 0.029571
+    id: ck14h4kkw8hzf0i19zt8mk0pj
+    verified: false
+    hashtags: "#autumn, #longboard, #flores, #djiphantom"
+  - username: "elias_mateluna"
+    fullname: >-
+      Elías Mateluna Ibarra
+    location: "Chile"
+    followers: 4646
+    engagement: 1335
+    commentsToLikes: 0.059357
+    id: ck6tiakc60cna0j717qvk6gq8
+    verified: false
+    hashtags: "#emptythetanks, #instagramers, #nfearthday, #clickdomingo"
+  - username: "cata_alegria_"
+    fullname: >-
+      Cata Alegría
+    location: "Chile"
+    followers: 7851
+    engagement: 495
+    commentsToLikes: 0.053565
+    id: ck8tdmmse3y690j7827qnbifp
+    verified: false
+    hashtags: "#coffeetime, #staysafe, #spots, #outdoors"
 ---

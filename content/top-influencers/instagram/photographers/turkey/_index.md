@@ -1,107 +1,107 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Turkey In 2020
 description: >-
-  Find top photographers Instagram influencers in Turkey in 2020. Most popular hashtags: #turkey #portraitpage #earth #portrait.
+  Find top photographers Instagram influencers in Turkey in 2020. Most popular hashtags: #objektifimden #atat #portrait #nature.
 platform: Instagram
 profiles:
+  - username: "ahmetcandanardal"
+    fullname: >-
+      Ahmet Candan Ardal
+    location: "Turkey"
+    followers: 6263
+    engagement: 1432
+    commentsToLikes: 0.132546
+    id: ck9we1jcei5zw0j782efib8f1
+    verified: false
+    hashtags: "#naturephotos, #magicpict, #turkshotss, #dream"
   - username: "tameryilmaz1"
     fullname: >-
       Tamer Yilmaz
     location: "Turkey"
-    followers: 51194
-    engagement: 202
-    commentsToLikes: 0.048268
+    followers: 51975
+    engagement: 189
+    commentsToLikes: 0.047312
     id: ck13b23antbas0i19iik2itlv
     verified: false
-    hashtags: "#bal, #worlddisabilityday, #cover, #3aral"
-  - username: "hoseeinpk"
+    hashtags: "#sebatikarakurtphotos, #coverstory, #resortwear, #oldschoolbasketball"
+  - username: "orhandoganer.artstudio"
     fullname: >-
-      حسین پی کی👑
+      Orhan Doganer
     location: "Turkey"
-    followers: 87039
-    engagement: 775
-    commentsToLikes: 0.020050
-    id: ck8t33nez1q590j7845ssqfyh
+    followers: 2546
+    engagement: 2853
+    commentsToLikes: 0.124793
+    id: ckaovg7y44hru0i78e3u55rit
     verified: false
-    hashtags: "#pic, #ig, #earth, #aksmatn"
-  - username: "siavashphtogrph"
+    hashtags: "#10kas, #portrait, #landscapes, #famousportraits"
+  - username: "_teachersella"
     fullname: >-
-      Фотограф Сияваш
+      _teachersella
     location: "Turkey"
-    followers: 9547
-    engagement: 640
-    commentsToLikes: 0.074520
-    id: ck5chs5kord1o0i11qkasejlb
+    followers: 6851
+    engagement: 2203
+    commentsToLikes: 0.099226
+    id: ck139kyvbltya0i1971bjy9g2
     verified: false
-    hashtags: "#newcollection, #fashionblogger, #istanbul, #studiophotography"
-  - username: "savassesenn"
+    hashtags: "#herbalayse3, #elfkbi, #cndygrlss, #ynylgzlolck"
+  - username: "eg_ervaygt"
     fullname: >-
-      
+      Erva YİĞİT 🌿
     location: "Turkey"
-    followers: 8263
-    engagement: 889
-    commentsToLikes: 0.060909
-    id: ck0uemnjtlrhs0i1997sg9vd4
+    followers: 5220
+    engagement: 2258
+    commentsToLikes: 0.046272
+    id: ckaowelxz8lh90i78nb7cptx0
     verified: false
-    hashtags: "#turkey, #vizorturkiyem, #instagram, #sehitlerolmez"
+    hashtags: "#littlecute, #momlife, #onemonths, #1months"
+  - username: "iskenderyuksell"
+    fullname: >-
+      iskender yüksel
+    location: "Turkey"
+    followers: 26833
+    engagement: 413
+    commentsToLikes: 0.281586
+    id: ckap1frpquesz0i7871u8eo8u
+    verified: false
+    hashtags: "#ulricdevarens, #jacquessaintpres, #jsp, #parfum"
   - username: "semadogan._"
     fullname: >-
       Sema Doğan
     location: "Turkey"
-    followers: 12228
-    engagement: 1171
-    commentsToLikes: 0.032965
+    followers: 17139
+    engagement: 981
+    commentsToLikes: 0.029277
     id: ck8t4usuj7zk50j78c5kfpexf
     verified: false
-    hashtags: "#kamp, #kapadokyabalon, #instagram, #antalyaalanya"
+    hashtags: "#nurgaz, #istanbulbalat, #hisar, #tbmm100ya"
+  - username: "soldierofthewar"
+    fullname: >-
+      Ersin
+    location: "Turkey"
+    followers: 6881
+    engagement: 1960
+    commentsToLikes: 0.075575
+    id: ckap6la1qgcbv0i78h676x1od
+    verified: false
+    hashtags: "#canon, #aniyakala, #gezgin, #igers"
   - username: "tiebowtie"
     fullname: >-
       Viktoriya Sener
     location: "Turkey"
-    followers: 137127
-    engagement: 255
-    commentsToLikes: 0.035098
+    followers: 135524
+    engagement: 220
+    commentsToLikes: 0.049971
     id: ck0u7h6lg4nza0i19sbrcthsw
     verified: false
     hashtags: "#stayhome, #staysafe"
-  - username: "behlulucisik"
+  - username: "alisahebiofficial"
     fullname: >-
-      Behlül Üçışık
+      © Ali Sahebi
     location: "Turkey"
-    followers: 8926
-    engagement: 510
-    commentsToLikes: 0.072418
-    id: ck13bnvs7wbf30i19n3pyic74
+    followers: 7487
+    engagement: 616
+    commentsToLikes: 0.086783
+    id: ck9wi95z919d40j784q3da96m
     verified: false
-    hashtags: "#portraitsofficial, #creativesontherise, #worldportre, #moodyports"
-  - username: "ugurdemir"
-    fullname: >-
-      Ugur Demir
-    location: "Turkey"
-    followers: 58983
-    engagement: 460
-    commentsToLikes: 0.021267
-    id: ck139uhyxn6cj0i19r349dcfa
-    verified: false
-    hashtags: "#evdekal"
-  - username: "enskpc"
-    fullname: >-
-      Enes Küpcü
-    location: "Turkey"
-    followers: 5918
-    engagement: 1911
-    commentsToLikes: 0.012627
-    id: ck5q7s9712vxa0i11fr7eo0bd
-    verified: false
-    hashtags: "#landscape, #afiliask, #blackandwhite, #filmstillsphotographer"
-  - username: "serkankaratasphotographer"
-    fullname: >-
-      Serkan Karataş
-    location: "Turkey"
-    followers: 30758
-    engagement: 123
-    commentsToLikes: 0.090014
-    id: ck5zm0lbilowu0i14n5jeqzwb
-    verified: false
-    hashtags: "#canon, #photographer, #snowflakes, #kapadokya"
+    hashtags: "#globe, #portraitpage, #endlessfaces, #folkportraits"
 ---

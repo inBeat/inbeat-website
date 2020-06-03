@@ -1,107 +1,107 @@
 ---
 title: Top 10 Runners Instagram Influencers In Australia In 2020
 description: >-
-  Find top runners Instagram influencers in Australia in 2020. Most popular hashtags: #2020 #tracktuesday #australia #running.
+  Find top runners Instagram influencers in Australia in 2020. Most popular hashtags: #earthday #australia #stayhome #.
 platform: Instagram
 profiles:
-  - username: "timmhanly"
-    fullname: >-
-      Timm Hanly
-    location: "Australia"
-    followers: 148531
-    engagement: 753
-    commentsToLikes: 0.018810
-    id: ck6uaug4r5q8v0j71zn2ssbl0
-    verified: true
-    hashtags: "#datenightdelivered"
   - username: "itsjohnnymagz"
     fullname: >-
       Johnny Magz
     location: "Australia"
-    followers: 10202
-    engagement: 2139
-    commentsToLikes: 0.032467
+    followers: 10434
+    engagement: 2054
+    commentsToLikes: 0.036289
     id: ck5pwlevtndcd0i11a1p4sbyj
     verified: false
-    hashtags: "#gayusa, #gayuk, #instagay, #gay"
-  - username: "bellapaigeofficial"
+    hashtags: "#gayuk, #instagay, #gay, #gaypride"
+  - username: "monicaplaza"
     fullname: >-
-      B E L L A  P A I G E
+      🇧🇷🇦🇺Motivated Sporty LIFESTYLE
     location: "Australia"
-    followers: 33062
-    engagement: 522
-    commentsToLikes: 0.019824
-    id: ck15qtspd4lwd0i197dc2u1dv
+    followers: 45759
+    engagement: 163
+    commentsToLikes: 0.060928
+    id: ck8t8p0whl7m70j781swxjr6z
     verified: false
-    hashtags: "#forthewest, #edm, #ultramusicfestivalaustralia, #ultramusicfestival"
+    hashtags: "#marvin, #lifestyle, #autumn, #windyhair"
   - username: "barborabakos"
     fullname: >-
       Barbora Bakoš
     location: "Australia"
-    followers: 55060
-    engagement: 856
-    commentsToLikes: 0.003115
+    followers: 54876
+    engagement: 902
+    commentsToLikes: 0.007582
     id: ck5c0groqt3vj0i11moh26ci5
     verified: false
-    hashtags: "#editorial, #cosmetic, #bakoscooking, #ostavamdoma"
-  - username: "monicaplaza"
+    hashtags: "#earthday, #yoga, #grifbratislava, #ruskoniejehanba"
+  - username: "daveridley"
     fullname: >-
-      Monica Plaza
+      Dave Ridley
     location: "Australia"
-    followers: 46681
-    engagement: 140
-    commentsToLikes: 0.048442
-    id: ck8t8p0whl7m70j781swxjr6z
+    followers: 12933
+    engagement: 980
+    commentsToLikes: 0.016939
+    id: ckaovcele3zc30i78nugzw4m3
     verified: false
-    hashtags: "#failed, #tbt, #tokyoretro, #boredinthehouse"
-  - username: "susankrumins"
-    fullname: >-
-      Susan Krumins (Kuijken)
-    location: "Australia"
-    followers: 33268
-    engagement: 588
-    commentsToLikes: 0.018559
-    id: ck5hfe6hsx1wl0i1125gh067j
-    verified: true
-    hashtags: "#secondhome, #sesh, #saturdaze, #pineapple"
+    hashtags: "#theline, #virtualr4k"
   - username: "katherinelameree"
     fullname: >-
       Katherine Lameree
     location: "Australia"
-    followers: 40298
-    engagement: 364
-    commentsToLikes: 0.027134
+    followers: 40420
+    engagement: 377
+    commentsToLikes: 0.030186
     id: ck6uh46jt6w6a0j71utfezxpt
     verified: false
     hashtags: ""
-  - username: "corky93"
+  - username: "bellapaigeofficial"
     fullname: >-
-      Courtney K ☼
+      B E L L A  P A I G E
     location: "Australia"
-    followers: 39697
-    engagement: 477
-    commentsToLikes: 0.017412
-    id: ck0ttdyzq2bmd0i1970b4ei8w
+    followers: 32898
+    engagement: 537
+    commentsToLikes: 0.022013
+    id: ck15qtspd4lwd0i197dc2u1dv
     verified: false
-    hashtags: "#cyclinggirl, #swimmingishard, #yoga, #runformorethanyourself"
+    hashtags: "#babypleasecomehome, #songwriting, #ultramusicfestivalaustralia, #vce"
+  - username: "susankrumins"
+    fullname: >-
+      Susan Krumins (Kuijken)
+    location: "Australia"
+    followers: 33183
+    engagement: 592
+    commentsToLikes: 0.018792
+    id: ck5hfe6hsx1wl0i1125gh067j
+    verified: true
+    hashtags: "#footyoval, #paintrain, #travel, #decade"
   - username: "fitfastfoods"
     fullname: >-
       CAROLENA KOSTAS
     location: "Australia"
-    followers: 30418
-    engagement: 797
-    commentsToLikes: 0.043502
+    followers: 31139
+    engagement: 792
+    commentsToLikes: 0.045256
     id: ck5hn62z0n9y20i11te9pamgm
     verified: false
     hashtags: ""
-  - username: "gengen_lacaze"
+  - username: "sarahfitfoodie"
     fullname: >-
-      Genevieve Gregson (née LaCaze)
+      Sarah 🇳🇿 BNE | 22
     location: "Australia"
-    followers: 141085
-    engagement: 441
-    commentsToLikes: 0.009415
-    id: ck5zsqctsyzvx0i1448qn9d9j
-    verified: true
-    hashtags: "#staycalm, #olympics, #iwd2020, #t20worldcup"
+    followers: 22571
+    engagement: 382
+    commentsToLikes: 0.132200
+    id: ck5btat0kfmsr0i117rydc3k7
+    verified: false
+    hashtags: "#blissballchallenge, #tbt"
+  - username: "jasmincervellohmu"
+    fullname: >-
+      Sydney Makeup Hair Artist
+    location: "Australia"
+    followers: 5845
+    engagement: 311
+    commentsToLikes: 0.059268
+    id: ck15rlrdk8jl40i199txfynr3
+    verified: false
+    hashtags: "#veil, #datelineimports, #jasmincervellohair, #dress"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Songwriters Instagram Influencers In 2020
 description: >-
-  Find top songwriters Instagram influencers in 2020. Most popular hashtags: #singer # #anxiety #homestudio.
+  Find top songwriters Instagram influencers in 2020. Most popular hashtags: #stayhome #cover #lekkerlachen #tiktok.
 platform: Instagram
 profiles:
-  - username: "uniquesalongaph"
-    fullname: >-
-      UNIQUE SALONGA
-    location: ""
-    followers: 110412
-    engagement: 837
-    commentsToLikes: 0.015801
-    id: ck0w2zknzqw6m0i19fjg067of
-    verified: true
-    hashtags: "#scoutfridaypicks, #scoutxunique, #unique2ndalbum"
   - username: "knox.music"
     fullname: >-
       K N Ö X
     location: "United States"
-    followers: 2797
-    engagement: 1007
-    commentsToLikes: 0.059759
+    followers: 2791
+    engagement: 999
+    commentsToLikes: 0.052853
     id: ck5zyjg8oa02p0i14h7erqchr
     verified: false
-    hashtags: "#gocats, #guardiansofthegalaxypjs, #teammates, #nofilternecessary"
+    hashtags: "#anxiety, #stircrazy, #santascomin2town, #gocats"
+  - username: "griffenpalmer"
+    fullname: >-
+      griffen palmer
+    location: "United States"
+    followers: 6272
+    engagement: 1671
+    commentsToLikes: 0.075897
+    id: ckap8tjdlpthl0i788zku8uup
+    verified: false
+    hashtags: "#songland, #partyshirt, #keyblessed"
   - username: "noahgundersen"
     fullname: >-
       Noah Gundersen
-    location: ""
-    followers: 43641
-    engagement: 617
-    commentsToLikes: 0.022387
+    location: "United States"
+    followers: 43963
+    engagement: 643
+    commentsToLikes: 0.020132
     id: ck15ptp1xzkm70i19gtlheb4c
     verified: true
-    hashtags: "#ngla1, #ngatlanta2, #ngnyc1, #ngnashville2"
+    hashtags: "#ngnyc1, #ngatlanta1, #ngseattle1, #ngseattle2"
   - username: "robertearlkeen1"
     fullname: >-
       Robert Earl Keen
     location: "United States"
-    followers: 50777
-    engagement: 366
-    commentsToLikes: 0.021091
+    followers: 53537
+    engagement: 342
+    commentsToLikes: 0.020217
     id: ck5c3y7290a0q0i11fk4e359n
     verified: true
-    hashtags: ""
+    hashtags: "#luckreunion, #saveourstages, #primecuts"
+  - username: "sassy_shinade"
+    fullname: >-
+      Shinade Mc Lean
+    location: "Austria"
+    followers: 2086
+    engagement: 3239
+    commentsToLikes: 0.152694
+    id: ckaoyk7kxhto10i78f5mehs7k
+    verified: false
+    hashtags: "#mountainlover, #familylove, #family, #goodvibes"
   - username: "agent.envy"
     fullname: >-
       Agent Envy
     location: "United States"
-    followers: 5836
-    engagement: 2385
-    commentsToLikes: 0.092470
+    followers: 7468
+    engagement: 2247
+    commentsToLikes: 0.090436
     id: ck6uicrz8ebkd0j7120zo579u
     verified: false
-    hashtags: "#ableton, #electricguitar, #jacksonguitars, #acousticguitar"
+    hashtags: "#billieeilish, #photography, #lanadelrey, #cover"
   - username: "dhariaartist"
     fullname: >-
       DHARIA
     location: "Romania"
-    followers: 21572
-    engagement: 1949
-    commentsToLikes: 0.069027
+    followers: 25975
+    engagement: 2005
+    commentsToLikes: 0.072527
     id: ck14j8pitj4230i19dwhfnhol
     verified: false
-    hashtags: "#augustdiaries, #sugarandbrownies"
+    hashtags: "#vh1quarantunes, #quarantunes, #tiktok, #stayhome"
   - username: "davevanpooij"
     fullname: >-
       Dave van Pooij
     location: "Germany"
-    followers: 8489
-    engagement: 2040
-    commentsToLikes: 0.114461
+    followers: 9726
+    engagement: 2003
+    commentsToLikes: 0.107495
     id: ck5zpmu3wsy2k0i14i6vo26pn
     verified: false
     hashtags: "#dolbycinema, #jumanjinl, #lekkerlachen, #birdsofprey"
-  - username: "jonbonjovi"
+  - username: "_zenzei_"
     fullname: >-
-      Jon Bon Jovi
-    location: "United States"
-    followers: 559680
-    engagement: 1343
-    commentsToLikes: 0.035409
-    id: ck0uerd11lye80i19n2f9fcl4
-    verified: true
-    hashtags: "#unbroken, #thinfs, #2020"
-  - username: "imcristinacherry"
-    fullname: >-
-      C R I S T I N Λ  C H E R R Y
-    location: ""
-    followers: 7030
-    engagement: 1558
-    commentsToLikes: 0.194707
-    id: ck8tajyrcs31y0j78ty0q59w6
+      Z E N Z E I
+    location: "Colombia"
+    followers: 46429
+    engagement: 973
+    commentsToLikes: 0.058436
+    id: ck0tvvhv3cyw60i19e11u8igh
     verified: false
-    hashtags: ""
-  - username: "kellimariemusic"
+    hashtags: "#pegao, #repost, #adn, #zen"
+  - username: "soroushmostafaei"
     fullname: >-
-      kellimarie
-    location: ""
-    followers: 46753
-    engagement: 731
-    commentsToLikes: 0.054657
-    id: ck5c0vef9tx030i11hcu4nc53
+      SOROUSH️💎
+    location: "Iran"
+    followers: 6426
+    engagement: 2232
+    commentsToLikes: 0.083816
+    id: ck9wj15ur4u5c0j78eazlwbuv
     verified: false
-    hashtags: "#cover, #girlband, #reallikeyou, #nomakeup"
+    hashtags: "#baran, #chord, #amirazimi, #soroush"
 ---

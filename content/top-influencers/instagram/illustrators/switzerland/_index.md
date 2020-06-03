@@ -1,107 +1,107 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top illustrators Instagram influencers in Switzerland in 2020. Most popular hashtags: #illustration #drawing #art #illustrate.
+  Find top illustrators Instagram influencers in Switzerland in 2020. Most popular hashtags: #artwork #staypositive #facemask #stayhome.
 platform: Instagram
 profiles:
   - username: "miguelfigueiredoo"
     fullname: >-
       Miguel Figueiredo
     location: "Switzerland"
-    followers: 6398
-    engagement: 1169
-    commentsToLikes: 0.042090
+    followers: 6350
+    engagement: 1193
+    commentsToLikes: 0.030307
     id: ck5hso8i3wx5r0i11o5csdnjt
     verified: false
-    hashtags: "#mazda, #shotoniphone"
+    hashtags: ""
   - username: "vaneziasm"
     fullname: >-
-      ILLUSTRATIONS/GAMING/DECO
+      Vanessa |Illustration & Gaming
     location: "Switzerland"
-    followers: 2586
-    engagement: 4082
-    commentsToLikes: 0.020945
+    followers: 2903
+    engagement: 4406
+    commentsToLikes: 0.020599
     id: ck8t82qxliw8p0j78oosbc9io
     verified: false
-    hashtags: "#joyinth, #paperbag, #onlinegaming, #lidl"
-  - username: "alangehri"
+    hashtags: "#thelastofus, #comfy, #paperbag, #instagamer"
+  - username: "isabellefollath"
     fullname: >-
-      Alan Gehri
+      Isabelle Follath
     location: "Switzerland"
-    followers: 42399
-    engagement: 1057
-    commentsToLikes: 0.004149
-    id: ck8t3e3ew2x470j789c9madz5
+    followers: 18928
+    engagement: 703
+    commentsToLikes: 0.052326
+    id: ck5zybrws9lem0i14zsh1tv73
     verified: false
-    hashtags: "#sketch, #inktober2019, #blackworkillustration, #doodle"
-  - username: "carolinebonnemuller"
-    fullname: >-
-      Caroline Bonne-Müller
-    location: "Switzerland"
-    followers: 12969
-    engagement: 622
-    commentsToLikes: 0.049286
-    id: ck14htro8c3k10i19pt28ovi1
-    verified: false
-    hashtags: "#artchallenge, #folktales, #fairytales, #illustrate"
+    hashtags: "#marthejocelyn, #empathylab, #buildempathy, #happybear"
   - username: "_fichtre"
     fullname: >-
       FICHTRE !
     location: "Switzerland"
-    followers: 5493
-    engagement: 532
-    commentsToLikes: 0.037364
+    followers: 5913
+    engagement: 704
+    commentsToLikes: 0.053636
     id: ck5qdm4syw9420i117jyegptx
     verified: false
-    hashtags: "#graphicdesign, #procreatedrawing, #powercut, #capeofgoodhope"
+    hashtags: "#davidabram, #hommage, #streetview, #deleuzeguattari"
+  - username: "stillonoir"
+    fullname: >-
+      Tanya Heidrich
+    location: "Switzerland"
+    followers: 83649
+    engagement: 344
+    commentsToLikes: 0.015550
+    id: ckaotpkjwwxa10i78rrfp389h
+    verified: false
+    hashtags: "#treepattern, #estampado, #opart, #covidartmuseum"
+  - username: "carolinebonnemuller"
+    fullname: >-
+      Caroline Bonne Müller
+    location: "Switzerland"
+    followers: 13428
+    engagement: 634
+    commentsToLikes: 0.050801
+    id: ck14htro8c3k10i19pt28ovi1
+    verified: false
+    hashtags: "#earthlover, #tweens, #waterellement, #artoninstagram"
   - username: "lostswissmiss"
     fullname: >-
       Sarah Hernandez
     location: "Switzerland"
-    followers: 68962
-    engagement: 144
-    commentsToLikes: 0.003025
+    followers: 68951
+    engagement: 136
+    commentsToLikes: 0.006231
     id: ck0u8a3f76xta0i19wpoyqzk4
     verified: false
-    hashtags: "#instaart, #illustrate, #artdiscover, #swissartist"
+    hashtags: "#swisstattooers, #ladytattooers, #blackwork"
   - username: "pinkm0on_"
     fullname: >-
       𝗣𝗜𝗡𝗞𝗠𝗢𝗢𝗡🌙 𝘚𝘢𝘪𝘺𝘢𝘯’𝘴 𝘮𝘰𝘰𝘥
     location: "Switzerland"
-    followers: 2336
-    engagement: 2886
-    commentsToLikes: 0.183759
+    followers: 2339
+    engagement: 2531
+    commentsToLikes: 0.229708
     id: ck8tagdylrn420j78ke8brh1j
     verified: false
-    hashtags: "#funkopicture, #disneyaddicts, #geekgirl, #funkopopcommunity"
+    hashtags: "#instageek, #pikapika, #funkodisney, #disneyfigures"
   - username: "dario_desiena"
     fullname: >-
       Painting🎨Artist🖌
     location: "Switzerland"
-    followers: 27558
-    engagement: 671
-    commentsToLikes: 0.048343
+    followers: 29300
+    engagement: 559
+    commentsToLikes: 0.046081
     id: ck0w6hlir8lqj0i19c7zbr1dw
     verified: false
-    hashtags: "#customhoddy, #wearart, #kidsart, #kidpainting"
-  - username: "esprit_tzp"
+    hashtags: "#limited, #arttohelp, #swissartwork, #maskedgirl"
+  - username: "kevinreiterer"
     fullname: >-
-      Esprit TZP
+      Kevin Reiterer
     location: "Switzerland"
-    followers: 6371
-    engagement: 703
-    commentsToLikes: 0.074677
-    id: ck5c6mn1a5r6g0i11il9emha8
+    followers: 6087
+    engagement: 487
+    commentsToLikes: 0.012092
+    id: ck5cdekybj1dr0i11dfxh8xe6
     verified: false
-    hashtags: "#esteban, #cityhunter, #cityhuntermanga, #puar"
-  - username: "beckycas_"
-    fullname: >-
-      Becky Cas
-    location: "Switzerland"
-    followers: 114584
-    engagement: 479
-    commentsToLikes: 0.021783
-    id: ck0u6dlod1l6w0i19uu2z8ozi
-    verified: false
-    hashtags: "#beeart, #kawaiishop, #illustrationoftheday, #kawaiiartstyle"
+    hashtags: "#grateful, #design, #bullettracing, #positivity"
 ---

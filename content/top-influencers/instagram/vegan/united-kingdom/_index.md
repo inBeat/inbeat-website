@@ -1,107 +1,107 @@
 ---
 title: Top 10 Vegan Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top vegan Instagram influencers in United Kingdom in 2020. Most popular hashtags: #altgirl #gothgirl #gifted #grunge.
+  Find top vegan Instagram influencers in United Kingdom in 2020. Most popular hashtags: #pltstyle #grungelook # #darkmakeup.
 platform: Instagram
 profiles:
   - username: "rojmira_india"
     fullname: >-
       Rose 🌷|rojmira|
     location: "United Kingdom"
-    followers: 6281
-    engagement: 1296
-    commentsToLikes: 0.202276
+    followers: 6461
+    engagement: 1412
+    commentsToLikes: 0.184330
     id: ck8t9r205p16n0j78p112gy3i
     verified: false
     hashtags: "#rojmira"
+  - username: "hollievwise"
+    fullname: >-
+      𝕳 𝖔 𝖑 𝖑 𝖎 𝖊 ⚡️🌜✨
+    location: "United Kingdom"
+    followers: 5650
+    engagement: 1409
+    commentsToLikes: 0.091666
+    id: ck9wfsup0qe1g0j78n8qu0x4x
+    verified: false
+    hashtags: "#alternative, #emogirl, #grungegirls, #grungemusic"
+  - username: "isabeljones_sm6"
+    fullname: >-
+      Isabel Jones
+    location: "United Kingdom"
+    followers: 40295
+    engagement: 1002
+    commentsToLikes: 0.051744
+    id: ckap5a27aaty10i78jn61ocjx
+    verified: false
+    hashtags: ""
+  - username: "aliciatyra_cc"
+    fullname: >-
+      Alicia Corrales-Connor
+    location: "United Kingdom"
+    followers: 7616
+    engagement: 1832
+    commentsToLikes: 0.053688
+    id: ck0w2gj3oo91d0i19yavqcam5
+    verified: false
+    hashtags: "#cruise, #glasses, #goldenhour, #facials"
+  - username: "katiepenny"
+    fullname: >-
+      K A T I E  P E N N Y ⚡️
+    location: "United Kingdom"
+    followers: 22688
+    engagement: 561
+    commentsToLikes: 0.103172
+    id: ck5c0lqhjte1u0i11p8vomza2
+    verified: false
+    hashtags: "#skincaremadepersonal, #petacertified, #skinlovingsuncare, #hawaaintropic"
   - username: "littlemissvenom"
     fullname: >-
       🖤🌈🖤Ⱡł₮₮ⱠɆ ₥ł₴₴ VɆ₦Ø₥🖤🌈🖤
     location: "United Kingdom"
-    followers: 16646
-    engagement: 513
-    commentsToLikes: 0.126856
+    followers: 16331
+    engagement: 527
+    commentsToLikes: 0.126393
     id: ck0w6euee88al0i19dx9xnigf
     verified: false
-    hashtags: "#collab, #halloweenmakeup, #creepygirl, #staticdarkness"
-  - username: "_porvata_"
+    hashtags: "#ootd, #gothhair, #altmakeup, #punk"
+  - username: "pmf.amira"
     fullname: >-
-      Harry Kirton
+      Babygirl💕
     location: "United Kingdom"
-    followers: 118742
-    engagement: 1895
-    commentsToLikes: 0.011928
-    id: ck14hudejc6q60i1959dhc6k7
-    verified: true
-    hashtags: "#photography, #source, #semiprofessionalparkourist, #london"
-  - username: "missbeetown"
-    fullname: >-
-      BEE | VINTAGE TIPS & TRICKS
-    location: "United Kingdom"
-    followers: 29510
-    engagement: 433
-    commentsToLikes: 0.039365
-    id: ck5hnsei4ob850i11fektv22q
+    followers: 3924
+    engagement: 2250
+    commentsToLikes: 0.112231
+    id: ckap0tpljrr040i78rrsys10g
     verified: false
-    hashtags: "#30s, #vintageootd, #makeuplook, #makeuplovers"
-  - username: "marleen_mathews"
+    hashtags: ""
+  - username: "rhiaannonc"
     fullname: >-
-      𝕄𝔸ℝ𝕃𝔼𝔼ℕ 𝕄𝔸𝕋ℍ𝔼𝕎𝕊
+      rhiannon ✨
     location: "United Kingdom"
-    followers: 38060
-    engagement: 498
-    commentsToLikes: 0.072695
-    id: ck139ly8qlyih0i19cu76e2a9
+    followers: 8492
+    engagement: 790
+    commentsToLikes: 0.103776
+    id: ck9wfbsoao5ox0j78z57epfb6
     verified: false
-    hashtags: "#meditation, #exercise, #stayhome, #growabeard"
-  - username: "ellisgoodridge"
+    hashtags: "#grainnesquarfest"
+  - username: "lastofthetrue"
     fullname: >-
-      Ellis Goodridge
+      PJ🌙 | UK | TATTOOED
     location: "United Kingdom"
-    followers: 10693
-    engagement: 553
-    commentsToLikes: 0.100898
-    id: ck5he6qr6rc980i11m9d2t2na
+    followers: 21394
+    engagement: 1303
+    commentsToLikes: 0.021290
+    id: ckap42xle5m330i78u6ckn6kz
     verified: false
-    hashtags: "#gifted"
-  - username: "daniellebianca11"
+    hashtags: "#bodyharness, #sheingals, #vegangirls, #pinupmodel"
+  - username: "max.solarink"
     fullname: >-
-      D.A.N.I.E.L.L.E
+      ❊ Max Becker | Tattoo Artist ❊
     location: "United Kingdom"
-    followers: 5474
-    engagement: 599
-    commentsToLikes: 0.104152
-    id: ck14lbyz6tw7c0i19pn7jzdmq
+    followers: 7781
+    engagement: 1035
+    commentsToLikes: 0.060166
+    id: ck6tmst3f8grp0j71jkd42zjd
     verified: false
-    hashtags: "#gettingbetterafterbirth, #mcmforever"
-  - username: "essentiallyisabella"
-    fullname: >-
-      ☆ Isabella ☆
-    location: "United Kingdom"
-    followers: 3932
-    engagement: 1085
-    commentsToLikes: 0.318642
-    id: ck5qej71p0r400i1172hwwjtg
-    verified: false
-    hashtags: "#streetstylelondon, #ukmums, #leicestershire, #bobblehat"
-  - username: "beckybaldwinbass"
-    fullname: >-
-      Becky Baldwin
-    location: "United Kingdom"
-    followers: 86218
-    engagement: 731
-    commentsToLikes: 0.022565
-    id: ck14ji9cikhhk0i19ujvpwnqe
-    verified: false
-    hashtags: "#dakesis, #fenderbass, #singforhandsoffgretel, #altrock"
-  - username: "nutritionalnatasa"
-    fullname: >-
-      Natasa | Vegan Food & Fitness
-    location: "United Kingdom"
-    followers: 7117
-    engagement: 537
-    commentsToLikes: 0.208652
-    id: ck6ub8u7t85tu0j713t2jydz1
-    verified: false
-    hashtags: "#stayathome, #staysafe, #stayfed, #fableticseu"
+    hashtags: "#tattoowithmeaning, #drawingaday, #tattooed, #tattooinspiration"
 ---

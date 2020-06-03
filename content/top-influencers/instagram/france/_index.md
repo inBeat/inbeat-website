@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In France In 2020
 description: >-
-  Find top Instagram influencers in France in 2020. Most popular hashtags: #homesweethome #confinement #concours #duo.
+  Find top Instagram influencers in France in 2020. Most popular hashtags: #hypebeast #fashionstyle #vintage #.
 platform: Instagram
 profiles:
   - username: "amoureuxdumonde"
     fullname: >-
-      Yann ♡ Aurélie - Blog Voyage
+      Yann ♡ Aurélie - Blog Voyage
     location: "France"
-    followers: 111925
-    engagement: 688
-    commentsToLikes: 0.040810
+    followers: 116876
+    engagement: 767
+    commentsToLikes: 0.083801
     id: ck0tv1s609kcq0i19fj66fe0n
     verified: false
-    hashtags: "#puglia, #voyageuse, #philippines, #travelgirls"
+    hashtags: "#palawan, #voyageslaponie, #montagne, #annecy"
   - username: "charlie.ma.vie"
     fullname: >-
       Raphaëlle
     location: "France"
-    followers: 36453
-    engagement: 972
-    commentsToLikes: 0.012753
+    followers: 46823
+    engagement: 837
+    commentsToLikes: 0.021400
     id: ck0vzn1709wpv0i19kyvoss00
     verified: false
-    hashtags: "#lifestylephotography, #mondayvibes, #springishere, #slowlife"
-  - username: "albane_ft"
+    hashtags: "#momanddad, #daddy, #smileeveryday, #lovers"
+  - username: "julija.zp"
     fullname: >-
-      Albane_ft
+      𝗝𝗨𝗟𝗜𝗝𝗔 🌹
     location: "France"
-    followers: 161304
-    engagement: 2129
-    commentsToLikes: 0.064592
-    id: ck8wep6w0eejl0j782xfnpqxd
-    verified: false
-    hashtags: "#sheinwintersale, #enrush, #duo, #fyp"
-  - username: "lenna.vivas"
-    fullname: >-
-      La tiktokeuse à la frange là
-    location: "France"
-    followers: 292802
-    engagement: 1126
-    commentsToLikes: 0.033525
-    id: ck8svwf9ccygv0j78v7cdkfex
-    verified: false
-    hashtags: "#sheinathome, #partenariat, #jeuconcours, #sneakers"
-  - username: "mcxlita"
-    fullname: >-
-      That girl Marielle
-    location: "France"
-    followers: 7496
-    engagement: 2100
-    commentsToLikes: 0.179522
-    id: ck8wd25dndb9z0j78cu6tgef6
-    verified: false
-    hashtags: "#strong, #cheervsdance, #trend, #bookclub"
-  - username: "lisaalautner"
-    fullname: >-
-      𝓛𝓲𝓼𝓪 𝓛𝓪𝓾𝓽𝓷𝓮𝓻 ♡
-    location: "France"
-    followers: 186940
-    engagement: 1471
-    commentsToLikes: 0.032094
-    id: ck8wes0pbeiwo0j78kieghv7n
-    verified: false
-    hashtags: "#contest, #obsidianunc, #concealer, #pov"
-  - username: "yanntufanes"
-    fullname: >-
-      Yann, Tu Fanes ! 🥀
-    location: "France"
-    followers: 147138
-    engagement: 1505
-    commentsToLikes: 0.087767
-    id: ck8wex75ker6m0j786redp1eu
-    verified: false
-    hashtags: "#ami, #ask, #iletaitunefarce, #pourtoi"
-  - username: "mathieu.mz"
-    fullname: >-
-      Math
-    location: "France"
-    followers: 22277
-    engagement: 1457
-    commentsToLikes: 0.059299
-    id: ck8wgnobyhpoi0j78z9flby1f
+    followers: 2628
+    engagement: 4751
+    commentsToLikes: 0.315297
+    id: ckapc0lxo20ag0i78mmqyv6ym
     verified: false
     hashtags: ""
-  - username: "ms.tiinaa"
+  - username: "maybeaxelle"
     fullname: >-
-      Tɪɴᴀ  🌙
+      𝕞𝕖🐍sah what a pleasure
     location: "France"
-    followers: 7394
-    engagement: 1591
-    commentsToLikes: 0.122788
-    id: ck8tddrek2ygx0j78c1i5108u
+    followers: 2008
+    engagement: 3664
+    commentsToLikes: 0.246095
+    id: ckaoyvlfzja6d0i783fm4zwsv
     verified: false
-    hashtags: "#bodygoals, #pullandbear, #femaleempowerment, #backworkout"
-  - username: "babicatarine"
+    hashtags: ""
+  - username: "sohoney__"
     fullname: >-
-      𝔹𝕒𝕣𝕓𝕒𝕣𝕒 ℂ𝕒𝕥𝕒𝕣𝕚𝕟𝕖
+      .        ♕𝑆𝑂𝑃𝐻𝐼𝐸
     location: "France"
-    followers: 2317
-    engagement: 2672
-    commentsToLikes: 0.166860
-    id: ck8tcq92509ix0j78pcphm99b
+    followers: 2753
+    engagement: 3604
+    commentsToLikes: 0.405720
+    id: ck8t1exqyvi8d0j78505mqvrd
     verified: false
-    hashtags: "#ootd, #quarentinebelike, #teaparty, #challengeaccepted"
+    hashtags: "#souvenirs, #girlspower, #pictureofday, #macdonals"
+  - username: "jxllzs"
+    fullname: >-
+      𝒥𝓊𝓁𝑒𝓈. 🧸
+    location: "France"
+    followers: 3393
+    engagement: 2993
+    commentsToLikes: 0.137679
+    id: ck8tc52qayb8x0j7892ki565l
+    verified: false
+    hashtags: "#mensstreetstyle, #fashionstyle, #dailystreetwear, #palacetalk"
+  - username: "elliselbersen"
+    fullname: >-
+      Ellis Elbersen
+    location: "France"
+    followers: 2406
+    engagement: 2902
+    commentsToLikes: 0.202416
+    id: ck8tdnng942kz0j78sad32b9a
+    verified: false
+    hashtags: "#oxfordgeneration, #orange, #behappy, #nakdfashion"
+  - username: "lucastenay"
+    fullname: >-
+      LUCAS ☻
+    location: "France"
+    followers: 7770
+    engagement: 2892
+    commentsToLikes: 0.118941
+    id: ck6u9po5uywt60j71yp7r1ujz
+    verified: false
+    hashtags: "#hypebeast, #eboy, #highsnobiety, #cuteboys"
+  - username: "lenatamburinioff"
+    fullname: >-
+      Lena Tamburini
+    location: "France"
+    followers: 594524
+    engagement: 2698
+    commentsToLikes: 0.044146
+    id: ck9wdgwamfkzx0j78x0opxm64
+    verified: false
+    hashtags: "#ad, #iskodna, #partenariat"
+  - username: "xj0line"
+    fullname: >-
+      𝓙𝓸𝓵𝓲𝓷𝓮‘👸🏼
+    location: "France"
+    followers: 295465
+    engagement: 2640
+    commentsToLikes: 0.268022
+    id: ck6u18ogtk9hi0j71ylggu8t6
+    verified: false
+    hashtags: "#applegiveaway, #maedelsgewinnspiele, #iphone11, #newiphone"
 ---

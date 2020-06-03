@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Russia In 2020
 description: >-
-  Find top travel Instagram influencers in Russia in 2020. Most popular hashtags: #moscow #hm #travel #liketime.
+  Find top travel Instagram influencers in Russia in 2020. Most popular hashtags: #eiffeltower #sunrise #quarantine #coronatime.
 platform: Instagram
 profiles:
+  - username: "julie_pr_spb"
+    fullname: >-
+      Вышивка Крестом / Cross Stitch
+    location: "Russia"
+    followers: 13098
+    engagement: 791
+    commentsToLikes: 0.042226
+    id: ck9win6kb31cg0j78d2v0s8ac
+    verified: false
+    hashtags: "#travel"
   - username: "missis_oleana_mva"
     fullname: >-
       Oleana|Travel 🌸 Fashion
     location: "Russia"
-    followers: 27018
-    engagement: 718
-    commentsToLikes: 0.316855
+    followers: 28055
+    engagement: 867
+    commentsToLikes: 0.355381
     id: ck15tif1qi8h90i198jnmos9t
     verified: false
-    hashtags: "#faberlic"
-  - username: "la_paillette"
+    hashtags: ""
+  - username: "volodarskayaas"
     fullname: >-
-      ✨𝓣𝓪𝓷𝔂𝓪  𝓢𝓱𝓶𝔂𝓻𝓮𝓿𝓪✨
+      💎 ANASTASIA VOLODARSKAYA 💎
     location: "Russia"
-    followers: 11368
-    engagement: 1068
-    commentsToLikes: 0.173706
-    id: ck8tdolh946do0j78plrmzla3
+    followers: 30766
+    engagement: 786
+    commentsToLikes: 0.058419
+    id: ckapc3mc42bzc0i78sm5szium
     verified: false
-    hashtags: "#girl, #friday, #photo, #vscocam"
+    hashtags: "#greenway, #hb, #29, #birthday"
   - username: "eksuzman"
     fullname: >-
       Λ L´ V I N Λ
     location: "Russia"
-    followers: 7507
-    engagement: 998
-    commentsToLikes: 0.077258
+    followers: 7451
+    engagement: 1073
+    commentsToLikes: 0.101545
     id: ck5hl89i2jr5e0i11wxx9npe0
     verified: false
-    hashtags: "#eksuzman"
+    hashtags: "#eksuzman, #dysonhair"
+  - username: "la_paillette"
+    fullname: >-
+      ✨𝓣𝓪𝓷𝔂𝓪  𝓢𝓱𝓶𝔂𝓻𝓮𝓿𝓪✨
+    location: "Russia"
+    followers: 11358
+    engagement: 1010
+    commentsToLikes: 0.201226
+    id: ck8tdolh946do0j78plrmzla3
+    verified: false
+    hashtags: "#love, #8march, #rosebar, #sport"
+  - username: "polinchik"
+    fullname: >-
+      p o l i n a  /  п о л и н а
+    location: "Russia"
+    followers: 121979
+    engagement: 427
+    commentsToLikes: 0.170331
+    id: ck134eak6w0vy0i19oaiyhr5r
+    verified: false
+    hashtags: "#tee, #balloons, #amsterdam, #picknick"
+  - username: "daria_paksh"
+    fullname: >-
+      Daria Paksh
+    location: "Russia"
+    followers: 32366
+    engagement: 515
+    commentsToLikes: 0.078492
+    id: ck5ceve3nlse00i11tcfp0h2r
+    verified: false
+    hashtags: "#coronatime, #stayhome, #quarantine, #victoryday"
   - username: "maribuhma"
     fullname: >-
       Mari - SUNNY Days
     location: "Russia"
-    followers: 505336
-    engagement: 379
-    commentsToLikes: 0.116356
+    followers: 523245
+    engagement: 415
+    commentsToLikes: 0.114478
     id: ck6tr31igwn7t0j71gban5ii7
     verified: false
-    hashtags: "#35weekspregnant, #nsk, #36, #36weekspregnant"
-  - username: "kaaaaaaaaaaat"
+    hashtags: "#38, #nsk, #39, #britaxroemer"
+  - username: "ann_avdonina"
     fullname: >-
-      Kate| In❤️with Paris |Filters
+      A N N   A V D O N I N A
     location: "Russia"
-    followers: 42311
-    engagement: 396
-    commentsToLikes: 0.148545
-    id: ck14k2obnnfh50i19cv7eok4k
+    followers: 42917
+    engagement: 358
+    commentsToLikes: 0.278840
+    id: ck5zo46lwpq4c0i14j58we8x4
     verified: false
-    hashtags: "#kiehls8, #victoriassecretrussia, #liketime, #kiehlsrussia"
-  - username: "jignatieva"
+    hashtags: "#quarantinelife, #shein, #sheingals"
+  - username: "nastyaafed"
     fullname: >-
-      Yulia Ignatieva
+      НАСТЯ ФЕД 🌸 NASTYA FED
     location: "Russia"
-    followers: 76133
-    engagement: 365
-    commentsToLikes: 0.076240
-    id: ck5hcskkwjrbn0i112y85kolf
+    followers: 138753
+    engagement: 334
+    commentsToLikes: 0.056912
+    id: ck0u1ocxixhyy0i19tfuwqlag
     verified: false
-    hashtags: "#covid, #parents, #spring, #news"
-  - username: "anastasia.hm"
-    fullname: >-
-      С ДУШОЙ ПУТЕШЕСТВЕННИКА
-    location: "Russia"
-    followers: 96220
-    engagement: 357
-    commentsToLikes: 0.092786
-    id: ck0w4c665xulu0i19eod2a79t
-    verified: false
-    hashtags: "#cacharelparfums, #uniqlo, #lifewear, #mysunlight"
-  - username: "volkovajs"
-    fullname: >-
-      𝒴𝓊𝓁𝒾𝒶𝓃𝒶 𝒱𝑜𝓁𝓀𝑜𝓋𝒶
-    location: "Russia"
-    followers: 120913
-    engagement: 320
-    commentsToLikes: 0.054144
-    id: ck14k2k16neu50i19035qokqi
-    verified: false
-    hashtags: "#baileys, #kiehls8, #payotrussia, #dualfix2r"
-  - username: "poteryasha.ru"
-    fullname: >-
-      TRAVEL🌎FOOD🍜LIFESTYLE💗
-    location: "Russia"
-    followers: 203612
-    engagement: 302
-    commentsToLikes: 0.033871
-    id: ck5pzedto0k930i11iu8ln2qc
-    verified: false
-    hashtags: "#travelblogging, #asusworld, #sochirussia, #bestphotooftheday"
-  - username: "madame_perrier"
-    fullname: >-
-      Настоящая Франция
-    location: "Russia"
-    followers: 94328
-    engagement: 324
-    commentsToLikes: 0.100390
-    id: ck15unqeeo23e0i19snlwwa31
-    verified: false
-    hashtags: "#maryperrier, #iwillsurvivechallenge, #washyourhands"
+    hashtags: "#nastyafedphoto, #victoriassecretrussia, #wearelamoda, #travelwithfed"
 ---

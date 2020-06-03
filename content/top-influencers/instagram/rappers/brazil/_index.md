@@ -1,26 +1,26 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Brazil In 2020
 description: >-
-  Find top rappers Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #ficaemcasa #goodvibes #santo.
+  Find top rappers Instagram influencers in Brazil in 2020. Most popular hashtags: #ficaemcasa #quarentena #cerrado #diadamulher.
 platform: Instagram
 profiles:
   - username: "mcbmooo"
     fullname: >-
       MC BMO
     location: "Brazil"
-    followers: 659888
-    engagement: 1319
-    commentsToLikes: 0.026500
+    followers: 664289
+    engagement: 1280
+    commentsToLikes: 0.025911
     id: ck5hgprqc43gb0i112ypo3zkq
     verified: false
-    hashtags: "#posedequebrada"
+    hashtags: "#posedequebrada, #mcbmonobrbplay"
   - username: "coebuddy"
     fullname: >-
-      Kd as músicas Buddy?
+      BUDDY POKE
     location: "Brazil"
-    followers: 406955
-    engagement: 793
-    commentsToLikes: 0.027732
+    followers: 404488
+    engagement: 778
+    commentsToLikes: 0.027873
     id: ck6u5ukp5bu4a0j71x7cayreh
     verified: false
     hashtags: ""
@@ -28,80 +28,80 @@ profiles:
     fullname: >-
       Felícia Rock
     location: "Brazil"
-    followers: 68149
-    engagement: 799
-    commentsToLikes: 0.015326
+    followers: 81112
+    engagement: 811
+    commentsToLikes: 0.015752
     id: ck8t9c9tunkks0j78ljbi1gwq
     verified: false
-    hashtags: "#nanatsunotaizai, #feliciarock, #model, #kawaiimusic"
-  - username: "jottabrownoficial"
+    hashtags: "#prior, #hairstyle, #kuudere, #kpop"
+  - username: "phoenix_rdc"
     fullname: >-
-      Jotta Brown 🇧🇷
+      Vencedor
     location: "Brazil"
-    followers: 26744
-    engagement: 771
-    commentsToLikes: 0.015622
-    id: ck8tcgk5uzeai0j786fw1eqy7
-    verified: false
-    hashtags: "#2pac, #fitness, #teambabu, #ficababu"
-  - username: "nicdiasmc"
-    fullname: >-
-      NIC DIAS
-    location: "Brazil"
-    followers: 5094
-    engagement: 1517
-    commentsToLikes: 0.037023
-    id: ck13c4mx0ylc90i19zu7upmrc
-    verified: false
-    hashtags: "#nicdias, #nic, #ceara, #pretos"
-  - username: "majuliao_"
-    fullname: >-
-      M4JU💫
-    location: "Brazil"
-    followers: 9871
-    engagement: 464
-    commentsToLikes: 0.068614
-    id: ck6tne1to9nqp0j71lynl690f
-    verified: false
-    hashtags: ""
-  - username: "malcolmtado"
-    fullname: >-
-      O MALCOLM VL
-    location: "Brazil"
-    followers: 21606
-    engagement: 716
-    commentsToLikes: 0.045622
-    id: ck5zkl7qbjomk0i14l3wgfa3t
-    verified: false
-    hashtags: "#filaheritage, #malcolmtado"
-  - username: "delatorvi"
-    fullname: >-
-      Jovem Prince 👼🏾
-    location: "Brazil"
-    followers: 30713
-    engagement: 509
-    commentsToLikes: 0.039069
-    id: ck136xgr98qo70i19hqbpj52z
-    verified: false
-    hashtags: "#shitisgettinreal, #festivaltour, #trapbr, #princetour"
-  - username: "murillozyess"
-    fullname: >-
-      Murillo Zyess
-    location: "Brazil"
-    followers: 31031
-    engagement: 542
-    commentsToLikes: 0.028134
-    id: ck5q2jq9tgcym0i11m77khy6u
+    followers: 65658
+    engagement: 711
+    commentsToLikes: 0.010272
+    id: ck6u9srw7zfnd0j71c4mct80e
     verified: true
-    hashtags: "#tbt, #challenge, #ficaemcasa, #deboche"
+    hashtags: "#derek, #kevin, #kendrick"
+  - username: "juninhoandradi"
+    fullname: >-
+      Andradii
+    location: "Brazil"
+    followers: 23104
+    engagement: 259
+    commentsToLikes: 0.427404
+    id: ck9we1weei7ww0j78ujl1ng1u
+    verified: false
+    hashtags: "#masculino, #photooftheday, #covid, #influencer"
+  - username: "mczen_"
+    fullname: >-
+      MC ZEN
+    location: "Brazil"
+    followers: 27839
+    engagement: 304
+    commentsToLikes: 0.042331
+    id: ck5c86dhm8v170i11glcd2d6c
+    verified: false
+    hashtags: "#vilaplanalto, #ficaemcasa, #natureza, #bike"
   - username: "panterabl4ck"
     fullname: >-
       Bl4ckPanther
     location: "Brazil"
-    followers: 3430
-    engagement: 884
-    commentsToLikes: 0.096903
+    followers: 3475
+    engagement: 822
+    commentsToLikes: 0.098225
     id: ck6ufyqhjzx030j71m7q82d5c
     verified: false
-    hashtags: "#afropunk"
+    hashtags: "#woman, #afropunk, #queen, #africanhairstyles"
+  - username: "rod3030"
+    fullname: >-
+      Majin Boo
+    location: "Brazil"
+    followers: 147178
+    engagement: 238
+    commentsToLikes: 0.030346
+    id: ck6tywtxi6bbl0j71nk0xi47o
+    verified: true
+    hashtags: "#quarentadiasentreoc, #rapnaquarentena, #desabafolirico, #oshowtemquecontinuar"
+  - username: "brunalys"
+    fullname: >-
+      Bruna Lys
+    location: "Brazil"
+    followers: 9301
+    engagement: 461
+    commentsToLikes: 0.047288
+    id: ck601daz0fa800i14o7oh2km5
+    verified: false
+    hashtags: "#thecoolestofficeintown, #tbt, #staytodayroartomorrow, #mychicagothursday"
+  - username: "k_vontae"
+    fullname: >-
+      R'odrigues 🤬🤘🏿🤬🤟🏿🤬
+    location: "Brazil"
+    followers: 154347
+    engagement: 500
+    commentsToLikes: 0.171988
+    id: ck6udssnymxpj0j71vbjj3zlf
+    verified: false
+    hashtags: "#sorteios, #sorteio"
 ---

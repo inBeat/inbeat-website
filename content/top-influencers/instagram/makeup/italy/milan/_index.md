@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Milan In 2020
 description: >-
-  Find top makeup Instagram influencers in Milan in 2020. Most popular hashtags: #milano #milan #makeup #fashion.
+  Find top makeup Instagram influencers in Milan in 2020. Most popular hashtags: #makeup #milano #love #beauty.
 platform: Instagram
 profiles:
-  - username: "martytac"
+  - username: "massimilianovarrese"
     fullname: >-
-      Martina 🌟
+      ᗰᗩᔕᔕIᗰIᒪIᗩᑎO ᐯᗩᖇᖇEᔕE
     location: "Italy"
-    followers: 7055
-    engagement: 735
-    commentsToLikes: 0.080145
-    id: ck6ttav4u9kku0j711xqbo13b
+    followers: 77646
+    engagement: 224
+    commentsToLikes: 0.040495
+    id: ck5zljtnkkxfs0i140rzsgaiq
     verified: false
-    hashtags: "#chorseriding, #loveyou, #fishinglife, #fontanadighiaccio"
-  - username: "arezius"
-    fullname: >-
-      Fashion | Beauty | Travel
-    location: "Italy"
-    followers: 36371
-    engagement: 248
-    commentsToLikes: 0.048226
-    id: ck137gai2bdwz0i19ja00192g
-    verified: false
-    hashtags: "#beauty, #raveoutfit, #outfitideas4you, #revolveme"
-  - username: "iansntsss"
-    fullname: >-
-      Ian Santos
-    location: "Italy"
-    followers: 8050
-    engagement: 558
-    commentsToLikes: 0.018619
-    id: ck5zv5pya3mwn0i149mqohrei
-    verified: false
-    hashtags: "#webitorial, #terezaholanova, #test, #styleoftheday"
-  - username: "gaiaviolagiraudi"
-    fullname: >-
-      𝙶𝚊𝚒𝚊 𝚅𝚒𝚘𝚕𝚊 𝙶𝚒𝚛𝚊𝚞𝚍𝚒
-    location: "Italy"
-    followers: 44919
-    engagement: 252
-    commentsToLikes: 0.006714
-    id: ck5zqu3duvalw0i149qbrflnd
-    verified: false
-    hashtags: "#cocotte, #makeup, #milano, #coffee"
-  - username: "marynaofficial"
-    fullname: >-
-      Maryna
-    location: "Italy"
-    followers: 702513
-    engagement: 401
-    commentsToLikes: 0.007421
-    id: ck55jzdmhy4f70i11kjd9374q
-    verified: true
-    hashtags: "#menefrego, #mfw, #ilookdellaquarantena, #lacasadicarta"
+    hashtags: "#coronavirus, #mydog, #meditation, #summer2020"
   - username: "ciaosplendore"
     fullname: >-
       𝐒𝐏𝐋𝐄𝐍𝐃𝐎𝐑𝐄
     location: "Italy"
-    followers: 7349
-    engagement: 793
-    commentsToLikes: 0.044761
+    followers: 7287
+    engagement: 768
+    commentsToLikes: 0.049121
     id: ck5cdryzpjo4z0i11lws913ls
     verified: false
-    hashtags: "#lgbt, #lgbtq, #ivreatronic, #rosasplendore"
+    hashtags: "#ivreatronic, #rosasplendore, #ciaosplendore, #pride"
   - username: "greta_ag"
     fullname: >-
       Greta Agazzi
     location: "Italy"
-    followers: 138443
-    engagement: 205
-    commentsToLikes: 0.013297
+    followers: 137871
+    engagement: 191
+    commentsToLikes: 0.014139
     id: ck0udk4jbjaug0i19s60eogg4
     verified: false
-    hashtags: "#wemakeup, #loading, #lipart, #zarra"
-  - username: "nichi_ila"
+    hashtags: "#lashes, #lipart, #70s, #camo"
+  - username: "giuliagentile.93"
     fullname: >-
-      Ilaria 🌹
+      Giulia Gentile
     location: "Italy"
-    followers: 16197
-    engagement: 317
-    commentsToLikes: 0.099757
-    id: ck5cdo3u9jheb0i111gthmgpd
+    followers: 35903
+    engagement: 615
+    commentsToLikes: 0.019255
+    id: ckap7ryn3latq0i78g2l2u24p
     verified: false
-    hashtags: "#selfcare, #foodblogger, #fashion, #lookoftheday"
-  - username: "jacquelineingegnoso"
+    hashtags: "#lente, #dark, #supermarket, #trucco"
+  - username: "mvale_c"
     fullname: >-
-      Jacqueline Ingegnoso ♡ PARMA📍
+      🦋MValentinaC🦋
     location: "Italy"
-    followers: 164738
-    engagement: 137
-    commentsToLikes: 0.029215
-    id: ck5q31j9iirzw0i11g0l6wuia
+    followers: 8696
+    engagement: 1671
+    commentsToLikes: 0.033345
+    id: ck8t45pg05lin0j78iqyi4u2d
     verified: false
-    hashtags: "#outfitinspo, #inspirationoftheday, #sparkling, #mwf2020"
-  - username: "karolinachomistek"
+    hashtags: "#followmee, #fantasyart, #femmes, #powergirls"
+  - username: "gaia_cannavale"
     fullname: >-
-      Karolina Chomistekova
+      𝑮𝒂𝒊𝒂 𝑪𝒂𝒏𝒏𝒂𝒗𝒂𝒍𝒆 ♡
     location: "Italy"
-    followers: 135677
-    engagement: 405
-    commentsToLikes: 0.006034
-    id: ck5c2ayawww2i0i113y4ndskk
-    verified: true
-    hashtags: "#caramel, #casual, #skialp, #nanushka"
+    followers: 21693
+    engagement: 312
+    commentsToLikes: 0.047994
+    id: ck5hiv9sxfj040i11w47sc7lv
+    verified: false
+    hashtags: "#lategram, #graduationparty, #espana, #fashionista"
+  - username: "ramourso"
+    fullname: >-
+      Ramona Urso
+    location: "Italy"
+    followers: 11498
+    engagement: 1173
+    commentsToLikes: 0.050390
+    id: ck138bzy8fhm50i19q7i484m8
+    verified: false
+    hashtags: "#informazione, #inci, #bellezza, #instagram"
+  - username: "biancapanzironi"
+    fullname: >-
+      Bianca Panzironi
+    location: "Italy"
+    followers: 27760
+    engagement: 844
+    commentsToLikes: 0.032616
+    id: ck5ztzutv1f640i14i9uuxzs6
+    verified: false
+    hashtags: "#felinelook, #smashboxitaly, #lipart, #glossylips"
+  - username: "withlove.ila"
+    fullname: >-
+      ɪʟᴀʀɪᴀ - ᴍᴀᴋᴇᴜᴘ ♡
+    location: "Italy"
+    followers: 3492
+    engagement: 1963
+    commentsToLikes: 0.222287
+    id: ck6u72bipj2d20j71ryrgnyr3
+    verified: false
+    hashtags: "#dmbeautytalent, #life, #happiness, #nabla"
+  - username: "ricky_morandin"
+    fullname: >-
+      Ricky Morandin
+    location: "Italy"
+    followers: 19439
+    engagement: 81
+    commentsToLikes: 0.070543
+    id: ck0udk5injazg0i19e9xc3t79
+    verified: false
+    hashtags: "#love, #testimonial, #bottegaveneta, #timburton"
 ---

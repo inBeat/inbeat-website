@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In South Korea In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in South Korea in 2020. Most popular hashtags: #blackworktattoo #tattoo #blackworkerssubmission #btattooing.
+  Find top tattoo-artists Instagram influencers in South Korea in 2020. Most popular hashtags: #tattooartist #flowertattoo #tattoo #legtattoo.
 platform: Instagram
 profiles:
-  - username: "mumi_ink"
+  - username: "korea_b0ys_"
     fullname: >-
-      무미
+      🥀||[ASIA BOY]||🥀62k
     location: "South Korea"
-    followers: 71185
-    engagement: 747
-    commentsToLikes: 0.006898
-    id: ck5hk1pqhhmxx0i11uopvcq15
+    followers: 61019
+    engagement: 701
+    commentsToLikes: 0.011638
+    id: ck8tbrhwvwu5z0j78xcnuuee6
     verified: false
-    hashtags: "#cherub, #feathertattoo, #pomegranatetattoo, #microrealismtattoo"
-  - username: "tattooist_eunzo_"
+    hashtags: "#koreanmusic, #happyday, #eyebrows, #poolplayer"
+  - username: "tattooer_nadi"
     fullname: >-
-      tattooist_eunzo_
+      NADi
     location: "South Korea"
-    followers: 9867
-    engagement: 759
-    commentsToLikes: 0.027347
-    id: ck8szl3waov5h0j78fvjh3pxa
+    followers: 154354
+    engagement: 183
+    commentsToLikes: 0.008739
+    id: ck9wdk9d2g17j0j78tmxnw39x
     verified: false
-    hashtags: "#btattooing, #ink, #creepytattoo, #tattooworld"
-  - username: "heukdo__"
-    fullname: >-
-      Heedo_lee
-    location: "South Korea"
-    followers: 74472
-    engagement: 632
-    commentsToLikes: 0.009161
-    id: ck8t3gnjy37zx0j7843ky869a
-    verified: false
-    hashtags: "#hanya, #blackworkartists, #darktattoo, #tattoosketch"
-  - username: "tattooist_yammy"
-    fullname: >-
-      타투이스트 야미
-    location: "South Korea"
-    followers: 66094
-    engagement: 249
-    commentsToLikes: 0.013519
-    id: ck0vvso3mql730i19n0qcop3d
-    verified: false
-    hashtags: "#tattooinspiration, #bngtattoo, #sphynxcat, #animaltattoo"
+    hashtags: "#drawingtattoo, #inked, #chesttattoo, #tattooed"
   - username: "jumbo_tattoo"
     fullname: >-
       ✑𝗝𝗨𝗠𝗕𝗢
     location: "South Korea"
-    followers: 10570
-    engagement: 519
-    commentsToLikes: 0.019846
+    followers: 11263
+    engagement: 498
+    commentsToLikes: 0.017781
     id: ck5qec4aozqrq0i11zwc388vc
     verified: false
-    hashtags: "#linework, #tattooartwork, #blackworktattoo, #selfie"
+    hashtags: "#dailylook, #swordtattoo, #godtattoo, #palmtreetattoo"
+  - username: "sarvo_art"
+    fullname: >-
+      Sarvo [살보]
+    location: "South Korea"
+    followers: 14872
+    engagement: 631
+    commentsToLikes: 0.025129
+    id: ck5c1upvkvyr20i11iohn1i7z
+    verified: false
+    hashtags: "#legtattoo, #artesobscurae, #skulldrawing, #artstagram"
   - username: "dino_tats"
     fullname: >-
       문신하는집 DINO🦖
     location: "South Korea"
-    followers: 12624
-    engagement: 576
-    commentsToLikes: 0.054882
+    followers: 16231
+    engagement: 789
+    commentsToLikes: 0.058633
     id: ck5c40mgl0eq30i11g15x6jxw
     verified: false
-    hashtags: "#tigertattoo, #japanesetattoos, #japaneseink, #blxckink"
-  - username: "seoulinktattoo"
+    hashtags: "#thedarkestwork, #tattooart, #bestirezumi, #dragonsketch"
+  - username: "tattooist_eunzo_"
     fullname: >-
-      Seoul Ink Tattoo Studio 서울잉크타투
+      tattooist_eunzo_
     location: "South Korea"
-    followers: 20424
-    engagement: 200
-    commentsToLikes: 0.006744
-    id: ck55k50siyh2w0i11yt1086dn
+    followers: 10184
+    engagement: 680
+    commentsToLikes: 0.023444
+    id: ck8szl3waov5h0j78fvjh3pxa
     verified: false
-    hashtags: "#onlyblacktattoos, #irezumitattoo, #colortattoo, #eagletattoo"
+    hashtags: "#botanicalart, #tattooideas, #sleevetattoo, #blackworkers"
+  - username: "robineggstudio"
+    fullname: >-
+      로빈에그 𝐓𝐚𝐭𝐭𝐨𝐨 𝐒𝐭𝐮𝐝𝐢𝐨
+    location: "South Korea"
+    followers: 24132
+    engagement: 154
+    commentsToLikes: 0.015664
+    id: ck15ttxe7jvqx0i19rmzc5vzk
+    verified: false
+    hashtags: "#tattoodesign, #polc, #powerpuffgirls, #garou"
+  - username: "graycodetattoo"
+    fullname: >-
+      Tattoo Artist GRAYCODE
+    location: "South Korea"
+    followers: 26528
+    engagement: 1084
+    commentsToLikes: 0.014338
+    id: ckaovj61o4s5q0i788zhkb7dt
+    verified: false
+    hashtags: "#wavetattoo, #moontattoo, #letteringtattoos, #tinytattoo"
+  - username: "artist.haneul"
+    fullname: >-
+      Haneul
+    location: "South Korea"
+    followers: 69418
+    engagement: 233
+    commentsToLikes: 0.004051
+    id: ck0w0ei8cdsk40i1943nd6wbh
+    verified: false
+    hashtags: "#peachtattoo, #seoul, #pinkrosetattoo, #healedtattoo"
   - username: "o_one_art"
     fullname: >-
       吾園(O.ONE)
     location: "South Korea"
-    followers: 29345
-    engagement: 952
-    commentsToLikes: 0.010386
+    followers: 41509
+    engagement: 877
+    commentsToLikes: 0.009504
     id: ck5qcxshbsukr0i110s6o6831
     verified: false
-    hashtags: "#tattoodesign, #goatskull, #darksurrealism, #caesar"
-  - username: "jin_qchoi"
-    fullname: >-
-      jin_q choi
-    location: "South Korea"
-    followers: 16687
-    engagement: 797
-    commentsToLikes: 0.019059
-    id: ck55k55hvyhfl0i11ippj1pzz
-    verified: false
-    hashtags: "#skulltattoo, #dragon, #koifishtattoo, #namakubitattoo"
-  - username: "tattooer_manda"
-    fullname: >-
-      STUDIOBYSOL_MANDA
-    location: "South Korea"
-    followers: 30939
-    engagement: 888
-    commentsToLikes: 0.006748
-    id: ck8tbm6tgw7f70j78r26dugp2
-    verified: false
-    hashtags: "#wip, #mermaid, #poppytattoo, #blackmamba"
+    hashtags: "#copicliner, #balljointeddoll, #blackworktattoo, #digitalsketch"
 ---

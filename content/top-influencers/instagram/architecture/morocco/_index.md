@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Morocco In 2020
 description: >-
-  Find top architecture Instagram influencers in Morocco in 2020. Most popular hashtags: #morocco #architecture #travel #marrakech.
+  Find top architecture Instagram influencers in Morocco in 2020. Most popular hashtags: #architecture #ouarzazate #rabat #.
 platform: Instagram
 profiles:
-  - username: "aida.benchemsi"
+  - username: "lowkey.toxic"
     fullname: >-
-      Aïda Bchms 💍
+      AL ☀️🍯♓️
     location: "Morocco"
-    followers: 48797
-    engagement: 273
-    commentsToLikes: 0.006844
-    id: ck6u2mz7isqns0j712q3pz7s3
+    followers: 2045
+    engagement: 1726
+    commentsToLikes: 0.066893
+    id: ckap7u604lktc0i78alymyldi
     verified: false
-    hashtags: ""
+    hashtags: "#invertedcolors, #jewelry, #fabercastell, #tvseries"
   - username: "andrevicentegoncalves"
     fullname: >-
       Andre Goncalves
     location: "Morocco"
-    followers: 11002
-    engagement: 539
-    commentsToLikes: 0.014640
+    followers: 11722
+    engagement: 645
+    commentsToLikes: 0.013659
     id: ck6txdyj3xa690j71eqkcflom
     verified: false
     hashtags: ""
-  - username: "oujador"
+  - username: "aida.benchemsi"
     fullname: >-
-      AYOUB OUJADOR
+      Aïda Benchemsi
     location: "Morocco"
-    followers: 12948
-    engagement: 1000
-    commentsToLikes: 0.028999
-    id: ck0w2dw6onv2c0i19defb95ql
+    followers: 54966
+    engagement: 324
+    commentsToLikes: 0.011304
+    id: ck6u2mz7isqns0j712q3pz7s3
     verified: false
-    hashtags: "#turkishfashion, #toyphotography, #friends, #fashiongram"
-  - username: "douniaerts"
+    hashtags: ""
+  - username: "douniaaerts"
     fullname: >-
       Dounia Aerts
     location: "Morocco"
-    followers: 35296
-    engagement: 324
-    commentsToLikes: 0.042450
+    followers: 34394
+    engagement: 323
+    commentsToLikes: 0.039564
     id: ck13anxtfrbc60i19phgtw5bq
     verified: false
-    hashtags: "#photography, #moroccanblogger, #look, #idealofsweden"
-  - username: "dirndlontour"
+    hashtags: "#shadow, #belgianblogger, #loves, #minimalism"
+  - username: "ghita.benkhaldoun"
     fullname: >-
-      Dirndl on Tour
+      Ɠнιтα
     location: "Morocco"
-    followers: 20852
-    engagement: 539
-    commentsToLikes: 0.060338
-    id: ck0w74tzzbris0i19pvu5gn19
+    followers: 39356
+    engagement: 426
+    commentsToLikes: 0.018149
+    id: ck9wdyyjyhwk60j78h87e4z82
     verified: false
-    hashtags: "#trachten, #spring, #spicy, #selfietime"
-  - username: "thaleinio"
+    hashtags: "#moroccangirl, #makeupmorocco, #makeuptutorial, #eidmubarak"
+  - username: "500daysoff"
     fullname: >-
-      Thaleia Ioannou
+      Ilse & Sofian
     location: "Morocco"
-    followers: 8066
-    engagement: 1116
-    commentsToLikes: 0.072080
-    id: ck5hcdjajhi1a0i1157c2iy4o
+    followers: 6394
+    engagement: 645
+    commentsToLikes: 0.039150
+    id: ckap6idznfyum0i78948vmjj3
     verified: false
-    hashtags: "#scramblerducatihellas, #fesmorocco, #chouaratannery, #happyvalentinesday"
-  - username: "nadeemghafur"
+    hashtags: "#citytripping, #minttea, #getlost, #earlymorning"
+  - username: "instamarrakech_"
     fullname: >-
-      Nadeem Ghafur
+      Marrakech |Morocco| Marrakesh
     location: "Morocco"
-    followers: 3630
-    engagement: 3578
-    commentsToLikes: 0.024199
-    id: ck14jncejl7wt0i19dzn6l4be
+    followers: 76938
+    engagement: 277
+    commentsToLikes: 0.015466
+    id: ck15pwktezzru0i19fpep9x7i
     verified: false
-    hashtags: "#silhouette, #sunsets, #2018, #quarantinelife"
-  - username: "etienne_in_paris"
+    hashtags: "#mosque, #colorful, #camel, #jardinmajorelle"
+  - username: "everythingmoroccan88"
     fullname: >-
-      Etienne In Paris
+      EverythingMoroccan
     location: "Morocco"
-    followers: 53270
-    engagement: 369
-    commentsToLikes: 0.036550
-    id: ck5c70c8l6k410i11zbeoaf98
+    followers: 3281
+    engagement: 1308
+    commentsToLikes: 0.045534
+    id: ckaown91v9lde0i78e5ktlx30
     verified: false
-    hashtags: "#dapperstyle, #hotelparis, #flight, #touristlife"
-  - username: "maxwellillustration"
+    hashtags: "#landscapelovers, #moroccolove, #merzougadesert, #fezmorocco"
+  - username: "moroccovintage_"
     fullname: >-
-      Maxwell Tilse
+      MOROCCO VINTAGE ❤️✨🧿 🇲🇦
     location: "Morocco"
-    followers: 71974
-    engagement: 322
-    commentsToLikes: 0.013567
-    id: ck14lggyfujs20i19r2sb77ul
-    verified: true
-    hashtags: "#parisjetaime, #3dart, #medina, #urbansketchers"
-  - username: "ay_assaidi84"
-    fullname: >-
-      𝘼 𝙔 𝙊 𝙐 𝘽 🇲🇦 𝘼 𝙎 𝙎 𝘼 𝙄 𝘿 𝙄 ⵣ
-    location: "Morocco"
-    followers: 5810
-    engagement: 1221
-    commentsToLikes: 0.034133
-    id: ck8t9cgdcnlb10j784o6v3198
+    followers: 54198
+    engagement: 361
+    commentsToLikes: 0.008800
+    id: ck5bxiknmnsnc0i115ah6uzht
     verified: false
-    hashtags: "#iphonesia, #picoftheday, #igdaily, #sport"
+    hashtags: "#music, #chleuh, #ethnic, #couscous"
+  - username: "carlosjohansisco.arq"
+    fullname: >-
+      C  A  R  L  E  T  T  O
+    location: "Morocco"
+    followers: 7163
+    engagement: 747
+    commentsToLikes: 0.017513
+    id: ck9wov5i76q5q0j78fzb6f0zp
+    verified: false
+    hashtags: ""
 ---

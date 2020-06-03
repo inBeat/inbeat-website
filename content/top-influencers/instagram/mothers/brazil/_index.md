@@ -1,107 +1,107 @@
 ---
 title: Top 10 Mothers Instagram Influencers In Brazil In 2020
 description: >-
-  Find top mothers Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #ad #brazil #brazilianmodel.
+  Find top mothers Instagram influencers in Brazil in 2020. Most popular hashtags: #matahari #adidasoriginals #oquefazdiferen #gera.
 platform: Instagram
 profiles:
-  - username: "elisabecker"
-    fullname: >-
-      Eli
-    location: "Brazil"
-    followers: 143201
-    engagement: 456
-    commentsToLikes: 0.041621
-    id: ck6uciyuofvpg0j710p61tl58
-    verified: false
-    hashtags: "#breastfeeding, #gentleliving, #3monthsold, #cantossagrados"
   - username: "_letvasconcelos"
     fullname: >-
       Letícia Vasconcelos
     location: "Brazil"
-    followers: 108738
-    engagement: 995
-    commentsToLikes: 0.022552
+    followers: 113325
+    engagement: 1078
+    commentsToLikes: 0.030165
     id: ck139cjbqkmrq0i19r66w4ij1
     verified: false
-    hashtags: "#somospremium, #oquefazdiferen, #dermafeme, #meucorpominhasescolhas"
+    hashtags: "#diadasmaesvans, #amorprime, #21diasdeingl, #oquefazdiferen"
+  - username: "biaamariz_"
+    fullname: >-
+      Bia Mariz
+    location: "Brazil"
+    followers: 24589
+    engagement: 875
+    commentsToLikes: 0.026824
+    id: ck5pw9s3blsim0i11si5vq31s
+    verified: false
+    hashtags: "#tamojunto, #delydely, #makes, #pele"
   - username: "anandasantosof"
     fullname: >-
-      🏹 ÍNDIA 🏹
+      🏹 ÍNDIA 🏹 23 Years
     location: "Brazil"
-    followers: 105803
-    engagement: 249
-    commentsToLikes: 0.052153
+    followers: 103927
+    engagement: 269
+    commentsToLikes: 0.050442
     id: ck5hcx6dkkeeh0i114no1eeka
     verified: false
-    hashtags: "#naochoraboy, #verao, #musculacao, #mulheres"
-  - username: "mariacarolina_cf"
+    hashtags: "#naochoraboy, #domingou, #nostalgia, #mulheres"
+  - username: "elisabecker"
     fullname: >-
-      Maria Carolina Costa
+      Eli
     location: "Brazil"
-    followers: 6778
-    engagement: 656
-    commentsToLikes: 0.075162
-    id: ck5c708ox6jvd0i11qgi1kaz9
+    followers: 142482
+    engagement: 415
+    commentsToLikes: 0.034599
+    id: ck6uciyuofvpg0j710p61tl58
     verified: false
-    hashtags: "#it, #duomomilano, #nofilter, #ilovedubai"
+    hashtags: "#4monthspostpartum, #coconutwater, #motherhood, #conciergedestinosjeep"
+  - username: "rockstedmusic"
+    fullname: >-
+      Leandro Rocksted
+    location: "Brazil"
+    followers: 57882
+    engagement: 224
+    commentsToLikes: 0.052160
+    id: ck5ckvk9cxozt0i11l1n7p4fl
+    verified: false
+    hashtags: "#dezembro, #ameclub, #carnavibe, #choraquehidrata"
+  - username: "sara_moreira_oficial"
+    fullname: >-
+      Sara Moreira
+    location: "Brazil"
+    followers: 11478
+    engagement: 641
+    commentsToLikes: 0.083573
+    id: ck8t0ey4zru820j78w221fnhk
+    verified: false
+    hashtags: "#portiepelosoutros, #adidasoriginals, #terapia, #meditacao"
   - username: "carolinactoledo"
     fullname: >-
       Carolina Toledo
     location: "Brazil"
-    followers: 70270
-    engagement: 137
-    commentsToLikes: 0.046589
+    followers: 70828
+    engagement: 127
+    commentsToLikes: 0.050301
     id: ck0tyq3wbnqo80i19th5o3rcq
     verified: false
-    hashtags: "#myeverything, #quarentinedays, #seychelles, #familytrip"
+    hashtags: "#farmlife, #tbt, #oneforall, #sensecional"
+  - username: "harley_gabi"
+    fullname: >-
+      GABI
+    location: "Brazil"
+    followers: 8664
+    engagement: 810
+    commentsToLikes: 0.043843
+    id: ck8szj5eaoncr0j78fgfxsnms
+    verified: false
+    hashtags: "#mirandopolis, #matogrossodosul, #brasilia, #elaspilotam"
+  - username: "larissaminatto"
+    fullname: >-
+      Larissa Minatto Skrobot
+    location: "Brazil"
+    followers: 147567
+    engagement: 105
+    commentsToLikes: 0.065089
+    id: ckaorgvtdn5pz0i78hkvqs9ab
+    verified: false
+    hashtags: "#meumeninodeluz, #miumiu, #blueprotect, #quarentenacomcrian"
   - username: "amorabruno"
     fullname: >-
-      Bruno Amora
+      Bruno Amora 🇧🇷
     location: "Brazil"
-    followers: 15123
-    engagement: 265
-    commentsToLikes: 0.080213
+    followers: 14989
+    engagement: 284
+    commentsToLikes: 0.077415
     id: ck6ufzk6v027g0j71u7kukjip
     verified: false
-    hashtags: "#tbt, #carnaval2020"
-  - username: "milena.moon"
-    fullname: >-
-      Milena
-    location: "Brazil"
-    followers: 30881
-    engagement: 127
-    commentsToLikes: 0.102286
-    id: ck133vf1ru9ep0i19bif9g85j
-    verified: false
-    hashtags: "#alonewyearresolutions, #malasana, #legsupthewall, #alovalentine"
-  - username: "colormesassy"
-    fullname: >-
-      GABRIELLE LOOMIS
-    location: "Brazil"
-    followers: 34482
-    engagement: 94
-    commentsToLikes: 0.158067
-    id: ck5zt9b9rzzdj0i14him2gv70
-    verified: false
-    hashtags: "#tiedye, #healthandwelness, #evereveambassador, #tiedyefashion"
-  - username: "thaynacalil_jolstead"
-    fullname: >-
-      ⋒ THAYNÁ  JOLSTEAD ⋒
-    location: "Brazil"
-    followers: 11340
-    engagement: 426
-    commentsToLikes: 0.060550
-    id: ck55o0aia7dbu0i11fj241woj
-    verified: false
-    hashtags: "#christmastree, #kidson45thbox, #thrifting, #brazil"
-  - username: "reee3h_fit"
-    fullname: >-
-      Re
-    location: "Brazil"
-    followers: 73819
-    engagement: 257
-    commentsToLikes: 0.016173
-    id: ck8t5wa42bgd20j78hpffc6c4
-    verified: false
-    hashtags: "#muscle, #gains, #fitnessmotivation, #gymclothes"
+    hashtags: "#carnaval2020, #fordmodelsbrasil30anos, #fordmodels30a"
 ---

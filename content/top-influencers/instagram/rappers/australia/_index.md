@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Australia In 2020
 description: >-
-  Find top rappers Instagram influencers in Australia in 2020. Most popular hashtags: #music #newmusic #melbourne #upandcoming.
+  Find top rappers Instagram influencers in Australia in 2020. Most popular hashtags: #tommyhilfiger #spotify #youtube #australia.
 platform: Instagram
 profiles:
   - username: "jmillaofficial"
     fullname: >-
       BORN FOR THIS
     location: "Australia"
-    followers: 17439
-    engagement: 1024
-    commentsToLikes: 0.038825
+    followers: 17864
+    engagement: 816
+    commentsToLikes: 0.042251
     id: ck5zsqfztz03j0i14se5a061n
     verified: false
-    hashtags: "#blackfullahforlifebuddaaa, #madlove, #hallscreek, #fomo"
+    hashtags: "#rollingstoneaus, #culturekings"
   - username: "kingjagmusic"
     fullname: >-
       
     location: "Australia"
-    followers: 14322
-    engagement: 1165
-    commentsToLikes: 0.019228
+    followers: 14127
+    engagement: 1029
+    commentsToLikes: 0.015387
     id: ck6uc64ovdqwj0j71orpme0j7
     verified: false
-    hashtags: "#starweekly, #australiaburning, #drake, #graduation2019"
-  - username: "officialpuniq"
+    hashtags: "#musicvideo, #rapper, #happynewyear, #album"
+  - username: "itsmequeen.p"
     fullname: >-
-      itspiath
+      Queen P👑
     location: "Australia"
-    followers: 2868
-    engagement: 986
-    commentsToLikes: 0.085569
+    followers: 3212
+    engagement: 535
+    commentsToLikes: 0.083146
     id: ck5zwra8z6mbx0i141q13vbh9
     verified: false
-    hashtags: "#rap, #queenwithcolour, #hotgirlsummer, #workit"
+    hashtags: "#quarantine, #femalerapper, #queen, #darkskingirls"
   - username: "lawd_lance43_icefam"
     fullname: >-
       I  C E F A M I L Y
     location: "Australia"
-    followers: 10112
-    engagement: 611
-    commentsToLikes: 0.088609
+    followers: 10488
+    engagement: 681
+    commentsToLikes: 0.085097
     id: ck6tx7nuiwabu0j71qzbztd60
     verified: false
-    hashtags: "#mylookoftheday, #urbanstyle, #onlineshopping, #wardrobe"
+    hashtags: "#outfitdetails, #urbanwear, #ogchallenge, #fashioninspo"
   - username: "doctor_tasty"
     fullname: >-
       DR TASTY
     location: "Australia"
-    followers: 5266
-    engagement: 589
-    commentsToLikes: 0.114755
+    followers: 5210
+    engagement: 596
+    commentsToLikes: 0.114706
     id: ck55jrz5zxmh50i115cml8rk8
     verified: false
-    hashtags: "#producer, #westcoast, #goingbad, #asaprocky"
+    hashtags: "#oldtownroad, #debut, #actup, #rolex"
   - username: "kobi_spice"
     fullname: >-
       STREAM KOBI SPICE MUSIC NOW
     location: "Australia"
-    followers: 6708
-    engagement: 284
-    commentsToLikes: 0.081862
+    followers: 7157
+    engagement: 321
+    commentsToLikes: 0.112394
     id: ck139ej2nkx700i19rcdpd1j6
     verified: false
-    hashtags: "#gamers, #rappers, #funny, #instatap"
-  - username: "willrap4tuka"
+    hashtags: "#drillrappers, #girlsjustwannahavefun, #repyourcity, #mixedbyme"
+  - username: "completeperth"
     fullname: >-
-      Tuka (pronounced Tucker)
+      COMPLETE
     location: "Australia"
-    followers: 29557
-    engagement: 241
-    commentsToLikes: 0.058220
-    id: ck5cjdovvuiia0i1133i2btwo
+    followers: 40480
+    engagement: 269
+    commentsToLikes: 0.031187
+    id: ck6tta3w79gk30j71ekru5wfl
+    verified: false
+    hashtags: "#riseoftheward"
+  - username: "thereallardib"
+    fullname: >-
+      Lardi B
+    location: "Australia"
+    followers: 34169
+    engagement: 196
+    commentsToLikes: 0.049038
+    id: ck6u432xl1eld0j71zrma3xxm
     verified: true
-    hashtags: "#january1st, #aussierap, #solo, #goodnights"
-  - username: "thatssojen"
-    fullname: >-
-      Jenni DeSouza
-    location: "Australia"
-    followers: 7541
-    engagement: 499
-    commentsToLikes: 0.081973
-    id: ck15thipbi3qx0i19pbirr2w8
-    verified: false
-    hashtags: "#valentinesday, #drivingphobia, #royceprince, #aladdin"
-  - username: "poetik__685"
-    fullname: >-
-      POETIK
-    location: "Australia"
-    followers: 33702
-    engagement: 403
-    commentsToLikes: 0.012909
-    id: ck0w2kmvgou990i19ojn2vqgx
-    verified: false
-    hashtags: "#melodownz, #authentic, #usoskeeper, #biggiesmalls"
+    hashtags: "#upsidedown, #werehere, #tbt, #neversatisfied"
   - username: "rica_shay"
     fullname: >-
       Rica Shay
     location: "Australia"
-    followers: 22920
-    engagement: 303
-    commentsToLikes: 0.020372
+    followers: 22955
+    engagement: 260
+    commentsToLikes: 0.022805
     id: ck6tq8hmrpzm50j7176aoytdz
     verified: true
-    hashtags: "#queer, #gaymelbourne, #sydney, #redneck"
+    hashtags: "#lastdance, #fitness, #daddy, #swag"
+  - username: "denzel.m"
+    fullname: >-
+      🔱 DENZEL M 🔱
+    location: "Australia"
+    followers: 20492
+    engagement: 943
+    commentsToLikes: 0.047858
+    id: ck5zlp9a2l4wj0i14zygrvn9f
+    verified: false
+    hashtags: "#producer, #soundcloud, #instagood, #musicvideo"
 ---

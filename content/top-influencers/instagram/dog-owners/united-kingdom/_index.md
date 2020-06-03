@@ -1,97 +1,107 @@
 ---
 title: Top 10 Dog Owners Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top dog owners Instagram influencers in United Kingdom in 2020. Most popular hashtags: #barber #mensfashion #london #hair.
+  Find top dog owners Instagram influencers in United Kingdom in 2020. Most popular hashtags: #dogowners #dogowner #instakitchen #kitchenideas.
 platform: Instagram
 profiles:
-  - username: "remy.barista"
+  - username: "georgina_patient"
     fullname: >-
-      Belgium Barista champion 2018🏆
+      𝐆𝐞𝐨𝐫𝐠𝐢𝐧𝐚 𝐏𝐚𝐭𝐢𝐞𝐧𝐭★
     location: "United Kingdom"
-    followers: 81935
-    engagement: 144
-    commentsToLikes: 0.031179
-    id: ck5hpqdtxrsul0i11ck3jljs2
+    followers: 31729
+    engagement: 365
+    commentsToLikes: 0.440413
+    id: ckaoswedotbm30i78pw1ay5lh
     verified: false
-    hashtags: "#visitbrussels, #london, #kruve, #bloodygoodcoffee"
-  - username: "linsdrabwell"
+    hashtags: "#whatmamaworemonday, #girlsgoneloavies"
+  - username: "nickyshomeedit"
     fullname: >-
-      Lins |  40+ Lifestyle & Inspo
+      Nicky X
     location: "United Kingdom"
-    followers: 18326
-    engagement: 328
-    commentsToLikes: 0.193080
-    id: ck5hdu0mwpdd40i113ijwssv6
+    followers: 19565
+    engagement: 462
+    commentsToLikes: 0.269218
+    id: ckaoyo096ib860i7881bz2nt8
     verified: false
-    hashtags: "#diyers, #kitchenequipment, #homeinspo, #abmathome"
-  - username: "robmillsymills"
+    hashtags: "#kitchenofinsta, #mrscarlissa, #pocketofmyhome, #moreismoredecor"
+  - username: "carminedisibio"
     fullname: >-
-      Rob Mills
+      Carmine Di Sibio
     location: "United Kingdom"
-    followers: 70896
-    engagement: 289
-    commentsToLikes: 0.057954
-    id: ck55q9bs3cexm0i1135tuztrh
+    followers: 9405
+    engagement: 762
+    commentsToLikes: 0.009099
+    id: ck137e5bdb37m0i19z5ci9vln
     verified: true
-    hashtags: "#southcoast, #forfunsake, #hgsuperstarsau, #withmeaa"
-  - username: "simply.weekend"
+    hashtags: "#wef20, #london, #nextwave, #clapforourcarers"
+  - username: "spaniellife"
     fullname: >-
-      Phoebe Miller
+      Steph, Sev & Lily
     location: "United Kingdom"
-    followers: 28008
-    engagement: 294
-    commentsToLikes: 0.076729
-    id: ck6u6hc3hflev0j71sjmj7n7i
+    followers: 29699
+    engagement: 345
+    commentsToLikes: 0.083657
+    id: ck14kdogep0j30i19vm6uxge8
     verified: false
-    hashtags: "#loafershomes, #thatsdarlingweekend, #schnauzer, #magnolia"
-  - username: "arberyte"
+    hashtags: "#landal, #helpthenhs, #dogsonboats, #sleepydog"
+  - username: "allaboutlloyd_"
     fullname: >-
-      
+      Lloyd | Dog Lifestyle
     location: "United Kingdom"
-    followers: 4052
-    engagement: 1429
-    commentsToLikes: 0.042955
-    id: ck14hfcsna1k80i19t7wbtfv4
+    followers: 18469
+    engagement: 686
+    commentsToLikes: 0.054416
+    id: ck0tsqodz0bbu0i19e223t5fv
     verified: false
-    hashtags: "#photoshoot, #hiphop, #rave, #swiperight"
-  - username: "ghostbarberjv"
+    hashtags: "#puppythrowback, #dailypuppy, #calma, #greyaesthetic"
+  - username: "atlas_thepyr"
     fullname: >-
-      Ghost Gang ✪
+      Atlas
     location: "United Kingdom"
-    followers: 23334
-    engagement: 253
-    commentsToLikes: 0.027459
-    id: ck5q1yswsdfwm0i119jc07kyo
+    followers: 8521
+    engagement: 542
+    commentsToLikes: 0.030416
+    id: ckaoqugeykgdk0i78994t8ht3
     verified: false
-    hashtags: "#oneshothairawards2020, #nottingham, #thefinestbarbers, #hairstyles"
-  - username: "aroncowlestattoo"
+    hashtags: "#fridayfeeling, #spalife, #romance, #lockdownlife"
+  - username: "cotswold_cottage"
     fullname: >-
-      Aron Cowles
+      Cotswold Cottage
     location: "United Kingdom"
-    followers: 129261
+    followers: 64734
+    engagement: 396
+    commentsToLikes: 0.055181
+    id: ck134np21xazw0i19xyix43yc
+    verified: false
+    hashtags: "#myhouseidea, #finditstyleit, #pursuehappy, #cottageinspo"
+  - username: "ladyroc_"
+    fullname: >-
+      💃🏽Rochelle Wood
+    location: "United Kingdom"
+    followers: 41993
     engagement: 85
-    commentsToLikes: 0.016551
-    id: ck600wt3pef5r0i14xo67cyxj
+    commentsToLikes: 0.077348
+    id: ck15rf4cc7mgn0i19peh9f708
     verified: false
-    hashtags: "#instagood, #stayhealthy, #grind, #bulldognation"
-  - username: "mtominay_borisnco"
+    hashtags: "#stretching, #londonrestaurant, #freshfood, #gemini"
+  - username: "the_miller_diaries"
     fullname: >-
-      𝔐𝔦𝔠𝔥𝔞𝔢𝔩 𝔗𝔬𝔪𝔦𝔫𝔞𝔶
+      Jade | The Miller Diaries
     location: "United Kingdom"
-    followers: 5401
-    engagement: 292
-    commentsToLikes: 0.038429
-    id: ck1394qc0jijf0i19w8tym239
+    followers: 13103
+    engagement: 585
+    commentsToLikes: 0.107656
+    id: ck15tf3xvhrrw0i19hd82ytv6
     verified: false
-    hashtags: "#americancrew, #englishbulldog, #prohair, #malemodel"
-  - username: "worldwar2_collector"
+    hashtags: "#cuppa, #stressrelieving, #dogselfie, #toddlermomlife"
+  - username: "cases.packed.lets.go"
     fullname: >-
-      Worldwar2_collector
+      Family Travels & Adventures
     location: "United Kingdom"
-    followers: 86217
-    engagement: 453
-    commentsToLikes: 0.011929
-    id: ck15pur8wzq7f0i19e0zw3b2v
+    followers: 4153
+    engagement: 879
+    commentsToLikes: 0.079348
+    id: ck6tn1bxl8xsr0j71az9tew84
     verified: false
-    hashtags: "#childrenphotography, #history, #pewpew, #callofdutyww2"
+    hashtags: "#scotlandshistory, #parisfood, #cityofprague, #globe"
 ---

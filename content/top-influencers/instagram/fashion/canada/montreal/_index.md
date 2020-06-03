@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Montreal In 2020
 description: >-
-  Find top fashion Instagram influencers in Montreal in 2020. Most popular hashtags: #stayhome #montreal #modeling #model.
+  Find top fashion Instagram influencers in Montreal in 2020. Most popular hashtags: #fashion #cute #mtlblog #photography.
 platform: Instagram
 profiles:
+  - username: "annita_mompellert"
+    fullname: >-
+      Anne Laura
+    location: "Canada"
+    followers: 54111
+    engagement: 339
+    commentsToLikes: 0.093375
+    id: ck0w0jffuei2p0i19um5n3392
+    verified: false
+    hashtags: "#outfitgrid, #mtlbirthday, #homedesign, #blessed"
   - username: "itssaliaa"
     fullname: >-
       Sali  Fashion|Style|Travel
     location: "Canada"
-    followers: 7129
-    engagement: 481
-    commentsToLikes: 0.194131
+    followers: 8106
+    engagement: 342
+    commentsToLikes: 0.223100
     id: ck55n6jld5l2s0i11llerplax
     verified: false
-    hashtags: "#goingcrazytogether, #nusret, #myohstory, #staystrong"
-  - username: "mtlpancakequeen"
+    hashtags: "#nfd, #nopantsseries, #stayhome, #strongersweden"
+  - username: "tynomibanks"
     fullname: >-
-      Pancake Queen
+      Tynomi Banks
     location: "Canada"
-    followers: 5521
-    engagement: 598
-    commentsToLikes: 0.374754
-    id: ck5cakztqdlw00i112ptviibo
+    followers: 30178
+    engagement: 589
+    commentsToLikes: 0.058674
+    id: ck0w4kfcgz0gx0i193nyi3hy5
     verified: false
-    hashtags: "#foodstagram, #instafood, #bestboyfriend, #valentines"
+    hashtags: "#donttouchmyhair, #fashion, #therealness, #montreal"
+  - username: "morgane.lav"
+    fullname: >-
+      MORGANE💫
+    location: "Canada"
+    followers: 2078
+    engagement: 3472
+    commentsToLikes: 0.077312
+    id: ckap5j9vobxne0i78ywl4emc4
+    verified: false
+    hashtags: "#cidrelacroix, #cidreduquebec, #produitduquebec, #achatlocal"
+  - username: "ouijdane_mo"
+    fullname: >-
+      Ouijdane ✨
+    location: "Canada"
+    followers: 46510
+    engagement: 801
+    commentsToLikes: 0.022932
+    id: ckap5jd9rby2q0i78j7t0sbgr
+    verified: false
+    hashtags: ""
+  - username: "ariacalli"
+    fullname: >-
+      ARIA
+    location: "Canada"
+    followers: 2928
+    engagement: 1213
+    commentsToLikes: 0.192539
+    id: ck8tbksikw1420j78ip326zz7
+    verified: false
+    hashtags: "#tower28beauty, #itsoktobesensitive, #texturetuesday, #livinglibations"
+  - username: "jessiegelinas_"
+    fullname: >-
+      Jessie Gélinas
+    location: "Canada"
+    followers: 75041
+    engagement: 672
+    commentsToLikes: 0.004246
+    id: ckaotj13qw4g90i78ro1yl80k
+    verified: false
+    hashtags: "#finecrew"
   - username: "westmountfashionista"
     fullname: >-
       Jessica
     location: "Canada"
-    followers: 28141
-    engagement: 199
-    commentsToLikes: 0.068065
+    followers: 28669
+    engagement: 229
+    commentsToLikes: 0.084288
     id: ck0tvzowhdhsy0i195evfsxa1
     verified: false
-    hashtags: "#diamondearrings, #fashioncanadians, #ootdmtl, #canadianstyle"
-  - username: "burcakbasaran"
+    hashtags: "#lechateau, #dressupfriday, #dressoftheday, #chanelruecambon"
+  - username: "isaachub"
     fullname: >-
-      Burcak ÖNGÜN
+      HUBY aka ISAAC HUB
     location: "Canada"
-    followers: 2140
-    engagement: 1418
-    commentsToLikes: 0.058684
-    id: ck8t6ka8udycd0j78of0x06t4
+    followers: 152615
+    engagement: 1004
+    commentsToLikes: 0.018788
+    id: ck9hcsow0mt9f0j7853f2x4g8
     verified: false
-    hashtags: "#springinmyhouse, #happymoments"
+    hashtags: "#palmier, #menandcats, #bali, #indonesia"
   - username: "remidesgagne"
     fullname: >-
       Rémi Desgagné
     location: "Canada"
-    followers: 91061
-    engagement: 150
-    commentsToLikes: 0.040194
+    followers: 90629
+    engagement: 146
+    commentsToLikes: 0.042679
     id: ck5q29rqeey600i11qs6d8ub3
     verified: false
-    hashtags: "#iamgettinganhairtransplant, #neon, #oceaneyes, #stachelife"
-  - username: "j.n.guyen"
-    fullname: >-
-      JENNIFER NGUYEN
-    location: "Canada"
-    followers: 6362
-    engagement: 1182
-    commentsToLikes: 0.088821
-    id: ck5q4xmx3qmqf0i11x56kzx0b
-    verified: false
-    hashtags: "#magic, #sheertex, #liviamatcha, #thefinecrew"
-  - username: "missleahmei"
-    fullname: >-
-      Leah Mei 🦋
-    location: "Canada"
-    followers: 12796
-    engagement: 621
-    commentsToLikes: 0.169083
-    id: ck0w6srnia4ga0i19ryudgqfy
-    verified: false
-    hashtags: "#quarentineoutfit, #socialdistancing, #physicaldistancing, #quarantinelife"
-  - username: "eliggarcia"
-    fullname: >-
-      Eli in the Walk•in ™
-    location: "Canada"
-    followers: 70111
-    engagement: 83
-    commentsToLikes: 0.058969
-    id: ck5hqbn5dsu7f0i11frxb5imc
-    verified: false
-    hashtags: "#wearcanadaproud, #burberry, #sheingals, #liketkit"
-  - username: "ennsportfolio"
-    fullname: >-
-      Nada • ندى🌷
-    location: "Canada"
-    followers: 6787
-    engagement: 602
-    commentsToLikes: 0.030491
-    id: ck5zxwgp68sin0i14tgip5syi
-    verified: false
-    hashtags: ""
-  - username: "vanilla_picture"
-    fullname: >-
-      VANILLA PICTURE
-    location: "Canada"
-    followers: 15108
-    engagement: 556
-    commentsToLikes: 0.043548
-    id: ck5hipkhdeq5v0i11mqoux891
-    verified: false
-    hashtags: "#portrait, #torontoportraitphotographer, #vintagestyle, #canonphotography"
+    hashtags: "#scarab, #5a7virtuel, #selflove, #oceaneyes"
 ---

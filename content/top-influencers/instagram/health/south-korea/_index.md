@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In South Korea In 2020
 description: >-
-  Find top health Instagram influencers in South Korea in 2020. Most popular hashtags: #ad #daily #coffee #selfie.
+  Find top health Instagram influencers in South Korea in 2020. Most popular hashtags: # #homecafe #underwear #quarantine.
 platform: Instagram
 profiles:
-  - username: "rolemodel_ryu"
+  - username: "hyoninii"
     fullname: >-
-      
+      Hyoni🎀 효니
     location: "South Korea"
-    followers: 136794
-    engagement: 276
-    commentsToLikes: 0.009495
-    id: ck14gyayd7m9i0i19bj24r6tx
+    followers: 15652
+    engagement: 882
+    commentsToLikes: 0.022289
+    id: ckapby83h1qoe0i78duyl1zxg
     verified: false
-    hashtags: "#mlbcrew, #mlbcap, #mlb, #liberclassy"
-  - username: "jin__s__dd"
+    hashtags: "#ad, #noncf, #nonamecyclistfactory, #nncf"
+  - username: "wo.om"
     fullname: >-
-      
+      우미
     location: "South Korea"
-    followers: 11281
-    engagement: 645
-    commentsToLikes: 0.020496
-    id: ck0vuzhmbmunw0i19mj563sjj
+    followers: 58681
+    engagement: 259
+    commentsToLikes: 0.024992
+    id: ck9wdte67h6wk0j78vg8vd81f
     verified: false
-    hashtags: "#daily, #weekend, #golf, #cafe"
+    hashtags: "#bodycheck, #mlb, #mlbcrew, #balanza"
   - username: "silversoo"
     fullname: >-
       은성
     location: "South Korea"
-    followers: 40647
-    engagement: 284
-    commentsToLikes: 0.011043
+    followers: 39986
+    engagement: 345
+    commentsToLikes: 0.011375
     id: ck8tdoduk45if0j78hee3r9nr
     verified: false
     hashtags: ""
-  - username: "meeshpearson"
+  - username: "shazzainuddin"
     fullname: >-
-      MICHELLE  | mom vlogger
+      Shazz Zainuddin
     location: "South Korea"
-    followers: 26107
-    engagement: 383
-    commentsToLikes: 0.061672
-    id: ck5hcztm0krkg0i11h4svst5g
+    followers: 132186
+    engagement: 2221
+    commentsToLikes: 0.005157
+    id: ck6tj160s1tiq0j71ojmeazri
     verified: false
-    hashtags: "#sponsored, #wetoneskillsgerms"
-  - username: "chu_obabe"
-    fullname: >-
-      •오채원•Chaewon.oh•吴彩源
-    location: "South Korea"
-    followers: 196872
-    engagement: 367
-    commentsToLikes: 0.022200
-    id: ck5hpae84r0x10i1196ibgg1n
-    verified: false
-    hashtags: "#calobye, #workout, #workoutmotivation, #healthgirl"
-  - username: "_yunjeekim_"
-    fullname: >-
-      𝕐𝕌ℕ𝕁𝔼𝔼  𝕂𝕀𝕄 / 김윤지
-    location: "South Korea"
-    followers: 143603
-    engagement: 278
-    commentsToLikes: 0.016685
-    id: ck6u3obxeyxjr0j71eskavs09
-    verified: true
-    hashtags: "#2017nbaallstar, #stayhome, #socialdistance, #healthhelper"
-  - username: "bee_hoons"
-    fullname: >-
-      Ki Hoon Hong
-    location: "South Korea"
-    followers: 154986
-    engagement: 103
-    commentsToLikes: 0.032293
-    id: ck5hntt9wodn30i11boce93jw
-    verified: false
-    hashtags: "#antitox, #dm, #minu, #diet"
-  - username: "gangnang_e"
+    hashtags: ""
+  - username: "jin__s__dd"
     fullname: >-
       
     location: "South Korea"
-    followers: 8364
-    engagement: 855
-    commentsToLikes: 0.016812
-    id: ck5hntpvfodhv0i11jpl8qgmt
+    followers: 11098
+    engagement: 605
+    commentsToLikes: 0.019983
+    id: ck0vuzhmbmunw0i19mj563sjj
     verified: false
-    hashtags: "#dewycel, #cafestagram, #beer, #toothpaste"
-  - username: "yooseung_erica"
-    fullname: >-
-      Erica  정유승 💜
-    location: "South Korea"
-    followers: 310194
-    engagement: 82
-    commentsToLikes: 0.020549
-    id: ck5btc17ufp2m0i1165z7fewa
-    verified: true
-    hashtags: "#dailyexercise, #balance, #jdio, #dailyhomeworkouts"
-  - username: "jw_w2"
+    hashtags: "#hwaill, #swim, #swimming, #merrychristmas"
+  - username: "rolemodel_ryu"
     fullname: >-
       
     location: "South Korea"
-    followers: 5268
-    engagement: 1191
-    commentsToLikes: 0.030714
-    id: ck137x38hdh950i19whjpa56d
+    followers: 138979
+    engagement: 253
+    commentsToLikes: 0.008561
+    id: ck14gyayd7m9i0i19bj24r6tx
     verified: false
-    hashtags: "#happy2020, #selfie, #instagood, #exercise"
+    hashtags: "#emart, #balancebutton"
+  - username: "yaroslava_doroganova"
+    fullname: >-
+      yaroslava💜doroganova
+    location: "South Korea"
+    followers: 5092
+    engagement: 567
+    commentsToLikes: 0.040487
+    id: ckaoyxbspjfvx0i78sb4y1t5d
+    verified: false
+    hashtags: "#koreanstyle, #puntahouse, #quarantinemood, #seoul"
+  - username: "coolguy.captain"
+    fullname: >-
+      조종사 / 쿨가이 11기
+    location: "South Korea"
+    followers: 21104
+    engagement: 918
+    commentsToLikes: 0.067255
+    id: ck9hco32fm9o40j78ue1bnnny
+    verified: false
+    hashtags: "#newhairstyle, #flight, #checkout, #rokaf"
+  - username: "sujanee"
+    fullname: >-
+      Susanna | Global Health PhDc
+    location: "South Korea"
+    followers: 2504
+    engagement: 1164
+    commentsToLikes: 0.092786
+    id: ck5c9a98mb2pv0i11qc1cx21i
+    verified: false
+    hashtags: "#coronavirus, #interracialcouple, #hotacademicsummer, #apha2019"
+  - username: "ddweji"
+    fullname: >-
+      뙈지뙈윤ಣ🐽ഒ
+    location: "South Korea"
+    followers: 20701
+    engagement: 200
+    commentsToLikes: 0.043150
+    id: ckap1b86jtu1m0i788m2hrgxd
+    verified: false
+    hashtags: ""
 ---

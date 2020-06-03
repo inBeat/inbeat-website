@@ -1,29 +1,29 @@
 ---
 title: Top 10 Photographers Instagram Influencers In India In 2020
 description: >-
-  Find top photographers Instagram influencers in India in 2020. Most popular hashtags: #india #portrait #ig #portraits.
+  Find top photographers Instagram influencers in India in 2020. Most popular hashtags: # #photography #photoshoot #photooftheday.
 platform: Instagram
 profiles:
   - username: "kibuuka_mukisa"
     fullname: >-
       Kibuuka Mukisa
     location: "India"
-    followers: 27902
-    engagement: 139
-    commentsToLikes: 0.038632
+    followers: 27764
+    engagement: 142
+    commentsToLikes: 0.038091
     id: ck6uh23ie6jiz0j71j44uuyg6
     verified: false
     hashtags: ""
-  - username: "kiran.nagendra"
+  - username: "abheetgidwani"
     fullname: >-
-      Kiran Nagendra
+      AbheetGidwani
     location: "India"
-    followers: 7201
-    engagement: 863
-    commentsToLikes: 0.036574
-    id: ck6tzj4j7a03h0j71ey27cwcd
+    followers: 23143
+    engagement: 219
+    commentsToLikes: 0.019110
+    id: ck0twqe51gf1e0i19y64lieav
     verified: false
-    hashtags: "#nikond5, #nikonindiaofficial, #canoneosr, #nikonasia"
+    hashtags: "#architecture, #lightpainting, #fujifilm, #multipleexposure"
   - username: "shaktismaran"
     fullname: >-
       Shakti Smaran S
@@ -33,75 +33,75 @@ profiles:
     commentsToLikes: 0.016364
     id: ck15sloeedn140i19h2vc3b9u
     verified: false
-    hashtags: "#fitness, #noskinretouch, #onelightsetup, #portfolio"
-  - username: "abheetgidwani"
-    fullname: >-
-      AbheetGidwani
-    location: "India"
-    followers: 23781
-    engagement: 234
-    commentsToLikes: 0.019938
-    id: ck0twqe51gf1e0i19y64lieav
-    verified: false
-    hashtags: "#maldives, #beauty, #diamirzaofficial, #boxer"
+    hashtags: "#godoxusergroup, #photography, #moodyports, #streets"
   - username: "shubham_gatade_sg"
     fullname: >-
       shubham gatade
     location: "India"
-    followers: 20654
-    engagement: 912
-    commentsToLikes: 0.067190
+    followers: 21984
+    engagement: 910
+    commentsToLikes: 0.096820
     id: ck1395tfzjobf0i192euyk1nv
     verified: false
-    hashtags: "#candid, #photographer, #wedding, #canon"
-  - username: "theoutcastsoul"
+    hashtags: "#baby, #anantambani, #ambaniwedding, #kapoorsisters"
+  - username: "cam_boy_renjith"
     fullname: >-
-      Sahil💬
+      Ren Jith
     location: "India"
-    followers: 6572
-    engagement: 1576
-    commentsToLikes: 0.093443
-    id: ck0uac3hgbui30i19iv7aqn3h
+    followers: 2491
+    engagement: 4773
+    commentsToLikes: 0.159270
+    id: ck9wgoszxubc50j78925kbes9
     verified: false
-    hashtags: "#bravopost, #lightshapers, #stayathome, #portraitsmag"
-  - username: "chalta_firtaa"
+    hashtags: ""
+  - username: "gk.rahul_"
     fullname: >-
-      Chetan S Uike | NAGPUR
+      Rahul Gopalakrishnan🍃
     location: "India"
-    followers: 5725
-    engagement: 1826
-    commentsToLikes: 0.062715
-    id: ck55lg1m01hdb0i11s28r5jew
+    followers: 2157
+    engagement: 3238
+    commentsToLikes: 0.192118
+    id: ck5zvkr204f1s0i14rktq6xo6
     verified: false
-    hashtags: "#cricket, #nustaharamkhor, #mypixeldiary, #coronavirus"
-  - username: "__e_s_h_a________"
+    hashtags: "#bloom, #clicks, #attappadi, #monochrome"
+  - username: "reflectionofmymemories"
     fullname: >-
-      🍁/ ëshâ røydās /🍁🇮🇳
+      Biplab Mohapatra
     location: "India"
-    followers: 299036
-    engagement: 329
-    commentsToLikes: 0.059602
-    id: ck8tdrbxw4hpx0j78mud6maez
+    followers: 11098
+    engagement: 1223
+    commentsToLikes: 0.188661
+    id: ck5zksoz3k35c0i149sahpigf
     verified: false
-    hashtags: "#curvygirl, #curvyfashion, #bengal, #curvy"
-  - username: "the_iffy_explorer"
+    hashtags: "#indiaclicks, #hampi, #cntgiveitashot, #indian"
+  - username: "x.sahilllthakkar"
     fullname: >-
-      NIHARIKA | Travel Blogger 🇮🇳
+      I AM WITH BABLOO
     location: "India"
-    followers: 16987
-    engagement: 536
-    commentsToLikes: 0.065709
-    id: ck601pyi5fy660i148hsxqn07
+    followers: 97541
+    engagement: 1026
+    commentsToLikes: 0.041241
+    id: ck15qvo5h4v5l0i19axurk4jy
     verified: false
-    hashtags: "#wildlifeplanet, #toshhostel, #streetsofhimalayas, #peacecorridor"
-  - username: "lukegraeber"
+    hashtags: "#starboynation"
+  - username: "atharv_raut_"
     fullname: >-
-      LukeGraeber Yoga & Photography
+      ATHARV_D_RAUT📷
     location: "India"
-    followers: 20970
-    engagement: 491
-    commentsToLikes: 0.076532
-    id: ck0u9m50pa2p20i19pi4th3f1
+    followers: 490141
+    engagement: 721
+    commentsToLikes: 0.026577
+    id: ck8td6n9j23ve0j78r24t9kez
     verified: false
-    hashtags: "#stopthespread, #bhagavadgita"
+    hashtags: ""
+  - username: "_mrs__foxy"
+    fullname: >-
+      💙🇲 🇪 🇪 🇳 🇺  🇦 🇰 🇸 🇭 🇦 🇾 💙
+    location: "India"
+    followers: 2736
+    engagement: 3161
+    commentsToLikes: 0.122304
+    id: ck9wipr2q3dzs0j78q0b174e7
+    verified: false
+    hashtags: ""
 ---

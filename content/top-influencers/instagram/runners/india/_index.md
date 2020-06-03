@@ -1,107 +1,107 @@
 ---
 title: Top 10 Runners Instagram Influencers In India In 2020
 description: >-
-  Find top runners Instagram influencers in India in 2020. Most popular hashtags: #model #photography #fashion #instagood.
+  Find top runners Instagram influencers in India in 2020. Most popular hashtags: #photography #style #photooftheday #cute.
 platform: Instagram
 profiles:
-  - username: "ranuu_sharma"
+  - username: "vismayasunil_official"
     fullname: >-
-      ranu sharma
+      👑💫Vismaya_sunil💫👑
     location: "India"
-    followers: 11848
-    engagement: 1877
-    commentsToLikes: 0.025751
-    id: ck14k4hgznofa0i19yghz5nu4
+    followers: 9342
+    engagement: 2669
+    commentsToLikes: 0.030174
+    id: ckapb3b94yf8l0i785pqhqpc9
     verified: false
-    hashtags: "#photography, #potd, #snap, #india"
-  - username: "_the_.queen__"
-    fullname: >-
-      Harmilan Bains
-    location: "India"
-    followers: 13272
-    engagement: 3537
-    commentsToLikes: 0.019733
-    id: ck0w6gx3l8i7z0i19hy8uglw7
-    verified: false
-    hashtags: "#athletelife, #workout, #doit, #twitter"
+    hashtags: "#photography, #2ndrunnerup, #smile, #picture"
   - username: "ektamaru03"
     fullname: >-
       Ekta Maru
     location: "India"
-    followers: 426794
-    engagement: 779
-    commentsToLikes: 0.010724
+    followers: 445995
+    engagement: 679
+    commentsToLikes: 0.013023
     id: ck14iho5rfg8r0i192f8wtukk
     verified: true
-    hashtags: "#staypossitive, #bingewatching, #dubai, #forevernew"
-  - username: "iam_shreyaacharya"
+    hashtags: "#netflix, #laugh, #workout, #fitspo"
+  - username: "the_.queeen_"
     fullname: >-
-      Chik Chik  (IAmHipHopKids)
+      Harmilan Bains
     location: "India"
-    followers: 7509
-    engagement: 1081
-    commentsToLikes: 0.041163
-    id: ck5zwqv1s6lk70i14m490b510
+    followers: 16885
+    engagement: 3233
+    commentsToLikes: 0.018818
+    id: ck0w6gx3l8i7z0i19hy8uglw7
     verified: false
-    hashtags: "#nimitkotianchoreography, #dancevideo, #precaution, #cure"
+    hashtags: "#punjabi, #rise, #bepositive, #tagblender"
+  - username: "tayansagestans"
+    fullname: >-
+      Tayan
+    location: "India"
+    followers: 3382
+    engagement: 1307
+    commentsToLikes: 0.161769
+    id: ckap4d3zc6t580i781orsx7ny
+    verified: false
+    hashtags: "#tayansage, #chicagomodels, #rollingstones, #quarantinelife"
+  - username: "harlowganz"
+    fullname: >-
+      Harlow Ganz
+    location: "India"
+    followers: 5814
+    engagement: 1319
+    commentsToLikes: 0.043537
+    id: ckap3150m16f90i78dmdughz0
+    verified: false
+    hashtags: "#missingmyfriends, #danceweekend, #danceweekends, #secondskindancewear"
+  - username: "lokesh_chaprana"
+    fullname: >-
+      LOKESH GURJAR
+    location: "India"
+    followers: 15773
+    engagement: 972
+    commentsToLikes: 0.031474
+    id: ck5cbqambfyz10i118nsokfep
+    verified: false
+    hashtags: "#model, #fitfam, #blogger, #shooting"
   - username: "rahul_rajasekharann"
     fullname: >-
       Rahul Rajasekharan Nair
     location: "India"
-    followers: 34278
-    engagement: 463
-    commentsToLikes: 0.028387
+    followers: 37807
+    engagement: 567
+    commentsToLikes: 0.029361
     id: ck138muj0h03d0i19hff61qt2
     verified: true
-    hashtags: "#ridinginstyle, #scootering, #indigenouspeople, #varaneavashyamund"
-  - username: "ali_ogle"
+    hashtags: "#greatful, #cab2019, #pets, #petsofinstagram"
+  - username: "anushrisurekhaamane"
     fullname: >-
-      
+      Anushri Mane
     location: "India"
-    followers: 5197
-    engagement: 1586
-    commentsToLikes: 0.018196
-    id: ck6tyasak2n4l0j7198sl9cd5
+    followers: 13221
+    engagement: 1708
+    commentsToLikes: 0.015297
+    id: ck9hca8yekh7m0j78q4oxrlz0
     verified: false
-    hashtags: "#sweaterweather, #bostonbrief, #chelseajenningschoreography, #larkin2020"
-  - username: "veeshakha_kavlekar"
+    hashtags: "#mimarathi, #marathipost, #marathimanus, #maharastradesha"
+  - username: "ranuu_sharma"
     fullname: >-
-      💢make a vish🌠⭐
+      ranu sharma
     location: "India"
-    followers: 2553
-    engagement: 2571
-    commentsToLikes: 0.039130
-    id: ck5zu4n0s1oe00i14mbs3o4pn
+    followers: 11693
+    engagement: 1966
+    commentsToLikes: 0.032422
+    id: ck14k4hgznofa0i19yghz5nu4
     verified: false
-    hashtags: "#judgingscenes, #fujifilm, #fujilove, #fujilovers"
-  - username: "nishu9953"
+    hashtags: "#glasses, #selflove, #glam, #netted"
+  - username: "imsandhyarawat"
     fullname: >-
-      Nisha Jaiswal
+      SANDHYA🧡RAWAT 💯
     location: "India"
-    followers: 14865
-    engagement: 625
-    commentsToLikes: 0.225465
-    id: ck8t7azzvg60o0j78w0llw6jd
+    followers: 80003
+    engagement: 253
+    commentsToLikes: 0.031073
+    id: ck1376tnoa2vx0i19i0vstorj
     verified: false
-    hashtags: "#safetycomes1stnow, #bloggerlifestyle, #hairstyles, #seashore"
-  - username: "gopithonakal_4774"
-    fullname: >-
-      GopiThonakal
-    location: "India"
-    followers: 3655
-    engagement: 2830
-    commentsToLikes: 0.023989
-    id: ck0w20m92m2a20i19bs331ajn
-    verified: false
-    hashtags: "#10000matf, #staystrong, #stayhealthy, #indian"
-  - username: "sinhamishti"
-    fullname: >-
-      Mishti Sinha (iamhiphopkids)
-    location: "India"
-    followers: 38327
-    engagement: 478
-    commentsToLikes: 0.015562
-    id: ck5zwquzm6liy0i149doctj6y
-    verified: false
-    hashtags: "#redmyfavourite, #dreams, #gocoronago, #posingsincechildhood"
+    hashtags: "#style, #beyhadh, #culture, #nyoni"
 ---

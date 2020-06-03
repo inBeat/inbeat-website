@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Spain In 2020
 description: >-
-  Find top skincare Instagram influencers in Spain in 2020. Most popular hashtags: #yomequedoencasa #skincare #ootd #makeup.
+  Find top skincare Instagram influencers in Spain in 2020. Most popular hashtags: #skincare #beauty #skincareroutine #fashion.
 platform: Instagram
 profiles:
-  - username: "sfennous"
+  - username: "cassie_galan"
     fullname: >-
-      SANDRA FENNOU
+      Cassandra Galán
     location: "Spain"
-    followers: 110243
-    engagement: 434
-    commentsToLikes: 0.009692
-    id: ck55kqci2zva90i11y3tlhwm3
+    followers: 4137
+    engagement: 1301
+    commentsToLikes: 0.609161
+    id: ckap6jt56g56f0i78zmocxi74
     verified: false
-    hashtags: "#wellness, #facial, #coffee, #16"
+    hashtags: ""
+  - username: "thegoldlipstick"
+    fullname: >-
+      Mireia from The Gold Lipstick
+    location: "Spain"
+    followers: 3133
+    engagement: 1216
+    commentsToLikes: 0.357116
+    id: ck0tyj2kvn1ds0i19upv4nd49
+    verified: false
+    hashtags: "#diorbeautylovers, #skin, #igtv, #hmhome"
   - username: "sinmkp"
     fullname: >-
-      sinmkp y con mascarilla
+      Sinmkp y con mascarilla
     location: "Spain"
-    followers: 3007
-    engagement: 1659
-    commentsToLikes: 0.256724
+    followers: 3056
+    engagement: 1620
+    commentsToLikes: 0.254254
     id: ck5ci9cufs8m90i11d6bp2nsa
     verified: false
-    hashtags: "#mascarillasfaciales, #irohanature, #twilly, #elemis"
+    hashtags: "#suscripci, #skincareadvice, #gold, #fragrancelover"
   - username: "moikobeauty"
     fullname: >-
-      s o n i a  ☕️ 소니아
+      s o n i a  ☕️
     location: "Spain"
-    followers: 15684
-    engagement: 314
-    commentsToLikes: 0.126594
+    followers: 17078
+    engagement: 346
+    commentsToLikes: 0.186647
     id: ck8tcp3gf053l0j78qa3v4qwv
     verified: false
-    hashtags: "#texture, #spreathelove, #propolis, #kbeauty"
-  - username: "aishasharma25"
+    hashtags: "#parisian, #kinkfolk, #byredosamples, #luxuryskincare"
+  - username: "vanetrasolini"
     fullname: >-
-      Aisha
+      VANESSA TRASOLINI
     location: "Spain"
-    followers: 1678710
-    engagement: 273
-    commentsToLikes: 0.004993
-    id: ck14hzpnpcxtv0i19u6buvx96
-    verified: true
-    hashtags: "#happy, #furryfriends, #fitnessmotivation, #travel"
+    followers: 14358
+    engagement: 526
+    commentsToLikes: 0.067021
+    id: ckap4i97v7htv0i78fudsdcf9
+    verified: false
+    hashtags: "#skincarebyvane, #sunset, #relaxingtime, #happiness"
+  - username: "tallerdesuenosacolor"
+    fullname: >-
+      Tallerdesuenosacolor
+    location: "Spain"
+    followers: 5857
+    engagement: 585
+    commentsToLikes: 0.248595
+    id: ckaovk5ff4x100i781pc1irtk
+    verified: false
+    hashtags: "#springtime, #higlighter, #paletteadict, #catrice"
+  - username: "paula_a"
+    fullname: >-
+      P𝔞𝔲𝔩𝔞 A𝔯𝔬𝔠𝔥𝔞 🇮🇨
+    location: "Spain"
+    followers: 20594
+    engagement: 301
+    commentsToLikes: 0.032791
+    id: ck15t7tzhgr6a0i19l0nvcudv
+    verified: false
+    hashtags: "#eyebrows, #quarentena, #mequedoencasa, #posing"
+  - username: "lucialolita_style"
+    fullname: >-
+      www.lucialolita.com
+    location: "Spain"
+    followers: 16268
+    engagement: 216
+    commentsToLikes: 0.195881
+    id: ck60037wrcvjz0i140sds7jzj
+    verified: false
+    hashtags: "#tenawomen, #oliveoil, #sebamed, #antiagingskincare"
   - username: "evarozalen"
     fullname: >-
-      E V A   •   R O Z A L É N
+      E V A   •   R O Z A L É N
     location: "Spain"
-    followers: 61455
-    engagement: 1085
-    commentsToLikes: 0.470934
+    followers: 63671
+    engagement: 1019
+    commentsToLikes: 0.432779
     id: ck6tnqxr1ae700j71vxwg88we
     verified: false
-    hashtags: "#photography, #makeupwedding, #dress, #sunset"
-  - username: "eliafernandezartist"
+    hashtags: "#evaypaulaguz, #oriflameespa, #makeupartist, #makeupwedding"
+  - username: "dirty_closet"
     fullname: >-
-      Elia Fernandez
+      Olga Victoria 🦄 #DirtyEjercito
     location: "Spain"
-    followers: 38360
-    engagement: 551
-    commentsToLikes: 0.061674
-    id: ck15ucp61midw0i197itwa2j7
+    followers: 108229
+    engagement: 582
+    commentsToLikes: 0.100814
+    id: ck13amp38r4ph0i19ixfyh9td
     verified: false
-    hashtags: "#salsatotaloutfit, #delicadeza, #sealovers, #sorteojoyas"
-  - username: "marikowskaya"
-    fullname: >-
-      Marikowskaya
-    location: "Spain"
-    followers: 64991
-    engagement: 520
-    commentsToLikes: 0.132226
-    id: ck0u7wsm95yi90i199hgav5f4
-    verified: false
-    hashtags: "#goya2020, #makeupaddict, #blancoynegro, #eyelinertutorial"
-  - username: "chabelseijo"
-    fullname: >-
-      Chabel Seijo
-    location: "Spain"
-    followers: 33311
-    engagement: 483
-    commentsToLikes: 0.085130
-    id: ck13bpzy1wmaq0i19duu56lbq
-    verified: false
-    hashtags: "#autumn, #bijoux, #teddycoat, #newco"
-  - username: "mire_si"
-    fullname: >-
-      mire_si
-    location: "Spain"
-    followers: 10007
-    engagement: 891
-    commentsToLikes: 0.098567
-    id: ck6u71zp3j0c40j719ic37vah
-    verified: false
-    hashtags: "#theregeneratingserum, #lamerinfluencer, #mylooktoday, #fashion"
-  - username: "carmencs2"
-    fullname: >-
-      🌺 C A R M E N 🌺
-    location: "Spain"
-    followers: 17903
-    engagement: 501
-    commentsToLikes: 0.217047
-    id: ck133ym87udqo0i19oy2t1gh9
-    verified: false
-    hashtags: "#octolyfamily, #inspooutfit, #fashionstyleblogs, #photoofdeday"
+    hashtags: "#2mayo, #ohana, #nudelips, #redlipsdontcare"
 ---

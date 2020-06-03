@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Turin In 2020
 description: >-
-  Find top health Instagram influencers in Turin in 2020. Most popular hashtags: #fitness #iorestoacasa #training #photooftheday.
+  Find top health Instagram influencers in Turin in 2020. Most popular hashtags: #health #outfit #cute #clouds.
 platform: Instagram
 profiles:
   - username: "giuse_joseph"
     fullname: >-
       © Giuse Joseph - Videomaker
     location: "Italy"
-    followers: 14721
-    engagement: 97
-    commentsToLikes: 0.054034
+    followers: 14349
+    engagement: 101
+    commentsToLikes: 0.052259
     id: ck14guqwz74lt0i192gmg5z09
     verified: false
-    hashtags: "#style, #blondemodels, #lumix, #nexbuds"
-  - username: "sonia_dedo"
+    hashtags: "#lumix, #massage, #nexiomi, #videooftheday"
+  - username: "daniela_roncarolo"
     fullname: >-
-      Sonia Barreca💎👑
+      Dany ✨ Make-up Artist
     location: "Italy"
-    followers: 15564
-    engagement: 996
-    commentsToLikes: 0.035677
-    id: ck8wd0kj4d8xs0j78f76looq7
+    followers: 4763
+    engagement: 1930
+    commentsToLikes: 0.128364
+    id: ck9hcoc2dmb290j78hcv0t01i
     verified: false
-    hashtags: "#biomeccanica, #getmoving, #picoftheday, #6secondi"
-  - username: "dave_cfto"
-    fullname: >-
-      Davide Dave Gioia
-    location: "Italy"
-    followers: 6128
-    engagement: 543
-    commentsToLikes: 0.032861
-    id: ck6txdv3dx9lj0j7153kjm1a3
-    verified: false
-    hashtags: "#sport, #physiotherapy, #motivation, #instavideo"
+    hashtags: "#health, #lefestedipablo, #crazymakep, #sunflowermakeup"
   - username: "jimmy.spagnesi"
     fullname: >-
       Gianmarco Spagnesi
     location: "Italy"
-    followers: 7587
-    engagement: 689
-    commentsToLikes: 0.008197
+    followers: 7578
+    engagement: 704
+    commentsToLikes: 0.008231
     id: ck6u5x1jcc8ws0j71xre41ie1
     verified: false
-    hashtags: "#choco, #neverstopexploring, #record, #workout"
-  - username: "anej_sosic"
+    hashtags: "#wave, #foodporn, #design, #view"
+  - username: "sonia_dedo"
     fullname: >-
-      Anej Sosic
+      Sonia Barreca💎👑
     location: "Italy"
-    followers: 44446
-    engagement: 766
-    commentsToLikes: 0.116799
-    id: ck6ufp29jyboh0j71ap3j3rvu
+    followers: 20434
+    engagement: 919
+    commentsToLikes: 0.032035
+    id: ck8wd0kj4d8xs0j78f76looq7
     verified: false
-    hashtags: "#venice, #pose, #repost, #comingsoon"
+    hashtags: "#colorful, #eyes, #turingirls, #lady"
+  - username: "nerinafrancesca"
+    fullname: >-
+      Francesca Nerina 💎
+    location: "Italy"
+    followers: 249928
+    engagement: 710
+    commentsToLikes: 0.037159
+    id: ck8t5753n90v00j78mkte5hhx
+    verified: false
+    hashtags: "#nature, #moon, #cute, #sexy"
   - username: "remalda"
     fullname: >-
       Travel/Fashion/motherhood🇦🇱🇮🇹
     location: "Italy"
-    followers: 11201
-    engagement: 954
-    commentsToLikes: 0.149894
+    followers: 11086
+    engagement: 1129
+    commentsToLikes: 0.127762
     id: ck5zmzotkni710i1426xyuqcp
     verified: false
-    hashtags: "#winteroutfits, #thinkingpositive, #cutemixedgirls, #lisbonportugal"
-  - username: "kilianlenox"
+    hashtags: "#girlswhohike, #pursuebeauty, #scopriumbria, #maced"
+  - username: "anej_sosic"
     fullname: >-
-      KiLiaN LeNoX
+      Anej Sosic
     location: "Italy"
-    followers: 5243
-    engagement: 1691
-    commentsToLikes: 0.034899
-    id: ck8ta70sxqosb0j785547l56p
+    followers: 53043
+    engagement: 619
+    commentsToLikes: 0.096188
+    id: ck6ufp29jyboh0j71ap3j3rvu
     verified: false
-    hashtags: "#pride, #muscle, #milancity, #loveyourself"
-  - username: "julia_bel_la"
+    hashtags: "#venice, #pose, #repost, #comingsoon"
+  - username: "aurilion_"
     fullname: >-
-      Girl in glasses👓🔥🔥🔥
+      𝓐𝓾𝓻𝓸𝓻𝓪 🐆
     location: "Italy"
-    followers: 60597
-    engagement: 450
-    commentsToLikes: 0.034085
-    id: ck6uhkd849mi00j7106iu8l7k
+    followers: 14308
+    engagement: 899
+    commentsToLikes: 0.168785
+    id: ckap5am87awas0i786flt3d6h
     verified: false
-    hashtags: "#modelstravel, #glass, #travelblog, #taormina"
-  - username: "azzurrapiccardi"
+    hashtags: "#quarantena, #nomakeupdays, #fashionweek, #sanktmoritz"
+  - username: "sammcclendon"
     fullname: >-
-      Azzurra Piccardi Photographer
+      Sam | The Blonde Scout
     location: "Italy"
-    followers: 30408
-    engagement: 204
-    commentsToLikes: 0.078646
-    id: ck5bx8u0kn8cy0i11d84cg2fm
+    followers: 55160
+    engagement: 388
+    commentsToLikes: 0.161279
+    id: ck15tfwcnhvqt0i191nw1im9e
     verified: false
-    hashtags: "#mettiamoloallaporta, #accademiadifotografia, #fashionimagery, #weareallinthistoghether"
-  - username: "anastasiaferla"
+    hashtags: "#backyardgarden, #lisbonlovers, #besthotels, #beautytip"
+  - username: "andreapetagna"
     fullname: >-
-      Aɴαѕтαѕια Ŧ.
+      ANDREA PETAGNA
     location: "Italy"
-    followers: 19589
-    engagement: 632
-    commentsToLikes: 0.036351
-    id: ck15sxkdxfb8i0i199uyko5w8
-    verified: false
-    hashtags: "#mozzarelline, #lovepizza, #tiffanynecklace, #whowhatwear"
+    followers: 461844
+    engagement: 819
+    commentsToLikes: 0.014165
+    id: ck137on0icla00i19ej2aukdx
+    verified: true
+    hashtags: "#bulldozzer, #pushup, #keepfighting, #2020"
 ---

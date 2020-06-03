@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Dallas In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Dallas in 2020. Most popular hashtags: #lifestyle #explorepage #dallas #fashion.
+  Find top lifestyle Instagram influencers in Dallas in 2020. Most popular hashtags: #coffee #lifestyle #sale #quarantine.
 platform: Instagram
 profiles:
-  - username: "britt.rainwater"
+  - username: "dallasfoodwanderer"
     fullname: >-
-      BRITT RAINWATER 💧
+      𝐒𝐀𝐑𝐈𝐀 | Dallas Food Wanderer 🌎
     location: "United States"
-    followers: 18980
-    engagement: 303
-    commentsToLikes: 0.064983
-    id: ck6tpbz76izjz0j71n873pf01
+    followers: 12632
+    engagement: 334
+    commentsToLikes: 0.143952
+    id: ck0w3er8vt17z0i19w116309e
     verified: false
-    hashtags: "#yoga, #welovetravel, #yachtlife, #mindsetshift"
-  - username: "healthylife_bymg"
+    hashtags: "#savelives, #foodcoma, #arabicfood, #cheesepie"
+  - username: "jojotruperez"
     fullname: >-
-      recetas & vida saludable •
+      Lifestyle Dallas - Fort Worth
     location: "United States"
-    followers: 65891
-    engagement: 182
-    commentsToLikes: 0.062871
-    id: ck6u1ldrvmfrm0j713j5cgc2f
+    followers: 8755
+    engagement: 466
+    commentsToLikes: 0.187123
+    id: ck6u0o6kegts50j71huv2soze
     verified: false
-    hashtags: "#healthychoices, #lunch, #mequedoencasa, #mexicanfood"
+    hashtags: "#atkinsstrong, #traderjoeslist, #sugarfina, #sugarfinaxcoola"
   - username: "amberleybradley"
     fullname: >-
       AMBERLEY ❁ BRADLEY
     location: "United States"
-    followers: 19512
-    engagement: 420
-    commentsToLikes: 0.102716
+    followers: 19220
+    engagement: 412
+    commentsToLikes: 0.105792
     id: ck8t54tyl8rt70j78iw9dhdxf
     verified: false
-    hashtags: "#tiktokdogs, #workout, #tiktokreviews, #lulusambassador"
-  - username: "katherine"
-    fullname: >-
-      KAT ♡ LIFESTYLE
-    location: "United States"
-    followers: 47316
-    engagement: 301
-    commentsToLikes: 0.053196
-    id: ck5zit66mgbwi0i14cqckm2d3
-    verified: false
-    hashtags: "#wisdomteethfun, #vergegirl"
+    hashtags: "#lulusambassador, #lulus, #soapandglorypartner, #soapandgloryusa"
   - username: "laurynlately"
     fullname: >-
       Lauryn Henry
     location: "United States"
-    followers: 15082
-    engagement: 599
-    commentsToLikes: 0.320326
+    followers: 15186
+    engagement: 682
+    commentsToLikes: 0.297194
     id: ck5zxuutd8pgk0i14b89ayddp
     verified: false
-    hashtags: "#ootd, #proteinbars, #shophopes, #secretdeopartner"
-  - username: "jojotruperez"
-    fullname: >-
-      J o j o
-    location: "United States"
-    followers: 7330
-    engagement: 634
-    commentsToLikes: 0.157161
-    id: ck6u0o6kegts50j71huv2soze
-    verified: false
-    hashtags: "#raoshomemade, #consciouseaterbook, #hempzofficial, #threadsbabe"
+    hashtags: "#maxiskirt, #reddress, #sanantonio, #shopsmall"
   - username: "sosageblog"
     fullname: >-
       Sage Coralli Wilson
     location: "United States"
-    followers: 95778
-    engagement: 233
-    commentsToLikes: 0.007924
+    followers: 97534
+    engagement: 390
+    commentsToLikes: 0.012623
     id: ck5zu32dg1l8i0i143fi9hbot
     verified: false
-    hashtags: "#sandalsresorts, #ltkbump, #ltkunder50, #genderreveal"
-  - username: "aseamae"
+    hashtags: "#babyshower, #maternity, #sundayfunday, #floraldesign"
+  - username: "_vejadu"
     fullname: >-
-      AseaMae
+      D E J A
     location: "United States"
-    followers: 36987
-    engagement: 139
-    commentsToLikes: 0.070738
-    id: ck8sxtfgpilja0j78hhth39y3
+    followers: 9579
+    engagement: 650
+    commentsToLikes: 0.031258
+    id: ck6uhz20bc33v0j71lj02bm07
     verified: false
-    hashtags: "#amazonfinds, #kinkychicks, #benefitbrows, #sallybeauty"
-  - username: "busyyy_bree"
+    hashtags: ""
+  - username: "mariasjsanchez"
     fullname: >-
-      Brelyn Donato
+      Lifestyle Buzz by Maria 🌈
     location: "United States"
-    followers: 2375
-    engagement: 869
-    commentsToLikes: 0.099534
-    id: ck0w57rfh2bd00i195qzcm48x
+    followers: 22034
+    engagement: 626
+    commentsToLikes: 0.086210
+    id: ckap8rwxwpluu0i78o8a243kg
     verified: false
-    hashtags: "#thesecretglocation, #makeuptutorial, #makeup, #dallasevents"
-  - username: "beautyinamin"
+    hashtags: "#sale, #chicwish, #celebratewithwalmart, #complimentaryfromalexandredeparis"
+  - username: "everything_ravish"
     fullname: >-
-      Dallas Photographer
+      Ravishing.ravish
     location: "United States"
-    followers: 20266
-    engagement: 316
-    commentsToLikes: 0.080424
-    id: ck8t5ftv6a12c0j78ff4d6ha1
+    followers: 87236
+    engagement: 413
+    commentsToLikes: 0.098707
+    id: ck13cieil0i200i19qxnhzinu
     verified: false
-    hashtags: "#ad, #coola, #ad, #livecleanusa"
+    hashtags: "#kkwbeauty, #ootdfashion, #dallascowboys, #newyorkgirl"
+  - username: "crystalxdanielle"
+    fullname: >-
+      Crystal Danielle
+    location: "United States"
+    followers: 11043
+    engagement: 1287
+    commentsToLikes: 0.095710
+    id: ck0w3ee5jszeh0i19408zbd0a
+    verified: false
+    hashtags: "#stonyfield, #kidstravel, #bumppic, #3monthsoldbaby"
+  - username: "hollykstyles"
+    fullname: >-
+      Holly
+    location: "United States"
+    followers: 3093
+    engagement: 1617
+    commentsToLikes: 0.399246
+    id: ckaowm7if9gug0i78mtyycrlx
+    verified: false
+    hashtags: "#messyhair, #covid19, #makeup, #casualootd"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In France In 2020
 description: >-
-  Find top bloggers Instagram influencers in France in 2020. Most popular hashtags: #stayhome #paris #giveaway #homesweethome.
+  Find top bloggers Instagram influencers in France in 2020. Most popular hashtags: #giveaway #love #concours #moodoftheday.
 platform: Instagram
 profiles:
+  - username: "amybnt"
+    fullname: >-
+      Amélie
+    location: "France"
+    followers: 10454
+    engagement: 2121
+    commentsToLikes: 0.083965
+    id: ck9wfappco01d0j78r4pvho9g
+    verified: false
+    hashtags: "#heishizlook, #benakd, #giveaway, #inesmaphoto"
   - username: "manonlaime"
     fullname: >-
       ManonLaime
     location: "France"
-    followers: 107490
-    engagement: 1086
-    commentsToLikes: 0.084083
+    followers: 129444
+    engagement: 947
+    commentsToLikes: 0.043695
     id: ck1362bnm4esl0i19gnrxd3e3
     verified: false
-    hashtags: "#strongertogether, #prioritiesfirst, #pregnancy, #homedecor"
+    hashtags: "#manonlaimexconforama, #silkdress, #bridetobe2020, #lafamiglia"
+  - username: "saskiabzn"
+    fullname: >-
+      Saskia B.
+    location: "France"
+    followers: 5261
+    engagement: 1826
+    commentsToLikes: 0.129257
+    id: ck8t0z0n7tuyl0j78cazxo5mm
+    verified: false
+    hashtags: "#chainbelt, #nastygal, #gothgrunge, #tumblraesthetic"
   - username: "ellesenparlent"
     fullname: >-
       Coralie L.
     location: "France"
-    followers: 203094
-    engagement: 981
-    commentsToLikes: 0.061945
+    followers: 211936
+    engagement: 746
+    commentsToLikes: 0.030779
     id: ck0u74czs3p6r0i192wxrrn1s
     verified: false
-    hashtags: ""
-  - username: "ornellagabriella"
+    hashtags: "#coffretbouquetdegourmandises, #bonnemaman, #mothersday, #heywondermom"
+  - username: "naiaroma"
     fullname: >-
-      🌺Ornella🌺
+      N A I A . R O M A
     location: "France"
-    followers: 16914
-    engagement: 719
-    commentsToLikes: 0.076859
-    id: ck0w3amewsf4n0i19oaz4l0f4
+    followers: 26314
+    engagement: 638
+    commentsToLikes: 0.190062
+    id: ck6005716cyz70i14ku7ksd41
     verified: false
-    hashtags: "#concours, #preset, #woman, #moodoftheday"
-  - username: "inesduhard"
+    hashtags: "#elitenetflix, #summervibes, #beautybox, #love"
+  - username: "lola_rossi_"
     fullname: >-
-      Ines Duhard 🌺🤙🏼🐚🌻🌎
+      𝐋𝐨𝐥𝐚 𝐑𝐨𝐬𝐬𝐢
     location: "France"
-    followers: 51923
-    engagement: 468
-    commentsToLikes: 0.058353
-    id: ck14gu92l722g0i19b5w5ankp
+    followers: 323660
+    engagement: 532
+    commentsToLikes: 0.035011
+    id: ck13cxanm2mb70i19nf1oq7om
     verified: false
-    hashtags: "#lovebeautyandplanet, #primark, #saltyhair, #pinkmood"
-  - username: "lookbookaly"
-    fullname: >-
-      Lookbookaly
-    location: "France"
-    followers: 224439
-    engagement: 417
-    commentsToLikes: 0.038035
-    id: ck0w70r6wb6l00i193u2imnqv
-    verified: false
-    hashtags: "#spring, #londonlife, #glasses, #couplegoals"
-  - username: "camillecorlouer"
-    fullname: >-
-      Camille Corlouer
-    location: "France"
-    followers: 47564
-    engagement: 397
-    commentsToLikes: 0.110056
-    id: ck0w2j54vomov0i19qyhmkhtp
-    verified: false
-    hashtags: "#video, #igtv, #blogger, #accessories"
-  - username: "swannandtheberries"
-    fullname: >-
-      Swann & the Berries
-    location: "France"
-    followers: 43809
-    engagement: 710
-    commentsToLikes: 0.026007
-    id: ck0u6gp4q1zqb0i19qc1wzwqy
-    verified: false
-    hashtags: "#alternativestyle, #instahair, #wearetravelgirls, #concours"
-  - username: "chloegibbions"
-    fullname: >-
-      Chlöe
-    location: "France"
-    followers: 6748
-    engagement: 805
-    commentsToLikes: 0.150542
-    id: ck6uaj4ru3urk0j716q4u373w
-    verified: false
-    hashtags: "#ad, #babesofmissguided, #hairstyles, #queensoncampus"
+    hashtags: "#lolarossihome, #summer, #happiness, #happyfamily"
   - username: "mint.stories"
     fullname: >-
       Zvezdelina Tsolova
     location: "France"
-    followers: 19147
-    engagement: 725
-    commentsToLikes: 0.052200
+    followers: 20117
+    engagement: 728
+    commentsToLikes: 0.067358
     id: ck5by4p84op3h0i11clbbd64s
     verified: false
-    hashtags: "#deliveryfood, #hmwomensday, #friends, #womenswear"
-  - username: "theblondieworld"
+    hashtags: "#minimalfashion, #womenswear, #desserts, #happy30"
+  - username: "cyrielledrt"
     fullname: >-
-      The Blondie World
+      Cyrielle ♡ | Blogger
     location: "France"
-    followers: 16917
-    engagement: 434
-    commentsToLikes: 0.120100
-    id: ck0ttkjlg34wt0i19z6pwb3t1
+    followers: 2536
+    engagement: 2195
+    commentsToLikes: 0.297263
+    id: ckap4yu1s9fa10i78numiaogc
     verified: false
-    hashtags: "#parisian, #pokebowl, #cocopat, #quarantaine"
+    hashtags: "#inked, #bluejean, #giftideas, #fashionclothes"
+  - username: "ornellagabriella"
+    fullname: >-
+      🌺Ornella🌺
+    location: "France"
+    followers: 18170
+    engagement: 713
+    commentsToLikes: 0.112044
+    id: ck0w3amewsf4n0i19oaz4l0f4
+    verified: false
+    hashtags: "#naturalbeaty, #crueltyfree, #sun, #girls"
+  - username: "inesduhard"
+    fullname: >-
+      Ines Duhard 🌺🤙🏼🐚🌻🌎
+    location: "France"
+    followers: 54481
+    engagement: 520
+    commentsToLikes: 0.056572
+    id: ck14gu92l722g0i19b5w5ankp
+    verified: false
+    hashtags: "#lockdown, #frenchriviera, #jeuconcours, #morningroutine"
 ---

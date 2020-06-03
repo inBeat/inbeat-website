@@ -1,109 +1,109 @@
 ---
 title: Top 10 Instagram Influencers In Australia In 2020
 description: >-
-  Find top Instagram influencers in Australia in 2020. Most popular hashtags: #foryou #fyp #nowunited #coronavirus.
+  Find top Instagram influencers in Australia in 2020. Most popular hashtags: #quarantine #fitnessgirl #quarantinelife #fitness.
 platform: Instagram
 profiles:
-  - username: "keenan.te"
+  - username: "thetwobohemians"
     fullname: >-
-      Keenan Te
+      MINDFUL TRAVEL & LIFESTYLE 💫✨
     location: "Australia"
-    followers: 27359
-    engagement: 824
-    commentsToLikes: 0.139494
-    id: ck55m9th13ih70i11dceesejw
+    followers: 57226
+    engagement: 379
+    commentsToLikes: 0.056560
+    id: ck0u6dt101m860i1921ad3kl5
     verified: false
-    hashtags: "#brunomars, #chrisbrown, #victorious, #sidehustle"
-  - username: "savannah.clarke"
-    fullname: >-
-      S A V A N N A H  ➕ C L A R K E
-    location: "Australia"
-    followers: 1156230
-    engagement: 1563
-    commentsToLikes: 0.082061
-    id: ck14gj04u5gt20i19qqsabu3z
-    verified: false
-    hashtags: "#fashionicon, #loveuniters, #lurv, #nowunitedwakeup"
-  - username: "julianjoseduarte"
-    fullname: >-
-      JULIAN JOSE DUARTE 🇨🇱🇵🇹
-    location: "Australia"
-    followers: 5090
-    engagement: 3475
-    commentsToLikes: 0.113859
-    id: ck8wg9yhmgzc80j78w7tx58d4
-    verified: false
-    hashtags: "#duet, #xyzbca, #xybca, #helpme"
-  - username: "fashng"
-    fullname: >-
-      fashng
-    location: "Australia"
-    followers: 32660
-    engagement: 2765
-    commentsToLikes: 0.056883
-    id: ck8wgh420hcn20j78wqbh6mau
-    verified: false
-    hashtags: "#dating, #myaesthetic, #australia, #selfie"
+    hashtags: "#hikkaduwa, #hikkaduwabeach, #energy, #ukblogger"
   - username: "ljubica_bonnie"
     fullname: >-
       LJUBICA JAKIMOVSKI
     location: "Australia"
-    followers: 3459
-    engagement: 3475
-    commentsToLikes: 0.384747
+    followers: 4152
+    engagement: 3279
+    commentsToLikes: 0.409972
     id: ck8td7rp728tx0j78wr1pqtpf
     verified: false
-    hashtags: ""
-  - username: "e.milyjanee"
+    hashtags: "#aquadevidababe"
+  - username: "d3gelo"
     fullname: >-
-      E M I L Y🦋 || fashion
+      𝕯’𝖆𝖓𝖌𝖊𝖑𝖔   [GVO-3]
     location: "Australia"
-    followers: 2539
-    engagement: 2720
-    commentsToLikes: 0.257348
-    id: ck8tbsrgbwzkr0j78bg9s7ytg
+    followers: 51763
+    engagement: 2847
+    commentsToLikes: 0.081365
+    id: ck9wg0axlrbmf0j780ktehxo8
     verified: false
-    hashtags: "#collab, #gifted, #vintage"
+    hashtags: "#culturekings, #mothersday"
+  - username: "nickmeliska"
+    fullname: >-
+      Nick Meliska
+    location: "Australia"
+    followers: 2127
+    engagement: 2797
+    commentsToLikes: 0.142876
+    id: ck8t84eydj28g0j78kvkr6kp4
+    verified: false
+    hashtags: "#calvinklein, #shirtlessguys, #docmartens, #iykyk"
   - username: "olivia.lawecki"
     fullname: >-
       L I V   L A W E C K I ⚡️
     location: "Australia"
-    followers: 2435
-    engagement: 2688
-    commentsToLikes: 0.144513
+    followers: 2590
+    engagement: 2575
+    commentsToLikes: 0.147339
     id: ck8t337w91ogp0j782noo1ef7
     verified: false
     hashtags: ""
-  - username: "ajsecic"
+  - username: "jelena_fitmum"
     fullname: >-
-      Alisha
+      𝒥𝑒𝓁𝑒𝓃𝒶 🇷🇸🇦🇺
     location: "Australia"
-    followers: 3075
-    engagement: 3571
-    commentsToLikes: 0.189016
-    id: ck8szd6zjnyq90j780rquhscp
+    followers: 14245
+    engagement: 1759
+    commentsToLikes: 0.175277
+    id: ck137halubjd70i19h8sds9xl
     verified: false
-    hashtags: "#undiscovered, #jeffreestar, #thelist, #hoodedeyesmakeup"
-  - username: "mikky_kitty"
+    hashtags: "#tannedlegs, #selflovejourney, #goodlifecoomera, #girlsgotgoals"
+  - username: "breanateneil"
     fullname: >-
-      Alternative Model
+      
     location: "Australia"
-    followers: 6697
-    engagement: 1833
-    commentsToLikes: 0.071782
-    id: ck6ueyd23trgr0j71skut96mb
+    followers: 6372
+    engagement: 1646
+    commentsToLikes: 0.193250
+    id: ck9wopg3n61q70j782t7b3d76
     verified: false
-    hashtags: "#fireemblemcosplay, #dollskill, #boudoirmodel, #gothicstyleandmusic"
-  - username: "whyntervanravenstein"
+    hashtags: "#beachbabe, #modelling, #icanscout, #wlygsearch"
+  - username: "josecret1"
     fullname: >-
-      Whynter Van Ravenstein ⚡️
+      Johânna🌴🎓🌱🇩🇪
     location: "Australia"
-    followers: 25332
-    engagement: 842
-    commentsToLikes: 0.278012
-    id: ck6trvrfw1dcg0j71fnhmlbmc
+    followers: 5697
+    engagement: 1568
+    commentsToLikes: 0.109189
+    id: ckaozaqugl1fm0i78x5sisj4u
     verified: false
-    hashtags: "#fun, #model, #greatlabeldesign, #lovethelook"
+    hashtags: "#noosaheadsbeach, #anzeige, #fitness, #strongersweden"
+  - username: "jolyslife"
+    fullname: >-
+      • J O L Y S L I F E •
+    location: "Australia"
+    followers: 14067
+    engagement: 1495
+    commentsToLikes: 0.396927
+    id: ck9hbrzaqi6iw0j78cuznesd4
+    verified: false
+    hashtags: "#sydneybeaches, #sydneybeach, #hotellife, #lighthouse"
+  - username: "lakotaajohnson"
+    fullname: >-
+      Lakota 🐒
+    location: "Australia"
+    followers: 233761
+    engagement: 1463
+    commentsToLikes: 0.052054
+    id: ck5pz6ygfzit90i11p2m4e0y3
+    verified: false
+    hashtags: "#suspiciousantwerppartner, #pumaau, #outfit"
 cities:
   - name: Sydney
     link: /instagram/australia/sydney

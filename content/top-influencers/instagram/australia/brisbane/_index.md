@@ -1,106 +1,106 @@
 ---
 title: Top 10 Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top Instagram influencers in Brisbane in 2020. Most popular hashtags: #mybrisbane #australia #queensland #modellife.
+  Find top Instagram influencers in Brisbane in 2020. Most popular hashtags: # #supportlocal #goldcoast #australia.
 platform: Instagram
 profiles:
-  - username: "charlotttelacey"
-    fullname: >-
-      Binks
-    location: "Australia"
-    followers: 7685
-    engagement: 991
-    commentsToLikes: 0.017102
-    id: ck0ud7gz2iilw0i19mswn76s8
-    verified: false
-    hashtags: "#letan, #uberdark, #uberstay, #backwards"
   - username: "hxodu"
     fullname: >-
       hd | Australia
     location: "Australia"
-    followers: 5210
-    engagement: 1154
-    commentsToLikes: 0.145399
+    followers: 5154
+    engagement: 1169
+    commentsToLikes: 0.145359
     id: ck5q5xw38v2sz0i11yyt3wa7w
     verified: false
-    hashtags: "#visitqueensland, #puregoldcoast, #droneglobe, #lifewelltravelled"
+    hashtags: "#mybrisbane, #nsw, #destinationgoldcoast, #takemetoaustralia"
   - username: "brisbane"
     fullname: >-
       @BRISBANE
     location: "Australia"
-    followers: 103462
-    engagement: 251
-    commentsToLikes: 0.024833
+    followers: 103163
+    engagement: 239
+    commentsToLikes: 0.053180
     id: ck0vvol3uq2010i19y8idrc27
     verified: false
-    hashtags: "#mybrisbane"
+    hashtags: "#preservativefree, #noaddedsugar, #mybrisbane, #supportlocal"
   - username: "lakotaajohnson"
     fullname: >-
       Lakota 🐒
     location: "Australia"
-    followers: 239751
-    engagement: 1477
-    commentsToLikes: 0.049182
+    followers: 233761
+    engagement: 1463
+    commentsToLikes: 0.052054
     id: ck5pz6ygfzit90i11p2m4e0y3
     verified: false
-    hashtags: "#pumaau, #ad, #outfit, #suspiciousantwerppartner"
-  - username: "isabella_fiori"
+    hashtags: "#suspiciousantwerppartner, #pumaau, #outfit"
+  - username: "morgsfit"
     fullname: >-
-      BELLA
+      Morgan Dor | Fitness Model
     location: "Australia"
-    followers: 654455
-    engagement: 940
-    commentsToLikes: 0.020958
-    id: ck0u8gh2d7dun0i190vaob39x
-    verified: false
-    hashtags: "#easybreezybeautiful, #covergirlau, #covergirlcrueltyfree, #easybreezybeautiful"
-  - username: "saltysaif"
-    fullname: >-
-      SAIF PHOTOGRAPHY
-    location: "Australia"
-    followers: 5290
-    engagement: 1125
-    commentsToLikes: 0.132931
-    id: ck6tor51xfmnt0j71sf3bpnbu
+    followers: 5749
+    engagement: 1852
+    commentsToLikes: 0.086208
+    id: ck9haszqte0200j78nmeaj38h
     verified: false
     hashtags: ""
+  - username: "jennybeeen"
+    fullname: >-
+      Jenny Blenk | Content Creator
+    location: "Australia"
+    followers: 5399
+    engagement: 1281
+    commentsToLikes: 0.331764
+    id: ck5honakipv940i114q4oggvy
+    verified: false
+    hashtags: "#photoshoot, #brisbanenanny, #giveaway, #outfitgoals"
+  - username: "candice3lise__"
+    fullname: >-
+      CANDICE 🦋
+    location: "Australia"
+    followers: 10509
+    engagement: 984
+    commentsToLikes: 0.389739
+    id: ckap42c1b5j8i0i78100qqryc
+    verified: false
+    hashtags: "#dairyfree, #cashew, #missyempire, #dessert"
+  - username: "samanthaburyy"
+    fullname: >-
+      S A M A N T H A   B U R Y
+    location: "Australia"
+    followers: 48271
+    engagement: 1459
+    commentsToLikes: 0.030346
+    id: ck6tyauq32nlk0j71n70nlpwa
+    verified: false
+    hashtags: "#loungeunderwear, #28dayisochallenge, #glassons, #fitazfk"
   - username: "lindsayxlinay"
     fullname: >-
       
     location: "Australia"
-    followers: 8383
-    engagement: 921
-    commentsToLikes: 0.088082
+    followers: 9043
+    engagement: 895
+    commentsToLikes: 0.074947
     id: ck5cj4p0qtz3l0i114cbacz7j
     verified: false
-    hashtags: "#wildlands, #oscarwylee, #selfisolating"
-  - username: "miss_gemma_fied"
+    hashtags: "#selfisolating, #oneempirebabe, #oscarwylee"
+  - username: "erika_gage"
     fullname: >-
-      💥 GEMMA KARSTEN 💥
+      ERIKA GAGE
     location: "Australia"
-    followers: 76688
-    engagement: 367
-    commentsToLikes: 0.045317
-    id: ck135veo63f9k0i19bb3sk3gl
+    followers: 12067
+    engagement: 808
+    commentsToLikes: 0.088531
+    id: ck0w57kv52aff0i1973xztsc8
     verified: false
-    hashtags: "#sisters, #reunited, #thoseeyes, #hmua"
-  - username: "jade.syrett"
-    fullname: >-
-      JADE
-    location: "Australia"
-    followers: 50814
-    engagement: 333
-    commentsToLikes: 0.059239
-    id: ck13a1y82o8060i19gci5msnb
-    verified: false
-    hashtags: "#brisbanemodel, #portraitmood, #nightout, #sport"
+    hashtags: ""
   - username: "charlotte.thompson"
     fullname: >-
       char ♡
     location: "Australia"
-    followers: 26535
-    engagement: 368
-    commentsToLikes: 0.068470
+    followers: 26232
+    engagement: 377
+    commentsToLikes: 0.071655
     id: ck0vwfn7jtgm20i191omvipcr
     verified: false
     hashtags: ""

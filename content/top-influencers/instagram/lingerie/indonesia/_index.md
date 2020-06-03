@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top lingerie Instagram influencers in Indonesia in 2020. Most popular hashtags: #bali #balimodel #balilife #model.
+  Find top lingerie Instagram influencers in Indonesia in 2020. Most popular hashtags: #bali #lingeriemodel # #workout.
 platform: Instagram
 profiles:
+  - username: "killer_katrin"
+    fullname: >-
+      Ekaterina Novikova
+    location: "Indonesia"
+    followers: 945655
+    engagement: 820
+    commentsToLikes: 0.009961
+    id: ck9wicbu51oj90j787n8g0fdf
+    verified: false
+    hashtags: ""
   - username: "taniafrisca_"
     fullname: >-
       T A N I A F D Z R🌻
     location: "Indonesia"
-    followers: 4160
-    engagement: 2070
-    commentsToLikes: 0.051212
+    followers: 4236
+    engagement: 2085
+    commentsToLikes: 0.051891
     id: ck6udfffaks2h0j71f0qnbowl
     verified: false
-    hashtags: "#fotograferkfm, #kfm6thanniversary, #kfmupdate, #lfl"
+    hashtags: "#kfmupdete, #kfm6th, #kfm, #fotograferkfm"
+  - username: "olya_seteykina"
+    fullname: >-
+      𝓞𝓵𝓰𝓪 𝓢𝓮𝓽𝓮𝔂𝓴𝓲𝓷𝓪
+    location: "Indonesia"
+    followers: 646660
+    engagement: 158
+    commentsToLikes: 0.022838
+    id: ck15ukq2cnnnr0i19x24heffx
+    verified: false
+    hashtags: ""
   - username: "jaydekemp12"
     fullname: >-
       jaydekemp12
     location: "Indonesia"
-    followers: 9377
-    engagement: 734
-    commentsToLikes: 0.033278
+    followers: 9303
+    engagement: 743
+    commentsToLikes: 0.033644
     id: ck5hjgegdgkxt0i11fwbj91ae
     verified: false
-    hashtags: "#longhairdontcare, #balilife, #hai, #weekendgym"
+    hashtags: "#gymdaily, #allblackeverything, #luxuryhotel, #ithinkimturningjapanese"
   - username: "gophotoshoot"
     fullname: >-
       PAULIUS STEFANOVICIUS | BALI 🌴
     location: "Indonesia"
-    followers: 11567
-    engagement: 450
-    commentsToLikes: 0.017093
+    followers: 11491
+    engagement: 808
+    commentsToLikes: 0.012757
     id: ck15pqq5wz6q30i19vxqlyqh6
     verified: false
-    hashtags: "#ubudvilla, #holiday, #travelinspo, #photographybali"
-  - username: "bondaumirahtaib"
-    fullname: >-
-      Director of Le Maream
-    location: "Indonesia"
-    followers: 27431
-    engagement: 235
-    commentsToLikes: 0.026814
-    id: ck5q0y5wz8bxx0i11jxgm2ggi
-    verified: false
-    hashtags: "#maryamfatimah, #shoppingbagforketuakeluarga, #letstaat, #jangangelakkangambarkita"
+    hashtags: "#walkforfreedom, #artphotographer, #freeworld, #balibagus"
   - username: "raygene_coco"
     fullname: >-
       
     location: "Indonesia"
-    followers: 5215
-    engagement: 1596
-    commentsToLikes: 0.037615
+    followers: 5627
+    engagement: 1717
+    commentsToLikes: 0.041958
     id: ck55k6euuyl180i1166eqdlq2
     verified: false
-    hashtags: "#caferacergirls, #ridemotorcycleshavefun, #w175indonesia, #canon7dmark2"
+    hashtags: "#motolifestyle, #kawasakiw175, #customgirls, #caferacer"
+  - username: "margarala"
+    fullname: >-
+      Margarita Kamenskaya
+    location: "Indonesia"
+    followers: 32218
+    engagement: 149
+    commentsToLikes: 0.137094
+    id: ck0w3e9clsyms0i19apinsp8u
+    verified: false
+    hashtags: "#makeupideas, #actresshot, #makeupcampaign, #covid19"
+  - username: "hanickach"
+    fullname: >-
+      Ing. Hana Chomaničová
+    location: "Indonesia"
+    followers: 58029
+    engagement: 306
+    commentsToLikes: 0.025750
+    id: ck5q229kfdx5k0i11qkkir2wo
+    verified: false
+    hashtags: "#relaxworld, #bezlepku, #glamourshots, #czechmodel"
   - username: "yvettedewit"
     fullname: >-
       Yvette de Wit
     location: "Indonesia"
-    followers: 3245
-    engagement: 1890
-    commentsToLikes: 0.124528
+    followers: 3296
+    engagement: 1924
+    commentsToLikes: 0.121339
     id: ck6tss3gu6izh0j71oqmm4q21
     verified: false
-    hashtags: "#flowerbath, #treehouse, #cyclades, #natgeo"
-  - username: "alexinkaru"
+    hashtags: "#lingeriemodel, #iosgreece, #santorini, #sailing"
+  - username: "jessicaashlee25"
     fullname: >-
-      Marta Alexandrovna T / Bali 🏝
+      Jessica Ashlee
     location: "Indonesia"
-    followers: 7277
-    engagement: 653
-    commentsToLikes: 0.055297
-    id: ck5zyggo39uay0i14pou1p1ry
+    followers: 41512
+    engagement: 571
+    commentsToLikes: 0.029741
+    id: ck5cjha1huq0e0i11mje4ramq
     verified: false
-    hashtags: "#instaday, #seekthetrails, #exploreindonesia, #omniabali"
-  - username: "lalinderosa"
-    fullname: >-
-      Rosalinde | Bali Model
-    location: "Indonesia"
-    followers: 25351
-    engagement: 262
-    commentsToLikes: 0.035581
-    id: ck0tz3k35p1qs0i19cswxpk9v
-    verified: false
-    hashtags: "#mood, #vegangirl, #vegansofig, #travelpost"
-  - username: "cobracow"
-    fullname: >-
-      Photographer
-    location: "Indonesia"
-    followers: 24691
-    engagement: 280
-    commentsToLikes: 0.021024
-    id: ck5hfcxtqwwfc0i11fjo8re7k
-    verified: false
-    hashtags: "#modelphotography, #bali, #beauty, #throwback"
-  - username: "joshi.dio69"
-    fullname: >-
-      Joshua Dio | 约书亚
-    location: "Indonesia"
-    followers: 44645
-    engagement: 62
-    commentsToLikes: 0.034633
-    id: ck0tz9a2gpl9l0i19aylolf6a
-    verified: false
-    hashtags: "#sexyasians, #sexy, #themungilz, #lingerie"
+    hashtags: "#xbox, #instadogs, #goals, #inkedup"
 ---

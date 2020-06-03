@@ -1,46 +1,46 @@
 ---
 title: Top 10 Cinema Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top cinema Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #zurich #swiss #ig.
+  Find top cinema Instagram influencers in Switzerland in 2020. Most popular hashtags: #cinematography #quarantine #nature #letsgo.
 platform: Instagram
 profiles:
-  - username: "ligiabaleeiro"
-    fullname: >-
-      Lígia Baleeiro
-    location: "Switzerland"
-    followers: 17347
-    engagement: 382
-    commentsToLikes: 0.054926
-    id: ck1391e21j1ut0i190z1hu3n3
-    verified: false
-    hashtags: "#bern, #ficaemcasa, #pinterest, #myswitzerland"
   - username: "ian_hanninen"
     fullname: >-
       IAN MEDIA
     location: "Switzerland"
-    followers: 6820
-    engagement: 2219
-    commentsToLikes: 0.037547
+    followers: 7328
+    engagement: 2142
+    commentsToLikes: 0.037340
     id: ck5hge77a2bcx0i11rpphrjol
     verified: false
-    hashtags: "#audilove, #bmwlove, #turbo, #bmwinsta"
+    hashtags: "#bmwclub, #rslove, #mk6gti, #airride"
+  - username: "ligiabaleeiro"
+    fullname: >-
+      Lígia Baleeiro
+    location: "Switzerland"
+    followers: 17415
+    engagement: 384
+    commentsToLikes: 0.056073
+    id: ck1391e21j1ut0i190z1hu3n3
+    verified: false
+    hashtags: "#schweiz, #igerssuisse, #amor, #super"
   - username: "nicopinacalvin"
     fullname: >-
       Nicolás Pina
     location: "Switzerland"
-    followers: 5339
-    engagement: 785
-    commentsToLikes: 0.037538
+    followers: 5342
+    engagement: 802
+    commentsToLikes: 0.037720
     id: ck6u9d12pwuk00j7118o8dobg
     verified: false
-    hashtags: "#desert, #surfing, #surfer, #rbi19wac"
+    hashtags: "#adventure, #surfexploration, #sahara, #surfing"
   - username: "pandafpv"
     fullname: >-
       Platon Maksimov
     location: "Switzerland"
-    followers: 3218
-    engagement: 1003
-    commentsToLikes: 0.086934
+    followers: 3827
+    engagement: 1038
+    commentsToLikes: 0.081521
     id: ck8swxpqafl350j78hisds5rj
     verified: false
     hashtags: ""
@@ -48,60 +48,60 @@ profiles:
     fullname: >-
       Lukas "Blume" Rösli
     location: "Switzerland"
-    followers: 2448
-    engagement: 1352
-    commentsToLikes: 0.049373
+    followers: 2440
+    engagement: 1369
+    commentsToLikes: 0.049752
     id: ck6ua3h3f19j90j71vzgohqf9
     verified: false
-    hashtags: "#panasonic, #thecrapshowlaax, #thecrapshow, #decade"
-  - username: "carole_dechantre"
+    hashtags: "#abadoned, #underground, #raw, #2020"
+  - username: "ksenia_dzhalaganiya"
     fullname: >-
-      Carole Dechantre
+      KSENIA
     location: "Switzerland"
-    followers: 32739
-    engagement: 783
-    commentsToLikes: 0.073259
-    id: ck137x86kdi120i19ymim9u6n
-    verified: false
-    hashtags: "#switzerland, #actrice, #altmannsports, #neige"
-  - username: "iamdario__"
+    followers: 1011510
+    engagement: 173
+    commentsToLikes: 0.024669
+    id: ck0vx2qynwuuo0i199t78crfn
+    verified: true
+    hashtags: "#istanbulpage, #gymnastics, #takemeback, #dolomitesitaly"
+  - username: "nicole_berchtold"
     fullname: >-
-      Dario
+      Nicole Berchtold 🇨🇭
     location: "Switzerland"
-    followers: 5878
-    engagement: 1754
-    commentsToLikes: 0.234708
-    id: ck600uhypeamm0i14y8imlgv4
+    followers: 7048
+    engagement: 771
+    commentsToLikes: 0.037513
+    id: ck6trm9pozt080j71qcwltmbd
     verified: false
-    hashtags: "#trip, #jordan1club, #visuals, #sicko"
-  - username: "___c.a.r.i.n.a.___"
+    hashtags: "#sabinechallenge, #sabine, #tuesday, #radio"
+  - username: "kariemhussein"
     fullname: >-
-      Carina
+      Kariem Hussein
     location: "Switzerland"
-    followers: 5586
-    engagement: 1246
-    commentsToLikes: 0.238969
-    id: ck8szi5obojbq0j78q1yetewc
+    followers: 17138
+    engagement: 677
+    commentsToLikes: 0.014609
+    id: ck5zoaosiq4u40i149y1oqs1s
     verified: false
-    hashtags: "#makeup, #confiserie, #flatlaytoday, #woman"
-  - username: "leafreundleafreund"
+    hashtags: "#talk, #fullfocus, #warmup, #austria"
+  - username: "bertiweber"
     fullname: >-
-      Lea Freund
+      Photo & Film Services
     location: "Switzerland"
-    followers: 2173
-    engagement: 1453
-    commentsToLikes: 0.035072
-    id: ck6ubwgmec3ne0j71g0edmy0s
+    followers: 2457
+    engagement: 2530
+    commentsToLikes: 0.181676
+    id: ck6topt5ofey20j71ziy6j8h1
     verified: false
-    hashtags: "#natur, #weihnachten, #featurefilm, #losangeles"
-  - username: "cemerk85"
+    hashtags: "#caplover, #switzerland, #winterzauber, #flims"
+  - username: "bornofdustandstone"
     fullname: >-
-      Cemil Erkoc • Zurich •
+      Sam Veyre
     location: "Switzerland"
-    followers: 10143
-    engagement: 1322
-    commentsToLikes: 0.040841
-    id: ck5c7lixe7r5u0i11d03yb8ud
+    followers: 8982
+    engagement: 1301
+    commentsToLikes: 0.057495
+    id: ck9ha2ivbavdx0j78hc64ui2o
     verified: false
-    hashtags: "#hellozurich, #exclusive, #carnival, #church"
+    hashtags: "#createcommune, #dreamermagazine, #outdoortones, #takayama"
 ---

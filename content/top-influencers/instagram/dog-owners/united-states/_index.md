@@ -1,107 +1,107 @@
 ---
 title: Top 10 Dog Owners Instagram Influencers In United States In 2020
 description: >-
-  Find top dog owners Instagram influencers in United States in 2020. Most popular hashtags: #selfie #petstagram #cute #ananonymousgirl.
+  Find top dog owners Instagram influencers in United States in 2020. Most popular hashtags: #stunning #hinchedhome #homemade #beautyblender.
 platform: Instagram
 profiles:
-  - username: "alexjaybeauty"
+  - username: "thealexjay"
     fullname: >-
       Alex Jay
     location: "United States"
-    followers: 20045
-    engagement: 930
-    commentsToLikes: 0.041866
+    followers: 19851
+    engagement: 938
+    commentsToLikes: 0.048400
     id: ck136zzcf93wx0i198w9jblr2
     verified: false
-    hashtags: "#getlemonhead, #gaycub, #bestfriends, #mylove"
+    hashtags: "#coachella, #beautyblender, #brighteyes, #lemonhead"
   - username: "emilyhatfield"
     fullname: >-
       Emily Hatfield
     location: "United States"
-    followers: 10731
-    engagement: 748
-    commentsToLikes: 0.013353
+    followers: 10699
+    engagement: 698
+    commentsToLikes: 0.013105
     id: ck5zrnfdbwwre0i14wcpfu7mw
     verified: false
-    hashtags: "#netflixcheer, #navarrocheer, #voteearly, #internationalwomensday"
+    hashtags: "#nationalbulldogsarebeautifulday, #starwarsday, #maythe4thbewithyou, #repost"
+  - username: "rochelles_canterbury"
+    fullname: >-
+      Rochelle Tollervey
+    location: "United States"
+    followers: 5176
+    engagement: 1122
+    commentsToLikes: 0.389643
+    id: ckaow7fg67qzm0i78k39jncnz
+    verified: false
+    hashtags: "#planter, #coronavirus, #roominspiration, #checkitout"
   - username: "therealenver"
     fullname: >-
       Enver Gjokaj
     location: "United States"
-    followers: 14140
-    engagement: 1313
-    commentsToLikes: 0.018882
+    followers: 19105
+    engagement: 1368
+    commentsToLikes: 0.020991
     id: ck6tz16cc71yz0j71e9jk5vgd
     verified: true
-    hashtags: "#sawyer, #mansbestfriend, #wonkyeye, #mutt"
+    hashtags: "#mutt, #happyeaster, #fall, #fireindreamland"
   - username: "brianposehn"
     fullname: >-
       Brian Posehn
     location: "United States"
-    followers: 56920
-    engagement: 372
-    commentsToLikes: 0.029295
+    followers: 57458
+    engagement: 474
+    commentsToLikes: 0.029203
     id: ck6ucxp38i0a90j71rmjz69sc
     verified: false
-    hashtags: "#bert, #washyourhands, #themandalorian, #bigbangtheory"
+    hashtags: "#mrshowlive, #bigbangtheory, #bert, #washyourhands"
   - username: "aw"
     fullname: >-
       Allison Williams
     location: "United States"
-    followers: 897972
-    engagement: 455
-    commentsToLikes: 0.010762
+    followers: 893210
+    engagement: 463
+    commentsToLikes: 0.010674
     id: ck0vwoab0urwg0i19plm1fp2y
     verified: true
-    hashtags: "#oscars2018, #moxiesayshi, #shoulderpads, #thisisalmost30"
+    hashtags: "#moxiesayshi, #shoulderpads, #thisisalmost30, #asoue"
   - username: "caseyhphotos"
     fullname: >-
       Casey Hendrickson
     location: "United States"
-    followers: 29473
-    engagement: 8
-    commentsToLikes: 0.072667
+    followers: 29163
+    engagement: 10
+    commentsToLikes: 0.064769
     id: ck14huexfc7060i1916qd8x1s
     verified: false
-    hashtags: "#carolinabride, #smpweddings, #ashevilleweddingphotographer, #buzzfeedweddings"
-  - username: "carminedisibio"
+    hashtags: "#cincodemayo"
+  - username: "valentimes"
     fullname: >-
-      Carmine Di Sibio
+      Amanda Valentine
     location: "United States"
-    followers: 9121
-    engagement: 864
-    commentsToLikes: 0.014291
-    id: ck137e5bdb37m0i19z5ci9vln
+    followers: 41967
+    engagement: 237
+    commentsToLikes: 0.031517
+    id: ckap95lxlr91e0i78d8e8cgrq
     verified: true
-    hashtags: "#shebelongs, #iwd2020, #coffee, #ucl"
-  - username: "jsliceanimation"
+    hashtags: "#youngestchild, #ilysm4artists, #4creativesbycreatives, #ilysm4artistsweek3"
+  - username: "carleemcdot"
     fullname: >-
-      Joshua Slice
+      Carlee McDot
     location: "United States"
-    followers: 192126
-    engagement: 830
-    commentsToLikes: 0.006461
-    id: ck15ugaubn1lz0i19beew9qs7
-    verified: true
-    hashtags: ""
-  - username: "greerhendricks"
-    fullname: >-
-      Greer Hendricks
-    location: "United States"
-    followers: 3876
-    engagement: 823
-    commentsToLikes: 0.111398
-    id: ck6uajkyr3xdq0j71f266d3wk
-    verified: true
-    hashtags: "#yana, #goodreadschoiceawards, #theperksofbeingawallflower, #newreleasetuesday"
-  - username: "dog.lovers.squad"
-    fullname: >-
-      Dog Memes And Hacks!
-    location: "United States"
-    followers: 14221
-    engagement: 328
-    commentsToLikes: 0.003701
-    id: ck14h63x48q280i19htkpbfm1
+    followers: 39675
+    engagement: 134
+    commentsToLikes: 0.053553
+    id: ckap7k4ezkevh0i78k32ozpn0
     verified: false
-    hashtags: "#australianshepherd, #hund, #quarantine, #whitedog"
+    hashtags: "#herocksmysocks, #found, #eastcoastvswestcoast, #covid"
+  - username: "govmlg"
+    fullname: >-
+      Gov. Michelle Lujan Grisham
+    location: "United States"
+    followers: 8324
+    engagement: 870
+    commentsToLikes: 0.164551
+    id: ckap0h7zzq9zw0i787ra3zcy5
+    verified: true
+    hashtags: "#istayhomefor, #nationalsiblingsday, #internationalwomensday"
 ---

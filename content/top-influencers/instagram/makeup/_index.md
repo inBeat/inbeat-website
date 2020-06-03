@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In 2020
 description: >-
-  Find top makeup Instagram influencers in 2020. Most popular hashtags: #colourpop #makeup #anastasiabeverlyhills #makeuptutorial.
+  Find top makeup Instagram influencers in 2020. Most popular hashtags: #konkurs #eveline #glammakeup #makijaz.
 platform: Instagram
 profiles:
-  - username: "julie_love3"
+  - username: "cliodhnamclaughlin_"
     fullname: >-
-      Juliet
+      Clíodhna McLaughlin
+    location: "United Kingdom"
+    followers: 4098
+    engagement: 4486
+    commentsToLikes: 0.322169
+    id: ckaosd9ver5qp0i78rz666fu9
+    verified: false
+    hashtags: "#femalefamily, #myloungelife, #plt, #isawitfirst"
+  - username: "sweetlifefitlife"
+    fullname: >-
+      SweetlifeFitlife
+    location: "Austria"
+    followers: 17485
+    engagement: 3222
+    commentsToLikes: 0.096802
+    id: ckaovirdf4q6y0i7802di5s71
+    verified: false
+    hashtags: "#modelsearch, #tshirtoftheday, #moodday, #springdays"
+  - username: "jewska.makeup"
+    fullname: >-
+      Jewska Makeup
+    location: "Poland"
+    followers: 4096
+    engagement: 3129
+    commentsToLikes: 0.183269
+    id: ck5qdwruaxnx10i113sbecb9m
+    verified: false
+    hashtags: "#flatlaypoland, #wibo, #zmalowyzwanie, #makeuppoland"
+  - username: "natalkaa_beauty"
+    fullname: >-
+      ✨Natalia Stelmach✨(3,5k)
     location: "United States"
-    followers: 8750
-    engagement: 1863
-    commentsToLikes: 0.141864
-    id: ck5zpxetbtjcl0i14dy4nezdj
+    followers: 3513
+    engagement: 2787
+    commentsToLikes: 0.167101
+    id: ck8t3e5g62xbt0j787kplm4tl
+    verified: false
+    hashtags: "#quarantinelife, #poland, #collab, #makeupgiveaway"
+  - username: "jennseren"
+    fullname: >-
+      Jen Seren
+    location: "United Kingdom"
+    followers: 17585
+    engagement: 2441
+    commentsToLikes: 0.113329
+    id: ck6uai1xi3o4s0j71tijk15jw
+    verified: false
+    hashtags: "#tattooshop, #dropit, #zodiacmakeup, #tattoos"
+  - username: "helenacoelhooo"
+    fullname: >-
+      𝐇 𝐄 𝐋 𝐄 𝐍 𝐀  𝐂 𝐎 𝐄 𝐋 𝐇 𝐎
+    location: "Brazil"
+    followers: 455499
+    engagement: 2440
+    commentsToLikes: 1.664794
+    id: ck0u0az0ut4qf0i19ylg3kdyp
+    verified: false
+    hashtags: "#foreoportugal, #ikeaportugal, #hboportugal, #pub"
+  - username: "bhupinder_19"
+    fullname: >-
+      🌈Bhupinder Kaur🦄
+    location: "India"
+    followers: 6488
+    engagement: 2384
+    commentsToLikes: 0.089619
+    id: ckaov56z033sp0i78y2hqb5vd
+    verified: false
+    hashtags: "#pinkmakeuplooks, #instadailypost, #quarantinelife, #stylingvideo"
+  - username: "brinkleybaglin"
+    fullname: >-
+      🦋𝕭𝖗𝖎𝖓𝖐𝖑𝖊𝖞 𝕭𝖆𝖌𝖑𝖎𝖓🦋
+    location: ""
+    followers: 5565
+    engagement: 1902
+    commentsToLikes: 0.442850
+    id: ck8tcvb6y0tm50j785euc6oau
+    verified: false
+    hashtags: "#filters, #leopardprint, #teethwhitening, #song"
+  - username: "paradisedapree"
+    fullname: >-
+      Paradise Dapree
+    location: "United States"
+    followers: 9340
+    engagement: 1841
+    commentsToLikes: 0.114620
+    id: ck9hadynic6tu0j78xt018iuo
     verified: false
     hashtags: ""
-  - username: "alexaraemua"
+  - username: "wielzi"
     fullname: >-
-      🌈Alexa Nicoletti🌈
-    location: "United States"
-    followers: 34678
-    engagement: 810
-    commentsToLikes: 0.103857
-    id: ck5pxdk2pr9so0i11sk8gy9yo
+      Oktawia (7,4k) • MUA • beauty
+    location: "Poland"
+    followers: 7450
+    engagement: 1824
+    commentsToLikes: 0.164795
+    id: ck5hhe13t7qpr0i11v5n8o27k
     verified: false
-    hashtags: "#makeuplover, #hudabeauty, #hauslabseyeliener, #hudabeautyshop"
-  - username: "fakhiarif"
-    fullname: >-
-      Fakhia Arif| Beauty Influencer
-    location: "United States"
-    followers: 11733
-    engagement: 1367
-    commentsToLikes: 0.239167
-    id: ck14l4njssu100i19kncgg6mm
-    verified: false
-    hashtags: "#cutcreasetutorial, #anastasiabrows, #pinklips, #tutorialmakeup"
-  - username: "masa_babyyy"
-    fullname: >-
-      Princess Masa❤️😩
-    location: "United States"
-    followers: 10059
-    engagement: 1324
-    commentsToLikes: 0.064390
-    id: ck14kzt1us5dv0i19bk9uqgda
-    verified: false
-    hashtags: "#itook1000pictures, #fashionnova, #stayathomechallenge, #gavemyselfaphotoshoot"
-  - username: "theseatednurse"
-    fullname: >-
-      Andrea Dalzell
-    location: "United States"
-    followers: 5553
-    engagement: 1563
-    commentsToLikes: 0.078235
-    id: ck135xn9b3rah0i19dl82lskv
-    verified: false
-    hashtags: "#nevergiveup, #nursingschool, #makeitanywhere, #wheelchair"
-  - username: "daisymarquez_"
-    fullname: >-
-      DAISY MARQUEZ 🇲🇽
-    location: "United States"
-    followers: 1639100
-    engagement: 1338
-    commentsToLikes: 0.025231
-    id: ck0vzkl1v9k830i19vlurpeqz
-    verified: true
-    hashtags: "#beautyuncomplicated, #ad, #bigbrowenergy"
-  - username: "makeupbypita"
-    fullname: >-
-      Lupita
-    location: "United States"
-    followers: 137437
-    engagement: 1840
-    commentsToLikes: 0.083426
-    id: ck0vv5hz8nn3i0i19n3s9ejgo
-    verified: false
-    hashtags: "#momblogger, #pregnantbelly, #instagood, #lagirlcosmetics"
-  - username: "spencermakeup"
-    fullname: >-
-      Spencer Makeup (Adrianna) 💋
-    location: "United States"
-    followers: 8270
-    engagement: 1651
-    commentsToLikes: 0.119781
-    id: ck0tyzvwsoktu0i19r7wz5hfx
-    verified: false
-    hashtags: "#laurag, #halloweenmakeup, #norvinanavy, #haloeyeshadow"
-  - username: "itskitsovain"
-    fullname: >-
-      👄Miss Kitty Sovain👄
-    location: "United States"
-    followers: 622136
-    engagement: 824
-    commentsToLikes: 0.027829
-    id: ck0tw32q1dt850i19k2v9fwwf
-    verified: false
-    hashtags: "#whatdidkittydonow, #sovainbeauty, #ilovemesomeme, #selfloveisthebestlove"
-  - username: "maltanska_"
-    fullname: >-
-      💄Malwina 💄
-    location: "United Kingdom"
-    followers: 7885
-    engagement: 1677
-    commentsToLikes: 0.167492
-    id: ck135bzbc0q440i19hx8ps58b
-    verified: false
-    hashtags: "#sparkles, #miyosisters, #houseoflashes, #details"
+    hashtags: "#makeupaddict, #norvinapalette, #makeup, #eyelineronpoint"
 ---

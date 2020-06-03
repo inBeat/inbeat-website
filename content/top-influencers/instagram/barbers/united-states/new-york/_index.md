@@ -1,107 +1,107 @@
 ---
 title: Top 10 Barbers Instagram Influencers In New York In 2020
 description: >-
-  Find top barbers Instagram influencers in New York in 2020. Most popular hashtags: #barber #barbershopconnect #photography #barbershop.
+  Find top barbers Instagram influencers in New York in 2020. Most popular hashtags: #barber #newyork #nastybarbers #barberlove.
 platform: Instagram
 profiles:
-  - username: "ezzy_el_barber"
+  - username: "brundenlong"
     fullname: >-
-      ғᴀᴅᴇ ɢᴀᴡᴅ💈
+      Brunden Long
     location: "United States"
-    followers: 41721
-    engagement: 178
-    commentsToLikes: 0.071440
-    id: ck5bw34w4kwra0i11x1azjs8k
+    followers: 28293
+    engagement: 136
+    commentsToLikes: 0.087452
+    id: ck13585sx06fk0i19os2md1w8
     verified: false
-    hashtags: "#herdaddy, #yogotti, #delawarebarber, #king"
-  - username: "tomgossmusic"
-    fullname: >-
-      Tom Goss
-    location: "United States"
-    followers: 34624
-    engagement: 261
-    commentsToLikes: 0.036009
-    id: ck55mjf8e43ju0i11mdrbfh4q
-    verified: false
-    hashtags: "#photoshoot, #modelagency, #thankful, #gayinstagram"
-  - username: "where_is_ethan4"
-    fullname: >-
-      Ethan Emilo Guzman
-    location: "United States"
-    followers: 41217
-    engagement: 173
-    commentsToLikes: 0.018168
-    id: ck0u75qfv3vii0i19nd1pwbl9
-    verified: false
-    hashtags: "#nyc, #repost, #reebok, #dominican"
-  - username: "noelblends"
-    fullname: >-
-      San Antonio Barber • Noel
-    location: "United States"
-    followers: 21916
-    engagement: 611
-    commentsToLikes: 0.013325
-    id: ck5q8qfy77hre0i11nvzefunp
-    verified: false
-    hashtags: "#barberrussia, #miamibarber, #texasbarber, #womenshair"
-  - username: "omithebarber_"
-    fullname: >-
-      Omar Peña  🌴🇵🇷
-    location: "United States"
-    followers: 60142
-    engagement: 81
-    commentsToLikes: 0.052850
-    id: ck5c7xtd28eet0i118ygwvruf
-    verified: false
-    hashtags: "#omithebarber, #repost, #barbershopflow, #wshh"
-  - username: "shiryzie"
-    fullname: >-
-      S H I R Y
-    location: "United States"
-    followers: 14815
-    engagement: 951
-    commentsToLikes: 0.100840
-    id: ck5hoydikqg860i115r5xhedf
-    verified: false
-    hashtags: "#suga, #do, #dontrush, #dontrushchallenge"
-  - username: "z_ramsey"
-    fullname: >-
-      Zach Ramsey
-    location: "United States"
-    followers: 37376
-    engagement: 306
-    commentsToLikes: 0.057195
-    id: ck14ivdbihbqr0i1961uk4c38
-    verified: false
-    hashtags: "#shag, #clothes, #btconeshot2020, #btcbigshot2020"
+    hashtags: "#designer, #friends, #mombosslife, #style"
   - username: "yanielbarber"
     fullname: >-
       𝐘𝐀𝐍𝐈𝐄𝐋 𝐁𝐀𝐑𝐁𝐄𝐑
     location: "United States"
-    followers: 31883
-    engagement: 96
-    commentsToLikes: 0.052200
+    followers: 31904
+    engagement: 121
+    commentsToLikes: 0.057508
     id: ck5c6etxw5ajn0i11dfvoumei
     verified: false
-    hashtags: "#barbeiro, #baldingnomore, #nationalfadeleague, #queensny"
-  - username: "abelthebarber"
+    hashtags: "#phillybarbers, #supreme, #haircutboys, #queensny"
+  - username: "jesse.elite87"
     fullname: >-
-      Abel Hernandez
+      Chicago Barber/influencer 🇲🇽
     location: "United States"
-    followers: 17117
-    engagement: 567
-    commentsToLikes: 0.029387
-    id: ck15rspkg9ia20i19y65rx7xa
+    followers: 258382
+    engagement: 176
+    commentsToLikes: 0.023536
+    id: ck13873xket3u0i19zgadt5mw
     verified: false
-    hashtags: "#hairstyle, #curls, #menshairworld, #butterfade"
-  - username: "diego_djdgaf"
+    hashtags: "#jaguarxjv8, #barberlove, #newyorkcitylife, #skate"
+  - username: "elnene_style"
     fullname: >-
-      Diego Elizarraras ✪
+      e͆l͆n͆e͆n͆e͆_s͆t͆y͆l͆e͆
     location: "United States"
-    followers: 148055
-    engagement: 121
-    commentsToLikes: 0.056632
-    id: ck6tp1jkyhbfg0j71af8ewr3i
+    followers: 55482
+    engagement: 58
+    commentsToLikes: 0.021680
+    id: ck139r3exmq0q0i1928pxql7p
     verified: false
-    hashtags: "#sandiego, #kobebryant, #gucci, #portland"
+    hashtags: "#barbar, #grishko, #freestylewrestling, #monteverde"
+  - username: "stephenmdupont"
+    fullname: >-
+      Stephen Dupont
+    location: "United States"
+    followers: 17397
+    engagement: 240
+    commentsToLikes: 0.013321
+    id: ck5zjmqkfhv3o0i14n7cisfha
+    verified: false
+    hashtags: "#generationak, #buyarthelpkids, #custom, #geofrance"
+  - username: "adrianfanus"
+    fullname: >-
+      Adrian Fanus
+    location: "United States"
+    followers: 45334
+    engagement: 201
+    commentsToLikes: 0.142251
+    id: ck13ba4hdufuj0i19xl0drvvg
+    verified: false
+    hashtags: "#beard, #faded, #barbering, #thecutlifemen"
+  - username: "pancakes.and.protein.shakes"
+    fullname: >-
+      💥YOU ALREADY KNOW💥
+    location: "United States"
+    followers: 10736
+    engagement: 488
+    commentsToLikes: 0.076009
+    id: ck6tt1bmf80vi0j71i5ixyb0d
+    verified: false
+    hashtags: "#barber, #kith, #memorialday, #sulimays"
+  - username: "jakiichu"
+    fullname: >-
+      JAKI
+    location: "United States"
+    followers: 204360
+    engagement: 354
+    commentsToLikes: 0.009685
+    id: ck14lq2xtvx620i19fo9vifhf
+    verified: false
+    hashtags: "#edit, #salonrepublic, #homeiswhereyoumakeit, #shoplocal"
+  - username: "_mind.body_"
+    fullname: >-
+      Kevin McLary
+    location: "United States"
+    followers: 2044
+    engagement: 950
+    commentsToLikes: 0.083867
+    id: ckapa67jzuvsy0i78cuui6erq
+    verified: false
+    hashtags: "#beardfade, #hotrod, #wahlpro, #newyorktough"
+  - username: "meetthebarber"
+    fullname: >-
+      Meetthebarber
+    location: "United States"
+    followers: 39897
+    engagement: 520
+    commentsToLikes: 0.034537
+    id: ck5hk4tebhsg10i11i6hml2f9
+    verified: false
+    hashtags: "#fashionnovamen, #rollingloudnyc, #vmas, #wavesrus"
 ---

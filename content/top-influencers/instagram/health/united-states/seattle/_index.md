@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Seattle In 2020
 description: >-
-  Find top health Instagram influencers in Seattle in 2020. Most popular hashtags: #health #love #entrepreneur #mentalhealth.
+  Find top health Instagram influencers in Seattle in 2020. Most popular hashtags: #health #seattle #family #balance.
 platform: Instagram
 profiles:
-  - username: "realitychangers"
+  - username: "ntheurer92"
     fullname: >-
-      Jorge Narvaez
+      ℕ𝕚𝕔𝕜 𝕋𝕙𝕖𝕦𝕣𝕖𝕣
     location: "United States"
-    followers: 47945
-    engagement: 116
-    commentsToLikes: 0.028946
-    id: ck5hi6eupbvto0i1199aa0cae
-    verified: true
-    hashtags: "#dadlife, #nevergiveup, #mentalhealth, #travel"
-  - username: "lukahocevar"
-    fullname: >-
-      Luka Hocevar
-    location: "United States"
-    followers: 40627
-    engagement: 113
-    commentsToLikes: 0.039523
-    id: ck5hdqqv5ovir0i11cdqskgh4
+    followers: 44038
+    engagement: 190
+    commentsToLikes: 0.023316
+    id: ck6txfnccxk6w0j719nzpir4b
     verified: false
-    hashtags: "#entrepreneurlife, #mentorship, #nonegativity, #fitspo"
+    hashtags: "#happy, #turbothedog, #congrats, #travel"
+  - username: "mikeyperes"
+    fullname: >-
+      Mikey Peres | michaelperes.com
+    location: "United States"
+    followers: 38610
+    engagement: 227
+    commentsToLikes: 0.115979
+    id: ck0w59s4l2lud0i196qwt9pkc
+    verified: false
+    hashtags: "#stayhome, #wenliang, #mentoring, #deadlyvirus"
   - username: "the_functionalmed_mom"
     fullname: >-
       Andrea IHP BCHHP
     location: "United States"
-    followers: 22181
-    engagement: 303
-    commentsToLikes: 0.350127
+    followers: 21977
+    engagement: 244
+    commentsToLikes: 0.238979
     id: ck0vvublxqt220i19a60qngf1
     verified: false
-    hashtags: "#aph260, #nontox, #journaling, #momlife"
+    hashtags: "#spirtuality, #yeast, #candidadiet, #quarantine"
+  - username: "autumnsorelle"
+    fullname: >-
+      Sorelle Hardin
+    location: "United States"
+    followers: 16270
+    engagement: 365
+    commentsToLikes: 0.040264
+    id: ck8wczbkgd7by0j78cv588bj2
+    verified: false
+    hashtags: ""
   - username: "everydaystella_"
     fullname: >-
       Stella 💫 WW Ambassador
     location: "United States"
-    followers: 58094
-    engagement: 91
-    commentsToLikes: 0.035563
+    followers: 59779
+    engagement: 101
+    commentsToLikes: 0.035534
     id: ck5zm4usblwm10i146uc02vao
     verified: false
-    hashtags: "#wwinstagram, #healthyrecipes, #wwlifetime, #wwmealideas"
-  - username: "thebobartlett"
+    hashtags: "#wwsmartpoint, #happy, #wwfriends, #bettertogether"
+  - username: "steakandbuttergal"
     fullname: >-
-      Bo Bartlett
+      The Steak & Butter Gal
     location: "United States"
-    followers: 40674
-    engagement: 259
-    commentsToLikes: 0.028655
-    id: ck5ccajwph0nc0i11p3mviol5
-    verified: true
-    hashtags: "#safe, #go, #getintheflow, #collegeradio"
-  - username: "palmvisuals"
-    fullname: >-
-      A Cinematic Film Co.
-    location: "United States"
-    followers: 6437
-    engagement: 759
-    commentsToLikes: 0.021647
-    id: ck5zvnkh34kna0i14d7njvut6
+    followers: 5378
+    engagement: 845
+    commentsToLikes: 0.131452
+    id: ckaouq5681bpp0i78r4rradlb
     verified: false
-    hashtags: "#houston, #luxurylife, #alllivesmatter, #videos"
-  - username: "btshrooms"
+    hashtags: "#meateater, #transformation, #mediumrare, #ketogenicdiet"
+  - username: "thealexishenry"
     fullname: >-
-      Bridgetown Mushrooms PDX
+      Lex ⭐️
     location: "United States"
-    followers: 9311
-    engagement: 577
-    commentsToLikes: 0.029437
-    id: ck5zxrjj48j6y0i142jh3sisb
+    followers: 28209
+    engagement: 247
+    commentsToLikes: 0.026560
+    id: ck14iilrpfl690i19kq703u98
     verified: false
-    hashtags: "#pinkoyster, #familytime, #pdxchef, #foodie"
+    hashtags: "#mentalhealth, #quarantiness21, #youswimfromhome, #lailatriespatience"
   - username: "romejohns"
     fullname: >-
       Rome Johnson | Style
     location: "United States"
-    followers: 2848
-    engagement: 3566
-    commentsToLikes: 0.103073
+    followers: 15044
+    engagement: 4156
+    commentsToLikes: 0.069704
     id: ck8t1v9nix65e0j78gkeeieo6
     verified: false
-    hashtags: "#blackfamily, #parents, #valentinesday, #pfeiffersyndromeawarenessmonth"
+    hashtags: "#blackparents, #blackdads, #nicugraduate, #trachbaby"
   - username: "mydaintydarlings"
     fullname: >-
       H E A T H E R
     location: "United States"
-    followers: 21784
-    engagement: 221
-    commentsToLikes: 0.076235
+    followers: 21429
+    engagement: 200
+    commentsToLikes: 0.079399
     id: ck0vwfbtmtf2k0i19fl29fpw9
     verified: false
-    hashtags: "#mybabyboy, #siblings, #gopackgo, #hatchpartner"
-  - username: "lynnegetsfit"
+    hashtags: "#proudmom, #hatchforsleep, #normalizebreastfeeding, #motherhoodunplugged"
+  - username: "lynneliveswell"
     fullname: >-
       Lynne 🍉
     location: "United States"
-    followers: 18943
-    engagement: 456
-    commentsToLikes: 0.014671
+    followers: 18658
+    engagement: 366
+    commentsToLikes: 0.016752
     id: ck13azmgwsyv00i19kd0a4ku7
     verified: false
-    hashtags: "#ww, #facetofacefriday, #wwswag, #mentalhealth"
+    hashtags: "#internationaldayofhappiness, #bodypositivity, #motivationmonday, #mywwpurple"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Japan In 2020
 description: >-
-  Find top bloggers Instagram influencers in Japan in 2020. Most popular hashtags: #coordinate #rienda #pr #fashion.
+  Find top bloggers Instagram influencers in Japan in 2020. Most popular hashtags: #mothersday #instagood #happybirthday #favorina.
 platform: Instagram
 profiles:
-  - username: "yuniqueyuni"
+  - username: "mh_alexandra"
     fullname: >-
-      Yuni | Travel & Lifestyle
+      𝑨𝒍𝒆𝒙𝒂𝒏𝒅𝒓𝒂
     location: "Japan"
-    followers: 20228
-    engagement: 399
-    commentsToLikes: 0.113154
-    id: ck0ubxdjvfhdh0i191t2tm3tl
+    followers: 6272
+    engagement: 863
+    commentsToLikes: 0.090149
+    id: ck9wozpkw76ir0j78vqeli40r
     verified: false
-    hashtags: "#travelindonesia, #thailandvacation, #sgmummy, #pregnancy"
-  - username: "guava.chang"
-    fullname: >-
-      🌼拔辣🌸
-    location: "Japan"
-    followers: 109078
-    engagement: 438
-    commentsToLikes: 0.018165
-    id: ck5q41jkknc0d0i110iylum48
-    verified: false
-    hashtags: "#panasonic, #guitar, #travel, #photo"
+    hashtags: "#cute, #laughter, #houseparty, #recipe"
   - username: "ruri_ikeda"
     fullname: >-
       ruriikeda
     location: "Japan"
-    followers: 55096
-    engagement: 268
-    commentsToLikes: 0.031372
+    followers: 55789
+    engagement: 275
+    commentsToLikes: 0.031684
     id: ck14kn1fbqbp90i19h8hx2dhb
     verified: false
-    hashtags: "#hawaii, #shampoo, #australiawine, #pr"
+    hashtags: "#fauchoncheese, #fujimi, #denimjacket, #dessert"
+  - username: "yuniqueyuni"
+    fullname: >-
+      Yuni | Travel & Lifestyle
+    location: "Japan"
+    followers: 20732
+    engagement: 446
+    commentsToLikes: 0.112074
+    id: ck0ubxdjvfhdh0i191t2tm3tl
+    verified: false
+    hashtags: "#wathuayplakang, #sunpavilion, #spurshoessg, #danang"
+  - username: "arsk729"
+    fullname: >-
+      あやな
+    location: "Japan"
+    followers: 45618
+    engagement: 90
+    commentsToLikes: 0.056264
+    id: ck0w15sc8hpbc0i198y46icb3
+    verified: false
+    hashtags: "#kidsfashion, #etretokyo, #flowriri, #nikoand"
+  - username: "guava.chang"
+    fullname: >-
+      🌼拔辣🌸
+    location: "Japan"
+    followers: 111897
+    engagement: 417
+    commentsToLikes: 0.011990
+    id: ck5q41jkknc0d0i110iylum48
+    verified: false
+    hashtags: "#sing, #belkin, #sym, #kakao"
+  - username: "minami_seto"
+    fullname: >-
+      瀬戸 南
+    location: "Japan"
+    followers: 12894
+    engagement: 745
+    commentsToLikes: 0.013227
+    id: ckaoubh7uzn1x0i78hx5ri81s
+    verified: false
+    hashtags: "#switch, #mac, #egutam, #makeup"
+  - username: "cento130"
+    fullname: >-
+      加藤いさお(Isao kato)
+    location: "Japan"
+    followers: 13050
+    engagement: 395
+    commentsToLikes: 0.036892
+    id: ck55owhxh99ms0i11h2j37myz
+    verified: false
+    hashtags: "#loropiana, #mensweardaily, #gentlemen, #vintagestyle"
   - username: "wanderluluu"
     fullname: >-
       Lauren Pelkey☼Travel
     location: "Japan"
-    followers: 13233
-    engagement: 378
-    commentsToLikes: 0.078092
+    followers: 13063
+    engagement: 360
+    commentsToLikes: 0.075219
     id: ck0ubmzjxezfk0i19lymujqff
     verified: false
-    hashtags: "#mexicotravel, #thetravelwomen, #balilife, #kuromonichibamarket"
+    hashtags: "#batalladeflores, #kimonoforest, #palmsprings, #bnaaltermuseum"
   - username: "dearruigallery"
     fullname: >-
       小貓 Rui /
     location: "Japan"
-    followers: 91775
-    engagement: 332
-    commentsToLikes: 0.005436
+    followers: 93953
+    engagement: 249
+    commentsToLikes: 0.006335
     id: ck55oh5ex8cdl0i116bl3ru37
     verified: false
-    hashtags: "#mitsubishielectric, #mit, #fendi, #pandora"
+    hashtags: "#moschinokids, #coachny, #lovefromcoach, #miumiu"
   - username: "tomimama1116"
     fullname: >-
       とみmama
     location: "Japan"
-    followers: 49975
-    engagement: 222
-    commentsToLikes: 0.004623
+    followers: 51829
+    engagement: 291
+    commentsToLikes: 0.005031
     id: ck5ckye85xv1t0i11v555jmvk
     verified: false
-    hashtags: "#shinjukutokyo, #resexxy, #bridalhair, #tripstyle"
-  - username: "cherriemun_"
-    fullname: >-
-      Cherrie Liong
-    location: "Japan"
-    followers: 91931
-    engagement: 128
-    commentsToLikes: 0.009376
-    id: ck5zn7kyqnxkx0i14e7emc3kx
-    verified: false
-    hashtags: "#filmisnotdead, #shiseidomalaysia, #roycemalaysia, #whitelucent"
-  - username: "hitton28"
-    fullname: >-
-      Hitomi Fukui ◉ 福井仁美
-    location: "Japan"
-    followers: 38604
-    engagement: 148
-    commentsToLikes: 0.007908
-    id: ck6tqrz5uto5i0j71sb165qjp
-    verified: true
-    hashtags: "#waxyyy, #snowboarding, #louisvuitton, #diet"
-  - username: "mario_dozono"
-    fullname: >-
-      まりお
-    location: "Japan"
-    followers: 72735
-    engagement: 119
-    commentsToLikes: 0.007030
-    id: ck0w6rd089xlx0i19gto95iki
-    verified: false
-    hashtags: "#30, #dressfornow, #chanelshoes, #stylepoint"
-  - username: "the_life_of_a_bee"
-    fullname: >-
-      Beauty Expert 🐝 Beauty Editor
-    location: "Japan"
-    followers: 27448
-    engagement: 273
-    commentsToLikes: 0.111983
-    id: ck15rxn8ea7so0i19ex58t7k4
-    verified: false
-    hashtags: "#prbox, #pixibypetra, #zerowastelifestyle, #4monthspregnant"
+    hashtags: "#ootd, #marmeid, #marmeiddress, #weddingaisle"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Belgium In 2020
 description: >-
-  Find top health Instagram influencers in Belgium in 2020. Most popular hashtags: #ad #belgianblogger #prettylittleiiinspo #igersbelgium.
+  Find top health Instagram influencers in Belgium in 2020. Most popular hashtags: #throwback #covid19 #nakdfashion #staysafe.
 platform: Instagram
 profiles:
   - username: "hi.itsjolienn"
     fullname: >-
       JOLIEN
     location: "Belgium"
-    followers: 7666
-    engagement: 1079
-    commentsToLikes: 0.100878
+    followers: 8396
+    engagement: 1189
+    commentsToLikes: 0.110340
     id: ck5hhlx278wrn0i11oms8mi5w
     verified: false
-    hashtags: "#fashionbloggerstyle, #skincareproducts, #skincaretips, #bbloggers"
-  - username: "katiadellafaille"
-    fullname: >-
-      Katia della Faille
-    location: "Belgium"
-    followers: 7400
-    engagement: 1169
-    commentsToLikes: 0.056756
-    id: ck5hde0gvmwvf0i11kruz2zq5
-    verified: false
-    hashtags: "#cyclinglife, #inspiration2020, #sundayrunday, #paris"
+    hashtags: "#thebodyshop, #sunnydays, #marble, #shoeoftheday"
   - username: "lauralynnsworld"
     fullname: >-
       LAURA ✌🏼
     location: "Belgium"
-    followers: 31135
-    engagement: 350
-    commentsToLikes: 0.106376
+    followers: 31655
+    engagement: 390
+    commentsToLikes: 0.168488
     id: ck5zsblasy6uy0i149dirvmoh
     verified: false
-    hashtags: "#daretoeatfrozen, #springfashion, #staysafe, #cappuccino"
+    hashtags: "#springfashion, #pinkvibes, #schelde, #stayactive"
+  - username: "katiadellafaille"
+    fullname: >-
+      Katia della Faille
+    location: "Belgium"
+    followers: 7375
+    engagement: 1173
+    commentsToLikes: 0.058388
+    id: ck5hde0gvmwvf0i11kruz2zq5
+    verified: false
+    hashtags: "#cyclingaddict, #2020, #ineededthis, #springmood"
   - username: "magzzfit"
     fullname: >-
-      🌸 MAGALI 🌸
+      Miauw miauw
     location: "Belgium"
-    followers: 6982
-    engagement: 1466
-    commentsToLikes: 0.059810
+    followers: 7068
+    engagement: 1500
+    commentsToLikes: 0.058296
     id: ck15t7ms7gq4z0i19nr9yidau
     verified: false
-    hashtags: "#women, #motivation, #fitnessjourney, #igfitfam"
-  - username: "tinepriem"
+    hashtags: "#iphone, #pretty, #caseiphone, #girly"
+  - username: "elinea.fit"
     fullname: >-
-      Tine Priem
+      E L I N E
     location: "Belgium"
-    followers: 42095
-    engagement: 429
-    commentsToLikes: 0.015603
-    id: ck15r39qz5xbr0i19n3jmhjsc
+    followers: 2125
+    engagement: 1794
+    commentsToLikes: 0.203442
+    id: ckap0ovu7r8fh0i78v9jrmoem
     verified: false
-    hashtags: "#fitness, #extensions, #newprojectcomingup, #lovemyjob"
-  - username: "ellemieke_vermolen"
+    hashtags: "#shapecheck, #takecare, #bootybuild, #fitnessfreaks"
+  - username: "janelle_framery"
     fullname: >-
-      ELLEMIEKE VERMOLEN
+      Janelle Framery
     location: "Belgium"
-    followers: 88262
-    engagement: 405
-    commentsToLikes: 0.036628
-    id: ck6u9b3mywipj0j71damlxkm8
-    verified: true
-    hashtags: "#newthingsarecoming, #josha, #stormciara, #josha"
-  - username: "farahinthesun"
-    fullname: >-
-      Farah Cuyvers 🐆 Expeditie R.
-    location: "Belgium"
-    followers: 17640
-    engagement: 212
-    commentsToLikes: 0.024536
-    id: ck8sww3oafgbo0j783e3x97z0
+    followers: 9615
+    engagement: 413
+    commentsToLikes: 0.043803
+    id: ck8swda1mdtmo0j78rkjpur24
     verified: false
-    hashtags: "#mvmtspain, #jointhemvmt, #inthefitness, #dreamcometrue"
-  - username: "paulienmullaertx"
+    hashtags: "#danielwellington, #mapiful, #nakdhaul, #3yearanniversary"
+  - username: "nubskitchen"
     fullname: >-
-      Paulien 🌸
+      NUB’S APPROACH ✨ DIETITIAN
     location: "Belgium"
-    followers: 4282
-    engagement: 2214
-    commentsToLikes: 0.307153
-    id: ck6ug78751blj0j71o6k140kl
+    followers: 40922
+    engagement: 221
+    commentsToLikes: 0.037232
+    id: ck0w269tzmt4v0i19sui0lyba
     verified: false
-    hashtags: "#fitgram, #wiwtoday, #instabruges, #leapyearbirthday"
-  - username: "nathaliemeskensofficial"
+    hashtags: "#nourishedbynub, #guiltfree, #coronavirus, #nondiet"
+  - username: "lifestyle_fashion68"
     fullname: >-
-      Nathalie Meskens
+      Carpe Diem🇧🇪
     location: "Belgium"
-    followers: 201164
-    engagement: 983
-    commentsToLikes: 0.019378
-    id: ck15q8ikm1ls10i1929c6dm67
+    followers: 22455
+    engagement: 992
+    commentsToLikes: 0.269231
+    id: ck15uaov9m8sn0i194u5jq4h2
     verified: false
-    hashtags: "#samentegencorona, #cybex, #alcoholvrij, #relax"
-  - username: "marielifeness"
+    hashtags: "#outdoor, #ageless, #fashioninta, #eyewearstyle"
+  - username: "assya.grs"
     fullname: >-
-      Marie Thomas
+      Superpaco6  ✨🐨🎮
     location: "Belgium"
-    followers: 37132
-    engagement: 353
-    commentsToLikes: 0.084750
-    id: ck8t0oudfsqvp0j785t39qn0x
+    followers: 10104
+    engagement: 1604
+    commentsToLikes: 0.067022
+    id: ck9hb93x3fv9q0j78ykmv4qoi
     verified: false
-    hashtags: "#concoursphone, #laptop, #prize, #igersbelgium"
+    hashtags: "#game, #strength, #malibu, #staystrong"
+  - username: "kim.dejonghe"
+    fullname: >-
+      K I M
+    location: "Belgium"
+    followers: 7543
+    engagement: 953
+    commentsToLikes: 0.096014
+    id: ck8t3xnjg4v5q0j781imadgqg
+    verified: false
+    hashtags: "#bjewels, #mothersday, #newhome, #movedin"
 ---

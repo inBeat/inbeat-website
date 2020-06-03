@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Colombia In 2020
 description: >-
-  Find top nutrition Instagram influencers in Colombia in 2020. Most popular hashtags: #fitness #quedateencasa #nutricion #fitnessmotivation.
+  Find top nutrition Instagram influencers in Colombia in 2020. Most popular hashtags: #model #fit #fitlifestyle #colombia.
 platform: Instagram
 profiles:
   - username: "guerrerophysique"
     fullname: >-
       IFBB PRO David Guerrero
     location: "Colombia"
-    followers: 175284
-    engagement: 271
-    commentsToLikes: 0.016536
+    followers: 177475
+    engagement: 199
+    commentsToLikes: 0.017024
     id: ck5c102eou6md0i118sanyg2f
     verified: false
-    hashtags: "#sonrie, #girlpower, #menstyle, #couplegoals"
-  - username: "reikinherrera"
+    hashtags: "#legday, #motivacion, #shoulderworkout, #creeenti"
+  - username: "reikin.desafio"
     fullname: >-
       REIKIN HERRERA  CUENTA OFICIAL
     location: "Colombia"
-    followers: 82298
-    engagement: 251
-    commentsToLikes: 0.011381
+    followers: 82147
+    engagement: 189
+    commentsToLikes: 0.024213
     id: ck6tuwk7oitvb0j711uc2vqfx
     verified: false
-    hashtags: "#hidroboliczero, #hydroboliczero, #generacionxpartapro, #liderazgo"
+    hashtags: "#colombia, #ceretedemialma, #dsr2019, #modelfitnes"
+  - username: "yesitrainer"
+    fullname: >-
+      Yesi Morales
+    location: "Colombia"
+    followers: 317776
+    engagement: 95
+    commentsToLikes: 0.028472
+    id: ck5c7li647r3z0i11tjo895ey
+    verified: false
+    hashtags: "#tiempodeagradecer, #isofit, #quarentena, #viernes"
+  - username: "cmanriquet"
+    fullname: >-
+      Carolina Manrique Tejedor⭐️
+    location: "Colombia"
+    followers: 190794
+    engagement: 320
+    commentsToLikes: 0.040184
+    id: ck14k07gln25v0i19mf523ngd
+    verified: false
+    hashtags: "#fullbodyworkout, #cardio, #homeworkout, #dontrushchallenge"
+  - username: "santiagovalenciatrainer"
+    fullname: >-
+      Santiago MasterTrainer®
+    location: "Colombia"
+    followers: 52830
+    engagement: 69
+    commentsToLikes: 0.021004
+    id: ck0w3tr18v8a40i19z44j76b6
+    verified: false
+    hashtags: ""
   - username: "anasanta24"
     fullname: >-
       Ana Santa Fitness & Lifestyle
     location: "Colombia"
-    followers: 47902
-    engagement: 114
-    commentsToLikes: 0.061575
+    followers: 50006
+    engagement: 100
+    commentsToLikes: 0.065086
     id: ck14ifzwkf7mv0i194s50fxu1
     verified: false
-    hashtags: "#fit, #fitrecipe, #cupcakes, #oatmeal"
-  - username: "diegoggarcia1"
-    fullname: >-
-      IFBB PRO Diego García
-    location: "Colombia"
-    followers: 16988
-    engagement: 339
-    commentsToLikes: 0.018219
-    id: ck6udr4yemo8g0j712yntne3x
-    verified: false
-    hashtags: "#newgoals, #mensphysique, #bodybuilding, #usa"
-  - username: "santiagovalenciatrainer"
-    fullname: >-
-      Santi Valencia MasterTrainer®
-    location: "Colombia"
-    followers: 53769
-    engagement: 70
-    commentsToLikes: 0.011700
-    id: ck0w3tr18v8a40i19z44j76b6
-    verified: false
-    hashtags: "#tb, #day, #fit, #strong"
+    hashtags: "#avenatrasnochada, #tbt, #malvavisco, #saschafitness"
   - username: "karloslezama"
     fullname: >-
       Carlos Lezama | Nutricionista
     location: "Colombia"
-    followers: 30491
-    engagement: 197
-    commentsToLikes: 0.083671
+    followers: 31260
+    engagement: 223
+    commentsToLikes: 0.089199
     id: ck8sz2gvfmx9e0j78n294r4un
     verified: false
-    hashtags: "#soyhakuna, #betaalaninatodoloquedebessaber, #betaalanina, #calor"
+    hashtags: "#macros, #crossfitvenezuela, #fuentesdemacros, #loscarbohidratosengordan"
+  - username: "martalopezalamo"
+    fullname: >-
+      MARTA LÓPEZ ÁLAMO
+    location: "Colombia"
+    followers: 160044
+    engagement: 269
+    commentsToLikes: 0.034894
+    id: ck5zvpp4g4ooo0i1444p6ti33
+    verified: true
+    hashtags: "#prozis, #selfie, #prettylittlething, #facetimeshoot"
   - username: "kionna_janice"
     fullname: >-
       Kionna Janice
     location: "Colombia"
-    followers: 5054
-    engagement: 1135
-    commentsToLikes: 0.024719
+    followers: 4969
+    engagement: 1011
+    commentsToLikes: 0.027063
     id: ck5qch7tkqjv10i11pt4x19at
     verified: false
-    hashtags: "#curlyhair, #mybestsponsor, #gopdanceacademy, #collagenbeautybooster"
+    hashtags: "#brrrr, #usatour, #chinachallenge, #dancerlife"
   - username: "leococinero"
     fullname: >-
       Leonardo Moran
     location: "Colombia"
-    followers: 199743
-    engagement: 123
-    commentsToLikes: 0.030272
+    followers: 203542
+    engagement: 117
+    commentsToLikes: 0.039282
     id: ck136xdv48qa10i19fm2liv12
     verified: true
-    hashtags: "#libros, #cocinafacil, #cook, #despertarespiritual"
-  - username: "pameperez.p"
-    fullname: >-
-      Pame Perez
-    location: "Colombia"
-    followers: 20523
-    engagement: 223
-    commentsToLikes: 0.035403
-    id: ck13c63keysra0i19xh0geu5r
-    verified: false
-    hashtags: "#powerpopsbypameperez, #healthysnack, #tacotursday, #healthywaffles"
-  - username: "rolando_posada"
-    fullname: >-
-      Rolando A. Posada F.
-    location: "Colombia"
-    followers: 8670
-    engagement: 606
-    commentsToLikes: 0.054835
-    id: ck5c102oqu6nm0i11nt7jqqw1
-    verified: false
-    hashtags: "#fearless, #true, #wecreatetheway, #farmacolog"
+    hashtags: "#cocinabuenaonda, #delish, #yummy, #encasa"
 ---

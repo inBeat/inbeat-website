@@ -1,107 +1,107 @@
 ---
 title: Top 10 Music Instagram Influencers In Greece In 2020
 description: >-
-  Find top music Instagram influencers in Greece in 2020. Most popular hashtags: #greece #happy #love #music.
+  Find top music Instagram influencers in Greece in 2020. Most popular hashtags: #love #happy #beautiful #menoumespiti.
 platform: Instagram
 profiles:
-  - username: "tusyourdaddy"
-    fullname: >-
-      Christos Tousis
-    location: "Greece"
-    followers: 147213
-    engagement: 2408
-    commentsToLikes: 0.016574
-    id: ck5hgr5zp4b0o0i1148l6aa7s
-    verified: false
-    hashtags: "#tbt, #picoftheday, #webstagram, #trapmoney"
-  - username: "elenapapapanayiotou"
-    fullname: >-
-      Elena Papapanayiotou
-    location: "Greece"
-    followers: 15711
-    engagement: 904
-    commentsToLikes: 0.049693
-    id: ck5px2d5bprm20i11bqepwoyh
-    verified: false
-    hashtags: "#program, #bucharest, #woman, #thankyou"
   - username: "lefteris_tzi"
     fullname: >-
       Ｌｅｆｔｅｒｉｓ Ｔｚｉｄｒｉｓ
     location: "Greece"
-    followers: 10736
-    engagement: 943
-    commentsToLikes: 0.047511
+    followers: 10739
+    engagement: 983
+    commentsToLikes: 0.088420
     id: ck6udw2isnftf0j71bnwep4ta
     verified: false
-    hashtags: "#throwback, #fantastic, #streetphotography, #cats"
+    hashtags: "#selfportrait, #sunsets, #timelapse, #dream"
+  - username: "elenapapapanayiotou"
+    fullname: >-
+      Elena Papapanayiotou
+    location: "Greece"
+    followers: 16598
+    engagement: 926
+    commentsToLikes: 0.065158
+    id: ck5px2d5bprm20i11bqepwoyh
+    verified: false
+    hashtags: "#yellow, #work, #breaktime, #best"
+  - username: "tusyourdaddy"
+    fullname: >-
+      Christos Tousis
+    location: "Greece"
+    followers: 143682
+    engagement: 2443
+    commentsToLikes: 0.016304
+    id: ck5hgr5zp4b0o0i1148l6aa7s
+    verified: false
+    hashtags: "#beautiful, #tusbanana, #not, #iphonesia"
+  - username: "argiris_aggelou_official"
+    fullname: >-
+      Argiris Aggelou Official
+    location: "Greece"
+    followers: 99079
+    engagement: 662
+    commentsToLikes: 0.008017
+    id: ck15sovvhe2ze0i193batt4h6
+    verified: false
+    hashtags: "#icantwait, #soon, #happyface, #pastryporn"
+  - username: "sevenpavel"
+    fullname: >-
+      𝐕𝐈𝐈 ПАВЕЛ
+    location: "Greece"
+    followers: 12054
+    engagement: 1648
+    commentsToLikes: 0.007108
+    id: ckaozvad0nk470i78mxtkuw3m
+    verified: false
+    hashtags: "#cats, #street, #catsofinstagram, #mirrorselfie"
   - username: "konstantinos.kazakos"
     fullname: >-
       Konstantinos kazakos
     location: "Greece"
-    followers: 7550
-    engagement: 1421
-    commentsToLikes: 0.016960
+    followers: 7928
+    engagement: 1382
+    commentsToLikes: 0.016577
     id: ck5pvdyexhegi0i113e510lde
     verified: false
-    hashtags: "#break, #megatv, #beforetheshow, #mikistheodorakis"
+    hashtags: "#party, #drama, #marine, #heraklion"
   - username: "michalis_nanouris"
     fullname: >-
       Michalis Nanouris
     location: "Greece"
-    followers: 12898
-    engagement: 829
-    commentsToLikes: 0.150787
+    followers: 12548
+    engagement: 868
+    commentsToLikes: 0.130012
     id: ck14jcq0mjogs0i19jx0xdx7p
     verified: false
-    hashtags: "#acapella, #heraklion, #xatzigiannis, #instacover"
-  - username: "mariageorgakaina"
+    hashtags: "#oikonomopoulos, #instacover, #covers, #casio"
+  - username: "andromache_dim"
     fullname: >-
-      𝕄𝕒𝕣𝕚𝕒 𝔾𝕖𝕠𝕣𝕘𝕒𝕜𝕒𝕚𝕟𝕒 🎧🌟
+      Andromachi Dimitropoulou ✨
     location: "Greece"
-    followers: 9748
-    engagement: 550
-    commentsToLikes: 0.041356
-    id: ck15recy07ii50i19kkd5lndf
+    followers: 80706
+    engagement: 1101
+    commentsToLikes: 0.007403
+    id: ck5q8m7486vat0i11z61m2ue6
     verified: false
-    hashtags: "#happybirthday, #dowhatmakesyouhappy, #wellness, #sundayfunday"
-  - username: "locomondo.official"
-    fullname: >-
-      Locomondo
-    location: "Greece"
-    followers: 15176
-    engagement: 1008
-    commentsToLikes: 0.009812
-    id: ck6txhrrmxwv20j71kbudqre4
-    verified: false
-    hashtags: "#fanbase, #happynewyear, #worldmusic, #work"
-  - username: "gianaman"
-    fullname: >-
-      Giannis Amanatidis
-    location: "Greece"
-    followers: 15214
-    engagement: 643
-    commentsToLikes: 0.010011
-    id: ck6tkyukz5o550j71blg6pw9e
-    verified: false
-    hashtags: "#happynewyear, #happy2020, #kbyefornow, #bdayboy"
+    hashtags: "#olasagapane, #choosepink, #afterglow, #menoumespiti"
   - username: "candy_nicolaou"
     fullname: >-
       Candy Nicolaou
     location: "Greece"
-    followers: 8568
-    engagement: 521
-    commentsToLikes: 0.031907
+    followers: 8400
+    engagement: 541
+    commentsToLikes: 0.034377
     id: ck5px2j5spsf90i118i69r9uu
     verified: false
-    hashtags: "#dreamers, #sing, #welcome2020, #carantindays"
-  - username: "nikosgkanosofficial"
+    hashtags: "#8march, #waitingfor, #rock, #fighters"
+  - username: "lna.music"
     fullname: >-
-      Nikos Gkanos (Nicko)
+      LNA (Elena)👑
     location: "Greece"
-    followers: 58040
-    engagement: 393
-    commentsToLikes: 0.019068
-    id: ck13722w19drn0i19w883cmw8
-    verified: true
-    hashtags: "#kiamos, #performance, #city, #chocolate"
+    followers: 15370
+    engagement: 502
+    commentsToLikes: 0.017638
+    id: ckap4kz8e7rd70i780l2gjduq
+    verified: false
+    hashtags: ""
 ---

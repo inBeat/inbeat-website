@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Greece In 2020
 description: >-
-  Find top skincare Instagram influencers in Greece in 2020. Most popular hashtags: #love #giveaway #ootd #fashion.
+  Find top skincare Instagram influencers in Greece in 2020. Most popular hashtags: #skincare #mood #staysafe #stayhome.
 platform: Instagram
 profiles:
+  - username: "niki_gloss"
+    fullname: >-
+      👑🎀💎🇬🇷💋
+    location: "Greece"
+    followers: 4723
+    engagement: 1930
+    commentsToLikes: 1.257985
+    id: ckap50dxc9miw0i78yc6o8gk5
+    verified: false
+    hashtags: "#hoopsearrings, #lace, #pamperyourself, #metime"
   - username: "funkymama.gr"
     fullname: >-
       • S O T I R I A •
     location: "Greece"
-    followers: 8218
-    engagement: 752
-    commentsToLikes: 0.761987
+    followers: 9831
+    engagement: 778
+    commentsToLikes: 0.822088
     id: ck5znqa0goylk0i14gjxswter
     verified: false
-    hashtags: "#newyorkcity, #cameramama, #metaixmio, #giveawaygr"
-  - username: "sia_boo_"
+    hashtags: "#ikarosbooks, #benjidavies, #spring2020, #greekmomblogger"
+  - username: "chrisa_klironomou"
     fullname: >-
-      𝐒𝐢𝐚_𝐁𝐨𝐨_ 🧿
+      Chrisa Klironomou
     location: "Greece"
-    followers: 72017
-    engagement: 901
-    commentsToLikes: 0.943643
-    id: ck5hkexreiay20i11swhlbyc6
+    followers: 2516
+    engagement: 1296
+    commentsToLikes: 0.096051
+    id: ck9we5cquio0r0j784w32vv7v
     verified: false
-    hashtags: "#fashion, #vang, #homesweethome, #kids"
-  - username: "giogiota"
+    hashtags: "#repost, #wheninquarantine, #staysafe, #loverome"
+  - username: "marina_grigoriou_"
     fullname: >-
-      Gio Dreveli Giannou - PRO MUA💄
+      1st RunnerUp MISS HELLAS 2018👑
     location: "Greece"
-    followers: 122600
-    engagement: 1311
-    commentsToLikes: 0.032649
-    id: ck13a5wlnorq30i19387c1an3
-    verified: false
-    hashtags: "#justblink, #giolashbabes, #pamperspure, #maryhadalittleglam"
+    followers: 70677
+    engagement: 1509
+    commentsToLikes: 0.063604
+    id: ck5chpx39r8mk0i11a0nhx6ln
+    verified: true
+    hashtags: "#woltsouth, #dermatologyclinic, #facetreatment, #skincare"
   - username: "maria_ki_"
     fullname: >-
       Maria Kiourtsidou
     location: "Greece"
-    followers: 16594
-    engagement: 725
-    commentsToLikes: 0.572221
+    followers: 16872
+    engagement: 730
+    commentsToLikes: 0.575336
     id: ck5znqpuhoza20i14z5p36rsl
     verified: false
-    hashtags: "#oriflamegreece, #flowers, #makeuplife, #girl"
-  - username: "angelicayassemi"
-    fullname: >-
-      𝘈𝘯𝘨𝘦𝘭𝘪𝘤𝘢 𝘠𝘢𝘴𝘴𝘦𝘮𝘪
-    location: "Greece"
-    followers: 31872
-    engagement: 478
-    commentsToLikes: 0.736510
-    id: ck0w1yq3vlsj00i191bcfjecm
-    verified: false
-    hashtags: "#coffee, #lorealparisgr, #influencer, #potd"
+    hashtags: "#glowingskin, #redlipstick, #hairgoals, #ofsimplethings"
   - username: "sevastiana_k"
     fullname: >-
       Sevi_sk
     location: "Greece"
-    followers: 30110
-    engagement: 425
-    commentsToLikes: 0.077498
+    followers: 30241
+    engagement: 476
+    commentsToLikes: 0.067631
     id: ck8swmvhvekim0j78an15cwgh
     verified: false
-    hashtags: "#blondhair, #blindinglights, #wakeuplikethis, #skincare"
-  - username: "dinaathns"
+    hashtags: "#sumset, #beautifulgreece, #smile, #roses"
+  - username: "giogiota"
     fullname: >-
-      ᴅɪɴᴀ ᴀᴛʜᴀɴᴀꜱɪᴏᴜ | 🇬🇷
+      Gio Dreveli Giannou - PRO MUA💄
     location: "Greece"
-    followers: 46573
-    engagement: 701
-    commentsToLikes: 1.346316
-    id: ck5hrvg7bvjps0i117h5xqbkp
+    followers: 124580
+    engagement: 1436
+    commentsToLikes: 0.053794
+    id: ck13a5wlnorq30i19387c1an3
     verified: false
-    hashtags: "#gallery, #travelphotography, #instagram, #lifestyle"
-  - username: "beautymylife_gr"
+    hashtags: "#meltcosmetics, #atticabeauty, #niveagreece, #wyconcosmetics"
+  - username: "melina_dal"
     fullname: >-
-      Popi Stefani
+      ℳℰℒℐℕᎯ ⅅᎯℒⅅᎯ.   18/6 ♊️
     location: "Greece"
-    followers: 15636
-    engagement: 359
-    commentsToLikes: 0.826335
-    id: ck55ougup95pv0i11jfly00rf
+    followers: 97028
+    engagement: 706
+    commentsToLikes: 1.233414
+    id: ck6u8jw2ss0k20j71qrr67hr1
     verified: false
-    hashtags: "#storieveneziane, #skinlove, #massager, #bloggerstyle"
-  - username: "zoevassileiou"
+    hashtags: "#totalblack, #coffeedaily, #morningvibes, #skincareroutine"
+  - username: "dimitraeudaimon"
     fullname: >-
-      Zoi Vasileiou
+      ❥ Δημητρα
     location: "Greece"
-    followers: 127901
-    engagement: 187
-    commentsToLikes: 0.410858
-    id: ck8tdo1is442u0j788sk3slkp
+    followers: 55103
+    engagement: 768
+    commentsToLikes: 0.469648
+    id: ckap2l72ezbl90i78ojhhw15z
     verified: false
-    hashtags: "#skincarejunkie, #grey, #fashionphotography, #lipstick"
-  - username: "eskenazisara"
+    hashtags: "#beautiful, #inspiration, #athletics, #quarantine"
+  - username: "izambellachr_makeup"
     fullname: >-
-      Sara Eskenazi
+      Izambella Christodoulou 🧿
     location: "Greece"
-    followers: 148340
-    engagement: 369
-    commentsToLikes: 0.027209
-    id: ck5pvib21i0f00i11q6gt46bs
+    followers: 68324
+    engagement: 534
+    commentsToLikes: 0.036544
+    id: ck5c666bm4szy0i11gj2k9eke
     verified: false
-    hashtags: "#timetoplay, #befree, #beyou, #friends4ever"
+    hashtags: "#makeuptutorial, #outfitchange, #mood, #outfitodtheday"
 ---

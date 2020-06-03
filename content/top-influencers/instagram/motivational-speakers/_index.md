@@ -1,107 +1,107 @@
 ---
 title: Top 10 Motivational Speakers Instagram Influencers In 2020
 description: >-
-  Find top motivational speakers Instagram influencers in 2020. Most popular hashtags: #bodypositivity #quarantine #gomoradiva #fatisnotabadword.
+  Find top motivational speakers Instagram influencers in 2020. Most popular hashtags: #2020 #faith #birthday #beauty.
 platform: Instagram
 profiles:
-  - username: "athlete_heather_gollnick"
-    fullname: >-
-      Athlete Heather Gollnick
-    location: "United States"
-    followers: 18095
-    engagement: 405
-    commentsToLikes: 0.196492
-    id: ck14juuq3mavk0i19t4k8etp0
-    verified: false
-    hashtags: "#racecation, #spartan, #spartnpro, #beastmodeon"
   - username: "carriegraceshop"
     fullname: >-
       Carrie Grace
     location: ""
-    followers: 34030
-    engagement: 251
-    commentsToLikes: 0.088086
+    followers: 33705
+    engagement: 334
+    commentsToLikes: 0.082458
     id: ck8sxvyvmivff0j789nr1o7ej
     verified: false
     hashtags: ""
+  - username: "shimmycocopuffs"
+    fullname: >-
+      Shimmy
+    location: "Canada"
+    followers: 18525
+    engagement: 915
+    commentsToLikes: 0.101751
+    id: ck14hyqv3ct990i19nuostep8
+    verified: false
+    hashtags: "#hily, #hilyapp, #dating, #relationship"
   - username: "annamariahorsford"
     fullname: >-
       Anna Maria Horsford
     location: "United States"
-    followers: 47989
-    engagement: 529
-    commentsToLikes: 0.033182
+    followers: 48866
+    engagement: 467
+    commentsToLikes: 0.034092
     id: ck5q98hqc9vwq0i11j0eipw59
     verified: true
-    hashtags: "#orsonbean, #easyspirit, #filmfestival, #blackgirlmagic"
+    hashtags: "#blackgirlmagic, #blackportraitures, #orsonbean, #heartdisease"
   - username: "wirda_mansur"
     fullname: >-
       𝐖 𝐢 𝐫 𝐝 𝐚 𝐌 𝐚 𝐧 𝐬 𝐮 𝐫
     location: "Indonesia"
-    followers: 2535499
-    engagement: 829
-    commentsToLikes: 0.007830
+    followers: 2574310
+    engagement: 810
+    commentsToLikes: 0.007251
     id: ck0twciutevv20i19polyszmw
     verified: true
-    hashtags: "#visitindonesia, #bali, #dreamday2019, #beauty"
-  - username: "psitsfashion"
+    hashtags: "#eventjkt, #fashion, #beauty, #wakeupmakeupxmustikaputeri"
+  - username: "_ajgibson"
     fullname: >-
-      Liz Black
+      AJ GIBSON
     location: "United States"
-    followers: 26441
-    engagement: 176
-    commentsToLikes: 0.134278
-    id: ck5q402q5n5930i11chqz86qb
-    verified: false
-    hashtags: "#refresh, #newjersey, #selfietime, #jcmakeityours"
-  - username: "caribbeancurls_"
+    followers: 47805
+    engagement: 431
+    commentsToLikes: 0.038234
+    id: ck6timu6x10q50j71699cmsi6
+    verified: true
+    hashtags: "#nomnom, #poolart, #foodie, #mentalhealth"
+  - username: "valerie_dish"
     fullname: >-
-      Athena Ní | Model
-    location: "United States"
-    followers: 22123
-    engagement: 479
-    commentsToLikes: 0.065226
-    id: ck5znl6fvoosi0i147ahox6m0
-    verified: false
-    hashtags: "#quarantine, #chinese, #jamaicancomedy, #skits"
-  - username: "gwthecultivator"
-    fullname: >-
-      George Wilson
-    location: "United States"
-    followers: 2034
-    engagement: 1827
-    commentsToLikes: 0.074223
-    id: ck8sx2sg5g0ph0j78emve8frb
-    verified: false
-    hashtags: "#beard, #beardlife, #formerplayerhighlight, #consideration"
-  - username: "nikitasharma_official"
-    fullname: >-
-      Nikita Sharma
+      Valerie Dish Udemba
     location: "India"
-    followers: 931990
-    engagement: 321
-    commentsToLikes: 0.017213
-    id: ck0txab1aigmi0i1957i3izdh
-    verified: true
-    hashtags: "#grateful, #sunistheonlyfilterneeded, #inspire, #publicspeaker"
-  - username: "nomsadiva"
+    followers: 6086
+    engagement: 1103
+    commentsToLikes: 0.104745
+    id: ck6tuztzzjdbp0j71qhlbs5qj
+    verified: false
+    hashtags: "#bellanaija, #ootd, #glowup, #grow"
+  - username: "athlete_heather_gollnick"
     fullname: >-
-      Nomsa Buthelezi-Shezi
-    location: "South Africa"
-    followers: 113886
-    engagement: 340
-    commentsToLikes: 0.039391
-    id: ck6ugul9159bx0j71nm9xrqbu
-    verified: true
-    hashtags: "#dstvmvca, #21dayslockdown, #beatcovid19, #staysafeeveryone"
-  - username: "harnaamkaur"
+      Athlete Heather Gollnick
+    location: "United States"
+    followers: 17935
+    engagement: 319
+    commentsToLikes: 0.141518
+    id: ck14juuq3mavk0i19t4k8etp0
+    verified: false
+    hashtags: "#outside, #attitude, #recovery, #keepthefaith"
+  - username: "roha.abbasii"
     fullname: >-
-      Harnaam Kaur
-    location: "United Kingdom"
-    followers: 142807
-    engagement: 232
-    commentsToLikes: 0.027918
-    id: ck5hkkuvzilt50i11db525z4w
+      Roha Abbasi | Influencer
+    location: ""
+    followers: 79185
+    engagement: 678
+    commentsToLikes: 0.028776
+    id: ck9wp2pbb7jkf0j78klqwd05t
+    verified: false
+    hashtags: "#quarantine, #coronavirus, #fun, #home"
+  - username: "mr_jsb_07"
+    fullname: >-
+      Jyoti Sankar Bharali [ JSB ]
+    location: "India"
+    followers: 47119
+    engagement: 555
+    commentsToLikes: 0.028723
+    id: ck8wfb3gofg9q0j78luhpvwgf
+    verified: false
+    hashtags: ""
+  - username: "celestinegachuhi"
+    fullname: >-
+      CELESTINE GACHUHI
+    location: ""
+    followers: 293776
+    engagement: 536
+    commentsToLikes: 0.015684
+    id: ck5c0q456tmp80i11wv3dw56d
     verified: true
-    hashtags: "#frozen2, #theselfloveissue"
+    hashtags: "#godsfaithfulness, #tiktok, #foryou, #besafe"
 ---

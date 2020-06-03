@@ -1,97 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Russia In 2020
 description: >-
-  Find top gardening Instagram influencers in Russia in 2020. Most popular hashtags: #gardening #garden #flowers #mygarden.
+  Find top gardening Instagram influencers in Russia in 2020. Most popular hashtags: #gardening #garden #spring #plants.
 platform: Instagram
 profiles:
-  - username: "cooleshova_yu"
+  - username: "julia_raduga_"
     fullname: >-
-      Julia
+      🌺🌹🌺дом в цветах🌳🌿🌲сад
     location: "Russia"
-    followers: 7776
-    engagement: 1456
-    commentsToLikes: 0.033639
-    id: ck14hlt30ayns0i199myfhpxy
+    followers: 35987
+    engagement: 507
+    commentsToLikes: 0.058526
+    id: ck15uap1am8tw0i19baqoslyj
     verified: false
-    hashtags: "#foodie, #rose, #fleurs, #goals"
-  - username: "katy_at_the_manor"
+    hashtags: "#pelargonia, #funkia, #gardening, #pelargoni"
+  - username: "jeka_227_mtb"
     fullname: >-
-      Katy
+      Evgeniy Glazachev
     location: "Russia"
-    followers: 15045
-    engagement: 604
-    commentsToLikes: 0.092803
-    id: ck5hhcba27hwv0i115qvnrkug
+    followers: 44735
+    engagement: 616
+    commentsToLikes: 0.040770
+    id: ckapammn4wps90i78x09av70s
     verified: false
-    hashtags: "#kremlin, #countrylife, #countryhouse, #homebar"
-  - username: "helen_fairy_garden"
+    hashtags: "#earlybird, #easylife, #classic, #truvativ"
+  - username: "natali_chili"
     fullname: >-
-      Елена Власова
+      Сад Натальи и Александра
     location: "Russia"
-    followers: 16166
-    engagement: 602
-    commentsToLikes: 0.047647
-    id: ck6ubd5je8vg00j71zvzo2q51
+    followers: 5260
+    engagement: 921
+    commentsToLikes: 0.131024
+    id: ck0w0210dc0000i19516ambu5
     verified: false
-    hashtags: "#picea, #prettyflowers, #blueflowers, #prettygarden"
-  - username: "lisa_i_sad"
+    hashtags: "#euphorbia, #sempervivum, #beautifulflowers, #floweroftheday"
+  - username: "oxana.piskareva"
     fullname: >-
-      Лиса и Сад.
+      Оксана Пискарева
     location: "Russia"
-    followers: 9441
-    engagement: 732
-    commentsToLikes: 0.050411
-    id: ck136dyx060qy0i19gmhe9cg0
+    followers: 7368
+    engagement: 1035
+    commentsToLikes: 0.053937
+    id: ck6tvwmu2oorc0j71gc3t6f2o
     verified: false
-    hashtags: "#gardening, #pelargonia, #pelargonium, #landscape"
-  - username: "cats_shopard"
+    hashtags: "#igorgulyaev, #mygarden, #lovegarden, #gardeninspiration"
+  - username: "textile.heart"
     fullname: >-
-      Natali Podvoyskaya
+      Irina Sayfiydinova
     location: "Russia"
-    followers: 13103
-    engagement: 247
-    commentsToLikes: 0.066824
-    id: ck14lcx27u1bm0i190oezptfh
+    followers: 15754
+    engagement: 570
+    commentsToLikes: 0.038941
+    id: ck14iykkzhrh00i19yl2n3mjp
     verified: false
-    hashtags: "#gardenscapes, #blumengardens, #catscatsandhealth, #flowerstagram"
-  - username: "sad_lubovi"
+    hashtags: "#witch, #russianforest, #cozyhome, #homesweethome"
+  - username: "katerinagepta"
     fullname: >-
-      Любовь💫💫Санкт-Петербург
+      Катерина Гепта
     location: "Russia"
-    followers: 47588
-    engagement: 143
-    commentsToLikes: 0.047894
-    id: ck8sx6zh0gd260j78azig2wco
+    followers: 8778
+    engagement: 710
+    commentsToLikes: 0.043534
+    id: ck14js63tlwr00i194rnxdq0n
     verified: false
-    hashtags: "#jardin, #catlovers, #catstagram, #hydrangea"
+    hashtags: "#illustration, #flower, #illustrationart, #winter"
+  - username: "astro_seal"
+    fullname: >-
+      Chris Cassidy
+    location: "Russia"
+    followers: 44735
+    engagement: 722
+    commentsToLikes: 0.019139
+    id: ck5hmmm8mm8qv0i119lksx277
+    verified: true
+    hashtags: "#letsgetafterit, #mars, #apollo50th, #starwarsday"
+  - username: "peter_nalitch"
+    fullname: >-
+      Петр Налич
+    location: "Russia"
+    followers: 9654
+    engagement: 531
+    commentsToLikes: 0.044646
+    id: ck0w5ijdf3ss60i19r333f2cg
+    verified: false
+    hashtags: "#sos, #popmusic, #gardenshed, #art"
+  - username: "sultanova_sad"
+    fullname: >-
+      Людмила (Мой Сад)
+    location: "Russia"
+    followers: 24022
+    engagement: 432
+    commentsToLikes: 0.049096
+    id: ck134ra68xtap0i191737dxon
+    verified: false
+    hashtags: "#nivaki, #mygarden, #instadaily, #gardenlife"
   - username: "aleksandrov_sad"
     fullname: >-
       🍃Сад🍃Огород🍃Ландшафт
     location: "Russia"
-    followers: 80171
-    engagement: 381
-    commentsToLikes: 0.073129
+    followers: 107821
+    engagement: 349
+    commentsToLikes: 0.063381
     id: ck0w5iduw3rv70i198s6ywevt
     verified: false
     hashtags: "#garden, #gardening"
-  - username: "landshaft.design"
-    fullname: >-
-      ЛАНДШАФТНЫЙ ДИЗАЙН▪︎ДАЧА▪︎САД
-    location: "Russia"
-    followers: 322114
-    engagement: 138
-    commentsToLikes: 0.012549
-    id: ck15uajmem83n0i19updcp14r
-    verified: false
-    hashtags: "#garden, #gardening, #landscapedesign, #landscape"
-  - username: "provincia67"
-    fullname: >-
-      ландшафт • дом & сад
-    location: "Russia"
-    followers: 12884
-    engagement: 560
-    commentsToLikes: 0.085379
-    id: ck5q2tsbahs300i11kgu65yd9
-    verified: false
-    hashtags: "#provincia67, #mycat, #landscapedesign, #mygarden"
 ---

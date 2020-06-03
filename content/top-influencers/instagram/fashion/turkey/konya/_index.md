@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Konya In 2020
 description: >-
-  Find top fashion Instagram influencers in Konya in 2020. Most popular hashtags: #evdekal #fashion #evdekalt #travel.
+  Find top fashion Instagram influencers in Konya in 2020. Most popular hashtags: #konya #fashion #coronavirus #happy.
 platform: Instagram
 profiles:
-  - username: "gelindamatdergisi"
+  - username: "sedahocaninkombinleri"
     fullname: >-
-      Gelin Damat Dergisi
+      Seda Hoca’nın Renkli Hayatı
     location: "Turkey"
-    followers: 34403
-    engagement: 273
-    commentsToLikes: 0.001976
-    id: ck5q9xpbhdj9b0i115adijzhl
+    followers: 6951
+    engagement: 279
+    commentsToLikes: 0.101346
+    id: ck13cpyq21lhz0i19ch5tkvby
     verified: false
-    hashtags: "#damatlik, #51modaci, #prensesindusleri, #gelinlik"
+    hashtags: "#tiktok, #etkinlik, #anneo, #dans"
   - username: "pembedunyammm"
     fullname: >-
       Ümran
     location: "Turkey"
-    followers: 28410
-    engagement: 113
-    commentsToLikes: 0.106780
+    followers: 28900
+    engagement: 121
+    commentsToLikes: 0.117577
     id: ck5c9v3qfc6cg0i11rul1fj44
     verified: false
-    hashtags: "#makyajblogger, #mart, #evdekalt, #avonparf"
-  - username: "ozgeeeunal"
+    hashtags: "#23nisan, #izindeyizatam, #temizlikbenimi, #summertime"
+  - username: "gelindamatdergisi"
     fullname: >-
-      Özge Ünal ♥
+      Gelin Damat Dergisi
     location: "Turkey"
-    followers: 9314
-    engagement: 1171
-    commentsToLikes: 0.009796
-    id: ck13a3ke0ogfy0i19fo5jidml
+    followers: 33830
+    engagement: 274
+    commentsToLikes: 0.001722
+    id: ck5q9xpbhdj9b0i115adijzhl
     verified: false
-    hashtags: "#tagsforhearts, #kbayessal, #instaturkiye, #turkishfollowers"
-  - username: "arzuyanardag"
+    hashtags: "#parisgelinlik, #gultengelinlik, #barangelinlik, #basariodulu"
+  - username: "kemalsahin1"
     fullname: >-
-      Arzu Yanardağ
+      Kemal Şahin
     location: "Turkey"
-    followers: 46596
-    engagement: 219
-    commentsToLikes: 0.022287
-    id: ck5q7s0z82utv0i11vsrraqko
+    followers: 9516
+    engagement: 939
+    commentsToLikes: 0.246378
+    id: ck5zsq7xbyzmu0i145c2z90m2
     verified: false
-    hashtags: "#houstonportraits, #cute, #instagrammers, #fashion"
-  - username: "bifeyza"
+    hashtags: "#children, #game, #mask, #winter"
+  - username: "cokdeliminikaile"
     fullname: >-
-      
+      Ali Elif Köylü
     location: "Turkey"
-    followers: 93134
-    engagement: 82
-    commentsToLikes: 0.012040
-    id: ck6tmbt927jx30j71dza2nkql
+    followers: 13012
+    engagement: 800
+    commentsToLikes: 0.047489
+    id: ckaowe5048ja80i78k8422dvv
     verified: false
-    hashtags: "#minimalizm, #cekili, #homeoffice, #saat"
+    hashtags: "#minime, #instababygirl, #bebegiminkadraj, #beautiful"
+  - username: "alyagram_2017"
+    fullname: >-
+      Alya' nın dünyası
+    location: "Turkey"
+    followers: 12155
+    engagement: 1572
+    commentsToLikes: 0.025893
+    id: ckaovdxx146q40i78j8ailxye
+    verified: false
+    hashtags: "#like, #mothernature, #bride, #eidmubarak"
+  - username: "bebek_orgu_sayfasi"
+    fullname: >-
+      Bebek -örgü-sayfasi (leyla)
+    location: "Turkey"
+    followers: 21457
+    engagement: 198
+    commentsToLikes: 0.062802
+    id: ck8t45u2f5m290j7879q62hak
+    verified: false
+    hashtags: "#bebekyelekler, #favori, #nakoelit, #missmybaby"
   - username: "ozsoyphotography"
     fullname: >-
-      Abdullah Özsoy
+      Abdullah Özsoy
     location: "Turkey"
-    followers: 13042
-    engagement: 581
-    commentsToLikes: 0.011929
+    followers: 14315
+    engagement: 513
+    commentsToLikes: 0.010286
     id: ck15qskrv4fkc0i19jfwddg4c
     verified: false
-    hashtags: "#cami, #allshotsturkey, #photooftheday, #happy"
-  - username: "dunyakucuktur"
+    hashtags: "#istanbul, #gececekimi, #gonya, #cays"
+  - username: "izgisimal"
     fullname: >-
-      🌍 Gezgin | Traveler & Explorer
+      Şimal İzgi 🍒
     location: "Turkey"
-    followers: 14644
-    engagement: 458
-    commentsToLikes: 0.032717
-    id: ck0w3hczmtezg0i19nim5i9v6
+    followers: 2764
+    engagement: 2747
+    commentsToLikes: 0.133969
+    id: ckaot27amu1im0i78imlj088h
     verified: false
-    hashtags: "#sundayfunday, #so, #flavianusamfitiyatro, #accademia"
-  - username: "bayan.32dis"
+    hashtags: "#purple, #lilacmakeup, #makeuplook, #quarantine"
+  - username: "enfaldiner"
     fullname: >-
-      Ebru Güneş 🎩
+      Enfal Diner
     location: "Turkey"
-    followers: 126365
-    engagement: 668
-    commentsToLikes: 0.042314
-    id: ck8wf3d9kf29r0j78lneszht1
+    followers: 148270
+    engagement: 1918
+    commentsToLikes: 0.462020
+    id: ck6typy1d56fb0j717q83n76s
     verified: false
-    hashtags: "#ohadoymad, #fyp, #evindekalt, #anasayfa"
-  - username: "mayabasol"
-    fullname: >-
-      A S Y A & M A Y A  B A Ş O L
-    location: "Turkey"
-    followers: 188094
-    engagement: 935
-    commentsToLikes: 0.494897
-    id: ck137l5f4c3fj0i19zcbknynz
-    verified: false
-    hashtags: "#defactogetirsin, #evdeyiz, #sundaystyle, #tb"
-  - username: "yagmurguren__kulfel"
-    fullname: >-
-      Yagmur GUREN KULFEL
-    location: "Turkey"
-    followers: 16542
-    engagement: 720
-    commentsToLikes: 0.093698
-    id: ck0txr8a1k8hn0i19udsydld0
-    verified: false
-    hashtags: "#maternityphotography, #coffee, #moda, #winterfest"
+    hashtags: "#herkes, #hayat, #opporeno3pro"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Chefs Instagram Influencers In South Korea In 2020
 description: >-
-  Find top chefs Instagram influencers in South Korea in 2020. Most popular hashtags: #bts #kpop #ateez #topchef.
+  Find top chefs Instagram influencers in South Korea in 2020. Most popular hashtags: #chef #michelin #korean #restaurant.
 platform: Instagram
 profiles:
   - username: "chef_gigg_kamol"
     fullname: >-
       gigg_kamol
     location: "South Korea"
-    followers: 40081
-    engagement: 138
-    commentsToLikes: 0.018428
+    followers: 41337
+    engagement: 102
+    commentsToLikes: 0.020689
     id: ck0uesdmrm2y90i19ckarvflx
     verified: false
-    hashtags: "#chefgigg, #michelin, #pennythechef, #lovefood"
-  - username: "chefhoyoon"
-    fullname: >-
-      김호윤
-    location: "South Korea"
-    followers: 17014
-    engagement: 268
-    commentsToLikes: 0.014103
-    id: ck0w79rmecgtn0i19mex0ctl9
-    verified: false
-    hashtags: "#sarangbang, #wx, #restaurant, #orzoafter8"
+    hashtags: "#athome, #michelin, #lunch, #stayin"
   - username: "cheftonyyoo"
     fullname: >-
       Tony Yoo 유현수
     location: "South Korea"
-    followers: 10437
-    engagement: 529
-    commentsToLikes: 0.011236
+    followers: 10296
+    engagement: 537
+    commentsToLikes: 0.011044
     id: ck8sys9cplt5r0j78pqyqfwgh
     verified: false
-    hashtags: "#artham, #artdining, #finale, #salonde"
+    hashtags: "#cookart, #pinetree, #artexhibition, #reflections"
+  - username: "chefhoyoon"
+    fullname: >-
+      김호윤
+    location: "South Korea"
+    followers: 17172
+    engagement: 264
+    commentsToLikes: 0.010942
+    id: ck0w79rmecgtn0i19mex0ctl9
+    verified: false
+    hashtags: "#restaurant, #chef, #orzoinhk, #osteriaorzo"
   - username: "honeybeecake"
     fullname: >-
       Honeybee Cakes
     location: "South Korea"
-    followers: 73748
-    engagement: 126
-    commentsToLikes: 0.016807
+    followers: 74687
+    engagement: 166
+    commentsToLikes: 0.018059
     id: ck55pmnkrawaw0i11y3hiu95q
     verified: false
-    hashtags: "#amont, #valrhonachocolate, #stayhome, #brioche"
+    hashtags: "#easter, #opalys, #pastryacademyseoul, #valrhonachocolate"
+  - username: "yyunwoo"
+    fullname: >-
+      김윤우/한식전공
+    location: "South Korea"
+    followers: 96441
+    engagement: 255
+    commentsToLikes: 0.018872
+    id: ckap9pwe7t6670i78ne9czu8f
+    verified: false
+    hashtags: "#gimpo, #ikseondong, #aratrium, #bts"
+  - username: "kelly_choi_happy"
+    fullname: >-
+      Kelly Choi 켈리최
+    location: "South Korea"
+    followers: 16446
+    engagement: 529
+    commentsToLikes: 0.119160
+    id: ck5bvzwqckq7z0i11yzf35upj
+    verified: false
+    hashtags: "#successquotes, #work, #lisbon, #chef"
   - username: "marrubee"
     fullname: >-
       YOON DOOWON'S DRUM 🥁
     location: "South Korea"
-    followers: 4731
-    engagement: 3061
-    commentsToLikes: 0.026988
+    followers: 4813
+    engagement: 2940
+    commentsToLikes: 0.027321
     id: ck15sdrc1cht80i19bfj1pc2o
     verified: false
-    hashtags: "#vmin, #younghyun, #jooheon, #jeonginfanart"
-  - username: "mulkong_chef"
+    hashtags: "#leeknowiscute, #jiminie, #topnine, #yeosang"
+  - username: "soo_bunny"
     fullname: >-
-      Chef mulkong(물콩식당 주인장)
+      Soo 수 スー
     location: "South Korea"
-    followers: 66193
-    engagement: 837
-    commentsToLikes: 0.007238
-    id: ck8tcq3wp08zy0j78o0ojxkj3
+    followers: 8613
+    engagement: 561
+    commentsToLikes: 0.089493
+    id: ck8wghlj2hdq30j78fxea8t39
     verified: false
-    hashtags: "#latte, #homecafe, #mood, #sponsored"
+    hashtags: "#seoultrip, #koreangrammarinuse, #japan, #scottishfold"
   - username: "bhog_log"
     fullname: >-
       bhog_log
     location: "South Korea"
-    followers: 4990
-    engagement: 1119
-    commentsToLikes: 0.194547
+    followers: 5088
+    engagement: 1120
+    commentsToLikes: 0.179732
     id: ck0vw2i7trt3r0i19agmadzo5
     verified: false
     hashtags: "#100, #360"
-  - username: "ran_choi._"
+  - username: "chefjungsik"
     fullname: >-
-      
+      JungsikYim
     location: "South Korea"
-    followers: 3226
-    engagement: 2504
-    commentsToLikes: 0.049722
-    id: ck0w5i5u73rce0i19weg8y416
+    followers: 22416
+    engagement: 264
+    commentsToLikes: 0.017613
+    id: ck5honn5rpvyy0i11mmju5w5o
     verified: false
-    hashtags: "#cosmetic, #ad, #3flobby, #versgarden"
-  - username: "junki_jo"
-    fullname: >-
-      JOJO
-    location: "South Korea"
-    followers: 40376
-    engagement: 538
-    commentsToLikes: 0.028110
-    id: ck13bsjygwyru0i199zmpzgga
-    verified: false
-    hashtags: "#reynisfjara, #hongkong, #iceland, #jokulsarlon"
-  - username: "soo_bunny"
-    fullname: >-
-      Soo 수 スーちゃん
-    location: "South Korea"
-    followers: 7237
-    engagement: 468
-    commentsToLikes: 0.094182
-    id: ck8wghlj2hdq30j78fxea8t39
-    verified: false
-    hashtags: "#tiktokkorea, #koreandrama, #itaewonclass, #koreanlesson"
+    hashtags: "#20, #restaurant, #michelin, #michelinguide"
 ---

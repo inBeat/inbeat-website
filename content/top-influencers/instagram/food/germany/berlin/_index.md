@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Berlin In 2020
 description: >-
-  Find top food Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #berlinfood #foodie #berlinfoodguide.
+  Find top food Instagram influencers in Berlin in 2020. Most popular hashtags: #foodberlin #berlin #hummuslover #berlinblogger.
 platform: Instagram
 profiles:
-  - username: "josephine.krk"
-    fullname: >-
-      𝐉𝐎𝐒𝐄𝐏𝐇𝐈𝐍𝐄 𝐊.
-    location: "Germany"
-    followers: 6675
-    engagement: 877
-    commentsToLikes: 0.264910
-    id: ck8t3pvbp41d10j78j3duk3wb
-    verified: false
-    hashtags: "#sun, #beautyprodukte, #flatlay, #flatlaylove"
   - username: "foodistisch"
     fullname: >-
       Berlin Food Traveller 🇩🇪🇻🇳
     location: "Germany"
-    followers: 6159
-    engagement: 548
-    commentsToLikes: 0.159426
+    followers: 6488
+    engagement: 656
+    commentsToLikes: 0.224067
     id: ck5ch7rmgq99x0i11thtdnstq
     verified: false
-    hashtags: "#berlinfoodie, #coffeetime, #sushilover, #foodinberlin"
+    hashtags: "#waffles, #instamood, #burger, #currynight"
   - username: "healthymealsberlin"
     fullname: >-
       Healthy Meals Berlin
     location: "Germany"
-    followers: 53768
-    engagement: 657
-    commentsToLikes: 0.017323
+    followers: 65388
+    engagement: 525
+    commentsToLikes: 0.029625
     id: ck0tvwbp3d2kr0i19io5gmwvb
     verified: false
-    hashtags: "#healthymealsberlin"
+    hashtags: ""
   - username: "daniel_fehlow"
     fullname: >-
       Daniel Fehlow
     location: "Germany"
-    followers: 139724
-    engagement: 305
-    commentsToLikes: 0.018206
+    followers: 143118
+    engagement: 322
+    commentsToLikes: 0.017345
     id: ck5zpmky2sxhk0i14i8fzbyd7
     verified: true
-    hashtags: "#kr, #gzsz, #dreamteam, #foodberlin"
+    hashtags: "#weihnachten, #backagain, #teamplayer, #funnyfrisch"
+  - username: "lenqsophia"
+    fullname: >-
+      INSPO • FASHION • LIFESTYLE
+    location: "Germany"
+    followers: 2636
+    engagement: 1443
+    commentsToLikes: 0.085389
+    id: ck8t198uvuvq40j78hs9i532i
+    verified: false
+    hashtags: "#swag, #madewell, #passion4fashion, #fashionblogger"
   - username: "foodtasterberlin"
     fullname: >-
       FOODTASTER
     location: "Germany"
-    followers: 9599
-    engagement: 445
-    commentsToLikes: 0.307458
+    followers: 9553
+    engagement: 438
+    commentsToLikes: 0.254929
     id: ck5hkxddhj75e0i11tnuilzi6
     verified: false
-    hashtags: "#lafood, #quarantine, #hamburgfood, #france"
+    hashtags: "#quarantinefood, #mochi, #truffle, #mexico"
+  - username: "robert_hofmann"
+    fullname: >-
+      Robert Hofmann
+    location: "Germany"
+    followers: 42690
+    engagement: 407
+    commentsToLikes: 0.018346
+    id: ck5qbe48ml5h00i11pmyos1ys
+    verified: true
+    hashtags: "#hogwarts, #methodacting, #lionine, #hummus"
   - username: "gastroberlin"
     fullname: >-
       Food in Berlin
     location: "Germany"
-    followers: 18130
-    engagement: 236
-    commentsToLikes: 0.224389
+    followers: 17877
+    engagement: 253
+    commentsToLikes: 0.215431
     id: ck55nhghr684v0i11vn4i1p3b
     verified: false
-    hashtags: "#wine, #southkorea, #waffles, #foodblog"
-  - username: "berlin_ickliebedir"
+    hashtags: "#vegan, #healthy, #bowls, #giveaway"
+  - username: "veronika_klimovits"
     fullname: >-
-      BERLIN ICK LIEBE DIR
+      Veronika Klimovits
     location: "Germany"
-    followers: 63329
-    engagement: 268
-    commentsToLikes: 0.016774
-    id: ck14h0rjq7ytp0i19zflerxt1
-    verified: false
-    hashtags: "#ihavethisthingwithberlin, #nightshots, #iphone11pro, #berlinfeature"
-  - username: "aboudi.86"
+    followers: 87537
+    engagement: 433
+    commentsToLikes: 0.054089
+    id: ck13bd4luuuqq0i19odzvpflm
+    verified: true
+    hashtags: "#outfitlove, #ichliebedich, #pyjamastyle, #lovemychihuahua"
+  - username: "lostdelphine"
     fullname: >-
-      ABOUDI
+      🐬Kristina Delphi
     location: "Germany"
-    followers: 102663
-    engagement: 530
-    commentsToLikes: 0.020667
-    id: ck6tr14wbw7k20j71hv9j0pnw
+    followers: 20060
+    engagement: 729
+    commentsToLikes: 0.034090
+    id: ck600qd0ie2l20i14z1nf5lka
     verified: false
-    hashtags: "#smile, #me, #besafe, #socialdistancing"
-  - username: "nanukboy"
+    hashtags: "#stabiloboss, #maske, #music, #atomars"
+  - username: "liesalucia"
     fullname: >-
-      NANUK
+      ʟ ɪ ᴇ s ᴀ   ʟ ᴜ ᴄ ɪ ᴀ ☾
     location: "Germany"
-    followers: 40985
-    engagement: 181
-    commentsToLikes: 0.066947
-    id: ck14lbjd9ttti0i19bsa4r6p9
+    followers: 9863
+    engagement: 509
+    commentsToLikes: 0.210976
+    id: ck0tzcfn6psks0i19mlka1ac4
     verified: false
-    hashtags: "#shorts, #allblack, #holidaze, #valledecocora"
-  - username: "heylilahey"
-    fullname: >-
-      Mia Marjanović
-    location: "Germany"
-    followers: 25644
-    engagement: 284
-    commentsToLikes: 0.041029
-    id: ck0tx5r0zi1by0i19bfzjlns7
-    verified: false
-    hashtags: "#secondhandfirst, #readingtime, #whatsinseason, #supportsmallbusinesses"
+    hashtags: "#adidas, #tragendekraft, #mondaymood, #fridaymood"
 ---

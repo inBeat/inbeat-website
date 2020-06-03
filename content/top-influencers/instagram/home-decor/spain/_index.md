@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Spain In 2020
 description: >-
-  Find top home decor Instagram influencers in Spain in 2020. Most popular hashtags: #yomequedoencasa #home #homedecor #stayathome.
+  Find top home decor Instagram influencers in Spain in 2020. Most popular hashtags: #homedecor #deco #sorteo #inspiration.
 platform: Instagram
 profiles:
+  - username: "iraloginova"
+    fullname: >-
+      irina  loginova 📍 barcelona
+    location: "Spain"
+    followers: 6541
+    engagement: 231
+    commentsToLikes: 0.128388
+    id: ck1397toljyye0i191ejr8204
+    verified: false
+    hashtags: "#spain, #yomequedoencasa, #staysafe, #summer2020"
   - username: "recienviajados"
     fullname: >-
       | ARAN + PABLO |
     location: "Spain"
-    followers: 32375
-    engagement: 636
-    commentsToLikes: 0.218280
+    followers: 33016
+    engagement: 658
+    commentsToLikes: 0.162930
     id: ck0w5yzre64200i19ctvca8j1
     verified: false
-    hashtags: "#valencia, #travelingcouples, #kitchengoals, #gorgodelaescalera"
-  - username: "titanium_mommy"
+    hashtags: "#agres, #firenze, #alcoy, #florencia"
+  - username: "dirty_closet"
     fullname: >-
-      Zoraida Megías
+      Olga Victoria 🦄 #DirtyEjercito
     location: "Spain"
-    followers: 6547
-    engagement: 1036
-    commentsToLikes: 0.279164
-    id: ck6tymvp04o9v0j71ogsr0o2q
+    followers: 108229
+    engagement: 582
+    commentsToLikes: 0.100814
+    id: ck13amp38r4ph0i19ixfyh9td
     verified: false
-    hashtags: "#decohome, #palabrotas, #librofavorito, #cuarentena"
+    hashtags: "#2mayo, #ohana, #nudelips, #redlipsdontcare"
+  - username: "piibre"
+    fullname: >-
+      Pilar Ibáñez
+    location: "Spain"
+    followers: 12456
+    engagement: 1007
+    commentsToLikes: 0.350202
+    id: ck8taz0pqtoal0j78pkjq1kya
+    verified: false
+    hashtags: "#zaralovers, #cuadrosvichy, #gillettevenus, #laminas"
   - username: "lauucg1"
     fullname: >-
       LAURA CAÑERO
     location: "Spain"
-    followers: 9942
-    engagement: 941
-    commentsToLikes: 0.072895
+    followers: 11982
+    engagement: 945
+    commentsToLikes: 0.075580
     id: ck5hmtb10ml2f0i1194gt9gew
     verified: false
-    hashtags: "#blondehair, #outfittoday, #boots, #couple"
-  - username: "susanagarciagg"
+    hashtags: "#yummyfood, #coronavirusespa, #pijama, #jeanslovers"
+  - username: "make_baby_up"
     fullname: >-
-      Susana de la Palma García
+      🦄 🌈 babyCris 🌈🦄
     location: "Spain"
-    followers: 8988
-    engagement: 736
-    commentsToLikes: 0.122432
-    id: ck6ubb9om8kuu0j71f67c43cm
+    followers: 15063
+    engagement: 706
+    commentsToLikes: 0.125916
+    id: ck9weydcemf1k0j78fssy2fip
     verified: false
-    hashtags: "#fashion, #set, #top, #influencer"
-  - username: "solmyko"
+    hashtags: "#micelas, #iphone, #present, #bookaddict"
+  - username: "mels_anatomy"
     fullname: >-
-      Solveiga Mykolaitytė
+      Mel Navarro 🥀
     location: "Spain"
-    followers: 61547
-    engagement: 364
-    commentsToLikes: 0.040530
-    id: ck8szsja2pjwm0j78j6x6qt2r
+    followers: 40828
+    engagement: 321
+    commentsToLikes: 0.078709
+    id: ck5zv0tmn3dvp0i14b12bjbkf
     verified: false
-    hashtags: "#quarantinemarbella, #jauku, #vasara, #bestrongspain"
-  - username: "aliceneverstop"
+    hashtags: "#justengaged, #body, #gymmotivation, #shesaidyes"
+  - username: "mapetiteamelieetmoi"
     fullname: >-
-      Alice 🍀 > Content Creator
+      Anna 💝 Mama De Amélie
     location: "Spain"
-    followers: 16912
-    engagement: 282
-    commentsToLikes: 0.400068
-    id: ck55luiyj2gsl0i11ktot5nma
+    followers: 19206
+    engagement: 422
+    commentsToLikes: 0.350093
+    id: ck0u8tkey8c0x0i19tuq4dbm6
     verified: false
-    hashtags: "#lancasterbeauty, #rostroluminoso, #belleza, #pa"
-  - username: "miriss.love"
+    hashtags: "#butterfly, #simplychildren, #marabri, #diario"
+  - username: "aliciatwins"
     fullname: >-
-      MIREIA CASADO
+      🇦 🇱 🇮 🇨 🇪
     location: "Spain"
-    followers: 12754
-    engagement: 436
-    commentsToLikes: 0.072310
-    id: ck0w6xnmbar250i19aj1xbaf5
+    followers: 21771
+    engagement: 418
+    commentsToLikes: 0.108854
+    id: ck13b2vpmtfbl0i1996ndf4f3
     verified: false
-    hashtags: "#springoutfit, #springfashion, #crueltyfree, #decor"
-  - username: "rafa_varez"
+    hashtags: "#inspiration, #deco, #neutraldecor, #fashionselves"
+  - username: "sarareyfdez"
     fullname: >-
-      Rafa Várez
+      SARA REY
     location: "Spain"
-    followers: 144516
-    engagement: 345
-    commentsToLikes: 0.016424
-    id: ck5hrm44mv3fa0i11rb99c5xj
+    followers: 10550
+    engagement: 724
+    commentsToLikes: 0.239392
+    id: ck8t12zirua4b0j78byyk2xu2
     verified: false
-    hashtags: "#dogs, #tombraider, #runnersofinstagram, #sunday"
-  - username: "clickcollector"
-    fullname: >-
-      SOFIA HITA | photographer
-    location: "Spain"
-    followers: 43586
-    engagement: 310
-    commentsToLikes: 0.026140
-    id: ck5cfyx55nuo40i11mxvzczyn
-    verified: false
-    hashtags: "#mitos, #artistsupportartists, #interiordecorating, #clickcotips"
-  - username: "elsonidodemistacones"
-    fullname: >-
-      El Sonido De Mis Tacones
-    location: "Spain"
-    followers: 32802
-    engagement: 318
-    commentsToLikes: 0.074257
-    id: ck5zm5lzclxz80i14onn024g8
-    verified: false
-    hashtags: "#parosh, #yesalphaindustries, #felizcumplea, #covid19espa"
+    hashtags: "#californiatrip, #accesoriosmujer, #arizonamodel, #homemadebrunch"
 ---

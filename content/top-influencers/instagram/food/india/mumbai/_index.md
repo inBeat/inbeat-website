@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Mumbai In 2020
 description: >-
-  Find top food Instagram influencers in Mumbai in 2020. Most popular hashtags: #mumbaifoodie #mumbaifood #mumbai #mumbaifoodblogger.
+  Find top food Instagram influencers in Mumbai in 2020. Most popular hashtags: #mumbaifood #mumbaifoodie #mumbai #pizza.
 platform: Instagram
 profiles:
   - username: "foodforthought06"
     fullname: >-
       FoodForThought
     location: "India"
-    followers: 5691
-    engagement: 967
-    commentsToLikes: 0.023025
+    followers: 5584
+    engagement: 988
+    commentsToLikes: 0.022941
     id: ck1376zw0a3rl0i19q7otla8j
     verified: false
-    hashtags: "#madzi34, #streetfoodindia, #mumbaistagram, #foodofmumbai"
-  - username: "snappysage"
+    hashtags: "#ajmausamm, #delhifoodguide, #limzi32, #neeexpsetz"
+  - username: "foodsex0"
     fullname: >-
-      Chirag
+      Food Influencer | #foodsex
     location: "India"
-    followers: 21334
-    engagement: 529
-    commentsToLikes: 0.038430
-    id: ck6twgjeirv1s0j7192369pn2
+    followers: 2156
+    engagement: 2927
+    commentsToLikes: 0.386409
+    id: ckapba289z4zp0i78e10cd07x
     verified: false
-    hashtags: "#gulabjamun, #chickenroll, #streetfood, #tandoorimomos"
-  - username: "kyakyakhau"
+    hashtags: "#food, #mumbaifood, #like4like, #foodwalk"
+  - username: "hvevents.in"
     fullname: >-
-      Alissa & Arnold 🎎
+      Harshit Vohra
     location: "India"
-    followers: 7622
-    engagement: 373
-    commentsToLikes: 0.283080
-    id: ck1395oekjnjc0i19c5gnotpq
+    followers: 20642
+    engagement: 16
+    commentsToLikes: 0.059568
+    id: ck0tu31ke5eyd0i198rs86z7g
     verified: false
-    hashtags: "#foodtalkindia, #foodzaara, #gocoronago, #food"
-  - username: "vegguruindia"
+    hashtags: "#southbombaybar, #stebinben, #dining, #event"
+  - username: "anmol_singh013"
     fullname: >-
-      VegGuruIndia™(Nigam Sarvaiya)
+      Ahmedabad food blogger
     location: "India"
-    followers: 33902
-    engagement: 2324
-    commentsToLikes: 0.014926
-    id: ck5zza46xbd5k0i14v8gwxf6p
+    followers: 13288
+    engagement: 629
+    commentsToLikes: 0.154573
+    id: ck5bwqqtam84s0i11jfh1c9gm
     verified: false
-    hashtags: "#foodmaniacindia, #losangeles, #80sadak20, #pune"
-  - username: "foodychinks"
+    hashtags: "#foodexplorer, #southindian, #instalove, #burger"
+  - username: "aadiivaasiii"
     fullname: >-
-      rakhi Chettri
+      Rishika Rao
     location: "India"
-    followers: 6538
-    engagement: 401
-    commentsToLikes: 0.041248
-    id: ck1350qulz44o0i19rfubuee1
+    followers: 69880
+    engagement: 41
+    commentsToLikes: 0.051874
+    id: ck1350t72z4fx0i19g6oi74g5
     verified: false
-    hashtags: "#foodstyling, #desikhana, #recipeoftheday, #waheguru"
-  - username: "travelfoodie14"
+    hashtags: "#india, #lockdownwithfrubon, #foodvideos, #jaipurlove"
+  - username: "delhiicious"
     fullname: >-
-      Travel Foodie 14
+      Vaishnavi Jha!!!
     location: "India"
-    followers: 6922
-    engagement: 482
-    commentsToLikes: 0.024904
-    id: ck15qqwkn47xy0i19f73y8bwr
+    followers: 10602
+    engagement: 460
+    commentsToLikes: 0.148538
+    id: ckaoqumcukh6j0i785t5x27cx
     verified: false
-    hashtags: "#foodstyling, #mumbai, #yummy, #goodness"
-  - username: "thats.how.we.eat"
-    fullname: >-
-      Ahmedabad Food Influencer
-    location: "India"
-    followers: 4767
-    engagement: 1413
-    commentsToLikes: 0.044915
-    id: ck15pq4rcz3no0i19lbno43ek
-    verified: false
-    hashtags: "#lockdown, #yummy, #delhi6, #coffee"
-  - username: "imtoocheesyforyou"
-    fullname: >-
-      Mallikaaaaa✨| Delhi Food Blog
-    location: "India"
-    followers: 5351
-    engagement: 1336
-    commentsToLikes: 0.222188
-    id: ck6tr99opxnya0j71usfclh6t
-    verified: false
-    hashtags: "#foodpics, #delhifoodwalks, #pepperonipizzaday, #instagood"
-  - username: "thechowsquad"
-    fullname: >-
-      The Chow Squad
-    location: "India"
-    followers: 20170
-    engagement: 3311
-    commentsToLikes: 0.009545
-    id: ck0ubel8mecej0i19108fjw6i
-    verified: false
-    hashtags: "#thechowsquad, #holi2020"
+    hashtags: "#foodstyling, #foodiesince96, #blogger, #macdonalds"
   - username: "kinjalshuklabhanushali"
     fullname: >-
       Kinjal Bhanushali
     location: "India"
-    followers: 63316
-    engagement: 155
-    commentsToLikes: 0.079183
+    followers: 68175
+    engagement: 79
+    commentsToLikes: 0.172229
     id: ck0w0ka94empf0i19jm7ygy0p
     verified: false
-    hashtags: "#betterin3d, #kayayouth, #amazonbeautyxgarnier, #quarantineandchill"
+    hashtags: "#quaratineandchill, #covid19, #stayhome, #aldocrew"
+  - username: "epicsum"
+    fullname: >-
+      Yummy Tummy (Foodies)
+    location: "India"
+    followers: 6937
+    engagement: 635
+    commentsToLikes: 0.048246
+    id: ck5zsp1lvyx2x0i143jzt8aw0
+    verified: false
+    hashtags: "#choco, #streetfood, #foodlove, #mocktail"
+  - username: "foodcrazymumbai"
+    fullname: >-
+      Food Crazy Mumbai
+    location: "India"
+    followers: 30638
+    engagement: 153
+    commentsToLikes: 0.013390
+    id: ck6uh8u6j7p5g0j71oe6ebnn2
+    verified: false
+    hashtags: "#frenchfries, #xmas, #britishwaffle, #foodtalkindia"
+  - username: "thechowsquad"
+    fullname: >-
+      Rohan Save
+    location: "India"
+    followers: 22960
+    engagement: 2439
+    commentsToLikes: 0.010402
+    id: ck0ubel8mecej0i19108fjw6i
+    verified: false
+    hashtags: "#safecravings, #dominosfoodsoldiers, #zerocontactdelivery, #yourfavouritesback"
 ---

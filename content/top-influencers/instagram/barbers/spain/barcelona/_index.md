@@ -1,107 +1,107 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top barbers Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #barber #barbershop #barbershopconnect.
+  Find top barbers Instagram influencers in Barcelona in 2020. Most popular hashtags: #malaga #relax #quedateencasa #style.
 platform: Instagram
 profiles:
   - username: "ambarberia"
     fullname: >-
       ANTONIO MATEO. ✪
     location: "Spain"
-    followers: 109439
-    engagement: 91
-    commentsToLikes: 0.014052
+    followers: 112129
+    engagement: 135
+    commentsToLikes: 0.015589
     id: ck6u003tycvbd0j71rzejnmy8
     verified: false
-    hashtags: "#barbering, #barcelona, #thanos, #marvel"
-  - username: "adilmahfud_"
-    fullname: >-
-      ✖️ADIL✖️
-    location: "Spain"
-    followers: 87418
-    engagement: 286
-    commentsToLikes: 0.022705
-    id: ck6txuzcr008b0j71mvyru2pq
-    verified: false
-    hashtags: "#motivation, #picture, #siksilk, #instagram"
+    hashtags: "#mequedoencasa, #photooftheday, #fashionista, #shape"
   - username: "popdastan"
     fullname: >-
       Nathan T.
     location: "Spain"
-    followers: 17710
-    engagement: 599
-    commentsToLikes: 0.036848
+    followers: 21478
+    engagement: 506
+    commentsToLikes: 0.031218
     id: ck8t7v9lbi2xq0j786oettcgf
     verified: false
-    hashtags: "#buttercream, #beauty, #instafood, #briefs"
-  - username: "carlosfabra.cosafina"
+    hashtags: "#working, #hairy, #unitedstates, #thursdaymood"
+  - username: "adilmahfud_"
     fullname: >-
-      Carlos Fabra Segura
+      عادل
     location: "Spain"
-    followers: 232077
-    engagement: 241
-    commentsToLikes: 0.020102
-    id: ck0w432vqwkbb0i19uigow0yj
+    followers: 88223
+    engagement: 313
+    commentsToLikes: 0.021652
+    id: ck6txuzcr008b0j71mvyru2pq
     verified: false
-    hashtags: "#money, #fight, #samurai, #cinema"
-  - username: "iamdavidfalla"
+    hashtags: "#dayoff, #newpost, #fashionblogger, #instagram"
+  - username: "brianbarber_"
     fullname: >-
-      DAVID FALLA ✪✁
+      βrιαη Pεrεz Qυιrσs ✪
     location: "Spain"
-    followers: 53976
-    engagement: 206
-    commentsToLikes: 0.032400
-    id: ck5hjwtjmhdyo0i11b5192zky
+    followers: 21460
+    engagement: 296
+    commentsToLikes: 0.023191
+    id: ck6ubn6jqakew0j71x4ffqen3
     verified: false
-    hashtags: "#espa, #cortesmasculinos, #entrepreneurship, #miamibarber"
-  - username: "adereti.s"
+    hashtags: "#challenge, #barbertattoo, #happy, #party"
+  - username: "marilentattoo"
     fullname: >-
-      ADERETI  STUDIO  BARBERSHOP
+      Marilen Adrover - Tattoo
     location: "Spain"
-    followers: 44117
-    engagement: 208
-    commentsToLikes: 0.027553
-    id: ck6u5m1nmaeui0j71th6ejuf4
+    followers: 10846
+    engagement: 647
+    commentsToLikes: 0.016975
+    id: ck5q2x9gri8720i11woei9de3
     verified: false
-    hashtags: "#haircut, #fastfade, #yomequedoencasa, #matchday"
+    hashtags: "#germany, #amabie, #digitaldrawing, #sailormoon"
+  - username: "chasetattooart"
+    fullname: >-
+      Chase Neooriental Tattoo
+    location: "Spain"
+    followers: 31046
+    engagement: 115
+    commentsToLikes: 0.029952
+    id: ck6u3cyhmx3h20j71a4p7c75e
+    verified: false
+    hashtags: "#starwars, #orientalmask, #hannnya, #handmade"
+  - username: "aranzaosorou"
+    fullname: >-
+      Aranzazu Osoro Ulrich 🇦🇷
+    location: "Spain"
+    followers: 7554
+    engagement: 698
+    commentsToLikes: 0.030227
+    id: ck6ts9k7p3i6w0j7154n4bdj9
+    verified: false
+    hashtags: "#sorteo, #castelldefels, #sonreir, #ilusion"
+  - username: "alebarber.18"
+    fullname: >-
+      Alєхαηdєr Acσsтα ✪ |📍UY🌎
+    location: "Spain"
+    followers: 5696
+    engagement: 1372
+    commentsToLikes: 0.068240
+    id: ck5zn1d9tnlbv0i14fy6dmd98
+    verified: false
+    hashtags: "#makeup, #barberspain, #estilo, #fadespain"
   - username: "bbflow_"
     fullname: >-
       
     location: "Spain"
-    followers: 8861
-    engagement: 1315
-    commentsToLikes: 0.033260
+    followers: 8739
+    engagement: 1267
+    commentsToLikes: 0.037668
     id: ck5bzyp47s3hs0i11qgerjqet
     verified: false
-    hashtags: "#top, #welovegod, #russia, #tbt"
+    hashtags: "#sanpetersburgo, #tbt, #swagg, #d10s"
   - username: "thefaderbarber_"
     fullname: >-
       💈THEFADER💈🧠♾🧠
     location: "Spain"
-    followers: 19110
-    engagement: 1137
-    commentsToLikes: 0.014328
+    followers: 18865
+    engagement: 1153
+    commentsToLikes: 0.014429
     id: ck15uc20fmf1w0i19shd8n7f8
     verified: false
-    hashtags: "#malegrooming, #fade, #suavecito, #barbergang"
-  - username: "jonanwolfx_"
-    fullname: >-
-      Jonan Wolff Official
-    location: "Spain"
-    followers: 25904
-    engagement: 523
-    commentsToLikes: 0.020209
-    id: ck5qab8njfhoz0i11wrwzjq96
-    verified: false
-    hashtags: "#7day, #gayguyswithbeards, #guyswithbeards, #beardsofinstagram"
-  - username: "_carlosrey"
-    fullname: >-
-      Carlos Rey 🦦
-    location: "Spain"
-    followers: 4178
-    engagement: 1431
-    commentsToLikes: 0.038795
-    id: ck1342vkduffg0i19kq1gn7mp
-    verified: false
-    hashtags: "#mustang, #cabrio, #goodvibes, #hawaii"
+    hashtags: "#marbella2017, #mrporter, #mensgrooming, #puertobanus"
 ---

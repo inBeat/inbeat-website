@@ -1,16 +1,26 @@
 ---
 title: Top 10 Photographers Instagram Influencers In Atlanta In 2020
 description: >-
-  Find top photographers Instagram influencers in Atlanta in 2020. Most popular hashtags: #model #photooftheday #miami #atlanta.
+  Find top photographers Instagram influencers in Atlanta in 2020. Most popular hashtags: #photographer #covid19 #newyorkcity #love.
 platform: Instagram
 profiles:
+  - username: "braylendion"
+    fullname: >-
+      Braylen Dion
+    location: "United States"
+    followers: 17753
+    engagement: 2248
+    commentsToLikes: 0.016219
+    id: ck13cc5drzmls0i190iwegth7
+    verified: false
+    hashtags: ""
   - username: "alexandraytoy"
     fullname: >-
       Allie Toy
     location: "United States"
-    followers: 2231
-    engagement: 1913
-    commentsToLikes: 0.060463
+    followers: 2187
+    engagement: 1858
+    commentsToLikes: 0.056174
     id: ck8t4hsxl6v790j78ilyufya2
     verified: false
     hashtags: "#bossbabegiveaway, #hootyhoo, #thesymposium"
@@ -18,90 +28,80 @@ profiles:
     fullname: >-
       Katie Kauss
     location: "United States"
-    followers: 8487
-    engagement: 631
-    commentsToLikes: 0.027848
+    followers: 8405
+    engagement: 582
+    commentsToLikes: 0.026907
     id: ck0tx4wwzhxi40i19cf9nk5e7
     verified: false
-    hashtags: "#cmaawards, #thisshirtsaveslives, #tbt, #wcw"
+    hashtags: "#tbt, #wcw, #cmaawards, #thisshirtsaveslives"
   - username: "vitalyzorkin"
     fullname: >-
       vitaly zorkin
     location: "United States"
-    followers: 4063
-    engagement: 1644
-    commentsToLikes: 0.069847
+    followers: 4269
+    engagement: 1340
+    commentsToLikes: 0.068102
     id: ck15t9x8xh1ws0i191d9t12dw
     verified: false
-    hashtags: "#softdrink, #beverage, #studioshot, #conormcgregor"
-  - username: "paulhenrystudios"
+    hashtags: "#advertisingphoto, #chronoscameras, #wine, #propeginger"
+  - username: "cory__jermaine"
     fullname: >-
-      Paul Henry Collins
+      Cory-Jermaine
     location: "United States"
-    followers: 15967
-    engagement: 111
-    commentsToLikes: 0.068176
-    id: ck0w0rjr8foms0i19rade3y11
+    followers: 4318
+    engagement: 1037
+    commentsToLikes: 0.094928
+    id: ck6tvxrd5ovg20j71ezhsjdn0
     verified: false
-    hashtags: "#vogueitalia, #clickmodelsatl, #darkbeautymag, #curvygirl"
-  - username: "mannymccord"
+    hashtags: "#island, #oldtownroad, #milkstudios, #wipeyanose"
+  - username: "tajavsimpson"
     fullname: >-
-      M A N N Y
+      t a j a V. s i m p s o n
     location: "United States"
-    followers: 6269
-    engagement: 706
-    commentsToLikes: 0.099713
-    id: ck5q7j8qv1u6r0i11ybm71f5i
+    followers: 36217
+    engagement: 132
+    commentsToLikes: 0.091170
+    id: ck6tocsekdckl0j71itgrz6ji
     verified: false
-    hashtags: "#sunset, #stunt, #dronepilot, #biracial"
-  - username: "sexychellie_16"
-    fullname: >-
-      Bella Chellie - Main Page
-    location: "United States"
-    followers: 18867
-    engagement: 446
-    commentsToLikes: 0.044451
-    id: ck0vz2r2r6zuu0i1909w9s176
-    verified: false
-    hashtags: "#boudoircosplay, #curvywoman, #flauntyourcurvez, #beautybeyondsize"
+    hashtags: "#highnoonteatime, #ww84, #workingactor, #lightscameraaction"
   - username: "winningauto"
     fullname: >-
       Larry
     location: "United States"
-    followers: 12400
-    engagement: 715
-    commentsToLikes: 0.016423
+    followers: 12895
+    engagement: 657
+    commentsToLikes: 0.025142
     id: ck0vxvkxg0ye60i19gdxhn0df
     verified: false
-    hashtags: "#koenigsegg, #fordgt, #connecticut, #regera"
+    hashtags: "#458speciale, #458specialea, #singer, #fordperformance"
   - username: "jjasonchambers"
     fullname: >-
       Jason Chambers
     location: "United States"
-    followers: 6288
-    engagement: 704
-    commentsToLikes: 0.023884
+    followers: 6797
+    engagement: 647
+    commentsToLikes: 0.026947
     id: ck6uffxbhwtb00j71ne4vsgqc
     verified: false
     hashtags: ""
+  - username: "rachel_macon4"
+    fullname: >-
+      Rachel Macon
+    location: "United States"
+    followers: 2260
+    engagement: 1185
+    commentsToLikes: 0.048542
+    id: ck9wf6bzcndnt0j78x4gt6pl6
+    verified: false
+    hashtags: "#mcm, #carters, #sevenmonthold, #twinmom"
   - username: "tenthandgrace"
     fullname: >-
       Tanya Menoni - Tenth and Grace
     location: "United States"
-    followers: 41205
-    engagement: 149
-    commentsToLikes: 0.033158
+    followers: 41085
+    engagement: 140
+    commentsToLikes: 0.037915
     id: ck0vypx5857o40i19ojhp6vh2
     verified: false
-    hashtags: "#covid19, #stayinspeakout, #stayhome"
-  - username: "rxchimages"
-    fullname: >-
-      RXCH IMAGES ™️
-    location: "United States"
-    followers: 3316
-    engagement: 155
-    commentsToLikes: 0.058527
-    id: ck0vxtq6h0oo90i19jm6qrrzx
-    verified: false
-    hashtags: ""
+    hashtags: "#stayhome, #covid19, #stayinspeakout"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Finland In 2020
 description: >-
-  Find top food Instagram influencers in Finland in 2020. Most popular hashtags: #vegan #instablogit #fitness #happy.
+  Find top food Instagram influencers in Finland in 2020. Most popular hashtags: #vappu #arvonta #stayhome #terveellinen.
 platform: Instagram
 profiles:
-  - username: "maijuriskala"
+  - username: "piiapajunen"
     fullname: >-
-      MAIJU RISKALA
+      Piia Pajunen
     location: "Finland"
-    followers: 8962
-    engagement: 1306
-    commentsToLikes: 0.021431
-    id: ck55k2jm4yazs0i11jci1ify8
+    followers: 54740
+    engagement: 687
+    commentsToLikes: 0.024166
+    id: ck5zt7ag6zv9m0i14twdw10t3
     verified: false
-    hashtags: "#kes, #foodin, #snack, #el"
-  - username: "siljatuominenn"
-    fullname: >-
-      SILJA TUOMINEN🇫🇮
-    location: "Finland"
-    followers: 1070
-    engagement: 5476
-    commentsToLikes: 0.029363
-    id: ck8t0ct5drmlr0j78210z7cn5
-    verified: false
-    hashtags: "#myprotein"
+    hashtags: "#liikkuvuusharjoittelu, #ootd, #hyvia, #fastfinland"
   - username: "mikaelakosk"
     fullname: >-
-      Mikaela Koskela▪️Blogger
+      Mikaela Koskela▪️Bloggaaja
     location: "Finland"
-    followers: 5089
-    engagement: 415
-    commentsToLikes: 0.117404
+    followers: 5302
+    engagement: 614
+    commentsToLikes: 0.179143
     id: ck5zwvke76udp0i143rpfqg9g
     verified: false
-    hashtags: "#geminiproblems, #microbladinghelsinki, #remontti, #sonyalphasclub"
-  - username: "linden.emilia"
+    hashtags: "#greenwall, #marimekkohome, #lehtikuningas, #honeyblonde"
+  - username: "ssiniss"
     fullname: >-
-      Emilia Lindén Fitness Coach🇫🇮
+      𝐒𝐈𝐍𝐈 𝐓𝐄𝐑𝐕𝐎
     location: "Finland"
-    followers: 36935
-    engagement: 477
-    commentsToLikes: 0.013668
-    id: ck0w1mxq1k4n60i194231cxqm
+    followers: 2264
+    engagement: 1937
+    commentsToLikes: 0.075023
+    id: ck8t8axrsjqwb0j78xs8hc49s
     verified: false
-    hashtags: "#vitaminerich, #springvibes, #mondaymood, #5minmeal"
-  - username: "jenalexandrova"
+    hashtags: "#sunnuntai, #summerdressmania, #autollecom, #houseofbrandon"
+  - username: "emminuorgam"
     fullname: >-
-      Jenni Alexandrova
+      Emmi Nuorgam
     location: "Finland"
-    followers: 46449
-    engagement: 416
-    commentsToLikes: 0.013633
-    id: ck55k35pzyck40i11jy75uy0d
-    verified: true
-    hashtags: "#kollageeni, #pillowchallenge, #lapsituntemattomankanssa, #shooting"
-  - username: "vivianvalpuri"
-    fullname: >-
-      Vivian Valpuri Nick
-    location: "Finland"
-    followers: 10037
-    engagement: 1136
-    commentsToLikes: 0.025574
-    id: ck55jod5rxf900i11v17dgpn2
+    followers: 10271
+    engagement: 1096
+    commentsToLikes: 0.025240
+    id: ck5zr869pw36q0i14ya134tbq
     verified: false
-    hashtags: "#winteriscoming, #8monthsbaby, #momanddaughter, #adlibrisfi"
+    hashtags: "#norushchallenge, #ratina, #nahkavy, #puutarhahommat"
   - username: "vilmabergenheim"
     fullname: >-
       Vilma Bergenheim
     location: "Finland"
-    followers: 7743
-    engagement: 577
-    commentsToLikes: 0.060724
+    followers: 7970
+    engagement: 606
+    commentsToLikes: 0.059361
     id: ck15rhcxs7xtu0i1950h06xcx
     verified: false
-    hashtags: "#lovemylumene, #womensday, #terveethiukset, #earthhour"
-  - username: "empuskaa"
-    fullname: >-
-      ємιℓια | Lifestyle
-    location: "Finland"
-    followers: 7480
-    engagement: 812
-    commentsToLikes: 0.256667
-    id: ck5zt5v8rzsks0i14hjayymlr
-    verified: false
-    hashtags: "#naistenp, #berryboosting, #recyclejoy, #joyactor"
-  - username: "sarimaaria"
-    fullname: >-
-      Sari Maria
-    location: "Finland"
-    followers: 5647
-    engagement: 680
-    commentsToLikes: 0.133629
-    id: ck5hn4ldpn7050i1108wykcz7
-    verified: false
-    hashtags: "#coffeetable, #stringhylla, #instablogitfinland, #tabledecor"
+    hashtags: "#maidoton, #luomua, #tgif, #newproject"
   - username: "jorikotis"
     fullname: >-
       J O R I   K O T A - A H O 🇫🇮
     location: "Finland"
-    followers: 10190
-    engagement: 657
-    commentsToLikes: 0.059418
+    followers: 10251
+    engagement: 621
+    commentsToLikes: 0.045035
     id: ck6trctegy98e0j71oijjv64x
     verified: false
-    hashtags: "#treenit, #foodporn, #alekoodi, #perhe"
+    hashtags: "#lecturer, #verkkokauppa, #moveyourbody, #arpajaiset"
+  - username: "linden.emilia"
+    fullname: >-
+      Emilia Lindén Fitness Coach🇫🇮
+    location: "Finland"
+    followers: 37308
+    engagement: 499
+    commentsToLikes: 0.013035
+    id: ck0w1mxq1k4n60i194231cxqm
+    verified: false
+    hashtags: "#hang, #weekendoff, #chillevening, #monday"
+  - username: "jenalexandrova"
+    fullname: >-
+      Jenni Alexandrova
+    location: "Finland"
+    followers: 47286
+    engagement: 387
+    commentsToLikes: 0.014635
+    id: ck55k35pzyck40i11jy75uy0d
+    verified: true
+    hashtags: "#pihkaxjenni, #fuckkorona, #woltattu, #testaus"
+  - username: "maijuriskala"
+    fullname: >-
+      MAIJU RISKALA
+    location: "Finland"
+    followers: 8978
+    engagement: 1315
+    commentsToLikes: 0.009216
+    id: ck55k2jm4yazs0i11jci1ify8
+    verified: false
+    hashtags: "#friday, #eilis, #elvital, #lorealhair"
+  - username: "vivianvalpuri"
+    fullname: >-
+      Vivian Valpuri Nick
+    location: "Finland"
+    followers: 10317
+    engagement: 1166
+    commentsToLikes: 0.023029
+    id: ck55jod5rxf900i11v17dgpn2
+    verified: false
+    hashtags: "#littleelf, #tovetupsukorva, #yango, #9monthsbaby"
 ---

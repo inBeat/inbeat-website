@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Japan In 2020
 description: >-
-  Find top lingerie Instagram influencers in Japan in 2020. Most popular hashtags: #lingerie #gravure #selfie #cosplay.
+  Find top lingerie Instagram influencers in Japan in 2020. Most popular hashtags: #lingerie #roomwear #love #summer.
 platform: Instagram
 profiles:
-  - username: "294.is.tsukushi"
+  - username: "mokochan319"
     fullname: >-
-      Tsukushi ❤︎杉菜🇰🇷🇯🇵🇨🇳🇺🇸
+      桜もこ（Moko Sakura）
     location: "Japan"
-    followers: 78184
-    engagement: 499
-    commentsToLikes: 0.028077
-    id: ck8t2fntnzb7s0j78akldmsr2
+    followers: 83993
+    engagement: 243
+    commentsToLikes: 0.017307
+    id: ckaowuwpcak0r0i78d41ek4np
     verified: false
-    hashtags: "#leggy, #schoolgirlskirt, #stayhome, #swimwear"
-  - username: "_rosemelle"
+    hashtags: "#goodnight, #lip, #japan, #night"
+  - username: "hadayurina_"
     fullname: >-
-      Rose Melle
+      羽田 優里奈  ( Yurina Hada )
     location: "Japan"
-    followers: 17542
-    engagement: 920
-    commentsToLikes: 0.012279
-    id: ck5zzwkhocjjd0i140q4r4dh8
+    followers: 22899
+    engagement: 2176
+    commentsToLikes: 0.032318
+    id: ckap3xh4u4xa20i788nbfxx4s
     verified: false
-    hashtags: "#bikini, #beach, #blackhair, #fitness"
-  - username: "makoto666_"
+    hashtags: "#magazine, #lingerie, #harley, #roomwear"
+  - username: "ri7tin1025"
     fullname: >-
-      真琴 makoto
+      石井 里奈 ISHII RINA
     location: "Japan"
-    followers: 165218
-    engagement: 357
-    commentsToLikes: 0.019353
-    id: ck5ccpk4ghs2m0i117avnk9yh
+    followers: 145563
+    engagement: 317
+    commentsToLikes: 0.052220
+    id: ck0tty37u4ti90i19w1bfzl8y
     verified: false
-    hashtags: "#lingerie, #hairstyle, #philippine, #cherryblossom"
-  - username: "poyo_ngy"
+    hashtags: "#stayhome, #denimstyle, #audreyhepburn, #dominospizza"
+  - username: "gemmatokyo"
     fullname: >-
-      ゆきぽよ(Yuki Kimura)
+      Gemma Louise  ジェマ・ルイーズ
     location: "Japan"
-    followers: 587882
-    engagement: 710
-    commentsToLikes: 0.005045
-    id: ck0vxvz3810cl0i19hzgxch2z
-    verified: true
-    hashtags: "#shibuya, #tl, #brassiere, #murua"
-  - username: "animasian78"
-    fullname: >-
-      Animasian✨🍑 ➡️ IDK
-    location: "Japan"
-    followers: 26755
-    engagement: 1396
-    commentsToLikes: 0.016571
-    id: ck5qb105tjaa00i11fhwpuq9w
+    followers: 74667
+    engagement: 306
+    commentsToLikes: 0.038381
+    id: ck8t2lq52zwop0j78vy08i73j
     verified: false
-    hashtags: "#cabin, #pokemoncosplay, #animeconvention, #comics"
+    hashtags: "#japan, #travel, #redlingerie, #photoshoot"
+  - username: "cjd_rina"
+    fullname: >-
+      RINA
+    location: "Japan"
+    followers: 64111
+    engagement: 435
+    commentsToLikes: 0.021427
+    id: ck0w6cnjz7y900i19q8f1xy4l
+    verified: false
+    hashtags: "#bestie, #love, #eyelash, #makeup"
+  - username: "manatakase_"
+    fullname: >-
+      Mana Takase
+    location: "Japan"
+    followers: 78465
+    engagement: 600
+    commentsToLikes: 0.007595
+    id: ck0w0mtvff07o0i19i8xiifqi
+    verified: false
+    hashtags: "#fineboys, #leinwande, #rmkcosmetics, #daichimiura"
+  - username: "hatsukaw_aminami"
+    fullname: >-
+      初川みなみ
+    location: "Japan"
+    followers: 74593
+    engagement: 324
+    commentsToLikes: 0.016820
+    id: ck0vxov5nzzi60i19ubczl41v
+    verified: false
+    hashtags: "#randa, #pr, #tocco, #tdl"
+  - username: "kotohonda"
+    fullname: >-
+      Koto Honda ʚ♡ɞ 本多胡桃
+    location: "Japan"
+    followers: 67728
+    engagement: 239
+    commentsToLikes: 0.022216
+    id: ck8sw22lidiml0j78fvsbhrif
+    verified: false
+    hashtags: "#dior, #sweets, #dolcemaririsa, #lily"
+  - username: "kimshinobi"
+    fullname: >-
+      
+    location: "Japan"
+    followers: 11388
+    engagement: 706
+    commentsToLikes: 0.023164
+    id: ck5hq61nhskak0i11jgjhl2xq
+    verified: false
+    hashtags: "#lingerie, #summer, #gymnastics, #bluebella"
   - username: "momokashojo"
     fullname: >-
       桃花 • 少女 🍑
     location: "Japan"
-    followers: 67033
-    engagement: 781
-    commentsToLikes: 0.008426
+    followers: 67159
+    engagement: 773
+    commentsToLikes: 0.008472
     id: ck5cbwpl4gb2i0i11sfacmfcm
     verified: false
-    hashtags: "#kawaii, #makeup, #kawaiisubscriptionbox, #japanese"
-  - username: "yana_yz"
-    fullname: >-
-      Ayana || Photographer
-    location: "Japan"
-    followers: 2098
-    engagement: 933
-    commentsToLikes: 0.080901
-    id: ck6uepj1wsbth0j71b7dul5l9
-    verified: false
-    hashtags: "#legs, #dark, #blackwomen, #seminudeselfies"
-  - username: "kuro_kurosaki"
-    fullname: >-
-      kuro
-    location: "Japan"
-    followers: 49235
-    engagement: 503
-    commentsToLikes: 0.004801
-    id: ck0vxovwnzznx0i19n4tzktji
-    verified: false
-    hashtags: "#japanesegirl, #students, #nero, #maid"
-  - username: "ry01204"
-    fullname: >-
-      山吹りょう　(ryo yamabuki)
-    location: "Japan"
-    followers: 48977
-    engagement: 514
-    commentsToLikes: 0.000000
-    id: ck5hf5l8svx5x0i111k02bzgy
-    verified: true
-    hashtags: "#peki, #acoustic, #reflem, #coach"
-  - username: "ran_19951028"
-    fullname: >-
-      蘭 (Ran)
-    location: "Japan"
-    followers: 73586
-    engagement: 367
-    commentsToLikes: 0.005930
-    id: ck6uan6ca4i0c0j71v6leuitk
-    verified: true
-    hashtags: "#hifu, #tbt, #fila, #lingerie"
+    hashtags: "#puriruka, #lovelivecosplay, #tattoos, #nintendoswitch"
 ---

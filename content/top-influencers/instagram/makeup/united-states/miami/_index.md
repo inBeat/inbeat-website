@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Miami In 2020
 description: >-
-  Find top makeup Instagram influencers in Miami in 2020. Most popular hashtags: #miami #makeup #quarantine #love.
+  Find top makeup Instagram influencers in Miami in 2020. Most popular hashtags: #miami #makeup #love #wynwood.
 platform: Instagram
 profiles:
-  - username: "sofikaram"
+  - username: "realcocoahontaz"
     fullname: >-
-      Sofia Karam
+      MOST HATED COCOA 🇵🇷🇩🇴
     location: "United States"
-    followers: 30722
-    engagement: 300
-    commentsToLikes: 0.140733
-    id: ck6tpgddkjpu30j71zycup2n2
+    followers: 35172
+    engagement: 336
+    commentsToLikes: 0.043451
+    id: ck13d138634pk0i195umvybcu
     verified: false
-    hashtags: "#nbc6, #prettylittlething, #alkaboutique, #quarantine"
-  - username: "stephaniecosmopolitan"
-    fullname: >-
-      Style, Beauty & Luxury Expert
-    location: "United States"
-    followers: 44553
-    engagement: 206
-    commentsToLikes: 0.086203
-    id: ck8wd57azdep30j781vlj9f36
-    verified: false
-    hashtags: "#kuwtk, #lips, #fashionhacks, #birkinbag"
-  - username: "iamalexismichaud"
-    fullname: >-
-      Alexis Michaud
-    location: "United States"
-    followers: 120316
-    engagement: 170
-    commentsToLikes: 0.037605
-    id: ck15qs1pt4cvm0i1927gt0z3z
-    verified: false
-    hashtags: "#saints, #pink, #dress, #doseofroses"
-  - username: "beautybyjennyfro"
-    fullname: >-
-      Curly Hair & Makeup
-    location: "United States"
-    followers: 16015
-    engagement: 302
-    commentsToLikes: 0.105070
-    id: ck5zolmt9qts50i14hjk5vna4
-    verified: false
-    hashtags: "#makeup, #miamimua, #zotosallaboutcurls, #heathycurls"
-  - username: "i_am_dieselgang"
-    fullname: >-
-      🍁Katie Noel🎙
-    location: "United States"
-    followers: 262731
-    engagement: 724
-    commentsToLikes: 0.017391
-    id: ck15t159pftv40i19hlg3tivy
-    verified: false
-    hashtags: "#chocolatelab, #airforce1, #musicvideo, #hiphop"
-  - username: "camihermann"
-    fullname: >-
-      Camila Hermann D.
-    location: "United States"
-    followers: 2959
-    engagement: 2190
-    commentsToLikes: 0.040992
-    id: ck5hs5itmw0x70i11nshu6qm4
-    verified: false
-    hashtags: "#beauty, #mexico, #instashot, #capture"
-  - username: "karinabandatv"
-    fullname: >-
-      K A R I N A
-    location: "United States"
-    followers: 206905
-    engagement: 370
-    commentsToLikes: 0.028066
-    id: ck5zqh2pjul8o0i14st7trps6
-    verified: true
-    hashtags: "#pictureoftheday, #littleblackdress, #everydaymakeup, #beauty"
-  - username: "colasweet"
-    fullname: >-
-      COLA SWEET
-    location: "United States"
-    followers: 58976
-    engagement: 465
-    commentsToLikes: 0.030823
-    id: ck5c0yafku3210i11wsi4pxbe
-    verified: false
-    hashtags: "#2fly, #style, #atl, #faith"
-  - username: "amandaisava"
-    fullname: >-
-      Amanda Isava💗
-    location: "United States"
-    followers: 3041
-    engagement: 1262
-    commentsToLikes: 0.055217
-    id: ck5hfxotyzvg80i11xs34wq3o
-    verified: false
-    hashtags: "#merrychristmas, #miamimodels, #ily, #studio"
+    hashtags: "#natural, #models, #stayhome, #twerk"
   - username: "yohanarangelmua"
     fullname: >-
       By Yoha Rangel  @yberangelp
     location: "United States"
-    followers: 36586
-    engagement: 236
-    commentsToLikes: 0.043226
+    followers: 36678
+    engagement: 216
+    commentsToLikes: 0.034612
     id: ck5hjhhdpgmzu0i112gdhmcm1
     verified: false
-    hashtags: "#yomequedoencasa, #makeuppink, #juicylips, #cleanbrushes"
+    hashtags: "#wetnwildbeauty, #run, #quayaustralia, #onlineclasses"
+  - username: "michaelwilliampaul"
+    fullname: >-
+      Michael William-Paul
+    location: "United States"
+    followers: 52448
+    engagement: 557
+    commentsToLikes: 0.030306
+    id: ck0tudw366rqp0i19c64j78s9
+    verified: false
+    hashtags: "#host, #gallery, #years, #happyhalloween"
+  - username: "eva__bauch"
+    fullname: >-
+      Eva Bauch
+    location: "United States"
+    followers: 24616
+    engagement: 511
+    commentsToLikes: 0.034983
+    id: ck55lz3ya2t710i116r21plgn
+    verified: false
+    hashtags: "#hollywood, #dance, #miamigogos, #powerofnature"
+  - username: "shirleydadiva_ffaceit"
+    fullname: >-
+      Miami Makeup Artist 💄💋🎨
+    location: "United States"
+    followers: 30518
+    engagement: 288
+    commentsToLikes: 0.023175
+    id: ck55mz4lj551l0i11fslxhn0x
+    verified: false
+    hashtags: "#cartelcrew, #miamiartist, #superbowl2020, #nosharam"
+  - username: "crystalcadahia"
+    fullname: >-
+      Crystal Cadahia
+    location: "United States"
+    followers: 60002
+    engagement: 117
+    commentsToLikes: 0.059428
+    id: ck6tiyglf1o6z0j71ytgegdmm
+    verified: false
+    hashtags: "#loveyoufroggy, #latepost, #birthdaygirl, #pembrokepines"
+  - username: "adrimakesyoublush"
+    fullname: >-
+      ♡
+    location: "United States"
+    followers: 16882
+    engagement: 556
+    commentsToLikes: 0.017507
+    id: ck6tygd603kgw0j71737m98dx
+    verified: false
+    hashtags: ""
+  - username: "miguelangelfashionlook"
+    fullname: >-
+      Miguelángel Garcia
+    location: "United States"
+    followers: 23182
+    engagement: 170
+    commentsToLikes: 0.078284
+    id: ck5hcq117jdco0i110p9eqdrz
+    verified: false
+    hashtags: "#todovaasalirbien, #mequedoencasa, #challengeaccepted, #distanciamientosocial"
+  - username: "naomi.thalia"
+    fullname: >-
+      NAOMI ROMERO👸🏻🇨🇺🇺🇸
+    location: "United States"
+    followers: 19107
+    engagement: 696
+    commentsToLikes: 0.064283
+    id: ck5zlytpmllzx0i14yo4q56z7
+    verified: false
+    hashtags: "#looks, #florida, #focus, #picoftheday"
+  - username: "camihermann"
+    fullname: >-
+      Camila Hermann D.
+    location: "United States"
+    followers: 2920
+    engagement: 2220
+    commentsToLikes: 0.042360
+    id: ck5hs5itmw0x70i11nshu6qm4
+    verified: false
+    hashtags: "#travelphotography, #safari, #ecuador, #disneyland"
 ---

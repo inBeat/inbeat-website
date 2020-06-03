@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top makeup Instagram influencers in Switzerland in 2020. Most popular hashtags: #makeup #switzerland #beauty #ootd.
+  Find top makeup Instagram influencers in Switzerland in 2020. Most popular hashtags: #makeup #happy #makeupartist #green.
 platform: Instagram
 profiles:
+  - username: "patricia.cori.na"
+    fullname: >-
+      𝙿𝚊𝚝𝚛𝚒𝚌𝚒𝚊 𝙲𝚘𝚛𝚒𝚗𝚊
+    location: "Switzerland"
+    followers: 22400
+    engagement: 454
+    commentsToLikes: 0.121407
+    id: ck5znr6vtp0550i14nyiskvyh
+    verified: false
+    hashtags: "#mittw, #instafashion, #iphone, #pusteblume"
+  - username: "karinefahmyofficial"
+    fullname: >-
+      Karine Fahmy
+    location: "Switzerland"
+    followers: 28844
+    engagement: 128
+    commentsToLikes: 0.057809
+    id: ck15r4x0f660p0i19yb0oexh3
+    verified: false
+    hashtags: "#goals, #positivity, #lover, #italian"
+  - username: "dirty_black_poop"
+    fullname: >-
+      𝕯𝖎𝖗𝖙𝖞 𝕭𝖑𝖆𝖈𝖐 𝕻𝖔𝖔𝖕
+    location: "Switzerland"
+    followers: 9397
+    engagement: 518
+    commentsToLikes: 0.046290
+    id: ck5qb6aj3k14s0i11vcwj6dfp
+    verified: false
+    hashtags: "#sexytattoos, #tattooedgirls, #redmakeup, #yelloweyeshadow"
+  - username: "_marisaofficial_"
+    fullname: >-
+      Marisa Urbano🦋
+    location: "Switzerland"
+    followers: 17326
+    engagement: 189
+    commentsToLikes: 0.075544
+    id: ck5znr6gjp03w0i141vfumzjo
+    verified: false
+    hashtags: "#glossylips, #kosmetikstudio, #makeupaddict, #summerglow"
   - username: "amorrealbeauty"
     fullname: >-
       Melanie ✨
     location: "Switzerland"
-    followers: 4105
-    engagement: 1368
-    commentsToLikes: 0.309186
+    followers: 4090
+    engagement: 1259
+    commentsToLikes: 0.308542
     id: ck5hfog4lyhj10i11067kqkhc
     verified: false
-    hashtags: "#wirsindfauxmink, #makeuplover, #makeupart, #goldenhour"
-  - username: "_marisaofficial_"
-    fullname: >-
-      Marisa Urbano☀️
-    location: "Switzerland"
-    followers: 17336
-    engagement: 171
-    commentsToLikes: 0.124136
-    id: ck5znr6gjp03w0i141vfumzjo
-    verified: false
-    hashtags: "#bblogger, #photooftheday, #cino, #verlosung"
-  - username: "wish.park"
-    fullname: >-
-      소원
-    location: "Switzerland"
-    followers: 8934
-    engagement: 526
-    commentsToLikes: 0.032071
-    id: ck5hntlr8odad0i11z4ntm25w
-    verified: false
-    hashtags: "#906, #venezia, #k2, #jungfrau"
+    hashtags: "#pinkmakeup, #blazingbeauties, #makeupaddict, #fullfacemakeup"
   - username: "makeupbyesra"
     fullname: >-
       Esra
     location: "Switzerland"
-    followers: 39925
-    engagement: 648
-    commentsToLikes: 0.011677
+    followers: 41953
+    engagement: 660
+    commentsToLikes: 0.012094
     id: ck0u0kpr2u4wd0i197bh3agnx
     verified: false
-    hashtags: "#flawlessdolls, #boybait, #dervish, #macloveme"
+    hashtags: "#hudabeauty, #sonatural, #dressedtodazzle, #shamelesslyvain"
+  - username: "jana_granda"
+    fullname: >-
+      G r a n d a   Y a n a
+    location: "Switzerland"
+    followers: 6566
+    engagement: 653
+    commentsToLikes: 0.013539
+    id: ckaowdiok8gfm0i78qegaci5s
+    verified: false
+    hashtags: "#dixencelake, #lofoten, #kajak, #makeuptutorial"
   - username: "rg_artmua"
     fullname: >-
       RG Art
     location: "Switzerland"
-    followers: 4769
-    engagement: 464
-    commentsToLikes: 0.073318
+    followers: 4747
+    engagement: 345
+    commentsToLikes: 0.097769
     id: ck5hmlc6mm6330i116t5uyluv
     verified: false
-    hashtags: "#weddingplanners, #bridestyle, #makeupartistla, #suisse"
-  - username: "mirjana__mija"
-    fullname: >-
-      Mira-Mija
-    location: "Switzerland"
-    followers: 6123
-    engagement: 1649
-    commentsToLikes: 0.096152
-    id: ck8td6up624t90j78jxw1bdqq
-    verified: false
-    hashtags: "#beuty, #likes, #selflove, #therubinrose"
-  - username: "leiafardel"
-    fullname: >-
-      Leia Ursula Fardel
-    location: "Switzerland"
-    followers: 2205
-    engagement: 3057
-    commentsToLikes: 0.107978
-    id: ck5bvtmnekdn00i11k5gujisq
-    verified: false
-    hashtags: "#valentinesday2019, #miss, #missteamcup, #freckles"
-  - username: "elnaz_golrokh"
-    fullname: >-
-      Elnaz Golrokh
-    location: "Switzerland"
-    followers: 2560747
-    engagement: 503
-    commentsToLikes: 0.198859
-    id: ck13b4zrxtpbn0i19x9uxf7q5
-    verified: true
-    hashtags: "#happynowruz, #lashlikeaboss, #stayhome, #afterthequarantine"
+    hashtags: "#palette, #glowmakeup, #hochzeitskleid, #lipstick"
   - username: "coccoslife_"
     fullname: >-
       FASHION || TRAVEL || FITNESS
     location: "Switzerland"
-    followers: 13948
-    engagement: 1089
-    commentsToLikes: 0.110879
+    followers: 15674
+    engagement: 1140
+    commentsToLikes: 0.097025
     id: ck8t2u5wz0py50j78egbg8owv
     verified: false
-    hashtags: "#hair, #selflove, #saturday, #follow"
-  - username: "manuelkrasniqi"
+    hashtags: "#watch, #fitbody, #asien, #curly"
+  - username: "leiafardel"
     fullname: >-
-      MANUEL KRASNIQI
+      Leia Ursula Fardel
     location: "Switzerland"
-    followers: 7409
-    engagement: 1647
-    commentsToLikes: 0.043901
-    id: ck8wghgayhdez0j78bt0kofkr
+    followers: 2156
+    engagement: 3135
+    commentsToLikes: 0.107568
+    id: ck5bvtmnekdn00i11k5gujisq
     verified: false
-    hashtags: "#snipesknows, #stayhome, #lamborghini, #sound"
+    hashtags: "#partynight, #eyeliner, #valentineday, #weddinghair"
 ---

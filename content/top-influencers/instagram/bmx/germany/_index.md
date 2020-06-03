@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bmx Instagram Influencers In Germany In 2020
 description: >-
-  Find top bmx Instagram influencers in Germany in 2020. Most popular hashtags: #bmx #bmxlife #socialdistancing #goodvibes.
+  Find top bmx Instagram influencers in Germany in 2020. Most popular hashtags: #germany #covid #bmxfamily #youtube.
 platform: Instagram
 profiles:
   - username: "nadja.pries"
     fullname: >-
       Nadja Pries | Athlete
     location: "Germany"
-    followers: 7301
-    engagement: 857
-    commentsToLikes: 0.021099
+    followers: 7367
+    engagement: 891
+    commentsToLikes: 0.019109
     id: ck5q3an1mk0j60i1196bxnovq
     verified: false
-    hashtags: "#positiveimpact, #strong, #happyvalentinesday, #sundayvibes"
+    hashtags: "#bike, #strongnotskinny, #teamdeutschland, #nutrition"
   - username: "cockmog"
     fullname: >-
       felixdonat
     location: "Germany"
-    followers: 7850
-    engagement: 1620
-    commentsToLikes: 0.027764
+    followers: 8582
+    engagement: 1603
+    commentsToLikes: 0.025773
     id: ck8swixh4e8ra0j785maixzzf
     verified: false
-    hashtags: "#bsdforever, #trafficbmx, #kugelschreiberart, #kendamalife"
-  - username: "nielsbensink"
-    fullname: >-
-      Niels Bensink
-    location: "Germany"
-    followers: 20271
-    engagement: 1059
-    commentsToLikes: 0.007747
-    id: ck8tccjhoz19m0j7822m9u4rn
-    verified: false
-    hashtags: "#berm, #instaedit, #slalom, #digging"
-  - username: "maxbringer60"
-    fullname: >-
-      Maxime Bringer
-    location: "Germany"
-    followers: 11490
-    engagement: 630
-    commentsToLikes: 0.042963
-    id: ck5pvvabajt250i1124hwhlxx
-    verified: false
-    hashtags: "#stayhome, #flairvanettechallenge, #metallica, #23"
-  - username: "florentkastnerbmx"
-    fullname: >-
-      Florent Kastner
-    location: "Germany"
-    followers: 7806
-    engagement: 1248
-    commentsToLikes: 0.013762
-    id: ck6tra965xtnt0j71pvusaq9k
-    verified: false
-    hashtags: "#goodweekend, #goodtimes, #covid, #calisthenics"
+    hashtags: "#kendamalife, #simplesession, #trafficbmx, #kugelschreiberart"
   - username: "chrisbmx83"
     fullname: >-
-      Chris Böhm
+      Chris Böhm
     location: "Germany"
-    followers: 34634
-    engagement: 307
-    commentsToLikes: 0.053764
+    followers: 36276
+    engagement: 320
+    commentsToLikes: 0.057914
     id: ck135f6w414620i19jgx88u8m
     verified: true
-    hashtags: "#capchallenge, #marcstauffer, #winterberg, #energiedienst"
+    hashtags: "#condoms, #bmxsafemylife, #style, #ambassador"
   - username: "sikharin_bmx"
     fullname: >-
       $ikharin $upanmart
     location: "Germany"
-    followers: 3750
-    engagement: 4099
-    commentsToLikes: 0.033853
+    followers: 5792
+    engagement: 3986
+    commentsToLikes: 0.028323
     id: ck5q6ubjbyue50i11ux1ostgw
     verified: false
-    hashtags: "#ballaballa, #bmx, #bleiboben, #goodvibesonly"
+    hashtags: "#action, #goodmorning, #odyssey, #allinclusive"
+  - username: "florentkastnerbmx"
+    fullname: >-
+      Florent Kastner
+    location: "Germany"
+    followers: 7694
+    engagement: 1277
+    commentsToLikes: 0.013239
+    id: ck6tra965xtnt0j71pvusaq9k
+    verified: false
+    hashtags: "#newexperience, #goodweekend, #goodvibes, #goodtimes"
+  - username: "ariana_bmx"
+    fullname: >-
+      Ariana Bibic
+    location: "Germany"
+    followers: 9126
+    engagement: 1734
+    commentsToLikes: 0.014742
+    id: ckaov9ae43l9n0i78g4b5436t
+    verified: false
+    hashtags: "#travel, #youtube, #waschsalon, #bmxfamily"
+  - username: "lennoxzimmermannbmx"
+    fullname: >-
+      Lennox Zimmermann
+    location: "Germany"
+    followers: 24028
+    engagement: 1292
+    commentsToLikes: 0.007574
+    id: ck15uadwmm79n0i19yc4tbw7y
+    verified: false
+    hashtags: "#slow, #behindthebar, #bestof2019, #totalfreestyle"
   - username: "lara_lessmann"
     fullname: >-
       Lara Lessmann
     location: "Germany"
-    followers: 33592
-    engagement: 1105
-    commentsToLikes: 0.009179
+    followers: 34265
+    engagement: 1028
+    commentsToLikes: 0.008358
     id: ck0u8lcq07mx10i19iize428i
     verified: false
-    hashtags: "#excited, #sunset, #sun, #enjoy"
+    hashtags: "#germany, #friendship, #team, #summervibes"
+  - username: "louiszimm"
+    fullname: >-
+      Louis Zimmer
+    location: "Germany"
+    followers: 8136
+    engagement: 1840
+    commentsToLikes: 0.017876
+    id: ck8t06am0qxq10j78ouv6gjb0
+    verified: false
+    hashtags: ""
   - username: "robinkachfibmx"
     fullname: >-
       Robin Kachfi
     location: "Germany"
-    followers: 8771
-    engagement: 1671
-    commentsToLikes: 0.008514
+    followers: 9366
+    engagement: 1327
+    commentsToLikes: 0.009016
     id: ck6u6rajfh9fu0j71hy7fst4m
     verified: false
-    hashtags: "#bmxlife, #lapomabikepark, #barcelona, #quarantine"
-  - username: "smilesridesbikes"
-    fullname: >-
-      Miguel "Smiley" Smajli
-    location: "Germany"
-    followers: 17348
-    engagement: 911
-    commentsToLikes: 0.008660
-    id: ck0ucgd74gooj0i19x155nhqj
-    verified: false
-    hashtags: "#vanlife, #stayhome"
+    hashtags: "#badalona, #wirbleibenzuhause, #greenpeace, #urbanphotography"
 ---

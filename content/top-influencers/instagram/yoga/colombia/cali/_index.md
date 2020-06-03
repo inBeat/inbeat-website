@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Cali In 2020
 description: >-
-  Find top yoga Instagram influencers in Cali in 2020. Most popular hashtags: #colombia #yoga #yomequedoencasa #love.
+  Find top yoga Instagram influencers in Cali in 2020. Most popular hashtags: #yoga #diadelamadre #dise #covid.
 platform: Instagram
 profiles:
+  - username: "chispastrack"
+    fullname: >-
+      Fabian Puerta
+    location: "Colombia"
+    followers: 26710
+    engagement: 636
+    commentsToLikes: 0.036420
+    id: ck5pwqnpgo3zr0i11owei079t
+    verified: true
+    hashtags: "#familia, #juegoscentroamericanos, #powerclub, #juegosolimpicos"
+  - username: "deluzsemilla"
+    fullname: >-
+      c y a n  🌙ॐ
+    location: "Colombia"
+    followers: 3150
+    engagement: 1148
+    commentsToLikes: 0.176203
+    id: ck6u1ajahkl4f0j7175jmootb
+    verified: false
+    hashtags: "#sue, #aceitedecococolombiano, #aceitedecoco, #esmalteecologico"
+  - username: "inspiralatinta"
+    fullname: >-
+      Tefy Alfaro Inspira
+    location: "Colombia"
+    followers: 8950
+    engagement: 510
+    commentsToLikes: 0.082817
+    id: ck9wos8sq6e4m0j78rz2935u7
+    verified: false
+    hashtags: "#hogar, #noticias, #tercero, #mujer"
   - username: "lulabarriosc"
     fullname: >-
       Luisa Barrios
     location: "Colombia"
-    followers: 112217
-    engagement: 403
-    commentsToLikes: 0.019681
+    followers: 121546
+    engagement: 486
+    commentsToLikes: 0.019891
     id: ck14kjunypv330i19iag2r0df
     verified: false
-    hashtags: "#sunday, #memories, #sportphotography, #body"
-  - username: "marianelamodel"
-    fullname: >-
-      Marianela💋Ramos
-    location: "Colombia"
-    followers: 44684
-    engagement: 657
-    commentsToLikes: 0.021936
-    id: ck5q3ihpokw7e0i11gl42nznm
-    verified: false
-    hashtags: "#argentina, #tendencia, #miss, #blondehair"
-  - username: "fabian.higuita"
-    fullname: >-
-      Fabian Higuita
-    location: "Colombia"
-    followers: 63070
-    engagement: 197
-    commentsToLikes: 0.007353
-    id: ck5ci7oa3s61g0i11twdc4fz0
-    verified: false
-    hashtags: "#felizdia, #asanas, #trxriptraining, #handstand"
-  - username: "melissalopez302"
-    fullname: >-
-      Melylopez🇨🇴
-    location: "Colombia"
-    followers: 111553
-    engagement: 108
-    commentsToLikes: 0.025672
-    id: ck5c7ld9p7qsh0i11qryq9pd1
-    verified: false
-    hashtags: "#beauty, #virus, #corana, #chef"
+    hashtags: "#funcionalfit, #asana, #happymothersday, #surprise"
   - username: "julianmoraactor"
     fullname: >-
       JULIÁN MORA ACTOR
     location: "Colombia"
-    followers: 27389
-    engagement: 236
-    commentsToLikes: 0.028273
+    followers: 28121
+    engagement: 182
+    commentsToLikes: 0.032637
     id: ck6u4izcu3zm50j71rrko277o
     verified: false
-    hashtags: "#brother, #sobrinos, #show, #agradecido"
-  - username: "martinme5a"
+    hashtags: "#capitaldelasalsa, #carlosgardel, #meditar, #guerreros"
+  - username: "tiposofia"
     fullname: >-
-      Martin Mesa
+      Sofia Contreras
     location: "Colombia"
-    followers: 68962
-    engagement: 406
-    commentsToLikes: 0.014597
-    id: ck0tuq0ux87b80i19pcc86mjq
+    followers: 33116
+    engagement: 130
+    commentsToLikes: 0.066180
+    id: ck8sy4yqwjppd0j78j6wps928
     verified: false
-    hashtags: "#wrangler, #gratitud, #mypartnerincrime, #troylee"
-  - username: "leococinero"
+    hashtags: "#poder, #paris, #ciudaddepanama, #sand"
+  - username: "juanseayala"
     fullname: >-
-      Leonardo Moran
+      Juan Sebastián Ayala
     location: "Colombia"
-    followers: 199743
-    engagement: 123
-    commentsToLikes: 0.030272
-    id: ck136xdv48qa10i19fm2liv12
-    verified: true
-    hashtags: "#libros, #cocinafacil, #cook, #despertarespiritual"
+    followers: 57400
+    engagement: 88
+    commentsToLikes: 0.052126
+    id: ck6u3hplkxujx0j71bhhxaa90
+    verified: false
+    hashtags: "#quinua, #apio, #entrenaencasa, #macros"
   - username: "zuzana_klingrova"
     fullname: >-
       Zuzana Klingrova
     location: "Colombia"
-    followers: 26798
-    engagement: 585
-    commentsToLikes: 0.026829
+    followers: 27207
+    engagement: 600
+    commentsToLikes: 0.027077
     id: ck14ilv5yg22q0i19wu5yhqi6
     verified: false
-    hashtags: "#yogaoffthemat, #newyearintentions, #prirodnideodorant, #yoga"
-  - username: "johannaortiz"
+    hashtags: "#myyoga, #joga, #yogatime, #yogamat"
+  - username: "deluzsemilla"
     fullname: >-
-      Johanna Ortiz
+      c y a n  🌙ॐ
     location: "Colombia"
-    followers: 280061
-    engagement: 237
-    commentsToLikes: 0.021264
-    id: ck5cj8jceu7gt0i11zk1j88cz
+    followers: 3150
+    engagement: 1148
+    commentsToLikes: 0.176203
+    id: ck6u1ajahkl4f0j7175jmootb
     verified: false
-    hashtags: "#handmade, #lactancia, #washablepaper, #bmw"
-  - username: "verospina1"
+    hashtags: "#sue, #aceitedecococolombiano, #aceitedecoco, #esmalteecologico"
+  - username: "justincaruso"
     fullname: >-
-      Verónica Ospina
+      Justin Caruso
     location: "Colombia"
-    followers: 42252
-    engagement: 385
-    commentsToLikes: 0.037633
-    id: ck136gciz6d2g0i19pezkgsqq
+    followers: 21045
+    engagement: 204
+    commentsToLikes: 0.064485
+    id: ck5hggcoe2mgy0i11ypi3zbuh
     verified: false
-    hashtags: "#estres, #powerofsound, #ecovillas, #yogapractice"
+    hashtags: "#happybirthday, #together, #riodejaneiro, #brazil"
 ---

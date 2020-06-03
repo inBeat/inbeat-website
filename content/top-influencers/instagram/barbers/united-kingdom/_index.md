@@ -1,36 +1,36 @@
 ---
 title: Top 10 Barbers Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top barbers Instagram influencers in United Kingdom in 2020. Most popular hashtags: #barber #menshair #barberlife #ukbarber.
+  Find top barbers Instagram influencers in United Kingdom in 2020. Most popular hashtags: #mensfashion #lockdown #barberconnect #.
 platform: Instagram
 profiles:
-  - username: "r.braid"
-    fullname: >-
-      Robert Braid
-    location: "United Kingdom"
-    followers: 42483
-    engagement: 284
-    commentsToLikes: 0.040045
-    id: ck14ivctvhbn00i19yhwd1gjw
-    verified: false
-    hashtags: "#braidbarberscreativeteam, #womenshair, #rbraid, #miltonkeynes"
   - username: "ggsoaress"
     fullname: >-
       Gabriel Soares
     location: "United Kingdom"
-    followers: 610687
-    engagement: 264
-    commentsToLikes: 0.015261
+    followers: 603866
+    engagement: 287
+    commentsToLikes: 0.016099
     id: ck5chu0fgrgkm0i11okgs3jdn
     verified: false
-    hashtags: "#curlyhair, #karolg, #china, #bebesita"
+    hashtags: "#karolg, #stayathome, #pelo, #barba"
+  - username: "r.braid"
+    fullname: >-
+      Robert Braid
+    location: "United Kingdom"
+    followers: 42632
+    engagement: 273
+    commentsToLikes: 0.037748
+    id: ck14ivctvhbn00i19yhwd1gjw
+    verified: false
+    hashtags: "#trashpunk, #bentnotbroken, #covid, #mensstyle"
   - username: "pirate_paulus"
     fullname: >-
       paul taylor-clinch
     location: "United Kingdom"
-    followers: 21085
-    engagement: 263
-    commentsToLikes: 0.030934
+    followers: 21605
+    engagement: 242
+    commentsToLikes: 0.038109
     id: ck8szri02pg0g0j783htljomm
     verified: false
     hashtags: ""
@@ -38,70 +38,70 @@ profiles:
     fullname: >-
       Bridey Jo 🇬🇧✂
     location: "United Kingdom"
-    followers: 9476
-    engagement: 649
-    commentsToLikes: 0.023038
+    followers: 9305
+    engagement: 664
+    commentsToLikes: 0.023030
     id: ck5zm5xnzlyna0i14ma2zcbfm
     verified: false
-    hashtags: "#barbergirl, #brideyjobarbers, #keepongoing, #2020"
+    hashtags: "#menshairfashion, #menscut, #hairofinstagram, #grungegirls"
   - username: "ryan_davieshall"
     fullname: >-
       RYAN DAVIES-HALL
     location: "United Kingdom"
-    followers: 60146
-    engagement: 224
-    commentsToLikes: 0.014860
+    followers: 58910
+    engagement: 194
+    commentsToLikes: 0.015981
     id: ck5bw6tbsl3p10i11omhnc7yr
     verified: false
-    hashtags: "#modellife, #photoshoot, #quadbike, #londonfashionweek"
+    hashtags: "#tattoomodel, #model, #ink, #ss2020"
   - username: "joemcbarber"
     fullname: >-
       Joe McIlvaney
     location: "United Kingdom"
-    followers: 10354
-    engagement: 591
-    commentsToLikes: 0.080481
+    followers: 10245
+    engagement: 558
+    commentsToLikes: 0.078271
     id: ck5hk4soihses0i11sth52vdz
     verified: false
-    hashtags: "#london, #ukmasterbarbers, #londonbarber, #barberinspirations"
-  - username: "paulhewitt_barber"
+    hashtags: "#barberconnect, #fade, #slickgorilla, #decorating"
+  - username: "chas_hopkins"
     fullname: >-
-      Paul Hewitt ✪
+      Chas Hopkins
     location: "United Kingdom"
-    followers: 27104
-    engagement: 220
-    commentsToLikes: 0.034724
-    id: ck0ttnvex3j7o0i19iyivf7qu
-    verified: false
-    hashtags: "#brislington, #dickieslife, #lakecomo, #leukemia"
-  - username: "menshairuk"
-    fullname: >-
-      Mens Hair
-    location: "United Kingdom"
-    followers: 61794
-    engagement: 170
-    commentsToLikes: 0.008902
-    id: ck1394r6bjioj0i19oci6hm2o
+    followers: 30541
+    engagement: 183
+    commentsToLikes: 0.010435
+    id: ck9hb25vbf2c70j78c0j08az5
     verified: false
     hashtags: ""
   - username: "ldn_brbr"
     fullname: >-
       Benjamin May
     location: "United Kingdom"
-    followers: 5213
-    engagement: 552
-    commentsToLikes: 0.053068
+    followers: 5328
+    engagement: 575
+    commentsToLikes: 0.055994
     id: ck5bx9voknaw40i11fu8hj9zk
     verified: false
-    hashtags: "#mentalhealthawareness, #mensmentalhealth, #mentalhealth, #catsnotkids"
-  - username: "nohailchooch"
+    hashtags: "#griefsupport, #griefawareness, #somekindaburito, #costumes"
+  - username: "littleandytattoo"
     fullname: >-
-      Nohail Mohammed
+      Little Andy
     location: "United Kingdom"
-    followers: 23004
-    engagement: 1421
-    commentsToLikes: 0.010732
-    id: ck8syi5gmkvxp0j78r2wtagik
+    followers: 219887
+    engagement: 124
+    commentsToLikes: 0.015698
+    id: ck14ghpu35a5n0i195dvnemrf
     verified: false
-    hashtags: "#tv, #construction, #productionassistant, #costume"
+    hashtags: "#blacktits, #newzealandtatto, #selfisolation, #suicidegirl"
+  - username: "smoked_jxck"
+    fullname: >-
+      Smoked Jxck💨
+    location: "United Kingdom"
+    followers: 10327
+    engagement: 410
+    commentsToLikes: 0.031857
+    id: ck6uac2cj2pn90j71bw0a9oe6
+    verified: false
+    hashtags: "#ynwa"
 ---

@@ -1,39 +1,39 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Bali In 2020
 description: >-
-  Find top barbers Instagram influencers in Bali in 2020. Most popular hashtags: #bali #indonesia #dirumahaja #stayathome.
+  Find top barbers Instagram influencers in Bali in 2020. Most popular hashtags: #barber #malaysia #fashion #kitajagakita.
 platform: Instagram
 profiles:
-  - username: "enzo_laconi55"
+  - username: "jakpostimages"
     fullname: >-
-      🇮🇹Enzo Laconi 🇮🇹
+      The Jakarta Post
     location: "Indonesia"
-    followers: 239626
-    engagement: 405
-    commentsToLikes: 0.149687
-    id: ck6tk1umd3uc50j716y06ywz8
-    verified: false
-    hashtags: "#retroaesthetic, #swingheavenbali, #90style, #grungeaccount"
-  - username: "paulchutchie.lifestyle"
+    followers: 54181
+    engagement: 60
+    commentsToLikes: 0.011489
+    id: ck15pskcnzfsw0i190mvilf2b
+    verified: true
+    hashtags: "#wearfacemask, #yogyakarta, #foodpackage, #eartoasia"
+  - username: "sazali.samad"
     fullname: >-
-      Hutchie
+      sazali samad
     location: "Indonesia"
-    followers: 127719
-    engagement: 371
-    commentsToLikes: 0.011991
-    id: ck0u8eykq76s60i19yizpsyof
+    followers: 58527
+    engagement: 385
+    commentsToLikes: 0.014986
+    id: ck15sjov0dckz0i19ztkwx60a
     verified: false
-    hashtags: "#brothers, #2pac, #motivated, #changes"
-  - username: "arsitektropis"
+    hashtags: "#dentalphotography, #freeshirt, #prinzclassicbarberco, #bestsgt"
+  - username: "zameer_pentbrush"
     fullname: >-
-      Ren Katili
+      Zameer Pentbrush
     location: "Indonesia"
-    followers: 26372
-    engagement: 253
-    commentsToLikes: 0.023883
-    id: ck135fith15wk0i19rqeqsii3
+    followers: 12326
+    engagement: 1384
+    commentsToLikes: 0.005973
+    id: ckapa50b8uqap0i78i8dg1nx7
     verified: false
-    hashtags: "#tujutuju, #petitenget, #italy, #mblocspace"
+    hashtags: "#catalyzer, #classic, #vintage, #eidmubarak"
   - username: "penjagasenyum"
     fullname: >-
       ragam video menarik
@@ -43,24 +43,14 @@ profiles:
     commentsToLikes: 0.010970
     id: ck0txc9c3ipc60i192czf51ql
     verified: false
-    hashtags: "#dunia, #extreme, #virallucu, #lukisan"
-  - username: "sazali.samad"
-    fullname: >-
-      sazali samad
-    location: "Indonesia"
-    followers: 52332
-    engagement: 376
-    commentsToLikes: 0.015956
-    id: ck15sjov0dckz0i19ztkwx60a
-    verified: false
-    hashtags: "#tentime, #makandiet, #kendurikahwin, #healthy"
+    hashtags: "#gandum, #rabu, #maskersensijakarta, #masakan"
   - username: "planecm"
     fullname: >-
       Claudio Martella
     location: "Indonesia"
-    followers: 11792
-    engagement: 1034
-    commentsToLikes: 0.010967
+    followers: 11483
+    engagement: 1067
+    commentsToLikes: 0.010879
     id: ck5zy2fmy93qv0i140emqrutv
     verified: false
     hashtags: "#officiallyschmid"
@@ -68,9 +58,9 @@ profiles:
     fullname: >-
       ᴛᴀᴛᴀɴɢ ᴡɪʙᴏᴡᴏ
     location: "Indonesia"
-    followers: 9842
-    engagement: 1224
-    commentsToLikes: 0.020075
+    followers: 10541
+    engagement: 1171
+    commentsToLikes: 0.020131
     id: ck5zxvmq08qwh0i14dote6cj8
     verified: false
     hashtags: ""
@@ -78,30 +68,40 @@ profiles:
     fullname: >-
       HAIRSTYLIST & HAIRCUT EXPERT
     location: "Indonesia"
-    followers: 33086
-    engagement: 181
-    commentsToLikes: 0.015977
+    followers: 32399
+    engagement: 80
+    commentsToLikes: 0.016140
     id: ck14hc7459l3h0i19asr6mo8m
     verified: false
-    hashtags: "#menterigunting, #fade, #style, #thebarberpost"
+    hashtags: "#minho, #boysoverflowers, #sharpfade, #barbershop"
   - username: "fadelaustyn"
     fullname: >-
       A U S T Y N
     location: "Indonesia"
-    followers: 34398
-    engagement: 711
-    commentsToLikes: 0.019285
+    followers: 34983
+    engagement: 624
+    commentsToLikes: 0.019178
     id: ck5zis9y5ga5d0i14c7sp0p1n
     verified: false
-    hashtags: "#mazdakumala, #welovehonda, #hondajagoanku, #kelanakarin"
+    hashtags: "#livefordonation, #fingerboardid, #dirumahsaja, #jagajarak1meter"
   - username: "willgoh_"
     fullname: >-
       Willgoh
     location: "Indonesia"
-    followers: 20055
-    engagement: 212
-    commentsToLikes: 0.094554
+    followers: 20910
+    engagement: 157
+    commentsToLikes: 0.099067
     id: ck6ud2oepis230j71u0zu41fy
     verified: false
-    hashtags: "#makati, #lookbookindo, #traveller, #amigohabits"
+    hashtags: "#rambutkece, #earthday2020, #uniqlodeliparkmall, #worldvegan"
+  - username: "mafiaunggas.id"
+    fullname: >-
+      Mafia Unggas Indonesia
+    location: "Indonesia"
+    followers: 9954
+    engagement: 714
+    commentsToLikes: 0.001511
+    id: ck8tb0nfgtva60j78sve32mbn
+    verified: false
+    hashtags: "#suzukifr, #duataknasional, #suzukiindonesia, #suzukibravo"
 ---

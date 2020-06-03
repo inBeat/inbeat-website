@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Dallas In 2020
 description: >-
-  Find top gardening Instagram influencers in Dallas in 2020. Most popular hashtags: #gardening #flowers #garden #stayweird.
+  Find top gardening Instagram influencers in Dallas in 2020. Most popular hashtags: #gardening #mothersday #garden #colorado.
 platform: Instagram
 profiles:
-  - username: "life_as_alexandra"
-    fullname: >-
-      Alexandra Birch
-    location: "United States"
-    followers: 35363
-    engagement: 860
-    commentsToLikes: 0.018883
-    id: ck14l13vhsca10i198iiznrzx
-    verified: false
-    hashtags: "#townsendhousegiftsbestmodelever, #williamssyndrome, #rustonla, #alexandrahairdontcare"
-  - username: "livingwithheart"
-    fullname: >-
-      Susan Webster (Heart)
-    location: "United States"
-    followers: 20951
-    engagement: 214
-    commentsToLikes: 0.397934
-    id: ck6u41kjv15lq0j712quuq4ct
-    verified: false
-    hashtags: "#farmhouse, #targetfashion, #momswithgoals, #greatdeals"
-  - username: "marymaguireart"
-    fullname: >-
-      Mary Maguire
-    location: "United States"
-    followers: 9392
-    engagement: 420
-    commentsToLikes: 0.028324
-    id: ck5ho5oiiozcj0i11zfndfcgd
-    verified: false
-    hashtags: "#stag, #cheetahprint, #bigdogsofinstagram, #victoriaandalbertmuseum"
-  - username: "prestigetree"
-    fullname: >-
-      Ty
-    location: "United States"
-    followers: 183068
-    engagement: 55
-    commentsToLikes: 0.001352
-    id: ck14j2dqfia8c0i19i6xf8k6v
-    verified: false
-    hashtags: "#mexico, #plant, #spirits, #hula"
   - username: "victoriabirch1"
     fullname: >-
       Victoria Birch
     location: "United States"
-    followers: 24696
-    engagement: 516
-    commentsToLikes: 0.017599
+    followers: 28667
+    engagement: 422
+    commentsToLikes: 0.017174
     id: ck14l14xrscf10i193tqlste1
     verified: false
-    hashtags: "#springflowers, #catstagram, #williamssyndromesiblings, #married"
-  - username: "melisaclementdesigns"
+    hashtags: "#cavapoolove, #easterdecor, #estespark, #casita"
+  - username: "victoriavixx"
     fullname: >-
-      Melisa Clement Designs
+      Victoria 💄
     location: "United States"
-    followers: 67424
-    engagement: 210
-    commentsToLikes: 0.032291
-    id: ck0ubt8mdfckp0i19rhp6n1cp
+    followers: 5542
+    engagement: 882
+    commentsToLikes: 0.085394
+    id: ck8t7duv8gfyl0j78btstqim1
     verified: false
-    hashtags: "#mydomaine, #myserie7, #dreamhome, #hgtv"
-  - username: "modernveganfam"
+    hashtags: "#downtowndallas, #makeup, #sephora, #tiger"
+  - username: "marcosal85"
     fullname: >-
-      Modern Vegan Familia
+      Marco
     location: "United States"
-    followers: 26038
-    engagement: 147
-    commentsToLikes: 0.087706
-    id: ck0vw3p88rylr0i19by1o7z2o
+    followers: 99301
+    engagement: 427
+    commentsToLikes: 0.021042
+    id: ckaoujcuc0iy50i78ms1a6005
     verified: false
-    hashtags: "#vegan, #poweredbyplants, #vegansunite, #nosingleuseplastic"
-  - username: "theladywholunches"
+    hashtags: "#isladepascua, #machupicchu, #backyard, #architecture"
+  - username: "just_looks_jadore"
     fullname: >-
-      Jenna Ingalls
+      Jordan Botzong | Dallas Style
     location: "United States"
-    followers: 3503
-    engagement: 1228
-    commentsToLikes: 0.110915
-    id: ck5zobjeqq6wu0i146qvnwtx8
+    followers: 2888
+    engagement: 1051
+    commentsToLikes: 0.177753
+    id: ck6tsz78h7nv20j71018rbreu
     verified: false
-    hashtags: "#knittingforolive, #sizeinclusive, #westknits, #knitfastdiewarm"
-  - username: "ohoneycomb"
+    hashtags: "#animalprintlook, #cityliving, #workwearfashion, #tiedye"
+  - username: "life_as_alexandra"
     fullname: >-
-      miss macy
+      Alexandra Birch
     location: "United States"
-    followers: 86446
-    engagement: 395
-    commentsToLikes: 0.011676
-    id: ck1376ia7a16i0i19uj96ns5l
+    followers: 38372
+    engagement: 688
+    commentsToLikes: 0.017843
+    id: ck14l13vhsca10i198iiznrzx
     verified: false
-    hashtags: ""
-  - username: "oaktreecottage17"
+    hashtags: "#throwback, #businessowner, #easterbasket, #easterdecor"
+  - username: "adeinaanderson"
+    fullname: >-
+      Creative Lifestyles W/ Adeina
+    location: "United States"
+    followers: 5383
+    engagement: 582
+    commentsToLikes: 0.028386
+    id: ck5bud6lkhkep0i113ybqgl5k
+    verified: false
+    hashtags: "#breakfastfood, #bettycrocker, #roadtripfood, #backyard"
+  - username: "sweetlittlesmithfarm"
+    fullname: >-
+      MIRANDA-CottageBohoFarmhouse
+    location: "United States"
+    followers: 11751
+    engagement: 483
+    commentsToLikes: 0.162389
+    id: ck0w2vxasqfgl0i1900tz2wl5
+    verified: false
+    hashtags: "#pantry, #cozyporch, #verandamag, #myinstafarmhouse"
+  - username: "nicknash_music"
+    fullname: >-
+      N I C K  N A S H
+    location: "United States"
+    followers: 9351
+    engagement: 95
+    commentsToLikes: 0.058500
+    id: ck6tvuzs7ofcj0j71j4e47r9t
+    verified: false
+    hashtags: "#likeforlikes, #wedding, #stories, #dumbanddumber"
+  - username: "hanwestby"
+    fullname: >-
+      Hannah Westby
+    location: "United States"
+    followers: 46539
+    engagement: 1125
+    commentsToLikes: 0.027252
+    id: ck135l57i1y7t0i19muvpwj2g
+    verified: false
+    hashtags: "#plantpowerineveryshower, #furbodognanny, #20weeks, #workingwithfracture"
+  - username: "faithfoxmama"
     fullname: >-
       
     location: "United States"
-    followers: 10808
-    engagement: 1286
-    commentsToLikes: 0.057990
-    id: ck13bj9ofvoa00i192q6m7gqf
+    followers: 23056
+    engagement: 171
+    commentsToLikes: 0.296186
+    id: ck6turib2hzj20j71vv26vxo1
     verified: false
-    hashtags: "#victoriangarden, #romanticgardens, #pinkflowers, #springiscoming"
+    hashtags: "#trueinnerself, #earlymornings, #borageflowers, #heatherrose"
 ---

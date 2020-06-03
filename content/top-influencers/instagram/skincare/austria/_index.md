@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Austria In 2020
 description: >-
-  Find top skincare Instagram influencers in Austria in 2020. Most popular hashtags: #stayathome #skincare #fashion #blogger.
+  Find top skincare Instagram influencers in Austria in 2020. Most popular hashtags: #skincare #giveaway #outfit #olivedaofficial.
 platform: Instagram
 profiles:
-  - username: "julia.eberl"
+  - username: "zoekarapetyan"
     fullname: >-
-      𝘀𝗵𝗼𝗿𝘁𝗵𝗮𝗶𝗿 ▪️𝗺𝗮𝗸𝗲𝘂𝗽▪️𝘀𝗸𝗶𝗻𝗰𝗮𝗿𝗲
+      Zoé Karapetyan
     location: "Austria"
-    followers: 26127
-    engagement: 575
-    commentsToLikes: 0.062152
-    id: ck5bwj00flsp70i114fxghpe3
+    followers: 20904
+    engagement: 283
+    commentsToLikes: 0.067561
+    id: ckaozti7lnbzv0i78iriwkd0k
     verified: false
-    hashtags: "#coupesdecheveux, #alltagmitkind, #chalet, #hautpflegeroutine"
-  - username: "terezabudkova"
+    hashtags: "#plantsofinstagram, #sunsetphotography, #urlaubaufterrassien, #styledayfriday"
+  - username: "caroemilie"
     fullname: >-
-      Tereza Budková
+      Caroline
     location: "Austria"
-    followers: 77631
-    engagement: 497
-    commentsToLikes: 0.029766
-    id: ck6tpthc4mrf00j717n7qvztb
-    verified: true
-    hashtags: "#snikers, #behindthescenes, #bridalmakeup, #springfashion"
+    followers: 5774
+    engagement: 1200
+    commentsToLikes: 0.083549
+    id: ck9wfk15cp6iq0j78dt1jo1zc
+    verified: false
+    hashtags: "#happymothersday, #beauty, #beautybloggers, #lacetop"
+  - username: "mycafeaulait"
+    fullname: >-
+      ♦ Lisa Maria ☼
+    location: "Austria"
+    followers: 15369
+    engagement: 385
+    commentsToLikes: 0.105574
+    id: ckaor66solw0w0i78r9i62kzw
+    verified: false
+    hashtags: "#caughtreading, #giveaway, #localsupport, #summerfruit"
+  - username: "suepergurl"
+    fullname: >-
+      Susanna Vierthaler | SKINCOACH
+    location: "Austria"
+    followers: 3003
+    engagement: 1516
+    commentsToLikes: 0.121233
+    id: ck5hp7gvrqvrn0i11hojsnla8
+    verified: false
+    hashtags: "#diycrafts, #bossladymindset, #styleideas, #frenchchic"
   - username: "jimy_09"
     fullname: >-
       Mergim Shabani
     location: "Austria"
-    followers: 167182
-    engagement: 681
-    commentsToLikes: 0.010247
+    followers: 173273
+    engagement: 804
+    commentsToLikes: 0.009028
     id: ck6uho6lya9cj0j71ts5nshwp
     verified: false
-    hashtags: "#fasterthan, #stayathome, #tb, #organicskincare"
-  - username: "descude.blog"
+    hashtags: "#cleanbeauty, #swedishskincare, #naturalskincare, #labruket"
+  - username: "ivan.andii"
     fullname: >-
-      Simona Nemțanu
+      I v á n  A n d i
     location: "Austria"
-    followers: 16061
-    engagement: 297
-    commentsToLikes: 0.311085
-    id: ck6u11bmniyx70j71i4rahh33
+    followers: 25440
+    engagement: 484
+    commentsToLikes: 0.091631
+    id: ck0u6aimp1icg0i1932x3k65d
     verified: false
-    hashtags: "#memories, #gatacuiarna, #scentfragrance, #90vintage"
+    hashtags: "#airpods, #rundayfunday, #gucci, #beautyfarmasi"
   - username: "sarahschwaiger__"
     fullname: >-
       SARAH 💗
     location: "Austria"
-    followers: 8196
-    engagement: 756
-    commentsToLikes: 0.061517
+    followers: 8287
+    engagement: 749
+    commentsToLikes: 0.066184
     id: ck8t1vprrx85r0j78m8gnnv41
     verified: false
-    hashtags: "#karokauer, #olivedaofficial, #olivedaglow, #winter"
-  - username: "virginia.rox"
+    hashtags: "#modeling, #zara, #fashion, #eatclean"
+  - username: "lisakuschka"
     fullname: >-
-      FITNESS | CONCIOUSNESS | LOVE
+      LISA 👩‍🦳🌸
     location: "Austria"
-    followers: 43965
-    engagement: 351
-    commentsToLikes: 0.032731
-    id: ck6ui8b8udn0n0j718tccz8d4
+    followers: 153599
+    engagement: 606
+    commentsToLikes: 0.034089
+    id: ck5zri0cywm830i14bg1tdqrw
     verified: false
-    hashtags: "#girlpower, #foodspringfamily, #happyholidays, #essenbestellen"
-  - username: "leonie_rachel"
+    hashtags: "#hotpants, #citywalk, #fashionlover, #happyday"
+  - username: "descude.blog"
     fullname: >-
-      Leonie-Rachel | Self Love Blog
+      Simona Nemțanu
     location: "Austria"
-    followers: 26568
-    engagement: 190
-    commentsToLikes: 0.069682
-    id: ck5hfpkufyo0o0i11y78hoxge
+    followers: 16611
+    engagement: 249
+    commentsToLikes: 0.167122
+    id: ck6u11bmniyx70j71i4rahh33
     verified: false
-    hashtags: "#narzisstischermissbrauch, #calmnessofmind, #yogajourney, #dogsofinstagram"
+    hashtags: "#femmeluxe, #parlins, #animalprint, #nudeoutfit"
   - username: "evelyn_poetz"
     fullname: >-
       ♡ᴍᴀᴋᴇᴜᴘ♡ғᴀsʜɪᴏɴ♡ʜᴀɪʀ♡ғɪᴛɴᴇss
     location: "Austria"
-    followers: 17630
-    engagement: 203
-    commentsToLikes: 0.063778
+    followers: 17522
+    engagement: 244
+    commentsToLikes: 0.067767
     id: ck5bwj1fclsr70i11jolpyozk
     verified: false
-    hashtags: "#momlife, #frauensache, #shorthair, #shorthairgirls"
-  - username: "piecesofmara"
-    fullname: >-
-      mara 🌻
-    location: "Austria"
-    followers: 22796
-    engagement: 257
-    commentsToLikes: 0.044388
-    id: ck5zvq2ff4phn0i146grcugds
-    verified: false
-    hashtags: "#tezza, #jogger, #quarantinemakesmedoit, #yogabeginner"
-  - username: "falami_12"
-    fullname: >-
-      𝙴𝚍𝚒𝚝𝚑 🌾
-    location: "Austria"
-    followers: 4679
-    engagement: 1161
-    commentsToLikes: 0.068231
-    id: ck5c41hqb0ggt0i11eotkxajo
-    verified: false
-    hashtags: "#familytime, #selfietime, #therality, #kidslife"
+    hashtags: "#goodtimes, #customer, #sommer, #coronafrisur"
 ---

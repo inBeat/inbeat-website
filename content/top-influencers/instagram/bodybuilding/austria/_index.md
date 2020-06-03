@@ -1,7 +1,7 @@
 ---
 title: Top 10 Bodybuilding Instagram Influencers In Austria In 2020
 description: >-
-  Find top bodybuilding Instagram influencers in Austria in 2020. Most popular hashtags: #fitness #bodybuilding #workout #training.
+  Find top bodybuilding Instagram influencers in Austria in 2020. Most popular hashtags: #bodybuilding #workout #instadaily #healthy.
 platform: Instagram
 profiles:
   - username: "katharina_fitglam"
@@ -14,94 +14,94 @@ profiles:
     id: ck5cksz42xjx80i11aepzv4ti
     verified: false
     hashtags: "#thegrindneverstops, #progresspics, #summerbodyinprogress, #summerbody"
-  - username: "intelligentstrength"
+  - username: "ela__1308"
     fullname: >-
-      DAS GYM
+      Ela 🕊
     location: "Austria"
-    followers: 30420
-    engagement: 285
-    commentsToLikes: 0.036446
-    id: ck14gkneq5orx0i19ze4dxsur
+    followers: 21363
+    engagement: 730
+    commentsToLikes: 0.126362
+    id: ckap6ynovhwt50i78koinlnp4
     verified: false
-    hashtags: "#doormuscleupchallenge"
-  - username: "dennyinked_"
-    fullname: >-
-      Denny🐙
-    location: "Austria"
-    followers: 197962
-    engagement: 368
-    commentsToLikes: 0.026663
-    id: ck8sxa8zhgo530j78gph6mpct
-    verified: false
-    hashtags: "#fashionstyle, #fashionable, #blonde, #aerobic"
-  - username: "lisamariekatharin"
-    fullname: >-
-      1 0 0 %  OR  NOTHING
-    location: "Austria"
-    followers: 27872
-    engagement: 205
-    commentsToLikes: 0.108255
-    id: ck5cksulcxjlr0i11q7q4a0bo
-    verified: false
-    hashtags: "#staypositive, #body, #fitbit, #goals"
+    hashtags: "#dekoideen, #sundayfunday, #leatherleggings, #vogove"
   - username: "_aleksagavrilovic_"
     fullname: >-
       ᴀ ʟ ᴇ ᴋ s ᴀ
     location: "Austria"
-    followers: 33582
-    engagement: 726
-    commentsToLikes: 0.032534
+    followers: 33180
+    engagement: 745
+    commentsToLikes: 0.032220
     id: ck6u87zjcpyo40j71e1q00wbx
     verified: false
-    hashtags: "#muscles, #seychelles, #happy, #luxury"
-  - username: "ussy.doleh"
+    hashtags: "#teatro, #bugattichiron, #corona, #traning"
+  - username: "katarzyna_czulek"
     fullname: >-
-      𝙐𝙨𝙨𝙮 𝘿.
+      Katarzyna Czułek
     location: "Austria"
-    followers: 6000
-    engagement: 1643
-    commentsToLikes: 0.039907
-    id: ck6tk415z3ypw0j71w4n23zzd
+    followers: 253295
+    engagement: 110
+    commentsToLikes: 0.037137
+    id: ck5hhidmw8dsx0i11l652abqo
     verified: false
-    hashtags: "#aktion, #picoftheday, #teamrakic, #instadaily"
-  - username: "mario.fritz2.0"
+    hashtags: "#instaphoto, #weekendtime, #husbandandwife, #bestfriends"
+  - username: "_coffeeandgains"
     fullname: >-
-      Fitness ● Lifestyle ● Fashion
+      Luki 💪🏾☕️
     location: "Austria"
-    followers: 11267
-    engagement: 881
-    commentsToLikes: 0.032345
-    id: ck15svtnof2080i196fsraqnn
+    followers: 6670
+    engagement: 561
+    commentsToLikes: 0.113935
+    id: ckaoyab65gnsn0i78hlm2jua8
     verified: false
-    hashtags: "#combatsports, #lifestylepost, #coatsph, #springfeeling"
+    hashtags: "#bodybuilding, #schulter, #positivevibes, #fitnesstrainer"
   - username: "luke_fader"
     fullname: >-
       L U K E F A D E R
     location: "Austria"
-    followers: 39115
-    engagement: 248
-    commentsToLikes: 0.040284
+    followers: 38018
+    engagement: 227
+    commentsToLikes: 0.036250
     id: ck6tk3z1n3ykw0j715vceez9m
     verified: false
-    hashtags: "#mixology, #faderism, #instafood, #manwithhat"
+    hashtags: "#nature, #photooftheday, #winter, #fitfam"
+  - username: "marcello.bravo"
+    fullname: >-
+      Marcello Bravo
+    location: "Austria"
+    followers: 28033
+    engagement: 139
+    commentsToLikes: 0.024040
+    id: ck5hrv9zkvjft0i11xiouay8v
+    verified: false
+    hashtags: "#sexyhub, #fashion, #stopwar, #couplegoals"
+  - username: "caroline.lena"
+    fullname: >-
+      Lena Caroline | Vienna
+    location: "Austria"
+    followers: 10743
+    engagement: 344
+    commentsToLikes: 0.156805
+    id: ck0w4tdkd0bjo0i19ho2fzyd7
+    verified: false
+    hashtags: "#lips, #blondegirl, #mensfashion, #femalemodel"
   - username: "zj.rob"
     fullname: >-
       ℤ𝕁 ℝ𝕆𝔹 𝔹𝕀ℝℂℍ𝔹𝔸𝕌𝔼ℝ
     location: "Austria"
-    followers: 9874
-    engagement: 632
-    commentsToLikes: 0.038572
+    followers: 10430
+    engagement: 565
+    commentsToLikes: 0.042970
     id: ck5q29gtbewo10i11pg9ly5dh
     verified: false
-    hashtags: "#bestie, #zincommunity, #smile, #paradise"
-  - username: "official_teamcaveman"
+    hashtags: "#heal, #friendship, #quecalor, #craftbeer"
+  - username: "sarinaschneider_"
     fullname: >-
-      John Roland Rene
+      Sarina | 23 🎉
     location: "Austria"
-    followers: 38677
-    engagement: 126
-    commentsToLikes: 0.058070
-    id: ck5pz3i25z1sy0i1117enbs5n
+    followers: 9676
+    engagement: 676
+    commentsToLikes: 0.039469
+    id: ck8tbqfndwpk90j78dnofdm74
     verified: false
-    hashtags: "#boxersofinstagram, #dominican, #fitnessmotivation, #jiujitsu"
+    hashtags: "#kaiserschmarrn, #gymfood, #liebe, #veganfood"
 ---

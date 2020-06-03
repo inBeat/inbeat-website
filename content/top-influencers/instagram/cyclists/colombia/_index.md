@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Colombia In 2020
 description: >-
-  Find top cyclists Instagram influencers in Colombia in 2020. Most popular hashtags: #cyclinglife #cycling #cyclist #ciclismo.
+  Find top cyclists Instagram influencers in Colombia in 2020. Most popular hashtags: #ciclismo #bike #bicicleta #cyclist.
 platform: Instagram
 profiles:
-  - username: "caroamayac"
-    fullname: >-
-      C A R O L I N A  A M A Y A
-    location: "Colombia"
-    followers: 52479
-    engagement: 222
-    commentsToLikes: 0.067054
-    id: ck14hx0ntck8t0i191jawclxe
-    verified: false
-    hashtags: "#womencyclistpower, #soymujerciclista, #diasdetaller, #indoorbike"
   - username: "carolinafrancov"
     fullname: >-
       Carolina Franco Villegas
     location: "Colombia"
-    followers: 52036
-    engagement: 371
-    commentsToLikes: 0.035673
+    followers: 52921
+    engagement: 369
+    commentsToLikes: 0.058152
     id: ck5bwvxkemiqi0i11a3j02jli
     verified: false
-    hashtags: "#ciclismo, #colombia, #howweliv, #livcycling"
+    hashtags: "#almendras, #colombia, #postresaludable, #chocolate"
+  - username: "caroamayac"
+    fullname: >-
+      C A R O L I N A  A M A Y A
+    location: "Colombia"
+    followers: 53119
+    engagement: 270
+    commentsToLikes: 0.064282
+    id: ck14hx0ntck8t0i191jawclxe
+    verified: false
+    hashtags: "#40tena, #quedateencasa, #relaxday, #bike"
   - username: "fabioaru1"
     fullname: >-
       Fabio Aru
     location: "Colombia"
-    followers: 176950
-    engagement: 434
-    commentsToLikes: 0.011959
+    followers: 176838
+    engagement: 436
+    commentsToLikes: 0.011941
     id: ck5qa82gzf15a0i11a7oa11bg
     verified: true
-    hashtags: "#colombia, #trainingmode, #trainingcamp, #antioquia"
+    hashtags: "#newseason, #2020, #colombiateamo, #amore"
   - username: "verona92"
     fullname: >-
       Carlos Verona
     location: "Colombia"
-    followers: 70095
-    engagement: 425
-    commentsToLikes: 0.011107
+    followers: 73145
+    engagement: 528
+    commentsToLikes: 0.011388
     id: ck6tmdibf7n570j7184bpdd8l
     verified: true
-    hashtags: "#tourcolombia2020, #rodamosjuntos, #itstimetoreflect, #diadelamujer"
-  - username: "linacatolico93"
-    fullname: >-
-      Lina Catolico
-    location: "Colombia"
-    followers: 26242
-    engagement: 1441
-    commentsToLikes: 0.015440
-    id: ck15t5ffxgfmt0i19ez4pzf1p
-    verified: false
-    hashtags: "#snowboarding, #snowboardinggirl, #roadcycling, #cyclinglovers"
-  - username: "michi_bsa"
-    fullname: >-
-      Javier B 🇨🇴
-    location: "Colombia"
-    followers: 42563
-    engagement: 304
-    commentsToLikes: 0.041270
-    id: ck5hmy2szmuei0i11u9dub8el
-    verified: false
-    hashtags: "#yoga, #chill, #adnindoor, #energiapositiva"
+    hashtags: "#covid, #ganasdesol, #raceday, #movistarteam"
   - username: "mayitarojasb"
     fullname: >-
       Nini Mayerly
     location: "Colombia"
-    followers: 16894
-    engagement: 545
-    commentsToLikes: 0.028581
+    followers: 17634
+    engagement: 500
+    commentsToLikes: 0.026603
     id: ck8sx53l0g6xh0j78mu15ib2a
     verified: false
-    hashtags: "#misdiasencuarentena, #mtbpictureoftheday, #dieasencasa, #thisiswhyweare"
-  - username: "enahernandezh"
+    hashtags: "#tunja, #mecuidoytecuido, #throwbackpic, #medellin"
+  - username: "caroferrerb"
     fullname: >-
-      Ena Hernandez
+      Caro Ferrer ★Cycling★Lifestyle
     location: "Colombia"
-    followers: 61141
-    engagement: 263
-    commentsToLikes: 0.030896
-    id: ck5zkvmufk8st0i14qng0jxcl
+    followers: 215805
+    engagement: 458
+    commentsToLikes: 0.017127
+    id: ck15u9qa3m4550i19gusw1mho
     verified: false
-    hashtags: "#memories, #ciclismofemenino, #ciclismoderuta, #cycling"
-  - username: "anngelicamol"
+    hashtags: "#paincave, #cyclistlife, #sunnyday, #caroferrer"
+  - username: "taty8a"
     fullname: >-
-      Angelica Maria Ocampo Lopez
+      𝐓ᗩ𝐓𝐈ᗩᑎᗩ ᔕàᑎᑕᕼ𝐄ᘔ
     location: "Colombia"
-    followers: 41595
-    engagement: 258
-    commentsToLikes: 0.023315
-    id: ck8tcbxbkyzfc0j78jo2gledp
+    followers: 34022
+    engagement: 192
+    commentsToLikes: 0.023913
+    id: ckaoxz179fctj0i78nms5y3dy
     verified: false
-    hashtags: "#cyclinglife, #pedallivrefotos, #happiness, #cyclingday"
-  - username: "juantobon1"
+    hashtags: "#mountainbike, #amorpedal, #womenonbikes, #instabike"
+  - username: "jserpa01"
     fullname: >-
-      Juan Tobon
+      Jose Serpa
     location: "Colombia"
-    followers: 4725
-    engagement: 1839
-    commentsToLikes: 0.024829
-    id: ck5zs17thxmpe0i14zx3hzfcx
+    followers: 23939
+    engagement: 237
+    commentsToLikes: 0.042926
+    id: ck6ue49r8oqx60j71bxgo5yxa
+    verified: true
+    hashtags: "#morereal, #bike, #shimano, #cyclists"
+  - username: "modociclismo"
+    fullname: >-
+      MODO CICLISMO
+    location: "Colombia"
+    followers: 17635
+    engagement: 247
+    commentsToLikes: 0.004313
+    id: ck5zvr1qc4rih0i14mjme60hd
     verified: false
-    hashtags: "#cyclingpics, #bike, #ciclismocarretera, #cyclingroad"
+    hashtags: "#colombiabike, #amopedalear, #bikefriends, #cyclingtips"
+  - username: "marigomezp"
+    fullname: >-
+      Mariana Gómez P
+    location: "Colombia"
+    followers: 63821
+    engagement: 323
+    commentsToLikes: 0.030044
+    id: ck5zpo1not0h00i142550week
+    verified: false
+    hashtags: "#granola, #foodblogger, #podcasts, #doglove"
 ---

@@ -1,39 +1,89 @@
 ---
 title: Top 10 Divers Instagram Influencers In Australia In 2020
 description: >-
-  Find top divers Instagram influencers in Australia in 2020. Most popular hashtags: #homepro #diving #goprofamily #australia.
+  Find top divers Instagram influencers in Australia in 2020. Most popular hashtags: #isolation #covid19 #blondehair #reset.
 platform: Instagram
 profiles:
+  - username: "brittany.obrien"
+    fullname: >-
+      Brittany O’Brien
+    location: "Australia"
+    followers: 14489
+    engagement: 960
+    commentsToLikes: 0.026072
+    id: ck9ha10luargr0j78u5531hs0
+    verified: true
+    hashtags: ""
+  - username: "jessicasmith27"
+    fullname: >-
+      Jessica Smith OAM
+    location: "Australia"
+    followers: 55751
+    engagement: 162
+    commentsToLikes: 0.037705
+    id: ck5hfba4vwocd0i11nq7maa9d
+    verified: true
+    hashtags: "#pickupyourrubbish, #allinthistogether, #isolation, #restore"
+  - username: "chrisdavidphoto"
+    fullname: >-
+      Chris David
+    location: "Australia"
+    followers: 27752
+    engagement: 379
+    commentsToLikes: 0.017022
+    id: ck5cbo67gfuei0i11k4j7bb9c
+    verified: false
+    hashtags: "#siren, #davinciresolve, #mermaidtail, #malemodels"
   - username: "plus_natali"
     fullname: >-
       Natali Plus
     location: "Australia"
-    followers: 36639
-    engagement: 195
-    commentsToLikes: 0.048759
+    followers: 36247
+    engagement: 178
+    commentsToLikes: 0.048000
     id: ck5q50woyqy4q0i11bkg6v1gt
     verified: false
-    hashtags: "#polkadotdress, #selfawareness, #psootd, #plussizeundies"
+    hashtags: "#nomakeup, #esprliaplus, #fireyredhead, #sticktogether"
+  - username: "jamesheatly"
+    fullname: >-
+      jamesheatly
+    location: "Australia"
+    followers: 20168
+    engagement: 733
+    commentsToLikes: 0.009397
+    id: ck8swunyufau90j787yop4x74
+    verified: true
+    hashtags: "#recovery, #sportstherapy, #23, #newtricks"
+  - username: "jackrhaslam"
+    fullname: >-
+      Jack Haslam
+    location: "Australia"
+    followers: 61805
+    engagement: 771
+    commentsToLikes: 0.009183
+    id: ck6u0es6wf9q80j71227ya7ss
+    verified: false
+    hashtags: "#24hours, #25, #halfwayto50, #bsawards19"
+  - username: "b.thetraveller28"
+    fullname: >-
+      B.Scott | Adventure Traveller
+    location: "Australia"
+    followers: 6196
+    engagement: 863
+    commentsToLikes: 0.099445
+    id: ck8t0ha4vs22x0j78jby8l3k4
+    verified: false
+    hashtags: "#asos, #egyptvibes, #britishairways, #wegotooworld"
   - username: "eternal_moments"
     fullname: >-
       Vincent Nicoletti
     location: "Australia"
-    followers: 4991
-    engagement: 3036
-    commentsToLikes: 0.112518
+    followers: 4854
+    engagement: 2521
+    commentsToLikes: 0.121427
     id: ck5hlmbwikgwq0i115sgr0npo
     verified: false
-    hashtags: "#golden, #dogsofinstagram, #goldenhour, #sunrise"
-  - username: "b.thetraveller28"
-    fullname: >-
-      B.Scott
-    location: "Australia"
-    followers: 5770
-    engagement: 693
-    commentsToLikes: 0.118889
-    id: ck8t0ha4vs22x0j78jby8l3k4
-    verified: false
-    hashtags: "#nz, #kamandalu, #rotorua, #blacktravelfeed"
+    hashtags: "#boat, #starstuff, #birthday, #moments"
   - username: "hnnhgram"
     fullname: >-
       Hannah Kaye Balanay
@@ -43,65 +93,15 @@ profiles:
     commentsToLikes: 0.011660
     id: ck6ud2bnuipq20j7164bv21di
     verified: false
-    hashtags: "#dancer, #mina, #yuna, #kdancecover"
-  - username: "underneath_we_are"
+    hashtags: "#beckyg, #dahyun, #blackpink, #snapping"
+  - username: "maxburch89"
     fullname: >-
-      Underneath We Are
+      
     location: "Australia"
-    followers: 45571
-    engagement: 268
-    commentsToLikes: 0.016119
-    id: ck138lnx6gu890i19hhu23b7z
-    verified: true
-    hashtags: "#haesig, #bopo, #dolllikeme, #stretchmarks"
-  - username: "jessicasmith27"
-    fullname: >-
-      Jessica Smith OAM
-    location: "Australia"
-    followers: 55823
-    engagement: 195
-    commentsToLikes: 0.035312
-    id: ck5hfba4vwocd0i11nq7maa9d
-    verified: true
-    hashtags: "#iwd, #biooiluae, #homeschooling, #bestforbaby"
-  - username: "naturebynathan"
-    fullname: >-
-      NatureByNathan - Australia
-    location: "Australia"
-    followers: 10558
-    engagement: 493
-    commentsToLikes: 0.045788
-    id: ck5c298v5wsn90i11dp4ezvhx
+    followers: 21531
+    engagement: 240
+    commentsToLikes: 0.021108
+    id: ck0vw8p5islql0i19pnkgsdpc
     verified: false
-    hashtags: ""
-  - username: "bakizainal"
-    fullname: >-
-      bakizainal 巴麒
-    location: "Australia"
-    followers: 61780
-    engagement: 106
-    commentsToLikes: 0.036779
-    id: ck55myjth540y0i11przlgusa
-    verified: true
-    hashtags: "#sambal, #paditv, #liquidstill, #hochiminhcity"
-  - username: "rhiannan_iffland"
-    fullname: >-
-      Rhiannan Iffland
-    location: "Australia"
-    followers: 25703
-    engagement: 463
-    commentsToLikes: 0.032447
-    id: ck0vvlqn3pob70i19wdop36mv
-    verified: true
-    hashtags: "#tb, #surf, #2019, #motivationmonday"
-  - username: "scubadiverlife"
-    fullname: >-
-      Scuba Diver Life
-    location: "Australia"
-    followers: 199437
-    engagement: 347
-    commentsToLikes: 0.017651
-    id: ck0w1n6c5k5tu0i19i54f9jxj
-    verified: false
-    hashtags: "#rainbow, #earthcapture, #bioluminescence, #amazing"
+    hashtags: "#breathhold, #liftheavy, #garmin, #clean"
 ---

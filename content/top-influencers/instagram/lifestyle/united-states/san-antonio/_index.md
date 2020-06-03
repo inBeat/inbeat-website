@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In San Antonio In 2020
 description: >-
-  Find top lifestyle Instagram influencers in San Antonio in 2020. Most popular hashtags: #sanantonio #lifestyle #texas #love.
+  Find top lifestyle Instagram influencers in San Antonio in 2020. Most popular hashtags: #lifestyle #stayhome #spanxleggings #covid.
 platform: Instagram
 profiles:
   - username: "puropinchesa"
     fullname: >-
       Puro Pinche
     location: "United States"
-    followers: 21478
-    engagement: 176
-    commentsToLikes: 0.151717
+    followers: 21667
+    engagement: 188
+    commentsToLikes: 0.212411
     id: ck0ubkpneep0k0i19cb6v6kdq
     verified: false
-    hashtags: "#visitsanantonio, #planforvacation, #downtownsanantonio, #latinx"
-  - username: "diego_djdgaf"
-    fullname: >-
-      Diego Elizarraras ✪
-    location: "United States"
-    followers: 148055
-    engagement: 121
-    commentsToLikes: 0.056632
-    id: ck6tp1jkyhbfg0j71af8ewr3i
-    verified: false
-    hashtags: "#sandiego, #kobebryant, #gucci, #portland"
-  - username: "palmvisuals"
-    fullname: >-
-      A Cinematic Film Co.
-    location: "United States"
-    followers: 6437
-    engagement: 759
-    commentsToLikes: 0.021647
-    id: ck5zvnkh34kna0i14d7njvut6
-    verified: false
-    hashtags: "#houston, #luxurylife, #alllivesmatter, #videos"
-  - username: "tally.dilbert"
-    fullname: >-
-      TALLY
-    location: "United States"
-    followers: 8250
-    engagement: 596
-    commentsToLikes: 0.061077
-    id: ck6tjlqhh2ylf0j71ub3ttmk8
-    verified: false
-    hashtags: "#internationalwomensday, #satxblogger, #texasblogger, #miamiflorida"
+    hashtags: "#whataburger, #easter, #purodatenight, #covid19"
   - username: "shutter.studios.david"
     fullname: >-
       Shutter Studios
     location: "United States"
-    followers: 7691
-    engagement: 759
-    commentsToLikes: 0.091333
+    followers: 7781
+    engagement: 415
+    commentsToLikes: 0.082706
     id: ck6u2utt3u1nj0j71az7rru09
     verified: false
-    hashtags: "#teamprospekts, #nissan, #halos, #airliftperformance"
+    hashtags: "#ccwwheels, #photoshoot, #photooftheday, #carbonfiber"
   - username: "brodycresssaddlebronc"
     fullname: >-
       Brody Cress
     location: "United States"
-    followers: 7953
-    engagement: 635
-    commentsToLikes: 0.006538
+    followers: 8078
+    engagement: 663
+    commentsToLikes: 0.005315
     id: ck15r558567aj0i19mqm88x3r
     verified: false
-    hashtags: "#profantasyrodeo, #thatswy, #letsrodeosa, #madeinamerica"
-  - username: "_maddiemason_cosplay"
-    fullname: >-
-      𝑀𝒶𝒹𝒹𝒾𝑒 𝑀𝒶𝓈𝑜𝓃💋
-    location: "United States"
-    followers: 14423
-    engagement: 504
-    commentsToLikes: 0.062740
-    id: ck6ui5ku0d76g0j71ea21muiy
-    verified: false
-    hashtags: "#wonderchamber, #coronavir, #quarantineandchill, #shillouette"
-  - username: "myriahlynn_"
-    fullname: >-
-      Myriah
-    location: "United States"
-    followers: 3083
-    engagement: 1183
-    commentsToLikes: 0.056603
-    id: ck5pzshir2j510i118rk555b7
-    verified: false
-    hashtags: "#keepgoing, #determination, #shotoniphone, #womenempowerment"
+    hashtags: "#prorodeotour, #americanhatco, #besthatstore, #rodeoguess"
   - username: "sergiobarron_"
     fullname: >-
       S E R G I O  B A R R O N
     location: "United States"
-    followers: 43436
-    engagement: 189
-    commentsToLikes: 0.019641
+    followers: 43545
+    engagement: 191
+    commentsToLikes: 0.017958
     id: ck6uf9ujmvs0s0j71ex7zpr34
     verified: false
-    hashtags: "#coffeeaddict, #lineup, #henrydavidthoreau, #beardlife"
-  - username: "abeeveryday"
+    hashtags: "#blurryfades, #iphone, #inkphienz, #photography"
+  - username: "myriahlynn_"
     fullname: >-
-      Abraham | Donut Connoisseur
+      Myriah
     location: "United States"
-    followers: 7013
-    engagement: 494
-    commentsToLikes: 0.138286
-    id: ck5pzsgf82iyd0i11bt9qj55g
+    followers: 3162
+    engagement: 1246
+    commentsToLikes: 0.065855
+    id: ck5pzshir2j510i118rk555b7
     verified: false
-    hashtags: "#bodybuilder, #myfab5, #foodlover, #balance"
+    hashtags: "#spraytan, #coronawho, #birthdaygirl, #workmodeon"
+  - username: "5oh.mateo"
+    fullname: >-
+      Mateo 🇵🇭🇺🇸
+    location: "United States"
+    followers: 12290
+    engagement: 804
+    commentsToLikes: 0.044158
+    id: ck601qctqfz1n0i14r17q3xll
+    verified: false
+    hashtags: "#teamlmr, #velgensociety"
+  - username: "story.of.marcus"
+    fullname: >-
+      San Antonio Photographer
+    location: "United States"
+    followers: 5870
+    engagement: 497
+    commentsToLikes: 0.027935
+    id: ck6u4i9483vjl0j71pmifjwtm
+    verified: false
+    hashtags: ""
+  - username: "jordanreeh"
+    fullname: >-
+      Southern Stilettos
+    location: "United States"
+    followers: 18815
+    engagement: 303
+    commentsToLikes: 0.201553
+    id: ck14hr6tmbpxw0i193aepha4x
+    verified: false
+    hashtags: "#corporatestyle, #babyonboard, #sahairstylist, #localbusiness"
+  - username: "beautyinamin"
+    fullname: >-
+      Dallas Photographer
+    location: "United States"
+    followers: 23244
+    engagement: 281
+    commentsToLikes: 0.089780
+    id: ck8t5ftv6a12c0j78ff4d6ha1
+    verified: false
+    hashtags: "#mybn, #staytropical, #veganskincareproducts, #veganskincare"
+  - username: "laurynlately"
+    fullname: >-
+      Lauryn Henry
+    location: "United States"
+    followers: 15186
+    engagement: 682
+    commentsToLikes: 0.297194
+    id: ck5zxuutd8pgk0i14b89ayddp
+    verified: false
+    hashtags: "#maxiskirt, #reddress, #sanantonio, #shopsmall"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top cosmetics Instagram influencers in United Kingdom in 2020. Most popular hashtags: #hair #styling #skin #narsissist.
+  Find top cosmetics Instagram influencers in United Kingdom in 2020. Most popular hashtags: #foundation #redlips #mumlife #cosmetics.
 platform: Instagram
 profiles:
   - username: "jvanityxo"
     fullname: >-
       MAKEUP LOOKS 👇🏾
     location: "United Kingdom"
-    followers: 3143
-    engagement: 2096
-    commentsToLikes: 0.574449
+    followers: 3512
+    engagement: 2366
+    commentsToLikes: 0.600964
     id: ck6tjuuv53guv0j71f1w5fsud
     verified: false
-    hashtags: "#eyeshadowtutorial, #bornthisway, #narscosmetics, #lacefrontalwigs"
-  - username: "vivphan"
+    hashtags: "#cleargloss, #abhxjackieaina, #primer, #artistcouture"
+  - username: "connorthomsonmckay"
     fullname: >-
-      Vivian Phan ♥
+      𝐂𝐨𝐧𝐧𝐨𝐫 𝐓𝐡𝐨𝐦𝐬𝐨𝐧 𝐌𝐜𝐊𝐚𝐲
     location: "United Kingdom"
-    followers: 44671
-    engagement: 301
-    commentsToLikes: 0.032297
-    id: ck5c45qyo0nso0i11iq3nnvz7
+    followers: 3522
+    engagement: 2780
+    commentsToLikes: 0.105982
+    id: ckapa7oarv1wp0i78t8pjna6v
     verified: false
-    hashtags: "#oahu, #asianbootiesmatter, #truthseeker, #celsiusambassador"
+    hashtags: "#timetocare, #thebodyshop, #thebodyshopuk"
+  - username: "manpreetbambra"
+    fullname: >-
+      Manpreet Bambra (Manny) 🧿
+    location: "United Kingdom"
+    followers: 98138
+    engagement: 701
+    commentsToLikes: 0.008273
+    id: ck8t3b9jd2m5g0j78ial6xuxl
+    verified: false
+    hashtags: "#sunset, #wegotthis, #keephealthy, #redlips"
+  - username: "sophiamakeupartist"
+    fullname: >-
+      BRIDAL HAIR/MAKEUP ARTIST
+    location: "United Kingdom"
+    followers: 94722
+    engagement: 187
+    commentsToLikes: 0.039632
+    id: ck5zq5llitza60i14dyps20z6
+    verified: false
+    hashtags: "#memyselfandeyeko, #skincare, #mehndinight, #eyeko"
   - username: "nora1352"
     fullname: >-
       Nora Bo Awadh NB
     location: "United Kingdom"
-    followers: 3127601
-    engagement: 118
-    commentsToLikes: 0.063679
+    followers: 3141279
+    engagement: 74
+    commentsToLikes: 0.071817
     id: ck0u1vh3ey4vv0i19txo3t3uw
     verified: true
-    hashtags: ""
-  - username: "manpreetbambra"
+    hashtags: "#my"
+  - username: "rocktheestyle"
     fullname: >-
-      Manpreet Bambra (Manny)🧿
+      Dr. Tina
     location: "United Kingdom"
-    followers: 84960
-    engagement: 533
-    commentsToLikes: 0.007511
-    id: ck8t3b9jd2m5g0j78ial6xuxl
+    followers: 32396
+    engagement: 266
+    commentsToLikes: 0.106017
+    id: ck6tmm2ng83bc0j71fik9ifci
     verified: false
-    hashtags: "#classic, #outback, #outbackaustralia, #newweek"
-  - username: "mettissecampbell"
+    hashtags: "#italiandays, #london, #fringe, #rocktheestyle"
+  - username: "jodieannstark"
     fullname: >-
-      𝐌𝐄𝐓𝐓𝐈𝐒𝐒𝐄 𝐂𝐀𝐌𝐏𝐁𝐄𝐋𝐋
+      Jodie Stark
     location: "United Kingdom"
-    followers: 289334
-    engagement: 426
-    commentsToLikes: 0.007138
-    id: ck6tnli8qa35q0j7103fc13n2
-    verified: true
-    hashtags: "#camojunkieselfie, #girlfriendbarber, #youtube, #youtubecouple"
+    followers: 149572
+    engagement: 315
+    commentsToLikes: 0.014996
+    id: ck5ckomg9xb2g0i113tfewhrh
+    verified: false
+    hashtags: "#6monthsold, #postpartum, #straightthroughcrew, #dontrushchallenge"
   - username: "amyrosewalker"
     fullname: >-
       𝒜𝓂𝓎𝓇𝑜𝓈𝑒 ♡
     location: "United Kingdom"
-    followers: 53076
-    engagement: 238
-    commentsToLikes: 0.018642
+    followers: 53148
+    engagement: 255
+    commentsToLikes: 0.019459
     id: ck13a0yveo2uv0i197q5tta64
     verified: false
-    hashtags: "#imwearingri, #narsafterglow, #ad, #e5p"
+    hashtags: "#gifted, #imwearingri, #amyroselashes"
   - username: "dr.mclean"
     fullname: >-
       Dr Andy McLean
     location: "United Kingdom"
-    followers: 40369
-    engagement: 181
-    commentsToLikes: 0.034012
+    followers: 40640
+    engagement: 174
+    commentsToLikes: 0.058661
     id: ck14hl25qauq00i19ldrsdu5t
     verified: false
     hashtags: ""
-  - username: "hxnnahnicholls"
+  - username: "chenadelaroy"
     fullname: >-
-      Hannah Nicholls
+      ChenadeLaroy
     location: "United Kingdom"
-    followers: 25198
-    engagement: 245
-    commentsToLikes: 0.031273
-    id: ck13ckequ0sfw0i192ewj3ltx
+    followers: 58598
+    engagement: 134
+    commentsToLikes: 0.123030
+    id: ck5hhdmlo7olo0i115tj9hnag
     verified: false
-    hashtags: "#forgirlsbygirls, #ohpolly"
-  - username: "thelookbylouise_"
-    fullname: >-
-      Luxury Skin & Cosmetic Clinic
-    location: "United Kingdom"
-    followers: 38085
-    engagement: 128
-    commentsToLikes: 0.043738
-    id: ck55p1y5p9n9e0i11ke1mo1sl
-    verified: false
-    hashtags: "#lipfillers, #hydrafacialcheshire, #lipfiller, #lipaugmentation"
-  - username: "porschepoon"
-    fullname: >-
-      Porsche Poon
-    location: "United Kingdom"
-    followers: 11030
-    engagement: 594
-    commentsToLikes: 0.008060
-    id: ck0u6nf4k2j530i19a11rkp1k
-    verified: false
-    hashtags: "#gilter, #japanese, #smokey, #10menmagazine"
+    hashtags: "#curls, #hairoftheday, #blacklove, #cachos"
 ---

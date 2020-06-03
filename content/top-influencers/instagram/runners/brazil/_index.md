@@ -1,107 +1,107 @@
 ---
 title: Top 10 Runners Instagram Influencers In Brazil In 2020
 description: >-
-  Find top runners Instagram influencers in Brazil in 2020. Most popular hashtags: #stayhome #fiqueemcasa #stayathome #quedateencasa.
+  Find top runners Instagram influencers in Brazil in 2020. Most popular hashtags: #corridaperfeita #party #10kmrun #stayhome.
 platform: Instagram
 profiles:
-  - username: "marinagodward"
+  - username: "pedeaopai"
     fullname: >-
-      M I M A 🌻
+      Inês Ribolhos
     location: "Brazil"
-    followers: 21478
-    engagement: 515
-    commentsToLikes: 0.036008
-    id: ck13afeqwq4t10i192qtiaz5r
+    followers: 11351
+    engagement: 1115
+    commentsToLikes: 0.127257
+    id: ck5c2h1bsx8wd0i11libm8yze
     verified: false
-    hashtags: "#mic, #ecochatacommuitoorgulho, #quepeladoguate, #instaguate"
+    hashtags: "#littlelove, #milestone, #babyroom, #motheroftwo"
+  - username: "zusflee"
+    fullname: >-
+      FLEEZUS⛓️🔒
+    location: "Brazil"
+    followers: 15150
+    engagement: 1596
+    commentsToLikes: 0.024234
+    id: ck0w6oszg9l9z0i19qpb2oc2o
+    verified: false
+    hashtags: ""
+  - username: "matheusgiora"
+    fullname: >-
+      Matheus Giora
+    location: "Brazil"
+    followers: 16011
+    engagement: 749
+    commentsToLikes: 0.046871
+    id: ckap9pyebt6dx0i783px2i0fx
+    verified: false
+    hashtags: ""
+  - username: "sulrosa"
+    fullname: >-
+      Sul Rosa ®
+    location: "Brazil"
+    followers: 95199
+    engagement: 204
+    commentsToLikes: 0.083838
+    id: ck8syedq5kkwv0j78rafz4xad
+    verified: false
+    hashtags: "#beachlife, #brazilian, #usarmy, #iloverunning"
+  - username: "lizandrinha"
+    fullname: >-
+      Lizandra Costa
+    location: "Brazil"
+    followers: 6052
+    engagement: 644
+    commentsToLikes: 0.111593
+    id: ck9wf6rsnnfnh0j78jgdl9snq
+    verified: false
+    hashtags: "#embreve, #muitoboatarde, #euacredito, #logotemmais"
   - username: "marjoriemarcelle"
     fullname: >-
       MARJORIE MARCELLE.
     location: "Brazil"
-    followers: 38201
-    engagement: 649
-    commentsToLikes: 0.021001
+    followers: 37588
+    engagement: 670
+    commentsToLikes: 0.024609
     id: ck0vymsf64rtb0i1996mtnnwq
     verified: false
-    hashtags: "#mandajobs, #valentinesday"
-  - username: "cami.garcete"
+    hashtags: "#quarentine, #taurina, #mandajobs, #valentinesday"
+  - username: "marinagodward"
     fullname: >-
-      Miss Ultranational Paraguay🇵🇾👑
+      M I M A 🌻
     location: "Brazil"
-    followers: 9320
-    engagement: 1014
-    commentsToLikes: 0.024626
-    id: ck0uaqnsvcxrl0i19yfdx9r9t
+    followers: 21623
+    engagement: 474
+    commentsToLikes: 0.039513
+    id: ck13afeqwq4t10i192qtiaz5r
     verified: false
-    hashtags: "#missgoldpy, #bellezaadolescenteparaguay2019, #bellezaadolescenteparaguay2020, #familybapy2020"
+    hashtags: "#utopiaecohotel, #myutopia, #ficaemcasa, #bolodechocolatedamima"
   - username: "dricavaz"
     fullname: >-
       Adriana Vaz
     location: "Brazil"
-    followers: 25472
+    followers: 25360
     engagement: 311
-    commentsToLikes: 0.037155
+    commentsToLikes: 0.051530
     id: ck5qakbjqgufl0i1135s53m4l
     verified: false
-    hashtags: "#trilhasetralhasnoms, #dolomites, #santacruzdetenerife, #salomonspain"
-  - username: "danichristoffer"
+    hashtags: "#montanhismo, #semtenis, #modeling, #stayhome"
+  - username: "leticia.loppess"
     fullname: >-
-      Daniela Christoffer
+      Letícia Lopes 🧿🏃🏼‍♀️
     location: "Brazil"
-    followers: 24801
-    engagement: 134
-    commentsToLikes: 0.130294
-    id: ck5zoyj4trmju0i14jsx4rost
+    followers: 18492
+    engagement: 213
+    commentsToLikes: 0.195806
+    id: ck8t4c31c68910j788c32xe8l
     verified: false
-    hashtags: "#vibepositiva, #nutricao, #vidadereporter, #movimentese"
-  - username: "fernandamaciel_oficial"
+    hashtags: "#girlspower, #travel, #corridaderua, #treinofeito"
+  - username: "ma.andriolli"
     fullname: >-
-      Fernanda Maciel
+      Marília Haik Andriolli
     location: "Brazil"
-    followers: 130622
-    engagement: 306
-    commentsToLikes: 0.017388
-    id: ck0tu8zma64ks0i19umhwns84
-    verified: true
-    hashtags: "#ultrarunning, #brevent, #runwild, #hypercraft"
-  - username: "corremineira"
-    fullname: >-
-      Mineira (Sara)
-    location: "Brazil"
-    followers: 19470
-    engagement: 310
-    commentsToLikes: 0.037019
-    id: ck13cjo4s0oij0i19x4lwbbig
+    followers: 146598
+    engagement: 94
+    commentsToLikes: 0.047086
+    id: ck6tnalim9grn0j71j8t4alge
     verified: false
-    hashtags: "#body, #woman, #womanpower, #stayhome"
-  - username: "helio_fumo"
-    fullname: >-
-      Helio Fumo
-    location: "Brazil"
-    followers: 9182
-    engagement: 656
-    commentsToLikes: 0.026310
-    id: ck55pjffuaov20i11jtvci72l
-    verified: false
-    hashtags: "#running, #raceday, #valentines, #runningmotivation"
-  - username: "beatrizferreira"
-    fullname: >-
-      Beatriz Ferreira
-    location: "Brazil"
-    followers: 26154
-    engagement: 147
-    commentsToLikes: 0.099591
-    id: ck15ri7sm829d0i19hsbq0tsi
-    verified: false
-    hashtags: "#stayhome, #makeup, #diy, #naturalmakeup"
-  - username: "nini"
-    fullname: >-
-      Nini Oliveira
-    location: "Brazil"
-    followers: 128324
-    engagement: 270
-    commentsToLikes: 0.022845
-    id: ck15rgu187v4u0i19zg31e204
-    verified: false
-    hashtags: "#workout, #semrisadinha, #transgrancanariahg, #gctribikerun"
+    hashtags: "#larahaikandriolli, #looksmha, #juntossomosmaisfortes, #tamojunto"
 ---

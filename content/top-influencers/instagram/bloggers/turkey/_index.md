@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Turkey In 2020
 description: >-
-  Find top bloggers Instagram influencers in Turkey in 2020. Most popular hashtags: #corona #evdekal #travel #fashion.
+  Find top bloggers Instagram influencers in Turkey in 2020. Most popular hashtags: #19may #23nisan #view #hediye.
 platform: Instagram
 profiles:
   - username: "simlipullu"
     fullname: >-
       Simay Çetinkaya Pullu
     location: "Turkey"
-    followers: 5120
-    engagement: 2198
-    commentsToLikes: 0.131060
+    followers: 9594
+    engagement: 1394
+    commentsToLikes: 0.161409
     id: ck8t3cgo62qsy0j78b6gwj87u
     verified: false
-    hashtags: "#geziyorum, #pazarkeyfi, #traveling, #stayhome"
-  - username: "ddurununannesii"
+    hashtags: "#styhmbsf, #cumal, #dekorasyon, #gezi"
+  - username: "iskenderyuksell"
     fullname: >-
-      O Bir Prenses Annesi
+      iskender yüksel
     location: "Turkey"
-    followers: 39347
-    engagement: 557
-    commentsToLikes: 0.352395
-    id: ck8t9lkzyojky0j78767v3hej
+    followers: 26833
+    engagement: 413
+    commentsToLikes: 0.281586
+    id: ckap1frpquesz0i7871u8eo8u
     verified: false
-    hashtags: "#evdekal, #instalike, #liketime, #cekilis"
-  - username: "makeupbygunesh"
+    hashtags: "#ulricdevarens, #jacquessaintpres, #jsp, #parfum"
+  - username: "plannedmap"
     fullname: >-
-      G U N E SH   N U R   OFFICIAL
+      PlannedMap 🗺✈️🚘🛵
     location: "Turkey"
-    followers: 267252
-    engagement: 100
-    commentsToLikes: 0.072887
-    id: ck134t9fzy35m0i19s1gsxkga
+    followers: 3121
+    engagement: 3388
+    commentsToLikes: 0.065850
+    id: ckaos2kivpvj50i78qytsxksu
     verified: false
-    hashtags: "#norvina, #hudabeauty, #hudabeautyfauxfilter, #corona"
-  - username: "ellysjourney_"
+    hashtags: "#rome, #mellieha, #sentosaisland, #germany"
+  - username: "tugbatunckaya"
     fullname: >-
-      🎈...E L İ F...🎈
+      Tugba Tunckaya Denizoz
     location: "Turkey"
-    followers: 6137
-    engagement: 1240
-    commentsToLikes: 0.022138
-    id: ck8t95sulmza50j78hzakcl1j
+    followers: 177382
+    engagement: 238
+    commentsToLikes: 0.225952
+    id: ck9wonm9e5utz0j785ljj2f08
     verified: false
-    hashtags: "#marrakeshairport, #birthday, #londra, #marrakech"
-  - username: "deneyimlianne"
-    fullname: >-
-      Deneyimli Anne
-    location: "Turkey"
-    followers: 16791
-    engagement: 445
-    commentsToLikes: 0.032632
-    id: ck5cez9tim0fx0i111lrlu3r5
-    verified: false
-    hashtags: "#ankarastyles, #ankaradacocuklaetkinlik, #ankaraannelerietkinlik, #ayvac"
+    hashtags: "#tutorial, #yeme, #33weekspregnant, #hediye"
   - username: "iva_jeremic"
     fullname: >-
       • IVA JEREMIĆ •
     location: "Turkey"
-    followers: 75831
-    engagement: 509
-    commentsToLikes: 0.030148
+    followers: 77486
+    engagement: 567
+    commentsToLikes: 0.026904
     id: ck6008cfxd4q40i14u5gp4m6z
     verified: false
-    hashtags: "#sweater, #pretty, #weekend, #bath"
-  - username: "emel_krca"
+    hashtags: "#outfit, #barcelona, #horse, #italy"
+  - username: "emine_adasu_officiall"
     fullname: >-
-      Emel Karaca
+      𝕰𝖒𝖎𝖓𝖊 𝕬𝖉𝖆𝖘𝖚💎
     location: "Turkey"
-    followers: 73410
-    engagement: 185
-    commentsToLikes: 0.154541
-    id: ck0vyxdae68xt0i19byal6t28
+    followers: 299176
+    engagement: 168
+    commentsToLikes: 0.323477
+    id: ck1346p9zuz7w0i19fwa7p2mz
     verified: false
-    hashtags: "#happywomensday, #stylishlook, #trendyolmila, #termal"
-  - username: "simgesslife"
+    hashtags: "#evdehayatvar, #cekilisvar, #19may, #23nisankutluolsun"
+  - username: "kurtluyuzbiz"
     fullname: >-
-      •SİMGE•
+      Sennur
     location: "Turkey"
-    followers: 31504
-    engagement: 961
-    commentsToLikes: 0.338719
-    id: ck8t73ddffibp0j78dc8sr5dj
+    followers: 12689
+    engagement: 957
+    commentsToLikes: 0.235209
+    id: ck6u2osglt1xs0j71dvpwc7vo
     verified: false
-    hashtags: "#guulkesif"
-  - username: "ozgeestyle"
+    hashtags: "#instagirl, #scotland, #beach, #congratulations"
+  - username: "aloosh_al_ameer"
     fullname: >-
-      özgesi
+      Ali Abdulameer neamah 🔵
     location: "Turkey"
-    followers: 18991
-    engagement: 986
-    commentsToLikes: 0.196411
-    id: ck14io2yrgd6m0i19x4v949em
+    followers: 1392532
+    engagement: 863
+    commentsToLikes: 0.173578
+    id: ck13ax1y7slj20i19awrn0zaz
     verified: false
-    hashtags: "#instabook, #influencer, #kitapkurdu, #bloggerlife"
-  - username: "meftunn.biri"
+    hashtags: "#photography, #motivation, #model, #2020"
+  - username: "burcuensari"
     fullname: >-
-      Hande ARSLAN 🌿
+      B U R C U   E N S A R İ
     location: "Turkey"
-    followers: 11198
-    engagement: 1259
-    commentsToLikes: 0.102375
-    id: ck8ta5wznqjxr0j78qkaed3jb
+    followers: 21684
+    engagement: 251
+    commentsToLikes: 0.072988
+    id: ckap81xncmh0d0i78897o113c
     verified: false
-    hashtags: "#necipfaz, #aynadakiyalan, #okudumbitti, #al"
+    hashtags: "#tbt, #benpeyzajmimar, #landscapearchitect, #peyzajmimarl"
+  - username: "yesimsenelofficial"
+    fullname: >-
+      Yeşim Şenel
+    location: "Turkey"
+    followers: 89623
+    engagement: 126
+    commentsToLikes: 0.100332
+    id: ckap3mv4t3o7s0i783t3s4cb8
+    verified: false
+    hashtags: "#pakcakes, #croptopkids, #babymarlin, #izindeyizatam"
 ---

@@ -1,97 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Belgium In 2020
 description: >-
-  Find top nutrition Instagram influencers in Belgium in 2020. Most popular hashtags: #fitness #nutrition #belgium #abs.
+  Find top nutrition Instagram influencers in Belgium in 2020. Most popular hashtags: #nutrition #photooftheday #happy #picoftheday.
 platform: Instagram
 profiles:
   - username: "fabian.fcs"
     fullname: >-
       Fabian
     location: "Belgium"
-    followers: 5305
-    engagement: 714
-    commentsToLikes: 0.117201
+    followers: 5235
+    engagement: 731
+    commentsToLikes: 0.116412
     id: ck0w3reeduvs60i19vfw0rnd0
     verified: false
-    hashtags: "#shooting, #photoshoot, #ootdmen, #streetwear"
+    hashtags: "#labo, #forsanclothing, #snow, #finalclub"
   - username: "lunalissens"
     fullname: >-
       L U N A 🌙
     location: "Belgium"
-    followers: 2533
-    engagement: 2167
-    commentsToLikes: 0.084915
+    followers: 4618
+    engagement: 1881
+    commentsToLikes: 0.089096
     id: ck8tct1ke0kcw0j788ddfr7w0
     verified: false
-    hashtags: "#ravieettoi, #ootd, #bobotremelo, #goals"
-  - username: "arrow_the_pooch"
-    fullname: >-
-      Arrow 🐾
-    location: "Belgium"
-    followers: 20597
-    engagement: 909
-    commentsToLikes: 0.005016
-    id: ck0vzwi69b8er0i19ue8uuuji
-    verified: false
-    hashtags: ""
+    hashtags: "#picoftheday, #nakd, #idealofsweden, #happy"
   - username: "hennyseroeyen"
     fullname: >-
       WBFF PRO Fitness Model
     location: "Belgium"
-    followers: 171183
-    engagement: 537
-    commentsToLikes: 0.020108
+    followers: 175661
+    engagement: 355
+    commentsToLikes: 0.075823
     id: ck6trfi5nyorg0j7144qgzj2o
     verified: true
-    hashtags: "#plantbased, #stayhome, #thisishowwestayathome, #fitinuwkot"
-  - username: "m.dewest"
+    hashtags: "#model, #cfbfamily, #secondvideo, #olimplaf"
+  - username: "arrow_the_pooch"
     fullname: >-
-      Michelle.
+      Arrow 🐾
     location: "Belgium"
-    followers: 3844
-    engagement: 798
-    commentsToLikes: 0.060448
-    id: ck14lc7zitxiy0i19qgvmtog4
+    followers: 20904
+    engagement: 698
+    commentsToLikes: 0.010132
+    id: ck0vzwi69b8er0i19ue8uuuji
     verified: false
-    hashtags: "#isolate, #girlswithmuscle, #biceps, #bodybuidling"
-  - username: "zongowest"
+    hashtags: ""
+  - username: "michielw24"
     fullname: >-
-      Zongo West
+      YOUR ONLINE FITCOACH 🤘🏼
     location: "Belgium"
-    followers: 29977
-    engagement: 336
-    commentsToLikes: 0.016184
-    id: ck0txd9zbituz0i1916zhhelg
+    followers: 5127
+    engagement: 520
+    commentsToLikes: 0.020223
+    id: ckapcej6o3htm0i78zpu7p1s8
     verified: false
-    hashtags: "#buddy, #sundaymood, #instafollow, #goodvibes"
-  - username: "yumbowlin"
+    hashtags: "#growthmindset, #strength, #onlineworkout, #healthyhabits"
+  - username: "assya.grs"
     fullname: >-
-      ᴬ ᴺ ᴬ ᴱ ᴸ 🌱🌏 Plantbased Yum ☽
+      Superpaco6  ✨🐨🎮
     location: "Belgium"
-    followers: 7056
-    engagement: 707
-    commentsToLikes: 0.111953
-    id: ck5hcj5v5icd10i11l3z5hmyb
+    followers: 10104
+    engagement: 1604
+    commentsToLikes: 0.067022
+    id: ck9hb93x3fv9q0j78ykmv4qoi
     verified: false
-    hashtags: "#guacamole, #healthy, #veganvultures, #rainbowfoodchallenge"
-  - username: "marti_mac.fly"
+    hashtags: "#game, #strength, #malibu, #staystrong"
+  - username: "marielifeness"
     fullname: >-
-      Crossfiteur - Model - Pompier
+      Marie Thomas
     location: "Belgium"
-    followers: 11989
-    engagement: 562
-    commentsToLikes: 0.174682
-    id: ck5pwvikkot7s0i11e8sbxech
+    followers: 44149
+    engagement: 454
+    commentsToLikes: 0.212842
+    id: ck8t0oudfsqvp0j785t39qn0x
     verified: false
-    hashtags: "#sport, #cooky, #coach, #deadlift"
-  - username: "rkperformance_"
+    hashtags: "#sudiofr, #prize, #tailleur, #dream"
+  - username: "jarnebaele"
     fullname: >-
-      RK#️⃣
+      JARNE BAELE
     location: "Belgium"
-    followers: 11700
-    engagement: 835
-    commentsToLikes: 0.012384
-    id: ck8szvjcipvdp0j78z6ijwz4l
+    followers: 103969
+    engagement: 930
+    commentsToLikes: 0.080796
+    id: ck5zx3lqs7a090i14pem36vhr
     verified: false
-    hashtags: "#football, #explosive, #performance, #trainer"
+    hashtags: "#italiaansefurie, #staysafe, #scapasports, #idealofsweden"
+  - username: "mehdi_amri_10"
+    fullname: >-
+      Mehdi Amri
+    location: "Belgium"
+    followers: 109041
+    engagement: 1454
+    commentsToLikes: 0.019094
+    id: ck5qaxkvkirxb0i112aowu47t
+    verified: false
+    hashtags: "#youcantstopus, #newyork, #eidmubarak, #recovery"
+  - username: "belge_une_fois"
+    fullname: >-
+      Belge une fois
+    location: "Belgium"
+    followers: 18350
+    engagement: 278
+    commentsToLikes: 0.170830
+    id: ck6uhdx6g8jzx0j71q5fwy9u1
+    verified: false
+    hashtags: "#foodporn, #guabao, #plante, #procreate"
 ---

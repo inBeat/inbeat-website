@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Porto In 2020
 description: >-
-  Find top Instagram influencers in Porto in 2020. Most popular hashtags: #ootd #fashion #fashionblogger #streetstyle.
+  Find top Instagram influencers in Porto in 2020. Most popular hashtags: #bike #stayhome #blogger #makeuplover.
 platform: Instagram
 profiles:
-  - username: "andreiafilipaam"
+  - username: "jose_henrique_moura"
     fullname: >-
-      Andreia Marinho
+      José Henrique Moura
     location: "Portugal"
-    followers: 14044
-    engagement: 1166
-    commentsToLikes: 0.147445
-    id: ck8t4jx4h70zt0j78uim2c70t
+    followers: 9966
+    engagement: 1266
+    commentsToLikes: 0.115129
+    id: ck0vvzy86rhjc0i19yrnygq0z
     verified: false
-    hashtags: "#instapic, #girlsquad, #stayhome, #instagramers"
-  - username: "_sofiaazevedo_"
+    hashtags: "#madeira, #photooftheday, #cherokeexj, #tower"
+  - username: "joanavaz_"
     fullname: >-
-      Sofia Azevedo
+      JOANA VAZ
     location: "Portugal"
-    followers: 14611
-    engagement: 904
-    commentsToLikes: 0.071098
-    id: ck5zp2cm4rusf0i142go1gqhj
-    verified: false
-    hashtags: "#streetstyleinspo, #valentinesgiveaway, #zarawoman, #ootdpost"
-  - username: "carinaferreira_oficial"
-    fullname: >-
-      𝓒𝓪𝓻𝓲𝓷𝓪 𝓕𝓮𝓻𝓻𝓮𝓲𝓻𝓪
-    location: "Portugal"
-    followers: 82357
-    engagement: 411
-    commentsToLikes: 0.048121
-    id: ck5q8kznf6pe90i111qu1maet
+    followers: 227382
+    engagement: 509
+    commentsToLikes: 0.076012
+    id: ck0vvzzinrhpl0i19s7rkfmrz
     verified: true
-    hashtags: "#mondayvibes, #sundaymood, #sheinss20, #jumpsuitlover"
+    hashtags: "#travel, #coord, #oysho, #workingathome"
   - username: "sara_nata"
     fullname: >-
       Sara Nata | Fashion•Lifestyle
     location: "Portugal"
-    followers: 2055
-    engagement: 1934
-    commentsToLikes: 0.276203
+    followers: 3581
+    engagement: 1895
+    commentsToLikes: 0.290206
     id: ck8t4c6ru68o50j784zjtiz1f
     verified: false
-    hashtags: "#fashionlover, #sunglasses, #highfashion, #style"
+    hashtags: "#photooftheday, #instagood, #menswear, #outfitoftheday"
+  - username: "viajeconge"
+    fullname: >-
+      viajeconGe ✈️🌍
+    location: "Portugal"
+    followers: 3759
+    engagement: 1798
+    commentsToLikes: 0.262124
+    id: ck6ufkkssxlxu0j71phijdt8d
+    verified: false
+    hashtags: "#antiinfuencer, #antilunademiel, #gopro, #iatiporelmundo"
+  - username: "carinaferreira_oficial"
+    fullname: >-
+      𝓒𝓪𝓻𝓲𝓷𝓪 𝓕𝓮𝓻𝓻𝓮𝓲𝓻𝓪
+    location: "Portugal"
+    followers: 82466
+    engagement: 404
+    commentsToLikes: 0.046003
+    id: ck5q8kznf6pe90i111qu1maet
+    verified: true
+    hashtags: "#sheinss20, #sundayvibes, #outfitinspiration, #throwback"
+  - username: "flywithmauro"
+    fullname: >-
+      Mauro De Jesus | Pilot ✈️
+    location: "Portugal"
+    followers: 8121
+    engagement: 1575
+    commentsToLikes: 0.110996
+    id: ckaot97jpuv950i78x7z8icf0
+    verified: false
+    hashtags: "#bike, #folga, #navigations, #bikelifestyle"
+  - username: "marianacastromoreira"
+    fullname: >-
+      Mariana Castro Moreira
+    location: "Portugal"
+    followers: 61733
+    engagement: 333
+    commentsToLikes: 0.067079
+    id: ck14k93dqod4f0i197uyum95v
+    verified: false
+    hashtags: "#glitterconverse, #denimjacket, #converselover, #poolday"
+  - username: "ritasalome.f"
+    fullname: >-
+      R I T A  A L L E N ✨
+    location: "Portugal"
+    followers: 7770
+    engagement: 876
+    commentsToLikes: 0.186375
+    id: ck8t1cc6fv81d0j78lixba15v
+    verified: false
+    hashtags: ""
+  - username: "carvalhosamakeup"
+    fullname: >-
+      Carvalhosa Makeup
+    location: "Portugal"
+    followers: 5750
+    engagement: 844
+    commentsToLikes: 0.190437
+    id: ck9hahpo8cl4p0j78op3f40b7
+    verified: false
+    hashtags: "#marykayportugal, #mattelipstick, #cutcrease, #makeuplife"
   - username: "beatrizmoreiraazevedo"
     fullname: >-
       B E A
     location: "Portugal"
-    followers: 30696
-    engagement: 364
-    commentsToLikes: 0.179571
+    followers: 30043
+    engagement: 353
+    commentsToLikes: 0.078398
     id: ck1374btg9plh0i19pbvhs9x8
     verified: false
-    hashtags: "#fashionable, #stayhome, #ootdfashion, #outfitinspiration"
-  - username: "ritacduro"
-    fullname: >-
-      Rita Duro
-    location: "Portugal"
-    followers: 3280
-    engagement: 1497
-    commentsToLikes: 0.714083
-    id: ck5c6onu25via0i11pzhlgkuy
-    verified: false
-    hashtags: "#photooftheday, #hawkerscampus, #selfcare, #foodlover"
-  - username: "jorgemsantos"
-    fullname: >-
-      Jorge Santos
-    location: "Portugal"
-    followers: 15172
-    engagement: 477
-    commentsToLikes: 0.572891
-    id: ck8t3nsjz3uk50j78m3pejp8g
-    verified: false
-    hashtags: "#love, #stayhome, #bloggerstyle, #mensfashions"
-  - username: "barbara.marques"
-    fullname: >-
-      My kind of joy | Lifestyle
-    location: "Portugal"
-    followers: 56504
-    engagement: 790
-    commentsToLikes: 0.020097
-    id: ck5pzd0tc0dfn0i113djdxzjd
-    verified: false
-    hashtags: "#oferta, #1weekold, #mariafrederica, #polkadots"
-  - username: "ajoanamaiaa"
-    fullname: >-
-      TRAVEL✨| FASHION✨|LIFESTYLE ✨
-    location: "Portugal"
-    followers: 5541
-    engagement: 781
-    commentsToLikes: 0.177645
-    id: ck14hflt0a2vq0i19iwbux8so
-    verified: false
-    hashtags: "#letsgoeverywhere, #daicaroltica, #marinasandsbay, #femmetravel"
-  - username: "joliveira10_"
-    fullname: >-
-      João Oliveira
-    location: "Portugal"
-    followers: 30887
-    engagement: 1566
-    commentsToLikes: 0.019529
-    id: ck5q8p64l7amz0i11zd9ieseo
-    verified: false
-    hashtags: "#emoc, #emo, #champions, #ficaemcasa"
+    hashtags: "#harmonicalinea, #decorideas, #kerastase, #stayhome"
 ---

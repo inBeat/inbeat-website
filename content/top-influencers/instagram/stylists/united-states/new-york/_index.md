@@ -1,107 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In New York In 2020
 description: >-
-  Find top stylists Instagram influencers in New York in 2020. Most popular hashtags: #fashion #stylist #model #mua.
+  Find top stylists Instagram influencers in New York in 2020. Most popular hashtags: #stylist #newyork #newyorkcity #style.
 platform: Instagram
 profiles:
-  - username: "jackmarinhair"
-    fullname: >-
-      Jack Marin
-    location: "United States"
-    followers: 28308
-    engagement: 323
-    commentsToLikes: 0.021260
-    id: ck5zr7u21w2mx0i14uw3jrvp1
-    verified: false
-    hashtags: "#chicago, #chicagostyle, #fashionista, #chihuahua"
-  - username: "juliaamorris"
-    fullname: >-
-      Julia Morris
-    location: "United States"
-    followers: 17321
-    engagement: 337
-    commentsToLikes: 0.018701
-    id: ck5c4fgrc18qg0i11xuh87vvn
-    verified: false
-    hashtags: "#fashioneditorial, #fantasyart, #ellecover, #fashion"
-  - username: "marinaingvarsson"
-    fullname: >-
-      Marina Ingvarsson
-    location: "United States"
-    followers: 112794
-    engagement: 136
-    commentsToLikes: 0.013996
-    id: ck0vy5pny2d110i19y51ztofh
-    verified: false
-    hashtags: "#stylehint, #uniqlo, #uniqlou, #urbanistalife"
-  - username: "victor.nadolsky"
-    fullname: >-
-      Victor Nadolsky
-    location: "United States"
-    followers: 22060
-    engagement: 276
-    commentsToLikes: 0.010837
-    id: ck15rr1as99ly0i19xuq8fnop
-    verified: false
-    hashtags: "#blonde, #maneinterest, #citiesbesthairartists, #hairtutorial"
   - username: "binababic"
     fullname: >-
       BinaBabic • Makeup Artist 💄
     location: "United States"
-    followers: 44696
-    engagement: 145
-    commentsToLikes: 0.017770
+    followers: 46060
+    engagement: 149
+    commentsToLikes: 0.019972
     id: ck0vz9lpt801u0i19234katzs
     verified: false
-    hashtags: "#newyork, #myeverydayisyournever, #makeupbybinababic, #baddest"
-  - username: "_richard_peterson"
+    hashtags: "#makeuptutorial, #badbitchesonly, #valentines, #sheawholevibe"
+  - username: "marinaingvarsson"
     fullname: >-
-      Petar Perovic
+      Marina Ingvarsson
     location: "United States"
-    followers: 134491
-    engagement: 118
-    commentsToLikes: 0.270203
-    id: ck5hmubblmmzq0i11fb2ypzze
+    followers: 112119
+    engagement: 123
+    commentsToLikes: 0.014689
+    id: ck0vy5pny2d110i19y51ztofh
     verified: false
-    hashtags: "#stayathome, #dubai, #stay, #sexy"
-  - username: "jacfleurant"
+    hashtags: "#instyle, #quarantine, #nyfwgoescommando, #cuffbag"
+  - username: "victor.nadolsky"
     fullname: >-
-      jac fleurant
+      Victor Nadolsky
     location: "United States"
-    followers: 17158
-    engagement: 134
-    commentsToLikes: 0.029771
-    id: ck55jd56fwsgw0i111hvwthc6
+    followers: 21740
+    engagement: 281
+    commentsToLikes: 0.010991
+    id: ck15rr1as99ly0i19xuq8fnop
     verified: false
-    hashtags: ""
-  - username: "nora_russell_"
+    hashtags: "#hairbrained, #olaplex, #loreal, #maneinterest"
+  - username: "clarissareyesbeauty"
     fullname: >-
-      Nora Russell
+      Clarissa Reyes Makeup Artist
     location: "United States"
-    followers: 5084
-    engagement: 853
-    commentsToLikes: 0.011995
-    id: ck5hdel5an0df0i110ihnpsfy
+    followers: 25308
+    engagement: 201
+    commentsToLikes: 0.048137
+    id: ckaor6a23lwh90i7895xftlfl
     verified: false
-    hashtags: "#fashioneditor, #editorialmakeup, #vanityteen, #fashioneditorial"
+    hashtags: "#patrickta, #patricktabeauty, #nymakeupartist, #tbt"
+  - username: "instylewithmeera"
+    fullname: >-
+      MEERA DIWAN
+    location: "United States"
+    followers: 13266
+    engagement: 495
+    commentsToLikes: 0.117947
+    id: ck13afakwq4760i19v662twjw
+    verified: false
+    hashtags: "#zarafashion, #jewelrydesign, #rougebyroojamir, #streetstyle"
+  - username: "michaelraveney"
+    fullname: >-
+      MICHAEL RAVENEY
+    location: "United States"
+    followers: 18862
+    engagement: 230
+    commentsToLikes: 0.040601
+    id: ck5hiwvbbflwr0i11hj41ent6
+    verified: false
+    hashtags: "#montauk, #assistant, #centralpark, #dumbobrooklyn"
+  - username: "deviate_fashion"
+    fullname: >-
+      Deviate
+    location: "United States"
+    followers: 24631
+    engagement: 357
+    commentsToLikes: 0.033085
+    id: ck5zsmrroysv00i14zrnq73ud
+    verified: false
+    hashtags: "#sustainablefashion, #detroithighfashion, #artistsoninstagram, #fashionkorea"
   - username: "hybridhues"
     fullname: >-
       Reva Bhatt
     location: "United States"
-    followers: 9019
-    engagement: 874
-    commentsToLikes: 0.020081
+    followers: 9558
+    engagement: 854
+    commentsToLikes: 0.024320
     id: ck0ubn61nf09k0i19ghvxgdmh
     verified: false
-    hashtags: "#ikat, #madeinindia, #35mm, #slowfashion"
+    hashtags: ""
   - username: "colinking"
     fullname: >-
       Colin King
     location: "United States"
-    followers: 60047
-    engagement: 395
-    commentsToLikes: 0.030878
+    followers: 86383
+    engagement: 297
+    commentsToLikes: 0.027982
     id: ck0tv2oqr9oet0i195ro0kl1g
     verified: false
-    hashtags: "#matthewwilliams, #stayhomestilllife, #boywithbranch, #livebeautiful"
+    hashtags: "#stayhomestilllife, #bts"
+  - username: "madmamanyc"
+    fullname: >-
+      Alexandra Kohan
+    location: "United States"
+    followers: 82233
+    engagement: 168
+    commentsToLikes: 0.051877
+    id: ck5zsgnidygnk0i142lmam9ow
+    verified: false
+    hashtags: "#mindfulliving, #bodypositive, #babor, #showerandtell"
 ---

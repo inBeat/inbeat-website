@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In 2020
 description: >-
-  Find top lifestyle Instagram influencers in 2020. Most popular hashtags: #pregnant #fashion #coronavirus #dress.
+  Find top lifestyle Instagram influencers in 2020. Most popular hashtags: # #food #beauty #foodporn.
 platform: Instagram
 profiles:
+  - username: "x_fashiondiaries_x"
+    fullname: >-
+      Lifestyle
+    location: "Germany"
+    followers: 49297
+    engagement: 186
+    commentsToLikes: 0.055426
+    id: ck55on3vg8p810i11hn65t4u5
+    verified: false
+    hashtags: "#interior4you, #decoration, #jutetasche, #workout"
   - username: "angelika_rysz"
     fullname: >-
       Angelika
     location: "Poland"
-    followers: 2708
-    engagement: 2110
-    commentsToLikes: 0.343054
+    followers: 3225
+    engagement: 2173
+    commentsToLikes: 0.306699
     id: ck5zizhb5gnvu0i14guq3n633
     verified: false
-    hashtags: "#evelinecosmetics, #mood, #mojewszystko, #naturalbeauties"
-  - username: "pappya_gaikwad_official"
+    hashtags: "#beautyissimple, #artystycznezdj, #boymom, #jestemmama"
+  - username: "cliodhnamclaughlin_"
     fullname: >-
-      PapPya Gaikwad
+      Clíodhna McLaughlin
+    location: "United Kingdom"
+    followers: 4098
+    engagement: 4486
+    commentsToLikes: 0.322169
+    id: ckaosd9ver5qp0i78rz666fu9
+    verified: false
+    hashtags: "#femalefamily, #myloungelife, #plt, #isawitfirst"
+  - username: "romejohns"
+    fullname: >-
+      Rome Johnson | Style
+    location: "United States"
+    followers: 15044
+    engagement: 4156
+    commentsToLikes: 0.069704
+    id: ck8t1v9nix65e0j78gkeeieo6
+    verified: false
+    hashtags: "#blackparents, #blackdads, #nicugraduate, #trachbaby"
+  - username: "kyravaneck_"
+    fullname: >-
+      Kyra Nina Van Eck 🦋
+    location: "Netherlands"
+    followers: 4015
+    engagement: 4117
+    commentsToLikes: 0.330570
+    id: ck9hcnodem7gn0j78dqgj259g
+    verified: false
+    hashtags: "#sweater, #dowhatyoulove, #fashion, #bymusthaves"
+  - username: "rufiee"
+    fullname: >-
+      Rufaro | 📸
+    location: ""
+    followers: 2103
+    engagement: 3470
+    commentsToLikes: 0.177348
+    id: ckapbw6mo1ick0i78w3wwppid
+    verified: false
+    hashtags: ""
+  - username: "joeyloomans"
+    fullname: >-
+      Joey Loomans🇳🇱
+    location: "Netherlands"
+    followers: 2830
+    engagement: 3408
+    commentsToLikes: 0.460016
+    id: ckap5lrzrc8kn0i78q6jhmeo1
+    verified: false
+    hashtags: "#pizzatime, #menshealth, #mens, #streetwear"
+  - username: "ourpassportstory_"
+    fullname: >-
+      Surbhi & Nehil | Travel Couple
     location: "India"
-    followers: 1785451
-    engagement: 947
-    commentsToLikes: 0.062626
-    id: ck0u2mcaj0c8k0i192zla88ka
+    followers: 3829
+    engagement: 3113
+    commentsToLikes: 0.163963
+    id: ck6tyeona3a9p0j71yjimujwa
     verified: false
-    hashtags: "#stayhome, #tiktok, #handwashchallenge, #staysafe"
-  - username: "madpuplife"
+    hashtags: "#turkey, #quarantine, #home, #cappadocia"
+  - username: "thechiclyeffect"
     fullname: >-
-      Sydney | Mad Pup Life
+      Erin
     location: "United States"
-    followers: 6190
-    engagement: 1584
-    commentsToLikes: 0.083706
-    id: ck5hptv7nrylg0i11bee3vq1i
+    followers: 2256
+    engagement: 3099
+    commentsToLikes: 0.278467
+    id: ckaoucltjzphu0i78mre133xp
     verified: false
-    hashtags: "#dogtreats, #officeinspo, #ootd, #targetdoesitagain"
-  - username: "therealrjm"
+    hashtags: "#ltkweekendstyle, #oldnavystyle, #loftimist, #rdbabe"
+  - username: "fashionarbaj"
     fullname: >-
-      
-    location: "United States"
-    followers: 9688
-    engagement: 1512
-    commentsToLikes: 0.067227
-    id: ck5cca3x6gzme0i114xkkhnh8
+      MODEL & fASHION PHOTOGRAPHY
+    location: "India"
+    followers: 4018
+    engagement: 2856
+    commentsToLikes: 0.562940
+    id: ckaowb49g85250i781g2y9w0k
     verified: false
-    hashtags: "#aesthetic, #naturalhairstyle, #quarantineideas, #championcozystyle"
-  - username: "judithlan"
-    fullname: >-
-      JUDITH LANDESBERGEN ©
-    location: "United States"
-    followers: 28778
-    engagement: 925
-    commentsToLikes: 0.062968
-    id: ck14izrw0hxk70i199xqzdf9a
-    verified: false
-    hashtags: "#fun, #zomer, #sting, #jurk"
-  - username: "gillzvacay"
-    fullname: >-
-      Aleena Gillani ✈︎Travel Addict
-    location: "United States"
-    followers: 9876
-    engagement: 1775
-    commentsToLikes: 0.394578
-    id: ck1356n1vzzec0i19omczht3o
-    verified: false
-    hashtags: "#customhome, #buildingourhome, #strongertogether, #medicalprofessionals"
-  - username: "crystalxdanielle"
-    fullname: >-
-      Crystal Danielle
-    location: "United States"
-    followers: 10084
-    engagement: 1408
-    commentsToLikes: 0.098673
-    id: ck0w3ee5jszeh0i19408zbd0a
-    verified: false
-    hashtags: "#pregnancyannouncment, #stonyfieldorganic, #avalon, #hotmomsummer"
-  - username: "withlove.sandra"
-    fullname: >-
-      sandra🌹 nyc | philly
-    location: "United States"
-    followers: 23252
-    engagement: 892
-    commentsToLikes: 0.062114
-    id: ck0vy5qmj2d5m0i19ezvhit1q
-    verified: false
-    hashtags: "#elliepartner, #februaryellie, #strongersweden, #sugarbearhair"
-  - username: "makeupbypita"
-    fullname: >-
-      Lupita
-    location: "United States"
-    followers: 137437
-    engagement: 1840
-    commentsToLikes: 0.083426
-    id: ck0vv5hz8nn3i0i19n3s9ejgo
-    verified: false
-    hashtags: "#momblogger, #pregnantbelly, #instagood, #lagirlcosmetics"
-  - username: "andybenavidesm"
-    fullname: >-
-      Andy Benavides
-    location: "United States"
-    followers: 696203
-    engagement: 955
-    commentsToLikes: 0.565976
-    id: ck0u23mcmyugz0i19aotwd7le
-    verified: true
-    hashtags: "#stylethebump, #pandoracontigo, #nopegobackhome, #preggo"
+    hashtags: ""
 ---

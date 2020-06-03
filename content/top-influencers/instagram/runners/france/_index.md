@@ -1,107 +1,107 @@
 ---
 title: Top 10 Runners Instagram Influencers In France In 2020
 description: >-
-  Find top runners Instagram influencers in France in 2020. Most popular hashtags: #running #sport #instarunfrance #training.
+  Find top runners Instagram influencers in France in 2020. Most popular hashtags: #stayhome #staysafe #nature #trailrunner.
 platform: Instagram
 profiles:
   - username: "math_uwg"
     fullname: >-
       ᴍᴀᴛʜ
     location: "France"
-    followers: 24351
-    engagement: 1568
-    commentsToLikes: 0.071478
+    followers: 26463
+    engagement: 2185
+    commentsToLikes: 0.038978
     id: ck8t61e7zbw8l0j78wod41y9o
     verified: false
-    hashtags: "#streetstyle, #stayhome, #babyshower, #monamour"
+    hashtags: "#sport, #menstyle, #monamour, #newbalance"
+  - username: "kamarajustine"
+    fullname: >-
+      J U S T I N E   K A M A R A
+    location: "France"
+    followers: 52051
+    engagement: 817
+    commentsToLikes: 0.013082
+    id: ck5zoovezr0fr0i14rp0rozk6
+    verified: true
+    hashtags: "#guinea, #shooting, #selfie, #stayathome"
+  - username: "racazana_"
+    fullname: >-
+      Naïs RACASAN✨
+    location: "France"
+    followers: 10197
+    engagement: 2002
+    commentsToLikes: 0.001653
+    id: ck6tyyasc6k3l0j716pkemed1
+    verified: false
+    hashtags: "#untiedyetunited, #keepmoving, #asics, #asicseurope"
   - username: "nico_dream"
     fullname: >-
       🇫🇷 Nicolas Paris Swim Bike Run
     location: "France"
-    followers: 14300
-    engagement: 692
-    commentsToLikes: 0.122240
+    followers: 14194
+    engagement: 611
+    commentsToLikes: 0.046432
     id: ck6ty5sqj1ujt0j71jcb7r42j
     verified: false
-    hashtags: "#annulation, #runitfast, #salledesport, #active"
-  - username: "racazana_"
-    fullname: >-
-      Naïs RACASAN✨
-    location: "France"
-    followers: 10079
-    engagement: 2145
-    commentsToLikes: 0.001273
-    id: ck6tyyasc6k3l0j716pkemed1
-    verified: false
-    hashtags: "#asicseurope, #vent, #av, #jusquauxfesses"
-  - username: "georgia_dsmith"
-    fullname: >-
-      G E O R G I A
-    location: "France"
-    followers: 2753
-    engagement: 1909
-    commentsToLikes: 0.048046
-    id: ck6tv0s47jj0x0j71n7i5z5o9
-    verified: false
-    hashtags: "#parisianthings, #moulinrouge, #parisfashionweek2020"
-  - username: "mimmikotka"
-    fullname: >-
-      Mimmi Kotka
-    location: "France"
-    followers: 32819
-    engagement: 631
-    commentsToLikes: 0.011455
-    id: ck0tzk96kqluu0i19as6l9s7p
-    verified: false
-    hashtags: "#earthplantfood, #trainathome, #julboathlete, #foragedfood"
+    hashtags: "#nature, #igersrunners, #runrunrun, #positivevibe"
   - username: "nomadtrailer"
     fullname: >-
       ℕ𝕠𝕞𝕒𝕕 𝕋𝕣𝕒𝕚𝕝𝕖𝕣
     location: "France"
-    followers: 19325
-    engagement: 656
-    commentsToLikes: 0.010468
+    followers: 20048
+    engagement: 736
+    commentsToLikes: 0.012238
     id: ck8t7qj8mhnpo0j7860vqks2b
     verified: false
-    hashtags: "#cycling, #goat, #nightrun, #covid"
-  - username: "katieschide"
+    hashtags: "#youcan, #fitnessgoals, #cycling2020, #grandraid"
+  - username: "lecoindelodie"
     fullname: >-
-      Katie Schide
+      lecoindelodie
     location: "France"
-    followers: 8955
-    engagement: 878
-    commentsToLikes: 0.014649
-    id: ck0vwo968urrf0i19u7gdxe69
+    followers: 121509
+    engagement: 446
+    commentsToLikes: 0.009227
+    id: ck14k5p2anurl0i19pzcir043
     verified: false
-    hashtags: "#momthemayor, #crosscountry, #runforbees, #xc"
-  - username: "bellaboonsang"
+    hashtags: "#stayhome, #speedbuild, #sims4house, #lessims4"
+  - username: "georgia_dsmith"
     fullname: >-
-      Thanatchaphon Boonsang
+      G E O R G I A
     location: "France"
-    followers: 32878
-    engagement: 437
-    commentsToLikes: 0.010860
-    id: ck55m4muo37qk0i114jur58o5
+    followers: 2796
+    engagement: 1874
+    commentsToLikes: 0.044585
+    id: ck6tv0s47jj0x0j71n7i5z5o9
     verified: false
-    hashtags: "#fullfrontalmascara, #myforevervalentines, #callmeklosetgirl, #hiddentreasure"
-  - username: "victor_crouin"
-    fullname: >-
-      Victor Crouin
-    location: "France"
-    followers: 2612
-    engagement: 1889
-    commentsToLikes: 0.028352
-    id: ck5zz7k1gb8870i146wcp2pk0
-    verified: false
-    hashtags: "#defendingchampions, #touristlife, #gr20, #randonneursdudimanche"
+    hashtags: "#parisfashionweek2020, #parisianthings, #moulinrouge"
   - username: "fabienpalcau"
     fullname: >-
       Fabien Palcau
     location: "France"
-    followers: 9935
-    engagement: 1732
-    commentsToLikes: 0.006449
+    followers: 10387
+    engagement: 1427
+    commentsToLikes: 0.008466
     id: ck55kljgtzlgx0i115thphq1s
     verified: false
-    hashtags: "#training, #hardwork, #seenonmyrun, #vaporfly"
+    hashtags: "#next, #cheveuxlongs, #taenergy, #pegasusturbo"
+  - username: "pete_stables"
+    fullname: >-
+      Pete Stables - ASICS FR🇬🇧
+    location: "France"
+    followers: 3475
+    engagement: 1185
+    commentsToLikes: 0.070462
+    id: ckaor9xkbmcom0i78xde67kr8
+    verified: false
+    hashtags: "#triathlonlife, #fakeparkrun, #bakewellparkrun, #takemeback"
+  - username: "victor_crouin"
+    fullname: >-
+      Victor Crouin
+    location: "France"
+    followers: 2627
+    engagement: 1890
+    commentsToLikes: 0.026939
+    id: ck5zz7k1gb8870i146wcp2pk0
+    verified: false
+    hashtags: "#touristlife, #gocrimson, #anotherdayattheoffice, #stayhome"
 ---

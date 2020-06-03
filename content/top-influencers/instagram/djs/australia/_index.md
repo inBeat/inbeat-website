@@ -1,107 +1,107 @@
 ---
 title: Top 10 Djs Instagram Influencers In Australia In 2020
 description: >-
-  Find top djs Instagram influencers in Australia in 2020. Most popular hashtags: #djsaw20 #collab #djsfashion #vamff.
+  Find top djs Instagram influencers in Australia in 2020. Most popular hashtags: #melbourne #djsaw20 #france #southafrica.
 platform: Instagram
 profiles:
-  - username: "tomderickx"
-    fullname: >-
-      Tom Derickx
-    location: "Australia"
-    followers: 26633
-    engagement: 150
-    commentsToLikes: 0.049757
-    id: ck0u6t8qm2y5v0i195d7xy6v2
-    verified: true
-    hashtags: "#coronapartner, #coogee, #djsfashion, #ngvgala"
-  - username: "charleefraser"
-    fullname: >-
-      Charlee Fraser
-    location: "Australia"
-    followers: 35403
-    engagement: 218
-    commentsToLikes: 0.028430
-    id: ck0tuzowg9djf0i19kah3xewl
-    verified: true
-    hashtags: "#settingscoliosisstraight, #fashionwonderland, #netaporter, #aqua"
   - username: "kaity_modern"
     fullname: >-
       KAITLYN HAM
     location: "Australia"
-    followers: 309397
+    followers: 306690
     engagement: 117
-    commentsToLikes: 0.020955
+    commentsToLikes: 0.021316
     id: ck0w3tdvgv6880i19ciu93htt
     verified: true
-    hashtags: "#today, #penfoldscollection, #drinkwise, #mysecretsoutnet"
+    hashtags: "#feeltheburn, #ad, #mfxstylesocial, #orotoneveryday"
+  - username: "charleefraser"
+    fullname: >-
+      Charlee Fraser
+    location: "Australia"
+    followers: 35271
+    engagement: 232
+    commentsToLikes: 0.026361
+    id: ck0tuzowg9djf0i19kah3xewl
+    verified: true
+    hashtags: "#vamff, #doubleornothing, #isolationstation, #eternallygrateful"
   - username: "tahnee711"
     fullname: >-
       TAHNEE ATKINSON.
     location: "Australia"
-    followers: 139258
-    engagement: 199
-    commentsToLikes: 0.014940
+    followers: 137838
+    engagement: 208
+    commentsToLikes: 0.015650
     id: ck13cbhmizj690i19gq67wrqm
     verified: true
-    hashtags: "#theiconichumans, #afterpayau, #thefurlasociety, #djsaw20"
-  - username: "caameronstephens"
+    hashtags: "#hmaustralia, #djsaw20, #furlasociety"
+  - username: "cameronsstephens"
     fullname: >-
       Cameron Stephens
     location: "Australia"
-    followers: 2544
-    engagement: 1290
-    commentsToLikes: 0.080376
+    followers: 2746
+    engagement: 1207
+    commentsToLikes: 0.073667
     id: ck6uia5cqdyjq0j716t1mjqdj
     verified: false
-    hashtags: "#londonfashionweek, #vogueaustralia, #imgmodels, #djsaw20"
-  - username: "victorialee"
+    hashtags: "#earthday, #londonfashionweek, #vogueaustralia, #imgmodels"
+  - username: "daydinmusic"
     fullname: >-
-      Victoria Lee
+      Day Din
     location: "Australia"
-    followers: 221300
-    engagement: 309
-    commentsToLikes: 0.010427
-    id: ck0uesxo5m5dr0i19a2gyapyq
-    verified: true
-    hashtags: "#valentinofw20, #djsfashion, #valentinoleblanc, #stayhome"
-  - username: "victoriabaron"
-    fullname: >-
-      Victoria Baron
-    location: "Australia"
-    followers: 20472
-    engagement: 166
-    commentsToLikes: 0.053353
-    id: ck5hl50pdjkzh0i114ag9jx88
+    followers: 41629
+    engagement: 193
+    commentsToLikes: 0.019696
+    id: ck1384cfiefqn0i191t0pfj5b
     verified: false
-    hashtags: "#manicure, #yingyang, #texture, #womenforearth"
-  - username: "jameshype"
-    fullname: >-
-      JAMES HYPE
-    location: "Australia"
-    followers: 69911
-    engagement: 896
-    commentsToLikes: 0.065444
-    id: ck0uet19em5tu0i19fig9g3tz
-    verified: true
-    hashtags: "#djmeme, #boilerroom, #rekordbox, #london"
-  - username: "mha_iri_official"
-    fullname: >-
-      Mha Iri
-    location: "Australia"
-    followers: 18642
-    engagement: 502
-    commentsToLikes: 0.132882
-    id: ck14h2tr189ku0i19g43cn6ij
-    verified: false
-    hashtags: "#liftoff, #inspire, #extended, #underground"
+    hashtags: "#slowmotion, #live, #adsutra, #fitzroyisland"
   - username: "adamroy37"
     fullname: >-
       Adam Goodes
     location: "Australia"
-    followers: 54474
-    engagement: 655
-    commentsToLikes: 0.020962
+    followers: 55015
+    engagement: 654
+    commentsToLikes: 0.020866
     id: ck5hi7l1sc28f0i11xx1iokqi
     verified: false
-    hashtags: "#autumnwinter19, #experience, #gqmoty, #storytelling"
+    hashtags: "#experience, #boss, #literacyisfreedom, #djsartofliving"
+  - username: "dj.dasco"
+    fullname: >-
+      DASCO
+    location: "Australia"
+    followers: 19279
+    engagement: 169
+    commentsToLikes: 0.020332
+    id: ck0vw11pkrmjh0i19v53oawbt
+    verified: false
+    hashtags: "#deejay, #pink, #zeezoutpodcast, #stpetersburg"
+  - username: "djwegun"
+    fullname: >-
+      “Wegun Is My DJ”
+    location: "Australia"
+    followers: 69812
+    engagement: 422
+    commentsToLikes: 0.009629
+    id: ck14jsy82m0tn0i1950ssskfh
+    verified: true
+    hashtags: "#booba, #yumdda, #gillettekorea, #djspray"
+  - username: "andytrieu"
+    fullname: >-
+      Andy Trieu
+    location: "Australia"
+    followers: 27529
+    engagement: 168
+    commentsToLikes: 0.037868
+    id: ck5cjqmquvaal0i11zuq1knud
+    verified: false
+    hashtags: "#isoplant, #martialarts, #sbsaustralia, #2ne1"
+  - username: "noirmusic"
+    fullname: >-
+      Noir
+    location: "Australia"
+    followers: 43702
+    engagement: 77
+    commentsToLikes: 0.048096
+    id: ck0w6e1ao84z00i19tjtdni70
+    verified: false
+    hashtags: "#pictureperfect, #ontour, #doglovers, #nofilter"
 ---

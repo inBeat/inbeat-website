@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Bali In 2020
 description: >-
-  Find top fitness Instagram influencers in Bali in 2020. Most popular hashtags: #fitness #balilife #bali #ootd.
+  Find top fitness Instagram influencers in Bali in 2020. Most popular hashtags: #fitness #baliindonesia #balilife #nature.
 platform: Instagram
 profiles:
-  - username: "jadejoselyn"
-    fullname: >-
-      Jade | Fitness & Life 📍 Bali
-    location: "Indonesia"
-    followers: 77504
-    engagement: 277
-    commentsToLikes: 0.039631
-    id: ck5q261l2efwr0i11yqwnwndb
-    verified: false
-    hashtags: "#alifeworthliving, #smallproblemsbigmoves, #wanderlustswim, #womensbest"
   - username: "antonio_fernandes25"
     fullname: >-
       MODEL 190 cm | BLOGGER
     location: "Indonesia"
-    followers: 18369
-    engagement: 294
-    commentsToLikes: 0.056309
+    followers: 18203
+    engagement: 292
+    commentsToLikes: 0.054815
     id: ck5hcmm5ziv0n0i11l0dhvuwp
     verified: false
-    hashtags: "#crubok, #gvaduk, #hotels, #mensskincare"
-  - username: "andrew_yogi"
+    hashtags: "#couplegoals, #modelling, #bookstagram, #love"
+  - username: "myanabananas"
     fullname: >-
-      Andrew Yogi
+      Mya TW
     location: "Indonesia"
-    followers: 57527
-    engagement: 383
-    commentsToLikes: 0.013181
-    id: ck5cgqzx1pdz10i1161ciiv85
+    followers: 46062
+    engagement: 256
+    commentsToLikes: 0.026447
+    id: ck0udd3l9isxa0i19ds1m3fpi
     verified: false
-    hashtags: "#lmengainmass, #paanchalibalivilla, #potraitphotography, #weekendgetaway"
-  - username: "bellmando"
+    hashtags: "#highlights, #feelgood, #honeymoon, #babyelephant"
+  - username: "ailana_ula"
     fullname: >-
-      Anton B. 📍 Bali
+      Ailana
     location: "Indonesia"
-    followers: 43824
-    engagement: 147
-    commentsToLikes: 0.008672
-    id: ck0vyhd2b405h0i19lwpbqmgq
+    followers: 9570
+    engagement: 854
+    commentsToLikes: 0.039835
+    id: ck55k6gpvyl680i119ixbro4h
     verified: false
-    hashtags: "#fruits, #stabilizationtraining, #bodyweightworkout, #workoutprogram"
-  - username: "jordankensley"
+    hashtags: "#love, #sonyplaystation, #balisunset, #beauty"
+  - username: "ashtomcircus"
     fullname: >-
-      Jordan Kensley
+      Ash Tomasini (Circus Artist)
     location: "Indonesia"
-    followers: 40464
-    engagement: 348
-    commentsToLikes: 0.077529
-    id: ck5hp2a7qqmr50i11xlfoyyve
+    followers: 336305
+    engagement: 577
+    commentsToLikes: 0.005261
+    id: ck6tkswk25cgk0j71808p8fny
     verified: false
-    hashtags: "#powerful, #twistedmovement, #abmfamilyunited, #theblacklightsydney"
-  - username: "anneklopstra"
-    fullname: >-
-      Bali | Fashion | Fitness
-    location: "Indonesia"
-    followers: 28197
-    engagement: 632
-    commentsToLikes: 0.163838
-    id: ck5hr0q0uu26j0i11nl6m75z0
-    verified: false
-    hashtags: "#nusalembongan, #selfie, #swingswing, #fashionista"
-  - username: "zianalfinm"
-    fullname: >-
-      Zian Alfin Mubarak
-    location: "Indonesia"
-    followers: 7404
-    engagement: 933
-    commentsToLikes: 0.013883
-    id: ck138f0u5fx5k0i19qfuxxog0
-    verified: false
-    hashtags: "#weddingsolo, #happy, #health, #mensfashion"
+    hashtags: "#canguu, #melbournetodo, #pennylane, #hulahooping"
   - username: "hayley_"
     fullname: >-
       Hayley Vincent
     location: "Indonesia"
-    followers: 65218
-    engagement: 478
-    commentsToLikes: 0.023704
+    followers: 63923
+    engagement: 444
+    commentsToLikes: 0.027592
     id: ck0u9cbpf9lal0i19fo4d75jo
     verified: false
-    hashtags: "#dolomites"
-  - username: "lucycates"
+    hashtags: ""
+  - username: "jadejoselyn"
     fullname: >-
-      Lucy Cates
+      Jade | Fitness Coach📍 Bali
     location: "Indonesia"
-    followers: 51399
-    engagement: 162
-    commentsToLikes: 0.023528
-    id: ck5qaoefahg450i11q82c5yal
+    followers: 76396
+    engagement: 249
+    commentsToLikes: 0.036463
+    id: ck5q261l2efwr0i11yqwnwndb
     verified: false
-    hashtags: "#fashionstyle, #meetthesupremeteam, #ootd, #alivetoday"
-  - username: "luka.pasic"
+    hashtags: "#alphaleteleggings, #abundancemindset, #alphaletegym, #showup"
+  - username: "selonraphael"
     fullname: >-
-      ➡L U K A   P A S I C ®
+      SELON RAPHAËL 🍌🌱
     location: "Indonesia"
-    followers: 8332
-    engagement: 789
-    commentsToLikes: 0.162894
-    id: ck55o5gtq7nw70i11zjgkmz8t
+    followers: 13611
+    engagement: 573
+    commentsToLikes: 0.061982
+    id: ck6tu7d01eq4r0j71tvlqyfgz
     verified: false
-    hashtags: "#sonyalpha, #moscow, #giveaway, #brocontest"
+    hashtags: "#activit, #bali, #partage, #fitness"
+  - username: "dela_deni"
+    fullname: >-
+      D_d
+    location: "Indonesia"
+    followers: 9890
+    engagement: 358
+    commentsToLikes: 0.079544
+    id: ck5zq9s9ju7bz0i148esrqe4c
+    verified: false
+    hashtags: "#modellife, #womenfashion, #bianca, #pose"
+  - username: "wiolettatuschnio"
+    fullname: >-
+      vegan ⦙ health ⦙ sustainable
+    location: "Indonesia"
+    followers: 16829
+    engagement: 611
+    commentsToLikes: 0.059006
+    id: ck0ttg76y2kre0i19q8ixjxqe
+    verified: false
+    hashtags: "#sustainability, #selfcare, #granola, #vegansnack"
+  - username: "allenahdi"
+    fullname: >-
+      Alle Alle
+    location: "Indonesia"
+    followers: 45194
+    engagement: 124
+    commentsToLikes: 0.108344
+    id: ck5qakdmeguto0i11c82dgym9
+    verified: false
+    hashtags: "#giveawaycy, #bangkok, #christmas, #stayhome"
 ---

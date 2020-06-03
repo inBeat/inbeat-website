@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Spain In 2020
 description: >-
-  Find top fashion Instagram influencers in Spain in 2020. Most popular hashtags: #style #yomequedoencasa #covid #ootd.
+  Find top fashion Instagram influencers in Spain in 2020. Most popular hashtags: #sonrisa #diadelamadre #familia #detalles.
 platform: Instagram
 profiles:
-  - username: "magno_scavo"
-    fullname: >-
-      Mensfashion
-    location: "Spain"
-    followers: 108128
-    engagement: 620
-    commentsToLikes: 0.048683
-    id: ck8t1e7fkvfcy0j78rp3sr1xq
-    verified: false
-    hashtags: "#premierleague, #menfashion, #clothes, #poloralphlauren"
-  - username: "ardiyaworld"
-    fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀              ARDIYA
-    location: "Spain"
-    followers: 16836
-    engagement: 980
-    commentsToLikes: 0.246155
-    id: ck5pvs0ntjcyd0i1162q2vm8k
-    verified: false
-    hashtags: ""
-  - username: "saraguchi84"
-    fullname: >-
-      saraguchi84
-    location: "Spain"
-    followers: 87116
-    engagement: 1068
-    commentsToLikes: 0.179755
-    id: ck139y39wnp0e0i19ob6whumn
-    verified: false
-    hashtags: "#35semanas, #kidsroom, #cuerpodemujer, #estrenamoscoche"
   - username: "aina.simon"
     fullname: >-
       AINA SIMON
     location: "Spain"
-    followers: 277925
-    engagement: 757
-    commentsToLikes: 0.077812
+    followers: 293803
+    engagement: 1175
+    commentsToLikes: 0.351111
     id: ck0vyy6sp6d680i19gk2enc5c
     verified: false
-    hashtags: "#mysamsonite, #borntogo, #ad, #adikagirls"
+    hashtags: "#kikoathome, #valerianetflix"
+  - username: "ardiyaworld"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀              ARDIYA
+    location: "Spain"
+    followers: 16770
+    engagement: 1031
+    commentsToLikes: 0.268763
+    id: ck5pvs0ntjcyd0i1162q2vm8k
+    verified: false
+    hashtags: ""
+  - username: "bea_brina"
+    fullname: >-
+      bea💕brina
+    location: "Spain"
+    followers: 24064
+    engagement: 967
+    commentsToLikes: 0.245310
+    id: ck13b4pdttnsf0i19lt34o4l0
+    verified: false
+    hashtags: "#bellezaysalud, #relojsuizo, #primavera2020, #odontologia"
+  - username: "saraguchi84"
+    fullname: >-
+      saraguchi84
+    location: "Spain"
+    followers: 110606
+    engagement: 882
+    commentsToLikes: 0.370461
+    id: ck139y39wnp0e0i19ob6whumn
+    verified: false
+    hashtags: "#ilustracion, #twins, #papelpintado, #familianumerosa"
+  - username: "modajustcoco"
+    fullname: >-
+      Veronica Diaz | JustCoco
+    location: "Spain"
+    followers: 599886
+    engagement: 849
+    commentsToLikes: 0.130476
+    id: ck0w367xirsdk0i19d4ffn43v
+    verified: false
+    hashtags: "#embarazobruno, #snacks, #mayo, #coachella"
+  - username: "meigalega"
+    fullname: >-
+      Iria Pereira 💚
+    location: "Spain"
+    followers: 2809
+    engagement: 2679
+    commentsToLikes: 0.302623
+    id: ck8t9527amx3z0j78ag84l7li
+    verified: false
+    hashtags: "#mango, #yomequedoencasa, #infusiones, #decohome"
+  - username: "fashionistasenorita_"
+    fullname: >-
+      💞Daily outfit/restyling ideas
+    location: "Spain"
+    followers: 20712
+    engagement: 1054
+    commentsToLikes: 0.172054
+    id: ck8t052x1qv6e0j781bijrcao
+    verified: false
+    hashtags: "#instastyle, #lookoftheday, #fashionover30, #gifted"
+  - username: "magno_scavo"
+    fullname: >-
+      Mensfashion
+    location: "Spain"
+    followers: 152172
+    engagement: 603
+    commentsToLikes: 0.059772
+    id: ck8t1e7fkvfcy0j78rp3sr1xq
+    verified: false
+    hashtags: "#mensfashionreview, #fashionnovapartner, #menwithclass, #menstyle"
   - username: "miss_style.88"
     fullname: >-
       🌸 MONICA🌸
     location: "Spain"
-    followers: 3530
-    engagement: 2520
-    commentsToLikes: 0.605482
+    followers: 3868
+    engagement: 2366
+    commentsToLikes: 0.613009
     id: ck5zt5abpzrfw0i14rrllevew
     verified: false
-    hashtags: "#zarafashion, #fashionstyle, #momentlikethis, #lookstyle"
-  - username: "alegnaslife"
+    hashtags: "#glamour, #coronav, #granadalovers, #igersvalencia"
+  - username: "kayla.oconnorx"
     fullname: >-
-      Angiie
+      Kayla O’Connor 🤍
     location: "Spain"
-    followers: 9807
-    engagement: 1214
-    commentsToLikes: 0.106438
-    id: ck5hp3szwqpj90i110u60i0k0
+    followers: 3926
+    engagement: 2323
+    commentsToLikes: 0.127843
+    id: ck8t6dd96d6y40j78or2d82is
     verified: false
-    hashtags: "#vintage, #different, #pintadoamano, #stayhome"
-  - username: "sarafructuoso__"
-    fullname: >-
-      SARA FRUCTUOSO
-    location: "Spain"
-    followers: 200164
-    engagement: 797
-    commentsToLikes: 0.028561
-    id: ck14gxx587k6t0i19zwsviul8
-    verified: false
-    hashtags: "#bershkacollection, #stopcoronavirus, #maybellinechallenge, #makeup"
-  - username: "marikowskaya"
-    fullname: >-
-      Marikowskaya
-    location: "Spain"
-    followers: 64991
-    engagement: 520
-    commentsToLikes: 0.132226
-    id: ck0u7wsm95yi90i199hgav5f4
-    verified: false
-    hashtags: "#goya2020, #makeupaddict, #blancoynegro, #eyelinertutorial"
-  - username: "juanjomonje"
-    fullname: >-
-      ⭐️ JUANJO MONJE
-    location: "Spain"
-    followers: 18141
-    engagement: 1023
-    commentsToLikes: 0.046735
-    id: ck8t8zk7jmelj0j788oe1hj9f
-    verified: false
-    hashtags: "#gaystagram, #muscle, #abs, #model"
-  - username: "fashionqueen40s"
-    fullname: >-
-      
-    location: "Spain"
-    followers: 7636
-    engagement: 1194
-    commentsToLikes: 0.731620
-    id: ck8t2a8mkypnt0j78cr8ncc6j
-    verified: false
-    hashtags: "#sparkle, #igdaily, #lookbook, #ootdstyle"
+    hashtags: "#gifted, #bleachgods, #primark, #isawitfirst"
 ---

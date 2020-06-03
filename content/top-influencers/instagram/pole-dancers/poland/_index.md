@@ -1,107 +1,107 @@
 ---
 title: Top 10 Pole Dancers Instagram Influencers In Poland In 2020
 description: >-
-  Find top pole dancers Instagram influencers in Poland in 2020. Most popular hashtags: #polskadziewczyna #polishgirl #brunette #gymgirl.
+  Find top pole dancers Instagram influencers in Poland in 2020. Most popular hashtags: #selfie #morning #stretching #passion.
 platform: Instagram
 profiles:
   - username: "alessa_vu"
     fullname: >-
       Aleksandra ⚪️ Gdańsk
     location: "Poland"
-    followers: 43589
-    engagement: 397
-    commentsToLikes: 0.061751
+    followers: 47174
+    engagement: 412
+    commentsToLikes: 0.054863
     id: ck6txi5z5xz7h0j71bovfkv0v
     verified: false
-    hashtags: "#polskadziewczyna, #autopomocprzedzakupem, #valentines, #szpilki"
-  - username: "maartaszamp"
+    hashtags: "#selfie, #redress, #riored, #allblack"
+  - username: "weronikawoszczek"
     fullname: >-
-      Marta Szamp♡👼🏼💓!
+      Weronika Woszczek
     location: "Poland"
-    followers: 5529
-    engagement: 1096
-    commentsToLikes: 0.176215
-    id: ck8t9swfep8pu0j78utg3mf9p
+    followers: 6830
+    engagement: 2160
+    commentsToLikes: 0.018279
+    id: ck8t06v7kr06w0j787gvafbvw
     verified: false
-    hashtags: "#pinkmakeup, #styleoftheday, #polishgirl, #happygirl"
-  - username: "k.swiech"
-    fullname: >-
-      Kasia Świech
-    location: "Poland"
-    followers: 31672
-    engagement: 853
-    commentsToLikes: 0.011684
-    id: ck5c6lx4e5pnx0i114pwui356
-    verified: false
-    hashtags: "#missthisplace, #trening, #fitness, #poledancersofinstagram"
-  - username: "cheerful_ines"
-    fullname: >-
-      𝓐𝓰𝓷𝓲𝓮𝓼𝔃𝓴𝓪 𝓘𝔃𝓪𝓫𝓮𝓵𝓪 🇵🇱
-    location: "Poland"
-    followers: 6729
-    engagement: 1471
-    commentsToLikes: 0.015779
-    id: ck8t5wm3gbhhq0j782za807hr
-    verified: false
-    hashtags: "#likeblack, #goodweather, #inblack, #polskadziewczyna"
-  - username: "marta_konev"
-    fullname: >-
-      Marta Konefał
-    location: "Poland"
-    followers: 3282
-    engagement: 1100
-    commentsToLikes: 0.063734
-    id: ck8tdgy8739ev0j78fda02ctw
-    verified: false
-    hashtags: "#sportswears, #sunbath, #ootd, #makijazkonkursowy"
+    hashtags: "#polefigure, #polepassion, #portraitphoto, #hotel"
   - username: "_bambucia_"
     fullname: >-
       Polesport 🇵🇱
     location: "Poland"
-    followers: 42163
-    engagement: 87
-    commentsToLikes: 0.120304
+    followers: 43039
+    engagement: 168
+    commentsToLikes: 0.186850
     id: ck5zt5w3ozsm10i14sylohx7x
     verified: false
-    hashtags: "#polishboy, #blacknails, #flylady, #gymmotivation"
-  - username: "evii.pl"
+    hashtags: "#springvibes, #legsworkouts, #sfdnutrition, #styleblogger"
+  - username: "k.swiech"
     fullname: >-
-      Evelina
+      Kasia Świech
     location: "Poland"
-    followers: 4576
-    engagement: 1560
-    commentsToLikes: 0.077536
-    id: ck8t7c3y5g9zy0j78nxsv372k
+    followers: 31578
+    engagement: 879
+    commentsToLikes: 0.012077
+    id: ck5c6lx4e5pnx0i114pwui356
     verified: false
-    hashtags: "#fairtrade, #kobietawbiznesie, #kobietawpodr, #womanpowered"
+    hashtags: "#poland, #beachlife, #yogagoals, #gympower"
+  - username: "polinvvv"
+    fullname: >-
+      POLINA
+    location: "Poland"
+    followers: 40028
+    engagement: 136
+    commentsToLikes: 0.037029
+    id: ck0ueae9lkyuu0i19g6mxp79e
+    verified: false
+    hashtags: "#quarantine, #travelgirl, #poledancelife, #passion"
+  - username: "cheerful_ines"
+    fullname: >-
+      𝓐𝓰𝓷𝓲𝓮𝓼𝔃𝓴𝓪 𝓘𝔃𝓪𝓫𝓮𝓵𝓪 🇵🇱
+    location: "Poland"
+    followers: 9317
+    engagement: 1602
+    commentsToLikes: 0.016137
+    id: ck8t5wm3gbhhq0j782za807hr
+    verified: false
+    hashtags: "#lakehouse, #party, #gdansk, #goldenrose"
   - username: "dariagronkowska"
     fullname: >-
       Daria Gronkowska
     location: "Poland"
-    followers: 6736
-    engagement: 436
-    commentsToLikes: 0.023801
+    followers: 7852
+    engagement: 485
+    commentsToLikes: 0.034785
     id: ck5c6m02d5psr0i11z4r8corn
     verified: false
-    hashtags: "#sundayfunday, #background, #somuchlove, #music"
-  - username: "kasiagawin"
+    hashtags: "#greeneyes, #rollers, #aftertraining, #poleart"
+  - username: "perrsonaldream"
     fullname: >-
-      Kasia Gawin
+      ·۰• 𝐉𝐔𝐋𝐈𝐀 𝐊𝐎𝐑𝐂𝐙𝐘𝐊 •۰·
     location: "Poland"
-    followers: 68833
-    engagement: 375
-    commentsToLikes: 0.040916
-    id: ck0w6ez2e88wh0i195abcwi04
+    followers: 8220
+    engagement: 1435
+    commentsToLikes: 0.023178
+    id: ckaow4mjd7ell0i78vsqizyft
     verified: false
-    hashtags: "#nogi, #morning, #eatclean, #odzywkabialkowa"
-  - username: "zwyczajnychlopak"
+    hashtags: "#travelmood, #9day, #dreamgirl, #7thheavenpl"
+  - username: "kasia_bigos_trenerka"
     fullname: >-
-      Paweł Nowak / ordinaryboy
+      Kasia Bigos Trenerka 💪
     location: "Poland"
-    followers: 27832
-    engagement: 394
-    commentsToLikes: 0.051294
-    id: ck5hk170jhlxg0i116kv1gyv7
+    followers: 44144
+    engagement: 204
+    commentsToLikes: 0.076218
+    id: ck5chx2kbrmbo0i112f43e157
     verified: false
-    hashtags: "#aliexpress, #wecandoit, #moda2020, #sunnyday"
+    hashtags: "#calaprawda, #ambasadorbrita, #polskiemarki, #interwaly"
+  - username: "kornelia.pawlicka"
+    fullname: >-
+      K O R N E L I A
+    location: "Poland"
+    followers: 7897
+    engagement: 2122
+    commentsToLikes: 0.019971
+    id: ckaowks6v9cy40i78k7f8nukj
+    verified: false
+    hashtags: "#friday, #poledancer, #workout, #passion"
 ---

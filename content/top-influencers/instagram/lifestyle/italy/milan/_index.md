@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Milan In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Milan in 2020. Most popular hashtags: #iorestoacasa #lifestyle #milano #coronavirus.
+  Find top lifestyle Instagram influencers in Milan in 2020. Most popular hashtags: #iorestoacasa #lifestyle #outfit #summer.
 platform: Instagram
 profiles:
-  - username: "lahilary__"
+  - username: "simone_tagliati_"
     fullname: >-
-      Iℓᥲɾɩᥲ Sᥲᥒtᥱℓℓɩ
+      𝚂𝚒𝚖𝚘𝚗𝚎 𝚃𝚊𝚐𝚕𝚒𝚊𝚝𝚒
     location: "Italy"
-    followers: 7291
-    engagement: 914
-    commentsToLikes: 0.083972
-    id: ck5c0s71dtr490i11ku0zhjsc
+    followers: 11430
+    engagement: 813
+    commentsToLikes: 0.033144
+    id: ck8t0us1ptea60j7869nfl5fz
     verified: false
-    hashtags: "#bershka, #week, #cucinare, #pizzalover"
-  - username: "selvaggiaroma_"
-    fullname: >-
-      SELVAGGIA ROM️️️️️️A️
-    location: "Italy"
-    followers: 963742
-    engagement: 114
-    commentsToLikes: 0.018982
-    id: ck5hgjx1035y90i116folea1w
-    verified: true
-    hashtags: "#ciboitaliano, #40enamood, #missionespesacompiuta, #friends"
-  - username: "giulianabattaglia"
-    fullname: >-
-      GIULIANA
-    location: "Italy"
-    followers: 6606
-    engagement: 868
-    commentsToLikes: 0.015229
-    id: ck8t8xg95m73k0j78h7mw7u75
-    verified: false
-    hashtags: "#family, #beautiful, #milano, #photography"
-  - username: "frankgallucci"
-    fullname: >-
-      Frank Gallucci
-    location: "Italy"
-    followers: 157808
-    engagement: 145
-    commentsToLikes: 0.014415
-    id: ck0ttx8yw4poc0i19r8osqh5x
-    verified: false
-    hashtags: "#catsofinstagram, #cashmere, #forzamilano, #shearling"
-  - username: "gentleman_theofficialpage"
-    fullname: >-
-      Alberto Manganelli
-    location: "Italy"
-    followers: 26133
-    engagement: 257
-    commentsToLikes: 0.061064
-    id: ck5pw5vnil9410i118z1apdql
-    verified: false
-    hashtags: "#streetart, #holidays, #xmas, #work"
-  - username: "martyunicorn2000"
-    fullname: >-
-      Martina M.
-    location: "Italy"
-    followers: 49954
-    engagement: 241
-    commentsToLikes: 0.070809
-    id: ck8taazv6r1xh0j784h6w5jlo
-    verified: false
-    hashtags: "#bellaragazza, #stockings, #lacedress, #lace"
+    hashtags: "#luxury, #modelife, #bagfashion, #manclothes"
   - username: "iltitanico23"
     fullname: >-
       Andrea Franchini 🕉
     location: "Italy"
-    followers: 231604
-    engagement: 152
-    commentsToLikes: 0.123787
+    followers: 252578
+    engagement: 136
+    commentsToLikes: 0.160328
     id: ck5q94bn79bs10i111lbr7e5k
     verified: false
-    hashtags: "#book, #golden, #stronger, #redandblack"
-  - username: "milanpyramid"
+    hashtags: "#musheritalia, #rangeroversport, #ombra, #markprivatelife"
+  - username: "marcomount"
     fullname: >-
-      Aya - Muslim Italian Blogger
+      Marco Montefusco
     location: "Italy"
-    followers: 17023
-    engagement: 788
-    commentsToLikes: 0.038033
-    id: ck5cdrzwfjo7n0i11lypl7ybe
+    followers: 25010
+    engagement: 264
+    commentsToLikes: 0.077943
+    id: ck6ti9a8d0a560j71wghnl9n4
     verified: false
-    hashtags: "#jewellery, #thehijabstyle, #hijabfab, #whowhatwearing"
+    hashtags: "#cremabaciperugina, #adv, #fase2, #viaggidibaci"
   - username: "megliounpostobello"
     fullname: >-
       Chiara Cazzamali
     location: "Italy"
-    followers: 24940
-    engagement: 362
-    commentsToLikes: 0.094490
+    followers: 25395
+    engagement: 447
+    commentsToLikes: 0.087924
     id: ck15sosqqe2j50i196vstdnqz
     verified: false
-    hashtags: "#marzo2020, #visitaguidata, #smartworking, #covid19italia"
-  - username: "peter_tagliaferri"
+    hashtags: "#viaggiousa, #neusciremopi, #covid, #musicaclassica"
+  - username: "luigi_morino"
     fullname: >-
-      P E T E R
+      Luigi Morino
     location: "Italy"
-    followers: 108579
-    engagement: 225
-    commentsToLikes: 0.019867
-    id: ck5zty5091c3b0i1466req753
+    followers: 26530
+    engagement: 625
+    commentsToLikes: 0.035157
+    id: ck0u23o60yupq0i19su07mac7
     verified: false
-    hashtags: "#welcome, #moodoflife, #boom, #wearing"
+    hashtags: "#shopping, #gaylove, #proud, #bhfyp"
+  - username: "daphne_scoccia"
+    fullname: >-
+      Daphne Scoccia
+    location: "Italy"
+    followers: 4600
+    engagement: 793
+    commentsToLikes: 0.052583
+    id: ck5bzaax7qr3c0i111thoqita
+    verified: false
+    hashtags: "#luce, #flaviosciol, #cinedokke, #lapurezza"
+  - username: "eleonora.viscardi"
+    fullname: >-
+      Eleonora Viscardi
+    location: "Italy"
+    followers: 49993
+    engagement: 284
+    commentsToLikes: 0.138668
+    id: ck9hcf78dl3n30j78ttlu59hx
+    verified: false
+    hashtags: "#acquisti, #finisce, #quarantena, #moda"
+  - username: "luciobuselli"
+    fullname: >-
+      Lucio Buselli
+    location: "Italy"
+    followers: 9259
+    engagement: 283
+    commentsToLikes: 0.017811
+    id: ck14jy947mroj0i19xysa734l
+    verified: false
+    hashtags: "#selfportrait, #switchmagazine, #summer, #pasqua"
+  - username: "milanpyramid"
+    fullname: >-
+      Aya - Muslim Italian Blogger
+    location: "Italy"
+    followers: 17817
+    engagement: 714
+    commentsToLikes: 0.042122
+    id: ck5cdrzwfjo7n0i11lypl7ybe
+    verified: false
+    hashtags: "#hijabfab, #freshwrist, #majortb, #eidelfitr"
+  - username: "federicaniggas"
+    fullname: >-
+      Federica Negri
+    location: "Italy"
+    followers: 25764
+    engagement: 303
+    commentsToLikes: 0.035725
+    id: ck5hj6ycqg48h0i11aitxqyqn
+    verified: false
+    hashtags: "#staystrong, #skincare, #stayathome, #giftofglow"
 ---

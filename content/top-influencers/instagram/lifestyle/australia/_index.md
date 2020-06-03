@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Australia In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Australia in 2020. Most popular hashtags: #ad #happy #australia #beach.
+  Find top lifestyle Instagram influencers in Australia in 2020. Most popular hashtags: # #gifted #wfhoutfit #shellnecklace.
 platform: Instagram
 profiles:
-  - username: "rio_bryce"
+  - username: "_kassielee"
     fullname: >-
-      Rio♡
+      KASSIE LEE | 🇧🇧🇦🇺
     location: "Australia"
-    followers: 6270
-    engagement: 1144
-    commentsToLikes: 0.091426
-    id: ck5zmxkk6ndyi0i149jzn9nbx
+    followers: 10206
+    engagement: 1086
+    commentsToLikes: 0.124561
+    id: ck8t3jy3a3i5y0j78dw5el6ea
     verified: false
-    hashtags: "#teenmodels, #scentedbikini, #poolday, #gifted"
-  - username: "love.christina.xo"
-    fullname: >-
-      ✨Christina✨
-    location: "Australia"
-    followers: 155448
-    engagement: 412
-    commentsToLikes: 0.092206
-    id: ck13c84lqz1y50i192xk9bkvq
-    verified: false
-    hashtags: "#sydneyblogger, #mcaaustralia, #bondiboost, #biodegradable"
-  - username: "kingy.eatz"
-    fullname: >-
-      ♛ Kingy | Sydney Foodie 🇦🇺
-    location: "Australia"
-    followers: 6805
-    engagement: 870
-    commentsToLikes: 0.234861
-    id: ck5bt963kfk0k0i11opfs8yka
-    verified: false
-    hashtags: "#baskinrobbinsaustralia, #teamvillain, #baskinrobbins, #mint"
-  - username: "adamjhardy"
-    fullname: >-
-      A D A M  H A R D Y
-    location: "Australia"
-    followers: 33506
-    engagement: 381
-    commentsToLikes: 0.063284
-    id: ck0u06ukfsubb0i19d6gqgr88
-    verified: false
-    hashtags: "#merryxmas, #wwmd, #whatwouldmaxxydo, #fbf"
-  - username: "henry_stories"
-    fullname: >-
-      Henry_Stories
-    location: "Australia"
-    followers: 10351
-    engagement: 804
-    commentsToLikes: 0.456399
-    id: ck6tlmalw68320j71m4jp9128
-    verified: false
-    hashtags: "#kidsstyle, #boutiquebaby, #fashionboy, #dressedbycs"
+    hashtags: "#lakeatitlan, #guatemala, #maldivesislands, #maldives"
   - username: "erika.dwyer"
     fullname: >-
       Erika Dwyer
     location: "Australia"
-    followers: 5005
-    engagement: 1147
-    commentsToLikes: 0.122479
+    followers: 5829
+    engagement: 1125
+    commentsToLikes: 0.111945
     id: ck0w136qehc490i193p3vskwx
     verified: false
-    hashtags: "#kamelibabes, #tigerking, #princesspolly, #gifted"
-  - username: "hitherebrooke"
+    hashtags: "#princesspolly"
+  - username: "rio_bryce"
     fullname: >-
-      HiThereBrooke
+      Rio♡
     location: "Australia"
-    followers: 36740
-    engagement: 346
-    commentsToLikes: 0.088709
-    id: ck6ti6cth04ec0j71ovjnoub7
+    followers: 7368
+    engagement: 1027
+    commentsToLikes: 0.087772
+    id: ck5zmxkk6ndyi0i149jzn9nbx
     verified: false
-    hashtags: "#funofftrack, #millinery, #autumnfashion, #everyonehasdirtaus"
+    hashtags: "#beauty, #infinitypool, #ocean, #whiteskirt"
+  - username: "melanaaaa"
+    fullname: >-
+      Mel
+    location: "Australia"
+    followers: 17898
+    engagement: 570
+    commentsToLikes: 0.077881
+    id: ck5c1l24avebx0i11u1916g08
+    verified: false
+    hashtags: "#77inone, #sweetairchannels, #sleepovation, #lunchboxfam"
+  - username: "love.christina.xo"
+    fullname: >-
+      ✨Christina✨
+    location: "Australia"
+    followers: 160200
+    engagement: 351
+    commentsToLikes: 0.113460
+    id: ck13c84lqz1y50i192xk9bkvq
+    verified: false
+    hashtags: "#shellybeach, #celsiuscoffeeco, #manlybeach, #milkbath"
+  - username: "ootdstylistaa"
+    fullname: >-
+      Nisha 🙋🏻‍♀️💁🏻‍♀️🙆🏻‍♀️🤷🏻‍♀️
+    location: "Australia"
+    followers: 19120
+    engagement: 545
+    commentsToLikes: 0.130808
+    id: ckaot5lgvuh960i78yh489cri
+    verified: false
+    hashtags: "#brisbanelife, #purifyandvolume, #perthfashion, #sydneytravelog"
+  - username: "ellamadeitpretty"
+    fullname: >-
+      Ella-Kaisa Heikkinen
+    location: "Australia"
+    followers: 5153
+    engagement: 1050
+    commentsToLikes: 0.170836
+    id: ck5c6zt0s6j2q0i11phljcu4d
+    verified: false
+    hashtags: "#onnebeauty, #valentinesday, #saltbyhendrix, #naistenp"
   - username: "nath_page"
     fullname: >-
       𝐍𝐀𝐓𝐇𝐀𝐍 𝐏𝐀𝐆𝐄
     location: "Australia"
-    followers: 64637
-    engagement: 293
-    commentsToLikes: 0.070746
+    followers: 67772
+    engagement: 342
+    commentsToLikes: 0.060973
     id: ck8szdaqdnz700j78jj9bye27
     verified: false
     hashtags: ""
-  - username: "livewithelle"
+  - username: "maevasaad"
     fullname: >-
-      Ellie Parker // Sydney Blogger
+      Maeva
     location: "Australia"
-    followers: 23202
-    engagement: 414
-    commentsToLikes: 0.121129
-    id: ck55nfsst643g0i11km9ihkk7
+    followers: 2238
+    engagement: 2799
+    commentsToLikes: 0.067069
+    id: ckaoyz96ljoim0i78blpvbozg
     verified: false
-    hashtags: "#operaaustralia, #enjoylife, #flaxfiber, #quarantine"
-  - username: "erinmariepash"
+    hashtags: ""
+  - username: "stephaniejmagno"
     fullname: >-
-      E R I N M A R I E P A S H 🌻
+      𝐒𝐓𝐄𝐏𝐇𝐀𝐍𝐈𝐄 ♥
     location: "Australia"
-    followers: 93399
-    engagement: 289
-    commentsToLikes: 0.070651
-    id: ck55ltp3v2ep70i11blv9hydf
+    followers: 5709
+    engagement: 835
+    commentsToLikes: 0.260444
+    id: ckapa4pdgup340i78bgwou6yp
     verified: false
-    hashtags: "#ibs, #ibd, #happyfriday, #uluwatu"
+    hashtags: "#missphilippinesaustralia2019, #mpa2019, #socialdistancing"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In United Arab Emirates In 2020
 description: >-
-  Find top nutrition Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #dubai #nutrition #fitness #diet.
+  Find top nutrition Instagram influencers in United Arab Emirates in 2020. Most popular hashtags: #nutrition #dubai #stayhome #personaltrainer.
 platform: Instagram
 profiles:
+  - username: "tie.el"
+    fullname: >-
+      !Elena Peretiatko
+    location: "United Arab Emirates"
+    followers: 258900
+    engagement: 125
+    commentsToLikes: 0.042218
+    id: ckap4167m5e010i78w6n94aq7
+    verified: false
+    hashtags: ""
+  - username: "nesarassouli"
+    fullname: >-
+      Nesa Rassouli
+    location: "United Arab Emirates"
+    followers: 15868
+    engagement: 320
+    commentsToLikes: 0.042042
+    id: ck5c2k78jxetk0i11718gtze5
+    verified: false
+    hashtags: "#chasingsunsets, #dubai, #selflove, #towhomitmayconcern"
   - username: "craigjosullivan"
     fullname: >-
       Craig O'Sullivan ♛
     location: "United Arab Emirates"
-    followers: 39129
-    engagement: 239
-    commentsToLikes: 0.024937
+    followers: 39735
+    engagement: 318
+    commentsToLikes: 0.020481
     id: ck15riefv836x0i19iuar3gh6
     verified: false
-    hashtags: "#couplegoals, #transformation, #glowup, #progress"
-  - username: "dr_sasani"
+    hashtags: "#transformation, #couplegoals, #mentalhealth, #beproud"
+  - username: "ine.strengthcoach"
     fullname: >-
-      Dr. Sassani | Medical Doctor
+      Ine Andersson 🇳🇴
     location: "United Arab Emirates"
-    followers: 31087
-    engagement: 296
-    commentsToLikes: 0.024582
-    id: ck5hp9aguqysj0i113mvvbi4a
+    followers: 5266
+    engagement: 556
+    commentsToLikes: 0.039564
+    id: ck5zyapfr9j970i14vaetsog0
     verified: false
-    hashtags: "#diet, #gym, #dubaifitness, #modeling"
+    hashtags: "#godjul, #stayhumble, #vikingland, #oneweektogo"
+  - username: "literallyanika"
+    fullname: >-
+      Personal Trainer Dubai
+    location: "United Arab Emirates"
+    followers: 58965
+    engagement: 96
+    commentsToLikes: 0.099493
+    id: ck5q38zq0jspx0i11z2fgbnmk
+    verified: false
+    hashtags: "#dubaifit, #selfdevelopment, #selfmotivation, #fitnesspro"
+  - username: "baraaelsabbagh"
+    fullname: >-
+      Baraa - Dietitian & Trainer
+    location: "United Arab Emirates"
+    followers: 50788
+    engagement: 242
+    commentsToLikes: 0.043305
+    id: ck5hl8l85jrpq0i119lrd8ic0
+    verified: false
+    hashtags: "#fightforheroes, #masafi, #naturalwater, #68"
   - username: "mirnasabbagh"
     fullname: >-
       ميرنا الصباغ - Mirna Sabbagh
     location: "United Arab Emirates"
-    followers: 76065
-    engagement: 92
-    commentsToLikes: 0.238714
+    followers: 87416
+    engagement: 95
+    commentsToLikes: 0.232754
     id: ck0ueqyhglwi70i19n5fee3q8
     verified: false
-    hashtags: "#instagrammsme, #dubaifoodie, #newmom, #mealplanning"
+    hashtags: "#healthy, #morehappiness, #duabifoodie, #healthykids"
+  - username: "dr_sasani"
+    fullname: >-
+      Dr. Sassani | Medical Doctor
+    location: "United Arab Emirates"
+    followers: 31084
+    engagement: 261
+    commentsToLikes: 0.027255
+    id: ck5hp9aguqysj0i113mvvbi4a
+    verified: false
+    hashtags: ""
+  - username: "keyvanshahgholi.ifbbpro"
+    fullname: >-
+      keyvanshahgholi.ifbbpro
+    location: "United Arab Emirates"
+    followers: 18653
+    engagement: 1140
+    commentsToLikes: 0.046187
+    id: ck0w2ejvtnyn20i19oi4pzls5
+    verified: false
+    hashtags: "#champion, #athlete, #persian, #strong"
   - username: "siggadb"
     fullname: >-
       Dora The Explorer
     location: "United Arab Emirates"
-    followers: 2917
-    engagement: 1150
-    commentsToLikes: 0.043435
+    followers: 2914
+    engagement: 1137
+    commentsToLikes: 0.041581
     id: ck0tt1z5q0t2k0i19qlaf7z0s
     verified: false
-    hashtags: "#swolesisters, #chickenlegs, #turfgames, #fitnesscoach"
-  - username: "miss_alexaa"
-    fullname: >-
-      Alexandra Eduardovna
-    location: "United Arab Emirates"
-    followers: 14680
-    engagement: 828
-    commentsToLikes: 0.061875
-    id: ck0udvxu3jyv60i194mm79fvj
-    verified: false
-    hashtags: "#thepinklemonade, #pinkaesthetic, #zen, #whitetiger"
-  - username: "darrenfarrell_ifbbpro"
-    fullname: >-
-      DARREN FARRELL- IFBB PRO
-    location: "United Arab Emirates"
-    followers: 16725
-    engagement: 188
-    commentsToLikes: 0.033394
-    id: ck5hl8mdgjrsq0i115ih3fzqp
-    verified: false
-    hashtags: "#fitnessmodel, #muscle, #workout, #toobigforclassic"
-  - username: "mitunds"
-    fullname: >-
-      Mitun De Sarkar
-    location: "United Arab Emirates"
-    followers: 24332
-    engagement: 477
-    commentsToLikes: 0.014120
-    id: ck0w2isdhokrq0i193z1l9606
-    verified: false
-    hashtags: "#myson, #gratitude, #costacoffeeuae, #eatrealfood"
-  - username: "chefsperxos"
-    fullname: >-
-      𝐂𝐡𝐞𝐟 𝐒𝐩𝐞𝐫𝐱𝐨𝐬
-    location: "United Arab Emirates"
-    followers: 27195
-    engagement: 400
-    commentsToLikes: 0.010539
-    id: ck134b1mqvkee0i19zieej2sl
-    verified: false
-    hashtags: "#dubaifashion, #eatclean, #foodstagram, #foodfoto"
-  - username: "joyfulhomecooking"
-    fullname: >-
-      Joyce Mrad
-    location: "United Arab Emirates"
-    followers: 28061
-    engagement: 344
-    commentsToLikes: 0.093943
-    id: ck138wefhicbv0i19f898cdo1
-    verified: false
-    hashtags: "#healthywaffles, #cookwithjoyce, #vegan, #thrivemags"
-  - username: "almasxxx21"
-    fullname: >-
-      IFFB Pro Capt.Almas Musa🇦🇪
-    location: "United Arab Emirates"
-    followers: 20344
-    engagement: 250
-    commentsToLikes: 0.069105
-    id: ck5hp96onqynb0i111m7c3xzv
-    verified: false
-    hashtags: "#jumairah, #canelorocky, #workinprogress, #uae"
+    hashtags: "#daydreaming, #struggleup, #mydubaifitness, #roomies"
 ---

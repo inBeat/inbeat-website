@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Germany In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Germany in 2020. Most popular hashtags: #blogger #vegan #love #ootd.
+  Find top cosmetics Instagram influencers in Germany in 2020. Most popular hashtags: #beauty #fashion #springiscoming #live.
 platform: Instagram
 profiles:
+  - username: "mxs.cavallero"
+    fullname: >-
+      ❥  𝐆𝐈𝐑𝐋, 𝐂𝐀𝐋𝐋𝐄𝐃 𝓚𝐢𝐭𝐭𝐲𝐃𝐎𝐋𝐋 . 🇮🇹
+    location: "Germany"
+    followers: 3475
+    engagement: 1833
+    commentsToLikes: 0.200863
+    id: ckaorf8gcmxyr0i783x46p6gn
+    verified: false
+    hashtags: "#proud, #trap, #girls, #2000s"
   - username: "individuallylivingover50"
     fullname: >-
       Angelika
     location: "Germany"
-    followers: 86402
-    engagement: 211
-    commentsToLikes: 0.063695
+    followers: 90852
+    engagement: 182
+    commentsToLikes: 0.074614
     id: ck0u629tj0s2s0i19sdg1vnl1
     verified: false
-    hashtags: "#potd, #sunnyday, #casuallook, #blondhair"
-  - username: "hanna.look"
+    hashtags: "#danishstyle, #beachvibes, #designerfashion, #franz"
+  - username: "jennydefleur"
     fullname: >-
-      Hanna | Placemodels
+      
     location: "Germany"
-    followers: 8673
-    engagement: 527
-    commentsToLikes: 0.050487
-    id: ck5zjwk12ie3g0i14qntwxdy9
+    followers: 27064
+    engagement: 335
+    commentsToLikes: 0.060194
+    id: ck5bvd17ujexh0i11rq5x85bb
     verified: false
-    hashtags: "#smilebehappy, #veganlife, #love, #danishdesign"
+    hashtags: "#tattoobloggery, #sunset, #magical, #fairytale"
   - username: "sylviemeis"
     fullname: >-
       Sylvie Meis
     location: "Germany"
-    followers: 1272815
-    engagement: 137
-    commentsToLikes: 0.019588
+    followers: 1291469
+    engagement: 140
+    commentsToLikes: 0.019726
     id: ck0tvj8vwblox0i19qi4uufu4
     verified: true
-    hashtags: "#staysafe, #boostyourimmunesystem, #happyathome, #wirbleibenzuhause"
+    hashtags: "#seidensticker, #mondaymotivation, #hair, #cher"
+  - username: "pameladubbelmann"
+    fullname: >-
+      Pamela Dubbelmann
+    location: "Germany"
+    followers: 2704
+    engagement: 1196
+    commentsToLikes: 0.396230
+    id: ck9h9w29ga6kc0j78ork9sakg
+    verified: false
+    hashtags: "#outfitideas, #wonderfulplaces, #visitmunich, #raps"
+  - username: "mrs.palinski"
+    fullname: >-
+      𝐏𝐚𝐥𝐢𝐧𝐚 𝐋𝐢𝐭𝐭𝐢𝐜𝐡
+    location: "Germany"
+    followers: 2771
+    engagement: 982
+    commentsToLikes: 0.121189
+    id: ckap9tetptl7q0i7868rggsrv
+    verified: false
+    hashtags: "#dienstag, #lovemywork, #sundayfunday, #beautiful"
+  - username: "mademoiselle_pixie"
+    fullname: >-
+      ᴾᴵˣᴵᴱᶜᵁᵀ| ˁᴴᴼᴿᵀᴴᴬᴵᴿ | 𝙿𝚒𝚗𝚔ᴴᴬᴵᴿ
+    location: "Germany"
+    followers: 41434
+    engagement: 145
+    commentsToLikes: 0.029955
+    id: ck6u8r1aet6260j717ipx0jb9
+    verified: false
+    hashtags: "#coffee, #lionshead, #beauty, #transforming"
+  - username: "beateigel"
+    fullname: >-
+      Beate Igel
+    location: "Germany"
+    followers: 7082
+    engagement: 718
+    commentsToLikes: 0.058298
+    id: ckaoy6x7mg92d0i784nvwaxyw
+    verified: false
+    hashtags: "#frenchie, #kopfho, #podcastlife, #fuereuchda"
+  - username: "mavieestbelle_celine"
+    fullname: >-
+      𝐂𝐄𝐋𝐈𝐍𝐄 𝐑𝐄𝐇𝐁𝐄𝐑𝐆𝐄𝐑
+    location: "Germany"
+    followers: 28369
+    engagement: 382
+    commentsToLikes: 0.030321
+    id: ck134pwjpxmpx0i19a63xelht
+    verified: false
+    hashtags: "#beauty, #relax, #throwback, #algarve"
   - username: "csennlaub"
     fullname: >-
       Christina Sennlaub
     location: "Germany"
-    followers: 2581
-    engagement: 1179
-    commentsToLikes: 0.127842
+    followers: 2559
+    engagement: 1226
+    commentsToLikes: 0.136462
     id: ck13ca49czcfi0i190o54t4sw
     verified: false
-    hashtags: "#cologne, #brother, #diorbeautylovers, #diorcapturetotale"
-  - username: "charlotte_weise"
-    fullname: >-
-      Charlotte Weise🌱
-    location: "Germany"
-    followers: 92587
-    engagement: 511
-    commentsToLikes: 0.038369
-    id: ck0u628qx0s0a0i19j8mserwd
-    verified: false
-    hashtags: "#swimwear, #erk, #gesundheit, #positivesdenken"
-  - username: "binchen777testet"
-    fullname: >-
-      ♡ Sabine ♡
-    location: "Germany"
-    followers: 9657
-    engagement: 418
-    commentsToLikes: 0.262866
-    id: ck8t8oxmol7870j78cw4ii6gy
-    verified: false
-    hashtags: "#instagramtest, #jasmine, #ulricdevarens, #stayhealthyandfit"
-  - username: "hejorganic"
-    fullname: >-
-      HEJ ORGANIC
-    location: "Germany"
-    followers: 16671
-    engagement: 158
-    commentsToLikes: 0.064001
-    id: ck55kkgzfziu90i11nmum1in0
-    verified: false
-    hashtags: "#vegan, #bodypositivity, #femalepower, #naturalcosmetics"
-  - username: "kupfergruen.shop"
-    fullname: >-
-      Kupfergrün
-    location: "Germany"
-    followers: 31010
-    engagement: 321
-    commentsToLikes: 0.011144
-    id: ck8t98p1nn8fv0j7893rzjzan
-    verified: false
-    hashtags: "#plastikfrei, #vegankosmetik, #naturkosmetik, #nachhaltigkeit"
-  - username: "karodelafleur"
-    fullname: >-
-      KARO
-    location: "Germany"
-    followers: 27289
-    engagement: 535
-    commentsToLikes: 0.103437
-    id: ck0vx58kox7by0i19j2mzn5jw
-    verified: false
-    hashtags: "#bauchbeinepo, #bodycare, #smile, #friends"
-  - username: "johannaxschmid"
-    fullname: >-
-      JOHANNA ⚡️
-    location: "Germany"
-    followers: 6105
-    engagement: 2017
-    commentsToLikes: 0.176814
-    id: ck8t4axry63qu0j7884q2hcd6
-    verified: false
-    hashtags: "#cosmetics, #mainz, #style, #home"
+    hashtags: "#carmushkawinterhouse, #kitzb, #stayhealthy, #cologne"
 ---

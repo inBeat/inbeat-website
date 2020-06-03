@@ -1,7 +1,7 @@
 ---
 title: Top 10 Illustrators Instagram Influencers In United States In 2020
 description: >-
-  Find top illustrators Instagram influencers in United States in 2020. Most popular hashtags: #characterdesign #procreate #valentinesstyle #afro.
+  Find top illustrators Instagram influencers in United States in 2020. Most popular hashtags: #stayhome #digitalart #witch #herm.
 platform: Instagram
 profiles:
   - username: "rebeccaclarke"
@@ -14,94 +14,94 @@ profiles:
     id: ck8t0mycusm1s0j785wlnc37h
     verified: false
     hashtags: "#ruthbaderginsburg, #maxernst, #artgenius, #herm"
+  - username: "samrodriguezart"
+    fullname: >-
+      Samuel Rodriguez
+    location: "United States"
+    followers: 43663
+    engagement: 451
+    commentsToLikes: 0.014266
+    id: ck0w3et84t1k40i19ekhg7wbp
+    verified: false
+    hashtags: "#color, #nintendoswitch, #twighlightzone, #mexicano"
+  - username: "kim_haren"
+    fullname: >-
+      HAREN (Kim Hanseul)
+    location: "United States"
+    followers: 13806
+    engagement: 1298
+    commentsToLikes: 0.024386
+    id: ck0w2bgvpnis40i195rfpb1lx
+    verified: false
+    hashtags: "#spring, #propagandas, #ghibli, #fair"
   - username: "brandochiesa"
     fullname: >-
       Brando Chiesa
     location: "United States"
-    followers: 819284
-    engagement: 818
-    commentsToLikes: 0.011310
+    followers: 844730
+    engagement: 804
+    commentsToLikes: 0.011115
     id: ck55pdbauabl20i11jqqhap9a
     verified: true
-    hashtags: "#jurassicpark, #sailormoon, #digimon, #pokemon"
+    hashtags: "#digimon, #finalfantasy7, #pokemon, #deathnote"
+  - username: "melremmers"
+    fullname: >-
+      Mel Remmers Studio
+    location: "United States"
+    followers: 41076
+    engagement: 251
+    commentsToLikes: 0.067957
+    id: ck5zw1egh5al80i14a86nb0ed
+    verified: false
+    hashtags: "#doodlelove, #floralfriday, #quarantinebutmakeitfashion, #youknowwheretofindme"
+  - username: "tuchedonmez"
+    fullname: >-
+      𝐓𝐔𝐆𝐂𝐄 𝐃𝐎𝐍𝐌𝐄𝐙  🕷
+    location: "United States"
+    followers: 28481
+    engagement: 521
+    commentsToLikes: 0.045155
+    id: ck8t9dd0mnofl0j78az8wojsj
+    verified: false
+    hashtags: "#littlegirlsintheirmotherspearls, #imalreadyregrettingthis, #loveislikearunway, #thelovewitch"
+  - username: "zacharyjacksonbrownart"
+    fullname: >-
+      Zachary Jackson Brown
+    location: "United States"
+    followers: 17014
+    engagement: 716
+    commentsToLikes: 0.069514
+    id: ck14hcrs59o4c0i197nyvzm30
+    verified: false
+    hashtags: "#appareldesign, #catwoman, #chiaroscuro, #terminator"
+  - username: "nourslabyrinth"
+    fullname: >-
+      Nour ♥
+    location: "United States"
+    followers: 3939
+    engagement: 1903
+    commentsToLikes: 0.085850
+    id: ck0u8eawg73nb0i193xyw3onv
+    verified: false
+    hashtags: "#guerillart, #goddessenergy, #wander, #ecofeminismo"
+  - username: "ceweina"
+    fullname: >-
+      Celina
+    location: "United States"
+    followers: 2474
+    engagement: 2245
+    commentsToLikes: 0.067075
+    id: ckap5gpo1blyz0i78wl745j6i
+    verified: false
+    hashtags: "#arts, #digitalart, #paintings, #artistoninstagram"
   - username: "cougarmom_"
     fullname: >-
       Vin
     location: "United States"
-    followers: 38618
-    engagement: 773
-    commentsToLikes: 0.011407
+    followers: 39329
+    engagement: 825
+    commentsToLikes: 0.012395
     id: ck8t1e9udvfn20j78ljp1igh5
     verified: false
-    hashtags: "#nyc, #winterthrowback"
-  - username: "peterdevito"
-    fullname: >-
-      Peter DeVito 🇮🇹 🇮🇪 🇨🇳 🇯🇲
-    location: "United States"
-    followers: 169289
-    engagement: 902
-    commentsToLikes: 0.007473
-    id: ck138496hefck0i1925hyo80f
-    verified: false
-    hashtags: "#happyinternationalwomensday, #watchthegap, #femininmasculinvogueitalia"
-  - username: "racheltharris"
-    fullname: >-
-      Rachel Harris
-    location: "United States"
-    followers: 172825
-    engagement: 318
-    commentsToLikes: 0.021517
-    id: ck6u6nihbgn400j71qn5pttjh
-    verified: false
-    hashtags: ""
-  - username: "agentwednesday"
-    fullname: >-
-      Agent Wednesday
-    location: "United States"
-    followers: 8360
-    engagement: 783
-    commentsToLikes: 0.042622
-    id: ck0vyq9go59ax0i19hl95mygy
-    verified: false
-    hashtags: "#angpao, #emmaglitterbomb, #mortonsaltgirl, #jetjaguar"
-  - username: "tomwilltell"
-    fullname: >-
-      Tom Booth
-    location: "United States"
-    followers: 307692
-    engagement: 1057
-    commentsToLikes: 0.004937
-    id: ck5hrt1ljvfkz0i11tw88y5o3
-    verified: false
-    hashtags: "#childrensbookillustration, #lagaleriaroja, #howtodraw, #earthdraw"
-  - username: "hellofaheema"
-    fullname: >-
-      Faheema Chaudhury
-    location: "United States"
-    followers: 17700
-    engagement: 189
-    commentsToLikes: 0.086477
-    id: ck14gf1jt4w5p0i19ombok678
-    verified: false
-    hashtags: "#waltereliasdisney, #tikiroom, #ianlightfoot, #doggosofinstagram"
-  - username: "nikolasdraperivey"
-    fullname: >-
-      ニコラス・ドレーパーアイビー
-    location: "United States"
-    followers: 87733
-    engagement: 347
-    commentsToLikes: 0.017165
-    id: ck13491j5vb940i19iagojzd3
-    verified: true
-    hashtags: "#nike, #jordans, #practice, #blackmanga"
-  - username: "rhawien"
-    fullname: >-
-      Alexandra/Alex 🌙
-    location: "United States"
-    followers: 49353
-    engagement: 601
-    commentsToLikes: 0.024324
-    id: ck0u6hhnu23at0i190xflej35
-    verified: false
-    hashtags: "#wearekillstar, #jewelry, #thrifting, #thriftshop"
+    hashtags: "#winterthrowback, #nyc, #groceryshopping"
 ---

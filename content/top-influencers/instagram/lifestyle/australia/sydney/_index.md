@@ -1,16 +1,16 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Sydney In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Sydney in 2020. Most popular hashtags: #ad #sydney #stayhome #bondibeach.
+  Find top lifestyle Instagram influencers in Sydney in 2020. Most popular hashtags: #stayhome #bloggerstyle #traveldeeper #girlpowertravel.
 platform: Instagram
 profiles:
   - username: "nath_page"
     fullname: >-
       𝐍𝐀𝐓𝐇𝐀𝐍 𝐏𝐀𝐆𝐄
     location: "Australia"
-    followers: 64637
-    engagement: 293
-    commentsToLikes: 0.070746
+    followers: 67772
+    engagement: 342
+    commentsToLikes: 0.060973
     id: ck8szdaqdnz700j78jj9bye27
     verified: false
     hashtags: ""
@@ -18,90 +18,90 @@ profiles:
     fullname: >-
       子时当归
     location: "Australia"
-    followers: 91276
-    engagement: 463
-    commentsToLikes: 0.009158
+    followers: 94526
+    engagement: 453
+    commentsToLikes: 0.008047
     id: ck14k2cb0ndpe0i19l3fyji0s
     verified: false
-    hashtags: "#quinoasalad, #coffeelovers, #yogurtbowl, #healthyliving"
+    hashtags: "#potato, #unhealthyfood, #pancakes, #potatoepancakes"
   - username: "lifestylesydney"
     fullname: >-
       Sydney • Style & Travel 🔰
     location: "Australia"
-    followers: 36269
-    engagement: 212
-    commentsToLikes: 0.110362
+    followers: 36131
+    engagement: 221
+    commentsToLikes: 0.122008
     id: ck0w2zvx2qxne0i19byo4zd2j
     verified: false
-    hashtags: "#strongsensitive, #bondi, #starbucksathome, #bye19"
-  - username: "theycallmezuzu"
+    hashtags: "#partner, #glasshousefragrancesathome, #spon, #founditonamazon"
+  - username: "averageangela"
     fullname: >-
-      Zuzu Galova
+      Luxury Travel/Fashion Blogger
     location: "Australia"
-    followers: 31993
-    engagement: 105
-    commentsToLikes: 0.069820
-    id: ck5hhir0g8fry0i11uhd51lff
+    followers: 32458
+    engagement: 240
+    commentsToLikes: 0.050960
+    id: ck14jk3lhkrf40i195slhzvyf
     verified: false
-    hashtags: "#vogue, #galaxys20ultra, #fashionstory, #dronelife"
+    hashtags: "#isolationdiary, #traveladdicted, #newzealandtrip, #chinesestyle"
+  - username: "madeformadison"
+    fullname: >-
+      Sydney Lifestyle/Parent Blog
+    location: "Australia"
+    followers: 22900
+    engagement: 160
+    commentsToLikes: 0.244941
+    id: ck5zsa9ejy42d0i149gg99y70
+    verified: false
+    hashtags: "#makeovers, #onelifetolive, #shared, #interiorlife"
+  - username: "jennifer__chong"
+    fullname: >-
+      Jennifer Chong
+    location: "Australia"
+    followers: 21844
+    engagement: 226
+    commentsToLikes: 0.112177
+    id: ck6toy410gr3f0j712mf6zsfo
+    verified: false
+    hashtags: "#aj1"
   - username: "alexandracuthill"
     fullname: >-
       ALEX CUTHILL ♡
     location: "Australia"
-    followers: 26348
-    engagement: 125
-    commentsToLikes: 0.098174
+    followers: 26369
+    engagement: 135
+    commentsToLikes: 0.093032
     id: ck0tu3s9t5i740i19izy0bk5g
     verified: false
-    hashtags: "#stayhome, #selfisolation, #shoalbay, #sustainablebeauty"
+    hashtags: "#sandandsky, #beautifuldestinations, #veganproducts, #edwardsandcokippax"
   - username: "droneinspo"
     fullname: >-
       𝐃𝐑𝐎𝐍𝐄𝐈𝐍𝐒𝐏𝐎 | Australia 🚁
     location: "Australia"
-    followers: 11407
-    engagement: 497
-    commentsToLikes: 0.125317
+    followers: 11272
+    engagement: 503
+    commentsToLikes: 0.125234
     id: ck0vwjbj7u38g0i19klol3598
     verified: false
-    hashtags: "#earthofficial, #passportready, #photoshop, #mytinyatlas"
-  - username: "theblonderapunzel"
+    hashtags: "#exploringtheglobe, #sydfromabove, #explorebali, #welivetoexplore"
+  - username: "niinakaydee"
     fullname: >-
-      Fifi | Long Hair Model
+      Sydney’s Fun Lifestyle Family
     location: "Australia"
-    followers: 7548
-    engagement: 1124
-    commentsToLikes: 0.130299
-    id: ck0u1ceu3wjv60i19z162m3r2
+    followers: 8687
+    engagement: 353
+    commentsToLikes: 0.175629
+    id: ck15shn05d1pp0i19sr5i5xtd
     verified: false
-    hashtags: "#glutenfree, #dushiaustralia, #hair, #haircareproducts"
-  - username: "rockybatchelor"
+    hashtags: "#giveaway, #eidgiveaway, #ramadan2020, #eid2020"
+  - username: "mademoisellejaime"
     fullname: >-
-      R O C K Y B A T C H E L O R
+      Jamie-Lee
     location: "Australia"
-    followers: 139995
-    engagement: 226
-    commentsToLikes: 0.018553
-    id: ck5hfkvatxycf0i1131fmkkwg
+    followers: 66487
+    engagement: 175
+    commentsToLikes: 0.118625
+    id: ck0vz4360778m0i198pbv1dc6
     verified: false
-    hashtags: "#swim, #photographer, #caronavirus, #ohpolly"
-  - username: "livewithelle"
-    fullname: >-
-      Ellie Parker // Sydney Blogger
-    location: "Australia"
-    followers: 23202
-    engagement: 414
-    commentsToLikes: 0.121129
-    id: ck55nfsst643g0i11km9ihkk7
-    verified: false
-    hashtags: "#operaaustralia, #enjoylife, #flaxfiber, #quarantine"
-  - username: "majamilicevic_"
-    fullname: >-
-      MAJA MILICEVIC
-    location: "Australia"
-    followers: 6064
-    engagement: 756
-    commentsToLikes: 0.096004
-    id: ck5c45s850nu30i11v30xcxye
-    verified: false
-    hashtags: "#loungewithkoala, #ad, #realgirlsofbody"
+    hashtags: "#dailylookbook, #springstyle, #parismood, #effortlessstyle"
 ---

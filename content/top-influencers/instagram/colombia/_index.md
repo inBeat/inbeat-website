@@ -1,109 +1,109 @@
 ---
 title: Top 10 Instagram Influencers In Colombia In 2020
 description: >-
-  Find top Instagram influencers in Colombia in 2020. Most popular hashtags: #zen #colombia #coronavirus #bogota.
+  Find top Instagram influencers in Colombia in 2020. Most popular hashtags: # #colores #tb #zen.
 platform: Instagram
 profiles:
-  - username: "andresitoow"
+  - username: "soyjorgebernal"
     fullname: >-
-      Andres Figueroa
+      Jorge Bernal
     location: "Colombia"
-    followers: 81880
-    engagement: 2638
-    commentsToLikes: 0.068134
-    id: ck8wep9kaeeol0j788dpgbz7n
+    followers: 7099
+    engagement: 1763
+    commentsToLikes: 0.180423
+    id: ck9hcvq9an61y0j78ktzkrs7w
     verified: false
-    hashtags: "#foryoupage, #loserschallenge, #parat, #colombia"
-  - username: "angiedayc"
+    hashtags: "#happybirthday, #mejoresamigos, #like, #tbt"
+  - username: "soydylann"
     fullname: >-
-      Sam
+      dylan🦋
     location: "Colombia"
-    followers: 167820
-    engagement: 886
-    commentsToLikes: 0.143511
-    id: ck6u1mqkfmo0y0j71026ueluq
+    followers: 34128
+    engagement: 1472
+    commentsToLikes: 0.111269
+    id: ck9whicx4xzqs0j78f2zsqtww
     verified: false
-    hashtags: "#tusa, #safaerachallege, #coronavirus"
-  - username: "las_cardachians"
+    hashtags: ""
+  - username: "heavy_rada"
     fullname: >-
-      Las Cardachians
+      𝙃 𝙀 𝘼 𝙑 𝙔   𝙍 𝘼 𝘿 𝘼 💜
     location: "Colombia"
-    followers: 1177275
-    engagement: 1063
-    commentsToLikes: 0.101956
-    id: ck55klqtyzm4w0i11gfrd9eft
-    verified: true
-    hashtags: "#chimba, #coronavirus, #cardachians, #quedateencasa"
+    followers: 23858
+    engagement: 1283
+    commentsToLikes: 0.104026
+    id: ck0w3ll1wu0zb0i19ln6iuvj4
+    verified: false
+    hashtags: "#felizdiadelni, #1million, #colores"
+  - username: "sofisalazarh"
+    fullname: >-
+      Sofía Salazar 👸
+    location: "Colombia"
+    followers: 65004
+    engagement: 1259
+    commentsToLikes: 0.089272
+    id: ck5ch3q9qq1zq0i11ahgq3nbf
+    verified: false
+    hashtags: ""
   - username: "folliedolliebeaute"
     fullname: >-
-      #FollieDollieTips 🌿
+      #FollieDollieTips 🌿 كارلا
     location: "Colombia"
-    followers: 53284
-    engagement: 895
-    commentsToLikes: 0.122599
+    followers: 62727
+    engagement: 1175
+    commentsToLikes: 0.204695
     id: ck15qy8xd58i10i199uk0b5pn
     verified: false
-    hashtags: "#folliedollietips, #sundaywisdom, #nofilter, #panama"
+    hashtags: "#wedontknowher, #abhxamrezy, #follielivexmacpanama, #makeup"
   - username: "_zenzei_"
     fullname: >-
       Z E N Z E I
     location: "Colombia"
-    followers: 46009
-    engagement: 955
-    commentsToLikes: 0.057297
+    followers: 46429
+    engagement: 973
+    commentsToLikes: 0.058436
     id: ck0tvvhv3cyw60i19e11u8igh
     verified: false
-    hashtags: "#repost, #adn, #zen, #pegao"
-  - username: "bastianservin"
+    hashtags: "#pegao, #repost, #adn, #zen"
+  - username: "santicastac"
     fullname: >-
-      Emiliano Sebástian
+      SANTI CASTA
     location: "Colombia"
-    followers: 6214
-    engagement: 1698
-    commentsToLikes: 0.169769
-    id: ck8t4gbfr6p8v0j78nrhy2oed
+    followers: 85830
+    engagement: 946
+    commentsToLikes: 0.060174
+    id: ckap5q665cotb0i78vhymhvpd
+    verified: false
+    hashtags: "#colores, #midas"
+  - username: "creexart"
+    fullname: >-
+      CreexArt ⚡️ El Crack
+    location: "Colombia"
+    followers: 114212
+    engagement: 758
+    commentsToLikes: 1.242246
+    id: ck5ci7rots69i0i11bjl8bnhr
+    verified: false
+    hashtags: "#pride"
+  - username: "angiedayc"
+    fullname: >-
+      Sam
+    location: "Colombia"
+    followers: 168892
+    engagement: 637
+    commentsToLikes: 0.104820
+    id: ck6u1mqkfmo0y0j71026ueluq
+    verified: false
+    hashtags: "#coronavirus, #mamacita"
+  - username: "andresitoow"
+    fullname: >-
+      Andres Figueroa
+    location: "Colombia"
+    followers: 126460
+    engagement: 2398
+    commentsToLikes: 0.051558
+    id: ck8wep9kaeeol0j788dpgbz7n
     verified: false
     hashtags: ""
-  - username: "medicenyolo"
-    fullname: >-
-      YOLO
-    location: "Colombia"
-    followers: 2675461
-    engagement: 657
-    commentsToLikes: 0.044782
-    id: ck6uem5mqrr1i0j71mqhqqobk
-    verified: false
-    hashtags: "#yolorianaesreal, #unchallengeporvenezuela, #tbt"
-  - username: "katalinasandoval"
-    fullname: >-
-      Kata🧝‍♀️
-    location: "Colombia"
-    followers: 114383
-    engagement: 1320
-    commentsToLikes: 0.040303
-    id: ck6uci7pwfr5b0j71jvzrmy4h
-    verified: false
-    hashtags: ""
-  - username: "kevincardona115"
-    fullname: >-
-      kevin cardona ♥️
-    location: "Colombia"
-    followers: 16271
-    engagement: 1151
-    commentsToLikes: 0.234865
-    id: ck6uchr04fo8x0j71dfgwscxy
-    verified: false
-    hashtags: "#naturalmakeup, #pandorasboxcosmetics, #sanvalentinesday, #sanvalentin"
-  - username: "kimberlyhookern"
-    fullname: >-
-      Kimberly Hooker Naranjo
-    location: "Colombia"
-    followers: 29171
-    engagement: 1019
-    commentsToLikes: 0.179767
-    id: ck5zzybf5cmiq0i14mewm58y1
-    verified: false
-    hashtags: "#selfietime, #tb, #tbt, #polastime"
 cities:
   - name: Bogotá
     link: /instagram/colombia/bogota

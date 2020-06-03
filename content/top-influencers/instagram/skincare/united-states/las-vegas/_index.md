@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top skincare Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #makeup #beauty #skincare.
+  Find top skincare Instagram influencers in Las Vegas in 2020. Most popular hashtags: #skincare #lasvegas #stayhome #jewelry.
 platform: Instagram
 profiles:
-  - username: "mermaidinheels"
+  - username: "rhoc_emilysimpson"
     fullname: >-
-      Cielo Fronteras
+      Emily Simpson
     location: "United States"
-    followers: 93633
-    engagement: 156
-    commentsToLikes: 0.040720
-    id: ck13c1hwxy5uf0i19co3fbycs
-    verified: false
-    hashtags: "#farmacyedgy, #hustle, #giftcard, #teriyaki"
-  - username: "harmonyswank"
+    followers: 376270
+    engagement: 153
+    commentsToLikes: 0.059073
+    id: ck14ka9n7ojee0i19awjegg5u
+    verified: true
+    hashtags: "#lukeisinthepool, #giveback, #staystrong, #humanity"
+  - username: "laurenkittcarter"
     fullname: >-
-      𝓗𝓪𝓻𝓶𝓸𝓷𝔂 𝓢𝔀𝓪𝓷𝓴
+      Lauren Kitt Carter
     location: "United States"
-    followers: 81524
-    engagement: 163
-    commentsToLikes: 0.037368
-    id: ck5q76fi205wz0i11rw8zsvjz
-    verified: false
-    hashtags: "#zurimeadow, #wwdmagic, #healinghippies, #converse"
-  - username: "markuskaulius"
+    followers: 180345
+    engagement: 762
+    commentsToLikes: 0.042171
+    id: ck5zwisgj67ao0i141vp07877
+    verified: true
+    hashtags: "#contemporaryart, #skinexpert, #selfcare, #womensupportingwomen"
+  - username: "awmyposh"
     fullname: >-
-      Markus Kaulius
+      Anne Wright
     location: "United States"
-    followers: 112788
-    engagement: 227
-    commentsToLikes: 0.159016
-    id: ck5q106z08m7b0i11pv9qblec
+    followers: 72105
+    engagement: 98
+    commentsToLikes: 0.143785
+    id: ck5hrczc1uny20i11u76awviu
     verified: false
-    hashtags: "#antibullying, #antiaging, #joeexoticchallenge, #simpsons"
+    hashtags: "#tgifriday, #whenincslifornia, #pastel, #instax"
   - username: "shelbyvert"
     fullname: >-
-      Shelby Vert
+      SHELBY VERT
     location: "United States"
-    followers: 44759
-    engagement: 163
-    commentsToLikes: 0.203653
+    followers: 51097
+    engagement: 203
+    commentsToLikes: 0.224435
     id: ck55pzqvwbr830i11rt1d55j4
     verified: false
-    hashtags: "#mirror, #bandtee, #lips, #bachelor"
-  - username: "jessyykatt"
-    fullname: >-
-      Jessica
-    location: "United States"
-    followers: 45519
-    engagement: 108
-    commentsToLikes: 0.053321
-    id: ck6u4w93765920j7167tuz932
-    verified: false
-    hashtags: "#freelanceartist, #muah, #glamour, #newshow"
-  - username: "persnicketysavi"
-    fullname: >-
-      ✨Savi✨
-    location: "United States"
-    followers: 5079
-    engagement: 2350
-    commentsToLikes: 0.218488
-    id: ck6togu7ve0870j71irytogwc
-    verified: false
-    hashtags: "#365inskincare, #skincarereviews, #maturewomen, #discoverunder7k"
-  - username: "oscarpicazophotographer"
-    fullname: >-
-      Las Vegas Photographer
-    location: "United States"
-    followers: 20474
-    engagement: 235
-    commentsToLikes: 0.080925
-    id: ck5q6rn3pyksc0i11fx5m9xre
-    verified: false
-    hashtags: "#animallovers, #sexyboys, #cover, #russian"
-  - username: "blissbrie"
-    fullname: >-
-      BRIDGET
-    location: "United States"
-    followers: 6509
-    engagement: 506
-    commentsToLikes: 0.131767
-    id: ck6u0h4g8fnyl0j71fs5fugge
-    verified: false
-    hashtags: "#octolyfamily, #ootn, #styled, #freshbeauty"
+    hashtags: "#engaged, #joggers, #losangeles, #purses"
   - username: "steffanie.a.mua"
     fullname: >-
       ✨M A K E U P  M A G I C I A N✨
     location: "United States"
-    followers: 4512
-    engagement: 1037
-    commentsToLikes: 0.086109
+    followers: 5343
+    engagement: 877
+    commentsToLikes: 0.094368
     id: ck135gz7x1dab0i19w0fjn7cc
     verified: false
-    hashtags: "#avantgarde, #boysinmakeup, #goofproofbrowpencil, #quarantineandchill"
-  - username: "anaandreaxoxo"
+    hashtags: "#glam, #grungemakeup, #90saesthetic, #wedding"
+  - username: "persnicketysavi"
     fullname: >-
-      Ana Andrea YouTube
+      ✨Savi✨
     location: "United States"
-    followers: 12421
-    engagement: 326
-    commentsToLikes: 0.121890
-    id: ck5c2jhssxdaz0i11nmqu1uvw
+    followers: 6607
+    engagement: 1774
+    commentsToLikes: 0.258421
+    id: ck6togu7ve0870j71irytogwc
     verified: false
-    hashtags: "#sparkle, #houseplants, #formybabyboy, #ilovetarget"
+    hashtags: "#welovecoco, #velvetbeauty, #fragrancefriday, #veganbeauty"
+  - username: "haareozawa"
+    fullname: >-
+      Krystal Ozawa💖小澤 晴☀️
+    location: "United States"
+    followers: 2383
+    engagement: 864
+    commentsToLikes: 0.081809
+    id: ck8ta89qrqtfb0j780xtji2ye
+    verified: false
+    hashtags: "#goodvibes, #pink, #flowers, #beautyblog"
+  - username: "jenjenmakeup"
+    fullname: >-
+      Jenny
+    location: "United States"
+    followers: 197339
+    engagement: 250
+    commentsToLikes: 0.019067
+    id: ck0vv567qnlil0i19t0mqcvht
+    verified: false
+    hashtags: "#proluxcosmetics, #underratedglam, #makeupartist, #focallurebeauty"
+  - username: "skincareandfashionlover"
+    fullname: >-
+      Louise✨✨✨GIVEAWAY LIVE✨✨✨
+    location: "United States"
+    followers: 43068
+    engagement: 400
+    commentsToLikes: 0.076874
+    id: ck0vvqs0rqcfv0i19yhvwwh0a
+    verified: false
+    hashtags: "#healthyskincare, #fridgiefriday, #glammakeup, #lasvegas"
+  - username: "anchorslife"
+    fullname: >-
+      Gabriel Antonio
+    location: "United States"
+    followers: 102446
+    engagement: 820
+    commentsToLikes: 0.044599
+    id: ck136dt8a5zy30i19wjwu673y
+    verified: true
+    hashtags: "#singleguy, #djlife, #mensweardaily, #gayfit"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top bloggers Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegasblogger #lasvegas #blogger #lasvegaslocals.
+  Find top bloggers Instagram influencers in Las Vegas in 2020. Most popular hashtags: #blogger #lasvegas #vegasstrip #spring.
 platform: Instagram
 profiles:
-  - username: "bria.snyder"
+  - username: "kryskassandra"
     fullname: >-
-      Vegas|Lifestyle|Travel|Leow
+      Krystal Castillo
     location: "United States"
-    followers: 38649
-    engagement: 291
-    commentsToLikes: 0.106146
-    id: ck55mp7jb4gbj0i11cjh3nsmr
+    followers: 3189
+    engagement: 2036
+    commentsToLikes: 0.105420
+    id: ckap8mclfoyz80i7809cqy3ki
     verified: false
-    hashtags: "#influencer, #hiittraining, #covid19birthday, #thinbluelinefamy"
-  - username: "shelbyvert"
-    fullname: >-
-      Shelby Vert
-    location: "United States"
-    followers: 44759
-    engagement: 163
-    commentsToLikes: 0.203653
-    id: ck55pzqvwbr830i11rt1d55j4
-    verified: false
-    hashtags: "#mirror, #bandtee, #lips, #bachelor"
+    hashtags: "#classyoutfit, #workoutfit, #babybump, #fashionista"
   - username: "theandreajohnson"
     fullname: >-
       Andrea Johnson
     location: "United States"
-    followers: 30830
-    engagement: 728
-    commentsToLikes: 0.078768
+    followers: 30278
+    engagement: 737
+    commentsToLikes: 0.082357
     id: ck0udpkt2jl2z0i19uw5bs9mx
     verified: false
-    hashtags: "#shoppingspree, #igersusa, #ltkfashion, #familyblogger"
-  - username: "glowinriss"
-    fullname: >-
-      Marissa A
-    location: "United States"
-    followers: 54315
-    engagement: 296
-    commentsToLikes: 0.024018
-    id: ck0u8nfi17wpa0i19jcib3vhx
-    verified: false
-    hashtags: "#fourthraybeauty, #boxflowers, #momboss, #foundationroutine"
-  - username: "seattle.grub"
-    fullname: >-
-      MAKENA | SEATTLE FOODIE
-    location: "United States"
-    followers: 2359
-    engagement: 998
-    commentsToLikes: 0.175899
-    id: ck6u9bac7wjro0j714lua0icy
-    verified: false
-    hashtags: "#like, #seattlegrub, #bakedbrie, #southcenterfood"
+    hashtags: "#notox, #hellofreshpartner, #healforreal, #ingridandisabel"
   - username: "laurenjparry"
     fullname: >-
       Lauren Parry Outfits & Outings
     location: "United States"
-    followers: 79735
-    engagement: 160
-    commentsToLikes: 0.067284
+    followers: 79829
+    engagement: 226
+    commentsToLikes: 0.027302
     id: ck0vxbp04y41j0i194ay16t64
     verified: false
-    hashtags: "#caliabycarrieunderwoodpartner, #goldengooseshoes, #parryprojects, #ltkfamily"
-  - username: "juleslind75"
+    hashtags: "#lasvegas, #blazeroutfit, #spanxleggings, #matchingoutfits"
+  - username: "danjabarberphotography"
     fullname: >-
-      Jules
+      Danja Barber Photography
     location: "United States"
-    followers: 10473
-    engagement: 570
-    commentsToLikes: 0.069969
-    id: ck5c7msvl7tia0i11ojvkpcu7
+    followers: 5818
+    engagement: 592
+    commentsToLikes: 0.024454
+    id: ck5hftxjrzbbh0i11e7uh1l2v
     verified: false
-    hashtags: "#befearless, #trainathome, #selflove, #lasvegas"
-  - username: "mrsyvettepriscilla"
+    hashtags: "#collage, #familyportraits, #nebraska, #westernwedding"
+  - username: "blissbrie"
     fullname: >-
-      Yvette Priscilla 🍔
+      Bridget
     location: "United States"
-    followers: 10800
-    engagement: 860
-    commentsToLikes: 0.016785
-    id: ck6uchboefm0l0j714ii087gn
+    followers: 6475
+    engagement: 497
+    commentsToLikes: 0.137659
+    id: ck6u0h4g8fnyl0j71fs5fugge
     verified: false
-    hashtags: "#lasvegaslocal, #snow, #nevadalocal, #youtube"
-  - username: "mermaidinheels"
+    hashtags: "#narsissist, #fashiontips, #bebellababe, #ofrabeauties"
+  - username: "steven_dann"
     fullname: >-
-      Cielo Fronteras
+      STEVEN DANN ™
     location: "United States"
-    followers: 93633
-    engagement: 156
-    commentsToLikes: 0.040720
-    id: ck13c1hwxy5uf0i19co3fbycs
-    verified: false
-    hashtags: "#farmacyedgy, #hustle, #giftcard, #teriyaki"
-  - username: "beeefreed"
+    followers: 219736
+    engagement: 129
+    commentsToLikes: 0.015645
+    id: ck5q0heag60770i11uk9ilir0
+    verified: true
+    hashtags: "#lasvegas, #beverlyhills, #swimming, #blogger"
+  - username: "ryan_jerome"
     fullname: >-
-      Bree Freed✨
+      Ryan Jerome
     location: "United States"
-    followers: 6454
-    engagement: 1292
-    commentsToLikes: 0.038751
-    id: ck5bvg41xjl0y0i11mqtsogzg
+    followers: 103978
+    engagement: 242
+    commentsToLikes: 0.017237
+    id: ck0vzpesga8pa0i19h0outvab
     verified: false
-    hashtags: "#lasvegasmodels, #teamusa, #disneygirl, #lasvegasshow"
+    hashtags: "#chloe, #visiticeland, #vegasbaby, #menswear"
+  - username: "karinsaiams"
+    fullname: >-
+      Karinsa Iams
+    location: "United States"
+    followers: 5483
+    engagement: 913
+    commentsToLikes: 0.210244
+    id: ck9hab0bzbuqw0j78zqq7scqs
+    verified: false
+    hashtags: "#abercrombie, #vegashiking, #wranglerjeans, #levisjeans"
+  - username: "forouzan.zad"
+    fullname: >-
+      Forouzan Zad | Fashion Blogger
+    location: "United States"
+    followers: 46617
+    engagement: 542
+    commentsToLikes: 0.164713
+    id: ck13bs0agww2c0i197mwdc0qf
+    verified: false
+    hashtags: "#norouz, #deltangi, #missmymom, #missmydad"
+  - username: "shelbyvert"
+    fullname: >-
+      SHELBY VERT
+    location: "United States"
+    followers: 51097
+    engagement: 203
+    commentsToLikes: 0.224435
+    id: ck55pzqvwbr830i11rt1d55j4
+    verified: false
+    hashtags: "#engaged, #joggers, #losangeles, #purses"
 ---

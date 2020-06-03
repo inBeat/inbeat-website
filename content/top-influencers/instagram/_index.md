@@ -1,109 +1,109 @@
 ---
 title: Top 10 Instagram Influencers In 2020
 description: >-
-  Find top Instagram influencers in 2020. Most popular hashtags: #nature #fashionblogger #ig #travel.
+  Find top Instagram influencers in 2020. Most popular hashtags: #sunset #italian #gopro #zara.
 platform: Instagram
 profiles:
   - username: "mauu.otero"
     fullname: >-
-      Mau Otero
+      Sali del closet
     location: "Mexico"
-    followers: 28732
-    engagement: 1838
-    commentsToLikes: 0.092362
+    followers: 65030
+    engagement: 1894
+    commentsToLikes: 0.107958
     id: ck0u2mjzk0d7k0i19zjmwur9v
     verified: false
-    hashtags: "#foryoupage, #trend, #vibes, #mexico"
+    hashtags: "#fyp, #share, #stayhomeeditcontest, #surftrip"
   - username: "amoureuxdumonde"
     fullname: >-
-      Yann ♡ Aurélie - Blog Voyage
+      Yann ♡ Aurélie - Blog Voyage
     location: "France"
-    followers: 111925
-    engagement: 688
-    commentsToLikes: 0.040810
+    followers: 116876
+    engagement: 767
+    commentsToLikes: 0.083801
     id: ck0tv1s609kcq0i19fj66fe0n
     verified: false
-    hashtags: "#puglia, #voyageuse, #philippines, #travelgirls"
+    hashtags: "#palawan, #voyageslaponie, #montagne, #annecy"
   - username: "charlie.ma.vie"
     fullname: >-
       Raphaëlle
     location: "France"
-    followers: 36453
-    engagement: 972
-    commentsToLikes: 0.012753
+    followers: 46823
+    engagement: 837
+    commentsToLikes: 0.021400
     id: ck0vzn1709wpv0i19kyvoss00
     verified: false
-    hashtags: "#lifestylephotography, #mondayvibes, #springishere, #slowlife"
+    hashtags: "#momanddad, #daddy, #smileeveryday, #lovers"
   - username: "igna.ferriol"
     fullname: >-
       Igna & Hanna
     location: "Spain"
-    followers: 20666
-    engagement: 1228
-    commentsToLikes: 0.074637
+    followers: 20593
+    engagement: 1246
+    commentsToLikes: 0.075555
     id: ck55o5tf27otd0i11wpmyqhwx
     verified: false
-    hashtags: "#mothernaturesbeauty, #canarydog, #travel, #dogdailyfeaturesss"
-  - username: "evierupp"
-    fullname: >-
-      Evelyn Grace ♡ LA Biz Educator
-    location: "United States"
-    followers: 23976
-    engagement: 1026
-    commentsToLikes: 0.042898
-    id: ck13a76akoyg40i19edjwq8h6
-    verified: false
-    hashtags: "#evelyngracepresets"
-  - username: "silvio_tova"
-    fullname: >-
-      S I L V I O  T O V A G L I A
-    location: "United States"
-    followers: 16181
-    engagement: 995
-    commentsToLikes: 0.295187
-    id: ck0u1mb6hx8ga0i19d9k1rvsb
-    verified: false
-    hashtags: "#supreme, #streetphotography, #toureiffel, #gifted"
-  - username: "travelwithkwen"
-    fullname: >-
-      Kwen - Travel & Lifestyle
-    location: "United Kingdom"
-    followers: 11021
-    engagement: 1597
-    commentsToLikes: 0.297070
-    id: ck14jebadjwb70i19j0zmu54p
-    verified: false
-    hashtags: "#vacationmode, #tastelondon, #momentsofchic, #inspiredtravels"
+    hashtags: "#folkvisions, #natureheals, #beggintime, #dogpics"
   - username: "angelika_rysz"
     fullname: >-
       Angelika
     location: "Poland"
-    followers: 2708
-    engagement: 2110
-    commentsToLikes: 0.343054
+    followers: 3225
+    engagement: 2173
+    commentsToLikes: 0.306699
     id: ck5zizhb5gnvu0i14guq3n633
     verified: false
-    hashtags: "#evelinecosmetics, #mood, #mojewszystko, #naturalbeauties"
+    hashtags: "#beautyissimple, #artystycznezdj, #boymom, #jestemmama"
+  - username: "lissiloveslife"
+    fullname: >-
+      𝗜𝗡𝗦𝗣𝗢 • 𝗙𝗔𝗦𝗛𝗜𝗢𝗡 • 𝗟𝗜𝗙𝗘𝗦𝗧𝗬𝗟𝗘
+    location: "Germany"
+    followers: 6128
+    engagement: 1619
+    commentsToLikes: 0.244601
+    id: ck15tf4eshrue0i191ml886ab
+    verified: false
+    hashtags: "#beautybloggers, #hhblogger, #interiordesign, #fitfamgermany"
+  - username: "travelwithkwen"
+    fullname: >-
+      Kwen - Travel & Lifestyle
+    location: "Japan"
+    followers: 11524
+    engagement: 1440
+    commentsToLikes: 0.271691
+    id: ck14jebadjwb70i19j0zmu54p
+    verified: false
+    hashtags: "#travelpicture, #womensday, #travelstribe, #winmymicrogap"
+  - username: "silvio_tova"
+    fullname: >-
+      S I L V I O  T O V A G L I A
+    location: "United States"
+    followers: 16487
+    engagement: 999
+    commentsToLikes: 0.284694
+    id: ck0u1mb6hx8ga0i19d9k1rvsb
+    verified: false
+    hashtags: "#gifted, #puma, #boxlogo, #paris"
+  - username: "evierupp"
+    fullname: >-
+      Evelyn Grace ♡ LA Biz Educator
+    location: "United States"
+    followers: 24354
+    engagement: 912
+    commentsToLikes: 0.043979
+    id: ck13a76akoyg40i19edjwq8h6
+    verified: false
+    hashtags: ""
   - username: "wandabadwal"
     fullname: >-
       WANDA BADWAL
     location: "Indonesia"
-    followers: 28617
+    followers: 30350
     engagement: 362
-    commentsToLikes: 0.041452
+    commentsToLikes: 0.049696
     id: ck14hs02gbu2v0i19pus82mrj
     verified: false
-    hashtags: "#beyondasana, #rememberwhoyouare, #zeitf, #personaldevelopment"
-  - username: "lissiloveslife"
-    fullname: >-
-      INSPO •  FASHION • LIFESTYLE
-    location: "Germany"
-    followers: 6520
-    engagement: 1300
-    commentsToLikes: 0.209081
-    id: ck15tf4eshrue0i191ml886ab
-    verified: false
-    hashtags: "#springlook2020, #sunsetlover, #anajohnson, #yvonnedilauro"
+    hashtags: "#sanctuary, #conversation, #spirituality, #happygalungan"
 countries:
   - name: Algeria
     link: /instagram/algeria

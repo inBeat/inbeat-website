@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Venezuela In 2020
 description: >-
-  Find top fashion Instagram influencers in Venezuela in 2020. Most popular hashtags: #photography #model #venezuela #portrait.
+  Find top fashion Instagram influencers in Venezuela in 2020. Most popular hashtags: #tbt #tutorial #model #editorial.
 platform: Instagram
 profiles:
-  - username: "ariannapitino"
+  - username: "nadiachambra"
     fullname: >-
-      ARIANNA PITINO🦂
+      Nadia Chambra
     location: "Venezuela"
-    followers: 46047
-    engagement: 752
-    commentsToLikes: 0.104050
-    id: ck0tw1ckedlh80i19e0e7a89q
+    followers: 45451
+    engagement: 453
+    commentsToLikes: 0.117494
+    id: ck5hlmu4akhqy0i11n30khqx1
     verified: false
-    hashtags: "#foryoustore, #scarface, #fashion, #photoshoot"
+    hashtags: "#exercise, #mothersday, #starfish, #happymonday"
   - username: "dannasm"
     fullname: >-
       Danna Solórzano
     location: "Venezuela"
-    followers: 30734
-    engagement: 661
-    commentsToLikes: 0.035430
+    followers: 31145
+    engagement: 735
+    commentsToLikes: 0.031742
     id: ck6ttdsgra24o0j71ytfvyc2f
     verified: false
-    hashtags: "#youtuber, #life, #paris, #fashioninspiration"
-  - username: "crondonm"
+    hashtags: "#rizos, #natural, #family, #makeuproutine"
+  - username: "ninoskavasqueza"
     fullname: >-
-      CESAR RONDÓN
+      Ninoska Vasquez
     location: "Venezuela"
-    followers: 24153
-    engagement: 329
-    commentsToLikes: 0.082937
-    id: ck0ub83njdxoc0i19ar1yjr5v
-    verified: false
-    hashtags: "#yomequedoencasa, #crondonmathome, #stayhome, #wine"
-  - username: "enmanuelbaez_photo"
-    fullname: >-
-      Enmanuel Baez
-    location: "Venezuela"
-    followers: 17601
-    engagement: 510
-    commentsToLikes: 0.048769
-    id: ck5bxvdsjohb10i11v6q82ur9
-    verified: false
-    hashtags: "#missuniverse, #missmundo, #missinternational, #instagram"
-  - username: "arevalostephany"
-    fullname: >-
-      Stephany Arevalo
-    location: "Venezuela"
-    followers: 9834
-    engagement: 796
-    commentsToLikes: 0.048878
-    id: ck6ubvbf4bwwj0j71gpi5mmyd
-    verified: false
-    hashtags: "#goldenhour, #madrid, #quarantinelife, #mycity"
+    followers: 690801
+    engagement: 465
+    commentsToLikes: 0.017931
+    id: ck0twi5ahfhji0i19ecdnd6fl
+    verified: true
+    hashtags: "#infinite, #newcolor, #yoga, #tbt"
   - username: "changophoto"
     fullname: >-
       Johan Chango
     location: "Venezuela"
-    followers: 26280
-    engagement: 527
-    commentsToLikes: 0.030056
+    followers: 26816
+    engagement: 462
+    commentsToLikes: 0.042098
     id: ck55pst4hbaur0i114a66uuyt
     verified: false
-    hashtags: "#nudeart, #beautyface, #skinretouch, #classicblue"
+    hashtags: "#mua, #fashionpost, #missvenezuela, #shooting"
+  - username: "crondonm"
+    fullname: >-
+      CESAR RONDÓN
+    location: "Venezuela"
+    followers: 24522
+    engagement: 306
+    commentsToLikes: 0.060720
+    id: ck0ub83njdxoc0i19ar1yjr5v
+    verified: false
+    hashtags: "#crondonmteam, #tb, #meveodecente, #staysafe"
   - username: "alegfoto"
     fullname: >-
       Alejandro Gonzalez 🇻🇪
     location: "Venezuela"
-    followers: 62799
-    engagement: 384
-    commentsToLikes: 0.075832
+    followers: 63295
+    engagement: 411
+    commentsToLikes: 0.132735
     id: ck0ubyi0lfmm80i19jyt5bbm0
     verified: false
-    hashtags: "#instalike, #photoshoot, #art, #moodyports"
-  - username: "sabri_soares"
+    hashtags: "#ocfffaediting, #tiktok, #nikon, #sorteo"
+  - username: "soniassabati"
     fullname: >-
-      Sabrina Soares 🍍🧵✨🧊
+      TE AMO
     location: "Venezuela"
-    followers: 8421
-    engagement: 1110
-    commentsToLikes: 0.030045
-    id: ck8sy605pjtsv0j78ih8mw0u1
+    followers: 3455
+    engagement: 1644
+    commentsToLikes: 0.101436
+    id: ckap49kbx6cyq0i78jlt8rz5q
     verified: false
-    hashtags: "#ad"
+    hashtags: "#styleinspiration, #fashionblogger, #bloggerstyle, #inspo"
   - username: "edwinrphoto"
     fullname: >-
       EDWIN RAMOS
     location: "Venezuela"
-    followers: 7933
-    engagement: 452
-    commentsToLikes: 0.116247
+    followers: 8370
+    engagement: 445
+    commentsToLikes: 0.161170
     id: ck55lgk1g1ijx0i11mysfzi1g
     verified: false
-    hashtags: "#portrait, #venezuela, #love, #mobilephotography"
+    hashtags: "#tutorials, #tips, #portraiture, #portraitvision"
+  - username: "sabri_soares"
+    fullname: >-
+      Sabrina Soares 🍍🧵✨🧊
+    location: "Venezuela"
+    followers: 8471
+    engagement: 997
+    commentsToLikes: 0.025966
+    id: ck8sy605pjtsv0j78ih8mw0u1
+    verified: false
+    hashtags: "#ad, #tbt, #stayhome, #edit"
   - username: "pedrojose.ph"
     fullname: >-
-      Fotógrafo - Pedro José
+      Pedro José
     location: "Venezuela"
-    followers: 5323
-    engagement: 658
-    commentsToLikes: 0.061410
+    followers: 5581
+    engagement: 632
+    commentsToLikes: 0.054512
     id: ck6ubvbv6bx0k0j71byvcmptf
     verified: false
-    hashtags: "#photograph, #limaperu, #photographersofinstagram, #streetshooter"
+    hashtags: "#tagify, #moda, #fashionstyle, #temacuarentena"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In San Antonio In 2020
 description: >-
-  Find top fashion Instagram influencers in San Antonio in 2020. Most popular hashtags: #fashion #quarantine #sanantonio #sanantonioblogger.
+  Find top fashion Instagram influencers in San Antonio in 2020. Most popular hashtags: #ootd #sanantonio #texas #fashion.
 platform: Instagram
 profiles:
-  - username: "john_rozco"
-    fullname: >-
-      John Rozco
-    location: "United States"
-    followers: 7512
-    engagement: 727
-    commentsToLikes: 0.116762
-    id: ck55jy586y1hy0i11g1t7njjo
-    verified: false
-    hashtags: "#a7riv, #portraitphotographer, #ourportraitsdays, #earth"
   - username: "queenaa.h"
     fullname: >-
       M I N A
     location: "United States"
-    followers: 18468
-    engagement: 722
-    commentsToLikes: 0.048038
+    followers: 20186
+    engagement: 619
+    commentsToLikes: 0.093614
     id: ck8tdfco235920j7849pz262e
     verified: false
-    hashtags: "#hijabchic, #fashiongoals, #hijaboftheday, #hijabisstyle"
+    hashtags: "#hijabilookbook, #ootd, #hijabneed, #corona"
   - username: "smilesandpearlss"
     fullname: >-
       Candice•Smiles and Pearls•
     location: "United States"
-    followers: 34681
-    engagement: 106
-    commentsToLikes: 0.109407
+    followers: 39322
+    engagement: 129
+    commentsToLikes: 0.104234
     id: ck14iw4nzhfil0i19ujvfkju0
     verified: false
-    hashtags: "#galentinesday, #myfabletics, #plussizefashion, #quarantineandchill"
-  - username: "anapeli_"
+    hashtags: "#createyourlane, #enneagram7, #manicure, #dashingdiva"
+  - username: "nilaya_xoxo"
     fullname: >-
-      ANA
+      🌸ɴ ɪ ʟ ᴀ ʏ ᴀ🌸
     location: "United States"
-    followers: 5905
-    engagement: 459
-    commentsToLikes: 0.057906
-    id: ck8syjs62l12a0j780ed09gnj
+    followers: 8603
+    engagement: 915
+    commentsToLikes: 0.056743
+    id: ck5cdapfmiu0v0i11gh5ajy5c
     verified: false
-    hashtags: "#tomboystyle, #satxfashionblogger, #messageoftheday, #fashioninfluencer"
-  - username: "tally.dilbert"
+    hashtags: "#spikes, #wingedliner, #sweaterweather, #yktfv"
+  - username: "comicsinmybirkin"
     fullname: >-
-      TALLY
+      NYC TinstaKRAM 📸
     location: "United States"
-    followers: 8250
-    engagement: 596
-    commentsToLikes: 0.061077
-    id: ck6tjlqhh2ylf0j71ub3ttmk8
+    followers: 19139
+    engagement: 264
+    commentsToLikes: 0.024891
+    id: ckaozvumenmsd0i781t8lp6f8
     verified: false
-    hashtags: "#internationalwomensday, #satxblogger, #texasblogger, #miamiflorida"
-  - username: "gio.dizurita"
+    hashtags: "#newyorkfood, #nycfoodie, #frenchcuisine, #leather"
+  - username: "marilynchihuahua"
     fullname: >-
-      DIZURITA / Visual Artist
+      Marilyn Chihuahua
     location: "United States"
-    followers: 7179
-    engagement: 559
-    commentsToLikes: 0.110626
-    id: ck5hn7275nbrm0i1104b4a1va
+    followers: 4511
+    engagement: 1118
+    commentsToLikes: 0.111598
+    id: ck9h9o3jf99la0j78ir8c0nhm
     verified: false
-    hashtags: "#artista, #nassaubahamas, #artist, #lasvegasart"
-  - username: "mayrafarret"
+    hashtags: "#quarantined, #sundaythoughts, #nationalstartseeingmonarchsday, #nationallemonadeday"
+  - username: "nickwspalding"
     fullname: >-
-      Mayra Farret
+      Nick Spalding
     location: "United States"
-    followers: 15854
-    engagement: 370
-    commentsToLikes: 0.051517
-    id: ck5hn6zsqnbow0i11akpybgo5
+    followers: 14421
+    engagement: 751
+    commentsToLikes: 0.015285
+    id: ck15r7wt86l8t0i1922mdwsbw
     verified: false
-    hashtags: "#momlife, #support, #community, #iamalive"
-  - username: "jbellini_"
-    fullname: >-
-      JULIA BELLINI
-    location: "United States"
-    followers: 2311
-    engagement: 1662
-    commentsToLikes: 0.070934
-    id: ck55nzkvh7bt30i114pa37s4o
-    verified: false
-    hashtags: "#thankful, #cebl, #spurs, #culture"
+    hashtags: "#nyc, #fitness, #california, #mensfashion"
   - username: "viviruth_"
     fullname: >-
       Veronica 🌸
     location: "United States"
-    followers: 2150
-    engagement: 1193
-    commentsToLikes: 0.093545
+    followers: 2138
+    engagement: 1214
+    commentsToLikes: 0.093061
     id: ck6ty2ktm1blt0j71ftc9m8cg
     verified: false
-    hashtags: "#outfitlove, #colourpopme, #filipinamua, #hairgoals"
-  - username: "_maddiemason_cosplay"
+    hashtags: "#hairgoals, #bluemoonpalette, #halloween2019, #sanantoniomua"
+  - username: "jordanreeh"
     fullname: >-
-      𝑀𝒶𝒹𝒹𝒾𝑒 𝑀𝒶𝓈𝑜𝓃💋
+      Southern Stilettos
     location: "United States"
-    followers: 14423
-    engagement: 504
-    commentsToLikes: 0.062740
-    id: ck6ui5ku0d76g0j71ea21muiy
+    followers: 18815
+    engagement: 303
+    commentsToLikes: 0.201553
+    id: ck14hr6tmbpxw0i193aepha4x
     verified: false
-    hashtags: "#wonderchamber, #coronavir, #quarantineandchill, #shillouette"
+    hashtags: "#corporatestyle, #babyonboard, #sahairstylist, #localbusiness"
+  - username: "laurynlately"
+    fullname: >-
+      Lauryn Henry
+    location: "United States"
+    followers: 15186
+    engagement: 682
+    commentsToLikes: 0.297194
+    id: ck5zxuutd8pgk0i14b89ayddp
+    verified: false
+    hashtags: "#maxiskirt, #reddress, #sanantonio, #shopsmall"
+  - username: "styledbynellikal"
+    fullname: >-
+      Nelli Kalinyuk
+    location: "United States"
+    followers: 17250
+    engagement: 238
+    commentsToLikes: 0.133083
+    id: ck8tbhanovo7u0j788he7trhd
+    verified: false
+    hashtags: "#mydsw, #thewoodlands, #florals, #leopardbag"
 ---

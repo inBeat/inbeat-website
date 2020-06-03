@@ -1,87 +1,107 @@
 ---
 title: Top 10 Crafts And Diy Instagram Influencers In United States In 2020
 description: >-
-  Find top crafts and diy Instagram influencers in United States in 2020. Most popular hashtags: #diy #crafts #homedecor #craft.
+  Find top crafts and diy Instagram influencers in United States in 2020. Most popular hashtags: #diyproject #crafts #diydecor #handmade.
 platform: Instagram
 profiles:
-  - username: "mythreewonders"
-    fullname: >-
-      deb
-    location: "United States"
-    followers: 25404
-    engagement: 297
-    commentsToLikes: 0.093896
-    id: ck0w5ra4h51pf0i19z872yayp
-    verified: false
-    hashtags: "#brmonamazon, #springbreak2020, #rockymountaindecals, #friyay"
   - username: "ocvintagecharm"
     fullname: >-
       Tiffany Hayter
     location: "United States"
-    followers: 29328
-    engagement: 223
-    commentsToLikes: 0.177357
+    followers: 36477
+    engagement: 342
+    commentsToLikes: 0.233369
     id: ck0w5833k2cxc0i191jctung4
     verified: false
-    hashtags: "#diycookiekits, #easterproject, #inspiration, #cricutwriteablevinyl"
-  - username: "goodmorningart"
+    hashtags: "#cordlessgluegun, #canvas, #craftinfluencer, #kidsparty"
+  - username: "myfourwonders"
     fullname: >-
-      🌞 Goodmorningart "Gallery"
+      deb
     location: "United States"
-    followers: 388821
-    engagement: 68
-    commentsToLikes: 0.010519
-    id: ck0w4gbzmyfj00i19db6ilfu9
+    followers: 28148
+    engagement: 308
+    commentsToLikes: 0.129649
+    id: ck0w5ra4h51pf0i19z872yayp
     verified: false
-    hashtags: "#island, #cute, #artist, #decor"
-  - username: "tiffboni"
+    hashtags: "#momminainteasy, #dockatot, #alittleboredoverhere, #riffraffminime"
+  - username: "hellosweethome"
     fullname: >-
-      Tiffany Huba Bonilla
+      S a n d r a
     location: "United States"
-    followers: 28479
-    engagement: 744
-    commentsToLikes: 0.128926
-    id: ck5q339f0j0ds0i11so8nnyeh
+    followers: 17052
+    engagement: 204
+    commentsToLikes: 0.085420
+    id: ck55q8ni1c5lj0i110lhu8j7y
     verified: false
-    hashtags: "#genderreveal, #apostolichair, #modeststyle, #wood"
-  - username: "neverskipbrunch"
+    hashtags: "#family, #buonjorno, #mothersdaygift, #daisydiy"
+  - username: "annupton.art"
     fullname: >-
-      CARA NEWHART🥂 Home + DIY
+      Love+Aloha Art
     location: "United States"
-    followers: 30906
-    engagement: 172
-    commentsToLikes: 0.152584
-    id: ck5zm0elwloll0i14gv3khmyt
+    followers: 188091
+    engagement: 141
+    commentsToLikes: 0.032346
+    id: ck1363zfv4nl10i19kdawqq2s
     verified: false
-    hashtags: "#interiordesign, #remodeling, #bohodecor, #diyhomedecor"
-  - username: "vickiehowell"
+    hashtags: "#diamond, #sandybeach, #birdwatching, #createdaily"
+  - username: "tastycharms"
     fullname: >-
-      Vickie Howell
+      Tasty Charms
     location: "United States"
-    followers: 29102
-    engagement: 119
-    commentsToLikes: 0.026330
-    id: ck5bwsa7qmbfo0i11y24gu3wt
+    followers: 412266
+    engagement: 351
+    commentsToLikes: 0.005476
+    id: ck8t5o4uoao3d0j78nkz7k02e
     verified: false
-    hashtags: "#yarnyayunboxing, #knitkit, #lucet, #catsofinstagram"
-  - username: "gelliarts"
+    hashtags: "#happy, #tutorials, #instagood, #diyblogger"
+  - username: "meaghanmakes"
     fullname: >-
-      Gelli Arts®
+      Meaghan | Cricut Crafts | DIY
     location: "United States"
-    followers: 37694
-    engagement: 118
-    commentsToLikes: 0.074814
-    id: ck0txvlslkmu80i19dc5gnii8
+    followers: 28774
+    engagement: 400
+    commentsToLikes: 0.217888
+    id: ck0w5848k2d4m0i19r0sbk6rj
     verified: false
-    hashtags: "#printmaker, #portraits, #artistoninstagram, #socialdistancing"
-  - username: "denizozgenc_crafts"
+    hashtags: "#creators, #getcraftey, #cricutbeginner, #sillouettecameo"
+  - username: "lovebird_heartworks"
     fullname: >-
-      DENİZ ÖZGENÇ  𝓒𝓻𝓪𝓯𝓽𝓼
+      Megan ✂️ Cricut Crafts & DIY
     location: "United States"
-    followers: 17330
-    engagement: 369
-    commentsToLikes: 0.007657
-    id: ck0vvmjhbps7m0i19pq2v8c1o
+    followers: 39860
+    engagement: 220
+    commentsToLikes: 0.414938
+    id: ck0w583ao2cz10i19ys6sa7td
     verified: false
-    hashtags: "#ganchillo, #nailsbyme, #knit, #wayuubag"
+    hashtags: "#crafterslife, #craftingtime, #givelovegetlove, #getittogether"
+  - username: "brain60s"
+    fullname: >-
+      Tricks Crafts Diy 😋🔧
+    location: "United States"
+    followers: 21253
+    engagement: 1018
+    commentsToLikes: 0.002966
+    id: ck9h9v3j0a2td0j78wlj5axyg
+    verified: false
+    hashtags: ""
+  - username: "weekendcraft"
+    fullname: >-
+      Michelle | Crafts, DIY, Cricut
+    location: "United States"
+    followers: 11244
+    engagement: 235
+    commentsToLikes: 0.169090
+    id: ck0w583on2d2e0i19zbrmx1qu
+    verified: false
+    hashtags: "#facemasks, #realitycheck, #diyfirepit, #grillmaster"
+  - username: "itscraftstime"
+    fullname: >-
+      DAILY CRAFTS & DIY 💡
+    location: "United States"
+    followers: 56392
+    engagement: 527
+    commentsToLikes: 0.008989
+    id: ck9has571dvji0j78lbxadret
+    verified: false
+    hashtags: "#masks, #tiktokvideos, #foryou, #helado"
 ---

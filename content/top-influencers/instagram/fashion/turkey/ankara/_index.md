@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Ankara In 2020
 description: >-
-  Find top fashion Instagram influencers in Ankara in 2020. Most popular hashtags: #fashion #photooftheday #turkey #ankara.
+  Find top fashion Instagram influencers in Ankara in 2020. Most popular hashtags: #fashion #evdekal #blogger #evdekalt.
 platform: Instagram
 profiles:
-  - username: "mervekayamua"
+  - username: "tugcedemirlsblog"
     fullname: >-
-      Merve Kaya
+      Tugce DEMİRAL Blog
     location: "Turkey"
-    followers: 13515
-    engagement: 1050
-    commentsToLikes: 0.099150
-    id: ck15uk3c3nkem0i19w2h45smx
+    followers: 31693
+    engagement: 304
+    commentsToLikes: 0.026123
+    id: ck8tbm7r0w7iy0j783rvzy3g2
     verified: false
-    hashtags: "#fashioninspo, #aile, #instafashion, #physiciansformula"
-  - username: "mesutunmertinannesi"
+    hashtags: "#beymen, #koku, #follow4like, #dustcleaner"
+  - username: "devrim.erbil"
     fullname: >-
-      Selver Güneş🌸iğne oyası 💐
+      Devrim Erbil
     location: "Turkey"
-    followers: 2731
-    engagement: 3292
-    commentsToLikes: 0.104176
-    id: ck8tdslgh4mb30j787h7vpijn
-    verified: false
-    hashtags: "#miyuki, #evdekalt, #madamcoco, #yazmamodelleri"
-  - username: "nabeelalasmer"
+    followers: 34465
+    engagement: 349
+    commentsToLikes: 0.028919
+    id: ck5c85sgy8tug0i113furycpo
+    verified: true
+    hashtags: "#edebiyat, #abstraction, #melody, #fest"
+  - username: "tugcee_blcn"
     fullname: >-
-      Nabeel Alasmer
+      Tugce Durdu Balçın 💗
     location: "Turkey"
-    followers: 32000
-    engagement: 102
-    commentsToLikes: 0.025428
-    id: ck5zt326hzngs0i14tqcv00g1
+    followers: 12632
+    engagement: 944
+    commentsToLikes: 0.069808
+    id: ck13aj8h4qn0v0i19u8haxv8h
     verified: false
-    hashtags: "#photo, #photographysouls, #gloss, #mascara"
+    hashtags: "#decoration, #23nisan, #penti, #instablogger"
   - username: "semihkiriss"
     fullname: >-
       Semih Kiriş
     location: "Turkey"
-    followers: 5726
-    engagement: 2811
-    commentsToLikes: 0.050638
+    followers: 3705
+    engagement: 4212
+    commentsToLikes: 0.056160
     id: ck0vwrsadva720i19yj0j4nc5
     verified: false
-    hashtags: "#halla, #history, #clocktower, #kayak"
+    hashtags: "#bandirma, #cinali, #cittaslow, #ancientcities"
+  - username: "f.busrattt"
+    fullname: >-
+      B Ü Ş R A N U R
+    location: "Turkey"
+    followers: 146552
+    engagement: 182
+    commentsToLikes: 0.009904
+    id: ck0vwv0movqdo0i1909z5opti
+    verified: false
+    hashtags: "#ho, #ramazan, #evdekalt, #evdekal"
+  - username: "nabeelalasmer"
+    fullname: >-
+      Nabeel Alasmer
+    location: "Turkey"
+    followers: 33273
+    engagement: 109
+    commentsToLikes: 0.030890
+    id: ck5zt326hzngs0i14tqcv00g1
+    verified: false
+    hashtags: ""
+  - username: "mountain_ash22"
+    fullname: >-
+      Aishwarya Dhavale
+    location: "Turkey"
+    followers: 72806
+    engagement: 350
+    commentsToLikes: 0.020703
+    id: ck601q6xpfyp10i14qb8h309n
+    verified: false
+    hashtags: "#trekking, #meditate, #wilderness, #youtuber"
   - username: "najmmohammadi"
     fullname: >-
       Najm Mohammadi
     location: "Turkey"
-    followers: 9811
-    engagement: 1571
-    commentsToLikes: 0.055070
+    followers: 10124
+    engagement: 1577
+    commentsToLikes: 0.056373
     id: ck5c8dp0m99fe0i11etkdgpg0
     verified: false
-    hashtags: "#frenchbulldog, #lifecoach, #fashiontv, #fashionista"
-  - username: "ervaervaa_"
+    hashtags: "#edgymemes, #angel, #birthday, #jalal"
+  - username: "betuulle"
     fullname: >-
-      Erva 🍭
+      Betül 💫💫
     location: "Turkey"
-    followers: 16180
-    engagement: 542
-    commentsToLikes: 0.066537
-    id: ck15rk21s8azl0i195rp257g2
+    followers: 5245
+    engagement: 1335
+    commentsToLikes: 0.100129
+    id: ck8tagdvzrn200j78yifuxvzl
     verified: false
-    hashtags: "#food, #beauty, #ankara, #islandlife"
-  - username: "serpilbzkurtt"
+    hashtags: "#shoes, #beautiful, #likemephoto, #quarantinedays"
+  - username: "mervekayamua"
     fullname: >-
-      Serpil Küçükay Bozkurt
+      Merve Kaya
     location: "Turkey"
-    followers: 44948
-    engagement: 247
-    commentsToLikes: 0.084352
-    id: ck8t4upel7zex0j78clkcijws
+    followers: 14572
+    engagement: 1006
+    commentsToLikes: 0.138482
+    id: ck15uk3c3nkem0i19w2h45smx
     verified: false
-    hashtags: "#istanbul, #evdehayatvar, #southafrica, #karantinag"
-  - username: "ozgeeeunal"
-    fullname: >-
-      Özge Ünal ♥
-    location: "Turkey"
-    followers: 9314
-    engagement: 1171
-    commentsToLikes: 0.009796
-    id: ck13a3ke0ogfy0i19fo5jidml
-    verified: false
-    hashtags: "#tagsforhearts, #kbayessal, #instaturkiye, #turkishfollowers"
-  - username: "zuleyhakuru"
-    fullname: >-
-      Zuleyha Kuru
-    location: "Turkey"
-    followers: 282184
-    engagement: 68
-    commentsToLikes: 0.008835
-    id: ck6u2485mpm9f0j71v6fpwt9y
-    verified: false
-    hashtags: "#hautecouturedress, #style, #fashiondesigner, #wedding"
-  - username: "frt.slymn"
-    fullname: >-
-      Süleyman FIRAT
-    location: "Turkey"
-    followers: 3274
-    engagement: 1703
-    commentsToLikes: 0.054787
-    id: ck8t95f5gmy5x0j78176lug1d
-    verified: false
-    hashtags: "#covid, #drfahrettinkoca, #liketime, #cocuk"
+    hashtags: "#kryolan, #fashionmom, #turkishblogger, #narssisist"
 ---

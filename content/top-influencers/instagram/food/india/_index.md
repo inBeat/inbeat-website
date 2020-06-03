@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In India In 2020
 description: >-
-  Find top food Instagram influencers in India in 2020. Most popular hashtags: #fashionblogger #instagood #love #instadaily.
+  Find top food Instagram influencers in India in 2020. Most popular hashtags: #instadaily #delhi #beachvibes #beachlife.
 platform: Instagram
 profiles:
+  - username: "x_markzian"
+    fullname: >-
+      irshad mohammed ♞【 Z.X 】
+    location: "India"
+    followers: 2384
+    engagement: 3265
+    commentsToLikes: 0.214148
+    id: ck9wfd8rkocij0j789skl4nk0
+    verified: false
+    hashtags: "#kali, #instagramnyc, #sparkleteam, #keralagallery"
   - username: "thebeautycape"
     fullname: >-
       Anjali Soni | Jaipur Blogger
     location: "India"
-    followers: 8450
-    engagement: 1536
-    commentsToLikes: 0.134917
+    followers: 9313
+    engagement: 1510
+    commentsToLikes: 0.105464
     id: ck8t7j0sqgzle0j78l7n9t8w2
     verified: false
-    hashtags: "#fashioninspo, #bulbulshoplive, #paysafeindia, #fashiontrends"
-  - username: "majestic_mum"
-    fullname: >-
-      Riya Mitra | Kolkata Blogger
-    location: "India"
-    followers: 3108
-    engagement: 2172
-    commentsToLikes: 0.124170
-    id: ck8t73p31fjin0j78bzz43v9g
-    verified: false
-    hashtags: "#coronagoaway, #chalubhaluz, #onemoment, #stayhealthy"
+    hashtags: "#staysafe20mch, #worldsleepday, #digitalfoody, #fashioninspo"
   - username: "aasthachaudhary"
     fullname: >-
-      Aastha chaudhary
+      GO CORONA GO
     location: "India"
-    followers: 6142
-    engagement: 1848
-    commentsToLikes: 0.062805
+    followers: 7725
+    engagement: 1845
+    commentsToLikes: 0.066863
     id: ck8t4gs3s6rdl0j78uazsze5f
     verified: false
-    hashtags: "#colorful, #portrait, #smilemore, #festivalofcolors"
-  - username: "radhasrevolution"
+    hashtags: "#smilemore, #poetry, #rajasthaniculture, #unitedathome"
+  - username: "glamup_with_ankita"
     fullname: >-
-      Radha Shah
+      ANKITA  MAJUMDAR👸💕| Influencer
     location: "India"
-    followers: 38446
-    engagement: 366
-    commentsToLikes: 0.258042
-    id: ck5cargq3dzju0i118j7fjm4a
+    followers: 43970
+    engagement: 588
+    commentsToLikes: 0.059201
+    id: ck15rkzh18fpd0i190jz9h26t
     verified: false
-    hashtags: "#d1milano, #d1milanogirls"
-  - username: "travelwithsearats"
+    hashtags: "#photo, #streets, #street, #igcalcutta"
+  - username: "wanderwithabi"
     fullname: >-
-      Travel & Adventure 🐭 Searats
+      Abi ☀️ Tamil YouTuber 🔥
     location: "India"
-    followers: 43396
-    engagement: 785
-    commentsToLikes: 0.028060
-    id: ck0twjo2wfolw0i19shmpisfp
+    followers: 6833
+    engagement: 1656
+    commentsToLikes: 0.058676
+    id: ck8t7b9q6g6zs0j78b48ftgtk
     verified: false
-    hashtags: "#indiangirlstravel, #potrait, #aovpotraits, #neilisland"
-  - username: "nidhipatil28"
+    hashtags: "#polaris, #ride, #photography, #britishbungalow"
+  - username: "bhoomee_17"
     fullname: >-
-      Nidhi Patil
+      Bhoomi Panchal | Blogger
     location: "India"
-    followers: 2416
-    engagement: 1605
-    commentsToLikes: 0.158414
-    id: ck8t363ny20xm0j784eqysyo4
+    followers: 6444
+    engagement: 1117
+    commentsToLikes: 0.091541
+    id: ck9wf9wminw340j78yoyxpk37
     verified: false
-    hashtags: "#marathinath, #traditionalwear, #marathitradition, #stayhomestaysafe"
-  - username: "zaveri_dhaval"
+    hashtags: "#ngtindia, #sajjangarh, #instadaily, #sheisnotlost"
+  - username: "psycho__payyan"
     fullname: >-
-      Dhaval Zaveri
+      psycho__payyan
     location: "India"
-    followers: 33958
-    engagement: 344
-    commentsToLikes: 0.081391
-    id: ck8tc5m6jyd1v0j787w66w34t
+    followers: 3296
+    engagement: 1929
+    commentsToLikes: 0.266225
+    id: ck9wgp0bvucaa0j78s1qr1cx1
     verified: false
-    hashtags: "#dhavalzaveri, #promises, #financialplanning, #dz"
-  - username: "akankshaj_"
+    hashtags: "#takipc, #fenerbahc"
+  - username: "shenu_ts"
     fullname: >-
-      Akankक्षा | Influencer
+      Abu Shanahulla Ts
     location: "India"
-    followers: 59881
-    engagement: 539
-    commentsToLikes: 0.042163
-    id: ck0w2l0gjow1k0i19fwr2f47h
+    followers: 17904
+    engagement: 669
+    commentsToLikes: 0.222863
+    id: ckaoz8duxktkp0i78iwhu2ulu
     verified: false
-    hashtags: "#blackandwhite, #hampidiaries, #gateway, #cute"
-  - username: "shreyabond"
+    hashtags: ""
+  - username: "sana_dutta_"
     fullname: >-
-      Travel the World In Style
+      🌹 Sana 🌹
     location: "India"
-    followers: 11985
-    engagement: 715
-    commentsToLikes: 0.065451
-    id: ck0ue2luqke8w0i197ibqzjou
+    followers: 2750
+    engagement: 1854
+    commentsToLikes: 0.143124
+    id: ckaos27yfptpd0i78kx6vs5lc
     verified: false
-    hashtags: "#srilankainstyle, #lisbon, #everydaystyle, #staystrong"
-  - username: "asmitarora"
+    hashtags: "#goal, #sketchart, #redcolor, #indianculture"
+  - username: "_.j_a_y_u._"
     fullname: >-
-      Asmita arora🅰️ Fitness&Fashion
+      j@y£sh_ñîñãmā
     location: "India"
-    followers: 403231
-    engagement: 235
-    commentsToLikes: 0.043048
-    id: ck6uawpgw63z80j711hz6tggn
+    followers: 16120
+    engagement: 1049
+    commentsToLikes: 0.074527
+    id: ck9hai58gcn5b0j78cbi63a35
     verified: false
-    hashtags: "#stayhomechallenge, #bepositive, #style, #sisterlove"
+    hashtags: ""
 ---

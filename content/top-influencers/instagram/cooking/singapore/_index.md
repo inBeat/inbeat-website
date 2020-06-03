@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Singapore In 2020
 description: >-
-  Find top cooking Instagram influencers in Singapore in 2020. Most popular hashtags: #sgig #sgunited #sgfood #homecooked.
+  Find top cooking Instagram influencers in Singapore in 2020. Most popular hashtags: #cooking #mothersday #foodie #staysafe.
 platform: Instagram
 profiles:
   - username: "jjkatherine"
     fullname: >-
       Katherine Tan
     location: "Singapore"
-    followers: 34035
-    engagement: 159
-    commentsToLikes: 0.212778
+    followers: 37787
+    engagement: 183
+    commentsToLikes: 0.150812
     id: ck5zkb3dwj5f40i14v96ewal9
     verified: false
-    hashtags: "#foodgram, #banana, #dalgona, #cooking"
+    hashtags: "#homecooking, #hamcheese, #freshlove, #bbqporkribs"
   - username: "_mrschia_"
     fullname: >-
       Cynthia Tee
     location: "Singapore"
-    followers: 7050
-    engagement: 754
-    commentsToLikes: 0.930020
+    followers: 7260
+    engagement: 546
+    commentsToLikes: 0.514206
     id: ck5zlpshzl5qy0i14ewhorinm
     verified: false
-    hashtags: "#breastfeedingmom, #momstyle, #marriedcouple, #bepresent"
+    hashtags: "#unwind, #sgeat, #reusing, #babyblanket"
+  - username: "aiyoyochenliping"
+    fullname: >-
+      陳莉萍 Chen Liping
+    location: "Singapore"
+    followers: 54721
+    engagement: 332
+    commentsToLikes: 0.038361
+    id: ck13d6jw43xah0i19ztti8u4l
+    verified: true
+    hashtags: "#ch8sg, #repost, #tgif, #careforyoureyes"
+  - username: "annikasager"
+    fullname: >-
+      ANNIKA XUE SAGER 小雪
+    location: "Singapore"
+    followers: 5998
+    engagement: 859
+    commentsToLikes: 0.053379
+    id: ck8t1owlrwhgc0j78x66q0oxn
+    verified: false
+    hashtags: "#20thbirthday, #thailand, #towel, #exercise"
   - username: "you_yi"
     fullname: >-
       Youyi 林有懿 🌍
     location: "Singapore"
-    followers: 38161
-    engagement: 187
-    commentsToLikes: 0.057543
+    followers: 39470
+    engagement: 218
+    commentsToLikes: 0.072418
     id: ck136vz088ik10i19i0ulxwu4
     verified: true
-    hashtags: "#growthmindset, #facebooklive, #sgwedding, #wedding"
+    hashtags: "#motivating, #transformation, #cooking, #stayhomeforsg"
+  - username: "bakeomaniac"
+    fullname: >-
+      Bakeomaniac
+    location: "Singapore"
+    followers: 9120
+    engagement: 1062
+    commentsToLikes: 0.119495
+    id: ck9hbizu1h1ma0j78rs1y5yha
+    verified: false
+    hashtags: "#wholemeal, #chickensoup, #darkchocolate, #pastrychef"
+  - username: "jo.wonder"
+    fullname: >-
+      JoWonder
+    location: "Singapore"
+    followers: 7809
+    engagement: 1014
+    commentsToLikes: 0.088155
+    id: ck8tawwj4tes70j78qxxfvlho
+    verified: false
+    hashtags: "#durianmacarons, #peanutbutter, #planting, #momo"
+  - username: "benyeo23"
+    fullname: >-
+      Ben Yeo Official
+    location: "Singapore"
+    followers: 80878
+    engagement: 157
+    commentsToLikes: 0.053999
+    id: ck6tjmust30uv0j71u8f80pfs
+    verified: true
+    hashtags: "#stayhomecookoff, #happybirthday, #chickenstew, #cheecheongfun"
+  - username: "agalyah_maniam"
+    fullname: >-
+      Agalyah Maniam
+    location: "Singapore"
+    followers: 96374
+    engagement: 861
+    commentsToLikes: 0.008993
+    id: ck0w3gh02t9zj0i19y6o7mvdf
+    verified: false
+    hashtags: "#tamilnewyear, #gratitude, #foodisbae, #ootd"
   - username: "sugar73"
     fullname: >-
       ELAINE🦄 SG Mummy Of 2
     location: "Singapore"
-    followers: 16317
-    engagement: 241
-    commentsToLikes: 0.760003
+    followers: 16851
+    engagement: 219
+    commentsToLikes: 0.464518
     id: ck5hivwhffk4c0i11ezduhnrk
     verified: false
-    hashtags: "#sgmummycooks, #homecookingsg, #latergram, #babiesofinstagram"
-  - username: "aromacookery"
-    fullname: >-
-      Julia Khoo
-    location: "Singapore"
-    followers: 28894
-    engagement: 323
-    commentsToLikes: 0.026640
-    id: ck8tawqjtte1u0j78jdpumcqh
-    verified: false
-    hashtags: "#stayhomesg, #fishcake, #prawnomelette, #saturdaydinner"
-  - username: "chef_julien"
-    fullname: >-
-      Julien Royer
-    location: "Singapore"
-    followers: 40035
-    engagement: 240
-    commentsToLikes: 0.017525
-    id: ck0u1v6tsy3hv0i194osegju0
-    verified: false
-    hashtags: "#cuisinefran, #michelinguide, #faim, #sharingiscaring"
-  - username: "rituphogat48"
-    fullname: >-
-      “THE INDIAN TIGRESS”
-    location: "Singapore"
-    followers: 248537
-    engagement: 526
-    commentsToLikes: 0.007548
-    id: ck14j7lpviyc80i19cnyzrcov
-    verified: true
-    hashtags: "#letsfight, #takingcare, #besafe, #myidols"
-  - username: "wensdelight"
-    fullname: >-
-      Wendy Han
-    location: "Singapore"
-    followers: 37632
-    engagement: 134
-    commentsToLikes: 0.016929
-    id: ck6ugwha65kyy0j71ivhtis49
-    verified: false
-    hashtags: "#easytocook, #fightcovid19, #finecrumbs, #oldschoolporkchop"
-  - username: "foodilicious_diva"
-    fullname: >-
-      Foodilicious Singapore
-    location: "Singapore"
-    followers: 8065
-    engagement: 435
-    commentsToLikes: 0.120134
-    id: ck8tawwsotetg0j78mfxpc1qf
-    verified: false
-    hashtags: "#milkshakes, #igsg, #exploreflavours, #bbcgoodfood"
-  - username: "jshraddhagaurav"
-    fullname: >-
-      Life_is_beYOUtiful
-    location: "Singapore"
-    followers: 3472
-    engagement: 925
-    commentsToLikes: 0.424985
-    id: ck0w1hlyvje1a0i19cmpk4ec9
-    verified: false
-    hashtags: "#positivequote, #mumbaifoodies, #rice, #blooming"
+    hashtags: "#beautysg, #laksa, #teaathome, #fooddelivery"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top architecture Instagram influencers in San Francisco in 2020. Most popular hashtags: #sanfrancisco #architecture #california #travel.
+  Find top architecture Instagram influencers in San Francisco in 2020. Most popular hashtags: #architecture #sanfrancisco #cityscape #palmtrees.
 platform: Instagram
 profiles:
-  - username: "thesanfrancisco"
+  - username: "pabloruben_watercolors"
     fullname: >-
-      
+      Pablo Rubén
     location: "United States"
-    followers: 56586
-    engagement: 474
-    commentsToLikes: 0.008771
-    id: ck0w3w9qsvlv90i193rewecpf
+    followers: 28960
+    engagement: 423
+    commentsToLikes: 0.055383
+    id: ck0uaxg0ede0j0i19rme8tcec
     verified: false
-    hashtags: "#landscapephotography, #superbowlliv, #influencer, #naturalcalifornia"
+    hashtags: "#sailing, #botanico, #tejoriver, #terrace"
   - username: "emlee7"
     fullname: >-
       Emma Lee | Fashion designer
     location: "United States"
-    followers: 28280
-    engagement: 205
-    commentsToLikes: 0.028564
+    followers: 28243
+    engagement: 237
+    commentsToLikes: 0.028480
     id: ck0txpr0hk27v0i19a4rpfpv4
     verified: false
-    hashtags: "#lifewelltravelled, #architectureporn, #emma, #exploremore"
-  - username: "travisskyver"
+    hashtags: "#buildingstyles, #androgynous, #thatsdarling, #love"
+  - username: "allentaylorjr"
     fullname: >-
-      Travis Skyver️️️, MS 🥀
+      Allen Taylor
     location: "United States"
-    followers: 12269
-    engagement: 1329
-    commentsToLikes: 0.037781
-    id: ck5cdku2cjc580i11s9l7j78z
+    followers: 23497
+    engagement: 250
+    commentsToLikes: 0.017965
+    id: ck6tj0uxg1sx90j71kjgvox5z
     verified: false
-    hashtags: "#newmusic, #ilovethai, #prideweekend, #redcarpet"
-  - username: "jrisorto"
+    hashtags: "#lucidmattress, #ronin, #sanfrancisco, #architecture"
+  - username: "uofcalifornia"
     fullname: >-
-      Jason Risorto
+      University of California
     location: "United States"
-    followers: 17477
-    engagement: 820
-    commentsToLikes: 0.024222
-    id: ck5cjv5i6vkd10i1137ak3ze5
+    followers: 64610
+    engagement: 180
+    commentsToLikes: 0.005797
+    id: ck0tvqnw7cfv80i199rlrxdl4
     verified: false
-    hashtags: "#nycprimeshot, #nycdotgram, #wildnewyork, #fujifilmx"
-  - username: "sanfrancisco.city"
+    hashtags: "#lake, #santabarbara, #santacruzlife, #lights"
+  - username: "francescoobi"
     fullname: >-
-      🌉Sᴀɴ Fʀᴀɴᴄɪsᴄᴏ Cɪᴛʏ 🌉
+      Francesco Sghirripa
     location: "United States"
-    followers: 176317
-    engagement: 219
-    commentsToLikes: 0.011730
-    id: ck0u1bd62wezl0i193tx9gq19
+    followers: 15016
+    engagement: 52
+    commentsToLikes: 0.016720
+    id: ck15ug949n1eh0i19n9vvg5q4
     verified: false
-    hashtags: "#abc7eyewitness, #bostoncommon, #usaprimeshot, #bayarea"
-  - username: "darrenasay"
+    hashtags: "#photographs, #sunday, #tsherinsherpa, #keithharing"
+  - username: "bobtakespics"
     fullname: >-
-      Darren Asay
+      BobTakesPics
     location: "United States"
-    followers: 18958
-    engagement: 312
-    commentsToLikes: 0.045429
-    id: ck5bx8v8hn8h60i11b70a6g2d
+    followers: 8470
+    engagement: 1457
+    commentsToLikes: 0.097750
+    id: ck0twg2zvf7vr0i191p7gxrb8
     verified: false
-    hashtags: "#cannondale, #modernism, #darrenasayphotography, #cody"
+    hashtags: "#cosplaygirls, #visitslo, #tokyolights, #jumpingpic"
+  - username: "lakehavencottage"
+    fullname: >-
+      Sheila | Cottage Farmhouse
+    location: "United States"
+    followers: 9148
+    engagement: 1194
+    commentsToLikes: 0.142913
+    id: ck14kww34rq6j0i19kfzpnj0p
+    verified: false
+    hashtags: "#hallwaydecor, #designinspo, #roominspiration, #grandprincess"
+  - username: "thiswildtime"
+    fullname: >-
+      Jake Cassar
+    location: "United States"
+    followers: 3219
+    engagement: 1682
+    commentsToLikes: 0.139118
+    id: ck6u0zifzinzq0j714awwf86u
+    verified: false
+    hashtags: "#spendwiththem, #berlin, #visitcopenhagen, #authenticki"
   - username: "marmolradziner"
     fullname: >-
       Marmol Radziner
     location: "United States"
-    followers: 35745
+    followers: 37800
     engagement: 365
-    commentsToLikes: 0.017044
+    commentsToLikes: 0.017445
     id: ck0tzxsqwrwq70i19shh9oyx5
     verified: false
-    hashtags: "#openkitchen, #marmolradzinerlandscape, #ranchhouse, #2020ad100"
-  - username: "olly.yung"
+    hashtags: "#chromasf, #marmolradzinerlandscape, #hawaiiarchitecture, #sullivancanyon"
+  - username: "the_mt_gallery"
     fullname: >-
-      Olly Yung
+      𝕄att 𝕋
     location: "United States"
-    followers: 3215
-    engagement: 978
-    commentsToLikes: 0.115009
-    id: ck0tvs4jocmsw0i19qcakjjio
+    followers: 7745
+    engagement: 754
+    commentsToLikes: 0.029617
+    id: ck5hgcxk524sg0i11zjfzy98g
     verified: false
-    hashtags: "#makeportraitsmag, #portraitsmood, #ollyyungphoto, #portraits"
-  - username: "kristywicks"
-    fullname: >-
-      KRISTY • WICKS
-    location: "United States"
-    followers: 403301
-    engagement: 289
-    commentsToLikes: 0.042973
-    id: ck0u0jg9atyqy0i19dm88fu8d
-    verified: false
-    hashtags: "#freshfood, #adoptdontshop, #realtalk, #summernights"
-  - username: "sf_daily_photo"
-    fullname: >-
-      
-    location: "United States"
-    followers: 34642
-    engagement: 518
-    commentsToLikes: 0.036938
-    id: ck0ue1qbmkad50i1992yxitjb
-    verified: false
-    hashtags: "#sfforever, #cutehouse, #archi, #smilehouse"
+    hashtags: "#marincounty, #dtla, #folkscenery, #thepointsguy"
 ---

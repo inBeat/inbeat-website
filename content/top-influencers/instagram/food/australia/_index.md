@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In Australia In 2020
 description: >-
-  Find top food Instagram influencers in Australia in 2020. Most popular hashtags: #quarantine #moroccotravel #australia #fashion.
+  Find top food Instagram influencers in Australia in 2020. Most popular hashtags: #czechrepublic #pancakes #christmas #sydneyharbour.
 platform: Instagram
 profiles:
   - username: "kellympreston"
     fullname: >-
       Kelly Preston
     location: "Australia"
-    followers: 136567
-    engagement: 683
-    commentsToLikes: 0.046459
+    followers: 139619
+    engagement: 582
+    commentsToLikes: 0.049889
     id: ck0u1bzaxwhw00i199j4biujl
     verified: false
-    hashtags: "#fitness, #freshface, #blueeyes, #styleinspo"
-  - username: "kingy.eatz"
+    hashtags: "#humour, #makeuplooks, #girlgoals, #fashionideas"
+  - username: "always_vacay"
     fullname: >-
-      ♛ Kingy | Sydney Foodie 🇦🇺
+      Hanie
     location: "Australia"
-    followers: 6805
-    engagement: 870
-    commentsToLikes: 0.234861
-    id: ck5bt963kfk0k0i11opfs8yka
+    followers: 5397
+    engagement: 1398
+    commentsToLikes: 0.159418
+    id: ck9hcf488l36u0j78yshwu4bh
     verified: false
-    hashtags: "#baskinrobbinsaustralia, #teamvillain, #baskinrobbins, #mint"
-  - username: "_rash.me_"
+    hashtags: "#praguestagram, #bluemountain, #praguecity, #travelaustralia"
+  - username: "ootdstylistaa"
     fullname: >-
-      Rashmi 🦄
+      Nisha 🙋🏻‍♀️💁🏻‍♀️🙆🏻‍♀️🤷🏻‍♀️
     location: "Australia"
-    followers: 8171
-    engagement: 1931
-    commentsToLikes: 0.035381
-    id: ck8tasjq9svsv0j78tu2l5lhs
+    followers: 19120
+    engagement: 545
+    commentsToLikes: 0.130808
+    id: ckaot5lgvuh960i78yh489cri
     verified: false
-    hashtags: "#newyearsinmelbourne, #aboutlastnight, #howbeautifulisthat, #naturelovers"
-  - username: "daniishifman"
+    hashtags: "#brisbanelife, #purifyandvolume, #perthfashion, #sydneytravelog"
+  - username: "ateaspoonofstyle"
     fullname: >-
-      #stayhome | Travel | Lifestyle
+      Tanaka Tarou
     location: "Australia"
-    followers: 18352
-    engagement: 346
-    commentsToLikes: 0.175800
-    id: ck5hr0mbiu1z10i11l5bfipe8
+    followers: 18098
+    engagement: 379
+    commentsToLikes: 0.162591
+    id: ck15seuspcnp30i19ut0843ge
     verified: false
-    hashtags: "#melbourneblogger, #londonbloggers, #ootdmagazine, #selfisolation"
+    hashtags: "#visitnsw, #foodphotography, #imonaboat, #leapdaychipday"
   - username: "xlilysaffronx"
     fullname: >-
       ✖️ L I L Y   S A F F R O N ✖️
     location: "Australia"
-    followers: 33815
-    engagement: 380
-    commentsToLikes: 0.048377
+    followers: 38476
+    engagement: 407
+    commentsToLikes: 0.049281
     id: ck55k9cy6yshb0i11p0pipgap
     verified: false
-    hashtags: "#isolatedtogether"
-  - username: "weitingashley"
+    hashtags: "#somethingnew, #somethingnewchallenge, #nudes, #dontrushchallenge"
+  - username: "therealsimonemarie"
     fullname: >-
-      London | Weiting | 徐為婷
+      𝒮𝒾𝓂𝑜𝓃𝑒 𝑀𝒶𝓇𝒾𝑒 ♡You Do You✨Perth
     location: "Australia"
-    followers: 23478
-    engagement: 525
-    commentsToLikes: 0.035455
-    id: ck15u5t4zljt60i19j8iy7cpp
+    followers: 42299
+    engagement: 221
+    commentsToLikes: 0.243178
+    id: ck0u2jonl00iw0i19ia56t699
     verified: false
-    hashtags: "#lake, #vegasvacation, #newzealandlife, #nofilterneeded"
+    hashtags: "#bargainbuy, #wannaplayagame, #smiletoday, #notmyreality"
   - username: "marianneknerr"
     fullname: >-
       🌸Marianne Knerr 🇬🇷🇦🇺
     location: "Australia"
-    followers: 195588
-    engagement: 132
-    commentsToLikes: 0.041640
+    followers: 197556
+    engagement: 162
+    commentsToLikes: 0.038053
     id: ck55q9t1ecm1d0i114ehf81jw
     verified: false
-    hashtags: "#omgmoments, #benderboo, #greece, #eurosummer"
-  - username: "jsredden8"
+    hashtags: "#benderboo, #mykonos, #bestie, #17weeks"
+  - username: "jesshosking"
     fullname: >-
-      Jack Redden
+      Jess Hosking
     location: "Australia"
-    followers: 21414
-    engagement: 1014
-    commentsToLikes: 0.010567
-    id: ck14l6n5tt4f90i19vcx9pq1d
+    followers: 15670
+    engagement: 803
+    commentsToLikes: 0.036851
+    id: ck6tqzbcjvrah0j715rgwuqng
     verified: true
-    hashtags: "#nerffanfever, #footyonthego, #spon, #dignityforall"
-  - username: "jessicagracewhalen"
+    hashtags: "#chocolatemousse, #iso, #carltonfc, #aflw"
+  - username: "stephily"
     fullname: >-
-      Jessica’s Travel Diaries 🌸📸✨
+      𝖘𝖙𝖊𝖕𝖍𝖆𝖓𝖎𝖊 𝖗𝖔𝖘𝖊 🕊
     location: "Australia"
-    followers: 18994
-    engagement: 543
-    commentsToLikes: 0.026179
-    id: ck0ucnqnmh8h90i1968t7oiwf
+    followers: 24015
+    engagement: 285
+    commentsToLikes: 0.067374
+    id: ck5hdwc5mppct0i11c8jmhn6c
     verified: false
-    hashtags: "#dreamjob, #formaldress, #fyp, #quarantine"
-  - username: "elifbeker_ifbbpro"
+    hashtags: "#luxegal, #fibreonecollab, #bodababe, #kgactive"
+  - username: "weitingashley"
     fullname: >-
-      ELIF BEKER 🌻 IFBB BIKINI PRO
+      Weiting | 徐為婷
     location: "Australia"
-    followers: 8360
-    engagement: 626
-    commentsToLikes: 0.057321
-    id: ck0w3lvl4u2ix0i19nv2p1b4s
+    followers: 24055
+    engagement: 544
+    commentsToLikes: 0.033741
+    id: ck15u5t4zljt60i19j8iy7cpp
     verified: false
-    hashtags: "#frontline"
+    hashtags: "#italytrip, #lakecomo, #unitedkingsom, #birthdaymonth"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Brazil In 2020
 description: >-
-  Find top athletes Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #brasil #bjj #stayhome.
+  Find top athletes Instagram influencers in Brazil in 2020. Most popular hashtags: #roadtotokyo #tbt #fitnessgirl #italia.
 platform: Instagram
 profiles:
+  - username: "simgeakoz"
+    fullname: >-
+      Simge Aköz
+    location: "Brazil"
+    followers: 46576
+    engagement: 3065
+    commentsToLikes: 0.190823
+    id: ckaowyx3eb2xc0i78zuyylq57
+    verified: true
+    hashtags: "#fivbclubworldchamps, #evdekalt, #roadtotokyo, #olympicqualification"
+  - username: "alinekanyo"
+    fullname: >-
+      Aline Kanyo
+    location: "Brazil"
+    followers: 39431
+    engagement: 1000
+    commentsToLikes: 0.067192
+    id: ckap968kmrbw20i78hnw2mlqs
+    verified: false
+    hashtags: "#sigsauer, #muscle, #biceps, #kimber"
+  - username: "yasnizetich"
+    fullname: >-
+      Yas Nizetich
+    location: "Brazil"
+    followers: 68568
+    engagement: 779
+    commentsToLikes: 0.046850
+    id: ck15u048jkriv0i19p0r8d6tu
+    verified: true
+    hashtags: "#sugarfree, #birthdaygirl, #cuantajuventud, #vamoqfaltapoco"
   - username: "karenranocchia"
     fullname: >-
       Karen Brandão Wellness PRO🇧🇷🇺🇸
     location: "Brazil"
-    followers: 411555
-    engagement: 356
-    commentsToLikes: 0.067737
+    followers: 409419
+    engagement: 349
+    commentsToLikes: 0.068497
     id: ck5pz3nxyz2je0i11noloqcdj
     verified: false
-    hashtags: "#integralm, #integralteam"
+    hashtags: "#integralm, #integralteam, #tbt"
   - username: "amalamjahid"
     fullname: >-
       Amal Amjahid
     location: "Brazil"
-    followers: 13724
-    engagement: 2082
-    commentsToLikes: 0.025011
+    followers: 13792
+    engagement: 2001
+    commentsToLikes: 0.024573
     id: ck6tr0au5vzz30j718ezhptg2
     verified: false
-    hashtags: "#restezchezvous, #mfwb, #beactive, #merrychristmas"
+    hashtags: "#instagram, #mfwb, #fijlkam, #beactive"
   - username: "felipegabrieldsx"
     fullname: >-
-      🇧🇷🇱🇻🇱🇹Felipe Gabriel
+      Felipe Gabriel Xavier 🇧🇷🇱🇻🇱🇹
     location: "Brazil"
-    followers: 21341
-    engagement: 1200
-    commentsToLikes: 0.019762
+    followers: 21912
+    engagement: 1168
+    commentsToLikes: 0.018396
     id: ck15r0nuv5jxq0i19dmxsrp95
     verified: false
-    hashtags: "#esesmupienapuika, #patiesiviltots, #colosseum, #adidas"
-  - username: "iamjorisvangool_"
+    hashtags: "#israel, #adidas, #sovietunion, #lietuva"
+  - username: "nayanaciuro"
     fullname: >-
-      Joris van Gool
+      Nayana Ciuro
     location: "Brazil"
-    followers: 2739
-    engagement: 1959
-    commentsToLikes: 0.071325
-    id: ck0tz3sgwp2us0i19m2n5n06b
+    followers: 15361
+    engagement: 678
+    commentsToLikes: 0.061057
+    id: ckap1vn5hwcl10i787niw28a8
     verified: false
-    hashtags: "#championchips, #hometeam, #trackandfield, #training"
-  - username: "polina_rahimova"
+    hashtags: "#babando, #protein, #fitnesshome, #perna"
+  - username: "fernandoflife"
     fullname: >-
-      Polina Rahimova
+      Fernando Fernandes
     location: "Brazil"
-    followers: 21706
-    engagement: 672
-    commentsToLikes: 0.023294
-    id: ck5hk0rkehl5m0i110di0fqtd
+    followers: 458960
+    engagement: 179
+    commentsToLikes: 0.033624
+    id: ck5q12sbv8zpy0i11b4p6924d
     verified: true
-    hashtags: "#cev2019, #brazil, #nationalteam, #lovely"
-  - username: "ongod_youcan_getit"
+    hashtags: "#adi, #vencendojuntos, #tbt, #treinolivegillette"
+  - username: "dg_douglas12"
     fullname: >-
-      Jamaur J
+      Douglas Luiz
     location: "Brazil"
-    followers: 26203
-    engagement: 432
-    commentsToLikes: 0.030923
-    id: ck55muos44uqb0i11p8id18ay
-    verified: false
-    hashtags: "#quarantineandnochill, #velour, #nyc, #2019"
-  - username: "gabrielafechter"
+    followers: 270433
+    engagement: 726
+    commentsToLikes: 0.008965
+    id: ck0w2cdh4nney0i19loeaygp5
+    verified: true
+    hashtags: "#ficaemcasa, #happybirthday, #ofutebolseimporta, #eumeimporto"
+  - username: "talitatreta"
     fullname: >-
-      GABRIELA FECHTER
+      talita nogueira
     location: "Brazil"
-    followers: 24200
-    engagement: 608
-    commentsToLikes: 0.021600
-    id: ck5c28gaowr0y0i118baodgn2
-    verified: false
-    hashtags: "#womans, #riolovers, #gratidao, #campea"
-  - username: "_fale18_"
-    fullname: >-
-      Miguel Falé 🔴⚪
-    location: "Brazil"
-    followers: 3981
-    engagement: 2914
-    commentsToLikes: 0.017224
-    id: ck5zpy3rntkne0i14lig8txr7
-    verified: false
-    hashtags: "#pumaone, #newlevels, #pumafuture, #tudoporportugal"
-  - username: "saraferreirabanos"
-    fullname: >-
-      SARA FERREIRA
-    location: "Brazil"
-    followers: 21544
-    engagement: 718
-    commentsToLikes: 0.018247
-    id: ck0u95tp395f20i19oz2f1nv0
-    verified: false
-    hashtags: "#dancevideo, #art, #eusoupatinador, #mequedoencasa"
-  - username: "mila_usmia"
-    fullname: >-
-      Mila Ornelas 🌻🇧🇷
-    location: "Brazil"
-    followers: 31508
-    engagement: 95
-    commentsToLikes: 0.059381
-    id: ck6u84dsypd8y0j71wha31fud
-    verified: false
-    hashtags: "#love, #bestcompany, #miami, #truelove"
+    followers: 38931
+    engagement: 280
+    commentsToLikes: 0.055290
+    id: ck0vysvws5mhk0i19i2tmdst8
+    verified: true
+    hashtags: "#rederecord, #saudades, #mulher, #wrestling"
 ---

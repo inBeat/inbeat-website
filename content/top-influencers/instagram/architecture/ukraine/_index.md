@@ -1,107 +1,107 @@
 ---
 title: Top 10 Architecture Instagram Influencers In Ukraine In 2020
 description: >-
-  Find top architecture Instagram influencers in Ukraine in 2020. Most popular hashtags: #ukraine #architecture #kyiv #girl.
+  Find top architecture Instagram influencers in Ukraine in 2020. Most popular hashtags: #architecture #travelblog #happybirthday #fashion.
 platform: Instagram
 profiles:
   - username: "ukrainianmodernism"
     fullname: >-
       Ukrainian Modernism
     location: "Ukraine"
-    followers: 6737
-    engagement: 1073
-    commentsToLikes: 0.010633
+    followers: 14300
+    engagement: 1078
+    commentsToLikes: 0.014999
     id: ck8ta82fgqsur0j78kzq4dxdi
     verified: false
-    hashtags: ""
-  - username: "renovatio_architecture"
+    hashtags: "#sovietbusstops"
+  - username: "alexander_zhidkov_"
     fullname: >-
-      RVA
+      ALEXANDER  ZHIDKOV  ARCHITECT
     location: "Ukraine"
-    followers: 11310
-    engagement: 500
-    commentsToLikes: 0.010432
-    id: ck14gfrwx504a0i19xjkf33w1
+    followers: 17289
+    engagement: 741
+    commentsToLikes: 0.017007
+    id: ck0vx422jx1g10i191fqm0wse
     verified: false
-    hashtags: "#singapore, #uae, #thailand, #urban"
+    hashtags: ""
   - username: "svoyastudio"
     fullname: >-
       SVOYA studio
     location: "Ukraine"
-    followers: 20347
-    engagement: 234
-    commentsToLikes: 0.023611
+    followers: 21249
+    engagement: 220
+    commentsToLikes: 0.020460
     id: ck13bru9twv9d0i19v1e4w2s9
     verified: false
-    hashtags: "#decor, #interiordesign, #style, #new"
+    hashtags: "#star, #prototype, #archimatika, #bathroomdesign"
   - username: "archimatika"
     fullname: >-
       archimatika
     location: "Ukraine"
-    followers: 7048
-    engagement: 545
-    commentsToLikes: 0.003765
+    followers: 7685
+    engagement: 481
+    commentsToLikes: 0.004957
     id: ck8sxd7i9gypy0j78bn4n6p3y
     verified: false
-    hashtags: "#photoshop, #residentialrealestate, #archdaily, #archdailyawards"
-  - username: "annaantipova"
+    hashtags: "#schoolaplus, #arkitektur, #archcontest, #urbandesign"
+  - username: "annagirm"
     fullname: >-
-      A N N A   A N T I P O V A
+      A.n.n.a G.i.r Malowany 🌺
     location: "Ukraine"
-    followers: 39198
-    engagement: 159
-    commentsToLikes: 0.057407
-    id: ck15sbmelc6th0i19s9xllu5h
+    followers: 6122
+    engagement: 2006
+    commentsToLikes: 0.184386
+    id: ck0tyggvvmppp0i19v8scrgo5
     verified: false
-    hashtags: "#smallcity, #architec, #pastelhouses, #selfietime"
-  - username: "annablack.ink"
+    hashtags: "#funmoment, #sweetpotato, #sunglasses, #puppylove"
+  - username: "_yuliya_stasyuk_"
     fullname: >-
-      ☽ 𝐀𝐧𝐧𝐚 𝐁𝐥𝐚𝐜𝐤 ☽
+      Yuliya Stasyuk/Mandzii
     location: "Ukraine"
-    followers: 39937
-    engagement: 167
-    commentsToLikes: 0.019419
-    id: ck5pxg0mgrl0y0i117znfak9d
+    followers: 39495
+    engagement: 222
+    commentsToLikes: 0.070274
+    id: ck5c3m6yazlu00i118y680i72
     verified: false
-    hashtags: "#birthday, #tattoodog, #instatraveller, #makeup"
-  - username: "liana_buvaltseva"
+    hashtags: "#handinhand, #readme, #ternopiljewelry, #handmade"
+  - username: "yelizavetushka"
     fullname: >-
-      𝐋𝐢𝐚𝐧𝐚 𝐁𝐮𝐯𝐚𝐥𝐭𝐬𝐞𝐯𝐚
+      Моє золотко ❤️
     location: "Ukraine"
-    followers: 33414
-    engagement: 893
-    commentsToLikes: 0.028836
-    id: ck5c09bqmsolw0i11n4z4848o
-    verified: false
-    hashtags: "#shooting, #coffeeoftheday, #vintagestyles, #coffeebean"
-  - username: "ms.lizziee"
-    fullname: >-
-      Elisha 🌿
-    location: "Ukraine"
-    followers: 3344
-    engagement: 2039
-    commentsToLikes: 0.014506
+    followers: 5826
+    engagement: 1973
+    commentsToLikes: 0.013077
     id: ck8t3q8z742u70j78m8y5skwh
     verified: false
-    hashtags: "#april, #instablog, #medieval, #happybirthday"
-  - username: "food.kiro"
+    hashtags: "#kyivcity, #godislove, #itsme, #behappy"
+  - username: "avi___girl"
     fullname: >-
-      FOOD  PHOTO 🔥 VIDEO  UKRAINE
+      Алиса Бондарь
     location: "Ukraine"
-    followers: 8421
-    engagement: 831
-    commentsToLikes: 0.071998
-    id: ck6ttioh8atod0j71a7317qje
+    followers: 29942
+    engagement: 230
+    commentsToLikes: 0.007171
+    id: ckaozjbdvm4xv0i78ljmj0do2
     verified: false
-    hashtags: "#sweetsweat, #foodvideos, #vegano, #womenportrait"
+    hashtags: "#travel, #architecture, #loves, #blackandwhitephotography"
   - username: "iryna_popovich"
     fullname: >-
       𝙄𝙧𝙮𝙣𝙖
     location: "Ukraine"
-    followers: 2049
-    engagement: 2292
-    commentsToLikes: 0.080446
+    followers: 2104
+    engagement: 2128
+    commentsToLikes: 0.088458
     id: ck0vww0d9vuyq0i19mdag92zv
     verified: false
-    hashtags: "#storyofthestreet, #portraitperfection, #urbanstreet, #dress"
+    hashtags: "#urbanstreet, #tulipfestival, #forestflowers, #autumnlook"
+  - username: "mykulynka_"
+    fullname: >-
+      𝑀𝓎𝓀𝓊𝓁𝓎𝓃 𝒜𝓃𝒹𝓇𝒾𝒶𝓃𝒶 ♥
+    location: "Ukraine"
+    followers: 5945
+    engagement: 637
+    commentsToLikes: 0.022753
+    id: ckaozfmcslo2s0i78by1ifyc8
+    verified: false
+    hashtags: "#interior, #liketeam, #likeall, #liked"
 ---

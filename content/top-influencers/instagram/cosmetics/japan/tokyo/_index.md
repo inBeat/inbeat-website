@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Tokyo In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Tokyo in 2020. Most popular hashtags: #pr #fashion #ootd #cosmetics.
+  Find top cosmetics Instagram influencers in Tokyo in 2020. Most popular hashtags: #cosmetics #pink #tokyo #hairstyle.
 platform: Instagram
 profiles:
-  - username: "lattice_lessignes_y_m_g_c_"
+  - username: "_ayami.y_"
     fullname: >-
-      𝒦𝐸𝐸𝒞𝒪
+      彩未🍓【𝐚𝐲𝐚𝐦𝐢】
     location: "Japan"
-    followers: 29553
-    engagement: 165
-    commentsToLikes: 0.000506
-    id: ck14iz8z6hv0v0i19ao9ppnh8
+    followers: 41692
+    engagement: 164
+    commentsToLikes: 0.024872
+    id: ckaoxua40es6k0i78gdzd05cp
     verified: false
-    hashtags: "#gucci, #lessignes, #happybag2020, #accessories"
-  - username: "miho_ishiguro"
+    hashtags: "#gold, #bathtime, #angellir, #toast"
+  - username: "ririka8_"
     fullname: >-
-      石黒 美帆  𝐌𝐢𝐡𝐨 𝐈𝐬𝐡𝐢𝐠𝐮𝐫𝐨
+      lily_ririka8
     location: "Japan"
-    followers: 59927
-    engagement: 116
-    commentsToLikes: 0.044413
-    id: ck6uglcva3pmc0j71huevljk7
+    followers: 45997
+    engagement: 227
+    commentsToLikes: 0.028853
+    id: ckap2fg2jylnd0i78que416kh
     verified: false
-    hashtags: "#yagbeauty, #disneysea, #voce, #fujimi"
-  - username: "e.ffrontee_tokyo"
+    hashtags: "#dinnertime, #maguro, #fujimi, #cosmetics"
+  - username: "pink_n_picco"
     fullname: >-
-      kyoko
+      さやぴっこ。
     location: "Japan"
-    followers: 40732
-    engagement: 84
-    commentsToLikes: 0.003432
-    id: ck5hqqj9ptjkr0i11q7xqz745
+    followers: 6355
+    engagement: 911
+    commentsToLikes: 0.001771
+    id: ck6tzgl349ktj0j7193h37qfz
     verified: false
-    hashtags: "#effronteetokyo, #gelnail, #naildesign, #lucugel"
-  - username: "aaaya.22"
+    hashtags: "#sanrio, #asakusaquluqulu, #maisondefleur, #disneyland"
+  - username: "hi_erica_"
     fullname: >-
-      ☻ A Y A K A ☻
+      愛花(Erica)
     location: "Japan"
-    followers: 108557
-    engagement: 187
-    commentsToLikes: 0.106401
-    id: ck13aot9erfzo0i1975e5imkq
+    followers: 75886
+    engagement: 928
+    commentsToLikes: 0.010649
+    id: ck5hcuvgak3630i114ygdiyjx
     verified: false
-    hashtags: "#principeprive, #bettyboop, #photography, #hipanda"
-  - username: "myunachy"
+    hashtags: "#08, #vivi, #diorstandswithyou, #staysafestayhome"
+  - username: "kanon_1228"
     fullname: >-
-      みゅなちぃ
+      花音
     location: "Japan"
-    followers: 22553
-    engagement: 415
-    commentsToLikes: 0.009430
-    id: ck0vuze43mu7j0i19g6c9nf4c
-    verified: false
-    hashtags: "#make, #foodstagram, #photography, #laforte"
-  - username: "mekoto.come"
-    fullname: >-
-      mekoto.come
-    location: "Japan"
-    followers: 47575
-    engagement: 339
-    commentsToLikes: 0.012957
-    id: ck5zzwx8ick8p0i14pxa7rywx
-    verified: false
-    hashtags: "#grefas, #24, #nanoa, #pr"
-  - username: "chihiro.kodama"
-    fullname: >-
-      kodama chihiro
-    location: "Japan"
-    followers: 27887
-    engagement: 810
-    commentsToLikes: 0.015537
-    id: ck5cbh9h4ffey0i11c3utm89j
-    verified: false
-    hashtags: "#dreamer, #chihuahua, #cosmetics, #hifu"
-  - username: "momo_s1219"
-    fullname: >-
-      櫻井もも-momo-
-    location: "Japan"
-    followers: 58299
-    engagement: 156
-    commentsToLikes: 0.047758
-    id: ck5zscotsy91r0i140ps3vsr6
-    verified: false
-    hashtags: "#109, #bubresortpr, #furbo, #detocarbo"
-  - username: "emi_akesaka"
-    fullname: >-
-      明坂英美　《emiandvivi》
-    location: "Japan"
-    followers: 25899
-    engagement: 241
-    commentsToLikes: 0.042263
-    id: ck13akj75qtp00i19b7g4m1hu
-    verified: false
-    hashtags: "#extracollagen, #ruvie, #locohawaii, #teamlocohawaii"
-  - username: "cchan_fee4"
-    fullname: >-
-      ひよん♡희영
-    location: "Japan"
-    followers: 241144
-    engagement: 598
-    commentsToLikes: 0.005685
-    id: ck14il019fxo00i19oqyejl91
+    followers: 82387
+    engagement: 702
+    commentsToLikes: 0.008718
+    id: ck134fjujw6w30i19mpekcj6g
     verified: true
-    hashtags: "#louangetokyo, #youtube, #springfashion, #bellpallet"
+    hashtags: "#gupr, #10, #gustyle"
+  - username: "rinka_kumada0223"
+    fullname: >-
+      久間田琳加
+    location: "Japan"
+    followers: 275253
+    engagement: 1324
+    commentsToLikes: 0.006052
+    id: ck5byehx0ozvq0i11acktfds6
+    verified: true
+    hashtags: "#tgc, #yslbeautyomotesando, #107, #outfit"
+  - username: "shin_kuroobisan"
+    fullname: >-
+      黒帯さん^ ^
+    location: "Japan"
+    followers: 62427
+    engagement: 256
+    commentsToLikes: 0.022602
+    id: ck14gn8qo62a00i19x842erjn
+    verified: false
+    hashtags: "#innerbeauty, #genic, #dentalclinicnearme, #instafashion"
+  - username: "erika8kawaii"
+    fullname: >-
+      Erika Kawaii
+    location: "Japan"
+    followers: 32689
+    engagement: 360
+    commentsToLikes: 0.123484
+    id: ck14h7ezn8wtt0i196bfvbk09
+    verified: false
+    hashtags: "#manabo, #jokulsarlon, #icelandtravel, #deers"
+  - username: "yokoyamayui_1208"
+    fullname: >-
+      横山由依
+    location: "Japan"
+    followers: 232401
+    engagement: 569
+    commentsToLikes: 0.009227
+    id: ck9hbp4syhume0j78pr9m3fwz
+    verified: true
+    hashtags: "#akb48, #room211"
+  - username: "marika0826"
+    fullname: >-
+      一条マリカ /いちまり
+    location: "Japan"
+    followers: 81055
+    engagement: 310
+    commentsToLikes: 0.017469
+    id: ckaospttmsjqo0i78hege3pxu
+    verified: false
+    hashtags: "#hair, #carry, #fasion, #pg"
 ---

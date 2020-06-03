@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nail Artists Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top nail artists Instagram influencers in United Kingdom in 2020. Most popular hashtags: #nails #handpainted #nailart #showscratch.
+  Find top nail artists Instagram influencers in United Kingdom in 2020. Most popular hashtags: #ombrenails #bluenails #naturalnails #almondnails.
 platform: Instagram
 profiles:
   - username: "donuttouchmynails"
     fullname: >-
       Anisa
     location: "United Kingdom"
-    followers: 7069
-    engagement: 910
-    commentsToLikes: 0.139460
+    followers: 7096
+    engagement: 704
+    commentsToLikes: 0.155583
     id: ck55mjzkm44za0i11dkkpipdc
     verified: false
-    hashtags: "#orangenails, #giveawayindia, #blacknails, #meownails"
+    hashtags: "#greennails, #nakednails, #unhaslindas, #tommyhilfiger"
   - username: "kaddyfromthewest"
     fullname: >-
       KaddyFromTheWest 🇬🇭🇱🇧
     location: "United Kingdom"
-    followers: 6701
-    engagement: 669
-    commentsToLikes: 0.069362
+    followers: 9541
+    engagement: 835
+    commentsToLikes: 0.058415
     id: ck55jp9nqxhoo0i11q47rca0m
     verified: false
-    hashtags: "#nukaslay, #airmaxverona, #supportyourlocalnailpro, #handpainted"
+    hashtags: "#takeemoff, #mynewbaby, #ineedmyhairdone, #watermelonnails"
+  - username: "rose_thenailbar"
+    fullname: >-
+      Rosemarie Jones
+    location: "United Kingdom"
+    followers: 15328
+    engagement: 177
+    commentsToLikes: 0.036345
+    id: ckap9q7sxt7ja0i78jdx4qgkq
+    verified: false
+    hashtags: "#prints, #donations, #vectorillustration, #shropshire"
   - username: "emilygossip"
     fullname: >-
       𝙋𝙇𝙐𝙎 𝙎𝙄𝙕𝙀 𝙈𝙊𝘿𝙀𝙇 & MAMA
     location: "United Kingdom"
-    followers: 26521
-    engagement: 159
-    commentsToLikes: 0.022394
+    followers: 26766
+    engagement: 164
+    commentsToLikes: 0.024177
     id: ck6u2qot3tdg80j719krch2zu
     verified: false
-    hashtags: "#nailbarbristol, #breastfeeding, #louisvnails, #oldmarket"
-  - username: "anouskaanastasia"
+    hashtags: "#girlshed, #shedoftheyear, #cuprinolgardenshades, #tgbbrunette"
+  - username: "beauty_bybrianna"
     fullname: >-
-      𝔞𝔫𝔬𝔲𝔰𝔨𝔞 𝔰𝔠𝔞𝔯𝔩𝔢𝔱 𝔞𝔫𝔞𝔰𝔱𝔞𝔰𝔦𝔞
+      Beauty By Brianna
     location: "United Kingdom"
-    followers: 118686
-    engagement: 460
-    commentsToLikes: 0.010444
-    id: ck5ztu0yb147c0i148c5coosj
+    followers: 5719
+    engagement: 2841
+    commentsToLikes: 0.025808
+    id: ckaos98ccqofp0i78p0dn76ci
     verified: false
-    hashtags: "#airmaxverona, #freehand, #quarantinemotive, #gifted"
+    hashtags: "#funkynails, #glitternails, #beauty, #animalprint"
   - username: "getbuffednails"
     fullname: >-
       Sarah Elmaz
     location: "United Kingdom"
-    followers: 453547
-    engagement: 101
-    commentsToLikes: 0.047130
+    followers: 449467
+    engagement: 90
+    commentsToLikes: 0.168415
     id: ck6uc6y0wdvox0j71hch3io73
     verified: false
-    hashtags: "#getbuffedgoestonewzealand, #bridenails, #neutrals, #starnails"
+    hashtags: "#bugsbunny, #tiggernails, #internationalgiveaway, #australianbushfires"
   - username: "kirstymeakin"
     fullname: >-
       Kirsty Meakin
     location: "United Kingdom"
-    followers: 159028
-    engagement: 216
-    commentsToLikes: 0.023334
+    followers: 170669
+    engagement: 202
+    commentsToLikes: 0.026666
     id: ck15rajpb6z4h0i19uqprzxuv
     verified: true
-    hashtags: "#nailedit, #nailsbyannabel, #nhsnails, #manicure"
+    hashtags: "#threadart, #pinknails, #original, #tigerkingmemes"
   - username: "jennynails"
     fullname: >-
       jennynails
     location: "United Kingdom"
-    followers: 58917
-    engagement: 137
-    commentsToLikes: 0.021072
+    followers: 59633
+    engagement: 167
+    commentsToLikes: 0.021905
     id: ck0tytbhdnym20i19z21qksv5
     verified: true
-    hashtags: "#jennynails, #rupaulsdragrace, #guccitheritual, #harmonykorine"
-  - username: "nailsbyjanine.swindon"
+    hashtags: "#kai, #gucciss20, #guccibeautynetwork, #guccibeauty"
+  - username: "nailsbyjanine.x"
     fullname: >-
       𝐍𝐀𝐈𝐋𝐒 𝐁𝐘 𝐉𝐀𝐍𝐈𝐍𝐄 💅🏽💞✨
     location: "United Kingdom"
-    followers: 40798
-    engagement: 402
-    commentsToLikes: 0.018806
+    followers: 52734
+    engagement: 167
+    commentsToLikes: 0.035113
     id: ck6tt77u290an0j71j3ei2jkx
     verified: false
-    hashtags: "#picoftheday, #nailvideo, #customnails, #instanails"
-  - username: "agnessebestyen"
+    hashtags: "#glitterswatch, #nailvideo, #nailtutorial, #nailtutorials"
+  - username: "anouskaanastasia"
     fullname: >-
-      NailArt Online Courses
+      𝔞𝔫𝔬𝔲𝔰𝔨𝔞 𝔰𝔠𝔞𝔯𝔩𝔢𝔱 𝔞𝔫𝔞𝔰𝔱𝔞𝔰𝔦𝔞
     location: "United Kingdom"
-    followers: 17276
-    engagement: 156
-    commentsToLikes: 0.021856
-    id: ck15sqjcwebkj0i19xfg18lfh
+    followers: 127643
+    engagement: 635
+    commentsToLikes: 0.012408
+    id: ck5ztu0yb147c0i148c5coosj
     verified: false
-    hashtags: "#handpainting, #flowers, #ujralend, #onlineaj"
-  - username: "emilysmakeupandnails"
-    fullname: >-
-      E M I L Y  G I L M O U R
-    location: "United Kingdom"
-    followers: 10273
-    engagement: 965
-    commentsToLikes: 0.016898
-    id: ck5zsu8c1z74f0i14ljfwf43n
-    verified: false
-    hashtags: "#butterflynails, #camillewalala, #cowprintnails, #naillife"
+    hashtags: "#quarantinemotive, #fucksake"
 ---

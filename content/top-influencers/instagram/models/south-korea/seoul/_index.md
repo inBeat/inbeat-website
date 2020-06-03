@@ -1,76 +1,76 @@
 ---
 title: Top 10 Models Instagram Influencers In Seoul In 2020
 description: >-
-  Find top models Instagram influencers in Seoul in 2020. Most popular hashtags: #model #korea #seoul #seoultravel.
+  Find top models Instagram influencers in Seoul in 2020. Most popular hashtags: #korea # #seoul #model.
 platform: Instagram
 profiles:
-  - username: "itsleonardlim"
+  - username: "jae_yong_kim_nyc"
     fullname: >-
-      Leonard Lim 🇦🇺🇸🇬🇰🇷
+      Jae Yong Kim
     location: "South Korea"
-    followers: 25960
-    engagement: 438
-    commentsToLikes: 0.033256
-    id: ck5chhpt4qsy50i11nz7ahmfy
+    followers: 27472
+    engagement: 93
+    commentsToLikes: 0.016697
+    id: ck6u5aa798gt90j710sck27qs
     verified: false
-    hashtags: "#tangleteezer, #dollypartonchallenge"
+    hashtags: "#museum, #outdoor, #donut, #seoul"
   - username: "polinaband"
     fullname: >-
-      polina | 폴리나
+      polina | 폴리나
     location: "South Korea"
-    followers: 21562
-    engagement: 356
-    commentsToLikes: 0.032757
+    followers: 21142
+    engagement: 389
+    commentsToLikes: 0.031810
     id: ck8sxhmc6hfgk0j78en8d4lnw
     verified: false
     hashtags: "#stayhome"
-  - username: "harin_nam"
+  - username: "one_wonie"
     fullname: >-
-      🇰🇷model harin
+      정원
     location: "South Korea"
-    followers: 25712
-    engagement: 560
-    commentsToLikes: 0.016919
-    id: ck8t8ubs0lunq0j78ovn7qkod
+    followers: 6077
+    engagement: 953
+    commentsToLikes: 0.049770
+    id: ckap1qc4ovnww0i78mml23eq7
     verified: false
-    hashtags: "#debb"
-  - username: "tuykdider"
+    hashtags: ""
+  - username: "alena_vita"
     fullname: >-
-      Tuyk Dider van Dam
+      📸ФОТО СЕУЛ👤ПУСАН👤Photo Korea
     location: "South Korea"
-    followers: 3999
-    engagement: 2150
-    commentsToLikes: 0.060929
-    id: ck5c35mikyna00i11v2oplv66
+    followers: 11273
+    engagement: 731
+    commentsToLikes: 0.025353
+    id: ck9hbs550i7bv0j78ia6jbsvr
     verified: false
-    hashtags: "#palace, #curlscurlscurls, #model, #polaroid"
-  - username: "adrianrmski"
+    hashtags: "#seoul, #busan, #models, #photographer"
+  - username: "_alenagonzalez"
     fullname: >-
-      Adrian
+      🌸 𝓐𝓵𝓮𝓷𝓪 | 해연 🌸
     location: "South Korea"
-    followers: 7113
-    engagement: 962
-    commentsToLikes: 0.024335
-    id: ck5hddqogmv8v0i111tphcq4o
+    followers: 6140
+    engagement: 1251
+    commentsToLikes: 0.036436
+    id: ck136j22n6qdi0i198ix7s15n
     verified: false
-    hashtags: "#kickoff, #location, #male, #seoultravel"
+    hashtags: "#twinsisters, #seoul, #cake, #korea"
   - username: "dohyunkims"
     fullname: >-
       김도현/ Dohyun Kim
     location: "South Korea"
-    followers: 2449
-    engagement: 1232
-    commentsToLikes: 0.044684
+    followers: 3094
+    engagement: 1136
+    commentsToLikes: 0.041554
     id: ck5hlt85wktew0i11tqcwz4oh
     verified: false
-    hashtags: "#tb, #gq, #digitals, #aimons"
+    hashtags: "#louisvuitton, #lips, #denim, #ygkplus"
   - username: "mariamaria.dantas"
     fullname: >-
-      Maria Cristina Dantas 🇧🇷
+      Maria Dantas 🇧🇷
     location: "South Korea"
-    followers: 74273
-    engagement: 133
-    commentsToLikes: 0.030293
+    followers: 73062
+    engagement: 139
+    commentsToLikes: 0.033447
     id: ck8t2c74oyxhv0j78u0cjp1s7
     verified: false
     hashtags: "#coronavirus"
@@ -78,29 +78,29 @@ profiles:
     fullname: >-
       Nnenna Rimma
     location: "South Korea"
-    followers: 6861
-    engagement: 578
-    commentsToLikes: 0.016427
+    followers: 6634
+    engagement: 530
+    commentsToLikes: 0.015212
     id: ck5hcnu2kj1tm0i111woraski
     verified: false
     hashtags: ""
-  - username: "_gabsmoreira99"
+  - username: "kristin_kazz"
     fullname: >-
-      Gabriel (가비) | 한태은
+      KRISTIN KAZZ
     location: "South Korea"
-    followers: 10219
-    engagement: 1188
-    commentsToLikes: 0.022026
-    id: ck14gtk7y6ygp0i191uadi7v1
+    followers: 36208
+    engagement: 651
+    commentsToLikes: 0.011496
+    id: ck5pwy68rp6ct0i115q9csl0c
     verified: false
-    hashtags: "#bar, #seoulkorea, #hanok, #noksapyeongcafe"
+    hashtags: "#newshooting, #sexy, #ccha, #spring"
   - username: "yagnya_"
     fullname: >-
       BOGDAN  보그 단
     location: "South Korea"
-    followers: 14260
-    engagement: 611
-    commentsToLikes: 0.007425
+    followers: 13474
+    engagement: 655
+    commentsToLikes: 0.007108
     id: ck8szrgugpfvg0j78zv1u1kxy
     verified: false
     hashtags: ""

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Rappers Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top rappers Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #rap #music #art.
+  Find top rappers Instagram influencers in Barcelona in 2020. Most popular hashtags: #corona #rapper #weed #cuarentena.
 platform: Instagram
 profiles:
-  - username: "pepegrillofreestyle"
+  - username: "el.sank"
     fullname: >-
-      pepegrillofreestyle
+      EL SANK WACHO!
     location: "Spain"
-    followers: 235948
-    engagement: 549
-    commentsToLikes: 0.006395
-    id: ck5hotpkxq7m30i11esp8dne1
+    followers: 12617
+    engagement: 539
+    commentsToLikes: 0.060017
+    id: ck6tr7q6nxezl0j71jic1c2qc
     verified: false
-    hashtags: "#batalasdefreestyle, #barcelona, #espa, #plazapicasso"
-  - username: "cirilolucas"
-    fullname: >-
-      Cirilo!
-    location: "Spain"
-    followers: 19227
-    engagement: 1284
-    commentsToLikes: 0.019135
-    id: ck5zy1qwf92dv0i14z6d0cyej
-    verified: false
-    hashtags: "#spain, #buenosaires, #final, #island"
-  - username: "pablo_pgj"
-    fullname: >-
-      PGJ
-    location: "Spain"
-    followers: 6976
-    engagement: 1761
-    commentsToLikes: 0.054693
-    id: ck8swf3p2dww90j785ktwbr6r
-    verified: false
-    hashtags: "#sinplomo98, #desayunandoproblemas, #asturias, #barcelona"
-  - username: "theblkswn4u"
-    fullname: >-
-      BLKSWN 👐🏿
-    location: "Spain"
-    followers: 11388
-    engagement: 669
-    commentsToLikes: 0.043050
-    id: ck5hor8wgq2x50i11ifkgm85r
-    verified: false
-    hashtags: "#espa, #rap, #milano, #spring"
+    hashtags: "#yomequedoencasa, #new, #heroes, #cuarentena"
   - username: "_dvbit"
     fullname: >-
       Dubit aka Simpson Boy
     location: "Spain"
-    followers: 37503
-    engagement: 690
-    commentsToLikes: 0.009951
+    followers: 39466
+    engagement: 456
+    commentsToLikes: 0.008898
     id: ck6tvpkpdnjql0j710u9yxlz9
     verified: false
-    hashtags: "#bmxgirl, #crankflip, #cartoon, #flybikes"
-  - username: "mer_165"
-    fullname: >-
-      MER_165
-    location: "Spain"
-    followers: 5321
-    engagement: 538
-    commentsToLikes: 0.052627
-    id: ck14gzzxg7v470i193vz12oam
-    verified: false
-    hashtags: "#colors, #streetstyle, #bcn, #birthday"
+    hashtags: "#dragonball, #crankflipsquad, #rickandmortyedit, #rapper"
   - username: "thegoatbcn"
     fullname: >-
       The Goat Barcelona
     location: "Spain"
-    followers: 10983
-    engagement: 801
-    commentsToLikes: 0.008612
+    followers: 11082
+    engagement: 813
+    commentsToLikes: 0.008317
     id: ck6tm4klk764i0j7164n3j0h1
     verified: false
-    hashtags: "#livetosmoke, #ganja, #cannabiscommunity, #smokemedia"
-  - username: "deivithmadrid"
+    hashtags: "#dragonsbreath, #rapper, #eixample, #wizkhalifa"
+  - username: "cactustroop"
     fullname: >-
-      DAVID MADRID
+      CACTUS TROOP
     location: "Spain"
-    followers: 11157
-    engagement: 549
-    commentsToLikes: 0.046396
-    id: ck5zymrb1a5ib0i14jtvfj5vh
+    followers: 8517
+    engagement: 1016
+    commentsToLikes: 0.014839
+    id: ck6u9s60tzbt30j71zni8fcej
     verified: false
-    hashtags: "#outfit, #streetstyle, #ricosuaveyatusabe, #iambeckyg"
-  - username: "pielroja_oficial"
+    hashtags: "#loputocat, #salaapolobarcelona, #estemvius, #catalunyamusica"
+  - username: "iamtatavlad"
     fullname: >-
-      Pielroja
+      Tata Vlad
     location: "Spain"
-    followers: 10206
-    engagement: 339
-    commentsToLikes: 0.048641
-    id: ck136vt688hq10i19sx21rh85
+    followers: 48712
+    engagement: 843
+    commentsToLikes: 0.027115
+    id: ck5qb0g8kj7570i11li242gyh
     verified: false
-    hashtags: "#vicdeal, #peche, #originaljuan, #jungladecemento"
-  - username: "indirozie"
+    hashtags: "#soundcloud, #thatsmy, #everyday, #instacat"
+  - username: "el.sank"
     fullname: >-
-      ⚔️ 𝕴𝖓𝖉𝖎𝖌𝖔 𝕽𝖔𝖟𝖊 ⚔️
+      EL SANK WACHO!
     location: "Spain"
-    followers: 6437
-    engagement: 463
-    commentsToLikes: 0.050663
-    id: ck6u7kn12m2pw0j7124d2aoz9
+    followers: 12617
+    engagement: 539
+    commentsToLikes: 0.060017
+    id: ck6tr7q6nxezl0j71jic1c2qc
     verified: false
-    hashtags: "#girls, #popartist, #indigoroze, #music"
+    hashtags: "#yomequedoencasa, #new, #heroes, #cuarentena"
+  - username: "elninoworld"
+    fullname: >-
+      𝐄 𝐋 𝐍 𝐈 𝐍 𝐎
+    location: "Spain"
+    followers: 23820
+    engagement: 307
+    commentsToLikes: 0.017930
+    id: ckaoy4di6g0bz0i78bvbtu0hg
+    verified: false
+    hashtags: "#fuckrousky, #skunk, #karantena, #andrejdiss"
+  - username: "el_chojin_oficial"
+    fullname: >-
+      El Chojin
+    location: "Spain"
+    followers: 300352
+    engagement: 295
+    commentsToLikes: 0.019030
+    id: ck0w466gfx0h60i193eiaixhd
+    verified: true
+    hashtags: "#dejadquehablen, #michaeljordan, #thelastdance, #gentecontalento"
+  - username: "mgkspainofficial"
+    fullname: >-
+      Machine Gun Kelly
+    location: "Spain"
+    followers: 17806
+    engagement: 737
+    commentsToLikes: 0.013473
+    id: ck1354tbczpk20i19qcq9clzn
+    verified: false
+    hashtags: "#thelatelateshow"
+  - username: "compare.flow"
+    fullname: >-
+      compareflowoficial
+    location: "Spain"
+    followers: 45876
+    engagement: 507
+    commentsToLikes: 0.017595
+    id: ck5qarrdhhxb10i11o0rdc68e
+    verified: false
+    hashtags: "#panoramica, #hiphopespa, #ayax, #zaskomaster"
 ---

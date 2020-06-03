@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Bangkok In 2020
 description: >-
-  Find top health Instagram influencers in Bangkok in 2020. Most popular hashtags: #workout #fitness #thailand #bangkok.
+  Find top health Instagram influencers in Bangkok in 2020. Most popular hashtags: #health #bangkok #thailand #quarantinelife.
 platform: Instagram
 profiles:
-  - username: "happiipony"
-    fullname: >-
-      Chanatda (P O N Y)™🦄✨
-    location: "Thailand"
-    followers: 5802
-    engagement: 1205
-    commentsToLikes: 0.005580
-    id: ck5hle7s5k26z0i11mntjg7jw
-    verified: false
-    hashtags: "#artistryhydratingmask, #atmospheresky, #newbornbaby, #loveofmylife"
-  - username: "chunuonsee16"
-    fullname: >-
-      Mika Chunuonsee
-    location: "Thailand"
-    followers: 391999
-    engagement: 86
-    commentsToLikes: 0.005265
-    id: ck55ox4sr9b5n0i11ld6f8zq0
-    verified: true
-    hashtags: "#truebankokunited, #x19, #myboys, #workoutathome"
   - username: "anitabye"
     fullname: >-
       Anita Bye/อันนิต้า บี Thailand
     location: "Thailand"
-    followers: 39910
-    engagement: 192
-    commentsToLikes: 0.061417
+    followers: 39743
+    engagement: 226
+    commentsToLikes: 0.063001
     id: ck8taypvztmid0j7889mj9a69
     verified: false
-    hashtags: "#homeworkout, #covid19, #funk, #cryo"
-  - username: "newwy_official"
-    fullname: >-
-      Be Humble🌸💓
-    location: "Thailand"
-    followers: 57839
-    engagement: 130
-    commentsToLikes: 0.024681
-    id: ck55oxbb99boi0i11sdxrlv2b
-    verified: false
-    hashtags: "#stayfit, #photography, #cute, #squats"
-  - username: "pang.saifon"
-    fullname: >-
-      Pang HealthyRoutine
-    location: "Thailand"
-    followers: 27394
-    engagement: 111
-    commentsToLikes: 0.031547
-    id: ck5zkbfezj64g0i14gtq5brqw
-    verified: false
-    hashtags: "#veganwrap, #valentines, #restaurant, #fitnessgirl"
-  - username: "billgsida"
-    fullname: >-
-      Bill G. Sida • ⒷⓈ⑦
-    location: "Thailand"
-    followers: 21539
-    engagement: 514
-    commentsToLikes: 0.017600
-    id: ck5pwunoioorp0i11smlmt9p7
-    verified: false
-    hashtags: "#castings, #fridaychallenge, #friendship, #tagafriend"
+    hashtags: "#quarantinelife, #thecubicfitness, #netflix, #kingdom"
   - username: "happiipony"
     fullname: >-
       Chanatda (P O N Y)™🦄✨
     location: "Thailand"
-    followers: 5802
-    engagement: 1205
-    commentsToLikes: 0.005580
+    followers: 5936
+    engagement: 1028
+    commentsToLikes: 0.006571
     id: ck5hle7s5k26z0i11mntjg7jw
     verified: false
-    hashtags: "#artistryhydratingmask, #atmospheresky, #newbornbaby, #loveofmylife"
-  - username: "noonzz34"
+    hashtags: "#taro1monthold, #artistrybrighteningmask, #quarentinelife, #taro2months15daysold"
+  - username: "djming_efm"
     fullname: >-
-      noonzz34
+      Thatsaphon Ruangkitrattanakun
     location: "Thailand"
-    followers: 25797
-    engagement: 146
-    commentsToLikes: 0.070613
-    id: ck5pv3dd4fxao0i117qzxx8z0
+    followers: 3977
+    engagement: 699
+    commentsToLikes: 0.033479
+    id: ck0w56qa825zc0i19tbf0ccau
     verified: false
-    hashtags: "#sandwich, #cantaloupe"
-  - username: "on_lyy13"
+    hashtags: "#atimeonline, #cover, #tiktok, #unicefthailand"
+  - username: "newwy_official"
     fullname: >-
-      Gin Gub ON 🇹🇭 food lover
+      Be Humble🌸💓
     location: "Thailand"
-    followers: 66458
-    engagement: 104
-    commentsToLikes: 0.060404
-    id: ck6u78h53k2xv0j71y95r4adf
+    followers: 57571
+    engagement: 132
+    commentsToLikes: 0.024821
+    id: ck55oxbb99boi0i11sdxrlv2b
     verified: false
-    hashtags: "#eatbkk, #aroii, #instgram, #instgood"
-  - username: "candyhealthy"
+    hashtags: "#mayabell, #instapic, #skincare, #like"
+  - username: "letme_eats"
     fullname: >-
-      candyhealthy
+      Let Me Eats, Let Me Learn
     location: "Thailand"
-    followers: 51248
-    engagement: 175
-    commentsToLikes: 0.071709
-    id: ck0txojdyjwca0i19b9op92d1
+    followers: 31659
+    engagement: 83
+    commentsToLikes: 0.007841
+    id: ck8sy6sjjjwpm0j781vmpe1jx
     verified: false
-    hashtags: "#snack, #lunch, #thecoffeeclubthailand, #youstayhomewedeliver"
+    hashtags: "#chocolate, #foodlover, #instgram, #foodblogers"
+  - username: "roociialien"
+    fullname: >-
+      Am-RoociiAlien💙🦋
+    location: "Thailand"
+    followers: 16875
+    engagement: 475
+    commentsToLikes: 0.015372
+    id: ck6tud7u1fny40j71kxol82la
+    verified: false
+    hashtags: "#quarantine, #tiktok, #hydrogenwaterbyf11, #takarawongsf20"
+  - username: "marie_broenner"
+    fullname: >-
+      Marie Broenner
+    location: "Thailand"
+    followers: 1321161
+    engagement: 395
+    commentsToLikes: 0.007657
+    id: ck0tzz1l2s2rn0i19y7y64rnw
+    verified: true
+    hashtags: "#dualfrontcamera, #comingsoon, #mariesbrowandlashstudio, #cleanwithstyle"
+  - username: "happiipony"
+    fullname: >-
+      Chanatda (P O N Y)™🦄✨
+    location: "Thailand"
+    followers: 5936
+    engagement: 1028
+    commentsToLikes: 0.006571
+    id: ck5hle7s5k26z0i11mntjg7jw
+    verified: false
+    hashtags: "#taro1monthold, #artistrybrighteningmask, #quarentinelife, #taro2months15daysold"
+  - username: "ipaatiie"
+    fullname: >-
+      𖧷𝙋𝘼𝘼𝙏𝙄𝙄𝙀 シ
+    location: "Thailand"
+    followers: 6052
+    engagement: 550
+    commentsToLikes: 0.022753
+    id: ckap4vn5t934l0i78zcp03uaw
+    verified: false
+    hashtags: "#agooddaybkk, #quarantinelife"
+  - username: "emilysfooddiaryyy"
+    fullname: >-
+      
+    location: "Thailand"
+    followers: 6777
+    engagement: 835
+    commentsToLikes: 0.178030
+    id: ckap94193r26n0i78n7t3ecio
+    verified: false
+    hashtags: "#emilyshealthyfood"
 ---

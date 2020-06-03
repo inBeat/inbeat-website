@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bloggers Instagram Influencers In Dallas In 2020
 description: >-
-  Find top bloggers Instagram influencers in Dallas in 2020. Most popular hashtags: #dallasblogger #liketkit #dallasinfluencer #blogger.
+  Find top bloggers Instagram influencers in Dallas in 2020. Most popular hashtags: #quarantine #dfwinfluencer #stayhome #stylediaries.
 platform: Instagram
 profiles:
-  - username: "thestyleride"
-    fullname: >-
-      Mahi Chaurasia
-    location: "United States"
-    followers: 115575
-    engagement: 83
-    commentsToLikes: 0.065784
-    id: ck5q9cqi1ag5l0i11frmsb2u9
-    verified: false
-    hashtags: "#beautyproducts, #blogger, #dallaslifestyleblogger, #dallasbloggers"
-  - username: "theglamorousblonde_"
-    fullname: >-
-      Kelly Ruth Hans
-    location: "United States"
-    followers: 16683
-    engagement: 233
-    commentsToLikes: 0.180262
-    id: ck5cff2bumtsz0i11o5sw43vd
-    verified: false
-    hashtags: "#duffyandfriends, #streetstyle, #springoutfits, #dallasblogger"
-  - username: "teachingandlaundry"
-    fullname: >-
-      JAC MIZEUR
-    location: "United States"
-    followers: 29804
-    engagement: 193
-    commentsToLikes: 0.220395
-    id: ck6tuzi4ejbf40j71ni6yg1af
-    verified: false
-    hashtags: "#whatimbinging, #travelblogger, #teacherootd, #styleblogger"
   - username: "brooke_kenney"
     fullname: >-
       B R O O K E | K E N N E Y
     location: "United States"
-    followers: 18813
-    engagement: 297
-    commentsToLikes: 0.125503
+    followers: 18461
+    engagement: 307
+    commentsToLikes: 0.142211
     id: ck5heegjlshd20i11dh278kjn
     verified: false
-    hashtags: "#liketkit, #dallasblogger, #hoxlynleeposton, #ltksalealert"
+    hashtags: "#shopbuddylove, #gorjana, #livelovelayer, #ltkshoecrush"
+  - username: "theglamorousblonde_"
+    fullname: >-
+      Kelly Ruth Hans
+    location: "United States"
+    followers: 16583
+    engagement: 199
+    commentsToLikes: 0.130238
+    id: ck5cff2bumtsz0i11o5sw43vd
+    verified: false
+    hashtags: "#bridesofnorthtexas, #lavenderdress, #traderjoesfinds, #ontheblog"
+  - username: "teachingandlaundry"
+    fullname: >-
+      JAC MIZEUR
+    location: "United States"
+    followers: 28942
+    engagement: 182
+    commentsToLikes: 0.314904
+    id: ck6tuzi4ejbf40j71ni6yg1af
+    verified: false
+    hashtags: "#comfydress, #vacayvibes, #deepellum, #sparkledress"
   - username: "thebravoboy"
     fullname: >-
       Bravo Boy
     location: "United States"
-    followers: 26258
-    engagement: 346
-    commentsToLikes: 0.057681
+    followers: 26287
+    engagement: 367
+    commentsToLikes: 0.050116
     id: ck0w3it7stmq20i19jr31ohaa
     verified: false
-    hashtags: "#makeup, #makeupartist, #rhobh, #memepage"
-  - username: "camila.tonello"
+    hashtags: "#makeup, #betflix, #mttb, #leahmob"
+  - username: "sheaannephotos"
     fullname: >-
-      🇧🇷 living in 🇺🇸
+      Shea Anne | Photographer
     location: "United States"
-    followers: 18290
-    engagement: 308
-    commentsToLikes: 0.048782
-    id: ck5q8gthn645u0i11ap8mk0lb
+    followers: 36726
+    engagement: 173
+    commentsToLikes: 0.024526
+    id: ck13bupfax88v0i19zmo3wnp1
     verified: false
-    hashtags: "#pixi, #quinttoupovo, #dfwinfluencers, #collaboration"
-  - username: "ericawilkins_"
+    hashtags: "#laphotographer, #photoshoot, #teamcanon, #instagood"
+  - username: "thepeppywings"
     fullname: >-
-      Erica Wilkins
+      ᴀᴀɴᴄʜᴀʟ ᴊᴀɪɴ
     location: "United States"
-    followers: 31382
-    engagement: 190
-    commentsToLikes: 0.039544
-    id: ck6tp04b9h3030j71zbeb84lp
-    verified: true
-    hashtags: "#distancedance, #iloveyou, #teammadi, #bachelorseasonfinaletonight"
-  - username: "hafymo"
-    fullname: >-
-      ‘Hafsah
-    location: "United States"
-    followers: 36103
-    engagement: 395
-    commentsToLikes: 0.034346
-    id: ck5hdo1aqogk50i118qd081be
+    followers: 16326
+    engagement: 409
+    commentsToLikes: 0.210904
+    id: ck6tpgn2xjrib0j71tzrdx3ec
     verified: false
-    hashtags: "#goingnowherebutfuckitimgettingdressed, #aldocrew, #dripeesha, #ad"
-  - username: "accordingtotia"
+    hashtags: "#igstyleblogger, #happyvibesonly, #greenandbrown, #fridayfeeling"
+  - username: "camille.elena"
     fullname: >-
-      Tia | TheMillennialWivesClub
+      Camille Elena • Dallas Blogger
     location: "United States"
-    followers: 23262
-    engagement: 199
-    commentsToLikes: 0.033708
-    id: ck5cgu2rnpjrl0i11yueer1as
+    followers: 30993
+    engagement: 196
+    commentsToLikes: 0.051637
+    id: ck0u9ateb9dxr0i19cumubcpe
     verified: false
-    hashtags: "#millennialwife, #vitamins, #couplesandcocktails, #inspiration"
-  - username: "kaitlynmben"
+    hashtags: "#ozark, #seeksimplicity, #bloggervibes, #igtvchannel"
+  - username: "streetsbeatseats"
     fullname: >-
-      Kaitlyn B
+      casey walker | dallas blogger
     location: "United States"
-    followers: 2468
-    engagement: 1009
-    commentsToLikes: 0.165169
-    id: ck0w28m4jn4vi0i19cfpnnpxj
+    followers: 53049
+    engagement: 202
+    commentsToLikes: 0.094347
+    id: ck1375vwj9xy10i197v3h3258
     verified: false
-    hashtags: "#portraitcollective, #socality, #dallasphotographer, #texasphotographer"
+    hashtags: "#aexme, #ltkwedding, #sbeeats, #fitnessjourney"
+  - username: "dallassocials"
+    fullname: >-
+      Betsy I Dallas Blogger
+    location: "United States"
+    followers: 27727
+    engagement: 187
+    commentsToLikes: 0.018934
+    id: ck14lb200tr6e0i19l7y3da1w
+    verified: false
+    hashtags: "#exploremore, #garlandtexas, #lowespartner, #buildthanks"
+  - username: "marblelouslypetite"
+    fullname: >-
+      Abby | Dallas Blogger
+    location: "United States"
+    followers: 45520
+    engagement: 153
+    commentsToLikes: 0.170449
+    id: ck15ruvrx9tvn0i198lzs99h4
+    verified: false
+    hashtags: "#summerdress, #stripedress, #dallasbloggers, #ribbeddress"
 ---

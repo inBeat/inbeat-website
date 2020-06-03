@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Thailand In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Thailand in 2020. Most popular hashtags: #makeup #beauty #cosmetics #covid.
+  Find top cosmetics Instagram influencers in Thailand in 2020. Most popular hashtags: #makeuptutorial #cosmetics #alcoholgel #makeup.
 platform: Instagram
 profiles:
   - username: "gamkotcha"
     fullname: >-
       Gamgy makeup💋
     location: "Thailand"
-    followers: 380045
-    engagement: 691
-    commentsToLikes: 0.010878
+    followers: 399267
+    engagement: 776
+    commentsToLikes: 0.012991
     id: ck14lu6vywi8m0i197y4gfi1z
     verified: false
-    hashtags: "#olayretinol24, #olaythailand"
+    hashtags: "#rapinniphapr, #vivovsafevenjoy, #yslbeautyth, #olayretinol24"
   - username: "ice_athichanan"
     fullname: >-
       Athichanan Srisevok
     location: "Thailand"
-    followers: 273073
-    engagement: 48
-    commentsToLikes: 0.004868
+    followers: 287209
+    engagement: 38
+    commentsToLikes: 0.004476
     id: ck8sy6ispjvox0j78w8w0mdzr
     verified: true
-    hashtags: "#brunobrowniecrisp, #brunohealthysnack, #coconutbrowniecrisp, #healthysnack"
-  - username: "newzysan"
+    hashtags: "#loccitaneth, #gramcafe, #grampancake, #ramen"
+  - username: "zeemyiinz"
     fullname: >-
-      NewZy San🌺🇹🇭
+      αρcу
     location: "Thailand"
-    followers: 30866
-    engagement: 425
-    commentsToLikes: 0.060886
-    id: ck0tvkdymbr450i19qlsfqrgh
+    followers: 27396
+    engagement: 155
+    commentsToLikes: 0.012505
+    id: ck1384i6oegkp0i19grs2d8ec
     verified: false
-    hashtags: "#fitspo, #traveller, #classy, #tanskin"
-  - username: "leenalanee_"
-    fullname: >-
-      
-    location: "Thailand"
-    followers: 10653
-    engagement: 818
-    commentsToLikes: 0.004958
-    id: ck134i8l0wjxz0i19mim026sk
-    verified: false
-    hashtags: "#moosecider, #true5g, #true5gskyshot, #borncrafted"
-  - username: "ae_bong"
-    fullname: >-
-      AeBong
-    location: "Thailand"
-    followers: 30918
-    engagement: 80
-    commentsToLikes: 0.017189
-    id: ck14i369edet40i19euw2t6b3
-    verified: false
-    hashtags: "#supergoopthailand, #cosmetics, #whatiworetoday, #orientalprincess"
-  - username: "jibbierubie"
-    fullname: >-
-      JiBbie Rubie
-    location: "Thailand"
-    followers: 125005
-    engagement: 318
-    commentsToLikes: 0.004012
-    id: ck0w2m468p24y0i1912hee8y7
-    verified: false
-    hashtags: "#lazada8thbirthday, #bioderma, #bobbibrownthailand, #nyxcosmeticsth"
+    hashtags: "#alcoholgel, #multy, #sunday, #covid19"
   - username: "benedict_studio"
     fullname: >-
       Benedict Studio by Thananon
     location: "Thailand"
-    followers: 57062
-    engagement: 299
-    commentsToLikes: 0.019854
+    followers: 56992
+    engagement: 288
+    commentsToLikes: 0.021767
     id: ck6tpqauylrj70j71gl9czbuz
     verified: false
-    hashtags: "#wedding, #makeup, #ploychermarn, #weddingdress"
-  - username: "applebehappy"
+    hashtags: "#ploychermarn, #maidavikah, #weddingphotography, #everythinghasbeauty"
+  - username: "maew_makeup"
     fullname: >-
-      A MAKEUP ARTIST
+      MAEW Tasanapong (พี่แมว)
     location: "Thailand"
-    followers: 49462
-    engagement: 101
-    commentsToLikes: 0.021465
-    id: ck6u3m9f9ylgh0j7183wg5naa
+    followers: 131220
+    engagement: 89
+    commentsToLikes: 0.010924
+    id: ck6u0ptbch3900j71jo0zuhev
     verified: false
-    hashtags: "#louisvuittonthailand, #applebehappysworld, #makeuptutorial, #aroundtheworld"
-  - username: "tu_piyawadee"
-    fullname: >-
-      Piyawadee Maleenont
-    location: "Thailand"
-    followers: 566188
-    engagement: 127
-    commentsToLikes: 0.029257
-    id: ck8sw3hnzdmu30j78olrt8cqs
-    verified: true
-    hashtags: "#tuhappymoment, #tuenjoyseating"
+    hashtags: "#thaibeauty, #suqquthailand, #magnum, #lorealthailand"
   - username: "t.rinluck"
     fullname: >-
       ⭐️Jenny59
     location: "Thailand"
-    followers: 5645
-    engagement: 2254
-    commentsToLikes: 0.031492
+    followers: 7586
+    engagement: 2309
+    commentsToLikes: 0.035449
     id: ck5cghmmlov0q0i112yp4i9mm
     verified: false
-    hashtags: "#100daysofmakeup, #editorialmakeup, #thanksgivingmakeup, #valentinesmakeup"
+    hashtags: "#galaxymakeup, #makeupvideos, #birthdaymakeup, #mylittlepony"
+  - username: "chureeporn"
+    fullname: >-
+      CHUREEPORN C.
+    location: "Thailand"
+    followers: 96643
+    engagement: 181
+    commentsToLikes: 0.020221
+    id: ck6tzwznqcd5h0j719e2des8i
+    verified: false
+    hashtags: "#outdoor, #phuket, #sapavietnam, #turkey"
+  - username: "ayaka.nakayama.japan"
+    fullname: >-
+      Ayaka Nakayama   中山 綾香
+    location: "Thailand"
+    followers: 6865
+    engagement: 1146
+    commentsToLikes: 0.049328
+    id: ckap0b7ehpkg50i78a5iv4w80
+    verified: false
+    hashtags: "#berabradley, #bangkok, #mint, #spring"
+  - username: "puffpoy"
+    fullname: >-
+      Poy Yostana 🌙
+    location: "Thailand"
+    followers: 73938
+    engagement: 192
+    commentsToLikes: 0.008508
+    id: ck0w2uep3q8950i195urtydj1
+    verified: false
+    hashtags: "#throwback, #macpowderkissliquidlipcolor, #macpowderkiss, #makeupnomakeup"
+  - username: "tu_piyawadee"
+    fullname: >-
+      Piyawadee Maleenont
+    location: "Thailand"
+    followers: 585972
+    engagement: 125
+    commentsToLikes: 0.035646
+    id: ck8sw3hnzdmu30j78olrt8cqs
+    verified: true
+    hashtags: "#nailovi, #tuenjoyseating, #tuhappymoment, #birthdayflower"
 ---

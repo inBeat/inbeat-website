@@ -1,107 +1,107 @@
 ---
 title: Top 10 Wellness Instagram Influencers In Poland In 2020
 description: >-
-  Find top wellness Instagram influencers in Poland in 2020. Most popular hashtags: #polishgirl #zosta #love #polskadziewczyna.
+  Find top wellness Instagram influencers in Poland in 2020. Most popular hashtags: #wellness #selfie #nature #pielegnacja.
 platform: Instagram
 profiles:
   - username: "dagadomi_fit"
     fullname: >-
       Daga Dominiczak
     location: "Poland"
-    followers: 18715
-    engagement: 230
-    commentsToLikes: 0.034099
+    followers: 18902
+    engagement: 263
+    commentsToLikes: 0.030138
     id: ck5q9w04hdabm0i1118trwpka
     verified: false
-    hashtags: "#fitbatony, #sando, #mistrzyniswiatafitness, #fitsernik"
+    hashtags: "#3maja, #kokosowe, #termomixzlidla, #cialo"
   - username: "kayawegewrozka"
     fullname: >-
-      Kaya Wege Wróżka
+      Kaya Wege Wróżka
     location: "Poland"
-    followers: 24989
-    engagement: 443
-    commentsToLikes: 0.050225
+    followers: 25452
+    engagement: 441
+    commentsToLikes: 0.053180
     id: ck5c09l2dsp7l0i11s6wa2cbd
     verified: false
-    hashtags: "#pokarmdlacia, #happyfullmoon, #feelyourfeelings, #feelyourself"
-  - username: "keej_sii"
+    hashtags: "#feelyourfeelings, #transform, #poleelektromagnetyczne, #postfullmoonvibes"
+  - username: "julia.secheniewicz"
     fullname: >-
-      Kinga Ciecieląg
+      𝑱𝒖𝒍𝒊𝒂 𝑺𝒆𝒄𝒉𝒆𝒏𝒊𝒆𝒘𝒊𝒄𝒛
     location: "Poland"
-    followers: 14047
-    engagement: 807
-    commentsToLikes: 0.080540
-    id: ck0vzzq4aboas0i19ouxuovb0
+    followers: 2742
+    engagement: 3329
+    commentsToLikes: 0.075206
+    id: ck9weypjrmgu30j787l7bks62
     verified: false
-    hashtags: "#shoesoftheday, #instawarsaw, #streetstyles, #longhairdocare"
-  - username: "pyza_sojova"
+    hashtags: "#selfietime, #yummy, #makeup, #model"
+  - username: "pawelfitnessworld"
     fullname: >-
-      Pyza Sojova
+      Pawel Fitness World ®️
     location: "Poland"
-    followers: 13132
-    engagement: 788
-    commentsToLikes: 0.091524
-    id: ck0u64dlr11px0i199fusfn2h
+    followers: 50736
+    engagement: 246
+    commentsToLikes: 0.072801
+    id: ckaoze58alh5y0i78u5hq4d10
     verified: false
-    hashtags: "#christmas, #polskimezczyzna, #instakot, #adoptions"
-  - username: "alexia.pl_"
+    hashtags: "#metamorfoza, #zdrowadieta, #zosta, #gainweight"
+  - username: "natalia_grzyb"
     fullname: >-
-      Aleksandra Alexia Marek Ⓜ️
+      NATALIA GRZYB
     location: "Poland"
-    followers: 27290
-    engagement: 226
-    commentsToLikes: 0.072523
-    id: ck5zkvtgpk95b0i141he515rw
+    followers: 88835
+    engagement: 816
+    commentsToLikes: 0.010978
+    id: ck13amu0cr5gz0i19sp6hvet4
     verified: false
-    hashtags: "#polskiesylwetki, #zostanwdomu, #panther, #lady"
-  - username: "natalyie_"
+    hashtags: "#womanstyle, #tiktok, #moodoftheday, #bodygoals"
+  - username: "dsroczynska"
     fullname: >-
-      Natalia Stafińska
+      PRACA ZDALNA 💻| BIZNES💸
     location: "Poland"
-    followers: 17708
-    engagement: 620
-    commentsToLikes: 0.035526
-    id: ck6tx8bpaweag0j710h04xetl
+    followers: 9410
+    engagement: 951
+    commentsToLikes: 0.072821
+    id: ck15qb2yd1zg40i19fkyzuxvy
     verified: false
-    hashtags: "#weekend, #goals, #olimpteam, #blonde"
+    hashtags: "#szcz, #portret, #odpornosc, #wlosy"
   - username: "martagrzegorzak"
     fullname: >-
       Marta Grzegorzak
     location: "Poland"
-    followers: 10049
-    engagement: 819
-    commentsToLikes: 0.037870
+    followers: 14869
+    engagement: 545
+    commentsToLikes: 0.046315
     id: ck0uelu6slnkb0i19vb27ara6
     verified: false
-    hashtags: "#soup, #hairinspo, #curlyhair, #lazyday"
-  - username: "iga.co.smiga"
+    hashtags: "#zarahome, #dziendobry, #inhome, #kosmetykomania"
+  - username: "nelakornelaa"
     fullname: >-
-      Iga Baumgart-Witan
+      🥀 Kornelia Koszczyk
     location: "Poland"
-    followers: 33717
-    engagement: 991
-    commentsToLikes: 0.007183
-    id: ck5hhh4j7879f0i11t95hxgwe
+    followers: 2521
+    engagement: 1735
+    commentsToLikes: 0.039851
+    id: ck8taluu7saox0j7852sbhntt
     verified: false
-    hashtags: "#hubby, #womensweekchallenge, #womenday, #przegladsportowy"
-  - username: "juliazalewska"
+    hashtags: "#trip, #oldphoto, #beyourself, #leathercoat"
+  - username: "ewelina_czarnecka"
     fullname: >-
-      𝓙. 𝓜. 𝓩𝓪𝓵𝓮𝔀𝓼𝓴𝓪
+      Ewelina Czarnecka
     location: "Poland"
-    followers: 366011
-    engagement: 1104
-    commentsToLikes: 0.004478
-    id: ck5q5gagbsr650i11ugp8pex5
+    followers: 60357
+    engagement: 290
+    commentsToLikes: 0.033911
+    id: ck6tv3t69k0kz0j71azxgvhpk
     verified: false
-    hashtags: "#allblackoutfit, #beluga, #morningvibes, #citycentre"
-  - username: "dsroczynska"
+    hashtags: "#mondaymood, #zosta, #selfie, #morningmood"
+  - username: "olimpeya_mua"
     fullname: >-
-      PRACA ZDALNA 💻| BIZNES💎
+      Olimpia
     location: "Poland"
-    followers: 8797
-    engagement: 1002
-    commentsToLikes: 0.061116
-    id: ck15qb2yd1zg40i19fkyzuxvy
+    followers: 5167
+    engagement: 1633
+    commentsToLikes: 0.105702
+    id: ck6u1o2uxmw7h0j715twomm2h
     verified: false
-    hashtags: "#motywacja, #mieszkanie, #przyciaganie, #look"
+    hashtags: "#pieknecialo, #lippencil, #fajnaksi, #mojarecenzja"
 ---

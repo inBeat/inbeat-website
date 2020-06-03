@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In Barcelona In 2020
 description: >-
-  Find top makeup Instagram influencers in Barcelona in 2020. Most popular hashtags: #barcelona #makeup #fashion #beauty.
+  Find top makeup Instagram influencers in Barcelona in 2020. Most popular hashtags: #makeup #spain #barcelona #amor.
 platform: Instagram
 profiles:
-  - username: "javieromero_muah"
+  - username: "isaac.sevillano"
     fullname: >-
-      Javier Romero
+      Isaac Sevillano
     location: "Spain"
-    followers: 14084
-    engagement: 521
-    commentsToLikes: 0.078297
-    id: ck5zte9y408mv0i14x4552z71
+    followers: 36645
+    engagement: 429
+    commentsToLikes: 0.028863
+    id: ck6u341gnvksy0j71q9zun5rb
     verified: false
-    hashtags: "#glowskin, #curso, #glowingskin, #makeupmasterclass"
-  - username: "teresa_g.zman"
+    hashtags: "#pics, #moment, #image, #hair"
+  - username: "benjipoirier"
     fullname: >-
-      Teresa Guzman
+      Benji Poirier
     location: "Spain"
-    followers: 21904
-    engagement: 618
-    commentsToLikes: 0.190035
-    id: ck5zm41lgluwd0i14uoahtfo0
+    followers: 51005
+    engagement: 598
+    commentsToLikes: 0.024003
+    id: ck139lp23lxvu0i19rzzaufqo
     verified: false
-    hashtags: "#ropadeportivamujer, #inauguracion, #fashion, #margaritas"
-  - username: "sheybonillamodel"
+    hashtags: "#alejandrobrito, #dylanrosser, #yobailoencasa, #instatravel"
+  - username: "nattaliaweberr"
     fullname: >-
-      Shey Bonilla Fashionblogger
+      Nattalia Weber 🇧🇷🥑
     location: "Spain"
-    followers: 30320
-    engagement: 505
-    commentsToLikes: 0.241221
-    id: ck0tvkf06br940i1995srv8ml
+    followers: 17382
+    engagement: 428
+    commentsToLikes: 0.020938
+    id: ck8t4fkoy6lzv0j78j4ltyr7s
     verified: false
-    hashtags: "#ropadeportiva, #colagenofacial, #disneylove, #styleinspiration"
-  - username: "almargsato"
+    hashtags: "#saopaulo, #perdidadepeso, #coronavirus, #musclecontest"
+  - username: "manuelsuarez"
     fullname: >-
-      🔵 Almar G. Sato 🔵
+      ⠀⠀⠀⠀⠀⠀爪 卂 几 ㄩ 乇 ㄥ  丂 ㄩ 卂 尺 乇 乙
     location: "Spain"
-    followers: 4155
-    engagement: 1371
-    commentsToLikes: 0.056071
-    id: ck6u51hy571990j71javre3c9
+    followers: 5896
+    engagement: 835
+    commentsToLikes: 0.027789
+    id: ck5ztgstm0dtj0i14i3yitrvc
     verified: false
-    hashtags: "#actriz, #asiatica, #noretoques, #eurasian"
-  - username: "noah_pharrell"
-    fullname: >-
-      Noah Pharrell | Photographer
-    location: "Spain"
-    followers: 14355
-    engagement: 632
-    commentsToLikes: 0.022131
-    id: ck5hcm77tismb0i11mkwcqjlk
-    verified: false
-    hashtags: "#operaciontriunfo, #barcelona, #sportstyle, #super8"
-  - username: "kevinmoreli"
-    fullname: >-
-      Keeeviinn
-    location: "Spain"
-    followers: 60322
-    engagement: 528
-    commentsToLikes: 0.025470
-    id: ck0w5i2s53qxn0i19u7rkbctm
-    verified: false
-    hashtags: "#barcelona, #verano, #smiles, #valencia"
-  - username: "oykugurman"
-    fullname: >-
-      Öykü Gürman
-    location: "Spain"
-    followers: 1974977
-    engagement: 229
-    commentsToLikes: 0.017327
-    id: ck0w40plbw7le0i19k7g95tdr
-    verified: true
-    hashtags: "#barceloneta, #kafayatakmamasanat, #colored, #brother"
+    hashtags: "#profoto, #sweetmatitos, #tocatchlariviera, #photography"
   - username: "danirull.official"
     fullname: >-
       danielrull
     location: "Spain"
-    followers: 17457
-    engagement: 338
-    commentsToLikes: 0.103131
+    followers: 19043
+    engagement: 368
+    commentsToLikes: 0.095710
     id: ck0w0ii8tedh20i19eb5soii8
     verified: false
-    hashtags: "#stylist, #dioraddict, #art, #model"
+    hashtags: "#hair, #haircare, #czechoslovakia, #video"
+  - username: "kevinmoreli"
+    fullname: >-
+      Keeeviinn
+    location: "Spain"
+    followers: 61957
+    engagement: 525
+    commentsToLikes: 0.024174
+    id: ck0w5i2s53qxn0i19u7rkbctm
+    verified: false
+    hashtags: "#barcelona, #2019, #shopinfluencerlosalfares, #tumblr"
   - username: "honeygueco"
     fullname: >-
-      HONEY
+      卄๏ℕ𝒆ㄚ 꿀
     location: "Spain"
-    followers: 132535
-    engagement: 170
-    commentsToLikes: 0.003928
+    followers: 131360
+    engagement: 175
+    commentsToLikes: 0.003436
     id: ck15qvjvy4ukc0i191pm7cxqw
     verified: false
-    hashtags: "#stayhome, #chanel, #spain, #agora"
-  - username: "by.naadia"
+    hashtags: "#fashion, #best, #perfectionist, #california"
+  - username: "efradera"
     fullname: >-
-      Nadia Navarro
+      𝙴𝚗𝚛𝚒𝚌 𝙵𝚛𝚊𝚍𝚎𝚛𝚊
     location: "Spain"
-    followers: 84407
-    engagement: 1151
-    commentsToLikes: 0.039776
-    id: ck5zph3ncsnk10i14wnz6on02
+    followers: 7156
+    engagement: 3279
+    commentsToLikes: 0.092275
+    id: ck9hb4gopfd6q0j78slrhqzg3
     verified: false
-    hashtags: "#myclarins, #picoftheday, #welldonenature, #encolaboracionconhm"
+    hashtags: "#portbox, #noicemag, #nowherediary, #fotodome"
+  - username: "saraguchi84"
+    fullname: >-
+      saraguchi84
+    location: "Spain"
+    followers: 110606
+    engagement: 882
+    commentsToLikes: 0.370461
+    id: ck139y39wnp0e0i19ob6whumn
+    verified: false
+    hashtags: "#ilustracion, #twins, #papelpintado, #familianumerosa"
+  - username: "jenniferora"
+    fullname: >-
+      J E N N I F E R  O R T I Z
+    location: "Spain"
+    followers: 229094
+    engagement: 850
+    commentsToLikes: 0.728545
+    id: ck0w0rx2ofqlu0i19o7b4l8hj
+    verified: true
+    hashtags: "#makeup, #teamoromeo, #mifelicidad, #mibendicion"
 ---

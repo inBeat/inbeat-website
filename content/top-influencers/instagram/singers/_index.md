@@ -1,107 +1,107 @@
 ---
 title: Top 10 Singers Instagram Influencers In 2020
 description: >-
-  Find top singers Instagram influencers in 2020. Most popular hashtags: #brunette #czechgirl #model #photoshooting.
+  Find top singers Instagram influencers in 2020. Most popular hashtags: #love # #vocal #safaghalycouture.
 platform: Instagram
 profiles:
   - username: "sabrinasalernofficial"
     fullname: >-
       SABRINA SALERNO OFFICIAL
     location: "Italy"
-    followers: 447478
-    engagement: 382
-    commentsToLikes: 0.027763
+    followers: 496824
+    engagement: 609
+    commentsToLikes: 0.025444
     id: ck6tqeug1r1nw0j713t025nq0
     verified: true
     hashtags: ""
+  - username: "madhuradharatalluri"
+    fullname: >-
+      Madhura Dhara Talluri
+    location: "India"
+    followers: 9067
+    engagement: 2734
+    commentsToLikes: 0.014740
+    id: ck9wghhwytfmn0j78gh05ta2z
+    verified: false
+    hashtags: "#feminism, #notallfeminists, #photoshoot, #pjsalldayerrday"
   - username: "hlaroushdy"
     fullname: >-
       Hla Roushdy | هلا رشدي
     location: ""
-    followers: 167314
-    engagement: 752
-    commentsToLikes: 0.008230
+    followers: 228258
+    engagement: 815
+    commentsToLikes: 0.008774
     id: ck135p9922jvj0i19lwa90gjs
     verified: true
-    hashtags: "#flying, #sharmelsheikh, #happiness, #freedom"
+    hashtags: "#ramadan, #amrdiab, #zeinaelnaggar, #safaghalycouture"
   - username: "mrgarystringer"
     fullname: >-
       Gary Stringer
     location: "United Kingdom"
-    followers: 6674
-    engagement: 787
-    commentsToLikes: 0.043956
+    followers: 6695
+    engagement: 786
+    commentsToLikes: 0.043781
     id: ck15uzoqrp8g70i19fqnkhwf4
     verified: false
-    hashtags: "#cheddar, #bmx, #pumptrack, #getloud"
-  - username: "sowelu_"
-    fullname: >-
-      Sowelu
-    location: "Japan"
-    followers: 33066
-    engagement: 392
-    commentsToLikes: 0.018450
-    id: ck5hrrtu6vdcb0i11yrfp8tqq
-    verified: false
-    hashtags: "#bubblegum, #drum, #refresh, #oldschool"
+    hashtags: "#getloud, #downthefrontmedia, #wintersend, #pumptrack"
   - username: "mohamad_khoramdare"
     fullname: >-
       محمد
     location: "Iran"
-    followers: 64159
-    engagement: 967
-    commentsToLikes: 0.250834
+    followers: 63656
+    engagement: 975
+    commentsToLikes: 0.248544
     id: ck13awp5esjop0i192qmhm83t
     verified: false
     hashtags: ""
-  - username: "irinaharutyunyan"
-    fullname: >-
-      Irina Harutyunyan ♏
-    location: ""
-    followers: 25096
-    engagement: 289
-    commentsToLikes: 0.022943
-    id: ck5ztfd420avr0i144bn9l2x7
-    verified: false
-    hashtags: "#irinaharutyunyan, #erevan, #armenia, #gyumri"
   - username: "vicky_nayaran"
     fullname: >-
       Vicky トリ
     location: ""
-    followers: 2017
-    engagement: 1807
-    commentsToLikes: 0.038185
+    followers: 2054
+    engagement: 1612
+    commentsToLikes: 0.056885
     id: ck8swvfgvfduf0j78w043rmwa
     verified: false
-    hashtags: "#acousticsong, #foryou, #cecky, #tonenivono"
-  - username: "aima_baig_official"
+    hashtags: "#dark, #singers, #confused, #girly"
+  - username: "parahat.purje"
     fullname: >-
-      Aima Baig
+      PARAHAT PURJAYEW
     location: ""
-    followers: 2312280
-    engagement: 353
-    commentsToLikes: 0.008589
-    id: ck0w0a2yqd5pi0i19biezl391
-    verified: true
-    hashtags: "#shammalqureshi, #watchthisspace, #mintpr, #staysafe"
-  - username: "artmiross"
-    fullname: >-
-      Arta
-    location: "Iran"
-    followers: 561990
-    engagement: 1007
-    commentsToLikes: 0.124006
-    id: ck0vwcc8ct2600i19z6k76vo5
-    verified: true
-    hashtags: "#23"
-  - username: "parmisir"
-    fullname: >-
-      Parmis
-    location: "Iran"
-    followers: 353093
-    engagement: 285
-    commentsToLikes: 0.059451
-    id: ck0w6jpyf8w6p0i19ta1r9e0t
+    followers: 40998
+    engagement: 239
+    commentsToLikes: 0.014747
+    id: ck5hr1k86u3p20i11o3em3s3f
     verified: false
-    hashtags: "#songwriter, #health, #planetearth, #parmisir"
+    hashtags: "#parahatpurje, #mahripirkuliyeva, #2020, #mary"
+  - username: "fereshte.music"
+    fullname: >-
+      Fereshteh
+    location: "Iran"
+    followers: 7722
+    engagement: 1403
+    commentsToLikes: 0.083119
+    id: ck9wi8lwn16nn0j78cezvcclo
+    verified: false
+    hashtags: "#vokal, #guitarpop, #flamenco, #fusiommusic"
+  - username: "mohsenyaghmaeiofficial"
+    fullname: >-
+      Mohsen Yaghmaei
+    location: "Iran"
+    followers: 3736
+    engagement: 2812
+    commentsToLikes: 0.065599
+    id: ck9wpat4d8jdu0j788baedo1w
+    verified: false
+    hashtags: "#elvis, #elvispresley, #valentine, #valentines"
+  - username: "monem.music"
+    fullname: >-
+      Mohammad Monem | محمد منعم
+    location: "Iran"
+    followers: 2414
+    engagement: 3288
+    commentsToLikes: 0.060034
+    id: ck9winydj35270j78hidi3mej
+    verified: false
+    hashtags: "#azerbaycan, #sofyani, #hesab, #monem"
 ---

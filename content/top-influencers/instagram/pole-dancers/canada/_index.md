@@ -1,87 +1,87 @@
 ---
 title: Top 10 Pole Dancers Instagram Influencers In Canada In 2020
 description: >-
-  Find top pole dancers Instagram influencers in Canada in 2020. Most popular hashtags: #stayhome #poledancer #splits #poledance.
+  Find top pole dancers Instagram influencers in Canada in 2020. Most popular hashtags: #poledancer #canada #friends #poledance.
 platform: Instagram
 profiles:
+  - username: "kamouchefly"
+    fullname: >-
+      Cαmille ♡
+    location: "Canada"
+    followers: 19947
+    engagement: 982
+    commentsToLikes: 0.012656
+    id: ckaoxzwdhfgyp0i78uocdov14
+    verified: false
+    hashtags: "#umithesam, #idealofsweden, #thankful, #instatravel"
   - username: "karly.ar"
     fullname: >-
       Karly Renman
     location: "Canada"
-    followers: 16763
-    engagement: 302
-    commentsToLikes: 0.078494
+    followers: 16492
+    engagement: 318
+    commentsToLikes: 0.078217
     id: ck8t8fy2vkbiq0j78v5xqnrgn
+    verified: false
+    hashtags: ""
+  - username: "ellixprincecain"
+    fullname: >-
+      Ellix Prince Cain
+    location: "Canada"
+    followers: 15664
+    engagement: 811
+    commentsToLikes: 0.009794
+    id: ck5zuei5x27kf0i14fzlb7nao
     verified: false
     hashtags: ""
   - username: "fernandolandinofficial"
     fullname: >-
       Fernando Landin
     location: "Canada"
-    followers: 26896
-    engagement: 244
-    commentsToLikes: 0.034634
+    followers: 26490
+    engagement: 249
+    commentsToLikes: 0.024906
     id: ck15pv3kzzrza0i19b2vdvlnu
     verified: false
-    hashtags: "#tattooedgirls, #blondeguy, #reflectionphotography, #quebec"
-  - username: "greshilovevgeny"
+    hashtags: "#latinactress, #shirtlessguys, #montreal, #tattooaddict"
+  - username: "quentingreco"
     fullname: >-
-      Greshilov Evgeny
+      Quentin Greco
     location: "Canada"
-    followers: 45158
-    engagement: 424
-    commentsToLikes: 0.036981
-    id: ck6tjshwb3c2a0j71eafoo2d0
+    followers: 12143
+    engagement: 1486
+    commentsToLikes: 0.017005
+    id: ck5q5evwhskkh0i11x458cdr2
     verified: false
-    hashtags: "#poletricks, #middlesplits, #poleyogi, #poleshoot"
-  - username: "wolf.girl.mtb"
+    hashtags: "#actor, #trust, #stallfull, #cironatime"
+  - username: "velvetangels_vancity"
     fullname: >-
-      Amanda Dexter
+      velvetangels photography
     location: "Canada"
-    followers: 21805
-    engagement: 347
-    commentsToLikes: 0.016915
-    id: ck5zunczx2ovq0i14piz3hdap
+    followers: 10622
+    engagement: 461
+    commentsToLikes: 0.024190
+    id: ck5ho6nxbp19m0i11k23ewg4b
     verified: false
-    hashtags: "#mtbride, #ridemore, #bikebuild, #innersforwinners"
-  - username: "drsarasolomon"
+    hashtags: "#poledancer, #suicidegirls, #supportartists, #vibrant"
+  - username: "thegirlwhoclimbs"
     fullname: >-
-      Dr. Sara Solomon, BSc PT, DMD
+      Katie 🇨🇦
     location: "Canada"
-    followers: 47574
-    engagement: 99
-    commentsToLikes: 0.058067
-    id: ck6ufo4rty5uw0j71gfc0sbho
+    followers: 6978
+    engagement: 661
+    commentsToLikes: 0.029327
+    id: ck6tkgrx94o4m0j71hh88wo66
     verified: false
-    hashtags: "#overheadmobility, #togetherapart, #strongerthanyouthink, #poledancer"
-  - username: "arthurmvh"
+    hashtags: "#dogsofinstagram, #women, #pinus, #trashpanda"
+  - username: "horrorguerrero"
     fullname: >-
-      Arthur Morel Van Hyfte
+      Gigi Saul Guerrero
     location: "Canada"
-    followers: 8892
-    engagement: 659
-    commentsToLikes: 0.019504
-    id: ck55pn7d7axki0i11qad78ahz
-    verified: false
-    hashtags: "#instinct, #love, #laying, #bending"
-  - username: "ecarnie"
-    fullname: >-
-      Erin Carnie
-    location: "Canada"
-    followers: 11850
-    engagement: 914
-    commentsToLikes: 0.042474
-    id: ck5hcrfc2jl2j0i11ih8kyk8h
-    verified: false
-    hashtags: "#yogi, #aerialhoop, #puppiesofinstagram, #family"
-  - username: "the.nicky.ninedoors"
-    fullname: >-
-      Nicky Ninedoors
-    location: "Canada"
-    followers: 14655
-    engagement: 539
-    commentsToLikes: 0.055366
-    id: ck6tu569ied7u0j71zovp2dpj
-    verified: false
-    hashtags: "#womensupportingwomen, #itsamood, #paymyrentdaddy, #offdutystripper"
+    followers: 13842
+    engagement: 514
+    commentsToLikes: 0.048278
+    id: ck5c2hl32xa0f0i11cci51sbh
+    verified: true
+    hashtags: "#bestie, #crying, #isolation, #stephenking"
 ---

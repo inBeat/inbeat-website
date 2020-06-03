@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Germany In 2020
 description: >-
-  Find top fitness Instagram influencers in Germany in 2020. Most popular hashtags: #fitness #motivation #fashion #hamburg.
+  Find top fitness Instagram influencers in Germany in 2020. Most popular hashtags: #staypositive #summervibes #fashionblogger #hannover.
 platform: Instagram
 profiles:
-  - username: "ma_delina_"
+  - username: "filipexferreira"
     fullname: >-
-      Fitness | Fashion | Model
+      Fitness
     location: "Germany"
-    followers: 5526
-    engagement: 2037
-    commentsToLikes: 0.084127
-    id: ck5c3akacywxz0i11jnw6f6a9
+    followers: 44367
+    engagement: 736
+    commentsToLikes: 0.016554
+    id: ck9hctx2cmyit0j78mqxuciyl
     verified: false
-    hashtags: "#ganznormalesplanschen, #cheerleading, #handmade, #angels"
+    hashtags: ""
+  - username: "jacki.byr"
+    fullname: >-
+      Jacki 🍍
+    location: "Germany"
+    followers: 5042
+    engagement: 2098
+    commentsToLikes: 0.126161
+    id: ck8t8vsl9m0yx0j7850rvescv
+    verified: false
+    hashtags: "#sundayvibes, #spring, #blackdress, #styleblogger"
+  - username: "iamjeannyguapa"
+    fullname: >-
+      TRAVEL | FASHION | INSPO
+    location: "Germany"
+    followers: 7028
+    engagement: 1813
+    commentsToLikes: 0.116143
+    id: ckap75goripgz0i78or915ml8
+    verified: false
+    hashtags: "#petal, #babygirl, #tattooed, #completefood"
+  - username: "louisa_rl"
+    fullname: >-
+      FITNESS |FOOD |MOTIVATION
+    location: "Germany"
+    followers: 14256
+    engagement: 1795
+    commentsToLikes: 0.094076
+    id: ckaozlmrcmet80i78msfszzbs
+    verified: false
+    hashtags: "#workoutplan, #workout, #hannover, #hannoverfitness"
+  - username: "vicivanilli"
+    fullname: >-
+      V I C T O R I A
+    location: "Germany"
+    followers: 13227
+    engagement: 1606
+    commentsToLikes: 0.172197
+    id: ck0twqwqjgh3k0i197rqeombt
+    verified: false
+    hashtags: "#happynewyear, #happyeaster, #kassel, #stolzaufmich"
   - username: "burakdinc__"
     fullname: >-
-      BURAK DINC 🧿
+      BURAK DINC
     location: "Germany"
-    followers: 11131
-    engagement: 1386
-    commentsToLikes: 0.106384
+    followers: 11027
+    engagement: 1388
+    commentsToLikes: 0.103672
     id: ck0u1nqppxf210i19mljrs9l4
     verified: false
-    hashtags: "#schwanger, #stayhome, #hamburg, #frankfurt"
+    hashtags: "#pullandbear, #eltern, #couplegoals, #baby"
+  - username: "mariiisa_hofi"
+    fullname: >-
+      HEALTHY FOOD I LIFESTYLE
+    location: "Germany"
+    followers: 27554
+    engagement: 978
+    commentsToLikes: 0.067217
+    id: ck0txg2zcizdk0i19ulv1zs53
+    verified: false
+    hashtags: "#animalprint, #bikinishoot, #mundpflege, #abschiednehmen"
   - username: "marie_kroon"
     fullname: >-
-      fitness | food | fashion✨
+      FITNESS | FOOD| FASHION👑
     location: "Germany"
-    followers: 4091
-    engagement: 3201
-    commentsToLikes: 0.206087
+    followers: 5545
+    engagement: 3264
+    commentsToLikes: 0.179457
     id: ck8t3uy124l9p0j78mv15gcyi
     verified: false
-    hashtags: "#blogger, #fitnessgirl, #carmushkapresets, #fashionblogger"
-  - username: "jonaskozi"
+    hashtags: "#stayathome, #starbucks, #brownhair, #bloggerstyle"
+  - username: "allaboutgiana"
     fullname: >-
-      jonas | papablogger
+      𝐆 𝐈 𝐀 𝐍 𝐀 🕊
     location: "Germany"
-    followers: 5579
-    engagement: 1618
-    commentsToLikes: 0.080200
-    id: ck5hj97cig8960i11v611ez4v
+    followers: 3499
+    engagement: 2730
+    commentsToLikes: 0.385156
+    id: ckapbnc5g0k7g0i787wqugg6x
     verified: false
-    hashtags: "#samstagabend, #diebestenstoffwindelnde, #daddy, #4monate"
-  - username: "das_jannik"
+    hashtags: "#bestie, #summervibes, #fashionblogger, #staymotivated"
+  - username: "eva_sporttorte"
     fullname: >-
-      ⇝  J Λ N N I Κ ® ⇜
+      𝐄𝐯𝐚 - 𝐅𝐢𝐭𝐧𝐞𝐬𝐬• 𝐅𝐨𝐨𝐝• 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞
     location: "Germany"
-    followers: 51554
-    engagement: 651
-    commentsToLikes: 0.067211
-    id: ck0w74qwubr5a0i19427qf4tn
+    followers: 5888
+    engagement: 1999
+    commentsToLikes: 0.079410
+    id: ck9hcgcmcl9940j78tetqo45p
     verified: false
-    hashtags: "#parfume, #throwback, #greenshirt, #kangaroo"
-  - username: "rafirachek"
-    fullname: >-
-      RAFI RACHEK 🌴
-    location: "Germany"
-    followers: 60090
-    engagement: 1362
-    commentsToLikes: 0.044961
-    id: ck5zqt7edv91t0i14mvx3vvww
-    verified: true
-    hashtags: "#photography, #greece, #bachelor, #nohashtagneeded"
-  - username: "carlatinkerbelli"
-    fullname: >-
-      𝕗𝕚𝕥𝕟𝕖𝕤𝕤, 𝕗𝕠𝕠𝕕 𝕒𝕟𝕕 𝕗𝕒𝕤𝕙𝕚𝕠𝕟
-    location: "Germany"
-    followers: 9300
-    engagement: 1229
-    commentsToLikes: 0.336867
-    id: ck8ta6hqzqmg90j78r60s89l8
-    verified: false
-    hashtags: "#blonde, #anajohnsonpreset, #prettylittletrip, #fashion"
-  - username: "salomehaymanot"
-    fullname: >-
-      ሶሎሜ
-    location: "Germany"
-    followers: 8020
-    engagement: 1612
-    commentsToLikes: 0.059597
-    id: ck5q5eddhsife0i11ud6vnj02
-    verified: false
-    hashtags: "#giveaway, #fashioninspo, #melaninmagic, #ethiophia"
-  - username: "julia__fitness"
-    fullname: >-
-      Fitness | Fashion | Travel
-    location: "Germany"
-    followers: 8317
-    engagement: 1274
-    commentsToLikes: 0.107927
-    id: ck13bo7pqwcyr0i198di1vtgf
-    verified: false
-    hashtags: "#vacationmode, #travelbloggerlife, #lifestylephotography, #fitnessmotivationdaily"
-  - username: "maxgretschmann"
-    fullname: >-
-      Maximilian Josef Gretschmann
-    location: "Germany"
-    followers: 22338
-    engagement: 778
-    commentsToLikes: 0.065420
-    id: ck8t7foowgmic0j782cp70r3b
-    verified: false
-    hashtags: "#handcycling, #wheelietime, #beerlover, #stayhomechallenge"
+    hashtags: "#bodygoals2020, #beautifulnature, #gutetat, #grow"
 ---

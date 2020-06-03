@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cinema Instagram Influencers In South Africa In 2020
 description: >-
-  Find top cinema Instagram influencers in South Africa in 2020. Most popular hashtags: #natgeo #quarantinecontent #art #quarantine.
+  Find top cinema Instagram influencers in South Africa in 2020. Most popular hashtags: #africa #wildlife #earthcapture #wildlifephotography.
 platform: Instagram
 profiles:
   - username: "cynthiajonqueres"
     fullname: >-
-      CYNTHIA JONQUERES
+      Cynthia
     location: "South Africa"
-    followers: 7475
-    engagement: 1909
-    commentsToLikes: 0.039353
+    followers: 7460
+    engagement: 1425
+    commentsToLikes: 0.043566
     id: ck5cb69oyetgi0i11s03wywbn
     verified: false
-    hashtags: "#strongersweden"
+    hashtags: ""
   - username: "courteneychilleigh"
     fullname: >-
       C O U R T E N E Y
     location: "South Africa"
-    followers: 4635
-    engagement: 1268
-    commentsToLikes: 0.038906
+    followers: 4598
+    engagement: 1413
+    commentsToLikes: 0.042207
     id: ck5zmwhwnnc3h0i14sj9gvjt5
     verified: false
-    hashtags: "#bringtheadventure, #trusttheprocess"
+    hashtags: "#trusttheprocess, #howareyoureally, #bringtheadventure"
   - username: "sweetsmilesbug"
     fullname: >-
       COZAY MONTAGE 🎞📹 CPT/LAGOS
     location: "South Africa"
-    followers: 2248
-    engagement: 1794
-    commentsToLikes: 0.041298
+    followers: 2404
+    engagement: 1835
+    commentsToLikes: 0.039621
     id: ck0vyh40e3ytv0i19su9ds697
     verified: false
     hashtags: "#cinematography, #dripup, #4eva"
+  - username: "sandilem_"
+    fullname: >-
+      Sandile Mahlangu
+    location: "South Africa"
+    followers: 152846
+    engagement: 445
+    commentsToLikes: 0.033075
+    id: ck6u4od8t4vmf0j7104jj0exg
+    verified: false
+    hashtags: "#mirrorchallenge, #loopchallenge, #theretheygo, #birds"
   - username: "wildlifejosh"
     fullname: >-
       Josh Guyan
     location: "South Africa"
-    followers: 12597
-    engagement: 546
-    commentsToLikes: 0.019886
+    followers: 12817
+    engagement: 538
+    commentsToLikes: 0.021459
     id: ck5cb6ao0ethw0i112hjlcnsi
     verified: false
-    hashtags: "#wildlifephotographer, #doonethingtoday, #worldwildlifeday, #fightforyourworld"
-  - username: "lebolukewarm"
-    fullname: >-
-      Lebo Lukewarm
-    location: "South Africa"
-    followers: 30185
-    engagement: 86
-    commentsToLikes: 0.138080
-    id: ck0u74q063qpr0i19qyl63dyj
-    verified: false
-    hashtags: "#art, #malemodel, #crustybarista, #phezulu"
-  - username: "ianthurtell"
-    fullname: >-
-      Ian Thurtell
-    location: "South Africa"
-    followers: 6861
-    engagement: 518
-    commentsToLikes: 0.014034
-    id: ck0w4p2iwzote0i19t4et9h2o
-    verified: false
-    hashtags: "#skeletonbay, #photography, #tablemountain, #surf"
+    hashtags: "#wildlifephotography, #wildlife, #wildlifephoto, #worldwildlifeday"
   - username: "gingerwithagopro"
     fullname: >-
-      Cape Town | Create | Travel
+      Cape Town | Covid | Travel
     location: "South Africa"
-    followers: 21582
-    engagement: 673
-    commentsToLikes: 0.043712
+    followers: 24958
+    engagement: 696
+    commentsToLikes: 0.078441
     id: ck6udpk0xmflb0j712m2dl2kz
     verified: false
-    hashtags: "#blessings, #southafricalockdown, #covid, #stayinghome"
+    hashtags: "#document, #ubuntu, #raisinghope, #thisissouthafrica"
+  - username: "ianthurtell"
+    fullname: >-
+      
+    location: "South Africa"
+    followers: 6873
+    engagement: 507
+    commentsToLikes: 0.014312
+    id: ck0w4p2iwzote0i19t4et9h2o
+    verified: false
+    hashtags: "#surfer, #art, #namibia, #life"
   - username: "africa_alive"
     fullname: >-
       Steven Dover
     location: "South Africa"
-    followers: 17432
-    engagement: 199
-    commentsToLikes: 0.010346
+    followers: 17201
+    engagement: 198
+    commentsToLikes: 0.010885
     id: ck8sz1e02mtau0j78b09qt2s9
     verified: false
-    hashtags: "#instalove, #natgeowild, #natgeo, #nature"
-  - username: "arnogreeff"
+    hashtags: "#krugernationalpark, #nikonphotographer, #istavideo, #instalove"
+  - username: "michelle.b.sampaio"
     fullname: >-
-      Arno Greeff
+      Michelle Sampaio
     location: "South Africa"
-    followers: 26945
-    engagement: 338
-    commentsToLikes: 0.029141
-    id: ck5q8fff95x2k0i11dhik58t3
+    followers: 10237
+    engagement: 796
+    commentsToLikes: 0.043892
+    id: ck5hnxbgfojxa0i11spbww8lm
     verified: false
-    hashtags: "#truelove, #pamelaanderson, #getjiggywithit, #trickshotchallenge"
+    hashtags: "#jewelry, #andratuttobene, #nomundo, #awakening"
   - username: "jvdoming"
     fullname: >-
       Javier Dominguez
     location: "South Africa"
-    followers: 27653
-    engagement: 863
-    commentsToLikes: 0.120818
+    followers: 27412
+    engagement: 881
+    commentsToLikes: 0.119463
     id: ck0ttjfhj2zjb0i19kajjh6oq
     verified: false
-    hashtags: "#vfxartist, #themoodgamez, #imaginativeuniverse, #nectarambassadors"
+    hashtags: "#cinemagram, #fabolousshot, #fotostudio, #primetonez"
 ---

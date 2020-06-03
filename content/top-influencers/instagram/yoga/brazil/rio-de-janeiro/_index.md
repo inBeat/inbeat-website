@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Rio De Janeiro In 2020
 description: >-
-  Find top yoga Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #hawaii #practiceandalliscoming #yoga #ashtangayoga.
+  Find top yoga Instagram influencers in Rio De Janeiro in 2020. Most popular hashtags: #yoga #repost #riodejaneiro #earthday.
 platform: Instagram
 profiles:
   - username: "bethpedote_ashtanga"
     fullname: >-
       Beth Pedote
     location: "Brazil"
-    followers: 96894
-    engagement: 163
-    commentsToLikes: 0.049712
+    followers: 100895
+    engagement: 240
+    commentsToLikes: 0.052078
     id: ck0ty44ozljp30i19oituiecj
     verified: false
-    hashtags: "#feliznossodia, #riodejaneiro, #vemcomagente, #tksgod"
+    hashtags: "#somostodosum, #upsidedown, #earthday, #happyeaster"
+  - username: "_isabellabittencourt_"
+    fullname: >-
+      Isabella Bittencourt
+    location: "Brazil"
+    followers: 7655
+    engagement: 819
+    commentsToLikes: 0.137959
+    id: ck5hiic1bdnh30i1121fdq4ve
+    verified: false
+    hashtags: "#repost, #emagrecimento, #emagrecer, #pele"
   - username: "rockthemountain"
     fullname: >-
       Festival Rock The Mountain
     location: "Brazil"
-    followers: 30061
-    engagement: 472
-    commentsToLikes: 0.106619
+    followers: 28933
+    engagement: 482
+    commentsToLikes: 0.083559
     id: ck55lvdg92j7d0i11o1eaz3om
     verified: false
-    hashtags: "#rockthemountain2020, #rtm19, #respectthenature, #rtm2020"
-  - username: "suninha_rosa"
+    hashtags: "#respectthenature, #rtm2019, #rtm, #rtm2020"
+  - username: "angelazaremba.photo"
     fullname: >-
-      Sunamita Fernandes
+      Angela Zaremba
     location: "Brazil"
-    followers: 8981
-    engagement: 404
-    commentsToLikes: 0.019465
-    id: ck0twoz3gg8870i192c7yvmpk
+    followers: 8939
+    engagement: 246
+    commentsToLikes: 0.048705
+    id: ck5c6b3vo52tm0i1149eb1klb
     verified: false
-    hashtags: "#carnaval, #lgbt, #makeuptutorial, #maquiagens"
+    hashtags: "#green, #mindmapping, #metmuseum, #yoga"
   - username: "danysayoga"
     fullname: >-
       Dany Sa
     location: "Brazil"
-    followers: 76512
-    engagement: 366
-    commentsToLikes: 0.024124
+    followers: 78622
+    engagement: 388
+    commentsToLikes: 0.026871
     id: ck0txavmdij790i19enfrjnpn
     verified: false
-    hashtags: "#yogainspiration, #moviment, #tictoc, #dropbacks"
-  - username: "carolemmerick"
+    hashtags: "#internationalwomensday, #diainternacionaldamulher, #breathandrelax, #tictoc"
+  - username: "theatromunicipalrj"
     fullname: >-
-      Carol Emmerick
+      Theatro Municipal RJ
     location: "Brazil"
-    followers: 27603
-    engagement: 130
-    commentsToLikes: 0.031546
-    id: ck0w6uvrqae3l0i198vmmgke0
+    followers: 33666
+    engagement: 85
+    commentsToLikes: 0.031664
+    id: ck5cc5p55grmq0i11x4l4yqk7
     verified: false
-    hashtags: "#tbt"
-  - username: "jeronimovargas"
+    hashtags: "#theatromunicipalrj, #franciscomignoneo, #salaceciliameireles, #ivanjorgensen"
+  - username: "arquiteta.camilafleck"
     fullname: >-
-      Jeronimo Vargas
+      ⇨ARQUITETA Rio de Janeiro
     location: "Brazil"
-    followers: 14303
-    engagement: 421
-    commentsToLikes: 0.030197
-    id: ck6u4sxfg5lj00j71jiwltdpi
+    followers: 95044
+    engagement: 86
+    commentsToLikes: 0.073728
+    id: ck8tcyyme17w30j781h9zglbl
     verified: false
-    hashtags: "#raw, #wsl, #rj, #flopos"
-  - username: "acarolfraga"
-    fullname: >-
-      𝐂𝐚𝐫𝐨𝐥 𝐅𝐫𝐚𝐠𝐚 🌸
-    location: "Brazil"
-    followers: 21245
-    engagement: 384
-    commentsToLikes: 0.098845
-    id: ck5qct7sns7qm0i11te18v14i
-    verified: false
-    hashtags: "#biotreino, #lotusrstore, #uruguay, #turisteando"
+    hashtags: "#covid19, #pascoadecor, #quartomasculino, #arcitecture"
   - username: "prileiteyoga"
     fullname: >-
       Priscilla Leite
     location: "Brazil"
-    followers: 82954
-    engagement: 551
-    commentsToLikes: 0.032704
+    followers: 141633
+    engagement: 657
+    commentsToLikes: 0.038912
     id: ck15ug2b7n0de0i194cyesvk7
     verified: false
-    hashtags: "#londonforever, #21diasdeyoga"
-  - username: "dante.yoga"
+    hashtags: "#londonforever, #21diasdeyoga, #earthday"
+  - username: "samiraelage"
     fullname: >-
-      Dante Negreiros
+      Samira Elage | Yoga
     location: "Brazil"
-    followers: 10332
-    engagement: 580
-    commentsToLikes: 0.078128
-    id: ck6u5tkixbnt60j71bd17e5h2
+    followers: 16808
+    engagement: 942
+    commentsToLikes: 0.084708
+    id: ckaoynkgbi9ci0i78chaihvgg
     verified: false
-    hashtags: "#queroviajarmais, #revistaqualviagem, #achadosdasemana, #tbt"
-  - username: "tripbruta"
+    hashtags: ""
+  - username: "deboraalmeida1606"
     fullname: >-
-      Anne S. | Travel | Lifestyle
+      Débora Almeida
     location: "Brazil"
-    followers: 81080
-    engagement: 140
-    commentsToLikes: 0.052421
-    id: ck8tabu75r5670j78sysdwuoo
+    followers: 6216
+    engagement: 938
+    commentsToLikes: 0.774666
+    id: ckaows1oaa6uj0i78lqmcizgk
     verified: false
-    hashtags: "#intercambio, #catsofinstagram, #beachday, #beautifuldestinations"
+    hashtags: "#pinchapractice, #splits, #corremulherada, #flexibility"
 ---

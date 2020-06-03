@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Portugal In 2020
 description: >-
-  Find top skincare Instagram influencers in Portugal in 2020. Most popular hashtags: #ootd #fashionblogger #skincare #blogger.
+  Find top skincare Instagram influencers in Portugal in 2020. Most popular hashtags: #skincare #beauty #makeup #summervibes.
 platform: Instagram
 profiles:
   - username: "adivadarechousa"
     fullname: >-
       CATARINA NORA ®
     location: "Portugal"
-    followers: 7745
-    engagement: 730
-    commentsToLikes: 0.511235
+    followers: 8790
+    engagement: 791
+    commentsToLikes: 0.555643
     id: ck8t5v72nbcwr0j78c21xhpra
     verified: false
-    hashtags: "#girlbosslife, #beautyroutinecoreana, #cabeloruivos, #len"
+    hashtags: "#makeup, #eyeliner, #bomdiamundo, #bloggertrendy"
+  - username: "martaalvespinklemonade"
+    fullname: >-
+      Marta Alves 🌙 Pink Lemonade
+    location: "Portugal"
+    followers: 31195
+    engagement: 330
+    commentsToLikes: 0.122350
+    id: ck5zlojp8l3qj0i144bqujskv
+    verified: false
+    hashtags: "#ufo2, #wakwupandmakeup, #foundation, #maquigem"
+  - username: "criss_own_skin"
+    fullname: >-
+      beauty by Cris
+    location: "Portugal"
+    followers: 4800
+    engagement: 896
+    commentsToLikes: 0.406327
+    id: ck14klvuxq5lx0i19vn7y0lyz
+    verified: false
+    hashtags: "#whiteandgold, #ctilburymakeup, #rituals, #eyecream"
+  - username: "virginiapferreira"
+    fullname: >-
+      Virgínia Ferreira
+    location: "Portugal"
+    followers: 6993
+    engagement: 1212
+    commentsToLikes: 0.166931
+    id: ck8szqi8vpcay0j78qoqxb6qu
+    verified: false
+    hashtags: "#party, #makeup, #guimar, #covid19"
+  - username: "rutesimao"
+    fullname: >-
+      RUTE SIMÃO
+    location: "Portugal"
+    followers: 14768
+    engagement: 956
+    commentsToLikes: 0.541296
+    id: ck0tybitomaou0i19lvaih9nb
+    verified: false
+    hashtags: "#winterootd, #juntossomosmais, #outfitchallenge, #mapifulsecret"
   - username: "martinhagomez"
     fullname: >-
       Martinha Gomez
     location: "Portugal"
-    followers: 25521
-    engagement: 528
-    commentsToLikes: 0.232442
+    followers: 26439
+    engagement: 498
+    commentsToLikes: 0.191096
     id: ck0tybj33marc0i19b7w37ha9
     verified: false
-    hashtags: "#spring, #bridge, #tattoo, #hairstyle"
-  - username: "beatrizmoreiraazevedo"
+    hashtags: "#balalaica, #outfitoftheday, #jeansmurah, #mimi"
+  - username: "dearviola"
     fullname: >-
-      B E A
+      Travel | Lifestyle | Inspo
     location: "Portugal"
-    followers: 30696
-    engagement: 364
-    commentsToLikes: 0.179571
-    id: ck1374btg9plh0i19pbvhs9x8
+    followers: 20156
+    engagement: 1327
+    commentsToLikes: 0.382635
+    id: ck15r5t5969xj0i19nqtgf3vh
     verified: false
-    hashtags: "#fashionable, #stayhome, #ootdfashion, #outfitinspiration"
-  - username: "ceusiilva"
+    hashtags: "#pinklove, #skinfood, #podroze, #travelblogger"
+  - username: "bruna_danin"
     fullname: >-
-      CÉU SILVA
+      Brunadanin
     location: "Portugal"
-    followers: 6466
-    engagement: 710
-    commentsToLikes: 0.695915
-    id: ck0twpakag9tg0i19z32cbduz
+    followers: 12579
+    engagement: 923
+    commentsToLikes: 0.206757
+    id: ck5zp7pghs5dl0i14hz9ssf4l
     verified: false
-    hashtags: "#streetstyle, #giveway, #pixibeauty, #urbanista"
-  - username: "sarapebre"
+    hashtags: "#detox, #bloguer, #burgacases, #caseiphone"
+  - username: "saracastroneves"
     fullname: >-
-      SARA PEBRE | Influencer
+      Welcome To My World ☀️
     location: "Portugal"
-    followers: 11503
-    engagement: 660
-    commentsToLikes: 0.346321
-    id: ck8szqih6pccn0j78hojrkqe7
+    followers: 3545
+    engagement: 1798
+    commentsToLikes: 0.446125
+    id: ck8ta8g4hqu0k0j787howgz4m
     verified: false
-    hashtags: "#nortemoda, #fashionaddict, #giveaway, #influencerportugal"
-  - username: "denise.de.assis"
+    hashtags: "#skin, #workoutathome, #outfitsideas, #pancakes"
+  - username: "joana_magro"
     fullname: >-
-      Denise de Assis
+      Joana 🖤Inspo, Instagram Tips
     location: "Portugal"
-    followers: 35803
-    engagement: 103
-    commentsToLikes: 0.152620
-    id: ck55pejv6aecj0i11hofgff1q
+    followers: 23181
+    engagement: 460
+    commentsToLikes: 0.212057
+    id: ck6tikajb0vlq0j71n9ghvyo4
     verified: false
-    hashtags: "#whowhatwearing, #skyview, #blondehair, #euficoemcasa"
-  - username: "brunaa.mendess"
-    fullname: >-
-      Bruna Mendes
-    location: "Portugal"
-    followers: 73544
-    engagement: 504
-    commentsToLikes: 0.024654
-    id: ck6udsp0mmx4t0j71kp8m6qjg
-    verified: false
-    hashtags: "#thecurlsbehind, #nailsonfleek, #nailstagram, #skin"
-  - username: "luisa.beirao"
-    fullname: >-
-      luisa beirão ✩
-    location: "Portugal"
-    followers: 43698
-    engagement: 286
-    commentsToLikes: 0.015846
-    id: ck137q13scso60i19hvwwxac0
-    verified: false
-    hashtags: "#daddysgirl, #selfcare, #falconeriofficial, #peeling"
-  - username: "tarlajb"
-    fullname: >-
-      Tarla Barbosa
-    location: "Portugal"
-    followers: 28554
-    engagement: 168
-    commentsToLikes: 0.038605
-    id: ck55j31a2w5710i11jw6lnuzb
-    verified: false
-    hashtags: "#bodyshape, #loveformakeup, #makeupartistph, #awesomeplace"
-  - username: "andreiaffoliveira"
-    fullname: >-
-      Andreia Filipa Oliveira
-    location: "Portugal"
-    followers: 6734
-    engagement: 934
-    commentsToLikes: 0.478657
-    id: ck8t1cb1lv7we0j782fmaauhy
-    verified: false
-    hashtags: "#stayhometakecare, #makeup, #sushi, #yoins"
+    hashtags: "#1minutemakeup, #effortlessstyle, #inspostyle, #ootdsubmit"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In London In 2020
 description: >-
-  Find top food Instagram influencers in London in 2020. Most popular hashtags: #london #londonfood #londonfoodie #londonrestaurants.
+  Find top food Instagram influencers in London in 2020. Most popular hashtags: #foodlondon #foodstagram #burger #instafood.
 platform: Instagram
 profiles:
+  - username: "lissele.xo"
+    fullname: >-
+      Liss | London Foodie ♥️🇹🇭🇬🇧
+    location: "United Kingdom"
+    followers: 16836
+    engagement: 573
+    commentsToLikes: 0.057439
+    id: ck0ty4697ljuo0i19p75ydrh0
+    verified: false
+    hashtags: "#mozarella, #montcalmspa, #oldstreet, #thaifoodstagram"
+  - username: "thinkingfood247"
+    fullname: >-
+      LONDON FOOD 24/7
+    location: "United Kingdom"
+    followers: 32909
+    engagement: 121
+    commentsToLikes: 0.147507
+    id: ck9wd1szcdoji0j78cqim77ws
+    verified: false
+    hashtags: "#foodphotography, #heresmyfood, #likeforlike, #feedlondonshungry"
   - username: "flyingfluskey"
     fullname: >-
       Rosie Fluskey - Travel Blogger
     location: "United Kingdom"
-    followers: 22169
-    engagement: 365
-    commentsToLikes: 0.014848
+    followers: 21997
+    engagement: 363
+    commentsToLikes: 0.017874
     id: ck14lcrwqu0ld0i19wk80cl8b
     verified: false
-    hashtags: "#maldivesislands, #dreamingoftravel, #cocktails, #loveafolly"
+    hashtags: "#quiz, #baganmyanmar, #itsasmallworld, #beachhuts"
   - username: "afternoonteadiaries"
     fullname: >-
       Afternoon Tea Diaries London
     location: "United Kingdom"
-    followers: 5494
-    engagement: 944
-    commentsToLikes: 0.134125
+    followers: 5489
+    engagement: 958
+    commentsToLikes: 0.133179
     id: ck0vwgl78tm7k0i19meko365u
     verified: false
-    hashtags: "#autumnvibes, #afternoontea, #sweettreats, #beautifulmatters"
-  - username: "laurenrosebell"
+    hashtags: "#christmastea, #christmasiscoming, #tealovers, #autumninlondon"
+  - username: "shegina_goder"
     fullname: >-
-      Lauren Rose Bell
+      SHEGINA GODER
     location: "United Kingdom"
-    followers: 2883
-    engagement: 1069
-    commentsToLikes: 0.252865
-    id: ck8t35pyv1z8p0j78jo8qzooe
+    followers: 15648
+    engagement: 741
+    commentsToLikes: 0.027669
+    id: ck14k1e0an8hw0i197e6y6lzc
     verified: false
-    hashtags: "#streetstyleoutfit, #ukblogger, #londonbrunch, #quarantine"
-  - username: "locatinglucy"
+    hashtags: "#topshopstyles, #foodagran, #food, #londonfood"
+  - username: "anniemacyofficial"
     fullname: >-
-      Locating Lucy
+      BabyG🦋
     location: "United Kingdom"
-    followers: 4455
-    engagement: 2371
-    commentsToLikes: 0.096916
-    id: ck14gz0lp7q2f0i19036gu46y
+    followers: 24846
+    engagement: 344
+    commentsToLikes: 0.018516
+    id: ckaouqgxt1dee0i78u0zb7exq
     verified: false
-    hashtags: "#besteuropephotos, #foodietribe, #wereallinthistogether, #pancakelover"
-  - username: "mama_eatwithme"
+    hashtags: "#foodporn, #asianmakeuplook, #turkishcuisine, #sushi"
+  - username: "karunas.kronicles"
     fullname: >-
-      ℙ𝕝𝕠𝕪 | 𝕃𝕠𝕟𝕕𝕠𝕟 𝕗𝕠𝕠𝕕𝕚𝕖🇬🇧
+      Karuna | Food Blogger
     location: "United Kingdom"
-    followers: 7485
-    engagement: 1093
-    commentsToLikes: 0.304324
-    id: ck55o6vx37rgg0i11g4m5te7k
+    followers: 3022
+    engagement: 2169
+    commentsToLikes: 0.260843
+    id: ckap0zw3isiy10i786n1oridg
     verified: false
-    hashtags: "#discoverunder100k, #italianrestaurant, #canterbury, #londonfoodblogger"
+    hashtags: "#naanbread, #lobsterlinguine, #letocaffe, #sundaybrunch"
   - username: "world.foodqueens"
     fullname: >-
       World Food Bloggers
     location: "United Kingdom"
-    followers: 3569
-    engagement: 977
-    commentsToLikes: 0.336090
+    followers: 3504
+    engagement: 1044
+    commentsToLikes: 0.323433
     id: ck5ztjb780iti0i14d8nzwhzl
     verified: false
-    hashtags: "#gijon, #ginger, #prawn, #foodspotting"
-  - username: "inijie"
-    fullname: >-
-      Jiewa Vieri - Food Curator
-    location: "United Kingdom"
-    followers: 100271
-    engagement: 69
-    commentsToLikes: 0.052910
-    id: ck5zosh4lr8nf0i14ibkebcfs
-    verified: false
-    hashtags: "#dirumahsaja, #joyfrozensby, #inijiesingapore, #travel"
+    hashtags: "#brie, #seafood, #farmgirl, #masalazone"
   - username: "deeatss"
     fullname: >-
       dee eats | london food reviews
     location: "United Kingdom"
-    followers: 2618
-    engagement: 750
-    commentsToLikes: 0.210991
+    followers: 2602
+    engagement: 829
+    commentsToLikes: 0.270727
     id: ck0ttl2ft37hb0i19bhcd8nnm
     verified: false
-    hashtags: "#instayum, #competition, #foodblogging, #eatstagram"
-  - username: "wilfredwarrior"
+    hashtags: "#burger, #westindiaquay, #londonpub, #staysafe"
+  - username: "freshmikeeats"
     fullname: >-
-      Wilfred Warrior
+      Food Content Creator
     location: "United Kingdom"
-    followers: 1191571
-    engagement: 525
-    commentsToLikes: 0.011579
-    id: ck15rktw68ev90i19un0uard9
-    verified: true
-    hashtags: "#halloween, #notevenalittlebit, #theellenshow, #meowvswoof"
-  - username: "fatgirlsfoodguide"
-    fullname: >-
-      Fab Foodie based in London
-    location: "United Kingdom"
-    followers: 16826
-    engagement: 180
-    commentsToLikes: 0.214550
-    id: ck0tx2nufhniw0i1927wg5b7a
+    followers: 24012
+    engagement: 380
+    commentsToLikes: 0.114151
+    id: ck0tyw8m9obqw0i19ps2rv1bh
     verified: false
-    hashtags: "#londonsouthbank, #wine, #foodies, #foodbloggerlondon"
+    hashtags: "#englishfood, #pasteldenata, #londonfoodporn, #bobatea"
 ---

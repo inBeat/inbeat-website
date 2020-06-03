@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bakers Instagram Influencers In United Kingdom In 2020
 description: >-
-  Find top bakers Instagram influencers in United Kingdom in 2020. Most popular hashtags: #foodphotography #foodie #f52grams #foodstyling.
+  Find top bakers Instagram influencers in United Kingdom in 2020. Most popular hashtags: #pancakes #grateful #gifted #birthday.
 platform: Instagram
 profiles:
+  - username: "dogtorizzy"
+    fullname: >-
+      Izzy :) 🐾
+    location: "United Kingdom"
+    followers: 5934
+    engagement: 1624
+    commentsToLikes: 0.023904
+    id: ck8wfhe9lfpnm0j7897eo8nud
+    verified: false
+    hashtags: "#veterinary, #youngvets, #beeframen, #friendgoals"
   - username: "stephiblackwell"
     fullname: >-
       Steph Blackwell 🦋
     location: "United Kingdom"
-    followers: 111491
-    engagement: 800
-    commentsToLikes: 0.025028
+    followers: 113621
+    engagement: 797
+    commentsToLikes: 0.026121
     id: ck5py94z9uwd60i11ssf2ppxj
     verified: true
-    hashtags: "#happynewyear, #christmas, #christmasevebakes, #cakesofinstagram"
+    hashtags: "#newyearseve, #weekendvibes, #pancakes, #nosleep"
   - username: "bennyg_500"
     fullname: >-
-      Ben G - 🐦: @cancerandquiff
+      Ben G
     location: "United Kingdom"
-    followers: 5995
-    engagement: 658
-    commentsToLikes: 0.036700
+    followers: 5814
+    engagement: 660
+    commentsToLikes: 0.040413
     id: ck8szbmflnsvj0j78zg6awx7w
     verified: false
-    hashtags: "#prehabilitation, #gaynurse, #lifeisgood, #chemotherapy"
-  - username: "emmaduckworthbakes"
+    hashtags: "#hotel, #yorkritemplars, #nature, #saganaki"
+  - username: "mattmeatsix"
     fullname: >-
-      Emma Duckworth
+      Matt Barnes
     location: "United Kingdom"
-    followers: 32913
-    engagement: 786
-    commentsToLikes: 0.034713
-    id: ck0tteqdh2e970i19wgztfj3w
+    followers: 40375
+    engagement: 424
+    commentsToLikes: 0.009442
+    id: ck5bv3bn6ix4k0i11h5xyuwk2
+    verified: true
+    hashtags: "#whatsitlike, #fire"
+  - username: "joshs_bakes"
+    fullname: >-
+      Joshua Freeman | Baker
+    location: "United Kingdom"
+    followers: 2271
+    engagement: 2089
+    commentsToLikes: 0.143425
+    id: ckap6l9f4gc950i78rxbtgy7x
     verified: false
-    hashtags: "#shrovetuesday, #grateful, #adobepartner, #eattheworld"
+    hashtags: "#cakeofinstagram, #bakestagram, #bakinglove, #cupcakestand"
   - username: "memoirsofabaker"
     fullname: >-
       Gareth
     location: "United Kingdom"
-    followers: 56753
-    engagement: 337
-    commentsToLikes: 0.052201
+    followers: 85763
+    engagement: 546
+    commentsToLikes: 0.040519
     id: ck0udqjtljpih0i19c1z39t7n
     verified: false
-    hashtags: "#levain, #bakersgonnabake, #focaccia, #teacake"
-  - username: "ulrikajonssonofficial"
+    hashtags: "#homemadebrownie, #bake, #shaping, #croissants"
+  - username: "emmaduckworthbakes"
     fullname: >-
-      Ulrika Jonsson
+      Emma Duckworth
     location: "United Kingdom"
-    followers: 56669
-    engagement: 333
-    commentsToLikes: 0.099536
-    id: ck0tta8561tun0i19ktt2ddsk
+    followers: 35446
+    engagement: 660
+    commentsToLikes: 0.038886
+    id: ck0tteqdh2e970i19wgztfj3w
     verified: false
-    hashtags: "#easter, #woveyou, #pastry, #myboy"
+    hashtags: "#grateful, #edbpantry, #smallbatch, #learning"
   - username: "danepemberton"
     fullname: >-
       D A N E • P E M B E R T O N
     location: "United Kingdom"
-    followers: 11551
-    engagement: 466
-    commentsToLikes: 0.134185
+    followers: 15108
+    engagement: 459
+    commentsToLikes: 0.147283
     id: ck6ubn5ikak8q0j71743n5bz9
     verified: false
-    hashtags: "#shiny, #recycle, #skincaregiveaway, #iphone11"
-  - username: "theunlikely_foodie"
-    fullname: >-
-      Emma
-    location: "United Kingdom"
-    followers: 9375
-    engagement: 467
-    commentsToLikes: 0.095502
-    id: ck8t2b1wsysr20j78tdcxdoe9
-    verified: false
-    hashtags: "#f52community, #cakesofinstagram, #lunch, #onmytable"
-  - username: "ladyofashion"
-    fullname: >-
-      MADISON | Food | Lifestyle
-    location: "United Kingdom"
-    followers: 19205
-    engagement: 177
-    commentsToLikes: 0.166192
-    id: ck13bkcgzvtwc0i19plkvepo8
-    verified: false
-    hashtags: "#mexicanartist, #knittersofinstagram, #tabletopstylist, #flatlayphotography"
-  - username: "the_sugar_alchemist"
-    fullname: >-
-      The Sugar Alchemist | Sarah
-    location: "United Kingdom"
-    followers: 17561
-    engagement: 635
-    commentsToLikes: 0.058769
-    id: ck6udl4qulpl50j71xd320ycc
-    verified: false
-    hashtags: "#valentinescupcakes, #geometric, #prettyinpink, #stpatricksdaycake"
+    hashtags: "#crumbsanddoiles, #365skincare, #beautyblogger, #hydrogel"
   - username: "becksjames"
     fullname: >-
       Becky North
     location: "United Kingdom"
-    followers: 47311
-    engagement: 675
-    commentsToLikes: 0.009282
+    followers: 48655
+    engagement: 867
+    commentsToLikes: 0.011356
     id: ck6trzez21ypo0j71rcas3n33
     verified: true
-    hashtags: "#nursery, #28weekspregnant, #hellothirdtrimester, #coronavirus"
+    hashtags: "#28weekspregnant, #covid, #coronavirus, #38weekspregnant"
+  - username: "ulrikajonssonofficial"
+    fullname: >-
+      Ulrika Jonsson
+    location: "United Kingdom"
+    followers: 68236
+    engagement: 386
+    commentsToLikes: 0.086418
+    id: ck0tta8561tun0i19ktt2ddsk
+    verified: false
+    hashtags: "#cinnamonswirl, #tomatoes, #burgers, #veday"
 ---

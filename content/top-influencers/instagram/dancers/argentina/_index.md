@@ -1,107 +1,107 @@
 ---
 title: Top 10 Dancers Instagram Influencers In Argentina In 2020
 description: >-
-  Find top dancers Instagram influencers in Argentina in 2020. Most popular hashtags: #dancer #cuarentena #argentina #summer.
+  Find top dancers Instagram influencers in Argentina in 2020. Most popular hashtags: #dancer #challenge #argentina #model.
 platform: Instagram
 profiles:
-  - username: "florpaludiok"
-    fullname: >-
-      FLORENCIA PALUDI
-    location: "Argentina"
-    followers: 16826
-    engagement: 371
-    commentsToLikes: 0.042450
-    id: ck5zs6fu6xx2k0i14dynxqm5n
-    verified: false
-    hashtags: "#isla, #moda, #tour, #todopuedepasar"
-  - username: "beltran_h"
-    fullname: >-
-      Beltran Horisberger
-    location: "Argentina"
-    followers: 17935
-    engagement: 970
-    commentsToLikes: 0.013315
-    id: ck5hpx9res4n90i1177utfjg5
-    verified: false
-    hashtags: "#fullmoon, #pride, #dancer, #voguing"
-  - username: "delgadolourdes1"
-    fullname: >-
-      Lourdes Delgado Niglia 🐍
-    location: "Argentina"
-    followers: 113528
-    engagement: 342
-    commentsToLikes: 0.013322
-    id: ck5zkuh1hk6ge0i14y0ar81pp
-    verified: false
-    hashtags: "#iguazsomostodos, #cataratastodoela"
   - username: "lupejelena"
     fullname: >-
       Lupe Jelena
     location: "Argentina"
-    followers: 20526
-    engagement: 234
-    commentsToLikes: 0.016482
+    followers: 20535
+    engagement: 390
+    commentsToLikes: 0.036559
     id: ck6031e63kgku0i14ihaxj0qa
     verified: false
-    hashtags: "#modelcouple, #togetherness, #pointeshoes, #hands"
-  - username: "anne_francisque"
+    hashtags: "#thoughts, #balance, #swan, #legsfordays"
+  - username: "florpaludiok"
     fullname: >-
-      𝔸𝕟𝕚𝕥𝕒 🌸
+      FLORENCIA PALUDI
     location: "Argentina"
-    followers: 316112
-    engagement: 109
-    commentsToLikes: 0.020054
-    id: ck6udv6drnbpw0j71wnjueou6
+    followers: 16748
+    engagement: 368
+    commentsToLikes: 0.050734
+    id: ck5zs6fu6xx2k0i14dynxqm5n
     verified: false
-    hashtags: "#rutinapiernas, #model, #blondie, #tour"
+    hashtags: "#annita, #dancerlife, #model, #tufabulosofinde"
+  - username: "allymade"
+    fullname: >-
+      Rubia oxigenada
+    location: "Argentina"
+    followers: 18649
+    engagement: 795
+    commentsToLikes: 0.013513
+    id: ckap4ugdq8xcg0i78oyso0q6e
+    verified: false
+    hashtags: "#upd, #7d"
+  - username: "belupouchan"
+    fullname: >-
+      Belen🦋
+    location: "Argentina"
+    followers: 369198
+    engagement: 228
+    commentsToLikes: 0.013002
+    id: ck5zy005e8zan0i14cp558uu1
+    verified: true
+    hashtags: "#cuarentena, #challenge, #aerialstraps"
+  - username: "laraamorales"
+    fullname: >-
+      Lari
+    location: "Argentina"
+    followers: 2893
+    engagement: 1173
+    commentsToLikes: 0.068639
+    id: ck5c7dgcu7bqi0i11qtzdo9es
+    verified: false
+    hashtags: "#parrislive"
   - username: "ampipenia"
     fullname: >-
-      Amparo Peña
+      Amparo Peña
     location: "Argentina"
-    followers: 24120
-    engagement: 731
-    commentsToLikes: 0.034225
+    followers: 35493
+    engagement: 805
+    commentsToLikes: 0.047313
     id: ck6tvhg4km9250j71dbaw2bqh
     verified: false
-    hashtags: "#jbalvin, #rojo, #lasrodillastelasregalo, #jojocoreography"
-  - username: "georginatirotta"
+    hashtags: "#cazzu, #daddyyankee, #elalfaeljefe, #vot1"
+  - username: "beltran_h"
     fullname: >-
-      Geor Tirotta
+      Beltran Horisberger
     location: "Argentina"
-    followers: 37634
-    engagement: 159
-    commentsToLikes: 0.047564
-    id: ck6015shqew030i144mrd5fhq
+    followers: 20198
+    engagement: 819
+    commentsToLikes: 0.013054
+    id: ck5hpx9res4n90i1177utfjg5
     verified: false
-    hashtags: "#orangetime, #ultimosrayosdesol, #helena, #beachparty"
-  - username: "merrynyc"
+    hashtags: "#pink, #plussizefashion, #portrait, #drawing"
+  - username: "delgadolourdes1"
     fullname: >-
-      Maria Riccetto
+      Lourdes Delgado Niglia 🐍
     location: "Argentina"
-    followers: 28483
-    engagement: 536
-    commentsToLikes: 0.033017
-    id: ck5hj3aetfxbb0i11stx3ff48
+    followers: 112871
+    engagement: 343
+    commentsToLikes: 0.013201
+    id: ck5zkuh1hk6ge0i14y0ar81pp
     verified: false
-    hashtags: "#bancadabicameralfemenina, #tranquilidad, #underarmour, #move"
-  - username: "nicoh.flei"
+    hashtags: "#iguazsomostodos, #cataratastodoela"
+  - username: "isisfloresoficial"
     fullname: >-
-      Nicolas Fleitas
+      Isis Flores
     location: "Argentina"
-    followers: 10146
-    engagement: 1188
-    commentsToLikes: 0.035899
-    id: ck5zs6f3axx1b0i146b4ub7lk
+    followers: 4007
+    engagement: 2022
+    commentsToLikes: 0.122752
+    id: ck9wds159h0h10j78ei5mi891
     verified: false
-    hashtags: "#dique, #naturaleza, #diaespecial, #planb"
-  - username: "gabiischenkel"
+    hashtags: "#latintrap, #hearthismusic, #masticaytraga, #rhlm"
+  - username: "claudiozabala.dancer"
     fullname: >-
-      Gabii Schenkel
+      Claudio Zabala
     location: "Argentina"
-    followers: 2311
-    engagement: 1212
-    commentsToLikes: 0.075446
-    id: ck6tn47ks93o60j71nt76wnkg
+    followers: 6815
+    engagement: 1077
+    commentsToLikes: 0.112601
+    id: ckaov6xbf3bku0i78mce1uo1g
     verified: false
-    hashtags: "#dancehall, #assurance, #waacking, #video"
+    hashtags: "#challenge, #wherecanidance, #dancer, #salsa"
 ---

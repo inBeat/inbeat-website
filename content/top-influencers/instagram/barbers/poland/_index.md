@@ -1,107 +1,107 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Poland In 2020
 description: >-
-  Find top barbers Instagram influencers in Poland in 2020. Most popular hashtags: #style #poland #zosta #polska.
+  Find top barbers Instagram influencers in Poland in 2020. Most popular hashtags: #barber #zosta #homeoffice #family.
 platform: Instagram
 profiles:
   - username: "den_cutting"
     fullname: >-
       • 𝙈𝙧. 𝘾𝙪𝙩𝙩𝙞𝙣𝙜  •
     location: "Poland"
-    followers: 84137
-    engagement: 565
-    commentsToLikes: 0.005359
+    followers: 86026
+    engagement: 456
+    commentsToLikes: 0.006331
     id: ck134f5o8w5ex0i194ryi1y8x
     verified: false
-    hashtags: "#picture, #grafika, #flashtattoo, #tattooedman"
+    hashtags: "#photomodel, #seaside, #aviator, #inked"
   - username: "awaked_moments"
     fullname: >-
       Madzik
     location: "Poland"
-    followers: 8697
-    engagement: 1002
-    commentsToLikes: 0.120506
+    followers: 8712
+    engagement: 975
+    commentsToLikes: 0.112152
     id: ck13d4qlz3of80i19ikre5ol5
     verified: false
-    hashtags: "#cosmetiques, #usmiech, #stairs, #haircare"
-  - username: "lauracocoreiss"
+    hashtags: "#swedengirls, #christmas, #barber, #coffee"
+  - username: "ojciecredaktor"
     fullname: >-
-      Laura Reiss-Vogel LAURELLA
+      Damian Michałowski
     location: "Poland"
-    followers: 143397
-    engagement: 349
-    commentsToLikes: 0.037629
-    id: ck0tz1xgkou8m0i19dcnkgvdd
+    followers: 23459
+    engagement: 606
+    commentsToLikes: 0.023413
+    id: ck6ts8oyx3cyr0j7155k2o18a
     verified: false
-    hashtags: "#dress, #sukces, #girl, #hairstyle"
-  - username: "niester_house"
-    fullname: >-
-      𝐃𝐀𝐖𝐈𝐃 𝐍𝐈𝐄𝐒𝐓𝐄𝐑
-    location: "Poland"
-    followers: 28192
-    engagement: 640
-    commentsToLikes: 0.031405
-    id: ck14hsr1iby1d0i19pyo5k9au
-    verified: false
-    hashtags: "#menshair, #meskiefryzury, #piekne, #polski"
+    hashtags: "#dzienmamy, #sunnyday, #stayhome, #kocyk"
   - username: "ireneusz_pochwala"
     fullname: >-
       Ireneusz Pochwała
     location: "Poland"
-    followers: 10425
-    engagement: 910
-    commentsToLikes: 0.029552
+    followers: 10168
+    engagement: 885
+    commentsToLikes: 0.030607
     id: ck6tybtey2tgs0j71z4pl36nx
     verified: false
-    hashtags: "#picoftheday, #motivation, #souvre, #wygralem"
+    hashtags: "#friends, #healthy, #trener, #garnitur"
   - username: "esey_o_silowni"
     fullname: >-
       Mateusz Kozłowski
     location: "Poland"
-    followers: 18044
-    engagement: 324
-    commentsToLikes: 0.045281
+    followers: 17919
+    engagement: 361
+    commentsToLikes: 0.041767
     id: ck6tx8dk6welf0j71dvkp0fym
     verified: false
-    hashtags: "#wolnyponiedzia, #zakochany, #better, #moge"
-  - username: "bartekjedrzejak_official"
+    hashtags: "#pala, #suitstyle, #koronaferie, #klient"
+  - username: "kasprzykowskibartek"
     fullname: >-
-      Bartek Jędrzejak
+      Bartek KasprzykowskiOficjalnie
     location: "Poland"
-    followers: 52308
-    engagement: 246
-    commentsToLikes: 0.022911
-    id: ck13aqk29roi30i19nge7inku
+    followers: 81495
+    engagement: 146
+    commentsToLikes: 0.035226
+    id: ck8t070wor0w70j78yzgewt7q
     verified: false
-    hashtags: "#rest, #camel, #smile, #outside"
+    hashtags: "#ch, #syzyfoweprace, #amant, #filozowanie"
+  - username: "obamakoks"
+    fullname: >-
+      Jakub Obara
+    location: "Poland"
+    followers: 18402
+    engagement: 435
+    commentsToLikes: 0.017245
+    id: ck5zt6795ztb50i148upph9hw
+    verified: false
+    hashtags: "#funny, #nutrition, #staysafe, #stayhome"
+  - username: "jakubroskosz"
+    fullname: >-
+      Jakub Roskosz
+    location: "Poland"
+    followers: 72082
+    engagement: 117
+    commentsToLikes: 0.026497
+    id: ck5bx7u0tn69n0i11kdibntfe
+    verified: false
+    hashtags: "#grecja, #loropiana, #slowlife, #santorini"
+  - username: "karolklos"
+    fullname: >-
+      Karol Kłos
+    location: "Poland"
+    followers: 154060
+    engagement: 969
+    commentsToLikes: 0.004381
+    id: ck15p9qiswsqf0i192y961aqv
+    verified: true
+    hashtags: "#kapitalnewyzwanie, #go, #hiitworkout, #husbandoftheyear"
   - username: "bartforrester"
     fullname: >-
       Bart | menswear & fashion
     location: "Poland"
-    followers: 23500
-    engagement: 285
-    commentsToLikes: 0.047966
+    followers: 23127
+    engagement: 297
+    commentsToLikes: 0.047731
     id: ck5qd2z0ttkcf0i1169egz74o
     verified: false
-    hashtags: "#maninblack, #slubnaglowie, #mencoat, #businessstyle"
-  - username: "sebstaszewski"
-    fullname: >-
-      Sebastian Staszewski
-    location: "Poland"
-    followers: 24718
-    engagement: 268
-    commentsToLikes: 0.012127
-    id: ck0w02qzwc3ig0i19whkzrtu0
-    verified: false
-    hashtags: "#krychowiak, #friends, #napi, #dobra"
-  - username: "patrykboryniec"
-    fullname: >-
-      patrykboryniec⚡️
-    location: "Poland"
-    followers: 20785
-    engagement: 751
-    commentsToLikes: 0.072235
-    id: ck8wf4kbuf4480j78kekcyc5d
-    verified: false
-    hashtags: "#smartwatchgarett, #dinner, #breakfast, #vlogzdomu"
+    hashtags: "#portrait, #slub, #analoguepeople, #suspenders"
 ---

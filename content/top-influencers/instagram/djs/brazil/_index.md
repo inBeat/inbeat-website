@@ -1,107 +1,107 @@
 ---
 title: Top 10 Djs Instagram Influencers In Brazil In 2020
 description: >-
-  Find top djs Instagram influencers in Brazil in 2020. Most popular hashtags: #djlife #dj #gratidao #party.
+  Find top djs Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #produ #producer #negros.
 platform: Instagram
 profiles:
-  - username: "bruninhamanager"
+  - username: "aqueleamparo"
     fullname: >-
-      Bruninha Barbosa 🎶🤍
+      Pedro Amparo
     location: "Brazil"
-    followers: 23119
-    engagement: 228
-    commentsToLikes: 0.069091
-    id: ck5qbdks3l2ld0i11bma0z7n4
+    followers: 6311
+    engagement: 556
+    commentsToLikes: 0.068467
+    id: ck8t0kefbsd3p0j78pbp3ivsb
     verified: false
-    hashtags: "#vaitercoxinha, #djsamhara, #aovivo, #pitizindeex"
-  - username: "cassianobarreiros"
+    hashtags: "#blackmodel, #percussao, #canon, #cameraemfoco"
+  - username: "vitinhodopassinho"
     fullname: >-
-      DjCassiano Barreiros Produções
+      VICTOR GUILHERME
     location: "Brazil"
-    followers: 39312
-    engagement: 33
-    commentsToLikes: 0.113970
-    id: ck136fyys6b2s0i19hnladnga
+    followers: 11432
+    engagement: 1608
+    commentsToLikes: 0.638957
+    id: ck8tb71fiujzs0j78twg3rpop
     verified: false
-    hashtags: "#orgulhoso, #nutrition, #openformatdj, #eventosesportivos"
-  - username: "tokinhooficial"
+    hashtags: "#escocia, #breganews, #rave, #pumpit"
+  - username: "geo.zip"
     fullname: >-
-      Tokinho
+      GEO
     location: "Brazil"
-    followers: 539534
-    engagement: 156
-    commentsToLikes: 0.019138
-    id: ck0u67mn914ob0i190e121h8i
+    followers: 5481
+    engagement: 553
+    commentsToLikes: 0.055424
+    id: ck5zu4g6n1o2n0i14l7ntjera
     verified: true
-    hashtags: "#paidemenino, #bomdia, #comearoundmechallenge, #shitzu"
-  - username: "allinonemusics"
-    fullname: >-
-      All In One Music (Official)
-    location: "Brazil"
-    followers: 74904
-    engagement: 488
-    commentsToLikes: 0.047349
-    id: ck5hmd1rjlqo40i11kn6qy1y8
-    verified: false
-    hashtags: ""
+    hashtags: "#makeupchallenge, #ficaemcasa, #tech, #future"
   - username: "thamirodriigues"
     fullname: >-
       Thamires Rodrigues
     location: "Brazil"
-    followers: 31812
-    engagement: 278
-    commentsToLikes: 0.010884
+    followers: 34842
+    engagement: 271
+    commentsToLikes: 0.012894
     id: ck5heaot9rxth0i11vvrxb3b7
     verified: false
-    hashtags: "#funk, #musicaboa, #totalmentedemais, #musica"
-  - username: "technodancers.official"
+    hashtags: ""
+  - username: "selva"
     fullname: >-
-      ⚡️TECHNO DANCERS⚡️
+      S E L V A
     location: "Brazil"
-    followers: 29648
-    engagement: 305
-    commentsToLikes: 0.018007
-    id: ck0tvq0whccph0i19df6sg04n
-    verified: false
-    hashtags: "#summervibes, #masseriadelturco, #closingparty, #summer"
-  - username: "alicidmusic"
+    followers: 48405
+    engagement: 140
+    commentsToLikes: 0.092082
+    id: ck8swdwykdudu0j78fz3scsao
+    verified: true
+    hashtags: "#quarentemo, #tbt, #weareselva, #whydontulove"
+  - username: "flowzeo"
     fullname: >-
-      Natália Azevedo
+      Flow & Zeo 🎼
     location: "Brazil"
-    followers: 7538
-    engagement: 1308
-    commentsToLikes: 0.223770
-    id: ck55oejns874i0i11xqyn4tqp
+    followers: 50813
+    engagement: 127
+    commentsToLikes: 0.114831
+    id: ck15plbgfyg850i198wi8b62x
     verified: false
-    hashtags: "#mar, #amigos, #psy, #nordeste"
-  - username: "camiladiazdj"
+    hashtags: "#saltlakecity, #underbeatmusic, #musicismybff, #homesweethome"
+  - username: "tokinhooficial"
     fullname: >-
-      CAMILA DIAZ
+      Tokinho
     location: "Brazil"
-    followers: 28047
-    engagement: 613
-    commentsToLikes: 0.046873
-    id: ck5hdi8npnk9r0i11tvvwkca9
-    verified: false
-    hashtags: "#fotografia, #coronavirusnotetengomiedo, #hairlove, #camiladiaz"
-  - username: "djsamuca_"
+    followers: 574761
+    engagement: 229
+    commentsToLikes: 0.018966
+    id: ck0u67mn914ob0i190e121h8i
+    verified: true
+    hashtags: "#livemanugavassi, #mood, #tbt, #usemascara"
+  - username: "bruninhamanager"
     fullname: >-
-      DJ SAMUCA OFICIAL
+      Bruninha Barbosa
     location: "Brazil"
-    followers: 7413
-    engagement: 543
-    commentsToLikes: 0.234511
-    id: ck6u8hqa0rnmg0j71g0b8xbi3
+    followers: 23162
+    engagement: 139
+    commentsToLikes: 0.089057
+    id: ck5qbdks3l2ld0i11bma0z7n4
     verified: false
-    hashtags: "#engajamento, #rodrigogr6, #mcrick, #gr6funk"
-  - username: "thiagomatthias"
+    hashtags: "#2020, #storytelling, #produ, #jetlagnobbb"
+  - username: "cassianobarreiros"
     fullname: >-
-      THIAGO MATTHIAS
+      DjCassiano Barreiros Produções
     location: "Brazil"
-    followers: 21511
-    engagement: 515
-    commentsToLikes: 0.109953
-    id: ck5q6nyp4y76a0i11xun1e5y0
+    followers: 38813
+    engagement: 43
+    commentsToLikes: 0.118742
+    id: ck136fyys6b2s0i19hnladnga
     verified: false
-    hashtags: "#moradasdasmontanhas, #uk, #300punta, #quarentena"
+    hashtags: "#blocodacau, #bloco, #festanalaje, #avcala2020"
+  - username: "allinonemusics"
+    fullname: >-
+      All In One Music (Official)
+    location: "Brazil"
+    followers: 80981
+    engagement: 496
+    commentsToLikes: 0.045264
+    id: ck5hmd1rjlqo40i11kn6qy1y8
+    verified: false
+    hashtags: ""
 ---

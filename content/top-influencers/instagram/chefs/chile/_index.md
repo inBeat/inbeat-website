@@ -1,107 +1,107 @@
 ---
 title: Top 10 Chefs Instagram Influencers In Chile In 2020
 description: >-
-  Find top chefs Instagram influencers in Chile in 2020. Most popular hashtags: #cuarentena #quedateencasa #santiago #yomequedoencasa.
+  Find top chefs Instagram influencers in Chile in 2020. Most popular hashtags: #cocina #life #yomequedoencasa #ensalada.
 platform: Instagram
 profiles:
   - username: "virginiademariaoficial"
     fullname: >-
       Virginia Demaria
     location: "Chile"
-    followers: 560476
-    engagement: 296
-    commentsToLikes: 0.022151
+    followers: 608401
+    engagement: 291
+    commentsToLikes: 0.026988
     id: ck55lklbf1s8g0i112mphcsao
     verified: true
-    hashtags: "#xilofor, #decoarte, #pinturas, #pascuadelaimaginaci"
+    hashtags: "#pinturas, #pizarra, #babyalive, #ceresita"
   - username: "barbilackingtons"
     fullname: >-
       Barbara Lackington
     location: "Chile"
-    followers: 68512
-    engagement: 398
-    commentsToLikes: 0.018474
+    followers: 68918
+    engagement: 365
+    commentsToLikes: 0.028141
     id: ck5zmpmq9mztv0i14o4mnsfue
     verified: true
-    hashtags: "#masterchef, #masterchefchile, #food, #yomequedoencasa"
-  - username: "recetasdejavi"
-    fullname: >-
-      Javi - Plant Based Chef
-    location: "Chile"
-    followers: 62796
-    engagement: 245
-    commentsToLikes: 0.073399
-    id: ck5hogrpnpjbn0i11j5wflf3b
-    verified: false
-    hashtags: "#recetasdejavi, #tofu, #tofulover, #cocinarte"
-  - username: "javicorreamedina"
-    fullname: >-
-      Javi Correa
-    location: "Chile"
-    followers: 17985
-    engagement: 332
-    commentsToLikes: 0.067051
-    id: ck6u9mkx1ye4q0j71efs2htzd
-    verified: false
-    hashtags: "#hmxjohannaortiz, #dog, #asesoriadeimagen, #cuarentena"
+    hashtags: "#quarantine, #ideas, #positivevibes, #sinaburrirme"
   - username: "cravingsjournal"
     fullname: >-
       Lorena Salinas
     location: "Chile"
-    followers: 64841
-    engagement: 176
-    commentsToLikes: 0.045361
+    followers: 77179
+    engagement: 305
+    commentsToLikes: 0.147063
     id: ck136aafi5ivh0i19c8iav95q
     verified: false
-    hashtags: "#arrozblanco, #postrescaseros, #recetavegana, #comersano"
-  - username: "julietaoriolo"
+    hashtags: "#mantequilla, #torta, #churro, #comidacasera"
+  - username: "javicorreamedina"
     fullname: >-
-      Julieta Oriolo
+      Javi Correa
     location: "Chile"
-    followers: 40996
-    engagement: 290
-    commentsToLikes: 0.048720
-    id: ck5hohy7tplhz0i11xg137ry0
+    followers: 18588
+    engagement: 246
+    commentsToLikes: 0.087837
+    id: ck6u9mkx1ye4q0j71efs2htzd
     verified: false
-    hashtags: "#cocinacasero, #fattoincasa, #crostataallamarmellata, #teayudamos"
-  - username: "chriscarpentier"
-    fullname: >-
-      chriscarpentier
-    location: "Chile"
-    followers: 510498
-    engagement: 113
-    commentsToLikes: 0.029357
-    id: ck6twqzegtlgh0j71zg7g46vj
-    verified: true
-    hashtags: "#yomequedoencasa, #facu, #amor, #mejorar"
+    hashtags: "#pastry, #beauty, #beautyhacks, #mother"
   - username: "pastrychefmile"
     fullname: >-
       Chef Mile Vallejos M.
     location: "Chile"
-    followers: 22004
-    engagement: 260
-    commentsToLikes: 0.045460
+    followers: 22300
+    engagement: 247
+    commentsToLikes: 0.052124
     id: ck5q1goqxawb30i118nqkw2vy
     verified: false
-    hashtags: "#vacaciones, #chocolatelife, #contodosinopaque, #inspiracion"
-  - username: "elranty"
-    fullname: >-
-      Rantés Verdugo
-    location: "Chile"
-    followers: 799326
-    engagement: 966
-    commentsToLikes: 0.013433
-    id: ck5c7vn1289tn0i11v8fo9jl0
-    verified: false
-    hashtags: "#sagitario, #geminis, #viral, #aries"
+    hashtags: "#violeta, #saltedcaramel, #chocolatejewels, #chocolovers"
   - username: "simpleyvivo"
     fullname: >-
       Talleres y Tienda Online
     location: "Chile"
-    followers: 59320
-    engagement: 115
-    commentsToLikes: 0.100992
+    followers: 60040
+    engagement: 108
+    commentsToLikes: 0.075990
     id: ck6uc7cwkdy2z0j71tkqb91nu
     verified: false
-    hashtags: "#zerowaste, #latte, #mealprep, #vegan"
+    hashtags: "#saludables, #matchatea, #canela, #prote"
+  - username: "franciscocantinero"
+    fullname: >-
+      Francisco Cantinero
+    location: "Chile"
+    followers: 2707
+    engagement: 1665
+    commentsToLikes: 0.089887
+    id: ck5hdvpy2plzd0i11mri6daj2
+    verified: false
+    hashtags: "#vino, #drinks, #ginebra, #natural"
+  - username: "nataliaduco"
+    fullname: >-
+      N a t a l i a   D u c o
+    location: "Chile"
+    followers: 105761
+    engagement: 576
+    commentsToLikes: 0.026394
+    id: ck5q12hlf8ybh0i11ceh0c6go
+    verified: true
+    hashtags: "#mymom, #wellness, #cuarentena, #banana"
+  - username: "mati.sepulvedat"
+    fullname: >-
+      Matías Sepúlveda Beach Tennis
+    location: "Chile"
+    followers: 10015
+    engagement: 471
+    commentsToLikes: 0.066534
+    id: ck5hef0unskeo0i11362d08cl
+    verified: false
+    hashtags: "#bienestar, #active, #funny, #snowtennis"
+  - username: "istvanmolnarb"
+    fullname: >-
+      Istvan Molnar
+    location: "Chile"
+    followers: 80589
+    engagement: 102
+    commentsToLikes: 0.073268
+    id: ck0w76c1xbz840i19q2cwmyde
+    verified: false
+    hashtags: "#chefs, #croissants, #polselli, #burger"
 ---

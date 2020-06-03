@@ -1,107 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Austin In 2020
 description: >-
-  Find top stylists Instagram influencers in Austin in 2020. Most popular hashtags: #naha #stylist #desertrosechallenge #housebeautiful.
+  Find top stylists Instagram influencers in Austin in 2020. Most popular hashtags: #stylist #lifestyle #sundayfunday #texas.
 platform: Instagram
 profiles:
-  - username: "kovergirl4"
+  - username: "laurenaustin_stylist"
     fullname: >-
-      Asia Haney
+      Lauren Austin Stylist
     location: "United States"
-    followers: 2036
-    engagement: 1248
-    commentsToLikes: 0.049311
-    id: ck6u2wio5ubnl0j71vsrlwp3c
+    followers: 20972
+    engagement: 193
+    commentsToLikes: 0.240940
+    id: ck5bzzl1ls59r0i11io3gwh41
     verified: false
-    hashtags: "#trapmuzik, #cateye, #atlantanights, #womanoffaith"
-  - username: "rosie.newberry"
-    fullname: >-
-      Rosie Newberry
-    location: "United States"
-    followers: 2399
-    engagement: 1499
-    commentsToLikes: 0.112489
-    id: ck15rhiep7yk30i190boijt2n
-    verified: false
-    hashtags: "#livinglocalatx, #lipsofinstagram, #living, #getyourthriveon"
-  - username: "erikagolcher"
-    fullname: >-
-      Erika Golcher
-    location: "United States"
-    followers: 5933
-    engagement: 626
-    commentsToLikes: 0.021426
-    id: ck5zilajmfxa70i14qlw2m4wo
-    verified: false
-    hashtags: "#thefameissue, #loveoutttakes, #beautifulmaniacs, #nyfw"
-  - username: "heatherbullard"
-    fullname: >-
-      Heather Bullard
-    location: "United States"
-    followers: 93299
-    engagement: 381
-    commentsToLikes: 0.061943
-    id: ck139s6uhmvqb0i19pz91qk1d
-    verified: false
-    hashtags: "#concretefloors, #whitekitchencabinets, #slpartner, #serenaandlily"
-  - username: "dustysimington"
-    fullname: >-
-      Dusty Simington
-    location: "United States"
-    followers: 7938
-    engagement: 1053
-    commentsToLikes: 0.050360
-    id: ck8tcgh1xze1f0j78ur5nvhdn
-    verified: false
-    hashtags: "#nahamasterstylist, #artofhair, #naha, #dustysimington"
-  - username: "simonamalibu"
-    fullname: >-
-      SIMONA SACCHITELLA
-    location: "United States"
-    followers: 26190
-    engagement: 368
-    commentsToLikes: 0.018611
-    id: ck6u7lhbsm80s0j718wfddd5p
-    verified: false
-    hashtags: "#trabocco, #italia, #veep, #celebritystylist"
-  - username: "b_ruiz.la"
-    fullname: >-
-      Byron Ruiz ✪
-    location: "United States"
-    followers: 2285
-    engagement: 1025
-    commentsToLikes: 0.119360
-    id: ck5zp47q1ryhk0i140sfxre08
-    verified: false
-    hashtags: "#hithimup, #apellido"
+    hashtags: "#modernsalon, #bestofbalayage, #framarbrushes, #redkenshadeseq"
   - username: "dtkaustin"
     fullname: >-
       Ashley • Austin, TX
     location: "United States"
-    followers: 153603
-    engagement: 113
-    commentsToLikes: 0.150215
+    followers: 158549
+    engagement: 145
+    commentsToLikes: 0.197526
     id: ck0txn6dgjpvp0i19l6tow5yb
     verified: false
-    hashtags: "#screwcancer, #allblackeverything, #vicidolls, #starbuckscup"
-  - username: "veronica.graye"
+    hashtags: "#neimanmarcus, #lego, #4runnermafia, #starwarstoys"
+  - username: "rosie.newberry"
     fullname: >-
-      Veronica Graye
+      Rosie Newberry
     location: "United States"
-    followers: 18111
-    engagement: 144
-    commentsToLikes: 0.027320
-    id: ck0udccyzipld0i19wehmdjpx
+    followers: 2456
+    engagement: 1528
+    commentsToLikes: 0.117058
+    id: ck15rhiep7yk30i190boijt2n
     verified: false
-    hashtags: "#stylistlife, #netflix, #drmartensstyle, #instastylist"
-  - username: "chairwhimsy"
+    hashtags: "#trainer, #journaling, #makeitsweetatx, #shopbartoncreek"
+  - username: "jlynnstyle18"
     fullname: >-
-      Wendy Conklin
+      Jennifer Austin
     location: "United States"
-    followers: 26217
-    engagement: 203
-    commentsToLikes: 0.064536
-    id: ck0u81rhu68l70i19947judxx
+    followers: 10767
+    engagement: 503
+    commentsToLikes: 0.053891
+    id: ck0tvlb72bui20i19a0dup9q9
     verified: false
-    hashtags: "#cottageliving, #makers, #diyprojects, #crafter"
+    hashtags: "#bestactress, #eliesaab, #instylemagazine, #jlynnstyles"
+  - username: "kovergirl4"
+    fullname: >-
+      Asia Haney
+    location: "United States"
+    followers: 2049
+    engagement: 1181
+    commentsToLikes: 0.046035
+    id: ck6u2wio5ubnl0j71vsrlwp3c
+    verified: false
+    hashtags: "#enrollmentmanagementteam, #womanoffaith, #boss, #creativedirector"
+  - username: "alisha.griffin_stagram"
+    fullname: >-
+      Alisha Griffin {Model/Actress}
+    location: "United States"
+    followers: 2296
+    engagement: 772
+    commentsToLikes: 0.191515
+    id: ck6tltwla6mpu0j71jq98wyu2
+    verified: false
+    hashtags: "#fashionweek, #dallasdesigner, #frenchfashion, #portrait"
+  - username: "erikagolcher"
+    fullname: >-
+      Erika Golcher
+    location: "United States"
+    followers: 6028
+    engagement: 604
+    commentsToLikes: 0.029154
+    id: ck5zilajmfxa70i14qlw2m4wo
+    verified: false
+    hashtags: "#couplegoals, #underquarentine, #linkinbio, #newyork"
+  - username: "heatherbullard"
+    fullname: >-
+      Heather Bullard
+    location: "United States"
+    followers: 93394
+    engagement: 399
+    commentsToLikes: 0.060663
+    id: ck139s6uhmvqb0i19pz91qk1d
+    verified: false
+    hashtags: "#serenaandlily, #kitchenorganization, #concretefloors, #whitekitchencabinets"
+  - username: "jenpinkston"
+    fullname: >-
+      Jen Pinkston
+    location: "United States"
+    followers: 72778
+    engagement: 89
+    commentsToLikes: 0.100638
+    id: ckaoqnuk3jjmv0i786r0u1q51
+    verified: false
+    hashtags: "#dreamallday, #quarantinethoughts"
+  - username: "queenofthesouth512"
+    fullname: >-
+      Patricia Plymire
+    location: "United States"
+    followers: 38170
+    engagement: 245
+    commentsToLikes: 0.030514
+    id: ck5chuczerhae0i11obepzebi
+    verified: false
+    hashtags: "#grateful, #peace, #matrix, #takenotes"
 ---

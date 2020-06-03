@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In France In 2020
 description: >-
-  Find top travel Instagram influencers in France in 2020. Most popular hashtags: #fashion #france #outfitoftheday #zara.
+  Find top travel Instagram influencers in France in 2020. Most popular hashtags: #giveaway #homesweethome #london #home.
 platform: Instagram
 profiles:
-  - username: "jenniferlaw.style"
-    fullname: >-
-      J E N N I F E R | L A W
-    location: "France"
-    followers: 5290
-    engagement: 1712
-    commentsToLikes: 0.249106
-    id: ck6u816q8ou1i0j71zdnn3alu
-    verified: false
-    hashtags: "#staypositive"
-  - username: "kassandra_smnt"
-    fullname: >-
-      Kassandra Simonnet
-    location: "France"
-    followers: 2396
-    engagement: 2479
-    commentsToLikes: 0.152425
-    id: ck6u08jdfe83n0j71ffn9otw5
-    verified: false
-    hashtags: "#france, #italia, #shooting, #octolyfamily"
   - username: "lady_pitaya"
     fullname: >-
       Kristin T.
     location: "France"
-    followers: 6543
-    engagement: 2010
-    commentsToLikes: 0.115081
+    followers: 8535
+    engagement: 2510
+    commentsToLikes: 0.118158
     id: ck5zsif4wyk0a0i14rjasoi4m
     verified: false
-    hashtags: "#paristourist, #robechinoise, #parisportraits, #timberlandboots"
-  - username: "sausau__"
+    hashtags: "#cordoue, #granadaespa, #natureportrait, #denimshorts"
+  - username: "kassandra_smnt"
     fullname: >-
-      Sausau
+      Kassandra Simonnet
     location: "France"
-    followers: 13895
-    engagement: 1387
-    commentsToLikes: 0.152631
-    id: ck5zkxelukcal0i14arveg083
+    followers: 2413
+    engagement: 2497
+    commentsToLikes: 0.142723
+    id: ck6u08jdfe83n0j71ffn9otw5
     verified: false
-    hashtags: "#animalsofinstagram, #inspirationoftheday, #france, #instagrammers"
+    hashtags: "#equave, #londres, #selfie, #venise"
+  - username: "jenniferlaw.style"
+    fullname: >-
+      J E N N I F E R | L A W
+    location: "France"
+    followers: 5285
+    engagement: 1821
+    commentsToLikes: 0.243880
+    id: ck6u816q8ou1i0j71zdnn3alu
+    verified: false
+    hashtags: "#staypositive"
   - username: "littlejustreview"
     fullname: >-
       JUSTINE | LITTLEJUSTREVIEW
     location: "France"
-    followers: 11615
-    engagement: 1681
-    commentsToLikes: 0.149202
+    followers: 11278
+    engagement: 1746
+    commentsToLikes: 0.149110
     id: ck5pwuzztoqo20i11lr2ikrt9
     verified: false
-    hashtags: "#montpellier, #instafashion, #makeuppaint, #fashioninspiration"
-  - username: "imlostinwanderlust"
+    hashtags: "#originsfrance, #alwaysfabulous, #outfitinspo, #yesiamchallenge"
+  - username: "sausau__"
     fullname: >-
-      V A L E R I E 》
+      Sausau
     location: "France"
-    followers: 11188
-    engagement: 1309
-    commentsToLikes: 0.105295
-    id: ck13c9winzbcn0i19yzlnbuuc
+    followers: 17694
+    engagement: 1365
+    commentsToLikes: 0.257143
+    id: ck5zkxelukcal0i14arveg083
     verified: false
-    hashtags: "#studentlife"
-  - username: "tendancehunter"
+    hashtags: "#fashionweek, #foodporn, #travellover, #foodlover"
+  - username: "adele_tsy"
     fullname: >-
-      Anastasia Ferreira
+      Adele 🌴
     location: "France"
-    followers: 28391
-    engagement: 835
-    commentsToLikes: 0.069366
-    id: ck0w3ahinseg10i19iq3d2f7k
+    followers: 55249
+    engagement: 1054
+    commentsToLikes: 0.051717
+    id: ck13604yb43nf0i19jlcwxc3o
     verified: false
-    hashtags: "#stayhome, #oddmolly, #nottoday, #nastygalsdoitbetter"
-  - username: "ellesenparlent"
+    hashtags: "#maisjailaflemme, #iphone11pro, #zara, #gauffre"
+  - username: "alexandra__panagiotarou"
     fullname: >-
-      Coralie L.
+      Αλεξάνδρα Παναγιώταρου
     location: "France"
-    followers: 203094
-    engagement: 981
-    commentsToLikes: 0.061945
-    id: ck0u74czs3p6r0i192wxrrn1s
+    followers: 245318
+    engagement: 786
+    commentsToLikes: 0.477478
+    id: ck5zl0awnkhuw0i14oikiiafk
     verified: false
-    hashtags: ""
-  - username: "sadaf_beauty"
+    hashtags: "#doglife, #myathens, #happymoments, #mypuppy"
+  - username: "themodestparisian"
     fullname: >-
-      Sadaf
+      The Modest Parisian
     location: "France"
-    followers: 2528783
-    engagement: 1789
-    commentsToLikes: 0.155105
-    id: ck0u21ukoymhd0i19l8xovyot
-    verified: true
-    hashtags: "#guerlainlover, #fullfrontalmascara, #colourpopme, #kvdbeauty"
-  - username: "severine__h"
-    fullname: >-
-      
-    location: "France"
-    followers: 2718
-    engagement: 2720
-    commentsToLikes: 0.257122
-    id: ck8tbwb6fxef10j789hmxwh7n
+    followers: 9482
+    engagement: 1742
+    commentsToLikes: 0.086270
+    id: ck6u56ctu7uoy0j71pyfr6nrl
     verified: false
-    hashtags: "#demelant, #la, #instagram, #noel"
+    hashtags: "#lipstain, #selfiehijab, #parisiennestyle, #flatlayoftheday"
+  - username: "wineandbubblelover"
+    fullname: >-
+      Ms Jessica 🥂
+    location: "France"
+    followers: 10561
+    engagement: 1440
+    commentsToLikes: 0.148496
+    id: ck14jo2uxlbso0i19uzslh1z7
+    verified: false
+    hashtags: "#roseallday, #slowwine, #giveaway, #netflixandchablis"
+  - username: "passiontravelers"
+    fullname: >-
+      TRAVEL COUPLE | EARTH LOVERS 🦋
+    location: "France"
+    followers: 17437
+    engagement: 1222
+    commentsToLikes: 0.125833
+    id: ck6uavtev5yq20j71k94nrpcl
+    verified: false
+    hashtags: "#lovers, #couplequotes, #zellamsee, #travelmore"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Stylists Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top stylists Instagram influencers in Switzerland in 2020. Most popular hashtags: #fashion #switzerland #london #grateful.
+  Find top stylists Instagram influencers in Switzerland in 2020. Most popular hashtags: #happysunday #happy #family #granola.
 platform: Instagram
 profiles:
   - username: "koelve"
     fullname: >-
       Elvira 🦋
     location: "Switzerland"
-    followers: 10860
-    engagement: 2886
-    commentsToLikes: 0.144148
+    followers: 11553
+    engagement: 2730
+    commentsToLikes: 0.153521
     id: ck0uetn9rm8rc0i19tbe58bm9
     verified: false
-    hashtags: "#love, #print, #dagny, #behappy"
-  - username: "style_by_dby"
+    hashtags: "#hoodie, #ontheskin, #family, #joan"
+  - username: "croissantbrunch"
     fullname: >-
-      debora sarai baumann
+      amanda brooke
     location: "Switzerland"
-    followers: 2756
-    engagement: 560
-    commentsToLikes: 0.073886
-    id: ck133vf3pu9fx0i19ou7ou77w
+    followers: 8998
+    engagement: 183
+    commentsToLikes: 0.199911
+    id: ck14kaeyzok8e0i19mpn2031q
     verified: false
-    hashtags: "#hierundjetzt, #corona, #coffeetime, #intothegreen"
-  - username: "healthycooklife"
-    fullname: >-
-      Recettes Saines & Gourmandes
-    location: "Switzerland"
-    followers: 33016
-    engagement: 297
-    commentsToLikes: 0.068777
-    id: ck5zwwa1g6vvs0i14s0fivf58
-    verified: false
-    hashtags: "#liendansmabio, #brioche, #padthai, #lemoncake"
-  - username: "aishazwan"
-    fullname: >-
-      Aisha Rizwan Malik 🧿
-    location: "Switzerland"
-    followers: 40108
-    engagement: 1278
-    commentsToLikes: 0.001921
-    id: ck6u2ih7gs0tq0j71q0gvxmhl
-    verified: false
-    hashtags: "#fashion, #happylife, #lochness, #naturebeauty"
-  - username: "minluna"
-    fullname: >-
-      MINLUNA
-    location: "Switzerland"
-    followers: 55043
-    engagement: 105
-    commentsToLikes: 0.016222
-    id: ck6tz86mk866k0j71yle6egpb
-    verified: false
-    hashtags: "#alivewithbeauty, #uvcutprotection, #ecoguilt, #balipeeps"
-  - username: "thelazyinsomniac"
-    fullname: >-
-      Nupur Singh
-    location: "Switzerland"
-    followers: 96735
-    engagement: 445
-    commentsToLikes: 0.019808
-    id: ck5zuj1je2ge30i14arwb3yye
-    verified: false
-    hashtags: "#neon, #london, #londonlife, #iiframe"
+    hashtags: "#worklifebalance, #nomakeup, #sustainability, #minirodini"
   - username: "lizzie_outside"
     fullname: >-
       Lizzie Inside
     location: "Switzerland"
-    followers: 38822
-    engagement: 254
-    commentsToLikes: 0.059028
+    followers: 39126
+    engagement: 239
+    commentsToLikes: 0.058667
     id: ck0vxeeg6yhnb0i19gxf2e615
     verified: true
-    hashtags: "#coldweather, #getoutside, #menaistraits, #cancer"
-  - username: "fancyncr"
+    hashtags: "#life, #globalwarming, #climatechange, #mentalhealth"
+  - username: "style_by_dby"
     fullname: >-
-      FancyNCR
+      debora sarai baumann
     location: "Switzerland"
-    followers: 27007
-    engagement: 385
-    commentsToLikes: 0.063808
-    id: ck0w0syjkfvpp0i19it1dks5g
+    followers: 2827
+    engagement: 571
+    commentsToLikes: 0.053402
+    id: ck133vf3pu9fx0i19ou7ou77w
     verified: false
-    hashtags: "#dallascowboys, #football, #saks, #catstagram"
-  - username: "arnaud.ele"
+    hashtags: "#boycrew, #quarantaine, #outdoor, #stillife"
+  - username: "healthycooklife"
     fullname: >-
-      ARNAUD  ELE
+      Healthycooklife
     location: "Switzerland"
-    followers: 26693
-    engagement: 98
-    commentsToLikes: 0.007077
-    id: ck55m53l838oj0i11o71rpl1a
+    followers: 44179
+    engagement: 312
+    commentsToLikes: 0.067636
+    id: ck5zwwa1g6vvs0i14s0fivf58
     verified: false
-    hashtags: "#sun, #metropolis, #digital, #modele"
-  - username: "violatami"
+    hashtags: "#madeinfrance, #cinamonroll, #peanut, #confiture"
+  - username: "soulofsoraya"
     fullname: >-
-      Viola Tami
+      Soul of Soraya
     location: "Switzerland"
-    followers: 26099
-    engagement: 250
-    commentsToLikes: 0.023207
-    id: ck5zxetzn7vle0i14w5fjarts
+    followers: 14966
+    engagement: 350
+    commentsToLikes: 0.087308
+    id: ck9wf1h52mv4d0j78uvgwzvxv
     verified: false
-    hashtags: "#springcollection, #stayathome, #music, #nude"
+    hashtags: "#travelitalia, #magnolias, #exploremore, #bokaap"
+  - username: "aishazwan"
+    fullname: >-
+      Aisha Rizwan Malik 🧿
+    location: "Switzerland"
+    followers: 41192
+    engagement: 1322
+    commentsToLikes: 0.001938
+    id: ck6u2ih7gs0tq0j71q0gvxmhl
+    verified: false
+    hashtags: "#4daystogo, #oceanlife, #gramworthy, #vacaymood"
+  - username: "sarah_fel"
+    fullname: >-
+      S a r a h  B r u n e l l a
+    location: "Switzerland"
+    followers: 110305
+    engagement: 215
+    commentsToLikes: 0.016682
+    id: ck0tuwko98ztx0i19fwshv7od
+    verified: false
+    hashtags: "#lr, #tiramisu, #fettebiscottate"
+  - username: "unpetitoiseaudanslacuisine"
+    fullname: >-
+      Healthy Food-Organic Food
+    location: "Switzerland"
+    followers: 7540
+    engagement: 548
+    commentsToLikes: 0.028614
+    id: ck9wex88sm93v0j78f37ff0iy
+    verified: false
+    hashtags: "#eatmoreveggies, #charlottealimentaire, #latte, #zerowastelifestyle"
+  - username: "minluna"
+    fullname: >-
+      MINLUNA
+    location: "Switzerland"
+    followers: 55243
+    engagement: 117
+    commentsToLikes: 0.016898
+    id: ck6tz86mk866k0j71yle6egpb
+    verified: false
+    hashtags: "#synchroskin, #heyruminotes, #okthanksgooglephotos, #alivewithbeauty"
 ---

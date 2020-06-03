@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In New Delhi In 2020
 description: >-
-  Find top fitness Instagram influencers in New Delhi in 2020. Most popular hashtags: #fitness #fashion #photography #ootd.
+  Find top fitness Instagram influencers in New Delhi in 2020. Most popular hashtags: #fitness #mothersday #quarantinelife #gocoronago.
 platform: Instagram
 profiles:
+  - username: "styleawhileofficial"
+    fullname: >-
+      Shreya Jain
+    location: "India"
+    followers: 106452
+    engagement: 210
+    commentsToLikes: 0.078121
+    id: ck9wgrkyfuokp0j78wjzd69ae
+    verified: true
+    hashtags: "#creativity, #wingsofstrength, #virtualkiss, #nutelladay"
   - username: "adil_alinoor"
     fullname: >-
       ADIL
     location: "India"
-    followers: 186637
-    engagement: 1386
-    commentsToLikes: 0.009288
+    followers: 186016
+    engagement: 1440
+    commentsToLikes: 0.009826
     id: ck5zvfcon44lm0i14i51tnt55
     verified: false
-    hashtags: "#adil, #fitnessmotivation, #underwater, #staystrong"
-  - username: "anushka_4996"
+    hashtags: "#redefiningmanhood, #repost, #adil, #blue"
+  - username: "akankshapathak__01"
     fullname: >-
-      Anushka Mandal
+      Akanksha 🖤 || Fitness coach
     location: "India"
-    followers: 5714
-    engagement: 1594
-    commentsToLikes: 0.018851
-    id: ck8t9riusp2v40j78chkrnwpc
+    followers: 10158
+    engagement: 2187
+    commentsToLikes: 0.078297
+    id: ck9weepn8jx680j78lchghfhp
     verified: false
-    hashtags: "#musicfestival, #tiktok, #gujarat, #bengal"
-  - username: "styleonair_"
+    hashtags: "#athomeworkout, #workoutoftheday, #cuteoutfits, #getfitathome"
+  - username: "fashiovoyage"
     fullname: >-
-      Harsh Ronak Singh
+      Sonal❤️👸💕Dixit
     location: "India"
-    followers: 244868
-    engagement: 301
-    commentsToLikes: 0.041984
-    id: ck14jm50jl1h00i19ggh4xdnm
+    followers: 46263
+    engagement: 116
+    commentsToLikes: 0.280945
+    id: ckaovbkje3v4y0i78t7qh1751
     verified: false
-    hashtags: "#mumbai, #weekendvibes, #fashionblogger, #instalike"
+    hashtags: "#influencer, #blessings, #monthofgoodness, #makeinindia"
   - username: "siddharth.lil.beast"
     fullname: >-
       Siddharth Tyagi
     location: "India"
-    followers: 15111
-    engagement: 621
-    commentsToLikes: 0.082904
+    followers: 15378
+    engagement: 586
+    commentsToLikes: 0.073372
     id: ck8wfjdwmfsux0j78ahvf986h
     verified: false
-    hashtags: "#thenx, #muscleup, #foryou, #lowbattery"
-  - username: "kiara.fulara"
+    hashtags: "#calisthenicsindia, #barbrothers, #wswcf, #streetworkout"
+  - username: "basicallymenz"
     fullname: >-
-      Kiara 👰🏻
+      SANDEEP RAI
     location: "India"
-    followers: 54456
-    engagement: 2738
-    commentsToLikes: 0.007341
-    id: ck8werlb1ei8t0j789nw8tukn
+    followers: 40531
+    engagement: 168
+    commentsToLikes: 0.081729
+    id: ckap4umjt8xze0i78org99soe
     verified: false
-    hashtags: "#savemoney, #jorukagulam, #transformation, #tourist"
-  - username: "adiityyyaa"
+    hashtags: "#ajmer, #indianblogger, #tropicalvibes, #fashiontiktok"
+  - username: "kanika868"
     fullname: >-
-      ADITYA🔥
+      Kirandeep Kaur
     location: "India"
-    followers: 16333
-    engagement: 790
-    commentsToLikes: 0.157452
-    id: ck8t754qcfodn0j78oqnut973
+    followers: 792696
+    engagement: 400
+    commentsToLikes: 0.013263
+    id: ck5zuhjxn2dcy0i14adj8104w
     verified: false
-    hashtags: "#instafamous, #fashioninfluencers, #neerajpepsu, #fitnessclothing"
-  - username: "labelsandlove"
+    hashtags: "#quarantine, #fitness, #healthyliving, #staysafe"
+  - username: "styleonair_"
     fullname: >-
-      PRATIBHA BHADAURIA 💫
+      Harsh Ronak Singh
     location: "India"
-    followers: 123507
-    engagement: 184
-    commentsToLikes: 0.014820
-    id: ck5zxkgi186lg0i149nks5957
+    followers: 247113
+    engagement: 116
+    commentsToLikes: 0.071194
+    id: ck14jm50jl1h00i19ggh4xdnm
     verified: false
-    hashtags: "#kapiva, #design, #technology, #ahmedabad"
-  - username: "virus_sharma"
+    hashtags: "#nofilter, #instanew, #instalove, #ootdfashion"
+  - username: "abhishek_berwal_"
     fullname: >-
-      Vikas Sharma - DELHI FOODIE 🇮🇳
+      अभिषेक बेरवाल ° 🥀
     location: "India"
-    followers: 34881
-    engagement: 331
-    commentsToLikes: 0.013606
-    id: ck8t2uger0qzv0j78wm98wp0y
+    followers: 3060
+    engagement: 1838
+    commentsToLikes: 0.028137
+    id: ckapav5r4xl800i7816ehskzo
     verified: false
-    hashtags: "#yummyinmytummy, #masalamaggi, #instacakes, #lunchspecial"
-  - username: "thethirdeyephotography"
+    hashtags: "#happy, #shredded, #smile, #changes"
+  - username: "theyogagirlmohini"
     fullname: >-
-      The Third Eye Photography️️
+      Mohini Bhatia
     location: "India"
-    followers: 32698
-    engagement: 219
-    commentsToLikes: 0.011057
-    id: ck0u042rjshjp0i19tpznf9ol
+    followers: 18140
+    engagement: 443
+    commentsToLikes: 0.048967
+    id: ck9haztpjersj0j78b0wjx2vd
     verified: false
-    hashtags: "#holishoot, #asimjaqueline, #anmolsharma, #art"
-  - username: "wanderfulpassport"
-    fullname: >-
-      The Wanderful Pooja 🌴
-    location: "India"
-    followers: 19017
-    engagement: 641
-    commentsToLikes: 0.038665
-    id: ck15rb4ar726y0i19bgo2ja9y
-    verified: false
-    hashtags: "#beautifulplaces, #model, #temples, #stayhomechallenge"
+    hashtags: "#instagramgoodis, #homemadefood, #lovelock009x, #breakgonnaend"
 ---

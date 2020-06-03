@@ -1,107 +1,107 @@
 ---
 title: Top 10 Skincare Instagram Influencers In Los Angeles In 2020
 description: >-
-  Find top skincare Instagram influencers in Los Angeles in 2020. Most popular hashtags: #beauty #losangeles #skincare #makeup.
+  Find top skincare Instagram influencers in Los Angeles in 2020. Most popular hashtags: #skincare #losangeles #selfcare #ultabeauty.
 platform: Instagram
 profiles:
-  - username: "pullingraviity"
+  - username: "morebeverlycherie"
     fullname: >-
-      لنى🥀
+      
     location: "United States"
-    followers: 7175
-    engagement: 310
-    commentsToLikes: 0.080166
-    id: ck0u7qkub5it20i19avivhaug
+    followers: 2158
+    engagement: 1124
+    commentsToLikes: 0.200158
+    id: ck5q7jy241x3e0i11awiu1c5y
     verified: false
-    hashtags: "#sidehustle, #crimpedhair, #glowymakeup, #naturallook"
-  - username: "jocelynbinder"
+    hashtags: "#kkwbeauty, #ultabeauty, #lilahb, #sharethecare"
+  - username: "kristinamariemorrison"
     fullname: >-
-      J o c e l y n 💎
+      Kristina Marie Morrison
     location: "United States"
-    followers: 541048
-    engagement: 77
-    commentsToLikes: 0.059142
-    id: ck5hfoizwyi000i111aet6mhp
+    followers: 16599
+    engagement: 288
+    commentsToLikes: 0.148722
+    id: ck6ufe2p5whrx0j71b1vwqzjx
     verified: false
-    hashtags: "#sundaythoughts, #fitfriday, #leggings, #bikini"
-  - username: "steffanie.a.mua"
+    hashtags: "#sleepsmarter, #killerfashions, #princessaurora, #boatlife"
+  - username: "diamond_strawberry"
     fullname: >-
-      ✨M A K E U P  M A G I C I A N✨
+      Diamond Strawberry
     location: "United States"
-    followers: 4512
-    engagement: 1037
-    commentsToLikes: 0.086109
-    id: ck135gz7x1dab0i19w0fjn7cc
+    followers: 269991
+    engagement: 52
+    commentsToLikes: 0.080390
+    id: ck5he0t8kqfic0i11ycnaj0qt
+    verified: true
+    hashtags: "#hennessy, #skincare, #quarantine, #losangeles"
+  - username: "officialbiancamilan"
+    fullname: >-
+      Bianca Milan™
+    location: "United States"
+    followers: 24393
+    engagement: 124
+    commentsToLikes: 0.079881
+    id: ck5cb0088egfs0i1163x9iu7s
     verified: false
-    hashtags: "#avantgarde, #boysinmakeup, #goofproofbrowpencil, #quarantineandchill"
+    hashtags: "#dancechallenge, #funny, #instaartist, #ambassador"
   - username: "aminamarie"
     fullname: >-
       Amina Marie
     location: "United States"
-    followers: 24295
-    engagement: 551
-    commentsToLikes: 0.047860
+    followers: 25136
+    engagement: 600
+    commentsToLikes: 0.043396
     id: ck0uaqmgycxiu0i19r5cr1z5d
     verified: false
-    hashtags: "#transitioningtonatural, #naturalhairtips, #howtonaturalhair, #washday"
-  - username: "morebeverlycherie"
+    hashtags: "#mywhowhatwear, #happyinsideout, #dontrushchallenge, #curlyhairstyles"
+  - username: "hijabioffthegrid"
     fullname: >-
-      BEVERLYCHERIE
+      Sarah
     location: "United States"
-    followers: 2065
-    engagement: 983
-    commentsToLikes: 0.184381
-    id: ck5q7jy241x3e0i11awiu1c5y
+    followers: 61399
+    engagement: 756
+    commentsToLikes: 0.012926
+    id: ck5hknwswirot0i11ynhslbp6
     verified: false
-    hashtags: "#nars, #ultabeauty, #briogeo, #selfcaresunday"
-  - username: "victoralejandrogm"
+    hashtags: "#dovepartner, #unedited, #ultabeauty, #worldhijabday"
+  - username: "natalie_aley"
     fullname: >-
-      Víctor Alejandro
+      natalie_aley
     location: "United States"
-    followers: 4528
-    engagement: 1040
-    commentsToLikes: 0.125144
-    id: ck0tzgvelqdky0i198ljzub7j
+    followers: 182009
+    engagement: 101
+    commentsToLikes: 0.036870
+    id: ck55m16ds2xw70i11thewkwy2
     verified: false
-    hashtags: "#portraitgames, #feature, #portraitsofficial, #beauty"
-  - username: "_staygoldenn"
+    hashtags: "#singersongwriter, #hummusplatter, #handstandpractice, #wellnesslosangeles"
+  - username: "beatfacefridayy"
     fullname: >-
-      Sabrina
+      Gigi (official)
     location: "United States"
-    followers: 2928
-    engagement: 1046
-    commentsToLikes: 0.097603
-    id: ck6u42a3e19oe0j71tgbxcpnx
+    followers: 100173
+    engagement: 75
+    commentsToLikes: 0.086669
+    id: ck8szd6xxnyph0j78uozkizho
     verified: false
-    hashtags: "#btshot, #whatsup, #serving, #saturdayvibes"
-  - username: "flanneryunderwood"
+    hashtags: "#drunkelephantskincare, #mothersday, #pinkwednesday, #skincaregoals"
+  - username: "toasttostyle_"
     fullname: >-
-      Flannery Underwood
+      Chelsea Smith
     location: "United States"
-    followers: 30082
-    engagement: 343
-    commentsToLikes: 0.018929
-    id: ck0tztlnjrl360i19v8ucwner
+    followers: 41825
+    engagement: 253
+    commentsToLikes: 0.083993
+    id: ck0w0fo5odyi40i19kbb6u7za
     verified: false
-    hashtags: "#portraitpage, #wearethepeoplemag, #5dmarkiv, #tussenkunstenquarantaine"
-  - username: "caymanvanderbur"
+    hashtags: "#thisisann, #wfhstyle, #boohoointhehouse, #rainbownails"
+  - username: "iamthedaisha"
     fullname: >-
-      Cayman
+      Daisha
     location: "United States"
-    followers: 29220
-    engagement: 173
-    commentsToLikes: 0.027612
-    id: ck6uf27eoufol0j719y7rpuxp
-    verified: false
-    hashtags: "#blonde, #commercialmodel, #printmodel, #laphotographer"
-  - username: "danielsbundy"
-    fullname: >-
-      Daniel Sercan Bundy
-    location: "United States"
-    followers: 10007
-    engagement: 1401
-    commentsToLikes: 0.003448
-    id: ck0w5zuni68gy0i1939gsbgbb
-    verified: false
-    hashtags: "#makeupbydanielbundy, #makeupartist, #awards, #imageawards"
+    followers: 71316
+    engagement: 159
+    commentsToLikes: 0.057945
+    id: ck5zra0ykw6rc0i1419pokgd6
+    verified: true
+    hashtags: "#london, #coffeelover, #live, #life"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Dallas In 2020
 description: >-
-  Find top athletes Instagram influencers in Dallas in 2020. Most popular hashtags: #athlete #quarantine #dallas #love.
+  Find top athletes Instagram influencers in Dallas in 2020. Most popular hashtags: #dallas #athlete #ootd #blessed.
 platform: Instagram
 profiles:
-  - username: "keriganpikefit"
+  - username: "camallison"
     fullname: >-
-      Kerigan Pike
+      CAM ALLISON
     location: "United States"
-    followers: 152715
-    engagement: 316
-    commentsToLikes: 0.011150
-    id: ck5zyattx9jj70i14oqwv4zo4
+    followers: 38604
+    engagement: 674
+    commentsToLikes: 0.013604
+    id: ckapcgcce3p5p0i78zc5fjbqh
     verified: false
-    hashtags: "#fckcovid19, #teamhh, #itsmyauxnowbitches, #justcbd"
-  - username: "helen_maroulis"
+    hashtags: "#chillout, #wishyouwerehere, #facetimephotoshoot, #hoesmad"
+  - username: "tseguin92"
     fullname: >-
-      Helen Maroulis
+      Tyler Seguin
     location: "United States"
-    followers: 183397
-    engagement: 518
-    commentsToLikes: 0.010723
-    id: ck0ucpdiwhg340i19mksfldri
+    followers: 614687
+    engagement: 830
+    commentsToLikes: 0.007868
+    id: ck0u2fqz9ztsg0i190n7py0fx
     verified: true
-    hashtags: "#womenswrestling, #clinic, #days, #salon"
-  - username: "briana_nichols_"
+    hashtags: "#legend, #gerryapproved, #lfg, #nhlallstar"
+  - username: "dallasmccarver"
     fullname: >-
-      Briana Nichols
+      Dallas "Big Country" McCarver
     location: "United States"
-    followers: 29992
-    engagement: 104
-    commentsToLikes: 0.048204
-    id: ck8t3shct4bk90j788z0lqn9g
+    followers: 419236
+    engagement: 536
+    commentsToLikes: 0.035577
+    id: ck0w16zz1huzl0i19d8rkk2cv
     verified: false
-    hashtags: "#pizza, #fbf, #quarantinelife, #gymlife"
+    hashtags: "#backday, #flexlewis, #flexlewisclassic, #bodybuilding"
+  - username: "yolo_smith9"
+    fullname: >-
+      Jaylon Smith
+    location: "United States"
+    followers: 496080
+    engagement: 323
+    commentsToLikes: 0.006775
+    id: ck14lstsiwayj0i19xeqviktu
+    verified: true
+    hashtags: "#rise, #icryo, #wearecryo, #tidetraining"
   - username: "breezylu"
     fullname: >-
       Bree'Anna Lucero
     location: "United States"
-    followers: 6621
-    engagement: 408
-    commentsToLikes: 0.021424
+    followers: 6658
+    engagement: 322
+    commentsToLikes: 0.027894
     id: ck5cd522rijuy0i112xkqmg3l
     verified: false
     hashtags: ""
-  - username: "nelson_isle"
+  - username: "briana_nichols_"
     fullname: >-
-      ROBERT NELSON JR
+      Briana Nichols
     location: "United States"
-    followers: 37522
-    engagement: 155
-    commentsToLikes: 0.055829
-    id: ck13cvi352ded0i19g2htbe6w
+    followers: 29253
+    engagement: 202
+    commentsToLikes: 0.054052
+    id: ck8t3shct4bk90j788z0lqn9g
+    verified: false
+    hashtags: "#thick, #beyou, #guns, #casual"
+  - username: "laurennalvarez"
+    fullname: >-
+      Lauren Alvarez
+    location: "United States"
+    followers: 115807
+    engagement: 730
+    commentsToLikes: 0.018479
+    id: ckap5lz65c9e20i78hfxhsvb2
+    verified: false
+    hashtags: "#babydaddy, #glutes, #dallas, #armworkout"
+  - username: "fbaftermath"
+    fullname: >-
+      Terron Beckham
+    location: "United States"
+    followers: 540566
+    engagement: 156
+    commentsToLikes: 0.016862
+    id: ck6u32fx7vb2s0j719f63jwni
     verified: true
-    hashtags: "#bodybuiider, #houstontexans, #blackhistorymonth, #mcclaren"
-  - username: "adebruindancer"
+    hashtags: "#watch, #bleach, #twitch, #track"
+  - username: "ktmclovin"
     fullname: >-
-      Alyssa Debruin
+      ♦️Katie “Red”♦️
     location: "United States"
-    followers: 19580
-    engagement: 234
-    commentsToLikes: 0.130491
-    id: ck6u0hvdafsk60j71fvxqej09
+    followers: 22906
+    engagement: 226
+    commentsToLikes: 0.074538
+    id: ck5qcuzvzsgh30i11eznj56n5
     verified: false
-    hashtags: "#repost, #bebold, #teamwork, #groovyvibes"
-  - username: "ballerina_posed"
+    hashtags: "#getoverit, #nostalgic, #sandersfit, #warmontop"
+  - username: "uc.camjam"
     fullname: >-
-      Ballerina Posed
+      Cam-Jam™
     location: "United States"
-    followers: 38256
-    engagement: 141
-    commentsToLikes: 0.011786
-    id: ck14hncdyb6r80i1909i2bzuh
+    followers: 102605
+    engagement: 259
+    commentsToLikes: 0.025628
+    id: ck5bwobzhm37d0i11evxxdkey
     verified: false
-    hashtags: "#pointeshoes, #dancegrammers, #photography, #goals"
-  - username: "tylerharmon"
-    fullname: >-
-      TYLER DEAN HARMON
-    location: "United States"
-    followers: 24897
-    engagement: 422
-    commentsToLikes: 0.063616
-    id: ck14hdx719u1x0i192xuv1m9w
-    verified: false
-    hashtags: "#bringithome, #buckethat, #sandiego, #nxlworldcup"
-  - username: "eugeneaesthetics"
-    fullname: >-
-      Eugene | Personal Trainer
-    location: "United States"
-    followers: 111711
-    engagement: 164
-    commentsToLikes: 0.056540
-    id: ck8t1om2bwgei0j782gq3n60h
-    verified: false
-    hashtags: "#sixpackabs, #jacked, #fitnessgoals, #fitsporation"
-  - username: "giovanni._.ciolino"
-    fullname: >-
-      Giovanni Ciolino
-    location: "United States"
-    followers: 9048
-    engagement: 899
-    commentsToLikes: 0.519886
-    id: ck6u1irqglz750j715d3xbmev
-    verified: false
-    hashtags: "#harrypotter, #vitaminsforkids, #grateful, #headsetgaming"
+    hashtags: "#thisismylife, #cheeracro, #globe, #sponsoredpost"
 ---

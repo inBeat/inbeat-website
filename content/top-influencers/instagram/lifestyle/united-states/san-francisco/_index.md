@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In San Francisco In 2020
 description: >-
-  Find top lifestyle Instagram influencers in San Francisco in 2020. Most popular hashtags: #ootd #quarantine #spring #sanfrancisco.
+  Find top lifestyle Instagram influencers in San Francisco in 2020. Most popular hashtags: #mothersday #sunset #love #community.
 platform: Instagram
 profiles:
+  - username: "santacruzwaves"
+    fullname: >-
+      Santa Cruz Waves
+    location: "United States"
+    followers: 66142
+    engagement: 221
+    commentsToLikes: 0.015878
+    id: ck0ty9td0m2n20i195qrze8oe
+    verified: false
+    hashtags: "#adapt, #keepcapitilasalty, #skylovers, #subscribe"
+  - username: "junjunsquare"
+    fullname: >-
+      Jun Jun Square
+    location: "United States"
+    followers: 24208
+    engagement: 695
+    commentsToLikes: 0.013914
+    id: ckap41xh05hhe0i780ivuyrd4
+    verified: false
+    hashtags: "#happymothersday, #throwback, #hawaii, #goyardalpinmini"
+  - username: "marina.rough"
+    fullname: >-
+      ᴍᴀʀɪɴᴀ ʀᴏᴜɢʜ
+    location: "United States"
+    followers: 4173
+    engagement: 1265
+    commentsToLikes: 0.086258
+    id: ckapa05n8u6jf0i78c6398f5o
+    verified: false
+    hashtags: "#coffeevibes, #mylooktoday, #pancakestack, #dressmyfashion"
+  - username: "gabrielarec"
+    fullname: >-
+      Gabriela Recalde
+    location: "United States"
+    followers: 45134
+    engagement: 68
+    commentsToLikes: 0.117492
+    id: ck8wdel80dq5p0j78fxbk0pu2
+    verified: false
+    hashtags: "#quarantinenights, #uniformteeth, #beautyproductsshelflife, #sunset"
   - username: "chompersthecorgi"
     fullname: >-
       chompers the corgi
     location: "United States"
-    followers: 129746
-    engagement: 238
-    commentsToLikes: 0.013306
+    followers: 128723
+    engagement: 240
+    commentsToLikes: 0.013329
     id: ck15tfys1hw5a0i198s75jt9j
     verified: false
-    hashtags: "#itoowouldlikesomesnacks, #noregrets, #ontheroadagain, #triplecorgielite"
+    hashtags: "#stellasquad, #putyourbackintoit, #icantwiththestumpyfeet, #lifeinthetimeofcoronavirus"
   - username: "joseph.lucido"
     fullname: >-
       Joseph Lucido
     location: "United States"
-    followers: 255104
-    engagement: 149
-    commentsToLikes: 0.006792
+    followers: 256622
+    engagement: 158
+    commentsToLikes: 0.011694
     id: ck6ttqx4tc3m20j71iv2e92y4
     verified: false
-    hashtags: "#nattitude, #expresspartner, #stacyadams, #skincareproducts"
+    hashtags: "#quarantine, #spain, #ad, #tbt"
   - username: "emlee7"
     fullname: >-
       Emma Lee | Fashion designer
     location: "United States"
-    followers: 28280
-    engagement: 205
-    commentsToLikes: 0.028564
+    followers: 28243
+    engagement: 237
+    commentsToLikes: 0.028480
     id: ck0txpr0hk27v0i19a4rpfpv4
     verified: false
-    hashtags: "#lifewelltravelled, #architectureporn, #emma, #exploremore"
-  - username: "nehaltenany"
+    hashtags: "#buildingstyles, #androgynous, #thatsdarling, #love"
+  - username: "ritzy_xo"
     fullname: >-
-      Nehal Tenany
+      𝕄𝕒𝕣𝕚𝕥𝕫𝕒 🌹
     location: "United States"
-    followers: 10895
-    engagement: 1275
-    commentsToLikes: 0.106335
-    id: ck5zih6f1fp060i14t0tos3b1
+    followers: 6650
+    engagement: 647
+    commentsToLikes: 0.095757
+    id: ck138hfgpg8zv0i192k28a0sd
     verified: false
-    hashtags: "#missguided, #fashion, #fashiondaily, #sf"
+    hashtags: "#ritzypotter, #valentinesday, #cincodemayo, #roadtrip"
   - username: "iseetan"
     fullname: >-
       Ess T.
     location: "United States"
-    followers: 27976
-    engagement: 622
-    commentsToLikes: 0.089139
+    followers: 31843
+    engagement: 703
+    commentsToLikes: 0.088185
     id: ck6ubfsv89bcb0j71w75kfv1u
     verified: false
-    hashtags: "#hadenough, #vday2020, #plantsmakepeoplehappy, #feedme"
-  - username: "fionafkntran"
+    hashtags: "#byewinter, #mondaymood, #gifted, #collaboration"
+  - username: "nehaltenany"
     fullname: >-
-      fiona
+      Nehal Tenany
     location: "United States"
-    followers: 2501
-    engagement: 1622
-    commentsToLikes: 0.110271
-    id: ck8taa8bzqyzj0j78taa8tkol
+    followers: 10921
+    engagement: 1199
+    commentsToLikes: 0.112602
+    id: ck5zih6f1fp060i14t0tos3b1
     verified: false
-    hashtags: "#sponsored, #studentslovehint, #mondaymotivation"
-  - username: "kristywicks"
-    fullname: >-
-      KRISTY • WICKS
-    location: "United States"
-    followers: 403301
-    engagement: 289
-    commentsToLikes: 0.042973
-    id: ck0u0jg9atyqy0i19dm88fu8d
-    verified: false
-    hashtags: "#freshfood, #adoptdontshop, #realtalk, #summernights"
-  - username: "professionaltraveler"
-    fullname: >-
-      Catarina Mello | TRAVEL | SF
-    location: "United States"
-    followers: 279610
-    engagement: 200
-    commentsToLikes: 0.025921
-    id: ck0u7nuti56bb0i1994j0zkz6
-    verified: false
-    hashtags: "#natgeotravel, #sponsored, #myunitedjourney, #myavanabottle"
-  - username: "sepideh_usa_lifestyle"
-    fullname: >-
-      سپیده🧿🇺🇸مهاجرتم به آمریکا
-    location: "United States"
-    followers: 7671
-    engagement: 2082
-    commentsToLikes: 0.091979
-    id: ck8t7e18zgglb0j78e3gq8g2v
-    verified: false
-    hashtags: "#akon, #model, #girlpower, #quarantine"
-  - username: "derekgphoto"
-    fullname: >-
-      ɪɴғʟᴜᴇɴᴄᴇʀ ᴘᴏʀᴛʀᴀɪᴛs • ᴅᴇʀᴇᴋ ɢ
-    location: "United States"
-    followers: 34083
-    engagement: 187
-    commentsToLikes: 0.135720
-    id: ck138oiuah8nz0i19nmuc1im4
-    verified: false
-    hashtags: "#ccbcommunity, #saccityshutter, #supportlocal, #parkvicslam"
+    hashtags: "#bridalwear, #fashiondaily, #styleblog, #sweaterweather"
 ---

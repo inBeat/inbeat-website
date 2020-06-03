@@ -1,107 +1,107 @@
 ---
 title: Top 10 Makeup Instagram Influencers In United States In 2020
 description: >-
-  Find top makeup Instagram influencers in United States in 2020. Most popular hashtags: #colourpop #makeup #colourpopcosmetics #anastasiabeverlyhills.
+  Find top makeup Instagram influencers in United States in 2020. Most popular hashtags: #makeupgoals #pinkmakeup #makeupaddiction #makeupobsessed.
 platform: Instagram
 profiles:
-  - username: "saratagaloa"
+  - username: "biancablack_"
     fullname: >-
-      Sara Tagaloa
+      Bianca Black
     location: "United States"
-    followers: 3611
-    engagement: 696
-    commentsToLikes: 0.023460
-    id: ck8szz6vjqae30j782o8807pn
+    followers: 2427
+    engagement: 1179
+    commentsToLikes: 0.039800
+    id: ck138qzn3hl3s0i19d7isid1q
     verified: false
     hashtags: "#makeup"
-  - username: "julie_love3"
+  - username: "natalkaa_beauty"
     fullname: >-
-      Juliet
+      ✨Natalia Stelmach✨(3,5k)
     location: "United States"
-    followers: 8750
-    engagement: 1863
-    commentsToLikes: 0.141864
-    id: ck5zpxetbtjcl0i14dy4nezdj
+    followers: 3513
+    engagement: 2787
+    commentsToLikes: 0.167101
+    id: ck8t3e5g62xbt0j787kplm4tl
+    verified: false
+    hashtags: "#quarantinelife, #poland, #collab, #makeupgiveaway"
+  - username: "paradisedapree"
+    fullname: >-
+      Paradise Dapree
+    location: "United States"
+    followers: 9340
+    engagement: 1841
+    commentsToLikes: 0.114620
+    id: ck9hadynic6tu0j78xt018iuo
     verified: false
     hashtags: ""
-  - username: "alexaraemua"
-    fullname: >-
-      🌈Alexa Nicoletti🌈
-    location: "United States"
-    followers: 34678
-    engagement: 810
-    commentsToLikes: 0.103857
-    id: ck5pxdk2pr9so0i11sk8gy9yo
-    verified: false
-    hashtags: "#makeuplover, #hudabeauty, #hauslabseyeliener, #hudabeautyshop"
-  - username: "fakhiarif"
-    fullname: >-
-      Fakhia Arif| Beauty Influencer
-    location: "United States"
-    followers: 11733
-    engagement: 1367
-    commentsToLikes: 0.239167
-    id: ck14l4njssu100i19kncgg6mm
-    verified: false
-    hashtags: "#cutcreasetutorial, #anastasiabrows, #pinklips, #tutorialmakeup"
-  - username: "masa_babyyy"
-    fullname: >-
-      Princess Masa❤️😩
-    location: "United States"
-    followers: 10059
-    engagement: 1324
-    commentsToLikes: 0.064390
-    id: ck14kzt1us5dv0i19bk9uqgda
-    verified: false
-    hashtags: "#itook1000pictures, #fashionnova, #stayathomechallenge, #gavemyselfaphotoshoot"
-  - username: "theseatednurse"
-    fullname: >-
-      Andrea Dalzell
-    location: "United States"
-    followers: 5553
-    engagement: 1563
-    commentsToLikes: 0.078235
-    id: ck135xn9b3rah0i19dl82lskv
-    verified: false
-    hashtags: "#nevergiveup, #nursingschool, #makeitanywhere, #wheelchair"
-  - username: "daisymarquez_"
-    fullname: >-
-      DAISY MARQUEZ 🇲🇽
-    location: "United States"
-    followers: 1639100
-    engagement: 1338
-    commentsToLikes: 0.025231
-    id: ck0vzkl1v9k830i19vlurpeqz
-    verified: true
-    hashtags: "#beautyuncomplicated, #ad, #bigbrowenergy"
   - username: "makeupbypita"
     fullname: >-
       Lupita
     location: "United States"
-    followers: 137437
-    engagement: 1840
-    commentsToLikes: 0.083426
+    followers: 143108
+    engagement: 1758
+    commentsToLikes: 0.060599
     id: ck0vv5hz8nn3i0i19n3s9ejgo
     verified: false
-    hashtags: "#momblogger, #pregnantbelly, #instagood, #lagirlcosmetics"
+    hashtags: "#laurasboutique, #ootdinspiration, #1million, #blogger"
+  - username: "kassybby_mua"
+    fullname: >-
+      Kass
+    location: "United States"
+    followers: 7684
+    engagement: 1656
+    commentsToLikes: 0.105227
+    id: ck8t5elgl9vvh0j784dzti33s
+    verified: false
+    hashtags: "#pinkoutfit, #anastasiabrows, #wetnwildbeauty, #tiktokmakeup"
   - username: "spencermakeup"
     fullname: >-
       Spencer Makeup (Adrianna) 💋
     location: "United States"
-    followers: 8270
-    engagement: 1651
-    commentsToLikes: 0.119781
+    followers: 8330
+    engagement: 1644
+    commentsToLikes: 0.139343
     id: ck0tyzvwsoktu0i19r7wz5hfx
     verified: false
-    hashtags: "#laurag, #halloweenmakeup, #norvinanavy, #haloeyeshadow"
-  - username: "itskitsovain"
+    hashtags: "#pixi, #glam, #stayhealthy, #bronzingmousse"
+  - username: "fakhiarif"
     fullname: >-
-      👄Miss Kitty Sovain👄
+      Fakhia Arif | Content Creator
     location: "United States"
-    followers: 622136
-    engagement: 824
-    commentsToLikes: 0.027829
-    id: ck0tw32q1dt850i19k2v9fwwf
+    followers: 12346
+    engagement: 1385
+    commentsToLikes: 0.271528
+    id: ck14l4njssu100i19kncgg6mm
     verified: false
-    hashtags: "#whatdidkittydonow, #sovainbeauty, #ilovemesomeme, #selfloveisthebestlove"
+    hashtags: "#maccosmetics, #purplemakeup, #instagrammakeup, #avocados"
+  - username: "daisymarquez_"
+    fullname: >-
+      DAISY MARQUEZ 🇲🇽
+    location: "United States"
+    followers: 1640680
+    engagement: 1260
+    commentsToLikes: 0.025416
+    id: ck0vzkl1v9k830i19vlurpeqz
+    verified: true
+    hashtags: "#bigbrowenergy, #beautyuncomplicated, #ad, #sheinathome"
+  - username: "carleensart"
+    fullname: >-
+      ⭐️ KAROLINA ŁACH MAKE-UP 🇵🇱/🇩🇪
+    location: "United States"
+    followers: 19278
+    engagement: 1066
+    commentsToLikes: 0.225410
+    id: ck6tuv3g2ilj20j71uogdthod
+    verified: false
+    hashtags: "#haul, #zostan, #lippen, #giveawaypolska"
+  - username: "_sweeetnothings"
+    fullname: >-
+      J I S E L | TRI-STATE MUA
+    location: "United States"
+    followers: 17735
+    engagement: 1063
+    commentsToLikes: 0.070685
+    id: ck13bghuvvb5v0i193eeu4sg2
+    verified: false
+    hashtags: "#themastercourse, #supportsmallbusiness, #supportyourlocalgirlgangs, #benefitcosmetics"
 ---

@@ -1,16 +1,26 @@
 ---
 title: Top 10 Instagram Influencers In Boston In 2020
 description: >-
-  Find top Instagram influencers in Boston in 2020. Most popular hashtags: #sponsored #bendicion #wetravelgirls #halloweenmakeup.
+  Find top Instagram influencers in Boston in 2020. Most popular hashtags: #linkinbio #fightcovid19 #teamcanon #wizkhalifa.
 platform: Instagram
 profiles:
+  - username: "paytonmoran"
+    fullname: >-
+      Payton Moran
+    location: "United States"
+    followers: 12653
+    engagement: 1133
+    commentsToLikes: 0.024203
+    id: ck6tq29zlp0580j717tormoue
+    verified: false
+    hashtags: "#thebachelor"
   - username: "tsavvv"
     fullname: >-
       Tim Savage
     location: "United States"
-    followers: 3946
-    engagement: 1370
-    commentsToLikes: 0.047166
+    followers: 3953
+    engagement: 1377
+    commentsToLikes: 0.047049
     id: ck5hglnyy3fot0i11jcpnumal
     verified: false
     hashtags: "#rossnorman, #linkinbio"
@@ -18,90 +28,80 @@ profiles:
     fullname: >-
       Boston.com
     location: "United States"
-    followers: 344095
-    engagement: 261
-    commentsToLikes: 0.004507
+    followers: 350783
+    engagement: 210
+    commentsToLikes: 0.006854
     id: ck0vzq4xhacl00i19eaf52et9
     verified: true
-    hashtags: "#bostonstrong"
+    hashtags: ""
   - username: "sabrina.uyenluu"
     fullname: >-
-      SABRINA LUU🌻 Girls Empowerment
+      SABRINA LUU®🌻Style & Travel
     location: "United States"
-    followers: 2548
-    engagement: 2699
-    commentsToLikes: 0.178688
+    followers: 2529
+    engagement: 2301
+    commentsToLikes: 0.154811
     id: ck5zvm86g4hzf0i14en974lpn
     verified: false
-    hashtags: "#styleinfluencers, #personalstyleblog, #ootdasian, #ootdguide"
-  - username: "lilywunders"
+    hashtags: "#monslay, #tbthursday, #covid2019"
+  - username: "liliibooo"
     fullname: >-
-      Lily | Lily Wunders
+      Lili ✿
     location: "United States"
-    followers: 5584
-    engagement: 1555
-    commentsToLikes: 0.120855
-    id: ck8t9p6z8ou1f0j789mkksvxh
+    followers: 25675
+    engagement: 1219
+    commentsToLikes: 0.047452
+    id: ckap6p6sogue50i7809uee5ls
     verified: false
-    hashtags: "#rawurbanshots, #globetrotters, #pinktrotters, #lovelynewzealand"
-  - username: "irun26point2__"
+    hashtags: "#grandemascara, #katesomerville, #inhbabe, #acebeaute"
+  - username: "chchiclifestyle"
     fullname: >-
-      Patrick Cutter
+      Nikita Chauhan
     location: "United States"
-    followers: 48565
-    engagement: 688
-    commentsToLikes: 0.051737
-    id: ck5zsuultz84b0i14mom50fdw
+    followers: 15461
+    engagement: 809
+    commentsToLikes: 0.172808
+    id: ck5pzfpp60r2t0i11h470hwrt
     verified: false
-    hashtags: "#runningterritory, #runnerslife, #trailrunner, #motivational"
+    hashtags: "#indianjewelry, #novababe, #springdress, #amazonfind"
   - username: "anthonybrown13"
     fullname: >-
       A13
     location: "United States"
-    followers: 12295
-    engagement: 1927
-    commentsToLikes: 0.049145
+    followers: 12732
+    engagement: 1969
+    commentsToLikes: 0.048234
     id: ck0uerg1klysk0i19s8yv0ard
     verified: true
     hashtags: "#houstonskwad, #jerome, #scoducks"
-  - username: "tdrape1"
-    fullname: >-
-      T D R A P E 🚀☔️💔
-    location: "United States"
-    followers: 9659
-    engagement: 1524
-    commentsToLikes: 0.041227
-    id: ck5zo8io3pzya0i149kag630s
-    verified: false
-    hashtags: "#millions, #hellcat, #videoshoot, #outthamud"
   - username: "madelinestarr7"
     fullname: >-
       Madeline Starr
     location: "United States"
-    followers: 120220
-    engagement: 412
-    commentsToLikes: 0.056528
+    followers: 118979
+    engagement: 416
+    commentsToLikes: 0.055296
     id: ck15rzzfhajrf0i194gd4ags6
     verified: false
-    hashtags: "#sponsoredbyturo, #averybar, #teamcanon, #ritzcarltonpartner"
-  - username: "https.rocco"
+    hashtags: "#liveinfamously, #19crimespartner, #sponsoredbyturo, #nhl"
+  - username: "tylerabron"
     fullname: >-
-      🍸 Rocco Roman 🍸
+      TYLER 🦋 ABRON
     location: "United States"
-    followers: 8410
-    engagement: 1358
-    commentsToLikes: 0.043417
-    id: ck14i4x5ndnn10i195htkb2i1
+    followers: 466774
+    engagement: 409
+    commentsToLikes: 0.030584
+    id: ck0tuimfw7bv10i19y82wyzv7
     verified: false
-    hashtags: "#grimmfairytales, #alexisstonepalette, #moschino, #kyliejenner"
-  - username: "dugie11"
+    hashtags: "#captainhookchallenge, #solidbitch, #bangenergy, #wolfpack"
+  - username: "hannah_nyssa"
     fullname: >-
-      Alex Verdugo
+      Hannah Sevilla
     location: "United States"
-    followers: 235655
-    engagement: 2195
-    commentsToLikes: 0.022812
-    id: ck6twfdpcrnug0j718w5p5r1p
-    verified: true
-    hashtags: "#bendicion, #vivalaraza, #ad, #dodgersnation"
+    followers: 6573
+    engagement: 1879
+    commentsToLikes: 0.049330
+    id: ck13abe8jpkdi0i19gvqw9n49
+    verified: false
+    hashtags: "#rawphotography, #fotoart, #portraitvision, #portrature"
 ---

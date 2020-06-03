@@ -1,26 +1,36 @@
 ---
 title: Top 10 Lingerie Instagram Influencers In Russia In 2020
 description: >-
-  Find top lingerie Instagram influencers in Russia in 2020. Most popular hashtags: #lingerie #portrait #tattoo #portraitphotography.
+  Find top lingerie Instagram influencers in Russia in 2020. Most popular hashtags: #lingerie #quarantine #tiktok #spring.
 platform: Instagram
 profiles:
+  - username: "kandikova_alexandra"
+    fullname: >-
+      K A N D I K O V A
+    location: "Russia"
+    followers: 3124
+    engagement: 1709
+    commentsToLikes: 0.512813
+    id: ck6u6851pe29y0j71krub77yh
+    verified: false
+    hashtags: ""
   - username: "ali_sha_li"
     fullname: >-
       Агеева Алина | Ageeva Alina
     location: "Russia"
-    followers: 16581
-    engagement: 1052
-    commentsToLikes: 0.032672
+    followers: 16698
+    engagement: 1009
+    commentsToLikes: 0.031231
     id: ck137ewffb7c40i1940inyakj
     verified: false
-    hashtags: "#19"
+    hashtags: "#artecreonline, #dance, #dancesport, #hairstyle"
   - username: "nika.fokinaa"
     fullname: >-
       Veronika
     location: "Russia"
-    followers: 57950
-    engagement: 420
-    commentsToLikes: 0.022490
+    followers: 57184
+    engagement: 404
+    commentsToLikes: 0.020372
     id: ck55oihge8f4s0i11fwzfe9y3
     verified: false
     hashtags: "#zaishanghai, #autumnlook"
@@ -28,80 +38,70 @@ profiles:
     fullname: >-
       Irina Averina
     location: "Russia"
-    followers: 35653
-    engagement: 307
-    commentsToLikes: 0.026364
+    followers: 36532
+    engagement: 319
+    commentsToLikes: 0.019700
     id: ck55jzi2sy4o20i11otpze1b9
     verified: false
-    hashtags: "#agentprovocatuer, #photographeritaly, #quarantine, #inspiration"
-  - username: "olya_seteykina"
+    hashtags: "#coronavirus, #beautifullegs, #quarantine, #legs"
+  - username: "olesyakuba"
     fullname: >-
-      𝓞𝓵𝓰𝓪 𝓢𝓮𝓽𝓮𝔂𝓴𝓲𝓷𝓪
+      OLESYA KUBA • Fashion • Israel
     location: "Russia"
-    followers: 611071
-    engagement: 153
-    commentsToLikes: 0.023916
-    id: ck15ukq2cnnnr0i19x24heffx
+    followers: 63529
+    engagement: 133
+    commentsToLikes: 0.065924
+    id: ck6tw0dcppa0y0j71vw26sp6v
     verified: false
-    hashtags: ""
-  - username: "kandikova_alexandra"
-    fullname: >-
-      K A N D I K O V A
-    location: "Russia"
-    followers: 2215
-    engagement: 683
-    commentsToLikes: 0.047732
-    id: ck6u6851pe29y0j71krub77yh
-    verified: false
-    hashtags: ""
+    hashtags: "#likemotherlikedaughter, #colortrend, #stayhome, #mondaychallenge"
   - username: "fari_i_mari_daryat"
     fullname: >-
       Фарида и Марьям
     location: "Russia"
-    followers: 42546
-    engagement: 26
-    commentsToLikes: 0.151937
+    followers: 69340
+    engagement: 71
+    commentsToLikes: 0.224879
     id: ck8sztzykppeh0j78c5cxd792
     verified: false
     hashtags: ""
   - username: "catvondia"
     fullname: >-
-      ♛ 𝕯𝖎𝖆𝖓𝖆🌙
+      ♛ Diana
     location: "Russia"
-    followers: 62007
-    engagement: 405
-    commentsToLikes: 0.092833
+    followers: 62914
+    engagement: 365
+    commentsToLikes: 0.101560
     id: ck6u59sdg8dtj0j71joe8pgox
     verified: false
-    hashtags: "#angel, #bandage, #maltavacation, #giftideas"
+    hashtags: "#dollylook, #theshining, #cowboy, #bunnies"
+  - username: "knolldoll"
+    fullname: >-
+      Ivana Knöll
+    location: "Russia"
+    followers: 169669
+    engagement: 795
+    commentsToLikes: 0.017257
+    id: ck5zz2hwqayf50i141b90jmug
+    verified: true
+    hashtags: "#beachbabe, #dancing, #funnyvideos, #travellife"
   - username: "ann.siren"
     fullname: >-
       Ann🌿 •ᛟ•
     location: "Russia"
-    followers: 39580
-    engagement: 1191
-    commentsToLikes: 0.020167
+    followers: 43287
+    engagement: 1083
+    commentsToLikes: 0.021563
     id: ck5c23nb9whh20i11xkoc9x13
     verified: false
-    hashtags: "#darkbeauty, #grungegirl, #altfashion, #lingerie"
+    hashtags: "#north, #mythology, #gothicmakeup, #tatoogirl"
   - username: "wotton.mari"
     fullname: >-
       Mari 🖤
     location: "Russia"
-    followers: 72655
-    engagement: 735
-    commentsToLikes: 0.034605
+    followers: 83522
+    engagement: 780
+    commentsToLikes: 0.032355
     id: ck5cbhp7ifgag0i11xwr7hjs8
     verified: false
-    hashtags: "#afimol, #artphotography, #somethingnew, #blackandwhite"
-  - username: "m_o_r_o_z_o_w_a"
-    fullname: >-
-      Evgenia Morozova
-    location: "Russia"
-    followers: 13016
-    engagement: 737
-    commentsToLikes: 0.055797
-    id: ck6u60tv1cw570j717rs47rum
-    verified: false
-    hashtags: "#pictureoftheday, #cryoldie, #spaceart, #modeling"
+    hashtags: "#businesslady, #girls, #phone, #differentme"
 ---

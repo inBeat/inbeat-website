@@ -1,107 +1,107 @@
 ---
 title: Top 10 Barbers Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top barbers Instagram influencers in Las Vegas in 2020. Most popular hashtags: #barber #lasvegas #quarantine #vegas.
+  Find top barbers Instagram influencers in Las Vegas in 2020. Most popular hashtags: #barber #lasvegas #hair #vegas.
 platform: Instagram
 profiles:
-  - username: "sinisterbarbie"
+  - username: "redbykissformen"
     fullname: >-
-      𝕄𝕒𝕪𝕒 🖤
+      RED by KISS for MEN
     location: "United States"
-    followers: 10823
-    engagement: 563
-    commentsToLikes: 0.045529
-    id: ck5qe55xgyrvo0i11xl6a4q9b
+    followers: 46421
+    engagement: 71
+    commentsToLikes: 0.012691
+    id: ck0txoe99jvps0i194esjfyo4
     verified: false
-    hashtags: ""
+    hashtags: "#naturalwaves, #naturalhaircommunity, #bowwowdurag, #femaleempowerment"
   - username: "globalcuts"
     fullname: >-
-      posting stories only 👁️👁️
+      IS ABOUT DA 💸 & FK DA FAME 💸
     location: "United States"
-    followers: 79319
-    engagement: 260
-    commentsToLikes: 0.021904
+    followers: 78496
+    engagement: 262
+    commentsToLikes: 0.022865
     id: ck6uh554o723y0j71w8g8jjcy
     verified: false
-    hashtags: "#thankful, #godisgood, #celebritybarber, #hair"
-  - username: "leigh.gill"
+    hashtags: "#caliber, #collab, #caliberbarber, #lasvegas"
+  - username: "royleethebarber"
     fullname: >-
-      Leigh Gill
+      RoyLeeTheBarber
     location: "United States"
-    followers: 10557
-    engagement: 1075
-    commentsToLikes: 0.024289
-    id: ck5qb0mvaj88c0i11yylpr004
+    followers: 117414
+    engagement: 873
+    commentsToLikes: 0.025818
+    id: ckap1gs0ruj2r0i78w29ikf35
     verified: false
-    hashtags: "#oneday, #movies, #itv2, #coronavirus"
-  - username: "jsbarbershop805"
+    hashtags: "#vegasbarbers, #barbearia, #labarber, #fashion"
+  - username: "viva.las.vegas.vlv"
     fullname: >-
-      JDABARBER805
+      VIVA LAS VEGAS
     location: "United States"
-    followers: 48900
-    engagement: 97
-    commentsToLikes: 0.033845
-    id: ck5zr6zhaw1290i14i32u05ba
+    followers: 54607
+    engagement: 141
+    commentsToLikes: 0.019077
+    id: ck0ty5dm5lpcf0i19kt6h7soq
     verified: false
-    hashtags: "#la, #bikelife, #barbershop, #805"
-  - username: "therealtrippy"
+    hashtags: "#vintagevegas, #greaser, #chevy, #customs"
+  - username: "ppacking"
     fullname: >-
-      THEREALTRIPPY ✪
+      Patrick Packing ✪
     location: "United States"
-    followers: 43077
-    engagement: 79
-    commentsToLikes: 0.068551
-    id: ck13bx9zkxl3g0i19a4z2u3y4
+    followers: 15816
+    engagement: 737
+    commentsToLikes: 0.035353
+    id: ckap7nu52ksrb0i78li1dupe8
     verified: false
-    hashtags: "#teamblacksolutions, #santaanabarber, #irvinebarber, #vegasbarber"
+    hashtags: "#zoomchat, #riskybusiness, #wahl, #financialbroker"
   - username: "yayosnaps"
     fullname: >-
       Las Vegas Photographer
     location: "United States"
-    followers: 157759
-    engagement: 114
-    commentsToLikes: 0.015542
+    followers: 162902
+    engagement: 115
+    commentsToLikes: 0.016122
     id: ck5q3saq7m7i70i11egsxvxul
     verified: false
-    hashtags: "#vegasbaby, #lasvegasstrip, #quarantine, #managedbyyayo"
+    hashtags: "#natural, #bayarea, #bday, #modelo"
   - username: "reidstefan"
     fullname: >-
       Reid Stefan
     location: "United States"
-    followers: 25488
-    engagement: 587
-    commentsToLikes: 0.096604
+    followers: 27444
+    engagement: 629
+    commentsToLikes: 0.097286
     id: ck5hlr3qukpab0i11y6a4f9u5
     verified: true
-    hashtags: "#ableton, #producer, #producerlife, #namm"
-  - username: "izadi"
+    hashtags: "#producerworkout, #airbnb, #producer, #logic"
+  - username: "djshadowred"
     fullname: >-
-      Izadi "Armani”
+      ShadowReD
     location: "United States"
-    followers: 1102091
-    engagement: 99
-    commentsToLikes: 0.059426
-    id: ck0w1017jgvq70i19jdsc7fl6
-    verified: true
-    hashtags: "#life, #doritos, #graffitimaserati, #coronavirusisrael"
-  - username: "tailorfade"
-    fullname: >-
-      Trevor Moots ✪
-    location: "United States"
-    followers: 43992
-    engagement: 270
-    commentsToLikes: 0.117789
-    id: ck5q1yu0cdg400i11wej4vfov
+    followers: 32008
+    engagement: 146
+    commentsToLikes: 0.070250
+    id: ck5hgg5ly2lea0i11jxtf2op8
     verified: false
-    hashtags: "#sharpfade, #licensedtocreate, #hairstyles, #reflection"
+    hashtags: "#hoodie, #haiti, #bitch, #suit"
   - username: "mannyortiz"
     fullname: >-
       Manny Ortiz
     location: "United States"
-    followers: 180705
-    engagement: 560
-    commentsToLikes: 0.020433
+    followers: 184726
+    engagement: 582
+    commentsToLikes: 0.025937
     id: ck14k4hexnodj0i19y7733lx3
     verified: false
-    hashtags: "#imagingusa2020, #ourppa, #ppaambassador, #valleyoffire"
+    hashtags: "#chicagophotographer, #lasvegas, #valleyoffire, #valleyoffirestatepark"
+  - username: "tailorfade"
+    fullname: >-
+      Trevor Moots ✪
+    location: "United States"
+    followers: 43874
+    engagement: 256
+    commentsToLikes: 0.106975
+    id: ck5q1yu0cdg400i11wej4vfov
+    verified: false
+    hashtags: "#thebarberpost, #live, #loveyourself, #showcasebarbers"
 ---

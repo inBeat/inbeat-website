@@ -1,107 +1,107 @@
 ---
 title: Top 10 Home Decor Instagram Influencers In Norway In 2020
 description: >-
-  Find top home decor Instagram influencers in Norway in 2020. Most popular hashtags: #interi #homedecor #interior #interior123.
+  Find top home decor Instagram influencers in Norway in 2020. Most popular hashtags: #homedecor #livingroomdecor #homeinspo #livingroominspo.
 platform: Instagram
 profiles:
   - username: "anettevs"
     fullname: >-
       Anette Veronica 🇳🇴
     location: "Norway"
-    followers: 11923
-    engagement: 312
-    commentsToLikes: 0.387941
+    followers: 12021
+    engagement: 405
+    commentsToLikes: 0.399633
     id: ck0ty9wkwm3230i19mrwfkgyc
     verified: false
-    hashtags: "#decor, #hyggehome, #classyinteriors, #stuebord"
-  - username: "mammaogfillip"
+    hashtags: "#candleholder, #interiorinspiration, #homestyling, #whiteflowers"
+  - username: "_helenahansen_"
     fullname: >-
-      Adelheid
+      Helena Hansen
     location: "Norway"
-    followers: 11360
-    engagement: 434
-    commentsToLikes: 0.176551
-    id: ck0u60z060mhj0i1946ykwz4n
+    followers: 8336
+    engagement: 1504
+    commentsToLikes: 0.037283
+    id: ck0vxqqmi08f50i19t1kfpogp
     verified: false
-    hashtags: "#claricell, #weekend, #newbiebykappahl, #flamingoparty"
-  - username: "sibelldr"
+    hashtags: "#thenaplab, #zerowaste, #babyshop, #liewood"
+  - username: "jilanbaker"
     fullname: >-
-      Sibel Durucu ✩
+      J I L A N B A K E R ⋒
     location: "Norway"
-    followers: 8240
-    engagement: 654
-    commentsToLikes: 0.291715
-    id: ck6tpms9pkrgd0j71rbjenrbl
+    followers: 8274
+    engagement: 991
+    commentsToLikes: 0.413230
+    id: ck55pam67a5zj0i11vbur9u2c
     verified: false
-    hashtags: "#miniature, #ikeakitchen, #vikingfootwear, #ebeveyn"
+    hashtags: "#happybirthday, #fashiongoals, #kappahl, #childrensdecor"
   - username: "mitt_landlige_hjem"
     fullname: >-
       Linda🇳🇴
     location: "Norway"
-    followers: 2710
-    engagement: 2022
-    commentsToLikes: 0.117047
+    followers: 2789
+    engagement: 1830
+    commentsToLikes: 0.128712
     id: ck5bwjvuclua20i11g8qfj8qa
     verified: false
-    hashtags: "#venterp, #peoner, #homesweethome, #romantichomes"
-  - username: "benedictehn"
+    hashtags: "#sommerblomster, #countrygarden, #lysp, #yellowdecor"
+  - username: "funkis_tina"
     fullname: >-
-      🌵Nordic Interior & DIY
+      funkis_tina
     location: "Norway"
-    followers: 28717
-    engagement: 456
-    commentsToLikes: 0.177801
-    id: ck5bvb66ojbis0i113m9mdvmn
+    followers: 8491
+    engagement: 824
+    commentsToLikes: 0.139748
+    id: ck8swvd4cfdmn0j782jhsxxtq
     verified: false
-    hashtags: "#scandinavianinterior, #inredningsdetaljer, #diyblog, #diywithbenedictehn"
+    hashtags: "#spisestue, #interior2you, #interi, #fireplace"
   - username: "homebygard"
     fullname: >-
       Interior Inspiration
     location: "Norway"
-    followers: 35472
-    engagement: 243
-    commentsToLikes: 0.083697
+    followers: 35555
+    engagement: 232
+    commentsToLikes: 0.089940
     id: ck8sw06uqdcmm0j78ge7bkrj6
     verified: false
-    hashtags: "#cabinvibes, #mydomaine, #decorinspiration, #cabinlust"
-  - username: "design_logg"
+    hashtags: "#mydarkhome, #home, #deco, #hjemmehosmeg"
+  - username: "tove.klevjer"
     fullname: >-
-      Camilla Bakken
+      𝗧𝗢𝗩𝗘 𝗞𝗟𝗘𝗩𝗝𝗘𝗥
     location: "Norway"
-    followers: 2074
-    engagement: 1310
-    commentsToLikes: 0.169671
-    id: ck8t2aybmysd70j78kp0p0gby
+    followers: 3046
+    engagement: 1185
+    commentsToLikes: 0.266128
+    id: ck8sylnfwl76x0j78iozp81t7
     verified: false
-    hashtags: "#homeinspo, #thatauthenticfeeling, #diyhomedecor, #inspotoyourhome"
-  - username: "byphiamarie"
+    hashtags: "#bunad, #antiques, #tradisjon, #contry"
+  - username: "kinegjermstad"
     fullname: >-
-      Phia Andersson ~ #ByPhiaMarie
+      Kine Gjermstad
     location: "Norway"
-    followers: 3058
-    engagement: 1235
-    commentsToLikes: 0.337906
-    id: ck6tp7dw5i8ml0j71g6zk6n8u
+    followers: 19306
+    engagement: 528
+    commentsToLikes: 0.155157
+    id: ck55k6o9aylp30i11q8xjez9r
     verified: false
-    hashtags: "#vibakar, #boligdr, #interiores, #oslo"
-  - username: "hanne_paalandet"
+    hashtags: "#interior4all, #tipstilhjemmet, #heymat, #finahem"
+  - username: "cathrinedoreen"
     fullname: >-
-      Hanne Aamodt
+      Cathrine Doreen® 🇳🇴
     location: "Norway"
-    followers: 43650
-    engagement: 206
-    commentsToLikes: 0.076985
-    id: ck5ckwaw8xqm30i11kviwadj1
+    followers: 162584
+    engagement: 137
+    commentsToLikes: 0.058487
+    id: ck15tgk5lhz3s0i19pahjg2i9
     verified: false
-    hashtags: "#hagelivoguterom, #byhanne, #interior125, #endeligfredag"
-  - username: "myinteriorandhome"
+    hashtags: "#exteriordesign, #ladelle, #ceilingdesign, #interior"
+  - username: "holstedhanne"
     fullname: >-
-      Bente Furrebøe
+      Hanne & Rune
     location: "Norway"
-    followers: 247981
-    engagement: 144
-    commentsToLikes: 0.058031
-    id: ck135b1ah0lly0i199xu7v4pr
+    followers: 22701
+    engagement: 476
+    commentsToLikes: 0.157760
+    id: ck6ucagsyegfl0j71fhyhm7ut
     verified: false
-    hashtags: "#entrancestyle, #homeinspiration, #easyinterieur, #balconydesign"
+    hashtags: "#nordiskehjem, #myhome, #verticalgarden, #interiordecor"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bmx Instagram Influencers In Russia In 2020
 description: >-
-  Find top bmx Instagram influencers in Russia in 2020. Most popular hashtags: #bmx #bmxlife #ridebmx #bmxrussia.
+  Find top bmx Instagram influencers in Russia in 2020. Most popular hashtags: #bmxrussia #birthday #winter #bmxforever.
 platform: Instagram
 profiles:
   - username: "olya_bmx"
     fullname: >-
       Olga Farfutdinova 🇷🇺
     location: "Russia"
-    followers: 42156
-    engagement: 968
-    commentsToLikes: 0.009326
+    followers: 41039
+    engagement: 992
+    commentsToLikes: 0.009004
     id: ck5q3ksnal7uf0i11sj9oeyok
     verified: false
-    hashtags: "#tbt, #bmx4life, #bmxstreet, #bmxforlife"
-  - username: "a.terebova"
+    hashtags: "#tubolitotubes, #oldphoto, #khebikes, #tbt"
+  - username: "roman_khayrutdinov"
     fullname: >-
-      Anastasiia😼
+      ROMAN KHAYRUTDINOV⚡️BMX
     location: "Russia"
-    followers: 4210
-    engagement: 3580
-    commentsToLikes: 0.024208
-    id: ck8tcuy380s4u0j78bt13okz4
+    followers: 43285
+    engagement: 740
+    commentsToLikes: 0.008467
+    id: ck5q6tqkays6d0i11xibzwaqs
     verified: false
-    hashtags: "#staysafe, #gainprotection, #dreambig, #backflip"
+    hashtags: "#china, #lovemylife, #bmxcali, #italytravel"
   - username: "kruglovak"
     fullname: >-
       Katya Kruglova
     location: "Russia"
-    followers: 5556
-    engagement: 1045
-    commentsToLikes: 0.020263
+    followers: 5506
+    engagement: 996
+    commentsToLikes: 0.022224
     id: ck5zoiunqqnrv0i14v1l5w8ha
     verified: false
-    hashtags: "#thebloombmx, #ymkashix, #bmxgirl, #flatland"
-  - username: "tigripoops"
-    fullname: >-
-      🐯𝐓𝐈𝐆𝐄𝐑🐾
-    location: "Russia"
-    followers: 8419
-    engagement: 5700
-    commentsToLikes: 0.043250
-    id: ck6ueen1tqgz80j712u8txgd5
-    verified: false
-    hashtags: ""
-  - username: "pashazhuravlev_bmx"
-    fullname: >-
-      ✌️Pavel Zhuravlev✌️
-    location: "Russia"
-    followers: 4368
-    engagement: 2316
-    commentsToLikes: 0.077638
-    id: ck8tcv2xr0snc0j78x5pzlbg7
-    verified: false
-    hashtags: "#crashchallenge, #bmx, #bmxrussia"
+    hashtags: "#flatland, #fisechengdu, #thebloombmxawards, #simplesession"
   - username: "yaroslava.89"
     fullname: >-
       Yaroslava Bondarenko
     location: "Russia"
-    followers: 20646
-    engagement: 500
-    commentsToLikes: 0.010482
+    followers: 20377
+    engagement: 507
+    commentsToLikes: 0.010450
     id: ck14ki6inpma80i193o7szwio
     verified: false
-    hashtags: "#bmxsx, #bmxlife, #cycling, #olympictestevent"
-  - username: "maltsevstrs"
+    hashtags: "#bicycle, #zolder, #89, #circuitzolder"
+  - username: "anaralliev"
     fullname: >-
-      Алексей Мальцев
+      Anar Aliev
     location: "Russia"
-    followers: 9666
-    engagement: 721
-    commentsToLikes: 0.096151
-    id: ck5znl9owooyv0i14h42vjzjo
+    followers: 10241
+    engagement: 1726
+    commentsToLikes: 0.029332
+    id: ckap3eimy2qou0i78182vy7jj
     verified: false
-    hashtags: "#lincoln, #whitenightfooty, #oldschool, #bmx"
-  - username: "arseny_slyshkin"
+    hashtags: "#bmxashka"
+  - username: "artem.else"
     fullname: >-
-      Up Next Season
+      Artem Else
     location: "Russia"
-    followers: 7027
-    engagement: 2578
-    commentsToLikes: 0.025247
-    id: ck5hjks3igsuu0i11zdqeaxtf
+    followers: 5107
+    engagement: 481
+    commentsToLikes: 0.020036
+    id: ck5zyxtdlapzd0i141mesnjo2
     verified: false
-    hashtags: "#bmxlife, #bmx4life, #bmxpark, #bmxfamily"
+    hashtags: "#film, #birthday"
   - username: "prtppv_kirill"
     fullname: >-
       Кирилл Протопопов ⛩
     location: "Russia"
-    followers: 5679
-    engagement: 3076
-    commentsToLikes: 0.027418
+    followers: 5774
+    engagement: 2941
+    commentsToLikes: 0.029805
     id: ck5cb86ipex980i11ww7r4irq
     verified: false
-    hashtags: "#jibs, #bmxride, #4life, #bmxforever"
-  - username: "romashalimov"
+    hashtags: "#redbullbike, #digbmx, #bmxallday, #scootertricks"
+  - username: "arseny_slyshkin"
     fullname: >-
-      Roma Shalimov
+      Балван
     location: "Russia"
-    followers: 47541
-    engagement: 824
-    commentsToLikes: 0.012689
-    id: ck5zybi5k9kue0i1458fskjd8
+    followers: 6829
+    engagement: 2588
+    commentsToLikes: 0.028110
+    id: ck5hjks3igsuu0i11zdqeaxtf
     verified: false
-    hashtags: "#carporn, #snowfall, #crazy, #workout"
+    hashtags: ""
+  - username: "holodnyakovartem"
+    fullname: >-
+      HOLODNYAKOV  ₳RTEM
+    location: "Russia"
+    followers: 10016
+    engagement: 1856
+    commentsToLikes: 0.024027
+    id: ckap3eiou2qq30i787th4gx3t
+    verified: false
+    hashtags: "#bmxlive, #bmxrussianteam, #insidebmx, #bmrussia"
+  - username: "maltsevstrs"
+    fullname: >-
+      Алексей Мальцев
+    location: "Russia"
+    followers: 9633
+    engagement: 687
+    commentsToLikes: 0.075872
+    id: ck5znl9owooyv0i14h42vjzjo
+    verified: false
+    hashtags: "#birthday, #gogolevmuseum, #lincoln, #streetart"
 ---

@@ -1,96 +1,76 @@
 ---
 title: Top 10 Instagram Influencers In Croatia In 2020
 description: >-
-  Find top Instagram influencers in Croatia in 2020. Most popular hashtags: #croatia #hrvatska #love #osijek.
+  Find top Instagram influencers in Croatia in 2020. Most popular hashtags: #dogsofinstagram #friends #quarantinelife #flamingopose.
 platform: Instagram
 profiles:
   - username: "hrvoje_milic19"
     fullname: >-
       HRVOJE MILIC
     location: "Croatia"
-    followers: 170668
-    engagement: 3349
-    commentsToLikes: 0.076332
+    followers: 183746
+    engagement: 3222
+    commentsToLikes: 0.075951
     id: ck1351xrdzaba0i19a40zw3ax
     verified: true
-    hashtags: "#victory, #esteglal, #weareyourpower, #derbytime"
-  - username: "missmixed"
-    fullname: >-
-      Makeup By Celia ❄️
-    location: "Croatia"
-    followers: 43875
-    engagement: 852
-    commentsToLikes: 0.025018
-    id: ck1362ikx4fvc0i191n059875
-    verified: false
-    hashtags: "#abhlashbragmascara, #35icyfantasy, #abhliquidliner, #35ipalette"
+    hashtags: "#training, #biotreningcentar, #view, #guzan"
   - username: "hrvatska_page"
     fullname: >-
       Naša domovina🇭🇷
     location: "Croatia"
-    followers: 18474
-    engagement: 904
-    commentsToLikes: 0.006006
+    followers: 18763
+    engagement: 933
+    commentsToLikes: 0.007876
     id: ck14k37xynie00i193yyhxyqq
     verified: false
-    hashtags: "#hrv, #osijek, #split, #tucepi"
+    hashtags: "#tradicija, #zagreb, #jadranskomore, #lindo"
   - username: "8rasta9"
     fullname: >-
       Borna Rastović
     location: "Croatia"
-    followers: 183237
-    engagement: 1010
-    commentsToLikes: 0.009175
+    followers: 195445
+    engagement: 970
+    commentsToLikes: 0.014101
     id: ck15rymuaacza0i19rydgsc1c
     verified: false
-    hashtags: "#javise, #nikadrikverc, #dosutra, #rapchallenge"
-  - username: "ivanabrozovicc"
-    fullname: >-
-      Ivana Brozovic
-    location: "Croatia"
-    followers: 9081
-    engagement: 685
-    commentsToLikes: 0.259117
-    id: ck0w1kymljv6l0i197paol4er
-    verified: false
-    hashtags: "#ofrahighlighter, #sophieschoicestudio, #inglotcosmetics, #inglot"
+    hashtags: "#tb, #2019, #dosutra, #rapchallenge"
   - username: "r3vella_moto"
     fullname: >-
       R3vElla
     location: "Croatia"
-    followers: 19593
-    engagement: 599
-    commentsToLikes: 0.020979
+    followers: 21837
+    engagement: 484
+    commentsToLikes: 0.039038
     id: ck15txzgkkgc30i19gj4i79ma
     verified: false
-    hashtags: "#motorcycletravel, #bikersfamily, #yamahariders, #topbikesandgirls"
+    hashtags: "#motoristka, #friends, #bikerlife, #twowheeltuesday"
   - username: "davidboca"
     fullname: >-
       David Boca
     location: "Croatia"
-    followers: 3317
-    engagement: 2019
-    commentsToLikes: 0.199061
+    followers: 3466
+    engagement: 2018
+    commentsToLikes: 0.192924
     id: ck14iwx7thjkc0i19kor48j07
     verified: false
-    hashtags: "#mvmtworldwide, #mvmtambassador, #jointhemvmt, #vincero"
-  - username: "omnieditz"
+    hashtags: "#jointhemvmt, #vincero, #liveyourlegacy, #mvmtworldwide"
+  - username: "adriankrajcar"
     fullname: >-
-      ᴏᴍɴɪ
+      Travel Photographer
     location: "Croatia"
-    followers: 19909
-    engagement: 1040
-    commentsToLikes: 0.063583
-    id: ck15puox8zpux0i19rfdw30hu
+    followers: 15517
+    engagement: 488
+    commentsToLikes: 0.025379
+    id: ck0tzyzals2hn0i19to76udxg
     verified: false
-    hashtags: "#shufflestyles, #hiphop, #girldance, #photography"
+    hashtags: "#moodyports, #zagrebfacts, #sonya7ii, #algarvecoast"
   - username: "croatia_dreaming"
     fullname: >-
       | ꜰʀᴀɴᴇ ᴋᴀᴘɪᴄ | 🌍
     location: "Croatia"
-    followers: 44553
-    engagement: 634
-    commentsToLikes: 0.048865
+    followers: 45384
+    engagement: 656
+    commentsToLikes: 0.047378
     id: ck0w0ixt0efv50i19egk7olsd
     verified: false
     hashtags: "#mojoblikzivota"
@@ -98,10 +78,30 @@ profiles:
     fullname: >-
       ⭐ I N D I R A ⭐ 🇭🇷
     location: "Croatia"
-    followers: 44275
-    engagement: 73
-    commentsToLikes: 0.051905
+    followers: 44099
+    engagement: 69
+    commentsToLikes: 0.054660
     id: ck0u18fd6w1800i194hkyn7u2
     verified: false
-    hashtags: "#enjoythelittlethings, #ardhachandrasana, #beautifulnature, #vegetarian"
+    hashtags: "#bowpose, #sidelunge, #feelingfree, #supinetwist"
+  - username: "omnieditz"
+    fullname: >-
+      ᴏᴍɴɪ
+    location: "Croatia"
+    followers: 20090
+    engagement: 1018
+    commentsToLikes: 0.061714
+    id: ck15puox8zpux0i19rfdw30hu
+    verified: false
+    hashtags: "#shuffleflix, #shuffler, #shuffledancer, #dancingboy"
+  - username: "johnlittlemoustache"
+    fullname: >-
+      Ivan Brčić • PHOTO & TRAVEL
+    location: "Croatia"
+    followers: 7570
+    engagement: 822
+    commentsToLikes: 0.037223
+    id: ck0vxfdu2ymgr0i1946pydmyx
+    verified: false
+    hashtags: "#mavic2pro, #wekeepmoments, #setterlove, #djimavicpro"
 ---

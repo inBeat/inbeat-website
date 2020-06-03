@@ -1,69 +1,69 @@
 ---
 title: Top 10 Cooking Instagram Influencers In Morocco In 2020
 description: >-
-  Find top cooking Instagram influencers in Morocco in 2020. Most popular hashtags: #morocco #cooking #stayhome #moroccan.
+  Find top cooking Instagram influencers in Morocco in 2020. Most popular hashtags: #stayhome #moroccan #outfit #confinement.
 platform: Instagram
 profiles:
-  - username: "wydad_chak"
+  - username: "rababazmani"
     fullname: >-
-      Voidwyd 🌸 وداد شكير
+      Rabab Azmani
     location: "Morocco"
-    followers: 272769
-    engagement: 593
-    commentsToLikes: 0.033567
-    id: ck14kbu4noqtn0i194gh7jfwh
-    verified: false
-    hashtags: "#tiktok, #fun, #fyp, #dancethefraudaway"
-  - username: "dirndlontour"
+    followers: 1170201
+    engagement: 92
+    commentsToLikes: 0.035954
+    id: ck6u2n528srqi0j713nzu5069
+    verified: true
+    hashtags: "#casadepapel, #voile, #barbie, #moana"
+  - username: "cuisine_a_deux"
     fullname: >-
-      Dirndl on Tour
+      cuisine_layane 🎀Manel & Ahlem🎀
     location: "Morocco"
-    followers: 20852
-    engagement: 539
-    commentsToLikes: 0.060338
-    id: ck0w74tzzbris0i19pvu5gn19
+    followers: 139543
+    engagement: 227
+    commentsToLikes: 0.021795
+    id: ck6ufv92uzc000j712veegy0o
     verified: false
-    hashtags: "#trachten, #spring, #spicy, #selfietime"
+    hashtags: "#love, #tunsie, #hambergermaison, #zlabiya"
+  - username: "cookingwithalia"
+    fullname: >-
+      Alia Al Kasimi
+    location: "Morocco"
+    followers: 150372
+    engagement: 74
+    commentsToLikes: 0.017394
+    id: ck15u9zxwm5j50i19bgpvmxbe
+    verified: false
+    hashtags: "#moony, #salad, #happyramadan, #creativequarantine"
   - username: "echbiyadil"
     fullname: >-
-      Echbiy   إشبي
+      Echbiy   إشبي
     location: "Morocco"
-    followers: 531010
-    engagement: 152
-    commentsToLikes: 0.015458
+    followers: 526954
+    engagement: 150
+    commentsToLikes: 0.015558
     id: ck0w15ojshopq0i19u130dxrb
     verified: true
-    hashtags: "#adilechbiy, #kanbidik, #stayathome, #newone"
-  - username: "soniangadi"
+    hashtags: "#newmusic, #cooking, #theinsider, #voteadilechbiy"
+  - username: "alibelabess"
     fullname: >-
-      Sonia Ngadi
+      Ali Belabess | علي بلعبًاس
     location: "Morocco"
-    followers: 498960
-    engagement: 150
-    commentsToLikes: 0.031092
-    id: ck5hr2xipu69c0i11pwcl4wir
-    verified: true
-    hashtags: "#mylove, #goodvibes, #lovemykids, #love"
+    followers: 356428
+    engagement: 203
+    commentsToLikes: 0.041105
+    id: ck9hcu0hvmyxn0j78g25nmnc3
+    verified: false
+    hashtags: "#insta, #sketchbook, #digitalart, #illustrator"
   - username: "daphnesdeliciousdishes"
     fullname: >-
       Daphne Hari
     location: "Morocco"
-    followers: 86229
-    engagement: 387
-    commentsToLikes: 0.019974
+    followers: 89339
+    engagement: 441
+    commentsToLikes: 0.021440
     id: ck0vzhebf942b0i19bra0a4ki
     verified: false
-    hashtags: "#smoothiebowl, #sundaynightdinner, #hulk, #lowcarb"
-  - username: "rachididrissii"
-    fullname: >-
-      RACHID IDRISSI | 04 LKARWA |®️
-    location: "Morocco"
-    followers: 17884
-    engagement: 729
-    commentsToLikes: 0.024256
-    id: ck5q6ck94wucq0i11zuqwa11m
-    verified: false
-    hashtags: "#moroccans, #before, #model, #dancers"
+    hashtags: "#vegan, #greenjuicechallenge, #bananapancakes, #cleaneating"
   - username: "amall.channel"
     fullname: >-
       Amal Channel 🌸
@@ -74,14 +74,34 @@ profiles:
     id: ck8t1qtmwwob50j7881n2tr8r
     verified: false
     hashtags: "#tiktokvideo, #hijabmodel, #woman, #quoteoftheday"
-  - username: "cuisine_a_deux"
+  - username: "thesecretsouk"
     fullname: >-
-      cuisine_layane 🎀Manel & Ahlem
+      The Secret Souk
     location: "Morocco"
-    followers: 130995
-    engagement: 207
-    commentsToLikes: 0.017229
-    id: ck6ufv92uzc000j712veegy0o
+    followers: 55041
+    engagement: 191
+    commentsToLikes: 0.012841
+    id: ck0vuzsj3mw1m0i1936r562tx
     verified: false
-    hashtags: "#instafood, #petitdejeuner, #biscuit, #tunisia"
+    hashtags: "#rattan, #hello2020, #stonedesert, #riadlife"
+  - username: "mons.saroute"
+    fullname: >-
+      MON$ 🇲🇦
+    location: "Morocco"
+    followers: 262726
+    engagement: 630
+    commentsToLikes: 0.037598
+    id: ck5cia9zmsa3i0i11mdgkpnxj
+    verified: true
+    hashtags: "#casa, #freestoune, #mons, #labass"
+  - username: "omarbelmir"
+    fullname: >-
+      عمر بلمير 🎤
+    location: "Morocco"
+    followers: 4108475
+    engagement: 447
+    commentsToLikes: 0.049192
+    id: ck5hmnx39may70i111wsor23z
+    verified: true
+    hashtags: "#stayathome, #25years"
 ---

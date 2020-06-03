@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In San Diego In 2020
 description: >-
-  Find top food Instagram influencers in San Diego in 2020. Most popular hashtags: #sandiego #dessert #california #instagood.
+  Find top food Instagram influencers in San Diego in 2020. Most popular hashtags: #food #sandiego #pool #ad.
 platform: Instagram
 profiles:
-  - username: "sandiego.city"
+  - username: "tower.jeremiah"
     fullname: >-
-      Official San Diego Page
+      Jeremiah Tower
     location: "United States"
-    followers: 133316
-    engagement: 215
-    commentsToLikes: 0.017232
-    id: ck5pvukg1jpio0i11o1rgzzx5
+    followers: 8330
+    engagement: 496
+    commentsToLikes: 0.054060
+    id: ck14i6ff1dvhp0i19i8z6whhs
     verified: false
-    hashtags: "#seniorportraits, #oceanside, #carlsbad, #artofvisuals"
-  - username: "san_diego_online"
-    fullname: >-
-      San Diego Online
-    location: "United States"
-    followers: 17911
-    engagement: 287
-    commentsToLikes: 0.053792
-    id: ck135gbf819u30i190cq03ka5
-    verified: false
-    hashtags: "#winelover, #traveling, #sdfoodie, #instafood"
-  - username: "karol_priscilla"
-    fullname: >-
-      KAROL PRISCILLA
-    location: "United States"
-    followers: 57839
-    engagement: 333
-    commentsToLikes: 0.019610
-    id: ck0vw9l0mspuc0i192vg0hep8
-    verified: false
-    hashtags: "#goodvibesonly, #summerfeels, #throwback, #mexicana"
+    hashtags: "#thetowerawards, #martinis, #eatyourveggies, #culinary"
   - username: "kalefornia_kravings"
     fullname: >-
       Caitlin | Easy & Healthy Meals
     location: "United States"
-    followers: 4952
-    engagement: 2109
-    commentsToLikes: 0.563885
+    followers: 5542
+    engagement: 2106
+    commentsToLikes: 0.474994
     id: ck5bu8xbrhczn0i1105yt7b95
     verified: false
-    hashtags: "#cbd, #lemoncheesecake, #thefeedfeed, #comfortfood"
-  - username: "louismast"
+    hashtags: "#greenfood, #tortillapizza, #smores, #snacks"
+  - username: "amyvsfood"
     fullname: >-
-      Louis Mast
+      Amy Tran
     location: "United States"
-    followers: 20682
-    engagement: 1894
-    commentsToLikes: 0.017373
-    id: ck8wd07cod8lc0j781jchwhv9
+    followers: 5958
+    engagement: 735
+    commentsToLikes: 0.039723
+    id: ckaot600vuj5g0i78voe196rx
     verified: false
-    hashtags: "#sixpack, #losangeles, #lasvegas, #wishmeluck"
-  - username: "3sweetchicks"
+    hashtags: "#cordovacoolers, #sandiegofitness, #girlswhogrill, #myfabletics"
+  - username: "firstcomeslatte"
     fullname: >-
-      Three Sweet Chicks
+      Kristen Mattern
     location: "United States"
-    followers: 27199
-    engagement: 165
-    commentsToLikes: 0.036838
-    id: ck5c3lhpezkbd0i11zcfzcf8w
+    followers: 5237
+    engagement: 555
+    commentsToLikes: 0.043164
+    id: ck9wfuzvlqm170j78sfplrg9m
     verified: false
-    hashtags: "#poohcookies, #jhcookieco, #airbrushedcookies, #eastercookies"
+    hashtags: "#sprouts, #selfisolation, #churros, #dessert"
+  - username: "ambersogorka"
+    fullname: >-
+      Certified Nutrition Coach
+    location: "United States"
+    followers: 4050
+    engagement: 937
+    commentsToLikes: 0.100958
+    id: ck8t6tfg2emql0j7815j51uhq
+    verified: false
+    hashtags: "#wellness, #rappelling, #sandiego, #food"
   - username: "top_sandiego_restaurants"
     fullname: >-
       🇺🇸 San Diego's Top Restaurants
     location: "United States"
-    followers: 27160
-    engagement: 136
-    commentsToLikes: 0.038415
+    followers: 27233
+    engagement: 137
+    commentsToLikes: 0.038035
     id: ck6u9tj0ozkgo0j71ud1q9de6
     verified: false
     hashtags: "#topsandiegorestaurants, #topcitybites"
-  - username: "bestfoodsandiego"
+  - username: "taylereatseverything"
     fullname: >-
-      San Diego's @BestFoodFeed
+      Tayler Coffin | San Diego Food
     location: "United States"
-    followers: 81024
-    engagement: 100
-    commentsToLikes: 0.027304
-    id: ck0tta3lm1t850i19wq5gxagu
+    followers: 18321
+    engagement: 187
+    commentsToLikes: 0.042030
+    id: ck14jj8f7kmsv0i19n31h95vz
     verified: false
-    hashtags: "#suite, #treats, #bestfoodfeed, #huffposttaste"
-  - username: "hunterrittgers"
+    hashtags: "#soberoctober, #mcdonalds, #howihummus, #howimmus"
+  - username: "erica_shawty"
     fullname: >-
-      Hunter Rittgers
+      erica shutty
     location: "United States"
-    followers: 17973
-    engagement: 1101
-    commentsToLikes: 0.063797
-    id: ck6u6jyjcg0yr0j71aj3af11a
+    followers: 10743
+    engagement: 773
+    commentsToLikes: 0.128362
+    id: ck9hc8fb1k89h0j78pvrujhbh
     verified: false
-    hashtags: "#dare2venture, #newventureescrow"
-  - username: "nourishedbykale"
+    hashtags: "#ad, #thisiskirei, #mykireimoments"
+  - username: "angela__yue"
     fullname: >-
-      tiffany acevedo❣️
+      𝔸𝕟𝕘𝕖𝕝𝕒 𝕐𝕦𝕖 • “𝕃𝕒 ℂ𝕙𝕚𝕟𝕚𝕥𝕒”
     location: "United States"
-    followers: 155491
-    engagement: 196
-    commentsToLikes: 0.033283
-    id: ck13csbq91wt40i19a2b45if5
+    followers: 24091
+    engagement: 317
+    commentsToLikes: 0.018560
+    id: ck8tcskpv0ijl0j78ld69v6a5
     verified: false
-    hashtags: "#bestieverhad, #princestreetpizza, #nourishedbykale, #nbksydneyeats"
+    hashtags: "#fuentefever2020, #cigarsmoker, #cigarporn, #fuentefever"
+  - username: "xocarlarenee"
+    fullname: >-
+      Carla Snuggs ❤
+    location: "United States"
+    followers: 16654
+    engagement: 432
+    commentsToLikes: 0.030381
+    id: ck8swq5mdeuqd0j782s6w9kas
+    verified: false
+    hashtags: "#keto, #dailyharvest, #dailyharvesttastemaker, #ultabeauty"
 ---

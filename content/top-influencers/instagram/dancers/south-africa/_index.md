@@ -1,107 +1,107 @@
 ---
 title: Top 10 Dancers Instagram Influencers In South Africa In 2020
 description: >-
-  Find top dancers Instagram influencers in South Africa in 2020. Most popular hashtags: #dancer #dance #fitness #dancerlife.
+  Find top dancers Instagram influencers in South Africa in 2020. Most popular hashtags: #dance #grateful #choreography #fashion.
 platform: Instagram
 profiles:
-  - username: "presidentthato"
-    fullname: >-
-      Starboy-T! 🚀
-    location: "South Africa"
-    followers: 12125
-    engagement: 1279
-    commentsToLikes: 0.022799
-    id: ck0w3y24yvuxz0i191xohyri1
-    verified: false
-    hashtags: "#chappiescola"
   - username: "chacecollettxo"
     fullname: >-
       CHACE COLLETT ❣️
     location: "South Africa"
-    followers: 11675
-    engagement: 974
-    commentsToLikes: 0.036917
+    followers: 11574
+    engagement: 936
+    commentsToLikes: 0.038553
     id: ck0vwlcw4ud9s0i19uu46r0r4
     verified: false
-    hashtags: "#cocktaildress, #dancer, #tutorial, #cocktailparty"
-  - username: "shivolski"
+    hashtags: "#swimwear, #makeuptips, #22, #dancevideo"
+  - username: "presidentthato"
     fullname: >-
-      HALLS OMFCC WINNER🍬
+      T’do! 🚀
     location: "South Africa"
-    followers: 5746
-    engagement: 2016
-    commentsToLikes: 0.037411
-    id: ck5cgd18folcp0i11ueey4u4z
+    followers: 12665
+    engagement: 1103
+    commentsToLikes: 0.021876
+    id: ck0w3y24yvuxz0i191xohyri1
     verified: false
-    hashtags: "#fridayvibes, #ursheete, #fridaymood, #hotgirlsummer"
+    hashtags: "#chappiescola"
+  - username: "adaeze.onuigbo"
+    fullname: >-
+      Adaeze.Onuigbo
+    location: "South Africa"
+    followers: 283178
+    engagement: 88
+    commentsToLikes: 0.033963
+    id: ck8t4ceq469pn0j78tb1ngcf1
+    verified: false
+    hashtags: "#childofgrace, #staysafe, #dreamsmadereal, #goodmoviesonly"
   - username: "jessica_dessica"
     fullname: >-
       JESSICA DERRICK
     location: "South Africa"
-    followers: 20463
-    engagement: 266
-    commentsToLikes: 0.047329
+    followers: 20265
+    engagement: 282
+    commentsToLikes: 0.048313
     id: ck5pxxzkxteos0i11o7mq4zjj
     verified: false
-    hashtags: "#differentjourneys, #whenwillyourealise, #happyinternationalwomensday, #rockinit"
+    hashtags: "#happyinternationalwomensday, #differentvibes, #fatox, #seeya"
   - username: "milaguy"
     fullname: >-
       mila guy
     location: "South Africa"
-    followers: 27652
-    engagement: 536
-    commentsToLikes: 0.006842
+    followers: 29635
+    engagement: 576
+    commentsToLikes: 0.006265
     id: ck5q8fh9v5xb20i11qvufu2s4
     verified: false
-    hashtags: "#theatre, #newzealand, #steaming, #90s"
-  - username: "zes_zoor"
+    hashtags: "#steaming, #matchies, #dankierooirose, #inlove"
+  - username: "nina_mercorio"
     fullname: >-
-      ZES Mansoor Galant
+      Nina Mercorio
     location: "South Africa"
-    followers: 32793
-    engagement: 454
-    commentsToLikes: 0.037368
-    id: ck5c10w0ru8bo0i11bqh91ygf
+    followers: 2814
+    engagement: 1768
+    commentsToLikes: 0.038511
+    id: ck5q1k0olbd6s0i111n00624x
     verified: false
-    hashtags: "#zeslife, #zumbasquad, #squadgoals, #traveler"
+    hashtags: ""
   - username: "pashapilates"
     fullname: >-
       Pasha's Pilates 🇿🇦
     location: "South Africa"
-    followers: 21589
-    engagement: 242
-    commentsToLikes: 0.066880
+    followers: 22079
+    engagement: 254
+    commentsToLikes: 0.064468
     id: ck6trxxay1pkr0j71e8dr7e73
     verified: false
-    hashtags: "#love, #pilatesstrong, #absonfire, #weekendinspo"
+    hashtags: "#legday, #shoulders, #pilatesmatwork, #postyoga"
   - username: "tarryn_tnt"
     fullname: >-
       Tarryn Alberts
     location: "South Africa"
-    followers: 29598
-    engagement: 383
-    commentsToLikes: 0.029929
+    followers: 29345
+    engagement: 315
+    commentsToLikes: 0.027037
     id: ck55javyownho0i11uwgck8pd
     verified: false
-    hashtags: "#diehelefokkennag, #dancevideo, #dj, #fun"
+    hashtags: "#fitness, #huntersgreenroom, #diehelefokkennag, #thuglife"
   - username: "letso.angela_dancer"
     fullname: >-
-      Angela......
+      Letso
     location: "South Africa"
-    followers: 2955
-    engagement: 806
-    commentsToLikes: 0.074757
+    followers: 3737
+    engagement: 804
+    commentsToLikes: 0.093135
     id: ck6uhk8na9lo90j71pu55y2ax
     verified: false
-    hashtags: "#floorwork, #knees, #slowdance, #22yearolds"
+    hashtags: "#choreography, #collaboration, #rema, #birthdaygirl"
   - username: "zodwalibram"
     fullname: >-
       zodwalibram
     location: "South Africa"
-    followers: 1107692
+    followers: 1184418
     engagement: 44
-    commentsToLikes: 0.036361
+    commentsToLikes: 0.034269
     id: ck0txq97fk4hd0i19o0dd71ew
     verified: false
-    hashtags: "#sambanabo, #villagegirl, #stillhere, #teamstillhere"
+    hashtags: "#zodwa"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Italy In 2020
 description: >-
-  Find top yoga Instagram influencers in Italy in 2020. Most popular hashtags: #iorestoacasa #staypositive #yogagirl #yogaitalia.
+  Find top yoga Instagram influencers in Italy in 2020. Most popular hashtags: #positivevibes #yogapractice #inspiration #throwback.
 platform: Instagram
 profiles:
   - username: "siledona"
     fullname: >-
       Sile
     location: "Italy"
-    followers: 15369
-    engagement: 1625
-    commentsToLikes: 0.562798
+    followers: 15476
+    engagement: 1603
+    commentsToLikes: 0.597085
     id: ck13byiddxrgy0i1987nbvc01
     verified: false
-    hashtags: "#byechristmas, #lombardia, #prayforitaly, #favplace"
+    hashtags: "#outfitstyle, #byechristmas, #weekendmood, #meditazione"
   - username: "robertamigliarese"
     fullname: >-
       Roberta Migliarese
     location: "Italy"
-    followers: 25945
-    engagement: 262
-    commentsToLikes: 0.124891
+    followers: 27010
+    engagement: 298
+    commentsToLikes: 0.105561
     id: ck5zqu73tvate0i14ddn7lqkg
     verified: false
-    hashtags: "#merrychristmas2019, #yogachallenges, #yogawear, #yogavideo"
+    hashtags: "#yogapose, #handstand, #yogaupsidedown, #workshopmilano"
+  - username: "vanesssavilla"
+    fullname: >-
+      Vanessa | Gentle Fighter 🦋
+    location: "Italy"
+    followers: 48950
+    engagement: 373
+    commentsToLikes: 0.041250
+    id: ck5c8s707a4kq0i11uzwhutg2
+    verified: true
+    hashtags: "#gentlefighter, #nikexschool, #ad, #cerealifitness"
+  - username: "mammaguru"
+    fullname: >-
+      MammaGuru
+    location: "Italy"
+    followers: 53111
+    engagement: 138
+    commentsToLikes: 0.114595
+    id: ckapckkta47b30i78r8bvtljk
+    verified: false
+    hashtags: "#108malabeads, #igersprague, #travelwithkids, #visitczech"
   - username: "jesscampoli"
     fullname: >-
       Jessica campoli 🌸
     location: "Italy"
-    followers: 8069
-    engagement: 574
-    commentsToLikes: 0.273707
+    followers: 9690
+    engagement: 441
+    commentsToLikes: 0.283498
     id: ck8tbktdxw1920j78vqw24wqt
     verified: false
-    hashtags: "#shootingphoto, #boudoir, #gymhome, #honeymoon"
+    hashtags: "#freckles, #cozy, #lookdujour, #positivevibes"
   - username: "claudia__casanova"
     fullname: >-
       Claudia Casanova ♥
     location: "Italy"
-    followers: 67436
-    engagement: 321
-    commentsToLikes: 0.031880
+    followers: 74059
+    engagement: 301
+    commentsToLikes: 0.028823
     id: ck5hph094rcft0i11qhz6jnrd
     verified: false
-    hashtags: "#uttanasana, #primavera, #gioco, #sirsasana"
-  - username: "tamaraduarteofficial"
+    hashtags: "#yogapose, #goodvibes, #ischiocrurali, #forearmstand"
+  - username: "vanessaciliberto"
     fullname: >-
-      TAMARA DUARTE
+      Vanessa Ciliberto
     location: "Italy"
-    followers: 24260
-    engagement: 650
-    commentsToLikes: 0.022523
-    id: ck55m98cr3hkq0i118eap52rj
-    verified: true
-    hashtags: "#pregnantbelly, #toronto, #danielwellington, #happyvalentinesday"
+    followers: 31464
+    engagement: 224
+    commentsToLikes: 0.056678
+    id: ck13818dje0cm0i19wc2t5wyc
+    verified: false
+    hashtags: "#biomuesli, #oliq, #wewillmakeitthroughthis, #sisterlove"
   - username: "michelacoppaofficial"
     fullname: >-
       Michela Coppa Official
     location: "Italy"
-    followers: 230566
-    engagement: 208
-    commentsToLikes: 0.025754
+    followers: 256696
+    engagement: 203
+    commentsToLikes: 0.027522
     id: ck0ttles4393w0i19d24wh59l
     verified: true
-    hashtags: "#saturday, #makeup, #workout, #chitarra"
-  - username: "denisedellagiacoma"
+    hashtags: "#befunctional, #veganfood, #colazione, #icecream"
+  - username: "h3dyoga"
     fullname: >-
-      Denise Dellagiacoma
+      ᴴᴱᴰᴵᴱᴴ ᴴᴱˢᴴᴹᴬᵀᴵ
     location: "Italy"
-    followers: 77100
-    engagement: 238
-    commentsToLikes: 0.024769
-    id: ck139w7yfnfdg0i19yanmpx78
+    followers: 2516
+    engagement: 2424
+    commentsToLikes: 0.045495
+    id: ckap7cd47jgmg0i78204m9p8k
     verified: false
-    hashtags: "#myquarantine, #meditation, #vinyasayoga, #adal"
-  - username: "heidi.from.the.mountains"
+    hashtags: "#yogajourney, #meditation, #italia, #yogastrength"
+  - username: "adilayvaz"
     fullname: >-
-      Heidi Messner
+      Adil ayvaz
     location: "Italy"
-    followers: 61351
-    engagement: 750
-    commentsToLikes: 0.011322
-    id: ck0u8yxgs8n3m0i19yk6itktw
+    followers: 19168
+    engagement: 344
+    commentsToLikes: 0.028445
+    id: ck5c1vjmfw0g10i11mplelds7
     verified: false
-    hashtags: "#runninggirl, #sports, #mountainlover, #skiing"
-  - username: "giannisarracino"
-    fullname: >-
-      Gianni ※
-    location: "Italy"
-    followers: 21603
-    engagement: 221
-    commentsToLikes: 0.031439
-    id: ck0vv7up4nxgs0i191sdzl5x5
-    verified: false
-    hashtags: "#travecouples, #yogaworld, #themonkwhosoldhisferrari, #maldives"
-  - username: "stefyogi234"
-    fullname: >-
-      Stef Menga | Yoga, Run, Energy
-    location: "Italy"
-    followers: 25958
-    engagement: 149
-    commentsToLikes: 0.054117
-    id: ck6turk96hzw20j71vhlmtzb0
-    verified: false
-    hashtags: "#stayactive, #fathersday, #yogaforall, #runnermodel"
+    hashtags: "#bodyweight, #namaste, #yogapractice, #homeworkout"
 ---

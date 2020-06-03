@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top fashion Instagram influencers in Las Vegas in 2020. Most popular hashtags: #fashion #lasvegas #makeup #beauty.
+  Find top fashion Instagram influencers in Las Vegas in 2020. Most popular hashtags: #fashion #lasvegas #sundayfunday #vegas.
 platform: Instagram
 profiles:
-  - username: "glowinriss"
+  - username: "iamcrimdelacrim"
     fullname: >-
-      Marissa A
+      𝕮𝖗𝖎𝖒𝖘𝖔𝖓 𝕮𝖍𝖎𝖓 ♛
     location: "United States"
-    followers: 54315
-    engagement: 296
-    commentsToLikes: 0.024018
-    id: ck0u8nfi17wpa0i19jcib3vhx
+    followers: 8075
+    engagement: 540
+    commentsToLikes: 0.035544
+    id: ck8tcf1n1z8rp0j788zn4kila
     verified: false
-    hashtags: "#fourthraybeauty, #boxflowers, #momboss, #foundationroutine"
-  - username: "awmyposh"
+    hashtags: "#quarantineandchill, #likes, #viral, #follow"
+  - username: "quinncidence8"
     fullname: >-
-      Anne Wright
+      Fitness Coach / Model
     location: "United States"
-    followers: 72366
-    engagement: 88
-    commentsToLikes: 0.207439
-    id: ck5hrczc1uny20i11u76awviu
+    followers: 123374
+    engagement: 185
+    commentsToLikes: 0.033254
+    id: ck0vyhf5j40f30i19i8tkf72t
     verified: false
-    hashtags: "#avongiftedme, #foodlv, #muaoftheday, #primerapure"
-  - username: "adokiye"
+    hashtags: "#shackels, #tattoosleeve, #bookcover, #vibes"
+  - username: "adolfobarreto_r"
     fullname: >-
-      Arc, Amb, ADOKIYE NGOZI KYRIAN
+      Adolfo Barreto 🇵🇷
     location: "United States"
-    followers: 96743
+    followers: 6067
+    engagement: 555
+    commentsToLikes: 0.056900
+    id: ck6ug9hib1pb60j71v2kj7ddp
+    verified: false
+    hashtags: "#gray, #blackandwhite, #portrait, #goody"
+  - username: "no_tofu86"
+    fullname: >-
+      TOFU
+    location: "United States"
+    followers: 24293
+    engagement: 75
+    commentsToLikes: 0.013812
+    id: ck13a2ickob3j0i194i4itr6b
+    verified: false
+    hashtags: "#urbanphotography, #artdistrict, #streetphotography, #landscapephotography"
+  - username: "samy.nails"
+    fullname: >-
+      samy.nails
+    location: "United States"
+    followers: 103749
+    engagement: 131
+    commentsToLikes: 0.017201
+    id: ck5hh7h2p6s110i11a1igumda
+    verified: false
+    hashtags: "#fashionnail, #swarovski, #french, #cuarentena"
+  - username: "montanaefaw"
+    fullname: >-
+      MONTANA
+    location: "United States"
+    followers: 26493
+    engagement: 774
+    commentsToLikes: 0.042136
+    id: ck5zm14ynlpsn0i1472a3jb1z
+    verified: false
+    hashtags: "#streetstyle, #makeuplooks, #hauslaboratories, #dancevideo"
+  - username: "karinsaiams"
+    fullname: >-
+      Karinsa Iams
+    location: "United States"
+    followers: 5483
+    engagement: 913
+    commentsToLikes: 0.210244
+    id: ck9hab0bzbuqw0j78zqq7scqs
+    verified: false
+    hashtags: "#abercrombie, #vegashiking, #wranglerjeans, #levisjeans"
+  - username: "melanysguydlines"
+    fullname: >-
+      Melanysguydlines.com
+    location: "United States"
+    followers: 298091
     engagement: 96
-    commentsToLikes: 0.042646
-    id: ck5hoaxm6p8yq0i11zxgmg1va
-    verified: true
-    hashtags: "#22nd, #global, #palmangels, #signature"
-  - username: "matthewjordansmith"
-    fullname: >-
-      Matthew Jordan Smith
-    location: "United States"
-    followers: 15399
-    engagement: 236
-    commentsToLikes: 0.045797
-    id: ck6udi2zxl8jn0j71r98cap33
+    commentsToLikes: 0.119763
+    id: ck6tqnxf7skez0j715kf3mj0d
     verified: false
-    hashtags: "#beautyphotographer, #photography, #dontmaskyourfears, #motionseries"
-  - username: "lawrencepgivens"
+    hashtags: "#lasvegas, #fashion, #nomakeup, #cruisers"
+  - username: "__iamrachelle__"
     fullname: >-
-      Lawrence P Givens
+      Rachelle 👩🏼‍✈️💗✈️🚁
     location: "United States"
-    followers: 21193
-    engagement: 100
-    commentsToLikes: 0.073288
-    id: ck14igqfffbfl0i19q94nls3q
+    followers: 159540
+    engagement: 575
+    commentsToLikes: 0.021280
+    id: ck5chg9u8qpuy0i11o9rxvpfm
     verified: false
-    hashtags: "#hair, #bridalfashion, #wbff, #cabo"
-  - username: "thejustinreese"
+    hashtags: "#flysolo, #wisdomwednesday, #beinspired, #lookinggood"
+  - username: "https.rocco"
     fullname: >-
-      Justin A Reese, Esq.
+      🍸 Rocco Roman 🍸
     location: "United States"
-    followers: 31352
-    engagement: 338
-    commentsToLikes: 0.053475
-    id: ck5px0k90picu0i11g5wtvnxu
-    verified: true
-    hashtags: "#law, #mamba, #southerncharm, #lsufootball"
-  - username: "theonlybadasscoco"
-    fullname: >-
-      Badass Coco - Entertainer
-    location: "United States"
-    followers: 10855
-    engagement: 596
-    commentsToLikes: 0.025535
-    id: ck5c7x1mr8crv0i11fzl6sn6d
+    followers: 8727
+    engagement: 1310
+    commentsToLikes: 0.041156
+    id: ck14i4x5ndnn10i195htkb2i1
     verified: false
-    hashtags: "#swarovskicrystals, #fanart, #artwork, #crazygirlshollywood"
-  - username: "sltphoto"
-    fullname: >-
-      Sam Terry
-    location: "United States"
-    followers: 15568
-    engagement: 697
-    commentsToLikes: 0.039011
-    id: ck55p958wa2lw0i1153tpxady
-    verified: false
-    hashtags: "#nikon, #oklahomamodels, #prettylittlething, #godoxad600"
-  - username: "jordyn_lenae"
-    fullname: >-
-      Jordyn
-    location: "United States"
-    followers: 11112
-    engagement: 634
-    commentsToLikes: 0.035991
-    id: ck0tz7y1opeuw0i192puvayd3
-    verified: false
-    hashtags: "#90saesthetic, #rainbow, #givingtuesday, #teenstyles"
-  - username: "kammmmmiii"
-    fullname: >-
-      кαm💕
-    location: "United States"
-    followers: 6060
-    engagement: 1576
-    commentsToLikes: 0.033226
-    id: ck14j92i5j61u0i19n8ihvuzl
-    verified: false
-    hashtags: "#foodphotography, #manhattan, #bikini, #colombia"
+    hashtags: "#fetish, #blood, #animemakeup, #asos"
 ---

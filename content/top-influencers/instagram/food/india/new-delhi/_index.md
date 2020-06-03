@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In New Delhi In 2020
 description: >-
-  Find top food Instagram influencers in New Delhi in 2020. Most popular hashtags: #delhi #quarantine #love #foodblogger.
+  Find top food Instagram influencers in New Delhi in 2020. Most popular hashtags: #food #quarantinelife #delhiblogger #love.
 platform: Instagram
 profiles:
-  - username: "exploringplates"
+  - username: "eat_therapyy"
     fullname: >-
-      EXPLORING PLATES
+      Eat Therapy😋
     location: "India"
-    followers: 41152
-    engagement: 448
-    commentsToLikes: 0.028415
-    id: ck8tdi0us3e1x0j78grr1edx1
+    followers: 10722
+    engagement: 560
+    commentsToLikes: 0.186607
+    id: ckap5bm5bay2r0i78d3zys1o3
     verified: false
-    hashtags: "#video, #stayhome, #indianfood, #tflers"
-  - username: "elenasparrow"
+    hashtags: "#haldirams, #cookgood, #eatwellbewell, #cooking"
+  - username: "delhikazaayka"
     fullname: >-
-      Ayesha Adlakha
+      Created By: Priyanka Panwar 🦋
     location: "India"
-    followers: 99977
-    engagement: 138
-    commentsToLikes: 0.011920
-    id: ck6uewktkthkv0j71b577cd7d
-    verified: true
-    hashtags: "#coronavirus, #alwayshungry, #dftd6, #slomo"
+    followers: 9539
+    engagement: 550
+    commentsToLikes: 0.117818
+    id: ckap2ft36ynal0i78ua6kwiej
+    verified: false
+    hashtags: "#fitness, #chole, #somumbai, #homemade"
+  - username: "thesoleposer"
+    fullname: >-
+      Chahat Anand
+    location: "India"
+    followers: 38745
+    engagement: 88
+    commentsToLikes: 0.078827
+    id: ck9wdcycjf3dh0j783si5aild
+    verified: false
+    hashtags: "#mood, #summervibes, #chocolateicecream, #pancake"
   - username: "mehakjaswalmua"
     fullname: >-
       Mehak Jaswal
     location: "India"
-    followers: 21285
-    engagement: 296
-    commentsToLikes: 0.098941
+    followers: 21975
+    engagement: 252
+    commentsToLikes: 0.108230
     id: ck8t6mui7e5yf0j78e113gauv
     verified: false
-    hashtags: "#lalishq, #followforfollow, #gujarati, #makeupartist"
-  - username: "taste_bird"
+    hashtags: "#gossipgirl2, #huskylove, #sister, #smokeyeye"
+  - username: "ksk1989_"
     fullname: >-
-      SONIA NEGI
+      _zindaginamilegidobara❤
     location: "India"
-    followers: 15849
-    engagement: 619
-    commentsToLikes: 0.030854
-    id: ck14h007e7v5g0i19wvi4txot
+    followers: 101323
+    engagement: 111
+    commentsToLikes: 0.136808
+    id: ck8td7sdu28v60j78tbhci0u4
     verified: false
-    hashtags: "#mousse, #breakfast, #pizza, #momos"
-  - username: "sugandhrastogiofficial"
+    hashtags: "#cake, #party, #pastalover, #lockdown2020"
+  - username: "s.b._kitchen"
     fullname: >-
-      Sugandh Rastogi
+      srkha foodie❤💞(shalu)
     location: "India"
-    followers: 144851
-    engagement: 480
-    commentsToLikes: 0.033033
-    id: ck139vsklnd5f0i190a9fjl3w
+    followers: 3241
+    engagement: 287
+    commentsToLikes: 0.145086
+    id: ck14hmvt0b4bq0i19vrqqx78j
     verified: false
-    hashtags: "#naturephotography, #springiscoming, #stayhome, #covid"
-  - username: "dillikachaska"
+    hashtags: "#panipuri, #love, #foodlove, #dosa"
+  - username: "fashiovoyage"
     fullname: >-
-      Dilli ka chaska
+      Sonal❤️👸💕Dixit
     location: "India"
-    followers: 5074
-    engagement: 2362
-    commentsToLikes: 0.064043
-    id: ck8tc1nctxyt10j780nutkuvp
+    followers: 46263
+    engagement: 116
+    commentsToLikes: 0.280945
+    id: ckaovbkje3v4y0i78t7qh1751
     verified: false
-    hashtags: "#punjabifood, #sodelhi, #fries, #vegbiryani"
-  - username: "thegastronomicquest"
+    hashtags: "#influencer, #blessings, #monthofgoodness, #makeinindia"
+  - username: "delhikikhansahiba_"
     fullname: >-
-      T . G . Q .
+      Delhi Ki Khan Sahiba
     location: "India"
-    followers: 3335
-    engagement: 1400
-    commentsToLikes: 1.061379
-    id: ck5cbpdjafwwl0i11xafrwr8z
+    followers: 2342
+    engagement: 1940
+    commentsToLikes: 0.150204
+    id: ckaos2pa7pw740i784xphng2p
     verified: false
-    hashtags: "#yumyum, #coffeetime, #instadrink, #blackcoffee"
-  - username: "the_hungry_bunnie"
+    hashtags: "#indiatravelgram, #delhiwale, #travelcaptures, #travellove"
+  - username: "stylefashionetc"
     fullname: >-
-      ABHI RAJ | THE HUNGRY BUNNIE 🐰
+      Srishti S Bhatia (Srish)
     location: "India"
-    followers: 16631
-    engagement: 641
-    commentsToLikes: 0.045393
-    id: ck8tdh26139xm0j7812vplhtb
+    followers: 200060
+    engagement: 54
+    commentsToLikes: 0.041148
+    id: ck5bx6qd0n3xh0i11e0tsk3ji
     verified: false
-    hashtags: "#lbbdelhi, #indianfoodtales, #hangouts, #alwaysbhukaa"
-  - username: "tandooribiceps"
+    hashtags: "#booklover, #breakfastcereal, #summer, #thesecret"
+  - username: "delhifoodblogger"
     fullname: >-
-      Harkirat(Harry)
+      DelhiFoodBlogger
     location: "India"
-    followers: 6006
-    engagement: 1191
-    commentsToLikes: 0.181572
-    id: ck8t9n05yonzx0j78pzydx8n0
+    followers: 83927
+    engagement: 95
+    commentsToLikes: 0.028785
+    id: ck6u14cthjif90j71ypukqyyp
     verified: false
-    hashtags: "#loveforfood, #followforfollowback, #loveforpizza, #chickenpizza"
-  - username: "adiityyyaa"
-    fullname: >-
-      ADITYA🔥
-    location: "India"
-    followers: 16333
-    engagement: 790
-    commentsToLikes: 0.157452
-    id: ck8t754qcfodn0j78oqnut973
-    verified: false
-    hashtags: "#instafamous, #fashioninfluencers, #neerajpepsu, #fitnessclothing"
+    hashtags: "#love, #shawarma, #eeeeeats, #gurugram"
 ---

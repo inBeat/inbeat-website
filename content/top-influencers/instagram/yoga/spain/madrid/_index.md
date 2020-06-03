@@ -1,107 +1,107 @@
 ---
 title: Top 10 Yoga Instagram Influencers In Madrid In 2020
 description: >-
-  Find top yoga Instagram influencers in Madrid in 2020. Most popular hashtags: #madrid #yomequedoencasa #yoga #cuarentena.
+  Find top yoga Instagram influencers in Madrid in 2020. Most popular hashtags: #yoga #madrid #nature #blue.
 platform: Instagram
 profiles:
-  - username: "lucialiencres"
+  - username: "laura_lakshmi_yoga"
     fullname: >-
-      Lucia Liencres
+      Laura Lakshmi Yoga Barcelona
     location: "Spain"
-    followers: 49858
-    engagement: 149
-    commentsToLikes: 0.038631
-    id: ck8syumtim2ki0j78hpzxvk80
-    verified: true
-    hashtags: "#cuarentena, #muchoanimo, #confinatis, #yogaencasa"
-  - username: "redyogini"
-    fullname: >-
-      Andreína YT 200 hrs
-    location: "Spain"
-    followers: 16581
-    engagement: 498
-    commentsToLikes: 0.034723
-    id: ck5znrfipp0kl0i1432dlkqfl
+    followers: 38046
+    engagement: 271
+    commentsToLikes: 0.045067
+    id: ck13bfdowv5tk0i197g9qx43p
     verified: false
-    hashtags: "#asana, #vinyasa, #yogaonline, #fitnessmodel"
+    hashtags: "#happyday, #yogapants, #zoom, #energy"
+  - username: "sarita98garcia"
+    fullname: >-
+      Sara García
+    location: "Spain"
+    followers: 22366
+    engagement: 439
+    commentsToLikes: 0.031551
+    id: ck5ciultlteio0i11fi3uxbt7
+    verified: true
+    hashtags: "#roadbook, #femalemechanic, #garagegirl, #classicracing"
+  - username: "woman_word"
+    fullname: >-
+      Rocío Pastor Eugenio
+    location: "Spain"
+    followers: 56670
+    engagement: 222
+    commentsToLikes: 0.122874
+    id: ck5bxt1q3od210i11ws22clte
+    verified: false
+    hashtags: "#burbonstreet, #writing, #monte, #traveldog"
   - username: "almudena_yogalife"
     fullname: >-
       Almudena
     location: "Spain"
-    followers: 24420
-    engagement: 181
-    commentsToLikes: 0.073980
+    followers: 25847
+    engagement: 191
+    commentsToLikes: 0.047714
     id: ck13b6rzutyhz0i19zd9xc52d
     verified: false
-    hashtags: "#support, #nadisodhana, #isvarapranidhana, #ashtangayoga"
-  - username: "jc_valladolid"
+    hashtags: "#pasasana, #krounchasana, #sutras, #ishvaraprabidhana"
+  - username: "damianquintero"
     fullname: >-
-      JUAN CARLOS VALLADOLID
+      Damian Quintero
     location: "Spain"
-    followers: 30512
-    engagement: 263
-    commentsToLikes: 0.027610
-    id: ck6tuufsqihi60j71bux68rma
-    verified: false
-    hashtags: "#smilemore, #bloggersofinstagram, #healthylifestyle, #attitudeofgratitude"
-  - username: "erezilan"
+    followers: 95455
+    engagement: 596
+    commentsToLikes: 0.007794
+    id: ck15umjo8nwom0i19ndl7c28l
+    verified: true
+    hashtags: "#ucam, #happysaturday, #teamdaedo, #sport"
+  - username: "yoestrellasolis"
     fullname: >-
-      E R E Z    I L A N 🇮🇱🇧🇷
+      ESTRELLA SOLIS
     location: "Spain"
-    followers: 9580
-    engagement: 495
-    commentsToLikes: 0.032836
-    id: ck0vydb2c3f2w0i19q0yi7nxk
+    followers: 69367
+    engagement: 386
+    commentsToLikes: 0.014140
+    id: ck5q0j6lh69330i118cku2nq3
     verified: false
-    hashtags: "#danza, #mykonos, #dancer, #spain"
-  - username: "denotattoo"
+    hashtags: "#girl, #dia22, #animals, #stayathome"
+  - username: "helenacondis"
     fullname: >-
-      DENO
+      Helena Condis Edo
     location: "Spain"
-    followers: 85171
-    engagement: 88
-    commentsToLikes: 0.014022
-    id: ck6udfpl5ktvl0j7190u76958
-    verified: false
-    hashtags: "#stefbastiampresents, #quarentine, #thankyoutattoo, #skull"
+    followers: 66354
+    engagement: 645
+    commentsToLikes: 0.018837
+    id: ck5zv0nat3dk80i14vc783hqn
+    verified: true
+    hashtags: "#stopcoronavirus, #streetstyle, #rusia2018, #day3"
+  - username: "mosca.11"
+    fullname: >-
+      Lucas Moscariello
+    location: "Spain"
+    followers: 18525
+    engagement: 783
+    commentsToLikes: 0.005619
+    id: ck8t09bltr9s00j78qmwlyjd4
+    verified: true
+    hashtags: "#argentina, #familia, #surf, #quedateencasakinga"
   - username: "leonestefan"
     fullname: >-
       Estefan Vega Leon
     location: "Spain"
-    followers: 2970
-    engagement: 1140
-    commentsToLikes: 0.062976
+    followers: 3027
+    engagement: 1139
+    commentsToLikes: 0.069964
     id: ck5q2n5cygu5a0i11ez4ta3ff
     verified: false
-    hashtags: "#toledo, #elegante, #quarentena, #poesia"
-  - username: "meriurba"
+    hashtags: "#rosa, #dsncer, #avila, #smokeyeyes"
+  - username: "juligan008"
     fullname: >-
-      María Urbaneja
+      Julián Saldarriaga
     location: "Spain"
-    followers: 25951
-    engagement: 257
-    commentsToLikes: 0.165929
-    id: ck14kgfs5peaq0i19u7odv7t1
+    followers: 14657
+    engagement: 696
+    commentsToLikes: 0.049615
+    id: ck0u77oq344700i19sjaktadx
     verified: false
-    hashtags: "#portraits, #positividad, #pedidademano, #comfyoutfit"
-  - username: "descalzaporelparque_"
-    fullname: >-
-      ✩ 𝙰𝚕𝚋𝚊 𝙲𝚞𝚎𝚜𝚝𝚊 ✩
-    location: "Spain"
-    followers: 21009
-    engagement: 286
-    commentsToLikes: 0.069562
-    id: ck139q457mkxw0i19ckkoc90x
-    verified: false
-    hashtags: "#joidevivre, #quotes, #brave, #superluna"
-  - username: "neusferri"
-    fullname: >-
-      Neus Ferri
-    location: "Spain"
-    followers: 5553
-    engagement: 394
-    commentsToLikes: 0.057822
-    id: ck6tradb3xucd0j71nbr3c5hm
-    verified: false
-    hashtags: "#singingclass, #yomecantoencasa, #nude, #wc"
+    hashtags: "#piparra, #traktordj, #homenaje, #enjaulado"
 ---

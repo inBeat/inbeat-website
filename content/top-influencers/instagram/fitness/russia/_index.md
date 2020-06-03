@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Russia In 2020
 description: >-
-  Find top fitness Instagram influencers in Russia in 2020. Most popular hashtags: #fitnessmodel #fitnessgirl #gym #fitness.
+  Find top fitness Instagram influencers in Russia in 2020. Most popular hashtags: # #springphotography #sexy #commentwhendone.
 platform: Instagram
 profiles:
   - username: "elina_888_minazova"
     fullname: >-
-      Элина Миназова
+      Спорт|Мотивация|Фитнес
     location: "Russia"
-    followers: 7134
-    engagement: 1595
-    commentsToLikes: 0.038157
+    followers: 7069
+    engagement: 1499
+    commentsToLikes: 0.052569
     id: ck8t648ldc7az0j78qux4mcxc
     verified: false
-    hashtags: "#fitnesslifestyle, #fitnessfood, #fitnesslife, #familyfun"
+    hashtags: "#commentback, #commenter, #familyday, #familytrip"
+  - username: "ilona_korinets"
+    fullname: >-
+      Ilona Korinets 💎
+    location: "Russia"
+    followers: 422236
+    engagement: 716
+    commentsToLikes: 0.018858
+    id: ck55n5qi45jel0i11hjims9jh
+    verified: false
+    hashtags: "#leongirls, #top, #instaxminiru"
+  - username: "activity_mam"
+    fullname: >-
+      ДЕКРЕТ🔸В🔸МОСКВЕ
+    location: "Russia"
+    followers: 3148
+    engagement: 1547
+    commentsToLikes: 0.174632
+    id: ck5zix55jgjeq0i14jhunqwcv
+    verified: false
+    hashtags: "#valentines, #levelkitchen, #europetravel, #tinkoff"
+  - username: "nick.romanov"
+    fullname: >-
+      NICK ROMANOV 🇪🇺
+    location: "Russia"
+    followers: 10530
+    engagement: 1257
+    commentsToLikes: 0.047583
+    id: ck8t7wav8i6de0j78e36v9pe8
+    verified: false
+    hashtags: ""
+  - username: "budanova_liza"
+    fullname: >-
+      •FITNESS TRAINER FPA•
+    location: "Russia"
+    followers: 124436
+    engagement: 498
+    commentsToLikes: 0.025426
+    id: ck15pkx7pye2t0i19as5kr2uj
+    verified: false
+    hashtags: "#pillowchallenge"
   - username: "anastasia.motorina"
     fullname: >-
       Anastasia Motorina
     location: "Russia"
-    followers: 135956
-    engagement: 656
-    commentsToLikes: 0.018290
+    followers: 136489
+    engagement: 645
+    commentsToLikes: 0.018575
     id: ck5ckforkwrre0i11j6mkr9gm
     verified: false
-    hashtags: "#hdlabsapparel, #fitnessmodel, #abs, #sixpack"
-  - username: "fominvaleriy"
+    hashtags: "#abs, #sixpack, #shredded, #hdlabs"
+  - username: "storchbody"
     fullname: >-
-      Инструктор групповых программ
+      БИЗНЕС - ФИТНЕС ВЛАДА СТОРЧАЙ
     location: "Russia"
-    followers: 5362
-    engagement: 770
-    commentsToLikes: 0.090197
-    id: ck6u63tfrdd020j71ss9uce3e
-    verified: false
-    hashtags: "#step, #aerobic, #xfit, #fitnesspro"
-  - username: "mishafirsov"
-    fullname: >-
-      Фирсов Михаил
-    location: "Russia"
-    followers: 62806
-    engagement: 722
-    commentsToLikes: 0.019749
-    id: ck5buqurei9vu0i11fuv92zmc
-    verified: false
-    hashtags: ""
-  - username: "alina_romanova_fit"
-    fullname: >-
-      ТРЕНИРОВКИ||ПИТАНИЕ
-    location: "Russia"
-    followers: 38984
-    engagement: 230
-    commentsToLikes: 0.096838
-    id: ck5ckdyp4wob10i11j4ioje0a
-    verified: false
-    hashtags: ""
-  - username: "lbaturina"
-    fullname: >-
-      Lina Baturina FITNESS/model
-    location: "Russia"
-    followers: 33119
-    engagement: 1715
-    commentsToLikes: 0.014604
-    id: ck5py8wn8uvai0i11tdtc8lqm
+    followers: 58711
+    engagement: 415
+    commentsToLikes: 0.029618
+    id: ckap02llnofue0i78t4z7kqpc
     verified: false
     hashtags: ""
   - username: "nika2990"
     fullname: >-
       VERONIKA🎬ИНСТРУКТОР  ТВОИХ 🧠и🌰
     location: "Russia"
-    followers: 97942
-    engagement: 147
-    commentsToLikes: 0.156546
+    followers: 95042
+    engagement: 153
+    commentsToLikes: 0.170377
     id: ck5hcox0wj7id0i11ls40iyx5
     verified: false
-    hashtags: "#kutchievteam"
-  - username: "katrin_shok"
-    fullname: >-
-      💥YOUR MOTIVATION💥
-    location: "Russia"
-    followers: 578294
-    engagement: 141
-    commentsToLikes: 0.039156
-    id: ck55mfv5i3vak0i114ceb3gfp
-    verified: false
-    hashtags: "#reallife, #stayhome, #superhero, #fitnessfam"
+    hashtags: "#bikinigirls, #beauty, #vicemiss, #believeinyourdreams"
   - username: "tim_maximov"
     fullname: >-
       T I M   M A X I M O V
     location: "Russia"
-    followers: 5900
-    engagement: 2275
-    commentsToLikes: 0.018313
+    followers: 6101
+    engagement: 2472
+    commentsToLikes: 0.018111
     id: ck8tda5bo2isz0j78y3x25qsl
     verified: false
-    hashtags: "#gaygamers, #gayfitness, #instagays, #gayfit"
-  - username: "koval_life"
+    hashtags: "#gaygamers, #gayps4, #gayworkout, #gayamsterdam"
+  - username: "mishafirsov"
     fullname: >-
-      АННА КОВАЛЬ
+      Фирсов Михаил
     location: "Russia"
-    followers: 97923
-    engagement: 159
-    commentsToLikes: 0.089189
-    id: ck6ugdgi02dd70j713vrkdy1r
+    followers: 61398
+    engagement: 682
+    commentsToLikes: 0.019957
+    id: ck5buqurei9vu0i11fuv92zmc
     verified: false
-    hashtags: "#koval, #canggubali, #nusadua, #balinow"
+    hashtags: "#tomsk, #region70"
 ---

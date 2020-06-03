@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Berlin In 2020
 description: >-
-  Find top models Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #model #photography #berlinmodel.
+  Find top models Instagram influencers in Berlin in 2020. Most popular hashtags: #berlin #model #happy #love.
 platform: Instagram
 profiles:
-  - username: "winnielizzz"
+  - username: "vanessa.leoness"
     fullname: >-
-      WINNIE
+      Vanessa Lu 🌱
     location: "Germany"
-    followers: 4228
-    engagement: 2650
-    commentsToLikes: 0.080381
-    id: ck15reg9o7iye0i19k5hp8t0j
+    followers: 9769
+    engagement: 602
+    commentsToLikes: 0.075481
+    id: ckap9cfwcs3eq0i78ejbqnu2g
     verified: false
-    hashtags: "#photoshoot, #ladiesnight, #happy, #shooting"
-  - username: "joanna.nongiesser"
+    hashtags: "#model, #yoga, #sneakerheads, #capetownmodels"
+  - username: "sarahamalija"
     fullname: >-
-      𝐉𝐨𝐚𝐧𝐧𝐚
+      sassybabydemon
     location: "Germany"
-    followers: 17177
-    engagement: 483
-    commentsToLikes: 0.077665
-    id: ck0tvb432aniq0i19x786p1l8
+    followers: 3124
+    engagement: 1662
+    commentsToLikes: 0.035516
+    id: ck55nhy4l698x0i11cly5s4sh
     verified: false
-    hashtags: "#goldjewelry, #outfits, #minimalisticfashion, #gymclothing"
-  - username: "hayaalshaarani"
+    hashtags: "#fashion, #coronafashion, #bighandsclub, #ad"
+  - username: "oscar.mma"
     fullname: >-
-      Haya Beauty
+      𝕺𝖘𝖐𝖆𝖗𝖆𝖘 𝕭𝖚𝖎𝖓𝖎𝖈𝖐𝖆𝖘 𝕺𝖋𝖋𝖎𝖈𝖎𝖆𝖑
     location: "Germany"
-    followers: 9285
-    engagement: 1822
-    commentsToLikes: 0.026140
-    id: ck15u95fdm1520i19ggqw0gtt
+    followers: 2905
+    engagement: 1656
+    commentsToLikes: 0.044561
+    id: ck5ck2sfiw0fi0i11e94g9a6r
     verified: false
-    hashtags: "#belgium, #likeforlikeback, #syriangirl, #tiktok"
-  - username: "rekii.fotografie"
+    hashtags: "#amazing, #photooftheday, #mixmartialarts, #like4likes"
+  - username: "schatzgraeberin"
     fullname: >-
-      Rekii | Fantasy Verwandlungen
+      Yase
     location: "Germany"
-    followers: 42094
-    engagement: 399
-    commentsToLikes: 0.016305
-    id: ck14lg4d1uhvb0i1900fxoxrl
+    followers: 10335
+    engagement: 775
+    commentsToLikes: 0.038496
+    id: ck5hepu3du6250i1142tp4l3f
     verified: false
-    hashtags: "#mermaidsoul, #onlineseminar, #watershoot, #redhair"
-  - username: "sanki_1111"
+    hashtags: "#monstera, #pflanzen, #plantshelf, #cuddle"
+  - username: "markfernyhough"
     fullname: >-
-      Brown Barbie
+      ARTIST BERLIN/LONDON
     location: "Germany"
-    followers: 61328
-    engagement: 548
-    commentsToLikes: 0.024468
-    id: ck15r5lov68tj0i190b495665
+    followers: 16843
+    engagement: 239
+    commentsToLikes: 0.098730
+    id: ck0w2wdwfqhty0i19bzqrwci7
     verified: false
-    hashtags: "#grateful, #sankiquotes, #models, #berlinmodel"
-  - username: "rieder.fabian"
+    hashtags: "#londonartist, #brexitsong, #bowie, #goth"
+  - username: "anja.gilly"
     fullname: >-
-      Mister Ingolstadt 🇩🇪
+      Anja Gilly
     location: "Germany"
-    followers: 31313
-    engagement: 559
-    commentsToLikes: 0.011128
-    id: ck6tpk3k3kbfm0j71za33wx7g
+    followers: 8523
+    engagement: 824
+    commentsToLikes: 0.177352
+    id: ck15r171v5mrh0i19guq65kaq
     verified: false
-    hashtags: "#followme, #baby, #blackandwhite, #nike"
-  - username: "racinggirl_lena_heart"
+    hashtags: "#daydreaming, #fashionshoot, #ausstrahlung, #businesswoman"
+  - username: "_fox.fire_"
     fullname: >-
-      Lena Heart
+      FoxFire
     location: "Germany"
-    followers: 70986
-    engagement: 302
-    commentsToLikes: 0.034126
-    id: ck136ikfq6nqa0i19zrr1bi1r
+    followers: 3323
+    engagement: 1396
+    commentsToLikes: 0.174903
+    id: ck5bvc7jhjdob0i11m3acuemd
     verified: false
-    hashtags: "#boobs, #shootingtime, #highheelslover, #nylons"
-  - username: "annadaki"
+    hashtags: "#alternativerock, #grungegirl, #awareness, #alternativelook"
+  - username: "suzy_edward"
     fullname: >-
-      Anna Daki
+      Suzy Edward
     location: "Germany"
-    followers: 18613
-    engagement: 210
-    commentsToLikes: 0.045039
-    id: ck0tzdmqupy3v0i19eorbqmyo
+    followers: 46521
+    engagement: 211
+    commentsToLikes: 0.026663
+    id: ck55klu06zmew0i115mvq60zz
     verified: false
-    hashtags: "#berlinale, #vogue, #tonigarrn, #stayhome"
-  - username: "billy_manalief"
+    hashtags: "#floripa2020, #bluevibes, #fitnessmodels, #whitedress"
+  - username: "inahoutofficial"
     fullname: >-
-      Billy Manalief Photography
+      INA HOUT
     location: "Germany"
-    followers: 7504
-    engagement: 952
-    commentsToLikes: 0.013506
-    id: ck5hkxb27j70e0i1176roqddd
+    followers: 3851
+    engagement: 1192
+    commentsToLikes: 0.071490
+    id: ck5q46tb5o02k0i11404zqpki
     verified: false
-    hashtags: "#funny, #bridal, #portrait, #hochzeitskleid"
-  - username: "leonierell"
+    hashtags: "#berlin"
+  - username: "vans.blanc"
     fullname: >-
-      LeonieRell
+      𝐕 𝐀 𝐍 𝐒
     location: "Germany"
-    followers: 5343
-    engagement: 601
-    commentsToLikes: 0.037058
-    id: ck5hlyvgol3ty0i11jbtkguxg
+    followers: 2601
+    engagement: 2370
+    commentsToLikes: 0.138695
+    id: ckaowvcl2am100i78970d3f9f
     verified: false
-    hashtags: "#studioshoot, #editorialshootunstyled, #bodywork, #bwinspo"
+    hashtags: "#happyeaster, #modellife, #newclassvideo, #skateordie"
 ---

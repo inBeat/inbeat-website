@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Melbourne In 2020
 description: >-
-  Find top fitness Instagram influencers in Melbourne in 2020. Most popular hashtags: #melbourne #fitness #braincancer #instafit.
+  Find top fitness Instagram influencers in Melbourne in 2020. Most popular hashtags: #fitness #photography #photoshoot #melbourne.
 platform: Instagram
 profiles:
-  - username: "g.b.x.o"
+  - username: "thelittlenutritionist"
     fullname: >-
-      ➕🅶.🅱.🆇.🅾 ➕
+      Jenny Nguyen | Nutritionist
     location: "Australia"
-    followers: 40651
-    engagement: 376
-    commentsToLikes: 0.018233
-    id: ck1387pqiewej0i19qtc07e22
+    followers: 2026
+    engagement: 1159
+    commentsToLikes: 0.096779
+    id: ckapaefhwvrrg0i78e1068lz1
     verified: false
-    hashtags: "#photography, #fashionmen, #nike, #mensfashionblog"
+    hashtags: "#buildyourbody, #chocolate, #recipeoftheday, #pbtoast"
   - username: "candice_wyatt_10"
     fullname: >-
       CANDICE WYATT
     location: "Australia"
-    followers: 10473
-    engagement: 663
-    commentsToLikes: 0.043647
+    followers: 10611
+    engagement: 624
+    commentsToLikes: 0.047335
     id: ck6tyvu5p65s90j712fuwkuay
     verified: false
-    hashtags: "#formula1, #brain, #crownimgtennisparty, #longlunch"
-  - username: "timkfarley"
+    hashtags: "#foodie, #happyholi, #2020iscancelled, #fitness"
+  - username: "y_tysonn"
     fullname: >-
-      Tim Farley
+      Jacob Tyson™🇪🇸ジェイコブ🃏
     location: "Australia"
-    followers: 5484
-    engagement: 587
-    commentsToLikes: 0.032813
-    id: ck0w1zk6ylwug0i19zlenkug1
+    followers: 83696
+    engagement: 412
+    commentsToLikes: 0.086067
+    id: ck14lov26vqwz0i19kurawqlg
     verified: false
-    hashtags: "#acrobat, #kicks, #martialarts, #urbanclimb"
-  - username: "walt_collins"
+    hashtags: "#styleforguys, #mensfashionteam, #menstreetstyle, #instalike"
+  - username: "laurencarre_ifbbpro"
     fullname: >-
-      Walt Collins
+      Lauren Carré IFBB PRO📍Melboune
     location: "Australia"
-    followers: 22929
-    engagement: 342
-    commentsToLikes: 0.037118
-    id: ck137dn14b0s70i196rifcje9
+    followers: 41636
+    engagement: 120
+    commentsToLikes: 0.039408
+    id: ckap6178ne0ty0i78qrpnh0kg
     verified: false
-    hashtags: "#excavator, #martinis, #tennis, #pecks"
-  - username: "priyaserrao"
-    fullname: >-
-      Priya Serrao
-    location: "Australia"
-    followers: 18180
-    engagement: 437
-    commentsToLikes: 0.037150
-    id: ck5px1imxpn9q0i11d6ju5uib
-    verified: false
-    hashtags: "#weekendvibes, #stylediaries, #beach, #lifetyle"
-  - username: "yo.ab_"
-    fullname: >-
-      alasdair barrie 🇦🇺🇩🇪🇨🇦
-    location: "Australia"
-    followers: 22746
-    engagement: 694
-    commentsToLikes: 0.044913
-    id: ck8wgg62hhamy0j78opw5p7dn
-    verified: false
-    hashtags: "#badboys, #gym, #whitesmile, #white"
-  - username: "miguel_hand_balance"
-    fullname: >-
-      Miguel Sant'ana
-    location: "Australia"
-    followers: 102366
-    engagement: 235
-    commentsToLikes: 0.016433
-    id: ck0vxf3csyl6z0i194w0qmbij
-    verified: false
-    hashtags: "#workout, #hkyoga, #armbalance, #inversions"
-  - username: "fitforfooty"
-    fullname: >-
-      Fit For Footy - AFL Endorsed
-    location: "Australia"
-    followers: 12231
-    engagement: 752
-    commentsToLikes: 0.027723
-    id: ck15tnldkiz590i19mk4lzrv2
-    verified: false
-    hashtags: "#adelaidecrows, #portadelaide, #adelaide, #giants"
+    hashtags: "#dancer, #nikon, #acbikinis, #coronalife"
   - username: "annaleisevarga"
     fullname: >-
       Annaleise Varga
     location: "Australia"
-    followers: 5388
-    engagement: 711
-    commentsToLikes: 0.102403
+    followers: 5421
+    engagement: 729
+    commentsToLikes: 0.101301
     id: ck6tuci6tfjsc0j71cnxj20cf
     verified: false
     hashtags: ""
-  - username: "bridgetkwilliams_"
+  - username: "lanefotograf"
     fullname: >-
-      Bridget Williams👸🏼🐝
+      Michelle Lancaster
     location: "Australia"
-    followers: 366884
-    engagement: 226
-    commentsToLikes: 0.071359
-    id: ck0u8lpbf7ojs0i19clvcgrrv
+    followers: 37443
+    engagement: 415
+    commentsToLikes: 0.036363
+    id: ck0tt2m3h0w180i19ubx5tc5w
     verified: false
-    hashtags: "#home, #dontsettle, #motivation, #homebound"
+    hashtags: "#author, #malebeauty, #virus, #girlnextdoor"
+  - username: "mithaliraj"
+    fullname: >-
+      Mithali Raj
+    location: "Australia"
+    followers: 1391236
+    engagement: 475
+    commentsToLikes: 0.003510
+    id: ck0vv1mton4n20i19m2cqkp56
+    verified: true
+    hashtags: "#posing, #lockdownondomesticviolence, #fitket, #visitaustralia"
+  - username: "fashfitlifestyle"
+    fullname: >-
+      PETRA KÖNYIT©
+    location: "Australia"
+    followers: 45418
+    engagement: 257
+    commentsToLikes: 0.013515
+    id: ck9hbm7aehglm0j78ypg3x14b
+    verified: false
+    hashtags: "#trophywife, #pizzanight, #sohappy, #redwoodforest"
+  - username: "melbourne_desi_girl"
+    fullname: >-
+      Kiran U
+    location: "Australia"
+    followers: 7225
+    engagement: 1826
+    commentsToLikes: 0.217992
+    id: ck9wp3ewv7mu90j7863amar2s
+    verified: false
+    hashtags: "#shotoniphone, #instainfluencer, #hadith, #quarantinelife"
+  - username: "matheuorchard"
+    fullname: >-
+      Matt Orchard
+    location: "Australia"
+    followers: 43197
+    engagement: 153
+    commentsToLikes: 0.046417
+    id: ck6u843p9pbem0j710p1y1r8y
+    verified: false
+    hashtags: "#squats, #alltheabove, #legday, #lighting"
 ---

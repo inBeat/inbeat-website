@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Izmir In 2020
 description: >-
-  Find top fashion Instagram influencers in Izmir in 2020. Most popular hashtags: #izmir #fashion #evdekal #lifestyle.
+  Find top fashion Instagram influencers in Izmir in 2020. Most popular hashtags: #fashion #summer #instagram #izmir.
 platform: Instagram
 profiles:
-  - username: "sudesudemirelofficial"
+  - username: "hasan.algac"
     fullname: >-
-      sudesu demirel
+      Hasan Algaç
     location: "Turkey"
-    followers: 31407
-    engagement: 225
-    commentsToLikes: 0.093966
-    id: ck5ca2qshcl140i11atatabbq
+    followers: 8066
+    engagement: 596
+    commentsToLikes: 0.011397
+    id: ck6ugx3d45oiq0j71rojzhm35
     verified: false
-    hashtags: "#holanda, #photo, #specialdesings, #modac"
+    hashtags: "#ninja, #shortvideo, #photography, #viralvideo"
+  - username: "cappadociaearth"
+    fullname: >-
+      cappadocia photographer
+    location: "Turkey"
+    followers: 71619
+    engagement: 101
+    commentsToLikes: 0.015081
+    id: ck6tm4uu576kz0j716hjxxdea
+    verified: false
+    hashtags: "#summer, #travelbug, #ankara, #lifeofadventure"
   - username: "yoncacalli"
     fullname: >-
       Yonca Calli
     location: "Turkey"
-    followers: 12399
-    engagement: 1048
-    commentsToLikes: 0.049870
+    followers: 21274
+    engagement: 854
+    commentsToLikes: 0.089152
     id: ck8td7tch29060j78vzjlhh1g
     verified: false
-    hashtags: "#bedroominspo, #yellow, #lampdesign, #housedecoration"
+    hashtags: "#pinkdress, #gucci, #fashionbag, #goldbracelet"
+  - username: "mervealknnn"
+    fullname: >-
+      M E R V E  A L K A N 🦋
+    location: "Turkey"
+    followers: 110443
+    engagement: 124
+    commentsToLikes: 0.037321
+    id: ck6ufwlq2zjz90j71edxy5gel
+    verified: false
+    hashtags: "#lastmonth, #friday, #september, #style"
+  - username: "yusufguneyofficial"
+    fullname: >-
+      Yusuf Güney
+    location: "Turkey"
+    followers: 576787
+    engagement: 710
+    commentsToLikes: 0.020404
+    id: ck5q0wwfu85wn0i11ii5kfp7e
+    verified: true
+    hashtags: "#afferinegeya, #antalya, #fashion, #travelgram"
   - username: "selinablog"
     fullname: >-
       Selin Aydın
     location: "Turkey"
-    followers: 94577
-    engagement: 415
-    commentsToLikes: 0.510040
+    followers: 93202
+    engagement: 292
+    commentsToLikes: 0.037835
     id: ck5cf8f0bmgy30i11poftf44f
     verified: false
-    hashtags: "#ombre, #keratinbotox, #eyeshadow, #makeupvideo"
-  - username: "colorfulcareer"
+    hashtags: "#eyeshadow, #hairvideos, #makeuptricks, #makeupvideos"
+  - username: "kate.xeeva"
     fullname: >-
-      Semra
+      Kate Alexeeva
     location: "Turkey"
-    followers: 15926
-    engagement: 988
-    commentsToLikes: 0.027831
-    id: ck139cegxkm200i19cx5vbdqp
-    verified: false
-    hashtags: "#healthylifestyle, #color, #likesforfollow, #foll"
-  - username: "garageizmir"
+    followers: 92922
+    engagement: 543
+    commentsToLikes: 0.039735
+    id: ck5hskkqhwqs90i11zzuejemu
+    verified: true
+    hashtags: "#saapiobeauty, #staypositive, #pillowchallenge, #turkey"
+  - username: "bitutamhatira"
     fullname: >-
-      MURAT DELER
+      Bitutamhatira
     location: "Turkey"
-    followers: 74560
-    engagement: 125
-    commentsToLikes: 0.020809
-    id: ck5q8nzvi74b90i116fxhp6lz
+    followers: 15561
+    engagement: 542
+    commentsToLikes: 0.059145
+    id: ck5znxsrapcs00i14ohhapmh3
     verified: false
-    hashtags: "#haircolor, #coronavirus, #coronavir, #izmir"
-  - username: "mayabasol"
+    hashtags: "#homelatte, #locfestivals, #igdaily, #alacatiotelleri"
+  - username: "zjgulen"
     fullname: >-
-      A S Y A & M A Y A  B A Ş O L
+      Gülen Arzuman
     location: "Turkey"
-    followers: 188094
-    engagement: 935
-    commentsToLikes: 0.494897
-    id: ck137l5f4c3fj0i19zcbknynz
+    followers: 22157
+    engagement: 554
+    commentsToLikes: 0.064006
+    id: ck5hp1iycqlia0i11bt4xln7y
     verified: false
-    hashtags: "#defactogetirsin, #evdeyiz, #sundaystyle, #tb"
-  - username: "trendyandmom"
+    hashtags: "#izmir, #muchacha, #cute, #dogslover"
+  - username: "41serpil41"
     fullname: >-
-      TRendyandmom
+      serpil dinç
     location: "Turkey"
-    followers: 5439
-    engagement: 1906
-    commentsToLikes: 0.124825
-    id: ck8td979h2ev80j78fee6zget
+    followers: 10376
+    engagement: 239
+    commentsToLikes: 0.106174
+    id: ck9hcdga2kvaq0j78ejsoonva
     verified: false
-    hashtags: "#yenibirbirlesmeyoncalar, #darlingglc, #naturephotography, #mondaymotivation"
-  - username: "kardenizkilic"
-    fullname: >-
-      KAR❄️DENIZ🌊
-    location: "Turkey"
-    followers: 260186
-    engagement: 486
-    commentsToLikes: 0.010138
-    id: ck5qb84hnkamk0i116lg7acvr
-    verified: false
-    hashtags: "#happywomensday, #saturdaymood, #kendinimutluet, #izmir"
-  - username: "serpilbzkurtt"
-    fullname: >-
-      Serpil Küçükay Bozkurt
-    location: "Turkey"
-    followers: 44948
-    engagement: 247
-    commentsToLikes: 0.084352
-    id: ck8t4upel7zex0j78clkcijws
-    verified: false
-    hashtags: "#istanbul, #evdehayatvar, #southafrica, #karantinag"
-  - username: "mmehmmety"
-    fullname: >-
-      Mehmet YÜKSEL | ONLINE COACH
-    location: "Turkey"
-    followers: 14088
-    engagement: 1066
-    commentsToLikes: 0.008652
-    id: ck6u8r10mt5zj0j714t8jkod9
-    verified: false
-    hashtags: "#humatrope, #commentsforcomments, #comment, #bulk"
+    hashtags: "#viral, #20likes, #boztepe, #maske"
 ---

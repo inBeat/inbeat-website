@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In India In 2020
 description: >-
-  Find top cosmetics Instagram influencers in India in 2020. Most popular hashtags: #lockedupwithsunny #sunnyleone #mumbaifashionblogger #love.
+  Find top cosmetics Instagram influencers in India in 2020. Most popular hashtags: #summer #cosmetics #hairstyles #picoftheday.
 platform: Instagram
 profiles:
-  - username: "shaffafsp"
+  - username: "tammmy.o"
     fullname: >-
-      SHAFFAFSP / Bangalore Blogger
+      delusi J. tamm
     location: "India"
-    followers: 42632
-    engagement: 494
-    commentsToLikes: 0.105049
-    id: ck8t4pzsg7nyn0j78uckdnq3m
+    followers: 16648
+    engagement: 889
+    commentsToLikes: 0.067369
+    id: ck5hlgdtuk6eb0i11o1h8cbbv
     verified: false
-    hashtags: "#bangalorecafes, #iloveheineken, #bangalorefoodiesclub, #mumbaiblogger"
-  - username: "ritikakuniyal"
-    fullname: >-
-      The Meow Code | Blogger
-    location: "India"
-    followers: 17367
-    engagement: 428
-    commentsToLikes: 0.046613
-    id: ck13adavyptm00i194wz1my8d
-    verified: false
-    hashtags: "#itstimetogetsirious, #bridalentry, #womensday, #itstimetogetsirious"
+    hashtags: "#saynotodepression, #owonikokochallenge"
   - username: "lilrocket"
     fullname: >-
       NAVREET JOSAN
     location: "India"
-    followers: 87002
-    engagement: 204
-    commentsToLikes: 0.031976
+    followers: 86088
+    engagement: 192
+    commentsToLikes: 0.034376
     id: ck6tyb3l52p3c0j717nowjsd7
     verified: true
-    hashtags: "#macartistsummit, #reimaginesport, #sheruclassic, #india"
-  - username: "lydia_achebe"
+    hashtags: "#sheruclassic, #theweeknd, #loveit, #athletes"
+  - username: "beauty.akshada1428"
     fullname: >-
-      BARR. LYDIA I. ACHEBE
+      Akshada Pawar Official
     location: "India"
-    followers: 15820
-    engagement: 341
-    commentsToLikes: 0.054682
-    id: ck8t779uuftij0j78r44o9z8a
+    followers: 21428
+    engagement: 577
+    commentsToLikes: 0.041977
+    id: ck9hbdwlxgeep0j78zkz4baq6
     verified: false
-    hashtags: "#fashion, #lifestyle, #babcock, #uniben"
-  - username: "skinchemy"
+    hashtags: "#marathibana, #punegram, #puneblogger, #sexy"
+  - username: "megha_sidharth"
     fullname: >-
-      Science of Skincare & Makeup
+      Megha Sidharth
     location: "India"
-    followers: 75838
-    engagement: 316
-    commentsToLikes: 0.038297
-    id: ck14lqauivybz0i196u9pp6wa
+    followers: 49380
+    engagement: 340
+    commentsToLikes: 0.083963
+    id: ck9wft9yoqfvl0j784vrjgwoo
     verified: false
-    hashtags: ""
+    hashtags: "#bloggerslife, #googletravel, #homefashion, #dancevideos"
   - username: "ashish_rughoobur"
     fullname: >-
       Barbie
     location: "India"
-    followers: 8375
-    engagement: 658
-    commentsToLikes: 0.006037
+    followers: 8753
+    engagement: 732
+    commentsToLikes: 0.009275
     id: ck6toynzkgucf0j71ympulsog
     verified: false
-    hashtags: "#islandlife, #immortelleprecieuse, #summerinparadise, #baumeyeux"
-  - username: "sunnyleone"
+    hashtags: "#tanned, #sand, #beachlife, #beachboy"
+  - username: "natasha.moor"
     fullname: >-
-      Sunny Leone
+      Natasha Moor
     location: "India"
-    followers: 33456234
-    engagement: 201
-    commentsToLikes: 0.009663
-    id: ck0tyfuf4mn070i1964x0k3ro
+    followers: 60312
+    engagement: 140
+    commentsToLikes: 0.039401
+    id: ck0tw29ncdpj80i198srpy9wn
     verified: true
-    hashtags: "#gudipadwa, #slotgames, #summer, #ghatidancers"
+    hashtags: "#quarantinechic, #makeupartist, #magic, #bestfeeling"
+  - username: "atiqahhasiholan"
+    fullname: >-
+      atiqah hasiholan
+    location: "India"
+    followers: 2128984
+    engagement: 74
+    commentsToLikes: 0.004827
+    id: ck6tnso3bahuk0j71bj195yxy
+    verified: true
+    hashtags: "#covid19, #terbaru, #viruscorona, #videooftheday"
   - username: "paragon.id"
     fullname: >-
       Paragon Tech. and Innovation
     location: "India"
-    followers: 56133
-    engagement: 299
-    commentsToLikes: 0.019457
+    followers: 57548
+    engagement: 294
+    commentsToLikes: 0.011804
     id: ck5qa06ridw550i112ko4bth9
     verified: false
-    hashtags: "#penggerakkebaikan, #paragonbermakna, #kataparagonian, #staysafeparagonian"
-  - username: "yogita__gupta__"
+    hashtags: "#selaluadabahagia, #belajardimanasaja, #belajarkapansaja, #35tahunparagon"
+  - username: "safu_ny_"
     fullname: >-
-      Yogita Gupta
+      Pottan❤️
     location: "India"
-    followers: 502820
-    engagement: 453
-    commentsToLikes: 0.103017
-    id: ck0ty0x1ql52l0i198adlw0fk
+    followers: 3722
+    engagement: 3898
+    commentsToLikes: 0.175255
+    id: ck9wi281a0idm0j78gqstbcj4
     verified: false
-    hashtags: "#plixxoinfluencer, #1more, #stylishtws, #tee"
-  - username: "varsha_rekhate_"
+    hashtags: "#quoteoftheday, #arms, #neck, #blonde"
+  - username: "evridiki_valavani"
     fullname: >-
-      Varsha
+      Evridiki Valavani
     location: "India"
-    followers: 8790
-    engagement: 1449
-    commentsToLikes: 0.022558
-    id: ck14jneoql89l0i19rm7h17kh
-    verified: false
-    hashtags: "#blogger, #mumabiphotographers, #traditionalart, #rooftopdinner"
+    followers: 547530
+    engagement: 829
+    commentsToLikes: 0.040200
+    id: ck5q2t0m6ho5q0i11pv2pa590
+    verified: true
+    hashtags: "#elmirabegati, #paradise, #greece, #hawaii"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Health Instagram Influencers In Melbourne In 2020
 description: >-
-  Find top health Instagram influencers in Melbourne in 2020. Most popular hashtags: #fitness #melbourne #lifestyle #fitspo.
+  Find top health Instagram influencers in Melbourne in 2020. Most popular hashtags: #health #melbourne #photography #photoshoot.
 platform: Instagram
 profiles:
-  - username: "giorgio_torelli"
+  - username: "khengomnom"
     fullname: >-
-      GIOᖇGIO TOᖇEᒪᒪI
+      K h e n g  ❥
     location: "Australia"
-    followers: 19855
-    engagement: 328
-    commentsToLikes: 0.066868
-    id: ck5q0rv407ggd0i11rmdm777v
+    followers: 10792
+    engagement: 666
+    commentsToLikes: 0.235187
+    id: ck135q2472o1z0i193xaqcese
     verified: false
-    hashtags: "#streetstyle, #streetstylemen, #styleinspiration, #lifestyle"
+    hashtags: "#savehospo, #dominospizza, #influenceraus, #pizzatime"
+  - username: "sarasidari"
+    fullname: >-
+      SARA SIDARI  ILLUSTRATOR
+    location: "Australia"
+    followers: 17522
+    engagement: 84
+    commentsToLikes: 0.086396
+    id: ck5hgtxs84qgi0i11hfz8zl5w
+    verified: false
+    hashtags: "#line, #interiordesign, #australianlabradoodlesofinstagram, #baby"
+  - username: "joannaipsaros"
+    fullname: >-
+      joanna ipsaros
+    location: "Australia"
+    followers: 10267
+    engagement: 563
+    commentsToLikes: 0.188308
+    id: ck15rqywz999j0i196iwuffg3
+    verified: false
+    hashtags: "#makeup, #strong, #styleguide, #girlgym"
   - username: "marinetanyan"
     fullname: >-
       Marine Tan Yan
     location: "Australia"
-    followers: 4166
-    engagement: 892
-    commentsToLikes: 0.352763
+    followers: 4181
+    engagement: 862
+    commentsToLikes: 0.292489
     id: ck6u3rpemzhuf0j711xzt6prp
     verified: false
-    hashtags: "#outfitpost, #homeworkout, #chunkytown, #helicopter"
-  - username: "love.christina.xo"
+    hashtags: "#stayhome, #pillowtalk, #fitspo, #sponsored"
+  - username: "junclarekim"
     fullname: >-
-      ✨Christina✨
+      JUN | Fashion | Beauty | Home
     location: "Australia"
-    followers: 155448
-    engagement: 412
-    commentsToLikes: 0.092206
-    id: ck13c84lqz1y50i192xk9bkvq
+    followers: 3645
+    engagement: 1949
+    commentsToLikes: 0.278627
+    id: ck8t85l9wj6tf0j7827j65yse
     verified: false
-    hashtags: "#sydneyblogger, #mcaaustralia, #bondiboost, #biodegradable"
-  - username: "taylortarnawskyj"
+    hashtags: "#kmartau, #bpafree, #petitestyle, #candle"
+  - username: "lanefotograf"
     fullname: >-
-      Taylor Tarnawskyj
+      Michelle Lancaster
     location: "Australia"
-    followers: 6097
-    engagement: 731
-    commentsToLikes: 0.086333
-    id: ck5bwusgamgg20i11ppnaowaw
+    followers: 37443
+    engagement: 415
+    commentsToLikes: 0.036363
+    id: ck0tt2m3h0w180i19ubx5tc5w
     verified: false
-    hashtags: "#img, #australianmodel, #lingeriemodel, #ryderwear"
-  - username: "sarahjaneroza"
-    fullname: >-
-      SARAH ROZA
-    location: "Australia"
-    followers: 337287
-    engagement: 220
-    commentsToLikes: 0.042483
-    id: ck5cl1ocoy2jm0i112ylzgnqh
-    verified: true
-    hashtags: "#lovers, #day1, #support, #luncheon"
+    hashtags: "#author, #malebeauty, #virus, #girlnextdoor"
   - username: "y_tysonn"
     fullname: >-
       Jacob Tyson™🇪🇸ジェイコブ🃏
     location: "Australia"
-    followers: 84168
-    engagement: 410
-    commentsToLikes: 0.085989
+    followers: 83696
+    engagement: 412
+    commentsToLikes: 0.086067
     id: ck14lov26vqwz0i19kurawqlg
     verified: false
-    hashtags: "#maleinfluencer, #clubbing, #instalike, #potd"
-  - username: "blakewheller"
+    hashtags: "#styleforguys, #mensfashionteam, #menstreetstyle, #instalike"
+  - username: "shontinarose"
     fullname: >-
-      Blake Wheller
+      SHONTINA ROSE
     location: "Australia"
-    followers: 43761
-    engagement: 115
-    commentsToLikes: 0.056346
-    id: ck135twve37vq0i19q4nn0u6u
+    followers: 212483
+    engagement: 133
+    commentsToLikes: 0.026445
+    id: ck136bb5n5n6h0i190dr25hv6
     verified: false
-    hashtags: "#strong, #millionairemindset, #scandinaviangodking, #summerishere"
-  - username: "misskatiestevens"
-    fullname: >-
-      KATIE STEVENS ™ ⚡️ BRISBANE
-    location: "Australia"
-    followers: 137017
-    engagement: 118
-    commentsToLikes: 0.030587
-    id: ck0u7q3cg5gik0i19wi5gmeoa
-    verified: false
-    hashtags: "#businessevents, #womenempowerment, #strength, #beauty"
-  - username: "matheuorchard"
-    fullname: >-
-      Matt Orchard
-    location: "Australia"
-    followers: 43866
-    engagement: 172
-    commentsToLikes: 0.045189
-    id: ck6u843p9pbem0j710p1y1r8y
-    verified: false
-    hashtags: "#juicy, #musclecity, #biceps, #legs"
+    hashtags: "#home, #mbfwa, #solothestaple, #noosa"
   - username: "femmeplastic"
     fullname: >-
       Laura Du Vè
     location: "Australia"
-    followers: 25621
-    engagement: 289
-    commentsToLikes: 0.028086
+    followers: 25807
+    engagement: 291
+    commentsToLikes: 0.034664
     id: ck0w2k7f4os6z0i19ivksb33t
     verified: false
-    hashtags: "#photography, #pride, #kooky, #clubkooky"
+    hashtags: "#clubkooky, #dontrushchallenge, #pride, #portaiture"
+  - username: "matheuorchard"
+    fullname: >-
+      Matt Orchard
+    location: "Australia"
+    followers: 43197
+    engagement: 153
+    commentsToLikes: 0.046417
+    id: ck6u843p9pbem0j710p1y1r8y
+    verified: false
+    hashtags: "#squats, #alltheabove, #legday, #lighting"
 ---

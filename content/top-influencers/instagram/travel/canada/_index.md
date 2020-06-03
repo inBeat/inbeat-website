@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Canada In 2020
 description: >-
-  Find top travel Instagram influencers in Canada in 2020. Most popular hashtags: #toronto #girlaroundworld #canada #ad.
+  Find top travel Instagram influencers in Canada in 2020. Most popular hashtags: #ootd #quebec #bethelight #explorecanada.
 platform: Instagram
 profiles:
-  - username: "aliciahillturner"
+  - username: "theadventurousgal"
     fullname: >-
-      hey i’m alicia 💗🎀🌸
+      Stephanie Parish
     location: "Canada"
-    followers: 6061
-    engagement: 1580
-    commentsToLikes: 0.180559
-    id: ck8tblyesw6cg0j78eyojme0h
+    followers: 7325
+    engagement: 1830
+    commentsToLikes: 0.173343
+    id: ckaot2aqmu22q0i78a0m9qk4t
     verified: false
-    hashtags: "#coronavirus"
-  - username: "thestylishwordsmith"
+    hashtags: "#visitbali, #travelflorida, #getoutsidemore, #domestictravel"
+  - username: "rejeannemartin"
     fullname: >-
-      debbie poh
+      r e j
     location: "Canada"
-    followers: 16406
-    engagement: 892
-    commentsToLikes: 0.594812
-    id: ck14itmkxh4140i19bnzl0j3q
+    followers: 7516
+    engagement: 1559
+    commentsToLikes: 1.792211
+    id: ckaoubbr1zmbc0i78ep046353
     verified: false
-    hashtags: "#prettyinparisian, #thebeverlyhillshotel, #vancouverisawesome, #abeauty"
+    hashtags: "#bancroft, #mothersday, #ontariobusiness, #momsofig"
+  - username: "deannawoo"
+    fullname: >-
+      Deanna Woo: Vancouver Foodie
+    location: "Canada"
+    followers: 19969
+    engagement: 830
+    commentsToLikes: 0.575651
+    id: ck0vv5ehynmlc0i19v5dv41dt
+    verified: false
+    hashtags: "#kyotoeats, #friesforgood, #japan, #supportlocalbusinesses"
   - username: "alicedlee"
     fullname: >-
       𝓐𝓵𝓲𝓬𝓮
     location: "Canada"
-    followers: 35557
-    engagement: 783
-    commentsToLikes: 0.106644
+    followers: 35171
+    engagement: 757
+    commentsToLikes: 0.102569
     id: ck1364tzc4r480i19wyysbfic
     verified: false
-    hashtags: "#birthdayturnedintoproposal, #birthdaydinner, #monamourflowers, #fashionnovaambassador"
-  - username: "brightblondeblog"
+    hashtags: "#monamourflowers, #fashionnovaambassador, #liketkit, #ootd"
+  - username: "journeyofralu"
     fullname: >-
-      Julia | The Bright Blonde
+      🌹 RALU OPREAN | Travel 🌹
     location: "Canada"
-    followers: 6318
-    engagement: 1331
-    commentsToLikes: 0.243072
-    id: ck13b6spetylq0i19mya4bwm4
+    followers: 2439
+    engagement: 2168
+    commentsToLikes: 0.309274
+    id: ckaos4th2q38u0i784deqer96
     verified: false
-    hashtags: "#sorrynotsorry, #fashion, #iweargarage"
-  - username: "beurl"
+    hashtags: "#toronto, #abmtravelbug, #damestravel, #hamilton"
+  - username: "hey.pj"
     fullname: >-
-      KIMBERLY DENIS
+      Michelle Pija ✈ Travel
     location: "Canada"
-    followers: 44725
-    engagement: 561
-    commentsToLikes: 0.070580
-    id: ck0vyrann5enw0i190byww0de
+    followers: 5397
+    engagement: 1273
+    commentsToLikes: 0.139684
+    id: ckapb61q1ypal0i78bwdol5lh
     verified: false
-    hashtags: "#canada, #stayathome, #jerestecheznous, #stayhome"
-  - username: "helloprettysunday"
+    hashtags: "#greatcoronaescape"
+  - username: "thelosttwo"
     fullname: >-
-      Eva
+      CLAUDIA & KAAN
     location: "Canada"
-    followers: 3328
-    engagement: 2032
-    commentsToLikes: 0.296485
-    id: ck8tdh0jj39ov0j783gzcbjxq
+    followers: 115272
+    engagement: 454
+    commentsToLikes: 0.055806
+    id: ck0tt21xk0thk0i197hqwq18b
     verified: false
-    hashtags: "#shedreamsshegoes, #ladiesgoneglobal, #romecityworld, #fashiongals"
-  - username: "serinasu"
+    hashtags: "#womensday, #explorebali, #colonial, #naturetherapy"
+  - username: "normelnomads"
     fullname: >-
-      𝒮𝑒𝓇𝒾𝓃𝒶 𝒮𝓊 慧珊
+      Norm&Mel | Travel Couple
     location: "Canada"
-    followers: 17561
-    engagement: 1088
-    commentsToLikes: 0.052594
-    id: ck8ta17h4q2ua0j780ne6jw45
+    followers: 3733
+    engagement: 2055
+    commentsToLikes: 0.143632
+    id: ckaozrx8zn4xx0i780nawyun9
     verified: false
-    hashtags: "#sponsored, #myeotd, #partnership, #meshki"
-  - username: "simranahmed30"
+    hashtags: "#hikingadventure, #discovercanada, #coupletravels, #travelust"
+  - username: "stephaniebureau"
     fullname: >-
-      Simran Ahmed | Vancouver 🇨🇦
+      STÉPHANIE
     location: "Canada"
-    followers: 16853
-    engagement: 686
-    commentsToLikes: 0.646084
-    id: ck5q3gvq6koz10i11g628xc4w
+    followers: 28845
+    engagement: 564
+    commentsToLikes: 0.167833
+    id: ck14iqlm2gqjb0i19mfr4kely
     verified: false
-    hashtags: "#contest, #giftcardgiveaway, #mysilknsolution, #tuesdayinspiration"
+    hashtags: "#coffeetime, #spaday, #villa, #expediaapp"
   - username: "shalini_matt"
     fullname: >-
       Shaluuu🌹
     location: "Canada"
-    followers: 2726
-    engagement: 2940
-    commentsToLikes: 0.091320
+    followers: 2746
+    engagement: 2812
+    commentsToLikes: 0.087200
     id: ck6uernicsp5o0j71ntftvyov
     verified: false
-    hashtags: "#models, #fashionnova, #fallshoots, #ootn"
-  - username: "livethepalmerexperience"
-    fullname: >-
-      I&A | The Palmer Experience
-    location: "Canada"
-    followers: 4219
-    engagement: 1847
-    commentsToLikes: 0.231804
-    id: ck0ue8lfdkqa60i19uf38zp9n
-    verified: false
-    hashtags: "#travelislife, #journeysofgirls, #wadirum, #travelbuddies"
+    hashtags: "#modelling, #photoshoot, #models, #flashbackformal"
 ---

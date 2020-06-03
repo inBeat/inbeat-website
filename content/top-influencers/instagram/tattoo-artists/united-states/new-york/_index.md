@@ -1,107 +1,107 @@
 ---
 title: Top 10 Tattoo-Artists Instagram Influencers In New York In 2020
 description: >-
-  Find top tattoo-artists Instagram influencers in New York in 2020. Most popular hashtags: #tattoo #inked #ink #tattooartist.
+  Find top tattoo-artists Instagram influencers in New York in 2020. Most popular hashtags: #tattooartist #coronavirus #skull #california.
 platform: Instagram
 profiles:
-  - username: "mikhailandersson"
+  - username: "diamondtattoos"
     fullname: >-
-      Mikhail Anderson
+      Young
     location: "United States"
-    followers: 58620
-    engagement: 251
-    commentsToLikes: 0.020480
-    id: ck13au7h3s7jy0i19iigl0uti
+    followers: 27185
+    engagement: 280
+    commentsToLikes: 0.019326
+    id: ck5c80kda8ji40i11ybtmg11y
     verified: false
-    hashtags: "#watercolortattoo, #smalltattoo, #galaxycat, #trashpolka"
-  - username: "barisyesilbas"
+    hashtags: "#blessed, #skilled, #animalmandala, #eyetattoo"
+  - username: "gabrielink_art"
     fullname: >-
-      Baris Yesilbas
+      Gabriel Gonzalez
     location: "United States"
-    followers: 73494
-    engagement: 109
-    commentsToLikes: 0.011326
-    id: ck6tm6cmf799c0j71piy6nkpu
+    followers: 137961
+    engagement: 136
+    commentsToLikes: 0.030770
+    id: ck6tr014dvwyw0j712dhusv3t
     verified: false
-    hashtags: "#space, #odesza, #vansera, #vscocam"
+    hashtags: "#broward, #mermaidtattoos, #ocean, #newyorkcity"
   - username: "eme_josiah"
     fullname: >-
       JOSIAH 🎤 Singer|songwriter
     location: "United States"
-    followers: 14359
-    engagement: 614
-    commentsToLikes: 0.075729
+    followers: 14313
+    engagement: 619
+    commentsToLikes: 0.079119
     id: ck6u0gfd2fjr50j71gd5v7q7w
     verified: false
-    hashtags: "#miamiartist, #newyear, #newmusicfridays, #sonymusic"
-  - username: "robert_pho"
+    hashtags: "#ghostwriter, #malesingers, #cdbaby, #musician"
+  - username: "bhens"
     fullname: >-
-      Robert Pho
+      Brian Henry 🌹 Tattoo 🥀
     location: "United States"
-    followers: 45383
-    engagement: 402
-    commentsToLikes: 0.031384
-    id: ck6tr001cvwpm0j719y9nzgv9
+    followers: 31528
+    engagement: 198
+    commentsToLikes: 0.028271
+    id: ck5zmf7fmmgmp0i14e4eftuc5
     verified: false
-    hashtags: "#carcollector, #japanesepioneer, #lasvegas, #leadthefollowers"
-  - username: "figabomba_waikiki_erika"
+    hashtags: "#greekgodtattoo, #dollypartonchallenge, #portrait, #coronavirus"
+  - username: "nickmatic_tattoos"
     fullname: >-
-      Erika Figabomba
+      Nick Matic
     location: "United States"
-    followers: 65896
-    engagement: 131
-    commentsToLikes: 0.010248
-    id: ck5hdui8ipfwo0i11zgv54azn
+    followers: 28543
+    engagement: 117
+    commentsToLikes: 0.018618
+    id: ck6tr02mivxi40j71ktyt58vv
     verified: false
-    hashtags: "#rolemodel, #transfarmer, #afropunk, #abandonedtrain"
-  - username: "kommienezuspadt"
+    hashtags: "#archives, #moneyrose, #firstlayer, #rose"
+  - username: "victordelfueyo"
     fullname: >-
-      Lars Kommienezuspadt
+      Victor del Fueyo de la Torre
     location: "United States"
-    followers: 38219
-    engagement: 332
-    commentsToLikes: 0.023946
-    id: ck0w1mpcpk3h30i19k3ilnfm8
+    followers: 34109
+    engagement: 260
+    commentsToLikes: 0.016840
+    id: ck8t55bzy8tuj0j78qnabec9c
     verified: false
-    hashtags: "#editorial, #curves, #goth, #newyorkcity"
-  - username: "nate_needles"
+    hashtags: "#skull, #drop, #face, #tattooartist"
+  - username: "zhimpamoreno"
     fullname: >-
-      Nate Needles
+      Zhimpa Moreno
     location: "United States"
-    followers: 27971
-    engagement: 205
-    commentsToLikes: 0.036863
-    id: ck6tr03d5vxnx0j71y63g4ua8
+    followers: 42110
+    engagement: 94
+    commentsToLikes: 0.020650
+    id: ck8svu53dcp6x0j78ohmzinvn
     verified: false
-    hashtags: "#blackandgreyallday, #downtownmelbourneflorida, #orlandoartists, #sleevetattoos"
+    hashtags: "#tattooportrait, #tattooartist, #zhimpa, #stayhome"
+  - username: "yomicoart"
+    fullname: >-
+      Yomicoart
+    location: "United States"
+    followers: 614714
+    engagement: 145
+    commentsToLikes: 0.021267
+    id: ck5buu1goifx10i11a5w9aicg
+    verified: true
+    hashtags: "#sullenfamily"
+  - username: "adrian_lazaro"
+    fullname: >-
+      Grey Theory Studio
+    location: "United States"
+    followers: 72089
+    engagement: 116
+    commentsToLikes: 0.019301
+    id: ck8syz4dumkw80j786hiy4ey6
+    verified: false
+    hashtags: "#artista, #beautifulgirl, #adrianlazaro, #artoftheday"
   - username: "brianasista"
     fullname: >-
       Briana Sista
     location: "United States"
-    followers: 6430
-    engagement: 937
-    commentsToLikes: 0.083397
+    followers: 6391
+    engagement: 916
+    commentsToLikes: 0.082408
     id: ck5hshyh0wmqt0i11mvrw1kgl
     verified: false
-    hashtags: "#letsshoot, #bookme, #videoshoot, #italianmodel"
-  - username: "ajcrimson"
-    fullname: >-
-      AJCRIMSON
-    location: "United States"
-    followers: 104408
-    engagement: 46
-    commentsToLikes: 0.062536
-    id: ck0w5ujti5i9l0i19nznterxj
-    verified: true
-    hashtags: "#diahanncarroll, #makeup, #practice, #ncmua"
-  - username: "bobbycupparotattoos"
-    fullname: >-
-      Bobby Cupparo
-    location: "United States"
-    followers: 43689
-    engagement: 261
-    commentsToLikes: 0.035665
-    id: ck14lpzt4vwpp0i1941nc6kyu
-    verified: false
-    hashtags: "#losangeles, #newyorktattoo, #healedtattoos, #tattoos"
+    hashtags: "#actorslife, #newyorkmodels, #newyorkactor, #lilahbabe"
 ---

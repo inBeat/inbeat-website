@@ -1,59 +1,39 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In Austin In 2020
 description: >-
-  Find top cosmetics Instagram influencers in Austin in 2020. Most popular hashtags: #anastasiabeverlyhills #cosmetics #colourpopme #morphebabe.
+  Find top cosmetics Instagram influencers in Austin in 2020. Most popular hashtags: #cosmetics #nyxcosmetics #beauty #nature.
 platform: Instagram
 profiles:
-  - username: "jannaortiz1"
-    fullname: >-
-      𝙅𝘼𝙉𝙉𝘼 𝙊𝙍𝙏𝙄𝙕
-    location: "United States"
-    followers: 2686
-    engagement: 1700
-    commentsToLikes: 0.062274
-    id: ck5q6e1jrx0dy0i11ssc44sp5
-    verified: false
-    hashtags: "#forever21, #softmakeup, #moodygrams, #makeuplooks"
   - username: "rebeccaseals"
     fullname: >-
       Rebecca Seals
     location: "United States"
-    followers: 130052
-    engagement: 434
-    commentsToLikes: 0.057262
+    followers: 128743
+    engagement: 414
+    commentsToLikes: 0.055788
     id: ck15rdmg07elx0i19iacxrr1t
     verified: false
-    hashtags: "#abhhalloween19, #batmancosplay, #milkmakeup, #benefitcosmetics"
+    hashtags: "#christmasmakeup, #cherryblossoms, #koreanskincare, #daphneblake"
   - username: "lovelyysamantha"
     fullname: >-
       Samantha Nguyen
     location: "United States"
-    followers: 7252
-    engagement: 685
-    commentsToLikes: 0.248145
+    followers: 7072
+    engagement: 707
+    commentsToLikes: 0.213103
     id: ck5pzv63a2wlv0i119dagil0g
     verified: false
-    hashtags: "#anastasiabeverlyhills, #christmasmakeup, #halo, #bluemakeup"
-  - username: "bribri.tx"
+    hashtags: "#underratedmua, #jamescharles, #haus, #nyxcosmetics"
+  - username: "kimono_kat"
     fullname: >-
-      BRI🦋BRI
+      Mina / มีน่า
     location: "United States"
-    followers: 11139
-    engagement: 8717
-    commentsToLikes: 0.006379
-    id: ck6u66rgoduia0j71l3vezz2w
+    followers: 8459
+    engagement: 983
+    commentsToLikes: 0.286612
+    id: ck5q8fc225wis0i11f20hbd2o
     verified: false
-    hashtags: "#beautybakerie, #nyxcosmetics, #makeupblogger, #pictorials"
-  - username: "nailed_by_becky"
-    fullname: >-
-      BECKY WITH THE GOOD NAILS
-    location: "United States"
-    followers: 31258
-    engagement: 178
-    commentsToLikes: 0.036749
-    id: ck6tk5n3o41r70j71oizdxx9j
-    verified: false
-    hashtags: "#coffinshapenails, #feminism, #business, #jokes"
+    hashtags: "#poweredbyrose, #octoly, #soldejaneiro, #selfcarematters"
   - username: "dopenail_galleria"
     fullname: >-
       DM FOR $10 PROMO
@@ -63,45 +43,65 @@ profiles:
     commentsToLikes: 0.012190
     id: ck0vyj5j549aj0i19iu1nhnj2
     verified: false
-    hashtags: "#makeuplook, #maskara, #makeupinspo, #perfectnails"
-  - username: "derekjelliott"
+    hashtags: "#maccosmetics, #cosmetics, #nailartist, #nailartvideos"
+  - username: "flawlessbyamin"
     fullname: >-
-      Derek Elliott
+      Amin Kabani
     location: "United States"
-    followers: 10415
-    engagement: 845
-    commentsToLikes: 0.032758
-    id: ck5q6ipjsxjey0i11f1n6yi08
+    followers: 17011
+    engagement: 311
+    commentsToLikes: 0.044573
+    id: ck0ucasligdk30i19piu3wxxt
     verified: false
-    hashtags: "#animation, #neocon2020, #tiktok, #funny"
-  - username: "jessyjphoto"
+    hashtags: "#nobrows, #indonesia, #ebonymodel, #eyefordesign"
+  - username: "victoriahenley"
     fullname: >-
-      Jessy J Photo 📷
+      VICTORIA HENLEY
     location: "United States"
-    followers: 100430
-    engagement: 121
-    commentsToLikes: 0.034041
-    id: ck0w4gvtpyiaw0i19jh6pfwqy
+    followers: 26617
+    engagement: 213
+    commentsToLikes: 0.041262
+    id: ck6ufe1qdwhlr0j719pdgg1c0
     verified: false
-    hashtags: "#blackgirlmagic, #glowtopia, #dallasphotograpgher, #editorialbeauty"
-  - username: "esrassarikayaa"
-    fullname: >-
-      Esra Sarıkaya
-    location: "United States"
-    followers: 6906
-    engagement: 2296
-    commentsToLikes: 0.400928
-    id: ck5c8d6z898i20i11xp3oaquo
-    verified: false
-    hashtags: "#underratedmuas, #gothmakeup, #quarantinelife, #undiscovered"
+    hashtags: "#believe, #80sfashion, #edgy, #ocean"
   - username: "shotsbystoney"
     fullname: >-
       Shots by Stoney
     location: "United States"
-    followers: 2503
-    engagement: 1239
-    commentsToLikes: 0.094406
+    followers: 2459
+    engagement: 1177
+    commentsToLikes: 0.094256
     id: ck14j9ipfj8il0i192q4opkfr
     verified: false
-    hashtags: "#austinmua, #blackandwhite, #mensskincare, #houstonphotographer"
+    hashtags: "#pinkphoto, #makeupideas, #freshlook, #naturalhair"
+  - username: "audreylittie"
+    fullname: >-
+      Audrey Littie 🖤
+    location: "United States"
+    followers: 215977
+    engagement: 151
+    commentsToLikes: 0.012346
+    id: ck13aza9msx170i191ln5zwsw
+    verified: true
+    hashtags: "#haircut, #makeupparty, #shopmylook, #igstyle"
+  - username: "slokeone"
+    fullname: >-
+      
+    location: "United States"
+    followers: 19636
+    engagement: 210
+    commentsToLikes: 0.033761
+    id: ck13cxgxv2n8y0i19oiv40oeh
+    verified: false
+    hashtags: "#silver, #rysta, #piece, #diamonds"
+  - username: "schaebreezy_"
+    fullname: >-
+      Schae G
+    location: "United States"
+    followers: 2291
+    engagement: 1385
+    commentsToLikes: 0.106541
+    id: ck5pyl6xywjwv0i119cdpnaou
+    verified: false
+    hashtags: "#hudabeauty, #universomakeup, #beauty, #nudelip"
 ---

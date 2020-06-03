@@ -1,107 +1,107 @@
 ---
 title: Top 10 Food Instagram Influencers In San Antonio In 2020
 description: >-
-  Find top food Instagram influencers in San Antonio in 2020. Most popular hashtags: #sanantonio #foodporn #foodie #texas.
+  Find top food Instagram influencers in San Antonio in 2020. Most popular hashtags: #food #dessert #foodbeast #foodgasm.
 platform: Instagram
 profiles:
   - username: "thefoodiecouple"
     fullname: >-
       The Foodie Couple
     location: "United States"
-    followers: 28111
-    engagement: 106
-    commentsToLikes: 0.069713
+    followers: 27761
+    engagement: 97
+    commentsToLikes: 0.062983
     id: ck6ufibhgx84b0j71qr45gpiv
     verified: false
-    hashtags: "#foodphotography, #pizza, #foodblogger, #pizzalovers"
+    hashtags: "#chicagofoodie, #follow, #pizzalovers, #foodblog"
   - username: "sanantoniomunchies"
     fullname: >-
-      ALEX🍴
+      ALEX🍴          San Antonio TX
     location: "United States"
-    followers: 27185
-    engagement: 168
-    commentsToLikes: 0.047242
+    followers: 27512
+    engagement: 148
+    commentsToLikes: 0.175313
     id: ck5zsa5uty3ur0i14yi6ecmvh
     verified: false
-    hashtags: "#corona, #quarantineandchill, #eater, #chinese"
-  - username: "jenniferbroometv"
+    hashtags: "#spaghetti, #taquitos, #hamburger, #macaron"
+  - username: "comicsinmybirkin"
     fullname: >-
-      Jennifer Broome
+      NYC TinstaKRAM 📸
     location: "United States"
-    followers: 33748
-    engagement: 136
-    commentsToLikes: 0.016565
-    id: ck5cdm9w5je9a0i11yqo8oaez
+    followers: 19139
+    engagement: 264
+    commentsToLikes: 0.024891
+    id: ckaozvumenmsd0i781t8lp6f8
     verified: false
-    hashtags: "#alonetogether, #stayingawayfrompeople, #timeoutside, #denver"
+    hashtags: "#newyorkfood, #nycfoodie, #frenchcuisine, #leather"
+  - username: "alatte.toeat"
+    fullname: >-
+      Coffee & Food | Houston
+    location: "United States"
+    followers: 2443
+    engagement: 2886
+    commentsToLikes: 0.214539
+    id: ck6tmpbdc89ne0j71jgf880dx
+    verified: false
+    hashtags: "#nationalpizzaday, #sorrynosalad, #foodblogger, #dailypizza"
   - username: "olivesnthyme"
     fullname: >-
       megan | food + photography
     location: "United States"
-    followers: 14099
-    engagement: 742
-    commentsToLikes: 0.075959
+    followers: 19451
+    engagement: 857
+    commentsToLikes: 0.090526
     id: ck6uc1uved0830j714869f2ca
     verified: false
-    hashtags: "#thebakefeed, #pomitomatoes, #monini, #potsandco"
-  - username: "missplanetguyana"
+    hashtags: "#thecookfeed, #allthechocolate, #surlatable, #makemore"
+  - username: "abeeveryday"
     fullname: >-
-      Miss San Antonio US 2020
+      Abraham | Donut Connoisseur
     location: "United States"
-    followers: 6014
-    engagement: 592
-    commentsToLikes: 0.069526
+    followers: 7136
+    engagement: 644
+    commentsToLikes: 0.146045
+    id: ck5pzsgf82iyd0i11bt9qj55g
+    verified: false
+    hashtags: "#lickyourphone, #drake, #safoodpics, #date"
+  - username: "misssanantonious2020"
+    fullname: >-
+      Miss Guyana 2020 👑
+    location: "United States"
+    followers: 6046
+    engagement: 579
+    commentsToLikes: 0.070729
     id: ck6u4j0sy3ztk0j710is8q2s2
     verified: false
-    hashtags: "#devon, #artists, #marketingtip, #fashionmodel"
-  - username: "eldereats"
+    hashtags: "#branding, #skincare, #cleanbeauty, #pleasedonate"
+  - username: "instasatx"
     fullname: >-
-      David Elder | ABC KSAT 12 News
+      San Antonio Adventures
     location: "United States"
-    followers: 22460
-    engagement: 322
-    commentsToLikes: 0.037813
-    id: ck5q7ahjl0mea0i110a3gm76c
+    followers: 18052
+    engagement: 232
+    commentsToLikes: 0.151978
+    id: ck5q7af6y0m2p0i11ergzyk9l
     verified: false
-    hashtags: "#nom, #sanantonio, #tigerking, #mixeddrinks"
-  - username: "maleiamargaret"
+    hashtags: "#sanantoniostrong, #tacotuesday, #earthday, #stayhome"
+  - username: "matthagee"
     fullname: >-
-      MALEIA 🌻 𝓣𝓻𝓪𝓿𝓮𝓵 𝔁 𝓢𝓽𝔂𝓵𝓮 𝓑𝓵𝓸𝓰
+      Pastor Matt Hagee
     location: "United States"
-    followers: 10503
-    engagement: 824
-    commentsToLikes: 0.045161
-    id: ck6u6f0b7f7wk0j71y9fjthyi
-    verified: false
-    hashtags: "#ucfeats, #happynewyear, #travelcouple, #wanderlust"
-  - username: "busybeingshasha"
+    followers: 48870
+    engagement: 160
+    commentsToLikes: 0.031673
+    id: ck5zoh6riqk3h0i14kxas9gny
+    verified: true
+    hashtags: "#blessing, #celebrate, #conversations, #declareit"
+  - username: "fightromeofight"
     fullname: >-
-      Shasha | Busy Being Shasha
+      Romeo Alvarado
     location: "United States"
-    followers: 26186
-    engagement: 188
-    commentsToLikes: 0.030181
-    id: ck8t0hr2ts3m50j78a5wsyu6h
+    followers: 25611
+    engagement: 329
+    commentsToLikes: 0.020029
+    id: ck8t9g8wxnz650j78xeb0jek0
     verified: false
-    hashtags: "#mommyblogger, #thehappynow, #instaworthy, #texasblogger"
-  - username: "greatfullgirl"
-    fullname: >-
-      Vegan Lifestyle Blogger 🌱
-    location: "United States"
-    followers: 6516
-    engagement: 615
-    commentsToLikes: 0.101912
-    id: ck6tymgp34lru0j71iy7lkwfb
-    verified: false
-    hashtags: "#sundaythoughts, #oahu, #hawaii, #travelhawaii"
-  - username: "eatingatx"
-    fullname: >-
-      EatingATX
-    location: "United States"
-    followers: 97665
-    engagement: 168
-    commentsToLikes: 0.161446
-    id: ck0w21xkdm8qh0i19t13ljmoh
-    verified: false
-    hashtags: "#nationalmargaritaday, #visitsanantonio, #hiltonpalacio, #tacotuesday"
+    hashtags: "#kyleoreilly, #jackson, #niajax, #chrisjericho"
 ---

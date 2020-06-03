@@ -1,107 +1,107 @@
 ---
 title: Top 10 Athletes Instagram Influencers In Las Vegas In 2020
 description: >-
-  Find top athletes Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #athlete #fitness #quarantine.
+  Find top athletes Instagram influencers in Las Vegas in 2020. Most popular hashtags: #lasvegas #birthday #fitness #glutes.
 platform: Instagram
 profiles:
-  - username: "saydaword"
+  - username: "whitneyjones_ifbbpro"
     fullname: >-
-      SAYDA WORD
+      IFBB PRO WHITNEY JONES
     location: "United States"
-    followers: 113914
-    engagement: 272
-    commentsToLikes: 0.044800
-    id: ck5cjqw1fvawz0i11gaaxmabo
-    verified: false
-    hashtags: "#newdancetrend, #kobeandgigi, #dresstoimpress, #fullbodyworkout"
-  - username: "ufcpi"
-    fullname: >-
-      UFC Performance Institute
-    location: "United States"
-    followers: 81501
-    engagement: 293
-    commentsToLikes: 0.014773
-    id: ck0txb3w3ikb90i19vdtxwbjn
+    followers: 115456
+    engagement: 61
+    commentsToLikes: 0.059249
+    id: ck0tsrysk0cc50i19mz98zuj6
     verified: true
-    hashtags: "#canelovsjacobs, #vegas, #missyouguys, #dominickcruz"
-  - username: "jmicky_19"
+    hashtags: "#uggghhh, #mrolympia, #muscles, #surgefam"
+  - username: "rickylvfitmodel"
     fullname: >-
-      Jaydon Mickens
+      Ricky
     location: "United States"
-    followers: 40183
-    engagement: 490
-    commentsToLikes: 0.026210
-    id: ck6u2kv64se4z0j71q5d7rwts
-    verified: true
-    hashtags: "#foodiefitathlete, #justtappedin, #gobucs, #justgettingstarted"
-  - username: "taliajade_m9"
-    fullname: >-
-      Talia Jade Marino
-    location: "United States"
-    followers: 9721
-    engagement: 548
-    commentsToLikes: 0.073096
-    id: ck6tnm868a4js0j71n7lt9977
+    followers: 5128
+    engagement: 1206
+    commentsToLikes: 0.035458
+    id: ckap1sz1hw0490i786yhj1gqg
     verified: false
-    hashtags: "#pixiepolefitness, #training, #cuban, #passion"
-  - username: "pottheiser"
+    hashtags: "#editorial, #semperfi, #shutterclickphx, #modusvivendi"
+  - username: "gablagman"
     fullname: >-
-      Jennifer Pottheiser
+      Gab Lagman
     location: "United States"
-    followers: 7975
-    engagement: 307
-    commentsToLikes: 0.026551
-    id: ck139kgtclr6o0i19iwceuxqk
+    followers: 366283
+    engagement: 596
+    commentsToLikes: 0.005245
+    id: ck5cazaa1eex70i11msnn3fp4
     verified: false
-    hashtags: "#caseycizikas, #jersey, #blessing, #thingsthatnevergetold"
-  - username: "raquelpaaluhi"
+    hashtags: "#angkasph, #sundayfunday, #flashbackfriday, #fambam"
+  - username: "laurenfogle10"
     fullname: >-
-      Raquel Canuto
+      lauren fogle
     location: "United States"
-    followers: 32693
-    engagement: 270
-    commentsToLikes: 0.037172
-    id: ck5hrum5pvib10i11aan91en9
-    verified: true
-    hashtags: "#jiujitsu, #pistol, #singleg, #dedication"
+    followers: 15691
+    engagement: 277
+    commentsToLikes: 0.037948
+    id: ckap6e1s3fi8n0i78jq34kkp5
+    verified: false
+    hashtags: "#blond, #beautiful, #workflow, #superhero"
+  - username: "oh_em_giiii"
+    fullname: >-
+      | Gina Capriotti | Model
+    location: "United States"
+    followers: 48872
+    engagement: 485
+    commentsToLikes: 0.064005
+    id: ck5qe9q0gze0s0i11z51fxlxz
+    verified: false
+    hashtags: "#delcogirl, #birthdayboy, #arch, #bemine"
   - username: "fridapaulsen"
     fullname: >-
       Frida Paulsen Stern
     location: "United States"
-    followers: 171316
-    engagement: 277
-    commentsToLikes: 0.033670
+    followers: 168904
+    engagement: 296
+    commentsToLikes: 0.031321
     id: ck6u6k76dg2ha0j71khwkf1o8
     verified: false
-    hashtags: "#arnoldclassic, #bikiniinternational, #flashbackfriday, #workout"
+    hashtags: "#1year, #abs, #tb, #memories"
   - username: "kelseyplum10"
     fullname: >-
       Kelsey Plum
     location: "United States"
-    followers: 304158
-    engagement: 1073
-    commentsToLikes: 0.008637
+    followers: 305358
+    engagement: 1072
+    commentsToLikes: 0.008385
     id: ck5hf8s5fwc4y0i11lz5a2ir9
     verified: true
-    hashtags: "#refreshyourgame, #homecoming, #openfordelivery"
+    hashtags: "#justwatch, #allin, #refreshyourgame, #homecoming"
+  - username: "ufcpi"
+    fullname: >-
+      UFC Performance Institute
+    location: "United States"
+    followers: 84644
+    engagement: 271
+    commentsToLikes: 0.015915
+    id: ck0txb3w3ikb90i19vdtxwbjn
+    verified: true
+    hashtags: "#cruzalliance, #mma, #gymnastics, #vegas"
+  - username: "semir_jasarevic"
+    fullname: >-
+      Semir Jasarevic
+    location: "United States"
+    followers: 99531
+    engagement: 308
+    commentsToLikes: 0.036696
+    id: ck9webzzejm4y0j784j7y3vka
+    verified: false
+    hashtags: ""
   - username: "aaijai"
     fullname: >-
       AJ Montgomery
     location: "United States"
-    followers: 8587
-    engagement: 1284
-    commentsToLikes: 0.040362
+    followers: 8842
+    engagement: 1373
+    commentsToLikes: 0.043628
     id: ck6u7d2zfkt6r0j716onwjy4m
     verified: false
-    hashtags: "#china, #windowgaze, #priorities, #buildit"
-  - username: "lady_physique"
-    fullname: >-
-      IFBB Pro Victoria Flores
-    location: "United States"
-    followers: 17722
-    engagement: 317
-    commentsToLikes: 0.031593
-    id: ck8sx1rezfx6l0j78s08k0zs2
-    verified: false
-    hashtags: "#ronaabs, #noexcuses, #motivation, #biceps"
+    hashtags: "#fullmoon, #summervibes, #timetorecenter, #eternalbody"
 ---

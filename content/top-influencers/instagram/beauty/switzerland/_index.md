@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Switzerland In 2020
 description: >-
-  Find top beauty Instagram influencers in Switzerland in 2020. Most popular hashtags: #switzerland #photography #ad #swiss.
+  Find top beauty Instagram influencers in Switzerland in 2020. Most popular hashtags: #stayhome #sunkissed #love #colourcollection.
 platform: Instagram
 profiles:
+  - username: "di_aaanaa"
+    fullname: >-
+      D.M. ✨ Sankt Gallen 🔁 Belgrade
+    location: "Switzerland"
+    followers: 17005
+    engagement: 660
+    commentsToLikes: 0.199051
+    id: ck8szi6dzojfh0j78tksrkwv9
+    verified: false
+    hashtags: "#22weeks, #yummyday, #happyester, #takecareofyou"
   - username: "massixda"
     fullname: >-
       Massimo
     location: "Switzerland"
-    followers: 28936
-    engagement: 550
-    commentsToLikes: 0.076829
+    followers: 29668
+    engagement: 406
+    commentsToLikes: 0.101853
     id: ck6u3kk6tybjm0j71mr7mpp06
     verified: false
-    hashtags: "#trowback, #marrakech, #seyu, #switzerland"
-  - username: "notanotherbasicbitch__"
+    hashtags: "#radicalskincare, #marrakech, #throwback, #ad"
+  - username: "iamclaudiadias"
     fullname: >-
-      FRANZISKA MEULI
+      𝒞𝓁𝒶𝓊𝒹𝒾𝒶 𝒟𝒾𝒶𝓈
     location: "Switzerland"
-    followers: 22553
-    engagement: 808
-    commentsToLikes: 0.057972
-    id: ck0vyq7oo59440i19c6n7vt8y
+    followers: 12516
+    engagement: 1125
+    commentsToLikes: 0.062534
+    id: ck6tyrotj5gm20j71vxml8uxh
     verified: false
-    hashtags: "#teethbleaching, #berlin, #foreheadkisses, #beautyadressesoftheday"
-  - username: "dalila.kaci"
+    hashtags: "#makeupchallenge, #dontrushchallenge, #girlpower, #passatempo"
+  - username: "anaisindra"
     fullname: >-
-      D A L I L A
+      Anaïs indra
     location: "Switzerland"
-    followers: 5442
-    engagement: 976
-    commentsToLikes: 0.064512
-    id: ck0w75ve8bwsx0i19o9tkf9ld
+    followers: 17952
+    engagement: 478
+    commentsToLikes: 0.173954
+    id: ck5hppilnrraf0i11zqlwvmc6
     verified: false
-    hashtags: "#springshades, #chanel, #ad, #veromoda"
+    hashtags: "#hairtutorial, #positivevibes, #eoxxserum, #ghdde"
+  - username: "dilekpacacioglu"
+    fullname: >-
+      D I L E K  P A C A C I O G L U
+    location: "Switzerland"
+    followers: 68765
+    engagement: 1040
+    commentsToLikes: 0.016849
+    id: ck9hak5yhcu5o0j78dnegpc1i
+    verified: false
+    hashtags: "#fashionlover, #outfit, #portrait, #love"
   - username: "thechicadvocate"
     fullname: >-
-      Priscilla Schürch 🖤
+      Priscilla Schürch 🖤
     location: "Switzerland"
-    followers: 23809
-    engagement: 300
-    commentsToLikes: 0.147848
+    followers: 23762
+    engagement: 299
+    commentsToLikes: 0.126428
     id: ck55oajp27yxh0i11xgvnl6ut
     verified: false
-    hashtags: "#dior, #candle, #yankeecandleswitzerland, #couplegoals"
+    hashtags: "#cake, #becheeky, #nintendoswitch, #savethebees"
   - username: "kislukasss"
     fullname: >-
       Swiss Lifestyle Blog
     location: "Switzerland"
-    followers: 102619
-    engagement: 322
-    commentsToLikes: 0.047074
+    followers: 102097
+    engagement: 280
+    commentsToLikes: 0.042908
     id: ck0w6qacx9sdm0i19h4u172v9
     verified: false
-    hashtags: "#eliesaab, #loccitanech, #artfeaturehelp, #artsy"
-  - username: "anaisindra"
+    hashtags: "#shareart, #coronavirusmemes, #artistsoninstagram, #coronafashionweek"
+  - username: "dalila.kaci"
     fullname: >-
-      Anaïs indra
+      D A L I L A
     location: "Switzerland"
-    followers: 17319
-    engagement: 448
-    commentsToLikes: 0.232400
-    id: ck5hppilnrraf0i11zqlwvmc6
+    followers: 5506
+    engagement: 978
+    commentsToLikes: 0.063990
+    id: ck0w75ve8bwsx0i19o9tkf9ld
     verified: false
-    hashtags: "#sun, #giuseppezanotti, #shoegiveaway, #instadaily"
-  - username: "darkonyyx"
+    hashtags: "#chanel"
+  - username: "valeriesaprincess"
     fullname: >-
-      Anavrin
+      VALÉRIE GRAND
     location: "Switzerland"
-    followers: 5777
-    engagement: 714
-    commentsToLikes: 0.079364
-    id: ck5q2yaxyicz20i1179gwn3po
+    followers: 121796
+    engagement: 359
+    commentsToLikes: 0.023173
+    id: ck0vw0a8crj4p0i19gaqh7taj
     verified: false
-    hashtags: "#ir, #blondhair, #portaitsinspire, #cocacola"
-  - username: "raphaela_samine"
+    hashtags: "#plantpower, #switzerland, #veganlifestyle, #novababe"
+  - username: "artawho"
     fullname: >-
-      RAPHAELA SAMINE
+      Arta M.
     location: "Switzerland"
-    followers: 20319
-    engagement: 267
-    commentsToLikes: 0.080852
-    id: ck0w0sdagfsvh0i197p2yi7m9
+    followers: 30340
+    engagement: 504
+    commentsToLikes: 0.026720
+    id: ck14j2ydwid430i195nst58zx
     verified: false
-    hashtags: "#influencer, #moody, #portraitoftheday, #workout"
-  - username: "always_travelynn"
-    fullname: >-
-      Lynn  ✈️ 🌎
-    location: "Switzerland"
-    followers: 6544
-    engagement: 1648
-    commentsToLikes: 0.156424
-    id: ck5pvgenqhr500i11wly585dp
-    verified: false
-    hashtags: "#irelandtravel, #newzealand, #norway2day, #travelgram"
-  - username: "quentindecaillet"
-    fullname: >-
-      Quentin Decaillet Photographer
-    location: "Switzerland"
-    followers: 23726
-    engagement: 298
-    commentsToLikes: 0.020998
-    id: ck5pydesfvh5p0i119ygd47nm
-    verified: false
-    hashtags: "#retoucher, #redlipstick, #swissphotographer, #beautymodel"
+    hashtags: "#quarant, #stayathome, #weekend, #weekendmood"
 ---

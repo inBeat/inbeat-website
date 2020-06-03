@@ -1,107 +1,107 @@
 ---
 title: Top 10 Gardening Instagram Influencers In Berlin In 2020
 description: >-
-  Find top gardening Instagram influencers in Berlin in 2020. Most popular hashtags: #livingroom #interior #gardening #plants.
+  Find top gardening Instagram influencers in Berlin in 2020. Most popular hashtags: #gardening #love #berlin #weekendmood.
 platform: Instagram
 profiles:
-  - username: "botanicart"
-    fullname: >-
-      Botanic Art
-    location: "Germany"
-    followers: 4380
-    engagement: 1677
-    commentsToLikes: 0.026858
-    id: ck8t6vl2beu900j785hb50dbk
-    verified: false
-    hashtags: "#fleurs, #hyacinths, #hyacinth, #floweraddict"
-  - username: "easyinterieur"
-    fullname: >-
-      M E L I K E
-    location: "Germany"
-    followers: 378137
-    engagement: 153
-    commentsToLikes: 0.046045
-    id: ck0u1fv1kwpy70i196jschgt7
-    verified: false
-    hashtags: "#194l, #nordichome, #whiteliving, #recipeoftheday"
-  - username: "sissihardenberg"
-    fullname: >-
-      Franzi Hardenberg
-    location: "Germany"
-    followers: 25073
-    engagement: 369
-    commentsToLikes: 0.040876
-    id: ck5zs2ifjxp8w0i14p5z40fw7
-    verified: true
-    hashtags: "#staystrong, #countryhome, #flowerlover, #supportsmallbusinesses"
-  - username: "eva_brenner_official"
-    fullname: >-
-      Eva Brenner
-    location: "Germany"
-    followers: 22294
-    engagement: 972
-    commentsToLikes: 0.048635
-    id: ck5zwg47962j00i143kh79h37
-    verified: false
-    hashtags: "#plantbased, #higherself, #endof2019, #designer"
-  - username: "lavieleonie"
-    fullname: >-
-      Leonie
-    location: "Germany"
-    followers: 6410
-    engagement: 990
-    commentsToLikes: 0.046629
-    id: ck15r021n5gnu0i19bx9ytfvx
-    verified: false
-    hashtags: "#goodtimes, #unisex, #chikogi, #plantsmakemehappy"
-  - username: "home_living_interior"
-    fullname: >-
-      NICOLE | INTERIORLOVER
-    location: "Germany"
-    followers: 100233
-    engagement: 298
-    commentsToLikes: 0.046797
-    id: ck6txxv5f0hfx0j71xcpuugpl
-    verified: false
-    hashtags: "#solebeich, #accessories, #stayathome, #jalousien"
-  - username: "nati_g_xo"
-    fullname: >-
-      Mindstyler
-    location: "Germany"
-    followers: 3293
-    engagement: 459
-    commentsToLikes: 0.064969
-    id: ck0vy2yms1zg50i19h545mg7t
-    verified: false
-    hashtags: "#feiern, #fokus, #business, #disneychristmas"
-  - username: "acreswildgardendesign"
-    fullname: >-
-      Acres Wild
-    location: "Germany"
-    followers: 9976
-    engagement: 395
-    commentsToLikes: 0.068928
-    id: ck6udpj4rmfj00j71633igum9
-    verified: false
-    hashtags: "#coronavirus, #natureinthecity, #covid, #nature"
   - username: "timlabenda"
     fullname: >-
       TIM LABENDA
     location: "Germany"
-    followers: 61627
-    engagement: 407
-    commentsToLikes: 0.018087
+    followers: 72774
+    engagement: 456
+    commentsToLikes: 0.008203
     id: ck0vya9yq2zl70i19o7n1hj0c
     verified: false
-    hashtags: "#decor, #weddingplanner, #iic, #portrait"
-  - username: "fraeuleinkrause"
+    hashtags: "#sundaybreakfast, #morocco, #greenery, #macarons"
+  - username: "benchpillow"
     fullname: >-
-      Sᴀsᴋɪᴀ | Sᴄʜʟᴇsᴡɪɢ﹣Hᴏʟsᴛᴇɪɴ
+      Benjamin Denkert
     location: "Germany"
-    followers: 3616
-    engagement: 1400
-    commentsToLikes: 0.163957
-    id: ck5pvjdr1i61k0i11tnwi41xk
+    followers: 10570
+    engagement: 1544
+    commentsToLikes: 0.017893
+    id: ck14kssb4r4u80i19lepvuygn
     verified: false
-    hashtags: "#iicfinallytimefor, #fuckcorona, #florida, #cozytime"
+    hashtags: "#evilspirits, #marvel, #fishinghook, #pierced"
+  - username: "sissihardenberg"
+    fullname: >-
+      Franzi Hardenberg
+    location: "Germany"
+    followers: 25548
+    engagement: 387
+    commentsToLikes: 0.024811
+    id: ck5zs2ifjxp8w0i14p5z40fw7
+    verified: true
+    hashtags: "#reducetothemax, #fathersday, #happymuttertag, #sundayfunday"
+  - username: "kateshyggehome"
+    fullname: >-
+      Kates Hygge Home
+    location: "Germany"
+    followers: 56974
+    engagement: 302
+    commentsToLikes: 0.012110
+    id: ck14kqsarqul20i19c0odb20w
+    verified: false
+    hashtags: "#ikeadeutschland, #svaln, #bedroominspo, #flur"
+  - username: "evaimhof"
+    fullname: >-
+      Eva Imhof
+    location: "Germany"
+    followers: 84927
+    engagement: 267
+    commentsToLikes: 0.054214
+    id: ck55nh4qz67dr0i11k9yoo5xv
+    verified: true
+    hashtags: "#elbepark, #geburtstag, #weekendmood, #familienliebe"
+  - username: "headofalittleunicorn"
+    fullname: >-
+      Esther-Klara Panter | 29 | 🤰🏼
+    location: "Germany"
+    followers: 22248
+    engagement: 727
+    commentsToLikes: 0.043363
+    id: ck6tu0rv9dnp20j71btpkdori
+    verified: false
+    hashtags: "#kinderspielzeug, #bakfiets, #momofthree, #newbeginnings"
+  - username: "sarahgronert"
+    fullname: >-
+      SARAH GRONERT
+    location: "Germany"
+    followers: 55145
+    engagement: 430
+    commentsToLikes: 0.031026
+    id: ck8t0eksxrswk0j78tmj1eco2
+    verified: true
+    hashtags: "#bikini2020, #hitthegym, #sunglasses, #eyebrows"
+  - username: "janhartmann_official"
+    fullname: >-
+      Jan Hartmann
+    location: "Germany"
+    followers: 31486
+    engagement: 358
+    commentsToLikes: 0.021668
+    id: ck134dpg8vxxz0i19fwep13qg
+    verified: true
+    hashtags: "#coldseason, #travel, #foodgram, #home"
+  - username: "vizemusicofficial"
+    fullname: >-
+      VIZE
+    location: "Germany"
+    followers: 27021
+    engagement: 241
+    commentsToLikes: 0.035898
+    id: ck55o6phj7r1c0i116nw89s28
+    verified: true
+    hashtags: "#traveltheworld, #djshows, #egglondon, #producer"
+  - username: "sinaensonadora"
+    fullname: >-
+      ✮  🎀  𝒮𝒾𝓃𝒶  🎀  ✮
+    location: "Germany"
+    followers: 11417
+    engagement: 996
+    commentsToLikes: 0.111638
+    id: ck136gwg76fvx0i19ne3h4qba
+    verified: false
+    hashtags: "#quoteoftheday, #angel, #goodvibes, #accessories"
 ---

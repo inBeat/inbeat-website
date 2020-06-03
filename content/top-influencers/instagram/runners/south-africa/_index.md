@@ -1,107 +1,107 @@
 ---
 title: Top 10 Runners Instagram Influencers In South Africa In 2020
 description: >-
-  Find top runners Instagram influencers in South Africa in 2020. Most popular hashtags: #southafrica #capetown #runpod #tokyo2020.
+  Find top runners Instagram influencers in South Africa in 2020. Most popular hashtags: #staysafe #2020 #stayhome #throwback.
 platform: Instagram
 profiles:
-  - username: "jborlee"
-    fullname: >-
-      Jo Borlee
-    location: "South Africa"
-    followers: 12668
-    engagement: 1110
-    commentsToLikes: 0.009843
-    id: ck8t0slaft5d90j78enhg9vbi
-    verified: false
-    hashtags: "#trainingcamp, #trackandfield, #himalaya, #europeanchampion"
-  - username: "kevborlee"
-    fullname: >-
-      Kevin Borlee
-    location: "South Africa"
-    followers: 16647
-    engagement: 865
-    commentsToLikes: 0.007845
-    id: ck8t0sl76t5c00j78xvm0khfk
-    verified: true
-    hashtags: "#englishbulldog, #teamjb, #tokyo2020, #roadtotokyo"
-  - username: "tamaryngreen"
-    fullname: >-
-      Tamaryn Green
-    location: "South Africa"
-    followers: 359547
-    engagement: 648
-    commentsToLikes: 0.006446
-    id: ck0vzxnmebdxd0i197n91m9on
-    verified: true
-    hashtags: "#westcoast, #fynbos, #tyingthetebow, #magical"
   - username: "abigailvisagie"
     fullname: >-
       Abigail Visagie
     location: "South Africa"
-    followers: 23475
-    engagement: 399
-    commentsToLikes: 0.025677
+    followers: 23514
+    engagement: 339
+    commentsToLikes: 0.038207
     id: ck5qdkvsvw2ua0i11anbvnrsb
     verified: false
-    hashtags: "#itsarush, #davidtlalexavon, #clarins, #skincare"
+    hashtags: "#ndc, #sponsored, #davidtlalexavon, #throwback"
+  - username: "jborlee"
+    fullname: >-
+      Jo Borlee
+    location: "South Africa"
+    followers: 12576
+    engagement: 1112
+    commentsToLikes: 0.012471
+    id: ck8t0slaft5d90j78enhg9vbi
+    verified: false
+    hashtags: "#southafrica, #europeanchampion, #vier, #decontainercup"
+  - username: "ziad_elsissy"
+    fullname: >-
+      Ziad Elsissy
+    location: "South Africa"
+    followers: 103198
+    engagement: 126
+    commentsToLikes: 0.038415
+    id: ck0vv1altn2x80i19nddi431c
+    verified: false
+    hashtags: "#timmorehousefencing, #elmafia, #dreamteam, #rabanayostor"
+  - username: "kevborlee"
+    fullname: >-
+      Kevin Borlee
+    location: "South Africa"
+    followers: 16748
+    engagement: 855
+    commentsToLikes: 0.008140
+    id: ck8t0sl76t5c00j78xvm0khfk
+    verified: true
+    hashtags: "#sa, #everest, #everestbasecamp, #teamjb"
   - username: "lauraweightman1"
     fullname: >-
       Laura Weightman
     location: "South Africa"
-    followers: 13144
-    engagement: 904
-    commentsToLikes: 0.016831
+    followers: 13486
+    engagement: 852
+    commentsToLikes: 0.016253
     id: ck0tuk8t57jgj0i19sr0j4w2r
     verified: true
-    hashtags: "#olympicday, #london2012, #mrsp, #internationalwomensday"
-  - username: "deen_woodman"
+    hashtags: "#coachpepper, #olympicday, #playfortheworld, #livingroomcup"
+  - username: "landiegreyling"
     fullname: >-
-      𝔻𝔼𝔼ℕ 𝕎𝕆𝕆𝔻𝕄𝔸ℕ
+      Landie
     location: "South Africa"
-    followers: 3601
-    engagement: 1353
-    commentsToLikes: 0.033169
-    id: ck5q1kbambelu0i11prh2t8g3
+    followers: 20980
+    engagement: 166
+    commentsToLikes: 0.019395
+    id: ck14jfrngk4260i19qajibxe6
     verified: false
-    hashtags: "#menstyle, #unforgettable, #futbol, #fitnessmotivation"
-  - username: "christelvdbergh"
+    hashtags: "#haveagoal, #healthythursday, #igniteyourfire, #simplerecipe"
+  - username: "thesweetrebellion"
     fullname: >-
-      Christel van den Bergh
+      The Sweet Rebellion
     location: "South Africa"
-    followers: 26349
-    engagement: 254
-    commentsToLikes: 0.014802
-    id: ck13d6jfe3x7z0i19k7231r8s
+    followers: 18077
+    engagement: 380
+    commentsToLikes: 0.084665
+    id: ck9h9rhno9o800j78zlvuui8v
     verified: false
-    hashtags: "#onfire, #skonekaap, #maat, #familie"
+    hashtags: "#strongertogether, #coronavirus, #localbrands, #femaletribe"
   - username: "dancarter"
     fullname: >-
       Dan Carter
     location: "South Africa"
-    followers: 26981
-    engagement: 512
-    commentsToLikes: 0.039141
+    followers: 27158
+    engagement: 528
+    commentsToLikes: 0.042138
     id: ck5ch9a7vqc5b0i111b7f24u5
     verified: false
-    hashtags: "#lumixs1, #shotinmyworld, #sydney, #fossilstyle"
-  - username: "jennifalconer"
+    hashtags: "#newzealand, #piha, #freedomday, #burundi"
+  - username: "deen_woodman"
     fullname: >-
-      Jenni Falconer
+      𝔻𝔼𝔼ℕ 𝕎𝕆𝕆𝔻𝕄𝔸ℕ
     location: "South Africa"
-    followers: 175880
-    engagement: 120
-    commentsToLikes: 0.039942
-    id: ck1390fi4iwzy0i19n5qs6hve
-    verified: true
-    hashtags: "#stayhealthy, #healthandfitness, #invarley, #porridge"
-  - username: "genesismary.d"
+    followers: 3713
+    engagement: 1329
+    commentsToLikes: 0.034693
+    id: ck5q1kbambelu0i11prh2t8g3
+    verified: false
+    hashtags: "#mhdailylockdownchallenge, #coronavirus, #stayhomebirthday2020, #quarantineandchill"
+  - username: "lifeofmikeza"
     fullname: >-
-      Génesis Mary Dávila Pérez
+      Mike Eloff
     location: "South Africa"
-    followers: 54554
-    engagement: 47
-    commentsToLikes: 0.064931
-    id: ck6tpofl8l5y80j712hqayryj
-    verified: true
-    hashtags: "#bestfriends, #seeyouguyssoon, #2020, #curlyhair"
+    followers: 65923
+    engagement: 200
+    commentsToLikes: 0.041590
+    id: ck0ttipo72w7w0i1977llmyp6
+    verified: false
+    hashtags: "#21daylockdownsa, #dronestagram, #campsbay, #travelgoals"
 ---

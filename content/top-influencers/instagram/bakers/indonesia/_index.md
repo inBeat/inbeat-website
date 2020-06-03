@@ -1,107 +1,107 @@
 ---
 title: Top 10 Bakers Instagram Influencers In Indonesia In 2020
 description: >-
-  Find top bakers Instagram influencers in Indonesia in 2020. Most popular hashtags: #dirumahaja #oppakuliner #bakmi #dessert.
+  Find top bakers Instagram influencers in Indonesia in 2020. Most popular hashtags: #pastry #cake #stayhome #dirumahaja.
 platform: Instagram
 profiles:
+  - username: "amieardhini"
+    fullname: >-
+      Amie Ardhini
+    location: "Indonesia"
+    followers: 6101
+    engagement: 688
+    commentsToLikes: 0.056589
+    id: ckaoxpwa9eaes0i78anekvuz0
+    verified: false
+    hashtags: "#mcjakarta, #islamituindah, #fyi, #beforeonair"
   - username: "ameliamci6"
     fullname: >-
-      Christina Amelia Chuatan
+      Christina Amelia Chuatan 🐢
     location: "Indonesia"
-    followers: 10843
-    engagement: 1001
-    commentsToLikes: 0.010348
+    followers: 25258
+    engagement: 795
+    commentsToLikes: 0.011646
     id: ck8swibg8e6oo0j78ghuoa9bo
     verified: false
-    hashtags: "#flattenthecurve, #throwback, #getreadywithme, #enaksampeotak"
+    hashtags: "#flattenthecurve, #throwback, #nastarpremium, #kreasiichitan"
+  - username: "franciscaevelyne"
+    fullname: >-
+      Francisca Evelyne
+    location: "Indonesia"
+    followers: 22227
+    engagement: 222
+    commentsToLikes: 0.017628
+    id: ck9wfc214o70z0j78s05x4gdx
+    verified: false
+    hashtags: "#throwback"
+  - username: "beagleoneism"
+    fullname: >-
+      Duke Of Hijinx
+    location: "Indonesia"
+    followers: 235221
+    engagement: 233
+    commentsToLikes: 0.023671
+    id: ck0tyv0v0o68k0i196q54p045
+    verified: false
+    hashtags: "#brainfloss, #skateathomechallenge, #weekendwarriors, #thebeaglesinbali"
+  - username: "ashleemane"
+    fullname: >-
+      Ashlee Mane IFBB Pro
+    location: "Indonesia"
+    followers: 59321
+    engagement: 215
+    commentsToLikes: 0.027521
+    id: ck5q5gq9fst4o0i118tuvstw5
+    verified: false
+    hashtags: "#saam, #happycincodemayo, #protectivehairstyles, #dickenson"
   - username: "icenguik"
     fullname: >-
       𝐊𝐈𝐓𝐂𝐇𝐄𝐍 𝐄𝐗𝐏𝐄𝐑𝐈𝐌𝐄𝐍𝐓𝐀𝐋𝐈𝐒𝐓
     location: "Indonesia"
-    followers: 136691
-    engagement: 90
-    commentsToLikes: 0.036405
+    followers: 175879
+    engagement: 70
+    commentsToLikes: 0.036678
     id: ck0w6gjtm8ggc0i19enz5pqsm
     verified: false
-    hashtags: "#sourdough, #japaneseshokupan, #realbread, #dalgonacoffee"
-  - username: "oppakuliner"
+    hashtags: "#breadscoring, #17052020, #sourdoughshokupan, #realbread"
+  - username: "jihanmuse"
     fullname: >-
-      Salim - Food & Travel
+      JIHAN MUSE
     location: "Indonesia"
-    followers: 50534
-    engagement: 66
-    commentsToLikes: 0.135124
-    id: ck6twvyruuetp0j717hogklhs
-    verified: false
-    hashtags: "#foodiesia, #martabak, #sourdough, #onezo"
-  - username: "eat.time.story"
-    fullname: >-
-      @ailytantono
-    location: "Indonesia"
-    followers: 38584
-    engagement: 190
-    commentsToLikes: 0.050700
-    id: ck5q85y2x4loe0i11hzi5ndq2
-    verified: false
-    hashtags: "#asiafoodporn, #corona, #sunnygoldmagda, #berjutamenunya"
-  - username: "cchannel_id"
-    fullname: >-
-      C CHANNEL Indonesia
-    location: "Indonesia"
-    followers: 878115
-    engagement: 52
-    commentsToLikes: 0.008075
-    id: ck13bdvlyuydx0i19ujhwu1ru
+    followers: 2928967
+    engagement: 78
+    commentsToLikes: 0.015982
+    id: ck6u10nr4iupp0j71fu85cykx
     verified: true
-    hashtags: "#menumanis, #jelly, #hairstyles, #cchannelbeautyid"
-  - username: "aldooolim"
-    fullname: >-
-      aldo lim 👽
-    location: "Indonesia"
-    followers: 119875
-    engagement: 1427
-    commentsToLikes: 0.027304
-    id: ck0w6q7mv9s3n0i19wo0wi2sy
-    verified: false
-    hashtags: "#jimin, #coldbrew, #syukuranorca, #rm"
+    hashtags: "#peachpie, #stayhome, #fadbocey, #lebihlajudarimaid"
   - username: "siscacendana"
     fullname: >-
       siscacendana
     location: "Indonesia"
-    followers: 112276
-    engagement: 2236
-    commentsToLikes: 0.021991
+    followers: 134107
+    engagement: 1930
+    commentsToLikes: 0.020680
     id: ck5zlxfxkljgg0i14yvoc9h1d
     verified: false
-    hashtags: ""
-  - username: "eagle_03_adam"
+    hashtags: "#beatitsingit, #pubgmobileid, #jooxid"
+  - username: "aubrybeer"
     fullname: >-
-      Callsign_E03A
+      Aubry Beer
     location: "Indonesia"
-    followers: 13328
-    engagement: 372
-    commentsToLikes: 0.030905
-    id: ck0tzl3u3qpz80i19ay3go82l
+    followers: 50250
+    engagement: 200
+    commentsToLikes: 0.019035
+    id: ck6twwb1suguj0j71djpnsul9
     verified: false
-    hashtags: "#airsoftuk, #airsoftfeatures, #military, #airsoftobsessed"
-  - username: "kykuu"
+    hashtags: "#dirumahterusterhibur, #tedbakerss2020collection, #mc, #cosmopolitan"
+  - username: "elena.naumova_"
     fullname: >-
-      𝐀𝐧𝐚𝐬𝐭𝐚𝐬𝐢𝐚 𝐇𝐞𝐫𝐳𝐢𝐠𝐨𝐯𝐚 𝐏𝐚𝐦𝐮𝐧𝐠𝐤𝐚𝐬
+      Elena Naumova
     location: "Indonesia"
-    followers: 130634
-    engagement: 284
-    commentsToLikes: 0.012907
-    id: ck6tjfv8f2mzr0j716dfbnded
-    verified: true
-    hashtags: "#missdiorforlove, #missdiorrosenroses, #tedbakerindonesia, #calcium"
-  - username: "jevinjulian"
-    fullname: >-
-      
-    location: "Indonesia"
-    followers: 296784
-    engagement: 202
-    commentsToLikes: 0.014927
-    id: ck15psq4zzgpe0i19wn5tm5gr
-    verified: true
-    hashtags: "#dibawahlangitoranye, #besok, #dibawahlangitoranye, #2moredays"
+    followers: 116080
+    engagement: 243
+    commentsToLikes: 0.046134
+    id: ck0w0oy47fblu0i19xfwlkg74
+    verified: false
+    hashtags: "#marshmello, #instacake, #instafood, #cakelovers"
 ---

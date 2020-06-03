@@ -1,107 +1,107 @@
 ---
 title: Top 10 Beauty Instagram Influencers In Colombia In 2020
 description: >-
-  Find top beauty Instagram influencers in Colombia in 2020. Most popular hashtags: #makeup #fashion #quedateencasa #cuarentena.
+  Find top beauty Instagram influencers in Colombia in 2020. Most popular hashtags: #makeup #yomequedoencasa #makeupideas #model.
 platform: Instagram
 profiles:
-  - username: "fatimakeupstudio"
-    fullname: >-
-      FATIMA MOURTADA ♡
-    location: "Colombia"
-    followers: 29829
-    engagement: 698
-    commentsToLikes: 0.128434
-    id: ck15sfs30csp80i19bvsgdqqg
-    verified: false
-    hashtags: "#cutcrease, #bride, #makeup, #redlips"
   - username: "davidvisuals_ph"
     fullname: >-
       David Pinilla
     location: "Colombia"
-    followers: 33709
-    engagement: 979
-    commentsToLikes: 0.037038
+    followers: 37964
+    engagement: 847
+    commentsToLikes: 0.111113
     id: ck5hmy57bmuih0i11uont2ws2
     verified: false
-    hashtags: "#igpodium, #sonyimages, #earth, #collectivetrend"
-  - username: "siad_keren"
+    hashtags: "#sonyimages, #igpodium, #ftwotw, #ftmedd"
+  - username: "jessica.zabala"
     fullname: >-
-      Keren Siad Aldana
+      Jessica Zabala
     location: "Colombia"
-    followers: 30684
-    engagement: 429
-    commentsToLikes: 0.179681
-    id: ck6u5wzhac8lg0j71fdxqo6i5
-    verified: false
-    hashtags: "#martes, #encasa, #italia, #espa"
-  - username: "adrianaduque44"
-    fullname: >-
-      Adriana Duque
-    location: "Colombia"
-    followers: 25752
-    engagement: 840
-    commentsToLikes: 0.023572
-    id: ck6u8vgaitx8n0j719324nay2
+    followers: 59094
+    engagement: 1461
+    commentsToLikes: 0.029326
+    id: ck9wghcvxtf430j788scdohfk
     verified: false
     hashtags: ""
-  - username: "manumontoz"
+  - username: "siad_keren"
     fullname: >-
-      MANU MONTOYA🦋
+      Siad Aldana
     location: "Colombia"
-    followers: 436880
-    engagement: 185
-    commentsToLikes: 0.029507
-    id: ck5zutgbp30cx0i14hmrkznmq
+    followers: 31649
+    engagement: 387
+    commentsToLikes: 0.395641
+    id: ck6u5wzhac8lg0j71fdxqo6i5
     verified: false
-    hashtags: "#abh, #instagirls, #makeupmoodboards, #lipicing"
+    hashtags: "#makeup, #gainpost, #casa, #mexico"
+  - username: "fatimakeupstudio"
+    fullname: >-
+      FATIMA MOURTADA ♡
+    location: "Colombia"
+    followers: 32528
+    engagement: 574
+    commentsToLikes: 0.036928
+    id: ck15sfs30csp80i19bvsgdqqg
+    verified: false
+    hashtags: "#eyelineronpoint, #lila, #eyeliner, #orange"
   - username: "felipemartinezfotografia"
     fullname: >-
       Felipe Martínez
     location: "Colombia"
-    followers: 10471
-    engagement: 525
-    commentsToLikes: 0.159330
+    followers: 10735
+    engagement: 545
+    commentsToLikes: 0.145614
     id: ck6tuwaf1is8p0j71j0hxf65u
     verified: false
-    hashtags: "#makeupideas, #photooftheday, #headshot, #felipemartinezfotografia"
-  - username: "paokatan"
+    hashtags: "#models, #instagramer, #catrinamexicana, #textura"
+  - username: "adrianaduque44"
     fullname: >-
-      Paola Katan
+      Adriana Duque
     location: "Colombia"
-    followers: 14711
-    engagement: 401
-    commentsToLikes: 0.064103
-    id: ck15u84ublvw30i19laidux05
+    followers: 27780
+    engagement: 668
+    commentsToLikes: 0.020399
+    id: ck6u8vgaitx8n0j719324nay2
     verified: false
-    hashtags: "#pantalonnegro, #faldanaranja, #amigos, #paz"
+    hashtags: ""
+  - username: "carolinalgg"
+    fullname: >-
+      C A R O L I N A    G Ó M E Z ☆
+    location: "Colombia"
+    followers: 39953
+    engagement: 344
+    commentsToLikes: 0.112828
+    id: ck8tcvfbv0u3j0j78355yt6t5
+    verified: false
+    hashtags: "#pereira, #beautytips, #esperando, #collage"
+  - username: "sara_castillo_de_arena"
+    fullname: >-
+      Sara Castillo Lombardi
+    location: "Colombia"
+    followers: 50372
+    engagement: 132
+    commentsToLikes: 0.146724
+    id: ck5zut3dx2zny0i14p69ts4x1
+    verified: false
+    hashtags: "#hoym, #bolivia, #playalosangeles, #voypormas"
   - username: "tatianaortega19"
     fullname: >-
       Tatiana Ortega 🌸
     location: "Colombia"
-    followers: 521262
-    engagement: 1256
-    commentsToLikes: 0.004631
+    followers: 862732
+    engagement: 1031
+    commentsToLikes: 0.004690
     id: ck8sx9h4jgljc0j78j16hxqvd
     verified: false
     hashtags: "#mevuelveslocoremix, #yomequedoencasa"
-  - username: "camipinb"
+  - username: "cristinavivesj"
     fullname: >-
-      C a m i  P i n
+      Makeup • Beauty • Lifestyle
     location: "Colombia"
-    followers: 27803
-    engagement: 369
-    commentsToLikes: 0.032467
-    id: ck6twtkv8u0jl0j71e8iuz2tw
+    followers: 35057
+    engagement: 207
+    commentsToLikes: 0.043510
+    id: ck0tx48ijhubb0i19y9rokavw
     verified: false
-    hashtags: "#emprendedorasquatro, #coloristaloreal, #tbt"
-  - username: "lauranicoleofficial"
-    fullname: >-
-      LAURA NICOLE
-    location: "Colombia"
-    followers: 39960
-    engagement: 191
-    commentsToLikes: 0.030027
-    id: ck5hs294zvv9u0i11tzz9rv2l
-    verified: false
-    hashtags: "#stylingvideo, #fashionblogger, #outfitvideo, #ootd"
+    hashtags: "#brows, #color, #lips, #quedateencasa"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Toronto In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #ad #portrait #photoshoot.
+  Find top lifestyle Instagram influencers in Toronto in 2020. Most popular hashtags: #toronto #lifestyle #photoshoot #summer.
 platform: Instagram
 profiles:
+  - username: "sairahayatkhan"
+    fullname: >-
+      Saira Hayat Khan
+    location: "Canada"
+    followers: 40606
+    engagement: 184
+    commentsToLikes: 0.077055
+    id: ckap1sltivybk0i784nr7lx7p
+    verified: false
+    hashtags: "#keepingitrealbish, #whyualwaysdoubtingurselfbish, #godgotyou"
   - username: "tahaphoto"
     fullname: >-
       Taha Muharuma | #streetsoul
     location: "Canada"
-    followers: 30581
-    engagement: 98
-    commentsToLikes: 0.084379
+    followers: 30386
+    engagement: 100
+    commentsToLikes: 0.082633
     id: ck6tvpd5onif40j719d8cdt9n
     verified: false
-    hashtags: "#fromstreetswithlove, #timeless, #friendsinstreets, #portrait"
-  - username: "nethyj"
+    hashtags: "#sublimestreet, #portraitgames, #portraitvisuals, #streetsgrammer"
+  - username: "prince_malz"
     fullname: >-
-      Justin Abernethy
+      Jamal
     location: "Canada"
-    followers: 6643
-    engagement: 508
-    commentsToLikes: 0.148390
-    id: ck8sx293wfyxr0j78su3h0xzj
+    followers: 3204
+    engagement: 2555
+    commentsToLikes: 0.034594
+    id: ck6u0gv9qfmgy0j71dm39vfl2
     verified: false
-    hashtags: ""
-  - username: "tanvi_malhi"
+    hashtags: "#imthecaptainnow, #suits, #menstyle, #melanin"
+  - username: "trendfamily"
     fullname: >-
-      Tanvi Malhi
+      Vith, Abby & Zay
     location: "Canada"
-    followers: 8680
-    engagement: 698
-    commentsToLikes: 0.033923
-    id: ck5pyhcczw0ut0i11esfmkukw
+    followers: 18007
+    engagement: 494
+    commentsToLikes: 0.161441
+    id: ck6tiardb0d1y0j71ms06kwde
     verified: false
-    hashtags: "#cousins, #modern, #photoshoot, #collection"
+    hashtags: "#blueblossoms, #goodmorningbeds, #mymamahood, #zavianrahava"
+  - username: "vanilla_picture"
+    fullname: >-
+      VANILLA PICTURE
+    location: "Canada"
+    followers: 14788
+    engagement: 566
+    commentsToLikes: 0.067986
+    id: ck5hipkhdeq5v0i11mqoux891
+    verified: false
+    hashtags: "#canon5dmarkiiii, #sunsetshoot, #giveawaycontest, #screenshot"
+  - username: "shalini_matt"
+    fullname: >-
+      Shaluuu🌹
+    location: "Canada"
+    followers: 2746
+    engagement: 2812
+    commentsToLikes: 0.087200
+    id: ck6uernicsp5o0j71ntftvyov
+    verified: false
+    hashtags: "#modelling, #photoshoot, #models, #flashbackformal"
+  - username: "choudhurydib"
+    fullname: >-
+      Dibya | Fashion && Lifestyle
+    location: "Canada"
+    followers: 22354
+    engagement: 386
+    commentsToLikes: 0.228854
+    id: ck8tbjidovy1i0j78zwxaohqd
+    verified: false
+    hashtags: "#grateful, #giftothers, #happyearthday, #dontrushchallenge"
   - username: "mirunag"
     fullname: >-
       Miruna 🎀
     location: "Canada"
-    followers: 37663
-    engagement: 384
-    commentsToLikes: 0.056713
+    followers: 37043
+    engagement: 356
+    commentsToLikes: 0.047098
     id: ck0uesxetm5ci0i19qut6x9tn
     verified: false
-    hashtags: "#babybouncer, #lorenacanalsrugs, #wcknursery, #babycarrier"
-  - username: "yourstrulynb"
-    fullname: >-
-      
-    location: "Canada"
-    followers: 28913
-    engagement: 169
-    commentsToLikes: 0.080258
-    id: ck602m64lhy740i14hit1ti74
-    verified: false
-    hashtags: "#quarantinelife, #catkincosmetics, #bhangra, #bhangravideo"
+    hashtags: "#welcometoronto, #bouncerbliss, #babybouncer, #westcoastkids"
   - username: "sarahmian"
     fullname: >-
       SARAH MIAN
     location: "Canada"
-    followers: 61430
-    engagement: 217
-    commentsToLikes: 0.028893
+    followers: 62346
+    engagement: 237
+    commentsToLikes: 0.030576
     id: ck5zijevlftmj0i14j0c9woju
     verified: false
-    hashtags: "#gelmanicure, #diynails, #vintage, #preselfisolation"
-  - username: "andrewcretaro"
-    fullname: >-
-      Andrew Cretaro
-    location: "Canada"
-    followers: 15225
-    engagement: 365
-    commentsToLikes: 0.363079
-    id: ck0tv2w6i9pf20i19rqsqx1ao
-    verified: false
-    hashtags: "#ihavethisthingwithfloors, #glownow, #flattenthecurve, #whatdrivesyou"
-  - username: "ayenomz"
-    fullname: >-
-      Irene | Food & Lifestyle
-    location: "Canada"
-    followers: 3514
-    engagement: 2482
-    commentsToLikes: 0.532627
-    id: ck5zu6zoi1swj0i14dsezsu7h
-    verified: false
-    hashtags: "#topfoodstagrams, #throwback, #personalstyle, #togetherto"
+    hashtags: ""
   - username: "winnspiration"
     fullname: >-
       Winnie 〰️
     location: "Canada"
-    followers: 41026
-    engagement: 165
-    commentsToLikes: 0.029696
+    followers: 40583
+    engagement: 184
+    commentsToLikes: 0.032763
     id: ck0u7we575wk90i19jj9lkasq
     verified: false
-    hashtags: "#ad, #sweatandtonicchallenge, #strongersweden, #sweatandtonicchallenge"
-  - username: "photography.bysu"
-    fullname: >-
-      Photography By Su
-    location: "Canada"
-    followers: 7212
-    engagement: 452
-    commentsToLikes: 0.236723
-    id: ck6u3wzz80dcf0j712cdr2eli
-    verified: false
-    hashtags: "#photographybysu, #torontoweddingphotographer, #weddingday, #happycouple"
+    hashtags: "#st1lite, #earthday2020, #oakandfortpartner, #strongersweden"
 ---

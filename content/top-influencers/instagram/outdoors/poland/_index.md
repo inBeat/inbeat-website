@@ -1,107 +1,107 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In Poland In 2020
 description: >-
-  Find top outdoors Instagram influencers in Poland in 2020. Most popular hashtags: #poland #outdoor #outdoortones #winter.
+  Find top outdoors Instagram influencers in Poland in 2020. Most popular hashtags: #outdoors #love #smile #happy.
 platform: Instagram
 profiles:
-  - username: "martynasoul"
-    fullname: >-
-      Martyna Soul
-    location: "Poland"
-    followers: 20752
-    engagement: 955
-    commentsToLikes: 0.057793
-    id: ck0w12qhyh9w00i19uzbc0scu
-    verified: false
-    hashtags: "#renifer, #jesiennestylizacje, #outfitday, #discovernature"
-  - username: "venatrix_joanna"
-    fullname: >-
-      Joanna
-    location: "Poland"
-    followers: 11610
-    engagement: 1182
-    commentsToLikes: 0.034650
-    id: ck136vwei8i3s0i19pon7e14v
-    verified: false
-    hashtags: "#hubertus, #hunting, #safetyfirst, #jager"
   - username: "_wilder_things_"
     fullname: >-
       Wilder Things
     location: "Poland"
-    followers: 4377
-    engagement: 2283
-    commentsToLikes: 0.035617
+    followers: 4319
+    engagement: 2320
+    commentsToLikes: 0.035622
     id: ck6u9bl5pwlko0j71zqdpz4lp
     verified: false
-    hashtags: "#borntoroam, #bieszczady, #artystycznapodroz, #wildchildcommunity"
-  - username: "obiektywnyamator"
+    hashtags: "#closetonature, #comeandsee, #adopciak, #photopoland"
+  - username: "zdwochswiatow"
     fullname: >-
-      ObiektywnyAmator | Poland
+      Z Dwóch Światów☽
     location: "Poland"
-    followers: 1396
-    engagement: 3182
-    commentsToLikes: 0.023171
-    id: ck8tcv73b0t5b0j781jyfmldg
+    followers: 21043
+    engagement: 1175
+    commentsToLikes: 0.040051
+    id: ck5c8mpru9t5o0i11dwx56h63
     verified: false
-    hashtags: "#hiking, #caucasus, #lighthouse, #visitgermany"
-  - username: "psychocki"
+    hashtags: "#dzie, #planthome, #awakethesoul, #vzcomood"
+  - username: "michal.kusio"
     fullname: >-
-      
+      Michał Kusio
     location: "Poland"
-    followers: 12136
-    engagement: 585
-    commentsToLikes: 0.042034
-    id: ck5qd7238u4h10i11w9kd7od3
+    followers: 49184
+    engagement: 385
+    commentsToLikes: 0.057728
+    id: ckapcm1is4b470i787t8mkngu
     verified: false
-    hashtags: "#mszy, #piworzemie, #exploreoutdoors, #coffeelover"
-  - username: "lukaszsupergan"
+    hashtags: "#biocosmetics, #wiosna, #zostanwdomu, #dlugiewlosy"
+  - username: "ppatikk_"
     fullname: >-
-      Łukasz Supergan
+      Patrycja Pawlik
     location: "Poland"
-    followers: 10654
-    engagement: 534
-    commentsToLikes: 0.023251
-    id: ck0ueeuasl4ud0i19zsyfje58
+    followers: 102180
+    engagement: 956
+    commentsToLikes: 0.015405
+    id: ck0vyzwxa6lso0i19c82vtf4e
     verified: false
-    hashtags: "#8ateam, #trip, #cold, #auroraborealis"
-  - username: "gear_addicts"
+    hashtags: "#fastfood, #park, #vibes, #jewelery"
+  - username: "meles.eweles"
     fullname: >-
-      Gear Addicts
+      Ewelina🇵🇱 🦡🌿
     location: "Poland"
-    followers: 8206
-    engagement: 818
-    commentsToLikes: 0.021674
-    id: ck6ucybfmi3oa0j716z0un511
+    followers: 7737
+    engagement: 1880
+    commentsToLikes: 0.023043
+    id: ckap7jw2xkdu00i78u9atwch9
     verified: false
-    hashtags: "#explore, #kestrel, #hazard4eu, #milsim"
-  - username: "keczi"
+    hashtags: "#plant, #countrygirl, #wiejskieklimaty, #lensakamera"
+  - username: "marianna_vus"
     fullname: >-
-      𝑪𝒂𝒓𝒐𝒍𝒊𝒏𝒆🐱
+      M a r i a n a  V u s  🍩 👑
     location: "Poland"
-    followers: 22511
-    engagement: 758
-    commentsToLikes: 0.066627
-    id: ck8t97gqen4pw0j78rz2x5yc7
+    followers: 10573
+    engagement: 2112
+    commentsToLikes: 0.022424
+    id: ck9halgd7cz4j0j780yrd6nsl
     verified: false
-    hashtags: "#macbookcase, #angelsclub, #smile, #quarantinelife"
-  - username: "travelakcja"
+    hashtags: "#favorite, #dress, #lookoftheday, #enjoy"
+  - username: "glodnyswiata"
     fullname: >-
-      Monika
+      Filip Turowski | GłodnyŚwiata
     location: "Poland"
-    followers: 4138
-    engagement: 2168
-    commentsToLikes: 0.146559
-    id: ck8t5d6fr9pwn0j78phmo8ktt
+    followers: 18710
+    engagement: 549
+    commentsToLikes: 0.051309
+    id: ck0ubgfr6ekly0i19t4yyriph
     verified: false
-    hashtags: "#city, #instagram, #tatry360, #paradise"
-  - username: "czasnawywczas"
+    hashtags: "#indie, #traveladdict, #thegreatwall, #kambod"
+  - username: "natalka_bba"
     fullname: >-
-      Czas na Wywczas 🗺️ Travel Blog
+      Natalia Kutyba
     location: "Poland"
-    followers: 17900
-    engagement: 508
-    commentsToLikes: 0.087708
-    id: ck139rm67mssy0i19mwabuflu
+    followers: 6941
+    engagement: 1397
+    commentsToLikes: 0.036614
+    id: ck5zjnlnkhwwy0i14gnigk0a6
     verified: false
-    hashtags: "#unlimitedmorocco, #turystyka, #monkeys, #mountainphotography"
+    hashtags: "#climbergirl, #wildlife, #koziagorka, #bouldering"
+  - username: "olenkatoja"
+    fullname: >-
+      𝐀𝐥𝐞𝐤𝐬𝐚𝐧𝐝𝐫𝐚 𝐒𝐮𝐫𝐦𝐚 𝐈𝐧𝐬𝐭𝐚𝐏𝐨𝐝𝐡𝐚𝐥𝐞
+    location: "Poland"
+    followers: 20533
+    engagement: 457
+    commentsToLikes: 0.045795
+    id: ck5hp2yb9qnxn0i11ec23ivtl
+    verified: false
+    hashtags: "#mieszkanie, #fashionforgood, #paletacieni, #pinknails"
+  - username: "adamizgalska"
+    fullname: >-
+      MOKIDA~ Adrianna Mizgalska
+    location: "Poland"
+    followers: 10397
+    engagement: 1810
+    commentsToLikes: 0.006829
+    id: ck6uc0x2ccuae0j71hbif6v65
+    verified: false
+    hashtags: "#diamondbeach, #scrub, #balizoo, #diving"
 ---

@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Bali In 2020
 description: >-
-  Find top travel Instagram influencers in Bali in 2020. Most popular hashtags: #bali #travel #balilife #indonesia.
+  Find top travel Instagram influencers in Bali in 2020. Most popular hashtags: #travelbali #balivacation #travel #baliguide.
 platform: Instagram
 profiles:
   - username: "sutarahady"
     fullname: >-
       Suta | Bali Photographer
     location: "Indonesia"
-    followers: 32847
-    engagement: 626
-    commentsToLikes: 0.033927
+    followers: 32487
+    engagement: 684
+    commentsToLikes: 0.036353
     id: ck0u2mznp0f340i198qjf5w5a
     verified: false
-    hashtags: "#bali, #sunrise, #waterfall, #ijen"
-  - username: "alitarthayasa"
+    hashtags: "#waterfall, #sunset, #hellofrom, #sumba"
+  - username: "astridveld"
     fullname: >-
-      IKetut Alit Arthayasa 
+      Social Media Expert 🕊️│SMM
     location: "Indonesia"
-    followers: 24358
-    engagement: 517
-    commentsToLikes: 0.164635
-    id: ck5q3g6mjklce0i11o5977os0
+    followers: 2592
+    engagement: 1577
+    commentsToLikes: 0.222159
+    id: ck9hav6g1e9y90j783ny34j3u
     verified: false
-    hashtags: "#balitravel, #balidaily, #balicili, #bhfyp"
-  - username: "pazvalli"
+    hashtags: "#enlightment, #deepthoughts, #photoportrait, #beaware"
+  - username: "chealseachristyy"
     fullname: >-
-      ПУТЕШЕСТВИЯ / МОТИВАЦИЯ
+      Christy Chealsea Umboh
     location: "Indonesia"
-    followers: 24927
-    engagement: 364
-    commentsToLikes: 0.050212
-    id: ck600zrqyeky10i1436mvklbd
+    followers: 62571
+    engagement: 1084
+    commentsToLikes: 0.013668
+    id: ck13c8slmz5en0i19f5gznw1l
     verified: false
-    hashtags: "#girl, #birthday, #singapore, #vacation"
-  - username: "mag_david"
+    hashtags: "#friendlylombok, #beachvibes, #wonderfulplaces, #mangrove"
+  - username: "jazzy.la.travel.mama"
     fullname: >-
-      DÁVID MAG
+      Travel and Motherhood
     location: "Indonesia"
-    followers: 9431
-    engagement: 2201
-    commentsToLikes: 0.010823
-    id: ck0ttztm551ju0i191gk7emii
+    followers: 18064
+    engagement: 285
+    commentsToLikes: 0.204407
+    id: ck5ci1zvprv0c0i11a9vh22wt
     verified: false
-    hashtags: "#malta, #venicebeach, #playground, #photo"
-  - username: "gekanikesnawa_"
+    hashtags: "#hotelreview, #styleinspo, #toddlerdrinks, #muminspo"
+  - username: "coupleofcoordinates"
     fullname: >-
-      m s.   G E K✨
+      Life | ʟᴏᴠᴇ | Travel
     location: "Indonesia"
-    followers: 2850
-    engagement: 1833
-    commentsToLikes: 0.041294
-    id: ck13cx75w2ltp0i19otxp81hs
+    followers: 7908
+    engagement: 929
+    commentsToLikes: 0.142212
+    id: ck8t9okc6orkd0j78g905xuck
     verified: false
-    hashtags: "#ubudbali, #tamblinganlake, #balitrip, #dirumahaja"
-  - username: "jessikabella2"
+    hashtags: "#welivetoexplore, #balivilla, #affirmations, #lovequotesdaily"
+  - username: "davidxpalmen"
     fullname: >-
-      jessika bella
+      Feel The Shift
     location: "Indonesia"
-    followers: 11582
-    engagement: 502
-    commentsToLikes: 0.042944
-    id: ck8tct8xp0l6i0j78rb0dhf7j
+    followers: 9660
+    engagement: 522
+    commentsToLikes: 0.069972
+    id: ck138m6zkgx160i1988x95g7u
     verified: false
-    hashtags: "#baliindonesia, #ipurpleyou, #ootd, #traveler"
-  - username: "davidantoineofficiel"
+    hashtags: "#wanderluster, #openheart, #liveinlove, #canggu"
+  - username: "5uperman"
     fullname: >-
-      David Antoine --> God First 🙏
+      D  a  n ™   L  o  🇲🇾
     location: "Indonesia"
-    followers: 29883
-    engagement: 228
-    commentsToLikes: 0.026465
-    id: ck6u2fchtrht80j71helslr7o
+    followers: 27706
+    engagement: 507
+    commentsToLikes: 0.003746
+    id: ckaotojwkwsol0i78co0qxtko
     verified: false
-    hashtags: "#imgmodel, #wild, #wbaliseminyak, #traveler"
-  - username: "_sincoordenadas"
+    hashtags: "#zara, #thailand, #hugoboss, #model"
+  - username: "_girlaroundtheworld_"
     fullname: >-
-      GIGI SALOMÓN
+      Melissa Travels the World
     location: "Indonesia"
-    followers: 2104
-    engagement: 2740
-    commentsToLikes: 0.191090
-    id: ck8svumjjcr5d0j78olwarewb
+    followers: 37444
+    engagement: 356
+    commentsToLikes: 0.026004
+    id: ck15qvukd4w230i19asjgwydy
     verified: false
-    hashtags: "#muracatalunya, #philippines, #travelindonesia, #droner"
-  - username: "tashfeen97"
+    hashtags: "#bookreading, #wadirumdesert, #thephuketlife, #wanderlustlife"
+  - username: "bali_fm"
     fullname: >-
-      TASHAYYY
+      Travel Blogger📸
     location: "Indonesia"
-    followers: 64795
-    engagement: 374
-    commentsToLikes: 0.072074
-    id: ck1348n93v99v0i1928encc4c
+    followers: 27444
+    engagement: 115
+    commentsToLikes: 0.013908
+    id: ck6tucjvofk0s0j71wwa82z7j
     verified: false
-    hashtags: "#foodie, #potd, #pictureoftheday, #postoftheday"
-  - username: "ioanna_neo"
+    hashtags: "#travellife, #couplegoals, #balilivin, #travel"
+  - username: "amospabali"
     fullname: >-
-      Ιωάννα | Ioanna Travel
+      Amo Spa Bali
     location: "Indonesia"
-    followers: 13381
-    engagement: 465
-    commentsToLikes: 0.050422
-    id: ck5zujlyu2hfu0i14x7io0rod
+    followers: 25599
+    engagement: 192
+    commentsToLikes: 0.024037
+    id: ck5zq5ri7tzn10i1413tqhwy8
     verified: false
-    hashtags: "#nailchallenge, #babychallange, #traveltiktok, #londonvibes"
+    hashtags: "#balimanicure, #balihealthyfood, #magic, #smoothie"
 ---

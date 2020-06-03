@@ -1,39 +1,49 @@
 ---
 title: Top 10 Christian Instagram Influencers In Toronto In 2020
 description: >-
-  Find top christian Instagram influencers in Toronto in 2020. Most popular hashtags: #hamilton #reflectionjunkiez #stayhome #wip.
+  Find top christian Instagram influencers in Toronto in 2020. Most popular hashtags: #fridayfive #toronto #wild #vacation.
 platform: Instagram
 profiles:
   - username: "kisungkoh"
     fullname: >-
       kisung Koh
     location: "Canada"
-    followers: 11904
-    engagement: 436
-    commentsToLikes: 0.017383
+    followers: 12037
+    engagement: 426
+    commentsToLikes: 0.018105
     id: ck134ijbawlig0i19c5l32vrm
     verified: false
-    hashtags: "#longlivethepolartreasure, #thinkspacegallery, #magicwizards, #owl"
+    hashtags: "#15yearsofthinkspace, #kisungkoh, #2020, #study"
+  - username: "crazyplantguy"
+    fullname: >-
+      Christian 🤪🌿🧔🏻
+    location: "Canada"
+    followers: 102772
+    engagement: 428
+    commentsToLikes: 0.028004
+    id: ck14h91hw95750i19hy157enp
+    verified: false
+    hashtags: "#floweringplant, #iloveplants, #hoyamygosh, #babyplants"
   - username: "tareacampbell"
     fullname: >-
       tareacampbell
     location: "Canada"
-    followers: 8517
-    engagement: 909
-    commentsToLikes: 0.024311
+    followers: 8416
+    engagement: 708
+    commentsToLikes: 0.030298
     id: ck6tvoxdqnftt0j71y9knmfex
     verified: false
-    hashtags: "#backtowork, #bigsis, #musicaltheater, #angelica"
-  - username: "annamayday"
+    hashtags: "#inaday, #worthit, #food, #naughtyornice"
+  - username: "sneakertalkca"
     fullname: >-
-      Anna May Henry
+      Christian Cantelon ✪
     location: "Canada"
-    followers: 10639
-    engagement: 776
-    commentsToLikes: 0.022688
-    id: ck1368r1t5ave0i19nta5r030
+    followers: 38104
+    engagement: 265
+    commentsToLikes: 0.042755
+    id: ck6tr4rlbwxc40j712p3elo58
     verified: false
-    hashtags: "#wip, #nolettuce, #loveinthetimeofcorona, #treasure"
+    hashtags: "#jordan1, #housewarming, #airjordan, #noah"
   - username: "afiya.francisco"
     fullname: >-
       Style Advisor | Everyday Looks
@@ -44,64 +54,54 @@ profiles:
     id: ck55mvmr24xa30i115utdot6t
     verified: false
     hashtags: "#carryonluggage, #iwd2020, #womenofworthcan, #womenofworth"
+  - username: "internationalsingh"
+    fullname: >-
+      Sukhmeet Rohan Singh
+    location: "Canada"
+    followers: 8012
+    engagement: 692
+    commentsToLikes: 0.088794
+    id: ck5zxagon7n4n0i14ka9yd3j4
+    verified: false
+    hashtags: "#medstudent, #punoftheday, #toronto, #beautiful"
   - username: "goaliedance"
     fullname: >-
       
     location: "Canada"
-    followers: 5928
-    engagement: 1640
-    commentsToLikes: 0.006802
+    followers: 5785
+    engagement: 1596
+    commentsToLikes: 0.006630
     id: ck8t0jhl7s9m00j787ug6r5ue
     verified: false
-    hashtags: "#mapleleafs, #brkin, #victoria, #torontomarlies"
-  - username: "curtismason"
+    hashtags: "#laval, #williamslake, #soogreyhounds, #brantford"
+  - username: "akeel.music"
     fullname: >-
-      Curtis Mason
+      Akeel
     location: "Canada"
-    followers: 6005
-    engagement: 1648
-    commentsToLikes: 0.034934
-    id: ck6ubucspbrhx0j71xehwccu8
+    followers: 5661
+    engagement: 286
+    commentsToLikes: 0.117959
+    id: ck0tutj6w8lg30i19ctm5xdon
     verified: false
-    hashtags: ""
-  - username: "life.with.char"
+    hashtags: "#repost, #easter, #14, #joyride"
+  - username: "styleapotheca"
     fullname: >-
-      Julie
+      Christina | intentional living
     location: "Canada"
-    followers: 11165
-    engagement: 365
-    commentsToLikes: 0.384270
-    id: ck0w6py6e9qw40i1909dgtws2
+    followers: 49305
+    engagement: 318
+    commentsToLikes: 0.046244
+    id: ck0vvj58gpdek0i1950s7jycu
     verified: false
-    hashtags: "#livingroom, #charminenjoythego, #godstiming, #ultrasoft"
-  - username: "christianzanephotography"
+    hashtags: "#plainwhitetee, #gratitudeattitude, #outfitrepeater, #whitetshirt"
+  - username: "itsaketovibe"
     fullname: >-
-      Christian Zane Clado
+      Keto Vibes
     location: "Canada"
-    followers: 2303
-    engagement: 2318
-    commentsToLikes: 0.341578
-    id: ck5q7xwke3jxc0i11yqup9uqn
+    followers: 8431
+    engagement: 395
+    commentsToLikes: 0.176457
+    id: ck0w2uh8sq8mm0i198z2prbby
     verified: false
-    hashtags: "#vancitylife, #discoverla, #womenportrait, #vancitywears"
-  - username: "artofalan"
-    fullname: >-
-      Alan Stewart
-    location: "Canada"
-    followers: 67805
-    engagement: 455
-    commentsToLikes: 0.019905
-    id: ck14genkx4u570i19b1j7bf5i
-    verified: false
-    hashtags: "#art, #mario, #pencildrawing, #sketchbook"
-  - username: "christiandawdesign"
-    fullname: >-
-      Christian Daw
-    location: "Canada"
-    followers: 256915
-    engagement: 540
-    commentsToLikes: 0.024863
-    id: ck0w79duucey70i19750um17m
-    verified: false
-    hashtags: "#freshsnow, #summerhouse, #springbreak2020, #housetour"
+    hashtags: "#glutenfreebrownies, #chickenrecipe, #snackideas, #desserts"
 ---

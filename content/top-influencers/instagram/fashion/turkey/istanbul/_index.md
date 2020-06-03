@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fashion Instagram Influencers In Istanbul In 2020
 description: >-
-  Find top fashion Instagram influencers in Istanbul in 2020. Most popular hashtags: #istanbul #fashion #photography #turkey.
+  Find top fashion Instagram influencers in Istanbul in 2020. Most popular hashtags: #blogger #istanbul #bursa #travel.
 platform: Instagram
 profiles:
   - username: "najmmohammadi"
     fullname: >-
       Najm Mohammadi
     location: "Turkey"
-    followers: 9811
-    engagement: 1571
-    commentsToLikes: 0.055070
+    followers: 10124
+    engagement: 1577
+    commentsToLikes: 0.056373
     id: ck5c8dp0m99fe0i11etkdgpg0
     verified: false
-    hashtags: "#frenchbulldog, #lifecoach, #fashiontv, #fashionista"
-  - username: "kambizakhbari"
+    hashtags: "#edgymemes, #angel, #birthday, #jalal"
+  - username: "bir_tutkudur_koyun"
     fullname: >-
-      Kambiz Akhbari
+      koyun_sevdalilari
     location: "Turkey"
-    followers: 65267
-    engagement: 444
-    commentsToLikes: 0.040203
-    id: ck5hj3gf4fxnd0i11acvcmce4
+    followers: 19615
+    engagement: 234
+    commentsToLikes: 0.015735
+    id: ck8tadgjjrbb40j78oji4f4c8
     verified: false
-    hashtags: "#artworks, #fashion, #istanbul, #style"
-  - username: "mihriban.demirr"
-    fullname: >-
-      Mihriban Demir
-    location: "Turkey"
-    followers: 2163
-    engagement: 2424
-    commentsToLikes: 0.033373
-    id: ck8tc8xz8ypid0j78byc5tqa1
-    verified: false
-    hashtags: "#turkey, #sunny, #blackandwhite, #actress"
-  - username: "gelindamatdergisi"
-    fullname: >-
-      Gelin Damat Dergisi
-    location: "Turkey"
-    followers: 34403
-    engagement: 273
-    commentsToLikes: 0.001976
-    id: ck5q9xpbhdj9b0i115adijzhl
-    verified: false
-    hashtags: "#damatlik, #51modaci, #prensesindusleri, #gelinlik"
-  - username: "pehlivan.mesut"
-    fullname: >-
-      Ⓜ️esut Pehlivan
-    location: "Turkey"
-    followers: 5014
-    engagement: 1180
-    commentsToLikes: 0.011081
-    id: ck8ta1cytq3cp0j78uwa7nq0a
-    verified: false
-    hashtags: "#ispanya, #instagood, #ingiltere, #russia"
-  - username: "gezgin_kareler"
-    fullname: >-
-      Tayfun
-    location: "Turkey"
-    followers: 4824
-    engagement: 1483
-    commentsToLikes: 0.066708
-    id: ck15s45vqb4rt0i194pnbcc11
-    verified: false
-    hashtags: "#bestoftheday, #fashion, #istanbul, #whansnotags"
+    hashtags: "#travel, #ukraine, #anadoluhisar, #anadolulisesi"
   - username: "p_i__x__e_l"
     fullname: >-
       Sezer Sahinoglu
     location: "Turkey"
-    followers: 49805
-    engagement: 398
-    commentsToLikes: 0.246318
+    followers: 50364
+    engagement: 343
+    commentsToLikes: 0.235578
     id: ck5qcr1xerxfk0i11bi2zcetv
     verified: false
-    hashtags: "#acervofotografico, #brportraits, #samyang, #portraitphotography"
+    hashtags: "#japan, #yourmannheim, #turkiyevizor, #zamanidurdur"
   - username: "dunyayigezenkiz"
     fullname: >-
       AHSEN TALYA ÇEBİ KURTUL
     location: "Turkey"
-    followers: 10298
-    engagement: 663
-    commentsToLikes: 0.228603
+    followers: 13065
+    engagement: 778
+    commentsToLikes: 0.228171
     id: ck0w5c75o2xop0i19ty31txma
     verified: false
-    hashtags: "#beautifuldestinations, #trendyol, #discoveryplanet, #evdekal"
+    hashtags: "#ourplanetdaily, #girlstyle, #discovery, #lovetheworld"
   - username: "kubrakiliiccc"
     fullname: >-
       K Ü B R A K I L I Ç👸🏻
     location: "Turkey"
-    followers: 6977
-    engagement: 1022
-    commentsToLikes: 0.061091
+    followers: 7295
+    engagement: 1054
+    commentsToLikes: 0.054808
     id: ck8t35pum1z7g0j784bnm91ir
     verified: false
-    hashtags: "#tbt, #uhneysj, #taksim, #tiyatroiyidir"
+    hashtags: "#komedi, #sevmedi, #zeynepbastik, #tiyatro"
   - username: "yasminn__simsek"
     fullname: >-
       Yasemin Yetkin
     location: "Turkey"
-    followers: 27415
-    engagement: 321
-    commentsToLikes: 0.053526
+    followers: 29751
+    engagement: 361
+    commentsToLikes: 0.048970
     id: ck0txr893k8gv0i19m05wkxk7
     verified: false
-    hashtags: "#bahargelsnartk, #wordpressper, #streetstyle, #dedication"
+    hashtags: "#winter, #thegrilgang, #sokakmodasi, #saturday"
+  - username: "whasani"
+    fullname: >-
+      Hasan Telatar
+    location: "Turkey"
+    followers: 12063
+    engagement: 706
+    commentsToLikes: 0.029649
+    id: ck6u8r00pt5tv0j71o8v5wkm3
+    verified: false
+    hashtags: "#hastasiyiz"
+  - username: "jihadebenalluch"
+    fullname: >-
+      Jıhad BenAllouch
+    location: "Turkey"
+    followers: 791656
+    engagement: 206
+    commentsToLikes: 0.010082
+    id: ck5bw53wml0m80i11hekqnivm
+    verified: false
+    hashtags: "#quarantinelife, #good, #stayhome, #relaxing"
+  - username: "sacvemakyajdunyasi"
+    fullname: >-
+      Saç Ve Makyaj Dünyası
+    location: "Turkey"
+    followers: 503177
+    engagement: 17
+    commentsToLikes: 0.078996
+    id: ck5zs0y08xm7o0i14luxeix00
+    verified: false
+    hashtags: "#makyajvideolari, #makeupjunkie, #morphegirl, #nyxcosmeticsgermany"
+  - username: "zetfashion"
+    fullname: >-
+      Zuhal Okcu Özden
+    location: "Turkey"
+    followers: 65314
+    engagement: 631
+    commentsToLikes: 0.398714
+    id: ckaoyf98wh9yi0i783htgm9g0
+    verified: false
+    hashtags: "#zetmutfakta, #summer, #summertime"
 ---

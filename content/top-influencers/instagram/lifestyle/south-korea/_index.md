@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In South Korea In 2020
 description: >-
-  Find top lifestyle Instagram influencers in South Korea in 2020. Most popular hashtags: #korea #seoul #lifestyle #bts.
+  Find top lifestyle Instagram influencers in South Korea in 2020. Most popular hashtags: #spring #life #stayhome #instagram.
 platform: Instagram
 profiles:
+  - username: "mary_land__"
+    fullname: >-
+      매리🍒Mary😷
+    location: "South Korea"
+    followers: 19586
+    engagement: 857
+    commentsToLikes: 0.029280
+    id: ck8tc0gr8xu720j78hotz5s1o
+    verified: false
+    hashtags: "#drc60, #longskirt, #spring, #cosmetic"
   - username: "one_the_girl"
     fullname: >-
-      원도연
+      원도연
     location: "South Korea"
-    followers: 5036
-    engagement: 1094
-    commentsToLikes: 0.046971
+    followers: 5328
+    engagement: 1294
+    commentsToLikes: 0.042255
     id: ck5c06a1gsj0p0i110bh44otb
     verified: false
-    hashtags: "#grn, #itaewonclass, #guamtrip, #cafestagram"
-  - username: "4.7.4.7"
-    fullname: >-
-      Dra. Gina ⚡️(지나)
-    location: "South Korea"
-    followers: 56775
-    engagement: 265
-    commentsToLikes: 0.018518
-    id: ck5qcd48cpz8k0i11b4x9ytow
-    verified: false
-    hashtags: "#8m2020, #shibuyahmo, #australiagram, #sydneylife"
-  - username: "sasha_yugay"
-    fullname: >-
-      Sasha Yu
-    location: "South Korea"
-    followers: 150391
-    engagement: 1304
-    commentsToLikes: 0.028869
-    id: ck15tmuc8iv3g0i19dzwe1tmn
-    verified: false
-    hashtags: "#yoyo2, #calvinklein, #bunglyboo"
-  - username: "moon_stargram"
-    fullname: >-
-      Moonstar Life Studio 대표 문희정
-    location: "South Korea"
-    followers: 44878
-    engagement: 123
-    commentsToLikes: 0.057327
-    id: ck8szlqudoxgg0j781co1yyct
-    verified: false
-    hashtags: "#foodstyling, #bulgogi, #picnic, #lunchbox"
+    hashtags: "#akiiiclassic, #brandi, #cafetour, #akiii"
   - username: "musk_ll"
     fullname: >-
       라이프스타일 크리에이터 머스크
     location: "South Korea"
-    followers: 25128
-    engagement: 58
-    commentsToLikes: 0.156031
+    followers: 24875
+    engagement: 62
+    commentsToLikes: 0.122768
     id: ck5hlusgakwee0i11nuymcf2w
     verified: false
-    hashtags: "#ad, #thatcoffee, #lamarca, #canyonroad"
-  - username: "sy__nini"
+    hashtags: "#mmschocolate, #sponserd, #hempharmx, #lowic"
+  - username: "sasha_yugay"
     fullname: >-
-      ⛰
+      Sasha Yu
     location: "South Korea"
-    followers: 11811
-    engagement: 1360
-    commentsToLikes: 0.032446
-    id: ck5zybxfi9loq0i143ylg115r
+    followers: 153300
+    engagement: 1554
+    commentsToLikes: 0.017836
+    id: ck15tmuc8iv3g0i19dzwe1tmn
     verified: false
-    hashtags: "#jeju, #lifestyle, #bodyscrub, #100"
-  - username: "eun.g_popping"
+    hashtags: "#danielandgoroshek, #stayhome, #fa, #tobecontinued"
+  - username: "moon_stargram"
     fullname: >-
-      🌏 EUN.G 🌟 POPPING DANCER 🇰🇷
+      Moonstar Life Studio 대표 문희정
     location: "South Korea"
-    followers: 31100
-    engagement: 424
-    commentsToLikes: 0.021134
-    id: ck137iqh4bqxe0i198lv7ylb5
+    followers: 46029
+    engagement: 147
+    commentsToLikes: 0.051944
+    id: ck8szlqudoxgg0j781co1yyct
     verified: false
-    hashtags: "#streetculture, #seoulkorea, #eung, #levelup"
-  - username: "matheusgabrieljj"
+    hashtags: "#picnic, #latergram, #fritzhansen, #earthday2020"
+  - username: "sontaeyoung_official"
     fullname: >-
-      M. Gabriel
+      Son taeyoung 손태영(actress)
     location: "South Korea"
-    followers: 17017
-    engagement: 904
-    commentsToLikes: 0.017429
-    id: ck5hruj3lvi4s0i113qzfd0h5
-    verified: false
-    hashtags: "#muae, #seoul, #neverevergiveup, #gratitude"
-  - username: "welcometothepanoptico"
+    followers: 161697
+    engagement: 138
+    commentsToLikes: 0.029223
+    id: ckapcao1d31wn0i78519a6pge
+    verified: true
+    hashtags: "#live, #kisstherain, #maybe, #naver"
+  - username: "khumor.a"
     fullname: >-
-      세바 ~ (SHIPPO-YO) 🍶
+      𝗥𝘂𝘇𝗺𝗮𝘁𝗼𝘃𝗮 𝗞𝗵𝘂𝗺𝗼𝗿𝗮 🇰🇷🇺🇿
     location: "South Korea"
-    followers: 58804
-    engagement: 1903
-    commentsToLikes: 0.013068
-    id: ck5pw4bzyl1bn0i11a94fpj2o
+    followers: 2123
+    engagement: 1800
+    commentsToLikes: 0.087522
+    id: ck9halnuxczvk0j78q8td5rul
     verified: false
-    hashtags: "#namjoon, #season, #vsco, #lifestyle"
-  - username: "kyung961218"
+    hashtags: "#starbucks, #coffeetime, #jimin, #coffeelife"
+  - username: "moon.ii_"
     fullname: >-
-      경민서(Min.K)
+      文 海
     location: "South Korea"
-    followers: 6337
-    engagement: 966
-    commentsToLikes: 0.021221
-    id: ck5hlv6w9kx800i11bftk7y8f
+    followers: 19152
+    engagement: 258
+    commentsToLikes: 0.036425
+    id: ckaoz2yauk58j0i781ub1optk
     verified: false
-    hashtags: "#fashionkorea, #workout, #daily, #crump"
+    hashtags: "#coffee, #homecafe, #bluebottle, #bluebottlecoffee"
+  - username: "donato_shin"
+    fullname: >-
+      신동헌
+    location: "South Korea"
+    followers: 23719
+    engagement: 223
+    commentsToLikes: 0.029734
+    id: ckap0yhlsscu40i78qy0fty0t
+    verified: false
+    hashtags: "#keithrichards, #rollingstones, #yamaha, #audi"
+  - username: "bonnygirl_"
+    fullname: >-
+      bonnygirl_
+    location: "South Korea"
+    followers: 52818
+    engagement: 109
+    commentsToLikes: 0.021393
+    id: ck14jz747mwrw0i19i4uvr5lh
+    verified: false
+    hashtags: "#codements, #bodynatur, #sponsored, #gripapp"
 ---

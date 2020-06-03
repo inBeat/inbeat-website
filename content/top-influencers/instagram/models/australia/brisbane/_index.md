@@ -1,36 +1,56 @@
 ---
 title: Top 10 Models Instagram Influencers In Brisbane In 2020
 description: >-
-  Find top models Instagram influencers in Brisbane in 2020. Most popular hashtags: #brisbanemodel #model #brisbanephotographer #portrait.
+  Find top models Instagram influencers in Brisbane in 2020. Most popular hashtags: #brisbanemodel #longhair #highponytail #makeup.
 platform: Instagram
 profiles:
   - username: "modelallyj"
     fullname: >-
       Ally J Wilkinson
     location: "Australia"
-    followers: 31226
-    engagement: 313
-    commentsToLikes: 0.014867
+    followers: 30891
+    engagement: 317
+    commentsToLikes: 0.015130
     id: ck8tcb8iiyx740j78joz6u85y
     verified: false
-    hashtags: "#sunflowersonarainyday, #bnwmood, #melbournetrip, #makeuponpoint"
-  - username: "laina.eady"
+    hashtags: "#naturalmakeup, #sydneytrip, #flexible, #whitedress"
+  - username: "anthonysemerad"
     fullname: >-
-      LAINA
+      ANTHONY SEMERAD (TWIN 2)
     location: "Australia"
-    followers: 42478
-    engagement: 345
-    commentsToLikes: 0.043139
-    id: ck5bwn0skm0jz0i11ew0y6of7
+    followers: 168649
+    engagement: 317
+    commentsToLikes: 0.009255
+    id: ck5cj2r1ptv0g0i11c7336mp8
+    verified: true
+    hashtags: "#aiveeleague, #health, #travelphotography, #love"
+  - username: "miagracemccallum"
+    fullname: >-
+      Mia Grace ✨
+    location: "Australia"
+    followers: 5655
+    engagement: 742
+    commentsToLikes: 0.276234
+    id: ckaoty5xpy11e0i78eia54nry
     verified: false
-    hashtags: "#collaboration, #instalike, #portraits, #bali"
+    hashtags: "#blackangel, #famousfootwear, #anniespresets, #onpoint"
+  - username: "avaarachnie"
+    fullname: >-
+      Arachnie 🕷
+    location: "Australia"
+    followers: 142933
+    engagement: 676
+    commentsToLikes: 0.014475
+    id: ck5hduac8peto0i117qex67cb
+    verified: false
+    hashtags: "#killstar, #bmtartanravenclawcuffedpants"
   - username: "hannahhayessisson"
     fullname: >-
       Hannah Hayes Sisson
     location: "Australia"
-    followers: 2953
-    engagement: 1847
-    commentsToLikes: 0.067932
+    followers: 3357
+    engagement: 1806
+    commentsToLikes: 0.073857
     id: ck8sxek7lh41z0j78jq7dnx1f
     verified: false
     hashtags: ""
@@ -38,39 +58,29 @@ profiles:
     fullname: >-
       Christina Maimone
     location: "Australia"
-    followers: 7035
-    engagement: 901
-    commentsToLikes: 0.028069
+    followers: 6904
+    engagement: 879
+    commentsToLikes: 0.025467
     id: ck55klkcjzli60i11ldukuzwq
     verified: false
-    hashtags: "#jointhemovement, #showyourskims, #blackfriday, #cheers"
+    hashtags: "#tenniscollection, #bodypositive, #jointhemovement, #goodsquad"
   - username: "amospearce"
     fullname: >-
       AMOS ✨ Catahoula ✘ Beagle
     location: "Australia"
-    followers: 19483
-    engagement: 509
-    commentsToLikes: 0.113693
+    followers: 19784
+    engagement: 508
+    commentsToLikes: 0.118410
     id: ck15s7bnobl6t0i19kw4tgv66
     verified: false
-    hashtags: "#covid, #2020memes, #whileyouwerebusy, #mybaby"
-  - username: "avaarachnie"
-    fullname: >-
-      Arachnie 🕷
-    location: "Australia"
-    followers: 131389
-    engagement: 771
-    commentsToLikes: 0.016858
-    id: ck5hduac8peto0i117qex67cb
-    verified: false
-    hashtags: "#killstar, #bmdarkmagicminidress, #bmbloodserpenthwvelvetleggings, #bmvampirespellboundhoodiesweater"
+    hashtags: "#yeahidid, #happydogs, #dogsofbrisbane, #firstaid"
   - username: "lorimckenzie"
     fullname: >-
       L O R I  M C K E N Z I E
     location: "Australia"
-    followers: 39671
-    engagement: 52
-    commentsToLikes: 0.019658
+    followers: 40150
+    engagement: 55
+    commentsToLikes: 0.022245
     id: ck5hqu7gftqb60i112wiy13os
     verified: false
     hashtags: ""
@@ -78,30 +88,20 @@ profiles:
     fullname: >-
       Julieta Roldan 🇦🇺 🇦🇷
     location: "Australia"
-    followers: 79914
-    engagement: 153
-    commentsToLikes: 0.040072
+    followers: 79181
+    engagement: 134
+    commentsToLikes: 0.041640
     id: ck0ud6ywjigcn0i19d8n00v30
     verified: false
-    hashtags: "#lowfatdiet, #doggifts, #christmaspresents, #bestdonuts"
+    hashtags: "#uncertaintimes, #mangojuice, #glowinskin, #caffeineaddict"
   - username: "masphoto.official"
     fullname: >-
       Masterpiece Art Studio 📸🌴👙
     location: "Australia"
-    followers: 5329
-    engagement: 535
-    commentsToLikes: 0.104884
+    followers: 5281
+    engagement: 545
+    commentsToLikes: 0.089941
     id: ck6u339dyvfx90j71bhrei5ev
     verified: false
-    hashtags: "#fitnesslife, #selflove, #vibes, #model"
-  - username: "jade.syrett"
-    fullname: >-
-      JADE
-    location: "Australia"
-    followers: 50814
-    engagement: 333
-    commentsToLikes: 0.059239
-    id: ck13a1y82o8060i19gci5msnb
-    verified: false
-    hashtags: "#brisbanemodel, #portraitmood, #nightout, #sport"
+    hashtags: "#competition, #canon, #kicking, #kidmodels"
 ---

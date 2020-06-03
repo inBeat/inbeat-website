@@ -1,107 +1,107 @@
 ---
 title: Top 10 Fitness Instagram Influencers In Seattle In 2020
 description: >-
-  Find top fitness Instagram influencers in Seattle in 2020. Most popular hashtags: #seattle #fitness #love #photoshoot.
+  Find top fitness Instagram influencers in Seattle in 2020. Most popular hashtags: #fitness #seattle #homeworkout #mindset.
 platform: Instagram
 profiles:
-  - username: "candybomb_0206"
-    fullname: >-
-      Angi | Flight Attendant
-    location: "United States"
-    followers: 31182
-    engagement: 498
-    commentsToLikes: 0.047461
-    id: ck0w2gt8foapf0i19sq956lfw
-    verified: false
-    hashtags: "#me, #blondie, #travelgirl, #airhostess"
   - username: "rsherman25"
     fullname: >-
       Richard Sherman
     location: "United States"
-    followers: 2264425
-    engagement: 306
-    commentsToLikes: 0.020056
+    followers: 2250254
+    engagement: 294
+    commentsToLikes: 0.019058
     id: ck0twtyv4gq4s0i19nk7ilb1t
     verified: true
-    hashtags: "#wirelesssecuritycamera, #49ers, #kamipartner, #homesecuritycamera"
-  - username: "campbellboydre"
+    hashtags: "#kamipartner, #outdoorsecuritycamera, #thirtydayfitness, #homeworkout"
+  - username: "igor__malakhov"
     fullname: >-
-      DiAndre Campbell
+      📸 PHOTO-VIDEO LOS ANGELES  📸
     location: "United States"
-    followers: 39636
-    engagement: 1743
-    commentsToLikes: 0.031000
-    id: ck6023a0qgnpf0i14rjdvjj3p
-    verified: true
-    hashtags: "#body, #training, #collegefootball, #evolvetheday"
+    followers: 69922
+    engagement: 89
+    commentsToLikes: 0.024217
+    id: ck1353vrjzklq0i195p3q1ebg
+    verified: false
+    hashtags: "#californiagirl, #rollerskating, #rollergirl, #hawaiiphotographer"
   - username: "wade_smith9"
     fullname: >-
       Wade Smith
     location: "United States"
-    followers: 18611
-    engagement: 716
-    commentsToLikes: 0.022453
+    followers: 19559
+    engagement: 674
+    commentsToLikes: 0.021046
     id: ck13bsyzzx0nl0i19awqw3gnf
     verified: false
-    hashtags: "#malemodel, #seattlemodel, #breathe, #throwback"
-  - username: "leanna_carr"
-    fullname: >-
-      Leanna Carr
-    location: "United States"
-    followers: 100627
-    engagement: 382
-    commentsToLikes: 0.033774
-    id: ck5znv9ybp7q60i145cgx7cy9
-    verified: false
-    hashtags: "#teambodybuildingcom, #consistency, #iforgothowtofitspo, #peoplewhohike"
-  - username: "madexmelanin"
-    fullname: >-
-      Made By Melanin (MXM)
-    location: "United States"
-    followers: 2258
-    engagement: 1150
-    commentsToLikes: 0.074598
-    id: ck0vypsw757430i19ypiytfu8
-    verified: false
-    hashtags: "#pnwvideographer, #femalephotographer, #tourvideo, #seattleconcertvideo"
+    hashtags: "#follow, #showerthoughts, #showersunday, #moon"
   - username: "alikbrundrett"
     fullname: >-
       Alik Brundrett
     location: "United States"
-    followers: 11698
-    engagement: 492
-    commentsToLikes: 0.018192
+    followers: 11983
+    engagement: 473
+    commentsToLikes: 0.023752
     id: ck8t9i3z5o6ev0j78f0uqlfk1
     verified: false
-    hashtags: "#shotonmoment, #shotonmomenttele, #seattle"
-  - username: "realstephaniebillings"
+    hashtags: "#shotonmoment, #shotonmomenttele, #seattle, #wegotthisseattle"
+  - username: "iwillgetlean"
     fullname: >-
-      Stephanie Billings, MHA, MPH
+      Tanvi's Journey To Abs
     location: "United States"
-    followers: 30355
-    engagement: 93
-    commentsToLikes: 0.080821
-    id: ck5cj2eeutuan0i11x4mo6l80
+    followers: 130715
+    engagement: 300
+    commentsToLikes: 0.037221
+    id: ck1376q5wa2bx0i19o38g40m1
     verified: false
-    hashtags: "#bossbabe, #wewin, #gotogether, #peachretreat"
+    hashtags: "#youcandoit, #quads, #transformation, #noequipment"
+  - username: "karissabodnar"
+    fullname: >-
+      Karissa Bodnar
+    location: "United States"
+    followers: 68361
+    engagement: 182
+    commentsToLikes: 0.064320
+    id: ck15rjoti89490i19tiocetsx
+    verified: true
+    hashtags: "#thrivetribe, #iwd2020, #prettygoodadvice, #qotd"
   - username: "briannamariefitness"
     fullname: >-
-      
+      Brianna Marie
     location: "United States"
-    followers: 134741
-    engagement: 263
-    commentsToLikes: 0.058594
+    followers: 139868
+    engagement: 251
+    commentsToLikes: 0.048924
     id: ck8tdds6s2yjf0j782ilctxbp
     verified: false
-    hashtags: "#workouts, #kettlebell, #workoutathome, #minimalequipment"
-  - username: "jswainphoto"
+    hashtags: "#strongcore, #plyometrics, #arms, #huskymom"
+  - username: "madexmelanin"
     fullname: >-
-      J|Swain
+      Made By Melanin (MXM)
     location: "United States"
-    followers: 75895
-    engagement: 166
-    commentsToLikes: 0.021060
-    id: ck5zv2cms3gqc0i142kp1omvf
+    followers: 2254
+    engagement: 1101
+    commentsToLikes: 0.083639
+    id: ck0vypsw757430i19ypiytfu8
     verified: false
-    hashtags: "#uncensored, #mariemadore, #seattlephotographer, #tattoos"
+    hashtags: "#newlyweds, #microsoft, #sonya7, #football"
+  - username: "pancakeguru"
+    fullname: >-
+      v.
+    location: "United States"
+    followers: 27996
+    engagement: 146
+    commentsToLikes: 0.174422
+    id: ck5hnyg5nolyk0i117573o3z0
+    verified: false
+    hashtags: "#takemeback, #seattle, #oreos, #quarantinelife"
+  - username: "refaubrey"
+    fullname: >-
+      Aubrey Edwards
+    location: "United States"
+    followers: 78787
+    engagement: 570
+    commentsToLikes: 0.016619
+    id: ck0ucvx5rhvhi0i19ybug34e5
+    verified: false
+    hashtags: "#vegan, #cardio, #excalibur, #yoga"
 ---

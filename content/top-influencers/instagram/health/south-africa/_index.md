@@ -1,49 +1,39 @@
 ---
 title: Top 10 Health Instagram Influencers In South Africa In 2020
 description: >-
-  Find top health Instagram influencers in South Africa in 2020. Most popular hashtags: #gym #workout #summer #fitness.
+  Find top health Instagram influencers in South Africa in 2020. Most popular hashtags: #covid #friends #gifted #delicious.
 platform: Instagram
 profiles:
-  - username: "berinakadric"
-    fullname: >-
-      Berina  🌙  poet ∽ writer
-    location: "South Africa"
-    followers: 12612
-    engagement: 1456
-    commentsToLikes: 0.075497
-    id: ck5q3jchsl0ao0i11zs0zkbqv
-    verified: false
-    hashtags: "#genderviolence, #enoughisenough"
-  - username: "stellathelight"
-    fullname: >-
-      Earth to Mouth™
-    location: "South Africa"
-    followers: 77617
-    engagement: 322
-    commentsToLikes: 0.034551
-    id: ck0u12aenvj9c0i195wljxvos
-    verified: false
-    hashtags: "#whatsyourorigin, #nolabels, #thegiftofgoodhealth, #andhealthypancakes"
   - username: "saskiatopp"
     fullname: >-
       Saskia Jordyn Topp
     location: "South Africa"
-    followers: 29301
-    engagement: 229
-    commentsToLikes: 0.051428
+    followers: 30060
+    engagement: 260
+    commentsToLikes: 0.075074
     id: ck6u2s7s2tmls0j71eprx8zjp
     verified: false
-    hashtags: "#monday, #smilemore, #desperatehousewives, #lockdownworkout"
+    hashtags: "#vacationmood, #vacationmodeon, #health, #carltonhair"
   - username: "kissblushandtell"
     fullname: >-
       KISS, BLUSH & TELL
     location: "South Africa"
-    followers: 36678
-    engagement: 879
-    commentsToLikes: 0.235188
+    followers: 37394
+    engagement: 254
+    commentsToLikes: 0.070006
     id: ck5q8fzye5ztx0i11tha1d1zz
     verified: false
-    hashtags: "#skincare, #kbtmademedoit, #ad, #kbtmademedoit"
+    hashtags: "#kbtmademedoit, #ad, #retinolrules, #skinrepublic"
+  - username: "lilyonthemove"
+    fullname: >-
+      Lily | Travel | Lifestyle
+    location: "South Africa"
+    followers: 2365
+    engagement: 2933
+    commentsToLikes: 0.119557
+    id: ck5hmf4r7lu4p0i11pahq0cw1
+    verified: false
+    hashtags: "#explorequebec, #epicshotz5k, #starscape, #networkbangers"
   - username: "chelsearosehart"
     fullname: >-
       CHELSEA🦋HART
@@ -54,54 +44,64 @@ profiles:
     id: ck6tzbm358qx70j71z4qos6z8
     verified: false
     hashtags: "#bali2020"
-  - username: "healthylivingwithdaniella"
+  - username: "elena_pappas"
     fullname: >-
-      NUTRITION》FITNESS》DAN LAGERWEY
+      Elena Pappas
     location: "South Africa"
-    followers: 10463
-    engagement: 404
-    commentsToLikes: 0.045510
-    id: ck134auo1vjdw0i19kli26zby
+    followers: 31060
+    engagement: 173
+    commentsToLikes: 0.074355
+    id: ck6tp7jjfi9jx0j71377rojj2
     verified: false
-    hashtags: "#cringe, #letshussle, #winning, #cottononbody"
-  - username: "jeffzimbris"
+    hashtags: ""
+  - username: "ricardochristie"
     fullname: >-
-      J E F F  Z I M B R I S  🔹
+      LEMONYIP LIVIN! 🍋
     location: "South Africa"
-    followers: 56771
-    engagement: 862
-    commentsToLikes: 0.042193
-    id: ck6tzqrxobaul0j71fftvyafa
-    verified: false
-    hashtags: "#legsday, #happy, #cliftonbeach, #doglover"
-  - username: "tamzinthomas_"
-    fullname: >-
-      All Things Curly
-    location: "South Africa"
-    followers: 7758
-    engagement: 1245
-    commentsToLikes: 0.158222
-    id: ck15tn1u1iw700i199ksotvfd
-    verified: false
-    hashtags: "#hairstyles, #timesquareza, #quarantine, #naturalhairdoescare"
-  - username: "iamtwala"
-    fullname: >-
-      Twala Ng’ambi
-    location: "South Africa"
-    followers: 5495
-    engagement: 888
-    commentsToLikes: 0.080133
-    id: ck5cd5fcsikm60i114c8iu4m6
-    verified: false
-    hashtags: "#datenight, #naturalhair, #houseoftwala, #evachenpose"
+    followers: 49373
+    engagement: 383
+    commentsToLikes: 0.021248
+    id: ck14gssf76uec0i19x5mj6rjz
+    verified: true
+    hashtags: "#kiwimade, #rawlemonyip, #happymothersday, #plantbased"
   - username: "tracymcgregor"
     fullname: >-
       Tracy McGregor
     location: "South Africa"
-    followers: 25876
-    engagement: 321
-    commentsToLikes: 0.100091
+    followers: 27499
+    engagement: 356
+    commentsToLikes: 0.164399
     id: ck6ue97chpjuk0j71p6xoc0mx
     verified: false
-    hashtags: "#bornthree, #houseboat, #22weekspregnant, #gym"
+    hashtags: "#christmas, #beauty, #fitbit, #gifted"
+  - username: "nicole.gibbons"
+    fullname: >-
+      NICOLE T. GIBBONS
+    location: "South Africa"
+    followers: 12505
+    engagement: 744
+    commentsToLikes: 0.136125
+    id: ck9wfav3fo0v00j782q0ik9xq
+    verified: false
+    hashtags: "#2020, #healthyathome, #lovetolounge, #lawstudent"
+  - username: "olivermatthieu"
+    fullname: >-
+      Oliver Matthieu
+    location: "South Africa"
+    followers: 5038
+    engagement: 1682
+    commentsToLikes: 0.075509
+    id: ck15pkwu6ye0b0i19o3n9yx4s
+    verified: false
+    hashtags: "#funtime, #gtracinggame, #sibling, #yummychips"
+  - username: "candy_and_the_king"
+    fullname: >-
+      CANDY & JONTY | JOY | LAOS 🇱🇦
+    location: "South Africa"
+    followers: 10065
+    engagement: 720
+    commentsToLikes: 0.112207
+    id: ck6u0k1cvg58t0j71yc3ide1k
+    verified: false
+    hashtags: "#adventuregram, #positivepeople, #girlpowertravel, #wanderlove"
 ---

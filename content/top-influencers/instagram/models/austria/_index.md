@@ -1,107 +1,107 @@
 ---
 title: Top 10 Models Instagram Influencers In Austria In 2020
 description: >-
-  Find top models Instagram influencers in Austria in 2020. Most popular hashtags: #smile #stayhome #model #fashion.
+  Find top models Instagram influencers in Austria in 2020. Most popular hashtags: #workout #quarantine #coffeelover #life.
 platform: Instagram
 profiles:
+  - username: "katharinamazepa"
+    fullname: >-
+      Katharina Mazepa
+    location: "Austria"
+    followers: 230242
+    engagement: 541
+    commentsToLikes: 0.037194
+    id: ck5cjrf8evc790i112m8wvxlg
+    verified: false
+    hashtags: ""
   - username: "katerina.s.ph"
     fullname: >-
-      👑𝕶𝖆𝖙𝖊𝖗𝖎𝖓𝖆 𝕾👑
+      KAT👑
     location: "Austria"
-    followers: 213537
-    engagement: 931
-    commentsToLikes: 0.028449
+    followers: 270272
+    engagement: 1036
+    commentsToLikes: 0.024768
     id: ck0vykayw4fa60i19px722eow
     verified: false
-    hashtags: "#fashionblog, #stockings, #ruiva, #highheels"
+    hashtags: "#nature, #thepose, #elegant, #miniskirt"
   - username: "polinakolz"
     fullname: >-
       
     location: "Austria"
-    followers: 39717
-    engagement: 1256
-    commentsToLikes: 0.026267
+    followers: 39945
+    engagement: 1231
+    commentsToLikes: 0.026557
     id: ck6tycv352zn70j71f7pl59un
     verified: false
-    hashtags: "#versace, #jonakwien, #bristolvienna, #vienneeswcharmtoday"
-  - username: "terezabudkova"
+    hashtags: "#vienneeswcharmtoday, #versace, #jonakwien, #bristolvienna"
+  - username: "baraabolat"
     fullname: >-
-      Tereza Budková
+      B A R A A •
     location: "Austria"
-    followers: 77631
-    engagement: 497
-    commentsToLikes: 0.029766
-    id: ck6tpthc4mrf00j717n7qvztb
-    verified: true
-    hashtags: "#snikers, #behindthescenes, #bridalmakeup, #springfashion"
+    followers: 27813
+    engagement: 1345
+    commentsToLikes: 0.019991
+    id: ck5hjtjl8h85f0i11234llk9m
+    verified: false
+    hashtags: "#song, #justforfun, #sponsored, #quarantine"
   - username: "oliver_stummvoll"
     fullname: >-
       Oliver Stummvoll
     location: "Austria"
-    followers: 33297
-    engagement: 1112
-    commentsToLikes: 0.016980
+    followers: 36422
+    engagement: 1305
+    commentsToLikes: 0.016890
     id: ck6ui19yucgoa0j7111pzbof7
     verified: false
-    hashtags: "#loveforeveryone, #wintermood, #christmas, #fitnessjourney"
-  - username: "angelina.kirsch"
+    hashtags: "#coffee, #shining, #beyourself, #morning"
+  - username: "zoekarapetyan"
     fullname: >-
-      Angelina Kirsch
+      Zoé Karapetyan
     location: "Austria"
-    followers: 185908
-    engagement: 412
-    commentsToLikes: 0.020532
-    id: ck5qbe4o4l5ja0i118y8n7hcl
-    verified: true
-    hashtags: "#fashion, #world, #repost, #ladyinred"
-  - username: "balabanmarija"
-    fullname: >-
-      Marija Balaban
-    location: "Austria"
-    followers: 6404
-    engagement: 1427
-    commentsToLikes: 0.020436
-    id: ck5bvxpuukltl0i11olcuexkg
+    followers: 20904
+    engagement: 283
+    commentsToLikes: 0.067561
+    id: ckaozti7lnbzv0i78iriwkd0k
     verified: false
-    hashtags: "#besties, #mommysgirl, #tiktok, #mocljubavi"
+    hashtags: "#plantsofinstagram, #sunsetphotography, #urlaubaufterrassien, #styledayfriday"
   - username: "_aleksagavrilovic_"
     fullname: >-
       ᴀ ʟ ᴇ ᴋ s ᴀ
     location: "Austria"
-    followers: 33582
-    engagement: 726
-    commentsToLikes: 0.032534
+    followers: 33180
+    engagement: 745
+    commentsToLikes: 0.032220
     id: ck6u87zjcpyo40j71e1q00wbx
     verified: false
-    hashtags: "#muscles, #seychelles, #happy, #luxury"
-  - username: "saman_lotfi"
+    hashtags: "#teatro, #bugattichiron, #corona, #traning"
+  - username: "terezabudkova"
     fullname: >-
-      SAMAN LOTFI (SAM)
+      Tereza Budková
     location: "Austria"
-    followers: 21233
-    engagement: 324
-    commentsToLikes: 0.048991
-    id: ck0tumfts7r2w0i1952xft7a6
-    verified: false
-    hashtags: "#saman, #samanlotfisam, #saman, #samanlotfisam"
-  - username: "alina_chlebecek_official"
+    followers: 80148
+    engagement: 569
+    commentsToLikes: 0.018387
+    id: ck6tpthc4mrf00j717n7qvztb
+    verified: true
+    hashtags: "#homewear, #zakynthos, #coffeeshop, #whatelse"
+  - username: "santavyfabian"
     fullname: >-
-      Alina Chlebecek
+      Fabian Santavy
     location: "Austria"
-    followers: 17218
-    engagement: 342
-    commentsToLikes: 0.038957
-    id: ck5qc25u5ohvs0i118iqorisz
+    followers: 12489
+    engagement: 4874
+    commentsToLikes: 0.010489
+    id: ckaosy5mntjh20i78yrwvsbc9
     verified: false
-    hashtags: "#throwbacksummer, #beautyphotography, #stayhome, #embraceyourcurves"
-  - username: "beatrice.koermer"
+    hashtags: ""
+  - username: "katarzyna_czulek"
     fullname: >-
-      👑 Miss Vienna 2019/20
+      Katarzyna Czułek
     location: "Austria"
-    followers: 21345
-    engagement: 780
-    commentsToLikes: 0.030941
-    id: ck6tzqm2qb9uj0j712ycho48s
+    followers: 253295
+    engagement: 110
+    commentsToLikes: 0.037137
+    id: ck5hhidmw8dsx0i11l652abqo
     verified: false
-    hashtags: "#topkapi, #maskenball, #legend, #covermodel"
+    hashtags: "#instaphoto, #weekendtime, #husbandandwife, #bestfriends"
 ---

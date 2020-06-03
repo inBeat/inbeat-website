@@ -1,107 +1,107 @@
 ---
 title: Top 10 Instagram Influencers In Serbia In 2020
 description: >-
-  Find top Instagram influencers in Serbia in 2020. Most popular hashtags: #spring #makeup #rts #happiness.
+  Find top Instagram influencers in Serbia in 2020. Most popular hashtags: #photography #wedding #food #happy.
 platform: Instagram
 profiles:
-  - username: "malibojan_4"
+  - username: "caniceva.makeup"
     fullname: >-
-      Bojan Malisic
+      Ivana Canić | Makeup
     location: "Serbia"
-    followers: 479826
-    engagement: 1898
-    commentsToLikes: 0.025176
-    id: ck0w4twgt0ed80i19ygu1mp98
-    verified: true
-    hashtags: ""
+    followers: 6535
+    engagement: 1547
+    commentsToLikes: 0.138714
+    id: ck14kijx8poah0i19kf6kogrc
+    verified: false
+    hashtags: "#cosmetics, #nyxcosmetics, #instamakeup, #closeup"
   - username: "callmeninax"
     fullname: >-
-      N I N N A
+      N I N A
     location: "Serbia"
-    followers: 6112
-    engagement: 854
-    commentsToLikes: 0.324585
+    followers: 6121
+    engagement: 873
+    commentsToLikes: 0.382561
     id: ck14kiit3po5h0i1997wcgfew
     verified: false
-    hashtags: "#elizavecca, #iheartrevolution, #flawlessskin, #instablogger"
-  - username: "hosaeok"
-    fullname: >-
-      prickasso サラ Sara
-    location: "Serbia"
-    followers: 23743
-    engagement: 1571
-    commentsToLikes: 0.016936
-    id: ck15ultcbnt550i19tlly0iio
-    verified: false
-    hashtags: "#blackpinkfanart, #kimjisoo, #exol, #yoongi"
-  - username: "dannicakrstic"
-    fullname: >-
-      Danica Krstic
-    location: "Serbia"
-    followers: 11071
-    engagement: 1190
-    commentsToLikes: 0.014700
-    id: ck13d1o8437sz0i19jtdwyk99
-    verified: false
-    hashtags: "#razbibriga, #happynewyear, #danicakrstic, #newalbum"
+    hashtags: "#quarantinelife, #colorfulmakeup, #amrezy, #bmuaizazovi"
   - username: "sosity_regi"
     fullname: >-
       S o s i t y   R e g i
     location: "Serbia"
-    followers: 30031
-    engagement: 163
-    commentsToLikes: 0.044460
+    followers: 29982
+    engagement: 209
+    commentsToLikes: 0.062876
     id: ck14h1e1z82460i19g8vf26cm
     verified: false
-    hashtags: "#fashionista, #natural, #birthdayweek, #birthdaymonth"
-  - username: "ivonapantelic"
+    hashtags: "#gourmet, #swimmingpool, #foodporn, #tutorial"
+  - username: "hosaeok"
     fullname: >-
-      Ivona Pantelic
+      prickasso サラ
     location: "Serbia"
-    followers: 14563
-    engagement: 726
-    commentsToLikes: 0.020215
-    id: ck0w39m2ys9vy0i19jdskzryv
+    followers: 24516
+    engagement: 1646
+    commentsToLikes: 0.014986
+    id: ck15ultcbnt550i19tlly0iio
     verified: false
-    hashtags: "#bigbendrts, #tvhost, #newspresenter, #tvnewslife"
-  - username: "jovanovicjelena7"
+    hashtags: "#bangtanboys, #drawing, #jeno, #zhongchenle"
+  - username: "dannicakrstic"
     fullname: >-
-      Jelena Jovanovic| FITNESS
+      Danica Krstic
     location: "Serbia"
-    followers: 15078
-    engagement: 665
-    commentsToLikes: 0.013964
-    id: ck13cn7ld16lr0i19lvlruztz
+    followers: 11176
+    engagement: 1275
+    commentsToLikes: 0.014727
+    id: ck13d1o8437sz0i19jtdwyk99
     verified: false
-    hashtags: "#bodygoals, #bodyweight, #fitness, #progress"
-  - username: "natasastankovic__"
+    hashtags: "#kombankdvorana, #happybirthday, #newyearparty, #ninabibercic"
+  - username: "ifbbpro_maksim_trzin"
     fullname: >-
-      Nataša Stanković✨
+      𝗢𝗡𝗟𝗜𝗡𝗘 𝗖𝗼𝗮𝗰𝗵 | 𝗜𝗙𝗕𝗕 𝗣𝗥𝗢
     location: "Serbia"
-    followers: 1503156
-    engagement: 1854
-    commentsToLikes: 0.003316
-    id: ck15prfsqzaaq0i19jn1ygdrb
-    verified: true
-    hashtags: "#aboutlastnight, #curly, #quarantine, #memories"
-  - username: "decak_iz_topole"
-    fullname: >-
-      Milos 25 📌Topola, Serbia
-    location: "Serbia"
-    followers: 13513
-    engagement: 1913
-    commentsToLikes: 0.032606
-    id: ck0u1oo29xje70i19ic45oduk
+    followers: 7048
+    engagement: 720
+    commentsToLikes: 0.016710
+    id: ck134qkkdxppq0i19nip5s8jl
     verified: false
-    hashtags: "#1000follow, #tagsforlikes, #prirodale, #actforamazonia"
+    hashtags: "#chestpress, #stage, #nevergiveup, #staycalm"
   - username: "vilerovi_medenjaci"
     fullname: >-
       🍯💕 MEDENJACI 💕🍯
     location: "Serbia"
-    followers: 32902
-    engagement: 1034
-    commentsToLikes: 0.010344
+    followers: 33271
+    engagement: 795
+    commentsToLikes: 0.014807
     id: ck0tzxp46rw7g0i19yjctljjg
     verified: false
-    hashtags: "#sugarcookies, #newyear, #cookies, #serbia"
+    hashtags: "#beograd, #instacakes, #christmasdecor, #decoration"
+  - username: "decak_iz_topole"
+    fullname: >-
+      Milos Simic
+    location: "Serbia"
+    followers: 21553
+    engagement: 1548
+    commentsToLikes: 0.037956
+    id: ck0u1oo29xje70i19ic45oduk
+    verified: false
+    hashtags: "#europetravel, #legend, #thecreateart, #artdaily"
+  - username: "dejan.kide"
+    fullname: >-
+      Z | Landscape Photographer
+    location: "Serbia"
+    followers: 2830
+    engagement: 1787
+    commentsToLikes: 0.053413
+    id: ck15qsqnu4ge60i19qoscexph
+    verified: false
+    hashtags: "#photooftheday, #bestdarkphoto, #picoftheday, #createyourlight"
+  - username: "nemanjamatic"
+    fullname: >-
+      Nemanja Matic
+    location: "Serbia"
+    followers: 1657783
+    engagement: 410
+    commentsToLikes: 0.005132
+    id: ck0w2on9vpfnt0i19ngax7a2y
+    verified: true
+    hashtags: "#svemoje, #f1, #ggmu, #happybirthday"
 ---

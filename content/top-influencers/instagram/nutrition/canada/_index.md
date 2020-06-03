@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Canada In 2020
 description: >-
-  Find top nutrition Instagram influencers in Canada in 2020. Most popular hashtags: #fitness #fitnessmotivation #love #photography.
+  Find top nutrition Instagram influencers in Canada in 2020. Most popular hashtags: #2020 #quarantine #ad #lifestyle.
 platform: Instagram
 profiles:
-  - username: "kakookie_cosplay"
+  - username: "bellsebobo"
     fullname: >-
-      Kakookie
+      FILIPINA X GHANAIAN 🇵🇭🇬🇭
     location: "Canada"
-    followers: 7824
-    engagement: 1696
-    commentsToLikes: 0.022467
-    id: ck8szds4jo0vq0j78bb60t04k
+    followers: 437015
+    engagement: 969
+    commentsToLikes: 0.014563
+    id: ck8swqzhtexr60j783kelpfnx
     verified: false
-    hashtags: "#remandramcosplay, #rezeroremandram, #succubus, #photography"
-  - username: "devinmoorman"
+    hashtags: "#missygirl, #missyempire, #ad, #filipina"
+  - username: "lauriedouceur"
     fullname: >-
-      Devin Moorman
+      Laurie Côté
     location: "Canada"
-    followers: 11872
-    engagement: 905
-    commentsToLikes: 0.032172
-    id: ck5hm9h3yljn40i11wrgm4vlu
+    followers: 24778
+    engagement: 278
+    commentsToLikes: 0.076677
+    id: ck5zq2s7gttvc0i147whkoj23
     verified: false
-    hashtags: "#instafit, #fitspiration, #fitnessgoal, #gymtime"
-  - username: "tovfitness"
+    hashtags: "#lienaffili, #birthdayhomeparty, #essentielsco, #affiliation"
+  - username: "danielle.vaughan"
     fullname: >-
-      TOVA💖
+      D A N I E L L E
     location: "Canada"
-    followers: 9452
-    engagement: 655
-    commentsToLikes: 0.180734
-    id: ck6uil7k3fo5u0j71onk2dgkx
+    followers: 271415
+    engagement: 380
+    commentsToLikes: 0.022487
+    id: ck5bwusrkmghd0i111imiupii
     verified: false
-    hashtags: "#feelingstrong, #happymonday, #happysunday, #happyfriday"
+    hashtags: ""
+  - username: "stefaniaangelinax"
+    fullname: >-
+      STEFANIA ♔
+    location: "Canada"
+    followers: 3592
+    engagement: 2181
+    commentsToLikes: 0.121539
+    id: ck6ttoeukbq3r0j71ckpuzcsm
+    verified: false
+    hashtags: "#brandpartner, #crazydogmom, #foodfriday, #ad"
   - username: "aaparker1"
     fullname: >-
       Alex Parker
     location: "Canada"
-    followers: 50039
-    engagement: 349
-    commentsToLikes: 0.020269
+    followers: 49660
+    engagement: 347
+    commentsToLikes: 0.026513
     id: ck0vweg7wtbpd0i19s7p5by66
     verified: false
-    hashtags: "#selfisolation, #crossfitopen2020, #crossfitgames, #supplements"
-  - username: "anabolicangel"
+    hashtags: "#synchro, #benchpress, #bornprimitive, #crossfitgirls"
+  - username: "devinmoorman"
     fullname: >-
-      Kate Cook
+      Devin Moorman
     location: "Canada"
-    followers: 15330
-    engagement: 346
-    commentsToLikes: 0.032193
-    id: ck0w4b5t7xpcf0i19x8py130k
+    followers: 12058
+    engagement: 866
+    commentsToLikes: 0.033758
+    id: ck5hm9h3yljn40i11wrgm4vlu
     verified: false
-    hashtags: "#takecareofyourself, #selfcare, #mombod, #8monthspostpartum"
-  - username: "natbeers"
+    hashtags: "#gymselfie, #weightlifting, #fitnesslife, #fitnessforlife"
+  - username: "vaness.zing"
     fullname: >-
-      nat beers
+      Vanessa Zingaro 🌎
     location: "Canada"
-    followers: 20660
-    engagement: 390
-    commentsToLikes: 0.022657
-    id: ck8tb6fizuhi90j78qmurt7bm
+    followers: 35248
+    engagement: 572
+    commentsToLikes: 0.017958
+    id: ck0w3cl65spx40i19wrh7efuh
     verified: false
-    hashtags: "#personalspaceenthusiast"
+    hashtags: "#hallelujah, #eatinggood, #2020, #lockdown"
   - username: "claudia.mars"
     fullname: >-
-      𝐂𝐋𝐀𝐔𝐃𝐈𝐀🌞
+      Claudia Mars
     location: "Canada"
-    followers: 217457
-    engagement: 265
-    commentsToLikes: 0.032459
+    followers: 214400
+    engagement: 235
+    commentsToLikes: 0.055300
     id: ck0w3ms6tu7eo0i19tni0esca
     verified: false
-    hashtags: "#certifiednutritionspecialist, #titanstrong, #healthtips, #shareyourlight"
+    hashtags: "#nebbiafitness, #risewithclaudia, #teanglematcha, #shareyourlight"
   - username: "spinellle"
     fullname: >-
       𝐍𝐈𝐑𝐕𝐀𝐍𝐀 𝐇𝐎𝐖𝐄𝐋𝐋
     location: "Canada"
-    followers: 8035
-    engagement: 620
-    commentsToLikes: 0.032331
+    followers: 8886
+    engagement: 705
+    commentsToLikes: 0.032854
     id: ck5c10afnu74y0i11cp3k832w
     verified: false
-    hashtags: "#fitnessmotivation, #lifestyle, #photoposes, #torontophotography"
-  - username: "herpowerlifestyle"
+    hashtags: "#noedits, #blondegirl, #hdmuscle, #preworkout"
+  - username: "minxinstyle"
     fullname: >-
-      Health & Fitness Specialist
+      Jill Bradley (RHN)
     location: "Canada"
-    followers: 25241
-    engagement: 77
-    commentsToLikes: 0.027519
-    id: ck5hiaxqmck4q0i11u31w654b
+    followers: 18680
+    engagement: 289
+    commentsToLikes: 0.082256
+    id: ckaotv4erxnql0i78tyhhxzax
     verified: false
-    hashtags: "#fitnesslifestyle, #breakfasttvtoronto, #fitnesslife, #pullapound"
-  - username: "derek.veregen"
-    fullname: >-
-      Coach Derek
-    location: "Canada"
-    followers: 34328
-    engagement: 151
-    commentsToLikes: 0.045010
-    id: ck5ck0nahvvse0i11tr8m3du5
-    verified: false
-    hashtags: "#learn, #development, #healing, #perfectsports"
+    hashtags: "#casting, #beautiful"
 ---

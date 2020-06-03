@@ -1,107 +1,107 @@
 ---
 title: Top 10 Djs Instagram Influencers In Spain In 2020
 description: >-
-  Find top djs Instagram influencers in Spain in 2020. Most popular hashtags: #djlife #dj #party #pioneerdj.
+  Find top djs Instagram influencers in Spain in 2020. Most popular hashtags: #music #techno #musica #love.
 platform: Instagram
 profiles:
   - username: "djmireiadg"
     fullname: >-
       MIREIA DG 🦁
     location: "Spain"
-    followers: 3916
-    engagement: 1996
-    commentsToLikes: 0.657571
+    followers: 4023
+    engagement: 1891
+    commentsToLikes: 0.485803
     id: ck6tyef3l390q0j71v732qrcf
     verified: false
-    hashtags: "#party, #greeneyes, #music, #longhair"
-  - username: "sergialesdj"
+    hashtags: "#dance, #wavyhair, #tech, #tutorial"
+  - username: "reggiomusic"
     fullname: >-
-      𝙎𝙀𝙍𝙂𝙄 𝘼𝙇𝙀𝙎
+      REGGIO
     location: "Spain"
-    followers: 7484
-    engagement: 875
-    commentsToLikes: 0.223117
-    id: ck6ufsfe9yvbu0j71fmx5z03y
+    followers: 37021
+    engagement: 319
+    commentsToLikes: 0.067815
+    id: ck0u7auyo46cj0i19gb18xlx6
     verified: false
-    hashtags: "#cuarentena, #mixing, #tech, #reggeton"
-  - username: "eduuelizondo"
-    fullname: >-
-      ⚡️ EDU ELIZONDO ⚡️
-    location: "Spain"
-    followers: 9799
-    engagement: 532
-    commentsToLikes: 0.018952
-    id: ck6tp1r16hcml0j71utr29p61
-    verified: false
-    hashtags: "#carnaval, #travel, #traveltips, #krabi"
+    hashtags: "#reggio, #2020, #music, #deeplove"
   - username: "rosananundj"
     fullname: >-
       Rosana Nun 🎧
     location: "Spain"
-    followers: 11668
-    engagement: 447
-    commentsToLikes: 0.040019
+    followers: 9617
+    engagement: 644
+    commentsToLikes: 0.056410
     id: ck15rolo38xq00i19jwdqmhm5
     verified: false
-    hashtags: "#nofilterneeded, #musicproducer, #interview, #weekend"
-  - username: "indirozie"
+    hashtags: "#weekend, #video, #djbooth, #facebooklive"
+  - username: "eduuelizondo"
     fullname: >-
-      ⚔️ 𝕴𝖓𝖉𝖎𝖌𝖔 𝕽𝖔𝖟𝖊 ⚔️
+      ⚡️ EDU ELIZONDO ⚡️
     location: "Spain"
-    followers: 6437
-    engagement: 463
-    commentsToLikes: 0.050663
-    id: ck6u7kn12m2pw0j7124d2aoz9
+    followers: 9460
+    engagement: 529
+    commentsToLikes: 0.021198
+    id: ck6tp1r16hcml0j71utr29p61
     verified: false
-    hashtags: "#girls, #popartist, #indigoroze, #music"
-  - username: "sergeirez"
+    hashtags: "#love, #bananamambo, #edit, #carnaval2020"
+  - username: "djpeligroperu"
     fullname: >-
-      𝐒𝐄𝐑𝐆𝐄𝐈 𝐑𝐄𝐙!
+      DJ PELIGRO
     location: "Spain"
-    followers: 34615
-    engagement: 1019
-    commentsToLikes: 0.050340
-    id: ck5zkjumsjm3o0i14rnssjj6t
+    followers: 101010
+    engagement: 141
+    commentsToLikes: 0.107244
+    id: ck14hu66tc5ok0i19ah1x2r4n
     verified: false
-    hashtags: "#djlife, #starterdj, #sorteo, #djs"
-  - username: "danybpm"
+    hashtags: "#perreitoencuarentena, #venezuela, #astronomia, #challenge"
+  - username: "sergialesdj"
     fullname: >-
-      Dany BPM
+      𝙎𝙀𝙍𝙂𝙄 𝘼𝙇𝙀𝙎
     location: "Spain"
-    followers: 18228
-    engagement: 411
-    commentsToLikes: 0.042582
-    id: ck6u43on01i1o0j71vo4rrpeh
+    followers: 7732
+    engagement: 851
+    commentsToLikes: 0.226439
+    id: ck6ufsfe9yvbu0j71fmx5z03y
     verified: false
-    hashtags: "#quarantine, #stayathome, #diamundialdelaradio, #producerlife"
-  - username: "valeriaa_lm"
+    hashtags: "#chimbala, #dance, #aftermovie, #moombahton"
+  - username: "mambobrothers"
     fullname: >-
-      ❔❔❔
+      MamboBrothers 🌵
     location: "Spain"
-    followers: 10599
-    engagement: 802
-    commentsToLikes: 0.034717
-    id: ck15scoakcc9q0i19op42xc8m
-    verified: false
-    hashtags: "#moment, #skincare, #picture, #khopkhunka"
-  - username: "raul_mezcolanza"
-    fullname: >-
-      Raul Mezcolanza
-    location: "Spain"
-    followers: 11186
-    engagement: 762
-    commentsToLikes: 0.025340
-    id: ck5zpygtxtla40i142ajn37u0
-    verified: false
-    hashtags: "#2019, #music, #fiesta, #djclub"
-  - username: "garoloofficial"
-    fullname: >-
-      Garolo With Cachopo
-    location: "Spain"
-    followers: 31871
-    engagement: 398
-    commentsToLikes: 0.049514
-    id: ck5c26pt4wnbg0i1147lwacmy
+    followers: 82880
+    engagement: 97
+    commentsToLikes: 0.042478
+    id: ck0vye7u23j8e0i197dha03dv
     verified: true
-    hashtags: "#quedateencasa, #madrid, #montijo, #romangroove"
+    hashtags: "#thankslife, #mamboclosing, #mamboopening, #lionshead"
+  - username: "joseramvar_"
+    fullname: >-
+      Jose Ramirez 💎
+    location: "Spain"
+    followers: 286673
+    engagement: 402
+    commentsToLikes: 0.029206
+    id: ck8t74qpgfn4a0j78kin2wmr3
+    verified: false
+    hashtags: "#amarillo, #julietasenger, #joseramires, #dato"
+  - username: "krydermusic"
+    fullname: >-
+      K̶R̶Y̶D̶E̶R̶
+    location: "Spain"
+    followers: 83535
+    engagement: 223
+    commentsToLikes: 0.064284
+    id: ck0u6gjl51ywk0i1942rzghu7
+    verified: true
+    hashtags: "#caribbean, #2020, #nautilus, #numberone"
+  - username: "lolabozzano"
+    fullname: >-
+      Lola Bozzano
+    location: "Spain"
+    followers: 15136
+    engagement: 558
+    commentsToLikes: 0.041468
+    id: ck1387tgmewvw0i19jo83fi9q
+    verified: false
+    hashtags: "#blusky, #beautifulsky, #technopartys, #dancemoves"
 ---

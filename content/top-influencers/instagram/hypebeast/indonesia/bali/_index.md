@@ -1,107 +1,107 @@
 ---
 title: Top 10 Hypebeast Instagram Influencers In Bali In 2020
 description: >-
-  Find top hypebeast Instagram influencers in Bali in 2020. Most popular hashtags: #hypebeast #bali #artofvisuals #theglobewanderer.
+  Find top hypebeast Instagram influencers in Bali in 2020. Most popular hashtags: #hypebeast #bali #fashion #ootd.
 platform: Instagram
 profiles:
-  - username: "thib_sel"
-    fullname: >-
-      Streetstyle And Travel
-    location: "Indonesia"
-    followers: 19183
-    engagement: 492
-    commentsToLikes: 0.056134
-    id: ck8syrktjlqk70j78weosc66a
-    verified: false
-    hashtags: "#ootdfashion, #newcollection, #instapost, #streetlook"
-  - username: "debucung"
-    fullname: >-
-      Ingga Suwandana | Photographer
-    location: "Indonesia"
-    followers: 70449
-    engagement: 151
-    commentsToLikes: 0.053951
-    id: ck0u0vx7fv03n0i197vn2or4u
-    verified: false
-    hashtags: "#tenagakerjaimpian, #fantastic, #folkscenery, #portraiture"
-  - username: "alexbeuwy"
-    fullname: >-
-      Alex
-    location: "Indonesia"
-    followers: 4992
-    engagement: 922
-    commentsToLikes: 0.037634
-    id: ck1391bdvj1gu0i19k2aca3nu
-    verified: false
-    hashtags: "#game, #gratitude, #startup, #ricer"
-  - username: "mspencerx"
-    fullname: >-
-      Michael Spencer 🔗 | Supreme
-    location: "Indonesia"
-    followers: 14166
-    engagement: 673
-    commentsToLikes: 0.019136
-    id: ck5qbfzc9lfmf0i117spe82i5
-    verified: false
-    hashtags: "#hypebeastkicks, #bandungsneakerseason, #localpride, #empire"
-  - username: "n_pikri"
-    fullname: >-
-      Fikri Upik
-    location: "Indonesia"
-    followers: 5639
-    engagement: 1383
-    commentsToLikes: 0.228683
-    id: ck5bzdsk0qy4c0i11h41vzq95
-    verified: false
-    hashtags: "#natgeotravel, #createexploretakeover, #womenportrait, #wujudkanjo"
-  - username: "dropkcalb"
-    fullname: >-
-      Jaspreet ✪
-    location: "Indonesia"
-    followers: 12522
-    engagement: 187
-    commentsToLikes: 0.089781
-    id: ck8t0bpxxriwh0j78eh8nw6ga
-    verified: false
-    hashtags: "#creativemobs, #travelunder10k, #instagood, #cityphotography"
-  - username: "pierluigimusco"
-    fullname: >-
-      Pierluigi Musco
-    location: "Indonesia"
-    followers: 69899
-    engagement: 172
-    commentsToLikes: 0.018513
-    id: ck8wetzr8elvj0j788bixo071
-    verified: false
-    hashtags: "#lifestyleblog, #photography, #lowlightphotography, #treesforthefuture"
   - username: "localbrandedindonesian"
     fullname: >-
       LOCAL BRAND INDONESIA
     location: "Indonesia"
-    followers: 6000
-    engagement: 2170
-    commentsToLikes: 0.028683
+    followers: 16245
+    engagement: 1023
+    commentsToLikes: 0.017316
     id: ck8tctr0d0ndd0j78cn57i6k0
     verified: false
-    hashtags: "#streetfashion, #gentlemenstyle, #sneakerindonesia, #sneakersoftheday"
-  - username: "sultanbsmllh"
+    hashtags: "#cargopants, #project, #produklokal, #beanie"
+  - username: "n_pikri"
     fullname: >-
-      Sultan🌀
+      Fikri Upik
     location: "Indonesia"
-    followers: 4616
-    engagement: 3296
-    commentsToLikes: 0.207495
-    id: ck5qajd7ygpk70i11jg3o7git
+    followers: 5615
+    engagement: 1401
+    commentsToLikes: 0.226729
+    id: ck5bzdsk0qy4c0i11h41vzq95
     verified: false
-    hashtags: "#randompic, #anakikutikutan, #womenmagz, #streetxstory"
-  - username: "frans_sanjaya"
+    hashtags: "#bestplacestogo, #artofvisuals, #travelawesome, #thecreatorclass"
+  - username: "andrew_yogi"
     fullname: >-
-      Frans Sanjaya
+      Andrew Yogi
     location: "Indonesia"
-    followers: 121691
-    engagement: 470
-    commentsToLikes: 0.041764
-    id: ck15tbib7ha0r0i198y1u6bsw
+    followers: 57271
+    engagement: 390
+    commentsToLikes: 0.012274
+    id: ck5cgqzx1pdz10i1161ciiv85
     verified: false
-    hashtags: "#hypebeastindonesia, #hanyamainanyangmempersatukankita, #shopeeid, #belanjadarirumah"
+    hashtags: "#sunsetlover, #sore, #streetwear, #potrait"
+  - username: "arifwhy"
+    fullname: >-
+      Bumbu Indomie
+    location: "Indonesia"
+    followers: 4935
+    engagement: 413
+    commentsToLikes: 0.027964
+    id: ck13bdl1qux2u0i19gp4m087d
+    verified: false
+    hashtags: "#mascott, #parasite, #barong, #artobiantoro"
+  - username: "kopi.cat"
+    fullname: >-
+      Catherine Wong
+    location: "Indonesia"
+    followers: 11145
+    engagement: 358
+    commentsToLikes: 0.029852
+    id: ck14i7la5e1fv0i19cyv2pf06
+    verified: false
+    hashtags: "#chique, #pinkaesthetic, #hkfoodie, #mejuri"
+  - username: "gussdian"
+    fullname: >-
+      Video & Photo Editor
+    location: "Indonesia"
+    followers: 26903
+    engagement: 179
+    commentsToLikes: 0.022089
+    id: ck5q04vl649ey0i11vw5vtbij
+    verified: false
+    hashtags: "#instagram, #discoverearth, #urbanandstreet, #folevibe"
+  - username: "fajarnasution"
+    fullname: >-
+      JAR 📍#indonesia
+    location: "Indonesia"
+    followers: 15616
+    engagement: 300
+    commentsToLikes: 0.124892
+    id: ck9wi5p8q0uq50j78hds9npev
+    verified: false
+    hashtags: "#moodnation, #voyaged, #togean, #sonyalpha"
+  - username: "zona.sepakbolaid"
+    fullname: >-
+      FAKTABOLA | INFO SEPUTAR BOLA
+    location: "Indonesia"
+    followers: 46267
+    engagement: 293
+    commentsToLikes: 0.007114
+    id: ck9harez6dsji0j78u2u20mss
+    verified: false
+    hashtags: "#zenwin88, #online, #update, #medotjanji"
+  - username: "beritapersijajakarta"
+    fullname: >-
+      BERITA PERSIJA JAKARTA
+    location: "Indonesia"
+    followers: 110072
+    engagement: 186
+    commentsToLikes: 0.003906
+    id: ckaoxa8yecgw10i78enp67iw5
+    verified: false
+    hashtags: "#mixparlay, #areadewasa, #papua, #customcaseiphone"
+  - username: "thib_sel"
+    fullname: >-
+      Streetstyle And Travel
+    location: "Indonesia"
+    followers: 18109
+    engagement: 519
+    commentsToLikes: 0.055277
+    id: ck8syrktjlqk70j78weosc66a
+    verified: false
+    hashtags: "#style, #custombike, #pool, #hanging"
 ---

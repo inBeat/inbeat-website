@@ -1,107 +1,107 @@
 ---
 title: Top 10 Outdoors Instagram Influencers In Norway In 2020
 description: >-
-  Find top outdoors Instagram influencers in Norway in 2020. Most popular hashtags: #nature #lofoten #mittnorge #utno.
+  Find top outdoors Instagram influencers in Norway in 2020. Most popular hashtags: #sunset #spring #coffee #north.
 platform: Instagram
 profiles:
-  - username: "unececilie"
-    fullname: >-
-      UNE CECILIE
-    location: "Norway"
-    followers: 24275
-    engagement: 663
-    commentsToLikes: 0.030883
-    id: ck15t0hl2fq8o0i190y1r4v6k
-    verified: false
-    hashtags: "#friluftsfersking"
-  - username: "northernknitting"
-    fullname: >-
-      🇳🇴 Northernknitting | Stine LV
-    location: "Norway"
-    followers: 27332
-    engagement: 483
-    commentsToLikes: 0.027638
-    id: ck0w7078ib3xq0i19lufsibqu
-    verified: false
-    hashtags: "#nyte, #klissklassmenfyttikattas, #sapmigenseren"
-  - username: "justanothernavygirl"
-    fullname: >-
-      Follow The Fear
-    location: "Norway"
-    followers: 14464
-    engagement: 630
-    commentsToLikes: 0.042365
-    id: ck0w3jnm2trcq0i19j0fzjlo6
-    verified: false
-    hashtags: "#stayhome, #throwback"
-  - username: "danielrayson"
-    fullname: >-
-      Daniel Rayson
-    location: "Norway"
-    followers: 6642
-    engagement: 1753
-    commentsToLikes: 0.151101
-    id: ck137cbvxau100i190dyfu8mm
-    verified: false
-    hashtags: "#naturepolis, #folkgreen, #dailytravels9, #instaroads"
   - username: "kristinabergsvik"
     fullname: >-
       KRISTINA BERGSVIK
     location: "Norway"
-    followers: 17306
-    engagement: 303
-    commentsToLikes: 0.019068
+    followers: 17598
+    engagement: 245
+    commentsToLikes: 0.019423
     id: ck135bh370nnp0i19y5u0y5gu
     verified: false
-    hashtags: "#duolivet, #deadinside, #oppussing, #diy"
+    hashtags: "#mycrib, #intetior, #spilevegg, #fulltidsjobb"
+  - username: "helenemoo"
+    fullname: >-
+      Helene Myhre
+    location: "Norway"
+    followers: 49202
+    engagement: 935
+    commentsToLikes: 0.009069
+    id: ck5c4kbyb1j7e0i11qd3wl7qc
+    verified: false
+    hashtags: "#creatingfromhome, #helenemoopresets, #digitalinterrail"
   - username: "frkannkristin"
     fullname: >-
       Ann-Kristin Bakkene
     location: "Norway"
-    followers: 6529
-    engagement: 1133
-    commentsToLikes: 0.029977
+    followers: 6747
+    engagement: 1035
+    commentsToLikes: 0.026556
     id: ck8t6vzm6evh00j78bfdu0so7
     verified: false
-    hashtags: "#revolutionrace, #natureisourplayground, #hiking, #topptur"
-  - username: "away81"
+    hashtags: "#topptur"
+  - username: "maja_odden"
     fullname: >-
-      Sergey Lukankin
+      🍁Maja Odden🍁
     location: "Norway"
-    followers: 30474
-    engagement: 636
-    commentsToLikes: 0.038697
-    id: ck14js1z7lw3w0i195vkkxdwl
+    followers: 89599
+    engagement: 550
+    commentsToLikes: 0.019148
+    id: ck14l0lazs9k40i19z2n577iz
     verified: false
-    hashtags: "#volvo, #xc90"
-  - username: "christiantrustrup"
+    hashtags: "#zodiacnorgeas, #browning, #17mai, #buck"
+  - username: "sivertsens"
     fullname: >-
-      CHRISTIAN TRUSTRUP
+      Stian Sivertsen 🇳🇴
     location: "Norway"
-    followers: 51520
-    engagement: 608
-    commentsToLikes: 0.029240
-    id: ck0u7nijh54pt0i19fkfm20bw
+    followers: 2309
+    engagement: 2397
+    commentsToLikes: 0.054077
+    id: ck5hgx4g7585e0i119uhxr1f9
     verified: false
-    hashtags: "#mittlekeland, #visittrondheim, #lofoten, #icelandair"
-  - username: "furstonetravels"
+    hashtags: "#bondhusvatnet, #north, #tomcruise, #bygdanytt"
+  - username: "bushcraftandcoffee"
     fullname: >-
-      Jonas Furstone | Traveller
+      Camilla
     location: "Norway"
-    followers: 14152
-    engagement: 1097
-    commentsToLikes: 0.120895
-    id: ck0uack1abwik0i19gfoq9fky
+    followers: 24275
+    engagement: 416
+    commentsToLikes: 0.028986
+    id: ckaovfta54fus0i788dthvlfh
     verified: false
-    hashtags: "#penguins, #instamontenegro, #riverside, #iceland"
-  - username: "psykolog.med.sovepose"
+    hashtags: "#opinelknife, #opinel, #woodenspoon, #survival"
+  - username: "rune.d"
     fullname: >-
-      Johanne S. Refseth
+      R u n e  D a l h e i m
     location: "Norway"
-    followers: 33635
-    engagement: 537
-    commentsToLikes: 0.030992
-    id: ck5pz9m56zw590i11gpueo4qz
+    followers: 5988
+    engagement: 752
+    commentsToLikes: 0.048127
+    id: ck5q13284914l0i110de6fipm
     verified: false
-    hashtags: "#natur, #mineturbilder, #visitnorway, #thegreatoutdoors"
+    hashtags: "#bestnatureshot, #river, #fall, #norsketurbilder"
+  - username: "sondreforsell"
+    fullname: >-
+      Sondre Forsell - Norway 🇳🇴
+    location: "Norway"
+    followers: 22139
+    engagement: 445
+    commentsToLikes: 0.027753
+    id: ck0vyom6s511a0i197fkzg7c5
+    verified: false
+    hashtags: "#throwback, #heimplanet, #tb, #alth"
+  - username: "turkjellene"
+    fullname: >-
+      TURKJELLENE
+    location: "Norway"
+    followers: 2583
+    engagement: 2260
+    commentsToLikes: 0.041153
+    id: ck6u9d7tbwvqw0j7159quzada
+    verified: false
+    hashtags: "#fjordnorway, #fjord, #skiing, #aktivejenter"
+  - username: "bernies_and_the_beast"
+    fullname: >-
+      Bernie🐶, Bella🐶 & the Beast🚐
+    location: "Norway"
+    followers: 5543
+    engagement: 1026
+    commentsToLikes: 0.027912
+    id: ck9wet3lvlpa80j78vf7ckkl2
+    verified: false
+    hashtags: "#bernesemountaindogs, #utp, #afterlockdown, #makingplans"
 ---

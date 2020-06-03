@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Finland In 2020
 description: >-
-  Find top travel Instagram influencers in Finland in 2020. Most popular hashtags: #suomi #helsinki #paris #france.
+  Find top travel Instagram influencers in Finland in 2020. Most popular hashtags: #helsinki #happybirthday #vappu #idealofsweden.
 platform: Instagram
 profiles:
-  - username: "tarukatarina"
+  - username: "justthetwo_"
     fullname: >-
-      Taru Kallionpää | FINLAND
+      BRINDA SHARMA
     location: "Finland"
-    followers: 11197
-    engagement: 1441
-    commentsToLikes: 0.098984
-    id: ck14lqhh5vz9q0i191rkmk9dk
-    verified: false
-    hashtags: "#babyontheway, #timetoshine, #keepitcrispy, #beunique"
-  - username: "lindseybeljaars"
+    followers: 234029
+    engagement: 1088
+    commentsToLikes: 0.039893
+    id: ck6uh8tno7p1d0j71v9g8srs7
+    verified: true
+    hashtags: "#icelanddiaries, #travelwithanunay, #spitidiaries, #gocorona"
+  - username: "veerahaapoja"
     fullname: >-
-      Lindsey | lindseybeljaars.nl
+      VEERA HAAPOJA
     location: "Finland"
-    followers: 11302
-    engagement: 888
-    commentsToLikes: 0.221605
-    id: ck6trcmtwy8560j71u3lnjmju
+    followers: 10870
+    engagement: 1001
+    commentsToLikes: 0.072891
+    id: ck0w49byvxfp00i19exzik4kd
     verified: false
-    hashtags: "#pandoragarden, #fitnesslife, #bodyandbeastplan, #shotforpandora"
+    hashtags: "#paulig, #kaupunkikahvit, #shakeittillyoumakeit, #ainojaatelo"
   - username: "jerusalemlicciardotoivola"
     fullname: >-
       Jerusalem Licciardo-Toivola
     location: "Finland"
-    followers: 44316
-    engagement: 1954
-    commentsToLikes: 0.032351
+    followers: 43956
+    engagement: 1991
+    commentsToLikes: 0.031972
     id: ck14kv4sqrglo0i19no9olrcg
     verified: false
-    hashtags: "#snowstorm, #coolkid, #throwback, #lovemysiblings"
-  - username: "sallasalmela"
+    hashtags: "#ocean, #siblings, #wheniwas5, #clown"
+  - username: "ninnupinnu"
     fullname: >-
-      𝓢𝓪𝓵𝓵𝓪 🇫🇮
+      Niina-Maria Lavonen
     location: "Finland"
-    followers: 9475
-    engagement: 1364
-    commentsToLikes: 0.109950
-    id: ck5c593272zzl0i111sdkcwz1
+    followers: 6528
+    engagement: 1020
+    commentsToLikes: 0.148080
+    id: ckap9hjohsn600i787zzpj3qo
     verified: false
-    hashtags: "#matkustus, #woltattu, #travelfever, #brunchtime"
-  - username: "jannixo"
+    hashtags: "#lastenhuone, #pregnancyweek41, #minitude, #jollyroom"
+  - username: "ritanic0le"
     fullname: >-
-      
+      𝓡𝓲𝓽𝓪 | MINISTYLE | LIFESTYLE |
     location: "Finland"
-    followers: 15342
-    engagement: 532
-    commentsToLikes: 0.059772
-    id: ck6uhhvx697fw0j71cqqnh961
+    followers: 2406
+    engagement: 1454
+    commentsToLikes: 0.307440
+    id: ck5zrwmvfxe4e0i14okh0xken
     verified: false
-    hashtags: "#lahjoita, #travelbook, #finnishgirl, #koronteeni"
+    hashtags: "#phonecase, #easter, #springstyle, #mamasgirl"
   - username: "janniehari"
     fullname: >-
       Janni-Amanda
     location: "Finland"
-    followers: 14693
-    engagement: 1326
-    commentsToLikes: 0.008553
+    followers: 16153
+    engagement: 807
+    commentsToLikes: 0.037757
     id: ck8szpvh2pa3a0j78ybk8gl9w
     verified: false
-    hashtags: "#marchbaby2020, #maaliskuiset2020, #oneweekold, #marchbaby"
+    hashtags: "#throughtheroughseas, #strollers, #parasvalintavauvallesi, #viaplayviikonloppu"
+  - username: "mikaelakosk"
+    fullname: >-
+      Mikaela Koskela▪️Bloggaaja
+    location: "Finland"
+    followers: 5302
+    engagement: 614
+    commentsToLikes: 0.179143
+    id: ck5zwvke76udp0i143rpfqg9g
+    verified: false
+    hashtags: "#greenwall, #marimekkohome, #lehtikuningas, #honeyblonde"
+  - username: "ssiniss"
+    fullname: >-
+      𝐒𝐈𝐍𝐈 𝐓𝐄𝐑𝐕𝐎
+    location: "Finland"
+    followers: 2264
+    engagement: 1937
+    commentsToLikes: 0.075023
+    id: ck8t8axrsjqwb0j78xs8hc49s
+    verified: false
+    hashtags: "#sunnuntai, #summerdressmania, #autollecom, #houseofbrandon"
   - username: "maryvin1"
     fullname: >-
       𝐌𝐚𝐫𝐲 𝐕 💄 𝐇𝐞𝐥𝐬𝐢𝐧𝐤𝐢 • 𝐓𝐚𝐥𝐥𝐢𝐧𝐧
     location: "Finland"
-    followers: 25926
-    engagement: 294
-    commentsToLikes: 0.041046
+    followers: 25253
+    engagement: 308
+    commentsToLikes: 0.041169
     id: ck6tmziqr8u1h0j71ps0o2ksd
     verified: false
-    hashtags: "#france, #scandinaviangirl, #lovely, #iciwfamily"
-  - username: "mikaelakosk"
+    hashtags: "#museumlover, #sportswear, #vappu, #ford"
+  - username: "adriangruszka"
     fullname: >-
-      Mikaela Koskela▪️Blogger
+      Adrian Gee
     location: "Finland"
-    followers: 5089
-    engagement: 415
-    commentsToLikes: 0.117404
-    id: ck5zwvke76udp0i143rpfqg9g
-    verified: false
-    hashtags: "#geminiproblems, #microbladinghelsinki, #remontti, #sonyalphasclub"
-  - username: "mervikallio"
-    fullname: >-
-      Mervi Kallio
-    location: "Finland"
-    followers: 16405
-    engagement: 962
-    commentsToLikes: 0.021822
-    id: ck6ua9rpm2c4l0j71d4fy4x7p
-    verified: false
-    hashtags: "#positivevibes, #vacation, #treenihaaste, #formula1"
-  - username: "vilmape"
-    fullname: >-
-      VILMA P. - Yoga & Wellbeing
-    location: "Finland"
-    followers: 26327
-    engagement: 264
-    commentsToLikes: 0.028229
-    id: ck0w715ibb8p40i19htyk1fp9
-    verified: false
-    hashtags: "#nature, #oddlygoodbarista, #bond, #organiccosmetics"
+    followers: 81954
+    engagement: 428
+    commentsToLikes: 0.027366
+    id: ck139a59jkab10i19lm6lc2br
+    verified: true
+    hashtags: ""
 ---

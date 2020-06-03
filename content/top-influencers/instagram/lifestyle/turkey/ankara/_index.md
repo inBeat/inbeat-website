@@ -1,107 +1,107 @@
 ---
 title: Top 10 Lifestyle Instagram Influencers In Ankara In 2020
 description: >-
-  Find top lifestyle Instagram influencers in Ankara in 2020. Most popular hashtags: #evdekal #corona #ankara #makeup.
+  Find top lifestyle Instagram influencers in Ankara in 2020. Most popular hashtags: #stayhome #evdekal #picoftheday #instafashion.
 platform: Instagram
 profiles:
-  - username: "makeuppselin"
-    fullname: >-
-      Selin
-    location: "Turkey"
-    followers: 11984
-    engagement: 542
-    commentsToLikes: 0.456315
-    id: ck15t9977gyfo0i19dkx9e6yg
-    verified: false
-    hashtags: "#mascara, #makeupvideo, #gorkitooneriyor, #beaulis"
-  - username: "esracablogculuk"
-    fullname: >-
-      Esra Öcal
-    location: "Turkey"
-    followers: 23136
-    engagement: 313
-    commentsToLikes: 0.059911
-    id: ck8swxt9oflft0j78fdjnfudq
-    verified: false
-    hashtags: "#mum, #salondekorasyonu, #salondekorasyon, #salon"
   - username: "girlafikir"
     fullname: >-
       gırla fikir
     location: "Turkey"
-    followers: 16254
-    engagement: 402
-    commentsToLikes: 0.047910
+    followers: 18129
+    engagement: 412
+    commentsToLikes: 0.051712
     id: ck139k8nylpyw0i19znaiosrh
     verified: false
-    hashtags: "#tv, #annewithane, #defnemucyasinda, #babasininelemegi"
-  - username: "mervekayamua"
+    hashtags: "#babasininelemegi, #defnemucyasinda, #tumcocuklarmutluolsun, #makeyourownjungle"
+  - username: "makeuppselin"
     fullname: >-
-      Merve Kaya
+      Selin
     location: "Turkey"
-    followers: 13515
-    engagement: 1050
-    commentsToLikes: 0.099150
-    id: ck15uk3c3nkem0i19w2h45smx
+    followers: 12871
+    engagement: 319
+    commentsToLikes: 0.035882
+    id: ck15t9977gyfo0i19dkx9e6yg
     verified: false
-    hashtags: "#fashioninspo, #aile, #instafashion, #physiciansformula"
-  - username: "aysentok"
+    hashtags: "#avonmaske, #blogger, #minimalist, #vintage"
+  - username: "esracablogculuk"
     fullname: >-
-      Ayşen Tok
+      Esra öcal
     location: "Turkey"
-    followers: 149978
-    engagement: 378
-    commentsToLikes: 0.048076
-    id: ck15qfctm2kmp0i19j6k0t3pv
+    followers: 47276
+    engagement: 250
+    commentsToLikes: 0.060401
+    id: ck8swxt9oflft0j78fdjnfudq
     verified: false
-    hashtags: "#madenocaklar, #instagram, #insanpsikolojisi, #ven"
+    hashtags: "#livingroom, #homedecorations, #browni, #lacasadepapel"
+  - username: "dt.merveerdog"
+    fullname: >-
+      Merve Erdoğ Özgür
+    location: "Turkey"
+    followers: 14337
+    engagement: 1140
+    commentsToLikes: 0.017912
+    id: ckap0pit5rb4o0i78xhjxwxo5
+    verified: false
+    hashtags: "#quarantinelife, #soka, #lifestyle, #staynomakeup"
+  - username: "tugcedemirlsblog"
+    fullname: >-
+      Tugce DEMİRAL Blog
+    location: "Turkey"
+    followers: 31693
+    engagement: 304
+    commentsToLikes: 0.026123
+    id: ck8tbm7r0w7iy0j783rvzy3g2
+    verified: false
+    hashtags: "#beymen, #koku, #follow4like, #dustcleaner"
   - username: "pinar_sen"
     fullname: >-
       Pınar Şengül
     location: "Turkey"
-    followers: 19043
-    engagement: 500
-    commentsToLikes: 0.051360
+    followers: 32891
+    engagement: 589
+    commentsToLikes: 0.033320
     id: ck8t6n3lge6q10j787lt0a03b
     verified: false
-    hashtags: "#mutfakdekor, #interior123, #evdekorasyonu, #bedroomideas"
+    hashtags: "#kahvemakinesi, #happymothersday, #yatakodas, #annelerg"
+  - username: "dilekadatepe"
+    fullname: >-
+      Dilek Adatepe🔹
+    location: "Turkey"
+    followers: 14208
+    engagement: 957
+    commentsToLikes: 0.157677
+    id: ck8tawooitdt30j78lbibrdai
+    verified: false
+    hashtags: "#sa, #travelbloggers, #turkey, #house"
+  - username: "mervekayamua"
+    fullname: >-
+      Merve Kaya
+    location: "Turkey"
+    followers: 14572
+    engagement: 1006
+    commentsToLikes: 0.138482
+    id: ck15uk3c3nkem0i19w2h45smx
+    verified: false
+    hashtags: "#kryolan, #fashionmom, #turkishblogger, #narssisist"
   - username: "ervaervaa_"
     fullname: >-
       Erva 🍭
     location: "Turkey"
-    followers: 16180
-    engagement: 542
-    commentsToLikes: 0.066537
+    followers: 15822
+    engagement: 629
+    commentsToLikes: 0.066966
     id: ck15rk21s8azl0i195rp257g2
     verified: false
-    hashtags: "#food, #beauty, #ankara, #islandlife"
-  - username: "betuulle"
+    hashtags: "#baharaksmi, #inspiration, #dress, #carantinasday"
+  - username: "hulyaakcaofficial"
     fullname: >-
-      Betül 💫💫
+      HÜLYA AKÇA
     location: "Turkey"
-    followers: 5138
-    engagement: 1742
-    commentsToLikes: 0.038682
-    id: ck8tagdvzrn200j78yifuxvzl
+    followers: 34550
+    engagement: 162
+    commentsToLikes: 0.055179
+    id: ck0u6kg2q25fc0i19cbyqg9vm
     verified: false
-    hashtags: "#piknik, #lookoftheday, #birthdaycake, #chaletdesign"
-  - username: "deneyimlianne"
-    fullname: >-
-      Deneyimli Anne
-    location: "Turkey"
-    followers: 16791
-    engagement: 445
-    commentsToLikes: 0.032632
-    id: ck5cez9tim0fx0i111lrlu3r5
-    verified: false
-    hashtags: "#ankarastyles, #ankaradacocuklaetkinlik, #ankaraannelerietkinlik, #ayvac"
-  - username: "emel_krca"
-    fullname: >-
-      Emel Karaca
-    location: "Turkey"
-    followers: 73410
-    engagement: 185
-    commentsToLikes: 0.154541
-    id: ck0vyxdae68xt0i19byal6t28
-    verified: false
-    hashtags: "#happywomensday, #stylishlook, #trendyolmila, #termal"
+    hashtags: "#skincare, #mia4yas, #bildikleriniziunutun, #oralb"
 ---

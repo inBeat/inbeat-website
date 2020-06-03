@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cyclists Instagram Influencers In Brazil In 2020
 description: >-
-  Find top cyclists Instagram influencers in Brazil in 2020. Most popular hashtags: #tbt #mtbgirls #cycling #bikegirls.
+  Find top cyclists Instagram influencers in Brazil in 2020. Most popular hashtags: #cyclist #bike #mtblife #errejota.
 platform: Instagram
 profiles:
-  - username: "ami.redd"
-    fullname: >-
-      ☆ ami bigler-redd ☆
-    location: "Brazil"
-    followers: 2352
-    engagement: 2611
-    commentsToLikes: 0.162168
-    id: ck6ua4fsy1fay0j71131dq90p
-    verified: false
-    hashtags: "#hoco2k19, #rockstar, #teamprepusa, #vos2020"
   - username: "brunolemesmtb"
     fullname: >-
       Bruno  Lemes
     location: "Brazil"
-    followers: 24492
-    engagement: 1067
-    commentsToLikes: 0.032174
+    followers: 24955
+    engagement: 1030
+    commentsToLikes: 0.030029
     id: ck5qddopcv1zw0i113s4kz90x
     verified: false
     hashtags: "#tbt"
-  - username: "josegabriel_mtb"
+  - username: "rodrigues.88"
     fullname: >-
-      José Gabriel
+      João Rodrigues
     location: "Brazil"
-    followers: 18280
-    engagement: 850
-    commentsToLikes: 0.015934
-    id: ck6u6mwibgjgb0j71opoxm9aw
+    followers: 9416
+    engagement: 1157
+    commentsToLikes: 0.015145
+    id: ck5cf5w3mmcbf0i11rr7lpze4
     verified: false
-    hashtags: "#morganblue, #shimanomtb, #continentalmtb, #coachmagtaz"
-  - username: "guilhermemullermtb"
-    fullname: >-
-      Guilherme Gotardelo Müller
-    location: "Brazil"
-    followers: 27872
-    engagement: 768
-    commentsToLikes: 0.010802
-    id: ck5qddhq6v1000i117w8wskxn
-    verified: false
-    hashtags: "#fabric, #stages, #sram, #tbt"
+    hashtags: "#swift, #catlike, #bikesul, #draco"
   - username: "mariocoutomtb"
     fullname: >-
       Mário Couto
     location: "Brazil"
-    followers: 27166
-    engagement: 601
-    commentsToLikes: 0.010722
+    followers: 28774
+    engagement: 688
+    commentsToLikes: 0.025621
     id: ck6tq5cxnphhh0j7165pcvz5e
     verified: false
-    hashtags: "#pedalcombr, #sensebike, #michelin, #aswbike"
+    hashtags: "#pushinghard, #sorteio"
   - username: "viniciusmobi"
     fullname: >-
       Vinicius Martins
     location: "Brazil"
-    followers: 28808
-    engagement: 95
-    commentsToLikes: 0.025494
+    followers: 28409
+    engagement: 80
+    commentsToLikes: 0.028797
     id: ck15t5l9ugghk0i199sw4lkki
     verified: false
-    hashtags: "#bikepackingbrasil, #deslocamento, #rololivre, #lamagliapersonalizados"
-  - username: "pipiamtb"
+    hashtags: "#bikingmanbrazil, #aulademecanica, #ciclismofeminino, #cicloturismo"
+  - username: "alexandrehendersonoficial"
     fullname: >-
-      pipia Mtb
+      alexandre henderson
     location: "Brazil"
-    followers: 19285
-    engagement: 776
-    commentsToLikes: 0.030026
-    id: ck0ubfykpeigp0i19t631b1xp
+    followers: 26372
+    engagement: 223
+    commentsToLikes: 0.074895
+    id: ck5btijv6g18q0i11yktrnggx
     verified: false
-    hashtags: "#tiktok, #pedaleando, #competi, #amopedalar"
-  - username: "mai_rebelo"
+    hashtags: "#curacao, #homenagem, #goodvibes, #salve"
+  - username: "andrebucater"
     fullname: >-
-      Maiara Rebelo
+      André Bucater
     location: "Brazil"
-    followers: 146699
-    engagement: 488
-    commentsToLikes: 0.019376
-    id: ck5q884zb4wff0i11lueyi1w8
+    followers: 5765
+    engagement: 993
+    commentsToLikes: 0.052787
+    id: ckaovi22x4n8z0i78djag4isf
     verified: false
-    hashtags: "#cancun, #mtbbrasil, #chicasciclistas, #prefiropedalar"
-  - username: "raquel_loja"
+    hashtags: "#runnersworld, #mountainbike, #audaxbike, #trailrunningmag"
+  - username: "taiza.moura"
     fullname: >-
-      ᖇᗩᑫᑌƐᒪ ᒪOᒍᗩ
+      T A I Z A
     location: "Brazil"
-    followers: 73634
-    engagement: 224
-    commentsToLikes: 0.037131
-    id: ck14hv67fcaa40i19khz4y5ik
+    followers: 68597
+    engagement: 259
+    commentsToLikes: 0.029797
+    id: ck15q68am1b1w0i194g7cdcjr
     verified: false
-    hashtags: "#stayhome, #tudopassa, #lovemylife, #timetrial"
-  - username: "joguimaraescycling"
+    hashtags: "#didasmaes, #bike, #pedalamenina, #meupedal"
+  - username: "otaviobulgarelli"
     fullname: >-
-      ᒍÔ GᑌIᗰᗩᖇᗩ̃ᗴᔕ   🇧🇷 🚴🏼‍♀️♉️
+      Otavio Bulgarelli
     location: "Brazil"
-    followers: 34718
-    engagement: 309
-    commentsToLikes: 0.046215
-    id: ck14hv7dpcagd0i19sytrkmjh
+    followers: 14051
+    engagement: 744
+    commentsToLikes: 0.018537
+    id: ck8sx1zuqfxzt0j78d01r6bce
     verified: false
-    hashtags: "#pedalbrutooficial, #cycling, #pedallivrefotos, #bikenaveia"
+    hashtags: "#top, #vistachinesa, #patroa, #camisetas"
+  - username: "dyla.ncs"
+    fullname: >-
+      𝑯𝒆𝒅𝒊𝒍𝒂𝒊𝒏𝒆 𝑺𝒊𝒍𝒗𝒂 🌻
+    location: "Brazil"
+    followers: 17210
+    engagement: 436
+    commentsToLikes: 0.039915
+    id: ck5zvr10h4rh80i146pm0xwn3
+    verified: false
+    hashtags: "#meninasnabike, #topdasfotos, #mtbgirls, #brutasdopedal"
+  - username: "theramfeu"
+    fullname: >-
+      R A M F E U 🔥🎥🎬 الرامفو
+    location: "Brazil"
+    followers: 24467
+    engagement: 610
+    commentsToLikes: 0.016602
+    id: ck6u55t3v7rb50j71zhebq7z3
+    verified: false
+    hashtags: "#stayathome, #aidmoubarak, #music, #workhard"
 ---

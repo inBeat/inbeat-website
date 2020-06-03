@@ -1,107 +1,107 @@
 ---
 title: Top 10 Cosmetics Instagram Influencers In South Africa In 2020
 description: >-
-  Find top cosmetics Instagram influencers in South Africa in 2020. Most popular hashtags: #stayhome #love #southafrica #makeup.
+  Find top cosmetics Instagram influencers in South Africa in 2020. Most popular hashtags: #explore #cosmetics #adventure #travelgram.
 platform: Instagram
 profiles:
+  - username: "dramiraogunleye"
+    fullname: >-
+      Dr. Amira Ogunleye 🇪🇬
+    location: "South Africa"
+    followers: 52858
+    engagement: 292
+    commentsToLikes: 0.055698
+    id: ck5zlo71nl36w0i14elk4rlg3
+    verified: false
+    hashtags: "#thelastdance, #dontrushchallenge, #maskoffdonate, #stayathomechallenge"
   - username: "beautymarkedandco"
     fullname: >-
       BeautyMarked & Co.
     location: "South Africa"
-    followers: 15054
-    engagement: 85
-    commentsToLikes: 0.030172
+    followers: 15978
+    engagement: 59
+    commentsToLikes: 0.119115
     id: ck0tx4e6ohv2t0i19ze7vedx4
     verified: false
-    hashtags: "#staytuned, #beautytip, #theperfectredlip"
+    hashtags: "#melaninqueen, #wakeupandmakeup, #redlipcombo, #lashespoppin"
+  - username: "ifathindes"
+    fullname: >-
+      Ifat Hindes
+    location: "South Africa"
+    followers: 30617
+    engagement: 69
+    commentsToLikes: 0.060989
+    id: ck0vv12s4n1uv0i19sjhh4v8i
+    verified: false
+    hashtags: "#positivelife, #womenwhohike, #australianmade, #nanotechnology"
   - username: "lukaritsma"
     fullname: >-
       𝙻𝚞𝚔𝚊
     location: "South Africa"
-    followers: 2332
-    engagement: 1414
-    commentsToLikes: 0.047675
+    followers: 2342
+    engagement: 1318
+    commentsToLikes: 0.045761
     id: ck6tzqqegbak90j71vbwep0ox
     verified: false
-    hashtags: "#instatravel, #westerncape, #bikinidays, #beautycommunity"
-  - username: "eat_and_tell"
+    hashtags: "#fashionshoot, #exploreafrica, #summercolors, #wanderlust"
+  - username: "yowlee"
     fullname: >-
-      Eat And Tell
+      Meraya-Lee
     location: "South Africa"
-    followers: 97748
-    engagement: 165
-    commentsToLikes: 0.136226
-    id: ck5hlmvbukhsb0i11ttle8rc3
+    followers: 30593
+    engagement: 152
+    commentsToLikes: 0.040572
+    id: ck6tn9b2v9dzx0j71gyn42q97
     verified: false
-    hashtags: "#themarc, #singapore, #jasminefusion, #amazing"
-  - username: "jewelcoza"
+    hashtags: "#adidas, #chocolate, #instatravel, #fragrances"
+  - username: "cindy_nell"
     fullname: >-
-      Nthabiseng Khoza
+      Cindy Nell-Roberts
     location: "South Africa"
-    followers: 52089
-    engagement: 121
-    commentsToLikes: 0.044929
-    id: ck5byvz9qpyiv0i11dh0am2mg
-    verified: false
-    hashtags: "#humanitywillprivale, #weareinthistogether, #smallbusinessafrica, #skincareproducts"
-  - username: "nikitajoshua"
-    fullname: >-
-      Nikita | Model & Makeup Artist
-    location: "South Africa"
-    followers: 29064
-    engagement: 545
-    commentsToLikes: 0.045047
-    id: ck5q1k1wmbddf0i113a465475
-    verified: false
-    hashtags: "#beauty, #contentcreator, #femaleentrepreneurship, #engagedcouple"
-  - username: "thandigama"
-    fullname: >-
-      Thandi Gama
-    location: "South Africa"
-    followers: 49477
-    engagement: 469
-    commentsToLikes: 0.038304
-    id: ck15peenexh4d0i19tbv06i1z
-    verified: false
-    hashtags: "#suzukiboosterjet, #revlonultrahd, #ootd, #md2n"
+    followers: 50448
+    engagement: 253
+    commentsToLikes: 0.054636
+    id: ck0w5vsud5nwv0i192cbxhgra
+    verified: true
+    hashtags: "#beautyqueens, #lookgoodfeelbetter, #internationalmodels, #tvpresenters"
   - username: "jadezammitstevens"
     fullname: >-
       As told by Jade
     location: "South Africa"
-    followers: 21785
-    engagement: 681
-    commentsToLikes: 0.012682
+    followers: 22280
+    engagement: 732
+    commentsToLikes: 0.023843
     id: ck6tm66s8790d0j71tnq2jwhr
     verified: false
-    hashtags: "#loves, #aldolove, #makeup, #memories"
+    hashtags: "#wipeitdown, #60smakeup, #workout, #readingtime"
+  - username: "nikitajoshua"
+    fullname: >-
+      Nikita | Model & Makeup Artist
+    location: "South Africa"
+    followers: 29546
+    engagement: 538
+    commentsToLikes: 0.025717
+    id: ck5q1k1wmbddf0i113a465475
+    verified: false
+    hashtags: "#obedient, #ilovethelot, #fyp, #beautymode"
+  - username: "meranda_meerra"
+    fullname: >-
+      Meranda Pillay
+    location: "South Africa"
+    followers: 7134
+    engagement: 557
+    commentsToLikes: 0.097356
+    id: ck6to4q7pc2yq0j718rh58n8p
+    verified: false
+    hashtags: "#glam, #sweats, #positivevibes, #facial"
   - username: "nandipha_mqoco"
     fullname: >-
-      Nandipha Mqoco
+      n a n d i p h a
     location: "South Africa"
-    followers: 26008
-    engagement: 745
-    commentsToLikes: 0.026793
+    followers: 26205
+    engagement: 787
+    commentsToLikes: 0.030121
     id: ck0vw8iaisku30i19cj61tcz2
     verified: false
-    hashtags: "#beyondclean, #ad, #passthepatron, #simplyperfect"
-  - username: "izzyraad.mua"
-    fullname: >-
-      Isabella
-    location: "South Africa"
-    followers: 6177
-    engagement: 953
-    commentsToLikes: 0.135308
-    id: ck6ue9lnkpmdm0j710zdgheli
-    verified: false
-    hashtags: "#hudabeauty, #blazin, #capetownmakeupartist, #southafricanmakeupartist"
-  - username: "khayrepublik"
-    fullname: >-
-      REPUBLIK
-    location: "South Africa"
-    followers: 20071
-    engagement: 1622
-    commentsToLikes: 0.013762
-    id: ck1363inc4l230i19rw5nygtk
-    verified: false
-    hashtags: "#bostea, #superfood, #goforfun, #organic"
+    hashtags: "#simplyperfect, #patron, #21beats4kay, #beyondclean"
 ---

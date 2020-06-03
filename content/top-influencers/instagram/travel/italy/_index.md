@@ -1,107 +1,107 @@
 ---
 title: Top 10 Travel Instagram Influencers In Italy In 2020
 description: >-
-  Find top travel Instagram influencers in Italy in 2020. Most popular hashtags: #iorestoacasa #andr #travel #memories.
+  Find top travel Instagram influencers in Italy in 2020. Most popular hashtags: #beautiful #ootd #italy #sunset.
 platform: Instagram
 profiles:
-  - username: "thetraveltrouble"
+  - username: "cri.brightphotos"
     fullname: >-
-      TRAVEL TROUBLE
+      Cri
     location: "Italy"
-    followers: 7429
-    engagement: 1912
-    commentsToLikes: 0.084525
-    id: ck6uhio9x9cdq0j71il5atsa0
+    followers: 7235
+    engagement: 3576
+    commentsToLikes: 0.092028
+    id: ck6tilrtz0yjq0j71qz4sa8ss
     verified: false
-    hashtags: "#traveldiaries, #igersardegna, #aroundtrentino, #blogger"
+    hashtags: "#instagood, #italiangirl, #video, #picoftheday"
   - username: "serenaesposito97"
     fullname: >-
       𝓔𝓼𝓹𝓸𝓼𝓲𝓽𝓸 𝓼𝓮𝓻𝓮𝓷𝓪❣️
     location: "Italy"
-    followers: 3461
-    engagement: 2599
-    commentsToLikes: 0.218577
+    followers: 3446
+    engagement: 2759
+    commentsToLikes: 0.216453
     id: ck8t22rtby09w0j78axase2oz
     verified: false
-    hashtags: "#patatinefritte, #natale, #cute, #lamiavita"
-  - username: "laurag_143"
+    hashtags: "#poivorrei, #verynice, #ioete, #italy"
+  - username: "domenicogiuffrida_photography"
     fullname: >-
-      
+      Domenico Giuffrida
     location: "Italy"
-    followers: 1967297
-    engagement: 546
-    commentsToLikes: 0.171115
-    id: ck0tuydp697xf0i19zy56aso5
+    followers: 9330
+    engagement: 2134
+    commentsToLikes: 0.071641
+    id: ckap2xqx80rkn0i78mzxy49y7
     verified: false
-    hashtags: "#thirdtrimester, #halloween, #thanksgiving, #valentines"
-  - username: "tamershwaiter"
+    hashtags: "#redlove, #redlovers, #glamourstyle, #pink"
+  - username: "thetraveltrouble"
     fullname: >-
-      Tamer Shwaiter|تامر شويطر
+      TRAVEL TROUBLE
     location: "Italy"
-    followers: 20306
-    engagement: 950
-    commentsToLikes: 0.054298
-    id: ck5hrllznv2iz0i11wc3nrs7v
+    followers: 8072
+    engagement: 1725
+    commentsToLikes: 0.079884
+    id: ck6uhio9x9cdq0j71il5atsa0
     verified: false
-    hashtags: "#happynewyear, #2020"
-  - username: "sespo"
+    hashtags: "#marrakech, #travelcaptures, #travelmarocco, #venicecarnival"
+  - username: "gaiabegnis"
     fullname: >-
-      Edoardo Esposito 👼🏻
+      Gaia Begnis
     location: "Italy"
-    followers: 1503173
-    engagement: 1073
-    commentsToLikes: 0.019730
-    id: ck5zrz3xcxitf0i14j92kyo1b
-    verified: true
-    hashtags: "#wearefamily, #ad, #iamthewatch, #lacasadepapel"
-  - username: "livewithoutshoes"
-    fullname: >-
-      Deborah&Ceghez | Travel Couple
-    location: "Italy"
-    followers: 23519
-    engagement: 673
-    commentsToLikes: 0.092396
-    id: ck5zw154g5a2d0i14j1br6hmn
+    followers: 24186
+    engagement: 1567
+    commentsToLikes: 0.104119
+    id: ck0ty02inl0z30i19abgqhd4r
     verified: false
-    hashtags: "#thatothersmaylive"
-  - username: "elaynefn"
+    hashtags: "#eauthermaleuriage, #stateacasa, #zuegg, #uriagebebe"
+  - username: "pilotasoglu"
     fullname: >-
-      Francesca Elayne
+      Ahmet Asoğlu Official | Cadet
     location: "Italy"
-    followers: 42605
-    engagement: 832
-    commentsToLikes: 0.040579
-    id: ck8t8aahyjo8j0j78c0ilxtqf
+    followers: 52000
+    engagement: 1108
+    commentsToLikes: 0.063158
+    id: ck5hh6x0e6oze0i11qh60msgv
     verified: false
-    hashtags: "#sunsetlove, #elayne, #worldcat, #manhattanphoto"
-  - username: "ilariatrudu"
+    hashtags: "#insta360go"
+  - username: "gioingeo_"
     fullname: >-
-      𝓘𝓵𝓪𝓻𝓲𝓪 ✨💗| 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 | 𝐁𝐞𝐚𝐮𝐭𝐲
+      Giorgia |Full-time Backpacker🌏
     location: "Italy"
-    followers: 9381
-    engagement: 1161
-    commentsToLikes: 0.092807
-    id: ck15r011m5giu0i19mr2v5tsh
+    followers: 2424
+    engagement: 3057
+    commentsToLikes: 0.161437
+    id: ckap9uk5ftp040i78him1qlzn
     verified: false
-    hashtags: "#mercihandy, #desenio, #prodottooffertodaclarins, #clarins"
-  - username: "remalda"
+    hashtags: "#openocean, #sudestasiatico, #travelp, #endlessocean"
+  - username: "alealoisio"
     fullname: >-
-      Travel/Fashion/motherhood🇦🇱🇮🇹
+      Alessia Aloisio
     location: "Italy"
-    followers: 11201
-    engagement: 954
-    commentsToLikes: 0.149894
-    id: ck5zmzotkni710i1426xyuqcp
+    followers: 71208
+    engagement: 819
+    commentsToLikes: 0.066573
+    id: ck5c9wy4ccaab0i11fu0yw2jk
     verified: false
-    hashtags: "#winteroutfits, #thinkingpositive, #cutemixedgirls, #lisbonportugal"
-  - username: "alessandrabuonamici"
+    hashtags: "#quarantena, #selfie, #italia, #bombafit"
+  - username: "joellenakad"
     fullname: >-
-      Alessandra Buonamici
+      J o W e L
     location: "Italy"
-    followers: 13420
-    engagement: 1006
-    commentsToLikes: 0.101269
-    id: ck14i3phwdhn40i19int756xe
+    followers: 6941
+    engagement: 1491
+    commentsToLikes: 0.107974
+    id: ck14k5bl3nsv50i19ripyz4d9
     verified: false
-    hashtags: "#andratuttlbene, #stayhealth, #health4u, #immuderm"
+    hashtags: "#ischia, #pillowchallenge, #bcharre, #ootd"
+  - username: "daniele.gaiti"
+    fullname: >-
+      Daniele Gaiti
+    location: "Italy"
+    followers: 7808
+    engagement: 1278
+    commentsToLikes: 0.173640
+    id: ck8t50bq08fhu0j78ttv20nhq
+    verified: false
+    hashtags: "#fashiondiaries, #dapper, #instafashion, #andr"
 ---

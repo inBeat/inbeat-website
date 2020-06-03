@@ -1,107 +1,107 @@
 ---
 title: Top 10 Nutrition Instagram Influencers In Hamburg In 2020
 description: >-
-  Find top nutrition Instagram influencers in Hamburg in 2020. Most popular hashtags: #hamburg #fashion #ootd #love.
+  Find top nutrition Instagram influencers in Hamburg in 2020. Most popular hashtags: #hamburg #nutrition #nature #food.
 platform: Instagram
 profiles:
-  - username: "leaschreiner__"
-    fullname: >-
-      Lea Schreiner
-    location: "Germany"
-    followers: 17572
-    engagement: 750
-    commentsToLikes: 0.069526
-    id: ck6uh28rv6kia0j71yghkel8u
-    verified: false
-    hashtags: "#likeagirl, #teamdieselkranfred, #calories, #throwback"
-  - username: "rummelsnuff_official"
-    fullname: >-
-      Rummelsnuff
-    location: "Germany"
-    followers: 7796
-    engagement: 694
-    commentsToLikes: 0.021750
-    id: ck5c7kpax7paz0i11p6aka2b9
-    verified: true
-    hashtags: "#neukoelln, #sailor, #hafen, #freiburg"
-  - username: "vanessalouis__official"
-    fullname: >-
-      Ꮩᴀᴎᴇѕѕᴀ Ꮮ౦uіs
-    location: "Germany"
-    followers: 111933
-    engagement: 454
-    commentsToLikes: 0.025871
-    id: ck55o5l1u7o830i111e62h81i
-    verified: false
-    hashtags: "#models, #goodlife, #cars, #bikinigirls"
-  - username: "nico_speed"
-    fullname: >-
-      IFBB/NPC Athlete
-    location: "Germany"
-    followers: 50061
-    engagement: 422
-    commentsToLikes: 0.056566
-    id: ck5zwvbrs6u0d0i14cb0gl6zz
-    verified: false
-    hashtags: "#instafitness, #definition, #thailand, #transformationtuesday"
-  - username: "kristin_zirnsak"
-    fullname: >-
-      𝓚𝓻𝓲𝓼𝓽𝓲𝓷 𝓩𝓲𝓻𝓷𝓼𝓪𝓴 🎬
-    location: "Germany"
-    followers: 27338
-    engagement: 246
-    commentsToLikes: 0.036588
-    id: ck5hee0lysf3k0i11jt8rfji2
-    verified: false
-    hashtags: "#passion, #styling, #2bundesliga, #fitness"
   - username: "you_carrot"
     fullname: >-
-      𝑱𝒖𝒍𝒊𝒏𝒂🥕
+      𝑱𝒖𝒍𝒊𝒏𝒂🥕𝑽𝒆𝒈𝒆𝒕𝒂𝒓𝒊𝒂𝒏 / 𝑽𝒆𝒈𝒂𝒏 𝒇𝒐𝒐𝒅
     location: "Germany"
-    followers: 2861
-    engagement: 3779
-    commentsToLikes: 0.099159
+    followers: 3230
+    engagement: 3105
+    commentsToLikes: 0.098927
     id: ck6tnk7qea0fw0j716u9wctts
     verified: false
-    hashtags: "#veganlifestyle, #apple, #lunch, #coconut"
+    hashtags: "#applecinnamon, #kokossuppe, #postworkout, #cozytime"
+  - username: "katerinagiannoglou"
+    fullname: >-
+      Katerina Giannoglou
+    location: "Germany"
+    followers: 16203
+    engagement: 263
+    commentsToLikes: 0.061232
+    id: ck5bvwca2kj5l0i11jnpocn92
+    verified: false
+    hashtags: "#yogalifestyle, #beach, #germany, #timeoff"
+  - username: "jessi.a"
+    fullname: >-
+      Jessica Bloß
+    location: "Germany"
+    followers: 32172
+    engagement: 389
+    commentsToLikes: 0.080400
+    id: ck6tw3l7eptix0j717savuzrj
+    verified: false
+    hashtags: "#birne, #aloevera, #essbarebl, #boyfriendstyle"
+  - username: "dr.viviancharlott"
+    fullname: >-
+      ATTITUDE OF LOVE AND GRATITUDE
+    location: "Germany"
+    followers: 5209
+    engagement: 1348
+    commentsToLikes: 0.064482
+    id: ck5zswlnnzbi20i14aco2a1um
+    verified: false
+    hashtags: "#gespensterwald, #onelove, #hamburg, #purelove"
+  - username: "umut.fit_official"
+    fullname: >-
+      Umut Yildirim
+    location: "Germany"
+    followers: 14439
+    engagement: 533
+    commentsToLikes: 0.107950
+    id: ck14lcrlfu0gv0i19o26uljba
+    verified: false
+    hashtags: "#gymtime, #cycling, #mensworld, #hamburg"
+  - username: "c.karsunke"
+    fullname: >-
+      Christian Karsunke |📍Frankfurt
+    location: "Germany"
+    followers: 127916
+    engagement: 784
+    commentsToLikes: 0.019955
+    id: ck5q77e5a09qi0i11vlj8998h
+    verified: false
+    hashtags: "#park, #happyvibes, #happyness, #mathe"
+  - username: "franziflott"
+    fullname: >-
+      𝐅𝐥𝐨𝐭𝐭 𝐚𝐤𝐚 𝐉𝐮𝐞𝐫𝐠𝐞𝐧𝐬𝐞𝐧 𝐈𝐅𝐁𝐁
+    location: "Germany"
+    followers: 2572
+    engagement: 1798
+    commentsToLikes: 0.050013
+    id: ck5bz8fwpqnaz0i1191l9l8do
+    verified: false
+    hashtags: "#nevergettired, #lopesmendes, #lovewhatyoudo, #selbstakzeptanz"
+  - username: "mimiiruth"
+    fullname: >-
+      Fitness - Food - Health
+    location: "Germany"
+    followers: 35828
+    engagement: 659
+    commentsToLikes: 0.055367
+    id: ck8wgb57jh1e60j78tln89d8b
+    verified: false
+    hashtags: "#pumamodel, #modeling, #onlinecoach, #workoutvideos"
   - username: "max_appel_"
     fullname: >-
       Max Appel
     location: "Germany"
-    followers: 11601
-    engagement: 581
-    commentsToLikes: 0.006964
+    followers: 11439
+    engagement: 586
+    commentsToLikes: 0.007270
     id: ck6u0zlfziohm0j71wx7mx837
     verified: false
-    hashtags: "#wirfuerd, #fashion, #barsch, #sunline"
-  - username: "mrtzfbg"
+    hashtags: "#nature, #harbour, #wirfuerd, #xtreme"
+  - username: "piamalina"
     fullname: >-
-      Moritz Fiebig
+      Pia Malin Jensen
     location: "Germany"
-    followers: 2488
-    engagement: 1147
-    commentsToLikes: 0.045429
-    id: ck5casncde1t30i11q7n3hjvm
+    followers: 2746
+    engagement: 1689
+    commentsToLikes: 0.027612
+    id: ckaosbq0xqzx90i78pb6n5eo1
     verified: false
-    hashtags: "#training, #hamburg, #motivation, #norep"
-  - username: "marathon.princess"
-    fullname: >-
-      Marina Angela
-    location: "Germany"
-    followers: 20071
-    engagement: 585
-    commentsToLikes: 0.031752
-    id: ck5qa1cr1e1ld0i11b6shffoa
-    verified: false
-    hashtags: "#react, #jordan, #greenelixir, #superdry"
-  - username: "_dyg__"
-    fullname: >-
-      D U Y G U ♾ OE
-    location: "Germany"
-    followers: 12758
-    engagement: 1273
-    commentsToLikes: 0.025234
-    id: ck13a5fazoq1w0i19mok905i5
-    verified: false
-    hashtags: "#heilbronn, #soul, #makeup, #shine"
+    hashtags: "#derkleineprinz, #immunbooster, #sportnutrition, #mobilitywork"
 ---
