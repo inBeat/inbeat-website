@@ -1,11 +1,17 @@
+{{- $title := .title | default "Fairly asked questions" -}}
+{{- $header := .header -}}
 <section class="container m-tb-160 mobile-adjusted" id="{{ .id }}">
     <div class="row large-gutter">
         <div class="col-xs-12 col-md-12">
-            <h2>Fairly asked questions</h2>
+            <h2>{{- $title -}}</h2>
         </div>
         {{- range .faq -}}
         <div class="col-xs-12 col-sm-6 col-md-6">
+            {{- if $header -}}
+            <h3 class="question">{{- .question -}}</h3>
+            {{- else -}}
             <p class="question">{{- .question -}}</p>
+            {{- end -}}
             <p class="small">{{- .answer -}}</p>
         </div>
         {{- end -}}

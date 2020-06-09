@@ -34,10 +34,39 @@ home:
   - question: How do you spam-check your influencers?
     answer: >-
       We pre-vet all of our profiles by checking content authenticity, engagement metrics, and fraudulent behaviors.
-  - question: How many influencers do you have in your database?
+tiktok:
+  - question: How do I find Tiktok influencers?
     answer: >-
-      We add influencers everyday to our database. As we're writing these lines, we have 550k
-      Instagram profiles and 55k TikTok profiles that are discoverable in our database.
+      Our tool is built to help you with the daunting task of finding the right influencers for your influencer
+      marketing campaign. You should find a Tiktok influencer you like, identify the hashtags they use frequently,
+      and search other profiles using these hashtags inside inBeat.
+  - question: How many TikTok Influencers do you have in your database?
+    answer: >-
+      We have 120,000+ tiktok influencers indexed in our influencer database. If you’re looking to find tiktok
+      influencers at scale, our tool has you covered.
+  - question: How do I get started with TikTok influencer marketing?
+    answer: >-
+      Our tool is the perfect place to start your TikTok influencer marketing campaign. We use our social media
+      data to give you all the information you need on each influencer. TikTok marketing starts with choosing
+      the right influencers to collaborate with. You should look at average view count, engagement rate, and
+      follower count to help you get a sense.
+  - question: How do I know which TikTok influencers to select?
+    answer: >-
+      Selecting the right influencers on any social media platform is hard. Influencers on Tiktok create short
+      form video content, which makes their content style an important factor to consider. Of course, you should
+      always consider your target audience. This is a principle that’s true across any influencer marketing campaign.
+      So, you should take into consideration the following: Audience alignment, Engagement rate, Location, Other
+      social media profiles
+  - question: Who are the top influencers on TikTok?
+    answer: >-
+      We have an entire section to the top TikTok influencers. Feel free to use our tool or navigate this section
+      to help you find the best influencers by region, country, and niche.
+  - question: Should I work with TikTok influencers?
+    answer: >-
+      TikTok is built around short-form video content, and their audience is Gen-Z, female biased. If you’re a
+      B2C company, with a product appealing to this audience, then TikTok influencers are a powerful digital
+      marketing channel you should leverage. We advise you try out a TikTok influencer marketing campaign with a
+      few TikTokers before investing heavily in this social media platform.
 pricing:
   - question: Can I cancel my subscription whenever I want?
     answer: >-
