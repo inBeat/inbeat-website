@@ -12,7 +12,7 @@
             {{- else -}}
             <p class="question">{{- .question -}}</p>
             {{- end -}}
-            <p class="small">{{- .answer -}}</p>
+            <p class="small">{{- .answer | markdownify -}}</p>
         </div>
         {{- end -}}
     </div>
