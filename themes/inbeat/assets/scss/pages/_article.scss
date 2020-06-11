@@ -91,6 +91,7 @@ h5 {
             height: auto;
             margin-right: 1rem;
             vertical-align: middle;
+            border-radius: 50%;
             @include breakpoint(sm) {
                 width: 3.25rem;
             }
@@ -109,7 +110,7 @@ h5 {
         .category { background-color: $green_sub; }
         .infos { color: $green !important; }
     }
-    &.tutorials {
+    &.tutorials, &.wikis {
         .category { background-color: $yellow_sub; }
         .infos { color: $yellow !important; }
     }
@@ -253,7 +254,7 @@ h5 {
         }
         h5 { color: $green; }
     }
-    &.tutorials {
+    &.tutorials, &.wikis {
         ul li::before, blockquote { border-color: $yellow; }
         ol li::before { color: $yellow; }
         .pro-tip {
@@ -300,7 +301,7 @@ h5 {
     .studies {
         background-color: $green_sub;
     }
-    .tutorials {
+    .tutorials, .wikis {
         background-color: $yellow_sub;
     }
 }

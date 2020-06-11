@@ -25,7 +25,7 @@ const createMdFilesFromGhost = async () => {
             limit: 'all',
             include: 'tags,authors',
             formats: ['html'],
-            filter: ['tag:studies', 'tag:tips', 'tag:tutorials'],
+            filter: ['tag:studies', 'tag:tips', 'tag:tutorials', 'tag:wikis'],
         });
 
         await Promise.all(posts.map(async (post) => {
@@ -76,6 +76,10 @@ const createMdFilesFromGhost = async () => {
 
             // We only use the first tag.
             frontmatter.categories = [post.tags[0].name];
+
+            if (post.tags[0].name == 'Wikis') {
+                frontmatter.unlisted = true;
+            }
 
             // There should be at least one author.
             if (!post.authors || !post.authors.length) {

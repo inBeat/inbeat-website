@@ -69,7 +69,7 @@
         &.studies {
             .category { background-color: $green_sub; }
         }
-        &.tutorials {
+        &.tutorials, &.wikis {
             .category { background-color: $yellow_sub; }
         }
     }
@@ -127,7 +127,7 @@
     &.studies {
         .post { background-color: $green_sub; }
     }
-    &.tutorials {
+    &.tutorials, &.wikis {
         .post { background-color: $yellow_sub; }
     }
 }

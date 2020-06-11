@@ -7,7 +7,7 @@
         <div class="col-xs-12 posts-list-title">
             <p>Featured</p>
         </div>
-        {{- range first 3 .Pages -}}
+        {{- range first 3 (where .Pages ".Params.unlisted" "!=" true) -}}
         {{- partial "site/post.html" . $ -}}
         {{- end -}}
     </div>
