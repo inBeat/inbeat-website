@@ -74,7 +74,7 @@ profiles:
     id: ck13cw0172fup0i19tv3kz9ge
     verified: false
     hashtags: "#igexplore, #musicpage, #fashion, #tuesdaymood"
-  - username: "mirzaali_official"
+  - username: "mirzaali.official"
     fullname: >-
       Mirza Ali 👑
     location: "India"
