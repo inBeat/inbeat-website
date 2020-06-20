@@ -3,12 +3,39 @@
     <h1>{{ .Params.pagetitle }}</h1>
 </section>
 
+{{- if isset .Params "hiw" -}}
+<section class="container mobile-adjusted m-tb-160" id="included">
+    <div class="row">
+        <div class="col-xs-12 col-md-4">
+            <h4>How Our Influencer Monitoring Works  →</h4>
+            <p class="small subtitle">
+                Influencer monitoring is about discovering the content created by your ambassadors.
+            </p>
+        </div>
+        <div class="col-xs-6 col-md-4">
+            {{- range first 2 .Params.hiw -}}
+            <p class="title">{{- .title -}}</p>
+            <p class="small">{{- .description -}}</p>
+            {{- end -}}
+        </div>
+        <div class="col-xs-6 col-md-4">
+            {{- range last 1 .Params.hiw -}}
+            <p class="title">{{- .title -}}</p>
+            <p class="small">{{- .description -}}</p>
+            {{- end -}}
+        </div>
+    </div>
+</section>
+{{- end -}}
+
 <div class="container" id="features-body">
     {{- range .Params.sections -}}
     <section class="m-tb-80 features-section">
         <div class="row">
             <div class="col-xs-12 col-md-4 left-col">
+                {{- if .icon -}}
                 {{- partial (printf "icons/%s.html" .icon) -}}
+                {{- end -}}
                 <h2>{{- .title -}}</h2>
                 <p class="description">{{- .description | markdownify -}}</p>
                 <a href="{{- .link.url -}}" class="learn-more hide-md" {{ if .link.external }}target="_blank"{{ end }}>
@@ -16,7 +43,9 @@
                 </a>
             </div>
             <div class="col-xs-12 col-md-7 col-md-offset-1">
+                {{- if .image -}}
                 <img src="{{ .image }}" alt="{{ .title }}">
+                {{- end -}}
                 <div class="row">
                     {{- range .points -}}
                     <div class="col-xs-12 col-sm-4">
@@ -39,6 +68,10 @@
     </section>
     {{- end -}}
 </div>
+
+{{- if isset .Params "faq" -}}
+{{- partial "site/faq.html" (dict "context" . "faq" .Params.faq "id" "features-faq") -}}
+{{- end -}}
 
 <section class="container m-tb-160 mobile-adjusted" id="cta-features">
     <div class="row large-gutter">
