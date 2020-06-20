@@ -6,7 +6,7 @@
             <div class="col-xs-12 col-md-4">
                 <h2>{{- .title -}}</h2>
                 <p class="description">{{- .description -}}</p>
-                <a href="{{- .cta.link -}}" class="btn btn-lg" title="Sign up">
+                <a href="{{- .cta.link -}}" class="btn btn-lg" title="Book a demo">
                     {{- htmlUnescape .cta.text | markdownify -}}
                 </a>
             </div>
@@ -46,7 +46,7 @@
 <section class="container mobile-adjusted m-tb-80" id="pricing">
     <div class="row monthly" id="pricing-row">
         <div class="col-xs-12 pricing-header">
-            <h1>Monthly Pricing</h1>
+            <h1>Pricing</h1>
             <p class="pricing-schedule">
                 <span id="monthly-schedule">Billed Monthly</span>
                 <span id="yearly-schedule">
@@ -68,7 +68,6 @@
                 </p>
                 <div class="features">
                     <p>
-                        {{- partial "icons/check.html" -}}
                         <span>{{- .contacts -}}</span> Contact Exports /mo
                         {{- partial "icons/info.html" -}}
                         <span class="tooltip">
@@ -77,20 +76,30 @@
                             Unused exports won't rollover to the following month.
                         </span>
                     </p>
-                    <p class="{{- if not .bulk -}}not{{- end -}}">
-                        {{- if .bulk -}}
-                        {{- partial "icons/check.html" -}}
-                        {{- else -}}
-                        {{- partial "icons/close.html" -}}
-                        {{- end -}}
-                        Bulk Selection
+                    <p>
+                        <span>Bulk</span> Selection
                         {{- partial "icons/info.html" -}}
                         <span class="tooltip">
                             Select and export up to 1000 filtered profiles in a single click.
                         </span>
                     </p>
-                    <a class="btn btn-md" href="https://app.inbeat.co/get-started">
-                        Create a free account
+                    <p>
+                        <span>{{- .accounts -}}</span> Client Accounts
+                        {{- partial "icons/info.html" -}}
+                        <span class="tooltip">
+                            Assign campaigns to client accounts you manage.
+                        </span>
+                    </p>
+                    <p>
+                        <span>{{- .campaigns -}}</span> Concurrent Campaigns
+                        {{- partial "icons/info.html" -}}
+                        <span class="tooltip">
+                            Manage multiple campaign at the same time.
+                            Once you're satisfied, export the campaign and create a new one.
+                        </span>
+                    </p>
+                    <a class="btn btn-md" href="{{- $.Site.Data.settings.bookcall -}}" target="_blank">
+                        Book a demo
                     </a>
                 </div>
             </div>
@@ -105,7 +114,9 @@
             <h4>All paid plans include  →</h4>
             <p class="small subtitle">
                 Unsure about anything?
-                <a href="{{- $.Site.Data.settings.bookcall -}}" title="Book a call">Book a call</a> or
+                <a href="{{- $.Site.Data.settings.bookcall -}}" title="Book a demo" target="_blank">
+                    Book a demo
+                </a> or
                 <a href="mailto:david@inbeat.co" title="Send an E-mail">send an E-mail</a>.
             </p>
         </div>

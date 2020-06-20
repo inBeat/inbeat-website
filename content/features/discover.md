@@ -11,7 +11,7 @@ sections:
     icon: features-search-icon
     link:
       text: Book a demo &#8594;
-      url: https://calendly.com/inbeatagency/inbeat-demo
+      url: https://calendly.com/inbeatapp/inbeat-demo
       external: true
     image: /images/features-search-screenshot.png
     points:
@@ -30,7 +30,7 @@ sections:
     icon: features-filter-icon
     link:
       text: Book a demo &#8594;
-      url: https://calendly.com/inbeatagency/inbeat-demo
+      url: https://calendly.com/inbeatapp/inbeat-demo
       external: true
     image: /images/features-filter-screenshot.png
     points:
@@ -50,7 +50,7 @@ sections:
     icon: features-select-icon
     link:
       text: Book a demo &#8594;
-      url: https://calendly.com/inbeatagency/inbeat-demo
+      url: https://calendly.com/inbeatapp/inbeat-demo
       external: true
     image: /images/features-select-screenshot.png
     points:

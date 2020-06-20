@@ -39,6 +39,13 @@
 }
 
 #pricing {
+    margin-top: 40px;
+    @include breakpoint(sm) {
+        margin-top: 70px;
+    }
+    @include breakpoint(md) {
+        margin-top: 160px;
+    }
     .pricing-header {
         text-align: left;
         margin-bottom: 20px;
@@ -111,7 +118,7 @@
         @include breakpoint(md) {
             padding: 2.5rem;
         }
-        &#startup {
+        &#brand {
             background: $yellow_sub;
             a.btn {
                 background: $yellow;
@@ -119,7 +126,7 @@
                 border-color: $yellow;
             }
         }
-        &#growth {
+        &#agency {
             background: $green_sub;
             a.btn {
                 background: $green;
@@ -147,9 +154,9 @@
         }
         p.description {
             color: $dark_sub;
-            margin-bottom: 15rem;
+            margin-bottom: 24rem;
             @include breakpoint(md) {
-                margin-bottom: 17rem;
+                margin-bottom: 24rem;
             }
             span {
                 font-weight: bold;
@@ -173,7 +180,7 @@
                 right: 2.5rem;
             }
             p {
-                margin-left: 30px;
+                margin-left: 5px;
                 position: relative;
                 cursor: pointer;
                 svg.icon--check, svg.icon--close {

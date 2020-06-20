@@ -9,6 +9,7 @@
     {{ partial "head/styles.html" . }}
     {{- if getenv "IS_PROD" -}}
     <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script> (function(){ window.ldfdr = window.ldfdr || {}; (function(d, s, ss, fs){ fs = d.getElementsByTagName(s)[0]; function ce(src){ var cs = d.createElement(s); cs.src = src; setTimeout(function(){fs.parentNode.insertBefore(cs,fs)}, 1); } ce(ss); })(document, 'script', 'https://sc.lfeeder.com/lftracker_v1_DzLR5a59QwAaBoQ2.js'); })(); </script> 
     {{- end -}}
     {{ `<!--[if lt IE 9]>
             <script src="/js/vendor/html5shiv.js"></script>

@@ -25,7 +25,7 @@
             margin: 0 auto 20px;
             width: 100%;
             @include breakpoint(31.25rem) {
-                width: 14.75rem;
+                width: 16.75rem;
             }
             @include breakpoint(sm) {
                 display: inline-block;
