@@ -106,8 +106,12 @@
         padding-left: 30px;
         list-style: none;
         li {
-            margin-top: 1rem;
-            margin-bottom: 1rem;
+            margin-top: 0.7rem;
+            margin-bottom: 0.7rem;
+            @media screen and (max-height: 560px) {
+                margin-top: 0.2rem;
+                margin-bottom: 0.2rem;
+            }
             a {
                 color: white !important;
                 text-decoration: none;
