@@ -72,6 +72,9 @@
         &.tutorials, &.wikis {
             .category { background-color: $yellow_sub; }
         }
+        &.podcasts {
+            .category { background-color: $dark; color: white; }
+        }
     }
 }
 

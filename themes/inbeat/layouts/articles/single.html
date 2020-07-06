@@ -15,11 +15,19 @@
             {{- end -}}
             <h1>{{.Params.titre}}</h1>
             {{- $author := index .Params.authors 0 -}}
+            {{- $time := .ReadingTime -}}
+            {{- $junction := "By" -}}
+            {{- $method := "READ" -}}
+            {{- if (isset .Params "listentime") -}}
+            {{- $time = .Params.listentime -}}
+            {{- $junction = "With" -}}
+            {{- $method = "listen" -}}
+            {{- end -}}
             <div class="meta-box">
                 <img src="{{ $author.profile_image }}" alt="{{ $author.name }}">
                 <p class="author">
-                    <span>By {{ $author.name }}</span><br>
-                    <span class="infos">{{ .ReadingTime }} min read | {{.Date.Format "Jan 2 2006"}}</span>
+                    <span>{{ $junction }} {{ $author.name }}</span><br>
+                    <span class="infos">{{ .ReadingTime }} min {{ $method }} | {{.Date.Format "Jan 2 2006"}}</span>
                 </p>
             </div>
             <img src="{{- .Params.feature_image -}}" alt="{{- .Params.titre -}}">

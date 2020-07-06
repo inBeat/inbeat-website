@@ -114,6 +114,10 @@ h5 {
         .category { background-color: $yellow_sub; }
         .infos { color: $yellow !important; }
     }
+    &.podcasts {
+        .category { background-color: $dark; color: white; }
+        .infos { color: $dark !important; }
+    }
 }
 
 #article-body {
@@ -263,6 +267,9 @@ h5 {
         }
         h5 { color: $yellow; }
     }
+    &.podcasts {
+        padding-top: 40px;
+    }
 }
 
 #article-cta {
@@ -298,10 +305,13 @@ h5 {
     .tips {
         background-color: $red_sub;
     }
-    .studies {
+    .studies, .podcasts {
         background-color: $green_sub;
     }
     .tutorials, .wikis {
         background-color: $yellow_sub;
     }
+    // .podcasts {
+    //     background-color: $dark_sub; color: white;
+    // }
 }

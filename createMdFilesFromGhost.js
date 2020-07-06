@@ -25,7 +25,7 @@ const createMdFilesFromGhost = async () => {
             limit: 'all',
             include: 'tags,authors',
             formats: ['html'],
-            filter: ['tag:studies', 'tag:tips', 'tag:tutorials', 'tag:wikis'],
+            filter: ['tag:studies', 'tag:tips', 'tag:tutorials', 'tag:wikis', 'tag:podcasts'],
         });
 
         await Promise.all(posts.map(async (post) => {
@@ -74,16 +74,37 @@ const createMdFilesFromGhost = async () => {
                 return;
             }
 
-            // We only use the first tag.
-            frontmatter.categories = [post.tags[0].name];
-
-            if (post.tags[0].name == 'Wikis') {
-                frontmatter.unlisted = true;
-            }
-
             // There should be at least one author.
             if (!post.authors || !post.authors.length) {
                 return;
+            }
+
+            // We only use the first tag.
+            frontmatter.categories = [post.tags[0].name];
+
+            if (post.tags[0].name == 'Wikis' || post.tags[0].name == 'Podcasts') {
+                frontmatter.unlisted = true;
+            }
+
+            if (post.tags[0].name == 'Podcasts') {
+                frontmatter.unlisted = true;
+                sections = content.split('<!--kg-card-end: markdown-->');
+                // The markdown section should be there and at the beginning.
+                if (sections.length < 2) {
+                    return;
+                }
+
+                // The content is after the markdown
+                content = sections[1];
+                
+                // Get extrainfos from the Markdown block
+                const jsonString = sections[0].split('<p>')[1].replace('</p>', '').replace(/&quot;/g, '"');
+                const extraInfos = JSON.parse(jsonString);
+                frontmatter.listentime = extraInfos.time
+                post.authors[0] = {
+                    name: extraInfos.invitee,
+                    profile_image: 'https://ghost.inbeat.co' + extraInfos.avatar
+                }
             }
 
             // Rewrite the avatar url for a small one.

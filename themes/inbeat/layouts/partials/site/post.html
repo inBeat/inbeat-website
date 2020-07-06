@@ -18,5 +18,13 @@
     </h4>
     <p class="small">{{- .Summary -}}</p>
     {{- $author := index .Params.authors 0 -}}
-    <p class="author">By <span>{{ $author.name }}</span> | {{ .ReadingTime }} MIN READ</np>
+    {{- $time := .ReadingTime -}}
+    {{- $junction := "By" -}}
+    {{- $method := "READ" -}}
+    {{- if (isset .Params "listentime") -}}
+    {{- $time = .Params.listentime -}}
+    {{- $junction = "With" -}}
+    {{- $method = "LISTEN" -}}
+    {{- end -}}
+    <p class="author">{{ $junction }} <span>{{ $author.name }}</span> | {{ $time }} MIN {{ $method }}</np>
 </div>

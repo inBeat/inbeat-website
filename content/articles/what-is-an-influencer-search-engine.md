@@ -5,9 +5,9 @@ description: >-
   social media, such as TikTok and Instagram.
 titre: What Is an Influencer Search Engine?
 slug: what-is-an-influencer-search-engine
-feature_image: 'https://ghost.inbeat.co/content/images/2020/06/influencer-search-engine.png'
-og_image: 'https://ghost.inbeat.co/content/images/2020/06/influencer-search-engine.png'
-lastmod: '2020-06-11T17:25:44.000-04:00'
+feature_image: 'https://ghost.inbeat.co/content/images/2020/06/Influencer-Search-Engine2.png'
+og_image: 'https://ghost.inbeat.co/content/images/2020/06/Influencer-Search-Engine2.png'
+lastmod: '2020-06-15T11:11:26.000-04:00'
 date: '2020-06-11T15:10:48.000-04:00'
 summary: >-
   An influencer search engine is a tool, which helps you find influencers on

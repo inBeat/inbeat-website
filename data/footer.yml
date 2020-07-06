@@ -12,6 +12,8 @@ col1:
 col2:
   - anchor: Articles
     link: articles
+  - anchor: The Pulse Podcast
+    link: categories/podcasts
   - anchor: Affiliate
     link: affiliate
   - anchor: Privacy Policy

@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="container mobile-adjusted page-top categories" id="featured-posts">
+    <div class="row">
+        <div class="col-xs-12">
+            <h1>{{.Title}}</h1>
+        </div>
+        <ul>
+            {{- range .Pages -}}
+            <li><a href="{{- .Permalink -}}" title="{{- .Title -}}">{{- .Title -}}</a></li>
+            {{- end -}}
+        </ul>
+    </div>
+</section>
+{{ end }}
