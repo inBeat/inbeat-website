@@ -18,6 +18,28 @@ function debounce(func, wait, immediate) {
 	};
 };
 
+// Found here to manipulate cookies: https://stackoverflow.com/questions/14573223/set-cookie-and-get-cookie-with-javascript
+function setCookie(name, value, days) {
+    var expires = "";
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days*24*60*60*1000));
+        expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+}
+
+function getCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+}
+
 // Open the menu overlay on click
 function header() {
     var menuBtn = document.getElementById('menu-icon');
@@ -127,12 +149,86 @@ function affiliate() {
             }
             customerNb.style.left = (pos * width - 4.5 + thumbCorrect + nbLengthCorrect) + 'px';
         }
-        window.addEventListener("resize", debounce(function() {
+        window.addEventListener('resize', debounce(function() {
             width = slider.clientWidth;
             calcPosition();
         }, 150));
         slider.addEventListener('input', calcPosition)
     }
+}
+
+function topInfluencers() {
+    // Select the form
+    var popup = document.getElementById('top-popup');
+    if (popup) {
+        // If the cookie is active, no popup
+        if (getCookie('guide-popup')) {
+            return;
+        }
+
+        // Else, set the cookie for no more popup
+        setCookie('guide-popup', true, 60);
+
+        // Popup after 8 seconds
+        setTimeout(function(){
+            popup.style.display = 'table';
+        }, 8000);
+        
+        var close = document.getElementById('form-close');
+        close.addEventListener('click', function(e) {
+            popup.style.display = 'none';
+        });
+
+        popup.querySelector('.modal-wrapper').addEventListener('click', function(e) {
+            if (e.target !== this) {
+                return;
+            }
+            popup.style.display = 'none';
+        })
+
+        var form = document.getElementById('top-form');
+        var email = document.getElementById('top-email');
+        var ml = document.getElementById('ml');
+        var btn = document.getElementById('top-submit');
+        var err = document.getElementById('form-error');
+        var se = /^[\w\.\-_]{1,}@[\w\.\-]{6,}/
+        form.addEventListener('submit', function(e){
+            e.preventDefault();
+            if (email.value == '' || ml.value !== '1') {
+                err.style.display = 'block';
+                err.innerText = 'Fill out the form';
+                return;
+            }
+
+            if (!se.test(email.value)) {
+                err.style.display = 'block';
+                err.innerText = 'Check your email address';
+                return;
+            }
+
+            btn.innerText = 'Sending...';
+
+            var request = new XMLHttpRequest();
+            request.open('POST', this.action, true);
+            request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
+            request.onload = function() {
+                if (this.status >= 200 && this.status < 400) {
+                    popup.classList.add('completed');
+                    btn.innerText = 'Perfectly Sent!';
+                } else {
+                    err.style.display = 'block';
+                    btn.innerText = 'Send again';
+                }
+            };
+
+            request.onerror = function() {
+                err.style.display = 'block';
+                btn.innerText = 'Send again';
+            };
+            request.send('fields%5Bemail%5D=' + encodeURI(email.value) + '&ml-submit=1');
+        })
+
+    } 
 }
 
 (function() {
@@ -141,4 +237,5 @@ function affiliate() {
     home();
     pricing();
     affiliate();
+    topInfluencers();
 })();
