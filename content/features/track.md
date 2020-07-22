@@ -20,8 +20,8 @@ sections:
       inBeat identifies your KPIs, allowing you to see your global campaign health.
     icon: features-measure-icon
     link:
-      text: Book a demo &#8594;
-      url: https://calendly.com/inbeatapp/inbeat-demo
+      text: Try it now &#8594;
+      url: https://app.inbeat.co/get-started
       external: true
     image: /images/features-measure-img.png
     points:
@@ -38,8 +38,8 @@ sections:
       inBeat organizes all of the content created by your influencers on either TikTok or Instagram.
     icon: features-content-library-icon
     link:
-      text: Book a demo &#8594;
-      url: https://calendly.com/inbeatapp/inbeat-demo
+      text: Try it now &#8594;
+      url: https://app.inbeat.co/get-started
       external: true
     image: /images/features-content-library-img.png
     points:
@@ -57,8 +57,8 @@ sections:
       inBeat keeps a pulse on the engagement metrics of each individual publication.
     icon: features-data-icon
     link:
-      text: Book a demo &#8594;
-      url: https://calendly.com/inbeatapp/inbeat-demo
+      text: Try it now &#8594;
+      url: https://app.inbeat.co/get-started
       external: true
     image: /images/features-data-img.png
     points:

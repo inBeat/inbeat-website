@@ -9,8 +9,8 @@ hero:
     A search engine to find Micro-Nano influencers in seconds
   cta:
     text: >-
-      <span>Book a demo</span> &#8212 it's free
-    link: https://calendly.com/inbeatapp/inbeat-demo
+      <span>Try it now</span> &#8212 it's free
+    link: https://app.inbeat.co/get-started
 clients:
   - img: /icons/leadlabs.svg
     name: Leadlabs

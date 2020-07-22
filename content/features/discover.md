@@ -10,8 +10,8 @@ sections:
       inBeat instantly scans <span>Bios & Post</span> Descriptions, allowing you to find exacly what you need.
     icon: features-search-icon
     link:
-      text: Book a demo &#8594;
-      url: https://calendly.com/inbeatapp/inbeat-demo
+      text: Try it now &#8594;
+      url: https://app.inbeat.co/get-started
       external: true
     image: /images/features-search-screenshot.png
     points:
@@ -29,8 +29,8 @@ sections:
       Filter your results and narrow down your searches to discover fitting Influencers.
     icon: features-filter-icon
     link:
-      text: Book a demo &#8594;
-      url: https://calendly.com/inbeatapp/inbeat-demo
+      text: Try it now &#8594;
+      url: https://app.inbeat.co/get-started
       external: true
     image: /images/features-filter-screenshot.png
     points:
@@ -49,8 +49,8 @@ sections:
       Once you know what you’re looking for, there’s two ways to pick-out influencers.
     icon: features-select-icon
     link:
-      text: Book a demo &#8594;
-      url: https://calendly.com/inbeatapp/inbeat-demo
+      text: Try it now &#8594;
+      url: https://app.inbeat.co/get-started
       external: true
     image: /images/features-select-screenshot.png
     points:
