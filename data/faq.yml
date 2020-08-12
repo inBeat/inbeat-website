@@ -24,16 +24,22 @@ home:
       When you export your campaign, you will receive a CSV file, which you can add to your favorite
       CRM tool. We propose using Mailshake or Gmass, but you can use any tool you wish. These tools
       make pitching influencers much easier to manage.
+  - question: Should I hire an influencer marketing agency?
+    answer: >-
+      It’s a question we get a lot, and the answer is **it depends**. Because a lot of our clients were looking
+      for an [influencer marketing agency](https://inbeat.agency/), we created one that focuses strictly on
+      micro-influencer marketing. You should consider factors such as internal resources, budget, complexity
+      and scale when choosing between using a tool in-house or hiring an agency.
+  - question: How do you spam-check your influencers?
+    answer: >-
+      We pre-vet all of our profiles by checking content authenticity, engagement metrics, and fraudulent behaviors.
+  - question: We are a charity, do you have any special discounts?
+    answer: >-
+      Absolutely. Contact us and we will unlock our charity plan for you.
   - question: Do you have a partnership with the influencers on your platform?
     answer: >-
       We don't have any relationship with the influencers displayed on inBeat. They were chosen and added
       to our platform based on their content authenticity and their metrics.
-  - question: We are a charity, do you have any special discounts?
-    answer: >-
-      Absolutely. Contact us and we will unlock our charity plan for you.
-  - question: How do you spam-check your influencers?
-    answer: >-
-      We pre-vet all of our profiles by checking content authenticity, engagement metrics, and fraudulent behaviors.
 tiktok:
   - question: How do I find TikTok influencers?
     answer: >-
@@ -93,6 +99,12 @@ pricing:
       If the influencer does not have an email linked to it, you will not be charged.
       If you export the same influencer in multiple campaigns, you will only be charged once.
       If you’re on the Free Plan, you still can’t export contacts without email.
+  - question: Should I hire an influencer marketing agency?
+    answer: >-
+      It’s a question we get a lot, and the answer is **it depends**. Because a lot of our clients were looking
+      for an [influencer marketing agency](https://inbeat.agency/), we created one that focuses strictly on
+      micro-influencer marketing. You should consider factors such as internal resources, budget, complexity
+      and scale when choosing between using a tool in-house or hiring an agency.
   - question: Can I exceed my plan's credit?
     answer: >-
       Our system will warn you if you exceed your plan limit. You will be able to upgrade
