@@ -154,9 +154,9 @@
         }
         p.description {
             color: $dark_sub;
-            margin-bottom: 24rem;
+            margin-bottom: 34rem;
             @include breakpoint(md) {
-                margin-bottom: 24rem;
+                margin-bottom: 34rem;
             }
             span {
                 font-weight: bold;
@@ -195,8 +195,8 @@
                     opacity: 0.25;
                     transition: opacity 0.2s;
                 }
-                span {
-                    font-weight:bold;
+                .small {
+                    font-size: 0.6em;
                 }
                 .tooltip {
                     position: absolute;

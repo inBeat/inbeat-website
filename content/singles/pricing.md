@@ -27,28 +27,31 @@ plans:
   - contacts: 500
     campaigns: 2
     accounts: 2
-    bulk: true
     monthly: 80
     title: Brand
     yearly: 54
+    suggested: false
+    collected: 500
     description: >-
       Ideal for marketers looking to <span>scale</span> their influencer marketing through mass e-mail outreach.
   - contacts: 2000
     campaigns: 7
     accounts: 5
-    bulk: true
     monthly: 200
     title: Agency
     yearly: 134
+    suggested: true
+    collected: 1000
     description: >-
       Ideal for agencies launching <span>continuous campaigns</span>.
   - contacts: 5000
     campaigns: Unlimited
     accounts: Unlimited
-    bulk: true
     monthly: 400
     title: Business
     yearly: 267
+    suggested: true
+    collected: 2000
     description: >-
       Ideal for big brands looking to scale their <span>ambassador program</span>.
 included:

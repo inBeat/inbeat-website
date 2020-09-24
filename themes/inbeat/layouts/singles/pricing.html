@@ -68,36 +68,63 @@
                 </p>
                 <div class="features">
                     <p>
-                        <span>{{- .contacts -}}</span> Contact Exports /mo
+                        <strong>Unlimited</strong> Database Access
                         {{- partial "icons/info.html" -}}
                         <span class="tooltip">
-                            Export all available info (E-mail, handle, URL, etc.).
-                            Profiles without E-mail don’t use up an export.
+                            Use all of our search features to find the right influencers.
+                        </span>
+                    </p>
+                    <p>
+                        <strong>{{- .contacts -}}</strong> Contact Exports <span class="small">per month</span>
+                        {{- partial "icons/info.html" -}}
+                        <span class="tooltip">
+                            Export all available info (e-mail, handle, URL, etc.).
+                            Profiles without e-mail don’t use an export.
                             Unused exports won't rollover to the following month.
                         </span>
                     </p>
                     <p>
-                        <span>Bulk</span> Selection
+                        <strong>{{- .collected -}}</strong> Collected Profiles <span class="small">per search</span>
+                        {{- partial "icons/info.html" -}}
+                        <span class="tooltip">
+                            If our database is not enough, we can collect NEW profiles
+                            directly on Instagram for you using hashtags and/or filters.
+                        </span>
+                    </p>
+                    <p>
+                        <strong>Bulk</strong> Selection
                         {{- partial "icons/info.html" -}}
                         <span class="tooltip">
                             Select and export up to 1000 filtered profiles in a single click.
                         </span>
                     </p>
                     <p>
-                        <span>{{- .accounts -}}</span> Client Accounts
+                        <strong>{{- .accounts -}}</strong> Client Accounts
                         {{- partial "icons/info.html" -}}
                         <span class="tooltip">
                             Assign campaigns to client accounts you manage.
                         </span>
                     </p>
                     <p>
-                        <span>{{- .campaigns -}}</span> Concurrent Campaigns
+                        <strong>{{- .campaigns -}}</strong> Concurrent Campaigns
                         {{- partial "icons/info.html" -}}
                         <span class="tooltip">
                             Manage multiple campaign at the same time.
                             Once you're satisfied, export the campaign and create a new one.
                         </span>
                     </p>
+                    {{- if .suggested -}}
+                    <p>
+                        <strong>Similar Profiles</strong> Search
+                        {{- partial "icons/info.html" -}}
+                        <span class="tooltip">
+                            Submit a list of influencers you like and we'll build a
+                            campaign for you with similar profiles.
+                        </span>
+                    </p>
+                    {{- else -}}
+                    <p>&nbsp;</p>
+                    {{- end -}}
                     <a class="btn btn-md" href="https://app.inbeat.co/get-started" target="_blank">
                         7-day free trial
                     </a>
