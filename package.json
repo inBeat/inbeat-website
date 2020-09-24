@@ -23,7 +23,7 @@
   "dependencies": {},
   "devDependencies": {
     "@tryghost/content-api": "^1.4.1",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.26.12",
     "dotenv": "^8.2.0",
     "fs-extra": "^9.0.0",
     "gulp": "^4.0.2",
@@ -34,7 +34,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
     "js-yaml": "^3.13.1",
-    "node-sass": "^4.13.1"
+    "node-sass": "^4.14.1"
   },
   "browserslist": {
     "production": [
