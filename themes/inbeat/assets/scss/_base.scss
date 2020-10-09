@@ -169,7 +169,7 @@ a.btn {
 .hide-sm {
     display: none !important;
     @include breakpoint(sm) {
-        display: block !important;
+        display: flex !important;
     }
 }
 

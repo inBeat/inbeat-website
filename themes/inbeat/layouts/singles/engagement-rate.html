@@ -1,0 +1,275 @@
+{{- define "main" -}}
+{{- $endpointUrl := "http://localhost:4000/engagement-calculator" -}}
+{{- if getenv "IS_PROD" -}}
+{{- $endpointUrl := "https://graphql.inbeat.co/engagement-calculator" -}}
+{{- end -}}
+<section class="container mobile-adjusted page-top" id="engagement-header">
+    <h1>Instagram Engagement Rate Calculator</h1>
+    <p>Analyze Instagram influencers: follower count,<br>engagement rate, popular content and more.</p>
+</section>
+<section id="engagement-calculator" class="container mobile-adjusted">
+    <div id="engagement-form">
+        <input type="string" required v-model="username" placeholder="Enter Instagram @username" @keyup.enter="submit">
+        <input type="hidden" name="platform" value="instagram">
+        <button type="submit" @click="submit">
+            <div class="lds-ring" v-if="loading"><div></div><div></div><div></div><div></div></div>
+            <span v-else>Check Profile</span>
+        </button>
+    </div>
+    <transition name="slide-fade" mode="out-in">
+        <p v-if="error" class="error">{ error }</p>
+        <div id="engagement-result" class="card row" v-else-if="!loading && user">
+            <div class="col-xs-12 col-md-4 profile-info">
+                <img :src="user.avatar" :alt="user.username" @click="openProfile"/>
+                <p class="username" @click="openProfile">@{ user.username }</p>
+                <span class="contact" style="text-decoration: underline">
+                    Contact info { user.has_email ? '' : 'not' } available
+                </span>
+                <div class="stats row">
+                    <div class="col-xs-4">
+                        <p>{ formatFollowing(user.followers) }</p>
+                        <span>Followers</span>
+                    </div>
+                    <div class="col-xs-4">
+                        <p>{ formatFollowing(user.following) }</p>
+                        <span>Following</span>
+                    </div>
+                    <div class="col-xs-4">
+                        <p>{ user.nb_posts }</p>
+                        <span>Posts</span>
+                    </div>
+                </div>
+                <a href="https://app.inbeat.co/get-started" class="btn btn-md btn-crazy" target="_blank">
+                    Find similar influencers
+                </a>
+            </div>
+            <div class="col-xs-12 col-md-8 posts-info">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-4 stats engagement">
+                        <div class="card">
+                            {{- partial "icons/engagement.html" -}}
+                            <p>{ user.engagement.toFixed(2) }%</p>
+                            <span>Engagement Rate</span>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-4 stats likes">
+                        <div class="card">
+                            {{- partial "icons/heart.html" -}}
+                            <p>{ formatLikes(user.avg_likes) }</p>
+                            <span>Avg. Likes</span>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-4 stats comments">
+                        <div class="card">
+                            {{- partial "icons/comment.html" -}}
+                            <p>{ Math.round(user.comments_per_likes * 1000) }</p>
+                            <span>Comments per 1000 Likes</span>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-6 graph">
+                        <div class="card">
+                            <p>Likes per post</p>
+                            <svg style="width:0; height:0; position:absolute;" aria-hidden="true" focusable="false">
+                                <defs>
+                                    <linearGradient id="graphFill" x1="1" x2="1" y1="0" y2="1">
+                                        <stop offset="0%" stop-color="#E7AEC0"></stop>
+                                        <stop offset="100%" stop-color="#FAECDB"></stop>
+                                    </linearGradient>
+                                </defs>
+                            </svg>
+                            <trend-chart
+                                v-if="datasetLikes.length"
+                                :datasets="[{data: datasetLikes, fill: true, className: 'curve-inbeat', smooth: true}]"
+                                :labels="labels"
+                                :min="0"
+                                :grid="grid" />
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-6 graph">
+                        <div class="card">
+                            <p>Comments per post</p>
+                            <trend-chart
+                                v-if="datasetComments.length"
+                                :datasets="[{data: datasetComments, fill: true, className: 'curve-inbeat', smooth: true}]"
+                                :labels="labels"
+                                :min="0"
+                                :grid="grid" />
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-12 posts">
+                        <div class="card">
+                            <p class="card-title">Recent posts</p>
+                            <div class="row">
+                                <div class="col-xs-6 col-sm-4 col-md-3" v-for="post in posts.slice(0, 8)" :key="post.url">
+                                    <div class="post" @click="openPost(post.url)">
+                                        <div class="img" :style="`background-image: url(${post.image})`"></div>
+                                        <p>
+                                            <span>{{- partial "icons/heart.html" -}} { formatLikes(post.likes) }</span>
+                                            <span>{{- partial "icons/comment.html" -}} { formatLikes(post.comments) }</span>
+                                            <span>{{- partial "icons/engagement.html" -}} { post.engagement.toFixed(1) }%</span>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </transition>
+</section>
+<section class="container m-tb-160 mobile-adjusted" id="start-now">
+    <div class="row">
+        <div class="col-xs-12 col-sm-4 col1">
+            <h2>Find more influencers</h2>
+            <h4>Search thousands of influencers with inBeat</h4>
+            <a href="https://app.inbeat.co/get-started" title="Try it now" class="btn btn-crazy btn-md" target="_blank">
+                <span>Try it now</span> &#8212 it's free
+            </a>
+            <p class="signin">
+                Already in the family?
+                <a href="https://app.inbeat.co" title="Sign in">Sign in</a>.
+            </p>
+        </div>
+        <div class="col-xs-12 col-sm-offset-1 col-sm-7 hide-sm align-right">
+            {{- partial "icons/engagement-img.html" -}}
+        </div>
+    </div>
+</section>
+
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.instagram "id" "home-faq") -}}
+
+{{- if getenv "IS_PROD" -}}
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+{{- else -}}
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+{{- end -}}
+<script src="https://unpkg.com/vue-trend-chart@0.15.1/dist/vue-trend-chart.js"></script>
+<script>
+    var notCharRegex = /[^\w\d.-]/g;
+    var app = new Vue({
+        el: '#engagement-calculator',
+        data() {
+            return {
+                username: '',
+                user: null,
+                posts: [],
+                datasetLikes: [],
+                datasetComments: [],
+                labels: {
+                    xLabels: [],
+                    yLabels: 5,
+                    yLabelsTextFormatter: val => this.formatLikes(val)
+                },
+                grid: {
+                    verticalLines: true,
+                    verticalLinesNumber: 1,
+                    horizontalLines: true,
+                    horizontalLinesNumber: 5
+                },
+                error: null,
+                loading: false,
+                quotaReached: false,
+                initialSearch: true,
+            };
+        },
+        created() {
+            this.submit();
+            this.initialSearch = false;
+        },
+        methods: {
+            submit() {
+                var username = this.initialSearch ? 'amoureuxdumonde' : this.username.replace(notCharRegex, '');
+                if (this.quotaReached) {
+                    this.error = 'You reached your quota for this hour. Try again later.';
+                    return;
+                }
+                if (username == '') {
+                    this.error = 'Please enter a username.';
+                    return;
+                }
+
+                this.loading = true;
+                var _this = this;
+                var request = new XMLHttpRequest();
+                request.open('POST', '{{ $endpointUrl | safeJS }}', true);
+                request.setRequestHeader('Content-Type', 'application/json');
+                request.onload = function() {
+                    if (!request.status || request.status !== 200) {
+                        if (request.status === 429) {
+                            _this.quotaReached = true;
+                            _this.error = 'You reached your quota for this hour. Try again later.';
+                            _this.loading = false;
+                            return
+                        }
+
+                        var res = JSON.parse(request.response);
+                        _this.error = res.error || 'An unexpected error occured. Please try again.';
+                        _this.loading = false;
+                        return
+                    }
+
+                    var res = JSON.parse(request.response);
+                    _this.user = res.user;
+                    _this.posts = res.posts;
+                    _this.labels.xLabels = res.posts.map((_, i) => i + 1);
+                    _this.datasetLikes = res.posts.map(post => post.likes);
+                    _this.datasetComments = res.posts.map(post => post.comments);
+                    _this.error = null;
+                    _this.loading = false;
+                };
+                request.onerror = function() {
+                    console.log('onerror');
+                    _this.error = request.responseText;
+                    _this.loading = false;
+                }
+                request.send(JSON.stringify({ platform: 'instagram', username: username }));
+            },
+            formatFollowing(nb) {
+                if (nb < 10000) {
+                    return Math.ceil(nb);
+                }
+                if (nb < 1000000) {
+                    var newNb = Math.ceil(nb / 100);
+                    return `${newNb / 10}k`;
+                }
+                var newNb = Math.ceil(nb / 10000);
+                return `${newNb / 100}M`;
+                },
+            formatLikes(nb) {
+                if (nb < 1000) {
+                    return Math.ceil(nb);
+                }
+                if (nb < 10000) {
+                    var newNb = Math.ceil(nb / 10);
+                    return `${newNb / 100}k`;
+                }
+                if (nb < 100000) {
+                    var newNb = Math.ceil(nb / 100);
+                    return `${newNb / 10}k`;
+                }
+                if (nb < 1000000) {
+                    return `${Math.ceil(nb / 1000)}k`;
+                }
+                if (nb < 10000000) {
+                    var newNb = Math.ceil(nb / 10000);
+                    return `${newNb / 100}M`;
+                }
+                // if nb = 3 415 786 -> 3.42M
+                var newNb = Math.ceil(nb / 100000);
+                return `${newNb / 10}M`;
+            },
+            openPost(url) {
+                var win = window.open(url, '_blank');
+                win.focus();
+            },
+            openProfile() {
+                var win = window.open('https://www.instagram.com/' + this.user.username, '_blank');
+                win.focus();
+            },
+        },
+        // To make sure there's no conflict with Hugo templating
+        delimiters: ['{', '}'],
+    });
+</script>
+{{- end -}}
