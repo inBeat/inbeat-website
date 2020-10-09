@@ -1,7 +1,7 @@
 {{- define "main" -}}
 {{- $endpointUrl := "http://localhost:4000/engagement-calculator" -}}
 {{- if getenv "IS_PROD" -}}
-{{- $endpointUrl := "https://graphql.inbeat.co/engagement-calculator" -}}
+{{- $endpointUrl = "https://graphql.inbeat.co/engagement-calculator" -}}
 {{- end -}}
 <section class="container mobile-adjusted page-top" id="engagement-header">
     <h1>Instagram Engagement Rate Calculator</h1>
