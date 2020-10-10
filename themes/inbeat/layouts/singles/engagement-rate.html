@@ -4,7 +4,7 @@
 {{- $endpointUrl = "https://graphql.inbeat.co/engagement-calculator" -}}
 {{- end -}}
 <section class="container mobile-adjusted page-top" id="engagement-header">
-    <h1>Instagram Engagement Rate Calculator</h1>
+    <h1>{{- .Params.titre -}}</h1>
     <p>Analyze Instagram influencers: follower count,<br>engagement rate, popular content and more.</p>
 </section>
 <section id="engagement-calculator" class="container mobile-adjusted">
@@ -137,7 +137,7 @@
     </div>
 </section>
 
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.instagram "id" "home-faq") -}}
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.instagram "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
 
 {{- if getenv "IS_PROD" -}}
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>

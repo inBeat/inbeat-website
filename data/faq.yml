@@ -123,27 +123,28 @@ pricing:
       marketing cost.
 engagement:
   instagram:
-    - question: How do I get started with Instagram influencer marketing?
+    - question: How do You Calculate an Instagram Account's Engagement Rate?
       answer: >-
-        Our tool is the perfect place to start your Instagram influencer marketing campaign. We use our social media
-        data to give you all the information you need on each influencer. Instagram marketing starts with choosing
-        the right influencers to collaborate with. You should look at engagement rate, follower count and hashtags used
-        to help you get a sense.
-    - question: How do I know which Instagram influencers to select?
+        We calculate an Instagram profile's engagement rate by making an average of their likes and comments for their last
+        12 posts. Engagement rate can vary from post to post, making it crucial to measure engagement across multiple posts.
+    - question: Why should I Calculate an Influencer's Engagement Rate?
       answer: >-
-        Selecting the right influencers on any social media platform is hard. An Influencer's content style is important
-        to consider. Of course, you should always consider your target audience. This is a principle that’s true across
-        any influencer marketing campaign. So, you should take into consideration the following: Audience alignment,
-        Engagement rate, Location, Other social media profiles.
-    - question: Who are the top influencers on Instagram?
+        It provides you a good overview of an Instagram influencer's audience engagement. In other words, do people react to
+        a profile's content? You should always measure the number of likes and comments; followers can be a deceiving metric.
+        As a rule of thumb, a higher engagement rate is better, and a higher comment to likes is even better.
+    - question: Why Use inBeat's Instagram Engagement Calculator?
       answer: >-
-        We have an entire section to the [top Instagram influencers](https://www.inbeat.co/top-influencers/instagram/). Feel
-        free to use our tool or navigate this section to help you find the best influencers by region, country, and
-        niche.
-    - question: Should I work with Instagram influencers?
+        Fair question. It's free, and we do all of the work for you. We don't ask for an email or watermark your report. If
+        you need to, you can even use our information as a presentation tool for your clients. We've got you covered! Anyhow,
+        use this free tool to identify the best opportunities for your influencer marketing campaign and generate the best
+        ROI for your marketing costs.
+    - question: How Can I Use The Information In My Influencer Marketing?
       answer: >-
-        We advise you try out a Instagram influencer marketing campaign with a few Instagramers before investing heavily
-        in this social media platform.
+        It's always a tricky question to answer, but here is how we do it. We use the engagement rate as a gauge of trust for
+        the influencers we work with throughout our influencer marketing campaigns. It isn't the only thing you should analyze.
+        Instagram influencers can purchase fake comments and likes, which can make this metric obsolete. Although there are
+        tools out there to calculate the number of fake followers, a judgment call will always outperform these tools. Ask
+        yourself questions such as: are there comments shallow or off-topic? Do they have a low number of comments? 
   tiktok:
     - question: How do I get started with TikTok influencer marketing?
       answer: >-

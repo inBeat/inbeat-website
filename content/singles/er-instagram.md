@@ -1,9 +1,10 @@
 ---
-title: Engagement Rate Calculator for Instagram | inBeat
+title: Instagram Engagement Rate Calculator | inBeat
 description: >-
-  Engagement Rate Calculator for Instagram
+  Calculate your Instagram influencer’s social engagement by using our free engagement rate calculator online.
+  It’s fast, efficient and doesn’t require your email.
 slug: engagement-rate-calculator-instagram
 layout: engagement-rate
+titre: Instagram Engagement Rate Calculator
 platform: instagram
-noindex: true
 ---
