@@ -3,14 +3,22 @@
 {{- if getenv "IS_PROD" -}}
 {{- $endpointUrl = "https://graphql.inbeat.co/engagement-calculator" -}}
 {{- end -}}
+{{- $forInstagram := eq .Params.platform "instagram" -}}
+{{- $username := "amoureuxdumonde"}}
+{{- if not $forInstagram -}}
+{{- $username = "jasminmccarthyy" -}}
+{{- end -}}
 <section class="container mobile-adjusted page-top" id="engagement-header">
     <h1>{{- .Params.titre -}}</h1>
-    <p>Analyze Instagram influencers: follower count,<br>engagement rate, popular content and more.</p>
+    <p>{{- .Params.subtitle | markdownify -}}</p>
 </section>
 <section id="engagement-calculator" class="container mobile-adjusted">
     <div id="engagement-form">
+        {{- if $forInstagram -}}
         <input type="string" required v-model="username" placeholder="Enter Instagram @username" @keyup.enter="submit">
-        <input type="hidden" name="platform" value="instagram">
+        {{- else -}}
+        <input type="string" required v-model="username" placeholder="Enter TikTok @username" @keyup.enter="submit">
+        {{- end -}}
         <button type="submit" @click="submit">
             <div class="lds-ring" v-if="loading"><div></div><div></div><div></div><div></div></div>
             <span v-else>Check Profile</span>
@@ -35,8 +43,13 @@
                         <span>Following</span>
                     </div>
                     <div class="col-xs-4">
+                        {{- if $forInstagram -}}
                         <p>{ user.nb_posts }</p>
                         <span>Posts</span>
+                        {{- else -}}
+                        <p>{ formatLikes(parseInt(user.total_likes || 0, 10)) }</p>
+                        <span>Likes</span>
+                        {{- end -}}
                     </div>
                 </div>
                 <a href="https://app.inbeat.co/get-started" class="btn btn-md btn-crazy" target="_blank">
@@ -61,9 +74,15 @@
                     </div>
                     <div class="col-xs-6 col-sm-4 stats comments">
                         <div class="card">
+                            {{- if $forInstagram -}}
                             {{- partial "icons/comment.html" -}}
                             <p>{ Math.round(user.comments_per_likes * 1000) }</p>
                             <span>Comments per 1000 Likes</span>
+                            {{- else -}}
+                            {{- partial "icons/play.html" -}}
+                            <p>{ formatLikes(user.avg_views) }</p>
+                            <span>Avg. Views</span>
+                            {{- end -}}
                         </div>
                     </div>
                     <div class="col-xs-12 col-md-6 graph">
@@ -141,7 +160,11 @@
     </div>
 </section>
 
+{{- if $forInstagram -}}
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.instagram "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
+{{- else -}}
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.tiktok "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
+{{- end -}}
 
 {{- if getenv "IS_PROD" -}}
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
@@ -183,7 +206,7 @@
         },
         methods: {
             submit() {
-                var username = this.initialSearch ? 'amoureuxdumonde' : this.username.replace(notCharRegex, '');
+                var username = this.initialSearch ? '{{ $username | safeJS }}' : this.username.replace(notCharRegex, '');
                 if (this.quotaReached) {
                     this.error = 'You reached your quota for this hour. Try again later.';
                     return;
@@ -216,18 +239,18 @@
                     var res = JSON.parse(request.response);
                     _this.user = res.user;
                     _this.posts = res.posts;
-                    _this.labels.xLabels = res.posts.map((_, i) => i + 1);
+                    _this.labels.xLabels = res.posts.map((_, i) => i+1);
                     _this.datasetLikes = res.posts.map(post => post.likes);
                     _this.datasetComments = res.posts.map(post => post.comments);
                     _this.error = null;
                     _this.loading = false;
                 };
                 request.onerror = function() {
-                    console.log('onerror');
-                    _this.error = request.responseText;
+                    console.log(request.response);
+                    _this.error = 'An unexpected error occured. Please try again later.';
                     _this.loading = false;
                 }
-                request.send(JSON.stringify({ platform: 'instagram', username: username }));
+                request.send(JSON.stringify({ platform: '{{ .Params.platform | safeJS }}', username: username }));
             },
             formatFollowing(nb) {
                 if (nb < 10000) {
@@ -268,8 +291,13 @@
                 win.focus();
             },
             openProfile() {
-                var win = window.open('https://www.instagram.com/' + this.user.username, '_blank');
-                win.focus();
+                if ('{{ .Params.platform | safeJS }}' === 'instagram') {
+                    var win = window.open('https://www.instagram.com/' + this.user.username, '_blank');
+                    win.focus();
+                } else {
+                    var win = window.open('https://www.tiktok.com/@' + this.user.username, '_blank');
+                    win.focus();
+                }
             },
         },
         // To make sure there's no conflict with Hugo templating
