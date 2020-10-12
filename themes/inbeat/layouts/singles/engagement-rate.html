@@ -102,7 +102,11 @@
                             <div class="row">
                                 <div class="col-xs-6 col-sm-4 col-md-3" v-for="post in posts.slice(0, 8)" :key="post.url">
                                     <div class="post" @click="openPost(post.url)">
-                                        <div class="img" :style="`background-image: url(${post.image})`"></div>
+                                        <div class="img" :style="`background-image: url(${post.image})`">
+                                            <div class="views" v-if="post.is_video">
+                                                {{- partial "icons/play-empty.html" -}}{ formatLikes(post.video_views)}
+                                            </div>
+                                        </div>
                                         <p>
                                             <span>{{- partial "icons/heart.html" -}} { formatLikes(post.likes) }</span>
                                             <span>{{- partial "icons/comment.html" -}} { formatLikes(post.comments) }</span>

@@ -7,8 +7,8 @@
         <a href="{{- .cta.link -}}" class="btn btn-lg btn-crazy-hover" title="Try it now" id="hero-cta">
             {{- htmlUnescape .cta.text | markdownify -}}
         </a>
-        <a href="#search" title="How it works" class="btn btn-lg btn-white scroll">
-            See how it works
+        <a href="{{- $.Site.Data.settings.bookcall -}}" title="Book a demo" target="_blank" class="btn btn-lg btn-white">
+            Book a demo
         </a>
     </div>
 </section>

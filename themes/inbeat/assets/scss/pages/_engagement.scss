@@ -177,6 +177,20 @@
                 .img {
                     padding-top: 100%;
                     background-size: cover;
+                    position: relative;
+                    .views {
+                        position: absolute;
+                        bottom: 2px;
+                        left: 10px;
+                        svg {
+                            width: 10px;
+                            height: 10px;
+                            vertical-align: middle;
+                            margin-right: 3px;
+                        }
+                        color: white;
+                        font-size: 12px;
+                    }
                 }
                 p {
                     font-size: 12px;
