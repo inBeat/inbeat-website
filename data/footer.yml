@@ -5,10 +5,10 @@ col1:
     link: top-influencers/instagram
   - anchor: Top TikTok Influencers
     link: top-influencers/tiktok
-  # - anchor: Search
-  #   link: search
-  # - anchor: Export
-  #   link: export
+  - anchor: Instagram Engagement Rate Calculator
+    link: engagement-rate-calculator-instagram
+  - anchor: TikTok Engagement Rate Calculator
+    link: engagement-rate-calculator-tiktok
 col2:
   - anchor: Articles
     link: articles
