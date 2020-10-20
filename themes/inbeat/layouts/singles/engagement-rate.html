@@ -163,7 +163,7 @@
 {{- if $forInstagram -}}
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.instagram "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
 {{- else -}}
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.tiktok "id" "home-faq" "title" "FAQ Regarding Our Engagement Rate Tool") -}}
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.engagement.tiktok "id" "home-faq" "title" "FAQ Regarding Our TikTok Engagement Rate Tool") -}}
 {{- end -}}
 
 {{- if getenv "IS_PROD" -}}
