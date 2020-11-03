@@ -35,7 +35,7 @@
         overflow: hidden;
         background-color: transparent;
         &.right {
-            float: right;
+            margin-left: auto;
         }
     }
     li {
