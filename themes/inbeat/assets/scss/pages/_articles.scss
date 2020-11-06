@@ -92,9 +92,6 @@
     }
     .col-sm-6 {
         margin-bottom: 1rem;
-        @include breakpoint(md) {
-            margin-bottom: 0;
-        }
     }
     .post {
         padding: 1rem;
