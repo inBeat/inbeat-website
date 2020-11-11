@@ -21,7 +21,7 @@ sections:
     icon: features-measure-icon
     link:
       text: Try it now &#8594;
-      url: https://app.inbeat.co/get-started
+      url: https://teaminbeat.typeform.com/to/XJEJHjDg
       external: true
     image: /images/features-measure-img.png
     points:
@@ -39,7 +39,7 @@ sections:
     icon: features-content-library-icon
     link:
       text: Try it now &#8594;
-      url: https://app.inbeat.co/get-started
+      url: https://teaminbeat.typeform.com/to/XJEJHjDg
       external: true
     image: /images/features-content-library-img.png
     points:
@@ -58,7 +58,7 @@ sections:
     icon: features-data-icon
     link:
       text: Try it now &#8594;
-      url: https://app.inbeat.co/get-started
+      url: https://teaminbeat.typeform.com/to/XJEJHjDg
       external: true
     image: /images/features-data-img.png
     points:
