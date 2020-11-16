@@ -38,6 +38,7 @@
     }
 }
 
+$plan-padding: 1.5rem;
 #pricing {
     margin-top: 40px;
     @include breakpoint(sm) {
@@ -103,20 +104,31 @@
                 display: inline-block;
             }
         }
+        .currency {
+            font-size: 0.6em;
+        }
     }
     .col-md-4 {
         margin-bottom: 1rem;
-        @include breakpoint(md) {
+        @include breakpoint(lg) {
             margin-bottom: 0;
         }
     }
     .plan {
-        padding: 2rem 1.6rem;
+        padding: $plan-padding;
         height: 100%;
         box-sizing: border-box;
         position: relative;
-        @include breakpoint(md) {
-            padding: 2.5rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        &#lite {
+            background: $red_sub;
+            a.btn {
+                background: $red;
+                background-color: $red;
+                border-color: $red;
+            }
         }
         &#brand {
             background: $yellow_sub;
@@ -135,18 +147,18 @@
             }
         }
         &#business {
-            background: $red_sub;
+            background: #F8F8F8;
             a.btn {
-                background: $red;
-                background-color: $red;
-                border-color: $red;
+                border: none !important;
+                padding-top: 1.15rem;
+                padding-bottom: 1.225rem;
             }
         }
         h2 {
             font-weight: 400;
         }
         .monthly-price, .yearly-price {
-            font-weight: 500    ;
+            font-weight: 500;
             display: none;
         }
         p.title {
@@ -154,10 +166,6 @@
         }
         p.description {
             color: $dark_sub;
-            margin-bottom: 34rem;
-            @include breakpoint(md) {
-                margin-bottom: 34rem;
-            }
             span {
                 font-weight: bold;
             }
@@ -170,19 +178,12 @@
         div.features {
             border-top: 1px solid $dark;
             padding-top: 1rem;
-            position: absolute;
-            bottom: 2rem;
-            left: 1.6rem;
-            right: 1.6rem;
-            @include breakpoint(md) {
-                bottom: 2.5rem;
-                left: 2.5rem;
-                right: 2.5rem;
-            }
             p {
                 margin-left: 5px;
                 position: relative;
                 cursor: pointer;
+                margin-top: 1rem;
+                margin-bottom: 1rem;
                 svg.icon--check, svg.icon--close {
                     position: absolute;
                     left: -32px;
@@ -234,6 +235,12 @@
                         opacity: 1;
                     }
                     .tooltip {
+                        display: block;
+                    }
+                }
+                &.empty {
+                    display: none;
+                    @include breakpoint(sm) {
                         display: block;
                     }
                 }
