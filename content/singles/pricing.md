@@ -3,26 +3,26 @@ title: Plans & Pricing | inBeat
 description: Flexible plans for different needs. No contracts and no hidden fees.
 slug: pricing
 layout: pricing
-# teasertrial:
-#   title: Take it for a spin
-#   description: Get a feel for the platform with our Teaser Plan. No credit card required. No trial period.
-#   cta:
-#     text: >-
-#       <span>Try it for free</span> &#8212 No credit card
-#     link: https://app.inbeat.co/get-started
-#   features:
-#     - has: true
-#       text: <span>Free</span> Forever
-#     - has: false
-#       text: <span>No</span> Contact Exports
-#     - has: false
-#       text: <span>Limited</span> Database Access
-#     - has: true
-#       text: <span>Single</span> campaign
-#     - has: true
-#       text: <span>E-mail</span> Support
-#     - has: false
-#       text: <span>Restricted</span> Search 
+teasertrial:
+  title: Take it for a spin
+  description: Get a feel for the platform with our Teaser Plan. No credit card required. No trial period.
+  cta:
+    text: >-
+      <span>Try it for free</span> &#8212 No credit card
+    link: https://app.inbeat.co/get-started
+  features:
+    - has: true
+      text: <span>Free</span> Forever
+    - has: true
+      text: <span>Instagram</span> and <span>TikTok</span>
+    - has: false
+      text: <span>No</span> Contact Exports
+    - has: true
+      text: <span>Single</span> campaign
+    - has: true
+      text: <span>E-mail</span> Support
+    - has: false
+      text: <span>Limited</span> Database Access
 plans:
   - contacts: 100
     campaigns: 1
