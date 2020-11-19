@@ -84,19 +84,20 @@
                         </span>
                     </p>
                     <p>
+                        <strong>{{ .filters }}</strong> Search Filters
+                        {{- partial "icons/info.html" -}}
+                        <span class="tooltip">
+                            Filter profiles by engagement rate, number of followers, location
+                            and many more.
+                        </span>
+                    </p>
+                    <p>
                         <strong>{{- .contacts -}}</strong> Contact Exports <span class="small">/ month</span>
                         {{- partial "icons/info.html" -}}
                         <span class="tooltip">
                             Export all available info (e-mail, handle, URL, etc.).
                             Profiles without e-mail don’t use an export.
                             Unused exports won't rollover to the following month.
-                        </span>
-                    </p>
-                    <p>
-                        <strong>{{- .accounts -}}</strong> Client Account{{- if gt .accounts 1 -}}s{{- end -}}
-                        {{- partial "icons/info.html" -}}
-                        <span class="tooltip">
-                            Assign campaigns to client accounts you manage.
                         </span>
                     </p>
                     <p>
@@ -107,6 +108,17 @@
                             Once you're satisfied, export the campaign and create a new one.
                         </span>
                     </p>
+                    {{- if gt .accounts 1 -}}
+                    <p>
+                        <strong>{{- .accounts -}}</strong> Client Accounts
+                        {{- partial "icons/info.html" -}}
+                        <span class="tooltip">
+                            Assign campaigns to client accounts you manage.
+                        </span>
+                    </p>
+                    {{- else -}}
+                    <p class="empty">&nbsp;</p>
+                    {{- end -}}
                     {{- if .bulk -}}
                     <p>
                         <strong>Bulk</strong> Selection

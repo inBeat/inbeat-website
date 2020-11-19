@@ -18,16 +18,17 @@ teasertrial:
     - has: false
       text: <span>No</span> Contact Exports
     - has: true
-      text: <span>Single</span> campaign
+      text: <span>2</span> campaigns
     - has: true
       text: <span>E-mail</span> Support
     - has: false
       text: <span>Limited</span> Database Access
 plans:
   - contacts: 100
-    campaigns: 1
+    campaigns: 2
     accounts: 1
     monthly: 35
+    filters: All
     title: Lite
     yearly: 23
     suggested: false
@@ -39,17 +40,19 @@ plans:
     campaigns: 2
     accounts: 2
     monthly: 80
+    filters: All
     title: Brand
     yearly: 54
     suggested: false
     collected: 0
     bulk: true
     description: >-
-      Ideal for brand or consultant wanting to <span>scale</span> their influencer marketing through mass e-mail outreach.
+      Ideal for brands or consultants wanting to <span>scale</span> their influencer marketing through mass e-mail outreach.
   - contacts: 2000
     campaigns: 7
     accounts: 5
     monthly: 200
+    filters: All
     title: Agency
     yearly: 134
     suggested: true
@@ -61,6 +64,7 @@ plans:
     campaigns: 30
     accounts: 20
     monthly: 400
+    filters: All
     title: Business
     yearly: 267
     suggested: true
